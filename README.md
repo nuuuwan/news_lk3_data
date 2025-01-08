@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 17:28:08**
+As of **2025-01-08 17:45:53**
 
 ## Newspaper Stats
 
-*Scraped **64,372** Articles*
+*Scraped **64,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,162
-adaderanalk | 7,884
+adaderanalk | 7,887
 tamilmirrorlk | 9,240
 virakesarilk | 10,741
-adaderanasinhalalk | 11,118
+adaderanasinhalalk | 11,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,372 articles have been extended.
+61,971 (96.3%) of 64,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### බස් රථවල අනවශ්‍ය උපාංග ඉවත් කිරීමට මාස 3ක්‍
+
+*2025-01-08 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205178) · `si`
+
+බස් රථවල අනවශ්‍ය අමතර උපාංග ඉවත් කිරීමට පෞද්ගලික බස් හිමියන්ට මාස තුනක කාලයක් ලබාදීමට තීරණය කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි බුද්ධික මනතුංග පැවසීය.
+
+පෞද්ගලික බස් රථ හිමියන්ගේ සංගම් සහ වැඩබලන පොලිස්පතිවරයා අතර අද (8) පැවැත් වූ සාකච්ඡාවේදී මෙම තීරණයට පැමිණි බව හෙතෙම පවසයි.
+
+◼️
+
+[Data](articles/07c37dcc.json)
+
+---
 
 ### 11 டொல்பின்கள் உயிரிழந்த நிலையில்  மீட்பு
 
@@ -49,6 +63,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/44dc591a.json)
+
+---
+
+### Bus strike called off after talks with police chief
+
+*2025-01-08 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104832/bus-strike-called-off-after-talks-with-police-chief) · `en`
+
+The bus associations have decided to call off their island-wide strike following successful discussions with the Acting IGP.
+
+This decision was reached after a successful discussion held today (08) between the private bus associations and the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, regarding traffic operations linked to the ‘Clean Sri Lanka’ national initiative.
+
+As a result, the bus associations have decided to call off their planned island-wide strike.
+
+Earlier, the bus associations had decided yesterday (07) to launch an island-wide strike to protest against the police department’s excessive and unnecessary pressure on passenger transport bus operators.
+
+In this context, representatives from the bus associations held a discussion with the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, at the Police Headquarters this morning (08).
+
+...
+
+[Data](articles/e7c0568f.json)
+
+---
+
+### දුම්රිය වර්ජනයක් ගැන අනතුරු ඇඟවීමක්
+
+*2025-01-08 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205177) · `si`
+
+ශ්‍රේණි උසස්වීම් ක්‍රමවේදය සහ තවත් ගැටලු කිහිපයක් මූලික කරගනිමින්, ඊට අදාළ විසඳුම් ඉදිරි දින 14 ඇතුළත ලබා නොදෙන්නේ නම් වෘත්තීය සමිති ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කළ බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+
+◼️
+
+[Data](articles/0272ab8a.json)
+
+---
+
+### IGP orders probe into over 1,000 candidates over election expenditure violations
+
+*2025-01-08 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104831/igp-orders-probe-into-over-1000-candidates-over-election-expenditure-violations) · `en`
+
+Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
+
+IGP orders probe into over 1,000 candidates over election expenditure violations
+
+Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
+
+Under the Election Expenditure Regulation Act, No. 03 of 2023, all political parties, independent groups, or candidates are required to submit their financial reports to the District Returning Officers within 21 days of the election results being announced.
+
+...
+
+[Data](articles/7d23ed99.json)
 
 ---
 
@@ -74,7 +138,45 @@ Analysts say more investors are shifting their money to stocks from fixed-income
 
 ---
 
-### උද්ධමනය ගැන මහ බැංකු අධිපතිගෙන් සුබ ආරංචියක්
+### ආදයම් වියදම් වාර්තා නොදුන් අපේක්ෂකයින්ට නීතිය ක්‍රියාත්මක කිරීමට උපදෙස්
+
+*2025-01-08 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205175) · `si`
+
+2024 මහ මැතිවරණය හා අනුගත මැතිවරණයන්හි ආදයම් වියදම් වාර්තා භාර නොදුන් අපේක්ෂකයින් සම්බන්ධයෙන් නෛතික කටයුතු ආරම්භ කිරීම සඳහා වැඩබලන පොලිස්පතිවරයා විසින් උපදෙස් ලබාදී ඇත.
+
+ආදයම් වියදම් වාර්තාභාර දීමට මෙතෙක් ක්‍රියා නොකළ අපේක්ෂකයින් 1042කගේ සහ පක්ෂ ලේකම්වරු මෙන්ම ස්වාධීන කණ්ඩායම් නායකයන් 197 දෙනෙකු සම්බන්ධයෙන් විස්තර වාර්තාවක් මේ වනවිට මැතිවරණ කොමිෂන් සභාව විසින් වැඩබලන පොලිස්පතිවරයා වෙත යොමු කර තිබේ.
+
+මෙම වගඋත්තරකරුවන්ට, අදාළ මැතිවරණ කොට්ඨාසවලට අයත් පොලිස් කොට්ඨාසයන්හි, කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශ මගින් නියෝජ්‍ය පොලිස්පති නීති දිසාවගේ අධීක්ෂණය යටතේ මෙම විමර්ශන ආරම්භ කරනු ලබයි.
+
+ඒ අනුව කොට්ඨාස භාර නිලධාරීන් විසින් 2025.01.31 වන දිනට ප්‍රථම එකී විමර්ශනවලට අදාළ උධෘත සකස් කොට නීතිපති උපදෙස් ලබා ගැනීමට වැඩබලන පොලිස්පතිවරයා විසින් සියළුම ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්, නියෝජ්‍ය පොලිස්පතිවරුන් හා කොට්ඨාස භාර නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+...
+
+[Data](articles/59e850a0.json)
+
+---
+
+### විල්පත්තුවෙන් මියගිය ඩොල්ෆින් මසුන්ගේ සිරුරු හමුවෙයි
+
+*2025-01-08 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205174) · `si`
+
+මියගිය ඩොල්ෆින් මසුන් කිහිපදෙනෙකුගේ සිරුරු විල්පත්තු ජාතික උද්‍යාන මුහුදු සීමාවේ කොල්ලන් කනත්ත ප්‍රදේශයේ වෙරළට ගොඩගසා ඇති බවට මොල්ලිකුලම අඩවි ආරක්ෂක කාර්යාලයට ලද තොරතුරක් මත වනජීවී නිලධාරීන් පරීක්ෂණයක් ආරම්භ කර තිබේ.
+
+පසුව, අනුරාධපුර වනජීවී පශු වෛද්‍ය කාර්යාලයේ චන්දන ජයසිංහ මහතා සහ ඩබ්. එල්. යූ. මධුවන්ති යන වනජීවී පශු වෛද්‍යවරු විසින් මසුන්ගේ මරණ පරීක්ෂණය සිදුකර ඇත.
+
+එහි මියගිය ඩොල්ෆින් මසුන් 11 දෙනෙකු සිට ඇති අතර මසුන්ගේ සිරුරු පරික්ෂා කිරීමෙන් පසු වෛද්‍යවරු අනුමාන කර ඇත්තේ මෙම සතුන් දැලක පැටලී මියගොස් වෙරළට ගොඩගසා ඇති බවටය.
+
+අදාළ තොරතුරු ඊයේ (07) පුත්තලම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+
+කෙසේවෙතත් එය වැඩිදුරටත් සනාථ කරගැනීම සඳහා වාර්තාවක් ලබාගැනීමට සතුන්ගෙන් ලබාගත් සිරුරු කොටස් පේරාදෙණිය පශු වෛද්‍ය පීඨය වෙත යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/c6f36612.json)
+
+---
+
+### උද්ධමනය ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
 
 *2025-01-08 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205173) · `si`
 
@@ -172,21 +274,39 @@ Similarly, the Department of Government Information will sign with Xinhua News A
 
 ---
 
+### Sri Lanka’s central bank to focus on stronger crisis recovery in 2025
+
+*2025-01-08 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104830/sri-lankas-central-bank-to-focus-on-stronger-crisis-recovery-in-2025) · `en`
+
+Sri Lanka will focus on stronger recovery this year after the island nation posted real GDP growth of 5% in 2024, the highest in seven years, its central bank chief said on Wednesday, hoping to accelerate a rebound from its worst financial crisis in decades.
+
+Sri Lanka’s economy crumpled under a severe foreign exchange crisis in 2022, but has posted a faster than expected rally after it secured a $2.9 billion International Monetary Fund (IMF) program in March 2023 and completed a $25 billion debt restructuring in December.
+
+The economy grew 5.2% in the first nine months of 2024, outstripping the 3% estimate by the Central Bank of Sri Lanka (CBSL), Governor P. Nandalal Weerasinghe said.
+
+“Achieving a transformative acceleration in growth trajectory is essential to catch up and enhance the growth potential. This would also help enhance the debt-carrying capacity of the country,” he said at an annual policy agenda launch.
+
+...
+
+[Data](articles/11d89afc.json)
+
+---
+
 ### බොරතෙල් මිල ඉහළට
 
 *2025-01-08 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205171) · `si`
 
-ඒ රුසියාව සහ ඔපෙක් සාමාජික රටවල් සිය සැපයුම් සීමා කිරීම හේතුවෙනි.
+රුසියාව සහ ඔපෙක් සාමාජික රටවල් සිය සැපයුම් සීමා කිරීම ඊට එක් හේතුවක් ලෙස සඳහන්ය.
 
-ඒ අනුව බ්‍රෙන්ට් බොරතෙල් බැරලයක මිල ඩොලර් 77.37 දක්වා ද වෙස්ට් ටෙක්සාස් බොරතෙල් බැරලයක මිල ඩොලර් 74.67ක් දක්වා ද ඉහළගොස් තිබුණි.
+ඒ අනුව බ්‍රෙන්ට් බොරතෙල් බැරලයක මිල සියයට 0.42කින් ඩොලර් 77.37 දක්වා ද වෙස්ට් ටෙක්සාස් බොරතෙල් බැරලයක මිල සියයට 0.57කින් ඩොලර් 74.67ක් දක්වා ද වැඩි වී තිබුණි.
 
-ඔපෙක් රටවල් පසුගිය දෙසැම්බර් මාසයේදී සිය නිෂ්පාදන ධාරිතාව අඩුකළ අතර, පසුගිය මාසයේදී
+මාස දෙකකට පසුව පසුගිය දෙසැම්බර් මාසයේදී ඔපෙක් රටවල් සිය නිෂ්පාදන ධාරිතාව අඩුකර තිබූ බව සඳහන්ය.
 
-රුසියාව ද දෛනික බොරතෙල් නිෂ්පාදනය බැරල් මිලියන 8.971 දක්වා පහත දැමීමට පියවර ගත්තේය.
+මේ අතර දෙසැම්බර් මාසයේදී රුසියාවේ දෛනික බොරතෙල් නිෂ්පාදනය බැරල් මිලියන 8.971 ලෙස දැක්වුණි.
 
-ඒ අනුව ඒ මාසයේදි එරට දෛනික බොරතෙල් නිෂ්පාදන ධාරිතාව දැක්වුණේ බැරල් මිලියන 9.5ක් ලෙසින්ය.
+එය එරට දෛනික බොරතෙල් නිෂ්පාදන ධාරිතාව වන බැරල් මිලියන 9.5ට වඩා අඩු අගයකි.
 
-එවන් පසුබිමක විෂයේ ප්‍රවිණයන් පුරෝකතනය කරන්නේ, 2025 වසරේදී බොරතෙල් බැරලයක මිල ඩොලර් 76ක් දක්වා පහළ යාමේ අවස්ථාවක් ද පවතින බවය.
+මේ අතර වෙළෙඳපොළ ආරංචිමාර්ග සඳහන් කරන්නේ 2024 වසරේදී බොරතෙල් බැරලයක සාමාන්‍ය මිල සඳහන් වූයේ ඩොලර් 80ක් වශයෙනි.
 
 ◼️
 
@@ -1677,137 +1797,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/688b6bb0.json)
-
----
-
-### Sri Lanka forex reserves down for third month
-
-*2025-01-08 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-down-for-third-month-198543/) · `en`
-
-ECONOMYNEXT – Sri Lanka has ended 2024 with gross official reserves of 6,091 million US dollars down 360 million US dollars from a month earlier, official data show.
-
-Gross official reserves are made up of both monetary and fiscal reserves in the Treasury, which usually come from foreign loans and grants.
-
-Central bank Governor Nandalal Weerasinghe has said year-end reserved dipped due to year end debt repayments.
-
-Sri Lanka’s official reserves are still up by 1.6 billion dollars in 2024.
-
-In order to collect monetary reserves, the central bank has to run deflationary policy at an appropriate interest rate.
-
-Under flexible inflation targeting, promoted by the International Monetary Fund, reserve collecting central banks are encouraged to print money through open market operations based on historical 12-month inflation, disregarding the balance of payments, leading to recurring currency crises.
-
-A single policy rate, which distorts inter banks markets will worsen the problem, analysts have warned.
-
-...
-
-[Data](articles/bed2ca3c.json)
-
----
-
-### Sri Lanka Cabinet opts to rent two tug vessels after procurement failures
-
-*2025-01-08 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-opts-to-rent-two-tug-vessels-after-procurement-failures-198542/) · `en`
-
-ECONOMYNEXT – Sri Lanka Cabinet of Ministers opted to rent two tug vessels on rental basis for the Sri Lanka Ports Authority (SLPA) for the operation of Colombo Ports, after failing to complete the previous two  procurement processes, an official document said.
-
-Former President Ranil Wickremesinghe’s government in 2022 invited international competitive bids to procure an 80 ton bollard pull tug vessel for the SLPA for the operation of Colombo Ports.
-
-Though the lowest bidder out of four bids was recommended by the cabinet-appointed procurement committee, the procurement process was discontinued due to the disagreement with the supplier after cost escalation following the imposition of the Value Added Tax Act from January 2024, the government document on this week’s Cabinet decision said.
-
-Later the government attempted to rent two vessels of the 80 ton bollard pull tug, but the lowest bidder disagreed to provide the considerable price deduction during negotiation, it said.
-
-...
-
-[Data](articles/f7fde979.json)
-
----
-
-### ජයිකා උප සභාපති සහ අගමැතිනිය අතර හමුවක්
-
-*2025-01-08 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205150) · `si`
-
-ජපාන ජාත්‍යන්තර සහයෝගිතා නියෝජිතායතනය හෙවත් ජයිකා ආයතනයේ ජ්‍යෙෂ්ඨ උප සභාපති ෂෝහෙයි හාරා මහතා සහ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අතර හමුවක් සිදුව තිබේ.
-
-පාර්ලිමේන්තුවේ පැවති මෙම හමුවේදී මෙරට සංවර්ධන ප්‍රමුඛතා සඳහා ජයිකා ආයතනයේ සහාය ලබාදීම සම්බන්ධයෙන් සාකච්ඡා වූ බව අග්‍රාමාත්‍ය මාධ්‍ය අංශය සඳහන් කළේය.
-
-ණය ප්‍රතිව්‍යුහගත කිරීම, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපළ පුළුල් කිරීමේ ව්‍යාපෘතිය නිම කිරීම සහ දෙරට අතර සහයෝගීතාව වැඩිදියුණු කිරීමේ කටයුතු සම්බන්ධයෙන්ද මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡා කර තිබේ.
-
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය ශ්‍රී ලංකාවට ජපානයෙන් ලබාදෙන සහයෝගය පිළිබඳව මෙහිදී සිය ප්‍රසාදය පළ කළ බව අග්‍රාමාත්‍ය මාධ්‍ය අංශය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/484f6c26.json)
-
----
-
-### Sri Lanka’s gem industry eyes 2025 boom
-
-*2025-01-08 06:39:59* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-gem-industry-eyes-2025-boom/34-771562) · `en`
-
-Rising recognition of Sri Lanka’s coloured gems, particularly teal, pink and blue sapphires
-
-Despite having faced challenges like global recessions and rising costs in the past few years, Sri Lanka’s gem industry remains optimistic about 2025, finding opportunities through exports, tourism and digital platforms to regain its prominence in the world market.
-
-FACETS Sri Lanka 2025 Gem and Jewellery exhibition was held from 4 to 6 January, attracting industry leaders, professionals, buyers and enthusiasts from around the globe as the event showcased the finest gems and craftsmanship the country had to offer. Daily FT spoke to exhibitors and key stakeholders to understand their views on the current state of the industry.
-
-The business leaders shared that despite challenges and drawbacks in recent years, the market was gradually regaining momentum.
-
-...
-
-[Data](articles/7ba15b9b.json)
-
----
-
-### Sri Lanka participates in World Furniture Expo 2024 in Mumbai
-
-*2025-01-08 06:37:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-in-World-Furniture-Expo-2024-in-Mumbai/34-771561) · `en`
-
-The Consulate General of Sri Lanka in Mumbai facilitated the participation of Sri Lanka in the World Furniture Expo (WOFX) 2024 from 5 to 7 December 2024 at the Bombay Exhibition Centre.
-
-Acting Consul General of Sri Lanka in Mumbai Shirani Ariyarathne attended the event as one of the special guests of the opening ceremony of the Expo.
-
-The WOFX is an international furniture and design expo, showcasing the global and domestic furniture industry. Over 200 exhibitors from India and other countries showcased their latest contemporary and luxury furniture collections.
-
-Acting Consul General Ariyarathne participated in the inaugural ceremony and a VIP tour which provided an exclusive overview of the exhibits. She engaged in discussions with prominent importers and exporters, trade body representatives, and industry experts.
-
-...
-
-[Data](articles/8e3dd1de.json)
-
----
-
-### උතුරු - නැගෙනහිර ඇතුළු ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-01-08 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205148) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-සබරගමුව පළාතෙත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වලත් කුරුණෑගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/8fcf26db.json)
-
----
-
-### SLT-Mobitel completes historic SEA-ME-WE 6 submarine cable landing in Matara
-
-*2025-01-08 06:18:31* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-completes-historic-SEA-ME-WE-6-submarine-cable-landing-in-Matara/34-771550) · `en`
-
-SLT-Mobitel said yesterday it has successfully landed the SEA-ME-WE 6 (Southeast Asia-Middle East-Western Europe 6) submarine cable in Matara, on 29 December 2024, achieving a historic breakthrough in Sri Lanka’s telecommunications infrastructure.
-
-The cable system will be in commercial operation by mid-2026, it added.
-
-The Matara landing was completed in collaboration with Subcom LLC, USA, and under an agreement with SEA-ME-WE 6 Consortium including Sri Lanka Telecom PLC, as the legal signatory to the consortium, further strengthening Sri Lanka’s position in global connectivity.
-
-The landing operation was overseen by key SLT-Mobitel officials including SLT Chief Operating Officer Prabhath Ambegoda, General Manager – Projects Nalaka Siriwardhana, General Manager – Transport Networks Buddhi Manage, and Deputy General Manager – Network Infrastructure Projects Rohan Ashton and the SLT Operational Team.
-
-...
-
-[Data](articles/e7090692.json)
 
 ---

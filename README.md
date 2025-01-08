@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 23:28:46**
+As of **2025-01-08 23:44:29**
 
 ## Newspaper Stats
 
-*Scraped **64,414** Articles*
+*Scraped **64,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
-economynextcom | 3,921
+economynextcom | 3,925
 islandlk | 3,930
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,169
+adalk | 6,170
 adaderanalk | 7,891
 tamilmirrorlk | 9,242
 virakesarilk | 10,757
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,414 articles have been extended.
+61,972 (96.2%) of 64,419 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -386,6 +386,52 @@ Firefighters has not contained the blaze by the early hours and Governor Gavin N
 
 ---
 
+### Sri Lanka central bank to “provide certainty” on liquidity with new OMO
+
+*2025-01-08 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-provide-certainty-on-liquidity-with-new-omo-198652/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank will revise its current open market operations system to inject liquidity into banks to “effectively” implement the “monetary policy” under the single policy interest rate mechanism, according its 2025 policy agenda.
+
+The central bank is currently barred by law from printing money through direct market operations to create forex shortages and external instability but under ‘instrument independence’ it is free to inject money through other means.
+
+The central bank recently announced a single policy rate, similar to the ‘Monetary Policy Rate’ adopted earlier by defaulting African nations and Argentina, dropping the corridor system which puts more onus to banks to manage their liquidity without depending on printed money from the central bank.
+
+The ceiling rate tends to serve as a penalty, above market ‘lender of last resort’ rate rather than the ‘first resort’ rate of ‘assured’ liquidity, critics say.
+
+...
+
+[Data](articles/09acf90b.json)
+
+---
+
+### Sri Lanka rupee closes stronger, bond yields down
+
+*2025-01-08 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-down-198672/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 295.05/15 to the US dollar in the spot market Wednesday, dealers said while bond yields fell.
+
+The spot US dollar was quoted wide in intra-day trade at 296/297 rupee in early trade reflecting some uncertainty, dealers said. There was also some forward booking from importers.
+
+A bond maturing on 15.12.2026 closed at 9.40/45 percent down from 9.50/60 percent.
+
+A bond maturing on 15.10.2027 closed at 9.75/85 percent from 9.80/95 percent.
+
+A bond maturing on 15.02.2028 closed at 10.10/18 percent down from 10.17/25 percent.
+
+A bond maturing on 15.10.2028 closed at 10.45/52 percent, down from 10.45/55 percent.
+
+A bond maturing on 01.05.2028 closed at 10.30/33 percent, down from 10.35/42 percent.
+
+A bond maturing on 15.09.2029 closed at 10.75/82 percent down from 10.75/85 percent.
+
+A bond maturing on 15.05.2030 closed at 11.00/15 percent, unchanged. (Colombo/Jan08/2025)
+
+◼️
+
+[Data](articles/8f49971b.json)
+
+---
+
 ### බස් වර්ජනයක් නෑ
 
 *2025-01-08 18:13:59* · [`adalk`](https://www.ada.lk/breaking_news/බස්-වර්ජනයක්-නෑ/11-414103) · `si`
@@ -403,6 +449,22 @@ Firefighters has not contained the blaze by the early hours and Governor Gavin N
 ◼️
 
 [Data](articles/429618ce.json)
+
+---
+
+### පාස්කු දා ප්‍රහාරයේ සැකකරුවෙක් පාපොච්ඡාරණය කරයි
+
+*2025-01-08 18:05:51* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-දා-ප්‍රහාරයේ-සැකකරුවෙක්-පාපොච්ඡාරණය-කරයි/11-414101) · `si`
+
+පාස්කු දා මෙරට කතෝලික පල්ලි සහ තරු හෝටල් ඉලක්ක කර එල්ල කළ ප්‍රහාරයට ආධාර අනුබල දුන්නේ යැයි කියමින් සැකපිට අත්අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන සැකකරුවෙකු එම ප්‍රහාරයට අදාළ සිද්ධීන් සම්බන්ධයෙන් කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා හමුවේ වසර ගණනාවකට පසු පැයක පමණ කාලයක් පුරා පාපොච්චාරණය කළේය.
+
+අල් කයිඩා හා අයි,එස්, අයි.එස් ත්‍රස්ත සංවිධාන වල සාමාජිකයෙකු වෙමින් සිරියාවේදී විශේෂ අවි පුහුණුවක් හා ත්‍රස්ත සංවිධානයන් ලොව පුරා භාවිතා කරන රහස්‍ය පණිවිඩ හුවමාරුවන් කෙරෙන අන්තර්ජාල යෙදවුමකට සම්බන්ධ බව කියන අල් කයිඩා සහ අයි.එස්.අයි.එස්. අන්තවාදී ත්‍රස්ත සංවිධාන මෙරට ව්‍යාප්ත කිරීමට දායක වු බව කියන මොහොමුදු  නිලාබ්දීන් මොහොමඩ් රිම්සාන් නමැති සැකකරු වසර ගණනාවකට පසු මෙලෙස පාපොච්චාරණය කළේය.
+
+ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාශයේ නිලධාරින් විසින් පාස්කු දා එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන සැකකරු අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතතුරුව සැකකරු පැයක පමණ කාලයක් පුරා මෙලස රහස් ප්‍රකාශයක් දුන්නේය.
+
+...
+
+[Data](articles/ca2c5965.json)
 
 ---
 
@@ -661,6 +723,26 @@ In this context, representatives from the bus associations held a discussion wit
 ◼️
 
 [Data](articles/5e591e62.json)
+
+---
+
+### Sri Lanka Treasuries yields down across maturities
+
+*2025-01-08 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-across-maturities-198627/) · `en`
+
+ECONOMYNEXT – Sri Lanka sold 102 billion rupees of Treasury bills with yields falling across maturities, data from the state debt office showed.
+
+All offered 30 billion rupees of 3-month bills were sold at 8.47 percent down 08 basis points.
+
+All offered 30 billion rupees of 6-month bills were sold at 8.60 percent, down 12 basis points.
+
+All offered 42 billion rupees of 12-month bills were sold at 8.90 percent, down 04 basis points.
+
+All maturities are available on tap at the weighted average yield. (Colombo/Jan08/2025)
+
+◼️
+
+[Data](articles/acad7b52.json)
 
 ---
 
@@ -1296,6 +1378,26 @@ The boundary is the world’s longest between two countries and it was establish
 
 ### Sri Lanka’s 2024 GDP growth hits 7-year high of 5-pct amid deflation
 
+*2025-01-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-gdp-growth-hits-7-year-high-of-5-pct-amid-deflation-198582/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s economy is estimated to have expanded by 5 percent last year and recorded the highest growth since 2017, the Central Bank Governor Nandalal Weerasinghe said.
+
+Announcing the policy agenda for 2025 and beyond he said leading economic indicators of industry and service sectors reflect a continuation of the expansion in output in the last quarter of 2024 as well.
+
+“Accordingly, real GDP is projected to have grown by around 5 percent in 2024, registering the highest annual growth since 2017,” Weerasinghe told the policy launching event in Colombo.
+
+“This higher than-expected growth also provides evidence that deflation in recent months was not due to demand factors but mainly due to supply-side factors, including administrative price adjustments.”
+
+The island nation’s economy has been recovering from its worst crisis in 2022.
+
+...
+
+[Data](articles/5b59d961.json)
+
+---
+
+### Sri Lanka’s 2024 GDP growth hits 7-year high of 5-pct amid deflation
+
 *2025-01-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-gdp-growth-hits-7-year-high-of-5-pct-198582/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s economy is estimated to have expanded by 5 percent last year and recorded the highest growth since 2017, the Central Bank Governor Nandalal Weerasinghe said.
@@ -1783,93 +1885,5 @@ Prime Minister further explained that the purpose of this debate is to help the 
 ...
 
 [Data](articles/bbc2453c.json)
-
----
-
-### Sri Lankan insurers to tackle profitability pressure with key shifts - Fitch
-
-*2025-01-08 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104823/sri-lankan-insurers-to-tackle-profitability-pressure-with-key-shifts-fitch) · `en`
-
-Underwriting profitability for Sri Lankan non-life insurers will gradually improve as they enhance practices and shift focus to more profitable non-motor segments, Fitch Ratings says in a new report.
-
-This shift includes adjusting policy pricing, particularly for motor and medical insurance, to better cope with inflation and rising claim costs.
-
-Motor insurance profitability faces challenges due to regulatory changes requiring full premium remittance to the National Insurance Trust Fund Board.
-
-Non-life insurers have also been diversifying into non-motor segments such as health insurance due to prolonged import restrictions on motor vehicles.
-
-This diversification led to an 11% increase in non-motor gross premiums in 2023.
-
-Fitch believes that investment and liquidity risks have decreased following the upgrade of Sri Lanka’s sovereign rating in December 2024.
-
-...
-
-[Data](articles/6e8930d6.json)
-
----
-
-### Clean Sri Lanka ගැන දෙදින පාර්ලිමේන්තු විවාදයක්
-
-*2025-01-08 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205160) · `si`
-
-Clean Sri Lanka වැඩසටහන පිළිබඳව දින දෙකක පාර්ලිමේන්තු විවාදයක් පැවැත්වීමට තීරණය කර තිබේ.
-
-Clean Sri Lanka වැඩසටහන පිළිබඳ ඇතිව තිබෙන සංවාදය හේතුවෙන් ජනතාවට ඒ ගැන අවබෝධයක් ලබා ගැනීම සඳහා මෙම විවාදය පවත්වන බව බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය සඳහන් කළාය.
-
-◼️
-
-[Data](articles/5b3bfe5b.json)
-
----
-
-### கல்கிசை பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேகநபர் ஒருவர் கைது!
-
-*2025-01-08 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203274) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட இரத்மலானை ரயில் நிலையத்திற்கு அருகில் நேற்று செவ்வாய்க்கிழமை (07) சுற்றிவளைப்பு  மேற்கொண்ட போது  ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 10 கிராம் 600 மில்லிகிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-மேலும், சந்தேகநபரை இன்று புதன்கிழமை (08) கல்கிசை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதுடன், கல்கிசை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/2ee0ac72.json)
-
----
-
-### Sri Lanka President urges withholding tax refund mechanism for retirees
-
-*2025-01-08 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-withholding-tax-refund-mechanism-for-retirees-198579/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Kumara Dissanayake has discussed the setting up a mechanism of refunding withholding tax from retirees who are not subject to income tax, a statement said.
-
-Sri Lanka is to raise withholding tax on bank deposit interest from 5 to 10 percent. Withholding tax can be set off against the final tax payment.
-
-Income tax thresholds will also be raised from next year, reducing the total tax liability for lower income segments.
-
-President Dissanayake had “highlighted the importance of establishing a mechanism to refund withholding taxes deducted from retirees who are not subject to income tax,” in a meeting with Finance Ministry officials, a statement from his media office said.
-
-“The President emphasized the need for a well-balanced approach to address these concerns, taking into account the country’s financial constraints and economic priorities,” the statement said.
-
-...
-
-[Data](articles/3d623aeb.json)
-
----
-
-### උණ්ඩියල් - හවාලා ක්‍රම ගැන හර්ෂගෙන් අලුත් යෝජනාවක්
-
-*2025-01-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205159) · `si`
-
-උණ්ඩියල් ක්‍රමය සහ හවාලා ක්‍රමය ශ්‍රී ලංකාව තුළ අනීතික නොවන බව රාජ්‍ය මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
-
-අද (08) පාර්ලිමේන්තුවේදී යෝජනා කිහිපයක් ඉදිරිපත් කරමින් ඒ මහතා මේ බව සඳහන් කළේය.
-
-"හවාලා සහ උණ්ඩියල් කියන ක්‍රමය අපේ රට තුළ අනීතික නැහැ. නමුත් එය කිසිම විදිහකට නියාමනය වෙන්නනේ නැහැ. ඒ නිසා යෝජනාවක් කරලා තියෙනවා  2024 ජුනි සිට 2025 මැයි කියන මාස 12 ඇතුළේ මේ හවලා සහ උණ්ඩියල් ක්‍රමයට මුදල්වල වටිනාකම අන්තර් ජාතිකව ගණුදෙනු කරන අය ලියාපදිංචි වෙන්න ඕනේ කියලා ඒ සම්බන්ධයෙන් තමයි යෝජනාව තියෙන්නේ. කාරක සභාව මේ පිළිබඳව මහ බැංකුවෙන් ඉල්ලා සිටියා ගැඹුරු සමාලෝචනයක් කරලා ඉදිරිපත් කරන්න කියලා වාර්තාවක්. එය සම්මතකරලා ඉදිරිපත් කරලා තියෙනවා පාර්ලිමේන්තුවට."
-
-◼️
-
-[Data](articles/06caee4e.json)
 
 ---

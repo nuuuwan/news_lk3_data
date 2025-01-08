@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 10:03:15**
+As of **2025-01-08 10:15:56**
 
 ## Newspaper Stats
 
-*Scraped **64,293** Articles*
+*Scraped **64,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,148
 adaderanalk | 7,871
-tamilmirrorlk | 9,223
+tamilmirrorlk | 9,224
 virakesarilk | 10,731
 adaderanasinhalalk | 11,102
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 11,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,293 articles have been extended.
+61,971 (96.4%) of 64,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### குருக்கள் மீது தாக்குதல்
+
+*2025-01-08 09:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மீது-தாக்குதல்/175-349962) · `ta`
+
+◼️
+
+[Data](articles/8ba1b039.json)
+
+---
 
 ### ලංකාව මුලින්ම පන්දු යවයි
 
@@ -1775,27 +1785,5 @@ At the Cabinet meeting held on Monday, President Dissanayake’s ruling National
 ...
 
 [Data](articles/b882f5b3.json)
-
----
-
-### Stray dog first to cross border as Romania, Bulgaria join Schengen Zone
-
-*2025-01-07 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104807/stray-dog-first-to-cross-border-as-romania-bulgaria-join-schengen-zone) · `en`
-
-When Bulgaria and Romania finally joined the Schengen Area, marking the end of border checks, a historic moment unfolded at the border. Officials gathered to celebrate the milestone, commemorating the first time crossings could happen freely between the two nations.
-
-But it wasn’t a dignitary or a vehicle that made the inaugural crossing—it was an unexpected traveller.
-
-A stray dog, seemingly unaware of the fanfare, trotted across the border as the checkpoint lifted, becoming the first to step into this new era of open movement.
-
-The moment, captured in a now-viral video, showed the dog casually making its way across while the assembled officials broke into applause and cheers.
-
-One user wrote, “I need this welcome every time I cross a border.” Another user quipped, “He shall be named King of Romania.”
-
-A third user commented, “The good boy knew what he was doing.” A fourth person added, “Most positive thing I’ve seen today.”
-
-...
-
-[Data](articles/c9faac20.json)
 
 ---

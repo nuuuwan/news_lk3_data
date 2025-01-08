@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 09:16:30**
+As of **2025-01-08 09:28:03**
 
 ## Newspaper Stats
 
-*Scraped **64,290** Articles*
+*Scraped **64,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
-economynextcom | 3,912
+economynextcom | 3,914
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,147
+adalk | 6,148
 adaderanalk | 7,871
 tamilmirrorlk | 9,223
 virakesarilk | 10,731
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,290 articles have been extended.
+61,971 (96.4%) of 64,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### ලංකාව මුලින්ම පන්දු යවයි
+
+*2025-01-08 08:59:57* · [`adalk`](https://www.ada.lk/sports/ලංකාව-මුලින්ම-පන්දු-යවයි/9-414080) · `si`
+
+සංචාරක ශ්‍රි ලංකා කණ්ඩායම හා සත්කාරක නවසීලන්ත කණ්ඩායම අතර පැවැත්විමට නියමිත දෙවැනි එක්දින තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රි ලංකා කණ්ඩායම මුලින්ම පන්දු යැවිමට තිරණය කළේය. තරගයට වර්ෂාවෙන් බාධා ඇතිවිම හේතුවෙන් තරගය පන්දුවාර 37කට සිමා කර තිබේ.
+
+තරගයේදී ශ්‍රි ලංකා කණ්ඩායම එක් වෙනසක් සිදුකර තිබේ. ඒ වේග පන්දු යවන ක්‍රිඩක ළහිරු කුමාර වෙනුවට මහීෂ් තික්ෂණ කණ්ඩායමට කැඳවිමයි.
+
+◼️
+
+[Data](articles/4b7d6a29.json)
+
+---
 
 ### 11 சிரேஷ்ட பொலிஸ் அத்தியட்சகர்கள் உடனடி இடமாற்றம்
 
@@ -277,6 +291,48 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/688b6bb0.json)
+
+---
+
+### Sri Lanka forex reserves down for third month
+
+*2025-01-08 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-down-for-third-month-198543/) · `en`
+
+ECONOMYNEXT – Sri Lanka has ended 2024 with gross official reserves of 6,091 million US dollars down 360 million US dollars from a month earlier, official data show.
+
+Gross official reserves are made up of both monetary and fiscal reserves in the Treasury, which usually come from foreign loans and grants.
+
+Central bank Governor Nandalal Weerasinghe has said year-end reserved dipped due to year end debt repayments.
+
+Sri Lanka’s official reserves are still up by 1.6 billion dollars in 2024.
+
+In order to collect monetary reserves, the central bank has to run deflationary policy at an appropriate interest rate.
+
+Under flexible inflation targeting, promoted by the International Monetary Fund, reserve collecting central banks are encouraged to print money through open market operations based on historical 12-month inflation, disregarding the balance of payments, leading to recurring currency crises.
+
+A single policy rate, which distorts inter banks markets will worsen the problem, analysts have warned.
+
+...
+
+[Data](articles/bed2ca3c.json)
+
+---
+
+### Sri Lanka Cabinet opts to rent two tug vessels after procurement failures
+
+*2025-01-08 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-opts-to-rent-two-tug-vessels-after-procurement-failures-198542/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cabinet of Ministers opted to rent two tug vessels on rental basis for the Sri Lanka Ports Authority (SLPA) for the operation of Colombo Ports, after failing to complete the previous two  procurement processes, an official document said.
+
+Former President Ranil Wickremesinghe’s government in 2022 invited international competitive bids to procure an 80 ton bollard pull tug vessel for the SLPA for the operation of Colombo Ports.
+
+Though the lowest bidder out of four bids was recommended by the cabinet-appointed procurement committee, the procurement process was discontinued due to the disagreement with the supplier after cost escalation following the imposition of the Value Added Tax Act from January 2024, the government document on this week’s Cabinet decision said.
+
+Later the government attempted to rent two vessels of the 80 ton bollard pull tug, but the lowest bidder disagreed to provide the considerable price deduction during negotiation, it said.
+
+...
+
+[Data](articles/f7fde979.json)
 
 ---
 
@@ -1741,59 +1797,5 @@ A third user commented, “The good boy knew what he was doing.” A fourth pers
 ...
 
 [Data](articles/c9faac20.json)
-
----
-
-### ජපානයෙන් ලංකාවට සුබ ආරංචියක්
-
-*2025-01-07 16:31:50* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සුබ-ආරංචියක්/11-414070) · `si`
-
-ශ්‍රී ලංකාවට ලබා දෙන මූල්‍ය සහ තාක්ෂණික සහාය අඛණ්ඩව ලබා දෙන බව ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA)  උප සභාපති හාරා ෂෝහෙයි (HARA Shohei) මහතා පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA) ජ්‍යෙෂ්ඨ උප සභාපති හාරා ෂෝහෙයි මහතා අතර ජනාධිපති කාර්යාලයේ අද (07) පැවති හමුවේදී මේ බව සඳහන් කෙරිණි.
-
-ජපාන ආධාර යටතේ ක්‍රියාත්මක කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ පර්යන්තයේ  සංවර්ධන කටයුතු පිළිබඳව ද මෙහිදී සාකච්ඡා කෙරිණි. ජයිකා ආධාර යටතේ  මෙරට ක්‍රියාත්මක සියලු ව්‍යාපෘති කඩිනමින් අවසන් කිරීමට සැලසුම් කර ඇති බව ද  සඳහන් විය.
-
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය ශ්‍රී ලංකාවට ලබා දුන් සහාය මෙන්ම ඉදිරියේදී ශ්‍රී ලංකාවට අවශ්‍ය මූල්‍ය ආධාර ලබාදීමට  ජයිකා සංවිධානය බලාපොරොත්තු වන බව හාරා ෂෝහෙයි මහතා වැඩිදුරටත් සඳහන් කළේය.
-
-මෙරට ක්‍රියාත්මක ප්‍රමුඛ ව්‍යාපෘතියක් වන  "Clean Sri Lanka"  වැඩසටහන පිළිබඳව සිය ප්‍රසාදය පළ කළ උප සභාපතිවරයා  එම ව්‍යාපෘතිය සඳහා අවශ්‍ය මූල්‍ය හා තාක්ෂණික සහාය ලබාදීමට සූදානම් බව පැවසීය.
-
-...
-
-[Data](articles/23212fad.json)
-
----
-
-### තවත් කොටසකට රු 6000ක දීමනාව ලැබෙයි
-
-*2025-01-07 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205136) · `si`
-
-සිසුන් 300ට අඩු සියලුම පාසල්වල, අස්වැසුම ප්‍රතිලාභය හිමි නොවන සිසුන්ට පාසල් උපකරණ ලබාගැනීම සඳහා වන රුපියල් 6,000ක දීමනාව ලබාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවී තිබේ.
-
-එමෙන්ම ළමා සංවර්ධන මධ්‍යස්ථානවල සිටින ළමුන්ට සහ පිරිවෙන්වල ඉගෙනුම ලබන ගිහි පැවිදි සිසුන් සඳහා ද එම දීමනාව ලබාදීමට තීරණය කර ඇත.
-
-අධ්‍යාපන අමාත්‍යවරයා ලෙස අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් ඉදිරිපත් කළ යෝජනාවට මෙලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවූ බව  කැබිනට් ප්‍රකාශන අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (07) පැවසීය.
-
-ඒ අනුව,  දිවයින පුරා පිහිටි සමස්ත පාසල් 10,096ක් අතුරින් ළමුන් සංඛ්‍යාව 300ට අඩු පාසල් 6,576ක අස්වැසුම ප්‍රතිලාභී නොවන පවුල්වල සියලුම ළමුන්ට, ළමා සංවර්ධන මධ්‍යස්ථානවල සිට පාසල් වෙත පැමිණෙන ළමුන්ට සහ පිරිවෙන්වල ඉගෙනුම ලබන ගිහි පැවිදි සිසුන්ට රුපියල් 6,000/- ක් බැගින් වූ ලිපිද්‍රව්‍ය දීමනාව හිමිවෙයි.
-
-◼️
-
-[Data](articles/b4aca85b.json)
-
----
-
-### කීරි සම්බා වී කිලෝ 119,699 ක් මෝල් හිමියන්ට විකිණීමට මණ්ඩලය සැරසෙයි
-
-*2025-01-07 16:10:34* · [`adalk`](https://www.ada.lk/breaking_news/කීරි-සම්බා-වී-කිලෝ-119-699-ක්-මෝල්-හිමියන්ට-විකිණීමට-මණ්ඩලය-සැරසෙයි/11-414068) · `si`
-
-2024 යල කන්නයේදී වී අලෙවි මණ්ඩලය විසින් මිලදී ගෙන අම්පාර ,පරගහකැලේ ගබඩාවේ එක්රැස් කර තිබූ කීරි සම්බා වර්ගයේ වී කිලෝග්‍රෑම් 119,699 ක තොගයක් ටෙන්ඩර් පදනමින් වී  මෝල් හිමියන්ට  විකිණීමට වී අලෙවි මණ්ඩලය සැරසෙයි.
-
-මේ සඳහා 2024 වසරේ වී අලෙවි මණ්ඩලයේ ලියා පදිංචි වී මෝල් හිමියන්ගෙන් ඊයේ ( 7) සිට මෙම මස 21 දක්වා වී අලෙවි මණ්ඩලයේ දෙපාර්තමේන්තු ප්‍රසම්පාදන කමිටුව මගින් මිල ගණන් කැඳවා ඇතැයි වී අලෙවි මණ්ඩලය පැවසීය .
-
-ඒ අනුව මෙම වී තොග මිලදී ගැනීමට ඉල්ලුම් කල හැක්කේ 2024 දී වී අලෙවි මණ්ඩලය යටතේ ලියා පදිංචි වී මෝල් හිමියන්ට පමණි.
-
-◼️
-
-[Data](articles/7578bd91.json)
 
 ---

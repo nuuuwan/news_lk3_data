@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 20:02:28**
+As of **2025-01-09 20:16:27**
 
 ## Newspaper Stats
 
-*Scraped **64,583** Articles*
+*Scraped **64,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,189
-adaderanalk | 7,907
-tamilmirrorlk | 9,268
-virakesarilk | 10,789
-adaderanasinhalalk | 11,152
+adalk | 6,190
+adaderanalk | 7,908
+tamilmirrorlk | 9,269
+virakesarilk | 10,792
+adaderanasinhalalk | 11,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,583 articles have been extended.
+61,973 (95.9%) of 64,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### உரத்தை இலவசமாக வழங்க நடவடிக்கை-பிரதமர்
+
+*2025-01-09 19:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரத்தை-இலவசமாக-வழங்க-நடவடிக்கை-பிரதமர்/175-350053) · `ta`
+
+பெரும்போகத்திற்கான உர மானியமாக 25000 ரூபா மற்றும் பொட்டாசியம் உரத்தை இலவசமாக வழங்க அரசாங்கம் நடவடிக்கை எடுத்து வருவதாக பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்துள்ளார்.
+
+விவசாயிகளுக்கென உர மானியத்தை வழங்க அரசாங்கம் முன்னெடுத்துள்ள வேலைத்திட்டம் தொடர்பில் ஜனவரி 8ஆம் திகதி பாராளுமன்ற விவாதத்தின் போது எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
+
+ஒவ்வொரு மாவட்டத்திற்குமென உர மானியத்தை வழங்குவதற்கான கால எல்லை 2024 ஒக்டோபர் முதலாம் திகதியிலிருந்து 2025 பெப்ரவரி முதலாம் திகதி வரையாகும். இதற்கென 25000 ரூபா உர மானியம், 15000 ரூபா மற்றும் 10000 ரூபா என்ற தவணை அடிப்படையில் இரு கட்டங்களாக வழங்க நடவடிக்கை எடுக்கப்படும். தற்போது 15000 ரூபா முதல் தவணை வழங்கப்பட்டுள்ளது. விவசாயிகளின் உரத் தேவையை பூர்த்தி செய்வதற்காக சாதகமான மற்றும் உரிய செயன்முறையை முன்னெடுப்பதற்கு எமது அரசு தேவையான நடவடிக்கைகளை எடுத்துள்ளது. இதற்கென விவசாய அமைப்புகளிடமிருந்து கருத்துக்களை கேட்டறியும் நடவடிக்கையும் இடம்பெறுவதாக பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்தார்.
+
+...
+
+[Data](articles/7bdaa120.json)
+
+---
+
+### வரவு செலவுத் திட்டத்தில் பெருந்தோட்ட மக்களின் சம்பளத்தை 2000 ரூபாவாக அதிகரியுங்கள் - மனோ கணேசன் வலியுறுத்தல்
+
+*2025-01-09 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/203441) · `ta`
+
+மலையக மக்களின் அடிப்படை பிரச்சினைகள் குறித்து ஜனாதிபதிக்கு புதிதாக குறிப்பிட வேண்டிய அவசியம் கிடையாது.கடந்த காலங்களில் மலையக மக்களுக்காக செயற்பட்டார். 2025 ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் பெருந்தோட்ட மக்களுக்கு 2000 ரூபா சம்பள அதிகரிப்பை வழங்க வேண்டும்.
+
+பெருந்தோட்டங்களை பிரதிநிதித்துவப்படுத்தும் சகல அரசியல் தரப்பினரும், தொழிற்சங்கங்களும் இந்த யோசனைக்கு ஒத்துழைப்பு வழங்க வேண்டும் என  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  மனோ கணேசன்  சபையில் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (9) நடைபெற்ற   வாழ்க்கைச் செலவு உயர்வு,  அத்தியாவசிய உணவு பொருட்கள் விலையேற்றம் உள்ளிட்ட விடயங்கள்  தொடர்பான   சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரசாங்கத்தின் 100 நாட்கள் செயற்பாடுகள் பற்றியும், ஏழ்மை, வறுமை, அத்தியாவசிய பொருட்களின் விலையேற்றம் பற்றி பல்வேறு கருத்துக்கள்  குறிப்பிடப்பட்டன. இலங்கை தீவுக்குள் பெருந்தோட்டம் என்றதொரு தீவு உள்ளதை அனைவரும் கருத்திற் கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/bc781fea.json)
+
+---
+
+### UNP - SJB  එක්කිරීමේ වගකීම රාජිත බාරගනියි
+
+*2025-01-09 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205215) · `si`
+
+එළැ⁣⁣ඹෙන පළාත් පාලන මැතිවරණයේ දී සමගි ජන බලවේගය සහ එක්සත් ජාතික පක්ෂය එකතු කිරීමේ වගකීම හිටපු අමාත්‍යවරයෙකු වන රාජිත සේනාරත්න මහතා ස්වේච්ඡාවෙන්ම භාරගෙන ඇති බව වාර්තා වේ.
+
+පළාත් පාලන මැතිවරණයේ දී පක්ෂ දෙක ඒකාබද්ධව තරග කළ යුතු බවට බොහෝ පාර්ශ්ව කළ ඉල්ලීම් සලකා බැලීමෙන් අනතුරුව සේනාරත්න මහතා මෙම ක්‍රියාමාර්ගය ගෙන ඇත.
+
+එළැඹෙන පළාත් පාලන මැතිවරණය පිළිබඳව මේ වනවිට දේශපාලන වේදිකාවේ කතා බහක් මතුව ඇති අතර, අද (9) පාර්ලිමේන්තුවේ දී පළාත් පාලන ආයතන විශේෂ විධිවිධාන පිළිබඳ පනත් කෙටුම්පත ද සභාගත කළේය.
+
+ඒ අනුව දේශපාලන පක්ෂ මේ සම්බන්ධයෙන් සාකච්ඡා ආරම්භ කර ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+කෙසේ වෙතත් පසුගිය මැතිවරණවලදී ප්‍රධාන දේශපාලන පක්ෂවල පසුබෑම හමුවේ ඇතැම් පාර්ශ්ව එළැඹෙන මැතිවරණයේදී 'අලියා' ලකුණෙන් එක්සත් ජාතික පක්ෂයෙන් තරගවැදිය යුතු බව ද පවසා ඇති බව වාර්තා වේ.
+
+එහෙත් එක්සත් ජාතික පක්ෂයට වඩා සමගි ජන බලවේගය පසුගිය මැතිවරණවලදී ඉදිරියෙන් පසුවීම හේතුවෙන් තවත් පාර්ශ්ව පවසා ඇත්තේ සජිත් ප්‍රේමදාස මහතාගේ නායකත්වයෙන් පළාත් පාලන මැතිවරණයට ඉදිරිපත් වියයුතු බවයි.
+
+◼️
+
+[Data](articles/c52c309c.json)
+
+---
+
+### வடமராட்சி கிழக்கில் 20 பயனாளிகளுக்கு மீன்பிடி படகு வழங்கிவைப்பு
+
+*2025-01-09 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203440) · `ta`
+
+வடமராட்சி கிழக்கு தாளையடி நன்னீர் திட்ட நிறுவனத்தால் 40 பயனாளிகளுக்கு மீன்பிடி படகுகள் வழங்கப்படவுள்ள நிலையில் வியாழக்கிழமை (9) முதல் கட்டமாக 20 பயனாளிகளுக்கு படகுகள் வழங்கி வைக்கப்பட்டன.
+
+வடமராட்சி கிழக்கு கடற்தொழிலாளர் சங்கங்களின் சமாசத்திற்குட்பட்ட துணை சங்கங்களின் 20 பயனாளிகளுக்கு சமாச தலைவர் த.தங்கரூபனால் தாளையடி நன்னீர் திட்ட அலுவலகத்தில் வைத்து வியாழக்கிழமை (9) வழங்கப்பட்டது.
+
+40 படகுகளுக்குமான இயந்திரங்கள் இன்னும் சில நாட்களில் தாளையடி நன்னீர் திட்ட அலுவலகத்திற்கு கொண்டுவரப்பட்டு பயனாளிகளிடம் கையளிக்கப்படுமெனவும் 5 வருடங்களுக்குள் கையளிக்கப்பட்ட படகு மற்றும் இயந்திரத்தை விற்பனை செய்தால் பறிமுதல் செய்யப்படுவதுடன் சட்ட நடவடிக்கையும் மேற்கொள்ளப்படுமென சமாச தலைவர் தங்கரூபன் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0b7da67d.json)
+
+---
 
 ### இது களனிப் பல்கலைக்கழக மாணவர் சபையல்ல-திலித் ஆவேசம்
 
@@ -142,6 +214,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Paediatrician warns declining birth rate could impact country’s future
+
+*2025-01-09 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104855/paediatrician-warns-declining-birth-rate-could-impact-countrys-future-) · `en`
+
+Dr. Deepal Perera, a paediatrician at the Lady Ridgeway Hospital for Children, has raised concerns about the country’s declining birth rate, which he says has seen a considerable decline over the past decade.
+
+He emphasized that this trend could have far-reaching consequences for the future of the country.
+
+“One thing we have seen in observing the past 10 years is the gradual decline in the number of births in the country. In 2013, there were 350,000 births. In 2024, that number has dropped to 228,000. Additionally, a number of these children are being hospitalized due to various diseases, which is a situation we did not witness 20 years ago,” Dr. Perera stated.
+
+The paediatrician also pointed out worrying trends in childhood health conditions, noting a rise in cases of childhood diabetes, cancer, and mental disorders.
+
+...
+
+[Data](articles/bc2e7ea5.json)
+
+---
+
+### රාජ්‍ය සේවකයන්ට සැලකිය යුතු වැටුප් වැඩිවීමක්
+
+*2025-01-09 18:23:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ට-සැලකිය-යුතු-වැටුප්-වැඩිවීමක්/11-414124) · `si`
+
+එළැඹෙන අයවැයෙන් ජීවන තත්ත්වය සැලකිල්ලට ගෙන රාජ්‍ය සේවකයන්ගේ සැලකිය යුතු වැටුප් වැඩි  සිදු කරන බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පැවසීය.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක  මහතා වාචික පිළිතුරු අපේක්ෂාවෙන් ඊයේ(09දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එම වැඩි කිරීම රුපියල් 25,000ක් ද නැද්ද යන්න පිළිබඳ අයවැය වනතෙක් ප්‍රකාශ කළ නොහැකි බවද අමාත්‍යවරයා පැවසීය.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – සමස්ත වියදමින් 33%ක් යනවා රජයේ සේවක පඩි සහ පෙන්ෂන්වලට. ඔබතුමන්ලා පඩි වැඩි කරනවා කියනවා. මේකත් එක්ක ඔබතුමන්ලා කොහොමද මේ ප්‍රශ්නය නිරාකරණය කරන්න යන්නේ?
+
+කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ – අපි දැනටමත් ප්‍රකාශ කරලා තියෙනවා එළැඹෙන අයවැයේදී රාජ්‍ය සේවකයන්ට සැලකිය යුතු වැටුප් වැඩිවීමක් සිදු කරනවා පවතින ජීවන තත්ත්වයත් එක්ක.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – පඩි වැඩි කිරීම සිදු කරනවා?
+
+...
+
+[Data](articles/8c8ee11e.json)
+
+---
+
 ### අමෙරිකාව අසරණකරන ළැව් ගින්න
 
 *2025-01-09 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205214) · `si`
@@ -226,6 +338,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### மின்கலம் திருடனை தேடி 4 கிலோ மீற்றர் பயணித்த ஜோனி என்ற மோப்ப நாய்
+
+*2025-01-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/203412) · `ta`
+
+வாரியப்பொல பகுதியில் ஜோனி என்ற மோப்ப நாய் 4 கிலோ மீற்றர் பயணித்து மின்கலம் திருடனை தேடிப்பிடித்த சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+வாரியப்பொல மாவட்ட நீதிமன்றத்தில் வழக்குச் சான்றுப் பொருட்களாக நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களில் மின்கலங்களை திருடி சென்றுள்ளனர்.
+
+மின்கலங்கள் திருடப்பட்ட இடத்தில் சொகுசு பஸ் உட்பட பல வாகனங்கள் வாரியபொல நீதவான் நீதிமன்றினால் நிறுத்தப்பட்டிருந்துள்ளது.
+
+திருட்டு சம்பவம் தொடர்பில் தடயங்கள் எதுவும் கிடைக்காத நிலையில் குருணாகலில் உள்ள பொலிஸ் கெனல் பிரிவிலுள்ள பயிற்சி பெற்ற மோப்ப நாயான ஜோனியை பொலிஸார் வரவழைத்துள்ளனர்.
+
+ஜோனியை அழைத்து வந்த பொலிஸ் கான்ஸ்டபிள் ரணசிங்க (90426) தேடுதல் நடவடிக்கைகாக மின்கலத்துடன் பொருத்தப்பட்டிருந்த முனையத்தை நாய்க்கு வழங்கினார்.
+
+நாய் அதனை மோப்பம் பிடித்து வாரியபொல ஊடாக கிட்டத்தட்ட நான்கு கிலோ மீற்றர் தூரத்தில் இருந்த  விளக்கடுபொத்த பகுதியில் வீடொன்றுக்கு சென்றுள்ளது. அங்கு ஐந்து மின்கலங்களுடன் கையும் களவுமாக சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/08d605f0.json)
+
+---
+
 ### ඊශ්‍රායල් කෘෂි පුහුණුවට ශාරීරික යෝග්‍යතා පරීක්ෂණ පැවැත්වූයේ සෞඛ්‍ය මාර්ගෝපදේශ අනුවයි
 
 *2025-01-09 16:59:57* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-කෘෂි-පුහුණුවට-ශාරීරික-යෝග්‍යතා-පරීක්ෂණ-පැවැත්වූයේ-සෞඛ්‍ය-මාර්ගෝපදේශ-අනුවයි/11-414115) · `si`
@@ -271,28 +405,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5d8572ca.json)
-
----
-
-### பற்றரி திருடனை தேடி 4 கிலோ மீற்றர் பயணித்த ஜோனி என்ற மோப்ப நாய்
-
-*2025-01-09 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203412) · `ta`
-
-வாரியப்பொல பகுதியில் ஜோனி என்ற மோப்ப நாய் 4 கிலோ மீற்றர் பயணித்து பற்றரி திருடனை தேடிப்பிடித்த சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-வாரியப்பொல மாவட்ட நீதிமன்றத்தில் வழக்குச் சான்றுப் பொருட்களாக நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களில் பற்றரிகளை திருடி சென்றுள்ளனர்.
-
-பற்றரிகள் திருடப்பட்ட இடத்தில் சொகுசு பஸ் உட்பட பல வாகனங்கள் வாரியபொல நீதவான் நீதிமன்றினால் நிறுத்தப்பட்டிருந்துள்ளது.
-
-திருட்டு சம்பவம் தொடர்பில் தடயங்கள் எதுவும் கிடைக்காத நிலையில் குருணாகலில் உள்ள பொலிஸ் கெனல் பிரிவிலுள்ள பயிற்சி பெற்ற மோப்ப நாயான ஜோனியை பொலிஸார் வரவழைத்துள்ளனர்.
-
-ஜோனியை அழைத்து வந்த பொலிஸ் கான்ஸ்டபிள் ரணசிங்க (90426) தேடுதல் நடவடிக்கைகாக பற்றரியுடன் பொருத்தப்பட்டிருந்த முனையத்தை நாய்க்கு வழங்கினார்.
-
-நாய் அதனை மோப்பம் பிடித்து வாரியபொல ஊடாக கிட்டத்தட்ட நான்கு கிலோ மீற்றர் தூரத்தில் இருந்த  விளக்கடுபொத்த பகுதியில் வீடொன்றுக்கு சென்றுள்ளது. அங்கு ஐந்து பற்றரிகளுடன்  கையும் களவுமாக சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/08d605f0.json)
 
 ---
 
@@ -343,6 +455,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bb41a103.json)
+
+---
+
+### முன்னாள் அமைச்சர் மனுஷ கைச்சாத்திட்டுள்ள ஈ-8 விசா ஒப்பந்தம் சட்டவிரோமானது - விஜித ஹேரத்
+
+*2025-01-09 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/203397) · `ta`
+
+கொரிய பிராந்திய நகரபிதாவுடன் முன்னாள் அமைச்சர் மனுஷ நாணயக்கார கைச்சாத்திட்டுள்ளதாக தெரிவிக்கப்படும் ஈ8 விசா தொடர்பான ஒப்பந்தம் முற்றாக சட்டவிரோதமானதாகும். அதற்கு அமைச்சரவையின் அனுமதியும் இல்லை.
+
+அத்துடன் குறித்த புரிந்துணர்வு ஒப்பந்தம் கொரியா மற்றும் பாகிஸ்தான நாடுகளுக்கிடையில் மேற்கொள்ளப்பட்ட ஒப்பந்தமே இலங்கை என திருத்தப்பட்டிருக்கிறது என வெளிநாட்டு வேலைவாய்ப்பு மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேரத் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (09) வாய்மூல விடைக்கான கேள்வி நேரத்தின்போது ஆளும் கட்சி உறுப்பினர் லக்மாலி ஹேமசந்திரவினால் கேட்கப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/98d6cb64.json)
 
 ---
 
@@ -1695,139 +1823,5 @@ The arrested individuals are residents of Karandeniya, Kegalle, and Hettimulla, 
 ...
 
 [Data](articles/0579d6e0.json)
-
----
-
-### 2025 Appropriation Bill to be presented to Parliament today
-
-*2025-01-09 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104840/2025-appropriation-bill-to-be-presented-to-parliament-today) · `en`
-
-The 2025 Appropriation Bill is scheduled to be presented to the Parliament today (9).
-
-The second reading of the draft bill will take place on February 17, with the debate scheduled from February 18 to February 25.
-
-The vote on the second reading is scheduled to be held on February 25 evening.
-
-Following this, the Committee Stage Debate, also known as the Third Reading Debate, will take place from February 27 to March 21, with the third reading vote scheduled for the evening of March 21.
-
-Meanwhile, the Local Government Elections (Special Provisions) Bill, which proposes calling for new nominations for the Local Government Elections, will also be presented to Parliament today (09).
-
-The draft bill, submitted by the Minister of Public Administration, Provincial Councils, and Local Government, was recently published in the Gazette.
-
-Once this bill is passed, the Election Commission will be authorized to call for fresh nominations for the local government elections.
-
-◼️
-
-[Data](articles/3b5b4426.json)
-
----
-
-### உச்சம் தொட்டது பச்சை மிளகாயின் விலை
-
-*2025-01-09 08:32:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உச்சம்-தொட்டது-பச்சை-மிளகாயின்-விலை/175-350021) · `ta`
-
-நாடளாவிய ரீதியில் பொருளாதார மையங்களில் ஒரு கிலோ பச்சை மிளகாயின் மொத்த விலை 750 ரூபாய் முதல் 850 ரூபாய் வரை விற்பனை செய்யப்படுகின்றது.
-
-இதன்படி, நாரஹேன்பிட்டி சிறப்பு பொருளாதார நிலையத்தில் நேற்று ஒரு கிலோ பச்சை மிளகாயின் சில்லறை விலை 1000 ரூபாயாக குறிப்பிடப்பட்டுள்ளது.
-
-நாடு முழுவதும் உள்ள பல சில்லறை விற்பனைக் கடைகளில் 100 கிராம் பச்சை மிளகாய் 120 முதல் 150 ரூபாய் வரை விற்கப்படுகிறது. R
-
-◼️
-
-[Data](articles/7a47b107.json)
-
----
-
-### இலங்கையிலும் HMPV  வைரஸ் ; நாடு மீண்டும் முடக்கப்படுமா?
-
-*2025-01-09 08:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலும்-HMPV-வைரஸ்-நாடு-மீண்டும்-முடக்கப்படுமா/175-350020) · `ta`
-
-சீனாவில் பரவி வரும் HMPV வைரஸ் குறித்து தேவையற்ற அச்சத்தை ஏற்படுத்த தேவையில்லை என்றும், இந்த வைரஸ் புதிய வைரஸ் அல்ல என்றும், 20 ஆண்டுகளாக இருந்து வரும் வைரஸ் என்றும் சுகாதாரத்துறையினர் தெரிவித்துள்ளனர்.
-
-2023 டிசம்பர் மற்றும் ஜனவரி மாதங்களில் இலங்கையிலும் HMPV தொற்றுக்குள்ளானவர்கள் பரிசோதனைகளின் மூலம் தெரியவந்துள்ளதுடன், HMPV வைரஸ் தொடர்பான பரிசோதனைகள் இவ்வருடம் இதுவரை மேற்கொள்ளப்படவில்லை என தெரிவிக்கப்பட்டுள்ளது.
-
-மேலும், கடந்த வருடம் கண்டி பிரதேசத்திலும் இந்த வைரஸ் தொற்றுக்கு உள்ளானவர்கள் கண்டறியப்பட்டதாக சுகாதார திணைக்களம் மேலும் குறிப்பிட்டுள்ளது.
-
-“ஊடகங்களில் தேவையற்ற அச்சமும் பீதியும் எழுந்துள்ளது. குறிப்பாக “சீனா மிகவும் ஆபத்தான நிலையில் உள்ளது. ஒரு புதிய வைரஸ் வந்துள்ளது. கோவிட் 19 தொற்றுநோய் நிலைமைக்கு மீண்டும் செல்ல அனுமதிக்கப்படுவோம்” என்று ஒரு பேச்சு உள்ளது.
-
-...
-
-[Data](articles/79cfbc25.json)
-
----
-
-### At least 5 dead, over 100,000 evacuated as Los Angeles surrounded by out-of-control wildfires
-
-*2025-01-09 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104839/at-least-5-dead-over-100000-evacuated-as-los-angeles-surrounded-by-out-of-control-wildfires) · `en`
-
-Raging wildfires surrounded Los Angeles on Wednesday, killing at least five people, destroying hundreds of homes and stretching firefighting resources and water supplies to the limit, as more than 100,000 people were ordered to evacuate.
-
-Fierce winds hindered firefighting operations and fueled the fires, which have burned unimpeded since they began on Tuesday.
-
-Five separate fires burned in Los Angeles County, all of them 0% contained according to state officials, including a pair of conflagrations that held the city in a pincer move.
-
-On the west side, the Palisades Fire consumed 15,832 acres (6,406 hectares) and 1,000 structures in the hills between Santa Monica and Malibu, racing down Topanga Canyon until reaching the natural fire break of the Pacific Ocean on Tuesday. It was already one of the most destructive fires in Los Angeles history.
-
-...
-
-[Data](articles/87003a42.json)
-
----
-
-### நாட்டின் சில இடங்களில் மழை
-
-*2025-01-09 08:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-இடங்களில்-மழை/175-350019) · `ta`
-
-நாட்டின் சில இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-அந்தவகையில், சப்ரகமுவ, தென் மாகாணங்களிலும், களுத்துறை, கண்டி மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-மேலும், வடக்கு, வடமத்திய, கிழக்கு, ஊவா மாகாணங்களிலும், மாத்தளை, நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
-
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப்பிரதேசங்களில் தற்காலிகமாகப் பலத்த காற்றும் வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/fc3ff3d8.json)
-
----
-
-### Sri Lanka to identify systemically important finance companies
-
-*2025-01-09 08:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-identify-systemically-important-finance-companies-198703/) · `en`
-
-ECONOMYNEXT – Sri Lanka will identify systemically important finance companies in 2025 as part of efforts to improve financial regulation, Central Bank Governor Nandalal Weerasinghe has said.
-
-Stress testing frameworks for finance companies will be extended, he said.
-
-Finance Business Act, No. 42 of 2011, and Finance Leasing Act, No. 56 of 2000 will also be amended to strengthen regulatory oversight, enhance risk management, and promote the stability of the non-bank financial institutions sector.
-
-Under a plan announced in 2020, eight finance companies were merged.
-
-The remaining finance companies would be strengthened under the second phase, and progress of benchmarks monitored.
-
-The central bank has also completed a re-assessment of Domestic Systemically Important Banks (DSIBs) with required capital buffers, Governor Weerasinghe said in a speech outlining plans for 2025.
-
-The list of D-SIBs and capital buffers will be announced in 2025. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/131394fa.json)
-
----
-
-### அஹுங்கலயில் துப்பாக்கிச் சூடு
-
-*2025-01-09 07:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஹுங்கலயில்-துப்பாக்கிச்-சூடு/175-350018) · `ta`
-
-காலி மாவட்டத்தின் அஹுங்கல நகரில் இன்று (09) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் படுகாயமடைந்துள்ளார்.
-
-அஹுங்கல பகுதியைச் சேர்ந்த முச்சக்கரவண்டி சாரதியே துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/63efc821.json)
 
 ---

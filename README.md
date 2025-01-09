@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 14:03:36**
+As of **2025-01-09 14:17:13**
 
 ## Newspaper Stats
 
-*Scraped **64,527** Articles*
+*Scraped **64,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 647
 bbccomsinhala | 675
-economynextcom | 3,929
+economynextcom | 3,933
 islandlk | 3,940
 dailyftlk | 4,513
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,527 articles have been extended.
+61,973 (96.0%) of 64,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### China’s Chongqing Airlines resumes flights to Sri Lanka
+
+*2025-01-09 14:00:00* · [`economynextcom`](https://economynext.com/chinas-chongqing-airlines-resumes-flights-to-sri-lanka-198763/) · `en`
+
+ECONOMYNEXT – China’s Chongqing Airlines has resumed flights to Bandaranaike International Airport from January 08, state-run Sri Lanka Airport and Aviation Services Pvt Ltd said.
+
+Chongqing Airlines will fly three times a week to Colombo from its home base in Chongqing.
+
+Sri Lanka is experiencing a tourism revival with easy visa facilities restored after a new government came to power.
+
+In 2024, China was the fifth largest generation market with 131,681 tourists.
+
+◼️
+
+[Data](articles/0a70309a.json)
+
+---
 
 ### மேல் நீதிமன்ற நீதிபதிகள் இருவர் பதவியேற்பு…
 
@@ -86,6 +104,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka to do state imports of coconut kernels amid crop shortfall
+
+*2025-01-09 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-do-state-imports-of-coconut-kernels-amid-crop-shortfall-198750/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow state imports coconut kernels to be used by mills to make oil and other products, Industries Minister Sunil Handunetti said.
+
+Sri Lanka is currently facing a shortfall of coconuts and the country does not allow fresh nut to be imported due to fears of diseases coming in.
+
+“We have decided to import kernels and give the mills,” Industries Minister Sunil Handuneththi said.
+
+Sri Lanka also exports powdered and creamed coconut milk and dessicated coconut.
+
+Opposition legislator Dayasiri Jayasekera said given past experience of unripe kernels being imported, it would be better to allow the private firms themselves to import kernels.
+
+Minister Handunetthi said the government would import the kernels. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/08587bf4.json)
+
+---
+
 ### உலக பத்திரிகை புகைப்பட  கண்காட்சி நாளை ஆரம்பமாகிறது
 
 *2025-01-09 12:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பத்திரிகை-புகைப்பட-கண்காட்சி-நாளை-ஆரம்பமாகிறது/175-350036) · `ta`
@@ -121,6 +161,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3e82cc42.json)
+
+---
+
+### Sri Lanka watching for new Chinese virus, no confirmed patients yet
+
+*2025-01-09 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-watching-for-new-chinese-virus-no-confirmed-patients-yet-198736/) · `en`
+
+ECONOMYNEXT – Sri Lanka is on the watch for the spread of Human metapneumovirus (HMPV) from China, but no patients have been confirmed so far, Health Minister Nalinda Jayatissa said.
+
+The epidemiology unit and ministry of health are on alert, he said.
+
+“We are keeping watch on 20 locations”, minister Jayatissa told parliament.
+
+There was a suspected patient but tests were negative, he said but Sri Lanka has identified a HMPV patient before the current outbreak, he said.
+
+An outbreak of HMPV virus expanded in China in early December.
+
+HMPV causes a respiratory illness with the symptoms of flu or Cold like symptoms, but it could develop to a condition similar to bronchitis or pneumonia. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/fee11b37.json)
 
 ---
 
@@ -171,6 +233,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5c6a1a7e.json)
+
+---
+
+### Sri Lanka’s Hambantota Port handles 43,000 boxes kicking off relay hub
+
+*2025-01-09 11:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-handles-43000-boxes-kicking-off-relay-hub-198733/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-backed Hambantota Port said it had handled 43,777 twenty- foot equivalent units by mid-2024, after it started container relay operations in April 2024.
+
+The port is planning to position itself as a potential container transfer center in the region.
+
+“To support this new operation, the port is developing a dedicated container yard to handle transshipment services,” the statement said.
+
+Related Sri Lanka’s Colombo Port handles 7.7mn boxes is 2024, up 12.3-pct
+
+Hambantota International Port recently bought new cranes to boost is container handling capacity to a million TEUs a year. (Colombo/Jan09/2024)
+
+◼️
+
+[Data](articles/731e755d.json)
 
 ---
 
@@ -1719,85 +1801,5 @@ As part of the initiative, the newly developed website nirdc.gov.lk was also lau
 ◼️
 
 [Data](articles/8595aef7.json)
-
----
-
-### COPF සභාවෙන් රෙගුලාසි තුනකට සහ නියෝගයකට අනුමතිය
-
-*2025-01-08 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205185) · `si`
-
-රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් සැලකිල්ලට ගනු ලැබූ රෙගුලාසි 4න් 3ක් සහ නියෝගයක් සලකා බැලීමෙන් පසු අනුමත කර තිබේ.
-
-පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ, සභාපතීත්වයෙන් ඊයේ (07) රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේදී මෙම අනුමතිය ලබාදීම සිදුකර තිබුණි.
-
-මෙහිදී 1969 අංක 1 දරන ආනයන හා අපනයන (පාලන) පනතේ විධිවිධාන ප්‍රකාරව ඉදිරිපත් කර තිබූ රෙගුලාසිවලට අනුකූලව, ආනයනික භාණ්ඩවල ප්‍රමිතීන්ට අදාළ ගැටලු සම්බන්ධයෙන් වාර්තාවක් ලබාදෙන ලෙස කාරක සභාව විසින් නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
-
-තවද, ආනයනය කරන ලද භාණ්ඩ වෙළෙඳපොළට නිකුත් කිරීමට පෙර ඒවා ප්‍රමිතියෙන් යුතු බවට සහතික කර ගැනීමේ ක්‍රියා පටිපාටිය පිළිබඳ වාර්තාවක් ලබාදෙන ලෙස ද කමිටුව නිලධාරීන්ට උපදෙස් ලබා දෙන ලදි.
-
-2005 අංක 28 දරන ගෙවීමේ හා බේරුම් කිරීමේ පද්ධති පනත යටතේ නියෝග සැලකිල්ලට ගනිමින්, උන්ඩියල් (Undial) සහ හවලා (Hawala) ක්‍රියාකරුවන් පිළිබඳ ප්‍රමාණවත් තොරතුරු තිබේද, සහ මෙකී ක්‍රම මගින් ඇති වන ප්‍රතිවිපාක වළක්වා ගැනීම සඳහා මෙම ක්‍රියාවලිය විධිමත් කර තිබේද යන්න පිළිබඳව ද කාරක සභාව, නිලධාරීන්ගෙන් විමසා සිටියේය.
-
-...
-
-[Data](articles/b7b11a97.json)
-
----
-
-### Japan in discussion to resume halted projects in Sri Lanka
-
-*2025-01-08 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104835/japan-in-discussion-to-resume-halted-projects-in-sri-lanka) · `en`
-
-The Ambassador of Japan to Sri Lanka, Isomata Akio, stated that discussions are underway with the government to resume temporarily halted projects in Sri Lanka.
-
-He made these remarks when he met with the Speaker of the Parliament (Dr.) Jagath Wickramaratne at Parliament recently (Jan. 06).
-
-The Secretary General of Parliament of Sri Lanka, Mrs. Kushani Rohanadeera, was also present on this occasion.
-
-During this meeting, the Japanese Ambassador conveyed his best wishes to the Speaker and the government.
-
-Recalling the long-standing relationship between Japan and Sri Lanka, the Japanese Ambassador said that he would continue to strengthen those relations and provide the necessary support for the development of Sri Lanka.
-
-Furthermore, the Japanese ambassador also said that he hopes to expedite the construction of the new terminal at the Bandaranaike International Airport. During the meeting the government’s efforts to eradicate corruption and foster national reconciliation were commended.
-
-...
-
-[Data](articles/282076d6.json)
-
----
-
-### வில்பத்து தேசிய பூங்கா பகுதியில்  உயிரிழந்த நிலையில் 11 டொல்பின்கள் மீட்பு
-
-*2025-01-08 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/203352) · `ta`
-
-வில்பத்து தேசிய பூங்கா கடல் எல்லைக்குட்பட்ட கொல்லன் கனத்த பகுதியில் 11 சாதாரண குப்பி டால்பின்கள் உயிரிழந்த நிலையில் செவ்வாய்க்கிழமை (7) மீட்கப்பட்டுள்ளது.
-
-முள்ளிக்குளம்  தள பாதுகாப்பு அலுவலகத்திற்கு கிடைத்த தகவலுக்கு அமைய அப்பகுதிக்குச் சென்ற வனவிலங்கு திணைக்கள அதிகாரிகள் அப்பகுதிக்குச் சென்று சோதனை செய்தனர்.
-
-பின்னர் இறந்த டால்பின்களை மீட்டு பரிசோதித்ததன் பின்னர் இது தொடர்பான தகவல்கள் புத்தளம் நீதிவான் நீதிமன்றில்  செவ்வாய்க்கிழமை (7) சமர்ப்பிக்கப்பட்டது.
-
-அதன்படி அனுராதபுரம் வனவிலங்கு கால்நடை வைத்திய அலுவலக அதிகாரிகள்  உயிரிழந்த டால்பின்களின் மரணம் தொடர்பான  பிரேத பரிசோதனை யை மேற்கொண்டனர்.
-
-மேலும் அவற்றின் மரணத்தை உறுதிப்படுத்துவதற்காக விலங்குகளிடமிருந்து எடுக்கப்பட்ட மாதிரிகள் பேராதனை கால்நடை மருத்துவ பீடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளது என தெரிய வருகிறது.
-
-◼️
-
-[Data](articles/d505dad5.json)
-
----
-
-### தேசிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் நீதி நிலைநாட்டப்படும் என நம்புகின்றோம்- லசந்த விக்கிரமதுங்க குடும்பத்தினர்
-
-*2025-01-08 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/203351) · `ta`
-
-தேசிய மக்கள்சக்தி அரசாங்கத்தின் கீழ் சண்டே லீடர் ஆசிரியர் லசந்த விக்கிரமதுங்கவின் படுகொலைக்கு நீதி கிடைக்கும் என அவரது குடும்பத்தினர் எதிர்பார்ப்பு வெளியிட்டுள்ளனர்.
-
-லசந்த விக்கிரமதுங்க படுகொலை தொடர்பிலான உண்மையை   ஜனாதிபதி அனுரகுமார திசநாயக்க அரசாங்கம் கண்டறிந்து நீதியை நிலைநாட்டும் என அவரது குடும்பத்தினர் நம்பிக்கை வெளியிட்டுள்ளனர்.
-
-லசந்த விக்கிரமதுங்கவின் படுகொலையின் பின்னர் நான்;கு அரசாங்கங்கள் ஆட்சி;க்கு வந்துள்ளன எனினும் எந்த அரசாங்கத்திற்கு இந்த கொலைகள் குறித்து விசாரணை செய்வதற்கான அரசியல் உறுதிப்பாடு இல்லை என லசந்தவிக்கிரமதுங்கவின் சகோதரர் லால் விக்கிரமதுங்க தெரிவித்துள்ளார்.
-
-தேசிய மக்கள் சக்தி அரசாங்கம் லசந்தவிக்கிரமதுங்கவின் படுகொலை குறித்து விசாரணை செய்வதாக உறுதியளிக்கவில்லை வேறு பல முக்கியமான சம்பவங்கள்  குறித்தும் விசாரணை செய்வதாக உறுதியளித்துள்ளது என அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/35d8236b.json)
 
 ---

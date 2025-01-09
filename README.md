@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 11:44:52**
+As of **2025-01-09 12:06:11**
 
 ## Newspaper Stats
 
-*Scraped **64,497** Articles*
+*Scraped **64,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ islandlk | 3,940
 dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,177
-adaderanalk | 7,891
-tamilmirrorlk | 9,253
-virakesarilk | 10,770
-adaderanasinhalalk | 11,138
+adaderanalk | 7,898
+tamilmirrorlk | 9,255
+virakesarilk | 10,777
+adaderanasinhalalk | 11,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.1%) of 64,497 articles have been extended.
+61,973 (96.1%) of 64,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### ”சிவப்பு அரிசி தட்டுப்பாட்டுக்கு கடந்த அரசாங்கமே காரணம்”
+
+*2025-01-09 11:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-அரிசி-தட்டுப்பாட்டுக்கு-கடந்த-அரசாங்கமே-காரணம்/175-350030) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு முன்னர், கடந்த அரசாங்கத்தினால் ஒருவருக்கு தலா 20 கிலோ அரிசி இலவசமாக விநியோகம் செய்யப்பட்டதன் விளைவாக சந்தையில் சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளது என, வர்த்தகம், உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க நேற்று தெரிவித்தார்.
+
+சிவப்பு அரிசி சாப்பிடாத மக்களுக்கு கூட கடந்த அரசாங்கம் சிவப்பு அரிசியை வழங்கியதாக அமைச்சர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"சந்தையில் சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளது. ஜனாதிபதி தேர்தலுக்கு முன்னர் கடந்த அரசாங்கம் 20 கிலோ அரிசியை மக்களுக்கு விநியோகித்ததே தட்டுப்பாட்டுக்கு காரணம். சிவப்பு அரிசி சாப்பிடாத மக்களுக்கும் சிவப்பு அரிசி விநியோகிக்கப்பட்டுள்ளது. " என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ எழுப்பிய கேள்விக்கு பதிலளித்தார்.
+
+◼️
+
+[Data](articles/3efa6c39.json)
+
+---
+
+### ஞானசார தேரருக்கு 9 மாத சிறை
+
+*2025-01-09 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/203374) · `ta`
+
+இஸ்லாம் மதத்தை அவமதித்த குற்றத்திற்காக பொதுபல சேனா அமைப்பின் பொதுச் செயலாளர் கலகொட அத்தே ஞானசார தேரருக்கு 9 மாத சிறைத்தண்டனையை இன்று வியாழக்கிழமை (09) கொழும்பு நீதவான் நீதிமன்றம்  விதித்துள்ளது.
+
+அத்துடன் , 1,500 ரூபாய் அபராதம் விதிப்பதாகவும் தீர்ப்பை அறிவித்து கொழும்பு மேலதிக நீதவான் பசன் அமரசேன, உத்தரவிட்டார்.
+
+குற்றச்சாட்டுக்கள் தொடர்பில் விசாரணைக்கு நீதிமன்றில் ஆஜராகத் தவறியமையால் முன்னர் பிறப்பிக்கப்பட்ட பிடியாணையை அடுத்தே அவருக்கு மேற்படி தண்டனை விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/99ded930.json)
+
+---
+
+### தவில் வித்துவானின் மகன் விபத்தில் பலி
+
+*2025-01-09 11:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவில்-வித்துவானின்-மகன்-விபத்தில்-பலி/175-350029) · `ta`
+
+வல்லைப் பகுதியில்   புதன்கிழமை (08) இரவு 7.30 மணியளவில் இடம் பெற்ற மோட்டார் சைக்கிள் விபத்தில் தவில் வித்துவான் விஜயகுமாரின் மகனான, 21 வயதான விஜயகுமார் மணிகண்டன் என்ற இளைஞன், பரிதாபமாக உயிரிழந்துள்ளார்
+
+இவர், யா / நெல்லியடி மத்திய கல்லூரி பழைய மாணவனும் பிரபல தவில் வித்துவான் விஜயகுமாரின் புதல்வனும் ஆவார்.
+
+யாழ். நகர் பகுதியில் இருந்து பருத்தித்துறை நோக்கி வேகமாக மோட்டார் சைக்கிளில் வந்த குறித்த இளைஞன், வல்லைப் பகுதியில் மாட்டுடன் மோதி விபத்துக்கு உள்ளானதாக கூறப்படுகிறது.
+
+சடலம் உடற்கூற்று சோதனைக்காக பருத்தித்துறை ஆதார வைத்திய சாலையில் வைக்கப்பட்டுள்ளது மேலதிக விசாரணைகளை நெல்லியடி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5c6a1a7e.json)
+
+---
+
+### யாழ். காரைநகரில் 10 தமிழக மீனவர்கள் கைது
+
+*2025-01-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/203372) · `ta`
+
+யாழ்ப்பாணம், காரைநகர் கடற்பரப்பினுள் அத்துமீறி கடற்தொழிலில் ஈடுபட்ட தமிழக மீனவர்கள் 10 பேரை இலங்கை கடற்படையினர் கைது செய்துள்ளதுடன், அவர்களிடம் இருந்து பெருந்தொகை மீன்களையும் கைப்பற்றியுள்ளனர்.
+
+காரைநகர் கடற்பகுதியில் நேற்று புதன்கிழமை (08) இரவு சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டிருந்த கடற்படையினர், இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து கடற்தொழிலில் ஈடுபட்ட குற்றச்சாட்டில், 10 தமிழக மீனவர்களை கைது செய்ததுடன், அவர்களின் படகொன்றினையும், படகினுள் இருந்து பெருந்தொகை மீன்களையும் கைப்பற்றியுள்ளனர்.
+
+கைது செய்யப்பட்ட கடற்தொழிலாளர்களையும்  அவர்களின் படகையும், கடற்படையினர் காங்கேசன்துறை கடற்படை முகாமிற்கு கொண்டு சென்றுள்ளனர்.
+
+கைது செய்யப்பட்ட மீனவர்களை மேலதிக சட்ட நடவடிக்கைக்காக, கடற்தொழில் நீரியல் வளத்துறை அதிகாரிகள் ஊடாக ஊர்காவற்துறை நீதவான் நீதிமன்றில் முற்படுத்த கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/231315fc.json)
+
+---
+
+### "இலங்கை வரலாற்றில் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முதற்தடவையாக 9.3 வீதமாக அதிகரித்துள்ளது ; பிரதமர்
+
+*2025-01-09 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/203375) · `ta`
+
+"இலங்கை வரலாற்றில் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முதற்தடவையாக 9.3 வீதமாக அதிகரித்துள்ளதை தெரிவிப்பதில் பெருமையடைகிறேன். இந்த நேர்மறையான மாற்றம் பெண்களின் குரல்கள் மேலும் விரிவாக மற்றும் அதனை உள்ளடக்கிய நிர்வாகத்தில் அதிகம் ஒலிப்பதை உறுதிசெய்வதாக 2024ம் ஆண்டிற்கான "பிரத்திபாபிஷேக" பெண் தொழில் முயற்சியாளர்களுக்கான விருது விழாவின் போது பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்தார்.
+
+2024ம் ஆண்டிற்கான "பிரத்திபாபிஷேக" பெண் தொழில் முயற்சியாளர்களுக்கான விருது விழா கொழும்பு, ஹில்டன் ஹோட்டலில் ஜனவரி 7ஆம்  திகதி இடம்பெற்றது. இலங்கை மகளிர் தொழிற்துறை மற்றும் வர்த்தக சபை இதனை ஏற்பாடு செய்திருந்தது. பிரதமர் கலாநிதி ஹரினி அமரசூரிய நிகழ்வின் பிரதம அதிதியாக கலந்துகொண்டார்.
+
+இந்த விழாவில் 2024ம் ஆண்டுக்கான சிறந்த பெண் தொழில் முயற்சியாளருக்கான விருதினை கலாநிதி திலேஷா பெரேரா வென்றார்.
+
+...
+
+[Data](articles/e6462cf4.json)
+
+---
 
 ### அமைச்சரின் அனுமதியின்றி தலைவர்களை சந்திக்கத் தடை?
 
@@ -61,6 +145,114 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7145d708.json)
+
+---
+
+### චීන වෛරසය ගැන සෞඛ්‍ය ඇමතිගෙන් පැහැදිලි කිරීමක්
+
+*2025-01-09 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205202) · `si`
+
+චීන වෛරසය සම්බන්ධයෙන් රජය ඉතා සුපරික්ෂාකාරීව කටයුතු කරමින් සිටින බව සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+අද (09) පාර්ලිමේන්තුවේ දී වෛද්‍ය නිශාන්ත සමරවීර මහතා අසන ලද පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා සඳහන් කර සිටියේ, වසංගත රෝග විද්‍යා අංශය නිරන්තරයෙන් ඒ සම්බන්ධයෙන් වාර්තා සෞඛ්‍ය අමාත්‍යාංශය වෙත සපයමින් සිටින බවය.
+
+එම වෛරසය වැළඳුනු රෝගියෙක් වාර්තා වුවහොත් නිසැකවම ඒ සම්බන්ධයෙන් දැනුවත් කිරීමට පියවර ගන්නා බව ද අමාත්‍යවරයා මෙහිදී කියා සිටියේය.
+
+මේ අතර පසුගිය දා සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය මේ සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබුණේ, මෙය සාමාන්‍ය ශ්වසන රෝග වෛරසයක් බවය.
+
+...
+
+[Data](articles/1cd297fb.json)
+
+---
+
+### யாழில் மாட்டுடன் மோட்டார் சைக்கிள் மோதி விபத்து ; இளைஞன் உயிரிழப்பு
+
+*2025-01-09 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203370) · `ta`
+
+யாழ்ப்பாணம் - பருத்தித்துறை வீதியில் வல்லை பகுதியில் நேற்று புதன்கிழமை (08) இரவு இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞன் ஒருவர் உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணத்திலிருந்து  பருத்தித்துறை நோக்கி மோட்டார் சைக்கிளில் பயணித்த வேளை வல்லைப் பகுதியில், மாட்டுடன் மோதி எதிரே வந்த முச்சக்கர வண்டியுடன் மோதி விபத்து இடம் பெற்றுள்ளது என அச்சுவேலி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/dd03f095.json)
+
+---
+
+### විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට
+
+*2025-01-09 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205201) · `si`
+
+2025 අයවැය විසර්ජන පනත් කෙටුම්පත අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් අද (09) මීට සුළු මොහොතකට පෙර පර්ලිමේන්තුවට ඉදිරිපත් කළාය.
+
+අදාළ පනත් කෙටුම්පත දෙවන වර කියවීම පෙබරවාරි මස 17 වන දින සිදුකිරීමට නියමිතයි.
+
+මේ අතර පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්වීම සඳහා අලුතින් නාමයෝජනා කැඳවීමට අදාළ පළාත් පාලන ආයතන ඡන්ද විමසීම් විශේෂ විධි විධාන පනත් කෙටුම්පත ද පාර්ලිමේන්තුවට ඉදිරිපත් කළාය.
+
+අදාළ පනත් කෙටුම්පත පසුගියදා ගැසට් මඟින් ප්‍රකාශයට පත් කරනු ලැබීය.
+
+එම පනත් කෙටුම්පත සම්මත කිරීමෙන් අනතුරුව පළාත් පාලන ආයතන ඡන්ද විමසීම සඳහා අලුතින් නාමයෝජනා කැඳවීමට මැතිවරණ කොමිෂන් සභාවට බලය හිමි වේ.
+
+◼️
+
+[Data](articles/99c718a1.json)
+
+---
+
+### සහල් ආනයනයට තිබූ අවසරය හෙටින් අවසන්
+
+*2025-01-09 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205200) · `si`
+
+සහල් ආනයනය කිරීම සඳහා ලබා දී තිබූ අවසරය හෙටින් (10) අවසන්වීමට නියමිතය.
+
+පවතින සහල් හිඟය මැඩපැවැත්වීම සඳහා සහල් ආනයන කිරීමට රජය විසින් 2025 ජනවාරි මස 10වනදා දක්වා අවසර ලබා දී තිබුණි.
+
+ඒ අනුව ඊයේ (08) දහවල් 12 වන විට ආනයනය කර රේගුවෙන් නිශ්කාෂනය කර ඇති සමස්ථ සහල් ප්‍රමාණය මෙට්‍රික් ටොන් 115,000 ඉක්මවා ඇති බව වාර්තා විය.
+
+මේ තොගය අතර කැකුලු සහල් ටොන් 45,000 ක් සහ තැම්බූ සහල් ටොන් 70,000 ක් ඇති බව සඳහන් වේ.
+
+කෙසේවෙතත් සහල් ආනයනය කිරීමට ලබා දී තිබෙන අවසරය නැවතත් දීර්ඝ කරන්නේද නැද්ද යන්න සම්බන්ධයෙන් රජය මෙතෙක් කිසිදු ප්‍රකාශයක් සිදුකර නොමැත.
+
+◼️
+
+[Data](articles/806b8194.json)
+
+---
+
+### 10 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2025-01-09 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104843/10-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A special operation conducted by the Sri Lanka Navy has led to the seizure of one Indian fishing boat and the apprehension of 10 Indian fishermen poaching in Sri Lankan waters.
+
+The special operation was conducted off the Kovilan Lighthouse, Jaffna in the dark hours of yesterday (08).
+
+The Northern Naval Command deployed Fast Attack Craft of the Navy and Coast Guard to chase away a cluster of Indian fishing boats, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Kovilan Lighthouse, Karainagar in Jaffna.
+
+The operation resulted in the seizure of the Indian fishing boat and apprehension of 10 Indian fishermen who continued to remain in Sri Lankan waters.
+
+The seized fishing boat together with Indian fishermen were brought to the Kankesanthurai harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
+
+◼️
+
+[Data](articles/7ca5533c.json)
+
+---
+
+### கவனிக்காமல் விடப்பட்ட முன்னுரிமைக்குரிய ஒரு  விவகாரம் ; அரசாங்கத்தினால் சீர்செய்யமுடியும்
+
+*2025-01-09 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/203369) · `ta`
+
+ஊழல் மற்றும் விரயப் பிரச்சினைக்கு முடிவுகட்டுவது என்பது தேசிய மக்கள் சக்தி அரசாங்கம் மக்களுக்கு வழங்கிய வாக்குறுதிகளில் முக்கியமானது.2022 ஆம் ஆண்டில் அரசாங்கத்தை வீழ்த்திய அறகலய போராட்டத்தின் மையப் பொருளாகவும் பொருளாகவும் அதுவே இருந்தது.  எதிரணியில் இருந்தபோது வேறுபல வாக்குறுதிகளையும் அரசாங்கம் வழங்கியது.
+
+ஆனால், வாழ்க்கைச் செலவைக் குறைப்பது போன்ற ஏனைய வாக்குறுதிகளைப் போலன்றி, ஊழலையும் விரயத்தையும் குறைக்கும் வாக்குறுதியை நிறைவேற்றுவது பெருமளவுக்கு அரசாங்கத்தின் அதிகாரத்துக்கு உட்பட்டதாக இருக்கிறது. வாழ்க்கைச் செலவைக் குறைப்பது என்பது உள்நாட்டுக் காரணிகளையும் விடவும் பெருமளவுக்கு வெளிக்காரணிகளினால் நிர்ணயிக்கப்படுகிறது.
+
+அரசாங்கம் அதன் செலவினங்களை கணிசமான அளவுக்கு குறைத்திருக்கிறது. தேர்தல் வெற்றிக் கொண்டாட்டங்களும் புதிய ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவியேற்பு வைபவங்களும் மிகவும் எளிமையாக அமைந்தன. தனது முதலாவது உத்தியோகபூர்வ வெளிநாட்டு விஜயமாக கடந்தமாதம் இந்தியாவுக்கு சென்ற ஜனாதிபதி அநுரா குமார திசாநாயக்க தன்னுடன் ஒரு சிறிய தூதுக் குழுவையே கூட்டிச் சென்றார்.
+
+...
+
+[Data](articles/84e20077.json)
 
 ---
 
@@ -100,6 +292,58 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### முல்லைத்தீவில் துப்பாக்கி சூடு ; ஒருவர் படுகாயம்
+
+*2025-01-09 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/203368) · `ta`
+
+முல்லைத்தீவு கூழாமுறிப்பு பகுதியில் நடந்த துப்பாக்கிச் சூட்டில் குடும்பஸ்தர் ஒருவர் படுகாயமுற்று மாஞ்சோலை வைத்தியசாலையில் தீவிரசிகிச்சை பிரிவில் அனுமதிக்கப்பட்ட சம்பவம் ஒன்று நேற்று புதன்கிழமை (08) மாலை நடைபெற்றுள்ளது.
+
+முல்லைத்தீவு ஒட்டுசுட்டான் கூழாமுறிப்பு பகுதியில் அக்காவின் கணவருக்கும் தம்பிக்கும் இடையில் ஏற்பட்ட மனகசப்பு கைக்கலப்பாக மாறியுள்ளது.
+
+அதனையடுத்து, கோபடைந்த தம்பி கத்தியால் அத்தானை வெட்டியுள்ளார். அது பலனளிக்காத நிலையில் காட்டுக்குள் சென்று இரு இடியன் துப்பாக்கிகளை எடுத்து வந்து தனது அக்காவின் கணவருக்கு சுட்டுள்ளார். இதன்போது படுகாயமடைந்த அக்காவின் கணவர் மாஞ்சோலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+
+◼️
+
+[Data](articles/4d5fad85.json)
+
+---
+
+### TRCSL to ban use of unregistered mobile phones?
+
+*2025-01-09 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104842/trcsl-to-ban-use-of-unregistered-mobile-phones) · `en`
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) says that the use of communication devices including mobile phones that are not registered with the commission will be prohibited in the country in the future.
+
+TRCSL Director General, Air Vice Marshal (Retd) Bandula Herath, stated that the objective of this move is to halt the illegal importation of communication devices into Sri Lanka.
+
+Accordingly, the TRCSL plans to introduce a special initiative for this purpose by the end of the month.
+
+However, the Director General emphasized that the new programme will not affect the mobile phones currently in use.
+
+...
+
+[Data](articles/c0c618da.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප් වැඩිකිරීමට IMF විරෝධයක් නෑ
+
+*2025-01-09 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205199) · `si`
+
+එළැඹෙන අයවැයෙන් සැලකිය යුතු රාජ්‍ය සේවක වැටුප් වැඩිකිරීමක් සිදුකිරීමට නියමිත බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා විසින් අද (09) පාර්ලිමේන්තුවේ දී අසන ලද පැනයකට පිළිතුරු දෙමින් නියෝජ්‍ය අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+එමෙන්ම රාජ්‍ය සේවක වැටුප් වැඩිකිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදලේ කිසිදු විරෝධයක් නොමැති බව ද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+"රු 25,000ක් කියලා නෑ. අපි ඉලක්කම බලාගමු. කලබල වෙන්න එපා. ලිහලා බලන්න තියෙන මල්ල ඔබලා බලන්න හදන්න එපා. රනිල් වික්‍රමසිංහ මහතා සැප්තැම්බර් 4 තැපැල් ඡන්දෙට පෙර කැබිනට් තීන්දුවක් ගත්තා මේ රටේ රාජ්‍ය සේවකයින්ගේ ඡන්දය ඉලක්ක කරගෙන. හැබැයි රාජ්‍ය සේවකයෝ හොඳ උත්තරයක් දුන්නා. ඒක රාජ්‍ය සේවකයින් මුලා කරන්න ඉදිරිපත් කරපු දෙයක් මිසක් ඇත්ත දෙයක් නෙමෙයි."
+
+◼️
+
+[Data](articles/d49b7a26.json)
+
+---
+
 ### අහුංගල්ලේ වෙඩි තැබිමකින් පුද්ගලයෙකුට තුවාල
 
 *2025-01-09 10:34:59* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-414106) · `si`
@@ -111,6 +355,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0cc2f363.json)
+
+---
+
+### ඥානසාර හිමිට ලිහිල් සිරදඬුවමක්
+
+*2025-01-09 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205198) · `si`
+
+ඉස්ලාම් දහමට අපහාස කිරීමේ චෝදනාවට  වරදකරු කෙරුණු බොදු බල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් මාස 09 ක ලිහිල් සිරදඬුවමක් නියම කර තිබේ.
+
+මීට අමතරව රුපියල් 1,500 ක දඩයක් නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා නියෝග කළේය.
+
+2016 වසරේ ජූලි මස 16 වනදා කිරුළපන ප්‍රදේශයේ පැවති මාධ්‍ය සාකච්ඡාවකදී "ඉස්ලාමය පිළිකාවක්.. එය අතුගා දමන්න ඕනේ." යනුවෙන් ප්‍රකාශ කිරීම තුළින් ජාතීන් අතර සංහිඳියාව උල්ලංගනය වන ආකාරයෙන් කටයුතු කළේ යැයි චෝදනා කරමින් දණ්ඩ නීති සංග්‍රහයේ 291 වගන්තිය යටතේ පොලීසිය විසින් ඥානසාර හිමියන්ට මෙම නඩුව ගොනු කර තිබුණි.
+
+◼️
+
+[Data](articles/c5fe3276.json)
+
+---
+
+### காலி சிறைச்சாலைக்குள் வீசப்பட்ட பொதியிலிருந்து கையடக்கத் தொலைபேசிகள் மீட்பு!
+
+*2025-01-09 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203364) · `ta`
+
+காலி சிறைச்சாலைக்குள் வீசப்பட்ட பொதியிலிருந்து கையடக்கத் தொலைபேசிகள், தொலைபேசி சார்ஜர்கள், புகையிலை மற்றும் லைட்டர்கள் என்பன கைப்பற்றப்பட்டுள்ளதாக காலி பொலிஸார் தெரிவித்தனர்.
+
+இனந்தெரியாத நபரொருவர் காலி சிறைச்சாலையின் பின்புறத்தில் உள்ள கூரை வழியாக சிறைச்சாலைக்குள் பொதி ஒன்றை வீசியுள்ளார்.
+
+குறித்த பொதியிலிருந்து ஐந்து கையடக்கத் தொலைபேசிகள், மூன்று தொலைபேசி சார்ஜர்கள், நான்கு லைட்டர்கள் மற்றும் புகையிலைகள் என்பன சிறைச்சாலை அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/29ad1016.json)
 
 ---
 
@@ -166,7 +442,7 @@ A bond maturing on 15.05.2030 was quoted at 11.00/05 percent, down from 11.00/15
 
 *2025-01-09 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205196) · `si`
 
-ඊශ්‍රායල් රාජ්‍යයේ කෘෂි ක්ෂේත්‍රයේ රැකියා සඳහා යොමු කිරීමේ අරමුණින් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් 2023 වසරේ දෙසැම්බර් මාසයේ දී ශ්‍රී ලාංකික ශ්‍රමිකයින් පිරිසක් තෝරා ගෙන ඇති අතර එහි පළමු කණ්ඩායම 2023 වසරේදී ඊශ්‍රායලය වෙත පිටත්කර යවා තිබේ.
+ඊශ්‍රායල් රාජ්‍යයේ කෘෂි ක්ෂේත්‍රයේ රැකියා සඳහා යොමු කිරීමේ අරමුණින් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් 2023 වසරේ නොවැම්බර් මාසයේ දී ශ්‍රී ලාංකික ශ්‍රමිකයින් පිරිසක් තෝරා ගෙන ඇති අතර එහි පළමු කණ්ඩායම 2023 වසරේ දෙසැම්බර් මාසයේ ඊශ්‍රායලය වෙත පිටත්කර යවා තිබේ.
 
 මේ ආකාරයෙන් තෝරාගත් තවත් 2,400ක පමණ වූ පිරිසක් සඳහා කාර්යාංශය විසින් උමන්දාව ඇතුළු ස්ථාන කිහිපයකදී ක්ෂේත්‍ර පුහුණුවක් ද ලබා දී ඇති අතර ඒ අතරින් 118 දෙනෙකු මේ වනවිටත් කාර්යාංශයට මුදල් ගෙවා ඊශ්‍රායල් රාජ්‍ය සමග ගිවිසුම්ද අත්සන් කර අවසන් බව සඳහන් වේ.
 
@@ -252,6 +528,20 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 
 ---
 
+### Three arrested over Wattegama murder
+
+*2025-01-09 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104841/three-arrested-over-wattegama-murder) · `en`
+
+These suspects were arrested yesterday (08) for allegedly stabbing a person to death with sharp weapons on January 04 in the Atalahagoda area of Wattegama.
+
+The arrested individuals are residents of Karandeniya, Kegalle, and Hettimulla, aged 25, 35, and 37.
+
+◼️
+
+[Data](articles/de5d2537.json)
+
+---
+
 ### வத்தேகம கொலையுடன் தொடர்புடைய சந்தேகநபர்கள் கைது !
 
 *2025-01-09 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/203361) · `ta`
@@ -308,6 +598,30 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 
 ---
 
+### 2025 Appropriation Bill to be presented to Parliament today
+
+*2025-01-09 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104840/2025-appropriation-bill-to-be-presented-to-parliament-today) · `en`
+
+The 2025 Appropriation Bill is scheduled to be presented to the Parliament today (9).
+
+The second reading of the draft bill will take place on February 17, with the debate scheduled from February 18 to February 25.
+
+The vote on the second reading is scheduled to be held on February 25 evening.
+
+Following this, the Committee Stage Debate, also known as the Third Reading Debate, will take place from February 27 to March 21, with the third reading vote scheduled for the evening of March 21.
+
+Meanwhile, the Local Government Elections (Special Provisions) Bill, which proposes calling for new nominations for the Local Government Elections, will also be presented to Parliament today (09).
+
+The draft bill, submitted by the Minister of Public Administration, Provincial Councils, and Local Government, was recently published in the Gazette.
+
+Once this bill is passed, the Election Commission will be authorized to call for fresh nominations for the local government elections.
+
+◼️
+
+[Data](articles/3b5b4426.json)
+
+---
+
 ### உச்சம் தொட்டது பச்சை மிளகாயின் விலை
 
 *2025-01-09 08:32:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உச்சம்-தொட்டது-பச்சை-மிளகாயின்-விலை/175-350021) · `ta`
@@ -339,6 +653,24 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 ...
 
 [Data](articles/79cfbc25.json)
+
+---
+
+### At least 5 dead, over 100,000 evacuated as Los Angeles surrounded by out-of-control wildfires
+
+*2025-01-09 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104839/at-least-5-dead-over-100000-evacuated-as-los-angeles-surrounded-by-out-of-control-wildfires) · `en`
+
+Raging wildfires surrounded Los Angeles on Wednesday, killing at least five people, destroying hundreds of homes and stretching firefighting resources and water supplies to the limit, as more than 100,000 people were ordered to evacuate.
+
+Fierce winds hindered firefighting operations and fueled the fires, which have burned unimpeded since they began on Tuesday.
+
+Five separate fires burned in Los Angeles County, all of them 0% contained according to state officials, including a pair of conflagrations that held the city in a pincer move.
+
+On the west side, the Palisades Fire consumed 15,832 acres (6,406 hectares) and 1,000 structures in the hills between Santa Monica and Malibu, racing down Topanga Canyon until reaching the natural fire break of the Pacific Ocean on Tuesday. It was already one of the most destructive fires in Los Angeles history.
+
+...
+
+[Data](articles/87003a42.json)
 
 ---
 
@@ -415,6 +747,44 @@ The list of D-SIBs and capital buffers will be announced in 2025. (Colombo/Jan09
 ◼️
 
 [Data](articles/7fe11dd2.json)
+
+---
+
+### One person injured in shooting at Ahungalla
+
+*2025-01-09 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104838/one-person-injured-in-shooting-at-ahungalla) · `en`
+
+One person has reportedly been injured in a shooting incident at Ahungalla Junction this morning (09).
+
+The injured person has been admitted to the Balapitiya Base Hospital, police said.
+
+Police Spokesman SSP Buddhika Manatunga said the shooting was carried out at around 6.15 a.m. today by two unidentified gunmen who had arrived on a red color scooter.
+
+The person injured in the shooting is allegedly a relative of the underworld figure and criminal gang leader Sujeewa Ruwankumara, also known as “Loku Patty”.
+
+It is reported that the shooting victim is employed as a three-wheeler driver and that he had been shot while at the three-wheeler park in the Ahungalla Junction.
+
+◼️
+
+[Data](articles/995a2f59.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-01-09 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104837/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+Several spells of showers will occur in Northern, North-central, Eastern and Uva provinces and in Matale and Nuwara-Eliya districts, says the Meteorology Department.
+
+Showers or thundershowers may occur at a few places in Sabaragamuwa and Southern provinces and in Kaluthara and Kandy districts during the afternoon or night, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces and in Kurunegala district during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/28c84267.json)
 
 ---
 
@@ -1409,401 +1779,5 @@ Furthermore, the Japanese ambassador also said that he hopes to expedite the con
 ...
 
 [Data](articles/25013f15.json)
-
----
-
-### கொள்கை அறிக்கையை வெளியிட்டது மத்திய வங்கி
-
-*2025-01-08 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203342) · `ta`
-
-இவ்வருடத்தில் மத்திய வங்கியினால் முன்னெடுக்கப்படும் நடவடிக்கைகள் 'சுபீட்சத்துக்கான உறுதிப்பாட்டைப்பேணல்' என்பதை இலக்காகக்கொண்டவையாகவே அமையும் என இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டிருக்கும் இவ்வாண்டுக்கான கொள்கை அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-2025 க்கும், அதற்கு அப்பாலுக்குமான இலங்கை மத்திய வங்கியின் கொள்கை அறிக்கை புதன்கிழமை (8) மத்திய வங்கியின் கேட்போர் கூடத்தில் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்கவினால் வெளியிட்டுவைக்கப்பட்டது. அக்கொள்கை அறிக்கையின்படி இவ்வாண்டு முன்னெடுப்பதற்கு மத்திய வங்கியினால் உத்தேசிக்கப்பட்டிருக்கும் முக்கிய நடவடிக்கைகள் வருமாறு:
-
-இவ்வாண்டு இலங்கை மத்திய வங்கி 75 ஆவது வருடப்பூர்த்தியைக் கொண்டாடுகின்றது. எனவே முக்கியத்துவம் வாய்ந்த இவ்வருடத்தில் மத்திய வங்கியினால் அவதானம் செலுத்தப்படும் மற்றும் முன்னெடுக்கப்படும் நடவடிக்கைகள் 'சுபீட்சத்துக்கான உறுதிப்பாட்டைப்பேணல்' என்பதை இலக்காகக்கொண்டவையாகவே அமையும்.
-
-...
-
-[Data](articles/32fffd9f.json)
-
----
-
-### இலங்கை - சிங்கப்பூர் சுதந்திர வர்த்தக ஒப்பந்தத்தை மீள்பரிசீலனை செய்வதாக அரசாங்கம் குறிப்பிட்டுள்ளது - கலாநிதி ஹர்ஷ டி சில்வா
-
-*2025-01-08 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/203344) · `ta`
-
-ஹவாலா மற்றும் உண்டியல் முறைமையிலான பண பரிமாற்ற முறைமைகள் சட்டவிரோதமானதல்ல, இருப்பினும் இலங்கையில்   அதற்கு  முறையான கண்காணிப்புக்கள் ஏதும் கிடையாது. இலங்கை - சிங்கப்பூர் சுதந்திர வர்த்தக ஒப்பந்தத்தை மீள்பரிசீலனை செய்வதாக அரசாங்கம் குறிப்பிட்டுள்ளது என அரசாங்க நிதி தொடர்பான  தெரிவுக்குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08) நடைபெற்ற அமர்வில் அரசாங்க நிதி குழுவின் அறிக்கைகளை சமர்ப்பித்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-2005 ஆம் ஆண்டு 28 ஆம் இலக்க மீட்பு சட்டத்தின் பிரகாரம் இலங்கையில் ஹவாலா மற்றும் உண்டியல் முறைமையிலான பண பரிமாற்ற முறைமைகள்  சட்டவிரோதமானதல்ல, இருப்பினும் அது முறையாக கண்காணிக்கப்படுவதில்லை.
-
-இந்த  முறைமையின்  மூலம் சர்வதேச பரிவர்த்தனைகளை மேற்கொள்பவர்கள்  2024  ஜூன் மாதம் முதல் 2025   மே மாதம் வரையிலான 12 மாத காலத்திற்குள்  முறையாக  பதிவு செய்ய வேண்டும் என்ற   யோசனை முன்மொழியப்பட்டது.
-
-...
-
-[Data](articles/533e5675.json)
-
----
-
-### வடக்கிற்கான புகையிரத சேவையை விரிவுபடுத்த போக்குவரத்து அமைச்சு விசேட கவனம் செலுத்த வேண்டும் - கஜேந்திரகுமார் பொன்னம்பலம்
-
-*2025-01-08 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/203345) · `ta`
-
-வடக்கு மாகாணத்துக்கு மட்டுப்படுத்தப்பட்டுள்ள புகையிரத சேவையை  விரிவுபடுத்த  போக்குவரத்து அமைச்சு விசேட கவனம் செலுத்த வேண்டும். தமிழர்கள் அதிகமாக வசிக்கும் வெள்ளவத்தை, பம்பலப்பிட்டி புகையிரத நிலையங்களில்  வடக்கு மாகாணத்துக்கான புகையிரதங்களை நிறுத்த நடவடிக்கை எடுக்குமாறு  தமிழ்த் தேசிய மக்கள் முன்னணியின்  பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம்  வலியுறுத்தினார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08) நடைபெற்ற  இறக்குமதி மற்றும் ஏற்றுமதி கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள்,  கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்கு விதிகள் உட்பட பல ஒழுங்கு விதிகள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-மருந்து விநியோக சேவைகளுக்கான நேர்முகத் தேர்வுக்கு விண்ணப்பதாரிகள்  அழைக்கப்பட்டு, தெரிவு செய்யப்பட்டுள்ளவர்களின் பெயர் பட்டியல் இருக்கின்ற போதும் இதுவரையில் நியமனங்கள் வழங்கப்படவில்லை.
-
-...
-
-[Data](articles/267ca607.json)
-
----
-
-### பொலிஸாரால் பெண்ணொருவர் தாக்கப்பட்டமைக்கு உரிய நடவடிக்கை எடுக்க வேண்டும் - தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர்கள்
-
-*2025-01-08 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/203347) · `ta`
-
-பெரிய நீலாவணை பொலிஸ் நிலையத்துக்கு முறைப்பாடளிக்க சென்ற பெண் பொலிஸாரால் கடுமையாக தாக்கப்பட்டமைக்கு கடும் எதிர்ப்பை வெளிப்படுத்திய தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர்கள் இந்த சம்பவத்துடன் தொடர்புடைய பொலிஸாருக்கு எதிராக கடும் சட்ட நடவடிக்கைகளை முன்னெடுக்குமாறு சபையில் வலியுறுத்தினர்.
-
-பாராளுமன்றத்தில் புதன்கிழமை  (08) இடம்பெற்ற  இறக்குமதி மற்றும் ஏற்றுமதிக் கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள், கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்குவிதிகள் உள்ளிட்ட பல ஒழுங்குவிதிகள் மீதான விவாதத்தில் உரையாற்றிய  தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர்  ஸ்ரீநேசன் ,
-
-அம்பாறைக்கும் மட்டக்களப்புக்கும் இடைப்பட்ட பெரிய நீலாவணை பொலிஸ் நிலையத்திற்கு முறைப்பாடு செய்ய சென்ற பெண்ணொருவர் அங்கிருந்த அறையொன்றில் பூட்டப்பட்டு பெண்ணென்றும் பாராது படுமோசமாக தாக்கப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/bf6079f3.json)
-
----
-
-### President inaugurates ‘Gem Sri Lanka – 2025’ gem and jewellery exhibition
-
-*2025-01-08 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104834/president-inaugurates-gem-sri-lanka-2025-gem-and-jewellery-exhibition) · `en`
-
-The “Gem Sri Lanka – 2025” gem and jewellery exhibition was inaugurated this morning (08) at the Cinnamon Bentota Beach Hotel, presided over by President Anura Kumara Dissanayake.
-
-Organized annually by the Chinese Fort Gem and Jewellery Traders’ Association (CGJTA), the exhibition will be open to the public from today until January 10.
-
-Following the opening, President Dissanayake toured the exhibition booths and engaged in discussions with industry stakeholders, addressing challenges faced by gem and jewellery manufacturers while fostering a friendly dialogue with them.
-
-He also posed for a group photograph with the organizing committee of “Gem Sri Lanka – 2025.”
-
-This year’s exhibition features 103 booths and has attracted a significant number of both local and international buyers, highlighting the event’s global appeal.
-
-...
-
-[Data](articles/4c7cfb0c.json)
-
----
-
-### பனிஸ் ஒன்றிற்குள் இருந்த லைட்டர்
-
-*2025-01-08 18:40:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பனிஸ்-ஒன்றிற்குள்-இருந்த-லைட்டர்/175-350001) · `ta`
-
-பாணந்துறையில் உள்ள பிரபல ஹோட்டல் ஒன்றில் இருந்து கொள்வனவு செய்யப்பட்ட பனிஸ் ஒன்றிற்குள் லைட்டரின் பாகங்கள் காணப்பட்டுள்ளன.
-
-பாணந்துறை அருக்கொட பிரதேசத்தை சேர்ந்த மஞ்சுள பெரேரா என்பவர் இன்று (08) காலை இரண்டு கறி பனிஸ்களை ஹோட்டலில் இருந்து கொள்வனவு செய்துள்ளார்.
-
-இது தொடர்பில் பிரதேசத்திற்குப் பொறுப்பான பொதுச் சுகாதார பரிசோதகருக்கு அறிவித்த போதிலும், இன்று விடுமுறையில் இருப்பதாக தெரிவித்த அவர், பாணந்துறை சுகாதார வைத்திய அதிகாரி காரியாலயத்திற்கு தனது பிரச்சினையை தெரிவிக்குமாறும் தெரிவித்தார்.
-
-பாணந்துறை சுகாதார வைத்திய அதிகாரி காரியாலயத்திற்குச் சென்று அவர் இதனைக் கூறியபோதும் தனது முறைப்பாட்டை ஏற்காமல் திருப்பி அனுப்பியதாக மஞ்சுள தெரிவித்தார்.
-
-மேலும், இந்த ஹோட்டல் பாணந்துறை மாநகர சபைக்குட்பட்ட ஹோட்டல் எனவும், எனவே இது தொடர்பில் மாநகர சபையுடன் இணைக்கப்பட்டுள்ள பொது சுகாதார பரிசோதகரிடம் தெரிவிக்குமாறும் அங்குள்ள அதிகாரிகள் அவரிடம் தெரிவித்துள்ளனர்.R
-
-◼️
-
-[Data](articles/43f4c5bf.json)
-
----
-
-### නවෝත්පාදන දිරි ගැන්වීම සඳහා නව රජයෙන් කඩිනම් වැඩපිළිවෙළක්
-
-*2025-01-08 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205182) · `si`
-
-ලෝක වෙළෙඳපොළේ ශ්‍රී ලංකාවේ පංගුව අත්පත් කර ගැනීම නව උත්පාදන වැඩපිළිවෙළ හරහා සිදුකළ හැකි බවත්, නව මාදිලි තුළින් නව වෙළෙඳපොළ අවස්ථා නිර්මාණය වන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, පර්යේෂණ හා සංවර්ධන වාණිජකරණ ප්‍රවේශයක් ඇති කිරීමේ වැඩපිළිවෙළ ආරම්භ කිරීම වෙනුවෙන් ජනාධිපති කාර්යාලයේදී අද (08) පැවති උත්සවයට එක්වෙමිනි.
-
-පර්යේෂණ හා සංවර්ධන වාණිජකරණ ප්‍රවේශයක් ඇති කිරීම සඳහා  nirdc.gov.lk නව වෙබ් අඩවිය දියත් කිරීමද මෙම අවස්ථාවේ සිදු කෙරිණි.
-
-මෙහිදී අදහස් දක්වමින් මිනිසාගේ අවශ්‍යතා නොවෙනස්ව පවතින බව පෙන්වා දුන් ජනාධිපතිවරයා, එම අවශ්‍යතා ලබා ගන්නා මාදිලිය පමණක් වෙනස් වන බවද, නව උත්පාදනය තුළින් එම මාදිලිය නිර්මාණය කළ හැකි බවද කියා සිටියේය.
-
-තාක්ෂණයට සහ නවෝත්පාදනය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ පැවැති ප්‍රතිපත්තිය නිසා ලෝක වෙළෙඳපොළේ ශ්‍රී ලංකාවට හිමි තැන අත්පත් කර ගැනීමට අසමත් වූ බවද ලෝකයේ තාක්ෂණය සමඟ වෙළෙඳපොළ මාදිලියේ නව පෙරළියක් ඇති වුණත් ශ්‍රී ලංකාව තේ, පොල්, රබර්  වැනි පැරණි සංකල්පයක හිරවී ඇති බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/ec58e38b.json)
-
----
-
-### Tens of thousands flee as wildfires tear through Los Angeles area
-
-*2025-01-08 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104833/tens-of-thousands-flee-as-wildfires-tear-through-los-angeles-area) · `en`
-
-More than 30,000 people evacuated their homes as a wildfire ripped through an upscale coastal area of Los Angeles on Tuesday and into Wednesday, with Hollywood celebrities among those fleeing by car and on foot as flames engulfed homes and set hillsides ablaze.
-
-Two other fires inland were also spreading fast, officials said.
-
-Numerous buildings were destroyed and nearly 3,000 acres (1,200 hectares) burned in the Pacific Palisades area between the beach towns of Santa Monica and Malibu, officials said. The area is home to many film and music stars.
-
-Roads were jammed with people fleeing the inferno, some abandoning their cars as flames licked the edges, and plumes of smoke and flames rose in the night sky over Los Angeles and its suburbs.
-
-Firefighters has not contained the blaze by the early hours and Governor Gavin Newsom has declared a state of emergency.
-
-...
-
-[Data](articles/e659446f.json)
-
----
-
-### දුම්රිය ස්ථානාධිපතිවරුන්ගෙන් රතු එළියක්
-
-*2025-01-08 18:22:17* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්ගෙන්-රතු-එළියක්/11-414104) · `si`
-
-දුම්රිය ස්ථානාධිපතිවරුන්ට ඇති වී තිබෙන ගැටලු දෙකකට දින 14ක් තුළ විසඳුම් ලබා දීමට කටයුතු නොකළහොත් වෘත්තීය ක්‍රියාමාර්ග ගැනීමට සිදුවන බව ශ්‍රී ලංකා දුම්රිය ස්ථානාධිපති සංගමය සඳහන් කරයි.
-
-මේ අනුව ඉදිරි දින 14 තුළදී යෝජිත බඳවා ගැනීමේ පටිපාටිය අනුමත කර, වසර පහෙන් පහට උසස් වීම් ලබා දෙන ක්‍රමවේදය ක්‍රියාත්මක කරන ලෙසටඅද (08දා)  දුම්රිය සාමාන්‍යාධිකාරීවරයාගෙන් ලිඛිතව ඉල්ලීමක් කර තිබේ.
-
-දුම්රිය ස්ථානාධිපතිවරුන්ට වසර පහෙන් පහට ශ්‍රේණි උසස් වීම් ක්‍රමවේදය සහ සංශෝධනය විය යුතු අනෙකුත් කරුණු ඇතුළත් කර සකස් කරන ලද බඳවා ගැනීමේ පටිපාටිය මෙතෙක් එය අනුමත කර නොමැති බවද පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/8cd8b3da.json)
-
----
-
-### Sri Lanka central bank to “provide certainty” on liquidity with new OMO
-
-*2025-01-08 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-provide-certainty-on-liquidity-with-new-omo-198652/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank will revise its current open market operations system to inject liquidity into banks to “effectively” implement the “monetary policy” under the single policy interest rate mechanism, according its 2025 policy agenda.
-
-The central bank is currently barred by law from printing money through direct market operations to create forex shortages and external instability but under ‘instrument independence’ it is free to inject money through other means.
-
-The central bank recently announced a single policy rate, similar to the ‘Monetary Policy Rate’ adopted earlier by defaulting African nations and Argentina, dropping the corridor system which puts more onus to banks to manage their liquidity without depending on printed money from the central bank.
-
-The ceiling rate tends to serve as a penalty, above market ‘lender of last resort’ rate rather than the ‘first resort’ rate of ‘assured’ liquidity, critics say.
-
-...
-
-[Data](articles/09acf90b.json)
-
----
-
-### Sri Lanka rupee closes stronger, bond yields down
-
-*2025-01-08 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-down-198672/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 295.05/15 to the US dollar in the spot market Wednesday, dealers said while bond yields fell.
-
-The spot US dollar was quoted wide in intra-day trade at 296/297 rupee in early trade reflecting some uncertainty, dealers said. There was also some forward booking from importers.
-
-A bond maturing on 15.12.2026 closed at 9.40/45 percent down from 9.50/60 percent.
-
-A bond maturing on 15.10.2027 closed at 9.75/85 percent from 9.80/95 percent.
-
-A bond maturing on 15.02.2028 closed at 10.10/18 percent down from 10.17/25 percent.
-
-A bond maturing on 15.10.2028 closed at 10.45/52 percent, down from 10.45/55 percent.
-
-A bond maturing on 01.05.2028 closed at 10.30/33 percent, down from 10.35/42 percent.
-
-A bond maturing on 15.09.2029 closed at 10.75/82 percent down from 10.75/85 percent.
-
-A bond maturing on 15.05.2030 closed at 11.00/15 percent, unchanged. (Colombo/Jan08/2025)
-
-◼️
-
-[Data](articles/8f49971b.json)
-
----
-
-### බස් වර්ජනයක් නෑ
-
-*2025-01-08 18:13:59* · [`adalk`](https://www.ada.lk/breaking_news/බස්-වර්ජනයක්-නෑ/11-414103) · `si`
-
-පොලිස් රථවාහන මෙහෙයුම් සම්බන්ධයෙන් බස් සංගම් සහ වැඩබලන පොලිස්පතිවරයා අතර අද (08දා) පැවැති සාකච්ඡාව සාර්ථක බව බස් සංගම්  නියොජිතයෝ සඳහන් කරති.
-
-ඒ අනුව, බස් සංගම් විසින් සැලසුම් කළ දීපව්‍යාප්ත වැඩවර්ජනය සිදු නොකිරීමට තීරණය කළ බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය පෙන්වා දෙයි.
-
-සිවිල් ඇඳුමින් සැරසි පොලිස් නිලධාරීන් බස් රථ තුළට පැමිණ රියදුරු සිදුකරන වැරදි නිරීක්ෂණය කිරීම මහජනතාව අපහසුතාවයට පත් නොවන ආකාරයට සිදුකරන බවට වැඩබලන පෙලිස්පතිවරයා පැවසූ බවද එම සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා සඳහන් කළේය.
-
-මීට අමතරව බස් රථ තුළ සවිකර තිබෙන අමතර උපාංග ඉවත් කිරීමට මාස තුනක සහන කාලයක්ද ලබා දුන් බවද පැවසීය.
-
-වැරදි සිදුකරන රියදුරන්ට නීතිය ක්‍රියාත්මක කළ යුතු බවත්, එහෙත් අදාළ කටයුතුවලින් මහජනතාව අපහසුතාවයට පත් නොවිය යුතු බවද සඳහන් කළේය.
-
-◼️
-
-[Data](articles/429618ce.json)
-
----
-
-### පාස්කු දා ප්‍රහාරයේ සැකකරුවෙක් පාපොච්ඡාරණය කරයි
-
-*2025-01-08 18:05:51* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-දා-ප්‍රහාරයේ-සැකකරුවෙක්-පාපොච්ඡාරණය-කරයි/11-414101) · `si`
-
-පාස්කු දා මෙරට කතෝලික පල්ලි සහ තරු හෝටල් ඉලක්ක කර එල්ල කළ ප්‍රහාරයට ආධාර අනුබල දුන්නේ යැයි කියමින් සැකපිට අත්අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන සැකකරුවෙකු එම ප්‍රහාරයට අදාළ සිද්ධීන් සම්බන්ධයෙන් කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා හමුවේ වසර ගණනාවකට පසු පැයක පමණ කාලයක් පුරා පාපොච්චාරණය කළේය.
-
-අල් කයිඩා හා අයි,එස්, අයි.එස් ත්‍රස්ත සංවිධාන වල සාමාජිකයෙකු වෙමින් සිරියාවේදී විශේෂ අවි පුහුණුවක් හා ත්‍රස්ත සංවිධානයන් ලොව පුරා භාවිතා කරන රහස්‍ය පණිවිඩ හුවමාරුවන් කෙරෙන අන්තර්ජාල යෙදවුමකට සම්බන්ධ බව කියන අල් කයිඩා සහ අයි.එස්.අයි.එස්. අන්තවාදී ත්‍රස්ත සංවිධාන මෙරට ව්‍යාප්ත කිරීමට දායක වු බව කියන මොහොමුදු  නිලාබ්දීන් මොහොමඩ් රිම්සාන් නමැති සැකකරු වසර ගණනාවකට පසු මෙලෙස පාපොච්චාරණය කළේය.
-
-ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාශයේ නිලධාරින් විසින් පාස්කු දා එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන සැකකරු අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතතුරුව සැකකරු පැයක පමණ කාලයක් පුරා මෙලස රහස් ප්‍රකාශයක් දුන්නේය.
-
-...
-
-[Data](articles/ca2c5965.json)
-
----
-
-### මාළු පාන් ගෙඩියෙන් මතු වූ ලයිටර් කෑලි
-
-*2025-01-08 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205181) · `si`
-
-පානදුර ප්‍රසිද්ධ හෝටලයකින් මිල දී ගත් මාළු පාන් ගෙඩියක තිබී ලයිටරයක කොටස් හමුව තිබේ.
-
-පානදුර අරුක්ගොඩ ප්‍රදේශයේ පදිංචි මංජුල පෙරේරා මහතා අද (08) උදෑසන සිය පුතුන් දෙදෙනාට ලබාදීම සඳහා අදාළ හෝටලයෙන් මාළු පාන් ගෙඩි දෙකක් මිළදී ගෙන ඇත.
-
-එහිදී, සිය බාල පුතු කෑම ගත් මාළු පාන් ගෙඩියේ තිබී ලයිටරයක ලෝහමය කොටසක් හමුව තිබේ.
-
-ඒ මොහොතේම මංජුල පෙරේරා මහතා ප්‍රදේශය භාර මහජන සෞඛ්‍ය පරීක්ෂකවරයාව මේ බව දැනුවත් කර ඇතත් ඔහු පවසා ඇත්තේ, අද දිනයේ තමන් නිවාඩු බවත්, පානදුර සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය වෙත සිය ගැටලුව දැනුම්දෙන ලෙසත්ය.
-
-ඒ අනුව පානදුර සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය වෙත ගොස් මේ බව පැවසුවද සිය පැමිණිල්ල භාර නොගෙන තමන්ව ආපසු හරවා එවූ බව මංජුල මහතා පවසයි.
-
-එමෙන්ම ඔහුට එහිදී නිලධාරීන් පවසා ඇත්තේ එම හෝටලය පානදුර නගර සභා සීමාවේ ඇති හෝටලයක් බැවින් ඒ සම්බන්ධයෙන් නගර සභාවට අනුයුක්ත මහජන සෞඛ්‍ය පරීක්ෂකවරයාට දැනුම් දෙන ලෙසය.
-
-◼️
-
-[Data](articles/14674db3.json)
-
----
-
-### அரசுக்கு எதிராக அனைத்துப் பல்கலைக்கழக மாணவர் ஒன்றியத்தால் கவனயீர்ப்புப்போராட்டம்
-
-*2025-01-08 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/203341) · `ta`
-
-பெறுமதிசேர் வரிக்குறைப்பு உள்ளிட்ட பல்வேறு விடயங்களை முன்வைத்து அரசாங்கத்துக்கு எதிராக அனைத்துப் பல்கலைக்கழக மாணவர் ஒன்றியத்தினரால் புதன்கிழமை (08) கொழும்பு, கோட்டை புகையிரத நிலையத்துக்கு முன்பாக மேற்கொள்ளப்பட்ட கவனயீர்ப்புப்போராட்டத்தின்போது பிடிக்கப்பட்ட படங்கள்.
-
-◼️
-
-[Data](articles/6ab30c5e.json)
-
----
-
-### උන්ඩියල් හා හවාලා ක්‍රියාකරුවන්ට මහ බැංකුවේ ලියාපදිංචි වෙන්න කියයි
-
-*2025-01-08 17:53:49* · [`adalk`](https://www.ada.lk/breaking_news/උන්ඩියල්-හා-හවාලා-ක්‍රියාකරුවන්ට-මහ-බැංකුවේ-ලියාපදිංචි-වෙන්න-කියයි/11-414100) · `si`
-
-රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් සැලකිල්ලට ගනු ලැබූ රෙගුලාසි 4න් 3ක් සහ නියෝගයක් සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
-
-පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ, සභාපතීත්වයෙන් ඊයේ (07)  රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේදී මෙම අනුමතිය ලබාදීම සිදුවිය.
-
-මෙහිදී 1969 අංක 1 දරන ආනයන හා අපනයන (පාලන) පනතේ විධිවිධාන ප්‍රකාරව ඉදිරිපත් කර තිබූ රෙගුලාසිවලට අනුකූලව, ආනයනික භාණ්ඩවල ප්‍රමිතීන්ට අදාළ ගැටලු සම්බන්ධයෙන් වාර්තාවක් ලබාදෙන ලෙස කාරක සභාව විසින් නිලධාරීන්ට උපදෙස් ලබා දෙන ලදී. තවද, ආනයනය කරන ලද භාණ්ඩ වෙළෙඳපොළට නිකුත් කිරීමට පෙර ඒවා ප්‍රමිතියෙන් යුතු බවට සහතික කර ගැනීමේ ක්‍රියා පටිපාටිය පිළිබඳ වාර්තාවක් ලබා දෙන ලෙස ද කමිටුව නිලධාරීන්ට උපදෙස් ලබා දෙන ලදි.
-
-2005 අංක 28 දරන ගෙවීමේ හා බේරුම් කිරීමේ පද්ධති පනත යටතේ නියෝග සැලකිල්ලට ගනිමින්, උන්ඩියල් (Undial) සහ හවලා (Hawala) ක්‍රියාකරුවන් පිළිබඳ ප්‍රමාණවත් තොරතුරු තිබේද, සහ මෙකී ක්‍රම මගින් ඇති වන ප්‍රතිවිපාක වළක්වා ගැනීම සඳහා මෙම ක්‍රියාවලිය විධිමත් කර තිබේද යන්න කාරක සභාව, පැමිණ සිටි නිලධාරීන්ගෙන් විමසා සිටියේය.
-
-...
-
-[Data](articles/bd5bfd54.json)
-
----
-
-### Japan's assistance to resume temporarily parked projects
-
-*2025-01-08 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205180) · `si`
-
-Japan aids restarting suspended projects in Sri Lanka. Japanese Ambassador discusses resuming temporarily halted projects & accelerating airport terminal construction. Long-term ties between nations strengthen development efforts.
-
-🟩
-
-Japanese Ambassador, Ambassador, Ambassador to Sri Lanka, says that the government is discussing temporarily parked projects in Sri Lanka.
-
-He was speaking at a meeting of Speaker Jagath Wickramaratne in Parliament recently.
-
-The Japanese Ambassador also said that the construction of the new terminal at the Bandaranaike International Airport was also expected to be expedited.
-
-The Japanese Ambassador who recalled on the long-term relationship between Sri Lanka and he further stated that the development of Sri Lanka is further strengthened.
-
-The Japanese Ambassador has joined the government, including the Speaker,.
-
-The Speaker, the Speaker, recalled the projects that the Japanese government had given to the people of this country to Japan.
-
-The Speaker said that the Third Parliament is expected to re-establish the Sri Lanka-Japan Parliamentary Association to strengthen relations between the two countries.
-
-...
-
-[Data](articles/10ff61ad.json)
-
-[Extended Data](ext_articles/10ff61ad.ext.json)
-
----
-
-### බස්නාහිර ක්ෂය රෝගීන් 8000ක්
-
-*2025-01-08 17:42:49* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-ක්ෂය-රෝගීන්-8000ක්/11-414099) · `si`
-
-ක්ෂය රෝග තත්ත්වයට ගොදුරු වූවන් අටදහසකට ආසන්න පිරිසක් බස්නාහිර පළාත තුළ ඇතැයි සැකකරන බවත්, දෙසතියකට වඩා කැස්ස පවතින්නේ නම් වහාම ළඟම රජයේ රෝහලට ගෙස් පරීක්ෂා කර ගැනීම වඩාත් සුදුසු වන්නේ යැයි ක්ෂය රෝග මර්දන ජාතික වැඩසටහනේ සෞඛ්‍ය අධ්‍යාපන නිලධාරී සන්ධ්‍යා කුමුදුනී මහත්මිය සඳහන් කළාය.
-
-ඇය මේ බව සඳහන් කළේ කල්එළියේ පැවති සෞඛ්‍ය අධ්‍යාපනික ප්‍රදර්ශනයකදීය.
-
-“2035 දී ලංකාවෙන් ක්ෂය රෝගය තුරන් කිරීම අපේ අරමුණයි. මෙම රෝගය පිළිබඳව බිම් මට්ටමින් කෙතරම් දැනුම්වත් කිරීම් කළත් ලැජ්ජාව නිසා රෝග තත්ත්වය හංගාගෙන ඉන්නවා. රෝගයට අවශ්‍ය කරන සියලු පරීක්ෂණ හා ප්‍රතිකාර රජයේ ඕනෑම රෝහලකින් නොමිලේම ලබා ගැනීමේ පහසුව මෙන්ම, අවශ්‍ය කරන බෙහෙත් අවශ්‍ය පරිදි අප සතුව පවතිනවා. කිසිවෙකුට හෝ ප්‍රතිකාර සඳහා මුදල් වැය කරන්න සිදුවෙන්නේ නැහැ.”
-
-සති දෙකකට වඩා කැස්ස පවතින්නේ නම් රජයේ රෝහලකින් පරීක්ෂා කර ගැනීමෙන් පසු මාස හයකදී අනිවාර්යෙන්ම සුවවීමේ හැකියාව පවතින බවද අධ්‍යාපන නිලධාරිනී කුමුදුනී මහත්මිය සඳහන් කළාය.
-
-◼️
-
-[Data](articles/e454841e.json)
-
----
-
-### இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்துகளை தூய்மைப்படுத்துங்கள் - ரோஹித
-
-*2025-01-08 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203325) · `ta`
-
-பொது போக்குவரத்து துறையை தூய்மைப்படுத்த வேண்டுமாயின் முதலில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்துகளை தூய்மைப்படுத்த வேண்டும். க்ளீன் ஸ்ரீ லங்கா திட்டத்தை  பொது மக்களுக்கு நெருக்கடி ஏற்படுத்தாத வகையில் செயற்படுத்த வேண்டும் இல்லையேல் மக்கள் மாற்றமடைவார்கள். அரசாங்கத்துக்கு எதிராக  செயற்படுவார்கள் என புதிய ஜனநாயக முன்னணியின் பாராளுமன்ற உறுப்பினர்  ரோஹித அபேகுணவர்தன தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  புதன்கிழமை (08)  நடைபெற்ற  இறக்குமதி மற்றும் ஏற்றுமதிக் கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள், கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்குவிதி, சீட்டாட்டத் தொழில் (ஒழுங்குபடுத்தல்) சட்டத்தின் கீழான ஒழுங்குவிதி, துறைமுகங்கள் மற்றும் விமான நிலையங்கள் அபிவிருத்தி அறவீட்டுச் சட்டத்தின் கீழான கட்டளை, கொழும்பு துறைமுக நகர பொருளாதார ஆணைக்குழு சட்டத்தின் கீழான ஒழுங்கு விதி மீதான விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/272b0598.json)
-
----
-
-### වෙළඳ හා යුද නෞකා සියල්ලම එන්නේ ජාත්‍යන්තර සම්මුතිවලට අනුවයි
-
-*2025-01-08 17:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වෙළඳ-හා-යුද-නෞකා-සියල්ලම-එන්නේ-ජාත්‍යන්තර-සම්මුතිවලට-අනුවයි/11-414098) · `si`
-
-මෙරටට පැමිණෙන වෙළෙඳ නෞකා, යුද නෞකා සියල්ලක්ම පැමිණෙනුයේ ජාත්‍යන්තර සම්මුතීන්වලට අනුකූලව බවත්, එම නෞකාවලට සේවාවන් සැපයීම වෙළෙඳ කටයුත්තක් සේම, දෙරට අතර තිබෙන සම්බන්ධතා උඩ පැමිණෙන යුද නෞකා සමග සිදුකරන මෙහෙයුම් තවදුරටත් සිදුකරන බව නව නාවික හමුදාපති වයිස් අද්මිරාල් කංචන බානගොඩ මහතා පවසයි.
-
-ඒ මහතා අද (08දා) මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ බව අවධාරණය කළේය.
-
-එහිදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ, එම යුද අභ්‍යාස ශ්‍රී ලංකා නාවික හමුදාවට මෙන්ම, වෙරළාරක්ෂක දෙපාර්තමේන්තුවට මුහුද හරහා සිදුකරන ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම මැඬලීමට මහත් උපකාරී වන බවයි.
-
-මෙරට ජාතික ආරක්ෂාවේ එක් කොටසක් වන්නේ මුහුද හරහා සිදුකරන සතුරු උවදුරුවලට නිසි පියවර ගැනීම බවත්, තිස් වසරක යුද්ධය ජය ගැනීමෙන් පසු මේ වන විට තිබෙන ප්‍රධානතම අභියෝගය වී ඇත්තේ මුහුද හරහා සිදුකරන මත්ද්‍රව්‍ය ජාවාරම ඇතුළු අනෙකුත් නීතිවිරෝධී කටයුතු මැඬලීම බවද නාවික හමුදාපතිවරයා අවධාරණය කළේය.
-
-...
-
-[Data](articles/d9da2fd2.json)
-
----
-
-### இஸ்ரேலியர்களின் மதஸ்தலங்களுக்கு பாதுகாப்பு அமைச்சு அனுமதி வழங்கி நிர்மாணிக்கப்படுகின்றன - முஜிபுர் ரஹ்மான்
-
-*2025-01-08 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/203323) · `ta`
-
-நாட்டில் பல்வேறு பிரதேசங்களில் நிர்மாணிக்கப்பட்டு வரும் இஸ்ரேல் இனத்தவர்களின் மதஸ்தலங்கள் அல்லது அவர்களின் கலாசார நிலையங்களுக்கு பாதுகாப்பு அமைச்சினால் அனுமதி வழங்கி அவை நிர்மாணிக்கப்பட்டு வருகின்றன.
-
-பொலிஸ் மற்றும் விசேட அதிரடிப்படை 24 மணி நேரம்  பாதுகாப்பு வழங்கி அமைக்கப்படும் இந்த கட்டிடங்கள் என்ன? என்பதை அரசாங்கம் தெளிவுபடுத்த வேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08)  பிரதமரிடம் கேட்கப்படும்  கேள்வி நேரத்தின் போதே இவ்வாறு தெரிவித்தார்.
-
-எமது நாட்டில் தெரிவு செய்யப்பட்ட சில அரசாங்கங்கள் பலஸ்தீன் பிரச்சினையைவிட இஸ்ரேலுடன் தொடர்புகளை வைத்துக்கொள்ள மிகவும் ஆர்வத்துடன் செயற்பட்டு வந்தது.
-
-இதன்மூலம் இஸ்ரேலுடன் வைத்துக்கொண்ட சில தொடர்புகள் காரணமாக, பலஸ்தீன் தொடர்பில் எமது நாடு பின்பற்றிவந்த நடவடிக்கைகளுக்கு சர்வதேச  ரீதியில் எங்களுக்கு இருந்துவந்த நற்பெயரும் தற்போது பாதிக்கப்பட்டு வருகிறது. குறி்ப்பாக மத்திய கிழக்கு நாடுகளில்  எமது நாடு தொடர்பில்  இருந்துவந்த தொடர்பும் தற்போது ஓரளவு பாதிக்கப்பட்டிருக்கிறது.
-
-...
-
-[Data](articles/3c978049.json)
 
 ---

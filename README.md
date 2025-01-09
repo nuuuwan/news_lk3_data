@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 19:44:08**
+As of **2025-01-09 20:02:28**
 
 ## Newspaper Stats
 
-*Scraped **64,581** Articles*
+*Scraped **64,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,188
+adalk | 6,189
 adaderanalk | 7,907
-tamilmirrorlk | 9,267
+tamilmirrorlk | 9,268
 virakesarilk | 10,789
 adaderanasinhalalk | 11,152
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,152
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,581 articles have been extended.
+61,973 (96.0%) of 64,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### இது களனிப் பல்கலைக்கழக மாணவர் சபையல்ல-திலித் ஆவேசம்
+
+*2025-01-09 19:45:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-களனிப்-பல்கலைக்கழக-மாணவர்-சபையல்ல-திலித்-ஆவேசம்/175-350052) · `ta`
+
+அரசாங்கம் வழங்கிய வாக்குறுதிகளை நிறைவேற்றத் தவறிவிட்டதாகவும், அதற்கு பதிலாக ‘க்ளீன் ஸ்ரீலங்கா’ போன்ற பல்வேறு தேசிய வேலைத்திட்டங்கள் மூலம் அதை மூடிமறைப்பதாகவும் பாராளுமன்ற உறுப்பினர் திலித் ஜயவீர அரசாங்கத்தை கடுமையாக சாடினார்.
+
+பாராளுமன்றம் ஆரம்பிக்கப்பட்டு 49 நாட்கள் கடந்துள்ள நிலையில், இது களனிப் பல்கலைக்கழக மாணவர் சபையல்ல , தேசத்தை ஆளும் சபை என்பதை அரசாங்கம் மறந்துவிட்டமையே இப்போது வெளிவருவதாக பாராளுமன்ற உறுப்பினர் ஜயவீர இன்று பாராளுமன்றத்தில் உரையாற்றினார்.
+
+“இந்த அரசாங்கத்தின் மீது மக்கள் பெரும் எதிர்பார்ப்புகளை வைத்திருந்தனர். ஆனால் உங்களின் சில உறுதிமொழிகள் அரசியல் நோக்கங்களுக்காக செய்யப்பட்டவை. அரசாங்கத்தில் உள்ள உங்களில் எவரேனும் லாப நஷ்டக் கணக்கைச் செய்திருந்தால், உங்கள் உறுதிமொழிகள் எதையும் நிறைவேற்ற முடியாது என்பதை நீங்கள் அறிவீர்கள். ஏனெனில் வருமானம் இல்லாமல் செலவு செய்ய முடியாது,'' என்றார்.
+
+வாக்குறுதிகளை நிறைவேற்ற முடியாது என்பதை பகிரங்கமாக மக்களுக்கு தெரிவிப்பதே சிறந்த தீர்வாக இருக்கும் என பாராளுமன்ற உறுப்பினர் திலித் ஜயவீர மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/fb5c076f.json)
+
+---
 
 ### வரியை மாற்றினால் வாகனங்களின் விலைகளும் மாறும்
 
@@ -105,6 +123,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/582c02a7.json)
+
+---
+
+### වරාය අධිකාරියේ බහාලු පර්යන්තවල කැපී පෙනෙන වර්ධනයක්
+
+*2025-01-09 18:45:53* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-අධිකාරියේ-බහාලු-පර්යන්තවල-කැපී-පෙනෙන-වර්ධනයක්/11-414126) · `si`
+
+ශ්‍රී ලංකා වරාය අධිකාරියේ බහලු පර්යන්ත 2024 දෙසැම්බර් 31 වන විට බහලු මිලියන 2.4 කට අධික ප්‍රමාණයක් හසුරුවමින් ඓතිහාසික සංධිස්ථානයකට ලඟා වී තිබේ. මෙය 2023 දී හසුරුවන ලද   බහලු 1.9ට සාපේක්‍ෂව 23% කැපි පෙනෙන වර්ධනයකි. ඒ තුළින් කොළඹ වරාය තුළ ඉහළම වර්ධනය පෙන්නුම් කරන පර්යන්තයක් ලෙසින් ශ්‍රී ලංකා වරාය අධිකාරියේ බහලු පර්යන්තයන් පත්ව තිබේ.
+
+නැගෙනහිර බහලු පර්යන්තය දිගින් මීටර් 400 ඉක්මවන සහ බහලු 23000 කට වඩා රැගෙන යා හැකි නැව් ඇතුළුව ලොව විශාලතම නෞකා හැසිරවීමේ හැකියාව පෙන්නුම් කර ඇත. එමගින් ගෝලිය සමුද්‍ර කර්මාන්තයේ ප්‍රමුඛ ස්ථානයකට පත්වීමේ හැකියාව පෙන්නුම් කර තිබේ.
+
+සමස්ථ කොළඹ වරාය 2024 වර්ෂයේ දී බහලු මිලියන 7.7 ක් හසුරුවමින් එහි ප්‍රශස්ත මට්ටම අත්කරගෙන ඇත. මෙය 2023 දී හසුරුවන ලද බහලු මිලියන 6.9 හා සසඳන විට 12.3% ක වර්ධනයකි. එය කොළඹ වරාය දකුණු ආසියානු සමුද්‍රීය කලාපය තුළ නාවික කේන්ද්‍රස්ථානයක් ලෙස නැවත තහවුරු කිරීමකි.
+
+...
+
+[Data](articles/861ef9c5.json)
 
 ---
 
@@ -1795,43 +1829,5 @@ The list of D-SIBs and capital buffers will be announced in 2025. (Colombo/Jan09
 ◼️
 
 [Data](articles/63efc821.json)
-
----
-
-### ගප්ටිල් ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදෙයි
-
-*2025-01-09 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205193) · `si`
-
-නවසීලන්ත ක්‍රීඩක මාටින් ගප්ටිල් ජාත්‍යන්තර ක්‍රිකට් තරගවලින් සමුගැනීමට තීරණය කර තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් ඔහු සිය විශ්‍රාම ගැනීමේ නිවේදනය දැනුම් දි ඇති බව වාර්තා වේ.
-
-මර්ටින් ගප්ටිල් නවසීලන්තය නියෝජනය කරමින් පසුගිය 2022 වසරේදි අවසන් වරට ක්‍රිකට් තරගාවලියකට එක් විය.
-
-ජාත්‍යන්තර ක්‍රිකට් තරගවලින් සමුගත්ත ද ගප්ටිල් 20/20 ලීග් ක්‍රිකට් තරග සඳහා සහභාගි වීමට තීරණය කර තිබේ.
-
-◼️
-
-[Data](articles/7fe11dd2.json)
-
----
-
-### One person injured in shooting at Ahungalla
-
-*2025-01-09 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104838/one-person-injured-in-shooting-at-ahungalla) · `en`
-
-One person has reportedly been injured in a shooting incident at Ahungalla Junction this morning (09).
-
-The injured person has been admitted to the Balapitiya Base Hospital, police said.
-
-Police Spokesman SSP Buddhika Manatunga said the shooting was carried out at around 6.15 a.m. today by two unidentified gunmen who had arrived on a red color scooter.
-
-The person injured in the shooting is allegedly a relative of the underworld figure and criminal gang leader Sujeewa Ruwankumara, also known as “Loku Patty”.
-
-It is reported that the shooting victim is employed as a three-wheeler driver and that he had been shot while at the three-wheeler park in the Ahungalla Junction.
-
-◼️
-
-[Data](articles/995a2f59.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 05:27:58**
+As of **2025-01-09 05:52:23**
 
 ## Newspaper Stats
 
-*Scraped **64,434** Articles*
+*Scraped **64,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,92 @@ dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
-islandlk | 3,930
-dailyftlk | 4,502
+islandlk | 3,940
+dailyftlk | 4,504
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
 tamilmirrorlk | 9,242
-virakesarilk | 10,763
+virakesarilk | 10,766
 adaderanasinhalalk | 11,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.2%) of 64,434 articles have been extended.
+61,973 (96.2%) of 64,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Strategic initiative to establish commercial approach to R&D
+
+*2025-01-09 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/Strategic-initiative-to-establish-commercial-approach-to-R-D/56-771618) · `en`
+
+Govt. introduces fast-tracked initiative aimed at promoting innovation, entrepreneurship across various sectors
+
+Stresses Sri Lanka can strengthen position in global market through new product development
+
+President Anura Kumara Dissanayake yesterday emphasised that Sri Lanka can enhance its position in the global market through a robust new product development strategy, which will also create new market opportunities.
+
+He made these remarks during the official launch of the “National Initiative for R&D Commercialisation” (NIRDC) held at the Presidential Secretariat.
+
+As part of the initiative, the newly developed website nirdc.gov.lk was also launched. This platform aims to facilitate the commercialisation of research and development (R&D), thereby contributing to sustainable economic growth through the production of value-added goods and services, which will ultimately drive national economic development and social progress.
+
+...
+
+[Data](articles/90dd4104.json)
+
+---
+
+### Sri Lanka College of Pulmonologists to hold Annual Academic Session in February
+
+*2025-01-09 05:37:46* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-College-of-Pulmonologists-to-hold-Annual-Academic-Session-in-February/56-771617) · `en`
+
+SLCP President Dr. Neranjan Dissanayake (centre) flanked by President Elect Dr. Suntharalingam Rishikesavan (left) and Immediate Past President Dr. Bodhika Samarasekera at the media briefing on the upcoming 15th Annual Academic Session ‘Respire 2025’ – Pic by Ruwan Walpola
+
+17,000 males identified as cancer patients in Sri Lanka annually, out of which 1,700 are suffering from lung cancer. Many of these patients seek medical attention only once they reach the third stage. In ‘Respire 2025’, we aim to increase public awareness of the early stages of cancer in collaboration with regional medical centres, encouraging individuals to recognise the symptoms early on and seek the necessary preventative care promptly – Sri Lanka College of Pulmonologists President and Consultant Respiratory Physician Dr. Neranjan Dissanayake
+
+Reveals Sri Lanka has one of the highest asthma prevalence rates globally
+
+Surge in Chronic Obstructive Pulmonary Diseases affecting around 10-15% of population
+
+...
+
+[Data](articles/6b872587.json)
+
+---
+
+### அநுர அரசாங்கத்திலும் காணி அபகரிப்பா, கொந்தளிக்கும் திருமலை மக்கள்
+
+*2025-01-09 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/203358) · `ta`
+
+கடந்த கால அரசாங்கங்கள் ஆட்சியாளர்களாக இருந்தது தொடக்கம் இற்றை வரை மக்களின் தனியார்கள் நிலங்கள் அபகரிக்கப்பட்டு வருகிறது.
+
+குறிப்பாக வடகிழக்கில் சிறுபான்மை சமூகங்களின் விவசாய , குடியிருப்பு காணிகள் கபளீகரம் செய்யப்படுகிறது இதனடிப்படையில் திருகோணமலை மாவட்டத்தில் உள்ள குச்சவெளி பிரதேச செயலாளர் பிரிவு, திருகோணமலை பட்டினமும் சூழலும் பிரதேச செயலாளர் பிரிவில் நில ஆக்கிரமிப்பு தொடர்வதால் மக்கள் கொந்தளிக்கும் நிலை தற்போது ஏற்பட்டுள்ளது.
+
+தற்போதைய தேசிய மக்கள் சக்தி அரசாங்கள் நாட்டை பொறுப்பேற்றதன் பின்பும் கூட தீர்வு இல்லாமல் காணப்படுகிறது. திருகோணமலை மாவட்டத்தில் உள்ள திரியாய், முத்து நகர், சம்பூர் உள்ளிட்ட தனியார் விவசாய மற்றும் குடியிருப்பு காணிகளை தொல் பொருள் திணைக்களம், வனஜீவராசிகள் திணைக்களம்,இலங்கை துறை முக அதிகார சபை  உள்ளிட்ட பல அரச திணைக்களங்கள் பௌத்த பிக்குகள் போன்றோர் அபிவிருத்தி என்ற போர்வையிலும் புனித பூமி என்ற போர்வையிலும் அடாத்தாக நிலங்களை அபகரித்துள்ளனர்.
+
+...
+
+[Data](articles/8537547e.json)
+
+---
+
+### ஊழல், மோசடி, நிதி முறைகேடுகள் தொடர்பான விசாரணைகளின் பிரதிபலன்களை நாட்டு மக்கள் ஒரு மாத காலத்தில் அறிந்து கொள்ள முடியும் - அமைச்சர் ஆனந்த விஜேபால
+
+*2025-01-09 04:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/203357) · `ta`
+
+ஊழல், மோசடி, இலஞ்சம் மற்றும் நிதி முறைகேடுகள் தொடர்பான அனைத்து விசாரணைகளும் சுயாதீனமாக தடையின்றி முன்னெடுக்கப்பட்டு வருகின்றன. ஒரு மாத காலத்தில் அதன் பிரதிபலன்களை நாட்டு மக்கள் அறிந்து கொள்ள முடியும் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (8) இடம்பெற்ற இறக்குமதி மற்றும் ஏற்றுமதிக் கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள், கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்குவிதிகள் உள்ளிட்ட பல ஒழுங்குவிதிகள்  மீதான விவாதத்தில்  உரையாற்றிய ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார குறிப்பிட்ட சில விடயங்களுக்கு பதிலளிக்கும் வகையிலேயே  இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/89c00cbc.json)
+
+---
 
 ### Sri Lanka power sector reforms: Way forward
 
@@ -45,6 +113,22 @@ The Sri Lanka Electricity Act aims to position the power sector in Sri Lanka to 
 [Data](articles/c6ad6428.json)
 
 [Extended Data](ext_articles/c6ad6428.ext.json)
+
+---
+
+### சீனாவிலிருந்து மீண்டும் வைரஸ் பரவுகிறது எவ்வித உண்மையும் இல்லை; இன்புளுவென்சா வைரஸ் காய்ச்சலுக்கான தடுப்பூசிகளை பெறுவது பாதுகாப்பானது - வைத்திய நிபுணர் ஆனந்த விஜேவிக்கிரம
+
+*2025-01-09 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/203356) · `ta`
+
+சீனாவில் எச்.எம்.பி.வி என்ற மனித மெட்டாப்நியூமோ வைரஸ்”  வைரஸ் தொற்றால் பலர் பாதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படும் தகவலில் எவ்வித உண்மையும் இல்லை. சீனா மாத்திரமல்ல இலங்கை உட்பட உலகில் உள்ள பல நாடுகளிலும் இன்புளுவென்சா வைரஸ் தொற்று வேகமாக பரவி வருகிறது. ஆகையால் இன்புளுவென்சா வைரஸ் காய்ச்சலுக்கான தடுப்பூசிகளை பெறுவது பாதுகாப்பானது என இலங்கை மருத்துவ சங்கத்தின் முன்னாள் தலைவர் விசேட வைத்திய நிபுணர் ஆனந்த விஜேவிக்கிரம தெரிவித்தார்.
+
+சீனாவில் பரவி வரும் வைரஸ் தொற்றுக் குறித்து புதன்கிழமை (8) இலங்கை மருத்துவ சங்கத்தில் இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+சமீபகாலமாக சீனாவில் பரவிவரும் எச்.எம்.பி.வி வைரஸ் தொற்று காரணமாக, இலங்கை உட்பட பல உலக நாடுகள் மீண்டும் ஒரு பெருந்தொற்று ஏற்பட்டுள்ளதாக வீண் அச்சமடைந்துள்ளனர். சமூக வலைத்தளங்களில் பகிரப்படும் காணொளிகள் மற்றும் தகவல்கள் மக்களை இவ்வாறு பீதியில் ஆழ்த்தியுள்ளது.
+
+...
+
+[Data](articles/4434f13e.json)
 
 ---
 
@@ -159,6 +243,100 @@ It is also true that the JVP reacted to the suppression and carried out many act
 ◼️
 
 [Data](articles/3014ea89.json)
+
+---
+
+### Face Masks for glowing skin
+
+*2025-01-08 23:30:00* · [`islandlk`](http://island.lk/face-masks-for-glowing-skin/) · `en`
+
+Thank you for all the encouraging comments that come my way from readers of The Island.
+
+Many of you keep requesting for Beauty Tips for Glowing Skin.
+
+You will need 01 tablespoon aloe vera gel, 02 tablespoons milk cream and a pinch of turmeric.
+
+Mix all the ingredients to form a paste-like consistency and apply the mixture evenly on the face and neck.
+
+Leave it on for 20-30 minutes and then rinse with lukewarm water.
+
+You will need 02 teaspoons tomato juice, 03 teaspoons buttermilk, and cotton ball
+
+Cut a tomato and squeeze out two teaspoons of fresh tomato juice. Add the buttermilk and mix well.
+
+Apply this mixture carefully all over your face and neck using the cotton ball.
+
+You will need 04 teaspoons milk, 02 teaspoons honey, and cotton ball
+
+Warm the milk slightly and mix it with the honey. Apply this face mask, with the cotton ball, while it is still warm.
+
+Let it get soaked into your skin for at least 10 minutes. You can leave it on for about 20 minutes…no problem
+
+...
+
+[Data](articles/7814e6a1.json)
+
+---
+
+### HNB announces two key appointments to drive growth and innovation
+
+*2025-01-08 23:12:00* · [`islandlk`](http://island.lk/hnb-announces-two-key-appointments-to-drive-growth-and-innovation/) · `en`
+
+Hatton National Bank (HNB) is pleased to announce the appointments of Bimal Perera as Deputy General Manager and Chief Growth Officer, and Chandima Cooray as Deputy General Manager and Chief Innovation Officer. These strategic additions to the leadership team at Corporate Management level underscore the Bank’s commitment to drive value accretive growth and pioneer innovation in today’s dynamic business environment.
+
+Bimal Perera – Deputy General Manager and Chief Growth Officer
+
+Bimal Perera joins HNB with over two decades extensive expertise in corporate strategy, investment finance, risk management and digital financial services. With a proven track record of identifying emerging business opportunities and fostering long-term value creation, he brings a wealth of experience in banking, insurance and fintech, into his new role at HNB
+
+...
+
+[Data](articles/e5fecd90.json)
+
+---
+
+### HNB Assurance climbs 13 places on LMD 100 rankings
+
+*2025-01-08 23:11:00* · [`islandlk`](http://island.lk/hnb-assurance-climbs-13-places-on-lmd-100-rankings/) · `en`
+
+HNB Assurance PLC (HNBA) made a significant ascent in the latest LMD 100 rankings climbing 13 places to reach rank 64, cementing its position as one of Sri Lanka’s leading listed companies. Throughout the past few years, HNB Assurance has grown stronger, smarter and more united in its purpose, turning challenges into opportunities and refining every aspect of its operations.
+
+...
+
+[Data](articles/479118a3.json)
+
+---
+
+### Dialog becomes a signatory of UN Women’s Empowerment Principles
+
+*2025-01-08 23:09:00* · [`islandlk`](http://island.lk/dialog-becomes-a-signatory-of-un-womens-empowerment-principles/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has joined the United Nations Women’s Empowerment Principles (WEPs) as a signatory, reaffirming its dedication to advancing gender equality and fostering a diverse and inclusive workplace aligned with its Diversity, Equity, and Inclusion (DEI) principles.
+
+This milestone builds on Dialog’s ongoing efforts to create opportunities for women across the workplace, marketplace, and community. Guided by the seven principles of the WEPs, the company focuses on ensuring fair treatment for all employees, respecting human rights, and promoting the health, safety, and professional development of its workforce. Dialog also empowers women in its supply chain and marketing practices while advocating for gender equality through community initiatives and mentorship programmes.
+
+...
+
+[Data](articles/9c5523af.json)
+
+---
+
+### CBSL policy agenda announcement exerts rejuvenating impact on bourse
+
+*2025-01-08 23:07:00* · [`islandlk`](http://island.lk/cbsl-policy-agenda-announcement-exerts-rejuvenating-impact-on-bourse/) · `en`
+
+The stock market kicked off on a negative note at the outset yesterday but later bounced back following the announcement of the Central Bank Governor’s policy agenda.
+
+The Central Bank is reviewing the current statutory reserve requirements of banks, Governor Dr. Nandalal Weeerasinghe said while delivering the agency’s annual plans.
+
+The Central Bank is reviewing the SRR in line with international best practices, he said.
+
+“Required changes will be implemented following stakeholder consultations to optimize the SRR framework for the benefit of effective monetary policy implementation and the overall financial system, he said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 99.37 points while S and P SL20 rose by 35.15 points.
+
+...
+
+[Data](articles/bda88161.json)
 
 ---
 
@@ -1522,6 +1700,38 @@ It could then print money without the limits of ‘excess reserves or excess liq
 
 ---
 
+### “Gem Sri Lanka – 2025” Gem and Jewellery Exhibition Commences under President’s Patronage
+
+*2025-01-08 14:00:00* · [`islandlk`](http://island.lk/gem-sri-lanka-2025-gem-and-jewellery-exhibition-commences-under-presidents-patronage/) · `en`
+
+The “Gem Sri Lanka – 2025” gem and jewellery exhibition was inaugurated this morning (08) at the Cinnamon Bentota Beach Hotel,  by President Anura Kumara Disanayake.
+
+Organized annually by the Chinese Fort Gem and Jewellery Traders Association (CGJTA), the exhibition will be open to the public from today until January 10.
+
+Following the opening, President Disanayake toured the exhibition booths and engaged in discussions with industry stakeholders, addressing challenges faced by gem and jewelry manufacturers while fostering a friendly dialogue with them.
+
+He also posed for a group photograph with the organizing committee of “Gem Sri Lanka – 2025.”
+
+This year’s exhibition features 103 booths and has attracted a significant number of both local and international buyers, highlighting the event’s global appeal.
+
+...
+
+[Data](articles/004e357d.json)
+
+---
+
+### Trump 2.0 – What it means for Sri Lanka’s exports
+
+*2025-01-08 13:49:00* · [`islandlk`](http://island.lk/trump-2-0-what-it-means-for-sri-lankas-exports/) · `en`
+
+The second term of Donald Trump as the President of the United States will begin on January 20, 2025. He will return to the White House for his second term, or Trump 2.0, with renewed emphasis on the “America First” doctrine and reshaping the global order, and both his supporters and critics have made clear that his second term will look nothing like the first. That means, Trump 2.0 will be even more volatile and disruptive than the first, with major changes in the US economic, trade, foreign and security policies with far-reaching implications for all countries. So, it is important and timely to ask what will be the impact of Trump 2.0 on Sri Lanka and plan how to respond to challenges and opportunities that would arise from those changes.
+
+...
+
+[Data](articles/01d3c2b0.json)
+
+---
+
 ### Sri Lanka’s lending rates for MSMEs still high: CB Chief
 
 *2025-01-08 13:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-lending-rates-for-msmes-still-high-cb-chief-198584/) · `en`
@@ -1594,6 +1804,22 @@ The boundary is the world’s longest between two countries and it was establish
 
 ---
 
+### ‘Unbundling’ of electricity sector to figure in sweeping energy reforms
+
+*2025-01-08 13:26:00* · [`islandlk`](http://island.lk/unbundling-of-electricity-sector-to-figure-in-sweeping-energy-reforms/) · `en`
+
+In a bold move that promises to reshape Sri Lanka’s energy future, the Ministry of Energy has confirmed the initiation of sweeping reforms to modernize the country’s electricity sector, inclusive of the ‘unbundling’ of the sector into three distinct functions.
+
+Spearheaded by the newly formed Power Sector Reforms Secretariat (PSRS), these reforms aim to create a sustainable, competitive, and people-centric energy landscape, laying the groundwork for a new era in energy generation, transmission and distribution.
+
+At the helm of these reforms is Eng. Pubudu Niroshan Hedigallage, the newly appointed Director General of PSRS. A veteran energy policy expert, Hedigallage previously played a pivotal role in the creation of Sri Lanka’s Energy Policy Framework 2024.
+
+...
+
+[Data](articles/a706b9d3.json)
+
+---
+
 ### 2026 සිට විභාග කාලසටහන සාමාන්‍ය තත්ත්වයට
 
 *2025-01-08 13:21:28* · [`adalk`](https://www.ada.lk/breaking_news/2026-සිට-විභාග-කාලසටහන-සාමාන්‍ය-තත්ත්වයට/11-414086) · `si`
@@ -1623,251 +1849,5 @@ The boundary is the world’s longest between two countries and it was establish
 ...
 
 [Data](articles/ba26d9ee.json)
-
----
-
-### Sri Lanka’s 2024 GDP growth hits 7-year high of 5-pct amid deflation
-
-*2025-01-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-gdp-growth-hits-7-year-high-of-5-pct-amid-deflation-198582/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s economy is estimated to have expanded by 5 percent last year and recorded the highest growth since 2017, the Central Bank Governor Nandalal Weerasinghe said.
-
-Announcing the policy agenda for 2025 and beyond he said leading economic indicators of industry and service sectors reflect a continuation of the expansion in output in the last quarter of 2024 as well.
-
-“Accordingly, real GDP is projected to have grown by around 5 percent in 2024, registering the highest annual growth since 2017,” Weerasinghe told the policy launching event in Colombo.
-
-“This higher than-expected growth also provides evidence that deflation in recent months was not due to demand factors but mainly due to supply-side factors, including administrative price adjustments.”
-
-The island nation’s economy has been recovering from its worst crisis in 2022.
-
-...
-
-[Data](articles/5b59d961.json)
-
----
-
-### Sri Lanka’s 2024 GDP growth hits 7-year high of 5-pct amid deflation
-
-*2025-01-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-gdp-growth-hits-7-year-high-of-5-pct-198582/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s economy is estimated to have expanded by 5 percent last year and recorded the highest growth since 2017, the Central Bank Governor Nandalal Weerasinghe said.
-
-Announcing the policy agenda for 2025 and beyond he said leading economic indicators of industry and service sectors reflect a continuation of the expansion in output in the last quarter of 2024 as well.
-
-“Accordingly, real GDP is projected to have grown by around 5 percent in 2024, registering the highest annual growth since 2017,” Weerasinghe told the policy launching event in Colombo.
-
-“This higher than-expected growth also provides evidence that deflation in recent months was not due to demand factors but mainly due to supply-side factors, including administrative price adjustments.”
-
-The island nation’s economy has been recovering from its worst crisis in 2022.
-
-...
-
-[Data](articles/dd9340a5.json)
-
----
-
-### No approval given for any Israeli religious centers in Sri Lanka – PM
-
-*2025-01-08 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104828/no-approval-given-for-any-israeli-religious-centers-in-sri-lanka-pm-) · `en`
-
-Sri Lanka’s Prime Minister Dr. Harini Amarasuriya stated that no government institution has so far granted authorization for the construction of Israeli religious centers or any similar places.
-
-She made this comment in response to a question raised by SJB Member of Parliament Mujibur Rahman in Parliament today (08).
-
-“So far, neither the Ministry of Buddhasasana, Religious and Cultural Affairs, nor any of its departments have granted permission for the construction of religious centers or similar places by Israeli nationals. However, we are aware that such centers are being maintained. We have received information about them and have observed the situation. These activities are taking place without permission, as no such approval has ever been granted,” the Prime Minister emphasized.
-
-She further stated that they are currently discussing what actions should be taken in this regard and that the Ministry of Foreign Affairs is intervening to address the issue.
-
-...
-
-[Data](articles/8b15f141.json)
-
----
-
-### Court order issued over IUSF protest planned in Colombo
-
-*2025-01-08 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104827/court-order-issued-over-iusf-protest-planned-in-colombo-) · `en`
-
-The Fort Magistrate’s Court has issued an order preventing the Convenor of the Inter University Students’ Federation (IUSF), Madushan Chandrajith and others from entering the Presidential Secretariat, President’s House, Finance Ministry premises etc. during a planned protest in Colombo today.
-
-Additionally, the court order restricts them from causing any inconvenience to pedestrians or vehicular traffic on several roads in Colombo, from 1.00 p.m. to 6.00 p.m. today (08).
-
-Accordingly, this order has been issued to the convener of the IUSF, Madushan Chandrajith; the convener of the Inter-University Bhikkhu Federation (IUBF); the convener of the Medical Faculty Students’ Action Committee, Rashmika Chamod Ranasinghe; the convener of the Student Union at the Open University in Nawala, Udara Ranasinghe; and the convener of the Faculty of Allied Health Sciences Student Union, Tharushan Piyumantha Herath.
-
-...
-
-[Data](articles/6773c417.json)
-
----
-
-### අන්තරේ කැඳවුම්කරු ඇතුළු පිරිසකට කොටුව උසාවියෙන් නියෝගයක්
-
-*2025-01-08 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205164) · `si`
-
-අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බලමණ්ඩලයේ අද (08) සංවිධානය කර තිබෙන විරෝධතාවයකට අදාළව කොටුව ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
-
-අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත්, පුජ්‍ය මැදිරිගිරියේ ඉස්සර ධම්ම හිමි, රශ්මික චමෝද් රණසිංහ, උදාර රණසිංහ සහ තරුෂාන් පියුමන්ත හේරත් යන අයට මෙම නියෝගය නිකුත් කර ඇත.
-
-කොටුව පොලිස් ස්ථානයේ ස්ථානාධිපති විසින් අධිකරණයට ඉදිරිපත් කරන ලද කරුණු සලකා බැලිමෙන් පසුව අධිකරණය විසින් අපරාධ නඩු විධාන සංග්‍රයයේ 106 (1) ප්‍රතිපාදන අනුව මෙම නියෝගය නිකුත්කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
-
-ඒ අනුව ඔවුන්ට අද පස්වරු 1:00ත් සවස 6:00ත් කාලය තුළ කොටුව පොලිස් වසමේ සෙරමික් හංදියේ සිට NSA වටරවුම දක්වාද NSA වටරවුමේ සිට බාලදක්ෂ මාවත දක්වා ගාලු පාරද, අවහිර නොකරන ලෙස ද මුදල් අමාත්‍යංශය, ජනාධිපති ලේකම් කාර්‍යලය, මහ බැංකුව, ජනාධිපති මන්දිරයට ඇතුළුවිම වළකින ලෙසද දැනුම්දී තිබේ.
-
-◼️
-
-[Data](articles/7909de84.json)
-
----
-
-### 5වසර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඑළ නිකුත් කරන දිනය
-
-*2025-01-08 12:26:43* · [`adalk`](https://www.ada.lk/breaking_news/5වසර-ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඑළ-නිකුත්-කරන-දිනය/11-414085) · `si`
-
-පසුගිය වසරේ පැවැත්වූ ශිෂ්‍යත්ව විභාගයේ ප්‍රශණ කිහිපයක් විභාගයට පෙර පිටවීම හේතුවෙන් පිළිතුරුපත් බැලීම සහ ප්‍රතිඑළ නිකුත්කිරීම අත්හිටුවීමක්ට ලක්විනි. අධිකරණ නියෝගයෙන් අනතුරුව එහි පිළිතුරැපත් ඇගයීම අද (08) දින සිට ආරම්භවූ බව වාර්ථාවනවා.
-
-මෙම විභාගයේ ප්‍රතිඑළ දින 40ක් ඇතුලත නිකුත්කරන බව විභාග කොමසාරිස් ජනරාල් වරයා පවසා සිටිනවා.
-
-◼️
-
-[Data](articles/6467ad2d.json)
-
----
-
-### PM Harini stresses need for public participation in social transformation
-
-*2025-01-08 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104826/pm-harini-stresses-need-for-public-participation-in-social-transformation) · `en`
-
-Prime Minister Dr. Harini Amarasuriya emphasized that changing the people’s attitudes is essential for social transformation, and it is not a process that can be achieved overnight.
-
-In response to a question raised in Parliament today (08) by MP Asitha Niroshana regarding how to overcome the challenges of transforming the education and media sectors, the Prime Minister stated that the citizens voted for the government to bring about a deep transformation in the country, rather than a change of individuals.
-
-She further highlighted that public involvement is necessary for this process and stated that the government comes to power prepared to face challenges.
-
-...
-
-[Data](articles/bd1a8121.json)
-
----
-
-### ශ්‍රී ලංකාවට ලකුණු 256ක ඉලක්කයක්
-
-*2025-01-08 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205163) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පැවැත්වෙන දෙවන එක්දින ක්‍රිකට් තරගය මේ වනවිට හැමිල්ටන්හිදී පැවැත්වෙයි.
-
-වර්ෂාව හේතුවෙන් තරගය ප්‍රමාද වී ආරම්භ වු අතර තරගය පන්දුවාර 37කට සීමාකර තිබුණි.
-
-තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමේ අවස්ථාව නවසීලන්ත කණ්ඩායමට ලබා දුනි.
-
-ඒ අනුව, පන්දුවට පහර දුන් නවසීලන්ත කණ්ඩායම නියමිත පන්දුවාර 37 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 255ක් රැස්කළේය.
-
-නවසීලන්ත කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 31දී දවා ගැනීම අසිත ප්‍රනාන්දු සමත් වුණි.
-
-නමුත් දෙවන කඩුල්ල වෙනුවෙන් පිටියට එක්වූ රචින් රවින්ද්‍ර සහ මාක් චැප්මන් ලකුණු 112ක සබඳතාවක් ගොඩ නගමින් නවසීලන්ත ඉනිම ශක්තිමත් කළේය.
-
-සිය එක්දින දිවියේ දෙවන අර්ධ ශතකය රැස්කළ මාක් චැප්මන් දැවීගියේ ලකුණු 62කටය.
-
-රචින් රවින්ද්‍ර සිය එක්දින දිවියේ සිව්වන වාර්තා කරමින් ලකුණු 79ක් රැස්කළේය.
-
-අනතුරුව ලකුණු 27ක් තුළ කඩුලු 3ක් දවාගනිමින් ශ්‍රී ලංකා ක්‍රීඩකයින් තරගයට අවතීර්ණ වීමට උත්සාහ දැරුවද ඩැරල් මිචෙල් සහ ග්ලෙන් පිලිප්ස් ලකුණු 47ක වේගවත් සබඳතාවක් ගොඩනගමින් නවසීලන්ත ලකුණු පුවරුව තවදුරටත් ශක්තිමත් කළේය.
-
-...
-
-[Data](articles/e1c96817.json)
-
----
-
-### இது மனித உரிமை மீறல்;சஜித் காட்டம்
-
-*2025-01-08 11:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-மனித-உரிமை-மீறல்-சஜித்-காட்டம்/175-349980) · `ta`
-
-அண்மையில் மியன்மாரில் இருந்து இலங்கையில் புகலிடம் கோரி முல்லைத்தீவுக்கு வந்துள்ள ரோஹிங்கியா அகதிகளை உடனடியாக நாடு கடத்தும் மனிதாபிமானமற்ற செயலில் ஈடுபடுவதை அரசாங்கம் தவிர்க்க வேண்டுமென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
-
-நேற்றைய தினம் பாராளுமன்றத்தில் உரையாற்றிய பிரேமதாச, அரசாங்கம் அவர்களை உடனடியாக நாடு கடத்த முயற்சிப்பதாகவும் இது மனித உரிமை மீறல் எனவும் தெரிவித்தார்.
-
-ரோஹிங்கியா அகதிகள் தங்கள் சொந்த நாட்டில் கடுமையான தண்டனையை எதிர்கொண்டவர்கள் என்று சுட்டிக்காட்டிய பிரேமதாச, இந்த பிரச்சினைக்கு தீர்வு காணும் போது அரசாங்கம் மீள்திருத்தம் செய்யாத கொள்கையை கடைபிடிக்க வேண்டும் என்று வலியுறுத்தினார்.
-
-“அவர்களை வலுக்கட்டாயமாக நாடு கடத்த முடியாது. இந்தச் செயலை உடனடியாக நிறுத்தி, அகதிகளுக்கான ஐக்கிய நாடுகளின் உயர்ஸ்தானிகர் மற்றும் பிற தொடர்புடைய அமைப்புகளுடன் கலந்துரையாடுங்கள். ரோஹிங்கியா அகதிகளுக்கு மனிதாபிமான உதவியை வழங்க வேண்டும்” என்று அவர் மேலும் கூறினார்.
-
-...
-
-[Data](articles/86b8e5ed.json)
-
----
-
-### භාණ්ඩ මිල අඩුවුණත් පාරිභෝගිකයාට සහනයක් නෑ
-
-*2025-01-08 11:43:06* · [`adalk`](https://www.ada.lk/breaking_news/භාණ්ඩ-මිල-අඩුවුණත්-පාරිභෝගිකයාට-සහනයක්-නෑ/11-414084) · `si`
-
-පසුගිය  2024 වසරේ  දෙසැම්බර් මාසයට වඩා2025 මාසයේ මුල් සතියේම අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය රැසක  තොග මිල පහත වැටී තිබුණත් එහි වාසිය සිල්ලර මිලදී ගන්නා පාරිභෝගික ජනතාවට ලැබී නැති බව ජනතාව පවසති
-
-බොහෝම තොග වෙළඳ සැල්වල් අත්‍යවශ්‍ය  ආහාර ද්‍රව්‍ය ‍රැසක මිල විශාල වශයෙන් පහත වැටීම ඇති බව තොග වෙළෙන්දෝ පෙන්වා දෙති , ඒ අනුව ආහාර    වර්ග කිහිපයකන් මිල ඉහළ ගොස් ඇති අයුරුත් ඇතැම් ද්‍රව්‍ය වල මිල වෙනස් නොවී ඇති බව වෙළඳපළ නිරීක්‍ෂණයේදී දැක ගැනීමට හැකි විය
-
-පහත දැක්වෙන්නේ 2024 දෙසැම්බර් මාසයේ පැවති කිලෝ එකක තොග මිල සහ 2025 වසරේ ජනවාරි 8 වන දින පැවැති තොග මිල වේ
-
-වර්ගය            2024 දෙසැම්බර් මාසය පැවැති මිල       2025 ජනවාරි මාසයේ පැවතින මිල
-
-සුදු සීනි                    235 .00                                  230.00
-
-රතු සීනි                    295/ 300                                250/260
-
-පරිප්පු                      275 / 280                                225 / 230
-
-පොල්තෙල්              800 / 830                                 790 / 795
-
-...
-
-[Data](articles/287de05c.json)
-
----
-
-### பயணிகளை நடுத்தெருவில் இறக்கிவிட்ட மூவருக்கு சிக்கல்
-
-*2025-01-08 11:35:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணிகளை-நடுத்தெருவில்-இறக்கிவிட்ட-மூவருக்கு-சிக்கல்/175-349979) · `ta`
-
-அரசாங்கத்தின் ‘கிளீன் ஸ்ரீலங்கா’ திட்டத்தின் கீழ் ஆரம்பிக்கப்பட்ட பொலிஸ் வாகன சோதனை வேலைத்திட்டத்தின் மத்தியில் பயணிகளை நடுரோட்டில் இறக்கிவிட்ட பஸ்ஸின் உரிமையாளர், சாரதி மற்றும் நடத்துனர் மீது நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-வீதி விதிகளை மீறிய குற்றத்திற்காக பொலிஸார் நடவடிக்கை எடுக்க முற்பட்ட போது, ​​பாணந்துறை - புறக்கோட்டை பயணிக்கும் 100 இலக்கப் பேருந்து பயணிகளை நடுரோட்டில் இறக்கி விட்டுச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-அந்தவகையில், மேல் மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகாரசபையானது பேருந்தின் ஓட்டுனர் மற்றும் நடத்துனரை 2025 ஜனவரி 15 ஆம் திகதி வரை பணியிலிருந்து இடைநிறுத்தியுள்ளதுடன், ஓட்டுனருக்கு ரூ 2500 மற்றும் நடத்துனருக்கு ரூ. 750 என அபராதம் விதித்துள்ளது.
-
-அதற்குள் இருவரும் வேறு பேருந்தில் பணிபுரிந்தால் குறித்த பேருந்தின் அனுமதிப்பத்திரம் இரத்து செய்யப்படுமென மேல்மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகாரசபை மேலும் எச்சரித்துள்ளது.
-
-இருவரும் 21 ஜனவரி 2025 அன்று பயிற்சியில் கலந்து கொள்வதற்கான ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
-
-...
-
-[Data](articles/43f1cca3.json)
-
----
-
-### මිලියන 97ක කොකේන් සමග විදේශිකයෙක් අල්ලයි
-
-*2025-01-08 11:35:16* · [`adalk`](https://www.ada.lk/breaking_news/මිලියන-97ක-කොකේන්-සමග-විදේශිකයෙක්-අල්ලයි/11-414083) · `si`
-
-රුපියල් නව කෝටි හැත්තෑ ලක්ෂයක් ( රුපියල් මිලියන 97 ක් ) වටිනා කොකේන් මත්ද්‍රව්‍ය තොගයක් , සිය ගමන් මල්ලේ සගවා ගෙන , කටුනායක ගුවන් තොටුපොළ කිසිවක් ප්‍රකාශ කිරීමට නොමැති '' හරිත මාවත " ( Green Channel ) ඔස්සේ පිට වී යාමට තැත් කළ විදේශිකයෙකු , ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 01/08 දින අලුයම අත් අඩංගුවට ගෙන තිබේ. මොහු 66 හැවිරිදි බොස්නියානු ජාතිකයෙකි.
-
-ඔහු සිය ගමන් මල්ලේ පාද පිරිසිදු කිරීමට යොදා ගන්නා බ්‍රස් 114 ක් තුළ කොකේන් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 02 යි ග්‍රෑම් 759 ක් සූක්ෂම ලෙස සගවා ගෙන පැමිණ තිබුණි .
-
-මොහු මෙම මත්ද්‍රව්‍ය තොගය රැගෙන කොලොම්බියාවෙන් ගමන් ආරම්භ කර , කටාර් රාජ්‍යයේ දෝහා වෙත පැමිණ තිබේ . ඉන්පසුව ඔහු එතැන් සිට 01/08 දින අලුයම 02.40 කටාර් ගුවන් සේවයේ කිව්.ආර්.-662 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-...
-
-[Data](articles/96258713.json)
-
----
-
-### தேசிய மக்கள் சக்தி வேட்பாளருக்கு எதிராக ஆர்ப்பாட்டம்
-
-*2025-01-08 11:24:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-வேட்பாளருக்கு-எதிராக-ஆர்ப்பாட்டம்/175-349978) · `ta`
-
-சுற்றுலா பயணிகளை ஏற்றிச் சென்ற கார் சாரதியை தாக்கி தங்கச் சங்கிலியை கொள்ளையிட்ட குற்றச்சாட்டின் பேரில் 6 முச்சக்கர வண்டி சாரதிகள் கைது செய்யப்பட்டதற்கு எதிராக தம்புள்ளை, சீகிரிய மற்றும் ஹபரணை பிரதேசங்களில் உள்ள முச்சக்கர வண்டி சாரதிகள் சங்க உறுப்பினர்கள் நேற்று பாரிய ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
-
-முறைப்பாடு செய்தவர், தேசிய மக்கள் சக்தியை (NPP) பிரதிநிதித்துவப்படுத்தும் தம்புத்தேகம பிரதேச சபைத் தேர்தலில் போட்டியிடுவதற்கு வேட்புமனுக்களை அனுப்பிய முன்னாள் இராணுவ சிப்பாய் எனவும் ஆர்ப்பாட்டக்காரர்கள் தெரிவித்தனர்.
-
-அவர், சுற்றுலாப் பயணி ஒருவரை தனது காரில் ஏற்றிச் செல்லும் போது தம்புள்ளை நகரில் முச்சக்கர வண்டி நடத்துனர்களுடன் இரண்டு நாட்களாக முரண்பட்டதாகவும், அரசாங்கத்தின் ஆதரவாளர் எனக் கூறி அநாகரீகமாக நடந்துகொண்டதாகவும் அவர்கள் தெரிவித்தனர்.
-
-...
-
-[Data](articles/e0d27399.json)
 
 ---

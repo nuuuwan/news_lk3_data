@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 04:44:19**
+As of **2025-01-10 05:03:41**
 
 ## Newspaper Stats
 
-*Scraped **64,626** Articles*
+*Scraped **64,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 647
 bbccomsinhala | 676
 economynextcom | 3,940
 islandlk | 3,941
-dailyftlk | 4,520
+dailyftlk | 4,522
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
@@ -26,11 +26,45 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,626 articles have been extended.
+61,973 (95.9%) of 64,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### Godrej Sri Lanka launches revamped corporate website to support ambitious growth plans
+
+*2025-01-10 04:36:55* · [`dailyftlk`](https://www.ft.lk/business/Godrej-Sri-Lanka-launches-revamped-corporate-website-to-support-ambitious-growth-plans/34-771653) · `en`
+
+QR Code with link for revamped website being handed over to Godrej Sri Lanka Country Head Dileepa Gregory
+
+Godrej Sri Lanka, a leading name in consumer products, has unveiled its newly revamped corporate website, marking a significant step in its mission to align with the company’s global strategy and drive its ambitious growth plans in Sri Lanka.
+
+This updated platform serves as a strategic tool to enhance communication, operational efficiency, and alignment with global standards.
+
+The redesign reflects Godrej Sri Lanka’s evolving priorities and its commitment to the local market. Beyond a fresh new look, the platform is tailored to support the company’s efforts to strengthen its presence and deepen its engagement with stakeholders in Sri Lanka.
+
+...
+
+[Data](articles/42375e56.json)
+
+---
+
+### GMA de Silva Jewellers opens doors in Maharagama
+
+*2025-01-10 04:35:38* · [`dailyftlk`](https://www.ft.lk/business/GMA-de-Silva-Jewellers-opens-doors-in-Maharagama/34-771652) · `en`
+
+GMA de Silva Jewellers, a family-owned business celebrated for its exquisite 22-carat custom fine jewellery since 1920, has announced the opening of its newest branch in Maharagama recently.
+
+This expansion reflects the company’s commitment to merging traditional craftsmanship with modern designs, offering customers a diverse range of products, including bracelets, necklaces, and gem-studded pieces.
+
+The new Maharagama branch aims to provide customers in the region with convenient access to GMA de Silva’s unique collection of gold, diamond and gem studded jewellery. Each piece is meticulously handcrafted, ensuring the highest quality and attention to detail that has been the hallmark of GMA de Silva for over a century.
+
+...
+
+[Data](articles/b9aeaa13.json)
+
+---
 
 ### Lankan envoy holds discussions with BOI of Thailand on enhancing investment collaboration
 
@@ -1799,37 +1833,5 @@ HMPV causes a respiratory illness with the symptoms of flu or Cold like symptoms
 ◼️
 
 [Data](articles/fee11b37.json)
-
----
-
-### ”சிவப்பு அரிசி தட்டுப்பாட்டுக்கு கடந்த அரசாங்கமே காரணம்”
-
-*2025-01-09 11:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-அரிசி-தட்டுப்பாட்டுக்கு-கடந்த-அரசாங்கமே-காரணம்/175-350030) · `ta`
-
-ஜனாதிபதித் தேர்தலுக்கு முன்னர், கடந்த அரசாங்கத்தினால் ஒருவருக்கு தலா 20 கிலோ அரிசி இலவசமாக விநியோகம் செய்யப்பட்டதன் விளைவாக சந்தையில் சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளது என, வர்த்தகம், உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க நேற்று தெரிவித்தார்.
-
-சிவப்பு அரிசி சாப்பிடாத மக்களுக்கு கூட கடந்த அரசாங்கம் சிவப்பு அரிசியை வழங்கியதாக அமைச்சர் பாராளுமன்றத்தில் தெரிவித்தார்.
-
-"சந்தையில் சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளது. ஜனாதிபதி தேர்தலுக்கு முன்னர் கடந்த அரசாங்கம் 20 கிலோ அரிசியை மக்களுக்கு விநியோகித்ததே தட்டுப்பாட்டுக்கு காரணம். சிவப்பு அரிசி சாப்பிடாத மக்களுக்கும் சிவப்பு அரிசி விநியோகிக்கப்பட்டுள்ளது. " என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ எழுப்பிய கேள்விக்கு பதிலளித்தார்.
-
-◼️
-
-[Data](articles/3efa6c39.json)
-
----
-
-### ஞானசார தேரருக்கு 9 மாத சிறை
-
-*2025-01-09 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/203374) · `ta`
-
-இஸ்லாம் மதத்தை அவமதித்த குற்றத்திற்காக பொதுபல சேனா அமைப்பின் பொதுச் செயலாளர் கலகொட அத்தே ஞானசார தேரருக்கு 9 மாத சிறைத்தண்டனையை இன்று வியாழக்கிழமை (09) கொழும்பு நீதவான் நீதிமன்றம்  விதித்துள்ளது.
-
-அத்துடன் , 1,500 ரூபாய் அபராதம் விதிப்பதாகவும் தீர்ப்பை அறிவித்து கொழும்பு மேலதிக நீதவான் பசன் அமரசேன, உத்தரவிட்டார்.
-
-குற்றச்சாட்டுக்கள் தொடர்பில் விசாரணைக்கு நீதிமன்றில் ஆஜராகத் தவறியமையால் முன்னர் பிறப்பிக்கப்பட்ட பிடியாணையை அடுத்தே அவருக்கு மேற்படி தண்டனை விதிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/99ded930.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 16:03:41**
+As of **2025-01-09 16:18:42**
 
 ## Newspaper Stats
 
-*Scraped **64,558** Articles*
+*Scraped **64,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 647
 bbccomsinhala | 676
-economynextcom | 3,933
+economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,180
+adalk | 6,181
 adaderanalk | 7,905
 tamilmirrorlk | 9,263
 virakesarilk | 10,785
@@ -26,11 +26,33 @@ adaderanasinhalalk | 11,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,558 articles have been extended.
+61,973 (96.0%) of 64,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Debt for nature swaps can lower Sri Lanka’s financial burden: IPS
+
+*2025-01-09 16:00:00* · [`economynextcom`](https://economynext.com/debt-for-nature-swaps-can-lower-sri-lankas-financial-burden-ips-198676/) · `en`
+
+ECONOMYNEXT – In the face of dual pressures from an economic crisis and climate vulnerability, Sri Lanka should consider alternative approaches to financial recovery, the Institute of Policy Studies has said.
+
+“Debt-for-climate-and-nature (DfCN) swaps could be a possible option to lower the financial burden while addressing climate challenges,” IPS Research Fellow Dr Lakmini Fernando and Research Economist Sunimalee Madurawala point out in the think tank’s latest article.
+
+Amidst the conclusion of debt restructuring, Sri Lanka might benefit by opening to alternative financial instruments, the think tank said.
+
+Can debt-for-climate and nature swaps help make Sri Lanka’s debt more manageable?
+
+Sri Lanka’s economic crisis, fuelled by unsustainable debt and a default in 2022, left the country struggling to stabilise its economy.
+
+Its high climate vulnerability that disrupts livelihoods exacerbated the economic challenges.
+
+...
+
+[Data](articles/c7329cc3.json)
+
+---
 
 ### ஞானசாரருக்கு பிணை நிராகரிப்பு
 
@@ -231,6 +253,18 @@ The Secretary to the President, Dr. Nandika Sanath Kumanayake, was also present 
 ◼️
 
 [Data](articles/f339064b.json)
+
+---
+
+### කෝප් නව සභාපති මෙන්න
+
+*2025-01-09 14:24:31* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-නව-සභාපති-මෙන්න/11-414109) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප්) සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා අද(09දා)  ඒකමතිකව තේරී පත්ව තිබේ.
+
+◼️
+
+[Data](articles/b2b1f2a9.json)
 
 ---
 
@@ -1793,43 +1827,5 @@ On 19 December 2024, the Sri Lanka Navy apprehended a multi-day trawler carrying
 ...
 
 [Data](articles/6b72d39c.json)
-
----
-
-### Strategic initiative to establish commercial approach to R&D
-
-*2025-01-09 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/Strategic-initiative-to-establish-commercial-approach-to-R-D/56-771618) · `en`
-
-Govt. introduces fast-tracked initiative aimed at promoting innovation, entrepreneurship across various sectors
-
-Stresses Sri Lanka can strengthen position in global market through new product development
-
-President Anura Kumara Dissanayake yesterday emphasised that Sri Lanka can enhance its position in the global market through a robust new product development strategy, which will also create new market opportunities.
-
-He made these remarks during the official launch of the “National Initiative for R&D Commercialisation” (NIRDC) held at the Presidential Secretariat.
-
-As part of the initiative, the newly developed website nirdc.gov.lk was also launched. This platform aims to facilitate the commercialisation of research and development (R&D), thereby contributing to sustainable economic growth through the production of value-added goods and services, which will ultimately drive national economic development and social progress.
-
-...
-
-[Data](articles/90dd4104.json)
-
----
-
-### Sri Lanka College of Pulmonologists to hold Annual Academic Session in February
-
-*2025-01-09 05:37:46* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-College-of-Pulmonologists-to-hold-Annual-Academic-Session-in-February/56-771617) · `en`
-
-SLCP President Dr. Neranjan Dissanayake (centre) flanked by President Elect Dr. Suntharalingam Rishikesavan (left) and Immediate Past President Dr. Bodhika Samarasekera at the media briefing on the upcoming 15th Annual Academic Session ‘Respire 2025’ – Pic by Ruwan Walpola
-
-17,000 males identified as cancer patients in Sri Lanka annually, out of which 1,700 are suffering from lung cancer. Many of these patients seek medical attention only once they reach the third stage. In ‘Respire 2025’, we aim to increase public awareness of the early stages of cancer in collaboration with regional medical centres, encouraging individuals to recognise the symptoms early on and seek the necessary preventative care promptly – Sri Lanka College of Pulmonologists President and Consultant Respiratory Physician Dr. Neranjan Dissanayake
-
-Reveals Sri Lanka has one of the highest asthma prevalence rates globally
-
-Surge in Chronic Obstructive Pulmonary Diseases affecting around 10-15% of population
-
-...
-
-[Data](articles/6b872587.json)
 
 ---

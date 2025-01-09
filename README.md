@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 16:45:55**
+As of **2025-01-09 17:01:06**
 
 ## Newspaper Stats
 
-*Scraped **64,563** Articles*
+*Scraped **64,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,183
-adaderanalk | 7,905
+adalk | 6,184
+adaderanalk | 7,907
 tamilmirrorlk | 9,263
-virakesarilk | 10,785
-adaderanasinhalalk | 11,149
+virakesarilk | 10,789
+adaderanasinhalalk | 11,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,563 articles have been extended.
+61,973 (96.0%) of 64,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### 2013දී උපත් 350,000ක් - 2024දී 228,000ට අඩු වෙයි
+
+*2025-01-09 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205212) · `si`
+
+පසුගිය වසර 10 සැලකීමේදී මෙරට උපත් අනුපාතය සැලකිය යුතු ආකාරයෙන් පහළ ගොස් ඇති බව, ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, මෙම තත්ත්වය හරහා මෙරට අනාගතයටද දැඩි බලපෑමක් එල්ල විය හැකි බවය.
+
+"පසුගිය වසර 10 නිරීක්ෂණය කිරීමේදී දුටු දෙයක් තමයි මෙරට උපත් සංඛ්‍යාව ක්‍රමක්‍රමයෙන් අඩුවීම. 2013දී උපත් 350,000ක්. 2024දී 228,000ට අඩු වෙලා. ඒ ළමයින්ගෙනුත් යම්කිසි ප්‍රමාණයක් රෝග නිසා රෝහල්ගත වෙනවා. අවුරුදු 20කට කලින් අපි නොදුටු තත්ත්වයක් දැන් උදාවෙලා...ළමා දියවැඩියාව වාර්තාවීම වැඩි වෙලා. ළමා පිළිකා තත්ත්වයන් වාර්තාවීම වැඩිවෙලා. මානසික රෝගවලත් වැඩිවීමක් අපි දකිනවා. මේ වගේ දරුවෝ රෝගී වෙනවා නම් අනාගතය සුබදායක වෙන එකක් නැහැ. අපි හැමෝම මේ ගැන කල්පනාකාරී වුණේ නැත්නම් අපි හැමෝම අමාරු තත්ත්වයකට පත්වෙන්න පුළුවන්."
+
+◼️
+
+[Data](articles/8b4e02c0.json)
+
+---
+
+### பற்றரி திருடனை தேடி 4 கிலோ மீற்றர் பயணித்த ஜோனி என்ற மோப்ப நாய்
+
+*2025-01-09 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203412) · `ta`
+
+வாரியப்பொல பகுதியில் ஜோனி என்ற மோப்ப நாய் 4 கிலோ மீற்றர் பயணித்து பற்றரி திருடனை தேடிப்பிடித்த சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+வாரியப்பொல மாவட்ட நீதிமன்றத்தில் வழக்குச் சான்றுப் பொருட்களாக நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களில் பற்றரிகளை திருடி சென்றுள்ளனர்.
+
+பற்றரிகள் திருடப்பட்ட இடத்தில் சொகுசு பஸ் உட்பட பல வாகனங்கள் வாரியபொல நீதவான் நீதிமன்றினால் நிறுத்தப்பட்டிருந்துள்ளது.
+
+திருட்டு சம்பவம் தொடர்பில் தடயங்கள் எதுவும் கிடைக்காத நிலையில் குருணாகலில் உள்ள பொலிஸ் கெனல் பிரிவிலுள்ள பயிற்சி பெற்ற மோப்ப நாயான ஜோனியை பொலிஸார் வரவழைத்துள்ளனர்.
+
+ஜோனியை அழைத்து வந்த பொலிஸ் கான்ஸ்டபிள் ரணசிங்க (90426) தேடுதல் நடவடிக்கைகாக பற்றரியுடன் பொருத்தப்பட்டிருந்த முனையத்தை நாய்க்கு வழங்கினார்.
+
+நாய் அதனை மோப்பம் பிடித்து வாரியபொல ஊடாக கிட்டத்தட்ட நான்கு கிலோ மீற்றர் தூரத்தில் இருந்த  விளக்கடுபொத்த பகுதியில் வீடொன்றுக்கு சென்றுள்ளது. அங்கு ஐந்து பற்றரிகளுடன்  கையும் களவுமாக சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/08d605f0.json)
+
+---
+
+### சூர்யாவிற்கு அஜித் ரசிகர்கள் ஆதரவா..?
+
+*2025-01-09 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/203407) · `ta`
+
+தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான சூர்யா நடிப்பில் தயாராகி வரும் ' ரெட்ரோ ' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநரும், தயாரிப்பாளருமான கார்த்திக் சுப்புராஜ் இயக்கத்தில் உருவாகி வரும் ' ரெட்ரோ 'எனும் திரைப்படத்தில் சூர்யா , பூஜா ஹெக்டே,  ஜோஜூ ஜார்ஜ் , ஜெயராம் , கருணாகரன், நாசர் , பிரகாஷ் ராஜ் , சுஜித் சங்கர் , தமிழ் , ஜார்ஜ் மரியான்,  நந்திதா தாஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+இந்த திரைப்படத்தில் 'சிவாஜி' படம் மூலம் பிரபலமான நடிகை ஸ்ரேயா சரண் ஒரே ஒரு பாடலுக்கு நடனமாடி இருக்கிறார். ஸ்ரேயாஸ் கிருஷ்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சந்தோஷ் நாராயணன் இசையமைத்திருக்கிறார். ரொமான்டிக் எக்சன் ஜேனரிலான இந்த திரைப்படத்தை 2 டி என்டர்டெய்ன்மென்ட் மற்றும் ஸ்டோன் பெஞ்ச் கிரியேசன்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/82eacb60.json)
+
+---
+
+### உள்ளுராட்சிமன்றத் தேர்தல் திருத்தச் சட்டமூலம் சபைக்கு சமர்ப்பிப்பு
+
+*2025-01-09 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/203400) · `ta`
+
+உள்ளூராட்சி மன்றத் அதிகாரசபைகள்   தேர்தல்கள் ( விசேட ஏற்பாடுகள்)  தொடர்பான  சட்டமூலத்தை   பொது நிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்கள் அமைச்சர் சந்திம அபேரத்ன,  முதலாம் வாசிப்புக்காக சபைக்கு சமர்ப்பித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (09) நடைபெற்ற அமர்வின் போது சட்டமூல சமர்ப்பண முன்னறிவித்தலின் போது   சட்டமூலத்தை  சமர்ப்பித்தார்.
+
+பாராளுமன்ற  செயலாளர் நாயகம்  சட்டத்தரணி குஷானி ரோஹணதீர  இந்த சட்டவரைவின் நோக்கத்தை  வருமாறு சபைக்கு வாசித்தார்.
+
+'குறித்த சில உள்ளூர் அதிகார சபைகளின்  தேர்தல்கள் கோரப்பட்டு பிற்போடப்பட்டுள்ளவிடத்து, அத்தகைய உள்ளூர் அதிகாரசபைகள் தொடர்பில்  புதிய  நியமனப்பத்திரங்களைக் கோருவதற்காகவும், தேர்தல்களை  நடாத்துவதற்காகவும்  ஏற்பாடு செய்வதற்கும், அத்துடன் அதனோடு தொடர்புப்பட்ட அல்லது அதன் இடைநேர்விளைவான  கருமங்களுக்காக   உள்ளூர் அதிகார சபைகள் தேர்தல்கள் ( விசேட ஏற்பாடுகள்)  சட்டமூலம்  ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a9dc7877.json)
+
+---
+
+### இயக்குநர் லோகேஷ் கனகராஜ் வெளியிட்ட ' டென் ஹவர்ஸ்' பட முன்னோட்டம்
+
+*2025-01-09 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/203408) · `ta`
+
+நடிகர் சிபி சத்யராஜ் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் ' டென் ஹவர்ஸ் ' எனும் படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர இயக்குநரான லோகேஷ் கனகராஜ் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் இளையராஜா கலியபெருமாள் இயக்கத்தில் உருவாகி வரும் ' டென் ஹவர்ஸ் ' எனும் திரைப்படத்தில் சிபி சத்யராஜ், திலீபன், ஜீவா ரவி , சரவண சுப்பையா,  கஜ ராஜ், ராஜ் ஐயப்பா , 'ஆடுகளம்' முருகதாஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஜெய் கார்த்திக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே .எஸ் . சுந்தரமூர்த்தி இசையமைத்திருக்கிறார். கிரைம் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை டுவின் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் லதா பாலு & துர்காயினி வினோத் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள். இந்த திரைப்படத்தை ஃபைவ் ஸ்டார் கே. செந்தில் வழங்குகிறார்.
+
+...
+
+[Data](articles/bb41a103.json)
+
+---
+
+### ඥානසාර හිමිගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරයි
+
+*2025-01-09 16:22:19* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිගේ-ඇප-ඉල්ලීම-ප්‍රතික්ෂේප-කරයි/11-414112) · `si`
+
+ඉස්ලාම් දහමට අපහාස කිරීම සම්බන්ධයෙන් වරදකරු වී මාස 9ක ලිහිල් සිර දඬුවම් නියම වූ බොදු බල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් වෙනුවෙන් ඉදිරිපත් කෙරුණු ඇප ඉල්ලීම කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා අද (9) ප්‍රතික්ෂේප කළේය.
+
+◼️
+
+[Data](articles/c36fef37.json)
+
+---
 
 ### කුරුණෑගල මහේස්ත්‍රාත්ගෙන් පොලීසියට දොස්
 
@@ -102,6 +202,26 @@ Its high climate vulnerability that disrupts livelihoods exacerbated the economi
 
 ---
 
+### Gnanasara Thero’s bail application rejected
+
+*2025-01-09 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104852/gnanasara-theros-bail-application-rejected-) · `en`
+
+Colombo Additional Magistrate Pasan Amarasena today rejected the bail application submitted on behalf of the General Secretary of the Bodu Bala Sena (BBS) organization, Ven. Galagoda Aththe Gnanasara Thero.
+
+The Colombo Magistrate’s Court today sentenced the Gnanasara Thero, to 09 months imprisonment over his defamatory statement on the religion of Islam.
+
+Although the Thero has filed an appeal against the sentence, his attorneys had requested bail pending the hearing of the appeal and the announcement of a final decision.
+
+Gnanasara Thero filed an appeal against his nine-month prison sentence at the Colombo High Court through his attorneys, which was filed before the Colombo Magistrate’s Court.
+
+Attorney-at-Law Gamini Alwis, appearing on behalf of the Thero, presented facts requesting bail for his client pending the hearing of the appeal.
+
+...
+
+[Data](articles/1864ee5f.json)
+
+---
+
 ### ඥානසාර හිමිගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
 
 *2025-01-09 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205209) · `si`
@@ -145,6 +265,20 @@ Its high climate vulnerability that disrupts livelihoods exacerbated the economi
 ◼️
 
 [Data](articles/533ba4de.json)
+
+---
+
+### Dr. Nishantha Samaraweera elected COPE chairman
+
+*2025-01-09 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104851/dr-nishantha-samaraweera-elected-cope-chairman) · `en`
+
+NPP Member of Parliament Dr. Nishantha Samaraweera has been unanimously elected as the Chairman of the Committee on Public Enterprises (COPE).
+
+The Committee on Public Enterprises has convened in Parliament today (09) at 2 p.m.
+
+◼️
+
+[Data](articles/3c98aa13.json)
 
 ---
 
@@ -1693,137 +1827,5 @@ When a central bank prints money to cut rates and target its policy rate, food, 
 ◼️
 
 [Data](articles/d61ffc20.json)
-
----
-
-### COYLE: Championing innovation and entrepreneurship in 2024
-
-*2025-01-09 06:19:44* · [`dailyftlk`](https://www.ft.lk/business/COYLE-Championing-innovation-and-entrepreneurship-in-2024/34-771635) · `en`
-
-From left: PIM Senior Lecturer Tharindu Ameresekere, Director Dr. Asanga Ranasinghe, COYLE Chairman Thushira Raddella, Senior Vice Chairman Manjula Wijesundera, and CEO Indunil Ukwatte
-
-The Chamber of Young Lankan Entrepreneurs (COYLE) continued its legacy of fostering economic growth and innovation in Sri Lanka with a remarkable series of initiatives in 2024. With a mission to empower entrepreneurs and build a stronger, more resilient economy, COYLE has demonstrated its commitment to shaping the future of business through impactful programs and strategic partnerships.
-
-...
-
-[Data](articles/b0ec6ffc.json)
-
----
-
-### JICA Senior Vice President engages with AASL Chairman on BIA Terminal 2 development
-
-*2025-01-09 06:15:22* · [`dailyftlk`](https://www.ft.lk/business/JICA-Senior-Vice-President-engages-with-AASL-Chairman-on-BIA-Terminal-2-development/34-771634) · `en`
-
-A high-level meeting took place yesterday led by Japan International Cooperation Agency (JICA) Senior Vice President Shohei Hara and Airport and Aviation Services (Sri Lanka) Ltd., (AASL) Chairman Air Chief Marshal (Retd.) Harsha Abeywickrema, focusing on the Bandaranaike International Airport (BIA) Terminal 2 development project.
-
-The discussion highlighted critical aspects essential to the project’s success, with an emphasis on enhancing project management efficiency and improving the quality of consultancy services. Both parties recognised the importance of these measures in expediting the project’s completion while adhering to the highest standards of quality. This transformative initiative is seen as a cornerstone for the long-term growth of Sri Lanka’s aviation sector.
-
-...
-
-[Data](articles/2a4e8e87.json)
-
----
-
-### Cabinet approves measures to ensure continuous operations at Valaichchenai paper mill
-
-*2025-01-09 06:14:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-measures-to-ensure-continuous-operations-at-Valaichchenai-paper-mill/34-771633) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved measures to ensure a consistent supply of waste paper to the Valaichchenai paper mill, which resumed operations in 2020.
-
-The mill, which relies heavily on waste paper as its primary raw material, requires a steady flow of supplies to continue uninterrupted production.
-
-“Recognising the importance of ensuring sufficient raw material, the Government has decided to channel waste paper generated by State institutions directly to the Valaichchenai paper mill,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said on Tuesday.
-
-Addressing the weekly post-Cabinet meeting media briefing, he said this includes high-quality white paper and other discarded paper materials from organisations such as the Department of Government Printing, Election Commission, Education Ministry and its subsidiaries, universities, and all Government Ministries and Departments.
-
-...
-
-[Data](articles/b55b6306.json)
-
----
-
-### Cabinet green lights revised procurement plan for Colombo Port tug vessels
-
-*2025-01-09 06:13:21* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-revised-procurement-plan-for-Colombo-Port-tug-vessels/34-771632) · `en`
-
-The Cabinet of Ministers on Monday approved a revised strategy for procuring tug vessels to support operations at the Colombo Port, considering the progress of the new terminal which is expected to be completed between mid and late this year.
-
-Accordingly, it opted to procure two tug vessels on a rental basis for the Sri Lanka Ports Authority (SLPA) for Colombo Port operations, after failing to complete the two previous procurement processes.
-
-Initially, in October 2022, the then Cabinet approved inviting international competitive bids to procure an 80-ton bollard pull tug vessel for the SLPA. For this, four bids were received and the Cabinet appointed procurement committee recommended awarding the contract to the lowest responsive bidder.
-
-...
-
-[Data](articles/ce13d3d4.json)
-
----
-
-### Julius & Creasy marks 146th anniversary
-
-*2025-01-09 06:12:39* · [`dailyftlk`](https://www.ft.lk/business/Julius-Creasy-marks-146thanniversary/34-771631) · `en`
-
-Julius & Creasy on 2 January celebrated its 146th anniversary. Justice Ministry Secretary Ayesha Jinasena, PC, a former employee of the firm, joined the celebration as a special guest on the invitation of Senior Partner S.A. Cader.
-
-◼️
-
-[Data](articles/cceef52d.json)
-
----
-
-### விபத்தில் குடும்பஸ்தர் உயிரிழப்பு
-
-*2025-01-09 06:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-உயிரிழப்பு/175-350015) · `ta`
-
-கொழும்பில் இருந்து வவுனியா நோக்கிப் பயணித்த அதி சொகுசு பஸ் ஒன்று மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
-
-இந்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் சம்பவ இடத்திலேயே உயிரிழந்தார் என்று மதவாச்சி பொலிஸார் தெரிவித்தனர்.
-
-யாழ்ப்பாணம் ஏ - 9 பிரதான வீதியில், மதவாச்சி வஹமல்கொல்லேவ பகுதியில் நேற்று புதன்கிழமை இந்த விபத்து இடம்பெற்றுள்ளது.
-
-ஹமல்கொல்லேவ, ரம்பாவ பகுதியை வசிப்பிடமாகக் கொண்ட 56 வயதுடைய குடும்பஸ்தரே இந்த விபத்தில் உயிரிழந்தார்.
-
-◼️
-
-[Data](articles/db9fb974.json)
-
----
-
-### Govt. will bring killers of Lasantha Wickrematunge to book soon – Justice Minister
-
-*2025-01-09 05:49:46* · [`dailyftlk`](https://www.ft.lk/news/Govt-will-bring-killers-of-Lasantha-Wickrematunge-to-book-soon-Justice-Minister/56-771622) · `en`
-
-Says Govt. respects independence of judiciary, AG’s Department, prosecuting authorities
-
-At a time marking the 16th anniversary of the brutal assassination of the former Editor of the Sunday Leader Lasantha Wickrematunge, the National People’s Power (NPP) Government assured bringing the killers to book soon.
-
-Justice Minister Harshana Nanayakkara said in Parliament yesterday that justice for Wickrematunge’s murder must be done and the Government is committed to do him justice.
-
-Responding to an inquiry by MP Rauff Hakeem on pending cases of killing and torturing journalists, Nanayakkara said inquiries were going in the right direction and they would be handled in the correct way.
-
-“The NPP Government always respects the independence of the judiciary, Attorney General’s Department and related prosecuting authorities. We will facilitate the process,” he said.
-
-...
-
-[Data](articles/01e58d64.json)
-
----
-
-### PM denies approving Israeli religious and cultural centres to function
-
-*2025-01-09 05:46:51* · [`dailyftlk`](https://www.ft.lk/news/PM-denies-approving-Israeli-religious-and-cultural-centres-to-function/56-771621) · `en`
-
-Assures in Parliament action will be taken against unauthorised centres soon
-
-SJB MP Mujibur Rahman alleges Govt. providing 24-hour Police and STF security for such centres
-
-Prime Minister Dr. Harini Amarasuriya yesterday said that the Government had not granted any approval to construct any Israeli religious and cultural centres and would take action against such constructions soon.
-
-“Regarding the Arugam Bay issue, we have provided security following intelligence information, but we have not provided security for any entity to construct any centres or places. If there are so, they are unauthorised constructions,” the PM said, replying to a query raised by Samagi Jana Balawegaya (SJB) MP Mujibur Rahman at Parliament.
-
-She confirmed that the Buddhasasana, Religious and Cultural Affairs Ministry or the departments under the Ministry had not granted permission for such construction of Israeli religious centres.
-
-...
-
-[Data](articles/3333d80c.json)
 
 ---

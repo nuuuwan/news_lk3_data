@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 04:28:15**
+As of **2025-01-10 04:44:19**
 
 ## Newspaper Stats
 
-*Scraped **64,619** Articles*
+*Scraped **64,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 647
 bbccomsinhala | 676
 economynextcom | 3,940
 islandlk | 3,941
-dailyftlk | 4,513
+dailyftlk | 4,520
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
@@ -26,11 +26,131 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,619 articles have been extended.
+61,973 (95.9%) of 64,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### Lankan envoy holds discussions with BOI of Thailand on enhancing investment collaboration
+
+*2025-01-10 04:34:26* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-holds-discussions-with-BOI-of-Thailand-on-enhancing-investment-collaboration/34-771651) · `en`
+
+Ambassador of Sri Lanka to Thailand Wijayanthi Edirisinghe had a meeting with Thailand Board of Investment (BOI) Secretary General Narit Therdsteerasukdi to discuss strengthening bilateral investment ties between Sri Lanka and Thailand.
+
+During the meeting, Ambassador Edirisinghe acknowledged Thailand’s dynamic investment ecosystem and commended the BOI’s pivotal role in promoting inward and outward investments. She emphasised the longstanding bilateral relationship between the two countries, which is deeply rooted in shared cultural and historical ties.
+
+The Ambassador elaborated on what makes Sri Lanka an attractive investment destination in South Asia, referring to the leveraging of its strategic location, skilled workforce and investor-friendly policies. She highlighted key sectors for collaboration including logistics and infrastructure, tourism, offshore renewable energy, agriculture and food processing and gems and jewellery.
+
+...
+
+[Data](articles/79525b73.json)
+
+---
+
+### Sri Lankan companies urged to seize multiple opportunities in Maldives
+
+*2025-01-10 04:29:37* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-companies-urged-to-seize-multiple-opportunities-in-Maldives/34-771650) · `en`
+
+Sri Lanka -Maldives Business Council documents special report listing specific opportunities following key visit and meetings in the Maldives
+
+Maldives High Commissioner urges facilitation of easier and higher travel of her citizens to Sri Lanka
+
+The Sri Lanka -Maldives Business Council of the Ceylon Chamber of Commerce this week highlighted numerous opportunities in the Maldives for the Sri Lankan companies in sectors such as logistics, tourism, agriculture, boat construction, fishery and construction.
+
+A report listing the opportunities was presented to the Export Development Board (EDB) Chairman Mangala Wijesinghe and the High Commissioner of the Maldives Masood Imad.
+
+...
+
+[Data](articles/e72a479e.json)
+
+---
+
+### SJB decides to restructure party
+
+*2025-01-10 04:27:04* · [`dailyftlk`](https://www.ft.lk/news/SJB-decides-to-restructure-party/56-771649) · `en`
+
+The Samagi Jana Balawegaya (SJB) has decided to restructure the party by giving much emphasis to the recommendations proposed by its Chairman Imthiaz Bakeer Markar.
+
+SJB Vice Chairman and parliamentarian Gayantha Karunatilake said the decision of restructuring the party was taken by the SJB’s management committee meeting early this week.
+
+He told the Daily FT that among other issues discussed at the meeting were strengthening party membership to face the forthcoming local government elections, preparing the nomination lists, and criteria of selecting candidates and other pertaining issues.
+
+Karunatilake, who is also the Chief Opposition Whip in Parliament, said SJB’s working committee will be called to appoint a committee to look into restructuring the SJB, next week.
+
+SJB General Secretary Ranjith Madduma Bandara also confirmed that the SJB has accepted the 12 recommendations by Markar, which will strengthen the party to face forthcoming elections and to win the trust of its membership.
+
+...
+
+[Data](articles/30df4b28.json)
+
+---
+
+### No recent HMPV cases in SL: Health Minister
+
+*2025-01-10 04:25:05* · [`dailyftlk`](https://www.ft.lk/news/No-recent-HMPV-cases-in-SL-Health-Minister/56-771648) · `en`
+
+Health Minister Nalinda Jayatissa said Sri Lanka’s health authorities are on the alert on the spread of Human Metapneumovirus (HMPV) and no patients have been confirmed in the country so far.
+
+He said there was one suspected patient but tests were negative. Speaking in parliament yesterday, (9 Jan.), he said 20 locations had been named to conduct tests while the Epidemiology Unit was providing regular updates and taking necessary precautionary steps.
+
+Minister Dr. Jayatissa said the media reports went viral saying a HMPV patient had been detected in Sri Lanka had misquoted immunologist Prof. Neelika Malavige’s statement. Rejecting news reports as false, he said they were published in a manner to create fear among people but Prof.
+
+Malavige had correctly stated that Sri Lanka had identified a HMPV patient before the current outbreak and not during the present outbreak, which was a seasonal winter occurrence in China.
+
+...
+
+[Data](articles/23bcf6f4.json)
+
+---
+
+### Gnanasara Thera sentenced to nine months for defamatory remarks on Islam
+
+*2025-01-10 04:23:37* · [`dailyftlk`](https://www.ft.lk/news/Gnanasara-Thera-sentenced-to-nine-months-for-defamatory-remarks-on-Islam/56-771647) · `en`
+
+The Colombo Magistrate’s Court has sentenced Bodu Bala Sena (BBS) General Secretary Galagoda Aththe Gnanasara Thera to nine months of simple imprisonment for making a defamatory statement about Islam.
+
+The verdict, delivered by Colombo Additional Magistrate Pasan Amarasena, also included a fine of Rs. 1,500. In the event of non-payment, the court ordered an additional one month of imprisonment.
+
+The case, filed under Section 291 of the Penal Code, was based on remarks made by Gnanasara Thero during a press conference held in the Kirulapone area on 16 July 2016. The Thera said, “Islam is a cancer… it must be eradicated,” a statement deemed to incite ethnic disharmony and promote hatred against the Muslim community.
+
+In delivering the judgment, Magistrate Amarasena noted that the prosecution had proven the case beyond reasonable doubt. The court emphasised the importance of maintaining ethnic harmony and condemned the inflammatory nature of the Thera’s speech.
+
+...
+
+[Data](articles/2e28a6f0.json)
+
+---
+
+### Mullaitivu protest calls on Govt. to halt Rohingya deportation plans
+
+*2025-01-10 04:22:23* · [`dailyftlk`](https://www.ft.lk/news/Mullaitivu-protest-calls-on-Govt-to-halt-Rohingya-deportation-plans/56-771646) · `en`
+
+A protest was held yesterday in front of the Mullaitivu District Secretariat, organised by the North-East Coordinating Committee (NECC) alongside representatives of women’s community-based organisations, human rights defenders and members of fisher societies. The group appealed to the Sri Lankan Government, urging it not to deport the Rohingya refugees who were rescued by the Sri Lankan Navy on 19 December 2024.
+
+The NECC expressed appreciation for the swift actions of the local fishers in Mullaitivu who first noticed the distressed refugees and alerted the Navy, offering immediate assistance. The group also commended the Sri Lankan Navy for rescuing the refugees. However, the NECC stressed that Sri Lanka, as a member of the United Nations, has a responsibility to adhere to international humanitarian and human rights laws. They highlighted the importance of upholding the principle of non-refoulement, which prohibits the return of refugees to places where they face persecution or harm.
+
+...
+
+[Data](articles/364d3410.json)
+
+---
+
+### Opposition leader wants Govt. to repeal or amend PTA
+
+*2025-01-10 04:21:02* · [`dailyftlk`](https://www.ft.lk/news/Opposition-leader-wants-Govt-to-repeal-or-amend-PTA/56-771645) · `en`
+
+Stresses need of Govt. stance on those detained for 72 hours
+
+Opposition leader Sajith Premadasa yesterday highlighted the need for repealing or amending the Prevention of Terrorism Act (PTA), which was temporarily enacted in 1979 to suppress LTTE terrorist activities in the country.
+
+Questioning the Government as to why it is still not taking action to repeal the PTA, he said it was now being used to suppress the voices of political opponents, protests, strikes against the Government and journalists. “Today, continuation of this law has become a problematic issue and I ask why it is still in existence even after 15 years of ending the civil war. It has also created a conflict between the international agreements and conventions, which Sri Lanka has ratified,” Premadasa explained.
+
+...
+
+[Data](articles/a93cb11e.json)
+
+---
 
 ### நாட்டிற்கு சுற்றுலா விசாவில் வருகை தந்து வியாபார நடவடிக்கைகளில் ஈடுபடுவது தொடர்பில் அரசு கவனம் செலுத்தியுள்ளது - பிரதமர் கலாநிதி ஹரினி அமரசூரிய
 
@@ -1711,129 +1831,5 @@ HMPV causes a respiratory illness with the symptoms of flu or Cold like symptoms
 ◼️
 
 [Data](articles/99ded930.json)
-
----
-
-### தவில் வித்துவானின் மகன் விபத்தில் பலி
-
-*2025-01-09 11:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவில்-வித்துவானின்-மகன்-விபத்தில்-பலி/175-350029) · `ta`
-
-வல்லைப் பகுதியில்   புதன்கிழமை (08) இரவு 7.30 மணியளவில் இடம் பெற்ற மோட்டார் சைக்கிள் விபத்தில் தவில் வித்துவான் விஜயகுமாரின் மகனான, 21 வயதான விஜயகுமார் மணிகண்டன் என்ற இளைஞன், பரிதாபமாக உயிரிழந்துள்ளார்
-
-இவர், யா / நெல்லியடி மத்திய கல்லூரி பழைய மாணவனும் பிரபல தவில் வித்துவான் விஜயகுமாரின் புதல்வனும் ஆவார்.
-
-யாழ். நகர் பகுதியில் இருந்து பருத்தித்துறை நோக்கி வேகமாக மோட்டார் சைக்கிளில் வந்த குறித்த இளைஞன், வல்லைப் பகுதியில் மாட்டுடன் மோதி விபத்துக்கு உள்ளானதாக கூறப்படுகிறது.
-
-சடலம் உடற்கூற்று சோதனைக்காக பருத்தித்துறை ஆதார வைத்திய சாலையில் வைக்கப்பட்டுள்ளது மேலதிக விசாரணைகளை நெல்லியடி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/5c6a1a7e.json)
-
----
-
-### Sri Lanka’s Hambantota Port handles 43,000 boxes kicking off relay hub
-
-*2025-01-09 11:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-handles-43000-boxes-kicking-off-relay-hub-198733/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s China-backed Hambantota Port said it had handled 43,777 twenty- foot equivalent units by mid-2024, after it started container relay operations in April 2024.
-
-The port is planning to position itself as a potential container transfer center in the region.
-
-“To support this new operation, the port is developing a dedicated container yard to handle transshipment services,” the statement said.
-
-Related Sri Lanka’s Colombo Port handles 7.7mn boxes is 2024, up 12.3-pct
-
-Hambantota International Port recently bought new cranes to boost is container handling capacity to a million TEUs a year. (Colombo/Jan09/2024)
-
-◼️
-
-[Data](articles/731e755d.json)
-
----
-
-### யாழ். காரைநகரில் 10 தமிழக மீனவர்கள் கைது
-
-*2025-01-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/203372) · `ta`
-
-யாழ்ப்பாணம், காரைநகர் கடற்பரப்பினுள் அத்துமீறி கடற்தொழிலில் ஈடுபட்ட தமிழக மீனவர்கள் 10 பேரை இலங்கை கடற்படையினர் கைது செய்துள்ளதுடன், அவர்களிடம் இருந்து பெருந்தொகை மீன்களையும் கைப்பற்றியுள்ளனர்.
-
-காரைநகர் கடற்பகுதியில் நேற்று புதன்கிழமை (08) இரவு சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டிருந்த கடற்படையினர், இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து கடற்தொழிலில் ஈடுபட்ட குற்றச்சாட்டில், 10 தமிழக மீனவர்களை கைது செய்ததுடன், அவர்களின் படகொன்றினையும், படகினுள் இருந்து பெருந்தொகை மீன்களையும் கைப்பற்றியுள்ளனர்.
-
-கைது செய்யப்பட்ட கடற்தொழிலாளர்களையும்  அவர்களின் படகையும், கடற்படையினர் காங்கேசன்துறை கடற்படை முகாமிற்கு கொண்டு சென்றுள்ளனர்.
-
-கைது செய்யப்பட்ட மீனவர்களை மேலதிக சட்ட நடவடிக்கைக்காக, கடற்தொழில் நீரியல் வளத்துறை அதிகாரிகள் ஊடாக ஊர்காவற்துறை நீதவான் நீதிமன்றில் முற்படுத்த கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/231315fc.json)
-
----
-
-### "இலங்கை வரலாற்றில் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முதற்தடவையாக 9.3 வீதமாக அதிகரித்துள்ளது ; பிரதமர்
-
-*2025-01-09 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/203375) · `ta`
-
-"இலங்கை வரலாற்றில் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் முதற்தடவையாக 9.3 வீதமாக அதிகரித்துள்ளதை தெரிவிப்பதில் பெருமையடைகிறேன். இந்த நேர்மறையான மாற்றம் பெண்களின் குரல்கள் மேலும் விரிவாக மற்றும் அதனை உள்ளடக்கிய நிர்வாகத்தில் அதிகம் ஒலிப்பதை உறுதிசெய்வதாக 2024ம் ஆண்டிற்கான "பிரத்திபாபிஷேக" பெண் தொழில் முயற்சியாளர்களுக்கான விருது விழாவின் போது பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்தார்.
-
-2024ம் ஆண்டிற்கான "பிரத்திபாபிஷேக" பெண் தொழில் முயற்சியாளர்களுக்கான விருது விழா கொழும்பு, ஹில்டன் ஹோட்டலில் ஜனவரி 7ஆம்  திகதி இடம்பெற்றது. இலங்கை மகளிர் தொழிற்துறை மற்றும் வர்த்தக சபை இதனை ஏற்பாடு செய்திருந்தது. பிரதமர் கலாநிதி ஹரினி அமரசூரிய நிகழ்வின் பிரதம அதிதியாக கலந்துகொண்டார்.
-
-இந்த விழாவில் 2024ம் ஆண்டுக்கான சிறந்த பெண் தொழில் முயற்சியாளருக்கான விருதினை கலாநிதி திலேஷா பெரேரா வென்றார்.
-
-...
-
-[Data](articles/e6462cf4.json)
-
----
-
-### அமைச்சரின் அனுமதியின்றி தலைவர்களை சந்திக்கத் தடை?
-
-*2025-01-09 11:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-அனுமதியின்றி-தலைவர்களை-சந்திக்கத்-தடை/175-350028) · `ta`
-
-வெளிவிவகார அமைச்சரின் அனுமதியின்றி அமைச்சர்கள் வெளிநாட்டு தூதரகங்களின் தலைவர்களை சந்திப்பதற்கு தடைவிதித்து ஜனாதிபதியின் செயலாளர் சுற்றறிக்கை வெளியிட்டதாக எதிர்க்கட்சி எம்.பி தயாசிறி ஜயசேகர குற்றம் சுமத்திய அதேவேளை, சபைத் தலைவர் பிமல் ரத்நாயக்க அதனை நிராகரித்ததுடன் நேற்று தாம் ஒரு வெளிநாட்டு தலைவரை சந்தித்ததாக தெரிவித்தார்.
-
-“வெளிவிவகார அமைச்சரின் அனுமதியின்றி அமைச்சர்கள், செயலாளர்கள் மற்றும் ஆளுநர்கள் வெளிநாட்டு தூதரகங்களின் தலைவர்களை சந்திப்பதைத் தடைசெய்து ஜனாதிபதியின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளார். அமைச்சர்களுக்கு ஏன் இந்தக் கட்டுப்பாடுகள் விதிக்கப்படுகின்றன என்று நாம் ஆச்சரியப்படுகிறோம். இது வடகொரியாவிலுள்ள ஆட்சி போன்ற நடவடிக்கையாகும்” என எம்.பி ஜயசேகர தெரிவித்தார்.
-
-அப்போது “சிறிது நேரத்திற்கு முன்பு நான் அவுஸ்திரேலிய உயர்ஸ்தானிகரைச் சந்தித்தேன். அவர் இன்னும் பாராளுமன்ற வளாகத்தில் தான் இருக்கிறார். நான் அவரை உங்களுக்கு அறிமுகப்படுத்த முடியும்” என்று சபைத் தலைவர் ரத்நாயக்க கூறினார்.
-
-◼️
-
-[Data](articles/babf5514.json)
-
----
-
-### ஞானசார தேரருக்கு சிறை
-
-*2025-01-09 11:27:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஞானசார-தேரருக்கு-சிறை/150-350027) · `ta`
-
-இஸ்லாமிய மதத்தை அவமதித்ததற்காக பொதுபல சேனா (பிபிஎஸ்) அமைப்பின் பொதுச் செயலாளர் கலகொட அத்தே ஞானசார தேரருக்கு கொழும்பு நீதவான் நீதிமன்றம் 9 மாத சிறைத்தண்டனை வியாழக்கிழமை (09) விதித்துள்ளது.
-
-சிறைத்தண்டனைக்கு கூடுதலாக, ரூ. 1,500 அபராதம் விதிக்கப்பட்டது. இந்த தீர்ப்பு கொழும்பு மேலதிக நீதவான் பசன் அமரசேனவினால் வழங்கப்பட்டது.
-
-ஞானசார தேரர் குற்றச்சாட்டுகள் தொடர்பாக நீதிமன்றத்தில் ஆஜராகத் தவறியதைத் தொடர்ந்து பிறப்பிக்கப்பட்ட முந்தைய கைது வாரண்டைத் தொடர்ந்து இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/7145d708.json)
-
----
-
-### 2025 Appropriation Bill presented to Parliament
-
-*2025-01-09 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104845/2025-appropriation-bill-presented-to-parliament) · `en`
-
-The Appropriation Bill to allocate funds for the government expenditure in 2025 financial year has been presented to the Parliament by Prime Minister Dr. Harini Amarasuriya.
-
-Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on February 17 and the second reading debate is scheduled to be held for 7 days from February 18 to 25.
-
-Thereafter, the vote on the second reading of the bill is scheduled to be held on February 25 at 6.00 p.m.
-
-The Committee Stage Debate on the Appropriation Bill is scheduled to be held for 19 days, including 4 Saturdays, from February 27 to March 21. It has also been decided to hold the vote on third Reading of the Appropriation Bill on March 21 at 6.00 p.m.
-
-During the budget debate period, the time from 9.30 a.m. to 10.00 a.m. has been allotted for 5 questions for oral answers, and the budget debate will be held from 10.00 a.m. to 6.00 p.m.
-
-...
-
-[Data](articles/b767078c.json)
 
 ---

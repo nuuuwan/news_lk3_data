@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 15:02:58**
+As of **2025-01-09 15:28:19**
 
 ## Newspaper Stats
 
-*Scraped **64,533** Articles*
+*Scraped **64,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,180
 adaderanalk | 7,898
-tamilmirrorlk | 9,260
+tamilmirrorlk | 9,262
 virakesarilk | 10,777
 adaderanasinhalalk | 11,143
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,533 articles have been extended.
+61,973 (96.0%) of 64,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### இந்திய இழுவைப் படகு அடாவடி; யாழ். மீனவரின் வலைகள் நாசம்
+
+*2025-01-09 15:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இழுவைப்-படகு-அடாவடி-யாழ்-மீனவரின்-வலைகள்-நாசம்/175-350046) · `ta`
+
+இலங்கை கடற்பரப்பில் புதன்கிழமை (08) இரவன்று இந்திய இழுவைப் படகுகள் அத்துமீறி உள்நுழைந்து, மீன்பிடி நடவடிக்கையில் ஈடுபட்டமையால் யாழ்ப்பாணம் - சுழிபுரம், காட்டுப்புலம் பகுதி மீனவர் ஒருவரின் சுமார் ஏழு இலட்சம் ரூபாய் பெறுமதியான வலைகள் அறுக்கப்பட்டுள்ளதாகக் குற்றம் சுமத்தப்பட்டுள்ளன.
+
+திருவடிநிலை கடற்பரப்பில் மீன்பிடி நடவடிக்கையில் குறித்த மீனவர், புதன்கிழமை (08) இரவு  ஈடுபட்டுக் கொண்டிருந்த போது, அத்துமீறி நுழைந்த இந்திய இழுவைப் படகுகள் அவரது வலைகளை அறுத்து உள்ளன. இதனால் அவரிடம் இருந்து 32 வலைகளில் 26 வலைகள் அறுக்கப்பட்ட நிலையில் ஆறு வலைகளே மீதமாகின. எஞ்சிய வலைகளும் சேதமடைந்த நிலையில் காணப்படுகின்றன.
+
+புதன்கிழமை (08) இரவு  10 மணியளவில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட ரோலர்கள் எமது வலையை மட்டுமல்லாமல் வேறு சங்கங்களின் வலைகளையும் அறுத்து உள்ளன. இப்பொழுது மீன்பிடி பருவகாலம். இந்திய இழுவை படகுகளின் இவ்வாறான செயற்பாடுகளால் நாங்கள் உழைக்க முடியாத சூழ்நிலை ஏற்பட்டுள்ளது என பாதிக்கப்பட்ட மீனவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bd1ee6ac.json)
+
+---
+
+### ஹாலிவுட் மலைகளில், சன்செட் தீ வேகமாக பரவி வருகிறது
+
+*2025-01-09 15:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹாலிவுட்-மலைகளில்-சன்செட்-தீ-வேகமாக-பரவி-வருகிறது/50-350045) · `ta`
+
+லோஸ் ஏஞ்சல்ஸ் முழுவதும் கட்டுப்பாடு இல்லாமல் பரவி வரும் காட்டுத்தீக்கு 5 பேர் உயிரிழந்துள்ளனர். காட்டுத்தீ காரணமாக பரவலான அழிவு ஏற்பட்டு, அங்கு வசித்து வரும் மக்கள் தங்களின் வீடுகளை விட்டு வெளியேறும் கட்டாயத்துக்கு தள்ளப்பட்டுள்ளனர். இதனிடையே, ஹாலிவுட்டுக்கான குறியீடாக விளங்கும் ஹாலிவுட் மலைகளில், சன்செட் என்றழைக்கப்படும் புதிய தீ வேகமாக பரவி வருகிறது.
+
+லோஸ் ஏஞ்சல்ஸ் தீயணைப்புத்துறையின் கூற்றுப்படி, சன்செட் தீ தற்போது 20 ஏக்கர் வரை பரவியுள்ளது. மேலும் அது ரன்யான் கன்யோன் முதல் வாட்டலஸ் பார்க் இடையேயான பகுதியை எரித்து நாசமாக்கியுள்ளது. ஹாலிவுட் அடையாளத்தை தவிர்த்து, ஆண்டு தோறும் ஆஸ்கார் விருதுகள் வழங்கும் விழா நடைபெறும் டோல்பி தியேட்டரும் சன்செட் தீ தாக்கும் அபாயத்தில் உள்ளது. அதேபோல் ஹாலிவுட்டன் பிற அடையாளங்களான, ஹாலிவுட் பவுல் வெளிப்புற ஆம்பிதியேட்டர் மற்றும் ஹாலிவுட் வாக் ஆஃப் ஃபேம் போன்றவையும் தீ தாக்கும் அபாயத்தில் உள்ளன.
+
+...
+
+[Data](articles/8cbd1ccf.json)
+
+---
 
 ### Curtain rises on ‘Battle of the NVOCCs’
 
@@ -1763,37 +1793,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ◼️
 
 [Data](articles/e25ad3c3.json)
-
----
-
-### Sri Lanka govt launches strategic initiative for commercialization of R&D
-
-*2025-01-08 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104836/sri-lanka-govt-launches-strategic-initiative-for-commercialization-of-rd) · `en`
-
-President Anura Kumara Disanayake has emphasized that Sri Lanka can enhance its position in the global market through a robust new product development strategy, which will also create new market opportunities.
-
-He made these remarks today (08) during the official launch of the “National Initiative for R&D Commercialization” held at the Presidential Secretariat.
-
-As part of the initiative, the newly developed website nirdc.gov.lk was also launched. This platform aims to facilitate the commercialization of research and development, thereby contributing to sustainable economic growth through the production of value-added goods and services, which will ultimately drive national economic development and social progress, the President Media Division reported.
-
-...
-
-[Data](articles/f72c291f.json)
-
----
-
-### தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்காதவர்களுக்கு எச்சரிக்கை
-
-*2025-01-08 21:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவு-அறிக்கையை-சமர்ப்பிக்காதவர்களுக்கு-எச்சரிக்கை/175-350014) · `ta`
-
-பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்களுக்கு எதிராக சட்ட நடவடிக்கைகளை ஆரம்பிக்குமாறு பதில் பொலிஸ்மா அதிபர் அறிவுறுத்தல் வழங்கியுள்ளார்.
-
-இதன்படி, இதுவரை செலவு அறிக்கையை சமர்ப்பிக்காத 1,042 வேட்பாளர்கள் மற்றும் 197 கட்சி செயலாளர்கள் மற்றும் சுயேச்சைக் குழு தலைவர்கள் தொடர்பான விரிவான அறிக்கையை தேர்தல் ஆணைக்குழு பதில் பொலிஸ் மா அதிபருக்கு அனுப்பி வைத்துள்ளது.
-
-பிரதிப் பொலிஸ்மா அதிபர் சட்டப் பிரிவின் மேற்பார்வையின் கீழ் அந்தந்த தொகுதிகளுக்கு உட்பட்ட பொலிஸ் பிரிவுகளில் பிரதேச குற்றப் புலனாய்வுப் பிரிவினால் விசாரணைகளை ஆரம்பிக்குமாறு பொலிஸ்மா அதிபர் மேற்கண்ட பிரதிவாதிகளுக்கு பணிப்புரை விடுத்துள்ளார். R
-
-◼️
-
-[Data](articles/723b2007.json)
 
 ---

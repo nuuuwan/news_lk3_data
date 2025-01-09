@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 21:03:05**
+As of **2025-01-09 21:14:38**
 
 ## Newspaper Stats
 
-*Scraped **64,593** Articles*
+*Scraped **64,594** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 470
+dbsjeyarajcom | 471
 colombotelegraphcom | 647
 bbccomsinhala | 676
 economynextcom | 3,935
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,593 articles have been extended.
+61,973 (95.9%) of 64,594 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1392,6 +1392,20 @@ During the budget debate period, the time from 9.30 a.m. to 10.00 a.m. has been 
 
 ---
 
+### 
+
+*2025-01-09 11:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85318) · `en`
+
+சதாசிவம்பிள்ளை கிருஷ்ணகுமார் என்ற இயற்பெயரைக் கொண்ட விடுதலை புலிகளின் அன்றைய யாழ்ப்பாண மாவட்ட தளபதி ‘ கேணல் ‘ கிட்டுவின் வாழ்வும் காலமும்
+
+இலங்கை ஆயுதப்படைகளுக்கும் தமிழீழ விடுதலை புலிகள் இயக்கத்துக்கும் இடையிலான 33 வருடகாலப் போர் இப்போதெல்லாம் நினைவில் இருந்து மெதுவாக அருகிக் கொண்டு போகிறது. விடுதலை புலிகள் இயக்கம் 1976  ஆம் ஆண்டு மே மாதம் 5 ஆம் திகதி முறைப்படி ஆரம்பிக்கப்பட்டது.  மூன்று தசாப்தகால போருக்கு பிறகு விடுதலை புலிகள் முல்லைத்தீவின் நந்திக்கடல் ஏரியில் 2009 ஆம் ஆண்டு மே மாதம் 18 ஆம் திகதி தங்களது தோல்வியைச் சந்தித்தார்கள்.  வேலுப்பிள்ளை பிரபாகரன் தலைமையிலான அந்த இயக்கத்தினால் இலங்கை அரசாங்கத்துக்கு எதிராக தொடுக்கப்பட்ட போர் சுதந்திரத்தின் பின்னரான இலங்கையின் வரலாற்றில் முக்கியமான  ஒரு பாகமாகும்.
+
+...
+
+[Data](articles/2982d55d.json)
+
+---
+
 ### யாழில் மாட்டுடன் மோட்டார் சைக்கிள் மோதி விபத்து ; இளைஞன் உயிரிழப்பு
 
 *2025-01-09 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203370) · `ta`
@@ -1809,19 +1823,5 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 ◼️
 
 [Data](articles/efa83bae.json)
-
----
-
-### Three arrested over Wattegama murder
-
-*2025-01-09 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104841/three-arrested-over-wattegama-murder) · `en`
-
-These suspects were arrested yesterday (08) for allegedly stabbing a person to death with sharp weapons on January 04 in the Atalahagoda area of Wattegama.
-
-The arrested individuals are residents of Karandeniya, Kegalle, and Hettimulla, aged 25, 35, and 37.
-
-◼️
-
-[Data](articles/de5d2537.json)
 
 ---

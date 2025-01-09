@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 06:14:26**
+As of **2025-01-09 06:49:33**
 
 ## Newspaper Stats
 
-*Scraped **64,453** Articles*
+*Scraped **64,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
 islandlk | 3,940
-dailyftlk | 4,508
+dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
-tamilmirrorlk | 9,242
+tamilmirrorlk | 9,244
 virakesarilk | 10,766
 adaderanasinhalalk | 11,129
 
@@ -26,11 +26,119 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.2%) of 64,453 articles have been extended.
+61,973 (96.1%) of 64,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### தமிழரசுக் கட்சி எம்.பிக்கள் - ஜூலி சங் சந்திப்பு
+
+*2025-01-09 06:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-எம்-பிக்கள்-ஜூலி-சங்-சந்திப்பு/175-350016) · `ta`
+
+சிவஞானம் சிறீதரன் தலைமையிலான இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்றக் குழுவினருக்கும் இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சங்குக்கும் இடையிலான சந்திப்பு நேற்று (08) மாலை கொழும்பில் நடைபெற்றுள்ளது.
+
+இந்தச் சந்திப்பின்போது, இனப்படுகொலைக்கான பொறுப்புக்கூறல், புதிய அரசமைப்பு உருவாக்கத்தில் தமிழர்களுக்கான சமஷ்டித் தீர்வுக்கான சாத்தியமின்மைகள் எழும்போது அது சார்ந்த அரசியல் நகர்வுகளின் தேவைப்பாடு மற்றும் சமகால அரசியல் நிலைவரங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளது.
+
+அமெரிக்கத் தூதுவருடனான இந்தச் சந்திப்பில் தமிழரசுக் கட்சியின் எட்டு பாராளுமன்ற உறுப்பினர்களும் பங்கேற்றிருந்தமை குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/daa23432.json)
+
+---
+
+### COYLE: Championing innovation and entrepreneurship in 2024
+
+*2025-01-09 06:19:44* · [`dailyftlk`](https://www.ft.lk/business/COYLE-Championing-innovation-and-entrepreneurship-in-2024/34-771635) · `en`
+
+From left: PIM Senior Lecturer Tharindu Ameresekere, Director Dr. Asanga Ranasinghe, COYLE Chairman Thushira Raddella, Senior Vice Chairman Manjula Wijesundera, and CEO Indunil Ukwatte
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) continued its legacy of fostering economic growth and innovation in Sri Lanka with a remarkable series of initiatives in 2024. With a mission to empower entrepreneurs and build a stronger, more resilient economy, COYLE has demonstrated its commitment to shaping the future of business through impactful programs and strategic partnerships.
+
+...
+
+[Data](articles/b0ec6ffc.json)
+
+---
+
+### JICA Senior Vice President engages with AASL Chairman on BIA Terminal 2 development
+
+*2025-01-09 06:15:22* · [`dailyftlk`](https://www.ft.lk/business/JICA-Senior-Vice-President-engages-with-AASL-Chairman-on-BIA-Terminal-2-development/34-771634) · `en`
+
+A high-level meeting took place yesterday led by Japan International Cooperation Agency (JICA) Senior Vice President Shohei Hara and Airport and Aviation Services (Sri Lanka) Ltd., (AASL) Chairman Air Chief Marshal (Retd.) Harsha Abeywickrema, focusing on the Bandaranaike International Airport (BIA) Terminal 2 development project.
+
+The discussion highlighted critical aspects essential to the project’s success, with an emphasis on enhancing project management efficiency and improving the quality of consultancy services. Both parties recognised the importance of these measures in expediting the project’s completion while adhering to the highest standards of quality. This transformative initiative is seen as a cornerstone for the long-term growth of Sri Lanka’s aviation sector.
+
+...
+
+[Data](articles/2a4e8e87.json)
+
+---
+
+### Cabinet approves measures to ensure continuous operations at Valaichchenai paper mill
+
+*2025-01-09 06:14:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-measures-to-ensure-continuous-operations-at-Valaichchenai-paper-mill/34-771633) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved measures to ensure a consistent supply of waste paper to the Valaichchenai paper mill, which resumed operations in 2020.
+
+The mill, which relies heavily on waste paper as its primary raw material, requires a steady flow of supplies to continue uninterrupted production.
+
+“Recognising the importance of ensuring sufficient raw material, the Government has decided to channel waste paper generated by State institutions directly to the Valaichchenai paper mill,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said on Tuesday.
+
+Addressing the weekly post-Cabinet meeting media briefing, he said this includes high-quality white paper and other discarded paper materials from organisations such as the Department of Government Printing, Election Commission, Education Ministry and its subsidiaries, universities, and all Government Ministries and Departments.
+
+...
+
+[Data](articles/b55b6306.json)
+
+---
+
+### Cabinet green lights revised procurement plan for Colombo Port tug vessels
+
+*2025-01-09 06:13:21* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-revised-procurement-plan-for-Colombo-Port-tug-vessels/34-771632) · `en`
+
+The Cabinet of Ministers on Monday approved a revised strategy for procuring tug vessels to support operations at the Colombo Port, considering the progress of the new terminal which is expected to be completed between mid and late this year.
+
+Accordingly, it opted to procure two tug vessels on a rental basis for the Sri Lanka Ports Authority (SLPA) for Colombo Port operations, after failing to complete the two previous procurement processes.
+
+Initially, in October 2022, the then Cabinet approved inviting international competitive bids to procure an 80-ton bollard pull tug vessel for the SLPA. For this, four bids were received and the Cabinet appointed procurement committee recommended awarding the contract to the lowest responsive bidder.
+
+...
+
+[Data](articles/ce13d3d4.json)
+
+---
+
+### Julius & Creasy marks 146th anniversary
+
+*2025-01-09 06:12:39* · [`dailyftlk`](https://www.ft.lk/business/Julius-Creasy-marks-146thanniversary/34-771631) · `en`
+
+Julius & Creasy on 2 January celebrated its 146th anniversary. Justice Ministry Secretary Ayesha Jinasena, PC, a former employee of the firm, joined the celebration as a special guest on the invitation of Senior Partner S.A. Cader.
+
+◼️
+
+[Data](articles/cceef52d.json)
+
+---
+
+### விபத்தில் குடும்பஸ்தர் உயிரிழப்பு
+
+*2025-01-09 06:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-உயிரிழப்பு/175-350015) · `ta`
+
+கொழும்பில் இருந்து வவுனியா நோக்கிப் பயணித்த அதி சொகுசு பஸ் ஒன்று மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் சம்பவ இடத்திலேயே உயிரிழந்தார் என்று மதவாச்சி பொலிஸார் தெரிவித்தனர்.
+
+யாழ்ப்பாணம் ஏ - 9 பிரதான வீதியில், மதவாச்சி வஹமல்கொல்லேவ பகுதியில் நேற்று புதன்கிழமை இந்த விபத்து இடம்பெற்றுள்ளது.
+
+ஹமல்கொல்லேவ, ரம்பாவ பகுதியை வசிப்பிடமாகக் கொண்ட 56 வயதுடைய குடும்பஸ்தரே இந்த விபத்தில் உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/db9fb974.json)
+
+---
 
 ### Govt. will bring killers of Lasantha Wickrematunge to book soon – Justice Minister
 
@@ -1731,131 +1839,5 @@ Clean Sri Lanka වැඩසටහනට සමගාමීව සිදුක�
 ◼️
 
 [Data](articles/ee17b02d.json)
-
----
-
-### Sri Lanka central bank to review SRR framework
-
-*2025-01-08 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-review-srr-framework-198588/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank is reviewing the current statutory reserve requirements of banks, Governor Nandalal Weeerasinghe said delivering the agency’s annual plans for the year.
-
-The central bank is reviewing the SRR in line with international best practices, he said.
-
-“Required changes will be implemented following stakeholder consultations to optimise the SRR framework for the benefit of effective monetary policy implementation and the overall financial system,” according to the published text of the speech.
-
-Many floating rate central banks no longer have large reserve requirements, and do not use them to tighten or loosen policy.
-
-The Fed in the run up to triggering the latest inflation bubble, dropped the concept of required reserves altogether.
-
-It could then print money without the limits of ‘excess reserves or excess liquidity’, critics say.
-
-...
-
-[Data](articles/e9f3c2ab.json)
-
----
-
-### “Gem Sri Lanka – 2025”  ஆரம்பம்
-
-*2025-01-08 14:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Gem-Sri-Lanka-2025-ஆரம்பம்/175-349990) · `ta`
-
-“Gem Sri Lanka – 2025” இரத்தினக்கல் மற்றும் ஆபரணக் கண்காட்சி ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் புதன்கிழமை (08) காலை சினமன் பெந்தொட்ட பீச் ஹோட்டலில் வெகு விமர்சையாக ஆரம்பமானது.
-
-சீனங்கோட்டை இரத்தினக்கல் மற்றும் ஆபரண சங்கம் (CGJTA) ஆண்டுதோறும் ஏற்பாடு செய்து வரும் இந்தக் கண்காட்சி ஜனவரி 10ஆம் திகதி வரை நடைபெறவுள்ளது.
-
-“Gem Sri Lanka – 2025” இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சியை ஆரம்பித்து வைத்த ஜனாதிபதி, கண்காட்சி கூடங்களை பார்வையிட்டதோடு இரத்தினக்கல் தொழில்துறையினர் எதிர்கொள்ளும் பிரச்சினைகள் குறித்தும் சிநேகபூர்வமாக கலந்துரையாடினார்.
-
-“Gem Sri Lanka – 2025” கண்காட்சி ஏற்பாட்டுக் குழுவுடன் ஜனாதிபதி அநுரகுமார திசாநாயக்க குழு புகைப்படத்திலும் இணைந்து கொண்டார்.
-
-இவ்வருட “Gem Sri Lanka – 2025” கண்காட்சியானது 103 கண்காட்சிக் கூடங்களை உள்ளடக்கியதுடன்இ அதிகளவான உள்நாட்டு மற்றும் வெளிநாட்டு கொள்வனவாளர்கள் இதில் இணைந்து கொண்டமை விசேட அம்சமாகும்.
-
-...
-
-[Data](articles/f5028b34.json)
-
----
-
-### “Gem Sri Lanka – 2025” Gem and Jewellery Exhibition Commences under President’s Patronage
-
-*2025-01-08 14:00:00* · [`islandlk`](http://island.lk/gem-sri-lanka-2025-gem-and-jewellery-exhibition-commences-under-presidents-patronage/) · `en`
-
-The “Gem Sri Lanka – 2025” gem and jewellery exhibition was inaugurated this morning (08) at the Cinnamon Bentota Beach Hotel,  by President Anura Kumara Disanayake.
-
-Organized annually by the Chinese Fort Gem and Jewellery Traders Association (CGJTA), the exhibition will be open to the public from today until January 10.
-
-Following the opening, President Disanayake toured the exhibition booths and engaged in discussions with industry stakeholders, addressing challenges faced by gem and jewelry manufacturers while fostering a friendly dialogue with them.
-
-He also posed for a group photograph with the organizing committee of “Gem Sri Lanka – 2025.”
-
-This year’s exhibition features 103 booths and has attracted a significant number of both local and international buyers, highlighting the event’s global appeal.
-
-...
-
-[Data](articles/004e357d.json)
-
----
-
-### Trump 2.0 – What it means for Sri Lanka’s exports
-
-*2025-01-08 13:49:00* · [`islandlk`](http://island.lk/trump-2-0-what-it-means-for-sri-lankas-exports/) · `en`
-
-The second term of Donald Trump as the President of the United States will begin on January 20, 2025. He will return to the White House for his second term, or Trump 2.0, with renewed emphasis on the “America First” doctrine and reshaping the global order, and both his supporters and critics have made clear that his second term will look nothing like the first. That means, Trump 2.0 will be even more volatile and disruptive than the first, with major changes in the US economic, trade, foreign and security policies with far-reaching implications for all countries. So, it is important and timely to ask what will be the impact of Trump 2.0 on Sri Lanka and plan how to respond to challenges and opportunities that would arise from those changes.
-
-...
-
-[Data](articles/01d3c2b0.json)
-
----
-
-### Sri Lanka’s lending rates for MSMEs still high: CB Chief
-
-*2025-01-08 13:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-lending-rates-for-msmes-still-high-cb-chief-198584/) · `en`
-
-ECONOMYNEXT – Lending rates for Sri Lanka’s Micro, Small and Medium Scale Enterprises (MSMEs) are still high despite lower market interest rates, the Central Bank Governor Nandalal Weerasinghe said.
-
-Announcing the policy agenda for 2025 and beyond he said the recovery in credit to the private sector has been supported by the noteworthy reduction in market lending interest rates.
-
-“However, the Central Bank observes some excessive, outlier rates of interest on facilities extended to Micro, Small and Medium Scale Enterprises (MSMEs) as well as marginal borrowers and certain credit products, which are not consistent with the prevailing relaxed monetary policy stance,” he said.
-
-“Moreover, risks associated with lending are on the decline while the credit appetite of banks and financial institutions is improving given the overall stability and recovery witnessed in the economy.”
-
-...
-
-[Data](articles/df608316.json)
-
----
-
-### Trump ramps up threats to gain control of Greenland and Panama Canal
-
-*2025-01-08 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104829/trump-ramps-up-threats-to-gain-control-of-greenland-and-panama-canal) · `en`
-
-President-elect Donald Trump is showing no sign of letting up in his desire for the US to acquire Greenland and the Panama Canal, calling both critical to American national security.
-
-Asked if he would rule out using military or economic force in order to take over the autonomous Danish territory or the Canal, he responded: “No, I can’t assure you on either of those two.
-
-“But I can say this, we need them for economic security,” he told reporters during a wide-ranging news conference at his Mar-a-Lago estate in Florida.
-
-Both Denmark and Panama have rejected any suggestion that they would give up territory.
-
-Trump also vowed to use “economic force” when asked if he would attempt to annex Canada and called their shared border an “artificially drawn line”.
-
-The boundary is the world’s longest between two countries and it was established in treaties dating back to the founding of the US in the late 1700s.
-
-...
-
-[Data](articles/83554500.json)
-
----
-
-### இன்றைய நாணயமாற்று விகிதம்
-
-*2025-01-08 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/203303) · `ta`
-
-இன்று புதன்கிழமை (08) இலங்கை மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.4663 ரூபா ஆகவும் விற்பனை விலை 300.5203  ரூபா ஆகவும் பதிவாகியுள்ளமைக் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/a1adadc5.json)
 
 ---

@@ -1,36 +1,178 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 15:28:19**
+As of **2025-01-09 16:03:41**
 
 ## Newspaper Stats
 
-*Scraped **64,535** Articles*
+*Scraped **64,558** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 647
-bbccomsinhala | 675
+bbccomsinhala | 676
 economynextcom | 3,933
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,180
-adaderanalk | 7,898
-tamilmirrorlk | 9,262
-virakesarilk | 10,777
-adaderanasinhalalk | 11,143
+adaderanalk | 7,905
+tamilmirrorlk | 9,263
+virakesarilk | 10,785
+adaderanasinhalalk | 11,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,535 articles have been extended.
+61,973 (96.0%) of 64,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### ஞானசாரருக்கு பிணை நிராகரிப்பு
+
+*2025-01-09 15:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசாரருக்கு-பிணை-நிராகரிப்பு/175-350047) · `ta`
+
+இஸ்லாத்தை அவமதித்ததாக குற்றம் சாட்டப்பட்டு ஒன்பது மாத சிறைத்தண்டனை விதிக்கப்பட்ட பொதுபல சேனா செயலாளர் கலகொடஅத்தே ஞானசார தேரரின் சிறைத்தண்டனையை எதிர்த்து தாக்கல் செய்யப்பட்ட மேல்முறையீட்டிற்கு பிணை வழங்க கொழும்பு மேலதிக நீதவான் பசன் அமரசேன வியாழக்கிழமை (09)  மறுத்துவிட்டார்.
+
+பிணை  வழங்க மறுத்த மேலதிக நீதவான், குற்றம் சாட்டப்பட்டவருக்கு பிணை வழங்க போதுமான காரணங்கள் இல்லை என்று கூறினார்.
+
+◼️
+
+[Data](articles/d0a851ee.json)
+
+---
+
+### ඥානසාර හිමිගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
+
+*2025-01-09 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205209) · `si`
+
+ඉස්ලාම් දහමට අපහාස කිරීම සම්බන්ධයෙන් වරදකරු වී මාස 9ක ලිහිල් සිර දඬුවම් නියම වී සිටින බොදු බල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් වෙනුවෙන් ඉදිරිපත් කෙරුණු ඇප ඉල්ලීම කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා අද (9) ප්‍රතික්ෂේප කළේය.
+
+එම දඬුවමට එරෙහිව උන්වහන්සේ අභියාචනයක් ඉදිරිපත් කර ඇති බැවින් අභියාචනා පෙත්සම විභාගකොට අවසන් තීන්දුවක් ප්‍රකාශයට පත් කරනතුරු, ඥානසාර හිමියන් ඇප මත මුදාහන ලෙස උන්වහන්සේගේ නීතිඥවරු විසින් මෙම ඇප ඉල්ලීම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/62f6e0bd.json)
+
+---
+
+### சுண்ணாம்புக்கல் அகழ்வில் சட்டவிரோத செயற்பாடுகள் யாவும் உடனடியாக முடிவுக்குக் கொண்டுவரப்பட வேண்டும் - பொ. ஐங்கரநேசன் கோரிக்கை!
+
+*2025-01-09 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/203402) · `ta`
+
+யாழ்ப்பாணக் குடாநாடு கடலாலும், கடல் நீரேரிகளாலும் சூழப்பட்ட ஒரு தீபகற்பம். பூமி வெப்பமடைவதன் விளைவாக ஏற்பட்டுவரும் கடல்மட்ட உயர்வு குடாநாட்டைப் பெருமளவு பாதிக்கும் என்று எதிர்வு கூறப்பட்டுள்ளது.
+
+இந்நிலையில், கட்டுப்பாடற்ற சட்டவிரோத சுண்ணாம்பு அகழ்வு காலநிலை மாற்றத்தால் ஏற்படவுள்ள பாதகங்களை மேலும் விரைவுபடுத்தும், அதிகப்படுத்தும். இவற்றைக் கருத்திற்கொண்டு விவசாய நடவடிக்கையைப் பாதிக்காத வகையில் சுண்ணாம்புக்கல் அகழ்வை நெறிப்படுத்துவதோடு, இதில் நிலவக்கூடிய சட்டவிரோதச் செயற்பாடுகள் அனைத்தும் உடனடியாக முடிவுக்குக் கொண்டுவரப்பட வேண்டும் என்று தமிழ்த்தேசியப் பசுமை இயக்கத்தின் தலைவர் பொ. ஐங்கரநேசன் கோரிக்கை விடுத்துள்ளார்.
+
+வடமாகாண ஆளுநரிடம் சட்டவிரோத சுண்ணக்கல் அகழ்வை முடிவுறுத்தக்கோரி பொ.ஐங்கரநேசன் வியாழக்கிழமை (09) மனுவொன்றைச் சமர்ப்பித்த பின்னர் நிகழ்த்திய ஊடகவியலாளர் சந்திப்பிலேயே இவ்வாறு தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f498304f.json)
+
+---
+
+### யாழில் விபத்து - ஒருவர் உயிரிழப்பு
+
+*2025-01-09 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203404) · `ta`
+
+யாழ்ப்பாணம் புன்னாலைக்கட்டுவன் பகுதியில் நேற்று புதன்கிழமை (08) இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+புத்தூரிலிருந்து சுன்னாகம் நோக்கி பயணித்துக் கொண்டிருந்த வாகனம் பலாலிலிருந்து ஏழாலை நோக்கி சென்ற மோட்டார் சைக்கிளுடன் மோதியதில் குறித்த விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+
+குறித்த விபத்து சம்பவத்தை நடாத்திய வாகன சாரதி தப்பிச் சென்றுள்ள நிலையில்,விபத்து சம்பவம் தொடர்பில் சுன்னாகம் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/533ba4de.json)
+
+---
+
+### அரிசி இறக்குமதிக்கான காலவகாசம் நாளையுடன் நிறைவு
+
+*2025-01-09 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/203405) · `ta`
+
+தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதிக்கு அனுமதி வழங்கப்பட்டிருந்த காலவகாசம் நாளையுடன் (10) நிறைவடையவுள்ளது.
+
+நாட்டில் நிலவும் அரிசி பற்றாக்குறையை நிவர்த்தி செய்வதற்காக, தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதி செய்ய கடந்த டிசம்பர் மாதம் 4 ஆம் திகதி முதல் 20 ஆம் திகதி வரை அனுமதி வழங்கியது. குறித்த காலப்பகுதியில் மாத்திரம் 67,000 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளனர்.
+
+அரிசிக்கான கேள்வியை கருத்திற் கொண்டு காலவகாசம் 10 ஆம் திகதி வரை நீட்டிக்கப்பட்டு, டிசம்பர் 24 ஆம் திகதி வர்த்தமானி அறிவித்தலை வெளியிடப்பட்டது.
+
+அதற்கமைய, தனியார் துறையினர் நேற்று புதன்கிழமை  (08) வரையான காலப்பகுதியில் மாத்திரம் 115,000 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளனர்.
+
+இந்நிலையில்,  கையிருப்பில் 45,000 மெற்றிக் தொன் சிவப்பு அரிசியும், 70,000 மெற்றிக் தொன் புழுங்கல் அரிசியும் உள்ளன.
+
+எவ்வாறாயினும், அரிசி இறக்குமதிக்கான அனுமதி மீண்டும் நீடிக்கப்படுமா என்பது தொடர்பில் அரசாங்கம் இதுவரையில் எவ்வித அறிப்பும் வெளியிடவில்லை.
+
+◼️
+
+[Data](articles/b46026d9.json)
+
+---
+
+### ලංකාවට එන ඔස්ට්‍රේලියානු සංචිතය නම් කෙරේ
+
+*2025-01-09 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205208) · `si`
+
+ශ්‍රී ලංකාවට එරෙහිව ඉදිරියේ දී පැවැත්වීමට නියමිත ටෙස්ට් තරගාවලියට තෝරාගත් ඔස්ට්‍රේලියානු සංචිතය අද (9) ප්‍රකාශයට පත් කළේය.
+
+ස්ටීවන් ස්මිත්ගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් මේ සඳහා නම්කර ඇත.
+
+ඔස්ට්‍රේලියානු නිත්‍ය නායක පැට් කමින්ස් මෙම තරගාවලියට ක්‍රීඩා නොකරන අතර, ඔහු සිය දෙවන දරුවාගේ උපත වෙනුවෙන් පීතෘ නිවාඩු මත ශ්‍රී ලංකා සංචාරයෙන් ඉවත්ව සිටියි.
+
+කෙසේ නමුත් මෙම සංචිතයට නව ක්‍රීඩකයන් කිහිප දෙනෙකුම කැඳවා තිබීම විශේෂත්වයක්ය.
+
+ඉන් කූපර් කොනොලි මේ දක්වා කිසිදු ටෙස්ට් තරගයක් ක්‍රීඩාකර නොමැත.
+
+එමෙන්ම නේතන් මැක්ස්වීනි, සෑම් කොන්ස්ටාස් , මැට් කුහ්නමන් සහ බියු වෙබ්ස්ටර් තිදෙනාම මේ දක්වා ටෙස්ට් තරග 3කට වඩා ක්‍රීඩාකර නොමැත‍.
+
+අයි. සී. සී. ටෙස්ට් ලෝක ශූරතාවලිය යටතේ පැවැත්වෙන ශ්‍රී ලංකා - ඔස්ට්‍රේලියා තරගාවලියේ පළමු තරගය මේ මස 29වැනිදා ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වේ.
+
+දෙවන හා අවසන් තරගය පෙබරවාරි 6වනදා ආරම්භ වන අතර, එම තරගය ද ගාල්ලේ දීම පැවැත්වේ.
+
+...
+
+[Data](articles/4b8126ff.json)
+
+---
+
+### அடுத்த ஆண்டு முதல் பாடசாலை கல்வித் தவணைகள் முறையாக நடைபெறும் - பிரதமர்
+
+*2025-01-09 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203401) · `ta`
+
+2026 ஆம் ஆண்டின் ஆரம்பத்தில் இருந்து வழமையான ஒழுங்கில் பரீட்சைகளை நடத்துவதற்கும் பாடசாலை தவணைகளை வழமை போன்று நடத்துவதற்கும் ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+நேற்று புதன்கிழமை (08) ஆம் திகதி பாராளுமன்ற அமர்வில் எழுப்பப்பட்ட கேள்வியொன்றுக்கு பதிலளிக்கும் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+
+2026 ஆம் ஆண்டு ஆரம்பத்தில் இருந்து இலங்கை பரீட்சை திணைக்களத்தினால் நடாத்தப்படும் பரீட்சைகள் திட்டம் முன்பு போல் வழமைக்கு திரும்பும் என்பதை சபைக்கு தெரிவித்துக் கொள்ள விரும்புகின்றேன்.
+
+2020 ஆம் ஆண்டு கோவிட் 19  தொற்றுநோய் நிலைமை, 2021 2022 இல் ஏற்பட்ட பொருளாதார நெருக்கடி, சமூக நெருக்கடி மற்றும் எரிபொருள் பற்றாக்குறை காரணமாக பாடசாலை தவணைக் காலங்கள் அந்தந்த தவணைகளைத் தாண்டிவிட்டிருந்த போதிலும், 2025 ஆம் கல்வியாண்டில், 181 நாட்கள் பாடத்திட்டத்தை பூரணப்படுத்துவதற்கு போதுமான கால அவகாசம் அளித்து, 2025 டிசம்பரில் பாடசாலை தவணையை முடிக்க திட்டமிடப்பட்டுள்ளது. இதன்படி, எதிர்காலத்தில் பாடசாலை காலத்தை வழமை போன்று பேண முடியும்.
+
+...
+
+[Data](articles/d6ff031c.json)
+
+---
+
+### Two new Court of Appeal Justices sworn in
+
+*2025-01-09 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104850/two-new-court-of-appeal-justices-sworn-in) · `en`
+
+Two newly appointed Court of Appeal Justices were formally sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (09), the President’s Media Division (PMD) said.
+
+Accordingly, the appointments were conferred upon Attorneys-at-Law Mr. K.M.S. Disanayake and Mr. R.P. Hettiarachchi, who took their oaths in the presence of the President.
+
+The Secretary to the President, Dr. Nandika Sanath Kumanayake, was also present at the occasion, the statement added.
+
+◼️
+
+[Data](articles/b50c26c9.json)
+
+---
 
 ### இந்திய இழுவைப் படகு அடாவடி; யாழ். மீனவரின் வலைகள் நாசம்
 
@@ -62,6 +204,36 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### வவுனியாவில் மரக்கடத்தல் முறியடிப்பு
+
+*2025-01-09 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/203392) · `ta`
+
+நேற்று புதன்கிழமை (08) மரக்காரம்பளை பகுதியில் சந்தேகத்திற்கு இடமாக மரங்களை ஏற்றிச்சென்ற ஜீப் ரக வாகனத்தை  நெளுக்குளம் பொலிஸ் நிலைய பொறுப்பதிகாரி திவுல்வெவ தலைமையிலான போக்குவரத்து பொலிஸார் சோதனை செய்த போது சுமார் இரண்டு இலட்சம் ரூபாய் மதிப்பிலான 72 மரங்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+அத்துடன் மரக்கடத்தலுக்கு பயன்படுத்திய ஜீப் ரக வாகனமும் பொலிஸாரால் பறிமுதல் செய்யப்பட்டதுடன், சாரதியையும் கைது செய்யப்பட்டுள்ளார்.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை நெளுக்குளம் பொலிஸாரால் மேற்கொள்ளப்படுவதுடன் இன்று வியாழக்கிழமை(09) குறித்த நபரை நீதிமன்றில் முற்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/06b2453f.json)
+
+---
+
+### කෝප් සභාපති නිශාන්ත සමරවීර
+
+*2025-01-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205206) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ හෙවත් කෝප් කමිටුවේ සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා  ඒකමතිකව ‍තේරී පත්වී තිබේ.
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව අද (09) පස්වරු 2ට පාර්ලිමේන්තුවේදී රැස්වී තිබුණි.
+
+◼️
+
+[Data](articles/f339064b.json)
+
+---
+
 ### Curtain rises on ‘Battle of the NVOCCs’
 
 *2025-01-09 14:24:00* · [`islandlk`](http://island.lk/curtain-rises-on-battle-of-the-nvoccs/) · `en`
@@ -73,6 +245,64 @@ This year’s tournament, a cornerstone in the maritime industry calendar, promi
 ...
 
 [Data](articles/c72da858.json)
+
+---
+
+### Police continue island-wide traffic operations under ‘Clean Sri Lanka’
+
+*2025-01-09 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104849/police-continue-island-wide-traffic-operations-under-clean-sri-lanka) · `en`
+
+Traffic operations launched by Sri Lanka Police in line with the ‘Clean Sri Lanka’ national initiative, are continuing further across the island.
+
+It has been observed that certain three-wheeler drivers are now removing the additional accessories they had previously attached to their vehicles.
+
+As part of the initiative, the police recently started removing unsafe modifications and accessories from buses, three-wheelers, and other vehicles in various locations, including Colombo and these operations will continue without causing disruption to passengers.
+
+Meanwhile, the Police Spokesman announced that a three-month grace period will be given to private bus owners to remove unnecessary additional accessories from buses, as discussed yesterday between the private bus owners’ unions and the Acting IGP.
+
+However, shop owners who sell vehicle parts used to decorate three-wheelers say that their sales have now dropped significantly.
+
+...
+
+[Data](articles/747f849a.json)
+
+---
+
+### இரண்டு புதிய மேன்முறையீட்டு நீதிமன்ற நீதியரசர்கள் சத்தியப்பிரமாணம்
+
+*2025-01-09 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/203391) · `ta`
+
+இரண்டு புதிய மேல்முறையீட்டு நீதிமன்ற நீதியரசர்கள் இன்று (09) காலை ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னிலையில் சத்தியப் பிரமாணம் செய்தனர்.
+
+அதன்படி, சட்டத்தரணி கே. எம். எஸ். திசாநாயக்க மற்றும் சட்டத்தரணி ஆர். பி. ஹெட்டியாராச்சி ஆகியோர் ஜனாதிபதி முன்னிலையில் சத்தியப் பிரமாணம் செய்து கொண்டனர்.
+
+இந்த நிகழ்வில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவும் கலந்து கொண்டார்.
+
+◼️
+
+[Data](articles/fb3b8cf2.json)
+
+---
+
+### Rice imports deadline to end tomorrow
+
+*2025-01-09 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104848/rice-imports-deadline-to-end-tomorrow) · `en`
+
+The deadline of the period where permission was granted for the import of rice by the private sector is scheduled to end tomorrow (10).
+
+To address the rice shortage in the country, the government granted permission for private-sector rice importers to import rice stocks between December 4 and 20, during which 67,000 metric tonnes of rice were imported.
+
+Following a recent Cabinet meeting, the deadline for rice imports was extended until January 10, 2025, with the relevant Gazette notification issued on December 24.
+
+Accordingly, it was reported that the total quantity of rice imported and cleared through Sri Lanka Customs as of 12 noon yesterday (08) had exceeded 115,000 metric tonnes.
+
+This stock includes 45,000 MT of red raw rice and 70,000 MT of parboiled rice.
+
+However, the government has not yet made any statement as to whether the permission to import rice will be extended again.
+
+◼️
+
+[Data](articles/3b5da41a.json)
 
 ---
 
@@ -103,6 +333,26 @@ In 2024, China was the fifth largest generation market with 131,681 tourists.
 ◼️
 
 [Data](articles/3d0c35af.json)
+
+---
+
+### 2025 Appropriation Bill: Breakdown of govt expenditure by ministry
+
+*2025-01-09 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104847/2025-appropriation-bill-breakdown-of-govt-expenditure-by-ministry) · `en`
+
+The Appropriation Bill for the 2025 financial year was presented to Parliament today (09), outlining the government’s proposed expenditure for the year from January 1, 2025 to December 31, 2025.
+
+The total estimated government expenditure for the period from January 1 to December 31, 2025, has been set at Rs. 4,616 billion.
+
+Details of the total expenditure by ministry are as follows:
+
+Meanwhile, the following expenses have been allocated under the Special Spending Unit.
+
+Appropriation Bill (E) 20250102 Eng by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/40f1205f.json)
 
 ---
 
@@ -142,6 +392,42 @@ In 2024, China was the fifth largest generation market with 131,681 tourists.
 
 ---
 
+### අභියාචනාධිකරණ නව විනිසුරුවරුන් දෙදෙනෙක් දිවුරුම් දෙති
+
+*2025-01-09 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205205) · `si`
+
+අභියාචනාධිකරණ නව විනිසුරුවරුන් දෙදෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ ජනාධිපති කාර්යාලයේදී අද (09) පෙරවරුවේ දිවුරුම් දුන්හ.
+
+ඒ අනුව නීතිඥ කේ. එම්. එස්. දිසානායක සහ නීතිඥ ආර්. පී. හෙට්ටිආරච්චි යන මහත්වරුන්  ජනාධිපතිවරයා ඉදිරියේ  දිවුරුම් දෙනු ලැබීය.
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාද  මෙම අවස්ථාවට එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/87c28891.json)
+
+---
+
+### Clean Sri Lanka රථවාහන මෙහෙයුම් තවදුරටත්
+
+*2025-01-09 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205204) · `si`
+
+Clean Sri Lanka වැඩසටහනට සමගාමීව පොලීසිය දියත් කරන රථවාහන මෙහෙයුම් තවදුරටත් දිවයින පුරා ක්‍රියාත්මකව පවතී.
+
+මේ වනවිට ඇතැම් ත්‍රිරෝද රථ රියදුරන් සිය රථවලට එක්කර ඇති අනවශ්‍ය අමතර කොටස් ඉවත් කිරීමද සිදුකරන ආකාරය දක්නට ලැබේ.
+
+Clean Sri Lanka වැඩසටහනට සමගාමීව පොලීසිය කොළඹ ඇතුළු දිවයිනේ ප්‍රදේශ රැසක බස් රථ, ත්‍රිරෝද රථ ඇතුළු රථවාහනවල අනාරක්ෂිත අයුරින් සවිකර ඇති උපාංග ඉවත් කිරීම පසුගියදා ආරම්භ කළ අතර, එම මෙහෙයුම් මගීන් අපහසුතාවයට පත්නොවන අයුරින් තවදුරටත් ක්‍රියාත්මක වේ.
+
+කෙසේ වෙතත්, වැඩබලන පොලිස්පතිවරයා සමග පෞද්ගලික බස් සංගම් ඊයේ (08) පැවති සාකච්ඡාවකින් අනතුරුව මගී ප්‍රවාහන රථවල අනවශ්‍ය අමතර කොටස් ඉවත්කිරීම සඳහා මාස 3 ක සහන කාලයක් ලබාදීමට වැඩබලන පොලිස්පතිවරයා එකඟත්වය පළ කළේය. ‍ෙ
+
+කෙසේ වෙතත්, ත්‍රිරෝද රථවලට අලංකරණය සඳහා යොදන අමතර උපාංග අලෙවිකරන වෙළෙඳසැල් හිමියන් පවසන්නේ මේ වනවිට තමන්ගේ අලෙවිය කඩා වැටී ඇති බවය.
+
+...
+
+[Data](articles/75145dae.json)
+
+---
+
 ### நாட்டில் HMPV தொற்றுகள் பதிவாகவில்லை-அமைச்சர் உறுதி
 
 *2025-01-09 13:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-HMPV-தொற்றுகள்-பதிவாகவில்லை-அமைச்சர்-உறுதி/175-350039) · `ta`
@@ -157,6 +443,44 @@ In 2024, China was the fifth largest generation market with 131,681 tourists.
 ...
 
 [Data](articles/22be1278.json)
+
+---
+
+### No objection from IMF for public sector salary hike - Deputy Minister
+
+*2025-01-09 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104846/no-objection-from-imf-for-public-sector-salary-hike-deputy-minister) · `en`
+
+Deputy Minister of Labour Mahinda Jayasinghe stated that a considerable salary increase for public sector employees is scheduled to be carried out in the upcoming budget.
+
+He made this statement in response to a question raised by MP Ravi Karunanayake in Parliament today (09).
+
+The Deputy Minister also revealed that the International Monetary Fund (IMF) has no objections to increasing the salaries of public sector employees.
+
+Deputy Minister Mahinda Jayasinghe further commented, “We didn’t say Rs. 25,000. Let’s see about the exact number. Don’t panic. Open and see what’s inside the bag, don’t poke it and see. Ranil Wickremesinghe made a Cabinet decision before the postal vote on September 4, targeting the votes of public sector employees in this country. But the public employees gave a good response. It was something presented to deceive public employees, not the reality.”
+
+◼️
+
+[Data](articles/73ac576e.json)
+
+---
+
+### பிடித்துவைத்தல் வரியை அதிகரித்து அரசாங்கம் மக்களின் வயிற்றில் அடிக்கிறது - கீதநாத் குற்றச்சாட்டு
+
+*2025-01-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/203385) · `ta`
+
+வங்கி சேமிப்பு மற்றும் நிலையான வைப்பு மூலம் வாழ்க்கை நடத்தும் நடுத்தர மக்களின் வயிற்றில் அடிக்கும் அரசியலை தேசிய மக்கள் சக்தி அரசாங்கம் மேற்கொள்வதாக சிறீ லங்கா பொதுஜன பெரமுன கட்சியின் யாழ் மாவட்ட பிரதான அமைப்பாளர் கீதநாத் காசிலிங்கம் குற்றம் சுமத்தியுள்ளார்.
+
+ஐந்து வீதமாக இருந்த withholding tax 10 வீதமாக உயர்த்தப்பட்டமை குறித்து அவர் வெளியிட்டுள்ள அறிக்கையிலேயே இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+குறித்த அறிக்கையில். ‘தேசிய மக்கள் சக்தி அரசாங்கம் “பிடித்துவைத்தல் வரியை” ( withholding tax ) 5% இல் இருந்து 10% ஆக அதிகரித்துள்ளமை ரணிலின் அரசை விட மோசமான மக்களின் வயிற்றில் அடிக்கும் ஒரு செயலாகும்.
+
+முன்னரை விட வரிச்சுமையை ஏற்றி, விடிவுக்காய் மாற்றுத்துக்காய் காத்திருந்த மக்களுக்கு வாழவிடாமல் செய்கிறதா இந்த அரசு?
+
+ரணில் விக்ரமசிங்க ஆட்சியில் பிடித்துவைத்தல் வரி 5% இருந்த போது ஆர்ப்பாட்டம் நடத்திய தேசிய மக்கள் சக்தி, இன்று ஆட்சிக்கு வந்து 10% மாக உயர்த்தியது ஒரு பச்சை நம்பிக்கை துரோகம்.
+
+...
+
+[Data](articles/ab11aed1.json)
 
 ---
 
@@ -182,6 +506,22 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 
 ---
 
+### 2025 ආණ්ඩුවේ වියදම් මෙන්න
+
+*2025-01-09 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205203) · `si`
+
+2025 වර්ෂය සඳහා වන විසර්ජන පනත් කෙටුම්පත අද (09) පාර්ලිමේන්තුවට ඉදිරිපත් කෙරුණි.
+
+ඒ අනුව මේ වසරේ ජනවාරි මස 1 වනදා සිට දෙසැම්බර් මස 31 වනදා දක්වා වු කාලසීමාව සඳහා ආණ්ඩුවේ වියදම් ලෙස රු බි 4,616ක් ලෙස ඇස්තමේන්තු ගත කර තිබේ.
+
+ඒ අනුව 2025 වසරේ අමාත්‍යාංශ සඳහා සිදුකර ඇති මුදල් වෙන්කිරීම් වලින් වැඩිම මුදලක් වෙන්කර ඇත්තේ මුදල් සහ ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය වෙතය. එය රුපියල් බිලියන 713කි.
+
+◼️
+
+[Data](articles/df025840.json)
+
+---
+
 ### உலக பத்திரிகை புகைப்பட  கண்காட்சி நாளை ஆரம்பமாகிறது
 
 *2025-01-09 12:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பத்திரிகை-புகைப்பட-கண்காட்சி-நாளை-ஆரம்பமாகிறது/175-350036) · `ta`
@@ -199,6 +539,30 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 ...
 
 [Data](articles/7fcfbba0.json)
+
+---
+
+### பேரழிவு மற்றும் திகிலூட்டும் இரவுகள் ; லொஸ் ஏஞ்சல்ஸ் காட்டு தீ
+
+*2025-01-09 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203378) · `ta`
+
+லொஸ் ஏஞ்சல்ஸின் பல பகுதிகளில் வேகமாக பரவிவரும் காட்டுதீ காரணமாக ஐந்து பேர் உயிரிழந்துள்ளனர்.
+
+காட்டுதீயில் சிக்குண்டு 1500க்கும் மேற்பட்ட கட்டிடங்கள் இந்த பகுதியில் முற்றாக எரிந்து சாம்பலாகியுள்ளன.
+
+காற்றின் வேகம் குறைவடைந்துள்ளதால் தீயணைப்பு படையினர் நிம்மதியடைந்துள்ள போதிலும் ஆபத்து இன்னமும் முடிவிற்கு வரவில்லை.
+
+ஹொலிவூட் ஹில்ஸ் பகுதியில் புதிதாக காட்டுதீ மூண்டுள்ளதாக  தெரிவித்துள்ள அதிகாரிகள் லொஸ் ஏஞ்சல்ஸின் சன்டா மொனிகாவில் வசிக்கும் மக்களையும் அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டுள்ளனர்.
+
+பசுபிக் கரை  முதல் பசெடானா வரையில் உள்ள பகுதிகளை சேர்ந்த மக்களே பாதுகாப்பாக வெளியேற்றப்பட்டுள்ளனர்.
+
+நாங்கள் இன்னமும் ஆபத்தான நிலையிலிருந்து விடுபடவில்லை என லொஸ் ஏஞ்சல்ஸின் தீயணைப்பு பிரிவின் தலைவர் கிறிஸ்டின் எம் குரோலி தெரிவித்துள்ளார்.
+
+ஒரு சக்திவாய்ந்த காற்று புயல் இயற்கை எழில் கொஞ்சும் பசுபிக்கின் பாலிசோட்ஸ் சுற்றுப்புறத்தில் தீப்பிழப்புகளை மூண்டெழச்செய்த போது ஆயிரக்கணக்காணவர்கள் அங்கிருந்து தப்பி விரைவாக வெளியேறவேண்டிய நிலை உருவானது.
+
+...
+
+[Data](articles/18de2b8d.json)
 
 ---
 
@@ -378,6 +742,26 @@ Hambantota International Port recently bought new cranes to boost is container h
 
 ---
 
+### 2025 Appropriation Bill presented to Parliament
+
+*2025-01-09 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104845/2025-appropriation-bill-presented-to-parliament) · `en`
+
+The Appropriation Bill to allocate funds for the government expenditure in 2025 financial year has been presented to the Parliament by Prime Minister Dr. Harini Amarasuriya.
+
+Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on February 17 and the second reading debate is scheduled to be held for 7 days from February 18 to 25.
+
+Thereafter, the vote on the second reading of the bill is scheduled to be held on February 25 at 6.00 p.m.
+
+The Committee Stage Debate on the Appropriation Bill is scheduled to be held for 19 days, including 4 Saturdays, from February 27 to March 21. It has also been decided to hold the vote on third Reading of the Appropriation Bill on March 21 at 6.00 p.m.
+
+During the budget debate period, the time from 9.30 a.m. to 10.00 a.m. has been allotted for 5 questions for oral answers, and the budget debate will be held from 10.00 a.m. to 6.00 p.m.
+
+...
+
+[Data](articles/b767078c.json)
+
+---
+
 ### චීන වෛරසය ගැන සෞඛ්‍ය ඇමතිගෙන් පැහැදිලි කිරීමක්
 
 *2025-01-09 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205202) · `si`
@@ -407,6 +791,22 @@ Hambantota International Port recently bought new cranes to boost is container h
 ◼️
 
 [Data](articles/dd03f095.json)
+
+---
+
+### Gnanasara Thero sentenced to 9 months in prison
+
+*2025-01-09 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104844/gnanasara-thero-sentenced-to-9-months-in-prison) · `en`
+
+The Colombo Magistrate’s Court has sentenced the General Secretary of the Bodu Bala Sena (BBS) organization, Ven. Galagoda Aththe Gnanasara Thero, to 09 months imprisonment over his defamatory statement on the religion of Islam.
+
+Announcing the verdict, the Colombo Additional Magistrate Pasan Amarasena also ordered the imposition of a fine of Rs. 1,500 on the defendent.
+
+Police had filed this case against Ven. Galagoda Aththe Gnanasara Thero under Section 291 of the Penal Code, alleging that he acted in a manner that violated ethnic harmony by stating, “Islam is a cancer... it must be eradicated” during a press conference held in the Kirulapone area on July 16, 2016.
+
+◼️
+
+[Data](articles/c40ac0cd.json)
 
 ---
 
@@ -765,6 +1165,28 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 ...
 
 [Data](articles/cfca7ecd.json)
+
+---
+
+### ශ්‍රී ලංකාව රෝහින්ග්‍යා සංක්‍රමණිකයින්ගේ ගමනාන්තයක් වෙයි ද?
+
+*2025-01-09 09:33:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8rjr187k5mo) · `si`
+
+මියන්මාරයේ රෝහින්ග්‍යා සංක්‍රමණිකයින් 115 දෙනෙකු රැගත් යාත්‍රාවක් මුලතිව් මුහුදු තීරයට පැමිණීම අහම්බයක් හෝ මුහුදේ අතරමං වීමෙන් සිදුවූවක් නොවන බවට තොරතුරු හෙළිවෙමින් තිබේ.
+
+මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජයපාල කියා සිටියේ, ඉදිරි දිනවලදී රෝහින්ග්‍යා සංක්‍රමණිකයින් ලක්ෂයක් මෙරටට පැමිණිය හැකි බවට තොරතුරු ලැබී ඇති බව ය.
+
+එම අනවසර සංක්‍රමණිකයින් පැමිණීම සම්බන්ධයෙන් බුද්ධි අංශ වාර්තා කර ඇති බව මහජන ආරක්ෂක අමාත්‍යවරයා බීබීසී සිංහල වෙත සඳහන් කළේ ය.
+
+මුලතිව්, මුල්ලිවයික්කාල් වෙරළ තීරයට ඉකුත් දෙසැම්බර් 19 වන දා රෝහින්ග්‍යා සංක්‍රමණිකයින් 115 දෙනෙකු රැගත් මෙම බෝට්ටුවක් පැමිණ තිබිණි.
+
+නාවික හමුදාව අදාළ බෝට්ටුව ත්‍රිකුණාමලය වෙත රැගෙන යාමෙන් අනතුරුව අධිකරණ නියෝග යටතේ පුද්ගලයින් 103 දෙනෙක් දෙසැම්බර් 23 වන දා මුලතිව් ගුවන් හමුදා කඳවුරේ රැඳවුම් මධ්‍යස්ථානය වෙත යොමු කරනු ලැබූහ.
+
+රෝහින්ග්‍යා සංක්‍රමණිකයින් රැගත් මෙම යාත්‍රාවේ දරුවන් 45 දෙනෙක්, කාන්තාවන් 24 දෙනෙක් හා පිරිමි පුද්ගලයින් 46 දෙනෙක් සිටියහ.
+
+...
+
+[Data](articles/63dc1a4c.json)
 
 ---
 
@@ -1409,389 +1831,5 @@ Surge in Chronic Obstructive Pulmonary Diseases affecting around 10-15% of popul
 ...
 
 [Data](articles/6b872587.json)
-
----
-
-### The Recruitment Of Land For Housing For The Plantation Community In Sri Lanka
-
-*2025-01-09 05:37:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-recruitment-of-land-for-housing-for-the-plantation-community-in-sri-lanka/) · `en`
-
-There are disagreements over the amount of land and housing that plantation workers need to live on, but this needs to be agreed upon. It is also believed that there won’t be enough land to operate the plantation industry if workers are given houses and land. We really want those who have this opinion to think about the following.
-
-...
-
-[Data](articles/38829a9e.json)
-
----
-
-### The Requirement Of Land For Housing For The Plantation Community In Sri Lanka
-
-*2025-01-09 05:37:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-requirement-of-land-for-housing-for-the-plantation-community-in-sri-lanka/) · `en`
-
-There are disagreements over the amount of land and housing that plantation workers need to live on, but this needs to be agreed upon. It is also believed that there won’t be enough land to operate the plantation industry if workers are given houses and land. We really want those who have this opinion to think about the following.
-
-...
-
-[Data](articles/bdae3bf3.json)
-
----
-
-### Modi’s Fragile Balancing Act: India’s Democratic Erosion & Its Geopolitical Dilemma
-
-*2025-01-09 05:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-fragile-balancing-act-indias-democratic-erosion-its-geopolitical-dilemma/) · `en`
-
-A shadow of discord crept to form a year ago between the United States and India, ignited by whispers of an assassination plot in New York. The accusations, though improbable, revealed underlying tensions between two purported allies. Not long after, Gautam Adani, a billionaire industrialist and confidant of Indian Prime Minister Narendra Modi, found himself ensnared in controversy. Accused of orchestrating $250 million in bribes to secure energy contracts, Adani’s empire—once touted as a cornerstone of India’s economic rise—faced an unrelenting reckoning.
-
-What followed was a predictable symphony of denial. The Bharatiya Janata Party (BJP) lashed out, accusing Washington’s “deep state” of plotting to destabilize India. Baseless claims filled the air, portraying not defiance but fragility. Modi, once celebrated as a master of geopolitical navigation, now appeared increasingly insulated by propaganda, drifting further from democratic principles he once professed to champion.
-
-...
-
-[Data](articles/4b75d71f.json)
-
----
-
-### அநுர அரசாங்கத்திலும் காணி அபகரிப்பா, கொந்தளிக்கும் திருமலை மக்கள்
-
-*2025-01-09 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/203358) · `ta`
-
-கடந்த கால அரசாங்கங்கள் ஆட்சியாளர்களாக இருந்தது தொடக்கம் இற்றை வரை மக்களின் தனியார்கள் நிலங்கள் அபகரிக்கப்பட்டு வருகிறது.
-
-குறிப்பாக வடகிழக்கில் சிறுபான்மை சமூகங்களின் விவசாய , குடியிருப்பு காணிகள் கபளீகரம் செய்யப்படுகிறது இதனடிப்படையில் திருகோணமலை மாவட்டத்தில் உள்ள குச்சவெளி பிரதேச செயலாளர் பிரிவு, திருகோணமலை பட்டினமும் சூழலும் பிரதேச செயலாளர் பிரிவில் நில ஆக்கிரமிப்பு தொடர்வதால் மக்கள் கொந்தளிக்கும் நிலை தற்போது ஏற்பட்டுள்ளது.
-
-தற்போதைய தேசிய மக்கள் சக்தி அரசாங்கள் நாட்டை பொறுப்பேற்றதன் பின்பும் கூட தீர்வு இல்லாமல் காணப்படுகிறது. திருகோணமலை மாவட்டத்தில் உள்ள திரியாய், முத்து நகர், சம்பூர் உள்ளிட்ட தனியார் விவசாய மற்றும் குடியிருப்பு காணிகளை தொல் பொருள் திணைக்களம், வனஜீவராசிகள் திணைக்களம்,இலங்கை துறை முக அதிகார சபை  உள்ளிட்ட பல அரச திணைக்களங்கள் பௌத்த பிக்குகள் போன்றோர் அபிவிருத்தி என்ற போர்வையிலும் புனித பூமி என்ற போர்வையிலும் அடாத்தாக நிலங்களை அபகரித்துள்ளனர்.
-
-...
-
-[Data](articles/8537547e.json)
-
----
-
-### ஊழல், மோசடி, நிதி முறைகேடுகள் தொடர்பான விசாரணைகளின் பிரதிபலன்களை நாட்டு மக்கள் ஒரு மாத காலத்தில் அறிந்து கொள்ள முடியும் - அமைச்சர் ஆனந்த விஜேபால
-
-*2025-01-09 04:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/203357) · `ta`
-
-ஊழல், மோசடி, இலஞ்சம் மற்றும் நிதி முறைகேடுகள் தொடர்பான அனைத்து விசாரணைகளும் சுயாதீனமாக தடையின்றி முன்னெடுக்கப்பட்டு வருகின்றன. ஒரு மாத காலத்தில் அதன் பிரதிபலன்களை நாட்டு மக்கள் அறிந்து கொள்ள முடியும் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (8) இடம்பெற்ற இறக்குமதி மற்றும் ஏற்றுமதிக் கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள், கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்குவிதிகள் உள்ளிட்ட பல ஒழுங்குவிதிகள்  மீதான விவாதத்தில்  உரையாற்றிய ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார குறிப்பிட்ட சில விடயங்களுக்கு பதிலளிக்கும் வகையிலேயே  இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/89c00cbc.json)
-
----
-
-### Sri Lanka power sector reforms: Way forward
-
-*2025-01-09 04:28:15* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-power-sector-reforms-Way-forward/4-771592) · `en`
-
-Although the underlying issues for high electricity prices are multi-faceted, the main contributing factor is the dependency on imported fossil fuel sources such as oil and coal for about 50% of electricity generation
-
-The Sri Lanka Electricity Act aims to position the power sector in Sri Lanka to benefit from the advances in renewable energy and other enabling technologies and to eliminate the dependency on imported fossil fuel sources and improve the operating efficiency of sector entities through greater transparency and accountability. This would enhance energy independence and energy security by increasing the share of renewable energy in the energy mix and phase out the fossil fuel-based electricity over the next 10 years, while ensuring the availability of electricity at an affordable price to the consumers
-
-...
-
-[Data](articles/c6ad6428.json)
-
-[Extended Data](ext_articles/c6ad6428.ext.json)
-
----
-
-### சீனாவிலிருந்து மீண்டும் வைரஸ் பரவுகிறது எவ்வித உண்மையும் இல்லை; இன்புளுவென்சா வைரஸ் காய்ச்சலுக்கான தடுப்பூசிகளை பெறுவது பாதுகாப்பானது - வைத்திய நிபுணர் ஆனந்த விஜேவிக்கிரம
-
-*2025-01-09 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/203356) · `ta`
-
-சீனாவில் எச்.எம்.பி.வி என்ற மனித மெட்டாப்நியூமோ வைரஸ்”  வைரஸ் தொற்றால் பலர் பாதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படும் தகவலில் எவ்வித உண்மையும் இல்லை. சீனா மாத்திரமல்ல இலங்கை உட்பட உலகில் உள்ள பல நாடுகளிலும் இன்புளுவென்சா வைரஸ் தொற்று வேகமாக பரவி வருகிறது. ஆகையால் இன்புளுவென்சா வைரஸ் காய்ச்சலுக்கான தடுப்பூசிகளை பெறுவது பாதுகாப்பானது என இலங்கை மருத்துவ சங்கத்தின் முன்னாள் தலைவர் விசேட வைத்திய நிபுணர் ஆனந்த விஜேவிக்கிரம தெரிவித்தார்.
-
-சீனாவில் பரவி வரும் வைரஸ் தொற்றுக் குறித்து புதன்கிழமை (8) இலங்கை மருத்துவ சங்கத்தில் இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-சமீபகாலமாக சீனாவில் பரவிவரும் எச்.எம்.பி.வி வைரஸ் தொற்று காரணமாக, இலங்கை உட்பட பல உலக நாடுகள் மீண்டும் ஒரு பெருந்தொற்று ஏற்பட்டுள்ளதாக வீண் அச்சமடைந்துள்ளனர். சமூக வலைத்தளங்களில் பகிரப்படும் காணொளிகள் மற்றும் தகவல்கள் மக்களை இவ்வாறு பீதியில் ஆழ்த்தியுள்ளது.
-
-...
-
-[Data](articles/4434f13e.json)
-
----
-
-### Construction industry to Government: New set of proposals for year 2025
-
-*2025-01-09 04:18:43* · [`dailyftlk`](https://www.ft.lk/opinion/Construction-industry-to-Government-New-set-of-proposals-for-year-2025/14-771591) · `en`
-
-Allocate at least 40% of foreign-funded Government projects to local contractors
-
-Sri Lanka’s construction industry, which is the fourth largest industry sector in the country’s economy, with a global value of $ 10 billion and contributing 6-7% to the country’s GDP over the past decade, has submitted a new set of proposals to the Government for implementation by 2025.
-
-The press release issued by Ceylon Institute of Builders (CIOB) President Dr. Rohan Karunaratne on behalf of the Sri Lankan construction industry further states:
-
-Restarting of halted projects: Prioritise completing partially constructed projects that are of national importance, contribute to Sri Lanka’s economic growth, and mitigate potential security or health risks posed by the hazardous nature of unfinished structures to occupants or the general public.
-
-...
-
-[Data](articles/d1155bf4.json)
-
----
-
-### Regional cooperation is a marathon, not a sprint: Highlights from 2024
-
-*2025-01-09 04:15:34* · [`dailyftlk`](https://www.ft.lk/columns/Regional-cooperation-is-a-marathon-not-a-sprint-Highlights-from-2024/4-771590) · `en`
-
-Women construction workers, who are a part of the construction and maintenance of Western regional corridors in Bangladesh – Photo: World Bank
-
-2024 was the year of elections and political change across South Asia. From political upheaval in Bangladesh to general elections across five countries in the region, domestic issues made headlines. Amidst this, regional cooperation moved ahead with a slower pace in some areas, and in others, it continued with strong strides.
-
-Regional connectivity and cooperation in South Asia is like running a marathon—sometimes you run fast, sometimes you walk, and if need be, you even pause, but then keep moving. As we work closely with our clients and partners on solutions that deliver benefit at scale, we also recognise that the impact and results can sometimes be slow to mature.
-
-...
-
-[Data](articles/1e799d3a.json)
-
----
-
-### Make Sri Lanka great again: Reimagining country’s future
-
-*2025-01-09 04:11:49* · [`dailyftlk`](https://www.ft.lk/columns/Make-Sri-Lanka-great-again-Reimagining-country-s-future/4-771589) · `en`
-
-Sri Lanka’s economic recovery hinges on a commitment to comprehensive and sustained reforms
-
-Targeted social safety nets will ensure inclusivity, while policies promoting innovation and sustainability will drive long-term growth. Sri Lanka’s transformation into a resilient and inclusive economy is not just a necessity but an achievable vision. With unified efforts from the Government, private sector, and international partners, the nation can emerge as a model for sustainable growth, rebuild public trust, and improve the quality of life for its citizens
-
-...
-
-[Data](articles/a393e312.json)
-
----
-
-### Auroravia Inside Kanchana Amilani’s Head (And What’s Eating Her Up?)
-
-*2025-01-09 03:53:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/auroravia-inside-kanchana-amilanis-head-and-whats-eating-her-up/) · `en`
-
-The landscape of Sinhala literature is vast in scope, rich in depth, and crowded with contributors. Many essays have been written about the authors of short stories, novels, and poems who have expanded their horizons and delved deeply into subjects that captured their interest.
-
-However, the written word that dares to explore vivid imaginations and push boundaries remains a rarity—though, paradoxically, it feels an oxymoron to suggest that imagination can ever have limits. When you see such work, then it is nearly impossible not to say something about that. The work of Kanchana Amilani is something that perfectly fits the bill.
-
-...
-
-[Data](articles/1d8d5440.json)
-
----
-
-### Sri Lanka’s economic turmoil in ‘70s: Reflections and realities through Aththa newspaper
-
-*2025-01-09 01:50:25* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-economic-turmoil-in-70s-Reflections-and-realities-through-Aththa-newspaper/14-771587) · `en`
-
-In the early 1970s, Sri Lanka found itself grappling with multiple internal and external economic factors that would culminate in an economic crisis during the Sirimavo Bandaranaike Government. Back then, daily newspapers were the main source of information available to the public, and notable among these was the Aththa (Truth) newspaper, a Sinhala-language daily published by the Communist Party of Sri Lanka (CPSL).
-
-Sirimavo’s United Front (UF) alliance won an overwhelming majority in the 1970 General Election, defeating Dudley Senanayaka’s United National Party (UNP). The UF had ministers from several leftist parties including the CPSL. Pieter Keuneman and B.Y. Tudawe both held ministerial positions in the coalition Government.
-
-...
-
-[Data](articles/b5f55cf2.json)
-
----
-
-### අදත් උදෑසන අහුංගල්ලේ වෙඩි තැබීමක්: රට පුරා පත්තු වෙන වෙඩි නවත්වන්න අලුත් ආණ්ඩුවට හැකි වෙයි ද?
-
-*2025-01-09 01:30:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gpngemdg4o) · `si`
-
-අදත් උදෑසන අහුංගල්ලේ වෙඩි තැබීමක්: රට පුරා පත්තු වෙන වෙඩි නවත්වන්න අලුත් ආණ්ඩුවට හැකි වෙයි ද?
-
-දිනෙන් දින රට පුරා සිදුවන වෙඩි තැබීම්වල අඩුවක් නොමැති බව පැහැදිලි කරමින්, අද දින (ජනවාරි 09) උදෑසන ද අහුන්ගල්ලේ දී සිදු වූ වෙඩි තැබීමක් සිදුවිය.
-
-නව රජයක්, අලුතින් මහජන ආරක්ෂාව භාර ඇමැතිවරු ඇතුළුව ආරක්ෂාව භාර ප්‍රධානීන්ගේ වෙනස්කම් සිදුවුව ද රටේ තැන තැන වෙඩි තැබිම් යළි හිස ඔසවන බව පෙනෙන්නට තිබේ.
-
-බියක්, සැකක් නොමැතිව අපරාධකරුවන් තම ආයුධ හසුරුවමින් දිනෙන් දින නිදහසේ තම ඉලක්ක හඹා යෑම වත්මන් පාලනය යටතේත් ආරම්භ වී ඇති බව අපරාධ පිළිබඳ වාර්තා පිරික්සීමේදී පැහැදිලි වේ.
-
-වත්මන් රජය 'රට ගොඩනැංවීමට ගන්නා වැඩ පිළිවෙළේදී' රටේ සිදුවන අපරාධ හා ඝාතන පාලනය කිරිම අත්හළ නොහැකි සාධකයක් වන අතර, එහිදී රට පුරා සිදුවන වෙඩි තැබිම් සම්බන්ධව ගන්නා පියවර පිළිබඳව බීබීසි සිංහල සේවය විමසා බැලීය.
-
-අලුත් ආණ්ඩුවේ පත්වීමෙන් පසු ගෙවුණු කාලය තුළ වෙඩි තැබිම් කීයක් සිදුවෙලා ද?
-
-ජනාධිපතිවරණය පැවති 2024 සැප්තැම්බර් 21 වන දා සිට 2025 ජනවාරි 07 වන දා දක්වා රට පුරා වෙඩි තැබිමේ සිදුවීම් 34ක් වාර්තා වී ඇතැයි පොලිසිය පවසයි.
-
-...
-
-[Data](articles/9e16991f.json)
-
----
-
-### System closure, Anura’s foundation, devolution’s downfall, Namal’s challenges
-
-*2025-01-09 00:43:46* · [`dailyftlk`](https://www.ft.lk/columns/System-closure-Anura-s-foundation-devolution-s-downfall-Namal-s-challenges/4-771585) · `en`
-
-“…Similarly, Ambassadors and Heads of Missions residing in Colombo, as well as visiting delegations, are required to consult the Foreign Affairs Ministry for guidance on appropriate meeting levels with the President, Prime Minister, or other Ministers.” (https://www.ft.lk/front-page/Govt-issues-new-directives-to-strengthen-foreign-relations/44-771512)
-
-So, ‘System change’ begins. The creeping closure of and by the System.
-
-The Vice-Chancellor of Peradeniya University issues a fatwah against the holding of a seminar by a students’ association on the IMF program.
-
-Dr Nalinda Jayatissa, Health Minister, frowns on private donations to hospitals and asserts that everything must come under a ‘national health plan’.
-
-The Secretary to the President issues an unprecedentedly haughty 11-page edict, regulating/restricting the interface of the diplomatic and donor community including UN agencies with national leaders, local authorities and institutions-- with a Ministerial division playing Cerberus.
-
-...
-
-[Data](articles/7523e92d.json)
-
----
-
-### From JVP to NPP: Through the eyes of a former military officer
-
-*2025-01-09 00:41:41* · [`dailyftlk`](https://www.ft.lk/columns/From-JVP-to-NPP-Through-the-eyes-of-a-former-military-officer/4-771584) · `en`
-
-The insurrection of ‘71 as well as ‘88/’89 always had underlying reasons of inequality, injustice, marginalisation, and deprivation, exacerbated when dissent was met with suppression and further oppression
-
-It is also true that the JVP reacted to the suppression and carried out many acts of violence on their own, from brutal killings to damage of public property and many other vicious attacks on those who did not acquiesce to their demands. It is creditable that the JVP has since then openly accepted and unreservedly apologised for their violent excesses pledging to follow democratic means eschewing violence. They have admirably honoured the pledge showing great patience and resilience despite many provocations
-
-...
-
-[Data](articles/73f4a295.json)
-
----
-
-### 2025-01-08 (Wednesday)
-
-### கிளிநொச்சி பேரூந்து நிலையத்திலிருந்து வெளியேறும் மலக் கழிவை  உடனடியாக தடுக்க தவறின் சட்ட நடவடிக்கை - கரைச்சி சுகாதார வைத்திய அதிகாரி
-
-*2025-01-08 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/203355) · `ta`
-
-கிளிநொச்சி மத்திய பேரூந்து நிலையத்திலிருந்து வெளியேறும் மலக்கழிவை உடனடியாக 24மணித்தியாலத்துக்குள் அகற்றி சுகாதாரத்தை பேண  தவறினால் சட்டநடவடிக்கை எடுக்கப்படும் கரைச்சி சுகாதார வைத்திய அதிகாரி இ.கஜேந்திரா தெரிவித்துள்ளார்.
-
-வடமாகாண வீதிப்பயணிகள் போக்குவரத்து அதிகார சபையின் கீழ் செயற்படும் கிளிநொச்சி மத்திய பேரூந்து நிலையத்தில் கடந்த ஒரு மாதத்திற்கு மேலாக மலக்கழிவு வெளியேறுகின்ற நிலையில் உரிய நடவடிக்கை எதுவும் எடுக்கப்படாதிருந்தது.
-
-இதனால் பொது மக்கள் கடும் அசௌகரியங்களுக்கு முகம் கொடுத்து வந்த நிலையில் புதன்கிழமை (8) உரிய இடத்திற்கு விஜயம் செய்த கரைச்சி  பிரதேச சுகாதார வைத்திய அதிகாரி மற்றும் பொதுச் சுகாதார பரிசோதகர் ஆகியோர் நிலைமைகளை நேரில் அவதானித்து உரிய அறிவுறுத்தகல்களை வழங்கியுள்ளனர்.
-
-◼️
-
-[Data](articles/3014ea89.json)
-
----
-
-### Face Masks for glowing skin
-
-*2025-01-08 23:30:00* · [`islandlk`](http://island.lk/face-masks-for-glowing-skin/) · `en`
-
-Thank you for all the encouraging comments that come my way from readers of The Island.
-
-Many of you keep requesting for Beauty Tips for Glowing Skin.
-
-You will need 01 tablespoon aloe vera gel, 02 tablespoons milk cream and a pinch of turmeric.
-
-Mix all the ingredients to form a paste-like consistency and apply the mixture evenly on the face and neck.
-
-Leave it on for 20-30 minutes and then rinse with lukewarm water.
-
-You will need 02 teaspoons tomato juice, 03 teaspoons buttermilk, and cotton ball
-
-Cut a tomato and squeeze out two teaspoons of fresh tomato juice. Add the buttermilk and mix well.
-
-Apply this mixture carefully all over your face and neck using the cotton ball.
-
-You will need 04 teaspoons milk, 02 teaspoons honey, and cotton ball
-
-Warm the milk slightly and mix it with the honey. Apply this face mask, with the cotton ball, while it is still warm.
-
-Let it get soaked into your skin for at least 10 minutes. You can leave it on for about 20 minutes…no problem
-
-...
-
-[Data](articles/7814e6a1.json)
-
----
-
-### HNB announces two key appointments to drive growth and innovation
-
-*2025-01-08 23:12:00* · [`islandlk`](http://island.lk/hnb-announces-two-key-appointments-to-drive-growth-and-innovation/) · `en`
-
-Hatton National Bank (HNB) is pleased to announce the appointments of Bimal Perera as Deputy General Manager and Chief Growth Officer, and Chandima Cooray as Deputy General Manager and Chief Innovation Officer. These strategic additions to the leadership team at Corporate Management level underscore the Bank’s commitment to drive value accretive growth and pioneer innovation in today’s dynamic business environment.
-
-Bimal Perera – Deputy General Manager and Chief Growth Officer
-
-Bimal Perera joins HNB with over two decades extensive expertise in corporate strategy, investment finance, risk management and digital financial services. With a proven track record of identifying emerging business opportunities and fostering long-term value creation, he brings a wealth of experience in banking, insurance and fintech, into his new role at HNB
-
-...
-
-[Data](articles/e5fecd90.json)
-
----
-
-### HNB Assurance climbs 13 places on LMD 100 rankings
-
-*2025-01-08 23:11:00* · [`islandlk`](http://island.lk/hnb-assurance-climbs-13-places-on-lmd-100-rankings/) · `en`
-
-HNB Assurance PLC (HNBA) made a significant ascent in the latest LMD 100 rankings climbing 13 places to reach rank 64, cementing its position as one of Sri Lanka’s leading listed companies. Throughout the past few years, HNB Assurance has grown stronger, smarter and more united in its purpose, turning challenges into opportunities and refining every aspect of its operations.
-
-...
-
-[Data](articles/479118a3.json)
-
----
-
-### Dialog becomes a signatory of UN Women’s Empowerment Principles
-
-*2025-01-08 23:09:00* · [`islandlk`](http://island.lk/dialog-becomes-a-signatory-of-un-womens-empowerment-principles/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has joined the United Nations Women’s Empowerment Principles (WEPs) as a signatory, reaffirming its dedication to advancing gender equality and fostering a diverse and inclusive workplace aligned with its Diversity, Equity, and Inclusion (DEI) principles.
-
-This milestone builds on Dialog’s ongoing efforts to create opportunities for women across the workplace, marketplace, and community. Guided by the seven principles of the WEPs, the company focuses on ensuring fair treatment for all employees, respecting human rights, and promoting the health, safety, and professional development of its workforce. Dialog also empowers women in its supply chain and marketing practices while advocating for gender equality through community initiatives and mentorship programmes.
-
-...
-
-[Data](articles/9c5523af.json)
-
----
-
-### CBSL policy agenda announcement exerts rejuvenating impact on bourse
-
-*2025-01-08 23:07:00* · [`islandlk`](http://island.lk/cbsl-policy-agenda-announcement-exerts-rejuvenating-impact-on-bourse/) · `en`
-
-The stock market kicked off on a negative note at the outset yesterday but later bounced back following the announcement of the Central Bank Governor’s policy agenda.
-
-The Central Bank is reviewing the current statutory reserve requirements of banks, Governor Dr. Nandalal Weeerasinghe said while delivering the agency’s annual plans.
-
-The Central Bank is reviewing the SRR in line with international best practices, he said.
-
-“Required changes will be implemented following stakeholder consultations to optimize the SRR framework for the benefit of effective monetary policy implementation and the overall financial system, he said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 99.37 points while S and P SL20 rose by 35.15 points.
-
-...
-
-[Data](articles/bda88161.json)
-
----
-
-### ජනාධිපති මාධ්‍ය ඒකකයේ නැති වූ භාණ්ඩ ගැන විමර්ශනයක්
-
-*2025-01-08 23:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205187) · `si`
-
-ජනාධිපති මාධ්‍ය ඒකකයේ තිබී පසුගිය කාලයේ අස්ථානගත වූ ඇතැම් භාණ්ඩ සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර තිබෙන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දී තිබේ.
-
-ලද පැමිණිල්ලකට අනුව මෙම විමර්ශන කටයුතු ආරම්භ කර තිබෙන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට දැනුම් දී ඇත.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් මෙම සිද්ධියට අදාළව ප්‍රසම්පාදන නිලධාරියාගෙන් ප්‍රකාශ ලබාගෙන ඇති අතර,  මෙම භාණ්ඩ භාරගත් අයගෙන් ප්‍රකාශ ලබාගැනීමට නියමිත බවත් සඳහන් කළේය.
-
-මෙසේ අස්ථානගත වූ භාණ්ඩ මොනවාදැයි සොයා බලා ඒ පිළිබඳව ලැයිස්තුවක් ඉදිරියේ දී අධිකරණයට ඉදිරිපත් කිරීමට කටයුතු කරන බවද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අධිකරණයට දැනුම් දී ඇත.
-
-ඉදිරිපත් වූ කරුණු සලකා බැලූ කොළඹ කොටුව මහෙස්ත්‍රාත් නිලපුළි ලංකාතිලක මහත්මිය මෙම විමර්ශනවල ප්‍රගතිය ඉදිරියේදී අධිකරණයට දැනුම් දෙන ලෙසත් නියෝග කළාය.
-
-◼️
-
-[Data](articles/3b3e0f72.json)
-
----
-
-### මෙරට සෞදි තානාපති සහ මන්ත්‍රී දිලිත් ජයවීර අතර සුහද හමුවක්
-
-*2025-01-08 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205186) · `si`
-
-මෙරට සෞදි අරාබියානු තානාපති Khalid bin Hamoud bin Nasser Al-Qahtani මහතා සහ සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා අතර සුහද හමුවක් අද (08) පැවැත්විය.
-
-එහිදී දිලිත් ජයවීර මහතා, තානාපතිවරයා සමග දීර්ඝ කතාබහක නිරත වෙමින් දෙරට අතර ඇති රාජතාන්ත්‍රික සම්බන්ධතා තවදුරටත් ශක්තිමත් කරමින් සහ අතීතයේ සිට සෞදි අරාබියානු රජය සමග ඇතිකර ගන්නා ලද සුහදශිලීත්වය පැසසුමට ලක් කළේය.
-
-එමෙන්ම මින් ඉදිරියටත් සෞදි අරාබියානු රජයේ සහාය ශ්‍රී ලංකාවේ ආර්ථිකය නගාසිටුවීමට ලැබෙනු ඇති බවට තමන් විශ්වාස කරන බවද පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා, තානාපතිවරයාට පවසා තිබේ.
-
-මෙම අවස්ථාව සඳහා සර්වජන බලයේ මාධ්‍ය ලේකම් හසන් අලාල්දීන් මහතා ද සහභාගි විය.
-
-◼️
-
-[Data](articles/e25ad3c3.json)
 
 ---

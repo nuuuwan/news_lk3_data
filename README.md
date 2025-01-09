@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 20:28:23**
+As of **2025-01-09 20:44:33**
 
 ## Newspaper Stats
 
-*Scraped **64,590** Articles*
+*Scraped **64,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,190
-adaderanalk | 7,908
+adaderanalk | 7,909
 tamilmirrorlk | 9,269
-virakesarilk | 10,792
+virakesarilk | 10,793
 adaderanasinhalalk | 11,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,590 articles have been extended.
+61,973 (95.9%) of 64,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### உலக அயலகத் தமிழர் தின விழா : பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் இந்தியா விஜயம்
+
+*2025-01-09 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/203429) · `ta`
+
+உலக அயலகத் தமிழர் தினம் 2025 எதிர்வரும் ஜனவரி 11, 12 ஆம் திகதிகளில் இந்தியா தமிழகத்தின் தலைநகரான சென்னை மாநகரத்தில் நடைப்பெற உள்ளமையினால் மேற்படி மாநாட்டில் கலந்துக்கொண்டு உரையாற்றுவதற்காக பெருந்தோட்ட மற்றும் சமூக உட்கட்டமைப்பு வசதிகள் பிரதி அமைச்சர்  சுந்தரலிங்கம் பிரதீப் நாளை வெள்ளிக்கிழமை (10) இந்தியாவிற்கு விஜயம் மேற்கொள்ளவுள்ளார்.
+
+இந்த விஜயத்தின் போது அமைச்சரின் ஆலோசகரும், பிரத்தியேக செயலாளருமான கலாநிதி பி.பி.சிவபிரகாசம் இணைந்து கலந்துக்கொள்ளவுள்ளார்.
+
+தமிழ் நாட்டின் முதலமைச்சர் மு.க. ஸ்டாலின் அழைப்பின் பேரில் ஜனவரி 11 மற்றும் 12 திகதிகளில் தமிழ் நாட்டின் தலைநகரான சென்னை நந்தம்பாக்கம் வர்த்தக மையத்தில் இடம்பெறவுள்ள உலக அயலகத் தமிழர் விழாவிற்கு சிறப்பு விருந்தினராக இருநாள் விஜயத்தை மேற்கொண்டு விழாவில் உரையாற்றவுள்ளார்.
+
+இதன் போது இலங்கை மலையக மக்கள் பற்றிய கருத்துக்களை முன்வைக்க இருப்பது குறிப்பிடதக்க விடயமாகும்.
+
+...
+
+[Data](articles/b8087534.json)
+
+---
 
 ### உரத்தை இலவசமாக வழங்க நடவடிக்கை-பிரதமர்
 
@@ -158,6 +176,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trial date fixed for Diana Gamage’s passport case
+
+*2025-01-09 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104856/trial-date-fixed-for-diana-gamages-passport-case) · `en`
+
+The charge sheet filed by the Attorney General against former State Minister Diana Gamage, accusing her of obtaining a Sri Lankan passport by producing forged documents, was read before the Colombo High Court today (09).
+
+The charges were presented when the case was taken up before Colombo High Court Judge Manjula Thilakaratne, where the defendant Diana Gamage pleaded not guilty to the charges.
+
+During the proceedings, President’s Counsel Shanaka Ranasinghe, representing the defendant, raised preliminary objections.
+
+He argued that the document central to the case was prepared in 2003, and with the case being filed in 2024, over two decades later, there was no legal basis to pursue action on such an outdated document.
+
+After considering the facts presented, High Court Judge Manjula Thilakaratne, stated that the objections would be taken into consideration during the trial.
+
+Accordingly, the case is scheduled to be taken up for hearing on March 5, 2025.
+
+◼️
+
+[Data](articles/afcd6b53.json)
+
+---
+
 ### டயானாவின் வெளிநாட்டு கடவுச்சீட்டு விவகாரம்
 
 *2025-01-09 19:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-வெளிநாட்டு-கடவுச்சீட்டு-விவகாரம்/175-350049) · `ta`
@@ -254,7 +294,7 @@ The paediatrician also pointed out worrying trends in childhood health condition
 
 ---
 
-### අමෙරිකාව අසරණකරන ළැව් ගින්න
+### අමෙරිකාව අසරණ කරන ළැව් ගින්න
 
 *2025-01-09 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205214) · `si`
 
@@ -1785,43 +1825,5 @@ The arrested individuals are residents of Karandeniya, Kegalle, and Hettimulla, 
 ◼️
 
 [Data](articles/51bdbab8.json)
-
----
-
-### காலியில் துப்பாக்கிச் சூடு ; "லொகு பெடி” யின் உறவினர் காயம்
-
-*2025-01-09 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203360) · `ta`
-
-காலி - அஹுங்கல்ல பகுதியில் இன்று வியாழக்கிழமை (09) காலை 6.15  மணியளவில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-சிவப்பு நிற ஸ்கூட்டரில் வந்த இருவர் துப்பாக்கிச் சூட்டை நடத்தி விட்டு அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி புத்திக மனதுங்க தெரிவித்தார்.
-
-துப்பாக்கிச் சூட்டில் காயமடைந்த நபர் பலப்பிட்டிய ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பொலிஸார் மேற்கொண்ட விசாரணையில், துப்பாக்கிச் சூட்டில் காயமடைந்தவர்  "லொகு பெடி” என்ற பாதாள உலகக்குழு உறுப்பினரின் உறவினர் என  தெரியவந்துள்ளது.
-
-இதனையடுத்து , சம்பவம் தொடர்பில் அஹுங்கல்ல பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துவருவதாக தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/203648f4.json)
-
----
-
-### ලියාපදිංචි නොවූ ජංගම දුරථකන භාවිතයට තහනමක් ?
-
-*2025-01-09 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205194) · `si`
-
-විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ ලියාපදිංචි වී නොමැති ජංගම දුරකථන ඇතුළු සන්නිවේදන උපකරණ මෙරට තුළ භාවිතය ඉදිරියේදී තහනම් කරන බව එම කොමිෂන් සභාව පවසයි.
-
-එහි අධ්‍යක්ෂ ජනරාල් විශ්‍රාමික එයාර් වයිස් මාෂල් බන්දුල හේරත් මහතා සඳහන් කළේ, සන්නිවේදන උපකරණ නීතිවිරෝධී ලෙස මෙරටට රැගෙන ඒම නතර කිරීම මෙහි අරමුණ බවය.
-
-ඒ සඳහා විශේෂ වැඩපිළිවෙලක් මෙම මස අවසානය වන විට හඳුන්වාදීමට ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව සැලසුම් කර තිබේ.
-
-කෙසේවෙතත් දැනට භාවිත කරන ජංගම දුරකථනවලට මෙම නව වැඩපිළිවෙල මඟින් බාධාවක් සිදුනොවන බව විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් විශ්‍රාමික එයාර් වයිස් මාෂල් බන්දුල හේරත් මහතා සඳහන් කළේය.
-
-...
-
-[Data](articles/0579d6e0.json)
 
 ---

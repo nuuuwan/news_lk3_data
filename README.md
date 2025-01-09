@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 11:28:03**
+As of **2025-01-09 11:44:52**
 
 ## Newspaper Stats
 
-*Scraped **64,488** Articles*
+*Scraped **64,497** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 470
-colombotelegraphcom | 644
+colombotelegraphcom | 646
 bbccomsinhala | 674
-economynextcom | 3,925
+economynextcom | 3,929
 islandlk | 3,940
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,176
+adalk | 6,177
 adaderanalk | 7,891
-tamilmirrorlk | 9,251
+tamilmirrorlk | 9,253
 virakesarilk | 10,770
 adaderanasinhalalk | 11,138
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.1%) of 64,488 articles have been extended.
+61,973 (96.1%) of 64,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### அமைச்சரின் அனுமதியின்றி தலைவர்களை சந்திக்கத் தடை?
+
+*2025-01-09 11:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-அனுமதியின்றி-தலைவர்களை-சந்திக்கத்-தடை/175-350028) · `ta`
+
+வெளிவிவகார அமைச்சரின் அனுமதியின்றி அமைச்சர்கள் வெளிநாட்டு தூதரகங்களின் தலைவர்களை சந்திப்பதற்கு தடைவிதித்து ஜனாதிபதியின் செயலாளர் சுற்றறிக்கை வெளியிட்டதாக எதிர்க்கட்சி எம்.பி தயாசிறி ஜயசேகர குற்றம் சுமத்திய அதேவேளை, சபைத் தலைவர் பிமல் ரத்நாயக்க அதனை நிராகரித்ததுடன் நேற்று தாம் ஒரு வெளிநாட்டு தலைவரை சந்தித்ததாக தெரிவித்தார்.
+
+“வெளிவிவகார அமைச்சரின் அனுமதியின்றி அமைச்சர்கள், செயலாளர்கள் மற்றும் ஆளுநர்கள் வெளிநாட்டு தூதரகங்களின் தலைவர்களை சந்திப்பதைத் தடைசெய்து ஜனாதிபதியின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளார். அமைச்சர்களுக்கு ஏன் இந்தக் கட்டுப்பாடுகள் விதிக்கப்படுகின்றன என்று நாம் ஆச்சரியப்படுகிறோம். இது வடகொரியாவிலுள்ள ஆட்சி போன்ற நடவடிக்கையாகும்” என எம்.பி ஜயசேகர தெரிவித்தார்.
+
+அப்போது “சிறிது நேரத்திற்கு முன்பு நான் அவுஸ்திரேலிய உயர்ஸ்தானிகரைச் சந்தித்தேன். அவர் இன்னும் பாராளுமன்ற வளாகத்தில் தான் இருக்கிறார். நான் அவரை உங்களுக்கு அறிமுகப்படுத்த முடியும்” என்று சபைத் தலைவர் ரத்நாயக்க கூறினார்.
+
+◼️
+
+[Data](articles/babf5514.json)
+
+---
+
+### ஞானசார தேரருக்கு சிறை
+
+*2025-01-09 11:27:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஞானசார-தேரருக்கு-சிறை/150-350027) · `ta`
+
+இஸ்லாமிய மதத்தை அவமதித்ததற்காக பொதுபல சேனா (பிபிஎஸ்) அமைப்பின் பொதுச் செயலாளர் கலகொட அத்தே ஞானசார தேரருக்கு கொழும்பு நீதவான் நீதிமன்றம் 9 மாத சிறைத்தண்டனை வியாழக்கிழமை (09) விதித்துள்ளது.
+
+சிறைத்தண்டனைக்கு கூடுதலாக, ரூ. 1,500 அபராதம் விதிக்கப்பட்டது. இந்த தீர்ப்பு கொழும்பு மேலதிக நீதவான் பசன் அமரசேனவினால் வழங்கப்பட்டது.
+
+ஞானசார தேரர் குற்றச்சாட்டுகள் தொடர்பாக நீதிமன்றத்தில் ஆஜராகத் தவறியதைத் தொடர்ந்து பிறப்பிக்கப்பட்ட முந்தைய கைது வாரண்டைத் தொடர்ந்து இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7145d708.json)
+
+---
 
 ### நாகை  மீனவர்கள் 12 பேருக்கும்  நிபந்தனை பிணை
 
@@ -65,6 +97,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1985fb74.json)
+
+---
+
+### අහුංගල්ලේ වෙඩි තැබිමකින් පුද්ගලයෙකුට තුවාල
+
+*2025-01-09 10:34:59* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-414106) · `si`
+
+අහුන්ගල්ලේ අද උදෑසන6.15 ට පමණ රතු පැහැති ස්කූටි වර්ගයේ බයිසිකලයකින් පැමිණි දෙදෙනකුගෙන්  නාඳුනන තුවක්කුකරුවකු තැබූ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා බලපිටිය  මූලික රෝහලට ඇතුළත් කර ඇතැයි අහුංගල්ල පොලිසිය කියයි.
+
+පරණ කෝන්තරයක් මත මෙම වෙඩි තැබීම සිදුකර ඇතැයි විශ්වාස කරන පොලිසිය වෙඩි තැබීමෙන් තුවාල ලබා ඇත්තේ අහුන්ගල්ලේ ලොකු පැටි නමැති අයගේ ඥාතියකු බව කියයි.සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා පොලිස් මෙහෙයුම් ක්‍රියාත්මක කෙරේ.
+
+◼️
+
+[Data](articles/0cc2f363.json)
+
+---
+
+### Sri Lanka bond yields down ahead of auction, rupee weaker
+
+*2025-01-09 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-ahead-of-auction-rupee-weaker-198731/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 295.60/90 to the US dollar Thursday, weaker from yesterday’s close of 295.05/15 to the US dollar in the spot market, dealers said while bond yields fell.
+
+There were some petroleum payments which were covered, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent down from 9.40/45 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.75/85 unchanged from 9.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, down from 10.10/18 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.40/45 down from 10.45/52 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.25/30 down from 10.30/33 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.77/83 percent, steady from 10.75/82 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.00/05 percent, down from 11.00/15 percent. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/f02e766c.json)
 
 ---
 
@@ -145,6 +219,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/37689a20.json)
+
+---
+
+### Bolivia central bank running with US$50mn liquid reserves
+
+*2025-01-09 09:38:00* · [`economynextcom`](https://economynext.com/bolivia-central-bank-running-with-us50mn-liquid-reserves-198723/) · `en`
+
+ECONOMYNEXT – Bolivia had 1,976 million dollars of net international reserves with most of it made up of gold purchased from the domestic market by the end of December 2024, media reports quoting the central bank said.
+
+Net international reserves had increased to from 1,708 million dollars a year earlier. Most of it was made up of gold.
+
+Banco Central de Bolivia (BCB) had bought 14.54 tonnes of gold from the domestic market in 2024 and taken its total stocks to 22.37 tonnes. The BCB had refined 16.5 tonnes and were holding them in London as delivery quality bars.
+
+BCB only had 50 million dollars of liquid dollar reserves, its President Edwin Rojas was quoted as saying by Bolivia’s El Darion newspaper.
+
+The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million dollars through certificates of deposits. Another 39 million dollars had been obtained from public companies through the ‘repatriation of external resources’.
+
+...
+
+[Data](articles/cfca7ecd.json)
 
 ---
 
@@ -266,6 +360,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka to identify systemically important finance companies
+
+*2025-01-09 08:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-identify-systemically-important-finance-companies-198703/) · `en`
+
+ECONOMYNEXT – Sri Lanka will identify systemically important finance companies in 2025 as part of efforts to improve financial regulation, Central Bank Governor Nandalal Weerasinghe has said.
+
+Stress testing frameworks for finance companies will be extended, he said.
+
+Finance Business Act, No. 42 of 2011, and Finance Leasing Act, No. 56 of 2000 will also be amended to strengthen regulatory oversight, enhance risk management, and promote the stability of the non-bank financial institutions sector.
+
+Under a plan announced in 2020, eight finance companies were merged.
+
+The remaining finance companies would be strengthened under the second phase, and progress of benchmarks monitored.
+
+The central bank has also completed a re-assessment of Domestic Systemically Important Banks (DSIBs) with required capital buffers, Governor Weerasinghe said in a speech outlining plans for 2025.
+
+The list of D-SIBs and capital buffers will be announced in 2025. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/131394fa.json)
+
+---
+
 ### அஹுங்கலயில் துப்பாக்கிச் சூடு
 
 *2025-01-09 07:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஹுங்கலயில்-துப்பாக்கிச்-சூடு/175-350018) · `ta`
@@ -339,6 +457,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5763ff2b.json)
+
+---
+
+### Sri Lanka insurers raising motor insurance premia after depreciation: Fitch
+
+*2025-01-09 06:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurers-raising-motor-insurance-premia-after-depreciation-fitch-198697/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s insurers have been facing higher claim costs after high claims costs from currency depreciation, and are likely to further raise non-life insurance premiums, Fitch Ratings has said.
+
+“Underwriting performance has been under pressure since 2022, driven by inflationary pressures, rising administrative costs and increased claim costs due to higher spare part prices and medical costs from the depreciation of the Sri Lankan rupee,” Fitch Rating said in a report on Sri Lanka insurers.
+
+Sri Lanka’s central bank has won the legal powers under a new law to raise cost of living by 5 percent as year.
+
+Since the end of a civil war in particular it has printed money to cut rates and triggered serial currency crises eventually ending in sovereign default, critics have said.
+
+When a central bank prints money to cut rates and target its policy rate, food, energy and asset prices rise early and forex pressure also emerge, but services prices go up with a delay.
+
+...
+
+[Data](articles/a485f88a.json)
 
 ---
 
@@ -632,6 +770,18 @@ Surge in Chronic Obstructive Pulmonary Diseases affecting around 10-15% of popul
 
 ---
 
+### The Recruitment Of Land For Housing For The Plantation Community In Sri Lanka
+
+*2025-01-09 05:37:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-recruitment-of-land-for-housing-for-the-plantation-community-in-sri-lanka/) · `en`
+
+There are disagreements over the amount of land and housing that plantation workers need to live on, but this needs to be agreed upon. It is also believed that there won’t be enough land to operate the plantation industry if workers are given houses and land. We really want those who have this opinion to think about the following.
+
+...
+
+[Data](articles/38829a9e.json)
+
+---
+
 ### Modi’s Fragile Balancing Act: India’s Democratic Erosion & Its Geopolitical Dilemma
 
 *2025-01-09 05:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-fragile-balancing-act-indias-democratic-erosion-its-geopolitical-dilemma/) · `en`
@@ -753,6 +903,20 @@ Targeted social safety nets will ensure inclusivity, while policies promoting in
 ...
 
 [Data](articles/a393e312.json)
+
+---
+
+### Auroravia Inside Kanchana Amilani’s Head (And What’s Eating Her Up?)
+
+*2025-01-09 03:53:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/auroravia-inside-kanchana-amilanis-head-and-whats-eating-her-up/) · `en`
+
+The landscape of Sinhala literature is vast in scope, rich in depth, and crowded with contributors. Many essays have been written about the authors of short stories, novels, and poems who have expanded their horizons and delved deeply into subjects that captured their interest.
+
+However, the written word that dares to explore vivid imaginations and push boundaries remains a rarity—though, paradoxically, it feels an oxymoron to suggest that imagination can ever have limits. When you see such work, then it is nearly impossible not to say something about that. The work of Kanchana Amilani is something that perfectly fits the bill.
+
+...
+
+[Data](articles/1d8d5440.json)
 
 ---
 
@@ -1641,169 +1805,5 @@ The Speaker said that the Third Parliament is expected to re-establish the Sri L
 ...
 
 [Data](articles/3c978049.json)
-
----
-
-### சந்தையில் அரிசி தட்டுப்பாடு கிடையாது : சிவப்பு அரிசிக்கு மட்டுமே தட்டுப்பாடு - வசந்த சமரசிங்க
-
-*2025-01-08 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203318) · `ta`
-
-சந்தையில்  அரிசி தட்டுப்பாடு கிடையாது. சிவப்பு அரிசிக்கு மட்டுமே தட்டுப்பாடு உள்ளது. ஜனாதிபதித் தேர்தலுக்கு முன்னர் 20 கிலோ அரிசியை  கடந்த அரசாங்கம்  மக்களுக்கு விநியோகித்தது.
-
-சிவப்பு அரிசி பயன்படுத்தாத மக்களுக்கும் சிவப்பு அரிசி விநியோகிக்கப்பட்டது. இதன் காரணாகவே சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டது என வர்த்தகம், உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08)  நடைபெற்ற அமர்வில்  பிரதமரிடத்திலான கேள்வி நேரத்தின் போது,  ஶ்ரீலங்கா பொதுஜன பெரமுன பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்‌ஷ  முன்வைத்த  சந்தையில்  நிலவும்  அரிசி தட்டுப்பாடு தொடர்பில் எழுப்பப்பட்ட கேள்விகளுக்கு  விடயதானத்துக்கு பொறுப்பான அமைச்சர் என்ற அடிப்படையில் பதிலளிக்கையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/9dfb59b1.json)
-
----
-
-### බස් රථවල අනවශ්‍ය උපාංග ඉවත් කිරීමට මාස 3ක්‍
-
-*2025-01-08 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205178) · `si`
-
-බස් රථවල අනවශ්‍ය අමතර උපාංග ඉවත් කිරීමට පෞද්ගලික බස් හිමියන්ට මාස තුනක කාලයක් ලබාදීමට තීරණය කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි බුද්ධික මනතුංග පැවසීය.
-
-පෞද්ගලික බස් රථ හිමියන්ගේ සංගම් සහ වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා අතර අද (8) පැවැත් වූ සාකච්ඡාවේදී මෙම තීරණයට පැමිණි බව හෙතෙම පවසයි.
-
-මෙම සාකච්ඡාවේදී පොලිස්පතිවරයා පවසා ඇත්තේ රටක මාර්ග විනය යනු රටක තත්ත්වය පිළිබඳ මිනුම් දණ්ඩයක් බවය.
-
-ඒ අනුව දේශපාලන අතගැසීම්වලින් තොරව මේ වනවිට මාර්ග විනය සකස්කිරීමේ ක්‍රියාවලිය සඳහා පවත්නා නීති උපයෝගී කරගෙන මෙහෙයුම් සිදුකරන බව දැනුම් දී ඇත.
-
-එමෙන්ම මෙම මෙහෙයුම් හේතුවෙන් දිනකට මාරක රිය අනතුරු වාර්තාවීම් 4ක් හෝ 5ක් දක්වා අඩුව ඇති බවත්, අනෙකුත් රිය අනතුරු ද සැලකිය යුතු ප්‍රමාණයකින් අඩු වී ඇති බව ද වැඩබලන පොලිස්පතිවරයා සංඛ්‍යා ලේඛන ඉදිරිපත් කරමින් පෙන්වමින් පවසා ඇත.
-
-මෙම සාකච්ඡාවේදී බස් සංගම් පොලිස්පතිවරයාගෙන් ඉල්ලීමක් කර ඇත්තේ වාහනවල අලංකරණය සඳහා සවිකර ඇති කොටස් ඉවත්කිරීම හෝ එය නීත්‍යානුකූල තත්ත්වයට පත්කරගැනීම සඳහා ලබාදී ඇති සති දෙකක කාලය ප්‍රමාණවත් නොවන බවයි.
-
-...
-
-[Data](articles/07c37dcc.json)
-
----
-
-### 11 டொல்பின்கள் உயிரிழந்த நிலையில்  மீட்பு
-
-*2025-01-08 17:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-டொல்பின்கள்-உயிரிழந்த-நிலையில்-மீட்பு/175-349999) · `ta`
-
-வில்பத்து தேசிய பூங்கா கடல் எல்லைக்குட்பட்ட கொல்லன் கனத்த பகுதியில் 11 சாதாரண குப்பி டொல்பின்கள்  உயிரிழந்த நிலையில்   செவ்வாய்க்கிழமை (7) மீட்கப்பட்டுள்ளன.
-
-முள்ளிக்குளம்  தள பாதுகாப்பு அலுவலகத்திற்கு கிடைத்த தகவலுக்கு அமைய அப்பகுதிக்குச் சென்ற வனவிலங்கு திணைக்கள அதிகாரிகள் அப்பகுதிக்குச் சென்று சோதனை செய்தனர். இதன் போது டொல்பின்கள்   இறந்து கிடந்ததை அவதானித்துள்ளனர்.
-
-பின்னர் இறந்த டொல்பின்களை மீட்டு   பரிசோதித்ததன் பின்னர் இது தொடர்பான தகவல்கள் புத்தளம் நீதிவான் நீதிமன்றில்  செவ்வாய்க்கிழமை (07)   சமர்ப்பிக்கப்பட்டது.
-
-அதன்படி அனுராதபுரம் வனவிலங்கு கால்நடை வைத்திய அலுவலக அதிகாரிகள்  உயிரிழந்த டொல்பின்களின் மரணம் தொடர்பான  பிரேத பரிசோதனையை மேற்கொண்டனர்.
-
-மேலும் அவற்றின் மரணத்தை உறுதிப்படுத்துவதற்காக டொல்பின்களில் இருந்து   எடுக்கப்பட்ட மாதிரிகள் பேராதனை கால்நடை மருத்துவ பீடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளது .
-
-◼️
-
-[Data](articles/44dc591a.json)
-
----
-
-### Bus strike called off after talks with police chief
-
-*2025-01-08 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104832/bus-strike-called-off-after-talks-with-police-chief) · `en`
-
-The bus associations have decided to call off their island-wide strike following successful discussions with the Acting IGP.
-
-This decision was reached after a successful discussion held today (08) between the private bus associations and the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, regarding traffic operations linked to the ‘Clean Sri Lanka’ national initiative.
-
-As a result, the bus associations have decided to call off their planned island-wide strike.
-
-Earlier, the bus associations had decided yesterday (07) to launch an island-wide strike to protest against the police department’s excessive and unnecessary pressure on passenger transport bus operators.
-
-In this context, representatives from the bus associations held a discussion with the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, at the Police Headquarters this morning (08).
-
-...
-
-[Data](articles/e7c0568f.json)
-
----
-
-### දුම්රිය වර්ජනයක් ගැන අනතුරු ඇඟවීමක්
-
-*2025-01-08 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205177) · `si`
-
-ශ්‍රේණි උසස්වීම් ක්‍රමවේදය සහ තවත් ගැටලු කිහිපයක් මූලික කරගනිමින්, ඊට අදාළ විසඳුම් ඉදිරි දින 14 ඇතුළත ලබා නොදෙන්නේ නම් වෘත්තීය සමිති ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කළ බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
-
-◼️
-
-[Data](articles/0272ab8a.json)
-
----
-
-### தெருக்களில் நாய்க்குட்டிகளை கைவிடப்படுவது தொடர்கிறது : கால்நடை வைத்தியர்கள்
-
-*2025-01-08 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/203298) · `ta`
-
-நாட்டில், 60 சதவீதத்திற்கும் அதிகமான தெரு நாய்கள் கருத்தடை செய்யப்பட்டும்,  80 சதவீதத்திற்கும்  அதிகமான விசர் நாய்க்கடி உள்ளிட்ட நோய்களுக்கு தடுப்பூசி போடப்பட்ட போதிலும், மக்கள் பொறுப்பற்ற முறையில் நாய்க்குட்டிகளை வீதிகளில் கைவிடுகின்றனர் என விலங்குகள் நலக் கூட்மைப்பின் இலங்கைக்கான செயற்குழு உறுப்பினர் வைத்தியர் சமித் நாணயக்கார தெரிவித்தார்.
-
-85 சதவீதமான செல்லப்பிராணி உரிமையாளர்களுக்கு நாய்களின் எண்ணிக்கையை கட்டுப்படுத்த எங்கு செல்வது அல்லது யாரை அணுகுவது என்பது இன்னும் தெரியவில்லை.
-
-அவர்களுக்கு சரியான திட்டங்கள் அல்லது அமைப்புகள் இருந்தால், அவர்கள் தங்கள் நாய்களை கருத்தடை செய்வார்கள்.
-
-ஒரு முறையான திட்டம் உடனடியாக செயல்படுத்தப்பட வேண்டும். முன்மொழிவுகள் செய்யப்பட்டும், உள்கட்டமைப்புகள் உள்ளன மற்றும் திட்டத் திட்டங்கள் தயாராக உள்ளன, துறைகளுக்கிடையே ஒருங்கிணைப்பு இல்லாததால் அவை வெற்றிகரமாக செயல்படுத்தப்படுவதைத் தடுக்கிறது.
-
-...
-
-[Data](articles/3fda1593.json)
-
----
-
-### விவசாயிகளிடமிருந்து 3 இலட்சம் மெற்றிக்தொன் நெல்லை கொள்வனவு செய்வோம் - கமத்தொழில் பிரதி அமைச்சர்
-
-*2025-01-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/203313) · `ta`
-
-2024 மற்றும் 2024 ஆம் ஆண்டு காலப்பகுதிகளில் விவசாயிகளிடமிருந்து 5000 மெற்றிக்தொன் வரையிலான நெல்லை மாத்திரமே அரசாங்கம்  கொள்வனவு செய்துள்ளது.
-
-இம்முறை 45 இலட்சம் மெற்றிக்தொன் நெல் விளைச்சல் கிடைக்கும் என்று எதிர்பார்க்கப்பட்டுள்ள நிலையில் 3 இலட்சம் மெற்றிக் தொன் நெல்லை கொள்வனவு செய்ய நடவடிக்கை எடுத்துள்ளோம் என  கமத்தொழில் மற்றும் கால்நடை அபிவிருத்தி பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்தார்.
-
-விவசாயிகளிடமிருந்து நெல்லை கொள்வனவு செய்யும் போது  வருட முழுவதற்கும்  உரியவாறாக அமையும் வகையில் நெல்லுக்கு உத்தரவாத விலை பேணப்படாத காரணத்தால் விவசாயிகளும், நுகர்வோரும் பாதிக்ப்பட்டுள்ளார்கள்.  வர்த்தகர்கள் விலையை தீர்மானித்துக் கொள்ளும் நிலை காணப்படுகிறது.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08) நடைபெற்ற அமர்வில் வாய்மூல  விடைக்கான  வினாக்களின் போது  ஐக்கிய  மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர்  ரோஹண பண்டார  எழுப்பிய கேள்விகளுக்கு பதிலளிக்கையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/5e591e62.json)
-
----
-
-### Sri Lanka Treasuries yields down across maturities
-
-*2025-01-08 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-across-maturities-198627/) · `en`
-
-ECONOMYNEXT – Sri Lanka sold 102 billion rupees of Treasury bills with yields falling across maturities, data from the state debt office showed.
-
-All offered 30 billion rupees of 3-month bills were sold at 8.47 percent down 08 basis points.
-
-All offered 30 billion rupees of 6-month bills were sold at 8.60 percent, down 12 basis points.
-
-All offered 42 billion rupees of 12-month bills were sold at 8.90 percent, down 04 basis points.
-
-All maturities are available on tap at the weighted average yield. (Colombo/Jan08/2025)
-
-◼️
-
-[Data](articles/acad7b52.json)
-
----
-
-### බස් සංගම් ඉල්ලීම් දෙකෙන් එකකට වැ.බ. පොලිස්පතිගේ එකඟතාව
-
-*2025-01-08 16:51:25* · [`adalk`](https://www.ada.lk/breaking_news/බස්-සංගම්-ඉල්ලීම්-දෙකෙන්-එකකට-වැ-බ--පොලිස්පතිගේ-එකඟතාව/11-414096) · `si`
-
-ක්ලීන් ශ්‍රී ලංකා වැඩසටහනට සමගාමීව මාර්ග අනතුරු අවම කර ගැනීම වෙනුවෙන් පොලීසිය ක්‍රියාත්මක කරන රථ වාහන මෙහෙයුම හා බස් සංගම් නියෝජිතයන් අතර පැවැති සාකච්ඡාවේදී බස් සංගම් ඉදිරිපත් කළ එක් කරුණකට වැඩබලන පොලිස්පතිගේ එකඟතාව ලැබී ඇති අතර තවත් කරුණකට එකඟතාව දක්වා නොමැත.
-
-මෙහිදී බස් රථවල අලංකරණයට සකස් කර ඇති දෑ හා ඒවා මාරක අනතුරුවලට තුඩු ‍නොදෙන්නේනම් පමණක් ඒවා ඉවත් කර ගැනීමට මාස තුනක කාලයක් ලබාදෙන ලෙසට බස් රථ සංගම් නියෝජතයන් කළ ඉල්ලීමට වැඩ බලන පොලිස්පතිවරයාගේ එකඟතාව ලැබී තිබේ.
-
-ඒ අනුව අදාළ සැරසිලි මාරක අනතුරුවලට හේතු වන්නේ නම් පොලිසිය මැදිහත්වී ඒවා ඉවත් කිරීමට කටයුතු කරනු ඇති බවත් අනෙකුත් දෑ ඉවත් කිරීමට හෝ නිසි අවසර ලබා ගෙන රඳවාගෙන තබා ගැනීම වෙනුවෙන් මාස තුනක කාලයක් ලබාදෙන බව පොලිස්පතිවරයා සඳහන් කර තිබේ.
-
-මේ අතර බස් රථවල වැරදි සෙවීම වෙනුවෙන් සිවිල් ඇඳුමින් යොදවා ඇති පොලිස් නිලධාරීන් ඉවත් කරන ලෙසට බස් සංගම් කළ ඉල්ලීමට වැඩ බලන පොලිස්පතිවරයාගේ එකඟතාව ලැබී නොමැත. මහජනතාවගේ ආරක්ෂාව වෙනුවෙන් එය අඛණ්ඩව සිදුකරන බවට වැඩ බලන පොලිස්පතිවරයා සඳහන් කර තිබේ.
-
-◼️
-
-[Data](articles/ba45cb2e.json)
 
 ---

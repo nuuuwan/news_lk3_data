@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 23:28:23**
+As of **2025-01-09 23:45:24**
 
 ## Newspaper Stats
 
-*Scraped **64,601** Articles*
+*Scraped **64,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 471
 colombotelegraphcom | 647
 bbccomsinhala | 676
-economynextcom | 3,935
+economynextcom | 3,940
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
-tamilmirrorlk | 9,269
+tamilmirrorlk | 9,270
 virakesarilk | 10,793
 adaderanasinhalalk | 11,156
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,601 articles have been extended.
+61,973 (95.9%) of 64,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### UNP - SJB இணைக்கும் பொறுப்பை ஏற்றார் ராஜித
+
+*2025-01-09 23:27:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-SJB-இணைக்கும்-பொறுப்பை-ஏற்றார்-ராஜித/175-350068) · `ta`
+
+எதிர்வரும் உள்ளூராட்சி மன்றத் தேர்தலில் ஐக்கிய மக்கள் சக்தி மற்றும் ஐக்கிய தேசியக் கட்சியை ஒன்றிணைக்கும் பொறுப்பை முன்னாள் அமைச்சர் ராஜித சேனாரத்ன தானாக முன்வந்து ஏற்றுக்கொண்டதாகத் தெரிவிக்கப்படுகிறது.
+
+உள்ளூராட்சி மன்றத் தேர்தலில் இரு கட்சிகளும் இணைந்து போட்டியிட வேண்டும் என்று பல கட்சிகள் விடுத்த கோரிக்கைகளை பரிசீலித்த பின்னரே இந்த நடவடிக்கையை எடுத்துள்ளார்.
+
+அரசியல் கட்சிகள் இந்த விவகாரம் தொடர்பாக விவாதங்களைத் தொடங்கியுள்ளதாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இருப்பினும், கடந்த தேர்தல்களில் முக்கிய அரசியல் கட்சிகள் பெற்ற பின்னடைவுகளைக் கருத்தில் கொண்டு, சில கட்சிகள் ஐக்கிய தேசியக் கட்சி 'யானை' சின்னத்தில் எதிர்வரும் தேர்தல்களில் போட்டியிட வேண்டும் என்று கூறியுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+மேலும், முந்தைய தேர்தல்களில் ஐக்கிய தேசியக் கட்சியை விட ஐக்கிய மக்கள் சக்தி  முன்னிலையில் இருந்ததால், மற்ற கட்சிகள் சஜித் பிரேமதாசவின் தலைமையில் உள்ளூராட்சித் தேர்தலில் போட்டியிட வேண்டும் என்று கூறியுள்ளன. R
+
+◼️
+
+[Data](articles/03a61294.json)
+
+---
 
 ### වී අස්වනු මිලදී ගැනීමට සහනදායී ණයක්
 
@@ -218,6 +238,26 @@ On the directive of the District Police Officer (DPO) of Khyber, a jirga was con
 
 ---
 
+### Sri Lanka’s anti-money laundering, terrorism financing evaluation postponed by 1 year
+
+*2025-01-09 19:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-anti-money-laundering-terrorism-financing-evaluation-postponed-by-1-year-198840/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s third evaluation on its Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) framework is postponed by one-year and rescheduled to commence in March 2026, the Central Bank data showed.
+
+The delay is due to the two national elections held last year, a Central Bank official said.
+
+Sri Lanka is facing a risk of falling into the grey list for a third time if it fails to implement strong AML/CFT measures recommended by the global body. Such failure could dent the island nation’s economic recovery from sovereign debt default, analysts have said.
+
+Sri Lanka’s third Mutual Evaluation on its AML/CFT framework, coordinated by the Asia Pacific Group on Money Laundering (APG), was scheduled to commence in March 2025.
+
+However, this evaluation has now been rescheduled to March 2026, the Central Bank said in its Policy Agenda for 2025 and beyond, released on Wednesday (08).
+
+...
+
+[Data](articles/f749c730.json)
+
+---
+
 ### வடமராட்சி கிழக்கில் 20 பயனாளிகளுக்கு மீன்பிடி படகு வழங்கிவைப்பு
 
 *2025-01-09 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203440) · `ta`
@@ -325,6 +365,26 @@ Accordingly, the case is scheduled to be taken up for hearing on March 5, 2025.
 ◼️
 
 [Data](articles/23f6553e.json)
+
+---
+
+### Sri Lanka raises Rs179.3bn via bonds; less 2033 bonds accepted
+
+*2025-01-09 19:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-raises-rs179-3bn-via-bonds-less-2033-bonds-accepted-198836/) · `en`
+
+ECONOMYNEXT –Sri Lanka has sold 179.3 billion rupees in 2028, 2030, and 2033 bonds, data from the state debt office showed.
+
+All offered 60 billion rupees of 15 October 2028 bonds were sold at an average yield of 10.42 percent; while all offered 80 billion rupees of 15 October 2030 bonds were sold at an average yield of 11.23 percent.
+
+However, only 39.3 billion rupees out of 50 billion of 01 November 2033 bonds were sold despite the debt office received bids worth 90.6 billion rupees. These bonds were sold at an average yield of 11.48 percent.
+
+An issuance window for the ISINs LKB00428J159 and LKB00730J158 is open until 3.00 pm of business day prior to settlement date (i.e., 10.01.2025) at the Weighted Average Yield Rates (WAYRs) determined for the said ISINs at the auction, up to 10% of the respective amounts offered, the debt office said.
+
+The date of settlement is 15 January 2025. (Colombo/January 09/ 2025)
+
+◼️
+
+[Data](articles/33b8b9ef.json)
 
 ---
 
@@ -524,6 +584,32 @@ The paediatrician also pointed out worrying trends in childhood health condition
 
 ---
 
+### Spot US dollar closes at 294.95/295.10 Sri Lanka rupees
+
+*2025-01-09 17:13:00* · [`economynextcom`](https://economynext.com/spot-us-dollar-closes-at-294-95-295-10-sri-lanka-rupees-198826/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 294.95/295.10 to the US dollar in the spot market Thursday, weaker from yesterday’s close of 295.05/15 while bond yields were flat, dealer said.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 down from 9.40/45 percent.
+
+A bond maturing on 15.10.2027 closed at 9.75/85 percent unchanged from 9.75/85 percent.
+
+A bond maturing on 15.02.2028 closed at 10.10/15 perent down from 10.10/18 percent.
+
+A bond maturing on 15.10.2028 closed at 10.33/37 percent down from 10.45/52 percent.
+
+A bond maturing on 01.05.2028 closed at 10.25/30 percent down from 10.30/33 percent.
+
+A bond maturing on 15.09.2029 closed at 10.75/80 percent, down from 10.75/82 percent.
+
+A bond maturing on 15.05.2030 closed at 11.00/10 percent, down from 11.00/15 percent. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/74d02877.json)
+
+---
+
 ### மின்கலம் திருடனை தேடி 4 கிலோ மீற்றர் பயணித்த ஜோனி என்ற மோப்ப நாய்
 
 *2025-01-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/203412) · `ta`
@@ -557,6 +643,26 @@ The paediatrician also pointed out worrying trends in childhood health condition
 ...
 
 [Data](articles/f1d7828e.json)
+
+---
+
+### Sri Lanka stocks down on financials; foreign outflows continue
+
+*2025-01-09 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-down-on-financials-foreign-outflows-continue-198770/) · `en`
+
+ECONOMYNEXT –  Sri Lanka stock market fell on Thursday led by financial stocks amid continued foreign selling, data on its site showed.
+
+The risky assets are on market  correction after the key All Share Price Index (ASPI) repeatedly touched fresh peak from mid December following the conclusion of Sri Lanka’s debt restructuring
+
+The broader ASPI closed down 0.89 percent or 142.65 points at 15,811.36; while the more liquid S&P SL20 Index closed down 1.26 percent or 27.12  points at 4,816.10.
+
+Banks and other financial stocks dragged the market, the data showed.
+
+The market witnessed foreign outflow for the third straight session. Offshore investors sold a net 37 million rupee worth stocks on Thursday (09), extending the total outflow in the last three straight sessions to 315 million rupees.
+
+...
+
+[Data](articles/77a1279e.json)
 
 ---
 
@@ -1246,6 +1352,28 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 
 ---
 
+### Sri Lanka state imports of coconut kernels after crop shortfall
+
+*2025-01-09 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-imports-of-coconut-kernels-after-crop-shortfall-198750/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow state imports coconut kernels to be used by mills to make oil and other products, Industries Minister Sunil Handunetti said.
+
+Sri Lanka is currently facing a shortfall of coconuts and the country does not allow fresh nut to be imported due to fears of diseases coming in.
+
+“We have decided to import kernels and give the mills,” Industries Minister Sunil Handuneththi said.
+
+Sri Lanka also exports powdered and creamed coconut milk and dessicated coconut.
+
+Opposition legislator Dayasiri Jayasekera said given past experience of unripe kernels being imported, it would be better to allow the private firms themselves to import kernels.
+
+Minister Handunetthi said the government would import the kernels. (Colombo/Jan09/2025)
+
+◼️
+
+[Data](articles/bb5cf315.json)
+
+---
+
 ### 2025 ආණ්ඩුවේ වියදම් මෙන්න
 
 *2025-01-09 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205203) · `si`
@@ -1707,115 +1835,5 @@ The seized fishing boat together with Indian fishermen were brought to the Kanke
 ◼️
 
 [Data](articles/4d5fad85.json)
-
----
-
-### TRCSL to ban use of unregistered mobile phones?
-
-*2025-01-09 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104842/trcsl-to-ban-use-of-unregistered-mobile-phones) · `en`
-
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) says that the use of communication devices including mobile phones that are not registered with the commission will be prohibited in the country in the future.
-
-TRCSL Director General, Air Vice Marshal (Retd) Bandula Herath, stated that the objective of this move is to halt the illegal importation of communication devices into Sri Lanka.
-
-Accordingly, the TRCSL plans to introduce a special initiative for this purpose by the end of the month.
-
-However, the Director General emphasized that the new programme will not affect the mobile phones currently in use.
-
-...
-
-[Data](articles/c0c618da.json)
-
----
-
-### රාජ්‍ය සේවක වැටුප් වැඩිකිරීමට IMF විරෝධයක් නෑ
-
-*2025-01-09 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205199) · `si`
-
-එළැඹෙන අයවැයෙන් සැලකිය යුතු රාජ්‍ය සේවක වැටුප් වැඩිකිරීමක් සිදුකිරීමට නියමිත බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පවසයි.
-
-පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා විසින් අද (09) පාර්ලිමේන්තුවේ දී අසන ලද පැනයකට පිළිතුරු දෙමින් නියෝජ්‍ය අමාත්‍යවරයා මේ බව කියා සිටියේය.
-
-එමෙන්ම රාජ්‍ය සේවක වැටුප් වැඩිකිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදලේ කිසිදු විරෝධයක් නොමැති බව ද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
-
-"රු 25,000ක් කියලා නෑ. අපි ඉලක්කම බලාගමු. කලබල වෙන්න එපා. ලිහලා බලන්න තියෙන මල්ල ඔබලා බලන්න හදන්න එපා. රනිල් වික්‍රමසිංහ මහතා සැප්තැම්බර් 4 තැපැල් ඡන්දෙට පෙර කැබිනට් තීන්දුවක් ගත්තා මේ රටේ රාජ්‍ය සේවකයින්ගේ ඡන්දය ඉලක්ක කරගෙන. හැබැයි රාජ්‍ය සේවකයෝ හොඳ උත්තරයක් දුන්නා. ඒක රාජ්‍ය සේවකයින් මුලා කරන්න ඉදිරිපත් කරපු දෙයක් මිසක් ඇත්ත දෙයක් නෙමෙයි."
-
-◼️
-
-[Data](articles/d49b7a26.json)
-
----
-
-### අහුංගල්ලේ වෙඩි තැබිමකින් පුද්ගලයෙකුට තුවාල
-
-*2025-01-09 10:34:59* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ලේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-414106) · `si`
-
-අහුන්ගල්ලේ අද උදෑසන6.15 ට පමණ රතු පැහැති ස්කූටි වර්ගයේ බයිසිකලයකින් පැමිණි දෙදෙනකුගෙන්  නාඳුනන තුවක්කුකරුවකු තැබූ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා බලපිටිය  මූලික රෝහලට ඇතුළත් කර ඇතැයි අහුංගල්ල පොලිසිය කියයි.
-
-පරණ කෝන්තරයක් මත මෙම වෙඩි තැබීම සිදුකර ඇතැයි විශ්වාස කරන පොලිසිය වෙඩි තැබීමෙන් තුවාල ලබා ඇත්තේ අහුන්ගල්ලේ ලොකු පැටි නමැති අයගේ ඥාතියකු බව කියයි.සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා පොලිස් මෙහෙයුම් ක්‍රියාත්මක කෙරේ.
-
-◼️
-
-[Data](articles/0cc2f363.json)
-
----
-
-### ඥානසාර හිමිට ලිහිල් සිරදඬුවමක්
-
-*2025-01-09 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205198) · `si`
-
-ඉස්ලාම් දහමට අපහාස කිරීමේ චෝදනාවට  වරදකරු කෙරුණු බොදු බල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් මාස 09 ක ලිහිල් සිරදඬුවමක් නියම කර තිබේ.
-
-මීට අමතරව රුපියල් 1,500 ක දඩයක් නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා නියෝග කළේය.
-
-2016 වසරේ ජූලි මස 16 වනදා කිරුළපන ප්‍රදේශයේ පැවති මාධ්‍ය සාකච්ඡාවකදී "ඉස්ලාමය පිළිකාවක්.. එය අතුගා දමන්න ඕනේ." යනුවෙන් ප්‍රකාශ කිරීම තුළින් ජාතීන් අතර සංහිඳියාව උල්ලංගනය වන ආකාරයෙන් කටයුතු කළේ යැයි චෝදනා කරමින් දණ්ඩ නීති සංග්‍රහයේ 291 වගන්තිය යටතේ පොලීසිය විසින් ඥානසාර හිමියන්ට මෙම නඩුව ගොනු කර තිබුණි.
-
-◼️
-
-[Data](articles/c5fe3276.json)
-
----
-
-### காலி சிறைச்சாலைக்குள் வீசப்பட்ட பொதியிலிருந்து கையடக்கத் தொலைபேசிகள் மீட்பு!
-
-*2025-01-09 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203364) · `ta`
-
-காலி சிறைச்சாலைக்குள் வீசப்பட்ட பொதியிலிருந்து கையடக்கத் தொலைபேசிகள், தொலைபேசி சார்ஜர்கள், புகையிலை மற்றும் லைட்டர்கள் என்பன கைப்பற்றப்பட்டுள்ளதாக காலி பொலிஸார் தெரிவித்தனர்.
-
-இனந்தெரியாத நபரொருவர் காலி சிறைச்சாலையின் பின்புறத்தில் உள்ள கூரை வழியாக சிறைச்சாலைக்குள் பொதி ஒன்றை வீசியுள்ளார்.
-
-குறித்த பொதியிலிருந்து ஐந்து கையடக்கத் தொலைபேசிகள், மூன்று தொலைபேசி சார்ஜர்கள், நான்கு லைட்டர்கள் மற்றும் புகையிலைகள் என்பன சிறைச்சாலை அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/29ad1016.json)
-
----
-
-### Sri Lanka bond yields down ahead of auction, rupee weaker
-
-*2025-01-09 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-ahead-of-auction-rupee-weaker-198731/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 295.60/90 to the US dollar Thursday, weaker from yesterday’s close of 295.05/15 to the US dollar in the spot market, dealers said while bond yields fell.
-
-There were some petroleum payments which were covered, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 9.40/50 percent down from 9.40/45 percent.
-
-A bond maturing on 15.10.2027 was quoted at 9.75/85 unchanged from 9.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, down from 10.10/18 percent.
-
-A bond maturing on 15.10.2028 was quoted at 10.40/45 down from 10.45/52 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.25/30 down from 10.30/33 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.77/83 percent, steady from 10.75/82 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.00/05 percent, down from 11.00/15 percent. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/f02e766c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 22:43:47**
+As of **2025-01-09 23:03:28**
 
 ## Newspaper Stats
 
-*Scraped **64,596** Articles*
+*Scraped **64,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,193
-adaderanalk | 7,909
+adaderanalk | 7,911
 tamilmirrorlk | 9,269
 virakesarilk | 10,793
-adaderanasinhalalk | 11,153
+adaderanasinhalalk | 11,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,596 articles have been extended.
+61,973 (95.9%) of 64,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### වී අස්වනු මිලදී ගැනීමට සහනදායී ණයක්
+
+*2025-01-09 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205218) · `si`
+
+මහ කන්නයේ වී අස්වනු මිලදීගැනීම සඳහා සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන් සහ සමූපකාර සමිති වෙත සහනදායී පොළී අනුපාතයක් යටතේ ඔඩපණ ණය යෝජනා ක්‍රමයක් ක්‍රියාත්මක කරන බව සංවර්ධන මූල්‍ය දෙපාර්තමේන්තුව පවසයි.
+
+වී ගොවීන් වෙත සාධාරණ මිලක් ලබාදීමේ අරමුණින් 2024/2025 මහ කන්නයේ වී අස්වනු මිලදී ගැනීම මෙම ණය යෝජනා ක්‍රමයක් ආරම්භ කර ඇත.
+
+මෙහි ඉලක්කගත කණ්ඩායම් වනුයේ උපරිම දෛනික වී කෙටීමේ ධාරිතාවය මෙ.ටො. 25කට යටත්වන සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන් සහ සමූපකාර සමිතිය.
+
+කෙසේ නමුත් අදාළ රාජ්‍ය ආයතනයකින් ලබාගත් ව්‍යාපාර ලියාපදිංචි සහතිකයක් සියලු ණය ඉල්ලුම්කරුවන් සතුව පැවතිය යුතු බව සංවර්ධන මූල්‍ය දෙපාර්තමේන්තුව පවසයි.
+
+මෙම ණය යෝජනා ක්‍රමය යටතේ සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියකුට හෝ සමුපකාර සමිතියකට රු.මි. 50ක උපරිම ණය මුදලක් 7%ක වාර්ෂික පොළී අනුපාතයක් යටතේ ලබාගත හැකිය.
+
+මෙම ණය යෝජනා ක්‍රමය තෝරාගත් බැංකු කිහිපයක් හරහා ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇත.
+
+මෙම ණය යෝජනා ක්‍රමය යටතේ බැංකු හරහා නිදහස් කිරීමට නියමිත මුළු ණය මුදලේ වටිනාකම රු.මි. 10,000කි.
+
+...
+
+[Data](articles/13111b62.json)
+
+---
+
+### All five living US presidents unite at funeral of Jimmy Carter
+
+*2025-01-09 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104858/all-five-living-us-presidents-unite-at-funeral-of-jimmy-carter) · `en`
+
+All five living US presidents attended Jimmy Carter’s funeral at the National Cathedral in Washington, D.C., on Thursday, a rare occurrence that marks the first time the leaders have gathered publicly since 2018.
+
+President Biden, President-elect Donald Trump and former presidents Barack Obama, George W. Bush and Bill Clinton were attending the funeral service while Mr. Biden delivered a eulogy for the 39th president, who died on Dec. 29 at the age of 100.
+
+Mr. Biden and first lady Jill Biden were seated next to Vice President Kamala Harris and second gentleman Doug Emhoff in the first row Thursday for the funeral service. Clinton and former secretary of state Hillary Clinton were seated behind them, next to Bush and former first lady Laura Bush, Obama, Trump and former first lady Melania Trump. Obama and Trump could be seen talking and at times smiling before the service began. Former first lady Michelle Obama was not in attendance.
+
+...
+
+[Data](articles/e29858ae.json)
+
+---
+
+### Police reunite Sri Lankan mother with daughter in Pakistan and ensure custody
+
+*2025-01-09 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104857/police-reunite-sri-lankan-mother-with-daughter-in-pakistan-and-ensure-custody) · `en`
+
+In a commendable act, the Khyber Police in Khyber Pakhtunkhwa of Pakistan successfully reunited a Sri Lankan mother with her 25-year-old daughter and handed over custody to the mother, respecting the daughter’s choice.
+
+The Sri Lankan woman had married Agha Jan, a resident of Khyber, while they were in a Gulf country. The couple had a daughter, but later, the husband returned to Pakistan with the child. Concerned about her daughter’s well-being, the mother traveled to Pakistan and sought assistance from the Khyber Police.
+
+On the directive of the District Police Officer (DPO) of Khyber, a jirga was convened to resolve the matter. During the proceedings, the daughter was given the freedom to decide whom she wished to stay with. The daughter expressed her desire to go with her mother, and accordingly, custody was handed over.
+
+...
+
+[Data](articles/707566bb.json)
+
+---
+
+### කුසල් ශ්‍රේණිගත කිරීම්වලින් ස්ථාන 26ක් ඉදිරියට
+
+*2025-01-09 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205217) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (ICC) ඊයේ (8) ප්‍රකාශයට පත්කළ නවතම විස්සයි20 පිතිකරුවන් ශ්‍රේණිගත කිරීම අනුව ශ්‍රී ලංකාවේ කුසල් ජනිත් පෙරේරා 10වන ස්ථානය දක්වා ඉදිරියට පැමිණ සිටියි.
+
+කෙසේ නමුත් මෙම ශ්‍රේණිගත කිරීම් අතර පළමු දස දෙනා අතර සිටි පැතුම් නිස්සංක තවම එම ගෞරවය රැකගෙන සිටියි.
+
+කෙසේ නමුත් ඔහු එක් ස්ථානයක් පසුපසට ගොස් ඇති අතර, මේ වනවිට 7වැනි ස්ථානය හිමිව ඇත.
+
+මේ අතර ටෙස්ට් පිතිකරණ ශ්‍රේණිගත කිරීම්හි 7වැනි ස්ථානය දක්වා ඉදිරියට පැමිණීමට කමිඳු මෙන්ඩිස් සමත්ව සිටියි.
+
+එමෙන්ම ටෙස්ට් පන්දු යවන්නන් ශ්‍රේණිගත කිරීම්වල 7වන ස්ථානයේ ප්‍රභාත් ජයසූරිය හිමිකරගෙන සිටියි.
+
+◼️
+
+[Data](articles/d09c6cf3.json)
+
+---
+
+### ක්ෂුද්‍ර මූල්‍ය ණය නියාමන අධිකාරි පනත් කෙටුම්පතේ කමිටු වාර්තාව බාරදෙයි
+
+*2025-01-09 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205216) · `si`
+
+ක්ෂුද්‍ර මූල්‍ය ණය නියාමන අධිකාරි පනත් කෙටුම්පත පිළිබඳ සමාලෝචනය කිරීම සඳහා පත් කරන ලද කමිටුව, ඔවුන්ගේ කාර්යයන් අවසන් කරමින් එහි වාර්තාව මුදල් අමාත්‍යාංශය වෙත අද (9) භාරදීමට කටයුතු කළේය.
+
+නිසි නියාමන ක්‍රමවේදයකින් තොරව ක්ෂුද්‍ර මූල්‍ය ගනුදෙනු රට පුරා සිදු කිරීම මගින් එය විශාල ව්‍යසනයක් දක්වා ගමන් කර අතිවිශාල වින්දිතයන් ප්‍රමාණයක්  බිහිවිය.
+
+මේ හේතුවෙන් ඉකුත් 2023  වසරේ ඔක්තෝබර් 30වන දින ශ්‍රී ලංකා ක්ෂුද්‍ර මූල්‍ය ණය නියාමන අධිකාරී පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට පසුගිය රජය කටයුතු කර තිබිණි.
+
+එහෙත් එම පනත් කෙටුම්පත සම්පාදනය කිරීමේදී, එම පනතෙන් බලපෑමට ලක්වන පාර්ශ්වයන් හා නියමිත උපදේශනය අනුගමනය නොකොට පනත රැගෙන ආ බවට සමාජය තුළ විශාල කථිකාවක් ඇති විය.
+
+එහි ප්‍රතිඵලයක් ලෙස එම පනත් කෙටුම්පතට එරෙහිව ක්ෂුද්‍ර මූල්‍ය වින්දිතයන්, ප්‍රජා මූල සංවිධාන ඇතුළු සිවිල් නියෝජිතයන් විසින් ශ්‍රේෂ්ඨාධිකරණය වෙත මූලික අයිතිවාසිකම් පෙත්සම් 6ක් ඉදිරිපත් කෙරුණි.
+
+...
+
+[Data](articles/24ac48e8.json)
+
+---
 
 ### உலக அயலகத் தமிழர் தின விழா : பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் இந்தியா விஜயம்
 
@@ -994,8 +1090,6 @@ Details of the total expenditure by ministry are as follows:
 
 Meanwhile, the following expenses have been allocated under the Special Spending Unit.
 
-Appropriation Bill (E) 20250102 Eng by Adaderana Online on Scribd
-
 ◼️
 
 [Data](articles/40f1205f.json)
@@ -1723,105 +1817,5 @@ A bond maturing on 15.05.2030 was quoted at 11.00/05 percent, down from 11.00/15
 ◼️
 
 [Data](articles/f02e766c.json)
-
----
-
-### ඇල්ලේ ගිය ඉන්දීය ජාතිකයාට අකරතැබ්බයක්
-
-*2025-01-09 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205197) · `si`
-
-කොළඹ කොටුව සිට බදුල්ල දක්වා ධාවනය කළ මගී ප්‍රවාහන දුම්රියේ ගමන් කළ ඉන්දියානු ජාතිකයෙකුගේ අස්ථානගත වු ගමන් බෑගය පැය කිහිපයක් තුළ සොයා ගැනීමට හැටන් දුම්රිය ස්ථානයේ ස්ථානාධිපති ජානක ප්‍රනාන්දු මහතා සහ වටවල පොලීසියේ නිලධාරීන් සමත් වී තිබේ.
-
-ඇල්ල දක්වා ගමන්ගත් 39 හැවිරදි සංචාරකයා වටවල සහ හැටන් දුම්රිය ස්ථාන අතරදී සිය බෑගය අස්ථානගත වී ඇති බව දැනගෙන වහාම හැටන් දුම්රිය ස්ථානාධිපතිවරයාට පැමිණිලි කර ඇත.
-
-ඉන් අනතුරුව මේ සම්බන්ධයෙන් පොලීසිය දැනුවත් කර ඇති අතර, අස්ථානගතවූ ගමන් බෑගයට සමාන බෑගයක් අරගෙන දුම්රියට පැමිණි පුද්ගලයෙකු ගැන වටවල ප්‍රදේශයට ත්‍රිරෝද රථයකින් ගමන් කළ බවට තහවුරු වී තිබුණි.
-
-පසුව ඒ සම්බන්ධයෙන් අදාළ ත්‍රිරෝද රථ රියදුරු සොයාගෙන කරුණු විමසීමේ දී එවැනි බෑගයක් සහිත පුද්ගලයෙකු ගිනිගත්හේන සිට හැටන් දක්වා ධාවනය වූ ලංගම බස්රථයක නැග ගමන් කළ බවට තහවුරු වී ඇත.
-
-ඒ අනුව අදාළ බස් රථය ඩිපෝව තුළ නතර කර තිබිය දී සොයා ගෙන ඇති අතර, එහිදී විදේශිකයාගේ අත්බෑගය සොයාගැනීමට හැකිව තිබුණි.
-
-...
-
-[Data](articles/b9603ac8.json)
-
----
-
-### ඊශ්‍රායල් යන්න කලින් ශාරීරික පරීක්ෂණයට මුහුණ දුන් ශ්‍රමිකයින් පිරිසක් රෝහලට
-
-*2025-01-09 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205196) · `si`
-
-ඊශ්‍රායල් රාජ්‍යයේ කෘෂි ක්ෂේත්‍රයේ රැකියා සඳහා යොමු කිරීමේ අරමුණින් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් 2023 වසරේ නොවැම්බර් මාසයේ දී ශ්‍රී ලාංකික ශ්‍රමිකයින් පිරිසක් තෝරා ගෙන ඇති අතර එහි පළමු කණ්ඩායම 2023 වසරේ දෙසැම්බර් මාසයේ ඊශ්‍රායලය වෙත පිටත්කර යවා තිබේ.
-
-මේ ආකාරයෙන් තෝරාගත් තවත් 2,400ක පමණ වූ පිරිසක් සඳහා කාර්යාංශය විසින් උමන්දාව ඇතුළු ස්ථාන කිහිපයකදී ක්ෂේත්‍ර පුහුණුවක් ද ලබා දී ඇති අතර ඒ අතරින් 118 දෙනෙකු මේ වනවිටත් කාර්යාංශයට මුදල් ගෙවා ඊශ්‍රායල් රාජ්‍ය සමග ගිවිසුම්ද අත්සන් කර අවසන් බව සඳහන් වේ.
-
-එම පිරිසට මෙරටින් පිටත්ව යාමට නියමිතව තිබී ඇත්තේ ඉකුත් 06 වනදාය.
-
-නමුත් තවමත් එම පිරිසට මෙරටින් පිටත්ව යාමට නොහැකි වී ඇත්තේ කාර්යාංශය ඒ සඳහා අවශ්‍ය කටයුතු සිදුනොකිරීම හේතුවෙන් බවට අදාළ පිරස චෝදනා කරයි.
-
-එමනේම ඉහත සඳහන්  2,400 ක පිරිස ද සම්මුඛ පරීක්ෂණ සඳහා මුහුණ දී, අදාළ පුහුණුවීම නිමකර, වෛද්‍ය පරීක්ෂණ සඳහා ද යොමු කර අවසන්ව බව ඔවුන් පවසයි.
-
-ඊට අමතරව සම්මුඛ පරීක්ෂණ සඳහා මුහුණ දුන් තවත් 3,000 ක පමණ පිරිසක් ද සිටින බව අගතියට පත් වූ පිරිස සඳහන් කළේය.
-
-...
-
-[Data](articles/cd894a87.json)
-
----
-
-### உலக பத்திரிகை புகைப்பட கண்காட்சி நாளை கொழும்பில் ஆரம்பமாகிறது
-
-*2025-01-09 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/203362) · `ta`
-
-இரண்டு தசாப்தங்களுக்கு பின்னர் முதன்முதலில் இலங்கையில் நடைபெறவுள்ள உலக பத்திரிகை புகைப்பட கண்காட்சி நாளை கொழும்பில் ஆரம்பமாகவுள்ளது.
-
-2024 ஆம் ஆண்டுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சியை இலங்கை பத்திரிகை ஸ்தாபனம் நெதர்லாந்து தூதரகத்துடன் இணைந்து நடத்துகிறது.
-
-கொழும்பில் ஆர்கேட் சுதந்திர சதுக்கத்தில் இம்மாதம் 10 ஆம் திகதி முதல் 20 ஆம் திகதி வரை காலை 10.30 மணி முதல் இரவு 7.00 மணி வரை பார்வை கட்டணமின்றி இலவசமாக பார்வையிடலாம்.
-
-இதேவேளை, கொழும்பில் சினமன்  லைப் ஹோட்டலில் பெப்ரவரி மாதம் 8 ஆம் திகதி முதல் 10 ஆம் திகதி  வரை காலை 10.30 மணி முதல் இரவு 7.00 மணி வரை பார்வை கட்டணமின்றி இலவசமாக பார்வையிடலாம்.
-
-யாழ்ப்பாணத்தில் கலாசார மண்டபத்தில் இம்மாதம்  24 ஆம் திகதி முதல் 27 ஆம் திகதி வரையும், காலியில் மாநகர சபையில் இம்மாதம் 31 ஆம் திகதி முதல் பெப்ரவரி மாதம் 02 ஆம் திகதி வரை கண்காட்சியை இலவசமாக பார்வையிடலாம்.
-
-இலங்கையில் நடத்தப்படும் 2024 ஆம் ஆண்டிடுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சி தொடர்பாக  விளக்கமளிக்கும் ஊடக சந்திப்பு நேற்று புதன்கிழமை (08) கொழும்பிலுள்ள சினமன் லைப் ஹோட்டலில் நடைபெற்றது.
-
-...
-
-[Data](articles/d5da5171.json)
-
----
-
-### பல்வேறு திருட்டு சம்பவங்களுடன் தொடர்புடையவர் ஐஸ் போதைப்பொருளுடன் கைது!
-
-*2025-01-09 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203363) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவிற்கு உட்பட்ட சொய்சாபுர பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கல்கிசை குற்றப் புலனாய்வுப் பிரிவினரால் நேற்று புதன்கிழமை (08) கைது செய்யப்பட்டுள்ளார்.
-
-கல்கிசை குற்றப் புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் மொரட்டுவை, பிலியந்தலை மற்றும் மொரட்டுமுல்ல ஆகிய பொலிஸ் நிலையங்களில் பதிவாகியுள்ள ஏராளமான திருட்டு சம்பவங்களுடன் தொடர்புடையவர் என பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/37689a20.json)
-
----
-
-### Bolivia central bank running with US$50mn liquid reserves
-
-*2025-01-09 09:38:00* · [`economynextcom`](https://economynext.com/bolivia-central-bank-running-with-us50mn-liquid-reserves-198723/) · `en`
-
-ECONOMYNEXT – Bolivia had 1,976 million dollars of net international reserves with most of it made up of gold purchased from the domestic market by the end of December 2024, media reports quoting the central bank said.
-
-Net international reserves had increased to from 1,708 million dollars a year earlier. Most of it was made up of gold.
-
-Banco Central de Bolivia (BCB) had bought 14.54 tonnes of gold from the domestic market in 2024 and taken its total stocks to 22.37 tonnes. The BCB had refined 16.5 tonnes and were holding them in London as delivery quality bars.
-
-BCB only had 50 million dollars of liquid dollar reserves, its President Edwin Rojas was quoted as saying by Bolivia’s El Darion newspaper.
-
-The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million dollars through certificates of deposits. Another 39 million dollars had been obtained from public companies through the ‘repatriation of external resources’.
-
-...
-
-[Data](articles/cfca7ecd.json)
 
 ---

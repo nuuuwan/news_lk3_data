@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 19:05:24**
+As of **2025-01-09 19:15:53**
 
 ## Newspaper Stats
 
-*Scraped **64,575** Articles*
+*Scraped **64,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 6,188
 adaderanalk | 7,907
 tamilmirrorlk | 9,263
 virakesarilk | 10,789
-adaderanasinhalalk | 11,150
+adaderanasinhalalk | 11,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,575 articles have been extended.
+61,973 (96.0%) of 64,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### අමෙරිකාව අසරණකරන ළැව් ගින්න
+
+*2025-01-09 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205214) · `si`
+
+අමෙරිකාවේ ලොස් ඇන්ජලීස් අවට ඇති වූ ළැව් ගින්න මේ වනවිට හොලිවුඩ් කඳුකර ප්‍රදේශය දක්වා පැතිරී තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+හොලිවුඩ් කඳුකරයේ ගින්න වේගයෙන් ව්‍යාප්ත වෙමින් පවතින බවත්, එය පාලනය කිරීමට ඇති හැකියාව 'ශුන්‍ය' බවත් වාර්තා වේ.
+
+ලොස් ඇන්ජලීස් ඉතිහාසයේ වඩාත් විනාශකාරී ළැව් ගින්න ලෙසින් මෙය සැලකෙන අතර, මේ හේතුවෙන් පුද්ගලයින් පස් දෙනෙකු මියගොස් ඇති බවට මේ වනවිට තහවුරු වී ඇත.
+
+මෙම තත්ත්වය ලොස් ඇන්ජලීස්වලට අමතරව අසල්වැසි ප්‍රාන්තවලටද බලපා ඇති අතර, අවම වශයෙන් ළැව් ගිනි පහක් පැතිර යමින් පවතින බව වාර්තා වේ.
+
+කෙසේ නමුත් ඉන් ළැව් ගිනි තුනක් සම්පූර්ණයෙන්ම පාලනය කර නොමැති අතර, මේ හේතුවෙන් 137,000කට වැඩි පිරිසක් ඉවත් කිරීමට බලධාරීන් පියවරගෙන ඇත.
+
+පසුගිය අඟහරුවාදා ඇරඹුණු ළැව් ගින්න මේ වනතුරුම ඇවිලෙන්නේ නොනවතින සුළං ප්‍රවාහයත් සමගින්ය.
+
+ලොස් ඇන්ජලීස් නගරාධිපතිනි කරෙන් බාස් මෙම ළැව් ගින්න හඳුන්වා ඇත්තේ ගිනි කුණාටුවක් ලෙසින්ය.
+
+බලන බලන සෑම තැනකම ගින්න වන අතර, ඒ හේතුවෙන් නගරයට බියජනක ආලෝකයක් එක්කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+...
+
+[Data](articles/b788f8ad.json)
+
+---
 
 ### වයඹ පළාත් 10 ශ්‍රේණියේ ඉංග්‍රීසි ප්‍රශ්න පත්‍රයේත් දෝෂ
 
@@ -45,6 +71,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5d0f8632.json)
+
+---
+
+### ඩයනා ගමගේට එරෙහි නඩුව මාර්තු 05
+
+*2025-01-09 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205213) · `si`
+
+කූට ලේඛන ඉදිරිපත් කර විදේශ ගමන්බලපත්‍රයක් ලබා ගත්තේ යැයි චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන චෝදනා පත්‍රය අද (9) කොළඹ මහාධිකරණය හමුවේ කියවනු ලැබීය.
+
+මෙම නඩුව කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ කැඳවනු ලැබු අවස්ථාවේදී මෙම චෝදනා කියවාදීම සිදු කෙරුණි.
+
+ඉන් අනතුරුව එම චෝදනාවලට තමන් නිවැරදිකාරිය බව විත්තිකාර ඩයනා ගමගේ මහත්මිය සඳහන් කළාය.
+
+එහිදී විත්තිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ශානක රණසිංහ මහතා මූලික විරෝධතා මතුකරමින් මෙම නඩුවට පාදක වන ලියවිල්ල සකස් කොට ඇත්තේ 2003 වසරේ දී බව සඳහන් කළේය.
+
+එහෙත් ඊට අදාළව නඩු පවරනු ලැබුවේ 2024 වසරේ බව පෙන්වා දුන් ජනාධිපති නීතිඥවරයා, ඒ අනුව වසර 20කට වැඩි කාලයක් ගතවී ඇති හෙයින් අදාළ ලියවිල්ල සම්බන්ධයෙන් නඩු පැවරීමට නීතිමය හැකියාවක් නොමැති බවට තර්ක කළේය.
+
+ඉදිරිපත් වූ කරුණු සලකාබැලූ මහාධිකරණ විනිසුරුවරයා සඳහන් කළේ මෙම කරුණ නඩු විභාගයේදී සලකා බලන බවය.
+
+ඒ අනුව නඩුව මාර්තු මස 05 වනදා විභාගයට ගැනීමට  විනිසුරුවරයා නියෝග කළේය.
+
+◼️
+
+[Data](articles/02243028.json)
 
 ---
 
@@ -1789,41 +1839,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/5763ff2b.json)
-
----
-
-### Sri Lanka insurers raising motor insurance premia after depreciation: Fitch
-
-*2025-01-09 06:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurers-raising-motor-insurance-premia-after-depreciation-fitch-198697/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s insurers have been facing higher claim costs after high claims costs from currency depreciation, and are likely to further raise non-life insurance premiums, Fitch Ratings has said.
-
-“Underwriting performance has been under pressure since 2022, driven by inflationary pressures, rising administrative costs and increased claim costs due to higher spare part prices and medical costs from the depreciation of the Sri Lankan rupee,” Fitch Rating said in a report on Sri Lanka insurers.
-
-Sri Lanka’s central bank has won the legal powers under a new law to raise cost of living by 5 percent as year.
-
-Since the end of a civil war in particular it has printed money to cut rates and triggered serial currency crises eventually ending in sovereign default, critics have said.
-
-When a central bank prints money to cut rates and target its policy rate, food, energy and asset prices rise early and forex pressure also emerge, but services prices go up with a delay.
-
-...
-
-[Data](articles/a485f88a.json)
-
----
-
-### ඉතාලි හා රුමෙනියා රැකියා ජාවාරම්කරුවෙක් අල්ලයි
-
-*2025-01-09 06:50:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-හා-රුමෙනියා-රැකියා-ජාවාරම්කරුවෙක්-අල්ලයි/11-414105) · `si`
-
-ඉතාලියට හා රුමෙනියාවට යවන බව පවසමින් විශාල පිරිසකගෙන් මුදල් වංචාකරනලද  ලද හම්බන්තොට සමරකොන්වැව  ප්‍රදේශයේ පදිංචි  පුද්ගලයෙකු සල්ලි ලබාදුන් පිරිසකගේද මැදිහත්වීමෙන්  හම්බන්තොට මුලස්ථාන පොලිසිය විසින් පසුගිය 08 වනදා සවස අත්අඩංගුවට  ගෙන තිබේ.
-
-විදේශ රැකියා ලබාගැනීම සඳහා  අදාල සැකකරු හට මුදල් ලබාදුන් හම්බන්තොට, වීරකැටිය, හුංගම, අම්බලන්තොට, සූරියවැව, තිස්සමහාරාම ඇතුළු ප්‍රදේශයන්හි පදිංචි  08 දෙනෙකු පමණ හම්බන්තොට මූලස්ථාන පොලිසියට පසුගිය 08 වනදා වන විට පැමිණිලි කර තිබෙන බවයි පොලිසිය පවසා සිටියේ.
-
-කෙසේ නමුත් මුදල් ලබාදුන් පිරිස සඳහන් කරන්නේ  දිවයිනේ විවිධ ප්‍රදේශයන්හි පුද්ගලයින් විශාල පිරිසකගෙන් අදාළ සැකකරු රට රැකියා ලබාදෙන බව පවසමින් මුදල් ලබාගෙන ඇති බවයි.
-
-...
-
-[Data](articles/f9e00596.json)
 
 ---

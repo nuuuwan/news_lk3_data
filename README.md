@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 14:28:32**
+As of **2025-01-09 14:44:20**
 
 ## Newspaper Stats
 
-*Scraped **64,531** Articles*
+*Scraped **64,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 470
 colombotelegraphcom | 647
 bbccomsinhala | 675
 economynextcom | 3,933
-islandlk | 3,940
+islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,179
+adalk | 6,180
 adaderanalk | 7,898
 tamilmirrorlk | 9,260
 virakesarilk | 10,777
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,531 articles have been extended.
+61,973 (96.0%) of 64,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Curtain rises on ‘Battle of the NVOCCs’
+
+*2025-01-09 14:24:00* · [`islandlk`](http://island.lk/curtain-rises-on-battle-of-the-nvoccs/) · `en`
+
+The Sri Lanka Association of NVOCC Agents (SLANA) is gearing up to host the highly anticipated SLANA Sixes cricket tournament, titled “Battle of the NVOCCs,” on January 11. The event will take place at the prestigious MCA Grounds, Wijerama Mawatha, Colombo 7, starting at 8:00 a.m.
+
+This year’s tournament, a cornerstone in the maritime industry calendar, promises a day of sportsmanship, networking and camaraderie, bringing together professionals from Sri Lanka’s maritime and shipping sectors. Adding to the excitement, a top official from the maritime industry will grace the event as the chief guest, emphasizing the importance of NVOCC agents to the nation’s trade and shipping infrastructure.
+
+...
+
+[Data](articles/c72da858.json)
+
+---
 
 ### China’s Chongqing Airlines resumes flights to Sri Lanka
 
@@ -47,6 +61,18 @@ In 2024, China was the fifth largest generation market with 131,681 tourists.
 ◼️
 
 [Data](articles/0a70309a.json)
+
+---
+
+### 2025 අයවැය පළමුවර කියවීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කරයි
+
+*2025-01-09 13:47:14* · [`adalk`](https://www.ada.lk/breaking_news/2025-අයවැය-පළමුවර-කියවීම-සඳහා-පාර්ලිමේන්තුවට-ඉදිරිපත්-කරයි/11-414108) · `si`
+
+2025 වර්ෂය සඳහා රජයේ වියදම් ඇතුළත් රුපියල් බිලියන 4,218ක (රු.4,218,248,018,000) විසර්ජන පනත් කෙටුම්පත අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් අද (09දා) පාර්ලිමේන්තුවට ඉදිරිපත් කළාය.
+
+◼️
+
+[Data](articles/3d0c35af.json)
 
 ---
 
@@ -1769,37 +1795,5 @@ As part of the initiative, the newly developed website nirdc.gov.lk was also lau
 ◼️
 
 [Data](articles/723b2007.json)
-
----
-
-### வவுனியாவில் கிராம சேவகர் ஒருவர் பதவியில் இருந்து இடைநிறுத்தம்
-
-*2025-01-08 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/203354) · `ta`
-
-வவுனியா பிரதேச செயலக பிரிவுக்குட்பட்ட பகுதியில் கடமையாற்றிய கிராம சேவகர் ஒருவர் தனது கல்விச் சான்றிதழை உறுதிப்படுத்த தவறியமையால் சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளார்.
-
-கடந்த 2018 ஆம் ஆண்டு கிராம சேவகராக நியமனம் பெற்ற ஒருவர் தனது மூன்று வருட நிறைவில் பதவியினை உறுதிப்படுத்த வேண்டும்.  குறித்த பதவியினை மூன்று வருடம் கடந்தும் தாமதாக கடந்த வருடமே குறித்த கிராம அலுவலர் உறுதிப்படுத்த நடவடிக்கை எடுத்துள்ளார்.
-
-இதன்போது குறித்த கிராம அலுவலர் நியமனத்திற்காக சமர்ப்பித்த க.பொ.த சாதாரண தர மற்றும் உயர்தரப் பரீட்சைப் பெறுபேற்றை பரீட்சை திணைக்களத்தால் உறுதிப்படுத்த முடியவில்லை.
-
-◼️
-
-[Data](articles/37b0f3c2.json)
-
----
-
-### தமிழரசுக் கட்சியின் பாரளுமன்ற உறுப்பினர்களுக்கும் அமெரிக்க தூதுவர்க்குமிடையிலான சந்திப்பு!
-
-*2025-01-08 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203353) · `ta`
-
-08ஆம் திகதி புதன்கிழமை இலங்கைத் தமிழரசுக் கட்சியின் பாரளுமன்ற உறுப்பினர்களுக்கும் அமெரிக்க தூதுவர் யூலி சங் அவர்களுக்குமிடையிலான சந்திப்பு இடம்பெற்றது.
-
-இலங்கையில் வாழும் தமிழ் மக்கள் குறிப்பாக வடக்கு கிழக்கு மாகாணங்களில் வாழும் மக்கள் எதிர்கொள்ளும் அரசியல் பொருளாதார சவால்கள் தொடர்பாக இதன் போது கலந்துரையாடப்பட்டது.
-
-இலங்கையில் நிரந்தரமான அரசியல் தீர்வு ஏற்பட அமெரிக்காவின் தொடர்சியான பங்களிப்பின் முக்கியத்துவம் தேவையென எடுத்துரைக்கப்பட்டது. அதனுடன் பொருளாதார மேம்பாட்டுக்கான திட்டங்கள் தொடர்பிலும் ஆராயப்பட்டது.
-
-◼️
-
-[Data](articles/8595aef7.json)
 
 ---

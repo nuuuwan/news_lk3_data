@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 16:18:42**
+As of **2025-01-09 16:28:05**
 
 ## Newspaper Stats
 
-*Scraped **64,561** Articles*
+*Scraped **64,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,181
+adalk | 6,182
 adaderanalk | 7,905
 tamilmirrorlk | 9,263
 virakesarilk | 10,785
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,561 articles have been extended.
+61,973 (96.0%) of 64,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### ඇල්ල ඔඩිසි හා දුන්හිද ඔඩිසි මහනුවරින් ඇරඹීමට අවධානය
+
+*2025-01-09 16:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ඔඩිසි-හා-දුන්හිද-ඔඩිසි-මහනුවරින්-ඇරඹීමට-අවධානය/11-414110) · `si`
+
+දෙස් විදෙස් සංචාරකයන්ගේ වැඩිම ඉල්ලුමක් සහ ආකර්ෂණයක් ඇති උඩරට දුම්රිය මාර්ගයේ කොළඹ සිට බදුල්ල දක්වා දිවෙන ඇල්ල ඔඩිසි සහ දුන්හිඳ ඔඩිසි දුම්රිය දෙක නැවතත් මහනුවරින් ආරම්භ කිරීමට දුම්රිය දෙපාර්තමේන්තුවේ අවධානය යොමුව තිබේ.
+
+මෙම දුම්රිය ගමන් දෙක මුලදී මහනුවරින් ආරම්භ වුවද සංචාරකයන්ගේ පහසුව සඳහා කොළඹින් ආරම්භ කිරීමට පියවර ගෙන තිබුණත් විදේශිකයන් පැය දහයක් පමණ කාලයක් දුම්රියේ ගමන් කිරීමට අකමැති වීමත් ඒ හරහා සිදු කෙරන මහා පරිමාණ ප්‍රවේශපත්‍ර වංචාව වැළැක්වීමටත් මහනුවරින් නැවතත් එය ආරම්භ කිරීමෙන් හැකිවන බවට දුම්රිය බලධාරීන්ගේ මතය වී තිබේ.
+
+මෙම දුම්රිය ගමන් දෙක සඳහා විදේශිකයන් බොහෝ විට එක් වන්නේ මහනුවරින් බවද දුම්රිය බලධාරීන් පවසයි.
+
+මෙම දුම්රිය ගමන් දෙකේදී මහා පරිමාණ ප්‍රවේශපත්‍ර මාෆියාවක් ක්‍රියාත්මක වන බවත් මෙහි එක් ගමනක් සඳහාදින 30කට පෙර ප්‍රවේශපත්‍ර කලින් ලියාපදිංචිය ආරම්භ කරන අතර පෙරවරු 10.00 ට ප්‍රවේශපත්‍ර ලියාපදිංචිය ආරම්භ කිරීමෙන් අනතුරුව පෙරවරු 10.05 පමණ වන විට සියලු ප්‍රවේශපත්‍ර අලෙවි වී හමාරවන බවද ඒ තුළින් මෙම මාෆියාව තේරුම් ගත හැකි වන බවද දුම්රිය බලධාරීහු පවසති.
+
+...
+
+[Data](articles/1edb3d71.json)
+
+---
 
 ### Debt for nature swaps can lower Sri Lanka’s financial burden: IPS
 
@@ -1807,25 +1825,5 @@ Accordingly, Acting IGP Priyantha Weerasooriya has instructed Police Divisions i
 ...
 
 [Data](articles/1bde0ff3.json)
-
----
-
-### Govt. to deport Rohingya people if they are victims of human trafficking
-
-*2025-01-09 05:42:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-deport-Rohingya-people-if-they-are-victims-of-human-trafficking/56-771619) · `en`
-
-Public Security Minister Ananda Wijepala says investigations so far reveal they are illegal immigrants, not refugees
-
-Reveals another scandal of bringing over 100,000 Rohingya people to SL
-
-Confirms if they are refugees, they will be provided all humanitarian assistance
-
-The Public Security Ministry yesterday confirmed that over 100 Rohingya people rescued and currently held in Mullaitivu will be deported if they are proven to be victims of a human trafficking scandal.
-
-On 19 December 2024, the Sri Lanka Navy apprehended a multi-day trawler carrying 115 Rohingya people, including 25 children, from Myanmar, which drifted towards the coast of Mullivaikkal in Mullaitivu.
-
-...
-
-[Data](articles/6b72d39c.json)
 
 ---

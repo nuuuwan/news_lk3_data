@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 12:44:19**
+As of **2025-01-09 13:13:53**
 
 ## Newspaper Stats
 
-*Scraped **64,520** Articles*
+*Scraped **64,522** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 470
-colombotelegraphcom | 646
+colombotelegraphcom | 647
 bbccomsinhala | 674
 economynextcom | 3,929
 islandlk | 3,940
@@ -18,7 +18,7 @@ dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,178
 adaderanalk | 7,898
-tamilmirrorlk | 9,256
+tamilmirrorlk | 9,257
 virakesarilk | 10,777
 adaderanasinhalalk | 11,143
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.1%) of 64,520 articles have been extended.
+61,973 (96.0%) of 64,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### உலக பத்திரிகை புகைப்பட  கண்காட்சி நாளை ஆரம்பமாகிறது
+
+*2025-01-09 12:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பத்திரிகை-புகைப்பட-கண்காட்சி-நாளை-ஆரம்பமாகிறது/175-350036) · `ta`
+
+இலங்கையில் இரண்டு தசாப்தங்களுக்கு பின்னர் முதன் முதலில் நடைபெற உள்ள உலக பத்திரிகை புகைப்பட கண்காட்சி  கொழும்பில் வெள்ளிக்கிழமை (10) ஆரம்பமாகவுள்ளது.
+
+2024 ஆம் ஆண்டுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சியை இலங்கை பத்திரிகை ஸ்தாபனம் நெதர்லாந்து தூதரகத்துடன் இணைந்து நடத்துகிறது.
+
+கொழும்பில் ஆர்கேட் சுதந்திர சதுக்கத்தில் இம்மாதம் 10 ஆம் திகதி முதல் 20 ஆம் திகதி வரை காலை 10.30 மணி முதல் இரவு 7.00 மணி வரை கட்டணமின்றி இலவசமாக பார்வையிடலாம்.
+
+யாழ்ப்பாணத்தில் கலாச்சார மண்டபத்தில் இம்மாதம் 24 ஆம் திகதி முதல் 27 ஆம் திகதி வரையும், காலியில் மாநகர சபையில் இம்மாதம் 31 ஆம் திகதி முதல் பெப்ரவரி மாதம் 02 ஆம் திகதி வரை கண்காட்சியை இலவசமாக பார்வையிடலாம்.
+
+இலங்கையில் நடத்தப்படும் 2024 ஆம் ஆண்டுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சி தொடர்பாக விளக்கமளிக்கும் ஊடக சந்திப்பு புதன்கிழமை (08) கொழும்பிலுள்ள சினமன் லைப் ஹோட்டலில் நடைபெற்றது.
+
+...
+
+[Data](articles/7fcfbba0.json)
+
+---
 
 ### ரோஹிங்யா மக்களுக்கு தொடர்ந்து அடைக்கலம் வழங்கவும்-UNHCR
 
@@ -1170,6 +1190,18 @@ There are disagreements over the amount of land and housing that plantation work
 
 ---
 
+### The Requirement Of Land For Housing For The Plantation Community In Sri Lanka
+
+*2025-01-09 05:37:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-requirement-of-land-for-housing-for-the-plantation-community-in-sri-lanka/) · `en`
+
+There are disagreements over the amount of land and housing that plantation workers need to live on, but this needs to be agreed upon. It is also believed that there won’t be enough land to operate the plantation industry if workers are given houses and land. We really want those who have this opinion to think about the following.
+
+...
+
+[Data](articles/bdae3bf3.json)
+
+---
+
 ### Modi’s Fragile Balancing Act: India’s Democratic Erosion & Its Geopolitical Dilemma
 
 *2025-01-09 05:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-fragile-balancing-act-indias-democratic-erosion-its-geopolitical-dilemma/) · `en`
@@ -1753,35 +1785,5 @@ Furthermore, the Japanese ambassador also said that he hopes to expedite the con
 ...
 
 [Data](articles/fd8057ef.json)
-
----
-
-### பயங்கரவாத தடைச்சட்டத்தை அரசாங்கம் ஏன் இதுவரை நீக்காமலுள்ளது - சஜித்
-
-*2025-01-08 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/203334) · `ta`
-
-எதிர்கட்சியில் இருக்கும்போது பயங்கரவாத தடைச்சட்டத்தை எதிர்த்துவந்த அரசாங்கம் அதனை நீக்குவதற்கு ஏன் இன்னும் நடவடிக்கை எடுக்கமல் இருக்கிறது என கேட்கிறேம். இந்த சட்டத்தை இரத்துச் செய்வதா அல்லது அதற்கான திருத்தத்தைக் கொண்டு வருவதா என்பது குறித்தான அரசாங்கத்தின் நிலைப்பாட்டை தெரிவிக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (08) நிலையியற் கட்டளை 27 2 இன் கீழ் கேள்வி  நேரத்தின் கேள்வி கேட்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-பயங்கரவாத தடைச்சட்டம் அப்போது நாட்டில் இருந்துவந்த பிரிவினைவாத பயங்கரவாத யுத்தத்தை கட்டுப்படுத்தும் நோக்கில் 1979ஆம் ஆண்டு தற்காலிக சட்டமாக ஏற்படுத்தப்பட்டதாகும். இன்றாகும்போது 3தசாப்தகால சிவில் யுத்தம் முடிவுக்கு வந்து 15 வருடங்களாகியுள்ளபோதும்  தொடர்ந்து இந்த பயங்கரவத தடைச்சட்டத்தை தொடர்ந்தும் முன்னெடுத்துச்செல்வது கேள்விக்குறிய விடயமாகும்.
-
-...
-
-[Data](articles/40fbe096.json)
-
----
-
-### தைப்பொங்கலை முன்னிட்டு தேங்காய், பச்சை அரிசியின் விலையை குறையுங்கள் - இராதாகிருஸ்ணன் அரசாங்கத்திடம் வலியுறுத்தல்
-
-*2025-01-08 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/203335) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க எதிர்வரும் 13 ஆம் திகதி சீனாவுக்கு சென்று அங்கு பொங்கல் பண்டிகை  கொண்டாடவுள்ளதாக குறிப்பிடப்படுகிறது.  தைப்பொங்கல் தமிழர்களுக்கு முக்கியமானதாகும். ஆகவே பச்சையரிசி மற்றும் தேங்காய் ஆகியவற்றை குறைந்த விலைக்கு வழங்குவதற்கு நடவடிக்கை எடுக்குமாறு அமைச்சர் சந்திரசேகர் அரசாங்கத்திடம் வலியுறுத்த வேண்டும் என ஐக்கிய மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர் இராதாகிருஸ்ணன்  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை  (08) நடைபெற்ற  இறக்குமதி மற்றும் ஏற்றுமதிக் கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி, வெளிநாட்டுச் செலாவணிச் சட்டத்தின் கீழான கட்டளைகள், கொடுப்பனவு மற்றும் தீர்ப்பனவு முறைமைகள் சட்டத்தின் கீழான ஒழுங்குவிதி, சீட்டாட்டத் தொழில் (ஒழுங்குபடுத்தல்) சட்டத்தின் கீழான ஒழுங்குவிதி, துறைமுகங்கள் மற்றும் விமான நிலையங்கள் அபிவிருத்தி அறவீட்டுச் சட்டத்தின் கீழான கட்டளை, கொழும்பு துறைமுக நகர பொருளாதார ஆணைக்குழு சட்டத்தின் கீழான ஒழுங்கு விதி மீதான விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/94e7c8d5.json)
 
 ---

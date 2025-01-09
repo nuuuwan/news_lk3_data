@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 21:27:54**
+As of **2025-01-09 21:44:30**
 
 ## Newspaper Stats
 
-*Scraped **64,594** Articles*
+*Scraped **64,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,191
+adalk | 6,192
 adaderanalk | 7,909
 tamilmirrorlk | 9,269
 virakesarilk | 10,793
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,594 articles have been extended.
+61,973 (95.9%) of 64,595 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -307,6 +307,22 @@ The paediatrician also pointed out worrying trends in childhood health condition
 ...
 
 [Data](articles/8c8ee11e.json)
+
+---
+
+### නීතියට ක්‍රියාත්මක කරවීමට අවශ්‍ය තැන් වලට අත තියනවා
+
+*2025-01-09 18:09:32* · [`adalk`](https://www.ada.lk/breaking_news/නීතියට-ක්‍රියාත්මක-කරවීමට-අවශ්‍ය-තැන්-වලට-අත-තියනවා/11-414121) · `si`
+
+නීතියට අත නොතබන මුත් නීතිය ක්‍රියාත්මක කිරීම සඳහා කිසිදු භේදයකින් තොරව අනිකුත් තැන්වලට අත තැබීමට පසුබට නොවන බව කෘෂිකර්ම, වාරිමාර්ග, පශු සම්පත් හා ඉඩම් අමාත්‍ය කේ.ඩී ලාල්කාන්ත මහතා පවසයි.
+
+රටේ පැවති දේශපාලන සංස්කෘතිය වෙනස්කර යහපත් දේශපාලන සංස්කෘතියක් ගොඩනගා ගැනීමේ විශාල වුවමනාවක් ජනතාවට තිබුණු බවත් ලැබුණු ජනවරමට අනුව අදාළ වෙනස් කම් සිදු කිරීමට කටයුතු කරන බවත් ඒ මහතා පැවසීය .
+
+කුමන හෝ වෘත්තියක නිරත කණ්ඩායමක් අපට අත නොතියා අනෙක් අයට අත තබා රට වෙනස් කිරීම සුදුසු යැයි සිතන්නේ නම් එය වරදක් බවත්, එසේ සිදුකර රට ගොඩනැගිය නොහැකි බව ඔවුන් තේරුම් ගත යුතු බවත් ඇමැතිවරයා පැවසුවේය.තමන් හමුවී සිදු කළ සාකච්ඡාවකදී මාධ්‍යවේදීන් අමතා ලාල්කාන්ත මහතා මේ බව පැවසීය.ඔහු වැඩි දුරටත් මෙසේද පැවසීය.
+
+...
+
+[Data](articles/3c5481b3.json)
 
 ---
 
@@ -1811,15 +1827,5 @@ The BCB said also raised 268 million US dollar through BCB Bonds, and 79 million
 ...
 
 [Data](articles/63dc1a4c.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
-
-*2025-01-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205195) · `si`
-
-◼️
-
-[Data](articles/efa83bae.json)
 
 ---

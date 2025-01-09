@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 19:30:04**
+As of **2025-01-09 19:44:08**
 
 ## Newspaper Stats
 
-*Scraped **64,580** Articles*
+*Scraped **64,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,513
 dailymirrorlk | 4,733
 adalk | 6,188
 adaderanalk | 7,907
-tamilmirrorlk | 9,266
+tamilmirrorlk | 9,267
 virakesarilk | 10,789
 adaderanasinhalalk | 11,152
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,152
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,580 articles have been extended.
+61,973 (96.0%) of 64,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### வரியை மாற்றினால் வாகனங்களின் விலைகளும் மாறும்
+
+*2025-01-09 19:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரியை-மாற்றினால்-வாகனங்களின்-விலைகளும்-மாறும்/175-350051) · `ta`
+
+வாகன இறக்குமதிக்கு தற்போது விதிக்கப்பட்டுள்ள வரி வரம்புகள் மாற்றப்பட்டால், சந்தையில் வாகனங்களின் விற்பனை விலைகளும் மாறும் என்று இலங்கை வாகன இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+அரசாங்கம் வரி விகிதங்களை அதிகரித்தால், வாகன விலைகள் தானாகவே அதிகரிக்கும் என்றும், வரி விகிதங்கள் குறைக்கப்பட்டால், வாகன விலைகள் குறையும் என்றும் அவர்கள் கூறினர்.
+
+தற்போது சந்தையில் உள்ள ஒரு உள்நாட்டு ஜப்பானிய காருக்கு விதிக்கப்படும் வரி அதன் உற்பத்தி விலையில் தோராயமாக 300% என்று தெரிவிக்கப்படுகிறது.
+
+இருப்பினும், வாகன இறக்குமதி மீண்டும் தொடங்கப்பட்டதன் மூலம் விலைகள் இயல்பு நிலைக்குத் திரும்பும் என்று இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/c92337d0.json)
+
+---
 
 ### ”என்ன செய்தாலும் தம்பியை விடுவிக்க மாட்டோம்”
 
@@ -1815,23 +1833,5 @@ It is reported that the shooting victim is employed as a three-wheeler driver an
 ◼️
 
 [Data](articles/995a2f59.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-01-09 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104837/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-Several spells of showers will occur in Northern, North-central, Eastern and Uva provinces and in Matale and Nuwara-Eliya districts, says the Meteorology Department.
-
-Showers or thundershowers may occur at a few places in Sabaragamuwa and Southern provinces and in Kaluthara and Kandy districts during the afternoon or night, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces and in Kurunegala district during the morning.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/28c84267.json)
 
 ---

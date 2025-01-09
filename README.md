@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 05:52:23**
+As of **2025-01-09 06:14:26**
 
 ## Newspaper Stats
 
-*Scraped **64,449** Articles*
+*Scraped **64,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
 islandlk | 3,940
-dailyftlk | 4,504
+dailyftlk | 4,508
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
@@ -26,11 +26,87 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.2%) of 64,449 articles have been extended.
+61,973 (96.2%) of 64,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Govt. will bring killers of Lasantha Wickrematunge to book soon – Justice Minister
+
+*2025-01-09 05:49:46* · [`dailyftlk`](https://www.ft.lk/news/Govt-will-bring-killers-of-Lasantha-Wickrematunge-to-book-soon-Justice-Minister/56-771622) · `en`
+
+Says Govt. respects independence of judiciary, AG’s Department, prosecuting authorities
+
+At a time marking the 16th anniversary of the brutal assassination of the former Editor of the Sunday Leader Lasantha Wickrematunge, the National People’s Power (NPP) Government assured bringing the killers to book soon.
+
+Justice Minister Harshana Nanayakkara said in Parliament yesterday that justice for Wickrematunge’s murder must be done and the Government is committed to do him justice.
+
+Responding to an inquiry by MP Rauff Hakeem on pending cases of killing and torturing journalists, Nanayakkara said inquiries were going in the right direction and they would be handled in the correct way.
+
+“The NPP Government always respects the independence of the judiciary, Attorney General’s Department and related prosecuting authorities. We will facilitate the process,” he said.
+
+...
+
+[Data](articles/01e58d64.json)
+
+---
+
+### PM denies approving Israeli religious and cultural centres to function
+
+*2025-01-09 05:46:51* · [`dailyftlk`](https://www.ft.lk/news/PM-denies-approving-Israeli-religious-and-cultural-centres-to-function/56-771621) · `en`
+
+Assures in Parliament action will be taken against unauthorised centres soon
+
+SJB MP Mujibur Rahman alleges Govt. providing 24-hour Police and STF security for such centres
+
+Prime Minister Dr. Harini Amarasuriya yesterday said that the Government had not granted any approval to construct any Israeli religious and cultural centres and would take action against such constructions soon.
+
+“Regarding the Arugam Bay issue, we have provided security following intelligence information, but we have not provided security for any entity to construct any centres or places. If there are so, they are unauthorised constructions,” the PM said, replying to a query raised by Samagi Jana Balawegaya (SJB) MP Mujibur Rahman at Parliament.
+
+She confirmed that the Buddhasasana, Religious and Cultural Affairs Ministry or the departments under the Ministry had not granted permission for such construction of Israeli religious centres.
+
+...
+
+[Data](articles/3333d80c.json)
+
+---
+
+### Acting IGP orders investigation into over 1,000 candidates for election spending violations
+
+*2025-01-09 05:43:04* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-orders-investigation-into-over-1-000-candidates-for-election-spending-violations/56-771620) · `en`
+
+The Acting Inspector General of Police (IGP) yesterday ordered an investigation into 1,042 candidates and 197 party Secretaries and independent group leaders who failed to declare campaign financing for the 2024 General Election.
+
+Under the Election Expenditure Regulation Act, No. 03 of 2023, all political parties, independent groups, or candidates are required to submit their income and expenditure reports to the District Returning Officers within 21 days of the election results being announced.
+
+Accordingly, Acting IGP Priyantha Weerasooriya has instructed Police Divisions in the relevant electoral districts to begin investigations, whilst ordering all Senior DIGs, DIGs, and Divisional Officers to prepare reports on these investigations and submit them to the Attorney General for legal advice by 31 January.
+
+...
+
+[Data](articles/1bde0ff3.json)
+
+---
+
+### Govt. to deport Rohingya people if they are victims of human trafficking
+
+*2025-01-09 05:42:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-deport-Rohingya-people-if-they-are-victims-of-human-trafficking/56-771619) · `en`
+
+Public Security Minister Ananda Wijepala says investigations so far reveal they are illegal immigrants, not refugees
+
+Reveals another scandal of bringing over 100,000 Rohingya people to SL
+
+Confirms if they are refugees, they will be provided all humanitarian assistance
+
+The Public Security Ministry yesterday confirmed that over 100 Rohingya people rescued and currently held in Mullaitivu will be deported if they are proven to be victims of a human trafficking scandal.
+
+On 19 December 2024, the Sri Lanka Navy apprehended a multi-day trawler carrying 115 Rohingya people, including 25 children, from Myanmar, which drifted towards the coast of Mullivaikkal in Mullaitivu.
+
+...
+
+[Data](articles/6b72d39c.json)
+
+---
 
 ### Strategic initiative to establish commercial approach to R&D
 
@@ -1781,73 +1857,5 @@ The boundary is the world’s longest between two countries and it was establish
 ◼️
 
 [Data](articles/a1adadc5.json)
-
----
-
-### Gem Sri Lanka - 2025 ප්‍රදර්ශනය ජනපතිගේ ප්‍රධානත්වයෙන් ඇරඹෙයි
-
-*2025-01-08 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205167) · `si`
-
-"Gem Sri Lanka - 2025" මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  බෙන්තොට පුද්ගලික හෝටලයේදී අද (08) පෙරවරුවේ ආරම්භ විය.
-
-චීන කොටුව මැණික් හා ස්වර්ණාභරණ වෙළෙඳ සංගමය වාර්ෂිකව සංවිධානය කරන එම ප්‍රදර්ශනය අද සිට ජනවාරි 10 වෙනිදා දක්වා පැවැත්වේ.
-
-"Gem Sri Lanka - 2025" මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය විවෘත කළ ජනාධිපතිවරයා ප්‍රදර්ශන කුටි නිරීක්‍ෂණයටද එක්වූ අතර, මැණික් කර්මාන්තකරුවන් මුහුණ දී සිටින ගැටලු පිළිබඳව සාකච්ඡා කරමින් ඔවුන් සමඟ සුහද කතාබහක ද නිරත විය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා "Gem Sri Lanka - 2025" ප්‍රදර්ශනයේ සංවිධායක මණ්ඩලය සමඟ සමූහ ඡායාරූපයකටද පෙනී සිටියේය.
-
-මෙවර "Gem Sri Lanka - 2025" ප්‍රදර්ශනය ප්‍රදර්ශන කුටි 103 කින් සමන්විත අතර, මේ සඳහා දෙස් විදෙස් ගැනුම්කරුවන් විශාල පිරිසක් එක්ව සිටීම විශේෂත්වයකි.
-
-...
-
-[Data](articles/4934a6cf.json)
-
----
-
-### ‘Unbundling’ of electricity sector to figure in sweeping energy reforms
-
-*2025-01-08 13:26:00* · [`islandlk`](http://island.lk/unbundling-of-electricity-sector-to-figure-in-sweeping-energy-reforms/) · `en`
-
-In a bold move that promises to reshape Sri Lanka’s energy future, the Ministry of Energy has confirmed the initiation of sweeping reforms to modernize the country’s electricity sector, inclusive of the ‘unbundling’ of the sector into three distinct functions.
-
-Spearheaded by the newly formed Power Sector Reforms Secretariat (PSRS), these reforms aim to create a sustainable, competitive, and people-centric energy landscape, laying the groundwork for a new era in energy generation, transmission and distribution.
-
-At the helm of these reforms is Eng. Pubudu Niroshan Hedigallage, the newly appointed Director General of PSRS. A veteran energy policy expert, Hedigallage previously played a pivotal role in the creation of Sri Lanka’s Energy Policy Framework 2024.
-
-...
-
-[Data](articles/a706b9d3.json)
-
----
-
-### 2026 සිට විභාග කාලසටහන සාමාන්‍ය තත්ත්වයට
-
-*2025-01-08 13:21:28* · [`adalk`](https://www.ada.lk/breaking_news/2026-සිට-විභාග-කාලසටහන-සාමාන්‍ය-තත්ත්වයට/11-414086) · `si`
-
-2026 වර්ෂය ආරම්භයේ සිට විභාග දෙපාර්තමේන්තුව මගින් පවත්වනු ලබන විභාග සැලැස්ම පෙර පැවති පරිදි සාමාන්‍ය තත්ත්වයට පත්කර ගැනීමට හැකියාව තිබෙන බව අග්‍රාමාත්‍ය ආචාර්ය හරිණි අමරසූරිය පැවසීය.
-
-◼️
-
-[Data](articles/cd0dc6f9.json)
-
----
-
-### கடவுச்சீட்டு விநியோகத்தில் சிக்கல்
-
-*2025-01-08 13:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-விநியோகத்தில்-சிக்கல்/175-349983) · `ta`
-
-கடவுச்சீட்டுகளை விநியோகிப்பதில் தற்போது சிக்கல் நிலை ஏற்பட்டுள்ளதாக வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.
-
-வெளிவிவகார அமைச்சில் செவ்வாய்க்கிழமை (07)  இலத்திரனியல் தொழில்நுட்பத்தை அறிமுகப்படுத்தும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனை குறிப்பிட்டுள்ளார்.
-
-அவர் மேலும் தெரிவிக்கையில்:  இலங்கையர்களுக்கு தற்போது விநியோகிக்கப்பட்டு வரும் 7.இலட்சத்து 50ஆயிரம்  க்கும் அதிகமான கடவுச்சீட்டுக்கு மேலதிகமாக புதிய கடவுச்சீட்டுக்கள் வழங்கப்பட வேண்டும்.
-
-கடவுச்சீட்டுக்கான முன்பதிவுகளை மேற்கொண்டு சிலர் ஐந்து முதல் ஆறு மாதங்களாகக் காத்திருக்கின்றனர். அச்சிடும் பணிகள் புதிய நிறுவனம் ஒன்றிற்கு வழங்கப்பட்டதை அடுத்து இந்த நெருக்கடி நிலை ஏற்பட்டுள்ளது.
-
-கொள்கை ரீதியாகக் கடந்த அரசாங்கம் முன்னர் மேற்கொண்ட தவறான தீர்மானமே இந்த நெருக்கடி நிலைக்குக் காரணம். இதேவேளை வெற்றுக் கடவுச்சீட்டுக்கான கொள்வனவு கட்டளையை முன்வைக்க நடவடிக்கை எடுக்கப்படும்.
-
-...
-
-[Data](articles/ba26d9ee.json)
 
 ---

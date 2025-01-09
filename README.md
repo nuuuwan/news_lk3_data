@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 10:44:09**
+As of **2025-01-09 11:02:35**
 
 ## Newspaper Stats
 
-*Scraped **64,483** Articles*
+*Scraped **64,487** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 470
-colombotelegraphcom | 643
+colombotelegraphcom | 644
 bbccomsinhala | 674
 economynextcom | 3,925
 islandlk | 3,940
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,174
+adalk | 6,176
 adaderanalk | 7,891
-tamilmirrorlk | 9,249
+tamilmirrorlk | 9,250
 virakesarilk | 10,770
 adaderanasinhalalk | 11,138
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.1%) of 64,483 articles have been extended.
+61,973 (96.1%) of 64,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### 2025ற்கான முன்கூட்டிய ஒதுக்கீட்டு சட்டமூலம் இன்று
+
+*2025-01-09 10:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025ற்கான-முன்கூட்டிய-ஒதுக்கீட்டு-சட்டமூலம்-இன்று/175-350024) · `ta`
+
+2025 ஆம் ஆண்டுக்கான முன்கூட்டிய ஒதுக்கீட்டு சட்டமூலம் முதலாம் வாசிப்புக்காக இன்று பாராளுமன்றில் முன்வைக்கப்படவுள்ளது.
+
+இரண்டாவது வாசிப்பு எனப்படும் பாதீட்டு உரை எதிர்வரும் பெப்ரவரி 17 ஆம் திகதி இடம்பெறவுள்ளது.
+
+இரண்டாம் வாசிப்பு மீதான விவாதம் எதிர்வரும் பெப்ரவரி மாதம் 18 ஆம் திகதி முதல் 25 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+
+முன்கூட்டிய ஒதுக்கீட்டு சட்டமூலத்தின் மூன்றாம் வாசிப்பு மீதான வாக்கெடுப்பு எதிர்வரும் மார்ச் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/1985fb74.json)
+
+---
 
 ### ඇල්ලේ ගිය ඉන්දීය ජාතිකයාට අකරතැබ්බයක්
 
@@ -593,6 +611,20 @@ Surge in Chronic Obstructive Pulmonary Diseases affecting around 10-15% of popul
 ...
 
 [Data](articles/6b872587.json)
+
+---
+
+### Modi’s Fragile Balancing Act: India’s Democratic Erosion & Its Geopolitical Dilemma
+
+*2025-01-09 05:15:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/modis-fragile-balancing-act-indias-democratic-erosion-its-geopolitical-dilemma/) · `en`
+
+A shadow of discord crept to form a year ago between the United States and India, ignited by whispers of an assassination plot in New York. The accusations, though improbable, revealed underlying tensions between two purported allies. Not long after, Gautam Adani, a billionaire industrialist and confidant of Indian Prime Minister Narendra Modi, found himself ensnared in controversy. Accused of orchestrating $250 million in bribes to secure energy contracts, Adani’s empire—once touted as a cornerstone of India’s economic rise—faced an unrelenting reckoning.
+
+What followed was a predictable symphony of denial. The Bharatiya Janata Party (BJP) lashed out, accusing Washington’s “deep state” of plotting to destabilize India. Baseless claims filled the air, portraying not defiance but fragility. Modi, once celebrated as a master of geopolitical navigation, now appeared increasingly insulated by propaganda, drifting further from democratic principles he once professed to champion.
+
+...
+
+[Data](articles/4b75d71f.json)
 
 ---
 
@@ -1758,60 +1790,20 @@ All maturities are available on tap at the weighted average yield. (Colombo/Jan0
 
 ---
 
-### IGP orders probe into over 1,000 candidates over election expenditure violations
+### මැතිවරණ අයවැය වාර්තා නොදුන් 1239ට නීතිය
 
-*2025-01-08 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104831/igp-orders-probe-into-over-1000-candidates-over-election-expenditure-violations) · `en`
+*2025-01-08 16:36:19* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-අයවැය-වාර්තා-නොදුන්-1239ට-නීතිය/11-414095) · `si`
 
-The Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
+මැතිවරණ වියදම් නියාමන පනතට අනුව පාර්ලිමේන්තු මැතිවරණයට ඉදිරිපත් වී ආදායම් වියදම් වාර්තා ලබා නොදුන් 1,239ක් පිළිබඳව පොලීසිය නෛතික කටයුතු ආරම්භ කර තිබේ.
 
-Under the Election Expenditure Regulation Act, No. 03 of 2023, all political parties, independent groups, or candidates are required to submit their financial reports to the District Returning Officers within 21 days of the election results being announced.
+අදාළ වාර්තා නියමිත දිනට භාර නොදුන් අපේක්ෂකයන් 1,042කගේ හා පක්ෂ ලේකම්වරුන් හා ස්වාධීන කණ්ඩායම නායකයන් 197ක් පිළිබඳව විස්තර වාර්තාවක් මැතිවරණ කොමිෂන් සභාව විසින් පොලිස්පතිවරයා වෙත යොමු කර ඇත.
 
-Accordingly, Acting IGP Priyantha Weerasooriya has instructed police divisions in the relevant electoral districts to begin investigations.
+මේ අනුව වගඋත්තරකරුවන්ට අදාළ මැතිවරණ කොට්ඨාසවල අයත් පොලිස් අපරාධ විමර්ශන කාර්යාංශ මගින් නීති දිසාව භාර නියෝජ්‍ය පොලිස්පතිගේ අධීක්ෂණ යටතේ විමර්ශන ආරම්භ කිරීමට පොලිස්පතිවරයා විසින් උපදෙස් ලබා දී තිබේ.
 
-Additionally, the police chief has ordered all Senior DIGs, DIGs, and Divisional Officers to prepare reports on these investigations and submit them to the Attorney General for legal advice by January 31, 2025.
-
-...
-
-[Data](articles/7d23ed99.json)
-
----
-
-### Sri Lanka stocks up for first time in four sessions; banks lead
-
-*2025-01-08 16:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-for-first-time-in-four-sessions-banks-lead-198591/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange indices rose on Wednesday, bucking a falling trend in the last three sessions, data on its site showed.
-
-Market has been on the downward trend for the past three sessions through Tuesday after peaking repeatedly following the finalization of Sri Lanka’s debt restructuring deal in mid December.
-
-The broader ASPI closed up 0.63 percent or 99.37 points at 15,954.01; while the more liquid S&P SL20 Index closed up 0.57 percent or 27.12 points at 4,816.10.
-
-“Renewed buying interest is pushing the market up,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
-
-“We saw short profit taking in the last three days, but the upward trend will continue” he said referring to the market recovery.
-
-Analysts say more investors are shifting their money to stocks from fixed-income assets after President Anura Kumara Dissanayake doubled withholding tax on interest income. Returns on stock investments are tax free.
+මේ අනුව කොට්ඨාස භාර නිලධාරීන් විසින් මේ මස 31වන දිනට ප්‍රථම එකී විමර්ශනවලට අදාළ උද්ධෘත සකස් කර නීතිපති උපදෙස් ලබා ගැනීමට යොමු කරන ලෙස පොලිස්පතිතුමා විසින් සියලුම ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ට, නියෝජ්‍ය පොලිස්පතිවරුන්ට හා කොට්ඨාස භාර නිලධාරීන්ට උපදෙස් ලබා දුන් බවද පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
 
 ...
 
-[Data](articles/53bc9c3a.json)
-
----
-
-### ආදයම් වියදම් වාර්තා නොදුන් අපේක්ෂකයින්ට නීතිය ක්‍රියාත්මක කිරීමට උපදෙස්
-
-*2025-01-08 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205175) · `si`
-
-2024 මහ මැතිවරණය හා අනුගත මැතිවරණයන්හි ආදයම් වියදම් වාර්තා භාර නොදුන් අපේක්ෂකයින් සම්බන්ධයෙන් නෛතික කටයුතු ආරම්භ කිරීම සඳහා වැඩබලන පොලිස්පතිවරයා විසින් උපදෙස් ලබාදී ඇත.
-
-ආදයම් වියදම් වාර්තාභාර දීමට මෙතෙක් ක්‍රියා නොකළ අපේක්ෂකයින් 1042කගේ සහ පක්ෂ ලේකම්වරු මෙන්ම ස්වාධීන කණ්ඩායම් නායකයන් 197 දෙනෙකු සම්බන්ධයෙන් විස්තර වාර්තාවක් මේ වනවිට මැතිවරණ කොමිෂන් සභාව විසින් වැඩබලන පොලිස්පතිවරයා වෙත යොමු කර තිබේ.
-
-මෙම වගඋත්තරකරුවන්ට, අදාළ මැතිවරණ කොට්ඨාසවලට අයත් පොලිස් කොට්ඨාසයන්හි, කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශ මගින් නියෝජ්‍ය පොලිස්පති නීති දිසාවගේ අධීක්ෂණය යටතේ මෙම විමර්ශන ආරම්භ කරනු ලබයි.
-
-ඒ අනුව කොට්ඨාස භාර නිලධාරීන් විසින් 2025.01.31 වන දිනට ප්‍රථම එකී විමර්ශනවලට අදාළ උධෘත සකස් කොට නීතිපති උපදෙස් ලබා ගැනීමට වැඩබලන පොලිස්පතිවරයා විසින් සියළුම ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්, නියෝජ්‍ය පොලිස්පතිවරුන් හා කොට්ඨාස භාර නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
-
-...
-
-[Data](articles/59e850a0.json)
+[Data](articles/ae94b43b.json)
 
 ---

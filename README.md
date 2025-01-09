@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 16:28:05**
+As of **2025-01-09 16:45:55**
 
 ## Newspaper Stats
 
-*Scraped **64,562** Articles*
+*Scraped **64,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,935
 islandlk | 3,941
 dailyftlk | 4,513
 dailymirrorlk | 4,733
-adalk | 6,182
+adalk | 6,183
 adaderanalk | 7,905
 tamilmirrorlk | 9,263
 virakesarilk | 10,785
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (96.0%) of 64,562 articles have been extended.
+61,973 (96.0%) of 64,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### කුරුණෑගල මහේස්ත්‍රාත්ගෙන් පොලීසියට දොස්
+
+*2025-01-09 16:17:16* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගල-මහේස්ත්‍රාත්ගෙන්-පොලීසියට-දොස්/11-414111) · `si`
+
+ජනාධිපතිවරණය අවසන් වී මාස හතරක් ගත වූ පසු ජනාධිපතිවරණ පනත උල්ලංඝනය කරමින් පොස්ටර් ඇලවූ බවට චෝදනා කරමින් පුද්ගලයින් අත්අඩංගුවට ගෙන උසාවියට ඉදිරිපත් කරන්නේ කාගේ හොද හිතා දිනා ගන්නද? යනුවෙන් පොලිසියෙන් ප්‍රශ්ණ කල කුරුණෑගල මහේස්ත්‍රාත් බන්ධුල ගුණරත්න මහතා සැකකරුවන් ජනාධිපතිවරණ පනත උල්ලංඝණය කරමින් පෝස්ටර් ඇලවුවානම් මෙතෙක් ඔවුන් අත්අඩංගුවට නොගත්තේ කාට බයේද? යනුවෙන් විමසුවේය.
+
+පසුගිය ජනාධිපතිවරණ සමයේදී හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ මැතිවරණ පෝස්ටර් ඇලවූ බව කියමින් එක්සත් ජාතික පක්ෂයේ කුරුණෑගල ප්‍රධාන සංවිධානයකවරයා සහ කුරුණෑගල මැතිවරණ මෙහෙයුම් කළමණාකරුකුරුනෑගල පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කල අවස්ථාවේදී කුරුණෑගල මහේස්ත්‍රාත් බන්ධුල ගුණරත්න මහතා කුරුණෑගල පොලිසියේ නිලධාරීන්ගෙන් මෙලෙස විමසා සිටියේය.
+
+සැකකරුවන් රිමාන්ඩ් බාරයට පත් කරන්නැයි පොලිසිය කළ ඉල්ලීම ප්‍රතික්‍ෂෙප කළ මහේස්ත්‍රාත්වරයා රුපියල් 50,000/- බැගින් වටිනා ඇපකරුවන්ගේ ශරීර ඇප මත සැකකරුවන් මුදා හැරීමට නියෝග කළේය.
+
+...
+
+[Data](articles/9cb4897a.json)
+
+---
 
 ### ඇල්ල ඔඩිසි හා දුන්හිද ඔඩිසි මහනුවරින් ඇරඹීමට අවධානය
 
@@ -536,7 +552,7 @@ Deputy Minister Mahinda Jayasinghe further commented, “We didn’t say Rs. 25,
 
 ---
 
-### Sri Lanka to do state imports of coconut kernels amid crop shortfall
+### Sri Lanka state imports of coconut kernels after crop shortfall
 
 *2025-01-09 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-do-state-imports-of-coconut-kernels-amid-crop-shortfall-198750/) · `en`
 
@@ -1809,21 +1825,5 @@ She confirmed that the Buddhasasana, Religious and Cultural Affairs Ministry or 
 ...
 
 [Data](articles/3333d80c.json)
-
----
-
-### Acting IGP orders investigation into over 1,000 candidates for election spending violations
-
-*2025-01-09 05:43:04* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-orders-investigation-into-over-1-000-candidates-for-election-spending-violations/56-771620) · `en`
-
-The Acting Inspector General of Police (IGP) yesterday ordered an investigation into 1,042 candidates and 197 party Secretaries and independent group leaders who failed to declare campaign financing for the 2024 General Election.
-
-Under the Election Expenditure Regulation Act, No. 03 of 2023, all political parties, independent groups, or candidates are required to submit their income and expenditure reports to the District Returning Officers within 21 days of the election results being announced.
-
-Accordingly, Acting IGP Priyantha Weerasooriya has instructed Police Divisions in the relevant electoral districts to begin investigations, whilst ordering all Senior DIGs, DIGs, and Divisional Officers to prepare reports on these investigations and submit them to the Attorney General for legal advice by 31 January.
-
-...
-
-[Data](articles/1bde0ff3.json)
 
 ---

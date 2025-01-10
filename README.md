@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 05:52:43**
+As of **2025-01-10 06:16:57**
 
 ## Newspaper Stats
 
-*Scraped **64,630** Articles*
+*Scraped **64,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 647
 bbccomsinhala | 676
 economynextcom | 3,940
 islandlk | 3,941
-dailyftlk | 4,524
+dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,630 articles have been extended.
+61,973 (95.9%) of 64,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### A sad sorry sordid tale of two lands – and one stateless people
+
+*2025-01-10 05:37:33* · [`dailyftlk`](https://www.ft.lk/columns/A-sad-sorry-sordid-tale-of-two-lands-and-one-stateless-people/4-771664) · `en`
+
+That this unfortunate community was criminally exploited for hundreds of years by British and then Ceylonese, as well as Sri Lankan plantation companies later, is a public secret; as is the fact that these Tamils were discriminated against by colonial and native governments
+
+As the Hindus of Sri Lanka mark Thai Pongal this week, it would be of interest to examine the nexus between those who celebrate the multi-day harvest festival, others who don’t, and their common as well as disparate histories harking back to colonial times.
+
+Ergo, a two part piece that focuses on the tale of one of these two ethnicities and the skein of history weaving them both into what is often perceived as a single community.
+
+The upcountry Tamils of Sri Lanka constitute an interesting case study in terms of their historical origin, socio-cultural development or ostensible absence thereof, and contribution to the political life of the island nation-state.
+
+...
+
+[Data](articles/7d903670.json)
+
+---
+
+### Tiger “Col.” Charles was mastermind behind Katunayake Airport attack
+
+*2025-01-10 05:28:23* · [`dailyftlk`](https://www.ft.lk/columns/Tiger-Col-Charles-was-mastermind-behind-Katunayake-Airport-attack/4-771663) · `en`
+
+The Long Range Reconnaissance Patrol (LRRP) was a specialised military intelligence unit of the Sri Lankan army that was deployed by the State against the Liberation Tigers of Tamil Eelam (LTTE) during the armed conflict. Sri Lanka’s Long Range Reconnaissance Patrol (LRRP) was known in Sinhala as the “Digu Dura Vihidum Balakaya” and in Tamil as the “Aazha Ooduruvithaakkum Padaiyani”. It was also called the Deep Penetration Unit (DPU) and
+
+The LRRP was basically utilised for black ops. A black operation or black op is a covert or clandestine operation by a government agency, a military unit or a paramilitary organisation. Key features of a black operation are that it is secret and is not attributable to the organisation carrying it out. The usage of specialised military intelligence units to assassinate the enemy has been practised by different states and different armies in different situations.
+
+...
+
+[Data](articles/9506002d.json)
+
+---
 
 ### Sri Lanka – from crisis to confusion
 
@@ -1785,49 +1817,5 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 ◼️
 
 [Data](articles/df025840.json)
-
----
-
-### உலக பத்திரிகை புகைப்பட  கண்காட்சி நாளை ஆரம்பமாகிறது
-
-*2025-01-09 12:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பத்திரிகை-புகைப்பட-கண்காட்சி-நாளை-ஆரம்பமாகிறது/175-350036) · `ta`
-
-இலங்கையில் இரண்டு தசாப்தங்களுக்கு பின்னர் முதன் முதலில் நடைபெற உள்ள உலக பத்திரிகை புகைப்பட கண்காட்சி  கொழும்பில் வெள்ளிக்கிழமை (10) ஆரம்பமாகவுள்ளது.
-
-2024 ஆம் ஆண்டுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சியை இலங்கை பத்திரிகை ஸ்தாபனம் நெதர்லாந்து தூதரகத்துடன் இணைந்து நடத்துகிறது.
-
-கொழும்பில் ஆர்கேட் சுதந்திர சதுக்கத்தில் இம்மாதம் 10 ஆம் திகதி முதல் 20 ஆம் திகதி வரை காலை 10.30 மணி முதல் இரவு 7.00 மணி வரை கட்டணமின்றி இலவசமாக பார்வையிடலாம்.
-
-யாழ்ப்பாணத்தில் கலாச்சார மண்டபத்தில் இம்மாதம் 24 ஆம் திகதி முதல் 27 ஆம் திகதி வரையும், காலியில் மாநகர சபையில் இம்மாதம் 31 ஆம் திகதி முதல் பெப்ரவரி மாதம் 02 ஆம் திகதி வரை கண்காட்சியை இலவசமாக பார்வையிடலாம்.
-
-இலங்கையில் நடத்தப்படும் 2024 ஆம் ஆண்டுக்கான உலக பத்திரிகை புகைப்பட கண்காட்சி தொடர்பாக விளக்கமளிக்கும் ஊடக சந்திப்பு புதன்கிழமை (08) கொழும்பிலுள்ள சினமன் லைப் ஹோட்டலில் நடைபெற்றது.
-
-...
-
-[Data](articles/7fcfbba0.json)
-
----
-
-### பேரழிவு மற்றும் திகிலூட்டும் இரவுகள் ; லொஸ் ஏஞ்சல்ஸ் காட்டு தீ
-
-*2025-01-09 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203378) · `ta`
-
-லொஸ் ஏஞ்சல்ஸின் பல பகுதிகளில் வேகமாக பரவிவரும் காட்டுதீ காரணமாக ஐந்து பேர் உயிரிழந்துள்ளனர்.
-
-காட்டுதீயில் சிக்குண்டு 1500க்கும் மேற்பட்ட கட்டிடங்கள் இந்த பகுதியில் முற்றாக எரிந்து சாம்பலாகியுள்ளன.
-
-காற்றின் வேகம் குறைவடைந்துள்ளதால் தீயணைப்பு படையினர் நிம்மதியடைந்துள்ள போதிலும் ஆபத்து இன்னமும் முடிவிற்கு வரவில்லை.
-
-ஹொலிவூட் ஹில்ஸ் பகுதியில் புதிதாக காட்டுதீ மூண்டுள்ளதாக  தெரிவித்துள்ள அதிகாரிகள் லொஸ் ஏஞ்சல்ஸின் சன்டா மொனிகாவில் வசிக்கும் மக்களையும் அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டுள்ளனர்.
-
-பசுபிக் கரை  முதல் பசெடானா வரையில் உள்ள பகுதிகளை சேர்ந்த மக்களே பாதுகாப்பாக வெளியேற்றப்பட்டுள்ளனர்.
-
-நாங்கள் இன்னமும் ஆபத்தான நிலையிலிருந்து விடுபடவில்லை என லொஸ் ஏஞ்சல்ஸின் தீயணைப்பு பிரிவின் தலைவர் கிறிஸ்டின் எம் குரோலி தெரிவித்துள்ளார்.
-
-ஒரு சக்திவாய்ந்த காற்று புயல் இயற்கை எழில் கொஞ்சும் பசுபிக்கின் பாலிசோட்ஸ் சுற்றுப்புறத்தில் தீப்பிழப்புகளை மூண்டெழச்செய்த போது ஆயிரக்கணக்காணவர்கள் அங்கிருந்து தப்பி விரைவாக வெளியேறவேண்டிய நிலை உருவானது.
-
-...
-
-[Data](articles/18de2b8d.json)
 
 ---

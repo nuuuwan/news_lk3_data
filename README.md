@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 14:44:39**
+As of **2025-01-10 15:02:51**
 
 ## Newspaper Stats
 
-*Scraped **64,699** Articles*
+*Scraped **64,701** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 472
-colombotelegraphcom | 648
+colombotelegraphcom | 649
 bbccomsinhala | 677
 economynextcom | 3,945
 islandlk | 3,953
@@ -18,7 +18,7 @@ dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,201
 adaderanalk | 7,916
-tamilmirrorlk | 9,287
+tamilmirrorlk | 9,288
 virakesarilk | 10,811
 adaderanasinhalalk | 11,167
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.8%) of 64,699 articles have been extended.
+61,973 (95.8%) of 64,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### பொங்கலுக்கு அரிசி கேட்டு ஆர்ப்பாட்டம்
+
+*2025-01-10 14:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொங்கலுக்கு-அரிசி-கேட்டு-ஆர்ப்பாட்டம்/76-350102) · `ta`
+
+அரிசித் தட்டுப்பாட்டை நிவர்த்தி செய்வதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான அரசாங்கம் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என வலியுறுத்தி அக்கரப்பத்தனை மன்றாசி நகரில் வர்த்தகர்கள் வெள்ளிக்கிழமை (10) கவனயீர்ப்பு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+அக்கரப்பத்தனை, மன்றாசி நகர வர்த்தகர்கள் இந்த ஆர்ப்பாட்டத்தை ஏற்பாடு செய்திருந்தனர். இதன்போது, நகர வர்த்தகர்கள், பொதுமக்கள் கலந்து கொண்டு சுலோகங்களை ஏந்தியவாறு எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டனர்.
+
+அரிசிக்கு கட்டுப்பாட்டு விலை விதிக்கப்பட்டுள்ளதால் அதனை உரிய வகையில் நுகர்வோருக்கு விற்க முடியாத சூழ்நிலை ஏற்படுவதாகவும், இதனால் சிறு வர்த்தகர்கள் பெரிதும் பாதிக்கப்படுவதாக போராட்டத்தில் ஈடுபட்டவர்கள் தெரிவித்தனர்.
+
+நாட்டில் தைப்பொங்கல் வருகிறது. இதற்கு பொங்கல் பொங்குவதற்கு சிவப்பு அரிசி உள்ளிட்ட அரிசி வகைகள் தேவைப்படுகிறது. எனினும், அரிசி தட்டுப்பாடு நிலவுகிறது.
+
+கட்டுப்பாட்டு விலைக்கு தான் எங்களுக்கு அரிசி வழங்கப்படுகிறது. இவ்வாறு கட்டுப்பாட்டு விலையை மீறினால் நடவடிக்கை எடுக்கப்படும் என அதிகாரிகள் எச்சரிக்கை விடுகின்றனர்.
+
+...
+
+[Data](articles/8ccd0524.json)
+
+---
 
 ### பாட்டலிக்கு விதிக்கப்பட்ட பயணத்தடை தற்காலிகமாக நீக்கம்
 
@@ -447,6 +467,18 @@ New concerns over a slowing economy – which can reduce tax revenues and boost 
 ◼️
 
 [Data](articles/3013a14a.json)
+
+---
+
+### This Is Not An Expansion Of The Tax Net But An Expansion Of The Net Of Inefficiency
+
+*2025-01-10 09:16:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/this-is-not-an-expansion-of-the-tax-net-but-an-expansion-of-the-net-of-inefficiency/) · `en`
+
+On December 18, 2024 the President Anura Kumara Dissanayake announced in Parliament a series of tax changes. Some taxes were increased while the other taxes were decreased. Those changes were revision of personal income tax, increase in withholding tax on interest from 5% to 10%, imposition of VAT of 18% on digital services, Removal of export service exemption on income tax and tax them at 15%,   Increasing the corporate tax rates on betting, tobacco and liquor industries from 40% to 45%,   grant exemptions to locally produced liquid milk and yogurt industries on VAT which is 18%,increase stamp duty on leases from 1% to 2%. Continuing SVAT system contrary to the agreement with the IMF, and removal of vehicle import restrictions.
+
+...
+
+[Data](articles/bba56796.json)
 
 ---
 
@@ -1791,49 +1823,5 @@ The paediatrician also pointed out worrying trends in childhood health condition
 ...
 
 [Data](articles/bc2e7ea5.json)
-
----
-
-### රාජ්‍ය සේවකයන්ට සැලකිය යුතු වැටුප් වැඩිවීමක්
-
-*2025-01-09 18:23:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ට-සැලකිය-යුතු-වැටුප්-වැඩිවීමක්/11-414124) · `si`
-
-එළැඹෙන අයවැයෙන් ජීවන තත්ත්වය සැලකිල්ලට ගෙන රාජ්‍ය සේවකයන්ගේ සැලකිය යුතු වැටුප් වැඩි  සිදු කරන බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පැවසීය.
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක  මහතා වාචික පිළිතුරු අපේක්ෂාවෙන් ඊයේ(09දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-එම වැඩි කිරීම රුපියල් 25,000ක් ද නැද්ද යන්න පිළිබඳ අයවැය වනතෙක් ප්‍රකාශ කළ නොහැකි බවද අමාත්‍යවරයා පැවසීය.
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – සමස්ත වියදමින් 33%ක් යනවා රජයේ සේවක පඩි සහ පෙන්ෂන්වලට. ඔබතුමන්ලා පඩි වැඩි කරනවා කියනවා. මේකත් එක්ක ඔබතුමන්ලා කොහොමද මේ ප්‍රශ්නය නිරාකරණය කරන්න යන්නේ?
-
-කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ – අපි දැනටමත් ප්‍රකාශ කරලා තියෙනවා එළැඹෙන අයවැයේදී රාජ්‍ය සේවකයන්ට සැලකිය යුතු වැටුප් වැඩිවීමක් සිදු කරනවා පවතින ජීවන තත්ත්වයත් එක්ක.
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – පඩි වැඩි කිරීම සිදු කරනවා?
-
-...
-
-[Data](articles/8c8ee11e.json)
-
----
-
-### ජනපතිවරයාගේ වැය ශීර්ෂය රු.බි.3.6කින් අඩුවෙයි
-
-*2025-01-09 18:18:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයාගේ-වැය-ශීර්ෂය-රු-බි-3-6කින්-අඩුවෙයි/11-414123) · `si`
-
-2024 වර්ෂය සඳහා ඉදිරිපත් කළ අයවැයට වඩා 2025 වර්ෂය සඳහා ඉදිරිපත් කළ අයවැයේ රුපියල් බිලියන 358ක වෙනසක් දක්නට ලැබේ.
-
-එහිදී පසුගිය රජය විසින් 2024 වර්ෂ සඳහා රුපියල් බිලියන 3860ක විසර්ජන පනත් කෙටුම්පතක් ඉදිරිපත් කළ අතර, වත්මන් රජය 2025 වර්ෂ සඳහා ඊයේ (09දා) රුපියල් බිලියන 4,218ක විසර්ජන පනතක් ඉදිරිපත් කළේය.
-
-පසුගිය රජය සමයේ අමාත්‍යාංශ 29ක් පැවති අතර, වර්තමාන රජය යටතේ අමාත්‍යාංශ 24ක් පවතී.
-
-2024 අයවැයේ ජනාධිපතිවරයාගේ වැය ශීර්ෂය සඳහා රුපියල් බිලියන 6.60ක් (රු.6,601,150,000) අයවැයෙන් වෙන් කළ අතර, 2025 අයවැයේ ජනාධිපතිවරයාගේ වැය ශීර්ෂය සඳහා රුපියල් බිලියන 2.99ක් (රු.2,992,980,000) වෙන්කර ඇත.
-
-ඒ අනුව 2024 වඩා 2025 වර්ෂයේ අයවැය මගින් ජනාධිපතිවරයාගේ වැය ශීර්ෂය සඳහා වෙන් කළ මුදල රුපියල් බිලියන 3.6කින් (3.608,170,000) අඩු කර තිබේ.
-
-මේ අතර 2024 වසරේ අයවැයෙන් රුපියල් බිලියන 886.1ක් ලෙස වැඩිම මුදල වෙන්කර තිබෙනුයේ රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයට වන අතර, 2025 වසරේ අයවැයෙන් රුපියල් බිලියන 714ක් මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශයට වෙන්කර ඇත.
-
-...
-
-[Data](articles/48011009.json)
 
 ---

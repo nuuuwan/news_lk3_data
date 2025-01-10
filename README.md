@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 07:32:47**
+As of **2025-01-10 08:07:40**
 
 ## Newspaper Stats
 
-*Scraped **64,635** Articles*
+*Scraped **64,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,202 @@ dbsjeyarajcom | 471
 colombotelegraphcom | 647
 bbccomsinhala | 677
 economynextcom | 3,940
-islandlk | 3,941
+islandlk | 3,952
 dailyftlk | 4,526
 dailymirrorlk | 4,733
-adalk | 6,193
+adalk | 6,194
 adaderanalk | 7,911
 tamilmirrorlk | 9,273
-virakesarilk | 10,804
-adaderanasinhalalk | 11,156
+virakesarilk | 10,805
+adaderanasinhalalk | 11,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,635 articles have been extended.
+61,973 (95.9%) of 64,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### Pan Asia Bank honors longstanding staff at special awards night
+
+*2025-01-10 07:49:00* · [`islandlk`](http://island.lk/pan-asia-bank-honors-longstanding-staff-at-special-awards-night/) · `en`
+
+Pan Asia Bank proudly celebrated the dedication and commitment of its longstanding employees at a special awards night organized by the Pan Asia Bank HR Department. This prestigious event was a testament to the invaluable contributions of the Bank’s staff, whose unwavering service has been instrumental in driving the organization’s success.
+
+The evening brought together employees from various branches across the country and departments to honor those who have completed 15, 20, and 25 plus years of service. The event featured heartfelt speeches, token presentations, and entertainment, creating a memorable occasion to recognize the achievements of Pan Asia Bank’s exceptional long standing team members.
+
+...
+
+[Data](articles/f5948cdc.json)
+
+---
+
+### Profit-takings arrest share market uptick, triggering steep decline
+
+*2025-01-10 07:48:00* · [`islandlk`](http://island.lk/profit-takings-arrest-share-market-uptick-triggering-steep-decline/) · `en`
+
+The stock market yesterday witnessed a steep decline due to profit- takings by local and foreign investors after recording an upward trend in the market in the last few weeks, stock market analysts said.Amid those developments both indices moved downwards. The All Share Price Index went up by 161.3 points while S and P SL20 declined by 6.4 points. Turnover stood at Rs 4.1 billion with four crossings.
+
+Those crossings were reported in JKH, which crossed 9.5 million shares crossed to the tune of Rs 228 million; its shares traded at Rs 94, Lion Brewery 80000 shares crossed for Rs 104 million; its shares traded at Rs 1210, Melstacope 250,000 shares crossed for Rs 31.25 million; its shares sold at Rs 125, Seylan Bank 500,000 shares crossed for Rs 29.5 million; its shares traded at Rs 59.
+
+...
+
+[Data](articles/465db8ec.json)
+
+---
+
+### BOC’s international ratings further upgraded two notches by Fitch
+
+*2025-01-10 07:48:00* · [`islandlk`](http://island.lk/bocs-international-ratings-further-upgraded-two-notches-by-fitch/) · `en`
+
+Bank of Ceylon’s (BOC) Long-Term Foreign and Local Currency Issuer Default Ratings (IDRs) have been upgraded to ‘CCC+’ from ‘CCC-’ by Fitch Ratings (Fitch) in their latest rating review. Further, the Viability Rating (VR) was also upgraded to ‘ccc+’ from ‘ccc-’ and affirmed Short-Term IDR at ‘C’.
+
+According to the latest announcement made by Fitch upgrading BOC’s international ratings, Fitch has considered the following factors in order to support their rating action;
+
+Fitch highlighted that the successful completion of debt restructuring has reduced sovereign-related stress on Sri Lankan banks’ operating environment and as well as on BOC’s overall credit profile. In terms of Bank’s risk profile, it is expected that the conclusion of sovereign debt restructuring and the Bank’s focus on expanding private-sector lending will moderate the exposure to the sovereign in the medium term.
+
+...
+
+[Data](articles/b6caa46b.json)
+
+---
+
+### Beyond Escapes awarded at ICSDB Business Excellence Awards 2024
+
+*2025-01-10 07:44:00* · [`islandlk`](http://island.lk/beyond-escapes-awarded-at-icsdb-business-excellence-awards-2024/) · `en`
+
+Beyond Escapes, an emerging travel agency in Sri Lanka, has earned widespread recognition by winning the prestigious Bronze Medal for Innovative Digital and Sustainability Implementation in the In-house Category at the ICSDB Business Excellence Awards. The award ceremony, held on December 10, 2024, at Water’s Edge, was organized by the Sri Lanka Institute of Information Technology (SLIIT) Campus. Beyond Escapes triumphed over top conglomerates from various industries, highlighting the company’s commitment to innovation, sustainability, and digital transformation in an ever-evolving travel market.
+
+Ruwan Ratnayaka, the CEO of Beyond Escapes, has been instrumental in driving the company’s success. A young and passionate tourism entrepreneur, Ruwan has earned recognition for his leadership and vision, receiving numerous accolades for his contributions to the tourism sector.
+
+Pan Asia Bank honors longstanding staff at special awards night
+
+...
+
+[Data](articles/3e9292b3.json)
+
+---
+
+### International Distillers shines at SLIM National Sales Awards 2024
+
+*2025-01-10 07:44:00* · [`islandlk`](http://island.lk/international-distillers-shines-at-slim-national-sales-awards-2024/) · `en`
+
+International Distillers Limited (IDL), a leader in Sri Lanka’s beverage industry with over 40 years of expertise, proudly celebrated its remarkable achievements at the SLIM National Sales Awards 2024. The prestigious event, held on December 16, 2024, at the Grand Monarch in Colombo, recognized the best sales talent across the country. IDL stood out as a top performer, securing three significant awards that underscore its commitment to excellence and innovation in sales leadership.
+
+The awards were presented to Rukshan Jayasinghe, who received a Merit Award in the Assistant Manager category; Rachith Amarasekara, who was honoured with the Bronze Award in the Executive – Alcohol & Tobacco category; and Manivannan Kandasamy, who earned a Merit Award in the same category. These accolades highlight the exceptional contributions of IDL’s sales team and their dedication to achieving outstanding results in a competitive industry.
+
+...
+
+[Data](articles/560910da.json)
+
+---
+
+### වැලිගම වෙඩිතැබීමට තවත් සැකකරුවෙක් අත්අඩංගුවට
+
+*2025-01-10 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205225) · `si`
+
+වැලිගමදී වෙඩිතබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+වැලිගම පොලිස් වසමේ මහනැවියා මාර්ගයේ ගමන් ගත් පුද්ගලයින් පස් දෙනෙකු ඉලක්ක කර ඉකුත් 04 වනදා T56වර්ගයේ ගිනිඅවියකින් සහ පිස්තෝල වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම් සිදුකර තිබුණි.
+
+මාතර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් ඊයේ (09) සවස් කාලයේදී මාතර ප්‍රදේශයේදී මෙම අපරාධයට අවශ්‍ය කර සිටි සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 29ක් වන බෙලිඅත්ත ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකිරීමේදී, අදාළ වෙඩිතැබීම සිදුකළ සැකකරුවන්ට පලායාම සඳහා යොදාගත් කාර් රථය පැදවූ පුද්ගලයා මෙම සැකකරු බවට අනාවරණය වී ඇත.
+
+සැකකරුගේ ප්‍රකාශ මත අපරාධයට උපයෝගී කරගත් කාර් රථය පොලිස් භාරයට ගෙන තිබේ.
+
+වෙඩිතැබීමට සම්බන්ධ සැකකරුවන්ට ආධාර අනුබල දීම සම්බන්ධයෙන් සැකකරුවෙකු හා සැකකාරියක් මීට පෙරද අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/e00d68a2.json)
+
+---
+
+### බාස්මතී කියා ඔබ මිලදී ගන්නෙත් මෙම සහල් ද ?
+
+*2025-01-10 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205224) · `si`
+
+සහල් ආනයනය කිරීම සඳහා රජය ලබාදුන් අවසරය උපයෝගී කරගනිමින් කූඨ ජාවාරමක නිරතවන පිරිසක් පිළිබදව තොරතුරු 'අද දෙරණට' වාර්තා විය.
+
+ඒ පිළිබද අප කළ සොයාබැලීමකදී අනාවරණය වූයේ බාස්මතී සහලට සමාන සහල් වර්ගයක් අඩු මුදලට මෙරටට ආනයනය කර, බාස්මතී සහල් ලෙස වෙළෙඳපොළ තුළ අලෙවිකරණ බවයි.
+
+බාස්මති සහල් ඕනෑම අවස්ථාවක මෙරටට ආනයනය කළ හැකි අතර, සහල් කිලෝග්‍රෑමයක් සඳහා රුපියල් 300කට වැඩි බදු මුදලක් පනවා තිබේ.
+
+එහෙත් මෙරට තුළ රුපියල් 220ත් 250ත් අතර සීමාව තුළ අලෙවි කළ හැකි බාස්මතී සහල්වලට සමාන සහල් වර්ගයක් මෙලෙස කිලෝග්‍රෑමයක් සඳහා රුපියල් 65ක බදු මුදලක් ගෙවා මෙරටට ආනයනය කර වැඩි මිලට අලෙවිකිරීම සිදු වේ.
+
+මේ සම්බන්ධයෙන් 'අද දෙරණ' රේගු මාධ්‍ය ප්‍රකාශක අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලි අරුක්ගොඩ මහතාගෙන් විමසීමක් කළේය.
+
+එහිදී ඔහු සඳහන් කළේ මෙරටට පැමිණෙන සහල් තොගවල සාම්පල පරික්ෂාව සඳහා යොමුකිරිමේදී පමණක් ඒවා බාස්මතී සහල් නොවන බවට හදුනාගැනෙන බවයි.
+
+...
+
+[Data](articles/9c38f72b.json)
+
+---
+
+### කොච්චිකඩේදී වතුර වළකට වැටී අයෙක් මරුට
+
+*2025-01-10 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205223) · `si`
+
+මීගමුව, කොච්චිකඩේ පොලිස් වසමේ පාවුළුක් සිල්වා මාවතට හැරෙන හන්දිය ආසන්නයේ ඇති වතුර වළකට ඇදවැටී පුද්ගලයෙකු මියගොස් ඇති බවට පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර තිබේ.
+
+කොච්චිකඩේ පොලීසිය සඳහන් කරන්නේ මෙම අනතුර ඊයේ (09) සිදුවී ඇති බවය.
+
+මරණකරු වයස අවුරුදු 53 ක් වූ කටාන ප්‍රදේශයේ පදිංචිකරුවෙකු බවට හඳුනාගෙන තිබේ.
+
+මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු මෘතශරීරය මීගමුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කොච්චිකඩේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/b5f5d2eb.json)
+
+---
+
+### අහුන්ගල්ලේ වෙඩිතැබීමට යොදාගත් බවට සැකකරන යතුරුපැදියක් සොයාගනී
+
+*2025-01-10 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205221) · `si`
+
+අහුන්ගල්ල බෝධිය අසලදී ඊයේ (09) පෙරවරුවේ සිදුවු වෙඩිතැබීමට යොදාගත් බවට සැකකරන යතුරුපැදියක් අහුන්ගල්ල පොලීසිය විසින් ඊයේ රාත්‍රියේ සොයාගෙන තිබේ.
+
+අහුන්ගල්ල පොල්අතුකන්ද ප්‍රදේශයේ පිහිටි කුරුඳු ඉඩමක සඟවා තිබියදී මෙම යතුරුපැදිය සොයාගෙන ඇත.
+
+ඊයේ උදෑසන 6:15ට පමණ ස්කූටි වර්ගයේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් තිබුණි.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු පුද්ගලයා බලපිටිය මූලික රෝහලට ඇතුළත් කෙරුණි.
+
+තුවාල ලැබු පුද්ගලයා "ලොකු පැටී" නමැති අපරාධ කල්ලි සාමාජිකයාගේ ඥාතියෙකු වන බවද වාර්තා විය.
+
+◼️
+
+[Data](articles/a439fe80.json)
+
+---
+
+### අද සිට වර්ෂාවේ වැඩිවීමක්
+
+*2025-01-10 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205220) · `si`
+
+අද (10) සිට ඉදිරි දින කිහිපයේදී දිවයිනේ උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මාතලේ සහ නුවරඑලිය දිස්ත්‍රික්කවලත් වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වියහැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත්කළ අලුත්ම කාලගුණ වාර්තාව අනුව උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි අතර, ඇතැම් ස්ථාන වලට මි.මි. 75ට වැඩි තරමක තද වැසි ද බලාපොරොත්තු වේ.
+
+තවද බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් මහනුවර දිස්ත්‍රික්කයේත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මීට අමතරව උතුරු, නැගෙනහිර, උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 30-40ත් අතර තරමක තද සුළං ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+...
+
+[Data](articles/6533ac57.json)
+
+---
 
 ### A sad sorry sordid tale of two lands – and one stateless people
 
@@ -1016,6 +1194,28 @@ The paediatrician also pointed out worrying trends in childhood health condition
 
 ---
 
+### පස්සර බුලත් කෙළ ගැසූ තිදෙනෙකුට වැඩ වරදියි
+
+*2025-01-09 17:25:00* · [`adalk`](https://www.ada.lk/breaking_news/පස්සර-බුලත්-කෙළ-ගැසූ-තිදෙනෙකුට-වැඩ-වරදියි/11-414117) · `si`
+
+පස්සර නගරයේ මහ ජනතාව ගැවසේන මාර්ග වල සහ පොදු ස්ථාන වල බුලත් කෙල ගැසු පුද්ගලයින් තිදෙනෙකු සහ නිවරදි ලෙස රුපමය අවවාද ඇතුලත් කර  නොමැතිව දුම්වැටි
+
+අළෙවිකළ පුද්ගලයින් තිදෙනෙකු ඇතුළු හයදෙනෙකු අත් අඩංගුවට ගත්බව සෞඛ්‍ය වෛද්‍ය නිළධාරි කාර්යාලය කියයි,
+
+පස්සර නගරයේ බුලත්විට කැමෙන් පසු තැනින් තැන කෙළ ගසමින් සිටි පුද්ගලයින් තිදෙනෙකු සහ වෙළෙදසැල් පරීක්ෂා කිරීමේදි එහි රුපමය අවවාද ඇතුලත් කර නොමැති බදුන්වල දමා
+
+දුම්වැටි සහ සුරුට්ටු අළෙවිකළ තිදෙනෙකු මහජන සෞඛ්‍ය  පරීක්ෂකවරුන් සිදු කළ වැටලීමකදි අත් අඩංගුවට ගෙන තිබේ,
+
+අත් අඩංගුවට ගත් සැකකරුවන් හයදෙනා පස්සර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට සෞඛ්‍ය වෛද්‍ය නිළධාරි කාර්යාලය කටයුතු කර තිබේ,
+
+පස්සර සෞඛ්‍ය වෛද්‍ය නිළධාරි කේ.එම් සමරබන්දු මහතාගේ උපදෙස් මත ප්‍රධාන මහජන සෞඛ්‍ය පරීක්ෂක විජිත් ගුණසේකර මහතා ඇතුළු මහජන සෞඛ්‍ය පරීක්ෂකවරුන් වැටලීම සිචදුකර තිබේ,
+
+◼️
+
+[Data](articles/68c7e201.json)
+
+---
+
 ### උඩරට දුම්රිය ධාවනයට බාධා
 
 *2025-01-09 17:15:32* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-414116) · `si`
@@ -1079,6 +1279,22 @@ A bond maturing on 15.05.2030 closed at 11.00/10 percent, down from 11.00/15 per
 ◼️
 
 [Data](articles/08d605f0.json)
+
+---
+
+### வாழ்க்கைச் செலவை கருத்திற்கொண்டு வரவு செலவுத் திட்டத்தில் அரச ஊழியர்களின் சம்பள அதிகரிப்பு மேற்கொள்ளப்படும் - அமைச்சர் மஹிந்த ஜயசிங்க தெரிவிப்பு
+
+*2025-01-09 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203419) · `ta`
+
+இம்முறை வரவு செலவுத் திட்டத்தில் அரசாங்க ஊழியர்களின் சம்பளத்தை குறிப்பிடத்தக்க அளவில் அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளதுடன் அந்த தொகை தொடர்பில் தற்போது தெரிவிக்க முடியாது. தற்போது நிலவும் வாழ்க்கைச் செலவை கவனத்திற் கொண்டு அந்த சம்பள அதிகரிப்பு மேற்கொள்ளப்படும்  என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (09) வாய்மூல விடைக்கான கேள்வி நேரத்தின்போது ரவி கருணாநாயக்க எம்பி எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+ரவி கருணாநாயக்க தனது கேள்வியின்போது, அரசாங்க ஊழியர்களின் ஓய்வூதியம் மற்றும்  சம்பளத்தை திட்டமிட்டபடி  அதிகரித்தால் சர்வதேச நாணய நிதியத்தின் நிபந்தனை மீறப்படும். அந்த நிபந்தனையின் படி 100க்கு 20 வீதத்தையே செலவிட முடியும். அதனை அரசாங்கம் ஏற்றுக் கொண்டுள்ளது.   அவ்வாறிருக்க சம்பள அதிகரிப்பை அரசாங்கம் எவ்வாறு மேற்கொள்ளும் என கேட்கிறேன் என்றார்
+
+...
+
+[Data](articles/67b4032e.json)
 
 ---
 
@@ -1597,219 +1813,5 @@ However, shop owners who sell vehicle parts used to decorate three-wheelers say 
 ...
 
 [Data](articles/747f849a.json)
-
----
-
-### இரண்டு புதிய மேன்முறையீட்டு நீதிமன்ற நீதியரசர்கள் சத்தியப்பிரமாணம்
-
-*2025-01-09 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/203391) · `ta`
-
-இரண்டு புதிய மேல்முறையீட்டு நீதிமன்ற நீதியரசர்கள் இன்று (09) காலை ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னிலையில் சத்தியப் பிரமாணம் செய்தனர்.
-
-அதன்படி, சட்டத்தரணி கே. எம். எஸ். திசாநாயக்க மற்றும் சட்டத்தரணி ஆர். பி. ஹெட்டியாராச்சி ஆகியோர் ஜனாதிபதி முன்னிலையில் சத்தியப் பிரமாணம் செய்து கொண்டனர்.
-
-இந்த நிகழ்வில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவும் கலந்து கொண்டார்.
-
-◼️
-
-[Data](articles/fb3b8cf2.json)
-
----
-
-### Rice imports deadline to end tomorrow
-
-*2025-01-09 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104848/rice-imports-deadline-to-end-tomorrow) · `en`
-
-The deadline of the period where permission was granted for the import of rice by the private sector is scheduled to end tomorrow (10).
-
-To address the rice shortage in the country, the government granted permission for private-sector rice importers to import rice stocks between December 4 and 20, during which 67,000 metric tonnes of rice were imported.
-
-Following a recent Cabinet meeting, the deadline for rice imports was extended until January 10, 2025, with the relevant Gazette notification issued on December 24.
-
-Accordingly, it was reported that the total quantity of rice imported and cleared through Sri Lanka Customs as of 12 noon yesterday (08) had exceeded 115,000 metric tonnes.
-
-This stock includes 45,000 MT of red raw rice and 70,000 MT of parboiled rice.
-
-However, the government has not yet made any statement as to whether the permission to import rice will be extended again.
-
-◼️
-
-[Data](articles/3b5da41a.json)
-
----
-
-### China’s Chongqing Airlines resumes flights to Sri Lanka
-
-*2025-01-09 14:00:00* · [`economynextcom`](https://economynext.com/chinas-chongqing-airlines-resumes-flights-to-sri-lanka-198763/) · `en`
-
-ECONOMYNEXT – China’s Chongqing Airlines has resumed flights to Bandaranaike International Airport from January 08, state-run Sri Lanka Airport and Aviation Services Pvt Ltd said.
-
-Chongqing Airlines will fly three times a week to Colombo from its home base in Chongqing.
-
-Sri Lanka is experiencing a tourism revival with easy visa facilities restored after a new government came to power.
-
-In 2024, China was the fifth largest generation market with 131,681 tourists.
-
-◼️
-
-[Data](articles/0a70309a.json)
-
----
-
-### 2025 අයවැය පළමුවර කියවීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කරයි
-
-*2025-01-09 13:47:14* · [`adalk`](https://www.ada.lk/breaking_news/2025-අයවැය-පළමුවර-කියවීම-සඳහා-පාර්ලිමේන්තුවට-ඉදිරිපත්-කරයි/11-414108) · `si`
-
-2025 වර්ෂය සඳහා රජයේ වියදම් ඇතුළත් රුපියල් බිලියන 4,218ක (රු.4,218,248,018,000) විසර්ජන පනත් කෙටුම්පත අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් අද (09දා) පාර්ලිමේන්තුවට ඉදිරිපත් කළාය.
-
-◼️
-
-[Data](articles/3d0c35af.json)
-
----
-
-### 2025 Appropriation Bill: Breakdown of govt expenditure by ministry
-
-*2025-01-09 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104847/2025-appropriation-bill-breakdown-of-govt-expenditure-by-ministry) · `en`
-
-The Appropriation Bill for the 2025 financial year was presented to Parliament today (09), outlining the government’s proposed expenditure for the year from January 1, 2025 to December 31, 2025.
-
-The total estimated government expenditure for the period from January 1 to December 31, 2025, has been set at Rs. 4,616 billion.
-
-Details of the total expenditure by ministry are as follows:
-
-Meanwhile, the following expenses have been allocated under the Special Spending Unit.
-
-◼️
-
-[Data](articles/40f1205f.json)
-
----
-
-### மேல் நீதிமன்ற நீதிபதிகள் இருவர் பதவியேற்பு…
-
-*2025-01-09 13:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மேல்-நீதிமன்ற-நீதிபதிகள்-இருவர்-பதவியேற்பு/46-350043) · `ta`
-
-மேல் நீதிமன்ற நீதிபதிகள் இருவர், ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னிலையில் வியாழக்கிழமை (09)  பதவியேற்றனர்.
-
-சட்டத்தரணி கே. எம். எஸ். திசாநாயக்க மற்றும் சட்டத்தரணி ஆர். பி. ஹெட்டியாராச்சி ஆகியோர் ஜனாதிபதி முன்னிலையில் பதவிப் பிரமாணம் செய்து கொண்டனர்.
-
-இந்த நிகழ்வில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவும் கலந்து கொண்டார்.
-
-◼️
-
-[Data](articles/015b3e96.json)
-
----
-
-### 19,800 ’பிளாட்டினம்’ சிகரெட்டுகளுடன் ஒருவர் சிக்கினார்
-
-*2025-01-09 13:32:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-800-பிளாட்டினம்-சிகரெட்டுகளுடன்-ஒருவர்-சிக்கினார்/175-350041) · `ta`
-
-சுமார் ரூ.29.7 மில்லியன் மதிப்புள்ள வெளிநாட்டுத் தயாரிப்பு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து கட்டுநாயக்க விமான நிலையத்திற்கு வெளியே கொண்டு சென்ற பயணி ஒருவர், வியாழக்கிழமை (08)  இரவுவிமான நிலைய  போதைப்பொருள் பணியகத்தின் அதிகாரிகளால் கைது செய்யப்பட்டார்.
-
-புத்தளம், வேப்பமடுவில் வசிக்கும் 34 வயதான இவர், துபாயில் இரண்டு வருட காலப் பணியை முடித்துக்கொண்டு இலங்கைக்குத் திரும்பினார்.
-
-துபாயிலிருந்து எமிரேட்ஸ் விமானம் EK-652 மூலம் கட்டுநாயக்க விமான நிலையத்தை அன்றிரவு 7.30 மணியளவில் வந்தடைந்தார்.
-
-அவர் தனது பயணப் பையில் 19,800 வெளிநாட்டுத் தயாரிப்பு "பிளாட்டினம்" சிகரெட்டுகள் அடங்கிய 99 சிகரெட் அட்டைப்பெட்டிகளை மறைத்து வைத்திருந்தபோது, ​​ போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டார்.
-
-இந்தப் பயணி பொலிஸ் பிணையில், விடுவிக்கப்பட்டுள்ளார், மேலும் அவரும் அவர் சட்டவிரோதமாக நாட்டிற்கு கொண்டு வந்த சிகரெட்களும்   நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் எதிர்வரும் 15ஆம் திகதியன்று முன்னிலைப்படுத்தவுள்ளன.
-
-◼️
-
-[Data](articles/2eceea13.json)
-
----
-
-### අභියාචනාධිකරණ නව විනිසුරුවරුන් දෙදෙනෙක් දිවුරුම් දෙති
-
-*2025-01-09 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205205) · `si`
-
-අභියාචනාධිකරණ නව විනිසුරුවරුන් දෙදෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ ජනාධිපති කාර්යාලයේදී අද (09) පෙරවරුවේ දිවුරුම් දුන්හ.
-
-ඒ අනුව නීතිඥ කේ. එම්. එස්. දිසානායක සහ නීතිඥ ආර්. පී. හෙට්ටිආරච්චි යන මහත්වරුන්  ජනාධිපතිවරයා ඉදිරියේ  දිවුරුම් දෙනු ලැබීය.
-
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාද  මෙම අවස්ථාවට එක්ව සිටියේය.
-
-◼️
-
-[Data](articles/87c28891.json)
-
----
-
-### Clean Sri Lanka රථවාහන මෙහෙයුම් තවදුරටත්
-
-*2025-01-09 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205204) · `si`
-
-Clean Sri Lanka වැඩසටහනට සමගාමීව පොලීසිය දියත් කරන රථවාහන මෙහෙයුම් තවදුරටත් දිවයින පුරා ක්‍රියාත්මකව පවතී.
-
-මේ වනවිට ඇතැම් ත්‍රිරෝද රථ රියදුරන් සිය රථවලට එක්කර ඇති අනවශ්‍ය අමතර කොටස් ඉවත් කිරීමද සිදුකරන ආකාරය දක්නට ලැබේ.
-
-Clean Sri Lanka වැඩසටහනට සමගාමීව පොලීසිය කොළඹ ඇතුළු දිවයිනේ ප්‍රදේශ රැසක බස් රථ, ත්‍රිරෝද රථ ඇතුළු රථවාහනවල අනාරක්ෂිත අයුරින් සවිකර ඇති උපාංග ඉවත් කිරීම පසුගියදා ආරම්භ කළ අතර, එම මෙහෙයුම් මගීන් අපහසුතාවයට පත්නොවන අයුරින් තවදුරටත් ක්‍රියාත්මක වේ.
-
-කෙසේ වෙතත්, වැඩබලන පොලිස්පතිවරයා සමග පෞද්ගලික බස් සංගම් ඊයේ (08) පැවති සාකච්ඡාවකින් අනතුරුව මගී ප්‍රවාහන රථවල අනවශ්‍ය අමතර කොටස් ඉවත්කිරීම සඳහා මාස 3 ක සහන කාලයක් ලබාදීමට වැඩබලන පොලිස්පතිවරයා එකඟත්වය පළ කළේය. ‍ෙ
-
-කෙසේ වෙතත්, ත්‍රිරෝද රථවලට අලංකරණය සඳහා යොදන අමතර උපාංග අලෙවිකරන වෙළෙඳසැල් හිමියන් පවසන්නේ මේ වනවිට තමන්ගේ අලෙවිය කඩා වැටී ඇති බවය.
-
-...
-
-[Data](articles/75145dae.json)
-
----
-
-### நாட்டில் HMPV தொற்றுகள் பதிவாகவில்லை-அமைச்சர் உறுதி
-
-*2025-01-09 13:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-HMPV-தொற்றுகள்-பதிவாகவில்லை-அமைச்சர்-உறுதி/175-350039) · `ta`
-
-சில ஊடகங்கள் செய்தி வெளியிட்டுள்ளது போல், இலங்கையில் எச்எம்பிவி தொற்றுகள் எவையும் அண்மையில் கண்டறியப்படவில்லை எனக் கூறிய சுகாதார அமைச்சர் வைத்தியர் நலிந்த ஜயதிஸ்ஸ, சுகாதார அமைச்சு இவ்விடயம் குறித்து விழிப்புடன் இருப்பதாகவும், நாட்டில் வைரஸால் பாதிக்கப்பட்ட நபர் கண்டறியப்பட்டால் மக்களுக்கு அறிவிப்பதாகவும் உறுதியளித்துள்ளார்.
-
-வைரஸ் பரிசோதனைகளை மேற்கொள்வதற்காக இருபது இடங்கள் பெயரிடப்பட்டுள்ளதாகவும் அனைத்து முன்னெச்சரிக்கை நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளதாகவும் அமைச்சர் பாராளுமன்றத்தில் தெரிவித்தார்.
-
-தொற்று நோய் தடுப்புப் பிரிவு தொடர்ந்தும் சுகாதார அமைச்சுக்கு வைரஸ் தொடர்பான விவரங்களை வழங்கி வருவதாகவும், ஜனாதிபதியும் இவ்விடயம் தொடர்பில் விசேட கவனம் செலுத்தியுள்ளதாகவும் அவர் கூறினார்.
-
-சந்தேகத்திற்கிடமான ஒரு வழக்கு பதிவாகியது, ஆனால் சோதனையை மேற்கொண்ட போது எதிர்மறையான முடிவே வந்தது என்று அமைச்சர் கூறினார்.
-
-...
-
-[Data](articles/22be1278.json)
-
----
-
-### No objection from IMF for public sector salary hike - Deputy Minister
-
-*2025-01-09 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104846/no-objection-from-imf-for-public-sector-salary-hike-deputy-minister) · `en`
-
-Deputy Minister of Labour Mahinda Jayasinghe stated that a considerable salary increase for public sector employees is scheduled to be carried out in the upcoming budget.
-
-He made this statement in response to a question raised by MP Ravi Karunanayake in Parliament today (09).
-
-The Deputy Minister also revealed that the International Monetary Fund (IMF) has no objections to increasing the salaries of public sector employees.
-
-Deputy Minister Mahinda Jayasinghe further commented, “We didn’t say Rs. 25,000. Let’s see about the exact number. Don’t panic. Open and see what’s inside the bag, don’t poke it and see. Ranil Wickremesinghe made a Cabinet decision before the postal vote on September 4, targeting the votes of public sector employees in this country. But the public employees gave a good response. It was something presented to deceive public employees, not the reality.”
-
-◼️
-
-[Data](articles/73ac576e.json)
-
----
-
-### பிடித்துவைத்தல் வரியை அதிகரித்து அரசாங்கம் மக்களின் வயிற்றில் அடிக்கிறது - கீதநாத் குற்றச்சாட்டு
-
-*2025-01-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/203385) · `ta`
-
-வங்கி சேமிப்பு மற்றும் நிலையான வைப்பு மூலம் வாழ்க்கை நடத்தும் நடுத்தர மக்களின் வயிற்றில் அடிக்கும் அரசியலை தேசிய மக்கள் சக்தி அரசாங்கம் மேற்கொள்வதாக சிறீ லங்கா பொதுஜன பெரமுன கட்சியின் யாழ் மாவட்ட பிரதான அமைப்பாளர் கீதநாத் காசிலிங்கம் குற்றம் சுமத்தியுள்ளார்.
-
-ஐந்து வீதமாக இருந்த withholding tax 10 வீதமாக உயர்த்தப்பட்டமை குறித்து அவர் வெளியிட்டுள்ள அறிக்கையிலேயே இவ்வாறு குறிப்பிட்டுள்ளார்.
-
-குறித்த அறிக்கையில். ‘தேசிய மக்கள் சக்தி அரசாங்கம் “பிடித்துவைத்தல் வரியை” ( withholding tax ) 5% இல் இருந்து 10% ஆக அதிகரித்துள்ளமை ரணிலின் அரசை விட மோசமான மக்களின் வயிற்றில் அடிக்கும் ஒரு செயலாகும்.
-
-முன்னரை விட வரிச்சுமையை ஏற்றி, விடிவுக்காய் மாற்றுத்துக்காய் காத்திருந்த மக்களுக்கு வாழவிடாமல் செய்கிறதா இந்த அரசு?
-
-ரணில் விக்ரமசிங்க ஆட்சியில் பிடித்துவைத்தல் வரி 5% இருந்த போது ஆர்ப்பாட்டம் நடத்திய தேசிய மக்கள் சக்தி, இன்று ஆட்சிக்கு வந்து 10% மாக உயர்த்தியது ஒரு பச்சை நம்பிக்கை துரோகம்.
-
-...
-
-[Data](articles/ab11aed1.json)
 
 ---

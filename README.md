@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 06:16:57**
+As of **2025-01-10 06:49:28**
 
 ## Newspaper Stats
 
-*Scraped **64,632** Articles*
+*Scraped **64,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
-tamilmirrorlk | 9,271
+tamilmirrorlk | 9,272
 virakesarilk | 10,804
 adaderanasinhalalk | 11,156
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,632 articles have been extended.
+61,973 (95.9%) of 64,633 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -251,6 +251,22 @@ Questioning the Government as to why it is still not taking action to repeal the
 ...
 
 [Data](articles/a93cb11e.json)
+
+---
+
+### ’உலக சந்தையில் இலங்கையின் பங்கை அடைய முடியும்’
+
+*2025-01-10 02:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-சந்தையில்-இலங்கையின்-பங்கை-அடைய-முடியும்/175-350070) · `ta`
+
+உலக சந்தையில் இலங்கையின் பங்கை புத்தாக்க வேலைத்திட்டத்தின் ஊடாக அடைய முடியும் என்றும், புதிய மாதிரிகள் மூலம் புதிய சந்தை வாய்ப்புகள் உருவாகும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+ஆய்வு மற்றும் அபிவிருத்திக்கான வணிகமயமாக்கல் அணுகுமுறையை ஏற்படுத்துவதற்காக ஜனாதிபதி அலுவலகத்தில் நேற்று  (08) நடைபெற்ற நிகழ்விலேயே ஜனாதிபதி அநுரகுமார திசாநாயக்க இதனைத் தெரிவித்தார்.
+
+ஆய்வு மற்றும் அபிவிருத்தி வணிகமயமாக்கலுக்கான அணுகுமுறை ஏற்படுத்த nirdc.gov.lk என்ற புதிய இணையதளம் இதன்போது அங்குரார்ப்பணம் செய்து வைக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/668a40f5.json)
 
 ---
 
@@ -1801,21 +1817,5 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 ◼️
 
 [Data](articles/bb5cf315.json)
-
----
-
-### 2025 ආණ්ඩුවේ වියදම් මෙන්න
-
-*2025-01-09 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205203) · `si`
-
-2025 වර්ෂය සඳහා වන විසර්ජන පනත් කෙටුම්පත අද (09) පාර්ලිමේන්තුවට ඉදිරිපත් කෙරුණි.
-
-ඒ අනුව මේ වසරේ ජනවාරි මස 1 වනදා සිට දෙසැම්බර් මස 31 වනදා දක්වා වු කාලසීමාව සඳහා ආණ්ඩුවේ වියදම් ලෙස රු බි 4,616ක් ලෙස ඇස්තමේන්තු ගත කර තිබේ.
-
-ඒ අනුව 2025 වසරේ අමාත්‍යාංශ සඳහා සිදුකර ඇති මුදල් වෙන්කිරීම් වලින් වැඩිම මුදලක් වෙන්කර ඇත්තේ මුදල් සහ ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය වෙතය. එය රුපියල් බිලියන 713කි.
-
-◼️
-
-[Data](articles/df025840.json)
 
 ---

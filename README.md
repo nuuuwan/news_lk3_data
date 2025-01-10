@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 09:17:41**
+As of **2025-01-10 09:28:58**
 
 ## Newspaper Stats
 
-*Scraped **64,664** Articles*
+*Scraped **64,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 3,953
 dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,195
-adaderanalk | 7,912
+adaderanalk | 7,914
 tamilmirrorlk | 9,278
 virakesarilk | 10,806
 adaderanasinhalalk | 11,163
@@ -26,13 +26,13 @@ adaderanasinhalalk | 11,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.8%) of 64,664 articles have been extended.
+61,973 (95.8%) of 64,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
 
-### කසළ ට්‍රැක්ටරයේ සේවකයා අතරමගදී මරුට
+### කසළ ට්‍රැක්ටරයෙන් ඇදවැටී සේවකයා මරුට
 
 *2025-01-10 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205227) · `si`
 
@@ -60,7 +60,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පාකිස්තානයේ සත්කාරකත්වය යටතේ පැවැත්වෙන මෙවර ශූරයන්ගේ කුසලාන ක්‍රිකට් තරගාවලියේදී ඇෆ්ගනිස්තානය හා දකුණු අප්‍රිකාව මූලික වටයේදී එකම කාණ්ඩයෙන් ක්‍රීඩා කරනු ලබයි.
 
-දකුණු අප්‍රිකානු ක්‍රීඩා අමාත්‍යවරයා සිය තීරණයෙන් වැඩිදුරටත් පවසා ඇත්තේ තම යෝජනාව සම්බන්ධයෙන් රටවල ක්‍රිකට් ආයතන සහ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය එකඟවනු ඇති බවයි.
+දකුණු අප්‍රිකානු ක්‍රීඩා අමාත්‍යවරයා සිය තීරණයෙන් වැඩිදුරටත් පවසා ඇත්තේ තම යෝජනාව සම්බන්ධයෙන් අනෙකුත් රටවල ක්‍රිකට් ආයතන සහ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය එකඟවනු ඇති බවයි.
 
 කෙසේ නමුත් ඇෆ්ගනිස්තානය සමගින් දකුණු අප්‍රිකාව ක්‍රීඩා කරනවාද...නැතිද ? යන්න පිළිබඳව අවසන් තීරණය ගැනීම තමන් සතු වගකීමක් නොවන බව හෙතෙම පවසයි.
 
@@ -87,6 +87,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/de5c1317.json)
+
+---
+
+### Fake Basmati floods market amid rising rice imports
+
+*2025-01-10 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104861/fake-basmati-floods-market-amid-rising-rice-imports) · `en`
+
+Ada Derana has uncovered a concerning case of fraud in Sri Lanka’s rice import trade, where certain individuals exploit government-granted import permits to deceive consumers.
+
+An investigation by Ada Derana revealed that a type of rice, closely resembling Basmati rice, is being imported at low cost and sold in the market under the guise of genuine Basmati rice, profiting at the expense of consumers.
+
+Sri Lanka permits the import of Basmati rice year-round, subject to a tax exceeding Rs. 300 per kilogram. However, traders are importing a similar variety of rice, which can be purchased at Rs. 220–250 per kilogram, paying a significantly reduced tax of Rs. 65 per kilogram. These imports are then marketed at higher prices as Basmati rice, misleading buyers.
+
+...
+
+[Data](articles/3384fa82.json)
+
+---
+
+### Sri Lankan charged over sexual assault against woman on flight to Australia
+
+*2025-01-10 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104860/sri-lankan-charged-over-sexual-assault-against-woman-on-flight-to-australia) · `en`
+
+A Sri Lankan man charged over the alleged sexual assault of a woman on board a flight to Australia has been banned from leaving the country as his court case continues.
+
+Asanka Mathew Podiappuhamilage, 41, faced court on Thursday following his arrest at Melbourne Airport on December 18 after a passenger complained to airline staff of sexual assault on route from Sri Lanka to Australia.
+
+Mr Podiappuhamilage stood alongside an interpreter at Melbourne’s Magistrate Court as he was charged with one count of an act of indecency following the international flight.
+
+Australian Federal Police allege Mr Podiappuhamilage “committed an act of indecency” while in the air.
+
+The offence carries a maximum penalty of seven years of imprisonment if convicted.
+
+The Sri Lankan national first fronted court on December 19, where he was granted bail on strict conditions.
+
+Mr Podiappuhamilage surrendered his passport and will remain in Victoria or the country as his case is heard.
+
+...
+
+[Data](articles/b0bbdc72.json)
 
 ---
 
@@ -1801,41 +1841,5 @@ Attorney-at-Law Gamini Alwis, appearing on behalf of the Thero, presented facts 
 ◼️
 
 [Data](articles/533ba4de.json)
-
----
-
-### Dr. Nishantha Samaraweera elected COPE chairman
-
-*2025-01-09 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104851/dr-nishantha-samaraweera-elected-cope-chairman) · `en`
-
-NPP Member of Parliament Dr. Nishantha Samaraweera has been unanimously elected as the Chairman of the Committee on Public Enterprises (COPE).
-
-The Committee on Public Enterprises has convened in Parliament today (09) at 2 p.m.
-
-◼️
-
-[Data](articles/3c98aa13.json)
-
----
-
-### அரிசி இறக்குமதிக்கான காலவகாசம் நாளையுடன் நிறைவு
-
-*2025-01-09 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/203405) · `ta`
-
-தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதிக்கு அனுமதி வழங்கப்பட்டிருந்த காலவகாசம் நாளையுடன் (10) நிறைவடையவுள்ளது.
-
-நாட்டில் நிலவும் அரிசி பற்றாக்குறையை நிவர்த்தி செய்வதற்காக, தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதி செய்ய கடந்த டிசம்பர் மாதம் 4 ஆம் திகதி முதல் 20 ஆம் திகதி வரை அனுமதி வழங்கியது. குறித்த காலப்பகுதியில் மாத்திரம் 67,000 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளனர்.
-
-அரிசிக்கான கேள்வியை கருத்திற் கொண்டு காலவகாசம் 10 ஆம் திகதி வரை நீட்டிக்கப்பட்டு, டிசம்பர் 24 ஆம் திகதி வர்த்தமானி அறிவித்தலை வெளியிடப்பட்டது.
-
-அதற்கமைய, தனியார் துறையினர் நேற்று புதன்கிழமை  (08) வரையான காலப்பகுதியில் மாத்திரம் 115,000 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளனர்.
-
-இந்நிலையில்,  கையிருப்பில் 45,000 மெற்றிக் தொன் சிவப்பு அரிசியும், 70,000 மெற்றிக் தொன் புழுங்கல் அரிசியும் உள்ளன.
-
-எவ்வாறாயினும், அரிசி இறக்குமதிக்கான அனுமதி மீண்டும் நீடிக்கப்படுமா என்பது தொடர்பில் அரசாங்கம் இதுவரையில் எவ்வித அறிப்பும் வெளியிடவில்லை.
-
-◼️
-
-[Data](articles/b46026d9.json)
 
 ---

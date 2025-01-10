@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 06:49:28**
+As of **2025-01-10 07:32:47**
 
 ## Newspaper Stats
 
-*Scraped **64,633** Articles*
+*Scraped **64,635** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 471
 colombotelegraphcom | 647
-bbccomsinhala | 676
+bbccomsinhala | 677
 economynextcom | 3,940
 islandlk | 3,941
 dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
-tamilmirrorlk | 9,272
+tamilmirrorlk | 9,273
 virakesarilk | 10,804
 adaderanasinhalalk | 11,156
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,633 articles have been extended.
+61,973 (95.9%) of 64,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -254,6 +254,24 @@ Questioning the Government as to why it is still not taking action to repeal the
 
 ---
 
+### மண்ணெண்ணெய் அருந்திய குழந்தை மரணம்
+
+*2025-01-10 02:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்ணெண்ணெய்-அருந்திய-குழந்தை-மரணம்/175-350071) · `ta`
+
+யாழ்ப்பாணம் – கோப்பாய் பகுதியில் நேற்று ஒரு வயதும் இரண்டு மாதங்களும் நிரம்பிய ஆண் குழந்தை ஒன்று மண்ணெண்ணெய் அருந்திய நிலையில் உயிரிழந்துள்ளது.
+
+கோப்பாய் மத்தி, கோப்பாய் பகுதியைச் சேர்ந்த தர்சிகன் சஸ்வின் குழந்தையே இவ்வாறு உயிரிழந்துள்ளது.
+
+நேற்று மதியம் தாயார் சமையல் செய்துகொண்டு இருந்தவேளை குறித்த குழந்தை மண்ணெண்ணெய்யை எடுத்துக் குடித்துவிட்டு, உடலிலும் பூசிவிட்டு விளையாடிக்கொண்டிருந்ததது. இதை அவதானித்த தாயார் குழந்தையைத் தூக்கினார். அப்போது குழந்தை மயக்கமடைந்தது.
+
+பிற்பகல் ஒரு மணியளவில் அந்தக் குழந்தை கோப்பாய் வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டு, அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில் பிற்பகல் 4 மணியளவில் உயிரிழந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/1929191a.json)
+
+---
+
 ### ’உலக சந்தையில் இலங்கையின் பங்கை அடைய முடியும்’
 
 *2025-01-10 02:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-சந்தையில்-இலங்கையின்-பங்கை-அடைய-முடியும்/175-350070) · `ta`
@@ -353,6 +371,26 @@ Questioning the Government as to why it is still not taking action to repeal the
 ◼️
 
 [Data](articles/732578f7.json)
+
+---
+
+### 2025 සිට ආර්ථික ස්ථායීතාව වෙනුවෙන් ශ්‍රී ලංකා මහ බැංකුව කරන්න යන දේ
+
+*2025-01-10 01:34:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6272j8w4ppo) · `si`
+
+2025 සිට ආර්ථික ස්ථායීතාව වෙනුවෙන් ශ්‍රී ලංකා මහ බැංකුව කරන්න යන දේ
+
+2025 වසර සහ ඉදිරි කාලය සඳහා වන ශ්‍රී ලංකා මහ බැංකුවේ ප්‍රතිපත්ති ප්‍රකාශය බදාදා (ජන:08) මහ බැංකුවේ අධිපති ආචාර්ය නන්දලාල් වීරසිංහ විසින් ඉදිරිපත් කරන ලදී.
+
+75 වන සංවත්සරය සමරන ශ්‍රී ලංකා මහ බැංකුව මේ වසරේදී සිය ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇත්තේ, "සෞභාග්‍යය උදෙසා ස්ථාවරත්වය" යන අරමුණ පදනම් කරගෙන ය.
+
+"ඉතිහාසයේ වාර්තා වූ දරුණුතම ආර්ථික අර්බුදයට මුහුණ දුන් ශ්‍රී ලංකාව මේ වන විට කැපීපෙනෙන ලෙස යථා තත්ත්වයට පත්ව ඇති," බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ශ්‍රී ලංකා ආර්ථිකයේ මිල ස්ථායීතාව ආරක්ෂා කර ගැනීම සඳහා යෝජිත සැලසුම් ඔස්සේ අපේක්ෂිත ක්‍රියාකාරකම් මෙසේ ය.
+
+...
+
+[Data](articles/3994d547.json)
 
 ---
 
@@ -1773,49 +1811,5 @@ Deputy Minister Mahinda Jayasinghe further commented, “We didn’t say Rs. 25,
 ...
 
 [Data](articles/ab11aed1.json)
-
----
-
-### Sri Lanka state imports of coconut kernels after crop shortfall
-
-*2025-01-09 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-do-state-imports-of-coconut-kernels-amid-crop-shortfall-198750/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow state imports coconut kernels to be used by mills to make oil and other products, Industries Minister Sunil Handunetti said.
-
-Sri Lanka is currently facing a shortfall of coconuts and the country does not allow fresh nut to be imported due to fears of diseases coming in.
-
-“We have decided to import kernels and give the mills,” Industries Minister Sunil Handuneththi said.
-
-Sri Lanka also exports powdered and creamed coconut milk and dessicated coconut.
-
-Opposition legislator Dayasiri Jayasekera said given past experience of unripe kernels being imported, it would be better to allow the private firms themselves to import kernels.
-
-Minister Handunetthi said the government would import the kernels. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/08587bf4.json)
-
----
-
-### Sri Lanka state imports of coconut kernels after crop shortfall
-
-*2025-01-09 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-imports-of-coconut-kernels-after-crop-shortfall-198750/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow state imports coconut kernels to be used by mills to make oil and other products, Industries Minister Sunil Handunetti said.
-
-Sri Lanka is currently facing a shortfall of coconuts and the country does not allow fresh nut to be imported due to fears of diseases coming in.
-
-“We have decided to import kernels and give the mills,” Industries Minister Sunil Handuneththi said.
-
-Sri Lanka also exports powdered and creamed coconut milk and dessicated coconut.
-
-Opposition legislator Dayasiri Jayasekera said given past experience of unripe kernels being imported, it would be better to allow the private firms themselves to import kernels.
-
-Minister Handunetthi said the government would import the kernels. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/bb5cf315.json)
 
 ---

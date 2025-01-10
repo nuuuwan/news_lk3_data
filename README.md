@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 11:15:18**
+As of **2025-01-10 11:44:48**
 
 ## Newspaper Stats
 
-*Scraped **64,683** Articles*
+*Scraped **64,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 471
 colombotelegraphcom | 647
 bbccomsinhala | 677
-economynextcom | 3,940
+economynextcom | 3,945
 islandlk | 3,953
 dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,197
 adaderanalk | 7,916
-tamilmirrorlk | 9,282
+tamilmirrorlk | 9,283
 virakesarilk | 10,811
 adaderanasinhalalk | 11,167
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 11,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.8%) of 64,683 articles have been extended.
+61,973 (95.8%) of 64,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### புலமைப் பரிசில் பெறுபேறு: பெப்ரவரியில் வருகிறது
+
+*2025-01-10 11:06:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்-பரிசில்-பெறுபேறு-பெப்ரவரியில்-வருகிறது/175-350086) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகள் பெப்ரவரி 10 முதல் 12 ஆம் திகதிக்குள் வெளியிடப்படும் என எதிர்பார்க்கப்படுவதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜெயசுந்தர தெரிவித்தார்.
+
+விடைத்தாள் மதிப்பீடு 64 மையங்களில் புதன்கிழமை (8) தொடங்கியது என்று அவர் கூறினார்.
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை செப்டம்பர் 15 ஆம் திதி நடைபெற்றது.
+
+சிங்கள மொழி மூலம் 244,092 பேரும், தமிழ் மொழி மூலம் 79,787 பேரும் உட்பட மொத்தம் 323,879 மாணவர்கள் பரீட்சைக்குத் தோற்றியிருந்தனர்.
+
+◼️
+
+[Data](articles/cd56f644.json)
+
+---
+
+### Spot US dollar 294.50/70 rupees, bond yields flat
+
+*2025-01-10 11:03:00* · [`economynextcom`](https://economynext.com/spot-us-dollar-294-50-70-rupees-bond-yields-flat-198907/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 294.50/70 to the US dollar in the spot market Friday, stronger from 294.95/295.10 to the US dollar while bond yields were flat, dealer said.
+
+Commercial banks were quoting Telegraphic transfer dollars at 291 rupees and selling TT dollars at 	299 rupees.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/45 percent, from 9.40/50 percent, Thursday.
+
+A bond maturing on 15.10.2027 was quoted at 9.75/85 percent flat.
+
+A bond maturing on 15.02.2028 was quoted at 10.12/15 percent, flat.
+
+A bond maturing on 15.10.2028 was quoted at 10.35/40 percent, slightly higher from 10.33/37 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.75/80 percent flat.
+
+A bond maturing on 15.05.2030 was quoted at 11.05/10 percent flat. (Colombo/Jan10/2025)
+
+◼️
+
+[Data](articles/e52d73ea.json)
+
+---
 
 ### யாழில் மதுபோதையில் துவிச்சக்கரவண்டியை செலுத்தியவருக்கு 25 ஆயிரம் ரூபா தண்டம்
 
@@ -265,6 +309,28 @@ He has further expressed hope for the Speaker’s guidance in reviving the Sri L
 ◼️
 
 [Data](articles/3db31426.json)
+
+---
+
+### UK 10-year bond yields surge to 17-year high, 30-year bonds in bigger record
+
+*2025-01-10 09:43:00* · [`economynextcom`](https://economynext.com/uk-10-year-bond-yields-surge-to-17-year-high-30-year-bonds-in-bigger-record-198862/) · `en`
+
+ECONOMYNEXT – UK bond yields surged to decade highs with the 10-year reaching levels not seen since the US housing bubble burst, and 30-year bonds not seen since 1998, amid concerns over government finances and growth.
+
+High yields indicate unwilling investors to hold longer term bonds. Secondary market values of long bonds fall steeply when yields go up.
+
+The higher yields come despite the Bank of England cutting rates amid easing inflation.
+
+The rates have edged up around 100 basis points over a year and 50 basis points over the past month.
+
+Close to 4.9 percent for 10-year debt, the yield exceeded the level struck in 2022 in the UK when the then Prime Minister Liz Truss advocated more tax cuts for ‘stimulus’ on top of overspending and money printing during the Coronavirus crisis.
+
+New concerns over a slowing economy – which can reduce tax revenues and boost borrowings, as well as more capital expenditure outlined in a recent budget, have spooked markets, analysts said.
+
+...
+
+[Data](articles/bc7907f9.json)
 
 ---
 
@@ -590,6 +656,30 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 
 ---
 
+### Sri Lanka to regularize 49 renewable energy proposals: Minister
+
+*2025-01-10 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-regularize-49-renewable-energy-proposals-minister-198848/) · `en`
+
+ECONOMYNEXT – Sri Lanka is trying to regularize proposals by renewable energy investors to state-run Ceylon Electricity Board, during the last administration, some of which are at very high prices, Energy Minister Kumara Jayakody said.
+
+There were 49 proposals in response to expression of interest which were not competitive tender.
+
+Under a new Electricity Act brought by the last administration they would be made void, Minister Jayakody told parliament.
+
+“They have come through an irregular (go-duck ak-krama-wath) means,” he said. “Many of their (feed-in) price ranges are very high, which cannot be sold nor kept in Sri Lanka.”
+
+“We have proposed to regularize and the cabinet has given clearance to appoint a committee.”
+
+A cabinet committee will come up with recommendation on the prices and capacities.
+
+“We also have a desire to implement these quickly,” Minister Jayakody said. “The investors also have a problem. We also have to entertain them as an institution and a nation.”
+
+...
+
+[Data](articles/9fecff6a.json)
+
+---
+
 ### බාස්මතී කියා ඔබ මිලදී ගන්නෙත් මෙම සහල් ද ?
 
 *2025-01-10 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205224) · `si`
@@ -699,6 +789,28 @@ The LRRP was basically utilised for black ops. A black operation or black op is 
 ...
 
 [Data](articles/9506002d.json)
+
+---
+
+### Sri Lanka appropriation bill 2025 sets borrowing limit of Rs4,400bn
+
+*2025-01-10 05:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-appropriation-bill-2025-sets-borrowing-limit-of-rs4400bn-198857/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2025 appropriation bill, presented to parliament on January 09, allocating spending for each ministry has set a borrowing limit of 4,400 billion rupees.
+
+The borrowing include roll-overs and do not correspond to the new financing (deficit) that is shown in the budget presentation.
+
+The presentation of the Appropriation bill is considered the first reading of the budget.
+
+The bill set out 4,218 billion rupees as current spending and 4,616 as capital expenditure. The capex also does not conform to the capex in the formal budget presentation.
+
+The current spending for Sri Lanka Army has increased to 220 billion rupees from 214 billion and capex from 4.2 billion to 5.2 billion rupees.
+
+Ministry of Health has been allocated 169 billion rupees as operational activities and 213 billion as developmental activities.
+
+◼️
+
+[Data](articles/c48a9646.json)
 
 ---
 
@@ -1773,93 +1885,5 @@ A bond maturing on 15.05.2030 closed at 11.00/10 percent, down from 11.00/15 per
 ◼️
 
 [Data](articles/74d02877.json)
-
----
-
-### மின்கலம் திருடனை தேடி 4 கிலோ மீற்றர் பயணித்த ஜோனி என்ற மோப்ப நாய்
-
-*2025-01-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/203412) · `ta`
-
-வாரியப்பொல பகுதியில் ஜோனி என்ற மோப்ப நாய் 4 கிலோ மீற்றர் பயணித்து மின்கலம் திருடனை தேடிப்பிடித்த சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-வாரியப்பொல மாவட்ட நீதிமன்றத்தில் வழக்குச் சான்றுப் பொருட்களாக நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களில் மின்கலங்களை திருடி சென்றுள்ளனர்.
-
-மின்கலங்கள் திருடப்பட்ட இடத்தில் சொகுசு பஸ் உட்பட பல வாகனங்கள் வாரியபொல நீதவான் நீதிமன்றினால் நிறுத்தப்பட்டிருந்துள்ளது.
-
-திருட்டு சம்பவம் தொடர்பில் தடயங்கள் எதுவும் கிடைக்காத நிலையில் குருணாகலில் உள்ள பொலிஸ் கெனல் பிரிவிலுள்ள பயிற்சி பெற்ற மோப்ப நாயான ஜோனியை பொலிஸார் வரவழைத்துள்ளனர்.
-
-ஜோனியை அழைத்து வந்த பொலிஸ் கான்ஸ்டபிள் ரணசிங்க (90426) தேடுதல் நடவடிக்கைகாக மின்கலத்துடன் பொருத்தப்பட்டிருந்த முனையத்தை நாய்க்கு வழங்கினார்.
-
-நாய் அதனை மோப்பம் பிடித்து வாரியபொல ஊடாக கிட்டத்தட்ட நான்கு கிலோ மீற்றர் தூரத்தில் இருந்த  விளக்கடுபொத்த பகுதியில் வீடொன்றுக்கு சென்றுள்ளது. அங்கு ஐந்து மின்கலங்களுடன் கையும் களவுமாக சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/08d605f0.json)
-
----
-
-### வாழ்க்கைச் செலவை கருத்திற்கொண்டு வரவு செலவுத் திட்டத்தில் அரச ஊழியர்களின் சம்பள அதிகரிப்பு மேற்கொள்ளப்படும் - அமைச்சர் மஹிந்த ஜயசிங்க தெரிவிப்பு
-
-*2025-01-09 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203419) · `ta`
-
-இம்முறை வரவு செலவுத் திட்டத்தில் அரசாங்க ஊழியர்களின் சம்பளத்தை குறிப்பிடத்தக்க அளவில் அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளதுடன் அந்த தொகை தொடர்பில் தற்போது தெரிவிக்க முடியாது. தற்போது நிலவும் வாழ்க்கைச் செலவை கவனத்திற் கொண்டு அந்த சம்பள அதிகரிப்பு மேற்கொள்ளப்படும்  என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (09) வாய்மூல விடைக்கான கேள்வி நேரத்தின்போது ரவி கருணாநாயக்க எம்பி எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
-
-ரவி கருணாநாயக்க தனது கேள்வியின்போது, அரசாங்க ஊழியர்களின் ஓய்வூதியம் மற்றும்  சம்பளத்தை திட்டமிட்டபடி  அதிகரித்தால் சர்வதேச நாணய நிதியத்தின் நிபந்தனை மீறப்படும். அந்த நிபந்தனையின் படி 100க்கு 20 வீதத்தையே செலவிட முடியும். அதனை அரசாங்கம் ஏற்றுக் கொண்டுள்ளது.   அவ்வாறிருக்க சம்பள அதிகரிப்பை அரசாங்கம் எவ்வாறு மேற்கொள்ளும் என கேட்கிறேன் என்றார்
-
-...
-
-[Data](articles/67b4032e.json)
-
----
-
-### ඊශ්‍රායල් කෘෂි පුහුණුවට ශාරීරික යෝග්‍යතා පරීක්ෂණ පැවැත්වූයේ සෞඛ්‍ය මාර්ගෝපදේශ අනුවයි
-
-*2025-01-09 16:59:57* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-කෘෂි-පුහුණුවට-ශාරීරික-යෝග්‍යතා-පරීක්ෂණ-පැවැත්වූයේ-සෞඛ්‍ය-මාර්ගෝපදේශ-අනුවයි/11-414115) · `si`
-
-ඊශ්‍රායලයේ කෘෂිකාර්මික ක්ෂේත්‍රයේ රැකියා සඳහා සුදුසු ශ්‍රමිකයින් තෝරාගැනීමට ශාරීරික යෝග්‍යතා පරීක්ෂණ පැවැත්වූයේ සියළු සෞඛ්‍ය මාර්ගෝපදේශ අනුගමනය කරමින් බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා සඳහන් කරයි.
-
-ඊයේ දින (2025.01.08) දියගම ක්‍රිඩාංගනයේදී, ඊශ්‍රායලයේ කෘෂිකාර්මික ක්ෂේත්‍රයේ රැකියා සඳහා යෝග්‍ය ශ්‍රමිකයින් තෝරාගැනීම සඳහා ශාරීරික පරීක්ෂණ පැවැත්වූ අතර, එහිදී තරුණයින් කිහිප දෙනෙකු අසනීප වීම සම්බන්ධයෙන් පළවූ මාධ්‍ය වාර්තාවලට පිළිතුරු වශයෙන් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/f1d7828e.json)
-
----
-
-### Sri Lanka stocks down on financials; foreign outflows continue
-
-*2025-01-09 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-down-on-financials-foreign-outflows-continue-198770/) · `en`
-
-ECONOMYNEXT –  Sri Lanka stock market fell on Thursday led by financial stocks amid continued foreign selling, data on its site showed.
-
-The risky assets are on market  correction after the key All Share Price Index (ASPI) repeatedly touched fresh peak from mid December following the conclusion of Sri Lanka’s debt restructuring
-
-The broader ASPI closed down 0.89 percent or 142.65 points at 15,811.36; while the more liquid S&P SL20 Index closed down 1.26 percent or 27.12  points at 4,816.10.
-
-Banks and other financial stocks dragged the market, the data showed.
-
-The market witnessed foreign outflow for the third straight session. Offshore investors sold a net 37 million rupee worth stocks on Thursday (09), extending the total outflow in the last three straight sessions to 315 million rupees.
-
-...
-
-[Data](articles/77a1279e.json)
-
----
-
-### பிரபல்யத்துக்காக  மக்களை அச்சமூட்டும் வகையில் செய்திகளை வெளியிடுவதை ஊடகங்கள் தவிர்த்துக் கொள்ள வேண்டும் - நளிந்த ஜயதிஸ்ஸ
-
-*2025-01-09 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203414) · `ta`
-
-பிரபல்யத்துக்காக  மக்களை அச்சமூட்டும் வகையில் செய்திகளை வெளியிடுவதை ஊடகங்கள் தவிர்த்துக் கொள்ள வேண்டும்.  இலங்கையில் (HMPV) வைரஸ் நோய் தொற்றாளர் எவரும் கண்டறியப்படவில்லை. இந்த வைரஸ் தொற்று தொடர்பில் விசேட  கவனம் செலுத்தப்பட்டுள்ளது என சுகாதாரத்துறை அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (09) நடைபெற்ற  அமர்வில் வாய்மூல விடைக்கான வினாக்களின் போது   ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் நிசாந்த  சமரவீர எழுப்பிய கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பொருளாதார பாதிப்பின் காரணமாக வைத்தியர்கள் மற்றும் சுகாதார சேவையாளர்கள் நாட்டை விட்டு வெளியேறியதால் சுகாதாரத்துறை கட்டமைப்பு பாதிக்கப்பட்டுள்ளது என்பதை ஏற்றுக்கொள்கிறோம். இதற்கமைய 2022 -2024 வரையான  காலப்பகுதியில்  பெருமளவிலான விசேட வைத்தியர்கள், வைத்தியர்கள் மற்றும்  தாதியர்கள் உட்பட சுகாதார சேவையாளர்கள் சேவையில் இருந்து விலகியுள்ளார்கள், அல்லது நாட்டை விட்டு வெளியேறியுள்ளார்கள்.
-
-...
-
-[Data](articles/5484dd30.json)
 
 ---

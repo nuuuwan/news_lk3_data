@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 05:13:20**
+As of **2025-01-10 05:28:44**
 
 ## Newspaper Stats
 
-*Scraped **64,628** Articles*
+*Scraped **64,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 647
 bbccomsinhala | 676
 economynextcom | 3,940
 islandlk | 3,941
-dailyftlk | 4,522
+dailyftlk | 4,524
 dailymirrorlk | 4,733
 adalk | 6,193
 adaderanalk | 7,911
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,628 articles have been extended.
+61,973 (95.9%) of 64,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### Sri Lanka – from crisis to confusion
+
+*2025-01-10 05:18:09* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-from-crisis-to-confusion/4-771662) · `en`
+
+One should understand that neoliberalism is a political idea and when it is merged into economics, to serve its needs, it creates disastrous consequences, such as rising inequality and poverty
+
+A new Government, elected with a massive majority is now in place, which brings with it a high degree of responsibility, to meet the high expectations of the voters.
+
+It was expected that the Government would proceed on a clear social-democratic path, towards development. However, an unexpected turn to the right has caused confusion.
+
+While the IMF program, which was known for some time, may have played a part, the NPP ‘economic team’ should have worked out its own program and come up with a convincing program which included development aspects, increasing export capacity, generating more payment capacity, which would have reduced the pressure for the Government after 2027. The lack of a development plan is of concern and only exposes the inabilities of the so called ‘economic team’.
+
+...
+
+[Data](articles/4370ec86.json)
+
+---
+
+### Sri Lanka’s strategic foreign engagement: President AKD’s upcoming visit to China and economic implications
+
+*2025-01-10 05:10:09* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-strategic-foreign-engagement-President-AKD-s-upcoming-visit-to-China-and-economic-implications/4-771661) · `en`
+
+Chinese Ambassador to Sri Lanka Qi Zhenhong hands over the fabric grant to Prime Minister Dr. Harini Amarasuriya
+
+Inauguration of the first phase of a housing project funded by China
+
+$ 25 m project at Hambantota International Port’s industrial park
+
+Sri Lanka’s President Anura Kumara Dissanayake (AKD) is scheduled to visit China mid-January, making it his second international trip following his recent visit to New Delhi. The timing of this visit, coming shortly after Dissanayake’s engagement with India, underscores his administration’s commitment to fostering strong relationships with both regional powers.
+
+...
+
+[Data](articles/14b4f7ce.json)
+
+---
 
 ### Godrej Sri Lanka launches revamped corporate website to support ambitious growth plans
 
@@ -1793,45 +1829,5 @@ Minister Handunetthi said the government would import the kernels. (Colombo/Jan0
 ...
 
 [Data](articles/18de2b8d.json)
-
----
-
-### ரோஹிங்யா மக்களுக்கு தொடர்ந்து அடைக்கலம் வழங்கவும்-UNHCR
-
-*2025-01-09 12:01:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிங்யா-மக்களுக்கு-தொடர்ந்து-அடைக்கலம்-வழங்கவும்-UNHCR/175-350031) · `ta`
-
-கடலில் தத்தளிக்கும் ரோஹிங்கியா மக்களை மீட்டு பாதுகாப்பாக கரையேற்ற இலங்கை அதிகாரிகளும் மக்களும் மேற்கொண்ட உயிர்காக்கும் நடவடிக்கைகளைப் பாராட்டிய UNHCR அல்லது UN அகதிகள் முகாமையகம், அம்மக்களுக்கு தொடர்ந்து அரவணைப்பையும் அடைக்கலத்தையும் வழங்குமாறு இலங்கை அதிகாரிகளைக் கோரியுள்ளது.
-
-"இந்த புதிய வருகையாளர்களுக்கு தொடர்ந்து இரக்கம் மற்றும் விருந்தோம்பலை வழங்குமாறு நாங்கள் பரிந்துரைக்கிறோம். அவர்களில் பலர் பாதிக்கப்படக்கூடிய பெண்கள் மற்றும் குழந்தைகள் என்பதுடன், அவர்கள் தங்கள் உயிரைப் பணயம் வைத்துள்ளனர். அவர்கள் கிட்டத்தட்ட வாரக்கணக்கில் கடல் பயணத்திற்கு ஏற்புடையதற்ற படகுகளில், பாதுகாப்பைத் தேடிப் பயணம் செய்கிறார்கள்," என்று UNHCR ஊடகப் பேச்சாளர் கூறினார்.
-
-இவ்வாறானவர்களை பாதுகாப்பாக கரை சேர்ப்பதையும் அவர்கள் உயிர்காக்கும் உதவியைப் பெறுவதையும் உறுதி செய்வதே UNHCR இன் முன்னுரிமை என்று அவர் மேலும் கூறினார்.
-
-அவர்கள் அவசர உதவியைப் பெறக்கூடிய தற்காலிக தங்குமிடங்களை அரசாங்க அதிகாரிகள் அடையாளம் கண்டுள்ளனர் என்று பேச்சாளர் தெரிவித்தார்.
-
-...
-
-[Data](articles/3e82cc42.json)
-
----
-
-### Sri Lanka watching for new Chinese virus, no confirmed patients yet
-
-*2025-01-09 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-watching-for-new-chinese-virus-no-confirmed-patients-yet-198736/) · `en`
-
-ECONOMYNEXT – Sri Lanka is on the watch for the spread of Human metapneumovirus (HMPV) from China, but no patients have been confirmed so far, Health Minister Nalinda Jayatissa said.
-
-The epidemiology unit and ministry of health are on alert, he said.
-
-“We are keeping watch on 20 locations”, minister Jayatissa told parliament.
-
-There was a suspected patient but tests were negative, he said but Sri Lanka has identified a HMPV patient before the current outbreak, he said.
-
-An outbreak of HMPV virus expanded in China in early December.
-
-HMPV causes a respiratory illness with the symptoms of flu or Cold like symptoms, but it could develop to a condition similar to bronchitis or pneumonia. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/fee11b37.json)
 
 ---

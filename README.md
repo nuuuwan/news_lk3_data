@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 14:28:57**
+As of **2025-01-10 14:44:39**
 
 ## Newspaper Stats
 
-*Scraped **64,697** Articles*
+*Scraped **64,699** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 472
-colombotelegraphcom | 647
+colombotelegraphcom | 648
 bbccomsinhala | 677
 economynextcom | 3,945
 islandlk | 3,953
 dailyftlk | 4,526
 dailymirrorlk | 4,733
-adalk | 6,200
+adalk | 6,201
 adaderanalk | 7,916
 tamilmirrorlk | 9,287
 virakesarilk | 10,811
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.8%) of 64,697 articles have been extended.
+61,973 (95.8%) of 64,699 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,7 +42,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 அதற்காக, இன்று (10) முதல் எதிர்வரும் ஏப்ரல் மாதம் 20ஆம் திகதி வரை, வெளிநாட்டு பயணங்களுக்கு விதிக்கப்பட்டுள்ள தடையை தற்காலிகமாக நீக்குவதற்கான உத்தரவை பிறப்பிக்குமாறு, சட்டத்தரணிகள், நீதிமன்றில் கோரிக்கை விடுத்துள்ளனர்.
 
-இந்த கோரிக்கையை ஏற்றுக்கொண்ட நீதிமன்றம், குறித்த காலப்பகுதியில், சம்பிக்க ரணவக்கவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடையை தற்காலிகமாக தளர்த்த உத்தரவிட்டதுடன், முன்னாள் அமைச்சர் பாட்டலி சம்பிக்க ரணவக்கவை ஏப்ரல் 20 ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலையாகுமாறும் உத்தரவிட்டுள்ளது. AN
+இந்த கோரிக்கையை ஏற்றுக்கொண்ட நீதிமன்றம், குறித்த காலப்பகுதியில், சம்பிக்க ரணவக்கவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடையை தற்காலிகமாக தளர்த்த உத்தரவிட்டதுடன், முன்னாள் அமைச்சர் பாட்டலி சம்பிக்க ரணவக்கவை ஏப்ரல் 20 ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலையாகுமாறும் உத்தரவிட்டுள்ளது.
 
 ◼️
 
@@ -294,6 +294,18 @@ Deputy Chairman of the Wharf Workers’ Association, A.J.M. Jaufer, attributed t
 
 ---
 
+### මහ කන්නයේ වී මිලදි ගැනිමට රු.බි. 10ක ඔඩපණ ණය යෝජනාවලියක්
+
+*2025-01-10 10:03:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-කන්නයේ-වී-මිලදි-ගැනිමට-රු-බි--10ක-ඔඩපණ-ණය-යෝජනාවලියක්/11-414130) · `si`
+
+මහ කන්නයේදි ගොවීන්ගෙන් සාධාරණ මිලට වී මිලදි ගැනිම වෙනුවෙන් සුව හා මධ්‍ය පරිමාණ සහල් මෝල් හමියන්ට හා සමූපාකාර සමිත වෙත රුපියල් මිලියන 10000ක ඔඩපණ ණය යෝජනා වලියක් ක්‍රියාත්මක බව රජය පවසයි. සහනදායි පොලී අනුපාතිකයක් යටතේ මෙම ණය යෝජනාවලිය ක්‍රියාත්මක වෙයි.
+
+◼️
+
+[Data](articles/81c1bf6f.json)
+
+---
+
 ### ஊடகவியலாளர் தாக்கப்பட்டு கடத்த முற்பட்ட சம்பவம் ; விரைவான பாராபட்சமற்ற விசாரணையை மேற்கொள்ளுங்கள் - இலங்கையிடம் பத்திரிகையாளர்களை பாதுகாக்கும் அமெரிக்க அமைப்பு கோரிக்கை
 
 *2025-01-10 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/203451) · `ta`
@@ -453,6 +465,22 @@ New concerns over a slowing economy – which can reduce tax revenues and boost 
 ◼️
 
 [Data](articles/7527e176.json)
+
+---
+
+### Historical Revelations On Renewable Energy
+
+*2025-01-10 09:02:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historical-revelations-on-renewable-energy/) · `en`
+
+Old records and references provide exciting and thought-provoking information which help us to learn from the past mistakes and move forward eliminating those that arise in the process. In particular when those reveal gross shortcomings and lapses of a system, it is worthy of revisiting those to learn from them to move on.
+
+Several years ago, some important revelations were made about the Renewable Energy Sector based on audit observations.
+
+Considering the prudency of revisiting these due to the prevailing current situation, we reproduce them to enable those interested in the issue to make a fair assessment of the developments since.
+
+...
+
+[Data](articles/d77fa370.json)
 
 ---
 
@@ -1807,39 +1835,5 @@ The paediatrician also pointed out worrying trends in childhood health condition
 ...
 
 [Data](articles/48011009.json)
-
----
-
-### Can President Anura Kumara Dissanayake  who came in with a mandate to end corruption, clean up his own parliament and ensure that both politicians and bureaucrats end their habits of bribes and commissions to get work done Under the ‘Clean Sri Lanka’ programme ?
-
-*2025-01-09 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85328) · `en`
-
-The ‘Clean Sri Lanka’ campaign launched by the government is hitting headlines especially in the electronic media, with videos of buses and three wheel drivers being stopped by police, advising them to remove the additional accessories on their vehicles.
-
-Despite a grace period extended by the police to remove such accessories, bus drivers associations and three wheel drivers are not happy. In fact a video circulating on social media, shows bus drivers threatening to strike if they continue to be ‘victimized’ by the police and talks are ongoing with the authorities.
-
-Now while this move has been long needed, considering how bus drivers drive recklessly on the roads and how such additional accessories on their vehicles may be leading to accidents, the publicity done by the authorities on a daily basis showing the cops hounding the drivers is quite amazing. It is a PR stunt well done highlighting how the government’s ‘Clean Sri Lanka’ programme is proceeding as promised.
-
-...
-
-[Data](articles/2b6e2502.json)
-
----
-
-### අද සිට වැස්ස වැඩවෙයි
-
-*2025-01-09 18:13:39* · [`adalk`](https://www.ada.lk/breaking_news/අද-සිට-වැස්ස-වැඩවෙයි/11-414122) · `si`
-
-අද(10දා)  සිට ඉදිරි දිනවල උතුර,උතුරු මැද සහ නැගෙනහිර පළත්වලත් මාතලේ හා නුවරඑලිය දිස්ත්‍රික්කවලත් පවතින වැසි තත්ත්වයේ වැඩිවීමක් සිදුවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-අද  ඌව,උතුර,උතුරු මැද සහ නැගෙනහිර පළත්වලත් මාතලේ හා නුවරඑලිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මි 75 ට වැඩි තරමක් තදවැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
-
-උතුර,නැගෙනහිර, උතුර මැද  සහ වයඹ  පළාත්වලත්  හම්බන්තොට දිස්ත්‍රික්කයේත් අද සුළගේ වේගය විටින් විට පැයට කි.මි 30 -40 දක්වා ඉහළ යා හැකි බවද දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට අද උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/a6f04f13.json)
 
 ---

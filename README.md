@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 11:44:48**
+As of **2025-01-10 12:03:52**
 
 ## Newspaper Stats
 
-*Scraped **64,689** Articles*
+*Scraped **64,690** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 471
+dbsjeyarajcom | 472
 colombotelegraphcom | 647
 bbccomsinhala | 677
 economynextcom | 3,945
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.8%) of 64,689 articles have been extended.
+61,973 (95.8%) of 64,690 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1330,6 +1330,18 @@ On the directive of the District Police Officer (DPO) of Khyber, a jirga was con
 
 ---
 
+### சதாசிவம்பிள்ளை கிருஷ்ணகுமார் என்ற இயற்பெயரைக் கொண்ட விடுதலை புலிகளின் அன்றைய யாழ்ப்பாண மாவட்ட தளபதி ‘ கேணல் ‘ கிட்டுவின் வாழ்வும் காலமும்
+
+*2025-01-09 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85318) · `en`
+
+இலங்கை ஆயுதப்படைகளுக்கும் தமிழீழ விடுதலை புலிகள் இயக்கத்துக்கும் இடையிலான 33 வருடகாலப் போர் இப்போதெல்லாம் நினைவில் இருந்து மெதுவாக அருகிக் கொண்டு போகிறது. விடுதலை புலிகள் இயக்கம் 1976  ஆம் ஆண்டு மே மாதம் 5 ஆம் திகதி முறைப்படி ஆரம்பிக்கப்பட்டது.  மூன்று தசாப்தகால போருக்கு பிறகு விடுதலை புலிகள் முல்லைத்தீவின் நந்திக்கடல் ஏரியில் 2009 ஆம் ஆண்டு மே மாதம் 18 ஆம் திகதி தங்களது தோல்வியைச் சந்தித்தார்கள்.  வேலுப்பிள்ளை பிரபாகரன் தலைமையிலான அந்த இயக்கத்தினால் இலங்கை அரசாங்கத்துக்கு எதிராக தொடுக்கப்பட்ட போர் சுதந்திரத்தின் பின்னரான இலங்கையின் வரலாற்றில் முக்கியமான  ஒரு பாகமாகும்.
+
+...
+
+[Data](articles/2982d55d.json)
+
+---
+
 ### சிறையில் உள்ள தம்பிக்கு ஜனாதிபதி பொது மன்னிப்பு வழங்க போவதில்லை - தொழில் பிரதி அமைச்சர்
 
 *2025-01-09 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/203425) · `ta`
@@ -1682,6 +1694,22 @@ The paediatrician also pointed out worrying trends in childhood health condition
 
 ---
 
+### Can President Anura Kumara Dissanayake  who came in with a mandate to end corruption, clean up his own parliament and ensure that both politicians and bureaucrats end their habits of bribes and commissions to get work done Under the ‘Clean Sri Lanka’ programme ?
+
+*2025-01-09 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85328) · `en`
+
+The ‘Clean Sri Lanka’ campaign launched by the government is hitting headlines especially in the electronic media, with videos of buses and three wheel drivers being stopped by police, advising them to remove the additional accessories on their vehicles.
+
+Despite a grace period extended by the police to remove such accessories, bus drivers associations and three wheel drivers are not happy. In fact a video circulating on social media, shows bus drivers threatening to strike if they continue to be ‘victimized’ by the police and talks are ongoing with the authorities.
+
+Now while this move has been long needed, considering how bus drivers drive recklessly on the roads and how such additional accessories on their vehicles may be leading to accidents, the publicity done by the authorities on a daily basis showing the cops hounding the drivers is quite amazing. It is a PR stunt well done highlighting how the government’s ‘Clean Sri Lanka’ programme is proceeding as promised.
+
+...
+
+[Data](articles/2b6e2502.json)
+
+---
+
 ### අද සිට වැස්ස වැඩවෙයි
 
 *2025-01-09 18:13:39* · [`adalk`](https://www.ada.lk/breaking_news/අද-සිට-වැස්ස-වැඩවෙයි/11-414122) · `si`
@@ -1841,49 +1869,5 @@ The paediatrician also pointed out worrying trends in childhood health condition
 ◼️
 
 [Data](articles/68c7e201.json)
-
----
-
-### උඩරට දුම්රිය ධාවනයට බාධා
-
-*2025-01-09 17:15:32* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-414116) · `si`
-
-උඩරට දුම්රිය මාර්ගයේ ඔහිය ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර 146 වන සැතපුම් කණුව අසලදී අද (9) පස්වරුවේ දුම්රිය මර්‍ර්ගයට ගලක් කඩා වැටී දුම්රිය මාර්ගයට හානි සිදු වීම නිසාවෙන් බදුල්ල කොළඹ කොටුව අතර දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
-
-මේ නිසාවෙන් කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1005දරන පොඩිමැනිකේ දුම්රියේ දුම්රිය රියදුරු දුම්රිය මාර්ගයේ රේල් පීල්ල කැඩි ඇති අයුරු කල් තියා දැක දුම්රිය නවතා ගැනීම නිසාවෙන් සිදුවීමට ගිය විශාල දුම්රිය අනතුරක් වැලකී ගිය බවත් දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
-
-කොළඹ කොටුව සිට පැමිණි අංක 1005 දරන පොඩිමැනිකේ දුම්රිය දැනට ඔහිය ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ අතරමග නවතා තබා ඇති බවත් උසස් නිළධාරියකු කීහ.
-
-දුම්රිය මාර්ගය සකස් කිරිමට ඔහීය දුම්රිය මාර්ග අංශයේ සේවකයන් එම ස්ස්ථානය ට යැවීමට කටයුතු සිදු කර ඇති බවත් , බදුල්ල සිට මහනුවර  බලා ධාවනය වූ අංක 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය දැනට ඉදල්ගස්හින්න දුම්රිය ස්ථානයේ නවතා තබා ඇතැයි ද නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් සදහන් කළේය .
-
-...
-
-[Data](articles/98e90859.json)
-
----
-
-### Spot US dollar closes at 294.95/295.10 Sri Lanka rupees
-
-*2025-01-09 17:13:00* · [`economynextcom`](https://economynext.com/spot-us-dollar-closes-at-294-95-295-10-sri-lanka-rupees-198826/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 294.95/295.10 to the US dollar in the spot market Thursday, weaker from yesterday’s close of 295.05/15 while bond yields were flat, dealer said.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 down from 9.40/45 percent.
-
-A bond maturing on 15.10.2027 closed at 9.75/85 percent unchanged from 9.75/85 percent.
-
-A bond maturing on 15.02.2028 closed at 10.10/15 perent down from 10.10/18 percent.
-
-A bond maturing on 15.10.2028 closed at 10.33/37 percent down from 10.45/52 percent.
-
-A bond maturing on 01.05.2028 closed at 10.25/30 percent down from 10.30/33 percent.
-
-A bond maturing on 15.09.2029 closed at 10.75/80 percent, down from 10.75/82 percent.
-
-A bond maturing on 15.05.2030 closed at 11.00/10 percent, down from 11.00/15 percent. (Colombo/Jan09/2025)
-
-◼️
-
-[Data](articles/74d02877.json)
 
 ---

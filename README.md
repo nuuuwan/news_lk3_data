@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 08:07:40**
+As of **2025-01-10 08:29:33**
 
 ## Newspaper Stats
 
-*Scraped **64,653** Articles*
+*Scraped **64,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 471
 colombotelegraphcom | 647
 bbccomsinhala | 677
 economynextcom | 3,940
-islandlk | 3,952
+islandlk | 3,953
 dailyftlk | 4,526
 dailymirrorlk | 4,733
 adalk | 6,194
 adaderanalk | 7,911
-tamilmirrorlk | 9,273
+tamilmirrorlk | 9,276
 virakesarilk | 10,805
 adaderanasinhalalk | 11,161
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.9%) of 64,653 articles have been extended.
+61,973 (95.8%) of 64,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-10 (Friday)
+
+### துப்பாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள் மீட்பு
+
+*2025-01-10 08:16:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டுக்கு-பயன்படுத்தப்பட்ட-மோட்டார்-சைக்கிள்-மீட்பு/175-350074) · `ta`
+
+காலி - அஹுங்கல்ல பகுதியில் நேற்று (09) காலை  நடந்த துப்பாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் மோட்டார் சைக்கிள் ஒன்று நேற்று இரவு அஹுங்கல்ல பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+இந்த மோட்டார் சைக்கிள் அஹுங்கல்ல, பொல்லத்துகந்த பகுதியில் உள்ள ஒரு இலவங்கப்பட்டை தோட்டத்தில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் மீட்கப்பட்டுள்ளது.
+
+நேற்று காலை 6:15 மணியளவில் ஸ்கூட்டரில் வந்த இரண்டு நபர்கள் இந்த துப்பாக்கிச் சூட்டை நடத்திவிட்டு தப்பிச் சென்றுள்ளார்.
+
+காயமடைந்த நபர் "லொக்கு பெட்டி" என்ற பாதாள உலகக் குழு உறுப்பினரின் உறவினர் என தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/3d2d9be0.json)
+
+---
+
+### இன்று முதல் மழை அதிகரிக்கும்
+
+*2025-01-10 07:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்/175-350073) · `ta`
+
+நாட்டில் இன்று (10) முதல் அடுத்த சில நாட்களில் நாட்டின் வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களிலும், மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் மழை அதிகரிக்குமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+அந்த மாகாணங்களில் அவ்வப்போது மழை பெய்யக்கூடும் எனவும், சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான ஓரளவு பலத்த மழை பெய்யும் வாய்ப்பு உள்ளதாகவும் தெரிவித்துள்ளது.
+
+மேற்கு, சப்ரகமுவ, தென் மாகாணங்களிலும், கண்டி மாவட்டத்திலும் மாலை அல்லது இரவில் இடியுடன் கூடிய மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+வடக்கு, கிழக்கு, வடமத்திய, வடமேல் மாகாணங்களிலும், ஹம்பாந்தோட்டை மாவட்டத்திலும் மணிக்கு 30-40 கிலோமீற்றர் வேகத்தில் காற்று வீசும் எனத் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/f47b5c32.json)
+
+---
 
 ### Pan Asia Bank honors longstanding staff at special awards night
 
@@ -429,6 +465,22 @@ Questioning the Government as to why it is still not taking action to repeal the
 ...
 
 [Data](articles/a93cb11e.json)
+
+---
+
+### மீனவர் கைது விவகாரம்: ஸ்டாலின் மீண்டும் கடிதம்
+
+*2025-01-10 03:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-கைது-விவகாரம்-ஸ்டாலின்-மீண்டும்-கடிதம்/175-350072) · `ta`
+
+இலங்கைக் கடற்படையினரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள அனைத்து மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் விரைவில் விடுவிக்க நடவடிக்கை எடுக்க வேண்டும் என இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கருக்கு தமிழக முதல்வர் மு.க.ஸ்டாலின் கடிதம் எழுதியுள்ளார்.
+
+மீனவர்கள் தங்கள் வாழ்வாதாரத்திற்கு மீன்பிடித் தொழிலை மட்டுமே பெரிதும் நம்பியுள்ளதாகவும் அவர்களை, இலங்கைக் கடற்படையினர் சிறைபிடிப்பதால், அவர்களது வாழ்வாதாரம் பாதிக்கப்படுவதாகவும் குறித்த கடிதத்தில் ஸ்டாலின் சுட்டிக்காட்டியுள்ளார்.
+
+உரிய இராஜதந்திர வழிமுறைகளை முன்னெடுத்து, அனைத்து மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் விரைவில் விடுவிக்க உடனடி நடவடிக்கை எடுக்க வேண்டும் என்று இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கரைக் கேட்டுக்கொண்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/3236dc4e.json)
 
 ---
 
@@ -1767,51 +1819,5 @@ The Secretary to the President, Dr. Nandika Sanath Kumanayake, was also present 
 ◼️
 
 [Data](articles/f339064b.json)
-
----
-
-### කෝප් නව සභාපති මෙන්න
-
-*2025-01-09 14:24:31* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-නව-සභාපති-මෙන්න/11-414109) · `si`
-
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප්) සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා අද(09දා)  ඒකමතිකව තේරී පත්ව තිබේ.
-
-◼️
-
-[Data](articles/b2b1f2a9.json)
-
----
-
-### Curtain rises on ‘Battle of the NVOCCs’
-
-*2025-01-09 14:24:00* · [`islandlk`](http://island.lk/curtain-rises-on-battle-of-the-nvoccs/) · `en`
-
-The Sri Lanka Association of NVOCC Agents (SLANA) is gearing up to host the highly anticipated SLANA Sixes cricket tournament, titled “Battle of the NVOCCs,” on January 11. The event will take place at the prestigious MCA Grounds, Wijerama Mawatha, Colombo 7, starting at 8:00 a.m.
-
-This year’s tournament, a cornerstone in the maritime industry calendar, promises a day of sportsmanship, networking and camaraderie, bringing together professionals from Sri Lanka’s maritime and shipping sectors. Adding to the excitement, a top official from the maritime industry will grace the event as the chief guest, emphasizing the importance of NVOCC agents to the nation’s trade and shipping infrastructure.
-
-...
-
-[Data](articles/c72da858.json)
-
----
-
-### Police continue island-wide traffic operations under ‘Clean Sri Lanka’
-
-*2025-01-09 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104849/police-continue-island-wide-traffic-operations-under-clean-sri-lanka) · `en`
-
-Traffic operations launched by Sri Lanka Police in line with the ‘Clean Sri Lanka’ national initiative, are continuing further across the island.
-
-It has been observed that certain three-wheeler drivers are now removing the additional accessories they had previously attached to their vehicles.
-
-As part of the initiative, the police recently started removing unsafe modifications and accessories from buses, three-wheelers, and other vehicles in various locations, including Colombo and these operations will continue without causing disruption to passengers.
-
-Meanwhile, the Police Spokesman announced that a three-month grace period will be given to private bus owners to remove unnecessary additional accessories from buses, as discussed yesterday between the private bus owners’ unions and the Acting IGP.
-
-However, shop owners who sell vehicle parts used to decorate three-wheelers say that their sales have now dropped significantly.
-
-...
-
-[Data](articles/747f849a.json)
 
 ---

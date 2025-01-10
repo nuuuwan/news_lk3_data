@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-10 08:50:00**
+As of **2025-01-10 09:03:53**
 
 ## Newspaper Stats
 
@@ -292,7 +292,7 @@ The upcountry Tamils of Sri Lanka constitute an interesting case study in terms 
 
 *2025-01-10 05:28:23* · [`dailyftlk`](https://www.ft.lk/columns/Tiger-Col-Charles-was-mastermind-behind-Katunayake-Airport-attack/4-771663) · `en`
 
-The Long Range Reconnaissance Patrol (LRRP) was a specialised military intelligence unit of the Sri Lankan army that was deployed by the State against the Liberation Tigers of Tamil Eelam (LTTE) during the armed conflict. Sri Lanka’s Long Range Reconnaissance Patrol (LRRP) was known in Sinhala as the “Digu Dura Vihidum Balakaya” and in Tamil as the “Aazha Ooduruvithaakkum Padaiyani”. It was also called the Deep Penetration Unit (DPU) and
+The Long Range Reconnaissance Patrol (LRRP) was a specialised military intelligence unit of the Sri Lankan army that was deployed by the State against the Liberation Tigers of Tamil Eelam (LTTE) during the armed conflict. Sri Lanka’s Long Range Reconnaissance Patrol (LRRP) was known in Sinhala as the “Digu Dura Vihidum Balakaya” and in Tamil as the “Aazha Ooduruvithaakkum Padaiyani”. It was also called the Deep Penetration Unit (DPU) and “Mahasonon Brigade of the Army”.
 
 The LRRP was basically utilised for black ops. A black operation or black op is a covert or clandestine operation by a government agency, a military unit or a paramilitary organisation. Key features of a black operation are that it is secret and is not attributable to the organisation carrying it out. The usage of specialised military intelligence units to assassinate the enemy has been practised by different states and different armies in different situations.
 

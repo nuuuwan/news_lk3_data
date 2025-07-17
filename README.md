@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 10:51:29**
+As of **2025-07-17 11:06:13**
 
 ## Newspaper Stats
 
-*Scraped **65,157** Articles*
+*Scraped **65,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,981
 economynextcom | 3,989
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,250
-adaderanalk | 7,943
+adalk | 6,252
+adaderanalk | 7,945
 tamilmirrorlk | 9,324
 virakesarilk | 10,842
-adaderanasinhalalk | 11,194
+adaderanasinhalalk | 11,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,157 articles have been extended.
+61,973 (95.1%) of 65,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### Canadian PM backs Public Safety Minister over letters supporting Sri Lankan’s immigration case
+
+*2025-07-17 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110565/canadian-pm-backs-public-safety-minister-over-letters-supporting-sri-lankans-immigration-case) · `en`
+
+Canadian Prime Minister Mark Carney has expressed confidence in Public Safety Minister Gary Anandasangaree following a report that Anandasangaree, prior to becoming a minister, wrote letters supporting the immigration application of Senthuran Selvakumaran, a Sri Lankan man barred from Canada due to alleged affiliation with the Tamil Tigers.
+
+Anandasangaree, who denies Selvakumaran’s affiliation claims, stated he was acting as an MP for a constituent and has since recused himself from Sri Lanka-related matters as minister.
+
+Carney has expressed confidence in Public Safety Minister Gary Anandasangaree after a report that, before he became a minister, he supported an immigration application from a Sri Lankan whom federal officials had barred from entering Canada.
+
+...
+
+[Data](articles/36921a63.json)
+
+---
 
 ### நிமிஷாஷாவுக்கு மன்னிப்பு கிடையாது:   மெஹ்தியின் சகோதரர் திட்டவட்டம்
 
@@ -55,6 +71,14 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-07-17 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212341) · `si`
 
 අයථා ලෙස වත්කම් උපයා ගැනීමේ චෝදනාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තුන් දෙනා සහ බෑණාට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අද (17) අධිචෝදනා භාරදුන්නේය.
+
+අල්ලස් කොමිසම විසින් ගොනුකර තිබූ අධිචෝදනා පත්‍ර කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මහත්මිය ඉදිරියේ භාරදීම සිදුකළාය.
+
+ඉන් අනතුරුව විත්තිකරුවන් රුපියල් 50,000ක මුදල් ඇප සහ රුපියල් ලක්ෂ 10 බැගින් වූ ශරීරය ඇප දෙකක් මත මුදා හැරීමට නියම කෙරුණි.
+
+ඉන් අනතුරුව ඔවුන්ගේ විදේශ ගමන් තහනම් කිරීමට නියම කෙරුණු අතර විදේශ ගමන් බලපත්‍ර අධිකරණය භාරයට ගැනීමටත් කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මහත්මිය නියම කළාය.
+
+රුපියල් මිලියන 97කට අධික වත්කම් අයථා ලෙස උපයා ගැනීම සම්බන්ධයෙන් මෙම විත්තිකරුවන්ට එරෙහිව මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ මෙම චෝදනා අල්ලස් කොමිසම විසින් ගොනුකර තිබේ.
 
 ◼️
 
@@ -124,6 +148,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Rainy conditions expected to enhance from today
+
+*2025-07-17 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110564/rainy-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says that, due to the prevailing active southwest monsoon conditions, rainy conditions are expected to be enhanced, particularly in areas over the western slope of the central hills during the next few days, from today (July 18).
+
+Further, strong winds are expected over the island and in the sea areas around the island.
+
+The general public is requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/c9af30c3.json)
+
+---
+
 ### செம்மணிக்காக கொழும்பில் இன்று ஆர்ப்பாட்டம்
 
 *2025-07-17 10:15:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்காக-கொழும்பில்-இன்று-ஆர்ப்பாட்டம்/175-361233) · `ta`
@@ -133,6 +173,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/895835bb.json)
+
+---
+
+### වැස්සේ වැඩිවීමක් ගැන කාලගුණයෙන් විශේෂ නිවේදනයක්
+
+*2025-07-17 10:10:20* · [`adalk`](https://www.ada.lk/breaking_news/වැස්සේ-වැඩිවීමක්-ගැන-කාලගුණයෙන්-විශේෂ-නිවේදනයක්/11-417348) · `si`
+
+පවතින සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් වැසි තත්ත්වයේ වැඩිවීමක් විශේෂයෙන් මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍ර දේශවලට ජුලි මස 18 වන දා සිට ඉදිරි දින කිහිපයේදී අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විශේෂ නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එසේම දිවයින හරහා සහ දිවයින වටා මුහුදු ප්‍රදේශවල තද සුළං තත්වයක් බලාපොරොත්තුවන බවද එම නිවේදනයේ දැක්වෙයි.
+
+අද පෙරවරුවේ නිකුත් කල නිවේදනය හරහා කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසන්නේ සිය දෙපාර්තමේන්තුව විසින් මේ සම්බන්ධයෙන් නිකුත් කරනු ලබන ඉදිරි නිවේදන පිළිබඳව මහජනතාව අවධානයෙන් පසුවන ලෙසයි.
+
+◼️
+
+[Data](articles/c8a80816.json)
 
 ---
 
@@ -415,6 +471,26 @@ Meanwhile, Pradeep Nilanga Dela also stated that the shortage of elephants for t
 ◼️
 
 [Data](articles/9bba5b22.json)
+
+---
+
+### දෙහිවලදී උපත ලැබූ දාර පිඹුරු පැටව්
+
+*2025-07-17 07:57:59* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලදී-උපත-ලැබූ-දාර-පිඹුරු-පැටව්/11-417347) · `si`
+
+දෙහිවල ජාතික සත්වෝද්‍යානය තුල සිටින "දාර පිඹුරු " යුවලකට දාව සුදු පැහැති දාර පිඹුරු පැටවුන් විස්සකට ආසන්න ප්‍රමාණයක් ඉකුත් 16 වනදින බිහිවී ඇතැයි සත්වෝද්‍යාන ප්‍රකාශකයෙකු පැවසීය .
+
+මෙම පිඹුරු විශේෂය එම යුවල සමග තවත් පිඹුරන් 13ක්,  පෙන්ටරි කටුස්සන් එකක් ,කැස්බෑවුන් එකක්,  ගිරවුන් තුනක්ද
+
+නීතිවිරෝධී අන්දමට දකුණු මුහුදේදී බහුදින ධීවර යාත්‍රාවකින්  ප්‍රවාහනය කරමින් සිටියදී 2024.ජුලි මස 09 වනදින
+
+ශ්‍රී ලංකා නාවික හමුදාව මගින් පුද්ගලයින් පස් දෙනෙකු සමග අත්අඩංගුවට ගෙන වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව වෙත භාරදී තිබුණි.
+
+අනතුරුව මෙම සතුන් දෙහිවල ජාතික සත්වෝද්‍යානය වෙත භාර දෙනු ලැබ එහි හැදීවැඩී සිටින අතර මෙම දාර පිඹුරු යුවළට බිත්තර තොගය ලැබී ආරක්ෂක කුටිවල තැන්පත්කර සත්ව භාරකරුවන් යටතේ හා පශු වෛද්‍යවරුන්ගේ අධීක්ෂණය යටතේ සොයා බැලීම් කරනු ලැැැබූ බවත් එම ප්‍රකාශකයා පැවසීය.
+
+...
+
+[Data](articles/5caec0d9.json)
 
 ---
 
@@ -1665,83 +1741,5 @@ The Attorney General’s Department had expressed its views on the draft Bill be
 ◼️
 
 [Data](articles/23ebb043.json)
-
----
-
-### ජෝ රූට් නැවතත් අංක එකට - කමිඳු, නිස්සංක, ධනංජය ශ්‍රේණිගත කිරීම් හී ඉදිරියට
-
-*2025-07-16 17:10:25* · [`adalk`](https://www.ada.lk/sports/ජෝ-රූට්-නැවතත්-අංක-එකට---කමිඳු--නිස්සංක--ධනංජය-ශ්‍රේණිගත-කිරීම්-හී-ඉදිරියට/9-417335) · `si`
-
-අයි.සී.සී. ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගත කිරීම්හී පළමු ස්ථානයට පැමිණීමට එංගලන්තයේ ජෝ රූට් සමත්ව තිබේ.
-
-එමෙන්ම නවසීලන්තයේ කේන් විලියම්සන් දෙවන ස්ථානය දක්වා එක් ස්ථානයකින් ඉහළට පැමිණ ඇත.
-
-මේ අතර, ශ්‍රී ලාංකික ක්‍රීඩකයන්ද ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගත කිරීම්හී  ඉදිරියට පැමිණ ඇත.
-
-ඒ අනුව කමිඳු මෙන්ඩිස්  07 වැනි ස්ථානය දක්වා ස්ථාන ​ 2කින් ඉදිරියට පැමිණ ඇති අතර, පැතුම් නිස්සංක 18 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් ඉහළට පැමිණ ඇත.
-
-නායක ධනංජය ද සිල්වා ද එක් ස්ථානයකින් ඉහළට පැමිණ ඇති අතර, ඔහු මේ වන විට ශ්‍රේණිගත කිරීම් හී 25 වැනි ස්ථානයේ පසුවන්නේය.
-
-◼️
-
-[Data](articles/94e64fa2.json)
-
----
-
-### Sri Lanka rupee weaker, bond yields up
-
-*2025-07-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-bond-yields-up-231041/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.40/50 to the US dollar in the spot market Wednesday, weaker from 301.00/15 a day earlier, while bond yields were up.
-
-In the secondary market, a bond maturing 15.12.2026 closed at 8.10/20 percent, up from 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed at 8.45/56 percent, up from 8.45/55 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/53 percent, up from 9.48/52 percent.
-
-A bond maturing on 15.09.2034 closed at 10.84/95 percent. (Colombo/Jul16/2025)
-
-◼️
-
-[Data](articles/70cd9952.json)
-
----
-
-### கணேமுல்ல சஞ்சீவ கொலை  கான்ஸ்டபிளுக்கு பிணை
-
-*2025-07-16 16:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணேமுல்ல-சஞ்சீவ-கொலை-கான்ஸ்டபிளுக்கு-பிணை/175-361203) · `ta`
-
-பாதாள உலகக் குழு தலைவர்கனேமுல்ல சஞ்சீவின் கொலைக்கு உதவியதாகவும், உடந்தையாக இருந்ததாகவும் கூறப்படும் குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த அதுருகிரிய காவல் துறையில் பணியாற்றும் கான்ஸ்டபிள் ஹசித ரோஷனை, கொழும்பு உயர் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன கடந்த வெள்ளிக்கிழமை (11) அன்று பிணையில் விடுவிக்க உத்தரவிட்டார்.
-
-சந்தேக நபர் சார்பாக ஆஜரான வழக்கறிஞர்மேர்வின் டி சில்வாவின் சமர்ப்பணத்தைத் தொடர்ந்து பிணை உத்தரவு பிறப்பிக்கப்பட்டது.
-
-அவர்,அந்த கொலைக்கு உதவினார் என்பதை நிரூபிக்க நேரடி ஆதாரங்கள் எதுவும் இல்லை என்று நீதிமன்றத்தின் கவனத்திற்கு கொண்டுவரப்பட்டது.
-
-அதன்படி, கொழும்பு நீதவான் தனுஜா லக்மாலி ஜெயதுங்க புதன்கிழமை (16) அன்று சந்தேக நபரை, தலா 2.5 மில்லியன் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணைகள் மற்றும் 50,000 ரூபாய் ரொக்கப் பிணையில் விடுவித்தார்
-
-◼️
-
-[Data](articles/f1780210.json)
-
----
-
-### Court allows to detain and question 2 suspects in Kahawatta shooting incident
-
-*2025-07-16 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110549/court-allows-to-detain-and-question-2-suspects-in-kahawatta-shooting-incident) · `en`
-
-Police have been granted permission to detain for a period of seven days and question two of the four suspects arrested in connection with the abduction and murder of a youth in Kahawatta.
-
-Accordingly, the Homagama Magistrate ordered the other two suspects to be remanded until tomorrow (17), and they are scheduled to be produced before the Pelmadulla Court on the same day.
-
-On June 30, a 22-year-old youth died in the shooting while another 27-year-old person was hospitalized after sustaining injuries.
-
-According to the Western Province- North Crimes Division, four suspects were arrested for aiding and abetting the incident while the vehicle used to carry out the abduction has also been recovered.
-
-The incident occurred at a house in Palansuriyagama, Kahawatta while two brothers were having a conversation with another young man.
-
-...
-
-[Data](articles/3f53ca13.json)
 
 ---

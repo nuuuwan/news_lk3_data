@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 14:06:46**
+As of **2025-07-17 14:24:35**
 
 ## Newspaper Stats
 
-*Scraped **65,206** Articles*
+*Scraped **65,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 3,982
 economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,257
+adalk | 6,258
 adaderanalk | 7,948
 tamilmirrorlk | 9,341
 virakesarilk | 10,849
-adaderanasinhalalk | 11,204
+adaderanasinhalalk | 11,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,206 articles have been extended.
+61,973 (95.0%) of 65,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### බූස්ස බන්ධනාගාරයේ කටයුතුවලින් STF නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා පෙත්සමක්
+
+*2025-07-17 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212351) · `si`
+
+බුස්ස අධිආරක්ෂිත බන්ධනාගාරයේ කටයුතුවලින් පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන නියෝගය සැප්තැම්බර් මස 01 වනදා ප්‍රකාශයට පත් කරන බව අභියාචනාධිකරණය නියෝග කර තිබේ.
+
+ප්‍රබල පාතාල කල්ලි නායකයෙකු බව කියන ජේ.ඒ. රුවන් කුමාර හෙවත් මිදිගම රුවන් විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+
+එම පෙත්සම අද (17) සලකා බැලීම සඳහා අභියාචනාධිකරණයේ සභාපති විනිසුරු රෝහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූහ.
+
+එහිදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් බූස්ස බන්ධනාගාරය අධි ආරක්ෂිත බන්ධනාගාරයක් වශයෙන් ප්‍රකාශයට පත් කර ඇති බවත් එහි අභ්‍යන්තර හා බාහිර කටයුතුවලට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් යොදවාගෙන තිබෙන බවත් චෝදනා කළේය.
+
+...
+
+[Data](articles/7a912af6.json)
+
+---
 
 ### රන් ගිනිඅවි සිද්ධියේ සැකකාරියට ඇප
 
@@ -38,9 +56,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඉකුත්දා කොළඹ ,හැව්ලොක් සිටි නිවාස සංකීර්ණයේ කාන්තාවක් සතුව තිබී රන් ආලේපිත ගිනිඅවියක් සොයා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි සැකකාරිය ඇප මත මුදාහරිණ ලෙස කොළඹ මහාධිකරණ නියම කර තිබේ.
 
+අදාළ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින විශාඛා අයිරාංගනී විරකෝන් නමැති  සැකකාරිය වෙනුවෙන් ඉදිරිපත් කර තිබූ ඇප ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු මංජුල තිරකරත්න මහතා විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව අදාළ සැකකාරිය රුපියල් 250,000ක මුදල් ඇප සහ රුපියල් ලක්ෂ 25 බැගින් වූ ශරීරය ඇප දෙකක් මත මුදා හැරීමටත් අධිකරණය විසින් නියම කරනු ලැබීය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු අමාත්‍ය දුමින්ද දිසානායක මහතා ද ඉකුත්දා ඇප මත මුදා හැරීමට කොළඹ මහාධිකරණය විසින් නියෝග කර තිබුණි.
+
 ◼️
 
 [Data](articles/dfb18397.json)
+
+---
+
+### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
+
+*2025-07-17 13:45:51* · [`adalk`](https://www.ada.lk/breaking_news/කුරුලු-උයනේ-හිමිකරු-අත්අඩංගුවට/11-417355) · `si`
+
+හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව අද (17දා)  විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගිය දා සඟවා තබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් වන චෝදනාව මත ඔහුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/9471b3a7.json)
 
 ---
 
@@ -1761,33 +1799,5 @@ The Chairman of BOI emphasised that Germany was the first EU and Western country
 ...
 
 [Data](articles/bdfb5e6a.json)
-
----
-
-### FCCISL strengthens economic cooperation with Oman
-
-*2025-07-17 00:17:22* · [`dailyftlk`](https://www.ft.lk/business/FCCISL-strengthens-economic-cooperation-with-Oman/34-779094) · `en`
-
-The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has taken a significant step towards strengthening economic cooperation with the Sultanate of Oman, following a productive meeting with Ambassador of Oman in Colombo Ahmed Ali Said Al Rashdi.
-
-The high-level discussions focused on expanding bilateral trade, investment, and tourism opportunities. The Ambassador emphasised Oman’s strategic value as a regional trade hub, citing existing Free Trade Agreements with the United States, European Union, and the United Kingdom, as well as ongoing negotiations for an FTA with India. He also highlighted Oman’s investor-friendly environment, with customs duties at 5%, VAT at 15%, and corporate taxation capped at 15%.
-
-...
-
-[Data](articles/8349c89e.json)
-
----
-
-### BCCS Awards 2025: Stronger focus on integrity, impact and innovation
-
-*2025-07-17 00:16:38* · [`dailyftlk`](https://www.ft.lk/business/BCCS-Awards-2025-Stronger-focus-on-integrity-impact-and-innovation/34-779093) · `en`
-
-Now in its 22nd year, the Best Corporate Citizen Sustainability (BCCS) Awards continues to raise the bar for corporate responsibility in Sri Lanka. Organised by The Ceylon Chamber of Commerce, the 2025 edition brings sharper emphasis on accountability, meaningful impact, and measurable outcomes, along with several important updates to the application and evaluation process.
-
-This year’s applicants can expect new and revised questions across categories, aimed at deepening the quality and relevance of responses. Strict adherence to the application guidelines will be expected, with an initial screening process introduced. The pre-screening by The Ceylon Chamber will ensure that submissions meet baseline criteria before being forwarded for final evaluation by the independent panel of national sustainability experts.
-
-...
-
-[Data](articles/acbf6d9c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 00:50:16**
+As of **2025-07-18 01:12:43**
 
 ## Newspaper Stats
 
-*Scraped **65,286** Articles*
+*Scraped **65,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
 economynextcom | 3,997
-dailyftlk | 4,616
+dailyftlk | 4,618
 dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
@@ -26,9 +26,43 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,286 articles have been extended.
+61,973 (94.9%) of 65,288 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-18 (Friday)
+
+### Port City Colombo showcases investment potential at Sri Lanka Investor Trade and Tourism Forum 2025 in Malaysia
+
+*2025-07-18 01:02:19* · [`dailyftlk`](https://www.ft.lk/business/Port-City-Colombo-showcases-investment-potential-at-Sri-Lanka-Investor-Trade-and-Tourism-Forum-2025-in-Malaysia/34-779117) · `en`
+
+Port City Colombo presentation at Sri Lanka Investor Trade and Tourism Forum 2025
+
+Port City Colombo representatives with Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath
+
+Port City Colombo participated as a Strategic Partner at the Sri Lanka Investor Trade & Tourism Forum 2025, held on 11 July, in Kuala Lumpur, Malaysia. The event was organised by the Sri Lankan High Commission in Kuala Lumpur, in collaboration with CHEC Port City Colombo Ltd., – the project developer. The aim of this noteworthy occasion was to showcase the emerging investment opportunities available in Sri Lanka to prospective Malaysian investors, with a special emphasis on Port City Colombo as a prime investment locale in South Asia.
+
+...
+
+[Data](articles/fefffeea.json)
+
+---
+
+### Safeguarding trust in digital era
+
+*2025-07-18 01:00:46* · [`dailyftlk`](https://www.ft.lk/business/Safeguarding-trust-in-digital-era/34-779116) · `en`
+
+A seminar focused on “Data Protection and Cybersecurity implementation” will be held on 7 August, at the NH Collection in Colombo, under the theme “Safeguarding Trust: Implementing Data Protection and Cybersecurity in a Digital Era”.
+
+The event will feature two dedicated sessions addressing Sri Lanka’s readiness to operationalise the Personal Data Protection Act (PDPA) and strengthen cybersecurity practices across sectors. The initiative is aligned with the Government of Sri Lanka’s Digital Economy Program, which places digital trust and resilience at the core of national transformation efforts.
+
+The seminar will bring together professionals from legal, regulatory, ICT, and private sector domains, including large corporates, public enterprises, and SMEs. It aims to foster institutional dialogue, regulatory alignment, and practical awareness across industries.
+
+...
+
+[Data](articles/d35f34b0.json)
+
+---
 
 ### 2025-07-17 (Thursday)
 
@@ -1817,41 +1851,5 @@ The cause of the fire was not immediately known, but the province’s governor s
 ◼️
 
 [Data](articles/b058a9c3.json)
-
----
-
-### Fifty people killed in a shopping mall fire in Iraq
-
-*2025-07-17 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110567/fifty-people-killed-in-a-shopping-mall-fire-in-iraq) · `en`
-
-Fifty people were killed in a massive fire in a hypermarket in al-Kut city in eastern Iraq, the state news agency (INA) reported on Thursday, citing the province’s governor.
-
-Videos circulating on social media showed flames engulfing a five-storey building in al-Kut overnight, while firefighters were trying to contain the fire.
-
-The cause of the fire was not immediately known, but the governor said initial results from an investigation would be announced within 48 hours, INA reported.
-
-“We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
-
-At least 50 people have been killed and dozens remain missing after a fire broke out early Thursday morning at a shopping mall in Iraq’s eastern Wasit province, according to Iraqi state media.READ MORE: https://t.co/oF0hGwnXzO pic.twitter.com/MoAdr0CXqR— Rudaw English (@RudawEnglish) July 17, 2025
-
-◼️
-
-[Data](articles/d0fbab81.json)
-
----
-
-### யாழில் பிரமிட் திட்டங்களைத் தடுக்கும் தேசிய விழிப்புணர்வு நிகழ்ச்சி
-
-*2025-07-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220200) · `ta`
-
-பிரமிட் திட்டங்களில் ஈடுபடுவதால் ஏற்படும் பாதகமான பொருளாதார விளைவுகள் மற்றும் அவற்றின் பரவலைத் தடுக்கும் வகையில், அத்தகைய திட்டங்களை எவ்வாறு தவிர்க்கலாம் என்பதைக் குறித்து தேசிய விழிப்புணர்வு நிகழ்ச்சி ஒன்று புதன்கிழமை (16) யாழ்ப்பாணம் மாவட்ட செயலக மாநாட்டு மண்டபத்தில் நடைபெற்றது.
-
-மாவட்ட செயலர்  மருதலிங்கம் பிரதீபன் தலைமையில் நடைபெற்ற இந்நிகழ்வின் போது, தலைமையுரை ஆற்றிய அவர், ஜனாதிபதி செயலகம் மற்றும் பொது நிர்வாக உள்நாட்டு அலுவல்கள் அமைச்சின் அறிவுறுத்தலுக்கமைய, ஜூலை 14 முதல் 18 வரை தேசிய விழிப்புணர்வு வாரமாக பிரகடனப்படுத்தப்பட்டுள்ளதாக தெரிவித்தார்.
-
-அதற்கமைய, மாவட்ட மற்றும் பிரதேச செயலக உத்தியோகத்தர்களை ஒருங்கிணைத்து, பிரமிட் திட்டங்களில் ஈடுபடுவதால் ஏற்படும் பாதகமான விளைவுகள் மற்றும் அவற்றைத் தவிர்க்கும் வழிமுறைகள் குறித்த விழிப்புணர்வு நடவடிக்கைகள் மேற்கொள்ளப்படுவதாகவும் அவர் கூறினார்.
-
-...
-
-[Data](articles/6cb5c283.json)
 
 ---

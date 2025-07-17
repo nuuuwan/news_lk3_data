@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 17:52:26**
+As of **2025-07-17 18:08:54**
 
 ## Newspaper Stats
 
-*Scraped **65,242** Articles*
+*Scraped **65,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,142 @@ economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,263
-adaderanalk | 7,956
-tamilmirrorlk | 9,349
-virakesarilk | 10,855
-adaderanasinhalalk | 11,210
+adaderanalk | 7,959
+tamilmirrorlk | 9,350
+virakesarilk | 10,860
+adaderanasinhalalk | 11,211
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,242 articles have been extended.
+61,973 (95.0%) of 65,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### ඇහැලේපොළ වලව්වේ ඉටි රූප කෞතුකාගාරය ජනපති අතින් විවෘත කෙරේ
+
+*2025-07-17 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212360) · `si`
+
+මහනුවර ඓතිහාසික ඇහැලේපොළ වලව්වේ ඉටි රූප කෞතුකාගාරය ජනාධිපති අනුර කුමාර දිසානායක මහතා අතින් අද (17) පෙරවරුවේ විවෘත කෙරිණි.
+
+නාගරික සංවර්ධන අධිකාරිය විසින් ප්‍රතිසංස්කරණය කරන ලද ඇහැලේපොළ වලව්ව ශ්‍රී දළදා මාළිගාවට පවරා දීමෙන් පසු, එහි පුරාවිද්‍යාත්මක හා සංස්කෘතික වටිනාකම් සුරක්ෂිත කර ගනිමින් මෙම කෞතුකාගාරය නිර්මාණය කර තිබේ.
+
+ඇහැලේපොළ වලව්ව අයත් කන්ද උඩරට රාජධානියේ ගෘහ නිර්මාණ ශිල්පය, චාරිත්‍රවාරිත්‍ර සහ කලා ශිල්ප ආදිය ඉටි ආශ්‍රයෙන් මෙහි ප්‍රතිනිර්මාණය කර තිබෙන අතර, පාරම්පරික කර්මාන්ත පිළිබඳ  ප්‍රදර්ශන කුටි මෙන්ම ඉපැරණි  භෝජනාගාරයක්ද ස්ථාපිත කර තිබේ.
+
+එමෙන්ම, වැලිවිට ශ්‍රී සරණංකර සංඝරාජ හිමි, වාරියපොල ශ්‍රී සුමංගල හිමි,  පළමු වන විමලධර්මසූරිය රජු, කුසුමාසන දේවිය, මොණරවිල කැප්පෙටිපොළ දිසාව, දේවේන්ද්‍ර මුලාචාරිතුමා, රොබට් බ්‍රවුන්රිග් ආණ්ඩුකාරවරයා,  ඇහැලේපොළ මහාධිකාරම්, කුමාරිහාමි, දරු දෙදෙනා ඇතුළු  ඉතිහාසයේ සුවිශේෂි චරිත 35කට අදාළ ජීවමාන ඉටි රූප මෙහි ප්‍රතිනිර්මාණය කරනු ලැබ ඇත.
+
+...
+
+[Data](articles/4f7ce424.json)
+
+---
+
+### வரலாறு ,அழகியல் பாடங்கள் பாடத்திட்டத்திலிருந்து நீக்கம்?
+
+*2025-07-17 17:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரலாறு-அழகியல்-பாடங்கள்-பாடத்திட்டத்திலிருந்து-நீக்கம்/175-361271) · `ta`
+
+வரலாறு மற்றும் அழகியல் ஆகியவை பாடசாலை பாடத்திட்டத்திலிருந்து நீக்கப்பட்டுள்ளதாகக் கூறப்படும் கூற்றுக்களை பிரதமரும் கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய உறுதியாக நிராகரித்துள்ளார். புதிய கல்வி சீர்திருத்தங்களின் கீழ், தொழிற்கல்வியுடன் சேர்த்து இந்தப் பாடங்களும் கட்டாயமாக்கப்பட்டுள்ளன என்று அவர் கூறியுள்ளார்.
+
+மேல் மாகாண கல்வி அதிகாரிகளுக்கான மேல் மாகாண சபை கேட்போர் கூடத்தில் நடைபெற்ற விழிப்புணர்வு நிகழ்ச்சியில் பேசிய பிரதமர், தேசிய கல்வித் திட்டம் குறித்து சரியான புரிதல் இல்லாமல் சில குழுக்களால் தவறான தகவல்கள் பரப்பப்படுவதாகக் கூறினார்.
+
+"மனித விழுமியங்களை வளர்ப்பதற்கு இன்றியமையாத வரலாறு மற்றும் அழகியல் பாடங்களைப் படிக்க ஒவ்வொரு மாணவரும் வாய்ப்பைப் பெறுவதை உறுதி செய்யும் தெளிவான குறிக்கோளுடன், பாட நிபுணர்களுடன் விரிவான ஆலோசனைகளைத் தொடர்ந்து இந்த சீர்திருத்தங்கள் உருவாக்கப்பட்டன," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/255155bd.json)
+
+---
+
+### மட்டக்களப்பு மாநகரசபையில் செம்மணி தொடர்பில் சர்வதேச விசாரணை கோரி பிரேரணை நிறைவேற்றம்
+
+*2025-07-17 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220255) · `ta`
+
+யாழ்ப்பாணம், செம்மணி சித்துப்பாத்தி மனித புதைகுழி தொடர்பில் சர்வதேச விசாரணையைக் கோரி தனிநபர் முன்வைத்த பிரேரணை மட்டக்களப்பு மாநகரசபை ஆதரவு வழங்கியுள்ளது.
+
+இதன்போது, துரைசிங்கம் மதன் என்ற உறுப்பினர் செம்மணி புதைக்குழிக்கு சர்வதேச விசாரணை கோரி தனிநபர் பிரேரணையை முன்வைத்தார்.
+
+இதற்கு தேசிய மக்கள் சக்தியைச் சேர்ந்த 9 உறுப்பினர்களும் சபையில் இருந்த அனைவரும் ஆதரவு தெரிவித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/157250a1.json)
+
+---
+
+### சாதனை படைக்கும் வடிவேலு - பகத் பாசில் நடிக்கும் 'மாரீசன்' பட முன்னோட்டம்
+
+*2025-07-17 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/220248) · `ta`
+
+தமிழ் திரையுலகின் பிரபல நடிகர்களான வடிவேலு - பகத் பாசில் இணைந்து நடித்திருக்கும் 'மாரீசன்'  திரைப்படத்தின் முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+
+இயக்குநர் சுதீஷ் சங்கர் இயக்கத்தில் உருவாகியுள்ள  'மாரீசன் ' திரைப்படத்தில் வடிவேலு, பகத் பாசில், கோவை சரளா, விவேக் பிரசன்னா,  சித்தாரா, பி. எல். தேனப்பன்,  லிவிங்ஸ்டன் , ரேணுகா, சரவணா சுப்பையா , 'ஃபைவ் ஸ்டார் ' கிருஷ்ணா உள்ளிட்ட பலர் நடித்துள்ளனர்.
+
+கலைச்செல்வன் சிவாஜி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். கிராமிய பின்னணியில் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை சூப்பர் குட் பிலிம்ஸ் சார்பில் தயாரிப்பாளர் ஆர். பி.சௌத்ரி தயாரித்திருக்கிறார்.
+
+ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருக்கும் இந்த  திரைப்படம் எதிர்வரும் 25ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகவுள்ள நிலையில் இதன் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/fb3e7359.json)
+
+---
+
+### கவனம் ஈர்க்கும் நடிகர் பரத்தின் 'காளிதாஸ் 2' பட கிளர்வோட்டம்
+
+*2025-07-17 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220251) · `ta`
+
+தமிழில் பிரபலமான நடிகர் பரத் மற்றும் புதுமுக நடிகர் அஜய் கார்த்திக் முதன்முதலாக இணைந்து நடித்திருக்கும் 'காளிதாஸ் 2' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகர்களான ரவி மோகன்  மற்றும் ஜீ. வி. பிரகாஷ் குமார் ஆகியோர் இணைந்து அவர்களது சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+
+இயக்குநர் ஸ்ரீ செந்தில் இயக்கத்தில் உருவாகியுள்ள 'காளிதாஸ் 2' திரைப்படத்தில் பரத், அஜய் கார்த்திக், பிரகாஷ் ராஜ், 'ஆடுகளம்' கிஷோர், சுரேஷ் மேனன், ஆனந்த் நாக், பவானி ஸ்ரீ , அபர்னதி, ராஜா ரவீந்தர், 'பூவே உனக்காக' சங்கீதா  உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+சுரேஷ் பாலா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைத்திருக்கிறார். கிரைம் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்கை பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ஃபைவ் ஸ்டார் செந்தில் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/f216f881.json)
+
+---
+
+### துப்பாக்கிச் சூட்டுகாயங்களுடன் 13 யானைகள் சிகிச்சை பெற்றுவருகின்றன - வனஜீவராசிகள் பாதுகாப்பு திணைக்களம்
+
+*2025-07-17 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220235) · `ta`
+
+'பாத்திய' என்றழைக்கப்படும் காட்டு யானை துப்பாக்கிச் சூட்டுக்காயங்களுக்கு சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்தது. அதன் தொடர்ச்சியாக, இரண்டு காட்டு யானைகள் உட்பட 13 காட்டு யானைகள் தற்போது சிகிச்சை பெற்று வருவதாக வனவிலங்கு திணைக்களம் புதன்கிழமை (16) தெரிவித்துள்ளது.
+
+அநுராதபுரத்தில்  07 யானைகளும், பொலன்னறுவையில் 3 யானைகளும், வவுனியாவில் ஒரு யானையும், தெற்கில் 02 யானைகளும் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருகின்றன.
+
+பாத்திய யானைக்கு இரண்டு மாதங்களுக்கு முன்னர் துப்பாக்கிச் சூட்டு காயங்கள் ஏற்பட்டதாக கடந்த மே மாதம் 18 ஆம் திகதி அன்று வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்துக்கு அறிவிக்கப்பட்டது. 19 ஆம் திகதி  கால்நடை மருத்துவர் ஒருவர் சம்பவ இடத்திற்கு சென்று சிகிச்சை அளித்தார்.
+
+யானையை பரிசோதனை செய்த போது குணமடைந்த நிலையில் சில துப்பாக்கி சூட்டு காயங்களும் முன்னங்காலில் ஒரு கட்டியும் இருந்தது எனத் தெரிவித்துள்ளார்.
+
+கடந்த ஆறு மாதங்களில் துப்பாக்கிச் சூட்டு காயங்களால் 17 சதவீதமான யானைகள் உயிரிழந்துள்ளன.
+
+...
+
+[Data](articles/28f09e84.json)
+
+---
+
+### எஹெலேபொல வளவில் உள்ள மெழுகு அருங்காட்சியகம் ஜனாதிபதியால் திறந்து வைப்பு
+
+*2025-07-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/220234) · `ta`
+
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க எஹெலேபொல வளவில் உள்ள மெழுகு அருங்காட்சியகம் வியாழக்கிழமை (17) காலை ஜனாதிபதி அநுர குமார திசாநாயக்கவால் திறந்து வைக்கப்பட்டது.
+
+நகர அபிவிருத்தி அதிகாரசபையால் புதுப்பிக்கப்பட்ட எஹெலேபொல வளவின் தொல்பொருள் மற்றும் கலாச்சார விழுமியங்களைப் பாதுகாப்பதற்காக இந்த அருங்காட்சியகம் உருவாக்கப்பட்டுள்ளது.
+
+எஹெலேபொல வளவின் ஒரு பகுதியாக இருக்கும் மலைநாட்டு இராஜ்ஜியத்தின் கட்டிடக்கலை, பழக்கவழக்கங்கள் மற்றும் கலைகள் இங்கு மெழுகைப் பயன்படுத்தி மீளுருவாக்கப்பட்டுள்ளன. பாரம்பரிய கைவினைப்பொருட்கள் தொடர்பான கண்காட்சி அரங்குகள் மாத்திரமன்றி பண்டைய   உணவகமும் நிறுவப்பட்டுள்ளன.
+
+வெலிவிட்ட ஸ்ரீ சரணங்கர சங்கராஜ தேரர், வாரியபொல ஸ்ரீ சுமங்கல தேரர், மன்னர் விமலதர்மசூரிய , குசுமாசன தேவி, மொனரவில கெப்பட்டிபொல  , தேவேந்திர முலாச்சாரி, ஆளுநர் ராபர்ட் பிரவுன்ரிக், எஹெலேபொல மகாதிகாரம், குமாரிஹாமி மற்றும் அவரது இரண்டு குழந்தைகள் உள்ளிட்ட வரலாற்றில் முக்கியமான  35 நபர்களின் உயிரோட்டமான மெழுகு உருவங்கள் இங்கு மீளுருவாக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/68301295.json)
+
+---
 
 ### City of Dreams Sri Lanka ஆரம்ப விழாவுக்கு ஷாருக்கான் வருவாரா?
 
@@ -134,6 +256,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### SC annuls injunction over compulsory retirement age of nurses
+
+*2025-07-17 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110579/sc-annuls-injunction-over-compulsory-retirement-age-of-nurses) · `en`
+
+The Supreme Court today invalidated the interim injunction previously issued by the Court of Appeal preventing the enforcement of the former government’s decision to compulsorily retire nurses in four grades at the age of 60.
+
+Meanwhile, the Supreme Court also issued another order to the Court of Appeal to re-examine the petition filed before the court regarding this matter.
+
+The Supreme Court issued this order when an appeal filed by the Attorney General, seeking to declare the relevant interim injunction issued by the Appellate Court as unlawful and invalid, was taken up for hearing today.
+
+A three-judge bench of the Supreme Court comprising Justices Yasantha Kodagoda, Janak de Silva and A. H.M.D. Nawaz issued the order.
+
+During the previous government, the Cabinet of Ministers had taken a decision to make government employees compulsorily retire at the age of 60 years.
+
+...
+
+[Data](articles/26952482.json)
+
+---
+
+### Hambantota Bird Park owner remanded
+
+*2025-07-17 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110578/hambantota-bird-park-owner-remanded-) · `en`
+
+The owner of a Bird Park in Nagarawawa, Hambantota, who was arrested earlier today (17) by a special police team for allegedly concealing illegally imported motorcycles in a warehouse, has been remanded.
+
+He has been remanded until July 25 by the Hambantota Magistrate’s Court.
+
+◼️
+
+[Data](articles/469adda1.json)
+
+---
+
 ### விஜயத்தை இரத்து செய்தார் ஷாருக்கான்
 
 *2025-07-17 16:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயத்தை-இரத்து-செய்தார்-ஷாருக்கான்/175-361266) · `ta`
@@ -215,6 +371,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/fac54b85.json)
+
+---
+
+### Shah Rukh Khan will not visit Sri Lanka due to unavoidable reasons - Organiser
+
+*2025-07-17 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110577/shah-rukh-khan-will-not-visit-sri-lanka-due-to-unavoidable-reasons-organiser) · `en`
+
+Bollywood star Shah Rukh Khan who was scheduled to arrive in Sri Lanka on 2 August, will not visit the country as planned, according to organisers.
+
+He will not visit Sri Lanka due to unavoidable personal reasons, said the organisers who were planning to bring the Bollywood star for an event in Colombo.
+
+Popularly known as “King Khan”, Shah Rukh Khan was scheduled to arrive in Colombo for the opening ceremony of “City of Dreams Sri Lanka” on 2 August 2, as a special guest.
+
+In the lead-up to the landmark launch of City of Dreams Sri Lanka – South Asia’s first integrated resort – the appearance of Shah Rukh Khan was a key highlight of the celebrations.
+
+The communique issued by the organisers stated despite the absence of Shah Rukh Khan, the launch event will continue as a landmark celebration, featuring an extraordinary lineup of local and international talent, to be unveiled in the coming days.
+
+...
+
+[Data](articles/c1a444fc.json)
 
 ---
 
@@ -1601,191 +1777,5 @@ Kalutara District MP Jagath Withana from the main opposition Samagi Jana Balaweg
 ...
 
 [Data](articles/ad3d2856.json)
-
----
-
-### Two suspects arrested for aiding and abetting Borella shooting incident
-
-*2025-07-17 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110563/two-suspects-arrested-for-aiding-and-abetting-borella-shooting-incident) · `en`
-
-Two individuals who are suspected of aiding and abetting the recent shooting incident in Borella have been arrested by Borella Police in the Sahaspura area.
-
-The shooting incident occurred on July 8 in Borella. According to police, two individuals on a motorcycle opened fire at a person who was at a shop on Serpentine Road. Subsequently, the gunmen had fled the scene.
-
-However, police added that there were no reports of any fatalities or injuries from the shooting.
-
-Last evening (16), officers from the Borella Police arrested a suspect in the Sahaspura area for aiding and abetting the shooting, along with a three-wheeler used in the crime. The arrested suspect is a 30-year-old resident of the Imbulgasdeniya area.
-
-...
-
-[Data](articles/25bf7a34.json)
-
----
-
-### ඉදිරි කාලගුණය ගැන විශේෂ නිවේදනයක්
-
-*2025-07-17 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212339) · `si`
-
-ඉදිරි කාලගුණ තත්ත්වය ගැන විශේෂ නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිකුත් කර තිබේ.
-
-පවතින සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් වැසි තත්ත්වයේ වැඩිවීමක් විශේෂයෙන්ම මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල හෙට (18) වන දා සිට ඉදිරි දින කිහිපයේදී අපේක්ෂා කරන බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
-
-ඒ අනුව දිවයින හරහා සහ දිවයින වටා මුහුදු ප්‍රදේශවල තද සුළං තත්ත්වයක් බලාපොරොත්තු විය හැකිය.
-
-මේ අතර ඉදිරි කාලගුණ නිවේදන කෙරෙහි ජනතාව අවධානයෙන් යොමුවන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/78baf23f.json)
-
----
-
-### කුෂ් මත්ද්‍රව්‍ය තොගයක් සමඟ කාන්තාවක් අත්අඩංගුවට
-
-*2025-07-17 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212338) · `si`
-
-රුපියල් කෝට් 5කට අධික වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග විදෙස් ජාතික කාන්තාවක් කටුනායක ජාත්‍යන්තර ගුවන් තොටුපළේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (16) රාත්‍රී චෙන්නායි හී සිට පැමිණි 23 හැවිරිදි ඩෙන්මාක් ජාතික තරුණියක් මෙලෙස අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
-
-බැංකොක් නුවර සිට ඉන්දියාවේ චෙන්නායි වෙත පැමිණ පසුව ඇය කටුනායක ගුවන්තොටුපළ වෙත පැමිණ ඇති අතර හරිත මාවත ඔස්සේ ගුවන්තොටුපළෙන් පිටව යාමේ දී ඇයගේ ගමන් මල්ලේ තිබී මෙම කුෂ් මත්ද්‍රව්‍ය තොගය සොයාගෙන තිබේ.
-
-ගමන් මල්ලේ ආහාර අඩංගු පැකට් 25ක් තුළ සුක්ෂම ලෙස සඟවා තිබිය දී කුෂ් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 5යි ග්‍රෑම් 356ක් සොයාගත් බව කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය සඳහන් කළේය.
-
-අත්අඩංගුවට ගත් සැකකාරිය අද දින මීගමුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/f2b23b3e.json)
-
----
-
-### Sri Lanka rupee opens weaker, bond yields flat
-
-*2025-07-17 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-bond-yields-flat-231218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.35/60 to the US dollar in the spot market Thursday, slightly weaker from 301.40/50 a day earlier, while bond yields were broadly steady, dealers said.
-
-In the secondary market, a bond maturing 15.12.2026 was quoted flat at 8.10/20 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.95/9.05 percent, down from 8.95/9.07 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.46/49 percent.
-
-A bond maturing on 15.12.2029 was quoted at 10.48/53 percent, down from 9.50/53 percent.
-
-A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent.
-
-Meanwhile the Colombo Stock Exchange opened up; The ASPI was up 0.05%, or 10.17 points, at 18,895 and the S&P SL20 was up 0.17 points at 5,668. (Colombo/Jul17/2025)
-
-◼️
-
-[Data](articles/79052ba8.json)
-
----
-
-### Sectoral Oversight Committee to convene today on Electricity (Amendment) Bill
-
-*2025-07-17 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110562/sectoral-oversight-committee-to-convene-today-on-electricity-amendment-bill) · `en`
-
-The Sectoral Oversight Committee on Infrastructure and Strategic Development is scheduled to convene again today (July 17) to consider the Sri Lanka Electricity (Amendment) Bill.
-
-The committee first met in Parliament on July 15 under the chairmanship of S. M. Marikkar, Member of Parliament.
-
-Officials representing several institutions, including the Ministry of Energy, the Attorney General’s Department, and the Ceylon Electricity Board, were present at the meeting.
-
-According to a statement issued by the Department of Communications of Parliament, several proposals and recommendations submitted by the Public Utilities Commission regarding the amendment of this Bill were discussed and agreement was reached on several matters.
-
-The Attorney General’s Department also expressed its views on the draft Bill before the committee and it was decided to print the draft Bill in all three languages along with the agreed amendments and submit it for approval by the committee today.
-
-...
-
-[Data](articles/2404299d.json)
-
----
-
-### ஐந்தாண்டுகளில் 2000 மெகா வோல்ட் சூரிய மின் சக்தி  உற்பத்திக்கு எதிர்பார்ப்பு - அமைச்சர் குமார ஜெயக்கொடி
-
-*2025-07-17 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220185) · `ta`
-
-அடுத்த 5 வருடங்களில் நாம் 2000 மெகா வோல்ட் சூரிய சக்தி மின்சாரத்தினை உருவாக்க எதிர்பார்த்துள்ளோம் என்று வலுச்கதி அமைச்சர் பொறியியலாளர் குமார ஜெயக்கொடி தெரிவித்தார்.
-
-சர்வதேச சூரிய சக்தி கூட்டமைப்பின் (ISA) ஆசிய மற்றும் பசிபிக் பிராந்தியக் குழுவின் ஏழாவது மாநாட்டின் புதன்கிழமை (16) இரண்டாம் நாள் அமர்வுகளின் பின்னர் நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்டு கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-சூரிய சக்திப் பயன்பாட்டை அதிகரிப்பதற்கு நாங்கள் பல்வேறு நடவடிக்கைகளை முன்னெடுத்துள்ளோம். சூரிய சக்தியைப் பயன்படுத்துவதன் ஊடாக நாட்டின் பொருளாதாரத்தினை முன்னெடுத்துச் செல்வதற்கான திட்டங்களும் எமக்குள்ளன. சூரியசக்தி தொடர்பில் எமது கொள்கையானது நிலையானது என்பதோடு பிராந்திய, சர்வதேச ஒத்துழைப்புக்களையும் வழங்குவதற்கு தயாராகவுள்ளோம்.
-
-சர்வதேச நாடுகளுக்கு ஒத்துழைப்புக்களை வழங்குவதனால் தொழில்நுட்பத்தினை மேம்படுத்திக்கொள்வதோடு முதலீடுகளையும், நிதி உள்வருகைகளையும் பெற்றுக்கொள்ள முடியும்.
-
-...
-
-[Data](articles/204348d1.json)
-
----
-
-### புத்தகப்பையுடன் காணப்பட்ட  என்புத்தொகுதி தொடர்பில்  அதிர்ச்சி செய்தி
-
-*2025-07-17 09:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகப்பையுடன்-காணப்பட்ட-என்புத்தொகுதி-தொடர்பில்-அதிர்ச்சி-செய்தி/175-361228) · `ta`
-
-செம்மணி மனிதப்புதைகுழியில் நீலநிறப்புத்தகப்பை மற்றும்  விளையாட்டு பொம்மை என்பவற்றுடன் கண்டறியப்பட்ட என்புத்தொகுதி 4 - 5 வயதுடைய சிறுமியின் எலும்புக்கூடாக இருக்கலாம் என சட்ட மருத்துவ அதிகாரி செல்லையா பிரணவன் யாழ் நீதிவான் நீதிமன்றத்தில் அறிக்கை சமர்ப்பித்துள்ளார்.
-
-யாழ். செம்மணி மனிதப்புதைகுழி தொடர்பான வழக்கு செவ்வாய்க்கிழமை (15) யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
-
-இதன்போது, அம்மனிதப்புதைகுழியில் நீலநிறப்புத்தகப்பை மற்றும் சிறுவர்கள் விளையாடும் பொம்மை என்பவற்றுடன் கண்டறியப்பட்ட என்புத்தொகுதி தொடர்பான அறிக்கை மன்றுக்கு சமர்ப்பிக்கப்பட்டது.
-
-அதில் நீலநிறப்புத்தகப்பை மற்றும் சிறுவர்கள் விளையாடும் பொம்மை என்பவற்றுடன் அடையாளம் காணப்பட்ட எஸ் - 25 என அடையாளமிடப்பட்ட குறித்த என்புத்தொகுதி 4 - 5 வயதுடைய சிறுமியினுடையதாக இருக்கும் எனச் சுட்டிக்காட்டப்பட்டிருந்தது.
-
-...
-
-[Data](articles/005c3652.json)
-
----
-
-### புத்தகப்பையுடன் காணப்பட்ட  என்புத்தொகுதி தொடர்பில்  அதிர்ச்சி செய்தி
-
-*2025-07-17 09:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புத்தகப்பையுடன்-காணப்பட்ட-என்புத்தொகுதி-தொடர்பில்-அதிர்ச்சி-செய்தி/150-361228) · `ta`
-
-செம்மணி மனிதப்புதைகுழியில் நீலநிறப்புத்தகப்பை மற்றும் விளையாட்டு பொம்மை என்பவற்றுடன் கண்டறியப்பட்ட என்புத்தொகுதி 4 - 5 வயதுடைய சிறுமியின் எலும்புக்கூடாக இருக்கலாம் என சட்ட மருத்துவ அதிகாரி செல்லையா பிரணவன் யாழ் நீதிவான் நீதிமன்றத்தில் அறிக்கை சமர்ப்பித்துள்ளார்.
-
-யாழ். செம்மணி மனிதப்புதைகுழி தொடர்பான வழக்கு செவ்வாய்க்கிழமை (15) யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
-
-இதன்போது, அம்மனிதப்புதைகுழியில் நீலநிறப்புத்தகப்பை மற்றும் சிறுவர்கள் விளையாடும் பொம்மை என்பவற்றுடன் கண்டறியப்பட்ட என்புத்தொகுதி தொடர்பான அறிக்கை மன்றுக்கு சமர்ப்பிக்கப்பட்டது.
-
-அதில் நீலநிறப்புத்தகப்பை மற்றும் சிறுவர்கள் விளையாடும் பொம்மை என்பவற்றுடன் அடையாளம் காணப்பட்ட எஸ் - 25 என அடையாளமிடப்பட்ட குறித்த என்புத்தொகுதி 4 - 5 வயதுடைய சிறுமியினுடையதாக இருக்கும் எனச் சுட்டிக்காட்டப்பட்டிருந்தது.
-
-...
-
-[Data](articles/795311eb.json)
-
----
-
-### ஆசிய, பசுபிக் வலயத்தில் சூரிய சக்தி கூட்டாண்மையை வலுப்படுத்த முயற்சி -  சர்வதேச சூரியசக்தி கூட்டமைப்பின் தலைமை இயக்குநர் ஆஷிஷ் கன்னா
-
-*2025-07-17 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220184) · `ta`
-
-ஆசிய, பசுபிக் பிராந்தியத்தில் சூரியசக்தி பயன்பாடு இன்னமும் முழுமையான நிலைமையை அடையாத நிலையில் தீவு, சிறிய நாடுகளின் கூட்டாண்மை ஊடாக மேம்பட்ட நிலையை நோக்கிச் செல்வதற்கு இணக்கப்பாடுகள் எட்டப்பட்டுள்ளது என்று சர்வதேச சூரியசக்தி கூட்டமைப்பின் தலைமை இயக்குநர் ஆஷிஷ் கன்னா தெரிவித்தார்.
-
-சர்வதேச சூரிய சக்தி கூட்டமைப்பின் (ISA) ஆசிய மற்றும் பசிபிக் பிராந்தியக் குழுவின் ஏழாவது மாநாட்டின் நேற்றைய இரண்டாம் நாள் அமர்வுகளின் பின்னர் நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்டு கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-ஆசியப் பசுபிக் பிராந்திய நாடுகள் கொழும்பில் ஒன்றிணைந்துள்ளன. ஆசியப் பசுபிக் பிராந்தியமானது, உலக சனத்தொகையில் 60சதவீத (4.பில்லியன் மக்கள்) சனத்தொகையைக் கொண்டதாகும். இந்த சனத்தொகையில் 97சதவீதமானவர்கள் சக்தி வளங்களை நுகரக்கூடியவர்களாக இருக்கின்றார்கள்.
-
-...
-
-[Data](articles/f7b4ba48.json)
-
----
-
-### பெல்ஜியத்தில் டுமாரோலேண்ட் இசை விழாவின் பிரதான மேடையில் பாரிய தீ விபத்து
-
-*2025-07-17 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220183) · `ta`
-
-பெல்ஜியத்தின் உலகப் புகழ்பெற்ற டுமாரோலேண்ட் இசைத் திருவிழா வெள்ளிக்கிழமை (18) ஆரம்பிக்கப்படவிருந்த நிலையில், பிரதான மேடையில் பாரிய தீ விபத்து ஏற்பட்டுள்ளது.
-
-"தீ விபத்தினால் டுமாரோலேண்ட் இசைத் திருவிழாவின் பிரதான மேடை கடுமையாக சேதமடைந்துள்ளது," என விழா ஏற்பாட்டாளர்கள் புதன்கிழமை (16) மாலை ஒரு அறிக்கையில் தெரிவித்தனர்.
-
-தீ விபத்து ஏற்பட்டபோது விழாவிற்கு வந்தவர்கள் யாரும் அங்கு இருக்க வில்லை, ஆனால் சுமார் 1,000 ஊழியர்கள் இருந்ததாகவும், அவர்கள் தற்போது வெளியேற்றப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/b55dd95e.json)
 
 ---

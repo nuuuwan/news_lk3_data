@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 14:24:35**
+As of **2025-07-17 14:36:57**
 
 ## Newspaper Stats
 
-*Scraped **65,208** Articles*
+*Scraped **65,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,258
-adaderanalk | 7,948
+adaderanalk | 7,950
 tamilmirrorlk | 9,341
-virakesarilk | 10,849
+virakesarilk | 10,852
 adaderanasinhalalk | 11,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,208 articles have been extended.
+61,973 (95.0%) of 65,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### இரவு 7 மணி வரை நீடித்த யாழ்ப்பாணம் மாநகர சபை அமர்வு ; துணை முதல்வரின் செயற்பாடே காரணம் என குற்றச்சாட்டு!
+
+*2025-07-17 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220220) · `ta`
+
+யாழ்ப்பாணம் மாநகர சபையின் மாதாந்த அமர்வு, மாநகர முதல்வர் மதிவதனி விவேகானந்தராஜாவின் தலைமையில் புதன்கிழமை (16) மாநகர சபை மண்டபத்தில் நடைபெற்றது.
+
+காலை 10 மணிக்கு ஆரம்பித்த அமர்வு இரவு 7 மணிவரை நீடித்ததாக குற்றம்சாட்டப்பட்டுள்ளது.
+
+இதற்கான முக்கிய காரணமாக, துணை முதல்வரின் செயற்பாடுகள் சுட்டிக்காட்டப்பட்டுள்ளன. சபை அமர்வின் போது, உறுப்பினர்கள் முதல்வரிடம் கேள்விகள் எழுப்பிய தருணங்களில், துணை முதல்வர் தொடர்ந்து தலையீடு செய்ததாக உறுப்பினர்கள் குற்றம் சாட்டினர்.
+
+ஒவ்வொரு விவாதத்திலும் அவர் நீண்ட நேரம் எடுத்துக்கொண்டு தனக்கென கருத்துகளை தெரிவித்தார். இதனால் சபை அமர்வின் நேரம் பெரிதும் நீடித்தது. இது தேவையற்ற காலநீடிப்பு எனவும், சபையின் ஒழுங்கமைப்பை பாதிக்கும் செயற்பாடாகவும் உறுப்பினர்கள் விமர்சித்துள்ளனர்.
+
+◼️
+
+[Data](articles/25a90b37.json)
+
+---
 
 ### බූස්ස බන්ධනාගාරයේ කටයුතුවලින් STF නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා පෙත්සමක්
 
@@ -82,6 +100,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### History, Aesthetics, and Vocational subjects mandatory under new education reforms – PM
+
+*2025-07-17 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110570/history-aesthetics-and-vocational-subjects-mandatory-under-new-education-reforms-pm) · `en`
+
+The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, emphasized the need to prevent the spread of false information that History and Aesthetics subjects have been removed under the new education reforms, and to stop politicizing education and children’s lives for political gain.
+
+The Prime Minister made these remarks today (17) during a special program held at the Western Provincial Council Auditorium to raise awareness among Western Province education officials regarding the new education reforms, the Prime Minister’s Media Division said in a statement.
+
+Speaking further in this regard, she noted that these reforms have been developed after holding extensive discussions with subject experts, moving forward with the objective of ensuring that every student gets the opportunity to study History and Aesthetics subjects, which enhance human values.
+
+...
+
+[Data](articles/52fd5979.json)
+
+---
+
+### Three police SIs interdicted over misconduct at spa in Matara
+
+*2025-07-17 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110569/three-police-sis-interdicted-over-misconduct-at-spa-in-matara) · `en`
+
+Three police officers attached to police stations within the Matara Division have been interdicted following allegations of misconduct.
+
+The order was issued by the Acting Superintendent of Police (SP) in charge of the Matara Division after an internal investigation found the officers guilty of serious disciplinary violations.
+
+The three officers had reportedly visited a Spa (massage center) in the Walgama area of Matara, where they had engaged in a heated argument with the manager of the establishment and then attempted to obtain services from Spa free of charge.
+
+The investigation, launched based on a complaint received, concluded that the officers were guilty of misconduct and corrupt practices, including using their official positions for personal gain and engaging in behavior detrimental to police discipline.
+
+The interdicted officers, who all hold the rank of Sub-Inspector (SI), are reportedly attached to the Thihagoda, Mawarala police stations and Matara division intelligence unit.
+
+...
+
+[Data](articles/bc654dc3.json)
+
+---
+
 ### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
 
 *2025-07-17 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212349) · `si`
@@ -115,6 +169,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c09cc491.json)
+
+---
+
+### இலங்கை தமிழ் புகலிடக்கோரிக்கையாளருக்கு ஆதரவாக ஹரி ஆனந்தசங்கரி எழுதிய கடிதத்தினால் சர்ச்சை - பிரதமர் ஆதரவு
+
+*2025-07-17 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220216) · `ta`
+
+இலங்கை தமிழ் புகலிடக்கோரிக்கையாளருக்கு ஒருவருக்கு புகலிடக்கோரிக்கை விடயத்தில் ஆதரவாக கடிதம் எழுதினார் என கனடாவின் பாதுகாப்பு அமைச்சர் ஹரி ஆனந்தசங்கரிக்கு எதிராக  ஊடகமொன்று குற்றச்சாட்டுகளை முன்வைத்துள்ள அதேவேளை பிரதமர் மார்க் கார்னி ஹரி ஆனந்தசங்கரிக்கு தனது ஆதரவை வெளியிட்டுள்ளார்.
+
+கனடாவில் தடை செய்யப்பட்டுள்ள விடுதலைப்புலிகள் அமைப்பின் முன்னாள்  உறுப்பினர் என கனடா அதிகாரிகள் கருதிய நபர் ஒருவருக்கு கனடா பிரஜாவுரிமையை வழங்கவேண்டும் என கோரும் கடிதத்தை ஹரி ஆனந்தசங்கரி எழுதினார் என குளோபல் நியுஸ் செய்தி வெளியிட்டுள்ளது.
+
+ஹரி ஆனந்தசங்கரி அமைச்சராவதற்கு முன்னர் கனடாவின் எல்லை பாதுகாப்பு முகவர் அமைப்பிற்கு அனுப்பப்பட்ட இந்த கடிதத்தில் இலங்கையை சேர்ந்த செல்வக்குமரன் செந்தூரன் என்ற நபரின் பிரஜாவுரிமை விண்ணபத்தினை மீள்பரிசீலனை செய்யவேண்டும் என வேண்டுகோள் விடுத்தார் என  குளோபல் நியுஸ் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/51937bbd.json)
+
+---
+
+### செவ்வாய் கிரகத்தின் மிகப்பெரிய பாறை 4.3 மில்லியன் அமெரிக்க டொலர்களுக்கு ஏலத்தில் விற்பனை
+
+*2025-07-17 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220214) · `ta`
+
+பூமியில் இதுவரை கண்டெடுக்கப்பட்ட செவ்வாய் கிரகத்தின் மிகப்பெரிய அரியவகை பாறை 4.3 மில்லியன் அமெரிக்க டொலர்களுக்கு ஏலத்தில் விற்பனை செய்யப்பட்டுள்ளது.
+
+NWA 16788 என அழைக்கப்படும் இந்த விண்கல் பாறை 24.5 கிலோ எடையும் சுமார்  38.1 சென்ரி மீற்றர் நீளமும் கொண்டது என சோத்பிஸ் தெரிவித்துள்ளது.
+
+இந்த விண்கல் பாறை 2023 ஆம் ஆண்டு  நவம்பர் மாதம் நைஜரின் தொலைதூரப் பகுதியில் கண்டுபிடிக்கப்பட்டது. மேலும் செவ்வாய் கிரகத்தின் அடுத்த பெரிய பகுதியை விட 70% பெரியது என்று ஏல நிறுவனம் தெரிவித்துள்ளது.
+
+விண்கற்கள் என்பது ஒரு சிறுகோள் அல்லது வால் நட்சத்திரம் பூமியின் வளிமண்டலத்தைக் கடந்து சென்ற பின்னர் எஞ்சியிருக்கும் பாறையின் எச்சங்கள் ஆகும்.
+
+சிவப்பு நிற பழுப்பு நிற பாறையான இந்த விண்கல் அரியவகையானது. பூமியில் இதுவரை சுமார் 400 செவ்வாய் கிரக விண்கற்கள் மட்டுமே கண்டுபிடிக்கப்பட்டுள்ளன என சோத்பியின் ஏல நிறுவனம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/6a6f4d8b.json)
 
 ---
 
@@ -1715,89 +1805,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ...
 
 [Data](articles/7393ab58.json)
-
----
-
-### கல்வியின் டிஜிட்டல்மயமாக்கலுக்கு TikTok-கின் ஆதரவு
-
-*2025-07-17 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/220176) · `ta`
-
-பிரதமர் அலுவலகத்தில் 16ஆம் திகதி வியாழக்கிழமை TikTok சமூக ஊடகத்தின் பிரதிநிதிகள் குழுவிற்கும் பிரதமரின் செயலாளர் பிரதீப் சபுதந்திரிக்கும் இடையே ஒரு சந்திப்பு நடைபெற்றது.
-
-இந்த சந்திப்பில், வெறும் பொழுதுபோக்கையும் கடந்து, பொருளாதார வாய்ப்புகளை விரிவுபடுத்துவதற்கும் கல்வி நடவடிக்கைகளுக்கும் TikTok சமூக ஊடகத்தை ஒரு டிஜிட்டல் கருவியாகப் பயன்படுத்தும் வழிமுறைகள் குறித்து முக்கிய கவனம் செலுத்தப்பட்டது.
-
-டிஜிட்டல் கல்வி தொடர்பான அறிவை வழங்குவதற்கான வழிமுறைகள், ஆராய்ச்சி, மற்றும் பாடத்திட்டத்திற்குத் தேவையான மாற்றங்களை உள்ளடக்குவதன் முக்கியத்துவம் குறித்து TikTok பிரதிநிதிகள் எடுத்துரைத்தனர். அத்துடன், டிஜிட்டல் தொழில்நுட்பத்தை பொறுப்புடன் பயன்படுத்துவது மற்றும் TikTok மூலம் பொருளாதார வாய்ப்புகளை உருவாக்குவதன் முக்கியத்துவம் குறித்தும் அவர்கள் சுட்டிக்காட்டினர்.
-
-கல்வித் துறையில் தற்போது நடைபெற்றுக்கொண்டிருக்கும் சீர்திருத்தங்களுடன் இத்தகைய ஒத்துழைப்புகளைப் பாராட்டிய பிரதமரின் செயலாளர் பிரதீப் சபுதந்திரி, டிஜிட்டல்மயமாக்கல் செயல்முறையை விரைவில் நடைமுறைப்படுத்துவதன் அவசியத்தை மேலும் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/bbdddb4b.json)
-
----
-
-### Sri Lanka-India Media Friendship Association holds General Meeting
-
-*2025-07-17 01:14:49* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-Media-Friendship-Association-holds-General-Meeting/56-779101) · `en`
-
-Indian High Commissioner to Sri Lanka Santosh Jha launching the SLIMFA website
-
-SLIMFA Vice President Shehan Baranage (left) presenting the SLIMFA Newsletter to Indian High Commissioner to Sri Lanka Santosh Jha
-
-The Sri Lanka-India Media Friendship Association (SLIMFA) held its General Meeting on 14 July at the Swami Vivekananda Cultural Centre (SVCC), Colombo.
-
-The Patron of the SLIMFA, Indian High Commissioner Santosh Jha graced the occasion. The Indian High Commissioner highlighted the role of the SLIMFA in promoting deeper engagement and collaboration between the media fraternity in Sri Lanka and India. He also congratulated the Association for conducting some impactful media events while supporting the growth and evolution of the media industry in both countries.
-
-...
-
-[Data](articles/b834fe7c.json)
-
----
-
-### Young Sri Lankan politicians begin two-week official visit in India
-
-*2025-07-17 01:12:08* · [`dailyftlk`](https://www.ft.lk/news/Young-Sri-Lankan-politicians-begin-two-week-official-visit-in-India/56-779100) · `en`
-
-A 24-member delegation of young political leaders representing 14 Sri Lankan parties has commenced a twoweek official visit to India.
-
-As part of their engagement, the delegation met with Indian Foreign Secretary Vikram Misri yesterday, marking the beginning of a program to promote cross-border political dialogue and regional cooperation.
-
-“Foreign Secretary emphasised their valuable role in deepening the #IndiaSriLanka partnership as stakeholders in its future roadmap,” Indian External Affairs Ministry Spokesperson Randhir Jaiswal noted via ‘X.’
-
-◼️
-
-[Data](articles/f2186073.json)
-
----
-
-### Hague Group charges Israel with genocide
-
-*2025-07-17 01:11:30* · [`dailyftlk`](https://www.ft.lk/news/Hague-Group-charges-Israel-with-genocide/56-779099) · `en`
-
-Multilateral coalition arrive in Bogotá to take action to stop Israel’s genocide, despite US condemnation and sanctions against UN and international courts
-
-Ministers and officials from over 30 countries gathered in Bogotá, Colombia on Tuesday (15) to convene The Hague Group, an international organisation Co-Chaired by the Governments of Colombia and South Africa. The two-day conference discussed steps forward for the international community to stop Israel’s ongoing genocide of Palestinians.
-
-The gathering comes amid heightened aggression from the US Government against the “emergency conference” and one of its lead speakers – Special UN Rapporteur for the West Bank and Gaza Francesca Albanese – as Israel continues to sabotage negotiations between Israel and Hamas.
-
-...
-
-[Data](articles/640f6a06.json)
-
----
-
-### BOI and AHK Sri Lanka facilitate action following President AKD’s strategic visit to Germany
-
-*2025-07-17 00:17:57* · [`dailyftlk`](https://www.ft.lk/business/BOI-and-AHK-Sri-Lanka-facilitate-action-following-President-AKD-s-strategic-visit-to-Germany/34-779095) · `en`
-
-A debriefing session was held on 14 July to outline the next steps following the successful business dialogue between President Anura Kumara Disanayake and German businesses during his official visit to Germany in June 2025.
-
-The session, co-chaired by Board of Investment Chairman Arjuna Herath and the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) Chief Delegate Martin Klose, marked a significant milestone in strengthening economic relations between the two countries.
-
-The Chairman of BOI emphasised that Germany was the first EU and Western country visited by the President since assuming office signalling Sri Lanka’s strong commitment to enhancing ties with Germany and the broader European Union.
-
-...
-
-[Data](articles/bdfb5e6a.json)
 
 ---

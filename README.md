@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 16:33:59**
+As of **2025-07-17 16:47:42**
 
 ## Newspaper Stats
 
-*Scraped **65,233** Articles*
+*Scraped **65,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,262
-adaderanalk | 7,954
+adaderanalk | 7,956
 tamilmirrorlk | 9,348
-virakesarilk | 10,852
-adaderanasinhalalk | 11,209
+virakesarilk | 10,855
+adaderanasinhalalk | 11,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,233 articles have been extended.
+61,973 (95.0%) of 65,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### City of Dreams Sri Lanka ஆரம்ப விழாவுக்கு ஷாருக்கான் வருவாரா?
+
+*2025-07-17 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220237) · `ta`
+
+தெற்காசியாவின் முதலாவது ஒருங்கிணைந்த உல்லாச விடுதியான City of Dreams Sri Lankaவின் வரலாற்றுச் சிறப்புமிக்க ஆரம்ப விழா நிகழ்விற்கு முன்னதாக, பொலிவூட் கிங் கான் என்று அழைக்கப்படும் சூப்பர் ஸ்டார் ஷாருக்கான் கலந்துகொள்வது கொண்டாட்டங்களின் முக்கிய அம்சமாக திட்டமிடப்பட்டிருந்தது. துரதிஷ்டவசமாக, அவரது கட்டுப்பாட்டிற்கு அப்பாற்பட்ட எதிர்பாராத தனிப்பட்ட காரணங்களால், ஷாருக்கான் இந்த நிகழ்வில் கலந்துகொள்ள முடியாத நிலை ஏற்பட்டுள்ளது.
+
+இதுதொடர்பில் City of Dreams Sri Lanka-வின் பேச்சாளர் ஒருவர் கருத்து தெரிவிக்கையில்,
+
+“கானை வரவேற்பதற்காக நீங்கள் பலர் ஆவலுடன் காத்திருந்தீர்கள் என்பதை நாங்கள் புரிந்துகொள்கிறோம், உங்கள் எதிர்பார்ப்புக்கள் ஏமாற்றமடைந்ததை எங்களாலும் நன்கு உணர முடிகிறது. அவரது ஆதரவுக்கும் நல்லெண்ணத்திற்கும் நாங்கள் தொடர்ந்து ஆழ்ந்த நன்றியுடன் இருக்கிறோம், மேலும் எதிர்காலத்தில் கானை City of Dreams Sri Lankaவுக்கு வரவேற்பதை ஆவலுடன் எதிர்பார்க்கிறோம்.
+
+...
+
+[Data](articles/db6a7cad.json)
+
+---
+
+### ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ள புதிய தொலைபேசி இலக்கம்
+
+*2025-07-17 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220230) · `ta`
+
+ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ளுவதற்கு புதிய தொலைபேசி இலக்கம் அறிமுகம் செய்யப்பட்டுள்ளதாக அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
+
+பொதுமக்கள் அனைவரும் 011-4 354250 என்ற தொலைபேசி இலக்கத்தின் மூலம் ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ள முடியும் என அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
+
+ஜனாதிபதி நிதியத்தின் சேவைகள் தொடர்பான முறைப்பாடுகள் மற்றும் விசாரணைகளுக்காக இந்த புதிய இலக்கம் அறிமுகம் செய்யப்பட்டுள்ளதாக அரசாங்க தகவல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6110776a.json)
+
+---
+
+### කුරුලු උයනේ හිමිකරු රිමාන්ඩ්
+
+*2025-07-17 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212356) · `si`
+
+නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි සඟවා තිබූ හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව එළඹෙන 25 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+සැකකරුව අද (17) උදෑසන නාරාහේන්පිට ප්‍රදේශයේදී විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබූ අතර හම්බන්තොට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙලෙස රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගියදා මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය විසින් සොයාගනු ලැබීය.
+
+පොලීසිය පැවසුවේ මෙම එක් යතුරුපැදියක වටිනාකම රුපියල් කෝටි එකහමාරකට වඩා වැඩි බවය.
+
+මේ අතර, මෙහිදී කුරුලු උයන පරිශ්‍රයේ නීතිවිරෝධී ලෙස වගා කර තිබූ ගංජා පැළ 04ක් සමග මෙම සත්ත්ව ගොවිපොළේ කළමනාකරු හා ගබඩා පාලකයා ද පොලිස් අත්අඩංගුවට පත්විය.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, අවුරුදු 40 හා 50 වයස්වල පසුවන මාතර හා මිද්දෙණිය ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/ed82b5c9.json)
+
+---
 
 ### செம்மணி ஆர்ப்பாட்டம் முன்னெடுப்பட்டுள்ளது
 
@@ -168,6 +222,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### தமிழருக்கு எதிராக இடம்பெற்ற இனப்படுகொலைக்கு தாமதமற்ற சர்வதேச நீதி வேண்டும் - வலி கிழக்கு பிரதேச சபையில் ஏகமனதாக தீர்மானம்
+
+*2025-07-17 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/220226) · `ta`
+
+இலங்கையில் தமிழ் மக்கள் மீது மேற்கொள்ளப்பட்டது இனப்படுகொலை எனவும் அவ் இனப்படுகொலைக்கு இலங்கை அரசு காரணம் என்ற நிலையில், இலங்கையின் உள்நாட்டு விசாரணைகளில் முற்றிலும் எமது மக்களும் நாமும் நம்பிக்கை இழந்துள்ளோம். இவ் இனப்படுகொலைக்கு சர்வதேச நீதி வேண்டும் என வலிகாமம் கிழக்கு பிரதேச சபை ஏக மனதாக தீர்மானம் நிறைவேற்றியுள்ளது.
+
+புதிதாகத் தெரிவு செய்யப்பட்ட வலிகாமம் கிழக்கு பிரதேச சபையின் இரண்டாவது அமர்வு தவிசாளர் தியாகராஜா நிரோஷ் தலைமையில்  கடந்த செவ்வாய்க்கிழமை நடைபெற்றது. இவ் அமர்வில் தவிசாளர் தியாகராஜா நிரோஸினால் இத் தீர்மானம் முன்வைக்கப்பட்டபோது, அரசியல் கட்சி வேறுபாடுகளுக்கு அப்பால் உறுப்பினர்களின் வரவேற்பினைப் பெற்று தீர்மானம் ஏகமனதாக நிறைவேற்றப்பட்டது.
+
+இலங்கையில் மாறி மாறி ஆட்சிக்கு வந்த அரசாங்கங்களால் வரலாற்று ரீதியில் நாம் இனப்படுகொலைக்கு உள்ளாக்கப்பட்டுள்ளோம். எம் மீதான இனப்படுகொலை  அரச கொள்கையாக இடம்பெற்றுள்ளது. எமது பூர்வீக தாயகமான வடக்குக் கிழக்கில் நிலங்கள் திட்டமிடப்பட்டு ஆக்கிரமிக்கப்பட்டுள்ளன. பௌத்த சிங்கள பேரினவாத விஸ்தரிப்பு முயற்சியாக எமது மொழி உரிமை மறுக்கப்பட்டது.
+
+...
+
+[Data](articles/4173f8c0.json)
+
+---
+
+### Court grants bail to woman arrested over discovery of gold-plated T-56 firearm
+
+*2025-07-17 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110575/court-grants-bail-to-woman-arrested-over-discovery-of-gold-plated-t-56-firearm) · `en`
+
+The Colombo High Court today (17) ordered the release on bail of a woman who was in remand custody in connection with the recent discovery of a gold-plated T-56 assault rifle in her possession at a prominent apartment complex in Colombo 05.
+
+The order was issued by Colombo High Court Judge Manjula Thilakaratne after considering a bail application submitted on behalf of the suspect.
+
+Accordingly, court ordered that the suspect be released on a cash bail of Rs. 250,000 and two surety bails of Rs. 2.5 million each.
+
+Previously, in relation to the same incident, the Colombo High Court granted bail to former minister Duminda Dissanayake, who was also arrested and remanded.
+
+The gold-plated T-56 assault rifle was discovered on May 20 inside the woman’s travel bag at the apartment complex.
+
+◼️
+
+[Data](articles/9e2963f2.json)
+
+---
+
 ### ஜனாதிபதி நிதியத்துக்கு புதிய தொலைபேசி எண்
 
 *2025-07-17 15:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்துக்கு-புதிய-தொலைபேசி-எண்/175-361262) · `ta`
@@ -229,6 +319,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8c112a24.json)
+
+---
+
+### Donald Trump says India and US very close to finalising trade deal
+
+*2025-07-17 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110574/donald-trump-says-india-and-us-very-close-to-finalising-trade-deal) · `en`
+
+Washington and Delhi are “very close” to finalising a trade deal, US President Donald Trump has said, as high-level talks between the two sides continue.
+
+“We’re very close to a deal with India where they open it [the market] up,” Trump told reporters at the White house on Wednesday.
+
+Later in the day, he reiterated that the deal with India was “very close” when asked about upcoming trade agreements in an interview with broadcaster Real America’s Voice.
+
+India and the US have been locked in intense negotiations over the past few months, aiming to reach an agreement before steep tariffs kick in.
+
+Trump had first announced 27% tariffs on Indian goods in 2 April as part of a wider trade policy move. While the tariffs were initially paused until 9 July, the US later extended the deadline to 1 August.
+
+An Indian delegation is in the US this week for discussions on the agreement, Reuters reported, citing sources in the Indian government.
+
+...
+
+[Data](articles/fbdcb5db.json)
 
 ---
 
@@ -1685,127 +1797,5 @@ Meanwhile, Pradeep Nilanga Dela also stated that the shortage of elephants for t
 ◼️
 
 [Data](articles/6e7036b7.json)
-
----
-
-### ரயில் மோதியதில் குடும்பஸ்தர் பலி
-
-*2025-07-17 08:02:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதியதில்-குடும்பஸ்தர்-பலி/175-361225) · `ta`
-
-ரயில் கடவையைக் கடந்த குடும்பஸ்தர் ஒருவர் ரயில் மோதியதில் படுகாயம் அடைந்த நிலையில், யாழ். போதனா வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-இவ்வாறு உயிரிழந்தவர் பூதராயர் சிவன் கோவிலடி, திருநெல்வேலியைச்  சேர்ந்த நான்கு பிள்ளைகளின் தந்தையான சுந்தரக்குருக்கள் ஞானசர்மா (வயது 55 ) என்பவராவார்.
-
-மேற்படி குடும்பஸ்தர் கமநல சேவை திணைக்களத்தில்  கடமை புரிவதாகவும் நேற்று முன்தினம் செவ்வாய்க்கிழமை யாழ். மாவட்ட செயலகத்தில் கடிதம் ஒன்றை வழங்குவதற்காக மோட்டார் சைக்கிளில் சென்று கொண்டிருந்த போது ஏ-9 வீதியில் உள்ள ரயில்  கடவையை நண்பகல் 12 .40 மணியளவில் கடக்க முற்பட்டபோது கொழும்பிலிருந்து யாழ்.நோக்கி சென்ற கடுகதி ரயில் அவரை மோதித் தள்ளியுள்ளது.
-
-இதில் படுகாயம் அடைந்த நிலையில் யாழ். போதனா வைத்தியசாலையில் அனுமதித்த நிலையில் உயிரிழந்துள்ளார்.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணைகளை மேற்கொண்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/9bba5b22.json)
-
----
-
-### දෙහිවලදී උපත ලැබූ දාර පිඹුරු පැටව්
-
-*2025-07-17 07:57:59* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවලදී-උපත-ලැබූ-දාර-පිඹුරු-පැටව්/11-417347) · `si`
-
-දෙහිවල ජාතික සත්වෝද්‍යානය තුල සිටින "දාර පිඹුරු " යුවලකට දාව සුදු පැහැති දාර පිඹුරු පැටවුන් විස්සකට ආසන්න ප්‍රමාණයක් ඉකුත් 16 වනදින බිහිවී ඇතැයි සත්වෝද්‍යාන ප්‍රකාශකයෙකු පැවසීය .
-
-මෙම පිඹුරු විශේෂය එම යුවල සමග තවත් පිඹුරන් 13ක්,  පෙන්ටරි කටුස්සන් එකක් ,කැස්බෑවුන් එකක්,  ගිරවුන් තුනක්ද
-
-නීතිවිරෝධී අන්දමට දකුණු මුහුදේදී බහුදින ධීවර යාත්‍රාවකින්  ප්‍රවාහනය කරමින් සිටියදී 2024.ජුලි මස 09 වනදින
-
-ශ්‍රී ලංකා නාවික හමුදාව මගින් පුද්ගලයින් පස් දෙනෙකු සමග අත්අඩංගුවට ගෙන වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව වෙත භාරදී තිබුණි.
-
-අනතුරුව මෙම සතුන් දෙහිවල ජාතික සත්වෝද්‍යානය වෙත භාර දෙනු ලැබ එහි හැදීවැඩී සිටින අතර මෙම දාර පිඹුරු යුවළට බිත්තර තොගය ලැබී ආරක්ෂක කුටිවල තැන්පත්කර සත්ව භාරකරුවන් යටතේ හා පශු වෛද්‍යවරුන්ගේ අධීක්ෂණය යටතේ සොයා බැලීම් කරනු ලැැැබූ බවත් එම ප්‍රකාශකයා පැවසීය.
-
-...
-
-[Data](articles/5caec0d9.json)
-
----
-
-### ஈரான் பயணத்தை தவிர்க்குமாறு இந்தியா அறிவுறுத்தல்
-
-*2025-07-17 07:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-பயணத்தை-தவிர்க்குமாறு-இந்தியா-அறிவுறுத்தல்/175-361224) · `ta`
-
-அத்தியாவசியமற்ற ஈரான் பயணத்தை தவிர்க்குமாறு அந்நாட்டில் உள்ள இந்திய தூதரகம் இந்தியர்களுக்கு அறிவுறுத்தியுள்ளது.
-
-ஈரானுக்கு அத்தியாவசியமற்ற பயணங்களை மேற்கொள்வதற்கு முன், கடந்த பல வாரங்களாக ஈரானில் ஏற்பட்டுள்ள பாதுகாப்பு தொடர்பான அம்சங்களைக் கருத்தில் கொள்ளுமாறும், சூழ்நிலையை கவனமாக பரிசீலிக்குமாறும் இந்தியர்கள் அறிவுறுத்தப்படுகிறார்கள்.
-
-ஈரானில் என்ன நடக்கிறது என்பதை தொடர்ந்து கண்காணிப்பதோடு, இந்திய அதிகாரிகள் வழங்கிய சமீபத்திய ஆலோசனைகளை பின்பற்றுமாறும் அவர்கள் அறிவுறுத்தப்படுகிறார்கள்.
-
-ஏற்கனவே ஈரானில் உள்ள இந்தியர்கள், இங்கிருந்து வெளியேற விரும்பினால் தற்போது கிடைக்கும் வணிக விமான சேவை மற்றும் கப்பல் சேவைகளைப் பயன்படுத்திக் கொள்ளலாம் என தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/48779583.json)
-
----
-
-### Sri Lanka PUCSL to be accountable for CEB finances in new IMF benchmark
-
-*2025-07-17 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-make-pucsl-accountable-for-ceb-finances-revise-pricing-method-231099/) · `en`
-
-ECONOMYNEXT – Sri Lanka will change the governing law of the Public Utilities Commission of Sri Lanka to make it more accountable for the finances of the Ceylon Electricity Board, International Monetary Fund documents show.
-
-“We will improve the transparency of electricity tariff revisions and strengthen accountability of the regulator towards CEB’s finances,” a memorandum on economic policies said.
-
-“We will amend the PUCSL Act to mandate PUCSL to submit to parliament quarterly reports on maintaining cost recovery electricity pricing and publish the reports.”
-
-Sri Lanka defaulted and public debt bloated in part due to large losses made by the Ceylon Electricity Board and Ceylon Petroleum Corporation.
-
-A large part of the losses however came from the depreciation of the rupee due to anchor conflicts within the operating framework of the central bank.
-
-Sri Lanka’s IMF program hit a roadblock earlier this year due to regulator driven price cuts, which increased the risk of a sovereign default.
-
-...
-
-[Data](articles/ea5a160a.json)
-
----
-
-### Sri Lanka PUCSL to be accountable for CEB finances in new IMF benchmark
-
-*2025-07-17 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-pucsl-to-be-accountable-for-ceb-finances-in-new-imf-benchmark-231099/) · `en`
-
-ECONOMYNEXT – Sri Lanka will change the governing law of the Public Utilities Commission of Sri Lanka to make it more accountable for the finances of the Ceylon Electricity Board, International Monetary Fund documents show.
-
-“We will improve the transparency of electricity tariff revisions and strengthen accountability of the regulator towards CEB’s finances,” a memorandum on economic policies said.
-
-“We will amend the PUCSL Act to mandate PUCSL to submit to parliament quarterly reports on maintaining cost recovery electricity pricing and publish the reports.”
-
-Sri Lanka defaulted and public debt bloated in part due to large losses made by the Ceylon Electricity Board and Ceylon Petroleum Corporation.
-
-A large part of the losses however came from the depreciation of the rupee due to anchor conflicts within the operating framework of the central bank.
-
-Sri Lanka’s IMF program hit a roadblock earlier this year due to regulator driven price cuts, which increased the risk of a sovereign default.
-
-...
-
-[Data](articles/f76e60e6.json)
-
----
-
-### Sri Lanka President urges budget priorities for 2026
-
-*2025-07-17 07:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-budget-priorities-for-2026-231172/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has urged officials to prioritize digitalization, strengthening public transport and integrating rural communities to the economy, when making the 2026 budget.
-
-A circular had been given to spending agencies to submit proposals within allocated expenditure limits by the end of July official had told President, a statement from the President’s media office said.
-
-President had “instructed officials to focus more on projects cantered around areas such as digitalization, strengthening public transport and integrating rural communities into the economic framework,” the statement said.
-
-“The President further noted that merely allocating financial resources for projects is not sufficient.
-
-“He emphasized the need to assess whether the intended benefits of those projects are truly reaching the people and highlighted the importance of strengthening the necessary mechanisms to ensure this outcome.”
-
-...
-
-[Data](articles/350b440f.json)
 
 ---

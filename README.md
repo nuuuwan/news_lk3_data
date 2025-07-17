@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 18:58:38**
+As of **2025-07-17 19:26:10**
 
 ## Newspaper Stats
 
-*Scraped **65,258** Articles*
+*Scraped **65,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ islandlk | 3,982
 economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,264
-adaderanalk | 7,961
-tamilmirrorlk | 9,352
+adalk | 6,265
+adaderanalk | 7,962
+tamilmirrorlk | 9,353
 virakesarilk | 10,860
-adaderanasinhalalk | 11,211
+adaderanasinhalalk | 11,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,258 articles have been extended.
+61,973 (95.0%) of 65,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### දිනක් වයසැති බිළිදෙකු වෙල්‍‍යායකින් සොයා ගනී
+
+*2025-07-17 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212362) · `si`
+
+කුරුණෑගල මාවතගම පරගහදෙණිය සිංහපුරපාර ප්‍රදේශයේ වෙල්යායක දමා ගොස් සිටියදී අලුත උපන් බිළිදෙකු සොයා ගෙන තිබේ.
+
+අද උදෑසන වෙල්යාය මැදින් ගමන් කළ ගැමියෙකු මෙම අලුත උපන් දරුවා වෙල්යායේ ගසක් යට සිටිනු දැක තිබුණි.
+
+පසුව ඔහු විසින් මෙම සිද්ධිය සම්බන්ධයෙන් මාවතගම පොලිසිය දැනුම්වත් කිරීමට පියවර ගෙන ඇත.
+
+ඒ අනුව පොලීසිය එම ස්ථානයට පැමිණ ඇති අතර එම ස්ථානයට පැමිණි කාන්තාවන්ගෙන් ඉල්ලා සිටියේ බිලිඳා දෑතට ගන්නා ලෙසය.
+
+කෙසේ වෙතත් කෙසේ වෙතත් එම ස්ථානයට පැමිණ සිටි තරුණයෙකු සිය T ෂර්ටය ගලවා බිළිදා ආවරණය කරමින් දෑතට ගැනීමට ඉදිරිපත් වී තිබේ.
+
+අනතුරුව පොලිස් නිලධාරීන් සහ ප්‍රදේශවාසීන් එක්ව බිළිඳා﻿ එම ස්ථානයෙන් රැගෙන ගොස් මාවතගම රෝහලට ඇතුළත් කෙරිණි.
+
+බිළිදා පරීක්ෂා කළ වෛද්‍යවරයෙකු පැවසුවේ බිලිඳා ඉපදී දිනක් හෝ දින දෙකක් පමණ ගතවන්නට ඇති බවය.
+
+මූලික පරීක්ෂාවලින් අනතුරුව බිලිඳා කුරුණෑගල ශික්ෂණ රෝහලේ නොමේරු ළදරු ඒකකය වෙත මාරුකර යැවීමට මාවතගම රෝහල් බලධාරීහු පියවර ගත්හ.
+
+බිළිඳා මෙම ස්ථානයේ අත්හැර දමා ගියේ කවුරුන්දැයි යන්න පිළිබඳව මෙතෙක් අනාවරණ වී නොමැති අතර රෝහල් ප්‍රකාශකයෙකු පැවසුවේ, බිලිඳා යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන බවය.
+
+◼️
+
+[Data](articles/505f99dd.json)
+
+---
+
+### அம்மன் ஆலயத்திற்கு செல்ல இராணுவத்தினர் அனுமதி
+
+*2025-07-17 19:05:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்மன்-ஆலயத்திற்கு-செல்ல-இராணுவத்தினர்-அனுமதி/175-361276) · `ta`
+
+பலாலி கிழக்கு ஸ்ரீ இராஜராஜேஸ்வரி அம்மன் ஆலயத்திற்கு நேரக்கட்டுப்பாட்டுடன் தினசரி செல்வதற்கு இராணுவத்தினரால் இன்று (17) முதல் அனுமதி வழங்கப்பட்டுள்ளது.
+
+இதன்படி ஆலயத்திற்கு சென்று வழிபடுவதற்காக  தற்காலிகமாக அமைக்கப்பட்ட பாதையினூடாக  காலை 6.00 மணி தொடக்கம் மாலை 6.00மணி வரை செல்வதற்கான அனுமதி வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b4b1cff1.json)
+
+---
+
+### ගිනිඅවි සමඟ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2025-07-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212361) · `si`
+
+කටාන - දෙමන්හංදිය ප්‍රදේශයේදී සිදු කළ විශේෂ වැටලීමකදී ගිනිඅවි හතරක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුව ගෙන තිබේ.
+
+මීගමුව කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ ස්ථානාධිපතිවරයාට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර ඇත.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 51 සහ 58වන කටියල ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
+
+එක් සැකකරුවෙකු සන්තකයේ තිබී විදේශ රටක නිෂ්පාදිත රිවෝල්වර් වර්ගයේ ගිනි අවියක්, ටී.56 පතරොම් යෙදිය හැකි මෙරට නිෂ්පාදිත ටීකටස් වර්ගයේ ගිනි අවියක්, රිවෝල්වර් ගිනි අවි සෑදීමට භාවිතා කළ හැකි ආකෘතියක් සහ ගිනි අවි සෑදීමට යොදා ගන්නා ලද උපකරණ කිහිපයක් පොලීසිය සිය භාරයට ගෙන ඇත.
+
+එමෙන්ම අනෙක් සැකකරු සන්තකයේ තිබී මෙරට නිෂ්පාදිත ගිනි අවි දෙකක් ද පොලීසිය විසින් සොයා ගෙන තිබේ.
+
+සැකකරුවන් සම්බන්ධයෙන් වැඩිදුර විමර්ශන මීගමුව කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය හා කටාන පොලිස් ස්ථානය මගින් සිදු කරයි.
+
+◼️
+
+[Data](articles/470748dc.json)
+
+---
+
+### President inaugurates wax museum at historic Ehelepola Walawwa in Kandy
+
+*2025-07-17 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110582/president-inaugurates-wax-museum-at-historic-ehelepola-walawwa-in-kandy) · `en`
+
+President Anura Kumara Dissanayake has officially declared opened the Wax Museum at the historic Ehelepola Walawwa in Kandy today (17).
+
+The Ehelepola Walawwa, which was renovated by the Urban Development Authority, has been handed over to the Temple of the Sacred Tooth Relic. The museum was then established, ensuring the preservation of its archaeological and cultural significance, the President’s Media Division said in a statement.
+
+The museum features wax recreations depicting the architecture, customs and arts and crafts of the Kandyan Kingdom, to which the Ehelepola Walawwa belongs. There are also exhibition stalls showcasing traditional industries, as well as a dining area illustrating how ancient royal meals were prepared, complete with their recipes, the PMD added.
+
+...
+
+[Data](articles/147c9ec1.json)
+
+---
 
 ### செம்மணி எதிர்ப்பு ஆர்ப்பாட்டத்தில் குழப்பம்
 
@@ -163,6 +243,24 @@ The change will require parliamentary approval, but that is unlikely to present 
 ...
 
 [Data](articles/f216f881.json)
+
+---
+
+### ඇහැලේපොළ වලව්වේ ඉටි රූප කෞතුකාගාරය ජනපති අතින් විවෘත කෙරේ
+
+*2025-07-17 17:21:14* · [`adalk`](https://www.ada.lk/picture_story/ඇහැලේපොළ-වලව්වේ-ඉටි-රූප-කෞතුකාගාරය-ජනපති-අතින්-විවෘත-කෙරේ/10-417363) · `si`
+
+මහනුවර ඓතිහාසික ඇහැලේපොළ වලව්වේ ඉටි රූප කෞතුකාගාරය ජනාධිපති අනුර කුමාර දිසානායක මහතා අතින් අද (17) පෙරවරුවේ විවෘත කෙරිණි.
+
+නාගරික සංවර්ධන අධිකාරිය විසින් ප්‍රතිසංස්කරණය කරන ලද ඇහැලේපොළ වලව්ව ශ්‍රී දළදා මාළිගාවට පවරා දීමෙන් පසු, එහි පුරාවිද්‍යාත්මක හා සංස්කෘතික වටිනාකම් සුරක්ෂිත කර ගනිමින් මෙම කෞතුකාගාරය නිර්මාණය කර තිබේ.
+
+ඇහැලේපොළ වලව්ව අයත් කන්ද උඩරට රාජධානියේ ගෘහ නිර්මාණ ශිල්පය, චාරිත්‍රවාරිත්‍ර සහ කලා ශිල්ප ආදිය ඉටි ආශ්‍රයෙන් මෙහි ප්‍රතිනිර්මාණය කර තිබෙන අතර, පාරම්පරික කර්මාන්ත පිළිබඳ  ප්‍රදර්ශන කුටි මෙන්ම ඉපැරණි   භෝජනාගාරයක්ද ස්ථාපිත කර තිබේ.
+
+එමෙන්ම, වැලිවිට ශ්‍රී සරණංකර සංඝරාජ හිමි, වාරියපොල ශ්‍රී සුමංගල හිමි,   පළමු වන විමලධර්මසූරිය රජු, කුසුමාසන දේවිය, මොණරවිල කැප්පෙටිපොළ දිසාව, දේවේන්ද්‍ර මුලාචාරිතුමා, රොබට් බ්‍රවුන්රිග් ආණ්ඩුකාරවරයා,  ඇහැලේපොළ මහාධිකාරම්, කුමාරිහාමි, දරු දෙදෙනා ඇතුළු  ඉතිහාසයේ සුවිශේෂි චරිත 35කට අදාළ ජීවමාන ඉටි රූප මෙහි ප්‍රතිනිර්මාණය කරනු ලැබ ඇත.
+
+...
+
+[Data](articles/c5a94d2c.json)
 
 ---
 
@@ -368,7 +466,13 @@ The owner of a Bird Park in Nagarawawa, Hambantota, who was arrested earlier tod
 
 He has been remanded until July 25 by the Hambantota Magistrate’s Court.
 
-◼️
+The owner of a Bird Park was arrested earlier today by a special police team in Narahenpita, according to police.
+
+On July 12, police officers attached to the CCIB took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
+
+The raid was carried out by a team of officers, including the Director of the CCIB, Superintendent of Police (SP) Kamal Ariyawansa, based on special information received by the Acting IGP.
+
+...
 
 [Data](articles/469adda1.json)
 
@@ -1683,93 +1787,5 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 ◼️
 
 [Data](articles/c9fec490.json)
-
----
-
-### ඉතිහාසයේ පළමු වතාවට ජීවිතාරක්ෂක ක්‍රීඩකයින්ට පොදු රාජ්‍ය මණ්ඩලීය රන් පදක්කමක්
-
-*2025-07-17 10:37:23* · [`adalk`](https://www.ada.lk/sports/ඉතිහාසයේ-පළමු-වතාවට-ජීවිතාරක්ෂක-ක්‍රීඩකයින්ට-පොදු-රාජ්‍ය-මණ්ඩලීය-රන්-පදක්කමක්/9-417350) · `si`
-
-එංගලන්තයේ පැවති 2025 පොදු රාජ්‍ය මණ්ඩලීය ජීවිතාරක්ෂක ශූරතා තරගාවලියේ දී ශ්‍රී ලංකාවට ජීවිතාරක්ෂක ඉසවකින් රන් පදක්කමක් හිමි කර ගැනීමට හැකි වී ඇති අතර එම රන් පදක්කම හිමි කර ගත් හිරුණ ද සිල්වා සහ මීදුම් මෙන්ඩිස් ක්‍රීඩකයින් දෙදෙනා 07/16 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ  වෙත පැමිණියහ.
-
-මෙම තරගාවලිය පොදු රාජ්‍ය මණ්ඩලීය රටවල් 32 ක ක්‍රීඩක ක්‍රීඩිකාවන් 75 දෙනෙකුගේ සහභාගීත්වයෙන් ඉකුත් 07/10 දින සිට 07/13 දින දක්වා එංගලන්තයේ වේල්ස් නුවර පවත්වා තිබුණි.
-
-ලෝකයේ වේගවත්ම ක්‍රීඩා ඉසව්වක් වන තත්පර 10 ක් ඇතුළත මීටර් 12.50 ක දියඹෙහි සිටින පුද්ගලයෙකු ගොඩට ඇද ගැනීමේ  " ලණුවක් මගින් ගලවා ගැනීම " ( Line Throw ) ඉසව්වට සහභාගී වූ හිරුණ ද සිල්වා සහ මීදුම් මෙන්ඩිස් මෙම ඉසව්ව තත්පර 09.98 ක කාළයකින් නිම කර මෙම රන් පදක්කම දිනා ගෙන තිබුණි.
-
-එසේම මෙම තරගාවලියේ දී හිරුණ ද සිල්වා " නැගී එන දක්ෂතම ක්‍රීඩකයාට '' හිමි සම්මානය ද හිමි කර ගැනීමට සමත් වී තිබුණි.
-
-මෙම ක්‍රීඩකයින් දෙදෙනා කොළඹ ආනන්ද විද්‍යාලයේ උසස් පෙළ විෂයයන් හදාරන සිසුන් වීම විශේෂත්වයකි.
-
-...
-
-[Data](articles/5c040372.json)
-
----
-
-### காகில்ஸ் ஃபுட் சிட்டி 'உலக சுற்றுச் சூழல் தினத்தை' BYOB எனும் பிரசாரத்துடன் முன்னெடுக்கின்றது
-
-*2025-07-17 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220190) · `ta`
-
-2025 ஆம் ஆண்டு உலக சுற்றுச் சூழல் தினத்தை இட்டு ‘Bring Your Own Bag’ (BYOB)என்ற விசேட முன்னெப்பு மூலமாக காகில்ஸ் ஃபுட் சிட்டி நிலைதன்மை தொடர்பான அதன் தொடர்ச்சியான அர்ப்பணிப்பை மீண்டுமொரு முறை உறுதிப்படுத்தியது.
-
-Zero Plastic இயக்கம் மற்றும் லுமாலா நிறுவனத்துடன் இணைந்து மேற்கொள்ளப்பட்ட இந்த பிரச்சாரம் கொள்வனவாளர்கள் தமக்குச் சொந்தமான பைகளைக் கொண்டு வருவதன் மூலம் அல்லது மீண்டும் பயன்படுத்தக்கூடிய Cargills Go Green பையைத் தெரிவு செய்வதன் மூலம் மின்சாரத்தினால் இயங்கும் லுமாலா e-bike ஐ வெல்லும் வாய்ப்பை வழங்கியது
-
-1,000 இற்கும் மேற்பட்ட வாடிக்கையாளர்கள் சுற்றுச் சூழலை பாதுகாக்கும் நோக்கோடு இந்த இயக்கத்தில் ஆர்வத்துடன் இணைந்து கொண்டனர்.
-
-அனைத்து பங்கேற்பாளர்களும் இப்பிரச்சாரத்தின் நெறிமுறைகளுக்கு அமைவான ஒரு நிலைபேறான போக்குவரத்துத் தீர்வான லுமாலா e-bike ஐ வெல்லும் அதிர்ஷ;டக் குலுக்கலில் பங்கேற்றனர்.
-
-மாத்தறை ஹித்தாதியமடவைச் சேர்ந்த திருமதி டி. ஏ. தருஷி செமின் லுமாலா e-bike ஐ வெற்றி கொள்ளும் அதிர்ஷடசாலியாக தேர்ந்தெடுக்கப்பட்டார்.
-
-...
-
-[Data](articles/949479e3.json)
-
----
-
-### இசைத் திருவிழா மேடையில் பாரிய தீ பரவல்
-
-*2025-07-17 10:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இசைத்-திருவிழா-மேடையில்-பாரிய-தீ-பரவல்/50-361234) · `ta`
-
-பெல்ஜியத்தின் உலகப் புகழ்பெற்ற டுமாரோலேண்ட் இசைத் திருவிழா வெள்ளிக்கிழமை (18) பூம் நகரில் ஆரம்பிக்கப்படவிருந்த நிலையில், பிரதான மேடையில் பாரிய தீ பரவல் ஏற்பட்டுள்ளது.
-
-"தீ பரவலால்  டுமாரோலேண்ட் இசைத் திருவிழாவின் பிரதான மேடை கடுமையாக சேதமடைந்துள்ளது," என விழா ஏற்பாட்டாளர்கள் புதன்கிழமை (16) மாலை ஒரு அறிக்கை மூலம் தெரிவித்தனர்.
-
-தீ பரவல் ஏற்பட்டபோது விழாவிற்கு வந்தவர்கள் யாரும் அங்கு இருக்க வில்லை, எனவும் சுமார் 1,000 ஊழியர்கள் இருந்ததாகவும், அவர்கள் தற்போது வெளியேற்றப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/43ff3e0a.json)
-
----
-
-### ගිනිඅවියක් සහ ජීව පතොරම් සමඟ සැකකරුවෙකු අත්අඩංගුවට
-
-*2025-07-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212340) · `si`
-
-මෙරට නිෂ්පාදිත ගිනිඅවියක් සහ ජීව පතොරම් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
-
-ඒ ඊයේ (16) හබරාදුව පොලිස් වසමේ උණවටුන ප්‍රදේශයේදී පොලිස් නිලධාරීන් කණ්ඩායමක් විසින් සිදූකළ වැටලීමකදීය.
-
-එහිදී මෙරට නිෂ්පාදිත ගිනිඅවියක්, මි.මී. 9 වර්ගයේ ජීවපතොරම් 04ක්, කෙටේරියක් සහ තහනම් ආයුධයක් සමඟ අවුරුදු 41ක උණවටුන ප්‍රදේශයේ පදිංචිකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/29e693b0.json)
-
----
-
-### Rainy conditions expected to enhance from today
-
-*2025-07-17 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110564/rainy-conditions-expected-to-enhance-from-today) · `en`
-
-The Meteorology Department says that, due to the prevailing active southwest monsoon conditions, rainy conditions are expected to be enhanced, particularly in areas over the western slope of the central hills during the next few days, from today (July 18).
-
-Further, strong winds are expected over the island and in the sea areas around the island.
-
-The general public is requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/c9af30c3.json)
 
 ---

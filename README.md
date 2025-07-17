@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 18:31:40**
+As of **2025-07-17 18:58:38**
 
 ## Newspaper Stats
 
-*Scraped **65,257** Articles*
+*Scraped **65,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,264
 adaderanalk | 7,961
-tamilmirrorlk | 9,351
+tamilmirrorlk | 9,352
 virakesarilk | 10,860
 adaderanasinhalalk | 11,211
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,211
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,257 articles have been extended.
+61,973 (95.0%) of 65,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### செம்மணி எதிர்ப்பு ஆர்ப்பாட்டத்தில் குழப்பம்
+
+*2025-07-17 18:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-எதிர்ப்பு-ஆர்ப்பாட்டத்தில்-குழப்பம்/175-361275) · `ta`
+
+செம்மணி படுகொலைக்கு எதிர்ப்பு தெரிவித்து கொழும்பில் முன்னெடுப்பட்டுள்ள ஆர்ப்பாட்டத்தில் தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோகணேசனனும் கட்சியின் உறுப்பினர்களும் கலந்துக்கொண்டுள்ளனர்.
+
+அதன்போது ஆர்ப்பாட்டகாரர்கள் ஆர்ப்பாட்டத்தை பேரணியாக முன்னோக்கி நகரத்த முற்பட்ட வேளை,பொலிஸாருக்கும் ஆர்ப்பாட்டகாரர்களுக்குமிடையில் வாய்த்தர்க்கம் ஏற்பட்டு அமைதியின்மை ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0d50d3a6.json)
+
+---
 
 ### இலங்கையின் 80% ஏற்றுமதிகள் வரியின்றி அமெரிக்காவிற்குள் நுழைய ஒப்புதல்
 
@@ -1757,17 +1771,5 @@ The general public is requested to be attentive to future forecasts issued by th
 ◼️
 
 [Data](articles/c9af30c3.json)
-
----
-
-### செம்மணிக்காக கொழும்பில் இன்று ஆர்ப்பாட்டம்
-
-*2025-07-17 10:15:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்காக-கொழும்பில்-இன்று-ஆர்ப்பாட்டம்/175-361233) · `ta`
-
-ஜூலை 17 இன்று பிற்பகல் 3மணிக்கு கொழும்பு கோட்டை  ரயில் நிலைய முன்றலில் செம்மணி புதைகுழி விவகாரத்தை தென்னிலங்கையின் கவனத்திற்கு கொண்டு வரும் நோக்கில் சிவில் சமூகம், கவன ஈர்ப்பு ஆர்ப்பாட்டத்தை நடத்த உள்ளது
-
-◼️
-
-[Data](articles/895835bb.json)
 
 ---

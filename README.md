@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 13:06:17**
+As of **2025-07-17 13:18:55**
 
 ## Newspaper Stats
 
-*Scraped **65,191** Articles*
+*Scraped **65,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,109 @@ dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,255
 adaderanalk | 7,947
-tamilmirrorlk | 9,336
+tamilmirrorlk | 9,339
 virakesarilk | 10,846
-adaderanasinhalalk | 11,200
+adaderanasinhalalk | 11,202
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,191 articles have been extended.
+61,973 (95.1%) of 65,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### අමෙරිකාව සමඟ එකඟ වූ කරුණු ගැන නි. ඇමති අනිල් ජයන්ත පහදයි
+
+*2025-07-17 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212348) · `si`
+
+අමෙරිකානු තීරුබදු සම්බන්ධයෙන් වන සාකච්ඡා මෙතෙක් අවසන් නොවීම හේතුවෙන් අමෙරිකාව සමඟ එකඟ වූ කරුණු අනාවරණ කිරීමට නොහැකි බව ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ අද (17)  පැවති "අද දෙරණ බිග් ෆෝකස්" වැඩසටහනට එක්වෙමිනි.
+
+...
+
+[Data](articles/90d16246.json)
+
+---
+
+### හෘදයාබාධයක් වැළදී පාසල් දැරියක් ජීවිතක්ෂයට
+
+*2025-07-17 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212347) · `si`
+
+වයස අවුරුදු 09ක පාසල් සිසුවියක් හෘදයාබාධයක් වැළදී මිය ගිය පුවතක් ඉන්දියාවේ සිකාර් දිස්ත්‍රික්ක‍යෙන් වාර්තා වී තිබේ.
+
+අදාළ දැරිය දිවා ආහාරය සඳහා කෑම පෙට්ටිය විවෘත කරන අතරතුර ක්ලාන්තය වී බිම ඇඳ වැටී ඇත.
+
+එහිදී දැරිය හුස්ම ගැනීමේ අපහසුතාවයෙන් සිට ඇති අතර පසුව ඇය සිහිසුන් වී තිබේ.
+
+ඒ අනුව පාසල් කාර්ය මණ්ඩලය විසින් ඇයව වහාම රෝහල් ගත කිරීමට පියවර ගෙන ඇති අතර ප්‍රතිකාර ලබමින් සිටියදී මෙසේ ඇය මිය ගොස් ඇති බව එරට පොලීසිය සඳහන් කළේය.
+
+කෙසේ වෙතත් රෝහලේ වෛද්‍යවරු පැවසුවේ අදාළ දැරියට හෘදයාබාධයක් වැළදී ඇති බවය.
+
+දේහය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය තවමත් සිදු කර නොමැති බවද සඳහන්.
+
+◼️
+
+[Data](articles/b493ed1f.json)
+
+---
+
+### ஈராக்கில் தீ விபத்து: 50 பேர் பலி
+
+*2025-07-17 13:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈராக்கில்-தீ-விபத்து-50-பேர்-பலி/50-361254) · `ta`
+
+ஈராக் நாட்டில் அல் குட் நகரில் உள்ள ஒரு பல் அடுக்கு கொண்ட வணிக வளாகத்தில் ஏற்பட்ட தீ விபத்தில் 50 பேர் உயிரிழந்தனர்.
+
+பலர் படுகாயமடைந்தனர். இந்த தீ விபத்தை அல் குட் நகர் அமைந்துள்ள வாசிட் மாகாண ஆளுநர் முகமது அல் மியாஹி உறுதிப்படுத்தியுள்ளார்.
+
+“வணிக வளாகத்தில் ஏற்பட்ட தீ விபத்தில் உயிரிழந்தோரின் எண்ணிக்கை 50-ஐ தொட்டுள்ளது. நிறைய பேர் காயமடைந்துள்ளனர்.
+
+விபத்துக்கான காரணம் உடனடியாக உறுதியாகவில்லை. இன்னும் 48 மணி நேரத்துக்குள் முழு விவரங்கள் பகிரப்படும். இப்போதைக்கு கட்டிட உரிமையாளர் மீது வழக்கு பதியப்பட்டுள்ளது” என்று ஆளுநர் முகமது அல் மியாஹி கூறியுள்ளார்.
+
+இதற்கிடையில் சமூக வலைதளங்களில் வணிக நிறுவனம் ஒன்றில் தீ கொளுந்துவிட்டு எரியும் காட்சிகள் கொண்ட வீடியோ வைரலாகி வருகிறது. ஆனால் இந்த வீடியோ ஈராக் வணிக வளாக விபத்து வீடியோதானா என்பதை இன்னும் அரசுத் தரப்போ / ஈராக் ஊடகமோ உறுதி செய்யவில்லை.
+
+◼️
+
+[Data](articles/a04c89e3.json)
+
+---
+
+### சீருடையையும் நன்கொடையாக வழங்கியது சீனா
+
+*2025-07-17 13:00:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடையையும்-நன்கொடையாக-வழங்கியது-சீனா/175-361253) · `ta`
+
+அரச மற்றும் அரசாங்கத்தின் உதவிகளைப் பெறும் அனைத்துப் பாடசாலைகளுக்குமான 2025 ஆம் ஆண்டுக்குரிய சீருடைகளைப் பெற்றுக்கொடுப்பதற்கான சான்றிதழ் பரிமாற்றம்
+
+2025 ஆம் ஆண்டுக்கான 5,171 மில்லியன் ரூபாய் பெறுமதியான பாடசாலை சீருடைக்குத் தேவையான சீருடைத் தொகையையும், சீன அரசின் அன்பளிப்பாக வழங்கியதையும் அதிகாரப்பூர்வமாக அறிவிக்கும் நிகழ்வு, பத்தரமுல்லை கல்வி அமைச்சில் கல்வி, உயர்கல்வி மற்றும் தொழில்நுட்பக் கல்வி அமைச்சர், பிரதமர் கலாநிதி ஹரினி அமரசூரியவின் பங்கேற்பில் ஜூலை 16 ஆம் திகதி நடைபெற்றது.
+
+அப்பொழுது 2025 ஆம் ஆண்டிற்குத் தேவையான மொத்த சீருடைத் தேவையும் வழங்கப்பட்டு முடிந்ததை அறிவிப்பதற்கான சான்றிதழ் பரிமாற்றம் பிரதமர் ஹரினி அமரசூரிய மற்றும் இலங்கைக்கான சீனத் தூதுவர் Qi Zhenhong ஆகியோருக்கிடையே இடம்பெற்றது.
+
+ஏற்கனவே, 2026 ஆம் ஆண்டிற்குத் தேவையான பாடசாலை சீருடைத் தொகையையும் அன்பளிப்பாகப் பெற்றுத் தருமாறு சீனாவிடம் தமது கோரிக்கையை வெளிநாட்டு வளங்கள் திணைக்களத்தின் ஊடாக மக்கள் சீனக் குடியரசின் இலங்கை சீனத் தூதரகத்திற்கு அனுப்பி வைக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/15fc48c6.json)
+
+---
+
+### கடல் சீற்றம்: முன்னெச்சரிக்கை விடுப்பு
+
+*2025-07-17 12:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-சீற்றம்-முன்னெச்சரிக்கை-விடுப்பு/175-361252) · `ta`
+
+கடல் சீற்றம் காரணமாக அடுத்த 24 மணி நேரத்திற்கு காலி முதல் மாத்தறை மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கடல் பகுதிகளுக்கு கடற்படை மற்றும் மீன்பிடி சமூகங்கள் செல்ல வேண்டாம் என்று வானிலை ஆய்வுத் துறையின் இயற்கை ஆபத்துகள் முன்னெச்சரிக்கை மையம் அறிவுறுத்தியுள்ளது.
+
+இந்தப் பகுதிகளில் மணிக்கு 55 முதல் 65 கிமீ வேகத்தில் பலத்த காற்று வீசக்கூடும் என்றும், கடல் கொந்தளிப்பாகவும் அல்லது மிகவும் சீற்றமாகவோ இருக்கும் என்றும் திணைக்களம் எச்சரித்துள்ளது. அலைகளின் உயரம் அண்ணளவாக 2.5 முதல் 3.0 மீட்டர் வரை இருக்கும் என்று எதிர்பார்க்கப்படுகிறது.
+
+காலி முதல் கொழும்பு வழியாக புத்தளம் வரையிலான கடல் பகுதிகளில் மீனவர்கள் மற்றும் கடற்படையினரும் விழிப்புடன் இருக்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள், ஏனெனில் கொந்தளிப்பான நிலைமை பரந்த பகுதியில் பரவக்கூடும். புத்தளம் முதல் கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கரையோரப் பகுதிகளில் கடல் அலைகள் காரணமாக கடலோர அலைகள் ஏற்படும் அபாயம் உள்ளது.
+
+...
+
+[Data](articles/b238834e.json)
+
+---
 
 ### எசல பெரஹெராவை முன்னிட்டு பாடசாலைகளுக்கு விடுமுறை
 
@@ -1691,91 +1781,5 @@ This year’s Best Workplaces are selected across four categories — Large, Med
 ...
 
 [Data](articles/1663806e.json)
-
----
-
-### IMF is a bandage, not a cure: Moving towards lasting solutions
-
-*2025-07-16 23:33:20* · [`dailyftlk`](https://www.ft.lk/columns/IMF-is-a-bandage-not-a-cure-Moving-towards-lasting-solutions/4-779057) · `en`
-
-President Anura Kumara Disanayake has decided not to seek an IMF bailout again, so the way forward is now clear. Sri Lanka must face a harsh reality: while the IMF may provide temporary relief, it is not a long-term solution for prosperity. It acts as a bandage during moments of crisis, not a cure for the deeper structural problems that have troubled the country for decades. Simply “exiting” the current IMF program by 2027 is not enough. The real goal should be to build the capacity never to have to rely on such measures again. This is what President Anura Kumara Disanayake is committed to
-
-“The true test of leadership is not in securing another bailout, but in building a nation that never needs one again. Fiscal sovereignty is not a dream; it is a decision.”
-
-(Beyond bailouts: How Sri Lanka can break free from IMF dependency; policy lessons from Malaysia, Bolivia, Botswana, and Vietnam)
-
-...
-
-[Data](articles/780231dd.json)
-
----
-
-### Benefits of yoghurt face masks …
-
-*2025-07-16 23:33:00* · [`islandlk`](http://island.lk/benefits-of-yoghurt-face-masks/) · `en`
-
-With this awful heat we are now experiencing, an ice cooled yoghurt is certainly welcome. And, guess what? Using yoghurt regularly (not as a drink) may slow down the signs of ageing.
-
-Yoghurt also exfoliates the skin, brightens the skin, helps to reduce acne and combats skin infection.
-
-Okay, now that you know the benefits of using yoghurt, go ahead with these yoghurt beauty tips:
-
-You will need ½ a cup of plain yoghurt, ½ an avocado, and 02 tablespoons of aloe vera.
-
-Mix them all in a bowl and apply the mixture evenly on your face and neck.
-
-You will need 01 tablespoon of plain yoghurt, 01 tablespoon of blended oatmeal and ½ a tablespoon of honey.
-
-Mix all the mentioned items in a bowl and apply the mixture all over your face and neck.
-
-You will need ½ a cup of plain yoghurt, and 02 tablespoons of honey.
-
-Mix the honey and yoghurt in a bowl and apply the mask evenly on your neck and face.
-
-You will need ½ cup of plain yoghurt and 01 tablespoon of turmeric.
-
-...
-
-[Data](articles/a153669a.json)
-
----
-
-### “Cards on the table”: What new gambling Bill means for Sri Lanka’s casino future
-
-*2025-07-16 23:30:27* · [`dailyftlk`](https://www.ft.lk/columns/Cards-on-the-table-What-new-gambling-Bill-means-for-Sri-Lanka-s-casino-future/4-779056) · `en`
-
-Broad powers of inspection, vague data handling rules, and undefined public interest clauses could deter foreign investors unless the Bill is supported by clear timelines on data retention periods, transparency on confidentiality protocols, and safeguards against arbitrary action. To attract foreign operators, Sri Lanka should consider embedding stronger procedural protections, and licensees may seek negotiated terms such as non-disturbance clauses, dispute resolution, land security rights, arbitration options and indemnities into their license agreement to hedge against regulatory overreach
-
-...
-
-[Data](articles/1094babd.json)
-
----
-
-### Bradman Weerakoon as crisis manager and international relations advisor
-
-*2025-07-16 23:17:37* · [`dailyftlk`](https://www.ft.lk/columns/Bradman-Weerakoon-as-crisis-manager-and-international-relations-advisor/4-779050) · `en`
-
-“…One cannot look for concessions, for scraps from the table, but has to work very hard to set one’s own house in order and work in collaboration with others of one’s own kind and win those positions…The world is full of ad hoc happenings but our response should not be ad hoc…”
-
-Bradman Weerakoon, ‘A New World Order’, Economic Review, January 1991
-
-...
-
-[Data](articles/156c9c35.json)
-
----
-
-### Negotiation of reciprocal tariff to competitive level critical for  Sri Lanka’s exports survival
-
-*2025-07-16 23:14:02* · [`dailyftlk`](https://www.ft.lk/columns/Negotiation-of-reciprocal-tariff-to-competitive-level-critical-for-Sri-Lanka-s-exports-survival/4-779049) · `en`
-
-The Government seems to be complacent about the reduction of the reciprocal tariff to 30% from the previous 44%
-
-The US is making revisions to its reciprocal tariff regime, which was initially presented in early April this year, and subsequently deferred for a three-month period to be ended on 9 July 2025. The US President has since then revised the tariffs applicable to certain countries after negotiation with the counterparts. Sri Lanka also engaged with US trade officials (USTR) expecting a revision to the tariff applicable to Sri Lanka; which was initially one of the highest rates in the world at 44%.
-
-...
-
-[Data](articles/ab720f52.json)
 
 ---

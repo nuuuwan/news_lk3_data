@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 12:08:40**
+As of **2025-07-17 12:26:42**
 
 ## Newspaper Stats
 
@@ -111,8 +111,6 @@ Videos circulating on social media showed flames engulfing a five-storey buildin
 The cause of the fire was not immediately known, but the governor said initial results from an investigation would be announced within 48 hours, INA reported.
 
 “We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
-
-At least 50 people have been killed and dozens remain missing after a fire broke out early Thursday morning at a shopping mall in Iraq’s eastern Wasit province, according to Iraqi state media.READ MORE: https://t.co/oF0hGwnXzO pic.twitter.com/MoAdr0CXqR— Rudaw English (@RudawEnglish) July 17, 2025
 
 ◼️
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 11:50:37**
+As of **2025-07-17 12:08:40**
 
 ## Newspaper Stats
 
-*Scraped **65,175** Articles*
+*Scraped **65,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,148 @@ dbsjeyarajcom | 582
 colombotelegraphcom | 663
 bbccomsinhala | 677
 islandlk | 3,981
-economynextcom | 3,989
+economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,253
-adaderanalk | 7,945
-tamilmirrorlk | 9,333
-virakesarilk | 10,842
-adaderanasinhalalk | 11,198
+adaderanalk | 7,947
+tamilmirrorlk | 9,335
+virakesarilk | 10,846
+adaderanasinhalalk | 11,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,175 articles have been extended.
+61,973 (95.1%) of 65,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### பாராளுமன்றத்தை படம்பிடித் ட்ரோன்
+
+*2025-07-17 11:54:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தை-படம்பிடித்-ட்ரோன்/175-361250) · `ta`
+
+பாராளுமன்ற வளாகத்தில் புதன்கிழமை (16) பல மணி நேரம் ட்ரோன் மூலம் படங்கள் பிடிக்கப்பட்டுள்ளன.
+
+பாராளுமன்றம் மற்றும் பாராளுமன்ற வளாகத்தைச் சுற்றியுள்ள பகுதிகள் பல ட்ரோன்களைப் பயன்படுத்தி வீடியோவில் பதிவு செய்யப்பட்டதாக அதிகாரி ஒருவர் தெரிவித்தார்.
+
+பாராளுமன்றம் பற்றிய ஆவணப்படம் தயாரிப்பதற்காக பாராளுமன்ற வளாகம் வீடியோவில் பதிவு செய்யப்பட்டது. ஐக்கிய நாடுகள் மேம்பாட்டுத் திட்டத்தின் அதிகாரிகள் குழுவும், அந்நாட்டைச் சேர்ந்த பிரதிநிதிகள் குழுவும் இந்த நடவடிக்கையில் ஈடுபட்டுள்ளன. பாராளுமன்றத்தின் பாதுகாப்பை உறுதி செய்வதற்காக அவ்வப்போது ட்ரோன் நடவடிக்கைகளும் மேற்கொள்ளப்படுகின்றன.
+
+◼️
+
+[Data](articles/cbf92f38.json)
+
+---
+
+### ඉරාකයේ සාප්පු සංකීර්ණයක ඇති වූ ගින්නකින් 50ක් මරුට
+
+*2025-07-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212345) · `si`
+
+ඉරාකයේ සාප්පු සංකීර්ණයක ඇති වූ ගින්නකින් පුද්ගලයින් 50දෙනෙකු මියගොස් තවත් පිරිසක් තුවාල ලබා තිබේ.
+
+නැගෙනහිර ඉරාකයේ පිහිටි අල්-කුට් නගරයේ සාප්පු සංකීර්ණයක මෙම දැවැන්ත ගින්න ඇති වී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ගිනි නිවන භටයින් ගින්න මැඩපැවැත්වීමට උත්සාහ කරන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/fd014a69.json)
+
+---
+
+### 19 அமைச்சர்கள் இரு பக்கங்களிலும் எரிபொருள் பெற்றுள்ளனர்
+
+*2025-07-17 11:47:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-அமைச்சர்கள்-இரு-பக்கங்களிலும்-எரிபொருள்-பெற்றுள்ளனர்/175-361249) · `ta`
+
+19 அமைச்சர்கள் மற்றும் பிரதி அமைச்சர்கள் தங்கள் அமைச்சகங்களிலிருந்தும் பாராளுமன்றத்திலிருந்தும் எரிபொருள் கொடுப்பனவுகளைப் பெற்றுக்கொண்டுள்ளனர் என பாராளுமன்ற வட்டாரங்கள் தெரிவித்தனர்.
+
+இருப்பினும், பிரதமர், 30 அமைச்சர்கள் மற்றும் பிரதி அமைச்சர்கள் விடுத்த   வேண்டுகோளின் பேரில் கடந்த ஏப்ரல் மாதம் முதல் எரிபொருள் கொடுப்பனவு வழங்குவது நிறுத்தி வைக்கப்பட்டுள்ளதாக பாராளுமன்ற செய்தித் தொடர்பாளர் ஒருவர் தெரிவித்தார்.
+
+மற்ற அமைச்சர்களும் கோரிக்கை விடுத்தால், பாராளுமன்ற கொடுப்பனவு திரும்பப் பெறப்படும் என்று பாராளுமன்ற நிதிப் பிரிவு கூறுகிறது.
+
+இதற்கிடையில், சபாநாயகர், பிரதி சபாநாயகர், பிரதி குழுத் தலைவர் உள்ளிட்ட கட்சி மற்றும் எதிர்க்கட்சி உறுப்பினர்களின் கொடுப்பனவுகளுக்காக மார்ச் மாதத்தில் மட்டும் எண்ணூறு மில்லியனுக்கும் அதிகமான ரூபாய் செலவிடப்பட்டது.
+
+...
+
+[Data](articles/bad05b66.json)
+
+---
+
+### Sri Lanka’s IOC unit profits down 38-pct in June
+
+*2025-07-17 11:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ioc-unit-profits-down-38-pct-in-june-231252/) · `en`
+
+ECONOMYNEXT – Profits at Lanka’s IOC, a unit of Indian Oil Corporation, fell 38 percent to 2.3 billion rupees in the June 2025 quarter from a year ago, with revenues and margins also shrinking, interim accounts show.
+
+Revenues fell 14.5 percent to 62.53 billion rupees, cost of sales fell 13.7 percent to 57.7 billion rupees, and gross profits fell 23 percent to 4.79 billion rupees.
+
+Finance income fell to 1.1 billion rupees from 1.3 billion rupees with pre-tax profits fell to 2.9 billion rupees from 4.5 billion rupees.
+
+Income tax provisions fell 582.2 million rupees from 786.9 million rupees. (Colombo/July17/2025)
+
+◼️
+
+[Data](articles/acd0daf2.json)
+
+---
+
+### Fifty people killed in a shopping mall fire in Iraq
+
+*2025-07-17 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110567/fifty-people-killed-in-a-shopping-mall-fire-in-iraq) · `en`
+
+Fifty people were killed in a massive fire in a hypermarket in al-Kut city in eastern Iraq, the state news agency (INA) reported on Thursday, citing the province’s governor.
+
+Videos circulating on social media showed flames engulfing a five-storey building in al-Kut overnight, while firefighters were trying to contain the fire.
+
+The cause of the fire was not immediately known, but the governor said initial results from an investigation would be announced within 48 hours, INA reported.
+
+“We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
+
+At least 50 people have been killed and dozens remain missing after a fire broke out early Thursday morning at a shopping mall in Iraq’s eastern Wasit province, according to Iraqi state media.READ MORE: https://t.co/oF0hGwnXzO pic.twitter.com/MoAdr0CXqR— Rudaw English (@RudawEnglish) July 17, 2025
+
+◼️
+
+[Data](articles/d0fbab81.json)
+
+---
+
+### யாழில் பிரமிட் திட்டங்களைத் தடுக்கும் தேசிய விழிப்புணர்வு நிகழ்ச்சி
+
+*2025-07-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220200) · `ta`
+
+பிரமிட் திட்டங்களில் ஈடுபடுவதால் ஏற்படும் பாதகமான பொருளாதார விளைவுகள் மற்றும் அவற்றின் பரவலைத் தடுக்கும் வகையில், அத்தகைய திட்டங்களை எவ்வாறு தவிர்க்கலாம் என்பதைக் குறித்து தேசிய விழிப்புணர்வு நிகழ்ச்சி ஒன்று புதன்கிழமை (16) யாழ்ப்பாணம் மாவட்ட செயலக மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+
+மாவட்ட செயலர்  மருதலிங்கம் பிரதீபன் தலைமையில் நடைபெற்ற இந்நிகழ்வின் போது, தலைமையுரை ஆற்றிய அவர், ஜனாதிபதி செயலகம் மற்றும் பொது நிர்வாக உள்நாட்டு அலுவல்கள் அமைச்சின் அறிவுறுத்தலுக்கமைய, ஜூலை 14 முதல் 18 வரை தேசிய விழிப்புணர்வு வாரமாக பிரகடனப்படுத்தப்பட்டுள்ளதாக தெரிவித்தார்.
+
+அதற்கமைய, மாவட்ட மற்றும் பிரதேச செயலக உத்தியோகத்தர்களை ஒருங்கிணைத்து, பிரமிட் திட்டங்களில் ஈடுபடுவதால் ஏற்படும் பாதகமான விளைவுகள் மற்றும் அவற்றைத் தவிர்க்கும் வழிமுறைகள் குறித்த விழிப்புணர்வு நடவடிக்கைகள் மேற்கொள்ளப்படுவதாகவும் அவர் கூறினார்.
+
+...
+
+[Data](articles/6cb5c283.json)
+
+---
+
+### காசாவில் இஸ்ரேலின் நடவடிக்கைகளிற்கு பொறுப்புக்கூறலை உறுதி செய்வோம்-இஸ்ரேலிற்கு ஆயுதங்கள் வெடிமருந்துகளை வழங்குவதை தடுக்க முயல்வோம் - கொலம்பிய உச்சிமாநாட்டில் கலந்துகொண்ட நாடுகள் இணக்கம்
+
+*2025-07-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/220201) · `ta`
+
+காசாவில் இஸ்ரேலின் நடவடிக்கைகளிற்கு பொறுப்புக்கூறலை உறுதி செய்யப்போவதாக கொலம்பியாவில் இடம்பெற்ற மாநாட்டில் கலந்துகொண்ட நாடுகள் தெரிவித்துள்ளன.
+
+ஆக்கிரமிக்கப்பட்ட பாலஸ்தீன பகுதிகளில் இஸ்ரேலின் தாக்குதலை கட்டுப்படுத்துவதற்கான ஆறு நடவடிக்கைகள் குறித்த இணக்கப்பாட்டுடன் கொலம்பிய மாநாடு முடிவடைந்துள்ளது.
+
+கொலம்பிய மாநாட்டில் கலந்துகொண்ட நாடுகள் ஹேக் குழு என  அழைக்கப்படுகின்றன. இந்த குழுவில் பொலிவியா கொலம்பியா இந்தோனேசியா கியுபா ஈராக் மலேசியா உட்பட பல நாடுகள் இடம்பெற்றுள்ளன.
+
+ஆயுதங்கள் வெடிமருந்துகள் இராணுவ எரிபொருள் தொடர்புடைய இராணுவ உபகரணங்கள் மற்றும் இரட்டை பயன்பாட்டு பொருட்களை இஸ்ரேலுக்கு வழங்குவதையோ அல்லது மாற்றுவதையோ தடுப்பது;
+
+இஸ்ரேலுக்கு மேற்கூறிய பொருட்களை எடுத்துச் செல்ல கப்பல் பயன்படுத்தப்படும் அபாயம் உள்ள எந்தவொரு துறைமுகத்திலும் கப்பல்களின் போக்குவரத்துஇ நறுக்குதல் மற்றும் சேவையைத் தடுப்பது;
+
+...
+
+[Data](articles/bb51cbd0.json)
+
+---
 
 ### “ஜிகாத் படுகொலை விசாரணைக்கு உட்படுத்த வேண்டும்”
 
@@ -194,6 +318,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Indictments served on ex-Minister Keheliya and family
+
+*2025-07-17 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110566/indictments-served-on-ex-minister-keheliya-and-family-) · `en`
+
+Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa, their three daughters, and son-in-law have been indicted on charges of unlawfully acquiring assets, Ada Derana reporter said.
+
+The indictments were served before Colombo High Court Judge Lanka Jayaratne by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) under 43 charges.
+
+The defendants were subsequently each ordered to be released on a cash bail of Rs. 50,000 and two surety bails of Rs. 1 million each.
+
+The High Court Judge also imposed a travel ban on the defendants and ordered them to hand over their passports to the court.
+
+Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa and four other family members were arrested previously by CIABOC in connection with an investigation conducted under the Prevention of Money Laundering Act alleging that the defendants illegally acquired assets worth over Rs. 97 million.
+
+◼️
+
+[Data](articles/19d80ce9.json)
+
+---
+
 ### மருந்துகளை வாங்குவதற்கு புதிய விதிமுறைகள்
 
 *2025-07-17 10:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்துகளை-வாங்குவதற்கு-புதிய-விதிமுறைகள்/175-361239) · `ta`
@@ -278,6 +422,24 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 
 ---
 
+### பிரிட்டனின் இரகசிய ஆவணத்தில் உள்ள விபரங்கள் கசிந்த பின்னர் தலிபானால் கொல்லப்பட்டவர்களின் முகங்கள் - டெலிகிராவ்
+
+*2025-07-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220191) · `ta`
+
+பிரிட்டனின் பாதுகாப்பு அமைச்சின் இரகசிய ஆவணம் கசிந்ததை தொடர்ந்து தலிபானால் கொல்லப்பட்ட 200க்கும் மேற்பட்ட ஆப்கானின் முன்னாள் படைவீரர்கள் மற்றும் பொலிஸாரின் பெயர்கள் வெளியாகியுள்ளன என டெலிகிராவ் செய்தி வெளியிட்டுள்ளது
+
+பிரிட்டிஷ் மற்றும் அமெரிக்கப் படைகளுடன் பணிபுரிந்த ஆப்கானியர்களின் அவல நிலையை எடுத்துக்காட்டும் சுயாதீன வழக்குரைஞர்களால் கொல்லப்பட்ட 200க்கும் மேற்பட்ட ஆப்கானின் முன்னாள் படைவீரர்கள் மற்றும் பொலிஸாரின்  பெயர்கள் தொகுக்கப்பட்டன.
+
+ஆனால் ஒரு மூத்த நீதிபதி விதித்த நீதிமன்ற உத்தரவு இறந்தவர்கள் முதலில் பாதுகாப்பு அமைச்சக பட்டியலில் இடம்பெற்றார்களா என்பதை தி டெலிகிராஃப் செய்தியாக வெளியிடுவதைத் தடுக்கிறது .அந்த பட்டியல் பிப்ரவரி 2022 இல் தற்செயலாக வெளியிடப்பட்டது.
+
+பிரிட்டனின் பாதுகாப்பு அமைச்சின் இரகசிய ஆவணம்  2022 இல் தங்கள் வசம் வந்ததாகவும் அன்றிலிருந்து அதில் அடையாளம் காணப்பட்டவர்களை வேட்டையாடி வருவதாகவும் தலிபான் கூறுகிறது.
+
+...
+
+[Data](articles/864eaf0d.json)
+
+---
+
 ### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
 
 *2025-07-17 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-361236) · `ta`
@@ -315,6 +477,26 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 ◼️
 
 [Data](articles/c9fec490.json)
+
+---
+
+### காகில்ஸ் ஃபுட் சிட்டி 'உலக சுற்றுச் சூழல் தினத்தை' BYOB எனும் பிரசாரத்துடன் முன்னெடுக்கின்றது
+
+*2025-07-17 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220190) · `ta`
+
+2025 ஆம் ஆண்டு உலக சுற்றுச் சூழல் தினத்தை இட்டு ‘Bring Your Own Bag’ (BYOB)என்ற விசேட முன்னெப்பு மூலமாக காகில்ஸ் ஃபுட் சிட்டி நிலைதன்மை தொடர்பான அதன் தொடர்ச்சியான அர்ப்பணிப்பை மீண்டுமொரு முறை உறுதிப்படுத்தியது.
+
+Zero Plastic இயக்கம் மற்றும் லுமாலா நிறுவனத்துடன் இணைந்து மேற்கொள்ளப்பட்ட இந்த பிரச்சாரம் கொள்வனவாளர்கள் தமக்குச் சொந்தமான பைகளைக் கொண்டு வருவதன் மூலம் அல்லது மீண்டும் பயன்படுத்தக்கூடிய Cargills Go Green பையைத் தெரிவு செய்வதன் மூலம் மின்சாரத்தினால் இயங்கும் லுமாலா e-bike ஐ வெல்லும் வாய்ப்பை வழங்கியது
+
+1,000 இற்கும் மேற்பட்ட வாடிக்கையாளர்கள் சுற்றுச் சூழலை பாதுகாக்கும் நோக்கோடு இந்த இயக்கத்தில் ஆர்வத்துடன் இணைந்து கொண்டனர்.
+
+அனைத்து பங்கேற்பாளர்களும் இப்பிரச்சாரத்தின் நெறிமுறைகளுக்கு அமைவான ஒரு நிலைபேறான போக்குவரத்துத் தீர்வான லுமாலா e-bike ஐ வெல்லும் அதிர்ஷ;டக் குலுக்கலில் பங்கேற்றனர்.
+
+மாத்தறை ஹித்தாதியமடவைச் சேர்ந்த திருமதி டி. ஏ. தருஷி செமின் லுமாலா e-bike ஐ வெற்றி கொள்ளும் அதிர்ஷடசாலியாக தேர்ந்தெடுக்கப்பட்டார்.
+
+...
+
+[Data](articles/949479e3.json)
 
 ---
 
@@ -429,6 +611,26 @@ Kalutara District MP Jagath Withana from the main opposition Samagi Jana Balaweg
 ...
 
 [Data](articles/54b8901a.json)
+
+---
+
+### Sri Lanka tax body to look into tax MP tax discrimination allegations: Minister
+
+*2025-07-17 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-body-to-look-into-tax-mp-tax-discrimination-allegations-minister-231015/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Inland Revenue Department (IRD) will look into lower Pay As You Earn (PAYE) tax deduction for members of parliament, Media Minister and Cabinet Spokesman Nalinda Jayatissa said.
+
+His response for a query at this week’s Cabinet media briefing comes nearly a week after an opposition legislator shared his May allowance details received for his service as an MP.
+
+Though the MP had received a gross salary of more than 322,000 rupees as the gross salary, the PAYE deduction was only 3,728.92 rupees.
+
+However, tax experts say an ordinary person receiving the same amount of the MP salary will have to pay more than 24,300 rupees, as per the latest tax rates.
+
+Kalutara District MP Jagath Withana from the main opposition Samagi Jana Balawegaya (SJB) shared payslips on Facebook showing his salary, allowances and tax deductions from January to May 2025.
+
+...
+
+[Data](articles/ad3d2856.json)
 
 ---
 
@@ -1557,191 +1759,5 @@ The Secretary to the Prime Minister further emphasized on the need for immediate
 ...
 
 [Data](articles/df9d7774.json)
-
----
-
-### චීනයෙන් පාසල් සිසුන්ට දෙන නිල ඇඳුම් නිල වශ‍යෙන් භාර දෙයි
-
-*2025-07-16 21:32:01* · [`adalk`](https://www.ada.lk/breaking_news/චීනයෙන්-පාසල්-සිසුන්ට-දෙන-නිල-ඇඳුම්-නිල-වශ‍යෙන්-භාර-දෙයි/11-417341) · `si`
-
-025 වර්ෂය සඳහා රුපියල් මිලියන 5,171 වටිනා පාසල් නිල ඇඳුම් රෙදි සඳහා අවශ්‍ය මුළු රෙදි ප්‍රමාණයම චීන රජයේ ප්‍රදානයක් ලෙස ලබා දී අවසන් බව නිල වශයෙන් දැනුම් දීමේ අවස්ථාව අද ( 16  ) බත්තරමුල්ල අධ්‍යාපන අමාත්‍යංශයේදී අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ සහභාගිත්වයෙන් පැවැත්විණි.
-
-එහිදී 2025 වර්ෂයේ සඳහා අවශ්‍ය මුළු නිල ඇඳුම් අවශ්‍යතාවය ප්‍රදානය කර අවසන් බව දැනුම් දීමට අදාල සහතික පත්‍ර හුවමාරුව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හා ශ්‍රී ලංකාවේ චීන තානාපති Qi Zhenhong මහතා අතර සිදු විය.
-
-මේ වන විට 2026 වර්ෂය සඳහා ද පාසල් නිල ඇඳුම් රෙදි ප්‍රදානයක් ලෙස ලබාදීමට කටයුතු කරන ලෙස ඉල්ලීමක් විදේශ සම්පත් දෙපාර්තමේන්තුව හරහා මහජන චීන සමූහාණ්ඩුවේ ලංකාවේ චීන තානාපති කාර්යාලය වෙත යොමු කර ඇත.
-
-...
-
-[Data](articles/f031c0a9.json)
-
----
-
-### President holds 2026 pre-budget discussions with FinMin officials
-
-*2025-07-16 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110554/president-holds-2026-pre-budget-discussions-with-finmin-officials) · `en`
-
-A discussion on the preliminary budget framework and development direction related to the submission of proposals for the 2026 Budget was held this afternoon (16) at the Presidential Secretariat between President Anura Kumara Dissanayake and officials of the Ministry of Finance.
-
-Accordingly, the President inquired from the Ministry of Finance officials about the current progress in preparing the upcoming budget. The officials informed the President that the circular inviting budget proposals has already been issued and that institutions have been given until the July 31st to submit their budget estimates within the allocated expenditure limits, the President’s Media Division (PMD) said.
-
-During the discussion, President Anura Kumara Dissanayake emphasized the importance of prioritizing key sectors that can elevate the country beyond its current situation when planning the upcoming budget.
-
-...
-
-[Data](articles/5d32857c.json)
-
----
-
-### ශ්‍රී ලංකාවෙන් බංග්ලාදේශයට ලකුණු 133ක ඉලක්කයක්
-
-*2025-07-16 20:45:09* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාවෙන්-බංග්ලාදේශයට-ලකුණු-133ක-ඉලක්කයක්/9-417340) · `si`
-
-සංචාරක බංග්ලාදේශ කණ්ඩායමට එරෙහි තෙවන විස්සයි 20 තරගයේදී පළමුවෙන් ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 132ක් රැස් කිරීමට සමත් විය.
-
-මෙහිදී පැතුම් නිස්සංක ලකුණු 46ක් සහ දසුන් ශානක නොදැවී ලකුනු 35ක් රැස් කළේය.
-
-පන්දු යැවීමේදී මෙහෙදි හසන් ලකුණු 11ට කඩුලු 4ක් බිඳ හෙලීමට සමත් විය.
-
-◼️
-
-[Data](articles/61bd874a.json)
-
----
-
-### Transforming Sri Lanka’s Broadcasting Sector Towards A Public Service Orientation
-
-*2025-07-16 20:19:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/transforming-sri-lankas-broadcasting-sector-towards-a-public-service-orientation/) · `en`
-
-Sri Lanka’s broadcasting sector is critically hampered by the absence of an independent, public service-oriented regulatory mechanism. Broadcasting frequencies, inherently public property, are currently managed in a manner that often prioritizes narrow interests over the fundamental rights to free speech and information. This brief argues for urgent legislative reform to establish a robust, independent regulatory framework rooted in the public interest. It outlines key legislative requirements, emphasizing the need for a consumer-centric approach, professional journalistic standards, and stringent content regulations, particularly concerning impartiality in news and election broadcasting. Drawing on international best practices and contrasting models of media regulation, this brief provides a blueprint for transforming Sri Lanka’s electronic media into a vital pillar of its democracy, capable of fostering an informed, enlightened, and diverse public discourse.
-
-...
-
-[Data](articles/d418a4a2.json)
-
----
-
-### හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
-
-*2025-07-16 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212326) · `si`
-
-කබුළුමුල්ල රජමහා පත්තිණි දේවාලයේ වාර්ෂික ඇසළ පෙරහැර හේතුවෙන් හැටන් - කොළඹ ප්‍රධාන මාර්ගය රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය දැනුම්දෙයි.
-
-පෙරහැර අනිද්දා (18) රාත්‍රී 08.00 සිට පසු දින අලුයම 01.00 දක්වා වීථි සංචාරය කිරීමට නියමිතය.
-
-පෙරහැර දේවාලයෙන් අරම්භ කර හැටන් කොළඹ ප්‍රධාන මාර්ගයේ කරවනැල්ල නගරය දක්වා ගමන් කර, කෑගල්ල අවිස්සාවෙල්ල මාර්ගයේ කෑගල්ල දෙසට මීටර් 300ක් පමණ ගමන් කිරීමෙන් පසු වැන්දල විහාරස්ථානය අසලින් හරවා එම මාර්ගයේම නැවත කබුළුමුල්ල දේවාලයට ප්‍රවේශ වීමට නියමිතව ඇති බව පොලීසිය පවසයි.
-
-පෙරහැර හැටන් කොළඹ ප්‍රධාන මාර්ගයේ ගමන් කිරීමේදී රථ වාහන ගමනා ගමනයට සිදු වන අවහිරතාවය හේතුවෙන් එම කාලය තුල එම මාර්ගය භාවිතා කිරීමට අපේක්ෂිත රියදුරන් හට ඇති වන අපහසුතාවය අවම කිරීම සඳහා පහත විකල්ප මාර්ග භාවිතා කරන ලෙස පොලිසිය එම රියදුරන්ගෙන් ඉල්ලා සිටියි.
-
-...
-
-[Data](articles/3cca9f86.json)
-
----
-
-### CID chief Shani Abeysekara named a witness in Eknaligoda case
-
-*2025-07-16 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110553/cid-chief-shani-abeysekara-named-a-witness-in-eknaligoda-case) · `en`
-
-The Attorney General’s Department today (16)  informed the Colombo High Court that the incumbent Director of the Criminal Investigation Department (CID), Shani Abeysekara, has been named as a witness in the case concerning the alleged abduction and forced disappearance of journalist Prageeth Eknaligoda.
-
-The case was taken up before a three-member High Court bench comprising Justices Dr. Namal Balalle, Mahesh Weeraman, and Sujeewa Nissanka.
-
-President’s Counsel Upul Kumarapperuma, appearing on behalf of the aggrieved party, had informed the court that Shani Abeysekara, who acted as the Chief Investigating Officer and supervised the entire investigation, has not been named as a witness in the case.
-
-He pointed out that a request had already been made to the court on November 29, 2022, to include Shani Abeysekara as a witness, and that then Deputy Solicitor General Dileepa Peiris, appearing for the prosecution, had stated it would be considered.
-
-...
-
-[Data](articles/6706f189.json)
-
----
-
-### තවත් වසර 15කින් දළඳා පෙරහරේ අලි ඇතුන් ගණන 8ට සීමා වෙනවා
-
-*2025-07-16 19:18:30* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-15කින්-දළඳා-පෙරහරේ-අලි-ඇතුන්-ගණන-8ට-සීමා-වෙනවා/11-417339) · `si`
-
-මෙරට සාම්ප්‍රදායික පෙරහැර මංගල්‍යයන් පැවැත්වීම සඳහා අවශ්‍ය කරන හීලෑ අලි ඇතුන් හිගය සම්බන්ධයෙන් බලධාරීන්ට කොතෙක් සංදේශ ඉදිරිපත් කළත් පලක් වී නොමැති බවත් තවත් වසර 10-15ක් පමණ කාලයක් යන විට මහනුවර ඇසළ පෙරහර සඳහා අලි ඇතුන් අටකට පමණ සීමා වනු ඇති බව ශ්‍රී දළදා මාළිගාවේ දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා පැවසීය.
-
-ශ්‍රී දළදා මාළිගාවේ ඇසළ පෙරහර මංගල්‍යය සම්බන්ධයෙන් මල්වතු අස්ගිරි නායක හිමිවරුන්ගේ සහ සිව් මහා දේවාලයන්හි බස්නායක නිලමේවරුන් මහනුවර දිස්ත්‍රික් ලේකම් ප්‍රමුඛ රාජ්‍ය නිලධාරීන් ආරක්ෂක නිලධාරීන්ගේ සහභාගිත්වයෙන් පැවති පෙරහර සාකච්ඡාවේදී නිලමේවරයා ඒ බව අවධාරණය කළේය.
-
-එහිදී දියවඩන නිලමේවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ මෙම අලි ඇතුන්ගේ ගැටලුවට කෙටිකාලීන සහ දීර්ඝකාලීන විසඳුමක් අවශ්‍ය කරන බවයි.
-
-බලධාරීන් විසින් අලි ඇතුන්ගේ ප්‍රශ්නයට විසඳුමක් ලබාදීමට සැරසෙන විට විවිධ සංවිධාන සහ සමාජ මාධ්‍ය මගින් පතුරුවා හරිනුු ලබන අසත්‍ය ප්‍රකාශ හේතුවෙන් එම කටයුතු ඇණ හිටින බවද අවධාරණය කළේය.
-
-...
-
-[Data](articles/81050575.json)
-
----
-
-### Sri Lanka coconut product exporters raise alarm over 30-pct Trump tariff
-
-*2025-07-16 19:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-product-exporters-raise-alarm-over-30-pct-trump-tariff-231061/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s coconut exporters have warned that a 30 percent Trump tariff will hit 20 percent of annual exports as competitors have got access at much lower rates to the United States.
-
-Out of 857 million dollars of annual exports 160 million went to the US.
-
-“Competing suppliers such as the Philippines, Vietnam, and India enjoy preferential trade access, meaning Sri Lankan products, despite their globally renowned quality, will be sidelined on cost alone,” the Ceylon Chamber of Coconut Industry (CCCI) said in a statement.
-
-Overnight President Donald Trump said Indonesia’s exports will only be charged 19 percent. Indonesia is also a top coconut producer. Trump said both Indonesia and Vietnam have allowed free entry to US goods.
-
-“Our products are recognised globally for their purity, taste, and nutritional value,” Jayantha Samarakoon, Chairman of the CCCI.
-
-...
-
-[Data](articles/29cfba58.json)
-
----
-
-### එක්නැළිගොඩ නඩුවේ ශානි අබේසේකර පැමිණිල්ලේ සාක්ෂිකරුවෙක් කරයි
-
-*2025-07-16 19:10:25* · [`adalk`](https://www.ada.lk/breaking_news/එක්නැළිගොඩ-නඩුවේ-ශානි-අබේසේකර-පැමිණිල්ලේ-සාක්ෂිකරුවෙක්-කරයි/11-417338) · `si`
-
-මාධ්‍යවේදී ප්‍රගීත් එක්නැළිගොඩ සිරකර තැබීම සඳහා පැහැරගෙන යෑමට කුමන්ත්‍රණය කළ බවට යුද හමුදා ලුතිනන් කර්නල්වරුන් දෙදෙනෙකු ඇතුළු හමුදා බුද්ධි නිලධාරීන් 07 දෙනකුට එරෙහිව පවරා ඇති නඩුවේ පැමිණිල්ලේ සාක්කිකරුවකු වශයෙන් අපරාධ පරීක්‍ෂණ දෙපාර්තමෙන්තුවේ අධ්‍යක්‍ෂක ශානී අබේසේකර මහතා නම් කළ බව නීතීපතිවරයා ස්ථිර ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) දැනුම් දුන්නේය.
-
-නඩුව කැඳවු අවස්ථාවේදී පැමිණිල්ල වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් වසන්ත පෙරේරා මහතා මේ බව දැනුම් දුන්නේය.
-
-මහාධිකරණ විනිසුරුවරුන් වන ආචාර්්‍ය නාමල් බලල්ලේ (සභාපති), මහේෂ් වීරමන් සහ සුජී්ව නිශ්ශංක යන මහත්වරුන්ගෙන් සමන්විත ස්ථිර ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල (ඔරස්ක ්එ ඊ්ර) හමුවේ මෙම නඩුව කැඳවනු ලැබිණ’.
-
-...
-
-[Data](articles/4f2d363a.json)
-
----
-
-### ත්‍රිරෝද රථ රියදුරන්ට පොලීසියෙන් පණිවිඩයක්
-
-*2025-07-16 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212325) · `si`
-
-රියදුරාට පහර දී ත්‍රිරෝද රථය කොල්ල කෑමේ සිද්ධියක් පිළිබඳව මොරගහතැන්න පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
-
-රියදුරා සන්තකයේ තිබූ රුපියල් 11,000ක මුදලක්, ජංගම දුරකථන දෙකක් සහ ත්‍රිරෝද රථයේ ලියකියවිලි ද අදාළ පිරිස විසින් රැගෙන ගොස් ඇත.
-
-දරුවෙකු වඩාගත් කාන්තාවක් සහ පිරිමි පුද්ගලයින් දෙදෙනෙක් රාත්‍රී 9.00ට පමණ කොට්ටාව නගරයෙන් මෙම ත්‍රිරෝද රථයට ගොඩ වී තලගල ප්‍රදේශයට යාමට අවශ්‍ය බව පවසා තිබේ.
-
-රියදුරු පොලීසියට පවසා ඇත්තේ එහි සිටි එක් පුද්ගලයෙක් පසුපස සිට තම දෑස් ඔහුගේ දෑතින් වසා මිරිස් කුඩු වැනි යමක් ආලේප කළ බවය.
-
-මෙවැනි කොල්ලකෑම් වරින්වර සිදුවන බවත් කුලී ත්‍රීරෝද රථ ධාවනයේ යෙදෙන රියදුරුන් රාත්‍රී කාලයේදී විශේෂයෙන් සැලකිලිමත් විය යුතු බවත් පොලීසිය පැවසුවේය.
-
-◼️
-
-[Data](articles/e96c13c4.json)
-
----
-
-### விளையாட்டுத்துறை அமைச்சின் முன்னேற்ற மீளாய்வு
-
-*2025-07-16 18:56:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளையாட்டுத்துறை-அமைச்சின்-முன்னேற்ற-மீளாய்வு/175-361207) · `ta`
-
-சிதறியுள்ள மற்றும் தனிமைப்படுத்தப்பட்டுள்ள விளையாட்டு உபகரணங்களை வழங்குதல் போன்ற நிகழ்ச்சிகளுக்குப் பதிலாக, விளையாட்டுத்துறையின் வளர்ச்சிக்கு பங்களிக்கும் விளையாட்டு சங்கங்களுடன் இணைந்து கூட்டு திட்டங்கள் ஊடாக தேசிய மட்டத்தில் இருந்து சர்வதேச மட்டத்திற்கு விளையாட்டை மேம்படுத்துவதற்கு செயற்படுமாறு ஜனாதிபதி அநுரகுமார திசாநாயக்க விளையாட்டுத்துறை அமைச்சுக்கு பணிப்புரை விடுத்தார்.
-
-இன்று (16) முற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற இளைஞர் விவகாரங்கள் மற்றும் விளையாட்டுத்துறை அமைச்சின் முன்னேற்ற மீளாய்வுக் கூட்டத்திலேயே ஜனாதிபதி இந்த அறிவுறுத்தல்களை வழங்கினார்.
-
-இங்கு, விளையாட்டுத்துறை அமைச்சு, தேசிய இளைஞர் சேவைகள் மன்றம் மற்றும் தேசிய இளைஞர் படையணி ஆகியவற்றின் நிறுவன ரீதியிலான முன்னேற்றம் மீளாய்வு செய்யப்பட்டதுடன், அந்த நிறுவனங்களால் தற்போது செயல்படுத்தப்பட்டு வரும் திட்டங்கள் மற்றும் நாட்டின் இளைஞர்களின் முன்னேற்றத்திற்காக மேற்கொள்ளப்படும் வேலைத் திட்டங்கள் குறித்தும் ஜனாதிபதி கவனம் செலுத்தினார்.
-
-...
-
-[Data](articles/4607ea74.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 21:48:54**
+As of **2025-07-17 22:06:42**
 
 ## Newspaper Stats
 
-*Scraped **65,276** Articles*
+*Scraped **65,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,269
 adaderanalk | 7,965
 tamilmirrorlk | 9,353
 virakesarilk | 10,864
-adaderanasinhalalk | 11,214
+adaderanasinhalalk | 11,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,276 articles have been extended.
+61,973 (94.9%) of 65,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### සැකසහිත වෑන් රථයක් සොයා පොලිස් විමර්ශන
+
+*2025-07-17 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212365) · `si`
+
+කහතුඩුව ප්‍රදේශයේදී සුදු පැහැති වෑන් රථයකින් 15 හැවිරිදි තුන් කුළුඳුල් පිරිමි දරුවෙකු පැහැරගෙන යමින් සිටියදී රත්නපුර ප්‍රදේශයේදී ඔහු එම වෑන් රථයෙන් පැන තිබේ.
+
+ඒ අනුව, වෑන් රථයකින් පැහැරගත් කුඩා දරුවෙකු රත්නපුර කැටන්දොල නිව් පැලැන්වාඩිය ප්‍රදේශයේ ආපනශාලාවක් අසල සිටින බවට 119 පොලිස් හදිසි ඇමතුම් ඒකකයට පුද්ගලයකු ලබාදුන් දුරකථන ඇමතුමක් අනුව රත්නපුර පොලීසියේ රාත්‍රී ජංගම සංචාරයේ නිරත පොලිස් නිලධාරීන් විසින් එම දරුවා පොලීසිය භාරයට ගෙන ඇත.
+
+දරුවා පැහැර ගැනීමට පැමිණි කණ්ඩායම සොයා ගැනීම සඳහා CCTV ඔස්සේ කහතුඩුව පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/ea9c3f60.json)
+
+---
 
 ### Pope expresses sadness after Israeli strike on Gaza church kills three
 
@@ -1795,19 +1811,5 @@ At least 50 people have been killed and dozens remain missing after a fire broke
 ...
 
 [Data](articles/39cc8026.json)
-
----
-
-### திருத்தப்பட்ட மின்சார சட்டம் இன்று மறுஆய்வு
-
-*2025-07-17 11:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தப்பட்ட-மின்சார-சட்டம்-இன்று-மறுஆய்வு/175-361242) · `ta`
-
-திருத்தப்பட்ட இலங்கை மின்சார மசோதாவை மறு ஆய்வு செய்வதற்காக உள்கட்டமைப்பு மற்றும் மூலோபாய மேம்பாடு தொடர்பான துறைசார் பாராளுமன்ற மேற்பார்வைக் குழு இன்று வியாழக்கிழமை (17) மீண்டும் கூடுவதாக கூறப்படுகின்றது.
-
-பொதுப் பயன்பாடுகள் ஆணையம் மற்றும் சட்டமா அதிபர் துறையின் உள்ளீடுகளுடன் திருத்தப்பட்ட வரைவு, மூன்று மொழிகளிலும் மொழிபெயர்க்கப்பட்ட பின்னர் ஒப்புதலுக்காக பரிசீலிக்கப்படும் எனவும் தெரிவிக்கப்படுகின்றது.
-
-◼️
-
-[Data](articles/4cbb7c5b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 12:50:05**
+As of **2025-07-17 12:26:42**
 
 ## Newspaper Stats
 
-*Scraped **65,190** Articles*
+*Scraped **65,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,65 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 582
 colombotelegraphcom | 663
 bbccomsinhala | 677
-islandlk | 3,982
+islandlk | 3,981
 economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,255
+adalk | 6,253
 adaderanalk | 7,947
 tamilmirrorlk | 9,335
 virakesarilk | 10,846
-adaderanasinhalalk | 11,200
+adaderanasinhalalk | 11,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,190 articles have been extended.
+61,973 (95.1%) of 65,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
-
-### සම්බාහන මධ්‍යස්ථානයකට ගොස් යකා නැටූ SIලාගේ වැඩ තහනම්
-
-*2025-07-17 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212346) · `si`
-
-මාතර කොට්ඨාශයේ පොලිස් ස්ථානවලට අනුයුක්තව සේවය කළ නිලධාරීන් තිදෙනෙකුගේ වැඩ තහනමට ලක් කර තිබේ.
-
-මාතර කොට්ඨාශයේ වැඩ බලන පොලිස් අධිකාරිවරයා විසින් මෙම නියෝගය නිකුත් කර ඇත.
-
-මෙම නිලධාරීන් තිදෙනා මාතර වල්ගම ප්‍රදේශයේ පිහිටි සම්බාහන මධ්‍යස්ථානයක් වෙත ගොස් එහි කළමණාකාරවරිය සමග උණුසුම් වචන හුවමාරුවක් ඇති කරගෙන ඇති අතර පසුව එහි සේවය නොමිලේ ලබා ගැනීමට උත්සහ දරා තිබේ.
-
-මේ සම්බන්ධයෙන් ලද පැමිණිල්ලක් මත සිදු කළ පරීක්ෂණයකදී අදාළ නිලධාරීන් තිදෙනා එම චෝදනාවට වැරදිකරුවන් බවට පත්ව ඇත.
-
-ඒ අනුව පොලීසියේ විනය පවත්වා ගැනිමට හානිවන අයුරින් හැසිරීම, පොලිස් නිලධාරියෙකු ලෙස තම නිලය පෞද්ගලික ප්‍රයෝජනය සඳහා යොදා ගැනීම යන වැරදි මත අපකීර්තිදායක හැසිරීම හා දුෂිත ක්‍රියා යන චෝදනා හේතුවෙන් අදාළ නිලධාරීන්ට මෙම නියෝග නිකුත් කෙරිණි.
-
-මෙම නිලධාරීන් කඹුරුපිටිය, තිහගොඩ සහ මාවරල යන පොලිස් ස්ථානවලට අනුයුක්තව සේවය කරන නිලධාරීන් බව සඳහන් වේ.
-
-මේ සම්බන්ධයෙන් මාතර පොලිස් අධිකාරි කාර්යාලය වැඩිදුර පරික්ෂණ කටයුතු සිදු කරයි.
-
-◼️
-
-[Data](articles/1569cb90.json)
-
----
-
-### ඉරාකයේ වෙළඳසැලක හට ගත් ගින්නකින් පුද්ගලයන් 50 ක් මරුට
-
-*2025-07-17 12:00:37* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාකයේ-වෙළඳසැලක-හට-ගත්-ගින්නකින්-පුද්ගලයන්-50-ක්-මරුට/11-417353) · `si`
-
-ඉරාකයේ වෙළඳසැලක හට ගත් ගින්නකින් පුද්ගලයන් 50 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ගින්න මේ වන විට නිවා දැමීමට කටයුතු කර ඇති අතර, මේ සම්බන්ධයෙන් විමර්ශනයක් සිදු කර පැය 48ක් ඇතුලත විමර්ශන වාර්තාව ලබා දෙන ලෙස එරට රජය අදාළ පාර්ශ වලට උපදෙස් ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-මෙම තත්ත්වයත් සමග ඉරාකයේ දින 03ක ශෝක කාලයක් ප්‍රකාශයට පත් කර තිබේ.
-
-◼️
-
-[Data](articles/f06063a8.json)
-
----
 
 ### பாராளுமன்றத்தை படம்பிடித் ட்ரோன்
 
@@ -595,24 +555,6 @@ The general public is requested to be attentive to future forecasts issued by th
 ◼️
 
 [Data](articles/895835bb.json)
-
----
-
-### ක්‍රීඩාව ජාත්‍යන්තර තලයට ඔසවන්න - ජනපති
-
-*2025-07-17 10:15:06* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රීඩාව-ජාත්‍යන්තර-තලයට-ඔසවන්න---ජනපති/11-417349) · `si`
-
-විසිරුණු සහ හුදකලා වූ ක්‍රීඩා උපකරණ බෙදීම් වැනි වැඩසටහන් වෙනුවට, ක්‍රීඩාව දියුණු කිරීමට දායක වන ක්‍රීඩා සංගම් සමඟ ඒකාබද්ධව, ජාතික මට්ටමින් ජාත්‍යන්තර මට්ටමට ක්‍රීඩාව ඔසවා තැබීමට කටයුතු කරන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ක්‍රීඩා අමාත්‍යාංශයට උපදෙස් ලබා දුන්නේය.
-
-ජනාධිපතිවරයා මෙම උපදෙස් ලබා දුන්නේ ජනාධිපති කාර්යාලයේදී ඊයේ (16) පෙරවරුවේ පැවති තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යාංශයේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
-
-මෙහිදී, ක්‍රීඩා අමාත්‍යාංශය, ජාතික තරුණ සේවා සභාව සහ ජාතික යොවුන් සේනාංකයේ ආයතනික වශයෙන් ප්‍රගතිය සමාලෝචනය කෙරුණු අතර, එම ආයතන මේ වන විට ක්‍රියාත්මක කරමින් තිබෙන ව්‍යාපෘති සහ රටේ තරුණ-තරුණියන්ගේ අභිවෘද්ධිය වෙනුවෙන් ගෙන තිබෙන වැඩපිළිවෙළ සම්බන්ධයෙන් ජනාධිපතිවරයාගේ අවධානය යොමු විය.
-
-එමෙන්ම, ක්‍රීඩා සංවර්ධනය වෙනුවෙන් ක්‍රියාත්මක වැඩපිළිවෙළ පිළිබඳව මෙහිදී ඉතා සමීපව කරුණු විමසා බැලූ ජනාධිපතිවරයා, ක්‍රීඩා සංවර්ධනය තුළින් සමාජීය ප්‍රතිලාභ මෙන්ම ලෝකයේ දියුණු රටවල මෙන් ආර්ථික ප්‍රතිලාභද අත් කර ගත හැකි බව පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/1c4fe748.json)
 
 ---
 
@@ -1692,36 +1634,6 @@ President Anura Kumara Disanayake has decided not to seek an IMF bailout again, 
 
 ---
 
-### Benefits of yoghurt face masks …
-
-*2025-07-16 23:33:00* · [`islandlk`](http://island.lk/benefits-of-yoghurt-face-masks/) · `en`
-
-With this awful heat we are now experiencing, an ice cooled yoghurt is certainly welcome. And, guess what? Using yoghurt regularly (not as a drink) may slow down the signs of ageing.
-
-Yoghurt also exfoliates the skin, brightens the skin, helps to reduce acne and combats skin infection.
-
-Okay, now that you know the benefits of using yoghurt, go ahead with these yoghurt beauty tips:
-
-You will need ½ a cup of plain yoghurt, ½ an avocado, and 02 tablespoons of aloe vera.
-
-Mix them all in a bowl and apply the mixture evenly on your face and neck.
-
-You will need 01 tablespoon of plain yoghurt, 01 tablespoon of blended oatmeal and ½ a tablespoon of honey.
-
-Mix all the mentioned items in a bowl and apply the mixture all over your face and neck.
-
-You will need ½ a cup of plain yoghurt, and 02 tablespoons of honey.
-
-Mix the honey and yoghurt in a bowl and apply the mask evenly on your neck and face.
-
-You will need ½ cup of plain yoghurt and 01 tablespoon of turmeric.
-
-...
-
-[Data](articles/a153669a.json)
-
----
-
 ### “Cards on the table”: What new gambling Bill means for Sri Lanka’s casino future
 
 *2025-07-16 23:30:27* · [`dailyftlk`](https://www.ft.lk/columns/Cards-on-the-table-What-new-gambling-Bill-means-for-Sri-Lanka-s-casino-future/4-779056) · `en`
@@ -1775,5 +1687,75 @@ The US is making revisions to its reciprocal tariff regime, which was initially 
 ...
 
 [Data](articles/48125248.json)
+
+---
+
+### 1990 பேர் புதிதாக சுகாதார சேவைக்கு ஆட்சேர்ப்பு - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+
+*2025-07-16 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/220173) · `ta`
+
+கடந்த காலங்களில் ஆட்சியிலிருந்த அமைச்சர்களின் அர்த்தமற்ற செயலை மாற்றி புதிதாக சுகாதார ஊழியர் சேவைக்காக 1990 நியமனங்கள் வழங்க திட்டமிடப்பட்டுள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ குறிப்பிட்டார்.
+
+வடமாகாண சுகாதார சேவை திணைக்களத்தில் சமீபத்தில் இடம்பெற்ற விசேட கலந்துரையாடலின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+வட மாகாணத்தில் தாதியரற்ற 33 பிரதேச வைத்தியசாலைகள் தொடர்பில் விசேடக் கவனம் செலுத்தப்பட்டுள்ளது. கடந்த காலங்களில் சுமார் 3147 தாதியர்களுக்கு புதிதாக நியமனம் வழங்கப்பட்டது. அந்த வகையில் இன்னும் இரண்டு மாதங்களில் 290 தாதியர்களுக்கான நியமனங்களை வழங்க எதிர்பார்க்கப்பட்டுள்ளதுடன், வடமாகாண வைத்தியசாலைகளில் காணப்படும் தாதியர் பற்றாக்குறையை கவனத்தில் கொண்டு அவர்களில் குறிப்பிடத்தக்க தாதியர்களை அப்பகுதிகளுக்கு நியமிக்க நடவடிக்கை எடுக்கப்படும்.
+
+...
+
+[Data](articles/a4a397fb.json)
+
+---
+
+### අවසන් T20 තරගය ජයග්‍රහණයත් සමග තරගාවලි ජය බංග්ලාදේශයට
+
+*2025-07-16 22:12:41* · [`adalk`](https://www.ada.lk/sports/අවසන්-T20-තරගය-ජයග්‍රහණයත්-සමග-තරගාවලි-ජය-බංග්ලාදේශයට/9-417342) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමට එරෙහිව පැවති තුන්වන හා අවසන් විස්සයි 20 ක්‍රිකට් තරගයෙක් කඩුලු 08ක ජයක් වාර්තා කිරීමට සංචාරක බංග්ලාදේශ කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+ඒ අනුව තරග තුනකින් සමන්විත විස්සයි 20 තරගාවලිය තරග 2ට එකක් ලෙසද ජයග්‍රහණය කිරීමට බංග්ලාදේශය සමත් විය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 132ක් රැස් කළේය.
+
+ඒ අනුව පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම පන්දුවාර 16යි පන්දු 03ක් අවසානයේ කඩුලු 2ක් පමණක් දැවී ලකුණු 133ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+මෙහිදී අගනා ඉනිමක් ක්‍රීඩා කළ තන්සිඩ් හසන් පන්දු 47දී ​නොදැවී ලකුණු 73ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/a7d5fd35.json)
+
+---
+
+### අධ්‍යාපනය ඩිජිටල්කරණය කිරීමට TikTok සමාගමේ සහාය
+
+*2025-07-16 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212328) · `si`
+
+TikTok සාමාජ මාධ්‍යයේ  නියෝජිත පිරිසක් සහ අග්‍රාමිත්‍ය ලේකම් ප්‍රදීප් සපුතන්ත්‍රි මහතා අතර හමුවක් අද (16) අග්‍රාමාත්‍ය කාර්යාලයේදී සිදුව තිබේ.
+
+විනෝදාස්වාදයෙන් ඔබ්බට ගොස් ආර්ථික අවස්ථා පුළුල් කර ගැනීමට සහ අධ්‍යාපන කටයුතු සඳහා  TikTok සමාජ මාධ්‍ය ඩිජිටල් මෙවලමක් ලෙස භාවිත කළ හැකි ආකාරය පිළිබඳව මෙහිදී අවධානය යොමු කෙරිණ.
+
+ඩිජිටල් අධ්‍යාපනය පිළිබඳ දැනුම ලබා දීම සඳහා විධිවිධාන, පර්යේෂණ සහ විෂයමාලාවට අවශ්‍ය සංශෝධන ඇතුළත් කිරීමේ වැදගත්කම මෙන්ම ඩිජිටල් තාක්ෂණය වගකීමෙන් යුතුව භාවිත කිරීම සහ Tik Tok හරහා ආර්ථික අවස්ථා නිර්මාණය කිරීමේ වැදගත්කම මෙහිදී Tik Tok නියෝජිතයින් පෙන්වා දුන් බව අග්‍රාමාත්‍ය මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+
+අධ්‍යාපන ක්ෂේත්‍රයේ සිදුවෙමින් පවතින ප්‍රතිසංස්කරණ සමඟ මෙවැනි සහයෝගිතාවන් අගය කළ අග්‍රාමාත්‍ය ලේකම් ප්‍රදීප් සපුතන්ත්‍රි මහතා ඩිජිටල්කරණ ක්‍රියාවලිය  කඩිනමින් ක්‍රියාත්මක කිරීමේ අවශ්‍යතාව මෙහිදී වැඩිදුරටත් අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/1583aa0b.json)
+
+---
+
+### TikTok to support digitalization of education in Sri Lanka
+
+*2025-07-16 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/110555/tiktok-to-support-digitalization-of-education-in-sri-lanka) · `en`
+
+A representative team of TikTok social media platform in Sri Lanka visited the Secretary to the Prime Minister today (16) at the Prime Minister’s Office for discussions focusing on common issues in the possible areas of using digital platforms, and how TikTok as a digital platform can be used to implement in creating opportunities in economic platforms and digital education going beyond the entertainment.
+
+The representatives pointed out the importance of the Inclusion of Legislation, Research and amendments into the curriculum on the knowledge of digital education and addressing Digital hygiene, and Economic opportunities, the Prime Minister’s Media Division said in a statement.
+
+The Secretary to the Prime Minister further emphasized on the need for immediate implementation of such collaborative efforts with the ongoing reforms into the education sector.
+
+...
+
+[Data](articles/df9d7774.json)
 
 ---

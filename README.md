@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 10:08:48**
+As of **2025-07-17 10:51:29**
 
 ## Newspaper Stats
 
-*Scraped **65,143** Articles*
+*Scraped **65,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,184 @@ dbsjeyarajcom | 582
 colombotelegraphcom | 663
 bbccomsinhala | 677
 islandlk | 3,981
-economynextcom | 3,985
+economynextcom | 3,989
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,250
-adaderanalk | 7,941
-tamilmirrorlk | 9,318
+adaderanalk | 7,943
+tamilmirrorlk | 9,324
 virakesarilk | 10,842
-adaderanasinhalalk | 11,192
+adaderanasinhalalk | 11,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,143 articles have been extended.
+61,973 (95.1%) of 65,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### நிமிஷாஷாவுக்கு மன்னிப்பு கிடையாது:   மெஹ்தியின் சகோதரர் திட்டவட்டம்
+
+*2025-07-17 10:41:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமிஷாஷாவுக்கு-மன்னிப்பு-கிடையாது-மெஹ்தியின்-சகோதரர்-திட்டவட்டம்/175-361237) · `ta`
+
+தன் சகோதரரை கொலை செய்த கேரள செவிலியர் நிமிஷாவின் குற்றத்துக்கு மன்னிப்பு வழங்க முடியாது என அப்தெல்ஃபத்தா மெஹ்தி திட்டவட்டமாகத் தெரிவித்துள்ளார்.
+
+இதுகுறித்து அவர் மேலும் கூறுகையில், “குற்றவாளி நிமிஷாவை பாதிக்கப்பட்டவராக சித்தரிக்கும் பணியில் இந்திய ஊடகங்கள் ஈடுபட்டு வருகின்றன. இது எங்களது குடும்பத்தினரிடம் ஆழ்ந்த அதிருப்தியை ஏற்படுத்தியுள்ளது.
+
+எனது சகோதரர் தலால் அப்தோ மெஹ்தியை கொலை செய்த குற்றத்துக்காகவே நிமிஷா பிரியாவுக்கு இந்த தண்டனை வழங்கப்பட்டுள்ளது. எனவே அவருக்கு மரண தண்டனையை நிச்சயம் நிறைவேற்ற வேண்டும். இந்த குற்றத்துக்கு அவருக்கு மன்னிப்பு வழங்க முடியாது‘‘ என்றார்.
+
+தலால் அப்தோ மெஹ்தியை   2017-ம் ஆண்டு கொலை செய்த குற்றத்துக்காக கேரள செவிலியர் நிமிஷா பிரியாவுக்கு மரண தண்டனை விதிக்கப்பட்டு நேற்று (16)  அது நிறைவேற்றப்பட இருந்தது. இந்த நிலையில், நீண்டகாலமாக நடைபெற்ற பலமுனை பேச்சுவார்த்தைக்கு பிறகு நிமிஷாவின் மரண தண்டனை அடுத்த உத்தரவு வரும் வரை தற்காலிகமாக நிறுத்தி வைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c10886a9.json)
+
+---
+
+### කෙහෙළිය ඇතුළු පවුලේ සාමාජිකයින්ට අධිචෝදනා භාරදෙයි
+
+*2025-07-17 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212341) · `si`
+
+අයථා ලෙස වත්කම් උපයා ගැනීමේ චෝදනාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තුන් දෙනා සහ බෑණාට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අද (17) අධිචෝදනා භාරදුන්නේය.
+
+◼️
+
+[Data](articles/718ee0c4.json)
+
+---
+
+### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
+
+*2025-07-17 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/175-361236) · `ta`
+
+◼️
+
+[Data](articles/b24fe5aa.json)
+
+---
+
+### பறவை பூங்காவின் உரிமையாளர் கைது
+
+*2025-07-17 10:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பறவை-பூங்காவின்-உரிமையாளர்-கைது/93-361235) · `ta`
+
+இலங்கைக்கு ஆடம்பர மோட்டார் சைக்கிள்களை சட்டவிரோதமாக இறக்குமதி செய்ததாக ஹம்பாந்தோட்டை பறவை பூங்காவின் உரிமையாளர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பல நாட்களாக பொலிஸாரிடமிருந்து தலைமறைவாகியிருந்த  சந்தேக நபர் கொழும்பில் கைது செய்யப்பட்டு இன்று (17) நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார்.
+
+முன்னதாக, பறவை பூங்கா வளாகத்தில் அமைந்துள்ள ஒரு களஞ்சியசாலையில் இருந்து எட்டு சொகுசு பைக்குகள் மற்றும் நான்கு முச்சக்கர வண்டி வகை மோட்டார் சைக்கிள்கள் உட்பட சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 21 மோட்டார் சைக்கிள்களை பொலிஸார் பறிமுதல் செய்தனர்.
+
+இந்த வழக்கு தொடர்பாக பூங்காவின் மேலாளர் மற்றும் களஞ்சிய  மேற்பார்வையாளர் முன்பு கைது செய்யப்பட்டு ஜூலை 25 வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+கைப்பற்றப்பட்ட மோட்டார் சைக்கிள்களின் மதிப்பு ரூ. 200 மில்லியனுக்கும் அதிகமாகும், மேலும் சந்தேக நபர்கள் சட்டவிரோத வாகன இறக்குமதியில் ஈடுபட்ட வரலாற்றைக் கொண்டுள்ளனர் என்பது விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/c9fec490.json)
+
+---
+
+### இசைத் திருவிழா மேடையில் பாரிய தீ பரவல்
+
+*2025-07-17 10:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இசைத்-திருவிழா-மேடையில்-பாரிய-தீ-பரவல்/50-361234) · `ta`
+
+பெல்ஜியத்தின் உலகப் புகழ்பெற்ற டுமாரோலேண்ட் இசைத் திருவிழா வெள்ளிக்கிழமை (18) பூம் நகரில் ஆரம்பிக்கப்படவிருந்த நிலையில், பிரதான மேடையில் பாரிய தீ பரவல் ஏற்பட்டுள்ளது.
+
+"தீ பரவலால்  டுமாரோலேண்ட் இசைத் திருவிழாவின் பிரதான மேடை கடுமையாக சேதமடைந்துள்ளது," என விழா ஏற்பாட்டாளர்கள் புதன்கிழமை (16) மாலை ஒரு அறிக்கை மூலம் தெரிவித்தனர்.
+
+தீ பரவல் ஏற்பட்டபோது விழாவிற்கு வந்தவர்கள் யாரும் அங்கு இருக்க வில்லை, எனவும் சுமார் 1,000 ஊழியர்கள் இருந்ததாகவும், அவர்கள் தற்போது வெளியேற்றப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/43ff3e0a.json)
+
+---
+
+### ගිනිඅවියක් සහ ජීව පතොරම් සමඟ සැකකරුවෙකු අත්අඩංගුවට
+
+*2025-07-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212340) · `si`
+
+මෙරට නිෂ්පාදිත ගිනිඅවියක් සහ ජීව පතොරම් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+ඒ ඊයේ (16) හබරාදුව පොලිස් වසමේ උණවටුන ප්‍රදේශයේදී පොලිස් නිලධාරීන් කණ්ඩායමක් විසින් සිදූකළ වැටලීමකදීය.
+
+එහිදී මෙරට නිෂ්පාදිත ගිනිඅවියක්, මි.මී. 9 වර්ගයේ ජීවපතොරම් 04ක්, කෙටේරියක් සහ තහනම් ආයුධයක් සමඟ අවුරුදු 41ක උණවටුන ප්‍රදේශයේ පදිංචිකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/29e693b0.json)
+
+---
+
+### செம்மணிக்காக கொழும்பில் இன்று ஆர்ப்பாட்டம்
+
+*2025-07-17 10:15:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்காக-கொழும்பில்-இன்று-ஆர்ப்பாட்டம்/175-361233) · `ta`
+
+ஜூலை 17 இன்று பிற்பகல் 3மணிக்கு கொழும்பு கோட்டை  ரயில் நிலைய முன்றலில் செம்மணி புதைகுழி விவகாரத்தை தென்னிலங்கையின் கவனத்திற்கு கொண்டு வரும் நோக்கில் சிவில் சமூகம், கவன ஈர்ப்பு ஆர்ப்பாட்டத்தை நடத்த உள்ளது
+
+◼️
+
+[Data](articles/895835bb.json)
+
+---
+
+### சிற்றுண்டி பாக்கெட்டில் குஷ் ; பெண் கைது
+
+*2025-07-17 10:07:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிற்றுண்டி-பாக்கெட்டில்-குஷ்-பெண்-கைது/175-361232) · `ta`
+
+சுமார் 5 கோடி 70 இலட்சம் ​ரூபாய் பெறுமதியுடைய குஷ் போதைப் பொருளுடன் நாட்டிற்குள் வந்த வெளிநாட்டு பெண்  ஒருவர் “கிரீன் செனல்” வழியாக வெளியேற முயன்ற போது சுங்க போதைப்பொருள் தடுப்புப் பிரிவு அதிகாரிகளால் புதன்கிழமை (16) இரவு கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட பெண் டென்மார்க் நாட்டைச் சேர்ந்த 23 வயதுடையவர் என தெரியவந்துள்ளது.
+
+குறித்த பெண் தாய்லாந்தின் பாங்காக்கில் “குஷ்" போதைப் பொருள் தொகையை வாங்கிக் கொண்டு இந்தியாவின் சென்னைக்கு சென்று அங்கிருந்து   இண்டிகோ விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார்.
+
+அவர்  கொண்டு வந்த பைக்குள் இருந்த 25 "சிற்றுண்டி" பாக்கெட்டுகளில் இருந்து இந்த 5 கிலோ 700 கிராம் "குஷ்" போதைப் பொருள் பறிமுதல் செய்யப்பட்டது.
+
+◼️
+
+[Data](articles/f75eee12.json)
+
+---
+
+### Sri Lanka tax body to look into tax MP tax discrimination allegations: Minister
+
+*2025-07-17 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-body-to-look-into-reduced-tax-rates-for-mps-minister-231015/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Inland Revenue Department (IRD) will look into lower Pay As You Earn (PAYE) tax deduction for members of parliament, Media Minister and Cabinet Spokesman Nalinda Jayatissa said.
+
+His response for a query at this week’s Cabinet media briefing comes nearly a week after an opposition legislator shared his May allowance details received for his service as an MP.
+
+Though the MP had received a gross salary of more than 322,000 rupees as the gross salary, the PAYE deduction was only 3,728.92 rupees.
+
+However, tax experts say an ordinary person receiving the same amount of the MP salary will have to pay more than 24,300 rupees, as per the latest tax rates.
+
+Kalutara District MP Jagath Withana from the main opposition Samagi Jana Balawegaya (SJB) shared payslips on Facebook showing his salary, allowances and tax deductions from January to May 2025.
+
+...
+
+[Data](articles/54b8901a.json)
+
+---
+
+### Two suspects arrested for aiding and abetting Borella shooting incident
+
+*2025-07-17 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110563/two-suspects-arrested-for-aiding-and-abetting-borella-shooting-incident) · `en`
+
+Two individuals who are suspected of aiding and abetting the recent shooting incident in Borella have been arrested by Borella Police in the Sahaspura area.
+
+The shooting incident occurred on July 8 in Borella. According to police, two individuals on a motorcycle opened fire at a person who was at a shop on Serpentine Road. Subsequently, the gunmen had fled the scene.
+
+However, police added that there were no reports of any fatalities or injuries from the shooting.
+
+Last evening (16), officers from the Borella Police arrested a suspect in the Sahaspura area for aiding and abetting the shooting, along with a three-wheeler used in the crime. The arrested suspect is a 30-year-old resident of the Imbulgasdeniya area.
+
+...
+
+[Data](articles/25bf7a34.json)
+
+---
 
 ### ඉදිරි කාලගුණය ගැන විශේෂ නිවේදනයක්
 
@@ -67,6 +227,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f2b23b3e.json)
+
+---
+
+### Sri Lanka rupee opens weaker, bond yields flat
+
+*2025-07-17 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-bond-yields-flat-231218/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.35/60 to the US dollar in the spot market Thursday, slightly weaker from 301.40/50 a day earlier, while bond yields were broadly steady, dealers said.
+
+In the secondary market, a bond maturing 15.12.2026 was quoted flat at 8.10/20 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.95/9.05 percent, down from 8.95/9.07 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.46/49 percent.
+
+A bond maturing on 15.12.2029 was quoted at 10.48/53 percent, down from 9.50/53 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent.
+
+Meanwhile the Colombo Stock Exchange opened up; The ASPI was up 0.05%, or 10.17 points, at 18,895 and the S&P SL20 was up 0.17 points at 5,668. (Colombo/Jul17/2025)
+
+◼️
+
+[Data](articles/79052ba8.json)
+
+---
+
+### Sectoral Oversight Committee to convene today on Electricity (Amendment) Bill
+
+*2025-07-17 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110562/sectoral-oversight-committee-to-convene-today-on-electricity-amendment-bill) · `en`
+
+The Sectoral Oversight Committee on Infrastructure and Strategic Development is scheduled to convene again today (July 17) to consider the Sri Lanka Electricity (Amendment) Bill.
+
+The committee first met in Parliament on July 15 under the chairmanship of S. M. Marikkar, Member of Parliament.
+
+Officials representing several institutions, including the Ministry of Energy, the Attorney General’s Department, and the Ceylon Electricity Board, were present at the meeting.
+
+According to a statement issued by the Department of Communications of Parliament, several proposals and recommendations submitted by the Public Utilities Commission regarding the amendment of this Bill were discussed and agreement was reached on several matters.
+
+The Attorney General’s Department also expressed its views on the draft Bill before the committee and it was decided to print the draft Bill in all three languages along with the agreed amendments and submit it for approval by the committee today.
+
+...
+
+[Data](articles/2404299d.json)
 
 ---
 
@@ -251,6 +455,48 @@ Sri Lanka’s IMF program hit a roadblock earlier this year due to regulator dri
 ...
 
 [Data](articles/ea5a160a.json)
+
+---
+
+### Sri Lanka PUCSL to be accountable for CEB finances in new IMF benchmark
+
+*2025-07-17 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-pucsl-to-be-accountable-for-ceb-finances-in-new-imf-benchmark-231099/) · `en`
+
+ECONOMYNEXT – Sri Lanka will change the governing law of the Public Utilities Commission of Sri Lanka to make it more accountable for the finances of the Ceylon Electricity Board, International Monetary Fund documents show.
+
+“We will improve the transparency of electricity tariff revisions and strengthen accountability of the regulator towards CEB’s finances,” a memorandum on economic policies said.
+
+“We will amend the PUCSL Act to mandate PUCSL to submit to parliament quarterly reports on maintaining cost recovery electricity pricing and publish the reports.”
+
+Sri Lanka defaulted and public debt bloated in part due to large losses made by the Ceylon Electricity Board and Ceylon Petroleum Corporation.
+
+A large part of the losses however came from the depreciation of the rupee due to anchor conflicts within the operating framework of the central bank.
+
+Sri Lanka’s IMF program hit a roadblock earlier this year due to regulator driven price cuts, which increased the risk of a sovereign default.
+
+...
+
+[Data](articles/f76e60e6.json)
+
+---
+
+### Sri Lanka President urges budget priorities for 2026
+
+*2025-07-17 07:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-budget-priorities-for-2026-231172/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has urged officials to prioritize digitalization, strengthening public transport and integrating rural communities to the economy, when making the 2026 budget.
+
+A circular had been given to spending agencies to submit proposals within allocated expenditure limits by the end of July official had told President, a statement from the President’s media office said.
+
+President had “instructed officials to focus more on projects cantered around areas such as digitalization, strengthening public transport and integrating rural communities into the economic framework,” the statement said.
+
+“The President further noted that merely allocating financial resources for projects is not sufficient.
+
+“He emphasized the need to assess whether the intended benefits of those projects are truly reaching the people and highlighted the importance of strengthening the necessary mechanisms to ensure this outcome.”
+
+...
+
+[Data](articles/350b440f.json)
 
 ---
 
@@ -1497,271 +1743,5 @@ The incident occurred at a house in Palansuriyagama, Kahawatta while two brother
 ...
 
 [Data](articles/3f53ca13.json)
-
----
-
-### ක්‍රීඩාව ජාත්‍යන්තර තලයට එසවීමට කටයුතු කරන්න - ජනපති
-
-*2025-07-16 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212319) · `si`
-
-විසිරුණු සහ හුදකලා වූ ක්‍රීඩා උපකරණ බෙදීම් වැනි වැඩසටහන් වෙනුවට, ක්‍රීඩාව දියුණු කිරීමට දායක වන ක්‍රීඩා සංගම් සමඟ ඒකාබද්ධව, ජාතික මට්ටමින් ජාත්‍යන්තර මට්ටමට ක්‍රීඩාව ඔසවා තැබීමට කටයුතු කරන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ක්‍රීඩා අමාත්‍යාංශයට උපදෙස් ලබා දී තිබේ.
-
-ජනාධිපතිවරයා මෙම උපදෙස් ලබා දුන්නේ ජනාධිපති කාර්යාලයේදී අද (16) පෙරවරුවේ පැවති තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යාංශයේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
-
-මෙහිදී, ක්‍රීඩා අමාත්‍යාංශය, ජාතික තරුණ සේවා සභාව සහ ජාතික යොවුන් සේනාංකයේ ආයතනික වශයෙන් ප්‍රගතිය සමාලෝචනය කෙරුණු අතර, එම ආයතන මේ වන විට ක්‍රියාත්මක කරමින් තිබෙන ව්‍යාපෘති සහ රටේ තරුණ-තරුණියන්ගේ අභිවෘද්ධිය වෙනුවෙන් ගෙන තිබෙන වැඩපිළිවෙළ සම්බන්ධයෙන් ජනාධිපතිවරයාගේ අවධානය යොමු වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
-
-එමෙන්ම, ක්‍රීඩා සංවර්ධනය වෙනුවෙන් ක්‍රියාත්මක වැඩපිළිවෙළ පිළිබඳව මෙහිදී ඉතා සමීපව කරුණු විමසා බැලූ  ජනාධිපතිවරයා, ක්‍රීඩා සංවර්ධනය තුළින් සමාජීය ප්‍රතිලාභ මෙන්ම ලෝකයේ දියුණු රටවල මෙන් ආර්ථික ප්‍රතිලාභද අත් කර ගත හැකි බව පෙන්වා දී තිබේ.
-
-...
-
-[Data](articles/19525975.json)
-
----
-
-### எல்பட  இளைஞர்களின் முன்மாதிரியான செயல்
-
-*2025-07-16 16:51:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/எல்பட-இளைஞர்களின்-முன்மாதிரியான-செயல்/46-361201) · `ta`
-
-காசல்ரீ நீர்த்தேக்கத்துக்கு நீர் எடுத்துச் செல்லும் கெசல்கமுவ ஓயாவை ஊடறுத்து கட்டப்பட்ட கேபிள் பாலத்தை முழுமையாக புதுப்பிக்கும் பணி, பொகவந்தலாவ, கெர்கஸ்வோல்ட்   எல்படை மேற்பிரிவு,கீழ் பிரிவு  தோட்டங்களைச் சேர்ந்த இளைஞர்கள் குழுவால் தன்னார்வத்துடன் மேற்கொள்ளப்படுகிறது.
-
-இந்த கேபிள் பாலங்கள் இரண்டும், அப்போதைய தேயிலைத் தோட்ட மேலாண்மை அதிகாரியால் நோர்வூட் வெஞ்சர் தோட்டத்தின் மலைப்பாங்கான பகுதி மற்றும் பொகவந்தலாவ கெர்கஸ்வோல்ட் தோட்டங்களை இணைப்பதற்காக 40 ஆண்டுகளுக்கு முன்பு முதல் முறையாக கட்டப்பட்டது.
-
-170 அடி நீளமும் சுமார் 5 அடி அகலமும் கொண்ட இந்தப் பாலங்களில் பாடசாலை மாணவர்கள் உட்பட ஏராளமான தோட்டத் தொழிலாளர்கள் தினமும் கடந்து செல்கின்றனர். சுமார் மூன்று ஆண்டுகளாக, பாலத்தின் மரப் பகுதி முற்றிலும் சிதைந்து உடைந்தது, அந்த பாலங்களில் நடப்பது மிகவும் ஆபத்தானதாகவே இருந்தது.
-
-...
-
-[Data](articles/bafb5734.json)
-
----
-
-### ගාන්ධිතුමාගේ තෙල් සායම් චිත්‍රයකට එංගලන්තයේදී ඉහළ මිලක්
-
-*2025-07-16 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212318) · `si`
-
-මහත්මා ගාන්ධිතුමාගේ දුර්ලභ තෙල් සායම් චිත්‍රයක් ලන්ඩනයේ පැවති වෙන්දේසියකදී පවුම් 152,800 කට (ඩොලර් 204,648) අලෙවි වී තිබේ.
-
-1931දී මහත්මා ගාන්ධි ලන්ඩනයට ගිය අවස්ථාවේදී බ්‍රිතාන්‍ය චිත්‍ර ශිල්පී ක්ලෙයාර් ලයිටන් විසින් පින්තාරු කර ඇත.
-
-මහත්මා ගාන්ධි ඉන්දියාවේ බ්‍රිතාන්‍ය පාලනයට එරෙහිව අවිහිංසාවාදී විරෝධතා ව්‍යාපාරයක් මෙහෙයවූ අතර බොහෝ ඉන්දියානුවෝ ඔහුව "අවිහිංසාවාදයේ පියා" ලෙස සැලකූහ.
-
-◼️
-
-[Data](articles/8fc03608.json)
-
----
-
-### ඊශ්‍රායලයෙන් සිරියාවේ හමුදා මූලස්ථානයකට ගුවන් ප්‍රහාරයක්
-
-*2025-07-16 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212317) · `si`
-
-ඊශ්‍රායල් ගුවන් හමුදාව සිරියාවේ දමස්කස් හි හමුදා මූලස්ථානය ඉලක්ක කර ගුවන් ප්‍රහාර එල්ල කර තිබේ.
-
-අදාල ප්‍රහාරය සිරියානු ආරක්ෂක අමාත්‍යාංශයට පිවිසෙන දොරටුව අසලට එල්ල වී ඇති බව විදෙස් මාධ්‍ය සදහන් කළේය.
-
-රජයේ හමුදා සහ ඩෲස් සන්නද්ධ කණ්ඩායම් අතර සටන් විරාමයක් බිඳ වැටීමෙන් පසු දකුණු සිරියාවේ ස්වීඩා නගරයේ ගැටුම් අඛණ්ඩව පැවතෙන අවස්ථාවේ දී මෙම ප්‍රහාරය එල්ල වීමද විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/fab6b4d0.json)
-
----
-
-### மகாத்மா காந்தி ஓவியம்: ரூ.1.7 கோடிக்கு ஏலம்
-
-*2025-07-16 16:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாத்மா-காந்தி-ஓவியம்-ரூ-1-7-கோடிக்கு-ஏலம்/175-361200) · `ta`
-
-மகாத்மா காந்தி கடந்த 1931-ஆம் ஆண்டு 2-வது வட்டமேசை மாநாட்டில் கலந்து கொள்ள இங்கிலாந்தின் லண்டனுக்குச் சென்ற போது அவரை பிரிட்டிஷ் கலைஞர் கிளேர் லெய்டன் சந்தித்தார்.
-
-அப்போது அவர் ஓவியம் வரைவதற்காக காந்தி போஸ் கொடுத்தார். இந்த ஓவியம் 1974 -ஆம் ஆண்டு பொதுக் காட்சிக்கு வைக்கப்பட்டது.
-
-இந்த நிலையில் மகாத்மா காந்தியின் ஓவியம் ஏலம் விடப்பட்டது. போன்ஹாம்ஸில் நடந்த ஆன்லைன் ஏலத்தில் காந்தி ஓவியம் ரூ.1.7 கோடிக்கு விற்பனை ஆனது. நிர்ணயிக்கப்பட்ட விலையை காட்டிலும் 3 மடங்கிற்கு விற்பனை செய்யப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது.
-
-மகாத்மா காந்தி தன் வாழ்நாளில் ஓவியருக்கு போஸ் கொடுத்தது இந்த நிகழ்வு மட்டுமே என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/bb811060.json)
-
----
-
-### Over 50 LG bodies yet to be formed despite nearly 2 months since polls
-
-*2025-07-16 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110548/over-50-lg-bodies-yet-to-be-formed-despite-nearly-2-months-since-polls) · `en`
-
-Although almost two months have passed since the 2025 Local Government Elections concluded, councils have reportedly not yet been formed under new Mayors or Chairpersons in over 50 local government institutions.
-
-It is stated that this is due to a lack of quorum, the failure to gazette the names of elected members, and ongoing court orders.
-
-In addition, due to issues regarding female representation, the Wanathawilluwa Pradeshiya Sabha has still not been able to form a council.
-
-Reports indicate that 50% of the full members have not attended the chambers, resulting in a lack of quorum, and that some members are deliberately avoiding attendance.
-
-The Ministry of Local Government stated that, as a result, services provided to the public have been delayed.
-
-The 2025 Local Government Elections were held on May 6 for 337 local government bodies, with around 8,000 candidates contesting.
-
-◼️
-
-[Data](articles/e6c52f80.json)
-
----
-
-### Sri Lanka stocks dip due to profit taking, HNB boosts turnover
-
-*2025-07-16 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-due-to-profit-taking-hnb-boosts-turnover-230989/) · `en`
-
-ECONOMYNEXT – Colombo’s broader All Share Price index declined 0.32 percent, or 61.31 points, to 18,884, on Wednesday as some profit taking set in after the index hit the 19,000 mark on Tuesday, brokers said.
-
-The S&P SL20 index of more liquid stocks, fell 0.57 percent, or 32.42 points, to close at 5,668.
-
-Turnover hiked to 17 billion rupees, the highest since 18 billion on May 27; while the share volume was 300,769,827.
-
-A crossing on Hatton National Bank non-voting shares boosted the turnover.
-
-“There was some profit taking, which saw some selling pressure come in,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital told EconomyNext.
-
-“Banks and HNB specifically, saw interest. John Keells Holdings was also heavily traded.”
-
-HNB non-voting closed down 7.00 rupees at 286.50; The voting share was down 50 cents at 359.50 rupees.
-
-...
-
-[Data](articles/2239e683.json)
-
----
-
-### Over 1.3 mln illegal narcotic pills seized by Navy in Kalpitiya; five arrested
-
-*2025-07-16 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110547/over-13-mln-illegal-narcotic-pills-seized-by-navy-in-kalpitiya-five-arrested) · `en`
-
-The Sri Lanka Navy announced that five individuals have been taken into custody along with three dinghy boats and a large stock of illegal narcotic pills during a maritime operation conducted in the Kalpitiya area.
-
-During a special search operation carried out in the Wellamundalama sea area, Kalpitiya, on 14 July 2025, the Navy intercepted three suspicious dinghies engaged in smuggling activities.
-
-Upon inspection, naval personnel recovered 18 sacks containing a total of 1,349,640 illegal prescription drugs. The operation also led to the arrest of five suspects believed to be involved in the smuggling racket.
-
-The operation was conducted by a team from the Special Boat Squadron attached to the Naval Detachment in Uchchamunai, under the command of SLNS Vijaya.
-
-The suspects, aged between 22 and 44 years, are residents of Mohoththuwaram, Kurakkangena, Wannimundalama, and Sinnakudirippu in the Kalpitiya area, Sri Lanka Navy said.
-
-...
-
-[Data](articles/80f8a72f.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයාගේ ජීවිතයත් අනතුරේ ද?
-
-*2025-07-16 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212316) · `si`
-
-"කණ්ඩලමේ හැඩකාරයා" නමින් හඳුන්වන වනඅලියාගේ ඉදිරි පාදයට වෙඩි වැදීම හේතුවෙන් වනඅලියා ඉතා අපහසුවෙන් සිටින බව ප්‍රදේශවාසීන් පෙන්වා දෙයි.
-
-ඔවුන්ගේ දැනුම්දීම මත මාස ගණනාවක සිට වනජීවී නිලධාරීන් අවස්ථා කිහිපයකදීම මෙම වනඅලියාට ප්‍රතිකාර සිදුකර තිබේ.
-
-ඒ අනුව, වන අලියාට ආහාර ලබාදීම සිදු නොකරන්නැයි වනජීවී නිලධාරීන් ජනතාවට දැනුම් දී ඇත.
-
-කෙසේ නමුත් ප්‍රදේශවාසීන් පෙන්වා දෙන්නේ වෙඩි වැදීම හේතුවෙන් වනඅලියා වනයේ සැරිසරන්නේ නොමැතිව කණ්ඩලම වැව ආශ්‍රිතව පමනක් සිටින බැවින් අලියාට ආහාර හිඟයක් පවතින බවය.
-
-ඒ අනුව, ප්‍රදේශවාසීන් කිහිපදෙනෙක් වනඅලියා සිටින ස්ථානයට හැකි පමණින් සුළු ආහාර ප්‍රමාණයක් ගෙනවීත් දමා ඇති අයුරු දැකගත හැකිය.
-
-මේ අතර, වනඅලියාගේ ආරක්ෂාව වෙනුවෙන් පොලිස් නිලධාරීන් ද යොදවා ඇති බව අද දෙරණ වාර්තාකරු පවසයි.
-
-එමෙන්ම පරිසර අමාත්‍යවරයා මෙන්ම නියෝජ්‍ය අමාත්‍යවරයාද මෙම වනඅලියාගේ සුවදුක් විමසීමට පසුගිය දා පැමිණි බව අද දෙරණ වාර්තාකරු පවසයි.
-
-මේ අතර, වනජීවී නිලධාරින් ද වනඅලියාගේ ජීවිතය බේරා ගැනීම සඳහා විවිධ උපක්‍රමශීලීව ප්‍රතිකාර කිරීම් සිදුකර කරන බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/1a4daee6.json)
-
----
-
-### කහවත්ත ඝාතන සිද්ධියේ සැකකරුවන් දෙදෙනෙකු රඳවාගෙන ප්‍රශ්න කරයි
-
-*2025-07-16 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212315) · `si`
-
-කහවත්ත ප්‍රදේශයේදී තරුණයෙකු දණගස්වා වෙඩි තබා ඝාතනය කර තවත් අයෙකුට තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් විමර්ශනවලදී අත්අඩංගුවට ගත් සැකකරුවන් 4 දෙනාගෙන් දෙදෙනෙකු දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට හෝමාගම වැඩබලන මහෙස්ත්‍රාත් ප්‍රියංකා මද්දුම පටබැඳි මෙනවිය පොලීසියට අද (16) අවසර ලබාදී තිබේ.
-
-අනෙක් සැකකරුවන් දෙදෙනා හෙට (17) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට හෝමාගම වැඩබලන මහෙස්ත්‍රාත්වරිය නියෝග කළ අතර ඒ අනුව ඔවුන් දෙදෙනා හෙට පැල්මඩුල්ල අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-අදාළ සිද්ධියට ආධාර අනුබල දුන් සැකකරුවන් 4 දෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබූ අතර තරුණයින් පැහැර ගැනීම සඳහා යොදා ගත් ජීප් රථයද සොයාගත් බව බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය පවසයි.
-
-ඉකුත් 30 වැනිදා රාත්‍රීයේ කහවත්ත, බුංගිරිය, පලන්සූරියගම ප්‍රදේශයේ නිවසක සහෝදරයන් දෙදෙනෙකු තවත් තරුණයෙක් සමග කතාබහ කරමින් සිටියදී මෙම සිද්ධියට මුහුණදී තිබුණි.
-
-...
-
-[Data](articles/328a6260.json)
-
----
-
-### නීති විරෝධි ලෙස මෙරටට රැගෙන ආ ඖෂධ පෙති මිලියන 1.3ක් නාවික හමුදා භාරයට
-
-*2025-07-16 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212314) · `si`
-
-නීති විරෝධි ලෙස මෙරටට රැගෙන ඒමට උත්සහ කළ ඖෂධ පෙති මිලියන 1.3ක් නාවික හමුදාව සිය භාරයට ගෙන තිබේ.
-
-කල්පිටිය, වෙල්ලමුන්දලම මුහුදු ප්‍රදේශයේ දී මෙම විශේෂ මෙහෙයුම සිදු කර ඇති අතර එහිදී ඩිංගි යාත්‍රා 03ක් සමඟ සැකකරුවන් පස් දෙනෙකු ද නාවික හමුදාව සිය භාරයට ගෙන ඇත.
-
-නාවික හමුදා භාරයට ගත් සැකකරුවන්  අවුරුදු 22 සහ 44 අතර වයස් ඛාණ්ඩයේ  පසුවන්නන් බව ද  වාර්තා  වෙයි.
-
-සැකකරුවන් මොහොත්තුවාරම්, කුරක්කන්ගේන, වන්නිමුන්දලම සහ සින්න කුඩුරිප්පු ප්‍රදේශයන්හි පදිංචිකරුවන් පිරිසකි.
-
-අදාළ සැකකරුවන්, ඖෂධ පෙති තොගය සහ ඩිංගි යාත්‍රා තුන ඉදිරි නීතිමය කටයුතු සඳහා නාවික හමුදාව විසින් පුත්තලම සුරාබදු දෙපාර්තමේන්තුවේ විශේෂ ඒකකය වෙත භාර දී තිබේ.
-
-◼️
-
-[Data](articles/c1257839.json)
-
----
-
-### Israel strikes near the defense ministry in Syria
-
-*2025-07-16 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110546/israel-strikes-near-the-defense-ministry-in-syria) · `en`
-
-The Israeli army said Wednesday that it struck near the entrance to the Syrian Ministry of Defense in Damascus.
-
-The strike came as clashes continued in the southern Syrian city of Sweida after a ceasefire between government forces and Druze armed groups collapsed.
-
-Israel has launched a series of airstrikes on convoys of government forces since the clashes erupted, saying that it is acting to protect the Druze.
-
-The Druze religious sect began as a 10th-century offshoot of Ismailism, a branch of Shiite Islam. More than half of the roughly 1 million Druze worldwide live in Syria. Most of the other Druze live in Lebanon and Israel, including in the Golan Heights, which Israel captured from Syria in the 1967 Mideast War and annexed in 1981.
-
-THIS IS A BREAKING NEWS UPDATE. AP’s earlier story follows below.
-
-...
-
-[Data](articles/c26c040f.json)
-
----
-
-### China donates school uniform fabric worth Rs. 5.17 bln to Sri Lanka for 2025
-
-*2025-07-16 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110545/china-donates-school-uniform-fabric-worth-rs-517-bln-to-sri-lanka-for-2025) · `en`
-
-China will always remain a trusted friend and ally of Sri Lanka, said Chinese Ambassador to Sri Lanka, Qi Zhenhong, during a ceremony held at the Ministry of Education in Battaramulla today (16).
-
-At the event, it was officially announced that the entire requirement of fabric for school uniforms for the year 2025—valued at Rs. 5,171 million—has been provided as a grant by the Government of China.
-
-The ceremony was attended by the Prime Minister and Minister of Education, Higher Education, and Vocational Education, Dr. Harini Amarasuriya, along with other dignitaries.
-
-“China will always be your reliable brother and helper whenever Sri Lanka needs it. Children are not only the future of this country but also the heirs of the China–Sri Lanka friendship. Every stitch on their uniforms will tell the story of mutual cooperation between our two ancient civilizations. I highly appreciate the contribution and dedication of Prime Minister Dr. Harini Amarasuriya to the education sector in Sri Lanka.”
-
-...
-
-[Data](articles/3deb9fd1.json)
-
----
-
-### මහත්මා ගාන්ධිගේ දුර්ලභ තෙල් සායම් චිත්‍රයක්  ඩොලර් ලක්ෂ 2ට අලෙවි වෙයි
-
-*2025-07-16 15:45:42* · [`adalk`](https://www.ada.lk/breaking_news/මහත්මා-ගාන්ධිගේ-දුර්ලභ-තෙල්-සායම්-චිත්‍රයක්--ඩොලර්-ලක්ෂ-2ට-අලෙවි-වෙයි/11-417334) · `si`
-
-මහත්මා ගාන්ධිගේ දුර්ලභ තෙල් සායම් චිත්‍රයක් ලන්ඩනයේ වෙන්දේසියකදී පවුම් 152,800 (ඩොලර් 204,648) කට අලෙවි වී තිබේ.
-
-1931 දී ගාන්ධි ලන්ඩනයට ගිය  අවස්ථාවේ බ්‍රිතාන්‍ය චිත්‍ර ශිල්පී ක්ලෙයාර් ලයිටන් විසින් මෙම චිත්‍රය පින්තාරු කර ඇත.
-
-◼️
-
-[Data](articles/ff6b5a76.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 03:30:43**
+As of **2025-07-18 03:47:38**
 
 ## Newspaper Stats
 
-*Scraped **65,312** Articles*
+*Scraped **65,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
 economynextcom | 3,997
-dailyftlk | 4,635
+dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,312 articles have been extended.
+61,973 (94.9%) of 65,314 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/90ac6507.json)
+
+---
+
+### Sri Lanka grapples surging crime amid economic recovery
+
+*2025-07-18 02:37:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-grapples-surging-crime-amid-economic-recovery/56-779156) · `en`
+
+Efforts to navigate economic recovery are juxtaposed against a persistent and, in some sectors, escalating crime landscape as the country reaches mid-2025. An analysis of reported data indicates notable shifts in the prevalence of various criminal activities since 2024, especially homicides, according to available data.
+
+...
+
+[Data](articles/c8b085e1.json)
 
 ---
 
@@ -265,6 +277,18 @@ As the host of the morning show ‘Pathikada,’ broadcast on News 1st, Sirasa T
 ...
 
 [Data](articles/794fbbd6.json)
+
+---
+
+### Official world record reveal of Rusin Thathsara
+
+*2025-07-18 02:23:56* · [`dailyftlk`](https://www.ft.lk/news/Official-world-record-reveal-of-Rusin-Thathsara/56-779145) · `en`
+
+Rusin Thathsara, a final-year undergraduate in the Department of Building Economics at the University of Moratuwa, pursuing a BSc (Hons.) in Facilities Management, has officially set a world record for being the “Youngest to Write the Maximum Number of Languages in a Single Chapter.” The record was unveiled at South Asia’s tallest structure, the Colombo Lotus Tower, in collaboration with the Russian House in Colombo. This world record was achieved for a chapter in a book he wrote dedicated to Sivali Central College Former Principal and current Additional Secretary of the Ministry of Education, Sri Lanka Kamal Ariyasinghe.
+
+...
+
+[Data](articles/f7fd6f82.json)
 
 ---
 
@@ -1789,41 +1813,5 @@ The interdicted officers, who all hold the rank of Sub-Inspector (SI), are repor
 ...
 
 [Data](articles/bc654dc3.json)
-
----
-
-### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
-
-*2025-07-17 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212349) · `si`
-
-නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි සඟවා තිබූ හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව අද (17) උදෑසන විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගිය දා මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය විසින් සොයාගනු ලැබීය.
-
-පොලීසිය පැවසුවේ මෙම එක් යතුරුපැදියක වටිනාකම රුපියල් කෝටි එකහමාරකට වඩා වටිනාකමින් යුතු බවය.
-
-මේ අතර, මෙහිදී කුරුලු උයන පරිශ්‍රයේ නීතිවිරෝධී ලෙස වගා කර තිබූ ගංජා පැළ 04ක් සමග මෙම සත්ත්ව ගොවිපොළේ කළමනාකරු හා ගබඩා පාලකයා ද පොලිස් අත්අඩංගුවට ගනු ලැබීය.
-
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, අවුරුදු 40 හා 50 වයස්වල පසුවන මාතර හා මිද්දෙණිය ප්‍රදේශවල පදිංචිකරුවන්ය.
-
-◼️
-
-[Data](articles/a0eaf698.json)
-
----
-
-### பங்களாதேஷில் மோதல்: 4 பேர் பலி; 50 பேருக்கு காயம்
-
-*2025-07-17 13:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-மோதல்-4-பேர்-பலி-50-பேருக்கு-காயம்/50-361256) · `ta`
-
-பங்களாதேஷில் ஷேக் ஹசீனா ஆதரவாளர்களுக்கும் பாதுகாப்புப் படையினருக்கும் இடையே நடந்த மோதலில் 4 பேர் உயிரிழந்தனர், 50-க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
-
-பங்களாதேஷத்தின் பிரதமராக இருந்த ஷேக் ஹசீனாவுக்கு எதிராக கடந்த ஆண்டு ஆகஸ்ட் மாதம் மாணவர்கள் நடத்திய போராட்டம் காரணமாக அவர் தனது பதவியை இழந்து, அங்கிருந்து தப்பி இந்தியாவில் தஞ்சம் அடைந்துள்ளார். போராட்டத்தில் ஈடுபட்ட மாணவர்கள் அமைப்பு சார்பில், நோபல் பரிசு பெற்ற முகம்மது யூனுஸ் இடைக்கால தலைவராக தேர்ந்தெடுக்கப்பட்டார். மாணவர்கள் பலர் அமைச்சர்களாக பொறுப்பேற்றனர்.
-
-பங்களாதேஷத்தின் அரசியலில் பெரும் மாற்றத்தை ஏற்படுத்திய இந்த நிகழ்வு ஓராண்டை நிறைவு செய்ய உள்ளதை முன்னிட்டு, மாணவர்களின் அரசியல் கட்சியான தேசிய குடிமக்கள் கட்சி சார்பில் இந்த மாதத்தில்( ஜூலை ) நாட்டின் பல்வேறு பகுதிகளில் பேரணிகள் நடத்தப்பட்டு வருகின்றன. அதன் ஒரு பகுதியாக,  கோபால்கஞ்ச் நகரில் பேரணி வியாழக்கிழமை (17) நடத்தப்பட்டது.
-
-...
-
-[Data](articles/c09cc491.json)
 
 ---

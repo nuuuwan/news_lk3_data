@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 23:50:01**
+As of **2025-07-18 00:07:11**
 
 ## Newspaper Stats
 
-*Scraped **65,283** Articles*
+*Scraped **65,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,997
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,270
-adaderanalk | 7,965
+adaderanalk | 7,968
 tamilmirrorlk | 9,353
 virakesarilk | 10,864
 adaderanasinhalalk | 11,215
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,283 articles have been extended.
+61,973 (94.9%) of 65,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### Teenager escapes attempted kidnapping in Kahathuduwa
+
+*2025-07-17 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110588/teenager-escapes-attempted-kidnapping-in-kahathuduwa) · `en`
+
+A 15-year-old boy has escaped an attempted kidnapping in Kahathuduwa.
+
+The teenager, who was being abducted in a white van, had reportedly jumped out of the vehicle in Ratnapura.
+
+According to a phone call made to the 119 Police Emergency Unit by an individual, the teenager who had been abducted in a van was seen near a restaurant in Ketandola, Ratnapura.
+
+Based on this information, police officers attached to the Ratnapura Police who were engaged in night patrol had taken the teenager into their custody.
+
+Kahathuduwa Police have launched an investigation reviewing CCTV footage to identify the group that attempted the abduction.
+
+◼️
+
+[Data](articles/4f89791b.json)
+
+---
 
 ### සැකසහිත වෑන් රථයක් සොයා පොලිස් විමර්ශන
 
@@ -45,6 +65,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ea9c3f60.json)
+
+---
+
+### Bangladesh police arrest 20 after deadly clashes in ousted premier’s hometown
+
+*2025-07-17 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110587/bangladesh-police-arrest-20-after-deadly-clashes-in-ousted-premiers-hometown) · `en`
+
+Bangladesh police said on Thursday (Jul 17) they had arrested 20 people, a day after clashes between supporters of ousted premier Sheikh Hasina and security personnel killed at least four people.
+
+The clashes erupted in Hasina’s hometown of Gopalganj on Wednesday after members of her Awami League party tried to foil a rally by the National Citizens Party (NCP), made up of many students who spearheaded the uprising that toppled her government last year.
+
+Bricks, stones and shattered windows littered the area where the clashes occurred. More than 1,500 police, as well as soldiers and border guards, have been deployed in the district to enforce a curfew.
+
+“The law and order situation in Gopalganj is currently under control and remains peaceful,” the police said in a statement on Thursday.
+
+Sheikh Mujibur Rahman, the founding president of Bangladesh, hailed from Gopalganj and Hasina, his daughter, also contested elections from the district.
+
+...
+
+[Data](articles/7109aea5.json)
+
+---
+
+### Will take necessary action for the advancement of national, religious and social development: President
+
+*2025-07-17 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110586/will-take-necessary-action-for-the-advancement-of-national-religious-and-social-development-president) · `en`
+
+Will never hesitate to take necessary action for the advancement of national, religious and social development, stated President Anura Kumara Dissanayake while meeting the Maha Sangha in Kandy.
+
+President Dissanayake has also said that he expects the guidance of the Maha Sangha in the governance process.
+
+The President made these remarks during a discussion held this afternoon (17) at the President’s House in Kandy with the Anunayake Theros of the Malwathu and Asgiri Chapters and other senior members of the Karaka Maha Sangha Sabha.
+
+The purpose of the meeting was to discuss key national, religious and social issues, as per the advice of the Chief Prelates of the Malwathu and Asgiri Chapters, the President’s Media Division said in a statement.
+
+...
+
+[Data](articles/9bf1a2f8.json)
 
 ---
 
@@ -1142,11 +1200,21 @@ Police stated that one of these motorbikes alone is valued at more than Rs. 15 m
 
 *2025-07-17 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/110572/two-arrested-over-abduction-and-murder-of-youth-in-kahawatta-remanded) · `en`
 
-Two individuals arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until July 28.
+Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until July 28.
 
 They were remanded after being produced before the Pelmadulla Magistrate’s Court.
 
-◼️
+A total of four individuals were arrested yesterday (16), in connection with the abduction and the murder of a youth in Kahawatta on June 30.
+
+Police were granted permission to detain for a period of seven days and question two of the four suspects arrested in connection with the incident.
+
+The Homagama Magistrate’s Court ordered the other two suspects to be remanded until today.
+
+Accordingly, the duo was produced before the Pelmadulla Magistrate’s Court and has been remanded until July 28.
+
+On June 30, a 22-year-old youth died in the shooting while another 27-year-old person was hospitalized after sustaining injuries.
+
+...
 
 [Data](articles/05633167.json)
 
@@ -1746,7 +1814,7 @@ The cause of the fire was not immediately known, but the province’s governor s
 
 “We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
 
-...
+◼️
 
 [Data](articles/b058a9c3.json)
 
@@ -1785,53 +1853,5 @@ At least 50 people have been killed and dozens remain missing after a fire broke
 ...
 
 [Data](articles/6cb5c283.json)
-
----
-
-### දයාසිරිගෙන් හෙට සීඅයිඩීයට පැමිණිල්ලක්
-
-*2025-07-17 11:35:41* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගෙන්-හෙට-සීඅයිඩීයට-පැමිණිල්ලක්/11-417352) · `si`
-
-ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන මෙදා හැරීම් පිළබඳව කරනු ලැබූ වෝහාරික විගණනයේ නිර්දේශ ක්‍රියාත්මක නොකිරීම හා ඉන්ධන බෙදා හැරීමේදී සිදුව ඇතැයි පැවැසෙන අක්‍රමිකතා සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා හෙට දිනයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවටපැමිණිල්ලක් ඉදිරිපත් කිරිමට නියමිතය.‍ හෙට පෙරවරුවේ මෙම පැමිණිල්ල ඉදිරිපත් කරන බව මන්ත්‍රිවරයා නි‍වේදනයක් නිකුත් කරමින් පවසයි.
-
-◼️
-
-[Data](articles/8075c439.json)
-
----
-
-### காசாவில் இஸ்ரேலின் நடவடிக்கைகளிற்கு பொறுப்புக்கூறலை உறுதி செய்வோம்-இஸ்ரேலிற்கு ஆயுதங்கள் வெடிமருந்துகளை வழங்குவதை தடுக்க முயல்வோம் - கொலம்பிய உச்சிமாநாட்டில் கலந்துகொண்ட நாடுகள் இணக்கம்
-
-*2025-07-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/220201) · `ta`
-
-காசாவில் இஸ்ரேலின் நடவடிக்கைகளிற்கு பொறுப்புக்கூறலை உறுதி செய்யப்போவதாக கொலம்பியாவில் இடம்பெற்ற மாநாட்டில் கலந்துகொண்ட நாடுகள் தெரிவித்துள்ளன.
-
-ஆக்கிரமிக்கப்பட்ட பாலஸ்தீன பகுதிகளில் இஸ்ரேலின் தாக்குதலை கட்டுப்படுத்துவதற்கான ஆறு நடவடிக்கைகள் குறித்த இணக்கப்பாட்டுடன் கொலம்பிய மாநாடு முடிவடைந்துள்ளது.
-
-கொலம்பிய மாநாட்டில் கலந்துகொண்ட நாடுகள் ஹேக் குழு என  அழைக்கப்படுகின்றன. இந்த குழுவில் பொலிவியா கொலம்பியா இந்தோனேசியா கியுபா ஈராக் மலேசியா உட்பட பல நாடுகள் இடம்பெற்றுள்ளன.
-
-ஆயுதங்கள் வெடிமருந்துகள் இராணுவ எரிபொருள் தொடர்புடைய இராணுவ உபகரணங்கள் மற்றும் இரட்டை பயன்பாட்டு பொருட்களை இஸ்ரேலுக்கு வழங்குவதையோ அல்லது மாற்றுவதையோ தடுப்பது;
-
-இஸ்ரேலுக்கு மேற்கூறிய பொருட்களை எடுத்துச் செல்ல கப்பல் பயன்படுத்தப்படும் அபாயம் உள்ள எந்தவொரு துறைமுகத்திலும் கப்பல்களின் போக்குவரத்துஇ நறுக்குதல் மற்றும் சேவையைத் தடுப்பது;
-
-...
-
-[Data](articles/bb51cbd0.json)
-
----
-
-### “ஜிகாத் படுகொலை விசாரணைக்கு உட்படுத்த வேண்டும்”
-
-*2025-07-17 11:29:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிகாத்-படுகொலை-விசாரணைக்கு-உட்படுத்த-வேண்டும்/175-361247) · `ta`
-
-“ஜிகாத்” எனும் முஸ்லிம் ஊர்காவல் படையினர், சிங்கள இராணுவத்துடன் சேர்ந்து அப்பாவி தமிழ் மக்களை படுகொலை செய்ய விடயங்களும் விசாரணைக்குட்படுத்தப்பட வேண்டும். என நாம் தமிழர் சமூக சேவை ஒன்றியத்தின் பொதுச் செயலாளர் கோபாலன் பிரசாத் தெரிவித்துள்ளார்.
-
-திராய்க்கேணி படுகொலைகள். 1990 ஆம் ஆண்டு ஆகஸ்ட் 6 ஆம் திகதி இலங்கையின் அம்பாறை மாவட்டத்தில் திராய்க்கேணி என்னும் தமிழ்க் கிராமம் ஒன்றில் இடம்பெற்ற படுகொலை சிறப்பு அதிரடிப் படையினரின் உதவியுடன் முஸ்லிம் ஊர்காவல் படையினரால் 47 தமிழர்கள் படுகொலை செய்யப்பட்டனர்.என நாம் தமிழர் சமூக சேவை ஒன்றியத்தின் பொதுச் செயலாளர் கோபாலன் பிரசாத் தெரிவித்துள்ளார்.
-
-களுவாஞ்சிகுடியில் புதன்கிழமை (16) மாலை நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/af2423eb.json)
 
 ---

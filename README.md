@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 03:47:38**
+As of **2025-07-18 04:05:38**
 
 ## Newspaper Stats
 
-*Scraped **65,314** Articles*
+*Scraped **65,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
 tamilmirrorlk | 9,354
-virakesarilk | 10,870
+virakesarilk | 10,871
 adaderanasinhalalk | 11,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,314 articles have been extended.
+61,973 (94.9%) of 65,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### கொலை குற்றவாளிகளை பாதுகாக்கவே ரணில்-ராஜபக்ஷ தரப்பு ஷானி, ரவி  உள்ளிட்ட திறமையான அதிகாரிகளை பதவியில் இருந்து நீக்கியது - அமைச்சர் பிமல் ரத்நாயக்க
+
+*2025-07-18 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220270) · `ta`
+
+கொலை குற்றவாளிகளை பாதுகாக்கவே ரணில்-ராஜபக்ஷ தரப்பு  ஷானி அபேசேகர, ரவி செனவிரத்ன உள்ளிட்ட திறமையான அதிகாரிகளை பதவியில் இருந்து நீக்கியது. ஆனால் எமக்கு எந்த தனிப்பட்ட தேவையும் கிடையாது. எனவே  நாம் விசாரணைகளுக்காக திறமையான அதிகாரிகளை ஈடுபடுத்துவோம். குற்றவாளிகளை கைது செய்து சட்டத்தின் முன் நிறுத்தி தண்டனை பெற்றுக் கொடுப்போம் என போக்குவரத்து நெடுஞ்சாலைகள் துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+கொழும்பு தெஹிவளை ரயில் நிலையத்துக்கு வியாழக்கிழமை (17) கண்காணிப்பு விஜயமொன்றை மேற்கொண்டிருந்த சந்தர்ப்பத்தில் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+உயிர்த்த ஞாயிறு தினத் தாக்குதல் தொடர்பில் உரிய விசாரணைகளை மேற்கொண்டு குற்றவாளிகளுக்கு  தண்டனை பெற்று கொடுக்குமாறு கர்தினால் உட்பட கத்தோலிக்க திருச்சபை  தொடர்ச்சியாக கோரிக்கை விடுத்து வருகிறது. எம்மிடம் மாத்திரமல்ல. இதற்கு முன்னர் பதவியிலிருந்த அரசாங்கத்திடமும் இந்த கோரிக்கை  விடுக்கப்பட்டது.
+
+...
+
+[Data](articles/b042654a.json)
+
+---
 
 ### தேங்காய் எண்ணெய் சில்லறை விற்பனைத் தடைச் சட்டம் மீள்பரிசீலிக்கப்பட வேண்டும் – சமூக நீதிக்கான தேசிய இயக்கம்
 
@@ -1793,25 +1809,5 @@ Speaking further in this regard, she noted that these reforms have been develope
 ...
 
 [Data](articles/52fd5979.json)
-
----
-
-### Three police SIs interdicted over misconduct at spa in Matara
-
-*2025-07-17 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110569/three-police-sis-interdicted-over-misconduct-at-spa-in-matara) · `en`
-
-Three police officers attached to police stations within the Matara Division have been interdicted following allegations of misconduct.
-
-The order was issued by the Acting Superintendent of Police (SP) in charge of the Matara Division after an internal investigation found the officers guilty of serious disciplinary violations.
-
-The three officers had reportedly visited a Spa (massage center) in the Walgama area of Matara, where they had engaged in a heated argument with the manager of the establishment and then attempted to obtain services from Spa free of charge.
-
-The investigation, launched based on a complaint received, concluded that the officers were guilty of misconduct and corrupt practices, including using their official positions for personal gain and engaging in behavior detrimental to police discipline.
-
-The interdicted officers, who all hold the rank of Sub-Inspector (SI), are reportedly attached to the Thihagoda, Mawarala police stations and Matara division intelligence unit.
-
-...
-
-[Data](articles/bc654dc3.json)
 
 ---

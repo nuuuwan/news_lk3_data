@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 13:18:55**
+As of **2025-07-17 13:49:51**
 
 ## Newspaper Stats
 
-*Scraped **65,196** Articles*
+*Scraped **65,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,59 @@ islandlk | 3,982
 economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,255
-adaderanalk | 7,947
+adalk | 6,256
+adaderanalk | 7,948
 tamilmirrorlk | 9,339
-virakesarilk | 10,846
-adaderanasinhalalk | 11,202
+virakesarilk | 10,849
+adaderanasinhalalk | 11,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,196 articles have been extended.
+61,973 (95.0%) of 65,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
 
-### අමෙරිකාව සමඟ එකඟ වූ කරුණු ගැන නි. ඇමති අනිල් ජයන්ත පහදයි
+### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
+
+*2025-07-17 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212349) · `si`
+
+නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි සඟවා තිබූ හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව අද (17) උදෑසන විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගිය දා මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය විසින් සොයාගනු ලැබීය.
+
+පොලීසිය පැවසුවේ මෙම එක් යතුරුපැදියක වටිනාකම රුපියල් කෝටි එකහමාරකට වඩා වටිනාකමින් යුතු බවය.
+
+මේ අතර, මෙහිදී කුරුලු උයන පරිශ්‍රයේ නීතිවිරෝධී ලෙස වගා කර තිබූ ගංජා පැළ 04ක් සමග මෙම සත්ත්ව ගොවිපොළේ කළමනාකරු හා ගබඩා පාලකයා ද පොලිස් අත්අඩංගුවට ගනු ලැබීය.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, අවුරුදු 40 හා 50 වයස්වල පසුවන මාතර හා මිද්දෙණිය ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/a0eaf698.json)
+
+---
+
+### ஈ.பி.டி.பி. ஆட்சிக் காலத்துக்குப் பிறகு யாழ். மாநகர சபையில் குறிப்பிடத்தக்க வேலைத் திட்டங்கள் எதுவும் நடைபெறவில்லை – முன்னாள் முதல்வர் யோகேஸ்வரி
+
+*2025-07-17 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220205) · `ta`
+
+யாழ்ப்பாண மாநகர சபையின் முன்னாள் முதல்வர் யோகேஸ்வரி பற்குணராஜா, ஈ.பி.டி.பி. ஆட்சிக் காலத்துக்குப் பிறகு யாழ் மாநகர சபையால் எந்த முக்கியமான வேலைத் திட்டங்களும் முன்னெடுக்கப்படவில்லை எனக் குற்றச்சாட்டு முன்வைத்துள்ளார்.
+
+இன்று வியாழக்கிழமை (17)நடைபெற்ற மாநகர சபை அமர்வில் முன்னாள் முதல்வர், திண்ம கழிவகற்றல் பணிகளை தனியார் நிறுவனங்களுக்கு ஒப்படைத்துள்ளதை எதிர்த்து, அதற்கு எதிரான கருத்துக்களை வெளியிட்டார்.
+
+முன்னாள் எமது ஆட்சிக் காலத்தில், யாழ்ப்பாண மாநகர சபையில் 35 உழவு இயந்திரங்கள் இருந்தன. ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் மற்றும் முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தாவின் இணக்க அரசியலின் மூலம் முன்னெடுக்கப்பட்ட அபிவிருத்திகளுக்குப் பிறகு யாழ்ப்பாணத்தில் எந்தவொரு மாற்றமும் இடம்பெறவில்லை. அந்த காலத்தில் மேலும் 4 உழவு இயந்திரங்கள் கிடைத்திருந்தது மற்றும் திண்மக் கழிவுகள் முறையாக அகற்றப்பட்டு வந்தன. ஆனால் திடீரென அந்த பணிகள் தனியாருக்கு ஒப்படைக்கப்பட்டதற்கான காரணம் எனக்கு புரியவில்லை. எனவே, தற்போதைய முதல்வர் இதில் மாற்றம் கொண்டு வர வேண்டும்.
+
+...
+
+[Data](articles/936f38e8.json)
+
+---
+
+### අමෙරිකාව සමග එකඟවූ කරුණු හෙළි කළ නොහැකි බව නියෝජ්‍ය ඇමති කියයි
 
 *2025-07-17 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212348) · `si`
 
@@ -43,6 +79,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/90d16246.json)
+
+---
+
+### யாழ்ப்பாண மாநகரசபையின் திண்மக் கழிவகற்றல் நடவடிக்கைகளில் பெரும் ஊழல் மோசடிகள் - உறுப்பினர் கபிலன்
+
+*2025-07-17 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220212) · `ta`
+
+யாழ்ப்பாணம் மாநகரசபையின் திண்மக் கழிவகற்றல் செயற்பாட்டில் பெரும் ஊழல் மோசடிகள் இடம்பெற்று வருவதாக யாழ்ப்பாணம் மாநகர சபை அமர்வில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+அமர்வில், மாநகரசபை உறுப்பினர் ப. தர்சானந்த், திண்மக் கழிவகற்றல் செயற்பாடுகளில் 16 உழவி இயந்திரங்கள் வாடகை அடிப்படையில் செயல்படுகின்றன என்றும், அவற்றுக்கான மாதாந்த வாடகை ரூபா. 50 லட்சம், வருடாந்த வாடகை ரூபா. 6 கோடி செலவாகும் என்றும் தெரிவித்தார்.
+
+அவர், மாநகரசபைக்கு சொந்தமான வாகனங்கள் பழுதுபட்டதால் இயங்காமல் உள்ளன,  அந்தப் பழுதைச் சரிசெய்வதை விடுத்து, அதைவிடப் பலமடங்கு தொகையை வாடகைக்காகச் செலவிடுவது யாழ்ப்பாணம் மாநகரசபையின் பணத்தை தேவையற்றுச் செலவழிக்கும் செயற்பாடாக அமைவதுடன், இதில் ஊழல் மோசடிகள் உள்ளதாகவும் சந்தேகப்படுகின்றோம் என்றார்.
+
+மேலும், உறுப்பினர் சுவீகரன் நிஷாந்தன் தெரிவித்தபடி, சில சொந்த கழிவகற்றல் வாகனங்கள் குறுகிய இடங்களில் மட்டுமே சேவை புரிந்து வருவதால் தொலைதூர சேவைக்காக வாடகை வாகனங்கள் பயன்படுத்தப்படுகின்றன. இது மோசடிகளோடு தொடர்புடையதாக இருக்க வாய்ப்பு உள்ளது.
+
+...
+
+[Data](articles/73f61498.json)
 
 ---
 
@@ -140,6 +194,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Danish woman nabbed with ‘Kush’ worth over Rs. 50 million at BIA
+
+*2025-07-17 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110568/danish-woman-nabbed-with-kush-worth-over-rs-50-million-at-bia) · `en`
+
+A Danish national woman has been arrested at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a consignment of Kush cannabis, estimated to be worth over Rs. 50 million, into the country.
+
+According to the Airport Unit of the Police Narcotics Bureau (PNB), a total of 5 kilograms and 356 grams of Kush cannabis was found carefully concealed inside 25 food packets in her luggage.
+
+The 23-year-old passenger, a citizen of Denmark, had arrived at BIA from Chennai last night (July 16) and she had reportedly traveled from Bangkok to Chennai before flying to Sri Lanka.
+
+The suspect was intercepted while attempting to exit through the ‘Green Channel’ at BIA, where the cannabis was detected in her luggage.
+
+The arrested suspect is scheduled to be produced before the Negombo Magistrate’s Court today (July 17).
+
+◼️
+
+[Data](articles/a46fd7f9.json)
+
+---
+
 ### සම්බාහන මධ්‍යස්ථානයකට ගොස් යකා නැටූ SIලාගේ වැඩ තහනම්
 
 *2025-07-17 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212346) · `si`
@@ -154,13 +228,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව පොලීසියේ විනය පවත්වා ගැනිමට හානිවන අයුරින් හැසිරීම, පොලිස් නිලධාරියෙකු ලෙස තම නිලය පෞද්ගලික ප්‍රයෝජනය සඳහා යොදා ගැනීම යන වැරදි මත අපකීර්තිදායක හැසිරීම හා දුෂිත ක්‍රියා යන චෝදනා හේතුවෙන් අදාළ නිලධාරීන්ට මෙම නියෝග නිකුත් කෙරිණි.
 
-මෙම නිලධාරීන් කඹුරුපිටිය, තිහගොඩ සහ මාවරල යන පොලිස් ස්ථානවලට අනුයුක්තව සේවය කරන නිලධාරීන් බව සඳහන් වේ.
+මෙම නිලධාරීන් මාතර කොට්ඨාශ බුද්ධි ඒකකය, තිහගොඩ සහ මාවරල යන පොලිස් ස්ථානවලට අනුයුක්තව සේවය කරන උප පොලිස් පරීක්ෂකවරුන් බව සඳහන් වේ.
 
 මේ සම්බන්ධයෙන් මාතර පොලිස් අධිකාරි කාර්යාලය වැඩිදුර පරික්ෂණ කටයුතු සිදු කරයි.
 
 ◼️
 
 [Data](articles/1569cb90.json)
+
+---
+
+### அம்பாந்தோட்டை பறவைகள் பூங்கா உரிமையாளர் கைது
+
+*2025-07-17 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220207) · `ta`
+
+நாட்டுக்கு ஆடம்பர மோட்டார் சைக்கிள்களை சட்டவிரோதமாக இறக்குமதி செய்த குற்றச்சாட்டில் அம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸாரிடமிருந்து தப்பிச் சென்று பல நாட்களாக தலைமறைவாக இருந்த சந்தேகநபர் கொழும்பில் வைத்து கைது செய்யப்பட்டுள்ள நிலையில்,  இன்று வியாழக்கிழமை (17) நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளார்.
+
+முன்னதாக, பறவைகள் பூங்கா வளாகத்திலுள்ள கிடங்கு ஒன்றில் இருந்து எட்டு ஆடம்பர மோட்டார் சைக்கிள்கள் மற்றும் நான்கு க்ரூஸர் வகை மோட்டார் சைக்கிள்கள் உட்பட 21 சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட மோட்டார் சைக்கிள்களை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+இந்த வழங்கு தொடர்பாக பூங்காவின் முகாமையாளர் மற்றும் கிடங்கு மேற்பார்வையாளரும் கைது செய்யப்பட்டு 25 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1162e4dc.json)
 
 ---
 
@@ -623,6 +715,26 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 ◼️
 
 [Data](articles/c9fec490.json)
+
+---
+
+### ඉතිහාසයේ පළමු වතාවට ජීවිතාරක්ෂක ක්‍රීඩකයින්ට පොදු රාජ්‍ය මණ්ඩලීය රන් පදක්කමක්
+
+*2025-07-17 10:37:23* · [`adalk`](https://www.ada.lk/sports/ඉතිහාසයේ-පළමු-වතාවට-ජීවිතාරක්ෂක-ක්‍රීඩකයින්ට-පොදු-රාජ්‍ය-මණ්ඩලීය-රන්-පදක්කමක්/9-417350) · `si`
+
+එංගලන්තයේ පැවති 2025 පොදු රාජ්‍ය මණ්ඩලීය ජීවිතාරක්ෂක ශූරතා තරගාවලියේ දී ශ්‍රී ලංකාවට ජීවිතාරක්ෂක ඉසවකින් රන් පදක්කමක් හිමි කර ගැනීමට හැකි වී ඇති අතර එම රන් පදක්කම හිමි කර ගත් හිරුණ ද සිල්වා සහ මීදුම් මෙන්ඩිස් ක්‍රීඩකයින් දෙදෙනා 07/16 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ  වෙත පැමිණියහ.
+
+මෙම තරගාවලිය පොදු රාජ්‍ය මණ්ඩලීය රටවල් 32 ක ක්‍රීඩක ක්‍රීඩිකාවන් 75 දෙනෙකුගේ සහභාගීත්වයෙන් ඉකුත් 07/10 දින සිට 07/13 දින දක්වා එංගලන්තයේ වේල්ස් නුවර පවත්වා තිබුණි.
+
+ලෝකයේ වේගවත්ම ක්‍රීඩා ඉසව්වක් වන තත්පර 10 ක් ඇතුළත මීටර් 12.50 ක දියඹෙහි සිටින පුද්ගලයෙකු ගොඩට ඇද ගැනීමේ  " ලණුවක් මගින් ගලවා ගැනීම " ( Line Throw ) ඉසව්වට සහභාගී වූ හිරුණ ද සිල්වා සහ මීදුම් මෙන්ඩිස් මෙම ඉසව්ව තත්පර 09.98 ක කාළයකින් නිම කර මෙම රන් පදක්කම දිනා ගෙන තිබුණි.
+
+එසේම මෙම තරගාවලියේ දී හිරුණ ද සිල්වා " නැගී එන දක්ෂතම ක්‍රීඩකයාට '' හිමි සම්මානය ද හිමි කර ගැනීමට සමත් වී තිබුණි.
+
+මෙම ක්‍රීඩකයින් දෙදෙනා කොළඹ ආනන්ද විද්‍යාලයේ උසස් පෙළ විෂයයන් හදාරන සිසුන් වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/5c040372.json)
 
 ---
 
@@ -1691,95 +1803,5 @@ Partnering with one of the country’s most prestigious institutions demonstrate
 ...
 
 [Data](articles/9cee27d4.json)
-
----
-
-### ‘Union Bank Turbo-Draft – a smarter way to a bigger & better vehicle’
-
-*2025-07-16 23:40:00* · [`islandlk`](http://island.lk/union-bank-turbo-draft-a-smarter-way-to-a-bigger-better-vehicle/) · `en`
-
-Union Bank Turbo-Draft, is a customizable vehicle financing solution offering flexible payment terms and significantly reduced monthly instalments—making vehicle upgrades and purchase of premium vehicles more accessible to individual and businesses.
-
-Union Bank Turbo-Draft allows customers to tailor their payment plans up to 30 months and make smaller monthly payments and larger final payment at the end of the period, enabling customers to get a Bigger and Better vehicle for the same monthly payment. Union Bank Turbo Draft also provides smarter budget management and faster access to new vehicles.
-
-...
-
-[Data](articles/a4374fef.json)
-
----
-
-### HNB and Ideal Motors offer special deal on lease for Mahindra commercial vehicles
-
-*2025-07-16 23:39:00* · [`islandlk`](http://island.lk/hnb-and-ideal-motors-offer-special-deal-on-lease-for-mahindra-commercial-vehicles/) · `en`
-
-HNB PLC, Sri Lanka’s leading private sector bank, has entered into a strategic partnership with automotive major Ideal Motors (Pvt) Ltd to promote affordable leasing solutions for Mahindra Bolero City Pickups, ALFA Plus Load Carriers, Mahindra KUV AMTand Mahindra Powerol Generators. The partnership was formalized on May 15, 2025, with the aim of empowering micro, small, and medium enterprises (MSMEs) by facilitating access to essential commercial transport and power solutions.
-
-This collaboration strengthens HNB’s commitment to supporting the country’s backbone industries with flexible financing options tailored for Sri Lankan entrepreneurs. By extending attractive leasing facilities for these high-demand utility vehicles and generators, the initiative enhances productivity, mobility, and operational resilience for customers across sectors.
-
-Commenting on the partnership, HNB Senior Vice President and Head of Retail Banking, Kanchana Karunagama, said,
-
-...
-
-[Data](articles/c3d50ba7.json)
-
----
-
-### LOLC Finance Ran Savi revolutionizes gold loan top-ups with iPay
-
-*2025-07-16 23:38:00* · [`islandlk`](http://island.lk/lolc-finance-ran-savi-revolutionizes-gold-loan-top-ups-with-ipay/) · `en`
-
-LOLC Finance continues to lead the way in digital transformation with the launch of its latest enhancement to the Ran Savi Gold Loan facility. The new Ran Savi Gold Loan quick top-up facility via the iPay app provides customers with a simple, secure, and convenient way to manage their gold loans digitally. With this breakthrough feature, LOLC Finance customers can now top up their gold loans, pay interest, and check their balances from the comfort of their own homes, eliminating the need for in-branch visits and making gold loans more accessible than ever before.
-
-...
-
-[Data](articles/828a8b28.json)
-
----
-
-### Biggest crossing by a company on a particular day; turnover hits Rs 17 billion
-
-*2025-07-16 23:37:00* · [`islandlk`](http://island.lk/biggest-crossing-by-a-company-on-a-particular-day-turnover-hits-rs-17-billion/) · `en`
-
-CSE activities were dominated by HNB yesterday, because out of 53.1 percent (Non- Voting) shares held by Browns Investments, 38.5 million shares were sold to 207 investors by way of an arranged transaction or crossing, thus registering the biggest crossing made by a single company in a day, market analysts said.
-
-Browns Investments sold below the previous day’s market price of Rs 280, resulting in the market coming down despite the whopping turnover of Rs 17 billion, enabling the market to perform in a downward trend.
-
-The All Share Price Index went down by 61.3 points while S and P SL20 declined by 43.45 points. Turnover stood at Rs 17 billion with six crossings.
-
-...
-
-[Data](articles/5df933bf.json)
-
----
-
-### Turning connections into capital with BNI Sri Lanka
-
-*2025-07-16 23:36:55* · [`dailyftlk`](https://www.ft.lk/business/Turning-connections-into-capital-with-BNI-Sri-Lanka/34-779059) · `en`
-
-In a business landscape where meaningful connections have become the currency for growth, Business Network International (BNI) has built itself globally as one the most recognised and trusted models through its structured, referral-based networking. With a presence in 76 countries and over 340,000 members worldwide, BNI focuses on fostering professional connections and growth, and personal development for business leaders as well. In Sri Lanka too, the organisation has grown steadily in influence and impact, with a community of members from diverse entrepreneurial and business backgrounds coming together for collaboration and growth.
-
-BNI Sri Lanka Country Manager Glenn Lord recently sat down with Daily FT to discuss BNI’s growing role in Sri Lanka and share insights on the upcoming BNI Sri Lanka National Conference (SLNC 2025) set for 18 July.
-
-Q: What is the philosophy behind BNI, and how does it set BNI apart from other networking organisations?
-
-...
-
-[Data](articles/43283e94.json)
-
----
-
-### Shaping blueprint of exceptional workplaces: Great Place To Work unveils Sri Lanka’s 40 Best Workplaces for 2025
-
-*2025-07-16 23:35:57* · [`dailyftlk`](https://www.ft.lk/business/Shaping-blueprint-of-exceptional-workplaces-Great-Place-To-Work-unveils-Sri-Lanka-s-40-Best-Workplaces-for-2025/34-779058) · `en`
-
-In its 13th consecutive year of championing exceptional workplace culture, Great Place To Work Sri Lanka has officially unveiled its eagerly awaited list of the 40 Best Workplaces™ in Sri Lanka for 2025.
-
-The announcement follows a rigorous, year-long study conducted from April 2024 to March 2025, surveying over 78,000 employees across 170 organisations through 130 assessments, representing 20+ industries. With an impressive average response rate of 89%, the study continues to contribute to the world’s largest ongoing research on workplace culture.
-
-This year’s Best Workplaces are selected across four categories — Large, Medium, Small, and Micro — using the globally validated Great Place To Work For All methodology.
-
-...
-
-[Data](articles/1663806e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 14:36:57**
+As of **2025-07-17 14:50:39**
 
 ## Newspaper Stats
 
-*Scraped **65,213** Articles*
+*Scraped **65,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 582
 colombotelegraphcom | 663
 bbccomsinhala | 677
 islandlk | 3,982
-economynextcom | 3,991
+economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,258
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,213 articles have been extended.
+61,973 (95.0%) of 65,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/25a90b37.json)
+
+---
+
+### Sri Lanka Altair acquisition by Blackstone advised by TWC
+
+*2025-07-17 14:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-altair-acquisition-by-blackstone-advised-by-twc-231255/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s TWC Holdings said it provided advisory services to Blackstone, a private equity group in its acquisition of Altair Colombo via its take over of South City Mall in India.
+
+TWC Development Management (Pvt) Ltd, the real estate advisory arm of TWC Holdings, had provided technical due diligence, market analysis, regulatory review, and long-term asset strategy for the Colombo property.
+
+“As the new shareholders assume responsibility for Altair, our priority is to ensure the building continues to deliver value for its current and future residents,” Chief Operating Officer, T W C Development Management, Theekshana Jayarathna said in a statement.
+
+Designed by architect Moshe Safdie, built by the vehicle Indocean Developers (Pvt) Ltd, the Altair building has luxury apartments and a 33,000 square feet retail component and unsold units.
+
+TWC had provided research on the unsold inventory and value potential in Colombo’s high-end residential market. (Colombo/July17/2025)
+
+◼️
+
+[Data](articles/6350bea3.json)
 
 ---
 
@@ -523,6 +543,8 @@ Videos circulating on social media showed flames engulfing a five-storey buildin
 The cause of the fire was not immediately known, but the governor said initial results from an investigation would be announced within 48 hours, INA reported.
 
 “We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
+
+At least 50 people have been killed and dozens remain missing after a fire broke out early Thursday morning at a shopping mall in Iraq’s eastern Wasit province, according to Iraqi state media.READ MORE: https://t.co/oF0hGwnXzO pic.twitter.com/MoAdr0CXqR— Rudaw English (@RudawEnglish) July 17, 2025
 
 ◼️
 
@@ -1791,19 +1813,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ...
 
 [Data](articles/18a161f5.json)
-
----
-
-### 2026 ஆம் ஆண்டுக்கான பூர்வாங்க  வரவு செலவுத் திட்ட கலந்துரையாடல் ஆரம்பம்
-
-*2025-07-17 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220175) · `ta`
-
-2026 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட முன்மொழிவுகளை சமர்ப்பிப்பது தொடர்பான  பூர்வாங்கத்  வரவு செலவுத் திட்ட திட்டமிடல் மற்றும் அபிவிருத்திப் போக்குகள் தொடர்பாக ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் நிதி அமைச்சின் அதிகாரிகளுக்கு இடையிலான கலந்துரையாடல் புதன்கிழமை (16) பிற்பகல் ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.
-
-இதன்படி, எதிர்வரும் வரவு செலவுத் திட்டத்தை தயாரிப்பது தொடர்பான தற்போதைய நிலைமை குறித்து ஜனாதிபதி நிதியமைச்சின் அதிகாரிகளிடம் கேட்டறிந்ததுடன், வரவு செலவுத் திட்ட முன்மொழிவுகளைக் கோருவதற்கான சுற்றறிக்கை தற்போது வெளியிடப்பட்டுள்ளதாகவும், அந்தந்த நிறுவனங்கள் தொடர்பான வரவு செலவுத் திட்ட மதிப்பீடுகளை உரிய செலவின வரம்பிற்குள் சமர்ப்பிப்பதற்கு இம்மாதம் 31ஆம் திகதி வரை கால அவகாசம் வழங்கப்பட்டுள்ளதாகவும் நிதியமைச்சின் அதிகாரிகள் ஜனாதிபதியிடம் தெரிவித்தனர்.
-
-...
-
-[Data](articles/7393ab58.json)
 
 ---

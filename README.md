@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 02:06:05**
+As of **2025-07-18 02:19:45**
 
 ## Newspaper Stats
 
-*Scraped **65,294** Articles*
+*Scraped **65,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
 economynextcom | 3,997
-dailyftlk | 4,621
+dailyftlk | 4,624
 dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
@@ -26,11 +26,57 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,294 articles have been extended.
+61,973 (94.9%) of 65,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### Krishanthi Kumaraswamy tragedy and mass graves in Chemmani
+
+*2025-07-18 01:47:20* · [`dailyftlk`](https://www.ft.lk/columns/Krishanthi-Kumaraswamy-tragedy-and-mass-graves-in-Chemmani/4-779125) · `en`
+
+The Chemmani earth is speaking out again after so many years
+
+Chemmani, a sparsely populated area in the northern peninsula of Jaffna has in recent times acquired a somewhat dubious image. Just as Nallur in Jaffna is associated positively in public perception with the famous Kandasamy temple, Chemmani is associated negatively with mass graves. The long war between the Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam (LTTE) has resulted in innumerable instances of enforced disappearances and extrajudicial killings. The mass graves uncovered in Chemmani are symbolic proof of those disappearances and killings.
+
+In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy and the killing of her family. Rajapaksa revealed at his sentencing that between 300 and 400 Tamil civilians killed in 1996 were buried in the Chemmani area.
+
+...
+
+[Data](articles/c6f3f5df.json)
+
+---
+
+### Nation that lets its elephants die has lost its soul
+
+*2025-07-18 01:41:10* · [`dailyftlk`](https://www.ft.lk/columns/Nation-that-lets-its-elephants-die-has-lost-its-soul/4-779124) · `en`
+
+I write this with deep sadness and outrage. As of 15 June, 236 elephants have been killed this year alone, that’s more than one elephant every single day. And many of these deaths are not natural. They are brutal, painful, and preventable.
+
+This is not just a tragedy. This is a crime against our nation. We are losing one of our greatest treasures, our elephants, due to short-sighted decisions, political greed, and sheer negligence.
+
+Majority are Buddhist in this country. We speak of compassion. Our monks preach loving kindness. But what have we learned if we silently watch these magnificent beings suffer and die in agony? Isn’t this a direct insult to the Buddha’s teachings?
+
+...
+
+[Data](articles/994e947e.json)
+
+---
+
+### Ajit Jayaratne: Colossus among giants
+
+*2025-07-18 01:38:32* · [`dailyftlk`](https://www.ft.lk/opinion/Ajit-Jayaratne-Colossus-among-giants/14-779123) · `en`
+
+It is with profound sorrow that I pen these words in tribute to the late Ajit Jayaratne, a former Chairman of the Colombo Stock Exchange (CSE) during two tenures. Ajit, to his peers in the corporate sector and Mr. Jayaratne to all of us at the CSE, he served as Chairman of the CSE for five years from 1990-1993 and 1994-1996.
+
+Our paths crossed in November 1984 when I joined the Colombo Brokers’ Association Stock Market Trading Floor, a predecessor organisation of the CSE, as an Assistant to the Late Percy de Soysa the Consultant to the Board, to manage the Stock Market Trading floor which was open to the public. The birth of the Public Trading floor itself experienced ‘prolonged labour’ as every ‘who’s who’ in the corporate sector clamoured for a stake in the newly formed stock market considered a prestige in the business world. ‘Ugly’ is too mild a term to describe the ensuing battles.
+
+...
+
+[Data](articles/408085de.json)
+
+---
 
 ### Revolution outside:  Sri Lanka’s policy slumber
 
@@ -1797,47 +1843,5 @@ The arrested suspect is scheduled to be produced before the Negombo Magistrate�
 ◼️
 
 [Data](articles/1162e4dc.json)
-
----
-
-### Imported Sustainability: Rethinking Sri Lanka’s Paradoxical Wind Energy Ambitions
-
-*2025-07-17 12:05:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/imported-sustainability-rethinking-sri-lankas-paradoxical-wind-energy-ambitions/) · `en`
-
-I seriously doubt Sri Lanka has ever missed embracing any “lofty international goal” in its policy documents. The energy policies are no exception. The Sri Lanka National Energy Policy and Strategies of 2019 might be the most internationally aligned energy policy the country has ever had, endorsing the United Nations Sustainable Development Goals (SDGs) and Carbon Neutrality by 2050.
-
-This nicely written document aims to ensure clean and affordable energy, specifically following Goal 7 of the SDGs. Moreover, it claims to be founded on ten pillars to achieve a balance in the so-called Energy Trilemma: energy security, environmental sustainability, and energy equity. I do not think anyone could imagine any missing aspect within those ten pillars for achieving this delicate balance. And of course, the policy document lays out its implementation strategies and the results delivery framework brilliantly, and again, it is hard to imagine if anyone could spot a gap there.
-
-...
-
-[Data](articles/652ff15a.json)
-
----
-
-### ඉරාකයේ වෙළඳසැලක හට ගත් ගින්නකින් පුද්ගලයන් 50 ක් මරුට
-
-*2025-07-17 12:00:37* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාකයේ-වෙළඳසැලක-හට-ගත්-ගින්නකින්-පුද්ගලයන්-50-ක්-මරුට/11-417353) · `si`
-
-ඉරාකයේ වෙළඳසැලක හට ගත් ගින්නකින් පුද්ගලයන් 50 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ගින්න මේ වන විට නිවා දැමීමට කටයුතු කර ඇති අතර, මේ සම්බන්ධයෙන් විමර්ශනයක් සිදු කර පැය 48ක් ඇතුලත විමර්ශන වාර්තාව ලබා දෙන ලෙස එරට රජය අදාළ පාර්ශ වලට උපදෙස් ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-මෙම තත්ත්වයත් සමග ඉරාකයේ දින 03ක ශෝක කාලයක් ප්‍රකාශයට පත් කර තිබේ.
-
-◼️
-
-[Data](articles/f06063a8.json)
-
----
-
-### Trump’s Second Term & The Unravelling Of The Global Order
-
-*2025-07-17 11:57:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trumps-second-term-the-unravelling-of-the-global-order/) · `en`
-
-In feudal societies, laws were dictated by elites and enforced by lords. Justice was arbitrary, and exploitation rampant. The masses had no rights, independent institutions, or recourse against abuse. Modern democracy, civil rights, and a rules-based order emerged only with the shift from feudalism to capitalism. As nation-states and industrial economies rose, institutions were created to uphold law and order, first domestically, then internationally.
-
-...
-
-[Data](articles/8562f076.json)
 
 ---

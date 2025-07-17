@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 22:35:50**
+As of **2025-07-17 22:48:17**
 
 ## Newspaper Stats
 
-*Scraped **65,277** Articles*
+*Scraped **65,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
-economynextcom | 3,992
+economynextcom | 3,997
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,269
+adalk | 6,270
 adaderanalk | 7,965
 tamilmirrorlk | 9,353
 virakesarilk | 10,864
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,277 articles have been extended.
+61,973 (94.9%) of 65,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -306,6 +306,52 @@ A hospital spokesperson has stated that the baby is in good health.
 
 ---
 
+### Blackstone-backed Ventive exploring resort development in Sri Lanka
+
+*2025-07-17 18:37:00* · [`economynextcom`](https://economynext.com/blackstone-backed-ventive-exploring-resort-development-in-sri-lanka-231294/) · `en`
+
+ECONOMYNEXT – Ventive Hospitality Ltd, an India based company which owns and manages hotels and retail properties in South Asia, is exploring resort development in Sri Lanka, Director Thilan Wijesinghe was quoted as saying in a statement.
+
+Ventive Hospitality is backed by US-based Blackstone group and Panchshil group, also based in India.
+
+Wijesinghe’s TW Holdings had recently advised on a Blackstone acquisition of in Indian property group which promoted Sri Lanka’s Altair Holdings.
+
+“Ventive is actively exploring resort developments in Sri Lanka,”  statement from TW Holdings said.
+
+RELATED : Sri Lanka Altair acquisition by Blackstone advised by TWC
+
+Ventive Hospitlity is already developing an 80-room hotel in Sri Lanka’s Pottuvil, according to its website.
+
+Ventive Hospitality’s portfolio includes 11 operational hotel in India and the Maldives. Ventive also manages 3.4 million square feet of commercial and retail space. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/9af39b47.json)
+
+---
+
+### Sri Lanka in talks for duty free access to over 800 goods to US: report
+
+*2025-07-17 18:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-for-duty-free-access-to-over-800-goods-to-us-report-231314/) · `en`
+
+ECONOMYNEXT – Sri Lanka is discussing a list of 1,161 items where the US has offered duty free access for for 70 to 80 percent of them, as part of ongoing tariff talks, Deputy Minister for Economic Development, Anil Jayantha Fernando said in a television talk show.
+
+The US has presented the list for discussions which included 42 agricultural items, he said in an interview with Sri Lanka’s Derana Television.
+
+Apparel was also included in the list, he said, without elaborating whether apparel was included in the duty-free list.
+
+But before the Trump tariff Sri Lanka was already paying taxes ranging from 7.5 percent to 16.5 percent on apparel exported to the US.
+
+Minister Jayantha he could not disclose individual items or specific details of the talks as there were diplomatic exchanges going on, but after an agreement is finalized, details will be made public.
+
+Many imports to the US are charged low rates of around 3 to 5 percent.
+
+...
+
+[Data](articles/c8482509.json)
+
+---
+
 ### President inaugurates wax museum at historic Ehelepola Walawwa in Kandy
 
 *2025-07-17 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110582/president-inaugurates-wax-museum-at-historic-ehelepola-walawwa-in-kandy) · `en`
@@ -333,6 +379,26 @@ The museum features wax recreations depicting the architecture, customs and arts
 ◼️
 
 [Data](articles/0d50d3a6.json)
+
+---
+
+### හෙද නිලධාරීන්ගේ විශ්‍රාම වයස අවුරුදු 60ක් බව ‍ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
+
+*2025-07-17 18:16:31* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-නිලධාරීන්ගේ-විශ්‍රාම-වයස-අවුරුදු-60ක්-බව-‍ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-417366) · `si`
+
+රජයේ රෝහල්වල සේවය කරන හෙද නිලධාරීන් අවුරුදු 60 දී අනිවාර්ය විශ්‍රාම ගැන්වීමට රජය ගෙන තිබූ තීරණය ශ්‍රේෂ්ඨාධිකරණය අද (17) තහවුරු කළේය.
+
+රාජ්‍ය සේවයේ නියුතු ශ්‍රේණි හතරක හෙද නිලධාරීන් වයස අවුරුදු 60 දී අනිවාර්ය විශ්‍රාම ගැන්වීමට රජය ගෙන තිබූ තීරණය ක්‍රියාත්මක කිරීම වළකාලමින් අභියාචනාධිකරණය නිකුත් කර තිබූ අතුරු තහනම් නියෝගය  බලරහිත කරමින් ශ්‍රේෂ්ඨාධිකරණය ප්‍රකාශයට පත්කළ තීන්දුවක් මඟින් රජයේ තීරණය ශ්‍රේෂ්ඨාධිකරණය එලෙස තහවුරු කළේය.
+
+නීතිපතිවරයා ගොනු කළ අභියාචන පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙසේ නියෝග කරනු ලැබීය”
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන යසන්ත කෝදාගොඩ, ජනක් ද සිල්වා, සහ දිලිප් නවාස් යන විනිසුරු මඩුල්ල හමුවේ මෙම අභියාචන පෙත්සම සලකා බැලිණී.
+
+නීතිපතිවරයා ගොනු කළ මෙම අභියාචන පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් රාජ්‍ය සේවා එක්සත් හෙද සංගමය, එහි සභාපති මුරුත්තෙට්ටුවේ ආනන්ද හිමියන්, ජාතික රෝහලේ ප්‍රධාන හෙද නිලධාරිනී පුෂ්පා රම්‍යා ද සොයිසා ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/72ff3a44.json)
 
 ---
 
@@ -526,6 +592,32 @@ The petition was taken up before a Supreme Court bench comprising Justices Mahin
 
 ---
 
+### Sri Lanka rupee weakens against dollar, bonds flat
+
+*2025-07-17 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-flat-231288/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.58/70 to the US dollar Thursday, in the spot market Thursday down from 301.40/50 to the dollar, a day earlier while bond yields were flat.
+
+Bond yields were flat, with investors awaiting the outcome of US tariff talks, dealers said.
+
+A bond maturing 15.12.2026 closed at 8.10/20 Thursday unchanged from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/50 down from 8.45/56 percent.
+
+A bond maturing on 15.12.2028 closed at 8.95/9.0 percent from 8.95/9.07 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/52 steady from 9.50/53 percent.
+
+A bond maturing on 15.12.2032 closed at 10.40/45 from 10.40/50 percent.
+
+A bond maturing on 15.09.2034 closed at 10.85/95 from 10.84/95 percent.  (Colombo/July17/2025)
+
+◼️
+
+[Data](articles/b5852fb8.json)
+
+---
+
 ### මැති ඇමතිවරුන්ට ගෙවූ නිවාස වන්දි නැවත අයකර ගැනීමට මූලික අයිතිවාසිකම් පෙත්සමක්
 
 *2025-07-17 16:47:18* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමතිවරුන්ට-ගෙවූ-නිවාස-වන්දි-නැවත-අයකර-ගැනීමට-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-417361) · `si`
@@ -539,6 +631,24 @@ The petition was taken up before a Supreme Court bench comprising Justices Mahin
 ...
 
 [Data](articles/ee212140.json)
+
+---
+
+### Sri Lanka stocks close marginally down after volatile session
+
+*2025-07-17 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-after-volatile-session-231257/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks closed marginally down after a volatile session with heavy selling in early trade amid profit taking by some investors, brokers said.
+
+Colombo’s broader All Share Price index (ASPI) declined 0.04 percent, or 8.11 points, to 18,876.85, on Thursday after falling almost 200 points at one time; while the S & P SL20 index of more liquid stocks, fell 0.69 percent, or 39.19 points, to close at 5,628.93.
+
+Turnover dipped to 6.8 billion rupees; while the share volume was 358,067,095.
+
+John Keells Holdings ended 0.30 rupees lower at 25.30; Commercial Bank, fell 2.00 rupees to 170.00; Melstacorp, ended 1.75 rupees weaker at 149.50; Sampath Bank, declined 1.00 rupees to 138.50; and NDB, dropped 1.25 rupees to close at 124.50 weighed down the ASPI.
+
+...
+
+[Data](articles/8b8b51ee.json)
 
 ---
 
@@ -1723,93 +1833,5 @@ At least 50 people have been killed and dozens remain missing after a fire broke
 ...
 
 [Data](articles/af2423eb.json)
-
----
-
-### வானிலை குறித்த சிவப்பு எச்சரிக்கை
-
-*2025-07-17 11:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலை-குறித்த-சிவப்பு-எச்சரிக்கை/175-361246) · `ta`
-
-புத்தளம் முதல் கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கடல் பகுதிகளில் காற்றின் வேகம் மணிக்கு 50 - 60 கிலோமீற்றர் வரை அதிகரிக்கும் என அறிவிக்கப்பட்டுள்ளது.
-
-குறித்தப்  பகுதிகளில் கடல் அவ்வப்போது கொந்தளிப்பாகவோ அல்லது மிகவும் கொந்தளிப்பாகவோ காணப்படும் என்று வானிலை அவதான நிலையம் கூறியுள்ளது.
-
-புத்தளத்திலிருந்து கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கடற்கரையோரக் கடல் பகுதிகளில் கடல் அலைகள் சுமார் 2.5 - 3.5 மீட்டர் உயரம் உயர வாய்ப்புள்ளதாக அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
-
-இதன் காரணமாக புத்தளம் முதல் கொழும்பு, காலி, ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான பகுதிகளில் கடல் அலைகள் நிலத்தை அடையும் வாய்ப்பு உள்ளது.
-
-◼️
-
-[Data](articles/14688f8d.json)
-
----
-
-### தோல் பராமரிப்பு பொருட்கள் குறித்து எச்சரிக்கை
-
-*2025-07-17 11:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோல்-பராமரிப்பு-பொருட்கள்-குறித்து-எச்சரிக்கை/175-361245) · `ta`
-
-சரியான மருத்துவ ஆலோசனை இல்லாமல் தோல் பராமரிப்புப் பொருட்களைப் ( products) பயன்படுத்துவதற்கு எதிராக சுகாதார அமைச்சகம் எச்சரித்துள்ளது,
-
-ஜூலை 8ஆம் திகதி உலக தோல் சுகாதார தினத்தைக் குறிக்கும் வகையில் சுகாதார மேம்பாட்டுப் பணியகம் புதன்கிழமை (16) அன்று நடத்திய செய்தியாளர் சந்திப்பின்போது இது விவாதிக்கப்பட்டுள்ளது.
-
-இந்தக் கலந்துரையாடலின் போது, கொழும்பு தேசிய மருத்துவமனையின் ஆலோசகர் தோல் மருத்துவர் டாக்டர் ஜனக அகரவிட்ட கூறியுள்ளதாவது,
-
-கடந்த பத்தாண்டுகளில் டைனியா வெர்சிகலர் எனப்படும் தோல் நோயின் பரவல் அதிகரித்து வருவதாகவும், நாட்டில் தோல் மருத்துவமனைகளுக்கு வருபவர்களில் சுமார் 20% பேர் இதனால் பாதிக்கப்படலாம் என்றும் விளக்கினார்.
-
-அவரது கூற்றுப்படி, நோய் பரவும் வேகம், நோயாளிகளின் எண்ணிக்கை மற்றும் மருந்துகளுக்கான பிரதிபலிப்பு அனைத்தும் மோசமடைந்துள்ளன. ஸ்டீராய்டுகளை தவறாகப் பயன்படுத்துவதே இந்த நிலைமைக்குக் காரணம்.
-
-...
-
-[Data](articles/8160f211.json)
-
----
-
-### හෝමාගමින් නාඳුනන මළ සිරුරක් හමුවෙයි
-
-*2025-07-17 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212344) · `si`
-
-හෝමගම පනාගොඩ සුහද මාවත ප්‍රදේශයේ නිවසක් අසල තිබී නාඳුනන පුද්ගලයෙකුගේ මළ සිරුරක් සොයාගෙන තිබේ.
-
-මෙය ඝාතනයක්ද, ස්වාභාවික මරණයක්ද යන්න පිළිබඳව මේ වන විට පරීක්ෂණ පවත්වන බව පොලීසිය වැඩිදුරටත් පැවසුවේය.
-
-◼️
-
-[Data](articles/fa2e03b9.json)
-
----
-
-### கெஹெலிய மற்றும் குடும்ப உறுப்பினர்களுக்கு எதிராக குற்றப்பத்திரிகை
-
-*2025-07-17 11:21:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலிய-மற்றும்-குடும்ப-உறுப்பினர்களுக்கு-எதிராக-குற்றப்பத்திரிகை/175-361244) · `ta`
-
-முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல, அவரது மனைவி, மூன்று மகள்கள் மற்றும் மருமகன் ஆகியோருக்கு எதிராக நிதி மோசடி குற்றச்சாட்டின் பேரில் இன்று (17) கொழும்பு மேல் நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டுள்ளது.
-
-இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட குற்றப்பத்திரிகைகள் கொழும்பு மேல் நீதிமன்ற நீதிபதி லங்கா ஜயரத்ன முன்னிலையில் ஒப்படைக்கப்பட்டன.
-
-இதனையடுத்து, தலா 50,000 ரூபாய் ரொக்கம் மற்றும் தலா 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீர பிணைகளில் விடுவிக்கப்பட்டுள்ளனர்.
-
-அதைத் தொடர்ந்து, அவர்களின் வெளிநாட்டுப் பயணங்களைத் தடைசெய்து, அவர்களின் கடவுச்சீட்டுகளைப் பறிமுதல் செய்ய நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-◼️
-
-[Data](articles/e6e6b414.json)
-
----
-
-### ”13 யானைகள் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெறுகின்றன”
-
-*2025-07-17 11:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-யானைகள்-துப்பாக்கிச்-சூட்டு-காயங்களுக்கு-சிகிச்சை-பெறுகின்றன/175-361243) · `ta`
-
-'பாதிய' யானையின் அதிர்ச்சியூட்டும் மரணத்தைத் தொடர்ந்து, இரண்டு யானைகள் உட்பட பதின்மூன்று யானைகள் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருவதாக வனவிலங்குத் திணைக்களம் நேற்று தெரிவித்தது.
-
-வனவிலங்கு பாதுகாப்புத் திணைக்கள வனவிலங்கு சுகாதார பணிப்பாளர் தாரகா பிரசாத் ஊடகவிலாளர் சந்திப்பில், அனுராதபுரத்தில் ஏழு யானைகளும், பொலன்னறுவையில் மூன்று யானைகளும், வவுனியாவில் ஒரு யானையும், தெற்கில் இரண்டு யானைகளும் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருவதாகக் கூறினார்.
-
-'பாதியவின்' மரணம் குறித்து தெளிவுபடுத்திய அவர், இரண்டு மாதங்களுக்கு முன்பு மே 18, 2025 அன்று வனவிலங்குத் திணைக்களத்திற்கு தகவல் தெரிவிக்கப்பட்டபோது 'பாதியவின்' துப்பாக்கிச் சூட்டு காயங்கள் ஏற்பட்டதாகவும், மே 19 அன்று கால்நடை மருத்துவர்கள் சம்பவ இடத்திற்கு வந்து சிகிச்சை அளித்ததாகவும் கூறினார்.
-
-பாதியவின்' முன் காலில் ஒரு கட்டியுடன் குணமடைந்த சில துப்பாக்கிச் சூட்டு காயங்களைத் தவிர, அதை பரிசோதித்தபோது திறந்த காயங்கள் எதுவும் இல்லை என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/39cc8026.json)
 
 ---

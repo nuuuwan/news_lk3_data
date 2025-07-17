@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 13:49:51**
+As of **2025-07-17 14:06:46**
 
 ## Newspaper Stats
 
-*Scraped **65,202** Articles*
+*Scraped **65,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 3,982
 economynextcom | 3,991
 dailyftlk | 4,616
 dailymirrorlk | 4,733
-adalk | 6,256
+adalk | 6,257
 adaderanalk | 7,948
-tamilmirrorlk | 9,339
+tamilmirrorlk | 9,341
 virakesarilk | 10,849
-adaderanasinhalalk | 11,203
+adaderanasinhalalk | 11,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,202 articles have been extended.
+61,973 (95.0%) of 65,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### රන් ගිනිඅවි සිද්ධියේ සැකකාරියට ඇප
+
+*2025-07-17 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212350) · `si`
+
+ඉකුත්දා කොළඹ ,හැව්ලොක් සිටි නිවාස සංකීර්ණයේ කාන්තාවක් සතුව තිබී රන් ආලේපිත ගිනිඅවියක් සොයා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි සැකකාරිය ඇප මත මුදාහරිණ ලෙස කොළඹ මහාධිකරණ නියම කර තිබේ.
+
+◼️
+
+[Data](articles/dfb18397.json)
+
+---
 
 ### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
 
@@ -49,6 +61,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a0eaf698.json)
+
+---
+
+### பங்களாதேஷில் மோதல்: 4 பேர் பலி; 50 பேருக்கு காயம்
+
+*2025-07-17 13:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-மோதல்-4-பேர்-பலி-50-பேருக்கு-காயம்/50-361256) · `ta`
+
+பங்களாதேஷில் ஷேக் ஹசீனா ஆதரவாளர்களுக்கும் பாதுகாப்புப் படையினருக்கும் இடையே நடந்த மோதலில் 4 பேர் உயிரிழந்தனர், 50-க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
+
+பங்களாதேஷத்தின் பிரதமராக இருந்த ஷேக் ஹசீனாவுக்கு எதிராக கடந்த ஆண்டு ஆகஸ்ட் மாதம் மாணவர்கள் நடத்திய போராட்டம் காரணமாக அவர் தனது பதவியை இழந்து, அங்கிருந்து தப்பி இந்தியாவில் தஞ்சம் அடைந்துள்ளார். போராட்டத்தில் ஈடுபட்ட மாணவர்கள் அமைப்பு சார்பில், நோபல் பரிசு பெற்ற முகம்மது யூனுஸ் இடைக்கால தலைவராக தேர்ந்தெடுக்கப்பட்டார். மாணவர்கள் பலர் அமைச்சர்களாக பொறுப்பேற்றனர்.
+
+பங்களாதேஷத்தின் அரசியலில் பெரும் மாற்றத்தை ஏற்படுத்திய இந்த நிகழ்வு ஓராண்டை நிறைவு செய்ய உள்ளதை முன்னிட்டு, மாணவர்களின் அரசியல் கட்சியான தேசிய குடிமக்கள் கட்சி சார்பில் இந்த மாதத்தில்( ஜூலை ) நாட்டின் பல்வேறு பகுதிகளில் பேரணிகள் நடத்தப்பட்டு வருகின்றன. அதன் ஒரு பகுதியாக,  கோபால்கஞ்ச் நகரில் பேரணி வியாழக்கிழமை (17) நடத்தப்பட்டது.
+
+...
+
+[Data](articles/c09cc491.json)
+
+---
+
+### வெள்ளை வேனில் கடத்தல் ; வெளியே குதித்து, தப்பிய சிறுவன்
+
+*2025-07-17 13:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளை-வேனில்-கடத்தல்-வெளியே-குதித்து-தப்பிய-சிறுவன்/175-361255) · `ta`
+
+கஹதுடுவ பகுதியில் வைத்து வெள்ளை வேனில் கடத்தப்பட்ட  15 வயதுடைய சிறுவன் இரத்தினபுரி பகுதியில் வைத்து வேனில் இருந்து குதித்து தப்பிச் சென்ற சம்பவம் புதன்கிழமை (16) அன்று இடம்பெற்றுள்ளது.
+
+சிறுவனை கடத்தியதாக கூறப்படும் நபர்களை கைது செய்ய சிறப்பு விசாரணை ஆரம்பித்துள்ளதாக கஹதுடுவ பொலிஸ் நிலைய உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+பிலியந்தலையில் உள்ள ஒரு தேசிய பாடசாலையில் தரம் 11 இல் கல்வி கற்கும் குறித்த சிறுவன், வெள்ளிக்கிழமை (16) மாலை 4.00 மணியளவில் பிரத்தியேக வகுப்பில் கலந்து கொள்வதற்காக தனது சைக்கிளில் சென்று கொண்டிருந்தபோது, கஹத்துடுவ மயானத்திற்கு அருகில் வைத்து வெள்ளை வேனில் வந்த குழுவினரால்   சைக்கிளுடன் கடத்தப்பட்டதாக பொலிஸாரிடம் சிறுவன் வாக்குமூலம் அளித்துள்ளார்.
+
+◼️
+
+[Data](articles/01d3215a.json)
 
 ---
 
@@ -371,6 +415,18 @@ The cause of the fire was not immediately known, but the governor said initial r
 ...
 
 [Data](articles/6cb5c283.json)
+
+---
+
+### දයාසිරිගෙන් හෙට සීඅයිඩීයට පැමිණිල්ලක්
+
+*2025-07-17 11:35:41* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගෙන්-හෙට-සීඅයිඩීයට-පැමිණිල්ලක්/11-417352) · `si`
+
+ඛනිජ තෙල් තොග ගබඩා පර්යන්ත සමාගමේ ඉන්ධන මෙදා හැරීම් පිළබඳව කරනු ලැබූ වෝහාරික විගණනයේ නිර්දේශ ක්‍රියාත්මක නොකිරීම හා ඉන්ධන බෙදා හැරීමේදී සිදුව ඇතැයි පැවැසෙන අක්‍රමිකතා සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා හෙට දිනයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවටපැමිණිල්ලක් ඉදිරිපත් කිරිමට නියමිතය.‍ හෙට පෙරවරුවේ මෙම පැමිණිල්ල ඉදිරිපත් කරන බව මන්ත්‍රිවරයා නි‍වේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/8075c439.json)
 
 ---
 
@@ -1733,75 +1789,5 @@ This year’s applicants can expect new and revised questions across categories,
 ...
 
 [Data](articles/acbf6d9c.json)
-
----
-
-### 2025-07-16 (Wednesday)
-
-### EDB initiates strategic dialogue with NIRDC to boost R&D in pharmaceutical sector
-
-*2025-07-16 23:56:27* · [`dailyftlk`](https://www.ft.lk/business/EDB-initiates-strategic-dialogue-with-NIRDC-to-boost-R-D-in-pharmaceutical-sector/34-779075) · `en`
-
-The Sri Lanka Export Development Board (EDB) initiated a constructive dialogue with the National Initiative for R&D Commercialisation (NIRDC) to explore avenues of support for strengthening the Sri Lankan pharmaceutical sector through Research and Development (R&D).
-
-The meeting took place on 7 July at the EDB premises, with the participation of private sector representatives from the pharmaceutical industry, NIRDC, and EDB.
-
-EDB Chairman Mangala Wijesinghe opened the discussion by outlining the measures taken to enhance export revenue, including the reactivation of the Export Development Council of Ministers (EDCM) after nearly three decades. He highlighted that the EDCM now provides a vital platform to address policy-level issues across sectors. He further emphasised the growing importance of developing the pharmaceutical industry through R&D and noted that the collaboration with the NIRDC is a timely and strategic step towards long-term export growth in the sector.
-
-...
-
-[Data](articles/8319326f.json)
-
----
-
-### Chronic impunctuality, haphazard time management: Silent assassins of Sri Lanka’s productivity
-
-*2025-07-16 23:54:19* · [`dailyftlk`](https://www.ft.lk/columns/Chronic-impunctuality-haphazard-time-management-Silent-assassins-of-Sri-Lanka-s-productivity/4-779074) · `en`
-
-When a leader arrives on time for a meeting, an appointment, or even a casual conversation, they communicate, without uttering a single word, that they value the time of those waiting
-
-Sri Lanka’s national leaders are notorious for not keeping to time. While individual politicians may vary in their adherence to schedules, the overall perception in Sri Lanka is that punctuality is not a common virtue among its political leaders. There are corporate leaders too who are guilty of the same. It is an area where significant improvement is desired by the public. ‘Sri Lankan time’ is a derogatory phrase often used in describing an event that is behind schedule. ‘Channelled’ medical specialists are the biggest miscreants in this respect. Their timekeeping is far from what is expected of professionals
-
-...
-
-[Data](articles/a5dc3455.json)
-
----
-
-### இரவில் மிகவும் அவதானமாக இருங்கள்
-
-*2025-07-16 23:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவில்-மிகவும்-அவதானமாக-இருங்கள்/175-361222) · `ta`
-
-முச்சக்கர வண்டியில் கொட்டாவ நகரிலிருந்து தலகல பகுதிக்குச் செல்லும் போது சாரதியைத் தாக்கி முச்சக்கர வண்டியை திருடிய சம்பவம் தொடர்பில் மொரகஹதென்ன பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-மேலும், சாரதியிடம் இருந்து 11 ஆயிரம் ரூபா பணம், இரண்டு கையடக்க தொலைபேசிகள் மற்றும் முச்சக்கர வண்டியின் ஆவணங்களையும் குறித்த குழு எடுத்துச் சென்றுள்ளது.
-
-குழந்தையை தூக்கிக்கொண்டு பெண்ணொருவர் இரு ஆண்களுடன் கொட்டாவ நகரிலிருந்து இரவு 9 மணியளவில் இந்த முச்சக்கர வண்டியில் ஏறி, தலகல பகுதிக்குச் செல்ல வேண்டுமென குறிப்பிட்டுள்ளார்.
-
-பின்னால் இருந்த ஒருவர் கைகளால் தனது கண்களை மூடிக்கொண்டு மிளகாய் தூள் போன்ற ஒன்றைப் பூசியதாக சாரதி பொலிஸாரிடம் தெரிவித்தார்.
-
-இதுபோன்ற கொள்ளை சம்பவங்கள் அவ்வப்போது நடப்பதாகவும், வாடகைக்கு முச்சக்கர வண்டிகளை செலுத்துபவர்கள் இரவில் மிகவும் அவதானமாக இருக்க வேண்டும் என்றும் பொலிஸார் தெரிவித்தனர்.R.
-
-◼️
-
-[Data](articles/10a015cd.json)
-
----
-
-### Royal College pioneers digital transformation of education by leveraging Sri Lanka’s first full-scale Passive Optical LAN solution in partnership with SLT-MOBITEL ENTERPRISE
-
-*2025-07-16 23:40:00* · [`islandlk`](http://island.lk/royal-college-pioneers-digital-transformation-of-education-by-leveraging-sri-lankas-first-full-scale-passive-optical-lan-solution-in-partnership-with-slt-mobitel-enterprise/) · `en`
-
-Heralding a new era in digital education, SLT-MOBITEL ENTERPRISE and Royal College recently collaborated over the trailblazing deployment of Sri Lanka’s first full-scale Passive Optical LAN (POL) solution powered by Gigabit Passive Optical Network (GPON) technology.
-
-Connecting learning spaces with robust, ultra-fast broadband, the project is designed to revolutionize teaching and learning practices, ensuring students and educators can thrive in an increasingly digital world.
-
-The agreement was signed between Janaka Abeysinghe, Chief Executive Officer, SLT Group, and Aruna Samarajewa, Secretary, Royal College Union, in the presence of several officials representing both organizations.
-
-Partnering with one of the country’s most prestigious institutions demonstrates SLT-MOBITEL ENTERPRISE’s dedication to advancing education through cutting-edge technology and reinforcing the company’s leadership in innovative solutions.
-
-...
-
-[Data](articles/9cee27d4.json)
 
 ---

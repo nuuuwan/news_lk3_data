@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 19:49:16**
+As of **2025-07-17 20:05:34**
 
 ## Newspaper Stats
 
-*Scraped **65,263** Articles*
+*Scraped **65,267** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 582
+dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
@@ -17,20 +17,40 @@ economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,265
-adaderanalk | 7,962
+adaderanalk | 7,963
 tamilmirrorlk | 9,353
-virakesarilk | 10,860
+virakesarilk | 10,862
 adaderanasinhalalk | 11,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,263 articles have been extended.
+61,973 (95.0%) of 65,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### தலைமன்னார் கடற்பரப்பில் கைது செய்யப்பட்ட 15 இந்திய மீனவர்கள் 31ஆம் திகதி வரை விளக்கமறியல்
+
+*2025-07-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220262) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்த நிலையில் கைது செய்யப்பட்ட 15 இந்திய மீனவர்களையும் எதிர்வரும் 31திகதி வரை விளக்கமறியலில் வைக்க மன்னார் மாவட்ட நீதவான் வியாழக்கிழமை (17) உத்தரவிட்டுள்ளார்.
+
+கடந்த ஞாயிற்றுக்கிழமை (29) மற்றும் இம்மாதம் 01 திகதி அதிகாலை இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்துக் கொண்டிருந்த போது கடல் ரோந்து பணியில் ஈடுபட்ட இலங்கை கடற்படையினர் இரண்டு இந்திய இழுவைப் படகுகளையும் அதிலிருந்து 15 இந்திய மீனவர்களையும் கைது செய்தனர்.
+
+பின்னர் குறித்த மீனவர்களையும், இலுவைப் படகுகளையும் கடற்படையினர் தலைமன்னார் கடற் படையினரிடம் ஒப்படைத்தனர்.
+
+தலைமன்னார் கடற்படையினர் விசாரணைகளின் பின்னர் மன்னார் கடற்றொழில் திணைக்கள அதிகாரிகளிடம் நீதிமன்றத்தில் ஆஜர்படுத்திய நிலையில் குறித்த மீனவர்களை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்திருந்தார்.
+
+இந்த நிலையில் குறித்த வழக்கு இன்றைய தினம் வியாழக்கிழமை (17) மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.  இதன்போது    15 இந்திய மீனவர்களையும் எதிர்வரும் 31 ஆம் திகதி வரை விளக்கமறியலில் வைக்க  நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/ba166b14.json)
+
+---
 
 ### දිනක් වයසැති බිළිදෙකු වෙල්‍‍යායකින් සොයා ගනී
 
@@ -60,6 +80,32 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Newborn found abandoned in paddy field in Paragahadeniya
+
+*2025-07-17 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110583/newborn-found-abandoned-in-paddy-field-in-paragahadeniya) · `en`
+
+A newborn has been found abandoned in a paddy field in Paragahadeniya, Mawathagama earlier today, police stated.
+
+A local resident passing through the paddy field had noticed the newborn lying under a tree in the field.
+
+He subsequently informed the Mawathagama Police about the incident and police personnel arrived at the scene.
+
+Police personnel and area residents then took the baby from the location and admitted to the Mawathagama Divisional Hospital.
+
+A doctor who examined the infant had stated that the baby appeared to be one or two days old.
+
+After the initial examinations, Mawathagama hospital authorities transferred the baby to the Neonatal Intensive Care Unit (NICU) of the Kurunegala Teaching Hospital.
+
+It has not yet been revealed who abandoned the baby at that location.
+
+A hospital spokesperson has stated that the baby is in good health.
+
+◼️
+
+[Data](articles/fe07dd1d.json)
+
+---
+
 ### அம்மன் ஆலயத்திற்கு செல்ல இராணுவத்தினர் அனுமதி
 
 *2025-07-17 19:05:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்மன்-ஆலயத்திற்கு-செல்ல-இராணுவத்தினர்-அனுமதி/175-361276) · `ta`
@@ -71,6 +117,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b4b1cff1.json)
+
+---
+
+### முல்லைத்தீவு சின்னாற்றில் இருந்து சடலம் மீட்பு
+
+*2025-07-17 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/220261) · `ta`
+
+முல்லைத்தீவு நகர் பகுதியில் உள்ள சின்னாற்றுக்குள் உயிரிழந்த நிலையில் சடலம் வியாழக்கிழமை (17) மீட்கப்பட்டுள்ளது.
+
+சின்னாற்றுக்குள்  உயிரிழந்தவரின் சடலம் நீரில் மிதந்துள்ளது. அதனையடுத்து சம்பவம் தொடர்பில் முல்லைத்தீவு பொலிசாருக்கு தகவல் வழங்கப்பட்டதனை தொடர்ந்து முல்லைத்தீவு பொலிசார் சம்பவ இடத்திற்கு வருகைதந்து  உடலத்தினை மீட்டுள்ளார்கள்.
+
+குறித்த சம்பவத்தில் செல்வபுரம் பகுதியினை சேர்ந்த 54 அகவையுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார். சம்பவம் தொடர்பில் முல்லைத்தீவு பொலிசார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றார்கள்.
+
+◼️
+
+[Data](articles/be8dda0c.json)
 
 ---
 
@@ -1392,7 +1454,7 @@ The cause of the fire was not immediately known, but the province’s governor s
 
 “We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
 
-◼️
+...
 
 [Data](articles/b058a9c3.json)
 
@@ -1747,45 +1809,5 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 ...
 
 [Data](articles/864eaf0d.json)
-
----
-
-### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
-
-*2025-07-17 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-361236) · `ta`
-
-◼️
-
-[Data](articles/78b67307.json)
-
----
-
-### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
-
-*2025-07-17 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/175-361236) · `ta`
-
-◼️
-
-[Data](articles/b24fe5aa.json)
-
----
-
-### பறவை பூங்காவின் உரிமையாளர் கைது
-
-*2025-07-17 10:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பறவை-பூங்காவின்-உரிமையாளர்-கைது/93-361235) · `ta`
-
-இலங்கைக்கு ஆடம்பர மோட்டார் சைக்கிள்களை சட்டவிரோதமாக இறக்குமதி செய்ததாக ஹம்பாந்தோட்டை பறவை பூங்காவின் உரிமையாளர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பல நாட்களாக பொலிஸாரிடமிருந்து தலைமறைவாகியிருந்த  சந்தேக நபர் கொழும்பில் கைது செய்யப்பட்டு இன்று (17) நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார்.
-
-முன்னதாக, பறவை பூங்கா வளாகத்தில் அமைந்துள்ள ஒரு களஞ்சியசாலையில் இருந்து எட்டு சொகுசு பைக்குகள் மற்றும் நான்கு முச்சக்கர வண்டி வகை மோட்டார் சைக்கிள்கள் உட்பட சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 21 மோட்டார் சைக்கிள்களை பொலிஸார் பறிமுதல் செய்தனர்.
-
-இந்த வழக்கு தொடர்பாக பூங்காவின் மேலாளர் மற்றும் களஞ்சிய  மேற்பார்வையாளர் முன்பு கைது செய்யப்பட்டு ஜூலை 25 வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-கைப்பற்றப்பட்ட மோட்டார் சைக்கிள்களின் மதிப்பு ரூ. 200 மில்லியனுக்கும் அதிகமாகும், மேலும் சந்தேக நபர்கள் சட்டவிரோத வாகன இறக்குமதியில் ஈடுபட்ட வரலாற்றைக் கொண்டுள்ளனர் என்பது விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/c9fec490.json)
 
 ---

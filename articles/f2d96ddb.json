@@ -1,0 +1,17 @@
+{
+  "newspaper_id": "dailyftlk",
+  "url": "https://www.ft.lk/business/H-One-secures-top-spot-at-Microsoft-Agentic-AI-Hackathon/34-778720",
+  "time_ut": 1751930613.0,
+  "original_lang": "en",
+  "original_title": "H One secures top spot at Microsoft Agentic AI Hackathon",
+  "original_body_lines": [
+    "H One, a leading innovator in enterprise AI solutions and a trusted Microsoft partner, has announced its victory at the regional Microsoft Agentic AI Hackathon.",
+    "Held in a hybrid format and featuring top talent from across the region, the event brought together pioneering minds in technology to showcase next-generation Artificial Intelligence (AI) solutions. Team H One emerged as the winner for Sri Lanka with two transformative innovations tackling challenges in the insurance and data analytics sectors.",
+    "The first solution, InsurGENT, reimagines the insurance claim experience through a fully automated, intelligent verification platform. Powered by Microsoft Azure AI, InsurGENT streamlines the handling of both medical and motor insurance claims by automating the review of handwritten prescriptions and repair estimates. This delivers a seamless digital experience for customers with 24/7 self-service, real-time claim updates, and faster resolution, while significantly reducing manual workloads and processing delays. For insurers, the benefits include increased accuracy, operational efficiency, and enhanced customer satisfaction.",
+    "Complementing this is Nexis Engine, a secure, AI-driven chatbot designed to democratise data access within organisations. Nexis Engine allows both technical and non-technical users to interact with databases using natural language, automatically translating queries into optimised SQL and providing real-time insights with built-in visualisations. Deployed securely via Azure AI Foundry, the solution prioritises data privacy while enabling faster, insight-driven decisions and reducing reliance on specialised data personnel.",
+    "InsurGENT and Nexis Engine will be published on the Microsoft Marketplace, making them available to customers worldwide.",
+    "H One CEO Venura Mendis said: \u201cThe Agentic AI Hackathon is an exciting event that fosters innovation and collaboration among the brightest technology leaders, driving advancements in AI solutions. By encouraging the development of innovative solutions, the hackathon significantly contributes to the technological growth and problem-solving capabilities of the community. We extend our heartfelt appreciation to the Microsoft team for their exceptional organisation of this event, which has created a conducive environment for innovation and community engagement.\u201d",
+    "Microsoft Sri Lanka and Maldives Country Manager Harsha Randeny said: \u201cH One\u2019s success at the Agentic AI Hackathon is a powerful reflection of the innovation emerging from Sri Lanka and the strength of our partner ecosystem. Their winning solutions demonstrate how Microsoft Azure AI can be strategically applied to solve real-world challenges and deliver meaningful business outcomes. We\u2019re proud to support partners like H One as they lead the way in shaping the region\u2019s AI transformation.\u201d",
+    "These pioneering solutions underscore H One\u2019s strong alignment with Microsoft\u2019s vision for AI and its ability to translate technological innovation into tangible business impact. The recognition from Microsoft further cements H One\u2019s position as a regional leader in enterprise AI innovation."
+  ]
+}

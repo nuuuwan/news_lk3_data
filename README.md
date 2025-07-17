@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 17:05:05**
+As of **2025-07-17 17:17:16**
 
 ## Newspaper Stats
 
-*Scraped **65,239** Articles*
+*Scraped **65,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,262
 adaderanalk | 7,956
-tamilmirrorlk | 9,348
+tamilmirrorlk | 9,349
 virakesarilk | 10,855
 adaderanasinhalalk | 11,210
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.0%) of 65,239 articles have been extended.
+61,973 (95.0%) of 65,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/37629d25.json)
+
+---
+
+### செம்மணிக்கு  எதிராக கொழும்பில் ஆர்ப்பாட்டம்
+
+*2025-07-17 16:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்கு-எதிராக-கொழும்பில்-ஆர்ப்பாட்டம்/175-361267) · `ta`
+
+செம்மணி படுகொலைக்கு எதிர்ப்பு தெரிவித்து வியாழக்கிழமை (17) இன்று பிற்பகல் 3 மணிக்கு கொழும்பு கோட்டை  ரயில் நிலைய முன்றலில் செம்மணி புதைகுழி விவகாரத்தை தென்னிலங்கையின் கவனத்திற்கு கொண்டு வரும் நோக்கில் சிவில் சமூகம், கவன ஈர்ப்பு ஆர்ப்பாட்டம் ஓன்றை முன்னெடுத்துள்ளது.
+
+முன்னெடுப்பட்டுள்ள ஆர்ப்பாட்டத்தில் தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசனும் கட்சியின் உறுப்பினர்களும் கலந்துக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/f9501d27.json)
 
 ---
 
@@ -1538,7 +1552,7 @@ Kalutara District MP Jagath Withana from the main opposition Samagi Jana Balaweg
 
 ---
 
-### Sri Lanka tax body to look into tax MP tax discrimination allegations: Minister
+### Sri Lanka Inland Revenue to look into MP tax discrimination allegations: Minister
 
 *2025-07-17 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-body-to-look-into-tax-mp-tax-discrimination-allegations-minister-231015/) · `en`
 
@@ -1779,23 +1793,5 @@ The Attorney General’s Department also expressed its views on the draft Bill b
 ◼️
 
 [Data](articles/5665b7d2.json)
-
----
-
-### Kandy Esala Perahera to take to the streets on July 30
-
-*2025-07-17 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110561/kandy-esala-perahera-to-take-to-the-streets-on-july-30) · `en`
-
-The Sri Dalada Esala Perahera of the Sacred Temple of the Tooth Relic in Kandy is scheduled to commence on July 25.
-
-The annual Kandy Perahera will commence with the ‘Kap planting’ ritual at the four main devalayas which will be followed by the five-day process of Ethul Perahera, , Diyawadana Nilame (Chief Custodian of Sri Dalada Maligawa) Pradeep Nilanga Dela said.
-
-Accordingly, the Kumbal Perahera and Randoli Perahera are scheduled to parade the streets for 10 days, starting from July 30.
-
-Meanwhile, Pradeep Nilanga Dela also stated that the shortage of elephants for the Esala Perahera has become a major concern.
-
-◼️
-
-[Data](articles/6e7036b7.json)
 
 ---

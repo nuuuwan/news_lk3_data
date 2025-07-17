@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 01:16:27**
+As of **2025-07-18 01:29:57**
 
 ## Newspaper Stats
 
-*Scraped **65,288** Articles*
+*Scraped **65,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,982
 economynextcom | 3,997
-dailyftlk | 4,618
+dailyftlk | 4,620
 dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,288 articles have been extended.
+61,973 (94.9%) of 65,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### Bye Bye Beijing: Your lessons are with me
+
+*2025-07-18 01:10:00* · [`dailyftlk`](https://www.ft.lk/columns/Bye-Bye-Beijing-Your-lessons-are-with-me/4-779119) · `en`
+
+I was born in 1961, which happened to be in Sri Lanka. Suppose my birth happened in China in that year. In that case, it is quite unlikely that my trajectory would have been to be a vegetarian. In 1961, China was suffering from one of the worst famines a country has ever suffered – three years of great famine. In such an environment, you do not have the luxury of exercising choices. As I leave after a three-month stay, I have experienced a China that to me is seen as plentiful, productive, powerful, and purposeful.
+
+...
+
+[Data](articles/e24f23ae.json)
+
+---
+
+### Pathfinder Foundation conducts diplomatic dialogue on energy independence and security
+
+*2025-07-18 01:05:33* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-conducts-diplomatic-dialogue-on-energy-independence-and-security/14-779118) · `en`
+
+Pathfinder Foundation Chairman Bernard Goonetilleke (centre) chairs the session, featuring a presentation by Sri Lanka Sustainable Energy Authority Director-General Harsha Wickramasinghe. Panellists include Ministry of Finance former Secretary Dr. R.H.S. Samarathunga, and Ceylon Petroleum Corporation former Chairman Saliya Wickramasuriya
+
+Representatives of diplomats and international organisations, government and non-governmental institutions, research bodies, and universities
+
+The Pathfinder Foundation hosted the sixth session of its “Dialogue with Diplomats” series, at the Courtyard by Marriott, Colombo. The session centred on the theme “Energy Independence and Security for Sri Lanka”.
+
+It brought together a distinguished gathering of diplomats, representatives from international organisations, key Sri Lankan government and non-governmental institutions, research bodies, and universities.
+
+...
+
+[Data](articles/f0198205.json)
+
+---
 
 ### Port City Colombo showcases investment potential at Sri Lanka Investor Trade and Tourism Forum 2025 in Malaysia
 
@@ -1811,45 +1841,5 @@ In feudal societies, laws were dictated by elites and enforced by lords. Justice
 ...
 
 [Data](articles/bad05b66.json)
-
----
-
-### Sri Lanka’s IOC unit profits down 38-pct in June
-
-*2025-07-17 11:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ioc-unit-profits-down-38-pct-in-june-231252/) · `en`
-
-ECONOMYNEXT – Profits at Lanka’s IOC, a unit of Indian Oil Corporation, fell 38 percent to 2.3 billion rupees in the June 2025 quarter from a year ago, with revenues and margins also shrinking, interim accounts show.
-
-Revenues fell 14.5 percent to 62.53 billion rupees, cost of sales fell 13.7 percent to 57.7 billion rupees, and gross profits fell 23 percent to 4.79 billion rupees.
-
-Finance income fell to 1.1 billion rupees from 1.3 billion rupees with pre-tax profits fell to 2.9 billion rupees from 4.5 billion rupees.
-
-Income tax provisions fell 582.2 million rupees from 786.9 million rupees. (Colombo/July17/2025)
-
-◼️
-
-[Data](articles/acd0daf2.json)
-
----
-
-### Fire at mall in Iraq leaves at least 60 dead
-
-*2025-07-17 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110567/fire-at-mall-in-iraq-leaves-at-least-60-dead-) · `en`
-
-A massive fire in a hypermarket in al-Kut city in eastern Iraq has left at least 60 people dead and 11 others missing, the city’s health authorities and two police sources told Reuters on Thursday.
-
-Videos circulating on social media showed flames engulfing a five-storey building in al-Kut overnight as firefighters tried to contain the blaze.
-
-“We have compiled a list of 59 victims whose identities have been confirmed, but one body was so badly burned that it has been extremely difficult to identify,” a city health official told Reuters.
-
-“We have more bodies that have not been recovered still under fire debris,” city official Ali al-Mayahi told Reuters.
-
-The cause of the fire was not immediately known, but the province’s governor said initial results from an investigation would be announced within 48 hours, the state news agency (INA)reported.
-
-“We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
-
-◼️
-
-[Data](articles/b058a9c3.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 20:20:47**
+As of **2025-07-17 20:32:39**
 
 ## Newspaper Stats
 
@@ -1502,7 +1502,7 @@ The cause of the fire was not immediately known, but the province’s governor s
 
 “We have filed lawsuits against the owner of the building and the mall,” INA quoted the governor as saying.
 
-...
+◼️
 
 [Data](articles/b058a9c3.json)
 

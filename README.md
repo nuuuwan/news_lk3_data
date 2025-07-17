@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 20:48:14**
+As of **2025-07-17 21:06:41**
 
 ## Newspaper Stats
 
-*Scraped **65,270** Articles*
+*Scraped **65,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,992
 dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,267
-adaderanalk | 7,963
+adaderanalk | 7,965
 tamilmirrorlk | 9,353
-virakesarilk | 10,863
-adaderanasinhalalk | 11,213
+virakesarilk | 10,864
+adaderanasinhalalk | 11,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,270 articles have been extended.
+61,973 (94.9%) of 65,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### Pope expresses sadness after Israeli strike on Gaza church kills three
+
+*2025-07-17 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110585/pope-expresses-sadness-after-israeli-strike-on-gaza-church-kills-three) · `en`
+
+Pope Leo XIV has renewed his call for a Gaza ceasefire after three people sheltering in the Catholic church in Gaza City were killed in an Israeli strike.
+
+A telegram said the Pope was “deeply saddened to learn of the loss of life and injury caused by the military attack” on the Holy Family Church.
+
+The Latin Patriarchate of Jerusalem, which oversees the church, said it was “struck by the Israeli army”. Nine other people were wounded, one of whom is in a critical condition in hospital. The parish priest was lightly injured.
+
+Israel’s foreign ministry said it regretted any harm to a religious site or uninvolved civilians and the Israeli military said the incident was under review.
+
+Many displaced families from Gaza’s small Christian community have been living in the church compound since the war began after their own homes were destroyed.
+
+While he was alive, the late Pope Francis called them on a near-daily basis.
+
+...
+
+[Data](articles/85cd2fa4.json)
+
+---
+
+### ජාතික - ආගමික - සාමාජීය සංවර්ධනය උදෙසා නොපසුබටව කටයුතු කරන බව ජනපති කියයි
+
+*2025-07-17 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212364) · `si`
+
+රජයේ කටයුතුවලදී මහා සංඝරත්නයේ අනුශාසනා අපේක්ෂා කරන බවත් ජාතික, ආගමික සහ සාමාජීය සංවර්ධනය උදෙසා සුදුසු ක්‍රියාමාර්ග ගැනීමට නොපසුබටව කටයුතු කරන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ, මල්වතු - අස්ගිරි උභය මහා විහාරයීය අනුනායක හිමිපාණන් වහන්සේ ඇතුළු කාරක මහා සංඝ සභික නායක ස්වාමින් වහන්සේලා සමග අද (17) පස්වරුවේ මහනුවර ජනාධිපති මන්දිරයේ පැවති සාකච්ඡාවේදීය.
+
+මල්වතු-අස්ගිරි මහා නායක හිමිපාණන් වහන්සේලාගේ අනුශාසනා පරිදි ශාසනික මෙන්ම, ජාතික සහ සාමාජීය වශයෙන් සුවිශේෂී කරුණු පිළිබඳ සාකච්ඡා කිරීම මෙහි අරමුණ විය.
+
+ශාසනික වශයෙන් උද්ගතව ඇති ගැටලු නිරාකරණය කරගැනීම සඳහා බෞද්ධ විහාර දේවාලගම් පනත ආදී විවිධ පනත්වලට කාලීන සංශෝධන ගෙන ඒමේ අවශ්‍යතාව සම්බන්ධයෙන් සහ භික්ෂු අධ්‍යාපනය සම්බන්ධයෙන් මෙහිදී මහා සංඝරත්නය විසින් ජනාධිපතිවරයාගේ අවධානය යොමු කරන ලදී.
+
+...
+
+[Data](articles/cc845113.json)
+
+---
+
+### தமிழ் திரைப்பட இயக்குநர் வேலு பிரபாகரன் உடல்நலக்குறைவால் காலமானார்
+
+*2025-07-17 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/220264) · `ta`
+
+தமிழ் திரைப்பட இயக்குநர் வேலு பிரபாகரன், கடந்த சில நாட்களாக உடல்நலக்குறைவால் பாதிக்கப்பட்டிருந்தார். இவர் ஒரு தனியார் மருத்துவமனையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்தார். ஆனால் சிகிச்சை பலனளிக்காத காரணத்தால், வியாழக்கிழமை (ஜூலை 17) மதியம் அவர் உயிரிழந்தார்.
+
+வேலு பிரபாகரன் 1980 ஆம் ஆண்டு வெளியான 'இவர்கள் வித்தியாசமானவர்கள்' என்ற படத்தின் மூலம், ஒளிப்பதிவாளராக தமிழ் சினிமாவில் அறிமுகமானவர் வேலு பிரபாகரன்.
+
+தொடர்ந்து, 1989 ஆம் ஆண்டு வெளியான நாளைய மனிதன் என்ற திரைப்படத்தின் மூலம், இயக்குநராக அவதாரம் எடுத்தார். அதைத்தொடர்ந்து, நெப்போலியன், சத்தியராஜ் உள்ளிட்ட பல்வேறு நடிகர்களை வைத்த படங்களை இயக்கியுள்ளார்.
+
+மேலும், வேலு பிரபாகரனின் காதல் கதை, ஒரு இயக்குனரின் காதல் டைரி, பீட்ஸா 3 என 10க்கும் மேற்பட்ட படங்களில் நடித்துள்ளார். கடைசியாக, கடந்த மே மாதம் வெளியான கஜானா திரைப்படத்தில் நடித்திருந்தார்.
+
+முன்னதாக, தமிழ் திரையுலகின் முதல் பெண் இயக்குநர் என கருதப்படும் ஜெயதேவி என்பவரை திருமணம் செய்து கொண்டார்.
+
+...
+
+[Data](articles/73903c50.json)
+
+---
+
+### AI to record Hansard reports and minutes of Parliament committee meetings?
+
+*2025-07-17 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110584/ai-to-record-hansard-reports-and-minutes-of-parliament-committee-meetings-) · `en`
+
+A pilot test of a secure Artificial Intelligence (AI) platform to modernize the system of preparing Hansard reports and minutes of committee meetings in Parliament has been conducted during a meeting of the Committee on Public Finance.
+
+Accordingly, the pilot test to modernize Parliament’s traditional handwritten Hansard recording system was conducted successfully during a meeting held under the chairmanship of Member of Parliament Dr. Harsha de Silva, the Department of Communication of Parliament said in a statement.
+
+It was tested with the agreement of the members of the committee.
+
+Meanwhile, during the meeting, the Committee on Public Finance also approved the Regulations under the Tea (Tax and control of export) Act, No. 16 of 1959.
+
+Furthermore, the Bills of Exchange (Amendment) Bill, intended to amend or repeal outdated provisions of the Bills of Exchange Ordinance No. 25 of 1927, was also discussed and approved by the committee during the meeting.
+
+◼️
+
+[Data](articles/b9b06e41.json)
+
+---
 
 ### செம்மணி படுகொலை :  வடக்கு மற்றும் கிழக்கில் இனப்படுகொலை நடந்தது என்பதை சர்வதேசம் ஏற்றுக்கொள்ள வேண்டும் - அருட்தந்தை சக்திவேல்
 
@@ -1735,71 +1815,5 @@ At least 50 people have been killed and dozens remain missing after a fire broke
 ◼️
 
 [Data](articles/c1c85b9a.json)
-
----
-
-### Indictments served on ex-Minister Keheliya and family
-
-*2025-07-17 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110566/indictments-served-on-ex-minister-keheliya-and-family-) · `en`
-
-Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa, their three daughters, and son-in-law have been indicted on charges of unlawfully acquiring assets, Ada Derana reporter said.
-
-The indictments were served before Colombo High Court Judge Lanka Jayaratne by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) under 43 charges.
-
-The defendants were subsequently each ordered to be released on a cash bail of Rs. 50,000 and two surety bails of Rs. 1 million each.
-
-The High Court Judge also imposed a travel ban on the defendants and ordered them to hand over their passports to the court.
-
-Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa and four other family members were arrested previously by CIABOC in connection with an investigation conducted under the Prevention of Money Laundering Act alleging that the defendants illegally acquired assets worth over Rs. 97 million.
-
-◼️
-
-[Data](articles/19d80ce9.json)
-
----
-
-### மருந்துகளை வாங்குவதற்கு புதிய விதிமுறைகள்
-
-*2025-07-17 10:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்துகளை-வாங்குவதற்கு-புதிய-விதிமுறைகள்/175-361239) · `ta`
-
-வெளி மருத்துவமனைகளில் இருந்து கிடைக்காத மருந்துகள் மற்றும் அறுவை சிகிச்சை பொருட்களை வாங்குவதற்கான புதிய விதிமுறைகளை கோடிட்டுக் காட்டும் சிறப்பு சுற்றறிக்கையை சுகாதார சேவைகள் இயக்குநர் ஜெனரல் டாக்டர் அசேல குணவர்தன  வெளியிட்டார்.
-
-டாக்டர் அசேல குணவர்தன திங்கட்கிழமை (16) அன்று வெளியிட்டுள்ள சுற்றறிக்கையிலேயே மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
-
-குறித்த சுற்றறிக்கையின்படி, மருத்துவமனையிலோ அல்லது மருத்துவ விநியோகப் பிரிவிலோ (MSD) தேவையான பொருள் கிடைக்கவில்லை என்பது உறுதிசெய்யப்பட்டால், நோயாளியின் சம்மதத்துடனும் நிறுவனத் தலைவரின் முழுப் பொறுப்பின் கீழும் மட்டுமே மருத்துவர்கள் வெளிப்புற கொள்முதல் செய்ய பரிந்துரைக்கலாம்.
-
-அனைத்து வெளிப்புற மருந்துச் சீட்டுகளும் முறையான மருத்துவ நெறிமுறைகளைப் பின்பற்ற வேண்டும் என்றும், நிறுவனத் தலைவர்கள் மருந்து கிடைப்பது குறித்து மருத்துவர்களுக்குத் தொடர்ந்து புதுப்பிக்க வேண்டும் என்றும் வழிகாட்டுதல்கள் வலியுறுத்துகின்றன.
-
-...
-
-[Data](articles/a768dbc4.json)
-
----
-
-### කෙහෙළිය, බිරිඳ, දියණියන් තිදෙනාට සහ බෑණාට අධි චෝදනා භාර දෙයි
-
-*2025-07-17 10:52:16* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය--බිරිඳ--දියණියන්-තිදෙනාට-සහ-බෑණාට-අධි-චෝදනා-භාර-දෙයි/11-417351) · `si`
-
-අයථා ලෙස වත්කම් උපයා ගැනීමේ චෝදනාව සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනාට සහ බෑණාට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අද (17දා) අධිචෝදනා භාර දෙනු ලැබිණි.
-
-◼️
-
-[Data](articles/203a259b.json)
-
----
-
-### Canadian PM backs Public Safety Minister over letters supporting Sri Lankan’s immigration case
-
-*2025-07-17 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110565/canadian-pm-backs-public-safety-minister-over-letters-supporting-sri-lankans-immigration-case) · `en`
-
-Canadian Prime Minister Mark Carney has expressed confidence in Public Safety Minister Gary Anandasangaree following a report that Anandasangaree, prior to becoming a minister, wrote letters supporting the immigration application of Senthuran Selvakumaran, a Sri Lankan man barred from Canada due to alleged affiliation with the Tamil Tigers.
-
-Anandasangaree, who denies Selvakumaran’s affiliation claims, stated he was acting as an MP for a constituent and has since recused himself from Sri Lanka-related matters as minister.
-
-Carney has expressed confidence in Public Safety Minister Gary Anandasangaree after a report that, before he became a minister, he supported an immigration application from a Sri Lankan whom federal officials had barred from entering Canada.
-
-...
-
-[Data](articles/36921a63.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-17 11:24:20**
+As of **2025-07-17 11:35:29**
 
 ## Newspaper Stats
 
-*Scraped **65,167** Articles*
+*Scraped **65,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,616
 dailymirrorlk | 4,733
 adalk | 6,252
 adaderanalk | 7,945
-tamilmirrorlk | 9,327
+tamilmirrorlk | 9,329
 virakesarilk | 10,842
 adaderanasinhalalk | 11,197
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (95.1%) of 65,167 articles have been extended.
+61,973 (95.1%) of 65,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-17 (Thursday)
+
+### ”13 யானைகள் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெறுகின்றன”
+
+*2025-07-17 11:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-யானைகள்-துப்பாக்கிச்-சூட்டு-காயங்களுக்கு-சிகிச்சை-பெறுகின்றன/175-361243) · `ta`
+
+'பாதிய' யானையின் அதிர்ச்சியூட்டும் மரணத்தைத் தொடர்ந்து, இரண்டு யானைகள் உட்பட பதின்மூன்று யானைகள் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருவதாக வனவிலங்குத் திணைக்களம் நேற்று தெரிவித்தது.
+
+வனவிலங்கு பாதுகாப்புத் திணைக்கள வனவிலங்கு சுகாதார பணிப்பாளர் தாரகா பிரசாத் ஊடகவிலாளர் சந்திப்பில், அனுராதபுரத்தில் ஏழு யானைகளும், பொலன்னறுவையில் மூன்று யானைகளும், வவுனியாவில் ஒரு யானையும், தெற்கில் இரண்டு யானைகளும் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருவதாகக் கூறினார்.
+
+'பாதியவின்' மரணம் குறித்து தெளிவுபடுத்திய அவர், இரண்டு மாதங்களுக்கு முன்பு மே 18, 2025 அன்று வனவிலங்குத் திணைக்களத்திற்கு தகவல் தெரிவிக்கப்பட்டபோது 'பாதியவின்' துப்பாக்கிச் சூட்டு காயங்கள் ஏற்பட்டதாகவும், மே 19 அன்று கால்நடை மருத்துவர்கள் சம்பவ இடத்திற்கு வந்து சிகிச்சை அளித்ததாகவும் கூறினார்.
+
+பாதியவின்' முன் காலில் ஒரு கட்டியுடன் குணமடைந்த சில துப்பாக்கிச் சூட்டு காயங்களைத் தவிர, அதை பரிசோதித்தபோது திறந்த காயங்கள் எதுவும் இல்லை என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/39cc8026.json)
+
+---
 
 ### திருத்தப்பட்ட மின்சார சட்டம் இன்று மறுஆய்வு
 
@@ -159,6 +177,16 @@ Carney has expressed confidence in Public Safety Minister Gary Anandasangaree af
 ◼️
 
 [Data](articles/718ee0c4.json)
+
+---
+
+### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
+
+*2025-07-17 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-361236) · `ta`
+
+◼️
+
+[Data](articles/78b67307.json)
 
 ---
 
@@ -1711,41 +1739,5 @@ Accordingly, the President inquired from the Ministry of Finance officials about
 ...
 
 [Data](articles/d0b823cf.json)
-
----
-
-### Police Constable arrested over ‘Ganemulla Sanjeewa’ murder released on bail
-
-*2025-07-16 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110552/police-constable-arrested-over-ganemulla-sanjeewa-murder-released-on-bail) · `en`
-
-The Colombo Magistrate’s Court has granted bail to Hasitha Roshan, a Constable attached to Athurugiriya Police, who was remanded in custody on suspicion of involvement in the murder of notorious drug trafficker and criminal gang leader Sanjeewa Kumara Samararathne, also known as “Ganemulla Sanjeewa,” inside the Hulftsdorp Court.
-
-The suspect was released on bail following an order issued by the Colombo High Court.
-
-Accordingly, Colombo Chief Magistrate Thanuja Lakmali Jayatunga ordered the suspect to be released on a cash bail of Rs. 50,000 and two surety bails of Rs. 2.5 million each. The suspect was also warned against influencing any of the witnesses in the case.
-
-He was arrested and remanded on suspicion of providing a vehicle and aiding the escape of the main suspect in the “Ganemulla Sanjeewa” murder.
-
-◼️
-
-[Data](articles/0a615775.json)
-
----
-
-### President urges Sports Ministry and associations to collaborate for international success
-
-*2025-07-16 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110551/president-urges-sports-ministry-and-associations-to-collaborate-for-international-success) · `en`
-
-President Anura Kumara Dissanayake emphasized the need for the Ministry of Sports and Sports Associations to collaborate on joint initiatives aimed at elevating Sri Lankan sports to the international stage.
-
-The President stressed that instead of isolated efforts such as merely distributing sports equipment, the focus must shift toward structured and impactful programmes that support long-term sports development, the President’s Media Division (PMD) said.
-
-The President made these remarks during a progress review meeting of the Ministry of Youth Affairs and Sports held this morning (16) at the Presidential Secretariat.
-
-The meeting reviewed the institutional progress of the Ministry of Sports, the National Youth Services Council and the National Youth Corps. The President was briefed on the current projects being implemented by these institutions and the programmes aimed at youth development across the country, the PMD added.
-
-...
-
-[Data](articles/733f21b1.json)
 
 ---

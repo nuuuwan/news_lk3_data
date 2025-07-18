@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 15:33:17**
+As of **2025-07-18 15:48:10**
 
 ## Newspaper Stats
 
-*Scraped **65,402** Articles*
+*Scraped **65,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailymirrorlk | 4,733
 adalk | 6,278
 adaderanalk | 7,980
 tamilmirrorlk | 9,375
-virakesarilk | 10,882
+virakesarilk | 10,883
 adaderanasinhalalk | 11,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,402 articles have been extended.
+61,973 (94.8%) of 65,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு
+
+*2025-07-18 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/220317) · `ta`
+
+இதனை தொடர்ந்து, ஹோட்டலின் பிரதான சமையலறையின் ஒரு பகுதியை கொழும்பு மாநகர சபையின் (CMC) பொது சுகாதார திணைக்களம் தற்காலிகமாக மூடுமாறு உத்தரவிட்டுள்ளது.
+
+இதனை தொடர்ந்து , ஹோட்டலில் வழங்கப்படும் உணவின் தரம் நிலை தொடர்பில் வாடிக்கையாளர்கள் இணையத்தில் பல முறைப்பாடுகளை பகிர்ந்துள்ளனர்.
+
+இதனை அடுத்து,  பொது சுகாதார திணைக்களம் விசாரணைகளை ஆரம்பித்து முன்னெச்சரிக்கை நடவடிக்கையாக ஹோட்டல் சமையலறையின் ஒரு பகுதியை தற்காலிகமாக மூடுமாறு ஹோட்டல் நிர்வாகத்திற்கு அறிவுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/f2d06441.json)
+
+---
 
 ### චන්ද්‍රාණි බණ්ඩාරට එරෙහි නඩුව ලබන 28දා කැඳවයි
 
@@ -1789,23 +1805,5 @@ The seminar will bring together professionals from legal, regulatory, ICT, and p
 ...
 
 [Data](articles/d35f34b0.json)
-
----
-
-### 2025-07-17 (Thursday)
-
-### Rotary District 3220 SL and Maldives partners with CSE
-
-*2025-07-17 22:27:00* · [`islandlk`](http://island.lk/rotary-district-3220-sl-and-maldives-partners-with-cse/) · `en`
-
-The Colombo Stock Exchange (CSE), in collaboration with Rotary District 3220 Sri Lanka & Maldives, hosted a special Market Opening Ceremony to mark the launch of the “Rotary SME Development Strategy 2025/26,” a programme aimed at enhancing the growth, visibility, and capital access of high-potential SMEs across Sri Lanka.
-
-Held at the CSE Trading Floor, the event featured the formal signing of a Letter of Intent (LOI) between Rotary District 3220 Sri Lanka & Maldives and CSE.
-
-The partnership will focus on identifying SMEs with strong growth potential and enabling their pathway to market readiness and potential listing on the Colombo Stock Exchange.
-
-...
-
-[Data](articles/6ed0f8f8.json)
 
 ---

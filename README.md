@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 19:50:30**
+As of **2025-07-18 20:05:39**
 
 ## Newspaper Stats
 
-*Scraped **65,439** Articles*
+*Scraped **65,441** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 583
-colombotelegraphcom | 665
+colombotelegraphcom | 667
 bbccomsinhala | 677
 islandlk | 3,993
 economynextcom | 4,009
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,439 articles have been extended.
+61,973 (94.7%) of 65,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -832,6 +832,20 @@ India and Pakistan are expected to launch their HPV vaccination programmes later
 
 ---
 
+### Points Leading To A Revolution In Education
+
+*2025-07-18 14:00:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/points-leading-to-a-revolution-in-education/) · `en`
+
+It is too noisy whether history as a subject should be in the school curriculum or not. Needless to say, one should know one’s own history, so that the same mistake does not repeat. However, Harini Amarasuriya, in the capacity of minister of education has denied the fact that history will be removed from the school curriculum. Moreover, new education reforms have made it mandatory to study subjects such as history, aesthetics and vocational studies. She has further said that focus is to produce a student not limited to a single field.
+
+It is very difficult to take revolutionary steps, especially in a field like education in Sri Lanka, being a country politically and religiously abused. We can recall how some famous Buddhist monks objected, when teenage students were going to be made aware of sex education. Being aware of one’s own body and the opposite sex was a taboo for them. This fact is raised here, to imply the extent to which education reforms have been lagging behind.
+
+...
+
+[Data](articles/d5d6d391.json)
+
+---
+
 ### நாயின் உயிரை காப்பாற்ற முயன்ற சிறுவன் விபத்தில் சிக்கி உயிரிழப்பு
 
 *2025-07-18 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220292) · `ta`
@@ -935,6 +949,24 @@ The importance of implementing various programmes for the capacity development o
 ...
 
 [Data](articles/b49d51e5.json)
+
+---
+
+### A Tax That Could Tarnish Our Gem Trade: Rethinking VAT On Foreign Gem Buyers
+
+*2025-07-18 13:47:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-tax-that-could-tarnish-our-gem-trade-rethinking-vat-on-foreign-gem-buyers/) · `en`
+
+Sri Lanka has long been a shining beacon in the global gem and jewellery trade. Our island’s rich heritage, skilled craftsmanship, and unmatched gem quality have drawn thousands of international buyers, collectors, and investors. For decades, the absence of sales tax on gem exports to foreign customers has helped sustain this delicate trade.
+
+However, the news that Value Added Tax (VAT) may soon be levied on gem sales to foreign buyers — even with the promise of a refund at the airport — poses a serious threat to this vital export industry.
+
+A gem or a piece of jewellery is not a basic necessity — it is a luxury, often bought after much thought and comparison. This makes pricing and convenience critical factors in the final decision.
+
+A foreign buyer purchasing gems worth $10,000 will have to pay an additional $1,800 upfront as VAT ( 18.%).
+
+...
+
+[Data](articles/6944ad73.json)
 
 ---
 
@@ -1807,37 +1839,5 @@ A 90 percent loan ceiling for electric vehicles has been removed. (Colombo/July1
 ◼️
 
 [Data](articles/d1d7781e.json)
-
----
-
-### “We cannot do this by dividing; we must all come together” – PM on education reforms
-
-*2025-07-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110591/we-cannot-do-this-by-dividing-we-must-all-come-together-pm-on-education-reforms) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that open discussions, suggestions, and criticisms based on factual information concerning the new education reforms are of great importance.
-
-The Prime Minister made these remarks yesterday (17) at a special program held at the Western Provincial Council Auditorium to raise awareness among education officials of the Western Province regarding the new education reforms, according to the Prime Minister’s Media Division.
-
-“It is clear through the ongoing public discourse that society is paying close attention to the new education reforms. There is significant public interest in this process. That is why many people are presenting various ideas, suggestions, and criticisms. This is a healthy sign, and through this, we can move forward toward better outcomes.
-
-...
-
-[Data](articles/40298453.json)
-
----
-
-### நடிகைக்கு ஓராண்டு சிறைத் தண்டனை
-
-*2025-07-18 08:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகைக்கு-ஓராண்டு-சிறைத்-தண்டனை/175-361296) · `ta`
-
-தங்க கடத்​தல் வழக்​கில் நடிகை ரன்யா ராவுக்கு பிணையில் வெளியே வர முடி​யாத, ஓராண்டு சிறை தண்டனை விதித்து பெங்​களூர் சிறப்பு நீதி​மன்​றம் உத்​த‌ர​விட்​டுள்​ள‌து.
-
-கர்​நாடக பொலிஸ் டி.ஜி.பி. ராமசந்​திர ராவின் வளர்ப்பு மகளும், நடிகை​யு​மான‌ ரன்யா ராவ் (வயது 32) டுபா​யில் இருந்து 14.8 கிலோ தங்​கம் கடத்தி வந்​த​தாக‌ கடந்த மார்ச்​சில் பெங்​களூர் சர்​வ​தேச விமான நிலை​யத்​தில் கைது செய்​யப்​பட்​டார்.
-
-அவரது வீட்​டில் நடத்​திய சோதனை​யில் 2.8 கோடி இந்திய ரூபா மதிப்​பிலான தங்​க​மும், 2.4 கோடி இந்திய ரூபா ரொக்​க​மும் சிக்​கின. வரு​வாய் புல​னாய்வு இயக்குநரக அதி​காரி​கள், அவர் மீது சட்​ட​விரோத தங்க கடத்​தல் மற்​றும் அந்​நிய செலா​வணி மோசடி ஆகிய சட்டப்​பிரிவு​களில் வழக்​குப்​ப​திவு செய்​தனர். இவ்​வழக்கு பெங்​களூரு​வில் உள்ள பொருளா​தார குற்​றங்​களுக்​கான சிறப்பு நீதி​மன்​றத்​தில் நடை​பெற்று வந்​தது.
-
-...
-
-[Data](articles/8a470b47.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 07:17:14**
+As of **2025-07-18 08:12:35**
 
 ## Newspaper Stats
 
-*Scraped **65,328** Articles*
+*Scraped **65,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 3,997
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,270
-adaderanalk | 7,968
-tamilmirrorlk | 9,355
+adaderanalk | 7,970
+tamilmirrorlk | 9,356
 virakesarilk | 10,871
-adaderanasinhalalk | 11,216
+adaderanasinhalalk | 11,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,328 articles have been extended.
+61,973 (94.9%) of 65,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### රාත්‍රී කාලයේදීත් ආරුක්කු 9ය පාලම නැරඹීමට අවස්ථාව දෙන්න යයි
+
+*2025-07-18 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212368) · `si`
+
+ඇල්ල දෙමෝදර ආරුක්කු 9 පාලම හා ඒ අවට ප්‍රදේශය සංචාරකයින්ගේ ආකර්ෂණය වැඩි කරගැනීම සඳහා දුම්රිය දෙපාර්තමේන්තුව සහ මධ්‍යම සංස්කෘතික අරමුදල එක්වී නව වැඩපිළිවෙලක් ආරම්භ කර තිබේ.
+
+ඒ යටතේ එම ප්‍රදේශය විදුලි ආලෝක පහන් දල්වා රාත්‍රී කාලයේද සංචාරකයින්ට නැරඹීමට අවස්ථාව ලබාදීම මෙහි අරමුණ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ සම්බන්ධයෙන් අද දෙරණ කළ විමසිමකදී දුම්රිය සාමාන්‍යාධිනාරි ධම්මික ජයසුන්දර මහතා පැවසුවේ එළඹෙන අගෝස්තු මාසයේ සිට එම වැඩපිළිවෙළ ක්‍රියාත්මක කරන බවය.
+
+දුම්රිය මැදිරි යොදාගනිමින් නානුඔය දුම්රිය ස්ථානය ආසන්නයේ නිර්මාණය කර ඇති සංචාරක හෝටල් ව්‍යාපෘතිය සම්බන්ධයෙන්ද දුම්රිය සාමාන්‍යාධිනාරි ධම්මික ජයසුන්දර මහතා අදහස් පළ කළා.
+
+"මේක සකස් කරලා තියෙන්නේ සංචාරකයින්ට අලුත්ම අත්දැකීමක් ලබා දෙන්න. අගෝස්තු මාසයේ මුල වෙනවිට මේක සංවර්ධනය කරලා සංචාරකයින් සඳහා විවාත කරන්න බලාපොරොත්තු වෙනවා."
+
+◼️
+
+[Data](articles/d00f12a9.json)
+
+---
 
 ### අද පස්වරුවේ ගිගුරුම් සහිත වැසි
 
@@ -49,6 +69,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b2a9da8e.json)
+
+---
+
+### White House says Trump diagnosed with vein condition after questions about bruises
+
+*2025-07-18 06:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110590/white-house-says-trump-diagnosed-with-vein-condition-after-questions-about-bruises) · `en`
+
+Donald Trump is suffering from a chronic vein condition, the White House announced on Thursday, after days of speculation regarding photographs showing bruising on the US president’s hand.
+
+After recently experiencing swelling in his legs, Trump underwent a “comprehensive exam” including vascular testing, according to White House Press Secretary Karoline Leavitt.
+
+Leavitt said Trump’s bruised hand was consistent with “tissue damage from frequent handshaking” while taking aspirin, which she said is “part of a standard cardio-vascular prevention regimen”.
+
+Trump, 79, has regularly touted his good health and once described himself as “the healthiest president that’s ever lived”.
+
+The president’s recently discovered vein condition is called chronic venous insufficiency, which occurs when leg veins fail to pump blood to the heart, causing it to pool in the lower limbs, which can then become swollen.
+
+...
+
+[Data](articles/113c954e.json)
+
+---
+
+### Fairly heavy rainfall above 50 mm likely in some areas
+
+*2025-07-18 06:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110589/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas) · `en`
+
+Showers will occur at times in the Sabaragamuwa province and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (18), the Department of Meteorology said.
+
+Fairly heavy falls about 50 mm are likely at some places, the Met. Department noted.
+
+Several spells of showers may occur in the Western and North-western provinces.
+
+Showers or thundershowers are also likely in several places in the Uva, Northern and Eastern provinces during the afternoon or night.
+
+Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Western, Sabaragamuwa, Southern, North-western and North-central provinces.
+
+The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e2e6f047.json)
+
+---
+
+### ஆற்றிலிருந்து ஆணின் சடலம் மீட்பு
+
+*2025-07-18 04:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆற்றிலிருந்து-ஆணின்-சடலம்-மீட்பு/175-361292) · `ta`
+
+முல்லைத்தீவு நகரப் பகுதியில் சின்னாற்றில் ஆண் ஒருவரின் சடலம் நேற்று (17) மீட்கப்பட்டது.
+
+ஆற்றில் மிதந்த சடலம் தொடர்பில் முல்லைத்தீவுப் பொலிஸாருக்குத் தகவல் அளிக்கப்பட்டது. அங்கு வந்த பொலிஸார் சடலத்தை மீட்டனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் செல்வாபுரத்தை சேர்ந்த 54 வயது நபர் என்று அடையாளம் காணப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/9b4e9bd9.json)
 
 ---
 
@@ -1707,81 +1785,5 @@ The gold-plated T-56 assault rifle was discovered on May 20 inside the woman’s
 ...
 
 [Data](articles/40d2be7c.json)
-
----
-
-### කහවත්තේ වෙඩි තැබීමේ සිද්ධියට අත්අඩංගුවට ගත් දෙදෙනෙකු රිමාන්ඩ්
-
-*2025-07-17 15:04:36* · [`adalk`](https://www.ada.lk/breaking_news/කහවත්තේ-වෙඩි-තැබීමේ-සිද්ධියට-අත්අඩංගුවට-ගත්-දෙදෙනෙකු-රිමාන්ඩ්/11-417356) · `si`
-
-කහවත්ත ප්‍රදේශයේදී තරුණයෙකු දණගස්වා වෙඩි තබා ඝාතනය කර තවත් අයෙකුට තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත්  සිව් දෙනාගෙන් දෙදෙනෙකු ලබන 28 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියෝග කර තිබේ.
-
-ඔවුන් දෙදෙනා අද (17දා) පැල්මඩුල්ල අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
-
-◼️
-
-[Data](articles/07377bb7.json)
-
----
-
-### அரை நிர்வாண சுற்றுலாப் பயணி: ஆணா அல்லது பெண்ணா?
-
-*2025-07-17 15:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரை-நிர்வாண-சுற்றுலாப்-பயணி-ஆணா-அல்லது-பெண்ணா/175-361260) · `ta`
-
-அறுகம் விரிகுடாவில் தாய்லாந்து சுற்றுலாப் பயணி ஒருவருக்கு விதிக்கப்பட்ட தண்டனையைத் தொடர்ந்து, மேலாடையின்றி நடந்த சம்பவத்தில் நீதிமன்றம் பாலினத்தை எவ்வாறு விளக்கியது என்று சமூக ஊடகப் பதிவு கேள்வி எழுப்பியுள்ளது.
-
-26 வயதான தாய்லாந்து சுற்றுலாப் பயணிக்கு பொத்துவில் நீதவான் நீதிமன்றத்தால் ஐந்து ஆண்டு சிறைத்தண்டனை விதிக்கப்பட்டது.   அநாகரீகமான நடத்தை மற்றும் பொதுமக்களுக்கு இடையூறு விளைவித்த குற்றச்சாட்டில் குற்றத்தை அவர் ஒப்புக்கொண்டார்.
-
-பெண் என நீதிமன்றத்தில் அடையாளம் காணப்பட்ட நபர், சுற்றுலாப் பயணி ஒரு ஹோட்டல் அருகே மேலாடையின்றி நடப்பதைக் காட்டும் படங்கள் சமூக ஊடகங்களில் வெளியானதைத் தொடர்ந்து இந்த வார தொடக்கத்தில் கைது செய்யப்பட்டார்.
-
-இருப்பினும், ஆன்லைனில் பகிரப்பட்ட தாய்லாந்து நாட்டவரின் கடவுச்சீட்டில் புகைப்படம், "M" (ஆண்) என பட்டியலிடப்பட்ட பாலினத்தைக் காட்டியது மற்றும் "Mr." என குறிப்பிடப்பட்டுள்ளது.
-
-குறித்த கேள்விகளை எழுப்பியதை அடுத்து, நிலைமை புதிய திருப்பத்தை எடுத்துள்ளது, ஏனெனில் இலங்கை சட்டம் பொதுவில் ஆண்கள் சட்டையின்றி நடந்துகொள்வதை குற்றமாக்கவில்லை.
-
-◼️
-
-[Data](articles/8c112a24.json)
-
----
-
-### Donald Trump says India and US very close to finalising trade deal
-
-*2025-07-17 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110574/donald-trump-says-india-and-us-very-close-to-finalising-trade-deal) · `en`
-
-Washington and Delhi are “very close” to finalising a trade deal, US President Donald Trump has said, as high-level talks between the two sides continue.
-
-“We’re very close to a deal with India where they open it [the market] up,” Trump told reporters at the White house on Wednesday.
-
-Later in the day, he reiterated that the deal with India was “very close” when asked about upcoming trade agreements in an interview with broadcaster Real America’s Voice.
-
-India and the US have been locked in intense negotiations over the past few months, aiming to reach an agreement before steep tariffs kick in.
-
-Trump had first announced 27% tariffs on Indian goods in 2 April as part of a wider trade policy move. While the tariffs were initially paused until 9 July, the US later extended the deadline to 1 August.
-
-An Indian delegation is in the US this week for discussions on the agreement, Reuters reported, citing sources in the Indian government.
-
-...
-
-[Data](articles/fbdcb5db.json)
-
----
-
-### Owner of Hambantota Bird Park arrested over illegal import of motorcycles
-
-*2025-07-17 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110573/owner-of-hambantota-bird-park-arrested-over-illegal-import-of-motorcycles) · `en`
-
-The owner of a Bird Park in Nagarawawa, Hambantota, has been arrested today (17) by a special police team for allegedly concealing illegally imported motorcycles in a warehouse.
-
-On July 12, police officers attached to the CCIB took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
-
-The raid was carried out by a team of officers, including the Director of the CCIB, Superintendent of Police (SP) Kamal Ariyawansa, based on special information received by the Acting IGP.
-
-Police officers recovered 21 motorcycles, including high-capacity bikes, manufactured in foreign countries that are prohibited from being imported to Sri Lanka and were hidden in the bird feed warehouse at the Bird Park and Research Centre located in Nagarawewa, Hambantota.
-
-Police stated that one of these motorbikes alone is valued at more than Rs. 15 million.
-
-...
-
-[Data](articles/24187086.json)
 
 ---

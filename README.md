@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 00:07:11**
+As of **2025-07-19 00:25:06**
 
 ## Newspaper Stats
 
-*Scraped **65,457** Articles*
+*Scraped **65,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 667
 bbccomsinhala | 677
 islandlk | 3,993
 economynextcom | 4,009
-dailyftlk | 4,637
+dailyftlk | 4,640
 dailymirrorlk | 4,733
 adalk | 6,282
 adaderanalk | 7,987
-tamilmirrorlk | 9,381
+tamilmirrorlk | 9,382
 virakesarilk | 10,900
 adaderanasinhalalk | 11,245
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,457 articles have been extended.
+61,973 (94.7%) of 65,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### இலங்கையில் பாடசாலை மாணவிகளிடையே அதிகரிக்கும் கர்ப்பம்
+
+*2025-07-18 23:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பாடசாலை-மாணவிகளிடையே-அதிகரிக்கும்-கர்ப்பம்/175-361345) · `ta`
+
+சமீப காலமாக பாடசாலை மாணவிகளிடையே கர்ப்பம் தரிப்பது அதிகரித்து வருவதாக மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்துள்ளார்.
+
+இதற்கு தீர்வாக, கல்வி அமைச்சுடன் இணைந்து, இளம் பருவப் பெண்கள் மற்றும் பாடசாலை மாணவர்களுக்கு பாலியல் கல்வி மற்றும் விழிப்புணர்வு குறித்த சிறந்த புரிதலை வழங்குவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக அமைச்சர் குறிப்பிட்டார்.
+
+18 வயதுக்குட்பட்ட மாணவிகளின் கர்ப்பங்கள், அவர்களைப் பாதிக்கப்பட்டவர்களாக மாற்றுவதுடன், பல்வேறு சிக்கல்களை உருவாக்குகின்றன. இதனால், பெற்றோரின் கவனிப்பு இல்லாமல், எதிர்காலத்தில் சமூகத்தில் கைவிடப்பட்ட அல்லது அனாதையாக்கப்பட்ட குழந்தைகளின் பிறப்பு ஏற்படுகிறது.
+
+அனாதையாகவோ அல்லது கைவிடப்பட்டவர்களாகவோ சமூகத்தில் விடப்படும் குழந்தைகள், சமூக களங்கத்தையும், பாவத்தையும், சாபத்தையும் சுமக்க நேரிடுகிறது. எனவே, உறவு வைத்திருக்கலாம், ஆனால் பொறுப்பான குடும்ப உறவு இல்லாமல் குழந்தை பெறுவது சாத்தியமில்லை என்றால், கர்ப்பத்தைத் தடுக்க அறிவியல் முறைகளைப் பின்பற்ற வேண்டும்.
+
+...
+
+[Data](articles/6a23502a.json)
+
+---
+
+### Apology accepted, second visit against consensus view
+
+*2025-07-18 23:44:25* · [`dailyftlk`](https://www.ft.lk/opinion/Apology-accepted-second-visit-against-consensus-view/14-779186) · `en`
+
+Ranil Wickremesinghe during recent interview with Al Jazeera journalist Mehdi Hasan
+
+In a previous opinion piece (https://www.ft.lk/opinion/Against-the-consensus-view/14-723203) I wrote, “Wickremesinghe being a member of the government in the 1980s is unlikely to admit at best his Government’s blatant cowardice and at worst obvious complicity in the incidents that took place. In politics, you have to be pragmatic. The Tamil polity should build ties not with the policies but with the people of the JVP and form a united movement against the executive presidency.”
+
+This piece was dated 18 September 2021 appearing in print of the Daily FT. The reason print is so valuable is that people are more considered with their words than if they were just speaking.
+
+I will contend that Ranil Wickremesinghe basically did just this in his recent Al Jazeera interview. Over time as larger segments of the video get released he has even been able to turn this into a net positive in terms of votes.
+
+...
+
+[Data](articles/441b1995.json)
+
+---
+
+### Elusive definition: Terrorism without terror?
+
+*2025-07-18 23:17:01* · [`dailyftlk`](https://www.ft.lk/columns/Elusive-definition-Terrorism-without-terror/4-779178) · `en`
+
+Overbroad definitions of terrorism allow the State to harass individuals, especially critics of the government and civil society activists, and detain them for lengthy periods, thereby suppressing and discouraging criticism
+
+The dangers of an overly broad definition go beyond conviction and increased punishment. Special laws on terrorism allow deviations from standard laws in areas such as preventive detention, arrest, administrative detention, restrictions on judicial decisions regarding bail, lengthy pre-trial detention, the use of confessions, superadded punishments such as confiscation of property and cancellation of professional licences, banning organisations, and restrictions on publications, among others
+
+...
+
+[Data](articles/e4f04cb4.json)
+
+---
 
 ### இறப்பதற்கு முன்... முதலிரவுக் கட்டிலில் அழுகையுடன் எம்.ஜி.ஆர்
 
@@ -163,6 +213,20 @@ The FBI is responding to assist with the incident, according to the FBI’s Los 
 ...
 
 [Data](articles/eb3b0a82.json)
+
+---
+
+### Israel-Palestine conflict: Looking to future rather than past
+
+*2025-07-18 21:21:41* · [`dailyftlk`](https://www.ft.lk/columns/Israel-Palestine-conflict-Looking-to-future-rather-than-past/4-779177) · `en`
+
+A genuine long-term solution will require compromise from both sides and as Dr. Miller and Jodi Rudoren have said, a look to the future as a solution and not an ever-festering, challenged version of history as a path towards a solution
+
+Although unthinkable for those who are focused only on history, a possible futuristic conceptual solution might be to have a one State, federal union model where, Israel and Palestine operate as semi-autonomous regions with a federal government comprising both Israeli and Palestinians in equal share being elected as members of a federal parliament and regions within the federal State having their own elected assemblies with Israeli and Palestinian members based on their populations
+
+...
+
+[Data](articles/dd4de4f4.json)
 
 ---
 
@@ -1769,69 +1833,5 @@ By the time it came to July (2024) there were offers from investors but it was t
 ◼️
 
 [Data](articles/c32d3867.json)
-
----
-
-### ஸ்பா சென்ற மூன்று பொலிஸார் இடைநீக்கம்
-
-*2025-07-18 11:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பா-சென்ற-மூன்று-பொலிஸார்-இடைநீக்கம்/175-361299) · `ta`
-
-மாத்தறையின் வல்கம பகுதியில் உள்ள ஒரு பிரபலமான மசாஜ் நிலையத்திற்கு (ஸ்பா) சென்று நிர்வாகத்திற்கு தகாத ஆலோசனைகளை வழங்கி அங்கு சேவைகளைப் பெற முயன்ற மூன்று காவல் துணை ஆய்வாளர்களை காவல்துறை இடைநீக்கம் செய்துள்ளது என்று காவல்துறை தெரிவித்துள்ளது.
-
-மாத்தறை, மாவரல மற்றும் திஹகொட காவல் நிலையங்களைச் சேர்ந்த மூன்று காவல் துணை ஆய்வாளர்கள் இடைநீக்கம் செய்யப்பட்டுள்ளனர் என்று மூத்த காவல்துறை அதிகாரி ஒருவர் தெரிவித்தார்.
-
-இந்த மூவரும்   மேற்கூறிய இடத்திற்குச் சென்று மேலாளரிடம் இந்த ஆலோசனையை வழங்கி அங்கு சேவைகளைப் பெற முயன்றதாக காவல்துறை தெரிவித்துள்ளது.
-
-இது தொடர்பாக கிடைத்த புகாரின் அடிப்படையில் மாத்தறை உதவி காவல் கண்காணிப்பாளர் (1) விசாரணையைத் தொடங்கியுள்ளதாக மூத்த அதிகாரி தெரிவித்தார்.
-
-...
-
-[Data](articles/03e9e4d2.json)
-
----
-
-### දයාසිරි CIDයට
-
-*2025-07-18 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212373) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා අද (18) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
-
-ඛනිජ තෙල් සංස්ථාවේ සිදු වූ බව කියන වංචාවක් සම්බන්ධයෙන් පැමිණිල්ලක් ගොනු කිරීම සඳහා ඔහු මෙසේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණියේය.
-
-◼️
-
-[Data](articles/6b5f0ac0.json)
-
----
-
-### கொக்ரெல்லையைச் சேர்ந்த வெற்றியாளருக்கு ரூ.47 கோடி லொட்டரி பரிசு தொகை வழங்கி வைப்பு
-
-*2025-07-18 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220275) · `ta`
-
-இலங்கை வரலாற்றில் மிகப்பெரிய லொட்டரி பரிசு தொகையை வென்றவருக்கு 47 கோடி ரூபாய் மதிப்புள்ள காசோலையை தேசிய லொத்தர் சபை வழங்கியுள்ளது.
-
-மெகா பவர் 2210 ஆவது சீட்டிழுப்பில், 47 கோடியே 45 லட்சத்து 99 ஆயிரத்து 422 ரூபா சூப்பர் பரிசுடன் கூடிய வெற்றி பெற்ற லொட்டரி சீட்டை, கொக்கரெல்ல  பகுதியைச் சேர்ந்த விற்பனை முகவரான எச்.ஏ. ஜானகி ஹேமமாலா விற்பனை செய்துள்ளார்.
-
-தேசிய லொத்தர் சபை ஏற்பாடு செய்த விடேச நிகழ்வு ஒன்றில் கொழும்பு மேயர் வ்ராய் கெலி பல்தசாரினால் லொட்டரி பரிசை வென்ற நபருக்குரிய காசோலை உத்தியோகபூர்வமாக வழங்கப்பட்டுள்ளது.
-
-துணை மேயர் ஹேமந்த வீரகோன், தேசிய லொத்தர் சபை தலைவர் M.D.C.A. பெரேரா மற்றும் பொது முகாமையாளர் ஏ.எம். ஆரிஃப் ஆகியோரும் கலந்து கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/bb9580f6.json)
-
----
-
-### MP Dayasiri Jayasekara appears before CID
-
-*2025-07-18 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110596/mp-dayasiri-jayasekara-appears-before-cid) · `en`
-
-MP Dayasiri Jayasekara has appeared before the Criminal Investigation Department (CID) this morning (July 18), said Ada Derana reporter.
-
-It is reported that he arrived at the CID to file a complaint regarding an alleged fraud at the Ceylon Petroleum Corporation (CPC).
-
-◼️
-
-[Data](articles/d62facf4.json)
 
 ---

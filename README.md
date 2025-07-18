@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 18:09:05**
+As of **2025-07-18 18:32:40**
 
 ## Newspaper Stats
 
-*Scraped **65,423** Articles*
+*Scraped **65,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,993
 economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,279
+adalk | 6,280
 adaderanalk | 7,983
 tamilmirrorlk | 9,378
 virakesarilk | 10,891
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,423 articles have been extended.
+61,973 (94.7%) of 65,424 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f3505492.json)
+
+---
+
+### හෙට මිලි මීටර් 75ක වැස්සක්
+
+*2025-07-18 17:42:01* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-75ක-වැස්සක්/11-417377) · `si`
+
+බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව පළාතේ හා නුවරඑළිය, මහනුවර, ගාල්ල හා මාතර දිස්ත්‍රික්කවත් ඇතැම් ස්ථානවලට මි.මී. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව කියයි. වයඹ පළාතෙත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/7700ad7c.json)
 
 ---
 
@@ -1835,17 +1849,5 @@ The general public has been requested to take adequate precautions to minimize d
 ...
 
 [Data](articles/90ac6507.json)
-
----
-
-### Sri Lanka grapples surging crime amid economic recovery
-
-*2025-07-18 02:37:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-grapples-surging-crime-amid-economic-recovery/56-779156) · `en`
-
-Efforts to navigate economic recovery are juxtaposed against a persistent and, in some sectors, escalating crime landscape as the country reaches mid-2025. An analysis of reported data indicates notable shifts in the prevalence of various criminal activities since 2024, especially homicides, according to available data.
-
-...
-
-[Data](articles/c8b085e1.json)
 
 ---

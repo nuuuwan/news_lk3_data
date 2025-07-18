@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 22:06:48**
+As of **2025-07-18 22:23:15**
 
 ## Newspaper Stats
 
-*Scraped **65,450** Articles*
+*Scraped **65,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adalk | 6,282
 adaderanalk | 7,986
 tamilmirrorlk | 9,380
 virakesarilk | 10,898
-adaderanasinhalalk | 11,242
+adaderanasinhalalk | 11,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,450 articles have been extended.
+61,973 (94.7%) of 65,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### බිලිඳිය ගැන රජයෙන් තීරණයක්
+
+*2025-07-18 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212396) · `si`
+
+කුරුණෑගල මාවතගම වෙල්යායක අත්හැර දමාගිය බිලිඳියගේ භාරකාරීත්වය ලබාගැනීමට ඇගේ මව ඉදිරිපත් වුවහොත් අවශ්‍ය පහසුකම් සැපයීමට කාන්තා සහ ළමා කටයුතු අමාත්‍යංශය සූදානම් බව විෂයභාර අමාත්‍ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය අද (18) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී සඳහන් කළේය.
+
+මේ අතර කුරුණෑගල ශික්ෂණ රෝහලේ නොමේරු ළදරු ඒකකයේ ප්‍රතිකාර ලබන එම බිලිඳිය යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන බව රෝහල් ප්‍රකාශයෙකු 'අද දෙරණ'ට සඳහන් කළේය.
+
+කුරුණෑගල මාවතගම පරගහදෙණිය සිංහපුරපාර  ප්‍රදේශයේ වෙල්යායක ගසක් යට දමාගොස් සිටියදී බිලිඳියක් හමුවූයේ ඊයේ (17) පෙරවරුවේදීය.
+
+අනතුරුව පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව එම බිලිඳිය පළමුවෙන් මාවතගම රෝහලට ඇතුළත් කළේය.
+
+මේ අතර ඊයේ මෙම බිලිඳාව, පැලඳ සිටි ටී ෂර්ටය ගලවා ඉන් ආවරණය කර දෑතට ගත් පුද්ගලයා පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ දැඩි කතාබහක් නිර්මාණය වුණි.
+
+ඒ පොලීසියේ ඉල්ලීම මත බිලිඳියව අත්දෙකට ගැනීමට එම ස්ථානයේ සිටි කාන්තාවන් ඉදිරිපත් නොවීම හේතුවෙනි.
+
+ඕවත්තාවෙල, වෑ උඩ ප්‍රදේශයේදී පදිංචිකරුවෙකු වන P.A.චන්දන කුමාර ජයවර්ධන නැමැති මොහු වෘත්තියෙන් රියැදුරුවරයෙකි.
+
+...
+
+[Data](articles/d3481b68.json)
+
+---
+
+### 80 හැවිරිදි කාන්තාවකගේ මරණ දඬුවමක් අභියාචනාධිකරණය අවලංගු කරයි
+
+*2025-07-18 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212395) · `si`
+
+හම්බන්තොට මහාධිකරණය විසින් 80 හැවිරිදි කාන්තාවකට පනවා තිබූ මරණ දඬුවමක් අභියාචනාධිකරණය විසින් අද (18) බල රහිත කර තිබේ.
+
+1993 වසරේ සිදුවූ පුද්ගල ඝාතනයක් සම්බන්ධයෙන් විත්තිකාරියට එරෙහිව නීතිපතිවරයා විසින් හම්බන්තොට මහාධිකරණයේදී නඩු පවරා තිබුණි.
+
+අදාළ නඩුව හම්බන්තොට මහාධිකරණයෙදී විභාග වූ අවස්ථාවේදී පසුගිය 2023 වසරේදී හම්බන්තොට මහාධිකරණය විසින් ඇයට මරණීය දණ්ඩනය ලබා දී තිබේ.
+
+මීට එරෙහිව ඇය විසින් අභියාචනාධිකරණයට ඉදිරිපත් කර ඇති පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම තීන්දුව ලබා දී තිබේ.
+
+එහිදී අභියාචනාධිකරණය පෙන්වා දී ඇත්තේ ඇයට එරෙහිව ලබා දී ඇති සාක්ෂි පරස්පර තා ඇති බවත් සාක්ෂිවල විෂමතා ඇති බවත්ය.
+
+ඒ අනුව මරණ දඩුවම තහවුරු කළ නොහැකි බැවින් අභියාචනාධිකරණය මෙම නියෝගය ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/16d5ff5f.json)
+
+---
 
 ### கிருலப்பனையில் 21 இந்திய பிரஜைகள் திடீர் கைது
 
@@ -1793,43 +1839,5 @@ Sri Lanka inherited voting, including universal suffrage from British liberals. 
 ...
 
 [Data](articles/307e7e18.json)
-
----
-
-### US designates Pakistani group’s offshoot as ‘terrorist’ organization over Kashmir attack
-
-*2025-07-18 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110595/us-designates-pakistani-groups-offshoot-as-terrorist-organization-over-kashmir-attack) · `en`
-
-The U.S. government designated The Resistance Front, considered an offshoot of the Pakistani extremist group Lashkar-e-Taiba, as a “foreign terrorist organization” over the April 22 Islamist militant attack in India-administered Kashmir that killed 26 people, Secretary of State Marco Rubio said on Thursday.
-
-The Resistance Front, also known as Kashmir Resistance, initially took responsibility for the attack in Pahalgam before denying it days later.
-
-Lashkar-e-Taiba, listed as a “foreign terrorist organization” by the United States, is an Islamist group accused of plotting attacks in India and in the West, including the three-day deadly assault on Mumbai in November 2008.
-
-TRF’s designation by Washington as a “foreign terrorist organization” and “specially designated global terrorist” enforced President Donald Trump’s ”call for justice for the Pahalgam attack,” Rubio said in a statement.
-
-...
-
-[Data](articles/9c129ef2.json)
-
----
-
-### ‘Red’ warning issued for strong winds and rough seas
-
-*2025-07-18 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110594/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
-
-A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota.
-
-These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
-
-Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
-
-Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
-
-Naval and fishing communities are strongly advised not to venture into the sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota for the next 24 hours, said the Met. Department.
-
-...
-
-[Data](articles/b3030364.json)
 
 ---

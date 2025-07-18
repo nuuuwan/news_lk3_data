@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 13:32:18**
+As of **2025-07-18 13:50:18**
 
 ## Newspaper Stats
 
-*Scraped **65,381** Articles*
+*Scraped **65,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,274
 adaderanalk | 7,979
 tamilmirrorlk | 9,370
 virakesarilk | 10,879
-adaderanasinhalalk | 11,226
+adaderanasinhalalk | 11,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,381 articles have been extended.
+61,973 (94.8%) of 65,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### චමින්ද්‍රානි කිරිඇල්ලගේ හන්තානේ ඉඩම ගැන කෝප් කමිටුවේ අවධානය
+
+*2025-07-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212379) · `si`
+
+ආන්දෝලනයට තුඩු දී ඇති ජනතා වතු සංවර්ධන මණ්ඩලයට අයිතිව තිබු හන්තානවත්ත ප්‍රදේශයෙන් පාර්ලිමේන්තු මන්ත්‍රිනී චමින්ද්‍රානි කිරිඇල්ල මහත්මියට අක්කර 43ක ඉඩමක් නිදහස් කර ඇත්තේ ඉඩම් ප්‍රතිසංස්රණ පනතින් බැහැරව බවට කෝප් කමිටුවේදි අනාවරණ වී තිබේ.
+
+ඒ ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව එම කමිටුව හමුවට කැඳවු අවස්ථාවේදිය.
+
+එහිදී පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර විසින් යොමු කළ පැනයකට පිළිතුරු දෙමින් ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් පද්මසිරි ලියනගේ මහතා පැවසුවේ චමින්ද්‍රානි කිරිඇල්ල යන අයට ඉඩම් ලබා දීමට කිසිදු බැදීමක් නොමැති බවය.
+
+එහිදී අදහස් දැක්වූ ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් පද්මසිරි ලියනගේ මහතා,
+
+...
+
+[Data](articles/ba386a37.json)
+
+---
 
 ### நான்கு ஆண்டுகளுக்கு முன்பே பெண்ணாக மாறிய அரை நிர்வாணமாக நடமாடிய தாய்லாந்து சுற்றுலா பயணி
 
@@ -1789,31 +1807,5 @@ Furthermore, the Bills of Exchange (Amendment) Bill, intended to amend or repeal
 ◼️
 
 [Data](articles/505f99dd.json)
-
----
-
-### Newborn found abandoned in paddy field in Paragahadeniya
-
-*2025-07-17 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110583/newborn-found-abandoned-in-paddy-field-in-paragahadeniya) · `en`
-
-A newborn has been found abandoned in a paddy field in Paragahadeniya, Mawathagama earlier today, police stated.
-
-A local resident passing through the paddy field had noticed the newborn lying under a tree in the field.
-
-He subsequently informed the Mawathagama Police about the incident and police personnel arrived at the scene.
-
-Police personnel and area residents then took the baby from the location and admitted to the Mawathagama Divisional Hospital.
-
-A doctor who examined the infant had stated that the baby appeared to be one or two days old.
-
-After the initial examinations, Mawathagama hospital authorities transferred the baby to the Neonatal Intensive Care Unit (NICU) of the Kurunegala Teaching Hospital.
-
-It has not yet been revealed who abandoned the baby at that location.
-
-A hospital spokesperson has stated that the baby is in good health.
-
-◼️
-
-[Data](articles/fe07dd1d.json)
 
 ---

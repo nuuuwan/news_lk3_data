@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 17:05:25**
+As of **2025-07-18 17:17:56**
 
 ## Newspaper Stats
 
-*Scraped **65,414** Articles*
+*Scraped **65,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,278
 adaderanalk | 7,982
 tamilmirrorlk | 9,378
 virakesarilk | 10,885
-adaderanasinhalalk | 11,235
+adaderanasinhalalk | 11,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,414 articles have been extended.
+61,973 (94.7%) of 65,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### හිටපු ඇමතිනි චන්ද්‍රානි බණ්ඩාරට එරෙහි නඩුවක් කල් යයි
+
+*2025-07-18 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212388) · `si`
+
+හිටපු අමාත්‍ය චන්ද්‍රාණී බණ්ඩාර මහත්මියට එරෙහිව දූෂණ චෝදනාවක් සම්බන්ධයෙන් අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව යළි ලබන 28 වනදා යළි කැඳවන ලෙස  කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම නඩුව අද (18) කොළඹ මහාධිකරණ විනිසුරු සහන් මාපා බණ්ඩාර මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී විත්තිය විසින් ඉල්ලා සිටි ලේඛන භාරදීම සඳහා මෙම නඩුව යළි ලබන 28 වනදා කැඳවන ලෙස මහාධිකරණ විනිසුරුවරයා නියෝග කළේය.
+
+විත්තිකාර හිටපු අමාත්‍යවරියට එරෙහිව අල්ලස් කොමිසම විසින් දූෂණ විරෝධී පනත යටතේ චෝදනා 11 ක් එල්ල කර ඇත.
+
+2019 ජනවාරි 14 වැනිදා සහ 2019 ජනවාරි 31 කාල සීමාව තුළ නිසි ක්‍රියාපටිපාටිය අනුගමනය නොකොට එච්.එම්. චන්ද්‍රවංශ නැමැතෙකුට වියළි කළාප සංවර්ධන අමාත්‍යාංශයේ ව්‍යාපෘති අධ්‍යක්ෂ ධූරයට පත් කිරීම සහ සිය හිතවතුන් පිරිසක්  නීත්‍යානූකූල නොවන අකාරයට විවිධ තනතුරුවලට පත් කිරීම සඳහා එම අමාත්‍යංශයේ ලේකම්වරයා ඇතුළුව නිලධාරීන්ට  බලපෑම් කිරීම තුළින් දූෂණය නමැති වරද සිදුකළේ යැයි චෝදනා කරමින් හිටපු අමාත්‍යවරියට එරෙහිව අල්ලස් කොමිසම විසින් මෙම අධි චෝදනා ගොනු කර තිබේ.
+
+...
+
+[Data](articles/0b0db2bf.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට තද වැසි
 
@@ -1821,23 +1841,5 @@ Meanwhile, Pradeep Nilanga Dela also stated that the shortage of elephants for t
 ◼️
 
 [Data](articles/397c11ed.json)
-
----
-
-### Honouring enduring legacy of Dr. Milina Sumathipala at 90
-
-*2025-07-18 02:28:07* · [`dailyftlk`](https://www.ft.lk/news/Honouring-enduring-legacy-of-Dr-Milina-Sumathipala-at-90/56-779147) · `en`
-
-A vibrant cultural performance marked the 90th birth anniversary commemoration of Dr. Milina Sumathipala
-
-From left: Sumathi Holdings Chairman Jagath Sumathipala, United Nations Development Programme Chief Economist Dr. Vagisha Gunasekara, and University of Sri Jayewardenepura retired Professor Praneeth Abeysundara speaking at the gathering
-
-A legacy of light: Celebrating the life and impact of late Dr. Milina Sumathipala
-
-The birth anniversary remembrance of the late Dr. Milina Sumathipala was held recently at the Bandaranaike Memorial International Conference Hall (BMICH), organised by Sumathi Holdings and the Sumathipala family members. Along with the family members, the event saw the participation of the Buddhist clergy, members of various Buddhist organisations, and business community leaders.
-
-...
-
-[Data](articles/b3a681c9.json)
 
 ---

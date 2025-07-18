@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 00:48:24**
+As of **2025-07-19 01:04:30**
 
 ## Newspaper Stats
 
-*Scraped **65,461** Articles*
+*Scraped **65,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 667
 bbccomsinhala | 677
 islandlk | 3,993
 economynextcom | 4,009
-dailyftlk | 4,640
+dailyftlk | 4,645
 dailymirrorlk | 4,733
 adalk | 6,282
 adaderanalk | 7,987
@@ -26,9 +26,91 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,461 articles have been extended.
+61,973 (94.7%) of 65,466 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-19 (Saturday)
+
+### No kite-flying near airports: AASL
+
+*2025-07-19 00:52:59* · [`dailyftlk`](https://www.ft.lk/news/No-kite-flying-near-airports-AASL/56-779199) · `en`
+
+The Airport and Aviation Services Sri Lanka Private Ltd., (AASL) has issued a warning against flying kites in close proximity to international airports in the country.
+
+Issuing a special notice, the AASL warned that flying kites or any airborne objects over a height of 300 feet, within a radius of 5 km from any international airport, is strictly prohibited.
+
+The AASL further said that flying kites in such close proximity to international airports is considered a punishable offence.
+
+The warning has been issued highlighting the hindrance to flight operations and the threat to flights and passengers.
+
+◼️
+
+[Data](articles/cb058fc7.json)
+
+---
+
+### Sri Lankan SMEs showcase at 20th China International Small and Medium Enterprise Fair in Guangzhou
+
+*2025-07-19 00:50:03* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-SMEs-showcase-at-20th-China-International-Small-and-Medium-Enterprise-Fair-in-Guangzhou/34-779198) · `en`
+
+A delegation of 42 Sri Lankan small and medium-sized enterprises (SMEs) made a strong impact at the 19th China International Small and Medium Enterprises Fair (CISMEF), held from 27 to 30 June, at the China Import & Export Fair Complex in Pazhou, Guangzhou. Organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Industrial Development Board (IDB) and with the active facilitation of the Consulate General of Sri Lanka in Guangzhou, the delegation represented key product sectors, including food and beverages, gem and jewellery, coconut-based products, lifestyle goods, spices, and garments etc.
+
+CISMEF 2025 proved to be a robust platform for SMEs, enabling them to connect with international buyers and potential business partners within mainland China and beyond. This marked the 10th consecutive year of Sri Lanka’s participation, demonstrating a consistent commitment to fostering SME growth through international trade exposure.
+
+...
+
+[Data](articles/6c46f701.json)
+
+---
+
+### Melwa introduces latest product, SLS 414 certified first welding rod in Sri Lanka
+
+*2025-07-19 00:49:04* · [`dailyftlk`](https://www.ft.lk/business/Melwa-introduces-latest-product-SLS-414-certified-first-welding-rod-in-Sri-Lanka/34-779197) · `en`
+
+Melwa, the leading steel manufacturer in Sri Lanka, recently introduced its latest product—Melwa Welding Rods—to the market. Produced by Melwa, a local company that has played a significant role in the development of the country’s construction sector, these welding rods are of high quality. Notably, they are 100% locally manufactured and come with SLS 414 certifications. This marks the first time a welding rod that is entirely locally produced has been introduced to the Sri Lankan market. Melwa is confident that these new welding rods will become the top choice among welders, particularly for welding wire and galvanised sheets, offering strong performance, long durability, and excellent smoothness. These rods are expected to provide strong support for welders to carry out their work more safely and efficiently. Manufactured using high-quality raw materials and in compliance with international standards, this new product ensures a perfect weld finish.
+
+...
+
+[Data](articles/a74e9306.json)
+
+---
+
+### CSF Summer Fair successfully inaugurated with massive deals
+
+*2025-07-19 00:47:46* · [`dailyftlk`](https://www.ft.lk/business/CSF-Summer-Fair-successfully-inaugurated-with-massive-deals/34-779196) · `en`
+
+The Colombo Shopping Festival – Summer Fair 2025 was successfully inaugurated on 18 July, at the Sirimavo Bandaranaike Memorial Exhibition Centre (BMICH), marking the grand beginning of Colombo’s ultimate shopping destination this season.
+
+The opening ceremony was ceremonially declared by Aitken Spence Travels Ltd., Managing Director Nalin Jayasundera in the esteemed presence of BMICH Director General Manuja Kariyapperuma and Sri Lanka Ayurvedic Drugs Corporation Chairman Geethamani C. Karunarathna.
+
+Organised by Aitken Spence Conventions & Exhibitions, this three-day mega shopping event runs from 18 to 20 July, welcoming thousands of enthusiastic shoppers daily from 10 a.m. to 9 p.m.
+
+The fair has already attracted a significant footfall on its opening day, thanks to its unmatched value and vibrant atmosphere. Shoppers have been enjoying massive discounts, exclusive ‘Happy Hour’ offers, and daily raffle draws with exciting prizes—creating a buzz throughout Colombo.
+
+...
+
+[Data](articles/411eb768.json)
+
+---
+
+### Summer sorted: Dubai delivers, Emirates elevates
+
+*2025-07-19 00:45:30* · [`dailyftlk`](https://www.ft.lk/business/Summer-sorted-Dubai-delivers-Emirates-elevates/34-779195) · `en`
+
+Exclusive perks and world-class infrastructure keep travellers cool in the city built for the season
+
+Dubai, UAE: As summer temperatures rise, Emirates has invited travellers to reimagine their plans with Dubai - a city purpose-built for comfort, discovery, and world-class experiences all year round.
+
+With exclusive benefits for Emirates passengers and seamless connections through the airline’s extensive global network, Dubai is not only a rewarding summer destination, but also an ideal stopover for travellers.
+
+Dubai is one of the few global cities engineered for year-round travel. With wide-scale air-conditioning, temperature-controlled pools, and an abundance of indoor entertainment, visitors can explore, unwind, and spend time comfortably - even during peak summer. From indoor theme parks and immersive museums to shopping festivals, live events, and family-friendly experiences, Dubai offers more than just a place to stay – it’s a city that thrives in every season.
+
+...
+
+[Data](articles/7cc5979a.json)
+
+---
 
 ### 2025-07-18 (Friday)
 
@@ -1739,99 +1821,5 @@ Accordingly, Colombo Chief Magistrate Thanuja Lakmali issued this order after co
 ◼️
 
 [Data](articles/65a1e4f4.json)
-
----
-
-### பௌத்தமதகுருமார் மோசமான விதத்தில் நடந்துகொள்கின்றார்கள் - தாய்லாந்தை உலுக்கியுள்ள பாலியல் மோசடி
-
-*2025-07-18 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/220288) · `ta`
-
-தாய்லாந்தின் தலைநகரின் மத்தியில் உள்ள பௌத்த ஆலயத்தின் மிகவும் மதிக்கத்தக்க பௌத்தமதகுரு காணாமல்போயுள்ளதை தொடர்ந்து பெரும் பாலியல் மோசடி குறித்த தகவல்கள் வெளியாகியுள்ளன.
-
-தாய்லாந்தின் பௌத்த குருமார்கள் மத்தியில் காணப்படும் மிரட்டல்விடுக்கும் அச்சுறுத்தும்  கலாச்சாரம் அவர்களிற்கு கிடைக்கும் ஆடம்பர பொருட்கள் போன்ற விபரங்களும் வெளியாகியுள்ளன.
-
-வெளியாகியுள்ள அதிர்ச்சி தகவல்களை தொடர்ந்து தாய்லாந்தின் பௌத்தமதகுருமார் அனுபவிக்கும் பணம் மற்றும் அதிகாரம் குறித்த கேள்விகள் எழுந்துள்ளன.
-
-காணாமல்போன மூத்தமதகுரு தொடர்பான விசாரணைகளின் போது பல பௌத்தமதகுருமாருடன் பாலியல் உறவில் ஈடுபட்ட பின்னர் அவர்களை மிரட்டி அச்சுறுத்தி அது குறித்த விபரங்களை மௌனமாக வைத்திருந்த பெண் ஒருவர் குறித்த விபரங்கள்  பொலிஸாருக்கு கிடைத்துள்ளன.
-
-தாய்லாந்து பொலிஸார் குறித்த பெண்ணின் வீட்டை சோதனையிட்டபோது காணாமல்போன பௌத்தமதகுரு உட்பட பல பௌத்தமதகுருமாரின் படங்கள் வீடியோக்கள் அடங்கிய கையடக்க தொலைபேசிகளை   அந்த வீட்டில் கண்டுபிடித்துள்ளனர்.
-
-...
-
-[Data](articles/077d88bd.json)
-
----
-
-### Sri Lanka SOE sales not completed due to following proper procedure: ex-President
-
-*2025-07-18 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-soe-sales-not-completed-due-to-following-proper-procedure-ex-president-231419/) · `en`
-
-ECONOMYNEXT – Sales of several state firms which were on line to be privatized could not be completed due to time it took to follow proper procedures, ex-President Ranil Wickemesinghe said.
-
-“There was a committee, the members of the committee insisted that they follow all the proper steps,” Wickremesinghe said at a forum on organized by Advocata Institute, a Colombo-based think tank.
-
-“I used to push them but they said ‘We do not want questions coming up later and for us to be locked up. So they followed the procedure.”
-
-Wickremesinghe said there was no ‘delay’ as such but the process was time consuming.
-
-By the time it came to July (2024) there were offers from investors but it was too close to polls and it would have become an election issue and he said not to go ahead, Wickremesinghe said.
-
-“Otherwise, they could have been finished by December,” he said.
-
-...
-
-[Data](articles/092ee3d5.json)
-
----
-
-### ட்ரம்ப்புக்கு மருத்துவ பரிசோதனை ஏன்? -
-
-*2025-07-18 11:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்புக்கு-மருத்துவ-பரிசோதனை-ஏன்/50-361301) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்ப்பின் கணுக்கால் பகுதியில் வீக்கம் அதிகரித்ததை தொடர்ந்து அவருக்கு மருத்துவ பரிசோதனை மேற்கொள்ளப்பட்டது. அது குறித்த அப்டேட்டை வெள்ளை மாளிகை அதிகாரபூர்வமாக பகிர்ந்துள்ளது.
-
-அமெரிக்க ஜனாதிபதி ட்ரம்ப்புக்கு இப்போது 79 வயது ஆகிறது. அண்மையில் அவர் பங்கேற்ற நிகழ்வின்போது அவரது கணுக்கால் பகுதியில் வீக்கம் இருந்ததும், கையில் ரத்தக்கட்டு போன்ற காயம் இருந்ததும் கவனத்துக்கு வந்தது. அதை மறைக்கும் வகையில் ஒப்பனை செய்திருந்தார் ட்ரம்ப். இதனால் அவரது உடல்நலன் குறித்த கேள்வி எழுந்தது.
-
-இந்நிலையில், கணுக்கால் வீக்கம் காரணமாக அவர் மருத்துவ பரிசோதனை மேற்கொண்டார். வெள்ளை மாளிகையின் மருத்துவ பிரதிநிதிகள் அல்ட்ரா சவுண்ட் ஸ்கேன் பரிசோதனையை அவருக்கு மேற்கொண்டனர். அதில் அவருக்கு காலில் வீக்கத்தை ஏற்படுத்தும் சிவிஐ (Chronic Venous Insufficiency) எனப்படும் பாதிப்பு இருந்தது தெரியவந்தது.
-
-...
-
-[Data](articles/818add1f.json)
-
----
-
-### மாணவியை கடத்திச் சென்றவர் சிக்கினார்
-
-*2025-07-18 11:10:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவியை-கடத்திச்-சென்றவர்-சிக்கினார்/76-361300) · `ta`
-
-பாடசாலை மாணவி ஒருவரை கடத்திச் சென்ற சந்தேக நபர் ஒருவர் லிந்துல பொலிஸாரால் வியாழக்கிழமை (17) இரவு கைது செய்யப்பட்டார்.
-
-அவ்வாறு ஏமாற்றி அழைத்துச் சென்ற அந்த நபர், ஹப்புத்தளையில் உள்ள வீடொன்றில் மறைத்து வைத்துள்ளார்.
-
-தவாக்கலையில் ஒரு பிரபலமான தமிழ்ப் பாடசாலையில் 10 ஆம் வகுப்பு படிக்கும் மாணவியான அந்தப் பாடசாலை மாணவி, லிந்துல பொலிஸ் பிரிவின் கீழ் உள்ள லோகி தோட்டத்தில் வசிக்கிறார்.
-
-அவர் பேஸ்புக் மூலம் அடையாளம் காணப்பட்ட ஒரு இளைஞனுடன் காதல் உறவை ஏற்படுத்திக் கொண்டார், பின்னர் செவ்வாய்க்கிழமை (15) அன்று நானுஓயா ரயில் நிலையத்தில் தன்னைச் சந்திக்குமாறு பாடசாலை மாணவிக்குத் தெரிவித்தார். மாணவி தனது வீட்டிற்குத் தெரிவிக்காமல் நானுஓயா ரயில் நிலையத்திற்குச் சென்றபோது, சந்தேக நபர் அந்தப் பாடசாலை மாணவியை ரயிலில் ஹப்புத்தளைக்கு அழைத்துச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/72174d58.json)
-
----
-
-### ரயில் மோதி காட்டு யானை உயிரிழப்பு
-
-*2025-07-18 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220283) · `ta`
-
-கொழும்பிலிருந்து மட்டக்களப்பு நோக்கிச் சென்ற ரயில் மோதி காட்டு யானை இன்று வெள்ளிக்கிழமை (18) அதிகாலை உயிரிழந்தது.
-
-இந்த யானை அதிகாலை 3 மணி முதல் கிராமத்தில் சுற்றித் திரிந்து, அப்பகுதியில் உள்ள நெல் வயல்களுக்குள் நுழைவது வழக்கமாக கொண்டிருந்துள்ளது.
-
-இன்யைதினம்  யானை வந்தபோது வனவிலங்கு பாதுகாப்பு திணைக்களத்தை தொடர்பு கொள்ள முயற்சி செய்ய போதிலும், ஆனால் அந்நேரத்தில் அதிகாரிகளைத் தொடர்பு கொள்ள முடியவில்லை என கிராம மக்கள் தெரிவித்துள்ளனர்.
-
-அண்மைய வாரங்களில் அடிக்கடி யானை கிராமத்திற்குள் வந்து சென்றுள்ள நிலையில், தடுப்பு நடவடிக்கைகளை வனவிலங்கு பாதுகாப்பு திணைக்களம் எடுக்கத் தவறியுள்ளது. விரைந்து நடவடிக்கை எடுத்திருந்தால் இந்த துயர சம்பவத்தை தவிர்த்து இருக்கலாம் என கிராம மக்கள் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/c32d3867.json)
 
 ---

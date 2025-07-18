@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 13:05:54**
+As of **2025-07-18 13:19:31**
 
 ## Newspaper Stats
 
-*Scraped **65,378** Articles*
+*Scraped **65,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,002
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,274
-adaderanalk | 7,978
+adaderanalk | 7,979
 tamilmirrorlk | 9,370
 virakesarilk | 10,878
 adaderanasinhalalk | 11,225
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,378 articles have been extended.
+61,973 (94.8%) of 65,379 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c44d075d.json)
+
+---
+
+### Sri Lanka to hold virtual talks with US Trade Representative on tariff reduction
+
+*2025-07-18 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110599/sri-lanka-to-hold-virtual-talks-with-us-trade-representative-on-tariff-reduction) · `en`
+
+The Ministry of Finance has initiated ongoing discussions aimed at reducing the trade tariffs proposed to be imposed by the United States on exports from Sri Lanka.
+
+Accordingly, a virtual meeting is scheduled to be held today (18 July) between Sri Lankan representatives and officials from the Office of the United States Trade Representative (USTR).
+
+The discussion will be led by the Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with other relevant government officials.
+
+The primary focus of the meeting is to promote trade and investment relations between the two countries.
+
+◼️
+
+[Data](articles/912cf45c.json)
 
 ---
 
@@ -1787,21 +1805,5 @@ A hospital spokesperson has stated that the baby is in good health.
 ◼️
 
 [Data](articles/3554ea70.json)
-
----
-
-### முல்லைத்தீவு சின்னாற்றில் இருந்து சடலம் மீட்பு
-
-*2025-07-17 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/220261) · `ta`
-
-முல்லைத்தீவு நகர் பகுதியில் உள்ள சின்னாற்றுக்குள் உயிரிழந்த நிலையில் சடலம் வியாழக்கிழமை (17) மீட்கப்பட்டுள்ளது.
-
-சின்னாற்றுக்குள்  உயிரிழந்தவரின் சடலம் நீரில் மிதந்துள்ளது. அதனையடுத்து சம்பவம் தொடர்பில் முல்லைத்தீவு பொலிசாருக்கு தகவல் வழங்கப்பட்டதனை தொடர்ந்து முல்லைத்தீவு பொலிசார் சம்பவ இடத்திற்கு வருகைதந்து  உடலத்தினை மீட்டுள்ளார்கள்.
-
-குறித்த சம்பவத்தில் செல்வபுரம் பகுதியினை சேர்ந்த 54 அகவையுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார். சம்பவம் தொடர்பில் முல்லைத்தீவு பொலிசார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றார்கள்.
-
-◼️
-
-[Data](articles/be8dda0c.json)
 
 ---

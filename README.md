@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 14:24:24**
+As of **2025-07-18 14:37:29**
 
 ## Newspaper Stats
 
-*Scraped **65,388** Articles*
+*Scraped **65,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,276
 adaderanalk | 7,979
-tamilmirrorlk | 9,373
+tamilmirrorlk | 9,374
 virakesarilk | 10,879
-adaderanasinhalalk | 11,228
+adaderanasinhalalk | 11,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,388 articles have been extended.
+61,973 (94.8%) of 65,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### බැංකුවලින් වාහන ණය දෙන විදිය අද සිට වෙනස් වෙයි
+
+*2025-07-18 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212382) · `si`
+
+මෙරට බලපත්‍රලාභී වානිජ බැංකු, බලපත්‍රලාභී මූල්‍ය සමාගම්, ලියාපදිංචි මූල්‍ය ලීසිං ආයතන විසින් මෝටර් රථ වාහන සඳහා මූල්‍ය පහසුකම් සැපයීමේදී අනුගමනය කළ යුතු ක්‍රමවේද යාවත්කාලීන කරමින්, ශ්‍රී ලංකා මහ බැංකුව විසින් නව මාර්ගෝපදේශ සංග්‍රහයක් ඊයේ (17) දින නිකුත් කර තිබේ.
+
+2018 පෙබරවාරි 08 දින නිකුත් කරන ලද මාර්ගෝපදේශයන් යාවත්කාලීන කරමින් 2025 ජූලි 17 දින නව මාර්ගෝපදේශයන් මෙලෙස මහ බැංකුව විසින් ප්‍රකාශයට පත් කර ඇත.
+
+ඊට අනුව 2018 වසරේ මාර්ගෝපදේශයන් හි දැක්වුණු ආකාරයේ ඉලෙක්ට්‍රික්, හයිබ්‍රිඩ් හා වෙනත් යනාදී වශයෙන්, බලශක්ති ප්‍රභවය අනුව කර තිබූ වර්ගීකරණයන් මෙම නව 2025 මාර්ගෝපදේශයන් හි ඉවත් කර තිබේ.
+
+ඒ අනුව 2018 මාර්ගෝපදේශයන් අනුව ඉලෙක්ට්‍රික් කාණ්ඩය යටතේ වාහනයේ වටිනාකමින් 90% ක් දක්වා මූල්‍ය පහසුකම් ලබා ගැනීමේ අවස්ථාව, වානිජ වාහන වෙනුවෙන් 80%ක්, මොටර් කාර්, SUV සහ වෑන් රථ සඳහා 60%ක් දක්වා ද, ත්‍රීවීල් සඳහා 50% ක් දක්වා සහ වෙනත් වාහන සඳහා 70% ක් දක්වා අඩු කර ඇත.
+
+...
+
+[Data](articles/cfc0f17b.json)
+
+---
+
+### නීතිවිරෝධී පිරමීඩ යෝජනා ක්‍රම ගැන විශේෂ අනාවරණයක්
+
+*2025-07-18 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212381) · `si`
+
+හඳුනානොගත් නීතිවිරෝධී පිරමීඩ යෝජනා ක්‍රම 50කට අධික සංඛ්‍යාවක් මෙරට තුළ ක්‍රියාත්මකවන බව ශ්‍රී ලංකා මහබැංකුවේ මූල්‍ය, පාරිභෝගික සබඳතා දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ නීතීඥ යානක රණවීර මහතා පවසයි.
+
+ටීවී දෙරණ ඔස්සේ විකාශනය වන රී බිල්ඩ් ශ්‍රී ලංකා වැඩසටහනට එක්වෙමින් ඔහු සඳහන් කළේ, මේවන විට පිරමීඩ යෝජනා ක්‍රම 22ක් හඳුනාගෙන ඇති බවය.
+
+එහිදී අදහස් දැක්වූ ශ්‍රී ලංකා මහබැංකුවේ මූල්‍ය, පාරිභෝගික සබඳතා දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ නීතීඥ යානක රණවීර මහතා,
+
+''මෙහි පිරමීඩ යෝජනා ක්‍රම විදිහට විසි දෙකක් හඳුනගෙන තියෙනවා. ඒ වගේම වැඩිදුර විමර්ශන සඳහා අපි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යොමු කරලා තියෙනවා. ඒ අපි හඳුනාගත්තා විතරයි. ඉතා විශාල ප්‍රමාණයක් මේ මොහොතේත් මේ භූමිය ඇතුලේ ක්‍රියාත්මක වෙනවා. පනහකට අධිකයි කියලා කිව්වොත් හරි.  මූලික විමර්ශන කටයුතු සිද්ධ කරන්න අපිට ලැබිලා තියෙනවා පැමිණිලි 50කට වැඩි ප්‍රමාණයක්.''
+
+...
+
+[Data](articles/570071ab.json)
+
+---
+
+### ‘கிஸ் கேம்’ சர்ச்சையில் சிக்கிய சிஇஓ (வீடியோ இணைப்பு)
+
+*2025-07-18 14:11:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கிஸ்-கேம்-சர்ச்சையில்-சிக்கிய-சிஇஓ-வீடியோ-இணைப்பு/50-361319) · `ta`
+
+ஆஸ்ட்ரோனமர் நிறுவனத்தின் தலைமை செயல் அதிகாரி ஆண்டி பைரானும், அதே நிறுவனத்தின் தலைமை மக்கள் தொடர்பு அதிகாரி ஒருவரும் இசை நிகழ்ச்சி ஒன்றில் நெருக்கமாக இருக்கும் வீடியோவை பற்றித்தான் சமூக வலைதளங்களில் எங்கு பார்த்தாலும் பேச்சு.
+
+அமெரிக்காவின் மசாசூசெட்ஸ் மாகாணத்தில் பிரபல இசைக்குழுவான ‘கோல்ட்பிளே’ இசை நிகழ்ச்சி அண்மையில் நடைபெற்றது. உலகில் பல்வேறு நாடுகளில் நடக்கும் இசை நிகழ்ச்சிகளில், விளையாட்டுப் போட்டிகளில் ’கிஸ் கேம்’ என்ற கேமரா வைக்கப்படுவது வழக்கம்.
+
+இதன் மூலம் போட்டியின் போது நெருக்கமாக இருக்கும் தம்பதிகளை இந்த கேமரா படம்பிடித்து பெரிய திரையில் காட்டும். அதை பார்க்கும் பார்வையாளர்கள் கைதட்டி, ஆரவாரம் செய்து அவர்களை உற்சாகப்படுத்துவர். ‘கிஸ் கேம்’ தொடர்பான வீடியோக்கள் இணையத்தில் பிரபலம்.
+
+...
+
+[Data](articles/96605183.json)
+
+---
 
 ### ஹட்டன் கடையில் பாரிய தீ
 
@@ -1733,65 +1785,5 @@ Positioned among the country’s most affordable and accessible 5G smartphones, 
 ...
 
 [Data](articles/f07846b9.json)
-
----
-
-### Bangladesh police arrest 20 after deadly clashes in ousted premier’s hometown
-
-*2025-07-17 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110587/bangladesh-police-arrest-20-after-deadly-clashes-in-ousted-premiers-hometown) · `en`
-
-Bangladesh police said on Thursday (Jul 17) they had arrested 20 people, a day after clashes between supporters of ousted premier Sheikh Hasina and security personnel killed at least four people.
-
-The clashes erupted in Hasina’s hometown of Gopalganj on Wednesday after members of her Awami League party tried to foil a rally by the National Citizens Party (NCP), made up of many students who spearheaded the uprising that toppled her government last year.
-
-Bricks, stones and shattered windows littered the area where the clashes occurred. More than 1,500 police, as well as soldiers and border guards, have been deployed in the district to enforce a curfew.
-
-“The law and order situation in Gopalganj is currently under control and remains peaceful,” the police said in a statement on Thursday.
-
-Sheikh Mujibur Rahman, the founding president of Bangladesh, hailed from Gopalganj and Hasina, his daughter, also contested elections from the district.
-
-...
-
-[Data](articles/7109aea5.json)
-
----
-
-### Will take necessary action for the advancement of national, religious and social development: President
-
-*2025-07-17 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110586/will-take-necessary-action-for-the-advancement-of-national-religious-and-social-development-president) · `en`
-
-Will never hesitate to take necessary action for the advancement of national, religious and social development, stated President Anura Kumara Dissanayake while meeting the Maha Sangha in Kandy.
-
-President Dissanayake has also said that he expects the guidance of the Maha Sangha in the governance process.
-
-The President made these remarks during a discussion held this afternoon (17) at the President’s House in Kandy with the Anunayake Theros of the Malwathu and Asgiri Chapters and other senior members of the Karaka Maha Sangha Sabha.
-
-The purpose of the meeting was to discuss key national, religious and social issues, as per the advice of the Chief Prelates of the Malwathu and Asgiri Chapters, the President’s Media Division said in a statement.
-
-...
-
-[Data](articles/9bf1a2f8.json)
-
----
-
-### Pope expresses sadness after Israeli strike on Gaza church kills three
-
-*2025-07-17 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110585/pope-expresses-sadness-after-israeli-strike-on-gaza-church-kills-three) · `en`
-
-Pope Leo XIV has renewed his call for a Gaza ceasefire after three people sheltering in the Catholic church in Gaza City were killed in an Israeli strike.
-
-A telegram said the Pope was “deeply saddened to learn of the loss of life and injury caused by the military attack” on the Holy Family Church.
-
-The Latin Patriarchate of Jerusalem, which oversees the church, said it was “struck by the Israeli army”. Nine other people were wounded, one of whom is in a critical condition in hospital. The parish priest was lightly injured.
-
-Israel’s foreign ministry said it regretted any harm to a religious site or uninvolved civilians and the Israeli military said the incident was under review.
-
-Many displaced families from Gaza’s small Christian community have been living in the church compound since the war began after their own homes were destroyed.
-
-While he was alive, the late Pope Francis called them on a near-daily basis.
-
-...
-
-[Data](articles/85cd2fa4.json)
 
 ---

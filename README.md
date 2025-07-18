@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 11:24:00**
+As of **2025-07-18 11:07:33**
 
 ## Newspaper Stats
 
-*Scraped **65,360** Articles*
+*Scraped **65,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,993
-economynextcom | 4,002
+economynextcom | 4,000
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,273
 adaderanalk | 7,976
-tamilmirrorlk | 9,361
+tamilmirrorlk | 9,360
 virakesarilk | 10,876
 adaderanasinhalalk | 11,221
 
@@ -26,37 +26,17 @@ adaderanasinhalalk | 11,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,360 articles have been extended.
+61,973 (94.8%) of 65,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
-
-### ஸ்பா சென்ற மூன்று பொலிஸார் இடைநீக்கம்
-
-*2025-07-18 11:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பா-சென்ற-மூன்று-பொலிஸார்-இடைநீக்கம்/175-361299) · `ta`
-
-மாத்தறையின் வல்கம பகுதியில் உள்ள ஒரு பிரபலமான மசாஜ் நிலையத்திற்கு (ஸ்பா) சென்று நிர்வாகத்திற்கு தகாத ஆலோசனைகளை வழங்கி அங்கு சேவைகளைப் பெற முயன்ற மூன்று காவல் துணை ஆய்வாளர்களை காவல்துறை இடைநீக்கம் செய்துள்ளது என்று காவல்துறை தெரிவித்துள்ளது.
-
-மாத்தறை, மாவரல மற்றும் திஹகொட காவல் நிலையங்களைச் சேர்ந்த மூன்று காவல் துணை ஆய்வாளர்கள் இடைநீக்கம் செய்யப்பட்டுள்ளனர் என்று மூத்த காவல்துறை அதிகாரி ஒருவர் தெரிவித்தார்.
-
-இந்த மூவரும்   மேற்கூறிய இடத்திற்குச் சென்று மேலாளரிடம் இந்த ஆலோசனையை வழங்கி அங்கு சேவைகளைப் பெற முயன்றதாக காவல்துறை தெரிவித்துள்ளது.
-
-இது தொடர்பாக கிடைத்த புகாரின் அடிப்படையில் மாத்தறை உதவி காவல் கண்காணிப்பாளர் (1) விசாரணையைத் தொடங்கியுள்ளதாக மூத்த அதிகாரி தெரிவித்தார்.
-
-...
-
-[Data](articles/03e9e4d2.json)
-
----
 
 ### දයාසිරි CIDයට
 
 *2025-07-18 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212373) · `si`
 
 පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා අද (18) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
-
-ඛනිජ තෙල් සංස්ථාවේ සිදු වූ බව කියන වංචාවක් සම්බන්ධයෙන් පැමිණිල්ලක් ගොනු කිරීම සඳහා ඔහු මෙසේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණියේය.
 
 ◼️
 
@@ -124,26 +104,6 @@ MP Dayasiri Jayasekara has appeared before the Criminal Investigation Department
 
 ---
 
-### US effective tariff rate may jump to 19.4-pct with new tariffs: Fitch Ratings
-
-*2025-07-18 10:44:00* · [`economynextcom`](https://economynext.com/us-effective-tariff-rate-may-jump-to-19-4-pct-with-new-tariffs-fitch-ratings-231403/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has said it was revising its US Effective Tariff Rate (ETR) Monitor to 19.4% from 14.1% due to the higher reciprocal tariffs and duties coming into force on August 1.
-
-“The threatened tariff increases represent a significant increase from existing tariffs,” the ratings agency said.
-
-“The ETR reflects our assumption that about half of previous tariff-free imports will ultimately be reclassified as USMCA compliant.”
-
-The ETR represents total duties as a percent of total imports and changes with shifts in import share by country of origin and product mix, Fitch said.
-
-US Effective Tariff Rate May Jump to 19.4% with New Reciprocal Levies
-
-...
-
-[Data](articles/d49678f5.json)
-
----
-
 ### තීන්ත සමාගමකින් රුපියල් ලක්ෂ 114ක් වංචා කළ අලෙවි කළමනාකරු අල්ලයි
 
 *2025-07-18 10:42:09* · [`adalk`](https://www.ada.lk/breaking_news/තීන්ත-සමාගමකින්-රුපියල්-ලක්ෂ-114ක්-වංචා-කළ-අලෙවි-කළමනාකරු-අල්ලයි/11-417370) · `si`
@@ -159,26 +119,6 @@ US Effective Tariff Rate May Jump to 19.4% with New Reciprocal Levies
 ◼️
 
 [Data](articles/67f5b582.json)
-
----
-
-### UK to reduce voting age to 16, same as joining military
-
-*2025-07-18 10:34:00* · [`economynextcom`](https://economynext.com/uk-to-reduce-voting-age-to-16-same-as-joining-military-231402/) · `en`
-
-ECONOMYNEXT – The United Kingdom is bringing a bill to reduce the voting age to 16, the same age as when British citizen can join the army, and has to deduct PAYE tax from their wages.
-
-“The right to participate in our democracy is a defining aspect of our national identity and should not be taken for granted,” Angela Rayner, Deputy Prime Minister said in a statement.
-
-“Over the centuries, stretching back to the Magna Carta, men and women have struggled long and hard for the right to vote.
-
-“We remember the efforts of the Chartists, the Suffragettes and others in their fight to advance and widen participation in our democracy.”
-
-Sri Lanka inherited voting, including universal suffrage from British liberals. However in multiple countries in Europe in particular the popular vote has been used to promote fascism and majoritarianism, due to lack of absolute constitutional guarantees on quality and to restrain the state.
-
-...
-
-[Data](articles/307e7e18.json)
 
 ---
 
@@ -1809,5 +1749,63 @@ The petition was taken up before a Supreme Court bench comprising Justices Mahin
 ...
 
 [Data](articles/193d5461.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds flat
+
+*2025-07-17 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-flat-231288/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.58/70 to the US dollar Thursday, in the spot market Thursday down from 301.40/50 to the dollar, a day earlier while bond yields were flat.
+
+Bond yields were flat, with investors awaiting the outcome of US tariff talks, dealers said.
+
+A bond maturing 15.12.2026 closed at 8.10/20 Thursday unchanged from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/50 down from 8.45/56 percent.
+
+A bond maturing on 15.12.2028 closed at 8.95/9.0 percent from 8.95/9.07 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/52 steady from 9.50/53 percent.
+
+A bond maturing on 15.12.2032 closed at 10.40/45 from 10.40/50 percent.
+
+A bond maturing on 15.09.2034 closed at 10.85/95 from 10.84/95 percent.  (Colombo/July17/2025)
+
+◼️
+
+[Data](articles/b5852fb8.json)
+
+---
+
+### රෝහල් පරිත්‍යාග වලට තීරු බදු සහන ලබා නොදේ
+
+*2025-07-17 17:09:19* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්-පරිත්‍යාග-වලට-තීරු-බදු-සහන-ලබා-නොදේ/11-417362) · `si`
+
+විදේශගත පරිත්‍යාගශීලීන් විසින් මෙරට රජයේ රෝහල් සඳහා පරිත්‍යාග වශයෙන් මෙරටට එවන ගිලන් රථ, වෛද්‍ය උපකරන කට්ටල, රෝහල් ඇඳන් ආදිය සඳහා වසර දහයක් පමන ලබාදී තිබු තීරු බදු සහන මුදල්   ලබාදීම අමාත්‍යංශය විසින් පසුගිය ජූනි මාසයේ සිට අත්හිටුවා ඇති බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යංශයේ ලේකම් වෛද්‍ය අනිල් ජාසිංහ මහතාගෙන් ඊ⁣යේ ( 17 ) කරන ලද විමසිමකදී ඒ මහතා පැවසීය.
+
+එම නිසා එම තීරු බදු  සඳහා මුදල් ගෙවීමට සිදුවී ඇත්තේ සෞඛ්‍ය අමාත්‍යංශයට බවත් ජාසිංහ මහතා පැවසීය. මේ හේතුව නිසා වසරකට මිලියන ගණනින් මුදල් ශ්‍රී  ලංකා රේගුවට ගෙවීමට සෞඛ්‍ය අමාත්‍යංශයට සිදුවී  ඇතැයිද ඒ මහතා වැඩිදුරටත් කීය.
+
+එම නිසා විදේශවල සිටින ශ්‍රී ලංකා හා  වෙනත් රටවල පරිත්‍යාගශීලීන්ගෙන් ලැබෙන පරිත්‍යාග සඳහා වෙනත් ක්‍රමවත්  වැඩපිළිවෙලක්  අගෝස්තු මස දෙවන සතියේ සිට ක්‍රියාත්මක    කිරිමට  අදහස් කරන බවත්  , සෞඛ්‍යච අමාත්‍යාංශය  මහා භාණ්ඩාගාරය සහ ශ්‍රී ලංකා රේගුව සම්බන්ධ වන ආකාරයට ඒ සඳහා කමිටුවක් පත් කිරීමට තීරණය කර ඇති බවත් අනිල් ජයසිංහ මහතා සඳහන් කළේය .
+
+...
+
+[Data](articles/dd5227aa.json)
+
+---
+
+### 323 கொள்கலன்கள் விடுவிப்பு முறையற்றது ; பிமல் ரத்நாயக்க, சீவலி அருட்கொட கைது செய்யப்பட வேண்டும் - தயாசிறி ஜயசேகர
+
+*2025-07-17 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/220241) · `ta`
+
+கொள்கலன் விடுவிப்பு தொடர்பில் ஆராய்வதற்கு ஜனாதிபதியால் நியமிக்கப்பட்ட குழு பல பரிந்துரைகளை முன்வைத்துள்ளது. அந்த அறிக்கையில் சிவப்பு முத்திரை பதிக்கப்பட்ட கொள்கலன்கள் விடுவிக்கப்பட்டமை முறையற்ற செயற்பாடு என்று குறிப்பிடப்பட்டுள்ளது. அவ்வாறாயின் துறைமுக அபிவிருத்தி அமைச்சர் பிமல் ரத்நாயக்க மற்றும் சுங்கத் திணைக்களத்தின் பதில் ஆணையாளர் நாயகம் சீவலி அருட்கொட ஆகியோரை கைது செய்து முறையான விசாரணைகளை மேற்கொள்ள வேண்டும் என ஐக்கிய மக்கள் சக்தியின் குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+கொழும்பில் உள்ள தகவலறியும் உரிமை ஆணைக்குழுவில் முன்னிலையானதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி நிதியத்தில் இருந்து நிதி பெற்றவர்களின் பெயர் விபரங்களை அமைச்சர் நளிந்த ஜயதிஸ்ஸ அண்மையில் பாராளுமன்றத்தில் வெளிப்படுத்தினார். 2008 முதல் 2024 ஆம் ஆண்டு வரையான காலப்பகுதியில் ஆட்சியில் இருந்த அரசாங்கத்தின் போது ஜனாதிபதி நிதியத்தில் இருந்து நிதி பெற்ற அரசியல்வாதிகளின் பெயர் விபரங்கள் மாத்திரமே வெளிப்படுத்தப்பட்டன.
+
+...
+
+[Data](articles/913464c6.json)
 
 ---

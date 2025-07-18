@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 15:48:10**
+As of **2025-07-18 16:06:01**
 
 ## Newspaper Stats
 
-*Scraped **65,403** Articles*
+*Scraped **65,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,278
 adaderanalk | 7,980
-tamilmirrorlk | 9,375
+tamilmirrorlk | 9,376
 virakesarilk | 10,883
-adaderanasinhalalk | 11,231
+adaderanasinhalalk | 11,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,403 articles have been extended.
+61,973 (94.8%) of 65,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### கடல் வழிப் போக்குவரத்தில் ஈடுபட வேண்டாம்
+
+*2025-07-18 15:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-வழிப்-போக்குவரத்தில்-ஈடுபட-வேண்டாம்/175-361326) · `ta`
+
+அடுத்த 24 மணித்தியாலங்களுக்கு கடற்றொழில் நடவடிக்கைகளிலும், கடல் வழிப் போக்குவரத்திலும் ஈடுபட வேண்டாம் எனவும் கடற்றொழிலாளர்கள் அறிவுறுத்தப்படுகின்றனர்.
+
+காற்றின் வேகம் மணிக்கு 60 - 70 கிலோமீற்றர் வரை அதிகரித்து வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+புத்தளம் முதல் கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கரையோரங்களில் கடற்றொழிலில் ஈடுபடும் கடற்றொழிலாளர்களை கவனமாக செயற்படுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.  R
+
+◼️
+
+[Data](articles/337aa732.json)
+
+---
+
+### රාජිත සේනාරත්නගේ  අපේක්ෂිත ඇප ඉල්ලීම ප්‍රතික්ෂේප කරයි
+
+*2025-07-18 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212384) · `si`
+
+අල්ලස් කොමිසම විසින් තමන්ව අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ අපේක්ෂිත ඇප අයදුම්පත ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු සහ අල්ලස් කොමිසමේ නිලධාරීන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
+
+◼️
+
+[Data](articles/ce8c85f7.json)
+
+---
 
 ### கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு
 
@@ -1773,37 +1803,5 @@ It brought together a distinguished gathering of diplomats, representatives from
 ...
 
 [Data](articles/f0198205.json)
-
----
-
-### Port City Colombo showcases investment potential at Sri Lanka Investor Trade and Tourism Forum 2025 in Malaysia
-
-*2025-07-18 01:02:19* · [`dailyftlk`](https://www.ft.lk/business/Port-City-Colombo-showcases-investment-potential-at-Sri-Lanka-Investor-Trade-and-Tourism-Forum-2025-in-Malaysia/34-779117) · `en`
-
-Port City Colombo presentation at Sri Lanka Investor Trade and Tourism Forum 2025
-
-Port City Colombo representatives with Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath
-
-Port City Colombo participated as a Strategic Partner at the Sri Lanka Investor Trade & Tourism Forum 2025, held on 11 July, in Kuala Lumpur, Malaysia. The event was organised by the Sri Lankan High Commission in Kuala Lumpur, in collaboration with CHEC Port City Colombo Ltd., – the project developer. The aim of this noteworthy occasion was to showcase the emerging investment opportunities available in Sri Lanka to prospective Malaysian investors, with a special emphasis on Port City Colombo as a prime investment locale in South Asia.
-
-...
-
-[Data](articles/fefffeea.json)
-
----
-
-### Safeguarding trust in digital era
-
-*2025-07-18 01:00:46* · [`dailyftlk`](https://www.ft.lk/business/Safeguarding-trust-in-digital-era/34-779116) · `en`
-
-A seminar focused on “Data Protection and Cybersecurity implementation” will be held on 7 August, at the NH Collection in Colombo, under the theme “Safeguarding Trust: Implementing Data Protection and Cybersecurity in a Digital Era”.
-
-The event will feature two dedicated sessions addressing Sri Lanka’s readiness to operationalise the Personal Data Protection Act (PDPA) and strengthen cybersecurity practices across sectors. The initiative is aligned with the Government of Sri Lanka’s Digital Economy Program, which places digital trust and resilience at the core of national transformation efforts.
-
-The seminar will bring together professionals from legal, regulatory, ICT, and private sector domains, including large corporates, public enterprises, and SMEs. It aims to foster institutional dialogue, regulatory alignment, and practical awareness across industries.
-
-...
-
-[Data](articles/d35f34b0.json)
 
 ---

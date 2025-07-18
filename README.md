@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 20:05:39**
+As of **2025-07-18 20:20:55**
 
 ## Newspaper Stats
 
-*Scraped **65,441** Articles*
+*Scraped **65,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,009
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,282
-adaderanalk | 7,983
+adaderanalk | 7,985
 tamilmirrorlk | 9,379
 virakesarilk | 10,895
 adaderanasinhalalk | 11,240
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,441 articles have been extended.
+61,973 (94.7%) of 65,443 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/156b7615.json)
+
+---
+
+### Bangladesh Bank honours Sri Lankan bankers for foiling 2016 cyber heist
+
+*2025-07-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110607/bangladesh-bank-honours-sri-lankan-bankers-for-foiling-2016-cyber-heist) · `en`
+
+Bangladesh’s central bank (Bangladesh Bank) hosted a special award ceremony to formally recognise officials from Sri Lanka’s Pan Asia Banking Corporation PLC (PABC) for their role in preventing a US$20 million fraudulent transaction during the infamous 2016 Bangladesh Bank reserve heist incident.
+
+This ceremony held at its headquarters in Motijheel on Thursday (17), described by the Bangladesh central bank’s Governor Dr. Ahsan H. Mansur as “more than a formal recognition- it is a tribute to ethics, prudence, and human values that transcend national borders,” aims to honour the Sri Lankan officials for their “exemplary professionalism and integrity” in thwarting the attempted fraud.
+
+The Bangladesh central bank emphasised that the decisive actions of the Sri Lankan bankers not only protected Bangladesh’s financial interests but also significantly upheld global trust in the integrity of the banking system.
+
+...
+
+[Data](articles/60490475.json)
 
 ---
 
@@ -217,6 +233,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bdb45c59.json)
+
+---
+
+### EU warns of ‘grant scam’ targeting young Sri Lankan entrepreneurs
+
+*2025-07-18 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110605/eu-warns-of-grant-scam-targeting-young-sri-lankan-entrepreneurs) · `en`
+
+The European Union in Sri Lanka and the Maldives has issued an alert warning of a scam by an individual impersonating an official from the European Union (EU), claiming to provide grants or funds, in particular to young entrepreneurs.
+
+This person is reportedly taking money from individuals on false promises and then disappearing, the notice said, adding that “this is a scam”.
+
+It further noted that all EU grants and contracts are awarded only following an official selection processes which includes the submission and evaluation of proposals.
+
+“The EU selection and award procedures never allow the services of third parties, such as agents, to facilitate funding and will never request any payment from individuals or organisations in order to process submitted grant proposals or procurement tenders.”
+
+Those who encounter such fraudulent activities are urged to report them immediately to the relevant authorities.
+
+◼️
+
+[Data](articles/ad132a71.json)
 
 ---
 
@@ -1799,45 +1835,5 @@ He also shared insights into a separate tourism initiative involving a hotel pro
 ◼️
 
 [Data](articles/2c07ace2.json)
-
----
-
-### சுற்றுலாப் பயணியை பாலியல் வன்கொடுமை செய்த பௌத்த துறவி
-
-*2025-07-18 08:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணியை-பாலியல்-வன்கொடுமை-செய்த-பௌத்த-துறவி/175-361297) · `ta`
-
-காலி ஹபராதுவ விஹாரை ஒன்றில் வெளிநாட்டு சுற்றுலாப் பயணியை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் 81 வயதான பௌத்த துறவி  கைது செய்யப்பட்டுள்ளார்.
-
-41 வயதான நியூசிலாந்து நாட்டவருக்கு உணவு மற்றும் பானங்களை வழங்கிய நிலையில், பாலியல் வன்கொடுமைக்கு உட்படுத்தியதாக இவர் மீது குற்றம் சாட்டப்பட்டுள்ளது.
-
-சம்பவம் தொடர்பில் உனவட்டுன சுற்றுலா பொலிஸாரிடம் குறித்த சுற்றுலாப் பயணி  முறையிட்டதை அடுத்து பௌத்த துறவி கைது செய்யப்பட்டார். R
-
-◼️
-
-[Data](articles/05d453d8.json)
-
----
-
-### Sri Lanka revises loan to value ratios for vehicles, EV limit reduced
-
-*2025-07-18 08:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-revises-loan-to-value-ratios-for-vehicles-ev-limit-reduced-231380/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued a direction to banks and finance companies, revising loan to value ratios for vehicles, reducing electric vehicle credit limits to match others cars effective from July 18.
-
-The directions are issued to “enhance macroprudential policy making, mitigating systemic risks and harmonizing existing caps on LTV ratios to a large extent and reinforcing prudential credit standards,” the central bank said in the direction.
-
-A 90 percent loan to value for electric vehicles has been removed and brought near others.
-
-The LTV value for cars, SUVS and Vans increased to 60 percent from 50 percent.
-
-The value for commercial vehicles reduced to 80 percent from 90 percent.
-
-For cars which have been registered and in use within Sri Lanka for more than a year 70 percent.
-
-A 90 percent loan ceiling for electric vehicles has been removed. (Colombo/July18/2025)
-
-◼️
-
-[Data](articles/d1d7781e.json)
 
 ---

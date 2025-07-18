@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 01:04:30**
+As of **2025-07-19 01:15:48**
 
 ## Newspaper Stats
 
-*Scraped **65,466** Articles*
+*Scraped **65,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 667
 bbccomsinhala | 677
 islandlk | 3,993
 economynextcom | 4,009
-dailyftlk | 4,645
+dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,282
 adaderanalk | 7,987
-tamilmirrorlk | 9,382
+tamilmirrorlk | 9,383
 virakesarilk | 10,900
 adaderanasinhalalk | 11,245
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,466 articles have been extended.
+61,973 (94.7%) of 65,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### முன்னாள் அமைச்சர் சாந்தனிக்கு எதிரான வழக்கின் தீர்ப்பு
+
+*2025-07-19 01:00:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-சாந்தனிக்கு-எதிரான-வழக்கின்-தீர்ப்பு/175-361347) · `ta`
+
+முறையான நடைமுறையைப் பின்பற்றாமல் உலர் வலய மேம்பாட்டுத் திட்டத்தின் பணிப்பாளர் நாயகம் பதவிக்கு ஒருவரை நியமித்ததன் மூலமும், அமைச்சின் செயலாளரை தனது நண்பர்களை அதன் திட்டங்களுக்கு சட்டவிரோதமாக நியமிக்கத் தூண்டியதன் மூலமும் தண்டனைக்குரிய குற்றங்களைச் செய்ததாகக் கூறி, முன்னாள் மகளிர் மற்றும் குழந்தைகள் விவகார அமைச்சரும், உலர் வலய மேம்பாட்டு அமைச்சருமான சாந்தனி பண்டாரவுக்கு எதிராக லஞ்ச ஒழிப்பு ஆணையம் தாக்கல் செய்த வழக்கை வரும் 28 ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு மேல் நீதிமன்ற நீதிபதி சஹான் மாபா பண்டார நேற்று (18) உத்தரவிட்டார்.
+
+ஆறு ஆண்டுகளுக்கு முன்பு, அதாவது 2019 ஆம் ஆண்டு, முன்னாள் பெண்கள் மற்றும் குழந்தைகள் விவகார அமைச்சராகவும், உலர் மண்டல மேம்பாட்டு அமைச்சராகவும் பணியாற்றியபோது, லஞ்ச ஒழிப்புச் சட்டத்தின் 70வது பிரிவின் கீழ் 'ஊழல்' குற்றத்தைச் செய்ததாகக் கூறி, 11 குற்றச்சாட்டுகளின் கீழ் பிரதிவாதி அமைச்சருக்கு எதிராக லஞ்ச ஒழிப்பு ஆணையத்தால் தாக்கல் செய்யப்பட்ட வழக்கின் விசாரணையின் போது முன்வைக்கப்பட்ட உண்மைகளைக் கருத்தில் கொண்டு நீதிபதி இந்த உத்தரவை பிறப்பித்தார்
+
+...
+
+[Data](articles/c74b1277.json)
+
+---
+
+### President affirms commitment to religious and national progress
+
+*2025-07-19 00:57:25* · [`dailyftlk`](https://www.ft.lk/news/President-affirms-commitment-to-religious-and-national-progress/56-779202) · `en`
+
+Pledges to take necessary action for advancement of national, religious and social development
+
+President Anura Kumara Disanayake on Thursday pledged firm action in advancing national, religious and social development, whilst emphasising the importance of guidance from the Maha Sangha in governance.
+
+He made these remarks during a discussion held at the President’s House in Kandy with the Anunayake Theros of the Malwathu and Asgiri Chapters and other senior members of the Karaka Maha Sangha Sabha.
+
+The discussion focused on pressing religious and national matters, including the need to amend outdated laws such as the Budhhist Temporalities Ordinance and address issues in monastic education, the President’s Media Division noted in a statement.
+
+Disanayake assured that he will never hesitate to take necessary action for the advancement of national, religious and social development.
+
+...
+
+[Data](articles/b02446b3.json)
+
+---
+
+### Court rejects Rajitha’s anticipatory bail application
+
+*2025-07-19 00:55:59* · [`dailyftlk`](https://www.ft.lk/news/Court-rejects-Rajitha-s-anticipatory-bail-application/56-779201) · `en`
+
+Colombo Chief Magistrate Thanuja Lakmali Jayatunga yesterday rejected the anticipatory bail application filed by former Minister Rajitha Senaratne.
+
+On 14 July, Senaratne’s Attorney’s filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release in anticipation of a possible arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The officials of the Bribery Commission had previously informed the Court that the former Minister is expected to be taken into custody in connection with the alleged financial loss of Rs. 26.2 million to the Government, said to have resulted from awarding a sand excavation project at the Kirinda Fisheries Harbour to a Korean company.
+
+This had been stated by officials of the Bribery Commission when the former Ceylon Fisheries Harbour Corporation (CFHC) Chairman Upali Liyanage, who was arrested on corruption charges, was produced before the Court on 27 June.
+
+◼️
+
+[Data](articles/27317d65.json)
+
+---
+
+### Ex-Minister Chandrasena further remanded till 1 August
+
+*2025-07-19 00:54:39* · [`dailyftlk`](https://www.ft.lk/news/Ex-Minister-Chandrasena-further-remanded-till-1-August/56-779200) · `en`
+
+The Colombo Magistrate’s Court yesterday ordered to further remand former Minister S. M. Chandrasena till 1 August, over allegations of misusing State resources during the 2015 Presidential Election.
+
+On 4 July, Chandrasena was arrested after having recorded a statement with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+In a statement issued previously, the Bribery Commission noted that the former Minister is accused of having distributed maize seeds that had been imported in 2014 at a cost of Rs. 25 million to be provided at a concessional price to poor and needy farmers in the Anuradhapura District.
+
+Chandrasena is also accused of having intimidated officials at the Anuradhapura District Secretariat, including its Planning Director, to distribute the maize seeds to his political associates.
+
+◼️
+
+[Data](articles/0e91d80d.json)
+
+---
 
 ### No kite-flying near airports: AASL
 
@@ -1749,77 +1819,5 @@ It is reported that two unidentified assailants on a motorcycle carried out the 
 ◼️
 
 [Data](articles/48004e41.json)
-
----
-
-### “ஆசையை தூண்டி விட்டு   உல்லாசமாக இருக்க சொல்கிறார்”
-
-*2025-07-18 11:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசையை-தூண்டி-விட்டு-உல்லாசமாக-இருக்க-சொல்கிறார்/175-361305) · `ta`
-
-இந்தநிலையில், பணத்தாசையை தூண்டி விட்டு மனைவியை வலுக்கட்டாயமாக இருக்க வேண்டும் என கணவர் தொல்லை கொடுத்து வந்துள்ளார்.
-
-கர்நாடக மாநிலம் தட்சிண கன்னடா மாவட்டம் மங்களூரு அருகே உள்ள கங்கனாடி டவுன் பகுதியில் இடம்பெற்றுள்ளது.
-
-இதனால் தனது விருப்பத்திற்கு மாறாக அந்த பெண் கணவர் கூறியபடி வேறு நபரிடம் உல்லாசமாக இருந்துள்ளார். இதனை மறைந்து இருந்து கணவர் வீடியோ எடுத்துள்ளார்.
-
-அந்த வீடியோவை காண்பித்து மனைவியை அவர் மிரட்டி வந்துள்ளார். மேலும், தகாத வார்த்தைகளால் திட்டி மனைவியை அவர் தாக்கியும் உள்ளார்.
-
-இந்தநிலையில், கணவரின் தொல்லை தாங்க முடியாமல் மனைவி அவருக்கு தெரிந்த காவூர்  பொலிஸ் நிலையத்தில் பணியாற்றும் பொலிஸ்காரரான சந்திரநாயக்கிடம் இதுகுறித்து தெரிவித்தார். இதையடுத்து அவர் பெண்ணின் வீட்டிற்கு வந்து கணவர் செல்போனில் இருந்த ஆபாச வீடியோக்களை அழித்தார்.
-
-...
-
-[Data](articles/ccdc49a0.json)
-
----
-
-### ’’ஹாரி பொட்டர்’’  நடிகைக்கு வாகனம் ஓட்ட தடை
-
-*2025-07-18 11:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஹாரி-பொட்டர்-நடிகைக்கு-வாகனம்-ஓட்ட-தடை/54-361304) · `ta`
-
-‘ஹாரி பொட்டர்’ திரைப்படங்கள் மூலம் உலகளவில் பிரபலமடைந்த நடிகை எம்மா வாட்ஸனுக்கு, 6 மாதங்களுக்கு வாகனம் ஓட்ட தற்காலிகமாகத் தடை விதிக்கப்பட்டுள்ளது.
-
-பாரிஸ் நகரத்தை சேர்ந்த பிரபல ஹாலிவுட் நடிகையும், விளம்பர அழகியுமானவர் எம்மா வாட்சன். இவர் ஹாரி பொட்டர் திரைப்படங்களில் வரும் ஹெர்மாயினி கிரேஞ்சர் எனும் கதாபாத்திரத்தில் நடித்துள்ளார்.
-
-கடந்த 2001ம் ஆண்டு முதல் 2011 ம் ஆண்டு வரை 8 ஹாரி பொட்டர் படங்களில் நடித்துள்ளார். தனது 10 வயது முதல் நடிக்க வந்து ரசிகர்கள் மத்தியில் பிரபலமடைந்தார். கடந்த சில ஆண்டுகளாக திரையுலகில் இருந்து விலகி இங்கிலாந்தில் உள்ள ஆக்ஸ்போர்ட் பல்கலைக்கழகத்தில் முதுகலை பட்டம் படித்து வந்தார்.
-
-◼️
-
-[Data](articles/c1ee0973.json)
-
----
-
-### Former Minister S.M. Chandrasena further remanded
-
-*2025-07-18 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110597/former-minister-sm-chandrasena-further-remanded) · `en`
-
-Former Minister S.M. Chandrasena has been further remanded until August 01 after being produced before the Colombo Chief Magistrate’s Court.
-
-He was arrested by the Bribery Commission on July 04 on suspicion of committing the offence of corruption.
-
-In 2014, maize seeds worth Rs. 25 million—procured for distribution to poor farmers in the Anuradhapura District at subsidized prices—were allegedly distributed instead to his friends and political supporters. This distribution, reportedly carried out in violation of established legal procedures, is believed to have been aimed at gaining political advantage during that year’s presidential election.
-
-The Magistrate also ordered the Bribery Commission to complete the recording of statements from government officials who are witnesses at the rural level before the next court date.
-
-Accordingly, Colombo Chief Magistrate Thanuja Lakmali issued this order after considering the facts presented by both the Bribery Commission and the defense counsel.
-
-◼️
-
-[Data](articles/9200241f.json)
-
----
-
-### හිටපු ඇමති චන්ද්‍රසේන අගෝස්තු 01 දක්වා රිමාන්ඩ්
-
-*2025-07-18 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212374) · `si`
-
-2014 වසරේ අනුරාධපුර දිස්ත්‍රික්කයේ දිළිඳු ගොවීන් සඳහා සහනදායි මිල ගණන් යටතේ බෙදා දීමට රුපියල් මිලියන 25ක් මුදලක් වැයකර මිලදී ගනු ලැබූ බඩ ඉරිඟු බීජ නීත්‍යානුකූල ක්‍රමවේදයට පටහැනිව එම වසරේ පැවැති ජනාධිපතිවරණයේදී තමන්ට වාසියක් අත් කර ගැනීමේ අරමුණින් තම හිතවතුන්ට හා ආධාරකරුවන් අතර බෙදා හැරීම තුළින් දූෂණය නැමති වරද සිදු කළේ යැයි අල්ලස් කොමිසම විසින් සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු අමාත්‍ය එස්.එම්. චන්ද්‍රසේන මහතා තවදුරටත් අගෝස්තු මස 01 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-එදිනට පෙර ග්‍රාමීය මට්ටමෙන් සිටින සාක්ෂිකාර රජයේ නිලධාරීන්ගෙන් ප්‍රකාශ සටහන් කර අවසන් කරන ලෙසත් මහේස්ත්‍රාත්වරිය අල්ලස් කොමිසමට නියම කළාය.
-
-අල්ලස් කොමිසමේ සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
-
-◼️
-
-[Data](articles/65a1e4f4.json)
 
 ---

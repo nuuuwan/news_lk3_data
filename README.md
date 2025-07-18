@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 18:58:51**
+As of **2025-07-18 19:26:39**
 
 ## Newspaper Stats
 
-*Scraped **65,432** Articles*
+*Scraped **65,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,281
 adaderanalk | 7,983
 tamilmirrorlk | 9,379
 virakesarilk | 10,891
-adaderanasinhalalk | 11,238
+adaderanasinhalalk | 11,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,432 articles have been extended.
+61,973 (94.7%) of 65,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### දිවයින පුරා විශේෂ මෙහෙයුමක්
+
+*2025-07-18 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212391) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් සැකපිට පුද්ගලයන් 1,461ක් අත්අඩංගුවට ගෙන තිබේ.
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිතුවක්කු මහතාගේ උපදෙස් මත ආරක්ෂක නිලධාරීන් 14,000කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර ඇත.
+
+එහිදී වාහන 46ක් හා යතුරුපැදි 51ක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+වැඩිදුරටත් අදහස් දක්වමින් පොලිසිය පැවසුවේ මෙම මෙහෙ‍යුම හරහා අපරාධ සඳහා සෘජුව දායකත්වය ලබාදුන් පුද්ගලයන් 107ක් හා ත්‍රිවිධ හමුදාවෙන් පළාගිය පුද්ගලයින් 7 දෙනෙක් අත්අඩංගුවට ගත් බවය.
+
+එමෙන්ම හෙරොයින්, අයිස්, ගංජා හා නීති විරෝධී මත්පැන් ද මෙහිදී පොලිසිය විසින් සිය භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/2956ae78.json)
+
+---
 
 ### නීතිවිරෝධීව මෙරට රැඳි සිටි ඉන්දීය ජාතිකයින් 21ක් අත්අඩංගුවට
 
@@ -1841,25 +1861,5 @@ Without only promising to “buy Coca-Cola” or gas, Sri Lanka should push home
 ◼️
 
 [Data](articles/b2a9da8e.json)
-
----
-
-### White House says Trump diagnosed with vein condition after questions about bruises
-
-*2025-07-18 06:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110590/white-house-says-trump-diagnosed-with-vein-condition-after-questions-about-bruises) · `en`
-
-Donald Trump is suffering from a chronic vein condition, the White House announced on Thursday, after days of speculation regarding photographs showing bruising on the US president’s hand.
-
-After recently experiencing swelling in his legs, Trump underwent a “comprehensive exam” including vascular testing, according to White House Press Secretary Karoline Leavitt.
-
-Leavitt said Trump’s bruised hand was consistent with “tissue damage from frequent handshaking” while taking aspirin, which she said is “part of a standard cardio-vascular prevention regimen”.
-
-Trump, 79, has regularly touted his good health and once described himself as “the healthiest president that’s ever lived”.
-
-The president’s recently discovered vein condition is called chronic venous insufficiency, which occurs when leg veins fail to pump blood to the heart, causing it to pool in the lower limbs, which can then become swollen.
-
-...
-
-[Data](articles/113c954e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 16:21:53**
+As of **2025-07-18 16:33:35**
 
 ## Newspaper Stats
 
-*Scraped **65,410** Articles*
+*Scraped **65,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,278
 adaderanalk | 7,982
 tamilmirrorlk | 9,377
 virakesarilk | 10,884
-adaderanasinhalalk | 11,233
+adaderanasinhalalk | 11,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,410 articles have been extended.
+61,973 (94.7%) of 65,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### පාකිස්තානයේ ජලගැලීම්වලින් පැය 24ට 63ක් මරුට
+
+*2025-07-18 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212386) · `si`
+
+පාකිස්තානයේ පන්ජාබ් ප්‍රාන්තයට බලපා ඇති අයහපත් කාලගුණය හමුවේ හටගත් ජලගැලීම් ආපදා හේතුවෙන් පැය 24ක් තුළ පුද්ගලයින් 63ක් මියගොස් තිබේ.
+
+දියේ ගිලීම, ගොඩනැගිලි කඩාවැටීම සහ විදුලිසැර වැදීම වැනි අනතුරුවලින් මෙලෙස පිරිස මිය ගොස් ඇත.
+
+මෙම අයහපත් තත්ත්වය හේතුවෙන් ඉස්ලාමාබාද් අගනුවරට සහ රාවල්පිණ්ඩි නුවරට නිවාඩු දිනයක් නම් කිරීමට පාකිස්තාන බලධාරීන් පියවර ගත් අතර, ගංගා ආසන්න කලාපවල පහත්බිම්වල වෙසෙන ජනතාව ආරක්ෂිත ස්ථාන වෙත යොමුකිරීමටත් කටයුතු සිදුකර ඇත.
+
+අධික වර්ෂාව අතරතුර පාකිස්තානයේ රාවල්පිණ්ඩි හි චහාන් වේල්ලද කැඩී ගොස් තිබේ.
+
+මේ ආකාරයෙන් ජූනි 26 වෙනිදා සිට පාකිස්තානයට බලපෑ ජලගැලීම් ආපදාවලින් පුද්ගලයින් 170කට ආසන්න පිරිසක් මරණයට පත්ව ඇති අතර ඉන් වැඩි පිරිසක් ළමයින් බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8a58498d.json)
+
+---
 
 ### மனித புதைகுழிகள் தொடர்பில் சர்வதேச விசாரணைகளை மேற்கொள்வதற்கு அரசாங்கம் நடவடிக்கை எடுக்க  வேண்டும் – யாழ். கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு வேண்டுகோள்
 
@@ -1809,21 +1829,5 @@ The discussion was attended by TikTok Head of Government Relations and Public Af
 ◼️
 
 [Data](articles/f4b19cac.json)
-
----
-
-### Krishanthi Kumaraswamy tragedy and mass graves in Chemmani
-
-*2025-07-18 01:47:20* · [`dailyftlk`](https://www.ft.lk/columns/Krishanthi-Kumaraswamy-tragedy-and-mass-graves-in-Chemmani/4-779125) · `en`
-
-The Chemmani earth is speaking out again after so many years
-
-Chemmani, a sparsely populated area in the northern peninsula of Jaffna has in recent times acquired a somewhat dubious image. Just as Nallur in Jaffna is associated positively in public perception with the famous Kandasamy temple, Chemmani is associated negatively with mass graves. The long war between the Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam (LTTE) has resulted in innumerable instances of enforced disappearances and extrajudicial killings. The mass graves uncovered in Chemmani are symbolic proof of those disappearances and killings.
-
-In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy and the killing of her family. Rajapaksa revealed at his sentencing that between 300 and 400 Tamil civilians killed in 1996 were buried in the Chemmani area.
-
-...
-
-[Data](articles/c6f3f5df.json)
 
 ---

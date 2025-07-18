@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 15:06:38**
+As of **2025-07-18 15:21:56**
 
 ## Newspaper Stats
 
-*Scraped **65,397** Articles*
+*Scraped **65,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 3,993
 economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,276
+adalk | 6,277
 adaderanalk | 7,980
 tamilmirrorlk | 9,375
-virakesarilk | 10,879
+virakesarilk | 10,882
 adaderanasinhalalk | 11,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,397 articles have been extended.
+61,973 (94.8%) of 65,401 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### தரம் குறைந்த தேயிலைகளை உற்பத்தி செய்யும் தொழிற்சாலைகளுக்கு எதிராக சட்டத்தை கடுமையாக்குமாறு உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை
+
+*2025-07-18 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220300) · `ta`
+
+தரம் குறைந்த தேயிலைகளை உற்பத்தி செய்யும் தொழிற்சாலைகளுக்கு எதிராக சட்டத்தை கடுமையாக அமுல்படுத்துமாறு தேயிலை உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுத்ததுள்ளது.
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் தேயிலைத் தொழிற்துறை சார்ந்த நிறுவனங்களின் அதிகாரிகளுக்கும் இடையிலான கலந்துரையாடல் வியாழக்கிழமை (17) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இந்நாட்டின் தேயிலைத் தொழிற்துறை தொடர்பில் எழுந்துள்ள பிரச்சினைகள் தொடர்பில் இங்கு மீளாய்வு செய்யப்பட்டதுடன், தேயிலைக் கொழுந்துகளின் தரம் மற்றும் தேயிலை பயிர்ச்செய்கையின் உற்பத்தித்திறனை அதிகரித்தல், புதிய சர்வதேச சந்தை வாய்ப்புகளை கண்டறிதல் ஆகிய விடயங்கள் குறித்து  விசேட கவனம் செலுத்தப்பட்டது.
+
+தேயிலைத் தொழில்துறையினர் எதிர்நோக்கும் பிரச்சினைகள் குறித்தும் இதன்போது கலந்துரையாடப்பட்டதுடன், அவற்றிற்கு சாதகமான தீர்வுகளை வழங்குமாறும் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+...
+
+[Data](articles/420449ab.json)
+
+---
+
 ### Sri Lanka achieved 17-point rise in HPV vaccination coverage in 2024: WHO
 
 *2025-07-18 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-achieved-17-point-rise-in-hpv-vaccination-coverage-in-2024-who-231415/) · `en`
@@ -71,6 +89,20 @@ India and Pakistan are expected to launch their HPV vaccination programmes later
 ...
 
 [Data](articles/a95940c3.json)
+
+---
+
+### உடவளவை மா-ஆர காட்டுப்பகுதிக்குள் 06 யானைகள் விடுவிப்பு
+
+*2025-07-18 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220301) · `ta`
+
+யானைகள் சரணாலயத்தில் பாராமரிக்கப்பட்டு வந்த 06 காட்டு யானைகள் வியாழக்கிழமை (17) உடவளவை தேசிய பூங்காவின் மா-ஆர காட்டுப்பகுதிக்குள் விடுவிக்கப்பட்டுள்ளன.
+
+6 யானைகளும் இளம் வயதிலேயே அனாதரவாகி சுமார் ஐந்து ஆண்டுகளாக சரணாலயத்தில் பராமரிக்கப்பட்டு வந்தன. இந்த பாராமரிப்பு நடவடிக்கைகளுக்கு வெளிநாட்டு அமைப்புகளும் விலங்கியல் குழுக்களும் ஒத்துழைப்பு வழங்கியுள்ளன.
+
+◼️
+
+[Data](articles/ff8b1b99.json)
 
 ---
 
@@ -126,6 +158,24 @@ India and Pakistan are expected to launch their HPV vaccination programmes later
 
 ---
 
+### நாயின் உயிரை காப்பாற்ற முயன்ற சிறுவன் விபத்தில் சிக்கி உயிரிழப்பு
+
+*2025-07-18 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220292) · `ta`
+
+இந்தியாவின் பிலாய் நகர் பகுதியில் நாய் ஒன்றின் உயிரை காப்பாற்ற முயன்ற சிறுவன் விபத்தில் சிக்கி உயிரிழந்துள்ளதாக அந்நாட்டு ஊடகங்கள் தெரிித்துள்ளன.
+
+குறித்த சிறுவன், வீதியில் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த போது குறுக்கே பாய்ந்த நாயை காப்பாற்ற வீதியின் இடதுபக்கம் மோட்டார் சைக்கிளை திருப்பியுள்ளார்.
+
+இதன்போது மோட்டார் சைக்கிளின் பின்புறத்தில் நாய் மோதியுள்ள நிலையில் சிறுவனின் கட்டுப்பாட்டை இழந்த மோட்ாடர் சைக்கிள் அருகில் உள்ள குழியில் விழுந்துவிபத்துக்குள்ளாகியுள்ளது.
+
+பலத்த காயமடைந்த சிறுவனை, அந்த வழியாகச் சென்ற மூன்று மோட்டார் சைக்கிள் ஓட்டுநர்கள் குழு, வைத்தியசாலைக்கு கொண்டு சென்ற போது , சிறுவன் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1a14f739.json)
+
+---
+
 ### ஹட்டன் கடையில் பாரிய தீ
 
 *2025-07-18 13:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-கடையில்-பாரிய-தீ/76-361317) · `ta`
@@ -177,6 +227,24 @@ The importance of implementing various programmes for the capacity development o
 ◼️
 
 [Data](articles/efb35fa1.json)
+
+---
+
+### දකුණු කොරියාවට අධික වැසි, හතරක් මරුට
+
+*2025-07-18 13:48:53* · [`adalk`](https://www.ada.lk/international/දකුණු-කොරියාවට-අධික-වැසි--හතරක්-මරුට/3-417374) · `si`
+
+දකුණු කොරියාවට ඇද හැලෙන ධාරානිපාත වර්ෂාව හේතුවෙන් පුද්ගලයින් සිව් දෙනෙකු මිය ගොස් 1,300 කට වැඩි පිරිසක් ඉවත් කර ඇති අතර, අකාලයේ ඇති වන ජලගැල්ම දිගටම පවතිනු ඇතැයි බලධාරීන් අනතුරු අඟවා ඇත.
+
+වාර්තාගත වර්ෂාපතනය හේතුවෙන් දකුණු කොරියානු රජය කාලගුණය ආශ්‍රිත ආපදා අනතුරු ඇඟවීම ඉහළම මට්ටමට ඉහළ නැංවීමට පෙළඹී ඇත.
+
+රටේ බටහිර වෙරළ තීරයේ දරුණුතම බලපෑමට ලක් වූ නගරය වන සියෝසන් හි දින භාගයක් තුළ මිලිමීටර් 400 කට වඩා වැඩි වර්ෂාපතනයක් වාර්තා වී තිබේ.
+
+කාලගුණ ඒජන්සිය පවසන්නේ එය වසර 100කට වරක් පමණ සිදුවූවක් ලෙසයි.
+
+◼️
+
+[Data](articles/21b8f319.json)
 
 ---
 
@@ -1749,69 +1817,5 @@ Near Term (2025): LKR/USD stabilizes around 300, supported by CBSL’s USD purch
 ...
 
 [Data](articles/eca02894.json)
-
----
-
-### SLT-MOBITEL drives innovation at IESL RoboGames 2024
-
-*2025-07-17 22:24:00* · [`islandlk`](http://island.lk/slt-mobitel-drives-innovation-at-iesl-robogames-2024/) · `en`
-
-In a pioneering display of technological excellence, SLT-MOBITEL transformed the ‘IESL RoboGames 2024’ competition into an inspiring technological showcase, with the grand finale held recently, setting new benchmarks for robotics innovation in the country. Going far beyond traditional corporate support, SLT-MOBITEL’s active involvement demonstrated the commitment to championing Sri Lanka’s digital transformation, nurturing the nation’s brightest young minds.
-
-The IESL RoboGames 2024 concluded successfully with an impressive display of innovation and technical skill from undergraduate and school students across the island. The event encouraged collaborative problem-solving, technological advancements, and AI-driven solutions, positioning Sri Lanka as an emerging hub for robotics and AI development in the region.
-
-...
-
-[Data](articles/79dd67c2.json)
-
----
-
-### Hotel Secor stocks keep CSE buoyant
-
-*2025-07-17 22:23:00* · [`islandlk`](http://island.lk/hotel-secor-stocks-keep-cse-buoyant/) · `en`
-
-The hotel sector counters were active at the Colombo stock exchange yesterday creating notable price appreciation in hotel stocks. This enabled the market to perform on a positive note yesterday. Amid those developments marginal profit takings were also witnessed , market analysts said
-
-...
-
-[Data](articles/46649bb1.json)
-
----
-
-### தேசிய, மதம் மற்றும் சமூக மேம்பாட்டுக்காக நடவடிக்கை எடுக்க ஒருபோதும் தயங்க மாட்டேன் - ஜனாதிபதி
-
-*2025-07-17 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220266) · `ta`
-
-அரசாங்க விவகாரங்களில் மகா சங்கத்தினரின் தொடர்ச்சியான வழிகாட்டல்களை எதிர்பார்ப்பதாகவும், தேசிய, மத மற்றும் சமூக மேம்பாட்டுக்கான நடவடிக்கைகளை பின்வாங்காமல் செயற்படுத்துவதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-மல்வத்து - அஸ்கிரி உபய மகா விகாரையின் அனுநாயக்க தேரர் உட்பட நிர்வாக சபை நாயக்க தேரர்களுடன் வியாழக்கிழமை (17) பிற்பகல் கண்டியில் உள்ள ஜனாதிபதி மாளிகையில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
-
-மல்வத்து - அஸ்கிரி மகா நாயக்க தேரர்களின்  அனுசாசனைக்கு அமைவாக மத, தேசிய மற்றும் சமூகம் சார்ந்த விசேட விடயங்கள் தொடர்பில் கலந்துரையாடுவதே இதன் நோக்கமாகும்.
-
-பௌத்த சாசன  விடயங்களில் எழுந்துள்ள பிரச்சினைகளைத் தீர்க்க, பௌத்த விகாரை தேவாலகம் சட்டம்,  போன்ற பல்வேறு சட்டங்களில் சரியான நேரத்தில் திருத்தங்களைக் கொண்டுவர வேண்டியதன் அவசியம் குறித்தும் மற்றும் பிக்குமார்களுக்கான கல்வி தொடர்பாகவும் மகா சங்கத்தினர் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வந்தனர்.
-
-...
-
-[Data](articles/d840688d.json)
-
----
-
-### Teenager escapes attempted kidnapping in Kahathuduwa
-
-*2025-07-17 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110588/teenager-escapes-attempted-kidnapping-in-kahathuduwa) · `en`
-
-A 15-year-old boy has escaped an attempted kidnapping in Kahathuduwa.
-
-The teenager, who was being abducted in a white van, had reportedly jumped out of the vehicle in Ratnapura.
-
-According to a phone call made to the 119 Police Emergency Unit by an individual, the teenager who had been abducted in a van was seen near a restaurant in Ketandola, Ratnapura.
-
-Based on this information, police officers attached to the Ratnapura Police who were engaged in night patrol had taken the teenager into their custody.
-
-Kahathuduwa Police have launched an investigation reviewing CCTV footage to identify the group that attempted the abduction.
-
-◼️
-
-[Data](articles/4f89791b.json)
 
 ---

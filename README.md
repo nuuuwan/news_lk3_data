@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 03:30:38**
+As of **2025-07-19 03:47:44**
 
 ## Newspaper Stats
 
-*Scraped **65,477** Articles*
+*Scraped **65,478** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 583
-colombotelegraphcom | 667
+colombotelegraphcom | 668
 bbccomsinhala | 677
 islandlk | 3,993
 economynextcom | 4,009
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,477 articles have been extended.
+61,973 (94.6%) of 65,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -461,6 +461,18 @@ The FBI is responding to assist with the incident, according to the FBI’s Los 
 ◼️
 
 [Data](articles/16d5ff5f.json)
+
+---
+
+### Towards A Decentralized, Citizen-Centric Governance Model For Sri Lanka
+
+*2025-07-18 22:01:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-a-decentralized-citizen-centric-governance-model-for-sri-lanka/) · `en`
+
+Sri Lanka’s politically tarnished centralized system of governance structure has continued to disenfranchise the majority of its citizens and has robbed its true potential before and since independence was granted, in spite of multiple constitutions and social uprisings. The need of the hour before we face another crash is to reimagine the country’s political and administrative systems to prioritize capable, service-oriented, and preferably apolitical leadership at the local levels. This policy brief proposes a structural overhaul that emphasizes decentralized governance, constitutional reform, and digital connectivity to enable an inclusive,  transparent, and accountable system of governance aligned to protect and serve the needs of 22 million Sri Lankans.
+
+...
+
+[Data](articles/e4727676.json)
 
 ---
 
@@ -1799,21 +1811,5 @@ A statement issued by the Ministry of Finance further elaborates:
 ...
 
 [Data](articles/19640d28.json)
-
----
-
-### யாழில் ஹெரோயினுடன் மூவர் கைது
-
-*2025-07-18 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220286) · `ta`
-
-யாழ்ப்பாணம், குருநகர் பொலிஸ் பிரிவில் வியாழக்கிழமை (17) ஹெரோயின் போதைப்பொருளுடன் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-குருநகர் பகுதியிலுள்ள சந்தேகநபர்களாக இருந்த மூவரையும், அவர்களது நடைமுறையை சந்தேகத்துடன் கவனித்த பொலிஸார் சோதனை செய்தபோது 90 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மீட்கப்பட்டது.
-
-அதன்பின், மூவரையும் கைது செய்த குருநகர் பொலிஸார் அவர்களை தடுத்து வைத்து விசாரணைகள முன்னெடுத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/ddf6e21a.json)
 
 ---

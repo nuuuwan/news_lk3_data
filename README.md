@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 22:36:52**
+As of **2025-07-18 22:49:45**
 
 ## Newspaper Stats
 
-*Scraped **65,452** Articles*
+*Scraped **65,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,282
 adaderanalk | 7,986
 tamilmirrorlk | 9,380
 virakesarilk | 10,898
-adaderanasinhalalk | 11,244
+adaderanasinhalalk | 11,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,452 articles have been extended.
+61,973 (94.7%) of 65,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### අමෙරිකාවේ පිපිරීමකින් පොලිස් නිලධාරීන් තිදෙනෙකු මරුට
+
+*2025-07-18 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212397) · `si`
+
+අමෙරිකාවේ ලොස් ඇන්ජලීස් හී ප්‍රාන්ත ෂෙරීෆ් දෙපාර්තමේන්තුවේ පුහුණු මධ්‍යස්ථානයක සිදුවූ පිපිරීමකින් මේ වන විට පොලිස් නිලධාරීන් තිදෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+පිපිරීමට හේතුව කුමක්ද යන්න මෙතෙක් අනාවරණය වී නොමැති අතර එම දෙපාර්තමේන්තුවේ වාහන නැවැත්වීමේ ස්ථානයක මෙම පිපිරුම සිදුව ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+කෙසේ වෙතත් මෙම පිපිරීම සම්බන්ධව බලධාරීන් මේ වන විට විමර්ශන ආරම්භ කර ඇති අතර පිපිරීමේන් සමස්ත තුවාලකරුවන් සහ මියගිය පිරිස ‍සම්බන්ධව මේ වන විට අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/cdf3ac12.json)
+
+---
 
 ### බිලිඳිය ගැන රජයෙන් තීරණයක්
 
@@ -1819,25 +1835,5 @@ US Effective Tariff Rate May Jump to 19.4% with New Reciprocal Levies
 ◼️
 
 [Data](articles/67f5b582.json)
-
----
-
-### UK to reduce voting age to 16, same as joining military
-
-*2025-07-18 10:34:00* · [`economynextcom`](https://economynext.com/uk-to-reduce-voting-age-to-16-same-as-joining-military-231402/) · `en`
-
-ECONOMYNEXT – The United Kingdom is bringing a bill to reduce the voting age to 16, the same age as when British citizen can join the army, and has to deduct PAYE tax from their wages.
-
-“The right to participate in our democracy is a defining aspect of our national identity and should not be taken for granted,” Angela Rayner, Deputy Prime Minister said in a statement.
-
-“Over the centuries, stretching back to the Magna Carta, men and women have struggled long and hard for the right to vote.
-
-“We remember the efforts of the Chartists, the Suffragettes and others in their fight to advance and widen participation in our democracy.”
-
-Sri Lanka inherited voting, including universal suffrage from British liberals. However in multiple countries in Europe in particular the popular vote has been used to promote fascism and majoritarianism, due to lack of absolute constitutional guarantees on quality and to restrain the state.
-
-...
-
-[Data](articles/307e7e18.json)
 
 ---

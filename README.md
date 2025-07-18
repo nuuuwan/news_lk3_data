@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 12:26:56**
+As of **2025-07-18 12:50:20**
 
 ## Newspaper Stats
 
-*Scraped **65,371** Articles*
+*Scraped **65,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 4,002
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,274
-adaderanalk | 7,976
-tamilmirrorlk | 9,368
-virakesarilk | 10,877
-adaderanasinhalalk | 11,223
+adaderanalk | 7,978
+tamilmirrorlk | 9,369
+virakesarilk | 10,878
+adaderanasinhalalk | 11,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,371 articles have been extended.
+61,973 (94.8%) of 65,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### ඉතිහාසය හා සෞන්දර්ය තෝරාගන්නා විෂයන් අතරට
+
+*2025-07-18 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212377) · `si`
+
+2026 වසරේ සිට ක්‍රියාත්මක කිරීමට නියමිත නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට අනුව ඉතිහාසය හා සෞන්දර්ය විෂයන් විෂයමාලාවෙන් ඉවත්කර ඇති බවට ගුරු විදුහල්පති ඇතුළු පාර්ශ්ව රැසකින් දැඩි චෝදනාවක් එල්ල වී තිබේ.
+
+එවන් පසුබිමක අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් ඊයේ (17) පැවති වැඩසටහනකදී අධ්‍යාපන උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය නව විෂයමාලා සම්බන්ධයෙන් කරුණු පැහැදිලි කර ඇත.
+
+එම පැහැදිලි කිරීමට අනුව 10 සහ 11 ශ්‍රේණිවලදී මව් භාෂාව, ඉංග්‍රීසි, ගණිතය, විද්‍යාව සහ ආගම යන විෂයන් අනිවාර්යය විෂයන් ලෙස දක්වා ඇති අතර ඉතිහාසය හා සෞන්දර්ය විෂයන් පත්කර ඇත්තේ තෝරාගන්නා විෂයන් අතරටය.
+
+මෙවන් පසුබිමක ගුරු විදුහල්පති සංගම් නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් අදත් සිය විරෝධය පළ කළහ.
+
+◼️
+
+[Data](articles/c44d075d.json)
+
+---
+
+### ට්‍රම්ප්ගේ බද්ද අඩු කරගන්න සාකච්ඡාවක් අද
+
+*2025-07-18 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212376) · `si`
+
+ඇමෙරිකාව විසින් යෝජනා කරනු ලැබූ තීරු බදු අඩුකර ගැනීම සඳහා අඛණ්ඩ සාකච්ඡා පැවැත්වීමට තීරණය කර ඇති බව මුදල් අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව අද (18) දිනයේ දී ඇමෙරිකානු වෙළෙඳ නියෝජිත ආයතනය සමග ශ්‍රී ලංකාවේ නියෝජිතයන් එක්වන සාකච්ඡාවක් පැවැත්වෙනු ඇත.
+
+දෙරට අතර වෙළඳ හා ආයෝජන සබඳතා ප්‍රවර්ධනය කර ගැනීම සඳහා මුදල් අමාත්‍යාංශ ලේකම් ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සහ අදාළ රාජ්‍ය නිලධාරීන් මාර්ගගත ක්‍රමය ඔස්සේ මෙම සාකච්ඡාව පැවැත්වීමට නියමිතය.
+
+මේ සම්බන්ධයෙන් මුදල් අමාත්‍යාංශය විසින් නිකුත් කළ නිවේදනයක වැඩිදුරටත් මෙසේ සඳහන් වේ.
+
+...
+
+[Data](articles/19640d28.json)
+
+---
+
+### யாழில் ஹெரோயினுடன் மூவர் கைது
+
+*2025-07-18 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220286) · `ta`
+
+யாழ்ப்பாணம், குருநகர் பொலிஸ் பிரிவில் வியாழக்கிழமை (17) ஹெரோயின் போதைப்பொருளுடன் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+குருநகர் பகுதியிலுள்ள சந்தேகநபர்களாக இருந்த மூவரையும், அவர்களது நடைமுறையை சந்தேகத்துடன் கவனித்த பொலிஸார் சோதனை செய்தபோது 90 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மீட்கப்பட்டது.
+
+அதன்பின், மூவரையும் கைது செய்த குருநகர் பொலிஸார் அவர்களை தடுத்து வைத்து விசாரணைகள முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/ddf6e21a.json)
+
+---
+
+### அரை நிர்வாண பயணி : ஆணிலிருந்து பெண்ணாக மாறியவர்
+
+*2025-07-18 12:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரை-நிர்வாண-பயணி-ஆணிலிருந்து-பெண்ணாக-மாறியவர்/175-361310) · `ta`
+
+அறுகம் விரிகுடாவில் உள்ள ஒரு ஹோட்டல் அருகே மேலாடையின்றி நடந்து செய்திகளில் இடம்பிடித்த தாய்லாந்து பெண், நான்கு ஆண்டுகளுக்கு முன்பு ஆணிலிருந்து பெண்ணாக மாறி பாலியல் மறுசீரமைப்பு அறுவை சிகிச்சைக்கு உட்படுத்தப்பட்டார்.
+
+பொலிஸாரின் கூற்றுப்படி, சுற்றுலாப் பயணி உயிரியல் ரீதியாக ஆண், இருப்பினும் 'அவர்' முழு அறுவை சிகிச்சை மாற்றத்திற்கு உட்பட்டிருந்தார்.
+
+மேலாடையின்றி சுற்றுலாப் பயணியின் படங்கள் சமூக ஊடகங்களில் வெளிவந்தபோது இந்த சம்பவம் பொதுமக்களின் கவனத்திற்கு வந்தது,  அநாகரீகமான நடத்தை மற்றும் பொது இடையூறு ஏற்படுத்தியதற்காக பொலிஸார் அவரை ஜூலை 14 கைது செய்தனர்.
+
+பின்னர் பொத்துவில் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் அங்கு அவர் குற்றத்தை ஒப்புக்கொண்டார். அவருக்கு ஐந்து ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டது,
+
+அநாகரீகமான நடத்தைக்கு இரண்டு வார சிறைத்தண்டனையும், பொது இடையூறு விளைவித்ததற்காக ஒரு மாத சிறைத்தண்டனையும் நீதிமன்றம் விதித்தது, இரண்டும் ஐந்து ஆண்டுகளுக்கு ஒத்திவைக்கப்பட்டன..
+
+...
+
+[Data](articles/e973f54f.json)
+
+---
 
 ### தெஹிவளை புகையிரத நிலையத்திற்கு அருகில் துப்பாக்கிச் சூடு
 
@@ -73,6 +145,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0c63b24d.json)
+
+---
+
+### One injured in shooting near Dehiwala railway station
+
+*2025-07-18 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110598/one-injured-in-shooting-near-dehiwala-railway-station) · `en`
+
+A shooting incident has been reported near the Dehiwala Railway Station, a short while ago, said Ada Derana reporter.
+
+One individual sustained injuries to his leg in the shooting and has been admitted to the Colombo South Teaching Hospital in Kalubowila.
+
+It is reported that two unidentified assailants on a motorcycle carried out the shooting and fled the scene.
+
+◼️
+
+[Data](articles/18131f1a.json)
 
 ---
 
@@ -129,6 +217,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c1ee0973.json)
+
+---
+
+### Former Minister S.M. Chandrasena further remanded
+
+*2025-07-18 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110597/former-minister-sm-chandrasena-further-remanded) · `en`
+
+Former Minister S.M. Chandrasena has been further remanded until August 01 after being produced before the Colombo Chief Magistrate’s Court.
+
+He was arrested by the Bribery Commission on July 04 on suspicion of committing the offence of corruption.
+
+In 2014, maize seeds worth Rs. 25 million—procured for distribution to poor farmers in the Anuradhapura District at subsidized prices—were allegedly distributed instead to his friends and political supporters. This distribution, reportedly carried out in violation of established legal procedures, is believed to have been aimed at gaining political advantage during that year’s presidential election.
+
+The Magistrate also ordered the Bribery Commission to complete the recording of statements from government officials who are witnesses at the rural level before the next court date.
+
+Accordingly, Colombo Chief Magistrate Thanuja Lakmali issued this order after considering the facts presented by both the Bribery Commission and the defense counsel.
+
+◼️
+
+[Data](articles/9200241f.json)
 
 ---
 
@@ -1697,123 +1805,5 @@ A hospital spokesperson has stated that the baby is in good health.
 ◼️
 
 [Data](articles/4092629a.json)
-
----
-
-### ගිනිඅවි සමඟ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
-
-*2025-07-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212361) · `si`
-
-කටාන - දෙමන්හංදිය ප්‍රදේශයේදී සිදු කළ විශේෂ වැටලීමකදී ගිනිඅවි හතරක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුව ගෙන තිබේ.
-
-මීගමුව කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ ස්ථානාධිපතිවරයාට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර ඇත.
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 51 සහ 58වන කටියල ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
-
-එක් සැකකරුවෙකු සන්තකයේ තිබී විදේශ රටක නිෂ්පාදිත රිවෝල්වර් වර්ගයේ ගිනි අවියක්, ටී.56 පතරොම් යෙදිය හැකි මෙරට නිෂ්පාදිත ටීකටස් වර්ගයේ ගිනි අවියක්, රිවෝල්වර් ගිනි අවි සෑදීමට භාවිතා කළ හැකි ආකෘතියක් සහ ගිනි අවි සෑදීමට යොදා ගන්නා ලද උපකරණ කිහිපයක් පොලීසිය සිය භාරයට ගෙන ඇත.
-
-එමෙන්ම අනෙක් සැකකරු සන්තකයේ තිබී මෙරට නිෂ්පාදිත ගිනි අවි දෙකක් ද පොලීසිය විසින් සොයා ගෙන තිබේ.
-
-සැකකරුවන් සම්බන්ධයෙන් වැඩිදුර විමර්ශන මීගමුව කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය හා කටාන පොලිස් ස්ථානය මගින් සිදු කරයි.
-
-◼️
-
-[Data](articles/470748dc.json)
-
----
-
-### Blackstone-backed Ventive exploring resort development in Sri Lanka
-
-*2025-07-17 18:37:00* · [`economynextcom`](https://economynext.com/blackstone-backed-ventive-exploring-resort-development-in-sri-lanka-231294/) · `en`
-
-ECONOMYNEXT – Ventive Hospitality Ltd, an India based company which owns and manages hotels and retail properties in South Asia, is exploring resort development in Sri Lanka, Director Thilan Wijesinghe was quoted as saying in a statement.
-
-Ventive Hospitality is backed by US-based Blackstone group and Panchshil group, also based in India.
-
-Wijesinghe’s TW Holdings had recently advised on a Blackstone acquisition of in Indian property group which promoted Sri Lanka’s Altair Holdings.
-
-“Ventive is actively exploring resort developments in Sri Lanka,”  statement from TW Holdings said.
-
-RELATED : Sri Lanka Altair acquisition by Blackstone advised by TWC
-
-Ventive Hospitlity is already developing an 80-room hotel in Sri Lanka’s Pottuvil, according to its website.
-
-Ventive Hospitality’s portfolio includes 11 operational hotel in India and the Maldives. Ventive also manages 3.4 million square feet of commercial and retail space. (Colombo/July18/2025)
-
-◼️
-
-[Data](articles/9af39b47.json)
-
----
-
-### Sri Lanka in talks for duty free access to over 800 goods to US: report
-
-*2025-07-17 18:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-for-duty-free-access-to-over-800-goods-to-us-report-231314/) · `en`
-
-ECONOMYNEXT – Sri Lanka is discussing a list of 1,161 items where the US has offered duty free access for for 70 to 80 percent of them, as part of ongoing tariff talks, Deputy Minister for Economic Development, Anil Jayantha Fernando said in a television talk show.
-
-The US has presented the list for discussions which included 42 agricultural items, he said in an interview with Sri Lanka’s Derana Television.
-
-Apparel was also included in the list, he said, without elaborating whether apparel was included in the duty-free list.
-
-But before the Trump tariff Sri Lanka was already paying taxes ranging from 7.5 percent to 16.5 percent on apparel exported to the US.
-
-Minister Jayantha he could not disclose individual items or specific details of the talks as there were diplomatic exchanges going on, but after an agreement is finalized, details will be made public.
-
-Many imports to the US are charged low rates of around 3 to 5 percent.
-
-...
-
-[Data](articles/c8482509.json)
-
----
-
-### President inaugurates wax museum at historic Ehelepola Walawwa in Kandy
-
-*2025-07-17 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110582/president-inaugurates-wax-museum-at-historic-ehelepola-walawwa-in-kandy) · `en`
-
-President Anura Kumara Dissanayake has officially declared opened the Wax Museum at the historic Ehelepola Walawwa in Kandy today (17).
-
-The Ehelepola Walawwa, which was renovated by the Urban Development Authority, has been handed over to the Temple of the Sacred Tooth Relic. The museum was then established, ensuring the preservation of its archaeological and cultural significance, the President’s Media Division said in a statement.
-
-The museum features wax recreations depicting the architecture, customs and arts and crafts of the Kandyan Kingdom, to which the Ehelepola Walawwa belongs. There are also exhibition stalls showcasing traditional industries, as well as a dining area illustrating how ancient royal meals were prepared, complete with their recipes, the PMD added.
-
-...
-
-[Data](articles/147c9ec1.json)
-
----
-
-### செம்மணி எதிர்ப்பு ஆர்ப்பாட்டத்தில் குழப்பம்
-
-*2025-07-17 18:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-எதிர்ப்பு-ஆர்ப்பாட்டத்தில்-குழப்பம்/175-361275) · `ta`
-
-செம்மணி படுகொலைக்கு எதிர்ப்பு தெரிவித்து கொழும்பில் முன்னெடுப்பட்டுள்ள ஆர்ப்பாட்டத்தில் தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோகணேசனனும் கட்சியின் உறுப்பினர்களும் கலந்துக்கொண்டுள்ளனர்.
-
-அதன்போது ஆர்ப்பாட்டகாரர்கள் ஆர்ப்பாட்டத்தை பேரணியாக முன்னோக்கி நகரத்த முற்பட்ட வேளை,பொலிஸாருக்கும் ஆர்ப்பாட்டகாரர்களுக்குமிடையில் வாய்த்தர்க்கம் ஏற்பட்டு அமைதியின்மை ஏற்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/0d50d3a6.json)
-
----
-
-### හෙද නිලධාරීන්ගේ විශ්‍රාම වයස අවුරුදු 60ක් බව ‍ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
-
-*2025-07-17 18:16:31* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-නිලධාරීන්ගේ-විශ්‍රාම-වයස-අවුරුදු-60ක්-බව-‍ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-417366) · `si`
-
-රජයේ රෝහල්වල සේවය කරන හෙද නිලධාරීන් අවුරුදු 60 දී අනිවාර්ය විශ්‍රාම ගැන්වීමට රජය ගෙන තිබූ තීරණය ශ්‍රේෂ්ඨාධිකරණය අද (17) තහවුරු කළේය.
-
-රාජ්‍ය සේවයේ නියුතු ශ්‍රේණි හතරක හෙද නිලධාරීන් වයස අවුරුදු 60 දී අනිවාර්ය විශ්‍රාම ගැන්වීමට රජය ගෙන තිබූ තීරණය ක්‍රියාත්මක කිරීම වළකාලමින් අභියාචනාධිකරණය නිකුත් කර තිබූ අතුරු තහනම් නියෝගය  බලරහිත කරමින් ශ්‍රේෂ්ඨාධිකරණය ප්‍රකාශයට පත්කළ තීන්දුවක් මඟින් රජයේ තීරණය ශ්‍රේෂ්ඨාධිකරණය එලෙස තහවුරු කළේය.
-
-නීතිපතිවරයා ගොනු කළ අභියාචන පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙසේ නියෝග කරනු ලැබීය”
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන යසන්ත කෝදාගොඩ, ජනක් ද සිල්වා, සහ දිලිප් නවාස් යන විනිසුරු මඩුල්ල හමුවේ මෙම අභියාචන පෙත්සම සලකා බැලිණී.
-
-නීතිපතිවරයා ගොනු කළ මෙම අභියාචන පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් රාජ්‍ය සේවා එක්සත් හෙද සංගමය, එහි සභාපති මුරුත්තෙට්ටුවේ ආනන්ද හිමියන්, ජාතික රෝහලේ ප්‍රධාන හෙද නිලධාරිනී පුෂ්පා රම්‍යා ද සොයිසා ඇතුළු පිරිසක් නම් කර ඇත.
-
-...
-
-[Data](articles/72ff3a44.json)
 
 ---

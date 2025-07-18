@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 23:05:53**
+As of **2025-07-18 23:21:11**
 
 ## Newspaper Stats
 
-*Scraped **65,453** Articles*
+*Scraped **65,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 4,009
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,282
-adaderanalk | 7,986
-tamilmirrorlk | 9,380
+adaderanalk | 7,987
+tamilmirrorlk | 9,381
 virakesarilk | 10,898
 adaderanasinhalalk | 11,245
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,453 articles have been extended.
+61,973 (94.7%) of 65,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### இறப்பதற்கு முன்... முதலிரவுக் கட்டிலில் அழுகையுடன் எம்.ஜி.ஆர்
+
+*2025-07-18 23:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இறப்பதற்கு-முன்-முதலிரவுக்-கட்டிலில்-அழுகையுடன்-எம்-ஜி-ஆர்/54-361344) · `ta`
+
+தமிழ் சினிமாவிலும், அரசியலிலும் தனக்கென தனி இடத்தை பிடித்து இன்றும் மக்கள் மனதில் வாழ்ந்துகொண்டிருக்கும் மக்கள் திலகம் எம்.ஜி.ஆர் தான் இறப்பதற்கு முன்பு, விசிட் அடித்த இடங்கள் என்னென்ன என்பது குறித்து மறைந்த நடிகர் ராஜேஷ் ஒரு பேட்டியில் கூறியுள்ளார்.
+
+நாடக நடிகராக இருந்து தமிழ் சினிமாவில் துணை நடிகராக அறிமுகமானவர் எம்.ஜி.ஆர். தொடர்ந்து பல படங்களில் துணை நடிகர், 2-வது நாயகனாக நடித்திருந்த எம்.ஜி.ஆர் 10 வருட போராடத்திற்கு பிறகு சினிமாவில் நாயகனாக உயர்ந்தார்.
+
+அதன்பிறகு ஒரு முன்னணி நடிகராக திரையுலகில் வலம் வந்த எம்.ஜி.ஆர் பல வெற்றிப்படங்களை கொடுத்தார். இயக்குனர் தயாரிப்பாளர் என பல அவதாரங்களையும் எடுத்து வெற்றி கண்டவர் எம்.ஜி.ஆர்.
+
+...
+
+[Data](articles/2509d42b.json)
+
+---
 
 ### අමෙරිකාවේ පිපිරීමකින් පොලිස් නිලධාරීන් තිදෙනෙකු මරුට
 
@@ -45,6 +61,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cdf3ac12.json)
+
+---
+
+### At least 3 dead after explosion at LA County Sheriff’s Department training facility
+
+*2025-07-18 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110609/at-least-3-dead-after-explosion-at-la-county-sheriffs-department-training-facility) · `en`
+
+At least three people have died in an explosion at a Los Angeles County Sheriff’s Department’s training facility on Friday morning, according to US Attorney General Pam Bondi.
+
+“I just spoke to (US Attorney Bill Essayli) about what appears to be a horrific incident that killed at least three at a law enforcement training facility in Los Angeles,” Bondi said in a post on X. “Our federal agents are at the scene and we are working to learn more. Please pray for the families of the sheriff’s deputies killed.”
+
+The explosion happened at the LASD’s Biscailuz Training Center, which houses the sheriff’s department’s special enforcement units and bomb squad, around 7:30 a.m. local time, a senior law enforcement source familiar with the incident told CNN.
+
+The FBI is responding to assist with the incident, according to the FBI’s Los Angeles field office. Agents with the Bureau of Alcohol, Tobacco, Firearms and Explosives are also on scene, according to Bondi.
+
+...
+
+[Data](articles/5195a7bc.json)
 
 ---
 
@@ -1797,43 +1831,5 @@ It is reported that he arrived at the CID to file a complaint regarding an alleg
 ◼️
 
 [Data](articles/6f022a0e.json)
-
----
-
-### US effective tariff rate may jump to 19.4-pct with new tariffs: Fitch Ratings
-
-*2025-07-18 10:44:00* · [`economynextcom`](https://economynext.com/us-effective-tariff-rate-may-jump-to-19-4-pct-with-new-tariffs-fitch-ratings-231403/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has said it was revising its US Effective Tariff Rate (ETR) Monitor to 19.4% from 14.1% due to the higher reciprocal tariffs and duties coming into force on August 1.
-
-“The threatened tariff increases represent a significant increase from existing tariffs,” the ratings agency said.
-
-“The ETR reflects our assumption that about half of previous tariff-free imports will ultimately be reclassified as USMCA compliant.”
-
-The ETR represents total duties as a percent of total imports and changes with shifts in import share by country of origin and product mix, Fitch said.
-
-US Effective Tariff Rate May Jump to 19.4% with New Reciprocal Levies
-
-...
-
-[Data](articles/d49678f5.json)
-
----
-
-### තීන්ත සමාගමකින් රුපියල් ලක්ෂ 114ක් වංචා කළ අලෙවි කළමනාකරු අල්ලයි
-
-*2025-07-18 10:42:09* · [`adalk`](https://www.ada.lk/breaking_news/තීන්ත-සමාගමකින්-රුපියල්-ලක්ෂ-114ක්-වංචා-කළ-අලෙවි-කළමනාකරු-අල්ලයි/11-417370) · `si`
-
-ප්‍රසිද්ධ තීන්ත සමාගමකින් රුපියල් එක්කෝටි දාහතර ලක්ෂයකට ආසන්න මුදලක් වංචා කල එම සමාගමෙහි අලෙවි කළමණාකරුවෙකු අත්අඩංගුවට ගත්බව පානදුර විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි .
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ඇල්පිටිය ඇත්කදුර ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයකු බව පොලිසිය කීය.
-
-ආයතනයේ සිදුකල ගිණුම් පරීක්ෂාවකදී රුපියල් ලක්ෂ 97 කට ආසන්න මුදලක් වංචාකර ඇති බවට සැකකරු පිළිගෙන මුදල් නැවත ලබාදෙන බවට දිව්රුම් ප්‍රකාශයක්ද ලබාදී තිබී ඇති බවත් , පසුව සිදුකල වැඩිදුර විමර්ශන වලදී රුපියල් එක්කෝටි  දාහතර ලක්ෂයක් වංචා කර ඇති බවට හෙලිවූ බවත් පොලිසිය සදහන් කරයි .
-
-තීන්ත මිළදී ගත් හාඩ්වෙයාර්  වෙතින් ආයතනය වෙත ලබාදීම සදහා ලබාදී තිබූ මුදල් මෙසේ වංචා කර ඇති බවට විමර්ශන වලදී හෙලිව ඇති බවද  පොලිසිය කීය. සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි .
-
-◼️
-
-[Data](articles/67f5b582.json)
 
 ---

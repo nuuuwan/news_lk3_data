@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 06:09:20**
+As of **2025-07-18 06:35:14**
 
 ## Newspaper Stats
 
-*Scraped **65,326** Articles*
+*Scraped **65,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,270
 adaderanalk | 7,968
-tamilmirrorlk | 9,354
+tamilmirrorlk | 9,355
 virakesarilk | 10,871
 adaderanasinhalalk | 11,215
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,326 articles have been extended.
+61,973 (94.9%) of 65,327 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1fd572f3.json)
+
+---
+
+### கமல்ஹாசனை சந்தித்தார் திருமாவளவன்
+
+*2025-07-18 03:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமல்ஹாசனை-சந்தித்தார்-திருமாவளவன்/175-361291) · `ta`
+
+மாநிலங்களவை உறுப்பினராக தேர்வாகியுள்ள மக்கள் நீதி மய்யம் கட்சித் தலைவர் கமல்ஹாசனை நேரில் சந்தித்து வி.சி.க. தலைவர் திருமாவளவன் வாழ்த்து தெரிவித்துள்ளார்.
+
+சென்னை, ஆழ்வார்பேட்டையில் உள்ள மக்கள் நீதி மய்யம் கட்சி அலுவலகத்தில் நேற்று இந்த சந்திப்பு இடம்பெற்றுள்ளது. (a)
+
+◼️
+
+[Data](articles/55493628.json)
 
 ---
 
@@ -1771,29 +1785,5 @@ Police stated that one of these motorbikes alone is valued at more than Rs. 15 m
 ...
 
 [Data](articles/42e74b9e.json)
-
----
-
-### Two arrested over abduction and murder of youth in Kahawatta remanded
-
-*2025-07-17 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/110572/two-arrested-over-abduction-and-murder-of-youth-in-kahawatta-remanded) · `en`
-
-Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until July 28.
-
-They were remanded after being produced before the Pelmadulla Magistrate’s Court.
-
-A total of four individuals were arrested yesterday (16), in connection with the abduction and the murder of a youth in Kahawatta on June 30.
-
-Police were granted permission to detain for a period of seven days and question two of the four suspects arrested in connection with the incident.
-
-The Homagama Magistrate’s Court ordered the other two suspects to be remanded until today.
-
-Accordingly, the duo was produced before the Pelmadulla Magistrate’s Court and has been remanded until July 28.
-
-On June 30, a 22-year-old youth died in the shooting while another 27-year-old person was hospitalized after sustaining injuries.
-
-...
-
-[Data](articles/05633167.json)
 
 ---

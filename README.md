@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 18:32:40**
+As of **2025-07-18 18:58:51**
 
 ## Newspaper Stats
 
-*Scraped **65,424** Articles*
+*Scraped **65,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,94 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,993
-economynextcom | 4,005
+economynextcom | 4,009
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,280
+adalk | 6,281
 adaderanalk | 7,983
-tamilmirrorlk | 9,378
+tamilmirrorlk | 9,379
 virakesarilk | 10,891
-adaderanasinhalalk | 11,236
+adaderanasinhalalk | 11,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,424 articles have been extended.
+61,973 (94.7%) of 65,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### නීතිවිරෝධීව මෙරට රැඳි සිටි ඉන්දීය ජාතිකයින් 21ක් අත්අඩංගුවට
+
+*2025-07-18 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212390) · `si`
+
+අන්තර්ජාලය ඔස්සේ සූදු ඔට්ටු ඇල්ලීමේ ජාවාරමක නිතර වී සිටි ඉන්දීය ජාතිකයින් 21 දෙනෙකු ආගමහන විගමන දෙපාර්තමේන්තුවේ විමර්ශන අංශයේ නිලධාරීන් පිරිසක් විසින් අද (18) පෙරවරුවේ අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම පිරිස සංචාරක වීසා යටතේ මෙරටට පැමිණ වීසා ඉකුත් වූ පසුවත් නීතිවිරෝධී ලෙස කිරුලපන ප්‍රදේශයේ නිවසක රැඳී සිටිමින් මෙම ජාවාරම සිදුකර ඇත.
+
+ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශය යටතේ පවතින අවදානම් තක්සේරු කිරීමේ ඒකකයේ නිලධාරීන් විසින් දත්ත විශ්ලේෂණය කිරීමෙන් පසු මේ බව අනාවරණය කර ගැනීමෙන් පසු මෙම පිරිස අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් ඉන්දීය ජාතිකයින් සියලුදෙනා අවුරුදු 22-36ත් අතර පසුවන්නන් බවද අනාවරණය වී ඇත.
+
+මෙම පිරිස කඩිනමින් ඉන්දියාව වෙත පිටුවහල් කිරීම සඳහා වැලිසර පිහිටි රැඳවුම් මධ්‍යස්ථානයේ රඳවා තැබීමට ආගමන විගමන දෙපාර්තමේන්තුවේ විමර්ශන අංශයේ නිලධාරීන් විසින් පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/50aa6ef3.json)
+
+---
+
+### 80 வயதான பெண்ணின் மரணதண்டனை இரத்து
+
+*2025-07-18 18:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வயதான-பெண்ணின்-மரணதண்டனை-இரத்து/175-361330) · `ta`
+
+1993 ஆம் ஆண்டு நடந்த ஒரு கொலைக்காக 80 வயதுடைய ஒரு பெண்ணுக்கு ஹம்பாந்தோட்டை மேல் நீதிமன்றம் விதித்த தண்டனை மற்றும் மரண தண்டனையை மேல்முறையீட்டு நீதிமன்றம் ரத்து செய்துள்ளது.
+
+1993 ஆம் ஆண்டு ஜனவரி 18 ஆம் திகதி அம்பலாந்தோட்டையில் உள்ள மோதரபிலிவெலவில் மீகஹலந்ததுரகே ஜெயசேனவின் மரணத்திற்கு காரணமானதாக சிறிமா எதிரிசூரிய மீது சட்டமா அதிபர் குற்றப்பத்திரிகை தாக்கல் செய்திருந்தார் -
+
+இது தண்டனைச் சட்டத்தின் பிரிவு 296 இன் கீழ் தண்டனைக்குரிய குற்றமாகும். 2023 ஆம் ஆண்டு நவம்பர் 14 ஆம் திகதி ஹம்பாந்தோட்டை மேல் நீதிமன்றம் விதித்த தண்டனை மற்றும் மரண தண்டனையை, கொலையில் குற்றம் சாட்டப்பட்டவரின் தொடர்பு தொடர்பாக இரண்டு நேரில் கண்ட சாட்சிகளின் சாட்சியங்களில் உள்ள முரண்பாடுகள் காரணமாக நிலைநிறுத்த முடியாது என்று மேல்முறையீட்டு நீதிமன்றத்தின் இரண்டு நீதியரசர்கள் கொண்ட அமர்வு தீர்ப்பளித்தது.
+
+சஹான் வீரசிங்க மற்றும் தருஷி கமகே ஆகியோருடன் மூத்த வழக்கறிஞர் தர்ஷன குருப்பு, குற்றம் சாட்டப்பட்டவர்கள் சார்பாக ஆஜரானார்கள்
+
+◼️
+
+[Data](articles/41b1e375.json)
+
+---
+
+### තවත් වනඅලියෙක් අවාසනාවන්ත ලෙස මරුට
+
+*2025-07-18 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212389) · `si`
+
+බුත්තල මහගොඩයාය ප්‍රදේශයේ පැපොල් වගා බිමක තිබී මියගිය වනඅලියෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+
+මෙසේ මිය ගොස් ඇත්තේ අවුරුදු 20-25ත් අතර වයසක පසුවන වනඅලියෙක් බව අනාවරණය වී ඇත.
+
+මෙම මරණය කෙසේ සිදු වූයේද යන්න පිළිබඳ නිෂ්චිත තොරතුරක් මේ වන තෙක් අනාවරණය වී නොමැත.
+
+අදාළ සිදුවීම සම්බන්ධයෙන් වනජීවි නිලධාරීන් සහ බුත්තල පොලිස් නිලධාරීන් විසින් මේ වන විට විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/9eb7aa5c.json)
+
+---
+
+### දෙහිවල වෙඩි තැබීමක්
+
+*2025-07-18 18:09:22* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-වෙඩි-තැබීමක්/11-417378) · `si`
+
+අද උදෑසන කාලයේ දෙහිවල පොලිස් වසමේ දුම්රිය පොළ ප්‍ර දේශයේදී යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් සිදුකළ වෙඩි තැබීමකින් තුවාල ලැබූ  පුද්ගලයෙක් කළුබෝවිල රෝහලට ඇතුළත් කර ඇතැයි පොලීසිය කියයි.
+
+තුවාල කරු අවුරුදු 46ක් වන වැල්ලවත්ත පදිංචිකරුවෙකි. වෙඩි තැබීම සඳහා පිස්තෝල අවියක් භාවිත කර තිබේ. වෙඩි තැබීමට හේතුව හෝ වෙඩි තැබුවේ කවුරුන්ද යන්න පිළිබඳව මෙතෙක් තොරතුරු වාර්තා නොවන බව පොලීසිය කියයි. දෙහිවල පොලීසිය මේ සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/bdb45c59.json)
+
+---
 
 ### லோகேஷ் கனகராஜ் தயாரிக்கும் 'மிஸ்டர் பாரத்' படத்தின் படப்பிடிப்பு நிறைவு
 
@@ -93,6 +163,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0fa5e599.json)
+
+---
+
+### Lanka Ashok Leyland to launch electric buses in Sri Lanka
+
+*2025-07-18 17:20:00* · [`economynextcom`](https://economynext.com/lanka-ashok-leyland-to-launch-electric-buses-in-sri-lanka-231529/) · `en`
+
+ECONOMYNEXT – Lanka Ashok Leyland Plc, a joint venture with Ashok Leyland of India, said it is planning to launch a range of electric buses.
+
+An electric variant of its DOST truck model has already been made available.
+
+“Plans are also underway to launch an entire range of electric buses under the ‘SWITCH’ brand, subject to regulatory and market readiness,” Chief Executive Officer Umesh Gautam said.
+
+“The government’s growing focus on public sector electrification is expected to create favourable conditions for this initiative.”
+
+Sales of trucks have already picked up, the firm said. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/25094198.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds flat
+
+*2025-07-18 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-flat-231516/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.65/85 to the US dollar in the spot market Friday, weaker from 301.58/70 a day earlier, while bond yields were broadly steady, dealers said.
+
+A bond maturing 15.12.2026 closed at 8.10/15 percent, down from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/55, up from 8.45/50 percent.
+
+A bond maturing on 15.12.2029 closed at 9.48/53, from 9.50/52 percent.
+
+A bond maturing on 15.12.2032 closed at 10.40/50, from 10.40/45 percent.
+
+A bond maturing on 01.06.2033 closed at 10.70/76 percent. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/6f65f729.json)
 
 ---
 
@@ -205,6 +317,26 @@ There was no cockpit video recording definitively showing which pilot flipped th
 ...
 
 [Data](articles/6fe70d0d.json)
+
+---
+
+### Sri Lanka stocks rebound 0.51-pct as US tariff talks set to resume
+
+*2025-07-18 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rebound-0-51-pct-as-us-tariff-talks-set-to-resume-231455/) · `en`
+
+ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) moved 0.51 percent higher following news that US-Sri Lanka tariff talks are scheduled to happen later today, brokers said.
+
+“Sri Lanka would continue to hold discussions with the US Trade Agency to further reduce the 30% rate,” the Ministry of Finance said in a statement.
+
+The ASPI rose 96.85 points, to 18,973, on Friday; while the S&P SL20 index climbed 0.47 percent, or 26.50 points, to close at 5,655.
+
+Turnover increased to 7.6 billion rupees; while the share volume was 350,080,964.
+
+The ASPI was pushed up by Central Finance Company which ended 10.00 rupees stronger at 275.00; Hayleys which rose 3.00 rupees to 178.50; John Keells Holdings which ended 0.20 rupees up at 25.50; Sampath Bank which moved 1.00 rupees up to 139.50; and Singer (Sri Lanka) which closed 3.80 rupees higher at 55.00.
+
+...
+
+[Data](articles/df688268.json)
 
 ---
 
@@ -435,6 +567,24 @@ Thereby, the opportunity provided based on the 2018 guidelines to obtain financi
 ...
 
 [Data](articles/cbda49fe.json)
+
+---
+
+### Sri Lanka sells extra Rs5.9bn Treasury bills after auction
+
+*2025-07-18 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs5-9bn-treasury-bills-after-auction-231461/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 5,999 million rupees of treasury bills offered on tap at an average rate of 8.04 percent, the state debt office said.
+
+The debt office sold 12-month bills (LKA36426G174) at 8.04 percent.
+
+On Wednesday (16) the debt office raised 85 billion rupees of 3, 6 and 12 month bills.
+
+Sri Lanka Treasuries yields edge up, low take up 3-month bills
+
+◼️
+
+[Data](articles/564a7f77.json)
 
 ---
 
@@ -1711,143 +1861,5 @@ The president’s recently discovered vein condition is called chronic venous in
 ...
 
 [Data](articles/113c954e.json)
-
----
-
-### Fairly heavy rainfall above 50 mm likely in some areas
-
-*2025-07-18 06:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110589/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas) · `en`
-
-Showers will occur at times in the Sabaragamuwa province and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (18), the Department of Meteorology said.
-
-Fairly heavy falls about 50 mm are likely at some places, the Met. Department noted.
-
-Several spells of showers may occur in the Western and North-western provinces.
-
-Showers or thundershowers are also likely in several places in the Uva, Northern and Eastern provinces during the afternoon or night.
-
-Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Western, Sabaragamuwa, Southern, North-western and North-central provinces.
-
-The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e2e6f047.json)
-
----
-
-### ஆற்றிலிருந்து ஆணின் சடலம் மீட்பு
-
-*2025-07-18 04:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆற்றிலிருந்து-ஆணின்-சடலம்-மீட்பு/175-361292) · `ta`
-
-முல்லைத்தீவு நகரப் பகுதியில் சின்னாற்றில் ஆண் ஒருவரின் சடலம் நேற்று (17) மீட்கப்பட்டது.
-
-ஆற்றில் மிதந்த சடலம் தொடர்பில் முல்லைத்தீவுப் பொலிஸாருக்குத் தகவல் அளிக்கப்பட்டது. அங்கு வந்த பொலிஸார் சடலத்தை மீட்டனர்.
-
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் செல்வாபுரத்தை சேர்ந்த 54 வயது நபர் என்று அடையாளம் காணப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/9b4e9bd9.json)
-
----
-
-### கொலை குற்றவாளிகளை பாதுகாக்கவே ரணில்-ராஜபக்ஷ தரப்பு ஷானி, ரவி  உள்ளிட்ட திறமையான அதிகாரிகளை பதவியில் இருந்து நீக்கியது - அமைச்சர் பிமல் ரத்நாயக்க
-
-*2025-07-18 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220270) · `ta`
-
-கொலை குற்றவாளிகளை பாதுகாக்கவே ரணில்-ராஜபக்ஷ தரப்பு  ஷானி அபேசேகர, ரவி செனவிரத்ன உள்ளிட்ட திறமையான அதிகாரிகளை பதவியில் இருந்து நீக்கியது. ஆனால் எமக்கு எந்த தனிப்பட்ட தேவையும் கிடையாது. எனவே  நாம் விசாரணைகளுக்காக திறமையான அதிகாரிகளை ஈடுபடுத்துவோம். குற்றவாளிகளை கைது செய்து சட்டத்தின் முன் நிறுத்தி தண்டனை பெற்றுக் கொடுப்போம் என போக்குவரத்து நெடுஞ்சாலைகள் துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
-
-கொழும்பு தெஹிவளை ரயில் நிலையத்துக்கு வியாழக்கிழமை (17) கண்காணிப்பு விஜயமொன்றை மேற்கொண்டிருந்த சந்தர்ப்பத்தில் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-உயிர்த்த ஞாயிறு தினத் தாக்குதல் தொடர்பில் உரிய விசாரணைகளை மேற்கொண்டு குற்றவாளிகளுக்கு  தண்டனை பெற்று கொடுக்குமாறு கர்தினால் உட்பட கத்தோலிக்க திருச்சபை  தொடர்ச்சியாக கோரிக்கை விடுத்து வருகிறது. எம்மிடம் மாத்திரமல்ல. இதற்கு முன்னர் பதவியிலிருந்த அரசாங்கத்திடமும் இந்த கோரிக்கை  விடுக்கப்பட்டது.
-
-...
-
-[Data](articles/b042654a.json)
-
----
-
-### தேங்காய் எண்ணெய் சில்லறை விற்பனைத் தடைச் சட்டம் மீள்பரிசீலிக்கப்பட வேண்டும் – சமூக நீதிக்கான தேசிய இயக்கம்
-
-*2025-07-18 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220269) · `ta`
-
-தேங்காய் எண்ணெய் சில்லறைக்கு விற்பனை செய்வதை தடை செய்வதற்கு அரசாங்கம் கொண்டுவர இருக்கும் சட்டத்தைை மீள் பரிசீலனை செய்ய வேண்டும் என சமூக  நீதிக்கான தேசிய இயக்கம் தெரிவித்துள்ளது.
-
-இதுதொடர்பாக  சமூக  நீதிக்கான தேசிய இயக்கத்தின் செயலாளர் சுனில் ஜயசேகர விடுத்துள்ள அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது,
-
-உணவு நுகர்வு தொடர்பான பொருட்கள் மற்றும் சேவைகள் மீது சட்டங்களை விதிக்கும்போது இலங்கையின் சமூக மற்றும் கலாசார பின்னணிக்கு தீங்கு விளைவிக்கும் வகையில் கொள்கைகள் மற்றும் சட்டங்கள் இயற்றப்படக்கூடாது என்பதை வலியுறுத்தும் நமது அமைப்பு, தேங்காய் எண்ணெய் சில்லறைக்கு விற்பனை செய்வதை தடைசெய்து இயற்றப்படும் சட்டத்தை மீள் பரிசீலனை செய்யுமாறு அரசாங்கத்தைக் கேட்டுக்கொள்கிறது.
-
-தேங்காய் எண்ணெய் சந்தையில் நிகழும் சில முறைகேடுகளைக் கட்டுப்படுத்த இதுபோன்ற ஒரு சட்டம் இயற்றப்பட காரணமாகியுள்ளதாக ஊடகங்கள் செய்தி வெளியிட்டுள்ளபோதும், அத்தகைய சட்டத்தை செயல்படுத்துவதில் ஏற்படக்கூடிய நடைமுறைச் சிக்கல்களை தொடர்பில் குறித்த தரப்பினர் முதலில் புரிந்து கொள்ள வேண்டும்.
-
-...
-
-[Data](articles/1e61133f.json)
-
----
-
-### ஈச்சிலம்பற்று திருவள்ளுவர் வித்தியாலய பௌதீக ஆசிரியர் பற்றாக்குறை தொடர்பில் கேட்டறிந்த ச.குகதாசன் எம்.பி
-
-*2025-07-18 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220268) · `ta`
-
-திருகோணமலை மாவட்ட மூதூர் வலயக் கல்வி பிரிவுக்குட்பட்ட  ஈச்சிலம்பற்றில் உள்ள தி/மூ/ திருவள்ளுவர் வித்தியாலயத்துக்கு திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் சண்முகம் குகதாசன் வியாழக்கிழமை (17)விஜயம் ஒன்றை மேற்கொண்டார்.
-
-அங்கு நிலவும் ஆசிரியர் பற்றாக் குறை உள்ளிட்ட பௌதீக வளங்கள் பற்றாக் குறை தொடர்பில் பாடசாலை அதிபர் மற்றும்  ஆசிரியர்கள் பாராளுமன்ற உறுப்பினர்களிடத்தில் எடுத்துரைத்தனர்.
-
-குறிப்பாக குறித்த பாடசாலையில் சுமார் 470க்கும் மேற்பட்ட மாணவர்கள் கற்றல் நடவடிக்கையில் ஈடுபட்டு வரும் நேரத்தில் கணிதம்,சமயம்,விஞ்ஞான பாடங்களுக்கான ஆசிரியர்கள் இன்மையால் கற்றல் நடவடிக்கைகள் பாதிக்கப்பட்டுள்ளதாகவும் தெரிவித்தனர்.
-
-மேலும் கட்டிட வசதி உட்பட சிற்றூழியர் பற்றாக் குறை நிலவி வருவதாகவும் தெரிவித்தனர் இது தொடர்பான மஹஜர் ஒன்றை பாடசாலை சார்பில் பாராளுமன்ற உறுப்பினரிடத்தில் கையளித்தனர்.
-
-இதனை ஏற்ற பாராளுமன்ற உறுப்பினர் இது விடயமாக ஆராய்ந்து தீர்வொன்றை முன்வைப்பதாகவும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/1fd572f3.json)
-
----
-
-### கமல்ஹாசனை சந்தித்தார் திருமாவளவன்
-
-*2025-07-18 03:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமல்ஹாசனை-சந்தித்தார்-திருமாவளவன்/175-361291) · `ta`
-
-மாநிலங்களவை உறுப்பினராக தேர்வாகியுள்ள மக்கள் நீதி மய்யம் கட்சித் தலைவர் கமல்ஹாசனை நேரில் சந்தித்து வி.சி.க. தலைவர் திருமாவளவன் வாழ்த்து தெரிவித்துள்ளார்.
-
-சென்னை, ஆழ்வார்பேட்டையில் உள்ள மக்கள் நீதி மய்யம் கட்சி அலுவலகத்தில் நேற்று இந்த சந்திப்பு இடம்பெற்றுள்ளது. (a)
-
-◼️
-
-[Data](articles/55493628.json)
-
----
-
-### இரணைமடு குளத்தில் மீன் பிடித்தொழிலில் ஈடுபட்ட மீனவர் ஒருவர் உயிரிழப்பு
-
-*2025-07-18 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220267) · `ta`
-
-கிளிநொச்சி இரணைமடு குளத்தில் மீன் பிடிப்பதற்காக வியாழக்கிழமை (17) பிற்பகல் 2.00மணியளவில் வலையை எறிந்து கொண்டிருந்த வேளை குளத்தில் தவறி நீரில் வீழ்ந்து மூழ்கி உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-இச்சம்பவத்தில், சாந்தபுரத்தைச் சேர்ந்த 64 வயதுடைய பிச்சை துரைராசா என்ற ஆறு பிள்ளைகளின் தந்தையே உயிரிழந்துள்ளார்.
-
-◼️
-
-[Data](articles/6ee5c794.json)
-
----
-
-### ’சமூக மேம்பாட்டுக்காக நடவடிக்கை எடுப்பேன்’
-
-*2025-07-18 02:49:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-மேம்பாட்டுக்காக-நடவடிக்கை-எடுப்பேன்/175-361290) · `ta`
-
-அரசாங்க விவகாரங்களில் மகா சங்கத்தினரின் தொடர்ச்சியான வழிகாட்டல்களை எதிர்பார்ப்பதாகவும், தேசிய, மத மற்றும் சமூக மேம்பாட்டுக்கான நடவடிக்கைகளை பின்வாங்காமல் செயற்படுத்துவதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-மல்வத்து - அஸ்கிரி உபய மகா விகாரையின் அனுநாயக்க தேரர் உட்பட நிர்வாக சபை நாயக்க தேரர்களுடன் நேற்று (17) பிற்பகல் கண்டியில் உள்ள ஜனாதிபதி மாளிகையில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
-
-மல்வத்து - அஸ்கிரி மகா நாயக்க தேரர்களின்  அனுசாசனைக்கு அமைவாக மத, தேசிய மற்றும் சமூகம் சார்ந்த விசேட விடயங்கள் தொடர்பில் கலந்துரையாடுவதே இதன் நோக்கமாகும்.
-
-பௌத்த சாசன  விடயங்களில் எழுந்துள்ள பிரச்சினைகளைத் தீர்க்க, பௌத்த விகாரை தேவாலகம் சட்டம்,  போன்ற பல்வேறு சட்டங்களில் சரியான நேரத்தில் திருத்தங்களைக் கொண்டுவர வேண்டியதன் அவசியம் குறித்தும் மற்றும் பிக்குமார்களுக்கான கல்வி தொடர்பாகவும் மகா சங்கத்தினர் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வந்தனர்.
-
-...
-
-[Data](articles/90ac6507.json)
 
 ---

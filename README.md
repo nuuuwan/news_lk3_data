@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 17:31:13**
+As of **2025-07-18 17:52:29**
 
 ## Newspaper Stats
 
-*Scraped **65,415** Articles*
+*Scraped **65,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,278
-adaderanalk | 7,982
+adaderanalk | 7,983
 tamilmirrorlk | 9,378
-virakesarilk | 10,885
+virakesarilk | 10,888
 adaderanasinhalalk | 11,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,415 articles have been extended.
+61,973 (94.7%) of 65,419 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### காதலனால் கடத்தப்பட்ட பாடசாலை மாணவி
+
+*2025-07-18 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/220327) · `ta`
+
+15 வயதுடைய பாடசாலை மாணவியை கடத்தி அப்புத்தளை பகுதியில் வீடொன்றில் வைத்திருந்த இளைஞர் ஒருவர் வியாழக்கிழமை (17) இரவு லிந்துல பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கடத்தப்பட்ட மாணவி தலவாக்கலையில் உள்ள தோட்டமொன்றைச் சேர்ந்த 10 ஆம் தரத்தில் கல்வி கற்பவர் ஆவார்.
+
+இந்த மாணவி பேஸ்புக் மூலம் சந்தேக நபரான இளைஞனுடன் காதல் வயப்பட்டுள்ளார்.  வீட்டை விட்டு வெளியேறி  நானுஓயாவில் இளைஞனை சந்தித்து அவனுடன் அப்புத்தளைக்கு ரயிலில் சென்றதாக  விசாரணையில் மாணவி  தெரிவித்துள்ளார்.
+
+மாணவியின் தாயார் வெளிநாட்டில் வேலை செய்து வருவதாகவும், அவர் தந்தையின் பராமரிப்பில் வளர்ந்து வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+மகளை காணவில்லை என தந்தை லிந்துலை பொலிஸ் நிலையத்தில் அளித்த முறைப்பாட்டை அடுத்து, மாணவியின் இருப்பிடத்தை  கண்டுபிடித்து சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/7541535c.json)
+
+---
+
+### Air India cockpit recording suggests captain cut fuel to engines before crash, source says
+
+*2025-07-18 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110604/air-india-cockpit-recording-suggests-captain-cut-fuel-to-engines-before-crash-source-says) · `en`
+
+A cockpit recording of dialogue between the two pilots of the Air India flight that crashed last month supports the view that the captain cut the flow of fuel to the plane’s engines, said a source briefed on U.S. officials’ early assessment of evidence.
+
+The first officer was at the controls of the Boeing 787 and asked the captain why he moved the fuel switches into a position that starved the engines of fuel and requested that he restore the fuel flow, the source told Reuters on condition of anonymity because the matter remains under investigation.
+
+The U.S. assessment is not contained in a formal document, said the source, who emphasized the cause of the June 12 crash in Ahmedabad, India, that killed 260 people remains under investigation.
+
+There was no cockpit video recording definitively showing which pilot flipped the switches, but the weight of evidence from the conversation points to the captain, according to the early assessment.
+
+...
+
+[Data](articles/5b2ff2af.json)
+
+---
+
 ### ප්‍රදේශ කිහිපයකට තද වැසි
 
 *2025-07-18 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212387) · `si`
@@ -71,6 +109,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/928a0085.json)
+
+---
+
+### பிரபல தயாரிப்பு நிறுவனத்துடன் இணைந்த சீயான் விக்ரம்
+
+*2025-07-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220334) · `ta`
+
+நடிகர் விக்ரம் மூன்று வேடங்களில் நடித்த ' தங்கலான்' திரைப்படம் அவருக்கு கை கொடுக்கவில்லை . மூன்று பாகமாக தயாராகும் என அறிவிக்கப்பட்ட 'வீர தீர சூரன்- பார்ட் 2 ' படமும் அவருக்கு கை கொடுக்கவில்லை. இயக்குநர் மடோனா அஸ்வின் இயக்கத்தில் நடிக்க கால்ஷீட் ஒதுக்கிய விக்ரம் அந்தப் படத்தின் பணிகளும் தொடங்கவில்லை.
+
+இதனால் கலக்கமடைந்த விக்ரம் தமிழ் திரையுலகின் பிரபல பட தயாரிப்பு நிறுவனமான வேல்ஸ் ஃபிலிம் இன்டர்நேஷனல் நிறுவனம் சார்பில் தயாரிப்பாளர் டொக்டர் ஐசரி கே. கணேஷ் பிரமாண்டமாக தயாரிக்கும் திரைப்படத்தில் நடிக்க ஒப்புக் கொண்டிருக்கிறார். தற்போது இது தொடர்பான அதிகாரபூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/4af2d9a2.json)
+
+---
+
+### சட்டமும் நீதியும் - இணைய தொடர் விமர்சனம்
+
+*2025-07-18 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220330) · `ta`
+
+நடிகர்கள் : 'பருத்தி வீரன்' சரவணன், நம்ரிதா, அருள் டி சங்கர், சண்முகம், திருச்செல்வம், விஜய ஸ்ரீ, இனியா ராம் மற்றும் பலர்.
+
+பட மாளிகையில் வெளியாகும் திரைப்படங்களை பார்த்து ரசிக்கும் பார்வையாளர்கள் மற்றும் ரசிகர்களின் எண்ணிக்கைக்கு சமமாக தற்போது முன்னணி டிஜிட்டல் தளங்களில் வெளியாகும் அசல் இணைய தொடர்களுக்கான பார்வையாளர்களின் எண்ணிக்கையும் அதிகரித்து வருகிறது.
+
+அந்த வகையில் ஜீ 5( Z 5)  டிஜிட்டல் தளத்தில் ஜூலை 18-ஆம் திகதி முதல் வெளியாகும் இணைய தொடர் 'சட்டமும் நீதியும்'. நீதிமன்ற வளாகத்தில் சக சட்டத்தரணிகளின் புறக்கணிப்பிற்கு ஆளான வழக்கு கிடைக்காத சட்டத்தரணி சுந்தரமூர்த்தி என்பவரின் தொழில் சார்ந்த வாழ்க்கையை உணர்வு பூர்வமாக விவரிக்கும் ஏழு அத்தியாயங்களை கொண்ட இந்த இணைய தொடர் டிஜிட்டல் தள பார்வையாளர்களுக்கு அர்த்தமுள்ளதான படைப்பை வழங்கியதா? இல்லையா?  என்பதை காண்போம்.
+
+நீதிமன்ற வளாகத்தில் பிரச்சனைகளுடன் வருகை தரும் மக்களுக்கு அவர்களுடைய குறைகளை புகார்களாக மாற்றி தரும் பணியை சட்டத்தரணி சுந்தரமூர்த்தி ( 'பருத்தி வீரன்' சரவணன்) என்பவர் செய்து வருகிறார்.
+
+...
+
+[Data](articles/6fe70d0d.json)
 
 ---
 
@@ -1777,69 +1847,5 @@ Designed to build industry competencies, the workshop covered critical areas suc
 ...
 
 [Data](articles/bdf0b4f4.json)
-
----
-
-### Two new Directors appointed to Tokyo Cement Board
-
-*2025-07-18 02:33:37* · [`dailyftlk`](https://www.ft.lk/business/Two-new-Directors-appointed-to-Tokyo-Cement-Board/34-779151) · `en`
-
-Distinguished banker Jegan Durairatnam and Michio Matsuoka have been appointed to the Board of Directors of Tokyo Cement Company (Lanka) PLC.
-
-Durairatnam possesses extensive experience in banking, having been with the Commercial Bank of Ceylon PLC for 36 years. He served as a Director of Commercial Bank of Ceylon PLC from April 2012 to July 2014 and as the Managing Director/CEO from July 2014 until his retirement in July 2018. He has held several other senior management positions at Commercial Bank of Ceylon PLC, including Chief Operating Officer, Deputy General Manager – International, Assistant General Manager – International, and Head of Imports. He has held the position of Managing Director of Commercial Development Company PLC and has served as a Director on the Board of Lanka Financial Services Bureau Ltd.
-
-...
-
-[Data](articles/4e184319.json)
-
----
-
-### Exporters invited to join Sri Lanka Brands Forum at World Expo in Osaka
-
-*2025-07-18 02:31:39* · [`dailyftlk`](https://www.ft.lk/business/Exporters-invited-to-join-Sri-Lanka-Brands-Forum-at-World-Expo-in-Osaka/34-779150) · `en`
-
-The National Chamber of Exporters of Sri Lanka (NCE), in collaboration with the Embassy of Sri Lanka in Japan, has announced the “Sri Lankan Export Brands Forum”, taking place on 25 September, at the prestigious World Expo in Osaka, Japan.
-
-This event is part of NCE’s broader effort to open new trade gateways and is a significant market access initiative aimed at helping Sri Lankan exporters enter or expand in the Japanese market — one of the most sophisticated and high-value economies in Asia.
-
-Held under the theme “Sri Lankan Export Brands”, the forum will include a Mini Expo and targeted B2B meetings, offering exporters a unique platform to connect directly with Japanese importers, buyers, distributors, and trade intermediaries.
-
-...
-
-[Data](articles/26393d44.json)
-
----
-
-### Leading corporates unite to rebuild trust in science to generate wealth for people
-
-*2025-07-18 02:31:19* · [`dailyftlk`](https://www.ft.lk/business/Leading-corporates-unite-to-rebuild-trust-in-science-to-generate-wealth-for-people/34-779149) · `en`
-
-From left: Brandix Lanka Group CEO Ashroff Omar, Access Engineering Executive Vice Chairman Christopher Joshua, Dialog Axiata Director/Group Chief Executive Supun Weerasinghe, NASSL President Prof. Ajit Abeysekara, Senior Adviser to the President on Science and Technology Prof. Gomika Udugamasooriya, NASSL Vice President Prof. Malik Ranasinghe, and Commercial Bank of Ceylon CSR Trust Trustee and Deputy General Manager – Corporate Banking  Hasrath Munasinghe
-
-In a powerful display of private sector commitment to national development, Access Engineering PLC, Brandix Lanka Ltd., Commercial Bank of Ceylon PLC, Dialog Axiata PLC, and TV Derana have joined forces with the National Academy of Sciences of Sri Lanka (NASSL) and the Sri Lanka Association for the Advancement of Science (SLAAS) to launch ‘Rebuild Trust in Science’ – a three-year national public engagement initiative to restore confidence in science and its role in generating sustainable prosperity.
-
-...
-
-[Data](articles/81607c9f.json)
-
----
-
-### Kandy Esala Perahera to commence on 25 July
-
-*2025-07-18 02:29:24* · [`dailyftlk`](https://www.ft.lk/news/Kandy-Esala-Perahera-to-commence-on-25-July/56-779148) · `en`
-
-Kumbal and Randoli Perahera scheduled to parade streets for 10 days from 30 July
-
-The Sri Dalada Esala Perahera of the Sacred Temple of the Tooth Relic in Kandy is scheduled to commence on 25 July, with the ‘Kap Situweema’ ceremony.
-
-Diyawadana Nilame (Chief Custodian of Sri Dalada Maligawa) Pradeep Nilanga Dela said the annual Kandy Perahera will commence with the ‘Kap planting’ ritual at the four main devalayas, which will be followed by the five-day process of Ethul Perahera.
-
-Accordingly, the Kumbal Perahera and Randoli Perahera are scheduled to parade the streets for 10 days, starting from 30 July.
-
-Meanwhile, Pradeep Nilanga Dela also stated that the shortage of elephants for the Esala Perahera has become a major concern.
-
-◼️
-
-[Data](articles/397c11ed.json)
 
 ---

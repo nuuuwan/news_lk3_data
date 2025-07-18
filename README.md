@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 16:48:16**
+As of **2025-07-18 17:05:25**
 
 ## Newspaper Stats
 
-*Scraped **65,413** Articles*
+*Scraped **65,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,278
 adaderanalk | 7,982
 tamilmirrorlk | 9,378
 virakesarilk | 10,885
-adaderanasinhalalk | 11,234
+adaderanasinhalalk | 11,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,413 articles have been extended.
+61,973 (94.7%) of 65,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2025-07-18 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212387) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව පළාතේත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව වාර්තා වෙයි.
+
+එමෙන්ම වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බවද එම නිවේදනයේ දැක්වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් බස්නාහිර, සබරගමුව, දකුණු, වයඹ සහ උතුරු - මැද පළාත්වල පැ.කි.මී. (50-60)ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල පැ.කි.මී. (30-40)ක පමණ තරමක තද සුළං ඇති විය හැකි බවද සඳහන් වේ.
+
+තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+
+◼️
+
+[Data](articles/928a0085.json)
+
+---
 
 ### வாகன கடன்களுக்கான விதிமுறைகளில் அதிரடி  மாற்றம்
 
@@ -1817,19 +1839,5 @@ The birth anniversary remembrance of the late Dr. Milina Sumathipala was held re
 ...
 
 [Data](articles/b3a681c9.json)
-
----
-
-### Asoka Dias wins award for Best Educational Television Program
-
-*2025-07-18 02:25:02* · [`dailyftlk`](https://www.ft.lk/news/Asoka-Dias-wins-award-for-Best-Educational-Television-Program/56-779146) · `en`
-
-Asoka Dias has won the Sumathi Award for the ‘Best Educational Television Program’ this year at the 30th Sumathi Awards ceremony, held on 15 July.
-
-As the host of the morning show ‘Pathikada,’ broadcast on News 1st, Sirasa TV, Dias has engaged in discussing current issues with prominent experts on the subject. For the past five years, ‘Pathikada’ has dedicated itself to intellectual dialogue, and is broadcast on News 1st, Sirasa TV daily on weekdays at 6 a.m. The program aims to spread awareness on topics of interest and educate Sri Lankans.
-
-...
-
-[Data](articles/794fbbd6.json)
 
 ---

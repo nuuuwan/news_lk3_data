@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 05:17:50**
+As of **2025-07-18 05:30:52**
 
 ## Newspaper Stats
 
-*Scraped **65,315** Articles*
+*Scraped **65,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
-islandlk | 3,982
+islandlk | 3,990
 economynextcom | 3,997
 dailyftlk | 4,637
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,315 articles have been extended.
+61,973 (94.9%) of 65,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -452,6 +452,58 @@ The seminar will bring together professionals from legal, regulatory, ICT, and p
 
 ### 2025-07-17 (Thursday)
 
+### Rotary District 3220 SL and Maldives partners with CSE
+
+*2025-07-17 22:27:00* · [`islandlk`](http://island.lk/rotary-district-3220-sl-and-maldives-partners-with-cse/) · `en`
+
+The Colombo Stock Exchange (CSE), in collaboration with Rotary District 3220 Sri Lanka & Maldives, hosted a special Market Opening Ceremony to mark the launch of the “Rotary SME Development Strategy 2025/26,” a programme aimed at enhancing the growth, visibility, and capital access of high-potential SMEs across Sri Lanka.
+
+Held at the CSE Trading Floor, the event featured the formal signing of a Letter of Intent (LOI) between Rotary District 3220 Sri Lanka & Maldives and CSE.
+
+The partnership will focus on identifying SMEs with strong growth potential and enabling their pathway to market readiness and potential listing on the Colombo Stock Exchange.
+
+...
+
+[Data](articles/6ed0f8f8.json)
+
+---
+
+### Mid-year outlook 2025: Steady but slow growth
+
+*2025-07-17 22:26:00* · [`islandlk`](http://island.lk/mid-year-outlook-2025-steady-but-slow-growth/) · `en`
+
+Rate Cut Expected in 3Q2025: First Capital Research (FCR) anticipates a 25bps reduction by the Central Bank of Sri Lanka (CBSL) to counter slow economic growth and align inflation with the 5% target. This is supported by:
+
+Improved market liquidity (LKR 150Bn) and reserve strengthening (USD 7.0Bn forecasted), aided by multilateral inflows .
+
+– Yield curve adjustments: 1Yr yields revised down by 100bps, while 5Yr and 10Yr yields lowered by 50bps. With rates near revised lower bounds, further downside is limited.
+
+Recommendation: Shift to short-tenure bonds and maintain a carry portfolio to capitalize on stable yields.
+
+– 2H2025: Rates expected to decline to 7.5%–8.5% post-potential rate cut.
+
+-1H2026: Gradual rise to 8.0%–9.0% due to increased credit demand from private and state sectors, tightening liquidity.
+
+Near Term (2025): LKR/USD stabilizes around 300, supported by CBSL’s USD purchases and a positive current account balance.
+
+...
+
+[Data](articles/eca02894.json)
+
+---
+
+### Hotel Secor stocks keep CSE buoyant
+
+*2025-07-17 22:23:00* · [`islandlk`](http://island.lk/hotel-secor-stocks-keep-cse-buoyant/) · `en`
+
+The hotel sector counters were active at the Colombo stock exchange yesterday creating notable price appreciation in hotel stocks. This enabled the market to perform on a positive note yesterday. Amid those developments marginal profit takings were also witnessed , market analysts said
+
+...
+
+[Data](articles/46649bb1.json)
+
+---
+
 ### தேசிய, மதம் மற்றும் சமூக மேம்பாட்டுக்காக நடவடிக்கை எடுக்க ஒருபோதும் தயங்க மாட்டேன் - ஜனாதிபதி
 
 *2025-07-17 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220266) · `ta`
@@ -487,6 +539,48 @@ Kahathuduwa Police have launched an investigation reviewing CCTV footage to iden
 ◼️
 
 [Data](articles/4f89791b.json)
+
+---
+
+### NCHS celebrates brightest young innovators in Sri Lanka
+
+*2025-07-17 21:59:00* · [`islandlk`](http://island.lk/nchs-celebrates-brightest-young-innovators-in-sri-lanka/) · `en`
+
+INCOHST 2025,Sri Lanka’s leading educational showcases for young technology talent, concluded on an inspiring note recently at the Atrium, Cinnamon Grand Colombo.Organised by Nawaloka College of Higher Studies (NCHS) and sponsored by Swinburne University of Technology, Australia, this all-island event brought together schoolchildren from across the country to demonstrate how creativity and technology can solve real-world challenges.
+
+In a message shared on his behalf, Victor Ramanan, Deputy Chairman/Chief Executive Officer of Nawaloka College of Higher Studies, conveyed his thoughts on the occasion. He noted that it had been remarkable to witness the commitment and ingenuity of the young participants. He explained that INCOHST is more than a competition, describing it as a platform that empowers students to turn ideas into solutions that matter. He emphasised that nurturing these talents would build a generation ready to shape the future with courage and innovation.
+
+...
+
+[Data](articles/66a871c4.json)
+
+---
+
+### People’s Bank and IDB Launch ‘BizTeens Challenge 2025’
+
+*2025-07-17 21:58:00* · [`islandlk`](http://island.lk/peoples-bank-and-idb-launch-bizteens-challenge-2025/) · `en`
+
+People’s Bank, in collaboration with the Industrial Development Board (IDB) of Sri Lanka, has officially launched an island-wide initiative for school children titled ‘People’s BizTeens Challenge 2025’. This pioneering programme is designed to empower and uplift the next generation of young entrepreneurs by providing them with a platform to showcase their innovative business ideas and entrepreneurial concepts.
+
+The official agreement marking the commencement of this partnership was signed recently at the auditorium of the People’s Bank Staff Training College. The event was graced by People’s Bank Chairman Prof. Narada Fernando, Chief Executive Officer/General Manager Clive Fonseka, IDB Chairman Ravi Nissanka, Acting Director General W.A.P. Kapila Nishantha, Deputy General Manager – Retail Banking and Overseas Customer Services Aruni Liyanagunawardana, as well as members of the Bank’s corporate and executive management, school principals, teachers, and a large number of schoolchildren.
+
+...
+
+[Data](articles/a4724b9e.json)
+
+---
+
+### Singer leads 5G Era in Sri Lanka with HONOR
+
+*2025-07-17 21:58:00* · [`islandlk`](http://island.lk/singer-leads-5g-era-in-sri-lanka-with-honor/) · `en`
+
+Singer Sri Lanka PLC has further strengthened its leadership in the mobile phone market with the exclusive launch of two new 5G-enabled smartphones from HONOR; the Honor 200 Smart 5G and Honor X9C Smart 5G. This launch not only marks a major step forward in making next-generation mobile connectivity accessible to Sri Lankans but also reinforces Singer’s position as the nation’s leading and most reliable destination for 5G smartphones.
+
+Positioned among the country’s most affordable and accessible 5G smartphones, the launch of the new HONOR devices marks a significant milestone in making next-generation technology more accessible to Sri Lankans.
+
+...
+
+[Data](articles/cf66fd6e.json)
 
 ---
 
@@ -1705,109 +1799,5 @@ The Deputy Minister of Economic Development stated that the details of the agree
 ...
 
 [Data](articles/c26613ef.json)
-
----
-
-### இரவு 7 மணி வரை நீடித்த யாழ்ப்பாணம் மாநகர சபை அமர்வு ; துணை முதல்வரின் செயற்பாடே காரணம் என குற்றச்சாட்டு!
-
-*2025-07-17 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220220) · `ta`
-
-யாழ்ப்பாணம் மாநகர சபையின் மாதாந்த அமர்வு, மாநகர முதல்வர் மதிவதனி விவேகானந்தராஜாவின் தலைமையில் புதன்கிழமை (16) மாநகர சபை மண்டபத்தில் நடைபெற்றது.
-
-காலை 10 மணிக்கு ஆரம்பித்த அமர்வு இரவு 7 மணிவரை நீடித்ததாக குற்றம்சாட்டப்பட்டுள்ளது.
-
-இதற்கான முக்கிய காரணமாக, துணை முதல்வரின் செயற்பாடுகள் சுட்டிக்காட்டப்பட்டுள்ளன. சபை அமர்வின் போது, உறுப்பினர்கள் முதல்வரிடம் கேள்விகள் எழுப்பிய தருணங்களில், துணை முதல்வர் தொடர்ந்து தலையீடு செய்ததாக உறுப்பினர்கள் குற்றம் சாட்டினர்.
-
-ஒவ்வொரு விவாதத்திலும் அவர் நீண்ட நேரம் எடுத்துக்கொண்டு தனக்கென கருத்துகளை தெரிவித்தார். இதனால் சபை அமர்வின் நேரம் பெரிதும் நீடித்தது. இது தேவையற்ற காலநீடிப்பு எனவும், சபையின் ஒழுங்கமைப்பை பாதிக்கும் செயற்பாடாகவும் உறுப்பினர்கள் விமர்சித்துள்ளனர்.
-
-◼️
-
-[Data](articles/25a90b37.json)
-
----
-
-### Sri Lanka Altair acquisition by Blackstone advised by TWC
-
-*2025-07-17 14:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-altair-acquisition-by-blackstone-advised-by-twc-231255/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s TWC Holdings said it provided advisory services to Blackstone, a private equity group in its acquisition of Altair Colombo via its take over of South City Mall in India.
-
-TWC Development Management (Pvt) Ltd, the real estate advisory arm of TWC Holdings, had provided technical due diligence, market analysis, regulatory review, and long-term asset strategy for the Colombo property.
-
-“As the new shareholders assume responsibility for Altair, our priority is to ensure the building continues to deliver value for its current and future residents,” Chief Operating Officer, T W C Development Management, Theekshana Jayarathna said in a statement.
-
-Designed by architect Moshe Safdie, built by the vehicle Indocean Developers (Pvt) Ltd, the Altair building has luxury apartments and a 33,000 square feet retail component and unsold units.
-
-TWC had provided research on the unsold inventory and value potential in Colombo’s high-end residential market. (Colombo/July17/2025)
-
-◼️
-
-[Data](articles/6350bea3.json)
-
----
-
-### බූස්ස බන්ධනාගාරයේ කටයුතුවලින් STF නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා පෙත්සමක්
-
-*2025-07-17 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212351) · `si`
-
-බුස්ස අධිආරක්ෂිත බන්ධනාගාරයේ කටයුතුවලින් පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන නියෝගය සැප්තැම්බර් මස 01 වනදා ප්‍රකාශයට පත් කරන බව අභියාචනාධිකරණය නියෝග කර තිබේ.
-
-ප්‍රබල පාතාල කල්ලි නායකයෙකු බව කියන ජේ.ඒ. රුවන් කුමාර හෙවත් මිදිගම රුවන් විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
-
-එම පෙත්සම අද (17) සලකා බැලීම සඳහා අභියාචනාධිකරණයේ සභාපති විනිසුරු රෝහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූහ.
-
-එහිදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් බූස්ස බන්ධනාගාරය අධි ආරක්ෂිත බන්ධනාගාරයක් වශයෙන් ප්‍රකාශයට පත් කර ඇති බවත් එහි අභ්‍යන්තර හා බාහිර කටයුතුවලට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් යොදවාගෙන තිබෙන බවත් චෝදනා කළේය.
-
-...
-
-[Data](articles/7a912af6.json)
-
----
-
-### රන් ගිනිඅවි සිද්ධියේ සැකකාරියට ඇප
-
-*2025-07-17 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212350) · `si`
-
-ඉකුත්දා කොළඹ ,හැව්ලොක් සිටි නිවාස සංකීර්ණයේ කාන්තාවක් සතුව තිබී රන් ආලේපිත ගිනිඅවියක් සොයා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි සැකකාරිය ඇප මත මුදාහරිණ ලෙස කොළඹ මහාධිකරණ නියම කර තිබේ.
-
-අදාළ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින විශාඛා අයිරාංගනී විරකෝන් නමැති  සැකකාරිය වෙනුවෙන් ඉදිරිපත් කර තිබූ ඇප ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු මංජුල තිරකරත්න මහතා විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
-
-ඒ අනුව අදාළ සැකකාරිය රුපියල් 250,000ක මුදල් ඇප සහ රුපියල් ලක්ෂ 25 බැගින් වූ ශරීරය ඇප දෙකක් මත මුදා හැරීමටත් අධිකරණය විසින් නියම කරනු ලැබීය.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු අමාත්‍ය දුමින්ද දිසානායක මහතා ද ඉකුත්දා ඇප මත මුදා හැරීමට කොළඹ මහාධිකරණය විසින් නියෝග කර තිබුණි.
-
-◼️
-
-[Data](articles/dfb18397.json)
-
----
-
-### කුරුලු උයනේ හිමිකරු අත්අඩංගුවට
-
-*2025-07-17 13:45:51* · [`adalk`](https://www.ada.lk/breaking_news/කුරුලු-උයනේ-හිමිකරු-අත්අඩංගුවට/11-417355) · `si`
-
-හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව අද (17දා)  විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගිය දා සඟවා තබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් වන චෝදනාව මත ඔහුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/9471b3a7.json)
-
----
-
-### History, Aesthetics, and Vocational subjects mandatory under new education reforms – PM
-
-*2025-07-17 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110570/history-aesthetics-and-vocational-subjects-mandatory-under-new-education-reforms-pm) · `en`
-
-The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, emphasized the need to prevent the spread of false information that History and Aesthetics subjects have been removed under the new education reforms, and to stop politicizing education and children’s lives for political gain.
-
-The Prime Minister made these remarks today (17) during a special program held at the Western Provincial Council Auditorium to raise awareness among Western Province education officials regarding the new education reforms, the Prime Minister’s Media Division said in a statement.
-
-Speaking further in this regard, she noted that these reforms have been developed after holding extensive discussions with subject experts, moving forward with the objective of ensuring that every student gets the opportunity to study History and Aesthetics subjects, which enhance human values.
-
-...
-
-[Data](articles/52fd5979.json)
 
 ---

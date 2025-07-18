@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 15:21:56**
+As of **2025-07-18 15:33:17**
 
 ## Newspaper Stats
 
-*Scraped **65,401** Articles*
+*Scraped **65,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,993
 economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,277
+adalk | 6,278
 adaderanalk | 7,980
 tamilmirrorlk | 9,375
 virakesarilk | 10,882
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,401 articles have been extended.
+61,973 (94.8%) of 65,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### චන්ද්‍රාණි බණ්ඩාරට එරෙහි නඩුව ලබන 28දා කැඳවයි
+
+*2025-07-18 15:08:00* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රාණි-බණ්ඩාරට-එරෙහි-නඩුව-ලබන-28දා-කැඳවයි/11-417375) · `si`
+
+නිසි ක්‍රියා පටිපාටිය අනුගමනය කිරීමකින් තොරව වියළි කළාප සංවර්ධන ව්‍යාපෘතියේ අධ්‍යක්‍ෂ ජනරාල්ධුරයට පුද්ගලයකු පත් කිරීම සහ නීතී්‍යානුකූල නොවන ආකාරයට එහි ව්‍යාපෘති වලට සිය හිතවතුන් පත් කිරීමට අමාත්‍යාංශ ලේකම්වරයා පෙළඹවීම මඟින් දඬුවම් ලැබිය යුතු වැරදි කළ බවට චෝදනා කරමින් හිටපු කාන්තා සහ ළමා කටයුතු අමාත්‍යවරිය සහ වියළි කළාප සංවර්ධන අමාත්‍යවරිය ලෙස කටයුතු කළ චන්දාණී බණ්ඩාර මහත්මියට එරෙහිව අල්ලස් කොමිසම පවරා ඇති නඩුව ලබන 28 වැනිදා කැඳවීමට කොළඹ මහාධිකරණ විනිසුර සහන් මාපා බණ්ඩාර මහතා අද (18) නියම කළේය.
+
+මීට වසර 06කට පෙර එනම් 2019 වසරේ හිටපු කාන්තා සහ ළමා කටයුතු අමාත්‍යවරිය සහ වියළි කළාප සංවර්ධන අමාත්‍යවරිය ලෙස කටයුතු කරමින් අල්ලස් පණතේ 70 වැන වගන්තිය යටතේ දැක්වෙන ‘දුෂණය’ නමැති වැරදි කළ බවට විත්තිකාර අමාත්‍යවරියට එරෙහිව චෝදනා 11ක් යටතේ අල්ලස් කොමිසම පවරා ඇති නඩුව කැඳවු අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව විනිසුරුවරයා එලෙස නියම කළේය.
+
+...
+
+[Data](articles/cbda49fe.json)
+
+---
 
 ### හැටන් නගරයේ වෙළදසැලක ගින්නක්
 
@@ -1793,29 +1807,5 @@ The partnership will focus on identifying SMEs with strong growth potential and 
 ...
 
 [Data](articles/6ed0f8f8.json)
-
----
-
-### Mid-year outlook 2025: Steady but slow growth
-
-*2025-07-17 22:26:00* · [`islandlk`](http://island.lk/mid-year-outlook-2025-steady-but-slow-growth/) · `en`
-
-Rate Cut Expected in 3Q2025: First Capital Research (FCR) anticipates a 25bps reduction by the Central Bank of Sri Lanka (CBSL) to counter slow economic growth and align inflation with the 5% target. This is supported by:
-
-Improved market liquidity (LKR 150Bn) and reserve strengthening (USD 7.0Bn forecasted), aided by multilateral inflows .
-
-– Yield curve adjustments: 1Yr yields revised down by 100bps, while 5Yr and 10Yr yields lowered by 50bps. With rates near revised lower bounds, further downside is limited.
-
-Recommendation: Shift to short-tenure bonds and maintain a carry portfolio to capitalize on stable yields.
-
-– 2H2025: Rates expected to decline to 7.5%–8.5% post-potential rate cut.
-
--1H2026: Gradual rise to 8.0%–9.0% due to increased credit demand from private and state sectors, tightening liquidity.
-
-Near Term (2025): LKR/USD stabilizes around 300, supported by CBSL’s USD purchases and a positive current account balance.
-
-...
-
-[Data](articles/eca02894.json)
 
 ---

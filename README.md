@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 09:01:59**
+As of **2025-07-18 09:34:08**
 
 ## Newspaper Stats
 
-*Scraped **65,337** Articles*
+*Scraped **65,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,997
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,271
-adaderanalk | 7,970
+adaderanalk | 7,971
 tamilmirrorlk | 9,359
-virakesarilk | 10,871
+virakesarilk | 10,872
 adaderanasinhalalk | 11,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,337 articles have been extended.
+61,973 (94.8%) of 65,339 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/05d453d8.json)
+
+---
+
+### “We cannot do this by dividing; we must all come together” – PM on education reforms
+
+*2025-07-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110591/we-cannot-do-this-by-dividing-we-must-all-come-together-pm-on-education-reforms) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that open discussions, suggestions, and criticisms based on factual information concerning the new education reforms are of great importance.
+
+The Prime Minister made these remarks yesterday (17) at a special program held at the Western Provincial Council Auditorium to raise awareness among education officials of the Western Province regarding the new education reforms, according to the Prime Minister’s Media Division.
+
+“It is clear through the ongoing public discourse that society is paying close attention to the new education reforms. There is significant public interest in this process. That is why many people are presenting various ideas, suggestions, and criticisms. This is a healthy sign, and through this, we can move forward toward better outcomes.
+
+...
+
+[Data](articles/40298453.json)
 
 ---
 
@@ -77,6 +93,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/39576882.json)
+
+---
+
+### காசாவின் ஒரேயொரு கிறிஸ்தவ தேவாலயம் மீது இஸ்ரேல் தாக்குதல் - மூவர் பலி
+
+*2025-07-18 08:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/220272) · `ta`
+
+முன்னாள் பாப்பரசர் பிரான்சிஸ் நாளாந்தம் தொடர்பை பேணிய காசாவின் ஒரேயொரு கிறிஸ்தவ தேவாலயத்தின் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் மூவர் கொல்லப்பட்டுள்ளனர்.
+
+தேவாலயத்தின் பணியாளர் ஒருவரும் தேவாலயத்தின் வளாகத்தில் உள்ள கரித்தாஸ் கூடாரத்தில் உளவியல் சிகிச்சை பெற்றுவந்த பெண்ணொருவரும் அவருடன் இருந்த மற்றுமொரு பெண்ணும் கொல்லப்பட்டுள்ளதாக கரித்தாஸ் இன்டநஷனல்ஸ் தெரிவித்துள்ளது.
+
+உயிர்தப்புவதை நோக்கமாக கொண்டு தேவாலயத்தில் தஞ்சமடைந்திருந்த மக்கள் மீது மேற்கொள்ளப்பட்ட தாக்குதல் குறித்து பெரும் அதிர்ச்சியடைந்துள்ளதாக கரித்தாஸ் இன்டநஷனலின் செயலாளர் நாயகம் அலிஸ்டர் டட்டன் தெரிவித்துள்ளார்.
+
+இவர்களின் மரணம் முற்றுகையின் கீழ் பொதுமக்கள் மருத்துவஉதவியாளர்கள் எதிர்கொண்டுள்ள மோசமான நிலையை மீண்டும் நினைவுபடுத்துகின்றது என தெரிவித்துள்ள அவர் ஏற்பட்ட இழப்புகள் குறித்து நாங்கள் துயரடைகின்றோம் சம்பந்தப்பட்ட தரப்பினரை வாழ்க்கையின் புனிதத்தினையும் அதனை பாதுகாப்பதற்கான தளத்தையும் மதிக்குமாறு கேட்டுக்கொள்கின்றோம் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bfebd37c.json)
 
 ---
 
@@ -1749,43 +1783,5 @@ The raid was carried out by a team of officers, including the Director of the CC
 ...
 
 [Data](articles/fac54b85.json)
-
----
-
-### Shah Rukh Khan will not visit Sri Lanka due to unavoidable reasons - Organiser
-
-*2025-07-17 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110577/shah-rukh-khan-will-not-visit-sri-lanka-due-to-unavoidable-reasons-organiser) · `en`
-
-Bollywood star Shah Rukh Khan who was scheduled to arrive in Sri Lanka on 2 August, will not visit the country as planned, according to organisers.
-
-He will not visit Sri Lanka due to unavoidable personal reasons, said the organisers who were planning to bring the Bollywood star for an event in Colombo.
-
-Popularly known as “King Khan”, Shah Rukh Khan was scheduled to arrive in Colombo for the opening ceremony of “City of Dreams Sri Lanka” on 2 August 2, as a special guest.
-
-In the lead-up to the landmark launch of City of Dreams Sri Lanka – South Asia’s first integrated resort – the appearance of Shah Rukh Khan was a key highlight of the celebrations.
-
-The communique issued by the organisers stated despite the absence of Shah Rukh Khan, the launch event will continue as a landmark celebration, featuring an extraordinary lineup of local and international talent, to be unveiled in the coming days.
-
-...
-
-[Data](articles/c1a444fc.json)
-
----
-
-### ඉතිහාසය සහ සෞන්දරය විෂයන් ඉවත් කරනවාද? නැද්ද? - අගමැතිවරිය දුන් පිළිතුර ​ මෙන්න
-
-*2025-07-17 15:53:50* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසය-සහ-සෞන්දරය-විෂයන්-ඉවත්-කරනවාද--නැද්ද----අගමැතිවරිය-දුන්-පිළිතුර-​-මෙන්න/11-417357) · `si`
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණයෙන් ඉතිහාසය සහ සෞන්දර්ය විෂයන් හැදෑරීම ඉවත් නොකරන බව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිණි අමරසූරිය පැවසීය.
-
-මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්න වලට පිළිතුරු ලබා දෙමින් ඇය මේ බව සඳහන් කළාය.
-
-ප්‍රශ්නය - හරි සහතිකයක් දෙන්න ඉතිහාසය සහ සෞන්දර්ය මේ විශය මාලාවෙන් අයින් වෙන්නේ නෑ කියලා ?
-
-පිළිතුර - ඒක අයින් කරන්නේ නෑ. කොහෙන් අල්ල ගත්ත කතාවක්ද කියලා අපි තවම හොයනවා. මෙතන මේ සද්දේ දාන්නේ ඉතිහාසය ගැන කැක්කුමක් තිබිලාවත්, සෞන්දර්ය ගැන කැක්කුමක් තිබිලාවත් , ​කොටින්ම කිව්වොත් අධ්‍යාපනය ගැන හිතලා නෙවෙයි.
-
-◼️
-
-[Data](articles/4bc1d772.json)
 
 ---

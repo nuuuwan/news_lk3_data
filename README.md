@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 10:52:24**
+As of **2025-07-18 11:07:33**
 
 ## Newspaper Stats
 
-*Scraped **65,350** Articles*
+*Scraped **65,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 3,993
 economynextcom | 4,000
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,272
-adaderanalk | 7,973
+adalk | 6,273
+adaderanalk | 7,976
 tamilmirrorlk | 9,360
-virakesarilk | 10,874
-adaderanasinhalalk | 11,220
+virakesarilk | 10,876
+adaderanasinhalalk | 11,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,350 articles have been extended.
+61,973 (94.8%) of 65,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### දයාසිරි CIDයට
+
+*2025-07-18 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212373) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා අද (18) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/6b5f0ac0.json)
+
+---
+
+### ரயில் மோதி காட்டு யானை உயிரிழப்பு
+
+*2025-07-18 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220283) · `ta`
+
+கொழும்பிலிருந்து மட்டக்களப்பு நோக்கிச் சென்ற ரயில் மோதி காட்டு யானை இன்று வெள்ளிக்கிழமை (18) அதிகாலை உயிரிழந்தது.
+
+இந்த யானை அதிகாலை 3 மணி முதல் கிராமத்தில் சுற்றித் திரிந்து, அப்பகுதியில் உள்ள நெல் வயல்களுக்குள் நுழைவது வழக்கமாக கொண்டிருந்துள்ளது.
+
+சம்பவத்தினத்தன்று  யானை வந்தபோது வனவிலங்கு பாதுகாப்பு திணைக்களத்தை தொடர்பு கொள்ள முயற்சி செய்ய போதிலும், ஆனால் அந்நேரத்தில் அதிகாரிகளைத் தொடர்பு கொள்ள முடியவில்லை என கிராம மக்கள் தெரிவித்துள்ளனர்.
+
+அண்மைய வாரங்களில் அடிக்கடி யானை கிராமத்திற்குள் வந்து சென்றுள்ள நிலையில், தடுப்பு நடவடிக்கைகளை வனவிலங்கு பாதுகாப்பு திணைக்களம் எடுக்கத் தவறியுள்ளது. விரைந்து நடவடிக்கை எடுத்திருந்தால் இந்த துயர சம்பவத்தை தவிர்த்து இருக்கலாம் என கிராம மக்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/c32d3867.json)
+
+---
+
+### கொக்ரெல்லையைச் சேர்ந்த வெற்றியாளருக்கு ரூ.47 கோடி லொட்டரி பரிசு தொகை வழங்கி வைப்பு
+
+*2025-07-18 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220275) · `ta`
+
+இலங்கை வரலாற்றில் மிகப்பெரிய லொட்டரி பரிசு தொகையை வென்றவருக்கு 47 கோடி ரூபாய் மதிப்புள்ள காசோலையை தேசிய லொத்தர் சபை வழங்கியுள்ளது.
+
+மெகா பவர் 2210 ஆவது சீட்டிழுப்பில், 47 கோடியே 45 லட்சத்து 99 ஆயிரத்து 422 ரூபா சூப்பர் பரிசுடன் கூடிய வெற்றி பெற்ற லொட்டரி சீட்டை, கொக்கரெல்ல  பகுதியைச் சேர்ந்த விற்பனை முகவரான எச்.ஏ. ஜானகி ஹேமமாலா விற்பனை செய்துள்ளார்.
+
+தேசிய லொத்தர் சபை ஏற்பாடு செய்த விடேச நிகழ்வு ஒன்றில் கொழும்பு மேயர் வ்ராய் கெலி பல்தசாரினால் லொட்டரி பரிசை வென்ற நபருக்குரிய காசோலை உத்தியோகபூர்வமாக வழங்கப்பட்டுள்ளது.
+
+துணை மேயர் ஹேமந்த வீரகோன், தேசிய லொத்தர் சபை தலைவர் M.D.C.A. பெரேரா மற்றும் பொது முகாமையாளர் ஏ.எம். ஆரிஃப் ஆகியோரும் கலந்து கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/bb9580f6.json)
+
+---
+
+### MP Dayasiri Jayasekara appears before CID
+
+*2025-07-18 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110596/mp-dayasiri-jayasekara-appears-before-cid) · `en`
+
+MP Dayasiri Jayasekara has appeared before the Criminal Investigation Department (CID) this morning (July 18), said Ada Derana reporter.
+
+◼️
+
+[Data](articles/d62facf4.json)
+
+---
 
 ### ධීවරයින්ට රතු නිවේදනයක්
 
@@ -41,6 +101,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6f022a0e.json)
+
+---
+
+### තීන්ත සමාගමකින් රුපියල් ලක්ෂ 114ක් වංචා කළ අලෙවි කළමනාකරු අල්ලයි
+
+*2025-07-18 10:42:09* · [`adalk`](https://www.ada.lk/breaking_news/තීන්ත-සමාගමකින්-රුපියල්-ලක්ෂ-114ක්-වංචා-කළ-අලෙවි-කළමනාකරු-අල්ලයි/11-417370) · `si`
+
+ප්‍රසිද්ධ තීන්ත සමාගමකින් රුපියල් එක්කෝටි දාහතර ලක්ෂයකට ආසන්න මුදලක් වංචා කල එම සමාගමෙහි අලෙවි කළමණාකරුවෙකු අත්අඩංගුවට ගත්බව පානදුර විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ඇල්පිටිය ඇත්කදුර ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයකු බව පොලිසිය කීය.
+
+ආයතනයේ සිදුකල ගිණුම් පරීක්ෂාවකදී රුපියල් ලක්ෂ 97 කට ආසන්න මුදලක් වංචාකර ඇති බවට සැකකරු පිළිගෙන මුදල් නැවත ලබාදෙන බවට දිව්රුම් ප්‍රකාශයක්ද ලබාදී තිබී ඇති බවත් , පසුව සිදුකල වැඩිදුර විමර්ශන වලදී රුපියල් එක්කෝටි  දාහතර ලක්ෂයක් වංචා කර ඇති බවට හෙලිවූ බවත් පොලිසිය සදහන් කරයි .
+
+තීන්ත මිළදී ගත් හාඩ්වෙයාර්  වෙතින් ආයතනය වෙත ලබාදීම සදහා ලබාදී තිබූ මුදල් මෙසේ වංචා කර ඇති බවට විමර්ශන වලදී හෙලිව ඇති බවද  පොලිසිය කීය. සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි .
+
+◼️
+
+[Data](articles/67f5b582.json)
+
+---
+
+### US designates Pakistani group’s offshoot as ‘terrorist’ organization over Kashmir attack
+
+*2025-07-18 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110595/us-designates-pakistani-groups-offshoot-as-terrorist-organization-over-kashmir-attack) · `en`
+
+The U.S. government designated The Resistance Front, considered an offshoot of the Pakistani extremist group Lashkar-e-Taiba, as a “foreign terrorist organization” over the April 22 Islamist militant attack in India-administered Kashmir that killed 26 people, Secretary of State Marco Rubio said on Thursday.
+
+The Resistance Front, also known as Kashmir Resistance, initially took responsibility for the attack in Pahalgam before denying it days later.
+
+Lashkar-e-Taiba, listed as a “foreign terrorist organization” by the United States, is an Islamist group accused of plotting attacks in India and in the West, including the three-day deadly assault on Mumbai in November 2008.
+
+TRF’s designation by Washington as a “foreign terrorist organization” and “specially designated global terrorist” enforced President Donald Trump’s ”call for justice for the Pahalgam attack,” Rubio said in a statement.
+
+...
+
+[Data](articles/9c129ef2.json)
+
+---
+
+### ‘Red’ warning issued for strong winds and rough seas
+
+*2025-07-18 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110594/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
+
+A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota.
+
+These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
+
+Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
+
+Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
+
+Naval and fishing communities are strongly advised not to venture into the sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota for the next 24 hours, said the Met. Department.
+
+...
+
+[Data](articles/b3030364.json)
 
 ---
 
@@ -1691,125 +1807,5 @@ A bond maturing on 15.09.2034 closed at 10.85/95 from 10.84/95 percent.  (Colomb
 ...
 
 [Data](articles/913464c6.json)
-
----
-
-### මැති ඇමතිවරුන්ට ගෙවූ නිවාස වන්දි නැවත අයකර ගැනීමට මූලික අයිතිවාසිකම් පෙත්සමක්
-
-*2025-07-17 16:47:18* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමතිවරුන්ට-ගෙවූ-නිවාස-වන්දි-නැවත-අයකර-ගැනීමට-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-417361) · `si`
-
-ගාලුමුවදොර පිටියේ පැවති ‘ගෝඨා ගෝ ගම’ අරගලයට පහරදීමේ සිද්ධියෙන් පසු රටපුරා ඇතිවූ ප්‍රචණ්ඩ ක්‍රියා වලදී නිවාස සහ දේපල ගිනි ගැනීමට සහ විනාශයට පත්වු බව කියමින් හිටපු මැති ඇමතිවරු පිරිසකට පසුගිය රජය විසින් වන්දි  වශයෙන්  නීති විරෝධී ආකාරයෙන් ගෙවා ඇති මහජන මුදල් යළි අයකර ගැනීමට නියම කරන්කැයි ඉල්ලා ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙත්සම නොවැම්බර් 13 වැනිදා සලකා බැලීමට  ශ්‍රේෂ්ඨාධිකරණය අද (17) දින නියම කළේය.
-
-නිවාස සහ දේපල ගිනි ගැනීමට සහ විනාශයට ලක්වු බව කියමින් හිටපු මැති ඇමතිවරු පිරිසකට වන්දි ගෙවීමේදී මහජන මුදල් අවභාවිතා වී ඇති හෙයින් ඒ පිළිබඳ විමර්ශනයක් කරන්නැයි ඉල්ලා ආචාර්ය නීතිඥ රවින්ද්‍රනාත් දාබරේ මහතා ගොනු කර ඇති පෙත්සම කැඳවු අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව පෙත්සම සලකා බැලීමට  තීරණය කළ ශ්‍රේෂ්ඨාධිකරණය එලෙස දින නියම කළේය.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන මහින්ද සමයවර්ධන සහ සෝභිත රාජකරුණා යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ල හමුවේ පෙත්සම සලකා බැලිණි.
-
-...
-
-[Data](articles/ee212140.json)
-
----
-
-### Sri Lanka stocks close marginally down after volatile session
-
-*2025-07-17 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-after-volatile-session-231257/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks closed marginally down after a volatile session with heavy selling in early trade amid profit taking by some investors, brokers said.
-
-Colombo’s broader All Share Price index (ASPI) declined 0.04 percent, or 8.11 points, to 18,876.85, on Thursday after falling almost 200 points at one time; while the S & P SL20 index of more liquid stocks, fell 0.69 percent, or 39.19 points, to close at 5,628.93.
-
-Turnover dipped to 6.8 billion rupees; while the share volume was 358,067,095.
-
-John Keells Holdings ended 0.30 rupees lower at 25.30; Commercial Bank, fell 2.00 rupees to 170.00; Melstacorp, ended 1.75 rupees weaker at 149.50; Sampath Bank, declined 1.00 rupees to 138.50; and NDB, dropped 1.25 rupees to close at 124.50 weighed down the ASPI.
-
-...
-
-[Data](articles/8b8b51ee.json)
-
----
-
-### துப்பாக்கிச் சூட்டுகாயங்களுடன் 13 யானைகள் சிகிச்சை பெற்றுவருகின்றன - வனஜீவராசிகள் பாதுகாப்பு திணைக்களம்
-
-*2025-07-17 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220235) · `ta`
-
-'பாத்திய' என்றழைக்கப்படும் காட்டு யானை துப்பாக்கிச் சூட்டுக்காயங்களுக்கு சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்தது. அதன் தொடர்ச்சியாக, இரண்டு காட்டு யானைகள் உட்பட 13 காட்டு யானைகள் தற்போது சிகிச்சை பெற்று வருவதாக வனவிலங்கு திணைக்களம் புதன்கிழமை (16) தெரிவித்துள்ளது.
-
-அநுராதபுரத்தில்  07 யானைகளும், பொலன்னறுவையில் 3 யானைகளும், வவுனியாவில் ஒரு யானையும், தெற்கில் 02 யானைகளும் துப்பாக்கிச் சூட்டு காயங்களுக்கு சிகிச்சை பெற்று வருகின்றன.
-
-பாத்திய யானைக்கு இரண்டு மாதங்களுக்கு முன்னர் துப்பாக்கிச் சூட்டு காயங்கள் ஏற்பட்டதாக கடந்த மே மாதம் 18 ஆம் திகதி அன்று வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்துக்கு அறிவிக்கப்பட்டது. 19 ஆம் திகதி  கால்நடை மருத்துவர் ஒருவர் சம்பவ இடத்திற்கு சென்று சிகிச்சை அளித்தார்.
-
-யானையை பரிசோதனை செய்த போது குணமடைந்த நிலையில் சில துப்பாக்கி சூட்டு காயங்களும் முன்னங்காலில் ஒரு கட்டியும் இருந்தது எனத் தெரிவித்துள்ளார்.
-
-கடந்த ஆறு மாதங்களில் துப்பாக்கிச் சூட்டு காயங்களால் 17 சதவீதமான யானைகள் உயிரிழந்துள்ளன.
-
-...
-
-[Data](articles/28f09e84.json)
-
----
-
-### எஹெலேபொல வளவில் உள்ள மெழுகு அருங்காட்சியகம் ஜனாதிபதியால் திறந்து வைப்பு
-
-*2025-07-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/220234) · `ta`
-
-கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க எஹெலேபொல வளவில் உள்ள மெழுகு அருங்காட்சியகம் வியாழக்கிழமை (17) காலை ஜனாதிபதி அநுர குமார திசாநாயக்கவால் திறந்து வைக்கப்பட்டது.
-
-நகர அபிவிருத்தி அதிகாரசபையால் புதுப்பிக்கப்பட்ட எஹெலேபொல வளவின் தொல்பொருள் மற்றும் கலாச்சார விழுமியங்களைப் பாதுகாப்பதற்காக இந்த அருங்காட்சியகம் உருவாக்கப்பட்டுள்ளது.
-
-எஹெலேபொல வளவின் ஒரு பகுதியாக இருக்கும் மலைநாட்டு இராஜ்ஜியத்தின் கட்டிடக்கலை, பழக்கவழக்கங்கள் மற்றும் கலைகள் இங்கு மெழுகைப் பயன்படுத்தி மீளுருவாக்கப்பட்டுள்ளன. பாரம்பரிய கைவினைப்பொருட்கள் தொடர்பான கண்காட்சி அரங்குகள் மாத்திரமன்றி பண்டைய   உணவகமும் நிறுவப்பட்டுள்ளன.
-
-வெலிவிட்ட ஸ்ரீ சரணங்கர சங்கராஜ தேரர், வாரியபொல ஸ்ரீ சுமங்கல தேரர், மன்னர் விமலதர்மசூரிய , குசுமாசன தேவி, மொனரவில கெப்பட்டிபொல  , தேவேந்திர முலாச்சாரி, ஆளுநர் ராபர்ட் பிரவுன்ரிக், எஹெலேபொல மகாதிகாரம், குமாரிஹாமி மற்றும் அவரது இரண்டு குழந்தைகள் உள்ளிட்ட வரலாற்றில் முக்கியமான  35 நபர்களின் உயிரோட்டமான மெழுகு உருவங்கள் இங்கு மீளுருவாக்கப்பட்டுள்ளன.
-
-...
-
-[Data](articles/68301295.json)
-
----
-
-### City of Dreams Sri Lanka ஆரம்ப விழாவுக்கு ஷாருக்கான் வருவாரா?
-
-*2025-07-17 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220237) · `ta`
-
-தெற்காசியாவின் முதலாவது ஒருங்கிணைந்த உல்லாச விடுதியான City of Dreams Sri Lankaவின் வரலாற்றுச் சிறப்புமிக்க ஆரம்ப விழா நிகழ்விற்கு முன்னதாக, பொலிவூட் கிங் கான் என்று அழைக்கப்படும் சூப்பர் ஸ்டார் ஷாருக்கான் கலந்துகொள்வது கொண்டாட்டங்களின் முக்கிய அம்சமாக திட்டமிடப்பட்டிருந்தது. துரதிஷ்டவசமாக, அவரது கட்டுப்பாட்டிற்கு அப்பாற்பட்ட எதிர்பாராத தனிப்பட்ட காரணங்களால், ஷாருக்கான் இந்த நிகழ்வில் கலந்துகொள்ள முடியாத நிலை ஏற்பட்டுள்ளது.
-
-இதுதொடர்பில் City of Dreams Sri Lanka-வின் பேச்சாளர் ஒருவர் கருத்து தெரிவிக்கையில்,
-
-“கானை வரவேற்பதற்காக நீங்கள் பலர் ஆவலுடன் காத்திருந்தீர்கள் என்பதை நாங்கள் புரிந்துகொள்கிறோம், உங்கள் எதிர்பார்ப்புக்கள் ஏமாற்றமடைந்ததை எங்களாலும் நன்கு உணர முடிகிறது. அவரது ஆதரவுக்கும் நல்லெண்ணத்திற்கும் நாங்கள் தொடர்ந்து ஆழ்ந்த நன்றியுடன் இருக்கிறோம், மேலும் எதிர்காலத்தில் கானை City of Dreams Sri Lankaவுக்கு வரவேற்பதை ஆவலுடன் எதிர்பார்க்கிறோம்.
-
-...
-
-[Data](articles/db6a7cad.json)
-
----
-
-### තේ කිලෝ ග්‍රෑමයකට රු. 3ක බලපත්‍ර ගාස්තුවක්
-
-*2025-07-17 16:34:15* · [`adalk`](https://www.ada.lk/breaking_news/තේ-කිලෝ-ග්‍රෑමයකට-රු--3ක-බලපත්‍ර-ගාස්තුවක්/11-417360) · `si`
-
-තේ කර්මාන්තයේ සංවර්ධනය හා ප්‍රවර්ධනය සඳහා ශ්‍රී ලංකා ‍‍තේ (අපනයන බදු සහ පාලන) පනත යටතේ වන නියෝගයකට සහ විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පතට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමිවිය.
-
-1959 අංක 16 දරන ශ්‍රී ලංකා ‍තේ (අපනයන බදු සහ පාලන) පනත යටතේ වන නියෝගයකට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමිවිය. ඒ ගරු පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව පසුගියදා (15) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-ඒ අනුව තේ කිලෝග්‍රැම් 1ක් මත රු.3/- ක බලපත්‍ර ගාස්තුවක් ගෙවීමටද එම බලපත්‍ර ගාස්තුව තේ වගාව හා කර්මාන්තයේ සංවර්ධනය හා ප්‍රවර්ධනය සඳහා යොදා ගැනීමට මෙමගින් අපේක්ෂා කරන බව නිලධාරීහු පැවසුහ. එම මුදල ශ්‍රී ලංකා තේ මණ්ඩලය විසින් පිහිටුවා ඇති ප්‍රාග්ධන අරමුදලට බැර කිරීමට ද අපේක්ෂිතය.
-
-...
-
-[Data](articles/127c7ca8.json)
-
----
-
-### ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ள புதிய தொலைபேசி இலக்கம்
-
-*2025-07-17 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220230) · `ta`
-
-ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ளுவதற்கு புதிய தொலைபேசி இலக்கம் அறிமுகம் செய்யப்பட்டுள்ளதாக அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
-
-பொதுமக்கள் அனைவரும் 011-4 354250 என்ற தொலைபேசி இலக்கத்தின் மூலம் ஜனாதிபதி நிதியத்துடன் தொடர்பு கொள்ள முடியும் என அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
-
-ஜனாதிபதி நிதியத்தின் சேவைகள் தொடர்பான முறைப்பாடுகள் மற்றும் விசாரணைகளுக்காக இந்த புதிய இலக்கம் அறிமுகம் செய்யப்பட்டுள்ளதாக அரசாங்க தகவல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/6110776a.json)
 
 ---

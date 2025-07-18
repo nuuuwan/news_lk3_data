@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 14:37:29**
+As of **2025-07-18 14:51:21**
 
 ## Newspaper Stats
 
@@ -950,7 +950,7 @@ ECONOMYNEXT – Sri Lanka’s central bank has issued a direction to banks and f
 
 The directions are issued to “enhance macroprudential policy making, mitigating systemic risks and harmonizing existing caps on LTV ratios to a large extent and reinforcing prudential credit standards,” the central bank said in the direction.
 
-A 90 percent loan to value for electric vehicles has been removed.
+A 90 percent loan to value for electric vehicles has been removed and brought near others.
 
 The LTV value for cars, SUVS and Vans increased to 60 percent from 50 percent.
 

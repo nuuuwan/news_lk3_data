@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 14:51:21**
+As of **2025-07-18 15:06:38**
 
 ## Newspaper Stats
 
-*Scraped **65,391** Articles*
+*Scraped **65,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,993
-economynextcom | 4,002
+economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,276
-adaderanalk | 7,979
-tamilmirrorlk | 9,374
+adaderanalk | 7,980
+tamilmirrorlk | 9,375
 virakesarilk | 10,879
-adaderanasinhalalk | 11,230
+adaderanasinhalalk | 11,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,391 articles have been extended.
+61,973 (94.8%) of 65,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### හැටන් නගරයේ වෙළදසැලක ගින්නක්
+
+*2025-07-18 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212383) · `si`
+
+හැටන් නගරයේ පැති වීදියේ පාවහන් වෙළදසැලක අද (18) පස්වරු 1:00ට පමණ ගින්නක් හට ගෙන තිබේ.
+
+මෙම ගින්න හට ගන්නා අවස්ථාව වන විට අදාළ වෙළඳසැල වසා තිබී ඇති අතර ඒ හේතුවෙන් ගින්න ශීඝ්‍රයෙන් පැතිර ගොස් ඇති බව වාර්තා වෙයි.
+
+ගින්න පාලනය කිරිම සඳහා හැටන් දික්ඔය නගර සභාවේ ගිනි නිවන ඒකකයේ නිළධාරින් පියවර ගෙන තිබේ.
+
+මෙම ගින්නෙන් කිසිවෙකුටත් තුවාල සිදු වී නොමැති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව හැටන් පොලීසිය පැවසුවේය.
+
+කෙසේ වෙතත් මේ හේතුවෙන් හැටන් පැති වීදියේ වාහන ධාවන කටයුතු තාවකාලිකව නතර කිරිමට හැටන් පොලීසිය පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/eea203a2.json)
+
+---
+
+### Sri Lanka achieved 17-point rise in HPV vaccination coverage in 2024: WHO
+
+*2025-07-18 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-achieved-17-point-rise-in-hpv-vaccination-coverage-in-2024-who-231415/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s vaccination coverage for adolescent girls against human papillomavirus (HPV) rose 17 percentage points, from 31 per cent to 48 per cent, in 2024, the World Health Organisation (WHO) has said.
+
+Vaccination coverage in South Asia against HPV, a major cause of cervical cancer, increased from 2 per cent in 2023 to 9 per cent in 2024.
+
+“Bhutan, Maldives, and Sri Lanka increased their HPV vaccination rates by 3 percentage points (from 91 per cent to 94 per cent), 15 percentage points (from 60 per cent to 75 per cent), and 17 percentage points (from 31 per cent to 48 per cent) respectively in 2024,” the WHO said.
+
+Bangladesh achieved notable progress, vaccinating over 7.1 million girls since starting its HPV programme in 2023.
+
+Nepal launched its national HPV vaccination campaign in February 2025 and has vaccinated over 1.4 million girls so far.
+
+India and Pakistan are expected to launch their HPV vaccination programmes later this year.
+
+...
+
+[Data](articles/a95940c3.json)
+
+---
 
 ### බැංකුවලින් වාහන ණය දෙන විදිය අද සිට වෙනස් වෙයි
 
@@ -99,6 +141,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/194e2b4e.json)
+
+---
+
+### Tea traders call for legal action against low-quality production practices
+
+*2025-07-18 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110601/tea-traders-call-for-legal-action-against-low-quality-production-practices) · `en`
+
+A meeting was held yesterday (17) at the Presidential Secretariat between the Secretary to the President, Dr. Nandika Sanath Kumanayake, and officials from institutions related to the tea industry.
+
+The discussion reviewed the issues that have emerged within Sri Lanka’s tea industry. Special attention was paid to improving the quality of tea leaves, the productivity of tea cultivation, and exploring new international market opportunities, according to the President’s Media Division (PMD).
+
+The challenges faced by tea manufacturers were also discussed, and Dr. Kumanayake instructed officials to provide constructive solutions to these issues.
+
+The importance of implementing various programmes for the capacity development of small tea estate owners was also discussed. During this, the necessity of drawing manufacturers’ attention to replanting tea was also deliberated.
+
+...
+
+[Data](articles/d2a9bbd5.json)
 
 ---
 
@@ -227,6 +287,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6fa0bc92.json)
+
+---
+
+### Sri Lanka to have online Trump tariff talks today
+
+*2025-07-18 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-online-trump-tariff-talks-today-231445/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hold online discussions with the US Trade Representative today, to try and reduce the tariffs proposed by the United States, its Ministry of Finance said.
+
+The discussion will be attended by the Secretary to the Ministry of Finance, Dr Harshana Suriyapperuma, and relevant government officials “to promote trade and investment relations between the two countries”.
+
+The Sri Lankan government is having ongoing negotiations with the US Trade Agency, the ministry said, and have taken steps to reach revised agreements.
+
+On July 12, the US notified Sri Lanka in writing a new tariff proposal, reducing it from the initial 44 percent announced in April to 30 percent.
+
+“It was subsequently decided that Sri Lanka would continue to hold discussions with the US Trade Agency to further reduce the 30% rate.” (Colombo/Jul18/2025)
+
+◼️
+
+[Data](articles/90a09d5b.json)
 
 ---
 
@@ -527,6 +607,28 @@ Accordingly, Colombo Chief Magistrate Thanuja Lakmali issued this order after co
 ...
 
 [Data](articles/077d88bd.json)
+
+---
+
+### Sri Lanka SOE sales not completed due to following proper procedure: ex-President
+
+*2025-07-18 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-soe-sales-not-completed-due-to-following-proper-procedure-ex-president-231419/) · `en`
+
+ECONOMYNEXT – Sales of several state firms which were on line to be privatized could not be completed due to time it took to follow proper procedures, ex-President Ranil Wickemesinghe said.
+
+“There was a committee, the members of the committee insisted that they follow all the proper steps,” Wickremesinghe said at a forum on organized by Advocata Institute, a Colombo-based think tank.
+
+“I used to push them but they said ‘We do not want questions coming up later and for us to be locked up. So they followed the procedure.”
+
+Wickremesinghe said there was no ‘delay’ as such but the process was time consuming.
+
+By the time it came to July (2024) there were offers from investors but it was too close to polls and it would have become an election issue and he said not to go ahead, Wickremesinghe said.
+
+“Otherwise, they could have been finished by December,” he said.
+
+...
+
+[Data](articles/092ee3d5.json)
 
 ---
 
@@ -1711,79 +1813,5 @@ Kahathuduwa Police have launched an investigation reviewing CCTV footage to iden
 ◼️
 
 [Data](articles/4f89791b.json)
-
----
-
-### NCHS celebrates brightest young innovators in Sri Lanka
-
-*2025-07-17 21:59:00* · [`islandlk`](http://island.lk/nchs-celebrates-brightest-young-innovators-in-sri-lanka/) · `en`
-
-INCOHST 2025,Sri Lanka’s leading educational showcases for young technology talent, concluded on an inspiring note recently at the Atrium, Cinnamon Grand Colombo.Organised by Nawaloka College of Higher Studies (NCHS) and sponsored by Swinburne University of Technology, Australia, this all-island event brought together schoolchildren from across the country to demonstrate how creativity and technology can solve real-world challenges.
-
-In a message shared on his behalf, Victor Ramanan, Deputy Chairman/Chief Executive Officer of Nawaloka College of Higher Studies, conveyed his thoughts on the occasion. He noted that it had been remarkable to witness the commitment and ingenuity of the young participants. He explained that INCOHST is more than a competition, describing it as a platform that empowers students to turn ideas into solutions that matter. He emphasised that nurturing these talents would build a generation ready to shape the future with courage and innovation.
-
-...
-
-[Data](articles/66a871c4.json)
-
----
-
-### People’s Bank and IDB Launch ‘BizTeens Challenge 2025’
-
-*2025-07-17 21:58:00* · [`islandlk`](http://island.lk/peoples-bank-and-idb-launch-bizteens-challenge-2025/) · `en`
-
-People’s Bank, in collaboration with the Industrial Development Board (IDB) of Sri Lanka, has officially launched an island-wide initiative for school children titled ‘People’s BizTeens Challenge 2025’. This pioneering programme is designed to empower and uplift the next generation of young entrepreneurs by providing them with a platform to showcase their innovative business ideas and entrepreneurial concepts.
-
-The official agreement marking the commencement of this partnership was signed recently at the auditorium of the People’s Bank Staff Training College. The event was graced by People’s Bank Chairman Prof. Narada Fernando, Chief Executive Officer/General Manager Clive Fonseka, IDB Chairman Ravi Nissanka, Acting Director General W.A.P. Kapila Nishantha, Deputy General Manager – Retail Banking and Overseas Customer Services Aruni Liyanagunawardana, as well as members of the Bank’s corporate and executive management, school principals, teachers, and a large number of schoolchildren.
-
-...
-
-[Data](articles/a4724b9e.json)
-
----
-
-### Singer leads 5G Era in Sri Lanka with HONOR
-
-*2025-07-17 21:58:00* · [`islandlk`](http://island.lk/singer-leads-5g-era-in-sri-lanka-with-honor/) · `en`
-
-Singer Sri Lanka PLC has further strengthened its leadership in the mobile phone market with the exclusive launch of two new 5G-enabled smartphones from HONOR; the Honor 200 Smart 5G and Honor X9C Smart 5G. This launch not only marks a major step forward in making next-generation mobile connectivity accessible to Sri Lankans but also reinforces Singer’s position as the nation’s leading and most reliable destination for 5G smartphones.
-
-Positioned among the country’s most affordable and accessible 5G smartphones, the launch of the new HONOR devices marks a significant milestone in making next-generation technology more accessible to Sri Lankans.
-
-...
-
-[Data](articles/cf66fd6e.json)
-
----
-
-### සැකසහිත වෑන් රථයක් සොයා පොලිස් විමර්ශන
-
-*2025-07-17 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212365) · `si`
-
-කහතුඩුව ප්‍රදේශයේදී සුදු පැහැති වෑන් රථයකින් 15 හැවිරිදි දරුවෙකු පැහැරගෙන යමින් සිටියදී රත්නපුර ප්‍රදේශයේදී ඔහු එම වෑන් රථයෙන් පැන තිබේ.
-
-ඒ අනුව, වෑන් රථයකින් පැහැරගත් කුඩා දරුවෙකු රත්නපුර කැටන්දොල නිව් පැලැන්වාඩිය ප්‍රදේශයේ ආපනශාලාවක් අසල සිටින බවට 119 පොලිස් හදිසි ඇමතුම් ඒකකයට පුද්ගලයකු ලබාදුන් දුරකථන ඇමතුමක් අනුව රත්නපුර පොලීසියේ රාත්‍රී ජංගම සංචාරයේ නිරත පොලිස් නිලධාරීන් විසින් එම දරුවා පොලීසිය භාරයට ගෙන ඇත.
-
-දරුවා පැහැර ගැනීමට පැමිණි කණ්ඩායම සොයා ගැනීම සඳහා CCTV ඔස්සේ කහතුඩුව පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/ea9c3f60.json)
-
----
-
-### புதிய கல்விச் சீர்திருத்தம் குறித்து நடைபெறும் உரையாடல்கள், கருத்துப் பரிமாற்றங்கள் மற்றும் விமர்சனங்கள் மிகவும் முக்கியம் - பிரதமர்
-
-*2025-07-17 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220265) · `ta`
-
-கொழும்பு, ஜூலை 17, 2025 – சமூகத்திற்கு உண்மையான தகவல்களைக் கொண்டு செல்லும் வகையில், புதிய கல்விச் சீர்திருத்தம் குறித்து நடைபெறும் உரையாடல்கள், கருத்துப் பரிமாற்றங்கள் மற்றும் விமர்சனங்கள் மிகவும் முக்கியமானவை என்று கல்வி, உயர்கல்வி மற்றும் தொழில்நுட்பக் கல்வி அமைச்சர் மற்றும் பிரதமர் கலாநிதி ஹரினி அமரசூரிய வியாழக்கிழமை (17) தெரிவித்தார்.
-
-புதிய கல்விச் சீர்திருத்தம் குறித்து மேல் மாகாண கல்வி அதிகாரிகளுக்கு விளக்கமளிக்கும் நிகழ்வு, வியாழக்கிழமை (17) மேல் மாகாண சபையின் கேட்போர் கூடத்தில் நடைபெற்றது. இந்நிகழ்வில் பிரதமர் மேற்கண்டவாறு கருத்து தெரிவித்தார்.
-
-இதன்போது மேலும் கருத்துத் தெரிவித்த பிரதமர், "புதிய கல்விச் சீர்திருத்தம் குறித்து அனைவரும் பெரும் அக்கறை கொண்டிருப்பது சமூகத்தில் ஏற்பட்டுள்ள உரையாடல்கள் மூலம் தெளிவாகத் தெரிகிறது. கல்விச் சீர்திருத்தம் குறித்து மக்கள் மத்தியில் பெரும் ஆர்வம் ஏற்பட்டிருக்கிறது. அதனாலேயே பலரும் பல்வேறு கருத்துகள், கருத்துரைகள் மற்றும் விமர்சனங்களை முன்வைக்கிறார்கள். இது வரவேற்கத்தக்க நிலைமையே. இதன் மூலமே எம்மால் சிறந்த நிலையை அடைய முடியும்," என்றார்.
-
-...
-
-[Data](articles/f07846b9.json)
 
 ---

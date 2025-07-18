@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 05:30:52**
+As of **2025-07-18 06:09:20**
 
 ## Newspaper Stats
 
-*Scraped **65,323** Articles*
+*Scraped **65,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
-islandlk | 3,990
+islandlk | 3,993
 economynextcom | 3,997
 dailyftlk | 4,637
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.9%) of 65,323 articles have been extended.
+61,973 (94.9%) of 65,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -489,6 +489,20 @@ Near Term (2025): LKR/USD stabilizes around 300, supported by CBSL’s USD purch
 ...
 
 [Data](articles/eca02894.json)
+
+---
+
+### SLT-MOBITEL drives innovation at IESL RoboGames 2024
+
+*2025-07-17 22:24:00* · [`islandlk`](http://island.lk/slt-mobitel-drives-innovation-at-iesl-robogames-2024/) · `en`
+
+In a pioneering display of technological excellence, SLT-MOBITEL transformed the ‘IESL RoboGames 2024’ competition into an inspiring technological showcase, with the grand finale held recently, setting new benchmarks for robotics innovation in the country. Going far beyond traditional corporate support, SLT-MOBITEL’s active involvement demonstrated the commitment to championing Sri Lanka’s digital transformation, nurturing the nation’s brightest young minds.
+
+The IESL RoboGames 2024 concluded successfully with an impressive display of innovation and technical skill from undergraduate and school students across the island. The event encouraged collaborative problem-solving, technological advancements, and AI-driven solutions, positioning Sri Lanka as an emerging hub for robotics and AI development in the region.
+
+...
+
+[Data](articles/79dd67c2.json)
 
 ---
 
@@ -1781,23 +1795,5 @@ On June 30, a 22-year-old youth died in the shooting while another 27-year-old p
 ...
 
 [Data](articles/05633167.json)
-
----
-
-### US offers 0% duty on 70–80% of Sri Lankan exports: Dy Minister
-
-*2025-07-17 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110571/us-offers-0-duty-on-7080-of-sri-lankan-exports-dy-minister) · `en`
-
-The United States has offered to accept 70 to 80% of products exported from Sri Lanka without imposing any tariffs, Deputy Minister of Economic Development (Prof.) Anil Jayantha Fernando stated.
-
-The offer has been made during on-going discussions between Sri Lanka and the US following the decision by US President Donald Trump earlier this year to impose reciprocal tariffs on countries based on existing trade deficits.
-
-Speaking during the “Ada Derana Big Focus” program held today (17), Deputy Minister Anil Jayantha Fernando confirmed that the US has offered Sri Lanka a list of 1,161 products for exports including apparel and 42 products related to the Agricultural industry.
-
-The Deputy Minister of Economic Development stated that the details of the agreement with the United States cannot be disclosed yet, as discussions related to tariff concessions have not been finalized.
-
-...
-
-[Data](articles/c26613ef.json)
 
 ---

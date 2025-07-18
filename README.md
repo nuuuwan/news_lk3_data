@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 17:52:29**
+As of **2025-07-18 18:09:05**
 
 ## Newspaper Stats
 
-*Scraped **65,419** Articles*
+*Scraped **65,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 3,993
 economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,278
+adalk | 6,279
 adaderanalk | 7,983
 tamilmirrorlk | 9,378
-virakesarilk | 10,888
+virakesarilk | 10,891
 adaderanasinhalalk | 11,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,419 articles have been extended.
+61,973 (94.7%) of 65,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### லோகேஷ் கனகராஜ் தயாரிக்கும் 'மிஸ்டர் பாரத்' படத்தின் படப்பிடிப்பு நிறைவு
+
+*2025-07-18 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220341) · `ta`
+
+டிஜிற்றல் திரையுலகின் முன்னணி நட்சத்திர முகங்களான பாரத் , நிரஞ்சன் இணைந்து நடிக்கும் 'மிஸ்டர் பாரத்' படத்தின் படப்பிடிப்பு நிறைவு பெற்றதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை பகிர்ந்து மகிழ்ச்சியுடன் தெரிவித்துள்ளனர்.
+
+இயக்குநர்கள் பாரத் - நிரஞ்சன் கதையின் நாயகர்களாக நடித்து இயக்கி வரும்' மிஸ்டர் பாரத் படத்தில் சம்யுக்தா விஸ்வநாதன், பால சரவணன், நிதி பிரதீப், ஆர். சுந்தர்ராஜன், லிங்கா, ஆதித்யா கதிர் உள்ளிட்ட பலர் நடித்துள்ளனர்.
+
+ஓம் நாராயணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பிரணவ் முனிராஜ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை பேஷன் ஸ்டுடியோஸ் ,தி ஸ்குவாட் ,தி ரூட் ,ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம், லோகேஷ் கனகராஜ், ஜெகதீஷ் பழனிச்சாமி ,ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+ஒரே கட்டமாக நடைபெற்ற இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து விட்டது என்றும், தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கப்பட்டிருக்கிறது என்றும் படக்குழுவினர் மகிழ்ச்சியுடன் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5b104dbd.json)
+
+---
+
+### நகைச்சுவையுடன் கூடிய காதல் கதையில் இணையும் கவின் - பிரியங்கா மோகன் ஜோடி
+
+*2025-07-18 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220340) · `ta`
+
+'டாடா' படத்தின் வணிக ரீதியான வெற்றிக்குப் பிறகு தமிழ் திரையுலகின் நம்பிக்கை நட்சத்திரமாக உயர்ந்து வரும் நடிகர் கவின் கதையின் நாயகனாக நடிக்கும் பெயரிடப்படாத புதிய திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+இயக்குநர் கென் ராய்சன் இயக்கத்தில் உருவாகும் பெயரிடப்படாத புதிய திரைப்படத்தில் கவின்-  பிரியங்கா மோகன் ஆகியோர் முதன்மையான வேடங்களில் நடிக்கிறார்கள். அதீத கற்பனை+  நகைச்சுவை+  காதல் எனும் ரசனையான கலவையில் உருவாகும் இந்த திரைப்படத்தை  திங்க் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ஸ்வரூப் ரெட்டி தயாரிக்கிறார்.
+
+இப்படத்தின் படப்பிடிப்பு இந்த ஆண்டின் இறுதியில் தொடங்கும் என்றும், படத்தில் பணியாற்றும் ஏனைய நடிகர் நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விபரங்கள் அதிகாரப்பூர்வமாக விரைவில் வெளியிடப்படும் என்றும் படக்குழுவினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f3505492.json)
+
+---
+
+### விஜய் சேதுபதி நடிக்கும் 'தலைவன் தலைவி' படத்தின் முன்னோட்டம் வெளியீடு
+
+*2025-07-18 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220337) · `ta`
+
+'மக்கள் செல்வன்' விஜய் சேதுபதி , நித்யா மேனன் , பாண்டிராஜ் , சத்யஜோதி பிலிம்ஸ் ,கூட்டணியில் உருவான 'தலைவன் தலைவி' படத்தின் முன்னோட்டம் வெளியாகி, மூன்று மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+எதிர்வரும் 25 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகும் இந்த திரைப்படத்தின் முன்னோட்டம் - தொழில்நுட்ப கோளாறு காரணமாக சற்று தாமதமாக வெளியிடப்பட்டிருக்கிறது. இதில் இடம் பிடித்திருக்கும் உணவக தொழிலாளரின் வாழ்வியல் தொடர்பான காட்சிகள் நாளாந்த எளிய மக்களின் வாழ்வியலை இயல்பாக பிரதிபலிப்பதால் படத்தைப் பற்றிய எதிர்பார்ப்பு ரசிகர்களிடத்தில் அதிகரித்திருக்கிறது.
+
+முன்னோட்டத்தில் சில காட்சிகள் சுவராசியமாகவும் சில காட்சிகள் மண்ணின் மைந்தர்களின் ஆணாதிக்க சிந்தனையை அப்பட்டமாக பிரதிபலிப்பது போல் உள்ளதால் ரசிக்க முடிகிறது. இருந்தாலும் தமிழக மக்கள் உணர்ச்சிவசப்படுபவர்களாகவும், அதீத கோபக்காரர்களாகவும் காட்சி படுத்தியிருப்பது கதாபாத்திரத்தின் மிகையான தன்மையை எதிரொலிப்பதால் ரசிகர்களிடம் கலவையான விமர்சனத்தையே இந்த முன்னோட்டம் எதிர்கொள்கிறது.
+
+◼️
+
+[Data](articles/0fa5e599.json)
+
+---
 
 ### හිටපු ඇමතිනි චන්ද්‍රානි බණ්ඩාරට එරෙහි නඩුවක් කල් යයි
 
@@ -152,9 +202,9 @@ There was no cockpit video recording definitively showing which pilot flipped th
 
 2018 ஆம் ஆண்டு பெப்ரவரி மாதம் 08 ஆம் திகதி அன்று வெளியிடப்பட்ட வழிகாட்டுதல்களைப் புதுப்பித்து 2025 ஜூலை மாதம் 17ஆம் திகதி புதிய வழிகாட்டுதல்கள் மத்திய வங்கியால் வெளியிடப்பட்டுள்ளன.
 
-அதன்படி, 2018 வழிகாட்டுதல்களில் குறிப்பிடப்பட்டுள்ளபடி, மின்சாரம், ஹைபிரிட் மற்றும் பிற போன்ற ஆற்றல் மூலத்தின் படி செய்யப்பட்ட வகைப்பாடுகள், இந்த புதிய 2025 வழிகாட்டுதல்களில் நீக்கப்பட்டுள்ளன.
+மின்சாரம், ஹைபிரிட் மற்றும் பிற போன்ற ஆற்றல் மூலத்தின் படி செய்யப்பட்ட வகைப்பாடுகள், இந்த புதிய 2025 வழிகாட்டுதல்களில் நீக்கப்பட்டுள்ளன.
 
-அதன்படி, 2018 வழிகாட்டுதல்களின்படி, மின்சார பிரிவின் கீழ் வாகனத்தின் மதிப்பில் 90% வரை நிதி வசதிகளைப் பெறுவதற்கான வாய்ப்பு, வணிக வாகனங்களுக்கு 80% ஆகவும், மோட்டார் கார்கள், SUVகள் மற்றும் வேன்களுக்கு 60% ஆகவும், முச்சக்கர வண்டிகளுக்கு 50% ஆகவும், பிற வாகனங்களுக்கு 70% ஆகவும் குறைக்கப்பட்டுள்ளது.
+அதன்படி, 2018 வழிகாட்டுதல்களின்படி, மின்சார பிரிவின் கீழ் வாகனத்தின் மதிப்பில் 90% வரை நிதி வசதிகளைப் பெறுவதற்கான வாய்ப்பு, வணிக வாகனங்களுக்கு 80% ஆகவும், மோட்டார் கார்கள், SUVகள் மற்றும் வேன்களுக்கு 60% ஆகவும், முச்சக்கர வண்டிகளுக்கு 50% ஆகவும்,
 
 ...
 
@@ -321,6 +371,26 @@ Officials of the Bribery Commission had previously informed the court that the f
 ◼️
 
 [Data](articles/f2d06441.json)
+
+---
+
+### වන අලින්ට මහා අපලයක්, මිනගයා දුම්රියේ ගැටී වන අලියෙක් මරුට
+
+*2025-07-18 15:14:22* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලින්ට-මහා-අපලයක්--මිනගයා-දුම්රියේ-ගැටී-වන-අලියෙක්-මරුට/11-417376) · `si`
+
+කොළඹ සිට මඩකලපුව බලා ධාවනය වෙමින් තිබූ මීනගයා දුම්රියට කදුරුවෙල ගල්ලෑල්ල ප්‍රදේශයේදී අද 18 වෙනිදා අලුයම පහයි තිහට පමණ වන අලියෙකු ගැටීමෙන් එම වන අලියා මියගොස් ඇති බව පොළොන්නරුව වනජීවී නිලධාරීන් සඳහන් පවසයි.
+
+මියගිය වන අලියා අවුරුදු හතළිහක් පමණ වයසැති උඩ අඩි 8 ක් පමණ වයසැති වන අලියකු බව වනජීවී නිලධාරියෙකු  සඳහන් කළේය.
+
+වන අලියා දුම්රියේ ගැටීමෙන් පසු, වේදනාවෙන් කෑගසමින් නිවසක් අද්දරින් පොළොන්නරුව මඩකලළපුව ප්‍රධාන මාර්ගයට පැමිණ සුදු නෙළුම්ගම ගම්මානයේ දැන්වීම් පුවරුව අසලට පැමිණ වැටී මියගිය බව ඇසින් දුටු ප්‍රදේශවාසීන් සඳහන් කරති.
+
+වන අලියා මිය යෑමෙන් අනතුරුව සිද්ධිය බැලීමට පැමිණි අයෙකු වන අලියාගේ නගුටේ කෙඳි ගැලවීමට උත්සාහ දැරීමත් සමග එහි රැඳී සිටි වෙහෙරගල වනජීවී අඩවි ආරක්ෂක ඩව්ලිව්.එම් වික්‍රමරත්න මහතා විරෝධය පළ කර ඔහු ඉවත් කිරීමට කටයුතු කළේය.
+
+මියගිය වන අලියාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු වනජීවී දෙපාර්තමේන්තුවේ ගිරිතලේ වනජීවී පශු වෛද්‍ය සමීර කලිඟු ආරච්චි මහතා ඇතුළු වනජීවී නිලධාරීන් පිරිසක් විසින් 18 වෙනිදා සිදු කිරීමට නියමිතයි.
+
+◼️
+
+[Data](articles/4c8ca75a.json)
 
 ---
 
@@ -1777,75 +1847,5 @@ Efforts to navigate economic recovery are juxtaposed against a persistent and, i
 ...
 
 [Data](articles/c8b085e1.json)
-
----
-
-### Cabinet nod to procure five power sets to address railway shortage
-
-*2025-07-18 02:36:51* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-procure-five-power-sets-to-address-railway-shortage/56-779155) · `en`
-
-The Cabinet of Ministers on Monday approved the procurement of five power sets to be deployed for suburban and long-distance passenger services.
-
-The decision has been taken considering the shortage of power sets required to operate trains in suburban areas by the Railways Department.
-
-Announcing the decision at the weekly post-Cabinet meeting media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said due to the shortage, there is constant passenger congestion on the trains that operate daily. Since most of the power sets currently in operation have been in service for over 20 years, they are continually susceptible to sudden interruptions and breakdowns.
-
-He said according to recent estimates, the Railways Department requires a minimum of 96 power sets to maintain its existing service levels.
-
-The proposal to this effect, submitted by Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake, was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/6b5b38ce.json)
-
----
-
-### Cabinet approves new sewage treatment plants
-
-*2025-07-18 02:35:46* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-new-sewage-treatment-plants/56-779154) · `en`
-
-The Cabinet of Ministers on Monday approved constructing mechanical sewage refinery centres in selected Local Governments using Rs. 200 million from the provisions allocated for the ‘Clean Sri Lanka’ program.
-
-The move aims to address existing obstacles in sewage and soakage management due to a lack of sufficient refinery centres.
-
-Announcing the decision at the weekly post-Cabinet meeting media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said accomplishing the soakage and sewage management service network has faced obstacles due to a lack of sufficient sewage refinery centres. Therefore, at times, sewage collected at some occasions has to be disposed of to the open environment.
-
-Against this backdrop, he said the requirement to develop infrastructure facilities for managing soakage and sewage has been recognised as per the national policy on waste disposal.
-
-...
-
-[Data](articles/1cc96808.json)
-
----
-
-### Procurement of Desferrioxamine Mesylate injection BP 500mg gets Cabinet nod
-
-*2025-07-18 02:35:30* · [`dailyftlk`](https://www.ft.lk/news/Procurement-of-Desferrioxamine-Mesylate-injection-BP-500mg-gets-Cabinet-nod/56-779153) · `en`
-
-The Cabinet of Ministers on Monday approved the procurement of 400,000 vials of 500 mg Desferrioxamine Mesylate injection, a critical medication used to remove excess iron from the bodies of the patients who are suffering from anaemia or thalassaemia.
-
-Addressing the weekly post-Cabinet meeting media briefing on Tuesday, Cabinet Spokesman and Health Minister Dr. Nalinda Jayatissa said the decision follows a competitive international bidding process.
-
-“Two bids were received in response to the call for international competitive procurement procedures. Based on the evaluation and recommendations of the highest-level standing procurement committee, it was approved to award the contract to M/s ABC Pharma Services Ltd., the only lowest responsive bidder.”
-
-The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/dab7bb8f.json)
-
----
-
-### EDB hosts workshop on export-ready ayurvedic and herbal cosmetics
-
-*2025-07-18 02:34:38* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-workshop-on-export-ready-ayurvedic-and-herbal-cosmetics/34-779152) · `en`
-
-The Export Agriculture Division of the Sri Lanka Export Development Board (EDB), in collaboration with its Central Province Regional Office, successfully conducted an awareness workshop on the topic “Development of Ayurvedic and Herbal Cosmetic Products for Export Markets” at The Royal Mall Hotel – Kandy. This targeted initiative was aimed at empowering small and medium-scale Sri Lankan manufacturers and exporters in the ayurvedic, herbal, and cosmetic sectors.
-
-Designed to build industry competencies, the workshop covered critical areas such as advanced manufacturing technologies, innovative packaging, value addition, market-oriented product development, effective use of herbal ingredients, and adherence to regulatory and international quality standards.
-
-...
-
-[Data](articles/bdf0b4f4.json)
 
 ---

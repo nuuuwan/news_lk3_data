@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 16:06:01**
+As of **2025-07-18 16:21:53**
 
 ## Newspaper Stats
 
-*Scraped **65,405** Articles*
+*Scraped **65,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 4,005
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,278
-adaderanalk | 7,980
-tamilmirrorlk | 9,376
-virakesarilk | 10,883
-adaderanasinhalalk | 11,232
+adaderanalk | 7,982
+tamilmirrorlk | 9,377
+virakesarilk | 10,884
+adaderanasinhalalk | 11,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,405 articles have been extended.
+61,973 (94.7%) of 65,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### மனித புதைகுழிகள் தொடர்பில் சர்வதேச விசாரணைகளை மேற்கொள்வதற்கு அரசாங்கம் நடவடிக்கை எடுக்க  வேண்டும் – யாழ். கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு வேண்டுகோள்
+
+*2025-07-18 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220320) · `ta`
+
+நல்லிணக்கம் ஏற்படவேண்டுமாயின் தமிழ் மக்கள் மீது நடாத்தப்பட்டுள்ள குண்டுதாக்குதல்கள் ,புதைகுழிகள், காணாமல் ஆக்கப்பட்டோர் தொடர்பிலாவது சர்வதேச விசாரணைகளை   மேற்கொள்வதற்கு அரசாங்கம் நடவடிக்கை மேற்கொள்ள வேண்டும் என யாழ் கத்தோலிக்க மறைமாவட்ட நீதி சமாதான ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+இது தொடர்பாக "செம்மணி புதைகுழி கிளறிய சில சிந்தனைகள்" என குறிப்பிட்டு அவர்கள் வெளியீட்டுள்ள அறிக்கையில் இதனை தெரிவித்துள்ளார்கள். அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது :
+
+...
+
+[Data](articles/0964c0b0.json)
+
+---
+
+### වසර 05කට පසු යුක්‍රේන අගමැති ධුරයේ වෙනසක්
+
+*2025-07-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212385) · `si`
+
+යුක්‍රේන ජනාධිපති වොලොඩිමියර් සෙලෙන්ස්කි විසින් එරට අග්‍රාමාත්‍ය ධුරයේ වෙනසක් සිදුකර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ රුසියාව සමග සාමය සඳහා ඇති අපේක්ෂාවන් බිඳ වැටෙමින් පවතින පසුබිමක යුද කාලීන කළමනාකරණය සහ පුනර්ජීවනය අරමුණු කරගනිමින් මෙම සංශෝධනය සිදුකර ඇති බවය.
+
+ඒ අනුව එරට නව අගමැතිවරිය ලෙස 39 හැවිරිදි යුලියා ස්වයිරිඩෙන්කෝ පත් කිරීමට තීරණය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා සඳහන් කර ඇති පරිදි යුක්‍රේන ජනාධිපතිවරයා එරට කැබිනට් මණ්ඩලයේ මෙම වෙනස්කම සිදුකර ඇත්තේ වසර පහකට පසුවීමද විශේෂත්වයකි.
+
+පසුගිය අඟහරුවාදා දින යුක්‍රේනයේ හිටපු අගමැති ඩෙනිස් ෂ්මිහාල් පැවසුවේ එළැඹෙන සතියේදී රජය විසින් අපේක්ෂා කරන එරට විශාලතම යුද කාලින රජයේ ප්‍රතිංසංවිධානයේ කොටසක් ලෙස තමන් ඉල්ලා අස්වීමට තීරණය කළ බවය.
+
+ඒ අනුව අදාළ ඉල්ලා අස්වීමෙන් පසු යුක්‍රේන ජනාධිපතිවරයා විසින් නව අගමැති ධුරය සඳහා යුලියා ස්වයිරිඩෙන්කෝ නම් කළ අතර ඊට එරට පාර්ලිමේන්තුවේද අනුමැතිය හිමිව ඇත.
+
+...
+
+[Data](articles/c9e2357d.json)
+
+---
+
+### ராஜிதவின் முன்பிணை மனு நிராகரிக்கப்பட்டது
+
+*2025-07-18 15:54:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவின்-முன்பிணை-மனு-நிராகரிக்கப்பட்டது/175-361327) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் டாக்டர் ராஜித சேனாரத்ன தாக்கல் செய்த முன்பிணை  மனுவை நீதிமன்றம் நிராகரித்துள்ளது.
+
+சர்ச்சைக்குரிய மணல் சுரங்க ஒப்பந்தம் தொடர்பாக லஞ்சம் அல்லது ஊழல் பற்றிய குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவால் தாம் கைது செய்யப்படுவதைத் தடுக்கக் கோரி ராஜித சேனாரத்ன இந்த விண்ணப்பத்தை தாக்கல் செய்தார்.
+
+தொலைபேசியை துண்டித்து, வீட்டை காலி செய்து, பல முறை சம்மன்களை புறக்கணித்து, ராஜித சேனாரத்ன கைது செய்வதைத் தவிர்த்து வந்ததாக ஆணைக்குழுவால் நீதிமன்றுக்கு தெரிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/083ce1d1.json)
+
+---
+
+### Rajitha’s anticipatory bail application rejected
+
+*2025-07-18 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110603/rajithas-anticipatory-bail-application-rejected) · `en`
+
+An anticipatory bail application filed by former Minister Rajitha Senaratne, seeking his release on anticipatory bail before he is arrested by the Bribery Commission, was on Friday rejected by the Colombo Magistrate’s Court.
+
+Colombo Chief Magistrate Thanuja Lakmali Jayatunga issued this order after considering the submissions made by the petitioner’s lawyers and officials of the Bribery Commission.
+
+Senaratne’s attorneys on July 14 filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release on anticipatory bail in the event of his arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Officials of the Bribery Commission had previously informed the court that the former Minister is expected to be taken into custody after being named as a suspect in a corruption case.
+
+...
+
+[Data](articles/577ed616.json)
+
+---
 
 ### கடல் வழிப் போக்குவரத்தில் ஈடுபட வேண்டாம்
 
@@ -56,7 +126,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු සහ අල්ලස් කොමිසමේ නිලධාරීන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
 
-◼️
+මෙම පෙත්සම පිළිබඳව කරුණු සලකා බැලීම අවසන් කිරීමෙන් අනතුරුව එහි නියෝගය අද පස්වරු 2.00 ට ප්‍රකාශයට පත්කරන බව ප්‍රධාන මහේස්ත්‍රාත්වරිය විසින් අද දහවල් නිවේදනය කර තිබිණි.
+
+ඉන් අනතුරුව අදාල නඩුකරය පස්වරු 2.00 පමණ විවෘත අධිකරණයේ කැඳවූ අවස්ථාවේදී මහේස්ත්‍රත්වරිය ප්‍රකාශ කළේ මෙම නියෝගය පසුව ප්‍රකාශයට පත් කරන බවය.
+
+ඉන් අනතුරුව මෙම නඩුකරය සවස 3.20ට පමණ මහේස්ත්‍රාත්වරියගේ නිලමැදිරියේ කැඳවනු ලැබුවාය.
+
+එහිදී සිය තීන්දුව ප්‍රකාශයට පත් කළ ප්‍රධාන මහේස්ත්‍රත්වරිය සඳහන් කළේ අදාළ අපේක්ෂිත ඇප ඉල්ලීම ප්‍රතික්ෂේප කරන බවය.
+
+...
 
 [Data](articles/ce8c85f7.json)
 
@@ -64,17 +142,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு
 
-*2025-07-18 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/220317) · `ta`
+*2025-07-18 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220317) · `ta`
+
+கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு செய்யப்பட்டுள்ளது.
 
 இதனை தொடர்ந்து, ஹோட்டலின் பிரதான சமையலறையின் ஒரு பகுதியை கொழும்பு மாநகர சபையின் (CMC) பொது சுகாதார திணைக்களம் தற்காலிகமாக மூடுமாறு உத்தரவிட்டுள்ளது.
 
-இதனை தொடர்ந்து , ஹோட்டலில் வழங்கப்படும் உணவின் தரம் நிலை தொடர்பில் வாடிக்கையாளர்கள் இணையத்தில் பல முறைப்பாடுகளை பகிர்ந்துள்ளனர்.
+இதனை தொடர்ந்து, ஹோட்டலில் வழங்கப்படும் உணவின் தரம் நிலை தொடர்பில் வாடிக்கையாளர்கள் சமூக ஊடகங்களில் பல முறைப்பாடுகளை பகிர்ந்துள்ளனர்.
 
 இதனை அடுத்து,  பொது சுகாதார திணைக்களம் விசாரணைகளை ஆரம்பித்து முன்னெச்சரிக்கை நடவடிக்கையாக ஹோட்டல் சமையலறையின் ஒரு பகுதியை தற்காலிகமாக மூடுமாறு ஹோட்டல் நிர்வாகத்திற்கு அறிவுறுத்தியுள்ளது.
 
 ◼️
 
 [Data](articles/f2d06441.json)
+
+---
+
+### Sri Lanka’s Central Bank imposes new caps on vehicle loan ratios
+
+*2025-07-18 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110602/sri-lankas-central-bank-imposes-new-caps-on-vehicle-loan-ratios-) · `en`
+
+In a decisive move to strengthen macroprudential policy and mitigate systemic financial risks, the Central Bank of Sri Lanka (CBSL), acting as the Macroprudential Authority, has issued new Directions to licensed financial institutions to impose maximum caps on loan-to-value (LTV) ratios for vehicle-related credit facilities.
+
+The directive, which takes effect from 18 July 2025, applies to all Licensed Commercial Banks, Licensed Specialised Banks, Licensed Finance Companies (LFCs), and Registered Finance Leasing Establishments (RFLEs).
+
+Thereby, the opportunity provided based on the 2018 guidelines to obtain financing facilities of up to 90% of the value of the vehicle under the electric category has been reduced to 80% for commercial vehicles, 60% for motor cars, SUVs and vans, 50% for three-wheelers and 70% for other vehicles.
+
+...
+
+[Data](articles/107abc20.json)
 
 ---
 
@@ -92,15 +188,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### හැටන් නගරයේ වෙළදසැලක ගින්නක්
+### මහ දවාලේ පාවහන් වෙළෙඳසැලක් ගිනි ගනී - වාහන ධාවනයටත් බාධා
 
 *2025-07-18 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212383) · `si`
 
-හැටන් නගරයේ පැති වීදියේ පාවහන් වෙළදසැලක අද (18) පස්වරු 1:00ට පමණ ගින්නක් හට ගෙන තිබේ.
+හැටන් නගරයේ පැති වීදියේ පාවහන් වෙළෙඳසැලක අද (18) පස්වරු 1ට පමණ ගින්නක් හට ගෙන තිබේ.
 
-මෙම ගින්න හට ගන්නා අවස්ථාව වන විට අදාළ වෙළඳසැල වසා තිබී ඇති අතර ඒ හේතුවෙන් ගින්න ශීඝ්‍රයෙන් පැතිර ගොස් ඇති බව වාර්තා වෙයි.
+මෙම ගින්න හට ගන්නා අවස්ථාව වන විට අදාළ වෙළෙඳසැල වසා තිබී ඇති අතර ඒ හේතුවෙන් ගින්න ශීඝ්‍රයෙන් පැතිර ගොස් ඇති බව වාර්තා වෙයි.
 
-ගින්න පාලනය කිරිම සඳහා හැටන් දික්ඔය නගර සභාවේ ගිනි නිවන ඒකකයේ නිළධාරින් පියවර ගෙන තිබේ.
+ගින්න පාලනය කිරිම සඳහා හැටන් දික්ඔය නගර සභාවේ ගිනිනිවන ඒකකයේ නිලධාරින් පියවර ගෙන තිබේ.
 
 මෙම ගින්නෙන් කිසිවෙකුටත් තුවාල සිදු වී නොමැති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව හැටන් පොලීසිය පැවසුවේය.
 
@@ -1729,79 +1825,5 @@ In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicte
 ...
 
 [Data](articles/c6f3f5df.json)
-
----
-
-### Nation that lets its elephants die has lost its soul
-
-*2025-07-18 01:41:10* · [`dailyftlk`](https://www.ft.lk/columns/Nation-that-lets-its-elephants-die-has-lost-its-soul/4-779124) · `en`
-
-I write this with deep sadness and outrage. As of 15 June, 236 elephants have been killed this year alone, that’s more than one elephant every single day. And many of these deaths are not natural. They are brutal, painful, and preventable.
-
-This is not just a tragedy. This is a crime against our nation. We are losing one of our greatest treasures, our elephants, due to short-sighted decisions, political greed, and sheer negligence.
-
-Majority are Buddhist in this country. We speak of compassion. Our monks preach loving kindness. But what have we learned if we silently watch these magnificent beings suffer and die in agony? Isn’t this a direct insult to the Buddha’s teachings?
-
-...
-
-[Data](articles/994e947e.json)
-
----
-
-### Ajit Jayaratne: Colossus among giants
-
-*2025-07-18 01:38:32* · [`dailyftlk`](https://www.ft.lk/opinion/Ajit-Jayaratne-Colossus-among-giants/14-779123) · `en`
-
-It is with profound sorrow that I pen these words in tribute to the late Ajit Jayaratne, a former Chairman of the Colombo Stock Exchange (CSE) during two tenures. Ajit, to his peers in the corporate sector and Mr. Jayaratne to all of us at the CSE, he served as Chairman of the CSE for five years from 1990-1993 and 1994-1996.
-
-Our paths crossed in November 1984 when I joined the Colombo Brokers’ Association Stock Market Trading Floor, a predecessor organisation of the CSE, as an Assistant to the Late Percy de Soysa the Consultant to the Board, to manage the Stock Market Trading floor which was open to the public. The birth of the Public Trading floor itself experienced ‘prolonged labour’ as every ‘who’s who’ in the corporate sector clamoured for a stake in the newly formed stock market considered a prestige in the business world. ‘Ugly’ is too mild a term to describe the ensuing battles.
-
-...
-
-[Data](articles/408085de.json)
-
----
-
-### Revolution outside:  Sri Lanka’s policy slumber
-
-*2025-07-18 01:33:43* · [`dailyftlk`](https://www.ft.lk/columns/Revolution-outside-Sri-Lanka-s-policy-slumber/4-779120) · `en`
-
-Sri Lanka’s narrow, under-developed export base is the key constraint on both debt sustainability and long-term growth
-
-Temu and Trump tariffs reveal the same underlying issue: decades of strategic neglect of trade, investment and industrial policy by successive Sri Lankan Governments. The US recently imposed a 30% tariff on Sri Lankan exports, down from the 44% announced in March but still a significant threat to our export sector.
-
-...
-
-[Data](articles/27294083.json)
-
----
-
-### Bye Bye Beijing: Your lessons are with me
-
-*2025-07-18 01:10:00* · [`dailyftlk`](https://www.ft.lk/columns/Bye-Bye-Beijing-Your-lessons-are-with-me/4-779119) · `en`
-
-I was born in 1961, which happened to be in Sri Lanka. Suppose my birth happened in China in that year. In that case, it is quite unlikely that my trajectory would have been to be a vegetarian. In 1961, China was suffering from one of the worst famines a country has ever suffered – three years of great famine. In such an environment, you do not have the luxury of exercising choices. As I leave after a three-month stay, I have experienced a China that to me is seen as plentiful, productive, powerful, and purposeful.
-
-...
-
-[Data](articles/e24f23ae.json)
-
----
-
-### Pathfinder Foundation conducts diplomatic dialogue on energy independence and security
-
-*2025-07-18 01:05:33* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-conducts-diplomatic-dialogue-on-energy-independence-and-security/14-779118) · `en`
-
-Pathfinder Foundation Chairman Bernard Goonetilleke (centre) chairs the session, featuring a presentation by Sri Lanka Sustainable Energy Authority Director-General Harsha Wickramasinghe. Panellists include Ministry of Finance former Secretary Dr. R.H.S. Samarathunga, and Ceylon Petroleum Corporation former Chairman Saliya Wickramasuriya
-
-Representatives of diplomats and international organisations, government and non-governmental institutions, research bodies, and universities
-
-The Pathfinder Foundation hosted the sixth session of its “Dialogue with Diplomats” series, at the Courtyard by Marriott, Colombo. The session centred on the theme “Energy Independence and Security for Sri Lanka”.
-
-It brought together a distinguished gathering of diplomats, representatives from international organisations, key Sri Lankan government and non-governmental institutions, research bodies, and universities.
-
-...
-
-[Data](articles/f0198205.json)
 
 ---

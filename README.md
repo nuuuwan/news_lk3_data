@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 16:33:35**
+As of **2025-07-18 16:48:16**
 
 ## Newspaper Stats
 
-*Scraped **65,411** Articles*
+*Scraped **65,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,278
 adaderanalk | 7,982
-tamilmirrorlk | 9,377
-virakesarilk | 10,884
+tamilmirrorlk | 9,378
+virakesarilk | 10,885
 adaderanasinhalalk | 11,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,411 articles have been extended.
+61,973 (94.7%) of 65,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### வாகன கடன்களுக்கான விதிமுறைகளில் அதிரடி  மாற்றம்
+
+*2025-07-18 16:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-கடன்களுக்கான-விதிமுறைகளில்-அதிரடி-மாற்றம்/175-361329) · `ta`
+
+நாட்டில் உரிமம் பெற்ற வணிக வங்கிகள், உரிமம் பெற்ற நிதி நிறுவனங்கள் மற்றும் பதிவுசெய்யப்பட்ட நிதி குத்தகை நிறுவனங்களால் மோட்டார் வாகனங்களுக்கான நிதி வசதிகளை வழங்கும் போது பின்பற்ற வேண்டிய நடைமுறைகளைப் புதுப்பித்து, இலங்கை மத்திய வங்கி நேற்று (17) புதிய வழிகாட்டுதல்களை வெளியிட்டது.
+
+2018 ஆம் ஆண்டு பெப்ரவரி மாதம் 08 ஆம் திகதி அன்று வெளியிடப்பட்ட வழிகாட்டுதல்களைப் புதுப்பித்து 2025 ஜூலை மாதம் 17ஆம் திகதி புதிய வழிகாட்டுதல்கள் மத்திய வங்கியால் வெளியிடப்பட்டுள்ளன.
+
+அதன்படி, 2018 வழிகாட்டுதல்களில் குறிப்பிடப்பட்டுள்ளபடி, மின்சாரம், ஹைபிரிட் மற்றும் பிற போன்ற ஆற்றல் மூலத்தின் படி செய்யப்பட்ட வகைப்பாடுகள், இந்த புதிய 2025 வழிகாட்டுதல்களில் நீக்கப்பட்டுள்ளன.
+
+அதன்படி, 2018 வழிகாட்டுதல்களின்படி, மின்சார பிரிவின் கீழ் வாகனத்தின் மதிப்பில் 90% வரை நிதி வசதிகளைப் பெறுவதற்கான வாய்ப்பு, வணிக வாகனங்களுக்கு 80% ஆகவும், மோட்டார் கார்கள், SUVகள் மற்றும் வேன்களுக்கு 60% ஆகவும், முச்சக்கர வண்டிகளுக்கு 50% ஆகவும், பிற வாகனங்களுக்கு 70% ஆகவும் குறைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/9e8c78e7.json)
+
+---
+
+### டிரெண்டிங் - திரைப்பட விமர்சனம்
+
+*2025-07-18 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/220326) · `ta`
+
+நடிகர்கள் : கலையரசன் பிரியாலயா பிரேம்குமார், பெசன்ட் நகர் ரவி, வித்யா, கௌரி ,பாலாஜி தியாகராஜன், தயாளன் மற்றும் பலர்.
+
+தமிழ் திரையுலகில் சிறந்த உள்ளடக்கங்கள் கொண்ட திரைப்படங்களுக்கான வரவேற்பு என்பது தொடர்ந்து அதிகரித்து வருகிறது. அந்த வகையில் இன்றைய இணைய தலைமுறையினரின் வாழ்வியலை பிரதிபலிக்கும் வகையில் உருவாகி இருக்கிறது 'ட்ரெண்டிங்'. இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+பொதுவாக சமூக வலைதளங்கள் என்பது எம்முடைய பொழுதுபோக்கு அம்சம் கொண்ட இலத்திரனியல் சாதனம் என அறிவோம். ஆனால் ஓன் லைன் வர்த்தகம் சர்வதேச அளவில் விரிவடைந்த பிறகு ஓன் லைன் மூலமாக வாழ்வாதாரத்தை உருவாக்கிக் கொள்வதும் சாத்தியமாகி இருக்கிறது. அதிலும் இன்ஸ்டாகிராம் வாஸ்ஸப் உள்ளிட்ட சமூக வலைதளங்களில் காணொளிகளை பதிவிட்டு, அதனூடாக வருவாயை ஈட்டும் போக்கு அதிகரித்து வருகிறது. இதன் சாதக பாதக அம்சங்களை மையப்படுத்தி இப்படத்தின் கதை மற்றும் திரைக்கதை உருவாக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c51cfb6f.json)
+
+---
 
 ### පාකිස්තානයේ ජලගැලීම්වලින් පැය 24ට 63ක් මරුට
 
@@ -1797,37 +1831,5 @@ As the host of the morning show ‘Pathikada,’ broadcast on News 1st, Sirasa T
 ...
 
 [Data](articles/794fbbd6.json)
-
----
-
-### Official world record reveal of Rusin Thathsara
-
-*2025-07-18 02:23:56* · [`dailyftlk`](https://www.ft.lk/news/Official-world-record-reveal-of-Rusin-Thathsara/56-779145) · `en`
-
-Rusin Thathsara, a final-year undergraduate in the Department of Building Economics at the University of Moratuwa, pursuing a BSc (Hons.) in Facilities Management, has officially set a world record for being the “Youngest to Write the Maximum Number of Languages in a Single Chapter.” The record was unveiled at South Asia’s tallest structure, the Colombo Lotus Tower, in collaboration with the Russian House in Colombo. This world record was achieved for a chapter in a book he wrote dedicated to Sivali Central College Former Principal and current Additional Secretary of the Ministry of Education, Sri Lanka Kamal Ariyasinghe.
-
-...
-
-[Data](articles/f7fd6f82.json)
-
----
-
-### TikTok, Sri Lanka discuss digital education, economic collaboration
-
-*2025-07-18 02:23:01* · [`dailyftlk`](https://www.ft.lk/news/TikTok-Sri-Lanka-discuss-digital-education-economic-collaboration/56-779144) · `en`
-
-A group of representatives of the TikTok platform in Sri Lanka on Wednesday (16) held discussions with top officials of the Prime Minister’s Office, focusing on how the social media platform can be used to implement in creating opportunities in economic platforms and digital education, going beyond entertainment.
-
-The discussion also focused on common issues in the possible areas of using digital platforms.
-
-The representatives pointed out the importance of the inclusion of legislation, research, and amendments into the curriculum on the knowledge of digital education and addressing digital hygiene and economic opportunities.
-
-The Secretary to the Prime Minister further emphasised the need for immediate implementation of such collaborative efforts with ongoing reforms in the education sector.
-
-The discussion was attended by TikTok Head of Government Relations and Public Affairs for South Asia Ferdous Al Mottakin and the Additional Secretary to the Prime Minister, along with other officials.
-
-◼️
-
-[Data](articles/f4b19cac.json)
 
 ---

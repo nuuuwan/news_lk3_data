@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 10:28:42**
+As of **2025-07-18 10:52:24**
 
 ## Newspaper Stats
 
-*Scraped **65,344** Articles*
+*Scraped **65,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,52 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 665
 bbccomsinhala | 677
 islandlk | 3,993
-economynextcom | 3,997
+economynextcom | 4,000
 dailyftlk | 4,637
 dailymirrorlk | 4,733
-adalk | 6,271
+adalk | 6,272
 adaderanalk | 7,973
 tamilmirrorlk | 9,360
-virakesarilk | 10,873
-adaderanasinhalalk | 11,219
+virakesarilk | 10,874
+adaderanasinhalalk | 11,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.8%) of 65,344 articles have been extended.
+61,973 (94.8%) of 65,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### ධීවරයින්ට රතු නිවේදනයක්
+
+*2025-07-18 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212372) · `si`
+
+ඉදිරි පැය 24 සඳහා පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා මුහුදු ප්‍රදේශවල යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/6f022a0e.json)
+
+---
+
+### பைரஹாவின் பங்குபற்றலுடன் இடம்பெற்ற Culinary Art & Food Expo 2025 கண்காட்சி நிகழ்வு
+
+*2025-07-18 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220279) · `ta`
+
+Chef's Guild of Sri Lanka மற்றும் World Association of Chefs Societies ஆகியவற்றால் ஏற்பாடு செய்யப்பட்ட Culinary Art & Food Expo 2025 கண்காட்சி நிகழ்வு, கொழும்பு அண்மையில் இடம்பெற்றது.
+
+கடந்த இரண்டு தசாப்தங்களுக்கும் மேலாக இடம்பெற்று வருகின்ற பிரசித்தி பெற்ற இந்த நிகழ்வு, பல்லாயிரக்கணக்கான சமையல் கலை வல்லுனர்களுக்கு தமது திறமைகளைக் காண்பித்து, அவர்களுக்கு முறையாகக் கிடைக்கவேண்டிய அங்கீகாரத்தைச் சம்பாதிப்பதற்கான மேடையை அமைத்துத் தருகின்றது.
+
+WACS (World Association of Chefs’ Societies  ன் அங்கீகாரத்துடனும், வழிகாட்டலுடனும் சமையல் கலை உலகின் அனைத்து அம்சங்களையும் போற்றிக் கொண்டாடி, ஈடுபாடுகளை வளர்ப்பதற்கு இளம் சமையல் கலை வல்லுனர்களுக்கு தனித்துவமான வாய்ப்பினை 2025 கண்காட்சி நிகழ்வு வழங்கியுள்ளதுடன், சர்வதேச தராதரங்கள், மிகச் சிறந்த நடைமுறைகள், மற்றும் புத்தாக்கமான போக்குகள் ஆகியவற்றில் அனுபவத்தைப் பெற்றுக்கொள்ளவும் வழிவகுத்துள்ளது.
+
+...
+
+[Data](articles/6d7ef6a7.json)
+
+---
 
 ### தையிட்டி திஸ்ஸ விகாரை பிரச்சனைக்கு விரைவில் தீர்வு – அமைச்சர் சந்திரசேகர்
 
@@ -71,6 +99,34 @@ Wildlife officers confirmed that the elephant was nearly 15 years old and stood 
 ◼️
 
 [Data](articles/ef86ee8f.json)
+
+---
+
+### Sri Lanka rupee strengthens against dollar, bonds flat
+
+*2025-07-18 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-strengthens-against-dollar-bonds-flat-231390/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.45/55 to the US dollar in the spot market on Friday, up from 301.58/70 to the dollar, a day earlier, while bond yields were flat, dealers said.
+
+The 2029 tenor edged down slightly, dealers said, while the others opened broadly steady from the previous close.
+
+A bond maturing 15.12.2026 was quoted unchanged at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 was quoted unchanged at 8.45/50 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.97/9.02 percent, from 8.95/9.00 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.46/48 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, from 10.40/45 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.70/75 percent.
+
+Meanwhile stocks opened in green: The ASPI was up 0.36%, or 67.84 points, at 18,944. The S&P SL20 was up 0.28%, or 15.56 points, at 5,644. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/e3deb0ad.json)
 
 ---
 
@@ -149,6 +205,30 @@ He also shared insights into a separate tourism initiative involving a hotel pro
 ◼️
 
 [Data](articles/05d453d8.json)
+
+---
+
+### Sri Lanka revises loan to value ratios for vehicles, EV limit reduced
+
+*2025-07-18 08:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-revises-loan-to-value-ratios-for-vehicles-ev-limit-reduced-231380/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued a direction to banks and finance companies, revising loan to value ratios for vehicles, reducing electric vehicle credit limits to match others cars effective from July 18.
+
+The directions are issued to “enhance macroprudential policy making, mitigating systemic risks and harmonizing existing caps on LTV ratios to a large extent and reinforcing prudential credit standards,” the central bank said in the direction.
+
+A 90 percent loan to value for electric vehicles has been removed.
+
+The LTV value for cars, SUVS and Vans increased to 60 percent from 50 percent.
+
+The value for commercial vehicles reduced to 80 percent from 90 percent.
+
+For cars which have been registered and in use within Sri Lanka for more than a year 70 percent.
+
+A 90 percent loan ceiling for electric vehicles has been removed. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/d1d7781e.json)
 
 ---
 
@@ -259,6 +339,28 @@ The Prime Minister made these remarks yesterday (17) at a special program held a
 ◼️
 
 [Data](articles/d00f12a9.json)
+
+---
+
+### US breaching OCC agreements with Sri Lanka: ex-President
+
+*2025-07-18 06:32:00* · [`economynextcom`](https://economynext.com/us-breaching-occ-agreements-with-sri-lanka-ex-president-231337/) · `en`
+
+ECONOMYNEXT – The United States is breaching the Official Creditor Committee agreements by making it difficult to repay creditors by imposing sudden tariffs on the country, ex-President Ranil Wickremesinghe has argued.
+
+“The US is a member of the OCC,” he told a forum organized by Advocata Institute to introduce Policy Challenges of Globalisation in Sri Lanka, a book written by Sarath Rajapatirana, former World Bank official who been a Presidential advisor.
+
+“And U.S. has signed on to the GFN (gross financing need) at their time limits (in a debt sustainability assessment done with the IMF), which means they must help us now.”
+
+“They are in breach of the agreement. They are preventing all that, from us repaying repay the bondholders.
+
+“We have to tell the IMF tell the bondholders to go to the U.S. and collect the money.”
+
+Without only promising to “buy Coca-Cola” or gas, Sri Lanka should push home the point that the US signed on to the OCC, he said.
+
+...
+
+[Data](articles/7f677566.json)
 
 ---
 
@@ -1560,6 +1662,22 @@ A bond maturing on 15.09.2034 closed at 10.85/95 from 10.84/95 percent.  (Colomb
 
 ---
 
+### රෝහල් පරිත්‍යාග වලට තීරු බදු සහන ලබා නොදේ
+
+*2025-07-17 17:09:19* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්-පරිත්‍යාග-වලට-තීරු-බදු-සහන-ලබා-නොදේ/11-417362) · `si`
+
+විදේශගත පරිත්‍යාගශීලීන් විසින් මෙරට රජයේ රෝහල් සඳහා පරිත්‍යාග වශයෙන් මෙරටට එවන ගිලන් රථ, වෛද්‍ය උපකරන කට්ටල, රෝහල් ඇඳන් ආදිය සඳහා වසර දහයක් පමන ලබාදී තිබු තීරු බදු සහන මුදල්   ලබාදීම අමාත්‍යංශය විසින් පසුගිය ජූනි මාසයේ සිට අත්හිටුවා ඇති බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යංශයේ ලේකම් වෛද්‍ය අනිල් ජාසිංහ මහතාගෙන් ඊ⁣යේ ( 17 ) කරන ලද විමසිමකදී ඒ මහතා පැවසීය.
+
+එම නිසා එම තීරු බදු  සඳහා මුදල් ගෙවීමට සිදුවී ඇත්තේ සෞඛ්‍ය අමාත්‍යංශයට බවත් ජාසිංහ මහතා පැවසීය. මේ හේතුව නිසා වසරකට මිලියන ගණනින් මුදල් ශ්‍රී  ලංකා රේගුවට ගෙවීමට සෞඛ්‍ය අමාත්‍යංශයට සිදුවී  ඇතැයිද ඒ මහතා වැඩිදුරටත් කීය.
+
+එම නිසා විදේශවල සිටින ශ්‍රී ලංකා හා  වෙනත් රටවල පරිත්‍යාගශීලීන්ගෙන් ලැබෙන පරිත්‍යාග සඳහා වෙනත් ක්‍රමවත්  වැඩපිළිවෙලක්  අගෝස්තු මස දෙවන සතියේ සිට ක්‍රියාත්මක    කිරිමට  අදහස් කරන බවත්  , සෞඛ්‍යච අමාත්‍යාංශය  මහා භාණ්ඩාගාරය සහ ශ්‍රී ලංකා රේගුව සම්බන්ධ වන ආකාරයට ඒ සඳහා කමිටුවක් පත් කිරීමට තීරණය කර ඇති බවත් අනිල් ජයසිංහ මහතා සඳහන් කළේය .
+
+...
+
+[Data](articles/dd5227aa.json)
+
+---
+
 ### 323 கொள்கலன்கள் விடுவிப்பு முறையற்றது ; பிமல் ரத்நாயக்க, சீவலி அருட்கொட கைது செய்யப்பட வேண்டும் - தயாசிறி ஜயசேகர
 
 *2025-07-17 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/220241) · `ta`
@@ -1693,115 +1811,5 @@ John Keells Holdings ended 0.30 rupees lower at 25.30; Commercial Bank, fell 2.0
 ◼️
 
 [Data](articles/6110776a.json)
-
----
-
-### කුරුලු උයනේ හිමිකරු රිමාන්ඩ්
-
-*2025-07-17 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212356) · `si`
-
-නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි සඟවා තිබූ හම්බන්තොට, නාගරවැව කුරුලු උයනේ හිමිකරුව එළඹෙන 25 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
-
-සැකකරුව අද (17) උදෑසන නාරාහේන්පිට ප්‍රදේශයේදී විශේෂ පොලිස් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබූ අතර හම්බන්තොට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙලෙස රක්ෂිත බන්ධනාගාරගත කර ඇත.
-
-නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද යතුරුපැදි 21ක් පසුගියදා මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය විසින් සොයාගනු ලැබීය.
-
-පොලීසිය පැවසුවේ මෙම එක් යතුරුපැදියක වටිනාකම රුපියල් කෝටි එකහමාරකට වඩා වැඩි බවය.
-
-මේ අතර, මෙහිදී කුරුලු උයන පරිශ්‍රයේ නීතිවිරෝධී ලෙස වගා කර තිබූ ගංජා පැළ 04ක් සමග මෙම සත්ත්ව ගොවිපොළේ කළමනාකරු හා ගබඩා පාලකයා ද පොලිස් අත්අඩංගුවට පත්විය.
-
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, අවුරුදු 40 හා 50 වයස්වල පසුවන මාතර හා මිද්දෙණිය ප්‍රදේශවල පදිංචිකරුවන්ය.
-
-◼️
-
-[Data](articles/ed82b5c9.json)
-
----
-
-### ශාරුක් ඛාන් කොළඹ නොඑන බව කියලා
-
-*2025-07-17 16:18:52* · [`adalk`](https://www.ada.lk/breaking_news/ශාරුක්-ඛාන්-කොළඹ-නොඑන-බව-කියලා/11-417359) · `si`
-
-නොවැළැක්විය හැකි හේතුවක් මත ශාරුක් ඛාන් City of Dreams Sri Lanka හි සමාරම්භක අවස්ථාවට විශේෂ ආරාධිත අමුත්තා වශයෙන් සහභාගී නොවන බව නිවේදනය කරයි.
-
-තව නොබෝ දිනකින් කොළඹදී අති උත්කර්ෂවත් ලෙස විවෘත කිරීමට නියමිත දකුණු ආසියාවේ පළමු ඒකාබද්ධ සංචාරක හෝටල් සංකීර්ණය වන City of Dreams Sri Lanka හි විවෘත කිරීමට ඔහු පැමිණීමට නියමිතව තිබුණි.
-
-මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ City of Dreams Sri Lanka හි ප්‍රකාශකයකු සඳහන් කර සිටියේ නොවැළැක්විය හැකි හේතුවක් මත සුපිරි නළු ශාරුක් ඛාන්ගේ සහභාගී නොවූවද දේශීය හා ජාත්‍යන්තර විශිෂ්ටත්වයන් ප්‍රදර්ශනය කරමින් නියමිත පරිදි මෙම සුවිශේෂී විවෘත කිරීමේ උත්සවය පැවැත්වීමට කටයුතු යොදා ඇති බවයි.
-
-එම අවස්ථාවට සහභාගී වීමට නොලැබීම පිළිබඳව සිය කණගාටුව පළ කරන ශාරුක් ඛාන් City of Dreams Sri Lanka හි කළමනාකාරීත්වයට මෙන්ම තමන් වෙනුවෙන් බලා සිටි සියලු දෙනාට සිය හෘදයාංගම ස්තුතිය පුද කර සිටියි.
-
-එමෙන්ම නුදුරු දිනයකදී City of Dreams Sri Lanka වෙත සපැමිණීමටද ශාරුක් ඛාන් බලාපොරොත්තු වෙයි.
-
-◼️
-
-[Data](articles/9a499090.json)
-
----
-
-### செம்மணிக்கு  எதிராக கொழும்பில் ஆர்ப்பாட்டம்
-
-*2025-07-17 16:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-ஆர்ப்பாட்டம்-முன்னெடுப்பட்டுள்ளது/175-361267) · `ta`
-
-செம்மணி படுகொலைக்கு எதிர்ப்பு தெரிவித்து வியாழக்கிழமை (17) இன்று பிற்பகல் 3 மணிக்கு கொழும்பு கோட்டை  ரயில் நிலைய முன்றலில் செம்மணி புதைகுழி விவகாரத்தை தென்னிலங்கையின் கவனத்திற்கு கொண்டு வரும் நோக்கில் சிவில் சமூகம், கவன ஈர்ப்பு ஆர்ப்பாட்டம் ஓன்றை முன்னெடுத்துள்ளது.
-
-முன்னெடுப்பட்டுள்ள ஆர்ப்பாட்டத்தில் தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசனும் கட்சியின் உறுப்பினர்களும் கலந்துக்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/37629d25.json)
-
----
-
-### செம்மணிக்கு  எதிராக கொழும்பில் ஆர்ப்பாட்டம்
-
-*2025-07-17 16:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்கு-எதிராக-கொழும்பில்-ஆர்ப்பாட்டம்/175-361267) · `ta`
-
-செம்மணி படுகொலைக்கு எதிர்ப்பு தெரிவித்து வியாழக்கிழமை (17) இன்று பிற்பகல் 3 மணிக்கு கொழும்பு கோட்டை  ரயில் நிலைய முன்றலில் செம்மணி புதைகுழி விவகாரத்தை தென்னிலங்கையின் கவனத்திற்கு கொண்டு வரும் நோக்கில் சிவில் சமூகம், கவன ஈர்ப்பு ஆர்ப்பாட்டம் ஓன்றை முன்னெடுத்துள்ளது.
-
-முன்னெடுப்பட்டுள்ள ஆர்ப்பாட்டத்தில் தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசனும் கட்சியின் உறுப்பினர்களும் கலந்துக்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/f9501d27.json)
-
----
-
-### SC annuls injunction over compulsory retirement age of nurses
-
-*2025-07-17 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110579/sc-annuls-injunction-over-compulsory-retirement-age-of-nurses) · `en`
-
-The Supreme Court today invalidated the interim injunction previously issued by the Court of Appeal preventing the enforcement of the former government’s decision to compulsorily retire nurses in four grades at the age of 60.
-
-Meanwhile, the Supreme Court also issued another order to the Court of Appeal to re-examine the petition filed before the court regarding this matter.
-
-The Supreme Court issued this order when an appeal filed by the Attorney General, seeking to declare the relevant interim injunction issued by the Appellate Court as unlawful and invalid, was taken up for hearing today.
-
-A three-judge bench of the Supreme Court comprising Justices Yasantha Kodagoda, Janak de Silva and A. H.M.D. Nawaz issued the order.
-
-During the previous government, the Cabinet of Ministers had taken a decision to make government employees compulsorily retire at the age of 60 years.
-
-...
-
-[Data](articles/26952482.json)
-
----
-
-### Hambantota Bird Park owner remanded
-
-*2025-07-17 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110578/hambantota-bird-park-owner-remanded-) · `en`
-
-The owner of a Bird Park in Nagarawawa, Hambantota, who was arrested earlier today (17) by a special police team for allegedly concealing illegally imported motorcycles in a warehouse, has been remanded.
-
-He has been remanded until July 25 by the Hambantota Magistrate’s Court.
-
-The owner of a Bird Park was arrested earlier today by a special police team in Narahenpita, according to police.
-
-On July 12, police officers attached to the CCIB took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
-
-The raid was carried out by a team of officers, including the Director of the CCIB, Superintendent of Police (SP) Kamal Ariyawansa, based on special information received by the Acting IGP.
-
-...
-
-[Data](articles/469adda1.json)
 
 ---

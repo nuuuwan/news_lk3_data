@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-18 21:05:58**
+As of **2025-07-18 21:19:38**
 
 ## Newspaper Stats
 
-*Scraped **65,448** Articles*
+*Scraped **65,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,009
 dailyftlk | 4,637
 dailymirrorlk | 4,733
 adalk | 6,282
-adaderanalk | 7,985
+adaderanalk | 7,986
 tamilmirrorlk | 9,379
 virakesarilk | 10,898
 adaderanasinhalalk | 11,242
@@ -26,11 +26,35 @@ adaderanasinhalalk | 11,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.7%) of 65,448 articles have been extended.
+61,973 (94.7%) of 65,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-18 (Friday)
+
+### Motorcycle used in Dehiwala shooting found abandoned
+
+*2025-07-18 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110608/motorcycle-used-in-dehiwala-shooting-found-abandoned) · `en`
+
+The motorcycle suspected to have been used in the Dehiwala shooting incident this morning (18) has been found abandoned on the roadside in front of a temple on the Piliyandala alternative road.
+
+According to the Dehiwala Police, the motorcycle was discovered along with a red-colored safety helmet.
+
+Police stated that a Special Task Force (STF) intelligence officer had noticed the motorcycle at the location at around 1:30 p.m. and promptly alerted a senior police officer.
+
+Further investigations revealed that the number plate affixed to the motorcycle was already registered to a car.
+
+Officers from the Colombo Fingerprint Department also visited the scene and conducted forensic investigations, said Ada Derana reporter.
+
+The shooting occurred near the Dehiwala Railway Station earlier today.
+
+One individual sustained a gunshot injury to his leg and was admitted to the Colombo South Teaching Hospital in Kalubowila, said Ada Derana reporter.
+
+...
+
+[Data](articles/886bd363.json)
+
+---
 
 ### වනජීවියේ නොසැලකිල්ලෙන් දුම්රියට බිලිවූ සද්ධන්තයා
 
@@ -1805,25 +1829,5 @@ WACS (World Association of Chefs’ Societies  ன் அங்கீகார�
 ...
 
 [Data](articles/6d7ef6a7.json)
-
----
-
-### தையிட்டி திஸ்ஸ விகாரை பிரச்சனைக்கு விரைவில் தீர்வு – அமைச்சர் சந்திரசேகர்
-
-*2025-07-18 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/220276) · `ta`
-
-யாழ்ப்பாணம் தையிட்டி பகுதியில் அமைந்துள்ள திஸ்ஸ விகாரைக்கு வியாழக்கிழமை (17) மாலை வலிகாமம் வடக்கு பிரதேச சபையின் தவிசாளர் சோமசுந்தரம் சுகிர்தன் மற்றும் சபை உறுப்பினர்கள் நேரில் விஜயம் மேற்கொண்டனர்.
-
-இதன்போது  குறித்த பகுதியில் கட்டடம் ஒன்றை அமைப்பதற்காக கிடங்கு வெட்டப்பட்டிருந்த நிலை காணப்பட்டதாக வலிகாமம் வடக்கு பிரதேச சபையின் தவிசாளர் சோமசுந்தரம் சுகிர்தன் தெரிவித்துள்ளார்.
-
-அதே வேளையில், கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர், யாழ்ப்பாண மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் உள்ளிட்ட பலரும் தையிட்டி திஸ்ஸ விகாரை பிரதேசத்துக்கு விஜயம் செய்தனர்.
-
-இதன்போது அமைச்சர் கருத்து தெரிவிக்கையில், “தையிட்டி திஸ்ஸ விகாரை பிரச்சனைக்கு விரைவில் முற்றுப்புள்ளி வைக்கப்படும்,” என உறுதியளித்தார்.
-
-தனித்தனி விஜயமாக வந்திருந்த இரு குழுவினரும் அதேவேளை விகாரை வளாகத்தில் சந்தித்து, பல முக்கிய விடயங்கள் தொடர்பாக கலந்துரையாடியமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/6525c1f9.json)
 
 ---

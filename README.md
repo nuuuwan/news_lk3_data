@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 21:05:55**
+As of **2025-07-19 21:18:04**
 
 ## Newspaper Stats
 
-*Scraped **65,561** Articles*
+*Scraped **65,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 4,015
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,290
-adaderanalk | 8,004
-tamilmirrorlk | 9,391
+adaderanalk | 8,005
+tamilmirrorlk | 9,393
 virakesarilk | 10,918
 adaderanasinhalalk | 11,268
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,561 articles have been extended.
+61,973 (94.5%) of 65,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### ஐக்கிய மக்கள் சக்தி எம்.பியின் மகன் அதிரடி கைது
+
+*2025-07-19 21:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-எம்-பியின்-மகன்-அதிரடி-கைது/175-361372) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேவின் மகன் கைது செய்யப்பட்டுள்ளார்.
+
+மத்துகம பகுதியில் வைத்து  பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவினரால் அவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/865a8986.json)
+
+---
+
+### அமைச்சர் விஜித ஹேரத் - பிரபல நடிகர் ரவி மோகன் சந்திப்பு
+
+*2025-07-19 20:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அமைச்சர்-விஜித-ஹேரத்-பிரபல-நடிகர்-ரவி-மோகன்-சந்திப்பு/54-361371) · `ta`
+
+பிரபல நடிகரும் தயாரிப்பாளருமான ரவி மோகன், பாடகி கெனீஷா பிரான்சிஸ் மற்றும் இலங்கை வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் ஆகியோருக்கு இடையில் விசேட சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+இந்த சந்திப்பின் போது இந்திய திரைப்படங்கள் ஊடாக இலங்கையின் சுற்றுலாத் தளங்களையும், வரலாற்று கதைகளையும் உலகம் முழுவதும் கொண்டு செல்வது குறித்து கலந்துரையாடப்பட்டது.
+
+இந்த கலந்துரையாடலில்  அமைச்சர் விஜித ஹேரத், பிரபல நடிகர் ரவி மோகன், பாடகி கெனீஷா பிரான்சிஸ் உள்ளிட்ட பலர் கலந்து கொண்டனர். R
+
+◼️
+
+[Data](articles/6f2bff87.json)
+
+---
 
 ### ஹட்டனில்  மண்மேடு சரிந்து விழுந்தது
 
@@ -47,6 +77,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/20831e40.json)
+
+---
+
+### Trump sues Wall Street Journal over Epstein report, seeks $10 billion
+
+*2025-07-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110628/trump-sues-wall-street-journal-over-epstein-report-seeks-10-billion) · `en`
+
+U.S. President Donald Trump sued the Wall Street Journal and its owners including Rupert Murdoch for at least $10 billion on Friday, over the newspaper’s report that his name was on a 2003 birthday greeting for Jeffrey Epstein that included a sexually suggestive drawing and a reference to secrets they shared.
+
+The lawsuit filed in Miami federal court names Murdoch, Dow Jones, News Corp  and its Chief Executive Robert Thomson, and two Wall Street Journal reporters as defendants, saying they defamed Trump and caused him to suffer “overwhelming” financial and reputational harm.
+
+Epstein, the disgraced financier and sex offender, died by suicide in a New York jail cell in 2019.
+
+His case has generated conspiracy theories that became popular among Trump’s base of supporters who believed the government was covering up Epstein’s ties to the rich and powerful.
+
+Trump has said he parted ways with Epstein before the financier’s legal troubles became public in 2006.
+
+...
+
+[Data](articles/719b68c9.json)
 
 ---
 
@@ -84,13 +134,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ වෑන් රථ අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මරුට
+### මීමුරේ ප්‍රදේශයේ වෑන් රථයක් පෙරළීමෙන් පුද්ගලයින් තිදෙනෙකු මරුට
 
 *2025-07-19 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212420) · `si`
 
-හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ හබරකැටිය ප්‍රදේශයේ වෑන් රථයක් අනතුරකට ලක්වීමෙන් පුද්ගලයින් දෙදෙනෙකු මිය ගොස් තිබේ.
+UPDATE - මීමුරේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් පෙරළීමෙන් සිදුවූ අනතුරින් තවත් පුද්ගලයෙකු මියගොස් ඇති බව වාර්තා වේ.
 
-අද (19) පස්වරුවේ සිදුව ඇති මෙම අනතුරින් පුද්ගලයින් හත් දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇතැයිද ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බවද වාර්තා වේ.
+හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් අනතුරකට ලක්වීමෙන් පුද්ගලයින් දෙදෙනෙකු මිය ගොස් තිබේ.
+
+අද (19) පස්වරුවේ සිදුව ඇති මෙම අනතුරින් පුද්ගලයින් පස්දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇතැයිද ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බවද වාර්තා වේ.
 
 ◼️
 
@@ -1803,49 +1855,5 @@ The FBI is responding to assist with the incident, according to the FBI’s Los 
 ◼️
 
 [Data](articles/16d5ff5f.json)
-
----
-
-### Towards A Decentralized, Citizen-Centric Governance Model For Sri Lanka
-
-*2025-07-18 22:01:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-a-decentralized-citizen-centric-governance-model-for-sri-lanka/) · `en`
-
-Sri Lanka’s politically tarnished centralized system of governance structure has continued to disenfranchise the majority of its citizens and has robbed its true potential before and since independence was granted, in spite of multiple constitutions and social uprisings. The need of the hour before we face another crash is to reimagine the country’s political and administrative systems to prioritize capable, service-oriented, and preferably apolitical leadership at the local levels. This policy brief proposes a structural overhaul that emphasizes decentralized governance, constitutional reform, and digital connectivity to enable an inclusive,  transparent, and accountable system of governance aligned to protect and serve the needs of 22 million Sri Lankans.
-
-...
-
-[Data](articles/e4727676.json)
-
----
-
-### யாழ்ப்பாணத்தில் இசைத்துறையில் ஆர்வமுள்ளவர்களுக்கு பயற்சிகள் வழங்க ஆதரவு வழங்குவேன் - பாடகர் ஸ்ரீநிவாஸ்
-
-*2025-07-18 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220355) · `ta`
-
-இசைத்துறைக்கு தென்னிந்தியாவில் உள்ளது போன்ற வாய்ப்புக்கள் வசதிகள் இங்கே குறைவு. ஆனாலும் இங்குள்ள பிள்ளைகள் இசைத்துறையில் மிளிர இசை தொடர்பான வகுப்புக்கள் , பயற்சிகளுக்கு என்னால் முடிந்த ஆதரவை நிச்சயமாக வழங்குவேன் என தென்னிந்திய பிரபல பாடகர் ஸ்ரீநிவாஸ் தெரிவித்துள்ளார்.
-
-யாழ்ப்பாணத்தில் சனிக்கிழமை (19) நடைபெறவுள்ள இசை நிகழ்வில் கலந்து கொள்வதற்காக யாழ்ப்பாணத்திற்கு வருகை தந்துள்ள ஸ்ரீனிவாஸ், வெள்ளிக்கிழமை (18) மருத்துவ பீடத்தில் தனது மகள் சரண்ஜா வுடன் ஊடக சந்திப்பில் கலந்து கொண்ட போதே அவ்வாறு தெரிவித்தார்.
-
-யாழ்ப்பாணத்திற்கு வந்தது பெரும் சந்தோசம். உலகில் எந்த நாட்டுக்கு போனாலும் அங்கே ஈழ தமிழர்கள் எனக்கு தரும் அன்பும் ஆதரவும் அதிகம் யாழ்ப்பாணத்திற்கு  வருகை தந்த நேரம் முதல் இங்குள்ளவர்கள் அன்பை மட்டுமே வெளிப்படுத்திக்கொண்டு இருக்கின்றார்கள்.
-
-நடைபெறவுள்ள இசை நிகழ்வு மருத்துவ பீட மாணவர்கள் தமது கற்றல் செயற்பாட்டுக்கு சென்று வருவதற்கு பேருந்து வாங்க நிதி திரட்டவே ஏற்பாடு செய்யப்பட்டுள்ளது.
-
-...
-
-[Data](articles/eb3b0a82.json)
-
----
-
-### Israel-Palestine conflict: Looking to future rather than past
-
-*2025-07-18 21:21:41* · [`dailyftlk`](https://www.ft.lk/columns/Israel-Palestine-conflict-Looking-to-future-rather-than-past/4-779177) · `en`
-
-A genuine long-term solution will require compromise from both sides and as Dr. Miller and Jodi Rudoren have said, a look to the future as a solution and not an ever-festering, challenged version of history as a path towards a solution
-
-Although unthinkable for those who are focused only on history, a possible futuristic conceptual solution might be to have a one State, federal union model where, Israel and Palestine operate as semi-autonomous regions with a federal government comprising both Israeli and Palestinians in equal share being elected as members of a federal parliament and regions within the federal State having their own elected assemblies with Israeli and Palestinian members based on their populations
-
-...
-
-[Data](articles/dd4de4f4.json)
 
 ---

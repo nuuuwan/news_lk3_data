@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 12:08:32**
+As of **2025-07-19 12:24:39**
 
 ## Newspaper Stats
 
@@ -31,6 +31,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### Seismic shift in Sri Lanka police
+
+*2025-07-19 12:00:00* · [`economynextcom`](https://economynext.com/seismic-shift-in-sri-lanka-police-231608/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s police department is on the verge of a seismic change, with the fates of its top two officers to be decided by separate disciplinary authorities in landmark cases involving misconduct, incompetence, and gross criminal behaviour.
+
+Inspector-General of Police Deshabandu Tennakoon is the first head of the department in its 159-year history to face impeachment. A three-member inquiry body, appointed by Parliament, is expected to announce its decision soon.
+
+Official sources close to the administration say Tennakoon, against whom Parliament initiated impeachment proceedings in April, should know his fate this week or at least by the end of the month.
+
+Legislators voted unanimously on April 8 in favour of a resolution calling for a formal investigation into Tennakoon’s conduct. His inquiry heard he was running a ‘criminal enterprise’ under the guise of law enforcement and was unfit to serve the police even at the lowest rank.
+
+...
+
+[Data](articles/84644906.json)
+
+---
 
 ### සැඩ සුළඟට හසු වී ධීවරයෙක් මුහුදේ අතුරුදන් වෙයි
 
@@ -67,24 +85,6 @@ According to the findings of a previous study commissioned by the UNFPA Sri Lank
 ...
 
 [Data](articles/c4fa8fea.json)
-
----
-
-### Seismic shift in Sri Lanka police
-
-*2025-07-19 10:50:00* · [`economynextcom`](https://economynext.com/seismic-shift-in-sri-lanka-police-231608/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s police department is on the verge of a seismic change, with the fates of its top two officers to be decided by separate disciplinary authorities in landmark cases involving misconduct, incompetence, and gross criminal behaviour.
-
-Inspector-General of Police Deshabandu Tennakoon is the first head of the department in its 159-year history to face impeachment. A three-member inquiry body, appointed by Parliament, is expected to announce its decision soon.
-
-Official sources close to the administration say Tennakoon, against whom Parliament initiated impeachment proceedings in April, should know his fate this week or at least by the end of the month.
-
-Legislators voted unanimously on April 8 in favour of a resolution calling for a formal investigation into Tennakoon’s conduct. His inquiry heard he was running a ‘criminal enterprise’ under the guise of law enforcement and was unfit to serve the police even at the lowest rank.
-
-...
-
-[Data](articles/84644906.json)
 
 ---
 

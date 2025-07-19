@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 17:04:27**
+As of **2025-07-19 17:16:14**
 
 ## Newspaper Stats
 
-*Scraped **65,542** Articles*
+*Scraped **65,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,288
-adaderanalk | 8,000
+adaderanalk | 8,002
 tamilmirrorlk | 9,390
-virakesarilk | 10,913
-adaderanasinhalalk | 11,262
+virakesarilk | 10,915
+adaderanasinhalalk | 11,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,542 articles have been extended.
+61,973 (94.5%) of 65,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### මන්ත්‍රී ජගත් විතානගේ පුත්‍රයා අත්අඩංගුවට
+
+*2025-07-19 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212416) · `si`
+
+සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයාව පානදුර වලාන දූෂණ මර්ධන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+නීති විරෝධීව එකලස් කරන ලද වාහනයක් ල﻿ඟ තබා ගැනීමේ සිද්ධියකට අදාළව ඔහු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/d38bfe04.json)
+
+---
+
+### Sri Lanka’s rubber exporters seek tariff relief to compete in US market
+
+*2025-07-19 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110625/sri-lankas-rubber-exporters-seek-tariff-relief-to-compete-in-us-market) · `en`
+
+Ahead of the August 1 deadline for further negotiations on the tariffs imposed by the Trump administration, the Sri Lankan rubber exporters said they faced the threat of losing the US market unless a better deal was worked out.
+
+Kamal Silva, a spokesman for the exporters, said the tariff must be kept between 15 and 20 per cent to retain their edge over regional competitors.”Indonesia has gained a clear advantage already as Sri Lanka with the current 30 cent tariff will find it extremely hard to do business with the US,” he said.
+
+“Even before the new tariff came, Sri Lankan exporters found it hard to compete with Indonesia. A 15 per cent tariff would be our ideal rate to be competitive in the US market,” Silva was quoted as saying by PTI.
+
+He said the rubber exports fetched USD 300 million annually from the US market.
+
+...
+
+[Data](articles/2322d9ce.json)
+
+---
+
+### சீட் எட்ஜ் திரில்லராக தயாராகி இருக்கும் உதயாவின் 'அக்யூஸ்ட்'
+
+*2025-07-19 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220404) · `ta`
+
+நடிகர்கள் உதயா , அஜ்மல், யோகி பாபு ஆகியோர் கதையை வழிநடத்தி செல்லும் முன்னணி கதாபாத்திரத்தில் நடித்திருக்கும் நடித்திருக்கும் 'அக்யூஸ்ட்' திரைப்படம் சீட் எட்ஜ் திரில்லராக உருவாகி இருக்கிறது என படக்குழுவினர் தெரிவித்துள்ளனர்.
+
+தமிழ் ,கன்னடம், தெலுங்கு, மலையாளம் உள்ளிட்ட தென்னிந்திய மொழிகளில் நானூறுக்கும் மேற்பட்ட பாடல்களுக்கு நடன இயக்குநராக பணியாற்றி, முதன் முதலாக தமிழில் இயக்குநராக அறிமுகமாகும் பிரபு ஸ்ரீநிவாஸ் இயக்கத்தில் உருவாகியுள்ள 'அக்யூஸ்ட்' திரைப்படத்தில் உதயா, அஜ்மல், யோகி பாபு, ஜான்விகா, பிரபாகர், டானி, சுபத்ரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஐ. மருதநாயகம் ஒளிப்பதிவு செய்திருக்கும் இந்தத் திரைப்படத்திற்கு நரேன் பாலகுமார் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜேசன் ஸ்டுடியோஸ் , சச்சின் சினிமாஸ்,  ஸ்ரீதயாகரன் சினி புரொடக்ஷன் மற்றும் மை ஸ்டூடியோஸ் ஆகிய நிறுவனங்கள்  இணைந்து தயாரித்திருக்கிறது .
+
+...
+
+[Data](articles/f2eee50b.json)
+
+---
+
+### யாதும் அறியான் - திரைப்பட விமர்சனம்
+
+*2025-07-19 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220403) · `ta`
+
+நடிகர்கள் : தினேஷ், பிரானா, ஆனந்த் பாண்டி, ஷியாமள், தம்பி ராமையா, அப்பு குட்டி மற்றும் பலர்.
+
+புதுமுகங்கள் - சிறிய முதலீட்டில் தயாரான படம் - விஜயின் அரசியல் சார்ந்த போஸ்டர் - என எதிர்ப்பார்ப்பை ஏற்படுத்திய 'யாதும் அறியான்' ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+தினேசும்- பிரானாவும் காதலர்கள். தினேஷ் தன் காதலியான பிரானாவுடன்  தனிமையில் உல்லாசமாக இருக்க விரும்புகிறார். அதற்கான முயற்சியும் செய்கிறார். ஆனால் காதலி பிரானா உறுதியாக மறுத்து விடுகிறார். இதை தன் நண்பனான ஆனந்த் பாண்டியிடம் சொல்ல.. ஆனந்த் பாண்டி ஒரு திட்டத்தை தீட்டுகிறார்.
+
+அதன்படி ஆனந்த் பாண்டி -அவரது காதலி சியாமள்-  தினேஷ் -பிரானா - என நான்கு பேரும் காட்டுப்பகுதிக்கு சுற்றுலா செல்கிறார்கள். இதற்காக அந்த அடர்ந்த வனத்தில் இருக்கும் சொகுசு பங்களாவில் தங்குகிறார்கள்.
+
+...
+
+[Data](articles/025f5924.json)
+
+---
+
+### Foreign Minister meets Indian actor Ravi Mohan to discuss film tourism
+
+*2025-07-19 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110624/foreign-minister-meets-indian-actor-ravi-mohan-to-discuss-film-tourism-) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs, Tourism, and Foreign Employment, Vijitha Herath, has held a meeting with renowned Indian actor and producer Ravi Mohan, also known as Jayam Ravi, along with acclaimed singer Keneesha Francis.
+
+In a post on ‘X’, the minister said they discussed groundbreaking projects in film production and musical concerts.
+
+“These initiatives are set to boost Sri Lanka’s film tourism, promote our rich cultural heritage, and bring captivating stories and electrifying performances to iconic Sri Lankan locations,” Herath stated.
+
+◼️
+
+[Data](articles/c4d15b6b.json)
+
+---
 
 ### ගසක අත්තක් කඩාවැටී අයෙක් මරුට
 
@@ -1767,83 +1849,5 @@ Hidden away in Sri Lanka’s misty hill country, in Uva Province lies Demodera E
 ...
 
 [Data](articles/0144aa47.json)
-
----
-
-### தமிழ்நாட்டில் ஒரு கூட்டணித் தகராறு
-
-*2025-07-18 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220351) · `ta`
-
-பாரதிய ஜனதா கட்சிக்கும் அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகத்துக்கும் இடையிலான உறவுகள் புதுப்பிக்கப்பட்டிருக்கின்றன என்று மத்திய உள்துறை அமைச்சர் அமித் ஷா கடந்த ஏப்ரில் மாதம் அறிவித்த போதிலும், இரு கட்சிகளும்  அவற்றுக்கிடையிலான முரண்பாடுகளை மறைப்பதற்கு எந்த முயற்சியையும் எடுக்கவில்லை.
-
-" எடப்பாடிஜியின் தலைமையில் நாம் தேர்தலில் போட்டியிடுவோம் " என்று  அண்ணா தி.மு.க. பொதுச்செயலாளர் எடப்பாடி கே. பழனிச்சாமியுடன் கூட்டாக நடத்திய செய்தியாளர்கள் மகாநாட்டில் அமித் ஷா கூறினார். வெற்றி கிடைக்கும் பட்சத்தில் " கூட்டரசாங்கம் " ஒன்று அமையும் என்றும் அவர் குறிப்பிட்டார்.  அந்த அறிவிப்புக்கு சாதகமான முறையில் அண்ணா தி.மு.க. பதிலளித்திருக்கவில்லை.  அண்ணா தி.மு.க. மாத்திரமல்ல, ஆளும் திராவிட முன்னேற்றக் கழகமும் கூட தமிழ்நாட்டில் கூட்டரசாங்கம் என்ற யோசனைக்கு  எப்போதுமே எதிராகவே இருந்து வந்திருக்கினாறன.
-
-...
-
-[Data](articles/eb875154.json)
-
----
-
-### කෙහෙළියට එරෙහි තවත් නඩුවක් ඔක්තෝබර් සිට විභාගයට
-
-*2025-07-18 19:12:49* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-ඔක්තෝබර්-සිට-විභාගයට/11-417380) · `si`
-
-අත්‍යවශ්‍ය නොවන අවස්ථාවක රූපවාහීනි සංස්ථාවට ජී”අයි” බට මිලදී ගෙන රජයට රුපියල් ලක්‍ෂ 10කට ආසන්න පාඩුවක් කළ බවට චෝදනා ලැබ සිටින අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට එරෙහි නඩුව ඔක්තෝබර් 28 වැනිදා සිදු කිරීමට සිට විභාග කිරීමට කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය අද (18) තීරණය කළාය.
-
-වෙනත් විනිසුරුවරයකු හමුවේ විභාග කෙරුණු නඩුවේ වැඩිදුර විභාගය මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය ඉදිරියේ පැවැත්වීමට දෙපාර්ශවයම එකඟත්වය පළ කිරීම නිසා විනිසුරුවරිය එලෙස තීරණය කළාය.
-
-2014 නොවැම්බර් 25 වැනිදා හෝ ඊට ආසන්න දිනයක පළමු විත්තිකරු ජනමාධ්‍ය ඇමතිවරයා ලෙස කටයුතු කරමින් සිටියදී රූපවාහිනි සංස්ථාවට අත්‍යවශ්‍ය නොවන මොහොතක එහි ප්‍රවර්ධන වැඩසටහනකට යැයි පවසමින් රුපියල් 9 90 000/-ක මුදලක් වැය කොට ජී අයි බට 600 මිලදී ගෙන රජයට පාඩු සිදු කළ කිරීමට කුමන්ත්‍රණය කිරීම සහ ඒ අනුව කටයුතු කිරීම මඟින් අල්ලස් පනතේ ‘දූෂණය’ නමැති වරද කළ බවට විත්තිකරුවන්ට එරෙහිව අල්ලස් කොමිසම චෝදනා නඟා ඇත.
-
-...
-
-[Data](articles/09e2a40a.json)
-
----
-
-### Bangladesh Bank honours Sri Lankan bankers for foiling 2016 cyber heist
-
-*2025-07-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110607/bangladesh-bank-honours-sri-lankan-bankers-for-foiling-2016-cyber-heist) · `en`
-
-Bangladesh’s central bank (Bangladesh Bank) hosted a special award ceremony to formally recognise officials from Sri Lanka’s Pan Asia Banking Corporation PLC (PABC) for their role in preventing a US$20 million fraudulent transaction during the infamous 2016 Bangladesh Bank reserve heist incident.
-
-This ceremony held at its headquarters in Motijheel on Thursday (17), described by the Bangladesh central bank’s Governor Dr. Ahsan H. Mansur as “more than a formal recognition- it is a tribute to ethics, prudence, and human values that transcend national borders,” aims to honour the Sri Lankan officials for their “exemplary professionalism and integrity” in thwarting the attempted fraud.
-
-The Bangladesh central bank emphasised that the decisive actions of the Sri Lankan bankers not only protected Bangladesh’s financial interests but also significantly upheld global trust in the integrity of the banking system.
-
-...
-
-[Data](articles/60490475.json)
-
----
-
-### காளி வெங்கட் - தர்ஷன் இணைந்து மிரட்டும் 'ஹவுஸ் மேட்ஸ்' படத்தின் முன்னோட்டம் வெளியீடு
-
-*2025-07-18 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220343) · `ta`
-
-நகைச்சுவை நடிகர் - குணச்சித்திர நடிகர்- கதையின் நாயகன் - என பரந்துபட்ட கதை களங்களில் தன்னுடைய தனித்துவமான அடையாளத்தை பதிவு செய்து முன்னணி நட்சத்திர நடிகராக உயர்ந்திருக்கும் காளி வெங்கட் மற்றும் தர்ஷன் ஆகியோர் கதையின் நாயகர்களாக நடித்திருக்கும்' ஹவுஸ் மேட்ஸ்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் ராஜவேல் இயக்கத்தில் உருவாகி உள்ள ' ஹவுஸ் மேட்ஸ்' எனும் திரைப்படத்தில் காளி வெங்கட், தர்ஷன், அர்ஷா பைஜூ, வினோதினி வைத்தியநாதன், தீனா, அப்துல் லீ உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எம். எஸ். சதீஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ராஜேஷ் முருகேசன் இசையமைத்திருக்கிறார். ஹாரர் வித் ஃபேமிலி என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ப்ளேஸ்மித் ஸ்டுடியோஸ் & சவுத் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது. இந்த திரைப்படத்தை சிவகார்த்திகேயன் புரொடக்ஷன்ஸ் வழங்குகிறது.
-
-...
-
-[Data](articles/71eadb23.json)
-
----
-
-### கிருலப்பனையில் காலாவதியான விசாவுடன் இணைய சூதாட்டத்தில் ஈடுபட்ட 21 இந்தியர்கள் கைது
-
-*2025-07-18 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220348) · `ta`
-
-சுற்றுலா விசாக்களில் இலங்கைக்கு வந்து, அவை காலாவதியான பிறகும் கிருலப்பனை பகுதியில் சட்டவிரோதமாக தங்கியிருந்த 21 இந்திய பிரஜைகள், இணையம் மூலமாக சூதாட்ட நடவடிக்கைகளில் ஈடுபட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இவர்கள் அனைவரும் வெள்ளிக்கிழமை (18) குடிவரவு மற்றும் குடியகல்வுத் திணைக்கள விசாரணை பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
-
-இடர் மதிப்பீட்டுப் பிரிவு சார்ந்த அதிகாரிகள், தங்கள் வசமுள்ள தரவுகளை பகுப்பாய்வு செய்த பின்னர், இந்த இந்திய பிரஜைகள் சட்டவிரோத இணைய சூதாட்ட நடவடிக்கையில் ஈடுபட்டிருந்தமை கண்டறியப்பட்டது.
-
-அவர்களை உடனடியாக இந்தியாவுக்கு நாடு கடத்துவதற்காக வெலிசரவில் உள்ள தடுப்பு நிலையத்தில் தடுத்து வைக்க, குடிவரவு மற்றும் குடியகல்வுத் துறையின் புலனாய்வுப் பிரிவு அதிகாரிகள் நடவடிக்கை எடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/1f1df87a.json)
 
 ---

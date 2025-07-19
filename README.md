@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 18:07:43**
+As of **2025-07-19 18:29:45**
 
 ## Newspaper Stats
 
-*Scraped **65,551** Articles*
+*Scraped **65,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,289
-adaderanalk | 8,002
+adaderanalk | 8,003
 tamilmirrorlk | 9,390
-virakesarilk | 10,916
+virakesarilk | 10,917
 adaderanasinhalalk | 11,265
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,551 articles have been extended.
+61,973 (94.5%) of 65,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### ரேக்ளா பந்தய பின்னணியில் உருவாகும் ' சோழ நாட்டான்'
+
+*2025-07-19 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220405) · `ta`
+
+' நான் சிவனாகிறேன்',  'டை நோ சர்ஸ்',  ' ஃபேமிலி படம் ' ஆகிய படங்களின் மூலம் ரசிகர்களின் கவனத்தை கவர்ந்திருக்கும் நடிகர் உதய் கார்த்திக் கதையின் நாயகனாக நடித்திருக்கும் புதிய படமான 'சோழநாட்டான்' காவிரி டெல்டா பகுதியில் நடைபெறும் ரேக்ளா பந்தயத்தின் பின்னணியை விவரிக்கிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் 'பட்டுக்கோட்டை' ரஞ்சித் கண்ணா இயக்கத்தில் உருவாகும் ' சோழநாட்டான் ' எனும் திரைப்படத்தில் உதய் கார்த்திக்,  லுத்துஃப்,  சௌந்தரராஜன் , ஸ்வேதா கர்ணா,  நரேன், சீதா, பரணி, விக்னேஷ் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+எஸ் ஆர் சதீஷ்குமார் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு எஃப் .எஸ் .ஃபைசல் இசையமைக்கிறார். ரேக்ளா பந்தய பின்னணியில் பொழுதுபோக்கு அம்சங்களுடன் உருவாகும் இந்த திரைப்படத்தை செவன் ஹில்ஸ் மூவி மேக்கர் நிறுவனம் சார்பில் தயாரிப்பாளர் மாரியப்பன் முத்தையா தயாரிக்கிறார்.
+
+இப்படத்தின் தொடக்க விழா சென்னையில் நடைபெற்றது. இதில் படக்குழுவினர் கலந்து கொண்டனர்.  இப்படத்தின் படப்பிடிப்பை ஒரே கட்டமாக விரைவில் நடத்த திட்டமிடப்பட்டிருப்பதாக படக்குழுவினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/be67a57d.json)
+
+---
 
 ### විපක්ෂයේ දේශපාලන රික්තකය පුරවන්න සජබය සූදානමින්
 
@@ -69,6 +87,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/dd082b83.json)
+
+---
+
+### MP Jagath Vithana’s son arrested
+
+*2025-07-19 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110626/mp-jagath-vithanas-son-arrested) · `en`
+
+Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana’s son has been arrested by officers of the Panadura Walana Anti-Vice Unit.
+
+He has reportedly been arrested in the Mathugama area in connection with the alleged possession of an illegally assembled vehicle.
+
+◼️
+
+[Data](articles/2770d333.json)
 
 ---
 
@@ -1833,31 +1865,5 @@ According to World Bank estimates, the youth unemployment rate in Sri Lanka for 
 ...
 
 [Data](articles/bc4ff030.json)
-
----
-
-### “ICC unveils Suspended Beam Slab system to revolutionise Sri Lankan construction’’
-
-*2025-07-18 19:27:00* · [`islandlk`](http://island.lk/icc-unveils-suspended-beam-slab-system-to-revolutionise-sri-lankan-construction/) · `en`
-
-In an era where speed, sustainability, and efficiency define the future of construction, International Construction Consortium (Pvt) Limited (ICC), one of Sri Lanka’s most innovative and forward-thinking construction companies, is poised to reshape the nation’s building landscape. The company has unveiled its groundbreaking Suspended Beam Slab (SBS) system, powered by advanced precast slab technology, promising to deliver stronger structures, faster timelines, and greener processes.
-
-As urban landscapes expand and project deadlines tighten, traditional construction methods, reliant on labour-intensive, on-site concrete casting, are proving increasingly outdated. ICC’s SBS system eliminates the need for on-site slab casting by utilising precast concrete slabs manufactured in a controlled factory setting. These slabs are placed on strategically positioned beams, distributing the load to supporting columns or walls.
-
-...
-
-[Data](articles/7f721728.json)
-
----
-
-### A journey through Demodera Estate’s tea and heritage
-
-*2025-07-18 19:27:00* · [`islandlk`](http://island.lk/a-journey-through-demodera-estates-tea-and-heritage/) · `en`
-
-Hidden away in Sri Lanka’s misty hill country, in Uva Province lies Demodera Estate, which is one of the island’s oldest and most celebrated tea plantations. With over 130 years of continuous cultivation, it serves as a living museum of Sri Lanka’s tea legacy. Established in the late 19th century, Demodera’s reputation is rooted in its rich history, meticulous cultivation methods and commitment to innovation.
-
-...
-
-[Data](articles/c5acf125.json)
 
 ---

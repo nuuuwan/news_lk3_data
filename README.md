@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 10:07:47**
+As of **2025-07-19 10:24:46**
 
 ## Newspaper Stats
 
-*Scraped **65,501** Articles*
+*Scraped **65,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
 islandlk | 4,001
-economynextcom | 4,009
+economynextcom | 4,011
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,282
+adalk | 6,283
 adaderanalk | 7,991
 tamilmirrorlk | 9,386
 virakesarilk | 10,907
@@ -26,23 +26,49 @@ adaderanasinhalalk | 11,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,501 articles have been extended.
+61,973 (94.6%) of 65,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
 
+### Sri Lanka coconut auction prices rise 9.4-pct
+
+*2025-07-19 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-average-coconut-prices-rise-9-4-pct-231507/) · `en`
+
+ECONOMYNEXT – Sri Lanka average coconut prices rose 9.4 percent at the weekly auction, Coconut Development Authority data showed.
+
+The average price for 1,000 nuts was 126,537.80 rupees on July 17.
+
+“The highest and the lowest price for a nut was not declared yesterday,” CDA officials said.
+
+The number of nuts offered declined to 402,742 from 856,780 a week earlier, while nuts sold fell to 381,624 from 763,665.
+
+In the local market, the wholesale price for a large nut was 165-175 rupees, while small nuts were 140-160 a piece on July 17.
+
+Local wholesale prices of coconut oil were 800,000 to 840,000 rupees per metric ton.
+
+In the region, China and Maldives signed a bilateral agreement in agriculture, launching a pest control initiative targeting coconut palms, the Ministry of Foreign Affairs, People’s Republic of China said. (Colombo/Jul18/2025)
+
+◼️
+
+[Data](articles/37fffc57.json)
+
+---
+
 ### ලංකාවේ තරුණයින් සිටි බස් රථයක් ඊශ්‍රායලයේ දී හදිසියේ ගිනිගනියි
 
 *2025-07-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212405) · `si`
 
-ඊශ්‍රායලයේ කෘෂිකාර්මික සේවයේ නිතර මෙරට තරුණයින් 20ක් රැගත් බස් රථය හදිසි ගිනිගැනීමකට ලක්ව ඇති බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+ඊශ්‍රායලයේ කෘෂිකාර්මික සේවයේ නිතර මෙරට තරුණයින් රැගත් බස් රථයක් හදිසි ගිනිගැනීමකට ලක්ව ඇති බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
 
-ඊශ්‍රායලයේ Kiryat Malakhi ප්‍රදේශයට ආසන්නයේ ඊයේ (18) උදේ තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටියදී මෙම ලාංකිකයන් පිරිස මෙම අනතුරට ලක්ව ඇත.
+ඊශ්‍රායලයේ Kiryat Malakhi ප්‍රදේශයට ආසන්නයේ ඊයේ (18) උදේ තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටියදී මෙම අනතුර ලක්ව ඇත.
 
-බස් රථය ගිනි ගැනීමේ දී එහි දොර අවහිරවීම මත එහි සිටි පිරිස එහි ජනෙල් කඩා ඉන් ඉවත්වී ඇත.
+අනතුර සිදුවන අවස්ථාවේ එම බස් රථයේ ශ්‍රී ලාංකිකයන් 20 දෙනෙකු සිට තිබේ.
 
-අනතුරෙන් පාදයක් තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇති අතර ඔහුගේ තත්ත්වය ද බරපතළ නොවන බව සඳහන්.
+බස් රථය ගිනිගැනීමත් සමග එහි දොර අවහිරවී ඇති අතර, ඒ හේතුවෙන් ඔවුන් එහි ජනෙල් කඩා ඉන් ඉවත්වී ඇත.
+
+අනතුරෙන් පාදයක් තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇතත්, ඔහුගේ තත්ත්වය බරපතළ නොවන බව සඳහන්.
 
 මේ පිළිබඳව විවිධ සටහන් තබා ඇතත්, තුවාල වූ තරුණයාට තදබල අනතුරක් නොමැති බව නිමල් බණ්ඩාර මහතා පැවසීය.
 
@@ -81,6 +107,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/646700ba.json)
+
+---
+
+### Sri Lanka financial account back in deficit by US$610mn in 1Q amid debt repayments
+
+*2025-07-19 09:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-account-back-in-deficit-by-us610mn-in-1q-amid-debt-repayments-231545/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s external financial account was in deficit by 610 million US dollars, central bank data showed, as the country repaid debt and built net reserves by squeezing the current account.
+
+In Mercantilist terms and in the popular press financial outflows are sometimes called ‘capital flight’.
+
+In order for a country to be able to repay debt, savings have to be appropriated either by taxation or borrowings, reducing domestic credit and consumption, by the people who repay or build reserves at market interest rates.
+
+Sri Lanka’s financial account has been in deficit since the last quarter of 2022, amid unusual debt repayments, when the central bank established monetary stability.
+
+Sri Lanka has to make debt repayments on a net basis and also build reserves (which is the same as debt repayments), with most capital inflows drying up.
+
+...
+
+[Data](articles/d7125ebf.json)
 
 ---
 
@@ -1032,6 +1078,22 @@ Hidden away in Sri Lanka’s misty hill country, in Uva Province lies Demodera E
 
 ---
 
+### කෙහෙළියට එරෙහි තවත් නඩුවක් ඔක්තෝබර් සිට විභාගයට
+
+*2025-07-18 19:12:49* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-ඔක්තෝබර්-සිට-විභාගයට/11-417380) · `si`
+
+අත්‍යවශ්‍ය නොවන අවස්ථාවක රූපවාහීනි සංස්ථාවට ජී”අයි” බට මිලදී ගෙන රජයට රුපියල් ලක්‍ෂ 10කට ආසන්න පාඩුවක් කළ බවට චෝදනා ලැබ සිටින අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට එරෙහි නඩුව ඔක්තෝබර් 28 වැනිදා සිදු කිරීමට සිට විභාග කිරීමට කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය අද (18) තීරණය කළාය.
+
+වෙනත් විනිසුරුවරයකු හමුවේ විභාග කෙරුණු නඩුවේ වැඩිදුර විභාගය මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය ඉදිරියේ පැවැත්වීමට දෙපාර්ශවයම එකඟත්වය පළ කිරීම නිසා විනිසුරුවරිය එලෙස තීරණය කළාය.
+
+2014 නොවැම්බර් 25 වැනිදා හෝ ඊට ආසන්න දිනයක පළමු විත්තිකරු ජනමාධ්‍ය ඇමතිවරයා ලෙස කටයුතු කරමින් සිටියදී රූපවාහිනි සංස්ථාවට අත්‍යවශ්‍ය නොවන මොහොතක එහි ප්‍රවර්ධන වැඩසටහනකට යැයි පවසමින් රුපියල් 9 90 000/-ක මුදලක් වැය කොට ජී අයි බට 600 මිලදී ගෙන රජයට පාඩු සිදු කළ කිරීමට කුමන්ත්‍රණය කිරීම සහ ඒ අනුව කටයුතු කිරීම මඟින් අල්ලස් පනතේ ‘දූෂණය’ නමැති වරද කළ බවට විත්තිකරුවන්ට එරෙහිව අල්ලස් කොමිසම චෝදනා නඟා ඇත.
+
+...
+
+[Data](articles/09e2a40a.json)
+
+---
+
 ### Bangladesh Bank honours Sri Lankan bankers for foiling 2016 cyber heist
 
 *2025-07-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110607/bangladesh-bank-honours-sri-lankan-bankers-for-foiling-2016-cyber-heist) · `en`
@@ -1747,59 +1809,5 @@ Sri Lanka Treasuries yields edge up, low take up 3-month bills
 ...
 
 [Data](articles/420449ab.json)
-
----
-
-### Sri Lanka achieved 17-point rise in HPV vaccination coverage in 2024: WHO
-
-*2025-07-18 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-achieved-17-point-rise-in-hpv-vaccination-coverage-in-2024-who-231415/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s vaccination coverage for adolescent girls against human papillomavirus (HPV) rose 17 percentage points, from 31 per cent to 48 per cent, in 2024, the World Health Organisation (WHO) has said.
-
-Vaccination coverage in South Asia against HPV, a major cause of cervical cancer, increased from 2 per cent in 2023 to 9 per cent in 2024.
-
-“Bhutan, Maldives, and Sri Lanka increased their HPV vaccination rates by 3 percentage points (from 91 per cent to 94 per cent), 15 percentage points (from 60 per cent to 75 per cent), and 17 percentage points (from 31 per cent to 48 per cent) respectively in 2024,” the WHO said.
-
-Bangladesh achieved notable progress, vaccinating over 7.1 million girls since starting its HPV programme in 2023.
-
-Nepal launched its national HPV vaccination campaign in February 2025 and has vaccinated over 1.4 million girls so far.
-
-India and Pakistan are expected to launch their HPV vaccination programmes later this year.
-
-...
-
-[Data](articles/a95940c3.json)
-
----
-
-### உடவளவை மா-ஆர காட்டுப்பகுதிக்குள் 06 யானைகள் விடுவிப்பு
-
-*2025-07-18 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220301) · `ta`
-
-யானைகள் சரணாலயத்தில் பாராமரிக்கப்பட்டு வந்த 06 காட்டு யானைகள் வியாழக்கிழமை (17) உடவளவை தேசிய பூங்காவின் மா-ஆர காட்டுப்பகுதிக்குள் விடுவிக்கப்பட்டுள்ளன.
-
-6 யானைகளும் இளம் வயதிலேயே அனாதரவாகி சுமார் ஐந்து ஆண்டுகளாக சரணாலயத்தில் பராமரிக்கப்பட்டு வந்தன. இந்த பாராமரிப்பு நடவடிக்கைகளுக்கு வெளிநாட்டு அமைப்புகளும் விலங்கியல் குழுக்களும் ஒத்துழைப்பு வழங்கியுள்ளன.
-
-◼️
-
-[Data](articles/ff8b1b99.json)
-
----
-
-### බැංකුවලින් වාහන ණය දෙන විදිය අද සිට වෙනස් වෙයි
-
-*2025-07-18 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212382) · `si`
-
-මෙරට බලපත්‍රලාභී වානිජ බැංකු, බලපත්‍රලාභී මූල්‍ය සමාගම්, ලියාපදිංචි මූල්‍ය ලීසිං ආයතන විසින් මෝටර් රථ වාහන සඳහා මූල්‍ය පහසුකම් සැපයීමේදී අනුගමනය කළ යුතු ක්‍රමවේද යාවත්කාලීන කරමින්, ශ්‍රී ලංකා මහ බැංකුව විසින් නව මාර්ගෝපදේශ සංග්‍රහයක් ඊයේ (17) දින නිකුත් කර තිබේ.
-
-2018 පෙබරවාරි 08 දින නිකුත් කරන ලද මාර්ගෝපදේශයන් යාවත්කාලීන කරමින් 2025 ජූලි 17 දින නව මාර්ගෝපදේශයන් මෙලෙස මහ බැංකුව විසින් ප්‍රකාශයට පත් කර ඇත.
-
-ඊට අනුව 2018 වසරේ මාර්ගෝපදේශයන් හි දැක්වුණු ආකාරයේ ඉලෙක්ට්‍රික්, හයිබ්‍රිඩ් හා වෙනත් යනාදී වශයෙන්, බලශක්ති ප්‍රභවය අනුව කර තිබූ වර්ගීකරණයන් මෙම නව 2025 මාර්ගෝපදේශයන් හි ඉවත් කර තිබේ.
-
-ඒ අනුව 2018 මාර්ගෝපදේශයන් අනුව ඉලෙක්ට්‍රික් කාණ්ඩය යටතේ වාහනයේ වටිනාකමින් 90% ක් දක්වා මූල්‍ය පහසුකම් ලබා ගැනීමේ අවස්ථාව, වානිජ වාහන වෙනුවෙන් 80%ක්, මොටර් කාර්, SUV සහ වෑන් රථ සඳහා 60%ක් දක්වා ද, ත්‍රීවීල් සඳහා 50% ක් දක්වා සහ වෙනත් වාහන සඳහා 70% ක් දක්වා අඩු කර ඇත.
-
-...
-
-[Data](articles/cfc0f17b.json)
 
 ---

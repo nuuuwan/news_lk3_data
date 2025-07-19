@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 09:43:04**
+As of **2025-07-19 10:07:47**
 
 ## Newspaper Stats
 
-*Scraped **65,498** Articles*
+*Scraped **65,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,282
 adaderanalk | 7,991
-tamilmirrorlk | 9,385
+tamilmirrorlk | 9,386
 virakesarilk | 10,907
-adaderanasinhalalk | 11,250
+adaderanasinhalalk | 11,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,498 articles have been extended.
+61,973 (94.6%) of 65,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### ලංකාවේ තරුණයින් සිටි බස් රථයක් ඊශ්‍රායලයේ දී හදිසියේ ගිනිගනියි
+
+*2025-07-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212405) · `si`
+
+ඊශ්‍රායලයේ කෘෂිකාර්මික සේවයේ නිතර මෙරට තරුණයින් 20ක් රැගත් බස් රථය හදිසි ගිනිගැනීමකට ලක්ව ඇති බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+
+ඊශ්‍රායලයේ Kiryat Malakhi ප්‍රදේශයට ආසන්නයේ ඊයේ (18) උදේ තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටියදී මෙම ලාංකිකයන් පිරිස මෙම අනතුරට ලක්ව ඇත.
+
+බස් රථය ගිනි ගැනීමේ දී එහි දොර අවහිරවීම මත එහි සිටි පිරිස එහි ජනෙල් කඩා ඉන් ඉවත්වී ඇත.
+
+අනතුරෙන් පාදයක් තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇති අතර ඔහුගේ තත්ත්වය ද බරපතළ නොවන බව සඳහන්.
+
+මේ පිළිබඳව විවිධ සටහන් තබා ඇතත්, තුවාල වූ තරුණයාට තදබල අනතුරක් නොමැති බව නිමල් බණ්ඩාර මහතා පැවසීය.
+
+එමෙන්ම අදාළ සමාගම ද ඔවුන්ගේ කටයුතු පිළිබඳව සොයා බලන බවත්, අනෙකුත් පිරිස සුපුරුදු පරිදි තම කටයුතුවල නිරත බවත් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/355ad21c.json)
+
+---
+
+### ඊශ්‍රායලය සහ සිරියාව අතර සටන් විරාමයකට එකඟතාවක්
+
+*2025-07-19 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212404) · `si`
+
+ඊශ්‍රායලය සහ සිරියාව කලාපීය ප්‍රධාන රටවල සහාය ඇතිව සටන් විරාමයකට එකඟවී ඇති බව තුර්කියේ අමෙරිකානු තානාපති ටොම් බැරැක් පවසයි.
+
+ඩෲස් ජනතාව ආරක්ෂා කිරීම සඳහා සිරියානු හමුදා ඉලක්ක කර ගනිමින් ඊශ්‍රායලය එල්ල කළ ගුවන් ප්‍රහාරයෙන් පසු මෙම එකඟතාවට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/0b53af07.json)
+
+---
+
+### மீண்டும் வாகன இறக்குமதியில் மோசடி : ஒருவர் கைது
+
+*2025-07-19 09:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வாகன-இறக்குமதியில்-மோசடி-ஒருவர்-கைது/175-361352) · `ta`
+
+ஜப்பானிய வாகன இறக்குமதியில் சுமார் 20 மில்லியன் ரூபாய் மோசடியில் ஈடுபட்டதாகக் கூறப்படும் ஒருவரை குற்றப்புலனாய்வுத் துறையினர் கைது செய்துள்ளனர்.
+
+மஹரகமவில் வசிக்கும் அவர்,ஜப்பானிலிருந்து இறக்குமதி செய்யப்பட்ட 18 வாகனங்களுக்கான ஆரம்பக் கொடுப்பனவுகளைத் தவிர்த்து, அதன் மூலம் அந்தப் பரிவர்த்தனைகளுக்குத் தேவையான நிதியை மோசடி செய்ததாகக் குற்றம் சாட்டப்பட்டுள்ளார்.
+
+அவர் ஜப்பானிலிருந்து இலங்கைக்கு மொத்தம் 68 வாகனங்களை இறக்குமதி செய்துள்ளதாக விசாரணைகளிலிருந்து தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/646700ba.json)
+
+---
 
 ### தெஹிவளை துப்பாக்கிச்சூடு குறித்து வெளியான அதிர்ச்சி செய்திகள்
 
@@ -1749,53 +1801,5 @@ India and Pakistan are expected to launch their HPV vaccination programmes later
 ...
 
 [Data](articles/cfc0f17b.json)
-
----
-
-### නීතිවිරෝධී පිරමීඩ යෝජනා ක්‍රම ගැන විශේෂ අනාවරණයක්
-
-*2025-07-18 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212381) · `si`
-
-හඳුනානොගත් නීතිවිරෝධී පිරමීඩ යෝජනා ක්‍රම 50කට අධික සංඛ්‍යාවක් මෙරට තුළ ක්‍රියාත්මකවන බව ශ්‍රී ලංකා මහබැංකුවේ මූල්‍ය, පාරිභෝගික සබඳතා දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ නීතීඥ යානක රණවීර මහතා පවසයි.
-
-ටීවී දෙරණ ඔස්සේ විකාශනය වන රී බිල්ඩ් ශ්‍රී ලංකා වැඩසටහනට එක්වෙමින් ඔහු සඳහන් කළේ, මේවන විට පිරමීඩ යෝජනා ක්‍රම 22ක් හඳුනාගෙන ඇති බවය.
-
-එහිදී අදහස් දැක්වූ ශ්‍රී ලංකා මහබැංකුවේ මූල්‍ය, පාරිභෝගික සබඳතා දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ නීතීඥ යානක රණවීර මහතා,
-
-''මෙහි පිරමීඩ යෝජනා ක්‍රම විදිහට විසි දෙකක් හඳුනගෙන තියෙනවා. ඒ වගේම වැඩිදුර විමර්ශන සඳහා අපි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යොමු කරලා තියෙනවා. ඒ අපි හඳුනාගත්තා විතරයි. ඉතා විශාල ප්‍රමාණයක් මේ මොහොතේත් මේ භූමිය ඇතුලේ ක්‍රියාත්මක වෙනවා. පනහකට අධිකයි කියලා කිව්වොත් හරි.  මූලික විමර්ශන කටයුතු සිද්ධ කරන්න අපිට ලැබිලා තියෙනවා පැමිණිලි 50කට වැඩි ප්‍රමාණයක්.''
-
-...
-
-[Data](articles/570071ab.json)
-
----
-
-### ‘கிஸ் கேம்’ சர்ச்சையில் சிக்கிய சிஇஓ (வீடியோ இணைப்பு)
-
-*2025-07-18 14:11:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கிஸ்-கேம்-சர்ச்சையில்-சிக்கிய-சிஇஓ-வீடியோ-இணைப்பு/50-361319) · `ta`
-
-ஆஸ்ட்ரோனமர் நிறுவனத்தின் தலைமை செயல் அதிகாரி ஆண்டி பைரானும், அதே நிறுவனத்தின் தலைமை மக்கள் தொடர்பு அதிகாரி ஒருவரும் இசை நிகழ்ச்சி ஒன்றில் நெருக்கமாக இருக்கும் வீடியோவை பற்றித்தான் சமூக வலைதளங்களில் எங்கு பார்த்தாலும் பேச்சு.
-
-அமெரிக்காவின் மசாசூசெட்ஸ் மாகாணத்தில் பிரபல இசைக்குழுவான ‘கோல்ட்பிளே’ இசை நிகழ்ச்சி அண்மையில் நடைபெற்றது. உலகில் பல்வேறு நாடுகளில் நடக்கும் இசை நிகழ்ச்சிகளில், விளையாட்டுப் போட்டிகளில் ’கிஸ் கேம்’ என்ற கேமரா வைக்கப்படுவது வழக்கம்.
-
-இதன் மூலம் போட்டியின் போது நெருக்கமாக இருக்கும் தம்பதிகளை இந்த கேமரா படம்பிடித்து பெரிய திரையில் காட்டும். அதை பார்க்கும் பார்வையாளர்கள் கைதட்டி, ஆரவாரம் செய்து அவர்களை உற்சாகப்படுத்துவர். ‘கிஸ் கேம்’ தொடர்பான வீடியோக்கள் இணையத்தில் பிரபலம்.
-
-...
-
-[Data](articles/96605183.json)
-
----
-
-### Points Leading To A Revolution In Education
-
-*2025-07-18 14:00:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/points-leading-to-a-revolution-in-education/) · `en`
-
-It is too noisy whether history as a subject should be in the school curriculum or not. Needless to say, one should know one’s own history, so that the same mistake does not repeat. However, Harini Amarasuriya, in the capacity of minister of education has denied the fact that history will be removed from the school curriculum. Moreover, new education reforms have made it mandatory to study subjects such as history, aesthetics and vocational studies. She has further said that focus is to produce a student not limited to a single field.
-
-It is very difficult to take revolutionary steps, especially in a field like education in Sri Lanka, being a country politically and religiously abused. We can recall how some famous Buddhist monks objected, when teenage students were going to be made aware of sex education. Being aware of one’s own body and the opposite sex was a taboo for them. This fact is raised here, to imply the extent to which education reforms have been lagging behind.
-
-...
-
-[Data](articles/d5d6d391.json)
 
 ---

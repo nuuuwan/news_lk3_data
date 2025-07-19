@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 11:20:30**
+As of **2025-07-19 11:31:37**
 
 ## Newspaper Stats
 
-*Scraped **65,511** Articles*
+*Scraped **65,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,284
-adaderanalk | 7,992
+adaderanalk | 7,994
 tamilmirrorlk | 9,387
 virakesarilk | 10,907
-adaderanasinhalalk | 11,253
+adaderanasinhalalk | 11,254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,511 articles have been extended.
+61,973 (94.6%) of 65,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### සැඩ සුළඟට හසු වී ධීවරයෙක් මුහුදේ අතුරුදන් වෙයි
+
+*2025-07-19 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212407) · `si`
+
+බේරුවල ධීවර වරායෙන් මුහුදුගිය යාත්‍රාවක සිටි පුද්ගලයෙකු අද (19) අලුයම ඇති වූ සැඩ සුළඟට හසු වී අනතුරන් වී තිබේ.
+
+මේ සම්බන්ධයෙන් කළ විමසීමකදී ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පවසා සිටියේ, අනතුරට ලක් වූ යාත්‍රාවේ ධීවරයන් 6 දෙනෙකු සිටි බවය.
+
+එම යාත්‍රාව ඉකුත් 15වනදා මුහුදුගොස් අද නැවත ගොඩබිමට පැමිණීමේදී බේරුවල මුහුද ආසන්නයේ දී මෙම අනතුර සිදුව ඇත.
+
+මෙලෙස අතුරුදන්ව ඇත්තේ දොඩංගොඩ ප්‍රදේශයේ පදිංචිව සිටි 35 හැවිරිදි පුද්ගලයෙක් බව සඳහන්.
+
+◼️
+
+[Data](articles/7ec1d040.json)
+
+---
 
 ### Harassment in Sri Lanka public transport has been normalised: UNFPA
 
@@ -163,6 +181,48 @@ In the region, China and Maldives signed a bilateral agreement in agriculture, l
 ◼️
 
 [Data](articles/6e74ac5e.json)
+
+---
+
+### Police impose traffic restrictions in Ruwanwella
+
+*2025-07-19 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110615/police-impose-traffic-restrictions-in-ruwanwella-) · `en`
+
+The annual Esala Maha Perahera of the Yatanwala Swarna Walukarama Temple, located in the Ruwanwella Police Division, is scheduled to take place tonight (19) from 10:00 PM to 12:00 AM.
+
+The procession will commence near the Swarna Walukarama Temple, proceed along the Kegalle–Karawanella Road from Karawanella, turn back near Ruwanwella Rajasinghe College, and return to the temple via the same route, according to Sri Lanka Police.
+
+The police have requested motorists using this route to make use of alternative roads during the procession.
+
+Traffic will be restricted from Warawala Junction and Thalduwa Junction until 12:00 AM due to the event, said police.
+
+Turn at Warawala Junction towards Bulathkohupitiya and proceed along the Parussella–Yatiyanthota Road. Then, join the Hatton–Colombo main road and continue towards Avissawella.
+
+...
+
+[Data](articles/ddec5c20.json)
+
+---
+
+### Bus carrying 20 Sri Lankan workers catches fire in Israel; no serious injuries – Ambassador
+
+*2025-07-19 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110614/bus-carrying-20-sri-lankan-workers-catches-fire-in-israel-no-serious-injuriesambassador) · `en`
+
+A bus transporting 20 Sri Lankan youths employed in the agricultural sector in Israel caught fire last morning (18) near Kiryat Malakhi, according to Sri Lanka’s Ambassador to Israel, Nimal Bandara.
+
+The bus was completely destroyed in the blaze. However, all 20 Sri Lankans on board managed to escape unharmed by breaking the windows, as the door had become blocked due to the fire.
+
+One individual sustained a leg injury during the incident and has been hospitalized. His condition is reported to be non-serious, the Ambassador confirmed.
+
+The relevant authorities in Israel have launched an investigation into the cause of the fire.
+
+Meanwhile, the remaining members of the group have resumed their normal daily activities.
+
+“We wish the young man who was hospitalized a speedy recovery,” Ambassador Bandara added.
+
+◼️
+
+[Data](articles/1b8f9eac.json)
 
 ---
 
@@ -1761,61 +1821,5 @@ The ASPI was pushed up by Central Finance Company which ended 10.00 rupees stron
 ◼️
 
 [Data](articles/083ce1d1.json)
-
----
-
-### Rajitha’s anticipatory bail application rejected
-
-*2025-07-18 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110603/rajithas-anticipatory-bail-application-rejected) · `en`
-
-An anticipatory bail application filed by former Minister Rajitha Senaratne, seeking his release on anticipatory bail before he is arrested by the Bribery Commission, was on Friday rejected by the Colombo Magistrate’s Court.
-
-Colombo Chief Magistrate Thanuja Lakmali Jayatunga issued this order after considering the submissions made by the petitioner’s lawyers and officials of the Bribery Commission.
-
-Senaratne’s attorneys on July 14 filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release on anticipatory bail in the event of his arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Officials of the Bribery Commission had previously informed the court that the former Minister is expected to be taken into custody after being named as a suspect in a corruption case.
-
-...
-
-[Data](articles/577ed616.json)
-
----
-
-### கடல் வழிப் போக்குவரத்தில் ஈடுபட வேண்டாம்
-
-*2025-07-18 15:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-வழிப்-போக்குவரத்தில்-ஈடுபட-வேண்டாம்/175-361326) · `ta`
-
-அடுத்த 24 மணித்தியாலங்களுக்கு கடற்றொழில் நடவடிக்கைகளிலும், கடல் வழிப் போக்குவரத்திலும் ஈடுபட வேண்டாம் எனவும் கடற்றொழிலாளர்கள் அறிவுறுத்தப்படுகின்றனர்.
-
-காற்றின் வேகம் மணிக்கு 60 - 70 கிலோமீற்றர் வரை அதிகரித்து வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
-
-புத்தளம் முதல் கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை வழியாக பொத்துவில் வரையிலான கரையோரங்களில் கடற்றொழிலில் ஈடுபடும் கடற்றொழிலாளர்களை கவனமாக செயற்படுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.  R
-
-◼️
-
-[Data](articles/337aa732.json)
-
----
-
-### රාජිත සේනාරත්නගේ  අපේක්ෂිත ඇප ඉල්ලීම ප්‍රතික්ෂේප කරයි
-
-*2025-07-18 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212384) · `si`
-
-අල්ලස් කොමිසම විසින් තමන්ව අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ අපේක්ෂිත ඇප අයදුම්පත ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
-
-පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු සහ අල්ලස් කොමිසමේ නිලධාරීන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
-
-මෙම පෙත්සම පිළිබඳව කරුණු සලකා බැලීම අවසන් කිරීමෙන් අනතුරුව එහි නියෝගය අද පස්වරු 2.00 ට ප්‍රකාශයට පත්කරන බව ප්‍රධාන මහේස්ත්‍රාත්වරිය විසින් අද දහවල් නිවේදනය කර තිබිණි.
-
-ඉන් අනතුරුව අදාල නඩුකරය පස්වරු 2.00 පමණ විවෘත අධිකරණයේ කැඳවූ අවස්ථාවේදී මහේස්ත්‍රත්වරිය ප්‍රකාශ කළේ මෙම නියෝගය පසුව ප්‍රකාශයට පත් කරන බවය.
-
-ඉන් අනතුරුව මෙම නඩුකරය සවස 3.20ට පමණ මහේස්ත්‍රාත්වරියගේ නිලමැදිරියේ කැඳවනු ලැබුවාය.
-
-එහිදී සිය තීන්දුව ප්‍රකාශයට පත් කළ ප්‍රධාන මහේස්ත්‍රත්වරිය සඳහන් කළේ අදාළ අපේක්ෂිත ඇප ඉල්ලීම ප්‍රතික්ෂේප කරන බවය.
-
-...
-
-[Data](articles/ce8c85f7.json)
 
 ---

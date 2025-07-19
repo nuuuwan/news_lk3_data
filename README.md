@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 13:29:56**
+As of **2025-07-19 13:49:04**
 
 ## Newspaper Stats
 
-*Scraped **65,528** Articles*
+*Scraped **65,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,001
 economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,285
+adalk | 6,286
 adaderanalk | 7,998
 tamilmirrorlk | 9,390
 virakesarilk | 10,911
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,256
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,528 articles have been extended.
+61,973 (94.6%) of 65,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,24 @@ Legislators voted unanimously on April 8 in favour of a resolution calling for a
 ...
 
 [Data](articles/84644906.json)
+
+---
+
+### ඊශ්‍රායෙලයේ ශ්‍රී ලංකා සේවකයන් 20ක් ගමන් කළ බස් රථයක් ගිනි ගනියි
+
+*2025-07-19 11:54:08* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ශ්‍රී-ලංකා-සේවකයන්-20ක්-ගමන්-කළ-බස්-රථයක්-ගිනි-ගනියි/11-417383) · `si`
+
+ඊශ්‍රායලයේ Kiryat Malakhi   ප්‍රදේශයට ආසන්නයේ  ඊයේ  උදේ  තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටි  ඊශ්‍රායලේ  කෘෂිකාර්මික සේවය කරන ලංකාවේ තරුණයින්  20 ක්  රැගත් බස් රථයක් හදිසි ගිණි  ගැනීමකට ලක් වූ අතර ගින්නෙන් බස් රථය සම්පුර්ණයෙන්ම විනාශ වී තිබේ.
+
+මෙම බස් රථයේ ශ්‍රී ලාංකිකයන් 20 දෙනෙකු සිට ඇති අතර බස් රථය ගිණි  ගැනීමේ දී එහි දොර අවහිරවීම මත එහි සිටි පිරිස එහි ජනෙල් කඩා එයින් ඉවත්වී ඇතැයි ඊශ්‍රා යෙලයේ ශ්‍ර‍ී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+
+අනතුරෙන්  පාදයක්  තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇති අතර ඔහුගේ තත්ත්වය බරපතල නොවන බවත්  මේ පිළිබඳව විවිධ  සටහන් තබා ඇතත් තුවාල වූ  තරුණයාට තදබල අනතුරක් නොමැති බව සනාථ කරමි යැයි තානාපතිවරයා පවසයි.
+
+අදාල සමගම ඔවුන්ගේ කටයුතු පිළිබඳව සොයා බලන අතර අනෙකුත් පිරිස සුපුරුදු පරිදි තම කටයුතුවල් නිරත වන බවද තානාපතිවරයා වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/2d209783.json)
 
 ---
 
@@ -1805,27 +1823,5 @@ Sales of trucks have already picked up, the firm said. (Colombo/July18/2025)
 ◼️
 
 [Data](articles/25094198.json)
-
----
-
-### Sri Lanka rupee weakens against dollar, bonds flat
-
-*2025-07-18 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-flat-231516/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.65/85 to the US dollar in the spot market Friday, weaker from 301.58/70 a day earlier, while bond yields were broadly steady, dealers said.
-
-A bond maturing 15.12.2026 closed at 8.10/15 percent, down from 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.45/55, up from 8.45/50 percent.
-
-A bond maturing on 15.12.2029 closed at 9.48/53, from 9.50/52 percent.
-
-A bond maturing on 15.12.2032 closed at 10.40/50, from 10.40/45 percent.
-
-A bond maturing on 01.06.2033 closed at 10.70/76 percent. (Colombo/July18/2025)
-
-◼️
-
-[Data](articles/6f65f729.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 19:11:30**
+As of **2025-07-19 19:25:27**
 
 ## Newspaper Stats
 
-*Scraped **65,554** Articles*
+*Scraped **65,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
 islandlk | 4,002
-economynextcom | 4,014
+economynextcom | 4,015
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,289
+adalk | 6,290
 adaderanalk | 8,003
 tamilmirrorlk | 9,390
 virakesarilk | 10,917
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,554 articles have been extended.
+61,973 (94.5%) of 65,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### Sri Lanka tea traders ask govt to act against low-quality producers
+
+*2025-07-19 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-traders-ask-govt-to-act-against-low-quality-producers-231528/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Tea Traders’ Association has urged the government to strictly enforce the law against factories that compromise quality during tea production, the President’s Media Division said.
+
+In recent years, Sri Lanka’s tea industry—long celebrated for its premium Ceylon tea—has been grappling with rising production costs, fluctuating global demand, and a volatile economic climate.
+
+Faced with mounting pressure to remain competitive in international markets, some tea producers have begun compromising on quality to cut costs, using lower-grade leaves, reducing plucking intervals, and relying on less-skilled labour, undermining the very brand identity that Ceylon tea has cultivated for over a century.
+
+Exporters have raised alarm over declining quality, warning that such practices could erode consumer trust in key markets like the EU, Japan, and the Middle East.
+
+...
+
+[Data](articles/35c41a5d.json)
+
+---
 
 ### ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතුයි
 
@@ -87,6 +105,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8761ebc0.json)
+
+---
+
+### තුර්කියේ නිෂ්පාදිත ගිනි අවියක් සමඟ 5ක් අල්ලයි
+
+*2025-07-19 17:32:26* · [`adalk`](https://www.ada.lk/breaking_news/තුර්කියේ-නිෂ්පාදිත-ගිනි-අවියක්-සමඟ-5ක්-අල්ලයි/11-417386) · `si`
+
+තුර්කි රටේ නිෂ්පාදිත නවීන පිස්තෝලයක් සමඟ සැකකරුවන් 5 දෙනෙකු අත්අඩංගුවට ගැනීමට අම්බලන්තොට පොලිසිය සමත්වී තිබේ.
+
+පසුගිය 17 වනදා සවස අම්බලන්තොට පොලියර්වත්ත ප්‍රදේශයේදී සැකකටයුතු පුද්ගලයෙකු පරික්ෂා  කරන විටදී ඔහු සන්තකයේ තිබී  පතොරන්  ගැබ රහිත මෙම ගිනි අවිය සොයා ගැනීමට හැකිවී තිබේ.අදාල සැකකරු වැලිගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර  පසුව ඔහුගෙන් ප්‍රශ්න කිරීමේදී ඒ සම්බන්ධයෙන් තවත් සැකකරුවන් 04 දෙනෙකු අත්දන්ගුවට ගැනීමට හැකිවූ බවයි පොලිසිය කියා සිටියේ.
+
+අදාල සැකකරුවන් 04 දෙනාගෙන් 2 දෙනෙකු අම්බලන්තොට පහල බැරගම ප්‍රදේශයේ පදිංචි කරුවන්  වන අතර අනෙක් දෙදෙනා තිස්සමහාරාම හා රන්න ප්‍රදේශයේ පදිංචි කරුවන් බවයි පොලිසිය කියා සිටියේ. මෙසේ අත්දන්ගුවට ගත් සැකකරුවන් 04 දෙනාම හම්බන්තොට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කිරීමට කටයුතු කෙරු බවයි පොලිසිය කියා සිටියේ.
+
+◼️
+
+[Data](articles/58d882fc.json)
 
 ---
 
@@ -1837,37 +1871,5 @@ One individual sustained a gunshot injury to his leg and was admitted to the Col
 ...
 
 [Data](articles/c974ea55.json)
-
----
-
-### 22nd Annual Geoffrey Bawa Memorial Lecture by Frank Escher and Ravi GuneWardena
-
-*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/22nd-annual-geoffrey-bawa-memorial-lecture-by-frank-escher-and-ravi-gunewardena/) · `en`
-
-The Geoffrey Bawa Trust is pleased to announce that this year’s Memorial Lecture will be delivered by Los Angeles-based architects Frank Escher and Ravi GuneWardena. The annual Memorial Lecture commemorates Geoffrey Bawa’s birthday and celebrates impactful architecture from around the world.
-
-The 2025 Geoffrey Bawa Memorial Lecture will be held on Thursday, 24 July 2025 at 6:30 p.m. at the Sri Lanka Foundation Institute in Colombo 07. Escher and GuneWardena will also host a workshop for architecture students and young architects titled Historic Preservation / A Role for Contemporary Architects on Friday, 25 July, from 5:00–7:00 p.m. at the De Saram House in Colombo 07.
-
-Admission to both events is free, but registration is required. For registration and more information, visit: geoffreybawa.com/events. The Geoffrey Bawa Memorial Lecture and workshop is supported by Miles Young and exclusive media partners Sunday Times, Daily Mirror, Tamil Mirror and Lankadeepa.
-
-...
-
-[Data](articles/a61d699d.json)
-
----
-
-### Elevare – ‘a platform that celebrates the hero within every journey’
-
-*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/elevare-a-platform-that-celebrates-the-hero-within-every-journey/) · `en`
-
-Derived from the Latin word “Elevare” – meaning “to elevate” – the name itself reflects our mission: To create a platform that celebrates the hero within every journey.
-
-Elevare is a quarterly luxury business and lifestyle magazine, uniquely positioned to connect Sri Lanka’s leading entrepreneurs, both at home and abroad, with emerging ventures and creative voices. It delves into the rich intersections of enterprise & human experience, diplomacy & culture, craft & commerce, innovation & identity. The magazine seeks to elevate stories that matter; stories of resilience, courage, and power.
-
-Elevare is a publication of Business Media International chaired by Ms. Manori Hettiarachchi and director Akash Karunathilake.
-
-...
-
-[Data](articles/afa08631.json)
 
 ---

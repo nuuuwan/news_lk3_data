@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 17:16:14**
+As of **2025-07-19 17:29:57**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-07-19 (Saturday)
 
-### මන්ත්‍රී ජගත් විතානගේ පුත්‍රයා අත්අඩංගුවට
+### මන්ත්‍රී ජගත් විතානගේ ගේ පුත්‍රයා අත්අඩංගුවට
 
 *2025-07-19 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212416) · `si`
 

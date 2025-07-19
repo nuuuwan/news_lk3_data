@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 13:06:55**
+As of **2025-07-19 13:16:46**
 
 ## Newspaper Stats
 
-*Scraped **65,524** Articles*
+*Scraped **65,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,285
-adaderanalk | 7,996
-tamilmirrorlk | 9,389
+adaderanalk | 7,998
+tamilmirrorlk | 9,390
 virakesarilk | 10,911
-adaderanasinhalalk | 11,255
+adaderanasinhalalk | 11,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,524 articles have been extended.
+61,973 (94.6%) of 65,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### විදුලිය විසන්ධි වුණොත් හැටන් දුම්රිය ස්ථානය රෑට අඳුරේ
+
+*2025-07-19 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212409) · `si`
+
+හැටන් දුම්රිය ස්ථානයේ විදුලි උත්පාදක යන්ත්‍රයට ඉන්ධන ලබානොදීම හේතුවෙන් රාත්‍රී කාලයේ විදුලිය විසන්ධි වෙන අවස්ථාවන්වලදී දුම්රිය ස්ථානය දැඩි අඳුරේ පවතින බව වාර්තා වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල මේ දිනවල අධික සුළං සමග පවතින දැඩි අයහපත් කාලගුණය හමුවේ විදුලි බලය වරින්වර විසන්ධි වන බවත් වාර්තා සඳහන් ය.
+
+එම දුම්රිය ස්ථානයේ ස්ථානාධිපති ජානක ප්‍රනාන්දු මහතා පැවසුවේ, දුම්රිය ස්ථානය සතුව විශාල විදුලි උත්පාදක යන්ත්‍රයක් තිබුණද ඉන්ධන ලබානොදීම හමුවේ හැටන් දුම්රිය ස්ථානය මෙලෙස අදුරේ පවතින බවය.
+
+උඩරට දුම්රිය මාර්ගයේ ඉතා කාර්යබහුල සහ මගීන් විශාල පිරිසක් දුම්රියෙන් ගමන්බිමන් යන දුම්රිය ස්ථානයක් ලෙස හැටන් දුම්රිය ස්ථානය හඳුනාගෙන තිබුණත් මේ දිනවල වරින්වර විදුලිය බිඳවැටීමත් සමග මගීන් දැඩි පීඩාවට පත්වෙන බවද වාර්තා වෙයි.
+
+මේ සම්බන්ධයෙන් දුම්රිය මගීන් දුම්රිය ස්ථානාධිපතිවරයාට පැමිණිලි කිරීමට පවා කටයුතු කර තිබුණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැකුවූ හැටන් දුම්රිය ස්ථානාධිපතිවරයා කියා සිටියේ, හැටන් දුම්රිය ස්ථානය සතුව පවතින විදුලි උත්පාදක යන්ත්‍රයට අවශ්‍ය ඩීසල් දුම්රිය දෙපාර්තමේන්තුව මගින් නිකුත් නොකරන බවය.
+
+...
+
+[Data](articles/643adb9a.json)
+
+---
+
+### பலத்த காற்றில் சிக்கிய படகு : மீனவர் மரணம்
+
+*2025-07-19 13:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்றில்-சிக்கிய-படகு-மீனவர்-மரணம்/175-361356) · `ta`
+
+பேருவளை மீன்பிடித் துறைமுகத்தில் இருந்து சென்ற படகில் பயணித்த ஒருவர் இன்று (19) காலை வீசிய பலத்த காற்றில் சிக்கி காணாமல் போயுள்ளார்.
+
+இதன்போது படகில் 6 மீனவர்கள் இருந்ததாக மீன்பிடி மற்றும் நீரியல் வளங்கள் திணைக்களத்தின் பணிப்பாளர் சுசந்த கஹவத்த தெரிவித்தார்.
+
+கடந்த 15 ஆம் திகதி புறப்பட்ட குறித்த படகானது, இன்று மீண்டும் கரைக்கு திரும்பிக்கொண்டிருந்த போது பேருவளை கடலுக்கு அருகில் இந்த அனர்த்தம் நிகழ்ந்துள்ளது.
+
+காணாமல் போன நபர் தொடங்கொட பகுதியைச் சேர்ந்த 35 வயதுடையவர் என்று கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/f4409fab.json)
+
+---
 
 ### இஸ்ரேலில் இலங்கையர்களை ஏற்றிச் சென்ற பேருந்து தீப்பிடித்து எரிந்தது
 
@@ -49,6 +89,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d4e2ce89.json)
+
+---
+
+### Shooting incident reported outside nightclub in Thalawathugoda
+
+*2025-07-19 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110620/shooting-incident-reported-outside-nightclub-in-thalawathugoda) · `en`
+
+A shooting incident has been reported in front of a nightclub in the Thalawathugoda area in the early hours of this morning (19).
+
+According to reports, the incident followed an argument between two groups, which had escalated into an altercation.
+
+A third individual, who arrived at the scene subsequently, is said to have opened fire using a weapon.
+
+It has been further reported that the individual, who was in possession of a licensed revolver, discharged the weapon by firing at a wall in an apparent attempt to intimidate the opposing group.
+
+Two individuals have been arrested in connection with the incident and are scheduled to be produced before the court today.
+
+◼️
+
+[Data](articles/d37c6fe0.json)
 
 ---
 
@@ -85,6 +145,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6a928409.json)
+
+---
+
+### US Embassy strengthens regional efforts to combat synthetic drug threat
+
+*2025-07-19 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110619/us-embassy-strengthens-regional-efforts-to-combat-synthetic-drug-threat) · `en`
+
+The U.S. Embassy in Sri Lanka, in collaboration with the National Dangerous Drugs Control Board (NDDCB), has concluded a two-week regional training initiative focused on identifying and analyzing synthetic drugs and new psychoactive substances, particularly fentanyl and its analogs—substances that have become an urgent global concern.
+
+The training culminated in a formal handover ceremony of drug testing equipment, where U.S. Deputy Chief of Mission Jayne Howell, Deputy Minister of Public Security and Parliamentary Affairs Sunil Watagala, and NDDCB Chairman Dr. Indika Wanninayake presided over the presentation of the Radian ASAP instrument to Sri Lankan authorities, the U.S. Embassy in Sri Lanka said in a statement.
+
+As part of the U.S. Department of State-funded regional initiative, Upgrading Forensic Lab Capabilities, the Bureau of International Narcotics and Law Enforcement Affairs (INL) has partnered with the Colombo Plan to strengthen synthetic drug detection across South Asia.
+
+...
+
+[Data](articles/642c87d4.json)
 
 ---
 
@@ -1751,81 +1827,5 @@ A bond maturing on 01.06.2033 closed at 10.70/76 percent. (Colombo/July18/2025)
 ◼️
 
 [Data](articles/6f65f729.json)
-
----
-
-### හිටපු ඇමතිනි චන්ද්‍රානි බණ්ඩාරට එරෙහි නඩුවක් කල් යයි
-
-*2025-07-18 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212388) · `si`
-
-හිටපු අමාත්‍ය චන්ද්‍රාණී බණ්ඩාර මහත්මියට එරෙහිව දූෂණ චෝදනාවක් සම්බන්ධයෙන් අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව යළි ලබන 28 වනදා යළි කැඳවන ලෙස  කොළඹ මහාධිකරණය නියම කළේය.
-
-මෙම නඩුව අද (18) කොළඹ මහාධිකරණ විනිසුරු සහන් මාපා බණ්ඩාර මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී විත්තිය විසින් ඉල්ලා සිටි ලේඛන භාරදීම සඳහා මෙම නඩුව යළි ලබන 28 වනදා කැඳවන ලෙස මහාධිකරණ විනිසුරුවරයා නියෝග කළේය.
-
-විත්තිකාර හිටපු අමාත්‍යවරියට එරෙහිව අල්ලස් කොමිසම විසින් දූෂණ විරෝධී පනත යටතේ චෝදනා 11 ක් එල්ල කර ඇත.
-
-2019 ජනවාරි 14 වැනිදා සහ 2019 ජනවාරි 31 කාල සීමාව තුළ නිසි ක්‍රියාපටිපාටිය අනුගමනය නොකොට එච්.එම්. චන්ද්‍රවංශ නැමැතෙකුට වියළි කළාප සංවර්ධන අමාත්‍යාංශයේ ව්‍යාපෘති අධ්‍යක්ෂ ධූරයට පත් කිරීම සහ සිය හිතවතුන් පිරිසක්  නීත්‍යානූකූල නොවන අකාරයට විවිධ තනතුරුවලට පත් කිරීම සඳහා එම අමාත්‍යංශයේ ලේකම්වරයා ඇතුළුව නිලධාරීන්ට  බලපෑම් කිරීම තුළින් දූෂණය නමැති වරද සිදුකළේ යැයි චෝදනා කරමින් හිටපු අමාත්‍යවරියට එරෙහිව අල්ලස් කොමිසම විසින් මෙම අධි චෝදනා ගොනු කර තිබේ.
-
-...
-
-[Data](articles/0b0db2bf.json)
-
----
-
-### Government focus on issues in the local tea industry
-
-*2025-07-18 16:56:00* · [`islandlk`](http://island.lk/government-focus-on-issues-in-the-local-tea-industry/) · `en`
-
-A meeting was held on Thursday (17) at the Presidential Secretariat between the Secretary to the President Dr. Nandika Sanath Kumanayake and officials from institutions related to the tea industry.
-
-The discussion reviewed the issues that have emerged within Sri Lanka’s tea industry. Special attention was paid to improving the quality of tea leaves and the productivity of tea cultivation and exploring new international market opportunities.
-
-The challenges faced by tea manufacturers were also discussed and Dr. Kumanayake instructed officials to provide constructive solutions to these issues.
-
-The importance of implementing various programmes for the capacity development of small tea estate owners was also discussed. During this, the necessity of drawing manufacturers’ attention to replanting tea was also deliberated.
-
-...
-
-[Data](articles/b1b815e3.json)
-
----
-
-### காதலனால் கடத்தப்பட்ட பாடசாலை மாணவி
-
-*2025-07-18 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/220327) · `ta`
-
-15 வயதுடைய பாடசாலை மாணவியை கடத்தி அப்புத்தளை பகுதியில் வீடொன்றில் வைத்திருந்த இளைஞர் ஒருவர் வியாழக்கிழமை (17) இரவு லிந்துல பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-கடத்தப்பட்ட மாணவி தலவாக்கலையில் உள்ள தோட்டமொன்றைச் சேர்ந்த 10 ஆம் தரத்தில் கல்வி கற்பவர் ஆவார்.
-
-இந்த மாணவி பேஸ்புக் மூலம் சந்தேக நபரான இளைஞனுடன் காதல் வயப்பட்டுள்ளார்.  வீட்டை விட்டு வெளியேறி  நானுஓயாவில் இளைஞனை சந்தித்து அவனுடன் அப்புத்தளைக்கு ரயிலில் சென்றதாக  விசாரணையில் மாணவி  தெரிவித்துள்ளார்.
-
-மாணவியின் தாயார் வெளிநாட்டில் வேலை செய்து வருவதாகவும், அவர் தந்தையின் பராமரிப்பில் வளர்ந்து வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-மகளை காணவில்லை என தந்தை லிந்துலை பொலிஸ் நிலையத்தில் அளித்த முறைப்பாட்டை அடுத்து, மாணவியின் இருப்பிடத்தை  கண்டுபிடித்து சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
-
-◼️
-
-[Data](articles/7541535c.json)
-
----
-
-### Air India cockpit recording suggests captain cut fuel to engines before crash, source says
-
-*2025-07-18 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110604/air-india-cockpit-recording-suggests-captain-cut-fuel-to-engines-before-crash-source-says) · `en`
-
-A cockpit recording of dialogue between the two pilots of the Air India flight that crashed last month supports the view that the captain cut the flow of fuel to the plane’s engines, said a source briefed on U.S. officials’ early assessment of evidence.
-
-The first officer was at the controls of the Boeing 787 and asked the captain why he moved the fuel switches into a position that starved the engines of fuel and requested that he restore the fuel flow, the source told Reuters on condition of anonymity because the matter remains under investigation.
-
-The U.S. assessment is not contained in a formal document, said the source, who emphasized the cause of the June 12 crash in Ahmedabad, India, that killed 260 people remains under investigation.
-
-There was no cockpit video recording definitively showing which pilot flipped the switches, but the weight of evidence from the conversation points to the captain, according to the early assessment.
-
-...
-
-[Data](articles/5b2ff2af.json)
 
 ---

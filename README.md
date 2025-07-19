@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 10:51:46**
+As of **2025-07-19 11:05:46**
 
 ## Newspaper Stats
 
-*Scraped **65,507** Articles*
+*Scraped **65,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,001
 economynextcom | 4,011
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,283
+adalk | 6,284
 adaderanalk | 7,992
 tamilmirrorlk | 9,387
 virakesarilk | 10,907
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,507 articles have been extended.
+61,973 (94.6%) of 65,508 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,7 +44,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ඉන්දියාවට ගුවන් අවකාශය වසාදමීමේ තීරණය පාකිස්තානය දීර්ඝ කරයි
+### ඉන්දියාවට ගුවන් අවකාශය වසාදැමීමේ තීරණය පාකිස්තානය දීර්ඝ කරයි
 
 *2025-07-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212406) · `si`
 
@@ -61,6 +61,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/195dec2e.json)
+
+---
+
+### මධ්‍යම කදුකරයට තද වැසි. විමල සුරේන්ද්‍ර ජලාශය වාන් දමයි
+
+*2025-07-19 10:11:10* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-කදුකරයට-තද-වැසි--විමල-සුරේන්ද්‍ර-ජලාශය-වාන්-දමයි/11-417381) · `si`
+
+නෝර්ටන්බ්‍රිජ් විමලසුරේන්ද්‍ර ජල පෝෂක ප්‍රදේශවලට (18) දින රාත්‍රියේ සිට ඇද හැලෙන අධික වර්ෂාව හේතුවෙන් විමලසුරේන්ද්‍ර ජලාශය (19) දින උදෑසන සිට වාන් දැමීමට පටන්ගෙන ඇත.
+
+ජලාශය වාන් දැමීමත් සමග කැලණිගගේ ජල මට්ටම තරමක් ඉහළ ගොස් ඇති බවයි නුවරඑලිය ආපදා කළමණාකරන ඒකකය කියා සිටියේ.
+
+මේ අතර, මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍රදේශවලට ඇද හැලෙන අධික වර්ෂාවත් සමග කාසල්රි සහ මාවුස්සාකැලේ ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වෙමින් පවතින බවත්, ජල මට්ටම ඉහළ යෑමත් සමග කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය සහ විමලසුරේන්දු යන ජල විදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බවයි එම ජලාශභාර ඉංජිනේරුවන් කියා සිටියේ.
+
+◼️
+
+[Data](articles/775a3668.json)
 
 ---
 
@@ -112,7 +128,7 @@ In the region, China and Maldives signed a bilateral agreement in agriculture, l
 
 ---
 
-### Bus carrying 20 Sri Lankan workers catches fire in Israel  – Ambassador
+### Bus carrying 20 Sri Lankan workers catches fire in Israel; no serious injuries – Ambassador
 
 *2025-07-19 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110614/bus-carrying-20-sri-lankan-workers-catches-fire-in-israel-ambassador) · `en`
 
@@ -1793,19 +1809,5 @@ Thereby, the opportunity provided based on the 2018 guidelines to obtain financi
 ...
 
 [Data](articles/107abc20.json)
-
----
-
-### චන්ද්‍රාණි බණ්ඩාරට එරෙහි නඩුව ලබන 28දා කැඳවයි
-
-*2025-07-18 15:08:00* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රාණි-බණ්ඩාරට-එරෙහි-නඩුව-ලබන-28දා-කැඳවයි/11-417375) · `si`
-
-නිසි ක්‍රියා පටිපාටිය අනුගමනය කිරීමකින් තොරව වියළි කළාප සංවර්ධන ව්‍යාපෘතියේ අධ්‍යක්‍ෂ ජනරාල්ධුරයට පුද්ගලයකු පත් කිරීම සහ නීතී්‍යානුකූල නොවන ආකාරයට එහි ව්‍යාපෘති වලට සිය හිතවතුන් පත් කිරීමට අමාත්‍යාංශ ලේකම්වරයා පෙළඹවීම මඟින් දඬුවම් ලැබිය යුතු වැරදි කළ බවට චෝදනා කරමින් හිටපු කාන්තා සහ ළමා කටයුතු අමාත්‍යවරිය සහ වියළි කළාප සංවර්ධන අමාත්‍යවරිය ලෙස කටයුතු කළ චන්දාණී බණ්ඩාර මහත්මියට එරෙහිව අල්ලස් කොමිසම පවරා ඇති නඩුව ලබන 28 වැනිදා කැඳවීමට කොළඹ මහාධිකරණ විනිසුර සහන් මාපා බණ්ඩාර මහතා අද (18) නියම කළේය.
-
-මීට වසර 06කට පෙර එනම් 2019 වසරේ හිටපු කාන්තා සහ ළමා කටයුතු අමාත්‍යවරිය සහ වියළි කළාප සංවර්ධන අමාත්‍යවරිය ලෙස කටයුතු කරමින් අල්ලස් පණතේ 70 වැන වගන්තිය යටතේ දැක්වෙන ‘දුෂණය’ නමැති වැරදි කළ බවට විත්තිකාර අමාත්‍යවරියට එරෙහිව චෝදනා 11ක් යටතේ අල්ලස් කොමිසම පවරා ඇති නඩුව කැඳවු අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව විනිසුරුවරයා එලෙස නියම කළේය.
-
-...
-
-[Data](articles/cbda49fe.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 21:18:04**
+As of **2025-07-19 21:31:35**
 
 ## Newspaper Stats
 
@@ -139,6 +139,8 @@ Trump has said he parted ways with Epstein before the financier’s legal troubl
 *2025-07-19 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212420) · `si`
 
 UPDATE - මීමුරේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් පෙරළීමෙන් සිදුවූ අනතුරින් තවත් පුද්ගලයෙකු මියගොස් ඇති බව වාර්තා වේ.
+
+අනතුරින් අවුරුදු 05ක ළමයෙක් සහ තවත් දෙදෙනෙකු තෙල්දෙණිය රෝහලට ඇතුළත් කර ඇතැයිද සඳහන් වේ.
 
 හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් අනතුරකට ලක්වීමෙන් පුද්ගලයින් දෙදෙනෙකු මිය ගොස් තිබේ.
 

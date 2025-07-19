@@ -1,36 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 08:47:41**
+As of **2025-07-19 09:21:12**
 
 ## Newspaper Stats
 
-*Scraped **65,491** Articles*
+*Scraped **65,498** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 583
-colombotelegraphcom | 668
+colombotelegraphcom | 669
 bbccomsinhala | 677
 islandlk | 4,001
 economynextcom | 4,009
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,282
-adaderanalk | 7,988
-tamilmirrorlk | 9,384
+adaderanalk | 7,991
+tamilmirrorlk | 9,385
 virakesarilk | 10,907
-adaderanasinhalalk | 11,248
+adaderanasinhalalk | 11,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,491 articles have been extended.
+61,973 (94.6%) of 65,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### தெஹிவளை துப்பாக்கிச்சூடு குறித்து வெளியான அதிர்ச்சி செய்திகள்
+
+*2025-07-19 08:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெஹிவளை-துப்பாக்கிச்சூடு-குறித்து-வெளியான-அதிர்ச்சி-செய்திகள்/175-361351) · `ta`
+
+தெஹிவளை ரயில் நிலையத்திற்கு அருகில் நேற்று காலை  நடந்த துப்பாக்கிச் சூட்டில் பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள், பிலியந்தலை மாற்று வீதியில் உள்ள கோவில் ஒன்றுக்கு முன்பாக கைவிடப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+மோட்டார் சைக்கிளில் இணைக்கப்பட்டிருந்த இலக்கத் தகடு ஒரு காருக்கு பதிவு செய்யப்பட்டது என விசாரணையில் தெரியவந்துள்ளது.
+
+கொழும்பு கைரேகைத் துறையைச் சேர்ந்த அதிகாரி சம்பவ இடத்திற்கு வந்து மேலதிக விசாரணைகளை மேற்கொண்டார்.
+
+இந்த துப்பாக்கிச் சூட்டில் வெள்ளவத்தையைச் சேர்ந்த 46 வயதுடைய சுதத் குமார் காயமடைந்த நிலையில், அவரது நிலை கவலைக்கிடமாக இல்லை என களுபோவில வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.
+
+சிசிடிவி காட்சிகளின்படி, துப்பாக்கிச் சூடு நடத்தியவர் எந்த இடையூறும் இல்லாமல் நடந்து சென்று, காரின் சாரதி இருக்கையில் இருந்த சுதத் குமார் மீது நான்கு முறை துப்பாக்கியால் சுட்டார்.
+
+இதில் இரண்டு குண்டுகள் அவரது தோள்பட்டை மற்றும் வயிற்றில் பட்டன. மற்றவை காரைத் தாக்கின. தாக்குதலுக்குப் பிறகு, துப்பாக்கிச் சூடு நடத்தியவர் மற்றொரு நபருடன் மோட்டார் சைக்கிளில் தப்பிச் சென்றார்.
+
+...
+
+[Data](articles/f81dc3bf.json)
+
+---
+
+### රුවන්වැල්ලේ වාහන ගමනාගමනය සීමා කිරීමක් ගැන පොලීසියෙන් දැනුම්දීමක්
+
+*2025-07-19 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212402) · `si`
+
+රුවන්වැල්ල පොලිස් වසමේ යටන්වල ස්වර්ණ වාලුකාරාම විහාරස්ථානයේ වාර්ෂික ඇසල පෙරහර මංගල්‍ය අද (19) රාත්‍රී 10:00 සිට මධ්‍යම රාත්‍රී 12:00 දක්වා වීථී සංචාරය කිරීමට නියමිතව තිබේ.
+
+මෙම පෙරහැර ස්වර්ණ වාලුකාරාම විහාරස්ථානය අසලින් ගමන් ආරම්භ කර කෑගල්ල කරවනැල්ල මාර්ගය ඔස්සේ කරවනැල්ල දෙස සිට පැමිණ, රුවන්වැල්ල රාජසිංහ විදුහල ඉදිරිපිටින් ආපසු හැරී පැමිණි මාර්ගය ඔස්සේම නැවතත් ස්වර්ණ වාලුකාරාම විහාරස්ථානය වෙත ගමන් කිරීමට නියමිතය.
+
+මෙම කාලසීමාව තුළදී මෙම මාර්ගය භාවිත කරනු ලබන රියදුරන්ට පහත විකල්ප මාර්ග භාවිත කරන මෙන් පොලීසිය ඉල්ලා සිටී.
+
+පෙරහැර ගමන් කරන කාලය තුළදී මධ්‍යම රාත්‍රී 12:00 දක්වා මාර්ගය වරාවල හන්දියෙන් සහ තල්දූව හන්දියෙන් ගමනාගමනය සීමා කිරීමට කටයුතු කරන බවද පොලීසිය පවසයි.
+
+කෑගල්ල දෙස සිට අවිස්සාවේල්ල දෙසට පැමිණෙන වාහන වරාවල හන්දියෙන් බුලත්කොහුපිටිය දෙසට හැරී පරුස්සැල්ල යටියන්තොට මාර්ගයේ ගමන්කර හැටන් කොළඹ ප්‍රධාන මාර්ගයට පිවිස අවිස්සාවේල්ල දක්වා ගමන් කළ හැකිය.
+
+...
+
+[Data](articles/1199ee1b.json)
+
+---
+
+### Temporary driving licenses for tourists to be issued at BIA
+
+*2025-07-19 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110613/temporary-driving-licenses-for-tourists-to-be-issued-at-bia-) · `en`
+
+The Department of Motor Traffic (DMT) has announced that a new system for issuing temporary driving licenses to tourists arriving in Sri Lanka will be launched at the Bandaranaike International Airport (BIA) in Katunayake starting in August.
+
+Commissioner General of the DMT, Kamal Amarasinghe, stated that the program is currently in its final stages of implementation.
+
+He further noted that several legal procedures related to the initiative are being finalized, and once completed, the system will be operational.
+
+Under this new program, temporary driving licenses will be issued for durations of either 14 or 30 days, he said.
+
+Additionally, Amarasinghe mentioned that tourists who intend to stay in the country for an extended period will have the option of obtaining a regular driving license, valid for up to eight years.
+
+◼️
+
+[Data](articles/962f202b.json)
+
+---
+
+### Economics or entrepreneurship must serve humanity, not just wealth – PM
+
+*2025-07-19 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110612/economics-or-entrepreneurship-must-serve-humanity-not-just-wealth-pm-) · `en`
+
+The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, stated that despite societal tendencies to prioritize monetary value, economics and entrepreneurship should be disciplines rooted in humanity, and the concept of a “care economy” serves as a good example of this approach.
+
+The Prime Minister made these remarks while participating in a program held yesterday (18) at the Ministry of Education to inform officials about the development of modules for financial literacy and entrepreneurship, which are included as subjects under the new educational reforms, according to the Prime Minister’s Media Division.
+
+...
+
+[Data](articles/56956925.json)
+
+---
+
+### US envoy says Syria and Israel agree to ceasefire as Druze minority and Bedouin clans clash in Syria
+
+*2025-07-19 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110611/us-envoy-says-syria-and-israel-agree-to-ceasefire-as-druze-minority-and-bedouin-clans-clash-in-syria) · `en`
+
+U.S. envoy to Syria Tom Barrack said early Saturday that Israel and Syria had agreed to a ceasefire following Israel’s intervention this week in fighting between Syrian government forces and rival armed groups.
+
+The announcement came as renewed clashes erupted between Druze groups and Bedouin clans and Syria’s president said he would send troops back in to quell the fighting, which has left tens of thousands of people displaced in a worsening humanitarian crisis.
+
+Barrack said in a statement posted on social platform X that the new ceasefire between Israel and Syria was supported by Turkey, Jordan and other neighboring countries and called for “Druze, Bedouins, and Sunnis to put down their weapons and together with other minorities build a new and united Syrian identity in peace and prosperity with its neighbors.”
+
+...
+
+[Data](articles/03a27cdf.json)
+
+---
+
+### කටුනායක ගුවන්තොටුපොළ අවට සරුංගල් යැවීමෙන් වළකින්න
+
+*2025-07-19 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212401) · `si`
+
+කටුනායක ගුවන්තොටුපොළ කලාපය තුළ සරුංගල් යැවීමෙන් වළකින ලෙස ගුවන්තොටුපොළ කළමනාකරණ අංශ ප්‍රධානී අරුණ රාජපක්ෂ මහතා ජනතාවගෙන් ඉල්ලා සිටියේය.
+
+ඔහු පවසා සිටියේ, මෙය නොසලකා හරින පුද්ගලයින්ට එරෙහිව නීතිමය පියවර ගන්නා බවය.
+
+"ගුවන්තොටුපොළ අවට සරුංගල් යැවීම මගින් ගුවන් යානාවලට, ගුවන් මගීන්ගේ ජීවිතවලට දැඩි අවදානම් තත්ත්වයක් ඇතිවෙලා තියෙනවා.
+
+එමනිසා අපි ඉල්ලා සිටිනවා ගුවන්තොටුපොළ අවට ප්‍රදේශය තුළ සරුංගල් යැවීමෙන් වළකින ලෙස.
+
+ඒ වගේම අඩි 300ට වඩා වැඩි ඉහළකින් සරුංගල් යැවීම සිදුවුවහොත් ඒ සඳහා නිත්‍යනුකූල ක්‍රියාමාර්ග ගැනීමට සිදුවෙනවා" යනුවෙන් පැවසීය.
+
+◼️
+
+[Data](articles/92cc1afb.json)
+
+---
 
 ### இன்று மழை பெய்யக்கூடும்
 
@@ -145,6 +257,18 @@ The general public has been requested to take adequate precautions to minimize d
 ...
 
 [Data](articles/90fcec68.json)
+
+---
+
+### Behind Closed Doors: The Politics Of Education Reform
+
+*2025-07-19 01:56:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/behind-closed-doors-the-politics-of-education-reform/) · `en`
+
+Transparency should be a fundamental principle of any governing body. During the election campaign, the now-ruling party strongly criticized the previous government for its lack of transparency and alleged corruption. They pledged that, if elected, they would lead with openness and accountability. Transparency is essential not only to combat corruption and fraud but also to foster active public participation in the democratic process. When a government engages in national policy-making, it must listen to the people and integrate their perspectives into decision-making.
+
+...
+
+[Data](articles/39bd1cbc.json)
 
 ---
 
@@ -1673,129 +1797,5 @@ It is very difficult to take revolutionary steps, especially in a field like edu
 ...
 
 [Data](articles/d5d6d391.json)
-
----
-
-### நாயின் உயிரை காப்பாற்ற முயன்ற சிறுவன் விபத்தில் சிக்கி உயிரிழப்பு
-
-*2025-07-18 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220292) · `ta`
-
-இந்தியாவின் பிலாய் நகர் பகுதியில் நாய் ஒன்றின் உயிரை காப்பாற்ற முயன்ற சிறுவன் விபத்தில் சிக்கி உயிரிழந்துள்ளதாக அந்நாட்டு ஊடகங்கள் தெரிித்துள்ளன.
-
-குறித்த சிறுவன், வீதியில் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த போது குறுக்கே பாய்ந்த நாயை காப்பாற்ற வீதியின் இடதுபக்கம் மோட்டார் சைக்கிளை திருப்பியுள்ளார்.
-
-இதன்போது மோட்டார் சைக்கிளின் பின்புறத்தில் நாய் மோதியுள்ள நிலையில் சிறுவனின் கட்டுப்பாட்டை இழந்த மோட்ாடர் சைக்கிள் அருகில் உள்ள குழியில் விழுந்துவிபத்துக்குள்ளாகியுள்ளது.
-
-பலத்த காயமடைந்த சிறுவனை, அந்த வழியாகச் சென்ற மூன்று மோட்டார் சைக்கிள் ஓட்டுநர்கள் குழு, வைத்தியசாலைக்கு கொண்டு சென்ற போது , சிறுவன் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/1a14f739.json)
-
----
-
-### ஹட்டன் கடையில் பாரிய தீ
-
-*2025-07-18 13:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-கடையில்-பாரிய-தீ/76-361317) · `ta`
-
-ஹட்டன் நகரில் உள்ள ஒரு தெருவில் உள்ள ஒரு காலணி கடையில் வெள்யிக்கிழமை(18) மதியம் 1  மணியளவில் தீ விபத்து ஏற்பட்டது.
-
-கடை மூடப்பட்டிருந்த நேரத்தில் ஏற்பட்ட தீ வேகமாகப் பரவியது, மேலும் ஹட்டன்- டிக்கோயா நகராட்சி மன்ற தீயணைப்புத் துறை அதிகாரிகள் தீ பரவலைக் கட்டுப்படுத்த நடவடிக்கை எடுத்தனர்.
-
-தீ விபத்தில் யாருக்கும் காயம் ஏற்படவில்லை, மேலும் தீ விபத்து குறித்து விசாரணை நடத்தி வரும் ஹட்டன் காவல்துறையினர், தீ விபத்துக்கான காரணம் இன்னும் தெரியவரவில்லை என்று தெரிவித்தனர்.
-
-தீ விபத்தால் ஏற்பட்ட சேதம் இன்னும் மதிப்பிடப்படவில்லை, மேலும் தீ விபத்து ஏற்பட்ட ஹட்டன் தெருவை தற்காலிகமாக மூட ஹட்டன் காவல்துறை நடவடிக்கை எடுத்துள்ளது.
-
-◼️
-
-[Data](articles/194e2b4e.json)
-
----
-
-### Tea traders call for legal action against low-quality production practices
-
-*2025-07-18 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110601/tea-traders-call-for-legal-action-against-low-quality-production-practices) · `en`
-
-A meeting was held yesterday (17) at the Presidential Secretariat between the Secretary to the President, Dr. Nandika Sanath Kumanayake, and officials from institutions related to the tea industry.
-
-The discussion reviewed the issues that have emerged within Sri Lanka’s tea industry. Special attention was paid to improving the quality of tea leaves, the productivity of tea cultivation, and exploring new international market opportunities, according to the President’s Media Division (PMD).
-
-The challenges faced by tea manufacturers were also discussed, and Dr. Kumanayake instructed officials to provide constructive solutions to these issues.
-
-The importance of implementing various programmes for the capacity development of small tea estate owners was also discussed. During this, the necessity of drawing manufacturers’ attention to replanting tea was also deliberated.
-
-...
-
-[Data](articles/d2a9bbd5.json)
-
----
-
-### ට්‍රම්ප් ලෙඩ වෙයි
-
-*2025-07-18 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212380) · `si`
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්, නිදන්ගත රුධිර නාලිකා ආශ්‍රිත රෝගී තත්ත්වයකින් පීඩාවිඳින බව ධවල මන්දිරය නිවේදනය කරයි.
-
-ජනාධිපතිවරයාගේ දකුණු අත ඉදිමී තිබීම සම්බන්ධයෙන් බොහෝ පිරිස් ප්‍රශ්න කරමින් සිටි පසුබිමක ධවල මන්දිර මාධ්‍ය ලේකම් මාධ්‍ය ප්‍රකාශිකා කැරොලීන් ලෙවිට් මේ බව අනාවරණ කරයි.
-
-79 හැවිරිදි ජනාධිපතිවරයා මීට පෙර ඔහුගේ කකුල් ඉදිමීමෙන් පසු, පුළුල් පරීක්ෂණයකට භාජනය වූ බව ද වාර්තා වේ.
-
-නිතර තමාගේ යහපත් සෞඛ්‍යය ගැන පවසන ඔහු, වරක් "මෙතෙක් ජීවත් වූ සෞඛ්‍ය සම්පන්නම ජනාධිපතිවරයා" තමා ලෙස අර්ථකථනය කර තිබේ.
-
-◼️
-
-[Data](articles/efb35fa1.json)
-
----
-
-### දකුණු කොරියාවට අධික වැසි, හතරක් මරුට
-
-*2025-07-18 13:48:53* · [`adalk`](https://www.ada.lk/international/දකුණු-කොරියාවට-අධික-වැසි--හතරක්-මරුට/3-417374) · `si`
-
-දකුණු කොරියාවට ඇද හැලෙන ධාරානිපාත වර්ෂාව හේතුවෙන් පුද්ගලයින් සිව් දෙනෙකු මිය ගොස් 1,300 කට වැඩි පිරිසක් ඉවත් කර ඇති අතර, අකාලයේ ඇති වන ජලගැල්ම දිගටම පවතිනු ඇතැයි බලධාරීන් අනතුරු අඟවා ඇත.
-
-වාර්තාගත වර්ෂාපතනය හේතුවෙන් දකුණු කොරියානු රජය කාලගුණය ආශ්‍රිත ආපදා අනතුරු ඇඟවීම ඉහළම මට්ටමට ඉහළ නැංවීමට පෙළඹී ඇත.
-
-රටේ බටහිර වෙරළ තීරයේ දරුණුතම බලපෑමට ලක් වූ නගරය වන සියෝසන් හි දින භාගයක් තුළ මිලිමීටර් 400 කට වඩා වැඩි වර්ෂාපතනයක් වාර්තා වී තිබේ.
-
-කාලගුණ ඒජන්සිය පවසන්නේ එය වසර 100කට වරක් පමණ සිදුවූවක් ලෙසයි.
-
-◼️
-
-[Data](articles/21b8f319.json)
-
----
-
-### மானை சுட்டுக்கொன்ற மூவருக்கு விளக்கமறியல்
-
-*2025-07-18 13:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மானை-சுட்டுக்கொன்ற-மூவருக்கு-விளக்கமறியல்/76-361316) · `ta`
-
-நுவரெலியா சீதா எலிய வனவிலங்கு சரணாலயத்தில் சுற்றித் திரிந்த மானை சுட்டுக் கொன்று, ப்ரோடோ வகை ஜீப்பில் கொண்டு சென்ற மூன்று சந்தேக நபர்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-நுவரெலியா சீதா எலிய வனவிலங்கு சரணாலயத்தில் சுற்றித் திரிந்த மானை சுட்டுக் கொன்ற மூன்று சந்தேக நபர்களை நுவரெலியா பொலிஸ் போக்குவரத்து பிரிவு அதிகாரிகள் கைது செய்யப்பட்டு,   நுவரெலியா நீதவான் லங்கானி பிரபுத்திகா முன், வியாழக்கிழமை (17) ஆஜர்படுத்தினர்,   மூன்று சந்தேக நபர்களையும் ஜூலை 31 வரை விளக்கமறியலில் வைக்க நீதிபதி உத்தரவிட்டார்.
-
-குருநாகல் மற்றும் தங்கொட்டுவ பகுதிகளைச் சேர்ந்த 40 முதல் 50 வயதுக்குட்பட்ட மூன்று சந்தேக நபர்கள், தங்கள் ப்ரோடோ ஜீப்பில் நுவரெலியாவிற்கு வந்து, உரிமம் பெறாத 12 போரா துப்பாக்கியை பயன்படுத்தி மானை சுட்டுக் கொன்றுள்ளனர்.
-
-...
-
-[Data](articles/b49d51e5.json)
-
----
-
-### A Tax That Could Tarnish Our Gem Trade: Rethinking VAT On Foreign Gem Buyers
-
-*2025-07-18 13:47:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-tax-that-could-tarnish-our-gem-trade-rethinking-vat-on-foreign-gem-buyers/) · `en`
-
-Sri Lanka has long been a shining beacon in the global gem and jewellery trade. Our island’s rich heritage, skilled craftsmanship, and unmatched gem quality have drawn thousands of international buyers, collectors, and investors. For decades, the absence of sales tax on gem exports to foreign customers has helped sustain this delicate trade.
-
-However, the news that Value Added Tax (VAT) may soon be levied on gem sales to foreign buyers — even with the promise of a refund at the airport — poses a serious threat to this vital export industry.
-
-A gem or a piece of jewellery is not a basic necessity — it is a luxury, often bought after much thought and comparison. This makes pricing and convenience critical factors in the final decision.
-
-A foreign buyer purchasing gems worth $10,000 will have to pay an additional $1,800 upfront as VAT ( 18.%).
-
-...
-
-[Data](articles/6944ad73.json)
 
 ---

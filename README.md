@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 23:05:36**
+As of **2025-07-19 23:19:10**
 
 ## Newspaper Stats
 
-*Scraped **65,566** Articles*
+*Scraped **65,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,015
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,291
-adaderanalk | 8,005
+adaderanalk | 8,008
 tamilmirrorlk | 9,393
 virakesarilk | 10,918
 adaderanasinhalalk | 11,269
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,566 articles have been extended.
+61,973 (94.5%) of 65,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### Goal is to reduce number of students in a classroom to 25-30: PM Harini
+
+*2025-07-19 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110631/goal-is-to-reduce-number-of-students-in-a-classroom-to-25-30-pm-harini) · `en`
+
+The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, stated that the government’s goal is to limit the number of students in a classroom to between 25 to 30, emphasizing that it is not possible to deliver quality education in classrooms with around 50-60 students.
+
+The Prime Minister made these remarks while participating in a program held today (July 19) at the Dakshinapaya Auditorium in Galle, organized to raise awareness among education authorities in the Southern Province regarding the new education reforms, the Prime Minister’s Media Division said in a statement.
+
+The Prime Minister Harini Amarasuriya also emphasized that the new education reform is not only about updating the curriculum but also about enhancing teacher professionalism, reforming the educational administrative structure, and developing the necessary infrastructure to ensure all children have access to equal and quality education.
+
+...
+
+[Data](articles/0592e64f.json)
+
+---
 
 ### අධ්‍යාපන පීඨවල ගුණාත්මකභාවය ඉහළ නැංවීමට අවධානය
 
@@ -47,6 +63,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bda00760.json)
+
+---
+
+### Senior DIG Nilantha Jayawardena dismissed from service
+
+*2025-07-19 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110630/senior-dig-nilantha-jayawardena-dismissed-from-service) · `en`
+
+The National Police Commission has decided to remove former State Intelligence Service (SIS) chief, Senior DIG Nilantha Jayawardena, from the Sri Lanka Police service following a disciplinary inquiry into his actions prior to the Easter Sunday bomb attacks.
+
+The former SIS Chief was placed on compulsory leave by the National Police Commission (NPC) in July 2024, pending an internal investigation into allegations of misconduct during his tenure.
+
+According to a formal disciplinary investigation report submitted to the NPC on July 4, 2025, by a three-member tribunal, Nilantha Jayawardena was found guilty of all charges mentioned in the charge sheet.
+
+Accordingly, taking into account the seriousness of the offences, the National Police Commission, which convened on July 17, 2025, officially decided to dismiss Senior DIG Nilantha Jayawardena from service with immediate effect.
+
+Senior DIG Nilantha Jayawardena Dismissed From Service by Dulmini Imalsha on Scribd
+
+...
+
+[Data](articles/8eb4d9ce.json)
+
+---
+
+### Three dead and 3 injured as van topples down precipice
+
+*2025-07-19 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110629/three-dead-and-3-injured-as-van-topples-down-precipice) · `en`
+
+A total of three persons, including two women, have reportedly died after a van veered off the road and toppled down a precipice in the Karambaketiya area of Ududumbara, Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler said.
+
+Meanwhile, a five-year-old child and two others have sustained injuries in the accident and were admitted to the Udadumbara and Teldeniya Hospitals for treatment.
+
+The deceased have been identified as residents of Kadawatha and Mirigama, aged between 35 and 40 years.
+
+According to reports, six people were travelling in the van from Kadawatha to Meemure at the time of the incident.
+
+The Police Media Spokesperson further stated that one of the deceased women was driving the van when the accident occurred.
+
+◼️
+
+[Data](articles/8025352a.json)
 
 ---
 
@@ -1797,59 +1853,5 @@ The dangers of an overly broad definition go beyond conviction and increased pun
 ...
 
 [Data](articles/2509d42b.json)
-
----
-
-### பி அடுக்கு 50 ஓவர் கிரிக்கெட்டில் SSC சம்பியனானது
-
-*2025-07-18 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/220356) · `ta`
-
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்டுவந்த பி  அடுக்கு   கழகங்களுக்கு இடையிலான 50 ஓவர் கிரிக்கெட் சுற்றுப் போட்டியில் சிங்களவர் விளையாட்டுக் கழகம் (SSC) சம்பியனானது.
-
-எஸ்எஸ்சி மைதானத்தில் இன்று வெள்ளிக்கிழமை (18) நடைபெற்ற இறுதிப் போட்டியில் மொறட்டுவை விளையாட்டுக் கழகத்தை 4 விக்கெட்களால் வெற்றிகொண்டு எஸ்எஸ்சி சம்பியன் கிண்ணத்தை சுவீகரித்ததுடன் 10 இலடசம் ரூபா பணப்பரிசையும் தனதாக்கிக்கொண்டது.
-
-ப்ரபாத் ஜயசூரியவின் மிகச் சிறப்பான பந்துவீச்சு, நுவனிது பெர்னாண்டோவின் அரைச் சதம் ஆகியவற்றின் உதவியுடன் எஸ்எஸ்சி 9.2 ஓவர்கள் மீதம் இருக்க மிக இலகுவாக வெற்றிபெற்று சம்பியனானது.
-
-மொறட்டுவை விளையாட்டுக் கழகம் சார்பாக 10ஆம் இலக்க வீரர் குவித்த அபார அரைச் சதம் இறுதியில் வீண்போனது.
-
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட மொறட்டுவை விளையாட்டுக் கழகம் 49.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 210 ஓட்டங்களைப் பெற்றது.
-
-...
-
-[Data](articles/4b87ac9f.json)
-
----
-
-### අමෙරිකාවේ පිපිරීමකින් පොලිස් නිලධාරීන් තිදෙනෙකු මරුට
-
-*2025-07-18 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212397) · `si`
-
-අමෙරිකාවේ ලොස් ඇන්ජලීස් හී ප්‍රාන්ත ෂෙරීෆ් දෙපාර්තමේන්තුවේ පුහුණු මධ්‍යස්ථානයක සිදුවූ පිපිරීමකින් මේ වන විට පොලිස් නිලධාරීන් තිදෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-පිපිරීමට හේතුව කුමක්ද යන්න මෙතෙක් අනාවරණය වී නොමැති අතර එම දෙපාර්තමේන්තුවේ වාහන නැවැත්වීමේ ස්ථානයක මෙම පිපිරුම සිදුව ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-කෙසේ වෙතත් මෙම පිපිරීම සම්බන්ධව බලධාරීන් මේ වන විට විමර්ශන ආරම්භ කර ඇති අතර පිපිරීමේන් සමස්ත තුවාලකරුවන් සහ මියගිය පිරිස ‍සම්බන්ධව මේ වන විට අනාවරණය වී නොමැත.
-
-◼️
-
-[Data](articles/cdf3ac12.json)
-
----
-
-### At least 3 dead after explosion at LA County Sheriff’s Department training facility
-
-*2025-07-18 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110609/at-least-3-dead-after-explosion-at-la-county-sheriffs-department-training-facility) · `en`
-
-At least three people have died in an explosion at a Los Angeles County Sheriff’s Department’s training facility on Friday morning, according to US Attorney General Pam Bondi.
-
-“I just spoke to (US Attorney Bill Essayli) about what appears to be a horrific incident that killed at least three at a law enforcement training facility in Los Angeles,” Bondi said in a post on X. “Our federal agents are at the scene and we are working to learn more. Please pray for the families of the sheriff’s deputies killed.”
-
-The explosion happened at the LASD’s Biscailuz Training Center, which houses the sheriff’s department’s special enforcement units and bomb squad, around 7:30 a.m. local time, a senior law enforcement source familiar with the incident told CNN.
-
-The FBI is responding to assist with the incident, according to the FBI’s Los Angeles field office. Agents with the Bureau of Alcohol, Tobacco, Firearms and Explosives are also on scene, according to Bondi.
-
-...
-
-[Data](articles/5195a7bc.json)
 
 ---

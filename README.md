@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 20:47:16**
+As of **2025-07-19 21:05:55**
 
 ## Newspaper Stats
 
-*Scraped **65,559** Articles*
+*Scraped **65,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,290
 adaderanalk | 8,004
-tamilmirrorlk | 9,390
+tamilmirrorlk | 9,391
 virakesarilk | 10,918
-adaderanasinhalalk | 11,267
+adaderanasinhalalk | 11,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,559 articles have been extended.
+61,973 (94.5%) of 65,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### ஹட்டனில்  மண்மேடு சரிந்து விழுந்தது
+
+*2025-07-19 20:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-மண்மேடு-சரிந்து-விழுந்தது/76-361370) · `ta`
+
+கடும் மழையுடனான வானிலை காரணமாக ஹட்டன் - சமனலகம பகுதியிலுள்ள வீடொன்றின் மீது இன்று அதிகாலை மண்மேடு சரிந்து விழுந்துள்ளது.
+
+மண்மேடு சரிந்து விழுந்ததில் வீட்டின் சுவர்கள் இடிந்து விழுந்து சேதம் ஏற்பட்டுள்ளதாக வீட்டு உரிமையாளர் தெரிவித்தார்.
+
+கடும் மழை காரணமாக பாதுகாப்பான இடத்துக்கு செல்லுமாறு அக்குடும்பத்தினருக்கு ஹட்டன் - டிக்கோயா நகரசபையால் அறிவுறுத்தப்பட்டுள்ளது என தெரிவிக்கப்படுகின்றது.
+
+ஹட்டன், சமனலகல வீடமைப்பு பகுதி மண்சரிவு அபாயமிக்க பகுதியென அடையாளம் காணப்பட்டுள்ளது. இப்பகுதியில் உள்ள சிலருக்கு ஹட்டனில் வேறு  இடங்கள் வழங்கப்பட்டுள்ளன என்பது குறிப்பிடதக்கது. R
+
+◼️
+
+[Data](articles/20831e40.json)
+
+---
+
+### නිලන්ත ජයවර්ධන පොලිස් සේවයෙන් නෙරපයි
+
+*2025-07-19 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212421) · `si`
+
+රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතා පොලිස් සේවයෙන් නෙරපා හැරීමට ජාතික පොලිස් කොමිෂම තීරණය කර තිබේ.
+
+අද දෙරණ සිදුකළ විමසීමකට ප්‍රතිචාර දක්වමින් ජාතික පොලිස් කොමිෂන් සභාව මේ බව තහවුරු කළේය.
+
+◼️
+
+[Data](articles/af02b3ec.json)
+
+---
 
 ### ஜனாதிபதி மாளிகைகள் மக்கள் நலனுக்காக பயன்படும் – அமைச்சர் இராமலிங்கம் சந்திரசேகர்
 
@@ -1815,47 +1847,5 @@ Although unthinkable for those who are focused only on history, a possible futur
 ...
 
 [Data](articles/dd4de4f4.json)
-
----
-
-### கிருலப்பனையில் 21 இந்திய பிரஜைகள் திடீர் கைது
-
-*2025-07-18 21:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிருலப்பனையில்-21-இந்திய-பிரஜைகள்-திடீர்-கைது/175-361343) · `ta`
-
-கிருலப்பனை பகுதியில் உள்ள வீடு ஒன்றில்  சட்டவிரோதமாக தங்கியிருந்த 21 இந்திய பிரஜைகள் இன்று (18) காலை குடிவரவு மற்றும் குடியகல்வுத் திணைக்கள புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டனர்.
-
-இவர்கள் சுற்றுலா விசாக்களில் இலங்கைக்கு வந்து, விசா காலாவதியான பின்னரும் கிருலப்பனை பகுதியில் உள்ள வீடு ஒன்றில் சட்டவிரோதமாக தங்கியிருந்து இணையவழி சூதாட்ட மோசடியை மேற்கொண்டதாக தெரியவந்துள்ளது.
-
-குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் இடர் மதிப்பீட்டுப் பிரிவு அதிகாரிகள் தரவுகளைப் பகுப்பாய்வு செய்து இந்தக் குழுவைக் கண்டறிந்து கைது செய்தனர்.
-
-கைது செய்யப்பட்ட இந்திய பிரஜைகளை உடனடியாக இந்தியாவுக்கு நாடு கடத்துவதற்காக, வெலிசர தடுப்பு மையத்தில் தடுத்து வைக்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக குடிவரவு மற்றும் குடியகல்வுத் திணைக்கள புலனாய்வுப் பிரிவு தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/6098de76.json)
-
----
-
-### Motorcycle used in Dehiwala shooting found abandoned
-
-*2025-07-18 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110608/motorcycle-used-in-dehiwala-shooting-found-abandoned) · `en`
-
-The motorcycle suspected to have been used in the Dehiwala shooting incident this morning (18) has been found abandoned on the roadside in front of a temple on the Piliyandala alternative road.
-
-According to the Dehiwala Police, the motorcycle was discovered along with a red-colored safety helmet.
-
-Police stated that a Special Task Force (STF) intelligence officer had noticed the motorcycle at the location at around 1:30 p.m. and promptly alerted a senior police officer.
-
-Further investigations revealed that the number plate affixed to the motorcycle was already registered to a car.
-
-Officers from the Colombo Fingerprint Department also visited the scene and conducted forensic investigations, said Ada Derana reporter.
-
-The shooting occurred near the Dehiwala Railway Station earlier today.
-
-One individual sustained a gunshot injury to his leg and was admitted to the Colombo South Teaching Hospital in Kalubowila, said Ada Derana reporter.
-
-...
-
-[Data](articles/886bd363.json)
 
 ---

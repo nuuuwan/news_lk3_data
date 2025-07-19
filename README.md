@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 10:24:46**
+As of **2025-07-19 10:37:26**
 
 ## Newspaper Stats
 
-*Scraped **65,504** Articles*
+*Scraped **65,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,011
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,283
-adaderanalk | 7,991
+adaderanalk | 7,992
 tamilmirrorlk | 9,386
 virakesarilk | 10,907
 adaderanasinhalalk | 11,252
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,504 articles have been extended.
+61,973 (94.6%) of 65,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,28 @@ In the region, China and Maldives signed a bilateral agreement in agriculture, l
 ◼️
 
 [Data](articles/355ad21c.json)
+
+---
+
+### Bus carrying 20 Sri Lankan workers catches fire in Israel  – Ambassador
+
+*2025-07-19 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110614/bus-carrying-20-sri-lankan-workers-catches-fire-in-israel-ambassador) · `en`
+
+A bus transporting 20 Sri Lankan youths employed in the agricultural sector in Israel caught fire last morning (18) near Kiryat Malakhi, according to Sri Lanka’s Ambassador to Israel, Nimal Bandara.
+
+The bus was completely destroyed in the blaze. However, all 20 Sri Lankans on board managed to escape unharmed by breaking the windows, as the door had become blocked due to the fire.
+
+One individual sustained a leg injury during the incident and has been hospitalized. His condition is reported to be non-serious, the Ambassador confirmed.
+
+The relevant authorities in Israel have launched an investigation into the cause of the fire.
+
+Meanwhile, the remaining members of the group have resumed their normal daily activities.
+
+“We wish the young man who was hospitalized a speedy recovery,” Ambassador Bandara added.
+
+◼️
+
+[Data](articles/c20f3702.json)
 
 ---
 
@@ -1791,23 +1813,5 @@ Sri Lanka Treasuries yields edge up, low take up 3-month bills
 ◼️
 
 [Data](articles/eea203a2.json)
-
----
-
-### தரம் குறைந்த தேயிலைகளை உற்பத்தி செய்யும் தொழிற்சாலைகளுக்கு எதிராக சட்டத்தை கடுமையாக்குமாறு உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை
-
-*2025-07-18 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220300) · `ta`
-
-தரம் குறைந்த தேயிலைகளை உற்பத்தி செய்யும் தொழிற்சாலைகளுக்கு எதிராக சட்டத்தை கடுமையாக அமுல்படுத்துமாறு தேயிலை உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுத்ததுள்ளது.
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் தேயிலைத் தொழிற்துறை சார்ந்த நிறுவனங்களின் அதிகாரிகளுக்கும் இடையிலான கலந்துரையாடல் வியாழக்கிழமை (17) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-இந்நாட்டின் தேயிலைத் தொழிற்துறை தொடர்பில் எழுந்துள்ள பிரச்சினைகள் தொடர்பில் இங்கு மீளாய்வு செய்யப்பட்டதுடன், தேயிலைக் கொழுந்துகளின் தரம் மற்றும் தேயிலை பயிர்ச்செய்கையின் உற்பத்தித்திறனை அதிகரித்தல், புதிய சர்வதேச சந்தை வாய்ப்புகளை கண்டறிதல் ஆகிய விடயங்கள் குறித்து  விசேட கவனம் செலுத்தப்பட்டது.
-
-தேயிலைத் தொழில்துறையினர் எதிர்நோக்கும் பிரச்சினைகள் குறித்தும் இதன்போது கலந்துரையாடப்பட்டதுடன், அவற்றிற்கு சாதகமான தீர்வுகளை வழங்குமாறும் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
-
-...
-
-[Data](articles/420449ab.json)
 
 ---

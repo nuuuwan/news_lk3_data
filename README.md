@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 18:29:45**
+As of **2025-07-19 18:55:02**
 
 ## Newspaper Stats
 
-*Scraped **65,553** Articles*
+*Scraped **65,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,289
 adaderanalk | 8,003
 tamilmirrorlk | 9,390
 virakesarilk | 10,917
-adaderanasinhalalk | 11,265
+adaderanasinhalalk | 11,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,553 articles have been extended.
+61,973 (94.5%) of 65,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතුයි - මැදගම ධම්මානන්ද හිමි
+
+*2025-07-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212419) · `si`
+
+ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතු බව අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමි පවසයි.
+
+උන්වහන්සේ පෙන්වා දෙනුයේ ආර්ථික වශයෙන් ප්‍රතිලාභයක් නොලැබෙන බව සදහන් කරමින් එම විෂයන් ප්‍රතික්ෂේප කිරීමට ඇතැම් පාර්ශව කටයුතු කිරීම අනුමත කළ නොහැකි බවය.
+
+අද (19) පෙරවරුවේ දයාසිරි ජයසේකර මන්ත්‍රීවරයා උන්වහන්සේ බැහැදැකීමට පැමිණි අවස්ථාවේදී අදහස් දක්වමින් පූජ්‍ය මැදගම ධම්මානන්ද හිමි මේ බව සදහන් කර තිබේ.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමි
+
+...
+
+[Data](articles/48601444.json)
+
+---
 
 ### ரேக்ளா பந்தய பின்னணியில் உருவாகும் ' சோழ நாட்டான்'
 
@@ -1851,19 +1869,5 @@ Elevare is a publication of Business Media International chaired by Ms. Manori H
 ...
 
 [Data](articles/afa08631.json)
-
----
-
-### Celebrating World Youth Skills Day – empowering the nation through skilled youth
-
-*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/celebrating-world-youth-skills-day-empowering-the-nation-through-skilled-youth/) · `en`
-
-Youth skills are vital for a country’s development, drive innovation, economic growth, and social progress. Equipping young people with the right skills enables them to participate fully in the economy and contribute to a more prosperous and equitable future.
-
-According to World Bank estimates, the youth unemployment rate in Sri Lanka for 2024 was 22.32% representing the total labour force percentage aged 15-24 who are without work but actively seeking employment.
-
-...
-
-[Data](articles/bc4ff030.json)
 
 ---

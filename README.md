@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 10:37:26**
+As of **2025-07-19 10:51:46**
 
 ## Newspaper Stats
 
-*Scraped **65,505** Articles*
+*Scraped **65,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,283
 adaderanalk | 7,992
-tamilmirrorlk | 9,386
+tamilmirrorlk | 9,387
 virakesarilk | 10,907
-adaderanasinhalalk | 11,252
+adaderanasinhalalk | 11,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,505 articles have been extended.
+61,973 (94.6%) of 65,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### கருணாநிதியின் மூத்த மகன் காலமானார்
+
+*2025-07-19 10:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருணாநிதியின்-மூத்த-மகன்-காலமானார்/175-361353) · `ta`
+
+தமிழ்நாட்டின் முன்னாள் முதலமைச்சர் கலைஞர் கருணாநிதியின் மூத்த மகனுமான மு.க. முத்து உடல்நல குறைவால் காலமானதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/9a250726.json)
+
+---
+
+### ඉන්දියාවට ගුවන් අවකාශය වසාදමීමේ තීරණය පාකිස්තානය දීර්ඝ කරයි
+
+*2025-07-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212406) · `si`
+
+ඉන්දීය ගුවන්සේවා මගින් ක්‍රියාත්මක කරන ගුවන් ගමන් සඳහා තම ගුවන් අවකාශය වසා දැමීමට පාකිස්තානය ගත් තීරණය තවත් මාසයකින් දීර්ඝ කර තිබේ.
+
+පාකිස්තානු ගුවන්තොටුපොළ අධිකාරිය (PAA) පවසා සිටියේ මෙම තීරණය අගෝස්තු 24 දක්වා බලපැවැත්වෙන බවය.
+
+ඉන්දියානු වේලාවෙන් ප.ව. 3:50ට බලාත්මක වූ මෙම තීරණයත් සමග ඉන්දියානු ගුවන්සේවා මගින් ක්‍රියාත්මක කරන කිසිදු ගුවන් යානයකට, ඉන්දියාවට අයත් හෝ බදු දී ඇති හමුදා සහ සිවිල් ගුවන් යානාවලට පාකිස්තාන ගුවන් අවකාශය භාවිතා කිරීමට අවසර නොමැත.
+
+ඉකුත් අප්‍රේල් 22වනදා පුද්ගලයින් 26 දෙනෙකුට මරු කැඳවූ පහල්ගම් ත්‍රස්ත ප්‍රහාරයෙන් පසුව, පාකිස්තානයට එරෙහිව ඉන්දීය රජය පාකිස්තානු ගුවන්යානාවලට ඉන්දියානු ගුවන් අවකාශය වසා දැමීය.
+
+ඊට ප්‍රතිචාර ලෙස පාකිස්තානය අප්‍රේල් 24 වනදා ඉන්දියානු ගුවන් යානා සඳහා තම ගුවන් අවකාශය වසා දැමීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/195dec2e.json)
+
+---
 
 ### Sri Lanka coconut auction prices rise 9.4-pct
 
@@ -1775,43 +1807,5 @@ Thereby, the opportunity provided based on the 2018 guidelines to obtain financi
 ...
 
 [Data](articles/cbda49fe.json)
-
----
-
-### Sri Lanka sells extra Rs5.9bn Treasury bills after auction
-
-*2025-07-18 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs5-9bn-treasury-bills-after-auction-231461/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 5,999 million rupees of treasury bills offered on tap at an average rate of 8.04 percent, the state debt office said.
-
-The debt office sold 12-month bills (LKA36426G174) at 8.04 percent.
-
-On Wednesday (16) the debt office raised 85 billion rupees of 3, 6 and 12 month bills.
-
-Sri Lanka Treasuries yields edge up, low take up 3-month bills
-
-◼️
-
-[Data](articles/564a7f77.json)
-
----
-
-### මහ දවාලේ පාවහන් වෙළෙඳසැලක් ගිනි ගනී - වාහන ධාවනයටත් බාධා
-
-*2025-07-18 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212383) · `si`
-
-හැටන් නගරයේ පැති වීදියේ පාවහන් වෙළෙඳසැලක අද (18) පස්වරු 1ට පමණ ගින්නක් හට ගෙන තිබේ.
-
-මෙම ගින්න හට ගන්නා අවස්ථාව වන විට අදාළ වෙළෙඳසැල වසා තිබී ඇති අතර ඒ හේතුවෙන් ගින්න ශීඝ්‍රයෙන් පැතිර ගොස් ඇති බව වාර්තා වෙයි.
-
-ගින්න පාලනය කිරිම සඳහා හැටන් දික්ඔය නගර සභාවේ ගිනිනිවන ඒකකයේ නිලධාරින් පියවර ගෙන තිබේ.
-
-මෙම ගින්නෙන් කිසිවෙකුටත් තුවාල සිදු වී නොමැති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව හැටන් පොලීසිය පැවසුවේය.
-
-කෙසේ වෙතත් මේ හේතුවෙන් හැටන් පැති වීදියේ වාහන ධාවන කටයුතු තාවකාලිකව නතර කිරිමට හැටන් පොලීසිය පියවර ගෙන ඇත.
-
-◼️
-
-[Data](articles/eea203a2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 05:30:33**
+As of **2025-07-19 06:08:59**
 
 ## Newspaper Stats
 
-*Scraped **65,478** Articles*
+*Scraped **65,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 668
 bbccomsinhala | 677
-islandlk | 3,993
+islandlk | 4,001
 economynextcom | 4,009
 dailyftlk | 4,648
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,478 articles have been extended.
+61,973 (94.6%) of 65,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -618,6 +618,62 @@ One individual sustained a gunshot injury to his leg and was admitted to the Col
 
 ---
 
+### 22nd Annual Geoffrey Bawa Memorial Lecture by Frank Escher and Ravi GuneWardena
+
+*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/22nd-annual-geoffrey-bawa-memorial-lecture-by-frank-escher-and-ravi-gunewardena/) · `en`
+
+The Geoffrey Bawa Trust is pleased to announce that this year’s Memorial Lecture will be delivered by Los Angeles-based architects Frank Escher and Ravi GuneWardena. The annual Memorial Lecture commemorates Geoffrey Bawa’s birthday and celebrates impactful architecture from around the world.
+
+The 2025 Geoffrey Bawa Memorial Lecture will be held on Thursday, 24 July 2025 at 6:30 p.m. at the Sri Lanka Foundation Institute in Colombo 07. Escher and GuneWardena will also host a workshop for architecture students and young architects titled Historic Preservation / A Role for Contemporary Architects on Friday, 25 July, from 5:00–7:00 p.m. at the De Saram House in Colombo 07.
+
+Admission to both events is free, but registration is required. For registration and more information, visit: geoffreybawa.com/events. The Geoffrey Bawa Memorial Lecture and workshop is supported by Miles Young and exclusive media partners Sunday Times, Daily Mirror, Tamil Mirror and Lankadeepa.
+
+...
+
+[Data](articles/a61d699d.json)
+
+---
+
+### Celebrating World Youth Skills Day – empowering the nation through skilled youth
+
+*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/celebrating-world-youth-skills-day-empowering-the-nation-through-skilled-youth/) · `en`
+
+Youth skills are vital for a country’s development, drive innovation, economic growth, and social progress. Equipping young people with the right skills enables them to participate fully in the economy and contribute to a more prosperous and equitable future.
+
+According to World Bank estimates, the youth unemployment rate in Sri Lanka for 2024 was 22.32% representing the total labour force percentage aged 15-24 who are without work but actively seeking employment.
+
+...
+
+[Data](articles/bc4ff030.json)
+
+---
+
+### “ICC unveils Suspended Beam Slab system to revolutionise Sri Lankan construction’’
+
+*2025-07-18 19:27:00* · [`islandlk`](http://island.lk/icc-unveils-suspended-beam-slab-system-to-revolutionise-sri-lankan-construction/) · `en`
+
+In an era where speed, sustainability, and efficiency define the future of construction, International Construction Consortium (Pvt) Limited (ICC), one of Sri Lanka’s most innovative and forward-thinking construction companies, is poised to reshape the nation’s building landscape. The company has unveiled its groundbreaking Suspended Beam Slab (SBS) system, powered by advanced precast slab technology, promising to deliver stronger structures, faster timelines, and greener processes.
+
+As urban landscapes expand and project deadlines tighten, traditional construction methods, reliant on labour-intensive, on-site concrete casting, are proving increasingly outdated. ICC’s SBS system eliminates the need for on-site slab casting by utilising precast concrete slabs manufactured in a controlled factory setting. These slabs are placed on strategically positioned beams, distributing the load to supporting columns or walls.
+
+...
+
+[Data](articles/7f721728.json)
+
+---
+
+### A journey through Demodera Estate’s tea and heritage
+
+*2025-07-18 19:27:00* · [`islandlk`](http://island.lk/a-journey-through-demodera-estates-tea-and-heritage/) · `en`
+
+Hidden away in Sri Lanka’s misty hill country, in Uva Province lies Demodera Estate, which is one of the island’s oldest and most celebrated tea plantations. With over 130 years of continuous cultivation, it serves as a living museum of Sri Lanka’s tea legacy. Established in the late 19th century, Demodera’s reputation is rooted in its rich history, meticulous cultivation methods and commitment to innovation.
+
+...
+
+[Data](articles/c5acf125.json)
+
+---
+
 ### யாழில் பாடசாலை அதிபர்களுக்கான பயிற்சி செயலமர்வு
 
 *2025-07-18 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/220345) · `ta`
@@ -999,6 +1055,24 @@ A bond maturing on 01.06.2033 closed at 10.70/76 percent. (Colombo/July18/2025)
 ...
 
 [Data](articles/0b0db2bf.json)
+
+---
+
+### Government focus on issues in the local tea industry
+
+*2025-07-18 16:56:00* · [`islandlk`](http://island.lk/government-focus-on-issues-in-the-local-tea-industry/) · `en`
+
+A meeting was held on Thursday (17) at the Presidential Secretariat between the Secretary to the President Dr. Nandika Sanath Kumanayake and officials from institutions related to the tea industry.
+
+The discussion reviewed the issues that have emerged within Sri Lanka’s tea industry. Special attention was paid to improving the quality of tea leaves and the productivity of tea cultivation and exploring new international market opportunities.
+
+The challenges faced by tea manufacturers were also discussed and Dr. Kumanayake instructed officials to provide constructive solutions to these issues.
+
+The importance of implementing various programmes for the capacity development of small tea estate owners was also discussed. During this, the necessity of drawing manufacturers’ attention to replanting tea was also deliberated.
+
+...
+
+[Data](articles/b1b815e3.json)
 
 ---
 
@@ -1717,99 +1791,5 @@ A foreign buyer purchasing gems worth $10,000 will have to pay an additional $1,
 ◼️
 
 [Data](articles/6fa0bc92.json)
-
----
-
-### Sri Lanka to have online Trump tariff talks today
-
-*2025-07-18 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-online-trump-tariff-talks-today-231445/) · `en`
-
-ECONOMYNEXT – Sri Lanka will hold online discussions with the US Trade Representative today, to try and reduce the tariffs proposed by the United States, its Ministry of Finance said.
-
-The discussion will be attended by the Secretary to the Ministry of Finance, Dr Harshana Suriyapperuma, and relevant government officials “to promote trade and investment relations between the two countries”.
-
-The Sri Lankan government is having ongoing negotiations with the US Trade Agency, the ministry said, and have taken steps to reach revised agreements.
-
-On July 12, the US notified Sri Lanka in writing a new tariff proposal, reducing it from the initial 44 percent announced in April to 30 percent.
-
-“It was subsequently decided that Sri Lanka would continue to hold discussions with the US Trade Agency to further reduce the 30% rate.” (Colombo/Jul18/2025)
-
-◼️
-
-[Data](articles/90a09d5b.json)
-
----
-
-### தேயிலைத் தொழிற்துறை பிரச்சினைகள் குறித்து அவதானம்
-
-*2025-07-18 12:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலைத்-தொழிற்துறை-பிரச்சினைகள்-குறித்து-அவதானம்/175-361314) · `ta`
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் தேயிலைத் தொழிற்துறை சார்ந்த நிறுவனங்களின் அதிகாரிகளுக்கும் இடையிலான கலந்துரையாடல் ஜனாதிபதி அலுவலகத்தில் வியாழக்கிழமை (17)  இடம்பெற்றது.
-
-இந்நாட்டின் தேயிலைத் தொழிற்துறை தொடர்பில் எழுந்துள்ள பிரச்சினைகள் தொடர்பில் இங்கு மீளாய்வு செய்யப்பட்டதுடன், தேயிலைக் கொழுந்துகளின் தரம் மற்றும் தேயிலை பயிர்ச்செய்கையின் உற்பத்தித்திறனை அதிகரித்தல், புதிய சர்வதேச சந்தை வாய்ப்புகளை கண்டறிதல் ஆகிய விடயங்கள் குறித்து  விசேட கவனம் செலுத்தப்பட்டது.
-
-தேயிலைத் தொழில்துறையினர் எதிர்நோக்கும் பிரச்சினைகள் குறித்தும் இதன்போது கலந்துரையாடப்பட்டதுடன், அவற்றிற்கு சாதகமான தீர்வுகளை வழங்குமாறும் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
-
-சிறு தேயிலைத் தோட்ட உரிமையாளர்களின் கொள்ளளவு அபிவிருத்திக்காக பல்வேறு திட்டங்களை நடைமுறைப்படுத்துவதன் முக்கியத்துவம் குறித்தும் கலந்துரையாடப்பட்டதுடன், தேயிலை மீள் நடவு தொடர்பில் தொழில்துறையினர் கவனம் செலுத்த வேண்டியதன் அவசியம் குறித்தும் கலந்துரையாடப்பட்டது.
-
-...
-
-[Data](articles/70914aca.json)
-
----
-
-### 10 සහ 11 ශ්‍රේණිවලදී අනිවාර්යය විෂයන් මෙන්න
-
-*2025-07-18 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212377) · `si`
-
-2026 වසරේ සිට ක්‍රියාත්මක කිරීමට නියමිත නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට අනුව ඉතිහාසය හා සෞන්දර්ය විෂයන් විෂයමාලාවෙන් ඉවත්කර ඇති බවට ගුරු විදුහල්පති ඇතුළු පාර්ශ්ව රැසකින් දැඩි චෝදනාවක් එල්ල වී තිබේ.
-
-එවන් පසුබිමක අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් ඊයේ (17) පැවති වැඩසටහනකදී අධ්‍යාපන උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය නව විෂයමාලා සම්බන්ධයෙන් කරුණු පැහැදිලි කර ඇත.
-
-එම පැහැදිලි කිරීමට අනුව 10 සහ 11 ශ්‍රේණිවලදී මව් භාෂාව, ඉංග්‍රීසි, ගණිතය, විද්‍යාව සහ ආගම යන විෂයන් අනිවාර්යය විෂයන් ලෙස දක්වා ඇති අතර ඉතිහාසය හා සෞන්දර්ය විෂයන් පත්කර ඇත්තේ තෝරාගන්නා විෂයන් අතරටය.
-
-මෙවන් පසුබිමක ගුරු විදුහල්පති සංගම් නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් අදත් සිය විරෝධය පළ කළහ.
-
-◼️
-
-[Data](articles/c44d075d.json)
-
----
-
-### Sri Lanka to hold virtual talks with US Trade Representative on tariff reduction
-
-*2025-07-18 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110599/sri-lanka-to-hold-virtual-talks-with-us-trade-representative-on-tariff-reduction) · `en`
-
-The Ministry of Finance has initiated ongoing discussions aimed at reducing the trade tariffs proposed to be imposed by the United States on exports from Sri Lanka.
-
-Accordingly, a virtual meeting is scheduled to be held today (18 July) between Sri Lankan representatives and officials from the Office of the United States Trade Representative (USTR).
-
-The discussion will be led by the Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with other relevant government officials.
-
-The primary focus of the meeting is to promote trade and investment relations between the two countries.
-
-A statement issued by the Ministry of Finance further elaborates:
-
-...
-
-[Data](articles/912cf45c.json)
-
----
-
-### ට්‍රම්ප්ගේ බද්ද අඩු කරගන්න සාකච්ඡාවක් අද
-
-*2025-07-18 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212376) · `si`
-
-ඇමෙරිකාව විසින් යෝජනා කරනු ලැබූ තීරු බදු අඩුකර ගැනීම සඳහා අඛණ්ඩ සාකච්ඡා පැවැත්වීමට තීරණය කර ඇති බව මුදල් අමාත්‍යාංශය පවසයි.
-
-ඒ අනුව අද (18) දිනයේ දී ඇමෙරිකානු වෙළෙඳ නියෝජිත ආයතනය සමග ශ්‍රී ලංකාවේ නියෝජිතයන් එක්වන සාකච්ඡාවක් පැවැත්වෙනු ඇත.
-
-දෙරට අතර වෙළඳ හා ආයෝජන සබඳතා ප්‍රවර්ධනය කර ගැනීම සඳහා මුදල් අමාත්‍යාංශ ලේකම් ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සහ අදාළ රාජ්‍ය නිලධාරීන් මාර්ගගත ක්‍රමය ඔස්සේ මෙම සාකච්ඡාව පැවැත්වීමට නියමිතය.
-
-මේ සම්බන්ධයෙන් මුදල් අමාත්‍යාංශය විසින් නිකුත් කළ නිවේදනයක වැඩිදුරටත් මෙසේ සඳහන් වේ.
-
-...
-
-[Data](articles/19640d28.json)
 
 ---

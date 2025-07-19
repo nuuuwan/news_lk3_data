@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 11:05:46**
+As of **2025-07-19 11:20:30**
 
 ## Newspaper Stats
 
-*Scraped **65,508** Articles*
+*Scraped **65,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
 islandlk | 4,001
-economynextcom | 4,011
+economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,284
@@ -26,11 +26,49 @@ adaderanasinhalalk | 11,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,508 articles have been extended.
+61,973 (94.6%) of 65,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### Harassment in Sri Lanka public transport has been normalised: UNFPA
+
+*2025-07-19 11:00:00* · [`economynextcom`](https://economynext.com/harassment-in-sri-lanka-public-transport-has-been-normalised-unfpa-231440/) · `en`
+
+ECONOMYNEXT – Harassment in public transportation has been normalised in Sri Lanka, discouraging many victims from reporting incidents, a United Nations Population Fund (UNFPA) analyst said.
+
+“It’s so normalised, that nobody reports, very few reports,” Bimali Amarasekere, National Programme Analyst for Gender at UNFPA Sri Lanka said on a podcast conducted by a private tv channel.
+
+“I shouldn’t say nobody, no, very few report, because we have about 4% to 5% that report to police.”
+
+In 2023, about 300 incidents were reported to police, she said. “But the rest do not. You sometimes may tell a friend.”
+
+According to the findings of a previous study commissioned by the UNFPA Sri Lanka over 90 percent of women using public transport in the island have been subjected to sexual harassment.
+
+...
+
+[Data](articles/c4fa8fea.json)
+
+---
+
+### Seismic shift in Sri Lanka police
+
+*2025-07-19 10:50:00* · [`economynextcom`](https://economynext.com/seismic-shift-in-sri-lanka-police-231608/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s police department is on the verge of a seismic change, with the fates of its top two officers to be decided by separate disciplinary authorities in landmark cases involving misconduct, incompetence, and gross criminal behaviour.
+
+Inspector-General of Police Deshabandu Tennakoon is the first head of the department in its 159-year history to face impeachment. A three-member inquiry body, appointed by Parliament, is expected to announce its decision soon.
+
+Official sources close to the administration say Tennakoon, against whom Parliament initiated impeachment proceedings in April, should know his fate this week or at least by the end of the month.
+
+Legislators voted unanimously on April 8 in favour of a resolution calling for a formal investigation into Tennakoon’s conduct. His inquiry heard he was running a ‘criminal enterprise’ under the guise of law enforcement and was unfit to serve the police even at the lowest rank.
+
+...
+
+[Data](articles/84644906.json)
+
+---
 
 ### கருணாநிதியின் மூத்த மகன் காலமானார்
 
@@ -101,6 +139,30 @@ In the region, China and Maldives signed a bilateral agreement in agriculture, l
 ◼️
 
 [Data](articles/37fffc57.json)
+
+---
+
+### Sri Lanka coconut auction prices rise 9.4-pct
+
+*2025-07-19 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-9-4-pct-231507/) · `en`
+
+ECONOMYNEXT – Sri Lanka average coconut prices rose 9.4 percent at the weekly auction, Coconut Development Authority data showed.
+
+The average price for 1,000 nuts was 126,537.80 rupees on July 17.
+
+“The highest and the lowest price for a nut was not declared yesterday,” CDA officials said.
+
+The number of nuts offered declined to 402,742 from 856,780 a week earlier, while nuts sold fell to 381,624 from 763,665.
+
+In the local market, the wholesale price for a large nut was 165-175 rupees, while small nuts were 140-160 a piece on July 17.
+
+Local wholesale prices of coconut oil were 800,000 to 840,000 rupees per metric ton.
+
+In the region, China and Maldives signed a bilateral agreement in agriculture, launching a pest control initiative targeting coconut palms, the Ministry of Foreign Affairs, People’s Republic of China said. (Colombo/Jul18/2025)
+
+◼️
+
+[Data](articles/6e74ac5e.json)
 
 ---
 
@@ -1755,59 +1817,5 @@ Officials of the Bribery Commission had previously informed the court that the f
 ...
 
 [Data](articles/ce8c85f7.json)
-
----
-
-### கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு
-
-*2025-07-18 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220317) · `ta`
-
-கொழும்பில் பிரபல ஹோட்டல் ஒன்றின் மீது உணவு ஒவ்வாமை தொடர்பில் முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-இதனை தொடர்ந்து, ஹோட்டலின் பிரதான சமையலறையின் ஒரு பகுதியை கொழும்பு மாநகர சபையின் (CMC) பொது சுகாதார திணைக்களம் தற்காலிகமாக மூடுமாறு உத்தரவிட்டுள்ளது.
-
-இதனை தொடர்ந்து, ஹோட்டலில் வழங்கப்படும் உணவின் தரம் நிலை தொடர்பில் வாடிக்கையாளர்கள் சமூக ஊடகங்களில் பல முறைப்பாடுகளை பகிர்ந்துள்ளனர்.
-
-இதனை அடுத்து,  பொது சுகாதார திணைக்களம் விசாரணைகளை ஆரம்பித்து முன்னெச்சரிக்கை நடவடிக்கையாக ஹோட்டல் சமையலறையின் ஒரு பகுதியை தற்காலிகமாக மூடுமாறு ஹோட்டல் நிர்வாகத்திற்கு அறிவுறுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/f2d06441.json)
-
----
-
-### වන අලින්ට මහා අපලයක්, මිනගයා දුම්රියේ ගැටී වන අලියෙක් මරුට
-
-*2025-07-18 15:14:22* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලින්ට-මහා-අපලයක්--මිනගයා-දුම්රියේ-ගැටී-වන-අලියෙක්-මරුට/11-417376) · `si`
-
-කොළඹ සිට මඩකලපුව බලා ධාවනය වෙමින් තිබූ මීනගයා දුම්රියට කදුරුවෙල ගල්ලෑල්ල ප්‍රදේශයේදී අද 18 වෙනිදා අලුයම පහයි තිහට පමණ වන අලියෙකු ගැටීමෙන් එම වන අලියා මියගොස් ඇති බව පොළොන්නරුව වනජීවී නිලධාරීන් සඳහන් පවසයි.
-
-මියගිය වන අලියා අවුරුදු හතළිහක් පමණ වයසැති උඩ අඩි 8 ක් පමණ වයසැති වන අලියකු බව වනජීවී නිලධාරියෙකු  සඳහන් කළේය.
-
-වන අලියා දුම්රියේ ගැටීමෙන් පසු, වේදනාවෙන් කෑගසමින් නිවසක් අද්දරින් පොළොන්නරුව මඩකලළපුව ප්‍රධාන මාර්ගයට පැමිණ සුදු නෙළුම්ගම ගම්මානයේ දැන්වීම් පුවරුව අසලට පැමිණ වැටී මියගිය බව ඇසින් දුටු ප්‍රදේශවාසීන් සඳහන් කරති.
-
-වන අලියා මිය යෑමෙන් අනතුරුව සිද්ධිය බැලීමට පැමිණි අයෙකු වන අලියාගේ නගුටේ කෙඳි ගැලවීමට උත්සාහ දැරීමත් සමග එහි රැඳී සිටි වෙහෙරගල වනජීවී අඩවි ආරක්ෂක ඩව්ලිව්.එම් වික්‍රමරත්න මහතා විරෝධය පළ කර ඔහු ඉවත් කිරීමට කටයුතු කළේය.
-
-මියගිය වන අලියාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු වනජීවී දෙපාර්තමේන්තුවේ ගිරිතලේ වනජීවී පශු වෛද්‍ය සමීර කලිඟු ආරච්චි මහතා ඇතුළු වනජීවී නිලධාරීන් පිරිසක් විසින් 18 වෙනිදා සිදු කිරීමට නියමිතයි.
-
-◼️
-
-[Data](articles/4c8ca75a.json)
-
----
-
-### Sri Lanka’s Central Bank imposes new caps on vehicle loan ratios
-
-*2025-07-18 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110602/sri-lankas-central-bank-imposes-new-caps-on-vehicle-loan-ratios-) · `en`
-
-In a decisive move to strengthen macroprudential policy and mitigate systemic financial risks, the Central Bank of Sri Lanka (CBSL), acting as the Macroprudential Authority, has issued new Directions to licensed financial institutions to impose maximum caps on loan-to-value (LTV) ratios for vehicle-related credit facilities.
-
-The directive, which takes effect from 18 July 2025, applies to all Licensed Commercial Banks, Licensed Specialised Banks, Licensed Finance Companies (LFCs), and Registered Finance Leasing Establishments (RFLEs).
-
-Thereby, the opportunity provided based on the 2018 guidelines to obtain financing facilities of up to 90% of the value of the vehicle under the electric category has been reduced to 80% for commercial vehicles, 60% for motor cars, SUVs and vans, 50% for three-wheelers and 70% for other vehicles.
-
-...
-
-[Data](articles/107abc20.json)
 
 ---

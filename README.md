@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 13:49:04**
+As of **2025-07-19 14:08:05**
 
 ## Newspaper Stats
 
-*Scraped **65,529** Articles*
+*Scraped **65,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,286
 adaderanalk | 7,998
 tamilmirrorlk | 9,390
 virakesarilk | 10,911
-adaderanasinhalalk | 11,256
+adaderanasinhalalk | 11,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,529 articles have been extended.
+61,973 (94.6%) of 65,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### විනාශ කිරීමට ගිය මත්පැන් බෝතල් ඇතුළේ වෙනත් ද්‍රාවණයක්
+
+*2025-07-19 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212410) · `si`
+
+බම්බලපිටිය රාත්‍රී සමාජ ශාලාවකින් පොලිස් භාරයට ගත් මත්පැන් බෝතල් තොගයක මත්පැන් වෙනුවට ආදේශක ද්‍රව්‍යයක් තිබීම සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය පොලීසියට නියෝග කර තිබේ.
+
+ඒ අනුව අදාළ මත්පැන් රජයේ රස පරීක්ෂකවරයා වෙත යොමු කිරීමට පියවර ගැනුණි.
+
+බම්බලපිටිය රාත්‍රී සමාජ ශාලාවක තිබී පොලිස් භාරයට ගත් මෙම මත්පැන් බෝතල් තොගය පසුගිය පෙබරවාරි මාසයේදී විනාශ කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබුණි.
+
+අදාළ මත්පැන් තොගය මහේස්‍ත්‍රාත්වරයා ඉදිරියේදී විනාශ කිරීමට සූදානම් වූ අවස්ථාවේ සිදුකළ පරීක්ෂා කිරීමකදී අනාවරණ වී ඇත්තේ, බෝතල් කිහිපයක මත්පැන් වෙනුවට ආදේශක ද්‍රව්‍යයක් යොදා ඇති බවය.
+
+ඒ අනුව ඒවා විනාශ කිරීම නවත්වා ඒවා නඩු භාණ්ඩ කාමරයේ ගබඩා කර කෙසෙල්වත්ත පොලීසියට පැමිණිල්ලක් ගොනුකර තිබුණි.
+
+අනතුරුව ඒ පිළිබඳව විමර්ශන කොළඹ අපරාධ කොට්ඨාසයට පැවරී ඇති අතර අදාළ මත්පැන් බෝතල් සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකිරීම සඳහා ඒවා රස පරීක්ෂකවරයා වෙත යොමුකළ යුතු බවට අදාළ කොට්ඨාසය ඊයේ කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරියගෙන් ඉල්ලීමක් කළේය.
+
+...
+
+[Data](articles/00153fed.json)
+
+---
 
 ### විදුලිය විසන්ධි වුණොත් හැටන් දුම්රිය ස්ථානය රෑට අඳුරේ
 
@@ -1803,25 +1825,5 @@ Those who encounter such fraudulent activities are urged to report them immediat
 ◼️
 
 [Data](articles/0fa5e599.json)
-
----
-
-### Lanka Ashok Leyland to launch electric buses in Sri Lanka
-
-*2025-07-18 17:20:00* · [`economynextcom`](https://economynext.com/lanka-ashok-leyland-to-launch-electric-buses-in-sri-lanka-231529/) · `en`
-
-ECONOMYNEXT – Lanka Ashok Leyland Plc, a joint venture with Ashok Leyland of India, said it is planning to launch a range of electric buses.
-
-An electric variant of its DOST truck model has already been made available.
-
-“Plans are also underway to launch an entire range of electric buses under the ‘SWITCH’ brand, subject to regulatory and market readiness,” Chief Executive Officer Umesh Gautam said.
-
-“The government’s growing focus on public sector electrification is expected to create favourable conditions for this initiative.”
-
-Sales of trucks have already picked up, the firm said. (Colombo/July18/2025)
-
-◼️
-
-[Data](articles/25094198.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 16:32:16**
+As of **2025-07-19 16:46:56**
 
 ## Newspaper Stats
 
-*Scraped **65,541** Articles*
+*Scraped **65,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,288
-adaderanalk | 7,999
+adaderanalk | 8,000
 tamilmirrorlk | 9,390
 virakesarilk | 10,913
 adaderanasinhalalk | 11,262
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,541 articles have been extended.
+61,973 (94.6%) of 65,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5e9e80e1.json)
+
+---
+
+### Thalawathugoda shooting: Arrested excise officer and businessman remanded
+
+*2025-07-19 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110623/thalawathugoda-shooting-arrested-excise-officer-and-businessman-remanded-) · `en`
+
+The Kaduwela Magistrate’s Court has ordered the remand of an excise officer and a businessman who were arrested in connection with a shooting incident that occurred near a nightclub in the Thalawathugoda area early this morning (19).
+
+The two suspects, who were taken into custody by Thalangama Police and produced before the Kaduwela Magistrate’s Court, have been remanded until July 30.
+
+According to police, an argument had broken out between the businessman and the excise officer near the nightclub at around 1.00 a.m. today.
+
+It is alleged that during the altercation, the businessman had taken out and pointed his licensed revolver at the excise officer.
+
+In the course of the confrontation, the excise officer reportedly managed to seize the weapon from the businessman and had fired four shots at a nearby wall, apparently as a means of intimidation.
+
+...
+
+[Data](articles/89cb952d.json)
 
 ---
 
@@ -1825,25 +1845,5 @@ The Bangladesh central bank emphasised that the decisive actions of the Sri Lank
 ◼️
 
 [Data](articles/1f1df87a.json)
-
----
-
-### දිවයින පුරා විශේෂ මෙහෙයුමක්
-
-*2025-07-18 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212391) · `si`
-
-මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් සැකපිට පුද්ගලයන් 1,461ක් අත්අඩංගුවට ගෙන තිබේ.
-
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිතුවක්කු මහතාගේ උපදෙස් මත ආරක්ෂක නිලධාරීන් 14,000කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර ඇත.
-
-එහිදී වාහන 46ක් හා යතුරුපැදි 51ක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-වැඩිදුරටත් අදහස් දක්වමින් පොලිසිය පැවසුවේ මෙම මෙහෙ‍යුම හරහා අපරාධ සඳහා සෘජුව දායකත්වය ලබාදුන් පුද්ගලයන් 107ක් හා ත්‍රිවිධ හමුදාවෙන් පළාගිය පුද්ගලයින් 7 දෙනෙක් අත්අඩංගුවට ගත් බවය.
-
-එමෙන්ම හෙරොයින්, අයිස්, ගංජා හා නීති විරෝධී මත්පැන් ද මෙහිදී පොලිසිය විසින් සිය භාරයට ගෙන ඇත.
-
-◼️
-
-[Data](articles/2956ae78.json)
 
 ---

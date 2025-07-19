@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 15:30:15**
+As of **2025-07-19 15:47:40**
 
 ## Newspaper Stats
 
-*Scraped **65,538** Articles*
+*Scraped **65,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
-islandlk | 4,001
+islandlk | 4,002
 economynextcom | 4,014
 dailyftlk | 4,648
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.6%) of 65,538 articles have been extended.
+61,973 (94.6%) of 65,539 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1594,6 +1594,22 @@ Admission to both events is free, but registration is required. For registration
 
 ---
 
+### Elevare – ‘a platform that celebrates the hero within every journey’
+
+*2025-07-18 19:44:00* · [`islandlk`](http://island.lk/elevare-a-platform-that-celebrates-the-hero-within-every-journey/) · `en`
+
+Derived from the Latin word “Elevare” – meaning “to elevate” – the name itself reflects our mission: To create a platform that celebrates the hero within every journey.
+
+Elevare is a quarterly luxury business and lifestyle magazine, uniquely positioned to connect Sri Lanka’s leading entrepreneurs, both at home and abroad, with emerging ventures and creative voices. It delves into the rich intersections of enterprise & human experience, diplomacy & culture, craft & commerce, innovation & identity. The magazine seeks to elevate stories that matter; stories of resilience, courage, and power.
+
+Elevare is a publication of Business Media International chaired by Ms. Manori Hettiarachchi and director Akash Karunathilake.
+
+...
+
+[Data](articles/afa08631.json)
+
+---
+
 ### Celebrating World Youth Skills Day – empowering the nation through skilled youth
 
 *2025-07-18 19:44:00* · [`islandlk`](http://island.lk/celebrating-world-youth-skills-day-empowering-the-nation-through-skilled-youth/) · `en`
@@ -1835,23 +1851,5 @@ The Bangladesh central bank emphasised that the decisive actions of the Sri Lank
 ◼️
 
 [Data](articles/50aa6ef3.json)
-
----
-
-### 80 வயதான பெண்ணின் மரணதண்டனை இரத்து
-
-*2025-07-18 18:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வயதான-பெண்ணின்-மரணதண்டனை-இரத்து/175-361330) · `ta`
-
-1993 ஆம் ஆண்டு நடந்த ஒரு கொலைக்காக 80 வயதுடைய ஒரு பெண்ணுக்கு ஹம்பாந்தோட்டை மேல் நீதிமன்றம் விதித்த தண்டனை மற்றும் மரண தண்டனையை மேல்முறையீட்டு நீதிமன்றம் ரத்து செய்துள்ளது.
-
-1993 ஆம் ஆண்டு ஜனவரி 18 ஆம் திகதி அம்பலாந்தோட்டையில் உள்ள மோதரபிலிவெலவில் மீகஹலந்ததுரகே ஜெயசேனவின் மரணத்திற்கு காரணமானதாக சிறிமா எதிரிசூரிய மீது சட்டமா அதிபர் குற்றப்பத்திரிகை தாக்கல் செய்திருந்தார் -
-
-இது தண்டனைச் சட்டத்தின் பிரிவு 296 இன் கீழ் தண்டனைக்குரிய குற்றமாகும். 2023 ஆம் ஆண்டு நவம்பர் 14 ஆம் திகதி ஹம்பாந்தோட்டை மேல் நீதிமன்றம் விதித்த தண்டனை மற்றும் மரண தண்டனையை, கொலையில் குற்றம் சாட்டப்பட்டவரின் தொடர்பு தொடர்பாக இரண்டு நேரில் கண்ட சாட்சிகளின் சாட்சியங்களில் உள்ள முரண்பாடுகள் காரணமாக நிலைநிறுத்த முடியாது என்று மேல்முறையீட்டு நீதிமன்றத்தின் இரண்டு நீதியரசர்கள் கொண்ட அமர்வு தீர்ப்பளித்தது.
-
-சஹான் வீரசிங்க மற்றும் தருஷி கமகே ஆகியோருடன் மூத்த வழக்கறிஞர் தர்ஷன குருப்பு, குற்றம் சாட்டப்பட்டவர்கள் சார்பாக ஆஜரானார்கள்
-
-◼️
-
-[Data](articles/41b1e375.json)
 
 ---

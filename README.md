@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 18:55:02**
+As of **2025-07-19 19:11:30**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-07-19 (Saturday)
 
-### ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතුයි - මැදගම ධම්මානන්ද හිමි
+### ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතුයි
 
 *2025-07-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212419) · `si`
 

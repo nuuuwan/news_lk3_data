@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-19 19:25:27**
+As of **2025-07-19 19:35:11**
 
 ## Newspaper Stats
 
-*Scraped **65,556** Articles*
+*Scraped **65,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 4,015
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,290
-adaderanalk | 8,003
+adaderanalk | 8,004
 tamilmirrorlk | 9,390
 virakesarilk | 10,917
-adaderanasinhalalk | 11,266
+adaderanasinhalalk | 11,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,556 articles have been extended.
+61,973 (94.5%) of 65,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-19 (Saturday)
+
+### හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ වෑන් රථ අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මරුට
+
+*2025-07-19 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212420) · `si`
+
+හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ හබරකැටිය ප්‍රදේශයේ වෑන් රථයක් අනතුරකට ලක්වීමෙන් පුද්ගලයින් දෙදෙනෙකු මිය ගොස් තිබේ.
+
+අද (19) පස්වරුවේ සිදුව ඇති මෙම අනතුරින් පුද්ගලයින් හත් දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇතැයිද ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/48d5adda.json)
+
+---
 
 ### Sri Lanka tea traders ask govt to act against low-quality producers
 
@@ -47,6 +61,26 @@ Exporters have raised alarm over declining quality, warning that such practices 
 ...
 
 [Data](articles/35c41a5d.json)
+
+---
+
+### Report of inquiry committee probing Deshabandu to be submitted to Speaker
+
+*2025-07-19 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110627/report-of-inquiry-committee-probing-deshabandu-to-be-submitted-to-speaker) · `en`
+
+The final report of the Committee of Inquiry appointed to inquire and report its findings on suspended Inspector General of Police (IGP) Deshabandu Tennakoon, in respect of acts of gross abuse of power, is scheduled to be handed over to the Speaker of Parliament within the coming week.
+
+A spokesman for the committee stated that the relevant final report is currently being prepared.
+
+A special three-member committee of inquiry was appointed to investigate the allegations of misconduct and serious abuse of power by suspended police chief Deshabandu Tennakoon and to prepare a report.
+
+The committee is chaired by Supreme Court Justice Preethi Padman Surasena and also includes Justice W.M.N.P. Iddawela and Chairman of the National Police Commission E.D.M. Lalith Ekanayake.
+
+The committee convened on more than 10 occasions and recorded evidence from several individuals, including Deshabandu Tennakoon. The investigation committee had also taken steps to meet daily from July 16th and record evidence.
+
+...
+
+[Data](articles/60b54cb5.json)
 
 ---
 
@@ -1827,49 +1861,5 @@ One individual sustained a gunshot injury to his leg and was admitted to the Col
 ...
 
 [Data](articles/32b25511.json)
-
----
-
-### மருந்தாளுநர்களின் பற்றாக்குறைக்கு தீர்வு காண திட்டமொன்று தேவை - எதிர்க்கட்சித் தலைவர் சஜித் சுட்டிக்காட்டு
-
-*2025-07-18 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220354) · `ta`
-
-மருந்தாளுநர்களுக்கு நிலவும் பற்றாக்குறைக்கு தீர்வுகாண காலக்கெடுவுடன் கூடியதொரு திட்டமொன்று தேவையாகும். அதனால் இந்தப் பிரச்சினையை அடிப்படையாகக் கொண்டு வீதியில் இறங்க வேண்டாம். அது மக்களுக்கே பாதிப்பை ஏற்படுத்தும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-அகில இலங்கை தனியார் மருந்தக உரிமையாளர்கள் சங்க உறுப்பினர்களுடன் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வெள்ளிக்கிழமை (18) இடம்பெற்ற சந்திப்பின் போது கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-மருந்தகத்தில் இருந்து பரிந்துரைக்கப்பட்ட அளவுகளில் மருந்துகளை வழங்கும் செயல்பாடானது தொழில் முறை சார் செயல்முறையொன்றாகும். இது முக்கியத்துவம் வாய்ந்ததொரு செயல்முறையாகும். அரச வைத்தியசாலைகளில் கூட மருந்தாளுநர்களுக்கு பற்றாக்குறை காணப்படுகிறது. ஆகையால் கொள்கையளவில் நாம் சரியான நிலைப்பாட்டை எடுக்க வேண்டும். மருந்தாளுநரின் செயல்முறை தொழில் முறை நிபுணத்துவம் வாய்ந்ததொரு செயல்முறை என்பதால், அந்தத் தகுதி உள்ள ஒருவரால் அது மேற்கொள்ளப்பட வேண்டும்.
-
-...
-
-[Data](articles/74128226.json)
-
----
-
-### දෙහිවල වෙඩික්කරු පලාගිය යතුරුපැදිය සොයා ගනී
-
-*2025-07-18 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212393) · `si`
-
-දෙහිවල වෙඩි තැබීමට යොදා ගත් යතුරුපැදිය පිළියන්දල විකල්ප මාර්ගයේ විහාරස්ථානයක් ඉදිරිපිට මාර්ගයේ දමා ගොස් තිබියදී හමු වී තිබේ.
-
-දෙහිවල පොලීසිය පැවසුවේ, රතු පාටට හුරු ආරක්ෂක හිස් වැස්මක් ද සහිතව යතුරුපැදිය එලෙස දමා ගොස් තිබූ බවය.
-
-දහවල්  1.30ට පමණ යතුරුපැදියක් මෙම ස්ථානයේ තිබෙන අයුරු පොලිස් විශේෂ කාර්ය බළකා බුද්ධි නිලධාරියකු දැක ඒ බව උසස් පොලිස් නිලධාරී කොට දැනුම් දී තිබූ බව පොලීසිය සඳහන් කළේය.
-
-එම යතුරු පැදියට සවිකර තිබූ අංක තහඩුව මෝටර් රථයක ලියාපදිංචි අංක තහඩුවක් බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-කොළඹ ඇඟිලි සටහන් දෙපාර්තමේන්තුවේ නිලධාරීත් පැමිණ මේ පිළිබඳ පරීක්ෂණ පැවැත්වූ බව අප වාර්තාකරු පැවසීය.
-
-දෙහිවල දුම්රිය ස්ථානය අසලදී අද (18) උදෑසන සිදු වූ වෙඩි තැබීමකින් පුද්ගලයෙක් තුවාල ලැබීය.
-
-වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ තැනැත්තාගේ තත්ත්වය බරපතළ නොවන බව වාර්තා වේ.
-
-වෙඩික්කරු කිසිදු කලබලයක් නොමැතිව පාගමනින් පැමිණ මෝටර් රථයක රියදුරු අසුනේ සිටින අයෙකුට වෙඩි තබන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
-
-ප්‍රහාරයෙන් පසු වෙඩික්කරු දිවගොස් යතුරුපැදියක නැග තවත් අයෙකු සමග පලාගොස් තිබුණි.
-
-...
-
-[Data](articles/c974ea55.json)
 
 ---

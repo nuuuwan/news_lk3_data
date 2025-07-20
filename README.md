@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 15:30:20**
+As of **2025-07-20 15:47:22**
 
 ## Newspaper Stats
 
-*Scraped **65,685** Articles*
+*Scraped **65,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,304
 adaderanalk | 8,029
-tamilmirrorlk | 9,419
+tamilmirrorlk | 9,420
 virakesarilk | 10,934
 adaderanasinhalalk | 11,288
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,288
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,685 articles have been extended.
+61,973 (94.3%) of 65,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### ”கணவருடன் உடலுறவுக்கு  மறுப்பது சித்ரவதை” :  நீதிமன்றம் பரபரப்பு தீர்ப்பு
+
+*2025-07-20 15:33:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவுக்கு-மறுப்பது-சித்ரவதை-நீதிமன்றம்-பரபரப்பு-தீர்ப்பு/175-361414) · `ta`
+
+மராட்டிய மாநிலம் புனேயை சேர்ந்த ஒருவருக்கு கடந்த 2013-ம் ஆண்டு ஒருவருக்கு  திருமணம் நடந்தது. எனினும் அடுத்த ஆண்டு கணவன், மனைவி பிரிந்து தனியாக வசிக்க தொடங்கினர். 2015-ம் ஆண்டு பெண்ணின் கணவர் விவாகரத்து கேட்டு புனே குடும்ப நல நீதிமன்றத்தில் மனு தாக்கல் செய்தார். அதில், மனைவி தன்னை பல வகைகளில் சித்ரவதை செய்வதாக கூறியிருந்தார்.
+
+வழக்கை விசாரித்த குடும்ப நல நீதிமன்றம் கணவருக்கு பெண்ணிடம் இருந்து விவாகரத்து வழங்கி உத்தரவிட்டது. இதை எதிர்த்து பெண் மும்பை உயர்நீதிமன்றத்தில் மேல்முறையீடு செய்தார்.
+
+அந்த மனுவில், "கணவரின் பெற்றோர் தான் தன்னை கொடுமைப்படுத்துகின்றனர். எனினும் நான் எனது கணவரை நேசிக்கிறேன். அவருடன் சேர்ந்து வாழ விரும்புகிறேன். இதனால் குடும்ப நல நீதிமன்றம் வழங்கிய விவாகரத்தை ரத்து செய்ய வேண்டும்" என்று கூறியிருந்தார். மேலும் நாங்கள் ஒன்றுசேர்ந்து வாழும் காலம் கனியும் வரை கணவர் பராமரிப்பு தொகையாக மாதந்தோறும் ரூ.1 லட்சம் தர உத்தரவிட வேண்டும்" எனவும் கோரியிருந்தார்.
+
+...
+
+[Data](articles/78d664f4.json)
+
+---
 
 ### 45 வயது நபருடன்  6 வயது சிறுமிக்கு திருமணம்; தலீபானின்  அதிரடி
 
@@ -1757,21 +1773,5 @@ The site was discovered by accident in February this year when workers, who were
 ...
 
 [Data](articles/7bf81f1c.json)
-
----
-
-### Tamil Nadu Chief Minister Stalin’s Brother Mu.Ka. Muthu Passes Away in Chennai at the age of 77;  DMK leader Kalaigner Karunanidhi’s eldest son Muthu was a Singer and Film Actor Who Tried to Emulate ADMK Leader M.G.Ramachandran.
-
-*2025-07-20 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86173) · `en`
-
-Mu. Ka. Muthu, the eldest son of the late Chief Minister M. Karunanidhi and half-brother of Chief Minister M.K. Stalin, died in Chennai on Saturday (July 19, 2025). He had been ailing for a long time. He was 77 and is survived by his wife, son, and daughter.
-
-Mr. Muthu was born to Karunanidhi’s first wife Padmavathi, daughter of Chidambaram Padagasundaram Pillai, a renowned musician and composer. His maternal uncle, C.S. Jayaraman — a playback singer — rendered many songs for Sivaji Ganesan-starrers, including his debut film Parasakthi.
-
-The way Mr. Muthu styled himself after MGR, even affecting a physical resemblance, was a source of some discomfort for his family. Mr. Muthu was promoted as an actor by Karunanidhi’s family to produce a home-grown hero, as there was always tension between the DMK and film stars associated with the party. Actors like Sivaji Ganesan, M.G. Ramachandran (MGR), and poet Kannadasan were all once close to Karunanidhi.
-
-...
-
-[Data](articles/bacc02ec.json)
 
 ---

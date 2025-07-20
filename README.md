@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 04:19:44**
+As of **2025-07-21 04:31:38**
 
 ## Newspaper Stats
 
-*Scraped **65,762** Articles*
+*Scraped **65,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,119 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,017
 economynextcom | 4,019
-dailyftlk | 4,654
+dailyftlk | 4,657
 dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,040
 tamilmirrorlk | 9,429
-virakesarilk | 10,959
+virakesarilk | 10,962
 adaderanasinhalalk | 11,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,762 articles have been extended.
+61,973 (94.2%) of 65,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### The Colombo Plan celebrates 74 years of regional cooperation and development
+
+*2025-07-21 04:20:48* · [`dailyftlk`](https://www.ft.lk/news/The-Colombo-Plan-celebrates-74-years-of-regional-cooperation-and-development/56-779249) · `en`
+
+US Ambassador to Sri Lanka and The Colombo Plan Council incumbent President Julie J. Chung
+
+The Colombo Plan for Cooperative Economic and Social Development in Asia and the Pacific marked its 74th anniversary this month, commemorating more than seven decades of regional collaboration and progress.
+
+To mark this milestone, the Colombo Plan hosted a cocktail event on 17 July, at the ITC Ratnadipa. Sri Lanka’s Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, graced the occasion as the Chief Guest, highlighting Sri Lanka’s longstanding role in advancing shared goals across the region.
+
+The Colombo Plan Secretary-General Dr. Benjamin P. Reyes, welcomed the dignitaries at the event and presented the Colombo Plan’s Diamond Jubilee Roadmap, outlining upcoming initiatives aimed at expanding the Colombo Plan’s impact and increasing visibility of its mission across Asia and the Pacific.
+
+...
+
+[Data](articles/e3e228c9.json)
+
+---
+
+### EUNIC x GLX expand  ‘The Routes we Take’ initiative across Sri Lanka
+
+*2025-07-21 04:16:28* · [`dailyftlk`](https://www.ft.lk/news/EUNIC-x-GLX-expand-The-Routes-we-Take-initiative-across-Sri-Lanka/56-779248) · `en`
+
+Selected creatives of ‘The Routes we Take’ Kandy event at a preparatory workshop held at the Alliance Française, Kandy
+
+The preparatory workshop brought together an inspiring group of creatives, each deeply engaged in exploring the powerful relationship between art and nature, with the guidance of Dr. Sunil Wijesiriwardana and Prof. Sudesh Mantillake
+
+The Routes We Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka and Good Life X (GLX), is expanding its reach beyond Colombo in 2025 to bring sustainability-focused creative programming to regional communities across Sri Lanka. The first of the four-part series is set to take place at the Karaliya Convention Centre and Centre for Performing Arts, Kandy from 25 – 26 July. The travelling project aims to foster environmental awareness and regenerative thinking through the creative arts, while decentralising access to cultural engagement.
+
+...
+
+[Data](articles/13928c14.json)
+
+---
+
+### US Embassy strengthens regional efforts to combat synthetic drug threat
+
+*2025-07-21 04:14:24* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-strengthens-regional-efforts-to-combat-synthetic-drug-threat/56-779247) · `en`
+
+The US Embassy in Sri Lanka, in collaboration with the National Dangerous Drugs Control Board (NDDCB), concluded a two-week regional training initiative focused on identifying and analysing synthetic drugs and new psychoactive substances, particularly fentanyl and its analogs—substances that have become an urgent global concern.
+
+The training culminated in a formal handover ceremony of drug testing equipment, where US Deputy Chief of Mission Jayne Howell, Deputy Minister of Public Security and Parliamentary Affairs Sunil Watagala, and NDDCB Chairman Dr. Indika Wanninayake presided over the presentation of the Radian ASAP instrument to Sri Lankan authorities.
+
+...
+
+[Data](articles/c2c4a51f.json)
+
+---
+
+### ஜெனிவா கூட்டத்திற்கு முன்னர் பாதிக்கப்பட்டோரின் கோரிக்கைகளை முன்வைத்து சர்வதேச அழுத்தத்தை ஏற்படுத்துவதே நோக்கம் – கஜேந்திரகுமார்
+
+*2025-07-21 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220502) · `ta`
+
+ஜெனிவா கூட்டத்திற்கு முன்னர் பாதிக்கப்பட்ட தரப்பினரின் கோரிக்கைகளை முன் வைப்பதன் ஊடாக கடுமையான சர்வதேச அழுத்தத்தை கொடுக்கும் செயல் வடிவத்தை ஏற்படுத்துவதே எமது நோக்கம் என தமிழ் தேசிய மக்கள் முன்னனணியின் தலைவர் , நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணத்தில் உள்ள தனியார் விருந்தினர் விடுதியில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற கலந்துரையாடல் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவ்வாறு தெரிவித்தார்.
+
+தமிழின படுகொலைக்கு பொறுப்பு கூற வைப்பது தொடர்பாக ஒரு நிலைப்பாட்டுக்கு தமிழ் அரசியல் கட்சிகள் , பொது அமைப்புகள் மனிதவுரிமை செயற்பாட்டாளர்கள் , சிவில் சமூக செயற்பாட்டாளர்கள் உள்ளிட்ட தரப்பினருக்கு கலந்துரையாடலுக்கு அழைப்பு விடுத்தோம்.
+
+நாம் அழைப்பு விடுத்தவர்களில் தமிழரசு கட்சியினர் சமூகமளிக்கவில்லை, ஏனைய கட்சியில் இருந்து அவற்றின் பிரதிநிதிகள், மனிதவுரிமை செயற்பாட்டாளர்கள் , சிவில் சமூகத்தினர் ஆகியோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/6c1052c5.json)
+
+---
+
+### வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் புதிய நிர்வாகம்
+
+*2025-07-21 04:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220501) · `ta`
+
+வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் புதிய நிர்வாகம் ஞாயிற்றுக்கிழமை (20) தெரிவு செய்யப்பட்டது.
+
+இதன்படி வடக்கு கிழக்கு மாகாண வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் தலைவராக யோகராசா கனகரஞ்சினியும் செயலாளராக சிவானந்தன் ஜெனிற்றாவும் உப தலைவராக வல்லிபுரம் அமலநாயகியும் உப செயலாளராக செபஸ்டியாம் தேவியும் பொருளாளராக கதிர்காமநாதன் கோகிலவாணியும் தெரிவு செய்யப்பட்டனர்.
+
+புதிய நிர்வாக தெரிவுக்கு பின்னர் ஊடகங்களுக்கு கருத்துத் தெரிவித்த வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் பிரதிநிதிகள், எமது சங்கம் 2017ம் ஆண்டு உருவாக்கப்பட்டு இன்று வரை நேர்த்தியாக வடக்கு கிழக்கின் எட்டு மாவட்டத்திலும் பல்லாயிரக்கணக்கான மக்கள் மத்தியில் இயங்கி வருகிறது.
+
+...
+
+[Data](articles/c51b8512.json)
+
+---
+
+### கிண்ணியா சுகாதார வைத்திய அதிகாரி அலுவலக பிரிவில் உணவகங்கள் திடீர் சோதனை
+
+*2025-07-21 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220500) · `ta`
+
+கிண்ணியா சுகாதார வைத்திய அதிகாரி பிரிவில் உணவகங்களின் தரத்தைப்பேணும் வகையிலும் மக்களுக்கு சுகாதாரமான உணவு கிடைக்க வேண்டுமெனும் நோக்கிலும் தொடர்ச்சியாக கிண்ணியா பிரதேசத்திலுள்ள உணவகங்களில் பரிசோதனை நடவடிக்கைகள்  கிண்ணியா சுகாதார வைத்திய அதிகாரி வைத்தியர் ஏ.எம்.எம்.அஜீத் அவர்கள் தலைமையில் மேற்பார்வை பொதுச்சுகாதாரப் பரிசோதகர் நசுருதீன் அவர்களின் வழிகாட்டலின் கீழ் கிண்ணியா சுகாதார வைத்திய அதிகாரி அலுவலகத்தின் பொதுச் சுகாதார பரிசோதர்களால் பரிசோதனை மேற்கொள்ளப்பட்டு வருகின்றது. குறித்த பரிசோதனை(19) இடம் பெற்றுள்ளது.
+
+இதன்போது உணவு பாதுகாப்பு தொடர்பாக ஆலோசனை வழங்கப்பட்டதுடன் மனித நுகர்வுக்கு பொருத்தமற்றதும் காலவதியானதுமான உணவுப் பொருட்களை விற்பனைக்கு வெளிக்கட்டிவைத்த 2 உணவங்களுக்கு எதிராக வழக்குதாக்கல் செய்யப்பட்டது.
+
+◼️
+
+[Data](articles/2f9a4bb3.json)
+
+---
 
 ### LAUGFS Supermarkets expands with 40th outlet at Ananda College
 
@@ -1661,111 +1757,5 @@ The prevalence of the disease in the island was first identified last September,
 ◼️
 
 [Data](articles/0e68cf51.json)
-
----
-
-### சம்பூர் கடற்கரையோர பகுதியில் மனித எச்சங்கள் கண்டுபிடிப்பு
-
-*2025-07-20 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220451) · `ta`
-
-திருகோணமலை, சம்பூர் கடற்கரை ஓரமாக நிலக்கீழ் கண்ணிவெடி அகழும் பணியில் ஈடுபட்டுக் கொண்டிருந்த போது மனித எச்சங்கள் வெளிவந்ததை அடுத்து குறித்த கண்ணிவெடி அகழும் பணி இடைநிறுத்தப்பட்டுள்ளதாக தெரிய வருகின்றது.
-
-கடந்த வியாழக்கிழமை (17) மூதூர் - சம்பூர் கடற்கரையோர பகுதியில் நிலக்கீழ் கண்ணிவெடி அகழும் பணி ஆரம்பிக்கப்பட்டிருந்தது.சம்பூர் சிறுவர் பூங்காவை அண்மித்துள்ள கடற்கரையோர பகுதியில் கடந்த ஒரு வாரகாலமாக எம்.ஏ.ஜி எனப்படுகின்ற கண்ணிவெடி அகழும் நிறுவனம் தங்களுக்குரிய தளபாடம் மற்றும் பொருட்களுடன் முகாமிட்டிருந்ததோடு வியாழக்கிழமை (17) கண்ணிவெடி அகழும் பணியை ஆரம்பித்திருப்பதாகவும் தெரிய வருகின்றது.
-
-இந்நிலையிலேயே இன்று ஞாயிற்றுக்கிழமை (20) குறித்த பகுதியில் மனித எச்சங்கள் கண்டுபிடிக்கப்பட்டதை அடுத்து நீதிமன்ற கட்டளையை பெறுவதற்காக குறித்த பணி நிறுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
-
-சம்பூர் படுகொலையின் நினைவாக அமைக்கப்பட்ட தூபியை அண்மித்த பகுதியில் அகழ்வுப் பணி மேற்கொண்ட போதே மனித எமனித எச்சங்கள்   கண்டுபிடிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கதாகும்.
-
-◼️
-
-[Data](articles/0c2c1061.json)
-
----
-
-### රජයේ තේක්ක රක්ෂිතයක ඇති වූ ගැටුමකින් පුද්ගලයෙකු මරුට
-
-*2025-07-20 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212435) · `si`
-
-සීගිරිය ප්‍රදේශයේ ඉනාමලුව රජයේ තේක්ක රක්ෂිතයේ කම්කරුවන් රැඳී සිටි  වාඩියක ඇතිවූ ගැටුමකින් එක් අයෙකු මියගොස් තවත් අ‌යෙකු බරපතළ තුවාල ලබා දඹුල්ල මූලික රෝහලට ඇතුළත් කර තිබේ.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් එම වාඩියේ සිටි පුද්ගලයින් දෙදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන ඇත‍.
-
-මෙසේ මියගොස් ඇත්තේ වැඩ පාලකවරයෙකු ලෙස සේවය කළ පොල්පිතිගම මොරගොල්ලාගම ප්‍රදේශයේ පදිංචි 55  හැවිරිදි පුද්ගලයෙකි.
-
-මුදල් ආරවුලක් මත ඇති වූ බහින්බස්වීමක් දුරදිග යාම හේතුවෙන් මෙම මරණය සිදුව ඇති බව මූලික පරීක්ෂණවලදී හෙළි වී තිබේ.
-
-පොලිසිය සඳහන් කළේ මෙම පුද්ගලයින් හතර දෙනා කාලයක සිට රජයේ තේක්ක රක්ෂිතයේ ගස් කපා ඉවත් කිරීමේ කොන්ත්‍රාත් කරන අයෙකු ළඟ සේවය කරන කම්කරුවන් බවය.
-
-◼️
-
-[Data](articles/4dea4a22.json)
-
----
-
-### Syria’s leader urges Bedouin tribes to commit to a ceasefire ending clashes with the Druze
-
-*2025-07-20 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110648/syrias-leader-urges-bedouin-tribes-to-commit-to-a-ceasefire-ending-clashes-with-the-druze) · `en`
-
-Syria’s interim President Ahmad al-Sharaa urged Sunni Muslim Bedouin tribes Saturday to “fully commit” to a ceasefire aimed at ending clashes with Druze-linked militias that left hundreds dead and threatened to unravel the country’s postwar transition.
-
-Despite the call, clashes continued in the southern province of Sweida.
-
-Government forces that were initially sent to restore order but effectively sided with the Bedouins against the Druze were redeployed to halt renewed fighting that erupted Thursday in the southern province of Sweida. The violence also drew airstrikes against Syrian forces by neighboring Israel before a truce was reached.
-
-In his second televised address since the fighting started, al-Sharaa blamed “armed groups from Sweida” for reigniting the conflict by “launching retaliatory attacks against the Bedouins and their families.” He also said Israeli intervention “pushed the country into a dangerous phase.”
-
-...
-
-[Data](articles/7bcfa305.json)
-
----
-
-### சீரற்ற வானிலை :  மூவர் மாயம், இருவர் மீட்பு;  கடற்றொழிலாளர்களுக்கு அவசர எச்சரிக்கை
-
-*2025-07-20 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220450) · `ta`
-
-தற்போதைய சீரற்ற  வானிலையைக் கருத்தில் கொண்டு, கடலுக்குச் செல்வதை முற்றிலுமாகத் தவிர்க்குமாறு கடற்றொழில் மற்றும் நீரியல் வளத் திணைக்களத்தின் பணிப்பாளர் நாயகம்  சுசந்த கஹவத்த  அனைத்து கடற்றொழில் சமூகத்தினரிடமும் கேட்டுக்கொண்டுள்ளார்.
-
-புத்தளத்திலிருந்து பொத்துவில் வரையான கொழும்பு, காலி மற்றும் அம்பாந்தோட்டை ஊடான கடல் பிராந்தியங்களில் காற்றின் வேகம் மணிக்கு 60-70 கிலோ மீற்றர் வரை அதிகரிக்கக்கூடும் எனவும், கடல் அலைகள் 2.5 முதல் 3 மீற்றர் வரை உயரக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-இந்த சூழ்நிலையில் ஏற்கனவே பல துரதிர்ஷ்டவசமான சம்பவங்கள் பதிவாகியுள்ளதாக திரு. கஹவத்த வருத்தத்துடன் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/0023b65d.json)
-
----
-
-### හලාවතින් මුහුදු ගිය ධීවර යාත්‍රාවක් අතුරුදන්
-
-*2025-07-20 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/හලාවතින්-මුහුදු-ගිය-ධීවර-යාත්‍රාවක්-අතුරුදන්/11-417399) · `si`
-
-හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් ධීවරයින් සමග අතුරුදන් වී තිබේ.
-
-මෙම යාත්‍රාව සමග තවත් යාත්‍රා දෙකක් ගොස් ඇති අතර, එම යාත්‍රා දෙක ගොඩබිමට පැමිණ ඇත.
-
-දැඩි සුළං සහ කුණාටු තත්ත්වය හමුවේ මෙම ධීවරය යාත්‍රාව අතුරුදන්ව ඇති අතර එහි ධීවරයි දෙදෙනෙකු සිට තිබේ.
-
-◼️
-
-[Data](articles/e0ef69b0.json)
-
----
-
-### சவுதியின் தூங்கும் இளவரசர் காலமானார்
-
-*2025-07-20 12:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சவுதியின்-தூங்கும்-இளவரசர்-காலமானார்/50-361402) · `ta`
-
-சவுதி அரேபியாவின் இளவரசர் அல் வாலீத் பின் காலித் பின் தலால் அல் சவுத். சவுதி அரேபியாவை நிறுவிய மன்னர் அப்துல் அஜீசின் தலைமுறையில் வந்த கொள்ளு பேரன் ஆவார்.
-
-இவர் கடந்த 2005-ம் ஆண்டு இங்கிலாந்தின் லண்டனில் ராணுவ கல்லூரியில் படித்து வந்தபோது கார் விபத்தில் சிக்கி கோமா நிலைக்கு சென்றார். அப்போது அவருக்கு வயது 15 ஆகும். கோமா நிலையில் அவர் சவுதி அரேபியா தலைநகர் ரியாத்தில் உள்ள கிங் அப்துல்அஜிஸ் மருத்துவமனையில் பராமரிக்கப்பட்டு வந்தார்.
-
-இதனால் அவர் தூங்கும் இளவரசர் என்று அழைக்கப்பட்டார். இந்த நிலையில் 20 ஆண்டுகளாக கோமாவில் இருந்த இளவரசர் அல் சவுத் சிகிச்சை பலனின்றி உயிரிழந்தார். இதை அவரது தந்தை இளவரசர் காலித் பின் தலால் அல் சவுத் உறுதி செய்துள்ளார்.
-
-இளவரசரின் இறுதிச் சடங்குகள் ரியாத்தில் உள்ள இமாம் துர்கி பின் அப்துல்லா மசூதியில் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. இளவரசர் கோமாவில் இருந்து மீண்டு வர வாய்ப்பு குறைவு என்பதால் வென்டிலேட்டரை அகற்ற அரச குடும்பத்தினரிடம் டாக்டர்கள் தெரிவித்தனர்.
-
-...
-
-[Data](articles/51559f46.json)
 
 ---

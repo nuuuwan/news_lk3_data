@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 15:47:22**
+As of **2025-07-20 16:05:49**
 
 ## Newspaper Stats
 
-*Scraped **65,686** Articles*
+*Scraped **65,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,304
 adaderanalk | 8,029
-tamilmirrorlk | 9,420
+tamilmirrorlk | 9,421
 virakesarilk | 10,934
-adaderanasinhalalk | 11,288
+adaderanasinhalalk | 11,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,686 articles have been extended.
+61,973 (94.3%) of 65,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### எம்.பியின் மகனுக்கு விளக்கமறியல்
+
+*2025-07-20 15:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-மகனுக்கு-விளக்கமறியல்/175-361415) · `ta`
+
+பாகங்கள் ஒருங்கிணைக்கச் செய்யக்கூடியதாகச் சொல்லப்படும் ஜிப் வண்டியின் உரிமையாளர் என்ற குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்ட  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  ஒருவரின் மகனை, அடுத்த மாதம் 1 ஆம் திகதி வரை விளக்கமறியில் வைக்குமாறு மத்துகம பிரதான நீதவான் ஏ.ஐ. ஹெட்டிவத்த, ஞர்யிற்றுக்கிழமை (20)  உத்தரவிட்டார்.
+
+விளக்கமறியலில் வைக்கப்பட்ட நபர் ரசிக புத்திக விதான. அவர் ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதானவின் மகனாவார். .
+
+◼️
+
+[Data](articles/2f21d35a.json)
+
+---
+
+### වසා තිබූ දුම්රිය හරස් මාර්ගයෙන් බස් එක දැමූ රියදුරු අල්ලයි
+
+*2025-07-20 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212442) · `si`
+
+නාවලපිටිය වරකාව ප්‍රදේශයේ පිහිටි දුම්රිය හරස් මාර්ගය වසා තිබියදී අවදානම නොතකා ඒ හරහා බස් රථයක් ධාවනය කළ රියදුරා නාවලපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඉකුත් 17වනදා මෙම බස් රථය ගිනිගත්හේන, ලක්ෂපාන ප්‍රදේශයේ සිට මහනුවර දක්වා ධාවනය කර ඇති අතර වරකාව දුම්රිය හරස් මාර්ගය අසළට පැමිණෙන විටත් දුම්රිය ආරක්ෂිත ගේට්ටුව වසා දමා තිබුණි.
+
+කෙසේ වෙතත් බස් රථ රියදුරා ප්‍රතිවිරුද්ධ දිශාවේ රේල් ගේට්ටුවේ තිබූ කුඩා ඉඩකින් බස් රථය ධාවනය කළේය.
+
+එම ස්ථානයෙන් බස් රථය පිටත් වී සුළු වේලාවකින් මහනුවර සිට නාවලපිටිය දක්වා ගමන්ගත් මගී ප්‍රවාහන දුම්රිය පිටත්ව ගියේය.
+
+මෙම සිදුවීම අසළ තිබූ වෙළෙඳසැලක සවිකර තිබූ ආරක්ෂිත කැමරාවක සටහන්ව තිබූ අතර, සිද්ධිය සම්බන්ධයෙන් දුම්රිය ආරක්ෂිත ගේට්ටුවේ මුරකරු විසින් නාවලපිටිය පොලිසිය වෙත පැමිණිලි කර තිබේ.
+
+ඒ අනුව එම බස් රථයේ රියදුරා සැකපිට අත්අඩංගුවට ගනු ලැබූ අතර, පසුව ඇප මත මුදාහැරුණි.
+
+කෙසේ වෙතත් සැකකරුට එරෙහිව නාවලපිටිය මහෙස්ත්‍රාත් අධිකරණය හමුවේ නෛතික පියවර ගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/7b86272b.json)
+
+---
 
 ### ”கணவருடன் உடலுறவுக்கு  மறுப்பது சித்ரவதை” :  நீதிமன்றம் பரபரப்பு தீர்ப்பு
 
@@ -350,7 +388,7 @@ The heavy rainfall, which had earlier lashed southern parts of South Korea, move
 
 *2025-07-20 13:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/109-ஐ-ஊக்குவிக்கும்-ஊர்வலம்/175-361404) · `ta`
 
-பெண்கள் மற்றும் குழந்தைகளுக்கு எதிரான துஷ்பிரயோகங்களைப் முறைப்பாடு செய்வதற்கான 109 அவசர அழைப்பை ஊக்குவிப்பதற்காக, பொலிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோக தடுப்பு மற்றும் புலனாய்வுப் பணியகத்தால் ஏற்பாடு செய்யப்பட்ட பொது விழிப்புணர்வு ஊர்வலம் நேற்று சனிக்கிழமை (19) ஆர்மர் வீதியிலிருந்து காலி முகத்திடல் வரை நடைபெற்றது.
+பெண்கள் மற்றும் குழந்தைகளுக்கு எதிரான துஷ்பிரயோகங்களைப் முறைப்பாடு செய்வதற்கான 109 அவசர அழைப்பை ஊக்குவிப்பதற்காக, பொலிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோக தடுப்பு மற்றும் புலனாய்வுப் பணியகத்தால் ஏற்பாடு செய்யப்பட்ட பொது விழிப்புணர்வு ஊர்வலம் நேற்று சனிக்கிழமை (19) ஆமர் வீதியிலிருந்து காலி முகத்திடல் வரை நடைபெற்றது.
 
 டிஐஜி ரேணுகா ஜெயசுந்தர மற்றும் ஏஎஸ்பி மெரில் ரஞ்சன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில், பல பொலிஸ் பிரிவுகளைச் சேர்ந்த சுமார் 350 அதிகாரிகள் பங்கேற்றனர். இந்த அணிவகுப்பில் துண்டுப்பிரசுர விநியோகம், கண்காட்சிகள், தெரு நாடகங்கள் மற்றும் துஷ்பிரயோகம் தடுப்பு மற்றும் கிடைக்கக்கூடிய ஆதரவு சேவைகள் குறித்து பொதுமக்களுக்கு விழிப்புணர்வு ஏற்படுத்தும் வகையில் காலி முகத்திடலில் ஒரு சிறப்பு நிகழ்ச்சி நடைபெற்றது.
 
@@ -1745,33 +1783,5 @@ A national constitution is more than just a legal document – it is the backbon
 ...
 
 [Data](articles/936d1a4e.json)
-
----
-
-### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
-
-*2025-07-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
-
-Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
-
-In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
-
-...
-
-[Data](articles/2ecd8d48.json)
-
----
-
-### The Chemmani  mass grave site in  Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.
-
-*2025-07-20 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86169) · `en`
-
-A mass grave site in Sri Lanka’s northern Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.
-
-The site was discovered by accident in February this year when workers, who were readying land in Chemmani — located in the outskirts of Jaffna, a former war zone — to build a Hindu crematorium, stumbled upon what appeared to be human bones. They immediately alerted authorities, prompting the Jaffna Magistrate Court to order excavation and further investigation.
-
-...
-
-[Data](articles/7bf81f1c.json)
 
 ---

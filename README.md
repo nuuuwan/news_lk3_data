@@ -1,36 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 11:50:06**
+As of **2025-07-20 12:07:03**
 
 ## Newspaper Stats
 
-*Scraped **65,640** Articles*
+*Scraped **65,648** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 585
+dbsjeyarajcom | 586
 colombotelegraphcom | 671
 bbccomsinhala | 677
 economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,299
-adaderanalk | 8,019
-tamilmirrorlk | 9,411
-virakesarilk | 10,922
+adalk | 6,300
+adaderanalk | 8,021
+tamilmirrorlk | 9,412
+virakesarilk | 10,925
 adaderanasinhalalk | 11,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,640 articles have been extended.
+61,973 (94.4%) of 65,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### அடேங்கப்பா..! “4.5 கிலோ எடை” ரத்தக்கசிவால் அம்பலமானது
+
+*2025-07-20 11:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அடேங்கப்பா-4-5-கிலோ-எடை-ரத்தக்கசிவால்-அம்பலமானது/50-361397) · `ta`
+
+மூன்றாம் ஆண்டு படிக்கும் ஒரு 20 வயதான மாணவி, எதிர்பாராதவிதமாக தனது விடுதி அறையில்வே ‘ராட்சத’ குழந்தை ஒன்றை பெற்றுள்ளார். மத்திய சீனாவின் ஹூபே மாகாணத்தில் உள்ள ஒரு பல்கலைக்கழக விடுதியில் இந்த அதிர்ச்சிகரமான சம்பவம்  இடம்பெற்றுள்ளது.
+
+4.5 கிலோ எடையுள்ள அந்த குழந்தையின் பிரசவம் இரவில் ஏற்பட்டதால், மாணவியின் அறைத் தோழி தீவிர இரத்த வாசனையால் விழித்தெழுந்ததும் பரபரப்பாக  கூறியுள்ளார். மாணவியின் மேல் படுக்கை போர்வை முழுவதும் இரத்தத்தில் நனைந்திருந்தது என்றும், அந்த நேரத்தில் மாணவி வலியில் தவித்துக் கொண்டிருந்தார் என்றும் அறைத் தோழி தெரிவித்தார்.
+
+சம்பவ இடத்துக்கு வந்த மருத்துவக் குழு, குழந்தை பிறந்துவிட்டதைக் கண்டதும், அவசரமாக இரத்தப்போக்கை கட்டுப்படுத்தும் மருத்துவசிகிச்சை அளித்தனர். மருத்தவர்கள், இந்த அளவுக்கு பெரிய குழந்தையை கண்டதும் , மாணவியின் உடல் நிலையைப் பார்த்தும் அதிர்ச்சி அடைந்ததாக தகவல்கள் கூறுகின்றன.
+
+...
+
+[Data](articles/0dbfcdb7.json)
+
+---
+
+### யாழ்ப்பாண மனித புதைகுழி - அனுரகுமார அரசாங்கத்திற்கு ஒரு சோதனை
+
+*2025-07-20 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/220443) · `ta`
+
+யாழ்மாவட்டத்தில் கண்டுபிடிக்கப்பட்டுள்ள சர்வதேச சமூகத்தினதும் உள்நாட்டினதும் கவனத்தை ஈர்த்துள்ள மனித புதைகுழி தமிழ்மக்களின் துயரங்களிற்கு தீர்வை காண்போம் என்ற அனுரகுமாரதிசநாயக்க அரசாங்கத்தின் வாக்குறுதியை சோதனை செய்யும் விடயமாக மாறியுள்ளது
+
+முன்னைய போர்பூமியான யாழ்ப்பாணத்தின் புறநகர் பகுதியில் அமைந்துள்ள செம்மணியில் உள்ள இந்துமயானத்தில் தகனமேடையொன்றை அமைப்பதற்கான நடவடிக்கைகளில் கடந்த பெப்ரவரி மாதம் தொழிலாளர்கள் ஈடுபட்டுக்கொண்டிருந்தவேளை அவர்கள் மனித எலும்புகளை கண்டனர்.அவர்கள் இது குறித்து உடனடியாக அதிகாரிகளிற்கு தெரிவித்தனர்.யாழ்ப்பாண நீதவான்நீதிமன்றம் அந்த இடத்தில் அகழ்வை மேற்கொள்ளுமாறும் விசாரணைகளை முன்னெடுக்குமாறும் உத்தரவிட்டது.
+
+யாழ்ப்பாணப் பல்கலைக்கழக மாணவர்களின் உதவியுடன் ஒரு மூத்த தொல்பொருள் ஆய்வாளர் மற்றும் நீதித்துறை மருத்துவ அதிகாரிகள் (தடயவியல் நோயியல் நிபுணர்கள் மற்றும் தடயவியல் மானுடவியலில் நிபுணத்துவம் பெற்றவர்கள் ) அடங்கிய நிபுணர்கள் குழு தற்போது  பாதுகாக்கப்பட்டுள்ள இடத்தை அகழ்வாராய்ச்சி செய்து வருகிறது.
+
+...
+
+[Data](articles/75e0cd58.json)
+
+---
+
+### පොලිස් නිලධාරීන් සියයට 40කට බෝ නොවන රෝග  - සෞඛ්‍ය සම්පන්න සියයට 30යි
+
+*2025-07-20 11:37:16* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්-සියයට-40කට-බෝ-නොවන-රෝග----සෞඛ්‍ය-සම්පන්න-සියයට-30යි/11-417398) · `si`
+
+වර්තමානයේ පොලිස් නිලධාරීන්ගෙන් 40%ක් බෝ නොවන රෝග වලින් පෙළෙන බව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පැවසීය.
+
+“පොලිස් නිලධාරීන් බැලුවොත් 40%ක් බෝ නොවන රෝග වලින් පෙලෙනවා. තව 30%ක ප්‍රමාණයක් තවම පරික්ෂා කිරීම් කරලා නෑ. ඉතිරි 30% තමයි යම්කිසි ශාරීරික සෞඛ්‍ය තත්ත්වයකින් ඉන්නේ. ”
+
+◼️
+
+[Data](articles/9c7da2cc.json)
+
+---
 
 ### வகுப்பறையில் மாணவர்களின் எண்ணிக்கையை குறைக்க திட்டம்
 
@@ -98,6 +144,52 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### செம்மணியும் குருக்கள் மடமும்
+
+*2025-07-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220431) · `ta`
+
+குருக்கள்மடம் பிரதேசத்தில் கொலை செய்யப்பட்ட முஸ்லிம்களின் புதைகுழிகள் தோண்டப்பட வேண்டுமென்று களுவாஞ்சிக்குடி நீதிவான் நீதிமன்றத்தில் வழக்கு ஒன்று தாக்கல் செய்யப்பட்டிருந்தது. இதன் அடிப்படையில் 2014ஆம் ஆண்டு நவம்பர் மாதம் 11 ஆம் திகதி குருக்கள் மடத்தில் மனிதப் புதைகுழியில் அகழ்வுப் பணிகள் இடம்பெறவிருந்தன.
+
+◼️
+
+[Data](articles/5dd28102.json)
+
+---
+
+### பொருளாதார நெருக்கடியை இனப்பிரச்சினையுடன் இணைக்க வேண்டும்
+
+*2025-07-20 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220430) · `ta`
+
+பொருளாதாரப் பிரச்சினையின் அடி வேரே இனப் பிரச்சினை தான். இனப்பிரச்சினையை தீர்க்காமல் பொருளாதார நெருக்கடிக்கு முழுமையான தீர்வை காண முடியாது என்பதை புரிய வைக்க வேண்டும்.
+
+◼️
+
+[Data](articles/e4da55e1.json)
+
+---
+
+### Anti-immigrant rallies staged across Poland
+
+*2025-07-20 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110646/anti-immigrant-rallies-staged-across-poland) · `en`
+
+Anti‑immigration protests have taken place in dozens of towns and cities across Poland.
+
+Most demonstrations attracted several hundred people or fewer on Saturday - but police estimated that about 3,000 took part in the largest rally in the southern city of Katowice.
+
+The protests were organised by far-right political group Konfederacja, and another nationalist organisation.
+
+Politicians from Konfederacja and the opposition Law and Justice party have been warning about a flood of illegal migration in Poland - but official figures do not support their claims.
+
+“Without closing Poland to illegal immigration, without starting deportation campaigns, without abandoning political correctness... security will gradually deteriorate,” Konfederacja co-chairman Krzysztof Bosak told the crowd in the eastern city of Bialystok.
+
+A minute’s silence was held at some gatherings in memory of a 24-year-old Polish woman murdered in the central city of Torun.
+
+...
+
+[Data](articles/59f4791c.json)
+
+---
+
 ### උඩු ගුවනේදී ගුවන් යානයක එන්ජිමක් ගිනි ගනී
 
 *2025-07-20 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212432) · `si`
@@ -115,6 +207,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/05397a6c.json)
+
+---
+
+### One spill gate of Upper Kotmale Reservoir opened due to heavy rain
+
+*2025-07-20 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110645/one-spill-gate-of-upper-kotmale-reservoir-opened-due-to-heavy-rain) · `en`
+
+Steps have been taken to open one sluice gate of the Upper Kotmale Reservoir, due to heavy rainfall in the catchment areas of the reservoir.
+
+Accordingly, the Nuwara Eliya District Disaster Management Centre stated that the sluice gate was opened early this morning (20).
+
+If heavy rain continues in the Upper Kotmale catchment areas, other sluice gates of the reservoir will open automatically. Therefore, the Disaster Management Centre requested those residing along the sides of the Kotmale Oya to remain vigilant.
+
+Additionally, due to heavy showers in the area, the water levels of the St. Clair and Devon waterfalls have also risen significantly.
+
+◼️
+
+[Data](articles/ead4c110.json)
 
 ---
 
@@ -966,6 +1076,22 @@ A national constitution is more than just a legal document – it is the backbon
 
 ---
 
+### 
+
+*2025-07-20 02:17:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86173) · `en`
+
+Mr. Muthu was born to Karunanidhi’s first wife Padmavathi; he was an actor and singer, who was known to have styled himself after MGR
+
+Mu. Ka. Muthu, the eldest son of the late Chief Minister M. Karunanidhi and half-brother of Chief Minister M.K. Stalin, died in Chennai on Saturday (July 19, 2025). He had been ailing for a long time. He was 77 and is survived by his wife, son, and daughter.
+
+Mr. Muthu was born to Karunanidhi’s first wife Padmavathi, daughter of Chidambaram Padagasundaram Pillai, a renowned musician and composer. His maternal uncle, C.S. Jayaraman — a playback singer — rendered many songs for Sivaji Ganesan-starrers, including his debut film Parasakthi.
+
+...
+
+[Data](articles/bacc02ec.json)
+
+---
+
 ### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
 
 *2025-07-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
@@ -1627,151 +1753,5 @@ SEBI’s order has roiled the Indian markets, raising questions about regulator 
 ...
 
 [Data](articles/74103da5.json)
-
----
-
-### International Humanitarian Law and the “Norms” of War
-
-*2025-07-19 15:18:00* · [`islandlk`](http://island.lk/international-humanitarian-law-and-the-norms-of-war/) · `en`
-
-The International Committee of the Red Cross, the ICRC, was founded in Geneva, Switzerland in 1863. The organization is now more than 162 years old. A three-time Nobel Peace Prize Laureate – in 1917, 1944, 1963 – it operates in over 100 countries. It is not just a neutral umpire during times of war; it is a nightwatchman, its history more or less synonymous with that of international humanitarian law, or IHL.
-
-The Global Initiative to galvanize political commitment to international humanitarian law, the ICRC’s latest endeavor, saw the light of day in Colombo two weeks ago. On Wednesday, July 9, the ICRC, led by outgoing head Séverine Chappaz, held a briefing and panel discussion on the way forward. Organized under the auspices of the Bandaranaike International Diplomatic Training Institute (BIDTI), the two-hour session, at the BMICH, saw an exchange of views between diplomats, State officials, and civil society.
-
-...
-
-[Data](articles/187bd23f.json)
-
----
-
-### දේශබන්දු ගැන හොයන පරීක්ෂණ කමිටුවේ වාර්තාව එළැඹෙන සතියේ කථානායකට
-
-*2025-07-19 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212413) · `si`
-
-ධුරයේ රාජකාරී කිරීම අත්හිටුවා ඇති පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ක්‍රියාකාලපය සම්බන්ධයෙන් සොයා බලන කමිටුවේ අවසන් වාර්තාව එළැඹෙන සතිය තුළ කථානායකවරයා වෙත භාරදීමට සැලසුම්කර තිබේ.
-
-මේ වන විට අදාළ වාර්තාව සකස් කරමින් පවතින බව එම කමිටුව සඳහන් කළේය.
-
-දේශබන්දු තෙන්නකෝන් මහතා සිදුකර ඇති බව කියන විශමාචාර සහ සිය ධුරයේ බලතල බරපතල අන්දමින් භාවිත කිරීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තාවක් සකස් කිරීම සඳහා විශේෂ පරීක්ෂණ කමිටුවක් පත් කරනු ලැබීය.
-
-එම කමිටුවේ සභාපතිවරයා ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පත්මන් සූරසේන මහතා කටයුතු කරනු ලබයි.
-
-එහි සෙසු සාමාජිකයින් ලෙස විනිසුරු නීල් ඉද්දවෙල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරු කටයුතු කරනු ඇත.
-
-මෙම පරීක්ෂණ කමිටුව අවස්ථා 10කට වැඩි ගණනකදී රැස්වී සාක්ෂි සටහන් කර ගැනීම සිදුකර ගත්තේය.
-
-එමෙන්ම ජුලි මස 16 වැනිදා සිට එම පරීක්ෂණ කමිටුව දිනපතා රැස්වී සාක්ෂි සටහන් කර ගැනීමට පියවර ගෙන තිබුණි.
-
-ඒ අනුව පරීක්ෂණ කමිටුවේ සාක්ෂි සටහන් කර ගැනීම පසුගියදා සම්පූර්ණයෙන්ම අවසන් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/8ab06728.json)
-
----
-
-### තලවතුගොඩ වෙඩිතැබීමේ සිද්ධියට අත්අඩංගුවට ගත් සුරාබදු නිලධාරියා සහ ව්‍යාපාරිකයා රිමාන්ඩ්
-
-*2025-07-19 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212412) · `si`
-
-තලවතුගොඩ ප්‍රදේශයේ සමාජ ශාලාවක් අසල අද (19) අලුයම සිදුකළ වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සුරාබදු නිලධාරියා සහ ව්‍යාපාරිකයා රක්ෂිත බන්ධනාගාර ගතකිරීමට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-තලංගම පොලීසිය මගින් අත්අඩංගුවට ගෙන කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් දෙදෙනා ලබන 30 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කර ඇත.
-
-අද අලුයම 1 ට පමණ තලවතුගොඩ ප්‍රදේශයේ පිහිටි සමාජ ශාලාවක් අසල දී ව්‍යාපාරිකයෙකු සහ සුරාබදු නිලධාරියෙකු අතර බහින් බස්වීමක් සිදුව තිබුණි.
-
-එම බහින් බස්වීම දුර දිග යාම හේතුවෙන් ඇති වූ ආරවුලකදී ව්‍යාපාරිකයා විසින් තමා සතුව තිබු රිවෝල්වර වර්ගයේ ගිනිඅවිය සුරාබදු නිලධාරියා වෙත එල්ල කර ඇති බව සඳහන්ය.
-
-එහිදි සුරාබදු නිලධාරියා විසින් එම ගිනි අවිය උදුරාගෙන අසල පිහිටි තාප්පයක් වෙත උණ්ඩ 4ක් එල්ල කර ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-සිද්ධිය සම්බන්ධයෙන් ලද තොරතුරක් මත එම ස්ථානයට ගිය තලංගම පොලිස් ස්ථානයේ නිලධාරින් කණ්ඩායමක් විසින් ගිනි අවිය සමග සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන තිබේ.
-
-...
-
-[Data](articles/51404564.json)
-
----
-
-### Girls’ High School, Kandy Mem’ry will picture …
-
-*2025-07-19 14:57:00* · [`islandlk`](http://island.lk/girls-high-school-kandy-memry-will-picture/) · `en`
-
-A gathering of over 75 years women; happy hellos, fellowship and high tea. All this and more at a party on Saturday 12 July late afternoon to evening, to bring together and felicitate the older members of the Girls’ High School OGA (Colombo branch). The excellent organisers were the young, very capable present committee of Old Girls.
-
-The School Song was lustily sung at the start of the happy afternoon and again later when a distinguished professional – once Dean of a Faculty of the Colombo University and actimg VC – proposed we sing the all-time favourite, our school song “Follow On”. And so again:
-
-Memory certainly crowded the mind with delightful incidents of the happiest time of our lives, notwithstanding it was not forty years but even eighty for some as ‘Visions of girlhood’ floated before us as we recalled “Going once more through our work and our fun
-
-...
-
-[Data](articles/5e1900f3.json)
-
----
-
-### Attempt to catch some thieves
-
-*2025-07-19 14:55:00* · [`islandlk`](http://island.lk/attempt-to-catch-some-thieves/) · `en`
-
-Formal talks began at 10 a.m. on the 21st. Before their commencement there was an exchange of gifts. These normally are not particularly valuable. They are tokens. By and large from our side, it was a silver moonstone tray. We didn’t have any major problems with the Chinese and the talks proceeded smoothly and with a degree of informality and good humour. By 11.15 a.m. we had finished. The fact that the Head of the Chinese delegation understood and spoke some English also helped to expedite matters. At 6.30 p.m. a banquet was given in honour of the Deputy Minister by the Chinese Vice Minister. As was customary, this was an elaborate affair. We lost count of the number of courses.
-
-...
-
-[Data](articles/a7fa02fe.json)
-
----
-
-### කෙතරම් බාධක පැමිණියත් වැව් රක්ෂිතවල අනවසර ඉදිකිරීම් ඉවත් කරනවා - ඇමති ලාල්කාන්ත
-
-*2025-07-19 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212411) · `si`
-
-කෙතරම් විරෝධතා සහ බාධක පැමිණිය ද වැව් රක්ෂිතවල අනවසර ඉදිකිරීම් සියල්ල ඉවත් කරන බව කෘෂිකර්ම, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී. ලාල් කාන්ත මහතා පවසයි.
-
-වැව් රක්ෂිතවල අනවසර ඉදිකිරීම් පිළිබඳ ගන්නා පියවර සම්බන්ධයෙන් කෘෂිකර්ම, ඉඩම් හා වාරිමාර්ග අමාත්‍යවරයා ඊයේ (19) අදහස් පළ කරමින් මේ බව සඳහන් කළේය.
-
-මෙරට වැව් රක්ෂිත 23ක සීමා සලකුණු කිරීම සඳහා රජය නව වැඩපිළිවෙළක් ආරම්භ කළේ එය ජාතික අවශ්‍යතාවක් ලෙස සලකමින්ය.
-
-ඒ සඳහා වන පළමු පියවර ලෙස සියලු වැව් රක්ෂිතවල සීමා සලකුණු කිරීමේ වැඩපිළිවෙළ රජය අද ආරම්භ කෙරුණේ නුවර වැවේ රක්ෂිතයේ සීමාවල වාරිමාර්ග දෙපාර්තමේන්තු සලකුණ සටහන් කරමින්ය.
-
-අනුරාධපුර නුවර වැව, කන්තලේ වැව, ගිරිතලේ වැව, පුත්තලම තබ්බෝව වැව, වාරියපොළ දැදුරුඔය ජලාශය , මින්නේරිය වැව, හම්බන්තොට තිස්ස වැව, හම්බන්තොට රිදියගම වැව, මාපාකඩ දම්බරාවැව, බදුල්ල දෙමෝදර වැව, මඩකලපුව උන්නච්චයි වැව, මඩකලපුව නවකිරිවැව, මාතර කැකණදුර ඇල්ල කන්දවැව ඇතුළු වැව් 23ක රක්ෂිත මායිම් ලකුණු කිරීම සිදුකෙරේ.
-
-...
-
-[Data](articles/01a45856.json)
-
----
-
-### A Landmark Ruling for the Buddhist world: Supreme Court of Sri Lanka Recognises Bhikkhuni Identity
-
-*2025-07-19 14:52:00* · [`islandlk`](http://island.lk/a-landmark-ruling-for-the-buddhist-world-supreme-court-of-sri-lanka-recognises-bhikkhuni-identity/) · `en`
-
-In an era when constitutional justice is often contested in the glare of the media, one of the most significant rulings in Sri Lanka’s legal and religious history, was delivered almost unnoticed — yet its implications could echo globally.
-
-On 16 June 2025, the Supreme Court of Sri Lanka delivered a majority ruling in SC/FR/218/2013, affirming the fundamental rights of a Buddhist nun to be identified as “Bhikkhuni” on her National Identity Card (NIC), thereby recognizing the de facto existence of the Bhikkhuni Sangha in Sri Lanka.
-
-The case had quietly journeyed through the judicial corridors since it was first filed on 31 May 2013, argued before the bench on 24 October 2024, and culminated in a judgment that both restores dignity and acknowledges history. No protest marches, no press conferences, no talk-show panels. And yet, in its silence, the judgment affirms something extraordinary: the legal, historical, and constitutional validity of the Bhikkhuni Sangha in modern Sri Lanka.
-
-...
-
-[Data](articles/df2ef6d4.json)
-
----
-
-### ருவான்வெல்ல எசல பெரஹரா இன்று : போக்குவரத்து கட்டுப்பாடுகள் குறித்து பொலிஸார் விசேட அறிவிப்பு
-
-*2025-07-19 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220386) · `ta`
-
-ருவான்வெல்ல பொலிஸ் பிரிவிற்குள் அமைந்த யடன்வல ஸ்வர்ண வாலுகாராம விகாரையின் ஏற்பாட்டில் நடைபெறவுள்ள எசல பெரஹரா காரணமாக, இன்று சனிக்கிழமை (19) இரவு 10.00 மணி முதல் நள்ளிரவு 12.00 மணி வரை போக்குவரத்துக்கு தற்காலிகமாக கட்டுப்பாடுகள் விதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இப்பெரஹரா, ஸ்வர்ண வாலுகாராம விகாரை அருகிலிருந்து ஆரம்பித்து, கேகாலை – கரவனெல்லை வீதி வழியாக கரவனெல்லை நோக்கிச் சென்று, பின்னர் ருவான்வெல்ல ராஜசிங்க  பாடசாலைக்கு அருகே திரும்பி, ஆரம்பித்த இடத்திற்கே மீண்டும் செல்ல திட்டமிடப்பட்டுள்ளது.
-
-இதற்கமைய, கேகாலை – கரவனெல்லை வீதியில், வராவல சந்தி மற்றும் தல்துவ சந்தியில் போக்குவரத்து இரவு 10.00 முதல் 12.00 வரை தடை செய்யப்படும்.
-
-குறித்த நேரத்தில் பயணம் செய்யும் சாரதிகள், கீழ் காணும் மாற்று வழிகளை பயன்படுத்துமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
-
-கேகாலையில் இருந்து அவிசாவளை நோக்கி செல்லும் வாகனங்கள், வராவல சந்தியில் இருந்து புலத்கொஹுபிடிய வழியாக, பருச்செல்ல, எட்டியாந்தோட்டை ஊடாக ஹட்டன் – கொழும்பு பிரதான வீதியில் இணைந்து, அவிசாவளை நோக்கி பயணம் செய்யலாம்.
-
-...
-
-[Data](articles/b09de710.json)
 
 ---

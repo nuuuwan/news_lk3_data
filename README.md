@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 19:12:26**
+As of **2025-07-20 19:32:22**
 
 ## Newspaper Stats
 
-*Scraped **65,721** Articles*
+*Scraped **65,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,41 @@ newsfirstlk | 363
 dbsjeyarajcom | 586
 colombotelegraphcom | 671
 bbccomsinhala | 677
-economynextcom | 4,016
 islandlk | 4,017
+economynextcom | 4,019
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,310
-adaderanalk | 8,035
-tamilmirrorlk | 9,424
-virakesarilk | 10,948
+adaderanalk | 8,037
+tamilmirrorlk | 9,425
+virakesarilk | 10,952
 adaderanasinhalalk | 11,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,721 articles have been extended.
+61,973 (94.3%) of 65,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### பொலிஸ் உத்தியோகத்தர்களில் சுமார் 20 - 40 சதவீதமானோருக்கு தொற்றா நோய்
+
+*2025-07-20 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220493) · `ta`
+
+நாட்டில் தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார்  20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளதுடன் 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளதாக பதில் பொலிஸ்மா அதிபர் பிரயந்த வீரசூரிய தெரிவித்துள்ளார்.
+
+புதிதாக ஸ்தாபிக்கப்பட்ட சப்பிரகமுவ மாகாண குற்றப்புலனாய்வு பிரிவு திறப்பு விழாவில் சனிக்கிழமை (19) சிறப்பு விருந்தினராக கலந்துக் கொண்டிருந்த போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார் 20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளனர். 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளது. மீதமாக உள்ள 30 சதவீதமானோர் மாத்திரமே நல்ல தேகாரோக்கியத்துடன் உள்ளனர்.
+
+...
+
+[Data](articles/daa69f0f.json)
+
+---
 
 ### ”கட்சியையும் சஜித்தையும் சதி நடக்கிறது”
 
@@ -51,6 +67,102 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/98a225d5.json)
+
+---
+
+### ”கட்சியையும் சஜித்தையும் பலவீனப்படுத்த சதி”
+
+*2025-07-20 18:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியையும்-சஜித்தையும்-பலவீனப்படுத்த-சதி/175-361421) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை மாற்றுவதற்கான உள் நடவடிக்கை குறித்த வதந்திகளை ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் நிராகரித்தார், அதே நேரத்தில் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக பலவீனப்படுத்த வேண்டுமென்றே சதி நடப்பதாகவும் கூறினார்.
+
+"சஜித் பிரேமதாசவை எதிர்க்கட்சித் தலைவர் பதவியில் இருந்து நீக்குவது குறித்து SJB-க்குள் எந்த கலந்துரையாடலும் நடக்கவில்லை" என்று ரஹ்மான் ஒரு ஊடக சந்திப்பில் கூறினார்.
+
+"இருப்பினும், எங்கள் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக அழிக்க சில கூறுகள் செயல்படுகின்றன."
+
+இந்தக் கூறுகள் அரசாங்கத்தின் மறைமுக ஆதரவுடன் செயல்படுவதாகத் தெரிகிறது என்று அவர் குற்றம் சாட்டினார்.
+
+இதற்கிடையில், புதிய கூட்டணிகள் குறித்தும் ரஹ்மான் கருத்து தெரிவித்தார், தயாசிறி ஜெயசேகர போன்ற அனுபவம் வாய்ந்த அரசியல்வாதிகளைக் கொண்டுவருவது ஒரு நேர்மறையான நடவடிக்கையாக இருக்கும் என்று குறிப்பிட்டார்.
+
+"தயாசிறி ஒரு திறமையான மற்றும் அனுபவம் வாய்ந்த அரசியல்வாதி. அவரைப் போன்றவர்களை SJB-யில் வரவேற்பது கட்சியை பலப்படுத்தும்," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/dd2ed0e0.json)
+
+---
+
+### நுரைச்சோலை, சஞ்சீதாவத்தை பகுதியில் சட்டவிரோதமாக கொண்டுவரப்பட்ட உலர்ந்த இஞ்சியுடன் ஒருவர் கைது
+
+*2025-07-20 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220492) · `ta`
+
+புத்தளம் - நுரைச்சோலை சஞ்சீதாவத்தை பகுதியில் இருந்து 2,828 கிலோகிராம் உலர்ந்த இஞ்சியுடன், சந்தேகநபரொருவர் சனிக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் 33 வயதுடையவர் எனவும், இவர் நுரைச்சோலை பகுதியைச் சேர்ந்தவர் என்றும் அடையாளம் காணப்பட்டுள்ளார்.
+
+வடமேற்கு கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் விஜய நிறுவனத்திற்கு சொந்தமான நுரைச்சோலை கடற்படைப் பிரிவினர், நுரைச்சோலை பொலிஸாருடன் இணைந்து குறித்த பகுதியில் சந்தேகத்திற்கிடமான வீடு ஒன்றை சோதனை செய்தனர்.
+
+இதன்போது, குறித்த வீட்டுக்குள் 70 உரமூடைகளில் அடைக்கப்பட்ட நிலையில் 2,828 கிலோ கிராம் உலர்ந்த இஞ்சி கண்டுபிடிக்கப்பட்டதுடன், சந்தேகநபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைப்பற்றப்பட்ட உலர்ந்த இஞ்சி 45 இலட்சத்திற்கும் அதிக பெறுமதியுடையது எனத் தெரிவிக்கப்படுகிறது.
+
+குறித்த உலர்ந்த இஞ்சி விற்பனைக்காக இலங்கையின் பல்வேறு பகுதிகளுக்கும் கடல் வழியாக சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்டிருக்கலாம் என தாம் சந்தேகிப்பதாக கடற்படையினர் தெரிவித்தனர்.
+
+...
+
+[Data](articles/78f2098a.json)
+
+---
+
+### Eight hospitalized after suddenly collapsing at beauty salon in Kandy
+
+*2025-07-20 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110663/eight-hospitalized-after-suddenly-collapsing-at-beauty-salon-in-kandy) · `en`
+
+A group of individuals inside a beauty salon in a multi-story building on Peradeniya Road in Kandy has been hospitalized after suddenly fainting and collapsing on the floor.
+
+The situation reportedly arose due to the closure of all windows and doors at the salon in order to turn on the air conditioning, following the activation of an electricity generator after a power outage at the beauty salon.
+
+Subsequently, an employee at a nearby store had seen a young woman lying unconscious in front of the beauty salon. He, along with several others, opened the door to investigate. Upon entering, the group had discovered six other young women and a man lying unconscious inside the beauty salon.
+
+The group informed the police in this regard, and the unconscious individuals were rushed to the hospital.
+
+Six of them were admitted to the Kandy National Hospital, while the other two were admitted to a private hospital in Kandy.
+
+...
+
+[Data](articles/f7903bb0.json)
+
+---
+
+### மலையக மக்களில் வீடு வசதியற்ற நான்காயிரத்து 700 குடும்பங்களுக்கு விட்டுத்திட்டம் அடுத்த மாதம் ஆரம்பிப்பு - அமைச்சர் சமன்த வித்தியாரத்ன
+
+*2025-07-20 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220489) · `ta`
+
+மலையக மக்களில் வீடு வசதியற்ற நான்காயிரத்து 700 குடும்பங்களுக்கு வீடு கட்டிக்கொடுக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. இந்திய அரசின் உதவியுடன் நிர்மாணிக்க இருக்கும் இந்த விட்டுத்திட்டம் அடுத்த மாதம் ஆரம்பிக்கப்படும் என பெருந்தோட்ட மற்றும் உட்கட்டமைப்பு அமைச்சர் சமன்த வித்தியாரத்ன தெரிவித்தார்.
+
+பெருந்தோட்ட அமைச்சில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மலையக பெருந்தோட்ட மக்கள் கடந்த 200 வருடங்களாக எதிர்கொண்டு வரும் அடிப்படை பிரச்சினைகளுக்கு தீர்வு பெற்றுக்கொடுப்பதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க ஹட்டன் பிரகடனத்தின்போது தெரிவித்திருந்தார். குறிப்பாக அந்த மக்களுக்கு என தனியான வீடு, காணி, முகவரி இல்லாத குறைபாட்டுக்கு எமது அரசாங்க காலத்தில் தீர்வுகாண நடவடிக்கை எடுத்திருக்கிறோம். அதன் பிரகாரம் இந்திய அரசாங்கத்தின் உதவியுடன் 4700 குடும்பங்களுக்கு பூரண வீட்டுடன் காணி உரிமை வழங்க திட்டமிட்டிருக்கிறோம்.
+
+...
+
+[Data](articles/a9d8a002.json)
+
+---
+
+### இலங்கையில் ஊழலை ஒழிக்க போராடும் ஜப்பான்
+
+*2025-07-20 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220488) · `ta`
+
+இலங்­கையில் முத­லீடு செய்­வதில், ஜப்­பா­னிய நிறு­வ­னங்கள் உட்­பட  அரச மற்றும் தனியார் நிறு­வ­னங்­களுக்கு மீள நம்­பிக்­கையை ஏற்­ப­டுத்­து­வ­தற்கு, ஊழலை ஒழிப்­பதும் நல்­லாட்­சியும் அவ­சி­ய­மான முன்­நி­பந்­த­னை­களாக உள்­ளன என இலங்­கைக்­கான ஜப்­பா­னிய தூதுவர் அகியோ இசோ­மாட்டா அண்மையில் கூறி­யுள்ளார்.
+
+வெளி­நாட்டு முத­லீ­டு­களை ஈர்ப்­ப­தற்கு இலங்கை தீவி­ர­மாக முயன்­று­வரும் நிலையில், ஜப்­பா­னிய தூதுவர் இவ்­வாறு குறிப்­பிட்­டுள்ளார். கொழும்பில் கடந்த 4 ஆம் திகதி நடை­பெற்ற 4 ஆவது ஜப்­பா­னிய –இலங்கை  பொரு­ளா­தார ஒத்­து­ழைப்பு கொள்கை உரை­யா­ட­லின்­போது அவர் இதனை கூறினார்.
+
+ஜப்பான் வெளி­யு­றவு பிரதி உதவி அமைச்­சரும், ஜப்­பா­னிய சர்­வ­தேச ஒத்­து­ழைப்பு பணி­ய­கத்தின் இஷி­சுகி ஹிடியோ, இலங்கை நிதி­ய­மைச்சின் புதிய செய­லாளர்  கலா­நிதி ஹர்­ஷன சூரி­யப்­பெ­ரும ஆகியோர் தலை­மையில் இக்­க­லந்­து­ரை­யாடல் நடை­பெற்­றி­ருந்­தது.
+
+...
+
+[Data](articles/61bc6466.json)
 
 ---
 
@@ -97,6 +209,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/04dde96e.json)
+
+---
+
+### 30 injured after car plows through crowd outside LA nightclub; driver pulled from vehicle and shot
+
+*2025-07-20 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110662/30-injured-after-car-plows-through-crowd-outside-la-nightclub-driver-pulled-from-vehicle-and-shot) · `en`
+
+A vehicle rammed into a crowd of people waiting to enter a performance venue along a busy boulevard in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the driver, authorities said.
+
+The driver was later found to have been shot, according to police, who were searching for a suspected gunman who fled the scene along Santa Monica Boulevard in East Hollywood.
+
+It was not immediately clear if the driver was shot before or after the crash or why he drove into the crowd, a police spokesperson said.
+
+Twenty-three victims were taken to hospitals and trauma centers, according to police. Seven were in critical condition, the Los Angeles Fire Department said in a statement.
+
+Fire Capt. Adam VanGerpen said a line of people — mostly female — were waiting to enter Vermont Hollywood when they were struck by a Nissan Versa that also hit a food vending cart and valet stand. “This was a very chaotic scene,” said VanGerpen, a public information officer.
+
+...
+
+[Data](articles/8b6012d0.json)
 
 ---
 
@@ -1012,6 +1144,26 @@ Earlier 5.0-magnitude and 6.7-magnitude earthquakes did not initially trigger a 
 
 ---
 
+### Sri Lanka African Swine Fever epidemic waning after claiming 67,000 pigs
+
+*2025-07-20 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-african-swine-fever-epidemic-waning-after-claiming-67000-pigs-231074/) · `en`
+
+ECONOMYNEXT – The spread of African Swine Fever in the Sri Lanka is about 95 percent under control, Hemali Kothalawala, Director General of the Department of Animal Production and Health has said after 2,500 farms were infected, killing of 67,000 hogs and also infecting wild boars.
+
+“We have curtailed the spread by taking stringent measures; veterinary surgeons inspect pig farms and ensure biosafety methods is maintained, and we have banned the transport of infected pigs and meat,” Kothalawala told reporters at a recent briefing.
+
+2,500 farms across the nine provinces were infected, while 251 farms have now re-opened.
+
+“The number of reported deaths is 67,000. But we feel the actual number of deaths is more, because of unreported deaths.”
+
+The prevalence of the disease in the island was first identified last September, in the Gampaha District of the western province. The government then issued a gazette banning transport of pigs or meat.
+
+...
+
+[Data](articles/ffe4749e.json)
+
+---
+
 ### රුසියාවේ ප්‍රබල භූ කම්පනයක්
 
 *2025-07-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212436) · `si`
@@ -1231,6 +1383,28 @@ Naval and fishing communities are strongly advised not to venture into the sea a
 ...
 
 [Data](articles/3e1f9d3b.json)
+
+---
+
+### Sri Lanka to charge VAT on Paypal, Stripe, amid existing IMF MCPs
+
+*2025-07-20 11:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-charge-vat-on-paypal-stripe-amid-existing-imf-mcps-231696/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to charge 18 percent value added tax on Paypal, which is considered a financial service and also Stripe, at a time when smaller taxes on credit cards have fallen foul with the International Monetary Fund, under new rules to tax foreign services.
+
+“Financial Technology (FinTech): online banking, payment processors (PayPal, Stripe, and crypto currency
+
+exchanges),” the new gazette requiring VAT to be collected by foreign platforms from October 01 says.
+
+Paypal, which is a financial service, is exempt from VAT in countries like UK and the EU which has well-functioning tax systems.
+
+Stripe, which also collects money on behalf of third parties is subject to a so-called ‘reverse charging’ process which nets off the value added tax on the underlying service, in countries with well-functioning systems.
+
+Paypal however has a service where they can collect VAT on behalf of the underlying service or good, when payment is made.
+
+...
+
+[Data](articles/dee0c1e2.json)
 
 ---
 
@@ -1591,151 +1765,5 @@ Acting IGP Weerasooriya stated, “If you look at the condition of police office
 ...
 
 [Data](articles/a6e81d7c.json)
-
----
-
-### ஆடிவேல் விழாவுக்கு பிரதமருக்கு அழைப்பு
-
-*2025-07-20 10:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/temple/ஆடிவேல்-விழாவுக்கு-பிரதமருக்கு-அழைப்பு/64-361387) · `ta`
-
-கொழும்பு சம்மாங்கோடு ஸ்ரீ கதிர்வேலாயுதசுவாமி - மாணிக்க விநாயகர் ஆலய வருடாந்த ஆடிவேல் விழா, ஆகஸ்ட் 6ஆம் திகதி முதல் 12 ஆம் திகதி வரை    நடைபெறவுள்ளது.
-
-07.08.2025 ரத பவனியில் கலந்து கொள்வதற்கான சிறப்பு அழைப்பிதழை பிரதமரின் செயலகத்தில்  வைத்து பிரதமர் கலாநிதி ஹரிணி அமரசூரிய, செயலாளர் ஜி.பி. சபு தந்திரி ஆகியோருக்கு  ஆலய அறங்காவலர்  சபை தலைவர் அ. மாணிக்கவாசகர், செயலாளர் எஸ். சுந்தரலிங்கம், நிர்வாக குழு உறுப்பினர் எஸ். செல்வராஜ் மற்றும் எச்.எச். விக்ரமசிங்க ஆகியோர் வழங்கினர்.
-
-◼️
-
-[Data](articles/783bb0e3.json)
-
----
-
-### புகைப்பிடிப்பதை நிறுத்த விசித்திர முயற்சி
-
-*2025-07-20 10:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/புகைப்பிடிப்பதை-நிறுத்த-விசித்திர-முயற்சி/53-361386) · `ta`
-
-2013 ஆம் ஆண்டில், துருக்கியைச் சேர்ந்த 42 வயது நபர் ஒருவர் 26 ஆண்டுகளாக புகைபிடித்து வருவதாகவும், புகைபிடிப்பதை நிறுத்த பல முயற்சிகள் எடுத்த போதிலும் அவரால் விட் முடியவில்லை.
-
-அதனால் தனது தலையை ஒரு கூண்டில் அடைத்து வைத்தா. அதன் சாவியையும் மனைவியிடம் கொடுத்து சாப்பிடும் நேரத்தில் மட்டுமே கூண்டைத் திறக்குமாறு கேட்டுக் கொண்டார்.
-
-◼️
-
-[Data](articles/daf43f9f.json)
-
----
-
-### නිලන්ත ජයවර්ධන පොලිස් සේවයෙන් පහ කරයි
-
-*2025-07-20 10:21:21* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-ජයවර්ධන-පොලිස්-සේවයෙන්-පහ-කරයි/11-417397) · `si`
-
-පාස්කු ප්‍රහාරයට අදාළව සිදුකරන ලද රාජකාරී පැහැර හැරීම් සම්බන්ධයෙන් ජාතික පොලිස් කොමිෂන් සභාව කරනු ලැබූ විනය පරීක්ෂණයටෙ අදාළව වරදකරු බවට පත්ව ඇති ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතා පොලිස් සේවයෙන් පහ කිරීමට ජාතික පොලිස් කොමිෂන් සභාව තීරණය කර තිබේ.
-
-◼️
-
-[Data](articles/9ff7f0a4.json)
-
----
-
-### வியட்நாமில் சுற்றுலா படகு கவிழ்ந்து விபத்து: 27 உடல்கள் மீட்பு
-
-*2025-07-20 10:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வியட்நாமில்-சுற்றுலா-படகு-கவிழ்ந்து-விபத்து-27-உடல்கள்-மீட்பு/50-361384) · `ta`
-
-வியட்நாமில் சுற்றுலா படகு கவிழ்ந்த விபத்தில் 27 பேரின் உடல்கள் மீட்கப்பட்டுள்ளன. 12 பேர் உயிருடன் மீட்கப்பட்டுள்ள நிலையில், 14 பேர் மாயமாகி உள்ளதாக தகவல் கிடைத்துள்ளது. இதை அந்த நாட்டின் அரசு செய்தி நிறுவனம் உறுதி செய்துள்ளது.
-
-உலக அளவில் வியட்நாம் சுற்றுலா சார்ந்து பிரபலமான பயண இடங்களில் (டெஸ்டினேஷன்) ஒன்றாக அறியப்படுகிறது. வியட்நாமில் உள்ள பிரபல சுற்றுலா தளங்களில் ஹலாங் பே (Halong Bay) விரிகுடா பகுதி உள்ளது. இந்நிலையில், சனிக்கிழமை (19)அன்று 53 பேருடன் சுற்றுலா படகு ஒன்று கடல் பகுதியில் அந்த நாட்டின் நேரப்படி மதியம் 2 மணிக்கு சென்றது.
-
-அப்போது திடீரென வீசிய சூறைக்காற்று காரணமாக அந்த படகு கவிழ்ந்தது. இதில் படகில் பயணித்தவர்கள் கடலில் விழுந்துள்ளனர். 27 பேரின் உடல்கள் மீட்கப்பட்டுள்ளன. உயிரிழந்தவர்களில் 8 பேர் குழந்தைகள் என தகவல். 14 பேர் மாயமாகி உள்ளனர். அவர்களை தேடும் பணி தீவிரமாக நடைபெற்று வருகிறது. 12 பேர் உயிருடன் மீட்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/7082c328.json)
-
----
-
-### සංවිධානාත්මක යතුරුපැදි සොරකම් කළ කල්ලියක් අල්ලයි
-
-*2025-07-20 10:05:38* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-යතුරුපැදි-සොරකම්-කළ-කල්ලියක්-අල්ලයි/11-417396) · `si`
-
-සංවිධානාත්මකව යතුරුපැදී සොරකමේ යෙදුණු කල්ලියක තරුණයන් තිදෙනෙකු සහ එයට අනුබල ලබා දුන් තරුණියක් එම සොරා ගත් යතුරුපැදි ද සමග අත්අඩංගුවට ගත් බව ගිරිඋල්ල පොලිසිය කියයි.
-
-අත්අඩංගුවට ගත් 20 හැවිරිදි සැකකරුවන් තිදෙනා කොටදෙනියාව මැල්ලව ගෙදර පදිංචි කරුවන් වන අතර 17 හැවිරිදි සැකකාරිය බඩල්ගම කටුකෙන්ද ප්‍රදේශයේ පදිංචි අයෙකු බවත් පොලිසිය පවසයි.
-
-බෝපිටිය ලබ්බල පාසල අසල බස් නැවතුම්පොලේ රැඳී සිටියදී අත්අඩංගුවට ගත් මෙම සැකකරුවන් තිදෙනා තදින් මත්ද්‍රව්‍ය වලටද ඇබ්බැහිවී ඇති අය බවද පොලිසිය කියයි.
-
-මෙම සැකකරුවන්ගෙන් විසින්ප්‍රශ්න කිරීමේදී ඔවුන් විසින් විවිධ ප්‍රදේශවලින් සොරා ගන්නා ලද යතුරු පැදිරිවල තොරතුරු අනාවරණය  කරගැනීමට හැකි වූ බවත් පොලිසිය පවසයි.
-
-මීගමුව, කුලියාපිටිය, දළුවකොටුව යන ප්‍රදේශවලින් සොරා ගන්නා ලද යතුරුපෙදි 04 ක් පන්නල බෝපිටිය සහ ගිරිඋල්ල මැද්දෙපොල ප්‍රදේශවල පුද්ගලයන්ට ඉතා අඩු මුදලට අලෙවිකර තිබියදී සොයා ගත් බවත් පොලිසිය කියයි.
-
-...
-
-[Data](articles/d38df3e5.json)
-
----
-
-### වමට සිග්නල් දාපු ආණ්ඩුව දැන් යන්නේ දකුණට
-
-*2025-07-20 09:57:12* · [`adalk`](https://www.ada.lk/breaking_news/වමට-සිග්නල්-දාපු-ආණ්ඩුව-දැන්-යන්නේ-දකුණට/11-417395) · `si`
-
-විපක්‍ෂ නායක සජිත් ප්‍රේමදාස මහතා තඹුත්තේගම විශේෂිත ආර්ථික මධ්‍යස්ථානයට 19 දා සවස නිරීක්ෂණ චාරිකාවකට පැමිණේයේය.
-
-ආර්ථික මධ්‍යස්ථානයේ තොග ව්‍යාපාරිකයින් සමග සමග සුවද සාකච්ඡාවක යෙදුණු විපක්ෂ නායකවරයා ආර්ථික මධ්‍යස්ථානයේ ඇති අඩුපාඩු සහ ගොවි ගැටලු ගැන ගැන මාධ්‍ය සාකච්ඡාවක් පැවැත්විය.
-
-ආර්ථික මධ්‍යස්ථාන පෞද්ගලික කරන්නේ යන දේ ගැන අපි දකින්නේ ඇත්ත වශයෙන්ම වර්තමාන රජය මට මතකයි මැතිවරණ වේදිකාවේ වමට සිග්නල් දැම්මේ හැබැයි යන්නේ දකුණටත් එහා ඉතාමත්ම අවිධිමත් ආකාරයට.
-
-අපේ රටේ තියෙන ආර්ථික මධ්‍යස්ථාන දහඅටක් කින් දහතුනක් සක්‍රීව තිබෙනවා ආර්ථික මධ්‍යස්ථාන පුද්ගලික සමාගමකට පැවරීමේ සැලසුම් ආර්ථික මධ්‍යස්ථාන කළමනාකාරීත්වයත් එක්ක සාකච්ඡාවකින් තොරව මේ වගේ දෙයක් ක්‍රියාත්මක කරන්නට අධිෂ්ඨානය කරනවා නම් ව්‍යූහාත්මක වෙනසක් ඇති කරනවනම් ඒ ව්‍යුහාත්මක වෙනසෙන් යම්කිසි ප්‍රතිලාභයක් රටටත් ජනතාවටත් ලැබෙනවාම් ඒ ගැන විග්‍රහ කරන්න ඕන, ඒ ගැන විස්තර එළිදක්වන්නට ඕන, විවෘතව කතා කරන්නට, ඕන ඒකට තමයි වග කීම සහ වග වීම කියලා කියන්නේ.
-
-...
-
-[Data](articles/c7cccbea.json)
-
----
-
-### கேள்விக்குள்ளாகும் அரசாங்கத்தின் செயற்திறன்
-
-*2025-07-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220424) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க  அவரே அதிர்ந்து போன ஒரு புள்ளிவிபரத்தை வெளியிட்டார்: இந்த ஆண்டுக்கான வரவுசெலவு திட்டத்தின் மூலம், அம்பாந்தோட்டை மாவட்டத்திற்கு, 574 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டிருக்கிறது. அந்த நிதியில் 23 மில்லியன் ரூபா மாத்திரமே இதுவரை செலவிடப்பட்டிருக்கிறது.குறைந்த அவகாசத்துக்குள் கூடுதல் வேலைத்திட்டங்களை நிறைவேற்ற வேண்டியிருக்கின்ற சூழலில், கண்காணிப்பு திறன் குறையும். அது தவறு செய்பவர்களுக்கு சாதகமாக மாறும்.
-
-◼️
-
-[Data](articles/3d7bc01e.json)
-
----
-
-### පොලීසියේ 40%කට බෝ නොවන රෝග - වැඩබලන පොලිස්පති
-
-*2025-07-20 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212429) · `si`
-
-පොලිස් නිලධාරීන්ගේ වැටුප් වැඩිවීමක් ලබන වසරේදී සිදුවිය හැකි බව වැඩබලන පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
-
-රත්නපුර දිස්ත්‍රික්කයේ පොලිස් නිලධාරීන්ගේ දරුවන් වෙත පාසල් උපකරණ ලබාදීමේ වැඩසටහනකට එක්වෙමින් වැඩබලන පොලිස්පතිවරයා මේ බව සඳහන් කළේය.
-
-"පොලිස් නිලධාරීන්ගේ නිලධරයන් බැලුවොත් 20%ක් 40%ක් බෝ නොවන රෝග වලින් පෙළෙනවා.  තව 30%ක ප්‍රමාණයක් තවම පරික්ෂා කිරීම් කරලා නැහැ. ඉතුරු 30 තමයි යම්කිසි ශාරීරික සෞඛ්‍ය තත්ත්වයෙන් ඉන්නේ.සමහර නිලධාරීන්ට ගෙදර ප්‍රශ්න, රාජකාරී ප්‍රශ්න ඒ ඔක්කොමත් එකක් යම් යම් බෝනොවන රෝග වැළඳිලා තියෙනවා. අපි බලාපොරොත්තු වෙනවා පොලිස් නිලධාරීන්ගේ රාජකාරිය මීට වඩා විදිමත් කරලා, කාර්ය සාදනය වැඩිකරලා පොලිස් නලධාරීන් කරන රාජකාරීය ඉතාම ඉහළ රාජකාරීයක් විදිහට පෙන්වලා තවත් වරප්‍රසාද පොලිස් නිලධාරීන්ට වරප්‍රසාද දෙන්න කටයුතු කරමින් පවතිනවා. පොලිස් නිලධාරීන් ලබන්නේ ඉතාමත් අඩු වැටුපක්. ඒ වැටුප සම්බන්ධයෙන් ජනාධිපතිවරයාගේ පවා අවධානයට යොමුකරලා තියෙනවා. ඒ අවධානයට යොමුකරපු එක නිසා ලබන වසරේදී නව වැටුප් ව්‍යුහයක් සකස් කරන්න අවශ්‍ය කටයුතු කරමින් ඉන්න්වා"
-
-◼️
-
-[Data](articles/6416677d.json)
-
----
-
-### நாரம்மலயில் விபத்து ; இரண்டு கைக்குழந்தைகள் உட்பட மூவர் உயிரிழப்பு
-
-*2025-07-20 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220421) · `ta`
-
-நாரம்மல பொலிஸ் பிரிவிற்குட்பட்ட நாரம்மல - கிரிஉல்ல வீதியில் நேற்று சனிக்கிழமை (19) பிற்பகல் இடம்பெற்ற துயர விபத்தில் இரண்டு கைக்குழந்தைகள் உட்பட மூன்று பேர் உயிரிழந்துள்ளனர்.
-
-கரொன்று வீதியை விட்டு விலகி வலது பக்கத்தின் எதிர் திசையில் பயணித்த பஸ் ஒன்றின் மீது நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-உயிரிழந்தவர்களில் மஹாவ, திவுல்லாவ பகுதியைச் சேர்ந்த 38 வயதுடைய காரின் சாரதியும், 9 மாதங்கள் மற்றும் 11 மாதங்களுடைய இரண்டு பெண்குழந்தைகளும் அடங்குவர்.
-
-விபத்தில் காயமடைந்த பஸ் சாரதி, நடத்துனர் மற்றும் பயணி ஒருவரும் காயமடைந்து தம்பதெனியா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
-
-இதேவேளை, வெல்லவ பொலிஸ் பிரிவின் வாரியப்பொல - கும்புக்கெடே வீதியில் உள்ள கபுஹேன பகுதியில் மற்றொரு விபத்து இடம்பெற்றுள்ளது.
-
-கும்புக்கெடே நோக்கிச் சென்ற லொறி பாதாரசி ஒருவர் மீது மோதியதில் அவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
-
-உயிரிழந்தவர் கனேவத்த பகுதியைச் சேர்ந்த 48 வயதுடைய பெண் என அடையாளம் காணப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/b3d256a8.json)
 
 ---

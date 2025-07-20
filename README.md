@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 16:32:13**
+As of **2025-07-20 16:46:41**
 
 ## Newspaper Stats
 
-*Scraped **65,691** Articles*
+*Scraped **65,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,306
+adalk | 6,307
 adaderanalk | 8,029
 tamilmirrorlk | 9,421
 virakesarilk | 10,934
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,691 articles have been extended.
+61,973 (94.3%) of 65,692 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -255,6 +255,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c96af398.json)
+
+---
+
+### රජයේ තේක්ක රක්ෂිතයේ ගැටුමකින් වැඩපාලක මරුට
+
+*2025-07-20 14:15:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-තේක්ක-රක්ෂිතයේ-ගැටුමකින්-වැඩපාලක-මරුට/11-417402) · `si`
+
+සීගිරිය පොලිස් බල ප්‍රදේශයේ ඉනාමලුව රජයේ තේක්ක  රක්ෂිතයේ මහා වන මැද   කම්කරුවන් රැඳී සිටි  වාඩියක 19 දින රාත්‍රියේ ඇතිවූ ගැටුමකින් පහර කෑමකට ලක්ව එක් අයෙකු මියගොස් තවත් අයකු බරපතල තුවාල ලබා දඹුල්ල මූලික රෝහලට ඇතුළත් කර ඇති බව සීගිරිය පොලිසිය කියයි.
+
+ඝාතන සිද්ධිය සම්බන්ධයෙන් එම වාඩියේ සිටි එක් අයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇති අතරින්  තුවාල ලබා ඇති පුද්ගලයාට පහර දුන් අයකුද එම වාඩියේම සිටියදී සැකපිට අත්අඩංගුවට ගත් බව සීගිරිය පොලිසිය කියයි.
+
+මෙසේ මරණයට පත්ව ඇත්තේ වැඩ පාලකවරයෙකු ලෙස සේවය කළ පොල්පිතිගම මොරගොල්ලාගම , රඹේ, ප්‍රදේශයේ පදිංචි  ක්රිස්නන් රාජ් කුමාර් 55  හැවිරිදි අයෙකු බව පොලිසිය සඳහන් කළේය.
+
+දඹුල්ල ඉනාමලුව රජයේ තේක්ක රක්ෂිතයේ දැව ඉවත් කිරීමේ   කොන්ත්‍රාත් ලබාගෙන සිටි අයකු සේවා සඳහා යොදාගෙන සිටි  කම්කරුවන් පිරිසක් මහ වන මැද වාඩි   තනාගෙන නැවතී සිට  තිබේ.
+
+...
+
+[Data](articles/5478fbf8.json)
 
 ---
 
@@ -1781,25 +1799,5 @@ A 10-year-old boy was rescued after being trapped in an air pocket in the upturn
 ◼️
 
 [Data](articles/84f4b882.json)
-
----
-
-### Heavy showers above 75 mm expected in some areas today
-
-*2025-07-20 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110633/heavy-showers-above-75-mm-expected-in-some-areas-today) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (20), the Department of Meteorology said.
-
-Fairly heavy falls above 75 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya, Kandy, Galle and Matara districts, the Met Department added in its daily update.
-
-Several spells of showers may occur in the North-western and Uva provinces and in the Hambantota district as well.
-
-Meanwhile, strong winds of about 50-60kmph can be expected at times over the Western slopes of the central hills and in the Western, Sabaragamuwa, Southern, North-western and North-central provinces. Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island.
-
-The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/ea4987e6.json)
 
 ---

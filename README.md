@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 17:04:35**
+As of **2025-07-20 17:16:16**
 
 ## Newspaper Stats
 
-*Scraped **65,709** Articles*
+*Scraped **65,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,308
-adaderanalk | 8,034
-tamilmirrorlk | 9,421
+adaderanalk | 8,035
+tamilmirrorlk | 9,422
 virakesarilk | 10,945
 adaderanasinhalalk | 11,290
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 11,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,709 articles have been extended.
+61,973 (94.3%) of 65,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### ஐரோப்பாவுக்கு தப்ப முயன்ற ஈரானிய நாட்டவர் கைது
+
+*2025-07-20 16:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐரோப்பாவுக்கு-தப்ப-முயன்ற-ஈரானிய-நாட்டவர்-கைது/175-361418) · `ta`
+
+போலியான பிரிட்டிஷ் கடவுச்சீட்டை பயன்படுத்தி ஜப்பான் மற்றும் துருக்கி வழியாக ஐரோப்பாவிற்கு தப்பிச் செல்ல முயன்ற, 47 வயதான  ஈரானிய நாட்டவர் ஒருவர், சனிக்கிழமை (19) இரவு கட்டுநாயக்க விமான நிலையத்தில் குடிவரவு மற்றும் குடியகல்வுத் துறையின் எல்லை கண்காணிப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+அவர் ஜப்பானின் நரிட்டாவுக்குப் புறப்படுவதற்காக, சனிக்கிழமை (19) அன்று இரவு 08.00 மணிக்கு கட்டுநாயக்க விமான நிலையத்திற்கு வந்திருந்தார்.
+
+அவர் வழங்கிய பிரிட்டிஷ் கடவுச்சீட்டில் சந்தேகம் அடைந்த விமான அதிகாரிகள், அவரது அனைத்து ஆவணங்களுடனும் அவரை குடிவரவு மற்றும் குடியகல்வுத் துறையின் எல்லை கண்காணிப்புப் பிரிவுக்கு அனுப்பினர்.
+
+அங்கு மேற்கொள்ளப்பட்ட தொழில்நுட்ப சோதனைகளின் போது, இந்த கடவுச்சீட்டு போலியானது என்றும், அதற்காக அவர் அந்த நாட்டில் உள்ள ஒரு தரகரிடம் US$15,000 (இலங்கை ரூபாய் 4.5 மில்லியன்) செலுத்தியதாகவும் தெரியவந்தது.
+
+...
+
+[Data](articles/b4cb06c6.json)
+
+---
+
+### Bus driver arrested for driving through closed railway crossing in Nawalapitiya
+
+*2025-07-20 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110660/bus-driver-arrested-for-driving-through-closed-railway-crossing-in-nawalapitiya) · `en`
+
+The driver of a private bus who drove the bus through a railway crossing while the gate was closed due to an oncoming train in the Warakawa area of Nawalapitiya, has been arrested by the Nawalapitiya Police.
+
+On July 17, a private bus traveling from Laxapana, Ginigathhena to Kandy reached the Warakawa railway crossing, where the railway gate had been closed.
+
+However, the bus driver reportedly drove the bus through a small space at the rail gate, which was in the opposite direction, without considering the danger of his actions.
+
+Shortly after the bus departed from the location, the passenger train traveling from Kandy to Nawalapitiya also departed from there.
+
+The incident was recorded by a CCTV camera installed in a nearby shop, and the railway gatekeeper had filed a complaint with the Nawalapitiya Police regarding the incident.
+
+Accordingly, the bus driver was arrested on suspicion and later released on bail.
+
+...
+
+[Data](articles/20a04a9d.json)
+
+---
 
 ### சிரிய நாடகத்தில் நெதன்யாஹுவின் புதிய பாத்திரம்
 
@@ -1667,51 +1707,5 @@ The Deputy Minister added that dairy farmers will receive both financial and tec
 ...
 
 [Data](articles/2b370852.json)
-
----
-
-### Ukraine seeks new round of talks with Russia
-
-*2025-07-20 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110640/ukraine-seeks-new-round-of-talks-with-russia) · `en`
-
-Ukraine has proposed a new round of peace talks with Russia, President Volodymyr Zelensky has said, in a move aimed at restarting negotiations that halted last month.
-
-Senior security official Rustem Umerov has offered to meet the Russian side next week, Zelensky said in his evening address, adding that everything had to be done to get a ceasefire.
-
-Zelenksy also repeated his readiness to meet Russia’s Vladimir Putin face-to-face. “A meeting at the leadership level is needed to truly ensure peace,” he said.
-
-The proposal came hours after Ukraine was hit with another widespread air bombardment by Russia, which killed three people.
-
-Ten regions of Ukraine, including several cities, were hit in the night between Friday and Saturday, Zelensky said earlier on Saturday.
-
-Ukraine’s military said more than 340 explosive and dummy drones and 35 cruise and ballistic missiles had been used, but many were downed.
-
-...
-
-[Data](articles/7436a165.json)
-
----
-
-### වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළී 34ක් මරුට
-
-*2025-07-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212428) · `si`
-
-වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයින් 34 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-එමෙන්ම මෙම අනතුරින් තවත් පුද්ගලයින් කිහිප දෙනෙකුද අතුරුදන්ව ඇතැයි එම මාධ්‍ය වාර්තා කර ඇත.
-
-අයහපත් කාලගුණය හේතුවෙන් මෙම අනතුර සිදුව ඇති බව වාර්තා වී ඇති අතර අනතුර සිදුව ඇත්තේ එරට උතුරු ප්‍රදේශයේ ජනප්‍රිය සංචාරක ගමනාන්තයක් වන හා ලොන්ග් බොක්කෙහිය.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇති පරිදි මගීන්ගෙන් බහුතරයක් හැනොයි අගනුවර සිට පැමිණි වියට්නාම් පවුල් බවද සඳහන් වේ.
-
-අනතුරින් තවත් පුද්ගලයින් 11 දෙනෙකු දිවි ගලවාගෙන ඇති අතර අතුරුදන් වුවන් සෙවීමට අධික වර්ෂාව බාධාවක් වී ඇති බවද එරට ගලවා ගැනීමේ කණ්ඩායම් පවසා තිබේ.
-
-අනතුරට පත්වන විට මෙම බෝට්ටුව තුළ පුද්ගලයින් 53 දෙනෙකු සිට ඇති බවත් විදෙස් මාධ්‍ය වාර්තා සඳහන් කර තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අනතුරින් මිය ගිය බොහෝ පිරිස අතුරින් 8 දෙනෙකු ළමුන් බවය.
-
-◼️
-
-[Data](articles/9eaf68c3.json)
 
 ---

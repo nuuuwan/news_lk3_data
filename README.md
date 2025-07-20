@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 09:50:18**
+As of **2025-07-20 10:12:44**
 
 ## Newspaper Stats
 
-*Scraped **65,609** Articles*
+*Scraped **65,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,295
+adalk | 6,296
 adaderanalk | 8,014
-tamilmirrorlk | 9,399
+tamilmirrorlk | 9,401
 virakesarilk | 10,918
-adaderanasinhalalk | 11,275
+adaderanasinhalalk | 11,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,609 articles have been extended.
+61,973 (94.5%) of 65,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### පොලීසියේ 40%කට බෝ නොවන රෝග - වැඩබලන පොලිස්පති
+
+*2025-07-20 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212429) · `si`
+
+පොලිස් නිලධාරීන්ගේ වැටුප් වැඩිවීමක් ලබන වසරේදී සිදුවිය හැකි බව වැඩබලන පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
+
+රත්නපුර දිස්ත්‍රික්කයේ පොලිස් නිලධාරීන්ගේ දරුවන් වෙත පාසල් උපකරණ ලබාදීමේ වැඩසටහනකට එක්වෙමින් වැඩබලන පොලිස්පතිවරයා මේ බව සඳහන් කළේය.
+
+"පොලිස් නිලධාරීන්ගේ නිලධරයන් බැලුවොත් 20%ක් 40%ක් බෝ නොවන රෝග වලින් පෙළෙනවා.  තව 30%ක ප්‍රමාණයක් තවම පරික්ෂා කිරීම් කරලා නැහැ. ඉතුරු 30 තමයි යම්කිසි ශාරීරික සෞඛ්‍ය තත්ත්වයෙන් ඉන්නේ ඒ මොකද  ඒ අයගේ ගෙදර ප්‍රශ්න, රාජකාරී ප්‍රශ්න ඒ ඔක්කොමත් එකක් යම් යම් බෝනොවන රෝග වැළදිලා තියෙනවා. අපි බලාපොරොත්තු වෙනවා පොලිස් නිලධාරීන්ගේ රාජකාරිය මීට වඩා විදිමත් කරලා, කාර්ය සාදනය වැඩිකරලා පොලිස් නලධාරීන් කරන රාජකාරීය ඉතාම ඉහළ රාජකාරීයක් විදිහට පෙන්වලා තවත් වරප්‍රසාද පොලිස් නිලධාරීන්ට වරප්‍රසාද දෙන්න කටයුතු කරමින් පවතිනවා. පොලිස් නිලධාරීන් ලබන්නේ ඉතාමත් අඩු වැටුපක්. ඒ වැටුප සම්බන්ධයෙන් ජනාධිපතිවරයාගේ පවා අවධානයට යොමුකරලා තියෙනවා. ඒ අවධානයට යොමුකරපු එක නිසා ලබන වසරේදී නව වැටුප් ව්‍යුහයක් සකස් කරන්න අවශ්‍ය කටයුතු කරමින් ඉන්න්වා"
+
+◼️
+
+[Data](articles/6416677d.json)
+
+---
+
+### ரோஹித எம்.பியின் மகள் மாயம்
+
+*2025-07-20 09:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-எம்-பியின்-மகள்-மாயம்/175-361380) · `ta`
+
+பாகங்களிலிருந்து இணைக்கப்பட்ட ஜீப் தொடர்பான விசாரணை தொடர்பாக, பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளைக் கைது செய்ய களுத்துறையில் உள்ள நுககொட வீட்டிற்குச் சென்ற போதிலும், சந்தேக நபரும் அவரது கணவரும் வீட்டில் இல்லை என்று பாணந்துறை மத்திய ஊழல் தடுப்புப் பிரிவு   தெரிவித்துள்ளது.
+
+பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேயின் மகன் ரசிக விதான, சந்தேகத்திற்கிடமான ஜீப்புடன் மதுகம நகரில் வைத்து பாணந்துறை மத்திய ஊழல் தடுப்புப் பிரிவு   அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+சந்தேக நபரிடம் நடத்தப்பட்ட விசாரணையில், அவர் ரோஹித அபேகுணவர்தனவின் மகளிடமிருந்து அதை வாங்கியதாக தெரியவந்தது.
+
+◼️
+
+[Data](articles/c5d027bb.json)
+
+---
+
+### ஒரே பெண்ணை திருமணம் செய்த 2 சகோதரர்கள்
+
+*2025-07-20 09:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-பெண்ணை-திருமணம்-செய்த-2-சகோதரர்கள்/175-361379) · `ta`
+
+இந்தியாவின் சில பகுதிகளில் ஒரே பெண்ணை ஒருவருக்கு மேற்பட்டோர் திருமணம் செய்யும் வழக்கம் உள்ளது. குறிப்பாக இமாச்சல், உத்தராகண்ட் போன்ற மாநிலங்களில் இன்றும் நடைமுறையில் உள்ளது. ஆனால், அதுபோன்ற திருமணங்கள் அவ்வளவாக வெளியில் தெரியாது. வீட்டுக்குள்ளேயே உறவினர்கள் மத்தியில் நடைபெறும்.
+
+ஆனால், இமாச்சல் மாநிலத்தில் சமீபத்தில் பகிரங்கமாக வெகு விமரிசையாக ஒரே பெண்ணை 2 பேர் திருமணம் செய்யும் சம்பவம் நடைபெற்றுள்ளது. இமாச்சல் மாநிலம் சிர்மவுர் மாவட்டத்தில் உள்ளது ஷில்லாய் கிராமம்.
+
+இந்த கிராமத்தைச் சேர்ந்த சகோதரர்கள் பிரதீப் நெகி, கபில் நெகி. இவர்கள் ஹட்டி இனத்தைச் சேர்ந்தவர்கள். இந்த கிராமத்துக்கு அருகில் உள்ள குன்ஹட் கிராமத்தைச் சேர்ந்த இளம்பெண் சுனிதா சவுகான். இந்நிலையில், சுனிதாவை சகோதரர்கள் பிரதீப் மற்றும் கபில் இருவரும் திருமணம் செய்து கொண்டனர். அதுவும் இந்த திருமணம் பகிரங்கமாக பொது வெளியில் நடத்தப்பட்டது. இது பலரையும் வியப்பில் ஆழ்த்தியுள்ளது.
+
+...
+
+[Data](articles/b0214e6e.json)
+
+---
 
 ### பிரதான வீதியில் விழுந்த வேன்: இருவருக்கு காயம்
 
@@ -125,6 +173,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9eaf68c3.json)
+
+---
+
+### සබරගමුව පළාත් අපරාධ කොට්ඨාසය කුරුවිට පොලීසියේ
+
+*2025-07-20 07:56:25* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුව-පළාත්-අපරාධ-කොට්ඨාසය-කුරුවිට-පොලීසියේ/11-417392) · `si`
+
+සබරගමුව පළාත් අපරාධ කොට්ඨාසය කුරුවිට පොලිස් ස්ථාන පරිශ්‍ර යේ විවෘත කරනු ලැබීය. වැඩබලන පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා විසින් මෙම කොට්ඨාසය විවෘත කරනු ලැබීය.
+
+◼️
+
+[Data](articles/05cd2b04.json)
 
 ---
 
@@ -1749,87 +1809,5 @@ According to the findings of a previous study commissioned by the UNFPA Sri Lank
 ◼️
 
 [Data](articles/195dec2e.json)
-
----
-
-### විදුලිබල පනතට ආංශික අධීක්ෂණ කාරක සභාවේ අනුමතිය
-
-*2025-07-19 10:20:34* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවේ-අනුමතිය/11-417382) · `si`
-
-ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත යටිතල පහසුකම් සහ උපාය මාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බලන ලද අතර ලබන 24 වැනිදා දෙවැනිවර කියවීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට අදාළ අනුමතිය හිමිවිය.
-
-ඒ එම කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී එස්. එම්. මරික්කාර් මහතාගේ සභාපතිත්වයෙන් පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
-
-මෙම කාරක සභා රැස්වීම සඳහා බලශක්ති අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව, ශ්‍රී ලංකා විදුලිබල මණ්ඩලය ඇතුළු ආයතන ගණනාවක් නියෝජනය කරමින් නිලධාරීහු පැමිණ සිටියහ. මෙහිදී මහජන උපයෝගීතා කොමිෂන් සභාව මෙම පනත් කෙටුම්පත සංශෝධනය කිරීමට අදාළව ඉදිරිපත් කර තිබූ යෝජනා සහ නිර්දේශ කිහිපයක් සම්බන්ධයෙන් සාකච්ඡා වූ අතර එහිදී කරුණු කිහිපයක් සම්බන්ධයෙන් එකඟතාවය පළ විය.
-
-නීතිපති දෙපාර්තමේන්තුවද කමිටුව හමුවේ පනත් කෙටුම්පත සම්බන්ධයෙන් අදහස් දැක්වීම සිදු කළ අතර මීට පෙර කාරක සභාවේදී එකඟවූ සංශෝධනද සමඟ පනත් කෙටුම්පත කාරක සභාවේ අනුමතියට ඉදිරිපත් කර තිබිණි. නව පනත් කෙටුම්පතට අනුව ඉඩම් අයිතිය, පාරිභොගික අයිතීන් ආදි කරුණු ගණනාවක් පිළිබඳව දීර්ඝ ලෙස මෙහිදී සාකච්ඡා කෙරිණි.
-
-...
-
-[Data](articles/8eabc72c.json)
-
----
-
-### මධ්‍යම කදුකරයට තද වැසි. විමල සුරේන්ද්‍ර ජලාශය වාන් දමයි
-
-*2025-07-19 10:11:10* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-කදුකරයට-තද-වැසි--විමල-සුරේන්ද්‍ර-ජලාශය-වාන්-දමයි/11-417381) · `si`
-
-නෝර්ටන්බ්‍රිජ් විමලසුරේන්ද්‍ර ජල පෝෂක ප්‍රදේශවලට (18) දින රාත්‍රියේ සිට ඇද හැලෙන අධික වර්ෂාව හේතුවෙන් විමලසුරේන්ද්‍ර ජලාශය (19) දින උදෑසන සිට වාන් දැමීමට පටන්ගෙන ඇත.
-
-ජලාශය වාන් දැමීමත් සමග කැලණිගගේ ජල මට්ටම තරමක් ඉහළ ගොස් ඇති බවයි නුවරඑලිය ආපදා කළමණාකරන ඒකකය කියා සිටියේ.
-
-මේ අතර, මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍රදේශවලට ඇද හැලෙන අධික වර්ෂාවත් සමග කාසල්රි සහ මාවුස්සාකැලේ ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වෙමින් පවතින බවත්, ජල මට්ටම ඉහළ යෑමත් සමග කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය සහ විමලසුරේන්දු යන ජල විදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බවයි එම ජලාශභාර ඉංජිනේරුවන් කියා සිටියේ.
-
-◼️
-
-[Data](articles/775a3668.json)
-
----
-
-### Sri Lanka coconut auction prices rise 9.4-pct
-
-*2025-07-19 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-average-coconut-prices-rise-9-4-pct-231507/) · `en`
-
-ECONOMYNEXT – Sri Lanka average coconut prices rose 9.4 percent at the weekly auction, Coconut Development Authority data showed.
-
-The average price for 1,000 nuts was 126,537.80 rupees on July 17.
-
-“The highest and the lowest price for a nut was not declared yesterday,” CDA officials said.
-
-The number of nuts offered declined to 402,742 from 856,780 a week earlier, while nuts sold fell to 381,624 from 763,665.
-
-In the local market, the wholesale price for a large nut was 165-175 rupees, while small nuts were 140-160 a piece on July 17.
-
-Local wholesale prices of coconut oil were 800,000 to 840,000 rupees per metric ton.
-
-In the region, China and Maldives signed a bilateral agreement in agriculture, launching a pest control initiative targeting coconut palms, the Ministry of Foreign Affairs, People’s Republic of China said. (Colombo/Jul18/2025)
-
-◼️
-
-[Data](articles/37fffc57.json)
-
----
-
-### Sri Lanka coconut auction prices rise 9.4-pct
-
-*2025-07-19 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-9-4-pct-231507/) · `en`
-
-ECONOMYNEXT – Sri Lanka average coconut prices rose 9.4 percent at the weekly auction, Coconut Development Authority data showed.
-
-The average price for 1,000 nuts was 126,537.80 rupees on July 17.
-
-“The highest and the lowest price for a nut was not declared yesterday,” CDA officials said.
-
-The number of nuts offered declined to 402,742 from 856,780 a week earlier, while nuts sold fell to 381,624 from 763,665.
-
-In the local market, the wholesale price for a large nut was 165-175 rupees, while small nuts were 140-160 a piece on July 17.
-
-Local wholesale prices of coconut oil were 800,000 to 840,000 rupees per metric ton.
-
-In the region, China and Maldives signed a bilateral agreement in agriculture, launching a pest control initiative targeting coconut palms, the Ministry of Foreign Affairs, People’s Republic of China said. (Colombo/Jul18/2025)
-
-◼️
-
-[Data](articles/6e74ac5e.json)
 
 ---

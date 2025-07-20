@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 07:38:36**
+As of **2025-07-20 08:33:39**
 
 ## Newspaper Stats
 
-*Scraped **65,591** Articles*
+*Scraped **65,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,31 +12,165 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
-economynextcom | 4,015
+economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,291
-adaderanalk | 8,012
+adaderanalk | 8,014
 tamilmirrorlk | 9,394
 virakesarilk | 10,918
-adaderanasinhalalk | 11,271
+adaderanasinhalalk | 11,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,591 articles have been extended.
+61,973 (94.5%) of 65,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
+### මාරක අනතුරු - පහක් මරුට
+
+*2025-07-20 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212427) · `si`
+
+මෝටර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ දකුණු පසට ඇදී ගොස් විරුද්ධ දෙසින් පැමිණි බස් රථයක ගැටී සිදුවූ අනතුරකින් රියදුරු සහ කුඩා දැරියන් දෙදෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (19) දහවල් කාලයේදී මෙම අනතුර සිදුව තිබුණේ නාරම්මල පොලිස් වසමේ නාරම්මල ගිරිඋල්ල මාර්ගයේදීය.
+
+මියගිය දැරියන් දෙදෙනා මාස 09 ක් හා මාස 11 වන අතර රියදුරු වයස අවුරුදු 38ක් වූ  දිවුල්ලෑව, මහව ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+අනතුරින් බස් රථයේ රියදුරු, කොන්දොස්තර හා මගියෙකු තුවල ලබා දඹදෙණිය රෝහලේ ප්‍රතිකාර ලබයි.
+
+මේ අතර වැල්ලව පොලිස් වසමේ වාරියපොළ කුඹුක්ගැටේ මාර්ගයේ කපුහේන ප්‍රදේශයේදී කුඹුක්ගැටේ දෙසට ධාවනය වූ ලොරි රථයක් පදික කාන්තාවකගේ ගැටී අනතුරක් සිදුවූ අනතුරකින් එම කානත්ව ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, ගනේවත්ත ප්‍රදේශයේ පදිංචිව සිටි 48 හැවිරිදි කාන්තාවකි.
+
+මේ අතර කෑගල්ල පොලිස් වසමේ කොළඹ - මහනුවර මාර්ගයේ 85 වැනි කිලෝමීටර් කණුව අසලදී මහනුවර දෙසට ධාවනය වූ ලොරි රථයක් ඉදිරියෙන් එම දෙසටම ධාවනය වූ යතුරුපැදියකට ඉස්සර කිරීමට යාමේදී යතුරුපැදියේ ගැටී අනතුරක් සිදුව ඇත.
+
+...
+
+[Data](articles/f25638a6.json)
+
+---
+
+### සුහුරු කානු පද්ධතියෙන් ලොවක් ඉදිරියේ ලංකාවේ නම බැබලවූ ආචාර්ය නදීශා දිවයිනට
+
+*2025-07-20 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212426) · `si`
+
+ලෝකයේ පළමු වැනි තට්ටු දෙකේ සුහුරු  කාණුව නැමති නවෝත්පාදන නිර්මාණය කරමින් " 2025 ලෝක බුද්ධිමය දේපළ ගෝලීය සම්මානය හිමි කර ගත් ආචාර්ය නදීශා චන්ද්‍රසේන මහත්මිය ඊයේ (19) දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
+
+වැසි දින වල නගර ආශ්‍රිතව කාණු පද්ධති, ප්ලාස්ටික් සහ පොලිතීන් සිර වීම නිසා නිතර ජල ගැලීම් ඇති ඇතිවන අතර මීට විසඳුමක් ලෙස ඇය විසින් මෙම ස්මාර්ට් කානු පද්ධතිය නිර්මාණය කර තිබුණි.
+
+මෙම ස්මාර්ට් තට්ටු දෙකේ  කාණුව මගින් උඩ තට්ටුවේ ගසා ගෙන යන ප්ලාස්ටික් සහ පොලිතීන් ඉවත් කරන අතර දෙවන තට්ටුව මගින් වැසි වතුර නිදහසේ ගලා ගෙන යාමට අවස්ථාව සළසා දෙනු ලබයි.
+
+එමගින් මෙම ස්මාර්ට් තට්ටු දෙකේ කාණුව ගංවතුර පාලනයට මහත් සේවාවක් ලොව පුරා ඉටු කරනු ඇත.
+
+මෙම සම්මාන උළෙල ලෝක බුද්ධිමය දේපළ සංවිධානය විසින් ජිනීවා නුවර පවත්වා තිබූ අතර මේ සදහා ලෝකයේ රටවල් 95 ක නවෝත්පාදන නිර්මාණ 780 ක් ඉදිරිපත් කර තිබුණි.
+
+...
+
+[Data](articles/69d1bbee.json)
+
+---
+
+### Three including two infants die in tragic accident in Narammala
+
+*2025-07-20 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110638/tragic-road-accident-in-narammala-kills-three-including-two-infants-) · `en`
+
+A driver and two infants have died in an accident when a car, which the driver had lost control of, veered to the right side of the road and collided with a bus plying from the opposite direction in Narammala.
+
+The accident occurred yesterday (19) along the Narammala–Giriulla road, within the Narammala police division.
+
+According to police, the two deceased children were aged 9 months and 11 months, and the driver was a 38-year-old resident of Maho.
+
+The driver, conductor, and a passenger of the bus sustained injuries in the accident and are receiving treatment at the Dambadeniya Hospital. Narammala police are conducting further investigations.
+
+◼️
+
+[Data](articles/f24801be.json)
+
+---
+
+### ஜனாதிபதி மாளிகைகள் மக்கள் நலனுக்காக பயன்படும் – அமைச்சர் இராமலிங்கம் சந்திரசேகர்
+
+*2025-07-20 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220411) · `ta`
+
+கண்டி மற்றும் கொழும்பிலுள்ள ஜனாதிபதி மாளிகைகளைத் தவிர, நாட்டின் ஏனைய அனைத்து ஜனாதிபதி மாளிகைகளும் மக்களின் நலனுக்காக சிறந்த முதலீட்டு திட்டங்களுக்கு பயன்படுத்தப்படவுள்ளன என கடற்றொழில், நீரியல் மற்றும் கடல்வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்துள்ளார்.
+
+அவர் நெடுந்தீவுக்கு அண்மையில் மேற்கொண்ட விஜயத்தின் போது, மக்கள் அமைப்புகள் மற்றும் மீனவ சங்க பிரதிநிதிகளை சந்தித்து அவர்களுடன் கலந்துரையாடும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஜனாதிபதிகளுக்குரிய ஓய்வூதியத்தை இரத்து செய்வதற்குரிய சட்டமூலம் வெகுவிரைவில் நிறைவேற்றப்படும்.
+
+தேசிய மக்கள் சக்தி ஆட்சியில் ஊழல்வாதிகளுக்கும் மோசடியாளர்களுக்கும் தப்பிக்க இடமில்லை. சட்டம் தனது பாதையில் செயல்படும்; அரசியல் தலையீடு இருக்காது.
+
+மக்களுக்கு கொடுத்த வாக்குறுதிகள் கட்டம் கட்டமாக நிறைவேற்றப்படும். ஐந்து ஆண்டுகளுக்குள் அனைவருக்கும் நன்மை கிடைக்கும் வகையில் வேலைத்திட்டங்கள் தயாரிக்கப்பட்டுள்ளன என்றார்.
+
+...
+
+[Data](articles/976f6bce.json)
+
+---
+
+### Japan holds Upper House elections in key test for Prime Minister Ishiba
+
+*2025-07-20 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110637/japan-holds-upper-house-elections-in-key-test-for-prime-minister-ishiba) · `en`
+
+Voting began on Sunday morning for an election for Japan’s House of Councillors, the upper chamber of parliament, a poll that could affect the fate of Prime Minister Shigeru Ishiba, who leads a minority government.
+
+The main focus is whether Ishiba’s ruling coalition will keep control of the Upper House after the bloc lost its majority in the House of Representatives, the lower parliamentary chamber, in an election in October.
+
+About 45,000 polling stations across the country opened at 7 a.m. Voting is set to end 8 p.m., except in some areas, with a rough outcome expected to be known late at night.
+
+In the 248-seat Upper House, 125 seats--75 in electoral districts and 50 for proportional representation--are contested in the election, in which 522 candidates--350 in electoral districts and 172 for proportional representation, ran.
+
+...
+
+[Data](articles/f226ebf6.json)
+
+---
+
+### මීමුරේදී වෑන් රථයක් පෙරළීමෙන් මිය ගිය ගණන 04ක් දක්වා ඉහළට
+
+*2025-07-20 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212425) · `si`
+
+මීමුරේ කරඹගොල්ල ප්‍රදේශයේ ඊයේ (20) පස්වරුවේ වෑන් රථයක් පෙරළීමෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 04 දක්වා ඉහළ ගොස් තිබේ.
+
+මීරිගම ප්‍රදේශයේ පිරිසක් විනෝද චාරිකාවක් සඳහා මී මුරේ ගම්මානයට ගමන් කරන අතරතුර මෙම අනතුරට මුහුණ දී තිබුණි.
+
+අනතුරට පත් වෑන් රථය අධික බෑවුම් සහිත ප්‍රධාන මාර්ගයකින් ඉහළ වංගුවේ සිට පහළ වංගුව දක්වා මීටර් 30ක් පෙරළී ගොස් යළි ප්‍රධාන මාර්ගය අසළ නැවතී තිබේ.
+
+අනතුරින් මියගිය පුද්ගලයින් අතර කාන්තාවන් තිදෙනෙක් සහ එක් පිරිමි පුද්ගලයෙකු අයත් වේ.
+
+එමෙන්ම තවත් කුඩා දරුවෙකු බරපතළ තුවාල ලබා තෙල්දෙණිය මූලික රෝහලට ඇතුළත් කර තිබුණි.
+
+අනතුර සිදුවූ අවස්ථාවේදී වෑන් රථයේ පුද්ගලයින් 6 දෙනෙකු සිට ඇති අතර ප්‍රදේශවාසීන් එක්ව රථයේ සිටි පුද්ගලයින් මුදවා රෝහල් ගත කිරීමටද පියවර ගැනුණි.
+
+◼️
+
+[Data](articles/0b17cf02.json)
+
+---
+
 ### Man hacked to death in Hekitta
 
 *2025-07-20 06:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110636/man-hacked-to-death-in-hekitta) · `en`
 
-An individual residing in a two-storied house in Hekitta, Wattala has been hacked to death by four unidentified individuals who arrived in a three-wheeler, police said.
+An individual has been hacked to death with sharp weapons in Hekitta, Wattala last night (19), police stated.
+
+Police stated that the murder took place inside the victim’s two-storied house.
+
+Four individuals wearing facemasks arrived at the victim’s house in a three-wheeler and carried out the killing using sharp weapons, police noted.
+
+At the time of the incident, the victim’s wife and two children were also present in the house.
+
+The deceased is a 43-year-old resident of Colombo 15. It is reported that he had rented a house in the area a few months ago and was living with his wife and two children.
+
+Preliminary police investigations have revealed that the deceased had assisted in a shooting incident in 2023 in Mahabage, in which a person was murdered.
+
+No suspects have been arrested thus far. Further investigations are being conducted by the Wattala Police and the Kelaniya Division Criminal Investigation Unit.
 
 ◼️
 
@@ -50,6 +184,18 @@ An individual residing in a two-storied house in Hekitta, Wattala has been hacke
 
 The number of individuals died in yesterday’s Meemure accident has increased to four, police said.
 
+A total of three persons, including two women died after a van veered off the road and toppled down a precipice in the Karambaketiya area of Ududumbara last evening.
+
+A five-year-old child and two others sustained injuries in the accident and were admitted to the Udadumbara and Teldeniya Hospitals for treatment.
+
+Subsequently, another woman succumbed to her injuries while receiving treatment at the hospital.
+
+The deceased have been identified as residents of Kadawatha and Mirigama, aged between 35 and 40 years.
+
+According to reports, six people were travelling in the van from Kadawatha to Meemure at the time of the incident.
+
+According to police one of the deceased women was driving the van when the accident occurred.
+
 ◼️
 
 [Data](articles/c385fbce.json)
@@ -60,13 +206,17 @@ The number of individuals died in yesterday’s Meemure accident has increased t
 
 *2025-07-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212424) · `si`
 
-වත්තල පොලිස් වසමේ හේකිත්ත ප්‍රදේශයේ දෙමල් නිවසක සිටි පුද්ගලයෙකුට ත්‍රීරෝද රථයකින් පැමිණි නාඳුනන පුද්ගලයින් සිව්දෙනෙකු විසින් තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබේ.
+වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර දී ඝාතනය කර තිබේ.
 
-ඊයේ (19) රාත්‍රී කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+පොලිසිය පවසන්නේ ඊයේ (19) රාත්‍රී අදාළ පුද්ගලයාගේ දෙමහල් නිවස තුළ දී එම ඝාතනය සිදුකර ඇති බවයි.
 
-එලෙස මියගොස් ඇත්තේ, හේකිත්ත, වත්තල ප්‍රදේශයේ පදිංචි 43 හැවිරිදි පුද්ගලයෙකි.
+මුහුණු ආවරණය කරගත් පුද්ගලයින් සිව්දෙනෙකු විසින් ත්‍රිරෝද රථයකින් අදාළ පුද්ගලයාගේ නිවසට පැමිණ තියුණු ආයුධවලින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලිසිය සඳහන් කළේය.
 
-මරකරු මහල් නිවසේ ඉහළ මහලේ කුලී පදනම මත සිට ඇති අතර 2023 වර්ෂයේ මහබාගේ පොලිස් වසමේ සිදු වූ වෙඩි තබා මනුෂ්‍ය ඝාතනයකට ආධාර අනුබලදුන් පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+ඝාතනය සිදුවන අවස්ථාවේ මියගිය පුද්ගලයාගේ බිරිඳ සහ දරුවන් දෙදෙනා ද නිවසේ සිට තිබේ.
+
+මියගොස් ඇත්තේ කොළඹ 15 ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි අයෙකු වන අතර ඔහු මාස කිහිපයකට පෙර එම ප්‍රදේශයේ නිවසක් කුලී පදනම යටතේ ලබාගෙන බිරිඳ සහ දරුවන් දෙදෙනා සමග ජීවත්ව සිට ඇති බව සඳහන්ය.
+
+මියගිය පුද්ගලයා 2023 වර්ෂයේ මහබාගේ ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන් පුද්ගලයෙකු බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
 
 සිද්ධියට සම්බන්ධ සැකකරුවන් කිසිවෙකු අත්අඬංගුවට ගෙන නොමැති අතර වත්තල පොලිස් ස්ථානය මඟින්‍ හා කැලණිය කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් වැඩිදුර විමර්ශන කටයුතු ආරම්භ කොට ඇත.
 
@@ -316,23 +466,21 @@ Trump has said he parted ways with Epstein before the financier’s legal troubl
 
 ---
 
-### ஜனாதிபதி மாளிகைகள் மக்கள் நலனுக்காக பயன்படும் – அமைச்சர் இராமலிங்கம் சந்திரசேகர்
+### US brings Trump’s war on fentanyl to Sri Lanka
 
-*2025-07-19 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/220411) · `ta`
+*2025-07-19 19:44:00* · [`economynextcom`](https://economynext.com/us-brings-trumps-war-on-fentanyl-to-sri-lanka-231638/) · `en`
 
-கண்டி மற்றும் கொழும்பிலுள்ள ஜனாதிபதி மாளிகைகளைத் தவிர, நாட்டின் ஏனைய அனைத்து ஜனாதிபதி மாளிகைகளும் மக்களின் நலனுக்காக சிறந்த முதலீட்டு திட்டங்களுக்கு பயன்படுத்தப்படவுள்ளன என கடற்றொழில், நீரியல் மற்றும் கடல்வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்துள்ளார்.
+ECONOMYNEXT – The United State embassy in Sri Lanka has trained the country’s drug control agency and also given equipment to analyze synthetic drugs and psychoactive substances, particularly fentanyl which are spreading in many countries.
 
-அவர் நெடுந்தீவுக்கு அண்மையில் மேற்கொண்ட விஜயத்தின் போது, மக்கள் அமைப்புகள் மற்றும் மீனவ சங்க பிரதிநிதிகளை சந்தித்து அவர்களுடன் கலந்துரையாடும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+After concluding a training program with the National Dangerous Drugs Control Board (NDDCB) of Sri Lanka Radian ASAP drug testing machine (a type of easy to use mass spectrometer), were given to Sri Lanka. Maldives, Bangladesh, and Nepal will also get such machines.
 
-முன்னாள் பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஜனாதிபதிகளுக்குரிய ஓய்வூதியத்தை இரத்து செய்வதற்குரிய சட்டமூலம் வெகுவிரைவில் நிறைவேற்றப்படும்.
+The Radian ASAP machine is a compact system designed for rapid, high-confidence screening of synthetic substances in under a minute, the US embassy said.
 
-தேசிய மக்கள் சக்தி ஆட்சியில் ஊழல்வாதிகளுக்கும் மோசடியாளர்களுக்கும் தப்பிக்க இடமில்லை. சட்டம் தனது பாதையில் செயல்படும்; அரசியல் தலையீடு இருக்காது.
-
-மக்களுக்கு கொடுத்த வாக்குறுதிகள் கட்டம் கட்டமாக நிறைவேற்றப்படும். ஐந்து ஆண்டுகளுக்குள் அனைவருக்கும் நன்மை கிடைக்கும் வகையில் வேலைத்திட்டங்கள் தயாரிக்கப்பட்டுள்ளன என்றார்.
+“Requiring no complex sample preparation, this technology is ideally suited to detect emerging drug threats efficiently and bolster regional forensic capabilities,” the statement said.
 
 ...
 
-[Data](articles/976f6bce.json)
+[Data](articles/8e7dddbc.json)
 
 ---
 
@@ -1723,125 +1871,5 @@ Barrack said in a statement posted on social platform X that the new ceasefire b
 ...
 
 [Data](articles/03a27cdf.json)
-
----
-
-### කටුනායක ගුවන්තොටුපොළ අවට සරුංගල් යැවීමෙන් වළකින්න
-
-*2025-07-19 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212401) · `si`
-
-කටුනායක ගුවන්තොටුපොළ කලාපය තුළ සරුංගල් යැවීමෙන් වළකින ලෙස ගුවන්තොටුපොළ කළමනාකරණ අංශ ප්‍රධානී අරුණ රාජපක්ෂ මහතා ජනතාවගෙන් ඉල්ලා සිටියේය.
-
-ඔහු පවසා සිටියේ, මෙය නොසලකා හරින පුද්ගලයින්ට එරෙහිව නීතිමය පියවර ගන්නා බවය.
-
-"ගුවන්තොටුපොළ අවට සරුංගල් යැවීම මගින් ගුවන් යානාවලට, ගුවන් මගීන්ගේ ජීවිතවලට දැඩි අවදානම් තත්ත්වයක් ඇතිවෙලා තියෙනවා.
-
-එමනිසා අපි ඉල්ලා සිටිනවා ගුවන්තොටුපොළ අවට ප්‍රදේශය තුළ සරුංගල් යැවීමෙන් වළකින ලෙස.
-
-ඒ වගේම අඩි 300ට වඩා වැඩි ඉහළකින් සරුංගල් යැවීම සිදුවුවහොත් ඒ සඳහා නිත්‍යනුකූල ක්‍රියාමාර්ග ගැනීමට සිදුවෙනවා" යනුවෙන් පැවසීය.
-
-◼️
-
-[Data](articles/92cc1afb.json)
-
----
-
-### இன்று மழை பெய்யக்கூடும்
-
-*2025-07-19 07:21:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யக்கூடும்/175-361350) · `ta`
-
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று  அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-சப்ரகமுவ மாகாணத்திலும், நுவரெலியா, கண்டி, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான மழை பெய்யக்கூடும்.
-
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், மேல், சப்ரகமுவ, தெற்கு, வடமேல் மற்றும் வடமத்திய மாகாணங்களிலும் அவ்வப்போது மணிக்கு 50-60 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/8f3022e9.json)
-
----
-
-### සංචාරකයින්ට ගුවන්තොටුපොළේදීම රියදුරු බලපත්‍රයක්
-
-*2025-07-19 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212400) · `si`
-
-මෙරටට පැමිණෙන සංචාරකයින් සඳහා කටුනායක ගුවන්තොටුපොළේදීම තාවකාලික රියදුරු බලපත්‍ර ලබාදීමේ ක්‍රමවේදයක් අගෝස්තු මාසයේ සිට ආරම්භ කරන බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පැවසීය.
-
-එහි කොමසාරිස් ජනරාල් කමල් අමරසිංහ මහතා පවසා සිටියේ, මේ වනවිට එම වැඩපිළිවෙළ අවසන් අදියරේ පසුවන බවය.
-
-ඊට අදාළ තවත් නීතිමය කටයුතු කිහිපයක් සිදුකිරීමට නියමිත අතර, එය අවසන්වීමෙන් අනතුරුව මෙම වැඩපිළිවල ආරම්භ කිරීමට හැකි බව ඔහු සඳහන් කළේය.
-
-දින 14 සහ 30 යන කාලසීමාවක් සඳහා මෙම තාවකාලික රියදුරු බලපත්‍ර නිකුත් කිරීමට නියමිත බව සඳහන්ය.
-
-එමෙන්ම වැඩි කාලයක් සඳහා දිවයිනේ රැදී සිටින සංචාරකයින්ට වසර 8ක් සඳහා ලබාදෙන රියදුරු බලපත්‍රය ලබාගැනීමේ හැකියාව පවතින බවද කමල් අමරසිංහ මහතා වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/4ba049c4.json)
-
----
-
-### යතුරුපැදි සොරකම් කරන කල්ලියක් ගැන තොරතුරු හෙළිවෙයි
-
-*2025-07-19 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212399) · `si`
-
-යතුරුපැදි සොරකම් කරන කල්ලියක තිදෙනෙකු අත්අඩංගුවට ගැනීමට ගිරිඋල්ල පොලිස් ස්ථානයේ නිලධාරින් කණ්ඩායමක් සමත්වී තිබේ.
-
-අපරාධ නිවාරණ මෙහෙයුම් රාජකාරිවල යෙදී සිටි ගිරිඋල්ල පොලිස් ස්ථානයේ අදාළ නිලධාරින් කණ්ඩායමට ලද තොරතුරකට අනුව ගිරිඋල්ල පොලිස් වසමේ ලබ්බල ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 305ක් සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබුණි.
-
-අත්අඩංගුවට ගත් සැකකරුවන් 20 හැවිරිදි වයසේ පසුවන කොටදෙනියාව ප්‍රදේශයේ පදිංචිකරුවන් ය.
-
-සැකකරුවන්ගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලදී මොවුන් විසින් මීගමුව හා කුලියාපිටිය පොලිස් වසම්වලදී සිදු කරන ලද යතුරුපැදි සොරකම් සම්බන්ධව අනාවරණය වී ඇත.
-
-ඒ අනුව සැකකරුවන් විසින් සොරකම් කරන ලද යතුරුපැදි 04ක් සහ අපරාධ සිදුකිරීමට යොදාගත් යතුරුපැදියක් පොලීසිය විසින් සොයාගෙන ඇත.
-
-◼️
-
-[Data](articles/d6493ae9.json)
-
----
-
-### අද ප්‍රදේශ රැසකට වැසි - ධීවරයින්ටත් දැනුම්දීමක්
-
-*2025-07-19 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212398) · `si`
-
-අද (19) දිනයේ බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වෙයි.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ, සබරගමුව පළාතේත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මිලිමීටර් 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් බස්නාහිර, සබරගමුව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල විටින්විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ද ඇතිවිය හැකිය.
-
-තද සුළංවලින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-ඉදිරි පැය 24ට අදාළව දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසන්නේ, පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි ඇති වෙන බවය.
-
-දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශාවලින් හමා එන අතර සුළගේ වේගය පැ.කි.මී. (35-45) පමණ වේ.
-
-...
-
-[Data](articles/aeabc3e7.json)
-
----
-
-### Fairly heavy rains above 75 mm likely in parts of the island
-
-*2025-07-19 06:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110610/fairly-heavy-rains-above-75-mm-likely-in-parts-of-the-island) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (19), the Department of Meteorology said.
-
-Fairly heavy falls above 75 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya, Kandy, Galle and Matara districts, the Met. Department noted in its latest weather update.
-
-Several spells of showers may occur in the Northern and North-western provinces as well.
-
-Meanwhile, strong winds of about 50-60kmph can be expected at times over the Western slopes of the central hills and in the Western, Sabaragamuwa, Southern, North-western and North-central provinces.
-
-Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island.
-
-The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/039339ca.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 04:31:38**
+As of **2025-07-21 04:47:42**
 
 ## Newspaper Stats
 
-*Scraped **65,768** Articles*
+*Scraped **65,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,017
 economynextcom | 4,019
-dailyftlk | 4,657
+dailyftlk | 4,660
 dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,040
@@ -26,11 +26,75 @@ adaderanasinhalalk | 11,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,768 articles have been extended.
+61,973 (94.2%) of 65,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### Catholic Church welcomes sacking of ex-SDIG Nilantha Jayawardena
+
+*2025-07-21 04:30:13* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-welcomes-sacking-of-ex-SDIG-Nilantha-Jayawardena/56-779254) · `en`
+
+National Catholic Mass Communications Director Rev. Fr. Jude Krishantha urges immediate criminal prosecution against Jayawardena
+
+Suggests larger, hidden force may be behind bombings, beyond Zahran Hashim’s group
+
+Accuses former Presidents Sirisena, Gotabaya and Ranil of protecting Jayawardena for past six years
+
+Calls on Govt. to expose full truth and ensure accountability at all levels
+
+The Catholic Church of Sri Lanka yesterday welcomed President Anura Kumara Disanayake’s decision to terminate the services of former Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena, while calling for swift legal action against all those found responsible for the 2019 Easter Sunday attacks.
+
+Speaking to the media, National Catholic Mass Communications Director Rev. Fr. Jude Krishantha extended his gratitude to President Disanayake for taking steps to sack Jayawardena.
+
+...
+
+[Data](articles/e81a6f4a.json)
+
+---
+
+### NPC terminates ex-SDIG Nilantha Jayawardena following Easter attack inquiry
+
+*2025-07-21 04:27:42* · [`dailyftlk`](https://www.ft.lk/news/NPC-terminates-ex-SDIG-Nilantha-Jayawardena-following-Easter-attack-inquiry/56-779253) · `en`
+
+Three-member tribunal finds him guilty of all charges, leading to dismissal by NPC
+
+The National Police Commission (NPC) has officially terminated the service of former Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena, following a disciplinary inquiry related to the 2019 Easter Sunday terror attacks.
+
+Jayawardena, who previously served as the Head of the State Intelligence Service (SIS), was placed on compulsory leave by the NPC in July 2024, pending an internal investigation.
+
+Following the conclusion of the inquiry, the NPC has decided to dismiss Jayawardena from service, a statement issued by the Commission on 19 July noted.
+
+According to a formal disciplinary investigation report submitted to the NPC on 4 July by a three-member tribunal, Jayawardena was found guilty of all charges listed in the charge sheet.
+
+...
+
+[Data](articles/9fea3ab2.json)
+
+---
+
+### SJB rejects leadership rumours amid alleged political sabotage
+
+*2025-07-21 04:26:57* · [`dailyftlk`](https://www.ft.lk/news/SJB-rejects-leadership-rumours-amid-alleged-political-sabotage/56-779252) · `en`
+
+The main opposition party, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday firmly denied speculation of an internal move to oust Opposition Leader Sajith Premadasa, while alleging a broader conspiracy aimed at undermining both the party and its Leader.
+
+“There has been no discussion within the SJB to remove Sajith Premadasa from his position as Opposition Leader,” he said at a media briefing.
+
+However, he claimed that there are certain groups working to politically destroy both the party and its Leader.
+
+He alleged that these factions appear to be operating with the tacit support of the Government.
+
+Rahman also signalled openness to potential new alliances, noting that bringing in experienced politicians such as Dayasiri Jayasekara would be a positive move.
+
+“Dayasiri is a capable and seasoned politician. Welcoming people like him into the SJB will strengthen the party,” he added.
+
+◼️
+
+[Data](articles/1ca20a24.json)
+
+---
 
 ### The Colombo Plan celebrates 74 years of regional cooperation and development
 
@@ -1705,57 +1769,5 @@ The fishermen on the third boat reached the shore at the Muthupanthiya fishing v
 ◼️
 
 [Data](articles/f8073361.json)
-
----
-
-### Tsunami alert issued after powerful quakes strike off coast of Russia
-
-*2025-07-20 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110649/tsunami-alert-issued-after-powerful-quakes-strike-off-coast-of-russia) · `en`
-
-Three powerful earthquakes struck off the coast of Russia’s far east on Sunday, triggering a tsunami alert, the US Geological Survey said.
-
-Earlier 5.0-magnitude and 6.7-magnitude earthquakes did not initially trigger a tsunami alert, but were followed by a 7.4-magnitude quake at 0849 GMT, prompting the USGS to warn that “hazardous tsunami waves are possible” within 300 kilometres (186 miles) of the epicentre in the Pacific, off the city of Petropavlovsk-Kamchatsky.
-
-◼️
-
-[Data](articles/c77635d6.json)
-
----
-
-### Sri Lanka African Swine Fever epidemic waning after claiming 67,000 pigs
-
-*2025-07-20 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-african-swine-fever-epidemic-waning-after-claiming-67000-pigs-231074/) · `en`
-
-ECONOMYNEXT – The spread of African Swine Fever in the Sri Lanka is about 95 percent under control, Hemali Kothalawala, Director General of the Department of Animal Production and Health has said after 2,500 farms were infected, killing of 67,000 hogs and also infecting wild boars.
-
-“We have curtailed the spread by taking stringent measures; veterinary surgeons inspect pig farms and ensure biosafety methods is maintained, and we have banned the transport of infected pigs and meat,” Kothalawala told reporters at a recent briefing.
-
-2,500 farms across the nine provinces were infected, while 251 farms have now re-opened.
-
-“The number of reported deaths is 67,000. But we feel the actual number of deaths is more, because of unreported deaths.”
-
-The prevalence of the disease in the island was first identified last September, in the Gampaha District of the western province. The government then issued a gazette banning transport of pigs or meat.
-
-...
-
-[Data](articles/ffe4749e.json)
-
----
-
-### රුසියාවේ ප්‍රබල භූ කම්පනයක්
-
-*2025-07-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212436) · `si`
-
-රුසියාවේ පෙරදිග කම්චැට්කා කලාපයේ වෙරළ ආසන්නයේ අද (20) පෙරවරුවේ ප්‍රබල භූ කම්පන තත්ත්වයක් මතුව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-යුරෝ මධ්‍යධරණී භූකම්පන විද්‍යා මධ්‍යස්ථානය වාර්තා කර ඇති පරිදි රික්ටර් මාපකයේ 7.4ක අගයකින් යුතුව මෙම භූකම්පනය හට ගෙන ඇත.
-
-භූ කම්පනය කිලෝමීටර් 20ක් ගැඹුරින් සිදුව ඇති අතර භූකම්පනය මුලින් වාර්තා වී ඇත්තේ 6.7ක් ලෙසය.
-
-භූකම්පනයෙන් පසුව එම ප්‍රදේශ ආශ්‍රිතව සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමටද පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
-
-◼️
-
-[Data](articles/0e68cf51.json)
 
 ---

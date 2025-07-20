@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 15:18:06**
+As of **2025-07-20 15:30:20**
 
 ## Newspaper Stats
 
-*Scraped **65,683** Articles*
+*Scraped **65,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,303
+adalk | 6,304
 adaderanalk | 8,029
-tamilmirrorlk | 9,418
+tamilmirrorlk | 9,419
 virakesarilk | 10,934
 adaderanasinhalalk | 11,288
 
@@ -26,19 +26,39 @@ adaderanasinhalalk | 11,288
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,683 articles have been extended.
+61,973 (94.3%) of 65,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
+### 45 வயது நபருடன்  6 வயது சிறுமிக்கு திருமணம்; தலீபானின்  அதிரடி
+
+*2025-07-20 15:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/45-வயது-நபருடன்-6-வயது-சிறுமிக்கு-திருமணம்-தலீபானின்-அதிரடி/50-361412) · `ta`
+
+ஆப்கானிஸ்தானில் தலீபான் அமைப்பு அரசை கைப்பற்றி ஆட்சி செய்து வருகிறது. அவர்களின் அரசில் பல கடுமையான சட்ட திட்டங்கள் காணப்படுகின்றன. பெண்களுக்கு எதிரான கெடுபிடிகள் அதிகரித்து காணப்படுகின்றன.
+
+இந்நிலையில், அந்நாட்டின் மார்ஜா மாவட்டத்தில் நடந்த சம்பவம் அதிர்ச்சி ஏற்படுத்தி உள்ளது. 45 வயது நபர் ஒருவர், 6 வயது சிறுமியை திருமணம் செய்து இருக்கிறார். சிறுமியின் தந்தையிடம், சிறுமியை திருமணம் செய்வதற்கு ஈடாக பணம் கொடுத்துள்ளார். பின்னர் சிறுமியை கரம் பிடித்துள்ளார்.
+
+அந்த நபருக்கு ஏற்கனவே 2 மனைவிகள் உள்ளனர். இது அவருக்கு 3-வது திருமணம் ஆகும். இந்த சூழலில், இந்த விவரம் தலீபான் அதிகாரிகளின் கவனத்திற்கு சென்றது. உடனடியாக அவர்கள் நடவடிக்கையில் இறங்கினர்.
+
+அந்த நபரை தடுத்து நிறுத்தி, அறிவுரை வழங்கினர். அந்த சிறுமிக்கு 6 வயதுதான் ஆகிறது. அதனால், திருமணம் செல்லாது என கூறியுள்ளனர். அதனால், சிறுமிக்கு 9 வயது ஆகும் வரை பொறுத்திருங்கள். அதன்பின்னர் உங்களுடைய வீட்டுக்கு அழைத்து செல்லுங்கள் என கூறியுள்ளனர்.
+
+...
+
+[Data](articles/9c3f7a9a.json)
+
+---
+
 ### මන්ත්‍රී ජගත්ගේ පුත් රසික විතාන රිමාන්ඩ්
 
 *2025-07-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212441) · `si`
 
-අත්අඩංගුවට ගත් සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතානගේ මහතාගේ පුතු වන රසික විතාන එළැඹෙන මස 01 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මතුගම මහෙස්ත්‍රාත්වරිය නියෝග කර තිබේ.
+නීති විරෝධීව එකලස් කරන ලද වාහනයක් ළ﻿ඟතබා ගැනීමේ සිද්ධියකට අදාළව අත්අඩංගුවට ගත් සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතානගේ මහතාගේ පුත් රසික විතාන එළැඹෙන මස 01වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
 
-එහිදී මතුගම මහෙස්ත්‍රාත් අසංකා හෙට්ටියාවත්ත මෙනවිය මෙම නියෝගය ලබා දී ඇත.
+ඔහු අද (20) මතුගම මහෙස්ත්‍රාත් අසංකා හෙට්ටියාවත්ත මෙනවිය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+
+පානදුර වලාන දූෂණ මර්ධන ඒකකය විසින් රසික විතාන මහතා ඊයේ (19) මතුගම ප්‍රදේශයේදී අත්අඩංගුවට ගනු ලැබීය.
 
 ◼️
 
@@ -239,6 +259,22 @@ The Sigiriya Police are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/d240d0e9.json)
+
+---
+
+### මහ පැවිල්ලට පුත්තලමේ ලුණු අස්වැන්න සරුවෙද්දි මිළ පහලටත් බසි
+
+*2025-07-20 13:46:14* · [`adalk`](https://www.ada.lk/breaking_news/මහ-පැවිල්ලට-පුත්තලමේ-ලුණු-අස්වැන්න-සරුවෙද්දි-මිළ-පහලටත්-බසි/11-417400) · `si`
+
+මහ වැසි හේතුවෙන් පසුගිය කාලයෙ පුත්තලමේ  අහිමි වි ගිය ලුණු ඇස්වැන්න මේ වන විට පවතින වියළි කාලගුණ තත්වය හමුවේ ලැබෙමින් පවතින නමුත්   අහස උසට ගිය ලුණු  මිල පහත යමින් තිබෙන ආකාරය පුත්තලම ආශ්‍රීත ලුණු ලේවායන් වල කල සංචාරයෙදි තහවුරු විණි.
+
+ශ්‍රී ලංකාවේ ලුණු අවශ්‍යතාවයෙන් සියයට 50 ත් 55 ක් පුත්තලම දිස්ත්‍රික්කයෙ පුත්තලම, මුන්දලම, මන්ගලඑළිය, පාලවිය, දළුව, කල්පිටිය, වනාතවිල්ලුව, ප්‍රදේශ වලින් ලැබේන අතර  අක්කර 10000 කට ආසන්න භුමි ප්‍රමානයක මේ වන විට ලුණු වගාකරන අතර එහි වගාකරුවන් 1000 ක පමන පිරිසක් එක්ව සිටිති.
+
+මේ වන විට පුත්තලම ඇතුළු ප්‍රදේශ රැසක ලුණු අස්වැන්න ලබා ගනිමින් සිටින අතර ලුණු නිෂ්පාදකයින් ඉන්දියන් ලුණු කිලෝ 50 බැගයක්   රුපියල් 4000 කට ලබා ගනිමින් සිටියදි පුත්තලමේ ලුණු කිලෝ 50 ක බැගයක  මිල රුපියල් 1800 ත් 2000 පහත වැටි ඇති බව කියයි.
+
+◼️
+
+[Data](articles/11895759.json)
 
 ---
 
@@ -1737,41 +1773,5 @@ The way Mr. Muthu styled himself after MGR, even affecting a physical resemblanc
 ...
 
 [Data](articles/bacc02ec.json)
-
----
-
-### 2025-07-19 (Saturday)
-
-### Goal is to reduce number of students in a classroom to 25-30: PM Harini
-
-*2025-07-19 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110631/goal-is-to-reduce-number-of-students-in-a-classroom-to-25-30-pm-harini) · `en`
-
-The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, stated that the government’s goal is to limit the number of students in a classroom to between 25 to 30, emphasizing that it is not possible to deliver quality education in classrooms with around 50-60 students.
-
-The Prime Minister made these remarks while participating in a program held today (July 19) at the Dakshinapaya Auditorium in Galle, organized to raise awareness among education authorities in the Southern Province regarding the new education reforms, the Prime Minister’s Media Division said in a statement.
-
-The Prime Minister Harini Amarasuriya also emphasized that the new education reform is not only about updating the curriculum but also about enhancing teacher professionalism, reforming the educational administrative structure, and developing the necessary infrastructure to ensure all children have access to equal and quality education.
-
-...
-
-[Data](articles/0592e64f.json)
-
----
-
-### අධ්‍යාපන පීඨවල ගුණාත්මකභාවය ඉහළ නැංවීමට අවධානය
-
-*2025-07-19 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212422) · `si`
-
-ජාතික අධ්‍යාපන විද්‍යා පීඨවල ඉගෙනුම ලබන ගුරු ශික්ෂණලාහීන්ට පීඩනයෙන් තොර ඉගෙනුම් පරිසරයක් නිර්මාණය කිරීමත්, අධ්‍යාපන පීඨවල ගුණාත්මකභාවය සංවර්ධනය සඳහා ක්‍රියාකාරි සැලැස්මක් දියත් කිරීමත් සිය විශේෂ අවධානය යොමුව ඇති බව අධ්‍යාපන හා උසස් අධ්‍යාපන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න මහතා පවසයි.
-
-නියෝජ්‍ය අමාත්‍යවරයා මේ බව පැවසූවේ ජාතික අධ්‍යාපන විද්‍යාපීඨවල පීඨාධිපතිවරුන් සඳහා බත්තරමුල්ල අධ්‍යාපන අමාත්‍යාංශ පරිශ්‍රයේදී පැවති සාකච්ඡාවක් අමතමනි.
-
-මෙම සාකච්ඡාව සඳහා දිවයිනේ සියලු අධ්‍යාපන විද්‍යා පීඨවල පීඨාධිපතිවරුන් සහභාගී වී සිටි අතර එක් එක් අධ්‍යාපන විද්‍යා පීඨය සඳහා සිය අධ්‍යයන සහ අනධ්‍යයන ගැටලු, යටිතල පහසුකම් සංවර්ධනය සම්බන්ධයෙන් වන ගැටලු සාකච්ඡා කිරීමට අවස්ථාව හිමි විය.
-
-ගුරු ශික්ෂණලාහීන්ට ගුණාත්මක අධ්‍යයන පරිසරයක් නිර්මාණය කිරීම සඳහා මෙතෙක් කල් අවධානය යොමු නොවුණු ගැටලුවලට සිය විශේෂ අවධානය යොමු කරන බවත්, සුවිශේෂි ගැටලු පවතින විද්‍යා පීඨවල නිරීක්ෂණ චාරිකාවක් සිදු කර කඩිනම් විසඳුම්වලට එළඹෙන බවත් එහිදී නියෝජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේ ය.
-
-◼️
-
-[Data](articles/bda00760.json)
 
 ---

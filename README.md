@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 20:05:18**
+As of **2025-07-20 20:18:57**
 
 ## Newspaper Stats
 
-*Scraped **65,734** Articles*
+*Scraped **65,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 6,311
 adaderanalk | 8,037
 tamilmirrorlk | 9,426
-virakesarilk | 10,952
+virakesarilk | 10,953
 adaderanasinhalalk | 11,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,734 articles have been extended.
+61,973 (94.3%) of 65,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7c85bc73.json)
+
+---
+
+### "பாடசாலை அமைப்பை அழிக்கும் கல்விச் சீர்திருத்தம் எதிர்க்கத்தக்கது" – சஜித் பிரேமதாச
+
+*2025-07-20 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220494) · `ta`
+
+பாடசாலை கட்டமைப்பையே அழிக்கும் கல்விச் சீர்திருத்தங்களையே தற்போதைய அரசாங்கம் முன்னெடுத்து வருகிறது. இந்த நாசகார கொள்கைகளுக்கு எதிராக நாம் முன்நிற்போம். இதற்காக நாம் அஞ்சப்போவதில்லை. இதற்கு ஐக்கிய மக்கள் சக்தி தலைமைத்துவம் வழங்கும் மக்களுக்காக நாம் முன்நிற்போம். மக்களுக்காக எம்மால் இயன்றவரைப் போராடி  எமது உச்சக்கட்ட கடமையையும் பொறுப்பையும் நிறைவேற்றுவோம் என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+அநுராதபுரம் தம்புத்தேகம நகரில் சனிக்கிழமை (19) நடைபெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/6f04c0f3.json)
 
 ---
 
@@ -1749,17 +1763,5 @@ Additionally, due to heavy showers in the area, the water levels of the St. Clai
 ...
 
 [Data](articles/b7f4ea0f.json)
-
----
-
-### தளங்களை தேடுகிறதா சீனா?
-
-*2025-07-20 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220428) · `ta`
-
-எலி கொழுத்தால் வளையில் தங்காது என்பது போல, சீனாவின் கடற்டை மிக வேகமாகப் பருத்து வருகின்ற நிலையில், அது தனது எல்லைகளுக்கு வெளியே செயற்பட வேண்டிய நிலையில் இருக்கிறது.அண்மையில் இந்தியாவுக்கும் பாகிஸ்தானுக்கு இடையே நடந்த மோதல்களின் போது,  சீனாவின் ஆயுதங்களின் பரீட்சை களமாக அது இருந்ததாக இந்திய இராணுவ துணைத் தளபதி லெப்.  ஜெனரல் ராகுல் ஆர் சிங் கூறி இருந்தார்.
-
-◼️
-
-[Data](articles/1df7940e.json)
 
 ---

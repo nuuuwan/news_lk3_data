@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 13:05:22**
+As of **2025-07-20 13:17:07**
 
 ## Newspaper Stats
 
-*Scraped **65,661** Articles*
+*Scraped **65,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,302
+adalk | 6,303
 adaderanalk | 8,022
 tamilmirrorlk | 9,413
 virakesarilk | 10,931
-adaderanasinhalalk | 11,282
+adaderanasinhalalk | 11,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,661 articles have been extended.
+61,973 (94.4%) of 65,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### රුසියාවේ ප්‍රබල භූ කම්පනයක්
+
+*2025-07-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212436) · `si`
+
+රුසියාවේ පෙරදිග කම්චැට්කා කලාපයේ වෙරළ ආසන්නයේ අද (20) පෙරවරුවේ ප්‍රබල භූ කම්පන තත්ත්වයක් මතුව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+යුරෝ මධ්‍යධරණී භූකම්පන විද්‍යා මධ්‍යස්ථානය වාර්තා කර ඇති පරිදි රික්ටර් මාපකයේ 7.4ක අගයකින් යුතුව මෙම භූකම්පනය හට ගෙන ඇත.
+
+භූ කම්පනය කිලෝමීටර් 20ක් ගැඹුරින් සිදුව ඇති අතර භූකම්පනය මුලින් වාර්තා වී ඇත්තේ 6.7ක් ලෙසය.
+
+භූකම්පනයෙන් පසුව එම ප්‍රදේශ ආශ්‍රිතව සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමටද පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/0e68cf51.json)
+
+---
 
 ### ஹொரவ்பொத்தானையில் முச்சக்கர வண்டி விபத்து - இருவருக்கு காயம்
 
@@ -631,6 +649,26 @@ Acting IGP Weerasooriya stated, “If you look at the condition of police office
 ◼️
 
 [Data](articles/7082c328.json)
+
+---
+
+### සංවිධානාත්මක යතුරුපැදි සොරකම් කළ කල්ලියක් අල්ලයි
+
+*2025-07-20 10:05:38* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-යතුරුපැදි-සොරකම්-කළ-කල්ලියක්-අල්ලයි/11-417396) · `si`
+
+සංවිධානාත්මකව යතුරුපැදී සොරකමේ යෙදුණු කල්ලියක තරුණයන් තිදෙනෙකු සහ එයට අනුබල ලබා දුන් තරුණියක් එම සොරා ගත් යතුරුපැදි ද සමග අත්අඩංගුවට ගත් බව ගිරිඋල්ල පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් 20 හැවිරිදි සැකකරුවන් තිදෙනා කොටදෙනියාව මැල්ලව ගෙදර පදිංචි කරුවන් වන අතර 17 හැවිරිදි සැකකාරිය බඩල්ගම කටුකෙන්ද ප්‍රදේශයේ පදිංචි අයෙකු බවත් පොලිසිය පවසයි.
+
+බෝපිටිය ලබ්බල පාසල අසල බස් නැවතුම්පොලේ රැඳී සිටියදී අත්අඩංගුවට ගත් මෙම සැකකරුවන් තිදෙනා තදින් මත්ද්‍රව්‍ය වලටද ඇබ්බැහිවී ඇති අය බවද පොලිසිය කියයි.
+
+මෙම සැකකරුවන්ගෙන් විසින්ප්‍රශ්න කිරීමේදී ඔවුන් විසින් විවිධ ප්‍රදේශවලින් සොරා ගන්නා ලද යතුරු පැදිරිවල තොරතුරු අනාවරණය  කරගැනීමට හැකි වූ බවත් පොලිසිය පවසයි.
+
+මීගමුව, කුලියාපිටිය, දළුවකොටුව යන ප්‍රදේශවලින් සොරා ගන්නා ලද යතුරුපෙදි 04 ක් පන්නල බෝපිටිය සහ ගිරිඋල්ල මැද්දෙපොල ප්‍රදේශවල පුද්ගලයන්ට ඉතා අඩු මුදලට අලෙවිකර තිබියදී සොයා ගත් බවත් පොලිසිය කියයි.
+
+...
+
+[Data](articles/d38df3e5.json)
 
 ---
 
@@ -1747,37 +1785,5 @@ He has reportedly been arrested in the Mathugama area in connection with the all
 ...
 
 [Data](articles/d292b988.json)
-
----
-
-### මන්ත්‍රී ජගත් විතානගේ ගේ පුත්‍රයා අත්අඩංගුවට
-
-*2025-07-19 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212416) · `si`
-
-සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයාව පානදුර වලාන දූෂණ මර්ධන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-නීති විරෝධීව එකලස් කරන ලද වාහනයක් ල﻿ඟ තබා ගැනීමේ සිද්ධියකට අදාළව ඔහු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/d38bfe04.json)
-
----
-
-### Sri Lanka’s rubber exporters seek tariff relief to compete in US market
-
-*2025-07-19 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110625/sri-lankas-rubber-exporters-seek-tariff-relief-to-compete-in-us-market) · `en`
-
-Ahead of the August 1 deadline for further negotiations on the tariffs imposed by the Trump administration, the Sri Lankan rubber exporters said they faced the threat of losing the US market unless a better deal was worked out.
-
-Kamal Silva, a spokesman for the exporters, said the tariff must be kept between 15 and 20 per cent to retain their edge over regional competitors.”Indonesia has gained a clear advantage already as Sri Lanka with the current 30 cent tariff will find it extremely hard to do business with the US,” he said.
-
-“Even before the new tariff came, Sri Lankan exporters found it hard to compete with Indonesia. A 15 per cent tariff would be our ideal rate to be competitive in the US market,” Silva was quoted as saying by PTI.
-
-He said the rubber exports fetched USD 300 million annually from the US market.
-
-...
-
-[Data](articles/2322d9ce.json)
 
 ---

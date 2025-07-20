@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 11:09:09**
+As of **2025-07-20 11:23:57**
 
 ## Newspaper Stats
 
-*Scraped **65,631** Articles*
+*Scraped **65,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,25 +18,75 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,298
 adaderanalk | 8,019
-tamilmirrorlk | 9,406
-virakesarilk | 10,921
-adaderanasinhalalk | 11,278
+tamilmirrorlk | 9,407
+virakesarilk | 10,922
+adaderanasinhalalk | 11,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,631 articles have been extended.
+61,973 (94.4%) of 65,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
+### උඩු ගුවනේදී ගුවන් යානයක එන්ජිමක් ගිනි ගනී
+
+*2025-07-20 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212432) · `si`
+
+ඩෙල්ටා ගුවන්සේවයට අයත් ගුවන්යානයක් ගුවන්ගත වී ටික වේලාවකට පසු එන්ජිමක ඇති වූ ගිනි ගැනීමක් හේතුවෙන් ලොස් ඇන්ජලීස් ජාත්‍යන්තර ගුවන්තොටුපොළට හදිසි ගොඩබෑමක් සිදුකර තිබේ.
+
+මෙම ගුවන් යානය බොයිං 767 මාදිලියට අයත් ගුවන්යානයක් වන අතර එය ඇට්ලන්ටා ගුවන්තොටුපොළ බලා පියාසර කිරීමට නියමිතව තිබුණි.
+
+ගුවන් යානයේ වම් එන්ජිමකින් ගිනිදැල් පිටවන ආකාරය පෙන්නුම් කරන වීඩීයෝවක් ද මේ වන විට සමාජ මාධ්‍ය හරහා සංසරණය වේ.
+
+කෙසේ වෙතත් මෙම ගුවන් යානය ලොස් ඇන්ජලීස් ගුවන්තොටුපොළට ආරක්ෂිතව ගොඩබස්සවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙම අනතුර හේතුවෙන් කිසිවෙකුටත් හානි සිදුව නොමැති අතර ගුවන්තොටුපොළ ගිනි නිවන භටයින් විසින් ගින්න මැඩපැවැත්වීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/05397a6c.json)
+
+---
+
+### கொழும்பு அரசியலில் அதிரடி எதிர்க்கட்சி தலைவரின் ஆசனத்தில் மாற்றம்
+
+*2025-07-20 11:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கொழும்பு-அரசியலில்-அதிரடி-எதிர்க்கட்சி-தலைவரின்-ஆசனத்தில்-மாற்றம்/150-361391) · `ta`
+
+எதிர்க்கட்சித் தலைவர் பதவியை மற்றொரு எதிர்க்கட்சி எம்.பி.க்கு வழங்குவது குறித்து ரகசிய பேச்சுவார்த்தைகள் தொடங்கியுள்ளதாக அரசியல் வட்டாரங்கள் தெரிவித்தன.
+
+ஐக்கிய மக்கள் சக்தி, இரண்டு ஜனாதிபதித் தேர்தல்கள், மூன்று பொதுத் தேர்தல்கள் மற்றும் ஒரு உள்ளூராட்சித் தேர்தலில் தோல்வியடைந்த சூழலில், எதிர்க்கட்சித் தலைவர் பதவியை சஜித் பிரேமதாசவிடமிருந்து நீக்கி, வலுவான எதிர்க்கட்சி எம்.பி.க்கு வழங்க வேண்டும் என்று எதிர்க்கட்சி எம்.பி.க்கள், அரசியல் பார்வையாளர்கள், சமூக ஊடக ஆர்வலர்கள் மற்றும் வெகுஜன அமைப்புகள் அடங்கிய குழு முன்மொழிகிறது.
+
+தற்போதைய எதிர்க்கட்சித் தலைவரின் கீழ் எதிர்க்கட்சியின் வகிபாகம் சரியாக நிறைவேற்றப்படவில்லை என்றும், தற்போதைய எதிர்க்கட்சி பல தற்போதைய பிரச்சினைகளை தீர்க்காமல் அரசாங்கத்திற்கு ஆலோசனை வழங்கும் குழுவாக செயல்படுவதாகவும் இந்தக் குழுக்கள் சுட்டிக்காட்டுகின்றன.
+
+...
+
+[Data](articles/6e4266f3.json)
+
+---
+
+### தெற்கு சூடானிலிருந்து கச்சா எண்ணெய் இறக்குமதியை தவிர்க்குமாறு முன்னாள் தூதுவர் கனநாதன் பரிந்துரை
+
+*2025-07-20 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220437) · `ta`
+
+தெற்கு சூடானிலிருந்து கச்சா எண்ணெய் இறக்குமதி செய்யும் இலங்கையின் முயற்சி, அரசியல் தடைகள், விநியோகத் தடங்கல்கள் மற்றும் தொழில்நுட்ப சிக்கல்களை ஏற்படுத்தக்கூடும் என தெற்கு சூடானுக்கான இலங்கையின் முன்னாள் தூதுவர் கனநாதன் தெரிவித்துள்ளார். எனவே, இந்த முயற்சியை இலங்கை அதிகாரிகள் கைவிட வேண்டும் என்றும் அவர் தனது கருத்தை தெரிவித்துள்ளார்.
+
+தடைகள், நம்பகத்தன்மையற்ற விநியோகச் சங்கிலிகள் மற்றும் சுத்திகரிப்பு இணக்கமின்மை ஆகியவற்றைக் காரணம் காட்டி, அத்தகைய நடவடிக்கையை மறுபரிசீலனை செய்யுமாறு இலங்கை எரிசக்தி அதிகாரிகளை தூதர் கனநாதன் வலியுறுத்தினார். "எரிசக்தி பாதுகாப்பிற்கு பல்வகைப்படுத்தல் அவசியம் என்றாலும், இந்த கட்டத்தில் தெற்கு சூடான் கச்சா எண்ணெயை இறக்குமதி செய்வது இலங்கைக்கு நடைமுறைக்கு ஏற்றதாகவோ அல்லது பொருளாதார ரீதியாகவோ சாத்தியமில்லை" என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/6ba6ee14.json)
+
+---
+
 ### සුළං සැරයි - කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
 
 *2025-07-20 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212431) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
 
 බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත් සඳහා මෙම නිවේදනය බලපැවැත්වේ.
 
@@ -1743,51 +1793,5 @@ Naval and fishing communities are strongly advised not to venture into the sea a
 ...
 
 [Data](articles/643adb9a.json)
-
----
-
-### பலத்த காற்றில் சிக்கிய படகு : மீனவர் மரணம்
-
-*2025-07-19 13:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்றில்-சிக்கிய-படகு-மீனவர்-மரணம்/175-361356) · `ta`
-
-பேருவளை மீன்பிடித் துறைமுகத்தில் இருந்து சென்ற படகில் பயணித்த ஒருவர் இன்று (19) காலை வீசிய பலத்த காற்றில் சிக்கி காணாமல் போயுள்ளார்.
-
-இதன்போது படகில் 6 மீனவர்கள் இருந்ததாக மீன்பிடி மற்றும் நீரியல் வளங்கள் திணைக்களத்தின் பணிப்பாளர் சுசந்த கஹவத்த தெரிவித்தார்.
-
-கடந்த 15 ஆம் திகதி புறப்பட்ட குறித்த படகானது, இன்று மீண்டும் கரைக்கு திரும்பிக்கொண்டிருந்த போது பேருவளை கடலுக்கு அருகில் இந்த அனர்த்தம் நிகழ்ந்துள்ளது.
-
-காணாமல் போன நபர் தொடங்கொட பகுதியைச் சேர்ந்த 35 வயதுடையவர் என்று கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/f4409fab.json)
-
----
-
-### “Every Mountain Has Its Own Story”
-
-*2025-07-19 12:59:00* · [`islandlk`](http://island.lk/every-mountain-has-its-own-story/) · `en`
-
-In the quiet early hours of July 8th, the arrivals terminal of the Bandaranaike International Airport was filled with something far greater than applause or fanfare—it was filled with emotion. Flags fluttered, voices called out, and arms opened wide in a heartfelt welcome. Sri Lanka’s own Johann Peries—the first Sri Lankan to climb all Seven Summits—had returned home. But for Johann, it wasn’t about glory or recognition.
-
-Speaking to The Sunday, he said:”So actually getting back to Sri Lanka, going back home was the most important thing for me,” he said, voice steady but heartfelt. “After being away for one month and under those conditions, being alone… getting back to your own home country was really emotional for me, especially after taking on a task like this.”
-
-...
-
-[Data](articles/4c75f56f.json)
-
----
-
-### NU AT THE London School of Economics
-
-*2025-07-19 12:57:00* · [`islandlk`](http://island.lk/nu-at-the-london-school-of-economics/) · `en`
-
-[The London School of Economics] seems to prefer intense, committed, often workaholic scholars and public figures.
-
-NU’s next big break came in 1938, when aged 30, he received a scholarship and leave to pursue postgraduate studies at the London School of Economics (LSE) as an internal student. The government was in the early stages of setting up a new Commerce and Industry Department, and NU’s superiors had selected him to undertake the special one-year course of training in Business Administration offered by the LSE, to make NU’s services “more useful to the department.” He was expected to: “make a closer acquaintance with modern business methods and to acquire training in practical commerce”(N.U. Jayawardena Personal Files).
-
-...
-
-[Data](articles/b5332030.json)
 
 ---

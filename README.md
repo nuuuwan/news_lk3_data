@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 14:21:08**
+As of **2025-07-20 14:33:52**
 
 ## Newspaper Stats
 
-*Scraped **65,667** Articles*
+*Scraped **65,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,106 @@ islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,303
-adaderanalk | 8,023
+adaderanalk | 8,029
 tamilmirrorlk | 9,414
-virakesarilk | 10,931
+virakesarilk | 10,934
 adaderanasinhalalk | 11,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,667 articles have been extended.
+61,973 (94.4%) of 65,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
+### Suspect arrested with 2,828kg of smuggled dried ginger in Norochcholai
+
+*2025-07-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110654/suspect-arrested-with-2828kg-of-smuggled-dried-ginger-in-norochcholai) · `en`
+
+An individual has been arrested for the possession of 2,828kg of dried ginger during a coordinated search operation by the Sri Lanka Navy and Police in Sanjeethawaththa, Norochcholai.
+
+The search operation was carried out by the Naval Detachment Norochcholai of the Northwestern Naval Command with the assistance of the Norochcholai Police.
+
+Upon search of a suspicious house in Sanjeethawaththa, the stash of smuggled dried ginger in 70 sacks, was recovered.
+
+The arrested suspect was identified as a resident of Norochcholai, aged 33.
+
+The suspect, together with the stock of dried ginger, was handed over to the Norochcholai Police for further action.
+
+◼️
+
+[Data](articles/2d492da3.json)
+
+---
+
+### One dead, another injured in clash at Inamaluwa Teak Reserve in Sigiriya
+
+*2025-07-20 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110653/one-dead-another-injured-in-clash-at-inamaluwa-teak-reserve-in-sigiriya) · `en`
+
+An individual has died while another has sustained injuries following a clash that broke out in a ‘wadiya’ where labourers were staying, within the Inamaluwa Teak Reserve in Sigiriya.
+
+The injured individual has been admitted to the Dambulla Base Hospital for treatment.
+
+Meanwhile, the deceased has been identified as a 55-year-old resident of Moragollagama, Polpithigama, who was employed as a supervisor.
+
+Two other individuals who were at the scene have been arrested in connection with the incident.
+
+According to preliminary investigations, the death resulted from a clash that began over a financial dispute and turned violent.
+
+Reportedly, all four individuals involved had been working for a contractor hired to fell trees in the government-owned teak reserve.
+
+The Sigiriya Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/aed04165.json)
+
+---
+
+### இராணுவத் தளபதி - கிழக்கு ஆளுநர் சந்திப்பு
+
+*2025-07-20 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220461) · `ta`
+
+திருகோணமலை ஆளுநர் செயலகத்தில் இன்று ஞாயிற்றுக்கிழமை (20) இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கும் இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
+
+திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
+
+கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லேகும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/6e2b5868.json)
+
+---
+
+### அரசியல் கைதிகளின் விடுதலையை நேசிக்கின்ற எவரும் 24, 25ம் திகதிகளில் உங்கள் வீடுகளில் இருந்து வருகின்ற போது இதயசுத்தியோடு ஒரு துளிநீரையாவது கொண்டுவந்து விடுதலை விருட்சத்தினை நாட்டுவதற்கு உதவுங்கள்- குரலற்றவர்களின் குரல்
+
+*2025-07-20 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/220459) · `ta`
+
+எதிர்வரும் 24 25;ம்  திகதிகளில் தமிழ் அரசியல் கைதிகளின் விடுதலையை நேசிக்கின்ற எவரும் உங்கள் வீடுகளில் இருந்து வருகின்ற போது இதயசுத்தியோடு ஒரு துளிநீரையாவது கொண்டுவந்து விடுதலை விருட்சத்தினை நாட்டுவதற்கு உதவுங்கள் என குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் கோமகன் வேண்டுகோள் விடுத்துள்ளார்.
+
+சிறைகளில் வாடுகின்ற அரசியல் கைதிகளின் விடுதலையை வலியுறுத்திய பொது அமைப்புகளின் கலந்துரையாடல்..!(19.07.2025) யாழ்ப்பாணம் தந்தை செல்வா அரங்கில் நடைபெற்றது.
+
+இம்மாதம் 24,25 சிறையில் படுகொலை செய்யப்பட்ட தமிழ் அரசியல் கைதிகளுக்கான நினைவேந்தலும் அதற்கான நூதனப் போராட்டமும் முன்னெடுப்பதற்காக குறித்த கலந்துரையாடல் இன்றைய தினம் நடத்தப்பட்டது.
+
+குரல் அற்றவர்களின் குரல் அமைப்பின் ஏற்பாட்டில் குறித்த கலந்துரையாடல் முன்னெடுக்கப்பட்டது 8 மாவட்டங்களிலும் விடுதலை விருட்சம் நாட்வதற்காக விடுதலை நீரை பெற்றுக் கொள்வது தொடர்பாகவும் இந்த கலந்துரையாடலில் கலந்தாலோசிக்கப்பட்டது.
+
+...
+
+[Data](articles/39d83b3a.json)
+
+---
+
 ### නීති විරෝධීව ගෙන ආ වියළි ඉඟුරු තොගයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට
 
 *2025-07-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212438) · `si`
 
-නීතී විරෝධී ලෙස මෙරටට රුගෙන ආ බවට සැක කෙරෙන වියළි ඉඟුරු කිලෝ ග්‍රෑම් දෙදහස් අටසිය විසි අටක තොගයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+නීතී විරෝධී ලෙස මෙරටට රැගෙන ආ බවට සැක කෙරෙන වියළි ඉඟුරු කිලෝ ග්‍රෑම් දෙදහස් අටසිය විසි අටක තොගයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-නාවික හමුදාව සහ පොලීසිය එක්ව නොරොච්චෝලේ සංජීතවත්ත ප්‍රදේශයේදී ඊයේ  (19) සිදු කළ විශේෂ එකාබද්ධ සෝදිසි මෙහෙයුමකදී මෙම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+නාවික හමුදාව සහ පොලීසිය එක්ව නොරොච්චෝලේ සංජීතවත්ත ප්‍රදේශයේදී ඊයේ  (19) සිදු කළ විශේෂ ඒකාබද්ධ සෝදිසි මෙහෙයුමකදී මෙම සැකකරු අත්අඩංගුවට ගෙන ඇත.
 
 මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 33ක් වන නොරොච්චෝල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
 
@@ -47,6 +125,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d240d0e9.json)
+
+---
+
+### தவறவிடப்பட்ட பொறுப்புகள்
+
+*2025-07-20 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220444) · `ta`
+
+கடத்தல்காரர்கள் மத்தியில், போதைப்பொருளை கடத்திச் செல்வது ஆபத்தானது என்றோ அல்லது அதற்கு சாத்தியம் இல்லை என்றோ நிலைப்பாடு ஒன்று உருவாகும் வரையில்,  இதனை முற்றாக நிறுத்த முடியாது.உள்ளூரில் அத்துமீறல்களை தடுக்க முடியாத கடற்படை , எவ்வாறு சர்வதேச கடற்பரப்பில் கடற்கொள்கைகளை தடுக்கப் போகிறது?
+
+◼️
+
+[Data](articles/ad204ce2.json)
+
+---
+
+### MP Jagath Vithana’s son to be produced before court
+
+*2025-07-20 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110652/mp-jagath-vithanas-son-to-be-produced-before-court) · `en`
+
+The son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit, is scheduled to be produced before court today.
+
+Rasika Withana is scheduled to be presented before the Matugama Magistrate’s Court.
+
+He was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
+
+Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
+
+Acting on intelligence that the vehicle was being driven in Matugama, officers launched a special operation in the area last afternoon. During the operation, the suspect who was driving the jeep was taken into custody along with the vehicle.
+
+Subsequently, Rasika Withana was handed over to the Matugama Police.
+
+...
+
+[Data](articles/36beedf2.json)
+
+---
+
+### Death toll rises to 14 in South Korea as heavy rain triggers landslide and flooding
+
+*2025-07-20 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110651/death-toll-rises-to-14-in-south-korea-as-heavy-rain-triggers-landslide-and-flooding) · `en`
+
+Two people have died and a further two were missing in the South Korean resort town of Gapyeong on Sunday, after a landslide engulfed houses and flooding swept away vehicles during a period of heavy rainfall.
+
+This brings the nationwide death toll to 14 with 12 people missing since the rain began on Wednesday.
+
+The rainfall is likely to stop on Sunday and be followed by a heat wave, the government weather forecaster said on Sunday.
+
+The heavy rainfall, which had earlier lashed southern parts of South Korea, moved north overnight, it said.
+
+◼️
+
+[Data](articles/35474d4f.json)
 
 ---
 
@@ -61,6 +191,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eeff18d5.json)
+
+---
+
+### Two missing after fishing boat caught in strong winds in seas off Chilaw
+
+*2025-07-20 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110650/two-missing-after-fishing-boat-caught-in-strong-winds-in-seas-off-chilaw) · `en`
+
+Two fishermen along with a boat they set out from Chilaw are reported missing, with a major search and rescue operation underway.
+
+The vessel reportedly disappeared due to strong winds and stormy conditions.
+
+Meanwhile, fishermen on two boats that were also in distress due to strong winds had managed to swim safely to shore. The missing fishermen are both from Koloniya Wellaa in Chilaw.
+
+One of the two remaining boats was destroyed after hitting a reef. The fishermen on board swam to shore last night, and the damaged vessel was later found washed ashore at the beach in Karukupane fishing village.
+
+The fishermen on the third boat reached the shore at the Muthupanthiya fishing village after their boat capsized during the storm. With the help of local fishermen, they returned to the Chilaw area.
+
+...
+
+[Data](articles/8ec2d1c4.json)
 
 ---
 
@@ -84,6 +234,38 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### மொரவெவ பொலிஸ் பிரிவில் முச்சக்கர வண்டி விபத்து ; இருவருக்கு காயம்
+
+*2025-07-20 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220452) · `ta`
+
+மொரவெவ பொலிஸ் பிரிவில், திருகோணமலை -ஹொரவ்பொத்தானை பிரதான வீதியில் மிரிஸ்வெவ பகுதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணத்திலிருந்து திருகோணமலை நோக்கி முச்சக்கர வண்டியில் பயணித்த சாரதி உட்பட   தாய் மற்றும் இரண்டு  பிள்ளைகள்  பயணித்துள்ள நிலையில், முச்சக்கர வண்டி வீதியை விட்டு விலகி மின்கம்பத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் இதன் போது இருவருக்கு காயம் ஏற்பட்டுள்ளதாகவும் தெரிய வந்துள்ளது.
+
+பலத்த காயமடைந்த இருவரும் மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு  மேலதிக சிகிச்சைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரியவந்துள்ளது.
+
+தூக்க கலக்கமே விபத்துக்கான காரணம் எனவும், விபத்து தொடர்பிலான விசாரணைகளை மேற்கொண்டு வருவதாகவும் மொரவெவ பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f8073361.json)
+
+---
+
+### Tsunami alert issued after powerful quakes strike off coast of Russia
+
+*2025-07-20 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110649/tsunami-alert-issued-after-powerful-quakes-strike-off-coast-of-russia) · `en`
+
+Three powerful earthquakes struck off the coast of Russia’s far east on Sunday, triggering a tsunami alert, the US Geological Survey said.
+
+Earlier 5.0-magnitude and 6.7-magnitude earthquakes did not initially trigger a tsunami alert, but were followed by a 7.4-magnitude quake at 0849 GMT, prompting the USGS to warn that “hazardous tsunami waves are possible” within 300 kilometres (186 miles) of the epicentre in the Pacific, off the city of Petropavlovsk-Kamchatsky.
+
+◼️
+
+[Data](articles/c77635d6.json)
+
+---
+
 ### රුසියාවේ ප්‍රබල භූ කම්පනයක්
 
 *2025-07-20 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212436) · `si`
@@ -99,24 +281,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0e68cf51.json)
-
----
-
-### ஹொரவ்பொத்தானையில் முச்சக்கர வண்டி விபத்து - இருவருக்கு காயம்
-
-*2025-07-20 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/220452) · `ta`
-
-திருகோணமலை -ஹொரவ்பொத்தானை பிரதான வீதியில் மிரிஸ்வெவ பகுதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-யாழ்ப்பாணத்திலிருந்து திருகோணமலை நோக்கி முச்சக்கர வண்டியில் பயணித்த சாரதி உட்பட   தாய் மற்றும் இரண்டு  பிள்ளைகள்  பயணித்துள்ள நிலையில், முச்சக்கர வண்டி வீதியை விட்டு விலகி மின்கம்பத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் இதன் போது இருவருக்கு காயம் ஏற்பட்டுள்ளதாகவும் தெரிய வந்துள்ளது.
-
-பலத்த காயமடைந்த இருவரும் மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு  மேலதிக சிகிச்சைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரியவந்துள்ளது.
-
-தூக்க கலக்கமே விபத்துக்கான காரணம் எனவும், விபத்து தொடர்பிலான விசாரணைகளை மேற்கொண்டு வருவதாகவும் மொரவெவ பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/f8073361.json)
 
 ---
 
@@ -1621,173 +1785,5 @@ Trump has said he parted ways with Epstein before the financier’s legal troubl
 ...
 
 [Data](articles/719b68c9.json)
-
----
-
-### නිලන්ත ජයවර්ධන පොලිස් සේවයෙන් නෙරපයි
-
-*2025-07-19 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212421) · `si`
-
-රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතා පොලිස් සේවයෙන් නෙරපා හැරීමට ජාතික පොලිස් කොමිෂම තීරණය කර තිබේ.
-
-අද දෙරණ සිදුකළ විමසීමකට ප්‍රතිචාර දක්වමින් ජාතික පොලිස් කොමිෂන් සභාව මේ බව තහවුරු කළේය.
-
-◼️
-
-[Data](articles/af02b3ec.json)
-
----
-
-### US brings Trump’s war on fentanyl to Sri Lanka
-
-*2025-07-19 19:44:00* · [`economynextcom`](https://economynext.com/us-brings-trumps-war-on-fentanyl-to-sri-lanka-231638/) · `en`
-
-ECONOMYNEXT – The United State embassy in Sri Lanka has trained the country’s drug control agency and also given equipment to analyze synthetic drugs and psychoactive substances, particularly fentanyl which are spreading in many countries.
-
-After concluding a training program with the National Dangerous Drugs Control Board (NDDCB) of Sri Lanka Radian ASAP drug testing machine (a type of easy to use mass spectrometer), were given to Sri Lanka. Maldives, Bangladesh, and Nepal will also get such machines.
-
-The Radian ASAP machine is a compact system designed for rapid, high-confidence screening of synthetic substances in under a minute, the US embassy said.
-
-“Requiring no complex sample preparation, this technology is ideally suited to detect emerging drug threats efficiently and bolster regional forensic capabilities,” the statement said.
-
-...
-
-[Data](articles/8e7dddbc.json)
-
----
-
-### මීමුරේ ප්‍රදේශයේ වෑන් රථයක් පෙරළීමෙන් පුද්ගලයින් තිදෙනෙකු මරුට
-
-*2025-07-19 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212420) · `si`
-
-UPDATE - මීමුරේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් පෙරළීමෙන් සිදුවූ අනතුරින් තවත් පුද්ගලයෙකු මියගොස් ඇති බව වාර්තා වේ.
-
-අනතුරින් මේ වන විට මියගොස් ඇත්තේ කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකි.
-
-එමෙන්ම අනතුරින් අවුරුදු 05ක ළමයෙක් සහ තවත් දෙදෙනෙකු තෙල්දෙණිය රෝහලට ඇතුළත් කර ඇතැයිද සඳහන් වේ.
-
-මියගිය පිරිස මීරිගම ප්‍රදේශයේ පදිංචිකරුවන් බවත් ඔවුන් මීමුරේ ප්‍රදේශය දක්වා ගමන් කිරීමේදී මෙම අනතුරට මුහුණ දී තිබේ.
-
-අනතුරින් අවුරුදු 05ක ළමයෙක් සහ තවත් දෙදෙනෙකු තෙල්දෙණිය රෝහලට ඇතුළත් කර ඇතැයිද සඳහන් වේ.
-
-හුන්නස්ගිරිය - මීමුරේ මාර්ගයේ කරඹකැටිය ප්‍රදේශයේ වෑන් රථයක් අනතුරකට ලක්වීමෙන් පුද්ගලයින් දෙදෙනෙකු මිය ගොස් තිබේ.
-
-අද (19) පස්වරුවේ සිදුව ඇති මෙම අනතුරින් පුද්ගලයින් පස්දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇතැයිද ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බවද වාර්තා වේ.
-
-◼️
-
-[Data](articles/48d5adda.json)
-
----
-
-### Sri Lanka tea traders ask govt to act against low-quality producers
-
-*2025-07-19 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-traders-ask-govt-to-act-against-low-quality-producers-231528/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Tea Traders’ Association has urged the government to strictly enforce the law against factories that compromise quality during tea production, the President’s Media Division said.
-
-In recent years, Sri Lanka’s tea industry—long celebrated for its premium Ceylon tea—has been grappling with rising production costs, fluctuating global demand, and a volatile economic climate.
-
-Faced with mounting pressure to remain competitive in international markets, some tea producers have begun compromising on quality to cut costs, using lower-grade leaves, reducing plucking intervals, and relying on less-skilled labour, undermining the very brand identity that Ceylon tea has cultivated for over a century.
-
-Exporters have raised alarm over declining quality, warning that such practices could erode consumer trust in key markets like the EU, Japan, and the Middle East.
-
-...
-
-[Data](articles/35c41a5d.json)
-
----
-
-### දෝව රක්ෂිතයේ ගින්නක්
-
-*2025-07-19 18:58:14* · [`adalk`](https://www.ada.lk/breaking_news/දෝව-රක්ෂිතයේ-ගින්නක්/11-417387) · `si`
-
-දෝව ඓතිහාසික රජමහා විහාරස්ථානය ට නුදුරින් පිහිටි පරෙයියන්ගල කන්දේ  හටගත් හදිසි  ගින්නකින් අක්කර දහයක පමන කොටසක් විනාශ වී ගොස් සුලගත් සමග ගින්න තව දුරටත් කදුමුදුනේ පැතිර යමින් පවතින බව ඇල්ල පොලිසිය පවසයි .
-
-පවතින අධික වියලි දේශගුණික තත්ත්වයත් සමග  කිසිවෙකු විසින් වනසතුන් දඩයම් කිරීමට හෝ විනෝදයට මෙන් මෙසේ පරෙයියන්ගල කන්දට ගිනිතබන්නට ඇති බවත් ,මේ සම්බන්ධයෙන් සැකපිට පුද්ගලයකු අත් අඩංගුවට ගනු ලැබූ බවත් පොලිසිය සදහන් කලේය .
-
-වනසංරක්ෂණ ,වනජිවි නිළධාරින් , දියතලාව යුධ හමුදා කදවුරේ නිළධාරින්  ආපදා කළමනාකරණ මධ්‍යස්ථානය එක්වී ගින්න නිවාදැමීමට උත්සාහ කලද එම ස්ථානයට ලගාවීමට ඇති අපහසුතාව මෙන්ම පවතින අධික සුලං හේතුවෙන් ගින්න නිවාදැමීමට අපහසු වී ඇති බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය .
-
-◼️
-
-[Data](articles/319ba9ee.json)
-
----
-
-### Report of inquiry committee probing Deshabandu to be submitted to Speaker
-
-*2025-07-19 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110627/report-of-inquiry-committee-probing-deshabandu-to-be-submitted-to-speaker) · `en`
-
-The final report of the Committee of Inquiry appointed to inquire and report its findings on suspended Inspector General of Police (IGP) Deshabandu Tennakoon, in respect of acts of gross abuse of power, is scheduled to be handed over to the Speaker of Parliament within the coming week.
-
-A spokesman for the committee stated that the relevant final report is currently being prepared.
-
-A special three-member committee of inquiry was appointed to investigate the allegations of misconduct and serious abuse of power by suspended police chief Deshabandu Tennakoon and to prepare a report.
-
-The committee is chaired by Supreme Court Justice Preethi Padman Surasena and also includes Justice W.M.N.P. Iddawela and Chairman of the National Police Commission E.D.M. Lalith Ekanayake.
-
-The committee convened on more than 10 occasions and recorded evidence from several individuals, including Deshabandu Tennakoon. The investigation committee had also taken steps to meet daily from July 16th and record evidence.
-
-...
-
-[Data](articles/60b54cb5.json)
-
----
-
-### ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතුයි
-
-*2025-07-19 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212419) · `si`
-
-ඉතිහාසය විශේෂ විෂයක් ලෙස පාසල් විෂය නිර්දේශයට ඇතුළත් විය යුතු බව අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමි පවසයි.
-
-උන්වහන්සේ පෙන්වා දෙනුයේ ආර්ථික වශයෙන් ප්‍රතිලාභයක් නොලැබෙන බව සදහන් කරමින් එම විෂයන් ප්‍රතික්ෂේප කිරීමට ඇතැම් පාර්ශව කටයුතු කිරීම අනුමත කළ නොහැකි බවය.
-
-අද (19) පෙරවරුවේ දයාසිරි ජයසේකර මන්ත්‍රීවරයා උන්වහන්සේ බැහැදැකීමට පැමිණි අවස්ථාවේදී අදහස් දක්වමින් පූජ්‍ය මැදගම ධම්මානන්ද හිමි මේ බව සදහන් කර තිබේ.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමි
-
-...
-
-[Data](articles/48601444.json)
-
----
-
-### ரேக்ளா பந்தய பின்னணியில் உருவாகும் ' சோழ நாட்டான்'
-
-*2025-07-19 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220405) · `ta`
-
-' நான் சிவனாகிறேன்',  'டை நோ சர்ஸ்',  ' ஃபேமிலி படம் ' ஆகிய படங்களின் மூலம் ரசிகர்களின் கவனத்தை கவர்ந்திருக்கும் நடிகர் உதய் கார்த்திக் கதையின் நாயகனாக நடித்திருக்கும் புதிய படமான 'சோழநாட்டான்' காவிரி டெல்டா பகுதியில் நடைபெறும் ரேக்ளா பந்தயத்தின் பின்னணியை விவரிக்கிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
-
-இயக்குநர் 'பட்டுக்கோட்டை' ரஞ்சித் கண்ணா இயக்கத்தில் உருவாகும் ' சோழநாட்டான் ' எனும் திரைப்படத்தில் உதய் கார்த்திக்,  லுத்துஃப்,  சௌந்தரராஜன் , ஸ்வேதா கர்ணா,  நரேன், சீதா, பரணி, விக்னேஷ் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
-
-எஸ் ஆர் சதீஷ்குமார் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு எஃப் .எஸ் .ஃபைசல் இசையமைக்கிறார். ரேக்ளா பந்தய பின்னணியில் பொழுதுபோக்கு அம்சங்களுடன் உருவாகும் இந்த திரைப்படத்தை செவன் ஹில்ஸ் மூவி மேக்கர் நிறுவனம் சார்பில் தயாரிப்பாளர் மாரியப்பன் முத்தையா தயாரிக்கிறார்.
-
-இப்படத்தின் தொடக்க விழா சென்னையில் நடைபெற்றது. இதில் படக்குழுவினர் கலந்து கொண்டனர்.  இப்படத்தின் படப்பிடிப்பை ஒரே கட்டமாக விரைவில் நடத்த திட்டமிடப்பட்டிருப்பதாக படக்குழுவினர் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/be67a57d.json)
-
----
-
-### විපක්ෂයේ දේශපාලන රික්තකය පුරවන්න සජබය සූදානමින්
-
-*2025-07-19 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212418) · `si`
-
-ආණ්ඩුවට එරෙහි ශක්තිමත් විපක්ෂයක් ලෙස කටයුතු කිරීමට අවශ්‍ය නම් ජාතික මට්ටමේ වැඩපිළිවෙළක අවශ්‍යතාව සමගි ජන බලවේගයේ ජ්‍යෙෂ්ඨයින් පෙන්වා දී තිබේ.
-
-ඔවුන් පවසන්නේ වර්තමානයේ පවතින විපක්ෂ භූමිකාවේ දේශපාලන හිඩස පිරවීමට නම් සමගි ජන බලවේගය එක්සත් ජාතික පක්ෂය සමග ඒකාබද්ධව කටයුතු කළ යුතු බවය.
-
-සමගි ජන බලවේගයේ කළමණාකරණ කමිටුව පසුගියදා එම පක්ෂ නායක සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් රැස්වී ඇති අතර එහිදී වත්මන් දේශපාලන තත්ත්වය සම්බන්ධයෙන් දීර්ඝ ලෙස සාකච්ඡා කර තිබේ.
-
-අදාළ සාකච්ඡා පැය 02කට ආසන්න කාලයක් පවත්වා ඇති අතර එළැඹෙන බදාදා දිනයේදීද යළි සමගි ජන බලවේගයේ කළමනාකරණ කමිටුව රැස්වීමට නියමිතව ඇත.
-
-ජාතික මට්ටමේ වැඩපිළිවෙළක් හරහා පමණක් ග්‍රාමීය ජනතාව දේශපාලන වැඩපිළිවෙළකට ඒකාබද්ධ කරගත යුතු බව පක්ෂ ජ්‍යෙෂ්ඨයින් පෙන්වා දී තිබේ.
-
-කෙසේ වෙතත් එක්සත් ජාතික පක්ෂය සමග එක්ව කටයුතු කිරීම සම්බන්ධයෙන් සමගි ජන බලවේගය මේ දක්වාත් නිෂ්චිත සාකච්ඡාවකට හෝ අවසන් එකඟතාවයකට පැමිණ නොමැති බවද සඳහන් වෙයි.
-
-...
-
-[Data](articles/8761ebc0.json)
 
 ---

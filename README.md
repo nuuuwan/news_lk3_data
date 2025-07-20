@@ -1,38 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 08:33:39**
+As of **2025-07-20 09:17:39**
 
 ## Newspaper Stats
 
-*Scraped **65,597** Articles*
+*Scraped **65,604** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 583
-colombotelegraphcom | 669
+dbsjeyarajcom | 584
+colombotelegraphcom | 670
 bbccomsinhala | 677
 economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,291
+adalk | 6,295
 adaderanalk | 8,014
 tamilmirrorlk | 9,394
 virakesarilk | 10,918
-adaderanasinhalalk | 11,274
+adaderanasinhalalk | 11,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,597 articles have been extended.
+61,973 (94.5%) of 65,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
-### මාරක අනතුරු - පහක් මරුට
+### වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළී 34ක් මරුට
+
+*2025-07-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212428) · `si`
+
+වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයින් 34 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එමෙන්ම මෙම අනතුරින් තවත් පුද්ගලයින් කිහිප දෙනෙකුද අතුරුදන්ව ඇතැයි එම මාධ්‍ය වාර්තා කර ඇත.
+
+අයහපත් කාලගුණය හේතුවෙන් මෙම අනතුර සිදුව ඇති බව වාර්තා වී ඇති අතර අනතුර සිදුව ඇත්තේ එරට උතුරු ප්‍රදේශයේ ජනප්‍රිය සංචාරක ගමනාන්තයක් වන හා ලොන්ග් බොක්කෙහිය.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇති පරිදි මගීන්ගෙන් බහුතරයක් හැනොයි අගනුවර සිට පැමිණි වියට්නාම් පවුල් බවද සඳහන් වේ.
+
+අනතුරින් තවත් පුද්ගලයින් 11 දෙනෙකු දිවි ගලවාගෙන ඇති අතර අතුරුදන් වුවන් සෙවීමට අධික වර්ෂාව බාධාවක් වී ඇති බවද එරට ගලවා ගැනීමේ කණ්ඩායම් පවසා තිබේ.
+
+අනතුරට පත්වන විට මෙම බෝට්ටුව තුළ පුද්ගලයින් 53 දෙනෙකු සිට ඇති බවත් විදෙස් මාධ්‍ය වාර්තා සඳහන් කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අනතුරින් මිය ගිය බොහෝ පිරිස අතුරින් 8 දෙනෙකු ළමුන් බවය.
+
+◼️
+
+[Data](articles/9eaf68c3.json)
+
+---
+
+### නාරම්මල අනතුරකින් සිඟිති දියණියන් දෙදෙනෙකු ඇතුළු 03කට දිවි අහිමිවෙයි
 
 *2025-07-20 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212427) · `si`
 
@@ -94,6 +118,36 @@ The driver, conductor, and a passenger of the bus sustained injuries in the acci
 
 ---
 
+### නාරම්මල අනතුරකින් දැරියන් දෙදෙනෙක් හා රියදුරෙක් මරුට
+
+*2025-07-20 07:46:49* · [`adalk`](https://www.ada.lk/breaking_news/නාරම්මල-අනතුරකින්-දැරියන්-දෙදෙනෙක්-හා-රියදුරෙක්-මරුට/11-417391) · `si`
+
+නාරම්මල  පොලිස් වසමේ ගිරිඋල්ල මාර්ගයේ නාරම්මල දෙසට ධාවනය වූ කාර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ දකුණු පසට ඇදී ගොස් ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි බස් රියග ගැටී මාරක රිය අනතුරක් සිදුව තිබේ.
+
+අනතුරින් කාර් රථයේ රියදුරු, එහි ගමන් කළ කාන්තාවන් දෙදෙනෙක්, පිරිමි පුද්ගලයෙක් හා කුඩා දැරියන් දෙදෙනෙක් තුවාල ලබා දඹදෙණිය රෝහලට හා නාරම්මල රෝහලට ඇතුළත් කර තිබේ.
+
+එහිදී මෝටර් රථයේ රියදුරු හා දැරියන් දෙදෙනා මියගොස් තිබේ. මියගිය දැරියන් දෙදෙනා මාස 9 හා මාස 11ක් වන අතර රියදුරු වයස අවුරුදු 38ක් වන දිවුල්ලෑව, මහව පදිංචිකරුවන් වෙයි. බස් රථයේ රියදුරු හා කොන්දොස්තර හා තවත් මගියෙක් තුවාල ලබා දඹදෙණිය රෝහලට ඇතුළත්ව ප්‍රතිකාර ලබයි. නාරම්මල පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/d309a538.json)
+
+---
+
+### මීමුරේ දී වෑන් රියක් පෙරළී තුනක් මරුට
+
+*2025-07-20 07:35:22* · [`adalk`](https://www.ada.lk/breaking_news/මීමුරේ-දී-වෑන්-රියක්-පෙරළී-තුනක්-මරුට/11-417390) · `si`
+
+හුන්නස්ගිරිය  මීමුරේ ප්‍රාද්ශයේදි  ඊයේ 19 වන දින සවස සිදුවු  රිය අනතුරකින් කාන්තාවන් දෙදෙනෙකු ඇතුළු ව තිදෙනෙකු මිය ගොස් ඇති අතර තවත් සිව් දෙනෙකු  තෙල්දෙණිය රෝහල වෙත ඇතුලත් කර තිබේ.
+
+මීරිගම ප්‍රදේශයේ සිට මීමුරේ දක්වා විනෝද චාරිකාවක්  ගිය වෑන් රථයක්  මෙලෙස අනතුරට ලක්ව තිබේ   තුවාල ලැබුවන් අතර අවුරුදු පහක කුඩා දැරුවකු සිට්න බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/b4497221.json)
+
+---
+
 ### ஜனாதிபதி மாளிகைகள் மக்கள் நலனுக்காக பயன்படும் – அமைச்சர் இராமலிங்கம் சந்திரசேகர்
 
 *2025-07-20 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220411) · `ta`
@@ -111,6 +165,26 @@ The driver, conductor, and a passenger of the bus sustained injuries in the acci
 ...
 
 [Data](articles/976f6bce.json)
+
+---
+
+### එකම අංකය සහිත ත්‍රීරෝද රථ දෙකක් අත්අඩංගුවට
+
+*2025-07-20 07:30:45* · [`adalk`](https://www.ada.lk/breaking_news/එකම-අංකය-සහිත-ත්‍රීරෝද-රථ-දෙකක්-අත්අඩංගුවට/11-417389) · `si`
+
+දීර්ඝ පරීක්ෂණයකින් අනතුරුව එකම අංක තහඩු ඇති කොළ පැහැති ත්‍රීරෝද රථ දෙකක් 19 වෙනිදා අත්අඩංගුවට ගත් බව මනම්පිටිය පොලිසිය කියයි.
+
+මෙම ත්‍රීරෝද රථ දෙකේම වැසි අංකය, වර්ණය, තහඩු අංක සමාන බැවින් මඩකලපුව කිරාන් ප්‍රදේශයේ පුද්ගලයෙකුගේ පැමිණිල්ලක් අනුව ත්‍රිරෝද රථ දෙක අත්අඩංගුවට ගත් බව මනම්පිටිය පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක අසේල සරත් කුමාර මහතා අප කළ විමසීමකදී පැවසීය,
+
+අනාරක්ෂිත දුම්රිය ගේට්ටු මුරකරුවකු ලෙස සේවය කරන තමන් වඩමුනේ ප්‍රදේශයේ පදිංචි පුද්ගලයකු රුපියල් ලක්‍ෂ දහයක මුදලකට ත්‍රීරෝද රථයක් මිලදීගෙන ඇති අතර එහි මුල් අයිතිකරු ත්‍රිරෝදයට අයත් කියවිලි නොමැති බවට පවසා ඇත.
+
+ඒ අනුව කිරාන් ප්‍රදේශයේ පදිංචි පුද්ගලයා අදාල ලියාපදිංචි සහතිකය සකසා ගැනීමට මනම්පිටිය පොලිසියේ පැමිණිල්ලක් සිදුකර ඇති අතර එහි පිටපතක් ලබාගෙන වාලච්චේන ප්‍රාදේශීය ලේකම් කාර්යාලයට ගිය පසු ඒ නමින් තවත් ත්‍රීරෝද රථයක් ලියාපදිංචි වී ඇති බවට දන්වා ඇත.
+
+ඒ අනුව තමන්ගේ ත්‍රිරෝද රථයේ වැසි අංකයෙන් සහ අංක තහඩුව නමින් වත්තේගම ප්‍රදේශයේ පුද්ගලයකු ත්‍රිරෝද රථයක් ලියාපදිංචි කර ඇති බවට පැමිණිකරු නැවත මනම්පිටියේ පොලිසියට දන්වා ඇත.
+
+...
+
+[Data](articles/64727cf7.json)
 
 ---
 
@@ -308,7 +382,35 @@ The general public has been requested to take adequate precautions to minimize d
 
 ---
 
+### Rewriting Sri Lanka’s Constitution: A Path To Discipline & Prosperity
+
+*2025-07-20 03:11:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rewriting-sri-lankas-constitution-a-path-to-discipline-prosperity/) · `en`
+
+A national constitution is more than just a legal document – it is the backbone of a country’s identity, governance, and democratic values. It outlines the principles that guide the state, defines the structure of government, and safeguards the rights of its citizens. In democratic nations, the Constitution ensures that all institutions derive their authority from the people and remain accountable through free and transparent elections and governance. Notably, it can also facilitate the devolution of power, enabling local governments to serve their communities better and uphold the rule of law (1). As Sri Lanka stands at a critical crossroads, revisiting and revising its Constitution is essential to building a more disciplined, fair, and prosperous nation.
+
+...
+
+[Data](articles/936d1a4e.json)
+
+---
+
 ### 2025-07-19 (Saturday)
+
+### 
+
+*2025-07-19 23:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
+
+The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
+
+Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
+
+In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
+
+...
+
+[Data](articles/2ecd8d48.json)
+
+---
 
 ### Goal is to reduce number of students in a classroom to 25-30: PM Harini
 
@@ -361,6 +463,24 @@ Senior DIG Nilantha Jayawardena Dismissed From Service by Dulmini Imalsha on Scr
 ...
 
 [Data](articles/8eb4d9ce.json)
+
+---
+
+### මන්ත්‍රී ජගත් විතාන මහතාගේ පුතා අත්අඩංගුවට
+
+*2025-07-19 21:28:53* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ජගත්-විතාන-මහතාගේ-පුතා-අත්අඩංගුවට/11-417388) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ස.ජ.බ. ජගත්විතාන මහතාන  මහතාගේ පුත් රසික විතාන මහතා අද සවස පානදුර වලාන දූෂණ මර්දන ප්‍රහාර ඒකකය විසින් අඩංගුවට ගෙනගෙන ඇත.
+
+රසික විතාන මහතා සන්තකයේ තිබූ land cruiser වර්ගයේ ජීප් රථයක් සමග මතුගම නගරයේදි  19දා සවස අත්අඩංගුවට ගෙන ඇත.
+
+මෙම ජිප් රථය කොටස් එකලස් කළ එකක් බවත් පසුව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවත් මේ වන විට මෙම ජිප් රථය රසික විතාන මහතා සන්තක තිබීම හේතුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.  මේ වන විට මතුගම පොලිසියේ රඳවාගෙන ප්‍රශ්න කරනු ඇත
+
+පා.ම. ජගත් විතාන මහතාගේ පාර්ශවය පවසන්නේ 2024   ඔක්තෝම්බර් 16දින මාසයේ මිලදී ගත් බවත්, එම මිලදී ගන්නා අවස්ථාවේ මූල්‍ය ආයතනයක මූල්‍ය පහසුකමක් තිබූ බවත් එය  ලබාගෙන ඇත්තේ  හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන  මහතාගේ දුව රොෂෙල් ශලනී අබේගුනවර්දන යන අයගෙනී..
+
+...
+
+[Data](articles/526e723d.json)
 
 ---
 
@@ -1743,133 +1863,5 @@ Meanwhile, the remaining members of the group have resumed their normal daily ac
 ◼️
 
 [Data](articles/0b53af07.json)
-
----
-
-### மீண்டும் வாகன இறக்குமதியில் மோசடி : ஒருவர் கைது
-
-*2025-07-19 09:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வாகன-இறக்குமதியில்-மோசடி-ஒருவர்-கைது/175-361352) · `ta`
-
-ஜப்பானிய வாகன இறக்குமதியில் சுமார் 20 மில்லியன் ரூபாய் மோசடியில் ஈடுபட்டதாகக் கூறப்படும் ஒருவரை குற்றப்புலனாய்வுத் துறையினர் கைது செய்துள்ளனர்.
-
-மஹரகமவில் வசிக்கும் அவர்,ஜப்பானிலிருந்து இறக்குமதி செய்யப்பட்ட 18 வாகனங்களுக்கான ஆரம்பக் கொடுப்பனவுகளைத் தவிர்த்து, அதன் மூலம் அந்தப் பரிவர்த்தனைகளுக்குத் தேவையான நிதியை மோசடி செய்ததாகக் குற்றம் சாட்டப்பட்டுள்ளார்.
-
-அவர் ஜப்பானிலிருந்து இலங்கைக்கு மொத்தம் 68 வாகனங்களை இறக்குமதி செய்துள்ளதாக விசாரணைகளிலிருந்து தெரியவந்துள்ளது. R
-
-◼️
-
-[Data](articles/646700ba.json)
-
----
-
-### Sri Lanka financial account back in deficit by US$610mn in 1Q amid debt repayments
-
-*2025-07-19 09:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-account-back-in-deficit-by-us610mn-in-1q-amid-debt-repayments-231545/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s external financial account was in deficit by 610 million US dollars, central bank data showed, as the country repaid debt and built net reserves by squeezing the current account.
-
-In Mercantilist terms and in the popular press financial outflows are sometimes called ‘capital flight’.
-
-In order for a country to be able to repay debt, savings have to be appropriated either by taxation or borrowings, reducing domestic credit and consumption, by the people who repay or build reserves at market interest rates.
-
-Sri Lanka’s financial account has been in deficit since the last quarter of 2022, amid unusual debt repayments, when the central bank established monetary stability.
-
-Sri Lanka has to make debt repayments on a net basis and also build reserves (which is the same as debt repayments), with most capital inflows drying up.
-
-...
-
-[Data](articles/d7125ebf.json)
-
----
-
-### தெஹிவளை துப்பாக்கிச்சூடு குறித்து வெளியான அதிர்ச்சி செய்திகள்
-
-*2025-07-19 08:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெஹிவளை-துப்பாக்கிச்சூடு-குறித்து-வெளியான-அதிர்ச்சி-செய்திகள்/175-361351) · `ta`
-
-தெஹிவளை ரயில் நிலையத்திற்கு அருகில் நேற்று காலை  நடந்த துப்பாக்கிச் சூட்டில் பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள், பிலியந்தலை மாற்று வீதியில் உள்ள கோவில் ஒன்றுக்கு முன்பாக கைவிடப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-மோட்டார் சைக்கிளில் இணைக்கப்பட்டிருந்த இலக்கத் தகடு ஒரு காருக்கு பதிவு செய்யப்பட்டது என விசாரணையில் தெரியவந்துள்ளது.
-
-கொழும்பு கைரேகைத் துறையைச் சேர்ந்த அதிகாரி சம்பவ இடத்திற்கு வந்து மேலதிக விசாரணைகளை மேற்கொண்டார்.
-
-இந்த துப்பாக்கிச் சூட்டில் வெள்ளவத்தையைச் சேர்ந்த 46 வயதுடைய சுதத் குமார் காயமடைந்த நிலையில், அவரது நிலை கவலைக்கிடமாக இல்லை என களுபோவில வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.
-
-சிசிடிவி காட்சிகளின்படி, துப்பாக்கிச் சூடு நடத்தியவர் எந்த இடையூறும் இல்லாமல் நடந்து சென்று, காரின் சாரதி இருக்கையில் இருந்த சுதத் குமார் மீது நான்கு முறை துப்பாக்கியால் சுட்டார்.
-
-இதில் இரண்டு குண்டுகள் அவரது தோள்பட்டை மற்றும் வயிற்றில் பட்டன. மற்றவை காரைத் தாக்கின. தாக்குதலுக்குப் பிறகு, துப்பாக்கிச் சூடு நடத்தியவர் மற்றொரு நபருடன் மோட்டார் சைக்கிளில் தப்பிச் சென்றார்.
-
-...
-
-[Data](articles/f81dc3bf.json)
-
----
-
-### රුවන්වැල්ලේ වාහන ගමනාගමනය සීමා කිරීමක් ගැන පොලීසියෙන් දැනුම්දීමක්
-
-*2025-07-19 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212402) · `si`
-
-රුවන්වැල්ල පොලිස් වසමේ යටන්වල ස්වර්ණ වාලුකාරාම විහාරස්ථානයේ වාර්ෂික ඇසල පෙරහර මංගල්‍ය අද (19) රාත්‍රී 10:00 සිට මධ්‍යම රාත්‍රී 12:00 දක්වා වීථී සංචාරය කිරීමට නියමිතව තිබේ.
-
-මෙම පෙරහැර ස්වර්ණ වාලුකාරාම විහාරස්ථානය අසලින් ගමන් ආරම්භ කර කෑගල්ල කරවනැල්ල මාර්ගය ඔස්සේ කරවනැල්ල දෙස සිට පැමිණ, රුවන්වැල්ල රාජසිංහ විදුහල ඉදිරිපිටින් ආපසු හැරී පැමිණි මාර්ගය ඔස්සේම නැවතත් ස්වර්ණ වාලුකාරාම විහාරස්ථානය වෙත ගමන් කිරීමට නියමිතය.
-
-මෙම කාලසීමාව තුළදී මෙම මාර්ගය භාවිත කරනු ලබන රියදුරන්ට පහත විකල්ප මාර්ග භාවිත කරන මෙන් පොලීසිය ඉල්ලා සිටී.
-
-පෙරහැර ගමන් කරන කාලය තුළදී මධ්‍යම රාත්‍රී 12:00 දක්වා මාර්ගය වරාවල හන්දියෙන් සහ තල්දූව හන්දියෙන් ගමනාගමනය සීමා කිරීමට කටයුතු කරන බවද පොලීසිය පවසයි.
-
-කෑගල්ල දෙස සිට අවිස්සාවේල්ල දෙසට පැමිණෙන වාහන වරාවල හන්දියෙන් බුලත්කොහුපිටිය දෙසට හැරී පරුස්සැල්ල යටියන්තොට මාර්ගයේ ගමන්කර හැටන් කොළඹ ප්‍රධාන මාර්ගයට පිවිස අවිස්සාවේල්ල දක්වා ගමන් කළ හැකිය.
-
-...
-
-[Data](articles/1199ee1b.json)
-
----
-
-### Temporary driving licenses for tourists to be issued at BIA
-
-*2025-07-19 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110613/temporary-driving-licenses-for-tourists-to-be-issued-at-bia-) · `en`
-
-The Department of Motor Traffic (DMT) has announced that a new system for issuing temporary driving licenses to tourists arriving in Sri Lanka will be launched at the Bandaranaike International Airport (BIA) in Katunayake starting in August.
-
-Commissioner General of the DMT, Kamal Amarasinghe, stated that the program is currently in its final stages of implementation.
-
-He further noted that several legal procedures related to the initiative are being finalized, and once completed, the system will be operational.
-
-Under this new program, temporary driving licenses will be issued for durations of either 14 or 30 days, he said.
-
-Additionally, Amarasinghe mentioned that tourists who intend to stay in the country for an extended period will have the option of obtaining a regular driving license, valid for up to eight years.
-
-◼️
-
-[Data](articles/962f202b.json)
-
----
-
-### Economics or entrepreneurship must serve humanity, not just wealth – PM
-
-*2025-07-19 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110612/economics-or-entrepreneurship-must-serve-humanity-not-just-wealth-pm-) · `en`
-
-The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, stated that despite societal tendencies to prioritize monetary value, economics and entrepreneurship should be disciplines rooted in humanity, and the concept of a “care economy” serves as a good example of this approach.
-
-The Prime Minister made these remarks while participating in a program held yesterday (18) at the Ministry of Education to inform officials about the development of modules for financial literacy and entrepreneurship, which are included as subjects under the new educational reforms, according to the Prime Minister’s Media Division.
-
-...
-
-[Data](articles/56956925.json)
-
----
-
-### US envoy says Syria and Israel agree to ceasefire as Druze minority and Bedouin clans clash in Syria
-
-*2025-07-19 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110611/us-envoy-says-syria-and-israel-agree-to-ceasefire-as-druze-minority-and-bedouin-clans-clash-in-syria) · `en`
-
-U.S. envoy to Syria Tom Barrack said early Saturday that Israel and Syria had agreed to a ceasefire following Israel’s intervention this week in fighting between Syrian government forces and rival armed groups.
-
-The announcement came as renewed clashes erupted between Druze groups and Bedouin clans and Syria’s president said he would send troops back in to quell the fighting, which has left tens of thousands of people displaced in a worsening humanitarian crisis.
-
-Barrack said in a statement posted on social platform X that the new ceasefire between Israel and Syria was supported by Turkey, Jordan and other neighboring countries and called for “Druze, Bedouins, and Sunnis to put down their weapons and together with other minorities build a new and united Syrian identity in peace and prosperity with its neighbors.”
-
-...
-
-[Data](articles/03a27cdf.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 09:17:39**
+As of **2025-07-20 09:50:18**
 
 ## Newspaper Stats
 
-*Scraped **65,604** Articles*
+*Scraped **65,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,295
 adaderanalk | 8,014
-tamilmirrorlk | 9,394
+tamilmirrorlk | 9,399
 virakesarilk | 10,918
 adaderanasinhalalk | 11,275
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 11,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,604 articles have been extended.
+61,973 (94.5%) of 65,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### பிரதான வீதியில் விழுந்த வேன்: இருவருக்கு காயம்
+
+*2025-07-20 09:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதான-வீதியில்-விழுந்த-வேன்-இருவருக்கு-காயம்/76-361378) · `ta`
+
+தலவாக்கலையில் உள்ள ஒரு தேவாலயத்திற்கு வந்த வேன் ஒன்று பாதுகாப்பு வேலியை உடைத்துக்கொண்டு பிரதான சாலையில் விழுந்துள்ளது.
+
+தலவாக்கலையில் உள்ள ஒரு தேவாலயத்திற்கு ஒரு குழுவை ஏற்றிச் சென்ற வேன் ஒன்று தேவாலயத்தின் பாதுகாப்பு வேலியை உடைத்துக்கொண்டு ஹட்டன்-நுவரெலியா பிரதான சாலையில் விழுந்ததால் விபத்து ஏற்பட்டதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+
+ஹட்டன்-நுவரெலியா பிரதான சாலைக்கு மேலே அமைந்துள்ள தேவாலயத்திற்கு வந்த வேன், ஒரு திருப்பத்தை எடுக்க பின்னோக்கிச் சென்றபோது, ஹட்டன்-நுவரெலியா பிரதான சாலைக்கு மேலே அமைந்துள்ள வேன், கட்டுப்பாட்டை இழந்து சுமார் 15 அடி கீழே பிரதான சாலையில் விழுந்தது. இந்த விபத்து சனிக்கிழமை (19) மாலை 5.40 மணியளவில் இடம்பெற்றுள்ளது என​ பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் வேனின் சாரதி மற்றும் மற்றொரு நபருக்கு சிறு காயங்கள் ஏற்பட்டதாகவும், விபத்தில் வேன் பலத்த சேதமடைந்ததாகவும் விபத்து குறித்து விசாரணை நடத்தி வரும் தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7ca996a5.json)
+
+---
+
+### வெப்பநிலை மாற்றத்தால் மக்களுக்கு பாதிப்பு
+
+*2025-07-20 09:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-மாற்றத்தால்-மக்களுக்கு-பாதிப்பு/175-361377) · `ta`
+
+நாட்டில் நிலவும் வெப்பநிலை மாற்றத்துடன் மக்கள் உளநல பிரச்சினைகளால் பாதிக்கப்படும் வீதம் அதிகரித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+புவி வெப்பமடைதல் அதிகரித்துள்ளமை இதற்கான பிரதான காரணமென கராப்பிட்டிய போதனா வைத்தியசாலையின் உளநல விசேட வைத்திய நிபுணர் ரூமி ரூபன் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/65b35815.json)
+
+---
+
+### கபரகொல்ல விபத்தில் நால்வர் பலி
+
+*2025-07-20 09:16:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கபரகொல்ல-விபத்தில்-நால்வர்-பலி/76-361376) · `ta`
+
+மீமுரே, கபரகொல்ல பகுதியில் சனிக்கிழமை (19) பிற்பகல் வேன் கவிழ்ந்து விபத்துக்குள்ளானதில்  நால்வர்  உயிரிழந்துள்ளனர்.
+
+விபத்தில் சிக்கிய வேன், மேல் வளைவிலிருந்து கீழ் வளைவுக்கு 30 மீட்டர் செங்குத்தான வீதியில் பிரண்டு, பிரதான வீதியின் அருகே நின்றுள்ளது.
+
+◼️
+
+[Data](articles/0d27206a.json)
+
+---
+
+### வத்தளையில் ஒருவர் படுகொலை
+
+*2025-07-20 09:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வத்தளையில்-ஒருவர்-படுகொலை/175-361375) · `ta`
+
+◼️
+
+[Data](articles/0e2267c1.json)
+
+---
+
+### அஸ்வெசும கால அவகாசம் நாளையுடன் நிறைவு
+
+*2025-07-20 09:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கால-அவகாசம்-நாளையுடன்-நிறைவு/175-361374) · `ta`
+
+அஸ்வெசும நலன்புரி கொடுப்பனவு திட்டத்திற்காக மேன்முறையீடு செய்வதற்காக வழங்கப்பட்டிருந்த கால அவகாசம் நாளையுடன் (21) நிறைவடையுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
+
+தற்போது இரண்டாம் கட்டத்தின் கீழ் அஸ்வெசும பயனாளர்களிடமிருந்து சுமார் 30,000 மேன்முறையீடுகள் கிடைத்துள்ளதாக சபை கூறியுள்ளது.
+
+குறித்த மேன்முறையீடுகள் பிரதேச செயலகங்களில் ஸ்தாபிக்கப்பட்டுள்ள மேன்முறையீட்டு குழுவினூடாக மீளாய்வு செய்யப்படும் என நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/5bfd26cd.json)
+
+---
 
 ### වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළී 34ක් මරුට
 
@@ -396,22 +468,6 @@ A national constitution is more than just a legal document – it is the backbon
 
 ### 2025-07-19 (Saturday)
 
-### 
-
-*2025-07-19 23:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
-
-The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
-
-Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
-
-In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
-
-...
-
-[Data](articles/2ecd8d48.json)
-
----
-
 ### Goal is to reduce number of students in a classroom to 25-30: PM Harini
 
 *2025-07-19 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110631/goal-is-to-reduce-number-of-students-in-a-classroom-to-25-30-pm-harini) · `en`
@@ -515,6 +571,20 @@ The Police Media Spokesperson further stated that one of the deceased women was 
 ◼️
 
 [Data](articles/865a8986.json)
+
+---
+
+### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
+
+*2025-07-19 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
+
+Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
+
+In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
+
+...
+
+[Data](articles/2ecd8d48.json)
 
 ---
 
@@ -1761,107 +1831,5 @@ In the region, China and Maldives signed a bilateral agreement in agriculture, l
 ◼️
 
 [Data](articles/6e74ac5e.json)
-
----
-
-### Police impose traffic restrictions in Ruwanwella
-
-*2025-07-19 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110615/police-impose-traffic-restrictions-in-ruwanwella-) · `en`
-
-The annual Esala Maha Perahera of the Yatanwala Swarna Walukarama Temple, located in the Ruwanwella Police Division, is scheduled to take place tonight (19) from 10:00 PM to 12:00 AM.
-
-The procession will commence near the Swarna Walukarama Temple, proceed along the Kegalle–Karawanella Road from Karawanella, turn back near Ruwanwella Rajasinghe College, and return to the temple via the same route, according to Sri Lanka Police.
-
-The police have requested motorists using this route to make use of alternative roads during the procession.
-
-Traffic will be restricted from Warawala Junction and Thalduwa Junction until 12:00 AM due to the event, said police.
-
-Turn at Warawala Junction towards Bulathkohupitiya and proceed along the Parussella–Yatiyanthota Road. Then, join the Hatton–Colombo main road and continue towards Avissawella.
-
-...
-
-[Data](articles/ddec5c20.json)
-
----
-
-### Bus carrying 20 Sri Lankan workers catches fire in Israel; no serious injuries – Ambassador
-
-*2025-07-19 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110614/bus-carrying-20-sri-lankan-workers-catches-fire-in-israel-no-serious-injuriesambassador) · `en`
-
-A bus transporting 20 Sri Lankan youths employed in the agricultural sector in Israel caught fire last morning (18) near Kiryat Malakhi, according to Sri Lanka’s Ambassador to Israel, Nimal Bandara.
-
-The bus was completely destroyed in the blaze. However, all 20 Sri Lankans on board managed to escape unharmed by breaking the windows, as the door had become blocked due to the fire.
-
-One individual sustained a leg injury during the incident and has been hospitalized. His condition is reported to be non-serious, the Ambassador confirmed.
-
-The relevant authorities in Israel have launched an investigation into the cause of the fire.
-
-Meanwhile, the remaining members of the group have resumed their normal daily activities.
-
-“We wish the young man who was hospitalized a speedy recovery,” Ambassador Bandara added.
-
-◼️
-
-[Data](articles/1b8f9eac.json)
-
----
-
-### ලංකාවේ තරුණයින් සිටි බස් රථයක් ඊශ්‍රායලයේ දී හදිසියේ ගිනිගනියි
-
-*2025-07-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212405) · `si`
-
-ඊශ්‍රායලයේ කෘෂිකාර්මික සේවයේ නිතර මෙරට තරුණයින් රැගත් බස් රථයක් හදිසි ගිනිගැනීමකට ලක්ව ඇති බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
-
-ඊශ්‍රායලයේ Kiryat Malakhi ප්‍රදේශයට ආසන්නයේ ඊයේ (18) උදේ තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටියදී මෙම අනතුර ලක්ව ඇත.
-
-අනතුර සිදුවන අවස්ථාවේ එම බස් රථයේ ශ්‍රී ලාංකිකයන් 20 දෙනෙකු සිට තිබේ.
-
-බස් රථය ගිනිගැනීමත් සමග එහි දොර අවහිරවී ඇති අතර, ඒ හේතුවෙන් ඔවුන් එහි ජනෙල් කඩා ඉන් ඉවත්වී ඇත.
-
-අනතුරෙන් පාදයක් තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇතත්, ඔහුගේ තත්ත්වය බරපතළ නොවන බව සඳහන්.
-
-මේ පිළිබඳව විවිධ සටහන් තබා ඇතත්, තුවාල වූ තරුණයාට තදබල අනතුරක් නොමැති බව නිමල් බණ්ඩාර මහතා පැවසීය.
-
-එමෙන්ම අදාළ සමාගම ද ඔවුන්ගේ කටයුතු පිළිබඳව සොයා බලන බවත්, අනෙකුත් පිරිස සුපුරුදු පරිදි තම කටයුතුවල නිරත බවත් හෙතෙම සඳහන් කළේය.
-
-◼️
-
-[Data](articles/355ad21c.json)
-
----
-
-### Bus carrying 20 Sri Lankan workers catches fire in Israel; no serious injuries – Ambassador
-
-*2025-07-19 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110614/bus-carrying-20-sri-lankan-workers-catches-fire-in-israel-ambassador) · `en`
-
-A bus transporting 20 Sri Lankan youths employed in the agricultural sector in Israel caught fire last morning (18) near Kiryat Malakhi, according to Sri Lanka’s Ambassador to Israel, Nimal Bandara.
-
-The bus was completely destroyed in the blaze. However, all 20 Sri Lankans on board managed to escape unharmed by breaking the windows, as the door had become blocked due to the fire.
-
-One individual sustained a leg injury during the incident and has been hospitalized. His condition is reported to be non-serious, the Ambassador confirmed.
-
-The relevant authorities in Israel have launched an investigation into the cause of the fire.
-
-Meanwhile, the remaining members of the group have resumed their normal daily activities.
-
-“We wish the young man who was hospitalized a speedy recovery,” Ambassador Bandara added.
-
-◼️
-
-[Data](articles/c20f3702.json)
-
----
-
-### ඊශ්‍රායලය සහ සිරියාව අතර සටන් විරාමයකට එකඟතාවක්
-
-*2025-07-19 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212404) · `si`
-
-ඊශ්‍රායලය සහ සිරියාව කලාපීය ප්‍රධාන රටවල සහාය ඇතිව සටන් විරාමයකට එකඟවී ඇති බව තුර්කියේ අමෙරිකානු තානාපති ටොම් බැරැක් පවසයි.
-
-ඩෲස් ජනතාව ආරක්ෂා කිරීම සඳහා සිරියානු හමුදා ඉලක්ක කර ගනිමින් ඊශ්‍රායලය එල්ල කළ ගුවන් ප්‍රහාරයෙන් පසු මෙම එකඟතාවට පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/0b53af07.json)
 
 ---

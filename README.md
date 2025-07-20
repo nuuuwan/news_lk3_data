@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 12:07:03**
+As of **2025-07-20 12:24:13**
 
 ## Newspaper Stats
 
-*Scraped **65,648** Articles*
+*Scraped **65,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ dailymirrorlk | 4,733
 adalk | 6,300
 adaderanalk | 8,021
 tamilmirrorlk | 9,412
-virakesarilk | 10,925
-adaderanasinhalalk | 11,279
+virakesarilk | 10,927
+adaderanasinhalalk | 11,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,648 articles have been extended.
+61,973 (94.4%) of 65,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් ධීවරයින් සමග අතුරුදන්
+
+*2025-07-20 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212434) · `si`
+
+හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රා තුනක් අතුරින් එක් යාත්‍රාවක් ධීවරයින් සමග අතුරුදන් වී තිබේ.
+
+දැඩි සුළං සහ කුණාටු තත්ත්වය හමුවේ මෙම ධීවරය යාත්‍රාව අතුරුදන්ව ඇති අතර එහි ධීවරයි දෙදෙනෙකු සිට තිබේ.
+
+කෙසේ නමුත් ඉතිරි ධීවර යාත්‍රා දෙකක සිටි ධීවරයින් පිහිනා නිරුපද්‍රිතව ගොඩබිමට පැමිණ ඇත.
+
+මෙලෙස යාත්‍රාව සමග අතුරුදන්ව ඇත්තේ හලාවත වැල්ල කොළණිය ප්‍රදේශයේ පදිංචි ධීවරයින් දෙදෙනෙකි.
+
+අනෙක් යාත්‍රා දෙක අතුරින් එක් යාත්‍රාවක් ගල්පරයක ගැටී විනාශ වී ඇති නමුත් එහි සිටි ධීවරයින් ඊයේ රාත්‍රියේම පිහිනා ගොඩබිමට පැමිණ ඇති අතර ඔවුන් ගමන් ගත් ධීවර යාත්‍රාව කරුකුපනේ ධීවර ගම්මානයේ වෙරළ තීරයට ගොඩ ගසා තිබේ.
+
+අනෙක් යාත්‍රාවේ සිටි ධීවරයින් කුණාටුව සමග යාත්‍රාව පෙරළීමෙන් පසු මුතුපන්තිය ධීවර ගම්මානයේ වෙරළට පැමිණ ඇති අතර ඔවුන් එහි සිටි ධීවරයින්ගේ උදව් ඇතිව හලාවත ප්‍රදේශයට පැමිණ ඇත.
+
+...
+
+[Data](articles/9e63dda3.json)
+
+---
+
+### 20 ஆண்டுகளாக கோமாவில் இருந்த சவுதி இளவரசர் காலமானார்
+
+*2025-07-20 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220448) · `ta`
+
+தூங்கும் இளவரசர் என அழைக்கப்படும் சவுதி அரேபியாவின் இளவரசர் அல் வாலீத் பின் காலித் பின் தலால் அல் சவுத் 20 ஆண்டுகளாக கோமாவில் இருந்து வந்த நிலையில், சனிக்கிழமை (19) காலமானார்.
+
+பிரித்தானிய நாட்டின் லண்டன் நகரில் இராணுவ பயிற்சிக்காக படித்து வந்த அவர், 2005 ஆம் ஆண்டு நடந்த கார் விபத்தில் சிக்கினார். இதில், காயமடைந்த அவர் கோமா நிலைக்கு சென்றார். இந்நிலையில், 20 ஆண்டுகளாக கோமாவிலேயே இருந்த இளவரசர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+அவருடைய மறைவை, அல் வாலீத்தின் தந்தையான இளவரசர் காலித் பின் தலால் அல் சவுத் உறுதி செய்துள்ளார். அவருடைய இறுதி சடங்குகள் இன்று நடைபெறவுள்ளது.
+
+இன்றைய தினம் முதல் 22 ஆம் திகதி வரையிலான 3 நாட்களுக்கு பொதுமக்கள் அஞ்சலி செலுத்த அனுமதி அளிக்கப்படவுள்ளது. இதற்காக, அல்-பக்ரியா மாவட்டத்தில் உள்ள அரண்மனையில் உடல் வைக்கப்படும். ஆண்கள் இரங்கல் தெரிவிக்க செல்ல அனுமதிக்கப்படும். பெண்கள் மக்ரீப் தொழுகையை முடித்து விட்டு இரங்கல் தெரிவிக்க செல்லலாம்.
+
+...
+
+[Data](articles/3e1f9d3b.json)
+
+---
+
+### වැවට වැටී පුද්ගලයෙකු අතුරුදන්
+
+*2025-07-20 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212433) · `si`
+
+නිකවැරටිය ප්‍රදේශයේ මාගල්ල වැවේ ඔරුවක් ආධාරයෙන් මසුන් අල්ලමින් සිටි පුද්ගලයින් දෙදෙනකුගෙන් එක් පුද්ගලයෙකු වැවට වැටී අතුරුදන්ව තිබේ.
+
+අදාල පුද්ගලයා දියේ ගිලී අතුරුදන්ව ඇති බවට ලද පැමිණිල්ලකට අනුව  නිකවැරටිය පොලීසිය විසින් විමර්ශන ආරම්භ කර ඇත.
+
+මෙසේ දියේ ගිලී අතුරුදන්ව ඇත්තේ වයස අවුරුදු 48ක් වන නිකවැරටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අතුරුදහන් වූ පුද්ගලයා සොයා නිකවැරටිය පොලීසිය හා ප්‍රදේශවාසීන් එක්ව මෙහෙයුමක් දියත්කර තිබේ.
+
+◼️
+
+[Data](articles/028ca4e5.json)
+
+---
 
 ### அடேங்கப்பா..! “4.5 கிலோ எடை” ரத்தக்கசிவால் அம்பலமானது
 
@@ -125,6 +183,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f34ac4c0.json)
+
+---
+
+### வடக்கின் வீழ்ச்சி : பொறுப்பேற்பது யார்?
+
+*2025-07-20 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220439) · `ta`
+
+போர் முடிந்து 16 ஆண்டுகளுக்குப் பின்னர், வடக்கு மாகாணம் அடிப்படை கல்வி தேர்வில், கடைசி இடத்தில் இருக்கிறது. போர்ச் சூழலுக்கும், போர்ப்பாதிப்புகளுக்கும் இனிமேலும் முடிச்சுப் போட்டுக் கொண்டிருக்க முடியாது.சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ,  வடக்கில் 33 ஆரம்ப மருத்துவமனைகளில் ஒரு தாதி கூட பணியில் இல்லை என்று கூறியிருக்கிறார். அண்மைக்காலத்தில், பெருமளவில் தாதியர்களுக்கு நியமனம் வழங்கப்பட்ட போதும், இந்த இடங்களுக்கு நியமிக்கப்படாமல் போனது யாருடைய தவறு?
+
+◼️
+
+[Data](articles/7830e15c.json)
 
 ---
 
@@ -1076,22 +1146,6 @@ A national constitution is more than just a legal document – it is the backbon
 
 ---
 
-### 
-
-*2025-07-20 02:17:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86173) · `en`
-
-Mr. Muthu was born to Karunanidhi’s first wife Padmavathi; he was an actor and singer, who was known to have styled himself after MGR
-
-Mu. Ka. Muthu, the eldest son of the late Chief Minister M. Karunanidhi and half-brother of Chief Minister M.K. Stalin, died in Chennai on Saturday (July 19, 2025). He had been ailing for a long time. He was 77 and is survived by his wife, son, and daughter.
-
-Mr. Muthu was born to Karunanidhi’s first wife Padmavathi, daughter of Chidambaram Padagasundaram Pillai, a renowned musician and composer. His maternal uncle, C.S. Jayaraman — a playback singer — rendered many songs for Sivaji Ganesan-starrers, including his debut film Parasakthi.
-
-...
-
-[Data](articles/bacc02ec.json)
-
----
-
 ### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
 
 *2025-07-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
@@ -1117,6 +1171,22 @@ The site was discovered by accident in February this year when workers, who were
 ...
 
 [Data](articles/7bf81f1c.json)
+
+---
+
+### Tamil Nadu Chief Minister Stalin’s Brother Mu.Ka. Muthu Passes Away in Chennai at the age of 77;  DMK leader Kalaigner Karunanidhi’s eldest son Muthu was a Singer and Film Actor Who Tried to Emulate ADMK Leader M.G.Ramachandran.
+
+*2025-07-20 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86173) · `en`
+
+Mu. Ka. Muthu, the eldest son of the late Chief Minister M. Karunanidhi and half-brother of Chief Minister M.K. Stalin, died in Chennai on Saturday (July 19, 2025). He had been ailing for a long time. He was 77 and is survived by his wife, son, and daughter.
+
+Mr. Muthu was born to Karunanidhi’s first wife Padmavathi, daughter of Chidambaram Padagasundaram Pillai, a renowned musician and composer. His maternal uncle, C.S. Jayaraman — a playback singer — rendered many songs for Sivaji Ganesan-starrers, including his debut film Parasakthi.
+
+The way Mr. Muthu styled himself after MGR, even affecting a physical resemblance, was a source of some discomfort for his family. Mr. Muthu was promoted as an actor by Karunanidhi’s family to produce a home-grown hero, as there was always tension between the DMK and film stars associated with the party. Actors like Sivaji Ganesan, M.G. Ramachandran (MGR), and poet Kannadasan were all once close to Karunanidhi.
+
+...
+
+[Data](articles/bacc02ec.json)
 
 ---
 
@@ -1685,73 +1755,5 @@ In a post on ‘X’, the minister said they discussed groundbreaking projects i
 ◼️
 
 [Data](articles/c4d15b6b.json)
-
----
-
-### ගසක අත්තක් කඩාවැටී අයෙක් මරුට
-
-*2025-07-19 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212414) · `si`
-
-මස්කෙළිය බ්‍රවුන්සික් වතුයාය ප්‍රදේශයේදී ගසක අත්තක් කඩා වැටීමෙන් පුද්ගලයෙකු මියගොස් තිබේ.
-
-පැවති තද සුළං තත්ත්වය හමුවේ මෙම අනතුර සිදුව ඇති අතර  කඩා වැටුණු අත්තට යටවූ අදාළ පුද්ගලයා එම ස්ථානයේදීම මියගොස් ඇති බව පොලීසිය පැවසීය.
-
-දර රැගෙන ඒමට තේ වත්තට ගිය අවස්ථාවේ ඔහු මෙම අනතුරට ලක්ව ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/45eccc77.json)
-
----
-
-### තද සුළං සම්බන්ධව කාලගුණයෙන් අනතුරු ඇඟවීමක්
-
-*2025-07-19 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212415) · `si`
-
-දිවයින හරහා පවතින සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් ප්‍රදේශ කිහිපයක පැයට කිලෝමීටර් 50-60ක් අතර තද සුළං ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් ස﻿ඳහන් කර ඇත්තේ බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු මැද පළාත්වල මෙම සුළං තත්ත්වය හැතිවිය හැකි බවය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමස පැ.කි.මී 30-40ක පමණ තද සුළං ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නිවේදනය මගින් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/5e9e80e1.json)
-
----
-
-### Thalawathugoda shooting: Arrested excise officer and businessman remanded
-
-*2025-07-19 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110623/thalawathugoda-shooting-arrested-excise-officer-and-businessman-remanded-) · `en`
-
-The Kaduwela Magistrate’s Court has ordered the remand of an excise officer and a businessman who were arrested in connection with a shooting incident that occurred near a nightclub in the Thalawathugoda area early this morning (19).
-
-The two suspects, who were taken into custody by Thalangama Police and produced before the Kaduwela Magistrate’s Court, have been remanded until July 30.
-
-According to police, an argument had broken out between the businessman and the excise officer near the nightclub at around 1.00 a.m. today.
-
-It is alleged that during the altercation, the businessman had taken out and pointed his licensed revolver at the excise officer.
-
-In the course of the confrontation, the excise officer reportedly managed to seize the weapon from the businessman and had fired four shots at a nearby wall, apparently as a means of intimidation.
-
-...
-
-[Data](articles/89cb952d.json)
-
----
-
-### India’s ban on Jane Street raises concerns over regulator role
-
-*2025-07-19 15:25:00* · [`islandlk`](http://island.lk/indias-ban-on-jane-street-raises-concerns-over-regulator-role/) · `en`
-
-Indian tax authorities and market regulator are considering widening their probe of United States trading giant Jane Street Group to investigate it for tax evasion in addition to an earlier charge of price rigging in the Bombay Stock Exchange’s benchmark Sensex, according to media reports.
-
-The tax evasion charge comes on the heels of market regulator, the Securities and Exchange Board of India (SEBI), seizing 48.43 billion rupees ($570m) and banning four Jane Street-related entities from operating in the market for alleged price manipulation in the National Stock Exchange (NSE).
-
-SEBI’s order has roiled the Indian markets, raising questions about regulator surveillance and investor protection in the world’s largest options trading market. Trading in India’s weekly equity index options has slumped by a third on the ban on Jane Street, the Reuters news agency reported on Thursday.
-
-...
-
-[Data](articles/74103da5.json)
 
 ---

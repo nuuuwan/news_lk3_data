@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 21:18:20**
+As of **2025-07-20 21:30:39**
 
 ## Newspaper Stats
 
-*Scraped **65,739** Articles*
+*Scraped **65,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,038
 tamilmirrorlk | 9,427
-virakesarilk | 10,953
-adaderanasinhalalk | 11,295
+virakesarilk | 10,955
+adaderanasinhalalk | 11,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,739 articles have been extended.
+61,973 (94.3%) of 65,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### ஜூலை 22 முதல் 25 வரை பாராளுமன்றக் கூட்டம் நடைபெறும் – குஷானி ரோஹணதீர
+
+*2025-07-20 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/220496) · `ta`
+
+பாராளுமன்றம் 22 ஆம் திகதி முதல் 25 ஆம் திகதி வரை கூடுவதற்கு தீர்மானிக்கப்பட்டிருப்பதாகப் பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார். சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் கடந்த  வாரம் கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் இந்த தீர்மானம் எடுக்கப்பட்டதாகவும் அவர் தெரிவித்தார்.
+
+இதற்கமைய பாராளுமன்றம் கூடும் ஒவ்வொரு நாளும் காலை 9.30 மணி முதல் 10.00 மணிவரை நிலையியற் கட்டளை 22 இல் குறிப்பிடப்பட்டுள்ள 1 முதல் 6 வரையான பாராளுமன்ற அலுவல்களுக்கு நேரம் ஒதுக்கப்பட்டுள்ளது. இதனையடுத்து  10.00 மணி முதல்  11.00 மணிவரை வாய்மூல விடைக்கான கேள்விகளுக்காக நேரம் ஒதுக்கப்பட்டுள்ளதுடன் 11.00 மணி முதல் 11.30 மணிவரை நிலையியற் கட்டளை 27(2)ன் கீழான கேள்விக்காக ஒதுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f7a9c47d.json)
+
+---
+
+### வட்டுக்கோட்டையில் பதற்றம் : இரு குழுக்களிடையே மோதல்; பொலிஸார் துப்பாக்கிச் சூடு
+
+*2025-07-20 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220495) · `ta`
+
+வட்டுக்கோட்டை மூளாய் பகுதியில் ஞாயிற்றுக்கிழமை (20) இரு குழுக்களுக்கிடையில் ஏற்பட்ட மோதலில் மோட்டார் சைக்கிள் ஒன்று தீக்கிரையாகியுள்ளதுடன், மற்றொன்று சேதப்படுத்தப்பட்டுள்ளது.
+
+இந்த மோதலுக்கு முன்னதாக, கடந்த நாளில் ஒரு தனிநபருக்கு தாக்குதல் இடம்பெற்றதாக கூறப்படுகிறது. சம்பவம் தொடர்பாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டதையடுத்து, இன்று அந்தத் தனிநபர்களது ஆதரவாளர்கள் இரண்டு பிரிவுகளாக பிரிந்து ஒரு தொடர்புடைய தாக்குதலில் ஈடுபட்டதாகத் தெரிவிக்கப்படுகிறது.
+
+இந்நிலையில், வன்முறையான தாக்குதலின் போது சம்பவ இடத்திற்கு வந்த வட்டுக்கோட்டை பொலிஸாருக்கு சிலர் கற்களை வீசி தாக்க முயன்றதையடுத்து, பொலிஸார் கட்டுப்பாட்டை நிலைநிறுத்த வானத்தை நோக்கி துப்பாக்கி பிரயோகம் மேற்கொண்டனர்.
+
+◼️
+
+[Data](articles/cdde9b4a.json)
+
+---
+
+### WTC අවසන් තරග තුනක සත්කාරක රට නිවේදනය කරයි
+
+*2025-07-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212450) · `si`
+
+ලෝක ටෙස්ට් ශූරතාවේ එළැඹෙන අදියර (2027) ඇතුළුව 2029 සහ 2031 වර්ෂන්හි පැවැත්වෙන අවසන් මහා තරග සඳහා ද සත්කාරක රට ලෙස එංගලන්තය නම්කර ඇත.
+
+2027 අදියරේ අවසන් මහා තරගයේ සත්කාරකත්වයට ඉන්දියාවේද බලාපොරොත්තුවක් තිබූ පසුබිමක මෙම තීරණය ගෙන තිබීම විශේෂත්වයක්ය.
+
+සිංගප්පූරුවේ පැවති ICC වාර්ෂික සමුළුවේදී මෙම තීරණය අනුමත කර තිබේ.
+
+ටෙස්ට් ලෝක ශූරතා අවසන් මහා තරගය පැවැත්වීමේ දී එංගලන්ත ක්‍රිකට් ආයතනය ඊට දැක් වූ සාර්ථකත්වය සැලකිල්ලට ගෙන මෙම තීරණය ගෙන ඇත.
+
+ඒ අනුව 2021 වසරේ පැවැති අවසන් මහා තරගය ඇතුළුව මේ දක්වා පැවැති සෑම අදියරකම (2023, 2025) අවසන් මහා තරග සඳහා ද සත්කාරකත්වය ලබාදී ඇත්තේ එංගලන්තයයි.
+
+2023–2025 අදියරට අදාළ ටෙස්ට් ලෝක ශූරතාවේ අවසන් මහා තරගය පසුගිය මාසයේ ඓතිහාසික ලෝඩ්ස් ක්‍රීඩාංගණයේ පැවැති අතර, එහිදී ඔස්ට්‍රේලියාවට එරෙහිව කඩුලු 5ක ජයක් වාර්තා කිරීමට දකුණු අප්‍රිකාව සමත් විය.
+
+◼️
+
+[Data](articles/eb6c6b6d.json)
+
+---
 
 ### சம்பூரில் மனித எச்சங்கள் மீட்பு
 
@@ -1709,65 +1761,5 @@ Paypal however has a service where they can collect VAT on behalf of the underly
 ◼️
 
 [Data](articles/e4da55e1.json)
-
----
-
-### Anti-immigrant rallies staged across Poland
-
-*2025-07-20 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110646/anti-immigrant-rallies-staged-across-poland) · `en`
-
-Anti‑immigration protests have taken place in dozens of towns and cities across Poland.
-
-Most demonstrations attracted several hundred people or fewer on Saturday - but police estimated that about 3,000 took part in the largest rally in the southern city of Katowice.
-
-The protests were organised by far-right political group Konfederacja, and another nationalist organisation.
-
-Politicians from Konfederacja and the opposition Law and Justice party have been warning about a flood of illegal migration in Poland - but official figures do not support their claims.
-
-“Without closing Poland to illegal immigration, without starting deportation campaigns, without abandoning political correctness... security will gradually deteriorate,” Konfederacja co-chairman Krzysztof Bosak told the crowd in the eastern city of Bialystok.
-
-A minute’s silence was held at some gatherings in memory of a 24-year-old Polish woman murdered in the central city of Torun.
-
-...
-
-[Data](articles/59f4791c.json)
-
----
-
-### උඩු ගුවනේදී ගුවන් යානයක එන්ජිමක් ගිනි ගනී
-
-*2025-07-20 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212432) · `si`
-
-ඩෙල්ටා ගුවන්සේවයට අයත් ගුවන්යානයක් ගුවන්ගත වී ටික වේලාවකට පසු එන්ජිමක ඇති වූ ගිනි ගැනීමක් හේතුවෙන් ලොස් ඇන්ජලීස් ජාත්‍යන්තර ගුවන්තොටුපොළට හදිසි ගොඩබෑමක් සිදුකර තිබේ.
-
-මෙම ගුවන් යානය බොයිං 767 මාදිලියට අයත් ගුවන්යානයක් වන අතර එය ඇට්ලන්ටා ගුවන්තොටුපොළ බලා පියාසර කිරීමට නියමිතව තිබුණි.
-
-ගුවන් යානයේ වම් එන්ජිමකින් ගිනිදැල් පිටවන ආකාරය පෙන්නුම් කරන වීඩීයෝවක් ද මේ වන විට සමාජ මාධ්‍ය හරහා සංසරණය වේ.
-
-කෙසේ වෙතත් මෙම ගුවන් යානය ලොස් ඇන්ජලීස් ගුවන්තොටුපොළට ආරක්ෂිතව ගොඩබස්සවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-මෙම අනතුර හේතුවෙන් කිසිවෙකුටත් හානි සිදුව නොමැති අතර ගුවන්තොටුපොළ ගිනි නිවන භටයින් විසින් ගින්න මැඩපැවැත්වීමට කටයුතු කර තිබුණි.
-
-◼️
-
-[Data](articles/05397a6c.json)
-
----
-
-### One spill gate of Upper Kotmale Reservoir opened due to heavy rain
-
-*2025-07-20 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110645/one-spill-gate-of-upper-kotmale-reservoir-opened-due-to-heavy-rain) · `en`
-
-Steps have been taken to open one sluice gate of the Upper Kotmale Reservoir, due to heavy rainfall in the catchment areas of the reservoir.
-
-Accordingly, the Nuwara Eliya District Disaster Management Centre stated that the sluice gate was opened early this morning (20).
-
-If heavy rain continues in the Upper Kotmale catchment areas, other sluice gates of the reservoir will open automatically. Therefore, the Disaster Management Centre requested those residing along the sides of the Kotmale Oya to remain vigilant.
-
-Additionally, due to heavy showers in the area, the water levels of the St. Clair and Devon waterfalls have also risen significantly.
-
-◼️
-
-[Data](articles/ead4c110.json)
 
 ---

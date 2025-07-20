@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 01:15:38**
+As of **2025-07-21 01:29:43**
 
 ## Newspaper Stats
 
@@ -938,24 +938,6 @@ Among them, 261,681 individuals are from India, 118,555 from the UK and 113,888 
 
 ---
 
-### 
-
-*2025-07-20 15:32:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86179) · `en`
-
-Former Chief Minister of  merged North Eastern Province Annamalai Varadaraja Perumal says  he will tryto create awareness among Tamils about the need to protect the provincial governance system
-
-There is a widespread perception that the Government is in no hurry to hold the Provincial Council Elections following a significant drop in the votes of the National People’s Power (NPP) at the recent Local Government Elections.
-
-The Government leaders, who claim that the system of Provincial Councils will remain in place until a new constitution is brought in, are not interested in ensuring that the Provincial Councils are administered by representatives elected by the people at least till then.
-
-It has been the position of the southern polity and the people in general and the Sinhalese nationalist forces in particular that the Provincial Council system was imposed on Sri Lanka by our big neighbour India.
-
-...
-
-[Data](articles/4fddaca0.json)
-
----
-
 ### අපිට ඩඩ්ලි එක්ක ප්‍රශ්නයක් තියෙනවා
 
 *2025-07-20 15:22:02* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ඩඩ්ලි-එක්ක-ප්‍රශ්නයක්-තියෙනවා/11-417405) · `si`
@@ -1797,5 +1779,23 @@ Paypal however has a service where they can collect VAT on behalf of the underly
 ...
 
 [Data](articles/dee0c1e2.json)
+
+---
+
+### වැවට වැටී පුද්ගලයෙකු අතුරුදන්
+
+*2025-07-20 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212433) · `si`
+
+නිකවැරටිය ප්‍රදේශයේ මාගල්ල වැවේ ඔරුවක් ආධාරයෙන් මසුන් අල්ලමින් සිටි පුද්ගලයින් දෙදෙනකුගෙන් එක් පුද්ගලයෙකු වැවට වැටී අතුරුදන්ව තිබේ.
+
+අදාල පුද්ගලයා දියේ ගිලී අතුරුදන්ව ඇති බවට ලද පැමිණිල්ලකට අනුව  නිකවැරටිය පොලීසිය විසින් විමර්ශන ආරම්භ කර ඇත.
+
+මෙසේ දියේ ගිලී අතුරුදන්ව ඇත්තේ වයස අවුරුදු 48ක් වන නිකවැරටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අතුරුදහන් වූ පුද්ගලයා සොයා නිකවැරටිය පොලීසිය හා ප්‍රදේශවාසීන් එක්ව මෙහෙයුමක් දියත්කර තිබේ.
+
+◼️
+
+[Data](articles/028ca4e5.json)
 
 ---

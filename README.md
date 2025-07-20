@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 05:31:32**
+As of **2025-07-20 06:12:56**
 
 ## Newspaper Stats
 
-*Scraped **65,569** Articles*
+*Scraped **65,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 583
 colombotelegraphcom | 669
 bbccomsinhala | 677
-islandlk | 4,002
 economynextcom | 4,015
+islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,291
 adaderanalk | 8,008
-tamilmirrorlk | 9,393
+tamilmirrorlk | 9,394
 virakesarilk | 10,918
 adaderanasinhalalk | 11,269
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 11,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,569 articles have been extended.
+61,973 (94.5%) of 65,585 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-20 (Sunday)
+
+### உக்ரைனில் குற்றங்கள் அதிகரிப்பு: ஐ.நா. தகவல்
+
+*2025-07-20 05:27:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைனில்-குற்றங்கள்-அதிகரிப்பு-ஐ-நா-தகவல்/50-361373) · `ta`
+
+உக்ரைனில் மூன்றரை ஆண்டுகளாக நடந்து வரும் போர் காரணமாக உள்நாட்டில் போதைப் பொருள் கடத்தல், ஆயுதங்கள் கடத்தல், மனிதர்களை கடத்துதல், பொருளாதார குற்றங்கள் உள்ளிட்ட குற்றச் சம்பவங்கள் அதிகரித்துள்ளன என ஐ.நா. தெரிவித்துள்ளது.
+
+ரஷ்யா தொடுத்த போர் தொடங்கி மூன்றரை ஆண்டுகள் ஆகி உள்ள நிலையில், உக்ரைனில் நிகழும் குற்றங்களில் ஏற்பட்டுள்ள மாற்றங்கள் தொடர்பாக ஐ.நா போதைப்பொருள் மற்றும் குற்றப்பதிவு அலுவலகம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது. போதைப் பொருள் கடத்தல் மற்றும் உற்பத்தி, ஆன்லைன் மோசடிகள், ஆயுதக் கடத்தல், பொருளாதாரக் குற்றங்கள், ஆட்கடத்தல், சட்டவிரோத வெளியேற்றம் ஆகிய 6 அம்சங்களில் ஏற்பட்டுள்ள மாற்றங்கள் தொடர்பாக ஆய்வு மேற்கொண்டு ஐ.நா இந்த அறிக்கையை வெளியிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e6e36139.json)
+
+---
 
 ### 2025-07-19 (Saturday)
 
@@ -442,6 +458,46 @@ He said the rubber exports fetched USD 300 million annually from the US market.
 
 ---
 
+### Network In Action makes its Lankan debut
+
+*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/network-in-action-makes-its-lankan-debut/) · `en`
+
+The global business networking platform, Network In Action (NIA), officially launched its Sri Lanka chapter at an exclusive event held at Cinnamon Grand, Colombo. The invite-only evening brought together a selected group of entrepreneurs, professionals, and business leaders from across industries. Hosted by NIA’s Sri Lanka Regional Partners, Jayathas Kamalanathan and Pamatheesan Kopalapillai, the launch offered a firsthand experience of how NIA operates and what sets its networking model apart from conventional approaches. The event kicked off at 6 p.m. on 9 July, and featured a keynote presentation from the leadership team, followed by a live demonstration of an NIA-style group session.
+
+...
+
+[Data](articles/0e4521dc.json)
+
+---
+
+### ComBank pomotes digital literacy at Jubilee Exhibition in Kalmunai
+
+*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/combank-pomotes-digital-literacy-at-jubilee-exhibition-in-kalmunai/) · `en`
+
+The Digital Banking Division of Commercial Bank of Ceylon recently participated in the 125th Jubilee Educational Exhibition of Carmel Fatima College, Kalmunai, at the invitation of the Central Bank of Sri Lanka, the Bank’s Eastern Regional Office and Kalmunai Branch. The Bank used the opportunity to demonstrate its commitment to advancing digital awareness and financial literacy in the region.
+
+Drawing over 21,000 registered participants from more than 80 schools, the event served as a vital platform to showcase Commercial Bank’s cutting-edge digital banking solutions. The ComBank Mini Digi Zone set up at the event offered interactive demonstrations of ‘ComBank Digital’ and the Bank’s ‘Dotcom’ Savings Account, engaging students, teachers and the broader community in hands-on experiences that highlighted the power and convenience of digital banking.
+
+...
+
+[Data](articles/2d5cb7b7.json)
+
+---
+
+### HNB Assurance celebrates its people at 2025 staff conference
+
+*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-its-people-at-2025-staff-conference/) · `en`
+
+In a year that marked new milestones and continued momentum, HNB Assurance brought together its team from around the island, for the 2025 Staff Conference, an evening dedicated to celebrating its people and the values that fuel the company’s remarkable rise. With over 850 team members in attendance, the event was graced by Chairman Stuart Chapman as the Chief Guest, alongside members of the Board of Directors, making it a truly memorable gathering.
+
+Held under the theme of “United, Bold, Victorious” the event wasn’t just a look back at accomplishments, it was a celebration of the individuals behind them. From honoring years of loyal service to applauding those pushing boundaries across teams and disciplines, the night was a powerful reminder of why HNB Assurance continues to thrive.
+
+...
+
+[Data](articles/473dfbc8.json)
+
+---
+
 ### சீட் எட்ஜ் திரில்லராக தயாராகி இருக்கும் உதயாவின் 'அக்யூஸ்ட்'
 
 *2025-07-19 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220404) · `ta`
@@ -473,6 +529,56 @@ He said the rubber exports fetched USD 300 million annually from the US market.
 ...
 
 [Data](articles/025f5924.json)
+
+---
+
+### Baurs Healthcare marks 80 years of medical excellence and innovation in Lanka
+
+*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/baurs-healthcare-marks-80-years-of-medical-excellence-and-innovation-in-lanka/) · `en`
+
+Baurs Healthcare, the healthcare division of A. Baur & Co. (Pvt) Ltd., widely known as Baurs, a leading conglomerate with diversified business interests in Sri Lanka and a pioneer and innovator in various industry verticals, proudly celebrates its 80th anniversary this year, coinciding with the 128th anniversary of its parent company.
+
+Since its establishment in 1945, Baurs Healthcare has been dedicated to raising the standard of healthcare in Sri Lanka by ensuring access to world-class medicines, medical technologies, diagnostics, surgical equipment, and medical nutrition. The division’s continued commitment to precision, ethics, and Swiss-quality values has laid the foundation for nearly eight decades of excellence. Going beyond, the company’s dedication to the holistic wellbeing of communities aligns business success with societal impact.
+
+...
+
+[Data](articles/b00e9836.json)
+
+---
+
+### Ceylinco Life hosts policyholder families to five days in sensational Shanghai
+
+*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/ceylinco-life-hosts-policyholder-families-to-five-days-in-sensational-shanghai/) · `en`
+
+A holiday in Shanghai, one of China’s biggest and most vibrant cities, was the latest reward provided by Ceylinco Life to a group of policyholders under the 18th edition of the company’s Family Savari mega promotion.
+
+The group of 20, made up of five Ceylinco Life policyholders and their family members, spent four nights and five days in Shanghai, and was treated to a full day at Disneyland, in addition to a ride on the Maglev train, the fastest train in the world, visits to Yu Garden, the Jade Temple, Shanghai Tower, a cruise on the Huangpu river, a visit to Zhujiajiao Water Town with a boat cruise, and an acrobatic show.
+
+The group was accompanied by the Family Savari Brand Ambassadors – the popular actor Roshan Ranawana, his wife Kushlani and their son Mineth on this holiday in Shanghai. Ceylinco Life paid for all air tickets, accommodation, meals, land transport and excursions.
+
+...
+
+[Data](articles/c33ed128.json)
+
+---
+
+### Grand Kandyan wins big at ‘Culinary Art Competition 2025’
+
+*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/grand-kandyan-wins-big-at-culinary-art-competition-2025/) · `en`
+
+The Grand Kandyan Hotel made an impressive mark at the ‘Culinary Art Competition 2025’, organised by the Chef Guild of Lanka and held at the BMICH from 13 to 15 June. The hotel’s talented culinary team brought home a total of 34 medals—including a mix of Gold, Silver, and Bronze—showcasing their exceptional skills and creativity. Among the top accolades were the ‘Most Outstanding Gold Medal for CBL Apprentice Dessert’ and the title of ‘Most Outstanding Culinary Team – Kandy Region 2025’.
+
+“These achievements reaffirm Grand Kandyan’s reputation for culinary excellence and innovation in the hospitality industry,” said Thusith Samaraweera, General Manager of the hotel.
+
+Ceylinco Life hosts policyholder families to five days in sensational Shanghai
+
+India’s ban on Jane Street raises concerns over regulator role
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/c74fb8fb.json)
 
 ---
 
@@ -544,6 +650,36 @@ In the course of the confrontation, the excise officer reportedly managed to sei
 
 ---
 
+### India’s ban on Jane Street raises concerns over regulator role
+
+*2025-07-19 15:25:00* · [`islandlk`](http://island.lk/indias-ban-on-jane-street-raises-concerns-over-regulator-role/) · `en`
+
+Indian tax authorities and market regulator are considering widening their probe of United States trading giant Jane Street Group to investigate it for tax evasion in addition to an earlier charge of price rigging in the Bombay Stock Exchange’s benchmark Sensex, according to media reports.
+
+The tax evasion charge comes on the heels of market regulator, the Securities and Exchange Board of India (SEBI), seizing 48.43 billion rupees ($570m) and banning four Jane Street-related entities from operating in the market for alleged price manipulation in the National Stock Exchange (NSE).
+
+SEBI’s order has roiled the Indian markets, raising questions about regulator surveillance and investor protection in the world’s largest options trading market. Trading in India’s weekly equity index options has slumped by a third on the ban on Jane Street, the Reuters news agency reported on Thursday.
+
+...
+
+[Data](articles/74103da5.json)
+
+---
+
+### International Humanitarian Law and the “Norms” of War
+
+*2025-07-19 15:18:00* · [`islandlk`](http://island.lk/international-humanitarian-law-and-the-norms-of-war/) · `en`
+
+The International Committee of the Red Cross, the ICRC, was founded in Geneva, Switzerland in 1863. The organization is now more than 162 years old. A three-time Nobel Peace Prize Laureate – in 1917, 1944, 1963 – it operates in over 100 countries. It is not just a neutral umpire during times of war; it is a nightwatchman, its history more or less synonymous with that of international humanitarian law, or IHL.
+
+The Global Initiative to galvanize political commitment to international humanitarian law, the ICRC’s latest endeavor, saw the light of day in Colombo two weeks ago. On Wednesday, July 9, the ICRC, led by outgoing head Séverine Chappaz, held a briefing and panel discussion on the way forward. Organized under the auspices of the Bandaranaike International Diplomatic Training Institute (BIDTI), the two-hour session, at the BMICH, saw an exchange of views between diplomats, State officials, and civil society.
+
+...
+
+[Data](articles/187bd23f.json)
+
+---
+
 ### දේශබන්දු ගැන හොයන පරීක්ෂණ කමිටුවේ වාර්තාව එළැඹෙන සතියේ කථානායකට
 
 *2025-07-19 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212413) · `si`
@@ -592,6 +728,34 @@ In the course of the confrontation, the excise officer reportedly managed to sei
 
 ---
 
+### Girls’ High School, Kandy Mem’ry will picture …
+
+*2025-07-19 14:57:00* · [`islandlk`](http://island.lk/girls-high-school-kandy-memry-will-picture/) · `en`
+
+A gathering of over 75 years women; happy hellos, fellowship and high tea. All this and more at a party on Saturday 12 July late afternoon to evening, to bring together and felicitate the older members of the Girls’ High School OGA (Colombo branch). The excellent organisers were the young, very capable present committee of Old Girls.
+
+The School Song was lustily sung at the start of the happy afternoon and again later when a distinguished professional – once Dean of a Faculty of the Colombo University and actimg VC – proposed we sing the all-time favourite, our school song “Follow On”. And so again:
+
+Memory certainly crowded the mind with delightful incidents of the happiest time of our lives, notwithstanding it was not forty years but even eighty for some as ‘Visions of girlhood’ floated before us as we recalled “Going once more through our work and our fun
+
+...
+
+[Data](articles/5e1900f3.json)
+
+---
+
+### Attempt to catch some thieves
+
+*2025-07-19 14:55:00* · [`islandlk`](http://island.lk/attempt-to-catch-some-thieves/) · `en`
+
+Formal talks began at 10 a.m. on the 21st. Before their commencement there was an exchange of gifts. These normally are not particularly valuable. They are tokens. By and large from our side, it was a silver moonstone tray. We didn’t have any major problems with the Chinese and the talks proceeded smoothly and with a degree of informality and good humour. By 11.15 a.m. we had finished. The fact that the Head of the Chinese delegation understood and spoke some English also helped to expedite matters. At 6.30 p.m. a banquet was given in honour of the Deputy Minister by the Chinese Vice Minister. As was customary, this was an elaborate affair. We lost count of the number of courses.
+
+...
+
+[Data](articles/a7fa02fe.json)
+
+---
+
 ### කෙතරම් බාධක පැමිණියත් වැව් රක්ෂිතවල අනවසර ඉදිකිරීම් ඉවත් කරනවා - ඇමති ලාල්කාන්ත
 
 *2025-07-19 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212411) · `si`
@@ -609,6 +773,22 @@ In the course of the confrontation, the excise officer reportedly managed to sei
 ...
 
 [Data](articles/01a45856.json)
+
+---
+
+### A Landmark Ruling for the Buddhist world: Supreme Court of Sri Lanka Recognises Bhikkhuni Identity
+
+*2025-07-19 14:52:00* · [`islandlk`](http://island.lk/a-landmark-ruling-for-the-buddhist-world-supreme-court-of-sri-lanka-recognises-bhikkhuni-identity/) · `en`
+
+In an era when constitutional justice is often contested in the glare of the media, one of the most significant rulings in Sri Lanka’s legal and religious history, was delivered almost unnoticed — yet its implications could echo globally.
+
+On 16 June 2025, the Supreme Court of Sri Lanka delivered a majority ruling in SC/FR/218/2013, affirming the fundamental rights of a Buddhist nun to be identified as “Bhikkhuni” on her National Identity Card (NIC), thereby recognizing the de facto existence of the Bhikkhuni Sangha in Sri Lanka.
+
+The case had quietly journeyed through the judicial corridors since it was first filed on 31 May 2013, argued before the bench on 24 October 2024, and culminated in a judgment that both restores dignity and acknowledges history. No protest marches, no press conferences, no talk-show panels. And yet, in its silence, the judgment affirms something extraordinary: the legal, historical, and constitutional validity of the Bhikkhuni Sangha in modern Sri Lanka.
+
+...
+
+[Data](articles/df2ef6d4.json)
 
 ---
 
@@ -770,6 +950,34 @@ Naval and fishing communities are strongly advised not to venture into the sea a
 
 ---
 
+### “Every Mountain Has Its Own Story”
+
+*2025-07-19 12:59:00* · [`islandlk`](http://island.lk/every-mountain-has-its-own-story/) · `en`
+
+In the quiet early hours of July 8th, the arrivals terminal of the Bandaranaike International Airport was filled with something far greater than applause or fanfare—it was filled with emotion. Flags fluttered, voices called out, and arms opened wide in a heartfelt welcome. Sri Lanka’s own Johann Peries—the first Sri Lankan to climb all Seven Summits—had returned home. But for Johann, it wasn’t about glory or recognition.
+
+Speaking to The Sunday, he said:”So actually getting back to Sri Lanka, going back home was the most important thing for me,” he said, voice steady but heartfelt. “After being away for one month and under those conditions, being alone… getting back to your own home country was really emotional for me, especially after taking on a task like this.”
+
+...
+
+[Data](articles/4c75f56f.json)
+
+---
+
+### NU AT THE London School of Economics
+
+*2025-07-19 12:57:00* · [`islandlk`](http://island.lk/nu-at-the-london-school-of-economics/) · `en`
+
+[The London School of Economics] seems to prefer intense, committed, often workaholic scholars and public figures.
+
+NU’s next big break came in 1938, when aged 30, he received a scholarship and leave to pursue postgraduate studies at the London School of Economics (LSE) as an internal student. The government was in the early stages of setting up a new Commerce and Industry Department, and NU’s superiors had selected him to undertake the special one-year course of training in Business Administration offered by the LSE, to make NU’s services “more useful to the department.” He was expected to: “make a closer acquaintance with modern business methods and to acquire training in practical commerce”(N.U. Jayawardena Personal Files).
+
+...
+
+[Data](articles/b5332030.json)
+
+---
+
 ### இஸ்ரேலில் இலங்கையர்களை ஏற்றிச் சென்ற பேருந்து தீப்பிடித்து எரிந்தது
 
 *2025-07-19 12:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்களை-ஏற்றிச்-சென்ற-பேருந்து-தீப்பிடித்து-எரிந்தது/175-361355) · `ta`
@@ -807,6 +1015,20 @@ Two individuals have been arrested in connection with the incident and are sched
 ◼️
 
 [Data](articles/d37c6fe0.json)
+
+---
+
+### Trump will take action against Putin if a ceasefire is not reached in 50 days
+
+*2025-07-19 12:47:00* · [`islandlk`](http://island.lk/trump-will-take-action-against-putin-if-a-ceasefire-is-not-reached-in-50-days/) · `en`
+
+On July 14, Donald Trump had a televised meeting at the Oval Office with Mark Rutte, Secretary General of NATO, to discuss the tremendous progress made at the NATO Summit last month, to expedite a ceasefire in the conflict between Russia and Ukraine. Ukrainian President Zelensky was in attendance at the Summit, while Russian President made his presence felt by raining bombs on Ukraine for the duration of the summit. Which made President Trump most disappointed with his old friend and mentor.
+
+“This war was not Trump’s war”, stated President Trump. “It was Biden’s war; if I had been president, this war would not have even started. This was started by Biden and other people”. He didn’t mention the name of the man who actually initiated the invasion except express his “disappointment”, consoling himself with the words, “we’ll talk about that on a different day”.
+
+...
+
+[Data](articles/4e46ed58.json)
 
 ---
 
@@ -1605,253 +1827,5 @@ Transparency should be a fundamental principle of any governing body. During the
 ◼️
 
 [Data](articles/3181a244.json)
-
----
-
-### முச்சக்கரவண்டி மற்றும் கார் மோதி விபத்து: உயிரிழப்பு
-
-*2025-07-19 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220358) · `ta`
-
-கொழும்பில் முச்சக்கரவண்டி மற்றும் கார் ஒன்றுக்கிடையில் ஏற்பட்ட விபத்தில் பெண் ஒருவர் உயிரிழந்துள்ளார்.
-
-விபத்தில் உயிரிழந்தவர், புலத்சிங்கள மில்லகந்த பிரதேசத்தைச் சேர்ந்த 38 வயதுடைய பிரியதர்ஷினி என்ற பெண் என அடையாளம் காணப்பட்டுள்ளார்.
-
-உயிரிழந்தவர் பிரியதர்ஷினியின் உடல் தற்போது அவரது மில்லகந்த இல்லத்தில் பொதுமக்கள் அஞ்சலிக்காக வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/a5bbe476.json)
-
----
-
-### முன்னாள் அமைச்சர் சாந்தனிக்கு எதிரான வழக்கின் தீர்ப்பு
-
-*2025-07-19 01:00:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-சாந்தனிக்கு-எதிரான-வழக்கின்-தீர்ப்பு/175-361347) · `ta`
-
-முறையான நடைமுறையைப் பின்பற்றாமல் உலர் வலய மேம்பாட்டுத் திட்டத்தின் பணிப்பாளர் நாயகம் பதவிக்கு ஒருவரை நியமித்ததன் மூலமும், அமைச்சின் செயலாளரை தனது நண்பர்களை அதன் திட்டங்களுக்கு சட்டவிரோதமாக நியமிக்கத் தூண்டியதன் மூலமும் தண்டனைக்குரிய குற்றங்களைச் செய்ததாகக் கூறி, முன்னாள் மகளிர் மற்றும் குழந்தைகள் விவகார அமைச்சரும், உலர் வலய மேம்பாட்டு அமைச்சருமான சாந்தனி பண்டாரவுக்கு எதிராக லஞ்ச ஒழிப்பு ஆணையம் தாக்கல் செய்த வழக்கை வரும் 28 ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு மேல் நீதிமன்ற நீதிபதி சஹான் மாபா பண்டார நேற்று (18) உத்தரவிட்டார்.
-
-ஆறு ஆண்டுகளுக்கு முன்பு, அதாவது 2019 ஆம் ஆண்டு, முன்னாள் பெண்கள் மற்றும் குழந்தைகள் விவகார அமைச்சராகவும், உலர் மண்டல மேம்பாட்டு அமைச்சராகவும் பணியாற்றியபோது, லஞ்ச ஒழிப்புச் சட்டத்தின் 70வது பிரிவின் கீழ் 'ஊழல்' குற்றத்தைச் செய்ததாகக் கூறி, 11 குற்றச்சாட்டுகளின் கீழ் பிரதிவாதி அமைச்சருக்கு எதிராக லஞ்ச ஒழிப்பு ஆணையத்தால் தாக்கல் செய்யப்பட்ட வழக்கின் விசாரணையின் போது முன்வைக்கப்பட்ட உண்மைகளைக் கருத்தில் கொண்டு நீதிபதி இந்த உத்தரவை பிறப்பித்தார்
-
-...
-
-[Data](articles/c74b1277.json)
-
----
-
-### President affirms commitment to religious and national progress
-
-*2025-07-19 00:57:25* · [`dailyftlk`](https://www.ft.lk/news/President-affirms-commitment-to-religious-and-national-progress/56-779202) · `en`
-
-Pledges to take necessary action for advancement of national, religious and social development
-
-President Anura Kumara Disanayake on Thursday pledged firm action in advancing national, religious and social development, whilst emphasising the importance of guidance from the Maha Sangha in governance.
-
-He made these remarks during a discussion held at the President’s House in Kandy with the Anunayake Theros of the Malwathu and Asgiri Chapters and other senior members of the Karaka Maha Sangha Sabha.
-
-The discussion focused on pressing religious and national matters, including the need to amend outdated laws such as the Budhhist Temporalities Ordinance and address issues in monastic education, the President’s Media Division noted in a statement.
-
-Disanayake assured that he will never hesitate to take necessary action for the advancement of national, religious and social development.
-
-...
-
-[Data](articles/b02446b3.json)
-
----
-
-### Court rejects Rajitha’s anticipatory bail application
-
-*2025-07-19 00:55:59* · [`dailyftlk`](https://www.ft.lk/news/Court-rejects-Rajitha-s-anticipatory-bail-application/56-779201) · `en`
-
-Colombo Chief Magistrate Thanuja Lakmali Jayatunga yesterday rejected the anticipatory bail application filed by former Minister Rajitha Senaratne.
-
-On 14 July, Senaratne’s Attorney’s filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release in anticipation of a possible arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The officials of the Bribery Commission had previously informed the Court that the former Minister is expected to be taken into custody in connection with the alleged financial loss of Rs. 26.2 million to the Government, said to have resulted from awarding a sand excavation project at the Kirinda Fisheries Harbour to a Korean company.
-
-This had been stated by officials of the Bribery Commission when the former Ceylon Fisheries Harbour Corporation (CFHC) Chairman Upali Liyanage, who was arrested on corruption charges, was produced before the Court on 27 June.
-
-◼️
-
-[Data](articles/27317d65.json)
-
----
-
-### Ex-Minister Chandrasena further remanded till 1 August
-
-*2025-07-19 00:54:39* · [`dailyftlk`](https://www.ft.lk/news/Ex-Minister-Chandrasena-further-remanded-till-1-August/56-779200) · `en`
-
-The Colombo Magistrate’s Court yesterday ordered to further remand former Minister S. M. Chandrasena till 1 August, over allegations of misusing State resources during the 2015 Presidential Election.
-
-On 4 July, Chandrasena was arrested after having recorded a statement with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-In a statement issued previously, the Bribery Commission noted that the former Minister is accused of having distributed maize seeds that had been imported in 2014 at a cost of Rs. 25 million to be provided at a concessional price to poor and needy farmers in the Anuradhapura District.
-
-Chandrasena is also accused of having intimidated officials at the Anuradhapura District Secretariat, including its Planning Director, to distribute the maize seeds to his political associates.
-
-◼️
-
-[Data](articles/0e91d80d.json)
-
----
-
-### யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்ட சபாநாயகர்
-
-*2025-07-19 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220357) · `ta`
-
-யாழ்ப்பாணத்திற்கு வெள்ளிக்கிழமை (19) விஜயம் செய்த சபாநாயகர் வைத்தியர் ஜகத் விக்ரமரத்ன யாழ் . பொதுசன நூலகம் மற்றும் கோட்டை பகுதிகளை பார்வையிட்டார்.
-
-அதனை தொடர்ந்து நல்லூர் கந்தசுவாமி ஆலயத்திற்கு சென்று வழிபாடுகளில் ஈடுபட்டார். அதன் போது யாழ் . மாவட்ட நாடாளுமன்ற உறுப்பினர் ஸ்ரீபவானந்தராசாவும் உடனிருந்தார்.
-
-◼️
-
-[Data](articles/8641ce2b.json)
-
----
-
-### No kite-flying near airports: AASL
-
-*2025-07-19 00:52:59* · [`dailyftlk`](https://www.ft.lk/news/No-kite-flying-near-airports-AASL/56-779199) · `en`
-
-The Airport and Aviation Services Sri Lanka Private Ltd., (AASL) has issued a warning against flying kites in close proximity to international airports in the country.
-
-Issuing a special notice, the AASL warned that flying kites or any airborne objects over a height of 300 feet, within a radius of 5 km from any international airport, is strictly prohibited.
-
-The AASL further said that flying kites in such close proximity to international airports is considered a punishable offence.
-
-The warning has been issued highlighting the hindrance to flight operations and the threat to flights and passengers.
-
-◼️
-
-[Data](articles/cb058fc7.json)
-
----
-
-### Sri Lankan SMEs showcase at 20th China International Small and Medium Enterprise Fair in Guangzhou
-
-*2025-07-19 00:50:03* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-SMEs-showcase-at-20th-China-International-Small-and-Medium-Enterprise-Fair-in-Guangzhou/34-779198) · `en`
-
-A delegation of 42 Sri Lankan small and medium-sized enterprises (SMEs) made a strong impact at the 19th China International Small and Medium Enterprises Fair (CISMEF), held from 27 to 30 June, at the China Import & Export Fair Complex in Pazhou, Guangzhou. Organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Industrial Development Board (IDB) and with the active facilitation of the Consulate General of Sri Lanka in Guangzhou, the delegation represented key product sectors, including food and beverages, gem and jewellery, coconut-based products, lifestyle goods, spices, and garments etc.
-
-CISMEF 2025 proved to be a robust platform for SMEs, enabling them to connect with international buyers and potential business partners within mainland China and beyond. This marked the 10th consecutive year of Sri Lanka’s participation, demonstrating a consistent commitment to fostering SME growth through international trade exposure.
-
-...
-
-[Data](articles/6c46f701.json)
-
----
-
-### Melwa introduces latest product, SLS 414 certified first welding rod in Sri Lanka
-
-*2025-07-19 00:49:04* · [`dailyftlk`](https://www.ft.lk/business/Melwa-introduces-latest-product-SLS-414-certified-first-welding-rod-in-Sri-Lanka/34-779197) · `en`
-
-Melwa, the leading steel manufacturer in Sri Lanka, recently introduced its latest product—Melwa Welding Rods—to the market. Produced by Melwa, a local company that has played a significant role in the development of the country’s construction sector, these welding rods are of high quality. Notably, they are 100% locally manufactured and come with SLS 414 certifications. This marks the first time a welding rod that is entirely locally produced has been introduced to the Sri Lankan market. Melwa is confident that these new welding rods will become the top choice among welders, particularly for welding wire and galvanised sheets, offering strong performance, long durability, and excellent smoothness. These rods are expected to provide strong support for welders to carry out their work more safely and efficiently. Manufactured using high-quality raw materials and in compliance with international standards, this new product ensures a perfect weld finish.
-
-...
-
-[Data](articles/a74e9306.json)
-
----
-
-### CSF Summer Fair successfully inaugurated with massive deals
-
-*2025-07-19 00:47:46* · [`dailyftlk`](https://www.ft.lk/business/CSF-Summer-Fair-successfully-inaugurated-with-massive-deals/34-779196) · `en`
-
-The Colombo Shopping Festival – Summer Fair 2025 was successfully inaugurated on 18 July, at the Sirimavo Bandaranaike Memorial Exhibition Centre (BMICH), marking the grand beginning of Colombo’s ultimate shopping destination this season.
-
-The opening ceremony was ceremonially declared by Aitken Spence Travels Ltd., Managing Director Nalin Jayasundera in the esteemed presence of BMICH Director General Manuja Kariyapperuma and Sri Lanka Ayurvedic Drugs Corporation Chairman Geethamani C. Karunarathna.
-
-Organised by Aitken Spence Conventions & Exhibitions, this three-day mega shopping event runs from 18 to 20 July, welcoming thousands of enthusiastic shoppers daily from 10 a.m. to 9 p.m.
-
-The fair has already attracted a significant footfall on its opening day, thanks to its unmatched value and vibrant atmosphere. Shoppers have been enjoying massive discounts, exclusive ‘Happy Hour’ offers, and daily raffle draws with exciting prizes—creating a buzz throughout Colombo.
-
-...
-
-[Data](articles/411eb768.json)
-
----
-
-### Summer sorted: Dubai delivers, Emirates elevates
-
-*2025-07-19 00:45:30* · [`dailyftlk`](https://www.ft.lk/business/Summer-sorted-Dubai-delivers-Emirates-elevates/34-779195) · `en`
-
-Exclusive perks and world-class infrastructure keep travellers cool in the city built for the season
-
-Dubai, UAE: As summer temperatures rise, Emirates has invited travellers to reimagine their plans with Dubai - a city purpose-built for comfort, discovery, and world-class experiences all year round.
-
-With exclusive benefits for Emirates passengers and seamless connections through the airline’s extensive global network, Dubai is not only a rewarding summer destination, but also an ideal stopover for travellers.
-
-Dubai is one of the few global cities engineered for year-round travel. With wide-scale air-conditioning, temperature-controlled pools, and an abundance of indoor entertainment, visitors can explore, unwind, and spend time comfortably - even during peak summer. From indoor theme parks and immersive museums to shopping festivals, live events, and family-friendly experiences, Dubai offers more than just a place to stay – it’s a city that thrives in every season.
-
-...
-
-[Data](articles/7cc5979a.json)
-
----
-
-### 2025-07-18 (Friday)
-
-### இலங்கையில் பாடசாலை மாணவிகளிடையே அதிகரிக்கும் கர்ப்பம்
-
-*2025-07-18 23:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பாடசாலை-மாணவிகளிடையே-அதிகரிக்கும்-கர்ப்பம்/175-361345) · `ta`
-
-சமீப காலமாக பாடசாலை மாணவிகளிடையே கர்ப்பம் தரிப்பது அதிகரித்து வருவதாக மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்துள்ளார்.
-
-இதற்கு தீர்வாக, கல்வி அமைச்சுடன் இணைந்து, இளம் பருவப் பெண்கள் மற்றும் பாடசாலை மாணவர்களுக்கு பாலியல் கல்வி மற்றும் விழிப்புணர்வு குறித்த சிறந்த புரிதலை வழங்குவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக அமைச்சர் குறிப்பிட்டார்.
-
-18 வயதுக்குட்பட்ட மாணவிகளின் கர்ப்பங்கள், அவர்களைப் பாதிக்கப்பட்டவர்களாக மாற்றுவதுடன், பல்வேறு சிக்கல்களை உருவாக்குகின்றன. இதனால், பெற்றோரின் கவனிப்பு இல்லாமல், எதிர்காலத்தில் சமூகத்தில் கைவிடப்பட்ட அல்லது அனாதையாக்கப்பட்ட குழந்தைகளின் பிறப்பு ஏற்படுகிறது.
-
-அனாதையாகவோ அல்லது கைவிடப்பட்டவர்களாகவோ சமூகத்தில் விடப்படும் குழந்தைகள், சமூக களங்கத்தையும், பாவத்தையும், சாபத்தையும் சுமக்க நேரிடுகிறது. எனவே, உறவு வைத்திருக்கலாம், ஆனால் பொறுப்பான குடும்ப உறவு இல்லாமல் குழந்தை பெறுவது சாத்தியமில்லை என்றால், கர்ப்பத்தைத் தடுக்க அறிவியல் முறைகளைப் பின்பற்ற வேண்டும்.
-
-...
-
-[Data](articles/6a23502a.json)
-
----
-
-### Apology accepted, second visit against consensus view
-
-*2025-07-18 23:44:25* · [`dailyftlk`](https://www.ft.lk/opinion/Apology-accepted-second-visit-against-consensus-view/14-779186) · `en`
-
-Ranil Wickremesinghe during recent interview with Al Jazeera journalist Mehdi Hasan
-
-In a previous opinion piece (https://www.ft.lk/opinion/Against-the-consensus-view/14-723203) I wrote, “Wickremesinghe being a member of the government in the 1980s is unlikely to admit at best his Government’s blatant cowardice and at worst obvious complicity in the incidents that took place. In politics, you have to be pragmatic. The Tamil polity should build ties not with the policies but with the people of the JVP and form a united movement against the executive presidency.”
-
-This piece was dated 18 September 2021 appearing in print of the Daily FT. The reason print is so valuable is that people are more considered with their words than if they were just speaking.
-
-I will contend that Ranil Wickremesinghe basically did just this in his recent Al Jazeera interview. Over time as larger segments of the video get released he has even been able to turn this into a net positive in terms of votes.
-
-...
-
-[Data](articles/441b1995.json)
-
----
-
-### Elusive definition: Terrorism without terror?
-
-*2025-07-18 23:17:01* · [`dailyftlk`](https://www.ft.lk/columns/Elusive-definition-Terrorism-without-terror/4-779178) · `en`
-
-Overbroad definitions of terrorism allow the State to harass individuals, especially critics of the government and civil society activists, and detain them for lengthy periods, thereby suppressing and discouraging criticism
-
-The dangers of an overly broad definition go beyond conviction and increased punishment. Special laws on terrorism allow deviations from standard laws in areas such as preventive detention, arrest, administrative detention, restrictions on judicial decisions regarding bail, lengthy pre-trial detention, the use of confessions, superadded punishments such as confiscation of property and cancellation of professional licences, banning organisations, and restrictions on publications, among others
-
-...
-
-[Data](articles/e4f04cb4.json)
-
----
-
-### இறப்பதற்கு முன்... முதலிரவுக் கட்டிலில் அழுகையுடன் எம்.ஜி.ஆர்
-
-*2025-07-18 23:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இறப்பதற்கு-முன்-முதலிரவுக்-கட்டிலில்-அழுகையுடன்-எம்-ஜி-ஆர்/54-361344) · `ta`
-
-தமிழ் சினிமாவிலும், அரசியலிலும் தனக்கென தனி இடத்தை பிடித்து இன்றும் மக்கள் மனதில் வாழ்ந்துகொண்டிருக்கும் மக்கள் திலகம் எம்.ஜி.ஆர் தான் இறப்பதற்கு முன்பு, விசிட் அடித்த இடங்கள் என்னென்ன என்பது குறித்து மறைந்த நடிகர் ராஜேஷ் ஒரு பேட்டியில் கூறியுள்ளார்.
-
-நாடக நடிகராக இருந்து தமிழ் சினிமாவில் துணை நடிகராக அறிமுகமானவர் எம்.ஜி.ஆர். தொடர்ந்து பல படங்களில் துணை நடிகர், 2-வது நாயகனாக நடித்திருந்த எம்.ஜி.ஆர் 10 வருட போராடத்திற்கு பிறகு சினிமாவில் நாயகனாக உயர்ந்தார்.
-
-அதன்பிறகு ஒரு முன்னணி நடிகராக திரையுலகில் வலம் வந்த எம்.ஜி.ஆர் பல வெற்றிப்படங்களை கொடுத்தார். இயக்குனர் தயாரிப்பாளர் என பல அவதாரங்களையும் எடுத்து வெற்றி கண்டவர் எம்.ஜி.ஆர்.
-
-...
-
-[Data](articles/2509d42b.json)
 
 ---

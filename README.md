@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 12:47:34**
+As of **2025-07-20 13:05:22**
 
 ## Newspaper Stats
 
-*Scraped **65,658** Articles*
+*Scraped **65,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,78 @@ dailymirrorlk | 4,733
 adalk | 6,302
 adaderanalk | 8,022
 tamilmirrorlk | 9,413
-virakesarilk | 10,929
-adaderanasinhalalk | 11,281
+virakesarilk | 10,931
+adaderanasinhalalk | 11,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,658 articles have been extended.
+61,973 (94.4%) of 65,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
 
-### சீரற்ற வானிலை :  மீனவர்கள் மூவர் மாயம், இருவர் மீட்பு; கடற்றொழிலாளர்களுக்கு அவசர எச்சரிக்கை
+### ஹொரவ்பொத்தானையில் முச்சக்கர வண்டி விபத்து - இருவருக்கு காயம்
 
-*2025-07-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220450) · `ta`
+*2025-07-20 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/220452) · `ta`
+
+திருகோணமலை -ஹொரவ்பொத்தானை பிரதான வீதியில் மிரிஸ்வெவ பகுதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணத்திலிருந்து திருகோணமலை நோக்கி முச்சக்கர வண்டியில் பயணித்த சாரதி உட்பட   தாய் மற்றும் இரண்டு  பிள்ளைகள்  பயணித்துள்ள நிலையில், முச்சக்கர வண்டி வீதியை விட்டு விலகி மின்கம்பத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் இதன் போது இருவருக்கு காயம் ஏற்பட்டுள்ளதாகவும் தெரிய வந்துள்ளது.
+
+பலத்த காயமடைந்த இருவரும் மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு  மேலதிக சிகிச்சைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரியவந்துள்ளது.
+
+தூக்க கலக்கமே விபத்துக்கான காரணம் எனவும், விபத்து தொடர்பிலான விசாரணைகளை மேற்கொண்டு வருவதாகவும் மொரவெவ பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f8073361.json)
+
+---
+
+### சம்பூர் கடற்கரையோர பகுதியில் மனித எச்சங்கள் கண்டுபிடிப்பு
+
+*2025-07-20 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220451) · `ta`
+
+திருகோணமலை, சம்பூர் கடற்கரை ஓரமாக நிலக்கீழ் கண்ணிவெடி அகழும் பணியில் ஈடுபட்டுக் கொண்டிருந்த போது மனித எச்சங்கள் வெளிவந்ததை அடுத்து குறித்த கண்ணிவெடி அகழும் பணி இடைநிறுத்தப்பட்டுள்ளதாக தெரிய வருகின்றது.
+
+கடந்த வியாழக்கிழமை (17) மூதூர் - சம்பூர் கடற்கரையோர பகுதியில் நிலக்கீழ் கண்ணிவெடி அகழும் பணி ஆரம்பிக்கப்பட்டிருந்தது.சம்பூர் சிறுவர் பூங்காவை அண்மித்துள்ள கடற்கரையோர பகுதியில் கடந்த ஒரு வாரகாலமாக எம்.ஏ.ஜி எனப்படுகின்ற கண்ணிவெடி அகழும் நிறுவனம் தங்களுக்குரிய தளபாடம் மற்றும் பொருட்களுடன் முகாமிட்டிருந்ததோடு வியாழக்கிழமை (17) கண்ணிவெடி அகழும் பணியை ஆரம்பித்திருப்பதாகவும் தெரிய வருகின்றது.
+
+இந்நிலையிலேயே இன்று ஞாயிற்றுக்கிழமை (20) குறித்த பகுதியில் மனித எச்சங்கள் கண்டுபிடிக்கப்பட்டதை அடுத்து நீதிமன்ற கட்டளையை பெறுவதற்காக குறித்த பணி நிறுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+சம்பூர் படுகொலையின் நினைவாக அமைக்கப்பட்ட தூபியை அண்மித்த பகுதியில் அகழ்வுப் பணி மேற்கொண்ட போதே மனித எமனித எச்சங்கள்   கண்டுபிடிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/0c2c1061.json)
+
+---
+
+### රජයේ තේක්ක රක්ෂිතයක ඇති වූ ගැටුමකින් පුද්ගලයෙකු මරුට
+
+*2025-07-20 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212435) · `si`
+
+සීගිරිය ප්‍රදේශයේ ඉනාමලුව රජයේ තේක්ක රක්ෂිතයේ කම්කරුවන් රැඳී සිටි  වාඩියක ඇතිවූ ගැටුමකින් එක් අයෙකු මියගොස් තවත් අ‌යෙකු බරපතළ තුවාල ලබා දඹුල්ල මූලික රෝහලට ඇතුළත් කර තිබේ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් එම වාඩියේ සිටි පුද්ගලයින් දෙදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන ඇත‍.
+
+මෙසේ මියගොස් ඇත්තේ වැඩ පාලකවරයෙකු ලෙස සේවය කළ පොල්පිතිගම මොරගොල්ලාගම ප්‍රදේශයේ පදිංචි 55  හැවිරිදි පුද්ගලයෙකි.
+
+මුදල් ආරවුලක් මත ඇති වූ බහින්බස්වීමක් දුරදිග යාම හේතුවෙන් මෙම මරණය සිදුව ඇති බව මූලික පරීක්ෂණවලදී හෙළි වී තිබේ.
+
+පොලිසිය සඳහන් කළේ මෙම පුද්ගලයින් හතර දෙනා කාලයක සිට රජයේ තේක්ක රක්ෂිතයේ ගස් කපා ඉවත් කිරීමේ කොන්ත්‍රාත් කරන අයෙකු ළඟ සේවය කරන කම්කරුවන් බවය.
+
+◼️
+
+[Data](articles/4dea4a22.json)
+
+---
+
+### சீரற்ற வானிலை :  மூவர் மாயம், இருவர் மீட்பு;  கடற்றொழிலாளர்களுக்கு அவசர எச்சரிக்கை
+
+*2025-07-20 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220450) · `ta`
 
 தற்போதைய சீரற்ற  வானிலையைக் கருத்தில் கொண்டு, கடலுக்குச் செல்வதை முற்றிலுமாகத் தவிர்க்குமாறு கடற்றொழில் மற்றும் நீரியல் வளத் திணைக்களத்தின் பணிப்பாளர் நாயகம்  சுசந்த கஹவத்த  அனைத்து கடற்றொழில் சமூகத்தினரிடமும் கேட்டுக்கொண்டுள்ளார்.
 
@@ -1723,45 +1779,5 @@ He said the rubber exports fetched USD 300 million annually from the US market.
 ...
 
 [Data](articles/2322d9ce.json)
-
----
-
-### Network In Action makes its Lankan debut
-
-*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/network-in-action-makes-its-lankan-debut/) · `en`
-
-The global business networking platform, Network In Action (NIA), officially launched its Sri Lanka chapter at an exclusive event held at Cinnamon Grand, Colombo. The invite-only evening brought together a selected group of entrepreneurs, professionals, and business leaders from across industries. Hosted by NIA’s Sri Lanka Regional Partners, Jayathas Kamalanathan and Pamatheesan Kopalapillai, the launch offered a firsthand experience of how NIA operates and what sets its networking model apart from conventional approaches. The event kicked off at 6 p.m. on 9 July, and featured a keynote presentation from the leadership team, followed by a live demonstration of an NIA-style group session.
-
-...
-
-[Data](articles/0e4521dc.json)
-
----
-
-### ComBank pomotes digital literacy at Jubilee Exhibition in Kalmunai
-
-*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/combank-pomotes-digital-literacy-at-jubilee-exhibition-in-kalmunai/) · `en`
-
-The Digital Banking Division of Commercial Bank of Ceylon recently participated in the 125th Jubilee Educational Exhibition of Carmel Fatima College, Kalmunai, at the invitation of the Central Bank of Sri Lanka, the Bank’s Eastern Regional Office and Kalmunai Branch. The Bank used the opportunity to demonstrate its commitment to advancing digital awareness and financial literacy in the region.
-
-Drawing over 21,000 registered participants from more than 80 schools, the event served as a vital platform to showcase Commercial Bank’s cutting-edge digital banking solutions. The ComBank Mini Digi Zone set up at the event offered interactive demonstrations of ‘ComBank Digital’ and the Bank’s ‘Dotcom’ Savings Account, engaging students, teachers and the broader community in hands-on experiences that highlighted the power and convenience of digital banking.
-
-...
-
-[Data](articles/2d5cb7b7.json)
-
----
-
-### HNB Assurance celebrates its people at 2025 staff conference
-
-*2025-07-19 16:49:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-its-people-at-2025-staff-conference/) · `en`
-
-In a year that marked new milestones and continued momentum, HNB Assurance brought together its team from around the island, for the 2025 Staff Conference, an evening dedicated to celebrating its people and the values that fuel the company’s remarkable rise. With over 850 team members in attendance, the event was graced by Chairman Stuart Chapman as the Chief Guest, alongside members of the Board of Directors, making it a truly memorable gathering.
-
-Held under the theme of “United, Bold, Victorious” the event wasn’t just a look back at accomplishments, it was a celebration of the individuals behind them. From honoring years of loyal service to applauding those pushing boundaries across teams and disciplines, the night was a powerful reminder of why HNB Assurance continues to thrive.
-
-...
-
-[Data](articles/473dfbc8.json)
 
 ---

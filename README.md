@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 13:30:27**
+As of **2025-07-20 13:49:28**
 
 ## Newspaper Stats
 
-*Scraped **65,665** Articles*
+*Scraped **65,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,303
-adaderanalk | 8,022
+adaderanalk | 8,023
 tamilmirrorlk | 9,414
 virakesarilk | 10,931
 adaderanasinhalalk | 11,284
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,665 articles have been extended.
+61,973 (94.4%) of 65,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4dea4a22.json)
+
+---
+
+### Syria’s leader urges Bedouin tribes to commit to a ceasefire ending clashes with the Druze
+
+*2025-07-20 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110648/syrias-leader-urges-bedouin-tribes-to-commit-to-a-ceasefire-ending-clashes-with-the-druze) · `en`
+
+Syria’s interim President Ahmad al-Sharaa urged Sunni Muslim Bedouin tribes Saturday to “fully commit” to a ceasefire aimed at ending clashes with Druze-linked militias that left hundreds dead and threatened to unravel the country’s postwar transition.
+
+Despite the call, clashes continued in the southern province of Sweida.
+
+Government forces that were initially sent to restore order but effectively sided with the Bedouins against the Druze were redeployed to halt renewed fighting that erupted Thursday in the southern province of Sweida. The violence also drew airstrikes against Syrian forces by neighboring Israel before a truce was reached.
+
+In his second televised address since the fighting started, al-Sharaa blamed “armed groups from Sweida” for reigniting the conflict by “launching retaliatory attacks against the Bedouins and their families.” He also said Israeli intervention “pushed the country into a dangerous phase.”
+
+...
+
+[Data](articles/7bcfa305.json)
 
 ---
 
@@ -1769,23 +1787,5 @@ The committee convened on more than 10 occasions and recorded evidence from seve
 ◼️
 
 [Data](articles/58d882fc.json)
-
----
-
-### පන්ති කාමරයක සිටිය යුතු සිසුන් ප්‍රමාණය ගැන තීරණයක්?
-
-*2025-07-19 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212417) · `si`
-
-පාසල් පන්ති කාමරයක සිසුන් ප්‍රමාණය 25ක්  - 30ක් බවට පත්කිරීම අරමුණක් බවත්, පන්ති කාමරයක ළමුන් 50ක් 60ක් සමඟ ගුණාත්මක අධ්‍යාපනයක් ලබා දීමට නොහැකි බවත් අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණය සම්බන්ධයෙන් දකුණු පළාතේ අධ්‍යාපන බලධාරීන් දැනුවත් කිරීම වෙනුවෙන් ගාල්ල දක්ශිණපාය ශ්‍රවණාගාරයේ අද (19) පැවති වැඩසටහනකට එක්වෙමින් අග්‍රාමාත්‍යවරිය මේ බව පවසා සිටියාය.
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් පළාත් බලධාරීන් දැනුවත් කිරීමේ සිව්වන වැඩසටහන අමතමින් අග්‍රාමාත්‍යවරිය මෙසේද කීය,
-
-"මම ප්‍රථමයෙන්  ස්තුතිවනිත වෙනවා අධ්‍යාපන ප්‍රතිසංස්කරණය වෙනුවෙන් ඔබ ලබා දෙන සහයෝගයට.  ඇත්ත වශයෙන්ම අපේ රජය බලයට පත්වෙන්න කලින් ඉඳන්ම සාකච්ඡා කළ, සැලසුම් කළ දෙයක් නව අධ්‍යාපන ප්‍රතිසංස්කරණයක් සිදු කිරීම. රජයේ  ප්‍රතිපත්ති අනුව යමින් විශේෂඥයින් සමග සාකච්ඡා කරලා, විවිධ අංශවල අදහස් ලබාගෙන මේ පිළිබඳ ප්‍රතිපත්ති සම්පාදනය කළේ.
-
-...
-
-[Data](articles/dd082b83.json)
 
 ---

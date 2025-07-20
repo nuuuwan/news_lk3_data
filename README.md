@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 03:30:21**
+As of **2025-07-21 03:47:36**
 
 ## Newspaper Stats
 
-*Scraped **65,758** Articles*
+*Scraped **65,762** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 588
-colombotelegraphcom | 671
+colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,017
 economynextcom | 4,019
-dailyftlk | 4,652
+dailyftlk | 4,654
 dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,040
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,758 articles have been extended.
+61,973 (94.2%) of 65,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### LAUGFS Supermarkets expands with 40th outlet at Ananda College
+
+*2025-07-21 03:23:40* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Supermarkets-expands-with-40th-outlet-at-Ananda-College/34-779230) · `en`
+
+LAUGFS Supermarkets, a subsidiary of LAUGFS Holdings, has announced the opening of its 40th outlet at Ananda College, Colombo. This milestone reflects LAUGFS Supermarkets’ continued commitment to delivering convenient and quality retail solutions across Sri Lanka.
+
+Strategically located adjacent to the swimming pool complex, the newly opened LAUGFS SuperMart is designed to cater to the Ananda College community as well as the surrounding neighbourhoods. The store offers a wide selection of groceries, daily essentials, and fresh products, bringing enhanced accessibility and convenience to students, staff, and residents alike.
+
+...
+
+[Data](articles/63fe516c.json)
+
+---
 
 ### Sri Lanka Business Council UAE Chairman meets CH17 Loyalty CEO
 
@@ -200,6 +214,18 @@ On Saturday it warned that extreme hunger was increasing in Gaza and growing num
 
 ---
 
+### Global Shocks & Sri Lanka’s Road To Recovery – Part II
+
+*2025-07-20 21:52:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/global-shocks-sri-lankas-road-to-recovery-part-ii/) · `en`
+
+In the previous part[1], we looked at two global shocks which have hit Sri Lanka’s march toward recovery, namely, the new tariff reforms introduced by the US administration and the Mid-East crisis which has temporarily abated but could ignite itself at any moment. The first will affect Sri Lanka’s exports to USA, its largest export destination. The second, if reignited, will cause global oil prices to skyrocket and reduce the country’s remittance flows adversely affecting its balance of payments. Both will have a negative impact on Sri Lanka’s economic growth. Hence, Sri Lanka’s policymakers cannot ignore them, and it was suggested that the country should have sufficient space to manoeuvre them successfully. We continue our discussion from that point.
+
+...
+
+[Data](articles/0242260b.json)
+
+---
+
 ### வட்டுக்கோட்டையில் மோதல் : பொலிஸார் துப்பாக்கிச் சூடு
 
 *2025-07-20 21:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட்டுக்கோட்டையில்-மோதல்-பொலிஸார்-துப்பாக்கிச்-சூடு/71-361424) · `ta`
@@ -315,6 +341,20 @@ Subsequently, the shooter abandoned the T-56 assault rifle he was carrying at th
 ...
 
 [Data](articles/5722d840.json)
+
+---
+
+### Off-Balance Sheet Obligations & Their Impact On Debt & Governance In Sri Lanka
+
+*2025-07-20 20:54:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/off-balance-sheet-obligations-their-impact-on-debt-governance-in-sri-lanka/) · `en`
+
+Sri Lanka’s public debt crisis has attracted intense attention since the country’s historic default in 2022. Academics, policymakers, and international lenders have rightly focused on (a) fiscal mismanagement, (b) revenue gaps, and (c) debt restructuring strategies. At the recent Debt & Governance Conference, a wide range of topics—from revenue generation to institutional reform—were discussed with urgency and ambition. However, a crucial and highly significant issue was noticeably absent from the main agenda: off-balance sheet obligations (OBS).
+
+These hidden liabilities—comprising state-owned enterprise (SOE) debts, government guarantees, public-private partnership (PPP) commitments, and other contingent liabilities—pose a silent but powerful threat to Sri Lanka’s fiscal future. Although they do not appear in official debt statistics, they exert significant pressure on the country’s finances and governance frameworks.
+
+...
+
+[Data](articles/a472874f.json)
 
 ---
 
@@ -1727,63 +1767,5 @@ In his second televised address since the fighting started, al-Sharaa blamed “
 ...
 
 [Data](articles/51559f46.json)
-
----
-
-### 20 ஆண்டுகள் கோமாவில் இருந்த சவுதி இளவரசர் மரணம்
-
-*2025-07-20 12:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/20-ஆண்டுகள்-கோமாவில்-இருந்த-சவுதி-இளவரசர்-மரணம்/50-361402) · `ta`
-
-சவுதி அரேபியாவின் இளவரசர் அல் வாலீத் பின் காலித் பின் தலால் அல் சவுத். சவுதி அரேபியாவை நிறுவிய மன்னர் அப்துல் அஜீசின் தலைமுறையில் வந்த கொள்ளு பேரன் ஆவார்.
-
-இவர் கடந்த 2005-ம் ஆண்டு இங்கிலாந்தின் லண்டனில் ராணுவ கல்லூரியில் படித்து வந்தபோது கார் விபத்தில் சிக்கி கோமா நிலைக்கு சென்றார். அப்போது அவருக்கு வயது 15 ஆகும். கோமா நிலையில் அவர் சவுதி அரேபியா தலைநகர் ரியாத்தில் உள்ள கிங் அப்துல்அஜிஸ் மருத்துவமனையில் பராமரிக்கப்பட்டு வந்தார்.
-
-இதனால் அவர் தூங்கும் இளவரசர் என்று அழைக்கப்பட்டார். இந்த நிலையில் 20 ஆண்டுகளாக கோமாவில் இருந்த இளவரசர் அல் சவுத் சிகிச்சை பலனின்றி உயிரிழந்தார். இதை அவரது தந்தை இளவரசர் காலித் பின் தலால் அல் சவுத் உறுதி செய்துள்ளார்.
-
-இளவரசரின் இறுதிச் சடங்குகள் ரியாத்தில் உள்ள இமாம் துர்கி பின் அப்துல்லா மசூதியில் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. இளவரசர் கோமாவில் இருந்து மீண்டு வர வாய்ப்பு குறைவு என்பதால் வென்டிலேட்டரை அகற்ற அரச குடும்பத்தினரிடம் டாக்டர்கள் தெரிவித்தனர்.
-
-...
-
-[Data](articles/a4ec21af.json)
-
----
-
-### 'இதுபடுகொலை" காசாவில் உணவுவிநியோகம் இடம்பெறும் பகுதிகளை நோக்கி சென்றுகொண்டிருந்தவர்கள் மீது இஸ்ரேல் தாக்குதல் - 35 பேர் பலி
-
-*2025-07-20 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220449) · `ta`
-
-காசாவில் உணவுவிநியோகம் இடம்பெறும் இரண்டு பகுதிகளில் காத்திருந்த மக்கள் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 38 பேர் கொல்லப்பட்டுள்ளதுடன் 100க்கும் அதிகமானவர்கள் காயமடைந்துள்ளனர்.
-
-அந்த பகுதியி;ல் படுகொலை இடம்பெற்றதாக சம்பவங்களை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளதுடன் மனிதாபிமான பொருட்கள் வழங்கப்படும் பகுதிகளை நோக்கி சென்றுகொண்டிருந்தவர்கள் மீது - அனேகமாக இளையவர்கள் மீது இஸ்ரேலிய படையினர் கண்மூடித்தனமாக துப்பாக்கி பிரயோகத்தில் ஈடுபட்டனர் என தெரிவித்துள்ளனர்.
-
-கான்யூனிசிற்கு கிழக்கே உள்ள உணவு விநியோக மையங்களில் இருந்து இரண்டு கிலோமீற்றர் தொலைவில் உள்ள டெய்னாவில் கொல்லப்பட்டவர்களில் அதிகளவானவர்கள் இஸ்ரேலிய படையினரின் துப்பாக்கி பிரயோகம் காரணமாக கொல்லப்பட்டனர் என காசாவின் சிவில் பாதுகாப்பு அமைப்பின் பேச்சாளர் தெரிவித்துள்ளார்.
-
-காயமடைந்த பலர் ஆபத்தான நிலையில் உள்ளனர் என மருத்துவவட்டாரங்கள் இஸ்ரேலின் ஹெராட்ஸ் செய்தித்தாளிற்கு தெரிவித்துள்ளன.
-
-கொல்லப்பட்டவர்கள் காயமடைந்தவர்களில் அதிகளவானவர்கள் சிறுவர்கள் பதின்மவயதினர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/2f1eabf8.json)
-
----
-
-### ‘Red’ warning for strong winds up to 60 kmph issued
-
-*2025-07-20 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110647/red-warning-for-strong-winds-up-to-60-kmph-issued) · `en`
-
-A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota.
-
-These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
-
-Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
-
-Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
-
-Naval and fishing communities are strongly advised not to venture into the sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota for the next 24 hours, said the Met. Department.
-
-...
-
-[Data](articles/e140be41.json)
 
 ---

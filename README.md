@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 21:48:11**
+As of **2025-07-20 22:06:17**
 
 ## Newspaper Stats
 
-*Scraped **65,744** Articles*
+*Scraped **65,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,019
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,312
-adaderanalk | 8,038
+adaderanalk | 8,039
 tamilmirrorlk | 9,428
 virakesarilk | 10,955
 adaderanasinhalalk | 11,297
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,744 articles have been extended.
+61,973 (94.3%) of 65,745 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eb6c6b6d.json)
+
+---
+
+### Attempted shooting at Kollupitiya nightclub foiled?
+
+*2025-07-20 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/110666/attempted-shooting-at-kollupitiya-nightclub-foiled) · `en`
+
+An attempted shooting at a nightclub in Kollupitiya was reportedly thwarted last night (19) when two individuals, arriving on a motorcycle, failed to execute their plan.
+
+The intended target was reportedly ‘Dematagoda Ruwan’, the brother of ‘Dematagoda Chaminda’, who is currently serving a death sentence for the murder of former Member of Parliament Bharatha Lakshman Premachandra. Chaminda is also believed to be involved in several other criminal activities.
+
+According to reports, Dematagoda Ruwan—who is known to frequent the nightclub in question—had arrived slightly later than usual. The shooter, having arrived earlier, attempted to enter the premises to confirm whether Ruwan had arrived. During this attempt, an argument ensued between the suspect and a security guard at the entrance of the establishment.
+
+Subsequently, the shooter abandoned the T-56 assault rifle he was carrying at the scene and fled with his accomplice, leaving both the weapon and the motorcycle behind.
+
+...
+
+[Data](articles/5722d840.json)
 
 ---
 
@@ -1759,21 +1777,5 @@ Paypal however has a service where they can collect VAT on behalf of the underly
 ◼️
 
 [Data](articles/7830e15c.json)
-
----
-
-### பொறுப்பற்ற முறையில்  ரயில்வே கேட்டை கடந்த பேருந்து
-
-*2025-07-20 11:21:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொறுப்பற்ற-முறையில்-ரயில்வே-கேட்டை-கடந்த-பேருந்து/76-361392) · `ta`
-
-நாவலப்பிட்டி - கண்டி பிரதான வீதியில், நாவலப்பிட்டி வரகாவ ரயில் கேட் மூடப்பட்டிருந்த நிலையில், தனியார் பேருந்தை ஒரு சிறிய இடத்தின் வழியாக பொறுப்பற்ற முறையில் செலுத்திய குற்றச்சாட்டில், தனியார் பேருந்து சாரதி ஒருவர் நாவலப்பிட்டி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-கினிகத்ஹேன - லக்ஷபான பகுதியிலிருந்து கடந்த 17 ஆம் திகதி கண்டி நோக்கி பயணித்த தனியார் பேருந்து, வரகாவ ரயில்வே கேட் அருகில் வரும்போது கண்டியில் இருந்து நாவலப்பிட்டிக்கு வந்த ரயிலுக்காக பாதுகாப்பு கேட் மூடப்பட்டிருந்துள்ளது.
-
-ரயில் கேட் திறக்கப்படும் வரை, சில முச்சக்கர வண்டிகள் பேருந்தின் முன் நிறுத்தப்பட்டிருந்த நிலையில், தனியார் பேருந்தின் சாரதி, ரயில் கேட் உள்ள ஒரு சிறிய இடத்தின் வழியாக  பேருந்தை செலுத்தி சில நிமிடங்களில் ரயிலும் குறித்த இடத்தை கடந்துள்ளது.
-
-...
-
-[Data](articles/077b0b61.json)
 
 ---

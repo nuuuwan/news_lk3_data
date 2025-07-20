@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 10:53:50**
+As of **2025-07-20 11:09:09**
 
 ## Newspaper Stats
 
-*Scraped **65,620** Articles*
+*Scraped **65,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,298
-adaderanalk | 8,014
-tamilmirrorlk | 9,404
-virakesarilk | 10,918
-adaderanasinhalalk | 11,277
+adaderanalk | 8,019
+tamilmirrorlk | 9,406
+virakesarilk | 10,921
+adaderanasinhalalk | 11,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,620 articles have been extended.
+61,973 (94.4%) of 65,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### සුළං සැරයි - කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2025-07-20 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212431) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත් සඳහා මෙම නිවේදනය බලපැවැත්වේ.
+
+අද (20) පෙ.ව. 10.00ට නිකුත් කරන ලද එම නිවේදනය හෙට (21) පෙ.ව. 10.00 වන තෙක් වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+දිවයින හරහා පවතින සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකියි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/65ed3efd.json)
+
+---
+
+### பருத்தித்துறை வீதியை திறக்கும் கோரிக்கை நிராகரிப்பு
+
+*2025-07-20 10:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறை-வீதியை-திறக்கும்-கோரிக்கை-நிராகரிப்பு/175-361390) · `ta`
+
+நல்லூர் பெருந் திருவிழா காலங்களில் ஆலயத்திற்கு பின்புறம் உள்ள பருத்தித்துறை வீதி மூடப்பட்டு ள்ளதால் சன நெரிசல் ஏற்படுவதாக கடந்த மாநகர சபை அமர்வில் உறுப்பினர்கள் சுட்டிக்காட்டினர்.
+
+இந்நிலையில்   நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந் திருவிழா ஒழுங்கமைப்புகள் தொடர்பான கலந்துரையாடல் சனிக்கிழமை (10)  நடைபெற்றிருந்தது.
+
+இதன்போது யாழ்.மாநகரசபை உறுப்பினர் நிஷாந்தன் உள்ளிட்ட சிலர், மேற்படி வீதியை முழுமையாக அடைக்கவேண்டாம் என்ற கோரிக்கையை முன்வைத்திருந்தனர்.
+
+மேலும் வீதியை மூடுவதால் சன நெரிசல் ஏற்படுவதாகவும் சுட்டிக்காட்டியிருந்தனர். இவ்வாறு நெருக்கடி நிலை உருவானால் ஆலய வளாகத்தில் இருந்து பருத்தித்துறை வீதியில் உள்ள நுழைவாயில் ஊடாக இருந்து மக்களை வெளியேற்ற நடவடிக்கை எடுக்கப்படும் என நல்லூர் ஆலய அறங்காவலர்களால் தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/b7f4ea0f.json)
+
+---
+
+### தளங்களை தேடுகிறதா சீனா?
+
+*2025-07-20 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220428) · `ta`
+
+எலி கொழுத்தால் வளையில் தங்காது என்பது போல, சீனாவின் கடற்டை மிக வேகமாகப் பருத்து வருகின்ற நிலையில், அது தனது எல்லைகளுக்கு வெளியே செயற்பட வேண்டிய நிலையில் இருக்கிறது.அண்மையில் இந்தியாவுக்கும் பாகிஸ்தானுக்கு இடையே நடந்த மோதல்களின் போது,  சீனாவின் ஆயுதங்களின் பரீட்சை களமாக அது இருந்ததாக இந்திய இராணுவ துணைத் தளபதி லெப்.  ஜெனரல் ராகுல் ஆர் சிங் கூறி இருந்தார்.
+
+◼️
+
+[Data](articles/1df7940e.json)
+
+---
+
+### கணவரை காதலனுடன் இணைந்து கொன்ற மனைவி: சாட் மூலம் சிக்கியது எப்படி?
+
+*2025-07-20 10:46:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவரை-காதலனுடன்-இணைந்து-கொன்ற-மனைவி-சாட்-மூலம்-சிக்கியது-எப்படி/175-361389) · `ta`
+
+கணவரை காதலனுடன் இணைந்து கொன்ற மனைவி: சாட் மூலம் சிக்கியது பெரும் பரபரப்பை ஏற்படுத்தி உள்ளது. தலைநகர் புதுடெல்லியின் தென்மேற்கு பகுதியான துவாரகாவை சேர்ந்த கரண் தேவ் என்பவரை அவரது மனைவி சுஷ்மிதா, அவரின் காதலர் ராகுல் இணைந்து கொலை செய்துள்ளனர்.
+
+இந்த விவகாரம் அவர்கள் இருவருக்கும் இடையிலான டெக்ஸ்ட் சாட் மூலம் வெளிச்சத்துக்கு வந்துள்ளது.
+
+கடந்த 13-ம் திகதி அன்று கரண் தேவ் மர்மமான முறையில் உயிரிழந்தார். இது தொடர்பாக பொலிஸார் மேற்கொண்ட விசாரணையில் கரண் தேவ் கொல்லப்பட்டது தெரியவந்தது. மேலும், கொலையை கரண் தேவின் மனைவி சுஷ்மிதா மற்றும் கரணுக்கு சகோதரர் உறவு முறையான ராகுல் தேவும் இணைந்து அரங்கேற்றியது விசாரணையில் தெரியவந்தது.
+
+உயிரிழந்த கரணின் உடல் உடற்கூறு ஆய்வுக்கு பிறகு குடும்பத்தினரிடம் ஒப்படைக்கப்பட்டது. தனது குடும்பத்தினரிடம் மின்சாரம் பாய்ந்ததில் கணவர் கரண் உயிரிழந்தார் என சுஷ்மிதா தெரிவித்துள்ளார். இந்நிலையில், கரணின் இளைய சகோதரரான குணால் தேவ், சுஷ்மிதா மற்றும் ராகுல் தேவ் இடையிலான இன்ஸ்டா சாட்டை எடுத்துள்ளார். அதை பார்த்து அதிர்ச்சி அடைந்த அவர், பொலிஸாரிடம் அதை ஜூலை 16-ம் திகதி கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/177b697e.json)
+
+---
 
 ### ඉහළ කොත්මලේ ජලාශයේ වාන් දොරටුවක් විවෘත කෙරේ
 
@@ -47,6 +115,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4fffd304.json)
+
+---
+
+### 40% of police personnel suffering from non-communicable diseases: Acting IGP
+
+*2025-07-20 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110644/40-of-police-personnel-suffering-from-non-communicable-diseases-acting-igp) · `en`
+
+Around 40% of police personnel are suffering from non-communicable diseases, according to Acting Inspector General of Police (IGP) Priyantha Weerasooriya.
+
+Acting IGP Weerasooriya raised concerns about the soaring prevalence of non-communicable diseases among police personnel in the country.
+
+He made this statement while participating in a program held to distribute school supplies to children of police officers in the Ratnapura District.
+
+Acting IGP Weerasooriya stated, “If you look at the condition of police officers, around 20% to 40% suffer from non-communicable diseases. Another 30% have not yet undergone medical check-ups. The remaining 30% are in good physical health conditions. Some of the officers are suffering from issues at home, job-related stress, and other factors, which have led to the spread of various non-communicable diseases among them.”
+
+...
+
+[Data](articles/a6e81d7c.json)
 
 ---
 
@@ -106,6 +192,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### கேள்விக்குள்ளாகும் அரசாங்கத்தின் செயற்திறன்
+
+*2025-07-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220424) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க  அவரே அதிர்ந்து போன ஒரு புள்ளிவிபரத்தை வெளியிட்டார்: இந்த ஆண்டுக்கான வரவுசெலவு திட்டத்தின் மூலம், அம்பாந்தோட்டை மாவட்டத்திற்கு, 574 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டிருக்கிறது. அந்த நிதியில் 23 மில்லியன் ரூபா மாத்திரமே இதுவரை செலவிடப்பட்டிருக்கிறது.குறைந்த அவகாசத்துக்குள் கூடுதல் வேலைத்திட்டங்களை நிறைவேற்ற வேண்டியிருக்கின்ற சூழலில், கண்காணிப்பு திறன் குறையும். அது தவறு செய்பவர்களுக்கு சாதகமாக மாறும்.
+
+◼️
+
+[Data](articles/3d7bc01e.json)
+
+---
+
 ### පොලීසියේ 40%කට බෝ නොවන රෝග - වැඩබලන පොලිස්පති
 
 *2025-07-20 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212429) · `si`
@@ -122,6 +220,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### நாரம்மலயில் விபத்து ; இரண்டு கைக்குழந்தைகள் உட்பட மூவர் உயிரிழப்பு
+
+*2025-07-20 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220421) · `ta`
+
+நாரம்மல பொலிஸ் பிரிவிற்குட்பட்ட நாரம்மல - கிரிஉல்ல வீதியில் நேற்று சனிக்கிழமை (19) பிற்பகல் இடம்பெற்ற துயர விபத்தில் இரண்டு கைக்குழந்தைகள் உட்பட மூன்று பேர் உயிரிழந்துள்ளனர்.
+
+கரொன்று வீதியை விட்டு விலகி வலது பக்கத்தின் எதிர் திசையில் பயணித்த பஸ் ஒன்றின் மீது நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+உயிரிழந்தவர்களில் மஹாவ, திவுல்லாவ பகுதியைச் சேர்ந்த 38 வயதுடைய காரின் சாரதியும், 9 மாதங்கள் மற்றும் 11 மாதங்களுடைய இரண்டு பெண்குழந்தைகளும் அடங்குவர்.
+
+விபத்தில் காயமடைந்த பஸ் சாரதி, நடத்துனர் மற்றும் பயணி ஒருவரும் காயமடைந்து தம்பதெனியா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+இதேவேளை, வெல்லவ பொலிஸ் பிரிவின் வாரியப்பொல - கும்புக்கெடே வீதியில் உள்ள கபுஹேன பகுதியில் மற்றொரு விபத்து இடம்பெற்றுள்ளது.
+
+கும்புக்கெடே நோக்கிச் சென்ற லொறி பாதாரசி ஒருவர் மீது மோதியதில் அவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் கனேவத்த பகுதியைச் சேர்ந்த 48 வயதுடைய பெண் என அடையாளம் காணப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/b3d256a8.json)
+
+---
+
 ### ரோஹித எம்.பியின் மகள் மாயம்
 
 *2025-07-20 09:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-எம்-பியின்-மகள்-மாயம்/175-361380) · `ta`
@@ -135,6 +257,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c5d027bb.json)
+
+---
+
+### Govt plans to triple daily fresh milk procurement by 2029: Dy Minister
+
+*2025-07-20 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110642/govt-plans-to-triple-daily-fresh-milk-procurement-by-2029-dy-minister-) · `en`
+
+The government is hoping to increase the amount of fresh milk collected from farmers to 3 million liters per day by 2029, up from 1 million liters in 2025, states Deputy Minister of Agriculture and Livestock Namal Karunaratne.
+
+Deputy Minister Namal Karunaratne addressing an event said the government will establish a dairy collection centers in every veterinary division across the country to help achieve this goal.
+
+The Deputy Minister added that dairy farmers will receive both financial and technical support through these new collection points.
+
+◼️
+
+[Data](articles/96ccdb9f.json)
 
 ---
 
@@ -242,6 +380,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ukraine seeks new round of talks with Russia
+
+*2025-07-20 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110640/ukraine-seeks-new-round-of-talks-with-russia) · `en`
+
+Ukraine has proposed a new round of peace talks with Russia, President Volodymyr Zelensky has said, in a move aimed at restarting negotiations that halted last month.
+
+Senior security official Rustem Umerov has offered to meet the Russian side next week, Zelensky said in his evening address, adding that everything had to be done to get a ceasefire.
+
+Zelenksy also repeated his readiness to meet Russia’s Vladimir Putin face-to-face. “A meeting at the leadership level is needed to truly ensure peace,” he said.
+
+The proposal came hours after Ukraine was hit with another widespread air bombardment by Russia, which killed three people.
+
+Ten regions of Ukraine, including several cities, were hit in the night between Friday and Saturday, Zelensky said earlier on Saturday.
+
+Ukraine’s military said more than 340 explosive and dummy drones and 35 cruise and ballistic missiles had been used, but many were downed.
+
+...
+
+[Data](articles/7436a165.json)
+
+---
+
 ### වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළී 34ක් මරුට
 
 *2025-07-20 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212428) · `si`
@@ -263,6 +423,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9eaf68c3.json)
+
+---
+
+### Dr. Nadeesha Chandrasena who won the 2025 WIPO Global Award returns to the island
+
+*2025-07-20 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110639/dr-nadeesha-chandrasena-who-won-the-2025-wipo-global-award-returns-to-the-island) · `en`
+
+Sri Lankan engineer Dr. Nadeesha Chandrasena who won a 2025 WIPO Global Award in the environment category for her innovative stormwater management solution, the ‘Smart Drain’, returned to the island.
+
+She arrived at the Bandaranaike International Airport (BIA) last night.
+
+The award, presented by the World Intellectual Property Organization (WIPO), a United Nations agency that supports the world’s innovators and creators, recognizes inventions that use intellectual property to address global challenges and improve lives.
+
+The awards ceremony was held in Geneva, Switzerland, with 780 institutions from 95 countries participating.
+
+Notably, this is the first time a Sri Lankan has received this prestigious award.
+
+The National Intellectual Property Office of Sri Lanka (NIPO) and Access Engineering PLC, the research facility provider for the ‘Smart Drain’, have also contributed to the success of the project.
+
+...
+
+[Data](articles/fedec2c4.json)
 
 ---
 
@@ -337,6 +519,24 @@ The driver, conductor, and a passenger of the bus sustained injuries in the acci
 ◼️
 
 [Data](articles/f24801be.json)
+
+---
+
+### Three including two infants die in tragic accident in Narammala
+
+*2025-07-20 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110638/three-including-two-infants-die-in-tragic-accident-in-narammala) · `en`
+
+A driver and two infants have died in an accident when a car, which the driver had lost control of, veered to the right side of the road and collided with a bus plying from the opposite direction in Narammala.
+
+The accident occurred yesterday (19) along the Narammala–Giriulla road, within the Narammala police division.
+
+According to police, the two deceased children were aged 9 months and 11 months, and the driver was a 38-year-old resident of Maho.
+
+The driver, conductor, and a passenger of the bus sustained injuries in the accident and are receiving treatment at the Dambadeniya Hospital. Narammala police are conducting further investigations.
+
+◼️
+
+[Data](articles/ff50636f.json)
 
 ---
 
@@ -1589,201 +1789,5 @@ NU’s next big break came in 1938, when aged 30, he received a scholarship and 
 ...
 
 [Data](articles/b5332030.json)
-
----
-
-### இஸ்ரேலில் இலங்கையர்களை ஏற்றிச் சென்ற பேருந்து தீப்பிடித்து எரிந்தது
-
-*2025-07-19 12:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்களை-ஏற்றிச்-சென்ற-பேருந்து-தீப்பிடித்து-எரிந்தது/175-361355) · `ta`
-
-இஸ்ரேலில் விவசாய தொழிலுக்காக இலங்கை இளைஞர்களை ஏற்றிச் செல்லும் பேருந்து தீப்பிடித்து எரிந்ததாக இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமல் பண்டார தெரிவித்துள்ளார்.
-
-இஸ்ரேலின் Kiryat Malakhi பிரதேசத்திற்கு அருகே நேற்று (18) காலை விவசாய நடவடிக்கைகளுக்காக சென்று கொண்டிருந்தபோது இந்த விபத்து நிகழ்ந்துள்ளது.
-
-பேருந்து தீப்பிடித்த பிறகு பேருந்தின் கதவுகள் மூடப்பட்டிருந்ததால், அவர்கள் அனைவரும் ஜன்னல்களை உடைத்து வௌியேறியுள்ளனர்.
-
-விபத்தில் ஒருவரது காலில் காயம் ஏற்பட்டதைத் தொடர்ந்து அவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார், எனினும் அவரது நிலைமை மோசமாக இல்லை என்று நிமல் பண்டார குறிப்பிட்டார்.
-
-மேலும், சம்பந்தப்பட்ட நிறுவனமும் அவர்களின் செயல்பாடுகளை அவதானித்து வருவதாகவும், ஏனைய தரப்பினர் வழமை போன்று தங்களது நடவடிக்கைகளில் ஈடுபட்டு வருவதாகவும் அவர் தெரிவித்தார். R
-
-◼️
-
-[Data](articles/d4e2ce89.json)
-
----
-
-### Shooting incident reported outside nightclub in Thalawathugoda
-
-*2025-07-19 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110620/shooting-incident-reported-outside-nightclub-in-thalawathugoda) · `en`
-
-A shooting incident has been reported in front of a nightclub in the Thalawathugoda area in the early hours of this morning (19).
-
-According to reports, the incident followed an argument between two groups, which had escalated into an altercation.
-
-A third individual, who arrived at the scene subsequently, is said to have opened fire using a weapon.
-
-It has been further reported that the individual, who was in possession of a licensed revolver, discharged the weapon by firing at a wall in an apparent attempt to intimidate the opposing group.
-
-Two individuals have been arrested in connection with the incident and are scheduled to be produced before the court today.
-
-◼️
-
-[Data](articles/d37c6fe0.json)
-
----
-
-### Trump will take action against Putin if a ceasefire is not reached in 50 days
-
-*2025-07-19 12:47:00* · [`islandlk`](http://island.lk/trump-will-take-action-against-putin-if-a-ceasefire-is-not-reached-in-50-days/) · `en`
-
-On July 14, Donald Trump had a televised meeting at the Oval Office with Mark Rutte, Secretary General of NATO, to discuss the tremendous progress made at the NATO Summit last month, to expedite a ceasefire in the conflict between Russia and Ukraine. Ukrainian President Zelensky was in attendance at the Summit, while Russian President made his presence felt by raining bombs on Ukraine for the duration of the summit. Which made President Trump most disappointed with his old friend and mentor.
-
-“This war was not Trump’s war”, stated President Trump. “It was Biden’s war; if I had been president, this war would not have even started. This was started by Biden and other people”. He didn’t mention the name of the man who actually initiated the invasion except express his “disappointment”, consoling himself with the words, “we’ll talk about that on a different day”.
-
-...
-
-[Data](articles/4e46ed58.json)
-
----
-
-### மரக்கிளை முறிந்து விழுந்ததில் ஒருவர் சம்பவ இடத்திலேயே மரணம்
-
-*2025-07-19 12:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கிளை-முறிந்து-விழுந்ததில்-ஒருவர்-சம்பவ-இடத்திலேயே-மரணம்/76-361354) · `ta`
-
-மஸ்கெலியா பொலிஸ் பிரிவில் மற்ற உள்ள புரவுன்சீக் தோட்ட மோட்டீங்ஹேம் பிரிவில்  இன்று காலை வீசிய கடும் காற்றினால் மரக்கிளை முறிந்து விழுந்ததில் ஒருவர் சம்பவ இடத்திலேயே  மரணமடைந்துள்ளார்.
-
-மூன்று குழந்தைகளின் தந்தையான ராசமாணிக்கம் செல்வகுமார் (வயது 44) என்பவரே சம்பவத்தில் உயிரிழந்துள்ளார்.
-
-இவர் விறகு சேகரிக்கும் பணியில் ஈடுபட்டுக்கொண்டிருந்த போது கருப்பன்தைல மரக்கிளை முறிந்து வீழ்ந்தால் இந்த அனர்த்தம் ஏற்பட்டுள்ளது.
-
-இந்த நிலையில் மஸ்கெலியா மாவட்ட  வைத்தியசாலைக்கு சடலம் கொண்டு வரப்பட்டுள்ளதாக வைத்திய அதிகாரி ஒருவர் தெரிவித்தார். இது குறித்து மஸ்கெலியா பொலிஸார் விசாரணை நடத்தி வருகின்றனர். R
-
-◼️
-
-[Data](articles/360bc1a5.json)
-
----
-
-### තලවතුගොඩ වෙඩිතැබීම ගැන තොරතුරු රැසක්
-
-*2025-07-19 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212408) · `si`
-
-අද (19) අලුයම් කාලයේ තලවතුගොඩ රාත්‍රී සමාජ ශාලාවක් ඉදිරිපිට වෙඩිතැබීමක් සිදුකර තිබේ.
-
-රාත්‍රී සමාජ ශාලාව වෙත පැමිණි පුද්ගලයින් දෙපිරිසක් අතර බහින්බස් වීමක් දුරදිගයෑමෙන් පසු එම ස්ථානයට පැමිණි වෙනත් පුද්ගලයෙකු මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
-
-බලපත්‍ර සහිත රිවෝල්වරයක් රැගෙන පැමිණ තිබූ අදාළ පුද්ගලයා විරුද්ධ පාර්ශ්වය බය කිරීම සඳහා තාප්පයක වෙඩිතබා ඇති බව වැඩිදුරටත් වාර්තා විය.
-
-සිද්ධිය සම්බන්ධයෙන් පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් අද අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/6a928409.json)
-
----
-
-### US Embassy strengthens regional efforts to combat synthetic drug threat
-
-*2025-07-19 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110619/us-embassy-strengthens-regional-efforts-to-combat-synthetic-drug-threat) · `en`
-
-The U.S. Embassy in Sri Lanka, in collaboration with the National Dangerous Drugs Control Board (NDDCB), has concluded a two-week regional training initiative focused on identifying and analyzing synthetic drugs and new psychoactive substances, particularly fentanyl and its analogs—substances that have become an urgent global concern.
-
-The training culminated in a formal handover ceremony of drug testing equipment, where U.S. Deputy Chief of Mission Jayne Howell, Deputy Minister of Public Security and Parliamentary Affairs Sunil Watagala, and NDDCB Chairman Dr. Indika Wanninayake presided over the presentation of the Radian ASAP instrument to Sri Lankan authorities, the U.S. Embassy in Sri Lanka said in a statement.
-
-As part of the U.S. Department of State-funded regional initiative, Upgrading Forensic Lab Capabilities, the Bureau of International Narcotics and Law Enforcement Affairs (INL) has partnered with the Colombo Plan to strengthen synthetic drug detection across South Asia.
-
-...
-
-[Data](articles/642c87d4.json)
-
----
-
-### Seismic shift in Sri Lanka police
-
-*2025-07-19 12:00:00* · [`economynextcom`](https://economynext.com/seismic-shift-in-sri-lanka-police-231608/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s police department is on the verge of a seismic change, with the fates of its top two officers to be decided by separate disciplinary authorities in landmark cases involving misconduct, incompetence, and gross criminal behaviour.
-
-Inspector-General of Police Deshabandu Tennakoon is the first head of the department in its 159-year history to face impeachment. A three-member inquiry body, appointed by Parliament, is expected to announce its decision soon.
-
-Official sources close to the administration say Tennakoon, against whom Parliament initiated impeachment proceedings in April, should know his fate this week or at least by the end of the month.
-
-Legislators voted unanimously on April 8 in favour of a resolution calling for a formal investigation into Tennakoon’s conduct. His inquiry heard he was running a ‘criminal enterprise’ under the guise of law enforcement and was unfit to serve the police even at the lowest rank.
-
-...
-
-[Data](articles/84644906.json)
-
----
-
-### ඊශ්‍රායෙලයේ ශ්‍රී ලංකා සේවකයන් 20ක් ගමන් කළ බස් රථයක් ගිනි ගනියි
-
-*2025-07-19 11:54:08* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ශ්‍රී-ලංකා-සේවකයන්-20ක්-ගමන්-කළ-බස්-රථයක්-ගිනි-ගනියි/11-417383) · `si`
-
-ඊශ්‍රායලයේ Kiryat Malakhi   ප්‍රදේශයට ආසන්නයේ  ඊයේ  උදේ  තම සේවා කටයුතු  සඳහා ගමන් කරමින් සිටි  ඊශ්‍රායලේ  කෘෂිකාර්මික සේවය කරන ලංකාවේ තරුණයින්  20 ක්  රැගත් බස් රථයක් හදිසි ගිණි  ගැනීමකට ලක් වූ අතර ගින්නෙන් බස් රථය සම්පුර්ණයෙන්ම විනාශ වී තිබේ.
-
-මෙම බස් රථයේ ශ්‍රී ලාංකිකයන් 20 දෙනෙකු සිට ඇති අතර බස් රථය ගිණි  ගැනීමේ දී එහි දොර අවහිරවීම මත එහි සිටි පිරිස එහි ජනෙල් කඩා එයින් ඉවත්වී ඇතැයි ඊශ්‍රා යෙලයේ ශ්‍ර‍ී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
-
-අනතුරෙන්  පාදයක්  තුවාල වූ එක අයෙකු රෝහල් ගතකර ඇති අතර ඔහුගේ තත්ත්වය බරපතල නොවන බවත්  මේ පිළිබඳව විවිධ  සටහන් තබා ඇතත් තුවාල වූ  තරුණයාට තදබල අනතුරක් නොමැති බව සනාථ කරමි යැයි තානාපතිවරයා පවසයි.
-
-අදාල සමගම ඔවුන්ගේ කටයුතු පිළිබඳව සොයා බලන අතර අනෙකුත් පිරිස සුපුරුදු පරිදි තම කටයුතුවල් නිරත වන බවද තානාපතිවරයා වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/2d209783.json)
-
----
-
-### One missing after fishing boat caught in strong winds
-
-*2025-07-19 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110618/one-missing-after-fishing-boat-caught-in-strong-winds-) · `en`
-
-A fisherman has been reported missing after a boat that set out to sea from the Beruwala Fisheries Harbour encountered strong winds early this morning (19).
-
-When inquired by Ada Derana, Director General of the Department of Fisheries, Susantha Kahawatte, stated that there were six fishermen aboard the vessel at the time of the incident.
-
-The incident occurred in the seas off Beruwala. The boat had departed from the harbour on July 15 and returned to shore today.
-
-The missing individual has been identified as a 35-year-old resident of the Dodangoda area, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/415ac5fa.json)
-
----
-
-### இந்திய விமானங்களுக்கான வான்வெளி தடையை நீடித்தது பாகிஸ்தான் !
-
-*2025-07-19 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220376) · `ta`
-
-இந்தியாவுக்கு சொந்தமான அல்லது குத்தகைக்கு விடப்பட்ட விமானங்கள், இராணுவ விமானங்கள், பொது போக்குவரத்து விமானங்கள் போன்றவை பாகிஸ்தானின் வான்வெளியை பயன்படுத்த விதிக்கபட்டிருந்த தடை பாகிஸ்தான் அரசாங்கத்தால் மீண்டும் நீடிக்கப்பட்டுள்ளது.
-
-பஹல்காம் தாக்குதலுக்கு தலையடுத்து இந்தியா ஒப்பரேஷன் சிந்தூர் என்ற நடவடிக்கையை முன்னெடுத்து பாகிஸ்தான் மற்றும் பாகிஸ்தான் ஆக்கிரமிப்பு காஷ்மீரில் உள்ள 9 பயங்கரவாத முகாம்ககள் மீது தாக்குதலை மேற்கொண்டது.
-
-இதனால் இரு நாடுகளுக்கும் இடையில் போர் மூளும் அபாயம் ஏற்பட்ட நிலையில், இந்தியாவுக்கு சொந்தமான அல்லது குத்தகைக்கு விடப்பட்ட விமானங்கள், இராணுவ விமானங்கள், பொது போக்குவரத்து விமானங்கள் போன்றவை பாகிஸ்தானின் வான்வெளியை பயன்படுத்த பாகிஸ்தான் அரசாங்கத்தால் தடை விதிக்கப்ப் அந்நாட்டு அரசு தடைவிதித்தது.
-
-இந்த நிலையில் குறித்த தடை எதிர்வரும் ஆகஸ்ட் மாதம் 25 ஆம் திகதி காலை 5.19 மணி வரை மீண்டும் நீட்டிக்கப்பட்டுள்ளதாக பாகிஸ்தான் விமான போக்குவரத்து ஆணையகம் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/2b14a8c5.json)
-
----
-
-### உக்ரைனின் புதிய பிரதமராக யூலியா நியமனம் !
-
-*2025-07-19 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220371) · `ta`
-
-உக்ரைனின் புதிய பிரதமராக அந்நாட்டின் துணைப் பிரதமரும் பொருளாதார அமைச்சருமான யூலியா ஸ்விரிடென்கோ நியமிக்கப்பட்டுள்ளார்.
-
-உக்ரைன் - ரஷ்வுக்கிடையிலான யுத்தம் தொடர்ந்து இடம்பெற்றுவரும் நிலையில், உக்ரைனின் பிரதமராக இருந்த டெனிஸ் ஷிம்ஹால் திடீரென தனது பதவியை ராஜினாமா செய்தார். கடந்த 2020 ஆம் ஆண்டு மார்ச் மாதம் முதல் டெனிஸ் ஷிம்ஹால் பிரதமராக உக்ரைன் வரலாற்றில் மிக நீண்ட காலம் பணியாற்றியவர் ஆவார்.
-
-இந்நிலையில் உக்ரைனின் 19 ஆவது புதிய பிரதமராக, துணைப் பிரதமரும் பொருளாதார அமைச்சருமான யூலியா ஸ்விரிடென்கோ நியமிக்கப்பட்டுள்ளார்.
-
-புதிய பிரதமர் யூலியா ஸ்விரிடென்கோ, உக்ரைனின் உயர்மட்ட பேச்சுவார்த்தைகளுக்கு தலைமை தாங்கியவர் என்பதுடன் அமெரிக்காவுடனான ஒப்பந்தத்திற்கு வழிவகுத்த பேச்சுவார்த்தைகளுக்கும் அவர் தலைமை தாங்கினார்.
-
-◼️
-
-[Data](articles/aae432ff.json)
 
 ---

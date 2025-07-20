@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 03:17:25**
+As of **2025-07-21 03:30:21**
 
 ## Newspaper Stats
 
-*Scraped **65,754** Articles*
+*Scraped **65,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 671
 bbccomsinhala | 677
 islandlk | 4,017
 economynextcom | 4,019
-dailyftlk | 4,648
+dailyftlk | 4,652
 dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,040
@@ -26,9 +26,77 @@ adaderanasinhalalk | 11,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,754 articles have been extended.
+61,973 (94.2%) of 65,758 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-21 (Monday)
+
+### Sri Lanka Business Council UAE Chairman meets CH17 Loyalty CEO
+
+*2025-07-21 03:19:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Business-Council-UAE-Chairman-meets-CH17-Loyalty-CEO/34-779229) · `en`
+
+Sri Lanka Business Council UAE – Dubai and Northern Emirates Chairman Suren Swaminathan (left) with CH17 Loyalty Founder and CEO Jumar Preena
+
+Discuss plans for introduction of smart multi-facility privilege program for Council membership
+
+Sri Lanka Business Council (SLBC) UAE – Dubai and Northern Emirates Chairman Suren Swaminathan, who was on a brief visit to Colombo met with CH17 Loyalty Founder and CEO Jumar Preena recently.
+
+The meeting centred around strategic collaboration to implement a multi-facility membership privilege program exclusively for the Business Council membership.
+
+During the meeting, Preena also outlined CH17’s intention to launch the first-ever dual-country rewards and privilege program tailored for the Sri Lankan expatriate community in the UAE.
+
+...
+
+[Data](articles/37cd916b.json)
+
+---
+
+### Trinasolar partners Solaris Energy to deliver 25MWp of utility-scale solar across Sri Lanka
+
+*2025-07-21 03:18:28* · [`dailyftlk`](https://www.ft.lk/business/Trinasolar-partners-Solaris-Energy-to-deliver-25MWp-of-utility-scale-solar-across-Sri-Lanka/34-779228) · `en`
+
+Trinasolar, a global leader in smart PV and energy storage solutions, signed a Memorandum of Understanding (MoU) with Solaris Energy Ltd., a leading solar distributor in Sri Lanka, to collaborate on the supply and deployment of 25 megawatt-peak (MWp) of solar modules across the country. The agreement was formalised at SNEC 2025 in Shanghai, the world’s largest solar industry exhibition.
+
+The strategic partnership reflects Trinasolar’s growing commitment to the South Asian market, while providing invaluable support for Sri Lanka’s national goal of accelerating the shift toward clean and sustainable energy. Under the MoU, Solaris Energy will nominate Trinasolar as one of its subcontractors for utility-scale solar projects in Sri Lanka, subject to definitive agreements.
+
+...
+
+[Data](articles/7a761b06.json)
+
+---
+
+### Who’s trying to derail power sector reforms?
+
+*2025-07-21 03:11:06* · [`dailyftlk`](https://www.ft.lk/columns/Who-s-trying-to-derail-power-sector-reforms/4-779226) · `en`
+
+Sri Lanka, too, must consider transitioning to a more market-driven approach to reduce costs and lower electricity tariffs for consumers
+
+Looking ahead, the most logical and prudent path forward is to allow private investment in distribution and existing generation assets only after a two-year period of stabilisation and institutional strengthening. This phased approach ensures transparency, builds investor confidence, and protects public interest, especially in a sector as vital as electricity
+
+The reform of the power sector and the restructuring of the Ceylon Electricity Board (CEB) were key election promises made by the current NPP Government. This initiative stands as one of their flagship projects and is progressing well, staying on track as planned.
+
+...
+
+[Data](articles/434ed497.json)
+
+---
+
+### Global shocks and  Sri Lanka’s road to recovery
+
+*2025-07-21 03:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Global-shocks-and-Sri-Lanka-s-road-to-recovery/4-779224) · `en`
+
+Sri Lanka’s future depends on how far it could create an innovation economy by using its existing resources and drawing on inventions and innovations made elsewhere
+
+It is not knowledge per se that would usher prosperity to Sri Lanka. It is the conversion of knowledge into marketable goods and services through innovation, spread of the information on innovation through diffusion and imitation of such innovators that would bring a continuous high economic growth to a country. Hence, the role of the Government is to create an environment conducive for invention, innovation, diffusion and imitation. This is where Sri Lanka falls behind many nations in the world as revealed by the latest Global Innovation Index or GII published by Cornell University, INSEAD and World Intellectual Property Organisation for 2023
+
+Keynote at Economic and Taxation Symposium 2025 of ICASL – Part II
+
+...
+
+[Data](articles/598f8596.json)
+
+---
 
 ### 2025-07-20 (Sunday)
 
@@ -1717,85 +1785,5 @@ Naval and fishing communities are strongly advised not to venture into the sea a
 ...
 
 [Data](articles/e140be41.json)
-
----
-
-### හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් ධීවරයින් සමග අතුරුදන්
-
-*2025-07-20 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212434) · `si`
-
-හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රා තුනක් අතුරින් එක් යාත්‍රාවක් ධීවරයින් සමග අතුරුදන් වී තිබේ.
-
-දැඩි සුළං සහ කුණාටු තත්ත්වය හමුවේ මෙම ධීවරය යාත්‍රාව අතුරුදන්ව ඇති අතර එහි ධීවරයි දෙදෙනෙකු සිට තිබේ.
-
-කෙසේ නමුත් ඉතිරි ධීවර යාත්‍රා දෙකක සිටි ධීවරයින් පිහිනා නිරුපද්‍රිතව ගොඩබිමට පැමිණ ඇත.
-
-මෙලෙස යාත්‍රාව සමග අතුරුදන්ව ඇත්තේ හලාවත වැල්ල කොළණිය ප්‍රදේශයේ පදිංචි ධීවරයින් දෙදෙනෙකි.
-
-අනෙක් යාත්‍රා දෙක අතුරින් එක් යාත්‍රාවක් ගල්පරයක ගැටී විනාශ වී ඇති නමුත් එහි සිටි ධීවරයින් ඊයේ රාත්‍රියේම පිහිනා ගොඩබිමට පැමිණ ඇති අතර ඔවුන් ගමන් ගත් ධීවර යාත්‍රාව කරුකුපනේ ධීවර ගම්මානයේ වෙරළ තීරයට ගොඩ ගසා තිබේ.
-
-අනෙක් යාත්‍රාවේ සිටි ධීවරයින් කුණාටුව සමග යාත්‍රාව පෙරළීමෙන් පසු මුතුපන්තිය ධීවර ගම්මානයේ වෙරළට පැමිණ ඇති අතර ඔවුන් එහි සිටි ධීවරයින්ගේ උදව් ඇතිව හලාවත ප්‍රදේශයට පැමිණ ඇත.
-
-...
-
-[Data](articles/9e63dda3.json)
-
----
-
-### 20 ஆண்டுகளாக கோமாவில் இருந்த சவுதி இளவரசர் காலமானார்
-
-*2025-07-20 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220448) · `ta`
-
-தூங்கும் இளவரசர் என அழைக்கப்படும் சவுதி அரேபியாவின் இளவரசர் அல் வாலீத் பின் காலித் பின் தலால் அல் சவுத் 20 ஆண்டுகளாக கோமாவில் இருந்து வந்த நிலையில், சனிக்கிழமை (19) காலமானார்.
-
-பிரித்தானிய நாட்டின் லண்டன் நகரில் இராணுவ பயிற்சிக்காக படித்து வந்த அவர், 2005 ஆம் ஆண்டு நடந்த கார் விபத்தில் சிக்கினார். இதில், காயமடைந்த அவர் கோமா நிலைக்கு சென்றார். இந்நிலையில், 20 ஆண்டுகளாக கோமாவிலேயே இருந்த இளவரசர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-அவருடைய மறைவை, அல் வாலீத்தின் தந்தையான இளவரசர் காலித் பின் தலால் அல் சவுத் உறுதி செய்துள்ளார். அவருடைய இறுதி சடங்குகள் இன்று நடைபெறவுள்ளது.
-
-இன்றைய தினம் முதல் 22 ஆம் திகதி வரையிலான 3 நாட்களுக்கு பொதுமக்கள் அஞ்சலி செலுத்த அனுமதி அளிக்கப்படவுள்ளது. இதற்காக, அல்-பக்ரியா மாவட்டத்தில் உள்ள அரண்மனையில் உடல் வைக்கப்படும். ஆண்கள் இரங்கல் தெரிவிக்க செல்ல அனுமதிக்கப்படும். பெண்கள் மக்ரீப் தொழுகையை முடித்து விட்டு இரங்கல் தெரிவிக்க செல்லலாம்.
-
-...
-
-[Data](articles/3e1f9d3b.json)
-
----
-
-### Sri Lanka to charge VAT on Paypal, Stripe, amid existing IMF MCPs
-
-*2025-07-20 11:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-charge-vat-on-paypal-stripe-amid-existing-imf-mcps-231696/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to charge 18 percent value added tax on Paypal, which is considered a financial service and also Stripe, at a time when smaller taxes on credit cards have fallen foul with the International Monetary Fund, under new rules to tax foreign services.
-
-“Financial Technology (FinTech): online banking, payment processors (PayPal, Stripe, and crypto currency
-
-exchanges),” the new gazette requiring VAT to be collected by foreign platforms from October 01 says.
-
-Paypal, which is a financial service, is exempt from VAT in countries like UK and the EU which has well-functioning tax systems.
-
-Stripe, which also collects money on behalf of third parties is subject to a so-called ‘reverse charging’ process which nets off the value added tax on the underlying service, in countries with well-functioning systems.
-
-Paypal however has a service where they can collect VAT on behalf of the underlying service or good, when payment is made.
-
-...
-
-[Data](articles/dee0c1e2.json)
-
----
-
-### වැවට වැටී පුද්ගලයෙකු අතුරුදන්
-
-*2025-07-20 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212433) · `si`
-
-නිකවැරටිය ප්‍රදේශයේ මාගල්ල වැවේ ඔරුවක් ආධාරයෙන් මසුන් අල්ලමින් සිටි පුද්ගලයින් දෙදෙනකුගෙන් එක් පුද්ගලයෙකු වැවට වැටී අතුරුදන්ව තිබේ.
-
-අදාල පුද්ගලයා දියේ ගිලී අතුරුදන්ව ඇති බවට ලද පැමිණිල්ලකට අනුව  නිකවැරටිය පොලීසිය විසින් විමර්ශන ආරම්භ කර ඇත.
-
-මෙසේ දියේ ගිලී අතුරුදන්ව ඇත්තේ වයස අවුරුදු 48ක් වන නිකවැරටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-අතුරුදහන් වූ පුද්ගලයා සොයා නිකවැරටිය පොලීසිය හා ප්‍රදේශවාසීන් එක්ව මෙහෙයුමක් දියත්කර තිබේ.
-
-◼️
-
-[Data](articles/028ca4e5.json)
 
 ---

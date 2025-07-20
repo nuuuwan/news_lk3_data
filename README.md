@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 11:34:14**
+As of **2025-07-20 11:50:06**
 
 ## Newspaper Stats
 
-*Scraped **65,635** Articles*
+*Scraped **65,640** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 584
+dbsjeyarajcom | 585
 colombotelegraphcom | 671
 bbccomsinhala | 677
 economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,298
+adalk | 6,299
 adaderanalk | 8,019
-tamilmirrorlk | 9,408
+tamilmirrorlk | 9,411
 virakesarilk | 10,922
 adaderanasinhalalk | 11,279
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 11,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,635 articles have been extended.
+61,973 (94.4%) of 65,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### வகுப்பறையில் மாணவர்களின் எண்ணிக்கையை குறைக்க திட்டம்
+
+*2025-07-20 11:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வகுப்பறையில்-மாணவர்களின்-எண்ணிக்கையை-குறைக்க-திட்டம்/175-361395) · `ta`
+
+50 அல்லது 60 மாணவர்களைக் கொண்ட நெரிசலான வகுப்பறைகளில் தரமான கல்வியை வழங்குவது சாத்தியமில்லை என்பதால், ஒரு வகுப்பறையில் மாணவர்களின் எண்ணிக்கையை 25 முதல் 30 வரை குறைக்க கல்வி அமைச்சகம் இலக்கு வைத்துள்ளதாக பிரதமரும் கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய நேற்று தெரிவித்தார்.
+
+தென் மாகாண கல்வி அதிகாரிகளுக்காக காலியில் உள்ள கேட்போர் கூடத்தில் நடைபெற்ற விழிப்புணர்வு நிகழ்ச்சியில் உரையாற்றும் போதே அவர் இந்தக் கருத்துக்களை தெரிவித்தார். இது தற்போதைய கல்வி சீர்திருத்தங்கள் குறித்து விவாதிக்க தென் மாகாண கல்வி அதிகாரிகளுக்காக ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+புதிய சீர்திருத்தங்கள் பாடத்திட்ட புதுப்பிப்புகளுக்கு அப்பாற்பட்டவை என்றும், ஆசிரியர் தொழில்முறையை மேம்படுத்துதல், கல்வி நிர்வாகத்தை மறுசீரமைத்தல் மற்றும் அனைத்து குழந்தைகளுக்கும் தரமான கல்விக்கான சமமான அணுகலை உறுதி செய்வதற்காக உள்கட்டமைப்பை மேம்படுத்துதல் ஆகியவற்றிலும் கவனம் செலுத்துகின்றன என்றும் கலாநிதி அமரசூரிய சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/40d60e2b.json)
+
+---
+
+### சஹ்ரானின் 21 ஏக்கர் நிலம் யானைகளின் வாழ்விடமாக மாறியுள்ளது
+
+*2025-07-20 11:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஹ்ரானின்-21-ஏக்கர்-நிலம்-யானைகளின்-வாழ்விடமாக-மாறியுள்ளது/175-361394) · `ta`
+
+ஈஸ்டர் தாக்குதல்களின் மூளையாகச் செயல்பட்ட சஹ்ரானுக்குச் சொந்தமானதாகக் கூறப்படும் மாத்தளை, மஹாவெல காவல் பிரிவின் கெட்டவல, ஹத்தமுங்கல பகுதியில் அமைந்துள்ள 21 ஏக்கர் நிலம் காட்டு யானைகளின் வாழ்விடமாக மாறியுள்ளது தெரியவந்தது.
+
+மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுத் தலைவரும் புத்த சாசன மத மற்றும் கலாச்சார விவகார பிரதி அமைச்சருமான கமகெதர திசாநாயக்க தலைமையில் சமீபத்தில் நடைபெற்ற மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தின் போதே மேற்படி விவகாரம் அம்பலமானது.
+
+இந்தக் குழுக் கூட்டம் மாத்தளை மாகாண செயலகக் கூட்ட மண்டபத்தில் நடைபெற்றது. இது தொடர்பாகப் பேசிய மாத்தளை மாகாண செயலாளர் பி.பி. சேனாதிர, மாத்தளை நகரத்திற்கு அருகிலுள்ள கிராமங்களுக்குள் நுழைந்த காட்டு யானைகள் இந்த நிலத்தை தங்கள் வாழ்விடமாக மாற்றுவதாகக் கூறினார்.
+
+தற்போது அரசாங்கத்தின் கட்டுப்பாட்டில் உள்ள மற்றும் சஹ்ரானுக்குச் சொந்தமான இந்த நிலத்தின் எல்லைகளை வரையறுக்க ஒரு கணக்கெடுப்பை மேற்கொள்ள நில அளவைத் துறைக்கு அறிவிக்கப்பட்டுள்ளது, ஆனால் பணிகள் இன்னும் முடிக்கப்படவில்லை என்று மாகாண செயலாளர் குழுவிடம் தெரிவித்தார்.
+
+...
+
+[Data](articles/cc77a754.json)
+
+---
+
+### “சாதிக்க வயதில்லை”: நிரூபித்துக் காட்டிய 60 வயது விவசாயி
+
+*2025-07-20 11:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சாதிக்க-வயதில்லை-நிரூபித்துக்-காட்டிய-60-வயது-விவசாயி/50-361393) · `ta`
+
+மத்திய சீனாவின் அன்ஹுய் மாகாணத்தில் ஹன்ஷான் கவுண்டியைச் சேர்ந்த 60 வயதான விவசாயி ஜாங் ஷெங்வு, எந்த பொறியியல் பட்டமும், வரைபட வழிகாட்டுதலும் இல்லாமல், தனது கனவுகளை நோக்கி பயணித்தவர்.
+
+சிறுவயதிலிருந்து படகுகளை விரும்பிய ஜாங், 2014ல் டிவி ஒளிபரப்பிய நீர்மூழ்கிக் கப்பல் நிகழ்ச்சியிலிருந்து உத்வேகம் கொண்டு , தன்னிச்சையாக ஒரு நீர்மூழ்கிக் கப்பலை வடிவமைக்க தீர்மானித்தார். தனது மனைவி இல்லாத நேரத்தில் ரகசியமாக கட்டுமானத்தைத் தொடங்கி, 5,000 யுவானுக்கு தேவையான பொருட்களை வாங்கி முதலாவது முன்மாதிரியை உருவாக்கினார்.
+
+6 மீட்டர் நீளமும், 2 டன் எடையும் கொண்ட அந்தக் கப்பல் 1 மீட்டர் ஆழத்தில் மூழ்கக்கூடியது. பயத்துடனும் உற்சாகத்துடனும் அதில் முதன்முறையாக மூழ்கினார் ஜாங்.
+
+...
+
+[Data](articles/f34ac4c0.json)
+
+---
 
 ### பொறுப்பற்ற முறையில்  ரயில்வே கேட்டை கடந்த பேருந்து
 
@@ -427,6 +477,26 @@ The Deputy Minister added that dairy farmers will receive both financial and tec
 ◼️
 
 [Data](articles/5bfd26cd.json)
+
+---
+
+### වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළී 37ක් මරුට
+
+*2025-07-20 08:47:01* · [`adalk`](https://www.ada.lk/international/වියට්නාමයේ-සංචාරක-බෝට්ටුවක්-පෙරළී-37ක්-මරුට/3-417394) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් වියට්නාමයේ සංචාරක බෝට්ටුවක් පෙරළීමෙන් අවම වශයෙන් පුද්ගලයින් 37 දෙනෙකු මිය ගොස් ඇති අතර කිහිප දෙනෙකු තවමත් අතුරුදහන් වී ඇත.
+
+මෙම සිදුවීම සිදුව ඇත්තේ රටේ උතුරේ ජනප්‍රිය සංචාරක ගමනාන්තයක් වන හා ලොන්ග් බොක්කෙහි ය.
+
+බොහෝ මගීන් හැනෝයි අගනුවර සිට පැමිණි වියට්නාම පවුල් බව වාර්තා වේ.
+
+දිවි ගලවා ගත් අය සෙවීමේ කටයුතුවලට තද වර්ෂාව බාධාවක් වී ඇති බව ගලවා ගැනීමේ කණ්ඩායම් පවසන නමුත් මේ වන විට පුද්ගලයින් 11 දෙනෙකු ජලයෙන් ඉවත් කර ඇත.
+
+වොන්ඩර් සීස් නම් බෝට්ටුව හදිසි කුණාටුවකට මුහුණ දීමෙන් පසු පෙරළෙන විට පුද්ගලයින් 53 දෙනෙකු රැගෙන ගිය බව වියට්නාම දේශසීමා ආරක්ෂකයින් සහ නාවික හමුදාවේ ප්‍රකාශයක් පවසයි.
+
+◼️
+
+[Data](articles/9e2e3369.json)
 
 ---
 
@@ -896,6 +966,34 @@ A national constitution is more than just a legal document – it is the backbon
 
 ---
 
+### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
+
+*2025-07-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
+
+Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
+
+In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
+
+...
+
+[Data](articles/2ecd8d48.json)
+
+---
+
+### The Chemmani  mass grave site in  Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.
+
+*2025-07-20 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86169) · `en`
+
+A mass grave site in Sri Lanka’s northern Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.
+
+The site was discovered by accident in February this year when workers, who were readying land in Chemmani — located in the outskirts of Jaffna, a former war zone — to build a Hindu crematorium, stumbled upon what appeared to be human bones. They immediately alerted authorities, prompting the Jaffna Magistrate Court to order excavation and further investigation.
+
+...
+
+[Data](articles/7bf81f1c.json)
+
+---
+
 ### 2025-07-19 (Saturday)
 
 ### Goal is to reduce number of students in a classroom to 25-30: PM Harini
@@ -1001,20 +1099,6 @@ The Police Media Spokesperson further stated that one of the deceased women was 
 ◼️
 
 [Data](articles/865a8986.json)
-
----
-
-### The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.
-
-*2025-07-19 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86165) · `en`
-
-Chemmani, a sparsely populated area in the northern peninsula  of Jaffna has in recent times  acquired a  somewhat dubious  image. Just as Nallur in Jaffna is associated  positively in public perception with the famous Kandasamy temple, Chemmani  is associated negatively with mass graves. The long war between the  Sri Lankan armed forces and the Liberation Tigers of Tamil Eelam(LTTE)  has resulted in innumerable instances of enforced disappearances and extra-judicial killings. The mass graves uncovered in  Chemmani  are  symbolic proof  of those disappearances and killings.
-
-In July 1998, Corporal Somaratne Rajapaksa and some other soldiers were convicted for the rape and murder of a Jaffna schoolgirl Krishanthi Kumaraswamy  and the killing of  her family. Rajapaksa revealed at his sentencing  that between 300 and 400 Tamil civilians  killed in 1996  were buried in the Chemmani area.
-
-...
-
-[Data](articles/2ecd8d48.json)
 
 ---
 
@@ -1689,103 +1773,5 @@ The case had quietly journeyed through the judicial corridors since it was first
 ...
 
 [Data](articles/b09de710.json)
-
----
-
-### ‘Red’ warning issued for strong winds and rough seas
-
-*2025-07-19 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110621/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
-
-A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota.
-
-These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
-
-Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
-
-Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
-
-Naval and fishing communities are strongly advised not to venture into the sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota for the next 24 hours, said the Met. Department.
-
-...
-
-[Data](articles/591e57a0.json)
-
----
-
-### அமெரிக்காவில் பொலிஸ் பயிற்சி நிலையத்தில் வெடி விபத்து : 3 அதிகாரிகள் பலி !
-
-*2025-07-19 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220387) · `ta`
-
-அமெரிக்காவின் கலிபோர்னியா மாகாணத்திலுள்ள பொலிஸ் பயிற்சி நிலையத்தில் இடம்பெற்ற வெடி விபத்தில் சிக்கி, 3 அதிகாரிகள் உயிரிழந்துள்ளனர்.
-
-கலிபோர்னியாவின், லொஸ் ஏஞ்சலீஸ் நகரத்திலுள்ள பொலிஸ் பயிற்சி நிலையத்தில்,சில வெடி பொருட்களைக் கொண்டு வெள்ளிக்கிழமை (18) பயிற்சியில் ஈடுபட்டுள்ளனர்.
-
-இதன்போது, திடீரென ஏற்பட்ட வெடிப்பில் 3 அதிகாரிகள் உயிரிழந்துள்ளதாக, அந்நாட்டு பொலிஸார் தெரிவித்துள்ளனர்.
-
-வெடிப்புக்கான காரணம் தெரியவராத போதிலும், சம்பவம் தொடர்பில் அந்நாட்டுப் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/b947b906.json)
-
----
-
-### හොර පාරින් ගෙනාපු අධිබල යතුරු පැදි  තලවිලින් අල්ලයි
-
-*2025-07-19 13:52:32* · [`adalk`](https://www.ada.lk/picture_story/හොර-පාරින්-ගෙනාපු-අධිබල-යතුරු-පැදි--තලවිලින්-අල්ලයි/10-417385) · `si`
-
-මුහුදු මාර්ගයෙන් රැගෙන ආ බව කියන රුපියල් කෝටි තුනකට ආසන්න වටිනාකමකින් යුත්  අධි බලැති යතුරු පැදි  පහක් තලවිල හා   නාවක්කාඩු  ප්‍රදේශ වලින් පොලිසිය හා පොලිස් විශේෂ කාර්ය බලකාය එක්ව කල වැටලීමකදි  සැකකරුවන් ද සමග අත් අඩංගුවට ගැනිමට හැකිව තිබුනී.
-
-මෙලෙස අත් අඩංගුවට ගෙන ඇත්තේ මෙරටට රැගෙන ඒම තහනම් එන්ජීන් ධාරීතාවය 800 හා  400 යුත් යතුරු පැදි හතරක්  හා කිසිදු නිත්‍යානුකුල ලියවිලි නොමැතිව සගවා තිබු 250 ධාරිතාවයකින් යුතු යතුරුයක්   බව කියයි.
-
-අදාල යතුරු පැදි සමග අවුරුදු 50,45, හා 20 සිමා වල සැකකරුවන් සිව් දෙනෙකු මෙලෙස අත් අඩංගුවට ගත් බව වැටලිම් සදහා එක්වු පුත්තලම පොලිස් විශේෂ කාර්ය බලකා කදවුර නිළධාරීන් හා  කල්පිටිය පොලිසිය කියයි.
-
-ලැබුන තොරතුරක් මත මෙම වැටලිම කර තිබු අතර අදාල යතුරු පැදි වලින් එන්ජීන් ධාරීතාවය  800,400, 250 , යතුරු පැදි මුහුදු මාර්ගයෙන් මෙරටට රැගෙන ආ ඒවා බවට අත් අඩංගුවට ගත් සැකකරුවන් පවසා තිබේ.
-
-මෙම යතුරු පැදි අත් නිවෙස් වල සගවා තබා තිබු බවත් ඇතැම් යතුරු පැදි රාත්‍රි කාලයෙ රහසේ ධාවනය කර ඇති බවද පරික්ෂණ වලදි හෙලිව තිබේ.
-
-...
-
-[Data](articles/d72e8c4e.json)
-
----
-
-### විනාශ කිරීමට ගිය මත්පැන් බෝතල් ඇතුළේ වෙනත් ද්‍රාවණයක්
-
-*2025-07-19 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212410) · `si`
-
-බම්බලපිටිය රාත්‍රී සමාජ ශාලාවකින් පොලිස් භාරයට ගත් මත්පැන් බෝතල් තොගයක මත්පැන් වෙනුවට ආදේශක ද්‍රව්‍යයක් තිබීම සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය පොලීසියට නියෝග කර තිබේ.
-
-ඒ අනුව අදාළ මත්පැන් රජයේ රස පරීක්ෂකවරයා වෙත යොමු කිරීමට පියවර ගැනුණි.
-
-බම්බලපිටිය රාත්‍රී සමාජ ශාලාවක තිබී පොලිස් භාරයට ගත් මෙම මත්පැන් බෝතල් තොගය පසුගිය පෙබරවාරි මාසයේදී විනාශ කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබුණි.
-
-අදාළ මත්පැන් තොගය මහේස්‍ත්‍රාත්වරයා ඉදිරියේදී විනාශ කිරීමට සූදානම් වූ අවස්ථාවේ සිදුකළ පරීක්ෂා කිරීමකදී අනාවරණ වී ඇත්තේ, බෝතල් කිහිපයක මත්පැන් වෙනුවට ආදේශක ද්‍රව්‍යයක් යොදා ඇති බවය.
-
-ඒ අනුව ඒවා විනාශ කිරීම නවත්වා ඒවා නඩු භාණ්ඩ කාමරයේ ගබඩා කර කෙසෙල්වත්ත පොලීසියට පැමිණිල්ලක් ගොනුකර තිබුණි.
-
-අනතුරුව ඒ පිළිබඳව විමර්ශන කොළඹ අපරාධ කොට්ඨාසයට පැවරී ඇති අතර අදාළ මත්පැන් බෝතල් සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකිරීම සඳහා ඒවා රස පරීක්ෂකවරයා වෙත යොමුකළ යුතු බවට අදාළ කොට්ඨාසය ඊයේ කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරියගෙන් ඉල්ලීමක් කළේය.
-
-...
-
-[Data](articles/00153fed.json)
-
----
-
-### දික්ඔය නගරාධිපතිගේ යෝජනාවට ආණ්ඩුවේ මෙන්ම විපක්ෂයේ විරෝධය
-
-*2025-07-19 13:35:12* · [`adalk`](https://www.ada.lk/breaking_news/දික්ඔය-නගරාධිපතිගේ-යෝජනාවට-ආණ්ඩුවේ-මෙන්ම-විපක්ෂයේ-විරෝධය/11-417384) · `si`
-
-හැටන් දික්ඔය නගර සභාවේ පළමු මාසික සභා රැස්වීම එම සභාවේ සභාපති ජාතික ජන බලවේගයේ අසෝක කරුණාරත්න මහතාගේ ප්‍රධානත්වයෙන් (18) දින එම නගර සභා රැස්වීම් ශාලාවේදි පැවැත්විණ.
-
-මෙහිදි එම සභාවේ සභාපතිවරයා සභාවට යෝජනාවක් ඉදිරිපත් කරමින් කියා සිටියේ සභාපතිවරයාට ක්ෂණිකව වැය කල හැකි මුදල රු.10000ක් බවත්, එය ප්‍රමාණවත්  නොවන නිසා එම මුදල වැඩි කර දෙන ලෙසට සභාවෙන් ඉල්ලීමක් සිදු කෙරිණ.
-
-එහිදි එම යෝජනාව සම්බන්ධයෙන් කරුණු දැක්වු සමගි ජන බලවේගයේ අලගමුත්තු නන්දකුමාර් මහතා නගර සභවේ ලේකම්වරියගෙන් කරුණු විමසමින් අසා සිටියේ සභාවේ මුදල් රෙගුලාසි අනුව සභාපතිවරාට ක්ෂණිකව වියදම් කල හැකි මුදල වැඩි කිරිමට පළාත් පාලන කොමසාරිස්වරියගෙන් අනුමැතියක් හෝ චක්‍රෙල්ඛණයක් ලැබී ඇතිනම් එය සභාවට ඉදිරිපත් කරන ලෙසයි.
-
-මෙහිදි එම සභාවේ වැඩ බලන ලේකම්වරිය සභාව හමුවේ කියා සිටියේ සභාපතිවරයාට ක්ෂණිකව වැයකිරිමට හැකි මුදල අවස්ථානුකූලව වැඩි කරන ලෙසට මධ්‍යම පළාත් පාලන කොමසාරිස්වරියගෙන් වාචික උපදෙස් ලැබී ඇති බවයි.
-
-...
-
-[Data](articles/b8606466.json)
 
 ---

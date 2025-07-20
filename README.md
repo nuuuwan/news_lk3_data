@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 10:12:44**
+As of **2025-07-20 10:38:37**
 
 ## Newspaper Stats
 
-*Scraped **65,613** Articles*
+*Scraped **65,617** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 584
-colombotelegraphcom | 670
+colombotelegraphcom | 671
 bbccomsinhala | 677
 economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,296
+adalk | 6,297
 adaderanalk | 8,014
-tamilmirrorlk | 9,401
+tamilmirrorlk | 9,403
 virakesarilk | 10,918
 adaderanasinhalalk | 11,276
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,613 articles have been extended.
+61,973 (94.4%) of 65,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### புகைப்பிடிப்பதை நிறுத்த விசித்திர முயற்சி
+
+*2025-07-20 10:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/புகைப்பிடிப்பதை-நிறுத்த-விசித்திர-முயற்சி/53-361386) · `ta`
+
+2013 ஆம் ஆண்டில், துருக்கியைச் சேர்ந்த 42 வயது நபர் ஒருவர் 26 ஆண்டுகளாக புகைபிடித்து வருவதாகவும், புகைபிடிப்பதை நிறுத்த பல முயற்சிகள் எடுத்த போதிலும் அவரால் விட் முடியவில்லை.
+
+அதனால் தனது தலையை ஒரு கூண்டில் அடைத்து வைத்தா. அதன் சாவியையும் மனைவியிடம் கொடுத்து சாப்பிடும் நேரத்தில் மட்டுமே கூண்டைத் திறக்குமாறு கேட்டுக் கொண்டார்.
+
+◼️
+
+[Data](articles/daf43f9f.json)
+
+---
+
+### வியட்நாமில் சுற்றுலா படகு கவிழ்ந்து விபத்து: 27 உடல்கள் மீட்பு
+
+*2025-07-20 10:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வியட்நாமில்-சுற்றுலா-படகு-கவிழ்ந்து-விபத்து-27-உடல்கள்-மீட்பு/50-361384) · `ta`
+
+வியட்நாமில் சுற்றுலா படகு கவிழ்ந்த விபத்தில் 27 பேரின் உடல்கள் மீட்கப்பட்டுள்ளன. 12 பேர் உயிருடன் மீட்கப்பட்டுள்ள நிலையில், 14 பேர் மாயமாகி உள்ளதாக தகவல் கிடைத்துள்ளது. இதை அந்த நாட்டின் அரசு செய்தி நிறுவனம் உறுதி செய்துள்ளது.
+
+உலக அளவில் வியட்நாம் சுற்றுலா சார்ந்து பிரபலமான பயண இடங்களில் (டெஸ்டினேஷன்) ஒன்றாக அறியப்படுகிறது. வியட்நாமில் உள்ள பிரபல சுற்றுலா தளங்களில் ஹலாங் பே (Halong Bay) விரிகுடா பகுதி உள்ளது. இந்நிலையில், சனிக்கிழமை (19)அன்று 53 பேருடன் சுற்றுலா படகு ஒன்று கடல் பகுதியில் அந்த நாட்டின் நேரப்படி மதியம் 2 மணிக்கு சென்றது.
+
+அப்போது திடீரென வீசிய சூறைக்காற்று காரணமாக அந்த படகு கவிழ்ந்தது. இதில் படகில் பயணித்தவர்கள் கடலில் விழுந்துள்ளனர். 27 பேரின் உடல்கள் மீட்கப்பட்டுள்ளன. உயிரிழந்தவர்களில் 8 பேர் குழந்தைகள் என தகவல். 14 பேர் மாயமாகி உள்ளனர். அவர்களை தேடும் பணி தீவிரமாக நடைபெற்று வருகிறது. 12 பேர் உயிருடன் மீட்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7082c328.json)
+
+---
 
 ### පොලීසියේ 40%කට බෝ නොවන රෝග - වැඩබලන පොලිස්පති
 
@@ -149,6 +179,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5bfd26cd.json)
+
+---
+
+### සහරාන්ගේ අක්කර 21ක ඉඩමක් වන අලින්ගේ වාස භූමියක් වෙලා
+
+*2025-07-20 08:34:31* · [`adalk`](https://www.ada.lk/breaking_news/සහරාන්ගේ-අක්කර-21ක-ඉඩමක්-වන-අලින්ගේ-වාස-භූමියක්-වෙලා/11-417393) · `si`
+
+පාස්කු ප්‍රහාරයේ මහ මොළකරු වන සහරාන්ට අයත් බව කියන මාතලේ ,මහවෙල පොලිස් වසමෙි කැටවල,හතමුනගාල ප්‍ර දේශයේ පිිහිටි අක්කර 21ක පමණ ඉඩම වන අලින්ගේ වාසභුමියක් කරගෙන තිබෙන බව මාතලේ දිස්ත්‍රික් සමිබන්ධිකරණ කමිටු සභාපති සහ බුද්ධ ශාසන ආගමික හා සංස්කෘතික කටයුතු නියෝජ්‍ය ඇමැති ගමගෙදර දිසානායක මහතා ගේ ප්‍රධානත්වයෙන් පසුගියදා පැවැති මාතලේ දිස්ත්‍රික් සමිබන්ධිකරණ කමිටු රැස්වීමෙිදි අනාවරණය විය.
+
+මාතලේ ප්‍රා දේශීය ලේකම් කාර්යාල රැස්වීමිි ශාලාවේදී මෙම කමිටු රැස්වීම පැවැත්විණි. මේ සම්බන්ධව කරුණු දැක්වු මාතලේ ප්‍රා දේශීය ලේකම් බි.පි.සේනාධිර මහතා කියා සිටියේ මාතලේ නගරයට ආසන්න ගමිමාන වලට කඩා වැදි සිටින වනඅලි මෙම ඉඩම ඔවුන් ගේ වාසභුමියක් කරගෙන සිටින බවය.
+
+සහරාන්ට අයත්  දැනට රජය යටතේ පවතින  මෙම ඉඩමේ සිමා මායිමි වෙන් කරගැනිමට මැණුමි කටයුතු කිරිම පිණිස මිණුම් දෙපාර්තමේන්තුවට දැනුම් දි තිබෙන නමුත් එම කටයුත්ත මෙතෙක් ඉටුවි නොමැති බව ප්‍රා දේශීය ලේකම්වරයා කමිටුවට දැනුම් දුන්නේය .
+
+...
+
+[Data](articles/2b370852.json)
 
 ---
 
@@ -342,7 +388,7 @@ In the 248-seat Upper House, 125 seats--75 in electoral districts and 50 for pro
 
 *2025-07-20 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212425) · `si`
 
-මීමුරේ කරඹගොල්ල ප්‍රදේශයේ ඊයේ (20) පස්වරුවේ වෑන් රථයක් පෙරළීමෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 04 දක්වා ඉහළ ගොස් තිබේ.
+මීමුරේ කරඹගොල්ල ප්‍රදේශයේ ඊයේ (19) පස්වරුවේ වෑන් රථයක් පෙරළීමෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 04 දක්වා ඉහළ ගොස් තිබේ.
 
 මීරිගම ප්‍රදේශයේ පිරිසක් විනෝද චාරිකාවක් සඳහා මී මුරේ ගම්මානයට ගමන් කරන අතරතුර මෙම අනතුරට මුහුණ දී තිබුණි.
 
@@ -511,6 +557,20 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/e6e36139.json)
+
+---
+
+### Documentary On Lasantha Wickrematunge Released
+
+*2025-07-20 04:49:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/documentary-on-lasantha-wickrematunge-released/) · `en`
+
+A documentary on the life and legacy of Lasantha Wickrematunge, the renowned media legend and human rights icon, was released yesterday. The film, directed by K. Sanjeewa, sheds light on Wickrematunge’s courageous journalism and tragic assassination in 2009 that shook the nation.
+
+The documentary on Lasantha Wickrematunge’s life and legacy features insightful interviews with Wickrematunge’s brother, Lal Wickrematunge, his ex wife, Raine Wickrematunge, and Frederica Jansz, who worked closely with him at The Sunday Leader. The documentary explores their experiences and perspectives on Wickrematunge’s courageous work, as well as interviews with politicians who worked closely with Wickrematunge. Jansz’s own narration is a testament to the risks and challenges faced by journalists in Sri Lanka. Interviews with other journalists and politicians provide a well-rounded view of Wickrematunge’s tremendous influence on Sri Lankan media and politics.
+
+...
+
+[Data](articles/0a650291.json)
 
 ---
 
@@ -1735,79 +1795,5 @@ Pakistan shut its airspace for Indian aircraft on April 24 and the tit-for-tat r
 ◼️
 
 [Data](articles/0520bc13.json)
-
----
-
-### Harassment in Sri Lanka public transport has been normalised: UNFPA
-
-*2025-07-19 11:00:00* · [`economynextcom`](https://economynext.com/harassment-in-sri-lanka-public-transport-has-been-normalised-unfpa-231440/) · `en`
-
-ECONOMYNEXT – Harassment in public transportation has been normalised in Sri Lanka, discouraging many victims from reporting incidents, a United Nations Population Fund (UNFPA) analyst said.
-
-“It’s so normalised, that nobody reports, very few reports,” Bimali Amarasekere, National Programme Analyst for Gender at UNFPA Sri Lanka said on a podcast conducted by a private tv channel.
-
-“I shouldn’t say nobody, no, very few report, because we have about 4% to 5% that report to police.”
-
-In 2023, about 300 incidents were reported to police, she said. “But the rest do not. You sometimes may tell a friend.”
-
-According to the findings of a previous study commissioned by the UNFPA Sri Lanka over 90 percent of women using public transport in the island have been subjected to sexual harassment.
-
-...
-
-[Data](articles/c4fa8fea.json)
-
----
-
-### வெள்ளை வேனில் கடத்தல் முயற்சி ; மாணவனின் முறைப்பாடு தொடர்பில் பொலிஸார் விசாரணை!
-
-*2025-07-19 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220368) · `ta`
-
-கொழும்பு - கஹதுடுவ பகுதியில் 15 வயதுடைய பாடசாலை மாணவன் ஒருவன் கடத்தப்பட்ட சம்பவம் சந்தேகத்தை ஏற்படுத்துவதாகவும் இது புணரப்பட்ட செய்தியா என்பது தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகவும் கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
-
-கஹதுடுவ பகுதியில் கடந்த 16ஆம் திகதி பாடசாலை மாணவன் ஒருவன் மேலதிக வகுப்புக்குச் செல்வதற்காக வீlட்டிலிருந்து சைக்கிளில் புறப்பட்டுள்ளார்.
-
-பாடசாலை மாணவன் சுமார் 100 மீற்றர் தூரம் சைக்கிளில் பயணித்துக்கொண்டிருக்கும்போது சைக்கிளின் சங்கிலி  திடீரென அறுந்துள்ளது.
-
-பின்னர்  பாடசாலை மாணவன் சைக்கிளின் சங்கிலியை சரிசெய்துவிட்டு மேலும் சுமார் 700 மீற்றர் பயணித்துக்கொண்டிருக்கும்போது ரப்பர்வத்த பகுதியில் வெள்ளை நிற சிறிய வேன் ஒன்று நிறுத்தப்பட்டிருந்ததைக் கண்டுள்ளார்.
-
-இதனையடுத்து வேனில் இருந்தவர்கள் பாடசாலை மாணவனை சைக்கிளுடன் வேனில் ஏற்றி கடத்திச் சென்றுள்ளனர்.
-
-பின்னர் வேனில் இருந்தவர்கள் பெட்டி கடை ஒன்றை கடந்து செல்லும் போது அப்பகதியில் வேனை நிறுத்தியுள்ள நிலையில், பாடசாலை மாணவன் வேனிலிருந்து வெளியே குதித்து தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/1ea1e6e7.json)
-
----
-
-### கருணாநிதியின் மூத்த மகன் காலமானார்
-
-*2025-07-19 10:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருணாநிதியின்-மூத்த-மகன்-காலமானார்/175-361353) · `ta`
-
-தமிழ்நாட்டின் முன்னாள் முதலமைச்சர் கலைஞர் கருணாநிதியின் மூத்த மகனுமான மு.க. முத்து உடல்நல குறைவால் காலமானதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
-
-◼️
-
-[Data](articles/9a250726.json)
-
----
-
-### ඉන්දියාවට ගුවන් අවකාශය වසාදැමීමේ තීරණය පාකිස්තානය දීර්ඝ කරයි
-
-*2025-07-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212406) · `si`
-
-ඉන්දීය ගුවන්සේවා මගින් ක්‍රියාත්මක කරන ගුවන් ගමන් සඳහා තම ගුවන් අවකාශය වසා දැමීමට පාකිස්තානය ගත් තීරණය තවත් මාසයකින් දීර්ඝ කර තිබේ.
-
-පාකිස්තානු ගුවන්තොටුපොළ අධිකාරිය (PAA) පවසා සිටියේ මෙම තීරණය අගෝස්තු 24 දක්වා බලපැවැත්වෙන බවය.
-
-ඉන්දියානු වේලාවෙන් ප.ව. 3:50ට බලාත්මක වූ මෙම තීරණයත් සමග ඉන්දියානු ගුවන්සේවා මගින් ක්‍රියාත්මක කරන කිසිදු ගුවන් යානයකට, ඉන්දියාවට අයත් හෝ බදු දී ඇති හමුදා සහ සිවිල් ගුවන් යානාවලට පාකිස්තාන ගුවන් අවකාශය භාවිතා කිරීමට අවසර නොමැත.
-
-ඉකුත් අප්‍රේල් 22වනදා පුද්ගලයින් 26 දෙනෙකුට මරු කැඳවූ පහල්ගම් ත්‍රස්ත ප්‍රහාරයෙන් පසුව, පාකිස්තානයට එරෙහිව ඉන්දීය රජය පාකිස්තානු ගුවන්යානාවලට ඉන්දියානු ගුවන් අවකාශය වසා දැමීය.
-
-ඊට ප්‍රතිචාර ලෙස පාකිස්තානය අප්‍රේල් 24 වනදා ඉන්දියානු ගුවන් යානා සඳහා තම ගුවන් අවකාශය වසා දැමීමට කටයුතු කළේය.
-
-◼️
-
-[Data](articles/195dec2e.json)
 
 ---

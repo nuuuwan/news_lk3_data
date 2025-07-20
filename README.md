@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 16:46:41**
+As of **2025-07-20 17:04:35**
 
 ## Newspaper Stats
 
-*Scraped **65,692** Articles*
+*Scraped **65,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,307
-adaderanalk | 8,029
+adalk | 6,308
+adaderanalk | 8,034
 tamilmirrorlk | 9,421
-virakesarilk | 10,934
+virakesarilk | 10,945
 adaderanasinhalalk | 11,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,692 articles have been extended.
+61,973 (94.3%) of 65,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### சிரிய நாடகத்தில் நெதன்யாஹுவின் புதிய பாத்திரம்
+
+*2025-07-20 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/220478) · `ta`
+
+சொந்த நாட்டில் வாழும் த்ரூஷ் சமூகத்தவர்களுக்கு உரிமை வழங்காத இஸ்ரேலியப் பிரதமர், சுவெய்தா மாநிலத்தில் வாழும் த்ருஷ் மக்களைப் பாதுகாப்பதற்காக சிரியத் தலைநகரில் குண்டு போடும் தாற்பர்யம் என்ன?
+
+◼️
+
+[Data](articles/176f0bbb.json)
+
+---
+
+### உக்ரேன் மோதல்: கானல் நீராகும் தீர்வு?
+
+*2025-07-20 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220477) · `ta`
+
+ஆரம்பத்தில் உக்ரேன் ஜனாதிபதி விளாடிமிர் ஸெலென்ஸ்கியின் செயற்பாடுகள் தொடர்பில் கடும் விமர்சனங்களை முன்வைத்து வந்த ட்ரம்ப், தற்போது அதுபோன்ற கடுமையான விமர்சனங்களை ரஷ்யாவை நோக்கியும் முன்வைப்பதை அவதானிக்க முடிகின்றது.
+
+◼️
+
+[Data](articles/4545c7d3.json)
+
+---
+
+### நீதியை வேண்டிநிற்கும் குருக்கள்மடம் படுகொலைகள்
+
+*2025-07-20 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220474) · `ta`
+
+இந்த சம்பவத்தை கண்ணால் கண்டவர்கள், தப்பி வந்தவர், முஸ்லிம் சமூகத்திற்கும் புலிகளுக்கும் இடையில் சமாதானம் பேச முயன்றவர்கள், உயிரிழந்தோரின் குடும்பங்கள், அப்பகுதி தமிழ் மக்கள் என பல சாட்சிகள் உள்ளனர்.
+
+◼️
+
+[Data](articles/b61d1e9d.json)
+
+---
+
+### பலிக்கடா ஆக்கப்படும் பேராயர்?
+
+*2025-07-20 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220473) · `ta`
+
+இந்த விசாரணைகளை முன்னெடுக்கின்ற அதிகாரிகளை பேராயரே நியமிக்க வலியுறுத்தினார் என்று அமைச்சர் பிமல் ரத்நாயக்க கூறியிருப்பது, தேசிய மக்கள் சக்தி அரசாங்கம் சிறுபிள்ளைத்தனமாகவே நடந்து கொள்கிறது என்பதையே காட்டுகிறது.
+
+◼️
+
+[Data](articles/18384fcd.json)
+
+---
+
+### பலத்த காற்று ; 4 பலாக்காய்கள் வீழ்ந்து வீட்டுக் கூரை சேதம்
+
+*2025-07-20 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220460) · `ta`
+
+தலவாக்கலை பொலிஸ் பிரிவுக்குட்பட்ட சென்கிளாயர் குடியிருப்பு தொகுதியில் 4 பலாக்காய்கள் வீழ்ந்து வீட்டுக் கூரை சேதமடைந்த சம்பவம் ஒன்று  சனிக்கிழமை (19) நள்ளிரவு இடம்பெற்றுள்ளது.
+
+வீட்டின் அருகே இருந்த பலா மரத்திலிருந்தே பலாக்காய்கள் விழுந்துள்ளன. தற்போது இப்பிரதேசத்தில் கடுங்காற்றுடன் கூடிய அடைமழை பெய்து வருவதன் காரணமாகவே இச்சம்பவம் நிகழ்ந்துள்ளது.
+
+இதேபோன்றதொரு சம்பவம் கடந்த சில தினங்களுக்கு முன்னரும் இடம்பெற்றுள்ளதாகவும், அப்போதும் தனது வீட்டுக் கூரைக்கு சேதம் ஏற்பட்டதாகவும் பாதிக்கப்பட்டவர் தெரிவித்தார்.
+
+இச்சம்பவம் தொடர்பில் அயலவருக்கும் அரச அதிகாரிகளுக்கும் முறைப்பாடு செய்துள்ளதுடன், தனது வீட்டுக் கூரைக்கு பாதிப்பை ஏற்படுத்தக் கூடிய மரக்கிளைகளை வெட்டி அகற்றுமாறும் கூறியுள்ள போதிலும் அது இன்று வரை அலட்சியமாகவே பார்க்கப்பட்டு வருவதாக பாதிக்கப்பட்டவர்  தனது விசனத்தை வெளியிட்டார்.
+
+எனவே இனிவரும் நாட்களிலாவது தனது வேண்டுகோளை ஏற்று நிறைவேற்றுமாறு கூறி, தற்போது தனது வீட்டுக் கூரைக்கு ஏற்பட்டுள்ள நஷ்ட்டத்திற்கு யார் பொறுப்பேற்பர் என்ற கேள்வியையும் எழுப்பினார்.
+
+◼️
+
+[Data](articles/571ea561.json)
+
+---
 
 ### සෞදියේ 'නිදන කුමරා' වසර 20කට පසු දිවියෙන් සමුගනී
 
@@ -56,6 +124,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### அதிகரிக்கும் குடும்பக்கடன்கள்
+
+*2025-07-20 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220471) · `ta`
+
+ஐக்கிய நாடுகள் அபிவிருத்தித் திட்டம், இலங்கை மத்திய வங்கயின் தரவுகளும் இந்தியா உள்ளிட்ட முன்னுதாரணங்களும் ஒருங்கிணையும் போது, உள்நாட்டில் குடும்பங்கள் கடன்பொறியில் சிக்கும் நிலைமைகளை ஒழிக்க முடியும் என்பதோடு நிலையான நிதி கல்வி மற்றும் விரிவான நிதி விழிப்புணர்வு நடவடிக்கைகள் மூலமாக சமூகப் பாதுகாப்பை உறுதி செய்து கொள்ள முடியும்.
+
+◼️
+
+[Data](articles/1cb45673.json)
+
+---
+
 ### එකලස් කළ වාහනයට මන්ත්‍රී ජගත්ගේ පුතා රිමාන්ඩ්
 
 *2025-07-20 16:04:30* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කළ-වාහනයට-මන්ත්‍රී-ජගත්ගේ-පුතා-රිමාන්ඩ්/11-417407) · `si`
@@ -67,6 +147,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/55cf7e26.json)
+
+---
+
+### Chinese national arrested with smuggled cigarettes in Kollupitiya
+
+*2025-07-20 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110659/chinese-national-arrested-with-smuggled-cigarettes-in-kollupitiya) · `en`
+
+A foreign national who was in possession of 600 sticks of foreign cigarettes, illegally smuggled into the country, has been arrested by the Kollupitiya Police.
+
+Based on a tip-off received by the officers of the Kollupitiya Police, the cigarette stock was discovered during a special raid conducted in the Rotunda Gardens area.
+
+◼️
+
+[Data](articles/b6013f9b.json)
 
 ---
 
@@ -108,6 +202,36 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஆட்சி மாற்ற செயற்பாட்டுக்கு புதிய வியூகம் அமைக்கும் எதிரணி
+
+*2025-07-20 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220467) · `ta`
+
+தேசிய மக்கள் சக்தி அர­சாங்கத் தரப்­பாக செயற்­பட்டு வரும் நிலையில், எதி­ர­ணி­களை ஒன்­றி­ணைத்து எதிர்­கா­லத்தில் புதிய ஆட்­சி­யினை உரு­வாக்­கு­வது தொடர்பில் எடுக்க வேண்­டிய நட­வ­டிக்­கைகள் குறித்து இந்தச் சந்­திப்­பு­களில் ஆரா­யப்­பட்டு வரு­வ­தாக தெரி­கின்­றது.இந்த முயற்­சியில் ஐக்­கிய மக்கள் சக்­தியில் அங்கம் வகிக்கும் பங்­காளிக் கட்­சி­களின் தலை­வர்கள் சிலரும் ஏனைய எதிர்க்­கட்­சி­களை சேர்ந்த சில பிர­தி­நி­தி­களும் ஈடு­பட்­டுள்­ளனர்.
+
+◼️
+
+[Data](articles/aef761a4.json)
+
+---
+
+### Tourist arrivals in July top 98,000
+
+*2025-07-20 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110658/tourist-arrivals-in-july-top-98000) · `en`
+
+A total of 98,765 tourists have arrived in the country thus far in July, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 19,687 tourists have arrived from India which accounts to 19.9%. Furthermore, 10,653 persons from the United Kingdom, 6,276 from China, 5,904 from the Netherlands and 5,565 Australian nationals have also visited Sri Lanka in the month of June.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,266,809 with the release of the latest figures for June.
+
+Among them, 261,681 individuals are from India, 118,555 from the UK and 113,888 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/9fb10a8c.json)
+
+---
+
 ### ”கணவருடன் உடலுறவுக்கு  மறுப்பது சித்ரவதை” :  நீதிமன்றம் பரபரப்பு தீர்ப்பு
 
 *2025-07-20 15:33:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவருடன்-உடலுறவுக்கு-மறுப்பது-சித்ரவதை-நீதிமன்றம்-பரபரப்பு-தீர்ப்பு/175-361414) · `ta`
@@ -121,6 +245,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/78d664f4.json)
+
+---
+
+### உள்நாட்டு போரின் இறுதிப்பகுதியில் இடம்பெற்ற விடயங்களை மாத்திரம் விசாரணை செய்யும் சர்வதேச சமூகத்தின் நோக்கத்தை செம்மணி கேள்விக்குட்படுத்தும் ;இனப்படுகொலை விசாரணை இடம்பெறுவதற்கான சூழலை ஏற்படுத்தும் - கஜேந்திரகுமார் பொன்னம்பலம்
+
+*2025-07-20 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220468) · `ta`
+
+செம்மணியை பிரித்து போர்க்காலத்தில் இடம்பெற்ற விடயங்களை பிரித்துவைப்பது பாதிக்கப்பட்ட மக்களிற்கு மிகப்பெரும் பின்னடைவை ஏற்படுத்தும் என தெரிவித்துள்ள தமிழ்தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் செம்மணி ஜெனீவாவில் இருக்கின்ற சர்வதேச சமூகம் அதனை கொச்சைப்படுத்தி முடக்குகின்ற கடைசிகட்டத்தை மாத்திரம் விசாரிக்க சொல்கின்ற அந்த முயற்சியை கேள்விக்குட்படுத்தி, அது விரும்பியளவிற்கு பின்னிற்கு சென்று மக்களிற்கு நடந்திருக்ககூடிய அநியாயங்களை விசாரிக்ககூடிய காலவரையறையை நீடிக்கவேண்டும் என்ற நிலைமையை உயிர்கொடுக்கின்ற ஒரு சந்தர்ப்பமாகயிருக்கின்றது என தெரிவித்துள்ளார்.
+
+செம்மணி இந்தளவிற்கு வந்திருப்பதன் உடன் வேறு வேறு இடங்களில் மனித புதைகுழிகள் கண்டுபிடிக்கப்பட்டுள்ள நிலையில் இது இனப்படுகொலைக்கான இடம்பெற்றது என்பதற்கான சூழலை மீண்டும் திறக்கவைத்து விசாரணை செய்வதற்குரிய சந்தர்ப்பத்தையும் ஏற்படுத்துகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0e4b0d56.json)
 
 ---
 
@@ -142,6 +280,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### மேல் கொத்மலை நீர்த்தேக்கத்தின் வான் கதவு திறப்பு
+
+*2025-07-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/220465) · `ta`
+
+பெய்து வரும் பலத்த மழைக்கு மத்தியில் மேல் கொத்மலை நீர்த்தேக்கத்தில் ஒரு வான் கதவைத் திறக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+மேல் கொத்மலையின் நீரேந்து பகுதிகளில் தொடர்ந்து பெய்து வரும் கனமழை காரணமாக மேல் கொத்மலை நீர்த்தேக்கத்தின் ஒரு வான் கதவு இன்று ஞாயிற்றுக்கிழமை (20) அதிகாலை முதல் திறக்கப்பட்டுள்ளதாக நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு தெரிவித்துள்ளது.
+
+நீர்த்தேக்கத்தின் ஏனைய வான் கதவுகள் சுயமாகவே திறக்கப்படும் என்று நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு தெரிவித்துள்ளது இதனால்  நீர்த்தேக்க அணையின் கீழ்ப்பகுதியில் உள்ள கொத்மலை ஓயாவின் இருபுறமும் வசிக்கும்  பொதுமக்கள் இது தொடர்பாக விழிப்புடன் இருக்குமாறு அனர்த்த முகாமைத்து பிரிவின் அதிகாரிகள் அறிவுறுத்தியுள்ளனர்.
+
+மேல் கொத்மலை நீர்தேக்க பகுதிகளில் பெய்து வரும் கனமழையால், சென் கிளயார் மற்றும் டெவோன் நீர்வீழ்ச்சிகளில் இருந்து வெளியேறும் நீரும் அதிகரித்துள்ளமை குறிப்பிடதக்கது.
+
+◼️
+
+[Data](articles/37f1ae74.json)
+
+---
+
 ### මන්ත්‍රී ජගත්ගේ පුත් රසික විතාන රිමාන්ඩ්
 
 *2025-07-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212441) · `si`
@@ -155,6 +311,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/48fb12b9.json)
+
+---
+
+### MP Jagath Vithana’s son remanded
+
+*2025-07-20 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110657/mp-jagath-vithanas-son-remanded-) · `en`
+
+The son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit yesterday, has been remanded.
+
+Rasika Withana has been remanded until August 1 by the Matugama Magistrate.
+
+He was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
+
+Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
+
+Acting on intelligence that the vehicle was being driven in Matugama, officers launched a special operation in the area last afternoon. During the operation, the suspect who was driving the jeep was taken into custody along with the vehicle.
+
+Subsequently, Rasika Withana was handed over to the Matugama Police.
+
+...
+
+[Data](articles/6fc0eda3.json)
 
 ---
 
@@ -196,6 +374,54 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### මීමුරේ අනතුරින් මිය ගිය සංඛ්‍යාව හතර දක්වා ඉහළට
+
+*2025-07-20 14:50:23* · [`adalk`](https://www.ada.lk/breaking_news/මීමුරේ-අනතුරින්-මිය-ගිය-සංඛ්‍යාව-හතර-දක්වා-ඉහළට/11-417403) · `si`
+
+හුන්නස්ගිරිය මීමුරේ ප්‍රාද්ශයේදි ඊයේ 19  වන දින සවස වැන් රථයක් පෙරළීමෙන්  සිදු  වු රිය අනතුරින් මිය ගිය සංඛ්‍යාව හතර දක්වා ඉහළ ගොස් ඇති බව පොලීසිය කියයි.
+
+මෙම අනතුරින් මිය ගොස් ඇත්තේ වත්තල හැඳල පදිංචි එන්.ජි.ඉන්ද්‍රරත්ත (33)  මල්කි සුපුන්දිකා ප්‍රනාන්දු  (30)  කඩවත වෑබඩ පදිංචි ඉසුර්න්දි ශසිකලා  පෙරේරා (28)සහ මීරිගම පදිංචි මල්කි අප්සරා ඉලුප්පත  (29)  යන සිව් දෙනායි මෙම සිව් දෙනාගේ මරණ පරීක්ෂණය  මැදදුම්බර තෙල්දෙණිය හදිසි මරණ පරික්ෂක පී.⁣කේ. අබේරත්න මහතා ව්සින් තෙල්දෙණිය රෝහලේදි පැවැත්විණ.
+
+◼️
+
+[Data](articles/00ec0636.json)
+
+---
+
+### Saudi Arabia’s ‘Sleeping Prince’ dies after 20 years in coma
+
+*2025-07-20 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110656/saudi-arabias-sleeping-prince-dies-after-20-years-in-coma) · `en`
+
+Prince Al-Waleed bin Khaled bin Talal Al Saud, widely known as Saudi Arabia’s “Sleeping Prince,” has passed away at the age of 36 after spending nearly two decades in a coma.
+
+His family confirmed his death over the weekend, bringing an emotional end to one of the kingdom’s most heart-rending royal stories.
+
+“With hearts full of faith in Allah’s decree and destiny, and with profound sadness and sorrow, we mourn our beloved son Prince Al-Waleed bin Khaled bin Talal bin Abdulaziz Al Saud — may Allah have mercy on him — who passed away to Allah’s mercy today,” his father, Prince Khaled bin Talal bin Abdulaziz, posted on social media.
+
+Funeral prayers are scheduled to be held on Sunday after the Asr prayer at Imam Turki bin Abdullah Mosque in Riyadh, the family announced.
+
+...
+
+[Data](articles/9cc74713.json)
+
+---
+
+### இராணுவத் தளபதி - கிழக்கு ஆளுநர் சந்திப்பு
+
+*2025-07-20 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220461) · `ta`
+
+திருகோணமலை ஆளுநர் செயலகத்தில் இன்று ஞாயிற்றுக்கிழமை (20) இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கும் இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
+
+திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
+
+கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லேகும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/6e2b5868.json)
+
+---
+
 ### දකුණු කොරියාවේ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 14 දෙනෙකු මරුට
 
 *2025-07-20 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212439) · `si`
@@ -227,6 +453,54 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/46f865a0.json)
+
+---
+
+### தலைவலியாகும் தலையீடு
+
+*2025-07-20 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220462) · `ta`
+
+இலங்கை,  இந்தோ -பசுபிக் மூலோபாயத்துடன் இணைந்து செயல்படுகிறதோ இல்லையோ, அதனை நிராகரிக்காமல் ஒத்திசைந்து செல்கிறது என்பது உண்மை. இவ்வாறான நிலையில் அதனை புறக்கணித்துக் கொண்டு, சீனாவுடன் இணைந்து செல்வது கடினமானது.இந்திய பெருங்கடலில் சீனாவின் கடல்சார் ஆர்வங்களை அல்லது அதன் பலத்தை வலுப்படுத்துவதற்கான திட்டங்களை, இலங்கை ஆதரிக்க வேண்டும் என பெய்ஜிங் எதிர்பார்க்கிறது
+
+◼️
+
+[Data](articles/06f81dfa.json)
+
+---
+
+### ‘’மூடிய மனநிலை’’ இலிருந்து இலங்கை வெளி வரவேண்டும் : இந்தியாவுடனான எட்கா உடன்படிக்கை மிக அவசியம் - ஹர்ஷ டி.சில்வா
+
+*2025-07-20 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220456) · `ta`
+
+இலங்கை உலகத்தில் காணப்படுகின்ற மிகக் கூடிய  மூடிய பொருளாதாரங்களில் ஒன்றாகும். இலங்கை - இந்திய பாலம் அமைத்தால், எமக்கு உலகின் மிக வேகமான வளர்ச்சி அடைந்து கொண்டிருக்கும் நாட்டுக்கான பிரவேசம் கிடைக்கும்.  உலகின் மிக வேகமாக வளர்ச்சி அடையும் பிராந்தியமாக இந்தியாவின் தென்பிராந்தியமே காணப்படுகிறது.
+
+◼️
+
+[Data](articles/dbc86d43.json)
+
+---
+
+### Iranian national arrested at BIA while attempting to flee to Europe using forged British passport
+
+*2025-07-20 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110655/iranian-national-arrested-at-bia-while-attempting-to-flee-to-europe-using-forged-british-passport) · `en`
+
+An Iranian national has been arrested at the Bandaranaike International Airport (BIA) while attempting to illegally flee to Europe via Japan and Turkey using a forged British passport.
+
+The 47-year-old Iranian national has been apprehended last night (19), by officers of the Border Surveillance Unit of the Department of Immigration and Emigration at the BIA.
+
+He had arrived at the BIA at 8:00 p.m. to depart for Narita, Japan.
+
+During his check-in process, officials who became suspicious of the British passport he presented referred him to the officers of the Border Surveillance Unit along with all his documents.
+
+Technical inspections carried out at that point revealed that the passport had been fraudulently altered.
+
+It was also uncovered that he had paid US$ 15,000 to a trafficker in Iran for the forged document.
+
+Further examination of his wallet revealed his genuine Iranian passport and a flight ticket from Narita, Japan to Istanbul, Turkey, which he had concealed.
+
+...
+
+[Data](articles/4988e3d9.json)
 
 ---
 
@@ -317,22 +591,6 @@ The Sigiriya Police are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/aed04165.json)
-
----
-
-### இராணுவத் தளபதி - கிழக்கு ஆளுநர் சந்திப்பு
-
-*2025-07-20 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220461) · `ta`
-
-திருகோணமலை ஆளுநர் செயலகத்தில் இன்று ஞாயிற்றுக்கிழமை (20) இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கும் இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
-
-திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
-
-கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லேகும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/6e2b5868.json)
 
 ---
 
@@ -1455,349 +1713,5 @@ Ukraine’s military said more than 340 explosive and dummy drones and 35 cruise
 ◼️
 
 [Data](articles/9eaf68c3.json)
-
----
-
-### Dr. Nadeesha Chandrasena who won the 2025 WIPO Global Award returns to the island
-
-*2025-07-20 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110639/dr-nadeesha-chandrasena-who-won-the-2025-wipo-global-award-returns-to-the-island) · `en`
-
-Sri Lankan engineer Dr. Nadeesha Chandrasena who won a 2025 WIPO Global Award in the environment category for her innovative stormwater management solution, the ‘Smart Drain’, returned to the island.
-
-She arrived at the Bandaranaike International Airport (BIA) last night.
-
-The award, presented by the World Intellectual Property Organization (WIPO), a United Nations agency that supports the world’s innovators and creators, recognizes inventions that use intellectual property to address global challenges and improve lives.
-
-The awards ceremony was held in Geneva, Switzerland, with 780 institutions from 95 countries participating.
-
-Notably, this is the first time a Sri Lankan has received this prestigious award.
-
-The National Intellectual Property Office of Sri Lanka (NIPO) and Access Engineering PLC, the research facility provider for the ‘Smart Drain’, have also contributed to the success of the project.
-
-...
-
-[Data](articles/fedec2c4.json)
-
----
-
-### සබරගමුව පළාත් අපරාධ කොට්ඨාසය කුරුවිට පොලීසියේ
-
-*2025-07-20 07:56:25* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුව-පළාත්-අපරාධ-කොට්ඨාසය-කුරුවිට-පොලීසියේ/11-417392) · `si`
-
-සබරගමුව පළාත් අපරාධ කොට්ඨාසය කුරුවිට පොලිස් ස්ථාන පරිශ්‍ර යේ විවෘත කරනු ලැබීය. වැඩබලන පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා විසින් මෙම කොට්ඨාසය විවෘත කරනු ලැබීය.
-
-◼️
-
-[Data](articles/05cd2b04.json)
-
----
-
-### නාරම්මල අනතුරකින් සිඟිති දියණියන් දෙදෙනෙකු ඇතුළු 03කට දිවි අහිමිවෙයි
-
-*2025-07-20 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212427) · `si`
-
-මෝටර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ දකුණු පසට ඇදී ගොස් විරුද්ධ දෙසින් පැමිණි බස් රථයක ගැටී සිදුවූ අනතුරකින් රියදුරු සහ කුඩා දැරියන් දෙදෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (19) දහවල් කාලයේදී මෙම අනතුර සිදුව තිබුණේ නාරම්මල පොලිස් වසමේ නාරම්මල ගිරිඋල්ල මාර්ගයේදීය.
-
-මියගිය දැරියන් දෙදෙනා මාස 09 ක් හා මාස 11 වන අතර රියදුරු වයස අවුරුදු 38ක් වූ  දිවුල්ලෑව, මහව ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
-
-අනතුරින් බස් රථයේ රියදුරු, කොන්දොස්තර හා මගියෙකු තුවල ලබා දඹදෙණිය රෝහලේ ප්‍රතිකාර ලබයි.
-
-මේ අතර වැල්ලව පොලිස් වසමේ වාරියපොළ කුඹුක්ගැටේ මාර්ගයේ කපුහේන ප්‍රදේශයේදී කුඹුක්ගැටේ දෙසට ධාවනය වූ ලොරි රථයක් පදික කාන්තාවකගේ ගැටී අනතුරක් සිදුවූ අනතුරකින් එම කානත්ව ජීවිතක්ෂයට පත්ව තිබේ.
-
-එලෙස මියගොස් ඇත්තේ, ගනේවත්ත ප්‍රදේශයේ පදිංචිව සිටි 48 හැවිරිදි කාන්තාවකි.
-
-මේ අතර කෑගල්ල පොලිස් වසමේ කොළඹ - මහනුවර මාර්ගයේ 85 වැනි කිලෝමීටර් කණුව අසලදී මහනුවර දෙසට ධාවනය වූ ලොරි රථයක් ඉදිරියෙන් එම දෙසටම ධාවනය වූ යතුරුපැදියකට ඉස්සර කිරීමට යාමේදී යතුරුපැදියේ ගැටී අනතුරක් සිදුව ඇත.
-
-...
-
-[Data](articles/f25638a6.json)
-
----
-
-### සුහුරු කානු පද්ධතියෙන් ලොවක් ඉදිරියේ ලංකාවේ නම බැබලවූ ආචාර්ය නදීශා දිවයිනට
-
-*2025-07-20 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212426) · `si`
-
-ලෝකයේ පළමු වැනි තට්ටු දෙකේ සුහුරු  කාණුව නැමති නවෝත්පාදන නිර්මාණය කරමින් " 2025 ලෝක බුද්ධිමය දේපළ ගෝලීය සම්මානය හිමි කර ගත් ආචාර්ය නදීශා චන්ද්‍රසේන මහත්මිය ඊයේ (19) දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
-
-වැසි දින වල නගර ආශ්‍රිතව කාණු පද්ධති, ප්ලාස්ටික් සහ පොලිතීන් සිර වීම නිසා නිතර ජල ගැලීම් ඇති ඇතිවන අතර මීට විසඳුමක් ලෙස ඇය විසින් මෙම ස්මාර්ට් කානු පද්ධතිය නිර්මාණය කර තිබුණි.
-
-මෙම ස්මාර්ට් තට්ටු දෙකේ  කාණුව මගින් උඩ තට්ටුවේ ගසා ගෙන යන ප්ලාස්ටික් සහ පොලිතීන් ඉවත් කරන අතර දෙවන තට්ටුව මගින් වැසි වතුර නිදහසේ ගලා ගෙන යාමට අවස්ථාව සළසා දෙනු ලබයි.
-
-එමගින් මෙම ස්මාර්ට් තට්ටු දෙකේ කාණුව ගංවතුර පාලනයට මහත් සේවාවක් ලොව පුරා ඉටු කරනු ඇත.
-
-මෙම සම්මාන උළෙල ලෝක බුද්ධිමය දේපළ සංවිධානය විසින් ජිනීවා නුවර පවත්වා තිබූ අතර මේ සදහා ලෝකයේ රටවල් 95 ක නවෝත්පාදන නිර්මාණ 780 ක් ඉදිරිපත් කර තිබුණි.
-
-...
-
-[Data](articles/69d1bbee.json)
-
----
-
-### Three including two infants die in tragic accident in Narammala
-
-*2025-07-20 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110638/tragic-road-accident-in-narammala-kills-three-including-two-infants-) · `en`
-
-A driver and two infants have died in an accident when a car, which the driver had lost control of, veered to the right side of the road and collided with a bus plying from the opposite direction in Narammala.
-
-The accident occurred yesterday (19) along the Narammala–Giriulla road, within the Narammala police division.
-
-According to police, the two deceased children were aged 9 months and 11 months, and the driver was a 38-year-old resident of Maho.
-
-The driver, conductor, and a passenger of the bus sustained injuries in the accident and are receiving treatment at the Dambadeniya Hospital. Narammala police are conducting further investigations.
-
-◼️
-
-[Data](articles/f24801be.json)
-
----
-
-### Three including two infants die in tragic accident in Narammala
-
-*2025-07-20 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110638/three-including-two-infants-die-in-tragic-accident-in-narammala) · `en`
-
-A driver and two infants have died in an accident when a car, which the driver had lost control of, veered to the right side of the road and collided with a bus plying from the opposite direction in Narammala.
-
-The accident occurred yesterday (19) along the Narammala–Giriulla road, within the Narammala police division.
-
-According to police, the two deceased children were aged 9 months and 11 months, and the driver was a 38-year-old resident of Maho.
-
-The driver, conductor, and a passenger of the bus sustained injuries in the accident and are receiving treatment at the Dambadeniya Hospital. Narammala police are conducting further investigations.
-
-◼️
-
-[Data](articles/ff50636f.json)
-
----
-
-### නාරම්මල අනතුරකින් දැරියන් දෙදෙනෙක් හා රියදුරෙක් මරුට
-
-*2025-07-20 07:46:49* · [`adalk`](https://www.ada.lk/breaking_news/නාරම්මල-අනතුරකින්-දැරියන්-දෙදෙනෙක්-හා-රියදුරෙක්-මරුට/11-417391) · `si`
-
-නාරම්මල  පොලිස් වසමේ ගිරිඋල්ල මාර්ගයේ නාරම්මල දෙසට ධාවනය වූ කාර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ දකුණු පසට ඇදී ගොස් ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි බස් රියග ගැටී මාරක රිය අනතුරක් සිදුව තිබේ.
-
-අනතුරින් කාර් රථයේ රියදුරු, එහි ගමන් කළ කාන්තාවන් දෙදෙනෙක්, පිරිමි පුද්ගලයෙක් හා කුඩා දැරියන් දෙදෙනෙක් තුවාල ලබා දඹදෙණිය රෝහලට හා නාරම්මල රෝහලට ඇතුළත් කර තිබේ.
-
-එහිදී මෝටර් රථයේ රියදුරු හා දැරියන් දෙදෙනා මියගොස් තිබේ. මියගිය දැරියන් දෙදෙනා මාස 9 හා මාස 11ක් වන අතර රියදුරු වයස අවුරුදු 38ක් වන දිවුල්ලෑව, මහව පදිංචිකරුවන් වෙයි. බස් රථයේ රියදුරු හා කොන්දොස්තර හා තවත් මගියෙක් තුවාල ලබා දඹදෙණිය රෝහලට ඇතුළත්ව ප්‍රතිකාර ලබයි. නාරම්මල පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
-
-◼️
-
-[Data](articles/d309a538.json)
-
----
-
-### මීමුරේ දී වෑන් රියක් පෙරළී තුනක් මරුට
-
-*2025-07-20 07:35:22* · [`adalk`](https://www.ada.lk/breaking_news/මීමුරේ-දී-වෑන්-රියක්-පෙරළී-තුනක්-මරුට/11-417390) · `si`
-
-හුන්නස්ගිරිය  මීමුරේ ප්‍රාද්ශයේදි  ඊයේ 19 වන දින සවස සිදුවු  රිය අනතුරකින් කාන්තාවන් දෙදෙනෙකු ඇතුළු ව තිදෙනෙකු මිය ගොස් ඇති අතර තවත් සිව් දෙනෙකු  තෙල්දෙණිය රෝහල වෙත ඇතුලත් කර තිබේ.
-
-මීරිගම ප්‍රදේශයේ සිට මීමුරේ දක්වා විනෝද චාරිකාවක්  ගිය වෑන් රථයක්  මෙලෙස අනතුරට ලක්ව තිබේ   තුවාල ලැබුවන් අතර අවුරුදු පහක කුඩා දැරුවකු සිට්න බව පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/b4497221.json)
-
----
-
-### ஜனாதிபதி மாளிகைகள் மக்கள் நலனுக்காக பயன்படும் – அமைச்சர் இராமலிங்கம் சந்திரசேகர்
-
-*2025-07-20 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220411) · `ta`
-
-கண்டி மற்றும் கொழும்பிலுள்ள ஜனாதிபதி மாளிகைகளைத் தவிர, நாட்டின் ஏனைய அனைத்து ஜனாதிபதி மாளிகைகளும் மக்களின் நலனுக்காக சிறந்த முதலீட்டு திட்டங்களுக்கு பயன்படுத்தப்படவுள்ளன என கடற்றொழில், நீரியல் மற்றும் கடல்வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்துள்ளார்.
-
-அவர் நெடுந்தீவுக்கு அண்மையில் மேற்கொண்ட விஜயத்தின் போது, மக்கள் அமைப்புகள் மற்றும் மீனவ சங்க பிரதிநிதிகளை சந்தித்து அவர்களுடன் கலந்துரையாடும் போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஜனாதிபதிகளுக்குரிய ஓய்வூதியத்தை இரத்து செய்வதற்குரிய சட்டமூலம் வெகுவிரைவில் நிறைவேற்றப்படும்.
-
-தேசிய மக்கள் சக்தி ஆட்சியில் ஊழல்வாதிகளுக்கும் மோசடியாளர்களுக்கும் தப்பிக்க இடமில்லை. சட்டம் தனது பாதையில் செயல்படும்; அரசியல் தலையீடு இருக்காது.
-
-மக்களுக்கு கொடுத்த வாக்குறுதிகள் கட்டம் கட்டமாக நிறைவேற்றப்படும். ஐந்து ஆண்டுகளுக்குள் அனைவருக்கும் நன்மை கிடைக்கும் வகையில் வேலைத்திட்டங்கள் தயாரிக்கப்பட்டுள்ளன என்றார்.
-
-...
-
-[Data](articles/976f6bce.json)
-
----
-
-### එකම අංකය සහිත ත්‍රීරෝද රථ දෙකක් අත්අඩංගුවට
-
-*2025-07-20 07:30:45* · [`adalk`](https://www.ada.lk/breaking_news/එකම-අංකය-සහිත-ත්‍රීරෝද-රථ-දෙකක්-අත්අඩංගුවට/11-417389) · `si`
-
-දීර්ඝ පරීක්ෂණයකින් අනතුරුව එකම අංක තහඩු ඇති කොළ පැහැති ත්‍රීරෝද රථ දෙකක් 19 වෙනිදා අත්අඩංගුවට ගත් බව මනම්පිටිය පොලිසිය කියයි.
-
-මෙම ත්‍රීරෝද රථ දෙකේම වැසි අංකය, වර්ණය, තහඩු අංක සමාන බැවින් මඩකලපුව කිරාන් ප්‍රදේශයේ පුද්ගලයෙකුගේ පැමිණිල්ලක් අනුව ත්‍රිරෝද රථ දෙක අත්අඩංගුවට ගත් බව මනම්පිටිය පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක අසේල සරත් කුමාර මහතා අප කළ විමසීමකදී පැවසීය,
-
-අනාරක්ෂිත දුම්රිය ගේට්ටු මුරකරුවකු ලෙස සේවය කරන තමන් වඩමුනේ ප්‍රදේශයේ පදිංචි පුද්ගලයකු රුපියල් ලක්‍ෂ දහයක මුදලකට ත්‍රීරෝද රථයක් මිලදීගෙන ඇති අතර එහි මුල් අයිතිකරු ත්‍රිරෝදයට අයත් කියවිලි නොමැති බවට පවසා ඇත.
-
-ඒ අනුව කිරාන් ප්‍රදේශයේ පදිංචි පුද්ගලයා අදාල ලියාපදිංචි සහතිකය සකසා ගැනීමට මනම්පිටිය පොලිසියේ පැමිණිල්ලක් සිදුකර ඇති අතර එහි පිටපතක් ලබාගෙන වාලච්චේන ප්‍රාදේශීය ලේකම් කාර්යාලයට ගිය පසු ඒ නමින් තවත් ත්‍රීරෝද රථයක් ලියාපදිංචි වී ඇති බවට දන්වා ඇත.
-
-ඒ අනුව තමන්ගේ ත්‍රිරෝද රථයේ වැසි අංකයෙන් සහ අංක තහඩුව නමින් වත්තේගම ප්‍රදේශයේ පුද්ගලයකු ත්‍රිරෝද රථයක් ලියාපදිංචි කර ඇති බවට පැමිණිකරු නැවත මනම්පිටියේ පොලිසියට දන්වා ඇත.
-
-...
-
-[Data](articles/64727cf7.json)
-
----
-
-### Japan holds Upper House elections in key test for Prime Minister Ishiba
-
-*2025-07-20 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110637/japan-holds-upper-house-elections-in-key-test-for-prime-minister-ishiba) · `en`
-
-Voting began on Sunday morning for an election for Japan’s House of Councillors, the upper chamber of parliament, a poll that could affect the fate of Prime Minister Shigeru Ishiba, who leads a minority government.
-
-The main focus is whether Ishiba’s ruling coalition will keep control of the Upper House after the bloc lost its majority in the House of Representatives, the lower parliamentary chamber, in an election in October.
-
-About 45,000 polling stations across the country opened at 7 a.m. Voting is set to end 8 p.m., except in some areas, with a rough outcome expected to be known late at night.
-
-In the 248-seat Upper House, 125 seats--75 in electoral districts and 50 for proportional representation--are contested in the election, in which 522 candidates--350 in electoral districts and 172 for proportional representation, ran.
-
-...
-
-[Data](articles/f226ebf6.json)
-
----
-
-### මීමුරේදී වෑන් රථයක් පෙරළීමෙන් මිය ගිය ගණන 04ක් දක්වා ඉහළට
-
-*2025-07-20 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212425) · `si`
-
-මීමුරේ කරඹගොල්ල ප්‍රදේශයේ ඊයේ (19) පස්වරුවේ වෑන් රථයක් පෙරළීමෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 04 දක්වා ඉහළ ගොස් තිබේ.
-
-මීරිගම ප්‍රදේශයේ පිරිසක් විනෝද චාරිකාවක් සඳහා මී මුරේ ගම්මානයට ගමන් කරන අතරතුර මෙම අනතුරට මුහුණ දී තිබුණි.
-
-අනතුරට පත් වෑන් රථය අධික බෑවුම් සහිත ප්‍රධාන මාර්ගයකින් ඉහළ වංගුවේ සිට පහළ වංගුව දක්වා මීටර් 30ක් පෙරළී ගොස් යළි ප්‍රධාන මාර්ගය අසළ නැවතී තිබේ.
-
-අනතුරින් මියගිය පුද්ගලයින් අතර කාන්තාවන් තිදෙනෙක් සහ එක් පිරිමි පුද්ගලයෙකු අයත් වේ.
-
-එමෙන්ම තවත් කුඩා දරුවෙකු බරපතළ තුවාල ලබා තෙල්දෙණිය මූලික රෝහලට ඇතුළත් කර තිබුණි.
-
-අනතුර සිදුවූ අවස්ථාවේදී වෑන් රථයේ පුද්ගලයින් 6 දෙනෙකු සිට ඇති අතර ප්‍රදේශවාසීන් එක්ව රථයේ සිටි පුද්ගලයින් මුදවා රෝහල් ගත කිරීමටද පියවර ගැනුණි.
-
-◼️
-
-[Data](articles/0b17cf02.json)
-
----
-
-### Man hacked to death in Hekitta
-
-*2025-07-20 06:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110636/man-hacked-to-death-in-hekitta) · `en`
-
-An individual has been hacked to death with sharp weapons in Hekitta, Wattala last night (19), police stated.
-
-Police stated that the murder took place inside the victim’s two-storied house.
-
-Four individuals wearing facemasks arrived at the victim’s house in a three-wheeler and carried out the killing using sharp weapons, police noted.
-
-At the time of the incident, the victim’s wife and two children were also present in the house.
-
-The deceased is a 43-year-old resident of Colombo 15. It is reported that he had rented a house in the area a few months ago and was living with his wife and two children.
-
-Preliminary police investigations have revealed that the deceased had assisted in a shooting incident in 2023 in Mahabage, in which a person was murdered.
-
-No suspects have been arrested thus far. Further investigations are being conducted by the Wattala Police and the Kelaniya Division Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/87c990d4.json)
-
----
-
-### Meemure accident death toll increases to four
-
-*2025-07-20 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110635/meemure-accident-death-toll-increases-to-four) · `en`
-
-The number of individuals died in yesterday’s Meemure accident has increased to four, police said.
-
-A total of three persons, including two women died after a van veered off the road and toppled down a precipice in the Karambaketiya area of Ududumbara last evening.
-
-A five-year-old child and two others sustained injuries in the accident and were admitted to the Udadumbara and Teldeniya Hospitals for treatment.
-
-Subsequently, another woman succumbed to her injuries while receiving treatment at the hospital.
-
-The deceased have been identified as residents of Kadawatha and Mirigama, aged between 35 and 40 years.
-
-According to reports, six people were travelling in the van from Kadawatha to Meemure at the time of the incident.
-
-According to police one of the deceased women was driving the van when the accident occurred.
-
-◼️
-
-[Data](articles/c385fbce.json)
-
----
-
-### වෙඩිතැබීමකට අනුබල දුන් පුද්ගලයෙකුව තියුණු ආයුධයකින් පහරදී ඝාතනය කෙරේ
-
-*2025-07-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212424) · `si`
-
-වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර දී ඝාතනය කර තිබේ.
-
-පොලිසිය පවසන්නේ ඊයේ (19) රාත්‍රී අදාළ පුද්ගලයාගේ දෙමහල් නිවස තුළ දී එම ඝාතනය සිදුකර ඇති බවයි.
-
-මුහුණු ආවරණය කරගත් පුද්ගලයින් සිව්දෙනෙකු විසින් ත්‍රිරෝද රථයකින් අදාළ පුද්ගලයාගේ නිවසට පැමිණ තියුණු ආයුධවලින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති බව පොලිසිය සඳහන් කළේය.
-
-ඝාතනය සිදුවන අවස්ථාවේ මියගිය පුද්ගලයාගේ බිරිඳ සහ දරුවන් දෙදෙනා ද නිවසේ සිට තිබේ.
-
-මියගොස් ඇත්තේ කොළඹ 15 ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි අයෙකු වන අතර ඔහු මාස කිහිපයකට පෙර එම ප්‍රදේශයේ නිවසක් කුලී පදනම යටතේ ලබාගෙන බිරිඳ සහ දරුවන් දෙදෙනා සමග ජීවත්ව සිට ඇති බව සඳහන්ය.
-
-මියගිය පුද්ගලයා 2023 වර්ෂයේ මහබාගේ ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන් පුද්ගලයෙකු බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-සිද්ධියට සම්බන්ධ සැකකරුවන් කිසිවෙකු අත්අඬංගුවට ගෙන නොමැති අතර වත්තල පොලිස් ස්ථානය මඟින්‍ හා කැලණිය කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් වැඩිදුර විමර්ශන කටයුතු ආරම්භ කොට ඇත.
-
-◼️
-
-[Data](articles/27cdf47e.json)
-
----
-
-### 34 dead after tourist boat capsizes in Vietnam
-
-*2025-07-20 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110634/34-dead-after-tourist-boat-capsizes-in-vietnam) · `en`
-
-At least 34 people have died and several are still missing after a tourist boat capsized in Vietnam during bad weather.
-
-The incident took place in Ha Long Bay, a popular tourist destination in the north of the country.
-
-Most of the passengers were reportedly Vietnamese families visiting from the capital Hanoi.
-
-Heavy rain has been hindering the search for survivors, rescuers say, but so far 11 people have been pulled from the water alive.
-
-The vessel, named Wonder Seas, was carrying 53 people when it capsized after encountering a sudden storm, a statement from the Vietnamese Border Guards and navy said.
-
-An eyewitness told AFP news agency that the sky darkened around 14:00 local time on Saturday (07:00 GMT).
-
-There were “hailstones as big as toes with torrential rain, thunderstorm and lightning”, he said.
-
-A 10-year-old boy was rescued after being trapped in an air pocket in the upturned hull, local media say.
-
-...
-
-[Data](articles/821ad15c.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
-
-*2025-07-20 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212423) · `si`
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (20) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තු සඳහන් කරන්නේ, සබරගමුව පළාතේත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
-
-වයඹ සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇතිවිය හැකියි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් බස්නාහිර, සබරගමුව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/84f4b882.json)
 
 ---

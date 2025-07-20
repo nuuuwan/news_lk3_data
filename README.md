@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 15:05:44**
+As of **2025-07-20 15:18:06**
 
 ## Newspaper Stats
 
-*Scraped **65,679** Articles*
+*Scraped **65,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,303
 adaderanalk | 8,029
-tamilmirrorlk | 9,416
+tamilmirrorlk | 9,418
 virakesarilk | 10,934
-adaderanasinhalalk | 11,286
+adaderanasinhalalk | 11,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,679 articles have been extended.
+61,973 (94.4%) of 65,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### මන්ත්‍රී ජගත්ගේ පුත් රසික විතාන රිමාන්ඩ්
+
+*2025-07-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212441) · `si`
+
+අත්අඩංගුවට ගත් සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතානගේ මහතාගේ පුතු වන රසික විතාන එළැඹෙන මස 01 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මතුගම මහෙස්ත්‍රාත්වරිය නියෝග කර තිබේ.
+
+එහිදී මතුගම මහෙස්ත්‍රාත් අසංකා හෙට්ටියාවත්ත මෙනවිය මෙම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/48fb12b9.json)
+
+---
+
+### තීරු බදු රහිතව ගෙන ආ දුම්වැටි තොගයක් සමඟ විදේශිකයෙකු අත්අඩංගුවට
+
+*2025-07-20 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212440) · `si`
+
+තීරු බදු රහිතව මෙරටට රැගෙන එන ලද දුම්වැටි 600ක් ළඟ තබාගෙන සිටි විදේශිකයෙකු කොල්ලුපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+කොල්ලුපිටිය පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත රොටුන්ඩා උද්‍යානය පෙදෙසේදී සිදු කළ විශේෂ වැටලීමකදී මෙම දුම්වැටි තොගය සොයා ගෙන ඇත.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 40ක් වන චීන ජාතිකයෙකි.
+
+◼️
+
+[Data](articles/360e2cad.json)
+
+---
+
+### தென் கொரியாவில் வெள்ளம் ; 14 பேர் உயிரிழப்பு
+
+*2025-07-20 14:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரியாவில்-வெள்ளம்-14-பேர்-உயிரிழப்பு/50-361410) · `ta`
+
+தென் கொரியாவில் பல நாட்களாக பெய்து வரும் மழையால் ஏற்பட்ட வெள்ளம் மற்றும் நிலச்சரிவுகளில் குறைந்தது 14 பேர் உயிரிழந்துள்ளதாக அந்நாட்டின் பேரிடர் மேலாண்மை அலுவலகம் தெரிவித்துள்ளது.
+
+அவசரகால மீட்புப் பணிகள் தொடர்வதால் இறப்பு எண்ணிக்கை அதிகரிக்கக்கூடும் என்ற அச்சம் உள்ளது, 12 பேர் காணாமல் போயுள்ளதாக கூறப்படுகிறது.
+
+ஞாயிற்றுக்கிழமை நிலச்சரிவால் பாதிக்கப்பட்ட ரிசார்ட் நகரமான கேபியோங்கில் மக்கள் சேதமடைந்த பாலத்தின் வழியாக வெளியேற்ற முகாம்களுக்குச் செல்லும் போது அடர்ந்த சேற்றில் நடந்து செல்வதை காட்சிகள் காட்டுகின்றன.
+
+மேலும் தெற்கே, மத்திய சுங்சியான் பகுதியில் ஏற்பட்ட நிலச்சரிவைத் தொடர்ந்து ஒரு முழு கிராமமும் மண் மற்றும் குப்பைகளால் மூடப்பட்டிருந்தது, சனிக்கிழமை வெளியான வீடியோ காட்சிகள் தெரிவிக்கின்றன.
+
+நாட்டின் தெற்கில் பெரும்பாலான அழிவு ஏற்பட்டுள்ளது, ஆறு பேர் கொல்லப்பட்டனர் மற்றும் சான்சியோங்கில் ஏழு பேர் காணாமல் போயுள்ளனர்.
+
+ஆயிரக்கணக்கான சாலைகள் மற்றும் கட்டிடங்கள் சேதமடைந்து வெள்ளத்தால் மூழ்கியுள்ளன, விவசாய நிலங்கள் சேதமடைந்துள்ளதாகவும், கால்நடைகள் பரவலாக இறந்துள்ளதாகவும் தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/51b8e96d.json)
+
+---
 
 ### දකුණු කොරියාවේ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 14 දෙනෙකු මරුට
 
@@ -51,6 +103,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0e971025.json)
+
+---
+
+### கர்ப்பத்துக்கு யார் அப்பா? படத்துடன் கருவி
+
+*2025-07-20 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கர்ப்பத்துக்கு-யார்-அப்பா-படத்துடன்-கருவி/53-361408) · `ta`
+
+ஒரு பெண் கர்ப்பம் தரித்துவிட்டால் அந்த பெண்ணின் வயிற்றில் வளரும் குழந்தைக்கு யார்? தந்தை என்று படத்துடன் காண்பிக்கும் கருவி வந்திருக்காம் என பதிவிட்டு,  pregnant கருவியில் புகைப்படத்துடன், கூடிய இந்த செய்தி சமூக வலைத்தங்களில் வைரலாகி வருகிறது.
+
+◼️
+
+[Data](articles/46f865a0.json)
 
 ---
 
@@ -1709,77 +1773,5 @@ The Prime Minister Harini Amarasuriya also emphasized that the new education ref
 ◼️
 
 [Data](articles/bda00760.json)
-
----
-
-### Senior DIG Nilantha Jayawardena dismissed from service
-
-*2025-07-19 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110630/senior-dig-nilantha-jayawardena-dismissed-from-service) · `en`
-
-The National Police Commission has decided to remove former State Intelligence Service (SIS) chief, Senior DIG Nilantha Jayawardena, from the Sri Lanka Police service following a disciplinary inquiry into his actions prior to the Easter Sunday bomb attacks.
-
-The former SIS Chief was placed on compulsory leave by the National Police Commission (NPC) in July 2024, pending an internal investigation into allegations of misconduct during his tenure.
-
-According to a formal disciplinary investigation report submitted to the NPC on July 4, 2025, by a three-member tribunal, Nilantha Jayawardena was found guilty of all charges mentioned in the charge sheet.
-
-Accordingly, taking into account the seriousness of the offences, the National Police Commission, which convened on July 17, 2025, officially decided to dismiss Senior DIG Nilantha Jayawardena from service with immediate effect.
-
-Senior DIG Nilantha Jayawardena Dismissed From Service by Dulmini Imalsha on Scribd
-
-...
-
-[Data](articles/8eb4d9ce.json)
-
----
-
-### මන්ත්‍රී ජගත් විතාන මහතාගේ පුතා අත්අඩංගුවට
-
-*2025-07-19 21:28:53* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ජගත්-විතාන-මහතාගේ-පුතා-අත්අඩංගුවට/11-417388) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී ස.ජ.බ. ජගත්විතාන මහතාන  මහතාගේ පුත් රසික විතාන මහතා අද සවස පානදුර වලාන දූෂණ මර්දන ප්‍රහාර ඒකකය විසින් අඩංගුවට ගෙනගෙන ඇත.
-
-රසික විතාන මහතා සන්තකයේ තිබූ land cruiser වර්ගයේ ජීප් රථයක් සමග මතුගම නගරයේදි  19දා සවස අත්අඩංගුවට ගෙන ඇත.
-
-මෙම ජිප් රථය කොටස් එකලස් කළ එකක් බවත් පසුව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවත් මේ වන විට මෙම ජිප් රථය රසික විතාන මහතා සන්තක තිබීම හේතුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.  මේ වන විට මතුගම පොලිසියේ රඳවාගෙන ප්‍රශ්න කරනු ඇත
-
-පා.ම. ජගත් විතාන මහතාගේ පාර්ශවය පවසන්නේ 2024   ඔක්තෝම්බර් 16දින මාසයේ මිලදී ගත් බවත්, එම මිලදී ගන්නා අවස්ථාවේ මූල්‍ය ආයතනයක මූල්‍ය පහසුකමක් තිබූ බවත් එය  ලබාගෙන ඇත්තේ  හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන  මහතාගේ දුව රොෂෙල් ශලනී අබේගුනවර්දන යන අයගෙනී..
-
-...
-
-[Data](articles/526e723d.json)
-
----
-
-### Three dead and 3 injured as van topples down precipice
-
-*2025-07-19 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110629/three-dead-and-3-injured-as-van-topples-down-precipice) · `en`
-
-A total of three persons, including two women, have reportedly died after a van veered off the road and toppled down a precipice in the Karambaketiya area of Ududumbara, Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler said.
-
-Meanwhile, a five-year-old child and two others have sustained injuries in the accident and were admitted to the Udadumbara and Teldeniya Hospitals for treatment.
-
-The deceased have been identified as residents of Kadawatha and Mirigama, aged between 35 and 40 years.
-
-According to reports, six people were travelling in the van from Kadawatha to Meemure at the time of the incident.
-
-The Police Media Spokesperson further stated that one of the deceased women was driving the van when the accident occurred.
-
-◼️
-
-[Data](articles/8025352a.json)
-
----
-
-### ஐக்கிய மக்கள் சக்தி எம்.பியின் மகன் அதிரடி கைது
-
-*2025-07-19 21:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-எம்-பியின்-மகன்-அதிரடி-கைது/175-361372) · `ta`
-
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேவின் மகன் கைது செய்யப்பட்டுள்ளார்.
-
-மத்துகம பகுதியில் வைத்து  பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவினரால் அவர் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/865a8986.json)
 
 ---

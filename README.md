@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 16:05:49**
+As of **2025-07-20 16:21:10**
 
 ## Newspaper Stats
 
-*Scraped **65,688** Articles*
+*Scraped **65,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,304
+adalk | 6,306
 adaderanalk | 8,029
 tamilmirrorlk | 9,421
 virakesarilk | 10,934
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,688 articles have been extended.
+61,973 (94.3%) of 65,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### එකලස් කළ වාහනයට මන්ත්‍රී ජගත්ගේ පුතා රිමාන්ඩ්
+
+*2025-07-20 16:04:30* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කළ-වාහනයට-මන්ත්‍රී-ජගත්ගේ-පුතා-රිමාන්ඩ්/11-417407) · `si`
+
+හිටපු අමාත්‍ය සහ වත්මන් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණියගෙන් මිලදී ගත් ජීප් රථයක් එකලස්කරණ ලද එකක් බවට ලැබුණු තොරතුරක් මත එම ජීප් රථය පරිහරණය කිරීමේ චෝදනාවට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කල පාර්ලිමේන්තු මන්ත්‍රී ජගත් පින්නගොඩ විතාන මහතාගේ පුත් රසික බුද්ධික විතාන මහතාව අගෝස්තු 01 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මතුගම ප්‍රධාන මහේස්ත්‍රාත් ඒ.අයි.හෙට්ටිවත්ත මහත්මිය අද නියෝග කළේය.
+
+හිටපු අමාත්‍ය සහ වත්මන් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණියගෙන් මිලදී ගත් ජීප් රථයක් එකලස්කරණ ලද එකක් බවට ලැබුණු තොරතුරක් මත එම ජීප් රථය පරිහරණය කල පාර්ලිමේන්තු මන්ත්‍රී ජගත් පින්නගොඩ විතාන මහතාගේ පුත් රසික බුද්ධික විතාන මහතාව පසුගිය 19 වනදා වලාන දුෂණ මර්දන ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන මතුගම පොලිසියට බාරදී තිබුණි.
+
+...
+
+[Data](articles/55cf7e26.json)
+
+---
 
 ### எம்.பியின் மகனுக்கு விளக்கமறியல்
 
@@ -313,6 +327,26 @@ The Sigiriya Police are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/d240d0e9.json)
+
+---
+
+### පංති කාමරයක සිසුන් 25 -30ත් අතරට ගෙන ඒම අරමුණයි
+
+*2025-07-20 13:53:51* · [`adalk`](https://www.ada.lk/breaking_news/පංති-කාමරයක-සිසුන්-25--30ත්-අතරට-ගෙන-ඒම-අරමුණයි/11-417401) · `si`
+
+නව අධ්‍යාපන ප්‍රතිසංස්කරණ තුළින් පන්ති කාමරයක සිසුන් ප්‍රමාණය 25ත් 30ත් අතරට ගෙන ඒම අරමුණක් බවත් ගුරුවරුන්ගේ වෘත්තීයභාවය වැඩිකරන්න ඉදිරියේදී කටයුතු කරන බවත් අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මිය ප්‍රකාශ කළාය.
+
+පාසල් පන්ති කාමරයක සිසුන් ප්‍රමාණය 25ක් - 30ක් බවට පත්කිරීම අරමුණක් බවත්, පන්ති කාමරයක ළමුන් 50ක් 60ක් සමඟ ගුණාත්මක අධ්‍යාපනයක් ලබා දීමට නොහැකි බවත් අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.
+
+නව අධ්‍යාපන ප්‍රතිසංස්කරණය සම්බන්ධයෙන් දකුණු පළාතේ අධ්‍යාපන බලධාරීන් දැනුවත් කිරීම වෙනුවෙන් ගාල්ල දක්ශිණපාය ශ්‍රවණාගාරයේ  දී ඊයේ (ජුලි 19 )දින පැවති වැඩසටහනකට එක්වෙමින් අග්‍රාමාත්‍යවරිය මේ බව පවසා සිටියාය.
+
+නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් පළාත් බලධාරීන් දැනුවත් කිරීමේ සිව්වන වැඩසටහන අමතමින් අග්‍රාමාත්‍යවරිය මෙසේද කීය.
+
+"රජයේ ප්‍රතිපත්ති අනුව යමින් විශේෂඥයින් සමග සාකච්ඡා කරලා, විවිධ අංශවල අදහස් ලබාගෙන මේ පිළිබඳ ප්‍රතිපත්ති සම්පාදනය කළේ.
+
+...
+
+[Data](articles/ae69d0e8.json)
 
 ---
 
@@ -1757,31 +1791,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/e6e36139.json)
-
----
-
-### Documentary On Lasantha Wickrematunge Released
-
-*2025-07-20 04:49:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/documentary-on-lasantha-wickrematunge-released/) · `en`
-
-A documentary on the life and legacy of Lasantha Wickrematunge, the renowned media legend and human rights icon, was released yesterday. The film, directed by K. Sanjeewa, sheds light on Wickrematunge’s courageous journalism and tragic assassination in 2009 that shook the nation.
-
-The documentary on Lasantha Wickrematunge’s life and legacy features insightful interviews with Wickrematunge’s brother, Lal Wickrematunge, his ex wife, Raine Wickrematunge, and Frederica Jansz, who worked closely with him at The Sunday Leader. The documentary explores their experiences and perspectives on Wickrematunge’s courageous work, as well as interviews with politicians who worked closely with Wickrematunge. Jansz’s own narration is a testament to the risks and challenges faced by journalists in Sri Lanka. Interviews with other journalists and politicians provide a well-rounded view of Wickrematunge’s tremendous influence on Sri Lankan media and politics.
-
-...
-
-[Data](articles/0a650291.json)
-
----
-
-### Rewriting Sri Lanka’s Constitution: A Path To Discipline & Prosperity
-
-*2025-07-20 03:11:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rewriting-sri-lankas-constitution-a-path-to-discipline-prosperity/) · `en`
-
-A national constitution is more than just a legal document – it is the backbone of a country’s identity, governance, and democratic values. It outlines the principles that guide the state, defines the structure of government, and safeguards the rights of its citizens. In democratic nations, the Constitution ensures that all institutions derive their authority from the people and remain accountable through free and transparent elections and governance. Notably, it can also facilitate the devolution of power, enabling local governments to serve their communities better and uphold the rule of law (1). As Sri Lanka stands at a critical crossroads, revisiting and revising its Constitution is essential to building a more disciplined, fair, and prosperous nation.
-
-...
-
-[Data](articles/936d1a4e.json)
 
 ---

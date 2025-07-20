@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 06:53:00**
+As of **2025-07-20 07:38:36**
 
 ## Newspaper Stats
 
-*Scraped **65,586** Articles*
+*Scraped **65,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,291
-adaderanalk | 8,008
+adaderanalk | 8,012
 tamilmirrorlk | 9,394
 virakesarilk | 10,918
-adaderanasinhalalk | 11,270
+adaderanasinhalalk | 11,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.5%) of 65,586 articles have been extended.
+61,973 (94.5%) of 65,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### Man hacked to death in Hekitta
+
+*2025-07-20 06:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110636/man-hacked-to-death-in-hekitta) · `en`
+
+An individual residing in a two-storied house in Hekitta, Wattala has been hacked to death by four unidentified individuals who arrived in a three-wheeler, police said.
+
+◼️
+
+[Data](articles/87c990d4.json)
+
+---
+
+### Meemure accident death toll increases to four
+
+*2025-07-20 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110635/meemure-accident-death-toll-increases-to-four) · `en`
+
+The number of individuals died in yesterday’s Meemure accident has increased to four, police said.
+
+◼️
+
+[Data](articles/c385fbce.json)
+
+---
+
+### වෙඩිතැබීමකට අනුබල දුන් පුද්ගලයෙකුව තියුණු ආයුධයකින් පහරදී ඝාතනය කෙරේ
+
+*2025-07-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212424) · `si`
+
+වත්තල පොලිස් වසමේ හේකිත්ත ප්‍රදේශයේ දෙමල් නිවසක සිටි පුද්ගලයෙකුට ත්‍රීරෝද රථයකින් පැමිණි නාඳුනන පුද්ගලයින් සිව්දෙනෙකු විසින් තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (19) රාත්‍රී කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, හේකිත්ත, වත්තල ප්‍රදේශයේ පදිංචි 43 හැවිරිදි පුද්ගලයෙකි.
+
+මරකරු මහල් නිවසේ ඉහළ මහලේ කුලී පදනම මත සිට ඇති අතර 2023 වර්ෂයේ මහබාගේ පොලිස් වසමේ සිදු වූ වෙඩි තබා මනුෂ්‍ය ඝාතනයකට ආධාර අනුබලදුන් පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+
+සිද්ධියට සම්බන්ධ සැකකරුවන් කිසිවෙකු අත්අඬංගුවට ගෙන නොමැති අතර වත්තල පොලිස් ස්ථානය මඟින්‍ හා කැලණිය කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් වැඩිදුර විමර්ශන කටයුතු ආරම්භ කොට ඇත.
+
+◼️
+
+[Data](articles/27cdf47e.json)
+
+---
+
+### 34 dead after tourist boat capsizes in Vietnam
+
+*2025-07-20 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110634/34-dead-after-tourist-boat-capsizes-in-vietnam) · `en`
+
+At least 34 people have died and several are still missing after a tourist boat capsized in Vietnam during bad weather.
+
+The incident took place in Ha Long Bay, a popular tourist destination in the north of the country.
+
+Most of the passengers were reportedly Vietnamese families visiting from the capital Hanoi.
+
+Heavy rain has been hindering the search for survivors, rescuers say, but so far 11 people have been pulled from the water alive.
+
+The vessel, named Wonder Seas, was carrying 53 people when it capsized after encountering a sudden storm, a statement from the Vietnamese Border Guards and navy said.
+
+An eyewitness told AFP news agency that the sky darkened around 14:00 local time on Saturday (07:00 GMT).
+
+There were “hailstones as big as toes with torrential rain, thunderstorm and lightning”, he said.
+
+A 10-year-old boy was rescued after being trapped in an air pocket in the upturned hull, local media say.
+
+...
+
+[Data](articles/821ad15c.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
 
@@ -51,6 +121,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/84f4b882.json)
+
+---
+
+### Heavy showers above 75 mm expected in some areas today
+
+*2025-07-20 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110633/heavy-showers-above-75-mm-expected-in-some-areas-today) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (20), the Department of Meteorology said.
+
+Fairly heavy falls above 75 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya, Kandy, Galle and Matara districts, the Met Department added in its daily update.
+
+Several spells of showers may occur in the North-western and Uva provinces and in the Hambantota district as well.
+
+Meanwhile, strong winds of about 50-60kmph can be expected at times over the Western slopes of the central hills and in the Western, Sabaragamuwa, Southern, North-western and North-central provinces. Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island.
+
+The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/ea4987e6.json)
 
 ---
 
@@ -1753,83 +1843,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/039339ca.json)
-
----
-
-### ஆஸ்திரேலியாவில் 12வது உலகத் தமிழ் வம்சாவளி மாநாடு
-
-*2025-07-19 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220363) · `ta`
-
-கடந்த 11 ஆண்டுகளாக உலகத் தமிழர்கள் ஒன்று கூடும் உலகத் தமிழ் வம்சாவளி மாநாடு ஆஸ்திரேலியாவில் சிட்னியில் டிசம்பர் 6 மற்றும் 7ஆம் தேதிகளில் இந்திய அரசு, தமிழக அரசு அனுசரணையுடன் 12 வது உலகத் தமிழ் வம்சாவளி மாநாடு ஆஸ்திரேலியா சிட்னியில் நடைபெற உள்ளது.
-
-காலை 10 மணி முதல் மாலை 4 மணி வரை இரண்டு நாட்கள் நடைபெற உள்ள நிகழ்வில் 50க்கும் மேற்பட்ட நாடுகளில் இருந்து 80க்கும் மேற்பட்ட வர்த்தக சங்கங்கள் பல்வேறு நாடுகளைச் சார்ந்த வர்த்தக ஆணையங்கள் கலந்து கொள்ள உள்ளனர். தமிழக அரசு நிறுவனங்கள் மற்றும் சிறு குறுந்தொழில் நிறுவனங்கள், பெண் தொழில் முனைவோர், தாங்கள் உற்பத்தி செய்யும் பொருட்களை அரங்கம் அமைத்து காட்சிப்படுத்தப்பட உள்ளனர்.
-
-இம்மாநாட்டில் பல்வேறு நாடுகளைச் சேர்ந்த முதலீட்டாளர்கள் கலந்து கொள்ள உள்ளனர். நம் தமிழர்கள் கலை, கலாச்சாரம், பொருளாதாரம் மேம்பாடு, வர்த்தகம் போன்ற துறைகளில் மேம்படவும் எந்த நாட்டில் என்னென்ன தொழில் வாய்ப்புகள் இருக்கின்றன என்பதை அறியும் வகையில் வர்த்தக கண்காட்சி, பிஸ்னஸ் மீட், வர்த்தக கருத்தரங்கம், போன்றவர்களை உள்ளடக்கி இந்நிகழ்வு நடைபெற உள்ளது.
-
-...
-
-[Data](articles/90fcec68.json)
-
----
-
-### Behind Closed Doors: The Politics Of Education Reform
-
-*2025-07-19 01:56:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/behind-closed-doors-the-politics-of-education-reform/) · `en`
-
-Transparency should be a fundamental principle of any governing body. During the election campaign, the now-ruling party strongly criticized the previous government for its lack of transparency and alleged corruption. They pledged that, if elected, they would lead with openness and accountability. Transparency is essential not only to combat corruption and fraud but also to foster active public participation in the democratic process. When a government engages in national policy-making, it must listen to the people and integrate their perspectives into decision-making.
-
-...
-
-[Data](articles/39bd1cbc.json)
-
----
-
-### League One கிண்ணத்தையும் 10 இலட்சம் ரூபாவையும் வெல்லப்போவது யார்? மாவனெல்லை யுனைட்டட் - கிரேட் ஸ்டார் இறுதிப் போட்டி
-
-*2025-07-19 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/220362) · `ta`
-
-இலங்கை கால்பந்தாட்ட சம்மேளனத்தினால் நடத்தப்படும் லீக் 1 (League One) கால்பந்தாட்ட சுற்றுப் போட்டியில் வெற்றிக் கிண்ணத்தையும் 10,000,000 ரூபா பணப்பரிசையும் குறிவைத்து மாவனெல்லை யுனைட்டட் கழகமும் பேருவளை கிரேட் ஸ்டார் கழகமும் இரண்டாம் கட்ட இறுதிப் போட்டியில் மோதவுள்ளன.
-
-கொழும்பு குதிரைப் பந்தயத் திடலில் சில தினங்களுக்கு முன்னர் நடைபெற்ற முதலாம் கட்ட இறுதிப் போட்டியில் கிரேட் ஸ்டார் கழகத்தை 1 - 0 என்ற கோல் வித்தியாசத்தில் மாவனெல்லை யனைட்டட் கழகம் வெற்றி பெற்ற நிலையில் தீர்மானம் மிக்க இரண்டாம் கட்ட இறுதிப் போட்டி இதே மைதானத்தில் சனிக்கிழமை (19) நடைபெறவுள்ளது.
-
-இரண்டாம் கட்ட இறுதிப் போட்டி முடிவில் ஒட்டுமொத்த கோல் நிலையில் முன்னிலையில் இருக்கும் அணி சம்பியனாகும்.
-
-மாவனெல்லை யுனைட்டட் கழகம் சம்பியனாவதற்கு அக் கழகத்திற்கு வெற்றிதொல்வியற்ற முடிவே தேவைப்படுகிறது. ஆனால், கிரேட் ஸ்டார் கழகம் சம்பியனாவதற்கு அக் கழகம் 2 கோல்கள் வித்தியாசத்தில் வெற்றிபெறவேண்டும்.
-
-...
-
-[Data](articles/44b406c7.json)
-
----
-
-### வவுனியா - கூமாங்குளத்தில் இடம்பெற்ற வன்முறைச் சம்பவம் தொடர்பில் மேலும் 5 பேர் கைது
-
-*2025-07-19 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/220361) · `ta`
-
-வவுனியா - கூமாங்குளம் பகுதியில் இடம்பெற்ற வன்முறைச் சம்பவம் தொடர்பில் மேலும் 5 பேர் 18ஆம் திகதி வெள்ளிக்கிழமை கைது செய்யப்பட்டுள்ளதாக வவுனியா பொலிசார் தெரிவித்தனர்.
-
-கடந்த 11 ஆம் திகதி  வெள்ளிக்கிழமை இரவு வவுனியா, கூமாங்குளம் பகுதியில் மோட்டர் சைக்கிளில் சென்ற நபர் ஒருவர் வீதியில் விழுந்து மரணமடைந்திருந்தார். இதன்போது அப் பகுதியில் பயணித்த போக்குவரத்து பொலிசாரே குறித்த மரணத்திற்கு காரணம் என தெரிவித்த ஒரு குழுவினர் குழப்பத்தில் ஈடுபட்டதுடன், பொலிசார் மீதும் தாக்குதல் மேற்கொண்டனர்.
-
-மரணம் தொடர்பில் விசாரணை செய்ய சென்ற பொலிசார் மீது அப் பகுதியில் குழுமி இருந்தவர்கள் தாக்குதல் நடத்தியதாகவும், அதில் 5 பொலிசார் காயமடைந்ததுடன், பொலிசாரின் இரு மோட்டர் சைக்கிள்கள் மற்றும் கப் ரக வாகனம் ஒன்றும் சேதமாக்கப்பட்டது.
-
-இச் சம்பவத்திலா அரச சொத்துக்களை சேதப்படுத்தியமை, மக்களை ஒன்று கூட்டியமை, பொலிசாரின் கடமைக்கு இடையூறை ஏற்படுத்தியமை, இறப்புக்கு காரணமாக இருந்தமை உள்ளிடட பல்வேறு குற்றச்சாட்டுக்களின் கீழ் இருவர் கடந்த திங்கட்கிழமை கைது செய்யப்பட்டனர்.
-
-...
-
-[Data](articles/e9ee1ab8.json)
-
----
-
-### தென்மேற்கு பருவமழை தீவிரம் : பல மாகாணங்களுக்கு புயல் எச்சரிக்கை
-
-*2025-07-19 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220360) · `ta`
-
-தென்மேற்கு பருவமழையின் தாக்கம் தீவிரமாகும் காரணத்தால், மேற்கு, சப்ரகமுவ, மத்திய, தெற்கு, வடமேற்கு மற்றும் வடமத்திய மாகாணங்களில் மணிக்கு 50 முதல் 60 கிலோமீட்டர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என எதிர்பார்க்கப்படுகிறது.
-
-அதேவேளை, நாட்டின் பிற பகுதிகளிலும், மணிக்கு 30 முதல் 40 கிலோமீட்டர் வேகத்தில் காற்று வீச வாய்ப்பு உள்ளதாகவும் அறிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d951bb2a.json)
 
 ---

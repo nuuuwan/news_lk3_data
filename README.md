@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 04:47:42**
+As of **2025-07-21 05:06:00**
 
 ## Newspaper Stats
 
-*Scraped **65,771** Articles*
+*Scraped **65,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,017
 economynextcom | 4,019
-dailyftlk | 4,660
+dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,312
 adaderanalk | 8,040
@@ -26,11 +26,33 @@ adaderanasinhalalk | 11,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,771 articles have been extended.
+61,973 (94.2%) of 65,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### Mujibur demands removal of Deputy Minister Jayasekara over Easter Sunday attack allegations
+
+*2025-07-21 04:36:53* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-demands-removal-of-Deputy-Minister-Jayasekara-over-Easter-Sunday-attack-allegations/56-779255) · `en`
+
+Questions impartiality of Easter Sunday attack probe while Aruna Jayasekara remains in office
+
+Cites Jayasekara’s recent admission in Parliament of intelligence involvement in bombings
+
+Warns Jayasekara’s role undermines President Disanayake’s efforts to deliver justice
+
+Says no official will investigate properly if their superior is implicated in case
+
+The main opposition party, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday called for the immediate removal of Defence Deputy Minister Major General (Retd.) Aruna Jayasekara, raising serious concern over the credibility of ongoing investigation into the 2019 Easter Sunday attacks.
+
+Addressing the media, he asserted that no probe into the devastating bombings could be deemed impartial as long as Jayasekara remains in office, given his position during the time of the attacks and his subsequent political appointment under the new Government.
+
+...
+
+[Data](articles/04043b94.json)
+
+---
 
 ### Catholic Church welcomes sacking of ex-SDIG Nilantha Jayawardena
 
@@ -1751,23 +1773,5 @@ The fishermen on the third boat reached the shore at the Muthupanthiya fishing v
 ...
 
 [Data](articles/0df9211d.json)
-
----
-
-### மொரவெவ பொலிஸ் பிரிவில் முச்சக்கர வண்டி விபத்து ; இருவருக்கு காயம்
-
-*2025-07-20 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220452) · `ta`
-
-மொரவெவ பொலிஸ் பிரிவில், திருகோணமலை -ஹொரவ்பொத்தானை பிரதான வீதியில் மிரிஸ்வெவ பகுதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-யாழ்ப்பாணத்திலிருந்து திருகோணமலை நோக்கி முச்சக்கர வண்டியில் பயணித்த சாரதி உட்பட   தாய் மற்றும் இரண்டு  பிள்ளைகள்  பயணித்துள்ள நிலையில், முச்சக்கர வண்டி வீதியை விட்டு விலகி மின்கம்பத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் இதன் போது இருவருக்கு காயம் ஏற்பட்டுள்ளதாகவும் தெரிய வந்துள்ளது.
-
-பலத்த காயமடைந்த இருவரும் மஹதிவுல்வெவ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு  மேலதிக சிகிச்சைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தெரியவந்துள்ளது.
-
-தூக்க கலக்கமே விபத்துக்கான காரணம் எனவும், விபத்து தொடர்பிலான விசாரணைகளை மேற்கொண்டு வருவதாகவும் மொரவெவ பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/f8073361.json)
 
 ---

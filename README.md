@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 18:29:48**
+As of **2025-07-20 18:56:06**
 
 ## Newspaper Stats
 
-*Scraped **65,719** Articles*
+*Scraped **65,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,309
+adalk | 6,310
 adaderanalk | 8,035
 tamilmirrorlk | 9,423
 virakesarilk | 10,948
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,719 articles have been extended.
+61,973 (94.3%) of 65,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -407,6 +407,22 @@ Among them, 261,681 individuals are from India, 118,555 from the UK and 113,888 
 ...
 
 [Data](articles/0e4b0d56.json)
+
+---
+
+### අපිට ඩඩ්ලි එක්ක ප්‍රශ්නයක් තියෙනවා
+
+*2025-07-20 15:22:02* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ඩඩ්ලි-එක්ක-ප්‍රශ්නයක්-තියෙනවා/11-417405) · `si`
+
+වැව් රක්ෂිත හා වැව් තාවුලුවල කවුරු හෝ ඉන්නවා නම් ඔවුන් අයින් කරන්න පෙර ඉන්  ඉවත්ව යන ලෙසත් වැව් රක්ෂිතවල ඉදිකර තිබෙන හෝටල්   චන්ද්‍රසේනගේද,ඩඩ්ලි සිරිසේනගේද යන්න තමන්ට එය අදාල නොවන බව කෘෂිකර්ම,වාරිමාර්ග,ඉඩම් හා පසු සම්පත් අමාත්‍ය කේ.ඩී.ලාල් කාන්ත මහතා තඹුත්තේගමදී පැවසීය.
+
+පෙරටුගාමී පක්ෂයේ දේශපාලන මණ්ඩල සභික ඉන්ද්‍රානන්ද සිල්වා මහතා මීට පෙර මාධ්‍යයට ප්‍රකාශ කර තිබුණේ පොළොන්නරුවේ වැව් රක්ෂිතයේ ඩඩ්ලි සිරිසේන මහතාගේ හෝටලයක් ඉදිකර තිබෙන බවත් එය ඉවත් කිරීමට ආණ්ඩුව කටයුතු නොකරන බවයි.
+
+සමහරු අහනවා පොළොන්නරුවේ වැව් රක්ෂිතයක තියනවලු ඩඩ්ලිගේ හෝටලයක්, ඒක රක්ෂිතවල තියෙන හෝටල් ,ගොඩනැගිලි ,ඉවත් කිරීමේ ලැයිස්තුවට මේ වතාවෙ දාලා නෑලු කියලා.ඉතින් ඕන කෙනෙක් ඕන දෙයක් කියා ගත්තාවේ.වාරිමාර්ග දෙපාර්තමේන්තුවේ අපි තෝරා ගත්ත ක්‍රමවේදයක් තියෙනවා, මේ වසරේ ලැබුණු මුදල් ප්‍රමාණයට අදාලව.අපි අදියරෙන් අදියරට මේ වැඩසටහන ඉදිරියට අරගෙන යනවා.මේ වසරේ ලංකාව පුරා තියෙන වැව්  රක්ෂිතවල ඉදිකිරීම් ඔක්කොම ඉවත් වෙන්නේ නැහැ.මොකද රක්ෂිත මායිම් කරන්න,ඒ වැඩේට මේ වසරේ තියෙන්නේ මිලියන සීයක මුදලක්.ඒ මිලියන සීයෙන් ඔක්කොම කරන්න බැහැ.
+
+...
+
+[Data](articles/0fa81e9e.json)
 
 ---
 
@@ -1715,21 +1731,5 @@ Acting IGP Weerasooriya stated, “If you look at the condition of police office
 ◼️
 
 [Data](articles/c5d027bb.json)
-
----
-
-### Govt plans to triple daily fresh milk procurement by 2029: Dy Minister
-
-*2025-07-20 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110642/govt-plans-to-triple-daily-fresh-milk-procurement-by-2029-dy-minister-) · `en`
-
-The government is hoping to increase the amount of fresh milk collected from farmers to 3 million liters per day by 2029, up from 1 million liters in 2025, states Deputy Minister of Agriculture and Livestock Namal Karunaratne.
-
-Deputy Minister Namal Karunaratne addressing an event said the government will establish a dairy collection centers in every veterinary division across the country to help achieve this goal.
-
-The Deputy Minister added that dairy farmers will receive both financial and technical support through these new collection points.
-
-◼️
-
-[Data](articles/96ccdb9f.json)
 
 ---

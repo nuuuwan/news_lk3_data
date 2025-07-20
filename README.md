@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 14:33:52**
+As of **2025-07-20 14:47:48**
 
 ## Newspaper Stats
 
-*Scraped **65,676** Articles*
+*Scraped **65,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,303
 adaderanalk | 8,029
-tamilmirrorlk | 9,414
+tamilmirrorlk | 9,416
 virakesarilk | 10,934
 adaderanasinhalalk | 11,285
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 11,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,676 articles have been extended.
+61,973 (94.4%) of 65,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### இராணுவத் தளபதிக்கும் கிழக்கு ஆளுனர்க்கும் இடையே சந்திப்பு
+
+*2025-07-20 14:27:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்-தளபதிக்கும்-கிழக்கு-ஆளுனர்க்கும்-இடையே-சந்திப்பு/175-361407) · `ta`
+
+திருகோணமலை ஆளுநர் செயலகத்தில் ஞாயிற்றுக்கிழமை (20) அன்று இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கு இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
+
+திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
+
+கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லே கும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோர் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/6ced49eb.json)
+
+---
+
+### கர்ப்பத்துக்கு யார் அப்பா? படத்துடன் கருவி
+
+*2025-07-20 14:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கர்ப்பத்துக்கு-யார்-அப்பா-படத்துடன்-கருவி/53-361406) · `ta`
+
+ஒரு பெண் கர்ப்பம் தரித்துவிட்டால் அந்த பெண்ணின் வயிற்றில் வளரும் குழந்தைக்கு யார்? தந்தை என்று சொல்லுற கருவி வந்திருக்காம் என பதிவிட்டு,  pregnant கருவியில் புகைப்படத்துடன், கூடிய இந்த செய்தி சமூக வலைத்தங்களில் வைரலாகி வருகிறது. எனினும், அவ்வாறானதொரு கருவி கண்டுப்பிடிக்கப்படவில்லை என்பது தெரிந்ததே.
+
+◼️
+
+[Data](articles/c96af398.json)
+
+---
 
 ### Suspect arrested with 2,828kg of smuggled dried ginger in Norochcholai
 
@@ -1747,43 +1775,5 @@ The Police Media Spokesperson further stated that one of the deceased women was 
 ◼️
 
 [Data](articles/6f2bff87.json)
-
----
-
-### ஹட்டனில்  மண்மேடு சரிந்து விழுந்தது
-
-*2025-07-19 20:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-மண்மேடு-சரிந்து-விழுந்தது/76-361370) · `ta`
-
-கடும் மழையுடனான வானிலை காரணமாக ஹட்டன் - சமனலகம பகுதியிலுள்ள வீடொன்றின் மீது இன்று அதிகாலை மண்மேடு சரிந்து விழுந்துள்ளது.
-
-மண்மேடு சரிந்து விழுந்ததில் வீட்டின் சுவர்கள் இடிந்து விழுந்து சேதம் ஏற்பட்டுள்ளதாக வீட்டு உரிமையாளர் தெரிவித்தார்.
-
-கடும் மழை காரணமாக பாதுகாப்பான இடத்துக்கு செல்லுமாறு அக்குடும்பத்தினருக்கு ஹட்டன் - டிக்கோயா நகரசபையால் அறிவுறுத்தப்பட்டுள்ளது என தெரிவிக்கப்படுகின்றது.
-
-ஹட்டன், சமனலகல வீடமைப்பு பகுதி மண்சரிவு அபாயமிக்க பகுதியென அடையாளம் காணப்பட்டுள்ளது. இப்பகுதியில் உள்ள சிலருக்கு ஹட்டனில் வேறு  இடங்கள் வழங்கப்பட்டுள்ளன என்பது குறிப்பிடதக்கது. R
-
-◼️
-
-[Data](articles/20831e40.json)
-
----
-
-### Trump sues Wall Street Journal over Epstein report, seeks $10 billion
-
-*2025-07-19 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110628/trump-sues-wall-street-journal-over-epstein-report-seeks-10-billion) · `en`
-
-U.S. President Donald Trump sued the Wall Street Journal and its owners including Rupert Murdoch for at least $10 billion on Friday, over the newspaper’s report that his name was on a 2003 birthday greeting for Jeffrey Epstein that included a sexually suggestive drawing and a reference to secrets they shared.
-
-The lawsuit filed in Miami federal court names Murdoch, Dow Jones, News Corp  and its Chief Executive Robert Thomson, and two Wall Street Journal reporters as defendants, saying they defamed Trump and caused him to suffer “overwhelming” financial and reputational harm.
-
-Epstein, the disgraced financier and sex offender, died by suicide in a New York jail cell in 2019.
-
-His case has generated conspiracy theories that became popular among Trump’s base of supporters who believed the government was covering up Epstein’s ties to the rich and powerful.
-
-Trump has said he parted ways with Epstein before the financier’s legal troubles became public in 2006.
-
-...
-
-[Data](articles/719b68c9.json)
 
 ---

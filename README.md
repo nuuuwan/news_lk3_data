@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 20:18:57**
+As of **2025-07-20 20:31:47**
 
 ## Newspaper Stats
 
-*Scraped **65,735** Articles*
+*Scraped **65,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 4,019
 dailyftlk | 4,648
 dailymirrorlk | 4,733
 adalk | 6,311
-adaderanalk | 8,037
+adaderanalk | 8,038
 tamilmirrorlk | 9,426
 virakesarilk | 10,953
-adaderanasinhalalk | 11,294
+adaderanasinhalalk | 11,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.3%) of 65,735 articles have been extended.
+61,973 (94.3%) of 65,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### කොල්ලුපිටියේ සමාජ ශාලාවක දී ව්‍යර්ථවූ වෙඩිල්ල
+
+*2025-07-20 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212449) · `si`
+
+කොල්ලුපිටිය ප්‍රදේශයේ රාත්‍රී සමාජ ශාලාවකට ඊයේ (19) රාත්‍රියේ යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු සිදුකිරීමට සැලසුම් කළ වෙඩි තැබීමක් ව්‍යර්ථවී තිබේ.
+
+වෙඩි තැබීමට පැමිණි දෙදෙනාගේ ඉලක්කය වී තිබුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර ඝාතනය සම්බන්ධයෙන් මරණ දඬුවම නියමවී සිටින දෙමටගොඩ චමින්ද නමැත්තාගේ සහෝදරයාවන අපරාධ රැසකට සම්බන්ධ දෙමටගොඩ රුවන් නමැත්තාය.
+
+කෙසේවෙතත් දෙමටගොඩ රුවන් නමැත්තා නිතර පැමිණෙන මෙම සමාජ ශාලාවට ඊයේ ඔහුට පැමිණීමට මදක් ප්‍රමාදවී ඇති බව වාර්තා වේ.
+
+දෙමටගොඩ රුවන් පැමිණ ඇත්දැයි බැලීම සඳහා වෙඩික්කරු සමාජ ශාලාවට ඇතුළු වීමට උත්සාහ දරා ඇති අතර එම අවස්ථාවේදී එහි මුරකරු හා වෙඩික්කරු අතර බහින්බස්වීමක් සිදුව තිබේ.
+
+එම අවස්ථාවේදී වෙඩික්කරු ගිනිඅවිය එම ස්ථානයේ දමා පැදිකරු සමඟ පලාගොස් ඇත්තේ යතුරුපැදිය ද එම ස්ථානයේම තිබියදීය.
+
+අදාළ ටී56 ගිනි අවිය සහ යතුරුපැදිය අද පොලිස් භාරයටගත් අතර සිද්ධිය සම්බන්ධයෙන් බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරි රොහාන් ඕලුගල මහතා ප්‍රමුඛ එම කොට්ඨාසය මගින් වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/7d7f3028.json)
+
+---
 
 ### ”ஷானி,ரவி செனவிரத்னவை நியமிக்குமாறு கர்தினால் கோரவில்லை”
 
@@ -79,6 +101,24 @@ KM බාර්සිලෝනා 5 නෞකාවේ මෙලෙස ගින
 ◼️
 
 [Data](articles/48e3f0c8.json)
+
+---
+
+### 3 killed, 150 rescued after passenger ship catches fire in Indonesia
+
+*2025-07-20 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110665/3-killed-150-rescued-after-passenger-ship-catches-fire-in-indonesia) · `en`
+
+At least three people were killed and about 150 others rescued after a passenger ship caught fire in the waters of Indonesia’s North Sulawesi province on Sunday, according to Veri Ariyanto, a senior official at the provincial Search and Rescue Office.
+
+“Three people were killed, and nearly 150 were rescued safely. They were rescued by the joint rescue team and local fishermen’s boats,” he told Xinhua.
+
+The search and rescue operation is still underway. Two ships, several rigid inflatable boats, and other vessels have been deployed, Ariyanto said.
+
+The ship, KM Barcelona 5, caught fire while sailing in the waters off Manado, the capital city of the province, at around 1:00 p.m. local time, Dani Repi, head of the quick reaction team of the provincial Disaster Management and Mitigation Agency, said.
+
+◼️
+
+[Data](articles/43fb8ccb.json)
 
 ---
 
@@ -1725,43 +1765,5 @@ Additionally, due to heavy showers in the area, the water levels of the St. Clai
 ...
 
 [Data](articles/6ba6ee14.json)
-
----
-
-### සුළං සැරයි - කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
-
-*2025-07-20 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212431) · `si`
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත් සඳහා මෙම නිවේදනය බලපැවැත්වේ.
-
-අද (20) පෙ.ව. 10.00ට නිකුත් කරන ලද එම නිවේදනය හෙට (21) පෙ.ව. 10.00 වන තෙක් වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-දිවයින හරහා පවතින සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකියි.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/65ed3efd.json)
-
----
-
-### பருத்தித்துறை வீதியை திறக்கும் கோரிக்கை நிராகரிப்பு
-
-*2025-07-20 10:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறை-வீதியை-திறக்கும்-கோரிக்கை-நிராகரிப்பு/175-361390) · `ta`
-
-நல்லூர் பெருந் திருவிழா காலங்களில் ஆலயத்திற்கு பின்புறம் உள்ள பருத்தித்துறை வீதி மூடப்பட்டு ள்ளதால் சன நெரிசல் ஏற்படுவதாக கடந்த மாநகர சபை அமர்வில் உறுப்பினர்கள் சுட்டிக்காட்டினர்.
-
-இந்நிலையில்   நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந் திருவிழா ஒழுங்கமைப்புகள் தொடர்பான கலந்துரையாடல் சனிக்கிழமை (10)  நடைபெற்றிருந்தது.
-
-இதன்போது யாழ்.மாநகரசபை உறுப்பினர் நிஷாந்தன் உள்ளிட்ட சிலர், மேற்படி வீதியை முழுமையாக அடைக்கவேண்டாம் என்ற கோரிக்கையை முன்வைத்திருந்தனர்.
-
-மேலும் வீதியை மூடுவதால் சன நெரிசல் ஏற்படுவதாகவும் சுட்டிக்காட்டியிருந்தனர். இவ்வாறு நெருக்கடி நிலை உருவானால் ஆலய வளாகத்தில் இருந்து பருத்தித்துறை வீதியில் உள்ள நுழைவாயில் ஊடாக இருந்து மக்களை வெளியேற்ற நடவடிக்கை எடுக்கப்படும் என நல்லூர் ஆலய அறங்காவலர்களால் தெரிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/b7f4ea0f.json)
 
 ---

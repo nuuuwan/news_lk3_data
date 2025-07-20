@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-20 12:36:05**
+As of **2025-07-20 12:47:34**
 
 ## Newspaper Stats
 
-*Scraped **65,652** Articles*
+*Scraped **65,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ economynextcom | 4,016
 islandlk | 4,017
 dailyftlk | 4,648
 dailymirrorlk | 4,733
-adalk | 6,300
-adaderanalk | 8,021
-tamilmirrorlk | 9,412
-virakesarilk | 10,927
+adalk | 6,302
+adaderanalk | 8,022
+tamilmirrorlk | 9,413
+virakesarilk | 10,929
 adaderanasinhalalk | 11,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.4%) of 65,652 articles have been extended.
+61,973 (94.4%) of 65,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-20 (Sunday)
+
+### சீரற்ற வானிலை :  மீனவர்கள் மூவர் மாயம், இருவர் மீட்பு; கடற்றொழிலாளர்களுக்கு அவசர எச்சரிக்கை
+
+*2025-07-20 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220450) · `ta`
+
+தற்போதைய சீரற்ற  வானிலையைக் கருத்தில் கொண்டு, கடலுக்குச் செல்வதை முற்றிலுமாகத் தவிர்க்குமாறு கடற்றொழில் மற்றும் நீரியல் வளத் திணைக்களத்தின் பணிப்பாளர் நாயகம்  சுசந்த கஹவத்த  அனைத்து கடற்றொழில் சமூகத்தினரிடமும் கேட்டுக்கொண்டுள்ளார்.
+
+புத்தளத்திலிருந்து பொத்துவில் வரையான கொழும்பு, காலி மற்றும் அம்பாந்தோட்டை ஊடான கடல் பிராந்தியங்களில் காற்றின் வேகம் மணிக்கு 60-70 கிலோ மீற்றர் வரை அதிகரிக்கக்கூடும் எனவும், கடல் அலைகள் 2.5 முதல் 3 மீற்றர் வரை உயரக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த சூழ்நிலையில் ஏற்கனவே பல துரதிர்ஷ்டவசமான சம்பவங்கள் பதிவாகியுள்ளதாக திரு. கஹவத்த வருத்தத்துடன் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/0023b65d.json)
+
+---
+
+### හලාවතින් මුහුදු ගිය ධීවර යාත්‍රාවක් අතුරුදන්
+
+*2025-07-20 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/හලාවතින්-මුහුදු-ගිය-ධීවර-යාත්‍රාවක්-අතුරුදන්/11-417399) · `si`
+
+හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් ධීවරයින් සමග අතුරුදන් වී තිබේ.
+
+මෙම යාත්‍රාව සමග තවත් යාත්‍රා දෙකක් ගොස් ඇති අතර, එම යාත්‍රා දෙක ගොඩබිමට පැමිණ ඇත.
+
+දැඩි සුළං සහ කුණාටු තත්ත්වය හමුවේ මෙම ධීවරය යාත්‍රාව අතුරුදන්ව ඇති අතර එහි ධීවරයි දෙදෙනෙකු සිට තිබේ.
+
+◼️
+
+[Data](articles/e0ef69b0.json)
+
+---
+
+### 20 ஆண்டுகள் கோமாவில் இருந்த சவுதி இளவரசர் மரணம்
+
+*2025-07-20 12:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/20-ஆண்டுகள்-கோமாவில்-இருந்த-சவுதி-இளவரசர்-மரணம்/50-361402) · `ta`
+
+சவுதி அரேபியாவின் இளவரசர் அல் வாலீத் பின் காலித் பின் தலால் அல் சவுத். சவுதி அரேபியாவை நிறுவிய மன்னர் அப்துல் அஜீசின் தலைமுறையில் வந்த கொள்ளு பேரன் ஆவார்.
+
+இவர் கடந்த 2005-ம் ஆண்டு இங்கிலாந்தின் லண்டனில் ராணுவ கல்லூரியில் படித்து வந்தபோது கார் விபத்தில் சிக்கி கோமா நிலைக்கு சென்றார். அப்போது அவருக்கு வயது 15 ஆகும். கோமா நிலையில் அவர் சவுதி அரேபியா தலைநகர் ரியாத்தில் உள்ள கிங் அப்துல்அஜிஸ் மருத்துவமனையில் பராமரிக்கப்பட்டு வந்தார்.
+
+இதனால் அவர் தூங்கும் இளவரசர் என்று அழைக்கப்பட்டார். இந்த நிலையில் 20 ஆண்டுகளாக கோமாவில் இருந்த இளவரசர் அல் சவுத் சிகிச்சை பலனின்றி உயிரிழந்தார். இதை அவரது தந்தை இளவரசர் காலித் பின் தலால் அல் சவுத் உறுதி செய்துள்ளார்.
+
+இளவரசரின் இறுதிச் சடங்குகள் ரியாத்தில் உள்ள இமாம் துர்கி பின் அப்துல்லா மசூதியில் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. இளவரசர் கோமாவில் இருந்து மீண்டு வர வாய்ப்பு குறைவு என்பதால் வென்டிலேட்டரை அகற்ற அரச குடும்பத்தினரிடம் டாக்டர்கள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/a4ec21af.json)
+
+---
+
+### 'இதுபடுகொலை" காசாவில் உணவுவிநியோகம் இடம்பெறும் பகுதிகளை நோக்கி சென்றுகொண்டிருந்தவர்கள் மீது இஸ்ரேல் தாக்குதல் - 35 பேர் பலி
+
+*2025-07-20 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220449) · `ta`
+
+காசாவில் உணவுவிநியோகம் இடம்பெறும் இரண்டு பகுதிகளில் காத்திருந்த மக்கள் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 38 பேர் கொல்லப்பட்டுள்ளதுடன் 100க்கும் அதிகமானவர்கள் காயமடைந்துள்ளனர்.
+
+அந்த பகுதியி;ல் படுகொலை இடம்பெற்றதாக சம்பவங்களை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளதுடன் மனிதாபிமான பொருட்கள் வழங்கப்படும் பகுதிகளை நோக்கி சென்றுகொண்டிருந்தவர்கள் மீது - அனேகமாக இளையவர்கள் மீது இஸ்ரேலிய படையினர் கண்மூடித்தனமாக துப்பாக்கி பிரயோகத்தில் ஈடுபட்டனர் என தெரிவித்துள்ளனர்.
+
+கான்யூனிசிற்கு கிழக்கே உள்ள உணவு விநியோக மையங்களில் இருந்து இரண்டு கிலோமீற்றர் தொலைவில் உள்ள டெய்னாவில் கொல்லப்பட்டவர்களில் அதிகளவானவர்கள் இஸ்ரேலிய படையினரின் துப்பாக்கி பிரயோகம் காரணமாக கொல்லப்பட்டனர் என காசாவின் சிவில் பாதுகாப்பு அமைப்பின் பேச்சாளர் தெரிவித்துள்ளார்.
+
+காயமடைந்த பலர் ஆபத்தான நிலையில் உள்ளனர் என மருத்துவவட்டாரங்கள் இஸ்ரேலின் ஹெராட்ஸ் செய்தித்தாளிற்கு தெரிவித்துள்ளன.
+
+கொல்லப்பட்டவர்கள் காயமடைந்தவர்களில் அதிகளவானவர்கள் சிறுவர்கள் பதின்மவயதினர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/2f1eabf8.json)
+
+---
+
+### ‘Red’ warning for strong winds up to 60 kmph issued
+
+*2025-07-20 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110647/red-warning-for-strong-winds-up-to-60-kmph-issued) · `en`
+
+A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota.
+
+These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
+
+Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
+
+Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
+
+Naval and fishing communities are strongly advised not to venture into the sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota for the next 24 hours, said the Met. Department.
+
+...
+
+[Data](articles/e140be41.json)
+
+---
 
 ### හලාවත ප්‍රදේශයෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් ධීවරයින් සමග අතුරුදන්
 
@@ -485,6 +575,24 @@ Acting IGP Weerasooriya stated, “If you look at the condition of police office
 ◼️
 
 [Data](articles/7082c328.json)
+
+---
+
+### වමට සිග්නල් දාපු ආණ්ඩුව දැන් යන්නේ දකුණට
+
+*2025-07-20 09:57:12* · [`adalk`](https://www.ada.lk/breaking_news/වමට-සිග්නල්-දාපු-ආණ්ඩුව-දැන්-යන්නේ-දකුණට/11-417395) · `si`
+
+විපක්‍ෂ නායක සජිත් ප්‍රේමදාස මහතා තඹුත්තේගම විශේෂිත ආර්ථික මධ්‍යස්ථානයට 19 දා සවස නිරීක්ෂණ චාරිකාවකට පැමිණේයේය.
+
+ආර්ථික මධ්‍යස්ථානයේ තොග ව්‍යාපාරිකයින් සමග සමග සුවද සාකච්ඡාවක යෙදුණු විපක්ෂ නායකවරයා ආර්ථික මධ්‍යස්ථානයේ ඇති අඩුපාඩු සහ ගොවි ගැටලු ගැන ගැන මාධ්‍ය සාකච්ඡාවක් පැවැත්විය.
+
+ආර්ථික මධ්‍යස්ථාන පෞද්ගලික කරන්නේ යන දේ ගැන අපි දකින්නේ ඇත්ත වශයෙන්ම වර්තමාන රජය මට මතකයි මැතිවරණ වේදිකාවේ වමට සිග්නල් දැම්මේ හැබැයි යන්නේ දකුණටත් එහා ඉතාමත්ම අවිධිමත් ආකාරයට.
+
+අපේ රටේ තියෙන ආර්ථික මධ්‍යස්ථාන දහඅටක් කින් දහතුනක් සක්‍රීව තිබෙනවා ආර්ථික මධ්‍යස්ථාන පුද්ගලික සමාගමකට පැවරීමේ සැලසුම් ආර්ථික මධ්‍යස්ථාන කළමනාකාරීත්වයත් එක්ක සාකච්ඡාවකින් තොරව මේ වගේ දෙයක් ක්‍රියාත්මක කරන්නට අධිෂ්ඨානය කරනවා නම් ව්‍යූහාත්මක වෙනසක් ඇති කරනවනම් ඒ ව්‍යුහාත්මක වෙනසෙන් යම්කිසි ප්‍රතිලාභයක් රටටත් ජනතාවටත් ලැබෙනවාම් ඒ ගැන විග්‍රහ කරන්න ඕන, ඒ ගැන විස්තර එළිදක්වන්නට ඕන, විවෘතව කතා කරන්නට, ඕන ඒකට තමයි වග කීම සහ වග වීම කියලා කියන්නේ.
+
+...
+
+[Data](articles/c7cccbea.json)
 
 ---
 
@@ -1655,105 +1763,5 @@ Held under the theme of “United, Bold, Victorious” the event wasn’t just a
 ...
 
 [Data](articles/473dfbc8.json)
-
----
-
-### சீட் எட்ஜ் திரில்லராக தயாராகி இருக்கும் உதயாவின் 'அக்யூஸ்ட்'
-
-*2025-07-19 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220404) · `ta`
-
-நடிகர்கள் உதயா , அஜ்மல், யோகி பாபு ஆகியோர் கதையை வழிநடத்தி செல்லும் முன்னணி கதாபாத்திரத்தில் நடித்திருக்கும் நடித்திருக்கும் 'அக்யூஸ்ட்' திரைப்படம் சீட் எட்ஜ் திரில்லராக உருவாகி இருக்கிறது என படக்குழுவினர் தெரிவித்துள்ளனர்.
-
-தமிழ் ,கன்னடம், தெலுங்கு, மலையாளம் உள்ளிட்ட தென்னிந்திய மொழிகளில் நானூறுக்கும் மேற்பட்ட பாடல்களுக்கு நடன இயக்குநராக பணியாற்றி, முதன் முதலாக தமிழில் இயக்குநராக அறிமுகமாகும் பிரபு ஸ்ரீநிவாஸ் இயக்கத்தில் உருவாகியுள்ள 'அக்யூஸ்ட்' திரைப்படத்தில் உதயா, அஜ்மல், யோகி பாபு, ஜான்விகா, பிரபாகர், டானி, சுபத்ரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-ஐ. மருதநாயகம் ஒளிப்பதிவு செய்திருக்கும் இந்தத் திரைப்படத்திற்கு நரேன் பாலகுமார் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜேசன் ஸ்டுடியோஸ் , சச்சின் சினிமாஸ்,  ஸ்ரீதயாகரன் சினி புரொடக்ஷன் மற்றும் மை ஸ்டூடியோஸ் ஆகிய நிறுவனங்கள்  இணைந்து தயாரித்திருக்கிறது .
-
-...
-
-[Data](articles/f2eee50b.json)
-
----
-
-### யாதும் அறியான் - திரைப்பட விமர்சனம்
-
-*2025-07-19 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220403) · `ta`
-
-நடிகர்கள் : தினேஷ், பிரானா, ஆனந்த் பாண்டி, ஷியாமள், தம்பி ராமையா, அப்பு குட்டி மற்றும் பலர்.
-
-புதுமுகங்கள் - சிறிய முதலீட்டில் தயாரான படம் - விஜயின் அரசியல் சார்ந்த போஸ்டர் - என எதிர்ப்பார்ப்பை ஏற்படுத்திய 'யாதும் அறியான்' ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
-
-தினேசும்- பிரானாவும் காதலர்கள். தினேஷ் தன் காதலியான பிரானாவுடன்  தனிமையில் உல்லாசமாக இருக்க விரும்புகிறார். அதற்கான முயற்சியும் செய்கிறார். ஆனால் காதலி பிரானா உறுதியாக மறுத்து விடுகிறார். இதை தன் நண்பனான ஆனந்த் பாண்டியிடம் சொல்ல.. ஆனந்த் பாண்டி ஒரு திட்டத்தை தீட்டுகிறார்.
-
-அதன்படி ஆனந்த் பாண்டி -அவரது காதலி சியாமள்-  தினேஷ் -பிரானா - என நான்கு பேரும் காட்டுப்பகுதிக்கு சுற்றுலா செல்கிறார்கள். இதற்காக அந்த அடர்ந்த வனத்தில் இருக்கும் சொகுசு பங்களாவில் தங்குகிறார்கள்.
-
-...
-
-[Data](articles/025f5924.json)
-
----
-
-### Baurs Healthcare marks 80 years of medical excellence and innovation in Lanka
-
-*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/baurs-healthcare-marks-80-years-of-medical-excellence-and-innovation-in-lanka/) · `en`
-
-Baurs Healthcare, the healthcare division of A. Baur & Co. (Pvt) Ltd., widely known as Baurs, a leading conglomerate with diversified business interests in Sri Lanka and a pioneer and innovator in various industry verticals, proudly celebrates its 80th anniversary this year, coinciding with the 128th anniversary of its parent company.
-
-Since its establishment in 1945, Baurs Healthcare has been dedicated to raising the standard of healthcare in Sri Lanka by ensuring access to world-class medicines, medical technologies, diagnostics, surgical equipment, and medical nutrition. The division’s continued commitment to precision, ethics, and Swiss-quality values has laid the foundation for nearly eight decades of excellence. Going beyond, the company’s dedication to the holistic wellbeing of communities aligns business success with societal impact.
-
-...
-
-[Data](articles/b00e9836.json)
-
----
-
-### Ceylinco Life hosts policyholder families to five days in sensational Shanghai
-
-*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/ceylinco-life-hosts-policyholder-families-to-five-days-in-sensational-shanghai/) · `en`
-
-A holiday in Shanghai, one of China’s biggest and most vibrant cities, was the latest reward provided by Ceylinco Life to a group of policyholders under the 18th edition of the company’s Family Savari mega promotion.
-
-The group of 20, made up of five Ceylinco Life policyholders and their family members, spent four nights and five days in Shanghai, and was treated to a full day at Disneyland, in addition to a ride on the Maglev train, the fastest train in the world, visits to Yu Garden, the Jade Temple, Shanghai Tower, a cruise on the Huangpu river, a visit to Zhujiajiao Water Town with a boat cruise, and an acrobatic show.
-
-The group was accompanied by the Family Savari Brand Ambassadors – the popular actor Roshan Ranawana, his wife Kushlani and their son Mineth on this holiday in Shanghai. Ceylinco Life paid for all air tickets, accommodation, meals, land transport and excursions.
-
-...
-
-[Data](articles/c33ed128.json)
-
----
-
-### Grand Kandyan wins big at ‘Culinary Art Competition 2025’
-
-*2025-07-19 16:36:00* · [`islandlk`](http://island.lk/grand-kandyan-wins-big-at-culinary-art-competition-2025/) · `en`
-
-The Grand Kandyan Hotel made an impressive mark at the ‘Culinary Art Competition 2025’, organised by the Chef Guild of Lanka and held at the BMICH from 13 to 15 June. The hotel’s talented culinary team brought home a total of 34 medals—including a mix of Gold, Silver, and Bronze—showcasing their exceptional skills and creativity. Among the top accolades were the ‘Most Outstanding Gold Medal for CBL Apprentice Dessert’ and the title of ‘Most Outstanding Culinary Team – Kandy Region 2025’.
-
-“These achievements reaffirm Grand Kandyan’s reputation for culinary excellence and innovation in the hospitality industry,” said Thusith Samaraweera, General Manager of the hotel.
-
-Ceylinco Life hosts policyholder families to five days in sensational Shanghai
-
-India’s ban on Jane Street raises concerns over regulator role
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/c74fb8fb.json)
-
----
-
-### Foreign Minister meets Indian actor Ravi Mohan to discuss film tourism
-
-*2025-07-19 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110624/foreign-minister-meets-indian-actor-ravi-mohan-to-discuss-film-tourism-) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs, Tourism, and Foreign Employment, Vijitha Herath, has held a meeting with renowned Indian actor and producer Ravi Mohan, also known as Jayam Ravi, along with acclaimed singer Keneesha Francis.
-
-In a post on ‘X’, the minister said they discussed groundbreaking projects in film production and musical concerts.
-
-“These initiatives are set to boost Sri Lanka’s film tourism, promote our rich cultural heritage, and bring captivating stories and electrifying performances to iconic Sri Lankan locations,” Herath stated.
-
-◼️
-
-[Data](articles/c4d15b6b.json)
 
 ---

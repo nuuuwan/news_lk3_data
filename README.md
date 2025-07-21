@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 12:27:25**
+As of **2025-07-21 12:52:11**
 
 ## Newspaper Stats
 
-*Scraped **65,844** Articles*
+*Scraped **65,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,321
 adaderanalk | 8,049
-tamilmirrorlk | 9,448
+tamilmirrorlk | 9,451
 virakesarilk | 10,969
 adaderanasinhalalk | 11,310
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 11,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,844 articles have been extended.
+61,973 (94.1%) of 65,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### டட்லி சிறிசேன ஹோட்டல் விவகாரம்;அமைச்சர் விளக்கம்
+
+*2025-07-21 12:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டட்லி-சிறிசேன-ஹோட்டல்-விவகாரம்-அமைச்சர்-விளக்கம்/175-361457) · `ta`
+
+இந்த ஆண்டு நீர்த்தேக்கங்களில் உள்ள சட்டவிரோத கட்டமைப்புகளை அகற்றும் திட்டத்தில் பராக்கிரம சமுத்திரம் விலக்கப்பட்டதற்கு தொழிலதிபர் டட்லி சிறிசேனவுக்குச் சொந்தமான ஹோட்டல் தான் காரணம் என்ற கூற்றை விவசாயம், கால்நடை, நிலம் மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால் காந்த நிராகரித்துள்ளார்.
+
+ஞாயிற்றுக்கிழமை ஒரு பொது நிகழ்வில் பேசிய லால் காந்த, குற்றச்சாட்டுகள் ஆதாரமற்றவை என்று கூறினார், மேலும் திட்டத்திற்கான நீர்த்தேக்கங்களைத் தேர்ந்தெடுப்பது நீர்ப்பாசனத் துறையால் பயன்படுத்தப்படும் ஒரு குறிப்பிட்ட செயல்முறை மற்றும் வரையறுக்கப்பட்ட அரசாங்க நிதியை அடிப்படையாகக் கொண்டது என்பதை தெளிவுபடுத்தினார்.
+
+"நாங்கள் நேற்றுதான் இந்த திட்டத்தைத் தொடங்கினோம். சட்டவிரோத கட்டுமானங்களைக் கொண்ட பல தொட்டிகள் உள்ளன, நாங்கள் கட்டம் கட்டமாக வேலை செய்கிறோம்," என்று அவர் கூறினார். "இந்த ஆண்டு, எங்களுக்கு ரூ. 100 மில்லியன் ஒதுக்கப்பட்டுள்ளது. அதை வைத்து எல்லாவற்றையும் நாங்கள் ஈடுகட்ட முடியாது."
+
+...
+
+[Data](articles/ceda95fb.json)
+
+---
+
+### காதலனை காப்பாற்ற முயன்ற காதலி மாயம்
+
+*2025-07-21 12:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-காப்பாற்ற-முயன்ற-காதலி-மாயம்/76-361456) · `ta`
+
+மஹியங்கனை 17 ஆம் கட்டை பகுதியில் உள்ள வியானி ஆற்றில் குளித்துக் கொண்டிருந்த காதல் ஜோடியில், காதலன் நீரில் அடித்துச் சென்றதையடுத்து, அவரைக் காப்பாற்ற முயன்ற காதலி நீரில் அடித்துச் சென்று காணாமல் போயுள்ளதாக மஹியங்கனை பொலிஸார் தெரிவித்துள்ளனர். .
+
+இச் சம்பவம் திங்கட்கிழமை (20) அன்று இடம் பெற்றுள்ளதுடன்   காணாமல் போன பெண் வெலிகத்த குடாகம்மன பிரதேசத்தைச் சேர்ந்த  26 வயதுடைய  ரஷ்மி லக்‌ஷிகா மெண்டிஸ்  எனவும் அவர்   ரஜரட்ட பல்கலைக்கழக மாணவி எனவும் தெரியவந்துள்ளது.
+
+குறித்த பெண் கொழும்பில் நடைபெற்ற பட்டமளிப்பு விழாவில் கலந்து கொண்டு மஹியங்கனை வழியாக தனது காதலனுடன் காரில் வீடு திரும்பிய நிலையில் மாலை 5 மணியளவில், 17 ஆம் கட்டை பகுதியில் உள்ள ஆற்றின் அருகே வாகனத்தை நிறுத்தி குளித்துக் கொண்டிருந்தபோது காதலன் நீரில் அடித்துச் சென்றுள்ளார். இந் நிலையில் அவரைக் காப்பாற்ற முயன்ற போது, காதலியும் நீரில் விழுந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது அந்த வழியாக பயணித்த பொலிஸ் அதிகாரியொருவர் உடனடியாக வந்து இளைஞனை நீரிலிருந்து வெளியே எடுத்துள்ளதுடன் நீருக்குள் விழுந்த இளம் பெண் காணாமல் போயுள்ளார்.
+
+...
+
+[Data](articles/587ec8f3.json)
+
+---
+
+### நல்லூர் கொடிச்​சீலைக்கான காளாஞ்சி கையளிப்பு
+
+*2025-07-21 12:18:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/நல்லூர்-கொடிச்-சீலைக்கான-காளாஞ்சி-கையளிப்பு/46-361455) · `ta`
+
+வரலாற்றுச் சிறப்பு மிக்க நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்தப் பெருந்திருவிழாவை முன்னிட்டு கொடிச்சீலை வடிவமைப்பாளர்களிடம் காளாஞ்சி கையளிக்கும் நிகழ்வு, திங்கட்கிழமை(21) காலை இடம்பெற்றது.
+
+வள்ளியம்மை திருக்கல்யாணப் படிப்புடன் பந்தற்கால் நாட்டுதல் நடைபெற்று பாரம்பரிய முறைப்படி கொடிச்சீலை வழங்கும் மரபுடையவர்களிற்கான காளாஞ்சி மாட்டுவண்டில் மூலம் நல்லூரிலிருந்து கல்வியங்காட்டுக்கு எடுத்துச் செல்லப்பட்டு கலாச்சார முறைப்படி பெருந்திருவிழாவுக்கான பத்திரிகையும், காளாஞ்சியும் கையளிக்கப்பட்டன.
+
+ஆலயத்தின் வருடாந்தப் பெருந்திருவிழா இம்மாதம் 29ஆம் திகதி செவ்வாய்க்கிழமை காலை கொடியேற்றத்துடன் ஆரம்பமாகவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6870d8a7.json)
+
+---
 
 ### மஹிந்தானந்த, நளின் பெர்னாண்டோவுக்கு எதிராக மற்றுமொரு குற்றப்பத்திரிகை தாக்கல்
 
@@ -1747,53 +1797,5 @@ This is where India’s rich and powerful have hobnobbed for years, building soc
 ...
 
 [Data](articles/87949a8f.json)
-
----
-
-### Minasro College principal enhances skills through international training
-
-*2025-07-20 18:59:00* · [`islandlk`](http://island.lk/minasro-college-principal-enhances-skills-through-international-training/) · `en`
-
-Pushpa Hettiarachchi, Principal of Minasro College, recently participated in an advanced training programme on Psychology and Counselling at Binary University and Lincoln University College in Malaysia (25–30 June 2025).
-
-The programme focused on improving student mental health support and counselling techniques in educational settings.
-
-Hettiarachchi, who holds a Diploma in Psychology and Counselling from LPEC Campus in collaboration with Binary University, attended the training to strengthen her expertise in student wellbeing. Her participation highlights the growing need for Sri Lankan educators to engage in global learning opportunities, bringing back innovative approaches to local classrooms. The experience is expected to enhance Minasro College’s efforts in integrating emotional wellbeing into everyday education.
-
-...
-
-[Data](articles/584cce3f.json)
-
----
-
-### Vista Solar Energy wins Best Solar Energy Solution Provider of the Year at Asia Miracle Awards 2025
-
-*2025-07-20 18:59:00* · [`islandlk`](http://island.lk/vista-solar-energy-wins-best-solar-energy-solution-provider-of-the-year-at-asia-miracle-awards-2025/) · `en`
-
-Vista Solar Energy, a leader in Sri Lanka’s renewable energy sector, was honoured with the Best Solar Energy Solution Provider of the Year award at the Asia Miracle Awards 2025. The event took place recently at the Taj Samudra Hotel in Colombo. Over the years, Vista Solar Energy has built a strong reputation for making clean energy more accessible to both homes and commercial properties. The company offers a wide range of services designed to help customers transition away from conventional power sources. These include high-efficiency solar panel systems, customised technical support, and emerging technologies like wind energy solutions.
-
-...
-
-[Data](articles/7ea3b845.json)
-
----
-
-### Tokyo Cement Company (Lanka) PLC announces new board appointments
-
-*2025-07-20 18:57:00* · [`islandlk`](http://island.lk/tokyo-cement-company-lanka-plc-announces-new-board-appointments/) · `en`
-
-Tokyo Cement Company (Lanka) PLC has announced the appointment of two new members to its Board of Directors:
-
-1. Jegan Durairatnam – A seasoned banking professional with over 36 years of experience at Commercial Bank of Ceylon PLC, including as its former Managing Director/CEO. He currently serves as the Non-Executive Independent Chairman of DFCC Bank PLC and holds directorships in several leading Sri Lankan companies.
-
-2. Michio Matsuoka – Appointed as Nominee and Non-Executive Director, representing UBE Singapore Pte. Ltd. He succeeds Shuichi Nakamoto and brings extensive international business experience, currently serving as Managing Director of UBE Singapore Pte. Ltd.
-
-The Board welcomes both members and looks forward to their contributions in guiding Tokyo Cement’s strategic growth.
-
-Vista Solar Energy wins Best Solar Energy Solution Provider of the Year at Asia Miracle Awards 2025
-
-...
-
-[Data](articles/8d92af21.json)
 
 ---

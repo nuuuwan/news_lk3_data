@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 12:52:11**
+As of **2025-07-21 13:23:06**
 
 ## Newspaper Stats
 
-*Scraped **65,847** Articles*
+*Scraped **65,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-economynextcom | 4,024
+economynextcom | 4,026
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
@@ -20,17 +20,47 @@ adalk | 6,321
 adaderanalk | 8,049
 tamilmirrorlk | 9,451
 virakesarilk | 10,969
-adaderanasinhalalk | 11,310
+adaderanasinhalalk | 11,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,847 articles have been extended.
+61,973 (94.1%) of 65,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### Sri Lanka begins IMF talks for next review this week: Minister
+
+*2025-07-21 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-imf-talks-for-next-review-this-week-minister-231885/) · `en`
+
+ECONOMYNEXT – Sri Lanka is kicking off talks for the next International Monetary Fund review with a mission in Colombo this week, Labour Minister and Deputy Minister for Economic Development Anil Jayantha Fernando said.
+
+Sri Lanka will discuss the progress achieved so far and the way forward, Minister Fernando said.
+
+Sri Lanka’s next review is due in October 2025 based on end June data and continuous performance criteria.
+
+Sri Lanka has generally outperformed most targets in IMF programs and also overperformed on inflation (missing a target) the central bank has avoided putting pressure on the people by pushing up the cost of living. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/359e9e62.json)
+
+---
+
+### අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත් වීම ගැන සජිත්ගෙන් ශෝක නිවේදනයක්
+
+*2025-07-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212466) · `si`
+
+අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමි අපවත්වීම වෙනුවෙන් විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා ශෝක නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/de1d905a.json)
+
+---
 
 ### டட்லி சிறிசேன ஹோட்டல் விவகாரம்;அமைச்சர் விளக்கம்
 
@@ -171,6 +201,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/19181300.json)
+
+---
+
+### Sri Lanka Port City Browns Unit gets 25-year tax holiday for financial centre
+
+*2025-07-21 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-browns-unit-gets-25-year-tax-holiday-for-financial-centre-231815/) · `en`
+
+ECONOMYNEXT – Sri Lanka has given a 25-year tax holiday, and the next 10 years at half the rate, to Ceylon Real Estate Holdings (Private) Limited, which will develop a mixed use plot in the Colombo Port City.
+
+Ceylon Real Estate Holdings is a subsidiary of Browns Investments PLC, which is the strategic investment arm of LOLC Holdings PLC.
+
+Ceylon Real Estate Holdings will invest 320,401,000 dollars for construction costs and 90,618,000 for other costs  which will be raised from foreign sources.
+
+A tranche of 32,155,846,800 rupees will go to Land investment in Colombo Port City.
+
+The company was designated a Business of Strategic Importance “in order to ensure the success of establishing the Colombo Port City, having regard to the national interest or the advancement of the national economy,” a gazette notice detailing the tax holidays said.
+
+...
+
+[Data](articles/bbdf75cf.json)
 
 ---
 
@@ -1751,51 +1801,5 @@ The ship, KM Barcelona 5, caught fire while sailing in the waters off Manado, th
 ◼️
 
 [Data](articles/7bd82e13.json)
-
----
-
-### பொலிஸ் உத்தியோகத்தர்களில் சுமார் 20 - 40 சதவீதமானோருக்கு தொற்றா நோய்
-
-*2025-07-20 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220493) · `ta`
-
-நாட்டில் தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார்  20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளதுடன் 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளதாக பதில் பொலிஸ்மா அதிபர் பிரயந்த வீரசூரிய தெரிவித்துள்ளார்.
-
-புதிதாக ஸ்தாபிக்கப்பட்ட சப்பிரகமுவ மாகாண குற்றப்புலனாய்வு பிரிவு திறப்பு விழாவில் சனிக்கிழமை (19) சிறப்பு விருந்தினராக கலந்துக் கொண்டிருந்த போதே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார் 20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளனர். 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளது. மீதமாக உள்ள 30 சதவீதமானோர் மாத்திரமே நல்ல தேகாரோக்கியத்துடன் உள்ளனர்.
-
-...
-
-[Data](articles/daa69f0f.json)
-
----
-
-### ‘Second Life Notebooks’ campaign by Ogilvy makes history with global recognition
-
-*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/second-life-notebooks-campaign-by-ogilvy-makes-history-with-global-recognition/) · `en`
-
-Ogilvy Sri Lanka’s ‘Second Life Notebooks’ campaign for ProMate (PrintXcel) has become the most internationally awarded campaign in Sri Lankan advertising history, securing 17 awards and shortlist honors at prestigious global festivals, including Cannes Lions, D&AD, Clio Awards, and Spikes Asia.
-
-The campaign was born out of necessity during Sri Lanka’s economic crisis, which caused a 300% surge in paper prices, making Braille notebooks unaffordable for visually impaired students. Geometry Global Sri Lanka, part of Ogilvy, devised an innovative solution, repurposing used notebooks into Braille writing books. The initiative invited public donations, receiving overwhelming support and enabling the provision of Braille notebooks to every government school in the country.
-
-...
-
-[Data](articles/074868ae.json)
-
----
-
-### India’s rich and famous ditch old-school clubs for exclusive hangouts -BBC
-
-*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/indias-rich-and-famous-ditch-old-school-clubs-for-exclusive-hangouts-bbc/) · `en`
-
-For decades, the Indian elite have sought escape in Raj-era private clubs and gymkhanas, scattered around the swankiest neighbourhoods in the country’s big cities, hillside resorts and cantonment towns.
-
-Access to these quintessentially “English” enclaves, with their bellboys, butlers, dark mahogany interiors and rigid dress codes, has been reserved for the privileged; the old moneyed who roam the corridors of power – think business tycoons, senior bureaucrats, erstwhile royals, politicians or officers of the armed forces.
-
-This is where India’s rich and powerful have hobnobbed for years, building social capital over cigars or squash and brokering business deals during golf sessions. Today, these spaces can feel strangely anachronistic – relics of a bygone era in a country eager to shed its colonial past.
-
-...
-
-[Data](articles/87949a8f.json)
 
 ---

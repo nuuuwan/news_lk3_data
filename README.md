@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 20:48:28**
+As of **2025-07-21 21:06:30**
 
 ## Newspaper Stats
 
-*Scraped **65,947** Articles*
+*Scraped **65,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 4,028
 economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,333
+adalk | 6,334
 adaderanalk | 8,068
-tamilmirrorlk | 9,472
+tamilmirrorlk | 9,473
 virakesarilk | 10,989
 adaderanasinhalalk | 11,331
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,947 articles have been extended.
+61,973 (94.0%) of 65,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### மனிதப் புதைகுழி தொடர்பான விசாரணை CID யிடம் ஒப்படைப்பு
+
+*2025-07-21 20:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனிதப்-புதைகுழி-தொடர்பான-விசாரணை-CID-யிடம்-ஒப்படைப்பு/175-361493) · `ta`
+
+யாழ்ப்பாணம் - செம்மணி, சித்துப்பாத்தி மனிதப் புதைகுழியின் விசாரணைகள் இன்று முதல் குற்றப்புலனாய்வு திணைக்களத்திடம் ஒப்படைக்கப்பட்டுள்ளதாக பாதிக்கப்பட்டவர்களின் சார்பில் முன்னிலையாகும் சட்டத்தரணி வி எஸ் நிரஞ்சன் தெரிவித்துள்ளார்.
+
+இந்தநிலையில், செம்மணி, சித்துப்பாத்தி மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வின் இரண்டாவது அமர்வு மீண்டும் ஆரம்பிக்கப்பட்ட நிலையில், இன்றைய அகழ்வின் போது, மேலும் 7 என்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டன.
+
+ஏற்கனவே இந்த பகுதியிலிருந்து 65 என்புக்கூட்டுத் தொகுதிகள், இதுவரை மீட்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/e0ee66b3.json)
+
+---
 
 ### ලෝක කඩොලාන දිනයට සමගාමීව කඩොලාන වනාන්තර  08 ක් රක්ෂිත බවට පත් කෙරේ
 
@@ -109,6 +125,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d1909a1f.json)
+
+---
+
+### මාතර නිල්වලා ගඟබඩ උද්‍යානය වසා දමයි
+
+*2025-07-21 19:04:41* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-නිල්වලා-ගඟබඩ-උද්‍යානය-වසා-දමයි/11-417435) · `si`
+
+මාතර නිල්වලා ගගබඩ උද්‍යානය අනාරක්ෂිත බවත් එහි අනවසර ඉදි කිරිම් ඇති බවත් ඒ මගින් මහජන පීඩාවක් සිදු වන බවත් මාතර මූලස්ථාන පොලීසිය අධිකරණයෙන් කරන ලද ඉල්ලීමකට අනුව එම උද්‍යානය ලබන අගෝස්තු මස 26 වැනි දින දක්වා තාවකාලිකව වසා දමන ලෙසට මාතර ප්‍රධාන මහේස්ත්‍රාත් අරුණ ඉන්ද්‍රජිත් බුද්ධදාස මහතා  අද (21) සීමාසහිත මාකෝප් රිවර් රෙස්ටොරෙන්ට් පුද්ගලික සමාගම වෙත නියෝග කලේය.
+
+පුද්ගලයින්  සිව් දෙනෙකු විසින් මෙම උද්‍යානය අනාරක්ෂිත හා මහජන පීඩාවන් සිදු වන බවට මාතර පොලීසිය වෙත පැමිණිලි කර ඇති බවත් එම පැමිණිලි වලට අනුව පරික්ෂණයක් පවත්වන බැවින් එය මහජනතාවට විවෘත නොකරන ලෙසට පොලීසිය විසින් අධිකරණයට කරුණු දැක්වීය. ඒ අනුව මෙම තහනම් නියෝගය නිකුත් කෙරිණි.
+
+එමෙන්ම  මෙම උද්‍යානයේ අනාරක්ෂිත බවක් තිබේද යන්න පරික්ෂා කොට ලබන අගෝස්තු 26 වැනි දින අධිකරණයට  වාර්තාවක් ඉදිරිපත් කරන ලෙසට ද නාගරික සංවර්ධන අධිකාරිය,වාරිමාර්ග දෙපාර්තමේන්තුව,මධ්‍යම පරිසර අධිකාරිය,මාතර මහ නගර සභාව ඇතුළු ආයතන කිහිපයකට මාතර ප්‍රධාන මහේස්ත්‍රාත්වරයා නියෝගයක් ද නිකුත් කලේය.
+
+...
+
+[Data](articles/f6a66e52.json)
 
 ---
 
@@ -1817,41 +1849,5 @@ An investigation is underway pertaining to the whereabouts of the said sum.
 ...
 
 [Data](articles/587ec8f3.json)
-
----
-
-### SLTB Bus-Tipper collision along Kandy-Colombo road leaves two injured
-
-*2025-07-21 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110680/sltb-bus-tipper-collision-along-kandy-colombo-road-leaves-two-injured) · `en`
-
-A tipper truck has collided with a Sri Lanka Transport Board (SLTB) bus along the Kandy-Colombo main road in Weweldeniya injuring two individuals, police said.
-
-According to the Danowita Police, the bus driver and a monk sustained injuries in the accident and have been admitted to the hospital.
-
-The collision took place when a tipper truck heading towards Kandy rammed onto the SLTB bus that was traveling from Anuradhapura to Colombo. The bus then veered off the road and came to a halt near a shop.
-
-The Danowita Police stated that the accident took place since the bus was traveling on the wrong lane and collided with the oncoming tipper truck.
-
-◼️
-
-[Data](articles/27d515d9.json)
-
----
-
-### மஹிந்தானந்த, நளின் பெர்னாண்டோவுக்கு எதிராக மற்றுமொரு குற்றப்பத்திரிகை தாக்கல்
-
-*2025-07-21 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220524) · `ta`
-
-சிறைத்தண்டனை அனுபவித்து வரும் முன்னாள் அமைச்சர்களான மஹிந்தானந்த அளுத்கமகே மற்றும் நளின் பெர்னாண்டோ, முன்னாள் விளையாட்டு அமைச்சின் செயலாளர் ஓய்வுபெற்ற மேஜர் ஜெனரல் நந்த மல்லவராச்சி ஆகியோருக்கு எதிராக பொது சொத்துச் சட்டத்தின் கீழ் குற்றம் செய்ததாகக் கூறப்படும் குற்றச்சாட்டில் இன்று  திங்கட்கிழமை  (21) கொழும்பு உயர் நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது.
-
-2014 ஆம் ஆண்டு  ஜனாதிபதித் தேர்தலின் போது சதொச நிறுவனத்தின் ஊடாக கரம் போர்ட்கள் மற்றும் டாம் போர்ட்கள் இறக்குமதி செய்ததன் ஊடாக அரசாங்கத்துக்கு நட்டத்தை ஏற்படுத்தியதாக அவர்கள் மீது குற்றம் சுமத்தப்பட்டு தற்போது கடூழிய சிறைத்தண்டனை அனுபவித்து வருகின்றனர்.
-
-குற்றப்பத்திரிகையைத் தொடர்ந்து, கொழும்பு உயர் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன மூன்று பிரதிவாதிகளையும் பிணையில் விடுவிக்க உத்தரவிட்டார்.
-
-ஆனால், அவர்களுக்கு ஏற்கனவே சிறை தண்டனை விதிக்கப்பட்டுள்ளமையினால் மஹிந்தானந்த அளுத்கமகே மற்றும் நளின் பெர்னாண்டோ ஆகியோரை அடுத்த திட்டமிடப்பட்ட விசாரணை திகதியில் நீதிமன்றத்தில் ஆஜர்படுத்துமாறு நீதிபதி உத்தரவிட்டார்.
-
-...
-
-[Data](articles/b9621431.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 00:50:35**
+As of **2025-07-22 01:16:39**
 
 ## Newspaper Stats
 
-*Scraped **65,968** Articles*
+*Scraped **65,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,661
+dailyftlk | 4,663
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,9 +26,39 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,968 articles have been extended.
+61,973 (93.9%) of 65,970 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-22 (Tuesday)
+
+### Factors guiding voter preference in Sri Lanka: European Union funded survey reveals
+
+*2025-07-22 00:51:27* · [`dailyftlk`](https://www.ft.lk/opinion/Factors-guiding-voter-preference-in-Sri-Lanka-European-Union-funded-survey-reveals/14-779272) · `en`
+
+Democratic Left Front Coordinating Secretary G.V.D. Tilakasiri, NPC Executive Director Jehan Perera, Secretary to the Prime Minister Pradeep Saputhanthri, and Delegation of the European Union to Sri Lanka Head of Cooperation Dr. Johann H. Hesse
+
+A research report titled ‘Factors guiding voter preference in elections in Sri Lanka’, commissioned by the National Peace Council under the European Union funded project “Active citizens for elections and democracy”, was launched on 27 June in Colombo. The study conducted by Dr. Mahesh Senanayake and Crishni Silva of the University of Colombo offers valuable insights into the key drivers of voter behaviour within Sri Lanka’s dynamic political context. It examines how factors such as economic concerns, perceptions of leadership, trust in public institutions and prevailing social issues influence electoral decisions.
+
+...
+
+[Data](articles/e4ca2cab.json)
+
+---
+
+### Social proof in action: Behavioural path to better tax system
+
+*2025-07-22 00:50:17* · [`dailyftlk`](https://www.ft.lk/columns/Social-proof-in-action-Behavioural-path-to-better-tax-system/4-779271) · `en`
+
+Sri Lanka’s tax system could benefit from creative social proof strategies
+
+Human nature is fundamentally shaped by connections emotional, social, and environmental that begin at birth and persist throughout life. These connections influence how people think, grow, and make decisions, creating a deep reliance on signals from those around them. Among the most powerful of these influences is social proof the habit of observing others when deciding how to behave, especially in uncertain situations. In the context of taxation, social proof plays a crucial role in shaping individual attitudes and compliance behaviours. Understanding and using this human pattern can be a game-changer for governments seeking to strengthen voluntary tax compliance and build a culture of civic responsibility.
+
+...
+
+[Data](articles/7cb05a7f.json)
+
+---
 
 ### 2025-07-21 (Monday)
 
@@ -1813,43 +1843,5 @@ Plans to build “a twin tower marvel” that will house the “world’s larges
 ◼️
 
 [Data](articles/426587ff.json)
-
----
-
-### கடற் பகுதிகளுக்கு சிவப்பு எச்சரிக்கை ; மீனவர்கள் கரைக்கு திரும்புமாறு எச்சரிக்கை
-
-*2025-07-21 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220539) · `ta`
-
-இலங்கையின் கடல் பிராந்தியங்களில் கடும் காற்று மற்றும் கடல் கொந்தளிப்பாக இருக்கும் என வளிமண்டலவியல் திணைக்களம் 'சிவப்பு எச்சரிக்கை' விடுத்துள்ளது.
-
-இதனால், பொதுமக்கள் உட்பட குறிப்பாக மீனவர்கள் மற்றும் கடற்படை சமூகங்கள் மிகுந்த விழிப்புடன் இருக்குமாறு கோரிக்கை விடுத்துள்ளது.
-
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 35 முதல் 45 கிலோமீற்றர் வேகத்தில் மேற்குத் திசையில் இருந்து தென்மேற்குத் திசையை நோக்கி காற்று வீசும்.
-
-சிலாபம் தொடக்கம் புத்தளம் ஊடாக மன்னார் வரையான அத்துடன் காலி தொடக்கம் அம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 60 முதல் 70 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி காற்று அதிகரித்து வீசக் வீசும். இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள் மிகவும் கொந்தளிப்பான நிலையில் காணப்படும். இக் கடல் பிராந்தியத்திற்கு அடுத்துவரும் 24 மணித்தியாலங்களுக்கு மீனவர்களும் கடல்சார் ஊழியர்களும் செல்ல வேண்டாம் என அறிவுறுத்தப் படுகின்றனர்.
-
-...
-
-[Data](articles/7dba190b.json)
-
----
-
-### Mumbai-bound Air India flight skids off runway during landing amid heavy rainfall
-
-*2025-07-21 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110684/mumbai-bound-air-india-flight-skids-off-runway-during-landing-amid-heavy-rainfall) · `en`
-
-An Air India Airbus A320 operating as flight A12744 from Kochi to Mumbai slightly veered off while landing at Chhatrapati Shivaji Maharaj International Airport (CSMIA) amid heavy rainfall.
-
-All passengers were reported safe and deboarded the aircraft without injuries.
-
-The incident occurred during the aircraft’s landing phase, when the plane experienced a runway excursion due to intense rainfall in Mumbai. According to initial information, the pilot was able to successfully pull out tyre and dock the aircraft back.
-
-According to reports, pictures accessed by NDTV show a clump of glass stuck to the rear part of the aircraft and signs of damage on one of the engines.
-
-Mumbai Airport confirmed that the runway excursion took place at 09:27 hours.
-
-...
-
-[Data](articles/4d77c866.json)
 
 ---

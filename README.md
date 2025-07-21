@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 03:18:10**
+As of **2025-07-22 03:30:55**
 
 ## Newspaper Stats
 
-*Scraped **65,972** Articles*
+*Scraped **65,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,665
+dailyftlk | 4,666
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,972 articles have been extended.
+61,973 (93.9%) of 65,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### National Business Excellence Awards 2025 to honour top performers on 24 July
+
+*2025-07-22 03:14:59* · [`dailyftlk`](https://www.ft.lk/business/National-Business-Excellence-Awards-2025-to-honour-top-performers-on-24-July/34-779303) · `en`
+
+The National Chamber of Commerce of Sri Lanka will hold the National Business Excellence Awards (NBEA) on Thursday, 24 July, at the Shangri-La Colombo, commencing at 6 p.m.
+
+Celebrating its 20th consecutive year, the NBEA stands as one of Sri Lanka’s most prestigious platforms recognising and rewarding outstanding business achievements.
+
+Over the past two decades, the Awards have honoured companies that demonstrate excellence in business and organisational performance across a wide range of sectors.
+
+This year’s milestone event is expected to bring together leading business leaders, entrepreneurs, government officials, and diplomatic representatives to honour the highest standards of corporate excellence and sustainability. The awards evaluation process is led by a highly respected Panel of Judges, ensuring transparency, integrity, and rigorous assessment.
+
+...
+
+[Data](articles/d71164f4.json)
+
+---
 
 ### Governance sans management skill results in “no action, talk only”
 
@@ -1817,21 +1835,5 @@ Plans to build “a twin tower marvel” that will house the “world’s larges
 ◼️
 
 [Data](articles/8eb94dd6.json)
-
----
-
-### மின் கம்பியின் மீது மரம் விழுந்து, மின்சாரம் துண்டிப்பு
-
-*2025-07-21 14:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்-கம்பியின்-மீது-மரம்-விழுந்து-மின்சாரம்-துண்டிப்பு/76-361463) · `ta`
-
-ஹட்டனில் இருந்து தலவாக்கலை சென்க்ளேர் வரை பொருத்தப்பட்டுள்ள 33,000 வாட் உயர் மின்னழுத்த மின் கம்பியின் மீது யூ கெலிப்ஸ்டிக் மரமொன்று விழுந்ததில் குறித்த மின் கம்பியில் பலத்த சேதம் ஏற்பட்டு , பல பகுதிகளுக்கு மின்சாரம் துண்டிக்கப்பட்டுள்ளதாக ஹட்டன் மின்சார வாடிக்கையாளர் சேவை மையத்தின் மேற்பார்வையாளர் நிமல் சமரகோன் தெரிவித்தார்.
-
-மத்திய மலைப்பகுதியில் இந்த நாட்களில் நிலவும் மோசமான வானிலை காரணமாக திங்கட்கிழமை (20) இரவு மரம் விழுந்துள்ளதாகவும், தொடர்ந்து பெய்து வரும் மழை மற்றும் பலத்த காற்று காரணமாக விழுந்த மரத்தை வெட்டி அகற்றி மின்சாரத்தை மீட்டெடுக்கும் முயற்சிகள் தடைபட்டுள்ளதாகவும் அவர்  தெரிவித்தார்.
-
-இதன் காரணமாக, பத்தனை ஸ்ரீபாத தேசிய கல்வியற் கல்லூரி உட்பட டெவோன் பகுதியில் உள்ள  நுகர்வோருக்கு மின்சாரம் துண்டிக்கப்பட்டுள்ளதாக   நிமல் சமரகோன் மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/9431283c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 21:06:30**
+As of **2025-07-21 21:20:35**
 
 ## Newspaper Stats
 
-*Scraped **65,949** Articles*
+*Scraped **65,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,51 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-islandlk | 4,028
+islandlk | 4,029
 economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,334
 adaderanalk | 8,068
-tamilmirrorlk | 9,473
+tamilmirrorlk | 9,474
 virakesarilk | 10,989
-adaderanasinhalalk | 11,331
+adaderanasinhalalk | 11,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,949 articles have been extended.
+61,973 (94.0%) of 65,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### முட்டை பிரியர்களுக்கு மகிழ்ச்சியான செய்தி
+
+*2025-07-21 21:01:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-பிரியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-361494) · `ta`
+
+இலங்கை முழுவதும் முட்டை விலை குறைப்பு இன்று முதல் அமலுக்கு வருவதாக அகில இலங்கை முட்டை உற்பத்தியாளர்கள் சங்கம் அறிவித்துள்ளது.
+
+பழுப்பு நிற முட்டைகளின் மொத்த விலை 29 ரூபாய் ஆகவும், வெள்ளை நிற முட்டைகள் 27 ரூபாய் ஆகவும் குறைக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/98a30f4d.json)
+
+---
+
+### සීදූවේ වෙඩිතැබීමක්
+
+*2025-07-21 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212488) · `si`
+
+සීදූව, රාජපක්ෂපුර ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+◼️
+
+[Data](articles/dcf70553.json)
+
+---
 
 ### மனிதப் புதைகுழி தொடர்பான விசாரணை CID யிடம் ஒப்படைப்பு
 
@@ -48,7 +74,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ලෝක කඩොලාන දිනයට සමගාමීව කඩොලාන වනාන්තර  08 ක් රක්ෂිත බවට පත් කෙරේ
+### කඩොලාන වනාන්තර  08 ක් රක්ෂිත බවට පත් කෙරේ
 
 *2025-07-21 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212487) · `si`
 
@@ -1809,45 +1835,5 @@ The search operation is ongoing to locate the body of the other missing individu
 ...
 
 [Data](articles/ceda95fb.json)
-
----
-
-### Retired DIG Rohan Premaratne denies reports of Bribery officers visiting his residence
-
-*2025-07-21 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110681/retired-dig-rohan-premaratne-denies-reports-of-bribery-officers-visiting-his-residence) · `en`
-
-Retired Deputy Inspector General of Police (DIG) Rohan Premaratne has denied media reports that have claimed that officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) have visited his residence over ongoing investigations related to financial fraud.
-
-Retired DIG Rohan Premaratne is under investigation over financial fraud amounting to Rs. 7.5 million.
-
-Responding to media reports claiming that bribery officers had entered his house and searched multiple locations he had stayed, retired DIG Premaratne said he still resides at his usual residence.
-
-In 2021, while Rohan Premaratne was serving as the DIG in charge of the Criminal Investigation Department (CID), a group of Nigerian nationals was arrested in Dehiwala.
-
-Accordingly, the Kelaniya Divisional Crime Detective Bureau handed over Rs. 7.5 million, believed to have been earned by the group, to the CID as court evidence.
-
-An investigation is underway pertaining to the whereabouts of the said sum.
-
-◼️
-
-[Data](articles/aa2df31f.json)
-
----
-
-### காதலனை காப்பாற்ற முயன்ற காதலி மாயம்
-
-*2025-07-21 12:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-காப்பாற்ற-முயன்ற-காதலி-மாயம்/76-361456) · `ta`
-
-மஹியங்கனை 17 ஆம் கட்டை பகுதியில் உள்ள வியானி ஆற்றில் குளித்துக் கொண்டிருந்த காதல் ஜோடியில், காதலன் நீரில் அடித்துச் சென்றதையடுத்து, அவரைக் காப்பாற்ற முயன்ற காதலி நீரில் அடித்துச் சென்று காணாமல் போயுள்ளதாக மஹியங்கனை பொலிஸார் தெரிவித்துள்ளனர். .
-
-இச் சம்பவம் திங்கட்கிழமை (20) அன்று இடம் பெற்றுள்ளதுடன்   காணாமல் போன பெண் வெலிகத்த குடாகம்மன பிரதேசத்தைச் சேர்ந்த  26 வயதுடைய  ரஷ்மி லக்‌ஷிகா மெண்டிஸ்  எனவும் அவர்   ரஜரட்ட பல்கலைக்கழக மாணவி எனவும் தெரியவந்துள்ளது.
-
-குறித்த பெண் கொழும்பில் நடைபெற்ற பட்டமளிப்பு விழாவில் கலந்து கொண்டு மஹியங்கனை வழியாக தனது காதலனுடன் காரில் வீடு திரும்பிய நிலையில் மாலை 5 மணியளவில், 17 ஆம் கட்டை பகுதியில் உள்ள ஆற்றின் அருகே வாகனத்தை நிறுத்தி குளித்துக் கொண்டிருந்தபோது காதலன் நீரில் அடித்துச் சென்றுள்ளார். இந் நிலையில் அவரைக் காப்பாற்ற முயன்ற போது, காதலியும் நீரில் விழுந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இதன்போது அந்த வழியாக பயணித்த பொலிஸ் அதிகாரியொருவர் உடனடியாக வந்து இளைஞனை நீரிலிருந்து வெளியே எடுத்துள்ளதுடன் நீருக்குள் விழுந்த இளம் பெண் காணாமல் போயுள்ளார்.
-
-...
-
-[Data](articles/587ec8f3.json)
 
 ---

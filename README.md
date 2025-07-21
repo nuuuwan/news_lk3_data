@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 17:07:16**
+As of **2025-07-21 17:17:37**
 
 ## Newspaper Stats
 
-*Scraped **65,902** Articles*
+*Scraped **65,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,327
-adaderanalk | 8,059
+adaderanalk | 8,061
 tamilmirrorlk | 9,463
-virakesarilk | 10,980
-adaderanasinhalalk | 11,323
+virakesarilk | 10,981
+adaderanasinhalalk | 11,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,902 articles have been extended.
+61,973 (94.0%) of 65,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### தலவாக்கலையில் மரம் முறிந்து விழுந்ததால் மின்சாரம் துண்டிப்பு
+
+*2025-07-21 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220556) · `ta`
+
+தலவாக்கலை பகுதியில், அட்டன் இருந்து சென்கிளேயர் வரை செல்லும் 33,000 வொட் உயர் மின்னழுத்த மின்சாரக் கம்பியின் மீது மரம் முறிந்து விழுந்ததால் பெரும் சேதம் ஏற்பட்டுள்ளது.
+
+இதனால் அப்பகுதிகளில் மின் தடை ஏற்பட்டுள்ளதாக அட்டன் மின்சார வாடிக்கையாளர் சேவை மையத்தின் மின்சார கண்காணிப்பாளர் நிமல் சமரக்கோன் தெரிவித்துள்ளார்.
+
+மத்திய மலைநாட்டில் மேற்கு சரிவுகளில் கடும் மழை மற்றும் காற்று வீசி வருவதால் ஞாயிற்றுக்கிழமை (20) இரவு இந்த சம்பவம் இடம் பெற்றுள்ளது.
+
+மரத்தை வெட்டி அகற்றி சேதமடைந்த மின்சார உள்கட்டமைப்பை மீட்டெடுக்கும் முயற்சியும் மழையால் தடைப்பட்டுள்ளது.
+
+டெவோன் பகுதி மற்றும் பத்தனை ஸ்ரீபாத கல்வி நிறுவனம் உட்பட பல பகுதிகளை மின்சாரம் இல்லாமல் செய்துள்ளது என சமரகோன் தெரிவித்துள்ளார்.
+
+நிலைமைகள் சீரானதும் மீன் சாரத்தை வழமைக்கு கொண்டுவர  அதிகாரிகள் தயாராக இருப்பதாகவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/bba3647c.json)
+
+---
+
+### විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධ වැරදිකරුවන් 1,241ක් අත්අඩංගුවට
+
+*2025-07-21 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212479) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් නීතිවිරෝධී මත්පැන් ඇතුළත්ව මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 1,241ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 254,679ක ප්‍රමාණයක් හෙරොයින් මිලිග්‍රෑම් 112,567ක ප්‍රමාණයක් හා ගංජා මිලිග්‍රෑම් 3,738,356ක ප්‍රමාණයක් පොලීසිය සිය භාරයට ගෙන ඇත.
+
+මෙම මෙහෙයුම් මගින් 21,132 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 7,922 ක් හා යතුරුපැදි 6,545ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කෙරිණි.
+
+එහිදී ගිනි අවි 05ක ප්‍රමාණයක්ද පොලීසිය සිය භාරයට ගෙන ඇති අතර විදේශ රටක නිශ්පාදිත ගිනි අවියක්ද ඒ අතර වේ.
+
+එමෙන්ම අපරාධවලට සෘජු ලෙස සම්බන්ධ බවට හඳුනාගත් පුද්ගලයන් 18 දෙනෙකු හා විවිධ වැරදි සම්බන්ධයෙන් වරෙන්තුකරුවන් 321ක් දෙනෙකුද මෙහිදී අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ දිනය පුරා මෙම මෙහෙයුම් ක්‍රියාත්මක වූ අතර ඒ සඳහා දිවයින පුරා පොලිස් නිළධාරීන්, විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයන් ඇතුලුව පුද්ගලයන් 5300කට අධික පිරිසක් සහභාගී වී ඇත.
+
+2025 අප්‍රේල් මස 13 වන දින සිට දිවයිනම ආවරණය වන පරිදි විශේෂ මෙහෙයුම් සිදු කිරීමට ආරම්භ කළේය.
+
+...
+
+[Data](articles/a482844d.json)
+
+---
 
 ### ”நிலந்தவுக்கு மரண தண்டனை விதிப்பதை திருச்சபை விரும்பவில்லை”
 
@@ -50,6 +96,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; ஒருவர் பலி, பலர் காயம் !
+
+*2025-07-21 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220547) · `ta`
+
+பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதோடு, 13 பேர் காயமடைந்துள்ளனர்.
+
+தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானதாக இன்டர்-சர்வீசஸ் பப்ளிக் ரிலேஷன்ஸ் டைரக்டரேட் (ISPR) தெரிவித்துள்ளது.
+
+மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
+
+◼️
+
+[Data](articles/0f88e7cb.json)
+
+---
+
 ### ஜனாதிபதிக்கும் ஐ.எம்.எப்  பிரதிநிதிகளுக்கும் இடையில் சந்திப்பு
 
 *2025-07-21 16:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-ஐ-எம்-எப்-பிரதிநிதிகளுக்கும்-இடையில்-சந்திப்பு/175-361470) · `ta`
@@ -63,6 +125,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/fb07ed58.json)
+
+---
+
+### President and IMF delegation discuss next review of EFF
+
+*2025-07-21 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110692/president-and-imf-delegation-discuss-next-review-of-eff) · `en`
+
+President Anura Kumara Dissanayake and representatives of the International Monetary Fund (IMF) have held discussions regarding the future review of the Extended Fund Facility between the IMF and Sri Lanka.
+
+The meeting took place at the Presidential Secretariat today (21).
+
+During the meeting, President Dissanayake has highlighted the economic stability that has been restored in the country and stressed on the government’s determination to build upon the foundation by accelerating the reform agenda, fostering economic growth and capitalizing on emerging global opportunities, the President’s Media Division said.
+
+President Dissanayake noted that Sri Lanka has achieved a level of economic stability under the present administration and emphasized that, building on this foundation, the government is prepared to accelerate efforts to integrate Sri Lanka into the global economy through sustainable growth and the pursuit of emerging economic opportunities.
+
+...
+
+[Data](articles/5ba0df35.json)
+
+---
+
+### Sri Lanka’s first 24-hour news channel ‘Ada Derana 24’ celebrates 11 years
+
+*2025-07-21 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110691/sri-lankas-first-24-hour-news-channel-ada-derana-24-celebrates-11-years) · `en`
+
+Ada Derana 24, Sri Lanka’s pioneering 24-hour news channel and a trusted local brand recognized for its international-standard journalism, proudly marks its 11th anniversary today.
+
+Since its inception, the channel has redefined the landscape of news reporting in the country.
+
+Launched on July 20, 2014, Ada Derana 24 made history as Sri Lanka’s first and only dedicated news channel. Over the past eleven years, it has garnered a loyal viewership by consistently delivering accurate, balanced, and timely news.
+
+The channel’s comprehensive coverage includes current affairs, politics, sports, education, arts, health, religion, and more—often reaching the public before any other outlet.
+
+Ada Derana 24’s daily programming features seven hourly news bulletins and four main news broadcasts, ensuring viewers are kept informed throughout the day.
+
+...
+
+[Data](articles/2a637258.json)
 
 ---
 
@@ -105,22 +205,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8377a362.json)
-
----
-
-### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; ஒருவர் பலி, பலர் காயம் !
-
-*2025-07-21 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220547) · `ta`
-
-பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதோடு, 13 பேர் காயமடைந்துள்ளனர்.
-
-தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானதாக இன்டர்-சர்வீசஸ் பப்ளிக் ரிலேஷன்ஸ் டைரக்டரேட் (ISPR) தெரிவித்துள்ளது.
-
-மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
-
-◼️
-
-[Data](articles/0f88e7cb.json)
 
 ---
 
@@ -1765,77 +1849,5 @@ IFC Colombo 1 will invest 142.71 million dollars. A tranche of 94.98 will go to 
 ◼️
 
 [Data](articles/58fb5a92.json)
-
----
-
-### கொள்ளுப்பிட்டி இரவுநேர களியாட்ட விடுதியில் துப்பாக்கிப் பிரயோகத்தை மேற்கொள்ளவந்தவர் துப்பாக்கியை போட்டுவிட்டு தப்பியோட்டம் !
-
-*2025-07-21 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220506) · `ta`
-
-கொழும்பு, கொள்ளுப்பிட்டியில் இரவு நேர களியாட்ட விடுதி ஒன்றில் சனிக்கிழமை (19) இரவு துப்பாக்கிப் பிரயோக முயற்சி முறியடிக்கப்பட்டது.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் தற்போது மரண தண்டனை அனுபவித்து வரும் 'தெமட்டகொடை சமிந்த'வின் சகோதரர் 'தெமட்டகொடை ருவனை' இலக்கு வைத்து இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட இருந்ததாக தெரியவந்துள்ளது.
-
-சமிந்த பல்வேறு குற்றச் செயல்களில் ஈடுபட்டதாக சந்தேகிக்கப்படுகிறது. இரவுநேர விடுதிக்கு அடிக்கடி சென்று வரும் தெமட்டகொடை ருவான் சம்பவத்தன்று வழக்கத்திற்கு மாறாக சற்று தாமதமாக சென்றுள்ளார்.
-
-இந்நிலையில், துப்பாக்கிப் பிரயோகத்தை மேற்கொள்ள சென்றவர் ருவான் வருகை தந்துள்ளாரா என தெரிந்து கொள்ள விடுதியின் வளாகத்திற்குள் நுழைய முயன்றுள்ளார்.
-
-இதன்போது, சந்தேக நபருக்கும்  விடுதியின் நுழைவாயிலில் இருந்த பாதுகாப்பு காவலருக்கும் இடையே தகராறு ஏற்பட்டுள்ளது.
-
-பின்னர், துப்பாக்கிப் பிரயோகத்தை நடத்த வந்தவர் தான் வைத்திருந்த T-56 துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு தனது சகாவுடன்  தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/b8158d08.json)
-
----
-
-### Sri Lanka rupee steady against dollar, bonds flat
-
-*2025-07-21 09:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-against-dollar-bonds-flat-231809/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.60/80 to the US dollar in the spot market Monday, relatively flat from 301.65/85 Friday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 8.98/9.03 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.50/55, up from 9.48/53 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/20 percent. (Colombo/July21/2025)
-
-◼️
-
-[Data](articles/8574fe18.json)
-
----
-
-### කෑගල්ලේ සිදු වූ බස්රථ අනතුරකින් පුද්ගලයන් 21කට තුවාල
-
-*2025-07-21 08:43:11* · [`adalk`](https://www.ada.lk/breaking_news/කෑගල්ලේ-සිදු-වූ-බස්රථ-අනතුරකින්-පුද්ගලයන්-21කට-තුවාල/11-417416) · `si`
-
-කෑගල්ල, ගලිගමුව ප්‍රදේශයේ බස් රථ දෙකක් එකිනෙක ගැටී අද(21දා) අලුයම සිදුවූ අනතුරක් සිදුව තිබේ.
-
-​මෙම අනතුරින් පුද්ගලයින් 21 දෙනෙකු   පමණ තුවාල ලබා ඇති අතර, තුවාලකරුවන්  කෑගල්ල සහ වරකාපොළ යන රෝහල්වලට ඇතුළත් කර ඇත.
-
-◼️
-
-[Data](articles/03031889.json)
-
----
-
-### இன்று வானிலையில் ஏற்படவுள்ள மாற்றம்
-
-*2025-07-21 08:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வானிலையில்-ஏற்படவுள்ள-மாற்றம்/175-361430) · `ta`
-
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடிய சாத்தியக்கூறுகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-வடமேல் மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யக்கூடும்.
-
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், மேல், சப்ரகமுவ, தென், வடமேல் மற்றும் வடமத்திய மாகாணங்களில் அவ்வப்போது மணிக்கு சுமார் 50 கிலோமீற்றர் வேகத்தில் மிதமான காற்று வீசக்கூடும், நாட்டின் ஏனைய பகுதிகளில் மணிக்கு சுமார் 30-40 கிலோமீற்றர் வேகத்தில் காற்று வீசக்கூடும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
-
-பலத்த காற்றினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள பொதுமக்கள் தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
-
-◼️
-
-[Data](articles/8ac3ab35.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 17:31:41**
+As of **2025-07-21 17:53:08**
 
 ## Newspaper Stats
 
-*Scraped **65,913** Articles*
+*Scraped **65,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 4,028
 economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,327
-adaderanalk | 8,061
-tamilmirrorlk | 9,465
-virakesarilk | 10,981
-adaderanasinhalalk | 11,325
+adalk | 6,329
+adaderanalk | 8,065
+tamilmirrorlk | 9,466
+virakesarilk | 10,984
+adaderanasinhalalk | 11,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,913 articles have been extended.
+61,973 (94.0%) of 65,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் உயிரிழப்பு
+
+*2025-07-21 17:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-கல்லூரி-மீது-போர்-விமானம்-விழுந்து-நொறுங்கியதில்-16-பேர்-உயிரிழப்பு/50-361475) · `ta`
+
+வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் உயிரிழந்தனர். போர் விமானம் விழுந்து நொறுங்கியதில் 100க்கும் மேற்பட்டோர் காயம் அடைந்துள்ளனர். போர் விமானம் பயிற்சிக்குச் சென்றபோது தீப்பிடித்து கல்லூரி மீது விழுந்தது. டாக்காவின் வடக்கு உத்தரா பகுதியில் உள்ள கல்வி நிலையம் மீது போர் விமானம் விழுந்து நொறுங்கியது.
+
+◼️
+
+[Data](articles/20305326.json)
+
+---
+
+### බංග්ලාදේශයේ පාසලකට හමුදා ගුවන් යානයක් කඩා වැටීමෙන් ළමුන් ඇතුළුව 19 දෙනෙකු මරුට
+
+*2025-07-21 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212481) · `si`
+
+බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් පුහුණු ගුවන් යානයක් ඩකා අගනුවර පාසල් පරිශ්‍රයකට කඩා වැටීමෙන් සිදුවූ අනතුරින් ළමුන් 16ක් ඇතුළුව පුද්ගලයින් 19 දෙනෙකු මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අනතුරින් තවත් පුද්ගලයින් 100කට අධික පිරිසක් තුවාල ලබා ඇතැයිද සඳහන් වේ.
+
+◼️
+
+[Data](articles/d8535764.json)
+
+---
+
+### ජනපති සහ IMF නියෝජිතයන් අතර හමුවක්
+
+*2025-07-21 17:21:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-IMF-නියෝජිතයන්-අතර-හමුවක්/11-417426) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර වන විස්තීර්ණ ණය පහසුකම් වැඩසටහනට අදාළ ඉදිරි කටයුතු පිළිබඳ ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (21දා) පෙරවරුවේ පැවැත්විණි.
+
+වත්මන් රජය යටතේ මේ වන විට ශ්‍රී ලංකාව තුළ ආර්ථික ස්ථාවරත්වයක් ඇති වී ඇති බැවින් එම ශක්තිමත් පදනම මත, ආර්ථික වර්ධනය ළඟා කර ගනිමින් හා නව ආර්ථික අවස්ථා ග්‍රහණය කර ගනිමින් ශ්‍රී ලංකාව ජාත්‍යන්තරයට ගෙන යාමේ වැඩපිළිවෙළ වේගවත් කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b408e17d.json)
+
+---
+
+### கொலை மிரட்டல் : அரசுக்கு கடும் கண்டனம் தெரிவித்து பெண்களின் பாதுகாப்பை உறுதிசெய்யுமாறு பொதுஜன பெரமுனவின் வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா கோரிக்கை
+
+*2025-07-21 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220552) · `ta`
+
+வெலிகம பிரதேச சபையை அமைக்க ஆதரவு அளித்தால் என்னைக் கொலை செய்யப்போவதாக வெலிகம தேசிய மக்கள் சக்தி உறுப்பினர் சுசந்த் டயஸ் தஹநாயக  தன்னை மிரட்டியதாக  வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம தெரிவித்தார்.
+
+இது குறித்து திங்கட்கிழமை (21) பொதுஜனபெரமுனவின் தலைமையகத்தில் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்த ஊடக சந்திப்பில் சட்டத்தரணி துஷாரி சூரிய ஆராச்சி மற்றும் சமூக ஆர்வலர் சுபாஷினி புலேகொட ஆகியோரும் கலந்து கொண்டு கருத்து தெரிவித்தனர்.
+
+இது குறித்து  வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம மேலும் தெரிவிக்கையில்,
+
+கடந்த 10ஆம் திகதி எனது வீட்டிற்கு முன்பாக தேசிய மக்கள் சக்தி உறுப்பினர் சுசந்த் டயஸ் தஹநாயக ஒரு வெள்ளை காரில் வந்து நின்று 24 ஆம் திகதி நடைபெறும் சபை அமர்வில் கலந்து கொள்வீர்களா? என்று கேட்டார். அதற்கு நான் ஆமாம் என்று கூறினேன்.சபை அமர்வில் கலந்து கொண்டால் கொன்று விடுவேன் என கூறி மிரட்டினார். பின்னர் நான் பொலிஸாரிடத்தில் முறைப்பாடு ஒன்று பதிவு செய்தேன் என்றார்.
+
+...
+
+[Data](articles/5a276dce.json)
+
+---
 
 ### පෙම්වතා බේරීමට ගොස් වියානා ඇළේ සැඟව ගිය පෙම්වතියගේ සිරුර හමුවෙයි
 
@@ -51,6 +111,66 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/07a38bb3.json)
+
+---
+
+### அநுராதபுரத்தில் சட்டவிரோத மதுபான உற்பத்தி நிலையம் முற்றுகை : இருவர் கைது
+
+*2025-07-21 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/220559) · `ta`
+
+அநுராதபுரம்-கெக்கிராவ பகுதியில் அமைந்துள்ள ஒளுகறந்த குளத்துப் பகுதியில் சட்டவிரோதமாக இயங்கிக் கொண்டிருந்த மதுபான உற்பத்தி நிலையம் ஒன்று பொலிஸ் விசேட அதிரடிப்படையினரால் முற்றுகையிடப்பட்டுள்ளது.
+
+தம்புள்ளை முகாமை சேர்ந்த விசேட அதிரடிப்படையினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில், ஞாயிற்றுக்கிழமை (20) மேற்கொள்ளப்பட்ட இந்த சுற்றிவளைப்பில் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர். இவர்களிடம் இருந்து பெருமளவான சட்டவிரோத மதுபானத்தையும் கைப்பற்றியுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் கெக்கிராவ பகுதியைச் சேர்ந்த  27 மற்றும் 32 வயதுடையவர்கள் ஆவர்.
+
+கெக்கிராவ பொலிஸ் நிலைய மது ஒழிப்பு பிரிவினர் பல கோணங்களிலும் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+விசாரணைகளின் பின்னர் சந்தேக நபர்கள் இருவரும் கெக்கிராவ நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/82ddb3bb.json)
+
+---
+
+### At least 19 killed as Bangladesh air force plane crashes into college campus
+
+*2025-07-21 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110696/at-least-19-killed-as-bangladesh-air-force-plane-crashes-into-college-campus) · `en`
+
+At least 19 people were killed as a Bangladesh air force training aircraft crashed into a college and school campus in the capital city of Dhaka on Monday, a fire services official said.
+
+More than 50 people, including children and adults, were hospitalised with burns, a doctor at the National Institute of Burn and Plastic Surgery told reporters.
+
+The incident occurred at the Milestone School and College in Dhaka’s northern area of Uttara, officials said.
+
+“Bangladesh Air Force’s F-7 BGI training aircraft crashed in Uttara. The aircraft took off at 13:06 (0706 GMT),” the military’s public relations department said in a statement.
+
+Videos of the aftermath of the crash showed a big fire near a lawn emitting a thick plume of smoke into the sky, as crowds watched from a distance.
+
+Firefighters sprayed water on the mangled remains of the plane, which appeared to have rammed into the side of a building, damaging iron grills and creating a gaping hole in the structure, Reuters TV visuals showed.
+
+...
+
+[Data](articles/13294825.json)
+
+---
+
+### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரிப்பு
+
+*2025-07-21 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220560) · `ta`
+
+பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரித்துள்ளது.
+
+தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானது.
+
+மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
+
+இந்த விபத்தில் ஒருவர் உயிரிழந்துள்ளதோடு, 50 பேர் காயமடைந்தவர்கள் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/27492287.json)
 
 ---
 
@@ -126,6 +246,30 @@ Investors withdrew a net $5.3 billion from global equity funds during the week, 
 
 ---
 
+### Japan faces rice shortage as South Korea battles oversupply
+
+*2025-07-21 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110695/japan-faces-rice-shortage-as-south-korea-battles-oversupply) · `en`
+
+Japan is grappling with rice shortages and price hikes, forcing it to ramp up imports.
+
+Just across the sea, South Korea is facing the opposite problem — an overwhelming surplus that has driven prices so low, some regions are practically giving rice away.
+
+As shortages and surpluses hit wallets and livelihoods, the instability of rice supply could have an impact far beyond the dining table, said observers.
+
+Farmer Park Geun Sik spent his life working the land in Haenam, a farming town in South Jeolla province, about 330km south of Seoul.
+
+When he started, everything from planting seedlings to threshing rice was done by hand. Rice was so scarce that there were designated no-rice days banning its sale.
+
+Then, machines arrived and high-yield rice varieties were introduced as South Korea embarked on a drive for self-sufficiency.
+
+Like most farmers in South Korea, Park is a member of the National Agricultural Cooperative Federation Nonghyup.
+
+...
+
+[Data](articles/84f91c54.json)
+
+---
+
 ### විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධ වැරදිකරුවන් 1,241ක් අත්අඩංගුවට
 
 *2025-07-21 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212479) · `si`
@@ -150,15 +294,15 @@ Investors withdrew a net $5.3 billion from global equity funds during the week, 
 
 ---
 
-### Sri Lanka president meets IMF representatives
+### Sri Lanka President discusses investment policy reforms with IMF mission
 
 *2025-07-21 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-representatives-231962/) · `en`
 
 ECONOMYNEXT – International Monetary Fund (IMF) representatives met with Sri Lanka’s President Anura Dissanayake to discuss the future review of its extended credit facility.
 
-The discussion focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
+The discussion further focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
 
-Dissanayake is said to have “outlined the country’s present economic challenges and reiterated the importance of incorporating measures to ease the burden on the public in the 2026 Budget, despite these constraints”.
+The President expressed confidence that Sri Lanka would continue to benefit from the IMF’s support in ensuring long-term economic stability and consistency in policy direction.
 
 “President Dissanayake expressed his gratitude for the support extended to Sri Lanka by the IMF so far and emphasized that he is committed to ensuring that all the benefits of the country’s economic growth are delivered to the people.”
 
@@ -210,6 +354,42 @@ A bond maturing on 01.06.2033 closed at 10.70/77 percent, from 10.70/76 percent.
 
 ---
 
+### Ex-Sports Ministry Secretary Nanda Mallawarachchi files petition before Appeals Court
+
+*2025-07-21 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110694/ex-sports-ministry-secretary-nanda-mallawarachchi-files-petition-before-appeals-court-) · `en`
+
+The Court of Appeal today (21) ordered that a petition filed by former Secretary of the Ministry of Sports retired Major General Nanda Mallawarachchi, be taken up for consideration on July 28. The petitioner requests that the indictment filed against him before the Colombo High Court by the Attorney General be nullified.
+
+The charges are in relation to the alleged misuse of state funds during the period leading up to the 2015 Presidential Election by purchasing 14,000 carrom boards and 11,000 checkers (Daam) boards for political purposes, which were then distributed through the political offices of the then-presidential candidate, Mahinda Rajapaksa.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohana Abeysuriya and Priyantha Fernando.
+
+During today’s proceedings, the bench ordered the petition to be called again on July 28 to confirm the related matters.
+
+...
+
+[Data](articles/6e9c8973.json)
+
+---
+
+### කාන්තා නායිකාවන් සඳහා දැනුවත් කිරීමේ වැඩසටහනක්
+
+*2025-07-21 16:43:22* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-නායිකාවන්-සඳහා-දැනුවත්-කිරීමේ-වැඩසටහනක්/11-417425) · `si`
+
+නිදහස් සහ සාධාරණ මැතිවරණයන් සඳහා වූ ජනතා ක්‍රියාකාරීත්වයේ (PAFFREL) කාන්තා නායිකාවන් දැනුවත් කිරීමේ වැඩසටහනක් පසුගියදා (17) පාර්ලිමේන්තු සංකීර්ණයේදී පැවැත්විණි.
+
+“දේශපාලනයේ කාන්තා නියෝජනය සහ පාර්ලිමේන්තුවේ කාර්යභාරය” යන මැයෙන් පාර්ලිමේන්තුවේ කාර්ය මණ්ඩල ප්‍රධානී සහ පාර්ලිමේන්තුවේ නියෝජ්‍ය මහ ලේකම් චමින්ද කුලරත්න මහතා මෙහිදී මුඛ්‍ය දේශනය ඉදිරිපත් කළේය.
+
+එසේම පාර්ලිමේන්තුවේ අධ්‍යක්ෂ ව්‍යවස්ථාදායක සේවා සහ වැඩබලන අධ්‍යක්ෂ සන්නිවේදන එම්. ජයලත් පෙරේරා මහතා “පාර්ලිමේන්තුවේ කාරක සභා ක්‍රමය” සම්බන්ධයෙන් දේශනයක් ඉදිරිපත් කරන ලදි.
+
+මෙහිදී වැඩසටහනට ආරම්භයක් සපයමින් PAFFREL සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පවසා සිටියේ පාර්ලිමේන්තු ක්‍රමවේදය සම්බන්ධයෙන් දැනගැනීමට සුදුසුම කණ්ඩායම සමග සම්බන්ධවීමට ලැබීම සතුටක් බවයි. එසේම පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුවේ මහජන සේවා අංශය මෙවැනි වැඩසටහන් සංවිධානය කිරීම සම්බන්ධයෙන් හෙතෙම සිය ස්තූතිය පළ කළේය. විශාකා ධර්මදාස මහත්මිය විසින් වැඩසටහනේ ස්තූති කාථාව ඉදිරිපත් කරන ලදි.
+
+...
+
+[Data](articles/81a5dd4c.json)
+
+---
+
 ### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; ஒருவர் பலி, பலர் காயம் !
 
 *2025-07-21 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220547) · `ta`
@@ -223,6 +403,22 @@ A bond maturing on 01.06.2033 closed at 10.70/77 percent, from 10.70/76 percent.
 ◼️
 
 [Data](articles/0f88e7cb.json)
+
+---
+
+### ASPI records new all-time high
+
+*2025-07-21 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110693/aspi-records-new-all-time-high) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 70 points today.
+
+Accordingly, the ASPI rose by 70.38 points to close at 19,044.08 points, surpassing the previous high of 18,973.70 points recorded on June 12, 2025.
+
+Meanwhile, the S&P SL20 Index moved down by 8.44 points to close at 5,646.66 points.
+
+◼️
+
+[Data](articles/4bdf7797.json)
 
 ---
 
@@ -1675,179 +1871,5 @@ The firm will “also offer the core services of luxury apartments, luxury villa
 ◼️
 
 [Data](articles/c976752b.json)
-
----
-
-### உலகில் சில நாடுகள் 23 நிமிடங்கள் இருளில் மூழ்கும்
-
-*2025-07-21 10:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-சில-நாடுகள்-23-நிமிடங்கள்-இருளில்-மூழ்கும்/175-361442) · `ta`
-
-2027ஒகஸ்ட் 2, ஆம் திகதி அன்று, ஒரு அரிதான முழு சூரிய கிரகணம் நிகழ உள்ளது.
-
-தெற்கு ஐரோப்பா, வட ஆப்பிரிக்கா மற்றும் மத்திய கிழக்கு நாடுகளின் சில பகுதிகளை ஆறு நிமிடங்கள் 23 வினாடிகள் வரை இருளில் மூழ்கடிக்கும். 100 வருடத்திற்கு ஒருமுறை நிகழும் இந்த கிரகணம், 1991 - 2114 ஆண்டுகளுக்கு இடையில் நிலப்பரப்பில் இருந்து பார்க்கக்கூடிய மிக நீண்ட முழு சூரிய கிரகணமாகும்.
-
-◼️
-
-[Data](articles/d3c60383.json)
-
----
-
-### அபேக்ஷா வைத்தியசாலைக்கு உபகரணங்கள் வழங்கி வைப்பு
-
-*2025-07-21 10:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபேக்ஷா-வைத்தியசாலைக்கு-உபகரணங்கள்-வழங்கி-வைப்பு/175-361441) · `ta`
-
-கொழும்பு  4  முஸ்லிம் மகளிர் கல்லூரி பழைய மாணவிகள் சங்கத்தினால்  சேகரிக்கப்பட்ட  நிதியில்  மஹரகம அபேக்ஷா புற்றுநோய் வைத்தியசாலைக்கு 2 Inpusion Pumps, and Mutli Para Monitor ​ஐ,  மருத்துவ அதிகாரி டொக்டர் ரொஷான் அமரதுங்க, பிரதான தாதி குருசிங்கவிடம் கையளிக்கப்பட்டது.
-
-இத் திட்டத்தினை  ராசியா உவைம், சமான் நாசீம் ஆகியோர் முன்னெடுத்தனர்.  கல்லூரி அதிபரும் பழைய மாணவிகள் சங்கத்தின் தலைவி நஸ்ரியா முனாஸ், மற்றும் பழைய மாணவிகள் சங்கத்தின் உப தலைவி பெரோஸா முஸம்மில் மற்றும் செயற்குழு அங்கத்தவர்களும் படத்தில் காணப்படுகின்றனர்
-
-◼️
-
-[Data](articles/7b035b2d.json)
-
----
-
-### හිටපු DIG රොහාන්ගේ නිවසට අල්ලස් නිලධාරීන් ගිහින් නෑ
-
-*2025-07-21 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212460) · `si`
-
-රුපියල් ලක්ෂ 75ක මූල්‍ය වංචා කළැයි චෝදනා එල්ල වී සිටින අල්ලස් කොමිසමේ හිටපු නියෝජ්‍ය පොලිස්පති (විශ්‍රාමික)  රොහාන් ප්‍රේමරත්න මහතාගේ නිවසට අල්ලස් කොමිසමේ නිලධාරීන් පැමිණ නොමැති බව වාර්තා වේ.
-
-රොහාන් ප්‍රේමරත්න මහතාගේ නිවසට අල්ලස් නිලධාරීන් ඇතුළු වී ඔහු රැඳී සිටි ස්ථාන කිහිපයක් අල්ලස් කොමිසමේ නිලධාරීන් විසින් පරීක්ෂා කර ඇති බවට පළ වන මාධ්‍ය වාර්තා සම්බන්ධයෙන් අදහස් පළකරමින් ඒ මහතා සඳහන් කර සිටියේ තමා මේ වනවිටත් නිවසේ රැඳී සිටින බවය.
-
-2021 වසරේ දී දෙහිවල ප්‍රදේශයේ දී නයිජීරියානු ජාතිකයින් ඇතුළු පිරිසක් අත්අඩංගුවට ගෙන තිබූ අතර, එහිදී අදාළ විදෙස් කල්ලිය විසින් උපයාගත් රු ලක්ෂ 75ක මුදලක් කැලණිය කොට්ඨාස අපරාධ ඒකකය විසින් නඩු භාණ්ඩ ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරදී තිබුණි.
-
-එවකට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නියෝජ්‍ය පොලිස්පවති ලෙස කටයුතු කර තිබුණේ රොහාන් ප්‍රේමරත්න මහතාය.
-
-◼️
-
-[Data](articles/a4b51124.json)
-
----
-
-### மருத்துவர்கள் வெளியேறுவதால் நாட்டுக்கு சிக்கல்
-
-*2025-07-21 10:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவர்கள்-வெளியேறுவதால்-நாட்டுக்கு-சிக்கல்/175-361440) · `ta`
-
-கடந்த 2022ஆம் ஆண்டு முதல் 2024ஆம் ஆண்டு வரையிலான மூன்று ஆண்டுகளில் மருத்துவ நிபுணர்கள் உட்பட 1,489 மருத்துவர்கள் நாட்டை விட்டு வெளியேறியுள்ளனர் என்று ஒரு புதிய ஆய்வு வெளிப்படுத்தியுள்ளது.
-
-வருமான வரிச் சட்டங்களில் முன்மொழியப்பட்ட திருத்தங்கள் காரணமாகவும் மருத்துவர்கள் வெளிநாடு செல்வதாக மருத்துவ நிபுணர்கள் கூறுகின்றனர்.
-
-அதிக எண்ணிக்கையிலான மருத்துவர்கள் நாட்டை விட்டு வெளியேறுவது சுகாதார உள்கட்டமைப்பை சீர்குலைத்து, நிபுணர்களின் பற்றாக்குறையை உருவாக்கியுள்ளது, குறிப்பாக கிராமப்புற மற்றும் பின்தங்கிய பகுதிகளிலேயே மருத்துவ நிபுணர்களின் பற்றாக்குறை ஏற்பட்டுள்ளது.
-
-ஆய்வுக்காக பெறப்பட்ட தரவுகளின்படி, 2022ஆம் ஆண்டு முதல் 2024ஆம் ஆண்டு வரையிலான மூன்று ஆண்டுகளில் 1,085 மருத்துவர்கள் வெளிநாடுகளில் சிறப்புப் பயிற்சி பெற்று வருகின்றனர்.
-
-இதில் 2022ஆம் ஆண்டில் 477 மருத்துவர்கள் வெளிநாடுகளுக்குச் சென்றுள்ளனர், 2023ஆம் ஆண்டில் 449 மருத்துவர்கள் வெளிநாடுகளுக்குச் சென்றுள்ளனர்.
-
-...
-
-[Data](articles/21871041.json)
-
----
-
-### அஸ்கிரி அனுநாயக்க தேரர் காலமானார்
-
-*2025-07-21 10:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்கிரி-அனுநாயக்க-தேரர்-காலமானார்/175-361439) · `ta`
-
-முன்னாள் மூத்த விரிவுரையாளரும், வயம்ப அத்கந்த ரஜமஹா விஹாரையின் தலைமை பீட உறுப்பினரும், ஸ்ரீ தம்மதசிபிதான மகா விஹாரவன்சிகா சியாமோபலி மகா நிகாயவின் அஸ்கிரி மகா விஹாரய பர்சாத்தின் அனுநாயக்கருமான வணக்கத்திற்குரிய ஆனமடுவே ஸ்ரீ தம்மதசி தேரர் காலமானார்.
-
-மாரடைப்பு காரணமாக தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்த நிலையில், தனது 67ஆவது வயதில் தேரர் ஞாயிற்றுக்கிழமை (20) இரவு காலமானதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/4596bc8f.json)
-
----
-
-### இன்றைய தங்க விலை நிலைவரம்
-
-*2025-07-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220515) · `ta`
-
-இன்று திங்கட்கிழமை (21) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/b7d55b80.json)
-
----
-
-### 750 கிலோகிராம் பீடி இலைகள் சிக்கின
-
-*2025-07-21 10:36:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/750-கிலோகிராம்-பீடி-இலைகள்-சிக்கின/175-361438) · `ta`
-
-இலங்கை கடற்படையினர்,  ஜூலை 16 மற்றும் 17 ஆம் திகதிகளில் புத்தளம், சேரக்குளிய, கற்பிட்டி மற்றும் கங்கேவாடிய கடலோரப் பகுதிகளில் மேற்கொண்ட சிறப்பு தேடுதல் நடவடிக்கைகளின் போது, நாட்டிற்கு சட்டவிரோதமாக கொண்டு வரப்பட்ட சுமார் எழுநூற்று ஐம்பது (750) கிலோகிராம் பீடி இலைகளுடன் ஒரு (01) டிங்கி படகு கைப்பற்றப்பட்டது.
-
-அதன்படி, 2025 ஜூலை 16 ஆம் திகதி ககேவாடிய கடலோரப் பகுதியில் வடமேற்கு கடற்படை கட்டளையின் விரைவு நடவடிக்கை கடற்படை தலைமையகம் நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, சுமார் நானூற்று பன்னிரண்டு (412) கிலோகிராம் பீடி இலைகளைக் கொண்ட ஒரு டிங்கி படகு கைப்பற்றப்பட்டது, மேலும் 2025 ஜூலை 17 ஆமட் திகதி சேரக்குளிய கடலோரப் பகுதியில் விஜய நிறுவனத்தால் நடத்தப்பட்ட சிறப்பு தேடுதல் நடவடிக்கையின் போது, ஒரு புதரில் மறைத்து வைக்கப்பட்டிருந்த சுமார் முந்நூற்று முப்பத்தெட்டு (338) கிலோகிராம் பீடி இலைகளையும், கடத்தல்காரர்களால் நாட்டிற்கு சட்டவிரோதமாக கொண்டு வரப்பட்ட சுமார் எழுநூற்று ஐம்பது (750) கிலோகிராம் பீடி இலைகளையும் கடற்படையினரால் கைப்பற்றப்பட்டது.
-
-...
-
-[Data](articles/de1e9df0.json)
-
----
-
-### 2,828 கிலோகிராம் உலர்ந்த இஞ்சியுடன் ஒருவர் கைது
-
-*2025-07-21 10:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-828-கிலோகிராம்-உலர்ந்த-இஞ்சியுடன்-ஒருவர்-கைது/175-361437) · `ta`
-
-இலங்கை கடற்படை மற்றும் பொலிஸாருடன் இணைந்து 2025 ஜூலை 19 ஆம் திகதி நுரைச்சோலை சஞ்சீதவத்தை பகுதியில் நடத்திய சிறப்பு கூட்டு தேடுதல் நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்டதாக சந்தேகிக்கப்படும் சுமார் இரண்டாயிரத்து எண்ணூற்று இருபத்தெட்டு (2828) கிலோகிராம் உலர்ந்த இஞ்சியுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டார்.
-
-வடமேற்கு கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் விஜயவிற்கு சொந்தமான ஒரு பகுதியாக இருக்கும் நுரைச்சோலை கடற்படைப் பிரிவு, நுரைச்சோலை பொலிஸாருடன் இணைந்து, நுரைச்சோலை சஞ்சீதவத்தை பகுதியில் நடத்தப்பட்ட இந்த சிறப்பு கூட்டுத் தேடுதல் நடவடிக்கையின் போது, அப்பகுதியில் சந்தேகத்திற்கிடமான ஒரு வீட்டை சோதனையிட்டனர்.
-
-இச்சோதனையின் போது, கடல் வழியாக சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் எழுபது (70) பைகளில் அடைக்கப்பட்ட சுமார் 2828 கிலோகிராம் உலர்ந்த இஞ்சியுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டார்.
-
-...
-
-[Data](articles/776c20f7.json)
-
----
-
-### Indictments served against Mahindananda and Nalin Fernando in new case
-
-*2025-07-21 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110675/indictments-served-against-mahindananda-and-nalin-fernando-in-new-case) · `en`
-
-Former ministers Mahindananda Aluthgamage and Nalin Fernando, both currently serving prison sentences, along with former Sports Ministry Secretary, retired Major General Nanda Mallawarachchi, who is also serving a prison sentence, have been indicted today (21) at the Colombo High Court.
-
-They are currently serving prison sentences for being accused of committing an offense under the Public Property Act by importing carrom boards and dam boards through the Lanka Sathosa Company during the 2014 presidential election and distributing them to sports associations with the aim of gaining political advantage.
-
-Following the indictment, Colombo High Court Judge Manjula Thilakaratne ordered the release of the three defendants on bail, said Ada Derana reporter.
-
-However, due to their existing prison sentences, the Judge directed that Mahindananda Aluthgamage and Nalin Fernando be produced before the court on the next scheduled hearing date.
-
-◼️
-
-[Data](articles/c6b315d0.json)
-
----
-
-### Officials say 85 Palestinians seeking aid are killed in Gaza as Israel widens evacuation orders
-
-*2025-07-21 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110674/officials-say-85-palestinians-seeking-aid-are-killed-in-gaza-as-israel-widens-evacuation-orders) · `en`
-
-Gaza saw its deadliest day yet for aid-seekers in over 21 months of war as at least 85 Palestinians were killed while trying to reach food on Sunday, the territory’s Health Ministry said.
-
-There was new alarm as Israel’s military issued evacuation orders for parts of central Gaza, one of the few areas where it has rarely operated with ground troops and where many international organizations trying to distribute aid are located. One group said several offices were told to evacuate immediately.
-
-The largest death toll was in devastated northern Gaza, where living conditions are especially dire. At least 79 Palestinians were killed while trying to reach aid entering through the Zikim crossing with Israel, Zaher al-Waheidi, head of the Health Ministry’s records department, told The Associated Press.
-
-The U.N. World Food Program said 25 trucks with aid had entered for “starving communities” when it encountered massive crowds.
-
-...
-
-[Data](articles/fc480684.json)
-
----
-
-### ஓய்வூதியம் கேட்டு ஜெனீவா செல்லும் முன்னாள் எம்.பிக்கள்
-
-*2025-07-21 10:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியம்-கேட்டு-ஜெனீவா-செல்லும்-முன்னாள்-எம்-பிக்கள்/175-361436) · `ta`
-
-முன்னாள் பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியம் இரத்து செய்வதை எதிர்த்து  ஓய்வு பெற்ற பாராளுமன்ற உறுப்பினர்கள் சங்கம், ஜெனீவா மனித உரிமைகள் ஆணைக்குழு மற்றும் பாராளுமன்றங்களுக்கு இடையேயான ஒன்றியத்தில் முறைப்பாடு செய்ய முடிவு எடுத்துள்ளன.
-
-இது தொடர்பாக அறிக்கை ஒன்றை வெளியிட்டுள்ள சங்கத்தின் செயலாளர் முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேமசிறி மானகே,“ முன்னாள் பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தை இரத்து செய்ய அமைச்சரவை ஏற்கனவே முடிவு எடுத்துள்ளது. இது மிகவும் நியாயமற்ற முடிவு என்று கூறி தங்கள் மருந்துகளைப் பெற ஓய்வூதியம் வரும் வரை காத்திருக்கும் வயதான பாராளுமன்ற உறுப்பினர்கள் பலர் இந்த முடிவால் பெரும் சிக்கலில் சிக்குவார்கள்” என்றும் சுட்டிக்காட்டினார்.
-
-ஒரு குடும்பத்தின் அடிப்படைத் தேவைகளைக் கூட ஓய்வூதியத்தால் பூர்த்தி செய்ய முடியாத சூழ்நிலையில் ஓய்வூதியத்தை இரத்து செய்வதால் ஏற்படும் சூழ்நிலையை பரிசீலிக்குமாறும் அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளார்
-
-◼️
-
-[Data](articles/4f45ef8e.json)
 
 ---

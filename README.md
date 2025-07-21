@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 07:38:46**
+As of **2025-07-21 08:32:55**
 
 ## Newspaper Stats
 
-*Scraped **65,785** Articles*
+*Scraped **65,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 4,019
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,312
+adalk | 6,314
 adaderanalk | 8,040
 tamilmirrorlk | 9,429
 virakesarilk | 10,962
-adaderanasinhalalk | 11,300
+adaderanasinhalalk | 11,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,785 articles have been extended.
+61,973 (94.2%) of 65,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### TikTok තරුව 'Papa Jake' ජීවිතයට සමුදෙයි
+
+*2025-07-21 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212456) · `si`
+
+සමාජ මාධ්‍ය තුල 'පපා ජේක්'  Papa Jake නමින් ප්‍රසිද්ධව සිටින ජේක් ලාර්සන් වයස අවුරුදු 102 දී මිය ගොස් තිබේ.
+
+1944 දී උතුරු ප්‍රංශයේ වෙරළ තීරයේ නාසි ජර්මනියේ හමුදාවන්ට පහර දුන් ඩී-ඩේ හි මිත්‍ර හමුදා අතර ලාර්සන් ද සිට ඇත.
+
+සමාජ මාධ්‍ය වැලඳ ගත් ලාර්සන් ට TikTokහි අනුගාමිකයින් මිලියන 1.2 ක් සිටින අතර ඒ හරහා ඔහු දෙවන ලෝක යුද්ධයේ සහ ඔහුගේ මියගිය සගයන් සම්බන්ධ මතකයන් කථාකරමින් සමාජය සමඟ බෙදා ගත්තේය.
+
+දෙවන ලෝක යුද්ධයේ විශේෂ මෙහෙයුමක් සිදුකළ "D-Day" නමින් හඳුන්වන දිනයෙ හි 80 වන සංවත්සරය සනිටුහන් කරමින් බ්‍රිතාන්‍ය-ඉරාන මාධ්‍යවේදී ක්‍රිස්ටියන් අමන්පූර් විසින් ලාර්සන් සමඟ සිදුකළ සම්මුක සාකච්ඡාව සඳහා  එමී සම්මානයක් දිනා ගත්තේය.
+
+ඔහුගේ මිනිබිරිය මැකේලා ලාර්සන් සමාජ මාධ්‍ය හරහා පවසා ඇත්තේ ඔහු ජූලි 17 වනදා මියගිය බවත් අවසන් මොහොත දක්වාම ඉතාම සතුටින් ඔහු ජීවත් වූ බවත්ය.
+
+දෙවන ලෝක යුද්ධයේදී බල්ජ් සටනේදී ඔහු එක්සත් ජනපද හමුදාවේ ද සේවය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/04681c7f.json)
+
+---
+
+### පෙම්වතාව බේරාගන්න ගිය සරසවි පෙම්වතිය දියේ ගිලී අතුරුදන්
+
+*2025-07-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212455) · `si`
+
+මහියංගණය පොලිස් වසමේ, 17 කණුව ප්‍රදේශයේ දී වියානා ඇළෙහි ඇළ කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරාගැනීමට ගිය පෙම්වතිය දියේ ගිලී අතුරුදන් වී තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ (20) සවස 5ට පමණ මෙම අනතුර සිදුව ඇති බවය.
+
+ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපොළ ඇළ කණ්ඩිය මතින් ඇවිද පැමිණ ඇති අතර, දියසෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා ගොස් ඇත.
+
+එම අවස්ථාවේ දී පෙම්වතිය ඔහුව බේරාගැනීමට අත දී ඇති අතර, දෙදෙනාම ඇළට වැටී තිබේ.
+
+පසුව එම ස්ථානයෙන් ගිය මහියංණය පොලිස් පුහුණු පාසලේ නිලධාරියෙක් සහ ඔහුගේ බිරිඳ වහාම ඇළට පැන තරුණයාව බේරාගෙන ඇති අතර, තරුණිය සොයා ගැනීමට ඔවුන්ට හැකිවී නොමැත.
+
+තරුණයාව බේරාගත් පොලිස් නිලධාරියාගේ බිරිඳ 'අද දෙරණ'ට මෙලෙස අදහස් දැක්වීය.
+
+...
+
+[Data](articles/1ae2a14e.json)
+
+---
 
 ### අස්ගිරි පාර්ශවයේ අනුනායක පූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි හිමි අපවත් වෙති
 
@@ -46,7 +90,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ප්‍රදේශ කිහිපයකට අද මි.මී 75 ඉක්මවූ වැසි
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
 
 *2025-07-21 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212452) · `si`
 
@@ -1054,6 +1098,42 @@ Fire Capt. Adam VanGerpen said a line of people — mostly female — were waiti
 
 ---
 
+### දේශීය කිරි නිෂ්පාදනය දෙගුණයක් කිරීමට සැලසුම්
+
+*2025-07-20 17:22:20* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-කිරි-නිෂ්පාදනය-දෙගුණයක්-කිරීමට-සැලසුම්/11-417411) · `si`
+
+දේශීය  කිරි අවශ්‍යතාවෙන් දැනට නිෂ්පාදනය වන  40% ක ප්‍රමාණය  80% දක්වා  වර්ධනය කර ගැනීමට අවශ්‍ය  කටයුතු කරමින්  තිබෙන බව කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍යාංශය සඳහන් කරයි.
+
+මේ  යටතේ ගොවීන්ගේ  කිරි නිෂ්පාදනය වැඩි දියුණු කරමින් ඔවුන්ගේ  යටිතල පහසුකම්, කිරි ගවයන් ලබා දීම සහ වැඩි කිරි ප්‍රමාණයක් ලබා ගැනීමට අවශ්‍ය තාක්ෂණික දැනුම ලබා සිදුකරන බවද පෙන්වා  දෙයි.
+
+මේ සඳහා කිරි ඉතිරෙන රටක් DAIRY HUB ව්‍යාපෘතිය රටේ සියලු ප්‍රදේශවල පශු වෛද්‍ය කාර්යාල මගින් සිදු කරනු ලබන අතර මේ සඳහා අවහ්‍ය තාක්ෂණික සේවා සැපයීම රජය විසින්  සිදුකරන බවද  සඳහන් කරයි.
+
+මෙම වැඩසටහනට  සම්බන්ධ වීමට කැමති ගොවීන් තම බල ප්‍රදේශයේ  පශු වෛද්‍ය කාර්යාල මගින් අයදුම් පත්‍රයක්  ලබා ගෙන එය සම්පූර්ණ කර සාමාජිකත්වය ලබා ගත යුතු ය.
+
+◼️
+
+[Data](articles/32d0e310.json)
+
+---
+
+### ජපානය, තුර්කිය හරහා යුරෝපයට යන්න ඉරාන ජාතිකයාගේ ගමන කටුනායකින් නවතී
+
+*2025-07-20 17:15:55* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය--තුර්කිය-හරහා-යුරෝපයට-යන්න-ඉරාන-ජාතිකයාගේ-ගමන-කටුනායකින්-නවතී/11-417410) · `si`
+
+කූඨ ලෙස සකස් කළ බ්‍රිතාන්‍ය ජාතික ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන ජපානය , තුර්කිය හරහා යුරෝපය වෙත පැන යාමට තැත් කළ ඉරාන ජාතිකයෙකු 07/19 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ ( Border Surveillance Unit ) නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු 47 හැවිරිදි ඉරාන ජාතිකයෙකි . ඔහු 07/19 දින රාත්‍රී 08.00 ට ජපානයේ නරීටා බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔහු සිය ගුවන් සේවා නිශ්කාශන කටයුතු සිදු කර ගැනීමේදී , ඔහු ඉදිරිපත් කළ බ්‍රිතාන්‍ය ජාතික ගමන් බලපත්‍රය පිළිබද සැක සිතූ ගුවන් සේවා නිලධාරීන් , ඔහුගේ සියලුම ලියකියවිලි ද සමග ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් වෙත යොමු කර තිබේ .
+
+එහිදී සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම් වලදී , මෙම ගමන් බලපත්‍රය කූඨ ලෙස සකස් කළ එකක් බවත් , ඒ සදහා ඔහු එරට තැරැව්කරුවෙකු වෙත ඇමෙරිකානු ඩොලර් 15,000 ක ( ශ්‍රී ලංකා රුපියල් ලක්ෂ 45 ක් ) ගෙවා ඇති බවත් අනාවරණය කිරීමක් සිදු කර තිබූණි .
+
+...
+
+[Data](articles/ab454cd7.json)
+
+---
+
 ### රූපලාවණ්‍යාගාරයක් තුළ සිටි පිරිසක් හදිසියේ සිහිසුන් වී රෝහලට
 
 *2025-07-20 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212444) · `si`
@@ -1683,85 +1763,5 @@ Further examination of his wallet revealed his genuine Iranian passport and a fl
 ◼️
 
 [Data](articles/c96af398.json)
-
----
-
-### රජයේ තේක්ක රක්ෂිතයේ ගැටුමකින් වැඩපාලක මරුට
-
-*2025-07-20 14:15:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-තේක්ක-රක්ෂිතයේ-ගැටුමකින්-වැඩපාලක-මරුට/11-417402) · `si`
-
-සීගිරිය පොලිස් බල ප්‍රදේශයේ ඉනාමලුව රජයේ තේක්ක  රක්ෂිතයේ මහා වන මැද   කම්කරුවන් රැඳී සිටි  වාඩියක 19 දින රාත්‍රියේ ඇතිවූ ගැටුමකින් පහර කෑමකට ලක්ව එක් අයෙකු මියගොස් තවත් අයකු බරපතල තුවාල ලබා දඹුල්ල මූලික රෝහලට ඇතුළත් කර ඇති බව සීගිරිය පොලිසිය කියයි.
-
-ඝාතන සිද්ධිය සම්බන්ධයෙන් එම වාඩියේ සිටි එක් අයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇති අතරින්  තුවාල ලබා ඇති පුද්ගලයාට පහර දුන් අයකුද එම වාඩියේම සිටියදී සැකපිට අත්අඩංගුවට ගත් බව සීගිරිය පොලිසිය කියයි.
-
-මෙසේ මරණයට පත්ව ඇත්තේ වැඩ පාලකවරයෙකු ලෙස සේවය කළ පොල්පිතිගම මොරගොල්ලාගම , රඹේ, ප්‍රදේශයේ පදිංචි  ක්රිස්නන් රාජ් කුමාර් 55  හැවිරිදි අයෙකු බව පොලිසිය සඳහන් කළේය.
-
-දඹුල්ල ඉනාමලුව රජයේ තේක්ක රක්ෂිතයේ දැව ඉවත් කිරීමේ   කොන්ත්‍රාත් ලබාගෙන සිටි අයකු සේවා සඳහා යොදාගෙන සිටි  කම්කරුවන් පිරිසක් මහ වන මැද වාඩි   තනාගෙන නැවතී සිට  තිබේ.
-
-...
-
-[Data](articles/5478fbf8.json)
-
----
-
-### Suspect arrested with 2,828kg of smuggled dried ginger in Norochcholai
-
-*2025-07-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110654/suspect-arrested-with-2828kg-of-smuggled-dried-ginger-in-norochcholai) · `en`
-
-An individual has been arrested for the possession of 2,828kg of dried ginger during a coordinated search operation by the Sri Lanka Navy and Police in Sanjeethawaththa, Norochcholai.
-
-The search operation was carried out by the Naval Detachment Norochcholai of the Northwestern Naval Command with the assistance of the Norochcholai Police.
-
-Upon search of a suspicious house in Sanjeethawaththa, the stash of smuggled dried ginger in 70 sacks, was recovered.
-
-The arrested suspect was identified as a resident of Norochcholai, aged 33.
-
-The suspect, together with the stock of dried ginger, was handed over to the Norochcholai Police for further action.
-
-◼️
-
-[Data](articles/2d492da3.json)
-
----
-
-### One dead, another injured in clash at Inamaluwa Teak Reserve in Sigiriya
-
-*2025-07-20 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110653/one-dead-another-injured-in-clash-at-inamaluwa-teak-reserve-in-sigiriya) · `en`
-
-An individual has died while another has sustained injuries following a clash that broke out in a ‘wadiya’ where labourers were staying, within the Inamaluwa Teak Reserve in Sigiriya.
-
-The injured individual has been admitted to the Dambulla Base Hospital for treatment.
-
-Meanwhile, the deceased has been identified as a 55-year-old resident of Moragollagama, Polpithigama, who was employed as a supervisor.
-
-Two other individuals who were at the scene have been arrested in connection with the incident.
-
-According to preliminary investigations, the death resulted from a clash that began over a financial dispute and turned violent.
-
-Reportedly, all four individuals involved had been working for a contractor hired to fell trees in the government-owned teak reserve.
-
-The Sigiriya Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/aed04165.json)
-
----
-
-### அரசியல் கைதிகளின் விடுதலையை நேசிக்கின்ற எவரும் 24, 25ம் திகதிகளில் உங்கள் வீடுகளில் இருந்து வருகின்ற போது இதயசுத்தியோடு ஒரு துளிநீரையாவது கொண்டுவந்து விடுதலை விருட்சத்தினை நாட்டுவதற்கு உதவுங்கள்- குரலற்றவர்களின் குரல்
-
-*2025-07-20 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/220459) · `ta`
-
-எதிர்வரும் 24 25;ம்  திகதிகளில் தமிழ் அரசியல் கைதிகளின் விடுதலையை நேசிக்கின்ற எவரும் உங்கள் வீடுகளில் இருந்து வருகின்ற போது இதயசுத்தியோடு ஒரு துளிநீரையாவது கொண்டுவந்து விடுதலை விருட்சத்தினை நாட்டுவதற்கு உதவுங்கள் என குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் கோமகன் வேண்டுகோள் விடுத்துள்ளார்.
-
-சிறைகளில் வாடுகின்ற அரசியல் கைதிகளின் விடுதலையை வலியுறுத்திய பொது அமைப்புகளின் கலந்துரையாடல்..!(19.07.2025) யாழ்ப்பாணம் தந்தை செல்வா அரங்கில் நடைபெற்றது.
-
-இம்மாதம் 24,25 சிறையில் படுகொலை செய்யப்பட்ட தமிழ் அரசியல் கைதிகளுக்கான நினைவேந்தலும் அதற்கான நூதனப் போராட்டமும் முன்னெடுப்பதற்காக குறித்த கலந்துரையாடல் இன்றைய தினம் நடத்தப்பட்டது.
-
-குரல் அற்றவர்களின் குரல் அமைப்பின் ஏற்பாட்டில் குறித்த கலந்துரையாடல் முன்னெடுக்கப்பட்டது 8 மாவட்டங்களிலும் விடுதலை விருட்சம் நாட்வதற்காக விடுதலை நீரை பெற்றுக் கொள்வது தொடர்பாகவும் இந்த கலந்துரையாடலில் கலந்தாலோசிக்கப்பட்டது.
-
-...
-
-[Data](articles/39d83b3a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 02:20:09**
+As of **2025-07-22 02:32:47**
 
 ## Newspaper Stats
 
-*Scraped **65,971** Articles*
+*Scraped **65,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,664
+dailyftlk | 4,665
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,971 articles have been extended.
+61,973 (93.9%) of 65,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### Governance sans management skill results in “no action, talk only”
+
+*2025-07-22 02:12:50* · [`dailyftlk`](https://www.ft.lk/columns/Governance-sans-management-skill-results-in-no-action-talk-only/4-779287) · `en`
+
+By enhancing understanding of effective political skills, leaders can foster healthier execution dynamics and improve overall governance
+
+Much is being spoken about the inability of the current Government to deliver what they promised. Walk the talk where primarily they spoke a focused “different” journey towards economic recovery, crime busting within two weeks and a clean Sri Lanka with discipline, justice, fair play and eco-friendly practices resulting in a breath of fresh air and hope for all.
+
+None of the above promise seems to be worked on in a strategic manner resulting in increasing criticism that the Government consists of talkers only with an “Opposition mindset” sans progressive action.
+
+...
+
+[Data](articles/9363504b.json)
+
+---
 
 ### Towards decentralised, citizen-centric governance model for Sri Lanka
 
@@ -1817,27 +1833,5 @@ Plans to build “a twin tower marvel” that will house the “world’s larges
 ◼️
 
 [Data](articles/9431283c.json)
-
----
-
-### உணவுவிநியோகம் இஸ்ரேலால் முடக்கம் - காசாவில் பட்டினியால் நான்கு வயது சிறுமி மரணம்
-
-*2025-07-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220540) · `ta`
-
-இஸ்ரேல் உணவுவிநியோகத்தினை முடக்கியுள்ள நிலையில் காசாவில் பட்டினியால் நான்குவயது சிறுமி உயிரிழந்த பரிதாபம் இடம்பெற்றுள்ளது.
-
-பட்டினி மற்றும் மந்தபோசாக்கினால் ஏற்பட்ட பாதிப்புகளால் இந்த சிறுமி மத்திய காசாவில் உள்ள மருத்துவமனையில் உயிரிழந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவித்துள்ளன.
-
-2023 ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர் காசாவில் 76 சிறுவர்கள் மந்தபோசாக்கினால் உயிரிழந்துள்ளனர் என காசாவின் மருத்துவமனை வட்டாரங்கள் தெரிவித்துள்ளன.
-
-மார்ச் மாதம் இஸ்ரேல் உணவுவிநியோகத்தை தடை செய்த பின்னரே மந்தபோசாக்கு பட்டினியால் அனேக மரணங்கள் இடம்பெற்றுள்ளன என உலக சுகாதார ஸ்தாபனம் தெரிவித்துள்ளது.
-
-கடந்த நான்கு நாட்களில் உயிரிழந்த சிறுவர்களில் ரசானும் ஒருவர் .மூன்று மாத குழந்தையொன்றும் உயிரிழந்துள்ளது.
-
-கடந்த 24 மணிநேரத்தில் காசாவில் பட்டினி காரணமாக 18 பேர் உயிரிழந்துள்ளனர் என தெரிவித்துள்ள காசாவின் சுகாதார அமைச்சு இது அந்த பகுதியில் நெருக்கடி நிலை மேலும் மோசமடைவதை  வெளிப்படுத்தியுள்ளதாக தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/e62d7cf0.json)
 
 ---

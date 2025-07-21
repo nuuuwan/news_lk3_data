@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 11:51:22**
+As of **2025-07-21 12:07:21**
 
 ## Newspaper Stats
 
-*Scraped **65,829** Articles*
+*Scraped **65,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,55 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-economynextcom | 4,023
+economynextcom | 4,024
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,319
+adalk | 6,320
 adaderanalk | 8,045
-tamilmirrorlk | 9,446
+tamilmirrorlk | 9,447
 virakesarilk | 10,965
-adaderanasinhalalk | 11,308
+adaderanasinhalalk | 11,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,829 articles have been extended.
+61,973 (94.1%) of 65,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### රතු නිවේදනයක්
+
+*2025-07-21 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212465) · `si`
+
+තද සුළං පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් නිවේදනය කර තිබේ.
+
+◼️
+
+[Data](articles/ae8c3a5a.json)
+
+---
+
+### කොළඹ - නුවර පාරේ සිදු වූ අනතුරකින් දෙදෙනෙකු රෝහලට
+
+*2025-07-21 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212463) · `si`
+
+කොළඹ නුවර පාරේ තිත්වැල් මංකඩ ප්‍රදේශයේ ටිපර් රථයක් සහ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් එකිනෙක ගැටී අනතුරක් සිදුව තිබුණි.
+
+අනතුරින් බස් රථයේ රියදුරු සමග හිමිනමක් තුවාල ලබා රෝහල් ඇතුළත් කර ඇති බව දංඕවිට පොලීසිය පවසයි.
+
+නුවර දෙසට යමින් තිබූ ටිපර් රථයක අනුරාධපුරයේ සිට කොළඹ බලා ධාවනය වෙමින් තිබූ බස් රථය ගැටී තිබුණු අතර, බස් රථය මාර්ගයේ ඉවතට පැන වෙළෙඳසැලක් අසල නතරවී තිබුණි.
+
+බස් රථයේ වැරදි මංතීරුවේ ධාවනය වීම නිසා ඉදිරියෙන් පැමිණි ටිපර් රථයේ ගැටී අනතුර සිදුව ඇති බව දංඕවිට පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f889de6f.json)
+
+---
 
 ### ஜப்பான் தேர்தல்: பிரதமர் இஷிபாவுக்கு நெருக்கடி
 
@@ -70,7 +100,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 சர்ச்சைக்குரிய கரம் பலகைகள் பரிவர்த்தனை தொடர்பான மற்றொரு வழக்கு தொடர்பாக குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்ட பின்னர், முன்னாள் விளையாட்டு அமைச்சர் மஹிந்தானந்த அளுத்கமகே, முன்னாள் லங்கா சதோச தலைவர் நளின் பெர்னாண்டோ மற்றும் இலங்கை இராணுவத்தின் முன்னாள் தலைமைத் தளபதி (ஓய்வு) மேஜர் ஜெனரல் நந்த மல்லவராச்சி ஆகியோருக்கு கொழும்பு மேல் நீதிமன்றம் இன்று பிணை வழங்கியது.
 
-சட்டமா அதிபரால் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டதைத் தொடர்ந்து, கொழும்பு தலைமை மேல் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன, மூன்று பிரதிவாதிகளையும் தலா 100,000 ரூபாய் ரொக்கப் பிணையிலும், பிரதிவாதிக்கு 2.5 மில்லியன் ரூபாய் வீதம் இரண்டு சரீரப் பிணைகளிலும் விடுவிக்க உத்தரவிட்டார்.
+சட்டமா அதிபரால் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டதைத் தொடர்ந்து, கொழும்பு  மேல் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன, மூன்று பிரதிவாதிகளையும் தலா 100,000 ரூபாய் ரொக்கப் பிணையிலும், பிரதிவாதிக்கு 2.5 மில்லியன் ரூபாய் வீதம் இரண்டு சரீரப் பிணைகளிலும் விடுவிக்க உத்தரவிட்டார்.
 
 இருப்பினும், அதே சம்பவத்தின் அடிப்படையில் இலஞ்சம் மற்றும் ஊழல் சாத்துதல்களைப் புலனாய்வு செய்யும் ஆணைக்குழுவால் தாக்கல் செய்யப்பட்ட தனி வழக்கில், மஹிந்தானந்த அளுத்கமகே மற்றும் நலின் பெர்னாண்டோ ஆகியோருக்கு மேல் நீதிமன்ற நிரந்தர விசாரணை நீதிமன்றத்தால் ஏற்கனவே 20 ஆண்டுகள் கடுங்காவல் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
 
@@ -173,6 +203,24 @@ The firm will “also offer the core services of luxury apartments, luxury villa
 ...
 
 [Data](articles/192fa383.json)
+
+---
+
+### Sri Lanka Port City ICC unit gets 25-year tax holiday for Rs13.8bn residential towers
+
+*2025-07-21 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-icc-unit-gets-25-year-tax-holiday-for-rs13-8bn-residential-towers-231842/) · `en`
+
+ECONOMYNEXT – ICC Port City (Private) Limited, which will build two high-end residential towers and luxury villas in the Colombo Port City, has been given a 25-year tax holiday and half the rate for the next 10 years.
+
+ICC Port City, which is promoted by International Construction Consortium (Private) Limited, will invest 13.8 billion rupees and 66 million dollars in the project, taking land plot number 1-02-05 spanning an area of 13,945 square meters.
+
+ICC Port City will cater to international markets, conduct sales and marketing activities to sell apartments and to engage with foreign investors to draw foreign investment, a gazette notice detailing tax breaks said.
+
+The firm will “also offer the core services of luxury apartments, luxury villas and commercial space for sale or rent as well as serviced apartments and management services extending to rental management services and condominium management services.”
+
+...
+
+[Data](articles/71927985.json)
 
 ---
 
@@ -587,6 +635,24 @@ Around 21 passengers from both buses sustained injuries and were immediately adm
 ◼️
 
 [Data](articles/c2e45410.json)
+
+---
+
+### ඊශ්‍රායෙල ප්‍රහාරවලින් ආධාර එනතුරු සිටි ගාසා සිවිල් වැසියන් 67ක් මරුට
+
+*2025-07-21 07:52:50* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල-ප්‍රහාරවලින්-ආධාර-එනතුරු-සිටි-ගාසා-සිවිල්-වැසියන්-67ක්-මරුට/11-417415) · `si`
+
+උතුරු ගාසා තීරයේ එක්සත් ජාතීන්ගේ ආධාර ලොරි එනතුරු බලා සිටි ගාසා වැසියන් අවම වශයෙන් 67 දෙනෙකු ඊශ්‍රායල හමුදාව  ඝාතනය කර ඇති බව හමාස් සංවිධානය පාලනය යටතේ පවතින සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+එක්සත් ජාතීන්ගේ ලෝක ආහාර වැඩසටහන පැවසුවේ එහි ට්‍රක් රථ 25 ක රථ පෙළ ඊශ්‍රායලයෙන් එතෙර වී මුරපොලවල් වලින් ඉවත් වූ විටම "කුසගින්නෙන් පෙළෙන සිවිල් වැසියන් විශාල පිරිසක් වෙඩි තබා ඝාතනය කළ" බවයි.
+
+ඊශ්‍රායල ආරක්ෂක හමුදා (IDF) පැවසුවේ "ක්ෂණික තර්ජනයක්" ඉවත් කිරීම සඳහා "අනතුරු ඇඟවීමේ වෙඩි තැබූ" බවයි. වාර්තා වූ මරණ සංඛ්‍යාව පිළිබඳව එය විවාද කළේය.
+
+සෙනසුරාදා අමාත්‍යාංශය අනතුරු ඇඟවූයේ ගාසා තීරයේ දැඩි කුසගින්න වැඩි වෙමින් පවතින බවත්, "අධික වෙහෙස සහ තෙහෙට්ටුවෙන්" එහි පහසුකම් වෙත පැමිණෙන පුද්ගලයින් සංඛ්‍යාව වැඩි වන බවත්ය.
+
+◼️
+
+[Data](articles/c81a8fb4.json)
 
 ---
 
@@ -1306,6 +1372,26 @@ These hidden liabilities—comprising state-owned enterprise (SOE) debts, govern
 
 ### சம்பூரில் மனித எச்சங்கள் மீட்பு
 
+*2025-07-20 20:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சம்பூரில்-மனித-எச்சங்கள்-மீட்பு/46-361423) · `ta`
+
+சம்பூர் கடற்கரையை அண்மித்த சிறுவர் பூங்கா பகுதியில் இன்று(20) கண்ணிவெடி நிறுவனத்தினர் அகழ்வில் ஈடுபட்ட போது மனித மண்டையோடு மற்றம் எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்டன.
+
+இப்பகுதியில் மெக் கண்ணிவெடி அகற்றும் நிறுவனம் சென்ற 18 ந் திகதி முதல் முகாமிட்டு அகழ்வுகளில் ஈடுபட்டு வருகின்றனர்.
+
+இந்நிலையில் இன்று காலை அகழ்வின் போது மேற்படி மனித எலும்பு எச்சங்கள் வெளிப்பட்டுள்ளது.இதனை அடுத்து சம்பவ இடத்திற்கு வருகை தந்த மூதூர் நீதிவான் நீதிமன்ற பதில் நீதிபதி எம்.எம்.பஸ்லீம் அகழ்வு பணிகளை உடனடியாக நிறுத்த உத்தரவிட்டார்.
+
+அத்துடன் பிரதேசத்திற்கு முழுமையாக பொலிஸ் பாதுகாப்பை வழங்குமாறும் மேலும் நீதிபதி,சட்டவைத்திய அதிகாரி,தடயவியல் அதிகாரிகள்,புவிச்சரிதவியல் அதிகாரிகள்,தொல்பொருள் திணைக்கழக அதிகாரிகள்,பொலிஸார் முன்னிலையில் எதிர்வரும் 23 ஆந் திகதி முழுமையான அகழ்வு பணிகள் நடைபெற வேண்டும் எனவும் உத்தரவிட்டார்.
+
+மனித எச்சங்கள் கிடைத்துள்ள இடத்தில் இருந்து 40 மீற்றர் தூரத்தில் சம்பூர் படுகொலை நினைவுத் தூபி அமைந்துள்ளது.
+
+◼️
+
+[Data](articles/0a63d68e.json)
+
+---
+
+### சம்பூரில் மனித எச்சங்கள் மீட்பு
+
 *2025-07-20 20:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பூரில்-மனித-எச்சங்கள்-மீட்பு/175-361423) · `ta`
 
 சம்பூர் கடற்கரையை அண்மித்த சிறுவர் பூங்கா பகுதியில் இன்று(20) கண்ணிவெடி நிறுவனத்தினர் அகழ்வில் ஈடுபட்ட போது மனித மண்டையோடு மற்றம் எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்டன.
@@ -1723,85 +1809,5 @@ Six of them were admitted to the Kandy National Hospital, while the other two we
 ◼️
 
 [Data](articles/04dde96e.json)
-
----
-
-### 30 injured after car plows through crowd outside LA nightclub; driver pulled from vehicle and shot
-
-*2025-07-20 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110662/30-injured-after-car-plows-through-crowd-outside-la-nightclub-driver-pulled-from-vehicle-and-shot) · `en`
-
-A vehicle rammed into a crowd of people waiting to enter a performance venue along a busy boulevard in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the driver, authorities said.
-
-The driver was later found to have been shot, according to police, who were searching for a suspected gunman who fled the scene along Santa Monica Boulevard in East Hollywood.
-
-It was not immediately clear if the driver was shot before or after the crash or why he drove into the crowd, a police spokesperson said.
-
-Twenty-three victims were taken to hospitals and trauma centers, according to police. Seven were in critical condition, the Los Angeles Fire Department said in a statement.
-
-Fire Capt. Adam VanGerpen said a line of people — mostly female — were waiting to enter Vermont Hollywood when they were struck by a Nissan Versa that also hit a food vending cart and valet stand. “This was a very chaotic scene,” said VanGerpen, a public information officer.
-
-...
-
-[Data](articles/8b6012d0.json)
-
----
-
-### කුකුළු මස් කිලෝව රු. 1500ක් දක්වා ඉහළට
-
-*2025-07-20 17:26:10* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-කිලෝව-රු--1500ක්-දක්වා-ඉහළට/11-417412) · `si`
-
-ඇතැම් ප්‍ර දේශවල කුකුල් මස් (දවස) කිලෝවක සිල්ලර මිල රුපියල් එක්දහස් පන්සියක් දක්වා ඉහල ගොස් තිබේ.
-
-මේ මස ආරම්භයේදි රුපියල් එක් දහස් එකසියත් රුපියල් එක් දහස් එකසිය හැටත් අතර මිලකට අලෙවි වු කුකුල් මස කිලෝවක මිල දෙවන සතිය වන විට රුපියල්  එක්දහස් තුන්සිය පනහක් දක්වා ඉහල ගොස් තිබුණි.
-
-තුන්වන සතිය වන විට එම මිල රුපියල් එක් දහස් පන්සියක් දක්වා ඉහල ගොස් තිබෙන අතර මිට සාපෙක්ෂව ශිතකරණවල තබා අලෙවි කරන කුකුල් මස් කිලෝවක මිල පවා රුපියල් එක්දහස් දෙසියක් දක්වා ඉහල ගොස් තිබේ.
-
-සමාන්‍ය තත්ත්වයේ බිත්තරයක මිල රුපියල් තිස් පහත් රුපයල් තිස් අටත් අතර මිලකට අලෙවි  වන අතර කුඩා බිත්තරයක් රුපියල් තිහත් තිස් දෙකක් අතර මිලකට අලෙවි වේ.
-
-සාලය. යක්සාලය වැනි කුඩා මත්ස්‍ය කිලෝවක මිල රුපියල් අටසිය ඉක්මවා ගොස් තිබෙන අතර තලපත්   හා කෙලවල් කිලොවක සිල්ලර මිල රුපියල් තුන්දහසක් වන අතර  තොග මිල රුපියල් දෙදහසක පමණ මිලකට අලෙවි වේ. හුරුල්ලා කිලෝවක මිල සිල්ලර මිල රුපියල්  දහසත් එක්දහස් දෙසියක් අතර මිලක් වන අතර   අතර ඇතැම් ප්‍ර දේශවල හුරුල්ලා මාළු මිලදි ගැනිමට නොමැති බවද පාරිභෝගික ජනතාව සදහන් කරති.
-
-...
-
-[Data](articles/950d7e52.json)
-
----
-
-### குர்தீஸ்தான் – பெறுதலே குறிக்கோள்
-
-*2025-07-20 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220485) · `ta`
-
-ஈரானில் இஸ்ரேலிய, அமெரிக்க குண்டுவீச்சுகள் காரணமாக தெஹ்ரானில் ஆட்சி மாற்றம் ஏற்படுமிடத்து அது தமக்கு சாதகமாக அமையும் என்ற கனவில் ஈரானிய குர்தீஸ்கள் இருந்தனர்.
-
-◼️
-
-[Data](articles/597e7f31.json)
-
----
-
-### பலஸ்தீனத்தில் இஸ்ரேலிய இனப்படுகொலைக்கு ஆதரவளிக்கும் வகையில் ‘பலஸ்தீன நடவடிக்கை’ ஆயுத எதிர்ப்பு அமைப்புக்கு தடை விதித்துள்ள பிரிட்டன்
-
-*2025-07-20 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220483) · `ta`
-
-ஐ.நா. மனித உரிமைகள் பேரவையால் நியமிக்கப்பட்ட ஐக்கிய நாடுகளின் வல்லுநர்கள், பலஸ்தீன நடவடிக்கை என்ற குழுவை தடை செய்வதற்கான அச்சுறுத்தலை மறுபரிசீலனை செய்யுமாறு பிரித்தானிய அரசாங்கத்தை ஏற்கெனவே வலியுறுத்தியுள்ளனர்.
-
-◼️
-
-[Data](articles/a4e70265.json)
-
----
-
-### லொஸ் ஏஞ்சல்ஸில் நடுவானில் திடீரென தீப்பிடித்த விமானம்
-
-*2025-07-20 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220484) · `ta`
-
-அமெரிக்காவின் லொஸ் ஏஞ்சல்ஸில் இருந்து அட்லாண்டா நோக்கி புறப்பட்ட டெல்டா ஏர்லைன்ஸின் போயிங் 767-400 ரக பயணிகள் விமானத்தின் இயந்திரத்தில் தீப்பிடித்த சம்பவம் அப்பகுதியில் பரபரப்பை ஏற்படுத்தியுள்ளது.
-
-விமானம் புறப்பட்ட பின் அதன் இடதுப்புற இயந்திரத்தில் தீப்பிடித்ததால் அவ்விமானம் மீண்டும் லாஸ் ஏஞ்சல்ஸிலேயே அவசரமாகத் தரையிறங்கியது.
-
-விமானி அவசரநிலையை அறிவித்ததையடுத்து, விமானப் போக்குவரத்துக் கட்டுப்பாடு அறை, விமானம் மீண்டும் விமான நிலையத்திற்கு திரும்ப வழிகாட்டியது.
-
-◼️
-
-[Data](articles/9eb2a416.json)
 
 ---

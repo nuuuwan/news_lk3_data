@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 04:06:06**
+As of **2025-07-22 04:20:43**
 
 ## Newspaper Stats
 
-*Scraped **65,980** Articles*
+*Scraped **65,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,670
+dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,980 articles have been extended.
+61,973 (93.9%) of 65,981 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/150f6fb6.json)
+
+---
+
+### Parliamentary Committee questions policy on Chabad Houses amid security concerns
+
+*2025-07-22 03:35:51* · [`dailyftlk`](https://www.ft.lk/news/Parliamentary-Committee-questions-policy-on-Chabad-Houses-amid-security-concerns/56-779308) · `en`
+
+Tourism Ministry says out of five Chabad Houses operating, two registered under Companies Act
+
+Ministry officials disclose average Israeli tourist spends comparative high of about $ 150
+
+Committee Chair Lakmali Hemachandra recommends report to be submitted on findings
+
+The Sectoral Oversight Committee on Economic Development and International Relations has sought clarity on the policy adopted by the Foreign Affairs, Foreign Employment and Tourism Ministry with regard to the establishment and functioning of Chabad Houses in Sri Lanka, given the current dialogue surrounding national security concerns.
+
+This matter was raised at the meeting of the Sectoral Oversight Committee on Economic Development and International Relations held recently, chaired by MP Lakmali Hemachandra.
+
+Responding to the said inquiry, officials from the Foreign Affairs, Foreign Employment and Tourism Ministry stated that out of the five Chabad Houses, two have been registered under the Companies Act.
+
+...
+
+[Data](articles/bf9ce184.json)
 
 ---
 
@@ -1801,23 +1823,5 @@ A Milestone School and College spokesman said, “The plane fell on the gate and
 ◼️
 
 [Data](articles/d030c58b.json)
-
----
-
-### Hearing of a case against ex-Minister Udaya Gammanpila adjourned
-
-*2025-07-21 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110689/hearing-of-a-case-against-ex-minister-udaya-gammanpila-adjourned) · `en`
-
-The Colombo High Court has scheduled a date to recall the case filed by the Attorney General against former Minister Udaya Gammanpila, who is accused of misappropriating shares worth Rs. 20 million belonging to an Australian businessman by allegedly preparing a forged power of attorney.
-
-The case was taken up today (21) before Colombo High Court Judge R.S.S. Sapuvida, said Ada Derana reporter.
-
-The judge ordered that the case be recalled for hearing on November 21.
-
-This case was originally filed during the previous good governance government, with charges against Gammanpila for misappropriating shares by using a forged power of attorney to execute the transfer.
-
-◼️
-
-[Data](articles/bbe269fb.json)
 
 ---

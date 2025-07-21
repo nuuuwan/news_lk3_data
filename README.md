@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 02:06:24**
+As of **2025-07-22 02:20:09**
 
 ## Newspaper Stats
 
-*Scraped **65,970** Articles*
+*Scraped **65,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,663
+dailyftlk | 4,664
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,970 articles have been extended.
+61,973 (93.9%) of 65,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### Towards decentralised, citizen-centric governance model for Sri Lanka
+
+*2025-07-22 02:05:42* · [`dailyftlk`](https://www.ft.lk/columns/Towards-decentralised-citizen-centric-governance-model-for-Sri-Lanka/4-779286) · `en`
+
+Executive summary: Sri Lanka’s politically tarnished centralised system of governance structure has continued to disenfranchise the majority of its citizens and has robbed its true potential before and since independence was granted, in spite of multiple constitutions and social uprisings. The need of the hour before we face a crash is to reimagine the country’s political and administrative systems to prioritise capable, service-oriented, and preferably apolitical leadership at the local levels. This policy brief proposes a structural overhaul that emphasises decentralised governance, constitutional reform, and digital connectivity to enable a transparent, inclusive, and modern governance system aligned to protect and serve the needs of 22 million Sri Lankans.
+
+...
+
+[Data](articles/0ac23538.json)
+
+---
 
 ### Factors guiding voter preference in Sri Lanka: European Union funded survey reveals
 
@@ -1827,21 +1839,5 @@ Plans to build “a twin tower marvel” that will house the “world’s larges
 ...
 
 [Data](articles/e62d7cf0.json)
-
----
-
-### එයාර් ඉන්දියා ගුවන් යානයක් අනතුරක
-
-*2025-07-21 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212470) · `si`
-
-මුම්බායි හි වැසි සහිත කාලගුණ තත්ත්වය හමුවේ ගොඩ බැස්වීමකට සුදානමින් තිබූ එයාර් ඉන්දියා ගුවන් යානයක් අනතුරකට ලක්ව තිබේ.
-
-විදෙස් මාධ්‍ය සඳහන් කළේ, ගුවන් යානය ගොඩබෑමේ දී ගුවන් පථයෙන් ඉවතට පැන ඇති අතර ඉන් ගුවන් යානයේ එංජිමට සහ පසුබස කොටසට හානි සිදුව ඇති බවය.
-
-කෙසේවෙතත් අනතුරින් කිසිවෙකුටත් හානි සිදුව නොමැති අතර ධාවන පථයට සුළු හානි සිදුවූ අතර, සියලු මගීන් ආරක්ෂිත බව ද විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-◼️
-
-[Data](articles/426587ff.json)
 
 ---

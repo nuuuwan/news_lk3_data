@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 12:52:11**
+As of **2025-07-21 13:52:04**
 
 ## Newspaper Stats
 
-*Scraped **65,847** Articles*
+*Scraped **65,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,137 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-economynextcom | 4,024
+economynextcom | 4,026
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,321
-adaderanalk | 8,049
+adaderanalk | 8,054
 tamilmirrorlk | 9,451
 virakesarilk | 10,969
-adaderanasinhalalk | 11,310
+adaderanasinhalalk | 11,313
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,847 articles have been extended.
+61,973 (94.1%) of 65,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### අමෙරිකාවෙන් WTI තෙල් ගන්න රජයෙන් තීරණයක්
+
+*2025-07-21 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212468) · `si`
+
+අමෙරිකා එක්සත් ජනපදය සමඟ පවතින වෙළෙඳ හිඟය අඩු කිරීමේ උත්සාහයක් ලෙස, ඉන්ධන මිලදී ගැනීමේදී ටෙන්ඩර් ක්‍රියාවලියට US West Texas Intermediate (WTI) බොරතෙල් ඇතුළත් කිරීම සඳහා රජය මේ වනවිට සාකච්ඡා කරමින් සිටී.
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ, කළමනාකාර අධ්‍යක්ෂ ආචාර්ය මයුර නෙත්තිකුමාරගේ මහතා, 'අද දෙරණ' කළ විමසීමක දී මේ බව තහවුරු කළේය.
+
+මේ වනවිට ශ්‍රී ලංකාවට තෙල් ආනයනය කරනු ලබන්නේ ගල්ෆ් කලාපය තුළින් බවත් පැවසු ඒ මහතා, ඊට අමතරව අමෙරිකාවේ ලියාපදිංචි වී ඇති බොරතෙල් සඳහා ද මින් ඉදිරියට ටෙන්ඩර් ක්‍රියාවලියට එක්වීමට අවස්ථාවට මේ වනවිට සාකච්ජා කරන බව පැවසුවේය.
+
+මිල ගණන් අනුව මෙම වර්ග දෙකෙන් කුමන වර්ගය ලංකාවට ගෙන්වන්නේ ද යන්න පිළිබඳ තීරණයට එළැඹෙනු ඇතැයි ද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/05f07d96.json)
+
+---
+
+### නිලන්තව සේවයෙන් නෙරපීම ගැන කතෝලික සභාවේ ස්ථාවරය කියයි
+
+*2025-07-21 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212467) · `si`
+
+රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ නිලන්ත ජයවර්ධනට එරෙහිව විනය පියවර ගැනීම සාධනීය පියවරක් ලෙස ශ්‍රී ලංකා කතෝලික සභාව සැලකුවද, අවශ්‍ය වන්නේ ජනාධිපති කොමිෂන් සභාවේ නිර්දේශ ප්‍රකාරව අපරාධ නඩු පැවරීම බව ශ්‍රී ලංකා කතෝලික සභාව පවසයි.
+
+කොළඹ අගරදගුරු පදවියේ මාධ්‍ය ප්‍රකාශක ගරු සිරිල් ගාමිණි පියතුමන් මේ අදහස් පළ කළේ අද පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ය.
+
+2019 අප්‍රෙල් 21 වැනිදා පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය එල්ලවන අවස්ථාවේ රාජ්‍ය බුද්ධි සේවයේ අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයර්ධන මහතාව වහාම ක්‍රියාත්මක වන පරිදි සේවයෙන් නෙරපීමට ජාතික පොලිස් කොමිෂන් සභාව පසුගියදා තීරණය කර තිබුණි.
+
+ඒ ශ්‍රෙෂ්ඨාධිකරණ නියෝග ප්‍රකාරව ඔහුට එරෙහිව සිදු කරනු ලැබු විනය පරීක්ෂණයේදී චෝදනා පත්‍රයේ තිබූ සියලු චෝදනාවලට ඔහු වරදකරු වී තිබීම හේතුවෙනි.
+
+අදාළ තීරණය සම්බන්ධයෙන් සිය ස්ථාවරය පැහැදිලි කිරීමට කතෝලික සභාව ඊයේ (20) ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවූවා.
+
+මේ අතර අද (21) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ද නිලන්ත ජයවර්ධන සේවයෙන් නෙරපීම සම්බන්ධයෙන් කතෝලික සභාවේ ස්ථාවරය යළි පැහැදිලි කර ඇත.
+
+...
+
+[Data](articles/ef75fe02.json)
+
+---
+
+### Sri Lanka begins IMF talks for next review this week: Minister
+
+*2025-07-21 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-imf-talks-for-next-review-this-week-minister-231885/) · `en`
+
+ECONOMYNEXT – Sri Lanka is kicking off talks for the next International Monetary Fund review with a mission in Colombo this week, Labour Minister and Deputy Minister for Economic Development Anil Jayantha Fernando said.
+
+Sri Lanka will discuss the progress achieved so far and the way forward, Minister Fernando said.
+
+Sri Lanka’s next review is due in October 2025 based on end June data and continuous performance criteria.
+
+Sri Lanka has generally outperformed most targets in IMF programs and also overperformed on inflation (missing a target) the central bank has avoided putting pressure on the people by pushing up the cost of living. (Colombo/July18/2025)
+
+◼️
+
+[Data](articles/359e9e62.json)
+
+---
+
+### Sri Lanka to procure US West Texas Intermediate crude oil?
+
+*2025-07-21 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110683/sri-lanka-to-procure-us-west-texas-intermediate-crude-oil) · `en`
+
+The government is reportedly looking at the possibility of procuring US West Texas Intermediate (WTI) crude oil in a bid to reduce the trade deficit between Sri Lanka and the United States.
+
+Following the decision by US President Donald Trump to impose reciprocal tariffs based on trade deficit between the US and other trading partners, several countries including Sri Lanka have been engaging with the Office of the United States Trade Representative to strike deals to reduce tariff rates.
+
+Although US President Trump announced a tariff rate of 44% in April, it has now been reduced to 30% effective August 1.
+
+Local officials are continuing to hold discussions in a bid to reduce the tariff rate further.
+
+Accordingly, Managing Director of the Ceylon Petroleum Corporation Dr. Mayura Neththikumarage noted that discussions are currently being held to include US West Texas Intermediate crude oil in the tender process when procuring oil.
+
+◼️
+
+[Data](articles/d76f977c.json)
+
+---
+
+### අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත් වීම ගැන සජිත්ගෙන් ශෝක නිවේදනයක්
+
+*2025-07-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212466) · `si`
+
+අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමි අපවත්වීම වෙනුවෙන් විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා ශෝක නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/de1d905a.json)
+
+---
+
+### One dead while another missing after drowning in Panahaduwa lake
+
+*2025-07-21 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/110682/one-dead-while-another-missing-after-drowning-in-panahaduwa-lake) · `en`
+
+Two individuals who went fishing in the Panahaduwa lake in Udawalawa have drowned, police stated.
+
+The two individuals drowned while fishing using a tube as support.
+
+The two individuals aged 29 and 30 are residents of Panahaduwa.
+
+An area resident reportedly witnessed the moment they drowned and informed the police.
+
+Following this, life-saving officers of the Embilipitiya Police and Sri Lanka Army divers arrived at the scene and commenced a search operation, during which the body of one individual was recovered.
+
+The search operation is ongoing to locate the body of the other missing individual.
+
+◼️
+
+[Data](articles/5b9934d7.json)
+
+---
 
 ### டட்லி சிறிசேன ஹோட்டல் விவகாரம்;அமைச்சர் விளக்கம்
 
@@ -45,6 +157,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ceda95fb.json)
+
+---
+
+### Retired DIG Rohan Premaratne denies reports of Bribery officers visiting his residence
+
+*2025-07-21 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110681/retired-dig-rohan-premaratne-denies-reports-of-bribery-officers-visiting-his-residence) · `en`
+
+Retired Deputy Inspector General of Police (DIG) Rohan Premaratne has denied media reports that have claimed that officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) have visited his residence over ongoing investigations related to financial fraud.
+
+Retired DIG Rohan Premaratne is under investigation over financial fraud amounting to Rs. 7.5 million.
+
+Responding to media reports claiming that bribery officers had entered his house and searched multiple locations he had stayed, retired DIG Premaratne said he still resides at his usual residence.
+
+In 2021, while Rohan Premaratne was serving as the DIG in charge of the Criminal Investigation Department (CID), a group of Nigerian nationals was arrested in Dehiwala.
+
+Accordingly, the Kelaniya Divisional Crime Detective Bureau handed over Rs. 7.5 million, believed to have been earned by the group, to the CID as court evidence.
+
+An investigation is underway pertaining to the whereabouts of the said sum.
+
+◼️
+
+[Data](articles/aa2df31f.json)
 
 ---
 
@@ -63,6 +197,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/587ec8f3.json)
+
+---
+
+### SLTB Bus-Tipper collision along Kandy-Colombo road leaves two injured
+
+*2025-07-21 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110680/sltb-bus-tipper-collision-along-kandy-colombo-road-leaves-two-injured) · `en`
+
+A tipper truck has collided with a Sri Lanka Transport Board (SLTB) bus along the Kandy-Colombo main road in Weweldeniya injuring two individuals, police said.
+
+According to the Danowita Police, the bus driver and a monk sustained injuries in the accident and have been admitted to the hospital.
+
+The collision took place when a tipper truck heading towards Kandy rammed onto the SLTB bus that was traveling from Anuradhapura to Colombo. The bus then veered off the road and came to a halt near a shop.
+
+The Danowita Police stated that the accident took place since the bus was traveling on the wrong lane and collided with the oncoming tipper truck.
+
+◼️
+
+[Data](articles/27d515d9.json)
 
 ---
 
@@ -134,6 +286,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ‘Red’ warning issued for strong winds and rough seas
+
+*2025-07-21 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110679/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
+
+A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Chilaw to Mannar via Puttalam and from Galle to Pottuvil via Hambantota.
+
+These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
+
+Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
+
+Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
+
+Naval and fishing communities are strongly advised not to venture into the sea areas from Chilaw to Mannar via Puttalam and from Galle to Pottuvil via Hambantota for the next 24 hours, said the Met. Department.
+
+...
+
+[Data](articles/3537dd27.json)
+
+---
+
 ### රතු නිවේදනයක්
 
 *2025-07-21 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212465) · `si`
@@ -171,6 +343,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/19181300.json)
+
+---
+
+### Sri Lanka Port City Browns Unit gets 25-year tax holiday for financial centre
+
+*2025-07-21 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-browns-unit-gets-25-year-tax-holiday-for-financial-centre-231815/) · `en`
+
+ECONOMYNEXT – Sri Lanka has given a 25-year tax holiday, and the next 10 years at half the rate, to Ceylon Real Estate Holdings (Private) Limited, which will develop a mixed use plot in the Colombo Port City.
+
+Ceylon Real Estate Holdings is a subsidiary of Browns Investments PLC, which is the strategic investment arm of LOLC Holdings PLC.
+
+Ceylon Real Estate Holdings will invest 320,401,000 dollars for construction costs and 90,618,000 for other costs  which will be raised from foreign sources.
+
+A tranche of 32,155,846,800 rupees will go to Land investment in Colombo Port City.
+
+The company was designated a Business of Strategic Importance “in order to ensure the success of establishing the Colombo Port City, having regard to the national interest or the advancement of the national economy,” a gazette notice detailing the tax holidays said.
+
+...
+
+[Data](articles/bbdf75cf.json)
 
 ---
 
@@ -1623,179 +1815,5 @@ These hidden liabilities—comprising state-owned enterprise (SOE) debts, govern
 ◼️
 
 [Data](articles/0a63d68e.json)
-
----
-
-### சம்பூரில் மனித எச்சங்கள் மீட்பு
-
-*2025-07-20 20:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பூரில்-மனித-எச்சங்கள்-மீட்பு/175-361423) · `ta`
-
-சம்பூர் கடற்கரையை அண்மித்த சிறுவர் பூங்கா பகுதியில் இன்று(20) கண்ணிவெடி நிறுவனத்தினர் அகழ்வில் ஈடுபட்ட போது மனித மண்டையோடு மற்றம் எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்டன.
-
-இப்பகுதியில் மெக் கண்ணிவெடி அகற்றும் நிறுவனம் சென்ற 18 ந் திகதி முதல் முகாமிட்டு அகழ்வுகளில் ஈடுபட்டு வருகின்றனர்.
-
-இந்நிலையில் இன்று காலை அகழ்வின் போது மேற்படி மனித எலும்பு எச்சங்கள் வெளிப்பட்டுள்ளது.இதனை அடுத்து சம்பவ இடத்திற்கு வருகை தந்த மூதூர் நீதிவான் நீதிமன்ற பதில் நீதிபதி எம்.எம்.பஸ்லீம் அகழ்வு பணிகளை உடனடியாக நிறுத்த உத்தரவிட்டார்.
-
-அத்துடன் பிரதேசத்திற்கு முழுமையாக பொலிஸ் பாதுகாப்பை வழங்குமாறும் மேலும் நீதிபதி,சட்டவைத்திய அதிகாரி,தடயவியல் அதிகாரிகள்,புவிச்சரிதவியல் அதிகாரிகள்,தொல்பொருள் திணைக்கழக அதிகாரிகள்,பொலிஸார் முன்னிலையில் எதிர்வரும் 23 ஆந் திகதி முழுமையான அகழ்வு பணிகள் நடைபெற வேண்டும் எனவும் உத்தரவிட்டார்.
-
-மனித எச்சங்கள் கிடைத்துள்ள இடத்தில் இருந்து 40 மீற்றர் தூரத்தில் சம்பூர் படுகொலை நினைவுத் தூபி அமைந்துள்ளது.
-
-◼️
-
-[Data](articles/26f523bb.json)
-
----
-
-### කොල්ලුපිටියේ සමාජ ශාලාවක දී ව්‍යර්ථවූ වෙඩිල්ල
-
-*2025-07-20 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212449) · `si`
-
-කොල්ලුපිටිය ප්‍රදේශයේ රාත්‍රී සමාජ ශාලාවකට ඊයේ (19) රාත්‍රියේ යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු සිදුකිරීමට සැලසුම් කළ වෙඩි තැබීමක් ව්‍යර්ථවී තිබේ.
-
-වෙඩි තැබීමට පැමිණි දෙදෙනාගේ ඉලක්කය වී තිබුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර ඝාතනය සම්බන්ධයෙන් මරණ දඬුවම නියමවී සිටින දෙමටගොඩ චමින්ද නමැත්තාගේ සහෝදරයාවන අපරාධ රැසකට සම්බන්ධ දෙමටගොඩ රුවන් නමැත්තාය.
-
-කෙසේවෙතත් දෙමටගොඩ රුවන් නමැත්තා නිතර පැමිණෙන මෙම සමාජ ශාලාවට ඊයේ ඔහුට පැමිණීමට මදක් ප්‍රමාදවී ඇති බව වාර්තා වේ.
-
-දෙමටගොඩ රුවන් පැමිණ ඇත්දැයි බැලීම සඳහා වෙඩික්කරු සමාජ ශාලාවට ඇතුළු වීමට උත්සාහ දරා ඇති අතර එම අවස්ථාවේදී එහි මුරකරු හා වෙඩික්කරු අතර බහින්බස්වීමක් සිදුව තිබේ.
-
-එම අවස්ථාවේදී වෙඩික්කරු ගිනිඅවිය එම ස්ථානයේ දමා පැදිකරු සමඟ පලාගොස් ඇත්තේ යතුරුපැදිය ද එම ස්ථානයේම තිබියදීය.
-
-අදාළ ටී56 ගිනි අවිය සහ යතුරුපැදිය අද පොලිස් භාරයටගත් අතර සිද්ධිය සම්බන්ධයෙන් බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරි රොහාන් ඕලුගල මහතා ප්‍රමුඛ එම කොට්ඨාසය මගින් වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
-
-◼️
-
-[Data](articles/7d7f3028.json)
-
----
-
-### ”ஷானி,ரவி செனவிரத்னவை நியமிக்குமாறு கர்தினால் கோரவில்லை”
-
-*2025-07-20 19:45:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானி-ரவி-செனவிரத்னவை-நியமிக்குமாறு-கர்தினால்-கோரவில்லை/175-361422) · `ta`
-
-கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித், ஷானி அபேசேகரவை குற்றப் புலனாய்வுத் திணைக்கள பணிப்பாளராகவோ அல்லது ரவி செனவிரத்னவை பொதுப் பாதுகாப்பு அமைச்சின் செயலாளராகவோ நியமிக்குமாறு ஒருபோதும் குறிப்பாகக் கோரவில்லை என்று தேசிய கத்தோலிக்க மக்கள் தொடர்பு பணிப்பாளர் அருட்தந்தை ஜூட் கிருஷாந்த இன்று தெரிவித்தார்.
-
-"ஈஸ்டர் ஞாயிறு குண்டுவெடிப்பு தாக்குதல்கள் தொடர்பான விசாரணைகளைக் கையாள்பவர்களை மாற்றவும், அவர்களை மீண்டும் அவர்களின் அசல் பதவிகளில் அமர்த்தவும் மட்டுமே கர்தினால் ரஞ்சித் விரும்பினார்," என்று அருட்தந்தை ஜூட் இன்று ஊடகங்களுக்குத் தெரிவித்தார்.
-
-ஷானி அபேசேகர போன்ற அதிகாரிகள் மீது சில குற்றச்சாட்டுகள் இருப்பதை திருச்சபை புரிந்துகொண்டதாக அவர் கூறினார்.
-
-◼️
-
-[Data](articles/7c85bc73.json)
-
----
-
-### "பாடசாலை அமைப்பை அழிக்கும் கல்விச் சீர்திருத்தம் எதிர்க்கத்தக்கது" – சஜித் பிரேமதாச
-
-*2025-07-20 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220494) · `ta`
-
-பாடசாலை கட்டமைப்பையே அழிக்கும் கல்விச் சீர்திருத்தங்களையே தற்போதைய அரசாங்கம் முன்னெடுத்து வருகிறது. இந்த நாசகார கொள்கைகளுக்கு எதிராக நாம் முன்நிற்போம். இதற்காக நாம் அஞ்சப்போவதில்லை. இதற்கு ஐக்கிய மக்கள் சக்தி தலைமைத்துவம் வழங்கும் மக்களுக்காக நாம் முன்நிற்போம். மக்களுக்காக எம்மால் இயன்றவரைப் போராடி  எமது உச்சக்கட்ட கடமையையும் பொறுப்பையும் நிறைவேற்றுவோம் என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-அநுராதபுரம் தம்புத்தேகம நகரில் சனிக்கிழமை (19) நடைபெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/6f04c0f3.json)
-
----
-
-### ඉන්දුනීසියාවේ මගී නෞකාවක ගින්නක්
-
-*2025-07-20 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212448) · `si`
-
-ඉන්දුනීසියාවේ උතුරු සුලවේසි පළාතේ මුහුදු ප්‍රදේශයේ දී මගී නෞකාවක ගින්නක් ඇතිවීමෙන් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තිබේ.
-
-ආසන්න වශයෙන් පුද්ගලයින් 280 කු පමණ එහි සිට ඇති අතර 150 දෙනෙකු පමණ බේරාගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
-
-සෝදිසි හා මුදාගැනීමේ මෙහෙයුම තවමත් සිදුවෙමින් පවතින බව සඳහන් වේ.
-
-පළාත් වේලාවෙන් පස්වරු 1:00 ට පමණ පළාතේ අගනුවර වන මනාඩෝ මුහුදේ යාත්‍රා කරමින් සිටියදී
-
-KM බාර්සිලෝනා 5 නෞකාවේ මෙලෙස ගින්නක් හට ගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
-
-◼️
-
-[Data](articles/48e3f0c8.json)
-
----
-
-### 3 killed, 150 rescued after passenger ship catches fire in Indonesia
-
-*2025-07-20 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110665/3-killed-150-rescued-after-passenger-ship-catches-fire-in-indonesia) · `en`
-
-At least three people were killed and about 150 others rescued after a passenger ship caught fire in the waters of Indonesia’s North Sulawesi province on Sunday, according to Veri Ariyanto, a senior official at the provincial Search and Rescue Office.
-
-“Three people were killed, and nearly 150 were rescued safely. They were rescued by the joint rescue team and local fishermen’s boats,” he told Xinhua.
-
-The search and rescue operation is still underway. Two ships, several rigid inflatable boats, and other vessels have been deployed, Ariyanto said.
-
-The ship, KM Barcelona 5, caught fire while sailing in the waters off Manado, the capital city of the province, at around 1:00 p.m. local time, Dani Repi, head of the quick reaction team of the provincial Disaster Management and Mitigation Agency, said.
-
-◼️
-
-[Data](articles/43fb8ccb.json)
-
----
-
-### යාපනයේදී පොලීසියෙන් අහසට වෙඩි
-
-*2025-07-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212447) · `si`
-
-යාපනය, වඩුක්කෝඩෙයිහි පදිංචි දෙපිරිසක් අතර ගැටුමක් හටගෙන ඇතිබවට 119 පොලිස් හදිසි ඇමතුම් ඒකකයට අද (20) පස්වරුවේ දුරකථන ඇමතුමක් ලැබී තිබුණි.
-
-ඒ අනුව පොලීසිය එහි යනවිටත් එක් පාර්ශවයක් අනෙක් පාර්ශවයට අයත් යතුරු පැදියක් ගිනි තබා තිබුණි.
-
-එහිදී පොලීසියටද ගල් ප්‍රහාරයක් එල්ල වූ අතර තත්ත්වය පාලනය කිරීම සඳහා පොලීසිය අහසට වෙඩි තබා ඇත.
-
-පොලීසියට අනාවරණ වී ඇත්තේ කාලයක් මුළුල්ලේ එම ගම්මානයේ දෙපිරිසක් අතර පවතින ආරවුලක් අද යළිත් මෙලෙස ගැටුමක් දක්වා වර්ධනය වී ඇති බවය.
-
-◼️
-
-[Data](articles/7bd82e13.json)
-
----
-
-### பொலிஸ் உத்தியோகத்தர்களில் சுமார் 20 - 40 சதவீதமானோருக்கு தொற்றா நோய்
-
-*2025-07-20 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220493) · `ta`
-
-நாட்டில் தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார்  20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளதுடன் 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளதாக பதில் பொலிஸ்மா அதிபர் பிரயந்த வீரசூரிய தெரிவித்துள்ளார்.
-
-புதிதாக ஸ்தாபிக்கப்பட்ட சப்பிரகமுவ மாகாண குற்றப்புலனாய்வு பிரிவு திறப்பு விழாவில் சனிக்கிழமை (19) சிறப்பு விருந்தினராக கலந்துக் கொண்டிருந்த போதே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-தற்போது கடமையில் உள்ள  பொலிஸ்  உத்தியோகத்தர்களில் சுமார் 20 -  40 சதவீதமானோர் தொற்றா நோய்களால் பாதிப்புக்குள்ளாகியுள்ளனர். 30 சதவீதமானோர் தொற்றா நோய்களுக்கான பரிசோதனைகளை மேற்கொள்ளவில்லை என்பதும் தெரியவந்துள்ளது. மீதமாக உள்ள 30 சதவீதமானோர் மாத்திரமே நல்ல தேகாரோக்கியத்துடன் உள்ளனர்.
-
-...
-
-[Data](articles/daa69f0f.json)
-
----
-
-### ‘Second Life Notebooks’ campaign by Ogilvy makes history with global recognition
-
-*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/second-life-notebooks-campaign-by-ogilvy-makes-history-with-global-recognition/) · `en`
-
-Ogilvy Sri Lanka’s ‘Second Life Notebooks’ campaign for ProMate (PrintXcel) has become the most internationally awarded campaign in Sri Lankan advertising history, securing 17 awards and shortlist honors at prestigious global festivals, including Cannes Lions, D&AD, Clio Awards, and Spikes Asia.
-
-The campaign was born out of necessity during Sri Lanka’s economic crisis, which caused a 300% surge in paper prices, making Braille notebooks unaffordable for visually impaired students. Geometry Global Sri Lanka, part of Ogilvy, devised an innovative solution, repurposing used notebooks into Braille writing books. The initiative invited public donations, receiving overwhelming support and enabling the provision of Braille notebooks to every government school in the country.
-
-...
-
-[Data](articles/074868ae.json)
-
----
-
-### India’s rich and famous ditch old-school clubs for exclusive hangouts -BBC
-
-*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/indias-rich-and-famous-ditch-old-school-clubs-for-exclusive-hangouts-bbc/) · `en`
-
-For decades, the Indian elite have sought escape in Raj-era private clubs and gymkhanas, scattered around the swankiest neighbourhoods in the country’s big cities, hillside resorts and cantonment towns.
-
-Access to these quintessentially “English” enclaves, with their bellboys, butlers, dark mahogany interiors and rigid dress codes, has been reserved for the privileged; the old moneyed who roam the corridors of power – think business tycoons, senior bureaucrats, erstwhile royals, politicians or officers of the armed forces.
-
-This is where India’s rich and powerful have hobnobbed for years, building social capital over cigars or squash and brokering business deals during golf sessions. Today, these spaces can feel strangely anachronistic – relics of a bygone era in a country eager to shed its colonial past.
-
-...
-
-[Data](articles/87949a8f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 15:33:45**
+As of **2025-07-21 15:11:59**
 
 ## Newspaper Stats
 
-*Scraped **65,887** Articles*
+*Scraped **65,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,175 +12,39 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-economynextcom | 4,027
+economynextcom | 4,026
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,325
+adalk | 6,323
 adaderanalk | 8,059
-tamilmirrorlk | 9,458
+tamilmirrorlk | 9,456
 virakesarilk | 10,975
-adaderanasinhalalk | 11,320
+adaderanasinhalalk | 11,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,887 articles have been extended.
+61,973 (94.1%) of 65,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
 
-### අන්තර් විශ්වවිද්‍යාලයීය ශිෂ්‍ය බලමණ්ඩලය නමින් නව ශිෂ්‍ය ව්‍යාපාරයක්
-
-*2025-07-21 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212475) · `si`
-
-දිවයිනේ විශ්වවිද්‍යාල කිහිපයක සිසුන් පිරිසක් එක්ව ''අන්තර් විශ්වවිද්‍යාලයීය ශිෂ්‍ය බලමණ්ඩලය'' නමින් නව ශිෂ්‍ය ව්‍යාපාරයක් ආරම්භ කර ති‌බේ.
-
-පේරාදෙණිය විශ්වවිද්‍යාල පරිශ්‍රයේදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් නව බලමණ්ඩලය පැවසුවේ, රාජ්‍ය විශ්වවිද්‍යාලවල මහා ශිෂ්‍ය සංගම් හා උසස් අධ්‍යාපන ආයතනවල ශිෂ්‍ය ක්‍රියාකාරීන් පිරිසක් එක්ව මෙම නව ශිෂ්‍ය ව්‍යාපාරය ආරම්භ කළ බවය.
-
-...
-
-[Data](articles/76756bb9.json)
-
----
-
-### බංග්ලාදේශයේ හමුදා ගුවන් යානයක් පාසලකට කඩා වැටෙයි
-
-*2025-07-21 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212474) · `si`
-
-බංග්ලාදේශ ගුවන් හමුදා පුහුණු ගුවන් යානයක් ඩකාහී උත්තරා ප්‍රදේශයේ පාසලක් වෙත කඩා වැටී තිබේ.
-
-ගුවන් යානය කඩා වැටීමෙන් අනතුරුව පිපිරීමක් ද සිදුව ඇති අතර පසුව ගින්නක්ද හටගෙන තිබේ.
-
-අනතුරින් එක් අයෙකු මියගොස් ඇති බවත් විදෙස් මාධ්‍ය මේ වන විට වාර්තා කර ඇත.
-
-අනතුරින් එක් අයෙකු මියගොස් තවත් පුද්ගලයින් සිව් දෙනෙකු තුවාල ලබා ඇතැයිද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-තුවාල ලැබූවන් සිවිල් වැසියන්ද නැතහොත් හමුදා නිලධාරීන්ද යන්න මෙතෙක් අනාවරණය වී නොමැති අතර එරට හදිසි සේවා මේ වන විට ගින්න මැඩපැවැත්වීමට සහ තුවාල ලැබූවන් රෝහල් ගත කිරීමටද පියවර ගනිමින් සිටින බවද වාර්තා වේ.
-
-මෙලෙස කඩා වැටී ඇත්තේ F-7 BGI ප්‍රහාරක ජෙට් යානයක් ලෙසද හඳුනාගෙන තිබේ.
-
-ගුවන් යානය කඩා වැටෙන අවස්ථාවේදී පාසලේ සිසුන්ද සිට ඇති බවත් විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/fd643d0a.json)
-
----
-
-### ලංකාවේ පළමු වතාවට ජාතික පුවත්පත්වල මංගල කලාප ප්‍රදර්ශණයක්
-
-*2025-07-21 15:00:32* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමු-වතාවට-ජාතික-පුවත්පත්වල-මංගල-කලාප-ප්‍රදර්ශණයක්/11-417422) · `si`
-
-ලංකාවේ පළමු වතාවට ජාතික පුවත්පත් වල සහ චිත්‍ර කථා පොත්වල මුල් පිටපත් ප්‍රදර්ශණයක් (21) දින තලවකැලේ සුමන මහාවිද්‍යාලයේ දි ආරම්භ කෙරිණ.
-
-කොටගල සහ තලවකැලේ යන තැපැල් කාර්යාලවල තැපැල් ස්ථානාධිපතිවරයා වශයෙන් සේවය කර දැනට විශ්‍රාම සුවයෙන් පසුවන ආර්.පී.ජයන්ත (තලවකැලේ ජයන්ත) මහතා විසින් මෙම ප්‍රදර්ශණය සංවිධානය කර තිබූ අතර,  එම ප්‍රදර්ශණය (21-22)  දින නොමිලේ පැවැත්වීමටයි කටයුතු කර තිබෙන්නේ.
-
-එම පුවත්පත් ප්‍රදර්ශණය ජාතික ජන බලවේගයේ නුවරඑලිය දිස්ත්‍රික් පා.ම. මංජුල සුරවිරආරච්චි මහතා ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි විය.
-
-තලවකැලේ ජයන්ත මහතා වසර ගණනාවක් ජාතික පුවත්පතක තලවකැලේ ප්‍රදේශයේ ප්‍රාදේශීය මාධ්‍යවේදියෙකු වශයෙන්ද කටයුතු කර ඇත.
-
-මෙම ප්‍රදර්ශණයට 1920 වසරේ සිට 2025 වසර දක්වා මෙරට තුල පළ කරන ලද ජාතික පුවත්පත්, චිත්‍ර කථා පොත් 2000ක් පමණ සහ වර්ථමානයේ ත්‍රීඩි (3D) තාක්ෂණයෙන් කියවිය හැකි පුවත්පත් කිහිපයක්ද මෙම ප්‍රදර්ශනයට අතුලත් කර තිබුණි.
-
-ප්‍රදර්ශණයට එක් කර තිබු ජාතික පුවත්පත් සහ චිත්‍ර කථා පොත් ඇතැම් ඒවා සත 75 සිට රු.10 දක්වා මිල ගණන් යටතේ මිලදී ගත් ඒවා බවයි ජයන්ත මහතා කියා සිටියේ.
-
-◼️
-
-[Data](articles/41006790.json)
-
----
-
-### முந்தி முயன்றவர் சிக்கினார்: தாமதமானவர் தப்பினார்
-
-*2025-07-21 14:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/முந்தி-முயன்றவர்-சிக்கினார்-தாமதமானவர்-தப்பினார்/95-361466) · `ta`
-
-கொள்ளுப்பிட்டி பகுதியில் உள்ள ஒரு இரவு விடுதியில் இரவு நடந்தவிருந்த  துப்பாக்கிச் சூடு சம்பவம் முறியடிக்கப்பட்டுள்ளதாக கூறப்படுகிறது. மோட்டார் சைக்கிளில் வந்த இருவர் இந்தத் தாக்குதலைத் திட்டமிட்டதாக காவல்துறை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-பல குற்றச் செயல்களில் ஈடுபட்ட தெமட்டகொட ருவான் என்ற நபரையே துப்பாக்கிச் சூடு நடத்தியவர்கள் குறிவைத்தனர். இவர், முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்ட தெமட்டகொட சாமிந்தவின் சகோதரர் ஆவார்.
-
-தெமட்டகொட ருவான், அவர் அடிக்கடி செல்லும் கிளப்புக்கு சம்பவதினமான சனிக்கிழமை (19)  சற்று தாமதமாக வந்ததாகக் கூறப்படுகிறது.
-
-துப்பாக்கிச் சூடு நடத்த வந்த நபர் கிளப்புக்குள் நுழைய முயன்றபோது, பாதுகாப்பு அதிகாரிக்கும் துப்பாக்கிச் சூடு நடத்த வந்தவருக்கும் இடையே வாக்குவாதம் ஏற்பட்டது.
-
-எப்படியிருந்தாலும், துப்பாக்கிச் சூடு நடத்த வந்த நபர்,  துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு, மோட்டார் சைக்கிளை இரவு விடுதி வளாகத்தில் விட்டுவிட்டு மற்றொரு நபருடன் தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/6b765d08.json)
-
----
-
-### முந்தியவர் சிக்கினார்: தாமதமானவர் தப்பினார்
-
-*2025-07-21 14:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/முந்தியவர்-சிக்கினார்-தாமதமானவர்-தப்பினார்/95-361466) · `ta`
-
-கொள்ளுப்பிட்டி பகுதியில் உள்ள ஒரு இரவு விடுதியில் இரவு நடந்தவிருந்த  துப்பாக்கிச் சூடு சம்பவம் முறியடிக்கப்பட்டுள்ளதாக கூறப்படுகிறது. மோட்டார் சைக்கிளில் வந்த இருவர் இந்தத் தாக்குதலைத் திட்டமிட்டதாக காவல்துறை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-பல குற்றச் செயல்களில் ஈடுபட்ட தெமட்டகொட ருவான் என்ற நபரையே துப்பாக்கிச் சூடு நடத்தியவர்கள் குறிவைத்தனர். இவர், முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்ட தெமட்டகொட சாமிந்தவின் சகோதரர் ஆவார்.
-
-தெமட்டகொட ருவான், அவர் அடிக்கடி செல்லும் கிளப்புக்கு சம்பவதினமான சனிக்கிழமை (19)  சற்று தாமதமாக வந்ததாகக் கூறப்படுகிறது.
-
-துப்பாக்கிச் சூடு நடத்த வந்த நபர் கிளப்புக்குள் நுழைய முயன்றபோது, பாதுகாப்பு அதிகாரிக்கும் துப்பாக்கிச் சூடு நடத்த வந்தவருக்கும் இடையே வாக்குவாதம் ஏற்பட்டது.
-
-எப்படியிருந்தாலும், துப்பாக்கிச் சூடு நடத்த வந்த நபர்,  துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு, மோட்டார் சைக்கிளை இரவு விடுதி வளாகத்தில் விட்டுவிட்டு மற்றொரு நபருடன் தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/fe6adf29.json)
-
----
-
 ### Bangladesh Airforce F-7 aircraft crashes into school in Dhaka, at least 1 dead
 
 *2025-07-21 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110690/bangladesh-airforce-f-7-aircraft-crashes-into-school-in-dhaka-at-least-1-dead) · `en`
 
-A Bangladesh Air Force training aircraft crashed onto a school campus in northern Dhaka on Monday, killing at least 1 person and injuring others, according to the military and a fire official.
+Bangladesh Airforce F7 aircraft crashed onto a school campus in Dhaka’s northern Uttara area on Monday (July 22) around 1:30 pm, according to the military and a fire official.
 
-The aircraft crashed onto the campus of Milestone School and College, in Dhaka’s Uttara neighborhood, where children were present. Television footage showed fire and smoke billowing from the site of the crash.
+Students were present at the Milestone School and College at the time of the crash. Several students have been reportedly injured in the crash.
 
-Jamuna TV reported that at least 13 people, including students, were injured. Fire and rescuers from the military arrived at the scene.
-
-The Bangladesh Army’s public relations office confirmed in a brief statement that the downed F-7 BGI aircraft belonged to the Air Force.
-
-A Milestone School and College spokesman said, “The plane fell on the gate and crashed nearby. A class was in session where the plane crashed. The injured are being taken out one by one.”
+The Bangladesh Army’s public relations office confirmed in a brief statement that the downed F-7 BGI aircraft belonged to the Air Force. Fire official Lima Khan stated by phone that at least one person died and four others were injured, though she did not provide further details.
 
 ◼️
 
 [Data](articles/2bcd3340.json)
-
----
-
-### රාජ්‍ය නිලධාරීන්ගේ වගවීම පාර්ලිමේන්තු කාරක සභා විසින් පරීක්ෂා කළ හැකියි - හිටපු විගණකාධිපති
-
-*2025-07-21 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212472) · `si`
-
-රාජ්‍ය නිලධාරීන්ට පවරා ඇති වගකීම්වලට අදාළව ඔවුන්ගේ වගවීම පාර්ලිමේන්තු කාරක සභා විසින් පරීක්ෂා කළ හැකි බව හිටපු විගණකාධිපති CoPE සහ CoPA හි හිටපු ජ්‍යෙෂ්ඨ උපදේශක එස්.සී. මායාදුන්නේ මහතා පවසයි.
-
-මායාදුන්නේ මහතාගේ සම්පත් දායකත්වය යටතේ, පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේසහ රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ ක්‍රියාකාරීත්වයට අදාළව විධායකයේ කාර්ය භාරය පිළිබඳව රාජ්‍ය නිලධාරීන් දැනුම්වත් කිරීමේ අරමුණින් පසුගිය 15 වැනිදා පාර්ලිමේන්තුවේදී පැවති විශේෂ වැඩමුළුවකදී ඒ මහතා මේ බව පැවසීය.
-
-කෝප් සභාපති වෛද්‍ය නිශාන්ත සමරවීර සහ කෝප් සභාපති අරවින්ද සෙනරත් යන මහත්වරුන්ගේ ඉල්ලීම පරිදි සංවිධානය කරන ලද මෙම වැඩමුළුව සඳහා අමාත්‍යාංශ ලේකම්වරුන් සහ මෙම කාරක සභාවල අධීක්ෂණය යටතේ ඇති රාජ්‍ය ආයතන ප්‍රධානීහු සහභාගී විය.
-
-මෙහිදී පාර්ලිමේන්තුවේ ප්‍රධාන අධීක්ෂණ කාරක සභා දෙකක් වන  CoPE සහ CoPA හි ව්‍යුහය, බලතල, භූමිකාවන් සහ වගකීම් පිළිබඳව එස්.සී. මායාදුන්නේ මහතා කරුණු පැහැදිළි කළ අතර, එහි කාර්යය විනිවිදබවින් යුතුව සහ ඵලදායී පාලනයකට දායක වන ආකාරය පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/13c54b91.json)
-
----
-
-### අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත් වීම ගැන ජනපතිගෙන් ශෝක නිවේදනයක්
-
-*2025-07-21 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212473) · `si`
-
-අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමි අපවත්වීම වෙනුවෙන් ජනාධිපති, අනුර කුමාර දිසානායක මහතා විසින් ශෝක නිවේදනයක් නිකුත් කර තිබේ.
-
-අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත්වීමෙන් සංවේගයට පත් ශ්‍යාමෝපාලී මහා නිකායේ අස්ගිරි පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නාහිමිපාණන් වහන්සේ ප්‍රමුඛ අස්ගිරි විහාර පාර්ශ්වයේ මහා සංඝරත්නයටත්, ශිෂ්‍ය භික්ෂුන් වහන්සේ සහ සියලු දායකකාරකාදීන්ටත්, පවුලේ ඥාතීන්ටත් ජනාධිපතිවරයා සිය සාතිශය සංවේගය පළ කර ඇත.
-
-◼️
-
-[Data](articles/d030c58b.json)
 
 ---
 
@@ -258,24 +122,6 @@ This decision was based on a Supreme Court order, which found him guilty of all 
 
 ---
 
-### ගම්මන්පිලට එරෙහි නඩුවක් කල්යයි
-
-*2025-07-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212471) · `si`
-
-ව්‍යාජ ඇටෝනි බලපත්‍රයක් සකස්කර ඔස්ට්‍රේලියානු ජාතික ව්‍යාපාරිකයකුට අයත් රුපියල් මිලියන 20ක වටිනාකමකින් යුත් සමාගම් කොට සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍ය උදය ගම්මන්පිල මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව යළි කැඳවීමට කොළඹ මහාධිකරණය දින නියම කළේය.
-
-මෙම නඩුව අද (21) කොළඹ මහාධිකරණ විනිසුරු ආර්.එස්.එස්. සපුවිද මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී විනිසුරුවරයා නියම කළේ, අදාළ නඩුව විභාගය සඳහා නොවැම්බර් මස 21 වනදා යළි කැඳවන ලෙසය.
-
-ව්‍යාජ ඇටෝනි බලපත්‍රයක් සකස්කර ඔස්ට්‍රේලියානු ජාතික ව්‍යාපාරිකයකු වන බ්‍රයන් ෂැඩික් නමැත්තාට අයත් රුපියල් මිලියන 20ක වටිනාකමකින් යුත් සමාගම් කොටස් සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍ය උදය ගම්මන්පිල මහතාට එරෙහිව ඉකුත් යහපාලන රජය සමයේ මෙම නඩුව ගොනුකර තිබුණි.
-
-◼️
-
-[Data](articles/c0a01228.json)
-
----
-
 ### State revenue up by nearly 20% in first five months of 2025
 
 *2025-07-21 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110686/state-revenue-up-by-nearly-20-in-first-five-months-of-2025) · `en`
@@ -291,24 +137,6 @@ These figures were highlighted in the Central Bank’s latest Weekly Economic In
 ◼️
 
 [Data](articles/7dc870cd.json)
-
----
-
-### Sri Lanka Port City tower with clock to rival Big Ben gets tax holiday
-
-*2025-07-21 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-tower-with-clock-to-rival-big-ben-gets-tax-holiday-231888/) · `en`
-
-ECONOMYNEXT – Clothespin Management and Development, which aims to build a twin tower with luxury residencies, a seven-star hotel, high end retail spaces and elite office environments in the Colombo Port City, has been given a 25-year tax holiday and half the rate for the next 10 years.
-
-Clothespin Management and Development (Private) Limited will invest 540,104,317 dollars with 75,000,000 dollars for land lease, and 465,104,317 dollars for construction.
-
-The company aims to develop a twin tower marvel that will house the world’s largest art gallery in the Hotel Use Land Plot 2-01-11 spanning over an area of 24,324 sqm in Colombo Port City, a gazette notice detailing tax breaks said.
-
-“An Exclusive 15-Meter Grand Clock designed to rival Big Ben, setting a Guinness World Record and will be the world’s largest Vertical Art Gallery with every floor function as an immersive art space, displaying works by renowned global artists and hosting prestigious exhibitions.”
-
-...
-
-[Data](articles/6d9457e2.json)
 
 ---
 
@@ -431,20 +259,6 @@ Mumbai Airport confirmed that the runway excursion took place at 09:27 hours.
 ◼️
 
 [Data](articles/dc6391fb.json)
-
----
-
-### පැල්වත්තේ උක් ගොවීන් උද්ඝෝෂණයක
-
-*2025-07-21 13:50:25* · [`adalk`](https://www.ada.lk/breaking_news/පැල්වත්තේ-උක්-ගොවීන්-උද්ඝෝෂණයක/11-417421) · `si`
-
-පැල්වත්ත සීනි කර්මාන්තායතනයේ උක් ගොවීන්ට සහ සැපයුම්කරුවන්ට ගෙවිය යුතු මුදල් පාලන අධිකාරිය මඟින් නොගෙවීම ඇතුළු තවත් ඉල්ලීම් රැසක් මුල් කරගනිමින් පැල්වත්තේ  උක් ගොවීන්,සේවකයින් ඇතුළු සැපයුම්කරුවන් පිරිසක් (21) වෙනිදා බුත්තල නගරයේදී විරෝධතා ව්‍යාපාරයක නිරත විය.
-
-රතු සීනි වලට සියයට දහඅටක වැට් බද්දක් අය කිරීම නිසා සීනි මිල ඉහළ යෑමෙන් සීනි අලෙවි කර ගැනීමට නොහැකිවීමෙන් මෙසේ ගොවීන්ට සේවකයින්ට සහ සැපයුම්කරුවන්ට දිය යුතු මුදල් ගෙවීම ඇනහිට තිබෙන අතර රජය මඟින් වැට් බැද්ද ඉවත් කරනු,උක් ගොවියා අනතුරේ සීනි කර්මාන්තය රැකගනිමු,රට සීනි රට පුරා අපේ සීනි රැක ගැනීමට වැඩපිළිවෙළක් සකස් කරනු,පැල්වත්තත් සෙවනගලත් ඉසාරටද,බඩ ඉරිඟු වලින් එතනෝල් නිෂ්පාදනය නතර කරනු,වැට් බද්ධ වහා අහෝසි කරනු,අයිඑම්එෆ් මර උගුලට ගොවියා බිලි නොදෙනු,තොපිටත් බැරිනම් අපිට දියව්,පැල්වත්ත සෙවනගල ඉවරයි ආණ්ඩුව මර නින්දේ,තීන්දු තීරණ ගැනීමේ ක්‍රියාවලියට ගොවි කම්කරු කමිටු සම්බන්ධ කරනු යන සටන් පාඨ කියමින් බුත්තල නගරයට පාගමනින් පැමිණි උද්ඝෝෂණකරුවෝ නගර මධ්‍යයේ පැයක පමණ කාලයක් සටන් පාඨ කියමින් උද්ඝෝෂණයේ නිරතව සාමකාමීව විසිර ගියහ.
-
-...
-
-[Data](articles/a66aca0c.json)
 
 ---
 
@@ -1833,5 +1647,187 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/3ace98b4.json)
+
+---
+
+### Mujibur demands removal of Deputy Minister Jayasekara over Easter Sunday attack allegations
+
+*2025-07-21 04:36:53* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-demands-removal-of-Deputy-Minister-Jayasekara-over-Easter-Sunday-attack-allegations/56-779255) · `en`
+
+Questions impartiality of Easter Sunday attack probe while Aruna Jayasekara remains in office
+
+Cites Jayasekara’s recent admission in Parliament of intelligence involvement in bombings
+
+Warns Jayasekara’s role undermines President Disanayake’s efforts to deliver justice
+
+Says no official will investigate properly if their superior is implicated in case
+
+The main opposition party, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday called for the immediate removal of Defence Deputy Minister Major General (Retd.) Aruna Jayasekara, raising serious concern over the credibility of ongoing investigation into the 2019 Easter Sunday attacks.
+
+Addressing the media, he asserted that no probe into the devastating bombings could be deemed impartial as long as Jayasekara remains in office, given his position during the time of the attacks and his subsequent political appointment under the new Government.
+
+...
+
+[Data](articles/04043b94.json)
+
+---
+
+### Catholic Church welcomes sacking of ex-SDIG Nilantha Jayawardena
+
+*2025-07-21 04:30:13* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-welcomes-sacking-of-ex-SDIG-Nilantha-Jayawardena/56-779254) · `en`
+
+National Catholic Mass Communications Director Rev. Fr. Jude Krishantha urges immediate criminal prosecution against Jayawardena
+
+Suggests larger, hidden force may be behind bombings, beyond Zahran Hashim’s group
+
+Accuses former Presidents Sirisena, Gotabaya and Ranil of protecting Jayawardena for past six years
+
+Calls on Govt. to expose full truth and ensure accountability at all levels
+
+The Catholic Church of Sri Lanka yesterday welcomed President Anura Kumara Disanayake’s decision to terminate the services of former Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena, while calling for swift legal action against all those found responsible for the 2019 Easter Sunday attacks.
+
+Speaking to the media, National Catholic Mass Communications Director Rev. Fr. Jude Krishantha extended his gratitude to President Disanayake for taking steps to sack Jayawardena.
+
+...
+
+[Data](articles/e81a6f4a.json)
+
+---
+
+### NPC terminates ex-SDIG Nilantha Jayawardena following Easter attack inquiry
+
+*2025-07-21 04:27:42* · [`dailyftlk`](https://www.ft.lk/news/NPC-terminates-ex-SDIG-Nilantha-Jayawardena-following-Easter-attack-inquiry/56-779253) · `en`
+
+Three-member tribunal finds him guilty of all charges, leading to dismissal by NPC
+
+The National Police Commission (NPC) has officially terminated the service of former Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena, following a disciplinary inquiry related to the 2019 Easter Sunday terror attacks.
+
+Jayawardena, who previously served as the Head of the State Intelligence Service (SIS), was placed on compulsory leave by the NPC in July 2024, pending an internal investigation.
+
+Following the conclusion of the inquiry, the NPC has decided to dismiss Jayawardena from service, a statement issued by the Commission on 19 July noted.
+
+According to a formal disciplinary investigation report submitted to the NPC on 4 July by a three-member tribunal, Jayawardena was found guilty of all charges listed in the charge sheet.
+
+...
+
+[Data](articles/9fea3ab2.json)
+
+---
+
+### SJB rejects leadership rumours amid alleged political sabotage
+
+*2025-07-21 04:26:57* · [`dailyftlk`](https://www.ft.lk/news/SJB-rejects-leadership-rumours-amid-alleged-political-sabotage/56-779252) · `en`
+
+The main opposition party, Samagi Jana Balawegaya (SJB) MP Mujibur Rahman yesterday firmly denied speculation of an internal move to oust Opposition Leader Sajith Premadasa, while alleging a broader conspiracy aimed at undermining both the party and its Leader.
+
+“There has been no discussion within the SJB to remove Sajith Premadasa from his position as Opposition Leader,” he said at a media briefing.
+
+However, he claimed that there are certain groups working to politically destroy both the party and its Leader.
+
+He alleged that these factions appear to be operating with the tacit support of the Government.
+
+Rahman also signalled openness to potential new alliances, noting that bringing in experienced politicians such as Dayasiri Jayasekara would be a positive move.
+
+“Dayasiri is a capable and seasoned politician. Welcoming people like him into the SJB will strengthen the party,” he added.
+
+◼️
+
+[Data](articles/1ca20a24.json)
+
+---
+
+### The Colombo Plan celebrates 74 years of regional cooperation and development
+
+*2025-07-21 04:20:48* · [`dailyftlk`](https://www.ft.lk/news/The-Colombo-Plan-celebrates-74-years-of-regional-cooperation-and-development/56-779249) · `en`
+
+US Ambassador to Sri Lanka and The Colombo Plan Council incumbent President Julie J. Chung
+
+The Colombo Plan for Cooperative Economic and Social Development in Asia and the Pacific marked its 74th anniversary this month, commemorating more than seven decades of regional collaboration and progress.
+
+To mark this milestone, the Colombo Plan hosted a cocktail event on 17 July, at the ITC Ratnadipa. Sri Lanka’s Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, graced the occasion as the Chief Guest, highlighting Sri Lanka’s longstanding role in advancing shared goals across the region.
+
+The Colombo Plan Secretary-General Dr. Benjamin P. Reyes, welcomed the dignitaries at the event and presented the Colombo Plan’s Diamond Jubilee Roadmap, outlining upcoming initiatives aimed at expanding the Colombo Plan’s impact and increasing visibility of its mission across Asia and the Pacific.
+
+...
+
+[Data](articles/e3e228c9.json)
+
+---
+
+### EUNIC x GLX expand  ‘The Routes we Take’ initiative across Sri Lanka
+
+*2025-07-21 04:16:28* · [`dailyftlk`](https://www.ft.lk/news/EUNIC-x-GLX-expand-The-Routes-we-Take-initiative-across-Sri-Lanka/56-779248) · `en`
+
+Selected creatives of ‘The Routes we Take’ Kandy event at a preparatory workshop held at the Alliance Française, Kandy
+
+The preparatory workshop brought together an inspiring group of creatives, each deeply engaged in exploring the powerful relationship between art and nature, with the guidance of Dr. Sunil Wijesiriwardana and Prof. Sudesh Mantillake
+
+The Routes We Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka and Good Life X (GLX), is expanding its reach beyond Colombo in 2025 to bring sustainability-focused creative programming to regional communities across Sri Lanka. The first of the four-part series is set to take place at the Karaliya Convention Centre and Centre for Performing Arts, Kandy from 25 – 26 July. The travelling project aims to foster environmental awareness and regenerative thinking through the creative arts, while decentralising access to cultural engagement.
+
+...
+
+[Data](articles/13928c14.json)
+
+---
+
+### US Embassy strengthens regional efforts to combat synthetic drug threat
+
+*2025-07-21 04:14:24* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-strengthens-regional-efforts-to-combat-synthetic-drug-threat/56-779247) · `en`
+
+The US Embassy in Sri Lanka, in collaboration with the National Dangerous Drugs Control Board (NDDCB), concluded a two-week regional training initiative focused on identifying and analysing synthetic drugs and new psychoactive substances, particularly fentanyl and its analogs—substances that have become an urgent global concern.
+
+The training culminated in a formal handover ceremony of drug testing equipment, where US Deputy Chief of Mission Jayne Howell, Deputy Minister of Public Security and Parliamentary Affairs Sunil Watagala, and NDDCB Chairman Dr. Indika Wanninayake presided over the presentation of the Radian ASAP instrument to Sri Lankan authorities.
+
+...
+
+[Data](articles/c2c4a51f.json)
+
+---
+
+### ஜெனிவா கூட்டத்திற்கு முன்னர் பாதிக்கப்பட்டோரின் கோரிக்கைகளை முன்வைத்து சர்வதேச அழுத்தத்தை ஏற்படுத்துவதே நோக்கம் – கஜேந்திரகுமார்
+
+*2025-07-21 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220502) · `ta`
+
+ஜெனிவா கூட்டத்திற்கு முன்னர் பாதிக்கப்பட்ட தரப்பினரின் கோரிக்கைகளை முன் வைப்பதன் ஊடாக கடுமையான சர்வதேச அழுத்தத்தை கொடுக்கும் செயல் வடிவத்தை ஏற்படுத்துவதே எமது நோக்கம் என தமிழ் தேசிய மக்கள் முன்னனணியின் தலைவர் , நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணத்தில் உள்ள தனியார் விருந்தினர் விடுதியில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற கலந்துரையாடல் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவ்வாறு தெரிவித்தார்.
+
+தமிழின படுகொலைக்கு பொறுப்பு கூற வைப்பது தொடர்பாக ஒரு நிலைப்பாட்டுக்கு தமிழ் அரசியல் கட்சிகள் , பொது அமைப்புகள் மனிதவுரிமை செயற்பாட்டாளர்கள் , சிவில் சமூக செயற்பாட்டாளர்கள் உள்ளிட்ட தரப்பினருக்கு கலந்துரையாடலுக்கு அழைப்பு விடுத்தோம்.
+
+நாம் அழைப்பு விடுத்தவர்களில் தமிழரசு கட்சியினர் சமூகமளிக்கவில்லை, ஏனைய கட்சியில் இருந்து அவற்றின் பிரதிநிதிகள், மனிதவுரிமை செயற்பாட்டாளர்கள் , சிவில் சமூகத்தினர் ஆகியோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/6c1052c5.json)
+
+---
+
+### வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் புதிய நிர்வாகம்
+
+*2025-07-21 04:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220501) · `ta`
+
+வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் புதிய நிர்வாகம் ஞாயிற்றுக்கிழமை (20) தெரிவு செய்யப்பட்டது.
+
+இதன்படி வடக்கு கிழக்கு மாகாண வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் தலைவராக யோகராசா கனகரஞ்சினியும் செயலாளராக சிவானந்தன் ஜெனிற்றாவும் உப தலைவராக வல்லிபுரம் அமலநாயகியும் உப செயலாளராக செபஸ்டியாம் தேவியும் பொருளாளராக கதிர்காமநாதன் கோகிலவாணியும் தெரிவு செய்யப்பட்டனர்.
+
+புதிய நிர்வாக தெரிவுக்கு பின்னர் ஊடகங்களுக்கு கருத்துத் தெரிவித்த வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் பிரதிநிதிகள், எமது சங்கம் 2017ம் ஆண்டு உருவாக்கப்பட்டு இன்று வரை நேர்த்தியாக வடக்கு கிழக்கின் எட்டு மாவட்டத்திலும் பல்லாயிரக்கணக்கான மக்கள் மத்தியில் இயங்கி வருகிறது.
+
+...
+
+[Data](articles/c51b8512.json)
+
+---
+
+### கிண்ணியா சுகாதார வைத்திய அதிகாரி அலுவலக பிரிவில் உணவகங்கள் திடீர் சோதனை
+
+*2025-07-21 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220500) · `ta`
+
+கிண்ணியா சுகாதார வைத்திய அதிகாரி பிரிவில் உணவகங்களின் தரத்தைப்பேணும் வகையிலும் மக்களுக்கு சுகாதாரமான உணவு கிடைக்க வேண்டுமெனும் நோக்கிலும் தொடர்ச்சியாக கிண்ணியா பிரதேசத்திலுள்ள உணவகங்களில் பரிசோதனை நடவடிக்கைகள்  கிண்ணியா சுகாதார வைத்திய அதிகாரி வைத்தியர் ஏ.எம்.எம்.அஜீத் அவர்கள் தலைமையில் மேற்பார்வை பொதுச்சுகாதாரப் பரிசோதகர் நசுருதீன் அவர்களின் வழிகாட்டலின் கீழ் கிண்ணியா சுகாதார வைத்திய அதிகாரி அலுவலகத்தின் பொதுச் சுகாதார பரிசோதர்களால் பரிசோதனை மேற்கொள்ளப்பட்டு வருகின்றது. குறித்த பரிசோதனை(19) இடம் பெற்றுள்ளது.
+
+இதன்போது உணவு பாதுகாப்பு தொடர்பாக ஆலோசனை வழங்கப்பட்டதுடன் மனித நுகர்வுக்கு பொருத்தமற்றதும் காலவதியானதுமான உணவுப் பொருட்களை விற்பனைக்கு வெளிக்கட்டிவைத்த 2 உணவங்களுக்கு எதிராக வழக்குதாக்கல் செய்யப்பட்டது.
+
+◼️
+
+[Data](articles/2f9a4bb3.json)
 
 ---

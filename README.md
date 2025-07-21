@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 18:09:52**
+As of **2025-07-21 18:33:19**
 
 ## Newspaper Stats
 
-*Scraped **65,926** Articles*
+*Scraped **65,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,329
-adaderanalk | 8,065
-tamilmirrorlk | 9,467
-virakesarilk | 10,984
+adaderanalk | 8,067
+tamilmirrorlk | 9,469
+virakesarilk | 10,985
 adaderanasinhalalk | 11,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,926 articles have been extended.
+61,973 (94.0%) of 65,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### நிலந்த தனது கடமையைத் தான் செய்தார்;தயாசிறி
+
+*2025-07-21 18:16:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-தனது-கடமையைத்-தான்-செய்தார்-தயாசிறி/175-361477) · `ta`
+
+2015 முதல் ஈஸ்டர் ஞாயிறு தாக்குதல்களுக்கு வழிவகுத்த நிகழ்வுகள் குறித்த அனைத்து தகவல்களையும் பரப்பியதன் மூலம் முன்னாள் தேசிய புலனாய்வு சேவை (SIS) தலைவர் நிலந்த ஜெயவர்தன தனது பணியைச் செய்துள்ளார் என்று பாராளுமன்ற உறுப்பினர் தயாசிறி ஜெயசேகர தெரிவித்தார்.
+
+"முன்னாள் SIS தலைவர், வரவிருக்கும் ஈஸ்டர் ஞாயிறு குண்டுவெடிப்பு குறித்து ஜனவரி 2019 முதல் தேசிய அதிகாரிகளுக்கு தகவல் அளித்துள்ளார். வரவிருக்கும் தாக்குதல்கள் குறித்து அப்போதைய பாதுகாப்பு அமைச்சின் செயலாளர் ஹேமசிறி பெர்னாண்டோவிடம் அவர் அடிக்கடி தகவல் தெரிவித்திருந்தார்," என்று பாராளுமன்ற உறுப்பினர் ஜெயசேகர ஊடகங்களுக்கு தெரிவித்தார்.
+
+"இந்த சூழ்நிலைகளைக் கருத்தில் கொண்டு, ஜெயவர்தனேவை பொலிஸிலிருந்து நீக்கும் பொலிஸ் ஆணைக்குழுவின் முடிவு சரியல்ல" என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/0a9a3b6f.json)
+
+---
+
+### பாடசாலை நேரம் நீட்டிக்கப்பட்டது ஏன்-பிரதமர் விளக்கம்
+
+*2025-07-21 18:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-நேரம்-நீட்டிக்கப்பட்டது-ஏன்-பிரதமர்-விளக்கம்/175-361476) · `ta`
+
+புதிய கல்வி சீர்திருத்தங்களின் கீழ் பாடசாலை நேரம் முப்பது நிமிடங்கள் நீட்டிக்கப்பட்டுள்ளதாக கல்வி அமைச்சர் பிரதமர் ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+
+தொலைக்காட்சி நேர்காணலின் போது பேசிய பிரதமர் அமரசூரிய, ஒரு பாடத்தின் காலம் 45 நிமிடங்களாக நீட்டிக்கப்பட்டுள்ளதாகக் கூறினார்.
+
+"பாடம் அல்லது பாடப்பகுதிகள் அவசரமின்றி கற்பிக்கப்படுவதை உறுதி செய்வதே இதன் நோக்கம். குழு ஆராய்ச்சி மற்றும் விளக்கக்காட்சிகள் போன்ற பல நடைமுறை செயல்பாடுகளை நாங்கள் சேர்த்துள்ளோம். மாணவர்களுக்கு கற்பிக்க ஆசிரியருக்கு போதுமான நேரம் இருக்க வேண்டும், அதே நேரத்தில் மாணவர்கள் அவசரமின்றி இந்த நடவடிக்கைகளில் பங்கேற்க நேரம் தேவை," என்று அவர் விளக்கினார்.
+
+ஆரம்பத்தில் காலை 08.00 மணி முதல் மாலை 04.00 மணி வரை பாடசாலைகளை இயக்க முன்மொழியப்பட்டதாக வெளிப்படுத்திய பிரதமர் அமரசூரிய, இருப்பினும், பாடசாலை நேரத்தை அரை மணி நேரம் மட்டுமே நீட்டிக்க முடிவு செய்யப்பட்டுள்ளதாகக் கூறினார்.
+
+போக்குவரத்து போன்ற பிற சிக்கல்களைக் கருத்தில் கொண்ட பிறகு இந்த முடிவு எடுக்கப்பட்டதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/63d5cd53.json)
+
+---
+
+### களுத்துறை, இரத்தினபுரி மாவட்டங்களில் கடும் காற்று : ஒருவர் உயிரிழப்பு, 33 பேர் பாதிப்பு
+
+*2025-07-21 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220564) · `ta`
+
+களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் சீரற்ற காற்றினால் ஏற்பட்ட விபத்துகளில் ஒருவர் உயிரிழந்ததுடன், 9 குடும்பங்களைச் சேர்ந்த 33 பேர் பாதிக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+நிலையத்தின் அறிக்கையின்படி, பேருவளை பகுதியில் கடலில் காணாமல் போயிருந்த ஒருவர் சடலமாக கண்டுபிடிக்கப்பட்டுள்ளார்.
+
+மேலும், கடும் காற்றின் காரணமாக எட்டு வீடுகள் பகுதியளவிலும் ஒரு வீடு முற்றாகவும் சேதமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதிகாரிகள் தொடர்ச்சியாக நிலைமையை கண்காணித்து வருவதுடன், பாதிக்கப்பட்டவர்களுக்கு தேவையான நிவாரண உதவிகள் வழங்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c2445283.json)
+
+---
 
 ### රෝහිතගේ දියණියට සහ බෑණාට විදෙස් ගමන් තහනමක්
 
@@ -41,6 +95,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/895cd45b.json)
+
+---
+
+### Travel ban issued on MP Rohitha Abeygunawardena’s daughter and son-in-law
+
+*2025-07-21 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110698/travel-ban-issued-on-mp-rohitha-abeygunawardenas-daughter-and-son-in-law) · `en`
+
+A travel ban has been imposed on the daughter and the son-in-law of New Democratic Front (NDF) Member of Parliament Rohitha Abeygunawardena, based on a request made by the Walana Anti-Vice Unit today (21), Ada Derana reporter said.
+
+Accordingly, the order was issued by the Matugama Magistrate’s Court.
+
+The order was issued in relation to the discovery of an illegally assembled vehicle in Matugama.
+
+Meanwhile, yesterday, the son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit yesterday, was remanded.
+
+Rasika Withana was remanded until August 1 by the Matugama Magistrate.
+
+He was also arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
+
+Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
+
+...
+
+[Data](articles/886c0687.json)
 
 ---
 
@@ -65,6 +143,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/20305326.json)
+
+---
+
+### Over 1,200 persons nabbed during special police operation
+
+*2025-07-21 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110697/over-1200-persons-nabbed-during-special-police-operation) · `en`
+
+A total of 1,241 individuals have been arrested during a special island-wide operation carried out in connection with offenses related to illicit liquor and narcotics.
+
+◼️
+
+[Data](articles/3b855beb.json)
 
 ---
 
@@ -1755,103 +1845,5 @@ Marcos will be the first Southeast Asian leader to meet Trump in his second term
 ...
 
 [Data](articles/5a94065a.json)
-
----
-
-### අපවත් වී වදාළ අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි හිමියන්ගේ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව
-
-*2025-07-21 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212461) · `si`
-
-අපවත් වී වදාළ සියම් මහා නිකායේ අස්ගිරි පාර්ශවයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමියන්ගේ ආදාහන පූජෝත්සවය එළැඹෙන 24 වන බ්‍රහස්පතින්දා රාජ්‍ය අනුග්‍රහය සහිතව සිදුකිරීමට නියමිතය.
-
-අද (21) සවස 4ට ලියන්ගස්තැන්න විහාරයට අපවත් වී වදාළ අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමියන්ගේ දේහය වැඩම කරවීමට නියමිත අතර, හෙට (22) පස්වරු 3ට එම ස්ථානයෙන් වැඩම කරවීමට නියමිතව තිබේ.
-
-හෙට සවස සිට 24 වන දින දක්වා විහාරයට අපවත් වී වදාළ අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමියන්ගේ දේහය අස්ගිරිය විහාරයේ විශ්‍රාම ශාලාවේ තැන්පත් කිරීමට නියමිතය.
-
-අනුරාධපුර භික්ෂු විශ්වවිද්‍යාලයේ හිටපු ජ්‍යෙෂ්ඨ කථිකාචාර්ය, වයඹ ඇත්කඳ රජමහා විහාරාධිපති, ආනමඩුවේ ශ්‍රී ධම්මදස්ස්‍යභිධාන මහා විහාරවංශික ස්‍යාමෝපාලි මහා නිකායේ අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපුජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමියන් හෘදයාබාධයක් හේතුවෙන් ඊයේ (20) රාත්‍රියේ අපවත් වී තිබුණි.
-
-පෞද්ගලික රෝහලකට ඇතුළත්කර ප්‍රතිකාර ලබමින් සිටිය උන්වහන්සේ අපවත් වූ බව දැනුම් දුන් අතර අපවත් වනවිට උන්වහන්සේ 67වන වියේ පසුවුණි.
-
-◼️
-
-[Data](articles/0bc2ae81.json)
-
----
-
-### அமெரிக்காவில் சக்தி வாய்ந்த நிலநடுக்கம்
-
-*2025-07-21 11:14:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-சக்தி-வாய்ந்த-நிலநடுக்கம்/50-361445) · `ta`
-
-ரிக்டர் அளவில் 6.2 ஆக பதிவான நிலநடுக்கத்தால் அங்குள்ள மக்கள் பீதி அடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-இந்த நிலநடுக்கம் இலங்கை நேரப்படி, இன்று திங்கட்கிழமை (21) அதிகாலை 3.58 மணிக்கு  ஏற்பட்டுள்ளது.
-
-பசிபிக் கடல் பகுதியில் அமைந்துள்ள அலஸ்கா மாகாணம் நிலநடுக்கங்கள் அடிக்கடி ஏற்படக்கூடிய ரிங்க் ஆப் பயர் என்ற இடத்தில் அமைந்து உள்ளது.
-
-முன்னதாக கடந்த நான்கு நாட்களுக்கு முன்னர் ரிக்டர் 7.3 அளவில் நிலநடுக்கம் ஏற்பட்டது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/b6c041cb.json)
-
----
-
-### ’அஸ்வெசும’  கால அவகாசம்  இன்றுடன் நிறைவு
-
-*2025-07-21 11:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கால-அவகாசம்-இன்றுடன்-நிறைவு/175-361444) · `ta`
-
-அஸ்வெசும நலன்புரி கொடுப்பனவு திட்டத்திற்காக மேன்முறையீடு செய்வதற்காக வழங்கப்பட்டிருந்த கால அவகாசம் இன்று திங்கட்கிழமை (21) நிறைவடையுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
-
-தற்போது இரண்டாம் கட்டத்தின் கீழ் அஸ்வெசும பயனாளர்களிடமிருந்து சுமார் 30,000 மேன்முறையீடுகள் கிடைத்துள்ளதாக நலன்புரி நன்மைகள் சபை குறிப்பிட்டுள்ளது.
-
-அதன்படி, இன்று திங்கட்கிழமை (21) முதல் குறித்த மேன்முறையீடுகள் பிரதேச செயலகங்களில் ஸ்தாபிக்கப்பட்டுள்ள மேன்முறையீட்டு குழுவினூடாக மீளாய்வு செய்யப்படும்.
-
-மீளாய்வின் பின்னர் நாட்டிலுள்ள அனைத்து பிரதேச செயலக செயலணியினூடாக குறித்த மேன்முறையீடுகள் நலன்புரி நன்மைகள் சபைக்கு அனுப்பப்படும்.
-
-இதன்பின்னர் பயனாளர்களை தெரிவு செய்து நலன்புரி கொடுப்பனவை வழங்குவதற்கான நடவடிக்கைகள் எடுக்கப்படும் என நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/bf7ebe07.json)
-
----
-
-### Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held on Thursday
-
-*2025-07-21 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110677/final-rites-of-most-ven-anamaduwe-sri-dhammadassi-thero-to-be-held-on-thursday) · `en`
-
-The final rites of the late Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero is scheduled to take place with state sponsorship on Thursday (24).
-
-The funeral ceremony will be held at the Asgiriya Police Ground in Kandy, according to a communique issued by the Temple of Tooth Relic in Kandy.
-
-The remains of the late Thero will be taken to the Liyangastenna Purana Viharaya at 04:00 p.m. today (21) where it will lie-in-state for the public to pay final respects until 3.p.m. tomorrow (22).
-
-The remains of the late prelate will lie in state at the Asgiriya Temple for the public to pay their last respects from tomorrow evening to 1:30 p.m. on Thursday.
-
-The funeral ceremony and the cremation of the prelate will be held with state sponsorship at the Police Grounds at 2:30 p.m. on Thursday.
-
-The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero passed away at the age of 67, last night (20).
-
-...
-
-[Data](articles/d4b53f48.json)
-
----
-
-### Sri Lanka Port City ICC unit gets 25-year tax holiday for Rs13.8bn residential towers
-
-*2025-07-21 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-icc-unit-get-25-year-tax-holiday-for-rs13-8bn-residential-towers-231842/) · `en`
-
-ECONOMYNEXT – ICC Port City (Private) Limited, which will build two high-end residential towers and luxury villas in the Colombo Port City, has been given a 25-year tax holiday and half the rate for the next 10 years.
-
-ICC Port City, which is promoted by International Construction Consortium (Private) Limited, will invest 13.8 billion rupees and 66 million dollars in the project, taking land plot number 1-02-05 spanning an area of 13,945 square meters.
-
-ICC Port City will cater to international markets, conduct sales and marketing activities to sell apartments and to engage with foreign investors to draw foreign investment, a gazette notice detailing tax breaks said.
-
-The firm will “also offer the core services of luxury apartments, luxury villas and commercial space for sale or rent as well as serviced apartments and management services extending to rental management services and condominium management services.”
-
-...
-
-[Data](articles/192fa383.json)
 
 ---

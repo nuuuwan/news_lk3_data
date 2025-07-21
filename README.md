@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 17:17:37**
+As of **2025-07-21 17:31:41**
 
 ## Newspaper Stats
 
-*Scraped **65,906** Articles*
+*Scraped **65,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,77 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-economynextcom | 4,027
 islandlk | 4,028
+economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,327
 adaderanalk | 8,061
-tamilmirrorlk | 9,463
+tamilmirrorlk | 9,465
 virakesarilk | 10,981
-adaderanasinhalalk | 11,324
+adaderanasinhalalk | 11,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,906 articles have been extended.
+61,973 (94.0%) of 65,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### පෙම්වතා බේරීමට ගොස් වියානා ඇළේ සැඟව ගිය පෙම්වතියගේ සිරුර හමුවෙයි
+
+*2025-07-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212480) · `si`
+
+මහියංගනය පොලිස් වසමේ 17 කණුව ප්‍රදේශයේදී වියානා ඇළෙහි ඇල කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරා ගැනීමේදි දියේ ගිලී අතුරුදන් වූ පෙම්වතියගේ සිරුර හමුව තිබේ.
+
+ඊයේ (20) සවස මෙම අනතුර සිදුව ඇති අතර ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපළ ඇළ කණ්ඩිය මතින් ඇවිද සිටියදී සිය සෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා දියට වැටී තිබේ.
+
+එම අවස්ථාවේදී පෙම්වතිය ඔහුව බේරා ගැනීමට අත දී ඇති අතර පසුව දෙදෙනාම ඇළට වැටී ඇත.
+
+පසුව එම ස්ථානයෙන් ගිය මහියංගණය පොලිස් පුහුණු පාසලේ නිලධාරියෙක් සහ ඔහුගේ බිරිඳ වහාම ඇළට පැන තරුණයාව බේරාගෙන ඇති අතර තරුණිය සොයා ගැනීමට ඔවුන්ට හැකිවී නොමැත.
+
+කෙසේ නමුත් ඇය සොයා පොලීසිය සහ ප්‍රදේශවාසීන් සෝදිසි මෙහෙයුමක් ආරම්භ කර තිබුණි.
+
+ඒ අනුව ඇගේ සිරුර අද (20) උදෑසන සොයාගෙන තිබේ. මෙලෙස මියගොස් ඇත්තේ රජරට විශ්ව විද්‍යාලයේ ඉගෙනුම ලැබූ 26 හැවිරිදි සිසුවියක් වන අතර ඇය හම්බන්තොට ප්‍රදේශයේ පදිංචිකාරියකි.
+
+◼️
+
+[Data](articles/07a38bb3.json)
+
+---
+
+### கிரகரி ஏரியில் படகு சவாரி தற்காலிகமாக தடை
+
+*2025-07-21 17:04:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரகரி-ஏரியில்-படகு-சவாரி-தற்காலிகமாக-தடை/76-361473) · `ta`
+
+◼️
+
+[Data](articles/ab327ff7.json)
+
+---
+
+### ஏப்ரல் 2026 முதல் ஈ-என்ஐசி அறிமுகம்
+
+*2025-07-21 17:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-2026-முதல்-ஈ-என்ஐசி-அறிமுகம்/175-361472) · `ta`
+
+இலத்திரனியல் தேசிய அடையாள அட்டைகள் (இ-என்ஐசி) ஏப்ரல் 2026க்குள் வழங்கப்படும் என்று எதிர்பார்க்கப்படுகிறது என்று டிஜிட்டல் பொருளாதாரத் துணை அமைச்சர் எரங்க வீரரத்ன தெரிவித்தார்.
+
+டிஜிட்டல் ஐடி அமைப்பை நிறுவுவதை நோக்கமாகக் கொண்டு, ஐடி செயல்முறையை டிஜிட்டல் மயமாக்கும் திட்டம் 2012 இல் தொடங்கப்பட்டதாக அவர் கூறினார்.
+
+பிளாஸ்டிக் அடையாள அட்டைகளின் தற்போதைய பயன்பாடு சுற்றுச்சூழல் அமைப்பை எதிர்மறையாக பாதிக்கிறது என்பதை வீரரத்ன எடுத்துரைத்தார், மேலும் டிஜிட்டல் அடையாள தளத்திற்கு மாற வேண்டியதன் அவசியத்தையும் குறிப்பிட்டார்.
+
+இந்த அமைப்பு MOSIP செயல்படுத்தல் தீர்வு மூலம் இலங்கையின் ஐடி பதிவு செயல்முறையைத் தனிப்பயனாக்க வடிவமைக்கப்பட்டுள்ளது.
+
+இருப்பினும், டிஜிட்டல் ஐடி இப்போது வேகமாக உருவாகி வருவதாலும், பாதுகாப்பான மற்றும் திறமையான ஐடி தளத்தை ஆதரிப்பதில் முக்கிய பங்கு வகிப்பதாலும், மாடுலர் ஓப்பன் சோர்ஸ் ஐடென்டிட்டி பிளாட்ஃபார்ம் (MOSIP) போன்ற ஒரு அமைப்பு அவசியம்.
+
+◼️
+
+[Data](articles/d54e5a79.json)
+
+---
 
 ### தலவாக்கலையில் மரம் முறிந்து விழுந்ததால் மின்சாரம் துண்டிப்பு
 
@@ -51,6 +103,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bba3647c.json)
+
+---
+
+### Sri Lanka sees foreign buying in rupee bonds for second straight week
+
+*2025-07-21 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-for-second-straight-week-231679/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for the second straight week amid U.S. President Donald Trump’s push for steep new tariffs on European Union products.
+
+Foreign investors bought 8.57 million dollars worth of government securities in the week ended on July 17, extending the total inflow to 14.22 million dollars in the last two weeks. The island nation saw net offshore selling for the three straight weeks, Central Bank data showed.
+
+Foreign investors bought 2,570 million rupees (8.57 million dollars) worth rupee bonds in the week.
+
+Global investors pulled money out of equity funds in the week through July 16 as Trump’s tariff threats and an inflation report indicating an increase in U.S. consumer prices, dampened risk sentiment.
+
+Investors withdrew a net $5.3 billion from global equity funds during the week, Reuters reported.
+
+...
+
+[Data](articles/62cf9990.json)
 
 ---
 
@@ -78,6 +150,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka president meets IMF representatives
+
+*2025-07-21 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-representatives-231962/) · `en`
+
+ECONOMYNEXT – International Monetary Fund (IMF) representatives met with Sri Lanka’s President Anura Dissanayake to discuss the future review of its extended credit facility.
+
+The discussion focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
+
+Dissanayake is said to have “outlined the country’s present economic challenges and reiterated the importance of incorporating measures to ease the burden on the public in the 2026 Budget, despite these constraints”.
+
+“President Dissanayake expressed his gratitude for the support extended to Sri Lanka by the IMF so far and emphasized that he is committed to ensuring that all the benefits of the country’s economic growth are delivered to the people.”
+
+The IMF representatives “agreed to extend the necessary support to maintain economic stability and further Sri Lanka’s global advancement”.
+
+...
+
+[Data](articles/a839a914.json)
+
+---
+
 ### ”நிலந்தவுக்கு மரண தண்டனை விதிப்பதை திருச்சபை விரும்பவில்லை”
 
 *2025-07-21 16:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-மரண-தண்டனை-விதிப்பதை-திருச்சபை-விரும்பவில்லை/175-361471) · `ta`
@@ -93,6 +185,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3dae94c8.json)
+
+---
+
+### Sri Lanka rupee steady against dollar, bonds edge up
+
+*2025-07-21 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-against-dollar-bonds-edge-up-231941/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.75/85 to the US dollar in the spot market Monday, broadly steady from 301.65/85 Friday, while bond yields edged up slightly, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.10/19 percent, up from 8.10/15 percent.
+
+A bond maturing on 15.09.2027 closed at 8.44/56, up from 8.45/55 percent.
+
+A bond maturing on 15.10.2028 closed at 8.95/9.06 percent, up from 8.94/9.02 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.48/53 percent.
+
+A bond maturing on 01.06.2033 closed at 10.70/77 percent, from 10.70/76 percent. (Colombo/July21/2025)
+
+◼️
+
+[Data](articles/304cccb6.json)
 
 ---
 
@@ -331,6 +445,24 @@ Ada Derana 24’s daily programming features seven hourly news bulletins and fou
 ...
 
 [Data](articles/29260c47.json)
+
+---
+
+### Sri Lanka stocks end on mixed sentiments
+
+*2025-07-21 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-on-mixed-sentiments-231911/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange saw mixed sentiment on Monday, as its broader index closed up, while its more liquid index closed down.
+
+The All Share Price Index closed up 0.37 percent, or 70.38 points, at 19,044; while the S&P SL20 closed down 0.15 percent, or 8.44 points, at 5,646.
+
+Diversified financials and capital goods stocks contributed the most to turnover.
+
+The ASPI was boosted by DFCC Bank which closed 4.75 rupees higher at 125.75, Central Finance Company which closed 11.00 rupees higher at 286.00, Co-operative Insurance Company which closed 70 cents higher at 4.50, C T Holdings which closed 13.00 rupees at 583.25, and Lanka Realty Investments which closed 5.50 rupees higher at 27.70.
+
+◼️
+
+[Data](articles/469bd5c5.json)
 
 ---
 
@@ -1717,137 +1849,5 @@ The U.N. World Food Program said 25 trucks with aid had entered for “starving 
 ◼️
 
 [Data](articles/4f45ef8e.json)
-
----
-
-### මහින්දානන්දට සහ නලින් ප්‍රනාන්දුට තවත් නඩුවකට අධිචෝදනා
-
-*2025-07-21 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212459) · `si`
-
-2014 වසරේ පැවති ජනාධිපතිවරණය සමයේ ස.තො.ස ආයතනය හරහා කැරම්බෝඩ් හා දාම් ලෑලි ආනයනය කර දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් ක්‍රීඩා සංගම්වලට බෙදා දීම තුළින් පොදු දේපළ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කරමින් මේ වන විට සිරදඬුවම් ලබා සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත් ගමගේ සහ නලින් ප්‍රනාන්දු සහ ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට අද (21) කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා භාරදුන්නේය.
-
-ඉන් අනතුරුව මෙම විත්තිකරුවන් තුන්දෙනා ඇප මත මුදා හැරීමටද කොළඹ මහාධිකරණ විනිසුරු  මංජුල තිලකරත්න මහතා නියෝග කළේය.
-
-කෙසේ වෙතත් මෙම නඩුවේ විත්තිකරුවන් වන මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන අය දැනටමත් සිරදඬුවම් නියම වී සිටින බැවින් ඔවුන්ව මීළඟ නඩු දිනයේ අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහාධිකරණ විනිසුරු නියම කළේය.
-
-◼️
-
-[Data](articles/a564b09c.json)
-
----
-
-### தந்தையின் சித்திரவதை தாங்காது காட்டுக்குள் ஓடிய மகள்
-
-*2025-07-21 10:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தந்தையின்-சித்திரவதை-தாங்காது-காட்டுக்குள்-ஓடிய-மகள்/175-361435) · `ta`
-
-தனது தாய் வெளிநாட்டில் இருந்தபோது, தந்தை சித்திரவதை செய்ததால் வீட்டை விட்டு காட்டுக்கு ஓடிய 14 வயது பாடசாலை மாணவியை கண்டுபிடித்துள்ளதாக ஹதரலியத்த பொலிஸார் தெரிவித்தனர்.
-
-14 மற்றும் 8 வயதுடைய இரண்டு மகள்களும், அதே பொலிஸ் எல்லைக்குள் வரும் கஹபத்வலவின் கோனதென்ன பகுதியில், தங்கள் 36 வயதுடைய தந்தையுடன் வசித்து வந்துள்ளனர்.
-
-தந்தையின் சித்திரவதை காரணமாக, மூத்த மகள் கடந்த 16 ஆம் திகதி காலை வீட்டை விட்டு வெளியேறி, தனது பாடசாலை பையில் தனது துணிகளை வைத்து எடுத்து சென்றதாக பொலிஸார் தெரிவித்தனர்.
-
-பாடசாலைக்குச் சென்ற மகள் மாலை வரை வீடு திரும்பவில்லை என்று ஹதரலியத்த பொலிஸில் தந்தை புகார் அளித்திருந்தார். உடனடியாக அவளைத் தேடிச் சென்ற பொலிஸார்,  நாள் முழுவதும் உண்ணாமல் இருந்ததால், அவள் ஒரு மரத்தடியில் படுத்து தூங்கிக் கொண்டிருந்ததைக் கண்ட பொலிஸார் அச்சிறுமியை மீட்டு அழைத்து வந்ததாக தெரிவித்தனர்
-
-◼️
-
-[Data](articles/659b99ab.json)
-
----
-
-### கண்டியில் அழகுக்கலை நிலையத்தில் மயங்கி விழுந்த ஏழு பெண்கள்
-
-*2025-07-21 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220510) · `ta`
-
-கண்டி, பேராதனை வீதியில் அமைந்துள்ள அழகு நிலையம் ஒன்றில் ஞாயிற்றுக்கிழமை (20) மாலை மயங்கி விழுந்த ஏழு பெண்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-மின் தடை ஏற்பட்டதை தொடர்ந்து அழகுக்கலை நிலையத்தின் மூடிய பகுதியில் மின்  குளிரூட்டி செயற்பட்டு கொண்டிருந்த போது ஜெனரேட்டரை இயக்கியுள்ளனர்.
-
-இதனையடுத்து, காற்றோட்டம் குறைவாக இருந்த நிலையில், ஜெனரேட்டரிலிருந்து வந்த நச்சுப் புகையை சுவாசித்தமையினால் பெண்கள் மயங்கி விழுந்ததிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
-
-பாதிக்கப்பட்ட பெண்கள் கண்டி தேசிய வைத்தியசாலை மற்றும் அருகிலுள்ள தனியார் வைத்தியசாலை கொண்டு செல்லப்பட்டனர்.
-
-அவர்களில் அழகுக்கலை நிலையத்தைச் சேர்ந்த  4 ஊழியர்கள் மற்றும் சம்பவம் நடந்த நேரத்தில் அங்கிருந்த மூன்று வாடிக்கையாளர்களும் அடங்குவர்.
-
-◼️
-
-[Data](articles/2e6ab673.json)
-
----
-
-### Sri Lanka gives 25-year tax holiday to Port City CHEC real estate unit
-
-*2025-07-21 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-25-year-tax-holiday-to-port-city-chec-real-estate-unit-231825/) · `en`
-
-ECONOMYNEXT – Sri Lanka has given a 25-year tax holiday, and the next 10 years at half the rate, to IFC Colombo 1 (Pvt) Ltd, which will develop a mixed use plot in the Colombo Port City.
-
-IFC Colombo 1 is a unit of CHEC Port City Colombo (Pvt) Ltd, which in turn is owned by China Harbour Engineering Company and China Communications and Construction Company Limited of China.
-
-CHEC Port City is the company that reclaimed the land for Colombo Port City.
-
-IFC Colombo 1 will invest 142.71 million dollars. A tranche of 94.98 will go to construction and preliminary costs and 47.73 million for land which will be raised from foreign sources.
-
-“The objective behind establishing IFC Colombo 1 (Pvt) Ltd. is to carry out real estate development within the Colombo Port City, with a vision of creating a thriving and sustainable real estate ecosystem by strategically integrating commercial, retail, and residential elements,” a gazette notice detailing the tax holidays said.
-
-...
-
-[Data](articles/5bd04583.json)
-
----
-
-### ගාසා තීරයේ සිටි 67 දෙනෙකු ඝාතනය කරයි
-
-*2025-07-21 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212458) · `si`
-
-එක්සත් ජාතීන්ගේ මානුෂිය ආධාර බලාපොරොත්තුවෙන් උතුරු ගාසා තීරයේ සිටි පුද්ගලයින් 67 දෙනෙකු ඝාතනය කර ඇති බව හමාස් සංවිධානයේ සෞඛ්‍ය අංශ පවසයි.
-
-එක්සත් ජාතීන්ගේ ලෝක ආහාර සංවිධානය පවසා ඇත්තේ මානුෂිය ආධාර රැගත් රථ එම ප්‍රදේශයට ලඟා වන විට වෙඩි වැදීමට ලක්වු සිවිල් වැසියන් පිරිසක් හමුවු බවය.
-
-මේ සම්බන්ධයෙන් ඊශ්‍රායල හමුදාව පවසා ඇත්තේ ක්ෂණිකව ඇති වු තර්ජනයක් මැඩපැවැත්වීම වෙනුවෙන් එම වෙඩි තැබීම සිදුකළ බවය.
-
-ගාසා තීරයේ ජීවත්වන දහස් ගණනක් වු සිවිල් වැසියන්ට ආහාර සපයා ගැනීමට නොහැකි වීමෙන් ඔවුන්ගේ ජීවිතවලට දැඩි තර්ජනයක් එල්ල වී ඇති බව හමාස් සංවිධානයේ සෞඛ්‍ය අංශ පෙන්වා දී ඇත.
-
-ඒ අනුව ඔවුන්ට අවශ්‍ය අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ලබා දෙන ලෙස ගාසා හී සෞඛ්‍ය අංශ එක්සත් ජාතීන්ගේ සංවිධානයෙන් ඉල්ලීමක්ද සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/ae21e5c9.json)
-
----
-
-### තැපෑල් වෘත්තීය සමිති අනතුරු අගවයි
-
-*2025-07-21 09:59:03* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල්-වෘත්තීය-සමිති-අනතුරු-අගවයි/11-417417) · `si`
-
-තැපැල් සේවකයන්ගේ අතිකාල දීමනා කප්පාදු කිරීමේ ගැටලුවට අද(21දා)  විසඳුම් නොලැබුණ හොත් වෘත්තීය ක්‍රියා මාර්ග ආරම්භ කරන බව තැපැල් වෘත්තීය සමිති සඳහන් කරයි.
-
-අදාළ ගැටලුව සම්බන්ධයෙන් තැපෑල අමාත්‍යාංශ බලධාරීන් අද සාකච්ඡාවක් ලබා දී තිබෙන බවද එම සමිති පෙන්වා දෙයි.
-
-මෙම සාකච්ඡාවෙහිදී නිසි විසඳුම් නොලැබුණ හොත් අද(21) සවස තැපැල් වෘත්තීය සමිති කොළඹදී රැස්වන බවත් එහිදී සිදුකරන වෘත්තීය ක්‍රියා මාර්ගය කුමක්ද යන්න තීරණය කරන බවත් සඳහන් කරයි.
-
-අදාල ගැටලුව විසඳා  ගැනීම  සඳහා තැපැල් බලධාරීන් සමග පසුගිය15 වැනි දින පැවති සාකච්ඡාවෙහිදී අදාළ ගැටලු පිළිබඳව විෂය භාර අමාත්‍යාංශ බලධාරීන් සමග අද(21දා) සාකච්ඡා කිරීමේ අවස්ථාව ලබා දෙන බවට බලධාරීන් පොරොන්දු  වූ බවද පෙන්වා දෙයි.
-
-මේ අනුව තැපැල් වත්තීය සමිති හා තැපැල් අමාත්‍යාංශ බලධාරීන් සමග අද සාකච්ඡා කරන බවද  වෘත්තීය සමිති නියොජිතයෝ පෙන්වා දෙති.
-
-සේවකයන්ට අතිකාල ගෙවීමේදී සිදුවන කප්පාදු කිරීම්ටවලට එරෙහිව  පසුගිය 15 වැනි දින   මධ්‍යම රාත්‍රියේ සිට අතිකාල සේවාවලින් ඉවත් වීමේ  වෘත්තීය සමිති ක්‍රියාමාර්ගය ආරම්භ කිරිමට සැලසුම් කර තිබුණ බවද වෘත්තීය සමිති සඳහන් කරයි.
-
-...
-
-[Data](articles/9d146a15.json)
-
----
-
-### கோழி இறைச்சியின் விலையில் திடீர் மாற்றம்
-
-*2025-07-21 09:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலையில்-திடீர்-மாற்றம்/175-361434) · `ta`
-
-தற்போது கோழி இறைச்சியின் விலை அதிகரித்து, ஒரு கிலோகிராம் கோழி இறைச்சி 1,300 ரூபாவை விட அதிக விலைக்கு விற்பனை செய்யப்பட்டு வருகிறது.
-
-எனவே, கோழி இறைச்சிக்கு உரிய விலையை நிர்ணயித்து விற்பனை செய்வதுடன், விலையையும் குறைக்குமாறு நுகர்வோர் கோரிக்கை விடுத்துள்ளனர்.
-
-அத்துடன், வார இறுதியில் கோழி இறைச்சியின் விலை ஓரளவு அதிகரித்துள்ளதை  இலங்கை கால்நடை உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் அஜித் குணசேகர  உறுதி செய்துள்ளார். R
-
-◼️
-
-[Data](articles/58fb5a92.json)
 
 ---

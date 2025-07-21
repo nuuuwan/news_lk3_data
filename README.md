@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 17:53:08**
+As of **2025-07-21 18:09:52**
 
 ## Newspaper Stats
 
-*Scraped **65,924** Articles*
+*Scraped **65,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,329
 adaderanalk | 8,065
-tamilmirrorlk | 9,466
+tamilmirrorlk | 9,467
 virakesarilk | 10,984
-adaderanasinhalalk | 11,326
+adaderanasinhalalk | 11,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,924 articles have been extended.
+61,973 (94.0%) of 65,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### රෝහිතගේ දියණියට සහ බෑණාට විදෙස් ගමන් තහනමක්
+
+*2025-07-21 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212482) · `si`
+
+හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධනගේ දියණියට සහ බෑණාට මතුගම මහේස්ත්‍රාත් අධිකරණය විසින් විදෙස් ගමන් තහනමක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/895cd45b.json)
+
+---
+
+### வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் பலி (வீடியோ)
+
+*2025-07-21 17:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-கல்லூரி-மீது-போர்-விமானம்-விழுந்து-நொறுங்கியதில்-16-பேர்-பலி-வீடியோ/50-361475) · `ta`
+
+வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் உயிரிழந்தனர். போர் விமானம் விழுந்து நொறுங்கியதில் 100க்கும் மேற்பட்டோர் காயம் அடைந்துள்ளனர். போர் விமானம் பயிற்சிக்குச் சென்றபோது தீப்பிடித்து கல்லூரி மீது விழுந்தது. டாக்காவின் வடக்கு உத்தரா பகுதியில் உள்ள கல்வி நிலையம் மீது போர் விமானம் விழுந்து நொறுங்கியது.
+
+◼️
+
+[Data](articles/1b06a18b.json)
+
+---
 
 ### வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் உயிரிழப்பு
 
@@ -1829,47 +1853,5 @@ The firm will “also offer the core services of luxury apartments, luxury villa
 ...
 
 [Data](articles/192fa383.json)
-
----
-
-### Sri Lanka Port City ICC unit gets 25-year tax holiday for Rs13.8bn residential towers
-
-*2025-07-21 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-icc-unit-gets-25-year-tax-holiday-for-rs13-8bn-residential-towers-231842/) · `en`
-
-ECONOMYNEXT – ICC Port City (Private) Limited, which will build two high-end residential towers and luxury villas in the Colombo Port City, has been given a 25-year tax holiday and half the rate for the next 10 years.
-
-ICC Port City, which is promoted by International Construction Consortium (Private) Limited, will invest 13.8 billion rupees and 66 million dollars in the project, taking land plot number 1-02-05 spanning an area of 13,945 square meters.
-
-ICC Port City will cater to international markets, conduct sales and marketing activities to sell apartments and to engage with foreign investors to draw foreign investment, a gazette notice detailing tax breaks said.
-
-The firm will “also offer the core services of luxury apartments, luxury villas and commercial space for sale or rent as well as serviced apartments and management services extending to rental management services and condominium management services.”
-
-...
-
-[Data](articles/71927985.json)
-
----
-
-### பொலிஸாருக்கு மகிழ்ச்சியான செய்தி
-
-*2025-07-21 10:58:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-மகிழ்ச்சியான-செய்தி/175-361443) · `ta`
-
-பொலிஸ் அதிகாரிகளுக்கு அடுத்த ஆண்டு (2026) சம்பள உயர்வுக்கான  திருத்தங்கள்  நடைபெற்று வருவதாக பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய கூறியுள்ளார்.
-
-இரத்தினபுரி மாவட்டத்தில் பொலிஸ் அதிகாரிகளின் குழந்தைகளுக்கு பாடசாலைப் பொருட்களை வழங்கும் நிகழ்ச்சியில் பங்கேற்று பேசியபோது பதில் பொலிஸ் மா அதிபர் இவ்வாறு தெரிவித்துள்ளார்.
-
-மேலும், “20% முதல் 40% வரையிலான பொலிஸ் அதிகாரிகள் தொற்றாத நோய்களால் பாதிக்கப்பட்டுள்ளனர்.
-
-மேலும் 30% பேர் இன்னும் பரிசோதனைக்கு உட்படுத்தப்படவில்லை. மீதமுள்ள 30 பேர் உடல் நலத்தில் உள்ளனர்.
-
-சில அதிகாரிகளுக்கு வீட்டில் பிரச்சினைகள், வேலைப் பிரச்சினைகள் உள்ளன, மேலும் அவர்கள் அனைவருக்கும் தொற்றாத நோய்கள் உள்ளன.
-
-பொலிஸ் அதிகாரிகளின் கடமைகளை நெறிப்படுத்தவும், பணிச்சுமையை அதிகரிக்கவும், பொலிஸ் அதிகாரிகள் செய்யும் கடமைகளை மிக உயர்ந்த கடமையாக முன்வைத்து அவர்களுக்கு அதிக சலுகைகளை வழங்கவும் நாங்கள் நம்புகிறோம்.
-
-அந்த கவனத்தின் காரணமாக, அடுத்த ஆண்டு புதிய சம்பள அமைப்பைத் தயாரிக்க தேவையான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன என்றார்.
-
-◼️
-
-[Data](articles/c976752b.json)
 
 ---

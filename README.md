@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 16:06:28**
+As of **2025-07-21 16:23:10**
 
 ## Newspaper Stats
 
-*Scraped **65,895** Articles*
+*Scraped **65,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,326
 adaderanalk | 8,059
-tamilmirrorlk | 9,460
+tamilmirrorlk | 9,461
 virakesarilk | 10,978
-adaderanasinhalalk | 11,322
+adaderanasinhalalk | 11,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,895 articles have been extended.
+61,973 (94.0%) of 65,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### ජනපති සහ IMF නියෝජිතයන් අතර හමුවක්
+
+*2025-07-21 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212478) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර වන විස්තීර්ණ ණය පහසුකම් වැඩසටහනට අදාළ ඉදිරි කටයුතු පිළිබඳ ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (21) පෙරවරුවේ පැවැත්විණි.
+
+වත්මන් රජය යටතේ මේ වන විට ශ්‍රී ලංකාව තුළ ආර්ථික ස්ථාවරත්වයක් ඇති වී ඇති බැවින් එම ශක්තිමත් පදනම මත, ආර්ථික වර්ධනය ළඟා කර ගනිමින් හා නව ආර්ථික අවස්ථා ග්‍රහණය කර ගනිමින් ශ්‍රී ලංකාව ජාත්‍යන්තරයට ගෙන යාමේ වැඩපිළිවෙළ වේගවත් කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී සඳහන් කළේය.
+
+ශ්‍රී ලංකාව හමුවේ ඇති වත්මන් ආර්ථික අභියෝග පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් දැනුවත් කළ ජනාධිපතිවරයා එකී අභියෝග හමුවේ වුවද, 2026 අයවැයෙන් මෙරට ජනතාවට අවශ්‍ය සහන සලසාදීමට කටයුතු කිරීමේ අවශ්‍යතාවද සිහිපත් කළේය.
+
+...
+
+[Data](articles/fedfacc7.json)
+
+---
+
+### “எனக்கு அந்த உறுப்பு இல்லை”: கூச்சமின்றி கூறிய சுஹாசினி
+
+*2025-07-21 15:59:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/எனக்கு-அந்த-உறுப்பு-இல்லை-கூச்சமின்றி-கூறிய-சுஹாசினி/54-361469) · `ta`
+
+பிரபல நடிகை சுகாசினி சமீபத்தில் ஒரு பேட்டியில் படப்பிடிப்பு தளத்தில் தனக்கு நேர்ந்த கொடுமையை வெளிப்படையாக பகிர்ந்துள்ளார்.
+
+ஒரு படத்தில் நடிக்கும் போது, மரண வாக்குமூலம் கொடுத்து தன்னைத் தானே சுட்டு இறப்பது போன்ற காட்சியில் நடித்த அனுபவத்தை அவர் விவரித்தார்
+
+இதில், தலையில் துப்பாக்கியை வைத்து சுட்டு, பின்னர் "அந்தக் கொலை நான் செய்தேன், அவர் செய்யவில்லை" என்ற வசனத்தை பேசி விழுவதாக அமைந்த காட்சி அவருக்கு குழப்பத்தை ஏற்படுத்தியது.
+
+காட்சியை பார்த்து, இயக்குனரிடம் "நெற்றியில் துப்பாக்கியால் சுடினால் மூளை உடனே தெறிக்கும், அப்படி இருக்கையில் இவ்வளவு பெரிய வசனத்தை எப்படி பேச முடியும்? ரசிகர்கள் ஏற்றுக்கொள்வார்களா?" என்று கேள்வி எழுப்பிய சுகாசினிக்கு, இயக்குனர் "அது மூளை இருப்பவர்கள் கேட்பார்கள், உங்களுக்கு தான் மூளையே இல்லையே.. நீங்கள் பண்ணலாம்" என்று பதிலளித்ததாக அவர் தெரிவித்தார்.
+
+இந்த அனுபவம் அப்போது அவருக்கு மிகவும் கொடுமையாக இருந்ததாகவும், ஆனால் இப்போது நினைத்து பார்க்கும்போது மகிழ்ச்சியை அளிப்பதாகவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/47a4ae1c.json)
+
+---
 
 ### ක්‍රීඩා අමාත්‍යාංශයේ හිටපු ලේකම්වරයෙකුගෙන් අභියාචනාධිකරණයට පෙත්සමක්
 
@@ -1795,45 +1831,5 @@ Around 21 passengers from both buses sustained injuries and were immediately adm
 ◼️
 
 [Data](articles/2106390f.json)
-
----
-
-### Japan’s PM vows to stay on despite bruising election loss
-
-*2025-07-21 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110671/japans-pm-vows-to-stay-on-despite-bruising-election-loss) · `en`
-
-Japan’s ruling coalition has lost its majority in the country’s upper house, but Prime Minister Shigeru Ishiba has said he has no plans to quit.
-
-Voters went to the polls on Sunday for the tightly-contested election, being held at a time of frustration at the coalition of the Liberal Democratic Party (LDP) and its junior partner Komeito over rising prices and the threat of US tariffs.
-
-Speaking after polls closed on Sunday, the prime minister said he “solemnly” accepts the “harsh result” but that his focus was on trade negotiations.
-
-Having already lost its majority in Japan’s more powerful lower house last year, the defeat will undermine the coalition’s influence.
-
-The ruling coalition needed 50 seats to retain control of the 248-seat upper chamber. But with just one seat left to be announced, the coalition was on 47, public broadcaster NHK reported.
-
-Half of the seats in the upper chamber were being voted on in Sunday’s election, with members elected for six-year terms.
-
-...
-
-[Data](articles/8e8aa216.json)
-
----
-
-### කිරිඇල්ලගේ දුව වන මන්ත්‍රී චමින්ද්‍රානිගේ හන්තානේ ඉඩම් ගැටලුව කෝප් කමිටුවේ අවධානයට
-
-*2025-07-21 07:38:49* · [`adalk`](https://www.ada.lk/breaking_news/කිරිඇල්ලගේ-දුව-වන-මන්ත්‍රී-චමින්ද්‍රානිගේ-හන්තානේ-ඉඩම්-ගැටලුව-කෝප්-කමිටුවේ-අවධානයට/11-417413) · `si`
-
-රත්නපුර දිස්ත්‍රික්කයේ පිහිටි රාස්සගල වත්තේ අක්කර 22ඉඩම සමග හන්තාන ප්‍රදේශයෙන් අක්කර 43ක් සී.කිරිඇල්ල යන අය විසින් හුවමාරු කර ගැනීම සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී (කෝප්) විශේෂ අවධානය යොමු විය.
-
-අක්කර 22ක ඉඩම ප්‍රකාශිත නොවන පිරිසට ඇතුළත් සී.කිරිඇල්ල යන අයට කිසි සේත් ඉඩම බැහැර කිරීමට අයිතියක් නොමැති බවද මෙහිදී අනාවරණය විය.
-
-කෙසේ වෙතත් මෙම කරුණ සම්බන්ධව ජනතා වතු සංවර්ධන මණ්ඩලය කෝප් කමිටුව හමුවට හමුවට කැඳවා දීර්ඝ වශයෙන් සාකච්ඡා කළ යුතු බව කෝප් කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා අවධාරණය කළේය.
-
-ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව කෝප් කමිටුව හමුවට කැඳවූ අවස්ථාවේදී මෙම කරුණු අනාරවණය විය.
-
-...
-
-[Data](articles/434998d7.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 05:31:08**
+As of **2025-07-21 06:12:24**
 
 ## Newspaper Stats
 
-*Scraped **65,772** Articles*
+*Scraped **65,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 588
 colombotelegraphcom | 673
 bbccomsinhala | 677
-islandlk | 4,017
 economynextcom | 4,019
+islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,312
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,772 articles have been extended.
+61,973 (94.2%) of 65,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -680,6 +680,84 @@ The ship, KM Barcelona 5, caught fire while sailing in the waters off Manado, th
 
 ---
 
+### ‘Second Life Notebooks’ campaign by Ogilvy makes history with global recognition
+
+*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/second-life-notebooks-campaign-by-ogilvy-makes-history-with-global-recognition/) · `en`
+
+Ogilvy Sri Lanka’s ‘Second Life Notebooks’ campaign for ProMate (PrintXcel) has become the most internationally awarded campaign in Sri Lankan advertising history, securing 17 awards and shortlist honors at prestigious global festivals, including Cannes Lions, D&AD, Clio Awards, and Spikes Asia.
+
+The campaign was born out of necessity during Sri Lanka’s economic crisis, which caused a 300% surge in paper prices, making Braille notebooks unaffordable for visually impaired students. Geometry Global Sri Lanka, part of Ogilvy, devised an innovative solution, repurposing used notebooks into Braille writing books. The initiative invited public donations, receiving overwhelming support and enabling the provision of Braille notebooks to every government school in the country.
+
+...
+
+[Data](articles/074868ae.json)
+
+---
+
+### India’s rich and famous ditch old-school clubs for exclusive hangouts -BBC
+
+*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/indias-rich-and-famous-ditch-old-school-clubs-for-exclusive-hangouts-bbc/) · `en`
+
+For decades, the Indian elite have sought escape in Raj-era private clubs and gymkhanas, scattered around the swankiest neighbourhoods in the country’s big cities, hillside resorts and cantonment towns.
+
+Access to these quintessentially “English” enclaves, with their bellboys, butlers, dark mahogany interiors and rigid dress codes, has been reserved for the privileged; the old moneyed who roam the corridors of power – think business tycoons, senior bureaucrats, erstwhile royals, politicians or officers of the armed forces.
+
+This is where India’s rich and powerful have hobnobbed for years, building social capital over cigars or squash and brokering business deals during golf sessions. Today, these spaces can feel strangely anachronistic – relics of a bygone era in a country eager to shed its colonial past.
+
+...
+
+[Data](articles/87949a8f.json)
+
+---
+
+### Minasro College principal enhances skills through international training
+
+*2025-07-20 18:59:00* · [`islandlk`](http://island.lk/minasro-college-principal-enhances-skills-through-international-training/) · `en`
+
+Pushpa Hettiarachchi, Principal of Minasro College, recently participated in an advanced training programme on Psychology and Counselling at Binary University and Lincoln University College in Malaysia (25–30 June 2025).
+
+The programme focused on improving student mental health support and counselling techniques in educational settings.
+
+Hettiarachchi, who holds a Diploma in Psychology and Counselling from LPEC Campus in collaboration with Binary University, attended the training to strengthen her expertise in student wellbeing. Her participation highlights the growing need for Sri Lankan educators to engage in global learning opportunities, bringing back innovative approaches to local classrooms. The experience is expected to enhance Minasro College’s efforts in integrating emotional wellbeing into everyday education.
+
+...
+
+[Data](articles/584cce3f.json)
+
+---
+
+### Vista Solar Energy wins Best Solar Energy Solution Provider of the Year at Asia Miracle Awards 2025
+
+*2025-07-20 18:59:00* · [`islandlk`](http://island.lk/vista-solar-energy-wins-best-solar-energy-solution-provider-of-the-year-at-asia-miracle-awards-2025/) · `en`
+
+Vista Solar Energy, a leader in Sri Lanka’s renewable energy sector, was honoured with the Best Solar Energy Solution Provider of the Year award at the Asia Miracle Awards 2025. The event took place recently at the Taj Samudra Hotel in Colombo. Over the years, Vista Solar Energy has built a strong reputation for making clean energy more accessible to both homes and commercial properties. The company offers a wide range of services designed to help customers transition away from conventional power sources. These include high-efficiency solar panel systems, customised technical support, and emerging technologies like wind energy solutions.
+
+...
+
+[Data](articles/7ea3b845.json)
+
+---
+
+### Tokyo Cement Company (Lanka) PLC announces new board appointments
+
+*2025-07-20 18:57:00* · [`islandlk`](http://island.lk/tokyo-cement-company-lanka-plc-announces-new-board-appointments/) · `en`
+
+Tokyo Cement Company (Lanka) PLC has announced the appointment of two new members to its Board of Directors:
+
+1. Jegan Durairatnam – A seasoned banking professional with over 36 years of experience at Commercial Bank of Ceylon PLC, including as its former Managing Director/CEO. He currently serves as the Non-Executive Independent Chairman of DFCC Bank PLC and holds directorships in several leading Sri Lankan companies.
+
+2. Michio Matsuoka – Appointed as Nominee and Non-Executive Director, representing UBE Singapore Pte. Ltd. He succeeds Shuichi Nakamoto and brings extensive international business experience, currently serving as Managing Director of UBE Singapore Pte. Ltd.
+
+The Board welcomes both members and looks forward to their contributions in guiding Tokyo Cement’s strategic growth.
+
+Vista Solar Energy wins Best Solar Energy Solution Provider of the Year at Asia Miracle Awards 2025
+
+...
+
+[Data](articles/8d92af21.json)
+
+---
+
 ### ”கட்சியையும் சஜித்தையும் சதி நடக்கிறது”
 
 *2025-07-20 18:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியையும்-சஜித்தையும்-சதி-நடக்கிறது/175-361421) · `ta`
@@ -743,6 +821,42 @@ The ship, KM Barcelona 5, caught fire while sailing in the waters off Manado, th
 ...
 
 [Data](articles/78f2098a.json)
+
+---
+
+### Rate cut likely in upcoming monetary policy review: First Capital Research
+
+*2025-07-20 18:38:00* · [`islandlk`](http://island.lk/rate-cut-likely-in-upcoming-monetary-policy-review-first-capital-research/) · `en`
+
+First Capital Research, in its Pre-Policy Analysis Report – July 2025, anticipates that the Central Bank of Sri Lanka (CBSL) will prioritize economic growth in its upcoming monetary policy meeting, with a potential rate cut on the horizon.
+
+According to the report, there is a 60% probability of a rate reduction, with a 50% chance of a 25 basis points (bps) cut and a 10% likelihood of a deeper 50 bps reduction, aimed at stimulating economic activity.
+
+However, the analysis also notes a 40% probability that CBSL may hold rates steady to assess evolving domestic and global economic conditions.
+
+Additionally, the report suggests an 80% probability that the Statutory Reserve Ratio (SRR) will remain unchanged. However, given improved liquidity in the financial system, there is a 20% chance of a 100 bps SRR hike.
+
+First Capital Research’s assessment highlights the delicate balance between supporting growth and maintaining stability as Sri Lanka navigates its economic recovery.
+
+...
+
+[Data](articles/a796aeed.json)
+
+---
+
+### CCI spotlights female role models in Sri Lanka’s construction industry
+
+*2025-07-20 18:38:00* · [`islandlk`](http://island.lk/cci-spotlights-female-role-models-in-sri-lankas-construction-industry/) · `en`
+
+In a landmark event at Waters Edge, the Chamber of Construction Industry Sri Lanka (CCI), supported by the German Crafts Chamber (HWK of Frankfurt – Rhein Main), honored 12 exceptional women as Construction Stars, celebrating their trailblazing contributions in a traditionally male-dominated field.
+
+The ceremony, attended by industry leaders and policymakers, sent a powerful message: Sri Lanka’s construction sector is transforming, and women are at the forefront of this change.
+
+Chief Guest Prof. Chandana Jayalath, Chairman of the Construction Industry Development Authority, highlighted the government’s commitment to gender-inclusive growth, emphasizing policies that empower women in construction. “The future of our industry and our economy depends on diversity,” he declared, outlining plans to expand opportunities for women as architects, engineers, quantity surveyors, and environmental scientists.
+
+...
+
+[Data](articles/e2de69e9.json)
 
 ---
 
@@ -1651,127 +1765,5 @@ The Sigiriya Police are conducting further investigations into the incident.
 ...
 
 [Data](articles/ae69d0e8.json)
-
----
-
-### මහ පැවිල්ලට පුත්තලමේ ලුණු අස්වැන්න සරුවෙද්දි මිළ පහලටත් බසි
-
-*2025-07-20 13:46:14* · [`adalk`](https://www.ada.lk/breaking_news/මහ-පැවිල්ලට-පුත්තලමේ-ලුණු-අස්වැන්න-සරුවෙද්දි-මිළ-පහලටත්-බසි/11-417400) · `si`
-
-මහ වැසි හේතුවෙන් පසුගිය කාලයෙ පුත්තලමේ  අහිමි වි ගිය ලුණු ඇස්වැන්න මේ වන විට පවතින වියළි කාලගුණ තත්වය හමුවේ ලැබෙමින් පවතින නමුත්   අහස උසට ගිය ලුණු  මිල පහත යමින් තිබෙන ආකාරය පුත්තලම ආශ්‍රීත ලුණු ලේවායන් වල කල සංචාරයෙදි තහවුරු විණි.
-
-ශ්‍රී ලංකාවේ ලුණු අවශ්‍යතාවයෙන් සියයට 50 ත් 55 ක් පුත්තලම දිස්ත්‍රික්කයෙ පුත්තලම, මුන්දලම, මන්ගලඑළිය, පාලවිය, දළුව, කල්පිටිය, වනාතවිල්ලුව, ප්‍රදේශ වලින් ලැබේන අතර  අක්කර 10000 කට ආසන්න භුමි ප්‍රමානයක මේ වන විට ලුණු වගාකරන අතර එහි වගාකරුවන් 1000 ක පමන පිරිසක් එක්ව සිටිති.
-
-මේ වන විට පුත්තලම ඇතුළු ප්‍රදේශ රැසක ලුණු අස්වැන්න ලබා ගනිමින් සිටින අතර ලුණු නිෂ්පාදකයින් ඉන්දියන් ලුණු කිලෝ 50 බැගයක්   රුපියල් 4000 කට ලබා ගනිමින් සිටියදි පුත්තලමේ ලුණු කිලෝ 50 ක බැගයක  මිල රුපියල් 1800 ත් 2000 පහත වැටි ඇති බව කියයි.
-
-◼️
-
-[Data](articles/11895759.json)
-
----
-
-### தவறவிடப்பட்ட பொறுப்புகள்
-
-*2025-07-20 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220444) · `ta`
-
-கடத்தல்காரர்கள் மத்தியில், போதைப்பொருளை கடத்திச் செல்வது ஆபத்தானது என்றோ அல்லது அதற்கு சாத்தியம் இல்லை என்றோ நிலைப்பாடு ஒன்று உருவாகும் வரையில்,  இதனை முற்றாக நிறுத்த முடியாது.உள்ளூரில் அத்துமீறல்களை தடுக்க முடியாத கடற்படை , எவ்வாறு சர்வதேச கடற்பரப்பில் கடற்கொள்கைகளை தடுக்கப் போகிறது?
-
-◼️
-
-[Data](articles/ad204ce2.json)
-
----
-
-### MP Jagath Vithana’s son to be produced before court
-
-*2025-07-20 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110652/mp-jagath-vithanas-son-to-be-produced-before-court) · `en`
-
-The son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit, is scheduled to be produced before court today.
-
-Rasika Withana is scheduled to be presented before the Matugama Magistrate’s Court.
-
-He was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
-
-Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
-
-Acting on intelligence that the vehicle was being driven in Matugama, officers launched a special operation in the area last afternoon. During the operation, the suspect who was driving the jeep was taken into custody along with the vehicle.
-
-Subsequently, Rasika Withana was handed over to the Matugama Police.
-
-...
-
-[Data](articles/36beedf2.json)
-
----
-
-### Death toll rises to 14 in South Korea as heavy rain triggers landslide and flooding
-
-*2025-07-20 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110651/death-toll-rises-to-14-in-south-korea-as-heavy-rain-triggers-landslide-and-flooding) · `en`
-
-Two people have died and a further two were missing in the South Korean resort town of Gapyeong on Sunday, after a landslide engulfed houses and flooding swept away vehicles during a period of heavy rainfall.
-
-This brings the nationwide death toll to 14 with 12 people missing since the rain began on Wednesday.
-
-The rainfall is likely to stop on Sunday and be followed by a heat wave, the government weather forecaster said on Sunday.
-
-The heavy rainfall, which had earlier lashed southern parts of South Korea, moved north overnight, it said.
-
-◼️
-
-[Data](articles/35474d4f.json)
-
----
-
-### ’109’ ஐ ஊக்குவிக்கும் ஊர்வலம்
-
-*2025-07-20 13:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/109-ஐ-ஊக்குவிக்கும்-ஊர்வலம்/175-361404) · `ta`
-
-பெண்கள் மற்றும் குழந்தைகளுக்கு எதிரான துஷ்பிரயோகங்களைப் முறைப்பாடு செய்வதற்கான 109 அவசர அழைப்பை ஊக்குவிப்பதற்காக, பொலிஸ் சிறுவர் மற்றும் பெண்கள் துஷ்பிரயோக தடுப்பு மற்றும் புலனாய்வுப் பணியகத்தால் ஏற்பாடு செய்யப்பட்ட பொது விழிப்புணர்வு ஊர்வலம் நேற்று சனிக்கிழமை (19) ஆமர் வீதியிலிருந்து காலி முகத்திடல் வரை நடைபெற்றது.
-
-டிஐஜி ரேணுகா ஜெயசுந்தர மற்றும் ஏஎஸ்பி மெரில் ரஞ்சன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில், பல பொலிஸ் பிரிவுகளைச் சேர்ந்த சுமார் 350 அதிகாரிகள் பங்கேற்றனர். இந்த அணிவகுப்பில் துண்டுப்பிரசுர விநியோகம், கண்காட்சிகள், தெரு நாடகங்கள் மற்றும் துஷ்பிரயோகம் தடுப்பு மற்றும் கிடைக்கக்கூடிய ஆதரவு சேவைகள் குறித்து பொதுமக்களுக்கு விழிப்புணர்வு ஏற்படுத்தும் வகையில் காலி முகத்திடலில் ஒரு சிறப்பு நிகழ்ச்சி நடைபெற்றது.
-
-◼️
-
-[Data](articles/eeff18d5.json)
-
----
-
-### Two missing after fishing boat caught in strong winds in seas off Chilaw
-
-*2025-07-20 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110650/two-missing-after-fishing-boat-caught-in-strong-winds-in-seas-off-chilaw) · `en`
-
-Two fishermen along with a boat they set out from Chilaw are reported missing, with a major search and rescue operation underway.
-
-The vessel reportedly disappeared due to strong winds and stormy conditions.
-
-Meanwhile, fishermen on two boats that were also in distress due to strong winds had managed to swim safely to shore. The missing fishermen are both from Koloniya Wellaa in Chilaw.
-
-One of the two remaining boats was destroyed after hitting a reef. The fishermen on board swam to shore last night, and the damaged vessel was later found washed ashore at the beach in Karukupane fishing village.
-
-The fishermen on the third boat reached the shore at the Muthupanthiya fishing village after their boat capsized during the storm. With the help of local fishermen, they returned to the Chilaw area.
-
-...
-
-[Data](articles/8ec2d1c4.json)
-
----
-
-### මන්ත්‍රී ජගත්ගේ පුතා අද අධිකරණයට
-
-*2025-07-20 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212437) · `si`
-
-ව්‍යාජ දත්ත ඇතුළත්කොට ලියාපදිංචි කරන ලද ජීප් රථයක් පිළිබඳ වැඩබලන පොලිස්පතිවරයාට ලද තොරතුරකට අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය මීට මාස 4කට පමණ ඉහත සිට විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-එම රථය මතුගම නගරයේ ධාවනය කරමින් ඇති බවට ලද තොරතුරකට අනුව ඊයේ පස්වරුවේ එම ප්‍රදේශයේ විශේෂ මෙහෙයුමක් ආරම්භ කළ වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය අදාල ජීප් රථය සමග එය පැදවූ සැකකරු අත්අඩංගුවට ගනු ලැබුවා.
-
-මෙලෙස අත්අඩංගුවට ගනු ලැබුවේ සමගි ජනබලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයා වන රසික විතාන මහතා වන අතර ඔහු සහ ජීප්රථය මේවන විට මතුගම පොලිසියට භාරදී ඇත.
-
-අදාල ජීප් රථය සම්බන්ධයෙන් සිදුකළ පරීක්ෂා කිරීමේදී අනාවරණ වී ඇත්තේ එය නීතිවිරෝධී අයුරින් මෙරටට ගෙන්වා ව්‍යාජ දත්ත ඉදිරිපත් කර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවය.
-
-පොලිසිය සැක පළ කරන්නේ එම අනීතික ක්‍රියාව සඳහා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ යම් අයෙකුගේ සහාය ලැබී ඇති බවය.
-
-...
-
-[Data](articles/0df9211d.json)
 
 ---

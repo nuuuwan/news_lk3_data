@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 13:52:04**
+As of **2025-07-21 14:07:22**
 
 ## Newspaper Stats
 
-*Scraped **65,857** Articles*
+*Scraped **65,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,026
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,321
+adalk | 6,323
 adaderanalk | 8,054
 tamilmirrorlk | 9,451
 virakesarilk | 10,969
-adaderanasinhalalk | 11,313
+adaderanasinhalalk | 11,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,857 articles have been extended.
+61,973 (94.1%) of 65,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### රාජ්‍ය ආදායමේ කැපීපෙනෙන වැඩිවීමක්
+
+*2025-07-21 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212469) · `si`
+
+2025 ජනවාරි සිට මැයි දක්වා මාස 05ක කාලපරිච්ඡේදය තුළ දී රුපියල් බිලියන 1,942.36ක රාජ්‍ය ආදායමක් වාර්තා වී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+මෙය 2024 වසරේ මුල් මාස 05 දී රාජ්‍ය ආදායම් අගය වූ රුපියල් බිලියන 1,619.23 හා සැසඳීමේ දී 19.95%ක වර්ධනයකි.
+
+මේ සඳහා රජයේ බදු ආදායම මෙම වකවානුව තුළ දී රුපියල් බිලියන 1,491.25 සිට රුපියල් බිලියන 1,802.48 ක් දක්වා 20.87%කින් ඉහළ යාම ප්‍රධාන වශයෙන් දායක වී තිබේ.
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් සතිපතා නිකුත් කරනු ලබන ආර්ථික දර්ශක වාර්තාවෙහි මේ බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/22c81042.json)
+
+---
+
+### පාර්ලිමේන්තුව හෙට සිට දින 04ක් රැස්වෙයි
+
+*2025-07-21 13:37:42* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-හෙට-සිට-දින-04ක්-රැස්වෙයි/11-417420) · `si`
+
+මෙම සතියේ පාර්ලිමේන්තුව හෙට(22දා)  සිට ලබන 25 දක්වා දින 04ක් පාර්ලිමේන්තුව රැස්වීමට  පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.
+
+ඒ අනුව පාර්ලිමේන්තුව රැස්වන මෙම සෑම දිනකම පෙ.ව 9.30 - පෙ.ව. 10.00 කාලය ස්ථාවර නියෝග 22හි 1 සිට 6 දක්වා සඳහන් පාර්ලිමේන්තු කටයුතු සඳහා වෙන්කර ඇත. පෙ.ව 10.00 – 11.00  කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇති අතර පෙ.ව. 11.00 -11.30 කාලය ස්ථාවර නියෝග 27(2) යටතේ ප්‍රශ්න සඳහා වෙන් කර තිබේ.
+
+හෙට පෙ.ව 11.30 සිට ප.ව 5.00 දක්වා, සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත සංශෝධනය සඳහා), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත සංශෝධනය සඳහා) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත දෙවැනි වර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත.
+
+සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) සහ සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත් දෙකට එරෙහිව ගොනුකළ පෙත්සම්වලට අදාළ ශ්‍රේෂ්ඨාධිකරණ තීරණයට අනුව මෙම පනත් කෙටුම්පත් ත්‍රිත්වයම විශේෂ බහුතර ඡන්දයෙන් සම්මත කිරීමට නියමිත බව ද මහලේකම්වරිය සඳහන් කළාය.
+
+...
+
+[Data](articles/c971e534.json)
+
+---
 
 ### අමෙරිකාවෙන් WTI තෙල් ගන්න රජයෙන් තීරණයක්
 
@@ -96,15 +132,15 @@ Sri Lanka has generally outperformed most targets in IMF programs and also overp
 
 The government is reportedly looking at the possibility of procuring US West Texas Intermediate (WTI) crude oil in a bid to reduce the trade deficit between Sri Lanka and the United States.
 
-Following the decision by US President Donald Trump to impose reciprocal tariffs based on trade deficit between the US and other trading partners, several countries including Sri Lanka have been engaging with the Office of the United States Trade Representative to strike deals to reduce tariff rates.
+Following the decision by US President Donald Trump to impose reciprocal tariffs based on trade deficit between the US and other trading partners, several countries including Sri Lanka have been engaging with the Office of the United States Trade Representative to strike deals to reduce the tariff rates.
 
-Although US President Trump announced a tariff rate of 44% in April, it has now been reduced to 30% effective August 1.
+Although US President Trump announced a tariff rate of 44% in April for Sri Lankan exports, it has now been reduced to 30%, effective August 1.
 
-Local officials are continuing to hold discussions in a bid to reduce the tariff rate further.
+Local officials are continuing to hold discussions in a bid to reduce the tariff rate further, according to government sources.
 
 Accordingly, Managing Director of the Ceylon Petroleum Corporation Dr. Mayura Neththikumarage noted that discussions are currently being held to include US West Texas Intermediate crude oil in the tender process when procuring oil.
 
-◼️
+...
 
 [Data](articles/d76f977c.json)
 
@@ -267,6 +303,24 @@ The Danowita Police stated that the accident took place since the bus was travel
 ...
 
 [Data](articles/898d7d82.json)
+
+---
+
+### තද සුළං සහ රළු මුහුද පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක්
+
+*2025-07-21 12:03:37* · [`adalk`](https://www.ada.lk/breaking_news/තද-සුළං-සහ-රළු-මුහුද-පිළිබඳව-අනතුරු-ඇඟවීමේ-නිවේදනයක්/11-417419) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+හලාවත සිට පුත්තලම හරහා මන්නාරම දක්වා සහ ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුසු ප්‍රදේශ සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+
+ඒ අනුව එම ප්‍රදේශ වල සුළගේ ​වේගය විටින් විට පැ.කි.මී. 60-70 දක්වා වැඩිවන අතර, එම මුහුදු ප්‍රදේශ විටින් විට රළු හෝ ඉතා රළු වේ.
+
+මෙම මුහුදු ප්‍රදේශ වල යාත්‍රාකරන ධීවර සහ නාවික ප්‍රජාව අවධානයෙන් කටයුතු කරන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දන්වා සිටී.
+
+◼️
+
+[Data](articles/ba57396e.json)
 
 ---
 
@@ -1763,57 +1817,5 @@ In the previous part[1], we looked at two global shocks which have hit Sri Lanka
 ◼️
 
 [Data](articles/eb6c6b6d.json)
-
----
-
-### Attempted shooting at Kollupitiya nightclub foiled?
-
-*2025-07-20 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/110666/attempted-shooting-at-kollupitiya-nightclub-foiled) · `en`
-
-An attempted shooting at a nightclub in Kollupitiya was reportedly thwarted last night (19) when two individuals, arriving on a motorcycle, failed to execute their plan.
-
-The intended target was reportedly ‘Dematagoda Ruwan’, the brother of ‘Dematagoda Chaminda’, who is currently serving a death sentence for the murder of former Member of Parliament Bharatha Lakshman Premachandra. Chaminda is also believed to be involved in several other criminal activities.
-
-According to reports, Dematagoda Ruwan—who is known to frequent the nightclub in question—had arrived slightly later than usual. The shooter, having arrived earlier, attempted to enter the premises to confirm whether Ruwan had arrived. During this attempt, an argument ensued between the suspect and a security guard at the entrance of the establishment.
-
-Subsequently, the shooter abandoned the T-56 assault rifle he was carrying at the scene and fled with his accomplice, leaving both the weapon and the motorcycle behind.
-
-...
-
-[Data](articles/5722d840.json)
-
----
-
-### Off-Balance Sheet Obligations & Their Impact On Debt & Governance In Sri Lanka
-
-*2025-07-20 20:54:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/off-balance-sheet-obligations-their-impact-on-debt-governance-in-sri-lanka/) · `en`
-
-Sri Lanka’s public debt crisis has attracted intense attention since the country’s historic default in 2022. Academics, policymakers, and international lenders have rightly focused on (a) fiscal mismanagement, (b) revenue gaps, and (c) debt restructuring strategies. At the recent Debt & Governance Conference, a wide range of topics—from revenue generation to institutional reform—were discussed with urgency and ambition. However, a crucial and highly significant issue was noticeably absent from the main agenda: off-balance sheet obligations (OBS).
-
-These hidden liabilities—comprising state-owned enterprise (SOE) debts, government guarantees, public-private partnership (PPP) commitments, and other contingent liabilities—pose a silent but powerful threat to Sri Lanka’s fiscal future. Although they do not appear in official debt statistics, they exert significant pressure on the country’s finances and governance frameworks.
-
-...
-
-[Data](articles/a472874f.json)
-
----
-
-### சம்பூரில் மனித எச்சங்கள் மீட்பு
-
-*2025-07-20 20:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சம்பூரில்-மனித-எச்சங்கள்-மீட்பு/46-361423) · `ta`
-
-சம்பூர் கடற்கரையை அண்மித்த சிறுவர் பூங்கா பகுதியில் இன்று(20) கண்ணிவெடி நிறுவனத்தினர் அகழ்வில் ஈடுபட்ட போது மனித மண்டையோடு மற்றம் எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்டன.
-
-இப்பகுதியில் மெக் கண்ணிவெடி அகற்றும் நிறுவனம் சென்ற 18 ந் திகதி முதல் முகாமிட்டு அகழ்வுகளில் ஈடுபட்டு வருகின்றனர்.
-
-இந்நிலையில் இன்று காலை அகழ்வின் போது மேற்படி மனித எலும்பு எச்சங்கள் வெளிப்பட்டுள்ளது.இதனை அடுத்து சம்பவ இடத்திற்கு வருகை தந்த மூதூர் நீதிவான் நீதிமன்ற பதில் நீதிபதி எம்.எம்.பஸ்லீம் அகழ்வு பணிகளை உடனடியாக நிறுத்த உத்தரவிட்டார்.
-
-அத்துடன் பிரதேசத்திற்கு முழுமையாக பொலிஸ் பாதுகாப்பை வழங்குமாறும் மேலும் நீதிபதி,சட்டவைத்திய அதிகாரி,தடயவியல் அதிகாரிகள்,புவிச்சரிதவியல் அதிகாரிகள்,தொல்பொருள் திணைக்கழக அதிகாரிகள்,பொலிஸார் முன்னிலையில் எதிர்வரும் 23 ஆந் திகதி முழுமையான அகழ்வு பணிகள் நடைபெற வேண்டும் எனவும் உத்தரவிட்டார்.
-
-மனித எச்சங்கள் கிடைத்துள்ள இடத்தில் இருந்து 40 மீற்றர் தூரத்தில் சம்பூர் படுகொலை நினைவுத் தூபி அமைந்துள்ளது.
-
-◼️
-
-[Data](articles/0a63d68e.json)
 
 ---

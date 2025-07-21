@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 18:33:19**
+As of **2025-07-21 18:59:57**
 
 ## Newspaper Stats
 
-*Scraped **65,931** Articles*
+*Scraped **65,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 4,028
 economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,329
+adalk | 6,330
 adaderanalk | 8,067
-tamilmirrorlk | 9,469
+tamilmirrorlk | 9,470
 virakesarilk | 10,985
 adaderanasinhalalk | 11,327
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,931 articles have been extended.
+61,973 (94.0%) of 65,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### ரோஹிதவின் மகள் மற்றும் மருமகனுக்கு பயணத் தடை
+
+*2025-07-21 18:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவின்-மகள்-மற்றும்-மருமகனுக்கு-பயணத்-தடை/175-361478) · `ta`
+
+முன்னாள் அமைச்சர் ரோஹித அபேகுணவர்தனவின் மகள் மற்றும் மருமகனுக்கு வெளிநாட்டுப் பயணத் தடை விதித்து மத்துகம நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e1d69f87.json)
+
+---
 
 ### நிலந்த தனது கடமையைத் தான் செய்தார்;தயாசிறி
 
@@ -92,7 +104,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධනගේ දියණියට සහ බෑණාට මතුගම මහේස්ත්‍රාත් අධිකරණය විසින් විදෙස් ගමන් තහනමක් නිකුත් කර තිබේ.
 
-◼️
+ව්‍යාජ දත්ත ඇතුළත්කොට ලියාපදිංචි කරන ලද ජීප් රථයක් සම්බන්ධයෙන් සමගි ජනබලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයා වන රසික විතාන මහතා පසුගියදා අත්අඩංගුවට ගනු ලැබුවා.
+
+අදාල ජීප් රථය සම්බන්ධයෙන් සිදුකළ පරීක්ෂා කිරීමේදී අනාවරණ වී ඇත්තේ එය නීතිවිරෝධී අයුරින් මෙරටට ගෙන්වා ව්‍යාජ දත්ත ඉදිරිපත් කර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවය.
+
+පොලිසිය සැක පළ කරන්නේ එම අනීතික ක්‍රියාව සඳහා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ යම් අයෙකුගේ සහාය ලැබී ඇති බවය.
+
+ජගත් විතාන මහතාට අයත් පෞද්ගලික සමාගමක නමින් දෙවන වරට ලියාපදිංචි කර ඇති මෙම ජීප් රථය ඔහුගේ ප්‍රත්‍රයා භාවිත කර ඇති බවද විමර්ශනවලදී අනාවරණ වී තිබේ.
+
+අත්අඩංගුවට ගත් රසික විතාන මහතාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී පවසා ඇත්තේ පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය වන රොෂෙල් මෙලනි අබේගුණවර්ධනගෙන් තමා අදාල ජීප් රථය මිලදී ගත් බවය.
+
+...
 
 [Data](articles/895cd45b.json)
 
@@ -143,6 +165,22 @@ Based on information received by the Acting Inspector General of Police regardin
 ◼️
 
 [Data](articles/20305326.json)
+
+---
+
+### බංග්ලාදේශ ගුවන් අනතුරින් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 19ක් දක්වා ඉහළට
+
+*2025-07-21 17:30:43* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශ-ගුවන්-අනතුරින්-ජීවිතක්ෂයට-පත්වූ-සංඛ්‍යාව-19ක්-දක්වා-ඉහළට/11-417428) · `si`
+
+බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් ජෙට් යානයක් ඩකා හී පිහිටි පාසලකට කඩා වැටී සිදු වූ අනතුරින් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 19ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මෙම අනතුරින් තවත් පුද්ගලයන් 100 දෙනෙකුට වැඩි පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+පුහුණුවීම් කටයුතු නිරතවෙමින් සිටියදී අද(21දා) මෙම ගුවන් යානය කඩා වැටී අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/b8e70b69.json)
 
 ---
 
@@ -212,7 +250,7 @@ A total of 1,241 individuals have been arrested during a special island-wide ope
 
 මහියංගනය පොලිස් වසමේ 17 කණුව ප්‍රදේශයේදී වියානා ඇළෙහි ඇල කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරා ගැනීමේදි දියේ ගිලී අතුරුදන් වූ පෙම්වතියගේ සිරුර හමුව තිබේ.
 
-ඊයේ (20) සවස මෙම අනතුර සිදුව ඇති අතර ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපළ ඇළ කණ්ඩිය මතින් ඇවිද සිටියදී සිය සෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා දියට වැටී තිබේ.
+ඊයේ (20) සවස මෙම අනතුර සිදුව ඇති අතර ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපළ ඇළ කණ්ඩිය මතින් ඇවිද සිටියදී දිය සෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා දියට වැටී තිබේ.
 
 එම අවස්ථාවේදී පෙම්වතිය ඔහුව බේරා ගැනීමට අත දී ඇති අතර පසුව දෙදෙනාම ඇළට වැටී ඇත.
 
@@ -1809,41 +1847,5 @@ The company was designated a Business of Strategic Importance “in order to ens
 ...
 
 [Data](articles/82ecd8d5.json)
-
----
-
-### උඩවලව පනහඩුව වැවේ ගිලී තරුණයින් දෙදෙනෙකු අතුරුදන්
-
-*2025-07-21 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212462) · `si`
-
-උඩවලව පනහඩුව වැවේ මාලු ඇල්ලීමට ගිය දෙදෙනෙකු දියේ ගිලී අතුරුදන්ව තිබේ.
-
-මෙම පුද්ගලයින් දෙදෙනා ටියුබ් එකක් ආධාරයෙන් මාලු ඇල්ලීම සඳහා පනහඩුව වැවට ගොස් ඇති අතර එහිදී දියේ ගිලී ඇති බව වාර්තා වේ.
-
-මෙසේ දියේ ගිලී අතුරුදන්ව ඇත්තේ වයස අවුරුදු 30ක සහ 29ක තරුණයින් දෙදෙනෙකි.
-
-මෙම තරුණයින් දෙදෙනා දියේ ගිලෙන ආකාරය ගම්වැසියෙකු විසින් දැක ඇති අතර ඔහු ඒ පිළිබඳව පොලීසිය දැනුම්වත් කර තිබේ.
-
-ඉන් අනතුරුව ඇඹිලිපිටිය පොලීසියේ ජීවිතාරක්ෂක නිලධාරීන් සහ යුධ හමුදා පිහිනුම්කරුවන් පැමිණ ඔවුන් දෙදෙනාම සෙවීමේ කටයුතු ආරම්භ කර ඇති අතර එහිදී එක් පුද්ගලයෙකුගේ සිරුර සොයා ගෙන ඇත.
-
-◼️
-
-[Data](articles/a8d9c719.json)
-
----
-
-### Philippines’ President to meet Donald Trump hoping to secure trade deal
-
-*2025-07-21 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110678/philippines-president-to-meet-donald-trump-hoping-to-secure-trade-deal) · `en`
-
-Philippine President Ferdinand Marcos Jr meets US President Donald Trump this week, hoping Manila’s status as a key Asian ally will secure a more favourable trade deal before an Aug 1 deadline.
-
-Marcos will be the first Southeast Asian leader to meet Trump in his second term. Trump has already struck trade deals with two of Manila’s regional partners, Vietnam and Indonesia, driving tough bargains in trade talks even with close allies that Washington needs to keep onside in its strategic rivalry with China.
-
-“I expect our discussions to focus on security and defence, of course, but also on trade,” Marcos said in a speech before leaving Manila. “We will see how much progress we can make when it comes to the negotiations with the United States concerning the changes that we would like to institute to alleviate the effects of a very severe tariff schedule on the Philippines.”
-
-...
-
-[Data](articles/5a94065a.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 22:36:51**
+As of **2025-07-21 22:49:44**
 
 ## Newspaper Stats
 
@@ -122,13 +122,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-21 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110703/one-person-injured-in-shooting-in-seeduwa) · `en`
 
-An individual has been injured following a shooting incident in the Rajapakshapura area in Seeduwa today (21), police said.
+An individual has been injured following a shooting incident in the Rajapakshapura area in Seeduwa this evening (21), police said.
+
+The shooting reportedly occurred at around 8.15 p.m. on the 12th Lane in the Rajapakshapura area.
 
 According to the police, two unidentified gunmen arrived on a motorcycle, opened fire, and subsequently fled the scene.
 
-The injured individual has reportedly been admitted to the Ragama Hospital for further treatment.
+It is further reported that the shooting had targeted the father of a local councillor representing the National People’s Power (NPP) in the Seeduwa Urban Council.
 
 Police suspect that the shooting was carried out using a revolver-type firearm.
+
+The victim is said to be a retired army personnel, and the motive behind the shooting has not yet been revealed.
+
+The 55-year-old injured individual has reportedly been admitted to the Ragama Hospital for further treatment.
+
+The Seeduwa Divisional Crime Detective Bureau and Seeduwa Police are conducting further investigations into the incident.
 
 ◼️
 

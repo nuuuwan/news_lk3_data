@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 03:30:55**
+As of **2025-07-22 03:48:05**
 
 ## Newspaper Stats
 
-*Scraped **65,973** Articles*
+*Scraped **65,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
 economynextcom | 4,031
-dailyftlk | 4,666
+dailyftlk | 4,670
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
@@ -26,11 +26,81 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,973 articles have been extended.
+61,973 (93.9%) of 65,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### Asgiri Anunayake Thero passes away
+
+*2025-07-22 03:23:29* · [`dailyftlk`](https://www.ft.lk/news/Asgiri-Anunayake-Thero-passes-away/56-779307) · `en`
+
+Most Venerable Anamaduwa Dammadassi Anunayake Thero of the Asgiriya Chapter of the Siam Sect passed away yesterday at the age of 67.
+
+The Anunayake Thero had been receiving treatment at a private hospital following a sudden cardiac arrest and passed away on the night of 20 July.
+
+The final rites are scheduled to take place with State sponsorship on Thursday (24) at the Asgiriya Police Ground in Kandy, according to a communiqué issued by the Temple of the Tooth Relic in Kandy.
+
+The remains of the late prelate will lie in state at the Asgiriya Temple for the public to pay their last respects from tomorrow evening to 1:30 p.m. on Thursday.
+
+◼️
+
+[Data](articles/e1ada823.json)
+
+---
+
+### Another indictment served on Mahindananda and Nalin
+
+*2025-07-22 03:21:18* · [`dailyftlk`](https://www.ft.lk/news/Another-indictment-served-on-Mahindananda-and-Nalin/56-779306) · `en`
+
+Former Ministers Mahindananda Aluthgamage (left) and Nalin Fernando - Pic by Jayamal Chandrasiri
+
+Former Ministers Mahindananda Aluthgamage and Nalin Fernando, along with former Sports Ministry Secretary Major General (Retd.) Nanda Mallawarachchi, all currently serving prison sentences, were indicted yesterday before the Colombo High Court for allegedly committing an offence under the Public Property Act.
+
+The charges relate to committing an offence under the Public Property Act by importing Carrom boards and draughts boards through the Lanka Sathosa Company during the 2015 Presidential Election and distributing them to sports clubs with the aim of gaining political advantage.
+
+Following the indictment, Colombo High Court Judge Manjula Thilakaratne ordered the release of the three defendants on bail. However, due to their existing prison sentences, the Judge directed that Aluthgamage and Fernando be produced before the Court on the next scheduled hearing date.
+
+...
+
+[Data](articles/9c9595db.json)
+
+---
+
+### WIPO Global Award winner Dr. Nadisha Chandrasena meets Prime Minister
+
+*2025-07-22 03:17:45* · [`dailyftlk`](https://www.ft.lk/business/WIPO-Global-Award-winner-Dr-Nadisha-Chandrasena-meets-Prime-Minister/34-779305) · `en`
+
+Dr. Nadisha Chandrasena, the recipient of the prestigious 2025 WIPO ‘Global Award for Intellectual Property’ met with Prime Minister Dr. Harini Amarasuriya yesterday to discuss the future of innovation, intellectual property, and Sri Lanka’s creative economy.
+
+The award, presented by the World Intellectual Property Organisation (WIPO) a United Nations agency dedicated to recognise outstanding individuals and enterprises that use IP to make a positive impact.
+
+Dr. Chandrasena’s ‘Smart Drainage System’ concept, developed as a solution to open drainage systems clogged by plastic and polythene waste, was selected as a winner at the WIPO Awards Ceremony held in Geneva, Switzerland. Her innovation stood out among 780 organisations from 95 countries.
+
+During the meeting, the Prime Minister extended her congratulations to Dr. Chandrasena.
+
+Secretary to the Prime Minister Pradeep Saputhantri was also present at the occasion.
+
+◼️
+
+[Data](articles/58de3635.json)
+
+---
+
+### David Pieris Group distributes seed capital to promising Northern startups
+
+*2025-07-22 03:17:00* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Group-distributes-seed-capital-to-promising-Northern-startups/34-779304) · `en`
+
+David Pieris Group Chairman and Managing Director Rohana Dissanayake, Northern Entrepreneurial Consultant and Project Consultant Jekhan Aruliah, and Thalir Project Lead and David Pieris Holdings Group Chief Information Officer Jayaraj Sayanthan officially handing over the funds to young entrepreneurs at the event. David Pieris Renewable Energy Chairman and Managing Director Jayantha Ratnayake, Assetline Finance Director and CEO Ashan Nissanka, and David Pieris Infotech Chairman and Managing Director Chamilka Ambagahawatta are also present
+
+In a milestone celebration of innovation, entrepreneurship and regional empowerment, the David Pieris Group awarded over Rs. 20 million in seed funding to selected young entrepreneurs at the Thalir Seed Funding Award Ceremony 2025, held at the North Gate Hotel in Jaffna.
+
+...
+
+[Data](articles/92074a5f.json)
+
+---
 
 ### National Business Excellence Awards 2025 to honour top performers on 24 July
 
@@ -1763,77 +1833,5 @@ This decision was based on a Supreme Court order, which found him guilty of all 
 ...
 
 [Data](articles/1948d61f.json)
-
----
-
-### ගම්මන්පිලට එරෙහි නඩුවක් කල්යයි
-
-*2025-07-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212471) · `si`
-
-ව්‍යාජ ඇටෝනි බලපත්‍රයක් සකස්කර ඔස්ට්‍රේලියානු ජාතික ව්‍යාපාරිකයකුට අයත් රුපියල් මිලියන 20ක වටිනාකමකින් යුත් සමාගම් කොට සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍ය උදය ගම්මන්පිල මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව යළි කැඳවීමට කොළඹ මහාධිකරණය දින නියම කළේය.
-
-මෙම නඩුව අද (21) කොළඹ මහාධිකරණ විනිසුරු ආර්.එස්.එස්. සපුවිද මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී විනිසුරුවරයා නියම කළේ, අදාළ නඩුව විභාගය සඳහා නොවැම්බර් මස 21 වනදා යළි කැඳවන ලෙසය.
-
-ව්‍යාජ ඇටෝනි බලපත්‍රයක් සකස්කර ඔස්ට්‍රේලියානු ජාතික ව්‍යාපාරිකයකු වන බ්‍රයන් ෂැඩික් නමැත්තාට අයත් රුපියල් මිලියන 20ක වටිනාකමකින් යුත් සමාගම් කොටස් සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍ය උදය ගම්මන්පිල මහතාට එරෙහිව ඉකුත් යහපාලන රජය සමයේ මෙම නඩුව ගොනුකර තිබුණි.
-
-◼️
-
-[Data](articles/c0a01228.json)
-
----
-
-### State revenue up by nearly 20% in first five months of 2025
-
-*2025-07-21 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110686/state-revenue-up-by-nearly-20-in-first-five-months-of-2025) · `en`
-
-The state revenue has surged to Rs. 1,942.36 billion during the first five months of 2025, marking a 19.95% increase in comparison to the figures from the same period last year, according to the Central Bank of Sri Lanka (CBSL).
-
-The CBSL noted that during the first five months of 2024, the state revenue stood at Rs. 1,619.23 billion.
-
-The increase is largely attributed to higher tax collections, with tax revenue rising by 20.87% to Rs. 1,802.48 billion from Rs. 1,491.25 billion a year earlier.
-
-These figures were highlighted in the Central Bank’s latest Weekly Economic Indicators report.
-
-◼️
-
-[Data](articles/7dc870cd.json)
-
----
-
-### Sri Lanka Port City tower with clock to ‘rival Big Ben’ gets tax holiday
-
-*2025-07-21 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-tower-with-clock-to-rival-big-ben-gets-tax-holiday-231888/) · `en`
-
-ECONOMYNEXT – Sri Lanka has given a 25-year tax holiday to Clothespin Management and Development (Private) Limited, which plans to build a ‘twin tower marvel’ that will have clock tower bigger than the Big Ben.
-
-No mention was made of the promoters of Clothespin Management and Development (Private) Limited.
-
-Clothespin Management and Development (Private) Limited will invest 540 million dollars with 75 million dollars for land lease, and 465 million going for construction.
-
-Plans to build “a twin tower marvel” that will house the “world’s largest art gallery in the hotel use” in plant Land Plot 2-01-11 in the Colombo Port City, of 24,324 square meters, a gazette notice detailing tax breaks said.
-
-“The entire structure is poised to enter the Guinness World Records as the biggest art piece in the world, transforming Colombo into a hub for artistic innovation,” the gazette said.
-
-...
-
-[Data](articles/6d9457e2.json)
-
----
-
-### டெவோனை சுற்றியுள்ள பகுதிகள் பகலில் இருண்டன
-
-*2025-07-21 14:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டெவோனை-சுற்றியுள்ள-பகுதிகள்-பகலில்-இருண்டன/76-361463) · `ta`
-
-ஹட்டனில் இருந்து தலவாக்கலை சென்க்ளேர் வரை பொருத்தப்பட்டுள்ள 33,000 வாட் உயர் மின்னழுத்த மின் கம்பியின் மீது யூ கெலிப்ஸ்டிக் மரமொன்று விழுந்ததில் குறித்த மின் கம்பியில் பலத்த சேதம் ஏற்பட்டு , பல பகுதிகளுக்கு மின்சாரம் துண்டிக்கப்பட்டுள்ளதாக ஹட்டன் மின்சார வாடிக்கையாளர் சேவை மையத்தின் மேற்பார்வையாளர் நிமல் சமரகோன் தெரிவித்தார்.
-
-மத்திய மலைப்பகுதியில் இந்த நாட்களில் நிலவும் மோசமான வானிலை காரணமாக திங்கட்கிழமை (20) இரவு மரம் விழுந்துள்ளதாகவும், தொடர்ந்து பெய்து வரும் மழை மற்றும் பலத்த காற்று காரணமாக விழுந்த மரத்தை வெட்டி அகற்றி மின்சாரத்தை மீட்டெடுக்கும் முயற்சிகள் தடைபட்டுள்ளதாகவும் அவர்  தெரிவித்தார்.
-
-இதன் காரணமாக, பத்தனை ஸ்ரீபாத தேசிய கல்வியற் கல்லூரி உட்பட டெவோன் பகுதியில் உள்ள  நுகர்வோருக்கு மின்சாரம் துண்டிக்கப்பட்டுள்ளதாக   நிமல் சமரகோன் மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/8eb94dd6.json)
 
 ---

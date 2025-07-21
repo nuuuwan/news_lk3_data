@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 22:49:44**
+As of **2025-07-21 23:06:02**
 
 ## Newspaper Stats
 
-*Scraped **65,965** Articles*
+*Scraped **65,967** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 588
+dbsjeyarajcom | 589
 colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
@@ -17,7 +17,7 @@ economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,335
-adaderanalk | 8,072
+adaderanalk | 8,073
 tamilmirrorlk | 9,474
 virakesarilk | 10,994
 adaderanasinhalalk | 11,335
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,965 articles have been extended.
+61,973 (93.9%) of 65,967 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0d967e3d.json)
+
+---
+
+### India’s Vice President Dhankar resigns citing health concerns
+
+*2025-07-21 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110704/indias-vice-president-dhankar-resigns-citing-health-concerns) · `en`
+
+Vice President Jagdeep Dhankhar resigned from his post on Monday, citing health concerns and the need to prioritise medical care. The resignation, addressed to President Droupadi Murmu, is effective immediately and has been made under Article 67(a) of the Constitution.
+
+In his letter, Dhankhar expressed gratitude to the President for her “unwavering support” and the “soothing, wonderful working relationship” they shared during his tenure.
+
+He also thanked Prime Minister Narendra Modi and the Union Council of Ministers, calling their support “invaluable.”
+
+“I have learned much during my time in office,” he said, adding that the warmth and affection shown by Members of Parliament would remain embedded in his memory.
+
+Describing his tenure as Vice President as a period of insight and privilege, Dhankhar wrote that it had been a satisfaction to witness and take part in India’s economic progress. “Serving in this transformative era of our nation’s history has been a true honor,” he said.
+
+...
+
+[Data](articles/861e10ce.json)
 
 ---
 
@@ -1829,19 +1849,5 @@ Mumbai Airport confirmed that the runway excursion took place at 09:27 hours.
 ◼️
 
 [Data](articles/dc6391fb.json)
-
----
-
-### පැල්වත්තේ උක් ගොවීන් උද්ඝෝෂණයක
-
-*2025-07-21 13:50:25* · [`adalk`](https://www.ada.lk/breaking_news/පැල්වත්තේ-උක්-ගොවීන්-උද්ඝෝෂණයක/11-417421) · `si`
-
-පැල්වත්ත සීනි කර්මාන්තායතනයේ උක් ගොවීන්ට සහ සැපයුම්කරුවන්ට ගෙවිය යුතු මුදල් පාලන අධිකාරිය මඟින් නොගෙවීම ඇතුළු තවත් ඉල්ලීම් රැසක් මුල් කරගනිමින් පැල්වත්තේ  උක් ගොවීන්,සේවකයින් ඇතුළු සැපයුම්කරුවන් පිරිසක් (21) වෙනිදා බුත්තල නගරයේදී විරෝධතා ව්‍යාපාරයක නිරත විය.
-
-රතු සීනි වලට සියයට දහඅටක වැට් බද්දක් අය කිරීම නිසා සීනි මිල ඉහළ යෑමෙන් සීනි අලෙවි කර ගැනීමට නොහැකිවීමෙන් මෙසේ ගොවීන්ට සේවකයින්ට සහ සැපයුම්කරුවන්ට දිය යුතු මුදල් ගෙවීම ඇනහිට තිබෙන අතර රජය මඟින් වැට් බැද්ද ඉවත් කරනු,උක් ගොවියා අනතුරේ සීනි කර්මාන්තය රැකගනිමු,රට සීනි රට පුරා අපේ සීනි රැක ගැනීමට වැඩපිළිවෙළක් සකස් කරනු,පැල්වත්තත් සෙවනගලත් ඉසාරටද,බඩ ඉරිඟු වලින් එතනෝල් නිෂ්පාදනය නතර කරනු,වැට් බද්ධ වහා අහෝසි කරනු,අයිඑම්එෆ් මර උගුලට ගොවියා බිලි නොදෙනු,තොපිටත් බැරිනම් අපිට දියව්,පැල්වත්ත සෙවනගල ඉවරයි ආණ්ඩුව මර නින්දේ,තීන්දු තීරණ ගැනීමේ ක්‍රියාවලියට ගොවි කම්කරු කමිටු සම්බන්ධ කරනු යන සටන් පාඨ කියමින් බුත්තල නගරයට පාගමනින් පැමිණි උද්ඝෝෂණකරුවෝ නගර මධ්‍යයේ පැයක පමණ කාලයක් සටන් පාඨ කියමින් උද්ඝෝෂණයේ නිරතව සාමකාමීව විසිර ගියහ.
-
-...
-
-[Data](articles/a66aca0c.json)
 
 ---

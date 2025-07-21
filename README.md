@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 12:52:11**
+As of **2025-07-21 13:07:49**
 
 ## Newspaper Stats
 
-*Scraped **65,847** Articles*
+*Scraped **65,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 6,321
 adaderanalk | 8,049
 tamilmirrorlk | 9,451
 virakesarilk | 10,969
-adaderanasinhalalk | 11,310
+adaderanasinhalalk | 11,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,847 articles have been extended.
+61,973 (94.1%) of 65,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත් වීම ගැන සජිත්ගෙන් ශෝක නිවේදනයක්
+
+*2025-07-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212466) · `si`
+
+අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමි අපවත්වීම වෙනුවෙන් විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා ශෝක නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/de1d905a.json)
+
+---
 
 ### டட்லி சிறிசேன ஹோட்டல் விவகாரம்;அமைச்சர் விளக்கம்
 
@@ -1781,21 +1793,5 @@ The campaign was born out of necessity during Sri Lanka’s economic crisis, whi
 ...
 
 [Data](articles/074868ae.json)
-
----
-
-### India’s rich and famous ditch old-school clubs for exclusive hangouts -BBC
-
-*2025-07-20 19:01:00* · [`islandlk`](http://island.lk/indias-rich-and-famous-ditch-old-school-clubs-for-exclusive-hangouts-bbc/) · `en`
-
-For decades, the Indian elite have sought escape in Raj-era private clubs and gymkhanas, scattered around the swankiest neighbourhoods in the country’s big cities, hillside resorts and cantonment towns.
-
-Access to these quintessentially “English” enclaves, with their bellboys, butlers, dark mahogany interiors and rigid dress codes, has been reserved for the privileged; the old moneyed who roam the corridors of power – think business tycoons, senior bureaucrats, erstwhile royals, politicians or officers of the armed forces.
-
-This is where India’s rich and powerful have hobnobbed for years, building social capital over cigars or squash and brokering business deals during golf sessions. Today, these spaces can feel strangely anachronistic – relics of a bygone era in a country eager to shed its colonial past.
-
-...
-
-[Data](articles/87949a8f.json)
 
 ---

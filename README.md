@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 12:07:21**
+As of **2025-07-21 12:27:25**
 
 ## Newspaper Stats
 
-*Scraped **65,834** Articles*
+*Scraped **65,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 4,024
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,320
-adaderanalk | 8,045
-tamilmirrorlk | 9,447
-virakesarilk | 10,965
+adalk | 6,321
+adaderanalk | 8,049
+tamilmirrorlk | 9,448
+virakesarilk | 10,969
 adaderanasinhalalk | 11,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,834 articles have been extended.
+61,973 (94.1%) of 65,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### மஹிந்தானந்த, நளின் பெர்னாண்டோவுக்கு எதிராக மற்றுமொரு குற்றப்பத்திரிகை தாக்கல்
+
+*2025-07-21 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220524) · `ta`
+
+சிறைத்தண்டனை அனுபவித்து வரும் முன்னாள் அமைச்சர்களான மஹிந்தானந்த அளுத்கமகே மற்றும் நளின் பெர்னாண்டோ, முன்னாள் விளையாட்டு அமைச்சின் செயலாளர் ஓய்வுபெற்ற மேஜர் ஜெனரல் நந்த மல்லவராச்சி ஆகியோருக்கு எதிராக பொது சொத்துச் சட்டத்தின் கீழ் குற்றம் செய்ததாகக் கூறப்படும் குற்றச்சாட்டில் இன்று  திங்கட்கிழமை  (21) கொழும்பு உயர் நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது.
+
+2014 ஆம் ஆண்டு  ஜனாதிபதித் தேர்தலின் போது சதொச நிறுவனத்தின் ஊடாக கரம் போர்ட்கள் மற்றும் டாம் போர்ட்கள் இறக்குமதி செய்ததன் ஊடாக அரசாங்கத்துக்கு நட்டத்தை ஏற்படுத்தியதாக அவர்கள் மீது குற்றம் சுமத்தப்பட்டு தற்போது கடூழிய சிறைத்தண்டனை அனுபவித்து வருகின்றனர்.
+
+குற்றப்பத்திரிகையைத் தொடர்ந்து, கொழும்பு உயர் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன மூன்று பிரதிவாதிகளையும் பிணையில் விடுவிக்க உத்தரவிட்டார்.
+
+ஆனால், அவர்களுக்கு ஏற்கனவே சிறை தண்டனை விதிக்கப்பட்டுள்ளமையினால் மஹிந்தானந்த அளுத்கமகே மற்றும் நளின் பெர்னாண்டோ ஆகியோரை அடுத்த திட்டமிடப்பட்ட விசாரணை திகதியில் நீதிமன்றத்தில் ஆஜர்படுத்துமாறு நீதிபதி உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/b9621431.json)
+
+---
+
+### வழுக்கி விழுந்த காதலனை காப்பாற்றச் முயன்ற காதலி நீரில் அடித்துச்செல்லப்பட்டு மாயம் !
+
+*2025-07-21 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220512) · `ta`
+
+மஹியங்கனை பொலிஸ் பிரிவிற்கு உட்பட்ட மஹியங்கனை 17 ஆம் கட்டை பகுதியில் நேற்றைய தினம் (20) வியன்னா  கால்வாய் ஒன்றில் வழுக்கி விழுந்த  தனது காதலனை காப்பாற்ற முற்பட்ட வேளையில் பெண் ஒருவர் நீரில் அடித்து செல்லப்பட்டு காணமல் போய் உள்ளதாக மஹியங்கனை பொலிஸார் தெரிவித்தனர்.
+
+இலக்கம் 453, குடா கம்மான 10, வெலிகத்த பகுதியில் வசிக்கும் ரஜரட்ட பல்கலைக்கழகத்தில் கல்வி பயிலும் 26 வயதுடைய மணவியே இவ்வாறு  நீரில் அடித்து செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நீரில் அடித்துச் செல்லப்பட்ட இளம் பெண், ரஜரட்ட பல்கலைக்கழகத்தில் இருந்து தனது வீட்டிற்கு  காதலனுடன் 17 ஆம் கட்டைப் பகுதிக்கு  அருகில் வியன்னா கால்வாய்க்கு அருகில் இருவரும் நடந்து சென்று கொண்டிருந்த போது, காதலன்  வியன்னா கால்வாயில் தவறி விழுந்துள்ளார் அவரைக் காப்பாற்ற முயன்றபோது குறித்த இளம் பெண்ணும்  கால்வாயில் விழுந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+அந்த நேரத்தில், அந்த இடத்தை கடந்து சென்ற மஹியங்கனை காவல் பயிற்சி கல்லூரியின் அதிகாரி ஒருவரும் அவரது மனைவியும் குறித்த இளைஞன் சத்தம் இடுவதை அவதானித்து உடன் தண்ணீரில் குதித்து அந்த இளைஞனை மீட்டுள்ளனர்.
+
+...
+
+[Data](articles/898d7d82.json)
+
+---
+
+### “வகுப்பறையில் தலைக்கு எண்ணெய் தேய்த்து அலங்காரம் செய்த டீச்சர்”
+
+*2025-07-21 11:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வகுப்பறையில்-தலைக்கு-எண்ணெய்-தேய்த்து-அலங்காரம்-செய்த-டீச்சர்/175-361454) · `ta`
+
+ஆரம்பப் பாடசாலையில் பணியாற்றும் ஆசிரியை சங்கீதா மிஸ்ரா குறித்த வீடியோ ஒன்று சமூக வலைதளங்களில் வேகமாக பரவி வருகிறது. உத்திரபிரதேச மாநிலத்தின் புலந்த்ஷேர் மாவட்டம் முந்தக்கேடாவில் உள்ள பாடசாலையிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+அந்த வீடியோவில், மாணவர்கள் வகுப்பில் இருக்கும்போது ஆசிரியை தனது தலைமுடிக்கு எண்ணெய் தடவியதுடன், கைபேசியில் கிளாசிக்கல் இசையை ஓடவிட்டும் காணப்படுகிறார். இது கல்வித்துறையின் கடுமையான விமர்சனத்தையும், பொதுமக்களின் எதிர்வினைகளையும் ஏற்படுத்தியுள்ளது.
+
+மேலும், பாடசாலைக்கு வந்த மாணவர்களின் பெற்றோர்களுடன் ஆசிரியை மோசமாக நடந்து கொண்டதுடன், கம்பியால் அடித்ததாகவும் புகார் எழுந்துள்ளது. இதையடுத்து மாவட்ட அடிப்படை கல்வி அதிகாரி டாக்டர் லஷ்மிகாந்த் பாண்டே, இந்த சம்பவத்தை சமூக வலைதளங்கள் மூலமாக தெரிந்து கொண்டு, தனிப்பட்ட விசாரணை அலுவலரை நியமித்து விசாரணையைத் துவக்கியுள்ளார். அதற்குமுன்னர் ஆசிரியை சங்கீதா மிஸ்ரா பணிநீக்கம் செய்யப்பட்டார் என்பது குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/0936456d.json)
+
+---
 
 ### රතු නිවේදනයක්
 
@@ -38,9 +90,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 තද සුළං පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් නිවේදනය කර තිබේ.
 
-◼️
+ඒ අනුව හලාවත සිට පුත්තලම හරහා මන්නාරම දක්වා සහ ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශ සඳහා ඉදිරි පැය 24 දක්වා බලපැවැත්වේ.
+
+එම මුහුදු ප්‍රදේශවල සුළඟේ වේගය විසින් විට පැ.කි.මී 60 - 70 දක්වා ඉහළ යා හැකි අතර මුහුදු ප්‍රදේශ විටින් විට රළු හෝ ඉතා රළු විය හැකිය.
+
+පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3ත් අතර විය හැකිය.
+
+මේ හේතුවෙන් එම ප්‍රදේශ හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාව පවතී.
+
+ඉදිරි පැය 24 සඳහා පුත්තලම හරහා මන්නාරම දක්වා සහ ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා මුහුදු ප්‍රදේශවල යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම්දෙයි.
+
+එමෙන්ම හලාවත සිට කොළඹ හරහා ගාල්ල දක්වා සහ මන්නාරම සිට කන්කසන්තුරය සහ ත්‍රිකුණාමලය හරහා වාකරේ දක්වා මුහුදු ප්‍රදේශවල යාත්‍රාකරන ධීවර හා නාවික ප්‍රජාව අවධානයෙන් කටයුතු කරන මෙන් කාරුණිකව ඉල්ලා සිටී.
+
+...
 
 [Data](articles/ae8c3a5a.json)
+
+---
+
+### காதலியார் சம்மளங்குளத்தில் விவசாயப்பாதை சீரின்மையால் அவதியுறும் விவசாயிகள்
+
+*2025-07-21 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/220520) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் ஒட்டுசுட்டான் கமநல சேவை நிலையத்திற்கு உட்பட்ட காதலியார் சம்மளங்குளம் பகுதியில் அமைந்துள்ள வயல்நிலங்களுக்கு செல்லும் 03 கிலோமீற்றர் குருவிச்சை ஆற்றுப்பால வீதியின் மோசமான நிலைமை காரணமாக, அப்பகுதி விவசாயிகள் கடும் சிரமங்களை எதிர்கொண்டு வருகின்றனர்.
+
+விவசாய உற்பத்திக்கான உரம், விதை, எரிபொருள் உள்ளிட்ட உபகரணங்களை வயல்களுக்கு கொண்டு செல்லவும், அறுவடைக்காலத்தில் பயிர்கள் எடுத்துச் செல்லவும் பெரும் இடர்பாடுகள் ஏற்பட்டுள்ளன. இவ்வீதியின் சேதமடைந்த நிலைமை, சுமார் 300 ஏக்கர் நிலத்தில் நெற்செய்கை மேற்கொள்கிற விவசாயிகளை நேரடியாக பாதிக்கிறது.
+
+இந்த சூழ்நிலையை நேரில் பார்வையிட வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் சம்மளங்குளம் பகுதியில் சென்று விவசாயிகளின் நிலையை பார்வையிட்டார் . அவருடன் புதுக்குடியிருப்பு பிரதேச சபை உறுப்பினர் இராசரத்தினம் கிரிதரனும் உடனிருந்தார்.
+
+...
+
+[Data](articles/19181300.json)
 
 ---
 
@@ -84,6 +164,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### මහින්දානන්දට සහ නලින්ට අධිචෝදනා භාරදෙයි
+
+*2025-07-21 11:38:39* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දට-සහ-නලින්ට-අධිචෝදනා-භාරදෙයි/11-417418) · `si`
+
+හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත් ගමගේ සහ නලින් ප්‍රනාන්දු සහ ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට අද (21දා) කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා භාරදුන්නේය.
+
+2014 වසරේ පැවති ජනාධිපතිවරණය සමයේ ස.තො.ස ආයතනය හරහා කැරම්බෝඩ් හා දාම් ලෑලි ආනයනය කර දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් ක්‍රීඩා සංගම්වලට බෙදා දීම තුළින් පොදු දේපළ පනත යටතේ වරදක් සිදුකළේය යන ​චෝදනාව මත ඔවුන් මේ වන විට සිරදඬුවම් ලබා සිටිති.
+
+◼️
+
+[Data](articles/f42d5aec.json)
+
+---
+
 ### இன்றைய சிந்தனைக்குரிய சித்திரம்...
 
 *2025-07-21 11:33:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-சித்திரம்/62-361450) · `ta`
@@ -91,6 +185,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c37d2fd5.json)
+
+---
+
+### எஹெலியகொடையில் மோட்டார் சைக்கிள் - முச்சக்கரவண்டி விபத்து : ஒருவர் உயிரிழப்பு, இருவர் காயம்
+
+*2025-07-21 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220517) · `ta`
+
+எஹெலியகொடை பொலிஸ் பிரிவிற்குட்பட்ட கிரியெல்ல வீதி தங்தெனிய பகுதியில், மோட்டார் சைக்கிள் ஒன்று முச்சக்கரவண்டியுடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+எஹெலியகொடவிலிருந்து கிரியெல்ல நோக்கி பயணித்த மோட்டார் சைக்கிள் ஒன்று எதிர் திசையில் பயணித்த முச்சக்கர வண்டியுடன் மோதியதில் இவ் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் படுகாயமடைந்த முச்சக்கரவண்டி சாரதி மற்றும் மோட்டார் சைக்கிளில் பயணித்த இருவரும் எஹெலியகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது, முச்சக்கரவண்டியின் சாரதி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, மோட்டார் சைக்கிளில் பயணித்த இருவரும் மேலதிக சிகிச்சைக்காக இரத்தினபுரி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8daf5bbc.json)
 
 ---
 
@@ -130,7 +242,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### අපවත් වී වදාළ අති පූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි හිමියන්ගේ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව
+### Philippines’ President to meet Donald Trump hoping to secure trade deal
+
+*2025-07-21 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110678/philippines-president-to-meet-donald-trump-hoping-to-secure-trade-deal) · `en`
+
+Philippine President Ferdinand Marcos Jr meets US President Donald Trump this week, hoping Manila’s status as a key Asian ally will secure a more favourable trade deal before an Aug 1 deadline.
+
+Marcos will be the first Southeast Asian leader to meet Trump in his second term. Trump has already struck trade deals with two of Manila’s regional partners, Vietnam and Indonesia, driving tough bargains in trade talks even with close allies that Washington needs to keep onside in its strategic rivalry with China.
+
+“I expect our discussions to focus on security and defence, of course, but also on trade,” Marcos said in a speech before leaving Manila. “We will see how much progress we can make when it comes to the negotiations with the United States concerning the changes that we would like to institute to alleviate the effects of a very severe tariff schedule on the Philippines.”
+
+...
+
+[Data](articles/5a94065a.json)
+
+---
+
+### අපවත් වී වදාළ අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි හිමියන්ගේ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව
 
 *2025-07-21 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212461) · `si`
 
@@ -185,6 +313,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bf7ebe07.json)
+
+---
+
+### Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held on Thursday
+
+*2025-07-21 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110677/final-rites-of-most-ven-anamaduwe-sri-dhammadassi-thero-to-be-held-on-thursday) · `en`
+
+The final rites of the late Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero is scheduled to take place with state sponsorship on Thursday (24).
+
+The funeral ceremony will be held at the Asgiriya Police Ground in Kandy, according to a communique issued by the Temple of Tooth Relic in Kandy.
+
+The remains of the late Thero will be taken to the Liyangastenna Purana Viharaya at 04:00 p.m. today (21) where it will lie-in-state for the public to pay final respects until 3.p.m. tomorrow (22).
+
+The remains of the late prelate will lie in state at the Asgiriya Temple for the public to pay their last respects from tomorrow evening to 1:30 p.m. on Thursday.
+
+The funeral ceremony and the cremation of the prelate will be held with state sponsorship at the Police Grounds at 2:30 p.m. on Thursday.
+
+The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero passed away at the age of 67, last night (20).
+
+...
+
+[Data](articles/d4b53f48.json)
 
 ---
 
@@ -367,6 +517,42 @@ The firm will “also offer the core services of luxury apartments, luxury villa
 ...
 
 [Data](articles/776c20f7.json)
+
+---
+
+### Indictments served against Mahindananda and Nalin Fernando in new case
+
+*2025-07-21 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110675/indictments-served-against-mahindananda-and-nalin-fernando-in-new-case) · `en`
+
+Former ministers Mahindananda Aluthgamage and Nalin Fernando, both currently serving prison sentences, along with former Sports Ministry Secretary, retired Major General Nanda Mallawarachchi, who is also serving a prison sentence, have been indicted today (21) at the Colombo High Court.
+
+They are currently serving prison sentences for being accused of committing an offense under the Public Property Act by importing carrom boards and dam boards through the Lanka Sathosa Company during the 2014 presidential election and distributing them to sports associations with the aim of gaining political advantage.
+
+Following the indictment, Colombo High Court Judge Manjula Thilakaratne ordered the release of the three defendants on bail, said Ada Derana reporter.
+
+However, due to their existing prison sentences, the Judge directed that Mahindananda Aluthgamage and Nalin Fernando be produced before the court on the next scheduled hearing date.
+
+◼️
+
+[Data](articles/c6b315d0.json)
+
+---
+
+### Officials say 85 Palestinians seeking aid are killed in Gaza as Israel widens evacuation orders
+
+*2025-07-21 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110674/officials-say-85-palestinians-seeking-aid-are-killed-in-gaza-as-israel-widens-evacuation-orders) · `en`
+
+Gaza saw its deadliest day yet for aid-seekers in over 21 months of war as at least 85 Palestinians were killed while trying to reach food on Sunday, the territory’s Health Ministry said.
+
+There was new alarm as Israel’s military issued evacuation orders for parts of central Gaza, one of the few areas where it has rarely operated with ground troops and where many international organizations trying to distribute aid are located. One group said several offices were told to evacuate immediately.
+
+The largest death toll was in devastated northern Gaza, where living conditions are especially dire. At least 79 Palestinians were killed while trying to reach aid entering through the Zikim crossing with Israel, Zaher al-Waheidi, head of the Health Ministry’s records department, told The Associated Press.
+
+The U.N. World Food Program said 25 trucks with aid had entered for “starving communities” when it encountered massive crowds.
+
+...
+
+[Data](articles/fc480684.json)
 
 ---
 
@@ -1609,205 +1795,5 @@ Vista Solar Energy wins Best Solar Energy Solution Provider of the Year at Asia 
 ...
 
 [Data](articles/8d92af21.json)
-
----
-
-### ”கட்சியையும் சஜித்தையும் சதி நடக்கிறது”
-
-*2025-07-20 18:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியையும்-சஜித்தையும்-சதி-நடக்கிறது/175-361421) · `ta`
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை மாற்றுவதற்கான உள் நடவடிக்கை குறித்த வதந்திகளை ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் நிராகரித்தார், அதே நேரத்தில் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக பலவீனப்படுத்த வேண்டுமென்றே சதி நடப்பதாகவும் கூறினார்.
-
-"சஜித் பிரேமதாசவை எதிர்க்கட்சித் தலைவர் பதவியில் இருந்து நீக்குவது குறித்து SJB-க்குள் எந்த கலந்துரையாடலும் நடக்கவில்லை" என்று ரஹ்மான் ஒரு ஊடக சந்திப்பில் கூறினார்.
-
-"இருப்பினும், எங்கள் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக அழிக்க சில கூறுகள் செயல்படுகின்றன."
-
-இந்தக் கூறுகள் அரசாங்கத்தின் மறைமுக ஆதரவுடன் செயல்படுவதாகத் தெரிகிறது என்று அவர் குற்றம் சாட்டினார்.
-
-இதற்கிடையில், புதிய கூட்டணிகள் குறித்தும் ரஹ்மான் கருத்து தெரிவித்தார், தயாசிறி ஜெயசேகர போன்ற அனுபவம் வாய்ந்த அரசியல்வாதிகளைக் கொண்டுவருவது ஒரு நேர்மறையான நடவடிக்கையாக இருக்கும் என்று குறிப்பிட்டார்.
-
-"தயாசிறி ஒரு திறமையான மற்றும் அனுபவம் வாய்ந்த அரசியல்வாதி. அவரைப் போன்றவர்களை SJB-யில் வரவேற்பது கட்சியை பலப்படுத்தும்," என்று அவர் மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/98a225d5.json)
-
----
-
-### ”கட்சியையும் சஜித்தையும் பலவீனப்படுத்த சதி”
-
-*2025-07-20 18:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியையும்-சஜித்தையும்-பலவீனப்படுத்த-சதி/175-361421) · `ta`
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை மாற்றுவதற்கான உள் நடவடிக்கை குறித்த வதந்திகளை ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் நிராகரித்தார், அதே நேரத்தில் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக பலவீனப்படுத்த வேண்டுமென்றே சதி நடப்பதாகவும் கூறினார்.
-
-"சஜித் பிரேமதாசவை எதிர்க்கட்சித் தலைவர் பதவியில் இருந்து நீக்குவது குறித்து SJB-க்குள் எந்த கலந்துரையாடலும் நடக்கவில்லை" என்று ரஹ்மான் ஒரு ஊடக சந்திப்பில் கூறினார்.
-
-"இருப்பினும், எங்கள் கட்சியையும் அதன் தலைவரையும் அரசியல் ரீதியாக அழிக்க சில கூறுகள் செயல்படுகின்றன."
-
-இந்தக் கூறுகள் அரசாங்கத்தின் மறைமுக ஆதரவுடன் செயல்படுவதாகத் தெரிகிறது என்று அவர் குற்றம் சாட்டினார்.
-
-இதற்கிடையில், புதிய கூட்டணிகள் குறித்தும் ரஹ்மான் கருத்து தெரிவித்தார், தயாசிறி ஜெயசேகர போன்ற அனுபவம் வாய்ந்த அரசியல்வாதிகளைக் கொண்டுவருவது ஒரு நேர்மறையான நடவடிக்கையாக இருக்கும் என்று குறிப்பிட்டார்.
-
-"தயாசிறி ஒரு திறமையான மற்றும் அனுபவம் வாய்ந்த அரசியல்வாதி. அவரைப் போன்றவர்களை SJB-யில் வரவேற்பது கட்சியை பலப்படுத்தும்," என்று அவர் மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/dd2ed0e0.json)
-
----
-
-### நுரைச்சோலை, சஞ்சீதாவத்தை பகுதியில் சட்டவிரோதமாக கொண்டுவரப்பட்ட உலர்ந்த இஞ்சியுடன் ஒருவர் கைது
-
-*2025-07-20 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220492) · `ta`
-
-புத்தளம் - நுரைச்சோலை சஞ்சீதாவத்தை பகுதியில் இருந்து 2,828 கிலோகிராம் உலர்ந்த இஞ்சியுடன், சந்தேகநபரொருவர் சனிக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேகநபர் 33 வயதுடையவர் எனவும், இவர் நுரைச்சோலை பகுதியைச் சேர்ந்தவர் என்றும் அடையாளம் காணப்பட்டுள்ளார்.
-
-வடமேற்கு கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் விஜய நிறுவனத்திற்கு சொந்தமான நுரைச்சோலை கடற்படைப் பிரிவினர், நுரைச்சோலை பொலிஸாருடன் இணைந்து குறித்த பகுதியில் சந்தேகத்திற்கிடமான வீடு ஒன்றை சோதனை செய்தனர்.
-
-இதன்போது, குறித்த வீட்டுக்குள் 70 உரமூடைகளில் அடைக்கப்பட்ட நிலையில் 2,828 கிலோ கிராம் உலர்ந்த இஞ்சி கண்டுபிடிக்கப்பட்டதுடன், சந்தேகநபர் ஒருவரும் கைது செய்யப்பட்டுள்ளார்.
-
-இவ்வாறு கைப்பற்றப்பட்ட உலர்ந்த இஞ்சி 45 இலட்சத்திற்கும் அதிக பெறுமதியுடையது எனத் தெரிவிக்கப்படுகிறது.
-
-குறித்த உலர்ந்த இஞ்சி விற்பனைக்காக இலங்கையின் பல்வேறு பகுதிகளுக்கும் கடல் வழியாக சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்டிருக்கலாம் என தாம் சந்தேகிப்பதாக கடற்படையினர் தெரிவித்தனர்.
-
-...
-
-[Data](articles/78f2098a.json)
-
----
-
-### Rate cut likely in upcoming monetary policy review: First Capital Research
-
-*2025-07-20 18:38:00* · [`islandlk`](http://island.lk/rate-cut-likely-in-upcoming-monetary-policy-review-first-capital-research/) · `en`
-
-First Capital Research, in its Pre-Policy Analysis Report – July 2025, anticipates that the Central Bank of Sri Lanka (CBSL) will prioritize economic growth in its upcoming monetary policy meeting, with a potential rate cut on the horizon.
-
-According to the report, there is a 60% probability of a rate reduction, with a 50% chance of a 25 basis points (bps) cut and a 10% likelihood of a deeper 50 bps reduction, aimed at stimulating economic activity.
-
-However, the analysis also notes a 40% probability that CBSL may hold rates steady to assess evolving domestic and global economic conditions.
-
-Additionally, the report suggests an 80% probability that the Statutory Reserve Ratio (SRR) will remain unchanged. However, given improved liquidity in the financial system, there is a 20% chance of a 100 bps SRR hike.
-
-First Capital Research’s assessment highlights the delicate balance between supporting growth and maintaining stability as Sri Lanka navigates its economic recovery.
-
-...
-
-[Data](articles/a796aeed.json)
-
----
-
-### CCI spotlights female role models in Sri Lanka’s construction industry
-
-*2025-07-20 18:38:00* · [`islandlk`](http://island.lk/cci-spotlights-female-role-models-in-sri-lankas-construction-industry/) · `en`
-
-In a landmark event at Waters Edge, the Chamber of Construction Industry Sri Lanka (CCI), supported by the German Crafts Chamber (HWK of Frankfurt – Rhein Main), honored 12 exceptional women as Construction Stars, celebrating their trailblazing contributions in a traditionally male-dominated field.
-
-The ceremony, attended by industry leaders and policymakers, sent a powerful message: Sri Lanka’s construction sector is transforming, and women are at the forefront of this change.
-
-Chief Guest Prof. Chandana Jayalath, Chairman of the Construction Industry Development Authority, highlighted the government’s commitment to gender-inclusive growth, emphasizing policies that empower women in construction. “The future of our industry and our economy depends on diversity,” he declared, outlining plans to expand opportunities for women as architects, engineers, quantity surveyors, and environmental scientists.
-
-...
-
-[Data](articles/e2de69e9.json)
-
----
-
-### Eight hospitalized after suddenly collapsing at beauty salon in Kandy
-
-*2025-07-20 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110663/eight-hospitalized-after-suddenly-collapsing-at-beauty-salon-in-kandy) · `en`
-
-A group of individuals inside a beauty salon in a multi-story building on Peradeniya Road in Kandy has been hospitalized after suddenly fainting and collapsing on the floor.
-
-The situation reportedly arose due to the closure of all windows and doors at the salon in order to turn on the air conditioning, following the activation of an electricity generator after a power outage at the beauty salon.
-
-Subsequently, an employee at a nearby store had seen a young woman lying unconscious in front of the beauty salon. He, along with several others, opened the door to investigate. Upon entering, the group had discovered six other young women and a man lying unconscious inside the beauty salon.
-
-The group informed the police in this regard, and the unconscious individuals were rushed to the hospital.
-
-Six of them were admitted to the Kandy National Hospital, while the other two were admitted to a private hospital in Kandy.
-
-...
-
-[Data](articles/f7903bb0.json)
-
----
-
-### மலையக மக்களில் வீடு வசதியற்ற நான்காயிரத்து 700 குடும்பங்களுக்கு விட்டுத்திட்டம் அடுத்த மாதம் ஆரம்பிப்பு - அமைச்சர் சமன்த வித்தியாரத்ன
-
-*2025-07-20 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220489) · `ta`
-
-மலையக மக்களில் வீடு வசதியற்ற நான்காயிரத்து 700 குடும்பங்களுக்கு வீடு கட்டிக்கொடுக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. இந்திய அரசின் உதவியுடன் நிர்மாணிக்க இருக்கும் இந்த விட்டுத்திட்டம் அடுத்த மாதம் ஆரம்பிக்கப்படும் என பெருந்தோட்ட மற்றும் உட்கட்டமைப்பு அமைச்சர் சமன்த வித்தியாரத்ன தெரிவித்தார்.
-
-பெருந்தோட்ட அமைச்சில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-மலையக பெருந்தோட்ட மக்கள் கடந்த 200 வருடங்களாக எதிர்கொண்டு வரும் அடிப்படை பிரச்சினைகளுக்கு தீர்வு பெற்றுக்கொடுப்பதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க ஹட்டன் பிரகடனத்தின்போது தெரிவித்திருந்தார். குறிப்பாக அந்த மக்களுக்கு என தனியான வீடு, காணி, முகவரி இல்லாத குறைபாட்டுக்கு எமது அரசாங்க காலத்தில் தீர்வுகாண நடவடிக்கை எடுத்திருக்கிறோம். அதன் பிரகாரம் இந்திய அரசாங்கத்தின் உதவியுடன் 4700 குடும்பங்களுக்கு பூரண வீட்டுடன் காணி உரிமை வழங்க திட்டமிட்டிருக்கிறோம்.
-
-...
-
-[Data](articles/a9d8a002.json)
-
----
-
-### இலங்கையில் ஊழலை ஒழிக்க போராடும் ஜப்பான்
-
-*2025-07-20 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220488) · `ta`
-
-இலங்­கையில் முத­லீடு செய்­வதில், ஜப்­பா­னிய நிறு­வ­னங்கள் உட்­பட  அரச மற்றும் தனியார் நிறு­வ­னங்­களுக்கு மீள நம்­பிக்­கையை ஏற்­ப­டுத்­து­வ­தற்கு, ஊழலை ஒழிப்­பதும் நல்­லாட்­சியும் அவ­சி­ய­மான முன்­நி­பந்­த­னை­களாக உள்­ளன என இலங்­கைக்­கான ஜப்­பா­னிய தூதுவர் அகியோ இசோ­மாட்டா அண்மையில் கூறி­யுள்ளார்.
-
-வெளி­நாட்டு முத­லீ­டு­களை ஈர்ப்­ப­தற்கு இலங்கை தீவி­ர­மாக முயன்­று­வரும் நிலையில், ஜப்­பா­னிய தூதுவர் இவ்­வாறு குறிப்­பிட்­டுள்ளார். கொழும்பில் கடந்த 4 ஆம் திகதி நடை­பெற்ற 4 ஆவது ஜப்­பா­னிய –இலங்கை  பொரு­ளா­தார ஒத்­து­ழைப்பு கொள்கை உரை­யா­ட­லின்­போது அவர் இதனை கூறினார்.
-
-ஜப்பான் வெளி­யு­றவு பிரதி உதவி அமைச்­சரும், ஜப்­பா­னிய சர்­வ­தேச ஒத்­து­ழைப்பு பணி­ய­கத்தின் இஷி­சுகி ஹிடியோ, இலங்கை நிதி­ய­மைச்சின் புதிய செய­லாளர்  கலா­நிதி ஹர்­ஷன சூரி­யப்­பெ­ரும ஆகியோர் தலை­மையில் இக்­க­லந்­து­ரை­யாடல் நடை­பெற்­றி­ருந்­தது.
-
-...
-
-[Data](articles/61bc6466.json)
-
----
-
-### වියට්නාමයේ බෝට්ටු අනතුරින් අතුරුදන්ව සිටි දරුවෙකු නිරුපද්‍රිතව බේරා ගැනේ
-
-*2025-07-20 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212446) · `si`
-
-වියට්නාමයේ සංචාරක බෝට්ටුව පෙරළී සිදු වූ අනතුරින් අතුරුදන්ව සිටි පිරිමි දරුවෙකු පැය ගණනකට පසුව නිරුපද්‍රිතව බේරා ගැනීමට එරට ගලවා ගැනීමේ කණ්ඩායම් සමත් වී තිබේ.
-
-මෙම දරුවා බෝට්ටුවෙහි air pocket එකක් තුළ සිරවී සිට ඇති අතර ගලවා ගැනීමේ කණ්ඩායම් විසින් ඔහුව මුදා ගෙන රෝහලට ඇතුළත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-අද (20) උදෑසන සිදු වූ මෙම අනතුරින් පුද්ගලයින් 34 දෙනෙකු ජීවිතක්ෂයට පත් විය.
-
-එමෙන්ම තවත් පුද්ගලයින් කිහිප දෙනෙකු තවමත් අතුරුදන්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-අයහපත් කාලගුණය හේතුවෙන් මෙම අනතුර සිදුව ඇති බව වාර්තා වී ඇති අතර අනතුර සිදුව ඇත්තේ එරට උතුරු ප්‍රදේශයේ ජනප්‍රිය සංචාරක ගමනාන්තයක් වන හා ලොන්ග් බොක්කෙහිය.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇති පරිදි මගීන්ගෙන් බහුතරයක් හැනොයි අගනුවර සිට පැමිණි පිරිස් බවද සඳහන් වේ.
-
-එරට ගලවා ගැනීමේ කණ්ඩායම් පැවසුවේ අනතුරින් අතුරුදන්වුවන් සෙවීමට අධික වර්ෂාව බාධාවක් වී ඇති බවය.
-
-අනතුරට පත්වන අවස්ථාව වන විට මෙම බෝට්ටුව තුළ පුද්ගලයින් 53 දෙනෙකු සිට ඇති බවත් විදෙස් මාධ්‍ය වාර්තා සඳහන් කර තිබේ.
-
-◼️
-
-[Data](articles/9f8a6eb5.json)
-
----
-
-### ව්‍යාජ ගුවන් ගමන් බලපත්‍රයක් සමඟ ඉරාන ජාතිකයෙක් අත්අඩංගුවට
-
-*2025-07-20 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212445) · `si`
-
-ව්‍යාජ ලෙස සකස් කළ බ්‍රිතාන්‍ය ගුවන් ගමන් බලපත්‍රයක් උපයෝගී කරගනිමින් ජපානය, තුර්කිය හරහා යුරෝපය වෙත යාමට උත්සහ කළ ඉරාන ජාතිකයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගත් සැකකරු ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත භාරදී ඇති බව සඳහන් වේ.
-
-සැකකාර ඉරාන ජාතිකයා ඊයේ (19) රාත්‍රී 8 ට ජපානයේ නරීටා ගුවන්තොටුපොළ බලා පිටත්ව යාමට ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර එහිදී ඔහු ඉදිරිපත් කළ බ්‍රිතාන්‍ය ගුවන් ගමන් බලපත්‍රය පිළිබඳ සැක මතුවීම හේතුවෙන් සිදුකළ පරීක්ෂාවේ දී එය ව්‍යාජ ලෙස සකස් කර ඇති බවට අනාවරණය වී තිබේ.
-
-පසුව එම සැකකරුගේ ගමන් මළු පරීක්ෂා කිරීමේ දී ඒ තුළ තිබී ඔහුගේ සැබෑ ඉරාන ගුවන් ගමන් බලපත්‍රය සොයාගෙන ඇති බව සඳහන් වේ.
-
-අත්අඩංගුවට ගත් ඉරාන ජාතිකයා මීගමුව අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන් තොටුපොළ ඒකකය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/04dde96e.json)
 
 ---

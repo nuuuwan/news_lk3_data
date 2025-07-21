@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 08:32:55**
+As of **2025-07-21 09:17:53**
 
 ## Newspaper Stats
 
-*Scraped **65,789** Articles*
+*Scraped **65,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ economynextcom | 4,019
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,314
-adaderanalk | 8,040
-tamilmirrorlk | 9,429
+adalk | 6,316
+adaderanalk | 8,044
+tamilmirrorlk | 9,431
 virakesarilk | 10,962
-adaderanasinhalalk | 11,302
+adaderanasinhalalk | 11,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,789 articles have been extended.
+61,973 (94.2%) of 65,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### இன்று வானிலையில் ஏற்படவுள்ள மாற்றம்
+
+*2025-07-21 08:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வானிலையில்-ஏற்படவுள்ள-மாற்றம்/175-361430) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடிய சாத்தியக்கூறுகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+வடமேல் மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், மேல், சப்ரகமுவ, தென், வடமேல் மற்றும் வடமத்திய மாகாணங்களில் அவ்வப்போது மணிக்கு சுமார் 50 கிலோமீற்றர் வேகத்தில் மிதமான காற்று வீசக்கூடும், நாட்டின் ஏனைய பகுதிகளில் மணிக்கு சுமார் 30-40 கிலோமீற்றர் வேகத்தில் காற்று வீசக்கூடும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+பலத்த காற்றினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள பொதுமக்கள் தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/8ac3ab35.json)
+
+---
+
+### அதிகாலையில் நேருக்கு நேர் மோதிய பேருந்துகள் : 25 பேர் படுகாயம்
+
+*2025-07-21 08:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-நேருக்கு-நேர்-மோதிய-பேருந்துகள்-25-பேர்-படுகாயம்/175-361429) · `ta`
+
+கேகாலை - கலிகமுவ பகுதியில் இன்று அதிகாலை, இ.போ.ச பேருந்தும் தனியார் பேருந்தும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் சுமார் 25 பேர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வெரகொடவில் இருந்து கேகாலை நோக்கி பயணித்த இ.போ.ச பேருந்தும், கேகாலையில் இருந்து இரத்தினபுரி ​நோக்கி பயணித்த தனியார் பேருந்துமே இவ்வாறு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் காயமடைந்த அனைவரும் கேகாலை மற்றும் வரகாபொல வைத்தியசாலைகளில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5475597f.json)
+
+---
+
+### තවත් බිහිසුණු බස් අනතුරක් - 21 දෙනෙකුට තුවාල
+
+*2025-07-21 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212457) · `si`
+
+කෑගල්ල, ගලිගමුව ප්‍රදේශයේ බස් රථ දෙකක් එකිනෙක ගැටී සිදුවු බිහිසුණු අනතුරකින් පුද්ගලයින් 21 දෙනෙකු පමණ පිරිසක් තුවාල ලබා තිබේ.
+
+අප කළ විමසීමක දී පොලීසිය පැවසුවේ, අද (21) අලුයම 5ට පමණ වේරගොඩැල්ල සිට කෑගල්ල දෙසට ධාවනය වූ ලංගම බස් රථයක් සහ කෑගල්ල සිට රත්නපුරය දක්වා ධාවනය වූ පෞද්ගලික බස් රථයක් එලෙස එකිනෙක ගැටී අනතුර සිදුව ඇති බවය.
+
+තුවාලකරුවන් මේ වනවිට කෑගල්ල සහ වරකාපොළ යන රෝහල්වලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/c2e45410.json)
+
+---
+
+### අස්ගිරි අනුනාහිමියෝ අපවත් වෙති
+
+*2025-07-21 07:44:39* · [`adalk`](https://www.ada.lk/religion/අස්ගිරි-අනුනාහිමියෝ-අපවත්-වෙති/4-417414) · `si`
+
+අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක පුජ්‍ය ආනමඩුවේ ධම්මදසිස් හිමියන් අපවත් වූහ. හෘදයාබාධයක් හේතුවෙන් පෞද්ගලික රෝහලකට ඇතුළත්කර ප්‍රතිකාර ලබමින් සිටිය දී ඊයේ (20) රාත්‍රියේ උන්වහන්සේ අපවත් වූහ.
+
+අපවත්වන විට උන්වහන්සේ 67වන වියේ පසුවූ අතර අනුරාධපුර භික්ෂු විශ්වවිද්‍යාලයේ හජ්‍යෙෂ්ඨ කථිකාචාර්යය හිමිනමක් ලෙස කටයුතු කළ උන්වහන්සේ වයඹ ඇත්කඳ රජමහා විහාරාධිපති ලෙසද කටයුතු කළහ.  අදාහාන පූජෝත්සවය පිළිබඳව ඉදිරියේදී දැනුම් දීමට නියමිතය.
+
+◼️
+
+[Data](articles/2106390f.json)
+
+---
+
+### Japan’s PM vows to stay on despite bruising election loss
+
+*2025-07-21 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110671/japans-pm-vows-to-stay-on-despite-bruising-election-loss) · `en`
+
+Japan’s ruling coalition has lost its majority in the country’s upper house, but Prime Minister Shigeru Ishiba has said he has no plans to quit.
+
+Voters went to the polls on Sunday for the tightly-contested election, being held at a time of frustration at the coalition of the Liberal Democratic Party (LDP) and its junior partner Komeito over rising prices and the threat of US tariffs.
+
+Speaking after polls closed on Sunday, the prime minister said he “solemnly” accepts the “harsh result” but that his focus was on trade negotiations.
+
+Having already lost its majority in Japan’s more powerful lower house last year, the defeat will undermine the coalition’s influence.
+
+The ruling coalition needed 50 seats to retain control of the 248-seat upper chamber. But with just one seat left to be announced, the coalition was on 47, public broadcaster NHK reported.
+
+Half of the seats in the upper chamber were being voted on in Sunday’s election, with members elected for six-year terms.
+
+...
+
+[Data](articles/8e8aa216.json)
+
+---
 
 ### TikTok තරුව 'Papa Jake' ජීවිතයට සමුදෙයි
 
@@ -73,6 +159,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1ae2a14e.json)
+
+---
+
+### Youth arrested with smuggled cigarettes at BIA
+
+*2025-07-21 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110670/youth-arrested-with-smuggled-cigarettes-at-bia) · `en`
+
+An individual has been arrested at the at the arrival terminal of Bandaranaike International Airport (BIA) in Katunayake for smuggling a total of 10,000 sticks of foreign-made cigarettes (50 cartons).
+
+Based on a tip-off received, the suspect was arrested during a raid conducted this morning (21) by a team of officers from the Airport Unit of the Police Narcotics Bureau (PNB), police said.
+
+The Airport Unit of the Police Narcotics Bureau (PNB) is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/476669c9.json)
+
+---
+
+### Anunayake Thero of Asgiri Chapter passes away
+
+*2025-07-21 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110669/anunayake-thero-of-asgiri-chapter-passes-away) · `en`
+
+The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero, has passed away at the age of 67.
+
+Venerable Anamaduwe Dhammadassi Thero, who had been receiving treatment at a private hospital following a heart attack, reportedly passed away last night (20).
+
+◼️
+
+[Data](articles/7cd74267.json)
+
+---
+
+### Fairly heavy rains likely in parts of the island
+
+*2025-07-21 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110668/fairly-heavy-rains-likely-in-parts-of-the-island) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts the Department of Meteorology said.
+
+Fairly heavy falls about 75 mm are likely at some places in the Sabaragamuwa province and in Nuwara-Eliya, Kandy, Galle, Matara and Kalutara districts.
+
+Several spells of showers may occur in the North-western and Uva provinces and in Hambantota district, according to the Met. Department.
+
+Meanwhile, strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Western, Sabaragamuwa, Southern, North-western and North-central provinces.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/42f0725d.json)
 
 ---
 
@@ -1058,6 +1196,26 @@ Fire Capt. Adam VanGerpen said a line of people — mostly female — were waiti
 
 ---
 
+### කුකුළු මස් කිලෝව රු. 1500ක් දක්වා ඉහළට
+
+*2025-07-20 17:26:10* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-කිලෝව-රු--1500ක්-දක්වා-ඉහළට/11-417412) · `si`
+
+ඇතැම් ප්‍ර දේශවල කුකුල් මස් (දවස) කිලෝවක සිල්ලර මිල රුපියල් එක්දහස් පන්සියක් දක්වා ඉහල ගොස් තිබේ.
+
+මේ මස ආරම්භයේදි රුපියල් එක් දහස් එකසියත් රුපියල් එක් දහස් එකසිය හැටත් අතර මිලකට අලෙවි වු කුකුල් මස කිලෝවක මිල දෙවන සතිය වන විට රුපියල්  එක්දහස් තුන්සිය පනහක් දක්වා ඉහල ගොස් තිබුණි.
+
+තුන්වන සතිය වන විට එම මිල රුපියල් එක් දහස් පන්සියක් දක්වා ඉහල ගොස් තිබෙන අතර මිට සාපෙක්ෂව ශිතකරණවල තබා අලෙවි කරන කුකුල් මස් කිලෝවක මිල පවා රුපියල් එක්දහස් දෙසියක් දක්වා ඉහල ගොස් තිබේ.
+
+සමාන්‍ය තත්ත්වයේ බිත්තරයක මිල රුපියල් තිස් පහත් රුපයල් තිස් අටත් අතර මිලකට අලෙවි  වන අතර කුඩා බිත්තරයක් රුපියල් තිහත් තිස් දෙකක් අතර මිලකට අලෙවි වේ.
+
+සාලය. යක්සාලය වැනි කුඩා මත්ස්‍ය කිලෝවක මිල රුපියල් අටසිය ඉක්මවා ගොස් තිබෙන අතර තලපත්   හා කෙලවල් කිලොවක සිල්ලර මිල රුපියල් තුන්දහසක් වන අතර  තොග මිල රුපියල් දෙදහසක පමණ මිලකට අලෙවි වේ. හුරුල්ලා කිලෝවක මිල සිල්ලර මිල රුපියල්  දහසත් එක්දහස් දෙසියක් අතර මිලක් වන අතර   අතර ඇතැම් ප්‍ර දේශවල හුරුල්ලා මාළු මිලදි ගැනිමට නොමැති බවද පාරිභෝගික ජනතාව සදහන් කරති.
+
+...
+
+[Data](articles/950d7e52.json)
+
+---
+
 ### குர்தீஸ்தான் – பெறுதலே குறிக்கோள்
 
 *2025-07-20 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220485) · `ta`
@@ -1619,149 +1777,5 @@ Subsequently, Rasika Withana was handed over to the Matugama Police.
 ◼️
 
 [Data](articles/00ec0636.json)
-
----
-
-### Saudi Arabia’s ‘Sleeping Prince’ dies after 20 years in coma
-
-*2025-07-20 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110656/saudi-arabias-sleeping-prince-dies-after-20-years-in-coma) · `en`
-
-Prince Al-Waleed bin Khaled bin Talal Al Saud, widely known as Saudi Arabia’s “Sleeping Prince,” has passed away at the age of 36 after spending nearly two decades in a coma.
-
-His family confirmed his death over the weekend, bringing an emotional end to one of the kingdom’s most heart-rending royal stories.
-
-“With hearts full of faith in Allah’s decree and destiny, and with profound sadness and sorrow, we mourn our beloved son Prince Al-Waleed bin Khaled bin Talal bin Abdulaziz Al Saud — may Allah have mercy on him — who passed away to Allah’s mercy today,” his father, Prince Khaled bin Talal bin Abdulaziz, posted on social media.
-
-Funeral prayers are scheduled to be held on Sunday after the Asr prayer at Imam Turki bin Abdullah Mosque in Riyadh, the family announced.
-
-...
-
-[Data](articles/9cc74713.json)
-
----
-
-### இராணுவத் தளபதி - கிழக்கு ஆளுநர் சந்திப்பு
-
-*2025-07-20 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220461) · `ta`
-
-திருகோணமலை ஆளுநர் செயலகத்தில் இன்று ஞாயிற்றுக்கிழமை (20) இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கும் இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
-
-திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
-
-கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லேகும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/6e2b5868.json)
-
----
-
-### දකුණු කොරියාවේ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 14 දෙනෙකු මරුට
-
-*2025-07-20 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212439) · `si`
-
-දකුණු කොරියාවේ දින ගණනාවක් පුරා ඇද හැළෙන ධාරානිපාත වර්ෂාව හේතුවෙන් ඇති වූ ගංවතුර සහ නායයෑම් හේතුවෙන් මේ වන විට පුද්ගලයින් 14 දෙනෙකු මියගොස් ඇති බව එරට ආපදා කළමනාකරණ කාර්යාලය පවසයි.
-
-මේ වන විට එරට ගලවාගැනීමේ කටයුතු අඛණ්ඩව සිදුවන බැවින් මරණ සංඛ්‍යාව ඉහළ යා හැකි බවත් බලධාරීන් ප්‍රකාශ කර තිබේ.
-
-ඇතිවූ ආපදා තත්ත්වය හේතුවෙන් මේ වන විට පුද්ගලයින් 12 දෙනෙකු අතුරුදන්ව ඇති බවත් වාර්තා වේ.
-
-පසුගිය බදාදා දිනෙන් ආරම්භ වූ වර්ෂාව හේතුවෙන් එරට 10,000කට ආසන්න පිරිසක් සිය නිවාස අතහැර ආරක්ෂිත ස්ථාන වෙත ගොස් තිබුණි.
-
-ආපදා තත්ත්වයෙන් දරුණුතම බලපෑම එල්ල වී ඇත්තේ එරට දකුණු සහ මධ්‍යම ප්‍රදේශවලට වන අතර ගංවතුර තත්ත්වයෙන් මාර්ග සහ ගොඩනැගිලි දහස් ගණනක් යට වී ඇතැයි ද වාර්තා වේ.
-
-මේ අතර පවතින තත්ත්වය හේතුවෙන් එරට ප්‍රදේශ රැසකට බරපතළ නායයෑම් අනතුරු ඇඟවීම් නිවේදන නිකුත් කිරීමටද එරට ආපදා කළමනාකරණ කාර්යාලය පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/0e971025.json)
-
----
-
-### கர்ப்பத்துக்கு யார் அப்பா? படத்துடன் கருவி
-
-*2025-07-20 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கர்ப்பத்துக்கு-யார்-அப்பா-படத்துடன்-கருவி/53-361408) · `ta`
-
-ஒரு பெண் கர்ப்பம் தரித்துவிட்டால் அந்த பெண்ணின் வயிற்றில் வளரும் குழந்தைக்கு யார்? தந்தை என்று படத்துடன் காண்பிக்கும் கருவி வந்திருக்காம் என பதிவிட்டு,  pregnant கருவியில் புகைப்படத்துடன், கூடிய இந்த செய்தி சமூக வலைத்தங்களில் வைரலாகி வருகிறது.
-
-◼️
-
-[Data](articles/46f865a0.json)
-
----
-
-### தலைவலியாகும் தலையீடு
-
-*2025-07-20 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220462) · `ta`
-
-இலங்கை,  இந்தோ -பசுபிக் மூலோபாயத்துடன் இணைந்து செயல்படுகிறதோ இல்லையோ, அதனை நிராகரிக்காமல் ஒத்திசைந்து செல்கிறது என்பது உண்மை. இவ்வாறான நிலையில் அதனை புறக்கணித்துக் கொண்டு, சீனாவுடன் இணைந்து செல்வது கடினமானது.இந்திய பெருங்கடலில் சீனாவின் கடல்சார் ஆர்வங்களை அல்லது அதன் பலத்தை வலுப்படுத்துவதற்கான திட்டங்களை, இலங்கை ஆதரிக்க வேண்டும் என பெய்ஜிங் எதிர்பார்க்கிறது
-
-◼️
-
-[Data](articles/06f81dfa.json)
-
----
-
-### ‘’மூடிய மனநிலை’’ இலிருந்து இலங்கை வெளி வரவேண்டும் : இந்தியாவுடனான எட்கா உடன்படிக்கை மிக அவசியம் - ஹர்ஷ டி.சில்வா
-
-*2025-07-20 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220456) · `ta`
-
-இலங்கை உலகத்தில் காணப்படுகின்ற மிகக் கூடிய  மூடிய பொருளாதாரங்களில் ஒன்றாகும். இலங்கை - இந்திய பாலம் அமைத்தால், எமக்கு உலகின் மிக வேகமான வளர்ச்சி அடைந்து கொண்டிருக்கும் நாட்டுக்கான பிரவேசம் கிடைக்கும்.  உலகின் மிக வேகமாக வளர்ச்சி அடையும் பிராந்தியமாக இந்தியாவின் தென்பிராந்தியமே காணப்படுகிறது.
-
-◼️
-
-[Data](articles/dbc86d43.json)
-
----
-
-### Iranian national arrested at BIA while attempting to flee to Europe using forged British passport
-
-*2025-07-20 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110655/iranian-national-arrested-at-bia-while-attempting-to-flee-to-europe-using-forged-british-passport) · `en`
-
-An Iranian national has been arrested at the Bandaranaike International Airport (BIA) while attempting to illegally flee to Europe via Japan and Turkey using a forged British passport.
-
-The 47-year-old Iranian national has been apprehended last night (19), by officers of the Border Surveillance Unit of the Department of Immigration and Emigration at the BIA.
-
-He had arrived at the BIA at 8:00 p.m. to depart for Narita, Japan.
-
-During his check-in process, officials who became suspicious of the British passport he presented referred him to the officers of the Border Surveillance Unit along with all his documents.
-
-Technical inspections carried out at that point revealed that the passport had been fraudulently altered.
-
-It was also uncovered that he had paid US$ 15,000 to a trafficker in Iran for the forged document.
-
-Further examination of his wallet revealed his genuine Iranian passport and a flight ticket from Narita, Japan to Istanbul, Turkey, which he had concealed.
-
-...
-
-[Data](articles/4988e3d9.json)
-
----
-
-### இராணுவத் தளபதிக்கும் கிழக்கு ஆளுனர்க்கும் இடையே சந்திப்பு
-
-*2025-07-20 14:27:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்-தளபதிக்கும்-கிழக்கு-ஆளுனர்க்கும்-இடையே-சந்திப்பு/175-361407) · `ta`
-
-திருகோணமலை ஆளுநர் செயலகத்தில் ஞாயிற்றுக்கிழமை (20) அன்று இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ மற்றும் கிழக்கு மாகாண ஆளுநர் ஜயந்த லால் ரத்னசேகர ஆகியோருக்கு இடையே ஒரு சுமூகமான சந்திப்பு ஒன்று நடைபெற்றது.
-
-திருகோணமலை மற்றும் கிழக்கு மாகாணத்தில் பாதுகாப்பு விடயங்களில் இராணுவத்தின் ஈடுபாடு மற்றும் பொதுமக்களுடனான அதன் ஒத்துழைப்பு குறித்து கலந்துரையாடப்பட்டது.
-
-கிழக்கு இராணுவத் தளபதி மேஜர் ஜெனரல் ஜனக பல்லே கும்புர மற்றும் 22 வது காலாட்படை பிரிவின் கட்டளை அதிகாரி மேஜர் ஜெனரல் லலித் பெரேரா ஆகியோர் இச்சந்திப்பில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/6ced49eb.json)
-
----
-
-### கர்ப்பத்துக்கு யார் அப்பா? படத்துடன் கருவி
-
-*2025-07-20 14:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கர்ப்பத்துக்கு-யார்-அப்பா-படத்துடன்-கருவி/53-361406) · `ta`
-
-ஒரு பெண் கர்ப்பம் தரித்துவிட்டால் அந்த பெண்ணின் வயிற்றில் வளரும் குழந்தைக்கு யார்? தந்தை என்று சொல்லுற கருவி வந்திருக்காம் என பதிவிட்டு,  pregnant கருவியில் புகைப்படத்துடன், கூடிய இந்த செய்தி சமூக வலைத்தங்களில் வைரலாகி வருகிறது. எனினும், அவ்வாறானதொரு கருவி கண்டுப்பிடிக்கப்படவில்லை என்பது தெரிந்ததே.
-
-◼️
-
-[Data](articles/c96af398.json)
 
 ---

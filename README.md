@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 21:20:35**
+As of **2025-07-21 21:33:30**
 
 ## Newspaper Stats
 
-*Scraped **65,952** Articles*
+*Scraped **65,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 4,031
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,334
-adaderanalk | 8,068
+adaderanalk | 8,071
 tamilmirrorlk | 9,474
-virakesarilk | 10,989
+virakesarilk | 10,992
 adaderanasinhalalk | 11,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,952 articles have been extended.
+61,973 (94.0%) of 65,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,9 +52,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 සීදූව, රාජපක්ෂපුර ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
 
+යතුරුපැදියකින් පැමිණි පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පලා ගොස් ඇති බව වාර්තා වෙයි.
+
 ◼️
 
 [Data](articles/dcf70553.json)
+
+---
+
+### Harvard heads to court to argue Trump administration’s $2.6bn cuts were illegal
+
+*2025-07-21 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110702/harvard-heads-to-court-to-argue-trump-administrations-26bn-cuts-were-illegal) · `en`
+
+Harvard University will appear in federal court Monday to make the case that the Trump administration illegally cut $2.6bn from the storied college – a pivotal moment in its battle against the federal government.
+
+If US district Judge Allison Burroughs decides in the university’s favor, the ruling would reverse a series of funding freezes that later became outright cuts as the Trump administration escalated its fight with the nation’s oldest and wealthiest university. Such a ruling, if it stands, would revive Harvard’s sprawling scientific and medical research operation and hundreds of projects that lost federal money.
+
+“This case involves the government’s efforts to use the withholding of federal funding as leverage to gain control of academic decisionmaking at Harvard,” the university said in its complaint. “All told, the tradeoff put to
+
+...
+
+[Data](articles/7b85cd3a.json)
 
 ---
 
@@ -95,6 +113,70 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3b4725ed.json)
+
+---
+
+### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரிப்பு
+
+*2025-07-21 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220560) · `ta`
+
+பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரித்துள்ளது.
+
+தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானது.
+
+மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
+
+◼️
+
+[Data](articles/27492287.json)
+
+---
+
+### செம்மணி புதைகுழி மீட்புகள் தொடர்பில் தேவநேசன் அறிக்கையை இணைத்து ஆய்வு செய்ய வேண்டும்; பல உண்மைகள் வெளிவரும் - சுமந்திரன் நம்பிக்கை
+
+*2025-07-21 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220580) · `ta`
+
+யாழ்ப்பாணத்தில் இடம்பெற்ற காணாமலாக்கப்படல்கள் தொடர்பில் கலாநிதி தேவநேசன் நேசையா தலைமையிலான குழுவினரினால் சமர்ப்பிக்கப்பட்ட அறிக்கையில் உள்ள விபரங்களை தற்போது செம்மணி சித்துபாத்தி மனிதப்புதைகுழியில் கண்டறியப்படும் மனித எச்சங்களுடன் தொடர்புபடுத்தி ஆராய்வதன் ஊடாக பல்வேறு உண்மைகளை வெளிக்கொணரமுடியும் என இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் நம்பிக்கை வெளியிட்டுள்ளார்.
+
+யாழ்ப்பாணத்தில் இடம்பெற்ற காணாமலாக்கப்படல் சம்பவங்கள் தொடர்பில் ஆராய்வதற்கென கலாநிதி தேவநேசன் நேசையா தலைமையில் கே.எச்.கமிலஸ் பெர்னாண்டோ, ஜெமிஸா இஸ்மாயில் மற்றும் எம்.சி.எம்.இக்பால் ஆகிய உறுப்பினர்களுடன்கூடியதாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவினால் நியமிக்கப்பட்ட குழுவின் அறிக்கை 2003 ஆம் ஆண்டு ஒக்டோபர் 28 ஆம் திகதி ஆணைக்குழுவிடம் கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/4fc2a4d6.json)
+
+---
+
+### செம்மணி மனித புதைகுழிகள்: மேலும் 7 எலும்புக்கூட்டு தொகுதிகள் மீட்பு
+
+*2025-07-21 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220579) · `ta`
+
+யாழ்ப்பாணம் செம்மணி பகுதியில் உள்ள இரண்டு மனித புதைகுழிகளில் இருந்தும் 07ஆம் திகதி திங்கட்கிழமை 07 மனித எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+இன்று அடையாளம் காணப்பட்டுள்ள 07 மனித எலும்பு கூட்டு தொகுதிகளுடன் சேர்த்து மொத்தமாக 72 எலும்பு கூட்டு தொகுதிகள் இங்கே கண்டெடுக்கப்பட்டுள்ளன.
+
+செம்மணி பகுதியில் "தடயவியல் அகழ்வாய்வுத்தளம் இல - 01" மற்றும்  "தடயவியல் அகழ்வாய்வுத்தளம் இல - 02" என நீதிமன்றினால் அடையாளப்படுத்தப்பட்ட மனித புதைகுழிகளில் அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வருகிறது.
+
+இரண்டாம் கட்ட பணிகளுக்காக 45 நாட்கள் நீதிமன்றினால் அனுமதிக்கப்பட்டுள்ள நிலையில் முதல் 15 நாட்கள் தொடர்ச்சியாக அகழ்வு பணிகள் முன்னெடுக்கப்பட்ட நிலையில் கடந்த 10ஆம் திகதியுடன் தற்காலிகமாக இடை நிறுத்தப்பட்டு 11 நாட்களின் பின்னர் இன்றைய தினம் 16ஆவது நாளாக அகழ்வு பணிகள் முன்னெடுக்கப்பட்டது.
+
+அதன் போது இரண்டு மனித புதைகுழிகளில் இருந்தும் 07 எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றினை நாளைய தினம் செவ்வாய்க்கிழமை அகழ்ந்து எடுக்கும் பணிகள் முன்னெடுக்கப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/75f048da.json)
+
+---
+
+### “One in every ten adults in Sri Lanka affected by kidney disease”: SLMA
+
+*2025-07-21 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110701/one-in-every-ten-adults-in-sri-lanka-affected-by-kidney-disease-slma) · `en`
+
+One in every ten adults in the country is affected by kidney disease, according to the Sri Lanka Medical Association.
+
+Treasure of the association Dr. Udana Ratnapala stated that diabetes and high blood pressure are the primary causes of kidney disease.
+
+◼️
+
+[Data](articles/3099a9c2.json)
 
 ---
 
@@ -154,6 +236,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Body of Uni student who drowned while trying to save her boyfriend found
+
+*2025-07-21 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110700/body-of-uni-student-who-drowned-while-trying-to-save-her-boyfriend-found) · `en`
+
+The body of a young woman who went missing after drowning while trying to save her boyfriend has been found in the Viyana canal near the 17th post of the Mahiyanganaya Police Division.
+
+The incident occurred last evening (20). The young couple had been walking on the canal bank when the young man slipped and fell into the water due to the strong current.
+
+At that juncture, the young woman tried to save him by reaching out her hand, but both ended up falling into the canal, according to police.
+
+An officer from the Mahiyanganaya Police Training School and his wife, who were passing by, immediately jumped into the canal and managed to rescue the young man, but were unable to locate the young woman.
+
+Following the incident, police and area residents launched a search operation.
+
+Her body was recovered earlier today (21). The deceased was a 26-year-old Rajarata University student.
+
+◼️
+
+[Data](articles/f8462bf9.json)
+
+---
+
 ### මාතර නිල්වලා ගඟබඩ උද්‍යානය වසා දමයි
 
 *2025-07-21 19:04:41* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-නිල්වලා-ගඟබඩ-උද්‍යානය-වසා-දමයි/11-417435) · `si`
@@ -167,6 +271,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f6a66e52.json)
+
+---
+
+### இவ்வாண்டில் 2138 இலஞ்ச ஊழல் முறைப்பாடுகள் : 45 பேர் குற்றவாளிகளென அடையாளம்
+
+*2025-07-21 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220574) · `ta`
+
+இலஞ்ச, ஊழல் குற்றச்சாட்டுகள் தொடர்பில் இந்த ஆண்டில் 2138 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகவும் அதில் 45 பேர் குற்றவாளியாக அடையாளம் காணப்பட்டுள்ளதாகவும் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+இந்த வருடத்தின் ஜனவரி மாதம் முதலாம் ஆம் திகதி முதல் கடந்த மே மாதம் 31 ஆம் திகதி வரையிலான காலப்பகுதியில் 44 விசேட சுற்றிவளைப்புகள் மேற்கொள்ளப்பட்டுள்ளதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்தது.
+
+இதன்போது ஊழல் மோசடி குற்றச்சாட்டில் 31 பேர் கைது செய்யப்பட்டுள்ளதுடன் அவர்களில் 8 பேர் பொலிஸ் உத்தியோகத்தர்களாவர்.
+
+இதனிடையே கடந்த 6 மாதங்களில் இலஞ்சம், ஊழல், சொத்துக்கள் தொடர்பான விபரங்களை வெளிப்படுத்தாமை மற்றும் சட்டவிரோத சொத்து குவிப்பு உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் கொழும்பு மேல் நீதிமன்றத்தில் 42 வழக்குகள் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவால் தொடுக்கப்பட்டுள்ளது.
+
+மேலும் இந்த காலப்பகுதியில் 45 பேர் குற்றவாளியாக அடையாளம் காணப்பட்டுள்ளதாகவும் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/816cf3cc.json)
 
 ---
 
@@ -615,24 +739,6 @@ Firefighters sprayed water on the mangled remains of the plane, which appeared t
 ...
 
 [Data](articles/13294825.json)
-
----
-
-### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரிப்பு
-
-*2025-07-21 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220560) · `ta`
-
-பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரித்துள்ளது.
-
-தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானது.
-
-மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
-
-இந்த விபத்தில் ஒருவர் உயிரிழந்துள்ளதோடு, 50 பேர் காயமடைந்தவர்கள் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/27492287.json)
 
 ---
 
@@ -1731,109 +1837,5 @@ Mumbai Airport confirmed that the runway excursion took place at 09:27 hours.
 ...
 
 [Data](articles/153d70e7.json)
-
----
-
-### Sri Lanka begins IMF talks for next review this week: Minister
-
-*2025-07-21 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-imf-talks-for-next-review-this-week-minister-231885/) · `en`
-
-ECONOMYNEXT – Sri Lanka is kicking off talks for the next International Monetary Fund review with a mission in Colombo this week, Labour Minister and Deputy Minister for Economic Development Anil Jayantha Fernando said.
-
-Sri Lanka will discuss the progress achieved so far and the way forward, Minister Fernando said.
-
-Sri Lanka’s next review is due in October 2025 based on end June data and continuous performance criteria.
-
-Sri Lanka has generally outperformed most targets in IMF programs and also overperformed on inflation (missing a target) the central bank has avoided putting pressure on the people by pushing up the cost of living. (Colombo/July18/2025)
-
-◼️
-
-[Data](articles/359e9e62.json)
-
----
-
-### Sri Lanka to procure US West Texas Intermediate crude oil?
-
-*2025-07-21 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110683/sri-lanka-to-procure-us-west-texas-intermediate-crude-oil) · `en`
-
-The government is reportedly looking at the possibility of procuring US West Texas Intermediate (WTI) crude oil in a bid to reduce the trade deficit between Sri Lanka and the United States.
-
-Following the decision by US President Donald Trump to impose reciprocal tariffs based on trade deficit between the US and other trading partners, several countries including Sri Lanka have been engaging with the Office of the United States Trade Representative to strike deals to reduce the tariff rates.
-
-Although US President Trump announced a tariff rate of 44% in April for Sri Lankan exports, it has now been reduced to 30%, effective August 1.
-
-Local officials are continuing to hold discussions in a bid to reduce the tariff rate further, according to government sources.
-
-Accordingly, Managing Director of the Ceylon Petroleum Corporation Dr. Mayura Neththikumarage noted that discussions are currently being held to include US West Texas Intermediate crude oil in the tender process when procuring oil.
-
-...
-
-[Data](articles/d76f977c.json)
-
----
-
-### අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ අපවත් වීම ගැන සජිත්ගෙන් ශෝක නිවේදනයක්
-
-*2025-07-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212466) · `si`
-
-අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමි අපවත්වීම වෙනුවෙන් විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා ශෝක නිවේදනයක් නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/de1d905a.json)
-
----
-
-### பொத்துவிலில் கடலில் மூழ்கிய இளைஞர்கள் இருவர் மீட்பு
-
-*2025-07-21 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220525) · `ta`
-
-அம்பாறை, பொத்துவில், உல்ல கடலில் மூழ்கி உயிருக்குப் போராடிக்கொண்டிருந்த இளைஞர்கள் இருவர் ஞாயிற்றுக்கிழமை (20) உயிருடன் மீட்கப்பட்டுள்ளனர்.
-
-இவர்கள் உல்ல கடல் பகுதியில் கடமைபுரிந்து வந்த அறுகம்பே பொலிஸ் உயிர்காப்பு பிரிவினரால் காப்பாற்றப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-மீட்கப்பட்டவர்கள் களுவாஞ்சிக்குடி பகுதியில் வசிக்கும் 23 மற்றும் 26 வயதுடையவர்கள் ஆரம்ப சிகிச்சை அளிக்கப்பட்டு உறவினர்களிடம் ஒப்படைக்கப்பட்டனர்.
-
-◼️
-
-[Data](articles/20f87137.json)
-
----
-
-### One dead while another missing after drowning in Panahaduwa lake
-
-*2025-07-21 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/110682/one-dead-while-another-missing-after-drowning-in-panahaduwa-lake) · `en`
-
-Two individuals who went fishing in the Panahaduwa lake in Udawalawa have drowned, police stated.
-
-The two individuals drowned while fishing using a tube as support.
-
-The two individuals aged 29 and 30 are residents of Panahaduwa.
-
-An area resident reportedly witnessed the moment they drowned and informed the police.
-
-Following this, life-saving officers of the Embilipitiya Police and Sri Lanka Army divers arrived at the scene and commenced a search operation, during which the body of one individual was recovered.
-
-The search operation is ongoing to locate the body of the other missing individual.
-
-◼️
-
-[Data](articles/5b9934d7.json)
-
----
-
-### டட்லி சிறிசேன ஹோட்டல் விவகாரம்;அமைச்சர் விளக்கம்
-
-*2025-07-21 12:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டட்லி-சிறிசேன-ஹோட்டல்-விவகாரம்-அமைச்சர்-விளக்கம்/175-361457) · `ta`
-
-இந்த ஆண்டு நீர்த்தேக்கங்களில் உள்ள சட்டவிரோத கட்டமைப்புகளை அகற்றும் திட்டத்தில் பராக்கிரம சமுத்திரம் விலக்கப்பட்டதற்கு தொழிலதிபர் டட்லி சிறிசேனவுக்குச் சொந்தமான ஹோட்டல் தான் காரணம் என்ற கூற்றை விவசாயம், கால்நடை, நிலம் மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால் காந்த நிராகரித்துள்ளார்.
-
-ஞாயிற்றுக்கிழமை ஒரு பொது நிகழ்வில் பேசிய லால் காந்த, குற்றச்சாட்டுகள் ஆதாரமற்றவை என்று கூறினார், மேலும் திட்டத்திற்கான நீர்த்தேக்கங்களைத் தேர்ந்தெடுப்பது நீர்ப்பாசனத் துறையால் பயன்படுத்தப்படும் ஒரு குறிப்பிட்ட செயல்முறை மற்றும் வரையறுக்கப்பட்ட அரசாங்க நிதியை அடிப்படையாகக் கொண்டது என்பதை தெளிவுபடுத்தினார்.
-
-"நாங்கள் நேற்றுதான் இந்த திட்டத்தைத் தொடங்கினோம். சட்டவிரோத கட்டுமானங்களைக் கொண்ட பல தொட்டிகள் உள்ளன, நாங்கள் கட்டம் கட்டமாக வேலை செய்கிறோம்," என்று அவர் கூறினார். "இந்த ஆண்டு, எங்களுக்கு ரூ. 100 மில்லியன் ஒதுக்கப்பட்டுள்ளது. அதை வைத்து எல்லாவற்றையும் நாங்கள் ஈடுகட்ட முடியாது."
-
-...
-
-[Data](articles/ceda95fb.json)
 
 ---

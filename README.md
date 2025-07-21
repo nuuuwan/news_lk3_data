@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 14:55:23**
+As of **2025-07-21 15:11:59**
 
 ## Newspaper Stats
 
-*Scraped **65,871** Articles*
+*Scraped **65,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,323
-adaderanalk | 8,055
-tamilmirrorlk | 9,454
+adaderanalk | 8,059
+tamilmirrorlk | 9,456
 virakesarilk | 10,975
 adaderanasinhalalk | 11,315
 
@@ -26,11 +26,119 @@ adaderanasinhalalk | 11,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.1%) of 65,871 articles have been extended.
+61,973 (94.1%) of 65,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### Bangladesh Airforce F-7 aircraft crashes into school in Dhaka, at least 1 dead
+
+*2025-07-21 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110690/bangladesh-airforce-f-7-aircraft-crashes-into-school-in-dhaka-at-least-1-dead) · `en`
+
+Bangladesh Airforce F7 aircraft crashed onto a school campus in Dhaka’s northern Uttara area on Monday (July 22) around 1:30 pm, according to the military and a fire official.
+
+Students were present at the Milestone School and College at the time of the crash. Several students have been reportedly injured in the crash.
+
+The Bangladesh Army’s public relations office confirmed in a brief statement that the downed F-7 BGI aircraft belonged to the Air Force. Fire official Lima Khan stated by phone that at least one person died and four others were injured, though she did not provide further details.
+
+◼️
+
+[Data](articles/2bcd3340.json)
+
+---
+
+### Hearing of a case against ex-Minister Udaya Gammanpila adjourned
+
+*2025-07-21 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110689/hearing-of-a-case-against-ex-minister-udaya-gammanpila-adjourned) · `en`
+
+The Colombo High Court has scheduled a date to recall the case filed by the Attorney General against former Minister Udaya Gammanpila, who is accused of misappropriating shares worth Rs. 20 million belonging to an Australian businessman by allegedly preparing a forged power of attorney.
+
+The case was taken up today (21) before Colombo High Court Judge R.S.S. Sapuvida, said Ada Derana reporter.
+
+The judge ordered that the case be recalled for hearing on November 21.
+
+This case was originally filed during the previous good governance government, with charges against Gammanpila for misappropriating shares by using a forged power of attorney to execute the transfer.
+
+◼️
+
+[Data](articles/bbe269fb.json)
+
+---
+
+### ஒபாமா கைது:  சர்ச்சையை கிளப்பிய   டிரம்ப்
+
+*2025-07-21 14:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஒபாமா-கைது-சர்ச்சையை-கிளப்பிய-டிரம்ப்/50-361465) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப், முன்னாள் ஜனாதிபதி   பராக் ஒமாவை   எஃப்பிஐ அதிகாரிகள் ஓவல் அலுவலகத்தில் கைது செய்வதை சித்தரிக்கும் ஏஐ வீடியோவைப் பகிர்ந்து பெரும் சர்ச்சையைத் தூண்டியுள்ளார்.
+
+இந்த வீடியோ டொனால்ட் டிரம்பின் ட்ரூத் சோசியல் சமூக ஊடக தளத்தில் வெளியிடப்பட்டது, இது அரசியல் ரீதியாக எதிர்விளைவைத் தீவிரப்படுத்தியது. டீப்ஃபேக் தொழில்நுட்பம் மூலம் உருவாக்கப்பட்ட இந்த வீடியோவை பொறுப்பற்ற செயல் மற்றும் ஆத்திரமூட்டும் நடவடிக்கை என்று விமர்சகர்கள் கண்டனம் தெரிவித்துள்ளனர்.
+
+இந்த வீடியோ டிரம்பின் கீழ் தற்போதைய தேசிய புலனாய்வு இயக்குநரான துளசி கப்பார்டின் பரபரப்பு குற்றச்சாட்டுகளின் பின்னணியில் வந்துள்ளது.
+
+2016 தேர்தல் முடிவை பாதிக்கும் முயற்சியில் ஒபாமாவும் மூத்த உளவுத்துறை அதிகாரிகளும் டிரம்ப்-ரஷ்யா கூட்டுக் கதையை ஜோடித்ததாகக் கூறும் 100 க்கும் மேற்பட்ட ஆவணங்களை துளசி கப்பார்ட் வெளியிட்டார்.
+
+ஒபாமா பதவி விலகுவதற்கு சில வாரங்களுக்கு முன்பு தொடங்கப்பட்ட தேசத்துரோக சதி என்று அவர் இதை விவரித்தார்.
+
+...
+
+[Data](articles/7ddd57a3.json)
+
+---
+
+### 2006 மும்பை ரயில் குண்டுவெடிப்பு: தண்டனை பெற்ற 12 பேரும் விடுதலை
+
+*2025-07-21 14:43:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2006-மும்பை-ரயில்-குண்டுவெடிப்பு-தண்டனை-பெற்ற-12-பேரும்-விடுதலை/175-361464) · `ta`
+
+2006 மும்பை ரயில் குண்டுவெடிப்பு வழக்கில் குற்றம் சாட்டப்பட்ட 12 பேரையும் மும்பை உயர் நீதிமன்றம் விடுவித்துள்ளது.
+
+இது குற்றம் சாட்டப்பட்டவர்களில் ஐந்து பேருக்கு மரண தண்டனையும், ஏழு பேருக்கு ஆயுள் தண்டனையும் விதித்த சிறப்பு நீதிமன்றத்தின் முந்தைய தீர்ப்பை ரத்து செய்கிறது.
+
+இந்த வழக்கு, 2006 ஜூலை 11  அன்று மும்பையின் மேற்கு ரயில் பாதையில் புறநகர் ரயில்களில் ஏழு குண்டுகள் வெடித்தன. 189 பேர் கொல்லப்பட்டு மற்றும் 824 பேர் காயமடைந்த வழக்காகும்.
+
+விசாரணையில், நீதிபதிகள் அனில் கிலோர் மற்றும் ஷியாம் சந்தக் ஆகியோர் அடங்கிய சிறப்பு அமர்வு, "நியாயமான சந்தேகங்களுக்கு அப்பால் வழக்கை நிறுவுவதில் அரசு தரப்பு முற்றிலும் தோல்வியடைந்தது" என்று கூறியது.
+
+...
+
+[Data](articles/ffb3edb8.json)
+
+---
+
+### Colombo Archdiocese seeks prosecution of sacked former SIS chief
+
+*2025-07-21 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110687/colombo-archdiocese-seeks-prosecution-of-sacked-former-sis-chief) · `en`
+
+While acknowledging the disciplinary action taken against former State Intelligence Service (SIS) chief, Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena as positive step, the Archdiocese of Colombo has stated that what is truly necessary is to file criminal charges against him as recommended by the Presidential Commission of Inquiry.
+
+Media spokesperson for the Archdiocese of Colombo Rev. Fr. Cyril Gamini Fernando said all recommendations of the Presidential Commission of Inquiry should be implemented.
+
+The National Police Commission recently decided to dismiss SDIG Nilantha Jayawardena — who was serving as the Director of the State Intelligence Service at the time of the Easter Sunday attacks on April 21, 2019 — with immediate effect.
+
+This decision was based on a Supreme Court order, which found him guilty of all charges in a disciplinary inquiry conducted against him.
+
+...
+
+[Data](articles/1948d61f.json)
+
+---
+
+### State revenue up by nearly 20% in first five months of 2025
+
+*2025-07-21 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110686/state-revenue-up-by-nearly-20-in-first-five-months-of-2025) · `en`
+
+The state revenue has surged to Rs. 1,942.36 billion during the first five months of 2025, marking a 19.95% increase in comparison to the figures from the same period last year, according to the Central Bank of Sri Lanka (CBSL).
+
+The CBSL noted that during the first five months of 2024, the state revenue stood at Rs. 1,619.23 billion.
+
+The increase is largely attributed to higher tax collections, with tax revenue rising by 20.87% to Rs. 1,802.48 billion from Rs. 1,491.25 billion a year earlier.
+
+These figures were highlighted in the Central Bank’s latest Weekly Economic Indicators report.
+
+◼️
+
+[Data](articles/7dc870cd.json)
+
+---
 
 ### டெவோனை சுற்றியுள்ள பகுதிகள் பகலில் இருண்டன
 
@@ -1721,103 +1829,5 @@ The training culminated in a formal handover ceremony of drug testing equipment,
 ◼️
 
 [Data](articles/2f9a4bb3.json)
-
----
-
-### LAUGFS Supermarkets expands with 40th outlet at Ananda College
-
-*2025-07-21 03:23:40* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Supermarkets-expands-with-40th-outlet-at-Ananda-College/34-779230) · `en`
-
-LAUGFS Supermarkets, a subsidiary of LAUGFS Holdings, has announced the opening of its 40th outlet at Ananda College, Colombo. This milestone reflects LAUGFS Supermarkets’ continued commitment to delivering convenient and quality retail solutions across Sri Lanka.
-
-Strategically located adjacent to the swimming pool complex, the newly opened LAUGFS SuperMart is designed to cater to the Ananda College community as well as the surrounding neighbourhoods. The store offers a wide selection of groceries, daily essentials, and fresh products, bringing enhanced accessibility and convenience to students, staff, and residents alike.
-
-...
-
-[Data](articles/63fe516c.json)
-
----
-
-### Sri Lanka Business Council UAE Chairman meets CH17 Loyalty CEO
-
-*2025-07-21 03:19:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Business-Council-UAE-Chairman-meets-CH17-Loyalty-CEO/34-779229) · `en`
-
-Sri Lanka Business Council UAE – Dubai and Northern Emirates Chairman Suren Swaminathan (left) with CH17 Loyalty Founder and CEO Jumar Preena
-
-Discuss plans for introduction of smart multi-facility privilege program for Council membership
-
-Sri Lanka Business Council (SLBC) UAE – Dubai and Northern Emirates Chairman Suren Swaminathan, who was on a brief visit to Colombo met with CH17 Loyalty Founder and CEO Jumar Preena recently.
-
-The meeting centred around strategic collaboration to implement a multi-facility membership privilege program exclusively for the Business Council membership.
-
-During the meeting, Preena also outlined CH17’s intention to launch the first-ever dual-country rewards and privilege program tailored for the Sri Lankan expatriate community in the UAE.
-
-...
-
-[Data](articles/37cd916b.json)
-
----
-
-### Trinasolar partners Solaris Energy to deliver 25MWp of utility-scale solar across Sri Lanka
-
-*2025-07-21 03:18:28* · [`dailyftlk`](https://www.ft.lk/business/Trinasolar-partners-Solaris-Energy-to-deliver-25MWp-of-utility-scale-solar-across-Sri-Lanka/34-779228) · `en`
-
-Trinasolar, a global leader in smart PV and energy storage solutions, signed a Memorandum of Understanding (MoU) with Solaris Energy Ltd., a leading solar distributor in Sri Lanka, to collaborate on the supply and deployment of 25 megawatt-peak (MWp) of solar modules across the country. The agreement was formalised at SNEC 2025 in Shanghai, the world’s largest solar industry exhibition.
-
-The strategic partnership reflects Trinasolar’s growing commitment to the South Asian market, while providing invaluable support for Sri Lanka’s national goal of accelerating the shift toward clean and sustainable energy. Under the MoU, Solaris Energy will nominate Trinasolar as one of its subcontractors for utility-scale solar projects in Sri Lanka, subject to definitive agreements.
-
-...
-
-[Data](articles/7a761b06.json)
-
----
-
-### Who’s trying to derail power sector reforms?
-
-*2025-07-21 03:11:06* · [`dailyftlk`](https://www.ft.lk/columns/Who-s-trying-to-derail-power-sector-reforms/4-779226) · `en`
-
-Sri Lanka, too, must consider transitioning to a more market-driven approach to reduce costs and lower electricity tariffs for consumers
-
-Looking ahead, the most logical and prudent path forward is to allow private investment in distribution and existing generation assets only after a two-year period of stabilisation and institutional strengthening. This phased approach ensures transparency, builds investor confidence, and protects public interest, especially in a sector as vital as electricity
-
-The reform of the power sector and the restructuring of the Ceylon Electricity Board (CEB) were key election promises made by the current NPP Government. This initiative stands as one of their flagship projects and is progressing well, staying on track as planned.
-
-...
-
-[Data](articles/434ed497.json)
-
----
-
-### Global shocks and  Sri Lanka’s road to recovery
-
-*2025-07-21 03:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Global-shocks-and-Sri-Lanka-s-road-to-recovery/4-779224) · `en`
-
-Sri Lanka’s future depends on how far it could create an innovation economy by using its existing resources and drawing on inventions and innovations made elsewhere
-
-It is not knowledge per se that would usher prosperity to Sri Lanka. It is the conversion of knowledge into marketable goods and services through innovation, spread of the information on innovation through diffusion and imitation of such innovators that would bring a continuous high economic growth to a country. Hence, the role of the Government is to create an environment conducive for invention, innovation, diffusion and imitation. This is where Sri Lanka falls behind many nations in the world as revealed by the latest Global Innovation Index or GII published by Cornell University, INSEAD and World Intellectual Property Organisation for 2023
-
-Keynote at Economic and Taxation Symposium 2025 of ICASL – Part II
-
-...
-
-[Data](articles/598f8596.json)
-
----
-
-### 2025-07-20 (Sunday)
-
-### ஆடை மற்றும் இறப்பர் தொழிற்சாலைகளை பாதுகாக்க நடவடிக்கை - அமைச்சர் சமன்த வித்தியாரத்ன
-
-*2025-07-20 23:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220499) · `ta`
-
-அமெரிக்காவின் தீர்வை வரி அதிகரிப்பால் ஆடை மற்றும் இறப்பர் தொழிற்சாலைகள் வீழ்ச்சியடையாமல் பாதுகாக்க தேவையான நடவடிக்கைகளை அரசாங்கம் எடுக்கும் என பெருந்தோட்ட மற்றும் உட்கட்டமைப்பு வசதிகள் அமைச்சர் சமன்த வித்தியாரத்ன தெரிவித்தார்.
-
-பெருந்தோட்ட அமைச்சில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-அமெரிக்காவின் வரி அதிகரிப்பால் அமெரிக்காவுக்கு  பிரதானமாக  ஏற்றுமதி செய்யும் ஆடை மற்றும் இறப்பர் உற்பத்திகளுக்கு ஓரளவேனும் பாதிப்பு ஏற்படும் என நாங்கள் நம்புகிறோம். என்றாலும் ஏற்கனவே 44 வீதமாக அதிகரிக்கப்பட்ட வரி வரியை 30 வீதமாக குறைத்துக்கொள்ள எங்களுக்கு முடியுமாகியுள்ளபோதும் அது போதுமானதல்ல. அதனால் இந்த வரி அதிகரிப்பை மேலும் குறைத்துக்கொள்ள தேவையான பேச்சுவார்த்தைகளை நாங்கள் ஆரம்பித்திருக்கிறோம்.
-
-...
-
-[Data](articles/3662f271.json)
 
 ---

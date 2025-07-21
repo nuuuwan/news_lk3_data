@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 16:47:32**
+As of **2025-07-21 17:07:16**
 
 ## Newspaper Stats
 
-*Scraped **65,900** Articles*
+*Scraped **65,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,027
 islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
-adalk | 6,326
+adalk | 6,327
 adaderanalk | 8,059
-tamilmirrorlk | 9,462
+tamilmirrorlk | 9,463
 virakesarilk | 10,980
 adaderanasinhalalk | 11,323
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.0%) of 65,900 articles have been extended.
+61,973 (94.0%) of 65,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### ”நிலந்தவுக்கு மரண தண்டனை விதிப்பதை திருச்சபை விரும்பவில்லை”
+
+*2025-07-21 16:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-மரண-தண்டனை-விதிப்பதை-திருச்சபை-விரும்பவில்லை/175-361471) · `ta`
+
+பொலிஸ் சேவையிலிருந்து நீக்கப்பட்ட டிஐஜி நிலந்த ஜெயவர்தனவுக்கு மரண தண்டனை விதிக்கப்பட வேண்டும் என்று இலங்கை கத்தோலிக்க திருச்சபையின் வெகுசன ஊடக தொடர்பு பணிப்பாளர் அருட்தந்தை ஜூட் கிருஷாந்த கூறிய கருத்தை மேற்கோள் காட்டி, கொழும்பு மறைமாவட்டத்தின் தகவல் தொடர்பு பணிப்பாளர் அருட்தந்தை சிரில் காமினி பெர்னாண்டோ, அது கத்தோலிக்க திருச்சபையின் உத்தியோகபூர்வ நிலைப்பாடு அல்ல என்று இன்று தெரிவித்தார்.
+
+"ஞாயிற்றுக்கிழமை தனது சொந்தக் கருத்தை மட்டுமே கூறியதாக அருட்தந்தை ஜூட் எங்களிடம் தெரிவித்தார். அருட்தந்தை இதுகுறித்து வருத்தம் தெரிவித்தார், மேலும் இந்த விஷயத்தில் எந்தப் பிரச்சினையும் இல்லை" என்று அருட்தந்தை பெர்னாண்டோ கூறினார்.
+
+"இலங்கையில் உள்ள கத்தோலிக்க திருச்சபை மற்றும் உலகளாவிய கத்தோலிக்க திருச்சபை மரண தண்டனையை ஆதரிக்கவில்லை," என்று அவர் வலியுறுத்தினார்.
+
+"உயர் நீதிமன்ற உத்தரவு மற்றும் 2019 ஈஸ்டர் ஞாயிறு குண்டுவெடிப்புகளை விசாரித்த ஜனாதிபதி ஆணையத்தின் பரிந்துரைகளைத் தொடர்ந்து, டி.ஐ.ஜி ஜெயவர்தனே பொலிஸ் ஆணையத்தால் வெளியேற்றப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/3dae94c8.json)
+
+---
 
 ### ஜனாதிபதிக்கும் ஐ.எம்.எப்  பிரதிநிதிகளுக்கும் இடையில் சந்திப்பு
 
@@ -253,6 +271,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/09e1ddb3.json)
+
+---
+
+### බංග්ලාදේශයේ ගුවන් යානයක් පාසලකට කඩා වැටෙයි
+
+*2025-07-21 15:18:38* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශයේ-ගුවන්-යානයක්-පාසලකට-කඩා-වැටෙයි/11-417424) · `si`
+
+බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් යානයක් ඩකා හී පිහිටි පාසලකට කඩා වැටී තිබේ.
+
+පුහුණුවීම් කටයුතු නිරතවෙමින් සිටියදී මෙම ගුවන් යානය කඩා වැටී ඇති අතර, අනතුරින් එක් අයෙකු ජීවිතක්ෂයට පත්ව තවත් සිව් දෙනෙකු තුවාල ලබා ඇත.
+
+◼️
+
+[Data](articles/39054aca.json)
 
 ---
 
@@ -1805,37 +1837,5 @@ A bond maturing on 15.03.2031 was quoted at 10.00/20 percent. (Colombo/July21/20
 ◼️
 
 [Data](articles/8ac3ab35.json)
-
----
-
-### அதிகாலையில் நேருக்கு நேர் மோதிய பேருந்துகள் : 25 பேர் படுகாயம்
-
-*2025-07-21 08:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-நேருக்கு-நேர்-மோதிய-பேருந்துகள்-25-பேர்-படுகாயம்/175-361429) · `ta`
-
-கேகாலை - கலிகமுவ பகுதியில் இன்று அதிகாலை, இ.போ.ச பேருந்தும் தனியார் பேருந்தும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் சுமார் 25 பேர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-வெரகொடவில் இருந்து கேகாலை நோக்கி பயணித்த இ.போ.ச பேருந்தும், கேகாலையில் இருந்து இரத்தினபுரி ​நோக்கி பயணித்த தனியார் பேருந்துமே இவ்வாறு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தில் காயமடைந்த அனைவரும் கேகாலை மற்றும் வரகாபொல வைத்தியசாலைகளில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/5475597f.json)
-
----
-
-### Over 20 injured as buses collide in Galigamuwa
-
-*2025-07-21 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110672/over-20-injured-as-buses-collide-in-galigamuwa) · `en`
-
-Over 20 individuals have been injured and hospitalized following a head-on collision between a private bus and a Sri Lanka Transport Board (SLTB) bus in Galigamuwa, Kegalle, early this morning (21), police said.
-
-According to reports, a private bus traveling from Kegalle to Ratnapura and an SLTB bus traveling from Weragoda to Kegalle collided in the Galigamuwa area, which falls under the jurisdiction of the Kegalle Police Division.
-
-Around 21 passengers from both buses sustained injuries and were immediately admitted to the Kegalle and Warakapola Hospitals for treatment, according to police.
-
-◼️
-
-[Data](articles/c3286c18.json)
 
 ---

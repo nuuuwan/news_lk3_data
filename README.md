@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-21 09:50:11**
+As of **2025-07-21 10:13:24**
 
 ## Newspaper Stats
 
-*Scraped **65,798** Articles*
+*Scraped **65,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ islandlk | 4,028
 dailyftlk | 4,661
 dailymirrorlk | 4,733
 adalk | 6,316
-adaderanalk | 8,044
-tamilmirrorlk | 9,431
-virakesarilk | 10,962
-adaderanasinhalalk | 11,303
+adaderanalk | 8,045
+tamilmirrorlk | 9,432
+virakesarilk | 10,963
+adaderanasinhalalk | 11,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (94.2%) of 65,798 articles have been extended.
+61,973 (94.2%) of 65,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-21 (Monday)
+
+### ගාසා තීරයේ සිටි 67 දෙනෙකු ඝාතනය කරයි
+
+*2025-07-21 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212458) · `si`
+
+එක්සත් ජාතීන්ගේ මානුෂිය ආධාර බලාපොරොත්තුවෙන් උතුරු ගාසා තීරයේ සිටි පුද්ගලයින් 67 දෙනෙකු ඝාතනය කර ඇති බව හමාස් සංවිධානයේ සෞඛ්‍ය අංශ පවසයි.
+
+එක්සත් ජාතීන්ගේ ලෝක ආහාර සංවිධානය පවසා ඇත්තේ මානුෂිය ආධාර රැගත් රථ එම ප්‍රදේශයට ලඟා වන විට වෙඩි වැදීමට ලක්වු සිවිල් වැසියන් පිරිසක් හමුවු බවය.
+
+මේ සම්බන්ධයෙන් ඊශ්‍රායල හමුදාව පවසා ඇත්තේ ක්ෂණිකව ඇති වු තර්ජනයක් මැඩපැවැත්වීම වෙනුවෙන් එම වෙඩි තැබීම සිදුකළ බවය.
+
+ගාසා තීරයේ ජීවත්වන දහස් ගණනක් වු සිවිල් වැසියන්ට ආහාර සපයා ගැනීමට නොහැකි වීමෙන් ඔවුන්ගේ ජීවිතවලට දැඩි තර්ජනයක් එල්ල වී ඇති බව හමාස් සංවිධානයේ සෞඛ්‍ය අංශ පෙන්වා දී ඇත.
+
+ඒ අනුව ඔවුන්ට අවශ්‍ය අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ලබා දෙන ලෙස ගාසා හී සෞඛ්‍ය අංශ එක්සත් ජාතීන්ගේ සංවිධානයෙන් ඉල්ලීමක්ද සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/ae21e5c9.json)
+
+---
+
+### கோழி இறைச்சியின் விலையில் திடீர் மாற்றம்
+
+*2025-07-21 09:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலையில்-திடீர்-மாற்றம்/175-361434) · `ta`
+
+தற்போது கோழி இறைச்சியின் விலை அதிகரித்து, ஒரு கிலோகிராம் கோழி இறைச்சி 1,300 ரூபாவை விட அதிக விலைக்கு விற்பனை செய்யப்பட்டு வருகிறது.
+
+எனவே, கோழி இறைச்சிக்கு உரிய விலையை நிர்ணயித்து விற்பனை செய்வதுடன், விலையையும் குறைக்குமாறு நுகர்வோர் கோரிக்கை விடுத்துள்ளனர்.
+
+அத்துடன், வார இறுதியில் கோழி இறைச்சியின் விலை ஓரளவு அதிகரித்துள்ளதை  இலங்கை கால்நடை உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் அஜித் குணசேகர  உறுதி செய்துள்ளார். R
+
+◼️
+
+[Data](articles/58fb5a92.json)
+
+---
+
+### கொள்ளுப்பிட்டி இரவுநேர களியாட்ட விடுதியில் துப்பாக்கிப் பிரயோகத்தை மேற்கொள்ளவந்தவர் துப்பாக்கியை போட்டுவிட்டு தப்பியோட்டம் !
+
+*2025-07-21 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220506) · `ta`
+
+கொழும்பு, கொள்ளுப்பிட்டியில் இரவு நேர களியாட்ட விடுதி ஒன்றில் சனிக்கிழமை (19) இரவு துப்பாக்கிப் பிரயோக முயற்சி முறியடிக்கப்பட்டது.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் தற்போது மரண தண்டனை அனுபவித்து வரும் 'தெமட்டகொடை சமிந்த'வின் சகோதரர் 'தெமட்டகொடை ருவனை' இலக்கு வைத்து இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட இருந்ததாக தெரியவந்துள்ளது.
+
+சமிந்த பல்வேறு குற்றச் செயல்களில் ஈடுபட்டதாக சந்தேகிக்கப்படுகிறது. இரவுநேர விடுதிக்கு அடிக்கடி சென்று வரும் தெமட்டகொடை ருவான் சம்பவத்தன்று வழக்கத்திற்கு மாறாக சற்று தாமதமாக சென்றுள்ளார்.
+
+இந்நிலையில், துப்பாக்கிப் பிரயோகத்தை மேற்கொள்ள சென்றவர் ருவான் வருகை தந்துள்ளாரா என தெரிந்து கொள்ள விடுதியின் வளாகத்திற்குள் நுழைய முயன்றுள்ளார்.
+
+இதன்போது, சந்தேக நபருக்கும்  விடுதியின் நுழைவாயிலில் இருந்த பாதுகாப்பு காவலருக்கும் இடையே தகராறு ஏற்பட்டுள்ளது.
+
+பின்னர், துப்பாக்கிப் பிரயோகத்தை நடத்த வந்தவர் தான் வைத்திருந்த T-56 துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு தனது சகாவுடன்  தப்பிச் சென்றுள்ளார்.
+
+...
+
+[Data](articles/b8158d08.json)
+
+---
 
 ### இன்று வானிலையில் ஏற்படவுள்ள மாற்றம்
 
@@ -63,6 +121,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5475597f.json)
+
+---
+
+### Over 20 injured as buses collide in Galigamuwa
+
+*2025-07-21 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110672/over-20-injured-as-buses-collide-in-galigamuwa) · `en`
+
+Over 20 individuals have been injured and hospitalized following a head-on collision between a private bus and a Sri Lanka Transport Board (SLTB) bus in Galigamuwa, Kegalle, early this morning (21), police said.
+
+According to reports, a private bus traveling from Kegalle to Ratnapura and an SLTB bus traveling from Weragoda to Kegalle collided in the Galigamuwa area, which falls under the jurisdiction of the Kegalle Police Division.
+
+Around 21 passengers from both buses sustained injuries and were immediately admitted to the Kegalle and Warakapola Hospitals for treatment, according to police.
+
+◼️
+
+[Data](articles/c3286c18.json)
 
 ---
 
@@ -218,7 +292,7 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 *2025-07-21 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212454) · `si`
 
-අනුරාධපුර භික්ෂු විශ්වවිද්‍යාලයේ හිටපු ජ්‍යෙෂ්ඨ කථිකාචාර්ය, වයඹ ඇත්කඳ රජමහා විහාරාධිපති, ආනමඩුවේ ශ්‍රී ධම්මදස්ස්‍යභිධාන මහා විහාරවංශික ස්‍යාමෝපාලි මහා නිකායේ අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක පුජ්‍ය ආනමඩුවේ ධම්මදසිස් හිමියන් අපවත් වී තිබේ.
+අනුරාධපුර භික්ෂු විශ්වවිද්‍යාලයේ හිටපු ජ්‍යෙෂ්ඨ කථිකාචාර්ය, වයඹ ඇත්කඳ රජමහා විහාරාධිපති, ආනමඩුවේ ශ්‍රී ධම්මදස්ස්‍යභිධාන මහා විහාරවංශික ස්‍යාමෝපාලි මහා නිකායේ අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක පුජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමියන් අපවත් වී තිබේ.
 
 හෘදයාබාධයක් හේතුවෙන් පෞද්ගලික රෝහලකට ඇතුළත්කර ප්‍රතිකාර ලබමින් සිටිය දී ඊයේ (20) රාත්‍රියේ උන්වහන්සේ අපවත් වී ඇති බව සඳහන්ය.
 
@@ -1703,79 +1777,5 @@ Among them, 261,681 individuals are from India, 118,555 from the UK and 113,888 
 ◼️
 
 [Data](articles/48fb12b9.json)
-
----
-
-### MP Jagath Vithana’s son remanded
-
-*2025-07-20 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110657/mp-jagath-vithanas-son-remanded-) · `en`
-
-The son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit yesterday, has been remanded.
-
-Rasika Withana has been remanded until August 1 by the Matugama Magistrate.
-
-He was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
-
-Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
-
-Acting on intelligence that the vehicle was being driven in Matugama, officers launched a special operation in the area last afternoon. During the operation, the suspect who was driving the jeep was taken into custody along with the vehicle.
-
-Subsequently, Rasika Withana was handed over to the Matugama Police.
-
-...
-
-[Data](articles/6fc0eda3.json)
-
----
-
-### තීරු බදු රහිතව ගෙන ආ දුම්වැටි තොගයක් සමඟ විදේශිකයෙකු අත්අඩංගුවට
-
-*2025-07-20 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212440) · `si`
-
-තීරු බදු රහිතව මෙරටට රැගෙන එන ලද දුම්වැටි 600ක් ළඟ තබාගෙන සිටි විදේශිකයෙකු කොල්ලුපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-කොල්ලුපිටිය පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත රොටුන්ඩා උද්‍යානය පෙදෙසේදී සිදු කළ විශේෂ වැටලීමකදී මෙම දුම්වැටි තොගය සොයා ගෙන ඇත.
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 40ක් වන චීන ජාතිකයෙකි.
-
-◼️
-
-[Data](articles/360e2cad.json)
-
----
-
-### தென் கொரியாவில் வெள்ளம் ; 14 பேர் உயிரிழப்பு
-
-*2025-07-20 14:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரியாவில்-வெள்ளம்-14-பேர்-உயிரிழப்பு/50-361410) · `ta`
-
-தென் கொரியாவில் பல நாட்களாக பெய்து வரும் மழையால் ஏற்பட்ட வெள்ளம் மற்றும் நிலச்சரிவுகளில் குறைந்தது 14 பேர் உயிரிழந்துள்ளதாக அந்நாட்டின் பேரிடர் மேலாண்மை அலுவலகம் தெரிவித்துள்ளது.
-
-அவசரகால மீட்புப் பணிகள் தொடர்வதால் இறப்பு எண்ணிக்கை அதிகரிக்கக்கூடும் என்ற அச்சம் உள்ளது, 12 பேர் காணாமல் போயுள்ளதாக கூறப்படுகிறது.
-
-ஞாயிற்றுக்கிழமை நிலச்சரிவால் பாதிக்கப்பட்ட ரிசார்ட் நகரமான கேபியோங்கில் மக்கள் சேதமடைந்த பாலத்தின் வழியாக வெளியேற்ற முகாம்களுக்குச் செல்லும் போது அடர்ந்த சேற்றில் நடந்து செல்வதை காட்சிகள் காட்டுகின்றன.
-
-மேலும் தெற்கே, மத்திய சுங்சியான் பகுதியில் ஏற்பட்ட நிலச்சரிவைத் தொடர்ந்து ஒரு முழு கிராமமும் மண் மற்றும் குப்பைகளால் மூடப்பட்டிருந்தது, சனிக்கிழமை வெளியான வீடியோ காட்சிகள் தெரிவிக்கின்றன.
-
-நாட்டின் தெற்கில் பெரும்பாலான அழிவு ஏற்பட்டுள்ளது, ஆறு பேர் கொல்லப்பட்டனர் மற்றும் சான்சியோங்கில் ஏழு பேர் காணாமல் போயுள்ளனர்.
-
-ஆயிரக்கணக்கான சாலைகள் மற்றும் கட்டிடங்கள் சேதமடைந்து வெள்ளத்தால் மூழ்கியுள்ளன, விவசாய நிலங்கள் சேதமடைந்துள்ளதாகவும், கால்நடைகள் பரவலாக இறந்துள்ளதாகவும் தகவல்கள் தெரிவிக்கின்றன.
-
-...
-
-[Data](articles/51b8e96d.json)
-
----
-
-### මීමුරේ අනතුරින් මිය ගිය සංඛ්‍යාව හතර දක්වා ඉහළට
-
-*2025-07-20 14:50:23* · [`adalk`](https://www.ada.lk/breaking_news/මීමුරේ-අනතුරින්-මිය-ගිය-සංඛ්‍යාව-හතර-දක්වා-ඉහළට/11-417403) · `si`
-
-හුන්නස්ගිරිය මීමුරේ ප්‍රාද්ශයේදි ඊයේ 19  වන දින සවස වැන් රථයක් පෙරළීමෙන්  සිදු  වු රිය අනතුරින් මිය ගිය සංඛ්‍යාව හතර දක්වා ඉහළ ගොස් ඇති බව පොලීසිය කියයි.
-
-මෙම අනතුරින් මිය ගොස් ඇත්තේ වත්තල හැඳල පදිංචි එන්.ජි.ඉන්ද්‍රරත්ත (33)  මල්කි සුපුන්දිකා ප්‍රනාන්දු  (30)  කඩවත වෑබඩ පදිංචි ඉසුර්න්දි ශසිකලා  පෙරේරා (28)සහ මීරිගම පදිංචි මල්කි අප්සරා ඉලුප්පත  (29)  යන සිව් දෙනායි මෙම සිව් දෙනාගේ මරණ පරීක්ෂණය  මැදදුම්බර තෙල්දෙණිය හදිසි මරණ පරික්ෂක පී.⁣කේ. අබේරත්න මහතා ව්සින් තෙල්දෙණිය රෝහලේදි පැවැත්විණ.
-
-◼️
-
-[Data](articles/00ec0636.json)
 
 ---

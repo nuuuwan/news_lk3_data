@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 04:32:25**
+As of **2025-07-23 04:48:07**
 
 ## Newspaper Stats
 
-*Scraped **66,221** Articles*
+*Scraped **66,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,525
-virakesarilk | 11,040
+tamilmirrorlk | 9,528
+virakesarilk | 11,041
 adaderanasinhalalk | 11,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,221 articles have been extended.
+61,973 (93.6%) of 66,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### ’வாயைக் கொடுத்து  வாங்கிக் கொள்ளாதீர்’
+
+*2025-07-23 04:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாயைக்-கொடுத்து-வாங்கிக்-கொள்ளாதீர்/175-361577) · `ta`
+
+வெள்ளை வேன் கடத்தல்காரர்களையும் படுகொலையாளிகளையும் பாதுகாத்தவர்கள் ராஜபக்‌ஷக்கள். எனவே, எம்மிடம் வாய் கொடுத்து வாங்கிக் கட்டிக்கொள்ள வேண்டாம் என  தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க நாமல் ராஜபக்‌ஷவை எச்சரித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (22)  அன்று நடைபெற்ற விவாதத்தில்  தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க  உரையாற்றிக் கொண்டிருந்த போது, ராதாகிருஷ்ணன் எம்.பி. ஒழுங்குப் பிரச்சினை ஒன்றை எழுப்பினார்.
+
+அதை பெரிதாக செவிமடுக்காத தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்ஹ, சஜித் பிரேமதாச, நாமல் ராஜபக்‌ஷ, தயாசிறி ஜயசேகர, நீ்ங்கள் எல்லோரும் கொழும்பு மாநகர சபை ஆட்சியை கைப்பற்ற ஒன்றிணைந்தீர்கள்.  ஊடக் சந்திப்புகளை நடத்தினீர்கள். எதிர்கால நண்பர்களாகினீர்கள் என்றார்.
+
+...
+
+[Data](articles/1132b2ab.json)
+
+---
+
+### மின்சார சபை சட்ட மூலத்திற்கு எதிர்ப்புத் தெரிவித்து மின்சார தொழிற்சங்கள் பணிப்புறக்கணிப்பு; சபைக்கு முன்பாக ஆர்ப்பாட்டம்
+
+*2025-07-23 04:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/220689) · `ta`
+
+இலங்கை மின்சார சபை மறுசீரமைப்பு திருத்தச் சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்து செவ்வாய்க்கிழமை (22) நாடளாவிய ரீதியில் உள்ள மின்சார சபை தொழிற்சங்கங்கள் சுகயீன விடுமுறை தொழிற்சங்க நடவடிக்கையை முன்னெடுத்திருந்தன. இதனால் மின்சார சபை அலுவலகங்களில் சேவையை பெற்றுக்கொள்ள வருகைததத்தந்திருந்த பெருமளவான பொதுமக்கள் அசௌகரியங்களுக்கு முகம் கொடுத்திருந்தனர்.
+
+மேலும் உத்தேசிக்கப்பட்டுள்ள மின்சார சபை மறுசீரமைப்பு திருத்தச் சட்டத்தை மீள பெறுமாறு வலியுறுத்தியும் தமது தொழில் பாதுகாப்பை உறுதிப்படுத்துமாறு  கோரியும் மின்சார சபையின் 28 தொழிற்சங்கங்களை சேர்ந்த ஊழியர்கள் செவ்வாய்க்கிழமை (22)  கொழும்பில் அமைந்துள்ள இலங்கை மின்சார சபைக்கு முன்பாக எதிர்ப்பு ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/5ae4871f.json)
+
+---
+
+### வெலிக்கடை புதைக்குழி எங்கே?
+
+*2025-07-23 04:23:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிக்கடை-புதைக்குழி-எங்கே/175-361576) · `ta`
+
+1983 ஆம் ஆண்டு இதே மாதம் வெலிக்கடை சிறையில் வைத்து படுகொலை செய்யப்பட்டவர்கள் தொடர்பிலும்  அரசு விசாரணைகளை ஆரம்பிக்க வேண்டும் அவர்கள் புதைக்கப்பட்ட  புதைக்குழி எங்கே உள்ளதெனவும் அரசு  கண்டுபிடிக்க வேண்டுமென  தமிழீழ விடுதலை  இயக்கத்தின் (ரெலோ) தலைவரும் ஜனநாயக தமிழ் தேசிய  கூட்டணியின் வன்னி மாவட்ட எம்.பி.யுமான செல்வம் அடைக்கலநாதன் வலியுறுத்தினார்
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22)  நடைபெற்ற  விவாதத்தில்   உரையாற்றிய போதே  இவ்வாறு வலியுறுத்திய   அவர் மேலும் பேசுகையில்,
+
+இந்த மாதம் ஜூலை மாதம் .வெலிக்கடை சிறையில் எம்மவர்கள் படுகொலை செய்யப்பட்ட மாதம். தமிழினத்தின் விடுதலைக்காக ,உரிமைக்காக முதலில் ஆயுதம் எடுத்து போராடிய தலைவர் தங்கதுரை, குட்டிமணி போன்றோர் பருத்தித்துறை மணற்காடு கடற்கரையில் 1981 சித்திரை மாதம் 5 ஆம் திகதி  இலங்கை  கடற்படையால் கைது செய்யப்பட்டார்கள்.1983 ஜூலை மாதம்  25,27 ஆம் திகதிகளில்   தமிழ் அரசியல் கைதிகள், பொதுமக்கள் என 53 பேர்  கொடூரமாக படுகொலை செய்யப்பட்டார்கள்.
+
+...
+
+[Data](articles/2589d775.json)
+
+---
 
 ### 1983 வெலிக்கடை சிறை படுகொலைக்கான புதைக்குழி எங்கே? அரசு விசாரணையை ஆரம்பிக்க வேண்டும் - அடைக்கலநாதன் வலியுறுத்தல்
 
@@ -45,6 +91,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/72e6688a.json)
+
+---
+
+### மன்னார் - இராமேஸ்வரம் கப்பல் சேவைகளை  ஆரம்பிக்கவும்
+
+*2025-07-23 04:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-இராமேஸ்வரம்-கப்பல்-சேவைகளை-ஆரம்பிக்கவும்/175-361575) · `ta`
+
+மன்னார் - இராமேஸ்வரம் இடையில் பயணிகள் கப்பல் சேவைகளை ஆரம்பிப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என்று சபையில் கோரிக்கை முன்வைக்கப்பட்டது.
+
+பாராளுமன்றத்தில்  போக்குவரத்து அமைச்சிடம் செவ்வாய்க்கிழமை (22) அன்று   கேள்வியெழுப்பி உரையாற்றும் போது, ஜனநாயக தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் மற்றும் இலங்கை தமிழரசுக் கட்சி பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் ஆகியோரே இந்த கோரிக்கையை முன்வைத்தனர்.
+
+இதன்போது செல்வம் எம்.பி கூறுகையில், இலங்கை - இந்திய நாடுகளுக்கு இடையில் பயணிகள் படகு சேவையை ஆரம்பித்தல் விடயத்தில் தலைமன்னார் - இராமேஸ்வரம் இடையே படகு சேசையை ஆரம்பிப்பது தொடர்பில் நீண்ட நாட்களாக பேசப்படுகின்றது.
+
+இந்தியாவும் இதனை முன்னெடுத்துச் செல்ல தயாராக இருக்கின்றது. இது தொடர்பில் இலங்கை அரசாங்கம் என்ன நிலைப்பாட்டில் இருக்கின்றது என்றார்.
+
+...
+
+[Data](articles/c6a1d060.json)
 
 ---
 
@@ -1707,83 +1771,5 @@ Meanwhile, during special raids conducted on July 20, two firearms were seized.
 ...
 
 [Data](articles/3c97da11.json)
-
----
-
-### World Health Organization condemns Israeli attacks on facilities in Gaza
-
-*2025-07-22 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110736/world-health-organization-condemns-israeli-attacks-on-facilities-in-gaza) · `en`
-
-The World Health Organization (WHO) says Israel’s ground offensive in central Gaza has compromised its efforts to continue working, after its facilities came under attack.
-
-The UN agency accused Israeli forces of attacking a building housing its staff and their families in the city of Deir al-Balah on Monday and mistreating those sheltering there. Its main warehouse was also attacked and destroyed.
-
-Its first major ground operation in Deir al-Balah since the start of the war with Hamas 21 months ago has displaced tens of thousands of Palestinian civilians, amid warnings of a severe hunger crisis across the territory.
-
-The UN said on Monday it was receiving reports of malnourished people arriving at clinics and hospitals in extremely poor health, while the Hamas-run health ministry said 19 people had died from malnutrition since Saturday.
-
-...
-
-[Data](articles/c34d8b84.json)
-
----
-
-### கொல்லப்பட்ட நிலையில் யானைகளின் உடல்கள்
-
-*2025-07-22 16:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொல்லப்பட்ட-நிலையில்-யானைகளின்-உடல்கள்/175-361536) · `ta`
-
-தம்புள்ளை, இனாமலுவ காப்புக் காட்டில் சுமார் ஒரு மாதத்திற்கு முன்பு இறந்ததாக சந்தேகிக்கப்படும் ஒரு கொம்பன் யானை மற்றும் ஐந்து யானைகளின் உடல்கள் சிதறி கிடப்பதாக அப்பகுதி மக்கள் கூறுகின்றனர்.
-
-கொம்பன்  மற்றும் இரண்டு யானைகளின் உடல்கள் இருக்கும் இடங்களை அப்பகுதியைச் சேர்ந்த மக்கள் செவ்வாய்க்கிழமை (22) அன்று  ஊடகவியலாளர்களுக்கு காட்டியுள்ளனர்.
-
-மீதமுள்ள மூன்று யானைகளின்  உடல்கள் இருக்கும் இடங்களுக்கு செல்லும் பாதையில் பொறித் துப்பாக்கி பொருத்தப்பட்டிப்பட்டிருப்பதாக தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/5b242b84.json)
-
----
-
-### Sri Lanka stocks close up 0.25 as US tariff talks set to resume
-
-*2025-07-22 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-25-as-us-tariff-talks-set-to-resume-232149/) · `en`
-
-ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) moved 0.25 percent higher hitting a fresh high, data on its site showed.
-
-The index rose 47.85 points, to 19,091.93, on Tuesday; while the S&P SL20 index of more liquid stocks climbed 0.19 percent, or 10.63 points, to close at 5,657.62.
-
-Turnover marginally rose to 5.9 billion rupees; while the share volume was 203,830,809.
-
-The ASPI was pushed up by DFCC which ended 8.75 rupees stronger at 135.50; NDB which rose 3.00 rupees to 127.50; Access Engineering which ended 1.70 rupees up at 61.90; HNB which moved 1.75 rupees up to 357.75; and Lanka Ashok Layland which closed 334.75 rupees higher at 2,534.50.
-
-Sri Lanka is set to have another round of tariff talks this week, after one round of discussions, to reduce a Trump tariff of 30 percent, official sources said before a deadline of August 01, as other South Asian nations also try to do the same.
-
-Sri Lanka to have another round of Trump tariff talks with US after progress
-
-...
-
-[Data](articles/2de6aec3.json)
-
----
-
-### ශ්‍රේෂ්ඨාධිකරණය හමුවේ සංචාරක සංවර්ධන අධිකාරිය දුන් පොරොන්දුව
-
-*2025-07-22 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212520) · `si`
-
-නීති විරෝධී අන්දමින් සංචාරක මාර්ග උපදේශන කටයුතුවල නිරත සංචාරක මාර්ග උපදේශකයන්ට එරෙහිව කඩිනමින් නීතිමය පියවර ගන්නා බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය විසින් අද (23) ශ්‍රේෂ්ඨාධිකරණය හමුවේ පොරොන්දු වී තිබේ.
-
-ග්‍රී ලංකා සංචාරක මාර්ග උපදේශක කථිකාචාර්යවරුන්ගේ සංගමය විසින් ගොනු කොට තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් කැඳවනු ලැබු අවස්ථාවේදී
-
-ලංකා සංචාරක සංවර්ධන අධිකාරිය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් ආචාර්ය අවන්ති පෙරේරා මහත්මිය මෙම දැනුම්දීම සිදු කළාය.
-
-මෙම පෙත්සම අද එස්.තුරෙයි රාජා, මහින්ද සමයවර්ධන සහ මේනකා විජේසුන්දර යන මහත්ම මහත්මීන් ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ  සලකා බලනු ලැබීය.
-
-මෙම පෙත්සම කැඳවු අවස්ථාවේදී පෙත්සම්කාර සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ රවින්ද්‍රනාත් දාබරේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් නීති විරෝධී සංචාරක මාර්ග උපදේශකයින් හේතුවෙන් සංචාරක කර්මාන්තය බිඳ වැටි සම්පූර්ණයෙන්ම විදෙස් වීනිමය රටට අහිමි වෙන තත්ත්වයක් උද්ගත වී තිබෙන බවය.
-
-මෙම තත්ත්වය වැළැක්වීම සඳහා වගඋත්තරකරුවන් සුදුසු පියවර ගතයුතු බවත් ඔහු සඳහන් කර තිබේ.
-
-...
-
-[Data](articles/3fad302e.json)
 
 ---

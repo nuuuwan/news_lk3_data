@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 07:19:36**
+As of **2025-07-22 08:12:15**
 
 ## Newspaper Stats
 
-*Scraped **65,998** Articles*
+*Scraped **66,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,22 +17,42 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,335
-adaderanalk | 8,074
+adaderanalk | 8,076
 tamilmirrorlk | 9,474
 virakesarilk | 11,000
-adaderanasinhalalk | 11,337
+adaderanasinhalalk | 11,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,998 articles have been extended.
+61,973 (93.9%) of 66,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
 
-### පාර්ලිමේන්තුව අද යළි රැස්වෙයි  - පාස්කු ප්‍රහාරය ගැන විශේෂ ප්‍රකාශයක්
+### ත්‍රිවිල් කොල්ලකෑ සැකකරුවන් පිරිසක් අත්අඩංගුවට
+
+*2025-07-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212495) · `si`
+
+ත්‍රිරෝද රථ කොල්ලකෑම් රැසකට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු හා සැකකාරියක් ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (21) කහතුඩුව පොලිස් වසමේ පොල්ගස්ඕවිට ප්‍රදේශයේදී ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීමක් සිදුකර හෙරොයින් ග්‍රෑම් 06 මිලිග්‍රෑම් 700 ක් හා හෙරොයින් ග්‍රෑම් 05 මිලිග්‍රෑම් 300ක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+සැකකරුවන් සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශනයේදී මොවුන් කුලී ගමන් යන මුවාවෙන් ත්‍රිරෝද රථවල ගමන්කර රියදුරන්ගේ මුහුණුවලට මිරිස්කුඩු ගසා එම ත්‍රිරෝද රථ කොල්ලකෑම් සිදුකර ඇති බව අනාවරණය වී ඇති අතර එක් සැකකරුවෙකුගේ බිරිඳක්ද මෙම කොල්ලකෑම් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් වයස අවුරුදු 24, 27 ක් වූ කලවාන හා කහතුඩුව ප්‍රදේශවල පදිංචිකරුවන් වන අතර සැකකාරිය වයස අවුරුදු 29ක් වූ කහතුඩුව ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මොවුන් විසින් කහතුඩුව, බොරලැස්ගමුව හා මොරගහහේන පොලිස් වසම්වලදී මෙලෙස ත්‍රිරෝද රථ කොල්ලකා ඇති අතර කොල්ලකන ලද ත්‍රීරෝද රථ 04ක් ද නිලධාරීන් විසින් සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/e1042042.json)
+
+---
+
+### පාර්ලිමේන්තුව අද යළි රැස්වෙයි
 
 *2025-07-22 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212494) · `si`
 
@@ -44,9 +64,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මේ අතර ඉදිරි පාර්ලිමේන්තු සතිය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා විපක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම ඊයේ (21) පස්වරුවේ රැස්වුණි.
 
+මේ අතර හෙට දිනයේ දී ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස්වීමට නියමිතව තිබේ.
+
+කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස්වීමට නියමිත බව වාර්තා වේ.
+
+මෙහිදී නව අගවිනිසුරුවරයෙකු පත්කිරීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ යෝජනා පිළිබඳව අවධානය යොමුකිරීමට නියමිත බව සඳහන් ය.
+
+අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය ලබන 27 වන දින විශ්‍රාම යෑමට නියමිත අතර එම පුරප්පාඩුව සඳහා නව අගවිනිසුරුවරයෙකු පත්කිරීමට නියමිතය.
+
 ◼️
 
 [Data](articles/4df3f903.json)
+
+---
+
+### CEB workers to protest today against the Electricity Amendment Bill
+
+*2025-07-22 06:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110707/ceb-workers-to-protest-today-against-new-electricity-bill) · `en`
+
+Electricity workers have decided to stage a protest today against the new Sri Lanka Electricity (Amendment) Bill proposed by the government as part of the restructuring process of the electricity sector, including the Ceylon Electricity Board (CEB).
+
+The protest will be held this afternoon opposite the CEB Head Office, with workers reporting sick leave to participate, according to the Ceylon Electricity Workers Union.
+
+The Sri Lanka Electricity (Amendment) Bill is scheduled to be presented to Parliament for its second reading on Thursday (24).
+
+It has received approval from the Sectoral Oversight Committee on Infrastructure and Strategic Development.
+
+However, the electricity workers claim that the government is attempting to privatize the Ceylon Electricity Board through the proposed bill.
+
+To oppose the move, all CEB workers are expected to report sick leave and stage a protest in Colombo today, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers Union.
+
+...
+
+[Data](articles/f78c0ff1.json)
+
+---
+
+### Indigo Flight with 140 passengers on board makes emergency landing at Indore Airport
+
+*2025-07-22 06:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110706/indigo-flight-with-140-passengers-on-board-makes-emergency-landing-at-indore-airport) · `en`
+
+An IndiGo flight from Goa with 140 passengers on board made an emergency landing at the Devi Ahilyabai Holkar Airport in Indore on Monday evening following a technical alert related to its landing gear, officials said.
+
+Airport director Vipinkant Seth has stated that IndiGo Airlines flight (6E 813) from Goa received an undercarriage warning, indicating a possible issue with its landing gear. As a precaution, the aircraft remained airborne for approximately 25 minutes before landing. “Due to this warning, the aircraft landed under emergency conditions at the Indore airport. The crew and all passengers are completely safe,” he stated.
+
+Another official said information was received about an undercarriage warning, prompting declaration of ‘full emergency’ at the airport. Fire and medical teams were deployed as per the Standard Operating Procedure. The aircraft, carrying about 140 passengers, landed safely at 5:15 p.m. Its scheduled arrival time was 4:50 p.m., the official added.
+
+...
+
+[Data](articles/3efb17dc.json)
 
 ---
 
@@ -1765,59 +1831,5 @@ Ada Derana 24’s daily programming features seven hourly news bulletins and fou
 ...
 
 [Data](articles/c345ca4a.json)
-
----
-
-### சபாத் இல்லத்தை அகற்றக்கோரி ஆர்ப்பாட்டம்
-
-*2025-07-21 15:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாத்-இல்லத்தை-அகற்றக்கோரி-ஆர்ப்பாட்டம்/175-361467) · `ta`
-
-பொத்துவில் அறுகம்பை பிரதேசத்தில் அமைக்கப்பட்டுள்ள இஸ்ரேல் நாட்டவர்களால் முன்னெடுத்துச் செல்லப்படும் சபாத் இல்லத்தை உடனடியாக மூட நடவடிக்கை எடுக்குமாறு அரசைக் கோரி கண்டன ஆர்ப்பாட்டமொன்று அட்டாளைச்சேனை பிரதேச சபை தவிசாளர் மற்றும் உறுப்பினர்களால் திங்கட்கிழமை (21) அன்று பிரதேச சபை முன்றலில் முன்னெடுக்கப்பட்டது.
-
-அட்டாளைச்சேனை பிரதேச சபையின் முதலாவது கன்னி அமர்வு  திங்கட்கிழமை  (21) அன்று தவிசாளர் ஏ.எஸ்.எம்.உவைஸ் தலைமையில் இடம்பெற்றது. இவ்விடயம் தொடர்பில் சகல உறுப்பினர்களாலும் பேசப்பட்டதுடன் அது தொடர்பான கண்டன தீர்மானமும் நிறைவேற்றப்பட்டது.
-
-அத்தோடு சபை முடிவில் கண்டன ஆர்ப்பாட்டமும் செய்வதன்றும் முடிவு செய்து இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/5ed5982c.json)
-
----
-
-### 'අද දෙරණ 24' නාලිකාවට 11 වසරක් සපිරේ
-
-*2025-07-21 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212476) · `si`
-
-ජාත්‍යන්තර ප්‍රමිතියකින් යුත් ප්‍රවෘත්ති වාර්තාකරණයේ දේශීය සන්නාමය වූ අද දෙරණ මෙරට ප්‍රවෘත්ති කලාව නව මානයකට යොමුකරමින් ආරම්භ කළ මෙරට ප්‍රථම විසිහතර පැය ප්‍රවෘත්ති නාලිකාවට වසර 11ක් සපිරෙනවා.
-
-විශ්වසනීය මෙන්ම තුලනාත්මක පුවත් ඉදිරිපත් කරමින් කෙටි කලක් තුළ වැඩි ප්‍රේක්ෂක ආකර්ශනයක් හිමිකරගැනීමට මේ එකලොස් වසර තුළ අපට හැකි විය.
-
-මෙරට ප්‍රවෘත්තිකරණ ඉතිහාසයේත්, රූපවාහිනී ඉතිහාසයෙත් කඩඉමක් නිර්මාණය කරමින් ශ්‍රී ලංකාවේ ප්‍රථම සහ එකම ප්‍රවෘත්ති නාලිකාව ලෙස අද දෙරණ 24 නාලිකාව විකාශන කටයුතු ඇරඹුණේ 2014 ජූලි මස 20 වැනිදාය.
-
-ප්‍රවෘත්ති හා කාලීන සිදුවීම්, දේශපාලනික තොරතුරු, ක්‍රීඩා, අධ්‍යාපනික, කලා, සෞඛ්‍ය, ආගමික ආදි ක්ෂේත්‍ර ගණනාවක් ඔස්සේ ප්‍රවෘත්ති ඇතුළු කාලීන සිදුවීම් සියල්ලන්ට පෙර ජනතාව වෙත සමීප කෙරිණි.
-
-ඒ, දිනක් තුළ පැයෙන් පැය ප්‍රවෘත්ති ප්‍රකාශ 7ක් මෙන්ම ප්‍රධාන ප්‍රවෘත්ති ප්‍රකාශ 4 ක් ඔස්සේයි.
-
-...
-
-[Data](articles/8af98dc0.json)
-
----
-
-### மும்பை ரயில் குண்டுவெடிப்பு: தண்டனைபெற்ற 12 பேரும் விடுதலை
-
-*2025-07-21 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/220544) · `ta`
-
-மும்பை; மராட்டிய மாநிலம் மும்பை புறநகர் ரயில்களில் 2006ம் ஆண்டு ஜூலை 11ம் திகதி அடுத்தடுத்து வெடிகுண்டுகள் வெடித்தன. இந்த சம்பவத்தில் அப்பாவி பொதுமக்கள் 189 பேர் உயிரிழந்தனர். மேலும், 820 பேர் படுகாயமடைந்தனர்.
-
-இந்த குண்டு வெடிப்பு சம்பவத்திற்கு லஷ்கர் இ தொய்பா பயங்கரவாத அமைப்பின் கிளை அமைப்பான லஷ்கர் இ குவாகர் பயங்கரவாத அமைப்பு பொறுப்பேற்றது.
-
-இந்த குண்டு வெடிப்பு சம்பவம் தொடர்பாக கமல் அன்சாரி, முகமது பைசல், குட்புதின் சித்திக், நவீத் ஹசன் கான், ஆசீப் கான், தன்வீர் அகமது, முகமது மஜித், ஷேக் முகமது அலி, முகமது சஜித், ரகுமான் ஷேக், ஷாகில் முகமது, சமீர் அகமது ஆகிய 12 பேர் கைது செய்யப்பட்டனர்.
-
-இந்த வழக்கு மும்பை சிறப்பு கோர்ட்டில் நடைபெற்று வந்தது. இந்த வழக்கில் 12 பேரும் குற்றவாளிகள் என்று 2015ம் ஆண்டு மும்பை சிறப்பு கோர்ட்டு தீர்ப்பளித்தது. மேலும், குற்றவாளிகளில் 5 பேருக்கு தூக்கு தண்டனையும், எஞ்சிய 7 பேருக்கு ஆயுள் தண்டனையும் விதித்தது. குற்றவாளிகள் அனைவரும் மராட்டியத்தின் பல்வேறு சிறைகளில் அடைக்கப்பட்டனர்.
-
-...
-
-[Data](articles/29260c47.json)
 
 ---

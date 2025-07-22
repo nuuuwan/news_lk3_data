@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 01:48:37**
+As of **2025-07-23 02:06:47**
 
 ## Newspaper Stats
 
-*Scraped **66,206** Articles*
+*Scraped **66,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,521
+tamilmirrorlk | 9,522
 virakesarilk | 11,029
 adaderanasinhalalk | 11,376
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,206 articles have been extended.
+61,973 (93.6%) of 66,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### தனியார் துறை சம்பளம் ரூ.30,000 ஆக அதிகரிப்பு
+
+*2025-07-23 01:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறை-சம்பளம்-ரூ-30-000-ஆக-அதிகரிப்பு/175-361570) · `ta`
+
+தனியார் துறை ஊழியர்களின் ஆகக் குறைந்த அடிப்படை சம்பளமாக இருந்த 17,500 ரூபாவை கடந்த ஏப்ரல் மாதம் முதல் 27,000 ரூபாவாக அதிகரிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், அடுத்த வருடம் ஜனவரி முதலாம் திகதி முதல் அந்த தொகை 30,000 ரூபாவாக அதிகரிக்கப்படும் என்றும் தொழில் அமைச்சர் பேராசிரியர் அனில் ஜயந்த பெர்ணான்டோ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22)  அன்று நடைபெற்ற வேலையாட்சகளின் வரவு-செலவுத் திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் மற்றும் வேலையாட்களின் குறைந்தபட்ச வேதனம் தொடர்பான (திருத்தச்) சட்டமூலம் மீதான விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றும் போதே இவ்வாறு குறிப்பிட்டார்.
+
+மேலும் அமைச்சர்  தெரிவிக்கையில், 2025ஆம் ஆண்டுக்கான வரவு-செலவுத் திட்டத்தில் அரச துறையினருக்கான சம்பள அதிகரிப்பு செய்யப்பட்டது.  தனியார் துறையினரின் அடிப்படை சம்பளத்தை 30,000 ரூபாய் வரையில் அதிகரிக்க கலந்துரையாடினோம்.   இதன்படி, 27,000 ரூபாய் குறைந்த பட்ச சம்பளமாக ஏப்ரல் முதல் அமுலுக்கு வரும் வகையிலும், 2026 ஜனவரி முதலாம் திகதி முதல் அதனை 30,000 ரூபாய் வரையில் அதிகரிக்கவும் இணக்கம் காணப்பட்டுள்ளது.
+
+...
+
+[Data](articles/01dd22e5.json)
+
+---
 
 ### HRCSL submits parallel report to United Nations Committee on Enforced Disappearance
 
@@ -1787,23 +1803,5 @@ The order was issued following the consideration of facts presented by both the 
 ...
 
 [Data](articles/4d698a68.json)
-
----
-
-### Govt responds to concerns over ex-President Mahinda Rajapaksa’s security
-
-*2025-07-22 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110734/govt-responds-to-concerns-over-ex-president-mahinda-rajapaksas-security) · `en`
-
-The government is responsible not only for the safety of former presidents but also for the general public, Cabinet Spokesman Minister Dr. Nalinda Jayatissa has emphasized in response to questions raised in relation to the move by the present administration to remove the entitlements of former Presidents and their family members.
-
-Responding to an inquiry made at today’s (22) weekly Cabinet media briefing on whether the government would continue to ensure the security of former President Mahinda Rajapaksa, he assured that necessary steps will be taken based on intelligence and security reports.
-
-Meanwhile, the Cabinet Spokesman further noted that the government intends to amend the Presidents Entitlements Act (No. 4 of 1986) which effectively reduces special privileges extended to former Presidents, their families, and retired Members of Parliament.
-
-He said that the Cabinet of Ministers has also granted approval to the proposal to gazette the amendment bill and take forward the process.
-
-...
-
-[Data](articles/abc96146.json)
 
 ---

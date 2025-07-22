@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 14:24:51**
+As of **2025-07-22 14:38:18**
 
 ## Newspaper Stats
 
-*Scraped **66,082** Articles*
+*Scraped **66,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,342
-adaderanalk | 8,094
-tamilmirrorlk | 9,499
+adaderanalk | 8,095
+tamilmirrorlk | 9,500
 virakesarilk | 11,011
 adaderanasinhalalk | 11,357
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,082 articles have been extended.
+61,973 (93.8%) of 66,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0983229e.json)
+
+---
+
+### இ.மி.ச ஊழியர்கள் ஆர்ப்பாட்டம்: பேஸ்லைன் வீதியில் நெரிசல்
+
+*2025-07-22 13:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-ஊழியர்கள்-ஆர்ப்பாட்டம்-பேஸ்லைன்-வீதியில்-நெரிசல்/175-361527) · `ta`
+
+இலங்கை மின்சார சபை ஊழியர்கள், இலங்கை மின்சார சபையின் தலைமை அலுவலகத்துக்கு முன்பாக, செவ்வாய்க்கிழமை (22)  பாரிய ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
+
+அரசாங்கம் மின்சார சபையும் எமது ஊழியர்கள் அடிப்படை உரிமைகளை நீக்கிவிட்டது. தொழிலாளர்களுக்கு உரிய அடிப்படை வசதிகள் இல்லாமல் செய்து வருகின்றது என்று குற்றஞ்சாட்டியே ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது. இதனால், பேஸ்லைன் வீதியில் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டது.
+
+◼️
+
+[Data](articles/a0e600f9.json)
+
+---
+
+### Sri Lanka to initiate joint research with Singapore to develop AI technologies
+
+*2025-07-22 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110728/sri-lanka-to-initiate-joint-research-with-singapore-to-develop-ai-technologies) · `en`
+
+The government is seeking to commence joint research with Singapore for the development of artificial intelligence technologies, conduct artificial intelligence programs, and create mutual cooperation to address local and global challenges.
+
+Accordingly, the Cabinet of Ministers has granted approval to a proposal to sign a memorandum of understanding between the Ministry of Digital Economy and the National University of Singapore.
+
+Discussions have been held pertaining to “The Program on Artificial Intelligence in Singapore” (AI Singapore), which is implemented at the National University of Singapore, to explore the opportunities for active partnership and sharing knowledge that can contribute to the strategic objectives in Sri Lanka for the development of Artificial Intelligence, according to a statement issued by the Department of Government Information.
+
+...
+
+[Data](articles/285cc5be.json)
 
 ---
 
@@ -1795,33 +1825,5 @@ Executive summary: Sri Lanka’s politically tarnished centralised system of gov
 ...
 
 [Data](articles/0ac23538.json)
-
----
-
-### Factors guiding voter preference in Sri Lanka: European Union funded survey reveals
-
-*2025-07-22 00:51:27* · [`dailyftlk`](https://www.ft.lk/opinion/Factors-guiding-voter-preference-in-Sri-Lanka-European-Union-funded-survey-reveals/14-779272) · `en`
-
-Democratic Left Front Coordinating Secretary G.V.D. Tilakasiri, NPC Executive Director Jehan Perera, Secretary to the Prime Minister Pradeep Saputhanthri, and Delegation of the European Union to Sri Lanka Head of Cooperation Dr. Johann H. Hesse
-
-A research report titled ‘Factors guiding voter preference in elections in Sri Lanka’, commissioned by the National Peace Council under the European Union funded project “Active citizens for elections and democracy”, was launched on 27 June in Colombo. The study conducted by Dr. Mahesh Senanayake and Crishni Silva of the University of Colombo offers valuable insights into the key drivers of voter behaviour within Sri Lanka’s dynamic political context. It examines how factors such as economic concerns, perceptions of leadership, trust in public institutions and prevailing social issues influence electoral decisions.
-
-...
-
-[Data](articles/e4ca2cab.json)
-
----
-
-### Social proof in action: Behavioural path to better tax system
-
-*2025-07-22 00:50:17* · [`dailyftlk`](https://www.ft.lk/columns/Social-proof-in-action-Behavioural-path-to-better-tax-system/4-779271) · `en`
-
-Sri Lanka’s tax system could benefit from creative social proof strategies
-
-Human nature is fundamentally shaped by connections emotional, social, and environmental that begin at birth and persist throughout life. These connections influence how people think, grow, and make decisions, creating a deep reliance on signals from those around them. Among the most powerful of these influences is social proof the habit of observing others when deciding how to behave, especially in uncertain situations. In the context of taxation, social proof plays a crucial role in shaping individual attitudes and compliance behaviours. Understanding and using this human pattern can be a game-changer for governments seeking to strengthen voluntary tax compliance and build a culture of civic responsibility.
-
-...
-
-[Data](articles/7cb05a7f.json)
 
 ---

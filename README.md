@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 13:19:35**
+As of **2025-07-22 13:31:36**
 
 ## Newspaper Stats
 
-*Scraped **66,056** Articles*
+*Scraped **66,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,341
-adaderanalk | 8,086
+adaderanalk | 8,092
 tamilmirrorlk | 9,492
-virakesarilk | 11,005
-adaderanasinhalalk | 11,353
+virakesarilk | 11,011
+adaderanasinhalalk | 11,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,056 articles have been extended.
+61,973 (93.8%) of 66,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### E-8 වීසා කාණ්ඩය යටතේ ශ්‍රමිකයින් යැවීමට අවබෝධතා ගිවිසුමක්
+
+*2025-07-22 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212511) · `si`
+
+කොරියානු ජනරජයේ කෘෂිකාර්මික කටයුතු සඳහා ඍතුමය සේවක වැඩසටහන යටතේ අවබෝධතා ගිවිසුමකට අත්සන් තැබීම සඳහා ඉදිරිපත් කළ යෝජනාවක් සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+කොරියානු ජනරජයේ E-8 වීසා කාණ්ඩය (සෘතුමය සේවකයින්) යටතේ ශ්‍රී ලාංකික ශ්‍රමිකයින් යෙදවීම පහසු කිරීම සඳහා පහසු කිරීම සඳහා නියමු ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමටත්, ඒ සඳහා උනන්දුවක් දක්වන කොරියානු පළාත් පාලන ආයතන සමඟ සාකච්ඡා පැවැත්වීමටත් පසුගිය පෙබරවාරි මස 19 වැනි දින ජුනි මස 01 වැනි දින පැවති අමාත්‍ය මණ්ඩල රැස්වීම්වලදී අනුමැතිය ලබා දී ඇත.
+
+ඒ අනුව, කොරියාවේ බෝසෝං පළාත් පාලන ආයතනය සමඟ පැවැති සාකච්ඡාවල ප්‍රතිඵලයක් වශයෙන් ශ්‍රී ලංකාවෙන් ඍතුමය සේවකයින් බඳවා ගැනීමට සහ ඒ වෙනුවෙන් අවබෝධතා ගිවිසුමකට එළඹීමට එකඟතාව පළ කර තිබේ.
+
+යෝජිත අවබෝධතා ගිවිසුම මඟින්, ශ්‍රී ලාංකිකයින්ට සෘතුමය ශ්‍රමික වැඩසටහන යටතේ කෙටි කාලයක් (උපරිම මාස 8ක් දක්වා) බෝසෝං පළාතේ කෘෂිකාර්මික ගම්මානවල සේවය කර ආදායමක් උපයා ගැනීමට සහ මෙරටට විදේශ විනිමය උපයා දීමට අවස්ථාව සැලසෙනු ඇත.
+
+...
+
+[Data](articles/c55d8394.json)
+
+---
+
+### பூச்சிகள் கலந்த உணவுகள் விற்பனை – கொள்ளுப்பிட்டி உணவக உரிமையாளருக்கு 75 ஆயிரம் ரூபா தண்டப்பணம்!
+
+*2025-07-22 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220606) · `ta`
+
+பூச்சிகள் கலந்த உணவுகளை விற்பனை செய்ததாக குற்றம் சாட்டப்பட்டுள்ள கொழும்பு கொள்ளுப்பிட்டி பகுதியில் உள்ள உணவகமொன்றின் உரிமையாளருக்கு எதிராக 75 ஆயிரம் ரூபா தண்டப்பணம் விதித்து மாளிகாக்கந்த நீதவான் லொசனா அபேவிக்ரம வீரசிங்க உத்தரவு பிறப்பித்துள்ளார்.
+
+குறித்த உணவக உரிமையாளருக்கு ஐந்து ஆண்டுகளுக்கு ஒத்திவைக்கப்பட்ட மூன்று மாத சிறைத்தண்டனையையும் விதித்து நீதவான் உத்தரவிட்டுள்ளார்.
+
+நுகர்வோருக்கு 60 ஆயிரம் ரூபா  இழப்பீடு வழங்க வேண்டும் எனவும் உணவக உரிமையாளருக்கு உத்தரவிட்டுள்ளார்.
+
+கொழும்பு கொள்ளுப்பிட்டி பகுதியில் உள்ள உணவகமொன்றில் வாங்கிய உணவில் பூச்சிகள் கலந்திருப்பதாக கொழும்பு கொள்ளுப்பிட்டி பொது சுகாதார பரிசோதகருக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் குறித்த உணவகம் மீது நடவடிக்கை எடுக்கப்பட்டது.
+
+இதனையடுத்து குறித்த உணவக உரிமையாளர், பொது சுகாதார பரிசோதகர்  இந்திக பிட்டவெல தலைமையில் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/fe820d9b.json)
+
+---
 
 ### දේශීය ආදායම් දෙපාර්තමේන්තුවේ හිටපු නියෝජ්‍ය කොමසාරිස්ට ඇප
 
@@ -98,6 +136,56 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பிரதம நீதியரசர் பதவிக்கு நீதிபதி பிரீத்தி பத்மன் சூரசேனவின் பெயர் பரிந்துரை
+
+*2025-07-22 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220607) · `ta`
+
+நாட்டின் அடுத்த பிரதம நீதியரசராக உயர் நீதிமன்ற நீதிபதி பிரீத்தி பத்மன் சூரசேனவின் பெயரை ஜனாதிபதி அநுர குமார திசாநாயக்க பரிந்துரைத்துள்ளார்.
+
+தற்போதைய பிரதம நீதியரசர் ஜயந்த ஜயசூரிய 27 ஆம் திகதியுடன் ஓய்வுபெறவுள்ள நிலையில்,  25 ஆம் திகதி  அன்று உயர்  நீதிமன்றத்தில் பிரியாவிடை உரை ஆற்றவுள்ளார்.
+
+நீதிபதி பிரீத்தி பத்மன் சூரசேன நீதித்துறை சேவை ஆணைக்குழுவின்  முன்னாள் உறுப்பினர் ஆவார். அவர் நீதிபதித்துறையில் பல உயர்மட்ட வழக்கு விசாரணைகளை முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b1c8b97f.json)
+
+---
+
+### பங்களாதேஷ் விமான விபத்து : உயிரிழந்தோரின் எண்ணிக்கை 27 ஆக அதிகரிப்பு !
+
+*2025-07-22 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220609) · `ta`
+
+பங்களாதேஷில் இடம்பெற்ற விமான விபத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. இவ்வாறு உயிரிழந்தவர்களில் விமானி ஒருவர் உள்ளிட்ட ஏனையவர்களில் பல மாணவர்கள் உள்ளடங்கியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+பங்களாதேஷ் விமானப்படையின் ஜெட் விமானம் ஒன்று பயிற்சியில் ஈடுபட்டபோது தலைநகர் டாக்காவில் உள்ள மைல்ஸ்டோன் கல்லூரியின் இரு மாடிக் கட்டிடத்தின் மீது வீழ்ந்து வெடித்து தீப்பற்றி எரிந்ததில் மாணவர்கள் இருந்த நான்கு வகுப்பறைகள் அனர்த்தத்தில் சிக்கின.
+
+விபத்து இடம்பெற்ற நேற்றைய தினமான திங்கட்கிழமை (21) 20 பேர் உயிரிழந்திருந்தனர். பின்னர் காயமடைந்தவர்களில் 7 பேர் சிகிச்சை பலனின்றி உயிரிழந்துள்ள நிலையில், உயிரிழந்தவர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளது.
+
+இந்த விபத்தில் சுமார் 170 பேர் வரை காயமடைந்துள்ள நிலையில், சுமார் 70 பேர் கவலைக்கிடமான நிலையில் உள்ளதாகவும் இவர்களில் பலர் மாணவர்கள் எனவும் உயிரிழப்பு எண்ணிக்கை அதிகரிக்கலாமெனவும் அஞ்சப்படுகின்றது.
+
+◼️
+
+[Data](articles/5d3a90a9.json)
+
+---
+
+### Cabinet gives green light to gazette draft bill to amend Presidents Entitlements Act
+
+*2025-07-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110725/cabinet-gives-green-light-to-gazette-draft-bill-to-amend-presidents-entitlements-act-) · `en`
+
+The Cabinet of Minister has granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986) and reduce special privileges extended to former Presidents, their families, and retired Members of Parliament.
+
+Last month, the Cabinet granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents, their families, and retired Members of Parliament.
+
+In line with the government’s policy declaration “Pohosath Ratak – Lassana Jeewithayak” (A Wealthy Country – A Beautiful Life), the public has endorsed the government’s mandate to revoke the special benefits accorded to former Presidents and their families, as well as to abolish the pensions granted to Members of Parliament after serving a five-year term.
+
+...
+
+[Data](articles/773e3d83.json)
+
+---
+
 ### AI සංවර්ධනයට සිංගප්පූරුවේ සහාය
 
 *2025-07-22 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212508) · `si`
@@ -115,6 +203,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/88529d4e.json)
+
+---
+
+### கடும் காற்று, கடல் கொந்தளிப்பு தொடர்பில் சிவப்பு எச்சரிக்கை
+
+*2025-07-22 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/220602) · `ta`
+
+கற்பிட்டியிலிருந்து மன்னார் ஊடாக காங்கேசன்துறை வரையிலும், அம்பாந்தோட்டையிலிருந்து பொத்துவில் வரையிலும் உள்ள பகுதிகளுக்கு கடும் காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் 'சிவப்பு' எச்சரிக்கை விடுத்துள்ளது.
+
+இன்று செவ்வாய்க்கிழமை (22) பிற்பகல் 10.00 மணி முதல் நாளை புதன்கிழமை (23) பிற்பகல் 10.00 மணி வரை இந்த எச்சரிக்கை அமுலில் இருக்கும் என திணைக்களம் வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும் மறுஅறிவித்தல் வரை மீனவர்கள் மற்றும் கடற்சார் ஊழியர்கள் கடலுக்கு செல்ல வேண்டாம் என அறிவுறுத்தப்பட்டுள்ளனர்.
+
+கற்பிட்டியிலிருந்து மன்னார் ஊடாக காங்கேசன்துறை வரையிலும், அம்பாந்தோட்டையிலிருந்து பொத்துவில்  வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 60 முதல் 70 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி காற்று அதிகரித்து வீசக் வீசும்.
+
+இவ்வாறான சந்தர்ப்பங்களில் இக் கடல் பிராந்தியங்கள்   மிகவும் கொந்தளிப்பான நிலையில் காணப்படும். இக் கடல் பிராந்தியத்திற்கு அடுத்துவரும் 24 மணித்தியாலங்களுக்கு மீனவர்களும் கடல்சார் ஊழியர்களும் செல்ல வேண்டாம் என அறிவுறுத்தப்படுகின்றனர்.
+
+...
+
+[Data](articles/405fdea8.json)
 
 ---
 
@@ -165,6 +273,94 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c898b736.json)
+
+---
+
+### SL receives USD 63 bln in remittances over past decade – Deputy Minister
+
+*2025-07-22 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110724/sl-receives-usd-63-bln-in-remittances-over-past-decade-deputy-minister) · `en`
+
+The total amount of remittances received by Sri Lanka through foreign employment over the past 10 years is USD 61,147 million, Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra has stated.
+
+Responding to a question raised in Parliament today (22), the Deputy Minister stated that this amounts to Rs. 13,946 billion.
+
+Deputy Minister Hemachandra revealed this information based on data issued by the Central Bank of Sri Lanka (CBSL), covering the 10-year period from 2015 to May 2025.
+
+He also mentioned that, as of February 25, 2025, the number of Sri Lankans employed overseas was approximately 1,345,801.
+
+◼️
+
+[Data](articles/cf77262e.json)
+
+---
+
+### Dy Commissioner of Inland Revenue Dept arrested for soliciting bribe granted bail
+
+*2025-07-22 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110723/dy-commissioner-of-inland-revenue-dept-arrested-for-soliciting-bribe-granted-bail) · `en`
+
+The Colombo Magistrate’s Court has granted bail to the Deputy Commissioner of the Inland Revenue Department, who was previously arrested and remanded on suspicion of soliciting a bribe of Rs. 100,000 from a businessman in order to waive around Rs. 1.1 million in tax arrears owed to the department.
+
+The suspect was ordered to be released on two surety bails of Rs. 1 million each. Colombo Additional Magistrate Harshana Kekunawala also directed the suspect to fully cooperate with the ongoing investigations, said Ada Derana reporter.
+
+When the case was taken up, Attorney-at-Law Darshana Kuruppu, appearing on behalf of the suspect, informed court that the suspect’s 14-year-old son was suffering from severe psychological distress due to his father being in remand custody. The teenager was reportedly refusing to attend school or consume meals, and had been referred for medical treatment.
+
+...
+
+[Data](articles/8f6a0050.json)
+
+---
+
+### Trump administration releases FBI records on MLK Jr. despite his family’s opposition
+
+*2025-07-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110722/trump-administration-releases-fbi-records-on-mlk-jr-despite-his-familys-opposition) · `en`
+
+The Trump administration on Monday released records of the FBI’s surveillance of Martin Luther King Jr., despite opposition from the slain Nobel laureate’s family and the civil rights group that he led until his 1968 assassination.
+
+The digital document dump includes more than 240,000 pages of records that had been under a court-imposed seal since 1977, when the FBI first gathered the records and turned them over to the National Archives and Records Administration.
+
+In a lengthy statement released Monday, King’s two living children, Martin III, 67, and Bernice, 62, said their father’s killing has been a “captivating public curiosity for decades.” But the pair emphasized the personal nature of the matter and urged that the files “be viewed within their full historical context.”
+
+...
+
+[Data](articles/2db1193c.json)
+
+---
+
+### நான்கு இந்திய மீனவர்கள் கைது
+
+*2025-07-22 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220605) · `ta`
+
+இலங்கை கடற்பரப்பிற்குள் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்கள் நால்வர் இலங்கை கடற்படையினரால் கைதுசெய்யப்பட்டுள்ளனர்.
+
+தலைமன்னாருக்கும் தனுஷ்கோடிக்கும் இடையே மீன்பிடித்துக் கொண்டிருந்த போது அப்பகுதியில் ரோந்து  நடவடிக்கையில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர், எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில், குறித்த படகையும் அதிலிருந்த நான்கு மீனவர்களையும் கைது செய்து மன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்று விசாரணைகளை மேற்கொண்டனர்.
+
+இந்நிலையில், ஆரம்பகட்ட விசாரணையை முடித்துக் கொண்டு மீனவர்கள் நான்கு பேரையும் மன்னார் மீன்வளத்துறை அதிகாரிகளிடம் ஒப்படைக்கப்பட நடவடிக்கை எடுத்துள்ளதாக இலங்கை கடற்படையின் ஊடகப்பேச்சாளர் தெரிவித்தார்.
+
+இதேவேளை, இவ்வாண்டு ஜனவரி மாதம் முதல் இதுவரை  இராமேஸ்வரத்தை சேர்ந்த 25 மீன்பிடிப்படகுகளும் 185 மீனவர்களும்  இலங்கை  கடற்படையால் எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/766a66b7.json)
+
+---
+
+### Sri Lanka should grant zero-tariff access to US exports: Ravi tells Govt
+
+*2025-07-22 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110721/sri-lanka-should-grant-zero-tariff-access-to-us-exports-ravi-tells-govt) · `en`
+
+The government of Sri Lanka should grant zero-tariff access to products from the United States immediately, according to New Democratic Front (NDF) Member of Parliament Ravi Karunanayake.
+
+Speaking in Parliament today, MP Ravi Karunanayake said with uncertainty surrounding reciprocal tariffs imposed by US President Donald Trump, the government must act proactively to ensure Sri Lankan exporters can compete with other regional competitors to access the US market.
+
+MP Karunanayake noted that Sri Lanka’s access to the US market is around USD 3.1 billion while the country imports approximately USD 300 million worth of products.
+
+He said therefore Sri Lanka can afford to prove zero-tariff access to US exports.
+
+MP Ravi Karunanayake stressed on the importance of taking steps to reduce the announced 30% reciprocal tariff on Sri Lankan products before the White House finalizes the rates that are due to take effect on August 1.
+
+...
+
+[Data](articles/7b02f3d5.json)
 
 ---
 
@@ -237,6 +433,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a68db4a1.json)
+
+---
+
+### செம்மணி  குறித்து சர்வதேச விசாரணை அவசியம் - அவுஸ்திரேலியாவில் தமிழர்கள் பேரணி
+
+*2025-07-22 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220600) · `ta`
+
+செம்மணி மற்றும் ஏனைய மனித புதைகுழிகள் குறித்து முழுமையான சர்வதேச விசாரணை அவசியம் என அவுஸ்திரேலியாவில் உள்ள இலங்கை தமிழர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+அவுஸ்திரேலியாவில் இடம்பெற்ற பேரணியின் போது இலங்கை தமிழர்கள் ஐநா மற்றும் வெளிநாடுகளின் தூதரகங்களிடம் இந்த கோரிக்கையை வலியுறுத்தியுள்ளனர்.
+
+இலங்கை அரசாங்கத்தினால் நூற்றுக்கணக்கான தமிழர்கள் கடத்தப்பட்டு சித்திரவதை செய்யப்பட்டு கொலை செய்யப்பட்டு புதைக்கப்பட்டுள்ளமை செம்மணிமனித புதைகுழிகள் மூலம் மீண்டும் தெரியவந்துள்ளதை தொடர்ந்து அவுஸ்திரேலியாவில் உள்ள இலங்கை தமிழர்கள் இது குறித்த கவனத்தை ஈர்க்கும் விதத்தில் நேற்று பேரணியொன்றை முன்னெடுத்தனர்.
+
+இந்த மனித புதைகுழிகள் தனியானதொரு சம்பவம் இல்லை,அமைதியான விதத்திலும் தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்பட்ட நிலையிலும் தொடரும் இனப்படுகொலையின் ஒரு பகுதியே இந்த மனித புதைகுழிகள்.
+
+அவுஸ்திரேலியாவிற்கான ஐநா தூதரகத்தின் முன்னாள் ஆரம்பமான பேரணி  ஐநா அலுவலகங்களை நோக்கியும் பல தூதரங்களை நோக்கியும் சென்றது.
+
+...
+
+[Data](articles/1ec7fb65.json)
+
+---
+
+### Canadian woman arrested at BIA with 18kg of hashish
+
+*2025-07-22 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/110720/canadian-woman-arrested-at-bia-with-18kg-of-hashish) · `en`
+
+A 37-year-old Canadian woman has been arrested at the Bandaranaike International Airport (BIA) in Katunayake for the possession of a large consignment of hashish.
+
+The suspect arrived in Sri Lanka today (22) at around 2:50 a.m. on a flight from Canada via Doha, said Ada Derana reporter.
+
+Officers attached to the Narcotics Control Unit of Sri Lanka Customs conducted a search of her luggage and discovered a total of 18.1kilograms of hashish.
+
+According to Sri Lanka Customs, the estimated value of the seized drugs is approximately Rs. 181 million.
+
+Customs Media Spokesperson and Additional Director General of Customs Seevali Arukgoda stated that preliminary investigations are being carried out by the Narcotics Control Unit of Sri Lanka Customs.
+
+The suspect, along with the seized narcotics, will be handed over to the Police Narcotics Bureau (PNB) for further investigation and legal action.
+
+◼️
+
+[Data](articles/d4f332ea.json)
 
 ---
 
@@ -1601,241 +1839,5 @@ The Seeduwa Divisional Crime Detective Bureau and Seeduwa Police are conducting 
 ◼️
 
 [Data](articles/98a30f4d.json)
-
----
-
-### සීදූවේ වෙඩිතැබීමක්
-
-*2025-07-21 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212488) · `si`
-
-සීදූව ප්‍රදේශයේ අද (21) රාත්‍රියේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු තුවාල ලබා රාගම ශික්ෂණ රෝහලට ඇතුළත්කර තිබේ.
-
-සීදූව රාජපක්ෂපුර 12වැනි පටුමගේ අද රාත්‍රී 8.15ට පමණ මෙම වෙඩි තැබීම සිදුකර තිබුණි.
-
-සීදූව නගරසභාවේ ජාතික ජන බලවේගය නියෝජනය කරන නාගරික මන්ත්‍රීවරියකගේ පියා ඉලක්කකර මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
-
-වෙඩි වැදී තුවාල ලැබූ 55 හැවිරිදි පුද්ගලයා රාගම ශික්ෂණ රෝහල වෙත ඇතුළත්කර ඇත
-
-ඔහු යුද හමුදාවෙහි සේවය කර විශ්‍රාම ලැබූ අයෙකු වන අතර වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණ වී නොමැත.
-
-සිද්ධිය සම්බන්ධයෙන් මීගමුව කොට්ඨාස අපරාධ විමර්ශන ඒකකය සහ සීදූව පොලීසිය පරීක්ෂණ ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/dcf70553.json)
-
----
-
-### Harvard heads to court to argue Trump administration’s $2.6bn cuts were illegal
-
-*2025-07-21 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110702/harvard-heads-to-court-to-argue-trump-administrations-26bn-cuts-were-illegal) · `en`
-
-Harvard University will appear in federal court Monday to make the case that the Trump administration illegally cut $2.6bn from the storied college – a pivotal moment in its battle against the federal government.
-
-If US district Judge Allison Burroughs decides in the university’s favor, the ruling would reverse a series of funding freezes that later became outright cuts as the Trump administration escalated its fight with the nation’s oldest and wealthiest university. Such a ruling, if it stands, would revive Harvard’s sprawling scientific and medical research operation and hundreds of projects that lost federal money.
-
-“This case involves the government’s efforts to use the withholding of federal funding as leverage to gain control of academic decisionmaking at Harvard,” the university said in its complaint. “All told, the tradeoff put to
-
-...
-
-[Data](articles/7b85cd3a.json)
-
----
-
-### மனிதப் புதைகுழி தொடர்பான விசாரணை CID யிடம் ஒப்படைப்பு
-
-*2025-07-21 20:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனிதப்-புதைகுழி-தொடர்பான-விசாரணை-CID-யிடம்-ஒப்படைப்பு/175-361493) · `ta`
-
-யாழ்ப்பாணம் - செம்மணி, சித்துப்பாத்தி மனிதப் புதைகுழியின் விசாரணைகள் இன்று முதல் குற்றப்புலனாய்வு திணைக்களத்திடம் ஒப்படைக்கப்பட்டுள்ளதாக பாதிக்கப்பட்டவர்களின் சார்பில் முன்னிலையாகும் சட்டத்தரணி வி எஸ் நிரஞ்சன் தெரிவித்துள்ளார்.
-
-இந்தநிலையில், செம்மணி, சித்துப்பாத்தி மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வின் இரண்டாவது அமர்வு மீண்டும் ஆரம்பிக்கப்பட்ட நிலையில், இன்றைய அகழ்வின் போது, மேலும் 7 என்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டன.
-
-ஏற்கனவே இந்த பகுதியிலிருந்து 65 என்புக்கூட்டுத் தொகுதிகள், இதுவரை மீட்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/e0ee66b3.json)
-
----
-
-### කඩොලාන වනාන්තර  08 ක් රක්ෂිත බවට පත් කෙරේ
-
-*2025-07-21 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212487) · `si`
-
-ලෝක කඩොලාන දිනයට සමගාමීව කඩොලාන වනාන්තර 08ක් රක්ෂිත බවට පත් කිරීමට පරිසර අමාත්‍යාංශය පියවර ගෙන තිබේ.
-
-එළැඹෙන ජූලි 26 වැනි දිනට යෙදෙන ලෝක කඩොලාන සුරැකීමේ දිනය වෙනුවෙන් මෙම තීරණය ගෙන ඇත.
-
-ලංකාවේ දැනට ඇති මුළු කඩොලාන ප්‍රමාණය හෙක්ටයාර 12,500ක් පමණ වන අතර කඩොලාන විශාල ලෙස ව්‍යාප්තව ඇත්තේ පුත්තලම දිස්ත්‍රික්කයේ මෝයන් ආශ්‍රිතවය.
-
-ඝනව වැඩුණු කඩොලාන නිරිත දිග, දකුණු ඊසාන ප්‍රදේශයන් හී කලපු ආශ්‍රිතව තැනින් තැන විසිරී ඇති අතර දැනට ලංකාවේ කඩොලාන විශේෂ 11ක් පමණ වාර්තා වී තිබේ.
-
-වෙරළ සංරක්ෂණය උදෙසා ස්වභාවික බාධකයක් ලෙස කඩොලාන පිහිටන අතර වෙරළ ඛාදනය සහ භූමිහායනය වැළැක්වීමට මෙයට හැකියාව තිබේ.
-
-එමෙන්ම ජෛව විවිධත්ව උණුසුම් කලාප ලෙස කඩොලාන පරිසර පද්ධති නම් කර ඇති අතර විශාල ප්‍රදේශයක ව්‍යාප්තව ඇති කඩොලාන පරිසර පද්ධති විවිධ සත්ව හා ශාකවල වාස භූමිද වේ.
-
-තවද කුඩා මසුන් විශේෂ ගණනාවක් කුඩා කාලය සහ තරුණ කාලය ගත කිරීම සඳහා කඩොලාන පරිසර පද්ධති භාවිත කරන බවට මේ වන විට පර්යේෂණ මගින්ද වාර්තා වී තිබේ.
-
-...
-
-[Data](articles/3b4725ed.json)
-
----
-
-### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரிப்பு
-
-*2025-07-21 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220560) · `ta`
-
-பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் உயிரிழந்தவர்களின் எண்ணிக்கை 19 ஆக அதிகரித்துள்ளது.
-
-தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானது.
-
-மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
-
-◼️
-
-[Data](articles/27492287.json)
-
----
-
-### செம்மணி புதைகுழி மீட்புகள் தொடர்பில் தேவநேசன் அறிக்கையை இணைத்து ஆய்வு செய்ய வேண்டும்; பல உண்மைகள் வெளிவரும் - சுமந்திரன் நம்பிக்கை
-
-*2025-07-21 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220580) · `ta`
-
-யாழ்ப்பாணத்தில் இடம்பெற்ற காணாமலாக்கப்படல்கள் தொடர்பில் கலாநிதி தேவநேசன் நேசையா தலைமையிலான குழுவினரினால் சமர்ப்பிக்கப்பட்ட அறிக்கையில் உள்ள விபரங்களை தற்போது செம்மணி சித்துபாத்தி மனிதப்புதைகுழியில் கண்டறியப்படும் மனித எச்சங்களுடன் தொடர்புபடுத்தி ஆராய்வதன் ஊடாக பல்வேறு உண்மைகளை வெளிக்கொணரமுடியும் என இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் நம்பிக்கை வெளியிட்டுள்ளார்.
-
-யாழ்ப்பாணத்தில் இடம்பெற்ற காணாமலாக்கப்படல் சம்பவங்கள் தொடர்பில் ஆராய்வதற்கென கலாநிதி தேவநேசன் நேசையா தலைமையில் கே.எச்.கமிலஸ் பெர்னாண்டோ, ஜெமிஸா இஸ்மாயில் மற்றும் எம்.சி.எம்.இக்பால் ஆகிய உறுப்பினர்களுடன்கூடியதாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவினால் நியமிக்கப்பட்ட குழுவின் அறிக்கை 2003 ஆம் ஆண்டு ஒக்டோபர் 28 ஆம் திகதி ஆணைக்குழுவிடம் கையளிக்கப்பட்டது.
-
-...
-
-[Data](articles/4fc2a4d6.json)
-
----
-
-### IMF representatives reaffirms support for Sri Lanka
-
-*2025-07-21 19:56:00* · [`islandlk`](http://island.lk/imf-representatives-reaffirms-support-for-sri-lanka/) · `en`
-
-A discussion between President Anura Kumara Dissanayake and representatives of the International Monetary Fund (IMF) was held on Monday morning (21) at the Presidential Secretariat regarding the future review of the Extended Credit Facility (ECF) between the IMF and Sri Lanka.
-
-President Dissanayake noted that Sri Lanka has achieved a level of economic stability under the present administration and emphasized that, building on this foundation, the government is prepared to accelerate efforts to integrate Sri Lanka into the global economy through sustainable growth and the pursuit of emerging economic opportunities.
-
-The President also outlined the country’s present economic challenges and reiterated the importance of incorporating measures to ease the burden on the public in the 2026 Budget, despite these constraints.
-
-...
-
-[Data](articles/dfea5a2f.json)
-
----
-
-### செம்மணி மனித புதைகுழிகள்: மேலும் 7 எலும்புக்கூட்டு தொகுதிகள் மீட்பு
-
-*2025-07-21 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220579) · `ta`
-
-யாழ்ப்பாணம் செம்மணி பகுதியில் உள்ள இரண்டு மனித புதைகுழிகளில் இருந்தும் 07ஆம் திகதி திங்கட்கிழமை 07 மனித எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-இன்று அடையாளம் காணப்பட்டுள்ள 07 மனித எலும்பு கூட்டு தொகுதிகளுடன் சேர்த்து மொத்தமாக 72 எலும்பு கூட்டு தொகுதிகள் இங்கே கண்டெடுக்கப்பட்டுள்ளன.
-
-செம்மணி பகுதியில் "தடயவியல் அகழ்வாய்வுத்தளம் இல - 01" மற்றும்  "தடயவியல் அகழ்வாய்வுத்தளம் இல - 02" என நீதிமன்றினால் அடையாளப்படுத்தப்பட்ட மனித புதைகுழிகளில் அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வருகிறது.
-
-இரண்டாம் கட்ட பணிகளுக்காக 45 நாட்கள் நீதிமன்றினால் அனுமதிக்கப்பட்டுள்ள நிலையில் முதல் 15 நாட்கள் தொடர்ச்சியாக அகழ்வு பணிகள் முன்னெடுக்கப்பட்ட நிலையில் கடந்த 10ஆம் திகதியுடன் தற்காலிகமாக இடை நிறுத்தப்பட்டு 11 நாட்களின் பின்னர் இன்றைய தினம் 16ஆவது நாளாக அகழ்வு பணிகள் முன்னெடுக்கப்பட்டது.
-
-அதன் போது இரண்டு மனித புதைகுழிகளில் இருந்தும் 07 எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றினை நாளைய தினம் செவ்வாய்க்கிழமை அகழ்ந்து எடுக்கும் பணிகள் முன்னெடுக்கப்படும் என எதிர்பார்க்கப்படுகிறது.
-
-...
-
-[Data](articles/75f048da.json)
-
----
-
-### “One in every ten adults in Sri Lanka affected by kidney disease”: SLMA
-
-*2025-07-21 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110701/one-in-every-ten-adults-in-sri-lanka-affected-by-kidney-disease-slma) · `en`
-
-One in every ten adults in the country is affected by kidney disease, according to the Sri Lanka Medical Association.
-
-Treasure of the association Dr. Udana Ratnapala stated that diabetes and high blood pressure are the primary causes of kidney disease.
-
-◼️
-
-[Data](articles/3099a9c2.json)
-
----
-
-### ලංවිම වෘත්තිය සමිති රැසක් හෙට ලෙඩ වෙන ලකුණු
-
-*2025-07-21 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212486) · `si`
-
-යෝජිත විදුලි බල පනත හකුලාගන්නා තෙක් අඛණ්ඩව සටන්වැදීමට සූදානම් බව විදුලිබල මණ්ඩලයේ වෘත්තීය සමිති පවසයි.
-
-අද ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවමින් ඔවුන් සඳහන් කළේ විරෝධයේ පළමු අදියර හෙට ආරම්භ කරන බවය.
-
-අසනීප නිවාඩු වාර්තාකරමින් විදුලිබල මණ්ඩලයේ ප්‍රධාන කාර්යාලය ඉදිරිපිටදී වෘත්තීය සමිති 28ක නියෝජිතයින් හෙට විරෝධතාවක් සිදුකිරීමට සූදානමින් සිටින බව වාර්තා වෙයි.
-
-ඒ විදුලිබල ක්ෂේත්‍රයේ ප්‍රතිසංස්කරණ ඇතුළත් අරමුණින් ගෙනා 2024 අංක 36 දරණ ශ්‍රී ලංකා විදුලිබල පනත සංශෝධන සහිතව යළිත් සම්මත කරගැනීමට වත්මන් ආණ්ඩුවේ සූදානමක් ඇති බවට පවසමින්ය.
-
-මේ අතර හෙට වෘත්තීය සමිති ගැනීමට නියමිත මෙම වෘත්තීය ක්‍රියාමාර්ගයට සහාය දක්වන බව  ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය නිවේදනය කර තිබේ.
-
-◼️
-
-[Data](articles/4f5a42eb.json)
-
----
-
-### தரம் 5 புலமைப்பரிசில் பரீட்சைக்கான திகதி அறிவிப்பு
-
-*2025-07-21 19:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-புலமைப்பரிசில்-பரீட்சைக்கான-திகதி-அறிவிப்பு/175-361480) · `ta`
-
-2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை நடத்துவதற்கான திகதியை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
-
-அதன்படி, ஓகஸ்ட் 10 ஆம் திகதி (ஞாயிற்றுக்கிழமை) நாடு முழுவதும் 2,787 தேர்வு நிலையங்களில் பரீட்சை நடைபெறும்.
-
-இரண்டாம் தாள் காலை 9.30 மணிக்கு தொடங்கி 10.45 மணிக்கு முடிவடையும். முதல் தாள் காலை 11.15 மணிக்கு தொடங்கி மதியம் 12.15 மணிக்கு முடிவடையும்.
-
-விண்ணப்பதாரர்களின் விவரங்களில் திருத்தங்களை ஜூலை 25 முதல் ஓகஸ்ட் 4 வரை நிகழ்நிலை முறை மூலம் செய்யலாம்.
-
-◼️
-
-[Data](articles/7293d345.json)
-
----
-
-### பூச்சிகள் நிறைந்த உணவை விற்றவருக்கு அபராதம்
-
-*2025-07-21 19:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூச்சிகள்-நிறைந்த-உணவை-விற்றவருக்கு-அபராதம்/175-361479) · `ta`
-
-பூச்சிகள் நிறைந்த உணவை விற்பனை செய்த குற்றச்சாட்டில் குற்றத்தை ஒப்புக்கொண்டதையடுத்து, கொள்ளுப்பிட்டியில் உள்ள ஒரு உணவக உரிமையாளருக்கு மாளிகாகந்தை நீதவான் லோச்சனா அபேவிக்ரம வீரசிங்க ரூ.75,000 அபராதம் விதித்தார்.
-
-பூச்சிகளால் மாசுபட்ட ஃப்ரைட் ரைஸை வாங்கிய வாடிக்கையாளர் அளித்த முறைப்பாட்டைத் தொடர்ந்து இந்த வழக்கு பதிவு செய்யப்பட்டது. முறைப்பாட்டாளர் கொள்ளுப்பிட்டியில் உள்ள பொது சுகாதார ஆய்வாளர் (PHI) அலுவலகத்தில் இந்த விஷயத்தைப் முறைப்பாடு செய்தார்.
-
-மேலும், முறைப்பாட்டாளருக்கு இழப்பீடாக உணவக உரிமையாளர் ரூ.60,000 வழங்க வேண்டும் என்றும் நீதிமன்றம் உத்தரவிட்டது.
-
-கொள்ளுப்பிட்டி பொது சுகாதார பரிசோதகரால் மேற்கொள்ளப்பட்ட சோதனையைத் தொடர்ந்து, கொள்ளுப்பிட்டி சந்திக்கு அருகில் அமைந்துள்ள ஒரு உணவகத்தின் உரிமையாளரே கைது செய்யப்பட்டு நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்டார்.
-
-...
-
-[Data](articles/d1909a1f.json)
-
----
-
-### Body of Uni student who drowned while trying to save her boyfriend found
-
-*2025-07-21 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110700/body-of-uni-student-who-drowned-while-trying-to-save-her-boyfriend-found) · `en`
-
-The body of a young woman who went missing after drowning while trying to save her boyfriend has been found in the Viyana canal near the 17th post of the Mahiyanganaya Police Division.
-
-The incident occurred last evening (20). The young couple had been walking on the canal bank when the young man slipped and fell into the water due to the strong current.
-
-At that juncture, the young woman tried to save him by reaching out her hand, but both ended up falling into the canal, according to police.
-
-An officer from the Mahiyanganaya Police Training School and his wife, who were passing by, immediately jumped into the canal and managed to rescue the young man, but were unable to locate the young woman.
-
-Following the incident, police and area residents launched a search operation.
-
-Her body was recovered earlier today (21). The deceased was a 26-year-old Rajarata University student.
-
-◼️
-
-[Data](articles/f8462bf9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 10:01:05**
+As of **2025-07-22 10:51:42**
 
 ## Newspaper Stats
 
-*Scraped **66,019** Articles*
+*Scraped **66,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,213 @@ economynextcom | 4,031
 islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,337
-adaderanalk | 8,080
-tamilmirrorlk | 9,479
+adalk | 6,339
+adaderanalk | 8,084
+tamilmirrorlk | 9,485
 virakesarilk | 11,002
-adaderanasinhalalk | 11,343
+adaderanasinhalalk | 11,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 66,019 articles have been extended.
+61,973 (93.9%) of 66,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### தோட்டத் தொழிலாளர்களின் சம்பளம்: சபையில் சர்ச்சை
+
+*2025-07-22 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தோட்டத்-தொழிலாளர்களின்-சம்பளம்-சபையில்-சர்ச்சை/76-361508) · `ta`
+
+இன்று சமர்ப்பிக்கப்படும் சட்டமூலத்தின் ஊடாக ஆகக் குறைந்த சம்பளம் அதிகரிக்கப்பட்டுள்ளது. இந்த வருடம் டிசம்பர் மாதம் இன்னும் அதிகரிக்கும் இது நல்ல விஷயம் என்றாலும், தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பில் இந்த சட்டமூலத்தில் எவ்விதமான பரிந்துரைகளும் முன்வைக்கப்படவில்லை என்று குற்றஞ்சாட்டிய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, எமது அணியின் உறுப்பினர்கள் திருத்தங்களை சமர்ப்பிப்பர் என்றார்.
+
+பாராளுமன்றத்தில் இன்று (22) செவ்வாய்க்கிழமை  நடைபெற்ற வாய்மூல விடைக்கான வினாக்கள் நேரத்தில், குறுக்கு கேள்வியை எழுப்பிய சஜித் பிரேமதாச, எமது அணியின் பாராளுமன்ற உறுப்பினர்களான மனோ கணேசன், ராதாகிருஷ்ணன் மற்றும் திகாம்பரம் ஆகியோரே திருத்தங்களை சமர்ப்பிப்பர் அது தொடர்பில் கவனம் செலுத்துமாறு கோரினார்.
+
+எனினும், வாய்மூல விடைக்கான வினாக்களுக்கு பதிலளித்து கொண்டிருந்த ​அமைச்சர், தோட்டத் தொழிலாளர்களுக்கு சம்பளம் போதாது என்பதை நாங்கள் அறிவோம். எனினும், அந்த தரப்பினர் சம்பள நிர்ணய சபைக்கு உள்ளே வருகின்றனர். ஆகையால், சம்பள அதிகரிப்பு தொடர்பில் பேச்சுவார்த்தை நடைபெறுகிறது என்றார்.
+
+...
+
+[Data](articles/5048af79.json)
+
+---
+
+### රු මි 181ක් වටින හෂීෂ් මත්ද්‍රව්‍ය සමග විදෙස් කතක් ගුවන්තොටේ දී මාට්ටු
+
+*2025-07-22 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212503) · `si`
+
+අද (22) අලුයම 2.50ට පමණ කැනඩාවේ සිට දෝහා හරහා කටාර් ගුවන් සමාගමට අයත් ගුවන්යානයකින් මෙරටට පැමිණි විදෙස් ජාතික කාන්තාවක් හෂීෂ් මත්ද්‍රව්‍ය සමග කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන ඒකකයේ නිලධාරීන් විසින් අදාළ කාන්තාවගේ ගමන් මලු පරීක්ෂා කිරීමේ දී හෂීෂ් ග්‍රෑම් 18,123ක් තිබී සොයාගෙන ඇත.
+
+එහි වටිනාකම රු මිලියන 181ක් පමණ බව ශ්‍රී ලංකා රේගුව තක්සේරු කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් මූලික විමර්ශන කටයුතු ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ මත්ද්‍රව්‍ය පාලන ඒකකය මඟින් සිදුකරමින් සිටින අතර සැකකාරිය සහ අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය වැඩිදුර විමර්ශන කටයුතු හා නීතිමය කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය නියාමන කාර්යාංශයට භාරදීමට නියමිත බව රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/9ad5c2e1.json)
+
+---
+
+### திங்கட்கிழமைகளில் மாரடைப்பு ஏற்பட வாய்ப்புகள் அதிகம்
+
+*2025-07-22 10:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமைகளில்-மாரடைப்பு-ஏற்பட-வாய்ப்புகள்-அதிகம்/175-361505) · `ta`
+
+உலகம் முழுவதும் அச்சுறுத்தும் பிரச்சனையாக மாரடைப்பு பிரச்சனை இருக்கிறது. மற்ற நாட்களை விட திங்கட்கிழமைகளில்தான் மாரடைப்பு அதிக அளவில் ஏற்படுகிறது என்று தற்போது ஆய்வுகள் தெரிவிக்கின்றன.
+
+இது தொடர்பான ஆய்வுகள் கடந்த 2023ம் ஆண்டு வெளியாகியிருப்பினும், தற்போது மீண்டும் கவனம் பெற்று வருகிறது. பெல்ஃபாஸ்ட் ஹெல்த் மற்றும் சோஷியல் கேர் டிரஸ்ட் மற்றும் ராயல் காலேஜ் ஆஃப் சர்ஜன்ஸ் இன் அயர்லாந்து ஆகியவற்றைச் சேர்ந்த மருத்துவர்கள் இணைந்து இந்த ஆய்வை மேற்கொண்டனர்.
+
+STEMI எனப்படும் தீவிர மாரடைப்பால் பாதிக்கப்பட்ட 10,528 நோயாளிகளின் மருத்துவ பதிவுகளை அவர்கள் ஆய்வு செய்தனர். 2013 முதல் 2018 வரையிலான காலகட்டத்தில் அயர்லாந்து தீவு முழுவதும் உள்ள மருத்துவமனைகளில் அனுமதிக்கப்பட்ட நோயாளிகளின் தரவுகள் ஆய்வுக்கு எடுத்துக்கொள்ளப்பட்டன.
+
+...
+
+[Data](articles/0b4d6f79.json)
+
+---
+
+### ටී-56 ගිනිඅවියක් සමග හිටපු LTTE සාමාජිකයෙක් අත්අඩංගුවට
+
+*2025-07-22 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212502) · `si`
+
+ටී 56 ගිනිඅවියක් සමග පුද්ගලයෙක් පෑලියගොඩ ප්‍රදේශයේ දී කිරිබත්ගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (21) සවස අදාළ පුද්ගලයාව අත්අඩංගුවට ගෙන ඇත්තේ පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමකදීය.
+
+එහිදී ඔහු සන්තකයේ තිබී ටී 56 ගිනිඅවියක්, එම පතරොම් 30ක් සහිත පතරොම් ගැබක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 5යි මිලිග්‍රෑම් 560ක් ද සොයා ගෙන තිබේ.
+
+අදාළ සැකකරු ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටියදී එලෙස අත්අඩංගුවට පත්ව ඇත.
+
+කෙසේවෙතත් අප වාර්තාකරු පැවසුවේ අදාළ පුද්ගලයා හිටපු එල්.ටී.ටී.ඊ සාමාජිකයෙකු වන අතර, ඔහුව පසුව හමුදාව විසින් පුනරුත්ථාපනය කර ඇති බවය.
+
+සැකකරු අවුරුදු 30ක් වන යාපනය ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර, ඔහු යම් අපරාධයක් සිදුකිරීමට මෙලෙස ගිනිඅවියක් සමඟ පැමිණ ඇතැයි පොලීසිය සැක පළ කරයි.
+
+◼️
+
+[Data](articles/95fd9e23.json)
+
+---
+
+### ஐஜிபி தென்னகோன் குற்றவாளி : சபாநாயகர்
+
+*2025-07-22 10:03:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஜிபி-தென்னகோன்-குற்றவாளி-சபாநாயகர்/175-361503) · `ta`
+
+ஐஜிபி தேசபந்து தென்னகோனை விசாரித்த குழு, குற்றச்சாட்டுகளில் அவர் குற்றவாளி என்று கண்டறிந்துள்ளதாக சபாநாயகர் ஜகத் விக்ரமரத்ன செவ்வாய்க்கிழமை (22) அறிவித்தார்.
+
+பாராளுமன்றம் விவாதித்து தீர்மானத்தை நிறைவேற்றும் திகதி பின்னர் அறிவிக்கப்படும் என்று சபாநாயகர் தெரிவித்தார்
+
+◼️
+
+[Data](articles/9f14c9b2.json)
+
+---
+
+### “ஆண்கள் குறைந்ததால் பெண்கள் தனிமைப்படுவர்”
+
+*2025-07-22 09:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்கள்-குறைந்ததால்-பெண்கள்-தனிமைப்படுவர்/175-361502) · `ta`
+
+பெண்களை விட ஆண் மக்கள்தொகையில் தெளிவான குறைவு ஏற்பட்டுள்ளது என்று வயம்ப பல்கலைக்கழகத்தின் மூத்த பேராசிரியர் அமிந்தா மெட்சிலா பெரேரா  தெரிவித்தார்.
+
+இது தொழிலாளர் சக்திக்கும் சமூக முன்னேற்றத்திற்கும் ஒரு தடையாக உள்ளது, மேலும் ஏழை கிராமப்புற பெண்கள் தங்கள் திருமணங்களை கூட இழக்க நேரிடும் என்று அமிந்தா கூறினார்.
+
+புள்ளிவிவரங்களை ஆராய்ந்த பிறகு, அவர் இவ்வாறு தெரிவித்துள்ளதுடன் அவர் மேலும் கூறுகையில் ,
+
+1995 இல் நூறு பெண்களுக்கு 100.2 ஆண்கள் இருந்ததாக தகவல் இருந்தபோதிலும், 2024 இல் இது நூறு பெண்களுக்கு 93.7 ஆண்களாகக் குறைந்துள்ளது.
+
+பெண்களிடையே பிறப்புகள் அதிகரித்துள்ளன. பெண்களின் ஆயுட்காலம் அதிகரிப்பதே இதற்குக் காரணம். இளைஞர்கள் குடியேறும் போக்கு நாளுக்கு நாள் அதிகரித்து வருகிறது. கருவுறுதல் சதவீதம் குறைந்துள்ளது. இந்த பிறப்புகளில், பெரும்பான்மையானவை பெண்கள்.
+
+...
+
+[Data](articles/ee1738d9.json)
+
+---
+
+### දේශබන්දු එල්ලවූ චෝදනාවලට වරදකරු වෙයි - පාර්ලිමේන්තු විමර්ශන කමිටුව
+
+*2025-07-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212501) · `si`
+
+ධුරයේ කටයුතු කිරීම අත්හිටවනු ලැබූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් නෙරපීම සඳහා ඔහු පිළිබඳ විමර්ශනය කිරීමට පත්කළ පාර්ලිමේන්තු පරීක්ෂණ කමිටුව නිර්දේශ කර ඇතැයි කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (22) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+කථානායකවරයා ප්‍රකාශ කළේ, අදාළ කමිටු වාර්තාව තමාට ලැබුණු අතර, එමඟින් දේශබන්දු තෙන්නකෝන් මහතා ඔහුට එරෙහි චෝදනාවලට ඒකමතිකව වැරදිකරු කර ඇති බවය.
+
+මේ අතර, අදාළ වාර්තාව මුද්‍රණය කිරීමටත්, පාර්ලිමේන්තු වෙබ් අඩවියේ දැක්වීමටත් තීරණය විය.
+
+දේශබන්දු තෙන්නකෝන් මහතා සිදුකර ඇති බව කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතළ අන්දමින් භාවිත කිරීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තාවක් සකස් කිරීම සඳහා විශේෂ පරීක්ෂණ කමිටුවක් පසුගිය අප්‍රේල් මාසයේ දී පත්කරනු ලැබීය.
+
+එම කමිටුවේ සභාපතිවරයා ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පත්මන් සූරසේන මහතා කටයුතු කළේය.
+
+එහි සෙසු සාමාජිකයින් ලෙස විනිසුරු නීල් ඉද්දවෙල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරු කටයුතු කළහ.
+
+මෙම පරීක්ෂණ කමිටුව අවස්ථා 10කට වැඩි ගණනකදී රැස්වී සාක්ෂි සටහන් කර ගැනීම සිදුකර ගනු ලැබීය.
+
+...
+
+[Data](articles/1a3b7ced.json)
+
+---
+
+### வகுப்பறையில்  30 பாம்புக் குட்டிகள்,  55 பாம்பு முட்டைகள் மீட்பு
+
+*2025-07-22 09:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வகுப்பறையில்-30-பாம்புக்-குட்டிகள்-55-பாம்பு-முட்டைகள்-மீட்பு/175-361501) · `ta`
+
+பாடசாலையின் ஆரம்ப பிரிவில் உள்ள வெளிப்புற வகுப்பறையில் இருந்து 30 பாம்புக் குட்டிகள், மூன்று வயது வந்த பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் கண்டுபிடிக்கப்பட்டு அகற்றப்பட்டன.
+
+அதன்படி, அந்தப் பகுதியில் பாம்புகள் காணப்படுவதாக ஆசிரியர்கள் மற்றும் மாணவர்களிடமிருந்து வந்த புகாரைத் தொடர்ந்து, புதிதாக நியமிக்கப்பட்ட அதிபர் மற்றும் ஊழியர்களால் இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+புதிய அதிபர் ஜூன் 27 அன்று கடமைகளைப் பொறுப்பேற்றார் மற்றும் எச்சரிக்கைகளின் அடிப்படையில் ஒரு ஆய்வைத் தொடங்கினார், இது கண்டுபிடிப்புக்கு வழிவகுத்தது.
+
+இதில் 1 முதல் 13 ஆம் வகுப்பு வரை உள்ள ஆரம்பப் பிரிவில் மட்டும் 153 மாணவர்கள் உள்ளனர். பாடசாலை நிர்வாகத்தின் விரைவான நடவடிக்கை குழந்தைகள் மற்றும் ஊழியர்களின் பாதுகாப்பை உறுதி செய்ய உதவியது.
+
+◼️
+
+[Data](articles/116c0cef.json)
+
+---
+
+### දේශබන්දු සියලු චෝදනා වලට වැරදිකරු වෙයි - කමිටු තීරණය කථානායක පාර්ලිමේන්තුවට දැනුම් දෙයි
+
+*2025-07-22 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-සියලු-චෝදනා-වලට-වැරදිකරු-වෙයි---කමිටු-තීරණය-කථානායක-පාර්ලිමේන්තුවට-දැනුම්-දෙයි/11-417438) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකොන් මහතාට එරෙහිව එල්ල වූ සියලු චෝදනා වලට වැරදි කරු බව ඒ සම්බන්ධයෙන් පත් කළ කමිටුව තීරණය කර ඇති බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+යෝජනාව විවාදය කර සම්මත කරන දිනය ඉදිරියේදී දැනුම් දෙන බව ද ඔහු පැවසීය.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් කර ඇතැයි කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතල අන්දමින් අනිසි ලෙස යොදාගැනීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තා කිරීමට  අදාළ කමිටුව පසුගියදා පත් කෙරිණි.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතාගේ සභාපතිත්වයෙන් සහ විනිසුරු නීල් ඉද්දවල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරුන්ගේ සාමාජිකත්වයෙන් පරීක්ෂණ පත් කෙරිණි.
+
+◼️
+
+[Data](articles/19f395fc.json)
+
+---
+
+### இன்றைய சிந்தனைக்குரிய சித்திரம்...
+
+*2025-07-22 09:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-சித்திரம்/62-361500) · `ta`
+
+◼️
+
+[Data](articles/095bf9c1.json)
+
+---
+
+### Committee of Inquiry finds IGP Deshabandhu Tennakoon guilty of all allegations, recommends his removal
+
+*2025-07-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110715/committee-of-inquiry-finds-igp-deshabandhu-tennakoon-guilty-of-all-allegations-recommends-his-removal-) · `en`
+
+The Committee of Inquiry appointed to investigate and report its findings on Inspector General of Police Deshabandhu Tennakoon in respect of acts of gross abuse of power has found him guilty of all allegations leveled against the IGP.
+
+Speaker of House Dr. Jagath Wickramaratne confirmed that he has received the report of the committee which has recommended the removal of Deshabandhu Tennakoon from the post of IGP.
+
+The Committee of Inquiry was chaired by Supreme Court Judge P.P. Surasena and consisted of Justice W. M. N. P. Iddawala and E. W. M. Lalith Ekanayake, Chairman, National Police Commission (Ex-officio).
+
+...
+
+[Data](articles/3e28a92d.json)
+
+---
 
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
@@ -68,6 +260,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Gita Gopinath, No.2 in IMF to quit in August; Successor to be named soon
+
+*2025-07-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110714/gita-gopinath-no2-in-imf-to-quit-in-august-successor-to-be-named-soon-) · `en`
+
+Gita Gopinath, the second-in-command at the International Monetary Fund (IMF), will step down at the end of August to return to her position at Harvard University, the IMF has announced.
+
+The timing of Gita Gopinath’s exit has taken many within the IMF by surprise and is believed to have been prompted by her own decision, reported news agency Reuters.
+
+Having originally left Harvard to serve at the Fund, she is now set to resume her role as professor of economics at the university.
+
+Her departure opens a window for the U.S. Treasury to propose a successor—an opportunity that comes as US President Donald Trump pushes to reshape global trade dynamics and curb the country’s persistent trade deficits through sweeping tariffs on imports worldwide.
+
+Gita Gopinath, the First Deputy Managing Director of the IMF visited Sri Lanka last month to discuss economic challenges and opportunities for Sri Lanka—and how the IMF can support efforts.
+
+...
+
+[Data](articles/776efbc9.json)
+
+---
+
+### Increase in female population over males could lead to future crises, expert warns
+
+*2025-07-22 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110713/increase-in-female-population-over-males-could-lead-to-future-crises-expert-warns) · `en`
+
+The continuous decline in the male population in comparison to the number of females in Sri Lanka could lead to significant crises in the future, Senior Professor Aminda Methsila of Wayamba University of Sri Lanka has warned.
+
+According to Professor Methsila, in 1995 there were 100.2 males for every 100 females in the country. However, this ratio has now decreased to 93.7 males per 100 females.
+
+He attributes this trend to several factors, including an increase in female life expectancy, a rise in female births, and the emigration of young males.
+
+“We are observing a notable increase in the proportion of women in nearly all sectors, including universities and other educational institutions—except for a few degrees such as engineering and technology,” Professor Methsila said.
+
+...
+
+[Data](articles/bcd37010.json)
+
+---
+
 ### බංග්ලාදේශ ගුවන් අනතුරින් මිය ගිය පිරිස 27 දක්වා ඉහළට
 
 *2025-07-22 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212499) · `si`
@@ -101,6 +331,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77ec5f24.json)
+
+---
+
+### පාර්ලිමේන්තුව අද රැස්වෙයි
+
+*2025-07-22 09:13:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අද-රැස්වෙයි/11-417436) · `si`
+
+අද දිනයේදී සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත සංශෝධනය සඳහා), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත සංශෝධනය සඳහා) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත දෙවැනි වර කියවීමේ විවාදය පැවැත්වීමට කටයුතු යොදා ඇත.
+
+◼️
+
+[Data](articles/9cd92e13.json)
+
+---
+
+### Tuk-Tuk robbers nabbed in Polgasowita
+
+*2025-07-22 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110712/tuk-tuk-robbers-nabbed-in-polgasowita) · `en`
+
+Three individuals allegedly involved in a series of three-wheeler robberies have been apprehended by the Mount Lavinia Crimes Investigation Division, police stated.
+
+The arrests were made yesterday (21) in Polgasowita within the Kahathuduwa Police Division, based on information received by a team of officers from the Mount Lavinia Division Crimes Investigation Division.
+
+During the raid, 12 grams of heroin were found in possession of two suspects.
+
+Further investigations revealed that the suspects had been traveling in three-wheelers under the pretext of hiring them and then assaulting the drivers and subsequently robbing the vehicles.
+
+The wife of one of the suspects was also arrested in connection with the robberies.
+
+The two male suspects, aged 24 and 27, are residents of Kalawana and Kahathuduwa, while the female suspect, aged 29, is a resident of Kahathuduwa.
+
+They are believed to be responsible for similar three-wheeler robberies in Kahathuduwa, Boralesgamuwa and Moragahahena.
+
+...
+
+[Data](articles/3c29495f.json)
 
 ---
 
@@ -1547,285 +1813,5 @@ Based on information received by the Acting Inspector General of Police regardin
 ◼️
 
 [Data](articles/20305326.json)
-
----
-
-### බංග්ලාදේශ ගුවන් අනතුරින් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 19ක් දක්වා ඉහළට
-
-*2025-07-21 17:30:43* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශ-ගුවන්-අනතුරින්-ජීවිතක්ෂයට-පත්වූ-සංඛ්‍යාව-19ක්-දක්වා-ඉහළට/11-417428) · `si`
-
-බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් ජෙට් යානයක් ඩකා හී පිහිටි පාසලකට කඩා වැටී සිදු වූ අනතුරින් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 19ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මෙම අනතුරින් තවත් පුද්ගලයන් 100 දෙනෙකුට වැඩි පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-පුහුණුවීම් කටයුතු නිරතවෙමින් සිටියදී අද(21දා) මෙම ගුවන් යානය කඩා වැටී අනතුර සිදුව තිබුණි.
-
-◼️
-
-[Data](articles/b8e70b69.json)
-
----
-
-### යාපනය වැඩ බලන ඩී.අයි.ජීගෙන් මූලික අයිතිවාසිකම් පෙත්සමක්
-
-*2025-07-21 17:28:44* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-වැඩ-බලන-ඩී-අයි-ජීගෙන්-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-417427) · `si`
-
-නීතියට පටහැනි ආකාරයට අත්තනෝමතික ලෙස තමන් මාස හයක කාලයක් තුළ පොලිස්ථාන තුනකට මාරු කර යැවීමෙන් සහ තමන්ට වඩා කනිෂ්ඨ නිලධාරියකු යටතේ සේවයේ කිරීමට සැලැස්වීමෙන් තම මූලික අයිතිවාසිකම් කඩකරන ලදැයි සඳහන් කරමින් යාපනය ප්‍රදේශයේ භාර වැඩබලන නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා ගොනු කර ඇති මුලික අයිතිවාසිකම් පෙත්සම සැප්තැම්බර් 03 වැනිදා සලකා බැලීමට ශ්‍රේෂ්ඨාධිකරණය ඊයේ (21) තීරණය කළේය.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන දිලිප් නවාස්, අර්ජුන ඔබේසේකර සහ සෝභිත රාජකරණ යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම  සලකා බැලිණ.
-
-යාපනය ප්‍රදේශය භාර වැඩ බලන නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා ගොනු කර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජාතික පොලිස් කොමිසම ඇතුළු පිරිසක් නම් කර ඇත.
-
-2019 ජුනි 21 වැනිදා සිට 2020 ජනවාරි මාසය දක්වා කාලය තුළ තමන් පොලිස්ථාන තුනකට මාරු කරන ලදැයිද එය පොලිස් චක්‍රලේඛණයට පටහැනි බවද සඳහන් කරන පෙත්සම්කරු එක් අවස්ථාවකදී තමන්ට වඩා පහළ නිලධාරීන් යටතේ සේවය කිරීමට තමාට සිදුවූ බවද ඉන් තමන්ගේ මූලික අයිතිවාසිකම් කඩවි ඇති බවද සඳහන් කර ඇත.
-
-...
-
-[Data](articles/147394a3.json)
-
----
-
-### Over 1,200 persons nabbed during special police operation
-
-*2025-07-21 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110697/over-1200-persons-nabbed-during-special-police-operation) · `en`
-
-A total of 1,241 individuals have been arrested in connection with illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (21).
-
-During the operation, police seized 254 grams of crystal methamphetamine (Ice), 112 grams of heroin, and 3.73 kilograms of cannabis.
-
-As part of the operation, 21,132 people were subjected to inspection, while 7,922 vehicles and 6,545 motorcycles were also checked.
-
-Police also took into custody five firearms, including one manufactured in a foreign country.
-
-Additionally, 18 individuals directly linked to criminal activities and 321 suspects with outstanding warrants were arrested during the operation.
-
-The operation was carried out throughout the day yesterday and involved more than 5,300 personnel, including police officers, members of the Special Task Force, and the tri-forces.
-
-...
-
-[Data](articles/3b855beb.json)
-
----
-
-### බංග්ලාදේශයේ පාසලකට හමුදා ගුවන් යානයක් කඩා වැටීමෙන් ළමුන් ඇතුළුව 19 දෙනෙකු මරුට
-
-*2025-07-21 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212481) · `si`
-
-බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් පුහුණු ගුවන් යානයක් ඩකා අගනුවර පාසල් පරිශ්‍රයකට කඩා වැටීමෙන් සිදුවූ අනතුරින් ළමුන් 16ක් ඇතුළුව පුද්ගලයින් 19 දෙනෙකු මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-අනතුරින් තවත් පුද්ගලයින් 100කට අධික පිරිසක් තුවාල ලබා ඇතැයිද සඳහන් වේ.
-
-◼️
-
-[Data](articles/d8535764.json)
-
----
-
-### ජනපති සහ IMF නියෝජිතයන් අතර හමුවක්
-
-*2025-07-21 17:21:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-IMF-නියෝජිතයන්-අතර-හමුවක්/11-417426) · `si`
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර වන විස්තීර්ණ ණය පහසුකම් වැඩසටහනට අදාළ ඉදිරි කටයුතු පිළිබඳ ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (21දා) පෙරවරුවේ පැවැත්විණි.
-
-වත්මන් රජය යටතේ මේ වන විට ශ්‍රී ලංකාව තුළ ආර්ථික ස්ථාවරත්වයක් ඇති වී ඇති බැවින් එම ශක්තිමත් පදනම මත, ආර්ථික වර්ධනය ළඟා කර ගනිමින් හා නව ආර්ථික අවස්ථා ග්‍රහණය කර ගනිමින් ශ්‍රී ලංකාව ජාත්‍යන්තරයට ගෙන යාමේ වැඩපිළිවෙළ වේගවත් කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී සඳහන් කළේය.
-
-◼️
-
-[Data](articles/b408e17d.json)
-
----
-
-### கொலை மிரட்டல் : அரசுக்கு கடும் கண்டனம் தெரிவித்து பெண்களின் பாதுகாப்பை உறுதிசெய்யுமாறு பொதுஜன பெரமுனவின் வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா கோரிக்கை
-
-*2025-07-21 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220552) · `ta`
-
-வெலிகம பிரதேச சபையை அமைக்க ஆதரவு அளித்தால் என்னைக் கொலை செய்யப்போவதாக வெலிகம தேசிய மக்கள் சக்தி உறுப்பினர் சுசந்த் டயஸ் தஹநாயக  தன்னை மிரட்டியதாக  வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம தெரிவித்தார்.
-
-இது குறித்து திங்கட்கிழமை (21) பொதுஜனபெரமுனவின் தலைமையகத்தில் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம மேற்கண்டவாறு தெரிவித்தார்.
-
-இந்த ஊடக சந்திப்பில் சட்டத்தரணி துஷாரி சூரிய ஆராச்சி மற்றும் சமூக ஆர்வலர் சுபாஷினி புலேகொட ஆகியோரும் கலந்து கொண்டு கருத்து தெரிவித்தனர்.
-
-இது குறித்து  வெலிகம பிரதேச சபை உறுப்பினர் சந்துலா பியதிகம மேலும் தெரிவிக்கையில்,
-
-கடந்த 10ஆம் திகதி எனது வீட்டிற்கு முன்பாக தேசிய மக்கள் சக்தி உறுப்பினர் சுசந்த் டயஸ் தஹநாயக ஒரு வெள்ளை காரில் வந்து நின்று 24 ஆம் திகதி நடைபெறும் சபை அமர்வில் கலந்து கொள்வீர்களா? என்று கேட்டார். அதற்கு நான் ஆமாம் என்று கூறினேன்.சபை அமர்வில் கலந்து கொண்டால் கொன்று விடுவேன் என கூறி மிரட்டினார். பின்னர் நான் பொலிஸாரிடத்தில் முறைப்பாடு ஒன்று பதிவு செய்தேன் என்றார்.
-
-...
-
-[Data](articles/5a276dce.json)
-
----
-
-### පෙම්වතා බේරීමට ගොස් වියානා ඇළේ සැඟව ගිය පෙම්වතියගේ සිරුර හමුවෙයි
-
-*2025-07-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212480) · `si`
-
-මහියංගනය පොලිස් වසමේ 17 කණුව ප්‍රදේශයේදී වියානා ඇළෙහි ඇළ කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරා ගැනීමේදි දියේ ගිලී අතුරුදන් වූ පෙම්වතියගේ සිරුර හමුව තිබේ.
-
-ඊයේ (20) සවස මෙම අනතුර සිදුව ඇති අතර ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපළ ඇළ කණ්ඩිය මතින් ඇවිද සිටියදී දිය සෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා දියට වැටී තිබේ.
-
-එම අවස්ථාවේදී පෙම්වතිය ඔහුව බේරා ගැනීමට අත දී ඇති අතර පසුව දෙදෙනාම ඇළට වැටී ඇත.
-
-පසුව එම ස්ථානයෙන් ගිය මහියංගණය පොලිස් පුහුණු පාසලේ නිලධාරියෙක් සහ ඔහුගේ බිරිඳ වහාම ඇළට පැන තරුණයාව බේරාගෙන ඇති අතර තරුණිය සොයා ගැනීමට ඔවුන්ට හැකිවී නොමැත.
-
-කෙසේ නමුත් ඇය සොයා පොලීසිය සහ ප්‍රදේශවාසීන් සෝදිසි මෙහෙයුමක් ආරම්භ කර තිබුණි.
-
-ඒ අනුව ඇගේ සිරුර අද (21) උදෑසන සොයාගෙන තිබේ. මෙලෙස මියගොස් ඇත්තේ රජරට විශ්ව විද්‍යාලයේ ඉගෙනුම ලැබූ 26 හැවිරිදි සිසුවියක් වන අතර ඇය හම්බන්තොට ප්‍රදේශයේ පදිංචිකාරියකි.
-
-◼️
-
-[Data](articles/07a38bb3.json)
-
----
-
-### அநுராதபுரத்தில் சட்டவிரோத மதுபான உற்பத்தி நிலையம் முற்றுகை : இருவர் கைது
-
-*2025-07-21 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/220559) · `ta`
-
-அநுராதபுரம்-கெக்கிராவ பகுதியில் அமைந்துள்ள ஒளுகறந்த குளத்துப் பகுதியில் சட்டவிரோதமாக இயங்கிக் கொண்டிருந்த மதுபான உற்பத்தி நிலையம் ஒன்று பொலிஸ் விசேட அதிரடிப்படையினரால் முற்றுகையிடப்பட்டுள்ளது.
-
-தம்புள்ளை முகாமை சேர்ந்த விசேட அதிரடிப்படையினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில், ஞாயிற்றுக்கிழமை (20) மேற்கொள்ளப்பட்ட இந்த சுற்றிவளைப்பில் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர். இவர்களிடம் இருந்து பெருமளவான சட்டவிரோத மதுபானத்தையும் கைப்பற்றியுள்ளனர்.
-
-கைது செய்யப்பட்டவர்கள் கெக்கிராவ பகுதியைச் சேர்ந்த  27 மற்றும் 32 வயதுடையவர்கள் ஆவர்.
-
-கெக்கிராவ பொலிஸ் நிலைய மது ஒழிப்பு பிரிவினர் பல கோணங்களிலும் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-விசாரணைகளின் பின்னர் சந்தேக நபர்கள் இருவரும் கெக்கிராவ நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/82ddb3bb.json)
-
----
-
-### At least 19 killed as Bangladesh air force plane crashes into college campus
-
-*2025-07-21 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110696/at-least-19-killed-as-bangladesh-air-force-plane-crashes-into-college-campus) · `en`
-
-At least 19 people were killed as a Bangladesh air force training aircraft crashed into a college and school campus in the capital city of Dhaka on Monday, a fire services official said.
-
-More than 50 people, including children and adults, were hospitalised with burns, a doctor at the National Institute of Burn and Plastic Surgery told reporters.
-
-The incident occurred at the Milestone School and College in Dhaka’s northern area of Uttara, officials said.
-
-“Bangladesh Air Force’s F-7 BGI training aircraft crashed in Uttara. The aircraft took off at 13:06 (0706 GMT),” the military’s public relations department said in a statement.
-
-Videos of the aftermath of the crash showed a big fire near a lawn emitting a thick plume of smoke into the sky, as crowds watched from a distance.
-
-Firefighters sprayed water on the mangled remains of the plane, which appeared to have rammed into the side of a building, damaging iron grills and creating a gaping hole in the structure, Reuters TV visuals showed.
-
-...
-
-[Data](articles/13294825.json)
-
----
-
-### சுமார் 90 பேர் ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றுகின்றனர் - முஜிபுர் ரஹ்மான்
-
-*2025-07-21 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220554) · `ta`
-
-ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றும் ஊழியர்கள் தொடர்பான விபரங்களை தகவல் அறியும் சட்டத்தின் மூலம் கோரிய  போது அவற்றை வெளியிட முடியாது என  அரசாங்கத்தினர் தெரிவித்தனர்.  எவ்வாறெனினும் அறியகிடைத்த தகவலுக்கமைய சுமார் 90 பேர் ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றுவதாக  ஐக்கிய தேசிய கட்சியின்  பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்துள்ளார்.
-
-அரசாங்கத்திற்கு வாக்களித்த பொதுமக்கள், அவர்களின் முறையற்ற தீர்மானங்களால் விரக்தி அடைந்துள்ளனர். அத்தீர்மானங்களால் நாட்டில் பல நெருக்கடிகள்  உருவாகியுள்ளன. கடந்த அரசாங்கத்தின் ஆட்சியில்  வெளிப்படைத் தன்மையை இல்லை என கூறிய தரப்பினரின் அரசாங்கம் தற்போது வெளிப்படைத் தன்மையின்றி  செயற்படுகிறது எனவும் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் குற்றம்சாட்டியுள்ளார்.
-
-எதிர்க்கட்சி அலுவலகத்தில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/56b8fce2.json)
-
----
-
-### கிரகரி ஏரியில் படகு சவாரி தற்காலிகமாக தடை
-
-*2025-07-21 17:04:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரகரி-ஏரியில்-படகு-சவாரி-தற்காலிகமாக-தடை/76-361473) · `ta`
-
-◼️
-
-[Data](articles/ab327ff7.json)
-
----
-
-### ஏப்ரல் 2026 முதல் ஈ-என்ஐசி அறிமுகம்
-
-*2025-07-21 17:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-2026-முதல்-ஈ-என்ஐசி-அறிமுகம்/175-361472) · `ta`
-
-இலத்திரனியல் தேசிய அடையாள அட்டைகள் (இ-என்ஐசி) ஏப்ரல் 2026க்குள் வழங்கப்படும் என்று எதிர்பார்க்கப்படுகிறது என்று டிஜிட்டல் பொருளாதாரத் துணை அமைச்சர் எரங்க வீரரத்ன தெரிவித்தார்.
-
-டிஜிட்டல் ஐடி அமைப்பை நிறுவுவதை நோக்கமாகக் கொண்டு, ஐடி செயல்முறையை டிஜிட்டல் மயமாக்கும் திட்டம் 2012 இல் தொடங்கப்பட்டதாக அவர் கூறினார்.
-
-பிளாஸ்டிக் அடையாள அட்டைகளின் தற்போதைய பயன்பாடு சுற்றுச்சூழல் அமைப்பை எதிர்மறையாக பாதிக்கிறது என்பதை வீரரத்ன எடுத்துரைத்தார், மேலும் டிஜிட்டல் அடையாள தளத்திற்கு மாற வேண்டியதன் அவசியத்தையும் குறிப்பிட்டார்.
-
-இந்த அமைப்பு MOSIP செயல்படுத்தல் தீர்வு மூலம் இலங்கையின் ஐடி பதிவு செயல்முறையைத் தனிப்பயனாக்க வடிவமைக்கப்பட்டுள்ளது.
-
-இருப்பினும், டிஜிட்டல் ஐடி இப்போது வேகமாக உருவாகி வருவதாலும், பாதுகாப்பான மற்றும் திறமையான ஐடி தளத்தை ஆதரிப்பதில் முக்கிய பங்கு வகிப்பதாலும், மாடுலர் ஓப்பன் சோர்ஸ் ஐடென்டிட்டி பிளாட்ஃபார்ம் (MOSIP) போன்ற ஒரு அமைப்பு அவசியம்.
-
-◼️
-
-[Data](articles/d54e5a79.json)
-
----
-
-### தலவாக்கலையில் மரம் முறிந்து விழுந்ததால் மின்சாரம் துண்டிப்பு
-
-*2025-07-21 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220556) · `ta`
-
-தலவாக்கலை பகுதியில், அட்டன் இருந்து சென்கிளேயர் வரை செல்லும் 33,000 வொட் உயர் மின்னழுத்த மின்சாரக் கம்பியின் மீது மரம் முறிந்து விழுந்ததால் பெரும் சேதம் ஏற்பட்டுள்ளது.
-
-இதனால் அப்பகுதிகளில் மின் தடை ஏற்பட்டுள்ளதாக அட்டன் மின்சார வாடிக்கையாளர் சேவை மையத்தின் மின்சார கண்காணிப்பாளர் நிமல் சமரக்கோன் தெரிவித்துள்ளார்.
-
-மத்திய மலைநாட்டில் மேற்கு சரிவுகளில் கடும் மழை மற்றும் காற்று வீசி வருவதால் ஞாயிற்றுக்கிழமை (20) இரவு இந்த சம்பவம் இடம் பெற்றுள்ளது.
-
-மரத்தை வெட்டி அகற்றி சேதமடைந்த மின்சார உள்கட்டமைப்பை மீட்டெடுக்கும் முயற்சியும் மழையால் தடைப்பட்டுள்ளது.
-
-டெவோன் பகுதி மற்றும் பத்தனை ஸ்ரீபாத கல்வி நிறுவனம் உட்பட பல பகுதிகளை மின்சாரம் இல்லாமல் செய்துள்ளது என சமரகோன் தெரிவித்துள்ளார்.
-
-நிலைமைகள் சீரானதும் மீன் சாரத்தை வழமைக்கு கொண்டுவர  அதிகாரிகள் தயாராக இருப்பதாகவும் அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/bba3647c.json)
-
----
-
-### Sri Lanka sees foreign buying in rupee bonds for second straight week
-
-*2025-07-21 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-for-second-straight-week-231679/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for the second straight week amid U.S. President Donald Trump’s push for steep new tariffs on European Union products.
-
-Foreign investors bought 8.57 million dollars worth of government securities in the week ended on July 17, extending the total inflow to 14.22 million dollars in the last two weeks. The island nation saw net offshore selling for the three straight weeks, Central Bank data showed.
-
-Foreign investors bought 2,570 million rupees (8.57 million dollars) worth rupee bonds in the week.
-
-Global investors pulled money out of equity funds in the week through July 16 as Trump’s tariff threats and an inflation report indicating an increase in U.S. consumer prices, dampened risk sentiment.
-
-Investors withdrew a net $5.3 billion from global equity funds during the week, Reuters reported.
-
-...
-
-[Data](articles/62cf9990.json)
-
----
-
-### Japan faces rice shortage as South Korea battles oversupply
-
-*2025-07-21 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110695/japan-faces-rice-shortage-as-south-korea-battles-oversupply) · `en`
-
-Japan is grappling with rice shortages and price hikes, forcing it to ramp up imports.
-
-Just across the sea, South Korea is facing the opposite problem — an overwhelming surplus that has driven prices so low, some regions are practically giving rice away.
-
-As shortages and surpluses hit wallets and livelihoods, the instability of rice supply could have an impact far beyond the dining table, said observers.
-
-Farmer Park Geun Sik spent his life working the land in Haenam, a farming town in South Jeolla province, about 330km south of Seoul.
-
-When he started, everything from planting seedlings to threshing rice was done by hand. Rice was so scarce that there were designated no-rice days banning its sale.
-
-Then, machines arrived and high-yield rice varieties were introduced as South Korea embarked on a drive for self-sufficiency.
-
-Like most farmers in South Korea, Park is a member of the National Agricultural Cooperative Federation Nonghyup.
-
-...
-
-[Data](articles/84f91c54.json)
 
 ---

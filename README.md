@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 17:52:39**
+As of **2025-07-22 18:09:13**
 
 ## Newspaper Stats
 
-*Scraped **66,141** Articles*
+*Scraped **66,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,347
-adaderanalk | 8,105
+adaderanalk | 8,106
 tamilmirrorlk | 9,510
-virakesarilk | 11,018
+virakesarilk | 11,020
 adaderanasinhalalk | 11,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,141 articles have been extended.
+61,973 (93.7%) of 66,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### முன்னாள் ஜனாதிபதிகளுக்கான சிறப்புரிமைகளை இரத்து செய்யும் யோசனைக்கு அமைச்சரவை அங்கீகாரம்
+
+*2025-07-22 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/220665) · `ta`
+
+நாட்டின் முன்னாள் ஜனாதிபதிகளுக்கான சிறப்புரிமைகள் மற்றும் சலுகைகளை இரத்து செய்வதற்கான புதிய சட்ட மூலத்தை தயாரிப்பதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. அனைத்து ஜனாதிபதிகளுக்கும் பொதுவாகவே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது. எவருக்கும் சிறப்புரிமை வழங்கப்படவில்லை என அமைச்சரவை பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+அரசாங்க தகவல் திணைக்களத்தில் செவ்வாய்கிழமை (22) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டிலேயே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+
+முன்னாள் ஜனாதிபதிகளுக்கு சட்ட ரீதியாக வழங்கப்பட்டுள்ள அனைத்து சிறப்புரிமைகளும் இதன் மூலம் இரத்து செய்யப்படும். இந்த சட்ட மூலம் வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்டு பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும்.  பாராளுமன்றத்தில் அனுமதி கிடைத்த பின்னரே சட்டத்தை நடைமுறைப்படுத்தக் கூடிய கால அவகாசம் தொடர்பில் குறிப்பிட முடியும். மிகக்குறுகிய காலத்துக்குள் அதற்குரிய நடவடிக்கை எடுக்கப்படும்.
+
+...
+
+[Data](articles/e0f7e85e.json)
+
+---
 
 ### அஸ்வெசும  : காலத்தை நீட்டிக்க தீர்மானம்
 
@@ -69,6 +85,8 @@ Extensions include translations and NER (Named Entity Recognition).
 සේවකයින්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත තෙවන වර කියවීම අද (22) පාර්ලිමේන්තුවේදී විශේෂ බහුතරයකින් සම්මත කර ගැනුණි.
 
 ඒ අනුව කථානායකවරයා සභාවට දැනුම්දුන්නේ සේවකයින්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සංශෝධන සහිතව වැඩි ඡන්ද 181කින් සම්මත වූ බවය.
+
+මේ අතර සේවකයින්ගේ ජාතික අවම වේතනය සංශෝධන පනත් කෙටුම්පත අද පාර්ලිමේන්තුවේදී තුන්වන වර කියවා සංශෝධන සහිතව සම්මත කරගත් බවද කථානායකවරයා සභාවට දැනුම්දුනි.
 
 ◼️
 
@@ -133,6 +151,26 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 ◼️
 
 [Data](articles/ffddf968.json)
+
+---
+
+### மின்சார வேலியில் சிக்கி காட்டு யானை உயிரிழப்பு!
+
+*2025-07-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/220638) · `ta`
+
+அம்பாறை வனஜீவராசி பிரிவுற்குட்பட்ட கனகராயம் பகுதியில் சட்டவிரோதமாக பொருத்தப்பட்ட மின்சார வேலியில் சிக்கிகாட்டு யானை ஒன்று  உயிரிழந்துள்ளதாக வனஜீவராசிகள் பாதுகாப்பு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சுமார் 20 வயதுடைய, நன்கு வளர்ந்த ஆண் யானை ஒன்றே சம்பவ இடத்திலேயே உயிரிழந்துள்ளது.
+
+இதனையடுத்து, சம்பவத்துடன் தொடர்புடையதாக சந்தேகிக்கப்படும் வயலின் உரிமையாளர் கைது செய்யப்பட்டு, திங்கட்கிழமை (21) பொத்துவில் நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும், அதற்கு முந்தைய  தினம் பொத்துவில் பகுதியில் இன்னொரு காட்டு யானை மின்சார வேலியில் சிக்கி உயிரிழந்ததாகவும், சட்டவிரோத மின்சார வேலிகள் பயன்படுத்தப்படுவதை குறித்து கவலைப்படுவதாகவும் வனஜீவராசிகள் பாதுகாப்பு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த யானையின் பிரேத பரிசோதனை, அம்பாறை வனஜீவராசிகள் பாதுகாப்பு திணைக்கள பிரிவின் கால்நடை வைத்தியர் நிஹால் புஷ்பகுமாரயால் மேற்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/2d2a18d6.json)
 
 ---
 
@@ -218,6 +256,22 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 
 ---
 
+### Asgiri Anunayake Thero’s remains to lie in state until Thursday
+
+*2025-07-22 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110739/asgiri-anunayake-theros-remains-to-lie-in-state-until-thursday-) · `en`
+
+The remains of the Anunayake Thero of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero, lie in state at the Upali Memorial Hall of the Asgiri Temple in Kandy, for public respect until Thursday (July 24), when the final rites will be performed, Ada Derana reporter said.
+
+The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero, passed away at the age of 67 on July 20 while receiving treatment at a private hospital following a heart attack.
+
+Accordingly, the funeral ceremony and the cremation of the senior Buddhist monk will be held with state sponsorship at the Police Grounds at 2.30 p.m. on Thursday.
+
+◼️
+
+[Data](articles/4fc1260c.json)
+
+---
+
 ### අස්වැසුම දෙවැනි අදියරට අදාළව අභියාචනා භාර ගැනීම දීර්ඝ කෙරේ
 
 *2025-07-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212522) · `si`
@@ -258,7 +312,15 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 
 The carcasses of three wild elephants including a tusker—whose tusks had been removed and is believed to have died about a month ago—were discovered within the Digampathaha area of the Inamaluwa Forest Reserve, said Ada Derana reporter.
 
-◼️
+Residents of the area claim that the remains of a total of five wild elephants and a tusker, believed to have died around a month ago, have been found in the Inamaluwa Forest Reserve in Dambulla.
+
+Several local residents led a group of journalists to the bodies of two elephants and a tusker.
+
+They also reported that the remaining three carcasses were located in areas that were difficult and dangerous to access due to the frequent presence of wild elephants, reports of firearms set as traps for animals, and the challenging terrain.
+
+Furthermore, the residents alleged that those who initially discovered the bodies failed to report the incident properly.
+
+...
 
 [Data](articles/a2f49a40.json)
 
@@ -1713,61 +1775,5 @@ Further investigations are currently being conducted by the Kiribathgoda Police.
 ◼️
 
 [Data](articles/7bf8a328.json)
-
----
-
-### රු මි 181ක් වටින හෂීෂ් මත්ද්‍රව්‍ය සමග විදෙස් කතක් ගුවන්තොටේ දී මාට්ටු
-
-*2025-07-22 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212503) · `si`
-
-අද (22) අලුයම 2.50ට පමණ කැනඩාවේ සිට දෝහා හරහා කටාර් ගුවන් සමාගමට අයත් ගුවන්යානයකින් මෙරටට පැමිණි විදෙස් ජාතික කාන්තාවක් හෂීෂ් මත්ද්‍රව්‍ය සමග කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන ඒකකයේ නිලධාරීන් විසින් අදාළ කාන්තාවගේ ගමන් මලු පරීක්ෂා කිරීමේ දී හෂීෂ් ග්‍රෑම් 18,123ක් තිබී සොයාගෙන ඇත.
-
-එහි වටිනාකම රු මිලියන 181ක් පමණ බව ශ්‍රී ලංකා රේගුව තක්සේරු කර තිබේ.
-
-සිද්ධිය සම්බන්ධයෙන් මූලික විමර්ශන කටයුතු ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ මත්ද්‍රව්‍ය පාලන ඒකකය මඟින් සිදුකරමින් සිටින අතර සැකකාරිය සහ අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය වැඩිදුර විමර්ශන කටයුතු හා නීතිමය කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය නියාමන කාර්යාංශයට භාරදීමට නියමිත බව රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසීය.
-
-◼️
-
-[Data](articles/9ad5c2e1.json)
-
----
-
-### திங்கட்கிழமைகளில் மாரடைப்பு ஏற்பட வாய்ப்புகள் அதிகம்
-
-*2025-07-22 10:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமைகளில்-மாரடைப்பு-ஏற்பட-வாய்ப்புகள்-அதிகம்/175-361505) · `ta`
-
-உலகம் முழுவதும் அச்சுறுத்தும் பிரச்சனையாக மாரடைப்பு பிரச்சனை இருக்கிறது. மற்ற நாட்களை விட திங்கட்கிழமைகளில்தான் மாரடைப்பு அதிக அளவில் ஏற்படுகிறது என்று தற்போது ஆய்வுகள் தெரிவிக்கின்றன.
-
-இது தொடர்பான ஆய்வுகள் கடந்த 2023ம் ஆண்டு வெளியாகியிருப்பினும், தற்போது மீண்டும் கவனம் பெற்று வருகிறது. பெல்ஃபாஸ்ட் ஹெல்த் மற்றும் சோஷியல் கேர் டிரஸ்ட் மற்றும் ராயல் காலேஜ் ஆஃப் சர்ஜன்ஸ் இன் அயர்லாந்து ஆகியவற்றைச் சேர்ந்த மருத்துவர்கள் இணைந்து இந்த ஆய்வை மேற்கொண்டனர்.
-
-STEMI எனப்படும் தீவிர மாரடைப்பால் பாதிக்கப்பட்ட 10,528 நோயாளிகளின் மருத்துவ பதிவுகளை அவர்கள் ஆய்வு செய்தனர். 2013 முதல் 2018 வரையிலான காலகட்டத்தில் அயர்லாந்து தீவு முழுவதும் உள்ள மருத்துவமனைகளில் அனுமதிக்கப்பட்ட நோயாளிகளின் தரவுகள் ஆய்வுக்கு எடுத்துக்கொள்ளப்பட்டன.
-
-...
-
-[Data](articles/0b4d6f79.json)
-
----
-
-### ටී-56 ගිනිඅවියක් සමග හිටපු LTTE සාමාජිකයෙක් අත්අඩංගුවට
-
-*2025-07-22 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212502) · `si`
-
-ටී 56 ගිනිඅවියක් සමග පුද්ගලයෙක් පෑලියගොඩ ප්‍රදේශයේ දී කිරිබත්ගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (21) සවස අදාළ පුද්ගලයාව අත්අඩංගුවට ගෙන ඇත්තේ පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමකදීය.
-
-එහිදී ඔහු සන්තකයේ තිබී ටී 56 ගිනිඅවියක්, එම පතරොම් 30ක් සහිත පතරොම් ගැබක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 5යි මිලිග්‍රෑම් 560ක් ද සොයා ගෙන තිබේ.
-
-අදාළ සැකකරු ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටියදී එලෙස අත්අඩංගුවට පත්ව ඇත.
-
-කෙසේවෙතත් අප වාර්තාකරු පැවසුවේ අදාළ පුද්ගලයා හිටපු එල්.ටී.ටී.ඊ සාමාජිකයෙකු වන අතර, ඔහුව පසුව හමුදාව විසින් පුනරුත්ථාපනය කර ඇති බවය.
-
-සැකකරු අවුරුදු 30ක් වන යාපනය ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර, ඔහු යම් අපරාධයක් සිදුකිරීමට මෙලෙස ගිනිඅවියක් සමඟ පැමිණ ඇතැයි පොලීසිය සැක පළ කරයි.
-
-◼️
-
-[Data](articles/95fd9e23.json)
 
 ---

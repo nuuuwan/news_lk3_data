@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 00:39:21**
+As of **2025-07-23 00:50:50**
 
 ## Newspaper Stats
 
-*Scraped **66,197** Articles*
+*Scraped **66,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 676
 bbccomsinhala | 677
 islandlk | 4,041
 economynextcom | 4,044
-dailyftlk | 4,680
+dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,520
+tamilmirrorlk | 9,521
 virakesarilk | 11,029
 adaderanasinhalalk | 11,376
 
@@ -26,11 +26,109 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,197 articles have been extended.
+61,973 (93.6%) of 66,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### HRCSL submits parallel report to United Nations Committee on Enforced Disappearance
+
+*2025-07-23 00:29:52* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-submits-parallel-report-to-United-Nations-Committee-on-Enforced-Disappearance/56-779355) · `en`
+
+Reveals over 27,000 cases of missing persons considered by past commissions of inquiry
+
+OMP has received over 21,000 complaints relating to missing persons
+
+Official data from early 2000s where identification of perpetrators in over 1,600 cases and the institution of over 300 cases in the High Court ultimately led to only 12 convictions
+
+The Human Rights Commission of Sri Lanka (HRCSL) submitted its Parallel Report to the United
+
+Nations Committee on Enforced Disappearance ahead of the Committee’s 29th session to be held from 22 September to 3 October.
+
+At this session, the Committee is scheduled to review Sri Lanka’s fulfilment of obligations under the International Convention for the Protection of All Persons from Enforced Disappearance (‘Convention’). The HRCSL’s 25-page report contained several key observations and recommendations on Sri Lanka’s implementation of the Convention.
+
+...
+
+[Data](articles/57ebd9cd.json)
+
+---
+
+### SC stays Appeal Court ruling on naming Deshabandu Thennakoon as suspect in 2022 Galle Face attacks
+
+*2025-07-23 00:29:25* · [`dailyftlk`](https://www.ft.lk/news/SC-stays-Appeal-Court-ruling-on-naming-Deshabandu-Thennakoon-as-suspect-in-2022-Galle-Face-attacks/56-779354) · `en`
+
+The Supreme Court yesterday stayed a ruling by the Court of Appeal that had invalidated a directive from the Attorney General to the Police to name suspended Inspector General of Police (IGP) Deshabandu Thennakoon as a suspect over the 9 May 2022 Galle Face attacks.
+
+The Supreme Court three-judge bench comprising Justices Janak de Silva, Sobhitha Rajakaruna and Sampath Abeykoon made this order following a leave to appeal petition filed by the Attorney General.
+
+The Court also overruled a preliminary objection raised by President’s Counsel Romesh de Silva who appeared for Thennakoon, arguing that the caption relating to the respondents had not been amended as required.
+
+Meanwhile, Deputy Solicitor General Suharshi Herath, appearing for the Attorney General, informed the Court that the Attorney General is constitutionally empowered to issue legal advice to law enforcement agencies when requested, and that such advice was provided in this instance upon the request by Police.
+
+...
+
+[Data](articles/447774d8.json)
+
+---
+
+### Parliament postpones debate on Electricity (Amendment) Bill
+
+*2025-07-23 00:28:36* · [`dailyftlk`](https://www.ft.lk/news/Parliament-postpones-debate-on-Electricity-Amendment-Bill/56-779353) · `en`
+
+The Committee on Parliamentary Business has decided not to proceed with the scheduled debate on the Sri Lanka Electricity (Amendment) Bill, which was initially set for tomorrow (24).
+
+The decision was made during a meeting held yesterday, chaired by Speaker Dr. Jagath Wickramaratne, according to Secretary General of Parliament Kushani Rohanadeera.
+
+The second reading of the Bill will be postponed to a later date due to technical matters that need to be addressed before the debate can proceed.
+
+In place of the postponed debate, Parliament will hold an Adjournment Debate on the “Proposed New Education Reforms” on 24 July. The discussion will continue until 5.30 p.m. and will be based on a motion presented by the Government.
+
+◼️
+
+[Data](articles/160b57f4.json)
+
+---
+
+### History still part of curriculum amid education reforms: Cabinet Spokesman
+
+*2025-07-23 00:28:10* · [`dailyftlk`](https://www.ft.lk/news/History-still-part-of-curriculum-amid-education-reforms-Cabinet-Spokesman/56-779352) · `en`
+
+Cabinet Spokesman Dr. Nalinda Jayatissa labels Opposition allegations as politically motivated and misleading
+
+Confirms reforms are still under consultation, with pilot implementation in Grades 1 and 6
+
+Asserts Education Ministry open to hold stakeholder discussions for feedback; reforms aim to address outdated content and include technology education
+
+Cabinet Spokesperson and Minister Dr. Nalinda Jayatissa yesterday dismissed claims that history and aesthetic subjects are being removed from the school curriculum under the proposed education reforms, calling such reports misleading and politically motivated.
+
+In response to questions posed at the weekly post-Cabinet meeting media briefing yesterday, he claimed false information was being circulated by the Opposition groups alleging that history and arts have been eliminated from the national curriculum.
+
+Dr. Jayatissa asserted that the reforms are being misrepresented for political gain at the expense of children’s futures.
+
+...
+
+[Data](articles/06c317d2.json)
+
+---
+
+### President nominates Justice Surasena for Chief Justice post: Cabinet Spokesman
+
+*2025-07-23 00:26:46* · [`dailyftlk`](https://www.ft.lk/news/President-nominates-Justice-Surasena-for-Chief-Justice-post-Cabinet-Spokesman/56-779351) · `en`
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday confirmed that President Anura Kumara Disanayake has nominated Justice Preethi Padman Surasena for the position of Chief Justice and submitted his name to the Constitutional Council for approval.
+
+“Yes, the President has submitted Preethi Padman Surasena’s name to the Constitutional Council as Chief Justice,” Dr. Jayatissa stated, responding to a question at the weekly post-Cabinet meeting media briefing.
+
+Commenting on the decision, the Cabinet Spokesman said Justice Surasena is a senior judge of the Supreme Court with a long and respected career in the judiciary. “That’s why the President submitted his name,” he added, addressing questions about overlooking seniority.
+
+Surasena was the Committee Chair appointed by Parliament to investigate allegations of gross abuse of power against suspended Inspector General of Police (IGP) Deshabandu Thennakoon.
+
+◼️
+
+[Data](articles/667cd595.json)
+
+---
 
 ### SL to ink MoU with South Korea’s Bosong to deploy seasonal agricultural workers on E-8 visa
 
@@ -108,7 +206,63 @@ However, he said if anyone who finds that the existing violates standard procedu
 
 ---
 
+### யுனெஸ்கோவிலிருந்து விலகும் அமெரிக்கா
+
+*2025-07-23 00:15:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யுனெஸ்கோவிலிருந்து-விலகும்-அமெரிக்கா/50-361569) · `ta`
+
+இஸ்ரேல் மீதான அதன் சார்பு மற்றும் பிரிவினைவாதத்தை ஊக்குவிப்பதற்காக இந்த முடிவை எடுத்ததாக ஐக்கிய நாடுகள் சபையின் கல்வி, அறிவியல் மற்றும் கலாச்சார அமைப்பிற்கு (யுனெஸ்கோ) அமெரிக்கா தெரிவித்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+யுனெஸ்கோவின் தொடர்ச்சியான ஈடுபாடு அமெரிக்காவின் தேசிய நலன்களைப் பூர்த்தி செய்யவில்லை என அமெரிக்க வெளியுறவுத்துறை செய்தித் தொடர்பாளர் டொமி புரூஸ் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/4705def8.json)
+
+---
+
 ### 2025-07-22 (Tuesday)
+
+### Coconut growers in dilemma
+
+*2025-07-22 23:58:33* · [`dailyftlk`](https://www.ft.lk/columns/Coconut-growers-in-dilemma/4-779336) · `en`
+
+While coconut remains an integral part of the nation’s culinary identity and a key export commodity, the growers who sustain this legacy are battling mounting challenges that threaten both livelihoods and the future of the industry
+
+Sri Lanka, often celebrated as the land of the “Tree of Life,” is facing an alarming crisis in one of its most vital agricultural sectors—the coconut industry. While coconut remains an integral part of the nation’s culinary identity and a key export commodity, the growers who sustain this legacy are battling mounting challenges that threaten both livelihoods and the future of the industry.
+
+...
+
+[Data](articles/afff1371.json)
+
+---
+
+### Expectations and disappointments
+
+*2025-07-22 23:54:58* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-and-disappointments/4-779335) · `en`
+
+Voters are entitled to expect at least a clear set of signals that the promises made are being translated into reality
+
+It is nearing 11 months since Anura Kumara Disanayake became President and nine months since the JVP-NPP coalition was put in power with an unassailable two-third majority in Parliament. Both were made possible by a new generation of Sri Lankans awakened by an accelerating desolation of the country’s democratic governance, economic development and its socio-cultural heterogeneity.
+
+...
+
+[Data](articles/2454e1fd.json)
+
+---
+
+### Towards sustainable growth: Expanding Swiss-Sri Lanka economic cooperation
+
+*2025-07-22 23:44:52* · [`dailyftlk`](https://www.ft.lk/columns/Towards-sustainable-growth-Expanding-Swiss-Sri-Lanka-economic-cooperation/4-779334) · `en`
+
+Switzerland continues to be an important tourism source market for Sri Lanka
+
+Switzerland, one of the world’s most advanced economies and Sri Lanka, a South Asian nation with a strategic location, have maintained diplomatic relations since 1956. Over the decades, their economic cooperation has developed gradually, encompassing trade, investment, tourism, and development assistance. While the scale of bilateral engagement remains modest, both countries continue to explore opportunities for mutually beneficial collaboration amid a shifting global economic landscape.
+
+...
+
+[Data](articles/a88784ba.json)
+
+---
 
 ### Woman killed, child injured in shooting in Marawila
 
@@ -1651,155 +1805,5 @@ He said that the Cabinet of Ministers has also granted approval to the proposal 
 ...
 
 [Data](articles/abc96146.json)
-
----
-
-### පොලිසියෙන් විශේෂ සෝදිසි මෙහෙයුමක්
-
-*2025-07-22 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212516) · `si`
-
-මත්ද්‍රව්‍ය හා අපරාධවලට සම්බන්ධ පුද්ගලයන් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක කර ඇති සෝදිසි මෙහෙයුම් මාලාවේ තවත් සෝදිසි මෙහෙයුම් කිහිපයක් ඊයේ (21) දිනය පුරා ක්‍රියාත්මක කිරීමට ශ්‍රී ලංකා පොලීසියත්, පොලිස් විශේෂ කාර්ය බලකාය සහ ත්‍රිවිධ හමුදාව එක්ව සිදු කර තිබේ.
-
-එහිදී පොලිස් නිළධාරීන් විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයන් ඇතුළුව පුද්ගලයන් 73,00කට අධික පිරිසක් මේ සඳහා සහභාගී වී ඇත.
-
-එහිදී පුද්ගලයන් 24,690 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 9,717 ක් හා යතුරු පැදි 7,637ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කර තිබේ.
-
-මෙම මෙහෙයුම් අතරතුරදී නීතිවිරෝධී මත්පැන් ඇතුළත්ව මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 1,427 ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇති අතර ඒ අනුව අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 461 මිලිග්‍රෑම් 866ක ප්‍රමාණයක්ද හෙරොයින් ග්‍රෑම් 401 මිලිග්‍රෑම් 416ක ප්‍රමාණයක් ද ඇතුළත්ව මත්ද්‍රව්‍ය විශාල ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇත.
-
-එමෙන්ම පසුගිය 20 දින සිදු කළ මෙහෙයුම් මගින් ගිනි අවි 02ක ප්‍රමාණයක්ද අත්අඩංගුවට ගෙන ඇත.
-
-...
-
-[Data](articles/68c36236.json)
-
----
-
-### Preethi Padman Surasena nominated as Sri Lanka chief justice
-
-*2025-07-22 14:42:00* · [`economynextcom`](https://economynext.com/preethi-padman-surasena-nominated-as-sri-lanka-chief-justice-232142/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Disanayake has submitted the name of Preethi Padman Surasena for chief justice to the Constitutional Council, minister Nalinda Jayatissa said.
-
-“Yes, the president has submitted Preethi Padman Surasena’s name to the constitutional council as chief justice,” Jayatissa said in response to a journalist’s question.
-
-Jayatissa said Surasena was a senior judge of the Supreme Court and someone who had worked in the justice system a long time, and that was why the president submitted his name, when asked about overlooking seniority.
-
-Justice Surasena chaired a panel appointed by parliament to investigate allegations against Inspector General of Police Deshabandu Tennakoon. (Colombo/Jul22/2025)
-
-◼️
-
-[Data](articles/bbbd61a9.json)
-
----
-
-### නිට්ටඹුවේ ගින්නක් - දැඩි රථවාහන තදබදයකුත්
-
-*2025-07-22 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212515) · `si`
-
-ගින්න මැඩ පැවැත්වීම සඳහා ගම්පහ ගිනි නිවීමේ ඒකකයේ රථ 02ක් යොමු කර ඇති අතර මේ වන විට ගින්න මැඩ පැවැත්වීමට කටයුතු කර ඇත.
-
-ඇති වූ ගින්න හේතුවෙන් කොළඹ දෙසට වාහන ගමන් ගන්නා මංතීරුවේ දැඩි රථ රථවාහන තදබදයක් හටගෙන ඇති බවද වාර්තා වෙයි.
-
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර සිද්ධිය පිළිබඳව වැඩිදුර විමර්ශන සිදුකරති.
-
-◼️
-
-[Data](articles/ca232c5d.json)
-
----
-
-### Adjournment debate on proposed education reforms to be held on Thursday
-
-*2025-07-22 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110733/adjournment-debate-on-proposed-education-reforms-to-be-held-on-thursday-) · `en`
-
-An adjournment debate on the proposed education reforms is scheduled to be held in Parliament on Thursday (24).
-
-Meanwhile, the Sri Lanka Electricity (Amendment) Bill, which was due to be debated on Thursday, will not take place as scheduled, the Department of Communication of Parliament stated.
-
-Accordingly, a decision has been taken to debate the Sri Lanka Electricity (Amendment) Bill, which was to be debated on July 24, on a future date.
-
-◼️
-
-[Data](articles/cd27905d.json)
-
----
-
-### இலஞ்சம் பெற்ற உள்நாட்டு இறைவரித் திணைக்களத்தின் பிரதி ஆணையாளர் பிணையில் விடுதலை
-
-*2025-07-22 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/220621) · `ta`
-
-8,000 ரூபாவை இலஞ்சமாக பெற்ற போது இலஞ்சம் மற்றும்  ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்ட உள்நாட்டு இறைவரித் திணைக்களத்தின் பிரதி ஆணையாளர் கே.சி.கே. குமார இன்று செவ்வாய்க்கிழமை (22) பிணையில் விடுதலை செய்யப்பட்டுள்ளார்.
-
-தலா 10 இலட்சம் பெறுமதியான இரண்டு சரீரப் பிணையில் கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெக்குனாவல அவரை பிணையில் விடுவித்துள்ளார்.
-
-அத்துடன், நடைபெற்றுவரும் விசாரணையில் தலையிட வேண்டாம் எனவும் நீதிமன்றம் கடும் நிபந்தனைகளை விதித்துள்ளது.
-
-2025 ஆம் ஆண்டுக்கான வரி அனுமதிச் சான்றிதழை வழங்குவதற்காக தொழிலதிபர் ஒருவரிடம் 100,000 ரூபாவை இலஞ்சமாக  கோரியுள்ளார்.
-
-அவர் பின்னர் அந்த தொகையை 50,000 ரூபாவாக குறைத்துள்ளதோ, இம்மாதம் 3 ஆம் திகதி 42,000 ரூபாவை இலஞ்சமாகப் பெற்றுள்ளார்.
-
-தொழிலதிபர்  அளித்த முறைப்பாட்டை தொடர்ந்து,  இலஞ்சம் மற்றும்  ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு நடத்திய சோதனை நடவடிக்கையின் போது மீதி தொகையான 8,000 ரூபாவை பெற்ற போது கையும் களவுமாக கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/4ccde025.json)
-
----
-
-### நிட்டம்புவையில் கட்டடத்தில் தீ விபத்து
-
-*2025-07-22 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220626) · `ta`
-
-◼️
-
-[Data](articles/1869ca62.json)
-
----
-
-### எரிபொருள் வரி நிவாரணம் எப்போது வழங்கப்படும்? - தயாசிறி அரசாங்கத்திடம் கேள்வி
-
-*2025-07-22 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220624) · `ta`
-
-எரிபொருளுக்கு அறவிடப்படும் வரிகளை குறைத்து மக்களுக்கு நிவாரணம் வழங்குவதாக ஆட்சிக்கு வர முன்னர் அரசாங்கம் கூறினாலும், அதனை செய்யாது தொடர்ந்தும் எரிபொருள் லீட்டரொன்றுக்கு பெருமளவில் வரியை அறவிடுகின்றது. இந்த வரி நிவாரணம் மக்களுக்கு எப்போது வழங்கப்படும் என  ஐக்கிய மக்கள் சக்தி  உறுப்பினர் தயாசிறி ஜயசேகர கேள்வி எழுப்பினார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது, வலுச் சக்தி அமைச்சரிடம் கேள்வியெழுப்பி தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
-
-எரிபொருள் கொள்வனவின் போது ஒவ்வொரு லீட்டருக்கும் பெருமளவான தொகை முன்னாள் அமைச்சர் கஞ்சன விஜேசேகரவின் பைகளுக்குள் போவதாக குற்றச்சாட்டுகள் கடந்த காலங்களில் முன்வைக்கப்பட்ன. அது இப்போதும் நடக்கின்றதா? என்று கேட்கின்றேன்.
-
-அத்துடன், ஒவ்வொரு மாதமும் விலை சூத்திரம் முன்வைக்கப்பட்டது. ஒவ்வொரு ஏப்ரல் மாதத்திலும் இவ்வாறு நடந்தது. ஆனால் இப்போது நிறுத்தப்பட்டுள்ளது. ஜூன் மாதத்தில் எரிபொருள் இறக்கப்பட்டமை தொடர்பான தகவல்கள் உள்ளன.
-
-...
-
-[Data](articles/a7814092.json)
-
----
-
-### Fire breaks out in a building in Nittambuwa
-
-*2025-07-22 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110732/fire-breaks-out-in-a-building-in-nittambuwa) · `en`
-
-Accordingly, traffic congestion has been reported along the main road towards Colombo.
-
-◼️
-
-[Data](articles/87e7d250.json)
-
----
-
-### Cabinet nod to establish Threat Hunting and Malware Analysis Lab
-
-*2025-07-22 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110731/cabinet-nod-to-establish-threat-hunting-and-malware-analysis-lab-) · `en`
-
-The Cabinet of Ministers has granted approval for the establishment of a Cyber Threat and Malware Analysis Research Unit within the Sri Lanka Computer Emergency Readiness Team (Sri Lanka CERT).
-
-Accordingly, a research unit is planned to be established within the Sri Lanka CERT with the objective of identifying cyber threats, enhancing the capability to combat such threats, and promoting the capacity for analyzing malware and developing human resources.
-
-Digital transformation in Sri Lanka is expected to be expedited through major projects such as the Sri Lanka Digital Identity Card Project, the National Data Sharing Digital Platform, Lanka Government Cloud, and other digitalization projects carried out within government institutions.
-
-Accordingly, the creation of a secure cyberspace has been identified as an essential requirement to implement the projects successfully, a statement issued by the Department of Government Information noted.
-
-...
-
-[Data](articles/93bc7493.json)
 
 ---

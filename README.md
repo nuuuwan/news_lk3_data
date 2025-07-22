@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 08:12:15**
+As of **2025-07-22 09:01:37**
 
 ## Newspaper Stats
 
-*Scraped **66,001** Articles*
+*Scraped **66,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,147 @@ economynextcom | 4,031
 islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,335
-adaderanalk | 8,076
-tamilmirrorlk | 9,474
+adalk | 6,336
+adaderanalk | 8,079
+tamilmirrorlk | 9,477
 virakesarilk | 11,000
-adaderanasinhalalk | 11,338
+adaderanasinhalalk | 11,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 66,001 articles have been extended.
+61,973 (93.9%) of 66,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### மும்பை குண்டுவெடிப்பில் தொடர்புடைய 12 பேர்  விடுதலை
+
+*2025-07-22 08:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மும்பை-குண்டுவெடிப்பில்-தொடர்புடைய-12-பேர்-விடுதலை/175-361497) · `ta`
+
+கடந்த 2006 ஆம் ஆண்டு 189 உயிரிழக்க காரண​மாக இருந்த மும்பை தொடர் குண்​டு​வெடிப்​பில் தொடர்​புடைய 12 பேரை மும்பை உயர் நீதி​மன்​றம் நேற்று விடு​வித்​தது. சிறப்பு நீதி​மன்​றம் விதித்த ஆயுள், மரண தண்​டனை ரத்து செய்​யப்​பட்​டது.
+
+கடந்த 2006 ஆம் ஆண்டு ஜூலை 11 ஆம் திகதி மும்பை புறநகரில் ஓடும் 7 ரயில்​களில், 11 நிமிடங்​களுக்​குள் அடுத்​தடுத்து குண்​டு​கள் வெடித்தன. இதில் 189 பேர் உயி​ரிழந்​தனர். 800 இற்கும் மேற்​பட்​டோர் காயமடைந்​தனர்.
+
+இது தொடர்​பாக மும்பை சிறப்பு நீதி​மன்​றத்​தில் வழக்கு தொடரப்​பட்​டது. விசாரணை​யின் முடி​வில், 12 பேர் குற்​ற​வாளி​கள் என விசா​ரணை நீதி​மன்​றம் கடந்த 2015 ஆம் ஆண்டு தீர்ப்பு வழங்​கியது. இவர்​களில் 5 பேருக்கு மரண தண்​டனை​யும் 7 பேருக்கு ஆயுள் தண்​டனை​யும் விதிக்​கப்​பட்​டது.
+
+இதையடுத்​து, குற்​ற​வாளி​கள் சார்​பில் மும்பை உயர் நீதி​மன்​றத்​தில் மேல்​முறை​யீடு செய்யப்பட்டது. இந்த மனுவை நீதிப​தி​கள் அனில் கிலோர் மற்​றும் ஷ்யாம் சந்​தக் ஆகியோர் அடங்​கிய அமர்வு விசா​ரித்து வந்​தது. விசாரணை முடிந்த நிலை​யில் நேற்று தீர்ப்பு வழங்​கப்​பட்டது.
+
+...
+
+[Data](articles/407af24f.json)
+
+---
+
+### පිරිමි අභිබවා කාන්තා ජනගහණය ඉහළ යෑමෙන් අනාගතයේ අර්බුද රැසක්
+
+*2025-07-22 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212497) · `si`
+
+මෙරට පිරිමි ජනගහණය අඩුවීම ඉදිරියේ දී අර්බුද රැසක් නිර්මාණය කරනු ඇති බව වයඹ විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ මහාචාර්ය අමින්ද මෙත්සිල මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ 1995 වසරේ දී කාන්තාවන් 100 දෙනෙකුට පිරිමි පුද්ගලයින් 100.2 ලෙස වර්තා වී තිබු අතර එය මේ වන විට කාන්තාවන් සිය දෙනෙකුට පිරිමි පුද්ගලයින් 93.7 දක්වා අඩුවී ඇති බවය.
+
+කාන්තාවන්ගේ ආයු අපේක්ෂාව වැඩිවීම, කාන්තා උපත් වැඩිවීම, තරුණ පිරිමි පුද්ගලයින් විදෙස් ගතවීම මෙම තත්ත්වයට හේතුවී ඇති බව ජ්‍යෙෂ්ඨ මහාචාර්ය අමින්ද මෙත්සිල මහතා පවසයි.
+
+...
+
+[Data](articles/a8561484.json)
+
+---
+
+### இன்று காற்றுடன் கூடிய மழை
+
+*2025-07-22 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றுடன்-கூடிய-மழை/175-361496) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி,  மாவட்டங்களிலும் இன்று அவ்வப்போது மழை பெய்யக்கூடும் என்று வளிமண்டளவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+சப்ரகமுவ மாகாணம் மற்றும் நுவரெலியா, கண்டி, காலி, மாத்தறை மற்றும் களுத்துறை மாவட்டங்களின் சில இடங்களில் சுமார் 75 மில்லிமீற்றர் அளவிலான பலத்த மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வட-மத்திய, வடமேல், மத்திய, தென் மற்றும் சப்ரகமுவ மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் சுமார் 55-60 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என்றும் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/9fa80625.json)
+
+---
+
+### 10 சந்தேக நபர்கள் கடற்படையினரால் கைது
+
+*2025-07-22 08:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-சந்தேக-நபர்கள்-கடற்படையினரால்-கைது/175-361495) · `ta`
+
+இலங்கை கடற்படையினர், பொலிஸ், பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகம் மற்றும் பொலிஸ் சிறப்புப் படை ஆகியவை 2025 ஜூலை 05முதல் 19 வரை கடுகண்ணாவ, அலதெனிய, தவுலகல, கம்பஹா, கட்டுநாயக்க, நிலாவெளி, திருகோணமலை மற்றும் மன்னார், நடுகுடா ஆகிய பகுதிகளில் மேற்கொண்ட சிறப்பு கூட்டுத் தேடுதல் நடவடிக்கைகளின் போது,  10 கிராம் 40 மில்லிகிராம் ஐஸ், 11860 வெளிநாட்டு சிகரெட்டுகள், 264 மாத்திரைகள் மற்றும் 33) மாத்திரை போத்தல்கள், 05 கிலோகிராம் 600 கிராம் குஷ் போதைப்பொருள்கள், 104 கிராம் கேரள கஞ்சாவுடன்  10 சந்தேக நபர்களை கடற்படையினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/da0c4791.json)
+
+---
+
+### මාස 7ට ව්‍යාපෘති 57කට BOI අනුමැතිය - අ.ඩො.මි 569ක් ලංකාවට එයි
+
+*2025-07-22 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212496) · `si`
+
+මේ වසරේ ගතවූ කාලය තුළ ආයෝජන මණ්ඩලය විසින් ව්‍යාපෘති 57ක් අනුමත කර ඇති බව කර්මාන්ත සහ ව්‍යසාය සංවර්ධන නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ මහතා පවසයි.
+
+සිය ෆේස්බුක් ගිණුමේ සටහනක් තබමින් ඔහු පෙන්වා දෙන්නේ, එම ව්‍යාපෘතිවල වටිනාකම අමෙරිකානු ඩොලර් මිලියන 569ක් වන අතර ඉන් අමෙරිකානු ඩොලර් මිලියන 507ක අයෝජන මේ වන විටත් මෙරටට පැමිණ ඇති බවය.
+
+එය 2024 වර්ෂයට සාපේක්ෂව සියයට 101ක වර්ධනයක් බව ද චතුරංග අබේසිංහ මහතා පවසයි.
+
+මේ අතර ජුනි මාසයේ උද්ධමනය සුළු වශයෙන් පහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+මැයි මාසයේ සියයට 0.6ක් වූ උද්ධමනය ජුනි මාසයේ සියයට 0. 3 දක්වා අඩුවී ඇති බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+මැයි මාසයේ සියයට 5.9ක් වූ ආහාර කාණ්ඩයේ උද්ධමනය ද ජුනි මාසයේ දී සියයට 4.2 දක්වා අඩු වී තිබේ.
+
+මේ අතර අමෙරිකානු තීරුබදු සම්බන්ධයෙන් ආණ්ඩුව සිදුකරනු ලබන සාකච්ඡාවල ප්‍රගතිය පිළිබඳ රජය පැහැදිලි ප්‍රකාශයක් සිදුකළ යුතු බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතා පවසයි.
+
+කොළඹ දී මාධ්‍ය වෙත අදහස් දක්වමින් හර්ෂ ද සිල්වා මන්ත්‍රීවරයා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/97cb56d1.json)
+
+---
+
+### UK and 27 other nations condemn Israel over ‘inhumane killing’ of Gaza civilians seeking aid
+
+*2025-07-22 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110710/uk-and-27-other-nations-condemn-israel-over-inhumane-killing-of-gaza-civilians-seeking-aid) · `en`
+
+The UK and 27 other countries have called for an immediate end to the war in Gaza, where they say the suffering of civilians has “reached new depths”.
+
+A joint statement says Israel’s aid delivery model is dangerous and condemns what it calls the “drip feeding of aid and the inhumane killing of civilians” seeking food and water.
+
+Gaza’s Hamas-run health ministry said more than 100 Palestinians were killed by Israeli fire while waiting for food over the weekend and that 19 others died as a result of malnutrition.
+
+Israel’s foreign ministry rejected the countries’ statement, saying it was “disconnected from reality and sends the wrong message to Hamas”.
+
+The ministry accused the armed group of spreading lies and undermining aid distribution, rather than agreeing to a new ceasefire and hostage release deal.
+
+There have been many international statements condemning Israel’s tactics in Gaza during the past 21 months of its war with Hamas. But this declaration is notable for its candour.
+
+...
+
+[Data](articles/98da3715.json)
+
+---
+
+### CC to consider recommendations for new Chief Justice
+
+*2025-07-22 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110709/cc-to-consider-recommendations-for-new-chief-justice) · `en`
+
+The Constitutional Council will convene under the leadership of Speaker of House Dr. Jagath Wickramaratne.
+
+During the meeting, attention will be drawn towards the recommendations of the President regarding the appointment of a new Chief Justice.
+
+Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
+
+◼️
+
+[Data](articles/99247575.json)
+
+---
 
 ### ත්‍රිවිල් කොල්ලකෑ සැකකරුවන් පිරිසක් අත්අඩංගුවට
 
@@ -75,6 +201,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4df3f903.json)
+
+---
+
+### CEB workers to protest today against the Electricity Amendment Bill
+
+*2025-07-22 06:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110707/ceb-workers-to-protest-today-against-the-electricity-amendment-bill) · `en`
+
+Electricity workers have decided to stage a protest today against the new Sri Lanka Electricity (Amendment) Bill proposed by the government as part of the restructuring process of the electricity sector, including the Ceylon Electricity Board (CEB).
+
+The protest will be held this afternoon opposite the CEB Head Office, with workers reporting sick leave to participate, according to the Ceylon Electricity Workers Union.
+
+The Sri Lanka Electricity (Amendment) Bill is scheduled to be presented to Parliament for its second reading on Thursday (24).
+
+It has received approval from the Sectoral Oversight Committee on Infrastructure and Strategic Development.
+
+However, the electricity workers claim that the government is attempting to privatize the Ceylon Electricity Board through the proposed bill.
+
+To oppose the move, all CEB workers are expected to report sick leave and stage a protest in Colombo today, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers Union.
+
+...
+
+[Data](articles/5661139a.json)
 
 ---
 
@@ -1208,6 +1356,22 @@ Based on information received by the Acting Inspector General of Police regardin
 
 ---
 
+### ග්‍රෙගරි වැවේ බෝට්ටු පැදීම තාවකාලිකව නතර කරේ
+
+*2025-07-21 17:36:49* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෙගරි-වැවේ-බෝට්ටු-පැදීම-තාවකාලිකව-නතර-කරේ/11-417429) · `si`
+
+නුවරඑලිය ග්‍රෙගරි වැව අවට පවතින අධික සුළං සහ දැඩි අයහපත් කාළගුණය හමුවේ ආරක්ෂිත හේතුන් මත ඉකුත් සති අන්තයේ ග්‍රෙගරි වැවේ බෝට්ටු සහ හංස බෝට්ටු පැදිම (21) දින තෙක් තාවකාලිකව තහනම් කර තිබුණද, (21) දිනයේත් පවතින දැඩි අයහපත් කාළගුණය හමුවේ බෝට්ටු පැදීම  අත්හැර දැමීමට බෝට්ටු හිමිකරුවන් විසින් තීරණය කර ඇත.
+
+නුවරඑලිය දිස්ත්‍රික් ලේකම්වරියගේ සහ නුවරඑලිය මහ නගරසභාවේ උපදෙස් පරිදි මෙම තාවකාලික තහනම පනවා තිබුණි.
+
+පවතින දැඩි අයහපත් කාළගුණය හමුවේ නුවරඑලියට පැමිණෙන දෙස් විදෙස් සංචාරකයන්ගේ විශාල අඩුවක් පවත්න බවයි බොට්ටු හිමියන් කියා සිටින්නේ.
+
+◼️
+
+[Data](articles/299ea7f9.json)
+
+---
+
 ### வங்கதேசத்தில் கல்லூரி மீது போர் விமானம் விழுந்து நொறுங்கியதில் 16 பேர் பலி (வீடியோ)
 
 *2025-07-21 17:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-கல்லூரி-மீது-போர்-விமானம்-விழுந்து-நொறுங்கியதில்-16-பேர்-பலி-வீடியோ/50-361475) · `ta`
@@ -1663,173 +1827,5 @@ Meanwhile, the S&P SL20 Index moved down by 8.44 points to close at 5,646.66 poi
 ◼️
 
 [Data](articles/4bdf7797.json)
-
----
-
-### ஜனாதிபதிக்கும் ஐ.எம்.எப்  பிரதிநிதிகளுக்கும் இடையில் சந்திப்பு
-
-*2025-07-21 16:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-ஐ-எம்-எப்-பிரதிநிதிகளுக்கும்-இடையில்-சந்திப்பு/175-361470) · `ta`
-
-சர்வதேச நாணய நிதியம் மற்றும் இலங்கைக்கு இடையிலான நீடிக்கப்பட்ட கடன் வசதி  தொடர்பான எதிர்கால முன்னெடுப்புகள் குறித்து ஜனாதிபதி அநுர குமார திசாநாயக்க மற்றும் சர்வதேச நாணய நிதியத்தின்  பிரதிநிதிகளுக்கு இடையே இன்று (21) காலை ஜனாதிபதி அலுவலகத்தில் கலந்துரையாடல் நடைபெற்றது.
-
-தற்போதைய அரசாங்கத்தின் கீழ் இலங்கை பொருளாதார ஸ்திரத்தன்மை எட்டுபட்டுள்ளதால், அந்த வலுவான அடித்தளத்தில் பொருளாதார வளர்ச்சியை அடைவதன் மூலமும் புதிய பொருளாதார வாய்ப்புகளைப் பெறுவதன் மூலமும் இலங்கையை சர்வதேச மட்டத்திற்குக் கொண்டு செல்லும் திட்டம் துரிதப்படுத்தப்படும் என்று ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார்.
-
-இலங்கை எதிர்கொள்ளும் தற்போதைய பொருளாதார சவால்கள் குறித்து சர்வதேச நாணய நிதியப் பிரதிநிதிகளுக்கு விளக்கிய ஜனாதிபதி, அந்த சவால்களுக்கு மத்தியிலும்  2026 வரவு செலவுத் திட்டத்தில் நாட்டு மக்களுக்குத் தேவையான நிவாரணங்களை வழங்க வேண்டியதன் அவசியத்தையும் நினைவு கூர்ந்தார்.
-
-...
-
-[Data](articles/fb07ed58.json)
-
----
-
-### President and IMF delegation discuss next review of EFF
-
-*2025-07-21 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110692/president-and-imf-delegation-discuss-next-review-of-eff) · `en`
-
-President Anura Kumara Dissanayake and representatives of the International Monetary Fund (IMF) have held discussions regarding the future review of the Extended Fund Facility between the IMF and Sri Lanka.
-
-The meeting took place at the Presidential Secretariat today (21).
-
-During the meeting, President Dissanayake has highlighted the economic stability that has been restored in the country and stressed on the government’s determination to build upon the foundation by accelerating the reform agenda, fostering economic growth and capitalizing on emerging global opportunities, the President’s Media Division said.
-
-President Dissanayake noted that Sri Lanka has achieved a level of economic stability under the present administration and emphasized that, building on this foundation, the government is prepared to accelerate efforts to integrate Sri Lanka into the global economy through sustainable growth and the pursuit of emerging economic opportunities.
-
-...
-
-[Data](articles/5ba0df35.json)
-
----
-
-### Sri Lanka’s first 24-hour news channel ‘Ada Derana 24’ celebrates 11 years
-
-*2025-07-21 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110691/sri-lankas-first-24-hour-news-channel-ada-derana-24-celebrates-11-years) · `en`
-
-Ada Derana 24, Sri Lanka’s pioneering 24-hour news channel and a trusted local brand recognized for its international-standard journalism, proudly marks its 11th anniversary today.
-
-Since its inception, the channel has redefined the landscape of news reporting in the country.
-
-Launched on July 20, 2014, Ada Derana 24 made history as Sri Lanka’s first and only dedicated news channel. Over the past eleven years, it has garnered a loyal viewership by consistently delivering accurate, balanced, and timely news.
-
-The channel’s comprehensive coverage includes current affairs, politics, sports, education, arts, health, religion, and more—often reaching the public before any other outlet.
-
-Ada Derana 24’s daily programming features seven hourly news bulletins and four main news broadcasts, ensuring viewers are kept informed throughout the day.
-
-...
-
-[Data](articles/2a637258.json)
-
----
-
-### மனித புதைகுழிகளை அகழ்வதற்கு அவசியமான நிதி நிபுணத்துவம் தொழில்நுட்பத்தை வழங்குங்கள்  - சர்வதேச குற்றவியல் நீதிமன்றத்தினை ஏற்றுக்கொள்வது குறித்து ஆராயுங்கள் - அரசாங்கத்திற்கு இலங்கை மனித உரிமை ஆணைக்குழு பரிந்துரை
-
-*2025-07-21 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220545) · `ta`
-
-மனிதபுதைகுழிகளில் காணப்படும் மனித எச்சங்களை அகழ்வதற்கு அவசியமான நிதி நிபுணத்துவம் மற்றும் வளங்களை இலங்கை அரசு வழங்கவேண்டும் என பரிந்துரைத்துள்ள இலங்கை மனித உரிமை ஆணைக்குழு சர்வதேச குற்றவியல் நீதிமன்றத்தின் ரோம்சட்டத்தினை  ஏற்றுக்கொள்வது குறித்து இலங்கை ஆராயவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது.
-
-இலங்கை மனித உரிமைகள் ஆணைக்குழு ஐக்கிய நாடுகளின் பலவந்தமாக காணாமல்போனோர் தொடர்பான குழுவிடம் தனது  அறிக்கையை சமர்ப்பித்துள்ளது.
-
-ஐக்கிய நாடுகளின் பலவந்தமாக காணாமல்போனோர் தொடர்பான குழுவின் 29 வது அமர்வு செப்டம்பர் 22 முதல் ஒக்டோபர் 3ம் திகதி வரை நடைபெறவுள்ள நிலையிலேயே இலங்கையின் மனித உரிமை ஆணைக்குழு தனது அறிக்கையை சமர்ப்பித்துள்ளது.
-
-இந்த அமர்வில் ஐநாவின் குழு பலவந்தமாக காணாமல்போதலில் இருந்து அனைத்து நபர்களையும் பாதுகாப்பது தொடர்பான சர்வதேச உடன்படிக்கையின் இன் கீழ் இலங்கை தனது கடப்பாடுகளை எவ்வாறு நிறைவேற்றியுள்து என்பது குறித்து ஆராயவுள்ளது.
-
-இலங்கை இந்த உடன்படிக்கையை நடைமுறைப்படுத்துவது தொடர்பில் பல பரிந்துரைகளையும் அவதானிப்புகளையும் இலங்கை மனித உரிமை ஆணைக்குழுவின் 25 பக்க அறிக்கை முன்வைக்கின்றது.
-
-...
-
-[Data](articles/1b90ffcf.json)
-
----
-
-### இடம்பெயர்ந்த ஆயிரக்கணக்கான மக்கள் தங்கியுள்ள டெய்ர் அல் பலா - தரை வழிதாக்குதலை ஆரம்பித்தது இஸ்ரேல்
-
-*2025-07-21 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220550) · `ta`
-
-தென்காசாவிலிருந்து இடம்பெயர்ந்த ஆயிரக்கணக்கான மக்கள் தங்கியுள்ள மத்திய காசாவில் உள்ள டெய்ர் அல் பலா நகரத்தின் மீது இஸ்ரேலிய இராணுவம் தரை மற்றும் வான்தாக்குதலை ஆரம்பித்துள்ளது.
-
-ஹமாசினால் பணயக்கைதிகளாக பிடிக்கப்பட்டவர்கள் இந்த நகரத்திலேயே உள்ளனர் என ஊகம் காணப்படுவதும் குறிப்பிடத்தக்கது.
-
-கடும் ஆட்டிலறி மற்றும் வான்தாக்குதலின் மத்தியில் இஸ்ரேலிய டாங்கிகள் மற்றும் இராணுவவாகனங்கள் இந்த நகரத்தை நோக்கி செல்வதாக உள்ளுர் ஊடகவியலாளர்கள் பிபிசியிடம் தெரிவித்துள்ளனர்.
-
-டெய்ர் அல் பலா நகரின் மீது இஸ்ரேலிய படையினர் மேற்கொண்டுள்ள முதலாவது தரை நடவடிக்கை இது.
-
-கடந்த 21 மாதங்களாக இந்த நகரத்தை இலக்குவைத்து இஸ்ரேல் தரைநடவடிக்கை எதனையும் மேற்கொள்ளாதமை குறிப்பிடத்தக்கது.
-
-இந்த நகரத்தில் ஆயிரக்கணக்கான இடம்பெயர்ந்த மக்கள் தங்கியுள்ளனர் மேலும் காசாவின் ஏனைய பகுதிகளை விட இந்த நகரத்தில் கட்டிடங்களிற்கு குறைவான சேதங்களே ஏற்பட்டுள்ளன..
-
-...
-
-[Data](articles/8377a362.json)
-
----
-
-### ජනපති සහ IMF නියෝජිතයන් අතර හමුවක්
-
-*2025-07-21 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212478) · `si`
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර වන විස්තීර්ණ ණය පහසුකම් වැඩසටහනට අදාළ ඉදිරි කටයුතු පිළිබඳ ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (21) පෙරවරුවේ පැවැත්විණි.
-
-වත්මන් රජය යටතේ මේ වන විට ශ්‍රී ලංකාව තුළ ආර්ථික ස්ථාවරත්වයක් ඇති වී ඇති බැවින් එම ශක්තිමත් පදනම මත, ආර්ථික වර්ධනය ළඟා කර ගනිමින් හා නව ආර්ථික අවස්ථා ග්‍රහණය කර ගනිමින් ශ්‍රී ලංකාව ජාත්‍යන්තරයට ගෙන යාමේ වැඩපිළිවෙළ වේගවත් කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී සඳහන් කළේය.
-
-ශ්‍රී ලංකාව හමුවේ ඇති වත්මන් ආර්ථික අභියෝග පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් දැනුවත් කළ ජනාධිපතිවරයා එකී අභියෝග හමුවේ වුවද, 2026 අයවැයෙන් මෙරට ජනතාවට අවශ්‍ය සහන සලසාදීමට කටයුතු කිරීමේ අවශ්‍යතාවද සිහිපත් කළේය.
-
-...
-
-[Data](articles/fedfacc7.json)
-
----
-
-### “எனக்கு அந்த உறுப்பு இல்லை”: கூச்சமின்றி கூறிய சுஹாசினி
-
-*2025-07-21 15:59:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/எனக்கு-அந்த-உறுப்பு-இல்லை-கூச்சமின்றி-கூறிய-சுஹாசினி/54-361469) · `ta`
-
-பிரபல நடிகை சுகாசினி சமீபத்தில் ஒரு பேட்டியில் படப்பிடிப்பு தளத்தில் தனக்கு நேர்ந்த கொடுமையை வெளிப்படையாக பகிர்ந்துள்ளார்.
-
-ஒரு படத்தில் நடிக்கும் போது, மரண வாக்குமூலம் கொடுத்து தன்னைத் தானே சுட்டு இறப்பது போன்ற காட்சியில் நடித்த அனுபவத்தை அவர் விவரித்தார்
-
-இதில், தலையில் துப்பாக்கியை வைத்து சுட்டு, பின்னர் "அந்தக் கொலை நான் செய்தேன், அவர் செய்யவில்லை" என்ற வசனத்தை பேசி விழுவதாக அமைந்த காட்சி அவருக்கு குழப்பத்தை ஏற்படுத்தியது.
-
-காட்சியை பார்த்து, இயக்குனரிடம் "நெற்றியில் துப்பாக்கியால் சுடினால் மூளை உடனே தெறிக்கும், அப்படி இருக்கையில் இவ்வளவு பெரிய வசனத்தை எப்படி பேச முடியும்? ரசிகர்கள் ஏற்றுக்கொள்வார்களா?" என்று கேள்வி எழுப்பிய சுகாசினிக்கு, இயக்குனர் "அது மூளை இருப்பவர்கள் கேட்பார்கள், உங்களுக்கு தான் மூளையே இல்லையே.. நீங்கள் பண்ணலாம்" என்று பதிலளித்ததாக அவர் தெரிவித்தார்.
-
-இந்த அனுபவம் அப்போது அவருக்கு மிகவும் கொடுமையாக இருந்ததாகவும், ஆனால் இப்போது நினைத்து பார்க்கும்போது மகிழ்ச்சியை அளிப்பதாகவும் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/47a4ae1c.json)
-
----
-
-### ක්‍රීඩා අමාත්‍යාංශයේ හිටපු ලේකම්වරයෙකුගෙන් අභියාචනාධිකරණයට පෙත්සමක්
-
-*2025-07-21 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212477) · `si`
-
-2015 ජනාධිපතිවරණය සමයේ කැරම්බෝඩ් 14,000  සහ දාම් ලෑලි 11,000ක් දේශපාලන අවශ්‍යතා මත මිලදී ගෙන එවක ජනාධිපති අපේක්ෂක මහින්ද රාජපක්ෂ මහතාගේ දේශපාලන කාර්යාලවලට බෙදා දීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන්නේ යැයි චෝදනා කරමින් නීතිපතිවරයා විසින් තමන්ට එරෙහි කොළඹ මහාධිකරණය හමුවේ ගොනු කර ඇති අධි චෝදනා බල රහිත කරන ලෙස ඉල්ලා ක්‍රීඩා අමාත්‍යාංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි මහතා ගොනුකර ඇති පෙත්සම කරුණු සලකා බැලීම  සඳහා මේ මස 28 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (21) නියෝග කළේය.
-
-මෙම පෙත්සම අද අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී විනිසුරු මඩුල්ල නියම කළේ අදාළ පෙත්සම කරුණු තහවුරු කිරීම සඳහා ලබන 28 වනදා කැඳවන ලෙසය.
-
-...
-
-[Data](articles/8eac89c5.json)
-
----
-
-### குருக்கள்மடம் மனிதப் புதைகுழி வழக்கு ஒத்திவைப்பு
-
-*2025-07-21 15:48:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்மடம்-மனிதப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-361468) · `ta`
-
-குருக்கள்மடம் மனிதப் புதைகுழி தோண்டப்படுதல் வேண்டும் என்ற வழக்கு ஆகஸ்ட் 25ம் திகதிக்கு ஒத்தி வைக்கப்பட்டுள்ளது.
-
-இந்த வழக்கு, களுவாஞ்சிகுடி நீதவான் நீதிமன்றத்தில், திங்கட்கிழமை (21) மீள விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
-
-காணாமல் போன ஆட்கள் பற்றிய அலுவலகம் மற்றும் சட்டமா அதிபருக்கு; 21ம் திகதி திங்கட்கிழமை களுவாஞ்சிகுடி நீதவான் நீதிமன்றத்தில் முன்னிலையாகுமாறு களுவாஞ்சிகுடி நீதிமன்றம் இந்த வழக்கில் கடந்த தவணையின் போது, கட்டளை பிறப்பித்திருந்தது.
-
-எனினும் இந்த வழக்கு   திங்கட்கிழமை (21) விசாரணைக்கு  எடுத்துக் கொள்ளப்பட்ட போது சட்டமா அதிபரை பிரதி நிதித்துவப்படுத்தி எவரும் ஆஜராகி இருக்க வில்லை. எனினும், காணாமல் போன ஆட்கள் பற்றிய அலுவலகத்தில் இருந்து இரண்டு சட்டத்தரணிகள் ஆஜாராகி சமர்ப்பணங்களை முன் வைத்தனர்.
-
-அவர்கள், களுவாஞ்சிகுடி நீதிமன்றத்துக்கு காணாமல் போனோர் அலுவலகத்தினால் ஒரு விரிவான கடிதத்தினை ஏற்கனவே அனுப்பி இருந்ததாகவும் குருக்கள் மடம் மனித புதை குழி தோண்ட வேண்டும் என்ற நிலைப்பாட்டிலேயே இருப்பதாகவும் அதே நிலைப்பாட்டிலேயே தற்போதும் இருப்பதாகவும் கூறினார்கள்.
-
-...
-
-[Data](articles/c345ca4a.json)
 
 ---

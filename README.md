@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 06:10:20**
+As of **2025-07-22 06:36:48**
 
 ## Newspaper Stats
 
-*Scraped **65,984** Articles*
+*Scraped **65,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,47 @@ newsfirstlk | 363
 dbsjeyarajcom | 589
 colombotelegraphcom | 673
 bbccomsinhala | 677
-islandlk | 4,029
-economynextcom | 4,032
+economynextcom | 4,031
+islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,335
 adaderanalk | 8,073
 tamilmirrorlk | 9,474
 virakesarilk | 11,000
-adaderanasinhalalk | 11,335
+adaderanasinhalalk | 11,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,984 articles have been extended.
+61,973 (93.9%) of 65,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2025-07-22 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212492) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+සබරගමුව පළාතේත් නුවරඑළිය, මහනුවර, ගාල්ල, මාතර සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+
+වයඹ සහ උතුරු පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, මධ්‍යම, දකුණු සහ සබරගමුව, පළාත්වල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ විටින් විට හමන පැ.කි.මී. 55-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/371ccb52.json)
+
+---
 
 ### ஒரே நாளில் 1,241 பேர் கைது ; விசேட சோதனையில் ஏராளமான போதைப்பொருள்கள், வாகனங்கள் பறிமுதல்
 
@@ -279,6 +301,92 @@ Human nature is fundamentally shaped by connections emotional, social, and envir
 ---
 
 ### 2025-07-21 (Monday)
+
+### In the spotlight … at Mount Lavinia
+
+*2025-07-21 23:09:00* · [`islandlk`](http://island.lk/in-the-spotlight-at-mount-lavinia/) · `en`
+
+The N-CHORD duo, performing at the Loon Tao beach restaurant, Mount Lavinia, has been around for almost a decade, says leader Sajith Nithin.
+
+With Pushpa Dias on keyboards, they came into the scene performing at Radisson Colombo and then moved to Mercure, in the Maldives.
+
+According to Sajith, they play all your favourite hits … from pop, rock, reggae, retro, to Sinhala songs, etc.
+
+And, says Sajith, you will also see N-CHORD in action at your favourite night spots, in Colombo.
+
+Referring to Loon Tao, he says come over and take in the scene, “under the open sky, and let the live tunes carry you away”.
+
+At this particular beach restaurant, in Mount Lavinia, N-CHORD perform on Saturday and Sunday nights, from 7.00 pm onwards..
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/2d5edcd4.json)
+
+---
+
+### SIMPSONS …doing it differently
+
+*2025-07-21 23:08:00* · [`islandlk`](http://island.lk/simpsons-doing-it-differently/) · `en`
+
+Whenever the name ‘The Simpsons’ crop up, I’m reminded of the American animated sitcom TV series which was very popular in our scene, as well.
+
+Believe me, we have now got the Simpsons in our midst … no, not the cartoon series but real live action in the form of Simpsons, the band.
+
+Originally, the setup comprised Dileepa Liyanage (keyboardist, producer, and music director), Ryo Hera (lead vocalist and acoustic guitarist), and Buddhima Chalanu (lead vocalist, bassist, and composer), and later came Chiranaka Dulmeth (drummer), and Ranga (lead guitarist, traditional dancer, and actor), making it a five-piece outfit.
+
+“We generally do the trio scene but switch to five-piece, depending on the occasion”, says Dileepa, also known as Lee (Online), a celebrated composer in Sri Lanka and Qatar, with notable credits, including music production for FIFA Qatar.
+
+“We want our audience to feel deeply — to be moved, healed, and hyped, all in one performance.”
+
+...
+
+[Data](articles/116858cc.json)
+
+---
+
+### VFS Global and NCPC launch youth skilling programme to boost Sri Lanka’s tourism talent
+
+*2025-07-21 23:00:00* · [`islandlk`](http://island.lk/vfs-global-and-ncpc-launch-youth-skilling-programme-to-boost-sri-lankas-tourism-talent/) · `en`
+
+VFS Global, a global leader in trusted technology services, has launched the Tourism Skilling Programme in association with NCPC Sri Lanka and the ASSIST Development Foundation. The initiative aims to empower local youth with industry-relevant skills to support the country’s fast-growing tourism sector.
+
+The programme was inaugurated on 14 July in Galle, in the presence of K A N Pramodini, Deputy Director, Galle Municipal Corporation; Nihaal D’silva, Assistant Director, Centre for Environmental Authority and Upali Rathnayaka, Deputy Director General, Sri Lanka Tourism Authority.
+
+Sri Lanka’s tourism sector is experiencing a strong growth with the tourist arrivals for the first six months of 2025 recording over 1.16 million which represents a 15.6 per cent increase compared to the same period last year. This encouraging momentum highlights the country’s growing appeal on the global stage. As visitor numbers rise, so does the need for a skilled workforce to deliver world-class experiences.
+
+...
+
+[Data](articles/8f9ff396.json)
+
+---
+
+### SLIIT among world’s Top 20 architecture schools – ranked No. 1 in Sri Lanka
+
+*2025-07-21 22:59:00* · [`islandlk`](http://island.lk/sliit-among-worlds-top-20-architecture-schools-ranked-no-1-in-sri-lanka/) · `en`
+
+The Sri Lanka Institute of Information Technology (SLIIT) has marked a proud and historic moment by being ranked among the Top 20 Architecture Schools in the world and securing the No. 1 position in Sri Lanka in the latest INSPIRELI World Architecture University Ranking. This global recognition is based on student performance in the INSPIRELI Awards, the world’s largest architecture and design competition for students and young architects. In the 2023–2024 cycle, SLIIT climbed to the 17th position globally out of more than 1,360 participating universities, demonstrating a significant leap from its 22nd position the previous year. It also proudly ranks among the Top 2 Architecture Schools in Asia, reinforcing its status as a regional leader in architectural education.
+
+...
+
+[Data](articles/92f82bb2.json)
+
+---
+
+### Lanka Realty Investments land deal gives CSE a measure of revival
+
+*2025-07-21 22:57:00* · [`islandlk`](http://island.lk/lanka-realty-investments-land-deal-gives-cse-a-measure-of-revival/) · `en`
+
+The CSE was somewhat revived yesterday when leading residential, commercial and leisure entity Lanka Realty Investments divested Rs 1.1 billion worth of property belonging to the company to Prime Lands to focus onits core business activities. This deal improved the investment sentiment for other sectors as well, market analysts said.
+
+...
+
+[Data](articles/a75a133e.json)
+
+---
 
 ### ඉන්දියාවේ උප ජනාධිපති ධුරයෙන් ඉල්ලා අස්වෙයි
 
@@ -531,6 +639,22 @@ If US district Judge Allison Burroughs decides in the university’s favor, the 
 ...
 
 [Data](articles/4fc2a4d6.json)
+
+---
+
+### IMF representatives reaffirms support for Sri Lanka
+
+*2025-07-21 19:56:00* · [`islandlk`](http://island.lk/imf-representatives-reaffirms-support-for-sri-lanka/) · `en`
+
+A discussion between President Anura Kumara Dissanayake and representatives of the International Monetary Fund (IMF) was held on Monday morning (21) at the Presidential Secretariat regarding the future review of the Extended Credit Facility (ECF) between the IMF and Sri Lanka.
+
+President Dissanayake noted that Sri Lanka has achieved a level of economic stability under the present administration and emphasized that, building on this foundation, the government is prepared to accelerate efforts to integrate Sri Lanka into the global economy through sustainable growth and the pursuit of emerging economic opportunities.
+
+The President also outlined the country’s present economic challenges and reiterated the importance of incorporating measures to ease the burden on the public in the 2026 Budget, despite these constraints.
+
+...
+
+[Data](articles/dfea5a2f.json)
 
 ---
 
@@ -1697,137 +1821,5 @@ The ASPI was boosted by DFCC Bank which closed 4.75 rupees higher at 125.75, Cen
 ...
 
 [Data](articles/09e1ddb3.json)
-
----
-
-### බංග්ලාදේශයේ ගුවන් යානයක් පාසලකට කඩා වැටෙයි
-
-*2025-07-21 15:18:38* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශයේ-ගුවන්-යානයක්-පාසලකට-කඩා-වැටෙයි/11-417424) · `si`
-
-බංග්ලාදේශයේ ගුවන් හමුදාවට අයත් යානයක් ඩකා හී පිහිටි පාසලකට කඩා වැටී තිබේ.
-
-පුහුණුවීම් කටයුතු නිරතවෙමින් සිටියදී මෙම ගුවන් යානය කඩා වැටී ඇති අතර, අනතුරින් එක් අයෙකු ජීවිතක්ෂයට පත්ව තවත් සිව් දෙනෙකු තුවාල ලබා ඇත.
-
-◼️
-
-[Data](articles/39054aca.json)
-
----
-
-### අන්තර් විශ්වවිද්‍යාලයීය ශිෂ්‍ය බලමණ්ඩලය නමින් නව ශිෂ්‍ය ව්‍යාපාරයක්
-
-*2025-07-21 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212475) · `si`
-
-දිවයිනේ විශ්වවිද්‍යාල කිහිපයක සිසුන් පිරිසක් එක්ව ''අන්තර් විශ්වවිද්‍යාලයීය ශිෂ්‍ය බලමණ්ඩලය'' නමින් නව ශිෂ්‍ය ව්‍යාපාරයක් ආරම්භ කර ති‌බේ.
-
-පේරාදෙණිය විශ්වවිද්‍යාල පරිශ්‍රයේදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් නව බලමණ්ඩලය පැවසුවේ, රාජ්‍ය විශ්වවිද්‍යාලවල මහා ශිෂ්‍ය සංගම් හා උසස් අධ්‍යාපන ආයතනවල ශිෂ්‍ය ක්‍රියාකාරීන් පිරිසක් එක්ව මෙම නව ශිෂ්‍ය ව්‍යාපාරය ආරම්භ කළ බවය.
-
-...
-
-[Data](articles/76756bb9.json)
-
----
-
-### අස්ගිරි අනු නාහිමිගේ ආදාහන පූජෝත්සවය 24 දා අස්ගිරියේදී
-
-*2025-07-21 15:04:05* · [`adalk`](https://www.ada.lk/breaking_news/අස්ගිරි-අනු-නාහිමිගේ-ආදාහන-පූජෝත්සවය-24-දා-අස්ගිරියේදී/11-417423) · `si`
-
-අපවත් වී වදාළ අස්ගිරි පාර්ශ්වයේ අනූනායක අතිපූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමියන්ගේ ආදාහන පූජෝත්සවය මේ මස 24 වැනි දින සවස රාජ්‍ය අනුග්‍රහය සහිතව අස්ගිරිය පොලිස් ක්‍රීඩාංගණයේදී සිදුකිරීමට තීරණය විය.
-
-බුද්ධ ශාසන ආගමික කටයුතු සහ සංස්කෘතික කටයුතු පිළිබඳ නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අස්ගිරි මහා විහාරයේ උඩුගම ශ්‍රී බුද්ධරක්ඛිත අනුස්මරණ ශාලාවේදී පැවති සාකච්ඡාවකින් අනතුරුව එය තීරණය විය.
-
-අපවත් වී වදාළ අනුනායක හිමියන්ගේ ශ්‍රී දේහය උන්වහන්සේ විහාරාධිපතිත්වය දැරූ ගුහාගොඩ ලියන්ගස්තැනන පුරාණ විහාරයේ තැන්පත් කිරීමෙන් අනතුරුව අද (21) සවස අස්ගිරි මහා විහාර පාර්ශ්වයේ උඩුගම ශ්‍රී බුද්ධරක්ඛිත අනුස්මරණ ශාලාවේ උන්වහන්සේගේ ශ්‍රී දේහය මහජන ගෞරවය සඳහා තැන්පත් කිරීමට නියමිතය.
-
-ජූලි මස 24 වැනි දින සවස 2.30 ට උන්වහන්සේගේ ආදාහන පූජෝත්සවය ආරම්භ වීමට නියමිත අතර එදින පාසල් කිහිපයකට දහවල් 12.00 න් පසු නිවාඩු ලබාදීමටද තීරණය විය.
-
-...
-
-[Data](articles/1a3d4837.json)
-
----
-
-### බංග්ලාදේශයේ හමුදා ගුවන් යානයක් පාසලකට කඩා වැටෙයි
-
-*2025-07-21 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212474) · `si`
-
-බංග්ලාදේශ ගුවන් හමුදා පුහුණු ගුවන් යානයක් ඩකාහී උත්තරා ප්‍රදේශයේ පාසලක් වෙත කඩා වැටී තිබේ.
-
-ගුවන් යානය කඩා වැටීමෙන් අනතුරුව පිපිරීමක් ද සිදුව ඇති අතර පසුව ගින්නක්ද හටගෙන තිබේ.
-
-අනතුරින් එක් අයෙකු මියගොස් ඇති බවත් විදෙස් මාධ්‍ය මේ වන විට වාර්තා කර ඇත.
-
-අනතුරින් එක් අයෙකු මියගොස් තවත් පුද්ගලයින් සිව් දෙනෙකු තුවාල ලබා ඇතැයිද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-තුවාල ලැබූවන් සිවිල් වැසියන්ද නැතහොත් හමුදා නිලධාරීන්ද යන්න මෙතෙක් අනාවරණය වී නොමැති අතර එරට හදිසි සේවා මේ වන විට ගින්න මැඩපැවැත්වීමට සහ තුවාල ලැබූවන් රෝහල් ගත කිරීමටද පියවර ගනිමින් සිටින බවද වාර්තා වේ.
-
-මෙලෙස කඩා වැටී ඇත්තේ F-7 BGI ප්‍රහාරක ජෙට් යානයක් ලෙසද හඳුනාගෙන තිබේ.
-
-ගුවන් යානය කඩා වැටෙන අවස්ථාවේදී පාසලේ සිසුන්ද සිට ඇති බවත් විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/fd643d0a.json)
-
----
-
-### ලංකාවේ පළමු වතාවට ජාතික පුවත්පත්වල මංගල කලාප ප්‍රදර්ශණයක්
-
-*2025-07-21 15:00:32* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමු-වතාවට-ජාතික-පුවත්පත්වල-මංගල-කලාප-ප්‍රදර්ශණයක්/11-417422) · `si`
-
-ලංකාවේ පළමු වතාවට ජාතික පුවත්පත් වල සහ චිත්‍ර කථා පොත්වල මුල් පිටපත් ප්‍රදර්ශණයක් (21) දින තලවකැලේ සුමන මහාවිද්‍යාලයේ දි ආරම්භ කෙරිණ.
-
-කොටගල සහ තලවකැලේ යන තැපැල් කාර්යාලවල තැපැල් ස්ථානාධිපතිවරයා වශයෙන් සේවය කර දැනට විශ්‍රාම සුවයෙන් පසුවන ආර්.පී.ජයන්ත (තලවකැලේ ජයන්ත) මහතා විසින් මෙම ප්‍රදර්ශණය සංවිධානය කර තිබූ අතර,  එම ප්‍රදර්ශණය (21-22)  දින නොමිලේ පැවැත්වීමටයි කටයුතු කර තිබෙන්නේ.
-
-එම පුවත්පත් ප්‍රදර්ශණය ජාතික ජන බලවේගයේ නුවරඑලිය දිස්ත්‍රික් පා.ම. මංජුල සුරවිරආරච්චි මහතා ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි විය.
-
-තලවකැලේ ජයන්ත මහතා වසර ගණනාවක් ජාතික පුවත්පතක තලවකැලේ ප්‍රදේශයේ ප්‍රාදේශීය මාධ්‍යවේදියෙකු වශයෙන්ද කටයුතු කර ඇත.
-
-මෙම ප්‍රදර්ශණයට 1920 වසරේ සිට 2025 වසර දක්වා මෙරට තුල පළ කරන ලද ජාතික පුවත්පත්, චිත්‍ර කථා පොත් 2000ක් පමණ සහ වර්ථමානයේ ත්‍රීඩි (3D) තාක්ෂණයෙන් කියවිය හැකි පුවත්පත් කිහිපයක්ද මෙම ප්‍රදර්ශනයට අතුලත් කර තිබුණි.
-
-ප්‍රදර්ශණයට එක් කර තිබු ජාතික පුවත්පත් සහ චිත්‍ර කථා පොත් ඇතැම් ඒවා සත 75 සිට රු.10 දක්වා මිල ගණන් යටතේ මිලදී ගත් ඒවා බවයි ජයන්ත මහතා කියා සිටියේ.
-
-◼️
-
-[Data](articles/41006790.json)
-
----
-
-### முந்தி முயன்றவர் சிக்கினார்: தாமதமானவர் தப்பினார்
-
-*2025-07-21 14:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/முந்தி-முயன்றவர்-சிக்கினார்-தாமதமானவர்-தப்பினார்/95-361466) · `ta`
-
-கொள்ளுப்பிட்டி பகுதியில் உள்ள ஒரு இரவு விடுதியில் இரவு நடந்தவிருந்த  துப்பாக்கிச் சூடு சம்பவம் முறியடிக்கப்பட்டுள்ளதாக கூறப்படுகிறது. மோட்டார் சைக்கிளில் வந்த இருவர் இந்தத் தாக்குதலைத் திட்டமிட்டதாக காவல்துறை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-பல குற்றச் செயல்களில் ஈடுபட்ட தெமட்டகொட ருவான் என்ற நபரையே துப்பாக்கிச் சூடு நடத்தியவர்கள் குறிவைத்தனர். இவர், முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்ட தெமட்டகொட சாமிந்தவின் சகோதரர் ஆவார்.
-
-தெமட்டகொட ருவான், அவர் அடிக்கடி செல்லும் கிளப்புக்கு சம்பவதினமான சனிக்கிழமை (19)  சற்று தாமதமாக வந்ததாகக் கூறப்படுகிறது.
-
-துப்பாக்கிச் சூடு நடத்த வந்த நபர் கிளப்புக்குள் நுழைய முயன்றபோது, பாதுகாப்பு அதிகாரிக்கும் துப்பாக்கிச் சூடு நடத்த வந்தவருக்கும் இடையே வாக்குவாதம் ஏற்பட்டது.
-
-எப்படியிருந்தாலும், துப்பாக்கிச் சூடு நடத்த வந்த நபர்,  துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு, மோட்டார் சைக்கிளை இரவு விடுதி வளாகத்தில் விட்டுவிட்டு மற்றொரு நபருடன் தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/6b765d08.json)
-
----
-
-### முந்தியவர் சிக்கினார்: தாமதமானவர் தப்பினார்
-
-*2025-07-21 14:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/முந்தியவர்-சிக்கினார்-தாமதமானவர்-தப்பினார்/95-361466) · `ta`
-
-கொள்ளுப்பிட்டி பகுதியில் உள்ள ஒரு இரவு விடுதியில் இரவு நடந்தவிருந்த  துப்பாக்கிச் சூடு சம்பவம் முறியடிக்கப்பட்டுள்ளதாக கூறப்படுகிறது. மோட்டார் சைக்கிளில் வந்த இருவர் இந்தத் தாக்குதலைத் திட்டமிட்டதாக காவல்துறை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-பல குற்றச் செயல்களில் ஈடுபட்ட தெமட்டகொட ருவான் என்ற நபரையே துப்பாக்கிச் சூடு நடத்தியவர்கள் குறிவைத்தனர். இவர், முன்னாள் பாராளுமன்ற உறுப்பினர் பாரத லக்ஷ்மன் பிரேமச்சந்திர கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்ட தெமட்டகொட சாமிந்தவின் சகோதரர் ஆவார்.
-
-தெமட்டகொட ருவான், அவர் அடிக்கடி செல்லும் கிளப்புக்கு சம்பவதினமான சனிக்கிழமை (19)  சற்று தாமதமாக வந்ததாகக் கூறப்படுகிறது.
-
-துப்பாக்கிச் சூடு நடத்த வந்த நபர் கிளப்புக்குள் நுழைய முயன்றபோது, பாதுகாப்பு அதிகாரிக்கும் துப்பாக்கிச் சூடு நடத்த வந்தவருக்கும் இடையே வாக்குவாதம் ஏற்பட்டது.
-
-எப்படியிருந்தாலும், துப்பாக்கிச் சூடு நடத்த வந்த நபர்,  துப்பாக்கியை சம்பவ இடத்திலேயே கைவிட்டுவிட்டு, மோட்டார் சைக்கிளை இரவு விடுதி வளாகத்தில் விட்டுவிட்டு மற்றொரு நபருடன் தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/fe6adf29.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 21:06:19**
+As of **2025-07-22 21:20:35**
 
 ## Newspaper Stats
 
-*Scraped **66,169** Articles*
+*Scraped **66,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,352
-adaderanalk | 8,112
+adaderanalk | 8,113
 tamilmirrorlk | 9,516
-virakesarilk | 11,024
+virakesarilk | 11,025
 adaderanasinhalalk | 11,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,169 articles have been extended.
+61,973 (93.7%) of 66,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### President directs continuous supply of medicines without shortages or delays
+
+*2025-07-22 20:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110747/president-directs-continuous-supply-of-medicines-without-shortages-or-delays) · `en`
+
+A discussion on streamlining the process of medicine supply was held this afternoon (22) at the Presidential Secretariat in Colombo.
+
+President Anura Kumara Dissanayake, along with the Minister of Health and Mass Media, Dr. Nalinda Jayatissa, Deputy Minister Dr. Hansaka Wijemuni and officials from the Ministry of Health, participated in the meeting.
+
+During the discussion, the procurement and distribution of medicines were reviewed. The President instructed officials to streamline the mechanism to ensure a continuous supply of essential medicines to the public without any shortages or delays, President’s Media Division (PMD) said.
+
+Attention was drawn to the existing issues and weaknesses within the medicine procurement process and distribution mechanism.
+
+The President also instructed officials to take immediate steps to address any medicine shortages reported in certain hospitals.
+
+...
+
+[Data](articles/0db10d11.json)
+
+---
+
+### செயற்கை நுண்ணறிவு அபிவிருத்திக்கு சிங்கப்பூரின் ஒத்துழைப்புக்களைப் பெற்றுக் கொள்ள அரசாங்கம் தீர்மானம்
+
+*2025-07-22 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220674) · `ta`
+
+செயற்கை நுண்ணறிவு அபிவிருத்திக்கு சிங்கப்பூரின் செயற்கை நுண்ணறிவு தொடர்பான வேலைத்திட்டத்தின் ஒத்துழைப்புக்களைப் பெற்றுக்கொள்வதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+
+செயற்கை நுண்ணறிவுக்கான இலங்கை மூலோபாயக் கொள்கைகளுக்கு ஒத்துழைப்பு வழங்கும் வகையில் பங்காண்மை மற்றும் அறிவுப் பரிமாற்றத்திற்கான வாய்ப்புக்களைத் தேடிக் கண்டறிவதற்காக சிங்கப்பூரின் தேசிய பல்கலைக்கழகத்தின் கீழ் நடைமுறைப்படுத்தப்படும் 'சிங்கப்பூர் செயற்கை நுண்ணறிவு தொடர்பான வேலைத்திட்டம்' உடன் கலந்துரையாடல் நடாத்தப்பட்டுள்ளது.
+
+அதற்காக இரு நாடுகளுக்கிடையிலான ஒத்துழைப்புக்களை முறைமைப்படுத்துவதற்காக புரிந்துணர்வு ஒப்பந்தத்தில் கையொப்பமிடுவதற்கு முன்மொழிவொன்று சமர்ப்பிக்கப்பட்டுள்ளது. அதன்மூலம் உள்நாட்டிலும் உலகளாவிய ரீதியிலும் எதிர்கொள்கின்ற சவால்களுக்கு முகங்கொடுக்கும் வகையில் செயற்கை நுண்ணறிவுத் தொழிநுட்பங்களை அபிவிருத்தி செய்வதற்கான ஒருங்கிணைந்த ஆய்வுகளை ஆரம்பித்தல், செயற்கை நுண்ணறிவு நிகழ்ச்சித்திட்டங்களை நடாத்துதல் மற்றும் பரஸ்பர ஒத்துழைப்புக்களை உருவாக்கிக் கொள்வதே நோக்கமாக உள்ளது.
+
+...
+
+[Data](articles/3064af84.json)
+
+---
 
 ### ඖෂධ අඛණ්ඩව සැපයීමට ජනපතිගෙන් සෞඛ්‍ය අංශවලට උපදෙස්
 
@@ -640,11 +676,21 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 
 *2025-07-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212523) · `si`
 
-මාසයකට පමණ පෙර මියගොස් ඇති බවට සැක කෙරෙන අලි දෙදෙනෙකුගේ සහ ඇතෙකුගේ මළ සිරුරු දඹුල්ල ඉනාමළුව වන රක්ෂිතයේ දිගම්පතාහ ප්‍රදේශයෙන්  හමුව තිබේ.
+දඹුල්ල, ඉනාමළුව, දිගම්පතහ රජයේ රක්ෂිතය තුළ තිබියදී  ඇතෙකුගේ සහ අලි දෙදෙනෙකුගේ මළසිරුරු හා අස්ථි කොටස් කිහිපයක් අද (22) පෙරවරුවේ සොයාගැනුණි.
 
-ඒ අතර ඇති ඇත් සිරුරේ දළ ඉවත් කර ඇති බව ද දැකගත හැකි බව වාර්තා වේ.
+රක්ෂිතයේ, දඹුල්ල හබරණ ප්‍රධාන මාර්ගයට ආසන්න ස්ථාන තුනක මෙම මෘත දේහ සහ අස්ථි කොටස් දක්නට ලැබුණි.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ මෙම අලි මරණ සම්බන්ධයෙන් අවස්ථා කිහිපයකදීම අදාළ බලධාරීන්ව දැනුම්වත් කළ බව ප්‍රදේශවාසීන් විසින් පැවසු බවය.
+ඉන් එක් මෘත දේහයක් ඇතෙකුගේ බවට සැකකළ හැකි අතර, එම ඇතාගේ දළ යුගළ කපාගෙන ගොස් ඇති බවට වන ලක්ෂණද දක්නට ලැබේ.
+
+මීට මාසයකට පමණ ඉහතදී මියගොස් ඇති බවට සැක කෙරෙන මෙම අලි ඇතුන් මියගොස් ඇත්තේ කෙසේද යන්න මෙතෙක් අනාවරණ වී නැත.
+
+මේ අතර ගල්ගමුව ඇහැටුවැව, ගාලයායවෙල රක්ෂිතයේ තිබියදී දළ සහිත හස්තියෙකුගේ මළ සිරුරක් අද සොයාගැනුණි.
+
+ඒ මසුන් ඇල්ලීම සඳහා එහි ගිය ප්‍රදේශවාසීන් පිරිසක් විසින් සිදුකළ දැනුම්දීමකට අනුවය.
+
+මියගොස් ඇත්තේ කහල්ල, පල්ලෙකැලේ රක්ෂිතය හා ඇහැටුවැව තේක්කකැලේ රක්ෂිතය ආශ්‍රිතව සැරිසැරූ " ගල්ගමුවේ සුමන" හස්තියා බවට සැලකෙන අතර ප්‍ර දේශවාසීන් සැක පළ කරන්නේ හස්තියා කිසිවකු විසින් වෙඩිතබා ඝාතනය කර ඇති බවටය.
+
+සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කළ මීගලෑව වනජීවී කාර්යාලයේ නිලධාරීන් පවසන්නේ වයස අවුරුදු 20ක් පමණ වන හස්තියා මීට දින කිහිපයකට පෙර මියගොස් ඇති බවය.
 
 ◼️
 
@@ -1733,39 +1779,5 @@ Constitutional development in Sri Lanka has evolved through several phases, from
 ◼️
 
 [Data](articles/b1c8b97f.json)
-
----
-
-### பங்களாதேஷ் விமான விபத்து : உயிரிழந்தோரின் எண்ணிக்கை 27 ஆக அதிகரிப்பு !
-
-*2025-07-22 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220609) · `ta`
-
-பங்களாதேஷில் இடம்பெற்ற விமான விபத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. இவ்வாறு உயிரிழந்தவர்களில் விமானி ஒருவர் உள்ளிட்ட ஏனையவர்களில் பல மாணவர்கள் உள்ளடங்கியுள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-பங்களாதேஷ் விமானப்படையின் ஜெட் விமானம் ஒன்று பயிற்சியில் ஈடுபட்டபோது தலைநகர் டாக்காவில் உள்ள மைல்ஸ்டோன் கல்லூரியின் இரு மாடிக் கட்டிடத்தின் மீது வீழ்ந்து வெடித்து தீப்பற்றி எரிந்ததில் மாணவர்கள் இருந்த நான்கு வகுப்பறைகள் அனர்த்தத்தில் சிக்கின.
-
-விபத்து இடம்பெற்ற நேற்றைய தினமான திங்கட்கிழமை (21) 20 பேர் உயிரிழந்திருந்தனர். பின்னர் காயமடைந்தவர்களில் 7 பேர் சிகிச்சை பலனின்றி உயிரிழந்துள்ள நிலையில், உயிரிழந்தவர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளது.
-
-இந்த விபத்தில் சுமார் 170 பேர் வரை காயமடைந்துள்ள நிலையில், சுமார் 70 பேர் கவலைக்கிடமான நிலையில் உள்ளதாகவும் இவர்களில் பலர் மாணவர்கள் எனவும் உயிரிழப்பு எண்ணிக்கை அதிகரிக்கலாமெனவும் அஞ்சப்படுகின்றது.
-
-◼️
-
-[Data](articles/5d3a90a9.json)
-
----
-
-### Cabinet gives green light to gazette draft bill to amend Presidents Entitlements Act
-
-*2025-07-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110725/cabinet-gives-green-light-to-gazette-draft-bill-to-amend-presidents-entitlements-act-) · `en`
-
-The Cabinet of Minister has granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986) and reduce special privileges extended to former Presidents, their families, and retired Members of Parliament.
-
-Last month, the Cabinet granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents and former MPs.
-
-In line with the government’s policy declaration “Pohosath Ratak – Lassana Jeewithayak” (A Wealthy Country – A Beautiful Life), the public endorsed the government’s mandate to revoke the special benefits accorded to former Presidents and their families, as well as to abolish the pensions granted to Members of Parliament after serving a five-year term, according to the statement issued by the Department of Government Information.
-
-...
-
-[Data](articles/773e3d83.json)
 
 ---

@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 23:20:41**
+As of **2025-07-22 23:50:15**
 
 ## Newspaper Stats
 
-*Scraped **66,182** Articles*
+*Scraped **66,187** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 589
-colombotelegraphcom | 675
+colombotelegraphcom | 676
 bbccomsinhala | 677
 islandlk | 4,041
 economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,353
-adaderanalk | 8,113
-tamilmirrorlk | 9,519
-virakesarilk | 11,028
+adaderanalk | 8,115
+tamilmirrorlk | 9,520
+virakesarilk | 11,029
 adaderanasinhalalk | 11,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,182 articles have been extended.
+61,973 (93.6%) of 66,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### சற்றுமுன் துப்பாக்கிச்சூடு :  பெண் மரணம்
+
+*2025-07-22 23:12:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சற்றுமுன்-துப்பாக்கிச்சூடு-பெண்-மரணம்/150-361568) · `ta`
+
+மராடாவில் சற்றுமுன் நடந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் 30 வயது பெண் ஒருவர் உயிரிழந்ததாகவும், 10 வயது சிறுவன் ஒருவர் காயமடைந்ததாகவும் தகவல் வெளியாகியுள்ளது. R
+
+◼️
+
+[Data](articles/ce082c56.json)
+
+---
 
 ### මාරවිල වෙඩිතැබීමක්
 
@@ -38,7 +50,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පොලීසිය පවසන්නේ නිවසක් ඉදිරිපිට සිටි කාන්තාවට මෙලෙස වෙඩි තැබීම සිදුකර ඇති බවය.
 
-වෙඩිතැබීම සිදුකර අවස්ථාවේදී ඒ් අසල සිටි 10 හැවිරිදි කුඩා දරුවෙකුටද තුවාල සිදුව ඇති බව වාර්තා වෙයි.
+එම වෙඩිතැබීමෙන් ජීවිතක්ෂයට පත්ව ඇත්තේ 30 හැවිරිදි කාන්තාවක් බව වාර්තා වෙයි.
+
+වෙඩිතැබීම සිදුකර අවස්ථාවේදී ඒ් අසල සිටි 10 හැවිරිදි කුඩා දරුවෙකුටද තුවාල සිදුව ඇති බව වාර්තා වෙයි.
 
 ◼️
 
@@ -84,6 +98,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### French cities impose curfews on children after drug violence
+
+*2025-07-22 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110749/french-cities-impose-curfews-on-children-after-drug-violence) · `en`
+
+A number of French cities have imposed night-time curfews on young people following a spate of violence linked to drug trafficking.
+
+Nîmes in the south was the latest to bring in measures, which authorities said were meant to prevent under 16s from being “exposed to violence” and to “contain tensions”.
+
+Over the course of the last month several shootings - one in broad daylight - left one person dead and several injured.
+
+Last week the body of a 19-year-old man was found partially burned on the outskirts of Nîmes.
+
+Announcing the curfew – in force between 21:00 and 06:00 – mayor Jean-Paul Fournier said the situation had become “untenable” and that drug traffickers had created a “climate of fear and terror”.
+
+Deputy mayor Richard Schieven said the curfew would protect minors not involved in the drug trade “but also those aged 12 or 13 who are exploited by drug traffickers”.
+
+...
+
+[Data](articles/341049dd.json)
+
+---
+
 ### அம்பாறையில் தமிழர்களுக்கு எதிரான இனப்படுகொலை : வீரமுனையில் நிலத்தை தோண்டினால் மனித எச்சங்கள் கூடுதலாக வரும் - கவீந்திரன் கோடீஸ்வரன்
 
 *2025-07-22 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220677) · `ta`
@@ -97,6 +133,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1c0fd927.json)
+
+---
+
+### Govt committed to digital health integration and strong regulatory frameworks: PM
+
+*2025-07-22 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/110748/govt-committed-to-digital-health-integration-and-strong-regulatory-frameworks-pm) · `en`
+
+The Prime Minister, Dr. Harini Amarasuriya, noted that the country is in need of developing regulatory frameworks that encourage innovation while ensuring efficacy, safety, data privacy, security, and other ethical considerations in digital technology.
+
+Delivering the keynote address during the roundtable discussion on digital mental health with the Global Digital Mental Health Network of eMHIC, held today (22) at Temple Trees, Dr. Amarasuriya stated that the government is committed to integrating digital health solutions within existing mental health services, as part of its larger agenda of digitization, the Prime Minister’s Media Division said in a statement.
+
+Prime Minister Dr. Harini Amarasuriya also stressed the need for a coordinated, multi-sectoral and multidisciplinary response, supported by a well-trained mental health workforce and strengthened community-level engagement.
+
+...
+
+[Data](articles/76f20df8.json)
 
 ---
 
@@ -773,6 +825,20 @@ Sri Lanka’s procurement process takes around six months and thus most capita; 
 ◼️
 
 [Data](articles/009d9f90.json)
+
+---
+
+### Our July 1983 Nakba & The Ethnic Conflict Research Industry
+
+*2025-07-22 17:14:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/our-july-1983-nakba-the-ethnic-conflict-research-industry/) · `en`
+
+Was the same Playbook to unmake Multiculturalism and stage the Palestine Nakba (catastrophe) for the violent birth of Israel in May 1948 used years later in the July 1983 pogrom and staged riots in Sri Lanka? Moreover, were the same foreign institutional forces, clandestine actors and networks involved?
+
+Our Sri Lankan Nakba, which included killings, staged riots, forced migration and brain drain to de-develop the country, inaugurated a 30-year cycle of war. The July 1983 pogrom also served to construct a dominant narrative of a perpetually divided people locked in ethno-religious strife in ‘Paradise Lost’. This was much like the disinformation spread about Palestine– a highly multicultural land before the Nakba in which millions were forcibly displaced.
+
+...
+
+[Data](articles/78ac8aec.json)
 
 ---
 
@@ -1520,6 +1586,24 @@ Accordingly, a decision has been taken to debate the Sri Lanka Electricity (Amen
 
 ---
 
+### எரிபொருள் வரி நிவாரணம் எப்போது வழங்கப்படும்? - தயாசிறி அரசாங்கத்திடம் கேள்வி
+
+*2025-07-22 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220624) · `ta`
+
+எரிபொருளுக்கு அறவிடப்படும் வரிகளை குறைத்து மக்களுக்கு நிவாரணம் வழங்குவதாக ஆட்சிக்கு வர முன்னர் அரசாங்கம் கூறினாலும், அதனை செய்யாது தொடர்ந்தும் எரிபொருள் லீட்டரொன்றுக்கு பெருமளவில் வரியை அறவிடுகின்றது. இந்த வரி நிவாரணம் மக்களுக்கு எப்போது வழங்கப்படும் என  ஐக்கிய மக்கள் சக்தி  உறுப்பினர் தயாசிறி ஜயசேகர கேள்வி எழுப்பினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது, வலுச் சக்தி அமைச்சரிடம் கேள்வியெழுப்பி தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+எரிபொருள் கொள்வனவின் போது ஒவ்வொரு லீட்டருக்கும் பெருமளவான தொகை முன்னாள் அமைச்சர் கஞ்சன விஜேசேகரவின் பைகளுக்குள் போவதாக குற்றச்சாட்டுகள் கடந்த காலங்களில் முன்வைக்கப்பட்ன. அது இப்போதும் நடக்கின்றதா? என்று கேட்கின்றேன்.
+
+அத்துடன், ஒவ்வொரு மாதமும் விலை சூத்திரம் முன்வைக்கப்பட்டது. ஒவ்வொரு ஏப்ரல் மாதத்திலும் இவ்வாறு நடந்தது. ஆனால் இப்போது நிறுத்தப்பட்டுள்ளது. ஜூன் மாதத்தில் எரிபொருள் இறக்கப்பட்டமை தொடர்பான தகவல்கள் உள்ளன.
+
+...
+
+[Data](articles/a7814092.json)
+
+---
+
 ### Fire breaks out in a building in Nittambuwa
 
 *2025-07-22 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110732/fire-breaks-out-in-a-building-in-nittambuwa) · `en`
@@ -1699,91 +1783,5 @@ Discussions have been held pertaining to “The Program on Artificial Intelligen
 ◼️
 
 [Data](articles/a702d2a8.json)
-
----
-
-### சலுகைக் குறைப்பு வரைவுக்கு அங்கிகாரம்
-
-*2025-07-22 13:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைக்-குறைப்பு-வரைவுக்கு-அங்கிகாரம்/175-361525) · `ta`
-
-முன்னாள் ஜனாதிபதிகள், அவர்களது குடும்பங்கள் மற்றும் ஓய்வுபெற்ற பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்ட சிறப்பு சலுகைகளை குறைக்கும் நோக்கில், 1986 ஆம் ஆண்டின் 4 ஆம் இலக்க ஜனாதிபதி உரிமைச் சட்டத்தைத் திருத்துவதற்கான வரைவு சட்டமூலத்தை வர்த்தமானியில் வெளியிட்டு பாராளுமன்றத்தில் சமர்ப்பிக்கும் திட்டத்திற்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
-
-ஜனாதிபதிகளின் உரிமைச் சட்டம் மற்றும் 1977 ஆம் ஆண்டின் பாராளுமன்ற ஓய்வூதியச் சட்டம் இல. 1 ஆகியவற்றை ரத்து செய்யும் சட்டத்தை வரைவதற்கான கடந்த மாத அமைச்சரவை முடிவைத் தொடர்ந்து இது நடைபெற்றது.
-
-இந்த நடவடிக்கை அரசாங்கத்தின் கொள்கை நிகழ்ச்சி நிரலான “வளமான நாடு அழகான வாழ்க்கை” இன் ஒரு பகுதியாகும், இது போன்ற உரிமைகளை முடிவுக்குக் கொண்டுவருவதற்கு பொதுமக்களின் ஆதரவைப் பெற்றுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
-
-இந்த சீர்திருத்தத்தை ஆதரிக்கும் இரண்டு வரைவு சட்டமூலங்களைத் தயாரிக்க சட்ட வரைஞருக்கு அறிவுறுத்துவதற்கான நீதி மற்றும் தேசிய ஒருங்கிணைப்பு அமைச்சரின் முன்மொழிவை அமைச்சரவை அங்கீகரித்தது.
-
-...
-
-[Data](articles/0870d053.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளின் சலுகைக் குறைப்பு வரைவுச் சட்டமூலத்திற்கு அனுமதி
-
-*2025-07-22 13:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-சலுகைக்-குறைப்பு-வரைவுச்-சட்டமூலத்திற்கு-அனுமதி/175-361525) · `ta`
-
-முன்னாள் ஜனாதிபதிகள், அவர்களது குடும்பங்கள் மற்றும் ஓய்வுபெற்ற பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்ட சிறப்பு சலுகைகளை குறைக்கும் நோக்கில், 1986 ஆம் ஆண்டின் 4 ஆம் இலக்க ஜனாதிபதி உரிமைச் சட்டத்தைத் திருத்துவதற்கான வரைவு சட்டமூலத்தை வர்த்தமானியில் வெளியிட்டு பாராளுமன்றத்தில் சமர்ப்பிக்கும் திட்டத்திற்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
-
-ஜனாதிபதிகளின் உரிமைச் சட்டம் மற்றும் 1977 ஆம் ஆண்டின் பாராளுமன்ற ஓய்வூதியச் சட்டம் இல. 1 ஆகியவற்றை ரத்து செய்யும் சட்டத்தை வரைவதற்கான கடந்த மாத அமைச்சரவை முடிவைத் தொடர்ந்து இது நடைபெற்றது.
-
-இந்த நடவடிக்கை அரசாங்கத்தின் கொள்கை நிகழ்ச்சி நிரலான “வளமான நாடு அழகான வாழ்க்கை” இன் ஒரு பகுதியாகும், இது போன்ற உரிமைகளை முடிவுக்குக் கொண்டுவருவதற்கு பொதுமக்களின் ஆதரவைப் பெற்றுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
-
-இந்த சீர்திருத்தத்தை ஆதரிக்கும் இரண்டு வரைவு சட்டமூலங்களைத் தயாரிக்க சட்ட வரைஞருக்கு அறிவுறுத்துவதற்கான நீதி மற்றும் தேசிய ஒருங்கிணைப்பு அமைச்சரின் முன்மொழிவை அமைச்சரவை அங்கீகரித்தது.
-
-...
-
-[Data](articles/2c14957a.json)
-
----
-
-### ”கடன் செலுத்தியதும் எரிபொருள் வரி நீக்கப்படும்”
-
-*2025-07-22 13:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-செலுத்தியதும்-எரிபொருள்-வரி-நீக்கப்படும்/175-361524) · `ta`
-
-முந்தைய அரசாங்கத்தின் கீழ் திறைசேரியால் கையகப்படுத்தப்பட்ட இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்தின் (CPC) கடன் முழுமையாக திருப்பிச் செலுத்தப்பட்டவுடன், எரிபொருள் மீதான ரூ.50 வரி நீக்கப்படும் என்று மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் குமார ஜெயக்கொடி பாராளுமன்றத்தில் தெரிவித்தார்.
-
-இந்த வரி குறிப்பாக சி.பி.சி.யின் பொறுப்புகளை நிவர்த்தி செய்வதற்காக அறிமுகப்படுத்தப்பட்டது என்றும், அதற்கு அப்பால் நிலையான அரசாங்க வரிகள் மட்டுமே உள்ளன என்றும் எஸ்.ஜே.பி பாராளுமன்ற உறுப்பினர் தயாசிறி ஜெயசேகர எழுப்பிய கேள்விக்கு அமைச்சர் பதிலளித்தார்.
-
-"கடனில் பாதி ஏற்கனவே திருப்பிச் செலுத்தப்பட்டுள்ளது. முழுத் தொகையும் செலுத்தப்பட்டவுடன் ரூ. 50 எரிபொருள் வரியை நீக்குவது குறித்து பரிசீலிக்கப்படும். தற்போது, நிலையான அரசாங்க வரிகள் மட்டுமே நடைமுறையில் உள்ளன," என்று அவர் கூறினார்.
-
-◼️
-
-[Data](articles/7d2f76be.json)
-
----
-
-### ”கடன் செலுத்தப்பட்டவுடன் எரிபொருள் மீதான வரி நீக்கப்படும்”
-
-*2025-07-22 13:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-செலுத்தப்பட்டவுடன்-எரிபொருள்-மீதான-வரி-நீக்கப்படும்/175-361524) · `ta`
-
-முந்தைய அரசாங்கத்தின் கீழ் திறைசேரியால் கையகப்படுத்தப்பட்ட இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்தின் (CPC) கடன் முழுமையாக திருப்பிச் செலுத்தப்பட்டவுடன், எரிபொருள் மீதான ரூ.50 வரி நீக்கப்படும் என்று மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் குமார ஜெயக்கொடி பாராளுமன்றத்தில் தெரிவித்தார்.
-
-இந்த வரி குறிப்பாக சி.பி.சி.யின் பொறுப்புகளை நிவர்த்தி செய்வதற்காக அறிமுகப்படுத்தப்பட்டது என்றும், அதற்கு அப்பால் நிலையான அரசாங்க வரிகள் மட்டுமே உள்ளன என்றும் எஸ்.ஜே.பி பாராளுமன்ற உறுப்பினர் தயாசிறி ஜெயசேகர எழுப்பிய கேள்விக்கு அமைச்சர் பதிலளித்தார்.
-
-"கடனில் பாதி ஏற்கனவே திருப்பிச் செலுத்தப்பட்டுள்ளது. முழுத் தொகையும் செலுத்தப்பட்டவுடன் ரூ. 50 எரிபொருள் வரியை நீக்குவது குறித்து பரிசீலிக்கப்படும். தற்போது, நிலையான அரசாங்க வரிகள் மட்டுமே நடைமுறையில் உள்ளன," என்று அவர் கூறினார்.
-
-◼️
-
-[Data](articles/8ac7bca2.json)
-
----
-
-### E-8 වීසා කාණ්ඩය යටතේ ශ්‍රමිකයින් යැවීමට අවබෝධතා ගිවිසුමක්
-
-*2025-07-22 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212511) · `si`
-
-කොරියානු ජනරජයේ කෘෂිකාර්මික කටයුතු සඳහා ඍතුමය සේවක වැඩසටහන යටතේ අවබෝධතා ගිවිසුමකට අත්සන් තැබීම සඳහා ඉදිරිපත් කළ යෝජනාවක් සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-කොරියානු ජනරජයේ E-8 වීසා කාණ්ඩය (සෘතුමය සේවකයින්) යටතේ ශ්‍රී ලාංකික ශ්‍රමිකයින් යෙදවීම පහසු කිරීම සඳහා පහසු කිරීම සඳහා නියමු ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමටත්, ඒ සඳහා උනන්දුවක් දක්වන කොරියානු පළාත් පාලන ආයතන සමඟ සාකච්ඡා පැවැත්වීමටත් පසුගිය පෙබරවාරි මස 19 වැනි දින ජුනි මස 01 වැනි දින පැවති අමාත්‍ය මණ්ඩල රැස්වීම්වලදී අනුමැතිය ලබා දී ඇත.
-
-ඒ අනුව, කොරියාවේ බෝසෝං පළාත් පාලන ආයතනය සමඟ පැවැති සාකච්ඡාවල ප්‍රතිඵලයක් වශයෙන් ශ්‍රී ලංකාවෙන් ඍතුමය සේවකයින් බඳවා ගැනීමට සහ ඒ වෙනුවෙන් අවබෝධතා ගිවිසුමකට එළඹීමට එකඟතාව පළ කර තිබේ.
-
-යෝජිත අවබෝධතා ගිවිසුම මඟින්, ශ්‍රී ලාංකිකයින්ට සෘතුමය ශ්‍රමික වැඩසටහන යටතේ කෙටි කාලයක් (උපරිම මාස 8ක් දක්වා) බෝසෝං පළාතේ කෘෂිකාර්මික ගම්මානවල සේවය කර ආදායමක් උපයා ගැනීමට සහ මෙරටට විදේශ විනිමය උපයා දීමට අවස්ථාව සැලසෙනු ඇත.
-
-...
-
-[Data](articles/c55d8394.json)
 
 ---

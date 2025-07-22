@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 09:33:52**
+As of **2025-07-22 10:01:05**
 
 ## Newspaper Stats
 
-*Scraped **66,015** Articles*
+*Scraped **66,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,337
 adaderanalk | 8,080
-tamilmirrorlk | 9,477
+tamilmirrorlk | 9,479
 virakesarilk | 11,002
-adaderanasinhalalk | 11,341
+adaderanasinhalalk | 11,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 66,015 articles have been extended.
+61,973 (93.9%) of 66,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+
+*2025-07-22 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212500) · `si`
+
+අද සිට ලබන 25 වන දින දක්වා පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සදහන් කළේය.
+
+සේවකයන්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සහ සේවකයන්ගේ ජාතික අවම වේතනය සංශෝධන පනත් කෙටුම්පත ඇතුළු පනත් කෙටුම්පත් 3ක් අද (22) දිනයේ විවාදයට ගැනීමට නියමිතව ඇත.
+
+හෙට දිනයේ දී සමාගම් සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර අනිද්දා දිනයේ ශ්‍රී ලංකා විදුලි බල සංශෝධන පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/c7b42563.json)
+
+---
+
+### நாட்டை விட்டு வெளியேறிய வைத்தியர்கள் : முழு விபரம் இணைப்பு
+
+*2025-07-22 09:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-விட்டு-வெளியேறிய-வைத்தியர்கள்-முழு-விபரம்-இணைப்பு/175-361499) · `ta`
+
+2022 முதல் 2024 வரையிலான காலப்பகுதியில், நிபுணர்கள் உட்பட 1,489 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியதாக சமீபத்திய ஆய்வு ஒன்று வெளிப்படுத்தியுள்ளது.
+
+அதிக எண்ணிக்கையிலான வைத்தியர்கள் நாட்டை விட்டு வெளியேறுவது சுகாதார உள்கட்டமைப்பை சீர்குலைத்து, குறிப்பாக கிராமப்புற மற்றும் பின்தங்கிய பகுதிகளில் நிபுணர்களின் பற்றாக்குறையை உருவாக்கியுள்ளது என்று ஆய்வு கூறுகிறது.
+
+இது வைத்தியக் கல்வியையும், அனைவருக்கும் சுகாதார சேவைகளை சமமாக அணுகுவதற்கான உரிமையையும் பாதித்துள்ளது என்றும் கூறுகிறது.
+
+கடந்த ஆண்டு இறுதிக்குள் பிரிட்டனில் தேசிய சுகாதார சேவை மற்றும் சமூக சுகாதார சேவைகளில் பணிபுரியும் இலங்கையர்களின் எண்ணிக்கை 121 சதவீதம் அதிகரித்துள்ளது என்பதைக் காட்டியது.
+
+ஆய்வின்படி, கடந்த ஆண்டு இறுதியில் இங்கிலாந்தில் 3,082 இலங்கை வைத்தியர்கள் பணிபுரிந்தனர், இதில் 391 மூத்த நிபுணர்கள் மற்றும் 413 நிபுணர்கள் அடங்குவர்.
+
+...
+
+[Data](articles/40f765ad.json)
+
+---
+
+### බංග්ලාදේශ ගුවන් අනතුරින් මිය ගිය පිරිස 27 දක්වා ඉහළට
+
+*2025-07-22 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212499) · `si`
+
+බංග්ලාදේශ ගුවන් හමුදාවට අයත් පුහුණු ගුවන් යානයක් එරට ඩකා අගනුවර පාසල් පරිශ්‍රයක් වෙත කඩා වැටී සිදුවූ අනතුරින් මේ වන විට පුද්ගලයින් 27 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+සිද්ධියෙන් ළමුන් ඇතුළුව තවත් පුද්ගලයින් 88 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇතැයිද එම මාධ්‍ය වාර්තා සඳහන් කර ඇත.
+
+ඊයේ (22) එරට කුර්මිටෝලා ගුවන් කඳවුරෙන් සාමාන්‍ය පුහුණු මෙහෙයුමක් සඳහා ගුවන් ගත වී ඇති  F-7 BGI නම් පුහුණු ගුවන් යානය ඩකා හී පාසල් පරිශ්‍රයක් වෙත කඩා වැටී පසුව ගිනි ගනු ලැබීය.
+
+ගුවන් අනතුර සම්බන්ධයෙන් එරට හමුදාව පවසා ඇත්තේ යානයේ යාන්ත්‍රික දෝශයක් හේතුවෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+එමෙන්ම යාන්ත්‍රික දෝශයක් ඇති වූ වහාම නියමුවා විසින් එම ගුවන් යානය අඩු ජනාකීර්ණ ප්‍රදේශයකට රැගෙන යාමට උත්සාහ කර ඇති බවද හමුදා බලධාරීන් පවසා තිබේ.
+
+කෙසේ නමුත් අනතුර සම්බන්ධයෙන් සොයා බැලීම සඳහා මේ වන විට විමර්ශන කමිටුවක් පිහිටුවීමටද එරට හමුදාව පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/4c64ec7a.json)
+
+---
+
+### கீதா கோபிநாத் ராஜினாமா?
+
+*2025-07-22 09:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீதா-கோபிநாத்-ராஜினாமா/175-361498) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முதன்மை பிரதி முகாமைத்துவப் பணிப்பாளராகப் பணியாற்றி வரும் கலாநிதி கீதா கோபிநாத் தனது பதவியை ராஜினாமா செய்யவுள்ளார் என தெரிவிக்கப்பட்டுள்ளது.
+
+அவர் 2025 ஆகஸ்ட் மாத இறுதியில் ஹார்வர்ட் பல்கலைக்கழகத்தின் பொருளாதாரத் துறையில் மீண்டும் இணையவுள்ளதாகவும், அங்கு அவர் முதல் கிரகரி மற்றும் ஆனியா கோஃபி பொருளாதாரப் பேராசிரியராகப் பதவியேற்பார் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/77ec5f24.json)
+
+---
 
 ### இந்தியாவில் 140 பயணிகளுடன் புறப்பட்ட விமானம் அவசரமாக தரையிறக்கம்
 
@@ -57,6 +129,12 @@ Extensions include translations and NER (Named Entity Recognition).
 ජාත්‍යන්තර මූල්‍ය අරමුදලේ කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජෝර්ජිවා ඊයේ (21) ඒ බව නිවේදනය කර ඇත.
 
 ගීතා ගෝපිනාත් මහත්මිය එම ධුරයෙන් ඉල්ලා අස්වී ඇත්තේ, හාවර්ඩ් විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා අධ්‍යයන අංශයේ ආර්ථික විද්‍යාව පිළිබඳ මහාචාර්යවරියක ලෙස එක්වීමේ අරමුණින්ය.
+
+ගීතා ගෝපිනාත් මහත්මිය 2019 වසරේ ජනවාරි මාසයේදී ප්‍රධාන ආර්ථික විද්‍යාඥවරියක් ලෙස ජාත්‍යන්තර මූල්‍ය අරමුදලට සම්බන්ධ වී ඇති අතර 2022 වසරේ ජනවාරි මාසයේදී පළමු නියෝජ්‍ය කළමනාකාර අධ්‍යක්ෂවරිය ලෙස උසස් වීම් ලබා ඇත.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලෙහි, ඉතිහාසයේ ප්‍රථම කාන්තා ප්‍රධාන ආර්ථික විද්‍යාඥවරිය වන්නේ ද ගෝපිනාත් මහත්මිය යි.
+
+ගෝලීය අභියෝගවලට මුහුණදීම සඳහා ජාත්‍යන්තර මූල්‍ය හා සාර්ව ආර්ථික විද්‍යාවේ පර්යේෂණ මායිම ඉදිරියට ගෙන යාමටත්, ඉදිරි පරම්පරාවේ ආර්ථික විද්‍යාඥයින් පුහුණු කිරීමට තමා ඉදිරියේ දී බලාපොරොත්තු වන බව තම ඉල්ලා අස්වීම සම්බන්ධයෙන් අදහස් දක්වමින් ගීතා ගෝපිනාත් මහත්මිය පවසා තිබේ.
 
 ◼️
 
@@ -1749,87 +1827,5 @@ Like most farmers in South Korea, Park is a member of the National Agricultural 
 ...
 
 [Data](articles/84f91c54.json)
-
----
-
-### විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධ වැරදිකරුවන් 1,241ක් අත්අඩංගුවට
-
-*2025-07-21 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212479) · `si`
-
-මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් නීතිවිරෝධී මත්පැන් ඇතුළත්ව මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 1,241ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන තිබේ.
-
-එහිදී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 254,679ක ප්‍රමාණයක් හෙරොයින් මිලිග්‍රෑම් 112,567ක ප්‍රමාණයක් හා ගංජා මිලිග්‍රෑම් 3,738,356ක ප්‍රමාණයක් පොලීසිය සිය භාරයට ගෙන ඇත.
-
-මෙම මෙහෙයුම් මගින් 21,132 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 7,922 ක් හා යතුරුපැදි 6,545ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කෙරිණි.
-
-එහිදී ගිනි අවි 05ක ප්‍රමාණයක්ද පොලීසිය සිය භාරයට ගෙන ඇති අතර විදේශ රටක නිශ්පාදිත ගිනි අවියක්ද ඒ අතර වේ.
-
-එමෙන්ම අපරාධවලට සෘජු ලෙස සම්බන්ධ බවට හඳුනාගත් පුද්ගලයන් 18 දෙනෙකු හා විවිධ වැරදි සම්බන්ධයෙන් වරෙන්තුකරුවන් 321ක් දෙනෙකුද මෙහිදී අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ දිනය පුරා මෙම මෙහෙයුම් ක්‍රියාත්මක වූ අතර ඒ සඳහා දිවයින පුරා පොලිස් නිළධාරීන්, විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයන් ඇතුලුව පුද්ගලයන් 5300කට අධික පිරිසක් සහභාගී වී ඇත.
-
-2025 අප්‍රේල් මස 13 වන දින සිට දිවයිනම ආවරණය වන පරිදි විශේෂ මෙහෙයුම් සිදු කිරීමට ආරම්භ කළේය.
-
-...
-
-[Data](articles/a482844d.json)
-
----
-
-### Sri Lanka President discusses investment policy reforms with IMF mission
-
-*2025-07-21 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-representatives-231962/) · `en`
-
-ECONOMYNEXT – International Monetary Fund (IMF) representatives met with Sri Lanka’s President Anura Dissanayake to discuss the future review of its extended credit facility.
-
-The discussion further focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
-
-The President expressed confidence that Sri Lanka would continue to benefit from the IMF’s support in ensuring long-term economic stability and consistency in policy direction.
-
-“President Dissanayake expressed his gratitude for the support extended to Sri Lanka by the IMF so far and emphasized that he is committed to ensuring that all the benefits of the country’s economic growth are delivered to the people.”
-
-The IMF representatives “agreed to extend the necessary support to maintain economic stability and further Sri Lanka’s global advancement”.
-
-...
-
-[Data](articles/a839a914.json)
-
----
-
-### Sri Lanka President discusses investment policy reforms with IMF mission
-
-*2025-07-21 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-investment-policy-reforms-with-imf-mission-231962/) · `en`
-
-ECONOMYNEXT – International Monetary Fund (IMF) representatives met with Sri Lanka’s President Anura Dissanayake to discuss the future review of its extended credit facility.
-
-The discussion further focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
-
-The President expressed confidence that Sri Lanka would continue to benefit from the IMF’s support in ensuring long-term economic stability and consistency in policy direction.
-
-“President Dissanayake expressed his gratitude for the support extended to Sri Lanka by the IMF so far and emphasized that he is committed to ensuring that all the benefits of the country’s economic growth are delivered to the people.”
-
-The IMF representatives “agreed to extend the necessary support to maintain economic stability and further Sri Lanka’s global advancement”.
-
-...
-
-[Data](articles/dd7d8332.json)
-
----
-
-### ”நிலந்தவுக்கு மரண தண்டனை விதிப்பதை திருச்சபை விரும்பவில்லை”
-
-*2025-07-21 16:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-மரண-தண்டனை-விதிப்பதை-திருச்சபை-விரும்பவில்லை/175-361471) · `ta`
-
-பொலிஸ் சேவையிலிருந்து நீக்கப்பட்ட டிஐஜி நிலந்த ஜெயவர்தனவுக்கு மரண தண்டனை விதிக்கப்பட வேண்டும் என்று இலங்கை கத்தோலிக்க திருச்சபையின் வெகுசன ஊடக தொடர்பு பணிப்பாளர் அருட்தந்தை ஜூட் கிருஷாந்த கூறிய கருத்தை மேற்கோள் காட்டி, கொழும்பு மறைமாவட்டத்தின் தகவல் தொடர்பு பணிப்பாளர் அருட்தந்தை சிரில் காமினி பெர்னாண்டோ, அது கத்தோலிக்க திருச்சபையின் உத்தியோகபூர்வ நிலைப்பாடு அல்ல என்று இன்று தெரிவித்தார்.
-
-"ஞாயிற்றுக்கிழமை தனது சொந்தக் கருத்தை மட்டுமே கூறியதாக அருட்தந்தை ஜூட் எங்களிடம் தெரிவித்தார். அருட்தந்தை இதுகுறித்து வருத்தம் தெரிவித்தார், மேலும் இந்த விஷயத்தில் எந்தப் பிரச்சினையும் இல்லை" என்று அருட்தந்தை பெர்னாண்டோ கூறினார்.
-
-"இலங்கையில் உள்ள கத்தோலிக்க திருச்சபை மற்றும் உலகளாவிய கத்தோலிக்க திருச்சபை மரண தண்டனையை ஆதரிக்கவில்லை," என்று அவர் வலியுறுத்தினார்.
-
-"உயர் நீதிமன்ற உத்தரவு மற்றும் 2019 ஈஸ்டர் ஞாயிறு குண்டுவெடிப்புகளை விசாரித்த ஜனாதிபதி ஆணையத்தின் பரிந்துரைகளைத் தொடர்ந்து, டி.ஐ.ஜி ஜெயவர்தனே பொலிஸ் ஆணையத்தால் வெளியேற்றப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/3dae94c8.json)
 
 ---

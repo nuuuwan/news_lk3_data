@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 19:52:26**
+As of **2025-07-22 20:06:27**
 
 ## Newspaper Stats
 
-*Scraped **66,163** Articles*
+*Scraped **66,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,041
 economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,349
+adalk | 6,350
 adaderanalk | 8,111
 tamilmirrorlk | 9,516
 virakesarilk | 11,023
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,163 articles have been extended.
+61,973 (93.7%) of 66,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -301,6 +301,22 @@ Accordingly, the Speaker informed the House that the Employee’s Budgetary Reli
 ◼️
 
 [Data](articles/c375207c.json)
+
+---
+
+### නව අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන
+
+*2025-07-22 17:52:57* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගවිනිසුරු-ප්‍රීති-පද්මන්-සූරසේන/11-417448) · `si`
+
+නව අගවිනිසුරු සඳහා ප්‍රීති පද්මන් සූරසේන මහතාගේ නම ව්‍යවස්ථාදායක සභාව වෙත යොමු කිරීම ජනපති විසින් සිදුකරන ලද බව අද (22) කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+
+වත්මන් අගවිනිසුරු මුර්දු  ප්‍රනාන්දු මහත්මිය මෙම මස 25 සිට විශ්‍රාම ගැනීමට නියමිත වීමත් සමග මෙම තීරණයට එළඹී ඇත.
+
+වැඩිදුරටත් අදහස් දක්වමින් කියා සිටියේ අධිකරණ ක්ෂේත්‍රයේ සිටින ප්‍රවීණ නීතිඥයෙක් මෙන්ම ශ්‍රේෂ්ඨාධිකරණයේ ජ්‍යෙෂ්ඨ විනිසුරුවරයෙක් ලෙස කාලයක් තිස්සේ  කටයුතු කිරීම යන සියලු කරුණු සළකා බලා ජනාධිපතිවරයා මේ නම ඉදිරිපත් කර ඇති බවයි.
+
+◼️
+
+[Data](articles/a2755507.json)
 
 ---
 
@@ -1755,23 +1771,5 @@ In line with the government’s policy declaration “Pohosath Ratak – Lassana
 ◼️
 
 [Data](articles/c898b736.json)
-
----
-
-### SL receives USD 63 bln in remittances over past decade – Deputy Minister
-
-*2025-07-22 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110724/sl-receives-usd-63-bln-in-remittances-over-past-decade-deputy-minister) · `en`
-
-The total amount of remittances received by Sri Lanka through foreign employment over the past 10 years is USD 61,147 million, Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra has stated.
-
-Responding to a question raised in Parliament today (22), the Deputy Minister stated that this amounts to Rs. 13,946 billion.
-
-Deputy Minister Hemachandra revealed this information based on data issued by the Central Bank of Sri Lanka (CBSL), covering the 10-year period from 2015 to May 2025.
-
-He also mentioned that, as of February 25, 2025, the number of Sri Lankans employed overseas was approximately 1,345,801.
-
-◼️
-
-[Data](articles/cf77262e.json)
 
 ---

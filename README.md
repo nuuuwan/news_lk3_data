@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 06:36:48**
+As of **2025-07-22 07:19:36**
 
 ## Newspaper Stats
 
-*Scraped **65,996** Articles*
+*Scraped **65,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,335
-adaderanalk | 8,073
+adaderanalk | 8,074
 tamilmirrorlk | 9,474
 virakesarilk | 11,000
-adaderanasinhalalk | 11,336
+adaderanasinhalalk | 11,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,996 articles have been extended.
+61,973 (93.9%) of 65,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### පාර්ලිමේන්තුව අද යළි රැස්වෙයි  - පාස්කු ප්‍රහාරය ගැන විශේෂ ප්‍රකාශයක්
+
+*2025-07-22 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212494) · `si`
+
+අද (22) සිට ලබන 25 වන දින දක්වා පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
+
+සේවකයන්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සහ සේවකයන්ගේ ජාතික අවම වේතනය සංශෝධන පනත් කෙටුම්පත ඇතුළු පනත් කෙටුම්පත් 3ක් අද දිනයේ විවාදයට ගැනීමට නියමිතව තිබේ.
+
+හෙට (23) දිනයේ දී සමාගම් සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර අනිද්දා දිනයේ ශ්‍රී ලංකා විදුලි බල සංශෝධන පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+
+මේ අතර ඉදිරි පාර්ලිමේන්තු සතිය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා විපක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම ඊයේ (21) පස්වරුවේ රැස්වුණි.
+
+◼️
+
+[Data](articles/4df3f903.json)
+
+---
 
 ### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
 
@@ -51,6 +69,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/371ccb52.json)
+
+---
+
+### Fairly heavy rains above 75 mm likely in parts of the island
+
+*2025-07-22 05:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110705/fairly-heavy-rains-above-75-mm-likely-in-parts-of-the-island) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (22), the Department of Meteorology said.
+
+Fairly heavy falls above 75 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya, Kandy, Galle, Matara and Kalutara districts, the Met. Department noted in its latest weather update.
+
+Several spells of showers may occur in the Northern and North-western provinces as well.
+
+Meanwhile, strong winds of about 55-60kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western, Central, Southern and Sabaragamuwa provinces and Trincomalee district.
+
+Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island.
+
+The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/c0bb2cca.json)
 
 ---
 
@@ -1216,7 +1256,7 @@ The operation was carried out throughout the day yesterday and involved more tha
 
 *2025-07-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212480) · `si`
 
-මහියංගනය පොලිස් වසමේ 17 කණුව ප්‍රදේශයේදී වියානා ඇළෙහි ඇල කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරා ගැනීමේදි දියේ ගිලී අතුරුදන් වූ පෙම්වතියගේ සිරුර හමුව තිබේ.
+මහියංගනය පොලිස් වසමේ 17 කණුව ප්‍රදේශයේදී වියානා ඇළෙහි ඇළ කණ්ඩිය මතින් ලිස්සා වතුරට වැටුණු පෙම්වතාව බේරා ගැනීමේදි දියේ ගිලී අතුරුදන් වූ පෙම්වතියගේ සිරුර හමුව තිබේ.
 
 ඊයේ (20) සවස මෙම අනතුර සිදුව ඇති අතර ඇළෙහි ජල පහර සැර වැඩි වීම හේතුවෙන් ඔවුන් දෙපළ ඇළ කණ්ඩිය මතින් ඇවිද සිටියදී දිය සෙවළ සහිත ස්ථානයකින් තරුණයා ලිස්සා දියට වැටී තිබේ.
 
@@ -1779,47 +1819,5 @@ Ada Derana 24’s daily programming features seven hourly news bulletins and fou
 ...
 
 [Data](articles/29260c47.json)
-
----
-
-### Sri Lanka stocks end on mixed sentiments
-
-*2025-07-21 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-on-mixed-sentiments-231911/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange saw mixed sentiment on Monday, as its broader index closed up, while its more liquid index closed down.
-
-The All Share Price Index closed up 0.37 percent, or 70.38 points, at 19,044; while the S&P SL20 closed down 0.15 percent, or 8.44 points, at 5,646.
-
-Diversified financials and capital goods stocks contributed the most to turnover.
-
-The ASPI was boosted by DFCC Bank which closed 4.75 rupees higher at 125.75, Central Finance Company which closed 11.00 rupees higher at 286.00, Co-operative Insurance Company which closed 70 cents higher at 4.50, C T Holdings which closed 13.00 rupees at 583.25, and Lanka Realty Investments which closed 5.50 rupees higher at 27.70.
-
-◼️
-
-[Data](articles/469bd5c5.json)
-
----
-
-### எம். ஆர்.ஐ. இயந்திரத்தால் உள்ளிழுக்கப்பட்டு ஒருவர் மரணம் - அமெரிக்காவில் சம்பவம்
-
-*2025-07-21 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220542) · `ta`
-
-அமெரிக்காவில் நியூயோர்க் நகரத்திலுள்ள வைத்தியசாலை ஒன்றில் எம்.ஆர்.ஐ.  (MRI) இயந்திரத்தால் உள்ளிழுக்கப்பட்டு ஒருவர் உயிரிழந்துள்ளார்.
-
-கழுத்தில் உலோகத்தால் செய்யப்பட்ட பெரிய சங்கிலி அணிந்து எம்ஆர்ஐ இயந்திர அறைக்குள் சென்றுள்ளார்.
-
-இதன்போது, இயங்கி கொண்டிருந்த இயந்திரத்தின் சக்திவாய்ந்த காந்தசக்தி அவரை அதற்குள் இழுத்துள்ளது. இதனால் 61 வயதுடைய வயோதிபர் உயிரிழந்துள்ளார்.
-
-தனது கணவர் தான் இவ்வாறு இறந்து விட்டதாக உள்ளூர் ஊடகங்களுக்கு வைத்தியசாலை இருந்த நோயாளியான அவரது மனைவி தெரிவித்துள்ளார்.
-
-வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த குறித்த பெண் நோயாளி தனக்கு முழங்காலில் எம்.ஆர்.ஐ. இயந்திரத்தில் பரிசோதனை செய்த பின்னர் எழும்புவதற்கு உதவுமாறு  தனது கணவரை அந்த அறைக்குள் அழைத்துள்ளார்.
-
-அவர் அனுமதி இன்றி சென்ற நிலையில் இந்த சம்பவம் இடம்பெற்றுள்ளது. காயமடைந்த அவர் வியாழக்கிழமை ( 17) உயிரிழந்ததாக தெரிவிக்கப்பட்டுள்ளது.
-
-எம்.ஆர்.ஐ. இயந்திரங்கள் அனைத்து வகையான காந்தப் பொருட்களையும்  ஈர்க்கும் காந்த சக்தியை கொண்டுள்ளன.
-
-...
-
-[Data](articles/09e1ddb3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 15:48:22**
+As of **2025-07-22 16:06:41**
 
 ## Newspaper Stats
 
-*Scraped **66,112** Articles*
+*Scraped **66,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailymirrorlk | 4,733
 adalk | 6,344
 adaderanalk | 8,101
 tamilmirrorlk | 9,504
-virakesarilk | 11,015
+virakesarilk | 11,016
 adaderanasinhalalk | 11,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,112 articles have been extended.
+61,973 (93.7%) of 66,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### விடுதலை நீர் தந்து தமிழ் அரசியல் கைதிகளின் விடுதலை நோக்கிய பயணத்தில் இணையுங்கள்.     வேலன் சுவாமி
+
+*2025-07-22 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220640) · `ta`
+
+விடுதலைநீர் தந்து தமிழ் அரசியல்கைதிகளின் விடுதலையை நோக்கிய பயணத்தில் இணையுங்கள் என பொத்துவில் தொடக்கம் பொலிகண்டி அமைப்பின் ஏற்பாட்டாளர் தவத்திரு வேலன் சுவாமி வேண்டுகோள் விடுத்துள்ளார்
+
+குரலற்றவர்களின் குரல் அமைப்பின் ஏற்பாட்டில் தமிழ் அரசியல் கைதிகளின் விடுதலை நோக்கிய பயணம் தொடர்ந்துகொண்டிருக்கின்றது.
+
+ஏற்கனவே ஆரம்பிக்கப்பட்ட விடுதலை விருட்சம் என்கின்ற தமிழ் அரசியல் கைதிகளின் விடுதலையை நோக்கியும் தமிழ் இனத்தின் விடுதலையை நோக்கியதுமான அந்த பயணம் இன்று விடுதலை விருட்சத்திற்கு நீர்வழங்கி அனைவரும் பேராதரவு கொடுத்து,விடுதலை மரத்தை வளர்த்தெடுக்கவேண்டும்.
+
+தமிழ் அரசியல் கைதிகளின் விடுதலையாகயிருக்கட்டும் தமிழ் இனத்தின் விடுதலையாகயிருக்கட்டும்,எங்கள் இனத்திற்காக எங்களை நாங்கள் அர்ப்பணிப்பதற்கான அடையாளமாக இந்த விடுதலை விருட்சம்,தமிழர் தாயகத்தின் எட்டு மாவட்டங்களிலும் நாட்டப்படயிருக்கின்றது.
+
+அந்த விடுதலை விருட்சங்களிற்கு நீர் ஊற்றிவளர்க்கவேண்டிய அடிப்படை உணர்வை இந்த விடுதலை நீர் வழங்குதல் எடுத்துக்காட்ட இருக்கின்றது.
+
+...
+
+[Data](articles/66df4305.json)
+
+---
 
 ### විශ්‍රාමික ඩීඅයිජී රොහාන් ප්‍රේමරත්නට අල්ලස් කොමිෂමේ පෙනී ඉන්නැයි නියෝග
 
@@ -1773,25 +1793,5 @@ They are believed to be responsible for similar three-wheeler robberies in Kahat
 ◼️
 
 [Data](articles/9fa80625.json)
-
----
-
-### BOI approves 57 projects, Sri Lanka gets USD 569mn in FDIs in 2025: Dy Minister
-
-*2025-07-22 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110711/boi-approves-57-projects-sri-lanka-gets-usd-569mn-in-fdis-in-2025-dy-minister) · `en`
-
-The Board of Investment (BOI) has approved 57 projects so far this year (2025), according to Deputy Minister of Industry and Entrepreneurship Development Chaturanga Abeysingha.
-
-Deputy Minister Abeysingha stated that the total value of the approved projects amounts to USD 569 million, and out of that, investments worth USD 507 million have already entered the country.
-
-Deputy Minister Chaturanga Abeysingha also claimed that the figures represent a 101% increase compared to the year 2024.
-
-He said Sri Lanka is transitioning from stability to growth and noted that the government is continuing to make strides in improving the ease of doing business, which enables the influx of foreign direct investments.
-
-With the planned Export Processing Zones (EPZs), designated lands for tourism, and the growing opportunities at the Port City, Sri Lanka is poised to accelerate its growth momentum in the years ahead, Deputy Minister Chaturanga Abeysingha added.
-
-...
-
-[Data](articles/ba186c51.json)
 
 ---

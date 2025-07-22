@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 19:00:00**
+As of **2025-07-22 19:26:45**
 
 ## Newspaper Stats
 
-*Scraped **66,151** Articles*
+*Scraped **66,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,167 @@ islandlk | 4,041
 economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,348
-adaderanalk | 8,107
-tamilmirrorlk | 9,513
-virakesarilk | 11,020
-adaderanasinhalalk | 11,370
+adalk | 6,349
+adaderanalk | 8,111
+tamilmirrorlk | 9,516
+virakesarilk | 11,022
+adaderanasinhalalk | 11,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,151 articles have been extended.
+61,973 (93.7%) of 66,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### செம்மணி மனிதப் புதைகுழியில் இன்று 8 எலும்புக்கூடுகள் அடையாளம் : இதுவரை 80 மனித எலும்புக்கூடுகள் !
+
+*2025-07-22 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/220671) · `ta`
+
+யாழ். அரியாலை செம்மணி சிந்துப்பாத்தி பகுதியில் அடையாளங்காணப்பட்டுள்ள மனிதப் புதைகுழியிலிருந்து செவ்வாய்க்கிழமை (22) 8 எலும்புக் கூடுகள் அடையாளம் காணப்பட்டுள்ளன.
+
+செம்மணி மனிதப் புதைகுழி அகழ்வு நடவடிக்கையின் 2 ஆம் கட்டத்தின் 17ஆவது நாள் அகழ்வு இன்று இடம்பெற்றது.
+
+எச்சங்களில், 6 முதல் 7 வரை சிறுவர்கள்  மற்றும் குழந்தைகளுடையதாக இருக்கலாம்  என சந்தேகிக்கப்படும் மனித எலும்புக்கூடுகள் அடையாளம் காணப்படுள்ளன .
+
+இன்றைய கண்டுபிடிப்புகளுடன், இதுவரை அடையாளம் காணப்பட்ட மனித எலும்புக்கூடுகளின் மொத்த எண்ணிக்கை 80 ஆக உயர்ந்துள்ளது , இவற்றில்  65 எலும்புக்கூடுகள் ஏற்கனவே முழுமையாக தோண்டி எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/941de2b9.json)
+
+---
+
+### වෙනස්කම් රැසකට පා තබන ජෝර්ජ් කුමරුගේ 12 වන උපන්දිනය
+
+*2025-07-22 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212528) · `si`
+
+බ්‍රිතාන්‍යයේ ඔටුන්න හිමි ජෝර්ජ් කුමරු අද (22) සිය 12 වන උපන්දිනය සමරමින් සිටියි.
+
+2013 වසරේ ජූලි 22 දා ලන්ඩන් නුවර ශාන්ත මේරී රෝහලේ දී උපතට ලැබූ ජෝර්ජ් කුමරු එංගලන්තයේ ඔටුන්න හිමි විලියම් කුමරුගේ කේට් කුමරියගේ පළමු දරුවාය.
+
+ඒ අනුව ජෝර්ජ් කුමරු රාජකීය ධූරාවලිය අනුව සිංහාසනයට සිටින උරුමකරුවන් අතර දෙවන ස්ථානයේ පසු වේ.
+
+සිය 12 වන උපන්දින සැමරුමත් සමඟ කුමරු නව යොවුන් වියට පා තැබු බව සැලකේ.
+
+ඒ අනුව බ්‍රිතාන්‍යයේ අනාගත රජු වශයෙන් ඔහුව සූදානම් කිරීම් සිදුකිරීමට නියමිත අතර කුමරුගේ ජීවිතයේ යම් යම් වෙනස්කම් ඉදිරියේදී සිදුවීමට නියමිත බව සඳහන් වේ.
+
+ප්‍රධාන වශයෙන් එලැඹෙන සැප්තැම්බර් මාසයේ සිට ජෝර්ජ් කුමරුට නව පාසලකට ඇතුලත්වීමට සිදුවේ.
+
+ඒ අනුව කුමරු මේ දක්වා සිය සහෝදරයා හා සහෝදරිය සමඟ අධ්‍යාපනය ලැබූ ලැම්බෲක් පාසලට සමුදීමට නියමිතය.
+
+කෙසේ නමුත් එම පාසල සම්බන්ධයෙන් මෙතෙක් නිල වශයෙන් දැනුම්දී නොමැති බව සඳහන් වේ.
+
+එමෙන්ම රාජකීය සම්ප්‍රධායක් ලෙස අද සිට ජෝර්ජ් කුමරුට සිය පියා සමඟ එකම ගුවන් යානයක ගුවන් ගමන් වල යෙදීමට අවසර හිමි නොවනු ඇති.
+
+...
+
+[Data](articles/1053a848.json)
+
+---
+
+### செம்மணியில் சூப்பி கண்டுபிடிப்பு
+
+*2025-07-22 18:54:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-சூப்பி-கண்டுபிடிப்பு/175-361551) · `ta`
+
+செம்மணியில் இன்று (22) செவ்வாய்க்கிழமை 8 எலும்பு கூடுகள் உட்பட மொத்தம் 80 எலும்பு கூடுகள் மீட்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/42a2a423.json)
+
+---
+
+### ”நாடளாவிய ரீதியில் 12 கால்நடை மருத்துவர்களே உள்ளனர்”
+
+*2025-07-22 18:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-12-கால்நடை-மருத்துவர்களே-உள்ளனர்/175-361550) · `ta`
+
+நாடு முழுவதும் வனவிலங்குகளின் ஆரோக்கியத்தை நிர்வகிக்க வனவிலங்கு பாதுகாப்புத் திணைக்களத்திடம் 12 கால்நடை மருத்துவர்கள் மட்டுமே உள்ளனர் என்று துணை சுற்றுச்சூழல் அமைச்சர் தம்மிக படபெந்தி இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+மனித-யானை மோதல் குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் கேள்விக்கு பதிலளித்த அமைச்சர், கால்நடை உதவியாளர்கள், செவிலியர்கள் மற்றும் தொழில்நுட்ப வல்லுநர்கள் போன்ற துணை ஊழியர்கள் பற்றாக்குறையை குறிப்பிட்டார்.
+
+"மற்ற நாடுகளைப் போலல்லாமல், எங்கள் கால்நடை மருத்துவர்கள் சவாலான சூழ்நிலைகளிலும், குறைந்த வளங்களுடனும் தனியாக வேலை செய்கிறார்கள்," என்று அவர் கூறினார், இந்த கால்நடை மருத்துவர்கள் யானைகளுக்கு மட்டுமல்ல, அனைத்து வகையான விலங்குகளுக்கும் சிகிச்சை அளிப்பதற்கு பொறுப்பானவர்கள் என்றும் கூறினார்.
+
+துப்பாக்கிச் சூட்டுக் காயங்களால் பாதிக்கப்பட்ட ஒன்பது யானைகளுக்கு சிகிச்சை அளிக்க ஜூலை 10 ஆம் திகதி 12 கால்நடை மருத்துவர்களும் பணிக்கப்பட்டதாக அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/608e0d7d.json)
+
+---
+
+### வேலையாட்களின் குறைந்தபட்ச வேதனத்திற்கு சட்ட திருத்தம் 182 வாக்குகளால் நிறைவேற்றம்
+
+*2025-07-22 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220670) · `ta`
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) நடைபெற்ற வேலையாட்களின் வரவு செலவுத் திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் மற்றும் வேலையாட்களின் குறைந்தபட்ச வேதனம் தொடர்பான (திருத்தச்) சட்டமூலம் மீதான இரண்டாம் வாசிப்பு மீதான விவாதத்தை தொடர்ந்து அதற்கான வாக்கெடுப்பு இடம்பெற்றது.
+
+இதன்போது சபையில் இருந்த சகலரும் அதற்கு ஆதரவாக வாக்களித்தனர். இதன்படி எவரும் அதனை எதிர்த்து வாக்களிக்கவில்லை. எனினும் 42 பேர் சமூகமளித்திருக்கவில்லை.
+
+இந்த புதிய திருத்தச் சட்டதிற்கமைய ஊழியர்களின் ஆகக் குறைந்த சம்பளம் கடந்த ஏப்ரல் மாதம் முதல் 27000 ரூபாவாக அதிகரிக்கப்பட்டுள்ளதுடன், 2026 ஜனவரி முதலாம் திகதி முதல் 30000 ரூபாவாகவும் அதிகரிக்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ee693478.json)
+
+---
+
+### மகனின் கைது குறித்து சபையில் உணர்ச்சிவசமானார் ஜகத்
+
+*2025-07-22 18:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனின்-கைது-குறித்து-சபையில்-உணர்ச்சிவசமானார்-ஜகத்/175-361549) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகள் விற்ற வாகனம் தொடர்பாக தனது மகன் சமீபத்தில் கைது செய்யப்பட்டதைத் தொடர்ந்து, ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதான, பாராளுமன்றத்தில் உணர்ச்சிபூர்வமான உரையை நிகழ்த்தினார்.
+
+நல்ல முறையில் வாங்கப்பட்டு தனது உதவியின் கீழ் பதிவு செய்யப்பட்ட வாகனம், பொலிஸாரின் முன்னறிவிப்பு இல்லாமல் தடுத்து நிறுத்தியபோது தனது மகனால் ஓட்டப்பட்டதாக விதான கூறினார். "நான் அதே வாகனத்தில் குறைந்தது பத்து முறையாவது பாராளுமன்றத்திற்குச் சென்றிருக்கிறேன். ஏதேனும் பிரச்சினை எனக்குத் தெரிந்திருந்தால், அத்தகைய பிரச்சினை குறித்து எனக்குத் தெரிவிக்கப்பட்டிருந்தால், நான் அதை ஒப்படைத்திருப்பேன் அல்லது ஒரு அறிக்கையை வெளியிட்டிருப்பேன்," என்று அவர் கூறினார்.
+
+தனது மகளால் குறித்த வாகனம் விற்கப்பட்டதாக பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன ஒப்புக்கொண்டதாகவும், ஆனால் இந்த விவகாரம் குறித்து தனக்கு எதுவும் தெரியாது என்றும் அவர் கூறியதாக ஜகத் தெரிவித்தார்.
+
+முறையான பதிவு இருந்தபோதிலும், விதானவின் மகன் பிணை மறுக்கப்பட்டு 14 நாட்கள் காவலில் வைக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/b0fdda84.json)
+
+---
+
+### Air India flight catches fire after landing at Delhi airport; passengers and crew safe
+
+*2025-07-22 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110744/air-india-flight-catches-fire-after-landing-at-delhi-airport-passengers-and-crew-safe) · `en`
+
+An Air India flight from Hong Kong to Delhi caught fire shortly after it landed at Delhi’s Indira Gandhi Airport on Tuesday. Though the aircraft suffered some damage, passengers and crew members disembarked normally and are safe, CNN-News18 reported citing airline spokesperson.
+
+After completing its journey from Hong Kong to Delhi on July 22, Air India Flight AI 315 reported an auxiliary power unit (APU) fire soon after it had landed and was stationed at the gate.
+
+“Flight AI 315, operating from Hong Kong to Delhi on 22 July 2025, experienced an auxiliary power unit (APU) fire shortly after it had landed and parked at the gate. The incident occurred while passengers had begun disembarking, and the APU was automatically shut down as per system design,” the spokesperson said in a statement.
+
+The aircraft has been grounded for further investigations and the regulator has been duly notified, the spokesperson added.
+
+...
+
+[Data](articles/63c72218.json)
+
+---
+
+### US withdraws from UNESCO again, this time due to its support for ‘woke’ causes
+
+*2025-07-22 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110743/us-withdraws-from-unesco-again-this-time-due-to-its-support-for-woke-causes) · `en`
+
+The United States withdrew from the United Nations cultural organization UNESCO on Tuesday, saying continued involvement was not in the US national interest.
+
+“UNESCO works to advance divisive social and cultural causes and maintains an outsized focus on the UN’s Sustainable Development Goals, a globalist, ideological agenda for international development at odds with our America First foreign policy,” State Department spokeswoman Tammy Bruce said in a statement.
+
+White House deputy spokesperson, Anna Kelly, earlier told the New York Post daily newspaper that the withdrawal was due to UNESCO’s support for “ woke, divisive cultural and social causes that are totally out-of-step with the commonsense policies that Americans voted for in November”.
+
+The move, which will take place at the end of December 2026, is a blow to the Paris-based agency, founded after World War II to promote peace through international cooperation in education, science, and culture.
+
+...
+
+[Data](articles/e6bcb478.json)
+
+---
 
 ### இலங்கை மின்சார திருத்தச் சட்டமூலம் விவாதத்துக்கு வராது
 
@@ -72,9 +218,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 එක්සත් ජාතීන්ගේ සංස්කෘතික හා අධ්‍යාපන එජන්සිය ඊශ්‍රායලයට පක්ෂග්‍රාහිව කටයුතු කිරීම සහ බෙදුම්කාරී තත්ත්වයන් ප්‍රවර්ධය කිරීම හේතුවෙන් ඔවුන් මෙම තීරණයට එළැඹුන බව අමෙරිකා එකසත් ජනපදය දැනුම් දී ඇති බව විදෙස් මාධ්‍ය පවසයි.
 
+අමෙරිකා එක්සත් ජනපදය අද (22) යුනෙස්කෝවෙන් ඉවත් වූ බව මෙලෙස නිවේදනය කළේය.
+
+අමෙරිකාවේ රාජ්‍ය දෙපාර්තමේන්තු ප්‍රකාශිකා ටැමී බෲස් සඳහන් කර ඇත්තේ යුනෙස්කෝවේ අඛණ්ඩ මැදිහත්වීම එක්සත් ජනපදයේ ජාතික අවශ්‍යතාවයට නොගැල පෙන බවය.
+
+ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් යටතේ එක්සත් ජනපදයෙන් ඉවත් වීම අපේක්ෂා කළ අතර,
+
+ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්  2017 වසරේ ඔහුගේ පළමු ධුර කාලය තුළදී ද එක්සත් ජාතීන්ගේ අධ්‍යාපනික, විද්‍යාත්මක හා සංස්කෘතික සංවිධානයෙන් ඉවත් වීමට ද නියෝග කළේය.
+
+කෙසේවෙතත් ඉන්පසුව අමෙරිකාවේ පාලන බලය හිමිකරගත් ජනාධිපති ජෝ බයිඩන් විසින් එම සාමාජිකත්වය නැවත ස්ථාපිත කිරීමට කටයුතු කළේය.
+
 ◼️
 
 [Data](articles/16d9d8bb.json)
+
+---
+
+### Suspect wanted over shooting and attempted murder arrested at BIA
+
+*2025-07-22 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110742/suspect-wanted-over-shooting-and-attempted-murder-arrested-at-bia) · `en`
+
+A suspect wanted by the police in connection with an attempted murder by shooting in the Panadura Police Division was arrested today (22) by officers of the Criminal Investigation Department (CID) at Bandaranaike International Airport (BIA) in Katunayake.
+
+The suspect was identified through the Facial Recognition System installed at BIA after he arrived at the airport to board a flight bound for Malaysia.
+
+The 28-year-old suspect, Ramesh Peshala, was wanted for the attempted murder of Hasitha Dulaj in a shooting incident that occurred in the Hirana area of the Panadura Police Division on July 11.
+
+He was arrested at 10.40 a.m. today after arriving at BIA in an attempt to board AirAsia flight AK-44, which was scheduled to depart for Malaysia.
+
+Later, a team of officers from the Criminal Investigation Branch of the Panadura Police arrived at the airport and took the suspect into their custody.
+
+◼️
+
+[Data](articles/b9afe564.json)
 
 ---
 
@@ -94,6 +270,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### National Minimum Wage of Workers Bill passed with amendments
+
+*2025-07-22 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110741/national-minimum-wage-of-workers-bill-passed-with-amendments) · `en`
+
+The National Minimum Wage of Workers (Amendment) Bill was passed in Parliament with amendments on Tuesday (22).
+
+Meanwhile, the Third Reading of the Employee’s Budgetary Relief Allowance (Amendment) Bill was also passed in Parliament this evening by a special majority.
+
+A total of 181 members voted in favour, while there were no votes against.
+
+Accordingly, the Speaker informed the House that the Employee’s Budgetary Relief Allowance (Amendment) Bill was passed with amendments by a majority of 181 votes.
+
+◼️
+
+[Data](articles/c375207c.json)
+
+---
+
 ### முன்னாள் ஜனாதிபதிகளுக்கான சிறப்புரிமைகளை இரத்து செய்யும் யோசனைக்கு அமைச்சரவை அங்கீகாரம்
 
 *2025-07-22 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/220665) · `ta`
@@ -107,6 +301,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e0f7e85e.json)
+
+---
+
+### ඉනාමලුව රක්ෂිතයෙන් වන අලි පහකගේ හා ඇතෙකුගේ සිරුරක් හමුවෙයි
+
+*2025-07-22 17:37:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉනාමලුව-රක්ෂිතයෙන්-වන-අලි-පහකගේ-හා-ඇතෙකුගේ-සිරුරක්-හමුවෙයි/11-417447) · `si`
+
+දඹුල්ල ඉනාමළුව රජයේ රක්ෂිතය තුල මීට මාසයකට පමණ ඉහතදී මිය යන්නට ඇති බවට සැක කරන ඇතෙකුගේ සහ අලින් පස්  දෙනෙකුගේ මල සිරුරු තිබෙන බව ප්‍රදේශවාසීහු පවසති.
+
+ඉන් ඇතාගේ සහ අලින් දෙන්නකුගේ මල සිරුරු ඇති ස්ථාන ප්‍රදේශ වාසින් කිහිප දෙනෙකු 22 මාධ්‍යවේදීන් කණ්ඩායමකට පෙන්වූ අතර ඉතිරි තිදෙනාගේ මල සිරුරු ඇති ස්ථාන වලට ගමන් කිරීමේ අවධානමක් ඇති බවත් තොරතුරු ලබාදුන් පිරිස නිසි ලෙස ඉසව්ව සන්නිවේදනය නොකළ බව ඔවුහු පවසති.
+
+මෙම අලි මරණ පිළිබඳව ප්‍රදේශවාසීන්  අවස්ථා ගණනාවකදී  බලධාරීන්ට දැනුවත් කර තිබෙන බවට  තොරතුරු වාර්තා වෙයි.
+
+කෙසේ වෙතත් වන සංරක්ෂණය දෙපාර්තමේන්තුව  පාලනය වන රජයේ රක්ෂිතයේ අලි මරණ මළ සිරුරු දැක වන සංරක්ෂණ නිලධාරීන් සීගිරිය වනජීවී කාර්යාලය දැනුවත් කර ඇති බවද දැනගන්නට තිබේ.
+
+ප්‍රදේශප්‍රදේශයේ තරුණයන් දෙදෙනෙකු ඉතාම රහසිගතවන අලි මරණ ඇති ස්ථාන තුනක් මාධ්‍ය කණ්ඩායමක් වෙත 22  පෙරවරුවේ රැගෙන ගොස් පෙන්වන්නට වූයේ මෙම අපරාධය වැළලී යාමට බොහෝ ඉඩකඩ පවතින නිසාවෙන් යැයි ඔවුහු පවසති.
+
+...
+
+[Data](articles/7d88b5b3.json)
 
 ---
 
@@ -1559,203 +1773,5 @@ When the case was taken up, Attorney-at-Law Darshana Kuruppu, appearing on behal
 ...
 
 [Data](articles/8f6a0050.json)
-
----
-
-### Trump administration releases FBI records on MLK Jr. despite his family’s opposition
-
-*2025-07-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110722/trump-administration-releases-fbi-records-on-mlk-jr-despite-his-familys-opposition) · `en`
-
-The Trump administration on Monday released records of the FBI’s surveillance of Martin Luther King Jr., despite opposition from the slain Nobel laureate’s family and the civil rights group that he led until his 1968 assassination.
-
-The digital document dump includes more than 240,000 pages of records that had been under a court-imposed seal since 1977, when the FBI first gathered the records and turned them over to the National Archives and Records Administration.
-
-In a lengthy statement released Monday, King’s two living children, Martin III, 67, and Bernice, 62, said their father’s killing has been a “captivating public curiosity for decades.” But the pair emphasized the personal nature of the matter and urged that the files “be viewed within their full historical context.”
-
-...
-
-[Data](articles/2db1193c.json)
-
----
-
-### நான்கு இந்திய மீனவர்கள் கைது
-
-*2025-07-22 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220605) · `ta`
-
-இலங்கை கடற்பரப்பிற்குள் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்கள் நால்வர் இலங்கை கடற்படையினரால் கைதுசெய்யப்பட்டுள்ளனர்.
-
-தலைமன்னாருக்கும் தனுஷ்கோடிக்கும் இடையே மீன்பிடித்துக் கொண்டிருந்த போது அப்பகுதியில் ரோந்து  நடவடிக்கையில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர், எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில், குறித்த படகையும் அதிலிருந்த நான்கு மீனவர்களையும் கைது செய்து மன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்று விசாரணைகளை மேற்கொண்டனர்.
-
-இந்நிலையில், ஆரம்பகட்ட விசாரணையை முடித்துக் கொண்டு மீனவர்கள் நான்கு பேரையும் மன்னார் மீன்வளத்துறை அதிகாரிகளிடம் ஒப்படைக்கப்பட நடவடிக்கை எடுத்துள்ளதாக இலங்கை கடற்படையின் ஊடகப்பேச்சாளர் தெரிவித்தார்.
-
-இதேவேளை, இவ்வாண்டு ஜனவரி மாதம் முதல் இதுவரை  இராமேஸ்வரத்தை சேர்ந்த 25 மீன்பிடிப்படகுகளும் 185 மீனவர்களும்  இலங்கை  கடற்படையால் எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/766a66b7.json)
-
----
-
-### Sri Lanka should grant zero-tariff access to US exports: Ravi tells Govt
-
-*2025-07-22 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110721/sri-lanka-should-grant-zero-tariff-access-to-us-exports-ravi-tells-govt) · `en`
-
-The government of Sri Lanka should grant zero-tariff access to products from the United States immediately, according to New Democratic Front (NDF) Member of Parliament Ravi Karunanayake.
-
-Speaking in Parliament today, MP Ravi Karunanayake said with uncertainty surrounding reciprocal tariffs imposed by US President Donald Trump, the government must act proactively to ensure Sri Lankan exporters can compete with other regional competitors to access the US market.
-
-MP Karunanayake noted that Sri Lanka’s access to the US market is around USD 3.1 billion while the country imports approximately USD 300 million worth of products.
-
-He said therefore Sri Lanka can afford to prove zero-tariff access to US exports.
-
-MP Ravi Karunanayake stressed on the importance of taking steps to reduce the announced 30% reciprocal tariff on Sri Lankan products before the White House finalizes the rates that are due to take effect on August 1.
-
-...
-
-[Data](articles/7b02f3d5.json)
-
----
-
-### හිටපු DIG රොහාන් අත්අඩංගුවට ගැනීමේ අවශ්‍යතාවයක් නෑ - අල්ලස් කොමිසම අධිකරණයට දන්වයි
-
-*2025-07-22 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212506) · `si`
-
-අල්ලස් කොමිසම විසින් සිදු කරනු ලබන විමර්ශනයකට අදාළව අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ විශ්‍රාමික නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතා මෙම අවස්ථාවේදී අත්අඩංගුවට ගැනීමේ අවශ්‍යතාවයක් මතු නොවන බව අල්ලස් කොමිසම අද (22) කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුන්නේය.
-
-අල්ලස් කොමිසම විසින් තමන්ව අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා රොහාන් ප්‍රේමරත්න මහතා විසින් ඉදිරිපත් කළ අපේක්ෂිත ඇප පෙත්සමක් අද කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නිලධාරියා මේ බව දැනුම් දුන්නේය.
-
-ඒ අනුව මහෙස්ත්‍රාත්වරයා පෙත්සම්කාර ප්‍රේමරත්න මහතාගේ නීතිඥවරයාට දැනුම් දුන්නේ, හිටපු නියෝජ්‍ය පොලිස්පතිවරයාට අල්ලස් කොමිසම හමුවට ගොස් ප්‍රකාශයක් ලබාදීමට කටයුතු කරන ලෙසය.
-
-මෙහිදී අල්ලස් කොමිසමේ නිලධාරීන් අධිකරණය හමුවේ පවසා ඇත්තේ, කිසිදු අවස්ථාවක තම නිලධාරීන් ප්‍රේමරත්න මහතාගේ නිවසට නොගිය බවය.
-
-◼️
-
-[Data](articles/88bb68c3.json)
-
----
-
-### அடுத்த பிரதம நீதியரசராக பிரீத்தி பத்மன் சூரசேனவின் பெயர் பரிந்துரை
-
-*2025-07-22 11:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-பிரதம-நீதியரசராக-பிரீத்தி-பத்மன்-சூரசேனவின்-பெயர்-பரிந்துரை/175-361515) · `ta`
-
-அடுத்த பிரதம நீதியரசராக உயர் நீதிமன்ற நீதியரசர் ப்ரீதி பத்மன் சூரசேனவை ஜனாதிபதி அனுர குமார திசாநாயக்க. அரசியலமைப்பு சபைக்கு பரிந்துரைத்துள்ளார்.
-
-ஜனாதிபதியின் பரிந்துரை குறித்து இறுதி முடிவை எடுக்க அரசியலமைப்பு சபை புதன்கிழமை (23) கூட உள்ளது.
-
-பிரதம நீதியரசர் முர்து பெர்னாண்டோ 27 ஆம் திகதி ஓய்வு பெறுகிறார். அவர் 25 ஆம் திகதி வெள்ளிக்கிழமை உயர்நீதிமன்றத்தில் தனது பிரியாவிடை உரையை நிகழ்த்த உள்ளார்.
-
-உயர் நீதிமன்றத்தின் மிக மூத்த நீதியரசர்களில் ஒருவரான ப்ரீதி பத்மன் சூரசேன, நீதித்துறை சேவை ஆணையத்தின் உறுப்பினராகவும் பணியாற்றினார்.
-
-நாட்டில் பல உயர்மட்ட வழக்குகளில் நீதிபதியாகவும் சூரசேன பணியாற்றியுள்ளார். ஐஜிபி தேசபந்து தென்னகோனுக்கு எதிரான குற்றச்சாட்டுகளை விசாரிக்கும் மூன்று பேர் கொண்ட பாராளுமன்றக் குழுவின் தலைவராகவும் அவர் பணியாற்றுகிறார்
-
-◼️
-
-[Data](articles/1a238385.json)
-
----
-
-### பேனா கோடுகளால் 14 மாணவர்கள் வைத்தியாசாலையில்
-
-*2025-07-22 11:22:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேனா-கோடுகளால்-14-மாணவர்கள்-வைத்தியாசாலையில்/175-361513) · `ta`
-
-பியகம ஆரம்ப பாடசாலையில் நான்காம்  (4-B) வகுப்பில் கல்வி கற்கும் 14 மாணவர்களுக்கு திடீரென ஏற்பட்ட அரிப்பு காரணமாக திங்கட்கிழமை (21) மதியம்  பியகம வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-எட்டு மாணவர்கள் மற்றும் ஆறு  மாணவிகள் இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன்  அவர்களின்  நிலை கவலைக்கிடமாக இல்லை என கூறப்படுகிறது.
-
-குறித்த வகுப்பைச் சேர்ந்த  மாணவர் ஒருவர் பாடசாலைக்கு கொண்டு வந்த  கார்பன் பேனாவால் தோழர்கள் மீது கோடு வரைந்துள்ளார், பின்னர் மாணவர்கள் அதை தண்ணீர் ஊற்றி கழுவிய பிறகு அரிப்பு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/1ff38547.json)
-
----
-
-### பேனா கோடுகளால் 14 மாணவர்களுக்கு அரிப்பு
-
-*2025-07-22 11:22:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேனா-கோடுகளால்-14-மாணவர்களுக்கு-அரிப்பு/175-361513) · `ta`
-
-பியகம ஆரம்ப பாடசாலையில் நான்காம்  (4-B) வகுப்பில் கல்வி கற்கும் 14 மாணவர்களுக்கு திடீரென ஏற்பட்ட அரிப்பு காரணமாக திங்கட்கிழமை (21) மதியம்  பியகம வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-எட்டு மாணவர்கள் மற்றும் ஆறு  மாணவிகள் இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன்  அவர்களின்  நிலை கவலைக்கிடமாக இல்லை என கூறப்படுகிறது.
-
-குறித்த வகுப்பைச் சேர்ந்த  மாணவர் ஒருவர் பாடசாலைக்கு கொண்டு வந்த  கார்பன் பேனாவால் தோழர்கள் மீது கோடு வரைந்துள்ளார், பின்னர் மாணவர்கள் அதை தண்ணீர் ஊற்றி கழுவிய பிறகு அரிப்பு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/504d3b1d.json)
-
----
-
-### වසර 10ක් තුළ විදෙස්ගත ශ්‍රමිකයින්ගෙන් මෙරටට ලැබුණු ප්‍රේෂණ ගැන හෙළිදරව්වක්
-
-*2025-07-22 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212505) · `si`
-
-පසුගිය වසර 10 තුළ විදේශ රැකියා හරහා මෙරටට ලැබී ඇති මුළු ප්‍රේෂණ ප්‍රමාණය අමෙරිකානු ඩොලර් මිලියන 67,147ක් බව විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍රා මහතා පැවසීය.
-
-අද (22) පාර්ලිමේන්තුවේ දී වාචික ප්‍රශ්න සඳහා පිළිතුරු ලබාදෙමින් නියෝජ්‍ය අමාත්‍යවරයා සඳහන් කර සිටියේ, එය ශ්‍රී ලංකා රුපියල්වලින් බිලියන 13,946ක් බවය.
-
-2015 වර්ෂයේ සිට 2025 මැයි දක්වා වසර 10ක කාලය තුළ මහ බැංකු වාර්තා උපුටා දක්වමින් නියෝජ්‍ය අමාත්‍යවරයා මෙම තොරතුරු අනාවරණය කළේය.
-
-2025 පෙබරවාරි මස 25 වන දින වනවිට විදේශ රටවල සේවය කරනු ලබන ශ්‍රී ලාංකික ශ්‍රමිකයින් සංඛ්‍යාව ආසන්න වශයෙන් 1,345,801ක් බව ද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
-
-◼️
-
-[Data](articles/a68db4a1.json)
-
----
-
-### செம்மணி  குறித்து சர்வதேச விசாரணை அவசியம் - அவுஸ்திரேலியாவில் தமிழர்கள் பேரணி
-
-*2025-07-22 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/220600) · `ta`
-
-செம்மணி மற்றும் ஏனைய மனித புதைகுழிகள் குறித்து முழுமையான சர்வதேச விசாரணை அவசியம் என அவுஸ்திரேலியாவில் உள்ள இலங்கை தமிழர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
-
-அவுஸ்திரேலியாவில் இடம்பெற்ற பேரணியின் போது இலங்கை தமிழர்கள் ஐநா மற்றும் வெளிநாடுகளின் தூதரகங்களிடம் இந்த கோரிக்கையை வலியுறுத்தியுள்ளனர்.
-
-இலங்கை அரசாங்கத்தினால் நூற்றுக்கணக்கான தமிழர்கள் கடத்தப்பட்டு சித்திரவதை செய்யப்பட்டு கொலை செய்யப்பட்டு புதைக்கப்பட்டுள்ளமை செம்மணிமனித புதைகுழிகள் மூலம் மீண்டும் தெரியவந்துள்ளதை தொடர்ந்து அவுஸ்திரேலியாவில் உள்ள இலங்கை தமிழர்கள் இது குறித்த கவனத்தை ஈர்க்கும் விதத்தில் நேற்று பேரணியொன்றை முன்னெடுத்தனர்.
-
-இந்த மனித புதைகுழிகள் தனியானதொரு சம்பவம் இல்லை,அமைதியான விதத்திலும் தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்பட்ட நிலையிலும் தொடரும் இனப்படுகொலையின் ஒரு பகுதியே இந்த மனித புதைகுழிகள்.
-
-அவுஸ்திரேலியாவிற்கான ஐநா தூதரகத்தின் முன்னாள் ஆரம்பமான பேரணி  ஐநா அலுவலகங்களை நோக்கியும் பல தூதரங்களை நோக்கியும் சென்றது.
-
-...
-
-[Data](articles/1ec7fb65.json)
-
----
-
-### විදුලි සේවකයන් සියයට 50ක් පමණ වෘත්තීය සටනක
-
-*2025-07-22 11:04:46* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සේවකයන්-සියයට-50ක්-පමණ වෘත්තීය-සටනක/11-417440) · `si`
-
-යෝජිත විදුලි පනත හකුලා ගන්නා ලෙස රජයට බල කරමින් ලංකා විදුලි බල මණ්ඩලයේ වෘත්තීය සමිති කිහිපයක් එක්ව (22) දින ආරම්භ කර ඇති වෘත්තීය සමිති ක්‍රියාමාර්ගයට සමගාමීව ජල විදුලි බලාගාරවල සේවය කරන ඉංජිනේරුවන් සහ සේවකයින් 50%ක් පමණ (22) දින අසනීප නිවාඩු වාර්ථා කර ඇති බවත්, දැනට සේවයට පැමිණ සිටින සේවකයන්ගෙන් කිසිදු බාධාවකින් තොරව විදුලි උත්පාදන කටයුතු සිදු කරන බව ලක්ෂාන විදුලි බලාගාර සංකීර්ණයේ නිලධාරියෙකු පැවසීය.
-
-ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය, කැනියොන්, විමලසුරේන්ද්‍ර සහ ඉහළ කොත්මලේ ජල විදුලි බලාගාරවල විදුලි උත්පාදනය සිදු කරන බවයි එන නිළධාරියා වැඩි දුරටත් කියා සිටියේ.
-
-◼️
-
-[Data](articles/a7939474.json)
-
----
-
-### Canadian woman arrested at BIA with 18kg of hashish
-
-*2025-07-22 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/110720/canadian-woman-arrested-at-bia-with-18kg-of-hashish) · `en`
-
-A 37-year-old Canadian woman has been arrested at the Bandaranaike International Airport (BIA) in Katunayake for the possession of a large consignment of hashish.
-
-The suspect arrived in Sri Lanka today (22) at around 2:50 a.m. on a flight from Canada via Doha, said Ada Derana reporter.
-
-Officers attached to the Narcotics Control Unit of Sri Lanka Customs conducted a search of her luggage and discovered a total of 18.1kilograms of hashish.
-
-According to Sri Lanka Customs, the estimated value of the seized drugs is approximately Rs. 181 million.
-
-Customs Media Spokesperson and Additional Director General of Customs Seevali Arukgoda stated that preliminary investigations are being carried out by the Narcotics Control Unit of Sri Lanka Customs.
-
-The suspect, along with the seized narcotics, will be handed over to the Police Narcotics Bureau (PNB) for further investigation and legal action.
-
-◼️
-
-[Data](articles/d4f332ea.json)
 
 ---

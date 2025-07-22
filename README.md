@@ -1,36 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 18:32:30**
+As of **2025-07-22 19:00:00**
 
 ## Newspaper Stats
 
-*Scraped **66,146** Articles*
+*Scraped **66,151** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 589
-colombotelegraphcom | 674
+colombotelegraphcom | 675
 bbccomsinhala | 677
 islandlk | 4,041
 economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,348
-adaderanalk | 8,106
-tamilmirrorlk | 9,511
+adaderanalk | 8,107
+tamilmirrorlk | 9,513
 virakesarilk | 11,020
-adaderanasinhalalk | 11,369
+adaderanasinhalalk | 11,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,146 articles have been extended.
+61,973 (93.7%) of 66,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### இலங்கை மின்சார திருத்தச் சட்டமூலம் விவாதத்துக்கு வராது
+
+*2025-07-22 18:24:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மின்சார-திருத்தச்-சட்டமூலம்-விவாதத்துக்கு-வராது/175-361548) · `ta`
+
+எதிர்வரும் 24 ஆம் திகதி இரண்டாவது மதிப்பீட்டுக்காக விவாதத்துக்கு எடுத்துக்கொள்ளப்படவிருந்த இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலத்தை அன்றைய தினம் விவாதத்துக்கு எடுத்துக்கொள்ளாமல் இருக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+சபாநாயகர்  ஜகத் விக்கிரமரத்ன தலைமையில் இன்று செவ்வாய்க்கிழமை (22) கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்தில் இது தீர்மானிக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
+
+அதற்கமைய, அன்றைய தினத்தில் ஆளும் கட்சியினால் கொண்டுவரப்படும் பிரேரணைக்கு அமைய ‘உத்தேச புதிய கல்வி மறுசீரமைப்பு’ தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தை மாலை  5.30 மணி வரை நடத்துவதற்கு இதன்போது தீர்மானிக்கப்பட்டது.
+
+இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் தொடர்பான தொழில்நுட்ப விடயங்கள் காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதுடன்,சம்பந்தப்பட்ட நடவடிக்கைகள் நிறைவடைந்ததன் பின்னர் மற்றுமொரு பாராளுமன்ற அமர்வு தினமொன்றில் இந்தச் சட்டமூலம் விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+
+◼️
+
+[Data](articles/77073a58.json)
+
+---
+
+### 3 சட்டமூலங்கள் நிறைவேற்றப்பட்டன
+
+*2025-07-22 18:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சட்டமூலங்கள்-நிறைவேற்றப்பட்டன/175-361547) · `ta`
+
+வேலையாட்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்)சட்டமூலம், வேலையாளர்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம்மற்றும் வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனம் (திருத்தச்) சட்டமூலம்என்பன பாராளுமன்றத்தில் நிறைவேற்றம்
+
+வேலையாட்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் 2005ஆம் ஆண்டின் 36ஆம் இலக்க சட்டத்தைத் திருத்துவதற்கானது) வேலையாளர்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் (2016ஆம் ஆண்டின் 4ஆம் இலக்க சட்டத்தைத் திருத்துவதற்கானது) மற்றும் வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனம் (திருத்தச்) சட்டமூலம் ஆகிய மூன்று சட்டமூலங்கள் இன்று (22) பாராளுமன்றத்தில் விசேட பெரும்பான்மையுடன் நிறைவேற்றப்பட்டன.
+
+...
+
+[Data](articles/fedbece1.json)
+
+---
+
+### අමෙරිකාව UNESCO සාමාජිකත්වයෙන් ඉවත්වෙයි
+
+*2025-07-22 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212527) · `si`
+
+යුනෙස්කෝ සාමාජිකත්වයෙන් තමන් ඉවත්වෙන බව අමෙරිකා එකසත් ජනපදය නිවේදනය කර ඇත.
+
+එක්සත් ජාතීන්ගේ සංස්කෘතික හා අධ්‍යාපන එජන්සිය ඊශ්‍රායලයට පක්ෂග්‍රාහිව කටයුතු කිරීම සහ බෙදුම්කාරී තත්ත්වයන් ප්‍රවර්ධය කිරීම හේතුවෙන් ඔවුන් මෙම තීරණයට එළැඹුන බව අමෙරිකා එකසත් ජනපදය දැනුම් දී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/16d9d8bb.json)
+
+---
 
 ### ’’கோட்டா கோ கம’’ தாக்குதல் வழக்கு: தென்னகோன் சந்தேக நபர்
 
@@ -75,6 +121,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/01a6dd02.json)
+
+---
+
+### Four Indian fishermen arrested for poaching in seas off Mannar
+
+*2025-07-22 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110740/four-indian-fishermen-arrested-for-poaching-in-seas-off-mannar) · `en`
+
+The Sri Lanka Navy apprehended one Indian fishing boat and four Indian fishermen for engaging in illegal fishing activities within Sri Lankan waters, north of Mannar.
+
+The operation was carried out during the early hours of 21 July 2025, said the Sri Lanka Navy.
+
+According to the Navy, the North Central Naval Command had detected multiple Indian fishing vessels trespassing and engaging in illegal fishing in Sri Lankan waters in the dark hours of July 21.
+
+In response, the North Central Naval Command deployed its Inshore Patrol Craft to intercept and drive away the intruding vessels.
+
+During the operation, naval personnel successfully boarded one of the Indian boats, resulting in its seizure and the arrest of four Indian nationals who continued to engage in illegal fishing in Sri Lankan waters.
+
+The apprehended boat and fishermen were brought ashore at the Talaimannar Pier. They will be handed over to the Fisheries Inspector of Mannar for onward legal proceedings, said the Navy.
+
+◼️
+
+[Data](articles/6b040a1f.json)
 
 ---
 
@@ -1308,6 +1376,18 @@ The Bribery Commission also informed the Magistrate that CIABOC officials were n
 
 ---
 
+### Abolition Of Executive Presidency & A New Constitution For Sri Lanka
+
+*2025-07-22 12:36:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-executive-presidency-a-new-constitution-for-sri-lanka/) · `en`
+
+Constitutional development in Sri Lanka has evolved through several phases, from British colonial days to its post-independence era. Key milestones in this process are the 1931 Donoughmore Constitution, the 1948 Soulbury Constitution of the Dominion of Ceylon, and the 1972 and 1978 Republican Constitutions. The 1978 Constitution established an executive presidential system and has been amended 21 times. One of the most significant changes came with the Thirteenth Amendment in 1987, which introduced devolution through the establishment of Provincial Councils by adding Chapter XVIIA to the Constitution. The Amendment was necessary, according to the Indo-Sri Lanka Peace Accord, for ‘preserving Sri Lanka’s character as a multi-ethnic, multi-lingual and multi-religious plural society, in which all citizens can live in equality, safety and harmony, and prosper and fulfil their aspirations’.
+
+...
+
+[Data](articles/a9cbc08f.json)
+
+---
+
 ### பிரதம நீதியரசர் பதவிக்கு நீதிபதி பிரீத்தி பத்மன் சூரசேனவின் பெயர் பரிந்துரை
 
 *2025-07-22 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220607) · `ta`
@@ -1677,101 +1757,5 @@ The suspect, along with the seized narcotics, will be handed over to the Police 
 ◼️
 
 [Data](articles/d4f332ea.json)
-
----
-
-### ඇල්ල වල්ලවාය මාර්ගයේදී වෑන් රථයක් පෙරළේ
-
-*2025-07-22 10:57:38* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-වල්ලවාය-මාර්ගයේදී-වෑන්-රථයක්-පෙරළේ/11-417439) · `si`
-
-ඇල්ල වැල්ලවාය මාර්ගය 02 කණුව අසලදී (22) වෙනිදා උදෑසන වැල්ලවාය දෙසට ගමන් කරමින් තිබූ වෑන් රථයක් පෙරළී අනතුරක් සිදුවී ඇත.
-
-මෙම වෑන් රථය ඇල්ල සිට වැල්ලවාය දක්වා ගමන් කරමින් සිටියදී කාන්තාවක් විසින් ධාවනය කරන ලද ත්‍රීවීල් රථයක් මාර්ගය හරහා එක වරම   හරවා ඇති අතර ඒ සමඟම වෑන් රථයේ වේගය අඩුකිරීමට තිරිංග යෙදීමත් සමඟ පෙරළී ඇත.
-
-අනතුර සිදුකරන අවස්ථාවේ වෑන් රථයේ තරුණයින් තිදෙනෙකු සිට ඇති අතර ඔවුන්ට කිසිදු හානියක් සිදුවී නොමැත.
-
-වෑන් රථයට පමණක් අලාභ හානි සිදුවී තිබේ. වැල්ලවාය පොලීසිය පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/5cbd0803.json)
-
----
-
-### பதக்க வீரர்கள் இருவருக்கும் மலையகத்தில் வரவேற்பு
-
-*2025-07-22 10:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதக்க-வீரர்கள்-இருவருக்கும்-மலையகத்தில்-வரவேற்பு/76-361510) · `ta`
-
-சிங்கப்பூர் சீனியர் தடகள சாம்பியன்ஷிப்பில் இலங்கைக்காக 5 பதக்கங்களை வென்ற இரண்டு விளையாட்டு வீரர்களுக்கு வரவேற்பளிக்கப்பட்டது.
-
-சிங்கப்பூரில் நடைபெற்ற சர்வதேச சீனியர் தடகள சாம்பியன்ஷிப்பில் இலங்கையைப் பிரதிநிதித்துவப்படுத்தி 5 பதக்கங்களை வென்ற துரைசாமி விஜிந்த் மற்றும் மணிவேல் சத்தியசீலன் ஆகிய இரண்டு விளையாட்டு வீரர்களை கௌரவிக்கும் வகையில் ஹட்டன், குடகமாவில் இலங்கை மலையக இந்து குருமார் ஒன்றியத்தால் பாராட்டு விழா, திங்கட்கிழமை (21) நடைபெற்றது.
-
-12 நாடுகளைச் சேர்ந்த ஏராளமான மூத்த விளையாட்டு வீரர்கள் கலந்து கொண்ட மூன்று நாள் போட்டியை சிங்கப்பூர் சீனியர் தடகள சங்கம் ஏற்பாடு செய்தது.
-
-கொத்மலை, பூண்டுலோயா, டன்சினன் தோட்டத்தைச் சேர்ந்த துரைசாமி விஜிந்த்,  சுத்தி  எறிதல், வட்டு எறிதல் மற்றும் 5,000 மீட்டர் பந்தய நடைப்பயணத்தில் தங்கப் பதக்கம் வென்றார்.
-
-அதேபோல், ராகலையைச் சேர்ந்த மணிவேல் சத்தியசீலன் 5,000 மீட்டர் பந்தய நடைப்பயணத்தில் தங்கப் பதக்கத்தையும் 1,500 மீட்டர் ஓட்டப்பந்தயத்தில் வெள்ளிப் பதக்கத்தையும் வென்றார்.
-
-...
-
-[Data](articles/5e78afa4.json)
-
----
-
-### තද සුළං සහ රළු මුහුද ගැන රතු නිවේදනයක්
-
-*2025-07-22 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212504) · `si`
-
-තද සුළං සහ රළු මුහුද පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් නිවේදනය කර තිබේ.
-
-ඒ අනුව කල්පිටිය සිට මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශ සඳහා ඉදිරි පැය 24 දක්වා බලපැවැත්වේ.
-
-එම මුහුදු ප්‍රදේශවල සුළඟේ වේගය විසින් විට පැ.කි.මී 60 - 70 දක්වා ඉහළ යා හැකි අතර මුහුදු ප්‍රදේශ විටින් විට රළු හෝ ඉතා රළු විය හැකිය.
-
-පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3ත් අතර විය හැකිය.
-
-මේ හේතුවෙන් එම ප්‍රදේශ හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාව පවතී.
-
-ඉදිරි පැය 24 සඳහා කල්පිටිය සිට මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ  හම්බන්තොට සිට පොතුවිල් දක්වා මුහුදු ප්‍රදේශවල යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම්දෙයි.
-
-එමෙන්ම කල්පිටිය සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා සහ කන්කසන්තුරය සිට මුලතිව් හරහා ත්‍රිකුණාමලය දක්වා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 50 දක්වා වැඩි වන අතර, එම මුහුදු ප්‍රදේශ තරමක් රළු වෙයි.
-
-...
-
-[Data](articles/55b5e6ef.json)
-
----
-
-### அமானா தகாஃபுல் 2024 வருடாந்த விருதுகள் வழங்கும் நிகழ்வு
-
-*2025-07-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220597) · `ta`
-
-இலங்கையில் புரட்சிகர கம்யூனிஸ்ட் இயக்கத்தின் முன்னோடி தலைவர் என்று வர்ணிக்கப்பட்ட  காலஞ் சென்ற நாகலிங்கம் சண்முகதாசனின் ( சண் ) 105 வது பிறந்த தினத்தை  ( 2025 ஜூலை 3 ) முன்னிட்டு அவரின் பெயரில் இயங்கும் மார்க்சிய கற்கைகளுக்கான சண்முகதாசன் நிலையம்  ஜூலை 6 மாலை கொழும்பு தமிழ்ச்சங்கத்தின் சங்கரப்பிள்ளை மண்டபத்தில் நினைவுப் பேருரையையும் நூல் வெளியீட்டையும் ஏற்பாடு செய்திருந்தது.
-
-◼️
-
-[Data](articles/a9d86122.json)
-
----
-
-### ‘Red’ warning for strong winds up to 70 kmph issued
-
-*2025-07-22 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110719/red-warning-for-strong-winds-up-to-70-kmph-issued) · `en`
-
-A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Kalpitiya to Kankesanthurai via Mannar and from Hambantota to Pottuvil.
-
-These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
-
-Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
-
-Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
-
-Naval and fishing communities are strongly advised not to venture into the sea areas from Kalpitiya to Kankesanthurai via Mannar and from Hambantota to Pottuvil for the next 24 hours, said the Met. Department.
-
-Naval and fishing communities are urged to stay updated with future forecasts issued by the Department of Meteorology.
-
-◼️
-
-[Data](articles/0f3f6a36.json)
 
 ---

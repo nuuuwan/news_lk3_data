@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 20:06:27**
+As of **2025-07-22 20:21:15**
 
 ## Newspaper Stats
 
-*Scraped **66,164** Articles*
+*Scraped **66,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,350
-adaderanalk | 8,111
+adaderanalk | 8,112
 tamilmirrorlk | 9,516
 virakesarilk | 11,023
-adaderanasinhalalk | 11,371
+adaderanasinhalalk | 11,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,164 articles have been extended.
+61,973 (93.7%) of 66,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### ඖෂධ අඛණ්ඩව සැපයීමට ජනපතිගෙන් සෞඛ්‍ය අංශවලට උපදෙස්
+
+*2025-07-22 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212529) · `si`
+
+හිඟයකින් තොරව ජනතාවට අවශ්‍ය ඖෂධ අඛණ්ඩව සැපයීම සඳහා අවැසි ප්‍රතිපාදන වෙන්කර ඇති බැවින් ඒ සඳහා කඩිනම් පියවර ගන්නැයි ජනාධිපති අනුර කුමාර දිසානායක අද (22) බලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+ඒ සෞඛ්‍ය අමාත්‍යවරයා, නියෝජ්‍ය අමාත්‍යවරයා සහ අමාත්‍යාංශයේ නිලධාරින් සමඟ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවකදීය.
+
+ඖෂධ මිලදීගැනීමේ සහ බෙදාහැරීමේ යාන්ත්‍රණය විධිමත් කරන ලෙසත් ඊට අවශ්‍ය ප්‍රතිපාදන මේ වනවිට මහා භාණ්ඩාගාරයෙන් වෙන් කර ඇති බවත් ජනාධිපතිවරයා එහිදී සඳහන් කර ඇත.
+
+මේ අතර, රෝහල් රැසක මේ වන විට අත්‍යවශ්‍ය ඖෂධ සහ උපකරණ හිඟයක් පවතින බවට තොරතුරු වාර්තා වේ.
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය ද මේ පිළිබඳ සඳහන් කරන්නේ දින කිහිපයක සිටය.
+
+ඔවුන් පවසන පරිදි මේ වන විට රජයේ රෝහල් රැසක දියවැඩියාව ඇතුළු බෝ නොව රෝග, පිළිකා, ස්වසන ආබාධ ඇතුළු රෝග සඳහා ලබාදෙන ඖෂධ මෙන්ම වේදනා නාශකවල පවා හිඟයක් පවතී.
+
+මේ අතර ඖෂධ සහ වෛද්‍ය උපකරණ පිටතින් මිලදී ගැනීම නිර්දේශ කිරීම සඳහා සෞඛ්‍ය අමාත්‍යාංශය නිකුත් කර ඇති චක්‍රලේඛය ද කිසිසේත් ප්‍රායෝගික නොවීම හේතුවෙන් තත්ත්වය ව්‍යාකූල වී ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය අද සඳහන් කළේය.
+
+...
+
+[Data](articles/72185bc0.json)
+
+---
 
 ### பற்றாக்குறை மற்றும் தாமதங்கள் இன்றி தொடர்ச்சியான மருந்து விநியோகத்தை உறுதி செய்ய ஜனாதிபதி அறிவுறுத்தல்
 
@@ -45,6 +69,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6e686866.json)
+
+---
+
+### Sri Lanka to end tax breaks for Port City Colombo project by Chinese firm – Report
+
+*2025-07-22 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110746/sri-lanka-to-end-tax-breaks-for-port-city-colombo-project-by-chinese-firm-report) · `en`
+
+Sri Lanka is set to end tax breaks for the Port City Colombo project being implemented by a Chinese state-run firm as part of commitments under an International Monetary Fund (IMF) bailout package, a move expected to hit the viability of the $1.4-billion venture.
+
+Following the fourth and latest review for Sri Lanka’s extended fund facility from the IMF to help overcome the island nation’s worst economic crisis, the government in Colombo has committed to amend the Strategic Development Projects (SDP) Act and Port City Act within this year to introduce “transparent, rules-based, best-practice aligned eligibility criteria for time-bound” incentives and to reduce the length of tax holidays.
+
+...
+
+[Data](articles/b5b35d35.json)
 
 ---
 
@@ -1739,37 +1777,5 @@ In line with the government’s policy declaration “Pohosath Ratak – Lassana
 ...
 
 [Data](articles/2856231d.json)
-
----
-
-### ஹஷிஷூடன் கனேடிய பெண் சிக்கினார்
-
-*2025-07-22 11:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹஷிஷூடன்-கனேடிய-பெண்-சிக்கினார்/175-361516) · `ta`
-
-சுமார் 18 கோடியே 10 இலட்சம் பெறுமதியுடைய “ஹஷிஷ்” போதைப்பொருளை நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தின்  "கிரீன் சேனல்" வழியாக வெளியேற முயன்ற வெளிநாட்டு பெண் பயணி ஒருவர் சுங்கப் போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகளால் செவ்வாய்க்கிழமை  (22) கைது செய்யப்பட்டுள்ளார்.
-
-அவர், இந்த போதைப்பொருள் தொகையுடன் கனடாவின் மொண்ட்ரியலில் இருந்து கட்டாரின் தோஹா நகருக்கு வந்து அங்கிருந்து இலங்கை வந்துள்ளார்.
-
-அவரின் பயணப் பைக்குள் இருந்து 18 கிலோ 123 கிராம் “ஹஷிஷ்” போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/94ee1d8e.json)
-
----
-
-### “ஹஷிஷ்” போதைப்பொருளுடன் கனேடிய பெண் சிக்கினார்
-
-*2025-07-22 11:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹஷிஷ்-போதைப்பொருளுடன்-கனேடிய-பெண்-சிக்கினார்/175-361516) · `ta`
-
-சுமார் 18 கோடி 10 இலட்சம் பெறுமதியுடைய “ஹஷிஷ்” போதைப்பொருளை நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தின்  "கிரீன் சேனல்" வழியாக வெளியேற முயன்ற வெளிநாட்டு பெண் பயணி ஒருவர் சுங்கப் போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகளால் செவ்வாய்க்கிழமை  (22) கைது செய்யப்பட்டுள்ளார்.
-
-அவர், இந்த போதைப்பொருள் தொகையுடன் கனடாவின் மொண்ட்ரியலில் இருந்து கட்டாரின் தோஹா நகருக்கு வந்து அங்கிருந்து இலங்கை வந்துள்ளார்.
-
-அவரின் பயணப் பைக்குள் இருந்து 18 கிலோ 123 கிராம் “ஹஷிஷ்” போதை பொருள் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c898b736.json)
 
 ---

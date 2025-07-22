@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 19:39:42**
+As of **2025-07-22 19:52:26**
 
 ## Newspaper Stats
 
-*Scraped **66,162** Articles*
+*Scraped **66,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailymirrorlk | 4,733
 adalk | 6,349
 adaderanalk | 8,111
 tamilmirrorlk | 9,516
-virakesarilk | 11,022
+virakesarilk | 11,023
 adaderanasinhalalk | 11,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,162 articles have been extended.
+61,973 (93.7%) of 66,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### பற்றாக்குறை மற்றும் தாமதங்கள் இன்றி தொடர்ச்சியான மருந்து விநியோகத்தை உறுதி செய்ய ஜனாதிபதி அறிவுறுத்தல்
+
+*2025-07-22 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220672) · `ta`
+
+மருந்து விநியோக செயல்முறையை முறைப்படுத்துவது தொடர்பாக ஜனாதிபதி அநுரகுமார திசாநாயக்க, சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ, பிரதி அமைச்சர் வைத்தியர் ஹன்சக விஜேமுனி மற்றும் சுகாதார அமைச்சின் அதிகாரிகள் இடையே செவ்வாய்க்கிழமை (22) பிற்பகல் ஜனாதிபதி செயலகத்தில் கலந்துரையாடலொன்று நடைபெற்றது.
+
+மருந்துகளின் கொள்முதல் மற்றும் விநியோகம் குறித்து இதன்போது கலந்துரையாடப்பட்டதோடு அந்தப் பொறிமுறையை சரிபடுத்தி பற்றாக்குறை மற்றும் தாமதங்கள் இல்லாமல் மக்களுக்கு மருந்துகளை தொடர்ச்சியாக வழங்குவதை உறுதி செய்யவும் நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தினார்.
+
+மருந்து கொள்முதல் செயல்முறை மற்றும் விநியோக பொறிமுறையில் ஏற்பட்டுள்ள சிக்கல் நிலைமைகள் மற்றும் பலவீனங்கள் குறித்தும் இங்கு கவனம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/6e686866.json)
+
+---
 
 ### செம்மணி மனிதப் புதைகுழியில் இன்று 8 எலும்புக்கூடுகள் அடையாளம் : இதுவரை 80 மனித எலும்புக்கூடுகள் !
 
@@ -1757,21 +1773,5 @@ He also mentioned that, as of February 25, 2025, the number of Sri Lankans emplo
 ◼️
 
 [Data](articles/cf77262e.json)
-
----
-
-### Dy Commissioner of Inland Revenue Dept arrested for soliciting bribe granted bail
-
-*2025-07-22 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110723/dy-commissioner-of-inland-revenue-dept-arrested-for-soliciting-bribe-granted-bail) · `en`
-
-The Colombo Magistrate’s Court has granted bail to the Deputy Commissioner of the Inland Revenue Department, who was previously arrested and remanded on suspicion of soliciting a bribe of Rs. 100,000 from a businessman in order to waive around Rs. 1.1 million in tax arrears owed to the department.
-
-The suspect was ordered to be released on two surety bails of Rs. 1 million each. Colombo Additional Magistrate Harshana Kekunawala also directed the suspect to fully cooperate with the ongoing investigations, said Ada Derana reporter.
-
-When the case was taken up, Attorney-at-Law Darshana Kuruppu, appearing on behalf of the suspect, informed court that the suspect’s 14-year-old son was suffering from severe psychological distress due to his father being in remand custody. The teenager was reportedly refusing to attend school or consume meals, and had been referred for medical treatment.
-
-...
-
-[Data](articles/8f6a0050.json)
 
 ---

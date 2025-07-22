@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 00:26:30**
+As of **2025-07-23 00:39:21**
 
 ## Newspaper Stats
 
-*Scraped **66,193** Articles*
+*Scraped **66,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 676
 bbccomsinhala | 677
 islandlk | 4,041
 economynextcom | 4,044
-dailyftlk | 4,676
+dailyftlk | 4,680
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
@@ -26,9 +26,87 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,193 articles have been extended.
+61,973 (93.6%) of 66,197 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-23 (Wednesday)
+
+### SL to ink MoU with South Korea’s Bosong to deploy seasonal agricultural workers on E-8 visa
+
+*2025-07-23 00:24:48* · [`dailyftlk`](https://www.ft.lk/news/SL-to-ink-MoU-with-South-Korea-s-Bosong-to-deploy-seasonal-agricultural-workers-on-E-8-visa/56-779350) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved the signing of a memorandum of understanding (MoU) between Sri Lanka and the Bosong Local Government in South Korea to send workers under the E-8 Visa category as seasonal employees.
+
+This decision follows earlier Cabinet approvals granted on 19 February and 1 July 2025 to implement a pilot program aimed at facilitating Sri Lankan employment in South Korea under this visa category.
+
+The E-8 Visa enables foreign workers to be temporarily employed in South Korean agricultural sectors.
+
+“Based on discussions with Korean local government institutions, the Bosong administration has agreed to recruit Sri Lankan employees to work in agricultural villages in the province,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said during the weekly post-Cabinet meeting media briefing yesterday.
+
+He said under the proposed MoU, Sri Lankan workers will be eligible for short-term employment of up to eight months.
+
+...
+
+[Data](articles/d16cf532.json)
+
+---
+
+### Parliament approves minimum wage hike for private sector and Budget relief amendments
+
+*2025-07-23 00:24:25* · [`dailyftlk`](https://www.ft.lk/news/Parliament-approves-minimum-wage-hike-for-private-sector-and-Budget-relief-amendments/56-779349) · `en`
+
+Parliament yesterday unanimously passed the Minimum Wages Bill, raising the minimum wage for private sector employees from Rs. 21,000 to Rs. 27,000 effective April 2025, with a further increase to Rs. 30,000 starting next year.
+
+The landmark wage increase was approved without a vote, signalling broad consensus across political parties on the need to address cost-of-living pressures faced by private sector workers.
+
+On 7 Cabinet of Ministers on Monday approved the revision of the national minimum monthly and daily wage structure for private sector employees
+
+In addition, Parliament approved amendments to the Budget Relief Bill No. 4 of 2016 and Budget Relief Bill No. 36 of 2005, each by a two-thirds majority. Both bills received 181 votes in favour, with no votes against, although over 40 MPs were absent at the time of voting.
+
+The Budget Relief Bill amendments are part of the Government’s broader fiscal reform agenda aimed at easing economic burdens and streamlining tax and welfare provisions.
+
+...
+
+[Data](articles/408e2040.json)
+
+---
+
+### Health Ministry calls for EoIs to source 2026 medical supplies from local manufacturers
+
+*2025-07-23 00:24:08* · [`dailyftlk`](https://www.ft.lk/news/Health-Ministry-calls-for-EoIs-to-source-2026-medical-supplies-from-local-manufacturers/56-779348) · `en`
+
+The Cabinet of Ministers on Monday approved calling for Expressions of Interest (EoIs) and technical proposals from local manufacturers for the supply of medicines and other medical equipment for 2026, continuing efforts to boost domestic pharmaceutical production.
+
+Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Health Minister Dr. Nalinda Jayatissa said the decision follows the appraisal of local manufacturers earlier this year, which led to the selection of 24 companies through a process overseen by a committee appointed by the Health Ministry Secretary.
+
+“These manufacturers were contracted to supply 130 essential medicines and medical supplies for 2025, with agreements due to expire on 31 December 2025,” he added. To ensure continuity in the local procurement program and to meet the country’s pharmaceutical needs in 2026, he said the Health Ministry will once again invite EoIs and technical proposals from eligible local suppliers.
+
+...
+
+[Data](articles/935f1b51.json)
+
+---
+
+### Cabinet approves coal procurement bid for Norochcholai power plant
+
+*2025-07-23 00:23:17* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-coal-procurement-bid-for-Norochcholai-power-plant/56-779347) · `en`
+
+The Cabinet of Ministers on Monday approved calling for bids for coal procurement for Norochcholai Lakvijaya Power Plant for upcoming season 2025/2026.
+
+Speaking at the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said bids for coal procurement will be called from the registered suppliers in the Lanka Charcoal Ltd., for the aforementioned time period.
+
+“The Ceylon Electricity Board has estimated that the coal requirement for the Norochcholai Lakvijaya Power Plant for the 2025/2026 season will be 2.32 million tons ±10% or 39 shipments,” he added.
+
+In response to queries on procurement process posed by journalists, Dr. Jayatissa assured that the procedure is transparent.
+
+However, he said if anyone who finds that the existing violates standard procedure, can challenge it to the procurement appeal committee or challenge it in the Court.
+
+◼️
+
+[Data](articles/076d13f5.json)
+
+---
 
 ### 2025-07-22 (Tuesday)
 
@@ -1723,67 +1801,5 @@ Accordingly, the creation of a secure cyberspace has been identified as an essen
 ...
 
 [Data](articles/93bc7493.json)
-
----
-
-### Sri Lankans to be sent to Korea under E–8 Visa program
-
-*2025-07-22 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110730/sri-lankans-to-be-sent-to-korea-under-e8-visa-program) · `en`
-
-The Cabinet of Ministers has granted approval to implement a pilot project to send Sri Lankans under the E–8 Visa category (seasonal employees) for employment in the Republic of Korea and to conduct discussions with local government institutions in South Korea to seek employment opportunities.
-
-Accordingly, following discussions held with the Boseong local government institution in Korea, an agreement has been reached to enter into a memorandum of understanding to recruit Sri Lankan seasonal workers.
-
-Under this proposed memorandum of understanding, Sri Lankans will receive the opportunity to work in the agricultural sector in the Boseong Province for a shorter period (a maximum of 8 months) under the seasonal employee programme, to earn an income as well as to contribute to the country’s foreign exchange earnings.
-
-...
-
-[Data](articles/bb3d05fb.json)
-
----
-
-### යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණය පිළිබඳ විවාදයක්
-
-*2025-07-22 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212514) · `si`
-
-යෝජිත නව අධ්‍යාපන ප්‍රතිස්කරණ පිළිබඳ සභාව කල් තැබීමේ විවාදය එළැඹෙන 24 වැනිදා විවාදයට ගැනීමට තීරණය වී තිබේ.
-
-පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේ ඒ අනුව එදිනට පැවැත්වීමට නියමිත ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත එදින විවාදයට නොගැනීමටද මෙහිදී තීරණය කළ බවය.
-
-ඒ අනුව එළැඹෙන 24 වැනිදා විවාදයට ගැනීමට නියමිතව තිබූ ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත ඉදිරි දිනකදී විවාදයට ගැනීමටත් මෙහිදී තීරණය වී තිබේ.
-
-◼️
-
-[Data](articles/95730212.json)
-
----
-
-### හිටපු ඇමති මනූෂගේ පෞද්ගලික ලේකම් අත්අඩංගුවට
-
-*2025-07-22 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212513) · `si`
-
-හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ පෞද්ගලික ලේකම් ශාන් යහම්පත් මහතා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/0983229e.json)
-
----
-
-### Sri Lanka seeks Nanson’s approval to secure FAO marine research after delays
-
-*2025-07-22 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-nansons-approval-to-secure-fao-marine-research-after-delays-232126/) · `en`
-
-ECONOMYNEXT –Sri Lankan authorities are in discussion with the officials of “Dr Fridtjof   of Nansen” (F. Nansen), a state-of-the-art research vessel, to extend its research time in the Indian Ocean after the island nation’s delay in approving the vessel to conduct Food and Agriculture Organization’s (FAO) marine research, government sources said.
-
-President Anura Kumara Dissanayake last month gave special approval for Nansen, a United Nation-flagged research vessel into the island nation’s water to conduct research from July 15-August 20 after repeated requests from the United Nations and FAO.
-
-However, FAO decided to cancel the marine research around Sri Lanka as it did not have the approval on time.
-
-The cancellation of the visit would incur direct losses of over $1 million to Sri Lanka through the FAO and likely to reduce the efficacy of upcoming programming financed by the Green Climate Fund which would heavily rely on the data generated by the F. Nansen,” a UN document has said.
-
-...
-
-[Data](articles/853b9706.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 11:08:34**
+As of **2025-07-22 11:22:43**
 
 ## Newspaper Stats
 
-*Scraped **66,036** Articles*
+*Scraped **66,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,339
-adaderanalk | 8,084
+adaderanalk | 8,086
 tamilmirrorlk | 9,486
-virakesarilk | 11,002
+virakesarilk | 11,005
 adaderanasinhalalk | 11,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,036 articles have been extended.
+61,973 (93.8%) of 66,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,9 +58,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 තද සුළං සහ රළු මුහුද පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් නිවේදනය කර තිබේ.
 
-◼️
+ඒ අනුව කල්පිටිය සිට මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශ සඳහා ඉදිරි පැය 24 දක්වා බලපැවැත්වේ.
+
+එම මුහුදු ප්‍රදේශවල සුළඟේ වේගය විසින් විට පැ.කි.මී 60 - 70 දක්වා ඉහළ යා හැකි අතර මුහුදු ප්‍රදේශ විටින් විට රළු හෝ ඉතා රළු විය හැකිය.
+
+පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3ත් අතර විය හැකිය.
+
+මේ හේතුවෙන් එම ප්‍රදේශ හරහා පොතුවිල් දක්වා වන මුහුදු ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාව පවතී.
+
+ඉදිරි පැය 24 සඳහා කල්පිටිය සිට මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ  හම්බන්තොට සිට පොතුවිල් දක්වා මුහුදු ප්‍රදේශවල යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම්දෙයි.
+
+එමෙන්ම කල්පිටිය සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා සහ කන්කසන්තුරය සිට මුලතිව් හරහා ත්‍රිකුණාමලය දක්වා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 50 දක්වා වැඩි වන අතර, එම මුහුදු ප්‍රදේශ තරමක් රළු වෙයි.
+
+...
 
 [Data](articles/55b5e6ef.json)
+
+---
+
+### அமானா தகாஃபுல் 2024 வருடாந்த விருதுகள் வழங்கும் நிகழ்வு
+
+*2025-07-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220597) · `ta`
+
+இலங்கையில் புரட்சிகர கம்யூனிஸ்ட் இயக்கத்தின் முன்னோடி தலைவர் என்று வர்ணிக்கப்பட்ட  காலஞ் சென்ற நாகலிங்கம் சண்முகதாசனின் ( சண் ) 105 வது பிறந்த தினத்தை  ( 2025 ஜூலை 3 ) முன்னிட்டு அவரின் பெயரில் இயங்கும் மார்க்சிய கற்கைகளுக்கான சண்முகதாசன் நிலையம்  ஜூலை 6 மாலை கொழும்பு தமிழ்ச்சங்கத்தின் சங்கரப்பிள்ளை மண்டபத்தில் நினைவுப் பேருரையையும் நூல் வெளியீட்டையும் ஏற்பாடு செய்திருந்தது.
+
+◼️
+
+[Data](articles/a9d86122.json)
+
+---
+
+### ‘Red’ warning for strong winds up to 70 kmph issued
+
+*2025-07-22 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110719/red-warning-for-strong-winds-up-to-70-kmph-issued) · `en`
+
+A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Kalpitiya to Kankesanthurai via Mannar and from Hambantota to Pottuvil.
+
+These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
+
+Wave heights (about 2.5 to 3.0 meters) may increase in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle, and Hambantota, according to the Meteorology Department.
+
+Therefore, there is a possibility of surges in nearshore sea areas from Puttalam to Pottuvil via Colombo, Galle, and Hambantota due to high sea waves.
+
+Naval and fishing communities are strongly advised not to venture into the sea areas from Kalpitiya to Kankesanthurai via Mannar and from Hambantota to Pottuvil for the next 24 hours, said the Met. Department.
+
+Naval and fishing communities are urged to stay updated with future forecasts issued by the Department of Meteorology.
+
+◼️
+
+[Data](articles/0f3f6a36.json)
 
 ---
 
@@ -77,6 +123,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5048af79.json)
+
+---
+
+### Ex-LTTE member arrested with T-56 firearm in Peliyagoda
+
+*2025-07-22 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110718/ex-ltte-member-arrested-with-t-56-firearm-in-peliyagoda) · `en`
+
+A 30-year-old individual has been arrested in Peliyagoda by the Kiribathgoda Police last evening (21), based on a tip-off.
+
+During the arrest, police recovered a T-56 firearm, a magazine containing 30 rounds of ammunition, and 5.56 grams of the drug known as ‘Ice’ (crystal methamphetamine) in the suspect’s possession.
+
+The suspect is a former member of the LTTE who was subsequently rehabilitated by the military, said Ada Derana reporter.
+
+The suspect, a resident of Jaffna, is believed by police to have brought the firearm with the intent to commit a crime.
+
+Further investigations are currently being conducted by the Kiribathgoda Police.
+
+◼️
+
+[Data](articles/7bf8a328.json)
 
 ---
 
@@ -133,6 +199,24 @@ STEMI எனப்படும் தீவிர மாரடைப்பால
 ◼️
 
 [Data](articles/95fd9e23.json)
+
+---
+
+### குருநாகலில் பாடசாலையிலிருந்து 30 பாம்புக் குட்டிகள் மீட்பு
+
+*2025-07-22 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220596) · `ta`
+
+குருநாகல் மாவட்டத்தில் போகமுவ மத்திய மகா வித்தியாலயத்தில், ஆரம்பப் பிரிவில் உள்ள வெளிப்புற வகுப்பறையில் இருந்து 30 பாம்புக்குட்டிகள், மூன்று பெரிய பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் மீட்கப்பட்டுள்ளன.
+
+குறித்த பகுதியில் பாம்புகள் தென்படுவதாக ஆசிரியர்கள் மற்றும் மாணவர்கள் புதிதாக நியமிக்கப்பட்ட அதிபருக்கு அறிவித்தனர்.
+
+இதனை தொடர்ந்து, கடந்த ஜூன் மாதம் 27 ஆம் திகதி அன்று கடமைகளைப் பொறுப்பேற்ற அதிபர் தலைமையில் சோதனை செய்யப்பட்டதில்  30 பாம்புக்குட்டிகள், மூன்று பெரிய பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் மீட்கப்பட்டுள்ளன.
+
+போகமுவ மத்திய மகா வித்தியாலயத்தில் தரம் 1 முதல் 13 வரை சுமார் 2,000 மாணவர்கள் கல்வி கற்று வருகின்றனர். அதில், 153 மாணவர்கள் ஆரம்ப பிரிவில் உள்ளனர்.
+
+◼️
+
+[Data](articles/291fa288.json)
 
 ---
 
@@ -244,11 +328,13 @@ STEMI எனப்படும் தீவிர மாரடைப்பால
 
 *2025-07-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110715/committee-of-inquiry-finds-igp-deshabandhu-tennakoon-guilty-of-all-allegations-recommends-his-removal-) · `en`
 
-The Committee of Inquiry appointed to investigate and report its findings on Inspector General of Police Deshabandhu Tennakoon in respect of acts of gross abuse of power has found him guilty of all allegations leveled against the IGP.
+The Committee of Inquiry appointed to investigate and report its findings on Inspector General of Police Deshabandhu Tennakoon in respect of acts of gross abuse of power, has found him guilty of all allegations leveled against the IGP.
 
-Speaker of House Dr. Jagath Wickramaratne confirmed that he has received the report of the committee which has recommended the removal of Deshabandhu Tennakoon from the post of IGP.
+At the commencement of today’s (22) Parliament proceedings, Speaker of House Dr. Jagath Wickramaratne confirmed that he has received the full report of the Committee of Inquiry which has recommended the removal of Deshabandhu Tennakoon from the post of IGP.
 
-The Committee of Inquiry was chaired by Supreme Court Judge P.P. Surasena and consisted of Justice W. M. N. P. Iddawala and E. W. M. Lalith Ekanayake, Chairman, National Police Commission (Ex-officio).
+The Speaker announcing the findings noted that the committee has unanimously found guilty of all charges brought against IGP Deshabandhu Tennakoon under section 8(2) of the Removal of Officers (Procedure) Act, No. 5 of 2002.
+
+Speaker Dr. Jagath Wickramaratne also noted that it is a historic occasion, since this is the first time in the constitutional process of Sri Lanka that a Committee of Inquiry of this nature has recommended the removal of an IGP from the post.
 
 ...
 
@@ -327,6 +413,24 @@ He attributes this trend to several factors, including an increase in female lif
 ...
 
 [Data](articles/bcd37010.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்தின் அதிகாரி கீதா கோபிநாத் பதவி விலகுகிறார் !
+
+*2025-07-22 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220593) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முதன்மை பிரதி முகாமைத்துவ பணிப்பாளர் கீதா கோபிநாத் பதவி விலகவுள்ளார்.
+
+கீதா கோபிநாத்  ஆகஸ்ட் மாத இறுதியில் தனது பதவியில் இருந்து விலகி அமெரிக்காவிலுள்ள ஹார்வார்ட் பல்கலைக்கழகத்திற்கு செல்லவுள்ளார்.
+
+அங்கு அவர் பொருளாதாரத் துறையில் ஆரம்ப கிரிகோரி மற்றும் அனியா காஃபி பொருளாதாரப் பேராசிரியராக பணி ஆற்றவுள்ளதாக சர்வதேச நாணய நிதியத்தின் (IMF) முகாமைத்துவ பணிப்பாளர் கிறிஸ்டலினா ஜோர்ஜிவா இன்று செவ்வாய்க்கிழமை (22) அறிவித்துள்ளார்.
+
+கீதா கோபிநாத்  2019 ஆம் ஆண்டு  ஜனவரி மாதம்  தலைமைப் பொருளாதார நிபுணராக சர்வதேச நாணய நிதியத்தில் இணைந்தார். ஜனவரி 2022 ஆம் ஆண்டு முதல் பிரதி முகாமைத்துவ பணிப்பாளராக பதவி உயர்வு பெற்றார்.
+
+◼️
+
+[Data](articles/1baf941a.json)
 
 ---
 
@@ -1729,97 +1833,5 @@ Instructions for children with special needs can also be found in the website.
 ◼️
 
 [Data](articles/63d5cd53.json)
-
----
-
-### රෝහිතගේ දියණියට සහ බෑණාට විදෙස් ගමන් තහනමක්
-
-*2025-07-21 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-දියණියට-සහ-බෑණාට-විදෙස්-ගමන්-තහනමක්/11-417430) · `si`
-
-හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන මහතා​ගේ දියණියට සහ බෑණාට මතුගම මහේස්ත්‍රාත් අධිකරණය විසින් විදෙස් ගමන් තහනමක් නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/34ae7759.json)
-
----
-
-### களுத்துறை, இரத்தினபுரி மாவட்டங்களில் கடும் காற்று : ஒருவர் உயிரிழப்பு, 33 பேர் பாதிப்பு
-
-*2025-07-21 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220564) · `ta`
-
-களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் சீரற்ற காற்றினால் ஏற்பட்ட விபத்துகளில் ஒருவர் உயிரிழந்ததுடன், 9 குடும்பங்களைச் சேர்ந்த 33 பேர் பாதிக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
-
-நிலையத்தின் அறிக்கையின்படி, பேருவளை பகுதியில் கடலில் காணாமல் போயிருந்த ஒருவர் சடலமாக கண்டுபிடிக்கப்பட்டுள்ளார்.
-
-மேலும், கடும் காற்றின் காரணமாக எட்டு வீடுகள் பகுதியளவிலும் ஒரு வீடு முற்றாகவும் சேதமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-அதிகாரிகள் தொடர்ச்சியாக நிலைமையை கண்காணித்து வருவதுடன், பாதிக்கப்பட்டவர்களுக்கு தேவையான நிவாரண உதவிகள் வழங்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/c2445283.json)
-
----
-
-### රෝහිතගේ දියණියට සහ බෑණාට විදෙස් ගමන් තහනමක්
-
-*2025-07-21 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212482) · `si`
-
-හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධනගේ දියණියට සහ බෑණාට මතුගම මහේස්ත්‍රාත් අධිකරණය විසින් විදෙස් ගමන් තහනමක් නිකුත් කර තිබේ.
-
-ව්‍යාජ දත්ත ඇතුළත්කොට ලියාපදිංචි කරන ලද ජීප් රථයක් සම්බන්ධයෙන් සමගි ජනබලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයා වන රසික විතාන මහතා පසුගියදා අත්අඩංගුවට ගැනුණි.
-
-අදාල ජීප් රථය සම්බන්ධයෙන් සිදුකළ පරීක්ෂා කිරීමේදී අනාවරණ වී ඇත්තේ එය නීතිවිරෝධී අයුරින් මෙරටට ගෙන්වා ව්‍යාජ දත්ත ඉදිරිපත් කර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවය.
-
-පොලිසිය සැක පළ කරන්නේ එම අනීතික ක්‍රියාව සඳහා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ යම් අයෙකුගේ සහාය ලැබී ඇති බවය.
-
-ජගත් විතාන මහතාට අයත් පෞද්ගලික සමාගමක නමින් දෙවන වරට ලියාපදිංචි කර ඇති මෙම ජීප් රථය ඔහුගේ ප්‍රත්‍රයා භාවිත කර ඇති බවද විමර්ශනවලදී අනාවරණ වී තිබේ.
-
-අත්අඩංගුවට ගත් රසික විතාන මහතාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී පවසා ඇත්තේ පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය වන රොෂෙල් මෙලනි අබේගුණවර්ධනගෙන් තමා අදාල ජීප් රථය මිලදී ගත් බවය.
-
-...
-
-[Data](articles/895cd45b.json)
-
----
-
-### Travel ban issued on MP Rohitha Abeygunawardena’s daughter and son-in-law
-
-*2025-07-21 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110698/travel-ban-issued-on-mp-rohitha-abeygunawardenas-daughter-and-son-in-law) · `en`
-
-A travel ban has been imposed on the daughter and the son-in-law of New Democratic Front (NDF) Member of Parliament Rohitha Abeygunawardena, based on a request made by the Walana Anti-Vice Unit today (21), Ada Derana reporter said.
-
-Accordingly, the order was issued by the Matugama Magistrate’s Court.
-
-The order was issued in relation to the discovery of an illegally assembled vehicle in Matugama.
-
-Meanwhile, yesterday, the son of Samagi Jana Balawegaya (SJB) Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit yesterday, was remanded.
-
-Rasika Withana was remanded until August 1 by the Matugama Magistrate.
-
-He was also arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
-
-Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
-
-...
-
-[Data](articles/886c0687.json)
-
----
-
-### ග්‍රෙගරි වැවේ බෝට්ටු පැදීම තාවකාලිකව නතර කරේ
-
-*2025-07-21 17:36:49* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෙගරි-වැවේ-බෝට්ටු-පැදීම-තාවකාලිකව-නතර-කරේ/11-417429) · `si`
-
-නුවරඑලිය ග්‍රෙගරි වැව අවට පවතින අධික සුළං සහ දැඩි අයහපත් කාළගුණය හමුවේ ආරක්ෂිත හේතුන් මත ඉකුත් සති අන්තයේ ග්‍රෙගරි වැවේ බෝට්ටු සහ හංස බෝට්ටු පැදිම (21) දින තෙක් තාවකාලිකව තහනම් කර තිබුණද, (21) දිනයේත් පවතින දැඩි අයහපත් කාළගුණය හමුවේ බෝට්ටු පැදීම  අත්හැර දැමීමට බෝට්ටු හිමිකරුවන් විසින් තීරණය කර ඇත.
-
-නුවරඑලිය දිස්ත්‍රික් ලේකම්වරියගේ සහ නුවරඑලිය මහ නගරසභාවේ උපදෙස් පරිදි මෙම තාවකාලික තහනම පනවා තිබුණි.
-
-පවතින දැඩි අයහපත් කාළගුණය හමුවේ නුවරඑලියට පැමිණෙන දෙස් විදෙස් සංචාරකයන්ගේ විශාල අඩුවක් පවත්න බවයි බොට්ටු හිමියන් කියා සිටින්නේ.
-
-◼️
-
-[Data](articles/299ea7f9.json)
 
 ---

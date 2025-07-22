@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 14:07:11**
+As of **2025-07-22 14:24:51**
 
 ## Newspaper Stats
 
-*Scraped **66,078** Articles*
+*Scraped **66,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,342
-adaderanalk | 8,092
+adaderanalk | 8,094
 tamilmirrorlk | 9,499
 virakesarilk | 11,011
-adaderanasinhalalk | 11,355
+adaderanasinhalalk | 11,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,078 articles have been extended.
+61,973 (93.8%) of 66,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණය පිළිබඳ විවාදයක්
+
+*2025-07-22 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212514) · `si`
+
+යෝජිත නව අධ්‍යාපන ප්‍රතිස්කරණ පිළිබඳ සභාව කල් තැබීමේ විවාදය එළැඹෙන 24 වැනිදා විවාදයට ගැනීමට තීරණය වී තිබේ.
+
+පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේ ඒ අනුව එදිනට පැවැත්වීමට නියමිත ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත එදින විවාදයට නොගැනීමටද මෙහිදී තීරණය කළ බවය.
+
+ඒ අනුව එළැඹෙන 24 වැනිදා විවාදයට ගැනීමට නියමිතව තිබූ ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත ඉදිරි දිනකදී විවාදයට ගැනීමටත් මෙහිදී තීරණය වී තිබේ.
+
+◼️
+
+[Data](articles/95730212.json)
+
+---
+
+### හිටපු ඇමති මනූෂගේ පෞද්ගලික ලේකම් අත්අඩංගුවට
+
+*2025-07-22 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212513) · `si`
+
+හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ පෞද්ගලික ලේකම් ශාන් යහම්පත් මහතා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0983229e.json)
+
+---
 
 ### ශ්‍රී ලාංකික සිසුන්ට හංගේරියාවේ Stipendium Hungaricum ශිෂ්‍යත්ව තවදුරටත්
 
@@ -154,6 +182,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Cabinet Spokesman confirms President’s nomination for next CJ
+
+*2025-07-22 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110727/cabinet-spokesman-confirms-presidents-nomination-for-next-cj) · `en`
+
+President Anura Kumara Dissanayake has nominated Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka, Cabinet Spokesman Minister Dr. Nalinda Jayatissa has confirmed.
+
+Speaking during the weekly Cabinet media briefing held at the Department of Government Information today (22), Minister Jayatissa said since Justice Preethi Padman Surasena one of the most senior justices in the Supreme Court, the President has nominated his name.
+
+Accordingly, the Constitutional Council will now consider the nomination of the President.
+
+The Constitutional Council is scheduled to convene tomorrow (23) under the leadership of Speaker of House Dr. Jagath Wickramaratne.
+
+During the meeting, attention will be drawn towards the recommendations of the President regarding the appointment of a new Chief Justice.
+
+Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
+
+◼️
+
+[Data](articles/b9847ecf.json)
+
+---
+
 ### பூச்சிகள் கலந்த உணவுகள் விற்பனை – கொள்ளுப்பிட்டி உணவக உரிமையாளருக்கு 75 ஆயிரம் ரூபா தண்டப்பணம்!
 
 *2025-07-22 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220606) · `ta`
@@ -219,6 +269,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/be62209a.json)
+
+---
+
+### “No need to arrest ex-CID Director Rohan Premaratne at this juncture”: Bribery Commission informs Court
+
+*2025-07-22 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110726/no-need-to-arrest-ex-cid-director-rohan-premaratne-at-this-juncture-bribery-commission-informs-court) · `en`
+
+Court was informed today (22) that there is no necessity at this time to arrest former Director of the Criminal Investigation Department retired Deputy Inspector General of Police (DIG) Rohan Premaratne, by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), in connection with on-going investigation.
+
+This was conveyed to the Colombo Magistrate’s Court by an official representing the Bribery Commission during the hearing of a bail application filed by Rohan Premaratne, requesting release on anticipatory bail in the event of an impending arrest.
+
+Accordingly, the Magistrate informed Premaratne’s attorney that the former DIG should appear before the Bribery Commission and provide a statement.
+
+The Bribery Commission also informed the Magistrate that CIABOC officials were not dispatched to the residence of retired DIG Rohan Premaratne, as reported by certain media outlets.
+
+...
+
+[Data](articles/a62f1aca.json)
 
 ---
 
@@ -1755,81 +1823,5 @@ Human nature is fundamentally shaped by connections emotional, social, and envir
 ...
 
 [Data](articles/7cb05a7f.json)
-
----
-
-### 2025-07-21 (Monday)
-
-### In the spotlight … at Mount Lavinia
-
-*2025-07-21 23:09:00* · [`islandlk`](http://island.lk/in-the-spotlight-at-mount-lavinia/) · `en`
-
-The N-CHORD duo, performing at the Loon Tao beach restaurant, Mount Lavinia, has been around for almost a decade, says leader Sajith Nithin.
-
-With Pushpa Dias on keyboards, they came into the scene performing at Radisson Colombo and then moved to Mercure, in the Maldives.
-
-According to Sajith, they play all your favourite hits … from pop, rock, reggae, retro, to Sinhala songs, etc.
-
-And, says Sajith, you will also see N-CHORD in action at your favourite night spots, in Colombo.
-
-Referring to Loon Tao, he says come over and take in the scene, “under the open sky, and let the live tunes carry you away”.
-
-At this particular beach restaurant, in Mount Lavinia, N-CHORD perform on Saturday and Sunday nights, from 7.00 pm onwards..
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/2d5edcd4.json)
-
----
-
-### SIMPSONS …doing it differently
-
-*2025-07-21 23:08:00* · [`islandlk`](http://island.lk/simpsons-doing-it-differently/) · `en`
-
-Whenever the name ‘The Simpsons’ crop up, I’m reminded of the American animated sitcom TV series which was very popular in our scene, as well.
-
-Believe me, we have now got the Simpsons in our midst … no, not the cartoon series but real live action in the form of Simpsons, the band.
-
-Originally, the setup comprised Dileepa Liyanage (keyboardist, producer, and music director), Ryo Hera (lead vocalist and acoustic guitarist), and Buddhima Chalanu (lead vocalist, bassist, and composer), and later came Chiranaka Dulmeth (drummer), and Ranga (lead guitarist, traditional dancer, and actor), making it a five-piece outfit.
-
-“We generally do the trio scene but switch to five-piece, depending on the occasion”, says Dileepa, also known as Lee (Online), a celebrated composer in Sri Lanka and Qatar, with notable credits, including music production for FIFA Qatar.
-
-“We want our audience to feel deeply — to be moved, healed, and hyped, all in one performance.”
-
-...
-
-[Data](articles/116858cc.json)
-
----
-
-### VFS Global and NCPC launch youth skilling programme to boost Sri Lanka’s tourism talent
-
-*2025-07-21 23:00:00* · [`islandlk`](http://island.lk/vfs-global-and-ncpc-launch-youth-skilling-programme-to-boost-sri-lankas-tourism-talent/) · `en`
-
-VFS Global, a global leader in trusted technology services, has launched the Tourism Skilling Programme in association with NCPC Sri Lanka and the ASSIST Development Foundation. The initiative aims to empower local youth with industry-relevant skills to support the country’s fast-growing tourism sector.
-
-The programme was inaugurated on 14 July in Galle, in the presence of K A N Pramodini, Deputy Director, Galle Municipal Corporation; Nihaal D’silva, Assistant Director, Centre for Environmental Authority and Upali Rathnayaka, Deputy Director General, Sri Lanka Tourism Authority.
-
-Sri Lanka’s tourism sector is experiencing a strong growth with the tourist arrivals for the first six months of 2025 recording over 1.16 million which represents a 15.6 per cent increase compared to the same period last year. This encouraging momentum highlights the country’s growing appeal on the global stage. As visitor numbers rise, so does the need for a skilled workforce to deliver world-class experiences.
-
-...
-
-[Data](articles/8f9ff396.json)
-
----
-
-### SLIIT among world’s Top 20 architecture schools – ranked No. 1 in Sri Lanka
-
-*2025-07-21 22:59:00* · [`islandlk`](http://island.lk/sliit-among-worlds-top-20-architecture-schools-ranked-no-1-in-sri-lanka/) · `en`
-
-The Sri Lanka Institute of Information Technology (SLIIT) has marked a proud and historic moment by being ranked among the Top 20 Architecture Schools in the world and securing the No. 1 position in Sri Lanka in the latest INSPIRELI World Architecture University Ranking. This global recognition is based on student performance in the INSPIRELI Awards, the world’s largest architecture and design competition for students and young architects. In the 2023–2024 cycle, SLIIT climbed to the 17th position globally out of more than 1,360 participating universities, demonstrating a significant leap from its 22nd position the previous year. It also proudly ranks among the Top 2 Architecture Schools in Asia, reinforcing its status as a regional leader in architectural education.
-
-...
-
-[Data](articles/92f82bb2.json)
 
 ---

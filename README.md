@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 17:05:31**
+As of **2025-07-22 17:17:32**
 
 ## Newspaper Stats
 
-*Scraped **66,129** Articles*
+*Scraped **66,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,346
 adaderanalk | 8,105
-tamilmirrorlk | 9,506
+tamilmirrorlk | 9,508
 virakesarilk | 11,018
 adaderanasinhalalk | 11,367
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,129 articles have been extended.
+61,973 (93.7%) of 66,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,7 +46,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ඉනාමළුව රක්ෂිතයේ තිබී ඇතෙකුගේ සහ අලි දෙදෙනෙකුගේ සිරුරු හමුවෙයි
+### குரங்குகள் அட்டகாசம்: கடித்து குதறியதில் 6 பெண்கள் படுகாயம்
+
+*2025-07-22 16:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகள்-அட்டகாசம்-கடித்து-குதறியதில்-6-பெண்கள்-படுகாயம்/175-361539) · `ta`
+
+மட்டக்களப்பு வந்தாறுமூலை பிரதேச குடிமனை பகுதிக்குள் உள்நுழைந்த குரங்கு கூட்டம்  பெண்கள் மீது  கடித்ததில்  இதுவரை 6 பேர் படுகாய மடைந்துள்ளதுடன் குரங்குகளின் அட்டகாசத்தினால் அப்பகுதியில் உள்ள வீடுகளின் கூரை ஓடுகள் மற்றும் பயிர்களை அழித்து சேதமாக்கி வருவதுடன் மக்கள் வீட்டை விட்டு வெளியே செல்ல முடியாது  பீதியில் அச்சத்துடன் இருப்பதாக மக்கள் கடும் விஷம் தெரிவிக்கின்றனர்
+
+வந்தாறுமூலை பேக் வீதியில்   வீட்டை விட்டு வெளியில் வந்த வயதான பெண் ஒருவர் மீது குரங்கு கடித்ததை அடுத்து அவர் படுகாயமடைந்துள்ளார் அவரின் காலில் பாரிய தசைபகுதி இல்லாமல் போயுள்ள நிலையில் மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+இவ்வாறு கடந்த ஒரு வாரத்தில் இதுவரை குரங்கு கடிக்கு 6 பேர் உள்ளாகி படுகாயமடைந்துள்ளனர் இவர்கள் அனைவரும் பெண்கள் இருந்தபோதும் கடந்த சில வாரங்களாக குடிமனை பகுதிக்குள்  உள்நுழைந்த குரங்கு கூட்டம் வீட்டின் கூரைகளை உடைத்து சேதமாக்கி வருவதுடன் மாமரம் பலா மரம் போன்ற பயன் தரும் மரங்களின் பழங்கள் காய்களை பிடுங்கி அழித்து வருகிறது
+
+...
+
+[Data](articles/fe4ac0d6.json)
+
+---
+
+### புலி தகவலால்: 86 குண்டுகள், போதைப்பொருட்கள் மீட்பு
+
+*2025-07-22 16:53:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தகவலால்-86-குண்டுகள்-போதைப்பொருட்கள்-மீட்பு/175-361538) · `ta`
+
+தமிழீழ விடுதலைப் புலிகள் அமைப்பின் முன்னாள் போராளி ஒருவர் வழங்கிய தகவலை அடுத்து, வவுனியாவில் 86 கைக்குண்டுகள்,    ரி56 ரக துப்பாக்கிக்கான ரவைகள், கைத்துப்பாக்கிக்கான மூன்று ரவைகள், 5,600 போதை மாத்திரைகள், 10 கிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளதுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+திங்கட்கிழமை (21) அன்று கொழும்பில் துப்பாக்கியுடன் கைது செய்யப்பட்ட முன்னாள் விடுதலைப்புலி போராளி வழங்கிய தகவலின் அடிப்படையில் கொழும்பிலிருந்து வருகைதந்த புலனாய்வுத்துறை அதிகாரிகளோடு வவுனியா மாவட்ட குற்றத்தடுப்பு விசாரணை பிரிவு பொலிசாரும் இணைந்து செட்டிகுளம் துட்டுவாகை மற்றும் நேரியகுளம் பகுதிகளில் உள்ள இரு வீடுகளில் சோதனையை மேற்கொண்டனர்.
+
+இதன்போது நேரியகுளத்தில் வீடு ஒன்றின் அருகாமையில் பிளாஸ்டிக் பரல் ஒன்றினுள் 86 கைக்குண்டுகள் ரி56 ரக துப்பாக்கிக்கான ரவைகள், கைத்துப்பாக்கிக்கான மூன்று ரவைகள், 5600 போதை மாத்திரைகள், 10 கிராம் ஐஸ் போதைப்பொருள் என்பன நிலத்தின் கீழ் பதுக்கி வைக்கப்பட்டிருந்த நிலையில் மீட்கப்பட்டன.
+
+...
+
+[Data](articles/a3c713ac.json)
+
+---
+
+### ඉනාමළුව රක්ෂිතයේ තිබී සද්ධන්තයින් තිදෙනෙකුගේ සිරුරු කොටස් හමුවෙයි
 
 *2025-07-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212523) · `si`
 
@@ -1737,43 +1769,5 @@ The committee comprised justices Padman Surasena and Neil Iddawela, and National
 ...
 
 [Data](articles/2962dea9.json)
-
----
-
-### Committee of Inquiry finds IGP Deshabandhu Tennakoon guilty of all allegations, recommends his removal
-
-*2025-07-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110715/committee-of-inquiry-finds-igp-deshabandhu-tennakoon-guilty-of-all-allegations-recommends-his-removal-) · `en`
-
-The Committee of Inquiry appointed to investigate and report its findings on Inspector General of Police Deshabandhu Tennakoon in respect of acts of gross abuse of power, has found him guilty of all allegations leveled against the IGP.
-
-At the commencement of today’s (22) Parliament proceedings, Speaker of House Dr. Jagath Wickramaratne confirmed that he has received the full report of the Committee of Inquiry which has recommended the removal of Deshabandhu Tennakoon from the post of IGP.
-
-The Speaker announcing the findings noted that the committee has unanimously found guilty of all charges brought against IGP Deshabandhu Tennakoon under section 8(2) of the Removal of Officers (Procedure) Act, No. 5 of 2002.
-
-Speaker Dr. Jagath Wickramaratne also noted that it is a historic occasion, since this is the first time in the constitutional process of Sri Lanka that a Committee of Inquiry of this nature has recommended the removal of an IGP from the post.
-
-...
-
-[Data](articles/3e28a92d.json)
-
----
-
-### ගාල්ලට බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයක්
-
-*2025-07-22 09:33:25* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලට-බහුවිධ-ප්‍රවාහන-මධ්‍යස්ථානයක්/11-417437) · `si`
-
-ගාල්ල දෙවට ප්‍රදේශයේ  බහුවිධ ප්‍රවාහන සේවා මධ්‍යස්ථානයක් ඉදිකිරීම පිළිබඳ යෝජනාවක් ප්‍රවාහන ,මහා මාර්ග ,වරාය හා සිවිල් ගුවන් සේවා අමාත්‍යාංශයේ විශේෂ ව්‍යාපෘතියක් වශයෙන් පසුගිය සම්බන්ධීකරණ කමිටුවට යෝජනාවක් ලෙස ඉදිරිපත් කෙරිණී.
-
-මෙහිදී අදහස් දක්වමින් සම්බන්ධීකරණ  කමිටු ගරු සභාපති නලින් හේවගේ මහතා පැවසුවේ මේ පිළිබඳ සැලසුම් සකස් කර බලයලත් ආයතන වෙත ඉදිරිපත් කරන ලෙසයි.
-
-යෝජිත බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය මගීන්ගේ පොදු ප්‍රවාහන අවශ්‍යතාවය වෙනුවෙන් ආරක්ෂිත ,වේගවත් ,සුවපහසු සහ පරිසර හිතකාමී අයුරින්  ඉදි කෙරේ.
-
-මෙහිදී සැපයෙන සේවාවන් අතර  අන්තර් පළාත් පළාත් දුම්රිය සේවා ,අවසන් ගමනාන්ත සේවා,park & ride,waiting area, ප්‍රවාහන තොරතුරු, ආරක්ෂාව, offload parking , සනීපාරක්ෂාව, ආපනශාලා, බැංකු ඇතුළු  සේවා පද්ධතියක්   වශයෙන් ඉදි කිරීමට  යෝජිතය .
-
-ගාල්ලට අමතරව රාගම ,ගම්පහ ,කුරුණෑගල  ,කොළඹ  කොටුව ,දඹුල්ල ,අවිස්සාවේල්ල  හා මොරටුව යන ප්‍රදේශවල මෙබදු  බහුවිධ ප්‍රවාහන මධ්‍යාස්ථාන   ඉදිකිරීමට මෙහිදී   සැලසුම් කර ඇත.
-
-...
-
-[Data](articles/8c4d8943.json)
 
 ---

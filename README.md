@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 15:23:23**
+As of **2025-07-22 15:33:56**
 
 ## Newspaper Stats
 
-*Scraped **66,104** Articles*
+*Scraped **66,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,109 @@ dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,342
 adaderanalk | 8,101
-tamilmirrorlk | 9,501
-virakesarilk | 11,013
-adaderanasinhalalk | 11,360
+tamilmirrorlk | 9,504
+virakesarilk | 11,015
+adaderanasinhalalk | 11,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,104 articles have been extended.
+61,973 (93.7%) of 66,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### ’’அப்புறம் எனக்கு பசிக்கும்ல’’ (வீடியோ)
+
+*2025-07-22 15:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அப்புறம்-எனக்கு-பசிக்கும்ல-வீடியோ/175-361534) · `ta`
+
+கரும்பு லாரியை பார்த்த காட்டு யானை, லாரியை பின்தொடர்ந்து சென்ற வீடியோ காட்சி வைரலாகி வருகிறது.ஆசனூர் தேசிய நெடுஞ்சாலையிலேயே இடம்பெற்றுள்ளது.
+
+சத்தியமங்கலம் புலிகள் காப்பகம் வழியாக, தமிழக - கர்நாடக மாநிலங்களை இணைக்கும் தேசிய நெடுஞ்சாலை உள்ளது. இந்த நெடுஞ்சாலையை ஒட்டிய வனப்பகுயில் உள்ள வனவிலங்குகள் அவ்வப்போது சாலையில் உலா வருவது வழக்கம். இதனால், வாகன ஓட்டிகள் பாதுகாப்பாக செல்லுமாறு வனத்துறையினர் அறிவுறுத்தி வருகின்றனர்.
+
+இவ்வழியாக தினந்தோறும் ஏராளமான லாரிகள் கரும்பு ஏற்றிக்கொண்டு சர்க்கரை ஆலைக்கு செல்வது வழக்கம். அவ்வாறு செல்லும் வாகங்களை யானைகள் வழிமறித்து கரும்பை சுவைக்கும் சம்பவங்களும் அடிக்கடி நடைபெறும். அந்த வகையில் நேற்று (ஜூலை 20) ஆசனூர் நெடுஞ்சாலையில் சென்ற கரும்பு லாரியை பார்த்த ஒற்றை காட்டு யானை, லாரியை பின்தொடர்ந்து சென்று கரும்பை ருசி பார்த்தது. இதனால், வாகன ஓட்டிகள் யானைக்கு பின்னால் மெதுவாக சென்றனர்.
+
+...
+
+[Data](articles/511f949f.json)
+
+---
+
+### රුසියාව සහ යුක්‍රේනය නව සාම සාකච්ඡාවකට සූදානම් බව සෙලෙන්ස්කි කියයි
+
+*2025-07-22 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212518) · `si`
+
+යුක්‍රේනය සහ රුසියාව අතර එළැඹෙන බදාදා ඉස්තාන්බුල්හිදී නව සාම සාකච්ඡා වටයක් පැවැත්වීමට නියමිත බව යුක්‍රේන ජනාධිපති ‍වොලොඩිමියර් සෙලෙන්ස්කි පවසා තිබේ.
+
+යුක්‍රේන ජනාධිපතිවරයා සඳහන් කර ඇත්තේ තමන් ආරක්ෂක කවුන්සිලයේ ප්‍රධානීවරයා සමග සිරකරුවන් හුවමාරුවක් සඳහා වන සූදානම සහ රුසියානු පාර්ශ්වය සමග තුර්කියේදී තවත් රැස්වීමක් පිළිබඳව සාකච්ඡා කළ බවය.
+
+කෙසේ නමුත් ඉස්තාන්බුල්හි පැවැත්වීමට සැලසුම් කර ඇති සාම සාකච්ඡා පිළිබඳව රුසියාව මෙතෙක් නිල වශයෙන් අදහස් දක්වා නොමැති නමුත් තුර්කිය පවසා ඇත්තේ එළැඹෙන බදාදා දින රුසියාව සහ යුක්‍රේනය අතර සාම සාකච්ඡා පැවැත්වීමට සැලසුම් කර ඇති බවය.
+
+මේ අතර විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ඉස්තාන්බුල් හී පැවැත්වීමට නියමිත මෙම සාකච්ඡාවේදී තවදුරටත් සිරකරුවන් හුවමාරු කර ගැනීම සහ සෙලෙන්ස්කි සහ පුටින් අතර හමුවක් ද සිදුවිය හැකි බවත්ය.
+
+දෙරට අතර පවතින යුද ගැටුම් සම්බන්ධව අමෙරිකානු ජනාධිපතිවරයා පසුගියදා පැවසුවේ දින 50ක් ඇතුළත රුසියාව සහ යුක්‍රේනය අතර සටන් විරාමයක් නොමැති නම් එක්සත් ජනපදය විසින් රුසියාවට දැඩි සම්බාධක පනවන බවය.
+
+...
+
+[Data](articles/a10d6fc8.json)
+
+---
+
+### ராமேஸ்வரம் மீனவர்கள் 4 பேர் கைது
+
+*2025-07-22 15:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமேஸ்வரம்-மீனவர்கள்-4-பேர்-கைது/175-361532) · `ta`
+
+ராமேஸ்வரத்தை சேர்ந்த 4 மீனவர்கள் விசைப்படகில் மீன் பிடித்துக்கொண்டிருந்த போது, அங்கு வந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன் பிடித்தாகக் கூறி அவர்களை கைது செய்தனர்.
+
+எல்லை தாண்டி மீன்பிடிப்பதாக கூறி, தமிழக மீனவர்களை இலங்கை கடற்படையினர் சுட்டுக்கொல்வதும், கைது செய்யப்பட்டு சிறை வைக்கப்படும் சம்பவங்களும் தொடர் கதையாகி வருகின்றன. தமிழக அரசின் அழுத்தம் காரணமாக, தமிழக மீனவர்கள் சுட்டுக்கொல்லப்படும் சம்பவங்கள் சற்று குறைந்திருந்தாலும், கைது நடவடிக்கை அடிக்கடி நடைபெறுகிறது. மேலும், மீனவர்களின் படகுகளும் பறிமுதல் செய்யப்பட்டு, அதை நாட்டுடைமையாக்கும் வேலைகளையும் இலங்கை அரசு செய்து வருகிறது. மேலும், மீனவர்களுக்கு லட்சக்கணக்கில் அபராதமும் விதிக்கப்பட்டு வருகிறது.
+
+கடந்த வாரம் கூட, தமிழக மீனவர்கள் 5 பேரை இலங்கை கடற்படையினர் கைது செய்தனர். இந்த நிலையில், இன்று காலை ராமேஸ்வரத்தை சேர்ந்த 4 மீனவர்கள் விசைப்படகில் நடுக்கடலில் மீன் பிடித்துக்கொண்டிருந்த போது, அங்கு வந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன் பிடித்தாக கூறி கைது செய்தனர்.
+
+...
+
+[Data](articles/4f09e5ca.json)
+
+---
+
+### பெண்ணால் நடுவீதியில் கரணமடித்த வேன்
+
+*2025-07-22 15:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணால்-நடுவீதியில்-கரணமடித்த-வேன்/175-361531) · `ta`
+
+வேகமாக பயணித்துக்கொண்டிருந்த வேன், நடுவீதியில் கரணமடித்து விபத்துக்கு உள்ளான சம்பவம், செவ்வாய்க்கிழமை (22) காலை இடம்பெற்றுள்ளது.
+
+வெல்லவாய நோக்கிச் சென்ற வேன்,  எல்லா-வெல்லாவய வீதியின் 02வது மைல்கல்லுக்கு அருகே கவிழ்ந்து விபத்துக்குள்ளானது.
+
+எல்லாவிலிருந்து வெல்லவாய நோக்கி வேன் பயணித்துக்கொண்டிருந்த  போது,  பெண்ணொருவர் ஓட்டிச் சென்ற முச்சக்கர வண்டி வீதியின் குறுக்கே சென்றது, அதே நேரத்தில், வேன் வேகத்தைக் குறைக்க பிரேக் போட்டு கவிழ்ந்தது.
+
+விபத்து நடந்த நேரத்தில் வேனில் மூன்று இளைஞர்கள் இருந்தனர், அவர்களுக்கு எந்த காயமும் ஏற்படவில்லை. வேன் மட்டும் சேதமடைந்துள்ளது என தெரிவித்த வெல்லவாய பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றது.
+
+◼️
+
+[Data](articles/86b814f5.json)
+
+---
+
+### காயங்களால் ஆண்டுதோறும் 12,000 பேர் உயிரிழப்பு!
+
+*2025-07-22 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220615) · `ta`
+
+காயங்கள் காரணமாக ஆண்டுதோறும் ஒரு மில்லியனுக்கும் அதிகமானோர் வைத்தியசாலையில் அனுமதிக்கப்படுவதாகவும் சுகாதார அமைச்சகம் தெரிவித்துள்ளது.
+
+சுகாதார நிபுணர்களின் கூற்றுப்படி, இவ்வாறான காயங்கள் பெரும்பாலும் முறையான பாதுகாப்பு நடவடிக்கைகள் மற்றும் சரியாக செயற்படுவதன் மூலம் தவிர்க்கக்கூடியவை.
+
+குறிப்பாக, காயங்கள் ஏற்பட்டதும் உடனடியாக அடிப்படை முதலுதவி அளிப்பது மனித உயிர்களை காப்பாற்றுவதிலும் சிக்கல்களை குறைப்பதிலும் முக்கிய பங்கு வகிக்கிறது.
+
+மேலும், இது தொடர்பில் விழிப்புணர்வை ஏற்படுத்துவதில் ஊடகத் துறையினரும் முக்கிய பங்கை வகிக்க வேண்டும் என அமைச்சகம் வலியுறுத்தியுள்ளது.
+
+விபத்துகளின் மூலக் காரணங்களைப் பற்றியும், முதலுதவியின் அவசியத்தை பற்றியும் மக்களிடையே எடுத்துரைப்பது பாதுகாப்பான சமுதாயத்திற்கான கட்டமைப்பை உருவாக்க உதவும் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c59324e1.json)
+
+---
 
 ### උසස් ජාතික ඩිප්ලෝමා දෙකකට NVQ6 සහතිකය පිරිනැමීමට අනුමැතිය
 
@@ -59,6 +149,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e0201390.json)
+
+---
+
+### உள்நாட்டு யுத்தத்தின் இறுதி பகுதியில் சரணடைந்தவர்களின் பெயர் விபரங்களை இலங்கையின் காணாமல்போனோர் அலுவலகம் பெற்று வெளியிடுவதை உறுதிப்படுத்துங்கள் - ஐநா அமைப்பிற்கு சர்வதேச மன்னிப்புச்சபை பரிந்துரை
+
+*2025-07-22 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220633) · `ta`
+
+இலங்கையின் உள்நாட்டு மோதலின் முடிவில் சரணடைந்தவர்களின் பெயர் விபரங்களை பெற்று வெளியிடுவதன் மூலம் காணாமல்போனோர் அலுவலகம் காணாமல்போனோரை தேடுவதற்கான அதன் ஆணையை நிறைவேற்றுவதில் குறிப்பிடதக்க முன்னேற்றத்தை காண்பிக்கவேண்டும் என சர்வதேச மன்னிப்புச்சபை தெரிவித்துள்ளது.
+
+பலவந்தமாக காணாமலாக்கப்பட்டவர்கள் தொடர்பில் ஐக்கியநாடுகள் குழுவிற்கு சமர்ப்பித்துள்ள 22 பக்க அறிக்கையில் சர்வதேச மன்னிப்புச்சபை இதனை தெரிவித்துள்ளது.
+
+ஐக்கிய நாடுகளின் பலவந்தமாக காணாமல்போனோர் தொடர்பான குழுவின் 29 வது அமர்வு செப்டம்பர் 22 முதல் ஒக்டோபர் 3ம் திகதி வரை நடைபெறவுள்ள நிலையிலேயே  சர்வதேச மன்னிப்புச்சபைதனது அறிக்கையை சமர்ப்பித்துள்ளது.
+
+இந்த அமர்வில் ஐநாவின் குழு பலவந்தமாக காணாமல்போதலில் இருந்து அனைத்து நபர்களையும் பாதுகாப்பது தொடர்பான சர்வதேச உடன்படிக்கையின் இன் கீழ் இலங்கை தனது கடப்பாடுகளை எவ்வாறு நிறைவேற்றியுள்து என்பது குறித்து ஆராயவுள்ளது.
+
+இலங்கை இந்த உடன்படிக்கையை நடைமுறைப்படுத்துவது தொடர்பில் பல பரிந்துரைகளையும் அவதானிப்புகளையும் சர்வதேச மன்னிப்புச்சபை22  பக்க அறிக்கை முன்வைக்கின்றது.
+
+...
+
+[Data](articles/4d698a68.json)
 
 ---
 
@@ -104,7 +214,11 @@ He said that the Cabinet of Ministers has also granted approval to the proposal 
 
 *2025-07-22 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212515) · `si`
 
-ඒ හේතුවෙන් කොළඹ දෙසට වාහන ගමන්ගන්නා මංතීරුවේ දැඩි රථවාහන තදබදයක් හටගෙන ඇති බවද වාර්තා වෙයි.
+ගින්න මැඩ පැවැත්වීම සඳහා ගම්පහ ගිනි නිවීමේ ඒකකයේ රථ 02ක් යොමු කර ඇති අතර මේ වන විට ගින්න මැඩ පැවැත්වීමට කටයුතු කර ඇත.
+
+ඇති වූ ගින්න හේතුවෙන් කොළඹ දෙසට වාහන ගමන් ගන්නා මංතීරුවේ දැඩි රථ රථවාහන තදබදයක් හටගෙන ඇති බවද වාර්තා වෙයි.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර සිද්ධිය පිළිබඳව වැඩිදුර විමර්ශන සිදුකරති.
 
 ◼️
 
@@ -1687,125 +1801,5 @@ With the planned Export Processing Zones (EPZs), designated lands for tourism, a
 ◼️
 
 [Data](articles/97cb56d1.json)
-
----
-
-### UK and 27 other nations condemn Israel over ‘inhumane killing’ of Gaza civilians seeking aid
-
-*2025-07-22 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110710/uk-and-27-other-nations-condemn-israel-over-inhumane-killing-of-gaza-civilians-seeking-aid) · `en`
-
-The UK and 27 other countries have called for an immediate end to the war in Gaza, where they say the suffering of civilians has “reached new depths”.
-
-A joint statement says Israel’s aid delivery model is dangerous and condemns what it calls the “drip feeding of aid and the inhumane killing of civilians” seeking food and water.
-
-Gaza’s Hamas-run health ministry said more than 100 Palestinians were killed by Israeli fire while waiting for food over the weekend and that 19 others died as a result of malnutrition.
-
-Israel’s foreign ministry rejected the countries’ statement, saying it was “disconnected from reality and sends the wrong message to Hamas”.
-
-The ministry accused the armed group of spreading lies and undermining aid distribution, rather than agreeing to a new ceasefire and hostage release deal.
-
-There have been many international statements condemning Israel’s tactics in Gaza during the past 21 months of its war with Hamas. But this declaration is notable for its candour.
-
-...
-
-[Data](articles/98da3715.json)
-
----
-
-### The Law’s Delays – Ruffled Feathers & Frustrated Litigants
-
-*2025-07-22 07:15:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-laws-delays-ruffled-feathers-frustrated-litigants/) · `en`
-
-As one example, a man found guilty of murder happening in the latter part of 1999, was sentenced sometime in early 2025. Far be it for a mere layman as myself, to venture into fields that must have already been well trodden by vastly better qualified professionals.
-
-“Justice delayed is justice denied,” is an oft quoted legal maxim, credited to William Gladstone, Prime Minister of England in the late 1800’s.
-
-This is of the greatest relevance to us. Among all the extreme realities that confront us today, the nearly sole consolation is that there is a robust and reliable relief, offered by a fearless judiciary.
-
-...
-
-[Data](articles/cfa9e261.json)
-
----
-
-### CC to consider recommendations for new Chief Justice
-
-*2025-07-22 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110709/cc-to-consider-recommendations-for-new-chief-justice) · `en`
-
-The Constitutional Council will convene under the leadership of Speaker of House Dr. Jagath Wickramaratne.
-
-During the meeting, attention will be drawn towards the recommendations of the President regarding the appointment of a new Chief Justice.
-
-Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
-
-During today’s sitting, three bills will be taken up for second reading.
-
-Accordingly, the second reading of the Budgetary Relief Allowance of Workers (Amendment) Bill and the National Minimum Wage of Workers (Amendment) Bill are scheduled to take place.
-
-◼️
-
-[Data](articles/99247575.json)
-
----
-
-### ත්‍රිවිල් කොල්ලකෑ සැකකරුවන් පිරිසක් අත්අඩංගුවට
-
-*2025-07-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212495) · `si`
-
-ත්‍රිරෝද රථ කොල්ලකෑම් රැසකට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු හා සැකකාරියක් ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (21) කහතුඩුව පොලිස් වසමේ පොල්ගස්ඕවිට ප්‍රදේශයේදී ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීමක් සිදුකර හෙරොයින් ග්‍රෑම් 06 මිලිග්‍රෑම් 700 ක් හා හෙරොයින් ග්‍රෑම් 05 මිලිග්‍රෑම් 300ක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබුණි.
-
-සැකකරුවන් සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශනයේදී මොවුන් කුලී ගමන් යන මුවාවෙන් ත්‍රිරෝද රථවල ගමන්කර රියදුරන්ගේ මුහුණුවලට මිරිස්කුඩු ගසා එම ත්‍රිරෝද රථ කොල්ලකෑම් සිදුකර ඇති බව අනාවරණය වී ඇති අතර එක් සැකකරුවෙකුගේ බිරිඳක්ද මෙම කොල්ලකෑම් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරුවන් වයස අවුරුදු 24, 27 ක් වූ කලවාන හා කහතුඩුව ප්‍රදේශවල පදිංචිකරුවන් වන අතර සැකකාරිය වයස අවුරුදු 29ක් වූ කහතුඩුව ප්‍රදේශයේ පදිංචිකාරියකි.
-
-මොවුන් විසින් කහතුඩුව, බොරලැස්ගමුව හා මොරගහහේන පොලිස් වසම්වලදී මෙලෙස ත්‍රිරෝද රථ කොල්ලකා ඇති අතර කොල්ලකන ලද ත්‍රීරෝද රථ 04ක් ද නිලධාරීන් විසින් සොයාගෙන ඇත.
-
-◼️
-
-[Data](articles/e1042042.json)
-
----
-
-### Sri Lanka to have another round of Trump tariff talks with US after progress
-
-*2025-07-22 07:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-another-round-of-trump-tariff-talks-with-us-after-progress-231996/) · `en`
-
-ECONOMYNEXT – Sri Lanka will have another round of tariff talks this week, after one round of discussions, to reduce a Trump tariff of 30 percent,  official sources said before a deadline of August 01, as other South Asian nations also try to do the same.
-
-Progress was made in a first round of discussions after the Trump tariff letter, sources said, and another round is expected be held this week.
-
-Sri Lanka exports apparel, rubber products, tea among others to the US.
-
-Bangladesh which was hit with a 35 percent tariff letter has also requested a time slot to discuss its latest offer and will send its ‘final position paper’ to the US later this week, the country’s The Business Standard newspaper reported.
-
-The food ministry has approved plans to import more wheat, soybeans, oilseeds, pulses, sugar, and barley from the US.
-
-An agreement was signed to import 700,000 tonnes of wheat a year from the US.
-
-...
-
-[Data](articles/c6295a69.json)
-
----
-
-### Gita Gopinath to leave the IMF for Harvard
-
-*2025-07-22 07:06:00* · [`economynextcom`](https://economynext.com/gita-gopinath-to-leave-the-imf-for-harvard-232019/) · `en`
-
-ECONOMYNEXT – Gita Gopinath, First Deputy Managing Director, will leave at the end of August to return to Harvard University, where she would be the inaugural Gregory and Ania Coffey Professor of Economics.
-
-Gopinath joined the Fund in January 2019 as Chief Economist and was promoted to First Deputy Managing Director in January 2022.
-
-“Gita steered the Fund’s analytical and policy work with clarity, striving for the highest standards of rigorous analysis at a complex time of high uncertainty and rapidly changing global economic environment,” Managing Director Kristalina Georgieva said in the statement.
-
-“She oversaw the Fund’s multilateral surveillance and analytical work on fiscal and monetary policy, debt, and international trade. Gita made a strong contribution to systemic country surveillance and to Fund country programs, including those for Argentina and Ukraine.”
-
-First Deputy Managing Director Gita Gopinath to Leave the IMF to Rejoin the Harvard Economics Faculty
-
-...
-
-[Data](articles/aa2e72d8.json)
 
 ---

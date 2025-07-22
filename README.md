@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 16:34:15**
+As of **2025-07-22 16:47:35**
 
 ## Newspaper Stats
 
-*Scraped **66,118** Articles*
+*Scraped **66,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,345
 adaderanalk | 8,101
 tamilmirrorlk | 9,506
 virakesarilk | 11,016
-adaderanasinhalalk | 11,363
+adaderanasinhalalk | 11,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,118 articles have been extended.
+61,973 (93.7%) of 66,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### අස්වැසුම දෙවැනි අදියරට අදාළව අභියාචනා භාර ගැනීම දීර්ඝ කෙරේ
+
+*2025-07-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212522) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ යෝජනා ක්‍රමයේ දෙවන අදියරට අදාළව අභියාචනා සහ විරෝධතා භාර ගැනීමේ කාල සීමාව දීර්ඝ කිරීමට සුබසාධක ප්‍රතිලාභ මණ්ඩලය තීරණය කර තිබේ.
+
+ඒ අනුව එම කාල සීමාව මේ මස 31 වැනිදා දක්වා දීර්ඝ කිරීමට එම මණ්ඩලය පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/4e75df43.json)
+
+---
+
+### රටින් පනින්න ගිය සැකකරුවෙක් අත්අඩංගුවට
+
+*2025-07-22 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212521) · `si`
+
+පානදුර පොලිස් වසමේදී පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියකට පොලීසියට අවශ්‍යව සිටි පුද්ගලයෙකු අද (22) කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු මැලේසියාව වෙත පලායෑමට මෙලෙස ගුවන්තොටුපොළ වෙත පැමිණ සිටියදී මුහුණු මගින් පුද්ගලයින් හඳුනාගැනීමේ පද්ධතිය හරහා සැකකරු හඳුනාගෙන ඇත.
+
+රමේෂ් පේෂල නමැති 28 හැවිරිදි සැකකරු ඉකුත් 11 වනදා පානදුර පොලිස් වසමේ හිරණ ප්‍රදේශයේදී හෂිත දුලාජ් නැමති අයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියට අවශ්‍යකර සිටින පුද්ගලයෙකු බවට හඳුනාගෙන තිබුණි.
+
+අදාළ සැකකරු අද උදෑසන 10:40ට මැලේසියාව බලා පිටත්ව යන එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 44 දරන ගුවන්යානයට පිවිසීම සඳහා කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටියදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+පසුව පානදුර පොලීසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් පිරිසක් පැමිණ සැකකරු රැගෙන ගොස් තිබේ.
+
+◼️
+
+[Data](articles/81615767.json)
+
+---
 
 ### வட்டுக்கோட்டை கொலைக் களமா?
 
@@ -476,7 +510,7 @@ Under this proposed memorandum of understanding, Sri Lankans will receive the op
 
 *2025-07-22 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-nansons-approval-to-secure-fao-marine-research-after-delays-232126/) · `en`
 
-ECONOMYNEXT –Sri Lankan authorities are in discussion with the officials of “Dr Fridtj of Nansen” (F. Nansen), a state-of-the-art research vessel, to extend its research time in the Indian Ocean after the island nation’s delay in approving the vessel to conduct Food and Agriculture Organization’s (FAO) marine research, government sources said.
+ECONOMYNEXT –Sri Lankan authorities are in discussion with the officials of “Dr Fridtjof   of Nansen” (F. Nansen), a state-of-the-art research vessel, to extend its research time in the Indian Ocean after the island nation’s delay in approving the vessel to conduct Food and Agriculture Organization’s (FAO) marine research, government sources said.
 
 President Anura Kumara Dissanayake last month gave special approval for Nansen, a United Nation-flagged research vessel into the island nation’s water to conduct research from July 15-August 20 after repeated requests from the United Nations and FAO.
 
@@ -1747,45 +1781,5 @@ He attributes this trend to several factors, including an increase in female lif
 ◼️
 
 [Data](articles/9cd92e13.json)
-
----
-
-### Tuk-Tuk robbers nabbed in Polgasowita
-
-*2025-07-22 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110712/tuk-tuk-robbers-nabbed-in-polgasowita) · `en`
-
-Three individuals allegedly involved in a series of three-wheeler robberies have been apprehended by the Mount Lavinia Crimes Investigation Division, police stated.
-
-The arrests were made yesterday (21) in Polgasowita within the Kahathuduwa Police Division, based on information received by a team of officers from the Mount Lavinia Division Crimes Investigation Division.
-
-During the raid, 12 grams of heroin were found in possession of two suspects.
-
-Further investigations revealed that the suspects had been traveling in three-wheelers under the pretext of hiring them and then assaulting the drivers and subsequently robbing the vehicles.
-
-The wife of one of the suspects was also arrested in connection with the robberies.
-
-The two male suspects, aged 24 and 27, are residents of Kalawana and Kahathuduwa, while the female suspect, aged 29, is a resident of Kahathuduwa.
-
-They are believed to be responsible for similar three-wheeler robberies in Kahathuduwa, Boralesgamuwa and Moragahahena.
-
-...
-
-[Data](articles/3c29495f.json)
-
----
-
-### இந்தியாவில் 140 பயணிகளுடன் புறப்பட்ட விமானம் அவசரமாக தரையிறக்கம்
-
-*2025-07-22 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/220591) · `ta`
-
-இந்தியாவில் 140 பயணிகளுடன் சென்ற விமானம் திங்கட்கிழமை (21) மாலை அவசரமாக தரையிறக்கப்பட்டுள்ளது.
-
-கோவா மாநிலத்திலிருந்து புறப்பட்ட இண்டிகோ விமானமே தரையிறங்கும் கருவி தொடர்பான தொழில்நுட்ப எச்சரிக்கையைத் தொடர்ந்து இந்தூரில் உள்ள தேவி அஹில்யாபாய் ஹோல்கர் விமான நிலையத்தில் அவசரமாக தரையிறக்கப்பட்டுள்ளது.
-
-கோவாவிலிருந்து புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து இண்டிகோ ஏர்லைன்ஸ் விமானம் (6E 813) தரையிறங்கும் கியரில்  பிரச்சனை ஒன்று இருப்பது தெரியவந்தது. இதனை அடுத்த முன்னெச்சரிக்கை நடவடிக்கையாக விமானம் அவசரமாக தறையிறக்கப்பட்டது. விமான ஊழியர்கள் மற்றும் அனைத்து பயணிகளும்  பாதுகாப்பாக இருக்கின்றனர் என தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/6d1e6982.json)
 
 ---

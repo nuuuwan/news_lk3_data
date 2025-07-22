@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 14:53:11**
+As of **2025-07-22 15:09:17**
 
 ## Newspaper Stats
 
-*Scraped **66,093** Articles*
+*Scraped **66,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,342
-adaderanalk | 8,095
+adaderanalk | 8,101
 tamilmirrorlk | 9,500
-virakesarilk | 11,011
-adaderanasinhalalk | 11,358
+virakesarilk | 11,013
+adaderanasinhalalk | 11,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,093 articles have been extended.
+61,973 (93.8%) of 66,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### Govt responds to concerns over ex-President Mahinda Rajapaksa’s security
+
+*2025-07-22 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110734/govt-responds-to-concerns-over-ex-president-mahinda-rajapaksas-security) · `en`
+
+The government is responsible not only for the safety of former presidents but also for the general public, Cabinet Spokesman Minister Dr. Nalinda Jayatissa has emphasized in response to questions raised in relation to the move by the present administration to remove the entitlements of former Presidents and their family members.
+
+Responding to an inquiry made at today’s (22) weekly Cabinet media briefing on whether the government would continue to ensure the security of former President Mahinda Rajapaksa, he assured that necessary steps will be taken based on intelligence and security reports.
+
+Meanwhile, the Cabinet Spokesman further noted that the government intends to amend the Presidents Entitlements Act (No. 4 of 1986) which effectively reduces special privileges extended to former Presidents, their families, and retired Members of Parliament.
+
+He said that the Cabinet of Ministers has also granted approval to the proposal to gazette the amendment bill and take forward the process.
+
+...
+
+[Data](articles/abc96146.json)
+
+---
+
+### පොලිසියෙන් විශේෂ සෝදිසි මෙහෙයුමක්
+
+*2025-07-22 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212516) · `si`
+
+මත්ද්‍රව්‍ය හා අපරාධවලට සම්බන්ධ පුද්ගලයන් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක කර ඇති සෝදිසි මෙහෙයුම් මාලාවේ තවත් සෝදිසි මෙහෙයුම් කිහිපයක් ඊයේ (21) දිනය පුරා ක්‍රියාත්මක කිරීමට ශ්‍රී ලංකා පොලීසියත්, පොලිස් විශේෂ කාර්ය බලකාය සහ ත්‍රිවිධ හමුදාව එක්ව සිදු කර තිබේ.
+
+එහිදී පොලිස් නිළධාරීන් විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයන් ඇතුළුව පුද්ගලයන් 73,00කට අධික පිරිසක් මේ සඳහා සහභාගී වී ඇත.
+
+එහිදී පුද්ගලයන් 24,690 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 9,717 ක් හා යතුරු පැදි 7,637ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කර තිබේ.
+
+මෙම මෙහෙයුම් අතරතුරදී නීතිවිරෝධී මත්පැන් ඇතුළත්ව මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 1,427 ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇති අතර ඒ අනුව අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 461 මිලිග්‍රෑම් 866ක ප්‍රමාණයක්ද හෙරොයින් ග්‍රෑම් 401 මිලිග්‍රෑම් 416ක ප්‍රමාණයක් ද ඇතුළත්ව මත්ද්‍රව්‍ය විශාල ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇත.
+
+එමෙන්ම පසුගිය 20 දින සිදු කළ මෙහෙයුම් මගින් ගිනි අවි 02ක ප්‍රමාණයක්ද අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/68c36236.json)
+
+---
 
 ### නිට්ටඹුවේ ගින්නක් - දැඩි රථවාහන තදබදයකුත්
 
@@ -41,6 +79,100 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ca232c5d.json)
+
+---
+
+### Adjournment debate on proposed education reforms to be held on Thursday
+
+*2025-07-22 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110733/adjournment-debate-on-proposed-education-reforms-to-be-held-on-thursday-) · `en`
+
+An adjournment debate on the proposed education reforms is scheduled to be held in Parliament on Thursday (24).
+
+Meanwhile, the Sri Lanka Electricity (Amendment) Bill, which was due to be debated on Thursday, will not take place as scheduled, the Department of Communication of Parliament stated.
+
+Accordingly, a decision has been taken to debate the Sri Lanka Electricity (Amendment) Bill, which was to be debated on July 24, on a future date.
+
+◼️
+
+[Data](articles/cd27905d.json)
+
+---
+
+### இலஞ்சம் பெற்ற உள்நாட்டு இறைவரித் திணைக்களத்தின் பிரதி ஆணையாளர் பிணையில் விடுதலை
+
+*2025-07-22 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/220621) · `ta`
+
+8,000 ரூபாவை இலஞ்சமாக பெற்ற போது இலஞ்சம் மற்றும்  ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்ட உள்நாட்டு இறைவரித் திணைக்களத்தின் பிரதி ஆணையாளர் கே.சி.கே. குமார இன்று செவ்வாய்க்கிழமை (22) பிணையில் விடுதலை செய்யப்பட்டுள்ளார்.
+
+தலா 10 இலட்சம் பெறுமதியான இரண்டு சரீரப் பிணையில் கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெக்குனாவல அவரை பிணையில் விடுவித்துள்ளார்.
+
+அத்துடன், நடைபெற்றுவரும் விசாரணையில் தலையிட வேண்டாம் எனவும் நீதிமன்றம் கடும் நிபந்தனைகளை விதித்துள்ளது.
+
+2025 ஆம் ஆண்டுக்கான வரி அனுமதிச் சான்றிதழை வழங்குவதற்காக தொழிலதிபர் ஒருவரிடம் 100,000 ரூபாவை இலஞ்சமாக  கோரியுள்ளார்.
+
+அவர் பின்னர் அந்த தொகையை 50,000 ரூபாவாக குறைத்துள்ளதோ, இம்மாதம் 3 ஆம் திகதி 42,000 ரூபாவை இலஞ்சமாகப் பெற்றுள்ளார்.
+
+தொழிலதிபர்  அளித்த முறைப்பாட்டை தொடர்ந்து,  இலஞ்சம் மற்றும்  ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு நடத்திய சோதனை நடவடிக்கையின் போது மீதி தொகையான 8,000 ரூபாவை பெற்ற போது கையும் களவுமாக கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4ccde025.json)
+
+---
+
+### நிட்டம்புவையில் கட்டடத்தில் தீ விபத்து
+
+*2025-07-22 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220626) · `ta`
+
+◼️
+
+[Data](articles/1869ca62.json)
+
+---
+
+### Fire breaks out in a building in Nittambuwa
+
+*2025-07-22 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110732/fire-breaks-out-in-a-building-in-nittambuwa) · `en`
+
+Accordingly, traffic congestion has been reported along the main road towards Colombo.
+
+◼️
+
+[Data](articles/87e7d250.json)
+
+---
+
+### Cabinet nod to establish Threat Hunting and Malware Analysis Lab
+
+*2025-07-22 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110731/cabinet-nod-to-establish-threat-hunting-and-malware-analysis-lab-) · `en`
+
+The Cabinet of Ministers has granted approval for the establishment of a Cyber Threat and Malware Analysis Research Unit within the Sri Lanka Computer Emergency Readiness Team (Sri Lanka CERT).
+
+Accordingly, a research unit is planned to be established within the Sri Lanka CERT with the objective of identifying cyber threats, enhancing the capability to combat such threats, and promoting the capacity for analyzing malware and developing human resources.
+
+Digital transformation in Sri Lanka is expected to be expedited through major projects such as the Sri Lanka Digital Identity Card Project, the National Data Sharing Digital Platform, Lanka Government Cloud, and other digitalization projects carried out within government institutions.
+
+Accordingly, the creation of a secure cyberspace has been identified as an essential requirement to implement the projects successfully, a statement issued by the Department of Government Information noted.
+
+...
+
+[Data](articles/93bc7493.json)
+
+---
+
+### Sri Lankans to be sent to Korea under E–8 Visa program
+
+*2025-07-22 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110730/sri-lankans-to-be-sent-to-korea-under-e8-visa-program) · `en`
+
+The Cabinet of Ministers has granted approval to implement a pilot project to send Sri Lankans under the E–8 Visa category (seasonal employees) for employment in the Republic of Korea and to conduct discussions with local government institutions in South Korea to seek employment opportunities.
+
+Accordingly, following discussions held with the Boseong local government institution in Korea, an agreement has been reached to enter into a memorandum of understanding to recruit Sri Lankan seasonal workers.
+
+Under this proposed memorandum of understanding, Sri Lankans will receive the opportunity to work in the agricultural sector in the Boseong Province for a shorter period (a maximum of 8 months) under the seasonal employee programme, to earn an income as well as to contribute to the country’s foreign exchange earnings.
+
+...
+
+[Data](articles/bb3d05fb.json)
 
 ---
 
@@ -101,6 +233,18 @@ The cancellation of the visit would incur direct losses of over $1 million to Sr
 ◼️
 
 [Data](articles/a0e600f9.json)
+
+---
+
+### Shan Yahampath arrested by Bribery Commission
+
+*2025-07-22 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110729/shan-yahampath-arrested-by-bribery-commission-) · `en`
+
+Shan Yahampath, the former personal secretary of former Minister Manusha Nanayakkara, has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+◼️
+
+[Data](articles/dbd67ac9.json)
 
 ---
 
@@ -442,9 +586,9 @@ The Bribery Commission also informed the Magistrate that CIABOC officials were n
 
 The Cabinet of Minister has granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986) and reduce special privileges extended to former Presidents, their families, and retired Members of Parliament.
 
-Last month, the Cabinet granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents, their families, and retired Members of Parliament.
+Last month, the Cabinet granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents and former MPs.
 
-In line with the government’s policy declaration “Pohosath Ratak – Lassana Jeewithayak” (A Wealthy Country – A Beautiful Life), the public has endorsed the government’s mandate to revoke the special benefits accorded to former Presidents and their families, as well as to abolish the pensions granted to Members of Parliament after serving a five-year term.
+In line with the government’s policy declaration “Pohosath Ratak – Lassana Jeewithayak” (A Wealthy Country – A Beautiful Life), the public endorsed the government’s mandate to revoke the special benefits accorded to former Presidents and their families, as well as to abolish the pensions granted to Members of Parliament after serving a five-year term, according to the statement issued by the Department of Government Information.
 
 ...
 
@@ -1681,167 +1825,5 @@ To oppose the move, all CEB workers are expected to report sick leave and stage 
 ...
 
 [Data](articles/5661139a.json)
-
----
-
-### CEB workers to protest today against the Electricity Amendment Bill
-
-*2025-07-22 06:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110707/ceb-workers-to-protest-today-against-new-electricity-bill) · `en`
-
-Electricity workers have decided to stage a protest today against the new Sri Lanka Electricity (Amendment) Bill proposed by the government as part of the restructuring process of the electricity sector, including the Ceylon Electricity Board (CEB).
-
-The protest will be held this afternoon opposite the CEB Head Office, with workers reporting sick leave to participate, according to the Ceylon Electricity Workers Union.
-
-The Sri Lanka Electricity (Amendment) Bill is scheduled to be presented to Parliament for its second reading on Thursday (24).
-
-It has received approval from the Sectoral Oversight Committee on Infrastructure and Strategic Development.
-
-However, the electricity workers claim that the government is attempting to privatize the Ceylon Electricity Board through the proposed bill.
-
-To oppose the move, all CEB workers are expected to report sick leave and stage a protest in Colombo today, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers Union.
-
-...
-
-[Data](articles/f78c0ff1.json)
-
----
-
-### Indigo Flight with 140 passengers on board makes emergency landing at Indore Airport
-
-*2025-07-22 06:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/110706/indigo-flight-with-140-passengers-on-board-makes-emergency-landing-at-indore-airport) · `en`
-
-An IndiGo flight from Goa with 140 passengers on board made an emergency landing at the Devi Ahilyabai Holkar Airport in Indore on Monday evening following a technical alert related to its landing gear, officials said.
-
-Airport director Vipinkant Seth has stated that IndiGo Airlines flight (6E 813) from Goa received an undercarriage warning, indicating a possible issue with its landing gear. As a precaution, the aircraft remained airborne for approximately 25 minutes before landing. “Due to this warning, the aircraft landed under emergency conditions at the Indore airport. The crew and all passengers are completely safe,” he stated.
-
-Another official said information was received about an undercarriage warning, prompting declaration of ‘full emergency’ at the airport. Fire and medical teams were deployed as per the Standard Operating Procedure. The aircraft, carrying about 140 passengers, landed safely at 5:15 p.m. Its scheduled arrival time was 4:50 p.m., the official added.
-
-...
-
-[Data](articles/3efb17dc.json)
-
----
-
-### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
-
-*2025-07-22 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212492) · `si`
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-සබරගමුව පළාතේත් නුවරඑළිය, මහනුවර, ගාල්ල, මාතර සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
-
-වයඹ සහ උතුරු පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති වේ.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ, මධ්‍යම, දකුණු සහ සබරගමුව, පළාත්වල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ විටින් විට හමන පැ.කි.මී. 55-60ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/371ccb52.json)
-
----
-
-### Fairly heavy rains above 75 mm likely in parts of the island
-
-*2025-07-22 05:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110705/fairly-heavy-rains-above-75-mm-likely-in-parts-of-the-island) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (22), the Department of Meteorology said.
-
-Fairly heavy falls above 75 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya, Kandy, Galle, Matara and Kalutara districts, the Met. Department noted in its latest weather update.
-
-Several spells of showers may occur in the Northern and North-western provinces as well.
-
-Meanwhile, strong winds of about 55-60kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western, Central, Southern and Sabaragamuwa provinces and Trincomalee district.
-
-Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island.
-
-The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/c0bb2cca.json)
-
----
-
-### ஒரே நாளில் 1,241 பேர் கைது ; விசேட சோதனையில் ஏராளமான போதைப்பொருள்கள், வாகனங்கள் பறிமுதல்
-
-*2025-07-22 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/220587) · `ta`
-
-நாடு முழுவதும் ஜூலை 20ஆம் திகதி நடத்தப்பட்ட சிறப்பு நடவடிக்கையில் சட்டவிரோத மதுபானம் உட்பட போதைப்பொருள் தொடர்பான குற்றங்களுக்காக மொத்தம் 1,241 நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-254,679 மில்லிகிராம் ஐஸ், 112,567 மில்லிகிராம் ஹெராயின் மற்றும் 3,738,356 மில்லிகிராம் கஞ்சாவை பொலிசார் பறிமுதல் செய்தனர்.
-
-இந்த நடவடிக்கைகளின் போது 21,132 நபர்கள் சோதனை செய்யப்பட்டுள்ளனர் மற்றும் 7,922 வாகனங்கள் மற்றும் 6,545 மோட்டார் சைக்கிள்கள் சோதனை செய்யப்பட்டுள்ளன.
-
-குற்றங்களில் நேரடியாக ஈடுபட்டதாக அடையாளம் காணப்பட்ட 18 நபர்கள் மற்றும் பல்வேறு குற்றங்களுக்காக 321 பிடியாணைகளும் பிறப்பிக்கப்பட்டுள்ளன.
-
-மேலும் நாடு முழுவதிலுமிருந்து காவல்துறை அதிகாரிகள், சிறப்பு அதிரடிப்படை மற்றும் முப்படைகளின் உறுப்பினர்கள் உட்பட 5,300 க்கும் மேற்பட்டோர் இதில் பங்கேற்றனர்.
-
-2025 ஏப்ரல் 13 முதல் முழு தீவையும் உள்ளடக்கும் வகையில் சிறப்பு நடவடிக்கைகள் தொடங்கப்பட்டன.
-
-...
-
-[Data](articles/6ee94fa2.json)
-
----
-
-### இந்திய உப ஜனாதிபதி ஜெகதீப் தன்கர் திடீர் ராஜினாமா
-
-*2025-07-22 04:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/220586) · `ta`
-
-இந்திய குடியரசுத் துணைத் தலைவராகப் பதவி வகித்து வந்த ஜெகதீப் தன்கர், உடல்நலக் காரணங்களைக் கூறி திடீரென தனது பதவியை ராஜினாமா செய்துள்ளார்.
-
-இந்த அறிவிப்பு, நாடாளுமன்றத்தின் மழைக்காலக் கூட்டத்தொடர் ஆரம்பித்த சில மணி நேரங்களுக்குப் பிறகே வெளியாகியுள்ளது. அப்போது அவர் ராஜ்யசபை தலைவராக கூட்டத்தைக் கூட்டியதும் குறிப்பிடத்தக்கது.
-
-தனது ராஜினாமா கடிதத்தை இந்திய அரசியலமைப்பின் பிரிவு 67(அ) படி, குடியரசுத் தலைவர் திரௌபதி முர்முவிற்கு அனுப்பியுள்ளதாக ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/fe36de9b.json)
-
----
-
-### கிழக்கு மாகாண ஆசிரியர்கள் சந்திக்கும் பிரச்சினைகள் தொடர்பாக கலந்துரையாடல்
-
-*2025-07-22 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/220583) · `ta`
-
-கிழக்கு மாகாணத்தில் ஆசிரியர்கள் எதிர்நோக்குகின்ற பல்வேறு பிரச்சினைகள் மற்றும் தேவைகள் தொடர்பாக கல்விசார் ஊழியர்கள் சங்கத்தினர் கிழக்கு மாகாண ஆளுநர் மற்றும் கல்வி அமைச்சின் செயலாளருடன் கலந்துரையாடலில் ஈடுபட்டிருந்தனர்.
-
-கல்விசார் ஊழியர் சங்கத்தின் தேசிய மற்றும் மாவட்ட மட்ட நிர்வாகிகள் திங்கட்கிழமை (21) கிழக்கு மாகாண ஆளுநர் ஜயந்தலால் ரத்தனசேகர, மாகாண கல்வி அமைச்சின் செயலாளர் எஸ்.குணநாதன் ஆகியோரை திருகோணமலையில் வைத்து சந்தித்தனர்.
-
-இதன்போது பொதுவாக கிழக்கு மாகாணத்தில் ஆசிரியர்கள் எதிர்நோக்குகின்ற பல்வேறு பிரச்சினைகள், தேவைகள் தொடர்பாக கலந்துரையாடியதாகவும் குறிப்பாக ஆசிரியர் இடமாற்றம் சம்பந்தமாக இடம்பெறுகின்ற பல்வேறு சிக்கல்கள் தொடர்பாகவும், தேசிய இடமாற்றக் கொள்கைக்கு மாறாக இடம்பெறுகின்ற செயற்பாடுகள் தொடர்பாகவும் குறித்த கலந்துரையாடலில் கலந்துரையாடி இணக்கம் காணப்பட்டுள்ளதாகவும் சங்கத்தினர் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/150f6fb6.json)
-
----
-
-### MCC திட்டம் அமுல்படுத்தப்பட்டிருந்தால் இலங்கை வரி நிவாரணம் பெற்ற ஆசியாவின் முதல் நாடாக இருந்திருக்கும் – வஜிர அபேவர்தன
-
-*2025-07-22 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/220585) · `ta`
-
-ரணில் விக்ரமசிங்க பிரதமராக இருந்து அமெரிக்காவின் எம்.சீ.சீ. திட்டத்த நாட்டுக்கு கொண்டுவந்து அதன் மூலம் 415 பில்லியன் டாெலரை நன்கொடையாக பெற்றுக்கொள்ள நடவடிக்கை எடுத்துவந்தார். இந்த திட்டத்தை செயற்படுத்த நாட்டு மக்கள் அன்று இடமளித்திருந்தால், ஆசியாவிலே வரி நிவாரணம் கிடைக்கும் முதலாவது நாடாக இலங்கை தெரிவாகி இருக்கும். அமெரிக்காவின் தீர்வை வரி அதிகரிப்பும் எமக்கு பிரச்சினையாகி இருக்காது என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்தார்.
-
-அமெரிக்க ஜனாதிபதியால் அதிகரிக்கப்பட்டுள்ள தீர்வை வரி அதிகரிப்பு தொடர்பில் தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/ea04f35b.json)
-
----
-
-### தகவல் அறியும் உரிமை ஆணைக்குழு உள்ளிட்ட சுயாதீன ஆணைக்குழுக்களின் பதவிகளுக்கான நியமனத்திற்கு தகுதியானவர்களை பரிந்துரைக்க வேண்டும் – புத்திஜீவிகள், நிபுணர்கள் 117 பேர் கோரிக்கை
-
-*2025-07-22 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220584) · `ta`
-
-தகவல் அறியும் உரிமை ஆணைக்குழு உள்ளிட்ட சுயாதீன ஆணைக்குழுக்களின் பதவிகளுக்கான நியமனங்களை மேற்கொள்ளும்போது அதனுடன் தொடர்புடைய விடய அறிவு, அனுபவம் மற்றும் தேர்ச்சி என்பவற்றைக்கொண்ட நபர்களை மாத்திரம் பரிந்துரைக்குமாறும், இந்நியமனங்களின்போது ஜனாதிபதி உரிய அளவுகோள்களைப் பின்பற்றவேண்டும் எனவும் சுயாதீன ஆணைக்குழுக்களின் முன்னாள் சிரேஷ்ட அதிகாரிகள், சட்டத்தரணிகள், ஊடகவியலாளர்கள், பேராசிரியர்கள், சிவில் சமூக செயற்பாட்டாளர்கள், மனித உரிமைகள் பாதுகாவலர்கள், தொழிற்சங்கவாதிகள் 117 பேர் அரசியலமைப்புப்பேரவையிடமும், ஜனாதிபதியிடமும் கூட்டாக வலியுறுத்தியுள்ளனர்.
-
-...
-
-[Data](articles/94868375.json)
 
 ---

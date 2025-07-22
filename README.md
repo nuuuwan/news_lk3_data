@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 00:07:22**
+As of **2025-07-23 00:26:30**
 
 ## Newspaper Stats
 
-*Scraped **66,187** Articles*
+*Scraped **66,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ colombotelegraphcom | 676
 bbccomsinhala | 677
 islandlk | 4,041
 economynextcom | 4,044
-dailyftlk | 4,671
+dailyftlk | 4,676
 dailymirrorlk | 4,733
 adalk | 6,353
-adaderanalk | 8,115
+adaderanalk | 8,116
 tamilmirrorlk | 9,520
 virakesarilk | 11,029
 adaderanasinhalalk | 11,376
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,187 articles have been extended.
+61,973 (93.6%) of 66,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### Woman killed, child injured in shooting in Marawila
+
+*2025-07-22 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110750/woman-killed-child-injured-in-shooting-in-marawila) · `en`
+
+A 30-year-old woman is reported dead while a 10-year-old boy has been injured following a shooting incident at Maranda in Marawila, police said.
+
+Police said that an unidentified gunman had opened fire at a woman who was in front of a residence in Maranda and that a small boy who was nearby was also injured in the shooting.
+
+◼️
+
+[Data](articles/81cd738c.json)
+
+---
 
 ### சற்றுமுன் துப்பாக்கிச்சூடு :  பெண் மரணம்
 
@@ -197,6 +211,84 @@ Prime Minister Dr. Harini Amarasuriya also stressed the need for a coordinated, 
 ...
 
 [Data](articles/eb6da2e3.json)
+
+---
+
+### SriLankan Cargo joins Freightos:  New digital bridge to South Asian markets
+
+*2025-07-22 21:47:57* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Cargo-joins-Freightos-New-digital-bridge-to-South-Asian-markets/34-779314) · `en`
+
+SriLankan Cargo finalised its partnership with Freightos at the Transport Logistics 2025 trade fair in Munich. From left: SriLankan Airlines Cargo Manager – Europe and Indian subcontinent Suchithra Paththinige, Cargo Head Chaminda Perera, WebCargo by Freightos Commercial Vice President – Airlines and Payments Julien Triay, and SriLankan Airlines Manager – Cargo Worldwide Sales Lakmali Kahawatte
+
+SriLankan Cargo, the air freight arm of SriLankan Airlines, has joined WebCargo by Freightos, a leading digital booking and payment platform for international freight. The integration allows over 10,000 freight forwarding offices worldwide to seamlessly access SriLankan Cargo’s capacity, request quotations, make bookings and process payments in real time.
+
+...
+
+[Data](articles/20e3e6d4.json)
+
+---
+
+### DIMO powers Marina Square – Colombo with state-of-the-art low voltage electrical solutions
+
+*2025-07-22 21:46:52* · [`dailyftlk`](https://www.ft.lk/business/DIMO-powers-Marina-Square-Colombo-with-state-of-the-art-low-voltage-electrical-solutions/34-779313) · `en`
+
+DIMO, a leading diversified conglomerate in Sri Lanka, has successfully secured the order for design and supply of a comprehensive Low Voltage (LV) power distribution system for Marina Square – Colombo. This is one of the most prestigious and luxurious real estate developments in Colombo. This landmark project sets a new benchmark for upscale urban living in Sri Lanka, featuring 1,088 luxury apartments, a high-end retail mall, and premium amenities.
+
+The fully integrated, state-of-the-art LV electrical distribution system by DIMO has been engineered to meet the high-performance demands of Marina Square, while significantly enhancing the project’s overall safety. A key component of the solution includes Type-Tested (Design-Verified) SIVACON LV Switchboards from SIEMENS, encompassing Sub/Floor Distribution Boards, and the innovative Apartment DBs manufactured under the DIMO Lumin brand.
+
+...
+
+[Data](articles/301f0bf0.json)
+
+---
+
+### Leema Creations marks Silver Jubilee with elegance: Opens new chapter
+
+*2025-07-22 21:45:32* · [`dailyftlk`](https://www.ft.lk/business/Leema-Creations-marks-Silver-Jubilee-with-elegance-Opens-new-chapter/34-779312) · `en`
+
+Leema Creations Chairman Channa Wijesekara with guests make a toast at the celebration
+
+In a flamboyant celebration of creativity, resilience, and innovation, Leema Creations, the premier interior solution provider in the field of interior design, has announced its Silver Jubilee — 25 years of transforming spaces and touching lives. The company will mark this milestone with a series of events under the theme ‘Space-Life-Story.’
+
+Founded in 2000, Leema Creations has become synonymous with refined aesthetics, customer-centric solutions, and a deep understanding of how interiors shape the way people live, work, and thrive. From humble beginnings, Leema has become the most sought-after and trusted name in residential, commercial, and hospitality interior design.
+
+...
+
+[Data](articles/3e4f5145.json)
+
+---
+
+### MTI in Zimbabwe for strategy consulting assignment
+
+*2025-07-22 21:43:26* · [`dailyftlk`](https://www.ft.lk/business/MTI-in-Zimbabwe-for-strategy-consulting-assignment/34-779311) · `en`
+
+MTI Consulting said yesterday it has deployed a team of seasoned strategists to Zimbabwe as part of a high-impact strategy consulting assignment.
+
+The initiative aims to support key sectors in enhancing operational effectiveness and unlocking new growth pathways across the region.
+
+Drawing on global best practices and local insights, the MTI team will engage with industry leaders and stakeholders to co-create strategic frameworks tailored to Zimbabwe’s evolving economic landscape. This engagement reflects MTI’s commitment to sustainable development and capacity-building across emerging markets.
+
+◼️
+
+[Data](articles/26aa6265.json)
+
+---
+
+### Sri Lanka Insurance Life Suba Pathum Scholarship award ceremony today
+
+*2025-07-22 21:42:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Insurance-Life-Suba-Pathum-Scholarship-award-ceremony-today/34-779310) · `en`
+
+The much-anticipated Sri Lanka Insurance Life – Suba Pathum Scholarship Awards Ceremony will take place today at the Main Hall of the Bandaranaike Memorial International Conference Hall (BMICH), Colombo 07.
+
+This year, 225 outstanding students from across the island will be recognised for their academic excellence in the 2023 Grade 5 Scholarship Examination, GCE Ordinary Level, and GCE Advanced Level examinations. The program will reward the top 75 performers from each category, celebrating their hard work and dedication.
+
+The Suba Pathum Scholarship Program, initiated by Sri Lanka Insurance Life, continues its mission of empowering the future of Sri Lanka by supporting the country’s brightest young minds. To date, the initiative has awarded over 2,000 scholarships, with financial scholarships worth of over Rs. 220 million.
+
+Sri Lanka Insurance Life said it remains committed to nurturing education and inspiring the next generation to achieve their full potential.
+
+◼️
+
+[Data](articles/c01bc738.json)
 
 ---
 
@@ -1693,95 +1785,5 @@ The cancellation of the visit would incur direct losses of over $1 million to Sr
 ...
 
 [Data](articles/853b9706.json)
-
----
-
-### இ.மி.ச ஊழியர்கள் ஆர்ப்பாட்டம்: பேஸ்லைன் வீதியில் நெரிசல்
-
-*2025-07-22 13:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-ஊழியர்கள்-ஆர்ப்பாட்டம்-பேஸ்லைன்-வீதியில்-நெரிசல்/175-361527) · `ta`
-
-இலங்கை மின்சார சபை ஊழியர்கள், இலங்கை மின்சார சபையின் தலைமை அலுவலகத்துக்கு முன்பாக, செவ்வாய்க்கிழமை (22)  பாரிய ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
-
-அரசாங்கம் மின்சார சபையும் எமது ஊழியர்கள் அடிப்படை உரிமைகளை நீக்கிவிட்டது. தொழிலாளர்களுக்கு உரிய அடிப்படை வசதிகள் இல்லாமல் செய்து வருகின்றது என்று குற்றஞ்சாட்டியே ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது. இதனால், பேஸ்லைன் வீதியில் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டது.
-
-◼️
-
-[Data](articles/a0e600f9.json)
-
----
-
-### Shan Yahampath arrested by Bribery Commission
-
-*2025-07-22 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110729/shan-yahampath-arrested-by-bribery-commission-) · `en`
-
-Shan Yahampath, the former personal secretary of former Minister Manusha Nanayakkara, has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-◼️
-
-[Data](articles/dbd67ac9.json)
-
----
-
-### වසර 10කදී විදෙස් ගත ශ්‍රී ලාංකිකයන්ගෙන් ඇ.ඩො.මිලියන 67,147ක් ප්‍රේෂණ
-
-*2025-07-22 13:43:05* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කදී-විදෙස්-ගත-ශ්‍රී-ලාංකිකයන්ගෙන්-ඇ-ඩො-මිලියන-67-147ක්-ප්‍රේෂණ/11-417441) · `si`
-
-විදේශ රැකියා හරහා පසුගිය වසර 10 තුළ මෙරටට ලැබී ඇති මුළු ප්‍රේෂණ ප්‍රමාණය ඇමෙරිකානු ඩොලර් මිලියන 67,147ක් බව විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා පැවසීය.
-
-◼️
-
-[Data](articles/b4d0d278.json)
-
----
-
-### Sri Lanka to initiate joint research with Singapore to develop AI technologies
-
-*2025-07-22 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110728/sri-lanka-to-initiate-joint-research-with-singapore-to-develop-ai-technologies) · `en`
-
-The government is seeking to commence joint research with Singapore for the development of artificial intelligence technologies, conduct artificial intelligence programs, and create mutual cooperation to address local and global challenges.
-
-Accordingly, the Cabinet of Ministers has granted approval to a proposal to sign a memorandum of understanding between the Ministry of Digital Economy and the National University of Singapore.
-
-Discussions have been held pertaining to “The Program on Artificial Intelligence in Singapore” (AI Singapore), which is implemented at the National University of Singapore, to explore the opportunities for active partnership and sharing knowledge that can contribute to the strategic objectives in Sri Lanka for the development of Artificial Intelligence, according to a statement issued by the Department of Government Information.
-
-...
-
-[Data](articles/285cc5be.json)
-
----
-
-### ශ්‍රී ලාංකික සිසුන්ට හංගේරියාවේ Stipendium Hungaricum ශිෂ්‍යත්ව තවදුරටත්
-
-*2025-07-22 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212512) · `si`
-
-හංගේරියාවේ Stipendium Hungaricum ශිෂ්‍යත්ව වැඩසටහන යටතේ උසස් අධ්‍යාපන සහයෝගිතාව සඳහා අවබෝධතා ගිවිසුමකට එළැඹීම සඳහා අග්‍රාමාත්‍යවරිය ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-දැනුම මූලික සමාජයක් බිහි කරලීම තුළින් දෙරටේ උසස් අධ්‍යාපන ක්ෂේත්‍රයෙහි අන්‍යෝන්‍ය සහයෝගිතාව තවදුරටත් ශක්තිමත් කිරීම පිණිස හංගේරියාවේ විදේශ කටයුතු හා වෙළෙඳ අමාත්‍යාංශය හා ශ්‍රී ලංකාවේ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය අතර අවබෝධතා ගිවිසුමකට එළඹීමට සැලසුම් කර ඇත.
-
-2022-2024 කාලසීමාවට අදාළව එළඹුණු අවබෝධතා ගිවිසුමේ දිගුවක් වන මෙම ගිවිසුම හරහා ශ්‍රී ලාංකීය සිසුන්ට ප්‍රථම උපාධි හා පශ්චාත් උපාධි ශිෂ්‍යත්ව අවස්ථා සැලසෙනු ඇත.
-
-ගිවිසුමේ ඍජු ප්‍රතිලාභ ලෙස ශ්‍රී ලාංකීය සිසුන් සඳහා විද්‍යාව, තාක්ෂණය, ඉංජිනේරු විද්‍යාව, ගණිතය, වෛද්‍ය විද්‍යාව, සෞඛ්‍ය විද්‍යාව සහ කෘෂිකර්මය ආදී ක්ෂේත්‍රයන් යටතේ ප්‍රථම උපාධි අවස්ථා 08ක්, පශ්චාත් උපාධි අවස්ථා 08ක් සහ ආචාර්ය උපාධි අවස්ථා 04ක් ලෙස ශිෂ්‍යත්ව අවස්ථාවන් 20ක් Stipendium Hungaricum ශිෂ්‍යත්ව වැඩසටහන යටතේ වාර්ෂිකව හිමි වනු ඇත.
-
-...
-
-[Data](articles/8ffd7781.json)
-
----
-
-### காதலியின் தங்கையை வன்புணர்ந்த காதலன்
-
-*2025-07-22 13:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியின்-தங்கையை-வன்புணர்ந்த-காதலன்/175-361526) · `ta`
-
-வீட்டில் தனியாக இருந்தபோது, 17 வயது சிறுமியை, அவரது அக்காவின் காதலன் பாலியல் வன்கொடுமை செய்ததாகக் கூறப்படுகிறது.
-
-அக்மீமன, வலஹண்டுவ பகுதியைச் சேர்ந்த 25 வயது சந்தேக நபர், தனியார் நிறுவனத்தில் பணிபுரிகின்றார். அவர், பாதிக்கப்பட்ட சிறுமியின் அக்காவை   காதலித்து வந்தார். சம்பவதினம், அந்த நபர், பாதிக்கப்பட்ட சிறுமியின் வீட்டிற்கு வந்திருந்தார்.
-
-அவரது அக்காவுடன் வீட்டில் இருந்த இருவரும், வெளியில் சென்றுவிட்டார். எனினும், சிறிது நேரத்தில் திரும்பி வந்து அந்த நபர், தனது மொபைல் போன் சார்ஜரை மறந்துவிட்டதாகக் கூறி, வீட்டில் தனியாக இருந்த தங்கையை பாலியல் வன்கொடுமை செய்ததாகக் கூறப்படுகிறது.
-
-விசாரணையைத் தொடங்கிய பொலிஸார், சந்தேக நபரைக் கைது செய்தனர், பாதிக்கப்பட்ட சிறுமியை காலி கராப்பிட்டி போதனா மருத்துவமனையின் சட்ட மருத்துவ அதிகாரியிடம் ஆஜர்படுத்தினர். அவர் பாலியல் வன்கொடுமைக்கு உள்ளாக்கப்பட்டுள்ளார் என மருத்துவ அதிகாரி உறுதிப்படுத்தினார்.
-
-◼️
-
-[Data](articles/a702d2a8.json)
 
 ---

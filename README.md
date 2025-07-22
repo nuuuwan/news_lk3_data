@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 10:01:05**
+As of **2025-07-22 10:27:17**
 
 ## Newspaper Stats
 
-*Scraped **66,019** Articles*
+*Scraped **66,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ economynextcom | 4,031
 islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,337
-adaderanalk | 8,080
+adalk | 6,339
+adaderanalk | 8,084
 tamilmirrorlk | 9,479
 virakesarilk | 11,002
-adaderanasinhalalk | 11,343
+adaderanasinhalalk | 11,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 66,019 articles have been extended.
+61,973 (93.9%) of 66,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### දේශබන්දු එල්ලවූ චෝදනාවලට වරදකරු වෙයි - පාර්ලිමේන්තු විමර්ශන කමිටුව
+
+*2025-07-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212501) · `si`
+
+ධුරයේ කටයුතු කිරීම අත්හිටවනු ලැබූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් නෙරපීම සඳහා ඔහු පිළිබඳ විමර්ශනය කිරීමට පත්කළ පාර්ලිමේන්තු පරීක්ෂණ කමිටුව නිර්දේශ කර ඇතැයි කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (22) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+කථානායකවරයා ප්‍රකාශ කළේ, අදාළ කමිටු වාර්තාව තමාට ලැබුණු අතර, එමඟින් දේශබන්දු තෙන්නකෝන් මහතා ඔහුට එරෙහි චෝදනාවලට ඒකමතිකව වැරදිකරු කර ඇති බවය.
+
+මේ අතර, අදාළ වාර්තාව මුද්‍රණය කිරීමටත්, පාර්ලිමේන්තු වෙබ් අඩවියේ දැක්වීමටත් තීරණය විය.
+
+දේශබන්දු තෙන්නකෝන් මහතා සිදුකර ඇති බව කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතළ අන්දමින් භාවිත කිරීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තාවක් සකස් කිරීම සඳහා විශේෂ පරීක්ෂණ කමිටුවක් පසුගිය අප්‍රේල් මාසයේ දී පත්කරනු ලැබීය.
+
+එම කමිටුවේ සභාපතිවරයා ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පත්මන් සූරසේන මහතා කටයුතු කළේය.
+
+එහි සෙසු සාමාජිකයින් ලෙස විනිසුරු නීල් ඉද්දවෙල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරු කටයුතු කළහ.
+
+මෙම පරීක්ෂණ කමිටුව අවස්ථා 10කට වැඩි ගණනකදී රැස්වී සාක්ෂි සටහන් කර ගැනීම සිදුකර ගනු ලැබීය.
+
+...
+
+[Data](articles/1a3b7ced.json)
+
+---
+
+### දේශබන්දු සියලු චෝදනා වලට වැරදිකරු වෙයි - කමිටු තීරණය කථානායක පාර්ලිමේන්තුවට දැනුම් දෙයි
+
+*2025-07-22 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-සියලු-චෝදනා-වලට-වැරදිකරු-වෙයි---කමිටු-තීරණය-කථානායක-පාර්ලිමේන්තුවට-දැනුම්-දෙයි/11-417438) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකොන් මහතාට එරෙහිව එල්ල වූ සියලු චෝදනා වලට වැරදි කරු බව ඒ සම්බන්ධයෙන් පත් කළ කමිටුව තීරණය කර ඇති බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+යෝජනාව විවාදය කර සම්මත කරන දිනය ඉදිරියේදී දැනුම් දෙන බව ද ඔහු පැවසීය.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් කර ඇතැයි කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතල අන්දමින් අනිසි ලෙස යොදාගැනීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තා කිරීමට  අදාළ කමිටුව පසුගියදා පත් කෙරිණි.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතාගේ සභාපතිත්වයෙන් සහ විනිසුරු නීල් ඉද්දවල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරුන්ගේ සාමාජිකත්වයෙන් පරීක්ෂණ පත් කෙරිණි.
+
+◼️
+
+[Data](articles/19f395fc.json)
+
+---
+
+### Committee of Inquiry finds IGP Deshabandhu Tennakoon guilty of all allegations, recommends his removal
+
+*2025-07-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110715/committee-of-inquiry-finds-igp-deshabandhu-tennakoon-guilty-of-all-allegations-recommends-his-removal-) · `en`
+
+The Committee of Inquiry appointed to investigate and report its findings on Inspector General of Police Deshabandhu Tennakoon in respect of acts of gross abuse of power has found him guilty of all allegations leveled against the IGP.
+
+Speaker of House Dr. Jagath Wickramaratne confirmed that he has received the report of the committee which has recommended the removal of Deshabandhu Tennakoon from the post of IGP.
+
+The Committee of Inquiry was chaired by Supreme Court Judge P.P. Surasena and consisted of Justice W. M. N. P. Iddawala and E. W. M. Lalith Ekanayake, Chairman, National Police Commission (Ex-officio).
+
+...
+
+[Data](articles/3e28a92d.json)
+
+---
 
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
@@ -68,6 +126,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Gita Gopinath, No.2 in IMF to quit in August; Successor to be named soon
+
+*2025-07-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110714/gita-gopinath-no2-in-imf-to-quit-in-august-successor-to-be-named-soon-) · `en`
+
+Gita Gopinath, the second-in-command at the International Monetary Fund (IMF), will step down at the end of August to return to her position at Harvard University, the IMF has announced.
+
+The timing of Gita Gopinath’s exit has taken many within the IMF by surprise and is believed to have been prompted by her own decision, reported news agency Reuters.
+
+Having originally left Harvard to serve at the Fund, she is now set to resume her role as professor of economics at the university.
+
+Her departure opens a window for the U.S. Treasury to propose a successor—an opportunity that comes as US President Donald Trump pushes to reshape global trade dynamics and curb the country’s persistent trade deficits through sweeping tariffs on imports worldwide.
+
+Gita Gopinath, the First Deputy Managing Director of the IMF visited Sri Lanka last month to discuss economic challenges and opportunities for Sri Lanka—and how the IMF can support efforts.
+
+...
+
+[Data](articles/776efbc9.json)
+
+---
+
+### Increase in female population over males could lead to future crises, expert warns
+
+*2025-07-22 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110713/increase-in-female-population-over-males-could-lead-to-future-crises-expert-warns) · `en`
+
+The continuous decline in the male population in comparison to the number of females in Sri Lanka could lead to significant crises in the future, Senior Professor Aminda Methsila of Wayamba University of Sri Lanka has warned.
+
+According to Professor Methsila, in 1995 there were 100.2 males for every 100 females in the country. However, this ratio has now decreased to 93.7 males per 100 females.
+
+He attributes this trend to several factors, including an increase in female life expectancy, a rise in female births, and the emigration of young males.
+
+“We are observing a notable increase in the proportion of women in nearly all sectors, including universities and other educational institutions—except for a few degrees such as engineering and technology,” Professor Methsila said.
+
+...
+
+[Data](articles/bcd37010.json)
+
+---
+
 ### බංග්ලාදේශ ගුවන් අනතුරින් මිය ගිය පිරිස 27 දක්වා ඉහළට
 
 *2025-07-22 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212499) · `si`
@@ -101,6 +197,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77ec5f24.json)
+
+---
+
+### පාර්ලිමේන්තුව අද රැස්වෙයි
+
+*2025-07-22 09:13:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අද-රැස්වෙයි/11-417436) · `si`
+
+අද දිනයේදී සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත සංශෝධනය සඳහා), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත සංශෝධනය සඳහා) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත දෙවැනි වර කියවීමේ විවාදය පැවැත්වීමට කටයුතු යොදා ඇත.
+
+◼️
+
+[Data](articles/9cd92e13.json)
+
+---
+
+### Tuk-Tuk robbers nabbed in Polgasowita
+
+*2025-07-22 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110712/tuk-tuk-robbers-nabbed-in-polgasowita) · `en`
+
+Three individuals allegedly involved in a series of three-wheeler robberies have been apprehended by the Mount Lavinia Crimes Investigation Division, police stated.
+
+The arrests were made yesterday (21) in Polgasowita within the Kahathuduwa Police Division, based on information received by a team of officers from the Mount Lavinia Division Crimes Investigation Division.
+
+During the raid, 12 grams of heroin were found in possession of two suspects.
+
+Further investigations revealed that the suspects had been traveling in three-wheelers under the pretext of hiring them and then assaulting the drivers and subsequently robbing the vehicles.
+
+The wife of one of the suspects was also arrested in connection with the robberies.
+
+The two male suspects, aged 24 and 27, are residents of Kalawana and Kahathuduwa, while the female suspect, aged 29, is a resident of Kahathuduwa.
+
+They are believed to be responsible for similar three-wheeler robberies in Kahathuduwa, Boralesgamuwa and Moragahahena.
+
+...
+
+[Data](articles/3c29495f.json)
 
 ---
 
@@ -1693,139 +1825,5 @@ The operation was carried out throughout the day yesterday and involved more tha
 ◼️
 
 [Data](articles/82ddb3bb.json)
-
----
-
-### At least 19 killed as Bangladesh air force plane crashes into college campus
-
-*2025-07-21 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110696/at-least-19-killed-as-bangladesh-air-force-plane-crashes-into-college-campus) · `en`
-
-At least 19 people were killed as a Bangladesh air force training aircraft crashed into a college and school campus in the capital city of Dhaka on Monday, a fire services official said.
-
-More than 50 people, including children and adults, were hospitalised with burns, a doctor at the National Institute of Burn and Plastic Surgery told reporters.
-
-The incident occurred at the Milestone School and College in Dhaka’s northern area of Uttara, officials said.
-
-“Bangladesh Air Force’s F-7 BGI training aircraft crashed in Uttara. The aircraft took off at 13:06 (0706 GMT),” the military’s public relations department said in a statement.
-
-Videos of the aftermath of the crash showed a big fire near a lawn emitting a thick plume of smoke into the sky, as crowds watched from a distance.
-
-Firefighters sprayed water on the mangled remains of the plane, which appeared to have rammed into the side of a building, damaging iron grills and creating a gaping hole in the structure, Reuters TV visuals showed.
-
-...
-
-[Data](articles/13294825.json)
-
----
-
-### சுமார் 90 பேர் ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றுகின்றனர் - முஜிபுர் ரஹ்மான்
-
-*2025-07-21 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220554) · `ta`
-
-ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றும் ஊழியர்கள் தொடர்பான விபரங்களை தகவல் அறியும் சட்டத்தின் மூலம் கோரிய  போது அவற்றை வெளியிட முடியாது என  அரசாங்கத்தினர் தெரிவித்தனர்.  எவ்வாறெனினும் அறியகிடைத்த தகவலுக்கமைய சுமார் 90 பேர் ஜனாதிபதி ஊடகப் பிரிவில் பணியாற்றுவதாக  ஐக்கிய தேசிய கட்சியின்  பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்துள்ளார்.
-
-அரசாங்கத்திற்கு வாக்களித்த பொதுமக்கள், அவர்களின் முறையற்ற தீர்மானங்களால் விரக்தி அடைந்துள்ளனர். அத்தீர்மானங்களால் நாட்டில் பல நெருக்கடிகள்  உருவாகியுள்ளன. கடந்த அரசாங்கத்தின் ஆட்சியில்  வெளிப்படைத் தன்மையை இல்லை என கூறிய தரப்பினரின் அரசாங்கம் தற்போது வெளிப்படைத் தன்மையின்றி  செயற்படுகிறது எனவும் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் குற்றம்சாட்டியுள்ளார்.
-
-எதிர்க்கட்சி அலுவலகத்தில் ஞாயிற்றுக்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/56b8fce2.json)
-
----
-
-### கிரகரி ஏரியில் படகு சவாரி தற்காலிகமாக தடை
-
-*2025-07-21 17:04:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரகரி-ஏரியில்-படகு-சவாரி-தற்காலிகமாக-தடை/76-361473) · `ta`
-
-◼️
-
-[Data](articles/ab327ff7.json)
-
----
-
-### ஏப்ரல் 2026 முதல் ஈ-என்ஐசி அறிமுகம்
-
-*2025-07-21 17:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-2026-முதல்-ஈ-என்ஐசி-அறிமுகம்/175-361472) · `ta`
-
-இலத்திரனியல் தேசிய அடையாள அட்டைகள் (இ-என்ஐசி) ஏப்ரல் 2026க்குள் வழங்கப்படும் என்று எதிர்பார்க்கப்படுகிறது என்று டிஜிட்டல் பொருளாதாரத் துணை அமைச்சர் எரங்க வீரரத்ன தெரிவித்தார்.
-
-டிஜிட்டல் ஐடி அமைப்பை நிறுவுவதை நோக்கமாகக் கொண்டு, ஐடி செயல்முறையை டிஜிட்டல் மயமாக்கும் திட்டம் 2012 இல் தொடங்கப்பட்டதாக அவர் கூறினார்.
-
-பிளாஸ்டிக் அடையாள அட்டைகளின் தற்போதைய பயன்பாடு சுற்றுச்சூழல் அமைப்பை எதிர்மறையாக பாதிக்கிறது என்பதை வீரரத்ன எடுத்துரைத்தார், மேலும் டிஜிட்டல் அடையாள தளத்திற்கு மாற வேண்டியதன் அவசியத்தையும் குறிப்பிட்டார்.
-
-இந்த அமைப்பு MOSIP செயல்படுத்தல் தீர்வு மூலம் இலங்கையின் ஐடி பதிவு செயல்முறையைத் தனிப்பயனாக்க வடிவமைக்கப்பட்டுள்ளது.
-
-இருப்பினும், டிஜிட்டல் ஐடி இப்போது வேகமாக உருவாகி வருவதாலும், பாதுகாப்பான மற்றும் திறமையான ஐடி தளத்தை ஆதரிப்பதில் முக்கிய பங்கு வகிப்பதாலும், மாடுலர் ஓப்பன் சோர்ஸ் ஐடென்டிட்டி பிளாட்ஃபார்ம் (MOSIP) போன்ற ஒரு அமைப்பு அவசியம்.
-
-◼️
-
-[Data](articles/d54e5a79.json)
-
----
-
-### தலவாக்கலையில் மரம் முறிந்து விழுந்ததால் மின்சாரம் துண்டிப்பு
-
-*2025-07-21 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220556) · `ta`
-
-தலவாக்கலை பகுதியில், அட்டன் இருந்து சென்கிளேயர் வரை செல்லும் 33,000 வொட் உயர் மின்னழுத்த மின்சாரக் கம்பியின் மீது மரம் முறிந்து விழுந்ததால் பெரும் சேதம் ஏற்பட்டுள்ளது.
-
-இதனால் அப்பகுதிகளில் மின் தடை ஏற்பட்டுள்ளதாக அட்டன் மின்சார வாடிக்கையாளர் சேவை மையத்தின் மின்சார கண்காணிப்பாளர் நிமல் சமரக்கோன் தெரிவித்துள்ளார்.
-
-மத்திய மலைநாட்டில் மேற்கு சரிவுகளில் கடும் மழை மற்றும் காற்று வீசி வருவதால் ஞாயிற்றுக்கிழமை (20) இரவு இந்த சம்பவம் இடம் பெற்றுள்ளது.
-
-மரத்தை வெட்டி அகற்றி சேதமடைந்த மின்சார உள்கட்டமைப்பை மீட்டெடுக்கும் முயற்சியும் மழையால் தடைப்பட்டுள்ளது.
-
-டெவோன் பகுதி மற்றும் பத்தனை ஸ்ரீபாத கல்வி நிறுவனம் உட்பட பல பகுதிகளை மின்சாரம் இல்லாமல் செய்துள்ளது என சமரகோன் தெரிவித்துள்ளார்.
-
-நிலைமைகள் சீரானதும் மீன் சாரத்தை வழமைக்கு கொண்டுவர  அதிகாரிகள் தயாராக இருப்பதாகவும் அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/bba3647c.json)
-
----
-
-### Sri Lanka sees foreign buying in rupee bonds for second straight week
-
-*2025-07-21 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-for-second-straight-week-231679/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for the second straight week amid U.S. President Donald Trump’s push for steep new tariffs on European Union products.
-
-Foreign investors bought 8.57 million dollars worth of government securities in the week ended on July 17, extending the total inflow to 14.22 million dollars in the last two weeks. The island nation saw net offshore selling for the three straight weeks, Central Bank data showed.
-
-Foreign investors bought 2,570 million rupees (8.57 million dollars) worth rupee bonds in the week.
-
-Global investors pulled money out of equity funds in the week through July 16 as Trump’s tariff threats and an inflation report indicating an increase in U.S. consumer prices, dampened risk sentiment.
-
-Investors withdrew a net $5.3 billion from global equity funds during the week, Reuters reported.
-
-...
-
-[Data](articles/62cf9990.json)
-
----
-
-### Japan faces rice shortage as South Korea battles oversupply
-
-*2025-07-21 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110695/japan-faces-rice-shortage-as-south-korea-battles-oversupply) · `en`
-
-Japan is grappling with rice shortages and price hikes, forcing it to ramp up imports.
-
-Just across the sea, South Korea is facing the opposite problem — an overwhelming surplus that has driven prices so low, some regions are practically giving rice away.
-
-As shortages and surpluses hit wallets and livelihoods, the instability of rice supply could have an impact far beyond the dining table, said observers.
-
-Farmer Park Geun Sik spent his life working the land in Haenam, a farming town in South Jeolla province, about 330km south of Seoul.
-
-When he started, everything from planting seedlings to threshing rice was done by hand. Rice was so scarce that there were designated no-rice days banning its sale.
-
-Then, machines arrived and high-yield rice varieties were introduced as South Korea embarked on a drive for self-sufficiency.
-
-Like most farmers in South Korea, Park is a member of the National Agricultural Cooperative Federation Nonghyup.
-
-...
-
-[Data](articles/84f91c54.json)
 
 ---

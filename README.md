@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 18:09:13**
+As of **2025-07-22 18:32:30**
 
 ## Newspaper Stats
 
-*Scraped **66,144** Articles*
+*Scraped **66,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 4,041
 economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,347
+adalk | 6,348
 adaderanalk | 8,106
-tamilmirrorlk | 9,510
+tamilmirrorlk | 9,511
 virakesarilk | 11,020
 adaderanasinhalalk | 11,369
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,369
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,144 articles have been extended.
+61,973 (93.7%) of 66,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### ’’கோட்டா கோ கம’’ தாக்குதல் வழக்கு: தென்னகோன் சந்தேக நபர்
+
+*2025-07-22 18:11:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டா-கோ-கம-தாக்குதல்-வழக்கு-தென்னகோன்-சந்தேக-நபர்/175-361546) · `ta`
+
+'கோட்டா கோ கம' மீதான தாக்குதலில் மேல் மாகாணத்திற்குப் பொறுப்பான மூத்த டிஐஜியாகப் பணியாற்றிய முன்னாள் ஐஜிபி தேசபந்து தென்னகோனை சந்தேக நபராக பெயரிடப்பட்டுள்ளார்.
+
+தேசபந்து தென்னகோனை சந்தேக நபராகப் பெயரிடுமாறு சட்டமா அதிபர் பிறப்பித்த கடிதத்தை ரத்து செய்து, மேல்முறையீட்டு நீதிமன்றம் தீர்ப்பளித்திருந்தது.
+
+அந்த தீர்ப்பை அமல்படுத்துவதை நிறுத்தி வைத்து உயர் நீதிமன்றம் இடைக்காலத் தடை உத்தரவை இன்று (22)பிறப்பித்துள்ளது
+
+◼️
+
+[Data](articles/cd7c714a.json)
+
+---
 
 ### முன்னாள் ஜனாதிபதிகளுக்கான சிறப்புரிமைகளை இரத்து செய்யும் யோசனைக்கு அமைச்சரவை அங்கீகாரம்
 
@@ -256,6 +272,24 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 
 ---
 
+### වන සංරක්ෂන අධ්‍යක්ෂක ජනරාල් ධුරයට පාලම කුඹුර මහතා පත්කරයි
+
+*2025-07-22 16:45:10* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂන-අධ්‍යක්ෂක-ජනරාල්-ධුරයට-පාලම-කුඹුර-මහතා-පත්කරයි/11-417446) · `si`
+
+පුරප්පාඩුව පැවති, වන සංරක්ෂණ දෙපාර්තමේන්තුවෙි වන සංරක්ෂන අධ්‍යක්ෂක ජනරාල් ධුරයට වන සංරක්ෂණ දෙපාර්තමෙින්තුවෙි අතිරේඛ වන සංරක්ෂක ජනරාල් (වන ආරක්ෂණ, මෙහෙයුම්, හා කළමණාකරන) ලෙස කටයුතු කරන ඩබ්ලිව්.ඩබ්ලිව්.එම්.පී.එස්.සී පාලම කුඹුර මහතා වහාම ක්‍රියාත්මක වන පත්කර තිබෙි.
+
+විෂයභාර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳි මහතා, පුරප්පාඩු වු මෙම තනතුර සදහා ඩබ්ලිව්.එම්.පී.එස්.සී පාලම කුඹුර මහතාගේ නම කැබිනට් මංඩලයට යෝජනා කිරිමෙන් පසු, කැබිනට් මංඩලයේ අනුමැතිය ඒ සදහා හිමිව ඇත.
+
+වන සංරක්ෂණ දෙපාර්තමේන්තුවෙි දීර්ඝ කාලයක් සේවය කර ඇති ඒ මහතා  ශ්‍රී ලංකා විද්‍යාත්මක සේවයේ විශේෂ සේවයේ නිළධාරියෙකි.
+
+වන සංරක්ෂණ දෙපාර්තමෙින්තුවෙි, වන සංරක්ෂක අධ්‍යක්ෂක ජනරාල් වරයා ලෙස කටයුතු කල ඊ.ඒ.පී. නිශාන්ත එදිරිසිංහ මහතා, විශ්‍රාම ගැනීමෙන් පසු ඇති පුරප්පාඩුව සදහා විෂයභාර ඇමතිවරයා විසින් මෙම පත්වීම සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/0461b8b3.json)
+
+---
+
 ### Asgiri Anunayake Thero’s remains to lie in state until Thursday
 
 *2025-07-22 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110739/asgiri-anunayake-theros-remains-to-lie-in-state-until-thursday-) · `en`
@@ -446,7 +480,7 @@ Turnover marginally rose to 5.9 billion rupees; while the share volume was 203,8
 
 The ASPI was pushed up by DFCC which ended 8.75 rupees stronger at 135.50; NDB which rose 3.00 rupees to 127.50; Access Engineering which ended 1.70 rupees up at 61.90; HNB which moved 1.75 rupees up to 357.75; and Lanka Ashok Layland which closed 334.75 rupees higher at 2,534.50.
 
-Sri Lanka is set to have another round of tariff talks this week, after one round of discussions, to reduce a Trump tariff of 30 percent,  official sources said before a deadline of August 01, as other South Asian nations also try to do the same.
+Sri Lanka is set to have another round of tariff talks this week, after one round of discussions, to reduce a Trump tariff of 30 percent, official sources said before a deadline of August 01, as other South Asian nations also try to do the same.
 
 Sri Lanka to have another round of Trump tariff talks with US after progress
 
@@ -1739,41 +1773,5 @@ Naval and fishing communities are urged to stay updated with future forecasts is
 ◼️
 
 [Data](articles/0f3f6a36.json)
-
----
-
-### தோட்டத் தொழிலாளர்களின் சம்பளம்: சபையில் சர்ச்சை
-
-*2025-07-22 10:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தோட்டத்-தொழிலாளர்களின்-சம்பளம்-சபையில்-சர்ச்சை/76-361508) · `ta`
-
-இன்று சமர்ப்பிக்கப்படும் சட்டமூலத்தின் ஊடாக ஆகக் குறைந்த சம்பளம் அதிகரிக்கப்பட்டுள்ளது. இந்த வருடம் டிசம்பர் மாதம் இன்னும் அதிகரிக்கும் இது நல்ல விஷயம் என்றாலும், தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பில் இந்த சட்டமூலத்தில் எவ்விதமான பரிந்துரைகளும் முன்வைக்கப்படவில்லை என்று குற்றஞ்சாட்டிய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, எமது அணியின் உறுப்பினர்கள் திருத்தங்களை சமர்ப்பிப்பர் என்றார்.
-
-பாராளுமன்றத்தில் இன்று (22) செவ்வாய்க்கிழமை  நடைபெற்ற வாய்மூல விடைக்கான வினாக்கள் நேரத்தில், குறுக்கு கேள்வியை எழுப்பிய சஜித் பிரேமதாச, எமது அணியின் பாராளுமன்ற உறுப்பினர்களான மனோ கணேசன், ராதாகிருஷ்ணன் மற்றும் திகாம்பரம் ஆகியோரே திருத்தங்களை சமர்ப்பிப்பர் அது தொடர்பில் கவனம் செலுத்துமாறு கோரினார்.
-
-எனினும், வாய்மூல விடைக்கான வினாக்களுக்கு பதிலளித்து கொண்டிருந்த ​அமைச்சர், தோட்டத் தொழிலாளர்களுக்கு சம்பளம் போதாது என்பதை நாங்கள் அறிவோம். எனினும், அந்த தரப்பினர் சம்பள நிர்ணய சபைக்கு உள்ளே வருகின்றனர். ஆகையால், சம்பள அதிகரிப்பு தொடர்பில் பேச்சுவார்த்தை நடைபெறுகிறது என்றார்.
-
-...
-
-[Data](articles/5048af79.json)
-
----
-
-### Ex-LTTE member arrested with T-56 firearm in Peliyagoda
-
-*2025-07-22 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110718/ex-ltte-member-arrested-with-t-56-firearm-in-peliyagoda) · `en`
-
-A 30-year-old individual has been arrested in Peliyagoda by the Kiribathgoda Police last evening (21), based on a tip-off.
-
-During the arrest, police recovered a T-56 firearm, a magazine containing 30 rounds of ammunition, and 5.56 grams of the drug known as ‘Ice’ (crystal methamphetamine) in the suspect’s possession.
-
-The suspect is a former member of the LTTE who was subsequently rehabilitated by the military, said Ada Derana reporter.
-
-The suspect, a resident of Jaffna, is believed by police to have brought the firearm with the intent to commit a crime.
-
-Further investigations are currently being conducted by the Kiribathgoda Police.
-
-◼️
-
-[Data](articles/7bf8a328.json)
 
 ---

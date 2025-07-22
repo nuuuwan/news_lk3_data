@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 13:06:37**
+As of **2025-07-22 13:19:35**
 
 ## Newspaper Stats
 
@@ -80,7 +80,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මහින්දගේ ආරක්ෂාව ගැන ආණ්ඩුව වගකියනවා ද?
+### මහින්දගේ ආරක්ෂාව ගැන ආණ්ඩුව වග කියනවාද?
 
 *2025-07-22 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212509) · `si`
 
@@ -1322,9 +1322,7 @@ This year’s milestone event is expected to bring together leading business lea
 
 By enhancing understanding of effective political skills, leaders can foster healthier execution dynamics and improve overall governance
 
-Much is being spoken about the inability of the current Government to deliver what they promised. Walk the talk where primarily they spoke a focused “different” journey towards economic recovery, crime busting within two weeks and a clean Sri Lanka with discipline, justice, fair play and eco-friendly practices resulting in a breath of fresh air and hope for all.
-
-None of the above promise seems to be worked on in a strategic manner resulting in increasing criticism that the Government consists of talkers only with an “Opposition mindset” sans progressive action.
+The management skills of politicians play a critical role in shaping a country’s governance, law and order, and overall progress. When politicians lack effective management abilities, the ramifications can be extensive, leading to diminished morale within Government institutions, ineffective communication, and poor decision-making. This environment not only hampers productivity and public service delivery but also contributes to widespread disillusionment among citizens, who may feel their leaders are failing to meet their needs and expectations
 
 ...
 

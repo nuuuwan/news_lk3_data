@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 23:05:48**
+As of **2025-07-22 23:20:41**
 
 ## Newspaper Stats
 
-*Scraped **66,179** Articles*
+*Scraped **66,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,113
-tamilmirrorlk | 9,517
+tamilmirrorlk | 9,519
 virakesarilk | 11,028
-adaderanasinhalalk | 11,375
+adaderanasinhalalk | 11,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,179 articles have been extended.
+61,973 (93.6%) of 66,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### මාරවිල වෙඩිතැබීමක්
+
+*2025-07-22 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212534) · `si`
+
+පොලීසිය පවසන්නේ නිවසක් ඉදිරිපිට සිටි කාන්තාවට මෙලෙස වෙඩි තැබීම සිදුකර ඇති බවය.
+
+වෙඩිතැබීම සිදුකර අවස්ථාවේදී ඒ් අසල සිටි 10 හැවිරිදි කුඩා දරුවෙකුටද තුවාල සිදුව ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/3571a480.json)
+
+---
+
+### செம்மணி மனித  புதைகுழி  தொடர்பில் இந்திய ஊடகத்தின் செய்தி
+
+*2025-07-22 23:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனித-புதைகுழி-தொடர்பில்-இந்திய-ஊடகத்தின்-செய்தி/175-361567) · `ta`
+
+செம்மணி மனித புதைகுழி (mass grave) பற்றிய செய்தி தற்போது பெரும் பேசுபொருளாகியுள்ள நிலையில், இந்திய ஊடகங்களும் இந்த விடயத்தை உலகறியச்செய்கின்றன.
+
+அந்த வகையில் இந்திய ஊடகம் ஒன்றில் செம்மணி பற்றிய செய்தியை இங்கே பார்ப்போம்...
+
+யாழ்ப்பாணத்தின் செம்மணி கிராமம் மீண்டும் சர்வதேச கவனத்தை ஈர்த்துள்ளது. கால் நூற்றாண்டுக்கும் மேலாக புதைந்து கிடந்த மனித உரிமை மீறல்களின் கோர முகத்தை வெளிப்படுத்தும் ஒரு மனித புதைகுழி (mass grave), இலங்கையின் குற்றவியல் நீதி அமைப்பின் தோல்விகளை மீண்டும் உலகறியச் செய்துள்ளது.
+
+2025 பிப்ரவரியில், செம்மணியிலுள்ள, இந்து மயானத்திற்கு அருகில் கட்டுமானப் பணியாளர்கள் திடீரென மனித எலும்பு கூடுகள் வெளியே வந்ததை பார்த்து அதிர்ந்து போனார்கள்.
+
+இதையடுத்து, நீதிமன்றம் இதில் தலையிட்டது. மேலதிக அகழ்வாராய்ச்சிக்கு உத்தரவிட்டது. தடயவியல் தொல்பொருள் ஆய்வாளர் பேராசிரியர் ராஜ் சோமதேவா தலைமையிலான குழுவினர், ஜூன் 2 ஆம் திகதி 19 எலும்புக்கூடுகளை கண்டுபிடித்தனர்.
+
+...
+
+[Data](articles/456de54a.json)
+
+---
+
+### 1000 பெண்களுடன் உடலுறவு : இளைஞனுக்கு ஏற்பட்ட மோசமான நிலை
+
+*2025-07-22 22:57:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1000-பெண்களுடன்-உடலுறவு-இளைஞனுக்கு-ஏற்பட்ட-மோசமான-நிலை/50-361565) · `ta`
+
+சுமார் 1000க்கும் மேற்பட்ட பெண்களுடன் உடலுறவு கொண்டதாகப் பிரிட்டனைச் சேர்ந்த ஒருவர் கூறியுள்ளது சமூக வலைத்தளங்களில் பேசுபொருள் ஆகியுள்ளது. இருப்பினும், தான் செய்ததை நினைத்து வருந்துவதாகச் சொல்லும் அவர், இந்த தவறை மற்றவர்கள் யாரும் செய்ய வேண்டாம் என்று எச்சரிக்கிறார்.
+
+பிரிட்டன் நாட்டில் தெற்கு லண்டனைச் சேர்ந்தவர் 31 வயதான பென்னி ஜேம்ஸ். இவர் கடந்த 10 வருடங்களாக ஒவ்வொரு வாரமும் வெவ்வேறு பெண்களுடன் இருந்துள்ளார்.
+
+இதை அவரே வெளிப்படையாகக் கூறியிருக்கிறார். கடந்த 10 ஆண்டுகளாக இதுபோல தான் ஏகப்பட்ட பெண்களுடன் தனிமையில் இருந்ததாக அவர் குறிப்பிடுகிறார். முன்பு இது உற்சாகமாக இருந்தது போலவே தோன்றியதாகவும் அவர் குறிப்பிடுகிறார்.
+
+ஆனால், காலம் செல்லச் செல்ல அது ஒருவித வெறுப்பைக் கொடுத்துள்ளது. இப்போது அது தனிமை மற்றும் சோகத்தையே அளிப்பதாக பென்னி ஜேம்ஸ் குறிப்பிடுகிறார். இது தொடர்பாக பென்னி மேலும் கூறுகையில்,
+
+...
+
+[Data](articles/765be989.json)
+
+---
 
 ### அம்பாறையில் தமிழர்களுக்கு எதிரான இனப்படுகொலை : வீரமுனையில் நிலத்தை தோண்டினால் மனித எச்சங்கள் கூடுதலாக வரும் - கவீந்திரன் கோடீஸ்வரன்
 
@@ -1733,65 +1785,5 @@ Discussions have been held pertaining to “The Program on Artificial Intelligen
 ...
 
 [Data](articles/c55d8394.json)
-
----
-
-### Cabinet Spokesman confirms President’s nomination for next CJ
-
-*2025-07-22 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110727/cabinet-spokesman-confirms-presidents-nomination-for-next-cj) · `en`
-
-President Anura Kumara Dissanayake has nominated Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka, Cabinet Spokesman Minister Dr. Nalinda Jayatissa has confirmed.
-
-Speaking during the weekly Cabinet media briefing held at the Department of Government Information today (22), Minister Jayatissa said since Justice Preethi Padman Surasena one of the most senior justices in the Supreme Court, the President has nominated his name.
-
-Accordingly, the Constitutional Council will now consider the nomination of the President.
-
-The Constitutional Council is scheduled to convene tomorrow (23) under the leadership of Speaker of House Dr. Jagath Wickramaratne.
-
-During the meeting, attention will be drawn towards the recommendations of the President regarding the appointment of a new Chief Justice.
-
-Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
-
-◼️
-
-[Data](articles/b9847ecf.json)
-
----
-
-### Sri Lanka to send seasonal workers to Boseong, South Korea
-
-*2025-07-22 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-send-seasonal-workers-to-boseong-south-korea-232130/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved signing an agreement with the Boseong local government of South Korea to send seasonal workers for agricultural work, minister Nalinda Jayatissa said.
-
-“As a result of the discussions held with the Bosong Local Government of Korea, it has been agreed to recruit seasonal workers from Sri Lanka and enter into a Memorandum of Understanding for this purpose,” Jayatissa told reporters.
-
-The proposed MoU will provide an opportunity for Sri Lankans to work in agricultural villages in Boseong Province for up to a maximum of 8 months under the seasonal worker program, or the E8 visa scheme.
-
-Boseong County is known for its extensive green tea fields. (Colombo/July22/2025)
-
-◼️
-
-[Data](articles/55ac068b.json)
-
----
-
-### பூச்சிகள் கலந்த உணவுகள் விற்பனை – கொள்ளுப்பிட்டி உணவக உரிமையாளருக்கு 75 ஆயிரம் ரூபா தண்டப்பணம்!
-
-*2025-07-22 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220606) · `ta`
-
-பூச்சிகள் கலந்த உணவுகளை விற்பனை செய்ததாக குற்றம் சாட்டப்பட்டுள்ள கொழும்பு கொள்ளுப்பிட்டி பகுதியில் உள்ள உணவகமொன்றின் உரிமையாளருக்கு எதிராக 75 ஆயிரம் ரூபா தண்டப்பணம் விதித்து மாளிகாக்கந்த நீதவான் லொசனா அபேவிக்ரம வீரசிங்க உத்தரவு பிறப்பித்துள்ளார்.
-
-குறித்த உணவக உரிமையாளருக்கு ஐந்து ஆண்டுகளுக்கு ஒத்திவைக்கப்பட்ட மூன்று மாத சிறைத்தண்டனையையும் விதித்து நீதவான் உத்தரவிட்டுள்ளார்.
-
-நுகர்வோருக்கு 60 ஆயிரம் ரூபா  இழப்பீடு வழங்க வேண்டும் எனவும் உணவக உரிமையாளருக்கு உத்தரவிட்டுள்ளார்.
-
-கொழும்பு கொள்ளுப்பிட்டி பகுதியில் உள்ள உணவகமொன்றில் வாங்கிய உணவில் பூச்சிகள் கலந்திருப்பதாக கொழும்பு கொள்ளுப்பிட்டி பொது சுகாதார பரிசோதகருக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் குறித்த உணவகம் மீது நடவடிக்கை எடுக்கப்பட்டது.
-
-இதனையடுத்து குறித்த உணவக உரிமையாளர், பொது சுகாதார பரிசோதகர்  இந்திக பிட்டவெல தலைமையில் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/fe820d9b.json)
 
 ---

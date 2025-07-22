@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 17:30:47**
+As of **2025-07-22 17:52:39**
 
 ## Newspaper Stats
 
-*Scraped **66,131** Articles*
+*Scraped **66,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,129 @@ newsfirstlk | 363
 dbsjeyarajcom | 589
 colombotelegraphcom | 674
 bbccomsinhala | 677
-economynextcom | 4,039
 islandlk | 4,041
+economynextcom | 4,044
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,346
+adalk | 6,347
 adaderanalk | 8,105
-tamilmirrorlk | 9,508
+tamilmirrorlk | 9,510
 virakesarilk | 11,018
-adaderanasinhalalk | 11,367
+adaderanasinhalalk | 11,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,131 articles have been extended.
+61,973 (93.7%) of 66,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### அஸ்வெசும  : காலத்தை நீட்டிக்க தீர்மானம்
+
+*2025-07-22 17:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-காலத்தை-நீட்டிக்க-தீர்மானம்/175-361543) · `ta`
+
+அஸ்வெசும நலத்திட்டத்தின் இரண்டாம் கட்டம் தொடர்பான மேன்முறையீடுகள் மற்றும் ஆட்சேபனைகளை ஏற்றுக்கொள்வதற்கான காலத்தை இந்த மாதம் 31 ஆம் திகதி வரை  நீட்டிக்க நலன்புரி நன்மைகள் சபை தீர்மானித்துள்ளது.
+
+இதுவரை அஸ்வெசும இரண்டாம் கட்டத்திற்காக 39,707 மேன்முறையீடுகளும் 3,183 ஆட்சேபனைகளும் பெறப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/01a6dd02.json)
+
+---
+
+### දේශබන්දුගේ සිද්ධියක් සම්බන්ධව අභියාචනාධිකරණය දුන් තීන්දුවක් ශ්‍රේෂ්ඨාධිකරණය අත්හිටුවයි
+
+*2025-07-22 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212526) · `si`
+
+2022 වසරේ මැයි මස 09 වනදා ගාලුමුවදොර "ගෝඨා ගෝ ගම" අරගලයට පහර දීමේ සිද්ධියේ සැකකරුවකු ලෙස එවක බස්නාහිර පළාත භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙස කටයුතු කළ වත්මන් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා නම් කරන ලෙස නීතිපතිවරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යැවූ ලිපියක් බල රහිත කරමින් අභියාචනාධිකරණය විසින් මීට පෙර දුන් තීන්දුවක් ක්‍රියාත්මක කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් අද (22) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+නීතිපතිවරයා විසින් ඉදිරිපත් කළ අභියාචනයක් විභාගයට ගැනීමට අවසර දෙමින් ජනක් ද සිල්වා, සෝභිත රාජකරුණා සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රී පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+මෙම පෙත්සම අද සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී මෙම නඩුකරයේ වග උත්තරකරුවන්ගේ නාමාවලිය සංශෝධනය වී නොමැති බවට දේශබන්දු තෙන්නකෝන් මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා විසින් මතු කළ මූලික විරෝධතා ද අධිකරණය විසින් ප්‍රතික්ෂේප කරන ලදී.
+
+...
+
+[Data](articles/c843c863.json)
+
+---
+
+### සේවකයින්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත වැඩි ඡන්ද 181කින් සම්මතයි
+
+*2025-07-22 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212525) · `si`
+
+සේවකයින්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත තෙවන වර කියවීම අද (22) පාර්ලිමේන්තුවේදී විශේෂ බහුතරයකින් සම්මත කර ගැනුණි.
+
+ඒ අනුව කථානායකවරයා සභාවට දැනුම්දුන්නේ සේවකයින්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සංශෝධන සහිතව වැඩි ඡන්ද 181කින් සම්මත වූ බවය.
+
+◼️
+
+[Data](articles/129f51d2.json)
+
+---
+
+### Sri Lanka govt sees spending on capital investments accelerating “soon”
+
+*2025-07-22 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-sees-spending-on-capital-investments-accelerating-soon-232152/) · `en`
+
+ECONOMYNEXT – Sri Lanka government hopes the island nation’s capital investment projects will take off soon with the delays being addressed, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+The government in its maiden budget allocated a record Rs.1,315 billion for 2025.
+
+However, only over Rs. 200 billion worth projects or 15 percent of the total allocated capital investments have been approved and the related procurements are being processed, government officials have said.
+
+“There was a delay in the procurement process and lack of technical officers,” Minister Jayatissa told EconomyNext.
+
+“Now they are addressed and we hope the projects will accelerate soon. You will see it becoming 60 percent soon in no time.”
+
+Sri Lanka’s procurement process takes around six months and thus most capita; investment projects face an inevitable delay. The full-year budget for 2025 was passed in April due to  a government change in September last year.
+
+...
+
+[Data](articles/a17a3408.json)
+
+---
+
+### வேதன திருத்தத்துக்கு எதிர்ப்பு இல்லை: 182 பேர் ஆதரவு
+
+*2025-07-22 17:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேதன-திருத்தத்துக்கு-எதிர்ப்பு-இல்லை-182-பேர்-ஆதரவு/175-361541) · `ta`
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) அன்று இடம்பெற்ற வேலையாட்களின் வரவு-செலவுத் திட்ட நிவாரணப்படி, திருத்த சட்டமூலம் மற்றும் வேலையாட்களின் தேசிய குறைந்த பட்ச வேதன திருத்த சட்டமூலம் நிறைவேற்றப்பட்டது.
+
+இந்த சட்டமூலத்துக்கு ஆதரவாக 182 வாக்குகள் அளிக்கப்பட்டன. எதிராக  எந்தவொரு வாக்கும் அளிக்கப்படவில்லை. வாக்களிப்பில் கலந்துகொள்ளாதவர்களின் எண்ணிக்கையும்பூஜ்ஜியமாகும்
+
+◼️
+
+[Data](articles/009d9f90.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-07-22 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-232179/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.70/75 to the US dollar in the spot market Tuesday, from 301.75/85 the previous day, while bond yields were broadly steady, dealers said.
+
+Rs. 111,000 million Treasury bills are to be issued through an auction on Wednesday (23).
+
+A bond maturing on 15.12.2026 closed at 8.10/20 percent, up from 8.10/19 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/56, up from 8.44/56 percent.
+
+A bond maturing on 15.10.2028 closed at 8.95/9.03 percent, down from 8.95/9.06 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.48/53 percent.
+
+A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 percent. (Colombo/July22/2025)
+
+◼️
+
+[Data](articles/ffddf968.json)
+
+---
 
 ### අස්ගිරි අනුනායක හිමිගේ දේහය උපාලි අනුස්මරණ ශාලාවේ තැම්පත් කෙරේ
 
@@ -127,6 +231,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4e75df43.json)
+
+---
+
+### මල්වතු පාර්ශවයේ දක්ෂිණ ලංකාවෙ ප්‍රධාන අධිකරණ සංඝනායක හිමි ධුරයෙන් නෙරපයි
+
+*2025-07-22 16:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-පාර්ශවයේ-දක්ෂිණ-ලංකාවෙ-ප්‍රධාන-අධිකරණ-සංඝනායක-හිමි-ධුරයෙන්-නෙරපයි/11-417445) · `si`
+
+මල්වතු මහා විහාර පාර්ශ්වයේ දක්ෂිණ ලංකාවේ සමථ බලසම්පන්න ප්‍රධාන අධිකරණ සංඝනායක ධුරය හෙබවූ තල්පේ අරියජෝති හිමියන් එම ධුරයෙන් ඉවත් කිරීමට මල්වතු මහා විහාර පාර්ශ්වයේ මහානායක ස්වාමීන්ද්‍රයන් වහන්සේ ප්‍රමුඛ විංසත් වාර්ගික කාරක සංඝ සභාව තීරණය කොට තිබේ.
+
+ඒ පිළිබඳව වූ නිවේදනය මල්වතු මහානායක හිමියන්ගේ උපදෙස් පරිදි මල්වතු පාර්ශවයේ මහ ලේඛකාධිකාරී පූජ්‍ය පහමුණේ සුමංගල හිමියන් විසින් නිවේදනය කොට තිබේ.
+
+මින් ඉදිරියට තල්පේ අරියජෝති ස්ථවිර පාදයන් වහන්සේ දක්ෂිණ ලංකාවේ සමථ බල සම්පන්න ප්‍රධාන අධිකරණ සංඝනායක ධූරය සම්බන්ධ වගකීම් නොදරන බවද අදාල නිවේදනයේ සඳහන් වේ.
+
+නවසීලන්ත ජාතික කාන්තාවක් මුල් කරගනිමින් ඇති වූ ආන්දෝලනාත්මක සිදුවීමක් මුල් කර ගනිමින් උන්වහන්සේ සම්බන්ධයෙන් ඉදිරිපත් වූ චෝදනා සැලකිල්ලට ගෙන මෙම තීරණය ගෙන තිබෙන අතර ඒ සම්බන්ධයෙන් මල්වතු පාර්ශවයේ මහ ලේඛකාධිකාරී පූජ්‍ය පහමුණේ සුමංගල හිමියන් මාධ්‍ය නිවේදනයක්ද නිකුත් කොට තිබේ.
+
+◼️
+
+[Data](articles/0e7fe4e2.json)
 
 ---
 
@@ -247,6 +369,28 @@ The UN said on Monday it was receiving reports of malnourished people arriving a
 ◼️
 
 [Data](articles/5b242b84.json)
+
+---
+
+### Sri Lanka stocks close up 0.25 as US tariff talks set to resume
+
+*2025-07-22 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-25-as-us-tariff-talks-set-to-resume-232149/) · `en`
+
+ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) moved 0.25 percent higher hitting a fresh high, data on its site showed.
+
+The index rose 47.85 points, to 19,091.93, on Tuesday; while the S&P SL20 index of more liquid stocks climbed 0.19 percent, or 10.63 points, to close at 5,657.62.
+
+Turnover marginally rose to 5.9 billion rupees; while the share volume was 203,830,809.
+
+The ASPI was pushed up by DFCC which ended 8.75 rupees stronger at 135.50; NDB which rose 3.00 rupees to 127.50; Access Engineering which ended 1.70 rupees up at 61.90; HNB which moved 1.75 rupees up to 357.75; and Lanka Ashok Layland which closed 334.75 rupees higher at 2,534.50.
+
+Sri Lanka is set to have another round of tariff talks this week, after one round of discussions, to reduce a Trump tariff of 30 percent,  official sources said before a deadline of August 01, as other South Asian nations also try to do the same.
+
+Sri Lanka to have another round of Trump tariff talks with US after progress
+
+...
+
+[Data](articles/2de6aec3.json)
 
 ---
 
@@ -555,6 +699,24 @@ He said that the Cabinet of Ministers has also granted approval to the proposal 
 ...
 
 [Data](articles/68c36236.json)
+
+---
+
+### Preethi Padman Surasena nominated as Sri Lanka chief justice
+
+*2025-07-22 14:42:00* · [`economynextcom`](https://economynext.com/preethi-padman-surasena-nominated-as-sri-lanka-chief-justice-232142/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Disanayake has submitted the name of Preethi Padman Surasena for chief justice to the Constitutional Council, minister Nalinda Jayatissa said.
+
+“Yes, the president has submitted Preethi Padman Surasena’s name to the constitutional council as chief justice,” Jayatissa said in response to a journalist’s question.
+
+Jayatissa said Surasena was a senior judge of the Supreme Court and someone who had worked in the justice system a long time, and that was why the president submitted his name, when asked about overlooking seniority.
+
+Justice Surasena chaired a panel appointed by parliament to investigate allegations against Inspector General of Police Deshabandu Tennakoon. (Colombo/Jul22/2025)
+
+◼️
+
+[Data](articles/bbbd61a9.json)
 
 ---
 
@@ -1607,167 +1769,5 @@ STEMI எனப்படும் தீவிர மாரடைப்பால
 ◼️
 
 [Data](articles/95fd9e23.json)
-
----
-
-### குருநாகலில் பாடசாலையிலிருந்து 30 பாம்புக் குட்டிகள் மீட்பு
-
-*2025-07-22 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220596) · `ta`
-
-குருநாகல் மாவட்டத்தில் போகமுவ மத்திய மகா வித்தியாலயத்தில், ஆரம்பப் பிரிவில் உள்ள வெளிப்புற வகுப்பறையில் இருந்து 30 பாம்புக்குட்டிகள், மூன்று பெரிய பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் மீட்கப்பட்டுள்ளன.
-
-குறித்த பகுதியில் பாம்புகள் தென்படுவதாக ஆசிரியர்கள் மற்றும் மாணவர்கள் புதிதாக நியமிக்கப்பட்ட அதிபருக்கு அறிவித்தனர்.
-
-இதனை தொடர்ந்து, கடந்த ஜூன் மாதம் 27 ஆம் திகதி அன்று கடமைகளைப் பொறுப்பேற்ற அதிபர் தலைமையில் சோதனை செய்யப்பட்டதில்  30 பாம்புக்குட்டிகள், மூன்று பெரிய பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் மீட்கப்பட்டுள்ளன.
-
-போகமுவ மத்திய மகா வித்தியாலயத்தில் தரம் 1 முதல் 13 வரை சுமார் 2,000 மாணவர்கள் கல்வி கற்று வருகின்றனர். அதில், 153 மாணவர்கள் ஆரம்ப பிரிவில் உள்ளனர்.
-
-◼️
-
-[Data](articles/291fa288.json)
-
----
-
-### Sri Lanka sets price control formula for drugs
-
-*2025-07-22 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-price-control-formula-for-drugs-232082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National Medicines Regulatory Authority (NMRA) has set formulae to control the prices of drugs, which it called maximum retail prices (MRP) and maximum ceiling prices (MCP).
-
-The prices will be reviewed every six months, unless the central bank steeply depreciates the currency.
-
-When plans were made to start price controls in 2015, analysts pointed out  that the solution was to bring an effective law to controls the central bank’s discretionary powers and take away its independence to create high inflation and depreciation.
-
-RELATED  Sri Lanka’s pharma control Neros fiddling while Colombo burns with falling rupee
-
-At the time the central bank was in initial stages of a single policy rate or targeting a mid-corridor rate with excess liquidity at the rupee was falling from 131 to the US dollar. Now the rupee is 300 and the central bank has been holding it there with broadly deflationary policy.
-
-...
-
-[Data](articles/072b8b59.json)
-
----
-
-### ஐஜிபி தென்னகோன் குற்றவாளி : சபாநாயகர்
-
-*2025-07-22 10:03:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஜிபி-தென்னகோன்-குற்றவாளி-சபாநாயகர்/175-361503) · `ta`
-
-ஐஜிபி தேசபந்து தென்னகோனை விசாரித்த குழு, குற்றச்சாட்டுகளில் அவர் குற்றவாளி என்று கண்டறிந்துள்ளதாக சபாநாயகர் ஜகத் விக்ரமரத்ன செவ்வாய்க்கிழமை (22) அறிவித்தார்.
-
-பாராளுமன்றம் விவாதித்து தீர்மானத்தை நிறைவேற்றும் திகதி பின்னர் அறிவிக்கப்படும் என்று சபாநாயகர் தெரிவித்தார்
-
-◼️
-
-[Data](articles/9f14c9b2.json)
-
----
-
-### “ஆண்கள் குறைந்ததால் பெண்கள் தனிமைப்படுவர்”
-
-*2025-07-22 09:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்கள்-குறைந்ததால்-பெண்கள்-தனிமைப்படுவர்/175-361502) · `ta`
-
-பெண்களை விட ஆண் மக்கள்தொகையில் தெளிவான குறைவு ஏற்பட்டுள்ளது என்று வயம்ப பல்கலைக்கழகத்தின் மூத்த பேராசிரியர் அமிந்தா மெட்சிலா பெரேரா  தெரிவித்தார்.
-
-இது தொழிலாளர் சக்திக்கும் சமூக முன்னேற்றத்திற்கும் ஒரு தடையாக உள்ளது, மேலும் ஏழை கிராமப்புற பெண்கள் தங்கள் திருமணங்களை கூட இழக்க நேரிடும் என்று அமிந்தா கூறினார்.
-
-புள்ளிவிவரங்களை ஆராய்ந்த பிறகு, அவர் இவ்வாறு தெரிவித்துள்ளதுடன் அவர் மேலும் கூறுகையில் ,
-
-1995 இல் நூறு பெண்களுக்கு 100.2 ஆண்கள் இருந்ததாக தகவல் இருந்தபோதிலும், 2024 இல் இது நூறு பெண்களுக்கு 93.7 ஆண்களாகக் குறைந்துள்ளது.
-
-பெண்களிடையே பிறப்புகள் அதிகரித்துள்ளன. பெண்களின் ஆயுட்காலம் அதிகரிப்பதே இதற்குக் காரணம். இளைஞர்கள் குடியேறும் போக்கு நாளுக்கு நாள் அதிகரித்து வருகிறது. கருவுறுதல் சதவீதம் குறைந்துள்ளது. இந்த பிறப்புகளில், பெரும்பான்மையானவை பெண்கள்.
-
-...
-
-[Data](articles/ee1738d9.json)
-
----
-
-### දේශබන්දු එල්ලවූ චෝදනාවලට වරදකරු වෙයි - පාර්ලිමේන්තු විමර්ශන කමිටුව
-
-*2025-07-22 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212501) · `si`
-
-ධුරයේ කටයුතු කිරීම අත්හිටවනු ලැබූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් නෙරපීම සඳහා ඔහු පිළිබඳ විමර්ශනය කිරීමට පත්කළ පාර්ලිමේන්තු පරීක්ෂණ කමිටුව නිර්දේශ කර ඇතැයි කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (22) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
-
-කථානායකවරයා ප්‍රකාශ කළේ, අදාළ කමිටු වාර්තාව තමාට ලැබුණු අතර, එමඟින් දේශබන්දු තෙන්නකෝන් මහතා ඔහුට එරෙහි චෝදනාවලට ඒකමතිකව වැරදිකරු කර ඇති බවය.
-
-මේ අතර, අදාළ වාර්තාව මුද්‍රණය කිරීමටත්, පාර්ලිමේන්තු වෙබ් අඩවියේ දැක්වීමටත් තීරණය විය.
-
-දේශබන්දු තෙන්නකෝන් මහතා සිදුකර ඇති බව කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතළ අන්දමින් භාවිත කිරීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තාවක් සකස් කිරීම සඳහා විශේෂ පරීක්ෂණ කමිටුවක් පසුගිය අප්‍රේල් මාසයේ දී පත්කරනු ලැබීය.
-
-එම කමිටුවේ සභාපතිවරයා ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පත්මන් සූරසේන මහතා කටයුතු කළේය.
-
-එහි සෙසු සාමාජිකයින් ලෙස විනිසුරු නීල් ඉද්දවෙල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරු කටයුතු කළහ.
-
-මෙම පරීක්ෂණ කමිටුව අවස්ථා 10කට වැඩි ගණනකදී රැස්වී සාක්ෂි සටහන් කර ගැනීම සිදුකර ගනු ලැබීය.
-
-...
-
-[Data](articles/1a3b7ced.json)
-
----
-
-### வகுப்பறையில்  30 பாம்புக் குட்டிகள்,  55 பாம்பு முட்டைகள் மீட்பு
-
-*2025-07-22 09:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வகுப்பறையில்-30-பாம்புக்-குட்டிகள்-55-பாம்பு-முட்டைகள்-மீட்பு/175-361501) · `ta`
-
-பாடசாலையின் ஆரம்ப பிரிவில் உள்ள வெளிப்புற வகுப்பறையில் இருந்து 30 பாம்புக் குட்டிகள், மூன்று வயது வந்த பாம்புகள் மற்றும் 55 பாம்பு முட்டைகள் கண்டுபிடிக்கப்பட்டு அகற்றப்பட்டன.
-
-அதன்படி, அந்தப் பகுதியில் பாம்புகள் காணப்படுவதாக ஆசிரியர்கள் மற்றும் மாணவர்களிடமிருந்து வந்த புகாரைத் தொடர்ந்து, புதிதாக நியமிக்கப்பட்ட அதிபர் மற்றும் ஊழியர்களால் இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது.
-
-புதிய அதிபர் ஜூன் 27 அன்று கடமைகளைப் பொறுப்பேற்றார் மற்றும் எச்சரிக்கைகளின் அடிப்படையில் ஒரு ஆய்வைத் தொடங்கினார், இது கண்டுபிடிப்புக்கு வழிவகுத்தது.
-
-இதில் 1 முதல் 13 ஆம் வகுப்பு வரை உள்ள ஆரம்பப் பிரிவில் மட்டும் 153 மாணவர்கள் உள்ளனர். பாடசாலை நிர்வாகத்தின் விரைவான நடவடிக்கை குழந்தைகள் மற்றும் ஊழியர்களின் பாதுகாப்பை உறுதி செய்ய உதவியது.
-
-◼️
-
-[Data](articles/116c0cef.json)
-
----
-
-### දේශබන්දු සියලු චෝදනා වලට වැරදිකරු වෙයි - කමිටු තීරණය කථානායක පාර්ලිමේන්තුවට දැනුම් දෙයි
-
-*2025-07-22 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-සියලු-චෝදනා-වලට-වැරදිකරු-වෙයි---කමිටු-තීරණය-කථානායක-පාර්ලිමේන්තුවට-දැනුම්-දෙයි/11-417438) · `si`
-
-පොලිස්පති දේශබන්දු තෙන්නකොන් මහතාට එරෙහිව එල්ල වූ සියලු චෝදනා වලට වැරදි කරු බව ඒ සම්බන්ධයෙන් පත් කළ කමිටුව තීරණය කර ඇති බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
-
-යෝජනාව විවාදය කර සම්මත කරන දිනය ඉදිරියේදී දැනුම් දෙන බව ද ඔහු පැවසීය.
-
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් කර ඇතැයි කියන විෂමාචාර සහ සිය ධුරයේ බලතල බරපතල අන්දමින් අනිසි ලෙස යොදාගැනීම සම්බන්ධයෙන් විමර්ශනය කර වාර්තා කිරීමට  අදාළ කමිටුව පසුගියදා පත් කෙරිණි.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතාගේ සභාපතිත්වයෙන් සහ විනිසුරු නීල් ඉද්දවල සහ ජාතික පොලිස් කොමිෂන් සභාවේ සභාපති ලලිත් ඒකනායක යන මහත්වරුන්ගේ සාමාජිකත්වයෙන් පරීක්ෂණ පත් කෙරිණි.
-
-◼️
-
-[Data](articles/19f395fc.json)
-
----
-
-### இன்றைய சிந்தனைக்குரிய சித்திரம்...
-
-*2025-07-22 09:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-சித்திரம்/62-361500) · `ta`
-
-◼️
-
-[Data](articles/095bf9c1.json)
-
----
-
-### Sri Lanka police chief to be sacked on parliament panel findings
-
-*2025-07-22 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-chief-to-be-sacked-on-parliament-panel-findings-232056/) · `en`
-
-ECONOMYNEXT – A committee appointed by Sri Lanka’s Parliament has found that Inspector General of Police Deshabandu Tennakoon was guilty of misconduct and serious abuse of power and recommended his removal, speaker Jagath Wickramarathne said.
-
-It is the first time the parliament has acted against a police chief.
-
-“This marks a historic moment in our constitutional journey, the first time in the history of the Republic of Sri Lanka that such a Committee has submitted its findings recommending the removal of an Inspector General of Police under the provision of the law enacted by the Parliament,” Wickramarathne read out in parliament.
-
-“This committee has found unanimously that the officer in question is guilty of the allegations brought against him,”
-
-The committee comprised justices Padman Surasena and Neil Iddawela, and National Police Commission member Lalith Ekanayake.
-
-...
-
-[Data](articles/2962dea9.json)
 
 ---

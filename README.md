@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 15:09:17**
+As of **2025-07-22 15:23:23**
 
 ## Newspaper Stats
 
-*Scraped **66,102** Articles*
+*Scraped **66,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,342
 adaderanalk | 8,101
-tamilmirrorlk | 9,500
+tamilmirrorlk | 9,501
 virakesarilk | 11,013
-adaderanasinhalalk | 11,359
+adaderanasinhalalk | 11,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.8%) of 66,102 articles have been extended.
+61,973 (93.8%) of 66,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### උසස් ජාතික ඩිප්ලෝමා දෙකකට NVQ6 සහතිකය පිරිනැමීමට අනුමැතිය
+
+*2025-07-22 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212517) · `si`
+
+ශ්‍රී ලංකා උසස් තාක්ෂණ අධ්‍යාපන ආයතනය (SLIATE) විසින් පවත්වනු ලබන උසස් ජාතික ඩිප්ලෝමා පාඨමාලා දෙකක් සඳහා NVQ 6 මට්ටමේ සමානතා තත්ත්වය ප්‍රදානය කිරීමට අනුමැතිය හිමි වී තිබේ.
+
+ඒ ප්‍රමාණ සමීක්ෂණය පිළිබඳ උසස් ජාතික ඩිප්ලෝමාව (HNDQS) සහ උසස් ජාතික ඉංග්‍රීසි ඩිප්ලෝමාව (HNDE) පාඨමාලාව සඳහා බව දැනුම් දී ඇත.
+
+2025 ජූලි 8 වන දින පැවති අංක 2025/05/303 දරන තෘතියික හා වෘත්තීය අධ්‍යාපන (TVEC) කොමිෂන් සභා රැස්වීමේදී, ඉහත පාඨමාලා දෙක NVQ 6 මට්ටමේ ප්‍රමිතීන්ට අනුකූල බව තීරණය කර ඇති බව අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය විසින් දැනුම් දෙන ලදී.
+
+ඒ අනුව  ප්‍රමාණ සමීක්ෂණය පිළිබඳ උසස් ජාතික ඩිප්ලෝමාව සහ උසස් ජාතික ඉංග්‍රීසි ඩිප්ලෝමාව පාඨමාලා සාර්ථකව නිම කළ අයට NVQ 6 මට්ටමේ සමානතා සහතිකය නිකුත් කිරීම සඳහා රුපියල් 1000.00 ක ගාස්තුවක් සමඟ SLIATE අධ්‍යක්ෂ/විදුහල්පති/අධ්‍යක්ෂ ජනරාල් විසින් සහතික කරන ලද අවසන් සහතිකයේ පිටපතක් සමඟ තම ඉල්ලීම් එවිය හැකිය.
+
+◼️
+
+[Data](articles/129d6312.json)
+
+---
+
+### மனுஷவின் பிரத்தியேக செயலாளர் கைது
+
+*2025-07-22 15:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷவின்-பிரத்தியேக-செயலாளர்-கைது/175-361530) · `ta`
+
+முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் பிரத்தியேக செயலாளர் ஷான் யஹம்பத் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகளால் செவ்வாய்க்கிழமை (22) கைதுசெய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e0201390.json)
+
+---
 
 ### Govt responds to concerns over ex-President Mahinda Rajapaksa’s security
 
@@ -1777,53 +1807,5 @@ First Deputy Managing Director Gita Gopinath to Leave the IMF to Rejoin the Harv
 ...
 
 [Data](articles/aa2e72d8.json)
-
----
-
-### පාර්ලිමේන්තුව අද යළි රැස්වෙයි
-
-*2025-07-22 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212494) · `si`
-
-අද (22) සිට ලබන 25 වන දින දක්වා පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-සේවකයන්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සහ සේවකයන්ගේ ජාතික අවම වේතනය සංශෝධන පනත් කෙටුම්පත ඇතුළු පනත් කෙටුම්පත් 3ක් අද දිනයේ විවාදයට ගැනීමට නියමිතව තිබේ.
-
-හෙට (23) දිනයේ දී සමාගම් සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර අනිද්දා දිනයේ ශ්‍රී ලංකා විදුලි බල සංශෝධන පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
-
-මේ අතර ඉදිරි පාර්ලිමේන්තු සතිය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා විපක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම ඊයේ (21) පස්වරුවේ රැස්වුණි.
-
-මේ අතර හෙට දිනයේ දී ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස්වීමට නියමිතව තිබේ.
-
-කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස්වීමට නියමිත බව වාර්තා වේ.
-
-මෙහිදී නව අගවිනිසුරුවරයෙකු පත්කිරීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ යෝජනා පිළිබඳව අවධානය යොමුකිරීමට නියමිත බව සඳහන් ය.
-
-අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය ලබන 27 වන දින විශ්‍රාම යෑමට නියමිත අතර එම පුරප්පාඩුව සඳහා නව අගවිනිසුරුවරයෙකු පත්කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/4df3f903.json)
-
----
-
-### CEB workers to protest today against the Electricity Amendment Bill
-
-*2025-07-22 06:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110707/ceb-workers-to-protest-today-against-the-electricity-amendment-bill) · `en`
-
-Electricity workers have decided to stage a protest today against the new Sri Lanka Electricity (Amendment) Bill proposed by the government as part of the restructuring process of the electricity sector, including the Ceylon Electricity Board (CEB).
-
-The protest will be held this afternoon opposite the CEB Head Office, with workers reporting sick leave to participate, according to the Ceylon Electricity Workers Union.
-
-The Sri Lanka Electricity (Amendment) Bill is scheduled to be presented to Parliament for its second reading on Thursday (24).
-
-It has received approval from the Sectoral Oversight Committee on Infrastructure and Strategic Development.
-
-However, the electricity workers claim that the government is attempting to privatize the Ceylon Electricity Board through the proposed bill.
-
-To oppose the move, all CEB workers are expected to report sick leave and stage a protest in Colombo today, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers Union.
-
-...
-
-[Data](articles/5661139a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 09:01:37**
+As of **2025-07-22 09:33:52**
 
 ## Newspaper Stats
 
-*Scraped **66,010** Articles*
+*Scraped **66,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 4,031
 islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,336
-adaderanalk | 8,079
+adalk | 6,337
+adaderanalk | 8,080
 tamilmirrorlk | 9,477
-virakesarilk | 11,000
-adaderanasinhalalk | 11,340
+virakesarilk | 11,002
+adaderanasinhalalk | 11,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 66,010 articles have been extended.
+61,973 (93.9%) of 66,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### இந்தியாவில் 140 பயணிகளுடன் புறப்பட்ட விமானம் அவசரமாக தரையிறக்கம்
+
+*2025-07-22 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/220591) · `ta`
+
+இந்தியாவில் 140 பயணிகளுடன் சென்ற விமானம் திங்கட்கிழமை (21) மாலை அவசரமாக தரையிறக்கப்பட்டுள்ளது.
+
+கோவா மாநிலத்திலிருந்து புறப்பட்ட இண்டிகோ விமானமே தரையிறங்கும் கருவி தொடர்பான தொழில்நுட்ப எச்சரிக்கையைத் தொடர்ந்து இந்தூரில் உள்ள தேவி அஹில்யாபாய் ஹோல்கர் விமான நிலையத்தில் அவசரமாக தரையிறக்கப்பட்டுள்ளது.
+
+கோவாவிலிருந்து புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து இண்டிகோ ஏர்லைன்ஸ் விமானம் (6E 813) தரையிறங்கும் கியரில்  பிரச்சனை ஒன்று இருப்பது தெரியவந்தது. இதனை அடுத்த முன்னெச்சரிக்கை நடவடிக்கையாக விமானம் அவசரமாக தறையிறக்கப்பட்டது. விமான ஊழியர்கள் மற்றும் அனைத்து பயணிகளும்  பாதுகாப்பாக இருக்கின்றனர் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6d1e6982.json)
+
+---
+
+### ගීතා ගෝපිනාත් ජාත්‍යන්තර මූල්‍ය අරමුදලට සමුදෙයි
+
+*2025-07-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212498) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ පළමු නියෝජ්‍ය කළමනාකාර අධ්‍යක්ෂිකා ආචාර්ය ගීතා ගෝපිනාත් මහත්මිය එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජෝර්ජිවා ඊයේ (21) ඒ බව නිවේදනය කර ඇත.
+
+ගීතා ගෝපිනාත් මහත්මිය එම ධුරයෙන් ඉල්ලා අස්වී ඇත්තේ, හාවර්ඩ් විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා අධ්‍යයන අංශයේ ආර්ථික විද්‍යාව පිළිබඳ මහාචාර්යවරියක ලෙස එක්වීමේ අරමුණින්ය.
+
+◼️
+
+[Data](articles/7eb91c2e.json)
+
+---
 
 ### மும்பை குண்டுவெடிப்பில் தொடர்புடைய 12 பேர்  விடுதலை
 
@@ -47,6 +79,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/407af24f.json)
+
+---
+
+### எனது நண்பன் என் கண்முன்னால் உயிரிழந்தான் '- பாடசாலைமீது ஜெட் மோதியதை விபரித்த பங்களாதேஸ் பாடசாலை மாணவன்
+
+*2025-07-22 08:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/220589) · `ta`
+
+பர்ஹான் பசான் பரீட்சையொன்றை எழுதி முடித்துவிட்டு நண்பர்களுடன் கதைத்துக்கொண்டு வகுப்பிலிருந்து வெளியேறிய அந்த தருணத்தில்தான் பங்களாதேஷ் விமானப்படையின் விமானம் பாடசாலைவளாகத்திற்குள் விழுந்து நொருங்கியது- 20 பேர் கொல்லப்பட்டனர்.
+
+எனது கண்முன்னால் இருந்த கட்டிடத்தின் மீது விமானம் மோதியது என மைல்ஸ்டோன் பள்ளி கல்லூரி மாணவரான அவர் பிபிசியின் பெங்காலி செய்தி சேவைக்கு தெரிவித்தார்.
+
+பங்களாதேஷ் தலைநகரின் புறநகர் பகுதியில் உள்ள அந்த பாடசாலையின் இரண்டு மாடிக்கட்டிடத்தின் மீது விமானம் மோதிய பின்னர் தீமூண்டுள்ளதையும் கரும்புகைமண்டலம் காணப்படுவதையும் காண்பிக்கும் படங்கள் வெளியாகியுள்ளன.
+
+பயிற்சிக்காக புறப்பட்டவேளை எவ்7 ஜெட் விமானம் தொழில்நுட்ப கோளாறினை எதிர்கொண்டதாக பங்களாதேஸின் பாதுகாப்பு தரப்பினர் தெரிவித்துள்ளனர்.அதன் விமானி டாகிர் இஸ்லாமும் உயிரிழந்துள்ளார்.
+
+எனது உற்ற நண்பன் என்னுடன் பரீட்சை எழுதியவன் என் கண்முன்னால் உயிரிழந்தான் என பர்ஹான் தெரிவித்தார்.
+
+...
+
+[Data](articles/66fa18ef.json)
 
 ---
 
@@ -79,6 +131,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9fa80625.json)
+
+---
+
+### BOI approves 57 projects, Sri Lanka gets USD 569mn in FDIs in 2025: Dy Minister
+
+*2025-07-22 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110711/boi-approves-57-projects-sri-lanka-gets-usd-569mn-in-fdis-in-2025-dy-minister) · `en`
+
+The Board of Investment (BOI) has approved 57 projects so far this year (2025), according to Deputy Minister of Industry and Entrepreneurship Development Chaturanga Abeysingha.
+
+Deputy Minister Abeysingha stated that the total value of the approved projects amounts to USD 569 million, and out of that, investments worth USD 507 million have already entered the country.
+
+Deputy Minister Chaturanga Abeysingha also claimed that the figures represent a 101% increase compared to the year 2024.
+
+He said Sri Lanka is transitioning from stability to growth and noted that the government is continuing to make strides in improving the ease of doing business, which enables the influx of foreign direct investments.
+
+With the planned Export Processing Zones (EPZs), designated lands for tourism, and the growing opportunities at the Port City, Sri Lanka is poised to accelerate its growth momentum in the years ahead, Deputy Minister Chaturanga Abeysingha added.
+
+...
+
+[Data](articles/ba186c51.json)
 
 ---
 
@@ -151,6 +223,10 @@ The Constitutional Council will convene under the leadership of Speaker of House
 During the meeting, attention will be drawn towards the recommendations of the President regarding the appointment of a new Chief Justice.
 
 Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
+
+During today’s sitting, three bills will be taken up for second reading.
+
+Accordingly, the second reading of the Budgetary Relief Allowance of Workers (Amendment) Bill and the National Minimum Wage of Workers (Amendment) Bill are scheduled to take place.
 
 ◼️
 
@@ -1412,6 +1488,24 @@ Based on information received by the Acting Inspector General of Police regardin
 
 ---
 
+### යාපනය වැඩ බලන ඩී.අයි.ජීගෙන් මූලික අයිතිවාසිකම් පෙත්සමක්
+
+*2025-07-21 17:28:44* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-වැඩ-බලන-ඩී-අයි-ජීගෙන්-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-417427) · `si`
+
+නීතියට පටහැනි ආකාරයට අත්තනෝමතික ලෙස තමන් මාස හයක කාලයක් තුළ පොලිස්ථාන තුනකට මාරු කර යැවීමෙන් සහ තමන්ට වඩා කනිෂ්ඨ නිලධාරියකු යටතේ සේවයේ කිරීමට සැලැස්වීමෙන් තම මූලික අයිතිවාසිකම් කඩකරන ලදැයි සඳහන් කරමින් යාපනය ප්‍රදේශයේ භාර වැඩබලන නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා ගොනු කර ඇති මුලික අයිතිවාසිකම් පෙත්සම සැප්තැම්බර් 03 වැනිදා සලකා බැලීමට ශ්‍රේෂ්ඨාධිකරණය ඊයේ (21) තීරණය කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන දිලිප් නවාස්, අර්ජුන ඔබේසේකර සහ සෝභිත රාජකරණ යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම  සලකා බැලිණ.
+
+යාපනය ප්‍රදේශය භාර වැඩ බලන නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා ගොනු කර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජාතික පොලිස් කොමිසම ඇතුළු පිරිසක් නම් කර ඇත.
+
+2019 ජුනි 21 වැනිදා සිට 2020 ජනවාරි මාසය දක්වා කාලය තුළ තමන් පොලිස්ථාන තුනකට මාරු කරන ලදැයිද එය පොලිස් චක්‍රලේඛණයට පටහැනි බවද සඳහන් කරන පෙත්සම්කරු එක් අවස්ථාවකදී තමන්ට වඩා පහළ නිලධාරීන් යටතේ සේවය කිරීමට තමාට සිදුවූ බවද ඉන් තමන්ගේ මූලික අයිතිවාසිකම් කඩවි ඇති බවද සඳහන් කර ඇත.
+
+...
+
+[Data](articles/147394a3.json)
+
+---
+
 ### Over 1,200 persons nabbed during special police operation
 
 *2025-07-21 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110697/over-1200-persons-nabbed-during-special-police-operation) · `en`
@@ -1737,95 +1831,5 @@ The IMF representatives “agreed to extend the necessary support to maintain ec
 ...
 
 [Data](articles/3dae94c8.json)
-
----
-
-### Sri Lanka rupee steady against dollar, bonds edge up
-
-*2025-07-21 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-against-dollar-bonds-edge-up-231941/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.75/85 to the US dollar in the spot market Monday, broadly steady from 301.65/85 Friday, while bond yields edged up slightly, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.10/19 percent, up from 8.10/15 percent.
-
-A bond maturing on 15.09.2027 closed at 8.44/56, up from 8.45/55 percent.
-
-A bond maturing on 15.10.2028 closed at 8.95/9.06 percent, up from 8.94/9.02 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.48/53 percent.
-
-A bond maturing on 01.06.2033 closed at 10.70/77 percent, from 10.70/76 percent. (Colombo/July21/2025)
-
-◼️
-
-[Data](articles/304cccb6.json)
-
----
-
-### Ex-Sports Ministry Secretary Nanda Mallawarachchi files petition before Appeals Court
-
-*2025-07-21 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110694/ex-sports-ministry-secretary-nanda-mallawarachchi-files-petition-before-appeals-court-) · `en`
-
-The Court of Appeal today (21) ordered that a petition filed by former Secretary of the Ministry of Sports retired Major General Nanda Mallawarachchi, be taken up for consideration on July 28. The petitioner requests that the indictment filed against him before the Colombo High Court by the Attorney General be nullified.
-
-The charges are in relation to the alleged misuse of state funds during the period leading up to the 2015 Presidential Election by purchasing 14,000 carrom boards and 11,000 checkers (Daam) boards for political purposes, which were then distributed through the political offices of the then-presidential candidate, Mahinda Rajapaksa.
-
-The petition was taken up today before the Court of Appeal bench comprising Justices Rohana Abeysuriya and Priyantha Fernando.
-
-During today’s proceedings, the bench ordered the petition to be called again on July 28 to confirm the related matters.
-
-...
-
-[Data](articles/6e9c8973.json)
-
----
-
-### කාන්තා නායිකාවන් සඳහා දැනුවත් කිරීමේ වැඩසටහනක්
-
-*2025-07-21 16:43:22* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-නායිකාවන්-සඳහා-දැනුවත්-කිරීමේ-වැඩසටහනක්/11-417425) · `si`
-
-නිදහස් සහ සාධාරණ මැතිවරණයන් සඳහා වූ ජනතා ක්‍රියාකාරීත්වයේ (PAFFREL) කාන්තා නායිකාවන් දැනුවත් කිරීමේ වැඩසටහනක් පසුගියදා (17) පාර්ලිමේන්තු සංකීර්ණයේදී පැවැත්විණි.
-
-“දේශපාලනයේ කාන්තා නියෝජනය සහ පාර්ලිමේන්තුවේ කාර්යභාරය” යන මැයෙන් පාර්ලිමේන්තුවේ කාර්ය මණ්ඩල ප්‍රධානී සහ පාර්ලිමේන්තුවේ නියෝජ්‍ය මහ ලේකම් චමින්ද කුලරත්න මහතා මෙහිදී මුඛ්‍ය දේශනය ඉදිරිපත් කළේය.
-
-එසේම පාර්ලිමේන්තුවේ අධ්‍යක්ෂ ව්‍යවස්ථාදායක සේවා සහ වැඩබලන අධ්‍යක්ෂ සන්නිවේදන එම්. ජයලත් පෙරේරා මහතා “පාර්ලිමේන්තුවේ කාරක සභා ක්‍රමය” සම්බන්ධයෙන් දේශනයක් ඉදිරිපත් කරන ලදි.
-
-මෙහිදී වැඩසටහනට ආරම්භයක් සපයමින් PAFFREL සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පවසා සිටියේ පාර්ලිමේන්තු ක්‍රමවේදය සම්බන්ධයෙන් දැනගැනීමට සුදුසුම කණ්ඩායම සමග සම්බන්ධවීමට ලැබීම සතුටක් බවයි. එසේම පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුවේ මහජන සේවා අංශය මෙවැනි වැඩසටහන් සංවිධානය කිරීම සම්බන්ධයෙන් හෙතෙම සිය ස්තූතිය පළ කළේය. විශාකා ධර්මදාස මහත්මිය විසින් වැඩසටහනේ ස්තූති කාථාව ඉදිරිපත් කරන ලදි.
-
-...
-
-[Data](articles/81a5dd4c.json)
-
----
-
-### பங்களாதேஷில் பாடசாலை மீது விமானம் விழுந்து விபத்து ; ஒருவர் பலி, பலர் காயம் !
-
-*2025-07-21 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220547) · `ta`
-
-பங்களாதேஷ் தலைநகர் டாக்காவில் பாடசாலை ஒன்றின் மீது விமானப்படை பயிற்சி ஜெட் விமானம் விழுந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதோடு, 13 பேர் காயமடைந்துள்ளனர்.
-
-தலைநகர் டாக்காவின் வட பகுதியிலுள்ள உத்தராவின் டயபாரி பகுதியில் இருந்து இன்று திங்கட்கிழமை அந்நாட்டு நேரப்படி பகல் 1.06 மணிக்கு F-7 BGI என்ற சீன தயாரிப்பு விமானம் புறப்பட்டு சுமார் 25 நிமிடங்கள் கழித்து விபத்துக்குள்ளானதாக இன்டர்-சர்வீசஸ் பப்ளிக் ரிலேஷன்ஸ் டைரக்டரேட் (ISPR) தெரிவித்துள்ளது.
-
-மதிய உணவு இடைவேளையின் போதே விமானம் பாடசாலை  உணவகத்தின் கூரை மீது  விழுந்துள்ளது. இந்த சம்பவத்தின் போது அங்கு மாணவர்கள் பலர் இருந்துள்ளனர்.
-
-◼️
-
-[Data](articles/0f88e7cb.json)
-
----
-
-### ASPI records new all-time high
-
-*2025-07-21 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110693/aspi-records-new-all-time-high) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 70 points today.
-
-Accordingly, the ASPI rose by 70.38 points to close at 19,044.08 points, surpassing the previous high of 18,973.70 points recorded on June 12, 2025.
-
-Meanwhile, the S&P SL20 Index moved down by 8.44 points to close at 5,646.66 points.
-
-◼️
-
-[Data](articles/4bdf7797.json)
 
 ---

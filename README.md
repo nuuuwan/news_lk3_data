@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 16:47:35**
+As of **2025-07-22 17:05:31**
 
 ## Newspaper Stats
 
-*Scraped **66,120** Articles*
+*Scraped **66,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 4,039
 islandlk | 4,041
 dailyftlk | 4,671
 dailymirrorlk | 4,733
-adalk | 6,345
-adaderanalk | 8,101
+adalk | 6,346
+adaderanalk | 8,105
 tamilmirrorlk | 9,506
-virakesarilk | 11,016
-adaderanasinhalalk | 11,365
+virakesarilk | 11,018
+adaderanasinhalalk | 11,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.7%) of 66,120 articles have been extended.
+61,973 (93.7%) of 66,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-22 (Tuesday)
+
+### අස්ගිරි අනුනායක හිමිගේ දේහය උපාලි අනුස්මරණ ශාලාවේ තැම්පත් කෙරේ
+
+*2025-07-22 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212524) · `si`
+
+අපවත්වී වදාළ අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආණමඩුවේ ධම්මදස්සි හිමියන්ගේ දේහය මේ වනවිට මහජන ගෞරවය සඳහා අස්ගිරි මහා විහාරීය ප්‍රවර උපාලි අනුස්මරණ ශාලාවේ තැම්පත් කර තිබේ.
+
+රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය නිවේදනය කළේ, දේහය පිළිබඳ ආදාහන පූජෝත්සවය ලබන බ්‍රහස්පතින්දා (24) පස්වරු 2:30 අස්ගිරිය පොලිස් ක්‍රීඩාංගණයේදී පූර්ණ රාජ්‍ය අනුග්‍රහය සහිතව සිදුකරන බවය.
+
+◼️
+
+[Data](articles/d966ac17.json)
+
+---
+
+### ඉනාමළුව රක්ෂිතයේ තිබී ඇතෙකුගේ සහ අලි දෙදෙනෙකුගේ සිරුරු හමුවෙයි
+
+*2025-07-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212523) · `si`
+
+මාසයකට පමණ පෙර මියගොස් ඇති බවට සැක කෙරෙන අලි දෙදෙනෙකුගේ සහ ඇතෙකුගේ මළ සිරුරු දඹුල්ල ඉනාමළුව වන රක්ෂිතයේ දිගම්පතාහ ප්‍රදේශයෙන්  හමුව තිබේ.
+
+ඒ අතර ඇති ඇත් සිරුරේ දළ ඉවත් කර ඇති බව ද දැකගත හැකි බව වාර්තා වේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ මෙම අලි මරණ සම්බන්ධයෙන් අවස්ථා කිහිපයකදීම අදාළ බලධාරීන්ව දැනුම්වත් කළ බව ප්‍රදේශවාසීන් විසින් පැවසු බවය.
+
+◼️
+
+[Data](articles/5090e58e.json)
+
+---
+
+### செயற்கை நுண்ணறிவை மேம்படுத்த சிங்கப்பூருடன் கைகோர்க்கும் இலங்கை
+
+*2025-07-22 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220650) · `ta`
+
+இலங்கையில் செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பங்களை மேம்படுத்துவதை நோக்கமாகக் கொண்டு டிஜிட்டல் பொருளாதார அமைச்சிக்கும் சிங்கப்பூர் தேசிய பல்கலைக்கழகத்திற்கும் இடையில் ஒப்பந்தம் ஒன்றை கைச்சாத்திட அரசாங்கம் அனுமதி அளித்துள்ளது.
+
+டிஜிட்டல் மாற்றம் மற்றும் புதுமைகள் நாட்டின் மூலோபாய நோக்கங்களுடன் ஒத்துப்போகும் பரந்த முயற்சியின் ஒரு பகுதியாக இந்த ஒப்பந்தம் உள்ளது.
+
+சிங்கப்பூர் தேசிய பல்கலைக்கழகத்தால் நடத்தப்படும் செயற்கை நுண்ணறிவு சிங்கப்பூர் எனப்படும் தேசிய திட்டத்தில் கலந்துரையாடப்பட்டு இந்த கூட்டு முயற்சி நடைமுறைப்படுத்தப்படும்.
+
+கூட்டு ஆராய்ச்சி திட்டங்கள், செயற்கை நுண்ணறிவு பயிற்சி திட்டங்கள் மற்றும் அறிவு பரிமாற்றம் உள்ளிட்ட இரு நாடுகளுக்கும் இடையே செயலில் ஒத்துழைப்புக்கான கட்டமைப்பை நிறுவ இந்த புரிந்துணர்வு ஒப்பந்தம் முயல்கிறது.
+
+இந்த ஒப்பந்தம் இலங்கையின் செயற்கை நுண்ணறிவு திறன்களை மேம்படுத்துவதோடு, மேம்பட்ட தொழில்நுட்பத்தின் மூலம் உள்ளூர் மற்றும் உலகளாவிய சவால்களை எதிர்கொள்ளும் முயற்சிகளை ஆதரிக்கும் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/0c8dc194.json)
+
+---
 
 ### අස්වැසුම දෙවැනි අදියරට අදාළව අභියාචනා භාර ගැනීම දීර්ඝ කෙරේ
 
@@ -40,9 +90,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව එම කාල සීමාව මේ මස 31 වැනිදා දක්වා දීර්ඝ කිරීමට එම මණ්ඩලය පියවර ගෙන ඇත.
 
+මේ වන විට අස්වැසුම දෙවැනි අදියර ස﻿ඳහා අද (22) දිනය යන විට අභියාචනා 39,707ක් ලැබී ඇති අතර විරෝධතා 3,183ක් ද ලැබී තිබේ.
+
 ◼️
 
 [Data](articles/4e75df43.json)
+
+---
+
+### Three elephants including tusker found dead in Digampathaha
+
+*2025-07-22 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110738/three-elephants-including-tusker-found-dead-in-digampathaha-) · `en`
+
+The carcasses of three wild elephants including a tusker—whose tusks had been removed and is believed to have died about a month ago—were discovered within the Digampathaha area of the Inamaluwa Forest Reserve, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/a2f49a40.json)
 
 ---
 
@@ -66,6 +130,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### கறுப்பு ஜூலை ஆவணப்படுத்தல் -பாதிக்கப்பட்டவர்கள் விபரங்கள் தெரிந்தவர்கள் தொடர்புகொள்ளுமாறு கனடிய தமிழர் பேரவை வேண்டுகோள்
+
+*2025-07-22 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220647) · `ta`
+
+கறுப்பு ஜூலை குறித்த ஆவணப்படுத்தலில் ஈடுபட்டுள்ள கனடிய தமிழர் பேரவை தொடர்புகொள்ளுமாறு வேண்டுகோள் விடுத்துள்ளது.
+
+தமிழர்களை குறிவைத்து திட்டமிட்ட இன அழிப்பு இலங்கையின் சுதந்திரத்திற்கு பின்னர் ஆரம்பிக்கப்பட்டிருந்தாலும் நேரடியாக இனப்படுகொலைகளாக கட்டவிழ்க்கப்பட்ட சோகம் நிகழ்ந்தது கறுப்பு ஜூலை தினங்களில் என்பதை வரலாறும் தமிழ் மக்களும் என்றும் மறந்துவிடப்போவதில்லை.
+
+கனடியத் தமிழர் பேரவை 2008 ஆம் ஆண்டில் இருந்து கறுப்பு ஜூலை கொடூரங்களை கண்ணுற்று தப்பித்து வந்தவர்களைத் தேடி அவர்களிடம் இருந்து சாட்சியங்களை ஒலிஇ ஒளிப்பதிவுகளாக ஆவணப்படுத்தி வருகின்றது. இது நம் வரலாற்றை திரிபுபடுத்தாமல் கடத்த மிக முக்கியமான ஆவணப்படுத்தலாகும்.
+
+கறுப்பு ஜூலையில் அழியாத நினைவுகளை ஆவணப்படுத்தும் முயற்சி இது. அனுபவித்து அழுது மனத்திற்குள் ரணங்களாக பூட்டி வைத்திருக்கும் அனுபவங்களை எம் இனத்தின் கடந்துவந்த வலிகளின் சாட்சியமாக மாற்றி நம் தலைமுறையினருக்கு கொடுத்து செல்ல வேண்டியது எம் பொறுப்பு.
+
+...
+
+[Data](articles/9594af7b.json)
+
+---
+
 ### வட்டுக்கோட்டை கொலைக் களமா?
 
 *2025-07-22 16:18:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டுக்கோட்டை-கொலைக்-களமா/175-361537) · `ta`
@@ -77,6 +159,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0313555f.json)
+
+---
+
+### Over 1,400 arrested for various offenses including drugs in special operation
+
+*2025-07-22 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110737/over-1400-arrested-for-various-offenses-including-drugs-in-special-operation) · `en`
+
+Sri Lanka Police, Police Special Task Force (STF), and tri-forces personnel jointly conducted several more search operations throughout the day on Tuesday (July 21) as part of ongoing efforts to arrest individuals involved in drug-related activities and other major crimes.
+
+Over 73,000 personnel, including police officers, STF members, and members of the tri-forces, participated in this special operation.
+
+A total of 24,690 individuals were screened, while 9,717 vehicles and 7,637 motorcycles were inspected.
+
+During these operations, 1,427 individuals were arrested for drug-related offenses and the possession of illicit alcohol.
+
+A significant quantity of drugs was also seized, including 461.866 grams of crystal methamphetamine (Ice) and 401.416 grams of heroin.
+
+Meanwhile, during special raids conducted on July 20, two firearms were seized.
+
+...
+
+[Data](articles/3c97da11.json)
+
+---
+
+### World Health Organization condemns Israeli attacks on facilities in Gaza
+
+*2025-07-22 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110736/world-health-organization-condemns-israeli-attacks-on-facilities-in-gaza) · `en`
+
+The World Health Organization (WHO) says Israel’s ground offensive in central Gaza has compromised its efforts to continue working, after its facilities came under attack.
+
+The UN agency accused Israeli forces of attacking a building housing its staff and their families in the city of Deir al-Balah on Monday and mistreating those sheltering there. Its main warehouse was also attacked and destroyed.
+
+Its first major ground operation in Deir al-Balah since the start of the war with Hamas 21 months ago has displaced tens of thousands of Palestinian civilians, amid warnings of a severe hunger crisis across the territory.
+
+The UN said on Monday it was receiving reports of malnourished people arriving at clinics and hospitals in extremely poor health, while the Hamas-run health ministry said 19 people had died from malnutrition since Saturday.
+
+...
+
+[Data](articles/c34d8b84.json)
 
 ---
 
@@ -118,25 +240,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### අත්අඩංගුවට ගත් ඇමති මනූෂගේ පුද්ගලික ලේකම්ට ඇප
+### விடுதலை நீர் தந்து தமிழ் அரசியல் கைதிகளின் விடுதலை நோக்கிய பயணத்தில் இணையுங்கள் - வேலன் சுவாமி
 
-*2025-07-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212519) · `si`
-
-අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගත් හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ පුද්ගලික ලේකම් වශයෙන් කටයුතු කළ ශාන් යහම්පත් ගුණරත්න නමැත්තා ඇප මත මුදා හරින ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා නියෝග කළේය.
-
-ඒ අනුව සැකකරු රුපියල් ලක්ෂ 25 බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමට නියෝග කළ මහෙස්ත්‍රාත්වරයා සැකකරුගේ විදේශ ගමන් තහනම් කරන බවත් නියම කළේය.
-
-අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කළේය.
-
-◼️
-
-[Data](articles/2693683f.json)
-
----
-
-### விடுதலை நீர் தந்து தமிழ் அரசியல் கைதிகளின் விடுதலை நோக்கிய பயணத்தில் இணையுங்கள்.     வேலன் சுவாமி
-
-*2025-07-22 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220640) · `ta`
+*2025-07-22 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220640) · `ta`
 
 விடுதலைநீர் தந்து தமிழ் அரசியல்கைதிகளின் விடுதலையை நோக்கிய பயணத்தில் இணையுங்கள் என பொத்துவில் தொடக்கம் பொலிகண்டி அமைப்பின் ஏற்பாட்டாளர் தவத்திரு வேலன் சுவாமி வேண்டுகோள் விடுத்துள்ளார்
 
@@ -151,6 +257,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/66df4305.json)
+
+---
+
+### Manusha’s former personal secretary granted bail
+
+*2025-07-22 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110735/manushas-former-personal-secretary-granted-bail-) · `en`
+
+The Colombo Additional Magistrate Harshana Kekunawala has ordered the release on bail of Shan Yahampath Gunaratne, the former personal secretary to former Minister Manusha Nanayakkara, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The Magistrate granted bail on two sureties of Rs. 2.5 million each, said Ada Derana reporter.
+
+Additionally, an overseas travel ban was imposed on the suspect.
+
+The order was issued following the consideration of facts presented by both the Bribery Commission and the defense counsel.
+
+◼️
+
+[Data](articles/9b685b47.json)
+
+---
+
+### E8 කාණ්ඩය යටතේ කොරියා රැකියා දොර ඇරෙයි
+
+*2025-07-22 15:54:23* · [`adalk`](https://www.ada.lk/breaking_news/E8-කාණ්ඩය-යටතේ-කොරියා-රැකියා-දොර-ඇරෙයි/11-417444) · `si`
+
+කොරියානු ජනරජයේ E-8 වීසා කාණ්ඩය (සෘතුමය සේවකයින්) යටතේ ශ්‍රි ලාංකික ශ්‍රමිකයින් යෙදවීම පහසු කිරීම සඳහා නියමු ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමටත් ඒ සඳහා උනන්දුවක් දක්වන කොරියානු පළාත් පාලන ආයතන සමගා සාකච්ඡා පැවැත්වීමටත් 2025-02-19 හා 2025-07-01 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීම්වලදී අනුමැතිය ලබා දී තිබේ.
+
+ඒ අනුව කොරියාවේ බෝසෝං පළාත් පාලන ආයතනය සමග පැවැති සාකච්ඡාවල ප්‍රථිඵලයක් වශයෙන් ශ්‍රී ලංකාවෙන් සෘතුමය සේවකයන් බඳවා ගැනීමට හා ඒ වෙනුවේන අවබෝධතා ගිවිසුමකට එළැඹීමටෙ එකඟතාව පළකර තිබේ.
+
+යෝජිත අවබෝධතා ගිවිසුම මගින් ශ්‍රී ලාංකිකයන්ට සෘතුමය ශ්‍රමික වැඩසටහන යටතේ කෙටි කලක් (උපරිම මාස 8ක් දක්වා) බෝසෝං පළාතේ කෘෂිකාර්මික ගම්මානවල සේවය කර ආදායමක් උපයා ගැනීමට හා මෙරටට විදේශ විනිමය උපයා දීමට අවස්ථාව සැලෙසනු ඇත.
+
+ඒ අනුව යෝජති අවබෝධතා ගිවිසුම බෝසෝං පළාත් පාලන ආයතනය සමග අත්සන් තැබීම පිණිස විදේශ රැකියා අමාත්‍යවරයා ඉදිරිපත් කල ‍යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+◼️
+
+[Data](articles/c1c4ffd9.json)
+
+---
+
+### අත්අඩංගුවට ගත් ඇමති මනූෂගේ පුද්ගලික ලේකම්ට ඇප
+
+*2025-07-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212519) · `si`
+
+අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගත් හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ පුද්ගලික ලේකම් වශයෙන් කටයුතු කළ ශාන් යහම්පත් ගුණරත්න නමැත්තා ඇප මත මුදා හරින ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා නියෝග කළේය.
+
+ඒ අනුව සැකකරු රුපියල් ලක්ෂ 25 බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමට නියෝග කළ මහෙස්ත්‍රාත්වරයා සැකකරුගේ විදේශ ගමන් තහනම් කරන බවත් නියම කළේය.
+
+අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/2693683f.json)
 
 ---
 
@@ -1617,169 +1775,5 @@ Speaker Dr. Jagath Wickramaratne also noted that it is a historic occasion, sinc
 ...
 
 [Data](articles/8c4d8943.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
-
-*2025-07-22 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212500) · `si`
-
-අද සිට ලබන 25 වන දින දක්වා පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සදහන් කළේය.
-
-සේවකයන්ගේ අයවැය සහන දීමනා සංශෝධන පනත් කෙටුම්පත සහ සේවකයන්ගේ ජාතික අවම වේතනය සංශෝධන පනත් කෙටුම්පත ඇතුළු පනත් කෙටුම්පත් 3ක් අද (22) දිනයේ විවාදයට ගැනීමට නියමිතව ඇත.
-
-හෙට දිනයේ දී සමාගම් සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර අනිද්දා දිනයේ ශ්‍රී ලංකා විදුලි බල සංශෝධන පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
-
-◼️
-
-[Data](articles/c7b42563.json)
-
----
-
-### நாட்டை விட்டு வெளியேறிய வைத்தியர்கள் : முழு விபரம் இணைப்பு
-
-*2025-07-22 09:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-விட்டு-வெளியேறிய-வைத்தியர்கள்-முழு-விபரம்-இணைப்பு/175-361499) · `ta`
-
-2022 முதல் 2024 வரையிலான காலப்பகுதியில், நிபுணர்கள் உட்பட 1,489 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியதாக சமீபத்திய ஆய்வு ஒன்று வெளிப்படுத்தியுள்ளது.
-
-அதிக எண்ணிக்கையிலான வைத்தியர்கள் நாட்டை விட்டு வெளியேறுவது சுகாதார உள்கட்டமைப்பை சீர்குலைத்து, குறிப்பாக கிராமப்புற மற்றும் பின்தங்கிய பகுதிகளில் நிபுணர்களின் பற்றாக்குறையை உருவாக்கியுள்ளது என்று ஆய்வு கூறுகிறது.
-
-இது வைத்தியக் கல்வியையும், அனைவருக்கும் சுகாதார சேவைகளை சமமாக அணுகுவதற்கான உரிமையையும் பாதித்துள்ளது என்றும் கூறுகிறது.
-
-கடந்த ஆண்டு இறுதிக்குள் பிரிட்டனில் தேசிய சுகாதார சேவை மற்றும் சமூக சுகாதார சேவைகளில் பணிபுரியும் இலங்கையர்களின் எண்ணிக்கை 121 சதவீதம் அதிகரித்துள்ளது என்பதைக் காட்டியது.
-
-ஆய்வின்படி, கடந்த ஆண்டு இறுதியில் இங்கிலாந்தில் 3,082 இலங்கை வைத்தியர்கள் பணிபுரிந்தனர், இதில் 391 மூத்த நிபுணர்கள் மற்றும் 413 நிபுணர்கள் அடங்குவர்.
-
-...
-
-[Data](articles/40f765ad.json)
-
----
-
-### Gita Gopinath, No.2 in IMF to quit in August; Successor to be named soon
-
-*2025-07-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110714/gita-gopinath-no2-in-imf-to-quit-in-august-successor-to-be-named-soon-) · `en`
-
-Gita Gopinath, the second-in-command at the International Monetary Fund (IMF), will step down at the end of August to return to her position at Harvard University, the IMF has announced.
-
-The timing of Gita Gopinath’s exit has taken many within the IMF by surprise and is believed to have been prompted by her own decision, reported news agency Reuters.
-
-Having originally left Harvard to serve at the Fund, she is now set to resume her role as professor of economics at the university.
-
-Her departure opens a window for the U.S. Treasury to propose a successor—an opportunity that comes as US President Donald Trump pushes to reshape global trade dynamics and curb the country’s persistent trade deficits through sweeping tariffs on imports worldwide.
-
-Gita Gopinath, the First Deputy Managing Director of the IMF visited Sri Lanka last month to discuss economic challenges and opportunities for Sri Lanka—and how the IMF can support efforts.
-
-...
-
-[Data](articles/776efbc9.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bonds steady
-
-*2025-07-22 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-232042/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.65/75 to the US dollar in the spot market Tuesday, broadly steady from 301.75/85 a day earlier, while bond yields were flat, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 8.97/9.03 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.37/45 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.45/49 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, from 9.48/53 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent.
-
-Stocks opened up; The ASPI was up 0.31%, or 59.67 points, at 19,103.75; S&P SL20 was up 0.25%, or 14.34 points, at 5,661.33. (Colombo/July22/2025)
-
-◼️
-
-[Data](articles/b135af5e.json)
-
----
-
-### Increase in female population over males could lead to future crises, expert warns
-
-*2025-07-22 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110713/increase-in-female-population-over-males-could-lead-to-future-crises-expert-warns) · `en`
-
-The continuous decline in the male population in comparison to the number of females in Sri Lanka could lead to significant crises in the future, Senior Professor Aminda Methsila of Wayamba University of Sri Lanka has warned.
-
-According to Professor Methsila, in 1995 there were 100.2 males for every 100 females in the country. However, this ratio has now decreased to 93.7 males per 100 females.
-
-He attributes this trend to several factors, including an increase in female life expectancy, a rise in female births, and the emigration of young males.
-
-“We are observing a notable increase in the proportion of women in nearly all sectors, including universities and other educational institutions—except for a few degrees such as engineering and technology,” Professor Methsila said.
-
-...
-
-[Data](articles/bcd37010.json)
-
----
-
-### சர்வதேச நாணய நிதியத்தின் அதிகாரி கீதா கோபிநாத் பதவி விலகுகிறார் !
-
-*2025-07-22 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220593) · `ta`
-
-சர்வதேச நாணய நிதியத்தின் முதன்மை பிரதி முகாமைத்துவ பணிப்பாளர் கீதா கோபிநாத் பதவி விலகவுள்ளார்.
-
-கீதா கோபிநாத்  ஆகஸ்ட் மாத இறுதியில் தனது பதவியில் இருந்து விலகி அமெரிக்காவிலுள்ள ஹார்வார்ட் பல்கலைக்கழகத்திற்கு செல்லவுள்ளார்.
-
-அங்கு அவர் பொருளாதாரத் துறையில் ஆரம்ப கிரிகோரி மற்றும் அனியா காஃபி பொருளாதாரப் பேராசிரியராக பணி ஆற்றவுள்ளதாக சர்வதேச நாணய நிதியத்தின் (IMF) முகாமைத்துவ பணிப்பாளர் கிறிஸ்டலினா ஜோர்ஜிவா இன்று செவ்வாய்க்கிழமை (22) அறிவித்துள்ளார்.
-
-கீதா கோபிநாத்  2019 ஆம் ஆண்டு  ஜனவரி மாதம்  தலைமைப் பொருளாதார நிபுணராக சர்வதேச நாணய நிதியத்தில் இணைந்தார். ஜனவரி 2022 ஆம் ஆண்டு முதல் பிரதி முகாமைத்துவ பணிப்பாளராக பதவி உயர்வு பெற்றார்.
-
-◼️
-
-[Data](articles/1baf941a.json)
-
----
-
-### බංග්ලාදේශ ගුවන් අනතුරින් මිය ගිය පිරිස 27 දක්වා ඉහළට
-
-*2025-07-22 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212499) · `si`
-
-බංග්ලාදේශ ගුවන් හමුදාවට අයත් පුහුණු ගුවන් යානයක් එරට ඩකා අගනුවර පාසල් පරිශ්‍රයක් වෙත කඩා වැටී සිදුවූ අනතුරින් මේ වන විට පුද්ගලයින් 27 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-සිද්ධියෙන් ළමුන් ඇතුළුව තවත් පුද්ගලයින් 88 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇතැයිද එම මාධ්‍ය වාර්තා සඳහන් කර ඇත.
-
-ඊයේ (22) එරට කුර්මිටෝලා ගුවන් කඳවුරෙන් සාමාන්‍ය පුහුණු මෙහෙයුමක් සඳහා ගුවන් ගත වී ඇති  F-7 BGI නම් පුහුණු ගුවන් යානය ඩකා හී පාසල් පරිශ්‍රයක් වෙත කඩා වැටී පසුව ගිනි ගනු ලැබීය.
-
-ගුවන් අනතුර සම්බන්ධයෙන් එරට හමුදාව පවසා ඇත්තේ යානයේ යාන්ත්‍රික දෝශයක් හේතුවෙන් මෙම අනතුර සිදුව ඇති බවය.
-
-එමෙන්ම යාන්ත්‍රික දෝශයක් ඇති වූ වහාම නියමුවා විසින් එම ගුවන් යානය අඩු ජනාකීර්ණ ප්‍රදේශයකට රැගෙන යාමට උත්සාහ කර ඇති බවද හමුදා බලධාරීන් පවසා තිබේ.
-
-කෙසේ නමුත් අනතුර සම්බන්ධයෙන් සොයා බැලීම සඳහා මේ වන විට විමර්ශන කමිටුවක් පිහිටුවීමටද එරට හමුදාව පියවර ගෙන ඇත.
-
-...
-
-[Data](articles/4c64ec7a.json)
-
----
-
-### கீதா கோபிநாத் ராஜினாமா?
-
-*2025-07-22 09:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீதா-கோபிநாத்-ராஜினாமா/175-361498) · `ta`
-
-சர்வதேச நாணய நிதியத்தின் முதன்மை பிரதி முகாமைத்துவப் பணிப்பாளராகப் பணியாற்றி வரும் கலாநிதி கீதா கோபிநாத் தனது பதவியை ராஜினாமா செய்யவுள்ளார் என தெரிவிக்கப்பட்டுள்ளது.
-
-அவர் 2025 ஆகஸ்ட் மாத இறுதியில் ஹார்வர்ட் பல்கலைக்கழகத்தின் பொருளாதாரத் துறையில் மீண்டும் இணையவுள்ளதாகவும், அங்கு அவர் முதல் கிரகரி மற்றும் ஆனியா கோஃபி பொருளாதாரப் பேராசிரியராகப் பதவியேற்பார் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/77ec5f24.json)
-
----
-
-### පාර්ලිමේන්තුව අද රැස්වෙයි
-
-*2025-07-22 09:13:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අද-රැස්වෙයි/11-417436) · `si`
-
-අද දිනයේදී සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත සංශෝධනය සඳහා), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත සංශෝධනය සඳහා) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත දෙවැනි වර කියවීමේ විවාදය පැවැත්වීමට කටයුතු යොදා ඇත.
-
-◼️
-
-[Data](articles/9cd92e13.json)
 
 ---

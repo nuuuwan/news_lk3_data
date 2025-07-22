@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-22 05:31:06**
+As of **2025-07-22 06:10:20**
 
 ## Newspaper Stats
 
-*Scraped **65,983** Articles*
+*Scraped **65,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 589
 colombotelegraphcom | 673
 bbccomsinhala | 677
 islandlk | 4,029
-economynextcom | 4,031
+economynextcom | 4,032
 dailyftlk | 4,671
 dailymirrorlk | 4,733
 adalk | 6,335
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.9%) of 65,983 articles have been extended.
+61,973 (93.9%) of 65,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1308,6 +1308,26 @@ The IMF representatives “agreed to extend the necessary support to maintain ec
 
 ---
 
+### Sri Lanka President discusses investment policy reforms with IMF mission
+
+*2025-07-21 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-investment-policy-reforms-with-imf-mission-231962/) · `en`
+
+ECONOMYNEXT – International Monetary Fund (IMF) representatives met with Sri Lanka’s President Anura Dissanayake to discuss the future review of its extended credit facility.
+
+The discussion further focused on facilitating investment through policy reforms and tariff concessions aimed at fostering an investor-friendly environment, Dissanayake’s media division said.
+
+The President expressed confidence that Sri Lanka would continue to benefit from the IMF’s support in ensuring long-term economic stability and consistency in policy direction.
+
+“President Dissanayake expressed his gratitude for the support extended to Sri Lanka by the IMF so far and emphasized that he is committed to ensuring that all the benefits of the country’s economic growth are delivered to the people.”
+
+The IMF representatives “agreed to extend the necessary support to maintain economic stability and further Sri Lanka’s global advancement”.
+
+...
+
+[Data](articles/dd7d8332.json)
+
+---
+
 ### ”நிலந்தவுக்கு மரண தண்டனை விதிப்பதை திருச்சபை விரும்பவில்லை”
 
 *2025-07-21 16:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-மரண-தண்டனை-விதிப்பதை-திருச்சபை-விரும்பவில்லை/175-361471) · `ta`
@@ -1809,25 +1829,5 @@ The ASPI was boosted by DFCC Bank which closed 4.75 rupees higher at 125.75, Cen
 ...
 
 [Data](articles/fe6adf29.json)
-
----
-
-### Bangladesh Airforce F-7 aircraft crashes into school in Dhaka, at least 1 dead
-
-*2025-07-21 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110690/bangladesh-airforce-f-7-aircraft-crashes-into-school-in-dhaka-at-least-1-dead) · `en`
-
-A Bangladesh Air Force training aircraft crashed onto a school campus in northern Dhaka on Monday, killing at least 1 person and injuring others, according to the military and a fire official.
-
-The aircraft crashed onto the campus of Milestone School and College, in Dhaka’s Uttara neighborhood, where children were present. Television footage showed fire and smoke billowing from the site of the crash.
-
-Jamuna TV reported that at least 13 people, including students, were injured. Fire and rescuers from the military arrived at the scene.
-
-The Bangladesh Army’s public relations office confirmed in a brief statement that the downed F-7 BGI aircraft belonged to the Air Force.
-
-A Milestone School and College spokesman said, “The plane fell on the gate and crashed nearby. A class was in session where the plane crashed. The injured are being taken out one by one.”
-
-◼️
-
-[Data](articles/2bcd3340.json)
 
 ---

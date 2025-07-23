@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 01:30:22**
+As of **2025-07-24 01:48:26**
 
 ## Newspaper Stats
 
-*Scraped **66,410** Articles*
+*Scraped **66,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 6,374
 adaderanalk | 8,151
 tamilmirrorlk | 9,568
-virakesarilk | 11,062
+virakesarilk | 11,063
 adaderanasinhalalk | 11,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,410 articles have been extended.
+61,973 (93.3%) of 66,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,28 @@ Irish Member of Parliament Thomas Gould said in the Irish parliament that Netany
 ...
 
 [Data](articles/7ff9fde8.json)
+
+---
+
+### இங்கிலாந்துடனான 4ஆவது டெஸ்டில் பான்ட் உபாதைக்குள்ளாகி ஓய்வுபெற்றார்; இத்தியா 264 - 4 விக்.
+
+*2025-07-24 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220765) · `ta`
+
+மென்செஸ்டர், ஓல்ட் ட்ரஃபர்ட் விளையாட்டரங்கில் புதன்கிழமை (23) ஆரம்பமான நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் இந்தியா முதலில் துடுப்பெடுத்தாடியபோது ரிஷாப் பான்ட் உபாதைக்குள்ளானதால் தற்காலிக ஓய்வு பெற்றார்.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இந்தியா முதலாம் நாளான புதன்கிழமை ஆட்டநேர முடிவில் 4 விக்கெட்களை   இழந்து 264 ஓட்டங்களைப் பெற்றிருந்தது.
+
+மந்த கதியில் ஓட்டங்கள் பெறப்பட்ட முதலாம் நாளன்று எந்த அணியினாலும் ஆதிக்கம் செலுத்த முடியாமல் போனது.
+
+யஷஸ்வி ஜய்ஸ்வால், சாய் சுதர்சன் ஆகிய இருவரும் அரைச் சதங்கள் குவிக்க இந்தியா ஓரளவு சிறப்பான நிலையை அடைந்தது.
+
+எனினும் ரிஷாப் பான்ட் கடும் காயத்திற்குள்ளானதால் அவரை இந்தியா முழுப் போட்டியிலும் இழக்க நேரிடுமோ என அஞ்சப்படுகிறது.
+
+திறமையாகத் துடுப்பெடுத்தாடிக்கொண்டிருந்த  ரிஷாப் பான்ட் 37 ஓட்டங்களைப் பெற்றிருந்தபோது கிறிஸ் வோக்ஸின் வேகப்பந்தை ரிவர் ஸ்வீப் முறையில் அடிக்க முயற்சித்தபோது பந்து அவரது துடுப்பை உராய்தவாறு அவரது வலது பாதத்தைப் பதம்பார்த்தது.
+
+...
+
+[Data](articles/5c0ef28c.json)
 
 ---
 
@@ -1803,27 +1825,5 @@ He urged the committee to “carry out a swift investigation by examining all th
 ...
 
 [Data](articles/cd207fc2.json)
-
----
-
-### ‘Red’ warning issued for strong winds and rough seas
-
-*2025-07-23 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110766/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
-
-A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Kalpitiya to Kankasanthurai via Mannar.
-
-These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
-
-Naval and fishing communities are advised not to venture into the sea areas extending from Kalpitiya to Kankasanthurai via Mannar for the next 24 hours, the Met Department said.
-
-The sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, and from Kankasanthurai to Trincomalee via Mullaittivu, will be fairly rough to rough at times with strong gusty winds up to 50–55 kmph.
-
-The naval and fishing communities engaged in fishing and naval activities in these sea areas are requested to be vigilant in this regard.
-
-Meanwhile, the wave height (about 2.5–3.0 m) may increase in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle, it added.
-
-...
-
-[Data](articles/bb41ec63.json)
 
 ---

@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 21:49:35**
+As of **2025-07-23 22:07:07**
 
 ## Newspaper Stats
 
-*Scraped **66,380** Articles*
+*Scraped **66,383** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 591
-colombotelegraphcom | 677
 bbccomsinhala | 677
+colombotelegraphcom | 678
 economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,373
 adaderanalk | 8,149
-tamilmirrorlk | 9,567
+tamilmirrorlk | 9,568
 virakesarilk | 11,058
-adaderanasinhalalk | 11,402
+adaderanasinhalalk | 11,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,380 articles have been extended.
+61,973 (93.4%) of 66,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### සංශෝධිත සමාගම් පනත් කෙටුම්පත සම්මතයි
+
+*2025-07-23 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212565) · `si`
+
+2007 අංක 7 දරන සමාගම් (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (23) පාර්ලිමේන්තුවේදී  සම්මත විය.
+
+අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා සමාගම් (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය පැවැත්වුණු අතර, ඡන්ද විමසීමකින් තොරව එම පනත් කෙටුම්පත සම්මත විය.
+
+2007 අංක 7 දරන  සමාගම් (සංශෝධන) පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.06.05 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+◼️
+
+[Data](articles/42a76a7e.json)
+
+---
 
 ### யாழ். செம்மணி மனிதப் புதைகுழியில் இன்று 5 மனித எலும்புக்கூடுகள் அடையாளம் ; மொத்த எண்ணிக்கை 85 ஆக உயர்வு
 
@@ -61,6 +77,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/00c655fa.json)
+
+---
+
+### உதட்டில் ஊசி போட்டதால் கோரமாக மாறிய  முகம்
+
+*2025-07-23 21:05:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உதட்டில்-ஊசி-போட்டதால்-கோரமாக-மாறிய-முகம்/50-361633) · `ta`
+
+பாலிவுட்டில் எப்படியாவது பிரபலமாகி விட வேண்டும் என்பதற்காக படு கவர்ச்சியான உடைகளை அணிந்துக் கொண்டும் வித்தியாசமாக ஆடைகளை அணிந்து வலம் வருபவர் தான்  உர்ஃபி ஜாவேத்.
+
+இவர் புகைப்படங்களை வெளியிடுவது மட்டுமின்றி சினிமா நிகழ்ச்சிகளிலும் கலந்துக் கொண்டு அனைவரது கவனத்தையும் தன் பக்கம் ஈர்த்து நினைத்ததை போலவே சில வருடங்களில் பிரபலமாகி விட்டார்.
+
+தற்போது அவரை 5.3 மில்லியன் ரசிகர்கள் இன்ஸ்டாகிராமில் ஃபாலோ செய்து இன்ஸ்டாகிராம் செலிபிரிட்டியாகவே மாறிவிட்டார்.
+
+அமேசான் பிரைமில் தனது வாழ்க்கை குறித்த டாக்குமெண்டரி ஷோவையும் வெளியிட்டு பிரபலமானார். இந்நிலையில், உதட்டில் ஊசிப்போட்டு தனது லிப் ஃபில்லரை நீக்கும் வீடியோவை வெளியிட்டு ரசிகர்களை அதிர்ச்சியில் உறையவைத்து இருக்கிறார் உர்ஃபி ஜாவேத்.
+
+...
+
+[Data](articles/3b893829.json)
 
 ---
 
@@ -657,6 +691,18 @@ Both parties emphasized the significance of enhancing preparedness and resilienc
 ...
 
 [Data](articles/a449b622.json)
+
+---
+
+### Abolition Of Executive Presidency & A New Constitution For Sri Lanka: Final Part
+
+*2025-07-23 16:10:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-executive-presidency-a-new-constitution-for-sri-lanka-final-part/) · `en`
+
+In the colonial period, the British introduced the Colebrooke-Cameron reforms of 1832-33. The Donoughmore Constitution of 1931 introduced universal adult suffrage and a predominantly elected legislature. In 1948, the Soulbury Constitution was established. It was largely based on the Westminster system and provided the framework for an independent Dominion of Ceylon. Sri Lanka adopted its first Republican Constitution in 1972, which declared the country a republic and established a unicameral parliament. The Second Republican Constitution was introduced in 1978, creating an executive presidential system alongside a unicameral parliament.
+
+...
+
+[Data](articles/90d099b7.json)
 
 ---
 
@@ -1765,57 +1811,5 @@ She will highlight key areas of economic cooperation and discuss emerging sector
 ◼️
 
 [Data](articles/9523ab4b.json)
-
----
-
-### නුගේගොඩ පාලම උඩ සිදුවු අනතුරකින් තරුණයෙක්ට දිවි අහිමි වෙයි
-
-*2025-07-23 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212544) · `si`
-
-හයිලෙවල් මාර්ගයේ නුගේගොඩ ගුවන්පාලම මත සිදුවූ රිය අනතුරකින් තරුණයෙක්ට දිවි අහිමි වී තිබේ.
-
-අද (23) අලුයම ත්‍රිරෝද රථයක් මහරගම දෙස සිට කොළඹ දෙසට ධාවනය වූ ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
-
-අනතුරින් බරපතළ තුවාල ලැබූ ත්‍රීරෝද රථ රියදුරු සහ පසුපස අසුනේ ගමන් ගත් මගියෙකු කළුබෝවිල රෝහලට ඇතුළත් කිරීමේදී පිටුපස ආසනයේ ගමන් ගත් තරුණයා මියගොස් ඇත.
-
-මෘත ශරීරය කළුබෝවිල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මිරිහාන පොලීසිය අනතුර සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/af021fca.json)
-
----
-
-### பாறை விழுந்ததில் 2 ஆடுகள் இறந்தன: 47 பேர் இடம்பெயர்ந்தனர்
-
-*2025-07-23 10:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாறை-விழுந்ததில்-2-ஆடுகள்-இறந்தன-47-பேர்-இடம்பெயர்ந்தனர்/76-361592) · `ta`
-
-பாறைகள் விழும் அபாயம் இருப்பதால், நானுஓயா பகுதியில் உள்ள 07 குடும்பங்களைச் சேர்ந்த 47 பேர், பாதுகாப்பான இடங்களுக்கு வெளியேற்றப்பட்டுள்ளனர்.
-
-நுவரெலியா மற்றும் நானுஓயா பகுதிகளில் இந்த நாட்களில் பெய்து வரும் கனமழையால், நானுஓயா காவல் பிரிவில் உள்ள உட ரதெல்ல தோட்டத்தின் மேல் பகுதியில் உள்ள 07 குடும்பங்களைச் சேர்ந்த 47 பேரை தற்காலிகமாக பாதுகாப்பான இடங்களுக்கு வெளியேற்ற தோட்ட நிர்வாக அதிகாரிகள் நடவடிக்கை எடுத்துள்ளனர்.
-
-தொடர்ந்து பெய்து வரும் மழை காரணமாக, குடும்பங்கள் வசித்து வந்த லயன் வீடுகளுக்கு மேலே உள்ள மலை உச்சியில் இருந்த பல பெரிய பாறைகள் சரிந்து விழுந்துள்ளன, மேலும் பல பாறைகள் சரிந்து விழும் அபாயம் அதிகமாக இருப்பதால், அந்த வீடுகளில் வசிப்பவர்கள் தற்காலிகமாக தங்கள் உறவினர்களின் வீடுகளுக்கு மாற்றப்பட்டுள்ளனர்.
-
-...
-
-[Data](articles/ac482f9c.json)
-
----
-
-### පුත්තලමේ කඩොලාන වනාන්තර 8 ක් රක්ෂිත කරයි
-
-*2025-07-23 10:26:22* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලමේ-කඩොලාන-වනාන්තර-8-ක්-රක්ෂිත-කරයි/11-417459) · `si`
-
-පුත්තලම දිස්ත්‍රික්කයෙ කඩොලාන වනාන්තර 8 ක් රක්ෂිත බවට පත් කිරීම ජූලි 26 දිනට යෙදෙන ලෝක කඩොලාන සුරැකීමේ දිනය වෙනුවෙන් සිදු වෙන බව පරිසර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳිගේ මහතා පවසයි.
-
-මෙවර ලෝක කඩොලාන සුරැකීමේ දිනය ලබන 26 දින ආනවිලුන්දාව රැම්සා අභය භුමියෙහිදී සැමරීමට පරිසර අමාත්‍යංශය කටයුතු කර තිබේ.
-
-එයට සමගාමීව පුත්තලම දිස්ත්‍රික්කයෙහි පිහිටි කඩොලාන වනාන්තර 8 ක් මෙලෙස රක්ෂිත ලෙස නම් කිරීම සිදුවන බව පරිසර අමාත්‍යාවරයා පවසයි.
-
-එසේ රක්ෂිත ලෙස නම් කර ඇත්තේ මාදම්පේ ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයේ පනිරෙන්ඩාව බීට්ටුවට අයත් 543 ඒ ගලහිටියාව, 504සී ගලහිටියාව ග්‍රාම නිලධාරි වසමේ පිහිටි  පනිරෙන්ඩාව,හලාවත ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයෙහි 577 වෙරළබඩ ග්‍රාම නිලධාරී වසමේ පිහිටි හලාවත,566 ග්‍රාම නිලධාරි වසමේ පිහිටි මැරවල හා 561 කාකක්කපල්ලිය ග්‍රාම නිලධාරි වසමට අයත් 583 කුසල හා ආරච්චිකට්ටුව ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අයත් 582 කරුකුපනේ යන කඩොලාන වනාන්තර බව පරිසර අමාත්‍යංශය පවසයි.
-
-...
-
-[Data](articles/3f7f1ce5.json)
 
 ---

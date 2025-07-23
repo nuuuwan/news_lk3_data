@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 17:52:36**
+As of **2025-07-23 18:09:19**
 
 ## Newspaper Stats
 
-*Scraped **66,355** Articles*
+*Scraped **66,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,368
 adaderanalk | 8,144
-tamilmirrorlk | 9,563
+tamilmirrorlk | 9,564
 virakesarilk | 11,054
-adaderanasinhalalk | 11,397
+adaderanasinhalalk | 11,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,355 articles have been extended.
+61,973 (93.4%) of 66,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### புதிய பிரதம நீதியரசர் பத்மன் சூரசேன
+
+*2025-07-23 17:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-பத்மன்-சூரசேன/175-361629) · `ta`
+
+புதிய பிரதம நீதியரசராக உயர்நீதிமன்ற நீதியரசர் பிரீத்தி பத்மன் சூரசேனவின் பெயரை அரசியலமைப்பு சபை இன்று (23) அங்கீகரித்தது. நீதியரசர் சூரசேனவின் பெயரை ஜனாதிபதி அனுர குமார திசாநாயக்க இந்தப் பதவிக்கு பரிந்துரைத்தார். அவர் இலங்கையின் 49வது தலைமை நீதியரசராகிறார்
+
+◼️
+
+[Data](articles/0ff2096c.json)
+
+---
+
+### ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රයේ ලොකු පිම්මක්
+
+*2025-07-23 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212561) · `si`
+
+ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය හෙන්ලි විදේශ ගමන් බලපත්‍ර දර්ශකයේ ස්ථාන 5ක් ඉදිරියට පැමිණ තිබේ.
+
+ඒ අනුව එම දර්ශකයේ 96 වන ස්ථානයේ සිට ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය 91 වන ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
+
+පසුගිය වසරේදී ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය ස්ථාන 4ක් ඉදිරියට පැමිණ තිබුණි.
+
+හෙන්ලි විදේශ ගමන් බලපත්‍ර දර්ශකය මෙම වසරේ රටවල් ශ්‍රේණිගත කරණු ලබන්නේ පූර්ව වීසා බලපත්‍රයක් නොමැතිව තම රටේ ජනතාවට ඇතුළුවිය හැකි ගමනාන්ත ගණන අනුව වෙයි.
+
+ඒ අනුව ශ්‍රී ලංකාවට ලෝකයේ ගමනාන්ත 42කට වීසා රහිත ප්‍රවේශය පවතී.
+
+සිංගප්පූරු විදේශ ගමන් බලපත්‍ර හිමියන්ට ගමනාන්ත 193කටත් ජපානය සහ දකුණු කොරියානු විදේශ ගමන් බලපත්‍ර හිමියන්ට රටවල් 190ක් සඳහාත් වීසා රහිත ප්‍රවේශය පවතී.
+
+මේ අතර එම දර්ශකයේ ස්ථාන 8ක් ඉදිරියට පැමිණ ඇති අතර ඒ අනුව ඔවුන්ට 77 වන ස්ථානය හිමිව තිබේ.
+
+එම දර්ශකයේ අවසන් ස්ථාන හතරේ පාකිස්තානය, ඉරාකය, සිරියාව සහ ඇෆ්ගනිස්තානය රැඳී සිටී.
+
+◼️
+
+[Data](articles/9506c5b9.json)
+
+---
 
 ### මීළඟ අගවිනිසුරු ලෙස ප්‍රීති පද්මන් සූරසේනගේ නම ව්‍යවස්ථාදායක සභාව අනුමත කරයි
 
@@ -69,6 +107,26 @@ Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief 
 ◼️
 
 [Data](articles/ade9edc0.json)
+
+---
+
+### මියගොස් සිටි වනඅලි සිව්දෙනා සම්බන්ධව නිවේදනයක්
+
+*2025-07-23 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212559) · `si`
+
+මියගොස් සිටි වනඅලි සිව්දෙනා සම්බන්ධව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව සහ පරිසර අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ මෙවැනි වනඅලි ඇතුන් බහුලව ගැවසෙන රක්ෂිත ආශ්‍රිතව ජීවත් වන පුද්ගලයින් සන්තකයේ නීති විරෝධී ගිනිඅවි ඇත්නම් ඒ සම්බන්ධයෙන් විශේෂ මෙහෙයුම් දියත් කර අවශ්‍ය නීතිමය පියවර ගැනීම කඩිනමින් සිදුකිරීමට සැලසුම්කර කර ඇති බවය.
+
+එම කාර්යයන් සඳහා ප්‍රාදේශීය පොලිස් නිළධාරින්ගේ හා පොලිස් විශේෂ කාර්යය බලකායේ සහාය ලබාගැනීමට බලාපොරොත්තු වන බවද එම නිවේදන වල සඳහන් වේ.
+
+සීගිරිය දිගම්පතන ප්‍රදේශයේ මුරුංගාහිටිකන්ද වන සංරක්ෂණ රක්ෂිතය ආශ්‍රිතව මීට වසරකට පමණ ආසන්න කාල සිමාවක් තුල මියගොස් ඇති වන අලි තිදෙනෙකු හා ගල්ගමුව ඇහැටුවැව ප්‍රදේශයේ ආසන්න දිනක මියගොස් ඇති ඇතෙකු සම්බන්ධව කරුණු වාර්තා වී තිබුණි.
+
+සීගිරිය දිගම්පතන ප්‍රදේශයේ මියගිය වල් අලින් අතරින් එක් අලියකු 2025.02.03 වන දින වනජීවී නිළධාරින් වෙත පළමුවරට වාර්තා වී ඇති අතර ඒ සම්බන්ධව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව විසින් දඹුල්ල මහෙස්ත්‍රාක් අධිකරණයේ A/873/25 නඩුවක් ගොණුකර විමර්ශන කටයුතු සිදුකරමින් පවතී.
+
+...
+
+[Data](articles/a9cddfcf.json)
 
 ---
 
@@ -1757,61 +1815,5 @@ Meanwhile, stocks opened up; The ASPI was up 0.43%, or 82.01 points, at 19,173.9
 ◼️
 
 [Data](articles/f53b883b.json)
-
----
-
-### Man dies in house fire in Narahenpita
-
-*2025-07-23 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/110757/man-dies-in-house-fire-in-narahenpita) · `en`
-
-An individual has died in a fire that broke out at a residence in the ‘397 Waththa’ area of the Narahenpita Police Division early this morning (23).
-
-The person who was trapped in the fire and suffered severe burn injuries was admitted to the Colombo National Hospital by the police. However, he later succumbed to his injuries.
-
-The deceased has been identified as a tenant, around 50-years old, who was residing in the house, police said.
-
-The cause of the fire is not yet known, and the Narahenpita Police are conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/b320be9d.json)
-
----
-
-### Youth commits suicide after murdering girlfriend, injuring her parents
-
-*2025-07-23 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110756/youth-commits-suicide-after-murdering-girlfriend-injuring-her-parents) · `en`
-
-A young woman residing in the Marangala area of Padiyathalawa, Ampara, has been found murdered after having her throat slit by her boyfriend who had later committed suicide by slitting his own throat.
-
-The young man in question, who had arrived at the woman’s residence on a motorcycle, committed the crime and also inflicted cuts on the victim’s mother and father.
-
-However, the injured mother and father are currently receiving treatment at the Mahaoya Base Hospital.
-
-The deceased is a 23-year-old woman named Saroja Udayangani, and the young man who committed the murder has been identified as a 31-year-old resident of the Monaragala area.
-
-The investigation conducted so far has revealed that a dispute over the romantic relationship between the deceased and her boyfriend, who committed the murder, had led to this incident.
-
-Both bodies are currently under police protection at the scene of the incident, and a magisterial inquiry is scheduled to be conducted in this regard.
-
-◼️
-
-[Data](articles/22133653.json)
-
----
-
-### Trump says US will impose 19% tariff on imports from Philippines in deal struck with leader Marcos
-
-*2025-07-23 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110755/trump-says-us-will-impose-19-tariff-on-imports-from-philippines-in-deal-struck-with-leader-marcos) · `en`
-
-President Donald Trump said he has reached a trade agreement with Philippine leader Ferdinand Marcos Jr., following a meeting Tuesday at the White House, that will see the U.S. slightly drop its tariff rate for the Philippines without paying import taxes for what it sells there.
-
-Trump revealed the broad terms of the agreement on his social media network and said the U.S. and the Philippines would work together militarily. The announcement of a loose framework of a deal comes as the two countries are seeking closer security and economic ties in the face of shifting geopolitics in the Indo-Pacific region.
-
-Marcos’ government indicated ahead of the meeting that he was prepared to offer zero tariffs on some U.S. goods to strike a deal with Trump. The Philippine Embassy did not immediately respond to a message seeking comment.
-
-...
-
-[Data](articles/675f27ee.json)
 
 ---

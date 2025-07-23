@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 20:06:27**
+As of **2025-07-23 20:22:30**
 
 ## Newspaper Stats
 
-*Scraped **66,367** Articles*
+*Scraped **66,368** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 589
+dbsjeyarajcom | 590
 colombotelegraphcom | 677
 bbccomsinhala | 677
 economynextcom | 4,051
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,367 articles have been extended.
+61,973 (93.4%) of 66,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1560,6 +1560,20 @@ She will highlight key areas of economic cooperation and discuss emerging sector
 
 ---
 
+### 
+
+*2025-07-23 10:42:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86192) · `en`
+
+யாழ்ப்பாணக் குடாநாட்டில் மக்கள் செறிந்து  வாழாத  செம்மணி  அண்மைய நாட்களாக ஐயத்துக்குரிய  ஒரு பிரபல்யத்தை பெற்றிருக்கிறது. மக்களின் எண்ணத்தில் யாழ்ப்பாணத்தில் நல்லூர் பிரபல்யம் வாய்ந்த நல்லூர் கந்தசாமி கோவிலுடன் நேர்மறையாக நோக்கப்படுகின்ற அதேவேளை,  செம்மணி மனிதப் புதைகுழிகளுடன் எதிர்மறையான எண்ணத்தில்  நோக்கப்படுகின்றது.
+
+இலங்கை ஆயுதப் படைகளுக்கும் விடுதலை புலிகள் இயக்கத்துக்கும் இடையிலான நீண்ட போரின் விளைவாக  ஆட்கள் காணாமல் போன சம்பவங்களும்  சட்டத்துக்கு புறம்பான கொலைகளும் பெருமளவில் இடம்பெற்றன. அந்த கொடூர சம்பவங்களின்  அடையாளபூர்வமான சான்றாக செம்மணியில்  கண்டுபிடிக்கப்பட்ட மனிதப் புதைகுழிகள் விளங்குகின்றன.
+
+...
+
+[Data](articles/30cbb747.json)
+
+---
+
 ### சுட்டக்கோழி விவகாரம்: 19 பேருக்கு வாந்தி
 
 *2025-07-23 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுட்டக்கோழி-விவகாரம்-19-பேருக்கு-வாந்தி/175-361593) · `ta`
@@ -1805,15 +1819,5 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 ◼️
 
 [Data](articles/4adbabe5.json)
-
----
-
-### கோப்பின் கோவணம் அவிழ்ந்தது
-
-*2025-07-23 09:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கோப்பின்-கோவணம்-அவிழ்ந்தது/62-361588) · `ta`
-
-◼️
-
-[Data](articles/7c278a23.json)
 
 ---

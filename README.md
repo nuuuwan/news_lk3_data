@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 11:37:13**
+As of **2025-07-23 11:51:48**
 
 ## Newspaper Stats
 
-*Scraped **66,287** Articles*
+*Scraped **66,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,045
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,358
+adalk | 6,359
 adaderanalk | 8,125
-tamilmirrorlk | 9,546
+tamilmirrorlk | 9,548
 virakesarilk | 11,046
 adaderanasinhalalk | 11,389
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,287 articles have been extended.
+61,973 (93.5%) of 66,290 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,9 +38,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 නාවලපිටිය, ඉඹුල්පිටිය වතුයායේ අතහැර දමා තිබූ පාලු බංගලාවක් තුළදී අනියම් බිරිඳගේ ගෙල කපා ඝාතනය කළ පුද්ගලයා පොලීසියට භාරවී තිබේ.
 
-◼️
+සැකකරු ගම්පොළට භාරවී ඇති අතර, පසුව නාවලපිටිය පොලීසිය වෙත වැඩිදුර විමර්ශන සඳහා භාරදී ඇත.
+
+ඊයේ (22) සවස මෙම ඝාතනය සිදුව ඇති ඇති අතර, ඝාතනයට ලක්ව ඇත්තේ, නාවලපිටිය ඉඹුල්පිටිය වතුයායේ පදිංචිව සිටි යෝග මලර් නැමති 39 හැවිරිදි  තිදරු මවකි.
+
+ඝාතනයට ලක් වූ කාන්තාව සැකකරු සමග ගම්පොළ පුස්සැල්ලාව ප්‍රදේශයේ මාස 09ක පමණ කාලයක් එකට වාසය කර ඇති අතර, පසුව යළිත් සිය නිත්‍යානුකූල සැමියාගේ නිවසට පැමිණ තිබේ.
+
+නිවසට පැමිණ සිටි අදාළ කාන්තාව වරින්වර සැකකරුට දුරකථන ඇමතුම් ලබාගෙන ඇති අතර, ගෘහසේවය සඳහා විදෙස්ගත වීමට සුදානමින් සිට ඇත.
+
+පොලීසිය සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ, විදෙස්ගත වීම සම්බන්ධයෙන් සැකකරුගෙන් දැඩි විරෝධයක් එල්ල වී තිබූ බවය.
+
+ඝාතනයට ලක්වූ කාන්තාව විදෙස්ගත වීමට ග්‍රාම සේවක සහතිකයක් ලබාගැනීමට ගිය අවස්ථාවේ දී සැකකරු දුරකථනයෙන් කතා කර පාලු නිවසකට පැමිණෙන ලෙස පවසා ඇති අතර, එහි ගිය පසු කාන්තාවගේ ගෙල කපා ඝාතනය කර ඇත.
+
+...
 
 [Data](articles/52e3e197.json)
+
+---
+
+### ரணில் மீதான வழக்கு ;உயர் நீதிமன்றம் அதிரடி தீர்ப்பு
+
+*2025-07-23 11:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-மீதான-வழக்கு-உயர்-நீதிமன்றம்-அதிரடி-தீர்ப்பு/150-361599) · `ta`
+
+2022  ஜூலை 17,   அன்று அப்போதைய பதில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் நாடு முழுவதும் அறிவிக்கப்பட்ட அவசரகாலச் சட்டம் அரசியலமைப்பிற்கு விரோதமானது என்றும் அடிப்படை மனித உரிமைகளை மீறுவதாகவும் உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+பிரதம நீதியரசர் முர்து பெர்னாண்டோ மற்றும் நீதியரசர்  யசந்த கோடகொட உள்ளிட்ட மூன்று நீதியரசர்கள்  கொண்ட அமர்வின் பெரும்பான்மையானவர்கள், பொது பாதுகாப்பு கட்டளைச் சட்டத்தின் பிரிவு 2 இன் கீழ் வெளியிடப்பட்ட அவசரகால விதிமுறைகள் தன்னிச்சையானவை மற்றும் செல்லுபுடியாகாதவை என்று தீர்ப்பளித்தனர்.
+
+அரகலய இயக்கத்தின் உச்சக்கட்டத்தின் போது வெகுஜன போராட்டங்களைக் கட்டுப்படுத்த இந்த விதிமுறைகள் இயற்றப்பட்டன. அவசரகாலச் சட்டம் அமல்படுத்தப்பட்டது அடிப்படை சுதந்திரங்களை விகிதாசாரமற்ற முறையில் குறைத்ததாக நீதிமன்றம் தீர்மானித்தது.
+
+இருப்பினும், நீதிபதி அர்ஜுன ஒபேசேகர, இதற்கு எதிர்ப்புத் தெரிவித்து, இந்த விதிமுறைகள் அடிப்படை உரிமைகளை மீறவில்லை என்று தீர்ப்பளித்தார்.
+
+...
+
+[Data](articles/40048355.json)
 
 ---
 
@@ -63,6 +93,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/06af61ae.json)
+
+---
+
+### தென்னகோனை நீக்கும் விவாதம் குறித்து சபாநாகயர் விளக்கம்
+
+*2025-07-23 11:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தென்னகோனை-நீக்கும்-விவாதம்-குறித்து-சபாநாகயர்-விளக்கம்/150-361598) · `ta`
+
+ஐஜிபி தேசபந்து தென்னகோனை அவரது பதவியில் இருந்து நீக்கும் தீர்மானம் மீதான விவாதத்தை பாராளுமன்றம் எப்போது மேற்கொள்ள வேண்டும் என்பதை கட்சித் தலைவர்கள் முடிவு செய்வார்கள் என்று சபாநாயகர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"நிலையியற் கட்டளை 27 இன் படி, ஐஜிபியை பதவியில் இருந்து நீக்குவதற்கான தீர்மானம், சமூகமளிக்காத எம்.பி.க்களையும் கணக்கிட்டு, தெளிவான பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டும் " என்று சபாநாயகர் அறிவித்தார்.
+
+இந்தத் தீர்மானம் ஐந்து நாட்களுக்கு ஒழுங்கு பத்திரத்தில் இருக்க வேண்டும் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/184cf4a6.json)
 
 ---
 
@@ -313,6 +359,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bcc9dcc9.json)
+
+---
+
+### ඇමෙරිකාව සමග මේ දක්වා සාර්ථකම වෙළඳ ගණුදෙනුවට ජපානය එළැඹෙයි
+
+*2025-07-23 10:20:51* · [`adalk`](https://www.ada.lk/business/ඇමෙරිකාව-සමග-මේ-දක්වා-සාර්ථකම-වෙළඳ-ගණුදෙනුවට-ජපානය-එළැඹෙයි/7-417458) · `si`
+
+වෙළඳ ගනුදෙනු සම්බන්ධයෙන් ඇමෙරිකාව සමග නව ගිවිසුමකට පැමිණි බව ජපාන අගමැති ෂිගේරු ඉෂිබා තහවුරු කර ඇත.
+
+"අන්‍යෝන්‍ය තීරුබදු මත 25% දක්වා වැඩි කිරීමට නියමිතව තිබූ ජපානයේ තීරුබදු අනුපාතය 15% ක් ලෙස තබා ගන්නා ලදී. මෙය එක්සත් ජනපදය සමඟ වෙළඳ අතිරික්තයක් ඇති රටවල් අතර පනවන ලද තීරුබදු අතර මේ දක්වා අඩුම අගය මෙයයි" ඉෂිබා බදාදා පැවසීය.
+
+ජපන් වාහන සඳහා එක්සත් ජනපද ආනයන බදු 25% සිට 15% දක්වා අඩු කරන බව ඉෂිබා ද තහවුරු කළේය.
+
+ජපානය මේ වන විටත් ඇමෙරිකාව තුළ දැවැන්ත ආයේජන ගණනාවක් කිරිමට එකඟතාව පළකර ඇති අතර බදු ප්‍රතිශතය අඩු කර ගැනීමට එයද ප්‍රධාන සාධකයක් බවට පත්ව තිබේ.
+
+"කෘෂිකාර්මික නිෂ්පාදන ඇතුළුව ජපන් පැත්තෙන් තීරුබදු අඩු කිරීමක් ගිවිසුමට ඇතුළත් නොවේ. මෙම වසරේ පෙබරවාරි මාසයේ අපගේ ධවල මන්දිර සමුළුවේදී ජනාධිපති ට්‍රම්ප්ට 'තීරුබදු මත ආයෝජනය' යෝජනා කළ දා සිට මෙය මගේ අඛණ්ඩ පෙනී සිටීමේ සහ එක්සත් ජනපදයට දැඩි ලෙස බලපෑම් කිරීමේ ප්‍රතිඵලයකි." යැයි ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/1116d68f.json)
 
 ---
 
@@ -1422,7 +1488,7 @@ However, he said if anyone who finds that the existing violates standard procedu
 
 While coconut remains an integral part of the nation’s culinary identity and a key export commodity, the growers who sustain this legacy are battling mounting challenges that threaten both livelihoods and the future of the industry
 
-Sri Lanka, often celebrated as the land of the “Tree of Life,” is facing an alarming crisis in one of its most vital agricultural sectors—the coconut industry. While coconut remains an integral part of the nation’s culinary identity and a key export commodity, the growers who sustain this legacy are battling mounting challenges that threaten both livelihoods and the future of the industry.
+The coconut tree, deeply embedded in Sri Lanka’s cultural heritage and economy, represents more than just an agricultural crop—it is a symbol of nourishment, tradition, and national pride. But today, those who nurture this heritage are being left behind. Without decisive and inclusive action, Sri Lanka risks not only losing its position as a top global exporter but also dismantling a vital rural economy that supports millions
 
 ...
 
@@ -1699,47 +1765,5 @@ Prime Minister Dr. Harini Amarasuriya also stressed the need for a coordinated, 
 ...
 
 [Data](articles/6220d4c8.json)
-
----
-
-### தனியார் துறை ஊழியர்களின் குறைந்தபட்ச சம்பளம் ரூ.30,000 ஆக அதிகரிக்கப்படும் – அமைச்சர் அனில் ஜயந்த பெர்ணான்டோ
-
-*2025-07-22 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/220675) · `ta`
-
-தனியார் துறை ஊழியர்களின் ஆகக் குறைந்த அடிப்படை சம்பளமாக இருந்த 17,500 ரூபாவை கடந்த ஏப்ரல் மாதம் முதல் 27,000 ரூபாவாக அதிகரிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், அடுத்த வருடம் ஜனவரி முதலாம் திகதி முதல் அந்த தொகை 30 ஆயிரம் ரூபாவாக அதிகரிக்கப்படும் என தொழில் அமைச்சர் அனில் ஜயந்த பெர்ணான்டோ தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) நடைபெற்ற வேலையாட்சகளின் வரவு செலவுத் திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் மற்றும் வேலையாட்களின் குறைந்தபட்ச வேதனம் தொடர்பான (திருத்தச்) சட்டமூலம் மீதான விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/eb6da2e3.json)
-
----
-
-### SriLankan Cargo joins Freightos:  New digital bridge to South Asian markets
-
-*2025-07-22 21:47:57* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Cargo-joins-Freightos-New-digital-bridge-to-South-Asian-markets/34-779314) · `en`
-
-SriLankan Cargo finalised its partnership with Freightos at the Transport Logistics 2025 trade fair in Munich. From left: SriLankan Airlines Cargo Manager – Europe and Indian subcontinent Suchithra Paththinige, Cargo Head Chaminda Perera, WebCargo by Freightos Commercial Vice President – Airlines and Payments Julien Triay, and SriLankan Airlines Manager – Cargo Worldwide Sales Lakmali Kahawatte
-
-SriLankan Cargo, the air freight arm of SriLankan Airlines, has joined WebCargo by Freightos, a leading digital booking and payment platform for international freight. The integration allows over 10,000 freight forwarding offices worldwide to seamlessly access SriLankan Cargo’s capacity, request quotations, make bookings and process payments in real time.
-
-...
-
-[Data](articles/20e3e6d4.json)
-
----
-
-### DIMO powers Marina Square – Colombo with state-of-the-art low voltage electrical solutions
-
-*2025-07-22 21:46:52* · [`dailyftlk`](https://www.ft.lk/business/DIMO-powers-Marina-Square-Colombo-with-state-of-the-art-low-voltage-electrical-solutions/34-779313) · `en`
-
-DIMO, a leading diversified conglomerate in Sri Lanka, has successfully secured the order for design and supply of a comprehensive Low Voltage (LV) power distribution system for Marina Square – Colombo. This is one of the most prestigious and luxurious real estate developments in Colombo. This landmark project sets a new benchmark for upscale urban living in Sri Lanka, featuring 1,088 luxury apartments, a high-end retail mall, and premium amenities.
-
-The fully integrated, state-of-the-art LV electrical distribution system by DIMO has been engineered to meet the high-performance demands of Marina Square, while significantly enhancing the project’s overall safety. A key component of the solution includes Type-Tested (Design-Verified) SIVACON LV Switchboards from SIEMENS, encompassing Sub/Floor Distribution Boards, and the innovative Apartment DBs manufactured under the DIMO Lumin brand.
-
-...
-
-[Data](articles/301f0bf0.json)
 
 ---

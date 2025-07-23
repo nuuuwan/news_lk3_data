@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 22:37:57**
+As of **2025-07-23 22:51:11**
 
 ## Newspaper Stats
 
-*Scraped **66,386** Articles*
+*Scraped **66,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,373
+adalk | 6,374
 adaderanalk | 8,151
 tamilmirrorlk | 9,568
 virakesarilk | 11,058
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,386 articles have been extended.
+61,973 (93.4%) of 66,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -337,6 +337,22 @@ Among the wild elephants that died in Digampathaha, one elephant was first repor
 ◼️
 
 [Data](articles/fe3d00d3.json)
+
+---
+
+### සමාගම් පනත සම්මතයි
+
+*2025-07-23 18:21:27* · [`adalk`](https://www.ada.lk/breaking_news/සමාගම්-පනත-සම්මතයි/11-417473) · `si`
+
+2007 අංක 7 දරන සමාගම් (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (23) පාර්ලිමේන්තුවේදී  සම්මත විය.
+
+අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා සමාගම් (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ  විවාදය  පැවැත්වුණු අතර,  ඡන්ද විමසීමකින් තොරව  එම පනත් කෙටුම්පත සම්මත විය.
+
+2007 අංක 7 දරන  සමාගම් (සංශෝධන) පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.06.05 දින  පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+◼️
+
+[Data](articles/9b5362b8.json)
 
 ---
 
@@ -1803,23 +1819,5 @@ However, Justice Arjuna Obeysekara, also a member of the bench, in his separate 
 ...
 
 [Data](articles/e9a9007a.json)
-
----
-
-### 16 students injured in school bus accident in Beligalla
-
-*2025-07-23 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110762/16-students-injured-in-school-bus-accident-in-beligalla) · `en`
-
-A bus transporting school children veered off the road in the Beligalla area along the Beliatta–Weeraketiya road at around 7:30 a.m. this morning (July 23).
-
-According to reports, the bus veered off the road and collided with an embankment before coming to a halt, said Ada Derana reporter.
-
-Sixteen students sustained injuries in the accident and were initially admitted to the Beligalla Hospital. Several of them have since been discharged after receiving treatment.
-
-As of now, a total of 13 children are still receiving medical care at the Beliatta, Beligalla, Tangalle, and Weeraketiya hospitals.
-
-◼️
-
-[Data](articles/05a4e5ca.json)
 
 ---

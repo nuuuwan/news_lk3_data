@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 21:21:29**
+As of **2025-07-23 21:33:06**
 
 ## Newspaper Stats
 
-*Scraped **66,372** Articles*
+*Scraped **66,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,372
-adaderanalk | 8,147
+adaderanalk | 8,149
 tamilmirrorlk | 9,567
-virakesarilk | 11,054
-adaderanasinhalalk | 11,401
+virakesarilk | 11,058
+adaderanasinhalalk | 11,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,372 articles have been extended.
+61,973 (93.4%) of 66,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### யாழ். செம்மணி மனிதப் புதைகுழியில் இன்று 5 மனித எலும்புக்கூடுகள் அடையாளம் ; மொத்த எண்ணிக்கை 85 ஆக உயர்வு
+
+*2025-07-23 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/220760) · `ta`
+
+யாழ்ப்பாணம், அரியாலை செம்மணி சிந்துப்பாத்தி மனித புதைகுழியில் இருந்து இன்று புதன்கிழமை (23) மேலும் 5 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளன.
+
+இதுவரை அடையாளம் காணப்பட்ட மனித எலும்புக்கூடுகளின் மொத்த எண்ணிக்கை 85 ஆக உயர்ந்துள்ளது , இவற்றில்  67 எலும்புக்கூடுகள் முழுமையாக தோண்டி எடுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/cf270bd8.json)
+
+---
 
 ### உதட்டில் ஊசி போட்டதால் கோரமாக மாறிய உர்ஃபியின் முகம்
 
@@ -47,6 +61,88 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/00c655fa.json)
+
+---
+
+### පනත් කෙටුම්පත් තුනකට කථානායකගේ සහතිකය
+
+*2025-07-23 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212564) · `si`
+
+සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත ), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත ) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත යන පනත් කෙටුම්පත් ත්‍රිත්වය සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (23)  සිය සහතිකය සටහන් කළේය.
+
+මෙම පනත් කෙටුම්පත් ත්‍රිත්වය සඳහා වූ  දෙවනවර කියවීමේ විවාදය ඊයේ (22)  පාර්ලිමේන්තුවේදී පැවැත්විණි.
+
+මෙම පනත් කෙටුම්පත් ත්‍රිත්වය  පළමු වර කියවීම සඳහා 2025.06.03  දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+ඒ අනුව සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත ) 2025 අංක 9 දරන සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත ලෙසත්, සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත)  2025 අංක  10 දරන සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත ලෙසත්, සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත 2025 අංක 11සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත ලෙසත් බලාත්මක වේ.
+
+...
+
+[Data](articles/9eddda97.json)
+
+---
+
+### காத்தான்குடியில் வடிகான் மூடியை திருடிச் சென்ற குற்றச்சாட்டில் கைது செய்யப்பட்ட நகரசபை உறுப்பினர் உட்பட 3 பேருக்கு பிணை
+
+*2025-07-23 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/220757) · `ta`
+
+காத்தான்குடியில் நகரசபைக்கு சொந்தமாக வடிகான் கொங்கிறீற் மூடியை திருடச் சென்றதாக குற்றச்சாட்டில் கைது செய்யப்பட்ட நகரசபை சுயேச்சைக்குழு உறுப்பினர் ஒருவர் உட்பட 3 பேரையும் மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் புதன்கிழமை (23) இரண்டு இலச்சம் ரூபா பெறுமதியான தலா இரண்டுபேர் கொண்ட  ஆட்பிணையில் செல்ல உத்தரவிட்டு எதிர்வரும் செட்டம்பர் 23 ம் திகதி வழக்கை தவணையிட்டு ஒத்திவைத்தார்.
+
+காத்தான்குடியில் நகரசபையின் சுயேச்சைக்குழு உறுப்பினர் அவரது வட்டாரமான கல்முனை பழைய வீதியிலுள்ள வடிகான் மூடி ஒன்று இல்லாமல் பலவருடங்களாக இருந்துள்ளதுடன் அந்தபகுதி பாடசாலை மாணவர்கள் பள்ளிவாசலுக்கு செல்வேல் உட்பட அந்த வீதி ஊடாக பாதசாரதிகள் பிரயாணிக்க முடியாமல் பல்வேறு அசௌகரியங்களை எதிர் நோக்கிவந்துள்ளனர்
+
+...
+
+[Data](articles/1d6f80e0.json)
+
+---
+
+### Speaker certifies National Minimum Wage for Workers Amendment Bill
+
+*2025-07-23 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110786/speaker-certifies-national-minimum-wage-for-workers-amendment-bill) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne today (23) endorsed his certification on the three Bills, the Budgetary Relief Allowance of Workers (Amendment) Bill to amend Act No. 36 of 2005, the Budgetary Relief Allowance of Workers (Amendment) Bill to amend Act No. 4 of 2016, and the National Minimum Wage for Workers (Amendment) Bill.
+
+The Second Reading debate on the three Bills was held yesterday (22), and were passed by Parliament.
+
+The three Bills were presented to Parliament for the First Reading on June 03, 2025.
+
+...
+
+[Data](articles/9920cb88.json)
+
+---
+
+### சீன,இலங்கை உறவுகளை மேம்படுத்த பல திட்டங்கள் வகுக்கப்பட்டுள்ளன சின்ங்சியா மாநில வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் தெரிவிப்பு
+
+*2025-07-23 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220759) · `ta`
+
+இலங்கைக்கும் சீனாவுக்கும் இடையிலான பல்துறை உறவுகளை  நிலையானதாக மேம்படுத்த இருதரப்புக்கும் இடையில் பல திட்டங்கள் தற்போது வகுக்கப்பட்டுள்ளன. இலங்கையுடனான எரிசக்தி மற்றும் புதுப்பிக்கத்தக்க சக்தி வலுத்திட்டங்கள் துரிதகரமாக செயற்படுத்தப்படும். இலங்கையுடனான வரலாற்று சிறப்புமிக்க நட்புறவை பல்துறைகளில் மேம்படுத்துவோம் என சீனாவின் சின்ங்சியா மாநிலத்தின் வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் நாயகம் ஃபேன் ஹவ்ஃபெங் தெரிவித்தார்.
+
+சீன குடியரசின் அழைப்புக்கமைய சீனாவுக்கு விஜயம் மேற்கொண்டுள்ள இலங்கையின் பல்துறை சார்ந்த தரப்பினர்கள் நேற்று புதன்கிழமை சீனாவின் சின்ங்சியா மாநிலத்தின் உத்தியோகபூர்வ  வெளிவிவகாரத்துறை அலுவலகத்தின் அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
+
+இச்சந்தர்ப்பத்தில் சின்ங்சியா மாநிலத்தின் வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் நாயகம்  ஃபேன் ஹவ்ஃபெங் வருமாறு குறிப்பிட்டார்.
+
+இலங்கைக்கும் சீனாவுக்கும் இடையிலான தொடர்பிலான உறவை ஒரு வரையறைக்குள் உடபடுத்த முடியாது.இரு நாடுகளுக்கும் இடையில் வரலாற்று ரீதியில் தொடர்பு காணப்படுகிறது.
+
+...
+
+[Data](articles/ec42eab6.json)
+
+---
+
+### குஷ் போதைப்பொருள் தொகையுடன் ஒருவர் கைது
+
+*2025-07-23 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220758) · `ta`
+
+ராஜகிரிய பகுதியில் சுமார் 12 மில்லியன் ரூபாய் மதிப்புள்ள குஷ் போதைப்பொருள் தொகையுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இராணுவ புலனாய்வுப் பிரிவிற்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் பத்தரமுல்ல கலால் சிறப்பு நடவடிக்கைப் பிரிவின் அதிகாரிகளுடன் இணைந்து நடத்தப்பட்ட சோதனையின் போது இந்த போதைப்பொருள் தொகை மீட்கப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தலவத்துகொட, பன்னிபிட்டிய பகுதியைச் சேர்ந்தவர் என்பதுடன், பத்தரமுல்ல கலால் சிறப்பு நடவடிக்கைப் பிரிவு சம்பவம் குறித்து மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f6968c5c.json)
 
 ---
 
@@ -71,6 +167,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0f27bc88.json)
+
+---
+
+### Man arrested in Rajagiriya with ‘Kush’ worth Rs. 12 Mn
+
+*2025-07-23 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110785/man-arrested-in-rajagiriya-with-kush-worth-rs-12-mn) · `en`
+
+An individual has been arrested with a stock of Kush cannabis valued at approximately Rs. 12 million in Rajagiriya.
+
+According to the Sri Lanka Army, the stock of drugs was discovered during a raid conducted based on information received by the Army Intelligence Unit, in collaboration with officers from the Excise Special Operations Bureau in Battaramulla.
+
+During the raid, approximately 2 kilograms of Kush drugs were seized, and a suspect was taken into custody, the Army stated.
+
+The arrested suspect is a resident of Thalawathugoda. The Excise Special Operations Bureau is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/b69d0f7b.json)
 
 ---
 
@@ -560,7 +674,9 @@ The ADB has revised the growth outlook for South Asia for 2025 from 6.0% in the 
 
 It noted, “the slight downward revisions for GDP growth in India and Sri Lanka in 2025 are primarily due to the effects of US tariff policies.”
 
-◼️
+For the broader region, the ADB has lowered growth projections for developing Asia and the Pacific due to a reduction in exports, global trade uncertainties, and weaker domestic demand. The region’s economic growth is now projected at 4.7% for FY2025, down from 4.9% previously, with the forecast for FY2026 also lowered to 4.6%.
+
+...
 
 [Data](articles/64f8d84d.json)
 
@@ -1701,131 +1817,5 @@ She will highlight key areas of economic cooperation and discuss emerging sector
 ◼️
 
 [Data](articles/309c75de.json)
-
----
-
-### ஜப்பானுடன் அமெரிக்கா வர்த்தக ஒப்பந்தம்
-
-*2025-07-23 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220698) · `ta`
-
-ஜப்பானுடன் வர்த்தக ஒப்பந்தம் ஒன்று செவ்வாய்க்கிழமை (22) எட்டப்பட்டதாக அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
-
-புதிய ஒப்பந்தத்தின் படி, ஜப்பானில் இருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு முன்னர் விதித்திருந்த 25 சதவீத வரியை 15 சதவீதமாக அமெரிக்கா குறைந்துள்ளது.
-
-எனது வழிகாட்டுதலின் கீழ் ஜப்பான் அமெரிக்காவில் 550 பில்லியன் டொலர்களை (€468.5 பில்லியன்) முதலீடு செய்யும் எனவும், அமெரிக்காவில் உற்பத்தி செய்யப்படும் கார் மற்றும் அரிசி உள்ளிட்ட குறிப்பிட்ட சில பொருட்களை ஜப்பானில் இனி விற்பனை செய்யலாம் என டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
-
-இந்த ஒப்பந்தம் இலட்சக்கணக்கான வேலைவாய்ப்புக்களை உருவாக்குவதோடு, இதுபோன்ற எதுவும் இதற்கு முன்பு நடந்ததில்லை என ட்ரம்ப் ட்ரூத் சோஷியலில் பதிவிட்டுள்ளார்.
-
-அமெரிக்கா "ஜப்பான் நாட்டுடன் எப்போதும் சிறந்த உறவைக் கொண்டிருக்கும்" எனவும் அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/bcc9dcc9.json)
-
----
-
-### ඇමෙරිකාව සමග මේ දක්වා සාර්ථකම වෙළඳ ගණුදෙනුවට ජපානය එළැඹෙයි
-
-*2025-07-23 10:20:51* · [`adalk`](https://www.ada.lk/business/ඇමෙරිකාව-සමග-මේ-දක්වා-සාර්ථකම-වෙළඳ-ගණුදෙනුවට-ජපානය-එළැඹෙයි/7-417458) · `si`
-
-වෙළඳ ගනුදෙනු සම්බන්ධයෙන් ඇමෙරිකාව සමග නව ගිවිසුමකට පැමිණි බව ජපාන අගමැති ෂිගේරු ඉෂිබා තහවුරු කර ඇත.
-
-"අන්‍යෝන්‍ය තීරුබදු මත 25% දක්වා වැඩි කිරීමට නියමිතව තිබූ ජපානයේ තීරුබදු අනුපාතය 15% ක් ලෙස තබා ගන්නා ලදී. මෙය එක්සත් ජනපදය සමඟ වෙළඳ අතිරික්තයක් ඇති රටවල් අතර පනවන ලද තීරුබදු අතර මේ දක්වා අඩුම අගය මෙයයි" ඉෂිබා බදාදා පැවසීය.
-
-ජපන් වාහන සඳහා එක්සත් ජනපද ආනයන බදු 25% සිට 15% දක්වා අඩු කරන බව ඉෂිබා ද තහවුරු කළේය.
-
-ජපානය මේ වන විටත් ඇමෙරිකාව තුළ දැවැන්ත ආයේජන ගණනාවක් කිරිමට එකඟතාව පළකර ඇති අතර බදු ප්‍රතිශතය අඩු කර ගැනීමට එයද ප්‍රධාන සාධකයක් බවට පත්ව තිබේ.
-
-"කෘෂිකාර්මික නිෂ්පාදන ඇතුළුව ජපන් පැත්තෙන් තීරුබදු අඩු කිරීමක් ගිවිසුමට ඇතුළත් නොවේ. මෙම වසරේ පෙබරවාරි මාසයේ අපගේ ධවල මන්දිර සමුළුවේදී ජනාධිපති ට්‍රම්ප්ට 'තීරුබදු මත ආයෝජනය' යෝජනා කළ දා සිට මෙය මගේ අඛණ්ඩ පෙනී සිටීමේ සහ එක්සත් ජනපදයට දැඩි ලෙස බලපෑම් කිරීමේ ප්‍රතිඵලයකි." යැයි ඔහු පැවැසීය.
-
-◼️
-
-[Data](articles/1116d68f.json)
-
----
-
-### காசாவில் மூன்று நாட்களில் 21 சிறுவர்கள் உணவின்றி உயிரிழப்பு
-
-*2025-07-23 10:20:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-மூன்று-நாட்களில்-21-சிறுவர்கள்-உணவின்றி-உயிரிழப்பு/50-361590) · `ta`
-
-காசாவில் மூன்றே நாட்களில் 21 சிறுவர்கள் பட்டினி மற்றும் ஊட்டச்சத்து குறைபாடு காரணமாக பலியானதாக ஐ.நா தெரிவித்துள்ளது. இஸ்ரேலின் தீவிர ராணுவ நடவடிக்கை காரணமாக பாலஸ்தீனத்தின் காசாவில் உணவு பற்றாக்குறை மற்றும் மனித அத்துமீறில்கள் அரங்கேறுவது தொடர்கிறது.
-
-ராணுவ நடவடிக்கை காரணமாக உறவு, உடமை என அனைத்தையும் இழந்து நிற்கும் காசா வாழ் மக்களுக்கு உண்ண முறையான உணவு கூட கிடைப்பதில்லை. இஸ்ரேல் நடத்திய தாக்குதலில் ஒரே நாளில் 81 பேர் உயிரிழந்தனர். அதில் 31 பேர் உதவி தேடி சென்றவர்கள். இதை மத்திய கிழக்கு பகுதியில் பிரபலமாக உள்ள செய்தி நிறுவனம் தெரிவித்துள்ளது.
-
-இஸ்ரேல் மற்றும் ஹமாஸ் இடையிலான மோதல் கடந்த 2023-ல் அக்டோபர் 7-ம் தேதி தொடங்கியது. அன்று முதல் ஜூலை 22, 2025 வரையில் இந்த மோதலில் சுமார் 59,106 பாலஸ்தீனியர்கள் உயிரிழந்துள்ளனர். போர் நிறுத்த ஒப்பந்தத்தை மீறி இஸ்ரேல் தாக்குதல் மேற்கொண்டுள்ளது.
-
-...
-
-[Data](articles/87b27837.json)
-
----
-
-### 42 வருடங்கள் கடந்தும்கூட அரசியல் தீர்வைக்காண முடியாமல் இருப்பது கறுப்பு ஜூலையை விடவும் பெரிய வெட்கக்கேடு
-
-*2025-07-23 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220682) · `ta`
-
-இலங்கையில் இனங்களுக்கு இடையிலான உறவுகளைப் பொறுத்தவரை, ஒரு எல்லைக்கோடாக அமைந்த 1983 ஜூலை இனவன்செயல்களுக்கு பிறகு இன்றைய தினத்துடன்  சரியாக 42 வருடங்கள்  உருண்டோடி விட்டன.
-
-ஒரு வாரத்துக்கு மேலாக தலை விரித்தாடிய வன்செயல்களின் கொடூரம், அதனால் நேர்ந்த உயிரிழப்புகள், சொத்து அழிவுகளுக்கு அப்பால் தமிழ் மக்களுக்கு ஏற்பட்ட வேதனை அதிர்ச்சியும் உளவியல் தாக்கமும் கணிப்பிடமுடியாதவை.
-
-1983 ஜூலை 22 வெள்ளிக்கிழமை இரவு யாழ்ப்பாணக் குடாநாட்டில் திருநெல்வேலியில் விடுதலை புலிகள் நடத்திய கெரில்லாத் தாக்குதலில் 13 இலங்கை இராணுவத்தினர் பலியான சம்பவம் அன்றைய ஜெயவர்தன  அரசாங்கத்திற்குள் ஆதிக்கம் செலுத்திய சிங்கள இனவாதச் சக்திகள் நாடு பூராவும்   தமிழ் மக்களுக்கு எதிராக  நடத்துவதற்கு  ஏற்கெனவே திட்டமிட்டு வைத்திருந்த  வன்செயல்களை கட்டவிழ்த்துவிடுவதற்கு  'வசதியாக ' அமைந்தது.
-
-...
-
-[Data](articles/87c73102.json)
-
----
-
-### පාසල් ළමුන් ප්‍රවාහනය කළ බස් රථයක් අනතුරක - ළමුන් 16ක් රෝහලට
-
-*2025-07-23 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212543) · `si`
-
-බෙලිඅත්ත - වීරකැටිය මාර්ගයේ බෙලිගල්ල ප්‍රදේශයේ අද (23) උදෑසන 7.30ට පමණ පාසල් ළමුන් ප්‍රවාහනය කළ බස් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරට ලක්ව තිබේ.
-
-අනතුරින් පාසල් ළමුන් 16 දෙනෙකු පමණ තුවාල ලබා බෙලිගල්ල රෝහලට ඇතුළත් කර ඇති අතර, ඉන් කිහිපදෙනෙකු මේ වනවිට රෝහලෙන් පිටව ගොස් ඇත.
-
-මාර්ගයෙන් ඉවතට පැන මාර්ගයේ ඉවුරක ගැටී බස් රථය නැවතී ඇති බව අප වාර්තාකරු පැවසීය.
-
-මේ වනවිට ළමුන් 13 දෙනෙකු බෙලිඅත්ත, බෙලිගල්ල, තංගල්ල හා වීරකැටිය යන රෝහල්වල ප්‍රතිකාර ලබමින් සිටී.
-
-◼️
-
-[Data](articles/7c257eb4.json)
-
----
-
-### President Dissanayake pays last respects to Asgiri Anunayake Thero
-
-*2025-07-23 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110760/president-dissanayake-pays-last-respects-to-asgiri-anunayake-thero) · `en`
-
-President Anura Kumara Dissanayake paid his final respects to the late Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero at the Udugama Sri Buddharakkitha Memorial Hall of the Asgiri Temple in Kandy last night (22).
-
-He also expressed his deepest condolences to the Maha Sangha of the Asgiri Chapter.
-
-Afterwards, President Dissanayake visited the Chief Prelate of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero, and engaged in a discussion with Venerable Nayake Thero.
-
-◼️
-
-[Data](articles/722bea24.json)
-
----
-
-### Japan’s Prime Minister Ishiba to quit after election drubbing, local media report
-
-*2025-07-23 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110759/japans-prime-minister-ishiba-to-quit-after-election-drubbing-local-media-report) · `en`
-
-Japanese Prime Minister Shigeru Ishiba will announce his resignation by the end of next month, Japanese media reported on Wednesday, following a bruising election defeat that cost his administration its upper house majority.
-
-The reports come after Ishiba and U.S. President Donald Trump unveiled a trade deal that lowers tariffs on imports of Japanese autos and spares Tokyo punishing new levies on other goods.
-
-In the wake of Sunday’s poll drubbing, Ishiba said he would stay in office to pursue the tariff agreement and tackle mounting economic problems.
-
-“I can’t say until I scrutinise the outcome of the agreement,” Ishiba told reporters on Wednesday when asked whether the tariff deal with Washington would influence his decision on whether to stay on.
-
-Ishiba told his close associates on Tuesday evening that he would address his responsibility for the election loss after a trade deal had been reached, the Yomiuri newspaper reported earlier.
-
-...
-
-[Data](articles/30868fb9.json)
 
 ---

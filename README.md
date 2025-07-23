@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 12:27:34**
+As of **2025-07-23 12:50:49**
 
 ## Newspaper Stats
 
-*Scraped **66,301** Articles*
+*Scraped **66,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,361
-adaderanalk | 8,125
-tamilmirrorlk | 9,550
-virakesarilk | 11,046
+adalk | 6,363
+adaderanalk | 8,131
+tamilmirrorlk | 9,552
+virakesarilk | 11,047
 adaderanasinhalalk | 11,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,301 articles have been extended.
+61,973 (93.5%) of 66,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### பவர்பொயிண்ட் வேண்டாம் -வெள்ளை அறிக்கை தான் வேண்டும்
+
+*2025-07-23 12:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவர்பொயிண்ட்-வேண்டாம்-வெள்ளை-அறிக்கை-தான்-வேண்டும்/175-361603) · `ta`
+
+பிரதமர் வழங்கிய பவர்பொயிண்ட் விளக்கக்காட்சி அர்த்தமுள்ள விவாதத்திற்கு போதுமானதாக இல்லை என்று கூறி, முன்மொழியப்பட்ட கல்வி சீர்திருத்தங்கள் குறித்த வெள்ளை அறிக்கையை சமர்ப்பிக்குமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை விடுத்தார்.
+
+மின்சாரச் சட்டத்தில் திருத்தங்கள் குறித்த திட்டமிடப்பட்ட விவாதத்தைத் தொடர வேண்டாம் என்று பாராளுமன்றத்தின் அலுவல் குழு முடிவு செய்ததை அடுத்து, கல்வி சீர்திருத்த முன்மொழிவுகளில் கவனம் செலுத்தத் தேர்வு செய்ததைத் தொடர்ந்து இந்தக் கோரிக்கை வந்தது.
+
+"வெள்ளை அறிக்கை இல்லாமல் விவாதம் நடத்துவது பயனற்றது" என்று பிரேமதாச கூறினார். "நேற்று, பிரதமர் ஒரு பவர்பொயிண்ட் விளக்கக்காட்சி மூலம் சீர்திருத்தங்களை வழங்கினார், இது பொருத்தமானதல்ல. அத்தகைய முறை நாட்டின் கல்வித் துறையையும் அதன் இலவச கல்வி முறையையும் அவமதிக்கிறது," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/c0da45b5.json)
+
+---
+
+### இன்ஸ்டாகிராமில் பெற்றோார் மேற்பார்வை செய்யும் வசதி இலங்கையில் அறிமுகம்
+
+*2025-07-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220709) · `ta`
+
+13 முதல் 16 வயதுடைய பிள்ளைகளின் ஒன்லைன் செயற்பாடுகளை கண்காணிக்கவும் வழிக்காட்டவும் பெற்றோருக்கு உதவும் வகையில் வடிவமைக்கப்பட்ட  இன்ஸ்டாகிராமில் பெற்றோர் மேற்பார்வை செய்யும் வசதி செவ்வாய்க்கிழமை (22) இலங்கையில் உத்தியோகபூர்வமாக அறிமுகப்படுத்தப்பட்டுள்ளதாக டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன தெரிவித்துள்ளார்.
+
+இளைஞர் பாதுகாப்பு, தரவு பாதுகாப்பு மற்றும் ஒழுங்குமுறை சீராக்கம் போன்ற முக்கியமான விடயங்களில் கவனம் செலுத்தி மெட்டா தொழில்நுட்ப நிறுவனத்துடன் கலந்துரையாடல்கள் நடத்தப்பட்டது.
+
+இதன் விளைவாக, எமது இளைஞர்களுக்கு பாதுகாப்பான டிஜிட்டல் சூழலை உருவாக்குவதற்கான ஒரு முக்கிய படியாக இன்ஸ்டாகிராம் பெற்றோார் மேற்பார்வை வசதி  (Instagram parental supervision) அறிமுகமாகியுள்ளது.
+
+பெற்றோர்கள் தங்கள் பிள்ளைகளின் சமூக ஊடக பயன்பாட்டை பொறுப்புடன் மேற்பார்வையிடவும் வழிநடத்தவும் இந்த புதிய விடயம் உதவியாக இருக்கும்.
+
+...
+
+[Data](articles/74e9ebd8.json)
+
+---
+
+### UN body says Israeli forces have killed over 1,000 aid-seekers in Gaza since May, as hunger worsens
+
+*2025-07-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110767/un-body-says-israeli-forces-have-killed-over-1000-aid-seekers-in-gaza-since-may-as-hunger-worsens) · `en`
+
+More than 1,000 Palestinians have been killed by Israeli forces since May while trying to get food in the Gaza Strip, mostly near aid sites run by an American contractor, the U.N. human rights office said Tuesday.
+
+Meanwhile, Israeli strikes killed 25 people across Gaza, according to local health officials.
+
+Desperation is mounting in the Palestinian territory of more than 2 million, which experts say is at risk of famine because of Israel’s blockade and nearly two-year offensive.
+
+A breakdown of law and order has led to widespread looting and contributed to chaos and violence around aid deliveries.
+
+Israel accuses Hamas of siphoning off aid — without providing evidence of widespread diversion — and blames U.N. agencies for failing to deliver food it has allowed in. The military says it has only fired warning shots near aid sites. The Gaza Humanitarian Foundation, an Israeli-backed American contractor, rejected what it said were “false and exaggerated statistics” from the United Nations.
+
+...
+
+[Data](articles/2142d2cd.json)
+
+---
+
+### “கள்ளக்காதலுக்கு மூளை மழுங்கிப்போய்விடுகிறது”
+
+*2025-07-23 12:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலுக்கு-மூளை-மழுங்கிப்போய்விடுகிறது/175-361601) · `ta`
+
+காதலுக்கு கண் இல்லை என்பார்கள்.. உண்மையில் சிலரது காதலுக்கு கண் மட்டுமல்ல, காது, இதயம், மூளை எதுவுமே இருப்பது இல்லை.. அதுவும் கள்ளக்காதலுக்கு மூளை சுத்தமாக வேலை செய்யாமல் மழுங்கிப்போய்விடுகிறது..
+
+திருநெல்வேலியில் ஒரு 16 வயது பெண், சமூக வலைதளங்களில் பழகிய 40 வயது நபரை காதலித்துள்ளார். அவருடன் தான் செல்வேன் என்று செல்ல அடம்பிடித்து பொலிஸ் ஸ்டேஷனில் செய்த வேலை கண்டு பொலிஸார் தலையிலேயே அடித்துக் கொண்டனர்.. இப்படியும் சமூக மாறிவிட்டதா என்ற அதிர வைக்கும் சம்பவம் நடந்துள்ளது.
+
+இன்ஸ்டாகிராமில் கண்டதையும் பார்க்கும் இளம் சிறார்கள், தவறான பாதையில் பயணிக்கிறார்கள். சமூக வலைதளங்களில் யாருடைய ரீல்ஸ்க்கு அதிக லைக் கிடைக்கிறது. யாருடைய ரீல்ஸ் அதிக ஷேர் ஆகிறது.யாருக்கு அதிக பாலேயர்கள் வருகிறார்கள் என்பது தான் உலகம் என்பது போல் பல சிறார்கள் மாறிவருகிறார்கள். இதற்கு இன்ஸ்டாஇன்புளுயன்சர்களும் ஒரு வகையில் காரணமாக இருக்கிறார்கள். அவர்களின் வருமானம், லைப் ஸ்டைல் போன்ற காரணங்களை கூறலாம்.
+
+...
+
+[Data](articles/325a7036.json)
+
+---
 
 ### “கள்ளக்காதலுக்கு மூளை மழுங்கிப்போய்விடுகிறது”: தலையில் அடித்துக்கொண்ட பொலிஸார்
 
@@ -66,6 +136,28 @@ He urged the committee to “carry out a swift investigation by examining all th
 
 ---
 
+### ‘Red’ warning issued for strong winds and rough seas
+
+*2025-07-23 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110766/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
+
+A ‘Red’ warning has been issued by the Department of Meteorology for strong winds and rough seas in the areas extending from Kalpitiya to Kankasanthurai via Mannar.
+
+These sea areas are expected to be rough or very rough, with strong gusty winds reaching up to 60–70 kmph.
+
+Naval and fishing communities are advised not to venture into the sea areas extending from Kalpitiya to Kankasanthurai via Mannar for the next 24 hours, the Met Department said.
+
+The sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota, and from Kankasanthurai to Trincomalee via Mullaittivu, will be fairly rough to rough at times with strong gusty winds up to 50–55 kmph.
+
+The naval and fishing communities engaged in fishing and naval activities in these sea areas are requested to be vigilant in this regard.
+
+Meanwhile, the wave height (about 2.5–3.0 m) may increase in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle, it added.
+
+...
+
+[Data](articles/bb41ec63.json)
+
+---
+
 ### අවවාදාත්මක නිවේදනයක්
 
 *2025-07-23 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212549) · `si`
@@ -97,6 +189,54 @@ He urged the committee to “carry out a swift investigation by examining all th
 ...
 
 [Data](articles/ff30fa6d.json)
+
+---
+
+### Special Presidential Investigation Committee appointed to probe irregularities at SriLankan Airlines & AASL
+
+*2025-07-23 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110765/special-presidential-investigation-committee-appointed-to-probe-irregularities-at-srilankan-airlines-aasl) · `en`
+
+President Anura Kumara Dissanayake has appointed a Special Presidential Investigation Committee to probe alleged incidents of fraud, corruption and irregularities at SriLankan Airlines Limited and Airport and Aviation Services (Sri Lanka) (Private) Limited, the President’s Media Division (PMD) said.
+
+The President met with the members of the Committee on Tuesday (July 22) at the Presidential Secretariat and engaged in a discussion with them.
+
+During the meeting, President Anura Kumara Dissanayake emphasized that the absence of a proper investigation into the irregularities at SriLankan Airlines Limited Company and Airport and Aviation Services (Sri Lanka) (Private) Limited has rendered these institutions largely ineffective.
+
+...
+
+[Data](articles/adb81bec.json)
+
+---
+
+### Rohini Kaviratne’s comments spark heated exchange in Parliament
+
+*2025-07-23 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110764/rohini-kaviratnes-comments-spark-heated-exchange-in-parliament-) · `en`
+
+A heated situation arose in Parliament due to Cretan comments made by Samagi Jana Balawegaya (SJB) MP Rohini Kaviratne, targeting the Speaker of the House, Dr. Jagath Wickramaratne, while she was asking a supplementary question this morning (23).
+
+The Speaker had stated in Parliament that MP Kaviratne had taken more than 4 minutes to ask the supplementary question.
+
+However, the situation escalated when the MP replied saying, ‘please close your mouth and listen’, prompting heated exchanges between ruling party and opposition legislators in the chamber.
+
+◼️
+
+[Data](articles/ca2a90b1.json)
+
+---
+
+### රනිල්ගේ හදිසි නීතිය මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීමක්
+
+*2025-07-23 11:28:15* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-හදිසි-නීතිය-මූලික-අයිතිවාසිකම්-උල්ලංඝනය-කිරීමක්/11-417463) · `si`
+
+2022 වසරේ ජූලි මස 17 වනදා එවක වැඩබලන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අරගලයට එක්වූ අරගලකරුවන් පාලනය කිරීම සඳහා මහජන ආරක්ෂක පනත යටතේ රටපුරා ප්‍රකාශයට පත් කරනු ලැබූ හදිසි නීති රෙගුලාසි තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බව ශ්‍රේෂ්ඨාධිකරණය විසින් බෙදුන තීන්දුවකින් ප්‍රකාශයට පත්කළේය.
+
+වැඩබලන ජනාධිපති ලෙස රනිල් වික්‍රමසිංහ මහතා මහජන ආරක්ෂක පනතේ 02 වගන්තිය යටතේ නිකුත් කරනු ලැබු හදිසි නීති රෙගුලාසි අත්තනෝමතික මෙන්ම බල ශූන්‍ය බව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ බහුතර විනිසුරුවරු තීන්දු කළේය. අගවිනිසුරු මුර්දු ප්‍රනාන්දු, යසන්ත කෝදාගොඩ යන බහුතර විනිසුරුවරූ විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+කෙසේ වෙතත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සිය තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේ, වැඩබලන ජනාධිපතිවරයාගේ හදිසි නීති ප්‍රකාශය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය නොවන බවය.
+
+...
+
+[Data](articles/4fa069ab.json)
 
 ---
 
@@ -137,6 +277,24 @@ He urged the committee to “carry out a swift investigation by examining all th
 ...
 
 [Data](articles/52e3e197.json)
+
+---
+
+### Ranil’s emergency regulations in 2022 violated fundamental rights – SC rules
+
+*2025-07-23 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110763/ranils-emergency-regulations-in-2022-violated-fundamental-rights-sc-rules) · `en`
+
+The Supreme Court, in a majority decision, today ruled Fundamental Rights have been violated through then Acting President Ranil Wickremesinghe’s orders to disperse the ‘Aragalaya’ protestors from Galle Face on 17 July 2022, by resorting to Emergency Regulations under the Public Security Act.
+
+The majority of the judges on the three-member bench held that the Emergency Regulations promulgated by the then Acting President under Section 2 of the Public Security Act were arbitrary, and therefore, invalid.
+
+Chief Justice Murdu Fernando and Justice Yasantha Kodagoda delivered the majority verdict.
+
+However, Justice Arjuna Obeysekara, also a member of the bench, in his separate judgment, stated that the declaration of Emergency Regulations by the Acting President did not constitute a violation of fundamental human rights.
+
+...
+
+[Data](articles/5e52d3ff.json)
 
 ---
 
@@ -336,6 +494,24 @@ He urged the committee to “carry out a swift investigation by examining all th
 
 ---
 
+### 16 students injured in school bus accident in Beligalla
+
+*2025-07-23 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110762/16-students-injured-in-school-bus-accident-in-beligalla) · `en`
+
+A bus transporting school children veered off the road in the Beligalla area along the Beliatta–Weeraketiya road at around 7:30 a.m. this morning (July 23).
+
+According to reports, the bus veered off the road and collided with an embankment before coming to a halt, said Ada Derana reporter.
+
+Sixteen students sustained injuries in the accident and were initially admitted to the Beligalla Hospital. Several of them have since been discharged after receiving treatment.
+
+As of now, a total of 13 children are still receiving medical care at the Beliatta, Beligalla, Tangalle, and Weeraketiya hospitals.
+
+◼️
+
+[Data](articles/05a4e5ca.json)
+
+---
+
 ### Sri Lanka’s National Chamber to promote economic ties in session with Vietnam envoy
 
 *2025-07-23 10:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-chamber-to-promote-economic-ties-in-session-with-vietnam-envoy-232407/) · `en`
@@ -443,6 +619,24 @@ She will highlight key areas of economic cooperation and discuss emerging sector
 ...
 
 [Data](articles/ac482f9c.json)
+
+---
+
+### පුත්තලමේ කඩොලාන වනාන්තර 8 ක් රක්ෂිත කරයි
+
+*2025-07-23 10:26:22* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලමේ-කඩොලාන-වනාන්තර-8-ක්-රක්ෂිත-කරයි/11-417459) · `si`
+
+පුත්තලම දිස්ත්‍රික්කයෙ කඩොලාන වනාන්තර 8 ක් රක්ෂිත බවට පත් කිරීම ජූලි 26 දිනට යෙදෙන ලෝක කඩොලාන සුරැකීමේ දිනය වෙනුවෙන් සිදු වෙන බව පරිසර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳිගේ මහතා පවසයි.
+
+මෙවර ලෝක කඩොලාන සුරැකීමේ දිනය ලබන 26 දින ආනවිලුන්දාව රැම්සා අභය භුමියෙහිදී සැමරීමට පරිසර අමාත්‍යංශය කටයුතු කර තිබේ.
+
+එයට සමගාමීව පුත්තලම දිස්ත්‍රික්කයෙහි පිහිටි කඩොලාන වනාන්තර 8 ක් මෙලෙස රක්ෂිත ලෙස නම් කිරීම සිදුවන බව පරිසර අමාත්‍යාවරයා පවසයි.
+
+එසේ රක්ෂිත ලෙස නම් කර ඇත්තේ මාදම්පේ ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයේ පනිරෙන්ඩාව බීට්ටුවට අයත් 543 ඒ ගලහිටියාව, 504සී ගලහිටියාව ග්‍රාම නිලධාරි වසමේ පිහිටි  පනිරෙන්ඩාව,හලාවත ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයෙහි 577 වෙරළබඩ ග්‍රාම නිලධාරී වසමේ පිහිටි හලාවත,566 ග්‍රාම නිලධාරි වසමේ පිහිටි මැරවල හා 561 කාකක්කපල්ලිය ග්‍රාම නිලධාරි වසමට අයත් 583 කුසල හා ආරච්චිකට්ටුව ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අයත් 582 කරුකුපනේ යන කඩොලාන වනාන්තර බව පරිසර අමාත්‍යංශය පවසයි.
+
+...
+
+[Data](articles/3f7f1ce5.json)
 
 ---
 
@@ -1611,169 +1805,5 @@ He said under the proposed MoU, Sri Lankan workers will be eligible for short-te
 ...
 
 [Data](articles/d16cf532.json)
-
----
-
-### Parliament approves minimum wage hike for private sector and Budget relief amendments
-
-*2025-07-23 00:24:25* · [`dailyftlk`](https://www.ft.lk/news/Parliament-approves-minimum-wage-hike-for-private-sector-and-Budget-relief-amendments/56-779349) · `en`
-
-Parliament yesterday unanimously passed the Minimum Wages Bill, raising the minimum wage for private sector employees from Rs. 21,000 to Rs. 27,000 effective April 2025, with a further increase to Rs. 30,000 starting next year.
-
-The landmark wage increase was approved without a vote, signalling broad consensus across political parties on the need to address cost-of-living pressures faced by private sector workers.
-
-On 7 Cabinet of Ministers on Monday approved the revision of the national minimum monthly and daily wage structure for private sector employees
-
-In addition, Parliament approved amendments to the Budget Relief Bill No. 4 of 2016 and Budget Relief Bill No. 36 of 2005, each by a two-thirds majority. Both bills received 181 votes in favour, with no votes against, although over 40 MPs were absent at the time of voting.
-
-The Budget Relief Bill amendments are part of the Government’s broader fiscal reform agenda aimed at easing economic burdens and streamlining tax and welfare provisions.
-
-...
-
-[Data](articles/408e2040.json)
-
----
-
-### Health Ministry calls for EoIs to source 2026 medical supplies from local manufacturers
-
-*2025-07-23 00:24:08* · [`dailyftlk`](https://www.ft.lk/news/Health-Ministry-calls-for-EoIs-to-source-2026-medical-supplies-from-local-manufacturers/56-779348) · `en`
-
-The Cabinet of Ministers on Monday approved calling for Expressions of Interest (EoIs) and technical proposals from local manufacturers for the supply of medicines and other medical equipment for 2026, continuing efforts to boost domestic pharmaceutical production.
-
-Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Health Minister Dr. Nalinda Jayatissa said the decision follows the appraisal of local manufacturers earlier this year, which led to the selection of 24 companies through a process overseen by a committee appointed by the Health Ministry Secretary.
-
-“These manufacturers were contracted to supply 130 essential medicines and medical supplies for 2025, with agreements due to expire on 31 December 2025,” he added. To ensure continuity in the local procurement program and to meet the country’s pharmaceutical needs in 2026, he said the Health Ministry will once again invite EoIs and technical proposals from eligible local suppliers.
-
-...
-
-[Data](articles/935f1b51.json)
-
----
-
-### Cabinet approves coal procurement bid for Norochcholai power plant
-
-*2025-07-23 00:23:17* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-coal-procurement-bid-for-Norochcholai-power-plant/56-779347) · `en`
-
-The Cabinet of Ministers on Monday approved calling for bids for coal procurement for Norochcholai Lakvijaya Power Plant for upcoming season 2025/2026.
-
-Speaking at the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said bids for coal procurement will be called from the registered suppliers in the Lanka Charcoal Ltd., for the aforementioned time period.
-
-“The Ceylon Electricity Board has estimated that the coal requirement for the Norochcholai Lakvijaya Power Plant for the 2025/2026 season will be 2.32 million tons ±10% or 39 shipments,” he added.
-
-In response to queries on procurement process posed by journalists, Dr. Jayatissa assured that the procedure is transparent.
-
-However, he said if anyone who finds that the existing violates standard procedure, can challenge it to the procurement appeal committee or challenge it in the Court.
-
-◼️
-
-[Data](articles/076d13f5.json)
-
----
-
-### யுனெஸ்கோவிலிருந்து விலகும் அமெரிக்கா
-
-*2025-07-23 00:15:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யுனெஸ்கோவிலிருந்து-விலகும்-அமெரிக்கா/50-361569) · `ta`
-
-இஸ்ரேல் மீதான அதன் சார்பு மற்றும் பிரிவினைவாதத்தை ஊக்குவிப்பதற்காக இந்த முடிவை எடுத்ததாக ஐக்கிய நாடுகள் சபையின் கல்வி, அறிவியல் மற்றும் கலாச்சார அமைப்பிற்கு (யுனெஸ்கோ) அமெரிக்கா தெரிவித்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
-
-யுனெஸ்கோவின் தொடர்ச்சியான ஈடுபாடு அமெரிக்காவின் தேசிய நலன்களைப் பூர்த்தி செய்யவில்லை என அமெரிக்க வெளியுறவுத்துறை செய்தித் தொடர்பாளர் டொமி புரூஸ் தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/4705def8.json)
-
----
-
-### 2025-07-22 (Tuesday)
-
-### Coconut growers in dilemma
-
-*2025-07-22 23:58:33* · [`dailyftlk`](https://www.ft.lk/columns/Coconut-growers-in-dilemma/4-779336) · `en`
-
-While coconut remains an integral part of the nation’s culinary identity and a key export commodity, the growers who sustain this legacy are battling mounting challenges that threaten both livelihoods and the future of the industry
-
-The coconut tree, deeply embedded in Sri Lanka’s cultural heritage and economy, represents more than just an agricultural crop—it is a symbol of nourishment, tradition, and national pride. But today, those who nurture this heritage are being left behind. Without decisive and inclusive action, Sri Lanka risks not only losing its position as a top global exporter but also dismantling a vital rural economy that supports millions
-
-...
-
-[Data](articles/afff1371.json)
-
----
-
-### Expectations and disappointments
-
-*2025-07-22 23:54:58* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-and-disappointments/4-779335) · `en`
-
-Voters are entitled to expect at least a clear set of signals that the promises made are being translated into reality
-
-It is nearing 11 months since Anura Kumara Disanayake became President and nine months since the JVP-NPP coalition was put in power with an unassailable two-third majority in Parliament. Both were made possible by a new generation of Sri Lankans awakened by an accelerating desolation of the country’s democratic governance, economic development and its socio-cultural heterogeneity.
-
-...
-
-[Data](articles/2454e1fd.json)
-
----
-
-### Towards sustainable growth: Expanding Swiss-Sri Lanka economic cooperation
-
-*2025-07-22 23:44:52* · [`dailyftlk`](https://www.ft.lk/columns/Towards-sustainable-growth-Expanding-Swiss-Sri-Lanka-economic-cooperation/4-779334) · `en`
-
-Switzerland continues to be an important tourism source market for Sri Lanka
-
-Switzerland, one of the world’s most advanced economies and Sri Lanka, a South Asian nation with a strategic location, have maintained diplomatic relations since 1956. Over the decades, their economic cooperation has developed gradually, encompassing trade, investment, tourism, and development assistance. While the scale of bilateral engagement remains modest, both countries continue to explore opportunities for mutually beneficial collaboration amid a shifting global economic landscape.
-
-...
-
-[Data](articles/a88784ba.json)
-
----
-
-### AIA Insurance’s Suwa Walan campaign sparks national dialogue on breast cancer awareness
-
-*2025-07-22 23:28:00* · [`islandlk`](http://island.lk/aia-insurances-suwa-walan-campaign-sparks-national-dialogue-on-breast-cancer-awareness/) · `en`
-
-AIA Insurance’s pioneering initiative, Suwa Walan, made a powerful impression at the Medicare – International Healthcare Exhibition, Sri Lanka’s largest healthcare event recently. Conducted in collaboration with the Sri Lanka Cancer Society, Suwa Walan is a culturally inspired campaign designed to raise awareness about breast cancer and promote early detection. The initiative draws from the traditional Sri Lankan practice of inspecting clay pots (walan) for imperfections, linking it to breast self-examination. At the exhibition, AIA showcased specially crafted clay pots embedded with symbolic lumps and visual guides, encouraging women to adopt regular self-checks in a familiar and non-threatening way.
-
-The campaign stood out for its innovative blend of cultural relevance, health education, and artistic expression. It has already earned multiple awards for its creative approach to public health communication.
-
-...
-
-[Data](articles/e0633fa5.json)
-
----
-
-### Sri Lanka Convention Bureau launches educational drive for university students
-
-*2025-07-22 23:28:00* · [`islandlk`](http://island.lk/sri-lanka-convention-bureau-launches-educational-drive-for-university-students/) · `en`
-
-Sri Lanka Convention Bureau (SLCB) the gateway to seamless event planning and execution in Sri Lanka, elevates Sri Lanka’s MICE industry marking a significant milestone for the Meetings, Incentives, Conferences, Events and Exhibitions (MICE) sector in the country.
-
-...
-
-[Data](articles/f2327970.json)
-
----
-
-### ‘Rotary Means Business Sri Lanka’ to host ‘landmark installation’
-
-*2025-07-22 23:27:00* · [`islandlk`](http://island.lk/rotary-means-business-sri-lanka-to-host-landmark-installation/) · `en`
-
-‘The Rotary Means Business (RMB)’ Fellowship Sri Lanka Chapter will host its much-anticipated ‘Installation & International Business Networking Night 2025’ on July 24 at Cinnamon Life, City of Dreams, Colombo. The event will inaugurate the Charter Board for the Fellowship’s Sri Lanka Chapter and will bring together key figures including representatives from multiple High Commissions, leaders from key industry groups and from national and regional Chambers of Commerce, Past District Governors and prominent business leaders from across the country.
-
-...
-
-[Data](articles/f5158455.json)
-
----
-
-### Elpitiya Plantations empowers the plantation community with ‘Value Vault’ Smart Card
-
-*2025-07-22 23:26:00* · [`islandlk`](http://island.lk/elpitiya-plantations-empowers-the-plantation-community-with-value-vault-smart-card/) · `en`
-
-In a transformative initiative aimed at uplifting and empowering the plantation community, Elpitiya Plantations PLC marked a significant milestone on 16th July 2025 with the ceremonial launch of the ‘Value Vault’ smart shopping card at the Dunsinane Estate. The event coincided with the grand opening of the new Dunsinane Super COOP City and was graced by the presence of Asela Udumulla, Deputy General Manager of the Dunsinane Estate; A.G. Geeth Kumara, Chief Executive Officer of Elpitiya Plantations PLC; and C. Devaranjan, Regional Director of the Plantation Human Development Trust, Nuwara Eliya.
-
-...
-
-[Data](articles/d26eddd7.json)
 
 ---

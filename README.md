@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 05:18:14**
+As of **2025-07-23 05:31:09**
 
 ## Newspaper Stats
 
-*Scraped **66,225** Articles*
+*Scraped **66,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,528
+tamilmirrorlk | 9,529
 virakesarilk | 11,041
 adaderanasinhalalk | 11,376
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,225 articles have been extended.
+61,973 (93.6%) of 66,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### ’பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தையும்  அதிகரிக்கவும்’
+
+*2025-07-23 04:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்ட-தொழிலாளர்களின்-சம்பளத்தையும்-அதிகரிக்கவும்/175-361578) · `ta`
+
+ஊழியர்களின் குறைந்தபட்ச சம்பளம்  27,000 ரூபாவாக அதிகரிக்கப்படுவது போன்றே  பெருந்தோட்ட மக்களுக்கு அரசாங்கம் வழங்கிய வாக்குறுதிக்கமைய  1,700 ரூபாய் சம்பள அதிகரிப்பை வழங்க நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  வலியுறுத்தினார்
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை(22) நடைபெற்ற  வாய்மூல விடைக்கான வினா  நேரத்தில் இடையீட்டுக் கேள்வி ஒன்றை எழுப்பியே இவ்வாறு வலியுறுத்தினார்.
+
+வேலையாட்களுக்கான குறைந்தபட்ச சம்பளத்தை டிசெம்பர் வரை 27,000 ரூபாய் வரையிலும், ஜனவரி மாதம் முதல் அதை 30,000 ரூபாவாக அதிகரிக்கவும்  எடுக்கப்பட்ட நடவடிக்கைகள் குறித்து நான் மகிழ்ச்சியடைகிறேன். இது நல்லதொரு விஷயம் என்பதால் இதனை நாம் ஆதரிப்போம்
+
+...
+
+[Data](articles/6ba2e420.json)
+
+---
 
 ### ’வாயைக் கொடுத்து  வாங்கிக் கொள்ளாதீர்’
 
@@ -1749,27 +1765,5 @@ Furthermore, the residents alleged that those who initially discovered the bodie
 ...
 
 [Data](articles/0313555f.json)
-
----
-
-### Over 1,400 arrested for various offenses including drugs in special operation
-
-*2025-07-22 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110737/over-1400-arrested-for-various-offenses-including-drugs-in-special-operation) · `en`
-
-Sri Lanka Police, Police Special Task Force (STF), and tri-forces personnel jointly conducted several more search operations throughout the day on Tuesday (July 21) as part of ongoing efforts to arrest individuals involved in drug-related activities and other major crimes.
-
-Over 73,000 personnel, including police officers, STF members, and members of the tri-forces, participated in this special operation.
-
-A total of 24,690 individuals were screened, while 9,717 vehicles and 7,637 motorcycles were inspected.
-
-During these operations, 1,427 individuals were arrested for drug-related offenses and the possession of illicit alcohol.
-
-A significant quantity of drugs was also seized, including 461.866 grams of crystal methamphetamine (Ice) and 401.416 grams of heroin.
-
-Meanwhile, during special raids conducted on July 20, two firearms were seized.
-
-...
-
-[Data](articles/3c97da11.json)
 
 ---

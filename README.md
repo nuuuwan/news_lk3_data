@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 06:10:27**
+As of **2025-07-23 06:36:29**
 
 ## Newspaper Stats
 
-*Scraped **66,236** Articles*
+*Scraped **66,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 589
 colombotelegraphcom | 676
 bbccomsinhala | 677
-economynextcom | 4,044
+economynextcom | 4,045
 islandlk | 4,050
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,530
+tamilmirrorlk | 9,531
 virakesarilk | 11,041
 adaderanasinhalalk | 11,376
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,236 articles have been extended.
+61,973 (93.6%) of 66,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### பெண் ஒருவர் கழுத்து வெட்டி கொலை
+
+*2025-07-23 05:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-கழுத்து-வெட்டி-கொலை/175-361580) · `ta`
+
+நாவலப்பிட்டி பொலிஸ் பிரிவுக்கு உட்பட்ட இம்புல்பிட்டிய பகுதியில் நேற்று 39 வயது பெண் ஒருவர் கழுத்தில் வெட்டப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
+
+புசல்லாவ  நோனா தோட்டத்தில் வசித்து வரும் சந்திரலிங்கம் என்ற நபர் குறித்த பெண்ணை பாளடைந்த  வீட்டுக்குள் வைத்து கொலை செய்து வீட்டு கம்பளை பொலிஸ் நிலையத்தில் சரணடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/49fc9620.json)
+
+---
 
 ### ’தமிழ் மக்களுக்கு அனுர மீது சந்தேகம்’
 
@@ -1146,6 +1160,26 @@ Sri Lanka’s procurement process takes around six months and thus most capita; 
 
 ---
 
+### Israel military kills 1,054 starving Gazans, 764 baited with GHF food
+
+*2025-07-22 19:06:00* · [`economynextcom`](https://economynext.com/israel-military-kills-1054-starving-gazans-764-baited-with-ghf-food-232198/) · `en`
+
+ECONOMYNEXT – Israel military has killed 1,064 starving Palestinians who came to get food, with 764 picked off near Gaza Humanitarian Foundation (GHF) sites where food is distributed, a United Nations statement has said.
+
+The GHF’s is backed by US and Israeli governments and its executive chairman is Johnnie Moore, an American evengelical leader and businessman.
+
+Israel has restricted food supplies to Gaza and bombed hospitals, denying healthcare to the injured from Israeli raids and complications from starvation.
+
+Between 27 May and 21 July, 766 Palestinians have been killed around GHF sites, the UN said, another 288 around UN and other aid convoys.
+
+“The desperation caused by a lack of food and other necessities of life is forcing Palestinians to approach GHF sites and humanitarian convoys,” the UN said, despite knowing that they will are being killed by the Israeli military.
+
+...
+
+[Data](articles/1716d2fd.json)
+
+---
+
 ### වෙනස්කම් රැසකට පා තබන ජෝර්ජ් කුමරුගේ 12 වන උපන්දිනය
 
 *2025-07-22 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212528) · `si`
@@ -1711,39 +1745,5 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 ...
 
 [Data](articles/0c8dc194.json)
-
----
-
-### වන සංරක්ෂන අධ්‍යක්ෂක ජනරාල් ධුරයට පාලම කුඹුර මහතා පත්කරයි
-
-*2025-07-22 16:45:10* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂන-අධ්‍යක්ෂක-ජනරාල්-ධුරයට-පාලම-කුඹුර-මහතා-පත්කරයි/11-417446) · `si`
-
-පුරප්පාඩුව පැවති, වන සංරක්ෂණ දෙපාර්තමේන්තුවෙි වන සංරක්ෂන අධ්‍යක්ෂක ජනරාල් ධුරයට වන සංරක්ෂණ දෙපාර්තමෙින්තුවෙි අතිරේඛ වන සංරක්ෂක ජනරාල් (වන ආරක්ෂණ, මෙහෙයුම්, හා කළමණාකරන) ලෙස කටයුතු කරන ඩබ්ලිව්.ඩබ්ලිව්.එම්.පී.එස්.සී පාලම කුඹුර මහතා වහාම ක්‍රියාත්මක වන පත්කර තිබෙි.
-
-විෂයභාර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳි මහතා, පුරප්පාඩු වු මෙම තනතුර සදහා ඩබ්ලිව්.එම්.පී.එස්.සී පාලම කුඹුර මහතාගේ නම කැබිනට් මංඩලයට යෝජනා කිරිමෙන් පසු, කැබිනට් මංඩලයේ අනුමැතිය ඒ සදහා හිමිව ඇත.
-
-වන සංරක්ෂණ දෙපාර්තමේන්තුවෙි දීර්ඝ කාලයක් සේවය කර ඇති ඒ මහතා  ශ්‍රී ලංකා විද්‍යාත්මක සේවයේ විශේෂ සේවයේ නිළධාරියෙකි.
-
-වන සංරක්ෂණ දෙපාර්තමෙින්තුවෙි, වන සංරක්ෂක අධ්‍යක්ෂක ජනරාල් වරයා ලෙස කටයුතු කල ඊ.ඒ.පී. නිශාන්ත එදිරිසිංහ මහතා, විශ්‍රාම ගැනීමෙන් පසු ඇති පුරප්පාඩුව සදහා විෂයභාර ඇමතිවරයා විසින් මෙම පත්වීම සිදුකර තිබුණි.
-
-◼️
-
-[Data](articles/0461b8b3.json)
-
----
-
-### Asgiri Anunayake Thero’s remains to lie in state until Thursday
-
-*2025-07-22 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110739/asgiri-anunayake-theros-remains-to-lie-in-state-until-thursday-) · `en`
-
-The remains of the Anunayake Thero of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero, lie in state at the Upali Memorial Hall of the Asgiri Temple in Kandy, for public respect until Thursday (July 24), when the final rites will be performed, Ada Derana reporter said.
-
-The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero, passed away at the age of 67 on July 20 while receiving treatment at a private hospital following a heart attack.
-
-Accordingly, the funeral ceremony and the cremation of the senior Buddhist monk will be held with state sponsorship at the Police Grounds at 2.30 p.m. on Thursday.
-
-◼️
-
-[Data](articles/4fc1260c.json)
 
 ---

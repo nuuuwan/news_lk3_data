@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 07:16:58**
+As of **2025-07-23 08:13:33**
 
 ## Newspaper Stats
 
-*Scraped **66,239** Articles*
+*Scraped **66,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,104 @@ dbsjeyarajcom | 589
 colombotelegraphcom | 676
 bbccomsinhala | 677
 economynextcom | 4,045
-islandlk | 4,050
+islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
-adaderanalk | 8,116
+adaderanalk | 8,118
 tamilmirrorlk | 9,531
 virakesarilk | 11,041
-adaderanasinhalalk | 11,377
+adaderanasinhalalk | 11,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,239 articles have been extended.
+61,973 (93.6%) of 66,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### ට්‍රම්ප් ජපානය සමග දැවැන්ත වෙළෙඳ ගිවිසුමක
+
+*2025-07-23 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212538) · `si`
+
+ජපානය සමඟ දැවැන්ත වෙළෙඳ ගිවිසුමකට එළැඹීමෙන් අනතුරුව, ආනයනික භාණ්ඩ සඳහා සියයට 15ක තීරු බද්දක් පැනවීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තීරණය කර තිබේ.
+
+අදාළ ගිවිසුම අනුව ජපානය, අමෙරිකානු නිෂ්පාදන වන මෝටර් රථ, ට්‍රක් රථ, සහල් සහ ඇතැම් කෘෂිකාර්මික නිෂ්පාදන ඇතුළු අනෙකුත් ආනයනය භාණ්ඩ සඳහා සියයට 15ක බද්දක් අඩුකර ඇති බවය.
+
+Truth Social ගිණුමෙහි සටහනක් තබමින් ට්‍රම්ප් පවසා ඇත්තේ, මෙම ගිවිසුම ජපන් ආයෝජන ඩොලර් බිලියන 550ක් අමෙරිකාව තුළ සිදුකිරීමට නියමිත බවය.
+
+එමෙන්ම අදාළ තීරණය හේතුවෙන් අමෙරිකාවට යහපත් කාලයක් උදාවන අතර, එය ජපානය සමඟ ඇති  සම්බන්ධතාවය වර්ධනය කරගැනීමට හේතුවක් වන බව ද ට්‍රම්ප් අවධාරණය කර තිබේ.
+
+මීට පෙර තීරු බදු සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් ට්‍රම්ප් පවසා තිබුණේ ජපානය, දකුණු කොරියාව ඇතුළු රටවල් 14ක් වෙත ආනයනය කරන භාණ්ඩ සඳහා 25%ක තීරුබද්දක් පනවන බවය.
+
+අදාළ තීරුබදු පැනවීම පිළිබඳව ට්‍රම්ප් ලිඛිතව දැනුම් දී තිබූ අතර, තීරු බදු පැනවීම අගෝස්තු මස පළමුවන දින සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/d9d04e7a.json)
+
+---
+
+### පෙම්වතියව ඝාතනය කළ පෙම්වතා සියදිවි හානිකර ගනී
+
+*2025-07-23 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212537) · `si`
+
+අද (23)  අලුයම අම්පාර, පදියතලාව, මරංගල ප්‍රදේශයේ පදිංචිව සිටි තරුණියක්ව ඇගේ පෙම්වතා විසින් ගෙල කපා ඝාතනය කර පසුව ඔහුද ගෙල කපාගෙන මියගොස් තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ, යතුරුපැදියකින් නිවසට පැමිණ ඇති අදාළ තරුණයා විසින් තරුණියගේ මවට සහ පියාට ද කැපුම් තුවාල සිදුකර ඇති බවය.
+
+කෙසේවෙතත් තුවාල ලැබූ මව සහ පියා මේ වනවිට මහඔය මූලික රෝහල ප්‍රතිකාර ලබමින් සිටී.
+
+ඝාතනයට ලක්ව ඇත්තේ 23 හැවිරිදි සරෝජා උදයංගනී නැමති තරුණියක් වන අතර, ඝාතනය සිදුකළ තරුණයා මොනරාගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/454c9668.json)
+
+---
+
+### Trump says trade deal struck with Japan includes 15% tariff
+
+*2025-07-23 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110752/trump-says-trade-deal-struck-with-japan-includes-15-tariff) · `en`
+
+President Donald Trump on Tuesday said the U.S. and Japan had struck a trade deal that includes a lower 15% tariff that will be levied on U.S. imports from the country, including autos.
+
+In a post on Truth Social, Trump said the deal would include $550 billion of Japanese investments in the United States.
+
+He also said that Japan would increase market access to American producers of cars, trucks, rice and certain agricultural products, among other items.
+
+Trump’s post made no mention of easing tariffs on Japanese motor vehicles, which account for more than a quarter of all the country’s exports to the United States and are subject to a 25% tariff. But NHK reported that the deal lowers the auto tariff to 15%, citing a Japanese government official.
+
+“This is a very exciting time for the United States of America, and especially for the fact that we will continue to always have a great relationship with the Country of Japan,” Trump said on the social media platform.
+
+...
+
+[Data](articles/70de6b1d.json)
+
+---
+
+### Showers expected in several areas today
+
+*2025-07-23 06:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110751/showers-expected-in-several-areas-today) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, the Department of Meteorology said.
+
+Several spells of showers may occur in the North-western province.
+
+Meanwhile, strong winds of about 55-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and Central provinces and Trincomalee and Hambanthota districts, according to the Met. Department.
+
+Fairly strong winds about 40-50 kmph can be expected at times elsewhere.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/d14e5281.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට අදත් වැසි
 
@@ -1681,77 +1761,5 @@ A bond maturing on 01.06.2033 closed at 10.70/80 percent, up from 10.70/77 perce
 ◼️
 
 [Data](articles/2d2a18d6.json)
-
----
-
-### අස්ගිරි අනුනායක හිමිගේ දේහය උපාලි අනුස්මරණ ශාලාවේ තැම්පත් කෙරේ
-
-*2025-07-22 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212524) · `si`
-
-අපවත්වී වදාළ අස්ගිරි මහා විහාර පාර්ශ්වයේ අනුනායක අතිපූජ්‍ය ආණමඩුවේ ධම්මදස්සි හිමියන්ගේ දේහය මේ වනවිට මහජන ගෞරවය සඳහා අස්ගිරි මහා විහාරීය ප්‍රවර උපාලි අනුස්මරණ ශාලාවේ තැම්පත් කර තිබේ.
-
-රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය නිවේදනය කළේ, දේහය පිළිබඳ ආදාහන පූජෝත්සවය ලබන බ්‍රහස්පතින්දා (24) පස්වරු 2:30 අස්ගිරිය පොලිස් ක්‍රීඩාංගණයේදී පූර්ණ රාජ්‍ය අනුග්‍රහය සහිතව සිදුකරන බවය.
-
-◼️
-
-[Data](articles/d966ac17.json)
-
----
-
-### குரங்குகள் அட்டகாசம்: கடித்து குதறியதில் 6 பெண்கள் படுகாயம்
-
-*2025-07-22 16:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகள்-அட்டகாசம்-கடித்து-குதறியதில்-6-பெண்கள்-படுகாயம்/175-361539) · `ta`
-
-மட்டக்களப்பு வந்தாறுமூலை பிரதேச குடிமனை பகுதிக்குள் உள்நுழைந்த குரங்கு கூட்டம்  பெண்கள் மீது  கடித்ததில்  இதுவரை 6 பேர் படுகாய மடைந்துள்ளதுடன் குரங்குகளின் அட்டகாசத்தினால் அப்பகுதியில் உள்ள வீடுகளின் கூரை ஓடுகள் மற்றும் பயிர்களை அழித்து சேதமாக்கி வருவதுடன் மக்கள் வீட்டை விட்டு வெளியே செல்ல முடியாது  பீதியில் அச்சத்துடன் இருப்பதாக மக்கள் கடும் விஷம் தெரிவிக்கின்றனர்
-
-வந்தாறுமூலை பேக் வீதியில்   வீட்டை விட்டு வெளியில் வந்த வயதான பெண் ஒருவர் மீது குரங்கு கடித்ததை அடுத்து அவர் படுகாயமடைந்துள்ளார் அவரின் காலில் பாரிய தசைபகுதி இல்லாமல் போயுள்ள நிலையில் மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
-
-இவ்வாறு கடந்த ஒரு வாரத்தில் இதுவரை குரங்கு கடிக்கு 6 பேர் உள்ளாகி படுகாயமடைந்துள்ளனர் இவர்கள் அனைவரும் பெண்கள் இருந்தபோதும் கடந்த சில வாரங்களாக குடிமனை பகுதிக்குள்  உள்நுழைந்த குரங்கு கூட்டம் வீட்டின் கூரைகளை உடைத்து சேதமாக்கி வருவதுடன் மாமரம் பலா மரம் போன்ற பயன் தரும் மரங்களின் பழங்கள் காய்களை பிடுங்கி அழித்து வருகிறது
-
-...
-
-[Data](articles/fe4ac0d6.json)
-
----
-
-### புலி தகவலால்: 86 குண்டுகள், போதைப்பொருட்கள் மீட்பு
-
-*2025-07-22 16:53:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தகவலால்-86-குண்டுகள்-போதைப்பொருட்கள்-மீட்பு/175-361538) · `ta`
-
-தமிழீழ விடுதலைப் புலிகள் அமைப்பின் முன்னாள் போராளி ஒருவர் வழங்கிய தகவலை அடுத்து, வவுனியாவில் 86 கைக்குண்டுகள்,    ரி56 ரக துப்பாக்கிக்கான ரவைகள், கைத்துப்பாக்கிக்கான மூன்று ரவைகள், 5,600 போதை மாத்திரைகள், 10 கிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளதுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-திங்கட்கிழமை (21) அன்று கொழும்பில் துப்பாக்கியுடன் கைது செய்யப்பட்ட முன்னாள் விடுதலைப்புலி போராளி வழங்கிய தகவலின் அடிப்படையில் கொழும்பிலிருந்து வருகைதந்த புலனாய்வுத்துறை அதிகாரிகளோடு வவுனியா மாவட்ட குற்றத்தடுப்பு விசாரணை பிரிவு பொலிசாரும் இணைந்து செட்டிகுளம் துட்டுவாகை மற்றும் நேரியகுளம் பகுதிகளில் உள்ள இரு வீடுகளில் சோதனையை மேற்கொண்டனர்.
-
-இதன்போது நேரியகுளத்தில் வீடு ஒன்றின் அருகாமையில் பிளாஸ்டிக் பரல் ஒன்றினுள் 86 கைக்குண்டுகள் ரி56 ரக துப்பாக்கிக்கான ரவைகள், கைத்துப்பாக்கிக்கான மூன்று ரவைகள், 5600 போதை மாத்திரைகள், 10 கிராம் ஐஸ் போதைப்பொருள் என்பன நிலத்தின் கீழ் பதுக்கி வைக்கப்பட்டிருந்த நிலையில் மீட்கப்பட்டன.
-
-...
-
-[Data](articles/a3c713ac.json)
-
----
-
-### ඉනාමළුව රක්ෂිතයේ තිබී සද්ධන්තයින් තිදෙනෙකුගේ සිරුරු කොටස් හමුවෙයි
-
-*2025-07-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212523) · `si`
-
-දඹුල්ල, ඉනාමළුව, දිගම්පතහ රජයේ රක්ෂිතය තුළ තිබියදී  ඇතෙකුගේ සහ අලි දෙදෙනෙකුගේ මළසිරුරු හා අස්ථි කොටස් කිහිපයක් අද (22) පෙරවරුවේ සොයාගැනුණි.
-
-රක්ෂිතයේ, දඹුල්ල හබරණ ප්‍රධාන මාර්ගයට ආසන්න ස්ථාන තුනක මෙම මෘත දේහ සහ අස්ථි කොටස් දක්නට ලැබුණි.
-
-ඉන් එක් මෘත දේහයක් ඇතෙකුගේ බවට සැකකළ හැකි අතර, එම ඇතාගේ දළ යුගළ කපාගෙන ගොස් ඇති බවට වන ලක්ෂණද දක්නට ලැබේ.
-
-මීට මාසයකට පමණ ඉහතදී මියගොස් ඇති බවට සැක කෙරෙන මෙම අලි ඇතුන් මියගොස් ඇත්තේ කෙසේද යන්න මෙතෙක් අනාවරණ වී නැත.
-
-මේ අතර ගල්ගමුව ඇහැටුවැව, ගාලයායවෙල රක්ෂිතයේ තිබියදී දළ සහිත හස්තියෙකුගේ මළ සිරුරක් අද සොයාගැනුණි.
-
-ඒ මසුන් ඇල්ලීම සඳහා එහි ගිය ප්‍රදේශවාසීන් පිරිසක් විසින් සිදුකළ දැනුම්දීමකට අනුවය.
-
-මියගොස් ඇත්තේ කහල්ල, පල්ලෙකැලේ රක්ෂිතය හා ඇහැටුවැව තේක්කකැලේ රක්ෂිතය ආශ්‍රිතව සැරිසැරූ " ගල්ගමුවේ සුමන" හස්තියා බවට සැලකෙන අතර ප්‍ර දේශවාසීන් සැක පළ කරන්නේ හස්තියා කිසිවකු විසින් වෙඩිතබා ඝාතනය කර ඇති බවටය.
-
-සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කළ මීගලෑව වනජීවී කාර්යාලයේ නිලධාරීන් පවසන්නේ වයස අවුරුදු 20ක් පමණ වන හස්තියා මීට දින කිහිපයකට පෙර මියගොස් ඇති බවය.
-
-◼️
-
-[Data](articles/5090e58e.json)
 
 ---

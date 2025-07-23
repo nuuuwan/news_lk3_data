@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 12:50:49**
+As of **2025-07-23 13:20:31**
 
 ## Newspaper Stats
 
-*Scraped **66,312** Articles*
+*Scraped **66,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,363
 adaderanalk | 8,131
-tamilmirrorlk | 9,552
+tamilmirrorlk | 9,553
 virakesarilk | 11,047
-adaderanasinhalalk | 11,390
+adaderanasinhalalk | 11,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,312 articles have been extended.
+61,973 (93.5%) of 66,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### වාහන ආනයනය සම්බන්ධයෙන්  මහ බැංකු අධිපතිගෙන් ප්‍රකාශයක්
+
+*2025-07-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212551) · `si`
+
+වාහන ආනයනය සීමාකිරීමට රජයේ හෝ මහ බැංකුවෙහි කිසිදු තීරණයක් ගෙන නොමැති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/3fa63faf.json)
+
+---
+
+### சிறுமியை கர்ப்பிணி: காதலன், தந்தையர்கள் கைது
+
+*2025-07-23 12:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-கர்ப்பிணி-காதலன்-தந்தையர்கள்-கைது/175-361604) · `ta`
+
+பதினைந்து வயது சிறுமியை கர்ப்பமாக்கிய அந்த சிறுமியின் காதலன், அவளுக்கு ஆதரவளித்த சிறுமியின் தந்தை, காதலனின் தந்தை ஆகியோர் அத்திமலை பொலிஸாரினால் கடந்த 22 ஆம் திகதி கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபரின் தந்தை அத்திமலை பொலிஸ் பிரிவுக்குட்பட்ட கொட்டகலையில் உள்ள வட்டாரம் பகுதியைச் சேர்ந்தவர்.
+
+தாய் வெளிநாட்டில் பணிப்பெண்ணாக பணியாற்றி வருகிறார். அந்த சிறுமி தனது தந்தையுடன் வசித்து வருகிறார்.
+
+அந்த சிறுமி இளைஞனுடன் காதல் உறவில் இருந்துள்ளார்.  காதலன், சிறுமியின் வீட்டிற்கு சென்று  கணவன்-மனைவியாக நடந்து கொண்டனர்.
+
+சந்தேக நபரின் 52 வயதுடைய தந்தை, பெண்ணின் தந்தையான 42 வயதுடைய நபரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார், அங்கு சிறுமி கர்ப்பமாக இருப்பது தெரியவந்தது.
+
+◼️
+
+[Data](articles/0ca01500.json)
+
+---
 
 ### பவர்பொயிண்ட் வேண்டாம் -வெள்ளை அறிக்கை தான் வேண்டும்
 
@@ -1767,43 +1801,5 @@ Dr. Jayatissa asserted that the reforms are being misrepresented for political g
 ...
 
 [Data](articles/06c317d2.json)
-
----
-
-### President nominates Justice Surasena for Chief Justice post: Cabinet Spokesman
-
-*2025-07-23 00:26:46* · [`dailyftlk`](https://www.ft.lk/news/President-nominates-Justice-Surasena-for-Chief-Justice-post-Cabinet-Spokesman/56-779351) · `en`
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday confirmed that President Anura Kumara Disanayake has nominated Justice Preethi Padman Surasena for the position of Chief Justice and submitted his name to the Constitutional Council for approval.
-
-“Yes, the President has submitted Preethi Padman Surasena’s name to the Constitutional Council as Chief Justice,” Dr. Jayatissa stated, responding to a question at the weekly post-Cabinet meeting media briefing.
-
-Commenting on the decision, the Cabinet Spokesman said Justice Surasena is a senior judge of the Supreme Court with a long and respected career in the judiciary. “That’s why the President submitted his name,” he added, addressing questions about overlooking seniority.
-
-Surasena was the Committee Chair appointed by Parliament to investigate allegations of gross abuse of power against suspended Inspector General of Police (IGP) Deshabandu Thennakoon.
-
-◼️
-
-[Data](articles/667cd595.json)
-
----
-
-### SL to ink MoU with South Korea’s Bosong to deploy seasonal agricultural workers on E-8 visa
-
-*2025-07-23 00:24:48* · [`dailyftlk`](https://www.ft.lk/news/SL-to-ink-MoU-with-South-Korea-s-Bosong-to-deploy-seasonal-agricultural-workers-on-E-8-visa/56-779350) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved the signing of a memorandum of understanding (MoU) between Sri Lanka and the Bosong Local Government in South Korea to send workers under the E-8 Visa category as seasonal employees.
-
-This decision follows earlier Cabinet approvals granted on 19 February and 1 July 2025 to implement a pilot program aimed at facilitating Sri Lankan employment in South Korea under this visa category.
-
-The E-8 Visa enables foreign workers to be temporarily employed in South Korean agricultural sectors.
-
-“Based on discussions with Korean local government institutions, the Bosong administration has agreed to recruit Sri Lankan employees to work in agricultural villages in the province,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said during the weekly post-Cabinet meeting media briefing yesterday.
-
-He said under the proposed MoU, Sri Lankan workers will be eligible for short-term employment of up to eight months.
-
-...
-
-[Data](articles/d16cf532.json)
 
 ---

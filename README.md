@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 01:05:44**
+As of **2025-07-24 01:16:41**
 
 ## Newspaper Stats
 
-*Scraped **66,401** Articles*
+*Scraped **66,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,051
 economynextcom | 4,060
-dailyftlk | 4,689
+dailyftlk | 4,698
 dailymirrorlk | 4,733
 adalk | 6,374
 adaderanalk | 8,151
@@ -26,11 +26,149 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,401 articles have been extended.
+61,973 (93.3%) of 66,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### For US, UK and Europe, wars, death  and destruction are profitable business
+
+*2025-07-24 00:59:36* · [`dailyftlk`](https://www.ft.lk/columns/For-US-UK-and-Europe-wars-death-and-destruction-are-profitable-business/4-779386) · `en`
+
+Israeli Prime Minister Benjamin Netanyahu, soaked in Palestinian blood, is the most hated person in this planet today. Some describe him as the Jewish Hitler in view of his endless barbarity unleashed on Palestinians in Gaza for decades. Since 8 October 2023 Netanyahu has been bombing and killing Palestinians in Gaza, once a bustling refugee camp which is today a graveyard. Yet his carnage continues unabated.
+
+Irish Member of Parliament Thomas Gould said in the Irish parliament that Netanyahu and his government deserve to be burnt in hell. Hague based International Criminal Court, ICC, declared Netanyahu a war criminal wanted to be arrested and tried for his war crimes.
+
+...
+
+[Data](articles/7ff9fde8.json)
+
+---
+
+### Black July 1983: Remembering the past to secure the future
+
+*2025-07-24 00:54:59* · [`dailyftlk`](https://www.ft.lk/opinion/Black-July-1983-Remembering-the-past-to-secure-the-future/14-779385) · `en`
+
+As the decades pass, fewer and fewer citizens have knowledge of what took place in July 1983
+
+Forty-two years after the violence of Black July, Sri Lanka continues to live in the shadow of unacknowledged violence that shattered the lives of thousands of Tamil families. Homes were burned, livelihoods destroyed, and innocent lives lost. Starting from Colombo, the riots and violence spread countrywide. Hundreds of innocent people were killed. Tens of thousands displaced. But there has still been no full accounting, no official truth, no justice, and no assurance that it will not happen again.
+
+The National Peace Council (NPC) marks this anniversary not only to mourn the victims, but to affirm that there can be no lasting reconciliation without first confronting the past and finding a political solution that addresses the roots of the problem.
+
+...
+
+[Data](articles/1a9f0071.json)
+
+---
+
+### CIMA Sri Lanka celebrates 60 years of excellence in finance and business
+
+*2025-07-24 00:53:09* · [`dailyftlk`](https://www.ft.lk/columns/CIMA-Sri-Lanka-celebrates-60-years-of-excellence-in-finance-and-business/4-779383) · `en`
+
+This year marks an important milestone for The Chartered Institute of Management Accountants (CIMA) in Sri Lanka as we celebrate six decades of empowering Sri Lanka’s most highly skilled accounting and finance professionals to support their businesses, communities, and economies to thrive and succeed.
+
+Today, the island is home to one of the largest communities of CIMA members and CGMA candidates worldwide, a long way from our humbler beginning with just 22 members in 1965. From the outset, we have championed innovation, resilience, and leadership.
+
+Over the past six decades, we have supported thousands of Sri Lankans to build their dream careers in finance and business, both in Sri Lanka and overseas. In addition, three Sri Lankans have served as CIMA President - Aubrey Joachim (2009-2010), Amal Ratnayake (2019-2020), and Melanie Janine Kanaka (2022-2023) – showcasing the country’s impact and influence on the global finance profession.
+
+...
+
+[Data](articles/1f26c713.json)
+
+---
+
+### New IPS publication – ‘Debt for climate and nature swaps in Sri Lanka: Scoping study’
+
+*2025-07-24 00:51:02* · [`dailyftlk`](https://www.ft.lk/opinion/New-IPS-publication-Debt-for-climate-and-nature-swaps-in-Sri-Lanka-Scoping-study/14-779382) · `en`
+
+In addressing the triple challenges of high indebtedness, climate change and loss of nature, debtfor-climate and nature (DfCN) swaps are recognised as an effective fiscal instrument for developing economies. These are agreements between the debtor and creditor countries where debt repayments are restructured to reduce the debt burden and allocate funds to climate-positive investments that support environmental commitments.
+
+Our latest study ‘Debt for climate and nature swaps in Sri Lanka: Scoping study’ by IPS Researchers Dr. Lakmini Fernando, Sunimalee Madurawala, and Menaka Wimalarathne explores the possibility for Sri Lanka to use DfCN swaps in achieving the dual objective of debt sustainability and climate investments.
+
+...
+
+[Data](articles/f21b4387.json)
+
+---
+
+### When tax policy backfires: Call for more calculated policy approach
+
+*2025-07-24 00:49:02* · [`dailyftlk`](https://www.ft.lk/opinion/When-tax-policy-backfires-Call-for-more-calculated-policy-approach/14-779381) · `en`
+
+Ironically, the strategy that was meant to discourage smoking and boost Government coffers has done the opposite
+
+Over the first half of 2025 alone, authorities in Sri Lanka have intercepted more than 115 million illegal cigarettes at entry points across the country. In one bold attempt, traffickers tried to sneak 2,000 cartons worth over Rs. 60 million through the green channel at the airport. These are not isolated incidents – they are symptoms of a broader policy failure.
+
+The recently published Annual Report of Ceylon Tobacco Company PLC estimates that 1.2 billion cigarettes were smuggled into the island last year, costing the Government over Rs. 110 billion in lost revenue. Legal cigarette sales, once the backbone of excise collection, has shrunk to a mere 1.9 billion sticks, making up just 20% of the total tobacco industry in the country. These are not just numbers – they’re red flags waving at the very heart of our economic and enforcement systems.
+
+...
+
+[Data](articles/27a2aed2.json)
+
+---
+
+### First Deputy MD Gita Gopinath quits IMF to re-join Harvard Economics Faculty
+
+*2025-07-24 00:47:05* · [`dailyftlk`](https://www.ft.lk/opinion/First-Deputy-MD-Gita-Gopinath-quits-IMF-to-re-join-Harvard-Economics-Faculty/14-779380) · `en`
+
+International Monetary Fund (IMF) Managing Director Kristalina Georgieva has announced that First Deputy Managing Director (FDMD) Gita Gopinath, would be leaving the Fund at the end of August to return to Harvard University, where she will be the inaugural Gregory and Ania Coffey Professor of Economics in the Department of Economics.
+
+Gopinath joined the Fund in January 2019 as Chief Economist and was promoted to First Deputy Managing Director in January 2022.
+
+...
+
+[Data](articles/7629fd70.json)
+
+---
+
+### EDB–NOCU’s countrywide awareness campaign reaches Batticaloa
+
+*2025-07-24 00:38:16* · [`dailyftlk`](https://www.ft.lk/business/EDBNOCU-s-countrywide-awareness-campaign-reaches-Batticaloa/34-779372) · `en`
+
+The National Organic Control Unit (NOCU) of the Sri Lanka Export Development Board (EDB) continued its mission to elevate Sri Lanka’s organic agriculture sector by successfully conducting the third phase of its 2025 national awareness program at Riveria Resort – Batticaloa on 8 July. The awareness seminar follows the earlier programs held in Jaffna and Matale that were highly beneficial to the participants. The one-day awareness program contained expert presentations and stakeholder discussions and drew over 75 participants from the Eastern Province, including farmers, entrepreneurs, and stakeholders in the organic value chain.
+
+...
+
+[Data](articles/8e65baf5.json)
+
+---
+
+### CIC Vetcare supports MSME “SAJ” to next level
+
+*2025-07-24 00:37:15* · [`dailyftlk`](https://www.ft.lk/business/CIC-Vetcare-supports-MSME-SAJ-to-next-level/34-779371) · `en`
+
+The global market for pet products is growing very rapidly with changing lifestyles worldwide. Whether it is good or bad, it is a fact beyond doubt that the doggy boom is much bigger than the baby boom in many parts of the developed world.
+
+Even in Sri Lanka, the demand for high quality doggy products is on the rise. Dog lovers are spending good and big resources, much more than they have done in the past for their dogs. They care more for their dogs and are looking for high quality products like what the human beings who are also looking for herbal natural products for skin care at present
+
+CIC Vetcare Director/CEO Ajith Weerasinghe said: “CIC as a very responsible corporate, we are delighted to support quality products from SMEs and take them to the next level to the needs of the rapidly changing doggy market.”
+
+...
+
+[Data](articles/d8fcbd99.json)
+
+---
+
+### McLarens Group and Koko forge strategic partnership
+
+*2025-07-24 00:35:45* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Group-and-Koko-forge-strategic-partnership/34-779370) · `en`
+
+Initiative to enhance accessibility of 3M and Meguiar’s products in Sri Lanka
+
+McLarens Group, the distributor of world-renowned brands 3M and Meguiar’s in Sri Lanka, has announced a strategic partnership with Koko, the island’s leading Buy Now, Pay Later (BNPL) platform.
+
+Customers looking to buy high-end car care, homecare, stationery, personal safety and the entire product range both online and offline will benefit from this innovative partnership’s increased convenience and flexibility.
+
+Through the McLarens Online Store (mll.lk/products) and the retail location at Union place, McLarens now offers Koko’s three interest-free instalment option for its extensive selection of 3M and Meguiars products. Customers can now enjoy top-quality products with hassle-free payments.
+
+McLarens Group has a strong presence across various key sectors in Sri Lanka. As a trusted partner for numerous international brands, they have continued to maintain global standards of quality and service to the Sri Lankan
+
+...
+
+[Data](articles/0331f6cb.json)
+
+---
 
 ### Knuckles Spring Water enters Bahrain market
 
@@ -1687,165 +1825,5 @@ Meanwhile, the wave height (about 2.5–3.0 m) may increase in the sea areas off
 ...
 
 [Data](articles/bb41ec63.json)
-
----
-
-### අවවාදාත්මක නිවේදනයක්
-
-*2025-07-23 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212549) · `si`
-
-තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තුමේන්තුව විසින් නිකුත් කර තිබේ.
-
-උතුර, උතුරු මැද වයඹ සහ මධ්‍යම පළාත් සහ ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා පැය 24ක කාලසීමාවකට මෙම නිවේදනය වලංගු වේ.
-
-දිවයින හරහා පවතින සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් මෙම දිස්ත්‍රික්ක සඳහා විටින් විට හමන පැ.කි.මී.55-60ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-දිවයිනේ සෙසු  ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ද ඇතිවිය හැකිය.
-
-◼️
-
-[Data](articles/41c1fde2.json)
-
----
-
-### ශ්‍රී ලංකන් අක්‍රමිකතා විමර්ශනයට ජනාධිපති විශේෂ විමර්ශන කමිටුවක්
-
-*2025-07-23 11:39:44* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-අක්‍රමිකතා-විමර්ශනයට-ජනාධිපති-විශේෂ-විමර්ශන-කමිටුවක්/11-417464) · `si`
-
-ශ්‍රී ලංකන් එයාර්ලයින්ස් ලිමිටඩ් සමාගමේත් සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමේත් සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා පිළිබඳ විමර්ශනයට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ජනාධිපති විශේෂ විමර්ශන කමිටුවක් පත් කරනු ලැබ ඇත.
-
-ඊයේ (22) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එම විශේෂ විමර්ශන කමිටුව හමු වූ ජනාධිපතිවරයා ඔවුන් සමඟ සාකච්ඡාවකටද එක් විය.
-
-එහිදී, ශ්‍රී ලංකන් එයාර්ලයින්ස් ලිමිටඩ් සමාගමේ සහ සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමේ සිදු වී ඇති අක්‍රමිකතා පිළිබඳ නිසි විමර්ශනයක් සිදු නොවීම හේතුවෙන් එම ආයතන විශාල ලෙස අකර්මණ්‍ය වී ඇති බව පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා, මෙම සිදුවීම් පිළිබඳව ඉදිරිපත්ව ඇති සියලු කරුණු අධ්‍යයනය කරමින් කඩිනම් විමර්ශනයක් සිදු කරන ලෙසත්, එම තත්ත්ව නිවැරදි කිරීමට සහ අනාගතයේදී එවැනි දෑ නැවත සිදු වීම වැළැක්වීමට අවශ්‍ය මාර්ගෝපදේශ ඇතුළත් වාර්තාවක් ඉදිරිපත් කරන ලෙසත් කමිටුවට දැනුම් දුන්නේය.
-
-...
-
-[Data](articles/ff30fa6d.json)
-
----
-
-### Special Presidential Investigation Committee appointed to probe irregularities at SriLankan Airlines & AASL
-
-*2025-07-23 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110765/special-presidential-investigation-committee-appointed-to-probe-irregularities-at-srilankan-airlines-aasl) · `en`
-
-President Anura Kumara Dissanayake has appointed a Special Presidential Investigation Committee to probe alleged incidents of fraud, corruption and irregularities at SriLankan Airlines Limited and Airport and Aviation Services (Sri Lanka) (Private) Limited, the President’s Media Division (PMD) said.
-
-The President met with the members of the Committee on Tuesday (July 22) at the Presidential Secretariat and engaged in a discussion with them.
-
-During the meeting, President Anura Kumara Dissanayake emphasized that the absence of a proper investigation into the irregularities at SriLankan Airlines Limited Company and Airport and Aviation Services (Sri Lanka) (Private) Limited has rendered these institutions largely ineffective.
-
-...
-
-[Data](articles/adb81bec.json)
-
----
-
-### Rohini Kaviratne’s comments spark heated exchange in Parliament
-
-*2025-07-23 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110764/rohini-kaviratnes-comments-spark-heated-exchange-in-parliament-) · `en`
-
-A heated situation arose in Parliament due to Cretan comments made by Samagi Jana Balawegaya (SJB) MP Rohini Kaviratne, targeting the Speaker of the House, Dr. Jagath Wickramaratne, while she was asking a supplementary question this morning (23).
-
-The Speaker had stated in Parliament that MP Kaviratne had taken more than 4 minutes to ask the supplementary question.
-
-However, the situation escalated when the MP replied saying, ‘please close your mouth and listen’, prompting heated exchanges between ruling party and opposition legislators in the chamber.
-
-◼️
-
-[Data](articles/ca2a90b1.json)
-
----
-
-### රනිල්ගේ හදිසි නීතිය මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීමක්
-
-*2025-07-23 11:28:15* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-හදිසි-නීතිය-මූලික-අයිතිවාසිකම්-උල්ලංඝනය-කිරීමක්/11-417463) · `si`
-
-2022 වසරේ ජූලි මස 17 වනදා එවක වැඩබලන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අරගලයට එක්වූ අරගලකරුවන් පාලනය කිරීම සඳහා මහජන ආරක්ෂක පනත යටතේ රටපුරා ප්‍රකාශයට පත් කරනු ලැබූ හදිසි නීති රෙගුලාසි තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බව ශ්‍රේෂ්ඨාධිකරණය විසින් බෙදුන තීන්දුවකින් ප්‍රකාශයට පත්කළේය.
-
-වැඩබලන ජනාධිපති ලෙස රනිල් වික්‍රමසිංහ මහතා මහජන ආරක්ෂක පනතේ 02 වගන්තිය යටතේ නිකුත් කරනු ලැබු හදිසි නීති රෙගුලාසි අත්තනෝමතික මෙන්ම බල ශූන්‍ය බව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ බහුතර විනිසුරුවරු තීන්දු කළේය. අගවිනිසුරු මුර්දු ප්‍රනාන්දු, යසන්ත කෝදාගොඩ යන බහුතර විනිසුරුවරූ විසින් මෙම තීන්දුව ලබා දුන්නේය.
-
-කෙසේ වෙතත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සිය තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේ, වැඩබලන ජනාධිපතිවරයාගේ හදිසි නීති ප්‍රකාශය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය නොවන බවය.
-
-...
-
-[Data](articles/4fa069ab.json)
-
----
-
-### රනිල්ගේ හදිසි නීතිය මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීමත්
-
-*2025-07-23 11:28:15* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-හදිසි-නීතිය-මූලික-අයිතිවාසිකම්-උල්ලංඝනය-කිරීමත්/11-417463) · `si`
-
-2022 වසරේ ජූලි මස 17 වනදා එවක වැඩබලන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අරගලයට එක්වූ අරගලකරුවන් පාලනය කිරීම සඳහා මහජන ආරක්ෂක පනත යටතේ රටපුරා ප්‍රකාශයට පත් කරනු ලැබූ හදිසි නීති රෙගුලාසි තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බව ශ්‍රේෂ්ඨාධිකරණය විසින් බෙදුන තීන්දුවකින් ප්‍රකාශයට පත්කළේය.
-
-වැඩබලන ජනාධිපති ලෙස රනිල් වික්‍රමසිංහ මහතා මහජන ආරක්ෂක පනතේ 02 වගන්තිය යටතේ නිකුත් කරනු ලැබු හදිසි නීති රෙගුලාසි අත්තනෝමතික මෙන්ම බල ශූන්‍ය බව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ බහුතර විනිසුරුවරු තීන්දු කළේය. අගවිනිසුරු මුර්දු ප්‍රනාන්දු, යසන්ත කෝදාගොඩ යන බහුතර විනිසුරුවරූ විසින් මෙම තීන්දුව ලබා දුන්නේය.
-
-කෙසේ වෙතත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සිය තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේ, වැඩබලන ජනාධිපතිවරයාගේ හදිසි නීති ප්‍රකාශය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය නොවන බවය.
-
-...
-
-[Data](articles/de9dc432.json)
-
----
-
-### පාලු බංගලාවක් තුළ අනියම් බිරිඳව ඝාතනය කර සැකකරු පොලීසියට භාරවෙයි
-
-*2025-07-23 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212548) · `si`
-
-නාවලපිටිය, ඉඹුල්පිටිය වතුයායේ අතහැර දමා තිබූ පාලු බංගලාවක් තුළදී අනියම් බිරිඳගේ ගෙල කපා ඝාතනය කළ පුද්ගලයා පොලීසියට භාරවී තිබේ.
-
-සැකකරු ගම්පොළට භාරවී ඇති අතර, පසුව නාවලපිටිය පොලීසිය වෙත වැඩිදුර විමර්ශන සඳහා භාරදී ඇත.
-
-ඊයේ (22) සවස මෙම ඝාතනය සිදුව ඇති ඇති අතර, ඝාතනයට ලක්ව ඇත්තේ, නාවලපිටිය ඉඹුල්පිටිය වතුයායේ පදිංචිව සිටි යෝග මලර් නැමති 39 හැවිරිදි  තිදරු මවකි.
-
-ඝාතනයට ලක් වූ කාන්තාව සැකකරු සමග ගම්පොළ පුස්සැල්ලාව ප්‍රදේශයේ මාස 09ක පමණ කාලයක් එකට වාසය කර ඇති අතර, පසුව යළිත් සිය නිත්‍යානුකූල සැමියාගේ නිවසට පැමිණ තිබේ.
-
-නිවසට පැමිණ සිටි අදාළ කාන්තාව වරින්වර සැකකරුට දුරකථන ඇමතුම් ලබාගෙන ඇති අතර, ගෘහසේවය සඳහා විදෙස්ගත වීමට සුදානමින් සිට ඇත.
-
-පොලීසිය සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ, විදෙස්ගත වීම සම්බන්ධයෙන් සැකකරුගෙන් දැඩි විරෝධයක් එල්ල වී තිබූ බවය.
-
-ඝාතනයට ලක්වූ කාන්තාව විදෙස්ගත වීමට ග්‍රාම සේවක සහතිකයක් ලබාගැනීමට ගිය අවස්ථාවේ දී සැකකරු දුරකථනයෙන් කතා කර පාලු නිවසකට පැමිණෙන ලෙස පවසා ඇති අතර, එහි ගිය පසු කාන්තාවගේ ගෙල කපා ඝාතනය කර ඇත.
-
-...
-
-[Data](articles/52e3e197.json)
-
----
-
-### Ranil’s emergency regulations in 2022 violated fundamental rights – SC rules
-
-*2025-07-23 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110763/ranils-emergency-regulations-in-2022-violated-fundamental-rights-sc-rules) · `en`
-
-The Supreme Court, in a majority decision, today ruled Fundamental Rights have been violated through then Acting President Ranil Wickremesinghe’s orders to disperse the ‘Aragalaya’ protestors from Galle Face on 17 July 2022, by resorting to Emergency Regulations under the Public Security Act.
-
-The majority of the judges on the three-member bench held that the Emergency Regulations promulgated by the then Acting President under Section 2 of the Public Security Act were arbitrary, and therefore, invalid.
-
-Chief Justice Murdu Fernando and Justice Yasantha Kodagoda delivered the majority verdict.
-
-However, Justice Arjuna Obeysekara, also a member of the bench, in his separate judgment, stated that the declaration of Emergency Regulations by the Acting President did not constitute a violation of fundamental human rights.
-
-...
-
-[Data](articles/5e52d3ff.json)
-
----
-
-### මාරවිල වෙඩි තබා සිදු කළ ඝාතනය මත්ද්‍රව්‍ය සම්බන්ධ ආරවුලක්?
-
-*2025-07-23 11:18:59* · [`adalk`](https://www.ada.lk/breaking_news/මාරවිල-වෙඩි-තබා-සිදු-කළ-ඝාතනය-මත්ද්‍රව්‍ය-සම්බන්ධ-ආරවුලක්-/11-417462) · `si`
-
-මාරවිල මරද ප්‍රදේශයෙ ත්‍රි රෝද රථයකින් ගමන් කරමින් සිටි දෙදරු මවකට කල වෙඩි තැබිමකින් ඇය එම ස්ථානයෙදීම මරණයට පත්ව  බරපතල තුවාල ලැබු ඇගේ වැඩිමහල්  දරුවා  මාරවිල මහ රෝහලට 22 දින රාත්‍රියේදීම ඇතුලත් කර ඇති බව මාරවිල මුලස්ථාන පොලිසිය කියයි.
-
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ මාරවිල මරද ප්‍රදේශයෙ පදිංචි එදිරිසිංහ ආරච්චිගේ වසන්ති චතුරානි නෙහොත් සදමාලි නැමති 30 හැවිරිදි  දෙදරු මවක් බව පොලිසිය කියයි.
-
-ඝාතනයට ලක්වු කාන්තාව කුලි  ත්‍රි රෝද රථයක කිසියම් කටයුත්තකට ගොස් ආපසු නිවස කරා  තම දස හැවිරිදි පුත්‍රයා සමග එමින් සිටියදි යතුරු පැදියකින් පැමිනි නාදුනන තුවක්කුකරුවන් දෙදෙනෙකු එල්ල කල වෙඩි තැබිමකින් බරපතල තුවාල ලබා ත්‍රි රෝද රථය තුලදිම මරණයට පත්ව ඇති බව කියයි.
-
-මෙම කාන්තාවට තැබු වෙඩි පහරින් ඇගේ දස හැවිරිදි පුත්‍රයාටද වැදි ඇති බවත් බරපතල ලෙස තුවාල ලැබු දරුවා මාරවිල මහ රෝහලට ඇතුලත් කර ඇති බව කියයි.
-
-මෙසේ ඝාතනයට ලක්ව ඇත්තේ මරද ප්‍රදේශයෙ ප්‍රසිද්ධ හෙරෝයින් ඇතුළු මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ කුඩු මාලි නැමති කාන්තාවගේ වැඩිමල් දියණීය බව කියයි.
-
-...
-
-[Data](articles/7b220011.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 05:31:09**
+As of **2025-07-23 06:10:27**
 
 ## Newspaper Stats
 
-*Scraped **66,226** Articles*
+*Scraped **66,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 589
 colombotelegraphcom | 676
 bbccomsinhala | 677
-islandlk | 4,041
 economynextcom | 4,044
+islandlk | 4,050
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,353
 adaderanalk | 8,116
-tamilmirrorlk | 9,529
+tamilmirrorlk | 9,530
 virakesarilk | 11,041
 adaderanasinhalalk | 11,376
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.6%) of 66,226 articles have been extended.
+61,973 (93.6%) of 66,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### ’தமிழ் மக்களுக்கு அனுர மீது சந்தேகம்’
+
+*2025-07-23 04:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-அனுர-மீது-சந்தேகம்/175-361579) · `ta`
+
+தமிழர்களின் இனப் பரம்பலை மாற்றியமைக்க தொடர்ந்து வந்த அரசாங்கங்கள் செய்த அதே  செயற்பாட்டை அனுரகுமார அரசும்  செய்கின்றதோ என்ற சந்தேகம் எங்களுக்கும் தமிழ் மக்களுக்கும் ஏற்பட்டுள்ளது என தமிழரசு கட்சியின் எம்.பியான ப.சத்தியலிங்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) அன்று இடம்பெற்ற வேலையாட்களின் வரவு-செலவுத் திட்ட நிவாரணப்படி, திருத்த சட்டமூலம் மற்றும் வேலையாட்களின் தேசிய குறைந்த பட்ச வேதன திருத்த சட்டமூலம் ஆகியவற்றின் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+மேலும் அவர் பேசுகையில், எமது நாடு வங்குரோத்து நிலையில் இருந்து  மீள வேண்டுமானால் முதலீடுகளை நாட்டுக்குள் வசதிகள்  முக்கியம் .இந்திய அரசினால் 65 மில்லியன் டொலர் இலங்கை அரசுக்கு கொடுப்பதற்கான ஏற்பாடுகள் நடந்தன .ஆனால் அது இழுத்தடிக்கப்படுகின்றன.
+
+காங்கேசன்துறை துறைமுகத்தை அபிவிருத்தி செய்வதன் மூலம் வடக்கு மாகாணம் மட்டுமல்ல முழு நாடும் தன்னுடைய வருமானத்தை அதிகரிக்க கூடிய பொருளாதாரத்தை வலுப்படுத்த கூடிய நிலைமை தானாக வரும்போது  அதை நாம் நழுவ விட்டுக் கொண்டிருக்கின்றோம்.
+
+...
+
+[Data](articles/634d4a23.json)
+
+---
 
 ### ’பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தையும்  அதிகரிக்கவும்’
 
@@ -590,6 +608,74 @@ Switzerland, one of the world’s most advanced economies and Sri Lanka, a South
 
 ---
 
+### AIA Insurance’s Suwa Walan campaign sparks national dialogue on breast cancer awareness
+
+*2025-07-22 23:28:00* · [`islandlk`](http://island.lk/aia-insurances-suwa-walan-campaign-sparks-national-dialogue-on-breast-cancer-awareness/) · `en`
+
+AIA Insurance’s pioneering initiative, Suwa Walan, made a powerful impression at the Medicare – International Healthcare Exhibition, Sri Lanka’s largest healthcare event recently. Conducted in collaboration with the Sri Lanka Cancer Society, Suwa Walan is a culturally inspired campaign designed to raise awareness about breast cancer and promote early detection. The initiative draws from the traditional Sri Lankan practice of inspecting clay pots (walan) for imperfections, linking it to breast self-examination. At the exhibition, AIA showcased specially crafted clay pots embedded with symbolic lumps and visual guides, encouraging women to adopt regular self-checks in a familiar and non-threatening way.
+
+The campaign stood out for its innovative blend of cultural relevance, health education, and artistic expression. It has already earned multiple awards for its creative approach to public health communication.
+
+...
+
+[Data](articles/e0633fa5.json)
+
+---
+
+### Sri Lanka Convention Bureau launches educational drive for university students
+
+*2025-07-22 23:28:00* · [`islandlk`](http://island.lk/sri-lanka-convention-bureau-launches-educational-drive-for-university-students/) · `en`
+
+Sri Lanka Convention Bureau (SLCB) the gateway to seamless event planning and execution in Sri Lanka, elevates Sri Lanka’s MICE industry marking a significant milestone for the Meetings, Incentives, Conferences, Events and Exhibitions (MICE) sector in the country.
+
+...
+
+[Data](articles/f2327970.json)
+
+---
+
+### ‘Rotary Means Business Sri Lanka’ to host ‘landmark installation’
+
+*2025-07-22 23:27:00* · [`islandlk`](http://island.lk/rotary-means-business-sri-lanka-to-host-landmark-installation/) · `en`
+
+‘The Rotary Means Business (RMB)’ Fellowship Sri Lanka Chapter will host its much-anticipated ‘Installation & International Business Networking Night 2025’ on July 24 at Cinnamon Life, City of Dreams, Colombo. The event will inaugurate the Charter Board for the Fellowship’s Sri Lanka Chapter and will bring together key figures including representatives from multiple High Commissions, leaders from key industry groups and from national and regional Chambers of Commerce, Past District Governors and prominent business leaders from across the country.
+
+...
+
+[Data](articles/f5158455.json)
+
+---
+
+### Elpitiya Plantations empowers the plantation community with ‘Value Vault’ Smart Card
+
+*2025-07-22 23:26:00* · [`islandlk`](http://island.lk/elpitiya-plantations-empowers-the-plantation-community-with-value-vault-smart-card/) · `en`
+
+In a transformative initiative aimed at uplifting and empowering the plantation community, Elpitiya Plantations PLC marked a significant milestone on 16th July 2025 with the ceremonial launch of the ‘Value Vault’ smart shopping card at the Dunsinane Estate. The event coincided with the grand opening of the new Dunsinane Super COOP City and was graced by the presence of Asela Udumulla, Deputy General Manager of the Dunsinane Estate; A.G. Geeth Kumara, Chief Executive Officer of Elpitiya Plantations PLC; and C. Devaranjan, Regional Director of the Plantation Human Development Trust, Nuwara Eliya.
+
+...
+
+[Data](articles/d26eddd7.json)
+
+---
+
+### Despite early ‘up-and-down’ trend CSE trading enters green territory
+
+*2025-07-22 23:24:00* · [`islandlk`](http://island.lk/despite-early-up-and-down-trend-cse-trading-enters-green-territory/) · `en`
+
+The stock market kicked off on a positive note yesterday during the early sessions but subsequently slowed down owing to profit- takings before moving to green territory towards sessions’ end.
+
+The reason for such fluctuations could have been traced to local and foreign investors awaiting the Central Bank announcement on policy rates today, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 83.6 points while the S and P SL20 rose by 25.29 points.
+
+Turnover stood at Rs 5.9 billion with 11 crossings. Those crossings were reported in RIL Properties, which crossed 3.7 million shares to the tune of Rs 110 million; its shares traded at Rs 30, Vallibel One 888,000 shares crossed for Rs 79.1 million; its shares traded at Rs 90, Ceylinco Holdings (Non- Voting) 5000 shares crossed for Rs 60 million, its shares traded at Rs 1480, Access Engineering Rs one million shares crossed to the tune of Rs 60 million and its share price traded at Rs 60.
+
+...
+
+[Data](articles/6f7c620d.json)
+
+---
+
 ### Woman killed, child injured in shooting in Marawila
 
 *2025-07-22 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110750/woman-killed-child-injured-in-shooting-in-marawila) · `en`
@@ -1038,6 +1124,28 @@ Following the fourth and latest review for Sri Lanka’s extended fund facility 
 
 ---
 
+### Sri Lanka govt sees spending on capital investments accelerating “soon”
+
+*2025-07-22 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-sees-spending-on-capital-investments-accelerating-soon-232152/) · `en`
+
+ECONOMYNEXT – Sri Lanka government hopes the island nation’s capital investment projects will take off soon with the delays being addressed, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+The government in its maiden budget allocated a record Rs.1,315 billion for 2025.
+
+However, only over Rs. 200 billion worth projects or 15 percent of the total allocated capital investments have been approved and the related procurements are being processed, government officials have said.
+
+“There was a delay in the procurement process and lack of technical officers,” Minister Jayatissa told EconomyNext.
+
+“Now they are addressed and we hope the projects will accelerate soon. You will see it becoming 60 percent soon in no time.”
+
+Sri Lanka’s procurement process takes around six months and thus most capita; investment projects face an inevitable delay. The full-year budget for 2025 was passed in April due to  a government change in September last year.
+
+...
+
+[Data](articles/a17a3408.json)
+
+---
+
 ### වෙනස්කම් රැසකට පා තබන ජෝර්ජ් කුමරුගේ 12 වන උපන්දිනය
 
 *2025-07-22 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212528) · `si`
@@ -1442,28 +1550,6 @@ The apprehended boat and fishermen were brought ashore at the Talaimannar Pier. 
 
 ---
 
-### Sri Lanka govt sees spending on capital investments accelerating “soon”
-
-*2025-07-22 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-sees-spending-on-capital-investments-accelerating-soon-232152/) · `en`
-
-ECONOMYNEXT – Sri Lanka government hopes the island nation’s capital investment projects will take off soon with the delays being addressed, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
-
-The government in its maiden budget allocated a record Rs.1,315 billion for 2025.
-
-However, only over Rs. 200 billion worth projects or 15 percent of the total allocated capital investments have been approved and the related procurements are being processed, government officials have said.
-
-“There was a delay in the procurement process and lack of technical officers,” Minister Jayatissa told EconomyNext.
-
-“Now they are addressed and we hope the projects will accelerate soon. You will see it becoming 60 percent soon in no time.”
-
-Sri Lanka’s procurement process takes around six months and thus most capita; investment projects face an inevitable delay. The full-year budget for 2025 was passed in April due to  a government change in September last year.
-
-...
-
-[Data](articles/a17a3408.json)
-
----
-
 ### வேதன திருத்தத்துக்கு எதிர்ப்பு இல்லை: 182 பேர் ஆதரவு
 
 *2025-07-22 17:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேதன-திருத்தத்துக்கு-எதிர்ப்பு-இல்லை-182-பேர்-ஆதரவு/175-361541) · `ta`
@@ -1659,111 +1745,5 @@ Accordingly, the funeral ceremony and the cremation of the senior Buddhist monk 
 ◼️
 
 [Data](articles/4fc1260c.json)
-
----
-
-### අස්වැසුම දෙවැනි අදියරට අදාළව අභියාචනා භාර ගැනීම දීර්ඝ කෙරේ
-
-*2025-07-22 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212522) · `si`
-
-අස්වැසුම සුබසාධක ප්‍රතිලාභ යෝජනා ක්‍රමයේ දෙවන අදියරට අදාළව අභියාචනා සහ විරෝධතා භාර ගැනීමේ කාල සීමාව දීර්ඝ කිරීමට සුබසාධක ප්‍රතිලාභ මණ්ඩලය තීරණය කර තිබේ.
-
-ඒ අනුව එම කාල සීමාව මේ මස 31 වැනිදා දක්වා දීර්ඝ කිරීමට එම මණ්ඩලය පියවර ගෙන ඇත.
-
-මේ වන විට අස්වැසුම දෙවැනි අදියර ස﻿ඳහා අද (22) දිනය යන විට අභියාචනා 39,707ක් ලැබී ඇති අතර විරෝධතා 3,183ක් ද ලැබී තිබේ.
-
-◼️
-
-[Data](articles/4e75df43.json)
-
----
-
-### මල්වතු පාර්ශවයේ දක්ෂිණ ලංකාවෙ ප්‍රධාන අධිකරණ සංඝනායක හිමි ධුරයෙන් නෙරපයි
-
-*2025-07-22 16:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-පාර්ශවයේ-දක්ෂිණ-ලංකාවෙ-ප්‍රධාන-අධිකරණ-සංඝනායක-හිමි-ධුරයෙන්-නෙරපයි/11-417445) · `si`
-
-මල්වතු මහා විහාර පාර්ශ්වයේ දක්ෂිණ ලංකාවේ සමථ බලසම්පන්න ප්‍රධාන අධිකරණ සංඝනායක ධුරය හෙබවූ තල්පේ අරියජෝති හිමියන් එම ධුරයෙන් ඉවත් කිරීමට මල්වතු මහා විහාර පාර්ශ්වයේ මහානායක ස්වාමීන්ද්‍රයන් වහන්සේ ප්‍රමුඛ විංසත් වාර්ගික කාරක සංඝ සභාව තීරණය කොට තිබේ.
-
-ඒ පිළිබඳව වූ නිවේදනය මල්වතු මහානායක හිමියන්ගේ උපදෙස් පරිදි මල්වතු පාර්ශවයේ මහ ලේඛකාධිකාරී පූජ්‍ය පහමුණේ සුමංගල හිමියන් විසින් නිවේදනය කොට තිබේ.
-
-මින් ඉදිරියට තල්පේ අරියජෝති ස්ථවිර පාදයන් වහන්සේ දක්ෂිණ ලංකාවේ සමථ බල සම්පන්න ප්‍රධාන අධිකරණ සංඝනායක ධූරය සම්බන්ධ වගකීම් නොදරන බවද අදාල නිවේදනයේ සඳහන් වේ.
-
-නවසීලන්ත ජාතික කාන්තාවක් මුල් කරගනිමින් ඇති වූ ආන්දෝලනාත්මක සිදුවීමක් මුල් කර ගනිමින් උන්වහන්සේ සම්බන්ධයෙන් ඉදිරිපත් වූ චෝදනා සැලකිල්ලට ගෙන මෙම තීරණය ගෙන තිබෙන අතර ඒ සම්බන්ධයෙන් මල්වතු පාර්ශවයේ මහ ලේඛකාධිකාරී පූජ්‍ය පහමුණේ සුමංගල හිමියන් මාධ්‍ය නිවේදනයක්ද නිකුත් කොට තිබේ.
-
-◼️
-
-[Data](articles/0e7fe4e2.json)
-
----
-
-### Three elephants including tusker found dead in Digampathaha
-
-*2025-07-22 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110738/three-elephants-including-tusker-found-dead-in-digampathaha-) · `en`
-
-The carcasses of three wild elephants including a tusker—whose tusks had been removed and is believed to have died about a month ago—were discovered within the Digampathaha area of the Inamaluwa Forest Reserve, said Ada Derana reporter.
-
-Residents of the area claim that the remains of a total of five wild elephants and a tusker, believed to have died around a month ago, have been found in the Inamaluwa Forest Reserve in Dambulla.
-
-Several local residents led a group of journalists to the bodies of two elephants and a tusker.
-
-They also reported that the remaining three carcasses were located in areas that were difficult and dangerous to access due to the frequent presence of wild elephants, reports of firearms set as traps for animals, and the challenging terrain.
-
-Furthermore, the residents alleged that those who initially discovered the bodies failed to report the incident properly.
-
-...
-
-[Data](articles/a2f49a40.json)
-
----
-
-### රටින් පනින්න ගිය සැකකරුවෙක් අත්අඩංගුවට
-
-*2025-07-22 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212521) · `si`
-
-පානදුර පොලිස් වසමේදී පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියකට පොලීසියට අවශ්‍යව සිටි පුද්ගලයෙකු අද (22) කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරු මැලේසියාව වෙත පලායෑමට මෙලෙස ගුවන්තොටුපොළ වෙත පැමිණ සිටියදී මුහුණු මගින් පුද්ගලයින් හඳුනාගැනීමේ පද්ධතිය හරහා සැකකරු හඳුනාගෙන ඇත.
-
-රමේෂ් පේෂල නමැති 28 හැවිරිදි සැකකරු ඉකුත් 11 වනදා පානදුර පොලිස් වසමේ හිරණ ප්‍රදේශයේදී හෂිත දුලාජ් නැමති අයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියට අවශ්‍යකර සිටින පුද්ගලයෙකු බවට හඳුනාගෙන තිබුණි.
-
-අදාළ සැකකරු අද උදෑසන 10:40ට මැලේසියාව බලා පිටත්ව යන එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 44 දරන ගුවන්යානයට පිවිසීම සඳහා කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටියදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-පසුව පානදුර පොලීසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් පිරිසක් පැමිණ සැකකරු රැගෙන ගොස් තිබේ.
-
-◼️
-
-[Data](articles/81615767.json)
-
----
-
-### கறுப்பு ஜூலை ஆவணப்படுத்தல் -பாதிக்கப்பட்டவர்கள் விபரங்கள் தெரிந்தவர்கள் தொடர்புகொள்ளுமாறு கனடிய தமிழர் பேரவை வேண்டுகோள்
-
-*2025-07-22 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220647) · `ta`
-
-கறுப்பு ஜூலை குறித்த ஆவணப்படுத்தலில் ஈடுபட்டுள்ள கனடிய தமிழர் பேரவை தொடர்புகொள்ளுமாறு வேண்டுகோள் விடுத்துள்ளது.
-
-தமிழர்களை குறிவைத்து திட்டமிட்ட இன அழிப்பு இலங்கையின் சுதந்திரத்திற்கு பின்னர் ஆரம்பிக்கப்பட்டிருந்தாலும் நேரடியாக இனப்படுகொலைகளாக கட்டவிழ்க்கப்பட்ட சோகம் நிகழ்ந்தது கறுப்பு ஜூலை தினங்களில் என்பதை வரலாறும் தமிழ் மக்களும் என்றும் மறந்துவிடப்போவதில்லை.
-
-கனடியத் தமிழர் பேரவை 2008 ஆம் ஆண்டில் இருந்து கறுப்பு ஜூலை கொடூரங்களை கண்ணுற்று தப்பித்து வந்தவர்களைத் தேடி அவர்களிடம் இருந்து சாட்சியங்களை ஒலிஇ ஒளிப்பதிவுகளாக ஆவணப்படுத்தி வருகின்றது. இது நம் வரலாற்றை திரிபுபடுத்தாமல் கடத்த மிக முக்கியமான ஆவணப்படுத்தலாகும்.
-
-கறுப்பு ஜூலையில் அழியாத நினைவுகளை ஆவணப்படுத்தும் முயற்சி இது. அனுபவித்து அழுது மனத்திற்குள் ரணங்களாக பூட்டி வைத்திருக்கும் அனுபவங்களை எம் இனத்தின் கடந்துவந்த வலிகளின் சாட்சியமாக மாற்றி நம் தலைமுறையினருக்கு கொடுத்து செல்ல வேண்டியது எம் பொறுப்பு.
-
-...
-
-[Data](articles/9594af7b.json)
-
----
-
-### வட்டுக்கோட்டை கொலைக் களமா?
-
-*2025-07-22 16:18:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டுக்கோட்டை-கொலைக்-களமா/175-361537) · `ta`
-
-வட்டுக்கோட்டை பொலிஸாரின் அடாவடியான செயற்பாடுகளுக்கும், தமக்கு இழைக்கப்பட்ட அநீதிகளுக்கும் நீதி வேண்டி  மூளாய் - நேரம் பகுதி மக்கள் யாழ்ப்பாண மாவட்ட பிரதிப் பொலிஸ் மா அதிபரின் அலுவலகத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டத்தில் செவ்வாய்க்கிழமை (22)  ஈடுபட்டனர்.
-
-மூளாயில் உள்ள மதுபான நிலையம் ஒன்றுக்குள் இடம்பெற்ற மோதல் சம்பவமே கடந்த சில தினங்களுக்கு முன்னர் இடம்பெற்ற வன்முறைக்கு காரணமாக அமைந்துள்ளது. மதுபான நிலையத்தில் வைத்து எமது பகுதியைச் சேர்ந்தவர் மீது தாக்குதல் நடத்தப்பட்ட போது எமது பகுதியை சேர்ந்த இன்னொருவர் எழுந்து ஏன் அவரை தாக்குகின்றீர்கள் என கேட்ட போது அவரையும் தாக்கி படுகாயம் ஏற்படுத்தினர். இதனால் தாக்குதலுக்கு உள்ளானவரின் மகன்கள் இருவர் மதுபான நிலையத்திற்கு கல்வீச்சு தாக்குதல் மேற்கொண்டனர்.
-
-...
-
-[Data](articles/0313555f.json)
 
 ---

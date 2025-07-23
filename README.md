@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 20:50:12**
+As of **2025-07-23 21:06:37**
 
 ## Newspaper Stats
 
-*Scraped **66,368** Articles*
+*Scraped **66,370** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 590
+dbsjeyarajcom | 591
 colombotelegraphcom | 677
 bbccomsinhala | 677
 economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,371
+adalk | 6,372
 adaderanalk | 8,147
 tamilmirrorlk | 9,566
 virakesarilk | 11,054
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,368 articles have been extended.
+61,973 (93.4%) of 66,370 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -469,6 +469,22 @@ Both parties emphasized the significance of enhancing preparedness and resilienc
 ...
 
 [Data](articles/6db6bc49.json)
+
+---
+
+### පොලිස්පති ඉවත් කරන හැටි කථානායක පාර්ලිමේන්තුවට කියයි
+
+*2025-07-23 16:18:26* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ඉවත්-කරන-හැටි-කථානායක-පාර්ලිමේන්තුවට-කියයි/11-417467) · `si`
+
+පරීක්ෂණ කමිටුව මගින් වරදකරු වූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනා සම්මතය පාර්ලිමේන්තුවේ න්‍යාය පුස්තකයට ඇතුලත් කරන බවත්, එලෙස ඇතුලත් කර සම්පූර්ණ දින 5ක් ගත වූ පසු මෙම යෝජනා සම්මතය පාර්ලිමේන්තුවේ න්‍යාය පත්‍රයට ඇතුළත් කරනු ලබන බවත් කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා පැවසීය.
+
+කමිටු තීරණය මත දේශබන්දු තෙන්නකොන් මහතා ධුරයෙන් ඉවත් කරන ආකාරය පිළිබඳ අද (23දා) පාර්ලිමේන්තුවට පැහැදිලි කිරීමක් සිදු කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+මේ අතර, අදාළ යෝජනාව පාර්ලිමේන්තුවේ නොපැමිණි මන්ත්‍රීවරයන් ද ඇතුළුව මුළු මන්ත්‍රී සංඛ්‍යාවෙන් බහුතරයක් මන්ත්‍රීවරයන් පක්ෂව ඡන්දය භාවිත කළහොත්, අදාළ පන‍ත ප්‍රකාරව ඒ මහතා අප්‍රමාදව ධුරයෙන් ඉවත් කිරීම සඳහා ජනාධිපතිවරයා දැනුම්වත් කරන බවද කථානායකවරයා පැවසීය.
+
+...
+
+[Data](articles/a449b622.json)
 
 ---
 
@@ -1805,15 +1821,5 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 ◼️
 
 [Data](articles/4adbabe5.json)
-
----
-
-### கோப்பின் கோவணம் அவிழ்ந்தது
-
-*2025-07-23 09:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கோப்பின்-கோவணம்-அவிழ்ந்தது/62-361588) · `ta`
-
-◼️
-
-[Data](articles/7c278a23.json)
 
 ---

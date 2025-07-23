@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 12:07:34**
+As of **2025-07-23 12:27:34**
 
 ## Newspaper Stats
 
-*Scraped **66,294** Articles*
+*Scraped **66,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 589
 colombotelegraphcom | 677
 bbccomsinhala | 677
-economynextcom | 4,045
+economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,361
 adaderanalk | 8,125
-tamilmirrorlk | 9,549
+tamilmirrorlk | 9,550
 virakesarilk | 11,046
 adaderanasinhalalk | 11,390
 
@@ -26,17 +26,57 @@ adaderanasinhalalk | 11,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,294 articles have been extended.
+61,973 (93.5%) of 66,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### “கள்ளக்காதலுக்கு மூளை மழுங்கிப்போய்விடுகிறது”: தலையில் அடித்துக்கொண்ட பொலிஸார்
+
+*2025-07-23 12:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலுக்கு-மூளை-மழுங்கிப்போய்விடுகிறது-தலையில்-அடித்துக்கொண்ட-பொலிஸார்/175-361601) · `ta`
+
+காதலுக்கு கண் இல்லை என்பார்கள்.. உண்மையில் சிலரது காதலுக்கு கண் மட்டுமல்ல, காது, இதயம், மூளை எதுவுமே இருப்பது இல்லை.. அதுவும் கள்ளக்காதலுக்கு மூளை சுத்தமாக வேலை செய்யாமல் மழுங்கிப்போய்விடுகிறது..
+
+திருநெல்வேலியில் ஒரு 16 வயது பெண், சமூக வலைதளங்களில் பழகிய 40 வயது நபரை காதலித்துள்ளார். அவருடன் தான் செல்வேன் என்று செல்ல அடம்பிடித்து பொலிஸ் ஸ்டேஷனில் செய்த வேலை கண்டு பொலிஸார் தலையிலேயே அடித்துக் கொண்டனர்.. இப்படியும் சமூக மாறிவிட்டதா என்ற அதிர வைக்கும் சம்பவம் நடந்துள்ளது.
+
+இன்ஸ்டாகிராமில் கண்டதையும் பார்க்கும் இளம் சிறார்கள், தவறான பாதையில் பயணிக்கிறார்கள். சமூக வலைதளங்களில் யாருடைய ரீல்ஸ்க்கு அதிக லைக் கிடைக்கிறது. யாருடைய ரீல்ஸ் அதிக ஷேர் ஆகிறது.யாருக்கு அதிக பாலேயர்கள் வருகிறார்கள் என்பது தான் உலகம் என்பது போல் பல சிறார்கள் மாறிவருகிறார்கள். இதற்கு இன்ஸ்டாஇன்புளுயன்சர்களும் ஒரு வகையில் காரணமாக இருக்கிறார்கள். அவர்களின் வருமானம், லைப் ஸ்டைல் போன்ற காரணங்களை கூறலாம்.
+
+...
+
+[Data](articles/6917e238.json)
+
+---
+
+### Presidential probe into SriLankan Airlines and airport authority fraud claims
+
+*2025-07-23 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-amendment-bill-debate-rescheduled-232411/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed a special presidential investigation committee to probe alleged incidents of fraud, corruption and irregularities at SriLankan Airlines Limited and Airport and Aviation Services (Sri Lanka) (Private) Limited.
+
+Dissanayake met with the members of the committee Tuesday (22) at the Presidential Secretariat, his media division said.
+
+“The absence of a proper investigation into the irregularities at SriLankan Airlines Limited Company and Airport and Aviation Services (Sri Lanka) (Private) Limited has rendered these institutions largely ineffective,” the statement quoted the president as saying.
+
+He urged the committee to “carry out a swift investigation by examining all the facts related to these incidents and to provide a report with essential recommendations aimed at correcting the situation”.
+
+...
+
+[Data](articles/28581ad6.json)
+
+---
 
 ### අවවාදාත්මක නිවේදනයක්
 
 *2025-07-23 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212549) · `si`
 
 තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තුමේන්තුව විසින් නිකුත් කර තිබේ.
+
+උතුර, උතුරු මැද වයඹ සහ මධ්‍යම පළාත් සහ ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා පැය 24ක කාලසීමාවකට මෙම නිවේදනය වලංගු වේ.
+
+දිවයින හරහා පවතින සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් මෙම දිස්ත්‍රික්ක සඳහා විටින් විට හමන පැ.කි.මී.55-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු  ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ද ඇතිවිය හැකිය.
 
 ◼️
 
@@ -293,6 +333,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e9a9007a.json)
+
+---
+
+### Sri Lanka’s National Chamber to promote economic ties in session with Vietnam envoy
+
+*2025-07-23 10:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-chamber-to-promote-economic-ties-in-session-with-vietnam-envoy-232407/) · `en`
+
+ECONOMYNEXT – The National Chamber of Commerce of Sri Lanka said it will host a forum with Vietnam Ambassador Trinh Thi Tam to promote trade between the two countries on July 30.
+
+“With Viet Nam recognized as one of Sri Lanka’s key trading partners in Southeast Asia, this forum is expected to serve as a strategic platform to unlock new opportunities for trade diversification and bilateral investment growth,” the National Chamber said calling on importer and exporters to join the forum.
+
+The event will explore opportunities for the Sri Lankan business community to directly engage with the Viet Nam Ambassador and gain firsthand insights into the Viet Nam’s trade policies, investment climate, and the growing scope for bilateral collaboration, the chamber said.
+
+She will highlight key areas of economic cooperation and discuss emerging sectors that offer potential for Sri Lankan businesses to explore.
+
+...
+
+[Data](articles/3cfc1e21.json)
 
 ---
 
@@ -606,6 +664,30 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 
 ---
 
+### Sri Lanka rupee flat against dollar, bonds steady after CB keeps rates unchanged
+
+*2025-07-23 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-after-cb-keeps-rates-unchanged-232394/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.65/80 to the US dollar in the spot market Wednesday, from 301.70/75 the previous day, while there was a slight uptick on the 2028 bond tenors with the rest of the yield curve broadly steady following the monetary policy announcement, dealers said.
+
+An auction of Rs. 111,000 million Treasury bills was ongoing.
+
+A bond maturing on 15.09.2027 was quoted at 8.50/55 percent, down from 8.45/56 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.00/10 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.53/55 percent, up from 9.48/53 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent.
+
+Meanwhile, stocks opened up; The ASPI was up 0.43%, or 82.01 points, at 19,173.94; The S&P SL20 was up 0.35%, or 19.75 points, at 5,677.37. (Colombo/July23/2025)
+
+◼️
+
+[Data](articles/1dbf5feb.json)
+
+---
+
 ### வவுணதீவு விவகாரம்: தவறான தகவலை வழங்கிய பொலிஸ் பரிசோதகர் கைது
 
 *2025-07-23 09:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுணதீவு-விவகாரம்-தவறான-தகவலை-வழங்கிய-பொலிஸ்-பரிசோதகர்-கைது/175-361586) · `ta`
@@ -876,6 +958,28 @@ Issuing a statement in this regard, the CBSL noted that the Board arrived at thi
 
 ---
 
+### Sri Lanka central bank keeps policy rate at 7.75-pct, says will push up cost of living and growth
+
+*2025-07-23 07:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-keeps-policy-rate-at-7-75-pct-says-will-push-up-cost-of-living-and-growth-232314/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank said it will keep its policy rate unchanged at 7.75 percent, saying it will increase the cost of living on the public the level it wants to and push up growth.
+
+In Sri Lanka there is a belief that high inflation is needed for growth.
+
+“The Board arrived at this decision after carefully considering both domestic and global developments,” the central bank said.
+
+“The Board is of the view that the current monetary policy stance will help steer inflation towards the target of 5 percent in the period ahead while supporting growth.”
+
+The central bank has so far been running broadly deflationary policy, providing East Asia style external stability and undershot its attempt to drive up cost of living to 5 to 7 percent.
+
+“Globally, policy uncertainty has intensified due to the evolving trade landscape and recurring geopolitical conflicts,” the central bank said.
+
+...
+
+[Data](articles/533ebeaa.json)
+
+---
+
 ### ඉන්ධන බදු මුදල් සාක්කුවලට යා නොහැකි බව බලශක්ති ඇමති කියයි
 
 *2025-07-23 07:40:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-බදු-මුදල්-සාක්කුවලට-යා-නොහැකි-බව-බලශක්ති-ඇමති-කියයි/11-417454) · `si`
@@ -895,6 +999,44 @@ Issuing a statement in this regard, the CBSL noted that the Board arrived at thi
 ...
 
 [Data](articles/0a5ce96e.json)
+
+---
+
+### Japan gets 15-pct Trump tariff, Indonesia and Philippines 19-pct as Sri Lanka continues talks
+
+*2025-07-23 07:27:00* · [`economynextcom`](https://economynext.com/japan-gets-15-pct-trump-tariff-indonesia-and-philippines-19-pct-as-sri-lanka-continues-talks-232268/) · `en`
+
+ECONOMYNEXT – Japan has got a 15 percent tariff, President Donald Trump said in a social media post shortly after announcing a 19 percent rate for Indonesia and the Philippines as Sri Lanka continues talks.
+
+“You have been unbelievable allies, because you are really allies, that’s what you’ve been. We appreciate it,” he said speaking to congressmen.
+
+“Some were very difficult but you got there. Some had little confidence. They came in early and we appreciate that. We just appreciate everybody.”
+
+Japan will invest 550 billion US dollar in the US, Trump also making a claim that that the US will get 90 percent of the profits, in reference that was not clear.
+
+“This Deal will create Hundreds of Thousands of Jobs — There has never been anything like it,” Trump said in a post on his his truthsocial.com site.
+
+“Perhaps most importantly, Japan will open their Country to Trade including Cars and Trucks, Rice and certain other Agricultural Products, and other things.
+
+...
+
+[Data](articles/f69f1985.json)
+
+---
+
+### Sri Lanka parliament not to debate Electricity Act changes on July 24
+
+*2025-07-23 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-not-to-debate-electricity-act-changes-on-july-24-232310/) · `en`
+
+ECONOMYNEXT – Sri Lanka will not debate an amendment to the Electricity Act on July 24 as scheduled, the parliametn said in a statement.
+
+“This decision has been taken due to technical matter related to the Sri Lanka Electricity (Amendment) Bill and the Bill is scheduled to be debated on a future parliamentary day after the relevant matters are completed,” the statement said.
+
+A sectoral committee of the parliament has raised a number of questions on the bill raising questions on a two year delay for un-bundling, the sector and also reduced number of distribution companies, which were not disclosed or decided.
+
+◼️
+
+[Data](articles/f5216e16.json)
 
 ---
 
@@ -1633,133 +1775,5 @@ In a transformative initiative aimed at uplifting and empowering the plantation 
 ...
 
 [Data](articles/d26eddd7.json)
-
----
-
-### Despite early ‘up-and-down’ trend CSE trading enters green territory
-
-*2025-07-22 23:24:00* · [`islandlk`](http://island.lk/despite-early-up-and-down-trend-cse-trading-enters-green-territory/) · `en`
-
-The stock market kicked off on a positive note yesterday during the early sessions but subsequently slowed down owing to profit- takings before moving to green territory towards sessions’ end.
-
-The reason for such fluctuations could have been traced to local and foreign investors awaiting the Central Bank announcement on policy rates today, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 83.6 points while the S and P SL20 rose by 25.29 points.
-
-Turnover stood at Rs 5.9 billion with 11 crossings. Those crossings were reported in RIL Properties, which crossed 3.7 million shares to the tune of Rs 110 million; its shares traded at Rs 30, Vallibel One 888,000 shares crossed for Rs 79.1 million; its shares traded at Rs 90, Ceylinco Holdings (Non- Voting) 5000 shares crossed for Rs 60 million, its shares traded at Rs 1480, Access Engineering Rs one million shares crossed to the tune of Rs 60 million and its share price traded at Rs 60.
-
-...
-
-[Data](articles/6f7c620d.json)
-
----
-
-### Woman killed, child injured in shooting in Marawila
-
-*2025-07-22 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110750/woman-killed-child-injured-in-shooting-in-marawila) · `en`
-
-A 30-year-old woman is reported dead while a 10-year-old boy has been injured following a shooting incident at Maranda in Marawila, police said.
-
-Police said that an unidentified gunman had opened fire at a woman who was in front of a residence in Maranda and that a small boy who was nearby was also injured in the shooting.
-
-◼️
-
-[Data](articles/81cd738c.json)
-
----
-
-### சற்றுமுன் துப்பாக்கிச்சூடு :  பெண் மரணம்
-
-*2025-07-22 23:12:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சற்றுமுன்-துப்பாக்கிச்சூடு-பெண்-மரணம்/150-361568) · `ta`
-
-மராடாவில் சற்றுமுன் நடந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் 30 வயது பெண் ஒருவர் உயிரிழந்ததாகவும், 10 வயது சிறுவன் ஒருவர் காயமடைந்ததாகவும் தகவல் வெளியாகியுள்ளது. R
-
-◼️
-
-[Data](articles/ce082c56.json)
-
----
-
-### මාරවිල වෙඩිතැබීමක් - කාන්තාවක් මරුට - දරුවෙකුට තුවාල
-
-*2025-07-22 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212534) · `si`
-
-මාරවිල මැද නාත්තන්ඩිය ප්‍රදේශයේ සිදුවූ වෙඩි තැබීමකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-පොලීසිය පැවසුවේ යතුරු පැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් අද (22) රාත්‍රී මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇති බවය.
-
-වෙඩි වැදීමෙන් තුවාල ලැබූ 10 හැවිරිදි දරුවෙකු ද ප්‍රතිකාර සඳහා මාරවිල රෝහලට ඇතුළත් කර තිබේ.
-
-මියගිය 30 හැවිරිදි කාන්තාව මැද නාත්තන්ඩිය ප්‍රදේශයේ පදිංචිකාරියක් බව සඳහන්ය.
-
-ඇය මත්ද්‍රව්‍ය වරදක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගතව සිටි ඇප ලබා සිට පැමිණ තිබේ.
-
-අදාළ කාන්තාව ත්‍රීරෝද රථයකින් නිවසට පැමිණෙමින් සිටි අතර තුරදී නිවස ආසන්නයේදී වෙඩි වැදීමට ලක්ව ඇති බව පොලීසිය පැවසුවේය.
-
-වෙඩි තැබීම සඳහා රිවෝල්වර් වර්ගයේ ගිනිඅවියක් හෝ පිස්තොලයක් භාවිත කර ඇති බවට පොලීසිය සැක පලකරයි.
-
-◼️
-
-[Data](articles/3571a480.json)
-
----
-
-### செம்மணி மனித  புதைகுழி  தொடர்பில் இந்திய ஊடகத்தின் செய்தி
-
-*2025-07-22 23:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனித-புதைகுழி-தொடர்பில்-இந்திய-ஊடகத்தின்-செய்தி/175-361567) · `ta`
-
-செம்மணி மனித புதைகுழி (mass grave) பற்றிய செய்தி தற்போது பெரும் பேசுபொருளாகியுள்ள நிலையில், இந்திய ஊடகங்களும் இந்த விடயத்தை உலகறியச்செய்கின்றன.
-
-அந்த வகையில் இந்திய ஊடகம் ஒன்றில் செம்மணி பற்றிய செய்தியை இங்கே பார்ப்போம்...
-
-யாழ்ப்பாணத்தின் செம்மணி கிராமம் மீண்டும் சர்வதேச கவனத்தை ஈர்த்துள்ளது. கால் நூற்றாண்டுக்கும் மேலாக புதைந்து கிடந்த மனித உரிமை மீறல்களின் கோர முகத்தை வெளிப்படுத்தும் ஒரு மனித புதைகுழி (mass grave), இலங்கையின் குற்றவியல் நீதி அமைப்பின் தோல்விகளை மீண்டும் உலகறியச் செய்துள்ளது.
-
-2025 பிப்ரவரியில், செம்மணியிலுள்ள, இந்து மயானத்திற்கு அருகில் கட்டுமானப் பணியாளர்கள் திடீரென மனித எலும்பு கூடுகள் வெளியே வந்ததை பார்த்து அதிர்ந்து போனார்கள்.
-
-இதையடுத்து, நீதிமன்றம் இதில் தலையிட்டது. மேலதிக அகழ்வாராய்ச்சிக்கு உத்தரவிட்டது. தடயவியல் தொல்பொருள் ஆய்வாளர் பேராசிரியர் ராஜ் சோமதேவா தலைமையிலான குழுவினர், ஜூன் 2 ஆம் திகதி 19 எலும்புக்கூடுகளை கண்டுபிடித்தனர்.
-
-...
-
-[Data](articles/456de54a.json)
-
----
-
-### 1000 பெண்களுடன் உடலுறவு : இளைஞனுக்கு ஏற்பட்ட மோசமான நிலை
-
-*2025-07-22 22:57:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1000-பெண்களுடன்-உடலுறவு-இளைஞனுக்கு-ஏற்பட்ட-மோசமான-நிலை/50-361565) · `ta`
-
-சுமார் 1000க்கும் மேற்பட்ட பெண்களுடன் உடலுறவு கொண்டதாகப் பிரிட்டனைச் சேர்ந்த ஒருவர் கூறியுள்ளது சமூக வலைத்தளங்களில் பேசுபொருள் ஆகியுள்ளது. இருப்பினும், தான் செய்ததை நினைத்து வருந்துவதாகச் சொல்லும் அவர், இந்த தவறை மற்றவர்கள் யாரும் செய்ய வேண்டாம் என்று எச்சரிக்கிறார்.
-
-பிரிட்டன் நாட்டில் தெற்கு லண்டனைச் சேர்ந்தவர் 31 வயதான பென்னி ஜேம்ஸ். இவர் கடந்த 10 வருடங்களாக ஒவ்வொரு வாரமும் வெவ்வேறு பெண்களுடன் இருந்துள்ளார்.
-
-இதை அவரே வெளிப்படையாகக் கூறியிருக்கிறார். கடந்த 10 ஆண்டுகளாக இதுபோல தான் ஏகப்பட்ட பெண்களுடன் தனிமையில் இருந்ததாக அவர் குறிப்பிடுகிறார். முன்பு இது உற்சாகமாக இருந்தது போலவே தோன்றியதாகவும் அவர் குறிப்பிடுகிறார்.
-
-ஆனால், காலம் செல்லச் செல்ல அது ஒருவித வெறுப்பைக் கொடுத்துள்ளது. இப்போது அது தனிமை மற்றும் சோகத்தையே அளிப்பதாக பென்னி ஜேம்ஸ் குறிப்பிடுகிறார். இது தொடர்பாக பென்னி மேலும் கூறுகையில்,
-
-...
-
-[Data](articles/765be989.json)
-
----
-
-### French cities impose curfews on children after drug violence
-
-*2025-07-22 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110749/french-cities-impose-curfews-on-children-after-drug-violence) · `en`
-
-A number of French cities have imposed night-time curfews on young people following a spate of violence linked to drug trafficking.
-
-Nîmes in the south was the latest to bring in measures, which authorities said were meant to prevent under 16s from being “exposed to violence” and to “contain tensions”.
-
-Over the course of the last month several shootings - one in broad daylight - left one person dead and several injured.
-
-Last week the body of a 19-year-old man was found partially burned on the outskirts of Nîmes.
-
-Announcing the curfew – in force between 21:00 and 06:00 – mayor Jean-Paul Fournier said the situation had become “untenable” and that drug traffickers had created a “climate of fear and terror”.
-
-Deputy mayor Richard Schieven said the curfew would protect minors not involved in the drug trade “but also those aged 12 or 13 who are exploited by drug traffickers”.
-
-...
-
-[Data](articles/341049dd.json)
 
 ---

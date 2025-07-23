@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 11:26:15**
+As of **2025-07-23 11:37:13**
 
 ## Newspaper Stats
 
-*Scraped **66,285** Articles*
+*Scraped **66,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,045
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,357
+adalk | 6,358
 adaderanalk | 8,125
 tamilmirrorlk | 9,546
 virakesarilk | 11,046
-adaderanasinhalalk | 11,388
+adaderanasinhalalk | 11,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,285 articles have been extended.
+61,973 (93.5%) of 66,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### පාලු බංගලාවක් තුළ අනියම් බිරිඳව ඝාතනය කර සැකකරු පොලීසියට භාරවෙයි
+
+*2025-07-23 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212548) · `si`
+
+නාවලපිටිය, ඉඹුල්පිටිය වතුයායේ අතහැර දමා තිබූ පාලු බංගලාවක් තුළදී අනියම් බිරිඳගේ ගෙල කපා ඝාතනය කළ පුද්ගලයා පොලීසියට භාරවී තිබේ.
+
+◼️
+
+[Data](articles/52e3e197.json)
+
+---
+
+### "என்னிடம் இனிமேலும் ஊடக பணியில் ஈடுபடுவதற்கான வலுஇல்லை, எனது உடல் மெலிந்து விட்டது ; காசாவிலிருந்து ஒரு ஊடகவியலாளர் " - உடனடிதலையீடு இல்லாவிட்டால் காசாவில் இறுதியாக உள்ள ஊடகவியலாளர்கள் உயிரிழப்பார்கள் ஏஎவ்பி
+
+*2025-07-23 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/220700) · `ta`
+
+காசாவில் எஞ்சியுள்ள ஊடகவியலாளர்கள் மரணிக்கும் ஆபத்தை எதிர்நோக்குகின்றனர் என ஏஎவ்பி ஊடகவியலாளர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+
+உடனடிதலையீடு இல்லாவிட்டால் காசாவில் இறுதியாக உள்ள ஊடகவியலாளர்கள் உயிரிழப்பார்கள்  என அவர்கள் எச்சரித்துள்ளனர்.
+
+யுத்தத்தின் கோரபிடியில் சிக்குண்டுள்ள காசாவிற்கு வெளிநாட்டு பத்திரிகையாளர்கள்  செல்வதற்கு இஸ்ரேல் அனுமதி மறுத்து வரும் நிலையில் ரொய்ட்டர்ஸ் ஏஎவ்பி போன்ற நிறுவனங்கள் காசாவில் உள்ள உள்ளுர் பத்திரிகையாளர்களையே செய்திக்காக நம்பியுள்ளன.
+
+21 மாதமோதலில் 60000 பேர் உயிரிழந்துள்ள காசாவில் ஊடகவியலாளர்கள் பாதுகாப்பு மற்றும் பட்டினி போன்றவற்றினால் பாதிக்கப்பட்டுள்ளனர்.
+
+காசாவில் உள்ள மோசமான நிலை குறித்து ஆழ்ந்த கவலை கொண்டுள்ளதாகவும் அங்குள்ள சுயாதீன செய்தியாளர்களை அங்கிருந்து வெளியேற்றுவதற்கான முயற்சியில் ஈடுபட்டுள்ளதாகவும் அவர்கள் தெரிவித்துள்ளனர்.
+
+பல மாதங்களாக அவர்களின் வாழ்க்கை மிக மோசமான நிலைக்கு சென்றுகொண்டிருப்பதை நாங்கள் வேறுவழியின்றி பார்த்துக்கொண்டிருந்தோம் என ஏஎவ்பி அறிக்கையொன்றில் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/06af61ae.json)
+
+---
 
 ### தென்னகோனை நீக்கும் விவாதம் குறித்து சபாநாகயர் விளக்கம்
 
@@ -54,7 +88,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ශ්‍රීලංකන් එයාර් ලයින්ස් ලිමිටඩ් සහ සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (පෞද්ගලික) සමාගම්වල සිදුවී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා පිළිබඳ විමර්ශනයට ජනාධිපති විශේෂ විමර්ශන කමිටුවක් පත්කර තිබේ.
 
-◼️
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් එම ජනාධිපති විශේෂ විමර්ශන කමිටුවක් පත්කර ඇත.
+
+ඊයේ (22) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එම විශේෂ විමර්ශන කමිටුව හමු වූ ජනාධිපතිවරයා ඔවුන් සමඟ සාකච්ඡාවකටද එක් විය.
+
+එහිදී, ශ්‍රීලංකන් එයාර් ලයින්ස් ලිමිටඩ් සමාගමේ සහ සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමේ  සිදු වී ඇති අක්‍රමිකතා පිළිබඳ නිසි විමර්ශනයක් සිදුනොවීම හේතුවෙන් එම ආයතන විශාල ලෙස අකර්මණ්‍ය වී ඇති බව පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා, මෙම සිදුවීම් පිළිබඳව ඉදිරිපත්ව ඇති සියලු කරුණු අධ්‍යයනය කරමින් කඩිනම් විමර්ශනයක් සිදු කරන ලෙසත්, එම තත්ත්ව නිවැරදි කිරීමට සහ අනාගතයේදී එවැනි දෑ නැවත සිදු වීම වැළැක්වීමට අවශ්‍ය මාර්ගෝපදේශ ඇතුළත් වාර්තාවක් ඉදිරිපත් කරන ලෙසත් කමිටුවට දැනුම් දුන්නේය.
+
+...
 
 [Data](articles/14d1bbf7.json)
 
@@ -203,28 +243,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9523ab4b.json)
-
----
-
-### "என்னிடம் இனிமேலும் ஊடக பணியில் ஈடுபடுவதற்கான வலுஇல்லை, எனது உடல் மெலிந்து விட்டது ; காசாவிலிருந்து ஒரு ஊடகவியலாளர் " - உடனடிதலையீடு இல்லாவிட்டால் காசாவில் இறுதியாக உள்ள ஊடகவியலாளர்கள் உயிரிழப்பார்கள் ஏஎவ்பி
-
-*2025-07-23 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220700) · `ta`
-
-காசாவில் எஞ்சியுள்ள ஊடகவியலாளர்கள் மரணிக்கும் ஆபத்தை எதிர்நோக்குகின்றனர் என ஏஎவ்பி ஊடகவியலாளர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
-
-உடனடிதலையீடு இல்லாவிட்டால் காசாவில் இறுதியாக உள்ள ஊடகவியலாளர்கள் உயிரிழப்பார்கள்  என அவர்கள் எச்சரித்துள்ளனர்.
-
-யுத்தத்தின் கோரபிடியில் சிக்குண்டுள்ள காசாவிற்கு வெளிநாட்டு பத்திரிகையாளர்கள்  செல்வதற்கு இஸ்ரேல் அனுமதி மறுத்து வரும் நிலையில் ரொய்ட்டர்ஸ் ஏஎவ்பி போன்ற நிறுவனங்கள் காசாவில் உள்ள உள்ளுர் பத்திரிகையாளர்களையே செய்திக்காக நம்பியுள்ளன.
-
-21 மாதமோதலில் 60000 பேர் உயிரிழந்துள்ள காசாவில் ஊடகவியலாளர்கள் பாதுகாப்பு மற்றும் பட்டினி போன்றவற்றினால் பாதிக்கப்பட்டுள்ளனர்.
-
-காசாவில் உள்ள மோசமான நிலை குறித்து ஆழ்ந்த கவலை கொண்டுள்ளதாகவும் அங்குள்ள சுயாதீன செய்தியாளர்களை அங்கிருந்து வெளியேற்றுவதற்கான முயற்சியில் ஈடுபட்டுள்ளதாகவும் அவர்கள் தெரிவித்துள்ளனர்.
-
-பல மாதங்களாக அவர்களின் வாழ்க்கை மிக மோசமான நிலைக்கு சென்றுகொண்டிருப்பதை நாங்கள் வேறுவழியின்றி பார்த்துக்கொண்டிருந்தோம் என ஏஎவ்பி அறிக்கையொன்றில் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/06af61ae.json)
 
 ---
 
@@ -381,6 +399,26 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 ...
 
 [Data](articles/30868fb9.json)
+
+---
+
+### පිලිපීනයත් තම බද්ද සියයට 19කට අඩු කර ගනියි
+
+*2025-07-23 10:08:51* · [`adalk`](https://www.ada.lk/breaking_news/පිලිපීනයත්-තම-බද්ද-සියයට-19කට-අඩු-කර-ගනියි/11-417457) · `si`
+
+පිලිපීනයෙන් ආනයනය කරන භාණ්ඩ සඳහා ඇමරිකා එක්සත් ජනපදය 19% ක බද්දක් අය කරන බව ට්‍රම්ප් ධවල මන්දිරයේදී පිලිපීන ජනාධිපතිවරයා සමඟ පැවති හමුවකින් පසුව පැවසීය.
+
+නව තීරුබදු පුළුල් ගිවිසුමක කොටසක් බවත්, එහිදී පිලිපීනය ඇමරිකානු භාණ්ඩ සඳහා තීරුබදු ඉවත් කරන බවත්, දෙරට මිලිටරිමය වශයෙන් සහයෝගයෙන් කටයුතු කරන බවත් ඔහු අඟහරුවාදා සමාජ මාධ්‍යවල ලිවීය.
+
+"එය සුන්දර සංචාරයක් වූණා. අපි අපගේ වෙළඳ ගනුදෙනුව අවසන් කළා" ට්‍රම්ප් Truth Social ගිණුමේ සටහනකිිි පැවැසීය. පැහැදිලි ගිවිසුම පිළිබඳ වැඩිදුර විස්තර ඉදිරිපත් කළේ නැත.
+
+පිලිපීනයට සියයට 20ක බද්දක් පනවන බවට ට්‍රම්ප් මේ මස මුලදී නිවේදනය කළ නමුත් ඊයේ දිනයේදී එම අගය සියයට 19ක් දක්වා අඩු කරනු ලැබීය.
+
+පිලිපීනය එක්සත් ජනපදය සමඟ සාපේක්ෂව කුඩා වෙළඳ හවුල්කරුවෙකු වන අතර, පසුගිය වසරේ ඇමරිකාවට ඩොලර් බිලියන 14.2 ක් පමණ වටිනා භාණ්ඩ අපනයන කර තිබුණි. එයට මෝටර් රථ අමතර කොටස්, විදුලි යන්ත්‍රෝපකරණ, රෙදිපිළි සහ පොල්තෙල් ඇතුළත් විය.
+
+...
+
+[Data](articles/4526003e.json)
 
 ---
 
@@ -1703,37 +1741,5 @@ The fully integrated, state-of-the-art LV electrical distribution system by DIMO
 ...
 
 [Data](articles/301f0bf0.json)
-
----
-
-### Leema Creations marks Silver Jubilee with elegance: Opens new chapter
-
-*2025-07-22 21:45:32* · [`dailyftlk`](https://www.ft.lk/business/Leema-Creations-marks-Silver-Jubilee-with-elegance-Opens-new-chapter/34-779312) · `en`
-
-Leema Creations Chairman Channa Wijesekara with guests make a toast at the celebration
-
-In a flamboyant celebration of creativity, resilience, and innovation, Leema Creations, the premier interior solution provider in the field of interior design, has announced its Silver Jubilee — 25 years of transforming spaces and touching lives. The company will mark this milestone with a series of events under the theme ‘Space-Life-Story.’
-
-Founded in 2000, Leema Creations has become synonymous with refined aesthetics, customer-centric solutions, and a deep understanding of how interiors shape the way people live, work, and thrive. From humble beginnings, Leema has become the most sought-after and trusted name in residential, commercial, and hospitality interior design.
-
-...
-
-[Data](articles/3e4f5145.json)
-
----
-
-### MTI in Zimbabwe for strategy consulting assignment
-
-*2025-07-22 21:43:26* · [`dailyftlk`](https://www.ft.lk/business/MTI-in-Zimbabwe-for-strategy-consulting-assignment/34-779311) · `en`
-
-MTI Consulting said yesterday it has deployed a team of seasoned strategists to Zimbabwe as part of a high-impact strategy consulting assignment.
-
-The initiative aims to support key sectors in enhancing operational effectiveness and unlocking new growth pathways across the region.
-
-Drawing on global best practices and local insights, the MTI team will engage with industry leaders and stakeholders to co-create strategic frameworks tailored to Zimbabwe’s evolving economic landscape. This engagement reflects MTI’s commitment to sustainable development and capacity-building across emerging markets.
-
-◼️
-
-[Data](articles/26aa6265.json)
 
 ---

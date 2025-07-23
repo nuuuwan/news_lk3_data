@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 13:31:55**
+As of **2025-07-23 13:50:27**
 
 ## Newspaper Stats
 
-*Scraped **66,314** Articles*
+*Scraped **66,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,363
-adaderanalk | 8,131
+adalk | 6,364
+adaderanalk | 8,133
 tamilmirrorlk | 9,553
-virakesarilk | 11,047
+virakesarilk | 11,049
 adaderanasinhalalk | 11,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,314 articles have been extended.
+61,973 (93.4%) of 66,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### Sri Lanka, Thailand discuss expanding bilateral cooperation and FTA Implementation
+
+*2025-07-23 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110769/sri-lanka-thailand-discuss-expanding-bilateral-cooperation-and-fta-implementation) · `en`
+
+The Ambassador of the Kingdom of Thailand to Sri Lanka, Mr. Paitoon Mahapannaporn, paid a courtesy call on the Speaker of the Parliament Dr. Jagath Wickramaratne, on Tuesday (22) at the Parliamentary premises.
+
+The Secretary General of Parliament, Mrs. Kushani Rohanadeera, was also present at the meeting.
+
+During the meeting, Speaker Dr. Jagath Wickramaratne highlighted the longstanding bilateral relations between Sri Lanka and Thailand, with particular emphasis on the shared cultural and religious heritage through Buddhism, the Department of Communication of Parliament said in a statement.
+
+The Speaker expressed his gratitude for the continued support extended by Thailand and noted that Sri Lanka is currently seeking to expand investment opportunities, especially in the fields of agriculture, industries and tourism.
+
+Mr. Paitoon Mahapannaporn briefed the Speaker on upcoming activities planned under bilateral cooperation, including initiatives to strengthen people-to-people connections.
+
+...
+
+[Data](articles/6f9caed3.json)
+
+---
 
 ### වාහන ආනයනය සම්බන්ධයෙන්  මහ බැංකු අධිපතිගෙන් ප්‍රකාශයක්
 
@@ -47,6 +67,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3fa63faf.json)
+
+---
+
+### No decision taken to curtail vehicle imports – CBSL Governor
+
+*2025-07-23 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110768/no-decision-taken-to-curtail-vehicle-imports-cbsl-governor) · `en`
+
+The Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has clarified that neither the Central Bank of Sri Lanka nor the Government has taken any decision to curtail vehicle imports at present.
+
+◼️
+
+[Data](articles/9fed7cbf.json)
+
+---
+
+### "ஒவ்வொரு நாள் காலையிலும் ஒரே கேள்வி மீண்டும் மீண்டும் காசாவில் எதிரொலிக்கின்றது ; இன்று எனக்கு உணவு கிடைக்குமா ? ; உணவுக்காக சொர்க்கத்திற்கு செல்ல விரும்பும் குழந்தைகள்" - பரவும் பட்டினிநிலை குறித்து மனிதாபிமான அமைப்புகள் எச்சரிக்கை
+
+*2025-07-23 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220714) · `ta`
+
+காசாவின் பல பகுதிகளிற்கு பட்டினிநிலை பரவ ஆரம்பித்துள்ளது என நூற்றிற்கும் மேற்பட்ட மனிதாபிமான அமைப்புகள் கூட்டாக எச்சரித்துள்ளன.
+
+சேவ் த சில்ரன் எல்லைகள் அற்ற மருத்துவர்கள் அமைப்பு உட்பட பல சர்வதேச அமைப்புகள் இந்த எச்சரிக்கையை விடுத்துள்ளன.
+
+பாலஸ்தீனியர்கள் நம்பிக்கை மற்றும் மனவேதனையின் பிடியில் சிக்குண்டுள்ளனர்இ அவர்கள் யுத்தநிறுத்தம்  மற்றும் மனிதாபிமான உதவிகளிற்காக காத்திருக்கின்றனர் ஆனால் அவர்கள் காலையில்  முன்னரை விட மோசமான நிலையிலேயே கண்விழிக்கின்றனர் என சர்வதேச மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
+
+இஸ்ரேலிய அரசாங்கத்தின் முற்றுகை தற்போது காசா மக்களை பட்டினியால் வாட்டிவதைக்கும் நிலையில் மனிதாபிமான பணியாளர்களும் பட்டினிகிடப்பவர்களின் பட்டியலில் இணைந்துகொள்கின்றனர்.
+
+மனிதாபிமான உதவிகள் தற்போது முற்றாக முடிவடைந்துள்ள நிலையில் தங்களின் பணியாளர்கள் வலுவிழப்பதை மனிதாபிமான அமைப்புகள் கண்முன்னால் பார்க்கின்றன.
+
+...
+
+[Data](articles/3a84410e.json)
 
 ---
 
@@ -69,6 +121,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0ca01500.json)
+
+---
+
+### கறுப்பு ஜூலை  தமிழர்  தேசத்தின் மீதான தாக்குதல் : 13 இராணுவத்தினர் கொல்லப்படாவிட்டாலும் அது இடம்பெற்றிருக்கும் : கொல்லப்பட்ட தமிழர்களின் பல உடல்களை பார்த்தேன் என்கிறார் சட்டத்தரணி  ஸ்ரீநாத் பெரேரா
+
+*2025-07-23 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220703) · `ta`
+
+சட்டத்தரணி  ஸ்ரீநாத்பெரேரா தமிழ் மக்களிற்கான நீதி அவர்களின் அரசியல் அபிலாஷைகளிற்காக தென்பகுதியிலிருந்து தொடர்ச்சியாக குரல்கொடுத்து வரும் ஒருவர்.
+
+வடக்குகிழக்கில் தமிழ் மக்கள் தங்களது உரிமைக்காக போராடும் இடங்களில் எல்லாம் பார்க்ககூடிய தென்பகுதி முகம் அவர்
+
+அவ்வேளை நான் சட்டபீட மாணவனாகயிருந்தேன் ,24ம் திகதி நாங்கள் சட்டபீடத்தில் இருந்தவேளை அதனை சுற்றியுள்ள பகுதிகளில் இருந்து பெரும் புகைமண்டலம் எழுந்ததை பார்த்தோம்.
+
+சந்திரஹாசனின் துணைவியார் அவ்வேளை எங்களின்  சிரேஸ்ட விரிவுரையாளர்களில் ஒருவர்.அவர் அச்சத்தினால் நடுங்கியது எனக்கு இன்னமும் நினைவில் இருக்கின்றது.
+
+நான் அவரிடம் சென்று என்ன பிரச்சினை என கேட்டேன் அதற்கு அவர் தமிழர்களின் வீடுகள் தீக்கிரையாக்கப்படுகின்றன என தெரிவித்தார்.
+
+அந்த நாட்களில் எங்களின் ஊடகங்களாக செய்தித்தாள்களும் வானொலிகளும் மாத்திரம் காணப்பட்டன, தொலைக்காட்சியின் ஆரம்;ப நாட்கள்
+
+அன்று காலை முதல் நாள்( 23) 13 படையினர் கொல்லப்பட்டுள்ளனர் என்ற செய்தியை வாசித்திருந்தோம்.
+
+...
+
+[Data](articles/94027d90.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-07-23 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220715) · `ta`
+
+இன்று புதன்கிழமை (23) இலங்கை மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.9960 ஆகவும் விற்பனை விலை ரூபா 305.5172 ஆகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/7039c5ef.json)
 
 ---
 
@@ -510,6 +598,22 @@ However, Justice Arjuna Obeysekara, also a member of the bench, in his separate 
 
 ---
 
+### 2015 සිට 2025 දක්වා විදෙස් ශ්‍රමික ප්‍රේෂණ ඇ.ඩො.බි. 67.1ක්
+
+*2025-07-23 10:57:53* · [`adalk`](https://www.ada.lk/breaking_news/2015-සිට-2025-දක්වා-විදෙස්-ශ්‍රමික-ප්‍රේෂණ-ඇ-ඩො-බි--67-1ක්/11-417460) · `si`
+
+2015 වසරේ සිට 2025 දක්වා වසර 10ක කාලයෙහි විදේශගත ශ්‍රී ලාංකික ශ්‍රමිකයන් හරහා මෙරටට ඇමෙරිකානු ඩොලර් මිලියන 67,147ක  (රුපියල් බිලියන 13,946ක) මුදලක්  ප්‍රේෂණය වී ඇති බව විදේශ කටයුතු සහ විදේශ රැකියා නියෝජ්‍ය ඇමැති අරුන් හේමචන්ද්‍ර මහතා පැවසීය.
+
+2025.02.25 වනවිට විදේශ රටවල සේවය කරන ශ්‍රී ලාංකික  ශ්‍රමිකයන් සංඛ්‍යාව ආසන්න වශයෙන් 1,345,801 ක් වන බවද මෙහිදී අමාත්‍යවරයා සඳහන් කළේය.
+
+වාචික පිළිතුරු අපේක්ෂාවෙන් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා ඊයේ(22දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම  මේ බව සඳහන් කර සිටියේය.
+
+◼️
+
+[Data](articles/dfc62e3b.json)
+
+---
+
 ### தலதா மாளிகை மீதான தாக்குதலால்: சபையில்   சலசலப்பு
 
 *2025-07-23 10:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-மாளிகை-மீதான-தாக்குதலால்-சபையில்-சலசலப்பு/175-361594) · `ta`
@@ -567,30 +671,6 @@ She will highlight key areas of economic cooperation and discuss emerging sector
 ...
 
 [Data](articles/3cfc1e21.json)
-
----
-
-### கறுப்பு ஜூலை தமிழ் தேசத்தின் மீதான தாக்குதல் : 13 இராணுவத்தினர் கொல்லப்படாவிட்டாலும் அது இடம்பெற்றிருக்கும் : கொல்லப்பட்ட தமிழர்களின் பல உடல்களை பார்த்தேன் என்கிறார் சட்டத்தரணி  ஸ்ரீநாத் பெரேரா
-
-*2025-07-23 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/220703) · `ta`
-
-சட்டத்தரணி  ஸ்ரீநாத்பெரேரா தமிழ் மக்களிற்கான நீதி அவர்களின் அரசியல் அபிலாஷைகளிற்காக தென்பகுதியிலிருந்து தொடர்ச்சியாக குரல்கொடுத்து வரும் ஒருவர்.
-
-வடக்குகிழக்கில் தமிழ் மக்கள் தங்களது உரிமைக்காக போராடும் இடங்களில் எல்லாம் பார்க்ககூடிய தென்பகுதி முகம் அவர்
-
-அவ்வேளை நான் சட்டபீட மாணவனாகயிருந்தேன் ,24ம் திகதி நாங்கள் சட்டபீடத்தில் இருந்தவேளை அதனை சுற்றியுள்ள பகுதிகளில் இருந்து பெரும் புகைமண்டலம் எழுந்ததை பார்த்தோம்.
-
-சந்திரஹாசனின் துணைவியார் அவ்வேளை எங்களின்  சிரேஸ்ட விரிவுரையாளர்களில் ஒருவர்.அவர் அச்சத்தினால் நடுங்கியது எனக்கு இன்னமும் நினைவில் இருக்கின்றது.
-
-நான் அவரிடம் சென்று என்ன பிரச்சினை என கேட்டேன் அதற்கு அவர் தமிழர்களின் வீடுகள் தீக்கிரையாக்கப்படுகின்றன என தெரிவித்தார்.
-
-அந்த நாட்களில் எங்களின் ஊடகங்களாக செய்தித்தாள்களும் வானொலிகளும் மாத்திரம் காணப்பட்டன, தொலைக்காட்சியின் ஆரம்;ப நாட்கள்
-
-அன்று காலை முதல் நாள்( 23) 13 படையினர் கொல்லப்பட்டுள்ளனர் என்ற செய்தியை வாசித்திருந்தோம்.
-
-...
-
-[Data](articles/94027d90.json)
 
 ---
 
@@ -1711,101 +1791,5 @@ There are over 20 countries at present involved in internal or external wars. Wi
 ◼️
 
 [Data](articles/b0dbfc3c.json)
-
----
-
-### முல்லைத்தீவுக்கு சொகுசு குளிரூட்டப்பட்ட பேருந்து சேவை தேவையென ரவிகரன் எம்.பி வலியுறுத்தல்
-
-*2025-07-23 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220678) · `ta`
-
-முல்லைத்தீவு மாவட்டத்திற்கு குளிரூட்டப்பட்ட சொகுசுப்பேருந்து சேவையை உடனடியாக ஏற்படுத்தவேண்டுமென போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சர் விமல் ரத்நாயக்கவிடம் வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் வலியுறுத்தியுள்ளார்.
-
-இந்நிலையில் முல்லைத்தீவு மாவட்டத்தில் குளிரூட்டப்பட்ட சொகுசுப்பேருந்து சேவையை ஆரம்பிப்பதுதொடர்பில் ஆய்வுகளை மேற்கொண்டு, அமைச்சின் அடுத்த ஆலோசனைக்குழுக்கூட்டத்தில் ஆய்வு அறிக்கைகளை தம்மிடம் கையளிக்கவேண்டுமென அமைச்சர் விமல் ரத்நாயக்கவால் இதன்போது அமைச்சின் அதிகாரிகளுக்கு அறிவுறுத்தல் வழங்கப்பட்டது.
-
-போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் ஆலோசனைக்குழுக்கூட்டம் 22.07.2025இன்று பாராளுமன்றக்கட்டடத் தொகுதியில் இடம்பெற்றது. இக்கூட்டத்திலேயே நாடாளுமன்ற உறுப்பினர் ரவிகரன் அமைச்சர் விமல் ரத்நாயக்கவிடம் இவ்வாறு வலியுறுத்தியிருந்த நிலையில், அமைச்சர் மேற்கண்டவாறு அமைச்சின் அதிகாரிகளுக்கு அறிவுறுத்தல் வழங்கியிருந்தார்.
-
-...
-
-[Data](articles/bb7ae50a.json)
-
----
-
-### HRCSL submits parallel report to United Nations Committee on Enforced Disappearance
-
-*2025-07-23 00:29:52* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-submits-parallel-report-to-United-Nations-Committee-on-Enforced-Disappearance/56-779355) · `en`
-
-Reveals over 27,000 cases of missing persons considered by past commissions of inquiry
-
-OMP has received over 21,000 complaints relating to missing persons
-
-Official data from early 2000s where identification of perpetrators in over 1,600 cases and the institution of over 300 cases in the High Court ultimately led to only 12 convictions
-
-The Human Rights Commission of Sri Lanka (HRCSL) submitted its Parallel Report to the United
-
-Nations Committee on Enforced Disappearance ahead of the Committee’s 29th session to be held from 22 September to 3 October.
-
-At this session, the Committee is scheduled to review Sri Lanka’s fulfilment of obligations under the International Convention for the Protection of All Persons from Enforced Disappearance (‘Convention’). The HRCSL’s 25-page report contained several key observations and recommendations on Sri Lanka’s implementation of the Convention.
-
-...
-
-[Data](articles/57ebd9cd.json)
-
----
-
-### SC stays Appeal Court ruling on naming Deshabandu Thennakoon as suspect in 2022 Galle Face attacks
-
-*2025-07-23 00:29:25* · [`dailyftlk`](https://www.ft.lk/news/SC-stays-Appeal-Court-ruling-on-naming-Deshabandu-Thennakoon-as-suspect-in-2022-Galle-Face-attacks/56-779354) · `en`
-
-The Supreme Court yesterday stayed a ruling by the Court of Appeal that had invalidated a directive from the Attorney General to the Police to name suspended Inspector General of Police (IGP) Deshabandu Thennakoon as a suspect over the 9 May 2022 Galle Face attacks.
-
-The Supreme Court three-judge bench comprising Justices Janak de Silva, Sobhitha Rajakaruna and Sampath Abeykoon made this order following a leave to appeal petition filed by the Attorney General.
-
-The Court also overruled a preliminary objection raised by President’s Counsel Romesh de Silva who appeared for Thennakoon, arguing that the caption relating to the respondents had not been amended as required.
-
-Meanwhile, Deputy Solicitor General Suharshi Herath, appearing for the Attorney General, informed the Court that the Attorney General is constitutionally empowered to issue legal advice to law enforcement agencies when requested, and that such advice was provided in this instance upon the request by Police.
-
-...
-
-[Data](articles/447774d8.json)
-
----
-
-### Parliament postpones debate on Electricity (Amendment) Bill
-
-*2025-07-23 00:28:36* · [`dailyftlk`](https://www.ft.lk/news/Parliament-postpones-debate-on-Electricity-Amendment-Bill/56-779353) · `en`
-
-The Committee on Parliamentary Business has decided not to proceed with the scheduled debate on the Sri Lanka Electricity (Amendment) Bill, which was initially set for tomorrow (24).
-
-The decision was made during a meeting held yesterday, chaired by Speaker Dr. Jagath Wickramaratne, according to Secretary General of Parliament Kushani Rohanadeera.
-
-The second reading of the Bill will be postponed to a later date due to technical matters that need to be addressed before the debate can proceed.
-
-In place of the postponed debate, Parliament will hold an Adjournment Debate on the “Proposed New Education Reforms” on 24 July. The discussion will continue until 5.30 p.m. and will be based on a motion presented by the Government.
-
-◼️
-
-[Data](articles/160b57f4.json)
-
----
-
-### History still part of curriculum amid education reforms: Cabinet Spokesman
-
-*2025-07-23 00:28:10* · [`dailyftlk`](https://www.ft.lk/news/History-still-part-of-curriculum-amid-education-reforms-Cabinet-Spokesman/56-779352) · `en`
-
-Cabinet Spokesman Dr. Nalinda Jayatissa labels Opposition allegations as politically motivated and misleading
-
-Confirms reforms are still under consultation, with pilot implementation in Grades 1 and 6
-
-Asserts Education Ministry open to hold stakeholder discussions for feedback; reforms aim to address outdated content and include technology education
-
-Cabinet Spokesperson and Minister Dr. Nalinda Jayatissa yesterday dismissed claims that history and aesthetic subjects are being removed from the school curriculum under the proposed education reforms, calling such reports misleading and politically motivated.
-
-In response to questions posed at the weekly post-Cabinet meeting media briefing yesterday, he claimed false information was being circulated by the Opposition groups alleging that history and arts have been eliminated from the national curriculum.
-
-Dr. Jayatissa asserted that the reforms are being misrepresented for political gain at the expense of children’s futures.
-
-...
-
-[Data](articles/06c317d2.json)
 
 ---

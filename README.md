@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 00:07:17**
+As of **2025-07-24 00:26:05**
 
 ## Newspaper Stats
 
-*Scraped **66,388** Articles*
+*Scraped **66,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
-economynextcom | 4,051
 islandlk | 4,051
+economynextcom | 4,060
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,374
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,388 articles have been extended.
+61,973 (93.3%) of 66,397 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -322,6 +322,24 @@ Among the wild elephants that died in Digampathaha, one elephant was first repor
 
 ---
 
+### Sri Lanka CB sees more room for credit growth without overheating
+
+*2025-07-23 19:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-sees-more-room-for-credit-growth-without-overheating-232482/) · `en`
+
+ECONOMYNEXT – Sri Lanka does not see any overheating in the economy despite rising private sector credit growth as there is no demand for loans from the government institutions, Central Bank Governor Nandalal Weerasinghe said.
+
+The private sector credit growth has risen at a multi-year high of 16.1 percent in May, the Central Bank data showed.
+
+“We don’t see any overheating here, because when this credit grows, the first factor is that this credit is growing after more than a year of sharp contraction. So, there’s a base effect because after the crisis, there’s a sharp contraction…, so we are in the recovery process,” Governor Weerasinghe told reporters in Colombo at the post monetary policy media briefing.
+
+“Secondly, there’s a shift in credit supply, essentially earlier there’s a large amount of credit absorbed by state owned enterprises. Now, the credit allocation to state funded enterprises has been now coming down as a result of cost recovery pricing.”
+
+...
+
+[Data](articles/ef4df169.json)
+
+---
+
 ### කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට
 
 *2025-07-23 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212562) · `si`
@@ -484,6 +502,24 @@ The CID further stated that the former OIC is currently being detained and quest
 
 ---
 
+### Thailand envoy discusses full implementation of Sri Lanka FTA
+
+*2025-07-23 17:25:00* · [`economynextcom`](https://economynext.com/thailand-envoy-discusses-full-implementation-of-sri-lanka-fta-232475/) · `en`
+
+ECONOMYNEXT – The Thai Ambassador to Sri Lanka and Sri Lanka’s Speaker have discussed upcoming activities planned under bilateral cooperation, including initiatives to strengthen people-to-people connections.
+
+Ambassador Paitoon Mahapannaporn “expressed hope for the full implementation of the Free Trade Agreement (FTA) between Sri Lanka and Thailand, which would bring mutual benefits to both countries,” a parliament statement said.
+
+The discussions focused on “enhancing cooperation in key areas such as cultural exchange, tourism promotion, trade partnerships, and parliamentary collaboration”.
+
+Speaker Jagath Wickramaratne said that Sri Lanka is currently seeking to expand investment opportunities, especially in the fields of agriculture, industries and tourism. (Colombo/Jul23/2025)
+
+◼️
+
+[Data](articles/3a43d6a5.json)
+
+---
+
 ### මීළඟ අගවිනිසුරු ලෙස ප්‍රීති පද්මන් සූරසේනගේ නම ව්‍යවස්ථාදායක සභාව අනුමත කරයි
 
 *2025-07-23 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212560) · `si`
@@ -541,6 +577,28 @@ Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief 
 ...
 
 [Data](articles/a9cddfcf.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bonds steady
+
+*2025-07-23 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-232471/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly weaker at 301.80/85 to the US dollar in the spot market Wednesday, from 301.70/75 the previous day, while bond yields were broadly steady although shorter tenors edged up a bit, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.50/60, up from 8.45/56 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/55 percent, up from 9.48/53 percent.
+
+At a treasury bill auction today, the government sold less bills than offered.
+
+The central bank announced that it was keeping its policy rate steady earlier in the day. (Colombo/July23/2025)
+
+◼️
+
+[Data](articles/9d31d896.json)
 
 ---
 
@@ -792,6 +850,28 @@ Both parties emphasized the significance of enhancing preparedness and resilienc
 
 ---
 
+### Sri Lanka stocks close up, banking stocks push turnover
+
+*2025-07-23 16:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-stocks-push-turnover-232443/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The ASPI was up 0.79%, or 151.15 points, at 19,243.08, while the S&P SL20 was up 0.57%, or 32.00 points, at 5,689.62.
+
+Top contributors to the ASPI were DFCC Bank, which was up 4.75 rupees at 139.25, Richard Pieris and Company, which was up 1.70 rupees at 26.20, NDB which was up 2.75 rupees at 130.25, Carson Cumberbatch, which was up 30.75 rupees at 510.25, and NTB which was up 8.00 rupees at 230.00.
+
+Banking (Rs1.3bn) Capital Goods (Rs1.18bn), and Food, Beverage and Tobacco (Rs1.08bn) stocks contributed the most to turnover.
+
+Bank stocks closed up, except for Seylan Bank which was flat at 65.80 rupees, and HNB non-voting which was down 25 cents at 286.75 rupees.
+
+Earlier in the day Sri Lanka’s central bank said it will keep its policy rate unchanged at 7.75 percent, saying it will increase the cost of living on the public the level it wants to and push up growth.
+
+...
+
+[Data](articles/dabe8ca4.json)
+
+---
+
 ### Abolition Of Executive Presidency & A New Constitution For Sri Lanka: Final Part
 
 *2025-07-23 16:10:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-executive-presidency-a-new-constitution-for-sri-lanka-final-part/) · `en`
@@ -819,6 +899,26 @@ In the colonial period, the British introduced the Colebrooke-Cameron reforms of
 ...
 
 [Data](articles/d95787f4.json)
+
+---
+
+### Sri Lanka sells Rs19.8bn treasury bills after offering Rs111bn
+
+*2025-07-23 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs19-8bn-treasury-bills-after-offering-rs111bn-232439/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 19.87 billion rupees of Treasury bills, with yields steady across maturities, after offering 111 billion, data from the state debt office showed.
+
+The 3-month yield was unchanged at 7.62 percent, with 26 billion rupees offered and 1.19 billion sold.
+
+The 6-month yield was unchanged at 7.91 percent, with 50 billion rupees offered and 9.43 billion sold.
+
+The 12-month yield was down 1 basis point at 8.03 percent with 35 billion rupees of bills offered and 9.24 billion rupees bills sold.
+
+All 3 bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/49d99046.json)
 
 ---
 
@@ -946,6 +1046,26 @@ The plane landed safely back at the airport after a two-hour journey. Flight IX 
 
 ---
 
+### Sri Lanka CB chief says no limit imposed on vehicle imports
+
+*2025-07-23 15:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-says-no-limit-imposed-on-vehicle-imports-232437/) · `en`
+
+ECONOMYNEXT – Sri Lanka Central Bank and the government have not imposed any limits on vehicle imports, Central Bank Governor Nandalal Weerasinghe said.
+
+The International Monetary Fund (IMF) earlier this month said high-frequency data have suggested a steady growth in motor vehicle imports after the removal of import restrictions on February 1, with around 675 million dollar in letters of credit opened by June 10.
+
+“There is no concern from the central bank on vehicle imports. There is no limit and the open market will continue for vehicle imports,” Governor Weerasinghe told reporters at a post-monetary policy media brief on Wednesday.
+
+“The government also is not against that idea as far as I know.”
+
+The Central Bank before vehicle imports started informed the Finance Ministry that the country could import up to 1 billion dollar worth vehicles this year. (Colombo/July 23/2025)
+
+◼️
+
+[Data](articles/21a847b6.json)
+
+---
+
 ### ඉන්දීයාව පුරා  චිකුන්ගුන්යා වසංගත තත්ත්වයක්
 
 *2025-07-23 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212553) · `si`
@@ -1067,6 +1187,44 @@ In her keynote address, the Chief Justice urged the continued commitment from th
 ...
 
 [Data](articles/9f724b49.json)
+
+---
+
+### Sri Lanka planning to register cryptocurrencies providers
+
+*2025-07-23 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-register-cryptocurrencies-providers-232426/) · `en`
+
+ECONOMYNEXT – Sri Lanka has to register providers of crytpo currencies as part of requirements of international anti-money laundering and counter terrorism financing framework, Central Bank Governor Nandalal Weerasinghe said.
+
+The central bank has also discussed setting up a task force on the matter with the government’s digital ministry, he said.
+
+Sri Lanka has to identify and know about crypto currency use to counter money laundering, he said.
+
+Users of cryptocurrencies also faced other legal hurdles including Sri Lanka’s foreign exchange laws, Governor Weerasinghe pointed out.
+
+In Sri Lanka people cannot freely transfer money abroad except for current transactions. (Colombo/July28/2025)
+
+◼️
+
+[Data](articles/1f91cd4f.json)
+
+---
+
+### Fitch assigns ‘A(lka)’ rating to Commercial Bank’s Rs15bn green bonds
+
+*2025-07-23 14:30:00* · [`economynextcom`](https://economynext.com/fitch-assigns-alka-rating-to-commercial-banks-rs15bn-green-bonds-232425/) · `en`
+
+ECONOMYNEXT – Commercial Bank’s proposed Sri Lankan rupee-denominated Basel III-compliant subordinated green bonds of up to 15 billion has been given a final National Long-Term Rating of ‘A(lka)’ by Fitch Ratings.
+
+“COMB’s National Long-Term Rating is used as the anchor rating for this instrument because the rating reflects the bank’s standalone financial strength and best indicates the risk of the bank becoming non-viable,” the ratings agency said.
+
+The debentures, which will mature in five, seven and 10 years, include a non-viability clause that states they will convert to ordinary voting shares upon the occurrence of a trigger event.
+
+Fitch Rates Commercial Bank of Ceylon’s Basel III Subordinated Green Bond Final ‘A(lka)’
+
+...
+
+[Data](articles/33b6d8f1.json)
 
 ---
 
@@ -1416,6 +1574,24 @@ He urged the committee to “carry out a swift investigation by examining all th
 
 ---
 
+### Presidential probe into SriLankan Airlines and airport authority fraud claims
+
+*2025-07-23 12:00:00* · [`economynextcom`](https://economynext.com/presidential-probe-into-srilankan-airlines-and-airport-authority-fraud-claims-232411/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed a special presidential investigation committee to probe alleged incidents of fraud, corruption and irregularities at SriLankan Airlines Limited and Airport and Aviation Services (Sri Lanka) (Private) Limited.
+
+Dissanayake met with the members of the committee Tuesday (22) at the Presidential Secretariat, his media division said.
+
+“The absence of a proper investigation into the irregularities at SriLankan Airlines Limited Company and Airport and Aviation Services (Sri Lanka) (Private) Limited has rendered these institutions largely ineffective,” the statement quoted the president as saying.
+
+He urged the committee to “carry out a swift investigation by examining all the facts related to these incidents and to provide a report with essential recommendations aimed at correcting the situation”.
+
+...
+
+[Data](articles/cd207fc2.json)
+
+---
+
 ### ‘Red’ warning issued for strong winds and rough seas
 
 *2025-07-23 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110766/red-warning-issued-for-strong-winds-and-rough-seas) · `en`
@@ -1669,151 +1845,5 @@ However, Justice Arjuna Obeysekara, also a member of the bench, in his separate 
 ◼️
 
 [Data](articles/184cf4a6.json)
-
----
-
-### தென்னகோனை நீக்கும் விவாதம் குறித்து சபாநாயகர் விளக்கம்
-
-*2025-07-23 11:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தென்னகோனை-நீக்கும்-விவாதம்-குறித்து-சபாநாயகர்-விளக்கம்/150-361598) · `ta`
-
-ஐஜிபி தேசபந்து தென்னகோனை அவரது பதவியில் இருந்து நீக்கும் தீர்மானம் மீதான விவாதத்தை பாராளுமன்றம் எப்போது மேற்கொள்ள வேண்டும் என்பதை கட்சித் தலைவர்கள் முடிவு செய்வார்கள் என்று சபாநாயகர் பாராளுமன்றத்தில் தெரிவித்தார்.
-
-"நிலையியற் கட்டளை 27 இன் படி, ஐஜிபியை பதவியில் இருந்து நீக்குவதற்கான தீர்மானம், சமூகமளிக்காத எம்.பி.க்களையும் கணக்கிட்டு, தெளிவான பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டும் " என்று சபாநாயகர் அறிவித்தார்.
-
-இந்தத் தீர்மானம் ஐந்து நாட்களுக்கு ஒழுங்கு பத்திரத்தில் இருக்க வேண்டும் என்றும் அவர் கூறினார்.
-
-◼️
-
-[Data](articles/a430c8ec.json)
-
----
-
-### தென்னகோனை நீக்கும் விவாதம் குறித்து சபாநாகயர் விளக்கம்
-
-*2025-07-23 11:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனை-நீக்கும்-விவாதம்-குறித்து-சபாநாகயர்-விளக்கம்/175-361598) · `ta`
-
-ஐஜிபி தேசபந்து தென்னகோனை அவரது பதவியில் இருந்து நீக்கும் தீர்மானம் மீதான விவாதத்தை பாராளுமன்றம் எப்போது மேற்கொள்ள வேண்டும் என்பதை கட்சித் தலைவர்கள் முடிவு செய்வார்கள் என்று சபாநாயகர் பாராளுமன்றத்தில் தெரிவித்தார்.
-
-"நிலையியற் கட்டளை 27 இன் படி, ஐஜிபியை பதவியில் இருந்து நீக்குவதற்கான தீர்மானம், சமூகமளிக்காத எம்.பி.க்களையும் கணக்கிட்டு, தெளிவான பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டும் " என்று சபாநாயகர் அறிவித்தார்.
-
-இந்தத் தீர்மானம் ஐந்து நாட்களுக்கு ஒழுங்கு பத்திரத்தில் இருக்க வேண்டும் என்றும் அவர் கூறினார்.
-
-◼️
-
-[Data](articles/a555d57c.json)
-
----
-
-### ශ්‍රීලංකන් අක්‍රමිකතා ගැන හොයන්න ජනාධිපති විශේෂ විමර්ශන කමිටුවක්
-
-*2025-07-23 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212547) · `si`
-
-ශ්‍රීලංකන් එයාර් ලයින්ස් ලිමිටඩ් සහ සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (පෞද්ගලික) සමාගම්වල සිදුවී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා පිළිබඳ විමර්ශනයට ජනාධිපති විශේෂ විමර්ශන කමිටුවක් පත්කර තිබේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් එම ජනාධිපති විශේෂ විමර්ශන කමිටුවක් පත්කර ඇත.
-
-ඊයේ (22) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එම විශේෂ විමර්ශන කමිටුව හමු වූ ජනාධිපතිවරයා ඔවුන් සමඟ සාකච්ඡාවකටද එක් විය.
-
-එහිදී, ශ්‍රීලංකන් එයාර් ලයින්ස් ලිමිටඩ් සමාගමේ සහ සීමාසහිත ගුවන් තොටුපොළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමේ  සිදු වී ඇති අක්‍රමිකතා පිළිබඳ නිසි විමර්ශනයක් සිදුනොවීම හේතුවෙන් එම ආයතන විශාල ලෙස අකර්මණ්‍ය වී ඇති බව පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා, මෙම සිදුවීම් පිළිබඳව ඉදිරිපත්ව ඇති සියලු කරුණු අධ්‍යයනය කරමින් කඩිනම් විමර්ශනයක් සිදු කරන ලෙසත්, එම තත්ත්ව නිවැරදි කිරීමට සහ අනාගතයේදී එවැනි දෑ නැවත සිදු වීම වැළැක්වීමට අවශ්‍ය මාර්ගෝපදේශ ඇතුළත් වාර්තාවක් ඉදිරිපත් කරන ලෙසත් කමිටුවට දැනුම් දුන්නේය.
-
-...
-
-[Data](articles/14d1bbf7.json)
-
----
-
-### ஸ்ரீலங்கன் எயார்லைன்ஸ் மோசடி: விசாரிக்க ஜனாதிபதி விசேட விசாரணைக் குழு
-
-*2025-07-23 11:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-எயார்லைன்ஸ்-மோசடி-விசாரிக்க-ஜனாதிபதி-விசேட-விசாரணைக்-குழு/175-361597) · `ta`
-
-ஸ்ரீலங்கன் எயார்லைன்ஸ் லிமிடெட் மற்றும்  வரையறுக்கப்பட்ட விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்)   நிறுவனங்களில் நடந்த மோசடி, ஊழல் மற்றும் முறைகேடுகளை விசாரிக்க ஜனாதிபதி விசேட விசாரணைக் குழு
-
-ஸ்ரீலங்கன் எயார்லைன்ஸ் லிமிடெட் மற்றும்  வரையறுக்கப்பட்ட விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்)   நிறுவனங்களில் நடந்த மோசடி, ஊழல் மற்றும் முறைகேடுகளை விசாரிக்க ஜனாதிபதி விசேட விசாரணைக் குழுவை ஜனாதிபதி அநுர குமார திசாநாயக்க நியமித்துள்ளார்.
-
-விசேட விசாரணைக் குழுவை ஜனாதிபதி, புதன்கிழமை (22) பிற்பகல்  மேற்படி ஜனாதிபதி செயலகத்தில் சந்தித்து அவர்களுடன் கலந்துரையாடினார்.
-
-...
-
-[Data](articles/986e9a62.json)
-
----
-
-### අලි ඇතුන් ඝාතනය කරන අයට මරණ දඩුවම දෙන්න
-
-*2025-07-23 11:08:25* · [`adalk`](https://www.ada.lk/breaking_news/අලි-ඇතුන්-ඝාතනය-කරන-අයට-මරණ-දඩුවම-දෙන්න/11-417461) · `si`
-
-අලි ඇතුන් ආරක්ෂා කර ගැනීමට නම් අලි ඇතින් ඝාතනය කරන පුද්ගලයන්ට මරණ දඩුවම ලබා දිය යුතු බව වනවාසී රාහුල හිමියෝ පැවැසූහ. එසේම පසුගිය ආණ්ඩුවලට මෙන්ම වත්මන් ආණ්ඩුවටද අලි ඇතුන් ආරක්ෂා කර ගැනීමේ වැඩපිළිවෙළක් නොමැති බව උන්වහන්සේ පැවැසූහ.
-
-"අලි - ඇතුන් ආරක්ෂා කර ගැනීමට නිසි වැඩපිළිවෙලක් මේ ගොල්ල ලඟත් නෑ, පහුගිය කාළයේ තිබුණෙත් නෑ, ඒ නිසා ජනාධිපතිතුමන්ගෙන් ඉල්ලීමක් කරනවා කරුණාකරලා මේ වනජීවී ආඥාපනත සංශෝධනය කරලා කාලීන වශයෙන් නීතී දැඩි කරලා අලි මරණ මිනිසුන්ට නීතී දැඩි කරලා, අඩුම තරමේ මරණ දණ්ඩනය හරි දෙන්න නීතී සංශෝධනය කරලා වැඩපිළිවෙලක් කිරීමට අවශ්‍යයි.
-
-ලාල් කාන්ත ඇමතිතුමා තමන්ගේ ගොවි බිමට ආවම ඕනෑම සතෙකුට ඕනෑම දෙයක් කරන්න කියලා, මරන්න කියන කාරණාව පැහැදිලිවම එතුමා කියලා තිබුණා පාර්ලිමේන්තුවේ, ඒක මම හිතන්නේ ඉතාමත් බොළඳ ප්‍රකාශයක් හැටියට.වගකිවයුතු, වගකීමක් භාර කෘෂිකර්ම ඇමතිවරයා හැටියට එවැනි දෙයක් ප්‍රකාශ කිරීම කාලෝචිත නෑ,ඒ වගේ මෝඩ ප්‍රකාශ වලට  මුළා වෙන්න එපා කියලත් මම කරුණාවෙන් ඉල්ලීමක් කරනවා" යැයි ජාතික නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් පැවසූහ.
-
-...
-
-[Data](articles/1e601d10.json)
-
----
-
-### அவசரகால சட்டவிதிமுறைகளினால் அடிப்படை உரிமைகளை மீறியுள்ளார் ரணில் - உயர் நீதிமன்றம் தீர்ப்பு
-
-*2025-07-23 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220707) · `ta`
-
-கடந்த 2022 ஆம் ஆண்டு ஜூலை மாதம் 17 ஆம் திகதி அறகலைய போராட்டக்காரர்களை கட்டுப்படுத்துவதற்காக அப்போதைய பதில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் பொதுமக்கள் பாதுகாப்பு சட்டத்தின் கீழ் நாடளாவிய ரீதியில் பிரகடனப்படுத்தப்பட்ட அவரசகாலச்சட்ட விதிமுறைகளினால் அடிப்படை மனித உரிமைகள் மீறப்பட்டுள்ளதாக உயர் நீதிமன்றம் இன்று புதன்கிழமை (23) தீர்ப்பளித்துள்ளது.
-
-இதற்கமைய பதில் ஜனாதிபதி ரணில் விக்கிரமசிங்க பொதுமக்கள் பாதுகாப்பு சட்டத்தின் 2 ஆவது விதிமுறையின் கீழ் பிரகடனப்படுத்திய அவசரகால சட்ட விதிமுறைகள் தன்னிச்சையானதும் அதிகாரமற்றதுமான செயற்பாடென மூவரடங்கிய நீதிமன்ற நீதிபதிகள் குழாமின் பெரும்பான்மையான நீதியரசர்கள் தீர்மானித்துள்ளனர்.
-
-◼️
-
-[Data](articles/95bbccc4.json)
-
----
-
-### රනිල්ගේ හදිසි නීති රෙගුලාසිවලින් මුලික අයිතිවාසිකම් උල්ලංඝනය වෙලා - ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
-
-*2025-07-23 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212546) · `si`
-
-2022 වසරේ ජූලි මස 17 වනදා අරගලකරුවන් පාලනය කිරීම සඳහා එවක වැඩබලන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මහජන ආරක්ෂක පනත යටතේ රටපුරා ප්‍රකාශයට පත් කරනු ලැබූ හදිසි නීති රෙගුලාසි තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
-
-වැඩබලන ජනාධිපති ලෙස රනිල් වික්‍රමසිංහ මහතා මහජන ආරක්ෂක පනතේ 02 වගන්තිය යටතේ නිකුත් කරනු ලැබු හදිසි නීති රෙගුලාසි අත්තනෝමතික මෙන්ම බල ශූන්‍ය බව ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ බහුතර විනිසුරුවරු තීන්දු කළේය.
-
-අගවිනිසුරු මුර්දු ප්‍රනාන්දු, යසන්ත කෝදාගොඩ යන බහුතර විනිසුරුවරූ විසින් මෙම තීන්දුව ලබා දුන්නේය.
-
-එහෙත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සිය තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේ, වැඩබලන ජනාධිපතිවරයාගේ හදිසි නීති ප්‍රකාශය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය නොවන බවය.
-
-විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය, ශ්‍රී ලංකා මානව හිමිකම් කොමිසමේ හිටපු කොමසාරිස්වරියක වන අම්බිගා සත්කුණනාදන් සහ ලිබරල් තරුණ ව්‍යාපාරය විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ඉදිරිපත් කර තිබුණි.
-
-◼️
-
-[Data](articles/4914188e.json)
-
----
-
-### பாடசாலை பஸ் விபத்தில் 13 மாணவர்கள் காயம்
-
-*2025-07-23 11:00:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பஸ்-விபத்தில்-13-மாணவர்கள்-காயம்/175-361596) · `ta`
-
-பாடசாலை  மாணவர்களை, புதன்கிழமை (23)  ஏற்றிச் சென்ற பேருந்து ஒன்று சாலையை விட்டு விலகி விபத்துக்குள்ளானதில், பேருந்தில் பயணித்த பாடசாலை  மாணவர்கள் 13 பேர் காயமடைந்து தங்காலை மற்றும் வீரகெட்டிய மருத்துவமனைகளில் அனுமதிக்கப்பட்டுள்ளனர் என்று பொலிஸார் தெரிவித்தனர்.
-
-இந்த விபத்து பெலியத்த-வீரகெட்டிய சாலையில் பெலிகல்ல பகுதியில் இடம்பெற்றுள்ளது. காயமடைந்த மாணவர்களின் நிலைமை கவலைக்கிடமாக இல்லை என்று பெலியத்த பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/21f63310.json)
-
----
-
-### 2015 සිට 2025 දක්වා විදෙස් ශ්‍රමික ප්‍රේෂණ ඇ.ඩො.බි. 67.1ක්
-
-*2025-07-23 10:57:53* · [`adalk`](https://www.ada.lk/breaking_news/2015-සිට-2025-දක්වා-විදෙස්-ශ්‍රමික-ප්‍රේෂණ-ඇ-ඩො-බි--67-1ක්/11-417460) · `si`
-
-2015 වසරේ සිට 2025 දක්වා වසර 10ක කාලයෙහි විදේශගත ශ්‍රී ලාංකික ශ්‍රමිකයන් හරහා මෙරටට ඇමෙරිකානු ඩොලර් මිලියන 67,147ක  (රුපියල් බිලියන 13,946ක) මුදලක්  ප්‍රේෂණය වී ඇති බව විදේශ කටයුතු සහ විදේශ රැකියා නියෝජ්‍ය ඇමැති අරුන් හේමචන්ද්‍ර මහතා පැවසීය.
-
-2025.02.25 වනවිට විදේශ රටවල සේවය කරන ශ්‍රී ලාංකික  ශ්‍රමිකයන් සංඛ්‍යාව ආසන්න වශයෙන් 1,345,801 ක් වන බවද මෙහිදී අමාත්‍යවරයා සඳහන් කළේය.
-
-වාචික පිළිතුරු අපේක්ෂාවෙන් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා ඊයේ(22දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම  මේ බව සඳහන් කර සිටියේය.
-
-◼️
-
-[Data](articles/dfc62e3b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 17:30:38**
+As of **2025-07-23 17:52:36**
 
 ## Newspaper Stats
 
-*Scraped **66,352** Articles*
+*Scraped **66,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,368
-adaderanalk | 8,142
+adaderanalk | 8,144
 tamilmirrorlk | 9,563
 virakesarilk | 11,054
-adaderanasinhalalk | 11,396
+adaderanasinhalalk | 11,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,352 articles have been extended.
+61,973 (93.4%) of 66,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### මීළඟ අගවිනිසුරු ලෙස ප්‍රීති පද්මන් සූරසේනගේ නම ව්‍යවස්ථාදායක සභාව අනුමත කරයි
+
+*2025-07-23 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212560) · `si`
+
+මිළඟ අගවිනිසුරු ධුරය සඳහා ප්‍රීති පද්මන් සූරසේන මහතාගේ නම ව්‍යවස්ථාදායක සභාව විසින් ඒකමතිකව අනුමත කර තිබේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ප්‍රීති පද්මන් සූරසේන මහතාගේ නම පසුගියදා ව්‍යවස්ථාදායක සභාවට ඉදිරිපත් කළේය.
+
+ඒ අනුව අද (23) රැස්වූ ව්‍යවස්ථාදායක සභාවේදී ඊට අනුමැතිය හිමිවී තිබේ.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ ජ්‍යේෂ්ඨතම විනිසුරුවරයෙකු වන ප්‍රීති පද්මන් සූරසේන මහතා මීට පෙර අධිකරණ සේවා කොමිසමේ සාමාජිකයෙකු ලෙසද සේවය කළේය.
+
+ඉහළ පෙළේ නඩු කිහිපයක මුලසුන හොබවා ඇති ඒ මහතා, ධුරයේ රාජකාරී සිදුකිරීම අත්හිටුවා ඇති දේශබන්දු තෙන්නකෝන්ට එරෙහි චෝදනා විමර්ශනය කරන පාර්ලිමේන්තු කමිටුවේ සභාපතිවරයා ලෙසද කටයුතු කළේය.
+
+මේ අතර වත්මන් අගවිනිසුරු මුර්දු ප්‍රනාන්දු මෙම මස 27 වනදා එම ධුරයෙන් විශ්‍රාම යෑමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/34e8a230.json)
+
+---
+
+### Preethi Padman Surasena confirmed as next Chief Justice of Sri Lanka
+
+*2025-07-23 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110780/preethi-padman-surasena-confirmed-as-next-chief-justiceofsrilanka) · `en`
+
+The Constitutional Council has ratified President Anura Kumara Dissanayake’s nomination of Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka.
+
+Justice Preethi Padman Surasena, one of the most senior justices in the Supreme Court was nominated by the President recently.
+
+Accordingly, the Constitutional Council, which convened today, ratified the nomination.
+
+Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
+
+◼️
+
+[Data](articles/ade9edc0.json)
+
+---
 
 ### පාස්කු විමර්ශනයකට අදාළව මඩකලපුව හිටපු පොලිස් OIC රඳවාගෙන ප්‍රශ්න කරයි
 
@@ -45,6 +85,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0f7e40ed.json)
+
+---
+
+### Draft of National Media Policy unveiled
+
+*2025-07-23 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110779/draft-of-national-media-policy-unveiled-) · `en`
+
+The draft of the National Media Policy has been unveiled by the Ministry of Mass Media.
+
+The policy has been drafted through a multi-stakeholder and consultative process.
+
+The National Media Policy was drafted based on guidelines given by a 23-member steering committee which includes representatives from state agencies, the Editors’ Guild of Sri Lanka, Broadcaster’s Guild of Sri Lanka, Free Media Movement as well as media academics and other media specialists.
+
+National Media Policy - Draft English by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/52f29719.json)
 
 ---
 
@@ -1755,61 +1813,5 @@ Marcos’ government indicated ahead of the meeting that he was prepared to offe
 ...
 
 [Data](articles/675f27ee.json)
-
----
-
-### නාරාහේන්පිට නිවසක ගින්නක් - පුද්ගලයෙක් මරුට
-
-*2025-07-23 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212540) · `si`
-
-අද (23) අලුයම් කාලයේ නාරාහේන්පිට පොලිස් වසමේ 397 වත්ත ප්‍රදේශයේදී නිවසක් තුළ හටගත් ගින්නකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-ගින්න හටගෙන ඇති නිවසේ පුද්ගලයෙකු ගින්නට හසුව පිළිස්සුම් තුවාල ලබා සිටියදී පොලීසිය විසින් කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු ඔහු මියගොස් ඇත.
-
-ගින්නට හේතුව මෙතෙක් අනාවරණය නොවන අතර සිදුවීම සම්බන්ධයෙන් නාරාහේන්පිට පොලීසිය විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/9402fc84.json)
-
----
-
-### மருந்து பற்றாக்குறையை தவிர்க்க உடனடி நடவடிக்கை
-
-*2025-07-23 08:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-பற்றாக்குறையை-தவிர்க்க-உடனடி-நடவடிக்கை/175-361581) · `ta`
-
-மருந்துகளின் கொள்முதல் மற்றும் விநியோகம் குறித்த பொறிமுறையை சரிப்படுத்தி, பற்றாக்குறை மற்றும் தாமதங்களின்றி மக்களுக்கு மருந்துகளைத் தொடர்ச்சியாக வழங்குவதை உறுதி செய்யுமாறு ஜனாதிபதி அதிகாரிகளுக்கு வலியுறுத்தியுள்ளார்.
-
-மருந்து விநியோக செயன்முறையை முறைப்படுத்துவது தொடர்பாக ஜனாதிபதி அநுரகுமார திசாநாயக்க, சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ, பிரதி அமைச்சர் ஹன்சக விஜேமுனி மற்றும் சுகாதார அமைச்சின் அதிகாரிகளிடையே இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இதனை வலியுறுத்தியுள்ளார்.
-
-மருந்து கொள்முதல் செயல்முறை மற்றும் விநியோக பொறிமுறையில் ஏற்பட்டுள்ள சிக்கல் நிலைமைகள் மற்றும் பலவீனங்கள் குறித்தும் இதன்போது கவனம் செலுத்தப்பட்டது.
-
-அத்துடன், சில மருத்துவமனைகளில் மருந்து பற்றாக்குறை ஏற்படுவதைத் தவிர்க்க உடனடியாக நடவடிக்கை எடுப்பதுடன், நாட்டில் மீண்டும் இதுபோன்றதொரு நிலைமை ஏற்படாதிருக்க நடவடிக்கை எடுக்குமாறும் ஜனாதிபதி குறிப்பிட்டார்.
-
-இதற்குத் தேவையான நீண்டகால திட்டங்களை உடனடியாக தயாரிக்க வேண்டும் என்றும் அவர் அறிவுறுத்தியுள்ளார்.
-
-...
-
-[Data](articles/11be28c8.json)
-
----
-
-### ජපානය සමග සාර්ථක ගනුදෙනුවට  පිවිසි බව ට්‍රම්ප් කියයි
-
-*2025-07-23 08:04:41* · [`adalk`](https://www.ada.lk/international/ජපානය-සමග-සාර්ථක-ගනුදෙනුවට--පිවිසි-බව-ට්‍රම්ප්-කියයි/3-417455) · `si`
-
-එක්සත් ජනපදය සහ ජපානය මෝටර් රථ ඇතුළුව ජපානයෙන් එක්සත් ජනපදයට ආනයන කරනු ලබන භාණ්ඩ වෙනුවෙන් පෙර සඳහන් කළ ප්‍රමාණයටත් වඩා අඩු බදු ප්‍රතිශතයක් වෙනුවෙන් ගණුදෙනුවකට එකඟ වූ බව එක්සත් ජනපති ජනපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කරයි.
-
-සිය Truth සමාජ මාධ්‍ය ගිණුමේ සටහනක් තබමින් ට්‍රම්ප් පැවැසුවේ මෙම ගිවිසුම හරහා එක්සත් ජනපදයට ජපනයෙන් ඩොලර් බිලියන 550 ක පමණ ආයෝජන ඇතුළත් බවයි.
-
-ජපානය ඇමරිකානු නිෂ්පාදන වන මෝටර් රථ, ට්‍රක් රථ, සහල් සහ ඇතැම් කෘෂිකාර්මික නිෂ්පාදන ඇතුළු අනෙකුත් භාණ්ඩ සඳහා වෙළඳපොළ ප්‍රවේශය වැඩි කිරීමට නියමිත බවද ඔහු පැවැසීය.
-
-ට්‍රම්ප්ගේ සටහනේ ජපන් මෝටර් රථ සඳහා තීරුබදු ලිහිල් කිරීම ගැන කිසිදු සඳහනක් නොතිබූ අතර එය එක්සත් ජනපදයට කරන රටේ සියලුම අපනයනවලින් හතරෙන් එකකට වඩා වැඩි වන අතර 25% ක තීරුබදුවකට යටත් වේ. නමුත් ජපන් රජයේ නිලධාරියෙකු උපුටා දක්වමින් NHK වාර්තා කළේ මෙම ගනුදෙනුව මෝටර් රථ තීරුබදු 15% දක්වා අඩු කරන බවයි.
-
-“මෙය ඇමරිකා එක්සත් ජනපදයට ඉතා උද්යෝගිමත් කාලයක් වන අතර, විශේෂයෙන් අපි සැමවිටම ජපනය සමඟ විශිෂ්ට සම්බන්ධතාවයක් පවත්වා ගෙන යනු ඇත,” ට්‍රම්ප් සමාජ මාධ්‍ය වේදිකාවේ පැවසීය.
-
-...
-
-[Data](articles/d69ff3f6.json)
 
 ---

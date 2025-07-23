@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 02:48:03**
+As of **2025-07-24 03:06:02**
 
 ## Newspaper Stats
 
-*Scraped **66,420** Articles*
+*Scraped **66,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,051
 economynextcom | 4,060
-dailyftlk | 4,698
+dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,374
 adaderanalk | 8,151
@@ -26,11 +26,95 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,420 articles have been extended.
+61,973 (93.3%) of 66,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### Chief Justice gives checklist to make Sri Lanka a “Just Republic”
+
+*2025-07-24 02:49:31* · [`dailyftlk`](https://www.ft.lk/news/Chief-Justice-gives-checklist-to-make-Sri-Lanka-a-Just-Republic/56-779413) · `en`
+
+In address at BASL Legal Symposium calls for ethical integrity, Constitutional values, and collaborative legal development
+
+Addressing the inaugural session of the Bar Association of Sri Lanka (BASL) Legal Symposium 2025, Chief Justice Murdu Fernando, PC, emphasised the importance of ethical integrity, Constitutional values, and collaborative legal development in steering Sri Lanka towards a “Just Republic.”
+
+This was the first Legal Symposium of the BASL held after the assumption of office by Rajeev Amarasuriya as the President of the Association.
+
+In her keynote address, Fernando expressed appreciation to the BASL for organising these Legal Symposiums and commended its efforts to engage outstation branches with the same vigour as its metropolitan counterpart. “This symposium, hosted in the South, amply showcases the BASL’s recognition of its outstation branches,” she noted, praising the inclusive outreach.
+
+...
+
+[Data](articles/152fc4cf.json)
+
+---
+
+### CC approves Preethi Padman as new Chief Justice
+
+*2025-07-24 02:48:33* · [`dailyftlk`](https://www.ft.lk/news/CC-approves-Preethi-Padman-as-new-Chief-Justice/56-779412) · `en`
+
+The Constitutional Council (CC) has ratified President Anura Kumara Disanayake’s nomination of Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka.
+
+Justice Surasena, one of the most senior justices in the Supreme Court, was recently nominated by the President.
+
+Chief Justice Murdu Fernando is scheduled to retire on 27 July and a new Chief Justice is to be appointed to fill the vacancy shortly.
+
+◼️
+
+[Data](articles/2571031f.json)
+
+---
+
+### Supreme Court rules 2022 emergency declaration by Ranil unconstitutional
+
+*2025-07-24 02:48:17* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-rules-2022-emergency-declaration-by-Ranil-unconstitutional/56-779411) · `en`
+
+The Supreme Court has ruled that the State of Emergency declared in 2022 by then Acting President Ranil Wickremesinghe was unconstitutional and violated fundamental human rights.
+
+In a majority decision of the three-judge bench, including Chief Justice Murdu Fernando and Justice Yasantha Kodagoda, it held that the emergency regulations issued under Section 2 of the Public Security Ordinance were arbitrary and invalid.
+
+The regulations had been enacted to control mass protests during the height of the Aragalaya movement. The Court determined that the imposition of emergency law disproportionately curtailed basic freedoms.
+
+Several petitioners, including former Commissioner of the Human Rights Commission of Sri Lanka Ambika Satkunanathan, filed the petitions challenging the validity of Emergency Regulation No. 1 of 2022, which was published in the Gazette Extraordinary dated 17 July 2022.
+
+...
+
+[Data](articles/2707316a.json)
+
+---
+
+### Unlock new trade  opportunities with Vietnam
+
+*2025-07-24 02:46:48* · [`dailyftlk`](https://www.ft.lk/business/Unlock-new-trade-opportunities-with-Vietnam/34-779410) · `en`
+
+The National Chamber of Commerce of Sri Lanka is set to host an exclusive Bilateral Trade and Investment session with the gracious presence of Vietnam’s Ambassador to Sri Lanka Trinh Thi Tam, on Wednesday, 30 July, from 2:30 p.m. to 4:30 p.m. at the Chamber Auditorium, No. 450, D.R. Wijewardena Mawatha, Colombo 10.
+
+This exclusive event will explore opportunities for the Sri Lankan business community to directly engage with the Vietnam Ambassador and gain firsthand insights into the Vietnam’s trade policies, investment climate, and the growing scope for bilateral collaboration. The Ambassador will highlight key areas of economic cooperation and discuss emerging sectors that offer potential for Sri Lankan businesses to explore.
+
+Key objectives of the session: Strengthening Sri Lanka-Vietnam trade and investment ties, gaining insights into Vietnam’s market dynamics and investment climate, fostering business connections for mutual economic growth.
+
+...
+
+[Data](articles/b93e09b6.json)
+
+---
+
+### Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government
+
+*2025-07-24 02:38:29* · [`dailyftlk`](https://www.ft.lk/columns/Progressive-or-retrogressive-Rationally-defining-AKD-s-Presidency-and-NPP-Government/4-779404) · `en`
+
+‘…estimated income poverty…remains stubbornly high, affecting as much as a quarter of the population in 2024, and twice as high as in 2021. The reversal in poverty reduction gains during the crisis has taken Sri Lanka back to its high poverty levels of the early 2000s…’
+
+‘…post crisis mass poverty level, [is] estimated to be 7–10 million individuals.’
+
+Many who are critical of the Anura administration still make the excuse that “at least it is catching those bloody crooks who bankrupted the country”. That’s way off mark.
+
+...
+
+[Data](articles/ae24440f.json)
+
+---
 
 ### தாவடி பகுதியில் நபர் ஒருவர் மீது கூரிய ஆயுதத்தால் தாக்குதல்!
 
@@ -1733,109 +1817,5 @@ Mr. Paitoon Mahapannaporn briefed the Speaker on upcoming activities planned und
 ...
 
 [Data](articles/3fa63faf.json)
-
----
-
-### No decision taken to curtail vehicle imports – CBSL Governor
-
-*2025-07-23 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110768/no-decision-taken-to-curtail-vehicle-imports-cbsl-governor) · `en`
-
-Neither the Central Bank of Sri Lanka (CBSL) nor the government has taken any decision to impose restrictions on vehicle imports at present, the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has clarified while responding to recent media reports.
-
-The Governor made this statement during a press briefing held at the CBSL today (23), following the announcement of the Central Bank’s monetary policy statement.
-
-When inquired by Ada Derana business correspondent regarding recent reports suggesting that the government and the Central Bank were contemplating on imposing restrictions on vehicle imports, Dr. Weerasinghe asserted that the market will remain open and the Central Bank has not paid any attention to restrict imports.
-
-...
-
-[Data](articles/9fed7cbf.json)
-
----
-
-### "ஒவ்வொரு நாள் காலையிலும் ஒரே கேள்வி மீண்டும் மீண்டும் காசாவில் எதிரொலிக்கின்றது ; இன்று எனக்கு உணவு கிடைக்குமா ? ; உணவுக்காக சொர்க்கத்திற்கு செல்ல விரும்பும் குழந்தைகள்" - பரவும் பட்டினிநிலை குறித்து மனிதாபிமான அமைப்புகள் எச்சரிக்கை
-
-*2025-07-23 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220714) · `ta`
-
-காசாவின் பல பகுதிகளிற்கு பட்டினிநிலை பரவ ஆரம்பித்துள்ளது என நூற்றிற்கும் மேற்பட்ட மனிதாபிமான அமைப்புகள் கூட்டாக எச்சரித்துள்ளன.
-
-சேவ் த சில்ரன் எல்லைகள் அற்ற மருத்துவர்கள் அமைப்பு உட்பட பல சர்வதேச அமைப்புகள் இந்த எச்சரிக்கையை விடுத்துள்ளன.
-
-பாலஸ்தீனியர்கள் நம்பிக்கை மற்றும் மனவேதனையின் பிடியில் சிக்குண்டுள்ளனர்இ அவர்கள் யுத்தநிறுத்தம்  மற்றும் மனிதாபிமான உதவிகளிற்காக காத்திருக்கின்றனர் ஆனால் அவர்கள் காலையில்  முன்னரை விட மோசமான நிலையிலேயே கண்விழிக்கின்றனர் என சர்வதேச மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
-
-இஸ்ரேலிய அரசாங்கத்தின் முற்றுகை தற்போது காசா மக்களை பட்டினியால் வாட்டிவதைக்கும் நிலையில் மனிதாபிமான பணியாளர்களும் பட்டினிகிடப்பவர்களின் பட்டியலில் இணைந்துகொள்கின்றனர்.
-
-மனிதாபிமான உதவிகள் தற்போது முற்றாக முடிவடைந்துள்ள நிலையில் தங்களின் பணியாளர்கள் வலுவிழப்பதை மனிதாபிமான அமைப்புகள் கண்முன்னால் பார்க்கின்றன.
-
-...
-
-[Data](articles/3a84410e.json)
-
----
-
-### சிறுமியை கர்ப்பிணி: காதலன், தந்தையர்கள் கைது
-
-*2025-07-23 12:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-கர்ப்பிணி-காதலன்-தந்தையர்கள்-கைது/175-361604) · `ta`
-
-பதினைந்து வயது சிறுமியை கர்ப்பமாக்கிய அந்த சிறுமியின் காதலன், அவளுக்கு ஆதரவளித்த சிறுமியின் தந்தை, காதலனின் தந்தை ஆகியோர் அத்திமலை பொலிஸாரினால் கடந்த 22 ஆம் திகதி கைது செய்யப்பட்டுள்ளனர்.
-
-சந்தேக நபரின் தந்தை அத்திமலை பொலிஸ் பிரிவுக்குட்பட்ட கொட்டகலையில் உள்ள வட்டாரம் பகுதியைச் சேர்ந்தவர்.
-
-தாய் வெளிநாட்டில் பணிப்பெண்ணாக பணியாற்றி வருகிறார். அந்த சிறுமி தனது தந்தையுடன் வசித்து வருகிறார்.
-
-அந்த சிறுமி இளைஞனுடன் காதல் உறவில் இருந்துள்ளார்.  காதலன், சிறுமியின் வீட்டிற்கு சென்று  கணவன்-மனைவியாக நடந்து கொண்டனர்.
-
-சந்தேக நபரின் 52 வயதுடைய தந்தை, பெண்ணின் தந்தையான 42 வயதுடைய நபரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார், அங்கு சிறுமி கர்ப்பமாக இருப்பது தெரியவந்தது.
-
-◼️
-
-[Data](articles/0ca01500.json)
-
----
-
-### சிறுமி கர்ப்பிணி: காதலன், தந்தையர்கள் கைது
-
-*2025-07-23 12:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-கர்ப்பிணி-காதலன்-தந்தையர்கள்-கைது/175-361604) · `ta`
-
-பதினைந்து வயது சிறுமியை கர்ப்பமாக்கிய அந்த சிறுமியின் காதலன், அவளுக்கு ஆதரவளித்த சிறுமியின் தந்தை, காதலனின் தந்தை ஆகியோர் அத்திமலை பொலிஸாரினால் கடந்த 22 ஆம் திகதி கைது செய்யப்பட்டுள்ளனர்.
-
-சந்தேக நபரின் தந்தை அத்திமலை பொலிஸ் பிரிவுக்குட்பட்ட கொட்டகலையில் உள்ள வட்டாரம் பகுதியைச் சேர்ந்தவர்.
-
-தாய் வெளிநாட்டில் பணிப்பெண்ணாக பணியாற்றி வருகிறார். அந்த சிறுமி தனது தந்தையுடன் வசித்து வருகிறார்.
-
-அந்த சிறுமி இளைஞனுடன் காதல் உறவில் இருந்துள்ளார்.  காதலன், சிறுமியின் வீட்டிற்கு சென்று  கணவன்-மனைவியாக நடந்து கொண்டனர்.
-
-சந்தேக நபரின் 52 வயதுடைய தந்தை, பெண்ணின் தந்தையான 42 வயதுடைய நபரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார், அங்கு சிறுமி கர்ப்பமாக இருப்பது தெரியவந்தது.
-
-◼️
-
-[Data](articles/3f2bf1be.json)
-
----
-
-### கறுப்பு ஜூலை  தமிழர்  தேசத்தின் மீதான தாக்குதல் : 13 இராணுவத்தினர் கொல்லப்படாவிட்டாலும் அது இடம்பெற்றிருக்கும் : கொல்லப்பட்ட தமிழர்களின் பல உடல்களை பார்த்தேன் என்கிறார் சட்டத்தரணி  ஸ்ரீநாத் பெரேரா
-
-*2025-07-23 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220703) · `ta`
-
-சட்டத்தரணி  ஸ்ரீநாத்பெரேரா தமிழ் மக்களிற்கான நீதி அவர்களின் அரசியல் அபிலாஷைகளிற்காக தென்பகுதியிலிருந்து தொடர்ச்சியாக குரல்கொடுத்து வரும் ஒருவர்.
-
-வடக்குகிழக்கில் தமிழ் மக்கள் தங்களது உரிமைக்காக போராடும் இடங்களில் எல்லாம் பார்க்ககூடிய தென்பகுதி முகம் அவர்
-
-அவ்வேளை நான் சட்டபீட மாணவனாகயிருந்தேன் ,24ம் திகதி நாங்கள் சட்டபீடத்தில் இருந்தவேளை அதனை சுற்றியுள்ள பகுதிகளில் இருந்து பெரும் புகைமண்டலம் எழுந்ததை பார்த்தோம்.
-
-சந்திரஹாசனின் துணைவியார் அவ்வேளை எங்களின்  சிரேஸ்ட விரிவுரையாளர்களில் ஒருவர்.அவர் அச்சத்தினால் நடுங்கியது எனக்கு இன்னமும் நினைவில் இருக்கின்றது.
-
-நான் அவரிடம் சென்று என்ன பிரச்சினை என கேட்டேன் அதற்கு அவர் தமிழர்களின் வீடுகள் தீக்கிரையாக்கப்படுகின்றன என தெரிவித்தார்.
-
-அந்த நாட்களில் எங்களின் ஊடகங்களாக செய்தித்தாள்களும் வானொலிகளும் மாத்திரம் காணப்பட்டன, தொலைக்காட்சியின் ஆரம்;ப நாட்கள்
-
-அன்று காலை முதல் நாள்( 23) 13 படையினர் கொல்லப்பட்டுள்ளனர் என்ற செய்தியை வாசித்திருந்தோம்.
-
-...
-
-[Data](articles/94027d90.json)
 
 ---

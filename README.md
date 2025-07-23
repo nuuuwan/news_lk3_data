@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 10:02:43**
+As of **2025-07-23 10:28:06**
 
 ## Newspaper Stats
 
-*Scraped **66,260** Articles*
+*Scraped **66,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 4,045
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,355
-adaderanalk | 8,121
-tamilmirrorlk | 9,537
-virakesarilk | 11,041
-adaderanasinhalalk | 11,383
+adalk | 6,357
+adaderanalk | 8,123
+tamilmirrorlk | 9,538
+virakesarilk | 11,042
+adaderanasinhalalk | 11,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.5%) of 66,260 articles have been extended.
+61,973 (93.5%) of 66,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### පාසල් ළමුන් ප්‍රවාහනය කළ බස් රථයක් අනතුරක - ළමුන් 16ක් රෝහලට
+
+*2025-07-23 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212543) · `si`
+
+බෙලිඅත්ත - වීරකැටිය මාර්ගයේ බෙලිගල්ල ප්‍රදේශයේ අද (23) උදෑසන 7.30ට පමණ පාසල් ළමුන් ප්‍රවාහනය කළ බස් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරට ලක්ව තිබේ.
+
+අනතුරින් පාසල් ළමුන් 16 දෙනෙකු පමණ තුවාල ලබා බෙලිගල්ල රෝහලට ඇතුළත් කර ඇති අතර, ඉන් කිහිපදෙනෙකු මේ වනවිට රෝහලෙන් පිටව ගොස් ඇත.
+
+මාර්ගයෙන් ඉවතට පැන මාර්ගයේ ඉවුරක ගැටී බස් රථය නැවතී ඇති බව අප වාර්තාකරු පැවසීය.
+
+මේ වනවිට ළමුන් 13 දෙනෙකු බෙලිඅත්ත, බෙලිගල්ල, තංගල්ල හා වීරකැටිය යන රෝහල්වල ප්‍රතිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/7c257eb4.json)
+
+---
+
+### ප්‍රේම සම්බන්ධතාවේ ආරවුල යුවළකට මරු කැඳවයි
+
+*2025-07-23 10:01:09* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රේම-සම්බන්ධතාවේ-ආරවුල-යුවළකට-මරු-කැඳවයි/11-417456) · `si`
+
+අද අළුයම් කාලයේ පදියතලාව, මරංගල ප්‍ර දේශයේදී පුද්ගලයෙක් විසින් නිවසකට ඇතුළු වී එම නිවසේ සිටි තරුණියකට තියුණු ආයුධයකින් පහරදී ඝාතනය කර ඇයගේ මව හා පියාට තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර ඇතැයි පොලීසිය කියයි. පසුව ඒම සැකකාර පුද්ගලයාද දිවි නසාගෙන තිබේ.
+
+මරණකාරිය අවුරුදු  22 ක් වූ මරංගල ප්‍ර දේශයේ පදිචිකාරියක් වන අතර සියදිවි නසාගෙන ඇති සැකකරු අවුරුදු 31 ක්  වූ මොනරාගල පදිචිකරුවෙකි.
+
+මරණකාරිය හා මරණකරු අතර පැවැති ප්‍රේම සම්බන්ධතාවක්  මත ඇතිවූ ආරවුලක් මත මෙම සිදුවීම සිදුව ඇති බවට මූලික විමර්ශනවලදී අණාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/4adbabe5.json)
+
+---
+
+### கோப்பின் கோவணம் அவிழ்ந்தது
+
+*2025-07-23 09:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கோப்பின்-கோவணம்-அவிழ்ந்தது/62-361588) · `ta`
+
+◼️
+
+[Data](articles/7c278a23.json)
+
+---
 
 ### ஓரிரவு கொள்கை வீதத்தில் மாற்றமில்லை
 
@@ -112,6 +156,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### நாரஹேன்பிட்டியில் வீடொன்றில் தீ விபத்து ; ஒருவர் உயிரிழப்பு
+
+*2025-07-23 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220692) · `ta`
+
+நாரஹேன்பிட்டி பொலிஸ்பிரிவுக்குட்பட்ட 397 ஆம் தோட்ட பகுதியில் உள்ள  வீடொன்றில் இன்று புதன்கிழமை (23) அதிகாலை ஏற்பட்ட தீ விபத்தில் நபரொருவர் உயிரிழந்துள்ளார்.
+
+குறித்த நபர் தீ விபத்தில் சிக்கி பலத்த தீக்காயங்களுக்குள்ளான நிலையில் பொலிஸாரால் கொழும்பு வைத்தியசாலையில் அனுமதிக்கபட்டு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர், குறித்த வீட்டில் வாடகைக்கு குடியிருந்த 50 வயதுடையவர் என தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தீ விபத்துக்கான காரணம் இன்னும் அறியப்படவில்லை. சம்பவம் தொடர்பில் நாரஹேன்பிட்டி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/fa3e562a.json)
+
+---
+
 ### அடுத்த 24 மணி நேரம் தொடர்பில் விடுக்கப்பட்ட எச்சரிக்கை
 
 *2025-07-23 09:04:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணி-நேரம்-தொடர்பில்-விடுக்கப்பட்ட-எச்சரிக்கை/175-361583) · `ta`
@@ -147,6 +209,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f53b883b.json)
+
+---
+
+### Man dies in house fire in Narahenpita
+
+*2025-07-23 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/110757/man-dies-in-house-fire-in-narahenpita) · `en`
+
+An individual has died in a fire that broke out at a residence in the ‘397 Waththa’ area of the Narahenpita Police Division early this morning (23).
+
+The person who was trapped in the fire and suffered severe burn injuries was admitted to the Colombo National Hospital by the police. However, he later succumbed to his injuries.
+
+The deceased has been identified as a tenant, around 50-years old, who was residing in the house, police said.
+
+The cause of the fire is not yet known, and the Narahenpita Police are conducting further investigation into the incident.
+
+◼️
+
+[Data](articles/b320be9d.json)
+
+---
+
+### Youth commits suicide after murdering girlfriend, injuring her parents
+
+*2025-07-23 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110756/youth-commits-suicide-after-murdering-girlfriend-injuring-her-parents) · `en`
+
+A young woman residing in the Marangala area of Padiyathalawa, Ampara, has been found murdered after having her throat slit by her boyfriend who had later committed suicide by slitting his own throat.
+
+The young man in question, who had arrived at the woman’s residence on a motorcycle, committed the crime and also inflicted cuts on the victim’s mother and father.
+
+However, the injured mother and father are currently receiving treatment at the Mahaoya Base Hospital.
+
+The deceased is a 23-year-old woman named Saroja Udayangani, and the young man who committed the murder has been identified as a 31-year-old resident of the Monaragala area.
+
+The investigation conducted so far has revealed that a dispute over the romantic relationship between the deceased and her boyfriend, who committed the murder, had led to this incident.
+
+Both bodies are currently under police protection at the scene of the incident, and a magisterial inquiry is scheduled to be conducted in this regard.
+
+◼️
+
+[Data](articles/22133653.json)
 
 ---
 
@@ -199,6 +301,26 @@ Marcos’ government indicated ahead of the meeting that he was prepared to offe
 ...
 
 [Data](articles/11be28c8.json)
+
+---
+
+### ජපානය සමග සාර්ථක ගනුදෙනුවට  පිවිසි බව ට්‍රම්ප් කියයි
+
+*2025-07-23 08:04:41* · [`adalk`](https://www.ada.lk/international/ජපානය-සමග-සාර්ථක-ගනුදෙනුවට--පිවිසි-බව-ට්‍රම්ප්-කියයි/3-417455) · `si`
+
+එක්සත් ජනපදය සහ ජපානය මෝටර් රථ ඇතුළුව ජපානයෙන් එක්සත් ජනපදයට ආනයන කරනු ලබන භාණ්ඩ වෙනුවෙන් පෙර සඳහන් කළ ප්‍රමාණයටත් වඩා අඩු බදු ප්‍රතිශතයක් වෙනුවෙන් ගණුදෙනුවකට එකඟ වූ බව එක්සත් ජනපති ජනපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කරයි.
+
+සිය Truth සමාජ මාධ්‍ය ගිණුමේ සටහනක් තබමින් ට්‍රම්ප් පැවැසුවේ මෙම ගිවිසුම හරහා එක්සත් ජනපදයට ජපනයෙන් ඩොලර් බිලියන 550 ක පමණ ආයෝජන ඇතුළත් බවයි.
+
+ජපානය ඇමරිකානු නිෂ්පාදන වන මෝටර් රථ, ට්‍රක් රථ, සහල් සහ ඇතැම් කෘෂිකාර්මික නිෂ්පාදන ඇතුළු අනෙකුත් භාණ්ඩ සඳහා වෙළඳපොළ ප්‍රවේශය වැඩි කිරීමට නියමිත බවද ඔහු පැවැසීය.
+
+ට්‍රම්ප්ගේ සටහනේ ජපන් මෝටර් රථ සඳහා තීරුබදු ලිහිල් කිරීම ගැන කිසිදු සඳහනක් නොතිබූ අතර එය එක්සත් ජනපදයට කරන රටේ සියලුම අපනයනවලින් හතරෙන් එකකට වඩා වැඩි වන අතර 25% ක තීරුබදුවකට යටත් වේ. නමුත් ජපන් රජයේ නිලධාරියෙකු උපුටා දක්වමින් NHK වාර්තා කළේ මෙම ගනුදෙනුව මෝටර් රථ තීරුබදු 15% දක්වා අඩු කරන බවයි.
+
+“මෙය ඇමරිකා එක්සත් ජනපදයට ඉතා උද්යෝගිමත් කාලයක් වන අතර, විශේෂයෙන් අපි සැමවිටම ජපනය සමඟ විශිෂ්ට සම්බන්ධතාවයක් පවත්වා ගෙන යනු ඇත,” ට්‍රම්ප් සමාජ මාධ්‍ය වේදිකාවේ පැවසීය.
+
+...
+
+[Data](articles/d69ff3f6.json)
 
 ---
 
@@ -1631,121 +1753,5 @@ Between 27 May and 21 July, 766 Palestinians have been killed around GHF sites, 
 ◼️
 
 [Data](articles/ee693478.json)
-
----
-
-### විදුලිබල පනත විවාදයට නොගනී
-
-*2025-07-22 18:41:36* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත-විවාදයට-නොගනී/11-417451) · `si`
-
-ලබන 24 වැනිදා දෙවැනිවර කියවීමේ විවාදය පැවැත්වීමට නියමිත ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත එදින විවාදයට නොගෙන ඉදිරි දිනකදී විවාදයට ගැනීමට කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (22) පැවැති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදි තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
-
-ඒ වෙනුවට ආණ්ඩුව විසින් ගෙනෙනු ලබන යෝජනාවකට අනුව “යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ” පිළිබඳ සභාව කල්තැබීමේ විවාදය එදින ප.ව 5.30 දක්වා පැවැත්විමටත් මෙහිදි තිරණය වී ඇත. ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත සම්බන්ධ තාක්ෂණික කාරණා හේතුවෙන් මෙම තීරණය ගෙන ඇති අතර අදාළ කටයුතු අවසන් වීමෙන් පසු නැවත ඉදිරි පාර්ලිමේන්තු දිනක දී පනත් කෙටුම්පත විවාදයට ගැනීමට නියමිතව තිබේ
-
-◼️
-
-[Data](articles/f89cacd0.json)
-
----
-
-### மகனின் கைது குறித்து சபையில் உணர்ச்சிவசமானார் ஜகத்
-
-*2025-07-22 18:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனின்-கைது-குறித்து-சபையில்-உணர்ச்சிவசமானார்-ஜகத்/175-361549) · `ta`
-
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகள் விற்ற வாகனம் தொடர்பாக தனது மகன் சமீபத்தில் கைது செய்யப்பட்டதைத் தொடர்ந்து, ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதான, பாராளுமன்றத்தில் உணர்ச்சிபூர்வமான உரையை நிகழ்த்தினார்.
-
-நல்ல முறையில் வாங்கப்பட்டு தனது உதவியின் கீழ் பதிவு செய்யப்பட்ட வாகனம், பொலிஸாரின் முன்னறிவிப்பு இல்லாமல் தடுத்து நிறுத்தியபோது தனது மகனால் ஓட்டப்பட்டதாக விதான கூறினார். "நான் அதே வாகனத்தில் குறைந்தது பத்து முறையாவது பாராளுமன்றத்திற்குச் சென்றிருக்கிறேன். ஏதேனும் பிரச்சினை எனக்குத் தெரிந்திருந்தால், அத்தகைய பிரச்சினை குறித்து எனக்குத் தெரிவிக்கப்பட்டிருந்தால், நான் அதை ஒப்படைத்திருப்பேன் அல்லது ஒரு அறிக்கையை வெளியிட்டிருப்பேன்," என்று அவர் கூறினார்.
-
-தனது மகளால் குறித்த வாகனம் விற்கப்பட்டதாக பாராளுமன்ற உறுப்பினர் அபேகுணவர்தன ஒப்புக்கொண்டதாகவும், ஆனால் இந்த விவகாரம் குறித்து தனக்கு எதுவும் தெரியாது என்றும் அவர் கூறியதாக ஜகத் தெரிவித்தார்.
-
-முறையான பதிவு இருந்தபோதிலும், விதானவின் மகன் பிணை மறுக்கப்பட்டு 14 நாட்கள் காவலில் வைக்கப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/b0fdda84.json)
-
----
-
-### Air India flight catches fire after landing at Delhi airport; passengers and crew safe
-
-*2025-07-22 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110744/air-india-flight-catches-fire-after-landing-at-delhi-airport-passengers-and-crew-safe) · `en`
-
-An Air India flight from Hong Kong to Delhi caught fire shortly after it landed at Delhi’s Indira Gandhi Airport on Tuesday. Though the aircraft suffered some damage, passengers and crew members disembarked normally and are safe, CNN-News18 reported citing airline spokesperson.
-
-After completing its journey from Hong Kong to Delhi on July 22, Air India Flight AI 315 reported an auxiliary power unit (APU) fire soon after it had landed and was stationed at the gate.
-
-“Flight AI 315, operating from Hong Kong to Delhi on 22 July 2025, experienced an auxiliary power unit (APU) fire shortly after it had landed and parked at the gate. The incident occurred while passengers had begun disembarking, and the APU was automatically shut down as per system design,” the spokesperson said in a statement.
-
-The aircraft has been grounded for further investigations and the regulator has been duly notified, the spokesperson added.
-
-...
-
-[Data](articles/63c72218.json)
-
----
-
-### සේවකයන්ගේ අයවැය සහන දීමනා පනතට පක්ෂව විපක්ෂයත් ඡන්දය දෙයි
-
-*2025-07-22 18:33:10* · [`adalk`](https://www.ada.lk/breaking_news/සේවකයන්ගේ-අයවැය-සහන-දීමනා-පනතට-පක්ෂව-විපක්ෂයත්-ඡන්දය-දෙයි/11-417450) · `si`
-
-සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත (2005 අංක 36 දරන පනත සංශෝධනය සඳහා), සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත (2016 අංක 4 දරන පනත සංශෝධනය සඳහා) සහ සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත යන පනත් කෙටුම්පත් ත්‍රිත්වය අද (22) පාර්ලිමේන්තුවේදී සම්මත විය.
-
-මෙහිදී සේවකයන්ගේ අයවැය සහන දීමනා (සංශෝධන) පනත් කෙටුම්පත දෙවනවර කියවීමට අදාළ ඡන්ද විමසීමේදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 182 හිමිවූ අතර විපක්ෂව කිසිදු ඡන්දයක් නොලැබුණි. කාරක සභා අවස්ථාවේදී පනත් කෙටුම්පත සලකා බැලීමෙන් අනතුරුව පැවති තෙවන වර කියවීමේ ඡන්ද විමසීමේදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 181 ක් හිමි වූ අතර විපක්ෂව කිසිදු ඡන්දයක් නොලැබුණි.
-
-එසේම සේවකයන්ගේ අයවැය සහන දීමනාව (සංශෝධන) පනත් කෙටුම්පත දෙවනවර කියවීමට අදාළ ඡන්ද විමසීමේදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 180 හිමිවූ විපක්ෂව කිසිදු ඡන්දයක් නොලැබුණි. අනතුරුව කාරක සභා අවස්ථාවේදී පනත් කෙටුම්පත සලකා බැලීමෙන් අනතුරුව පැවති තෙවන වර කියවීමේ ඡන්ද විමසීමේදී මෙම පනත් කෙටුම්පට පක්ෂව ඡන්ද 181 ක් හිමි වූ අතර විපක්ෂව කිසිදු ඡන්දයක් නොලැබුණි.
-
-...
-
-[Data](articles/a572b7eb.json)
-
----
-
-### US withdraws from UNESCO again, this time due to its support for ‘woke’ causes
-
-*2025-07-22 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110743/us-withdraws-from-unesco-again-this-time-due-to-its-support-for-woke-causes) · `en`
-
-The United States withdrew from the United Nations cultural organization UNESCO on Tuesday, saying continued involvement was not in the US national interest.
-
-“UNESCO works to advance divisive social and cultural causes and maintains an outsized focus on the UN’s Sustainable Development Goals, a globalist, ideological agenda for international development at odds with our America First foreign policy,” State Department spokeswoman Tammy Bruce said in a statement.
-
-White House deputy spokesperson, Anna Kelly, earlier told the New York Post daily newspaper that the withdrawal was due to UNESCO’s support for “ woke, divisive cultural and social causes that are totally out-of-step with the commonsense policies that Americans voted for in November”.
-
-The move, which will take place at the end of December 2026, is a blow to the Paris-based agency, founded after World War II to promote peace through international cooperation in education, science, and culture.
-
-...
-
-[Data](articles/e6bcb478.json)
-
----
-
-### இலங்கை மின்சார திருத்தச் சட்டமூலம் விவாதத்துக்கு வராது
-
-*2025-07-22 18:24:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மின்சார-திருத்தச்-சட்டமூலம்-விவாதத்துக்கு-வராது/175-361548) · `ta`
-
-எதிர்வரும் 24 ஆம் திகதி இரண்டாவது மதிப்பீட்டுக்காக விவாதத்துக்கு எடுத்துக்கொள்ளப்படவிருந்த இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலத்தை அன்றைய தினம் விவாதத்துக்கு எடுத்துக்கொள்ளாமல் இருக்க தீர்மானிக்கப்பட்டுள்ளது.
-
-சபாநாயகர்  ஜகத் விக்கிரமரத்ன தலைமையில் இன்று செவ்வாய்க்கிழமை (22) கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்தில் இது தீர்மானிக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
-
-அதற்கமைய, அன்றைய தினத்தில் ஆளும் கட்சியினால் கொண்டுவரப்படும் பிரேரணைக்கு அமைய ‘உத்தேச புதிய கல்வி மறுசீரமைப்பு’ தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தை மாலை  5.30 மணி வரை நடத்துவதற்கு இதன்போது தீர்மானிக்கப்பட்டது.
-
-இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் தொடர்பான தொழில்நுட்ப விடயங்கள் காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதுடன்,சம்பந்தப்பட்ட நடவடிக்கைகள் நிறைவடைந்ததன் பின்னர் மற்றுமொரு பாராளுமன்ற அமர்வு தினமொன்றில் இந்தச் சட்டமூலம் விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
-
-◼️
-
-[Data](articles/77073a58.json)
-
----
-
-### 3 சட்டமூலங்கள் நிறைவேற்றப்பட்டன
-
-*2025-07-22 18:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சட்டமூலங்கள்-நிறைவேற்றப்பட்டன/175-361547) · `ta`
-
-வேலையாட்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்)சட்டமூலம், வேலையாளர்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம்மற்றும் வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனம் (திருத்தச்) சட்டமூலம்என்பன பாராளுமன்றத்தில் நிறைவேற்றம்
-
-வேலையாட்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் 2005ஆம் ஆண்டின் 36ஆம் இலக்க சட்டத்தைத் திருத்துவதற்கானது) வேலையாளர்களின் வரவுசெலவுத்திட்ட நிவாரணப்படி (திருத்தச்) சட்டமூலம் (2016ஆம் ஆண்டின் 4ஆம் இலக்க சட்டத்தைத் திருத்துவதற்கானது) மற்றும் வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனம் (திருத்தச்) சட்டமூலம் ஆகிய மூன்று சட்டமூலங்கள் இன்று (22) பாராளுமன்றத்தில் விசேட பெரும்பான்மையுடன் நிறைவேற்றப்பட்டன.
-
-...
-
-[Data](articles/fedbece1.json)
 
 ---

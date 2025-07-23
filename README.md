@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 18:59:50**
+As of **2025-07-23 19:26:21**
 
 ## Newspaper Stats
 
-*Scraped **66,361** Articles*
+*Scraped **66,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,369
-adaderanalk | 8,144
+adalk | 6,370
+adaderanalk | 8,146
 tamilmirrorlk | 9,566
 virakesarilk | 11,054
-adaderanasinhalalk | 11,399
+adaderanasinhalalk | 11,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,361 articles have been extended.
+61,973 (93.4%) of 66,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට
+
+*2025-07-23 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212562) · `si`
+
+රුපියල් මිලියන 12 ක පමණ වටිනාකමකින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු රාජගිරිය ප්‍රදේශයේ අත්අඩංගුවට ගෙන තිබේ.
+
+යුද්ධ හමුදා බුද්ධි අංශය වෙත ලද තොරතුරක් මත බත්තරමුල්ල සුරා බදු විශේෂ මෙහෙයුම් ඒකකයේ නිළධාරීන් සමඟ එක්ව සිදුකරන ලද වැටලීමකදී මෙම මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇති බව යුද හමුදාව පැවසුවේය.
+
+එහිදී කුෂ් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 02 ක් සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු තලවතුගොඩ, පන්නිපිටිය ප්‍රදේශයේ පදිංචි අයෙකු වන අතර බත්තරමුල්ල සුරාබදු විශේෂ මෙහෙයුම් ඒකකය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/033a0427.json)
+
+---
 
 ### சட்டவிரோத அரகலய கைது;ஜனாதிபதி வேட்பாளரின் மனு விசாரணைக்கு
 
@@ -70,6 +88,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Air India crash: Wrong bodies sent to grieving families in UK
+
+*2025-07-23 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110782/air-india-crash-wrong-bodies-sent-to-grieving-families-in-uk) · `en`
+
+Multiple British families of Air India 171 crash have received wrong bodies, according to a report.
+
+On June 12, the London-bound AI 171 flight crashed shortly after take-off in Gujarat’s Ahmedabad. Out of the 260 deceased, 52 were British nationals. Their remains were identified by genetic testing and dental records and transported to the United Kingdom.
+
+The Daily Mail has now reported that the identification and transportation of bodies was botched up in multiple cases.
+
+These errors came to light after Inner West London coroner Dr Fiona Wilcox sought to verify the remains of British nationals transported from India by matching their DNA with samples provided by the families, as per the newspaper.
+
+India’s foreign ministry said that they were aware of the report “and have been working closely with the UK side from the moment these concerns and issues were brought to our attention”.
+
+...
+
+[Data](articles/7a71b29a.json)
+
+---
+
 ### புதிய பிரதம நீதியரசர் பத்மன் சூரசேன
 
 *2025-07-23 17:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-பத்மன்-சூரசேன/175-361629) · `ta`
@@ -105,6 +143,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9506c5b9.json)
+
+---
+
+### Ex-Batticaloa OIC held under PTA for concealing info linked to Easter attacks
+
+*2025-07-23 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110781/ex-batticaloa-oic-held-under-pta-for-concealing-info-linked-to-easter-attacks) · `en`
+
+The Special Unit of the Criminal Investigation Department has informed the Colombo Fort Magistrate’s Court that a former Officer-in-Charge (OIC) of the Batticaloa Police is being detained and interrogated under the Prevention of Terrorism Act (PTA) in connection with an investigation related to the Easter Sunday attacks.
+
+The CID informed court that he was taken into custody on suspicion of concealing sensitive information related to the killing of two police officers in Vavunathivu and the incident involving the discovery of explosives in Sainthamaruthu, misdirecting the investigation by making misleading notes, suppressing evidence, and failing to disclose critical information.
+
+The CID further stated that the former OIC is currently being detained and questioned under a 72-hour detention order and, if necessary, they will seek court approval to extend the detention period for further questioning.
+
+◼️
+
+[Data](articles/0d4332f4.json)
 
 ---
 
@@ -311,6 +365,26 @@ The awareness session for media personnel representing various media organizatio
 ◼️
 
 [Data](articles/a4de55a0.json)
+
+---
+
+### කොත්තු කඩ හා වඩේ දමා කෝටිපතියන් වන ක්‍රමය නවතා දැමිය යුතුයි
+
+*2025-07-23 16:32:04* · [`adalk`](https://www.ada.lk/breaking_news/කොත්තු-කඩ-හා-වඩේ-දමා-කෝටිපතියන්-වන-ක්‍රමය-නවතා-දැමිය-යුතුයි/11-417468) · `si`
+
+කොත්තු කඩ සහ වඩේ දැමීම වැනි කටයුතු කරමින් සිටියදී මුදල් විශුද්ධි කරණය හරහා කෝටිපතියන් වන ක්‍රමය නවතා දැමිය යුතු බව සංචරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා පැවසීය.
+
+මුදල් විශුද්ධිකරණය සම්බන්ධයෙන් ලෝකයේ රටවල් 164 ක් අතරින් ශ්‍රී ලංකාව 80 වැනි ස්ථානයේ සිටින බව ද අද (23දා) පාර්ලිමේන්තුවේ පැවති සමාගම්(සංශෝධන) පනත් කෙටුම්පත  දෙවැනිවර කියවීමේ විවාධයට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත්  නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"ජාත්‍යන්තර මූල්‍ය අරමුදල කියනවා ලෝක ආර්ථිකයේ නිෂ්පාදිතයෙන් 2%-5%ත් අතර ප්‍රමාණයක් මුදල් විශුද්ධිකරණය, මේ කළු මුදල් තිබෙන්නේ කියලා. මම පුද්ගලිකව අදහස් කරනවා ශ්‍රී ලංකාවේ ඊට වඩා විශාල වශයෙන් වැඩියි.
+
+ලෝකයේ රටවල් 164කින් ගත්තොත් මේ මුදල් විශුද්ධිකරණයට අදාළව රෑන්ක් කරනවා 0 සිට 10 වෙනකන්. 0 නම් ඉතාම හොඳයි. මුදල් විශුද්ධිකරණයක් වෙන්නේ නෑ රටේ. ඒත් 10යි නම් සම්පූර්ණයෙන්ම මුදල් විශුද්ධි කරන ආර්ථිකයක් යෙන්නේ. එහෙම විශාල රිස්ක් එකක් ඇවිල්ලා තියෙන්නේ හයිටි කියන රටේ. 8.25%යි මුදල් විශුද්ධිකරණයේ ඔවුන්ට ලැබිලා තියෙන අගය.
+
+...
+
+[Data](articles/32a9aada.json)
 
 ---
 
@@ -1735,81 +1809,5 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 ◼️
 
 [Data](articles/e0017697.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bonds steady after CB keeps rates unchanged
-
-*2025-07-23 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-after-cb-keeps-rates-unchanged-232394/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.65/80 to the US dollar in the spot market Wednesday, from 301.70/75 the previous day, while there was a slight uptick on the 2028 bond tenors with the rest of the yield curve broadly steady following the monetary policy announcement, dealers said.
-
-An auction of Rs. 111,000 million Treasury bills was ongoing.
-
-A bond maturing on 15.09.2027 was quoted at 8.50/55 percent, down from 8.45/56 percent.
-
-A bond maturing on 15.12.2028 was quoted at 9.00/10 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.53/55 percent, up from 9.48/53 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent.
-
-Meanwhile, stocks opened up; The ASPI was up 0.43%, or 82.01 points, at 19,173.94; The S&P SL20 was up 0.35%, or 19.75 points, at 5,677.37. (Colombo/July23/2025)
-
-◼️
-
-[Data](articles/1dbf5feb.json)
-
----
-
-### வவுணதீவு விவகாரம்: தவறான தகவலை வழங்கிய பொலிஸ் பரிசோதகர் கைது
-
-*2025-07-23 09:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுணதீவு-விவகாரம்-தவறான-தகவலை-வழங்கிய-பொலிஸ்-பரிசோதகர்-கைது/175-361586) · `ta`
-
-வவுணதீவு வலையிறவு பாலத்திற்கு அருகாமையில் இரு பொலிஸாரை துப்பாக்கியால் சுட்டும் வெட்டியும் கொலை செய்துள்ளதாக பிழையான தகவலை வழங்கிய, அப்போது மட்டு. புலனாய்வு பிரிவு பொறுப்பதிகாரியாக கடமையாற்றியவரும் தற்போது கந்தளாய் பொலிஸ் நிலையத்தில் கடமையாற்றிவருமான பொலிஸ் பரிசோதகர் ஒருவர்  திங்கட்கிழமை (21)  அன்று சி.ஐ.டி யினரால் கொழும்பில் வைத்து கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/7f802260.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
-
-*2025-07-23 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212541) · `si`
-
-මේ අතර, ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත හෙට (24) දින විවාදයට නොගැනීමට  පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදි තීරණය කර තිබේ.
-
-අදාළ පනත් කෙටුම්පත හෙට දින විවාදයට ගැනීමට කලින් තීරණය කර තිබුණි.
-
-පාර්ලිමේන්තු සන්නිවේදන අංශය පැවසුවේ කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (22) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදි එම විවාදය ඉදිරි දිනක පැවැත් වීමට තීරණය කර ඇති බවය.
-
-ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත සම්බන්ධ තාක්ෂණික කාරණා හේතුවෙන් මෙම තීරණය ගෙන ඇති බව සඳහන්ය.
-
-අදාළ කටයුතු අවසන් වීමෙන් පසු නැවත ඉදිරි පාර්ලිමේන්තු දිනක දී මෙම පනත් කෙටුම්පත විවාදයට ගැනීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන අංශය පැවසුවේය.
-
-ආණ්ඩුව විසින් ගෙනෙනු ලබන යෝජනාවකට අනුව "යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ" පිළිබඳ සභාව කල්තැබීමේ විවාදය ඒ වෙනුවට හෙට දින පැවැත්වීමට තීරණය කර ඇති බව සඳහන්ය.
-
-අදාළ කල්තැබීමේ විවාදය හෙට පස්වරු  5.30 දක්වා පැවැත්වීමට මෙහිදි තීරණය වී තිබේ.
-
-◼️
-
-[Data](articles/4beedaef.json)
-
----
-
-### தொண்டை அறுக்கப்பட்ட நிலையில் ஜோடி சடலம் மீட்பு
-
-*2025-07-23 09:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொண்டை-அறுக்கப்பட்ட-நிலையில்-ஜோடி-சடலம்-மீட்பு/175-361584) · `ta`
-
-ஓர் இளைஞனும் இளம் பெண்ணும் தொண்டை அறுக்கப்பட்ட நிலையில் இறந்து கிடந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-மேலும், அவரது காதலன் தனது காதலியின் கழுத்தை அறுத்துவிட்டு, பின்னர் தனது கழுத்தையும் அறுத்துக் கொண்டதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-இந்நிலையில், அந்த வீட்டில் வசித்த பெண்ணின் தந்தை மற்றும்  தாய் ஆகிய இருவரும் வெட்டுக்காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என்றும் ​பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/57a702a9.json)
 
 ---

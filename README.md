@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 17:05:29**
+As of **2025-07-23 17:17:52**
 
 ## Newspaper Stats
 
-*Scraped **66,344** Articles*
+*Scraped **66,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,367
+adalk | 6,368
 adaderanalk | 8,139
-tamilmirrorlk | 9,561
+tamilmirrorlk | 9,563
 virakesarilk | 11,053
 adaderanasinhalalk | 11,395
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,344 articles have been extended.
+61,973 (93.4%) of 66,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### கறுப்பு ஜூலை நினைவு தினம்
+
+*2025-07-23 16:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கறுப்பு-ஜூலை-நினைவு-தினம்/175-361624) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தில் பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டில்  புதன்கிழமை (23) கறுப்பு ஜூலை நினைவுதினம் உணர்வுபூர்வமாக அனுஷ்டிக்கப்பட்டது.
+
+பல்கலைக்கழக பிரதான வளாகத்தில் கறுப்பு ஜூலை நினைவுருவ படத்திற்கு மாணவர்களால் அகவணக்கம் செலுத்தப்பட்டு மலரஞ்சலி செலுத்தப்பட்டது.
+
+1983 கறுப்பு ஜூலை வாரத்தில் தமிழிர்களுக்கு இழைக்கபட்ட அநீதிகள் தொடர்பான நினைவுரையும் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/789e084a.json)
+
+---
 
 ### 2026 ஆண்டு  நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம்
 
@@ -45,6 +61,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4a617613.json)
+
+---
+
+### 2026 ஆண்டு  முதல் புதிய கல்விச் சீர்திருத்தம்
+
+*2025-07-23 16:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-ஆண்டு-முதல்-புதிய-கல்விச்-சீர்திருத்தம்/175-361622) · `ta`
+
+கல்வியை அளவிடும் பாரம்பரியப் பரீட்சை முறைக்கு மாற்றாக, தொகுதி முறை (module) கல்வித் திட்டத்தை அறிமுகப்படுத்தியிருப்பதாக கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்துள்ளார். இதன் முக்கிய நோக்கம் மாணவர்களுக்கு தரமான கல்வியை வழங்குவதாகும் என்றும் அவர் சுட்டிக்காட்டினார்.
+
+2026 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம் குறித்து, ஜூலை 23 ஆம் திகதி பத்தரமுல்லை இசுருபாயவில் உள்ள கல்வி அமைச்சில் நடைபெற்ற ஊடகவியலாளர்களுக்கான விழிப்புணர்வு நிகழ்வில் பிரதமர் இதனைக் கூறினார்.
+
+இந்த சீர்திருத்தம் குறித்த விளக்கங்களை கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ மற்றும் தேசிய கல்வி நிறுவனத்தின் பணிப்பாளர் கலாநிதி அசோக டி சில்வா ஆகியோர் ஊடக நிறுவனங்களின் ஊடகவியலாளர்களுக்கு வழங்கினர்.
+
+...
+
+[Data](articles/51b33a69.json)
 
 ---
 
@@ -93,6 +125,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6db6bc49.json)
+
+---
+
+### විශේෂඥ වෛද්‍යවරු රට හැර නොයා මෙරට තුළ රැදී සිටීමේ ප්‍රවණතාවයක්
+
+*2025-07-23 16:09:30* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂඥ-වෛද්‍යවරු-රට-හැර-නොයා-මෙරට-තුළ-රැදී-සිටීමේ-ප්‍රවණතාවයක්/11-417466) · `si`
+
+·     එරාවුර් රෝහල මුලික රෝහලක් ලෙස උසස් කිරීමට අමාත්‍යවරයාගේ අවධානය.
+
+·     සෞඛ්‍ය සේවාවේ පැරණි පුරප්පාඩු ලේඛනය මේ වසරේ යථාවත් කිරීමට පියවර.
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා නැගෙනහිර පළාතේ මඩකලපුව දිස්ත්‍රික්කයේ රෝහල් සහ සෞඛ්‍ය ආයතනවලින් ජනතාවට ලබාදෙනු ලබන සෞඛ්‍ය සේවාවන් හි වත්මන් තත්ත්වයන් පිළිබද විශේෂ නිරීක්ෂණයක නිරත වෙමින් මඩකලපුව දිස්ත්‍රික්කයේ එරාවූර් රෝහලේ විශේෂ නිරීක්ෂණයක පසුගිය දා නිරත විය.
+
+එම නිරීක්ෂණයෙන් අනතුරුව එරාවූර් රෝහලේ පාලනාධිකාරිය සහ රෝහල් කාර්ය මණ්ඩලය සමග රෝහල් ශ්‍රවණාගාරයේ දී  රෝහලේ පවතින ගැටළු නිරාකරණය උදෙසා  පැවැති විශේෂ සාකච්ඡාවේ දී අමාත්‍යවරයා ඉහත කරුණු අනාවරණය කරන ලදි.
+
+...
+
+[Data](articles/d95787f4.json)
 
 ---
 
@@ -1771,65 +1821,5 @@ The central bank has so far been running broadly deflationary policy, providing 
 ...
 
 [Data](articles/0a5ce96e.json)
-
----
-
-### Japan gets 15-pct Trump tariff, Indonesia and Philippines 19-pct as Sri Lanka continues talks
-
-*2025-07-23 07:27:00* · [`economynextcom`](https://economynext.com/japan-gets-15-pct-trump-tariff-indonesia-and-philippines-19-pct-as-sri-lanka-continues-talks-232268/) · `en`
-
-ECONOMYNEXT – Japan has got a 15 percent tariff, President Donald Trump said in a social media post shortly after announcing a 19 percent rate for Indonesia and the Philippines as Sri Lanka continues talks.
-
-“You have been unbelievable allies, because you are really allies, that’s what you’ve been. We appreciate it,” he said speaking to congressmen.
-
-“Some were very difficult but you got there. Some had little confidence. They came in early and we appreciate that. We just appreciate everybody.”
-
-Japan will invest 550 billion US dollar in the US, Trump also making a claim that that the US will get 90 percent of the profits, in reference that was not clear.
-
-“This Deal will create Hundreds of Thousands of Jobs — There has never been anything like it,” Trump said in a post on his his truthsocial.com site.
-
-“Perhaps most importantly, Japan will open their Country to Trade including Cars and Trucks, Rice and certain other Agricultural Products, and other things.
-
-...
-
-[Data](articles/f69f1985.json)
-
----
-
-### Sri Lanka parliament not to debate Electricity Act changes on July 24
-
-*2025-07-23 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-not-to-debate-electricity-act-changes-on-july-24-232310/) · `en`
-
-ECONOMYNEXT – Sri Lanka will not debate an amendment to the Electricity Act on July 24 as scheduled, the parliametn said in a statement.
-
-“This decision has been taken due to technical matter related to the Sri Lanka Electricity (Amendment) Bill and the Bill is scheduled to be debated on a future parliamentary day after the relevant matters are completed,” the statement said.
-
-A sectoral committee of the parliament has raised a number of questions on the bill raising questions on a two year delay for un-bundling, the sector and also reduced number of distribution companies, which were not disclosed or decided.
-
-◼️
-
-[Data](articles/f5216e16.json)
-
----
-
-### ට්‍රම්ප් ජපානය සමග දැවැන්ත වෙළෙඳ ගිවිසුමක
-
-*2025-07-23 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212538) · `si`
-
-අමෙරිකාව, ජපානය සමඟ දැවැන්ත වෙළෙඳ ගිවිසුමකට එළැඹීමෙන් අනතුරුව, ආනයනික භාණ්ඩ සඳහා සියයට 15ක තීරු බද්දක් පැනවීමට තීරණය කර තිබේ.
-
-අදාළ ගිවිසුම අනුව ජපානය, අමෙරිකානු නිෂ්පාදන වන මෝටර් රථ, ට්‍රක් රථ, සහල් සහ ඇතැම් කෘෂිකාර්මික නිෂ්පාදන ඇතුළු අනෙකුත් ආනයනය භාණ්ඩ සඳහා සියයට 15ක බද්දක් අඩුකර ඇති බවය.
-
-Truth Social ගිණුමෙහි සටහනක් තබමින් ට්‍රම්ප් පවසා ඇත්තේ, මෙම ගිවිසුම ජපන් ආයෝජන ඩොලර් බිලියන 550ක් අමෙරිකාව තුළ සිදුකිරීමට නියමිත බවය.
-
-එමෙන්ම අදාළ තීරණය හේතුවෙන් අමෙරිකාවට යහපත් කාලයක් උදාවන අතර, එය ජපානය සමඟ ඇති  සම්බන්ධතාවය වර්ධනය කරගැනීමට හේතුවක් වන බව ද ට්‍රම්ප් අවධාරණය කර තිබේ.
-
-මීට පෙර තීරු බදු සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් ට්‍රම්ප් පවසා තිබුණේ ජපානය, දකුණු කොරියාව ඇතුළු රටවල් 14ක් වෙත ආනයනය කරන භාණ්ඩ සඳහා 25%ක තීරුබද්දක් පනවන බවය.
-
-අදාළ තීරුබදු පැනවීම පිළිබඳව ට්‍රම්ප් ලිඛිතව දැනුම් දී තිබූ අතර, තීරු බදු පැනවීම අගෝස්තු මස පළමුවන දින සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබුණි.
-
-◼️
-
-[Data](articles/d9d04e7a.json)
 
 ---

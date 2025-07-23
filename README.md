@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 16:23:03**
+As of **2025-07-23 16:34:30**
 
 ## Newspaper Stats
 
-*Scraped **66,338** Articles*
+*Scraped **66,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,366
-adaderanalk | 8,138
+adaderanalk | 8,139
 tamilmirrorlk | 9,558
 virakesarilk | 11,053
 adaderanasinhalalk | 11,394
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,338 articles have been extended.
+61,973 (93.4%) of 66,339 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e6bd569f.json)
+
+---
+
+### Doha-bound Air India flight faces technical snag; plane makes precautionary landing
+
+*2025-07-23 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110774/mid-air-disruption-doha-bound-air-india-express-flight-faces-technical-snag-plane-makes-precautionary) · `en`
+
+A Doha-bound Air India Express flight from Calicut International Airport was forced to return on Wednesday morning due to a technical fault, airport officials confirmed. The aircraft was carrying 188 passengers, including crew and pilots.
+
+The plane landed safely back at the airport after a two-hour journey. Flight IX 375 took off from Calicut at around 9.07 am but made a return landing at 11.12 am due to a fault in the cabin air conditioning system.
+
+...
+
+[Data](articles/042e332c.json)
 
 ---
 
@@ -1829,23 +1843,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/49fc9620.json)
-
----
-
-### ’தமிழ் மக்களுக்கு அனுர மீது சந்தேகம்’
-
-*2025-07-23 04:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-அனுர-மீது-சந்தேகம்/175-361579) · `ta`
-
-தமிழர்களின் இனப் பரம்பலை மாற்றியமைக்க தொடர்ந்து வந்த அரசாங்கங்கள் செய்த அதே  செயற்பாட்டை அனுரகுமார அரசும்  செய்கின்றதோ என்ற சந்தேகம் எங்களுக்கும் தமிழ் மக்களுக்கும் ஏற்பட்டுள்ளது என தமிழரசு கட்சியின் எம்.பியான ப.சத்தியலிங்கம் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (22) அன்று இடம்பெற்ற வேலையாட்களின் வரவு-செலவுத் திட்ட நிவாரணப்படி, திருத்த சட்டமூலம் மற்றும் வேலையாட்களின் தேசிய குறைந்த பட்ச வேதன திருத்த சட்டமூலம் ஆகியவற்றின் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-மேலும் அவர் பேசுகையில், எமது நாடு வங்குரோத்து நிலையில் இருந்து  மீள வேண்டுமானால் முதலீடுகளை நாட்டுக்குள் வசதிகள்  முக்கியம் .இந்திய அரசினால் 65 மில்லியன் டொலர் இலங்கை அரசுக்கு கொடுப்பதற்கான ஏற்பாடுகள் நடந்தன .ஆனால் அது இழுத்தடிக்கப்படுகின்றன.
-
-காங்கேசன்துறை துறைமுகத்தை அபிவிருத்தி செய்வதன் மூலம் வடக்கு மாகாணம் மட்டுமல்ல முழு நாடும் தன்னுடைய வருமானத்தை அதிகரிக்க கூடிய பொருளாதாரத்தை வலுப்படுத்த கூடிய நிலைமை தானாக வரும்போது  அதை நாம் நழுவ விட்டுக் கொண்டிருக்கின்றோம்.
-
-...
-
-[Data](articles/634d4a23.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 16:06:28**
+As of **2025-07-23 16:23:03**
 
 ## Newspaper Stats
 
-*Scraped **66,335** Articles*
+*Scraped **66,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,366
-adaderanalk | 8,136
-tamilmirrorlk | 9,557
+adaderanalk | 8,138
+tamilmirrorlk | 9,558
 virakesarilk | 11,053
 adaderanasinhalalk | 11,394
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,335 articles have been extended.
+61,973 (93.4%) of 66,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e6bd569f.json)
+
+---
+
+### Doha-bound Air India flight faces technical snag; plane makes precautionary landing
+
+*2025-07-23 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110774/doha-bound-air-india-flight-faces-technical-snag-plane-makes-precautionary-landing) · `en`
+
+A Doha-bound Air India Express flight from Calicut International Airport was forced to return on Wednesday morning due to a technical fault, airport officials confirmed. The aircraft was carrying 188 passengers, including crew and pilots.
+
+The plane landed safely back at the airport after a two-hour journey. Flight IX 375 took off from Calicut at around 9.07 am but made a return landing at 11.12 am due to a fault in the cabin air conditioning system.
+
+...
+
+[Data](articles/a0203882.json)
 
 ---
 
@@ -167,6 +181,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bd253c28.json)
+
+---
+
+### Sri Lankan passport makes big jump in global rankings, Visa-Free entry to 42 countries now
+
+*2025-07-23 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110773/sri-lankan-passport-makes-big-jump-in-global-rankings-visa-free-entry-to-42-countries-now) · `en`
+
+The Sri Lankan passport has made a major leap and climbed five places from 96th to 91st, in the Henley Passport Index. The Sri Lankan passport jumped four spots last year as well.
+
+The Henley Passport Index 2025 ranks countries on the basis of the number of destinations their holders can enter without having a prior visa.
+
+Currently, Sri Lanka has visa-free access to 42 destinations in the world.
+
+Singapore passport holders are given visa-free entry to 193 destinations.
+
+Passport holders of Japan and South Korea remain a close second, with visa-free travel for 190 countries.
+
+Seven European passports share the 3rd place - Denmark, Finland, France, Germany, Ireland, Italy, and Spain, all with access to 189 destinations.
+
+Austria, Belgium, Luxembourg, the Netherlands, Norway, Portugal, and Sweden jointly take 4th place. New Zealand ties in 5th place with Greece and Switzerland.
+
+...
+
+[Data](articles/f9ae01c9.json)
 
 ---
 
@@ -791,6 +829,22 @@ However, Justice Arjuna Obeysekara, also a member of the bench, in his separate 
 ◼️
 
 [Data](articles/184cf4a6.json)
+
+---
+
+### தென்னகோனை நீக்கும் விவாதம் குறித்து சபாநாயகர் விளக்கம்
+
+*2025-07-23 11:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தென்னகோனை-நீக்கும்-விவாதம்-குறித்து-சபாநாயகர்-விளக்கம்/150-361598) · `ta`
+
+ஐஜிபி தேசபந்து தென்னகோனை அவரது பதவியில் இருந்து நீக்கும் தீர்மானம் மீதான விவாதத்தை பாராளுமன்றம் எப்போது மேற்கொள்ள வேண்டும் என்பதை கட்சித் தலைவர்கள் முடிவு செய்வார்கள் என்று சபாநாயகர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"நிலையியற் கட்டளை 27 இன் படி, ஐஜிபியை பதவியில் இருந்து நீக்குவதற்கான தீர்மானம், சமூகமளிக்காத எம்.பி.க்களையும் கணக்கிட்டு, தெளிவான பெரும்பான்மையுடன் நிறைவேற்றப்பட வேண்டும் " என்று சபாநாயகர் அறிவித்தார்.
+
+இந்தத் தீர்மானம் ஐந்து நாட்களுக்கு ஒழுங்கு பத்திரத்தில் இருக்க வேண்டும் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/a430c8ec.json)
 
 ---
 
@@ -1793,51 +1847,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ...
 
 [Data](articles/634d4a23.json)
-
----
-
-### ’பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தையும்  அதிகரிக்கவும்’
-
-*2025-07-23 04:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்ட-தொழிலாளர்களின்-சம்பளத்தையும்-அதிகரிக்கவும்/175-361578) · `ta`
-
-ஊழியர்களின் குறைந்தபட்ச சம்பளம்  27,000 ரூபாவாக அதிகரிக்கப்படுவது போன்றே  பெருந்தோட்ட மக்களுக்கு அரசாங்கம் வழங்கிய வாக்குறுதிக்கமைய  1,700 ரூபாய் சம்பள அதிகரிப்பை வழங்க நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  வலியுறுத்தினார்
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை(22) நடைபெற்ற  வாய்மூல விடைக்கான வினா  நேரத்தில் இடையீட்டுக் கேள்வி ஒன்றை எழுப்பியே இவ்வாறு வலியுறுத்தினார்.
-
-வேலையாட்களுக்கான குறைந்தபட்ச சம்பளத்தை டிசெம்பர் வரை 27,000 ரூபாய் வரையிலும், ஜனவரி மாதம் முதல் அதை 30,000 ரூபாவாக அதிகரிக்கவும்  எடுக்கப்பட்ட நடவடிக்கைகள் குறித்து நான் மகிழ்ச்சியடைகிறேன். இது நல்லதொரு விஷயம் என்பதால் இதனை நாம் ஆதரிப்போம்
-
-...
-
-[Data](articles/6ba2e420.json)
-
----
-
-### ’வாயைக் கொடுத்து  வாங்கிக் கொள்ளாதீர்’
-
-*2025-07-23 04:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாயைக்-கொடுத்து-வாங்கிக்-கொள்ளாதீர்/175-361577) · `ta`
-
-வெள்ளை வேன் கடத்தல்காரர்களையும் படுகொலையாளிகளையும் பாதுகாத்தவர்கள் ராஜபக்‌ஷக்கள். எனவே, எம்மிடம் வாய் கொடுத்து வாங்கிக் கட்டிக்கொள்ள வேண்டாம் என  தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க நாமல் ராஜபக்‌ஷவை எச்சரித்தார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (22)  அன்று நடைபெற்ற விவாதத்தில்  தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க  உரையாற்றிக் கொண்டிருந்த போது, ராதாகிருஷ்ணன் எம்.பி. ஒழுங்குப் பிரச்சினை ஒன்றை எழுப்பினார்.
-
-அதை பெரிதாக செவிமடுக்காத தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்ஹ, சஜித் பிரேமதாச, நாமல் ராஜபக்‌ஷ, தயாசிறி ஜயசேகர, நீ்ங்கள் எல்லோரும் கொழும்பு மாநகர சபை ஆட்சியை கைப்பற்ற ஒன்றிணைந்தீர்கள்.  ஊடக் சந்திப்புகளை நடத்தினீர்கள். எதிர்கால நண்பர்களாகினீர்கள் என்றார்.
-
-...
-
-[Data](articles/1132b2ab.json)
-
----
-
-### மின்சார சபை சட்ட மூலத்திற்கு எதிர்ப்புத் தெரிவித்து மின்சார தொழிற்சங்கள் பணிப்புறக்கணிப்பு; சபைக்கு முன்பாக ஆர்ப்பாட்டம்
-
-*2025-07-23 04:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/220689) · `ta`
-
-இலங்கை மின்சார சபை மறுசீரமைப்பு திருத்தச் சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்து செவ்வாய்க்கிழமை (22) நாடளாவிய ரீதியில் உள்ள மின்சார சபை தொழிற்சங்கங்கள் சுகயீன விடுமுறை தொழிற்சங்க நடவடிக்கையை முன்னெடுத்திருந்தன. இதனால் மின்சார சபை அலுவலகங்களில் சேவையை பெற்றுக்கொள்ள வருகைததத்தந்திருந்த பெருமளவான பொதுமக்கள் அசௌகரியங்களுக்கு முகம் கொடுத்திருந்தனர்.
-
-மேலும் உத்தேசிக்கப்பட்டுள்ள மின்சார சபை மறுசீரமைப்பு திருத்தச் சட்டத்தை மீள பெறுமாறு வலியுறுத்தியும் தமது தொழில் பாதுகாப்பை உறுதிப்படுத்துமாறு  கோரியும் மின்சார சபையின் 28 தொழிற்சங்கங்களை சேர்ந்த ஊழியர்கள் செவ்வாய்க்கிழமை (22)  கொழும்பில் அமைந்துள்ள இலங்கை மின்சார சபைக்கு முன்பாக எதிர்ப்பு ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர்.
-
-...
-
-[Data](articles/5ae4871f.json)
 
 ---

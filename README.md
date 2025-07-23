@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 17:17:52**
+As of **2025-07-23 17:30:38**
 
 ## Newspaper Stats
 
-*Scraped **66,347** Articles*
+*Scraped **66,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,368
-adaderanalk | 8,139
+adaderanalk | 8,142
 tamilmirrorlk | 9,563
-virakesarilk | 11,053
-adaderanasinhalalk | 11,395
+virakesarilk | 11,054
+adaderanasinhalalk | 11,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,347 articles have been extended.
+61,973 (93.4%) of 66,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### පාස්කු විමර්ශනයකට අදාළව මඩකලපුව හිටපු පොලිස් OIC රඳවාගෙන ප්‍රශ්න කරයි
+
+*2025-07-23 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212558) · `si`
+
+පාස්කු ප්‍රහාරයන්ට අදාළව සිදු කරන විමර්ශනයක් සම්බන්ධයෙන් මඩකලපුව හිටපු පොලිස් ස්ථානාධිපතිවරයා ත්‍රස්තවදය වැළැක්වීමේ පනත යටතේ රඳවා ප්‍රශ්න කරන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ ඒකකය කොටුව අධිකරණයට දැනුම්දී තිබේ.
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් වන වවුනතිව් පොලිස් නිලධාරීන් දෙදෙනාගේ ඝාතනය සහ සයින්දමරුදු බෝම්බ පුපුරුවා හැරිමේ සිද්ධිය සම්බ්නධයෙන් වන සංවේදී තොරතුරු සඟවා ඉදිරිපත් කිරීම, විමර්ශනය නොමග යවන සුළු සටහන් යෙදීම, සාක්ෂි වසන් කිරීම, නිවැරදි කරුණු අනාවරණය නොකිරීම ඇතුළු කරුණු යටතේ සැකපිට ඔහු අත්අඩංගුව ගත් බව පොලීසිය අධිකරණයට දැනුම්දී තිබේ.
+
+හිටපු ස්ථානාධිපතිවරයා මේ වනවිට පැය 72ක රැඳවුම් නියෝග මත රඳවා ප්‍රශ්න කරන බව දැනුම් දුන් පොලීසිය අවශ්‍ය වුවහොත් තවදුරටත් රඳවා ප්‍රශ්න කිරීමට අවසර ලබා ගන්න බවද අධිකරණය වෙත කරුණු දක්වමින් පවසා ඇත.
+
+◼️
+
+[Data](articles/0f7e40ed.json)
+
+---
 
 ### கறுப்பு ஜூலை நினைவு தினம்
 
@@ -80,6 +96,38 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### யானை மீது துப்பாக்கி சூடு ; சிஐடியை விசாரணை செய்யுமாறு கோரிய சுற்றாடல் அமைச்சு
+
+*2025-07-23 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/220744) · `ta`
+
+அண்மையில் துப்பாக்கி சூட்டு காயங்களால் உயிரிழந்த காட்டு யானை தொடர்பில் விசேட விசாரணை நடத்துமாறு பொலிஸ் திணைக்களத்திடம்  கோரிக்கை விடுத்துள்ளதோடு, இந்த சம்பவத்துக்கு காரணமானவர்கள் மீது கடும் சட்ட நடவடிக்கை எடுக்க வேண்டும் எனவும் சுற்றாடல் அமைச்சு வலியுறுத்தியுள்ளது.
+
+சிகிரியாவின் திகம்பத்தன மற்றும் கல்கமுவ பகுதிகளில் கண்டெடுக்கப்பட்ட நான்கு யானைகளின் சடலங்கள் தொடர்பாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகத்தின் அறிக்கையை தொடர்ந்து, சுற்றாடல் அமைச்சர் செயலாளர் கே.ஆர். உடுவவல, பதில் பொலிஸ்மா அதிபராக பிரியந்த வீரசூரியவுக்கு எழுதிய கடிதத்தில், இந்த வழக்கை குற்றப் புலனாய்வுத் திணைக்களம் (சி.ஐ.டி) பொறுப்பேற்குமாறு கேட்டுக் கொண்டார்.
+
+...
+
+[Data](articles/24e73072.json)
+
+---
+
+### Sri Lanka to shift from exam-centric education to module-based system by 2026: PM
+
+*2025-07-23 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110778/sri-lanka-to-shift-from-exam-centric-education-to-module-based-system-by-2026-pm) · `en`
+
+Prime Minister and Minister of Education, Higher Education, and Vocational Education, Dr. Harini Amarasuriya, announced today (23) that Sri Lanka is shifting away from an education system solely focused on pass or fail examination outcomes.
+
+The government’s objective is to deliver quality education to children through the introduction of a module-based system.
+
+Prime Minister Amarasuriya made these remarks while addressing a media briefing held at the Ministry of Education in Isurupaya today (23), regarding the new education reforms scheduled for implementation in 2026, according to the Prime Minister’s Media Division.
+
+The awareness session for media personnel representing various media organizations on the upcoming educational reforms was conducted by Nalaka Kaluwewa, Secretary to the Ministry of Education, Higher Education, and Vocational Education, and Dr. Ashoka de Silva, Deputy Director General of the National Institute of Education.
+
+...
+
+[Data](articles/3246dc62.json)
+
+---
+
 ### மணி அடித்தால் மட்டுமே கடைகளை திறக்கணும்
 
 *2025-07-23 16:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மணி-அடித்தால்-மட்டுமே-கடைகளை-திறக்கணும்/175-361621) · `ta`
@@ -95,6 +143,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a4de55a0.json)
+
+---
+
+### Sri Lanka and Pakistan keen to strengthen defence sector partnerships
+
+*2025-07-23 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110777/sri-lanka-and-pakistan-keen-to-strengthen-defence-sector-partnerships) · `en`
+
+Sri Lanka and Pakistan have reiterated the importance of reinforcing defence sector partnerships across multiple domains.
+
+This was emphasized when the Chief of General Staff of the Pakistan Army, Lieutenant General Syed Aamer Raza met with the Deputy Minister of Defence, Major General Aruna Jayasekara (Retd) and the Defence Secretary, Air Vice Marshal Sampath Thuyacontha (Retd.
+
+In his meeting with the Deputy Minister of Defence, discussions centred on strengthening bilateral defence cooperation, with a particular focus on capacity building and the exchange of best practices.
+
+Both parties emphasized the significance of enhancing preparedness and resilience, especially in the context of natural disaster response, the Ministry of Defence said in a statement.
+
+...
+
+[Data](articles/3891b11c.json)
 
 ---
 
@@ -143,6 +209,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d95787f4.json)
+
+---
+
+### Asian Development Bank lowers Sri Lanka’s GDP growth estimate for FY2025
+
+*2025-07-23 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110776/asian-development-bank-lowers-sri-lankas-gdp-growth-estimate-for-fy2025) · `en`
+
+The Asian Development Bank (ADB) has revised downward its GDP growth forecast for Sri Lanka, primarily due to the effects of US tariff policies.
+
+The revised forecast, detailed in the ADB’s Asian Development Outlook (ADO) July 2025 report, comes as Sri Lanka’s economy is facing times of uncertainty over the proposed reciprocal tariffs by US President Donald Trump.
+
+The ADB has revised the growth outlook for South Asia for 2025 from 6.0% in the April 2025 ADO to 5.9%.
+
+It noted, “the slight downward revisions for GDP growth in India and Sri Lanka in 2025 are primarily due to the effects of US tariff policies.”
+
+◼️
+
+[Data](articles/64f8d84d.json)
 
 ---
 
@@ -1727,99 +1811,5 @@ Marcos’ government indicated ahead of the meeting that he was prepared to offe
 ...
 
 [Data](articles/d69ff3f6.json)
-
----
-
-### Indonesia to cut tariffs, non-tariff barriers in US trade deal
-
-*2025-07-23 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110754/indonesia-to-cut-tariffs-non-tariff-barriers-in-us-trade-deal) · `en`
-
-Indonesia has agreed to eliminate tariffs on more than 99% of U.S. goods and scrap all non-tariff barriers facing American firms, while the U.S. will drop threatened tariffs on Indonesian products to 19% from 32%, the two countries said on Tuesday.
-
-Trump hailed the deal, which he first announced on July 15, in a posting on his Truth Social media platform, calling it a “huge win for our Automakers, Tech Companies, Workers, Farmers, Ranchers, and Manufacturers.”
-
-Details of a framework for the accord were released in a joint statement by both countries, and a fact sheet issued by the White House. They said negotiators for both countries would finalize the actual agreement in coming weeks.
-
-“Today, the United States of America and the Republic of Indonesia agreed to a framework for negotiating an agreement on reciprocal trade to strengthen our bilateral economic relationship, which will provide both countries’ exporters unprecedented access to each other’s markets,” the statement said.
-
-...
-
-[Data](articles/f5e58c69.json)
-
----
-
-### Sri Lanka’s Central Bank keeps policy rate unchanged
-
-*2025-07-23 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110753/sri-lankas-central-bank-keeps-policy-rate-unchanged) · `en`
-
-The Monetary Policy Board has decided to maintain the Overnight Policy Rate (OPR) at the current level of 7.75% at its meeting held on Tuesday (July 22), the Central Bank of Sri Lanka (CBSL) announced today.
-
-Issuing a statement in this regard, the CBSL noted that the Board arrived at this decision after carefully considering both domestic and global developments. The Board is of the view that the current monetary policy stance will help steer inflation towards the target of 5% in the period ahead while supporting growth, it said.
-
-“The movements in the Colombo Consumer Price Index (CCPI) reflected a further easing of deflationary conditions as anticipated. Inflation is projected to turn positive this quarter and steadily increase towards the target of 5% thereafter. Core inflation will continue to gradually accelerate in the coming months, reflecting the steady recovery in the economy’s demand conditions.”
-
-...
-
-[Data](articles/85b7b14e.json)
-
----
-
-### මුදල් ප්‍රතිපත්තියේ වෙනසක් නැහැ
-
-*2025-07-23 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212539) · `si`
-
-ඊයේ (22) දින පැවති මුදල් ප්‍රතිපත්ති මණ්ඩල රැස්වීමේ දී මුදල් ප්‍රතිපත්ති ස්ථාවරය නොවනස්ව තවදුරටත් පවත්වා ගැනීමට තීරණය කළ බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
-
-ඒ අනුව ශ්‍රී ලංකා මහ බැංකුවේ එක්දින ප්‍රතිපත්ති පොලී අනුපාතිකය (OPR) සියයට 7.75 මට්ටමේ නොවෙනස්ව පවතිනු ඇත.
-
-දේශීය හා ගෝලීය ප්‍රවණතා ඉතා දැඩිව සලකා බැලීමෙන් පසුව මුදල් ප්‍රතිපත්ති මණ්ඩලය මෙම තීරණයට එළඹ තිබේ.
-
-◼️
-
-[Data](articles/d16e1892.json)
-
----
-
-### Sri Lanka central bank keeps policy rate at 7.75-pct, says will push up cost of living and growth
-
-*2025-07-23 07:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-keeps-policy-rate-at-7-75-pct-says-will-push-up-cost-of-living-and-growth-232314/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank said it will keep its policy rate unchanged at 7.75 percent, saying it will increase the cost of living on the public the level it wants to and push up growth.
-
-In Sri Lanka there is a belief that high inflation is needed for growth.
-
-“The Board arrived at this decision after carefully considering both domestic and global developments,” the central bank said.
-
-“The Board is of the view that the current monetary policy stance will help steer inflation towards the target of 5 percent in the period ahead while supporting growth.”
-
-The central bank has so far been running broadly deflationary policy, providing East Asia style external stability and undershot its attempt to drive up cost of living to 5 to 7 percent.
-
-“Globally, policy uncertainty has intensified due to the evolving trade landscape and recurring geopolitical conflicts,” the central bank said.
-
-...
-
-[Data](articles/533ebeaa.json)
-
----
-
-### ඉන්ධන බදු මුදල් සාක්කුවලට යා නොහැකි බව බලශක්ති ඇමති කියයි
-
-*2025-07-23 07:40:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-බදු-මුදල්-සාක්කුවලට-යා-නොහැකි-බව-බලශක්ති-ඇමති-කියයි/11-417454) · `si`
-
-ඛනිජ තෙල් සංස්ථාවේ රු.බිලියන 884ක ණය ගෙවන්න ඉන්ධනවලට රු.50ක බද්ධක් එකතු කර ඇති බව අනාවරණය වෙයි.
-
-කංචන විජේසේකරගේ සාක්කුවට යන එක නවත්වලා, බදු ඉවත් කරලා මේ රටේ ජනතාවට කවද්ද සහනය දෙන්නේ? - පා.ම. දයාසිරි ජයසේකර
-
-මේකේ ප්‍රභේද දෙකක් තිබෙනවා,  ප්‍රිමියම් එක හරහා සාක්කුවට යන එක හැර බදුවල සල්ලි සාක්කුවට යන්න බෑ - බලශක්ති අමාත්‍ය කුමාර ජයකොඩි
-
-ඛනිජ තෙල් සංස්ථාවේ ණය රු.බිලියන 884ක් මහා භාණ්ඩාගාරයට පවරාගෙන ඇති බැවින් එම ණය ගෙවීම සඳහා ඉන්ධනවලින් රු.50ක බද්ධක් එම ණය ගෙවීම සඳහා අයකර ගන්නා බව බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා පැවසීය.
-
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා වාචික පිළිතුරු අපේක්ෂාවෙන් ඊයේ (22දා) යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-එමෙන්ම ඉන්ධන අලෙවියේදී වංචාවන් සිදුවී තිබේද යන්න පිළිබඳ විමර්ශන සිදුකරන බැවින්, එලෙස වංචාවක් සිදුවී තිබේද? නැද්ද? යන්න මෙම අවස්ථාවේ ප්‍රකාශ කළ නොහැකි බවද අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
-
-...
-
-[Data](articles/0a5ce96e.json)
 
 ---

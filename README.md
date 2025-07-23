@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 22:25:40**
+As of **2025-07-23 22:37:57**
 
 ## Newspaper Stats
 
-*Scraped **66,383** Articles*
+*Scraped **66,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,373
-adaderanalk | 8,149
+adaderanalk | 8,151
 tamilmirrorlk | 9,568
 virakesarilk | 11,058
-adaderanasinhalalk | 11,403
+adaderanasinhalalk | 11,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,383 articles have been extended.
+61,973 (93.4%) of 66,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### ලෝක වෙළෙඳපොළේ රිදී මිලේ වාර්තාගත ඉහළ යෑමක්
+
+*2025-07-23 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212566) · `si`
+
+විදෙස් මාධ්‍ය සඳහන් කළේ, අද වනවිට ලෝක වෙළෙඳපොළේ රිදී අවුන්සියක වටිනාකම ඩොලර් 39.40ක් (රුපියල් 11,885) බවය.
+
+ඒ අනුව මෙම වසරේ රිදී මිල 36%කින් ඉහළ ගොස් ඇති අතර, අද දිනයේ පමණක් 0.3%කින් ඉහළගොස් ඇත.
+
+අමෙරිකාව විසින් එරට තීරුබදු ප්‍රතිපත්තිය වෙනස් කිරීමත් සමග රන්, රිදී, ප්ලැටිනම්, පැලේඩියම් වැනි ලෝහවලට ආයෝජකයින් වැඩිවශයෙන් නැඹුරුවීම මෙලෙස රිදී මිලේ ඉහළ යෑමට හේතු වී තිබේ.
+
+මෙහි විශේෂත්වය වන්නේ මෙම වසරේ දී රිදී මිල 36% කින් ඉහළ ගියද, රත්‍රන් මිල ඉහළගොස් ඇත්තේ 31%කින් පමණක් වීමය.
+
+නවතම අනාවරණය අනුව මෙම වසරේ රිදී අවුන්සයක මිල ඩොලර් 42 දක්වා ඉහළ යා හැකිය.
+
+කෙසේ වෙතත් 2011 වසරේ දී රිදී අවුන්සයක වටිනාකම ඩොලර් 49ක් දක්වා ඉහළගොස් තිබේ.
+
+◼️
+
+[Data](articles/d37e6ca2.json)
+
+---
+
+### Silver prices surge to highest in 14 years
+
+*2025-07-23 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110788/silver-prices-surge-to-highest-in-14-years-) · `en`
+
+Silver prices surged to their highest in almost 14 years on Wednesday, aided by worries about U.S. tariff policy, signs of tightness in the spot market and growing investor interest in alternatives to gold.
+
+Spot silver was up 0.3% at $39.40 per troy ounce as of 1354 GMT, its highest level since September 2011.
+
+Silver, both a precious and industrial metal, is up 36% this year, outperforming gold’s 31% growth and coming within a whisker of the key $40-per-ounce mark. The metal hit a record high of $49 in 2011.
+
+U.S. President Donald Trump’s plan to impose 50% import tariffs on copper from August 1 and the U.S. import tariffs for Mexico widened the premium of the U.S. futures for silver and other metals against the London benchmarks in July, leading to a growth in lease rates in the spot market.
+
+Gold, silver, platinum and palladium were excluded from Trump’s April reciprocal tariffs.
+
+Spot silver prices may hit $42 per ounce this year, according to experts.
+
+...
+
+[Data](articles/618b14e9.json)
+
+---
 
 ### සංශෝධිත සමාගම් පනත් කෙටුම්පත සම්මතයි
 
@@ -45,6 +89,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/42a76a7e.json)
+
+---
+
+### Sri Lanka to join China-ASEAN Expo in September as special partner
+
+*2025-07-23 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110787/sri-lanka-to-join-china-asean-expo-in-september-as-special-partner) · `en`
+
+Sri Lanka will join as a Special Partner Country for the 22nd China-ASEAN Expo (CAEXPO) scheduled for Sept. 17-21 in Nanning, capital city of south China’s Guangxi Zhuang Autonomous Region, the expo secretariat confirmed on Wednesday.
+
+A high-level Sri Lankan government delegation led by senior diplomatic officials will attend the event. National key enterprises, including port companies and spice companies, will participate to deepen economic and trade ties with China and ASEAN.
+
+Sri Lanka will hold a national image exhibition, product display and national promotion event during the expo.
+
+Introduced at the 11th CAEXPO, the Special Partner Country mechanism invites Regional Comprehensive Economic Partnership (RCEP) member states or Belt and Road participating countries outside China and ASEAN. This makes the expo a platform to boost exchanges and create business opportunities between China, ASEAN and beyond. Sri Lanka previously held the role at the 13th CAEXPO.
+
+...
+
+[Data](articles/c0975762.json)
 
 ---
 
@@ -1759,57 +1821,5 @@ As of now, a total of 13 children are still receiving medical care at the Beliat
 ◼️
 
 [Data](articles/05a4e5ca.json)
-
----
-
-### Sri Lanka’s National Chamber to promote economic ties in session with Vietnam envoy
-
-*2025-07-23 10:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-chamber-to-promote-economic-ties-in-session-with-vietnam-envoy-232407/) · `en`
-
-ECONOMYNEXT – The National Chamber of Commerce of Sri Lanka said it will host a forum with Vietnam Ambassador Trinh Thi Tam to promote trade between the two countries on July 30.
-
-“With Viet Nam recognized as one of Sri Lanka’s key trading partners in Southeast Asia, this forum is expected to serve as a strategic platform to unlock new opportunities for trade diversification and bilateral investment growth,” the National Chamber said calling on importer and exporters to join the forum.
-
-The event will explore opportunities for the Sri Lankan business community to directly engage with the Viet Nam Ambassador and gain firsthand insights into the Viet Nam’s trade policies, investment climate, and the growing scope for bilateral collaboration, the chamber said.
-
-She will highlight key areas of economic cooperation and discuss emerging sectors that offer potential for Sri Lankan businesses to explore.
-
-...
-
-[Data](articles/3cfc1e21.json)
-
----
-
-### කවිරත්නගේ ප්‍රකාශයෙන් පාර්ලිමේන්තුව උණුසුම්
-
-*2025-07-23 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212545) · `si`
-
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රෝහිණී කවිරත්න මහත්මිය විසින් අද (23) පෙරවරුවේ අතුරු ප්‍රශ්නයක් අසන අවස්ථාවේදී කථානායකවරයා ඉලක්ක කර ගනිමින් සිදුකළ ප්‍රකාශයක් හේතුවෙන් පාර්ලිමේන්තුවේ උණුසුම් තත්ත්වයක් ඇති වුණි.
-
-මන්ත්‍රීවරිය අතුරු ප්‍රශ්නය ඇසීමට විනාඩි 4කට වැඩි කාලයක් ගෙන ඇති බවට කථානායකවරයා පාර්ලිමේන්තුවේ දී සඳහන් කළේය.
-
-එම අවස්ථාවේ දී "අනේ පොඩ්ඩක් කට වහගෙන අහගෙන ඉන්නකෝ" යනුවෙන්  මන්ත්‍රීවරිය ප්‍රකාශ කිරීමත් සමග මෙම උණුසුම් තත්ත්වය ඇති විය.
-
-◼️
-
-[Data](articles/7c56210f.json)
-
----
-
-### சுட்டக்கோழி விவகாரம்: 19 பேருக்கு வாந்தி
-
-*2025-07-23 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுட்டக்கோழி-விவகாரம்-19-பேருக்கு-வாந்தி/175-361593) · `ta`
-
-சுட்டக்கோழி (பார்பிக்யூ) இறைச்சி உணவு ஒவ்வாமையால் 10 பெண்கள்  06  ஆண்கள்   சிறுவர்கள் 03 பேரும்  என 19 பேர் பாதிக்கப்பட்டுள்ளனர். அவர்கள்,  கிண்ணியா தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-செவ்வாய்க்கிழமை (22)அதிகாலை 4.மணியிலிருந்து வயிற்றோட்டம், வாந்தி, அதிக உஷ்ணத்துடனான காய்ச்சல் போன்ற அறிகுறிகள் ஏற்படவே  அவதியுற்ற நிலையில் அவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-அனுமதிக்கப்பட்ட நோயாளிகளிடம் விசாரணைகள் செய்த போது அவர்கள் அனைவரும்   சுட்ட கோழி இறைச்சியுடன் இரவு உணவை சாப்பிட்டதாகவும் அந்த உணவை ஒரே கடையில் வாங்கியதாகவும் கூறுகின்றனர்.
-
-அனுமதிக்கப்பட்ட நோயாளிகளுக்கு ஏற்பட்ட இந்த வியாதிகளுக்கு குறிப்பிட்ட அந்த உணவு தான் காரணம் என வைத்தியர்களின் அறிக்கைகள் மற்றும் பரிசோதனைகள் மூலம் உறுதிப் படுத்தப்பட்டால் அவ் உணவுகளை விற்பனை செய்த கடை உரிமையாளருக்கு எதிராக உரிய சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் கூறினார்.
-
-◼️
-
-[Data](articles/9523ab4b.json)
 
 ---

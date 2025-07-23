@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 19:38:52**
+As of **2025-07-23 19:51:42**
 
 ## Newspaper Stats
 
-*Scraped **66,365** Articles*
+*Scraped **66,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
 adalk | 6,370
-adaderanalk | 8,146
+adaderanalk | 8,147
 tamilmirrorlk | 9,566
 virakesarilk | 11,054
 adaderanasinhalalk | 11,400
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,365 articles have been extended.
+61,973 (93.4%) of 66,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### CID assistance sought to probe deaths of four elephants
+
+*2025-07-23 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110784/cid-assistance-sought-to-probe-deaths-of-four-elephants) · `en`
+
+A request has been made to the Criminal Investigation Department (CID) and the Scene of Crime Officers of the Police Department to promptly provide support for necessary investigations related to the deaths of four elephants in Sigiriya and Galgamuwa, according to the Department of Wildlife Conservation.
+
+A statement has been issued by the Department of Wildlife Conservation and the Ministry of Environment regarding the deaths of four wild elephants.
+
+It has been reported that three wild elephants died near the Murungahitikanda Forest Reserve in the Digampathaha –Sigiriya area, and another elephant died in the Galgamuwa-Ehetuwewa area in the past few months.
+
+Among the wild elephants that died in Digampathaha, one elephant was first reported to wildlife officers on February 3, 2025. Following the incident, the Department of Wildlife Conservation filed a case before the Dambulla Magistrate’s Court, and investigations are ongoing.
+
+...
+
+[Data](articles/87da266f.json)
+
+---
 
 ### කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට
 
@@ -1793,21 +1811,5 @@ Ishiba told his close associates on Tuesday evening that he would address his re
 ◼️
 
 [Data](articles/a52cf345.json)
-
----
-
-### අපවත් වී වදාළ ආනමඩුවේ ශ්‍රී ධම්මදස්සි හිමිපාණන්ගේ ශ්‍රී දේහයට ජනපති අවසන් ගෞරව දක්වයි
-
-*2025-07-23 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212542) · `si`
-
-අපවත් වී වදාළ අස්ගිරි පාර්ශ්වයේ අනුනායක, අතිපූජ්‍ය ආනමඩුවේ ශ්‍රී ධම්මදස්සි අනුනායක හිමිපාණන් වහන්සේගේ ශ්‍රී දේහයට ජනාධිපති අනුර කුමාර දිසානායක මහතා අවසන් ගෞරව දක්වා තිබේ.
-
-උන්වහන්සේගේ ශ්‍රී දේහය තැන්පත් කර තිබෙන අස්ගිරි මහා විහාරයීය අතිපූජ්‍ය උඩුගම ශ්‍රී බුද්ධරක්ඛිත මහ නාහිමි අනුස්මරණ ශාලාව වෙත ඊයේ (22) රාත්‍රියේ පැමිණි ජනාධිපතිවරයා ශ්‍රී දේහයට අවසන් ගෞරව දැක් වූ අතර අස්ගිරි විහාර පාර්ශ්වීය මහා සංඝරත්නය වෙත සිය සාතිශය සංවේගය පළ කළේය.
-
-අනතුරුව ජනාධිපති අනුර කුමාර දිසානායක මහතා අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන මහ නා හිමිපාණන් වහන්සේ බැහැදැක උන්වහන්සේ සමඟ සාකච්ඡාවකද නිරත විය.
-
-◼️
-
-[Data](articles/e0017697.json)
 
 ---

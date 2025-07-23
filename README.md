@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-23 15:09:25**
+As of **2025-07-23 15:24:33**
 
 ## Newspaper Stats
 
-*Scraped **66,324** Articles*
+*Scraped **66,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,051
 islandlk | 4,051
 dailyftlk | 4,688
 dailymirrorlk | 4,733
-adalk | 6,365
-adaderanalk | 8,133
+adalk | 6,366
+adaderanalk | 8,134
 tamilmirrorlk | 9,556
-virakesarilk | 11,049
+virakesarilk | 11,050
 adaderanasinhalalk | 11,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.4%) of 66,324 articles have been extended.
+61,973 (93.4%) of 66,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-23 (Wednesday)
+
+### சம்பூரில் மனித எச்சங்கள் ; எதிர்வரும் 30ஆம் திகதி அறிக்கை சமர்ப்பிக்குமாறு நீதிபதி உத்தரவு
+
+*2025-07-23 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220726) · `ta`
+
+திருகோணமலை மாவட்டத்தில் மூதூர், சம்பூர் பகுதியில் காணப்பட்ட மனித எச்சங்கள் தொடர்பாக எதிர்வரும் 30ஆம் திகதி அறிக்கை சமர்ப்பிக்குமாறு சட்ட வைத்திய அதிகரிக்கும், தொல்பொருளியல் திணைக்களத்திற்கும் நீதிபதி உத்தரவிட்டுள்ளார்.
+
+குறித்த பகுதிக்கு இன்று புதன்கிழமை (23) விஜயம் மேற்கொண்டு கள ஆய்வை மேற்கொண்டிருந்த நீதிபதி குறித்த இடத்தை பார்வையிட்டதுடன், அங்கு வருகை தந்திருந்த திணைக்கள அதிகாரிகளுடன் கலந்துரையாடியதோடு சட்ட வைத்திய அதிகரிக்கு குறித்த இடத்தில் அகழ்வுப்பணியை முன்னெடுப்பது தொடர்பாக மிதிவெடி அகற்றும் நிறுவனத்துடன் கலந்துரையாடி அறிக்கை சமர்ப்பிக்குமாறும், தொல்லியல் திணைக்களத்திடம் குறித்த இடத்தில் மயானம் இருந்ததா என்பது தொடர்பில் ஆராய்ந்து அது தொடர்பான அறிக்கையினை சமர்ப்பிக்குமாறும் குறித்த அறிக்கைகளை இரு தரப்பினரும் எதிர்வரும்  30 ஆம் திகதி நீதிமன்றில் சமர்ப்பிக்குமாறு மூதூர் நீதிமன்ற நீதிபதி எச்.எம். தஸ்னீம் பௌசான் உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/bd253c28.json)
+
+---
 
 ### சுவிட்ச் பரிசோதனையை நிறைவு செய்தது ஏர் இந்தியா
 
@@ -84,6 +98,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### HC to consider Rajitha Senaratne’s bail revision application on July 30
+
+*2025-07-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/110770/hc-to-consider-rajitha-senaratnes-bail-revision-application-on-july-30) · `en`
+
+The Colombo High Court has ordered that the petition filed by former Minister Rajitha Senaratne, seeking a revision of the Colombo Magistrate’s Court order refusing him bail, be taken up for consideration on July 30.
+
+The petition was taken up today (23) before Colombo High Court Judge Indrika Kalingawansa.
+
+During the hearing, the High Court Judge observed that she was unable to issue an order on the petition as a copy of the relevant Magistrate’s Court’s decision rejecting bail had not been submitted to the High Court.
+
+Accordingly, the Judge instructed President’s Counsel Maithri Gunaratne, who appeared on behalf of Rajitha Senaratne, to submit the relevant order before presenting facts pertaining to the petition.
+
+Following this, further consideration of the petition was adjourned until July 30.
+
+◼️
+
+[Data](articles/ecf44258.json)
+
+---
+
 ### Sri Lanka, Thailand discuss expanding bilateral cooperation and FTA Implementation
 
 *2025-07-23 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110769/sri-lanka-thailand-discuss-expanding-bilateral-cooperation-and-fta-implementation) · `en`
@@ -126,9 +160,13 @@ Mr. Paitoon Mahapannaporn briefed the Speaker on upcoming activities planned und
 
 *2025-07-23 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110768/no-decision-taken-to-curtail-vehicle-imports-cbsl-governor) · `en`
 
-The Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has clarified that neither the Central Bank of Sri Lanka nor the Government has taken any decision to curtail vehicle imports at present.
+Neither the Central Bank of Sri Lanka (CBSL) nor the government has taken any decision to impose restrictions on vehicle imports at present, the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has clarified while responding to recent media reports.
 
-◼️
+The Governor made this statement during a press briefing held at the CBSL today (23), following the announcement of the Central Bank’s monetary policy statement.
+
+When inquired by Ada Derana business correspondent regarding recent reports suggesting that the government and the Central Bank were contemplating on imposing restrictions on vehicle imports, Dr. Weerasinghe asserted that the market will remain open and the Central Bank has not paid any attention to restrict imports.
+
+...
 
 [Data](articles/9fed7cbf.json)
 
@@ -497,6 +535,26 @@ However, Justice Arjuna Obeysekara, also a member of the bench, in his separate 
 ...
 
 [Data](articles/5e52d3ff.json)
+
+---
+
+### මාරවිල වෙඩි තබා සිදු කළ ඝාතනය මත්ද්‍රව්‍ය සම්බන්ධ ආරවුලක්?
+
+*2025-07-23 11:18:59* · [`adalk`](https://www.ada.lk/breaking_news/මාරවිල-වෙඩි-තබා-සිදු-කළ-ඝාතනය-මත්ද්‍රව්‍ය-සම්බන්ධ-ආරවුලක්-/11-417462) · `si`
+
+මාරවිල මරද ප්‍රදේශයෙ ත්‍රි රෝද රථයකින් ගමන් කරමින් සිටි දෙදරු මවකට කල වෙඩි තැබිමකින් ඇය එම ස්ථානයෙදීම මරණයට පත්ව  බරපතල තුවාල ලැබු ඇගේ වැඩිමහල්  දරුවා  මාරවිල මහ රෝහලට 22 දින රාත්‍රියේදීම ඇතුලත් කර ඇති බව මාරවිල මුලස්ථාන පොලිසිය කියයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ මාරවිල මරද ප්‍රදේශයෙ පදිංචි එදිරිසිංහ ආරච්චිගේ වසන්ති චතුරානි නෙහොත් සදමාලි නැමති 30 හැවිරිදි  දෙදරු මවක් බව පොලිසිය කියයි.
+
+ඝාතනයට ලක්වු කාන්තාව කුලි  ත්‍රි රෝද රථයක කිසියම් කටයුත්තකට ගොස් ආපසු නිවස කරා  තම දස හැවිරිදි පුත්‍රයා සමග එමින් සිටියදි යතුරු පැදියකින් පැමිනි නාදුනන තුවක්කුකරුවන් දෙදෙනෙකු එල්ල කල වෙඩි තැබිමකින් බරපතල තුවාල ලබා ත්‍රි රෝද රථය තුලදිම මරණයට පත්ව ඇති බව කියයි.
+
+මෙම කාන්තාවට තැබු වෙඩි පහරින් ඇගේ දස හැවිරිදි පුත්‍රයාටද වැදි ඇති බවත් බරපතල ලෙස තුවාල ලැබු දරුවා මාරවිල මහ රෝහලට ඇතුලත් කර ඇති බව කියයි.
+
+මෙසේ ඝාතනයට ලක්ව ඇත්තේ මරද ප්‍රදේශයෙ ප්‍රසිද්ධ හෙරෝයින් ඇතුළු මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ කුඩු මාලි නැමති කාන්තාවගේ වැඩිමල් දියණීය බව කියයි.
+
+...
+
+[Data](articles/7b220011.json)
 
 ---
 
@@ -1751,53 +1809,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ...
 
 [Data](articles/ba9695b0.json)
-
----
-
-### சிறுமியை வன்புணர முயன்ற கான்ஸ்டபிள் கைது
-
-*2025-07-23 03:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர-முயன்ற-கான்ஸ்டபிள்-கைது/175-361574) · `ta`
-
-ஒரு வீட்டிற்குள் நுழைந்து தூங்கிக் கொண்டிருந்த 13 வயது சிறுமியுடன் உடலுறவு கொள்ள முயன்றதாகக் கூறப்படும் ஒரு பொலிஸ் கான்ஸ்டபிளை கைது செய்துள்ளதாக தெஹிவளை பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட அதிகாரி, மேற்கு தெற்கு போக்குவரத்துப் பிரிவில் இணைக்கப்பட்ட தெஹிவளை காவல் நிலையத்தில் சிறப்புப் பணியில் ஈடுபட்டுள்ள அதிகாரி ஆவார்.
-
-தெஹிவளை, நெடிமால பகுதியில் உள்ள ஒரு வீட்டிற்குள் நுழைந்த ஒருவர் சிறைபிடிக்கப்பட்டதாக வந்த புகாரைத் தொடர்ந்து, இரவு நேர ரோந்து அதிகாரிகள் சம்பவ இடத்திற்குச் சென்று சந்தேக நபரைக் கைது செய்தனர்.
-
-◼️
-
-[Data](articles/ea1e0034.json)
-
----
-
-### காத்தான்குடி நகர சபை உறுப்பினர் கலீல்பாரி கைது
-
-*2025-07-23 03:21:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-நகர-சபை-உறுப்பினர்-கலீல்பாரி-கைது/175-361572) · `ta`
-
-காத்தான்குடி நகரசபையின் சுயேச்சைக்குழு உறுப்பினர் முஹம்மது பாறூக் கலீல்பாரி காத்தான்குடி பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஆர்.எம்.ஐ.ரத்னாநாயகா தெரிவித்தார்.
-
-அவருடன் அவரது சுயேற்சைக்குழுவில் அவரது அணியில் போட்டியிட்ட முஹமட சிராஜ் மற்றும் ஆதரவாளரான நாசர் ஆகியோரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
-
-காத்தான்குடி நகர சபைக்கு சொந்தமான வடி கான் மூடியொன்றை நகர சபையின் அனுமதியின்றி கையாண்டார்கள் என்ற முறைப்பாட்டின் அடிப்படையில் சந்தேகத்தின் பேரில் இவர்கள்   கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மட்டக்களப்பு நீதிமன்றத்தில் ஆஜர் படுத்தப்படவுள்ளதாக பொறுப்பதிகாரி மேலும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/a987025b.json)
-
----
-
-### Reject Violence & War, Struggle For Peace & Harmony
-
-*2025-07-23 02:54:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reject-violence-war-struggle-for-peace-harmony/) · `en`
-
-I use the term ‘struggle’ in the title of this article to mean ‘work,’ and not ‘fight.’ The advocacy for peace in the world is old as the history of war and violence. But that has failed so far at least to moderate conflicts and war. Today the world has come to a high point after the second world war as two of the conflicts, between Russia and Ukraine and Ukraine and Palestine, with a great potential of creating a disastrous world war.
-
-There are over 20 countries at present involved in internal or external wars. Wikipedia gives a broad description of the situation and based on the figures of death toll during 2024 those countries can be listed as follows with numbers of mortality.
-
-...
-
-[Data](articles/1c9d7422.json)
 
 ---

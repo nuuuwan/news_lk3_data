@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 09:01:56**
+As of **2025-07-24 09:34:24**
 
 ## Newspaper Stats
 
-*Scraped **66,456** Articles*
+*Scraped **66,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,060
 islandlk | 4,064
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,376
+adalk | 6,377
 adaderanalk | 8,156
 tamilmirrorlk | 9,573
 virakesarilk | 11,073
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,456 articles have been extended.
+61,973 (93.3%) of 66,457 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/15d83c99.json)
+
+---
+
+### ශිෂ්‍යත්වය අහෝසි කරන්න පාසල් අතර විෂමතාව නැති කළ යුතුයි
+
+*2025-07-24 08:16:05* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-අහෝසි-කරන්න-පාසල්-අතර-විෂමතාව-නැති-කළ-යුතුයි/11-417476) · `si`
+
+පහේ ශිෂ්‍යත්වය අහෝසි  කිරිමට තවමත් තීරණයක් ගෙන නොමැති බවත් එහෙත් නව අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ පීඩාකාරී අධ්‍යාපන ක්‍රමයේ බර අඩු කිරිමට බලාපොරොත්තුවන බව අධ්‍යාපන උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සදහන් කළාය.
+
+ශිෂ්‍යත්වය අහෝසිකිරිමට නම්  නම් පාසල් අතර තියෙන විෂමතාවය නැති කළ යුතු බවත් එය එකවර කිරිමට හැකි දෙයක් නොවන බවද පවසා සිටියාය.
+
+2026 වර්ෂයේ සිට ක්‍රියාත්මක කිරීමට නියමිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ ජුලි 23 දින බත්තරමුල්ල ඉසුරුපාය, අධ්‍යාපන අමාත්‍යංශයේ දී පැවැති මාධ්‍යවේදීන් දැනුවත් කිරීමේ සාකච්ඡාවට සහභාගීවෙමින් අග්‍රාමාත්‍යවරිය මේ බව පැවසුවාය.
+
+"විභාගය සමත් අසමත් බව මත අපි අධ්‍යාපනය මනින්න පුරුදු වෙලා තියෙනවා. ඒ ක්‍රමය  වෙනස් කරන්න තමයි අපි මේ මොඩියුල ක්‍රමය හඳුන්වා දීලා තියෙන්නේ. ඒ ක්‍රමය තුළින් දරුවාට ගුණාත්මක අධ්‍යාපනයක් ලබා දීමයි අපේ අරමුණයි.
+
+...
+
+[Data](articles/68afd29e.json)
 
 ---
 
@@ -1775,17 +1793,5 @@ Earlier in the day Sri Lanka’s central bank said it will keep its policy rate 
 ...
 
 [Data](articles/dabe8ca4.json)
-
----
-
-### Abolition Of Executive Presidency & A New Constitution For Sri Lanka: Final Part
-
-*2025-07-23 16:10:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolition-of-executive-presidency-a-new-constitution-for-sri-lanka-final-part/) · `en`
-
-In the colonial period, the British introduced the Colebrooke-Cameron reforms of 1832-33. The Donoughmore Constitution of 1931 introduced universal adult suffrage and a predominantly elected legislature. In 1948, the Soulbury Constitution was established. It was largely based on the Westminster system and provided the framework for an independent Dominion of Ceylon. Sri Lanka adopted its first Republican Constitution in 1972, which declared the country a republic and established a unicameral parliament. The Second Republican Constitution was introduced in 1978, creating an executive presidential system alongside a unicameral parliament.
-
-...
-
-[Data](articles/90d099b7.json)
 
 ---

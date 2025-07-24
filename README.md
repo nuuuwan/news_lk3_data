@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 06:36:46**
+As of **2025-07-24 07:16:48**
 
 ## Newspaper Stats
 
-*Scraped **66,438** Articles*
+*Scraped **66,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,374
 adaderanalk | 8,151
 tamilmirrorlk | 9,568
 virakesarilk | 11,072
-adaderanasinhalalk | 11,404
+adaderanasinhalalk | 11,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,438 articles have been extended.
+61,973 (93.3%) of 66,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-07-24 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212567) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත්, ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (55-60) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+තද සුළං වලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/65d2acc9.json)
+
+---
 
 ### Chief Justice gives checklist to make Sri Lanka a “Just Republic”
 
@@ -1789,23 +1807,5 @@ In Sri Lanka people cannot freely transfer money abroad except for current trans
 ◼️
 
 [Data](articles/1f91cd4f.json)
-
----
-
-### Fitch assigns ‘A(lka)’ rating to Commercial Bank’s Rs15bn green bonds
-
-*2025-07-23 14:30:00* · [`economynextcom`](https://economynext.com/fitch-assigns-alka-rating-to-commercial-banks-rs15bn-green-bonds-232425/) · `en`
-
-ECONOMYNEXT – Commercial Bank’s proposed Sri Lankan rupee-denominated Basel III-compliant subordinated green bonds of up to 15 billion has been given a final National Long-Term Rating of ‘A(lka)’ by Fitch Ratings.
-
-“COMB’s National Long-Term Rating is used as the anchor rating for this instrument because the rating reflects the bank’s standalone financial strength and best indicates the risk of the bank becoming non-viable,” the ratings agency said.
-
-The debentures, which will mature in five, seven and 10 years, include a non-viability clause that states they will convert to ordinary voting shares upon the occurrence of a trigger event.
-
-Fitch Rates Commercial Bank of Ceylon’s Basel III Subordinated Green Bond Final ‘A(lka)’
-
-...
-
-[Data](articles/33b6d8f1.json)
 
 ---

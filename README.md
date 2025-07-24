@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 17:30:33**
+As of **2025-07-24 17:52:48**
 
 ## Newspaper Stats
 
-*Scraped **66,569** Articles*
+*Scraped **66,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,120 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,065
-economynextcom | 4,076
+economynextcom | 4,077
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,386
+adalk | 6,388
 adaderanalk | 8,173
-tamilmirrorlk | 9,607
+tamilmirrorlk | 9,609
 virakesarilk | 11,086
-adaderanasinhalalk | 11,431
+adaderanasinhalalk | 11,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,569 articles have been extended.
+61,973 (93.1%) of 66,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### දේශබන්දු ගැන විවාදය අගෝස්තු 5
+
+*2025-07-24 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212597) · `si`
+
+ධුරයේ රාජකාරී කිරීම අත්හිටුවා ඇති පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් ඉවත් කිරීමේ යෝජනාව පිළිබඳ විවාදය අගෝස්තු 5 වනදා පැවැත්වෙන බව ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව අද (24) නිවේදනය කළේය.
+
+2002 අංක 5 දරන නිලධරයන් ඉවත් කිරීමේ (කාර්ය පටිපාටිය) පනතේ 17 වගන්තිය ප්‍රකාරව මෙම යෝජනා සම්මත විවාදය පැවැත්වේ.
+
+◼️
+
+[Data](articles/40b5a628.json)
+
+---
+
+### Sri Lanka’s corruption fighter challenges National Audit (Amendment) Bill in SC
+
+*2025-07-24 17:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-corruption-fighter-challenges-national-audit-amendment-bill-in-sc-232566/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), a local body fighting against corruption, has filed a fundamental rights petition in the Supreme Court, challenging the proposed National Audit (Amendment) Bill, which seeks to revise key provisions of the 1028 law.
+
+The Bill, published in the government gazette on June 23, is being contested, citing that it undermines the independence and effectiveness of Sri Lanka’s public audit framework.
+
+The National Audit Act, enacted in 2018, empowers the Auditor-General to investigate financial mismanagement across public institutions and hold officials accountable through the imposition of surcharges.
+
+These surcharges serve as penalties for losses caused by fraud, negligence, misappropriation, or corruption, aiming to ensure public sector accountability.
+
+...
+
+[Data](articles/55b495b6.json)
+
+---
+
+### லஞ்சம் வாங்கிய  சப்-இன்ஸ்பெக்டர் கைது
+
+*2025-07-24 17:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-வாங்கிய-சப்-இன்ஸ்பெக்டர்-கைது/175-361702) · `ta`
+
+கொம்பனி வீதிபொலிஸ் நிலையத்தை சேர்ந்த பிரதி ஆய்வாளர் ஒருவர், லஞ்சம் கேட்ட குற்றச்சாட்டின் பேரில் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு (CIABOC) அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+அதிகாரிகளின் கூற்றுப்படி, கோட்டை நீதிவான் நீதிமன்ற வளாகத்திற்கு அருகில் இந்த கைது நடந்துள்ளது.கைது செய்யப்பட்ட அதிகாரி ரூ. 100,000 லஞ்சம் கேட்டதாக கூறப்படுகிறது
+
+◼️
+
+[Data](articles/3da763a5.json)
+
+---
+
+### SI අල්ලස් දැලේ
+
+*2025-07-24 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212596) · `si`
+
+කොටුව අධිකරණ පරිශ්‍රය අසලදී අල්ලස් කොමිසමේ නිලධාරීන් විසින් සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/846b8d42.json)
+
+---
+
+### எம்.பியின் மகனுக்கு பிணை:  எம்.பியின் மருமகனுக்கு விளக்கமறியல்
+
+*2025-07-24 17:21:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-மகனுக்கு-பிணை-எம்-பியின்-மருமகனுக்கு-விளக்கமறியல்/175-361701) · `ta`
+
+சனிக்கிழமை (19) கைது செய்யப்பட்ட ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேவின் மகன் இரசிக விதான, பிணையில் விடுதலைச் செய்யப்பட்டுள்ளார். இந்நிலையில், ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மருமகன் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவினரால் அவர் மத்துகம பகுதியில் வைத்து  கைது செய்யப்பட்டுள்ளார்.  அவர், மத்துகம பிரதான நீதவான் ஏ.ஐ. ஹெட்டிவத்த முன்னிலையில் ஞாயிற்றுக்கிழமை (20) ஆஜர்படுத்தப்பட்டார். அவரை   அடுத்த மாதம் 1 ஆம் திகதி வரை விளக்கமறியில் வைக்குமாறு  பிரதான நீதவான்  உத்தரவிட்டிருந்தார். எனினும், அவருக்கு வியாழக்கிழமை (24) பிணை வழங்கப்பட்டுள்ளது.
+
+பாகங்களிலிருந்து இணைக்கப்பட்ட ஜீப் தொடர்பான விசாரணை தொடர்பாக, பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளைக் கைது செய்ய களுத்துறையில் உள்ள நுககொட வீட்டிற்கு, சனிக்கிழமை (19)  சென்ற போதிலும், சந்தேக நபரும் அவரது கணவரும் வீட்டில் இல்லை என்று பாணந்துறை மத்திய ஊழல் தடுப்புப் பிரிவு   தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/fd5061cd.json)
+
+---
+
+### ‍පාන්දර 4ට ටියුෂන් පටන් ගන්නේ,  අද යන්ත්‍ර වගේ දරුවෝ ඉන්නේ
+
+*2025-07-24 17:12:34* · [`adalk`](https://www.ada.lk/breaking_news/‍පාන්දර-4ට-ටියුෂන්-පටන්-ගන්නේ---අද-යන්ත්‍ර-වගේ-දරුවෝ-ඉන්නේ/11-417487) · `si`
+
+වර්තමානය වන විට උපකාරක පංති අලුයම 4ට ආරම්භ කරන තැනට පත්ව ඇති බවත් පාසල් ආරම්භ වන්නේ උපකාරක පංති අවසන් වීමෙන් පසුව බව ජනපති අනුර කුමාර දිසානායක මහතා පාර්ලිමේන්තුවේදී පැවැසීය.
+
+යළිත් පාසල් අවසන් වීමෙන් අනතුරුව අලුයම එක දෙක වන තෙක් උපකාරක පංති පැවැත්වෙන බවත් වර්තමානය වන විට ළමුන් යාන්ත්‍රික වී ඇති බවත් ජනපතිවරයා පැවැසීය.
+
+ඒසේම එකම ළමයෙක්වත් ඇතුළත් නොවූ පාසල් 98ක් ඇති බවත් ජනපතිවරයා මෙහිදී පැවැසීය.
+
+ළමුන් 100ට අඩු පාසල් 3144ක් පවතින බවත් ජනපතිවරයා මෙහිදී පැවැසීය.
+
+මේ අනුව ඇතැම් පාසල් පාසල් දැමිය යුත් බවත් සමහර පාසල් ඒ්කාබද්ධ කළ යුතු බවත් ජනපතිවරයා සහන් කළේය. ළමුන් දෙදෙනෙක් හා ගුරුවරු දෙදෙනෙක් මෙන්ම, ළමුන් තිදෙනෙක් හා ගුරුවරු තිදෙනෙක් මෙන්ම ළමුන් හතරක් හා ගුරුවරු හතරක් සිටින පාසල්ද ඇති බවත් ඔහු පැවැසීය.
+
+දරුවෙකුට ප්‍රශස්ත අධ්‍යාපනයක් ලබාදෙන පාසලක් ලබාදීමට රජය කටයුතු කරන බවද ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/10b087f2.json)
+
+---
 
 ### கன்னியா வெந்நீரூற்றில் பிக்கு அடாவடி
 
@@ -165,6 +261,20 @@ On Wednesday (23) the debt office raised 19.8 billion rupees of 3, 6 and 12 mont
 ...
 
 [Data](articles/83281279.json)
+
+---
+
+### දකුණු කොරියාවේ රැකියා අවස්ථා රැසක් ලංකාවට
+
+*2025-07-24 16:37:20* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-රැකියා-අවස්ථා-රැසක්-ලංකාවට/11-417485) · `si`
+
+ශ්‍රි ලාංකික ශ්‍රමික ප්‍රජාවට ඉහල වැටුප් හා ගුණාත්මක රැකියා ලබාදීම සඳහා සිදුකරන වැඩපිළිවෙලට එකගතාවය පළකිරීමෙන් දකුණු කොරියාවේ රැකියා අවස්ථා රැසක් මේ වන විට ලැබෙමින් පවතී. ඒ අනුව එරට සෘතුමය රැකියා කාණ්ඩ (E-8) යටතේ රැකියා මෙරටට ලබාගැනීමට කොරියාවේ බෝසොං පළාත් පාලන ආයතනය සමග පැවති සාකච්ඡා සාර්ථක වී ඇති අතර, ඒ සඳහා වන අවබෝධතා ගිවිසුම අත්සන් කිරිමට කැබිනට් අනුමැතිය හිමිවී තිබෙන බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+
+විදේශ කටයුතු, විදේශ රැකියා හා සංචාරක අමාත්‍ය විජිත හේරත් මහතා විසින් අදාල කැබිනට් මණ්ඩල යෝජනාව ඉදිරිපත් කර තිබේ. යෝජිත අවබෝධතා ගිවිසුම මගින් ශ්‍රි ලාංකික ශ්‍රමිකයින්ට සෘතුමය රැකියා වැඩසටහන යටතේ, කෙටි කාලයක් (උපරිම මාස 8) දක්වා බොංසොං පළාතේ කෘෂිකාර්මික ගම්මානවල සේවය කිරීමට අවස්ථාව හිමිවේ.
+
+...
+
+[Data](articles/2d53b100.json)
 
 ---
 
@@ -1719,133 +1829,5 @@ The skirmishes came after Thailand recalled its ambassador to Cambodia late on J
 ...
 
 [Data](articles/ac82692d.json)
-
----
-
-### அனுநாயக்க தேரரின் பூதவுடல் இன்று தகனம்
-
-*2025-07-24 10:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுநாயக்க-தேரரின்-பூதவுடல்-இன்று-தகனம்/175-361658) · `ta`
-
-அஸ்கிரிய மகா விஹாரையின் அனுநாயக்க தேரர் அதி வணக்கத்திற்குரிய ஆனமடுவ ஸ்ரீ தம்மதஸ்ஸி  தேரரின் பூதவுடல் தகன நிகழ்வு இன்று வியாழக்கிழமை (24) அஸ்கிரிய பொலிஸ் மைதானத்தில் முழு அரச மரியாதையுடன் நடைபெறவுள்ளது.
-
-மறைந்த அஸ்கிரிய பீடத்தின் அனுநாயக்க அதி வணக்கத்துக்குரிய ஆனமடுவே தம்மதஸ்சி தேரரின் உடலுக்கு இறுதி அஞ்சலி செலுத்துவதற்காக மகா சங்கத்தினர் உட்பட ஏராளமான பொது மக்கள் மற்றும் துறவிகள் ஏற்கெனவே அஸ்கிரிய மகா விஹாரைக்கு விரைந்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/30c37bbb.json)
-
----
-
-### හර්ෂ ඉලුක්පිටියට දඬුවම් නියම කිරීමේ තීන්දුව කල් යයි
-
-*2025-07-24 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212576) · `si`
-
-අධිකරණයට අපහාස කළ යැයි චෝදනා දක්වා සිටින ආගමන හා විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතාට එරෙහි පැමිණිල්ලේ දඬුවම් නියම කිරීමේ තීන්දුව ප්‍රකාශ කිරීම ශ්‍රේෂ්ඨාධිකරණය කල්තබා තිබේ.
-
-එහෙත් එම තීන්දුව සැප්තැම්බර් මස 23  වන දා දක්වා කල් තැබීමට ශ්‍රේෂ්ඨාධිකරණය විසින් නියම කර ඇත.
-
-◼️
-
-[Data](articles/3de036e7.json)
-
----
-
-### SC defers sentencing in contempt of court case filed against Immigration Controller General
-
-*2025-07-24 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110800/sc-defers-sentencing-in-contempt-of-court-case-filed-against-immigration-controller-general-) · `en`
-
-The Supreme Court today deferred the sentencing in the contempt of court case filed against Harsha Illukpitiya, to September 23, Ada Derana reporter said.
-
-The Supreme Court was due to sentence in the case after Controller General Harsha Illukpitiya, pleaded guilty to the contempt of court charge.
-
-The Controller General of Immigration and Emigration, Harsha Illukpitiya, is accused of being in contempt of court after failing to enforce a court order related to the e-visa issuance process.
-
-On September 13, 2024, the Supreme Court ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa issuance system.
-
-The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue.
-
-...
-
-[Data](articles/4b881f84.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට අද තද සුළං
-
-*2025-07-24 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212575) · `si`
-
-දිවයිනේ ප්‍රදේශ කිහිපයකට අද (24) තද සුළං තත්ත්වයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව අනතුරු අඟවයි.
-
-ඒ අනුව මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු - මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැයට කිලෝමීටර් 55-60ත් අතර තද සුළං ඇති විය හැකිය.
-
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල පැයට කිලෝමීටර් 40-50ත් අතර තරමක තද සුළං තත්ත්වයන් ඇති වියහැකි බව සඳහන් වේ.
-
-තද සුළං මගින් සිදුවන අනතුරු අවම කර ගැනීම සඳහා අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
-
-◼️
-
-[Data](articles/d35795e0.json)
-
----
-
-### Sri Lanka CB hopes acceleration in public investment projects to spur growth
-
-*2025-07-24 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-hopes-acceleration-in-public-investment-projects-to-spur-growth-232521/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s economic growth should not have a major impact from the current delay in implementation of public investment projects with the government taking steps to fast track them, Central Bank Governor Nandalal Weerasinghe said.
-
-The island nation has allocated Rs. 1,315 billion ($4.38 billion) for public investment through capital expenditure. However, only less than 20 percent has been used so far in the first seven months of the year due to delay in budget approval, procurement process and recruiting technical officers to handle such projects.
-
-Analysts have said such delay could dent future economic growth. Sri Lanka has to ensure at least 3 percent economic growth to start foreign debt repayment in 2028 in line with the IMF targets.
-
-...
-
-[Data](articles/909b3c37.json)
-
----
-
-### ආනයන අපනයන බලපත්‍ර නිකුත් කිරීමෙන් වැඩි ආදායමක්
-
-*2025-07-24 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212574) · `si`
-
-ආනයන හා අපනයන පාලන බලපත්‍ර නිකුත් කිරිම මගින් 2024 වර්ෂයේ රුපියල් බිලියන 3.7ක ආදායමක් ඉපැයීමට ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව සමත්ව තිබේ.
-
-එය 2023 වර්ෂයට සාපේක්ෂව 13%ක වැඩිවීමක් බව 2024 වර්ෂයේ සිය කාර්යය සාධන වාර්තාව එළිදක්වමින් ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව පෙන්වාදෙයි.
-
-පසුගිය වර්ෂය තුළ ආනයන හා අපනයන බලපත්‍ර 17,010ක් නිකුත් කර ඇති බව වාර්තා වේ.
-
-ඉන් වැඩිම බලපත්‍ර සංඛ්‍යාවක් නිකුත් කර ඇත්තේ ජංගම දුරකථන හා සන්නිවේදන උපකරණ හා වෙනත් උපකරණ ආනයනය කිරීම සඳහා බව සඳහන් වේ.
-
-ඊට අමතරව රසායනික ද්‍රව්‍ය, පොහොර, පළිබෝධනාශක, කාර්මික අමුද්‍රව්‍ය ආනයනය සහ අපනයනය සඳහා ද බලපත්‍ර නිකුත් කිරීම පසුගිය වසරේ ඉහළ ගොස් තිබේ.
-
-2024 වර්ෂයේ ජුනි මාසයේ සිට දෙසැම්බර් මාසය දක්වා බඩ ඉරිගු මෙට්‍රික් ටොන් ලක්ෂ 3ක් සත්ත්ව ආහාර නිෂ්පාදනය සඳහා ආනයන බලපත්‍ර ලබාදීමට ද අනුමැතිය ලබා දී ඇති අතර ඒ අනුව එම කාලය තුළ ආනයන බලපත්‍ර 2,222ක් නිකුත් කර ඇති බව වාර්තා වේ.
-
-එය 2023 වර්ෂයට සාපේක්ෂව ඉහළ අගයක් ගන්නා බව ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව පවසයි.
-
-...
-
-[Data](articles/9e11f4f9.json)
-
----
-
-### Two arrested with ‘Ice’ worth Rs. 600,000 in Maligawatte
-
-*2025-07-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110799/two-arrested-with-ice-worth-rs-600000-in-maligawatte) · `en`
-
-A male and a female have been arrested while transporting a stock of “ice” (crystal methamphetamine) drugs worth over Rs. 600,000 in a three-wheeler, police stated.
-
-Police have seized 21.4 grams of ice in their possession along with Rs. 137,000 in cash, suspected to have been earned through drug trafficking.
-
-According to police, the arrested woman is a relative of Dematagoda Chaminda, a notorious underworld leader and drug trafficker currently serving a death sentence at the Boossa Prison for the murder of former Member of Parliament Bharatha Lakshman Premachandra.
-
-Based on a tip-off, police searched the three-wheeler parked in front of the Lak Hiru Sevana apartment complex in Maligawatte, where they discovered the drugs.
-
-During questioning, the suspects had stated that the drugs belonged to Dematagoda Chaminda and had been brought from Borella.
-
-The arrested man and woman, aged 35 and 48, are residents of Borella.
-
-◼️
-
-[Data](articles/ef5082f9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 23:06:11**
+As of **2025-07-24 23:21:04**
 
 ## Newspaper Stats
 
-*Scraped **66,618** Articles*
+*Scraped **66,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,077
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,396
-adaderanalk | 8,179
+adaderanalk | 8,180
 tamilmirrorlk | 9,616
 virakesarilk | 11,101
 adaderanasinhalalk | 11,439
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,618 articles have been extended.
+61,973 (93.0%) of 66,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,11 +88,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-24 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212604) · `si`
 
-ජනප්‍රිය රෙස්ලිං ක්‍රීඩකයෙක් වන අමෙරිකානු ජාතික හල්ක් හෝගන් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+රෙස්ලිං වළල්ලේ දැවැන්තයෙක් වන අමෙරිකානු ජාතික හල්ක් හෝගන් නොහොත් ටෙරී බොලියා මියගොස් තිබේ.
 
-1980 දශකයේ වෘත්තීය වශයෙන් රෙස්ලිං ක්‍රීඩාවට පිවිසි හල්ක් ලොව පුරා වඩාත් ජනප්‍රියත්වයට පත් වූයේ ඔහු ලැබූ ජයග්‍රාහණ හේතුවෙනි.
+විදෙස් මාධ්‍ය සඳහන් කර සිටියේ, හදිසියේ ඇති වූ හෘදයාබාධ තත්ත්වයක් හේතුවෙන් ඔහු මියගිය බවය.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ හදිසියේ ඇති වූ හෘදයාබාධ තත්ත්වයක් හේතුවෙන් ඔහු මෙසේ මිය ගිය බවය.
+අමෙරිකාවේ ජෝජියාහිදී උපත ලැබූ ටෙරී බොලියා, මියයන විට 71 වන වියේ පසුවිය.
+
+උපතින් ටෙරී බොලියා වුවත්, රෙස්ලිං පිටියේ ජනප්‍රිය වූයේ හල්ක් හෝගන් නමින්ය.
+
+1980 දශකයේ වෘත්තීය රෙස්ලිං ක්‍රීඩාවට පිවිසි හල්ක්, ලොව පුරා වඩාත් ජනප්‍රියත්වයට පත් වූයේ ඔහු ලැබූ ජයග්‍රාහණ හේතුවෙනි.
+
+ඒ හේතුවෙන් වෘත්තීය රෙස්ලිං ක්‍රීඩකයින්ට ගෞරව කිරීමක් ලෙස එක්කරන 'WWE Hall of Fame' නාමාවලියටද හෝගන්ගේ නාමය එක්විය.
 
 ◼️
 
@@ -113,6 +119,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2924455f.json)
+
+---
+
+### President directs implementation of urgent measures to address human-elephant conflict
+
+*2025-07-24 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110821/president-directs-implementation-of-urgent-measures-to-address-human-elephantconflict) · `en`
+
+President Anura Kumara Dissanayake held a discussion this afternoon (24) at the Presidential Secretariat with relevant Ministers and Officials regarding the protection of wild elephants and the safeguarding daily lives of rural community.
+
+During the meeting, the President inquired into the current situation regarding the increasing harassment incidents involving wild elephants and their disruptive impact on the daily lives of rural populations.
+
+Officials briefed the President on the prevailing situation and the longstanding difficulties faced by relevant institutions in addressing this issue effectively, according to the President’s Media Division (PMD).
+
+President Dissanayake emphasized that under no circumstances should wild elephants be subjected to harm or harassment and stressed the importance of identifying short-term, medium-term and long-term solutions.
+
+...
+
+[Data](articles/1f7154a0.json)
 
 ---
 
@@ -1797,27 +1821,5 @@ According to preliminary data, there were 43 passengers, including five children
 ...
 
 [Data](articles/6330184b.json)
-
----
-
-### No survivors in Russian passenger plane crash near China border, local reports say
-
-*2025-07-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110809/russian-plane-with-nearly-50-aboard-goes-missing-in-countrys-east) · `en`
-
-A Russian passenger aircraft crashed in the Amur region near the China border on Thursday. As per preliminary reports there were no survivors, as reported by Russian news agency.
-
-Russian Antonov-24, operated by Angara airlines, was carrying 40 people when it lost contact with air traffic controllers, local emergencies ministry said.
-
-“Rescuers locate burning fuselage of missing Russian passenger plan,” emergency officials told Reuters.
-
-The plane dropped off radar screens while approaching its destination of Tynda, a town in the Amur region bordering China.
-
-According to preliminary data, there were 43 passengers, including five children, and six crew members on board, regional governor Vasily Orlov told Reuters.
-
-“All necessary forces and means have been deployed to search for the plane,” the governor wrote on Telegram.
-
-...
-
-[Data](articles/b35a2c55.json)
 
 ---

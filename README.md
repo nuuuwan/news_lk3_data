@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 18:35:07**
+As of **2025-07-24 18:59:38**
 
 ## Newspaper Stats
 
-*Scraped **66,588** Articles*
+*Scraped **66,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,390
 adaderanalk | 8,176
-tamilmirrorlk | 9,610
+tamilmirrorlk | 9,611
 virakesarilk | 11,091
-adaderanasinhalalk | 11,434
+adaderanasinhalalk | 11,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,588 articles have been extended.
+61,973 (93.1%) of 66,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### පළාත් කිහිපයකට වැසි
+
+*2025-07-24 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212599) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බව ද එම නිවේදනයේ සදහන් වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු - මැද සහ මධ්‍යම පළාත්වලත්, පුත්තලම, ත්‍රිකුණාමලය, මොණරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. (55-60)ක පමණ තද සුළං ඇතිවිය හැකියි.
+
+මේ අතර තද සුළංවලින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+
+◼️
+
+[Data](articles/bcea0895.json)
+
+---
 
 ### Parliament to debate removal of Deshabandu Tennakoon on Aug 5
 
@@ -171,6 +189,22 @@ These surcharges serve as penalties for losses caused by fraud, negligence, misa
 ...
 
 [Data](articles/4c1823ab.json)
+
+---
+
+### எம்.பியின் மகன் வெளியே:  எம்.பியின் மருமகன் உள்ளே
+
+*2025-07-24 17:21:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-மகன்-வெளியே-எம்-பியின்-மருமகன்-உள்ளே/175-361701) · `ta`
+
+சனிக்கிழமை (19) கைது செய்யப்பட்ட ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேவின் மகன் இரசிக விதான, பிணையில் விடுதலைச் செய்யப்பட்டுள்ளார். இந்நிலையில், ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மருமகன் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவினரால் அவர் மத்துகம பகுதியில் வைத்து  கைது செய்யப்பட்டுள்ளார்.  அவர், மத்துகம பிரதான நீதவான் ஏ.ஐ. ஹெட்டிவத்த முன்னிலையில் ஞாயிற்றுக்கிழமை (20) ஆஜர்படுத்தப்பட்டார். அவரை   அடுத்த மாதம் 1 ஆம் திகதி வரை விளக்கமறியில் வைக்குமாறு  பிரதான நீதவான்  உத்தரவிட்டிருந்தார். எனினும், அவருக்கு வியாழக்கிழமை (24) பிணை வழங்கப்பட்டுள்ளது.
+
+பாகங்களிலிருந்து இணைக்கப்பட்ட ஜீப் தொடர்பான விசாரணை தொடர்பாக, பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளைக் கைது செய்ய களுத்துறையில் உள்ள நுககொட வீட்டிற்கு, சனிக்கிழமை (19)  சென்ற போதிலும், சந்தேக நபரும் அவரது கணவரும் வீட்டில் இல்லை என்று பாணந்துறை மத்திய ஊழல் தடுப்புப் பிரிவு   தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/4b454c8e.json)
 
 ---
 
@@ -1775,45 +1809,5 @@ The vote to elect the chairman of the Weligama Pradeshiya Sabha was delayed on m
 ◼️
 
 [Data](articles/24b2815b.json)
-
----
-
-### Sri Lanka to re-start lower Uma Oya Reservoir construction, other halted projects
-
-*2025-07-24 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-re-start-lower-uma-oya-reservoir-construction-other-halted-projects-232546/) · `en`
-
-ECONOMYNEXT – Sri Lanka is prioritizing re-starting partially built irrigation tank projects including the lower Uma Oya Reservoir, Deputy Minister for Land and Irrigation Susil Ranasinghe said.
-
-Several reservoirs including Kivul Oya reservoir, Mundeni Aru reservoir, Uma Oya were halted due to the economic crisis, he told parliament.
-
-“Our priority is finishing the halted projects. Lower Uma Oya is one; About 85 percent of this is completed,” he said in answer to a question by W H M Dharmasena.
-
-“We are focusing on completing the halted projects that can be finished soon.”
-
-He was responding to a question by Dharmasena whether Kumbukkan Oya reservoir, a planned new reservoir, can be started.
-
-In the 2025 budget, 3.4 billion rupees has been allocated for irrigation in the Moneragala district, he said.
-
-Of that 2,150 million was for the Lower Uma Oya project. “We want to complete that this year.
-
-“Likewise, Raja Ela in Buttala has been allocated 600 million to be completed this year.
-
-...
-
-[Data](articles/d67d7254.json)
-
----
-
-### හර්ෂ ඉලුක්පිටියට දඩුවම් නියම කිරීමේ තීන්දුව කල් යයි
-
-*2025-07-24 11:00:28* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂ-ඉලුක්පිටියට-දඩුවම්-නියම-කිරීමේ-තීන්දුව-කල්-යයි/11-417480) · `si`
-
-අධිකරණයට අපහාස කිරීමේ චෝදනාවට වරද පිළිගෙන සිටින හිටපු ආගමන හා විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතාට  දඬුවම් නියම කිරීමේ තීන්දුව ප්‍රකාශයට පත්කිරීම ශ්‍රේෂ්ඨාධිකරණය විසින් කල්තබා තිබේ.
-
-එම තීන්දුව අද (24) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණත් තීන්දුව ප්‍රකාශයට පත්කිරීම සැප්තැම්බර් මස 23  වන දා දක්වා කල් තැබීමට ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
-
-◼️
-
-[Data](articles/64874ca1.json)
 
 ---

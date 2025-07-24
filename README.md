@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 22:06:35**
+As of **2025-07-24 22:22:48**
 
 ## Newspaper Stats
 
-*Scraped **66,610** Articles*
+*Scraped **66,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,077
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,395
-adaderanalk | 8,178
+adaderanalk | 8,179
 tamilmirrorlk | 9,613
 virakesarilk | 11,099
 adaderanasinhalalk | 11,438
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,610 articles have been extended.
+61,973 (93.0%) of 66,611 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c89ef075.json)
+
+---
+
+### Govt takes responsibility for providing optimal school education for every child - President
+
+*2025-07-24 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110820/govt-takes-responsibility-for-providing-optimal-school-education-for-every-child-president-) · `en`
+
+President Anura Kumara Dissanayake stated that the proposed education reform is not merely limited to curriculum revision but will simultaneously elevate both the social and economic spheres of the country.
+
+The President requested support for this initiative, emphasising that it is a social objective, not a political one.
+
+He further stressed that no child should leave school without completing 13 years of compulsory education for any reason whatsoever.
+
+President Anura Kumara Dissanayake made these remarks while participating in today’s (24) parliamentary debate on education reforms, according to the President’s Media Division (PMD).
+
+Following is the full speech delivered by President Anura Kumara Dissanayake;
+
+“I intend to present a few points during the debate on education reforms.
+
+No one can be satisfied with the current education system, the young generation it has produced, or the economy it has fostered. Therefore, we urgently need comprehensive education reform.
+
+...
+
+[Data](articles/fcc0cd3b.json)
 
 ---
 
@@ -1811,17 +1835,5 @@ The Supreme Court also ordered the establishment of the MV X-Press Pearl Compens
 ...
 
 [Data](articles/8009b46d.json)
-
----
-
-### தமிழனின் கலை வண்ணம் (வீடி​​யோ இ​ணைப்பு)
-
-*2025-07-24 12:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழனின்-கலை-வண்ணம்/175-361676) · `ta`
-
-இலங்கையில் ராஜராஜ சோழன் காலத்து அறிவியல் இன்று வரை இயங்குகிறது  தமிழன் கல்லிலே கலை வண்ணம் கண்டான்
-
-◼️
-
-[Data](articles/c614cd06.json)
 
 ---

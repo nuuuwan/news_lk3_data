@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 23:21:04**
+As of **2025-07-24 23:32:03**
 
 ## Newspaper Stats
 
-*Scraped **66,619** Articles*
+*Scraped **66,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 6,396
 adaderanalk | 8,180
 tamilmirrorlk | 9,616
 virakesarilk | 11,101
-adaderanasinhalalk | 11,439
+adaderanasinhalalk | 11,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,619 articles have been extended.
+61,973 (93.0%) of 66,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### පාකිස්තානය ගෞරවය බේරාගනියි
+
+*2025-07-24 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212605) · `si`
+
+බංග්ලාදේශයට එරෙහි තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයෙන් ලකුණු 74ක පහසු ජයක් හිමිකර ගැනීමට සංචාරක පාකිස්තාන කණ්ඩායම අද (24) සමත් විය.
+
+යම් හෙයකින් මෙම තරගයද පාකිස්තානය පරාජය වූවානම්, ඔවුන්ට වසර 18ක දෙරටේ විස්සයි20 ක්‍රිකට් ඉතිහාසයේ පළමුවරට බංග්ලාදේශය හමුවේ විස්සයි20 පූර්ණ තරගාවලි පරාජයක් ලැබීමට සිදුවේ.
+
+මීර්පූර්හිදී පැවති මෙම තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශය පළමුව පන්දුවට පහරදීමට පාකිස්තානයට ආරාධනා කළේය.
+
+එහිදී ඔවුන් පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 178ක් රැස්කිරීමට සමත් විය.
+
+ප්‍රහාරාත්මක ඉනිමක් ක්‍රීඩාකළ සහිබ්සාඩා ෆර්හාන් පන්දු 41කදී ලකුණු 63ක් රැස් කළේය.
+
+ඊට අමතරව හසන් නවාස් ලකුණු 33ක්, මොහොමඩ් නවාස් ලකුණු 27ක් හා සයිම් අයුබ් ලකුණු 21ක් රැස්කිරීමට සමත් වූහ.
+
+බංග්ලාදේශ වෙනුවෙන් පන්දු යැවීමේදී ටස්කින් අහ්මඩ් හා නසුන් අහ්මඩ් කඩුලු 3 බැගින් දවාගත්හ.
+
+නමුත් පිළිතුරු ඉනිම ක්‍රීඩා කිරීමට පිටියට පිවිසි බංග්ලාදේශයට පන්දුවාර 16.4කදී සියලු දෙනා දැවී ලබා ගතහැකි වූයේ ලකුණු 104ක් පමණි.
+
+බංග්ලාදේශ ඉනිමේ කඩුලු 7ක් ලකුණු 41ක් තුළ දවාගැනීමට පාකිස්තානය සමත් විය.
+
+...
+
+[Data](articles/61779e0b.json)
+
+---
 
 ### கொழும்பு தேசிய வைத்தியசாலையில் மனநலப் பிரிவுக்கு அழைத்துச் செல்லப்பட்ட சந்தேகநபர் தப்பிச் செல்ல முயன்ற சம்பவம்
 
@@ -1799,27 +1827,5 @@ Based on information received by the Acting Inspector General of Police regardin
 ...
 
 [Data](articles/414c757b.json)
-
----
-
-### No survivors in Russian passenger plane crash near China border, local reports say
-
-*2025-07-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110809/no-survivors-in-russian-passenger-plane-crash-near-china-border-local-reports-say) · `en`
-
-A Russian passenger aircraft crashed in the Amur region near the China border on Thursday. As per preliminary reports there were no survivors, as reported by Russian news agency.
-
-Russian Antonov-24, operated by Angara airlines, was carrying 40 people when it lost contact with air traffic controllers, local emergencies ministry said.
-
-“Rescuers locate burning fuselage of missing Russian passenger plan,” emergency officials told Reuters.
-
-The plane dropped off radar screens while approaching its destination of Tynda, a town in the Amur region bordering China.
-
-According to preliminary data, there were 43 passengers, including five children, and six crew members on board, regional governor Vasily Orlov told Reuters.
-
-“All necessary forces and means have been deployed to search for the plane,” the governor wrote on Telegram.
-
-...
-
-[Data](articles/6330184b.json)
 
 ---

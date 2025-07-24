@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 21:19:20**
+As of **2025-07-24 21:32:33**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-07-24 (Thursday)
 
-### වනඅලි ජීවිත සුරැකීමටත්, ග්‍රාමීය ජනතාවගේ දෛනික ජීවිතය සුරක්ෂිත කිරීමටත් ජනපතිගේ අවධානය
+### අලි මිනිස් ගැටුම ගැන ජනපතිගේ අවධානය
 
 *2025-07-24 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212603) · `si`
 

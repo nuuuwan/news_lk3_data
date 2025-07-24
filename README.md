@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 11:51:00**
+As of **2025-07-24 12:07:28**
 
 ## Newspaper Stats
 
-*Scraped **66,492** Articles*
+*Scraped **66,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,68 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,064
-economynextcom | 4,066
+economynextcom | 4,067
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,379
+adalk | 6,380
 adaderanalk | 8,160
-tamilmirrorlk | 9,585
+tamilmirrorlk | 9,587
 virakesarilk | 11,076
-adaderanasinhalalk | 11,417
+adaderanasinhalalk | 11,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,492 articles have been extended.
+61,973 (93.2%) of 66,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### ජනපති පාර්ලිමේන්තුව අමතයි
+
+*2025-07-24 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212581) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (24) පෙරවරුවේ පාර්ලිමේන්තුවට පැමිණියේය.
+
+ඒ, අද දිනයේ විවාදයට ගැනෙන යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ සභාව කල්තැබීමේ විවාදයේදී කරුණු දැක්වීම සඳහාය.
+
+◼️
+
+[Data](articles/ddb989f5.json)
+
+---
+
+### சபையில் உரையாற்றுகிறார் ஜனாதிபதி அனுர
+
+*2025-07-24 11:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபையில்-உரையாற்றுகிறார்-ஜனாதிபதி-அனுர/175-361671) · `ta`
+
+பாராளுமன்றத்துக்கு வருகை தந்த ஜனாதிபதி அனுரகுமார திசாநாயக்க, பாராளுமன்றத்தில் தற்போது நடைபெற்றுக்கொண்டிருக்கும் கல்வி மறுசீரமைப்பு தொடர்பிலான விவாதத்தில் கலந்துகொண்டு உரையாற்றிக்கொண்டிருக்கின்றார்.
+
+◼️
+
+[Data](articles/05585228.json)
+
+---
+
+### தாய்லாந்து - கம்போடியா இடையே பீரங்கி சண்டை
+
+*2025-07-24 11:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-இடையே-பீரங்கி-சண்டை/50-361670) · `ta`
+
+கம்போடியா இடையே இன்று வியாழக்கிழமை (24)  திடீரென்று மோதல் ஏற்பட்டது. இருநாட்டு வீரர்களும் எல்லையில் பயங்கரமாக மோதிக்கொண்டனர். பீரங்கி குண்டுகளால் தாக்கி கொண்ட நிலையில் போர் வெடிக்கிறதா? என்ற பதற்றம் ஏற்பட்டுள்ளது. இந்த மோதலுக்கு கோவில் ஒன்று தான் முக்கிய காரணம் என்ற தகவல் வெளியாகி உள்ளது.
+
+தாய்லாந்தும், கம்போடியாவும் அண்டை நாடுகளாக உள்ளன. இருநாடுகளும் எல்லைகளை பகிர்ந்து வருகின்றனர். இந்நிலையில் தான் தாய்லநாந்தின் வடகிழக்குபகுதியில் உள்ள சுரீன் மாகாணத்தில் பிரசாத் தா மவுன் தாம் எனும் கோவில் அமைந்துள்ளது.
+
+இந்த கோவிலுக்கு கம்போடியா சொந்தம் கொண்டாடி வருகிறது. இந்த கோவில் விஷயத்தில் தாய்லாந்து - கம்போடியா இடையே தொடர்ந்து பிரச்சனை நீடித்து வருகிறது.
+
+இந்நிலையில் தான் எப்போது வேண்டுமானாலும் இருநாடுகள் இடையே மோதல் வெடிக்கலாம் என்ற நிலை உருவானது. இதையடுத்து தாய்லாந்து சார்பில் எல்லையில் எஃப் 16 ரக போர் விமானங்கள் குவித்து வைக்கப்பட்டது. இந்நிலையில் தான் திடீரென்று இருநாடுகள் இடையே மோதல் ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/5c9ec040.json)
+
+---
 
 ### වැලිගම ප්‍රාදේශීය සභාවේ බලය සජබයට
 
@@ -152,6 +196,32 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka to re-start lower Uma Oya Reservoir construction, other halted projects
+
+*2025-07-24 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-re-start-lower-uma-oya-reservoir-construction-other-halted-projects-232546/) · `en`
+
+ECONOMYNEXT – Sri Lanka is prioritizing re-starting partially built irrigation tank projects including the lower Uma Oya Reservoir, Deputy Minister for Land and Irrigation Susil Ranasinghe said.
+
+Several reservoirs including Kivul Oya reservoir, Mundeni Aru reservoir, Uma Oya were halted due to the economic crisis, he told parliament.
+
+“Our priority is finishing the halted projects. Lower Uma Oya is one; About 85 percent of this is completed,” he said in answer to a question by W H M Dharmasena.
+
+“We are focusing on completing the halted projects that can be finished soon.”
+
+He was responding to a question by Dharmasena whether Kumbukkan Oya reservoir, a planned new reservoir, can be started.
+
+In the 2025 budget, 3.4 billion rupees has been allocated for irrigation in the Moneragala district, he said.
+
+Of that 2,150 million was for the Lower Uma Oya project. “We want to complete that this year.
+
+“Likewise, Raja Ela in Buttala has been allocated 600 million to be completed this year.
+
+...
+
+[Data](articles/d67d7254.json)
+
+---
+
 ### மனிதனால் உருவாக்கப்பட்ட பட்டினியால் பெரும் துன்பத்தில் காசா - உலக சுகாதார ஸ்தாபனத்தின் தலைவர்
 
 *2025-07-24 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220785) · `ta`
@@ -192,7 +262,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 දෙහිවල එස් ද එස් ජයසිංහ ක්‍රීඩාංගණය අසල දී පුද්ගලයෙකුට වෙඩි තැබීමේ උත්සහයක් ව්‍යාර්ථ වී තිබේ.
 
-අද පෙරවරු 9යි 15ට පමණ යතුරු පැදියකින් පැමිණි පුද්ගලයෙකු විසින් ක්‍රීඩාංගණයේ අසල සිටි පුද්ගලයෙකුට මෙලෙස වෙඩි තැබීමට උත්සහ කර ඇති බවයි පොලිසිය සඳහන් කළේ.
+අද පෙරවරු 9:15ට පමණ යතුරු පැදියකින් පැමිණි පුද්ගලයෙකු විසින් ක්‍රීඩාංගණයේ අසල සිටි පුද්ගලයෙකුට මෙලෙස වෙඩි තැබීමට උත්සහ කර ඇති බවයි පොලිසිය සඳහන් කළේ.
 
 කෙසේවෙතත් වෙඩික්කරුගේ ගිනි අවිය ක්‍රියාත්මක නොවීම හේතුවෙන් එම උත්සහය ව්‍යාර්ථ වී ඇති බව සදහන් වෙයි.
 
@@ -253,6 +323,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f873f5aa.json)
+
+---
+
+### මාතලේ වන අලි පැන්නීමට දින 10 ක මෙහෙයුමක්
+
+*2025-07-24 10:31:25* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-වන-අලි-පැන්නීමට-දින-10-ක-මෙහෙයුමක්/11-417479) · `si`
+
+මාතලේ දිස්ත්‍රික්කයේ මාතලේ, නාඋල, පල්ලේපොල, යටවත්ත කොට්ඨාසවල ගම්මාන රැසක ජන ජීවිත  දේපොලව  හා වගාවන්ට තර්ජනයක්ව එම  ප්‍රදේශයන්හි සැරිසරණ වන අලි රංචු  රක්ෂිත වෙත පළවා හරීම සදහා වූ දින 10 ක විශේෂ  ඒකාබද්ධ  මෙහෙයුමක් අද (24) දින ආරම්භ කර තිබේ.
+
+මාතලේ ලේකම් ප්‍රසන්න මදනායක  මහතාගේ උපදෙස් මත මෙම ව්‍යාපෘතිය  (24) දින රජ්ගම්මන ප්‍රදේශයෙන් ආරම්හ කර අගෝස්තු (04) වන දින දක්වා සෑම දිනකම පෙරවරු.2.00 සිට  මධ්‍යය රාත්‍රිය දක්වා අඛණ්ඩව   අලි තර්ජනයට මුහුණ දී තිබෙන ගම්මාන සහ කොට්ටාශවල රැඳී සිටිමින් හානි සිදු කරනු ලබන වන  අලි රක්ෂිත වෙත පලවා හැරීමට නියමිතය.
+
+බුද්ධ ශාසන ආගමික කටයුතු හා සංස්කෘතික නියෝජ්‍ය අමාත්‍ය ගමගෙදර  දිසානායක මහතා පාර්ලිමේන්තු මන්ත්‍රීවරුන්වන දිනේෂ් හේමන්ත මහතා සුනිල් බියන්විල  මහතාගේ  අධීක්ෂණය යටතේ කමිටුව දිස්ත්‍රික් ලේකම් කාර්යාලය, අදාල ප්‍රාදේශිය ලේකම් කාර්යාල , වනජිවී දෙපාර්තමේන්තුව, යුද හමුදාව, ගුවන් හමුදාව, පොලිසිය සහ සිවිල් ආරක්ෂක බලකාය ඇතුලු රාජ්‍ය ආයතනවල දායකත්වය ඇතිව මෙම අලි පලවා  හැරීමේ මෙහෙයුම සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/8394d315.json)
 
 ---
 
@@ -1699,97 +1785,5 @@ Introduced at the 11th CAEXPO, the Special Partner Country mechanism invites Reg
 ...
 
 [Data](articles/1d6f80e0.json)
-
----
-
-### Speaker certifies National Minimum Wage for Workers Amendment Bill
-
-*2025-07-23 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110786/speaker-certifies-national-minimum-wage-for-workers-amendment-bill) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (23) endorsed his certification on the three Bills, the Budgetary Relief Allowance of Workers (Amendment) Bill to amend Act No. 36 of 2005, the Budgetary Relief Allowance of Workers (Amendment) Bill to amend Act No. 4 of 2016, and the National Minimum Wage for Workers (Amendment) Bill.
-
-The Second Reading debate on the three Bills was held yesterday (22), and were passed by Parliament.
-
-The three Bills were presented to Parliament for the First Reading on June 03, 2025.
-
-...
-
-[Data](articles/9920cb88.json)
-
----
-
-### சீன,இலங்கை உறவுகளை மேம்படுத்த பல திட்டங்கள் வகுக்கப்பட்டுள்ளன சின்ங்சியா மாநில வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் தெரிவிப்பு
-
-*2025-07-23 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220759) · `ta`
-
-இலங்கைக்கும் சீனாவுக்கும் இடையிலான பல்துறை உறவுகளை  நிலையானதாக மேம்படுத்த இருதரப்புக்கும் இடையில் பல திட்டங்கள் தற்போது வகுக்கப்பட்டுள்ளன. இலங்கையுடனான எரிசக்தி மற்றும் புதுப்பிக்கத்தக்க சக்தி வலுத்திட்டங்கள் துரிதகரமாக செயற்படுத்தப்படும். இலங்கையுடனான வரலாற்று சிறப்புமிக்க நட்புறவை பல்துறைகளில் மேம்படுத்துவோம் என சீனாவின் சின்ங்சியா மாநிலத்தின் வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் நாயகம் ஃபேன் ஹவ்ஃபெங் தெரிவித்தார்.
-
-சீன குடியரசின் அழைப்புக்கமைய சீனாவுக்கு விஜயம் மேற்கொண்டுள்ள இலங்கையின் பல்துறை சார்ந்த தரப்பினர்கள் நேற்று புதன்கிழமை சீனாவின் சின்ங்சியா மாநிலத்தின் உத்தியோகபூர்வ  வெளிவிவகாரத்துறை அலுவலகத்தின் அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபட்டனர்.
-
-இச்சந்தர்ப்பத்தில் சின்ங்சியா மாநிலத்தின் வெளிவிவகாரத்துறை பிரதி பணிப்பாளர் நாயகம்  ஃபேன் ஹவ்ஃபெங் வருமாறு குறிப்பிட்டார்.
-
-இலங்கைக்கும் சீனாவுக்கும் இடையிலான தொடர்பிலான உறவை ஒரு வரையறைக்குள் உடபடுத்த முடியாது.இரு நாடுகளுக்கும் இடையில் வரலாற்று ரீதியில் தொடர்பு காணப்படுகிறது.
-
-...
-
-[Data](articles/ec42eab6.json)
-
----
-
-### குஷ் போதைப்பொருள் தொகையுடன் ஒருவர் கைது
-
-*2025-07-23 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/220758) · `ta`
-
-ராஜகிரிய பகுதியில் சுமார் 12 மில்லியன் ரூபாய் மதிப்புள்ள குஷ் போதைப்பொருள் தொகையுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-இராணுவ புலனாய்வுப் பிரிவிற்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் பத்தரமுல்ல கலால் சிறப்பு நடவடிக்கைப் பிரிவின் அதிகாரிகளுடன் இணைந்து நடத்தப்பட்ட சோதனையின் போது இந்த போதைப்பொருள் தொகை மீட்கப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
-
-கைது செய்யப்பட்ட சந்தேக நபர் தலவத்துகொட, பன்னிபிட்டிய பகுதியைச் சேர்ந்தவர் என்பதுடன், பத்தரமுல்ல கலால் சிறப்பு நடவடிக்கைப் பிரிவு சம்பவம் குறித்து மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f6968c5c.json)
-
----
-
-### වීනස් විලියම්ස්ගෙන් වාර්තාවක්
-
-*2025-07-23 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212563) · `si`
-
-ජාත්‍යන්තර මට්ටමේ ටෙනිස් තරගයක් ජයග්‍රහණය කළ ලොව දෙවන වයස්ගතම ක්‍රීඩිකාව බවට අමෙරිකාවේ වීනස් විලියම්ස් සමත් වූවාය.
-
-වොෂින්ටන් විවෘත ටෙනිස් තරගාවලියේ ඊයේ (22) පැවති තරගයක් ජයග්‍රහණය කරමින් ඇය මෙම සුවිශේෂී සන්ධිස්ථානය පසු කළාය.
-
-මේ වනවිට 45 හැවිරිදි වියේ පසුවන වීනස් මෙහිදී පරාජය කරනු ලැබුවේ ඇයට වඩා අවුරුදු 22ක් බාල ක්‍රීඩිකාවක වන අමෙරිකාවේම පීටන් ස්ටියර්න්ස්ය.
-
-වීනස් විලියම්ස් මේ වනවිට ලෝක කාන්තා ශ්‍රේණිගත කිරීම්හි පළමු දහස අතර හෝ නොමැති අතර, 2024 වසරේ මාර්තු මාසයෙන් පසු කිසිදු ජාත්‍යන්තර තරගයක් හෝ ක්‍රීඩාකරන නොමැත.
-
-කෙසේ නමුත් විලියම්ස් විසින් පරාජය කළ 23 හැවිරිදි ස්ටියර්න්ස් මේ වනවිට ශ්‍රේණිගත කිරීම්හි 35වන ස්ථානයේ පසුවේ.
-
-ග්‍රෑන්ඩ් ස්ලෑම් කේවල ශූරතා 7කට හිමිකම් කියන වීනස්, මෙම තරගාවලියට ප්‍රවේශය ලබාගත්තේ ද 'වයිල්ඩ්කාඩ්' හරහාය.
-
-වීනස් විලියම්ස්ගේ බාල සහෝදරිය ලොව හිටපු අංක එකේ ටෙනිස් ක්‍රීඩිකා සෙරීනා වන අතර, ඔවුන් දෙදෙනා ග්‍රෑන්ඩ් ස්ලෑම් යුගල ශූරතා 14ක් ජයග්‍රහණය කර තිබේ.
-
-...
-
-[Data](articles/0f27bc88.json)
-
----
-
-### Man arrested in Rajagiriya with ‘Kush’ worth Rs. 12 Mn
-
-*2025-07-23 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110785/man-arrested-in-rajagiriya-with-kush-worth-rs-12-mn) · `en`
-
-An individual has been arrested with a stock of Kush cannabis valued at approximately Rs. 12 million in Rajagiriya.
-
-According to the Sri Lanka Army, the stock of drugs was discovered during a raid conducted based on information received by the Army Intelligence Unit, in collaboration with officers from the Excise Special Operations Bureau in Battaramulla.
-
-During the raid, approximately 2 kilograms of Kush drugs were seized, and a suspect was taken into custody, the Army stated.
-
-The arrested suspect is a resident of Thalawathugoda. The Excise Special Operations Bureau is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/b69d0f7b.json)
 
 ---

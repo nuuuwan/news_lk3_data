@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 01:05:27**
+As of **2025-07-25 01:16:36**
 
 ## Newspaper Stats
 
@@ -1360,7 +1360,7 @@ A financial literacy seminar was held at the Ministry of Education for stakehold
 
 ---
 
-### Wasantha de Silva eleced President of Sri Lanka Pakistan Business Council
+### Wasantha de Silva elected President of Sri Lanka Pakistan Business Council
 
 *2025-07-24 15:02:00* · [`economynextcom`](https://economynext.com/wasantha-de-silva-eleced-president-of-sri-lanka-pakistan-business-council-232567/) · `en`
 

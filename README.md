@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 05:31:25**
+As of **2025-07-24 06:10:30**
 
 ## Newspaper Stats
 
-*Scraped **66,425** Articles*
+*Scraped **66,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
-islandlk | 4,051
 economynextcom | 4,060
+islandlk | 4,062
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,374
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,425 articles have been extended.
+61,973 (93.3%) of 66,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -514,6 +514,28 @@ A standout feature of the product is the inclusion of Braille lettering on the g
 
 ---
 
+### Fame for Sri Lankan … Down Under
+
+*2025-07-23 22:39:00* · [`islandlk`](http://island.lk/fame-for-sri-lankan-down-under/) · `en`
+
+Nalin Jayawardena wasn’t a known name in the scene here … and that’s because he never dabbled in music.
+
+However, after migrating to Australia, over three decades ago, Nalin is much in the spotlight, and it revolves around music as well.
+
+He now lives in Perth, Champion Lake, in the city of Armadale.
+
+His song, titled ‘Uluru’, which he co-wrote with musicians in Sydney, the USA, and back home, in Sri Lanka, to encourage Sri Lankans, Down Under, to support First Nations Australians in getting a voice in the Australia Parliament, has brought Nalin fame.
+
+He was honoured with the title of Senior Citizen of the Year for the City of Armadale.
+
+Unfortunately, Nalin was travelling, on holiday, when the official awards ceremony was held on 26th January – Australia Day – but was specially presented the award by the Mayor of the City of Armadale, on his return.
+
+...
+
+[Data](articles/adb25834.json)
+
+---
+
 ### ஒவ்வொரு நாடும் சக்தி ஆற்றலில் தன்னிறைவு பெற போதுமான புதுப்பிக்கத்தக்க வளங்கள் உள்ளன - ஐ. நா. சபையின் செயலாளர் நாயகம் அன்டோனியோ குட்டரஸ்
 
 *2025-07-23 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/220761) · `ta`
@@ -523,6 +545,54 @@ A standout feature of the product is the inclusion of Braille lettering on the g
 ...
 
 [Data](articles/06d34cc5.json)
+
+---
+
+### Coconut Water …Skincare Essential
+
+*2025-07-23 22:35:00* · [`islandlk`](http://island.lk/coconut-water-skincare-essential/) · `en`
+
+The heat we are experiencing at the moment is simply awful and it leads to excessive sweating and increased oil production, which can clog pores and trigger acne breakouts.
+
+Coconut water contains properties that help combat acne-causing bacteria. Its lightweight composition hydrates the skin without making it greasy … making it ideal for those with oily or acne-prone skin.
+
+Yes, they say coconut water is often referred to as “nature’s sports drink,” but beyond hydration, it offers remarkable skincare benefits, helping you achieve a radiant, healthy glow, even in the most sweltering months.
+
+To maximise the benefits of coconut water for your skin, you can incorporate it into your daily routine in multiple ways:
+
+Start your day with a glass of fresh coconut water to hydrate your body and skin from within. Regular consumption helps maintain moisture levels, making your skin appear dewy and soft.
+
+...
+
+[Data](articles/a8b420e1.json)
+
+---
+
+### Beyond the Echo Chamber: Why diversity is Sri Lanka’s ultimate strategic asset
+
+*2025-07-23 22:24:00* · [`islandlk`](http://island.lk/beyond-the-echo-chamber-why-diversity-is-sri-lankas-ultimate-strategic-asset/) · `en`
+
+In a nation standing at a crossroads of economic recovery and social reconciliation, the dialogue surrounding diversity and inclusion has never been more critical. Moving beyond its frequent characterization as a Western corporate buzzword, a recent high-level discussion framed diversity as a cornerstone for Sri Lanka’s future prosperity and unity. The second day of the International HR Conference, hosted by the Chartered Institute of Personnel Management (CIPM) Sri Lanka on June 3rd at the Monarch Imperial in Kotte, convened a powerhouse panel of business leaders to dissect the theme, “Diversity for Creativity: Strengthening Social Cohesion.” The conversation that unfolded was a masterclass in shifting the narrative from diversity as a compliance metric to diversity as a strategic, non-negotiable imperative for innovation and national healing.
+
+...
+
+[Data](articles/4537c540.json)
+
+---
+
+### SLT-MOBITEL launches enhanced ‘Home 4G LTE Broadband’ offering more value for every Sri Lankan home
+
+*2025-07-23 22:24:00* · [`islandlk`](http://island.lk/slt-mobitel-launches-enhanced-home-4g-lte-broadband-offering-more-value-for-every-sri-lankan-home/) · `en`
+
+SLT-MOBITEL has unveiled a revamped Home 4G LTE Broadband portfolio offering more value and simplified choices for every Sri Lankan home.
+
+The comprehensive rebrand marks a bold leap forward in delivering smarter, more affordable broadband for every Sri Lankan home. The newly introduced SLT-MOBITEL HOME 4G LTE packages are simplified and value-packed, also thoughtfully designed to meet the full spectrum of customer expectations, from data volume, speed, budget, or lifestyle.
+
+With attractive new connection charges and enhanced data allocations, these plans make high-quality broadband more accessible. The strategic transformation reinforces SLT-MOBITEL’s unwavering commitment to innovation, empowering households across the nation with flexible, future-ready, and dependable connectivity.
+
+...
+
+[Data](articles/5a67a7e4.json)
 
 ---
 
@@ -545,6 +615,22 @@ A standout feature of the product is the inclusion of Braille lettering on the g
 ◼️
 
 [Data](articles/d37e6ca2.json)
+
+---
+
+### CBSL policy rates decision sends CSE on a bull-run
+
+*2025-07-23 22:19:00* · [`islandlk`](http://island.lk/cbsl-policy-rates-decision-sends-cse-on-a-bull-run/) · `en`
+
+CSE trading was extremely bullish following the Central Bank decision yesterday to keep its policy rate unchanged at 7.75 percent.
+
+Amid these developments both indices moved upwards. The All Share Price Index went up by 161.15 points while S and P SL20 rose by 34.94 points.
+
+Turnover stood at Rs 6.2 billion with nine crossings. Those crossings were reported in Sunshine Holdings where 5.7 million shares crossed for Rs 163.9 million; its shares traded at Rs 28.50, JKH four million shares crossed for Rs 100 million; its shares traded at Rs 25, Sri Lanka Telecom one million shares crossed to the tune of Rs 59 million; its shares traded at Rs 59.
+
+...
+
+[Data](articles/acd5244d.json)
 
 ---
 
@@ -1723,99 +1809,5 @@ Fitch Rates Commercial Bank of Ceylon’s Basel III Subordinated Green Bond Fina
 ◼️
 
 [Data](articles/e74f988b.json)
-
----
-
-### சம்பூர் மனித புதைகுழி: 30 க்கு பின்னர் தீர்மானம்
-
-*2025-07-23 14:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பூர்-மனித-புதைகுழி-30-க்கு-பின்னர்-தீர்மானம்/175-361610) · `ta`
-
-சம்பூரில் மனித மண்டையோடு மற்றும் எலும்பு எச்சங்கள் கண்டெடுக்கப்பட்ட காணியில் தொடர்ந்து அகழ்வுகளை மேற்கொள்ள வேண்டுமா? இல்லையா? என்று எதிர்வரும் 30 ஆம் திகதி சட்ட வைத்திய அதிகாரி,மிதிவெடி அகற்றும் குழுவின் ஆலோசனைகளுடன்  அறிக்கை தர வேண்டும்.
-
-அத்துடன் இப்பகுதியில் முன்னர் மயானம் ஏதும் இருந்ததா?  என்பது பற்றி தொல்பொருள் திணைக்களம் அறிக்கையை முன்வைக்க வேண்டும் அவ் அறிக்கைகளின் படி அகழ்வு பற்றி தீர்மானம் மேற்கொள்ளப்படும் என்று   மூதூர் நீதவான் நீதிமன்ற நீதிபதி திருமதி.தஸ்னீம் பெளசான், புதன்கிழமை (23) உத்தரவிட்டுள்ளார்.
-
-கடந்த 19 ந் திகதி மிதி வெடி அகற்றும் குழுவினர் இப்பகுதியில் அகழ்வு செய்த போது மனித எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்டன.இதனை அடுத்து மூதூர் பதில் நீதிவானின் உத்தரவை அடுத்து அகழ்வுப் பணிகள், 22 செவ்வாய்க்கிழமை  வரை இடைநிறுத்தப்பட்டன.
-
-...
-
-[Data](articles/fa61e2cd.json)
-
----
-
-### ඇප මත මුදාහරින ලෙස ඉල්ලූ රාජිතගේ ප්‍රතිශෝධන පෙත්සම සලකා බැලීමට දින දෙයි
-
-*2025-07-23 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212552) · `si`
-
-තමන්ව අපේක්ෂිත ඇප මත මුදා හැරීම ප්‍රතික්ෂේප කරමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් දී තිබෙන නියෝගය ප්‍රතිශෝධනය කර තමන්ව ඇප මත මුදා හරින ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කර තිබෙන පෙත්සමක් සලකා බැලීම සඳහා ලබන 30 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
-
-මෙම පෙත්සම අද (23) කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංග වංශ මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී ඇප ප්‍රතික්ෂේප කිරීමට අදාළ මහෙස්ත්‍රාත් අධිකරණයේ තීන්දුවේ පිටපත මහාධිකරණය හමුවේ ඉදිරිපත් කර නොමැති බැවින් මෙම පෙත්සම සම්බන්ධයෙන් තමන්ට නියෝගයක් නිකුත් කළ නොහැකි බව මහාධිකරණ විනිසුරුවරිය පෙන්වා දුන්නේය.
-
-ඒ අනුව අදාළ ඇප තීන්දුවේ පිටපතක් ඉදිරිපත් කිරීමෙන් පසු මේ සම්බන්ධයෙන් කරුණු දක්වන ලෙස මහාධිකරණ විනිසුරුවරිය රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතාට දැනුම් දුන්නේය.
-
-ඉන් අනතුරුව පෙත්සම සලකා බැලීම ලබන  30 වනදා දක්වා කල් තැබුණි.
-
-◼️
-
-[Data](articles/0cd02174.json)
-
----
-
-### HC to consider Rajitha Senaratne’s bail revision application on July 30
-
-*2025-07-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/110770/hc-to-consider-rajitha-senaratnes-bail-revision-application-on-july-30) · `en`
-
-The Colombo High Court has ordered that the petition filed by former Minister Rajitha Senaratne, seeking a revision of the Colombo Magistrate’s Court order refusing him bail, be taken up for consideration on July 30.
-
-The petition was taken up today (23) before Colombo High Court Judge Indrika Kalingawansa.
-
-During the hearing, the High Court Judge observed that she was unable to issue an order on the petition as a copy of the relevant Magistrate’s Court’s decision rejecting bail had not been submitted to the High Court.
-
-Accordingly, the Judge instructed President’s Counsel Maithri Gunaratne, who appeared on behalf of Rajitha Senaratne, to submit the relevant order before presenting facts pertaining to the petition.
-
-Following this, further consideration of the petition was adjourned until July 30.
-
-◼️
-
-[Data](articles/ecf44258.json)
-
----
-
-### Sri Lanka, Thailand discuss expanding bilateral cooperation and FTA Implementation
-
-*2025-07-23 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110769/sri-lanka-thailand-discuss-expanding-bilateral-cooperation-and-fta-implementation) · `en`
-
-The Ambassador of the Kingdom of Thailand to Sri Lanka, Mr. Paitoon Mahapannaporn, paid a courtesy call on the Speaker of the Parliament Dr. Jagath Wickramaratne, on Tuesday (22) at the Parliamentary premises.
-
-The Secretary General of Parliament, Mrs. Kushani Rohanadeera, was also present at the meeting.
-
-During the meeting, Speaker Dr. Jagath Wickramaratne highlighted the longstanding bilateral relations between Sri Lanka and Thailand, with particular emphasis on the shared cultural and religious heritage through Buddhism, the Department of Communication of Parliament said in a statement.
-
-The Speaker expressed his gratitude for the continued support extended by Thailand and noted that Sri Lanka is currently seeking to expand investment opportunities, especially in the fields of agriculture, industries and tourism.
-
-Mr. Paitoon Mahapannaporn briefed the Speaker on upcoming activities planned under bilateral cooperation, including initiatives to strengthen people-to-people connections.
-
-...
-
-[Data](articles/6f9caed3.json)
-
----
-
-### වාහන ආනයනය සම්බන්ධයෙන්  මහ බැංකු අධිපතිගෙන් ප්‍රකාශයක්
-
-*2025-07-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212551) · `si`
-
-වාහන ආනයනය සීමාකිරීමට රජයේ හෝ මහ බැංකුවෙහි කිසිදු තීරණයක් ගෙන නොමැති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
-
-අද (23) මහ බැංකුවේ පැවති මුදල් ප්‍රතිපත්ති විවරණය දැනුම් දීමේ මාධ්‍ය හමුවේ දී වාහන ආනයනය සීමා කිරීමට රජය හෝ මහ බැංකුව තීරණය කර ඇත්දැයි අද දෙරණ ඇසූ පැනයකට පිළිතුරු දෙමින් මහ බැංකු අධිපතිවරයා මේ බව කියා සිටියේය.
-
-ප්‍රශ්නය - පසුගිය දිනවල කිසියම් වාර්තා කිහිපයක් පලවෙලා තිබුනා වාහන ආනයනය සීමා කරන්න රජය සහ මහ බැංකුවෙන් අවධානය යොමු වෙලා තියනවා කියලා. මේකෙ කිසියම් සත්‍යතාවයක් තියනවා ද?
-
-"මහ බැංකුවෙන් කිසිම අවධානයක් යොමු වෙලා නැහැ ඒවා සීමා කරන්න. විවෘත කරපු වෙළෙඳපොළ දිගටම විවෘතව පවතීවි. රජයෙත් එහෙම අදහසක් නැහැ. මම දන්න විදිහට එහෙම මම හිතන්නේ නැහැ.මම හිතන්නේ ඇමතිතුමා ප්‍රකාශයක් කරා එහෙම වෙනසක් කරන්නෙ නැහැ කියලා."
-
-...
-
-[Data](articles/3fa63faf.json)
 
 ---

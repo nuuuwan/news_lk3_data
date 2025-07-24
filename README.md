@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 10:27:39**
+As of **2025-07-24 10:52:28**
 
 ## Newspaper Stats
 
-*Scraped **66,470** Articles*
+*Scraped **66,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ economynextcom | 4,066
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,377
-adaderanalk | 8,156
-tamilmirrorlk | 9,576
+adaderanalk | 8,160
+tamilmirrorlk | 9,581
 virakesarilk | 11,073
-adaderanasinhalalk | 11,413
+adaderanasinhalalk | 11,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,470 articles have been extended.
+61,973 (93.2%) of 66,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### தெஹிவளை துப்பாக்கிதாரிக்கு சிக்கல்
+
+*2025-07-24 10:45:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெஹிவளை-துப்பாக்கிதாரிக்கு-சிக்கல்/175-361662) · `ta`
+
+தெஹிவளையில் ஒருவரை இலக்குவைத்த துப்பாக்கிதாரியின் துப்பாக்கி இயங்காமையால் துப்பாக்கிதாரி தப்பியோடிவிட்டார் என பொலிஸார் தெரிவித்தனர்.��
+
+◼️
+
+[Data](articles/eea86ac8.json)
+
+---
+
+### සෞඛ්‍ය පරිපාලන නිලධාරියෙකුට එල්ල කළ වෙඩිල්ල ව්‍යාර්ථ වෙයි
+
+*2025-07-24 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212578) · `si`
+
+දෙහිවල එස්. ද එස්. ජයසිංහ ක්‍රීඩාංගණය අසලදී සෞඛ්‍ය පරිපාලන නිලධාරියෙකුට වෙඩි තැබීමක් සිදුකර ඇති නමුත් එය ව්‍යාර්ථ වී තිබේ.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇති බව වාර්තාවේ.
+
+ගිනි අවිය ක්‍රියාත්මක නොවීම නිසා වෙඩික්කරු පලා ගොස් ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/61cd8542.json)
+
+---
+
+### නයිජීරියාවේ කොලරා වසංගත තත්ත්වයක්
+
+*2025-07-24 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212577) · `si`
+
+නයිජීරියාවේ නයිජර් ප්‍රාන්තයේ පැතිර යන කොලරා වසංගත තත්ත්වය හේතුවෙන් මේ වන විට පුද්ගලයින් 13 දෙනෙකු මියගොස් තිබේ.
+
+එමෙන්ම කොලරා රෝගය වැළදී ඇති තවත් පුද්ගලයින් 239 දෙනෙකුගේ තත්ත්වය බරපතල බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මේ වන විට නයිජර් ප්‍රාන්තයේ දිස්ත්‍රික් හයක් පුරා මෙම වසංගත තත්ත්වය ව්‍යාප්ත වෙමින් පවතී.
+
+නයිජීරියානු රජය විසින් මේ වන විට රෝග තත්ත්වය පාලනය කිරීම සදහා කටයුතු සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/70d2886f.json)
+
+---
+
+### மூடியை திருடிய மூவருக்கு பிணை
+
+*2025-07-24 10:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடியை-திருடிய-மூவருக்கு-பிணை/175-361661) · `ta`
+
+மூடியை திருடச் சென்றதாக குற்றச்சாட்டில் கைது செய்யப்பட்ட நகரசபை சுயேச்சைக்குழு உறுப்பினர் ஒருவர் உட்பட 3 பேருக்கும் பிணை வழங்கப்பட்டுள்ளது.
+
+காத்தான்குடி நகரசபைக்கு சொந்தமாக வடிகான் கொங்கிறீற் மூடியை திருடச் சென்ற 3 பேரையும் மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான், புதன்கிழமை (23) இரண்டு இலட்சம் ரூபாய் பெறுமதியான தலா இரண்டுபேர் கொண்ட  சரீரபிணையில் செல்ல உத்தரவிட்டு எதிர்வரும் செட்டம்பர் 23 ம் திகதி வழக்கை தவணையிட்டு ஒத்திவைத்தார்.
+
+காத்தான்குடி நகரசபையின் சுயேச்சைக்குழு உறுப்பினர் அவரது வட்டாரமான கல்முனை பழைய வீதியிலுள்ள வடிகான் மூடி ஒன்று இல்லாமல் பலவருடங்களாக இருந்துள்ளதுடன் அந்தபகுதி பாடசாலை மாணவர்கள் பள்ளிவாசலுக்கு செல்வோர் உட்பட அந்த வீதி ஊடாக பாதசாரதிகள் பயணிக்க முடியாமல் பல்வேறு அசௌகரியங்களை எதிர் நோக்கிவந்துள்ளனர்
+
+இது தொடர்பாக சுயேச்சைக்குழுவின் நகரசபை உறுப்பினரின் வட்டாரத்தைச் சேர்ந்த பொதுமக்கள் உறுப்பினரிடம் வடிகான் மீது இருந்த மூடி இல்லாததால் அந்த  மூடியை அமைத்து தருமாறு கடித மூலம் கோரிக்கையிட்டனர்.
+
+...
+
+[Data](articles/f2337e4a.json)
+
+---
+
+### 12 கோடி ரூபாய் ஜீவாம்சம் எதிர்பார்த்த பெண்ணுக்கு உச்ச நீதிமன்றம் பதில்
+
+*2025-07-24 10:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-கோடி-ரூபாய்-ஜீவாம்சம்-எதிர்பார்த்த-பெண்ணுக்கு-உச்ச-நீதிமன்றம்-பதில்/175-361660) · `ta`
+
+படித்த, திறமையான பெண்கள், தங்களது வாழ்வாதாரத்துக்காக, தாங்கள்தான் சம்பாதிக்க வேண்டும், ஜீவனாசம் என்ற பெயரில், கணவரிடமிருந்து இடைக்கால பராமரிப்புகளைக் கேட்கக் கூடாது என்று உச்ச நீதிமன்றம் கருத்துத் தெரிவித்துள்ளது.
+
+விவகாரத்து வழக்கில், ஜீவனாம்சம் கேட்டு பெண் ஒருவர் தொடர்ந்த வழக்கை விசாரித்த உச்ச நீதிமன்ற தலைமை நீதிபதி பி.ஆர். கவாய், அப்பெண்ணைப் பார்த்து, நீங்கள் மிகவும் படித்தவர். உங்களுக்காக நீங்கள்தான் சம்பாதிக்க வேண்டும், அதை மற்றவர்களிடம் கேட்கக்கூடாது என்று கருத்துக் கூறியுள்ளார்.
+
+கணவரிடமிருந்து ஜீவனாம்சமாக மும்பையில் ஒரு வீடு, ரூ.12 கோடி ஜீவனாம்ச தொகை, பிஎம்டபிள்யூ கார் உள்ளிட்டவற்றைக் கேட்டு, பெண் தாக்கல் செய்த மனுவை விசாரித்த உச்ச நீதிமன்றம், நீங்கள் தகவல் தொழில்நுட்பத் திறன் பெற்றவர். எம்பிஏ முடித்திருக்கிறீர்கள். உங்களைப் போன்றவர்களுக்கு பெங்களூரு, ஹைதராபாத்தில் நல்ல வேலை வாய்ப்பு இருக்கும். ஏன் நீங்கள் வேலை செய்யக் கூடாது என்று கேள்வி எழுப்பியிருக்கிறார்.
+
+...
+
+[Data](articles/f873f5aa.json)
+
+---
+
+### சிக்குன்குனியா வைரஸ் தொடர்பில் WHO எச்சரிக்கை
+
+*2025-07-24 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிக்குன்குனியா-வைரஸ்-தொடர்பில்-WHO-எச்சரிக்கை/50-361659) · `ta`
+
+சிக்குன்குனியா வைரஸ் மீண்டும் பரவும் சாத்தியம் அதிகரித்துள்ளதாக உலக சுகாதார ஸ்தாபனம் (WHO) எச்சரிக்கை விடுத்துள்ளது.
+
+இந்த வைரஸ் காரணமாக காய்ச்சல், கடுமையான மூட்டு வலி, மற்றும் நீண்டகால இயலாமை ஏற்படும் அபாயம் இருப்பதாகவும், வைரஸ் பரவலை கட்டுப்படுத்த உடனடி தடுப்பு நடவடிக்கைகள் அவசியம் என்றும் உலக சுகாதார ஸ்தாபனம்  வலியுறுத்தியுள்ளது.
+
+மேலும், சிக்குன்குனியா பரவல் தொடருமானால், அது உலகளாவிய சுகாதாரத்துக்கு மிகப்பெரிய அச்சுறுத்தலாக மாறும் என்பதால், அனைத்து நாடுகளும் முன்னெச்சரிக்கை நடவடிக்கைகளை உடனடியாக எடுக்க வேண்டும் எனவும் உலக சுகாதார ஸ்தாபனம் வலியுறுத்தியுள்ளது.
+
+2000ஆம் ஆண்டு முதல் பரவத் ஆரம்பித்த சிக்குன்குனியா வைரஸ், கடந்த காலத்தில் உலகம் முழுவதும் பெரும் தாக்கத்தை ஏற்படுத்தியது. இந்நிலையில்   மீண்டும் அதே அளவிலான அபாயம் உருவாகும் சாத்தியம் ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+இது தொடர்பில் உலக சுகாதார ஸ்தாபனத்தின் அதிகாரி டயானா ரோஜாஸ் அல்வாரெஸ் கூறுகையில்,
+
+சுமார் 56 நாடுகளில், 119 பில்லியன் மக்கள் சிக்குன்குனியா தொற்று ஏற்படும் அபாயமுள்ள பகுதிகளில் வாழ்ந்து வருகின்றனர்.
+
+...
+
+[Data](articles/2a749f2a.json)
+
+---
+
+### Two Thai civilians killed as Thai and Cambodian militaries clash at disputed border
+
+*2025-07-24 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110801/two-thai-civilians-killed-as-thai-and-cambodian-militaries-clash-at-disputed-border) · `en`
+
+At least two Thai civilians have been killed and two others injured by shelling from the Cambodian side on July 24, a Thai district official told Reuters, as armed clashes broke out between the militaries of the Southeast Asian neighbours.
+
+Thailand’s embassy in Phnom Penh on July 24 urged its nationals in a Facebook post to leave Cambodia “as soon as possible” unless they had urgent reasons to remain.
+
+Some 40,000 civilians from 86 villages in Thailand have also been evacuated to safer locations, Sutthirot Charoenthanasak, district chief of Kabcheing in Surin province, told Reuters.
+
+◼️
+
+[Data](articles/ac82692d.json)
+
+---
+
+### அனுநாயக்க தேரரின் பூதவுடல் இன்று தகனம்
+
+*2025-07-24 10:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுநாயக்க-தேரரின்-பூதவுடல்-இன்று-தகனம்/175-361658) · `ta`
+
+அஸ்கிரிய மகா விஹாரையின் அனுநாயக்க தேரர் அதி வணக்கத்திற்குரிய ஆனமடுவ ஸ்ரீ தம்மதஸ்ஸி  தேரரின் பூதவுடல் தகன நிகழ்வு இன்று வியாழக்கிழமை (24) அஸ்கிரிய பொலிஸ் மைதானத்தில் முழு அரச மரியாதையுடன் நடைபெறவுள்ளது.
+
+மறைந்த அஸ்கிரிய பீடத்தின் அனுநாயக்க அதி வணக்கத்துக்குரிய ஆனமடுவே தம்மதஸ்சி தேரரின் உடலுக்கு இறுதி அஞ்சலி செலுத்துவதற்காக மகா சங்கத்தினர் உட்பட ஏராளமான பொது மக்கள் மற்றும் துறவிகள் ஏற்கெனவே அஸ்கிரிய மகா விஹாரைக்கு விரைந்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/30c37bbb.json)
+
+---
 
 ### හර්ෂ ඉලුක්පිටියට දඬුවම් නියම කිරීමේ තීන්දුව කල් යයි
 
@@ -43,6 +175,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3de036e7.json)
+
+---
+
+### SC defers sentencing in contempt of court case filed against Immigration Controller General
+
+*2025-07-24 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110800/sc-defers-sentencing-in-contempt-of-court-case-filed-against-immigration-controller-general-) · `en`
+
+The Supreme Court has deferred the sentencing to September 23 in the contempt of court case filed against Harsha Illukpitiya, the Controller General of Immigration and Emigration, who has pleaded guilty.
+
+◼️
+
+[Data](articles/4b881f84.json)
 
 ---
 
@@ -101,6 +245,28 @@ Analysts have said such delay could dent future economic growth. Sri Lanka has t
 ...
 
 [Data](articles/9e11f4f9.json)
+
+---
+
+### Two arrested with ‘Ice’ worth Rs. 600,000 in Maligawatte
+
+*2025-07-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110799/two-arrested-with-ice-worth-rs-600000-in-maligawatte) · `en`
+
+A male and a female have been arrested while transporting a stock of “ice” (crystal methamphetamine) drugs worth over Rs. 600,000 in a three-wheeler, police stated.
+
+Police have seized 21.4 grams of ice in their possession along with Rs. 137,000 in cash, suspected to have been earned through drug trafficking.
+
+According to police, the arrested woman is a relative of Dematagoda Chaminda, a notorious underworld leader and drug trafficker currently serving a death sentence at the Boossa Prison for the murder of former Member of Parliament Bharatha Lakshman Premachandra.
+
+Based on a tip-off, police searched the three-wheeler parked in front of the Lak Hiru Sevana apartment complex in Maligawatte, where they discovered the drugs.
+
+During questioning, the suspects had stated that the drugs belonged to Dematagoda Chaminda and had been brought from Borella.
+
+The arrested man and woman, aged 35 and 48, are residents of Borella.
+
+◼️
+
+[Data](articles/ef5082f9.json)
 
 ---
 
@@ -203,6 +369,26 @@ Around 2014 after running out Treasury bills, the central bank used dollar rupee
 ◼️
 
 [Data](articles/08a8eadf.json)
+
+---
+
+### Australia to lift import ban on US beef after Trump tariffs tiff
+
+*2025-07-24 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110797/australia-to-lift-import-ban-on-us-beef-after-trump-tariffs-tiff) · `en`
+
+Australia will lift restrictions on the import of beef from the US, a trade barrier which had angered the Trump administration.
+
+American beef has effectively been banned from the country - which has some of the strictest biosecurity laws in the world - since 2003 after an outbreak of bovine spongiform encephalopathy, commonly known as mad cow disease.
+
+The White House cited the restrictions when explaining tariffs imposed on Australia in April, as part of US President Donald Trump’s so-called Liberation Day scheme.
+
+The Australian government has denied the timing of the decision was related to the trade tiff, saying a decade-long department review found the US had improved beef safety measures.
+
+Canberra technically lifted the ban on US beef in 2019, but cattle from Mexico and Canada remained on the blacklist, and the integration of their supply chains meant this essentially barred beef from the States too.
+
+...
+
+[Data](articles/2ac7f4dc.json)
 
 ---
 
@@ -1587,211 +1773,5 @@ India’s foreign ministry said that they were aware of the report “and have b
 ◼️
 
 [Data](articles/3ec791db.json)
-
----
-
-### ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රයේ ලොකු පිම්මක්
-
-*2025-07-23 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212561) · `si`
-
-ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය හෙන්ලි විදේශ ගමන් බලපත්‍ර දර්ශකයේ ස්ථාන 5ක් ඉදිරියට පැමිණ තිබේ.
-
-ඒ අනුව එම දර්ශකයේ 96 වන ස්ථානයේ සිට ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය 91 වන ස්ථානය දක්වා ඉදිරියට පැමිණ ඇත.
-
-පසුගිය වසරේදී ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රය ස්ථාන 4ක් ඉදිරියට පැමිණ තිබුණි.
-
-හෙන්ලි විදේශ ගමන් බලපත්‍ර දර්ශකය මෙම වසරේ රටවල් ශ්‍රේණිගත කරණු ලබන්නේ පූර්ව වීසා බලපත්‍රයක් නොමැතිව තම රටේ ජනතාවට ඇතුළුවිය හැකි ගමනාන්ත ගණන අනුව වෙයි.
-
-ඒ අනුව ශ්‍රී ලංකාවට ලෝකයේ ගමනාන්ත 42කට වීසා රහිත ප්‍රවේශය පවතී.
-
-සිංගප්පූරු විදේශ ගමන් බලපත්‍ර හිමියන්ට ගමනාන්ත 193කටත් ජපානය සහ දකුණු කොරියානු විදේශ ගමන් බලපත්‍ර හිමියන්ට රටවල් 190ක් සඳහාත් වීසා රහිත ප්‍රවේශය පවතී.
-
-මේ අතර එම දර්ශකයේ ඉන්දියාව ස්ථාන 8ක් ඉදිරියට පැමිණ ඇති අතර ඒ අනුව ඔවුන්ට 77 වන ස්ථානය හිමිව තිබේ.
-
-එම දර්ශකයේ අවසන් ස්ථාන හතරේ පාකිස්තානය, ඉරාකය, සිරියාව සහ ඇෆ්ගනිස්තානය රැඳී සිටී.
-
-◼️
-
-[Data](articles/9506c5b9.json)
-
----
-
-### Ex-Batticaloa OIC held under PTA for concealing info linked to Easter attacks
-
-*2025-07-23 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110781/ex-batticaloa-oic-held-under-pta-for-concealing-info-linked-to-easter-attacks) · `en`
-
-The Special Unit of the Criminal Investigation Department has informed the Colombo Fort Magistrate’s Court that a former Officer-in-Charge (OIC) of the Batticaloa Police is being detained and interrogated under the Prevention of Terrorism Act (PTA) in connection with an investigation related to the Easter Sunday attacks.
-
-The CID informed court that he was taken into custody on suspicion of concealing sensitive information related to the killing of two police officers in Vavunathivu and the incident involving the discovery of explosives in Sainthamaruthu, misdirecting the investigation by making misleading notes, suppressing evidence, and failing to disclose critical information.
-
-The CID further stated that the former OIC is currently being detained and questioned under a 72-hour detention order and, if necessary, they will seek court approval to extend the detention period for further questioning.
-
-◼️
-
-[Data](articles/0d4332f4.json)
-
----
-
-### Thailand envoy discusses full implementation of Sri Lanka FTA
-
-*2025-07-23 17:25:00* · [`economynextcom`](https://economynext.com/thailand-envoy-discusses-full-implementation-of-sri-lanka-fta-232475/) · `en`
-
-ECONOMYNEXT – The Thai Ambassador to Sri Lanka and Sri Lanka’s Speaker have discussed upcoming activities planned under bilateral cooperation, including initiatives to strengthen people-to-people connections.
-
-Ambassador Paitoon Mahapannaporn “expressed hope for the full implementation of the Free Trade Agreement (FTA) between Sri Lanka and Thailand, which would bring mutual benefits to both countries,” a parliament statement said.
-
-The discussions focused on “enhancing cooperation in key areas such as cultural exchange, tourism promotion, trade partnerships, and parliamentary collaboration”.
-
-Speaker Jagath Wickramaratne said that Sri Lanka is currently seeking to expand investment opportunities, especially in the fields of agriculture, industries and tourism. (Colombo/Jul23/2025)
-
-◼️
-
-[Data](articles/3a43d6a5.json)
-
----
-
-### මීළඟ අගවිනිසුරු ලෙස ප්‍රීති පද්මන් සූරසේනගේ නම ව්‍යවස්ථාදායක සභාව අනුමත කරයි
-
-*2025-07-23 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212560) · `si`
-
-මිළඟ අගවිනිසුරු ධුරය සඳහා ප්‍රීති පද්මන් සූරසේන මහතාගේ නම ව්‍යවස්ථාදායක සභාව විසින් ඒකමතිකව අනුමත කර තිබේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ප්‍රීති පද්මන් සූරසේන මහතාගේ නම පසුගියදා ව්‍යවස්ථාදායක සභාවට ඉදිරිපත් කළේය.
-
-ඒ අනුව අද (23) රැස්වූ ව්‍යවස්ථාදායක සභාවේදී ඊට අනුමැතිය හිමිවී තිබේ.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ ජ්‍යේෂ්ඨතම විනිසුරුවරයෙකු වන ප්‍රීති පද්මන් සූරසේන මහතා මීට පෙර අධිකරණ සේවා කොමිසමේ සාමාජිකයෙකු ලෙසද සේවය කළේය.
-
-ඉහළ පෙළේ නඩු කිහිපයක මුලසුන හොබවා ඇති ඒ මහතා, ධුරයේ රාජකාරී සිදුකිරීම අත්හිටුවා ඇති දේශබන්දු තෙන්නකෝන්ට එරෙහි චෝදනා විමර්ශනය කරන පාර්ලිමේන්තු කමිටුවේ සභාපතිවරයා ලෙසද කටයුතු කළේය.
-
-මේ අතර වත්මන් අගවිනිසුරු මුර්දු ප්‍රනාන්දු මෙම මස 27 වනදා එම ධුරයෙන් විශ්‍රාම යෑමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/34e8a230.json)
-
----
-
-### Preethi Padman Surasena confirmed as next Chief Justice of Sri Lanka
-
-*2025-07-23 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110780/preethi-padman-surasena-confirmed-as-next-chief-justiceofsrilanka) · `en`
-
-The Constitutional Council has ratified President Anura Kumara Dissanayake’s nomination of Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka.
-
-Justice Preethi Padman Surasena, one of the most senior justices in the Supreme Court was nominated by the President recently.
-
-Accordingly, the Constitutional Council, which convened today, ratified the nomination.
-
-Chief Justice Murdu Fernando is scheduled to retire on July 27, and a new Chief Justice is to be appointed to fill the vacancy shortly.
-
-◼️
-
-[Data](articles/ade9edc0.json)
-
----
-
-### මියගොස් සිටි වනඅලි සිව්දෙනා සම්බන්ධව නිවේදනයක්
-
-*2025-07-23 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212559) · `si`
-
-මියගොස් සිටි වනඅලි සිව්දෙනා සම්බන්ධව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව සහ පරිසර අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-එහි සඳහන් වන්නේ මෙවැනි වනඅලි ඇතුන් බහුලව ගැවසෙන රක්ෂිත ආශ්‍රිතව ජීවත් වන පුද්ගලයින් සන්තකයේ නීති විරෝධී ගිනිඅවි ඇත්නම් ඒ සම්බන්ධයෙන් විශේෂ මෙහෙයුම් දියත් කර අවශ්‍ය නීතිමය පියවර ගැනීම කඩිනමින් සිදුකිරීමට සැලසුම්කර කර ඇති බවය.
-
-එම කාර්යයන් සඳහා ප්‍රාදේශීය පොලිස් නිළධාරින්ගේ හා පොලිස් විශේෂ කාර්යය බලකායේ සහාය ලබාගැනීමට බලාපොරොත්තු වන බවද එම නිවේදන වල සඳහන් වේ.
-
-සීගිරිය දිගම්පතන ප්‍රදේශයේ මුරුංගාහිටිකන්ද වන සංරක්ෂණ රක්ෂිතය ආශ්‍රිතව මීට වසරකට පමණ ආසන්න කාල සිමාවක් තුල මියගොස් ඇති වන අලි තිදෙනෙකු හා ගල්ගමුව ඇහැටුවැව ප්‍රදේශයේ ආසන්න දිනක මියගොස් ඇති ඇතෙකු සම්බන්ධව කරුණු වාර්තා වී තිබුණි.
-
-සීගිරිය දිගම්පතන ප්‍රදේශයේ මියගිය වල් අලින් අතරින් එක් අලියකු 2025.02.03 වන දින වනජීවී නිළධාරින් වෙත පළමුවරට වාර්තා වී ඇති අතර ඒ සම්බන්ධව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව විසින් දඹුල්ල මහෙස්ත්‍රාක් අධිකරණයේ A/873/25 නඩුවක් ගොණුකර විමර්ශන කටයුතු සිදුකරමින් පවතී.
-
-...
-
-[Data](articles/a9cddfcf.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bonds steady
-
-*2025-07-23 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-232471/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly weaker at 301.80/85 to the US dollar in the spot market Wednesday, from 301.70/75 the previous day, while bond yields were broadly steady although shorter tenors edged up a bit, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.50/60, up from 8.45/56 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/55 percent, up from 9.48/53 percent.
-
-At a treasury bill auction today, the government sold less bills than offered.
-
-The central bank announced that it was keeping its policy rate steady earlier in the day. (Colombo/July23/2025)
-
-◼️
-
-[Data](articles/9d31d896.json)
-
----
-
-### පාස්කු විමර්ශනයකට අදාළව මඩකලපුව හිටපු පොලිස් OIC රඳවාගෙන ප්‍රශ්න කරයි
-
-*2025-07-23 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212558) · `si`
-
-පාස්කු ප්‍රහාරයන්ට අදාළව සිදු කරන විමර්ශනයක් සම්බන්ධයෙන් මඩකලපුව හිටපු පොලිස් ස්ථානාධිපතිවරයා ත්‍රස්තවදය වැළැක්වීමේ පනත යටතේ රඳවා ප්‍රශ්න කරන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ ඒකකය කොටුව අධිකරණයට දැනුම්දී තිබේ.
-
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් වන වවුනතිව් පොලිස් නිලධාරීන් දෙදෙනාගේ ඝාතනය සහ සයින්දමරුදු බෝම්බ පුපුරුවා හැරිමේ සිද්ධිය සම්බ්නධයෙන් වන සංවේදී තොරතුරු සඟවා ඉදිරිපත් කිරීම, විමර්ශනය නොමග යවන සුළු සටහන් යෙදීම, සාක්ෂි වසන් කිරීම, නිවැරදි කරුණු අනාවරණය නොකිරීම ඇතුළු කරුණු යටතේ සැකපිට ඔහු අත්අඩංගුව ගත් බව පොලීසිය අධිකරණයට දැනුම්දී තිබේ.
-
-හිටපු ස්ථානාධිපතිවරයා මේ වනවිට පැය 72ක රැඳවුම් නියෝග මත රඳවා ප්‍රශ්න කරන බව දැනුම් දුන් පොලීසිය අවශ්‍ය වුවහොත් තවදුරටත් රඳවා ප්‍රශ්න කිරීමට අවසර ලබා ගන්න බවද අධිකරණය වෙත කරුණු දක්වමින් පවසා ඇත.
-
-◼️
-
-[Data](articles/0f7e40ed.json)
-
----
-
-### Draft of National Media Policy unveiled
-
-*2025-07-23 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110779/draft-of-national-media-policy-unveiled-) · `en`
-
-The draft of the National Media Policy has been unveiled by the Ministry of Mass Media.
-
-The policy has been drafted through a multi-stakeholder and consultative process.
-
-The National Media Policy was drafted based on guidelines given by a 23-member steering committee which includes representatives from state agencies, the Editors’ Guild of Sri Lanka, Broadcaster’s Guild of Sri Lanka, Free Media Movement as well as media academics and other media specialists.
-
-National Media Policy - Draft English by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/52f29719.json)
-
----
-
-### වාහන ආනයනය සීමා කරන්නේ නෑ
-
-*2025-07-23 17:03:49* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-සීමා-කරන්නේ-නෑ/11-417470) · `si`
-
-වාහන ආනයනය සීමා කිරීමට මහ බැංකුවෙන් කිසිම සූදානමක් නොමැති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පැවැසීය. තමන්ගේ දැනුම හැටියට රජයෙන්ද එවැනි ආකාරයක වාහන ආනයනය සීමා කිරීමට තීරණයක් ගෙන නොමැති බවද ඔහු පැවැසීය.
-
-මුදල් ප්‍රතිපත්ති විවරණය සම්බන්ධයෙන් අද කොළඹදී පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව පැවැසීය.
-
-◼️
-
-[Data](articles/a25fd2ff.json)
-
----
-
-### கறுப்பு ஜூலை நினைவு தினம்
-
-*2025-07-23 16:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கறுப்பு-ஜூலை-நினைவு-தினம்/175-361624) · `ta`
-
-யாழ்ப்பாணப் பல்கலைக்கழகத்தில் பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டில்  புதன்கிழமை (23) கறுப்பு ஜூலை நினைவுதினம் உணர்வுபூர்வமாக அனுஷ்டிக்கப்பட்டது.
-
-பல்கலைக்கழக பிரதான வளாகத்தில் கறுப்பு ஜூலை நினைவுருவ படத்திற்கு மாணவர்களால் அகவணக்கம் செலுத்தப்பட்டு மலரஞ்சலி செலுத்தப்பட்டது.
-
-1983 கறுப்பு ஜூலை வாரத்தில் தமிழிர்களுக்கு இழைக்கபட்ட அநீதிகள் தொடர்பான நினைவுரையும் இடம்பெற்றது.
-
-◼️
-
-[Data](articles/789e084a.json)
 
 ---

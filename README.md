@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 08:12:43**
+As of **2025-07-24 09:01:56**
 
 ## Newspaper Stats
 
-*Scraped **66,444** Articles*
+*Scraped **66,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ economynextcom | 4,060
 islandlk | 4,064
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,375
-adaderanalk | 8,151
-tamilmirrorlk | 9,571
-virakesarilk | 11,072
-adaderanasinhalalk | 11,406
+adalk | 6,376
+adaderanalk | 8,156
+tamilmirrorlk | 9,573
+virakesarilk | 11,073
+adaderanasinhalalk | 11,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,444 articles have been extended.
+61,973 (93.3%) of 66,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### රඹුටන් ගස් ආශ්‍රිතව සිදුවන අනතුරුවල ඉහළ යාමක්
+
+*2025-07-24 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212572) · `si`
+
+පසුගිය වසරවලට සාපේක්ෂව මේ වසර තුළ රඹුටන් ගස් ආශ්‍රිතව සිදුවන අනතුරුවල ඉහළ යාමක් දක්නට ලැබෙන බව සෞඛ්‍ය අංශ පවසයි.
+
+රඹුටන් ඵලදාව සතුන්ගෙන් ආරක්ෂා කරගැනීම සඳහා ඇතැම් පුද්ගලයින් විසින් එම ගස්වලට විදුලි රැහැන් ඇදීම හේතුවෙන් මෙම අනතුරු සිදුවන බව කොළඹ ජාතික රෝහලේ හදිසි අනතුරු අංශයේ විශේෂඥ ශල්‍ය වෛද්‍ය විරාජ් රෝහණ අබේකෝන් මහතා සඳහන් කළේය.
+
+ඒ අනුව කොළඹ ජාතික රෝහලේ හදිසි අනතුරු අංශයේ මේ වන විට පුද්ගලයින් කිහිපදෙනෙකු ප්‍රතිකාර ලබන බව විශේෂඥ ශල්‍ය වෛද්‍ය විරාජ් රෝහණ අබේකෝන් මහතා පවසයි.
+
+මේ අතර කුඩා ළමුන්ට රඹුටන් ආහාරයට ලබාදීමේ දී ඒ සම්බන්ධයෙන් දෙමව්පියන් වැඩි සැලකිල්ලක් දැක්විය යුතු බව ද ඒ මහතා වැඩිදුරටත් අවදාරණය කළේය.
+
+◼️
+
+[Data](articles/08a8eadf.json)
+
+---
+
+### கறுப்பு ஜூலை இலங்கையின் வரலாற்றில் ஒரு சோகமான அத்தியாயம் - கனடா பிரதமர் மார்க் கார்னி
+
+*2025-07-24 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220776) · `ta`
+
+கறுப்பு ஜூலை இலங்கையின் வரலாற்றில் ஒரு சோகமாக அத்தியாயமாகவே உள்ளது என கனடாவின் பிரதமர் மார்க் கார்னி தெரிவித்துள்ளார்.
+
+கறுப்புஜூலையை குறிக்கும் விதத்தில் வெளியிட்டுள்ள அறிக்கையில் இதனை குறிப்பிட்டுள்ள அவர் மேலும் தெரிவித்துள்ளதாவது
+
+நாற்பத்திரண்டு ஆண்டுகளுக்கு முன்பு இலங்கையில் தமிழர்களுக்கு எதிரான ஒரு இனப்படுகொலை வெடித்தது ஆயிரக்கணக்கானோர் கொல்லப்பட்டனர்இ குடும்பங்கள் உடைந்தன எண்ணற்றோர் வெளியேற வேண்டிய கட்டாயம் ஏற்பட்டது. இலங்கை வரலாற்றில் கருப்பு ஜூலை ஒரு சோகமான அத்தியாயமாகவே உள்ளது.
+
+தமிழ்-கனடியர்களின் ஆதரவால் உந்தப்பட்டு 1983 ஆம் ஆண்டு துன்புறுத்தலில் இருந்து தப்பி ஓடும் 1800க்கும் மேற்பட்ட தமிழர்களை வரவேற்க கனடா ஒரு சிறப்பு நடவடிக்கை திட்டத்தை செயல்படுத்தியது மேலும் 2022 ஆம் ஆண்டில் கனடா நாடாளுமன்றம் மே 18 ஆம் தேதியை தமிழ் இனப்படுகொலை நினைவு தினமாக ஒருமனதாக அறிவித்தது - இது உண்மைஇ நீதி மற்றும் பொறுப்புக்கூறலுக்கான நீடித்த அர்ப்பணிப்பாகும்.
+
+...
+
+[Data](articles/a7e85729.json)
+
+---
+
+### අපවත් වී වදාළ අස්ගිරි අනුනායක හිමිගේ අදාහන පුජෝත්සවය අද
+
+*2025-07-24 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212571) · `si`
+
+අපවත් වී වදාළ අස්ගිරි මහ විහාර පාර්ශවයේ අනුනායක අති පුජ්‍ය ආනමඩුවේ දම්මදස්සි හිමිගේ දේහය පිළිබඳ අවසන් කටයුතු අද (24) දින සිදුකිරීමට නියමිතව තිබේ.
+
+මහනුවර අස්ගිරි පොලිස් ක්‍රීඩාංගණයේ දී අද පස්වරුවේ පූර්ණ රාජ්‍ය අනුග්‍රහය සහිතව එම කටයුතු සිදුකිරීමට නියමිතය.
+
+මහනුවර පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී පසුගිය 21 වන දින පුජ්‍ය ආනමඩුවේ දම්මදස්සි හිමියන් අපවත් විය.
+
+අපවත් වී වදාළ අති පුජ්‍ය ආනමඩුවේ දම්මදස්සි හිමිගේ දේහය මේ වන විට මහජන ගෞරවය සඳහා අස්ගිරි මහා විහාරයේ අතිපුජ්‍ය උඩුගම ශ්‍රී බුද්ධරක්ඛිත මහනාහිමි අනුස්මරණ ශාලාවේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/15d83c99.json)
+
+---
+
+### ஜனாதிபதிக்கு பாரிய போராட்டம்: உக்ரைனில் பதற்றம்
+
+*2025-07-24 08:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-பாரிய-போராட்டம்-உக்ரைனில்-பதற்றம்/50-361651) · `ta`
+
+உக்ரைனின் ஊழல் எதிர்ப்பு அமைப்புகளின் சுதந்திரத்தை பலவீனப்படுத்துவதாக விமர்சகர்கள் கூறும் ஒரு சட்டமூலத்தில் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி கையெழுத்திட்டுள்ளார்.
+
+புதிய சட்டம் தேசிய ஊழல் தடுப்புப் பணியகம் மற்றும் சிறப்பு ஊழல் தடுப்பு சட்டத்தரணிகள் அலுவலகம் ஆகியவற்றின் அதிகாரத்தை கட்டுப்படுத்துகிறது.
+
+◼️
+
+[Data](articles/361981fa.json)
+
+---
+
+### At least 20 injured elephants receiving treatment at present
+
+*2025-07-24 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110795/at-least-20-injured-elephants-receiving-treatment-at-present) · `en`
+
+At least 20 injured elephants are currently receiving treatment across the country, according to the Department of Wildlife Conservation.
+
+According to the Department, most of the elephants receiving treatment have sustained leg injuries due to gunshot wounds and being caught in snares.
+
+Accordingly, it is reported that eight elephants in the Anuradhapura wildlife zone, four in the Polonnaruwa wildlife zone, three in the Northwestern wildlife zone, and five in the Uva wildlife zone are currently receiving treatment.
+
+Meanwhile, the Director General of the Department of Wildlife Conservation, Ranjan Marasinghe stated that a request has been made to the Inspector General of Police to provide the necessary technical and other assistance to conduct investigations regarding three elephant deaths reported from the Digampathaha area.
+
+...
+
+[Data](articles/1f40e6f5.json)
+
+---
+
+### சீனர்களுக்கு சுற்றுலா விசாவை வழங்கும் இந்தியா
+
+*2025-07-24 07:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனர்களுக்கு-சுற்றுலா-விசாவை-வழங்கும்-இந்தியா/175-361650) · `ta`
+
+சீன நாட்டவர்கள் இந்தியாவுக்கு சுற்றுலா வருவதற்கான விசா சேவையை, 5 ஆண்டுகளுக்குப் பிறகு இந்தியா மீண்டும் இன்று தொடங்குகிறது.
+
+இது தொடர்பாக சீனாவில் உள்ள இந்திய தூதரகம் சார்பில் சமூக ஊடக பக்கத்தில் வெளியிடப்பட்டுள்ள பதிவில்,
+
+சீன குடிமக்கள் இந்தியாவுக்கு வருகை தர சுற்றுலா விசாவுக்கு ஜூலை 24 முதல் விண்ணப்பிக்கலாம். முதலில் ஒன்லைன் முறையில் விசா கோரி விண்ணப்பிக்க வேண்டும். அதன் பிறகு, இந்திய விசா விண்ணப்ப மையத்தில் விசா விண்ணப்பம் மற்றும் கடவுச்சீட்டு உள்ளிட்டவற்றை சமர்ப்பிக்க வேண்டும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+லடாக்கில் உள்ள கல்வான் பள்ளத்தாக்கில் இந்திய - சீன இராணுவத்துக்கு இடையே ஏற்பட்ட மோதலை அடுத்து 2020 முதல் சீன நாட்டவர்களுக்கான சுற்றுலா விசா சேவையை இந்தியா தற்காலிகமாக நிறுத்தியது. மேலும், சீன முதலீட்டாளர்களுக்கு கட்டுப்பாடுகள் விதிக்கப்பட்டன. நூற்றுக்கணக்கான சீன செயலிகள்  தடை செய்யப்பட்டன. கொவிட் பெருந்தொற்றை கருத்தில் கொண்டும், சீன நாட்டினருக்கான விசா சேவை நிறுத்தம் நீட்டிக்கப்பட்டு வந்தது.
+
+...
+
+[Data](articles/9b345ff6.json)
+
+---
+
+### දිවයින පුරා ආබාධිත වනඅලි 20ක්
+
+*2025-07-24 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212570) · `si`
+
+දිවයින පුරා ආබාධිත තත්ත්වයේ පසුවන වනඅලි 20 දෙනෙකු සඳහා වනජීවි නිලධාරීන් විසින් ප්‍රතිකාර සිදුකරමින් පවතින බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+
+ප්‍රතිකාර ලබන වන අලින්ගෙන් වැඩි දෙනෙකු වෙඩි වැදීම්වලට සහ මදුවලට හසුවී පාද ආබාධයට ලක්වූ අලින් බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ අනුව අනුරාධපුර වනජීවි කලාපයේ වන අලින් 8 දෙනෙකු, පොළොන්නරුව වනජීවි කලාපයේ වන අලින් සිව්දෙනෙකු, වයඹ වනජිවි කලාපයේ වන අලින් තිදෙනෙකු සහ ඌව වනජීවි කලාපයේ වන අලින් පස් දෙනෙකු එලෙස ප්‍රතිකාර ලබන බව සඳහන් වේ.
+
+මේ අතර වනජීවී දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් රන්ජන් මාරසිංහ මහතා පැවසුවේ දිගම්පතහ ප්‍රදේශයෙන් වාර්තා වු වන අලි මරණ තුන සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීම සඳහා අවශ්‍ය තාක්ෂණික සහ වෙනත් සහය ලබාදෙන ලෙසට පොලිස්පතිවරයාගෙන් ඉල්ලීමක් කර ඇති බවයි.
+
+එමෙන්ම සංවිධානාත්මක කණ්ඩායමක් විසින් වන අලින් ඝාතනය සිදුකරන බව සත්ත්ව සුබසාධක ප්‍රජාව නියෝජනය කරමින් ඊයේ (23) පැවති මාධ්‍ය හමුවකට එක්වෙමින් පුජ්‍ය පාගොඩ ජනිතවංශ හිමි පැවසුවේය.
+
+◼️
+
+[Data](articles/80e1734b.json)
+
+---
 
 ### கள்ளத்தொடர்பு விவகாரம்:தந்தை, இரண்டு மகன்கள் உட்பட நால்வருக்கு மரணதண்டனை
 
@@ -63,6 +187,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2cd95cb2.json)
+
+---
+
+### Parliament to debate proposed education reforms
+
+*2025-07-24 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110793/parliament-to-debate-proposed-education-reforms) · `en`
+
+An adjournment debate on the proposed education reforms is scheduled to be held in Parliament today (24).
+
+Parliament is scheduled to convene at 9:30 a.m. while the debate is expected to take place until 5:30 p.m., according to the Department of Communication of Parliament.
+
+Meanwhile, the Sri Lanka Electricity (Amendment) Bill, which was due to be debated today, will not take place as scheduled.
+
+Accordingly, a decision has been taken to debate the Sri Lanka Electricity (Amendment) Bill, on a future date.
+
+The decision was taken by the Committee on Parliamentary Business, which convened earlier this week.
+
+◼️
+
+[Data](articles/cc91a9e3.json)
 
 ---
 
@@ -117,6 +261,68 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/65d2acc9.json)
+
+---
+
+### India, U.K. to sign free trade agreement today
+
+*2025-07-24 05:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110792/india-uk-to-sign-free-trade-agreement-today) · `en`
+
+Britain and India will sign a landmark free trade agreement on Thursday during a visit by Indian Prime Minister Narendra Modi, sealing a deal to cut tariffs on goods from textiles to whisky and cars and allow more market access for businesses.
+
+The two countries concluded talks on the long-coveted free trade pact in May after three years of stop-start negotiations, with both sides hastening efforts to clinch a deal in the shadow of tariff turmoil sparked by U.S. President Donald Trump.
+
+The agreement between the world’s fifth and sixth largest economies aims to increase bilateral trade by a further 25.5 billion pounds ($34 billion) by 2040.
+
+It will take effect after the British parliament and India’s federal cabinet approve it, likely within a year.
+
+“Our landmark trade deal with India is a major win for Britain. It will create thousands of British jobs across the UK, unlock new opportunities for businesses and drive growth,” British Prime Minister Keir Starmer said.
+
+...
+
+[Data](articles/4506a346.json)
+
+---
+
+### Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held in Kandy
+
+*2025-07-24 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110791/final-rites-of-most-ven-anamaduwe-sri-dhammadassi-thero-to-be-held-in-kandy-) · `en`
+
+Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held in Kandy
+
+The final rites of the late Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero is scheduled to take place with state sponsorship today (24).
+
+The cremation and funeral proceedings will take place at 2:30 p.m. at the Asgiriya Police Grounds in Kandy, according to the Funeral Committee.
+
+The mortal remains of the Anunayake Thero Most Venerable Anamaduwe Sri Dhammadassi Thero, lie in state at the Upali Memorial Hall of the Asgiri Temple in Kandy.
+
+The remains of the late Thero were taken to the Liyangastenna Purana Viharaya on Monday for the public to pay final respects. On Tuesday, the remains were brought to the Asgiriya Temple for the public to pay their last respects.
+
+The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero passed away at the age of 67, on Sunday (20).
+
+...
+
+[Data](articles/debfe7f9.json)
+
+---
+
+### Showers expected in several areas today
+
+*2025-07-24 05:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110790/showers-expected-in-several-areas-today) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (24), the Department of Meteorology stated.
+
+Several spells of showers may occur in the North-western province as well.
+
+Meanwhile, strong winds of about 55-60kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Central provinces and in the Trincomalee and Hambantota districts.
+
+Fairly strong winds of about 40-50kmph can be expected at times elsewhere, the Met. Department noted.
+
+The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/2ecb9eb5.json)
 
 ---
 
@@ -1010,6 +1216,20 @@ The private sector credit growth has risen at a multi-year high of 16.1 percent 
 
 ---
 
+### අලි ඇතුන් ඝාතනය කරන්නේ ස්නයිපර් කල්ලියකින්
+
+*2025-07-23 18:51:06* · [`adalk`](https://www.ada.lk/breaking_news/අලි-ඇතුන්-ඝාතනය-කරන්නේ-ස්නයිපර්-කල්ලියකින්/11-417475) · `si`
+
+'මනාප' ලබා ගැනීමේ අරමුණින් වනාන්තර ප්‍රදේශ ජනතා පරිහරණයට පත්කිරීම සඳහා සංවිධානාත්මක ස්නයිෆර් කල්ලියක් යොදා ගනිමින්, ඇතුන් හා වනඅලි ඝාතන සිදු කෙරෙන බව පැහැදිලි බවත් ඒ අනුව රජය මීට අනිවාර්යෙන් පිළිතුරු ලබා දිය යුතු බවත් පූජ්‍ය පාගොඩ ජනිතවංශ හිමියන්ගේ ප්‍රධානත්වයෙන් කොළඹදී අද (23දා) පැවති සත්ත්ව සංවිධාන මාධ්‍ය හමුවකදී දැඩිව චෝදනා නැඟිණ.
+
+මෙහිදී එම සංවිධාන පෙන්වා දුන්නේ දුර සිට එල්ලය ගෙන හිසට වෙඩි තබා අලි ඇතුන් ඝාතනය කිරීම හේතුවෙන් එය ස්නයිෆර් කල්ලියක් විසින් සිදු කරන බවට පැහැදිලිව සාක්ෂි දරන බවයි.එසේම ගල්ගමුව අලි මාරුවන පාලම ඉදිකිරිම ප්‍රමාද කිරීමට හේතුව ශ්‍රී ලංකාවේ උසම ඇතා වන 'කාවන්තිස්ස' ඝාතනය කිරීම සඳහා සැලසුමක් වන බවට ජනතාව ඇතුළු පරිසරවේදීන්ට තතු අනාවරණය වන බවත් එය එසේ නොවන්නේ නම් පාලම කඩිනමින් ඉදි කිරීමට රජය පියවර ගතයුතු බවත්  මාධ්‍ය හමුවේදී ඔවුහු අවධාරණය කර සිටියහ.
+
+...
+
+[Data](articles/3b2b2611.json)
+
+---
+
 ### කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට
 
 *2025-07-23 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212562) · `si`
@@ -1567,235 +1787,5 @@ In the colonial period, the British introduced the Colebrooke-Cameron reforms of
 ...
 
 [Data](articles/90d099b7.json)
-
----
-
-### විශේෂඥ වෛද්‍යවරු රට හැර නොයා මෙරට තුළ රැදී සිටීමේ ප්‍රවණතාවයක්
-
-*2025-07-23 16:09:30* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂඥ-වෛද්‍යවරු-රට-හැර-නොයා-මෙරට-තුළ-රැදී-සිටීමේ-ප්‍රවණතාවයක්/11-417466) · `si`
-
-·     එරාවුර් රෝහල මුලික රෝහලක් ලෙස උසස් කිරීමට අමාත්‍යවරයාගේ අවධානය.
-
-·     සෞඛ්‍ය සේවාවේ පැරණි පුරප්පාඩු ලේඛනය මේ වසරේ යථාවත් කිරීමට පියවර.
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා නැගෙනහිර පළාතේ මඩකලපුව දිස්ත්‍රික්කයේ රෝහල් සහ සෞඛ්‍ය ආයතනවලින් ජනතාවට ලබාදෙනු ලබන සෞඛ්‍ය සේවාවන් හි වත්මන් තත්ත්වයන් පිළිබද විශේෂ නිරීක්ෂණයක නිරත වෙමින් මඩකලපුව දිස්ත්‍රික්කයේ එරාවූර් රෝහලේ විශේෂ නිරීක්ෂණයක පසුගිය දා නිරත විය.
-
-එම නිරීක්ෂණයෙන් අනතුරුව එරාවූර් රෝහලේ පාලනාධිකාරිය සහ රෝහල් කාර්ය මණ්ඩලය සමග රෝහල් ශ්‍රවණාගාරයේ දී  රෝහලේ පවතින ගැටළු නිරාකරණය උදෙසා  පැවැති විශේෂ සාකච්ඡාවේ දී අමාත්‍යවරයා ඉහත කරුණු අනාවරණය කරන ලදි.
-
-...
-
-[Data](articles/d95787f4.json)
-
----
-
-### Sri Lanka sells Rs19.8bn treasury bills after offering Rs111bn
-
-*2025-07-23 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs19-8bn-treasury-bills-after-offering-rs111bn-232439/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 19.87 billion rupees of Treasury bills, with yields steady across maturities, after offering 111 billion, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.62 percent, with 26 billion rupees offered and 1.19 billion sold.
-
-The 6-month yield was unchanged at 7.91 percent, with 50 billion rupees offered and 9.43 billion sold.
-
-The 12-month yield was down 1 basis point at 8.03 percent with 35 billion rupees of bills offered and 9.24 billion rupees bills sold.
-
-All 3 bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/49d99046.json)
-
----
-
-### Asian Development Bank lowers Sri Lanka’s GDP growth estimate for FY2025
-
-*2025-07-23 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110776/asian-development-bank-lowers-sri-lankas-gdp-growth-estimate-for-fy2025) · `en`
-
-The Asian Development Bank (ADB) has revised downward its GDP growth forecast for Sri Lanka, primarily due to the effects of US tariff policies.
-
-The revised forecast, detailed in the ADB’s Asian Development Outlook (ADO) July 2025 report, comes as Sri Lanka’s economy is facing times of uncertainty over the proposed reciprocal tariffs by US President Donald Trump.
-
-The ADB has revised the growth outlook for South Asia for 2025 from 6.0% in the April 2025 ADO to 5.9%.
-
-It noted, “the slight downward revisions for GDP growth in India and Sri Lanka in 2025 are primarily due to the effects of US tariff policies.”
-
-For the broader region, the ADB has lowered growth projections for developing Asia and the Pacific due to a reduction in exports, global trade uncertainties, and weaker domestic demand. The region’s economic growth is now projected at 4.7% for FY2025, down from 4.9% previously, with the forecast for FY2026 also lowered to 4.6%.
-
-...
-
-[Data](articles/64f8d84d.json)
-
----
-
-### Yarlung Zangbo ජල විදුලි බලාගාර ව්‍යාපෘතිය ගැන චීනයෙන් ප්‍රකාශයක්
-
-*2025-07-23 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212555) · `si`
-
-ලොව විශාලතම ජල විදුලි බලාගාරයේ වේල්ල ඉදිකිරීමේ කටයුතු චීනය පසුගිය දා ආරම්භ කර තිබේ.
-
-චීනයේ ෂිසාන් ස්වායත්තයේ පිහිටි Yarlung Zangbo ගංගාවේ පහළ ප්‍රදේශයේ මෙම ජල විදුලි ව්‍යාපෘතියේ ඉදිකිරීම් සිදු වේ.
-
-එම ප්‍රදේශය සම්පූර්ණයෙන් චීනයේ ස්වෛරීභාවයට අයත් ප්‍රදේශයක් බව චීන විදේශ අමාත්‍යාංශයේ ප්‍රකාශක Guo Jiakun මහතා මේ බව ප්‍රකාශ කළේ අද (23) පැවති නිත්‍ය මාධ්‍ය හමුවේදීය.
-
-පිරිසිදු බලශක්ති සංවර්ධනය වේගවත් කිරීම, එම ප්‍රදේශයේ ජනතාවගේ ජීවනෝපාය වැඩිදියුණු කිරීම සහ දේශගුණික විපර්යාසයන්ට ක්‍රියාකාරීව ප්‍රතිචාර දැක්වීම එහි අරමුණු වන බව ඔහු සඳහන් කළේය.
-
-එම ව්‍යාපෘතිය Yarlung Zangbo ගඟේ සමස්ත ප්‍රදේශයේ ආපදා වැළැක්වීමට ඉවහල් වනු ඇති අතර පහළ ගංගා ප්‍රදේශයට අහිතකර බලපෑමක් එල්ල නොවනු ඇති බවට ඔහු අවධාරණය කරයි.
-
-ජල විද්‍යාත්මක නිරීක්ෂණය, ගංවතුර වැළැක්වීම සහ ආපදා අවම කිරීම සම්බන්ධයෙන් චීනය අදාළ පහළ ගංගා ප්‍රදේශයේ රටවල් සමඟ විධිමත් සහයෝගීතාවයක් පවත්වා ඇති බවත්, එම ජල විදුලි ව්‍යාපෘතිය සම්බන්ධයෙන් අවශ්‍ය සන්නිවේදනය විධිමත් ව සිදුකර ඇති බවත් Guo Jiakun මහතා පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/a88877c2.json)
-
----
-
-### வெளிநாடு செல்லவிருந்த தாயை கள்ளக்காதலன்  கழுத்தறுத்து ஏன்? கொன்றார்
-
-*2025-07-23 15:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெளிநாடு-செல்லவிருந்த-தாயை-கள்ளக்காதலன்-கழுத்தறுத்து-ஏன்-கொன்றார்/76-361613) · `ta`
-
-வெளிநாட்டுக்கு பணிப்பெண்ணாக செல்லவிருந்த மூன்று பிள்ளைகளின் 39 வயதான தாயொருவர், தன்னுடைய கள்ளக்காதலனால் கழுத்தறுத்து படுகொலை செய்யப்பட்ட சம்பவம் நாவலப்பிட்டிய, இம்புல்பிட்டிய தோட்டத்திலுள்ள பாழடைந்த பங்களாவுக்குள் இடம்பெற்றுள்ளது.
-
-அந்த பெண்ணின் கழுத்தை அறுத்து படுகொலை செய்த நபர், கம்பளை பொலிஸில் செவ்வாய்க்கிழமை (22) சரணடைந்த நிலையில், மேலதிக விசாரணைக்காக நாவலப்பிட்டிய பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
-
-படுகொலைச் செய்யப்பட்ட பெண், சந்தேக நபருடன், கம்பளை, புசல்லாவை பகுதியில் 9 மாதங்களாக வசித்து வந்துள்ளார் எனவும், தனது சட்டப்பூர்வ கணவரின் வீட்டுக்கு செவ்வாய்க்கிழமை (22) சென்றுள்ளார் எனவும், அங்கிருந்து தன்னுடைய கள்ளக்காதலனுடன் தொலைபேசியில் உரையாடியுள்ளார் எனவும் தெரிவிக்கப்படுகின்றது.
-
-குறித்த பெண் வீட்டு வேலைக்காக வெளிநாடு செல்ல திட்டமிட்டிருந்தார் எனவும், அதற்கு கள்ளத் தொடர்பை பேணிய நபர் கடும் எதிர்ப்பை வெளியிட்டுவந்தார் எனவும் ஆரம்பக்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/7c9eb3d5.json)
-
----
-
-### இலங்கை - பயங்கரதீவு - ஒரு குற்றச்சாட்டு -1983 ஜூலை கலவரத்தை நேரில் பார்த்தவரின் மனதை கலங்கவைக்கும் நாட்குறிப்பு
-
-*2025-07-23 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/220732) · `ta`
-
-1983ஆம் ஆண்டு ஜூலை மாதம்  27ஆம் திகதி ஐந்தரை மணி - இரத்மலானை விமானப்படையின் அகதிமுகாமில் இருந்தபோது நான் நாற்குறிப்பொன்றை எழுத தீர்மானித்தேன்.
-
-திங்கட்கிழமை 25ஆம் திகதி அதிகாலை முதல் கட்டவிழ்த்துவிடப்பட்டுள்ள எதிர்பாராத வன்முறை காரணமாக வீடுகளை இழந்த ஆயிரக்கணக்கான தமிழர்கள் அதிர்ச்சியிலும் விரக்தியிலும் சிக்குண்டிருப்பதை பார்த்த பின்னரே நான் நடந்த சம்பவங்களை நாற்குறிப்பில் பதிவு செய்ய தீர்மானித்தேன்.
-
-பலர் தங்கள் அன்புக்குரியவர்களை இழந்திருந்தனர் பலர் சிங்கள காட்டுமிராண்டிகளால் கொல்லப்பட்டனர். ஈவிரக்கமற்ற சிங்களவர்களிடம் பல இளம் பெண்கள் தங்களை இழந்திருந்தனர்.
-
-சிங்கள பௌத்தர்கள் என தங்களை அழைத்துக்கொள்ளும் மக்கள் செய்யும் அட்டூழியங்களை நாகரிக உலகிற்கு என்றோ ஒருநாள் நானோ அல்லது வேறு யாரோ கொண்டுசெல்ல முடியும் என்ற உறுதியான நம்பிக்கையுடன் இந்த நாட்குறிப்பை நான் ஆரம்பிக்கின்றேன்.
-
-அதன் பின்னர் இந்த முகாமில் இடம்பெற்ற விடயங்கள் குறித்தும் இரத்மலானை விமான நிலையத்தில் தஞ்சமடைவதற்கு முன்னர் எனது தனிப்பட்ட அனுபவங்கள் குறித்தும் நான் தெரிவிக்கப்போகின்றேன்.
-
-...
-
-[Data](articles/e6bd569f.json)
-
----
-
-### Doha-bound Air India flight faces technical snag; plane makes precautionary landing
-
-*2025-07-23 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110774/mid-air-disruption-doha-bound-air-india-express-flight-faces-technical-snag-plane-makes-precautionary) · `en`
-
-A Doha-bound Air India Express flight from Calicut International Airport was forced to return on Wednesday morning due to a technical fault, airport officials confirmed. The aircraft was carrying 188 passengers, including crew and pilots.
-
-The plane landed safely back at the airport after a two-hour journey. Flight IX 375 took off from Calicut at around 9.07 am but made a return landing at 11.12 am due to a fault in the cabin air conditioning system.
-
-...
-
-[Data](articles/042e332c.json)
-
----
-
-### Doha-bound Air India flight faces technical snag; plane makes precautionary landing
-
-*2025-07-23 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110774/doha-bound-air-india-flight-faces-technical-snag-plane-makes-precautionary-landing) · `en`
-
-A Doha-bound Air India Express flight from Calicut International Airport was forced to return on Wednesday morning due to a technical fault, airport officials confirmed. The aircraft was carrying 188 passengers, including crew and pilots.
-
-The plane landed safely back at the airport after a two-hour journey. Flight IX 375 took off from Calicut at around 9.07 am but made a return landing at 11.12 am due to a fault in the cabin air conditioning system.
-
-...
-
-[Data](articles/a0203882.json)
-
----
-
-### 2026 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம் ; கல்வி அமைச்சர் ஹரிணி வெளியிட்டுள்ள முக்கிய விடயங்கள்
-
-*2025-07-23 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/220729) · `ta`
-
-கல்வியை அளவிடும் பாரம்பரியப் பரீட்சை முறைக்கு மாற்றாக, தொகுதி முறை (module) கல்வித் திட்டத்தை அறிமுகப்படுத்தியிருப்பதாக கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்துள்ளார். இதன் முக்கிய நோக்கம் மாணவர்களுக்கு தரமான கல்வியை வழங்குவதாகும் என்றும் அவர் சுட்டிக்காட்டினார்.
-
-2026 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம் குறித்து,இன்று புதன்கிழமை (23) பத்தரமுல்லை இசுருபாயவில் உள்ள கல்வி அமைச்சில் நடைபெற்ற ஊடகவியலாளர்களுக்கான விழிப்புணர்வு நிகழ்வில் பிரதமர் இதனைக் கூறினார்.
-
-இந்த சீர்திருத்தம் குறித்த விளக்கங்களை கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ மற்றும் தேசிய கல்வி நிறுவனத்தின் பணிப்பாளர் கலாநிதி அசோக டி சில்வா ஆகியோர் ஊடக நிறுவனங்களின் ஊடகவியலாளர்களுக்கு வழங்கினர்.
-
-...
-
-[Data](articles/1ff549b0.json)
-
----
-
-### Sri Lanka CB chief says no plans to limit car imports
-
-*2025-07-23 15:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-says-no-limit-imposed-on-vehicle-imports-232437/) · `en`
-
-ECONOMYNEXT – Sri Lanka Central Bank and has no plans to limits vehicle imports, and to his knowledge neither did the government, Central Bank Governor Nandalal Weerasinghe said
-
-The International Monetary Fund (IMF) earlier this month said high-frequency data have suggested a steady growth in motor vehicle imports after the removal of import restrictions on February 1, with around 675 million dollar in letters of credit opened by June 10.
-
-“There is no concern from the central bank on vehicle imports. There is no limit and the open market will continue for vehicle imports,” Governor Weerasinghe told reporters at a post-monetary policy media brief on Wednesday.
-
-“The government also is not against that idea as far as I know.”
-
-The Central Bank before vehicle imports started informed the Finance Ministry that the country could import up to 1 billion dollar worth vehicles this year. (Colombo/July 23/2025)
-
-◼️
-
-[Data](articles/21a847b6.json)
-
----
-
-### ඉන්දීයාව පුරා  චිකුන්ගුන්යා වසංගත තත්ත්වයක්
-
-*2025-07-23 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212553) · `si`
-
-මදුරුවන්ගෙන් බෝවන චිකුන්ගුන්යා රෝගය ඉන්දීය සාගර කලාපය කේන්ද්‍ර කොටගෙන වසංගතයක් ලෙසින් ව්‍යාප්ත වෙමින් පවතින බවට ලෝක සෞඛ්‍ය සංවිධානය අනතුරු අඟවා තිබේ.
-
-එම සංවිධානය තවදුරටත් කරුණු දක්වනු ලබන්නේ  මේ වනවිට චිකුන්ගුන්යා රෝගය යුරෝපය ඇතුළු වෙනත් කලාප වෙත ද ව්‍යාප්ත වෙමින් පවතින බවයි.
-
-වෛරසය පැතිරීමේ අවදානම පවතින රටවල් 119ක බිලියන 5.6ක පමණ ජනගහණයක් වාසය කරන බවට ඇස්තමේන්තු කර තිබේ.
-
-ලෝක සෞඛ්‍ය සංවිධානයේ වෛද්‍ය නිලධාරීනි ඩියානා රොහාස් අල්වාරෙස් ජිනීවා නුවරදී ඊයේ ප්‍රකාශ කර ඇත්තේ චිකුන්ගුන්යා නැවත පැතිරීම ඉතිහාසයේ නවමු සිදුවීමක් ලෙස හැඳින්විය හැකි බවයි.
-
-මීට පෙර 2004 - 2005 කාල වකවානුවේදී චිකුන්ගුන්යා රෝගය ලොව පුරා වසංගතයක් ලෙසින් පැතිර යාමක් දක්නට ලැබුණි.
-
-එම කාල වකවානුවේදීත් වැඩි වශයෙන් චිකුන්ගුන්යා රෝගයට ගොදුරු වුයේ දූපත්වාසී ජනතාවයි.
-
-වර්තමාන චිකුන්ගුන්යා රැල්ල ආරම්භ වුයේ මෙම වර්ෂයේ මුල් කාල සීමාවෙි දී ය.
-
-ලා-රීයුනියන්, මයොට් සහ මොරිෂන් ආදී ඉන්දීය සාගරයේ කුඩා දිවයින් රාජ්‍යවල මුලින්ම රෝග ව්‍යාප්තිය දක්නට ලැබී ඇත.
-
-...
-
-[Data](articles/e60bba5e.json)
-
----
-
-### பெண்கள் சிலர் கூச்சலிட்டுக் கத்தியதால் மலேசியாவிலிருந்து சீனாவுக்கு சென்ற விமானத்தில் நடுவானில் சண்டை !
-
-*2025-07-23 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/220724) · `ta`
-
-மலேசியா, கோலாலம்பூரிலிருந்து சீனாவின் செங்டுவுக்குச் சென்ற ஏர் ஏசியா விமானத்தில் மின் விளக்குகள் மங்கலாக ஒளிர்ந்தமையினால் சில பெண்கள் அடங்கிய குழுவினர் கூச்சிலிட்டுக் கத்தியுள்ளனர்.
-
-பெண்கள் கூச்சலிட்டு கத்துவதை நிறுத்துமாறு தெரிவித்ததை அடுத்து நடுவானில் விமானத்தில் சண்டை ஏற்பட்டுள்ளது.
-
-இந்த சம்பவம் திங்கட்கிழமை மாலை 6.11 மணிக்கு கோலாலம்பூர் சர்வதேச விமான நிலையத்திலிருந்து புறப்பட்டு, இரவு 10.13 மணிக்கு சீனாவின் செங்டு தியான்ஃபு சர்வதேச விமான நிலையத்தில் தரையிறங்கிய ஏர்பஸ் A320 என்ற விமானத்தில் இடம்பெற்றுள்ளதாக தி டெய்லி மெயில் செய்தி வெளியிட்டுள்ளது.
-
-பெண்கள் அமர்ந்திருந்த இருக்கைக்கு பின்னால் அமர்ந்திருந்த ஒருவர் அவர்களை அமைதியாக இருக்குமாறு கேட்டபோது பிரச்சினை ஆரம்பித்துள்ளது.
-
-அதாவது, குறித்த நபர் அவர்களை "முட்டாள்" என அழைத்து "வாயை மூடு" எனக் கூறியதாக கூறப்பட்டதைத் தொடர்ந்து வாய்த்தர்க்கம் அதிகரித்துள்ளது.
-
-இதனை தொடர்ந்து கைகலப்பாக மாறியதில் பெண் ஒருவர் இருக்கையின் மீது ஏறி முன் இருக்கையில் அமர்ந்திருந்த அந்த  நபரை  தாக்கியுள்ளார்.
-
-...
-
-[Data](articles/cd0b0119.json)
 
 ---

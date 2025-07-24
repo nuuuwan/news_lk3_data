@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 14:53:42**
+As of **2025-07-24 15:08:23**
 
 ## Newspaper Stats
 
-*Scraped **66,536** Articles*
+*Scraped **66,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 4,064
 economynextcom | 4,071
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,383
-adaderanalk | 8,168
+adalk | 6,384
+adaderanalk | 8,169
 tamilmirrorlk | 9,600
-virakesarilk | 11,082
+virakesarilk | 11,085
 adaderanasinhalalk | 11,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,536 articles have been extended.
+61,973 (93.1%) of 66,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### கிண்ணியாவில் கோழி இறைச்சி உணவு சாப்பிட்ட 25 பேர் வைத்தியசாலையில் அனுமதி!
+
+*2025-07-24 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220819) · `ta`
+
+திருகோணமலை,  கிண்ணியா பிரதான வீதியில் உள்ள  உணவகத்தில் சாப்பிட்ட 25  நபர்கள் இதுவரைக்கும் புதன்கிழமை (23) உடல் நலக்குறைவு காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சம்பவம் தொடர்பாக திருகோணமலை உணவு மற்றும் மருந்து திணைக்கள அதிகாரிகள் உணவகத்திற்கு ஆய்வு மேற்கொண்டு, அங்கு தயாரிக்கப்பட்ட கோழி இறைச்சி உணவு, பரோட்டா மற்றும் மயோனிஸ் மாதிரிகளை சேகரித்து, கொழும்பு மருத்துவ ஆராய்ச்சி நிறுவனம் (MRI) க்கு அனுப்பியுள்ளனர்.
+
+சுகாதாரத் துறையின் ஆரம்ப விசாரணைகளின் படி, மயோனிஸ் உரிய முறையில் தயாரிக்கப்படாமையும், உணவில் மாசு ஏற்பட்டிருப்பதும் காரணமாக இச்சம்பவம் நிகழ்ந்து இருக்கலாம் என கூறப்படுகின்றது.
+
+உணவு பொருட்கள் மற்றும் உணவகங்களில் சுகாதார விதிகளை பின்பற்றுவது அவசியம் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சம்பவத்தின் பின்னர், குறித்த உணவகத்தை தற்காலிகமாக மூடிவைத்து, மேலும் விசாரணைகள் நடத்தப்பட்டு வருகின்றன. பாதிக்கப்பட்டவர்கள் கிண்ணியா, மூதூர் நிலாவெளி வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளதாக தெரியவருகிறது.
+
+◼️
+
+[Data](articles/66eee2b6.json)
+
+---
+
+### சட்டவிரோத கட்டுமானங்களுக்கு எதிரான நடவடிக்கைகளை தொடர்ந்தும் முன்னெடுக்குமாறு வட மாகாண ஆளுநர் வலியுறுத்து!
+
+*2025-07-24 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220821) · `ta`
+
+சட்டவிரோத கட்டுமானங்களுக்கு எதிராக முன்னெடுக்கப்பட்டுவரும் நடவடிக்கைகளை தொடர்ந்தும் உள்ளூராட்சிமன்றங்களை முன்னெடுக்குமாறும் அதை ஒருபோதும் யாருக்காகவும் நிறுத்தவேண்டாம் என வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் அவர்கள் கேட்டுக்கொண்டார்.
+
+உள்ளூராட்சி மன்றங்களின் செயலர்களுடனான மாதாந்தக் கலந்துரையாடல் ஆளுநர் செயலகத்தில் இன்று செவ்வாய்க்கிழமை (22) நடைபெற்றது.
+
+கலந்துரையாடலின் ஆரம்பத்தில் கருத்துத் தெரிவித்த ஆளுநர், சில உள்ளூராட்சிமன்றங்களின் செயற்பாடுகளில் முன்னேற்றம் ஏற்பட்டுள்ளதாகக் குறிப்பிட்டார். மக்களுக்கான அமைப்பே உள்ளூராட்சிமன்றம் என்பதை நினைவிலிருத்திச் செயற்படவேண்டும் என வலியுறுத்திய ஆளுநர், சோலைவரி மாற்றம், கட்டட அனுமதி உள்ளிட்ட விடயங்களை எவ்வளவு விரைவாக செய்து கொடுக்க முடியுமோ அதைச் செய்து கொடுக்குமாறு வலியுறுத்தினார்.
+
+இதன் பின்னர் உள்ளூராட்சி அமைச்சின் செயலாளர் அ.சோதிநாதனால், வீதிப்பாதுகாப்பும் கழிவு முகாமைத்துவமும் தொடர்பான விளக்கமளிப்பு இடம்பெற்றது. உள்ளூராட்சி மன்றங்கள் கவனம் செலுத்த வேண்டிய விடயங்கள் தொடர்பில் அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/1d5436e8.json)
+
+---
 
 ### ரஷ்ய விமான விபத்து;பயணித்த அனைவரும் பலி
 
@@ -61,6 +99,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/38b27ee0.json)
+
+---
+
+### இலங்கையில் மின்சார இருசக்கர வாகன புரட்சிக்கு புதிய அத்தியாயம் – டிரினிடி குளோபல் நிறுவனம் LTW 200 மற்றும் BO2யை அறிமுகம் செய்கிறது
+
+*2025-07-24 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/220817) · `ta`
+
+2023ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட டிரினிடி குளோபல் பிரைவட் லிமிட்டட் விற்பனைக்கு பின்னரான சேவை மற்றும் உதிரிபாகங்கள் என்பவற்றுடன் மின்சார இருசக்கர வாகனங்களை அறிமுகப்படுத்துவதில் முன்னோடியாக விளங்குகின்றது.போக்குவரத்து துறையில் புரட்சியை ஏற்படுத்தும் தனது நோக்கத்தை செயல்படுத்த மேற்கொண்ட முயற்சியின் விளைவாக அன்று கடவத்த கனெல்ரா மண்டபத்தில் நடைபெற்ற விழாவில் மிகவும் எதிர்பார்ப்பு மிக்க இருசக்கர வாகன வரிசையை அறிமுகப்படுத்தியது.
+
+இந்நிகழ்வில் இலங்கையர்கள் தனிப்பட்ட வாகனத்தின் அனுபவத்தை வேறுபட்ட விதத்தில் அனுபவிக்கும் வகையில் உருவாக்கப்பட்ட டிரினிடி நிறுவனத்தின் முதன்மை வாகனமான LTW 200 அதிகாரபூர்வமாக அறிமுகப்படுத்தப்பட்டதுடன் ஆரம்ப நிலை மாதிரியான BO2வும் அறிமுகமாகியது.
+
+LTW 200ஆனது உறுதி, செயல்திறன் மற்றும் நீடித்து உழைக்கும் தன்மை என்பவற்றில் சிறந்த தரத்தை கொண்டிருக்கும் டிரினிடி குளோபலின் முதற்தர மின்சார இருசக்கர வாகனமாகும். சக்திவாய்ந்த 2000W (2KW) மோட்டார் மற்றும் அதிநவீன LifePO4 பெட்டரி தொழில்நுட்பம் கொண்டு வடிவமைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3821ce36.json)
 
 ---
 
@@ -128,6 +182,26 @@ For decades, India has played a careful balancing act when dealing with global c
 
 ---
 
+### Japan agrees to continue granting scholarships to Sri Lankan public sector workers
+
+*2025-07-24 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/110810/japan-agrees-to-continue-granting-scholarships-to-sri-lankan-public-sector-workers) · `en`
+
+The government of Japan has signed an agreement to continue its scholarship programme for executive-level government officials in Sri Lanka.
+
+Since 2010, the government of Japan has been offering scholarships on a grant basis through the Japanese Grant Aid for Human Resources Development Scholarship (JDS) Programme.
+
+The programme is funded by the Government of Japan under the Official Development Assistance and implemented through the Japan International Cooperation Agency (JICA).
+
+The scholarship programme has provided 240 opportunities for Master’s Degree programmes and 16 opportunities for PhD programmes from the year 2010 to 2025, the Ministry of Finance stated.
+
+The implementation of the JDS program has been successfully completed under four frameworks from 2010 to 2025, and currently the fourth framework is being implemented from 2022 to 2025.
+
+...
+
+[Data](articles/e9708593.json)
+
+---
+
 ### தேங்காய், கோப்பி, மாம்பழத் துறைகளை வலுப்படுத்த MDF உடன் SDB வங்கி ஒப்பந்தம்
 
 *2025-07-24 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220807) · `ta`
@@ -150,9 +224,9 @@ For decades, India has played a careful balancing act when dealing with global c
 
 සංචාරක ඉන්දීය කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන සිව්වන ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අදයි.
 
-ඊයේ (23) දින තරගය නතර කරන විට සිය පළමු ඉනිම සදහා පන්දුවට පහර දෙමින් සිටින ඉන්දීය කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 264ක් ලබා සිටියාය.
+ඊයේ (23) දිනට තරගය නතර කරන විට සිය පළමු ඉනිම සදහා පන්දුවට පහරදෙමින් සිටින ඉන්දීය කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 264ක් රැස්කරගෙන සිටියේය.
 
-එම ඉනිම වෙනුවෙන් සායී සුදර්ශන් ලකුණු 61ක් සහ යෂස්වී ජයිස්වාල් ලකුණු 58ක් ලබා ගැනීමට සමත් විය.
+එහිදී සායී සුදර්ශන් ලකුණු 61ක් සහ යෂස්වී ජයිස්වාල් ලකුණු 58ක් රැස්කිරීමට සමත් වූහ.
 
 ◼️
 
@@ -389,6 +463,26 @@ According to preliminary data, there were 43 passengers, including five children
 ...
 
 [Data](articles/b35a2c55.json)
+
+---
+
+### මිහින්තලයෙන් ඉවත් කළ සිවිල් ආරක්ෂක නිලධාරීන් අද සිට යළිත් මිහින්තලයට
+
+*2025-07-24 12:33:08* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්තලයෙන්-ඉවත්-කළ-සිවිල්-ආරක්ෂක-නිලධාරීන්-අද-සිට-යළිත්-මිහින්තලයට/11-417483) · `si`
+
+2023 වර්ෂයේ පසුගිය රජය සමයේ මිහින්තලේ රජමහා විහාරස්ථානයේ සංවර්ධන කටයුතු වල නිරතව සිටියදී ඉවත් කෙරුණු  සිවිල්  ආරක්‍ෂක බලකා සාමාජිකයන් අද (24දා)   යළි මිහින්තලය රජමහා  විහාරස්ථානයේ සංවර්ධන කටයුතු සඳහා කැඳවනු ලැබූහ.
+
+ඒ අනුව සිවිල් ආරක්ෂක  සාමාජිකයින් 50 දෙනෙකු  මිහින්තලා රජමහා විහාරස්ථානයට පැමිණ සිටියහ.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ  හා හිටපු රාජ්‍ය ආරක්ෂක ඇමති  ප්‍රමිත බණ්ඩාර තෙන්නකෝන් විසින් පසුගිය රජය සමයේ මිහින්තලය විහාරස්ථානයෙන් මෙම නිලධාරීන් ඉවත් කළ බවත්  එම වැරැද්ද නිවැරදි කරමින්  අනුර කුමාර දිසානායක ජනාධිපතිවරයා  සහ ආරක්ෂක ලේකම්තුමන් ගත් තීරණයට ප්‍රශංසා කරන බව මිහින්තලය රජ මහා විහාරාධිපති පූජ්‍ය වලවා හැඟුණවැවේ  ධම්මරතන නාහිමිපාණන් පැවසූහ.
+
+වර්තමාන ජනාධිපතිතුමන්ට තමන් සහයෝගය නොදැක්වුවත් මුළු මහත් රටවැසියා වෙනුවෙන් ශාසනය වෙනුවෙන් මිහින්තලේ විහාරස්ථානයට දක්වන ගෞරවය ගැනද නාහිමියන් ප්‍රශංසාව පල කලහ.
+
+අරගල සමයේ තාවකාලි ජනාධිපති ලෙස රනිල් වික්‍රමසිංහ පත්වී හදිසි නීතිය ප්‍රකාශයට පත් කරමින් මහජන අයිතිවාසිකම් උල්ලංඝනය කිරීම පිළිබඳව අධිකරණයෙන් දුන් නියෝගය අගය කරන බව කී උන්වහන්සේ,
+
+...
+
+[Data](articles/3b89bb67.json)
 
 ---
 
@@ -1711,89 +1805,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/2ecb9eb5.json)
-
----
-
-### Chief Justice gives checklist to make Sri Lanka a “Just Republic”
-
-*2025-07-24 02:49:31* · [`dailyftlk`](https://www.ft.lk/news/Chief-Justice-gives-checklist-to-make-Sri-Lanka-a-Just-Republic/56-779413) · `en`
-
-In address at BASL Legal Symposium calls for ethical integrity, Constitutional values, and collaborative legal development
-
-Addressing the inaugural session of the Bar Association of Sri Lanka (BASL) Legal Symposium 2025, Chief Justice Murdu Fernando, PC, emphasised the importance of ethical integrity, Constitutional values, and collaborative legal development in steering Sri Lanka towards a “Just Republic.”
-
-This was the first Legal Symposium of the BASL held after the assumption of office by Rajeev Amarasuriya as the President of the Association.
-
-In her keynote address, Fernando expressed appreciation to the BASL for organising these Legal Symposiums and commended its efforts to engage outstation branches with the same vigour as its metropolitan counterpart. “This symposium, hosted in the South, amply showcases the BASL’s recognition of its outstation branches,” she noted, praising the inclusive outreach.
-
-...
-
-[Data](articles/152fc4cf.json)
-
----
-
-### CC approves Preethi Padman as new Chief Justice
-
-*2025-07-24 02:48:33* · [`dailyftlk`](https://www.ft.lk/news/CC-approves-Preethi-Padman-as-new-Chief-Justice/56-779412) · `en`
-
-The Constitutional Council (CC) has ratified President Anura Kumara Disanayake’s nomination of Supreme Court Justice Preethi Padman Surasena as the next Chief Justice of Sri Lanka.
-
-Justice Surasena, one of the most senior justices in the Supreme Court, was recently nominated by the President.
-
-Chief Justice Murdu Fernando is scheduled to retire on 27 July and a new Chief Justice is to be appointed to fill the vacancy shortly.
-
-◼️
-
-[Data](articles/2571031f.json)
-
----
-
-### Supreme Court rules 2022 emergency declaration by Ranil unconstitutional
-
-*2025-07-24 02:48:17* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-rules-2022-emergency-declaration-by-Ranil-unconstitutional/56-779411) · `en`
-
-The Supreme Court has ruled that the State of Emergency declared in 2022 by then Acting President Ranil Wickremesinghe was unconstitutional and violated fundamental human rights.
-
-In a majority decision of the three-judge bench, including Chief Justice Murdu Fernando and Justice Yasantha Kodagoda, it held that the emergency regulations issued under Section 2 of the Public Security Ordinance were arbitrary and invalid.
-
-The regulations had been enacted to control mass protests during the height of the Aragalaya movement. The Court determined that the imposition of emergency law disproportionately curtailed basic freedoms.
-
-Several petitioners, including former Commissioner of the Human Rights Commission of Sri Lanka Ambika Satkunanathan, filed the petitions challenging the validity of Emergency Regulation No. 1 of 2022, which was published in the Gazette Extraordinary dated 17 July 2022.
-
-...
-
-[Data](articles/2707316a.json)
-
----
-
-### Unlock new trade  opportunities with Vietnam
-
-*2025-07-24 02:46:48* · [`dailyftlk`](https://www.ft.lk/business/Unlock-new-trade-opportunities-with-Vietnam/34-779410) · `en`
-
-The National Chamber of Commerce of Sri Lanka is set to host an exclusive Bilateral Trade and Investment session with the gracious presence of Vietnam’s Ambassador to Sri Lanka Trinh Thi Tam, on Wednesday, 30 July, from 2:30 p.m. to 4:30 p.m. at the Chamber Auditorium, No. 450, D.R. Wijewardena Mawatha, Colombo 10.
-
-This exclusive event will explore opportunities for the Sri Lankan business community to directly engage with the Vietnam Ambassador and gain firsthand insights into the Vietnam’s trade policies, investment climate, and the growing scope for bilateral collaboration. The Ambassador will highlight key areas of economic cooperation and discuss emerging sectors that offer potential for Sri Lankan businesses to explore.
-
-Key objectives of the session: Strengthening Sri Lanka-Vietnam trade and investment ties, gaining insights into Vietnam’s market dynamics and investment climate, fostering business connections for mutual economic growth.
-
-...
-
-[Data](articles/b93e09b6.json)
-
----
-
-### Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government
-
-*2025-07-24 02:38:29* · [`dailyftlk`](https://www.ft.lk/columns/Progressive-or-retrogressive-Rationally-defining-AKD-s-Presidency-and-NPP-Government/4-779404) · `en`
-
-‘…estimated income poverty…remains stubbornly high, affecting as much as a quarter of the population in 2024, and twice as high as in 2021. The reversal in poverty reduction gains during the crisis has taken Sri Lanka back to its high poverty levels of the early 2000s…’
-
-‘…post crisis mass poverty level, [is] estimated to be 7–10 million individuals.’
-
-Many who are critical of the Anura administration still make the excuse that “at least it is catching those bloody crooks who bankrupted the country”. That’s way off mark.
-
-...
-
-[Data](articles/ae24440f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 13:19:54**
+As of **2025-07-24 13:31:38**
 
 ## Newspaper Stats
 
-*Scraped **66,515** Articles*
+*Scraped **66,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,068
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,382
-adaderanalk | 8,163
+adaderanalk | 8,167
 tamilmirrorlk | 9,596
-virakesarilk | 11,076
+virakesarilk | 11,080
 adaderanasinhalalk | 11,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,515 articles have been extended.
+61,973 (93.2%) of 66,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்து ; 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடா வழங்குமாறு உயர் நீதிமன்றம் உத்தரவு
+
+*2025-07-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220809) · `ta`
+
+இலங்கை கடற்பரப்புக்குள் எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்திற்குள்ளானதால் கடல் சூழல் மற்றும் பொருளாதாரத்திற்கு ஏற்பட்ட சேதங்களுக்கு 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடாக வழங்குமாறு சிங்கப்பூர் கப்பல் நிறுவனத்திற்கு இன்று வியாழக்கிழமை (24) உயர் நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+
+2021 ஆம் ஆண்டு மே மாதம் 20 ஆம் திகதி கொழும்பிற்கு அருகே சிங்கப்பூர் கொடியுடன் வந்தடைந்த எக்ஸ்-பிரஸ் பேர்ள் சரக்குக் கப்பலில் தீ விபத்து ஏற்பட்டது.
+
+தீ விபத்துக்குள்ளான கப்பல் சில நாட்களுக்குப் பின்னர் கடலில் மூழ்கியது. இதனால்,  மேற்கு கடற்கரையோரங்களில் கோடிக்கணக்கான  பிளாஸ்டிக் துகள்கள் மற்றும் நச்சு இரசாயனங்கள் கரை ஒதுங்கின.
+
+இதனால், கடல் சுற்றுச்சூழலுக்கும் மீன்பிடி சமூகங்களுக்கும் பாரிய பாதிப்பு ஏற்பட்டது. பிளாஸ்டிக் துகள்கள் அகற்றும் நடடிவடிக்கைகள் முன்னெடுக்கப்பட்டதோடு,  பாதிக்கப்பட்ட மீன்பிடி சமூகங்களுக்கு நிவாரணங்களும் வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/1295f2a7.json)
+
+---
 
 ### எக்ஸ்பிரஸ் பேர்ல் வழக்கு: இழப்பீடு வழங்குமாறு உத்தரவு
 
@@ -42,7 +60,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 மேலும், அப்போதைய அமைச்சர் நாலக்க கொடஹேவா, இந்த சம்பவத்தை தடுக்க நடவடிக்கை எடுக்கத் தவறியதன் மூலம் அடிப்படை மனித உரிமைகளை மீறியதாக உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
 
-இந்த சம்பவத்தால் ஏற்பட்ட சேதங்கள் தொடர்பில், கர்தினால் மெல்கம் ரஞ்சித் உட்பட பல்வேறு தரப்பினரால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமைகள் மனுக்கள் தொடர்பான விசாரணைகளை முன்னெடுத்து பிரதம நீதியரசர் முர்து பெர்னாண்டோ தலைமையிலான ஐந்து நீதிபதிகள் கொண்ட உயரை் நீதிமன்ற அமர்வு இந்தத் தீர்ப்பை வழங்கியது.
+இந்த சம்பவத்தால் ஏற்பட்ட சேதங்கள் தொடர்பில், கர்தினால் மெல்கம் ரஞ்சித் உட்பட பல்வேறு தரப்பினரால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமைகள் மனுக்கள் தொடர்பான விசாரணைகளை முன்னெடுத்த பிரதம நீதியரசர் முர்து பெர்னாண்டோ தலைமையிலான ஐந்து நீதிபதிகள் கொண்ட உயரை் நீதிமன்ற அமர்வு இந்தத் தீர்ப்பை வழங்கியது.
 
 ◼️
 
@@ -76,6 +94,38 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பொலன்னறுவையில் சுகாதாரம், தபால், ஊடகம் தொடர்பான பிரச்சினைகள் குறித்து சிறப்பு ஒருங்கிணைப்புக் கூட்டம்
+
+*2025-07-24 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220803) · `ta`
+
+சுகாதாரம், சுதேச மருத்துவம், தபால் மற்றும் வெகுஜன ஊடகத் துறைகள் தொடர்பான பிரச்சினைகள் மற்றும் குறைபாடுகள் குறித்து, பொலன்னறுவை மாவட்ட அரசியல் தலைமைகள், அரச நிறுவனத் தலைவர்கள் மற்றும் பொது அதிகாரிகளுடன், சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் டாக்டர் நளிந்த ஜயதிஸ்ஸ தலைமையில், பொலன்னறுவை மாவட்ட செயலகத்தின் "அபிரூ" கேட்போர் கூடத்தில் சிறப்பு ஒருங்கிணைப்புக் குழு கூட்டம் அண்மையில் நடைபெற்றது.
+
+பக்கமுன, ஜெயந்திபுர, மெதிரிகிரிய, அத்தனகடவல, கலமுன, புலஸ்டிகம, அரலகங்வில, மனம்பிட்டிய ஆகிய பிராந்திய மருத்துவமனைகள், வெலிகந்த மற்றும் மெதிரிகிரிய அடிப்படை மருத்துவமனைகள், தியபெதும கிராமிய மருத்துவமனை, மின்னேரியா ஆயுர்வேத மருத்துவமனை, அத்தனகடவல ஆயுர்வேத மத்திய வைத்திய நிலையம், ஜெயசிறிபுர ஆயுர்வேத மத்திய வைத்திய நிலையம், இலங்கை தபால் துறை, அரசாங்க தகவல் துறை மற்றும் தேசிய நீர் வழங்கல் மற்றும் வடிகால் அமைப்பு உள்ளிட்ட சுகாதாரம், சுதேச மருத்துவம், அஞ்சல் மற்றும் ஊடக நிறுவனங்கள் எதிர்கொள்ளும் முக்கிய பிரச்சினைகள் குறித்து இங்கு கலந்துரையாடல்கள் நடத்தப்பட்டன.
+
+...
+
+[Data](articles/11304c16.json)
+
+---
+
+### அன்டன் பாலசிங்கத்தின் சிலையை நிறுவுவதற்கு இடம்பெறும் நடவடிக்கைகள் குறித்து அரசாங்கம் பிரான்ஸ் அரசாங்கத்துடன் பேச்சுவார்த்தைகளில் ஈடுபடவேண்டும்- முன்னாள் இராணுவ அதிகாரி ஜகத்டயஸ்
+
+*2025-07-24 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/220801) · `ta`
+
+தமிழீழ விடுதலைப்புலிகளின் அரசியல் ஆலோசகர் அன்டன் பாலசிங்கத்தின் சிலையை நிறுவுவதற்கு பிரான்ஸ் தலைநகரில் இடம்பெறும் நடவடிக்கைகள் குறித்து தேசிய மக்கள் சக்தி அரசாங்கம் பிரான்ஸ் அரசாங்கத்துடன் பேச்சுவார்த்தைகளில் ஈடுபடவேண்டும் என முன்னாள் இராணுவ அதிகாரி லெப் ஜெனரல் ஜகத்டயஸ் வேண்டுகோள் விடுத்துள்ளார்.
+
+புலம்பெயர் தமிழர்களை திருப்திபடுத்தும் விதத்திலான பிரான்சின் செயற்பாடுகளை இலங்கை கடுமையாக எதிர்க்கவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கையிலும் இந்தியாவிலும் விடுதலைப்புலிகள் மேற்கொண்ட நடவடிக்கைகளில் இருந்து பிரிட்டிஸ் பிரஜையான பாலசிங்கத்தின் நடவடிக்கைகளை பிரித்து பார்க்கமுடியாது,மன்னிக்க முடியாது என அவர் தெரிவித்துள்ளார்.
+
+கனடா இலங்கையில் இனப்படுகொலை இடம்பெற்றது என தெரிவித்து இரண்டு முன்னாள் ஜனாதிபதிகளிற்கு பயணத்தடையை விதித்துள்ளதன் பின்னணிலேயே அன்டன் பாலசிங்கத்திற்கு பிரான்சில் சிலையை நிறுவும் நடவடிக்கைகளை பார்க்கவேண்டும் என ஜகத் டயஸ் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9924e0b1.json)
+
+---
+
 ### 50 பேருடன் பறந்த  ரஷ்ய விமானம் மாயம்: பரபரப்பு தகவல்
 
 *2025-07-24 12:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/50-பேருடன்-பறந்த-ரஷ்ய-விமானம்-மாயம்-பரபரப்பு-தகவல்/50-361680) · `ta`
@@ -87,6 +137,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dcf7902b.json)
+
+---
+
+### Son-in-law of MP Rohitha surrenders to court
+
+*2025-07-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110808/son-in-law-of-mp-rohitha-surrenders-to-court-) · `en`
+
+The son-in-law of Member of Parliament Rohitha Abeygunawardena has surrendered to the Matugama Magistrate’s Court a short while ago.
+
+The son-in-law of the MP, Dhanushka Weerakkody has been linked to an incident related to the seizure of an illegally assembled vehicle in Matugama recently.
+
+Meanwhile, the son of Member of Parliament Jagath Vithana, who was arrested by officers of the Panadura Walana Anti-Vice Unit over the incident is currently in remand custody.
+
+Rasika Withana was also arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
+
+Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
+
+...
+
+[Data](articles/298c8809.json)
 
 ---
 
@@ -107,6 +177,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/414c757b.json)
+
+---
+
+### No survivors in Russian passenger plane crash near China border, local reports say
+
+*2025-07-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110809/russian-plane-with-nearly-50-aboard-goes-missing-in-countrys-east) · `en`
+
+A Russian passenger aircraft crashed in the Amur region near the China border on Thursday. As per preliminary reports there were no survivors, as reported by Russian news agency.
+
+Russian Antonov-24, operated by Angara airlines, was carrying 40 people when it lost contact with air traffic controllers, local emergencies ministry said.
+
+“Rescuers locate burning fuselage of missing Russian passenger plan,” emergency officials told Reuters.
+
+The plane dropped off radar screens while approaching its destination of Tynda, a town in the Amur region bordering China.
+
+According to preliminary data, there were 43 passengers, including five children, and six crew members on board, regional governor Vasily Orlov told Reuters.
+
+“All necessary forces and means have been deployed to search for the plane,” the governor wrote on Telegram.
+
+...
+
+[Data](articles/b35a2c55.json)
+
+---
+
+### நுவரெலியா, கண்டி மாவட்டங்களில் மருந்து தட்டுப்பாடு: நோயாளர்கள் பெரும் சிரமத்தில்!
+
+*2025-07-24 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220796) · `ta`
+
+நுவரெலியா மற்றும் கண்டி மாவட்டங்களின் பிரதான அரச வைத்தியசாலைகளில் முக்கிய நோய்களுக்கான மருந்து பொருட்கள் தட்டுப்பாட்டில் இருப்பதாக தெரிவிக்கப்படுகிறது. இதனால், மருத்துவர்கள் நோயாளர்களுக்கு தேவையான மருந்துகளை தனியார் மருந்தகங்களில் வாங்குமாறு அறிவுறுத்தி வருகின்றனர்.
+
+புற்றுநோய், தொற்றுநோய், நீரிழிவு போன்ற கடுமையான நோய்களுக்கு தேவையான மாத்திரைகள் மற்றும் தடுப்பூசிகள் அரச வைத்தியசாலைகளில் குறைவாக உள்ளதால், நோயாளர்கள் பெரும் சிரமத்தில் இருக்கிறார்கள். பலர் தனியார் மருந்தகங்களில் அதிக விலையில் மருந்துகளை வாங்க வேண்டிய நிலை உருவாகியுள்ளது.
+
+இதனால், வருமானம் குறைந்த குடும்பங்கள் குறிப்பாக பெருந்தோட்டம் மற்றும் கிராமப்புற பகுதிகளில் வசிக்கும் மக்களுக்கு மருந்து பெறுவதில் பொருளாதார சிரமங்கள் ஏற்பட்டு, அயலவர்கள் மற்றும் பரோபகாரிகளிடம் உதவிக்காக நாட வேண்டி வருகின்றனர்.
+
+இந்நிலையில், பொதுமக்கள் மற்றும் சமூக சங்கங்கள் அரசாங்கம் உடனடியாக இந்த பிரச்சினையை தீர்க்க நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை விடுத்துள்ளனர்.
+
+...
+
+[Data](articles/cef2f8c3.json)
 
 ---
 
@@ -145,6 +255,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f5856081.json)
+
+---
+
+### X-Press Pearl Disaster: SC orders shipping company to pay US$1 bln in compensation
+
+*2025-07-24 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110807/x-press-pearl-disaster-sc-orders-shipping-company-to-pay-us1-bln-in-compensation-) · `en`
+
+The Supreme Court of Sri Lanka today (24) ordered a shipping company to pay US$1 billion in compensation for the environmental and economic damage caused due to the fire onboard the X-Press Pearl vessel, Ada Derana reporter said.
+
+The X-Press Pearl container vessel caught fire and sank off the coast of Colombo in 2021.
+
+The incident is considered one of the worst environmental disasters in the country’s history.
+
+According to the Supreme Court’s judgment, the compensation is to be paid to the Secretary to the Treasury.
+
+The Supreme Court also held that the then Minister in charge of the subject, Nalaka Godahewa, and the Marine Environment Protection Authority (MEPA) violated fundamental human rights by failing to take appropriate action to prevent the environmental catastrophe.
+
+The judgment was delivered by a five-judge bench of the Supreme Court, presided over by Chief Justice Justice Murdu Fernando.
+
+...
+
+[Data](articles/8009b46d.json)
 
 ---
 
@@ -573,6 +705,22 @@ Of that 2,150 million was for the Lower Uma Oya project. “We want to complete 
 ◼️
 
 [Data](articles/61cd8542.json)
+
+---
+
+### Man armed with gun fails in attempt to shoot health administrative officer in Dehiwala
+
+*2025-07-24 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110802/man-armed-with-gun-fails-in-attempt-to-shoot-health-administrative-officer-in-dehiwala) · `en`
+
+A health administrative officer escaped unharmed after an assailant’s gun failed to fire adjacent to the S. de S. Jayasinghe grounds in Dehiwala this morning, police stated.
+
+Police stated two persons arrived on a motorcycle and attempted open fire at the officer but the weapon reportedly failed.
+
+The Dehiwala Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/cde36b63.json)
 
 ---
 
@@ -1651,129 +1799,5 @@ The National Peace Council (NPC) marks this anniversary not only to mourn the vi
 ...
 
 [Data](articles/1a9f0071.json)
-
----
-
-### CIMA Sri Lanka celebrates 60 years of excellence in finance and business
-
-*2025-07-24 00:53:09* · [`dailyftlk`](https://www.ft.lk/columns/CIMA-Sri-Lanka-celebrates-60-years-of-excellence-in-finance-and-business/4-779383) · `en`
-
-This year marks an important milestone for The Chartered Institute of Management Accountants (CIMA) in Sri Lanka as we celebrate six decades of empowering Sri Lanka’s most highly skilled accounting and finance professionals to support their businesses, communities, and economies to thrive and succeed.
-
-Today, the island is home to one of the largest communities of CIMA members and CGMA candidates worldwide, a long way from our humbler beginning with just 22 members in 1965. From the outset, we have championed innovation, resilience, and leadership.
-
-Over the past six decades, we have supported thousands of Sri Lankans to build their dream careers in finance and business, both in Sri Lanka and overseas. In addition, three Sri Lankans have served as CIMA President - Aubrey Joachim (2009-2010), Amal Ratnayake (2019-2020), and Melanie Janine Kanaka (2022-2023) – showcasing the country’s impact and influence on the global finance profession.
-
-...
-
-[Data](articles/1f26c713.json)
-
----
-
-### New IPS publication – ‘Debt for climate and nature swaps in Sri Lanka: Scoping study’
-
-*2025-07-24 00:51:02* · [`dailyftlk`](https://www.ft.lk/opinion/New-IPS-publication-Debt-for-climate-and-nature-swaps-in-Sri-Lanka-Scoping-study/14-779382) · `en`
-
-In addressing the triple challenges of high indebtedness, climate change and loss of nature, debtfor-climate and nature (DfCN) swaps are recognised as an effective fiscal instrument for developing economies. These are agreements between the debtor and creditor countries where debt repayments are restructured to reduce the debt burden and allocate funds to climate-positive investments that support environmental commitments.
-
-Our latest study ‘Debt for climate and nature swaps in Sri Lanka: Scoping study’ by IPS Researchers Dr. Lakmini Fernando, Sunimalee Madurawala, and Menaka Wimalarathne explores the possibility for Sri Lanka to use DfCN swaps in achieving the dual objective of debt sustainability and climate investments.
-
-...
-
-[Data](articles/f21b4387.json)
-
----
-
-### When tax policy backfires: Call for more calculated policy approach
-
-*2025-07-24 00:49:02* · [`dailyftlk`](https://www.ft.lk/opinion/When-tax-policy-backfires-Call-for-more-calculated-policy-approach/14-779381) · `en`
-
-Ironically, the strategy that was meant to discourage smoking and boost Government coffers has done the opposite
-
-Over the first half of 2025 alone, authorities in Sri Lanka have intercepted more than 115 million illegal cigarettes at entry points across the country. In one bold attempt, traffickers tried to sneak 2,000 cartons worth over Rs. 60 million through the green channel at the airport. These are not isolated incidents – they are symptoms of a broader policy failure.
-
-The recently published Annual Report of Ceylon Tobacco Company PLC estimates that 1.2 billion cigarettes were smuggled into the island last year, costing the Government over Rs. 110 billion in lost revenue. Legal cigarette sales, once the backbone of excise collection, has shrunk to a mere 1.9 billion sticks, making up just 20% of the total tobacco industry in the country. These are not just numbers – they’re red flags waving at the very heart of our economic and enforcement systems.
-
-...
-
-[Data](articles/27a2aed2.json)
-
----
-
-### First Deputy MD Gita Gopinath quits IMF to re-join Harvard Economics Faculty
-
-*2025-07-24 00:47:05* · [`dailyftlk`](https://www.ft.lk/opinion/First-Deputy-MD-Gita-Gopinath-quits-IMF-to-re-join-Harvard-Economics-Faculty/14-779380) · `en`
-
-International Monetary Fund (IMF) Managing Director Kristalina Georgieva has announced that First Deputy Managing Director (FDMD) Gita Gopinath, would be leaving the Fund at the end of August to return to Harvard University, where she will be the inaugural Gregory and Ania Coffey Professor of Economics in the Department of Economics.
-
-Gopinath joined the Fund in January 2019 as Chief Economist and was promoted to First Deputy Managing Director in January 2022.
-
-...
-
-[Data](articles/7629fd70.json)
-
----
-
-### EDB–NOCU’s countrywide awareness campaign reaches Batticaloa
-
-*2025-07-24 00:38:16* · [`dailyftlk`](https://www.ft.lk/business/EDBNOCU-s-countrywide-awareness-campaign-reaches-Batticaloa/34-779372) · `en`
-
-The National Organic Control Unit (NOCU) of the Sri Lanka Export Development Board (EDB) continued its mission to elevate Sri Lanka’s organic agriculture sector by successfully conducting the third phase of its 2025 national awareness program at Riveria Resort – Batticaloa on 8 July. The awareness seminar follows the earlier programs held in Jaffna and Matale that were highly beneficial to the participants. The one-day awareness program contained expert presentations and stakeholder discussions and drew over 75 participants from the Eastern Province, including farmers, entrepreneurs, and stakeholders in the organic value chain.
-
-...
-
-[Data](articles/8e65baf5.json)
-
----
-
-### CIC Vetcare supports MSME “SAJ” to next level
-
-*2025-07-24 00:37:15* · [`dailyftlk`](https://www.ft.lk/business/CIC-Vetcare-supports-MSME-SAJ-to-next-level/34-779371) · `en`
-
-The global market for pet products is growing very rapidly with changing lifestyles worldwide. Whether it is good or bad, it is a fact beyond doubt that the doggy boom is much bigger than the baby boom in many parts of the developed world.
-
-Even in Sri Lanka, the demand for high quality doggy products is on the rise. Dog lovers are spending good and big resources, much more than they have done in the past for their dogs. They care more for their dogs and are looking for high quality products like what the human beings who are also looking for herbal natural products for skin care at present
-
-CIC Vetcare Director/CEO Ajith Weerasinghe said: “CIC as a very responsible corporate, we are delighted to support quality products from SMEs and take them to the next level to the needs of the rapidly changing doggy market.”
-
-...
-
-[Data](articles/d8fcbd99.json)
-
----
-
-### McLarens Group and Koko forge strategic partnership
-
-*2025-07-24 00:35:45* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Group-and-Koko-forge-strategic-partnership/34-779370) · `en`
-
-Initiative to enhance accessibility of 3M and Meguiar’s products in Sri Lanka
-
-McLarens Group, the distributor of world-renowned brands 3M and Meguiar’s in Sri Lanka, has announced a strategic partnership with Koko, the island’s leading Buy Now, Pay Later (BNPL) platform.
-
-Customers looking to buy high-end car care, homecare, stationery, personal safety and the entire product range both online and offline will benefit from this innovative partnership’s increased convenience and flexibility.
-
-Through the McLarens Online Store (mll.lk/products) and the retail location at Union place, McLarens now offers Koko’s three interest-free instalment option for its extensive selection of 3M and Meguiars products. Customers can now enjoy top-quality products with hassle-free payments.
-
-McLarens Group has a strong presence across various key sectors in Sri Lanka. As a trusted partner for numerous international brands, they have continued to maintain global standards of quality and service to the Sri Lankan
-
-...
-
-[Data](articles/0331f6cb.json)
-
----
-
-### Knuckles Spring Water enters Bahrain market
-
-*2025-07-24 00:34:45* · [`dailyftlk`](https://www.ft.lk/business/Knuckles-Spring-Water-enters-Bahrain-market/34-779369) · `en`
-
-The Embassy of Sri Lanka in the Kingdom of Bahrain actively facilitated the entry of Knuckles Spring Water, produced by Sri Lankan corporate Cargills (Ceylon) PLC, into the Bahraini market. This marks the first time Cargills-manufactured products have been introduced to Bahrain.
-
-Sourced from the pristine Knuckles Mountain Range in Sri Lanka, Knuckles Spring Water is bottled at the source to preserve its purity and natural mineral content. It is available in both glass and PET bottles and will be distributed through the renowned Al Jazira Supermarket chain across Bahrain.
-
-A standout feature of the product is the inclusion of Braille lettering on the glass bottles—an important accessibility feature that enables visually impaired consumers to identify the product, underscoring the commitment to inclusivity.
-
-...
-
-[Data](articles/34503258.json)
 
 ---

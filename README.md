@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 10:01:34**
+As of **2025-07-24 10:27:39**
 
 ## Newspaper Stats
 
-*Scraped **66,461** Articles*
+*Scraped **66,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,97 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
-economynextcom | 4,060
 islandlk | 4,064
+economynextcom | 4,066
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,377
 adaderanalk | 8,156
 tamilmirrorlk | 9,576
 virakesarilk | 11,073
-adaderanasinhalalk | 11,410
+adaderanasinhalalk | 11,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,461 articles have been extended.
+61,973 (93.2%) of 66,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### හර්ෂ ඉලුක්පිටියට දඬුවම් නියම කිරීමේ තීන්දුව කල් යයි
+
+*2025-07-24 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212576) · `si`
+
+අධිකරණයට අපහාස කළ යැයි චෝදනා දක්වා සිටින ආගමන හා විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතාට එරෙහි පැමිණිල්ලේ දඬුවම් නියම කිරීමේ තීන්දුව ප්‍රකාශ කිරීම ශ්‍රේෂ්ඨාධිකරණය කල්තබා තිබේ.
+
+එහෙත් එම තීන්දුව සැප්තැම්බර් මස 23  වන දා දක්වා කල් තැබීමට ශ්‍රේෂ්ඨාධිකරණය විසින් නියම කර ඇත.
+
+◼️
+
+[Data](articles/3de036e7.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට අද තද සුළං
+
+*2025-07-24 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212575) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයකට අද (24) තද සුළං තත්ත්වයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව අනතුරු අඟවයි.
+
+ඒ අනුව මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු - මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැයට කිලෝමීටර් 55-60ත් අතර තද සුළං ඇති විය හැකිය.
+
+එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල පැයට කිලෝමීටර් 40-50ත් අතර තරමක තද සුළං තත්ත්වයන් ඇති වියහැකි බව සඳහන් වේ.
+
+තද සුළං මගින් සිදුවන අනතුරු අවම කර ගැනීම සඳහා අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+
+◼️
+
+[Data](articles/d35795e0.json)
+
+---
+
+### Sri Lanka CB hopes acceleration in public investment projects to spur growth
+
+*2025-07-24 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-hopes-acceleration-in-public-investment-projects-to-spur-growth-232521/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s economic growth should not have a major impact from the current delay in implementation of public investment projects with the government taking steps to fast track them, Central Bank Governor Nandalal Weerasinghe said.
+
+The island nation has allocated Rs. 1,315 billion ($4.38 billion) for public investment through capital expenditure. However, only less than 20 percent has been used so far in the first seven months of the year due to delay in budget approval, procurement process and recruiting technical officers to handle such projects.
+
+Analysts have said such delay could dent future economic growth. Sri Lanka has to ensure at least 3 percent economic growth to start foreign debt repayment in 2028 in line with the IMF targets.
+
+...
+
+[Data](articles/909b3c37.json)
+
+---
+
+### ආනයන අපනයන බලපත්‍ර නිකුත් කිරීමෙන් වැඩි ආදායමක්
+
+*2025-07-24 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212574) · `si`
+
+ආනයන හා අපනයන පාලන බලපත්‍ර නිකුත් කිරිම මගින් 2024 වර්ෂයේ රුපියල් බිලියන 3.7ක ආදායමක් ඉපැයීමට ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව සමත්ව තිබේ.
+
+එය 2023 වර්ෂයට සාපේක්ෂව 13%ක වැඩිවීමක් බව 2024 වර්ෂයේ සිය කාර්යය සාධන වාර්තාව එළිදක්වමින් ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව පෙන්වාදෙයි.
+
+පසුගිය වර්ෂය තුළ ආනයන හා අපනයන බලපත්‍ර 17,010ක් නිකුත් කර ඇති බව වාර්තා වේ.
+
+ඉන් වැඩිම බලපත්‍ර සංඛ්‍යාවක් නිකුත් කර ඇත්තේ ජංගම දුරකථන හා සන්නිවේදන උපකරණ හා වෙනත් උපකරණ ආනයනය කිරීම සඳහා බව සඳහන් වේ.
+
+ඊට අමතරව රසායනික ද්‍රව්‍ය, පොහොර, පළිබෝධනාශක, කාර්මික අමුද්‍රව්‍ය ආනයනය සහ අපනයනය සඳහා ද බලපත්‍ර නිකුත් කිරීම පසුගිය වසරේ ඉහළ ගොස් තිබේ.
+
+2024 වර්ෂයේ ජුනි මාසයේ සිට දෙසැම්බර් මාසය දක්වා බඩ ඉරිගු මෙට්‍රික් ටොන් ලක්ෂ 3ක් සත්ත්ව ආහාර නිෂ්පාදනය සඳහා ආනයන බලපත්‍ර ලබාදීමට ද අනුමැතිය ලබා දී ඇති අතර ඒ අනුව එම කාලය තුළ ආනයන බලපත්‍ර 2,222ක් නිකුත් කර ඇති බව වාර්තා වේ.
+
+එය 2023 වර්ෂයට සාපේක්ෂව ඉහළ අගයක් ගන්නා බව ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව පවසයි.
+
+...
+
+[Data](articles/9e11f4f9.json)
+
+---
 
 ### පාර්ලිමේන්තු සභා වාරය ඇරඹෙයි
 
@@ -73,6 +145,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d179321c.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bonds steady
+
+*2025-07-24 09:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-232525/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 301.70/90 to the US dollar in the spot market Thursday, from 301.80/85 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 01.08.2028 was quoted at 8.90/95 percent.
+
+A bond maturing on 15.12.2029 was quoted flat at 9.50/55 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent. (Colombo/July24/2025)
+
+◼️
+
+[Data](articles/5a23f435.json)
+
+---
+
+### Sri Lanka can come up with new instruments, no need to sell CB-held bonds now: Governor
+
+*2025-07-24 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-come-up-with-new-instruments-no-need-to-sell-cb-held-bonds-now-governor-232523/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank saw no need to sell down its bond portfolio at the moment and if required new instruments could be used for monetary policy, Central Bank Governor Nandalal Weerasinghe said.
+
+Governor Weerasinghe had previously said it will “explore ways to gradually phase out its holding of restructured bonds, a legacy of the Central Bank’s financial support to the Government during the crisis.”
+
+“I don’t think there’s a need now,” Governor Weerasinghe said.
+
+“This is all for open market operations. If we have an instrument, we can use it. If not, we have to come up with an instrument for open market operations.”
+
+At one time the central bank used its own central bank securities to mop up liquidity and build reserves but they were abandoned.
+
+Around 2014 after running out Treasury bills, the central bank used dollar rupee swap and also borrowed securities from the Employees Provident Fund to sell and mop up liquidity.
+
+...
+
+[Data](articles/0576bdd1.json)
 
 ---
 
@@ -194,6 +306,26 @@ Meanwhile, the Director General of the Department of Wildlife Conservation, Ranj
 
 ---
 
+### Trump says lower tariffs only for nations that open market as Sri Lanka seeks reduction
+
+*2025-07-24 07:31:00* · [`economynextcom`](https://economynext.com/trump-says-lower-tariffs-only-for-nations-that-open-market-as-sri-lanka-seeks-reduction-232484/) · `en`
+
+ECONOMYNEXT – US President Donald Trump has said he will ‘only lower tariffs’ if a country agrees to open its markets for US exports, in a social media post, as Sri Lanka also tries to get a better rate than 30 percent.
+
+“I will only lower tariffs if a country agrees to open its market,” President Trump said in a truthsocial.com post.
+
+President Trump made the post, modifying an earlier post which said he will give up tariff points if major countries open their markets to the US. He dropped the word ‘major’ in the second post.
+
+“I will always give up Tariff points if I can get major countries to OPEN THEIR MARKETS TO THE USA. Another great power of Tariffs,” he said.
+
+“Without them, it would be impossible to get countries to OPEN UP!!! ALWAYS, ZERO TARIFFS TO AMERICA!!!”
+
+...
+
+[Data](articles/b0e1a01d.json)
+
+---
+
 ### சீனர்களுக்கு சுற்றுலா விசாவை வழங்கும் இந்தியா
 
 *2025-07-24 07:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனர்களுக்கு-சுற்றுலா-விசாவை-வழங்கும்-இந்தியா/175-361650) · `ta`
@@ -209,6 +341,24 @@ Meanwhile, the Director General of the Department of Wildlife Conservation, Ranj
 ...
 
 [Data](articles/9b345ff6.json)
+
+---
+
+### Sri Lanka court faults Ranil’s 2022 emergency declaration restricting future Presidents
+
+*2025-07-24 07:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-court-faults-ranils-2022-emergency-declaration-restricting-future-presidents-232510/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has ruled that ex-President Ranil Wickremesinghe was wrong in declaring emergency in 2022 soon after he was elected to the post by the parliament and ordered the attorney general to issue instructions to future presidents on similar actions.
+
+Justice Yasantha Kodagoda in the ruling the declaration of July 17, 2022 and regulations on July 18 are “are a nullity and is deemed to have never had the recognition of the law.”
+
+“The Attorney General is directed to, within three (3) months from the date of this Judgment incorporate the principles of law contained in this Judgment into a detailed legal advisory, and forward such advisory to the Office of His Excellency the President for necessary consideration,” Justice Kodagoda said.
+
+“A copy of that advisory is to be filed of record in this Court.
+
+...
+
+[Data](articles/9d83dffd.json)
 
 ---
 
@@ -240,11 +390,9 @@ Meanwhile, the Director General of the Department of Wildlife Conservation, Ranj
 
 இவ்வாறு மரண தண்டனை விதிக்கப்பட்டது. ஹிங்குராக்கொட, உனகலவெஹெர, சந்தன பொக்குண 10 ஐச் சேர்ந்த ஏ.எம். விஜேரத்ன மற்றும் ஏ.எம். ரசிக பிரதீப் பண்டார மற்றும் ஏ.எம். ரோஷன் பிரதீப் பண்டார ஆகிய இரண்டு தந்தை மற்றும் மகன் பிரதிவாதிகளுக்கும், ஏ.பி. சிசிர குமார ஆகியோருக்கும் இந்த தண்டனை விதிக்கப்பட்டது.
 
-இந்த வழக்கில் 5வது மற்றும் 6வது பிரதிவாதிகளாகப் பெயரிடப்பட்ட டி.எம். நிமல் திசாநாயக்க மற்றும் ஏ.ஜி. ஹீன் பண்டா ஆகியோரிடமும் சட்டமா அதிபர் குற்றப்பத்திரிகையை ஒப்படைத்திருந்தார், மேலும் இரண்டு பிரதிவாதிகளும் விசாரணையின் போது இறந்துவிட்டனர்.
+இந்த வழக்கில் 5வது மற்றும் 6 வது பிரதிவாதிகளாகப் பெயரிடப்பட்ட டி.எம். நிமல் திசாநாயக்க மற்றும் ஏ.ஜி. ஹீன் பண்டா ஆகியோரிடமும் சட்டமா அதிபர் குற்றப்பத்திரிகையை ஒப்படைத்திருந்தார்,
 
-பிரதிவாதிகளுக்கு மரண தண்டனை விதித்த மேல் நீதிமன்ற நீதிபதி ருச்சிர வெலிவத்த, பிரதிவாதிகளுக்கு எதிரான குற்றச்சாட்டுகளை நியாயமான சந்தேகத்திற்கு இடமின்றி நிரூபிப்பதில் அரசு தரப்பு வெற்றி பெற்றதாகக் கூறினார்.
-
-◼️
+...
 
 [Data](articles/65d981ee.json)
 
@@ -1645,143 +1793,5 @@ National Media Policy - Draft English by Adaderana Online on Scribd
 ◼️
 
 [Data](articles/789e084a.json)
-
----
-
-### 2026 ஆண்டு  நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம்
-
-*2025-07-23 16:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-ஆண்டு-நடைமுறைப்படுத்தப்படவுள்ள-புதிய-கல்விச்-சீர்திருத்தம்/175-361622) · `ta`
-
-கல்வியை அளவிடும் பாரம்பரியப் பரீட்சை முறைக்கு மாற்றாக, தொகுதி முறை (module) கல்வித் திட்டத்தை அறிமுகப்படுத்தியிருப்பதாக கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்துள்ளார். இதன் முக்கிய நோக்கம் மாணவர்களுக்கு தரமான கல்வியை வழங்குவதாகும் என்றும் அவர் சுட்டிக்காட்டினார்.
-
-2026 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம் குறித்து, ஜூலை 23 ஆம் திகதி பத்தரமுல்லை இசுருபாயவில் உள்ள கல்வி அமைச்சில் நடைபெற்ற ஊடகவியலாளர்களுக்கான விழிப்புணர்வு நிகழ்வில் பிரதமர் இதனைக் கூறினார்.
-
-இந்த சீர்திருத்தம் குறித்த விளக்கங்களை கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ மற்றும் தேசிய கல்வி நிறுவனத்தின் பணிப்பாளர் கலாநிதி அசோக டி சில்வா ஆகியோர் ஊடக நிறுவனங்களின் ஊடகவியலாளர்களுக்கு வழங்கினர்.
-
-...
-
-[Data](articles/4a617613.json)
-
----
-
-### 2026 ஆண்டு  முதல் புதிய கல்விச் சீர்திருத்தம்
-
-*2025-07-23 16:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-ஆண்டு-முதல்-புதிய-கல்விச்-சீர்திருத்தம்/175-361622) · `ta`
-
-கல்வியை அளவிடும் பாரம்பரியப் பரீட்சை முறைக்கு மாற்றாக, தொகுதி முறை (module) கல்வித் திட்டத்தை அறிமுகப்படுத்தியிருப்பதாக கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தெரிவித்துள்ளார். இதன் முக்கிய நோக்கம் மாணவர்களுக்கு தரமான கல்வியை வழங்குவதாகும் என்றும் அவர் சுட்டிக்காட்டினார்.
-
-2026 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்படவுள்ள புதிய கல்விச் சீர்திருத்தம் குறித்து, ஜூலை 23 ஆம் திகதி பத்தரமுல்லை இசுருபாயவில் உள்ள கல்வி அமைச்சில் நடைபெற்ற ஊடகவியலாளர்களுக்கான விழிப்புணர்வு நிகழ்வில் பிரதமர் இதனைக் கூறினார்.
-
-இந்த சீர்திருத்தம் குறித்த விளக்கங்களை கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ மற்றும் தேசிய கல்வி நிறுவனத்தின் பணிப்பாளர் கலாநிதி அசோக டி சில்வா ஆகியோர் ஊடக நிறுவனங்களின் ஊடகவியலாளர்களுக்கு வழங்கினர்.
-
-...
-
-[Data](articles/51b33a69.json)
-
----
-
-### யானை மீது துப்பாக்கி சூடு ; சிஐடியை விசாரணை செய்யுமாறு கோரிய சுற்றாடல் அமைச்சு
-
-*2025-07-23 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/220744) · `ta`
-
-அண்மையில் துப்பாக்கி சூட்டு காயங்களால் உயிரிழந்த காட்டு யானை தொடர்பில் விசேட விசாரணை நடத்துமாறு பொலிஸ் திணைக்களத்திடம்  கோரிக்கை விடுத்துள்ளதோடு, இந்த சம்பவத்துக்கு காரணமானவர்கள் மீது கடும் சட்ட நடவடிக்கை எடுக்க வேண்டும் எனவும் சுற்றாடல் அமைச்சு வலியுறுத்தியுள்ளது.
-
-சிகிரியாவின் திகம்பத்தன மற்றும் கல்கமுவ பகுதிகளில் கண்டெடுக்கப்பட்ட நான்கு யானைகளின் சடலங்கள் தொடர்பாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகத்தின் அறிக்கையை தொடர்ந்து, சுற்றாடல் அமைச்சர் செயலாளர் கே.ஆர். உடுவவல, பதில் பொலிஸ்மா அதிபராக பிரியந்த வீரசூரியவுக்கு எழுதிய கடிதத்தில், இந்த வழக்கை குற்றப் புலனாய்வுத் திணைக்களம் (சி.ஐ.டி) பொறுப்பேற்குமாறு கேட்டுக் கொண்டார்.
-
-...
-
-[Data](articles/24e73072.json)
-
----
-
-### වට්ටක්කා කිලෝවක තොග මිල රු.30යි, සිල්ලර මිල රු. 200යි
-
-*2025-07-23 16:52:46* · [`adalk`](https://www.ada.lk/breaking_news/වට්ටක්කා-කිලෝවක-තොග-මිල-රු-30යි--සිල්ලර-මිල-රු--200යි/11-417469) · `si`
-
-දඹුල්ල ආර්ථික මධ්‍යස්ථානයට දිවයිනේ විවිධ ප්‍රදේශවලින් රැගෙන ආ වට්ටක්කා තොග අලෙවි කර ගැනීමට නොහැකිව ගොවීහු දැඩි දුෂ්කරතාවයකට පත්ව තිබෙන බවත් වට්ටක්කා කිලෝවක තොග මිල රුපියල් තිහේ සිට හතළිස් පහ දක්වා වූ මිල ගණන් පවතින බව ගොවීහු පෙන්වා දෙති.
-
-රුපියල් තිහටවත් වට්ටක්කා මිලදී ගැනීමට ගැනුම්කරුවන් නොමැතිවීම නිසා දින ගණනාවක් තමන්ගේ නිෂ්පාදන දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ තබාගෙන රැඳී සිටීමට සිදුවී ඇතැයි වට්ටක්කා ගොවීන් පවසති.
-
-තොග මිල විශාල වශයෙන් පහත වැටී තිබියදී දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ සිට මීටර් කිහිපයක් දුරින් පිහිටි එළවළු සිල්ලරට අලෙවි කරන පෞද්ගලික වෙළඳසැල්වල  වට්ටක්කා කිලෝවක සිල්ලර මිල රුපියල් 160 ත් 200 ත්  අතර මිලකට පාරිභෝගික ජනතාවට අලෙවී වීම  විශේෂත්වයකි.
-
-අනුරාධපුර දිස්ත්‍රික්කයේ විලච්චිය හොරොපතාන සහ විවිධ ප්‍රදේශ වලින් මේ දිනවල දඹුල්ල ආර්ථික මධ්‍යස්ථානයට වට්ටක්කා තොග විශාල වශයෙන් ලැබෙමින් පවතී.
-
-...
-
-[Data](articles/cc0416c1.json)
-
----
-
-### Sri Lanka to shift from exam-centric education to module-based system by 2026: PM
-
-*2025-07-23 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110778/sri-lanka-to-shift-from-exam-centric-education-to-module-based-system-by-2026-pm) · `en`
-
-Prime Minister and Minister of Education, Higher Education, and Vocational Education, Dr. Harini Amarasuriya, announced today (23) that Sri Lanka is shifting away from an education system solely focused on pass or fail examination outcomes.
-
-The government’s objective is to deliver quality education to children through the introduction of a module-based system.
-
-Prime Minister Amarasuriya made these remarks while addressing a media briefing held at the Ministry of Education in Isurupaya today (23), regarding the new education reforms scheduled for implementation in 2026, according to the Prime Minister’s Media Division.
-
-The awareness session for media personnel representing various media organizations on the upcoming educational reforms was conducted by Nalaka Kaluwewa, Secretary to the Ministry of Education, Higher Education, and Vocational Education, and Dr. Ashoka de Silva, Deputy Director General of the National Institute of Education.
-
-...
-
-[Data](articles/3246dc62.json)
-
----
-
-### மணி அடித்தால் மட்டுமே கடைகளை திறக்கணும்
-
-*2025-07-23 16:47:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மணி-அடித்தால்-மட்டுமே-கடைகளை-திறக்கணும்/175-361621) · `ta`
-
-மணி அடித்தால் மட்டுமே கடை திறக்கணும் என்ற விசித்திரமான சம்பவம் இந்தியாவில் ஆந்திர மாநிலத்தில் நீண்டகாலமாக நடைபெற்று வருகிறது
-
-ஆந்திர மாநிலம் பிரகாச மாவட்டத்தில் போடிலி, படூர் போன்ற நகரப் பகுதிகள் அமைந்துள்ளது. இப்பகுதியில் ஏராளமான கடைகள் அமைந்துள்ள நிலையில் அங்குள்ள வியாபாரிகள் ஒரு புதிய விதிமுறையை பல ஆண்டுகளாக கடைபிடித்து வருகிறார்கள். அது என்னவென்றால், 60 வயது முதியவர் ஒருவர் தினமும் காலை 8 மணிக்கு சாலையில் மணி அடித்துக்கொண்டே செல்வார்.
-
-அதன்பிறகு தான் அப்பகுதியில் உள்ள அனைத்து வியாபாரிகளும் தங்களது கடையை திறந்து வியாபாரத்தை தொடங்குகிறார்கள். இது பல வருடங்களாக அவர்கள் கடைபிடித்து வரும் நிலையில் வெளியூர் மக்களுக்கு வித்தியாசமாக இருப்பதால் ஆச்சரியத்துடன் பார்க்கிறார்கள்.
-
-மணி அடிக்கும் பிரம்மய்யா என்ற நபர் பல வருடங்களாக இந்தப் பணியை செய்து வருவதாக அப்பகுதி மக்கள் கூறுகிறார்கள். மேலும் இந்த வித்தியாசமான விதிமுறையை கடைவீதிகளில் உள்ள அனைத்து வியாபாரிகளும் பின்பற்றும் செயல் அப்பகுதியில் பெரும் ஆச்சரியத்தை ஏற்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/a4de55a0.json)
-
----
-
-### කොත්තු කඩ හා වඩේ දමා කෝටිපතියන් වන ක්‍රමය නවතා දැමිය යුතුයි
-
-*2025-07-23 16:32:04* · [`adalk`](https://www.ada.lk/breaking_news/කොත්තු-කඩ-හා-වඩේ-දමා-කෝටිපතියන්-වන-ක්‍රමය-නවතා-දැමිය-යුතුයි/11-417468) · `si`
-
-කොත්තු කඩ සහ වඩේ දැමීම වැනි කටයුතු කරමින් සිටියදී මුදල් විශුද්ධි කරණය හරහා කෝටිපතියන් වන ක්‍රමය නවතා දැමිය යුතු බව සංචරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා පැවසීය.
-
-මුදල් විශුද්ධිකරණය සම්බන්ධයෙන් ලෝකයේ රටවල් 164 ක් අතරින් ශ්‍රී ලංකාව 80 වැනි ස්ථානයේ සිටින බව ද අද (23දා) පාර්ලිමේන්තුවේ පැවති සමාගම්(සංශෝධන) පනත් කෙටුම්පත  දෙවැනිවර කියවීමේ විවාධයට එක්වෙමින් හෙතෙම සඳහන් කළේය.
-
-එහිදී වැඩිදුරටත්  නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
-
-"ජාත්‍යන්තර මූල්‍ය අරමුදල කියනවා ලෝක ආර්ථිකයේ නිෂ්පාදිතයෙන් 2%-5%ත් අතර ප්‍රමාණයක් මුදල් විශුද්ධිකරණය, මේ කළු මුදල් තිබෙන්නේ කියලා. මම පුද්ගලිකව අදහස් කරනවා ශ්‍රී ලංකාවේ ඊට වඩා විශාල වශයෙන් වැඩියි.
-
-ලෝකයේ රටවල් 164කින් ගත්තොත් මේ මුදල් විශුද්ධිකරණයට අදාළව රෑන්ක් කරනවා 0 සිට 10 වෙනකන්. 0 නම් ඉතාම හොඳයි. මුදල් විශුද්ධිකරණයක් වෙන්නේ නෑ රටේ. ඒත් 10යි නම් සම්පූර්ණයෙන්ම මුදල් විශුද්ධි කරන ආර්ථිකයක් යෙන්නේ. එහෙම විශාල රිස්ක් එකක් ඇවිල්ලා තියෙන්නේ හයිටි කියන රටේ. 8.25%යි මුදල් විශුද්ධිකරණයේ ඔවුන්ට ලැබිලා තියෙන අගය.
-
-...
-
-[Data](articles/32a9aada.json)
-
----
-
-### Sri Lanka and Pakistan keen to strengthen defence sector partnerships
-
-*2025-07-23 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110777/sri-lanka-and-pakistan-keen-to-strengthen-defence-sector-partnerships) · `en`
-
-Sri Lanka and Pakistan have reiterated the importance of reinforcing defence sector partnerships across multiple domains.
-
-This was emphasized when the Chief of General Staff of the Pakistan Army, Lieutenant General Syed Aamer Raza met with the Deputy Minister of Defence, Major General Aruna Jayasekara (Retd) and the Defence Secretary, Air Vice Marshal Sampath Thuyacontha (Retd.
-
-In his meeting with the Deputy Minister of Defence, discussions centred on strengthening bilateral defence cooperation, with a particular focus on capacity building and the exchange of best practices.
-
-Both parties emphasized the significance of enhancing preparedness and resilience, especially in the context of natural disaster response, the Ministry of Defence said in a statement.
-
-...
-
-[Data](articles/3891b11c.json)
 
 ---

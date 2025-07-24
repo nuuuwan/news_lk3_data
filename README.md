@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 15:33:18**
+As of **2025-07-24 15:48:50**
 
 ## Newspaper Stats
 
-*Scraped **66,544** Articles*
+*Scraped **66,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,53 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
-islandlk | 4,064
+islandlk | 4,065
 economynextcom | 4,072
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,384
-adaderanalk | 8,169
+adaderanalk | 8,171
 tamilmirrorlk | 9,601
-virakesarilk | 11,085
-adaderanasinhalalk | 11,424
+virakesarilk | 11,086
+adaderanasinhalalk | 11,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,544 articles have been extended.
+61,973 (93.1%) of 66,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### රසාරා විජේසූරිය මීටර 5000 අවසන් තරගයට
+
+*2025-07-24 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212588) · `si`
+
+ජර්මනියේ පැවැත්වෙන ලෝක විශ්වවිද්‍යාල ක්‍රීඩා උළෙලේදී මීටර 5000 ඉසව්වේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකාවේ රසාරා විජේසූරිය සමත් වූවාය.
+
+අද (24) පැවති සුදුසුකම් ලැබීමේ තරගයේ දී ඇය විනාඩි 16:00.30කින් තරගය අවසන් කර එම ඉසව්වේ 7වන ස්ථානය දිනාගැනීමත් සමග ඇයට මෙම අවස්ථාව හිමිවිය.
+
+මෙහිදී රසාරා ගතකළ කාලය ඇගේ පෞද්ගලික හොඳම කාලය වන අතර, මෙරට ක්‍රීඩිකාවක මලල ක්‍රීඩා ඉතිහාසයේ දැක් වූ දෙවන හොඳම කාලයද වේ.
+
+රසාරා ඊයේ පැවති මීටර 10000 ඉසව්වට සහභාගි වූ අතර, එහිදී විනාඩි 32:52.20කින් තරගය අවසන් කර නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට ද සමත් විය.
+
+කෙසේ නමුත් ඇය අලුත්කරනු ලැබුවේ ඇය විසින්ම පිහිටුවා තිබූ වාර්තාවක් වන අතර, මෙම වසර තුළදීම දෙවතාවක් එය අලුත්කර තිබුණි.
+
+රසාරා කැලණිය විශ්වවිද්‍යාල නියෝජනය කරමින් මෙම තරගාවලියට සහභාගි වී සිටියි.
+
+මෙවර ලෝක විශ්වවිද්‍යාල ක්‍රීඩා උළෙල ඉකුත් 16 වනදා ආරම්භ වූ අතර, එය එළැඹෙන 27 වනදා අවසන්වීමට නියමිතව ඇත.
+
+මේ සඳහා රටවල් 113ක් නියෝජනය කරමින් ක්‍රීඩික ක්‍රීඩිකාවෝ 7000කට වැඩි පිරිසක් සහභාගි වී සිටියි.
+
+ඔවුන් ක්‍රීඩා 18ක් යටතේ ඉසව් 234ක් වෙනුවෙන් තරග වැඳීමට නියමිතය.
+
+◼️
+
+[Data](articles/0b86b894.json)
+
+---
 
 ### கஞ்சிபானியின் நெருங்கிய சகா கைது
 
@@ -70,6 +98,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### மேல் கொத்மலை நீர்த்தேக்கத்தின் வான் கதவு திறப்பு ; ஏனைய நீர்த்தேக்கங்களில் அதிகளவு நீர் வெளியேற்றம்
+
+*2025-07-24 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220823) · `ta`
+
+நீரேந்து பகுதிகளில் பெய்து வரும் அடை மழை காரணமாக  மேல் கொத்மலை நீர்த்தேக்கத்தில் ஒரு வான் கதவைத் திறக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+மேல் கொத்மலையின் நீரேந்து பகுதிகளில் தொடர்ந்து பெய்து வரும் கனமழை காரணமாக மேல் கொத்மலை நீர்த்தேக்கத்தின் ஒரு வான் கதவு இன்று (24) அதிகாலை முதல் திறக்கப்பட்டுள்ளதாக நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு தெரிவித்துள்ளது.
+
+நீர்த்தேக்கத்தின் ஏனைய வான் கதவுகள் சுயமாகவே திறக்கப்படும் என்று நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு தெரிவித்துள்ளது இதனால்  நீர்த்தேக்க அணையின் கீழ்ப்பகுதியில் உள்ள கொத்மலை ஓயாவின் இருபுறமும் வசிக்கும்  பொதுமக்கள் இது தொடர்பாக விழிப்புடன் இருக்குமாறு அனர்த்த முகாமைத்து பிரிவின் அதிகாரிகள் அறிவுறுத்தியுள்ளனர்.
+
+மேல் கொத்மலை நீர்தேக்க பகுதிகளில் பெய்து வரும் கனமழையால், சென் கிளயார் மற்றும் டெவோன் நீர்வீழ்ச்சிகளில் இருந்து வெளியேறும் நீரும் அதிகரித்துள்ளமை குறிப்பிடதக்கது.
+
+◼️
+
+[Data](articles/79421955.json)
+
+---
+
 ### Wasantha de Silva eleced President of Sri Lanka Pakistan Business Council
 
 *2025-07-24 15:02:00* · [`economynextcom`](https://economynext.com/wasantha-de-silva-eleced-president-of-sri-lanka-pakistan-business-council-232567/) · `en`
@@ -85,6 +131,48 @@ The newly appointed committee for the year 2025/26 consists of Gayan Maddumarach
 ...
 
 [Data](articles/428b6f42.json)
+
+---
+
+### India resumes visas for Chinese tourists amid thawing ties
+
+*2025-07-24 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110812/india-resumes-visas-for-chinese-tourists-amid-thawing-ties) · `en`
+
+India has resumed issuing tourist visas to Chinese nationals after a five-year gap as the two countries continue to explore ways to mend their strained relationship.
+
+The Indian embassy in Beijing made the announcement on Wednesday via the Chinese social media app Weibo, the state-owned Global Times newspaper reported.
+
+Chinese foreign ministry spokesperson Guo Jiakun said the development was a “positive move” and added that China was willing to work with India to improve the “facilitation of people-to-people exchanges”.
+
+India suspended visas to China, restricted investments and banned several Chinese apps after the 2020 military clashes in Galwan Valley killed at least 20 Indian soldiers.
+
+The site of the clash was on the de facto border - the Line of Actual Control or LAC - between the two countries.
+
+India and China share a border that is more than 3,440km (2,100 miles) long and have overlapping territorial claims.
+
+...
+
+[Data](articles/4ee76cd4.json)
+
+---
+
+### No legal provisions for companies to charge 2.5%–3% fees on card transactions: CBSL
+
+*2025-07-24 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110811/no-legal-provisions-for-companies-to-charge-253-fees-on-card-transactions-cbsl) · `en`
+
+Companies and institutions have no legal provisions to impose additional charges ranging from 2.5% to 3% on customers for transactions made using credit or debit cards, the Director of Payments and Settlements at the Central Bank of Sri Lanka (CBSL), Vasantha Alwis has stated.
+
+He made this statement during a press briefing held at the Central Bank of Sri Lanka yesterday (July 23).
+
+Alwis said although they have noticed companies charging additional fees, doing so is not permitted under the agreements between the banks and the said merchants.
+
+“If any institution imposes an additional fee on digital transactions, customers should immediately lodge a complaint with the bank that issued their card,” he advised.
+
+“It is also crucial to obtain a receipt clearly showing the fee charged, so that the bank can initiate the process to recover the excess amount.”
+
+...
+
+[Data](articles/39df0152.json)
 
 ---
 
@@ -1729,79 +1817,5 @@ Justice Yasantha Kodagoda in the ruling the declaration of July 17, 2022 and reg
 ◼️
 
 [Data](articles/2cd95cb2.json)
-
----
-
-### Parliament to debate proposed education reforms
-
-*2025-07-24 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110793/parliament-to-debate-proposed-education-reforms) · `en`
-
-An adjournment debate on the proposed education reforms is scheduled to be held in Parliament today (24).
-
-Parliament is scheduled to convene at 9:30 a.m. while the debate is expected to take place until 5:30 p.m., according to the Department of Communication of Parliament.
-
-Meanwhile, the Sri Lanka Electricity (Amendment) Bill, which was due to be debated today, will not take place as scheduled.
-
-Accordingly, a decision has been taken to debate the Sri Lanka Electricity (Amendment) Bill, on a future date.
-
-The decision was taken by the Committee on Parliamentary Business, which convened earlier this week.
-
-◼️
-
-[Data](articles/cc91a9e3.json)
-
----
-
-### செம்மணியில் நேற்று 5 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-07-24 06:55:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-5-எலும்புக்கூடுகள்-அடையாளம்/175-361647) · `ta`
-
-யாழ்ப்பாணம், செம்மணியின் நேற்றைய அகழ்வின் போது 5 என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டன. இதன்படி செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் மொத்த எண்ணிக்கை 85ஆக அதிகரித்துள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழி தொடர்பான இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 18ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-நேற்றைய அகழ்வின்போது ஐந்து மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இரண்டு என்புத் தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-செம்மணி மனிதப் புதைகுழியில் இதுவரை 85 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதுவரை 67 என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/7397bfc3.json)
-
----
-
-### නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ සභාව කල්තැබීමේ විවාදය අද
-
-*2025-07-24 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212569) · `si`
-
-යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ සභාව කල්තැබීමේ විවාදය අද (24) පැවැත්වීමට නියමිතව තිබේ.
-
-විවාදය අද පස්වරු 5.30 දක්වා පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-පසුගිය 22 වන දින පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ දී මෙම විවාදය පැවැත්වීම සම්බන්ධයෙන් යෝජනා වී තිබුණි.
-
-ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය අද දිනයේ පැවැත්වීමට මීට පෙර සැලසුම් කර තිබු අතර එම පනත් කෙටුම්පත සම්බන්ධ තාක්ෂණික කාරණා හේතුවෙන් එය ඉදිරි දිනකදී විවාදයට ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ දී තීරණය වී ඇත.
-
-◼️
-
-[Data](articles/215a7f7c.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-07-24 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212567) · `si`
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත්, ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (55-60) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
-
-තද සුළං වලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
-
-◼️
-
-[Data](articles/65d2acc9.json)
 
 ---

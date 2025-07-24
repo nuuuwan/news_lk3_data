@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 16:34:22**
+As of **2025-07-24 16:48:02**
 
 ## Newspaper Stats
 
-*Scraped **66,553** Articles*
+*Scraped **66,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,384
 adaderanalk | 8,171
-tamilmirrorlk | 9,602
+tamilmirrorlk | 9,604
 virakesarilk | 11,086
-adaderanasinhalalk | 11,428
+adaderanasinhalalk | 11,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,553 articles have been extended.
+61,973 (93.1%) of 66,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### வட்டவன் பகுதி விவகாரம்: கடுமையான எதிர்ப்பால்    தீர்மானிப்பது இடைநிறுத்தம்
+
+*2025-07-24 16:34:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டவன்-பகுதி-விவகாரம்-கடுமையான-எதிர்ப்பால்-தீர்மானிப்பது-இடைநிறுத்தம்/175-361697) · `ta`
+
+வெருகல் பிரதேச செயலக பிரிவின் வட்டவன் பகுதியில், தொல்லியலுக்கான இடங்கள் இருக்குமாயின் அது பற்றிய தீர்மானம் எதிர்வரும் வெருகல் பிரதேச ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் எடுக்கப்பட வேண்டும் என வெருகல் பிரதேச சபையின் தவிசாளர் சே.கருணாநிதி திட்டவட்டமாகத் தெரிவித்துள்ளார்.
+
+இப்பகுதியில் தொல்லியல் பகுதிகள் உள்ளனவா? என்பது தொடர்பாக, அதிகாரிகள், வியாழக்கிழமை (24) அன்று கள விஜயம் செய்துள்ளனர்.
+
+வட்டவன் பகுதியில் தமிழ் மக்களுக்கு சொந்தமான வயற்காணிகள் உள்ளன. இக்காணிகளின் நடுவில் சிறு குன்று பகுதியும் உள்ளது. சில மாதங்களுக்கு முன்னர் தொல்லியல் துறையினர், இப்பகுதியை தொல்லியல் பகுதி எனக்கூறி அறிவித்தல்  பலகை ஒன்றை நட்டிருந்தனர். பொதுமக்களின் எதிர்ப்பை அடுத்து அது அகற்றப்பட்டது.
+
+இந்நிலையில், வெருகல் பிரதேச ஒருங்கிணைப்புக்குழு கூட்டம் கடந்த 17ஆம் திகதி நடைபெற்றது. இவ்விடயம் ஆராயப்பட்டது.
+
+...
+
+[Data](articles/5ef3753e.json)
+
+---
+
+### මවකගේ සහ දරුවන් දෙදෙනෙකුගේ මළ සිරුරු ළිඳකින් හමුවෙයි
+
+*2025-07-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212593) · `si`
+
+මුලතිව් දිස්ත්‍රික්කයේ පනිකන්කුලම් ප්‍රදේශයේ පිහිටි ළිඳකින් මවකගේ සහ දරුවන් දෙදෙනෙකුගේ මළ සිරුරු හමු වී තිබේ.
+
+ඔවුන් ජීවත් වූ නිවසේ සිට මීටර් 500ක් පමණ දුරින් පිහිටි ළිඳකින් මෙසේ එම මළ සිරුරු සොයා ගෙන ඇත.
+
+මෙසේ මියගොස් ඇත්තේ වයස අවුරුදු 38ක් වන මවක්, වයස අවුරුදු 11ක් සහ වයස අවුරුදු 04ක් වන දියණියන් දෙදෙනෙකි.
+
+අද (24) උදෑසන එම ළිඳ අසල තිබී ආහාර මල්ලක් සහ තවත් ද්‍රව්‍ය කිහිපයක් හමු වී ඇති අතර ගමේ ජනතාව මේ පිළිබඳව ග්‍රාම නිලධාරිවරයා සහ පොලිසිය දැනුම්වත් කර තිබේ.
+
+එහිදී ග්‍රාම නිලධාරිවරයා සහ පොලිසිය පැමිණ සිදු කළ විමර්ශනවලදී මෙම මළ සිරුරු සොයා ගෙන ඇත.
+
+ඔවුන් සියදිවි නසා ගත්තාද නැතිනම් සිදු වූයේ කුමක්ද යන්න පිළිබඳව මංගුලම් පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/d3cc8a4c.json)
+
+---
 
 ### තුර්කියේ ළැව්ගිනි - 10 දෙනෙකු මරුට
 
@@ -57,6 +97,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5b768f0f.json)
+
+---
+
+### கிணற்றிலிருந்து தாயும் பிள்ளைகளும் சடலங்களாக மீட்பு
+
+*2025-07-24 16:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றிலிருந்து-தாயும்-பிள்ளைகளும்-சடலங்களாக-மீட்பு/175-361696) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட பனிக்கன்குளம் பகுதியில் அமைந்திருக்கும் அரச வீட்டுத்திட்ட பயனாளி ஒருவரின் கிணற்றிலிருந்து தாயும் இரண்டு பிள்ளைகளும் சடலமாக மீட்கப்பட்டுள்ளனர்
+
+முல்லைத்தீவு  மாவட்டத்தின் ஒட்டுசுட்டான் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட பனிக்கன்குளம் கிராமத்தில் இரண்டு பிள்ளைகளுடன் வசித்து வந்த  தாய் ஒருவரும் அவரது இரண்டு பிள்ளைகளும் அவர் வசித்து வந்த வீட்டில் இருந்து சுமார் 500 மீற்றருக்கு அப்பால் உள்ள அரச வீட்டு திட்டத்தில் உள்ள வீட்டு திட்ட பயனாளி ஒருவரின் வீட்டு  கிணற்றிலிருந்து சடலமாக வியாழக்கிழமை(24) மீட்கப்பட்டுள்ளனர்
+
+உசாகரன் மாலினி( வயது 38) தாய் மற்றும் உசாகரன் மிக்சா ( வயது 11) மகள் உசாகரன் சதுசா (வயது 04) ஆகியவர்களே இவ்வாறு சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/feee63f6.json)
 
 ---
 
@@ -1781,61 +1837,5 @@ Canberra technically lifted the ban on US beef in 2019, but cattle from Mexico a
 ◼️
 
 [Data](articles/5dce2cd6.json)
-
----
-
-### At least 20 injured elephants receiving treatment at present
-
-*2025-07-24 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110795/at-least-20-injured-elephants-receiving-treatment-at-present) · `en`
-
-At least 20 injured elephants are currently receiving treatment across the country, according to the Department of Wildlife Conservation.
-
-According to the Department, most of the elephants receiving treatment have sustained leg injuries due to gunshot wounds and being caught in snares.
-
-Accordingly, it is reported that eight elephants in the Anuradhapura wildlife zone, four in the Polonnaruwa wildlife zone, three in the Northwestern wildlife zone, and five in the Uva wildlife zone are currently receiving treatment.
-
-Meanwhile, the Director General of the Department of Wildlife Conservation, Ranjan Marasinghe stated that a request has been made to the Inspector General of Police to provide the necessary technical and other assistance to conduct investigations regarding three elephant deaths reported from the Digampathaha area.
-
-...
-
-[Data](articles/1f40e6f5.json)
-
----
-
-### Trump says lower tariffs only for nations that open market as Sri Lanka seeks reduction
-
-*2025-07-24 07:31:00* · [`economynextcom`](https://economynext.com/trump-says-lower-tariffs-only-for-nations-that-open-market-as-sri-lanka-seeks-reduction-232484/) · `en`
-
-ECONOMYNEXT – US President Donald Trump has said he will ‘only lower tariffs’ if a country agrees to open its markets for US exports, in a social media post, as Sri Lanka also tries to get a better rate than 30 percent.
-
-“I will only lower tariffs if a country agrees to open its market,” President Trump said in a truthsocial.com post.
-
-President Trump made the post, modifying an earlier post which said he will give up tariff points if major countries open their markets to the US. He dropped the word ‘major’ in the second post.
-
-“I will always give up Tariff points if I can get major countries to OPEN THEIR MARKETS TO THE USA. Another great power of Tariffs,” he said.
-
-“Without them, it would be impossible to get countries to OPEN UP!!! ALWAYS, ZERO TARIFFS TO AMERICA!!!”
-
-...
-
-[Data](articles/b0e1a01d.json)
-
----
-
-### சீனர்களுக்கு சுற்றுலா விசாவை வழங்கும் இந்தியா
-
-*2025-07-24 07:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனர்களுக்கு-சுற்றுலா-விசாவை-வழங்கும்-இந்தியா/175-361650) · `ta`
-
-சீன நாட்டவர்கள் இந்தியாவுக்கு சுற்றுலா வருவதற்கான விசா சேவையை, 5 ஆண்டுகளுக்குப் பிறகு இந்தியா மீண்டும் இன்று தொடங்குகிறது.
-
-இது தொடர்பாக சீனாவில் உள்ள இந்திய தூதரகம் சார்பில் சமூக ஊடக பக்கத்தில் வெளியிடப்பட்டுள்ள பதிவில்,
-
-சீன குடிமக்கள் இந்தியாவுக்கு வருகை தர சுற்றுலா விசாவுக்கு ஜூலை 24 முதல் விண்ணப்பிக்கலாம். முதலில் ஒன்லைன் முறையில் விசா கோரி விண்ணப்பிக்க வேண்டும். அதன் பிறகு, இந்திய விசா விண்ணப்ப மையத்தில் விசா விண்ணப்பம் மற்றும் கடவுச்சீட்டு உள்ளிட்டவற்றை சமர்ப்பிக்க வேண்டும் என்று தெரிவிக்கப்பட்டுள்ளது.
-
-லடாக்கில் உள்ள கல்வான் பள்ளத்தாக்கில் இந்திய - சீன இராணுவத்துக்கு இடையே ஏற்பட்ட மோதலை அடுத்து 2020 முதல் சீன நாட்டவர்களுக்கான சுற்றுலா விசா சேவையை இந்தியா தற்காலிகமாக நிறுத்தியது. மேலும், சீன முதலீட்டாளர்களுக்கு கட்டுப்பாடுகள் விதிக்கப்பட்டன. நூற்றுக்கணக்கான சீன செயலிகள்  தடை செய்யப்பட்டன. கொவிட் பெருந்தொற்றை கருத்தில் கொண்டும், சீன நாட்டினருக்கான விசா சேவை நிறுத்தம் நீட்டிக்கப்பட்டு வந்தது.
-
-...
-
-[Data](articles/9b345ff6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 21:49:46**
+As of **2025-07-24 22:06:35**
 
 ## Newspaper Stats
 
-*Scraped **66,606** Articles*
+*Scraped **66,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 4,077
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,395
-adaderanalk | 8,177
+adaderanalk | 8,178
 tamilmirrorlk | 9,613
-virakesarilk | 11,096
+virakesarilk | 11,099
 adaderanasinhalalk | 11,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,606 articles have been extended.
+61,973 (93.0%) of 66,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### காட்டு யானைகளின் உயிர்களைப் பாதுகாக்கவும், கிராமிய மக்களின் அன்றாட வாழ்க்கையைப் பாதுகாக்கவும் ஜனாதிபதியின் கவனம்
+
+*2025-07-24 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220874) · `ta`
+
+காட்டு யானைகளின் உயிர்களைக் காப்பாற்றுவதுடன், கிராமிய மக்களின் அன்றாட வாழ்க்கையைப் பாதுகாப்பது தொடர்பிலும் ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் சம்பந்தப்பட்ட அமைச்சர்கள் மற்றும் அதிகாரிகளுக்கு இடையில் வியாழக்கிழமை (24) பிற்பகல் ஜனாதிபதி செயலகத்தில் கலந்துரையாடல் இடம்பெற்றது.
+
+நாளுக்கு நாள் அதிகரித்து வரும் காட்டு யானைகளுக்கு இடம்பெறும் தொல்லைகள் மற்றும் கிராமிய மக்களின் அன்றாட வாழ்வில் ஏற்படும் பாதிப்புகள் தொடர்பில் தற்போதைய நிலைமை குறித்தும் ஜனாதிபதி கேள்வி எழுப்பினார்.
+
+இது தொடர்பான தற்போதைய நிலைமை மற்றும் அதற்கான தீர்வுகளைக் காண்பதில் சம்பந்தப்பட்ட நிறுவனங்கள் நீண்ட காலமாக எதிர்கொண்டுள்ள பிரச்சினைகள் குறித்து இதன்போது அதிகாரிகள் ஜனாதிபதியின் கவனத்திற்குக் கொண்டு வந்தனர்.
+
+...
+
+[Data](articles/dc7e73bc.json)
+
+---
+
+### இங்கிலாந்துடன் இருவகை சர்வதேச மட்டுப்படுத்தப்பட்ட ஓவர் தொடர்களில் 2026இல் இலங்கை விளையாடவுள்ளது
+
+*2025-07-24 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220873) · `ta`
+
+இலங்கை கிரிக்கெட் அணியினர் 2026ஆம் ஆண்டு செப்டெம்பர் மாதம் இங்கிலாந்துக்கான கிரிக்கெட் விஜயம் செய்யவுள்ளனர்.
+
+இங்கிலாந்துக்கு எதிராக இரண்டு வகை சர்வதேச மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் தொடர்களில் விளையாடுவதற்காக இலங்கை ஆடவர் அணி அடுத்த வருடம் அங்கு விஜயம் செய்யவுள்ளதாக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் அறிவித்துள்ளது.
+
+இங்கிலாந்துடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரிலும் 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடரிலும் இலங்கை விளையாடவுள்ளது.
+
+சௌத்ஹம்ப்டனில்  2026ஆம் ஆண்டு  செப்டெம்பர் மாதம் 26ஆம் திகதி நடைபெறவுள்ள முதலாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியுடன் தொடர் ஆரம்பாகும்.
+
+◼️
+
+[Data](articles/c55aa1a4.json)
+
+---
+
+### உத்தேச கல்வி சீர்திருத்தத்தின் ஊடாக இந்நாட்டின் முழு சமூக மட்டத்தையும் பொருளாதார மட்டத்தையும் ஒரேசமயத்தில் உயர்த்துவதற்கு நாம் அனைவரும் ஒன்றுபடுவோம் - ஜனாதிபதி
+
+*2025-07-24 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220872) · `ta`
+
+உத்தேச கல்வி சீர்திருத்தம் வெறும் பாடத்திட்டத்தை திருத்துவதற்கு மட்டும் மட்டுப்படுத்தப்பட்டதல்ல என்றும், அதே நேரத்தில் நாட்டின் முழு சமூக  மட்டத்தையும் பொருளாதார மட்டத்தையும் ஒரேயடியாக உயர்த்தும் என்றும் ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார்.
+
+இது ஒரு அரசியல் நோக்கிலான திட்டமன்றி ஒரு சமூக நோக்கம் கொண்டது என்பதால் அதற்கு ஆதரவளிக்குமாறும் ஜனாதிபதி கோரினார்.
+
+எந்தவொரு  பிள்ளையும் 13 வருட கட்டாயக் கல்வியை எந்த காரணத்திற்காகவும்  நிறைவு செய்யாமல் பாடசாலையை விட்டும் செல்லக் கூடாது என்றும்  ஜனாதிபதி வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (24) நடைபெற்ற கல்வி சீர்திருத்தங்கள் குறித்த விவாதத்தில் பங்கேற்று உரையாற்றும் போதே  ஜனாதிபதி அநுர குமார திசாநாயக்க  இவ்வாறு தெரிவித்தார்.
+
+கல்வி சீர்திருத்தங்கள் குறித்த விவாதத்தில் பல விடயங்களை முன்வைக்க நம்புகிறேன்.இந்த கல்வி முறை, இந்த கல்வி முறையின் ஊடாக உருவாக்கப்பட்டுள்ள இளம் தலைமுறை மற்றும்  இந்த கல்வி முறை உருவாக்கிய பொருளாதாரம் குறித்தும்  நம்மில் யாரும் திருப்தி அடைய முடியாது. எனவே, எங்களுக்கு மிகவும் விரிவான கல்வி சீர்திருத்தம் அவசியம்.
+
+...
+
+[Data](articles/c89ef075.json)
+
+---
 
 ### අලි මිනිස් ගැටුම ගැන ජනපතිගේ අවධානය
 
@@ -72,7 +126,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### X-PRESS PEARL නැව් සමාගම ගැන  අගවිනිසුරුවරියගේ දැඩි තීන්දුව
+### X-PRESS PEARL ගිනිගන්නා බව කපිතාන් හා දේශීය සමාගම හාබර් මාස්ටර්ට වසන් කරලා
 
 *2025-07-24 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212602) · `si`
 
@@ -89,6 +143,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bc5c460b.json)
+
+---
+
+### Five new foreign envoys present credentials to the President
+
+*2025-07-24 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110819/five-new-foreign-envoys-present-credentials-to-the-president) · `en`
+
+Five newly appointed ambassadors and one high commissioner to Sri Lanka officially presented their credentials to President Anura Kumara Dissanayake at the Presidential Secretariat this morning (24).
+
+Notably, among the diplomats who presented their credentials was Mr. Sergey Viktorov, the newly appointed Ambassador for the Republic of Kazakhstan.
+
+This marks a significant milestone in diplomatic relations between Sri Lanka and Kazakhstan, as it is the first time an embassy for Kazakhstan has been established in Sri Lanka, the President’s Media Division (PMD) said. Kazakhstan is also the first Central Asian country to open an embassy in Sri Lanka.
+
+Additionally, new Ambassadors have been appointed for the State of Eritrea, the Republic of Uzbekistan, the Hashemite Kingdom of Jordan, and the Kingdom of Bhutan. A new High Commissioner has also been appointed for the Republic of Fiji.
+
+...
+
+[Data](articles/d72c53dd.json)
 
 ---
 
@@ -1751,77 +1823,5 @@ The Supreme Court also ordered the establishment of the MV X-Press Pearl Compens
 ◼️
 
 [Data](articles/c614cd06.json)
-
----
-
-### தமிழனின் கலை வண்ணம் (வீடி​​யோ இ​ணைப்பு)
-
-*2025-07-24 12:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழனின்-கலை-வண்ணம்-வீடி-யோ-இ-ணைப்பு/175-361676) · `ta`
-
-இலங்கையில் ராஜராஜ சோழன் காலத்து அறிவியல் இன்று வரை இயங்குகிறது  தமிழன் கல்லிலே கலை வண்ணம் கண்டான்
-
-◼️
-
-[Data](articles/d24891c7.json)
-
----
-
-### 98 பாடசாலைகளில் ஒரு மாணவனும் இல்லை: புட்டு புட்டு வைத்தார் ஜனாதிபதி
-
-*2025-07-24 12:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/98-பாடசாலைகளில்-ஒரு-மாணவனும்-இல்லை-புட்டு-புட்டு-வைத்தார்-ஜனாதிபதி/150-361675) · `ta`
-
-பாராளுமன்றத்தில் தற்போது உரையாற்றிக் கொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க பாடசாலைகளின் தற்போதைய நிலவரம் தொடர்பில் புள்ளி விபரங்களுடன் புட்டு புட்டு வைத்தார்.
-
-98 பாடசாலைகளில் ஒரு மாணவனும் இல்லை. 115 பாடசாலைகளில் 10 மாணவர்களுக்கு குறைவு, 20 மாணவர்களுக்கு குறைவான பாடசாலை 406 உள்ளன. 30 மாணவர்களுக்கு குறைவான பாடசாலை 752 உம் உள்ளன.
-
-அத்துடன், 40 மாணவர்களுக்கு குறைவான உள்ள பாடசாலைகளின் எண்ணிக்கை 1141 என்னும், 50 மாணவர்களுக்கு குறைவான பாடசாலைகளின் எண்ணிக்கை 1506 ஆகும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
-
-நாட்டின் மொத்த பாடசாலைகளின் 15 சதவீதமான பாடசாலைகளில் 50 மாணவர்களுக்கு குறைவாக உள்ளனர். 100 மாணவர்களுக்கும் குறைவான பாடசாலைகள் 3144 உள்ளன.
-
-குச்சவெளியில் 2 மாணவர்களுக்கு 2 ஆசிரியர்களும் பண்டாரவளையில் 3 மாணவர்களுக்கு 3 ஆசிரியர்களும் திருகோணமலையில் 4 மாணவர்களுக்கு 4 ஆசிரியர்களும் உள்ளனர்.
-
-சில பிரதேசங்களில் உள்ள பாடசாலைகளை முழுமையாக மூட வேண்டும். சில பாடசாலைகளை இணைக்கவேண்டும். இன்னும் சில பிரதேசங்களில் புதிதாக பாடசாலைகளை உருவாக்க வேண்டும் என்றார்.
-
-◼️
-
-[Data](articles/3fb19c3f.json)
-
----
-
-### AI உடன் காதல்: மனைவிடம் விவாகரத்து கேட்ட முதியவர்
-
-*2025-07-24 12:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-உடன்-காதல்-மனைவிடம்-விவாகரத்து-கேட்ட-முதியவர்/50-361673) · `ta`
-
-மனித வேலைகளையும் உணர்ச்சிகளையும் கூட ஆக்கிரமித்துவிடும் அளவுக்கு செயற்கை நுண்ணறிவு (AI) அதிகரித்து வருகிறதா? என்ற கேள்வி எழும்பியுள்ளது.
-
-சமீபத்தில் சீனாவில் ஒரு மூத்த குடிமகன், ஆன்லைனில் பார்த்த ஒரு பெண்ணிடம் காதல் உணர்வுகளை வளர்த்துக் கொண்ட பிறகு தனது மனைவியிடம் விவாகரத்து கேட்டார், அவர் ஒரு AI ஆக மாறினார்.
-
-75 வயதான ஜியாங் என்ற நபர், AI பேசிய பாசமான வார்த்தைகளுக்கு மயங்கி, பேச்சும் "பெண்ணின்" உதடு அசைவுகளும் ஒத்திசைக்கப்படவில்லை என்ற போதிலும், அவற்றை தீவிரமாக எடுத்துக் கொண்டார்.
-
-AI பெண் சொன்ன ஒவ்வொரு வார்த்தையையும் அவர் நம்பி, மறுபக்கத்திலிருந்து புதுப்பிப்புகளுக்காக ஆவலுடன் காத்திருந்து, தினமும் தனது தொலைபேசியை நோக்கி விரைந்தார்.
-
-◼️
-
-[Data](articles/7c6c9233.json)
-
----
-
-### Sri Lanka – Vietnam cultural ties strengthened by film expo: Speaker
-
-*2025-07-24 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-vietnam-cultural-ties-strengthened-by-film-expo-speaker-232553/) · `en`
-
-ECONOMYNEXT – A Vietnam film festival in Sri Lanka held in Colombo will deepen cultural ties and between the two Asian nations, Speaker Jagath Wickramaratne said.
-
-The films “Peach Blossom, Pho and Piano” (Đào, phở và piano), a wartime tale set in Hanoi; “Wandering Grandma” (Bà già đi bụi), a family adventure based on a grandmother who went on an adventure across the country; and “Childhood Moon” (Vầng trăng thơ ấu), a reflection on youth and memory are screened daily at 500 pm at the Lakshman Kadirgamar Institute till July 24.
-
-“These works don’t just entertain, they educate, inspire, and challenge us to see the world through different lenses,” Wickramaratne said at the launch ceremony.
-
-“This festival, made possible through the efforts of the Vietnamese Embassy in Sri Lanka, presents an invaluable opportunity for the cultural exchange that we must seize and expand.”
-
-The film festival is part of events to celebrate 55 years of diplomatic ties with Sri Lanka.
-
-...
-
-[Data](articles/bd9a2146.json)
 
 ---

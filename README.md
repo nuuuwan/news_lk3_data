@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 21:32:33**
+As of **2025-07-24 21:49:46**
 
 ## Newspaper Stats
 
-*Scraped **66,605** Articles*
+*Scraped **66,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,065
 economynextcom | 4,077
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,394
+adalk | 6,395
 adaderanalk | 8,177
 tamilmirrorlk | 9,613
 virakesarilk | 11,096
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,605 articles have been extended.
+61,973 (93.0%) of 66,606 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,22 @@ CTU செயலாளர் ஜோசப் ஸ்டாலின் கூற�
 ...
 
 [Data](articles/5304dbc7.json)
+
+---
+
+### පොලිස්පති ධුරයෙන් ඉවත් කිරීම ගැන විවාදය අගෝස්තු 05 වැනිදා
+
+*2025-07-24 18:52:47* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරයෙන්-ඉවත්-කිරීම-ගැන-විවාදය-අගෝස්තු-05-වැනිදා/11-417498) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා, 2002 අංක 5 දරන නිලධරයන් ඉවත් කිරීමේ (කාර්ය පටිපාටිය) පනතේ 17 වගන්තිය ප්‍රකාරව එම ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනා සම්මතය ලබන අගෝස්තු 5 වැනිදා විවාදයට ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.
+
+කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (24දා) පාර්ලිමේන්තුවේ පැවති මෙම රැසීමේදී අදාළ තීරණය ගෙන ඇත.
+
+එමෙන්ම ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත  දෙවනවර කියවීමේ විවාදය අගෝස්තු 6 වැනිදා පැවැත්වීමටද මෙහිදී තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/7c3975ca.json)
 
 ---
 
@@ -1807,25 +1823,5 @@ The film festival is part of events to celebrate 55 years of diplomatic ties wit
 ...
 
 [Data](articles/bd9a2146.json)
-
----
-
-### Sri Lanka – Vietnam cultural ties strengthened by film expo: Speaker
-
-*2025-07-24 12:00:00* · [`economynextcom`](https://economynext.com/vietnam-film-festival-in-sri-lanka-deepens-cultural-ties-speaker-232553/) · `en`
-
-ECONOMYNEXT – A Vietnam film festival in Sri Lanka held in Colombo will deepen cultural ties and between the two Asian nations, Speaker Jagath Wickramaratne said.
-
-The films “Peach Blossom, Pho and Piano” (Đào, phở và piano), a wartime tale set in Hanoi; “Wandering Grandma” (Bà già đi bụi), a family adventure based on a grandmother who went on an adventure across the country; and “Childhood Moon” (Vầng trăng thơ ấu), a reflection on youth and memory are screened daily at 500 pm at the Lakshman Kadirgamar Institute till July 24.
-
-“These works don’t just entertain, they educate, inspire, and challenge us to see the world through different lenses,” Wickramaratne said at the launch ceremony.
-
-“This festival, made possible through the efforts of the Vietnamese Embassy in Sri Lanka, presents an invaluable opportunity for the cultural exchange that we must seize and expand.”
-
-The film festival is part of events to celebrate 55 years of diplomatic ties with Sri Lanka.
-
-...
-
-[Data](articles/dab5a452.json)
 
 ---

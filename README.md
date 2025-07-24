@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 17:05:26**
+As of **2025-07-24 17:17:28**
 
 ## Newspaper Stats
 
-*Scraped **66,558** Articles*
+*Scraped **66,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,94 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,065
-economynextcom | 4,072
+economynextcom | 4,076
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,384
+adalk | 6,386
 adaderanalk | 8,173
 tamilmirrorlk | 9,604
 virakesarilk | 11,086
-adaderanasinhalalk | 11,429
+adaderanasinhalalk | 11,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,558 articles have been extended.
+61,973 (93.1%) of 66,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-07-24 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-232607/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 301.80/85 to the US dollar in the spot market Thursday, from 301.80/85 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.48/58 percent, down from 8.50/60 percent.
+
+A bond maturing on 15.12.2029 closed at 9.48/55 percent, from 9.50/55 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.40/50 percent. (Colombo/July24/2025)
+
+◼️
+
+[Data](articles/2a7d9dfe.json)
+
+---
+
+### Sri Lanka sells extra Rs56.93bn Treasury bills after auction
+
+*2025-07-24 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs56-93bn-treasury-bills-after-auction-232601/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 56,934 million rupees of treasury bills offered on tap at an average rates of 7.62, 7.91 and 8.03 percent, the state debt office said.
+
+On Wednesday (23) the debt office raised 19.8 billion rupees of 3, 6 and 12 month bills.
+
+◼️
+
+[Data](articles/e8f6605f.json)
+
+---
+
+### නීතිවිරෝධී පත්කිරීම් සහ අනිතීක ගෙවීම් හේතුවෙන් ජයවර්ධනපුර රෝහලට විශාල මූල්‍ය අලාභයක් - කෝප් වාර්තාවක් හෙළිකරයි
+
+*2025-07-24 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212594) · `si`
+
+මානව සම්පත් කළමනාකරණය, වත්කම් කළමනාකරණය, ආදායම් කළමනාකරණය සහ මූල්‍ය කළමනාකරණය යන සියලු අංශවලට අදාළව ශ්‍රී ජයවර්ධනපුර මහරෝග්‍යශාලා මණ්ඩලයේ සමස්ත ක්‍රියාවලියම අවිධිමත් බවත්, පසුගිය වසර පහක කාලය තුළ රෝහල අඛණ්ඩව අලාභ ඇති බවත් වාර්තා වේ.
+
+ශ්‍රී ජයවර්ධනපුර මහාරෝග්‍යශාලා මණ්ඩලය සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව මගින් සිදුකරන ලද විමර්ශන වාර්තාවෙහි මේ බව සඳහන් වේ. මෙම වාර්තාව අද (24) දිනයේ දී පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබේ.
+
+ප්‍රධාන වශයෙන් නීති විරෝධී පත්කිරීම් සහ අනීතික ගෙවීම් හේතුවෙන් විශාල මූල්‍ය අලාභයක් සිදුව ඇති බවත්, භාණ්ඩාගාරයෙන් ලැබෙන මුදල් එකී පත්වීම්ලාභීන්ට වැටුප් ගෙවීම සඳහා අවභාවිතා වන ආකාරය මෙයින් පැහැදිලි වන බවත්, විගණකාධිපති විසින් පෙන්වා දී ඇති බව අදාළ වාර්තාවේ වැඩිදුරටත් සඳහන් වේ.
+
+මේ අතර ශ්‍රී ජයවර්ධනපුර මහරෝහලේ දීමනා ගෙවීම්වල අක්‍රමිකතා සහ බඳවා ගැනීමේ පටිපාටි සම්බන්ධයෙන් අදාළ වාර්තාවේ වැඩිදුරටත් මෙසේ සඳහන්ව ඇත.
+
+...
+
+[Data](articles/b0e297b8.json)
+
+---
+
+### ඉසඩ්.ඩී. ප්‍රධාන ඇළට වැටුණු අලියා ගොඩ ගනියි
+
+*2025-07-24 16:45:00* · [`adalk`](https://www.ada.lk/picture_story/ඉසඩ්-ඩී--ප්‍රධාන-ඇළට-වැටුණු-අලියා-ගොඩ-ගනියි/10-417486) · `si`
+
+පොළොන්නරුව මාදුරුඔය ඉසඩ්.ඩී. ප්‍රධාන ඇළට 24 අලුයම පිඹුරත්තෑව ප්‍රදේශයෙන් වැටි සිටි වන අලියෙකු ජලයේ සැඩ පහරට කිලෝමීටර් 20 පමණ දුරට ගසාගෙන යෑමෙන් අනතුරුව පැය 11 ක මෙහෙයුමකින් පසු පිඹුරත්තෑව වනජීවී නිලධාරීන් විසින් අරලගංවිල මැදගම ප්‍රදේශයෙන් ගොඩට ගෙන එම අලියා වෙහෙරගම රක්ෂිතයට පලවා හැරීමට කටයුතු කළහ.
+
+බීමට ජලය සොයා පැමිණි එම වන අලියා ගොඩට ගැනීම සඳහා අරලගංවිල පොලීසිය සහ ප්‍රදේශවාසීන්ගේ ද සහාය ලැබුණු බවත්, එම අලියාගේ වයස අවුරුදු හතළිහක් පමණ වන බව පිඹුරත්තෑව සහකාර අඩවි ආරක්ෂක,එස්.ඒ වික්‍රමරත්න මහතා අප කළ විමසීමකදී පැවසීය.
+
+මාදුරුඔය ජාතික වනෝද්‍යානයේ සිට බීමට ජලය සොයා පැමිණීමේදී එම අලියා ඉසඩ්.ඩී ප්‍රධාන ඇළට  වැටී ඇති බවට සැක කරන බවද ඒ මහතා කීය.
+
+ඉසැඩ්.ඩී ඇළට වැටුණු වන අලියා කොන්ක්‍රීට් බෝක්කු අතරින් අවස්ථා කිහිපයකදීම වැටුණු ඇති අතර ගොඩගත් එම අලියාගේ ශරීරයේ වෙඩි වැදුනු  දකුණු කීපයක් දක්නට තිබුණු බවද වනජීවී නිලධාරීන් සඳහන් කළහ.
+
+...
+
+[Data](articles/83281279.json)
+
+---
 
 ### வட்டவன் பகுதி விவகாரம்: கடுமையான எதிர்ப்பால்    தீர்மானிப்பது இடைநிறுத்தம்
 
@@ -54,7 +124,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212593) · `si`
 
-මුලතිව් දිස්ත්‍රික්කයේ පනිකන්කුලම් ප්‍රදේශයේ පිහිටි ළිඳකින් මවකගේ සහ දරුවන් දෙදෙනෙකුගේ මළ සිරුරු හමු වී තිබේ.
+මුලතිව්, මාන්කුලම්-පනිකන්කුලම් ප්‍රදේශයේ පිහිටි ළිඳකින් මවකගේ සහ දරුවන් දෙදෙනෙකුගේ මළ සිරුරු හමු වී තිබේ.
 
 ඔවුන් ජීවත් වූ නිවසේ සිට මීටර් 500ක් පමණ දුරින් පිහිටි ළිඳකින් මෙසේ එම මළ සිරුරු සොයා ගෙන ඇත.
 
@@ -64,7 +134,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 එහිදී ග්‍රාම නිලධාරිවරයා සහ පොලිසිය පැමිණ සිදු කළ විමර්ශනවලදී මෙම මළ සිරුරු සොයා ගෙන ඇත.
 
-ඔවුන් සියදිවි නසා ගත්තාද නැතිනම් සිදු වූයේ කුමක්ද යන්න පිළිබඳව මංගුලම් පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+ඔවුන් සියදිවි නසා ගත්තාද නැතිනම් සිදු වූයේ කුමක්ද යන්න පිළිබඳව මාන්කුලම් පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
 
 ◼️
 
@@ -133,6 +203,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8a04f481.json)
+
+---
+
+### Sri Lanka stocks close up in anticipation of good earnings season
+
+*2025-07-24 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-in-anticipation-of-good-earnings-season-232594/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange closed up on Thursday, in anticipation of strong results ahead of earnings season, brokers said.
+
+“There’s market reaction on counters releasing results,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI was up 0.71%, or 136.16 points, at 19,379.24, while the S&P SL20 was up 0.81%, or 45.82 points, at 5,735.44.
+
+“The market is quite active, with renewed interest in banks, and index-heavy John Keells in particular.”
+
+There is significant interest in John Keells ahead of its casino opening on August 2, he said.
+
+Commercial Bank closed up 1.50 rupees at 170.75; Sampath Bank closed up 50 cents at 141.00 rupees; HNB closed up 2.50 rupees at 361.50; while DFCC Bank bucked the trend to close down 25 cents at 139.00 rupees.
+
+There was also increased interest in Overseas Realty (closed up 2.40 rupees at 35.90) during the day, which released results the previous day. (Colombo/Jul24/2025)
+
+◼️
+
+[Data](articles/61cc2436.json)
 
 ---
 
@@ -215,6 +309,24 @@ The Thai Public Health Ministry said at least 11 civilians had been killed, most
 ...
 
 [Data](articles/eecd5f94.json)
+
+---
+
+### Capital market content to be included in Sri Lanka’s proposed education reforms
+
+*2025-07-24 15:38:00* · [`economynextcom`](https://economynext.com/capital-market-content-to-be-included-in-sri-lankas-proposed-education-reforms-232586/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s financial market and education sector officials have discussed including capital market content into the proposed financial literacy curriculum under its new education reforms, the Securities and Exchange Commission said.
+
+Financial literacy is one of 16 core skills essential for students in the 21st century, and comprises knowledge, attitudes, and behaviours necessary for making informed financial decisions, SEC Chairman Hareendra Dissabandara said.
+
+“Financial literacy is not only an essential life competency,” he said, “but also a national solution that can address economic crises and reduce structural imbalances. Unfortunately, it is still largely confined to those who have studied Commerce subjects, when in fact it should be accessible to all.”
+
+A financial literacy seminar was held at the Ministry of Education for stakeholders involved in ongoing education sector reforms to contribute to the integration of financial literacy into the school curriculum.
+
+...
+
+[Data](articles/462d176b.json)
 
 ---
 
@@ -681,6 +793,22 @@ The implementation of the JDS program has been successfully completed under four
 ...
 
 [Data](articles/11304c16.json)
+
+---
+
+### කෙසෙල් මිල පහළට, කිලෝ 1000ක් දිනකට විනාශයි
+
+*2025-07-24 12:40:26* · [`adalk`](https://www.ada.lk/uncategorized/කෙසෙල්-මිල-පහළට--කිලෝ-1000ක්-දිනකට-විනාශයි/1-417484) · `si`
+
+තඹුත්තේගම ආර්ථික මධ්‍යස්ථානයේ කෙසෙල් මිල යළිත් දැඩි ලෙස පහත වැටී ඇති බව ගොවීහු පවසති. රාජාංගනය, ගල්නෑව, තලාව, එප්පාවල, තඹුත්තේගම, බුල්නෑව ආදි ප්‍රදේශ ආශ්‍රිත කෙසෙල් අස්වනු ආර්ථික මධ්‍යස්ථානය වෙත ගෙන එන කෙසෙල් සදහා නිසි මිළක් නොලැඹෙන බව ගොවීහු පවසති. වැඩි කෙසෙල් අස්වැන්නක් වෙළෙද පොළට පැමිණීමත්, වෙළෙදුන්ගේ පැමිණීම සීමාසහිත වීමත්  කෙසෙල් මිල පහත වැටීමට හේතුවී ඇති බව ව්‍යාපාරිකයෝ පෙන්වා දෙති.
+
+මේ හේතුවෙන් දෛනිකව කෙසෙල් කිලෝ 800 ත් 1000 ත් අතර ප්‍රමාණයක් දෛනිකව ඉදි, කුණුවී ඉවත දැමෙන බව ආර්ථික මධ්‍යස්ථානයේ වෙළෙද සංගමයේ සභාපති සුනිල් සෙනෙවිරත්න මහතා පැවසීය. මෙම මිල පහත වැටීම හේතුවෙන් කලාපයේ කෙසෙල් ගොවීහු දැඩි අසරණභාවයට පත්ව ඇතැයි ගොවි සංවිධාන නියෝජිතයෝ පවසති.
+
+මෙම පසුබිම තුළ ඇඹුල් කෙසෙල් කිලෝවක තොග මිල රුපියල් 30 ත් 35 ත් අතර මිළකට පහත වැටී ඇති බවත්, සීනි කෙසෙල් කිලෝවක් රුපියල් 50 ත් 55 ත් අතර මිළකට සහ අලු කෙසෙල් කිලෝවක් රුපියල් 45 ත් 55 ත් අතර මිලකට අළෙවි වන බවත් ව්‍යාපාරිකයෝ පවසති.  එමෙන්ම කැවන්ඩිස් කෙසෙල් කිලෝවක තොග  මිලද රුපියල් 65 ක් දක්වා පහත වැටී ඇති බවද ඔවුහු පවසති.
+
+...
+
+[Data](articles/32eb81fe.json)
 
 ---
 
@@ -1715,139 +1843,5 @@ A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent. (Colombo/July
 ◼️
 
 [Data](articles/5a23f435.json)
-
----
-
-### Sri Lanka can come up with new instruments, no need to sell CB-held bonds now: Governor
-
-*2025-07-24 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-come-up-with-new-instruments-no-need-to-sell-cb-held-bonds-now-governor-232523/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank saw no need to sell down its bond portfolio at the moment and if required new instruments could be used for monetary policy, Central Bank Governor Nandalal Weerasinghe said.
-
-Governor Weerasinghe had previously said it will “explore ways to gradually phase out its holding of restructured bonds, a legacy of the Central Bank’s financial support to the Government during the crisis.”
-
-“I don’t think there’s a need now,” Governor Weerasinghe said.
-
-“This is all for open market operations. If we have an instrument, we can use it. If not, we have to come up with an instrument for open market operations.”
-
-At one time the central bank used its own central bank securities to mop up liquidity and build reserves but they were abandoned.
-
-Around 2014 after running out Treasury bills, the central bank used dollar rupee swap and also borrowed securities from the Employees Provident Fund to sell and mop up liquidity.
-
-...
-
-[Data](articles/0576bdd1.json)
-
----
-
-### රඹුටන් ගස් ආශ්‍රිතව සිදුවන අනතුරුවල ඉහළ යාමක්
-
-*2025-07-24 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212572) · `si`
-
-පසුගිය වසරවලට සාපේක්ෂව මේ වසර තුළ රඹුටන් ගස් ආශ්‍රිතව සිදුවන අනතුරුවල ඉහළ යාමක් දක්නට ලැබෙන බව සෞඛ්‍ය අංශ පවසයි.
-
-රඹුටන් ඵලදාව සතුන්ගෙන් ආරක්ෂා කරගැනීම සඳහා ඇතැම් පුද්ගලයින් විසින් එම ගස්වලට විදුලි රැහැන් ඇදීම හේතුවෙන් මෙම අනතුරු සිදුවන බව කොළඹ ජාතික රෝහලේ හදිසි අනතුරු අංශයේ විශේෂඥ ශල්‍ය වෛද්‍ය විරාජ් රෝහණ අබේකෝන් මහතා සඳහන් කළේය.
-
-ඒ අනුව කොළඹ ජාතික රෝහලේ හදිසි අනතුරු අංශයේ මේ වන විට පුද්ගලයින් කිහිපදෙනෙකු ප්‍රතිකාර ලබන බව විශේෂඥ ශල්‍ය වෛද්‍ය විරාජ් රෝහණ අබේකෝන් මහතා පවසයි.
-
-මේ අතර කුඩා ළමුන්ට රඹුටන් ආහාරයට ලබාදීමේ දී ඒ සම්බන්ධයෙන් දෙමව්පියන් වැඩි සැලකිල්ලක් දැක්විය යුතු බව ද ඒ මහතා වැඩිදුරටත් අවදාරණය කළේය.
-
-◼️
-
-[Data](articles/08a8eadf.json)
-
----
-
-### Australia to lift import ban on US beef after Trump tariffs tiff
-
-*2025-07-24 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110797/australia-to-lift-import-ban-on-us-beef-after-trump-tariffs-tiff) · `en`
-
-Australia will lift restrictions on the import of beef from the US, a trade barrier which had angered the Trump administration.
-
-American beef has effectively been banned from the country - which has some of the strictest biosecurity laws in the world - since 2003 after an outbreak of bovine spongiform encephalopathy, commonly known as mad cow disease.
-
-The White House cited the restrictions when explaining tariffs imposed on Australia in April, as part of US President Donald Trump’s so-called Liberation Day scheme.
-
-The Australian government has denied the timing of the decision was related to the trade tiff, saying a decade-long department review found the US had improved beef safety measures.
-
-Canberra technically lifted the ban on US beef in 2019, but cattle from Mexico and Canada remained on the blacklist, and the integration of their supply chains meant this essentially barred beef from the States too.
-
-...
-
-[Data](articles/2ac7f4dc.json)
-
----
-
-### கறுப்பு ஜூலை இலங்கையின் வரலாற்றில் ஒரு சோகமான அத்தியாயம் - கனடா பிரதமர் மார்க் கார்னி
-
-*2025-07-24 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220776) · `ta`
-
-கறுப்பு ஜூலை இலங்கையின் வரலாற்றில் ஒரு சோகமாக அத்தியாயமாகவே உள்ளது என கனடாவின் பிரதமர் மார்க் கார்னி தெரிவித்துள்ளார்.
-
-கறுப்புஜூலையை குறிக்கும் விதத்தில் வெளியிட்டுள்ள அறிக்கையில் இதனை குறிப்பிட்டுள்ள அவர் மேலும் தெரிவித்துள்ளதாவது
-
-நாற்பத்திரண்டு ஆண்டுகளுக்கு முன்பு இலங்கையில் தமிழர்களுக்கு எதிரான ஒரு இனப்படுகொலை வெடித்தது ஆயிரக்கணக்கானோர் கொல்லப்பட்டனர்இ குடும்பங்கள் உடைந்தன எண்ணற்றோர் வெளியேற வேண்டிய கட்டாயம் ஏற்பட்டது. இலங்கை வரலாற்றில் கருப்பு ஜூலை ஒரு சோகமான அத்தியாயமாகவே உள்ளது.
-
-தமிழ்-கனடியர்களின் ஆதரவால் உந்தப்பட்டு 1983 ஆம் ஆண்டு துன்புறுத்தலில் இருந்து தப்பி ஓடும் 1800க்கும் மேற்பட்ட தமிழர்களை வரவேற்க கனடா ஒரு சிறப்பு நடவடிக்கை திட்டத்தை செயல்படுத்தியது மேலும் 2022 ஆம் ஆண்டில் கனடா நாடாளுமன்றம் மே 18 ஆம் தேதியை தமிழ் இனப்படுகொலை நினைவு தினமாக ஒருமனதாக அறிவித்தது - இது உண்மைஇ நீதி மற்றும் பொறுப்புக்கூறலுக்கான நீடித்த அர்ப்பணிப்பாகும்.
-
-...
-
-[Data](articles/a7e85729.json)
-
----
-
-### අපවත් වී වදාළ අස්ගිරි අනුනායක හිමිගේ අදාහන පුජෝත්සවය අද
-
-*2025-07-24 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212571) · `si`
-
-අපවත් වී වදාළ අස්ගිරි මහ විහාර පාර්ශවයේ අනුනායක අති පුජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ දේහය පිළිබඳ අවසන් කටයුතු අද (24) දින සිදුකිරීමට නියමිතව තිබේ.
-
-මහනුවර අස්ගිරි පොලිස් ක්‍රීඩාංගණයේ දී අද පස්වරුවේ පූර්ණ රාජ්‍ය අනුග්‍රහය සහිතව එම කටයුතු සිදුකිරීමට නියමිතය.
-
-මහනුවර පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී පසුගිය 21 වන දින පුජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමියන් අපවත් විය.
-
-අපවත් වී වදාළ අති පුජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමිගේ දේහය මේ වන විට මහජන ගෞරවය සඳහා අස්ගිරි මහා විහාරයේ අතිපුජ්‍ය උඩුගම ශ්‍රී බුද්ධරක්ඛිත මහනාහිමි අනුස්මරණ ශාලාවේ තැන්පත් කර තිබේ.
-
-◼️
-
-[Data](articles/15d83c99.json)
-
----
-
-### කොළඹ ජාතික රෝහලේ වංචාවක් ගැන පැමිණිල්ලක්
-
-*2025-07-24 08:20:36* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ජාතික-රෝහලේ-වංචාවක්-ගැන-පැමිණිල්ලක්/11-417477) · `si`
-
-කොළඹ ජාතික රෝහලට පසුගිය වසර තුනක කාලයක් තුළදි ප්‍රතික්‍රියක මිලදීගැනිමේදි සිදුව තිබෙන වංචනික ක්‍රියා පිලිබදව ඊයේ (23) අපරාධ පරික්ෂණ දෙපාර්තමෙන්තුව පැමිණිලි කළ බව.වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තිය සමිතිය සදහන් කරයි
-
-මෙම කාලය තුළදි  වෛද්‍ය සැපයුම් ඒකකයේ අනුමැතියෙන් තොරව ප්‍රාදේශීය මිලදී ගැනීම් ලෙස රුපියල් මිලියන 2500 කට අධික ප්‍රතික්‍රියක මිලදීගෙන තිබෙන බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සදහන් කළේය.
-
-2020 වසරේ සිට 2022 වසර දක්වාත් පසුගිය වසරේ ඹක්තොම්බර් මාසයේ සිට මේ වසරේ අප්‍රෙල් මාසය දක්වාත් කාලය තුළදි අදාළ මිලදි ගැනිම් සිදුකර තිබෙන බවද පැවසිය.
-
-මේ ආකාරයට මිලදිගත්  ප්‍රතික්‍රියකවලින් යම් කොටසක් කල් ඉකුත් වි තිබියදි මිලදි ගෙන තිබෙන බවත් තවමත් කොටසක කල් ඉකුත් විමට මාසයකට ආසන්න කාලයක් තිබියදි මිළදී ගෙන තිබෙන බවට හෙලි වි තිබෙන බවද  ස‍ඳ‍න් කළේය.
-
-මේ පිළිබදව පරික්ෂා කර බලා අවශ්‍ය ක්‍රියා මාර්ග ගන්නා ලෙස අපරාධ පරික්ෂණ දෙපාර්තමෙන්තුවෙන් ඉල්ලා සිටි  බවද පැවසිය.
-
-◼️
-
-[Data](articles/68f13b14.json)
-
----
-
-### ශිෂ්‍යත්වය අහෝසි කරන්න පාසල් අතර විෂමතාව නැති කළ යුතුයි
-
-*2025-07-24 08:16:05* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-අහෝසි-කරන්න-පාසල්-අතර-විෂමතාව-නැති-කළ-යුතුයි/11-417476) · `si`
-
-පහේ ශිෂ්‍යත්වය අහෝසි  කිරිමට තවමත් තීරණයක් ගෙන නොමැති බවත් එහෙත් නව අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ පීඩාකාරී අධ්‍යාපන ක්‍රමයේ බර අඩු කිරිමට බලාපොරොත්තුවන බව අධ්‍යාපන උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සදහන් කළාය.
-
-ශිෂ්‍යත්වය අහෝසිකිරිමට නම්  නම් පාසල් අතර තියෙන විෂමතාවය නැති කළ යුතු බවත් එය එකවර කිරිමට හැකි දෙයක් නොවන බවද පවසා සිටියාය.
-
-2026 වර්ෂයේ සිට ක්‍රියාත්මක කිරීමට නියමිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ ජුලි 23 දින බත්තරමුල්ල ඉසුරුපාය, අධ්‍යාපන අමාත්‍යංශයේ දී පැවැති මාධ්‍යවේදීන් දැනුවත් කිරීමේ සාකච්ඡාවට සහභාගීවෙමින් අග්‍රාමාත්‍යවරිය මේ බව පැවසුවාය.
-
-"විභාගය සමත් අසමත් බව මත අපි අධ්‍යාපනය මනින්න පුරුදු වෙලා තියෙනවා. ඒ ක්‍රමය  වෙනස් කරන්න තමයි අපි මේ මොඩියුල ක්‍රමය හඳුන්වා දීලා තියෙන්නේ. ඒ ක්‍රමය තුළින් දරුවාට ගුණාත්මක අධ්‍යාපනයක් ලබා දීමයි අපේ අරමුණයි.
-
-...
-
-[Data](articles/68afd29e.json)
 
 ---

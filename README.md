@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 13:31:38**
+As of **2025-07-24 13:50:28**
 
 ## Newspaper Stats
 
-*Scraped **66,523** Articles*
+*Scraped **66,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,382
 adaderanalk | 8,167
 tamilmirrorlk | 9,596
 virakesarilk | 11,080
-adaderanasinhalalk | 11,421
+adaderanasinhalalk | 11,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,523 articles have been extended.
+61,973 (93.2%) of 66,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### ඉන්දීය - එංගලන්ත ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අදයි
+
+*2025-07-24 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212586) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන සිව්වන ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අදයි.
+
+ඊයේ (23) දින තරගය නතර කරන විට සිය පළමු ඉනිම සදහා පන්දුවට පහර දෙමින් සිටින ඉන්දීය කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 264ක් ලබා සිටියාය.
+
+එම ඉනිම වෙනුවෙන් සායී සුදර්ශන් ලකුණු 61ක් සහ යෂස්වී ජයිස්වාල් ලකුණු 58ක් ලබා ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/45c247ad.json)
+
+---
+
+### තවත් ගුවන් අනතුරක්
+
+*2025-07-24 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212585) · `si`
+
+රේඩාර් පද්ධතියෙන් අතුරුදහන්ව තිබුණු රුසියානු මගී ගුවන් යානයක සුන්බුන්, චීන - රුසියා දේශසීමාව අසල දී සොයා ගැනීමට හැකිව ඇති බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+මගීන් 49 දෙනෙකු සමඟ අතුරුදහන් වූ මෙම An-24 රුසියානු මගී ගුවන් යානය සයිබීරියාව පදනම් කරගත් Angara ගුවන් සේවයට අයත් වූවකි.
+
+මේ සම්බන්ධයෙන් රුසියාවේ රාජ්‍ය ප්‍රවෘත්ති ඒජන්සියක් වන RIA Novosti වාර්තා පළකරමින් කියා සිටින්නේ, යානයේ ගමනාන්තයට කි.මී. 15ක පමණ දුරින් පිහිටි කඳුකර ප්‍රදේශයක දී යානයේ සුන්බුන් සොයාගැනීමට හැකිවී ඇති බවයි.
+
+කෙසේවෙතත් මෙම ගුවන් අනතුරින් දිවි බේරාගත් කිසිවකු හෝ පිළිබඳ තොරතුරක් මෙතෙක් අනාවරණය වී නොමැති බව එම පුවත් සේවය වැඩිදුරටත් සඳහන් කරයි.
+
+රුසියාවේ Tynda වෙත ගමන්ගන්නා අතරතුර දී නැගෙනහිර රුසියාවේ Amur කලාපයේ දී රේඩාර් පද්ධතියෙන් මෙම යානය අතුරුදහන්ව තිබුණි.
+
+◼️
+
+[Data](articles/b7bb6fbf.json)
+
+---
 
 ### எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்து ; 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடா வழங்குமாறு உயர் நீதிமன்றம் உத்தரவு
 
@@ -562,13 +598,15 @@ Accordingly, President Dissanayake is scheduled to express his views on the prop
 
 *2025-07-24 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212579) · `si`
 
-තායිලන්තය සහ කාම්බෝජ හමුදා අතර ඔවුන්ගේ දේශසීමාවේ මතභේදාත්මක කොටසක ගැටුම් ඇති කරගෙන තිබේ.
+මතභේදාත්මක දේශසීමා ප්‍රදේශයක දී තායිලන්ත හමුදාව හා කාම්බෝජ හමුදාව අතර ගැටුම් හටගෙන තිබේ.
 
-අද (24) උදෑසන සිට හටගත් මෙම ගැටුම් තවමත් පවතින අතර එයින් තායිලන්තයේ සිවිල් වැසියන් දෙදෙනෙකු මියගොස් ඇති අතර, තායි සොල්දාදුවන් දෙදෙනෙකු තුවාල ලබා ඇති බව සඳහන් වේ.
+අද (24) අලුයම දෙපාර්ශවය අතර වෙඩි හුවමාරුවක් සිදුව ඇති අතර පළමුව ප්‍රහාර ආරම්භ කර ගැටුමක් ඇති කිරීම පිළිබද ඔවුනොවුන්ට චෝදනා එල්ල කරගනිමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
 
-මෙ අතර පළමුවෙන් වෙඩි තැබීම් සිදුකළේ කවුරුන්ද යන්න සම්බන්ධයෙන් එකිනෙකාට චෝදනා කරගනිමින් සිටින බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+ප්‍රහාර වලින් තායිලන්ත සිවිල් වැසියන් දෙදෙනෙකු මියගොස් ඇති අතර තායිලන්ත හමුදා සාමාජිකයින් දෙදෙනෙකු තුවාල ලබා ඇති බව සඳහන් වේ.
 
-කෙසේ වෙතත්, තායි හමුදා පළමු වෙඩි තැබීමෙන් පසු තම සොල්දාදුවන් ආත්මාරක්ෂාව සඳහා ප්‍රතිචාර දක්වන බව කාම්බෝජයේ ආරක්ෂක අමාත්‍යාංශය පැවසීය.
+නැගෙනහිර තායිලන්තයේ තා මෝන්තොම් නම් ආගමික ස්ථානය ආශ්‍රිත දේශ සීමාවේ මෙම ගැටුම් හටගෙන ඇත.
+
+මෙම උද්ගත වු තත්වයත් සමග අදාළ ප්‍රදේශය ආශ්‍රිත ගම්මාන 26ක පදිංචිකරුවන් 40,000ක පමණ පිරිසක් එම ස්ථාන වලින් ඉවත් කර ආරක්ෂිත ස්ථාන කරා යොමු කිරීමට ද තායිලන්ත බලධාරීන් කටයුතු කර ඇති බව විදෙස් මාධ්‍ය මගින් අනාවරණය වේ.
 
 ◼️
 
@@ -1761,43 +1799,5 @@ Irish Member of Parliament Thomas Gould said in the Irish parliament that Netany
 ...
 
 [Data](articles/7ff9fde8.json)
-
----
-
-### இங்கிலாந்துடனான 4ஆவது டெஸ்டில் பான்ட் உபாதைக்குள்ளாகி ஓய்வுபெற்றார்; இத்தியா 264 - 4 விக்.
-
-*2025-07-24 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220765) · `ta`
-
-மென்செஸ்டர், ஓல்ட் ட்ரஃபர்ட் விளையாட்டரங்கில் புதன்கிழமை (23) ஆரம்பமான நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் இந்தியா முதலில் துடுப்பெடுத்தாடியபோது ரிஷாப் பான்ட் உபாதைக்குள்ளானதால் தற்காலிக ஓய்வு பெற்றார்.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இந்தியா முதலாம் நாளான புதன்கிழமை ஆட்டநேர முடிவில் 4 விக்கெட்களை   இழந்து 264 ஓட்டங்களைப் பெற்றிருந்தது.
-
-மந்த கதியில் ஓட்டங்கள் பெறப்பட்ட முதலாம் நாளன்று எந்த அணியினாலும் ஆதிக்கம் செலுத்த முடியாமல் போனது.
-
-யஷஸ்வி ஜய்ஸ்வால், சாய் சுதர்சன் ஆகிய இருவரும் அரைச் சதங்கள் குவிக்க இந்தியா ஓரளவு சிறப்பான நிலையை அடைந்தது.
-
-எனினும் ரிஷாப் பான்ட் கடும் காயத்திற்குள்ளானதால் அவரை இந்தியா முழுப் போட்டியிலும் இழக்க நேரிடுமோ என அஞ்சப்படுகிறது.
-
-திறமையாகத் துடுப்பெடுத்தாடிக்கொண்டிருந்த  ரிஷாப் பான்ட் 37 ஓட்டங்களைப் பெற்றிருந்தபோது கிறிஸ் வோக்ஸின் வேகப்பந்தை ரிவர் ஸ்வீப் முறையில் அடிக்க முயற்சித்தபோது பந்து அவரது துடுப்பை உராய்தவாறு அவரது வலது பாதத்தைப் பதம்பார்த்தது.
-
-...
-
-[Data](articles/5c0ef28c.json)
-
----
-
-### Black July 1983: Remembering the past to secure the future
-
-*2025-07-24 00:54:59* · [`dailyftlk`](https://www.ft.lk/opinion/Black-July-1983-Remembering-the-past-to-secure-the-future/14-779385) · `en`
-
-As the decades pass, fewer and fewer citizens have knowledge of what took place in July 1983
-
-Forty-two years after the violence of Black July, Sri Lanka continues to live in the shadow of unacknowledged violence that shattered the lives of thousands of Tamil families. Homes were burned, livelihoods destroyed, and innocent lives lost. Starting from Colombo, the riots and violence spread countrywide. Hundreds of innocent people were killed. Tens of thousands displaced. But there has still been no full accounting, no official truth, no justice, and no assurance that it will not happen again.
-
-The National Peace Council (NPC) marks this anniversary not only to mourn the victims, but to affirm that there can be no lasting reconciliation without first confronting the past and finding a political solution that addresses the roots of the problem.
-
-...
-
-[Data](articles/1a9f0071.json)
 
 ---

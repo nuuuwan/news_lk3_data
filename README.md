@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 22:22:48**
+As of **2025-07-24 22:35:55**
 
 ## Newspaper Stats
 
-*Scraped **66,611** Articles*
+*Scraped **66,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,395
 adaderanalk | 8,179
-tamilmirrorlk | 9,613
+tamilmirrorlk | 9,615
 virakesarilk | 11,099
-adaderanasinhalalk | 11,438
+adaderanasinhalalk | 11,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,611 articles have been extended.
+61,973 (93.0%) of 66,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### ජනප්‍රිය රෙස්ලිං ක්‍රීඩක හල්ක් හෝගන් දිවි ගමනට සමුදෙයි
+
+*2025-07-24 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212604) · `si`
+
+ජනප්‍රිය රෙස්ලිං ක්‍රීඩක හල්ක් හෝගන් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/9e4cfd14.json)
+
+---
+
+### பொத்துவில் பகுதியில் துப்பாக்கியுடன் ஒருவர் கைது
+
+*2025-07-24 22:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பொத்துவில்-பகுதியில்-துப்பாக்கியுடன்-ஒருவர்-கைது/73-361720) · `ta`
+
+பொத்துவில் பொலிஸ் பிரிவிற்குட்பட்ட ஒருகமலே பகுதியில் உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+விசேட அதிரடிப்படை அதிகாரிகள் குழுவொன்று இன்று (24) அப்பகுதியில் சோதனை நடவடிக்கையை மேற்கொண்ட போது, உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும் இரண்டு வெற்று குண்டுகளுடன் சந்தேக நபரை அதிகாரிகள் கைது செய்து, பொத்துவில் பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+
+கைதான சந்தேக நபர், பொத்துவில் 05 பகுதியைச் சேர்ந்த 40 வயது மதிக்கத்தக்கவர் என தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/2924455f.json)
+
+---
+
+### கடும் மழை, காற்று குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+
+*2025-07-24 21:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-மழை-காற்று-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-361719) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதேபோல், வடமேல் மாகாணத்தில் பல தடவைகள் மழை பெய்யக்கூடும் என அத்திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, மத்திய மாகாணங்களிலும், புத்தளம், திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் மணிக்கு (55-60) கி.மீ வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+இதற்கிடையில், பலத்த காற்றினால் ஏற்படக்கூடிய ஆபத்துகளைக் குறைக்க தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களுக்கு அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/487bae64.json)
+
+---
 
 ### காட்டு யானைகளின் உயிர்களைப் பாதுகாக்கவும், கிராமிய மக்களின் அன்றாட வாழ்க்கையைப் பாதுகாக்கவும் ஜனாதிபதியின் கவனம்
 
@@ -1775,65 +1821,5 @@ According to preliminary data, there were 43 passengers, including five children
 ...
 
 [Data](articles/cef2f8c3.json)
-
----
-
-### “வாயை மூடச் சொன்னதுக்கு மன்னியுங்கள்”
-
-*2025-07-24 12:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாயை-மூடச்-சொன்னதுக்கு-மன்னியுங்கள்/175-361677) · `ta`
-
-புதன்கிழமை (23)  சபாநாயகர் ஜகத் விக்ரமரத்னவை வாயை மூடச் சொன்னதற்காக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ரோகிணி கவிரத்ன, வியாழக்கிழமை (24)    மன்னிப்பு கேட்டார்.
-
-"சபாநாயகர் அந்த நேரத்தில் நடந்து கொண்ட விதம் காரணமாக நான் ஆக்ரோஷமான வார்த்தைகளைப் பயன்படுத்த வேண்டிய கட்டாயம் ஏற்பட்டது. எனது ஒழுக்கம் எங்கே என்று சபாநாயகர் கேள்வி எழுப்பினார், மேலும் எனது மன்னிப்பு அந்தக் கேள்விக்கான பதில்" என்று  கவிரத்ன கூறினார்.
-
-மேலும், சபைத் தலைவர் பிமல் ரத்நாயக்க தனது சிறப்புரிமைகளை மீறியதாக பாராளுமன்ற உறுப்பினர் கூறினார்.
-
-"நான் ஒரு கொலைகாரனின் மகள் என்று சபைத் தலைவர் கூறினார். என் தந்தை யாரையும் கொல்லவில்லை, ஆனால் மாத்தளை மாவட்ட மக்களுக்கு உயிர் கொடுத்தார்," என்று அவர் மேலும் கூறினார்.
-
-இருப்பினும், 1989 ஆம் ஆண்டு ஐக்கிய தேசியக் கட்சி அரசாங்கத்தின் போது பல சித்திரவதை அறைகள் இருந்ததை அவர் ஏற்றுக்கொண்டார்.
-
-◼️
-
-[Data](articles/110ddafd.json)
-
----
-
-### එක්ස්ප්‍රස් පර්ල් නඩුවේ තීන්දුව දෙයි - වන්දිය අ. ඩො. බිලියන 1ක්
-
-*2025-07-24 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212582) · `si`
-
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනිගැනීමේ සිද්ධියෙන් ඇතිවූ පාරිසරික මෙන්ම ආර්ථික හානිය වෙනුවෙන් අමෙරිකානු ඩොලර් බිලියන 1ක වන්දියක් මෙරටට ගෙවන ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් අදාළ නෞකා සමාගමට නියම කර තිබේ.
-
-එම වන්දි මුදල් භාණ්ඩාගාර ලේකම්වරයාට ගෙවිය යුතු බවට තීන්දුවේ සඳහන් ය.
-
-ඊට අමතරව මෙම ඛේදවාචකය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් එවක විෂයභාර අමාත්‍ය නාලක ගොඩහේවා, සමුද්‍ර දූෂණ වැළැක්වීමේ අධිකාරිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර තිබෙන බවත් ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර ඇත.
-
-අදාළ ඛේදවාචකය තුළින් සිදුවූ හානිය වෙනුවෙන් කාදිනල් අතිඋතුම් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශ්ව කිහිපයක් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම්වල තීන්දුව ලබාදෙමින් අගවිනිසුරු මුර්දු ප්‍රනාන්දු ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ලබා දී තිබේ.
-
-◼️
-
-[Data](articles/f5856081.json)
-
----
-
-### X-Press Pearl Disaster: SC orders shipping company to pay US$1 bln in compensation
-
-*2025-07-24 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110807/x-press-pearl-disaster-sc-orders-shipping-company-to-pay-us1-bln-in-compensation-) · `en`
-
-The Supreme Court of Sri Lanka today (24) ordered a shipping company to pay US$1 billion in compensation for the environmental and economic damage caused due to the fire onboard the X-Press Pearl vessel, Ada Derana reporter said.
-
-The X-Press Pearl container vessel caught fire and sank off the coast of Colombo in 2021.
-
-The incident is considered one of the worst environmental disasters in the country’s history.
-
-According to the Supreme Court’s judgment, the compensation is to be paid to the Secretary to the Treasury.
-
-The Supreme Court ruling states that the respondent should within one year from the date of the judgment, must make an initial payment of USD 1 billion and it can be paid in installments.
-
-The Supreme Court also ordered the establishment of the MV X-Press Pearl Compensation Commission which will be chaired by retired Supreme Court Justice E.A.G.R. Amarasekera.
-
-...
-
-[Data](articles/8009b46d.json)
 
 ---

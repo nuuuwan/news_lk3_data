@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 06:10:30**
+As of **2025-07-24 06:36:46**
 
 ## Newspaper Stats
 
-*Scraped **66,436** Articles*
+*Scraped **66,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 economynextcom | 4,060
-islandlk | 4,062
+islandlk | 4,064
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,374
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,436 articles have been extended.
+61,973 (93.3%) of 66,438 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -593,6 +593,20 @@ With attractive new connection charges and enhanced data allocations, these plan
 ...
 
 [Data](articles/5a67a7e4.json)
+
+---
+
+### Experts discuss sustainability-linked opportunities and challenges for Sri Lanka’s textile and apparel sector
+
+*2025-07-23 22:22:00* · [`islandlk`](http://island.lk/experts-discuss-sustainability-linked-opportunities-and-challenges-for-sri-lankas-textile-and-apparel-sector/) · `en`
+
+A Capacity Building Workshop on Sustainability Impact Measurement and Reporting for Sri Lanka’s Textile and Apparel Sector was jointly organized recently by the Global Reporting Initiative (GRI), Sustainable Development Council, Joint Apparel Association Forum (JAAF) and the Export Development Board.
+
+A key highlight of the Workshop was the Roundtable Discussion on ‘Aligning Business, Policy, and Investment Priorities for Sustainable Growth” that brought together representatives from the textile and apparel industry as well as business support organizations to share insights on important aspects relating to sustainable businesses such as role of standards, sectoral priorities, business and policy alignment and investment and incentivization.
+
+...
+
+[Data](articles/648f1837.json)
 
 ---
 
@@ -1793,21 +1807,5 @@ Fitch Rates Commercial Bank of Ceylon’s Basel III Subordinated Green Bond Fina
 ...
 
 [Data](articles/33b6d8f1.json)
-
----
-
-### சுவிட்ச் பரிசோதனையை நிறைவு செய்தது ஏர் இந்தியா
-
-*2025-07-23 14:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவிட்ச்-பரிசோதனையை-நிறைவு-செய்தது-ஏர்-இந்தியா/175-361611) · `ta`
-
-குஜ​ராத் மாநிலம் அகம​தா​பாத்​தில் ஜூலை 12ஆம் திகதியன்று ஏர் இந்​தியா விமானம் விபத்​துக்​குள்​ளானது. அதில் எரிபொருள் சுவிட்ச் ஆப் ஆகி இருந்​தது தெரிய​வந்​தது.
-
-இதைத் தொடர்ந்து போயிங் ட்ரீம்​லைனர் விமானங்​களின் இன்​ஜின் எரிபொருள் சுவிட்சுகளை ஆய்வு செய்ய வேண்​டும் என்று அனைத்து விமான நிறு​வனங்​களுக்​கும் சிவில் விமானப் போக்​கு​வரத்து இயக்குநரகம் (டிஜிசிஏ) உத்​தர​விட்​டது.
-
-இந்​நிலை​யில், ‘‘அனைத்து போயிங் விமானங்​களி​லும் எரிபொருள் கட்​டுப்​பாட்டு சுவிட்ச் அமைப்​பு​களை ஆய்வு செய்​து​விட்​டோம். இதில் எந்​தப் பிரச்​சினை​யும் கண்​டறியப்​பட​வில்​லை’’ என ஏர் இந்​தியா அதி​காரி தெரி​வித்​தார்​.
-
-◼️
-
-[Data](articles/e74f988b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 03:48:14**
+As of **2025-07-25 04:05:51**
 
 ## Newspaper Stats
 
-*Scraped **66,626** Articles*
+*Scraped **66,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,065
 economynextcom | 4,077
-dailyftlk | 4,704
+dailyftlk | 4,706
 dailymirrorlk | 4,733
 adalk | 6,396
 adaderanalk | 8,180
@@ -26,11 +26,37 @@ adaderanasinhalalk | 11,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,626 articles have been extended.
+61,973 (93.0%) of 66,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Is global free trading paradoxical?
+
+*2025-07-25 03:45:22* · [`dailyftlk`](https://www.ft.lk/columns/Is-global-free-trading-paradoxical/4-779442) · `en`
+
+Although finalising an FTA is a lengthy process and time consuming, it is advisable to commence sooner, exploring areas and avenues to prevent surprises
+
+...
+
+[Data](articles/56522712.json)
+
+---
+
+### Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency
+
+*2025-07-25 03:39:14* · [`dailyftlk`](https://www.ft.lk/columns/Trump-tariff-Jolt-to-Sri-Lanka-s-dependence-voracity-and-innate-complacency/4-779440) · `en`
+
+The Trump tariff is the long overdue shock which Sri Lanka badly needed to awaken it from its reverie
+
+It is our indecisiveness, indiscipline and inaction which have got us to where we are in the first place and it is never too late to start a new journey where Sri Lanka is largely in charge of its destiny. Our slave-like obeisance to the USA for tariff reductions is disturbing and humiliating. How much longer must we continue to remain in the deep hole of subservience and ‘eternal dependence’? We must remember that the great feats of explorers and inventors started with small steps. Our country must, today, chart its own destiny even if it means starting from scratch
+
+...
+
+[Data](articles/cff47157.json)
+
+---
 
 ### B. Saroja Devi: Sweet voiced Kannada parrot was goddess of expression
 
@@ -1815,31 +1841,5 @@ The implementation of the JDS program has been successfully completed under four
 ◼️
 
 [Data](articles/09a32019.json)
-
----
-
-### ரத்தரங் மருமகன் நீதிமன்றத்தில் சரண்
-
-*2025-07-24 13:02:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தரங்-மருமகன்-நீதிமன்றத்தில்-சரண்/175-361681) · `ta`
-
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மருமகன் தனுஷ்க வீரக்கொடி, மத்துகம நீதிமன்றில் முன்னிலையாகியுள்ளார்.
-
-சர்ச்சைக்குரிய கார் ஒப்பந்தம் தொடர்பாக முன்னெடுக்கப்படும் விசாரணைகள் தொடர்பில் அவர் நீதிமன்றில் சரணடைந்துள்ளார்.
-
-◼️
-
-[Data](articles/29b48325.json)
-
----
-
-### ජපානය ශ්‍රී ලංකා රාජ්‍ය අංශය සඳහා මානව සම්පත් සංවර්ධන ශිෂ්‍යත්ව ලබා දෙයි
-
-*2025-07-24 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212584) · `si`
-
-2010 සිට, ජපාන රජය පශ්චාත් උපාධි වැඩසටහන් සඳහා අවස්ථා ලබා දීමෙන් ශ්‍රී ලංකාවේ විධායක මට්ටමේ තරුණ රාජ්‍ය නිලධාරීන්ගේ වෘත්තීය සංවර්ධනයට ක්‍රියාකාරීව සහාය වෙමින් සිටී. මෙම ශිෂ්‍යත්ව, මානව සම්පත් සංවර්ධන ශිෂ්‍යත්ව සඳහා ජපන් ප්‍රදාන ආධාර (JDS) වැඩසටහන හරහා ප්‍රදාන පදනමක් මත පිරිනමනු ලැබේ. මෙම වැඩසටහන සඳහා ජපන් රජය විසින් නිල සංවර්ධන ආධාර යටතේ අරමුදල් සපයනු ලබන අතර ජපාන ජාත්‍යන්තර සහයෝගිතා ඒජන්සිය (JICA) හරහා ක්‍රියාත්මක කරනු ලැබේ. 2010 සිට 2025 දක්වා කාලය තුළ මෙම ශිෂ්‍යත්ව වැඩසටහන මඟින් පශ්චාත් උපාධි වැඩසටහන් සඳහා අවස්ථා 240 ක් සහ ආචාර්ය උපාධි වැඩසටහන් සඳහා අවස්ථා 16 ක් ලබා දී ඇත.
-
-...
-
-[Data](articles/d7eb8b82.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 15:08:23**
+As of **2025-07-24 15:22:44**
 
 ## Newspaper Stats
 
-*Scraped **66,541** Articles*
+*Scraped **66,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,80 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,064
-economynextcom | 4,071
+economynextcom | 4,072
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,384
 adaderanalk | 8,169
-tamilmirrorlk | 9,600
+tamilmirrorlk | 9,601
 virakesarilk | 11,085
-adaderanasinhalalk | 11,423
+adaderanasinhalalk | 11,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,541 articles have been extended.
+61,973 (93.1%) of 66,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### கஞ்சிபானியின் நெருங்கிய சகா கைது
+
+*2025-07-24 15:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானியின்-நெருங்கிய-சகா-கைது/175-361690) · `ta`
+
+திட்டமிட்ட குற்றத் தலைவர் கஞ்சிபானி இம்ரானின் நெருங்கிய  பின்தொடர்பவரான நபர் ஒருவர் வியாழக்கிழமை (24) கைது செய்யப்பட்டுள்ளார்.
+
+அவர் கொழும்பு-13, ஆதுருப்புத் வீதியைச் 45 வயதுடைய முகமது மிஹிலர் முகமது அர்ஷத்  என்பவராவார்.
+
+இவர், விசா மற்றும் பாஸ்போர்ட் இல்லாமல் இந்தியாவில் சட்டவிரோதமாக தங்கியிருந்த நிலையில் செவ்வாய்க்கிழமை (22) அன்று இந்திய பாதுகாப்பு அதிகாரிகளால் கைது செய்யப்பட்டு, வியாழக்கிழமை (24) அன்று இந்தியாவின் சென்னையில் இருந்து  இண்டிகோ விமானத்தில் கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பப்பட்டார்.
+
+அவர் 2017 ஆம் ஆண்டு நாட்டை விட்டு துபாய்க்கு தப்பிச் சென்றுள்ளதுடன்,  2019 ஆம் ஆண்டு, மகந்துரே மதுஷ் உள்ளிட்ட ஒழுங்கமைக்கப்பட்ட குற்றத் தலைவர்கள் குழு துபாயில் ஒரு பிறந்தநாள் விழாவில் கைது செய்யப்பட்ட போது இவர் இந்தியாவுக்குத் தப்பிச் சென்றுள்ளார்.
+
+அவரது மனைவி மற்றும் குழந்தைகள் இன்னும் இந்தியாவில் இருப்பதாகவும் அவர்களிடம் செல்லுபடியாகும் விசாக்கள் மற்றும் பாஸ்போர்ட்டுகள் இருப்பதாகவும்  தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/96ac263f.json)
+
+---
+
+### ශ්‍රී ලංකා - තුර්කි ආර්ථික සබඳතා පුළුල් කිරීමට සැරසෙයි
+
+*2025-07-24 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212587) · `si`
+
+ශ්‍රී ලංකාව සහ තුර්කි ජනරජය අතර ආර්ථික සහ තාක්ෂණික සහයෝගීතාව සඳහා වූ ඒකාබද්ධ කමිටුවේ ( JCETC ) තුන්වන සැසිවාරය අද (24) කොළඹදී ආරම්භ විය.
+
+ඒ, වෙළෙඳ, වාණිජ, අහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ මහතා සහ තුර්කි ජනරජයේ ජාතික අධ්‍යාපන අමාත්‍ය යූසුෆ් ටෙකින් මහතාගේ ප්‍රධානත්වයෙනි.
+
+දෙරට අතර ද්විපාර්ශ්වික ආර්ථික හා තාක්ෂණික සහයෝගීතාව තවදුරටත් ප්‍රවර්ධනය කිරීම මෙහි අරමුණ වෙයි.
+
+ඒ අනුව, නව අවස්ථාවන් ගවේෂණය කිරීමේ අරමුණින් දෙරටේම ජ්‍යෙෂ්ඨ රාජ්‍ය නිලධාරීන්, ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සහ තාක්ෂණික විශේෂඥයින් මෙම සැසියේදී හමුවීමට නියමිතය.
+
+◼️
+
+[Data](articles/95186862.json)
+
+---
+
+### Wasantha de Silva eleced President of Sri Lanka Pakistan Business Council
+
+*2025-07-24 15:02:00* · [`economynextcom`](https://economynext.com/wasantha-de-silva-eleced-president-of-sri-lanka-pakistan-business-council-232567/) · `en`
+
+ECONOMYNEXT – Wasantha de Silva of DMW Ventures (Pvt) Ltd was elected president of the Sri Lanka – Pakistan Business Council (SLPBC), replacing Indhra Kaushal Rajapaksa of the Kalhari Group of Companies.
+
+Feroze Haji Anver from Cliftex Industries (Pvt) Ltd and Perakum Mahasen Abeysekera from Vinu International Trading Company (Pvt) Ltd were elected Vice Presidents, and M Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer.
+
+The SLPBC 33rd annual general meeting held recently, was attended by High Commissioner of Pakistan Major General Faheem Ul Aziz.
+
+The newly appointed committee for the year 2025/26 consists of Gayan Maddumarachchi from APS Logistics International (Pvt) Ltd, Malithi Rajapaksha from John Keells Holdings PLC, Abdul Rehman Abdul Aziz from Rays International Shipping (Pvt) Ltd, Chandana Jirasinha from Aitken Spence Cargo (Pvt) Ltd and Priyantha Dissanayake from Mansel Ceylon (Pvt) Ltd.
+
+...
+
+[Data](articles/428b6f42.json)
+
+---
 
 ### கிண்ணியாவில் கோழி இறைச்சி உணவு சாப்பிட்ட 25 பேர் வைத்தியசாலையில் அனுமதி!
 
@@ -74,11 +130,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-24 14:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-விமான-விபத்து-பயணித்த-அனைவரும்-பலி/50-361688) · `ta`
 
-ரஷ்யாவின் தூர கிழக்கு அமுர் பகுதியில் விபத்துக்குள்ளான அங்காரா ஏர்லைன்ஸ் An-24 பயணிகள் விமானத்தில் இருந்த 49 பேரும் இறந்துவிட்டதாக அவசர சேவைகளின் முதற்கட்ட தகவல்களை மேற்கோள் காட்டி TASS செய்தி நிறுவனம் தெரிவித்துள்ளது.
+ரஷ்யாவின் தூர கிழக்கு அமுர் பகுதியில் விபத்துக்குள்ளான அங்காரா ஏர்லைன்ஸ் An-24 பயணிகள் விமானத்தில் இருந்த 49 பேரும் இறந்துவிட்டனர்.
 
-ரஷ்ய அதிகாரிகள் முன்னதாக, ஒரு தேடல் மற்றும் மீட்பு ஹெலிகாப்டர் விமானத்தின் எரியும் இடிபாடுகளைக் கண்டுபிடித்ததாகக் கூறினர்.
+முதற்கட்ட தகவல்களை மேற்கோள் காட்டி TASS செய்தி நிறுவனம், இந்த செய்தியை வெளியிட்டுள்ளது.   .
 
-இந்த விமானம் ஐந்து குழந்தைகள் உட்பட 43 பயணிகளை ஏற்றிச் சென்று கொண்டிருந்தது. அதில் 6 பணியாளர்கள் இருந்தனர். ரஷ்ய அறிக்கைகளின்படி, விமானியின் பிழை மற்றும் குறைந்த தெரிவுநிலை ஆகியவை விபத்துக்கான காரணமாக இருக்கலாம் என்று அதிகாரிகள் கருதுகின்றனர்.
+மாயமான விமானத்தை தேடும் நடவடிக்கைகளில் மீட்பு ஹெலிகாப்டர் பயன்படுத்தப்பட்டது. அந்த ஹெலி​காப்டர்,  விமானம் எரிவை கண்டுள்ளது மீட்பு பணியில் ஈடுபட்டுள்ள ரஷ்ய அதிகாரிகள் தெரிவித்தனர்.
+
+இந்த விமானம் ஐந்து குழந்தைகள் உட்பட 43 பயணிகளை ஏற்றிச் சென்று கொண்டிருந்தது. அதில் 6 பணியாளர்கள் இருந்தனர்.
+
+விமானியின் பிழை மற்றும் குறைந்த தெரிவுநிலை ஆகியவை விபத்துக்கான காரணமாக இருக்கலாம் என்று அதிகாரிகள் கருதுகின்றனர்.
 
 ◼️
 
@@ -1743,67 +1803,5 @@ The decision was taken by the Committee on Parliamentary Business, which convene
 ◼️
 
 [Data](articles/65d2acc9.json)
-
----
-
-### India, U.K. to sign free trade agreement today
-
-*2025-07-24 05:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110792/india-uk-to-sign-free-trade-agreement-today) · `en`
-
-Britain and India will sign a landmark free trade agreement on Thursday during a visit by Indian Prime Minister Narendra Modi, sealing a deal to cut tariffs on goods from textiles to whisky and cars and allow more market access for businesses.
-
-The two countries concluded talks on the long-coveted free trade pact in May after three years of stop-start negotiations, with both sides hastening efforts to clinch a deal in the shadow of tariff turmoil sparked by U.S. President Donald Trump.
-
-The agreement between the world’s fifth and sixth largest economies aims to increase bilateral trade by a further 25.5 billion pounds ($34 billion) by 2040.
-
-It will take effect after the British parliament and India’s federal cabinet approve it, likely within a year.
-
-“Our landmark trade deal with India is a major win for Britain. It will create thousands of British jobs across the UK, unlock new opportunities for businesses and drive growth,” British Prime Minister Keir Starmer said.
-
-...
-
-[Data](articles/4506a346.json)
-
----
-
-### Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held in Kandy
-
-*2025-07-24 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110791/final-rites-of-most-ven-anamaduwe-sri-dhammadassi-thero-to-be-held-in-kandy-) · `en`
-
-Final rites of Most Ven. Anamaduwe Sri Dhammadassi Thero to be held in Kandy
-
-The final rites of the late Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Anamaduwe Sri Dhammadassi Thero is scheduled to take place with state sponsorship today (24).
-
-The cremation and funeral proceedings will take place at 2:30 p.m. at the Asgiriya Police Grounds in Kandy, according to the Funeral Committee.
-
-The mortal remains of the Anunayake Thero Most Venerable Anamaduwe Sri Dhammadassi Thero, lie in state at the Upali Memorial Hall of the Asgiri Temple in Kandy.
-
-The remains of the late Thero were taken to the Liyangastenna Purana Viharaya on Monday for the public to pay final respects. On Tuesday, the remains were brought to the Asgiriya Temple for the public to pay their last respects.
-
-The Anunayake of the Asgiri Chapter, Most Venerable Anamaduwe Dhammadassi Thero passed away at the age of 67, on Sunday (20).
-
-...
-
-[Data](articles/debfe7f9.json)
-
----
-
-### Showers expected in several areas today
-
-*2025-07-24 05:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110790/showers-expected-in-several-areas-today) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (24), the Department of Meteorology stated.
-
-Several spells of showers may occur in the North-western province as well.
-
-Meanwhile, strong winds of about 55-60kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Central provinces and in the Trincomalee and Hambantota districts.
-
-Fairly strong winds of about 40-50kmph can be expected at times elsewhere, the Met. Department noted.
-
-The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/2ecb9eb5.json)
 
 ---

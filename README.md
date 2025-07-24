@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 11:07:13**
+As of **2025-07-24 11:23:24**
 
 ## Newspaper Stats
 
-*Scraped **66,482** Articles*
+*Scraped **66,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 4,064
 economynextcom | 4,066
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,378
+adalk | 6,379
 adaderanalk | 8,160
-tamilmirrorlk | 9,581
-virakesarilk | 11,073
-adaderanasinhalalk | 11,415
+tamilmirrorlk | 9,582
+virakesarilk | 11,075
+adaderanasinhalalk | 11,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,482 articles have been extended.
+61,973 (93.2%) of 66,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### තායිලන්තය සහ කාම්බෝජය අතරත් යුද ගැටුම්
+
+*2025-07-24 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212579) · `si`
+
+තායිලන්තය සහ කාම්බෝජ හමුදා අතර ඔවුන්ගේ දේශසීමාවේ මතභේදාත්මක කොටසක ගැටුම් ඇති කරගෙන තිබේ.
+
+අද (24) උදෑසන සිට හටගත් මෙම ගැටුම් තවමත් පවතින අතර එයින් තායිලන්තයේ සිවිල් වැසියන් දෙදෙනෙකු මියගොස් ඇති අතර, තායි සොල්දාදුවන් දෙදෙනෙකු තුවාල ලබා ඇති බව සඳහන් වේ.
+
+මෙ අතර පළමුවෙන් වෙඩි තැබීම් සිදුකළේ කවුරුන්ද යන්න සම්බන්ධයෙන් එකිනෙකාට චෝදනා කරගනිමින් සිටින බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+
+කෙසේ වෙතත්, තායි හමුදා පළමු වෙඩි තැබීමෙන් පසු තම සොල්දාදුවන් ආත්මාරක්ෂාව සඳහා ප්‍රතිචාර දක්වන බව කාම්බෝජයේ ආරක්ෂක අමාත්‍යාංශය පැවසීය.
+
+◼️
+
+[Data](articles/46a943a1.json)
+
+---
+
+### எரிபொருள் விலையைக் குறைக்க விசித்திரமான திட்டம்
+
+*2025-07-24 11:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையைக்-குறைக்க-விசித்திரமான-திட்டம்/175-361664) · `ta`
+
+எரிபொருள் விலையை மேலும் குறைக்கும் திறன் கொண்ட புதிய முறையொன்றின் மீது இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் (CPC) கவனம் செலுத்தியுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+எரிபொருள் விநியோகத்துக்கு பயன்படுத்தப்படும் பவுசர்களின் உதிரி பாகங்களின் விலை மற்றும் பிற பராமரிப்பு செலவுகளைக் குறைப்பதன் மூலம் இந்த செலவு மேலாண்மையை அடைய எதிர்பார்க்கப்படுவதாக இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தின் நிர்வாக இயக்குநர் டொக்டர் மயூரா நெத்திகுமார தெரிவித்தார்.
+
+இது தொடர்பாக விநியோகஸ்தர்களுடன் கலந்துரையாடல்கள் நடத்தப்பட்டு, செலவு மேலாண்மை திட்டத்தை செயல்படுத்த அவர்கள் ஒப்புக்கொண்டுள்ளதாக கூறப்படுகின்றது.
+
+இது எரிபொருள் விநியோகச் சங்கிலியில் செலவுகளைக் குறைக்கும் என்று எதிர்பார்க்கப்படுவதுடன், இதன் பலன்கள் நுகர்வோருக்குக் வழங்கப்படும் என்று அதிகாரிகள் நம்பிக்கை வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/24b2815b.json)
+
+---
+
+### மனிதனால் உருவாக்கப்பட்ட பட்டினியால் பெரும் துன்பத்தில் காசா - உலக சுகாதார ஸ்தாபனத்தின் தலைவர்
+
+*2025-07-24 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/220785) · `ta`
+
+மனிதனால் உருவாக்கப்பட்ட பட்டினி நிலையால் காசா துன்பத்தில் சிக்குண்டுள்ளது என உலக சுகாதாரஸ்தாபனத்தின் தலைவர் டெட்ரோல் அதனோம் கெப்ரயேசஸ் தெரிவித்துள்ளார்.
+
+காசாவிற்குள் உணவுப்பொருட்கள் செல்வதை தடுக்கும் மனித செயலால் உருவாக்கப்பட்ட பட்டினியால் காசா துன்பத்தில் சிக்குண்டுள்ளது என அவர் தெரிவித்துள்ளார்.
+
+பெரும்பட்டினி நிலை என இதனை அழைப்பதை தவிர வேறு எப்படி இதனை அழைப்பீர்கள் என எனக்கு தெரியாது,ஆனால் இது மனிதனால் உருவாக்கப்பட்டது அது மிகத்தெளிவான விடயம் என அவர் தெரிவித்துள்ளார்.
+
+போரினால் பாதிக்கப்பட்ட பகுதிக்கான உணவுவிநியோகம் மக்கள் உயிர்வாழ்வதற்கு தேவைப்படுவதை விட குறைவானதாக காணப்படுகின்றது என உலக சுகாதாரஸ்தாபனத்தின் தலைவர் தெரிவித்துள்ளார்.
+
+மிகப்பெருமளவு மக்கள் பட்டினியில் சிக்குண்டுள்ளனர்,காசாவின் போர்க்களத்தில் சிக்குண்டுள்ள 2.1 மில்லியன் மக்கள் குண்டுகள் துப்பாக்கிரவைகளிற்கு அப்பால் மற்றுமொரு கொலைகாரனை எதிர்கொள்கின்றனர் அது பட்டினி என அவர் தெரிவித்துள்ளார்.
+
+நாங்கள் தற்போது போசாக்கின்மையால் உயிரிழப்பவர்களின் எண்ணிக்கை நாளாந்தம் அதிகரித்துவரும் நிலையை பார்க்கின்றோம் என  அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f4998fcc.json)
+
+---
 
 ### தெஹிவளை துப்பாக்கிதாரிக்கு சிக்கல்
 
@@ -134,17 +192,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### வினாத்தாளில் தவறான மொழிப் பிரயோகம் - மாணவர்கள் அதிர்ச்சி
+
+*2025-07-24 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/220779) · `ta`
+
+அநுராதபுரம் கல்வி வலயத்தில் தரம் 5 மாணவர்களுக்கு திங்கட்கிழமை (22) வழங்கப்பட்ட புலமைப்பரிசில் மாதிரிப் பரீட்சை வினாத்தாளில் தவறான மொழிப் பிரயோகம் காணப்பட்டுள்ளது. இது மாணவர்களுக்கும், ஆரிசிரியர்களுக்கும் குழப்பத்தையும் மன உளைச்சலையும் ஏற்படுத்தியதாக தெரிவிக்கப்படுகிறது.
+
+நடைபெறவுள்ள தரம் 5 புலமைப்பரிசில் பரீட்சைசக்கு மாணவர்களை தயார்படுத்தும் நோக்கில், மாதிரி வினாத்தாள், கல்வி வலயத்திற்குட்பட்ட 2,000 மாணவர்களுக்கு வழங்கப்பட்டுள்ளது.
+
+அநுராதபுரம் வலயக்கல்வி காரியால அதிகாரிகள் இந்த வினாத்தாள் தயாரித்து அச்சிட்டு உரிய பாடசாலைகளின் அதிபர்களுக்கு வழங்கியுள்ளனர்.
+
+திங்கட்கிழமை காலை மாணவர்கள் வினாத்தாளைப் படிக்கத் தொடங்கியவுடன், அவர்கள் அமைதியற்றவர்களாகத் தோன்றியதாக ஆசிரியர்கள் தெரிவித்தனர்.
+
+பின்னர் வினாத்தாளில் பல எழுத்துப் பிழைகள் இருப்பது கண்டுபிடிக்கப்பட்டது, குறிப்பாக கேள்வி எண் 29 இல் உள்ள ஒரு வினாவில் பொருத்தமற்ற மற்றும் புண்படுத்தும் மொழியைப் பயன்படுத்தும் வகையில் அமைந்துள்ளது.
+
+...
+
+[Data](articles/784b2bd8.json)
+
+---
+
+### දළඳා පෙරහරේ පළමු චාරිත්‍රය සිදු කෙරේ
+
+*2025-07-24 10:27:53* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-පෙරහරේ-පළමු-චාරිත්‍රය-සිදු-කෙරේ/11-417478) · `si`
+
+හෙළයේ මහා ආගමික සංස්කෘතික මංගල්‍යය වශයෙන් සැලකෙන කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහරේ ආරම්භය සනිටුහන් කරමින් සිදු කරන ප්‍රථම චාරිත්‍රය වශයෙන් සැලකෙන සිව් මහා දේවාලයන්හි කප් සිටුවීමේ මංගල්‍යයට අවශ්‍ය කප කැපීමේ පුරාණ චාරිත්‍රය අද අලුයම 4.32 ට යෙදුණ සුබ මුහුර්තියෙන් අලුත්නුවර දැඩිමුණ්ඩ දේවාල පරිශ්‍රයේදී සිදු කෙරුණි.
+
+එම දේවාල පරිශ්‍රයෙන් තෝරාගත් පල නොදැරූ කොස් පැළයක් සුවඳ පැනින් නහවා පිරිසිදු කොට එම දේවාලයේ චාරිත්‍ර  ඉටුකරන වන්නක්කු රාළ විසින් නැගෙනහිර දිශාවට වැටෙනසේ කපා හෙලීමෙන් අනතුරුව එම කප කොටස පෙරහරකින් මහනුවරට රැගෙන ඒමෙන් පසු එය කැබලි සතරකට වෙන්කොට නාථ විෂ්ණු කතරගම සහ පත්තිනි යන සිව් මහා දේවාලයන්ට භාර කිරීමෙන් අනතුරුව හෙට (25) අලුයම 6.05 ට යෙදෙන සුභ මුහුර්තියෙන් සිව් මහා දේවාලයන්හි කප් සිටුවීමට නියමිතය.
+
+◼️
+
+[Data](articles/f1f346c2.json)
+
+---
+
 ### Two Thai civilians killed as Thai and Cambodian militaries clash at disputed border
 
 *2025-07-24 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110801/two-thai-civilians-killed-as-thai-and-cambodian-militaries-clash-at-disputed-border) · `en`
 
-At least two Thai civilians have been killed and two others injured by shelling from the Cambodian side on July 24, a Thai district official told Reuters, as armed clashes broke out between the militaries of the Southeast Asian neighbours.
+Thailand’s military deployed an F-16 fighter jet against Cambodia’s armed forces on July 24, the Thai army said, as weeks of tension over a border dispute escalated into clashes that have killed at least two civilians.
 
-Thailand’s embassy in Phnom Penh on July 24 urged its nationals in a Facebook post to leave Cambodia “as soon as possible” unless they had urgent reasons to remain.
+Of the six F-16 fighter jets that Thailand has readied to deploy along the disputed border, one of the aircraft fired into Cambodia and destroyed a military target, the Thai army said.
 
-Some 40,000 civilians from 86 villages in Thailand have also been evacuated to safer locations, Sutthirot Charoenthanasak, district chief of Kabcheing in Surin province, told Reuters.
+Both countries accused each other of starting the clash early on July 24.
 
-◼️
+“We have used air power against military targets as planned,” Thai army deputy spokesperson Richa Suksuwanon told reporters.
+
+Cambodia’s defence ministry did not immediately respond to a request for confirmation on the air strike.
+
+The skirmishes came after Thailand recalled its ambassador to Cambodia late on July 23 and said it would expel Cambodia’s envoy in Bangkok, after a second Thai soldier in the space of a week lost a limb to a landmine that Bangkok alleged had been laid recently in the disputed area.
+
+...
 
 [Data](articles/ac82692d.json)
 
@@ -1691,91 +1789,5 @@ The private sector credit growth has risen at a multi-year high of 16.1 percent 
 ◼️
 
 [Data](articles/d995e37a.json)
-
----
-
-### சட்டவிரோத அரகலய கைது;ஜனாதிபதி வேட்பாளரின் மனு விசாரணைக்கு
-
-*2025-07-23 18:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-அரகலய-கைது-ஜனாதிபதி-வேட்பாளரின்-மனு-விசாரணைக்கு/175-361631) · `ta`
-
-காலி முகத்திடலில் நடைபெற்ற கோட்டா கோ கம போராட்டத்தின் போது பொலிஸாரால் சட்டவிரோதமாக கைது செய்யப்பட்டதாகக் கூறி சட்டத்தரணி நுவான் போபகே தாக்கல் செய்த அடிப்படை உரிமைகள் மனுவைத் தொடர உயர் நீதிமன்றம் அனுமதி அளித்துள்ளது.
-
-நியாயமான காரணமின்றி போபகே கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டது, அரசியலமைப்பின் கீழ் அவரது அடிப்படை உரிமைகளை மீறுவதாக மனுவில் கூறப்பட்டுள்ளது.
-
-இந்த மனுவை பரிசீலித்த நீதிபதிகள் குமுதுனி விக்ரமசிங்க, சோபித ராஜகருணா மற்றும் சம்பத் விஜயரத்ன ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் இந்த உத்தரவை பிறப்பித்துள்ளது.
-
-அதன்படி, உயர் நீதிமன்றம், பொலிஸ் மா அதிபர், ராணுவத் தளபதி மற்றும் கோட்டை பொலிஸ் நிலையப் பொறுப்பதிகாரி உள்ளிட்ட பெயரிடப்பட்ட பிரதிவாதிகளுக்கு நோட்டீஸ் அனுப்பியுள்ளது.
-
-2022 ஆம் ஆண்டு போராட்ட இயக்கத்தின் போது செல்லுபடியாகும் சட்டப்பூர்வ அடிப்படை இல்லாமல் கைது செய்யப்பட்டதால், அது தனது அடிப்படை மனித உரிமைகளை மீறுவதாக அறிவிக்கும் நீதிமன்றத் தீர்ப்பை போபகே கோரியுள்ளார்.
-
-◼️
-
-[Data](articles/fe3d00d3.json)
-
----
-
-### සමාගම් පනත සම්මතයි
-
-*2025-07-23 18:21:27* · [`adalk`](https://www.ada.lk/breaking_news/සමාගම්-පනත-සම්මතයි/11-417473) · `si`
-
-2007 අංක 7 දරන සමාගම් (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (23) පාර්ලිමේන්තුවේදී  සම්මත විය.
-
-අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා සමාගම් (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ  විවාදය  පැවැත්වුණු අතර,  ඡන්ද විමසීමකින් තොරව  එම පනත් කෙටුම්පත සම්මත විය.
-
-2007 අංක 7 දරන  සමාගම් (සංශෝධන) පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.06.05 දින  පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
-
-◼️
-
-[Data](articles/9b5362b8.json)
-
----
-
-### வாகன இறக்குமதியில் மீண்டும் கட்டுப்பாடுகள் விதிக்கப்படுமா?
-
-*2025-07-23 18:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதியில்-மீண்டும்-கட்டுப்பாடுகள்-விதிக்கப்படுமா/175-361630) · `ta`
-
-வாகன இறக்குமதியில் மீண்டும் கட்டுப்பாடுகளை விதிக்கும் திட்டம் எதுவும் இல்லை என்றும், சந்தை தொடர்ந்து திறந்திருக்கும் என்றும் மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்தார்.
-
-வாகன இறக்குமதியைக் குறைக்க மத்திய வங்கியோ அல்லது அரசாங்கமோ நடவடிக்கை எடுக்கவில்லை என்று நேற்று (22) ஊடகவியலாளர்களிடம் கருத்து தெரிவிக்கையில் வீரசிங்க கூறினார்.
-
-"எனக்குத் தெரிந்தவரை, அரசாங்கத்தால் அத்தகைய முடிவு எதுவும் இல்லை. எந்த மாற்றமும் இல்லை என்பதை உறுதிப்படுத்தும் அறிக்கையை அமைச்சர் வெளியிடுவார் என்று நான் நம்புகிறேன்," என்று அவர் கூறினார்.
-
-பேரண்டப் பொருளாதாரம் மற்றும் நிதி அமைப்பு ஸ்திரத்தன்மை தொடர்ந்து முதன்மையான முன்னுரிமையாக உள்ளது என்று ஆளுநர் கூறினார். மத்திய வங்கி கடன் வாங்குபவர்களின் அபாயங்களை திறம்பட நிர்வகித்து வருவதாகவும், நிதித் துறையைப் பாதுகாக்க பேரண்டப் பொருளாதார நடவடிக்கைகள் நடைமுறையில் இருப்பதாகவும் அவர் கூறினார்.
-
-◼️
-
-[Data](articles/776dea32.json)
-
----
-
-### Air India crash: Wrong bodies sent to grieving families in UK
-
-*2025-07-23 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110782/air-india-crash-wrong-bodies-sent-to-grieving-families-in-uk) · `en`
-
-Multiple British families of Air India 171 crash have received wrong bodies, according to a report.
-
-On June 12, the London-bound AI 171 flight crashed shortly after take-off in Gujarat’s Ahmedabad. Out of the 260 deceased, 52 were British nationals. Their remains were identified by genetic testing and dental records and transported to the United Kingdom.
-
-The Daily Mail has now reported that the identification and transportation of bodies was botched up in multiple cases.
-
-These errors came to light after Inner West London coroner Dr Fiona Wilcox sought to verify the remains of British nationals transported from India by matching their DNA with samples provided by the families, as per the newspaper.
-
-India’s foreign ministry said that they were aware of the report “and have been working closely with the UK side from the moment these concerns and issues were brought to our attention”.
-
-...
-
-[Data](articles/7a71b29a.json)
-
----
-
-### புதிய பிரதம நீதியரசர் பத்மன் சூரசேன
-
-*2025-07-23 17:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-பத்மன்-சூரசேன/175-361629) · `ta`
-
-புதிய பிரதம நீதியரசராக உயர்நீதிமன்ற நீதியரசர் பிரீத்தி பத்மன் சூரசேனவின் பெயரை அரசியலமைப்பு சபை இன்று (23) அங்கீகரித்தது. நீதியரசர் சூரசேனவின் பெயரை ஜனாதிபதி அனுர குமார திசாநாயக்க இந்தப் பதவிக்கு பரிந்துரைத்தார். அவர் இலங்கையின் 49வது தலைமை நீதியரசராகிறார்
-
-◼️
-
-[Data](articles/0ff2096c.json)
 
 ---

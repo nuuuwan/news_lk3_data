@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 16:48:02**
+As of **2025-07-24 17:05:26**
 
 ## Newspaper Stats
 
-*Scraped **66,556** Articles*
+*Scraped **66,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,072
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,384
-adaderanalk | 8,171
+adaderanalk | 8,173
 tamilmirrorlk | 9,604
 virakesarilk | 11,086
 adaderanasinhalalk | 11,429
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,556 articles have been extended.
+61,973 (93.1%) of 66,558 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -153,6 +153,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b9495e56.json)
+
+---
+
+### Chinese cybercrime suspect detained at BIA and deported
+
+*2025-07-24 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110814/chinese-cybercrime-suspect-detained-at-bia-and-deported) · `en`
+
+A 28-year-old Chinese national suspected of involvement in an international cybercrime ring was arrested by the Border Surveillance Unit of the Department of Immigration and Emigration upon his arrival at Bandaranaike International Airport (BIA), Katunayake.
+
+The suspect had landed in Sri Lanka on July 23 at 5.10 p.m. onboard SriLankan Airlines flight UL-315 from Kuala Lumpur in Malaysia, said Ada Derana reporter.
+
+Officials had grown suspicious after observing that the individual was carrying a large quantity of computer equipment. During questioning, the suspect claimed that he had traveled to Sri Lanka to meet a prominent businessman linked to the Sri Lankan stock market.
+
+Further interrogation revealed possible links to an international online financial fraud network, prompting authorities to take immediate action.
+
+Accordingly, the suspect was arrested and subsequently handed over to SriLankan Airlines’ officials for deportation.
+
+◼️
+
+[Data](articles/b2ecf0c5.json)
+
+---
+
+### Thailand, Cambodia border row spirals into deadly clash, killing 11
+
+*2025-07-24 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110813/thailand-cambodia-border-row-spirals-into-deadly-clash-killing-11) · `en`
+
+At least 11 civilians were killed Thursday when Thailand and Cambodia exchanged airstrikes, rockets and artillery fire, in a dramatic escalation of a long-running border row.
+
+The neighbors are locked in a bitter spat over an area known as the Emerald Triangle, where the borders of both countries and Laos meet and which is home to several ancient temples.
+
+The squabble has dragged on for decades, flaring into bloody military clashes more than 15 years ago and again in May, when a Cambodian soldier was killed in a firefight.
+
+The conflict blazed up Thursday, with Cambodia firing rockets and artillery shells into Thailand and the Thai military scrambling F-16 jets to carry out airstrikes.
+
+The Thai Public Health Ministry said at least 11 civilians had been killed, most of them in a rocket strike near a petrol station in Sisaket province.
+
+...
+
+[Data](articles/a0408066.json)
 
 ---
 
@@ -1809,33 +1849,5 @@ Canberra technically lifted the ban on US beef in 2019, but cattle from Mexico a
 ...
 
 [Data](articles/68afd29e.json)
-
----
-
-### ஜனாதிபதிக்கு பாரிய போராட்டம்: உக்ரைனில் பதற்றம்
-
-*2025-07-24 08:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-பாரிய-போராட்டம்-உக்ரைனில்-பதற்றம்/50-361651) · `ta`
-
-உக்ரைனின் ஊழல் எதிர்ப்பு அமைப்புகளின் சுதந்திரத்தை பலவீனப்படுத்துவதாக விமர்சகர்கள் கூறும் ஒரு சட்டமூலத்தில் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி கையெழுத்திட்டுள்ளார்.
-
-புதிய சட்டம் தேசிய ஊழல் தடுப்புப் பணியகம் மற்றும் சிறப்பு ஊழல் தடுப்பு சட்டத்தரணிகள் அலுவலகம் ஆகியவற்றின் அதிகாரத்தை கட்டுப்படுத்துகிறது.
-
-◼️
-
-[Data](articles/361981fa.json)
-
----
-
-### ஜனாதிபதிக்கு எதிராக பாரிய போராட்டம்: உக்ரைனில் பதற்றம்
-
-*2025-07-24 08:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-எதிராக-பாரிய-போராட்டம்-உக்ரைனில்-பதற்றம்/50-361651) · `ta`
-
-உக்ரைனின் ஊழல் எதிர்ப்பு அமைப்புகளின் சுதந்திரத்தை பலவீனப்படுத்துவதாக விமர்சகர்கள் கூறும் ஒரு சட்டமூலத்தில் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி கையெழுத்திட்டுள்ளார்.
-
-புதிய சட்டம் தேசிய ஊழல் தடுப்புப் பணியகம் மற்றும் சிறப்பு ஊழல் தடுப்பு சட்டத்தரணிகள் அலுவலகம் ஆகியவற்றின் அதிகாரத்தை கட்டுப்படுத்துகிறது.
-
-◼️
-
-[Data](articles/5dce2cd6.json)
 
 ---

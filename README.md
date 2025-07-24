@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 07:16:48**
+As of **2025-07-24 08:12:43**
 
 ## Newspaper Stats
 
-*Scraped **66,439** Articles*
+*Scraped **66,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ economynextcom | 4,060
 islandlk | 4,064
 dailyftlk | 4,703
 dailymirrorlk | 4,733
-adalk | 6,374
+adalk | 6,375
 adaderanalk | 8,151
-tamilmirrorlk | 9,568
+tamilmirrorlk | 9,571
 virakesarilk | 11,072
-adaderanasinhalalk | 11,405
+adaderanasinhalalk | 11,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.3%) of 66,439 articles have been extended.
+61,973 (93.3%) of 66,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### கள்ளத்தொடர்பு விவகாரம்:தந்தை, இரண்டு மகன்கள் உட்பட நால்வருக்கு மரணதண்டனை
+
+*2025-07-24 07:18:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளத்தொடர்பு-விவகாரம்-தந்தை-இரண்டு-மகன்கள்-உட்பட-நால்வருக்கு-மரணதண்டனை/175-361649) · `ta`
+
+தனது மகனின் மனைவியுடன் கள்ளத்தொடர்பு வைத்திருந்த ஒருவரை தடிகளால் அடித்துக் கொன்ற குற்றச்சாட்டில் தந்தை மற்றும் இரண்டு மகன்கள் குற்றவாளிகள் எனக் கண்டறிந்த பொலன்னறுவை மேல் நீதிமன்ற நீதிபதி ருச்சிர வெலிவத்த, நான்கு பிரதிவாதிகளுக்கும் மரண தண்டனை விதித்தார்.
+
+இவ்வாறு மரண தண்டனை விதிக்கப்பட்டது. ஹிங்குராக்கொட, உனகலவெஹெர, சந்தன பொக்குண 10 ஐச் சேர்ந்த ஏ.எம். விஜேரத்ன மற்றும் ஏ.எம். ரசிக பிரதீப் பண்டார மற்றும் ஏ.எம். ரோஷன் பிரதீப் பண்டார ஆகிய இரண்டு தந்தை மற்றும் மகன் பிரதிவாதிகளுக்கும், ஏ.பி. சிசிர குமார ஆகியோருக்கும் இந்த தண்டனை விதிக்கப்பட்டது.
+
+இந்த வழக்கில் 5வது மற்றும் 6வது பிரதிவாதிகளாகப் பெயரிடப்பட்ட டி.எம். நிமல் திசாநாயக்க மற்றும் ஏ.ஜி. ஹீன் பண்டா ஆகியோரிடமும் சட்டமா அதிபர் குற்றப்பத்திரிகையை ஒப்படைத்திருந்தார், மேலும் இரண்டு பிரதிவாதிகளும் விசாரணையின் போது இறந்துவிட்டனர்.
+
+பிரதிவாதிகளுக்கு மரண தண்டனை விதித்த மேல் நீதிமன்ற நீதிபதி ருச்சிர வெலிவத்த, பிரதிவாதிகளுக்கு எதிரான குற்றச்சாட்டுகளை நியாயமான சந்தேகத்திற்கு இடமின்றி நிரூபிப்பதில் அரசு தரப்பு வெற்றி பெற்றதாகக் கூறினார்.
+
+◼️
+
+[Data](articles/65d981ee.json)
+
+---
+
+### 6 மீனவர்களுடன் சென்ற படகு கரை திரும்பவில்லை
+
+*2025-07-24 07:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மீனவர்களுடன்-சென்ற-படகு-கரை-திரும்பவில்லை/175-361648) · `ta`
+
+யாழ். மயிலிட்டியில் இருந்து ஆழ்கடல் மீன்பிடிக்காக நான்கு நாள்களுக்கு முன்னர் 6 பேருடன் சென்ற படகு இதுவரை கரை திரும்பவில்லை எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+பருத்தித்துறையைச் சேர்ந்த நீண்ட நாள் படகில் 6 மீனவர்கள் கடந்த ஞாயிற்றுக்கிழமை மயிலிட்டித் துறைமுகத்தில் இருந்து பயணித்துள்ளனர்.
+
+இவ்வாறு மீனவர்களுடன் பயணித்த படகு கரை திரும்பாததோடு தொடர்பும் கிடைக்கவில்லை எனத் தெரிவிக்கப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/2cd95cb2.json)
+
+---
+
+### செம்மணியில் நேற்று 5 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-07-24 06:55:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-5-எலும்புக்கூடுகள்-அடையாளம்/175-361647) · `ta`
+
+யாழ்ப்பாணம், செம்மணியின் நேற்றைய அகழ்வின் போது 5 என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டன. இதன்படி செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் மொத்த எண்ணிக்கை 85ஆக அதிகரித்துள்ளது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழி தொடர்பான இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 18ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
+
+நேற்றைய அகழ்வின்போது ஐந்து மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இரண்டு என்புத் தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+செம்மணி மனிதப் புதைகுழியில் இதுவரை 85 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதுவரை 67 என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/7397bfc3.json)
+
+---
+
+### නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ සභාව කල්තැබීමේ විවාදය අද
+
+*2025-07-24 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212569) · `si`
+
+යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ සභාව කල්තැබීමේ විවාදය අද (24) පැවැත්වීමට නියමිතව තිබේ.
+
+විවාදය අද පස්වරු 5.30 දක්වා පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+පසුගිය 22 වන දින පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ දී මෙම විවාදය පැවැත්වීම සම්බන්ධයෙන් යෝජනා වී තිබුණි.
+
+ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය අද දිනයේ පැවැත්වීමට මීට පෙර සැලසුම් කර තිබු අතර එම පනත් කෙටුම්පත සම්බන්ධ තාක්ෂණික කාරණා හේතුවෙන් එය ඉදිරි දිනකදී විවාදයට ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ දී තීරණය වී ඇත.
+
+◼️
+
+[Data](articles/215a7f7c.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට වැසි
 
@@ -958,6 +1028,22 @@ The private sector credit growth has risen at a multi-year high of 16.1 percent 
 
 ---
 
+### නව අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන
+
+*2025-07-23 18:33:31* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගවිනිසුරු-ප්‍රීති-පද්මන්-සූරසේන/11-417474) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා නව අගවිනිසුරු ලෙස නම් කිරීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ලබා දුන් නිර්දේශයට අද (23දා) ව්‍යස්ථාදයක සභාවේ අනුමතිය හිමිව තිබේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව ඊයේ පස්වරුවේ එහි සභාපති,  කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු සංකීර්ණයේදී රැස්වූ අතර එහිදි මෙම අනුමතිය හිමිව ඇත.
+
+ඒ අනුව, ශ්‍රී ලංකාවේ 49 වැනි අගවිනිසුරුවරයා ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා පත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/d995e37a.json)
+
+---
+
 ### சட்டவிரோத அரகலய கைது;ஜனாதிபதி வேட்பாளரின் மனு விசாரணைக்கு
 
 *2025-07-23 18:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-அரகலய-கைது-ஜனாதிபதி-வேட்பாளரின்-மனு-விசாரணைக்கு/175-361631) · `ta`
@@ -1646,11 +1732,11 @@ The plane landed safely back at the airport after a two-hour journey. Flight IX 
 
 ---
 
-### Sri Lanka CB chief says no limit imposed on vehicle imports
+### Sri Lanka CB chief says no plans to limit car imports
 
 *2025-07-23 15:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-says-no-limit-imposed-on-vehicle-imports-232437/) · `en`
 
-ECONOMYNEXT – Sri Lanka Central Bank and the government have not imposed any limits on vehicle imports, Central Bank Governor Nandalal Weerasinghe said.
+ECONOMYNEXT – Sri Lanka Central Bank and has no plans to limits vehicle imports, and to his knowledge neither did the government, Central Bank Governor Nandalal Weerasinghe said
 
 The International Monetary Fund (IMF) earlier this month said high-frequency data have suggested a steady growth in motor vehicle imports after the removal of import restrictions on February 1, with around 675 million dollar in letters of credit opened by June 10.
 
@@ -1711,101 +1797,5 @@ The Central Bank before vehicle imports started informed the Finance Ministry th
 ...
 
 [Data](articles/cd0b0119.json)
-
----
-
-### சம்பூரில் மனித எச்சங்கள் ; எதிர்வரும் 30ஆம் திகதி அறிக்கை சமர்ப்பிக்குமாறு நீதிபதி உத்தரவு
-
-*2025-07-23 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220726) · `ta`
-
-திருகோணமலை மாவட்டத்தில் மூதூர், சம்பூர் பகுதியில் காணப்பட்ட மனித எச்சங்கள் தொடர்பாக எதிர்வரும் 30ஆம் திகதி அறிக்கை சமர்ப்பிக்குமாறு சட்ட வைத்திய அதிகரிக்கும், தொல்பொருளியல் திணைக்களத்திற்கும் நீதிபதி உத்தரவிட்டுள்ளார்.
-
-குறித்த பகுதிக்கு இன்று புதன்கிழமை (23) விஜயம் மேற்கொண்டு கள ஆய்வை மேற்கொண்டிருந்த நீதிபதி குறித்த இடத்தை பார்வையிட்டதுடன், அங்கு வருகை தந்திருந்த திணைக்கள அதிகாரிகளுடன் கலந்துரையாடியதோடு சட்ட வைத்திய அதிகரிக்கு குறித்த இடத்தில் அகழ்வுப்பணியை முன்னெடுப்பது தொடர்பாக மிதிவெடி அகற்றும் நிறுவனத்துடன் கலந்துரையாடி அறிக்கை சமர்ப்பிக்குமாறும், தொல்லியல் திணைக்களத்திடம் குறித்த இடத்தில் மயானம் இருந்ததா என்பது தொடர்பில் ஆராய்ந்து அது தொடர்பான அறிக்கையினை சமர்ப்பிக்குமாறும் குறித்த அறிக்கைகளை இரு தரப்பினரும் எதிர்வரும்  30 ஆம் திகதி நீதிமன்றில் சமர்ப்பிக்குமாறு மூதூர் நீதிமன்ற நீதிபதி எச்.எம். தஸ்னீம் பௌசான் உத்தரவிட்டுள்ளார்.
-
-...
-
-[Data](articles/bd253c28.json)
-
----
-
-### Sri Lankan passport makes big jump in global rankings, Visa-Free entry to 42 countries now
-
-*2025-07-23 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110773/sri-lankan-passport-makes-big-jump-in-global-rankings-visa-free-entry-to-42-countries-now) · `en`
-
-The Sri Lankan passport has made a major leap and climbed five places from 96th to 91st, in the Henley Passport Index. The Sri Lankan passport jumped four spots last year as well.
-
-The Henley Passport Index 2025 ranks countries on the basis of the number of destinations their holders can enter without having a prior visa.
-
-Currently, Sri Lanka has visa-free access to 42 destinations in the world.
-
-Singapore passport holders are given visa-free entry to 193 destinations.
-
-Passport holders of Japan and South Korea remain a close second, with visa-free travel for 190 countries.
-
-Seven European passports share the 3rd place - Denmark, Finland, France, Germany, Ireland, Italy, and Spain, all with access to 189 destinations.
-
-Austria, Belgium, Luxembourg, the Netherlands, Norway, Portugal, and Sweden jointly take 4th place. New Zealand ties in 5th place with Greece and Switzerland.
-
-...
-
-[Data](articles/f9ae01c9.json)
-
----
-
-### UAE ranked safest country in the world in 2025; Sri Lanka drops to 61st
-
-*2025-07-23 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110772/uae-ranked-safest-country-in-the-world-in-2025-sri-lanka-drops-to-61st) · `en`
-
-The UAE has once again been named the safest country in the world, according to the Safety Index by Country 2025 Mid-Year, published by global data aggregator Numbeo.
-
-Scoring an impressive 85.2 on the index, the UAE outperformed 147 other nations, reaffirming its status as a global leader in public safety and quality of life.
-
-Following the UAE in the safety rankings are Andorra (84.8), Qatar (84.6), Taiwan (83.0), and Macao (China) (81.8). The Gulf region continues to shine, with Oman securing sixth place (81.4), Saudi Arabia ranking 14th (76.3), and Kuwait placing 38th (67.3).
-
-In the Current Safety Index by City, the UAE stands out for fostering one of the safest and most cohesive societies globally, despite being home to over 200 nationalities.
-
-Abu Dhabi leads the global list of safest cities with a score of 88.8, followed closely by Ajman (85.5), Dubai (83.9), Ras Al Khaimah (83.8), and Sharjah (83.7). This places five UAE cities among the top six safest in the world.
-
-...
-
-[Data](articles/0df2ff3a.json)
-
----
-
-### Chief Justice underscores need for changes to laws amidst rising public concerns
-
-*2025-07-23 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110771/chief-justice-underscores-need-for-changes-to-laws-amidst-rising-public-concerns) · `en`
-
-Chief Justice Murdu Fernando has underscored the need for legal renewal amidst rising public concerns about the legal system in an evolving society.
-
-Addressing the inaugural session of the Bar Association of Sri Lanka (BASL) Legal Symposium 2025, Chief Justice Murdu Fernando, emphasized the importance of ethical integrity, constitutional values, and collaborative legal development in steering Sri Lanka towards a “Just Republic.”
-
-This was the first Legal Symposium of the Bar Association of Sri Lanka held after the assumption of office by Rajeev Amarasuriya as the President of the Association.
-
-In her keynote address, the Chief Justice urged the continued commitment from the BASL in advancing justice, describing the symposium as a gathering “united by a shared commitment for the advancement of justice in Sri Lanka or a ‘Just Republic’”.
-
-...
-
-[Data](articles/9f724b49.json)
-
----
-
-### Sri Lanka planning to register cryptocurrencies providers
-
-*2025-07-23 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-register-cryptocurrencies-providers-232426/) · `en`
-
-ECONOMYNEXT – Sri Lanka has to register providers of crytpo currencies as part of requirements of international anti-money laundering and counter terrorism financing framework, Central Bank Governor Nandalal Weerasinghe said.
-
-The central bank has also discussed setting up a task force on the matter with the government’s digital ministry, he said.
-
-Sri Lanka has to identify and know about crypto currency use to counter money laundering, he said.
-
-Users of cryptocurrencies also faced other legal hurdles including Sri Lanka’s foreign exchange laws, Governor Weerasinghe pointed out.
-
-In Sri Lanka people cannot freely transfer money abroad except for current transactions. (Colombo/July28/2025)
-
-◼️
-
-[Data](articles/1f91cd4f.json)
 
 ---

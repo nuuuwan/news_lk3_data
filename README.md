@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 14:07:19**
+As of **2025-07-24 14:24:26**
 
 ## Newspaper Stats
 
-*Scraped **66,528** Articles*
+*Scraped **66,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,88 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,064
-economynextcom | 4,070
+economynextcom | 4,071
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,383
-adaderanalk | 8,167
-tamilmirrorlk | 9,596
-virakesarilk | 11,080
+adaderanalk | 8,168
+tamilmirrorlk | 9,597
+virakesarilk | 11,082
 adaderanasinhalalk | 11,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,528 articles have been extended.
+61,973 (93.1%) of 66,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### போத்தலால் தாக்கி தப்பிய கைதி சிக்கினார்
+
+*2025-07-24 14:09:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போத்தலால்-தாக்கி-தப்பிய-கைதி-சிக்கினார்/175-361684) · `ta`
+
+கொழும்பு ரிமாண்ட் சிறையில் தடுத்து வைக்கப்பட்டுள்ள ஒரு சந்தேக நபர்  கொழும்பு தேசிய மருத்துவமனையில் உள்ள மனநல மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டபோது தப்பிக்க முயன்ற சம்பவமொன்று புதன்கிழமை (23) இடம்பெற்றுள்ளது.
+
+சிறை அதிகாரிகள் சந்தேக நபரை மருத்துவருடன் கலந்தாலோசிப்பதற்கு முன்பு அவரது கைவிலங்குகளை அகற்றிக் கொண்டிருந்தபோது இந்த சம்பவம் நிகழ்ந்தது. அவர் சம்பவ இடத்தில் இருந்து தப்பி ஓடிவிட்டார், ஆனால் சிறிது நேரத்திலேயே மருத்துவமனையின் பிரதான நுழைவாயிலுக்கு அருகில் அவர் கைது செய்யப்பட்டார்.
+
+தப்பிக்கும் முயற்சியின் போது, சந்தேக நபர் ஒரு கண்ணாடி பாட்டிலை உடைத்து ஒரு பெண் சிறை அதிகாரியைத் தாக்க முயன்றதாக கூறப்படுகிறது. காயங்கள் எதுவும் ஏற்படுவதற்கு முன்பு அதிகாரிகளால் அவரைக் கட்டுப்படுத்த முடிந்தது.
+
+சம்பவத்தைத் தொடர்ந்து, சந்தேக நபர் மீண்டும் மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டு பின்னர் சிறைக்கு திரும்பினார்.
+
+◼️
+
+[Data](articles/e9909ddb.json)
+
+---
+
+### Sri Lanka’s top court orders USD1 bn compensation for X-Press Pearl disaster
+
+*2025-07-24 14:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-orders-usd1-bn-compensation-for-x-press-pearl-disaster-232576/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court ordered the respondents in the X-Press Pearl disaster to pay 1 billion US dollars as compensation for the harm caused to marine and coastal environment, and the significant losses suffered by the island nation and the fishing industry, the verdict said.
+
+The MV X-Press Pearl disaster stands as Sri Lanka’s worst marine environmental catastrophe. On May 20, 2021, the Singapore-flagged container ship caught fire off the coast of Colombo while carrying a cargo that included 25 tons of nitric acid, other hazardous chemicals, and over 1,500 containers.
+
+Despite efforts to douse the fire, the vessel burned for nearly two weeks before sinking on June 2, 2021. The incident led to the spillage of harmful chemicals and billions of plastic pellets (nurdles) into the Indian Ocean, polluting vast stretches of Sri Lanka’s western coastline.
+
+...
+
+[Data](articles/e296825b.json)
+
+---
+
+### The future of BRICS hinges on India’s stance
+
+*2025-07-24 14:00:00* · [`economynextcom`](https://economynext.com/the-future-of-brics-hinges-on-indias-stance-232540/) · `en`
+
+ECONOMYNEXT – India is set to take over the BRICS presidency in 2026 amidst global upheavals in the areas of trade and geopolitics. On the one hand are US-imposed tariffs on its trading partners globally, and on the other, cross-border tensions between some BRICS member states. The problem is confounded by US President Donald Trump’s recent threat of 10 per cent tariffs on any nation that aligns with BRICS.
+
+For decades, India has played a careful balancing act when dealing with global challenges. However, that strategy may be sorely tested when it takes on the BRICS leadership. Says Dr D Dhanuraj, Founder and Chair of the Centre for Public Policy Research, India, “The I in BRICS is very important, will it be for you, we or all humanity? India’s position is very important for the very survival and success of BRICS.”
+
+...
+
+[Data](articles/8cefcae6.json)
+
+---
+
+### தேங்காய், கோப்பி, மாம்பழத் துறைகளை வலுப்படுத்த MDF உடன் SDB வங்கி ஒப்பந்தம்
+
+*2025-07-24 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220807) · `ta`
+
+அவுஸ்திரேலிய அரசாங்கம் நிதியளிக்கும் சந்தை அபிவிருத்தி வசதி (MDF) மற்றும் SDB வங்கி வியாபார அபிவிருத்தி ஆகியவை, தேங்காய், கோப்பி மற்றும் மாம்பழத் துறைகளை வலுப்படுத்தும் நோக்கில் சமீபத்தில் புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டன.
+
+இந் நிகழ்வு SDB வங்கியின் நிறைவேற்று பணிப்பாளர்/பிரதம நிறைவேற்றதிகாரி  கபில ஆரியரத்ன மற்றும் MDF இலங்கைக்கான பணிப்பாளர் மியம் பிராச்சா ஆகியோரின் தலைமையில் நடைபெற்றது.
+
+இந்த ஒப்பந்தத்தின் மூலம், SDB வங்கி மற்றும் MDF ஆகியவை இணைந்து துறை சார்ந்த பங்குதாரர்களுக்கு கூட்டு முதலீட்டு வாய்ப்புகளை உருவாக்கவும், உற்பத்தி மற்றும் பெறுமதி  சேர்ப்பு செயல்முறைகளை மேம்படுத்தவும் தொழிநுட்ப ஆலோசனைகளை வழங்க திட்டமிட்டுள்ளன.
+
+◼️
+
+[Data](articles/0f585dd0.json)
+
+---
 
 ### ඉන්දීය - එංගලන්ත ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අදයි
 
@@ -45,6 +109,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/45c247ad.json)
+
+---
+
+### எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்து ; 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடா வழங்குமாறு உயர் நீதிமன்றம் உத்தரவு
+
+*2025-07-24 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220809) · `ta`
+
+இலங்கை கடற்பரப்புக்குள் எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்திற்குள்ளானதால் கடல் சூழல் மற்றும் பொருளாதாரத்திற்கு ஏற்பட்ட சேதங்களுக்கு 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடாக வழங்குமாறு சிங்கப்பூர் கப்பல் நிறுவனத்திற்கு இன்று வியாழக்கிழமை (24) உயர் நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+
+2021 ஆம் ஆண்டு மே மாதம் 20 ஆம் திகதி கொழும்பிற்கு அருகே சிங்கப்பூர் கொடியுடன் வந்தடைந்த எக்ஸ்-பிரஸ் பேர்ள் சரக்குக் கப்பலில் தீ விபத்து ஏற்பட்டது.
+
+கப்பலில் இருந்த இரசாயனங்கள் மற்றும் கொள்கலன்கள் தீயில் கருகின. தீயை அணைக்க பல நாட்கள் போராடியும் கப்பல் முழுமையாக மூழ்கியது.
+
+தீ விபத்துக்குள்ளான கப்பல் சில நாட்களுக்குப் பின்னர் கடலில் மூழ்கியது. இதனால்,  இலங்கையின் கடற்கரையோரங்களில் கோடிக்கணக்கான  பிளாஸ்டிக் துகள்கள் மற்றும் நச்சு இரசாயனங்கள் கரை ஒதுங்கின.
+
+கப்பலில் இருந்து வெளியான இரசாயனக் கழிவுகள் மற்றும் பிளாஸ்டிக் துகள்கள் கடலில் பரவி, கடல்வாழ் உயிரினங்களுக்கு பாதிப்பை ஏற்படுத்தின. கடலாமைகள், டொல்பின்கள் மற்றும் திமிங்கலங்கள் இறந்தன.
+
+...
+
+[Data](articles/1295f2a7.json)
+
+---
+
+### டிஜிட்டல் தொழில்நுட்பத்தில் தரவு பாதுகாப்பிற்கும் ஒழுக்க நெறிக்கும் ஒழுங்கமைக்கப்பட்ட கட்டமைப்பு அவசியம் – பிரதமர் ஹரிணி அமரசூரிய
+
+*2025-07-24 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220811) · `ta`
+
+டிஜிட்டல் தொழில்நுட்பத்தைப் பயன்படுத்தும் போது, தரவு பாதுகாப்பு, தனியுரிமை மற்றும் ஒழுக்கநெறி ஆகியவற்றின் உண்மைத் தன்மையை உறுதிப்படுத்துவதற்காக ஒழுங்கமைக்கப்பட்ட கட்டமைப்பை உருவாக்குவது அவசியம் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+
+பிரதமர் கலாநிதி ஹரினி அமரசூரிய தலைமையில், கடந்த 22ம் திகதி அலரி மாளிகையில் நடைபெற்ற, eMHIC சர்வதேச டிஜிட்டல் மனநலம் குறித்த கலந்துரையாடலின் போது இதை அவர் தெரிவித்தார்.
+
+இலங்கையில் டிஜிட்டல் மனநலம் தொடர்பான சவால்களைத் தீர்க்க புத்தாக்க தொழில்நுட்பத் தீர்வுகளை ஆராய்வதே இந்தக் கலந்துரையாடலின் நோக்கம் ஆகும்.
+
+பரந்த அளவில் டிஜிட்டல் மயமாக்கல் திட்டத்தின் ஓர் அங்கமாக, தற்போதைய மனநல சேவையை டிஜிட்டல் தளத்திற்கு மாற்ற தேவையான தீர்வுகள் குறித்து அரசின் கவனம் செலுத்தப்பட்டு வருகிறது. புத்தாக்கத்தை ஊக்குவிப்பது, டிஜிட்டல் தொழில்நுட்ப அடிப்படையில் செயல் திறன், பாதுகாப்பு, தரவு தனியுரிமை மற்றும் ஒழுக்கநெறிகள் தொடர்பான விடயங்களை உறுதி செய்யும் ஒழுங்கமைக்கப்பட்ட கட்டமைப்பை உருவாக்க வேண்டும் என்பதையும் அவர் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/c52b617c.json)
 
 ---
 
@@ -65,24 +167,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b7bb6fbf.json)
-
----
-
-### எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்து ; 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடா வழங்குமாறு உயர் நீதிமன்றம் உத்தரவு
-
-*2025-07-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220809) · `ta`
-
-இலங்கை கடற்பரப்புக்குள் எக்ஸ்-பிரஸ்பேர்ள் கப்பல் தீ விபத்திற்குள்ளானதால் கடல் சூழல் மற்றும் பொருளாதாரத்திற்கு ஏற்பட்ட சேதங்களுக்கு 100 கோடி அமெரிக்க டொலர்களை நஷ்ட ஈடாக வழங்குமாறு சிங்கப்பூர் கப்பல் நிறுவனத்திற்கு இன்று வியாழக்கிழமை (24) உயர் நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
-
-2021 ஆம் ஆண்டு மே மாதம் 20 ஆம் திகதி கொழும்பிற்கு அருகே சிங்கப்பூர் கொடியுடன் வந்தடைந்த எக்ஸ்-பிரஸ் பேர்ள் சரக்குக் கப்பலில் தீ விபத்து ஏற்பட்டது.
-
-தீ விபத்துக்குள்ளான கப்பல் சில நாட்களுக்குப் பின்னர் கடலில் மூழ்கியது. இதனால்,  மேற்கு கடற்கரையோரங்களில் கோடிக்கணக்கான  பிளாஸ்டிக் துகள்கள் மற்றும் நச்சு இரசாயனங்கள் கரை ஒதுங்கின.
-
-இதனால், கடல் சுற்றுச்சூழலுக்கும் மீன்பிடி சமூகங்களுக்கும் பாரிய பாதிப்பு ஏற்பட்டது. பிளாஸ்டிக் துகள்கள் அகற்றும் நடடிவடிக்கைகள் முன்னெடுக்கப்பட்டதோடு,  பாதிக்கப்பட்ட மீன்பிடி சமூகங்களுக்கு நிவாரணங்களும் வழங்கப்பட்டது.
-
-◼️
-
-[Data](articles/1295f2a7.json)
 
 ---
 
@@ -127,22 +211,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d7eb8b82.json)
-
----
-
-### Sri Lanka’s top court orders USD1 bn compensation for X-Press Pearl disaster
-
-*2025-07-24 12:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-orders-usd1-bn-compensation-for-x-press-pearl-disaster-232576/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court ordered the respondents in the X-Press Pearl disaster to pay 1 billion US dollars as compensation for the harm caused to marine and coastal environment, and the significant losses suffered by the island nation and the fishing industry, the verdict said.
-
-The MV X-Press Pearl disaster stands as Sri Lanka’s worst marine environmental catastrophe. On May 20, 2021, the Singapore-flagged container ship caught fire off the coast of Colombo while carrying a cargo that included 25 tons of nitric acid, other hazardous chemicals, and over 1,500 containers.
-
-Despite efforts to douse the fire, the vessel burned for nearly two weeks before sinking on June 2, 2021. The incident led to the spillage of harmful chemicals and billions of plastic pellets (nurdles) into the Indian Ocean, polluting vast stretches of Sri Lanka’s western coastline.
-
-...
-
-[Data](articles/e296825b.json)
 
 ---
 
@@ -229,6 +297,28 @@ Based on information received by the Acting Inspector General of Police regardin
 ...
 
 [Data](articles/414c757b.json)
+
+---
+
+### No survivors in Russian passenger plane crash near China border, local reports say
+
+*2025-07-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110809/no-survivors-in-russian-passenger-plane-crash-near-china-border-local-reports-say) · `en`
+
+A Russian passenger aircraft crashed in the Amur region near the China border on Thursday. As per preliminary reports there were no survivors, as reported by Russian news agency.
+
+Russian Antonov-24, operated by Angara airlines, was carrying 40 people when it lost contact with air traffic controllers, local emergencies ministry said.
+
+“Rescuers locate burning fuselage of missing Russian passenger plan,” emergency officials told Reuters.
+
+The plane dropped off radar screens while approaching its destination of Tynda, a town in the Amur region bordering China.
+
+According to preliminary data, there were 43 passengers, including five children, and six crew members on board, regional governor Vasily Orlov told Reuters.
+
+“All necessary forces and means have been deployed to search for the plane,” the governor wrote on Telegram.
+
+...
+
+[Data](articles/6330184b.json)
 
 ---
 
@@ -340,9 +430,9 @@ The incident is considered one of the worst environmental disasters in the count
 
 According to the Supreme Court’s judgment, the compensation is to be paid to the Secretary to the Treasury.
 
-The Supreme Court also held that the then Minister in charge of the subject, Nalaka Godahewa, and the Marine Environment Protection Authority (MEPA) violated fundamental human rights by failing to take appropriate action to prevent the environmental catastrophe.
+The Supreme Court ruling states that the respondent should within one year from the date of the judgment, must make an initial payment of USD 1 billion and it can be paid in installments.
 
-The judgment was delivered by a five-judge bench of the Supreme Court, presided over by Chief Justice Justice Murdu Fernando.
+The Supreme Court also ordered the establishment of the MV X-Press Pearl Compensation Commission which will be chaired by retired Supreme Court Justice E.A.G.R. Amarasekera.
 
 ...
 
@@ -1711,99 +1801,5 @@ Many who are critical of the Anura administration still make the excuse that “
 ...
 
 [Data](articles/eef6f0b8.json)
-
----
-
-### மூளாய் கலவரம் தொடர்பில் மேலும் மூவர் கைது!
-
-*2025-07-24 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220772) · `ta`
-
-மூளாய் பகுதியில் இடம்பெற்ற கலவரத்துடன் தொடர்புடையவர்கள் என்ற ரீதியில் மேலும் மூவர் புதன்கிழமை (23) கைது செய்யப்பட்டனர்.
-
-புதன்கிழமை (23) மூளாய் பகுதி மக்கள் இணைந்து யாழ்ப்பாணம் மாவட்ட பிரதிப் பொலிஸ் மா அதிபர் காரியாலயத்துக்கு முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
-
-இந்நிலையில் யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர், உதவிப் பொலிஸ் அத்தியட்சகர் மற்றும் வட்டுக்கோட்டை  பொலிஸ் நிலைய பொறுப்பதிகாரி ஆகியோரை அழைத்து விரைந்து கைது நடவடிக்கையை முன்னெடுக்குமாறு வலியுறுத்தியிருந்தார்.
-
-அந்தவகையில் மூளாய் - வேரம் பகுதியைச் சேர்ந்த இருவரும், சங்கரத்தை பகுதியைச் சேர்ந்த ஒருவரும் என மூவர், நேற்றிரவு தொடக்கம் புதன்கிழமை (23) அதிகாலை வரையிலான சுற்றிவளைப்பின்போது கைது செய்யப்பட்டனர்.
-
-பொலிஸார் மற்றும் பொலிஸ் விசேட அதிரடிப் படையினர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை முன்னெடுத்தனர். மேலும், மூளாய் பகுதியில் தொடர்ந்தும் பொலிஸ் பாதுகாப்பு நடைமுறைப்படுத்தப்பட்டு வருகின்றது. கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்ற கலவரத்தை அடக்குவதற்கு பொலிஸ் துப்பாக்கிப் பிரயோகம் மேற்கொண்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/fbe50693.json)
-
----
-
-### வடமராட்சி பிரதேச சபையில் செம்மணி மனிதப் புதைகுழியை ஐ.நா பேரவையின் நிபுணர் குழு மேற்பார்வை செய்ய வலியுறுத்தி பிரேரணை ஏகமனதாக நிறைவேற்றம்.
-
-*2025-07-24 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220771) · `ta`
-
-செம்மணிக்கு நீதி கோரி நடத்தப்பட்ட போராட்டத்தின் கோரிக்கைகளை வலுப்படுத்துவதற்காக வடமராட்சி தெற்கு மேற்கு கரவெட்டி பிரதேச சபையில் ஏகமனதாக தீர்மானம் நிறைவேற்றப்பட்டது. வடமராட்சி தெற்கு மேற்கு கரவெட்டி பிரதேச சபையில் சபை அமர்வு புதன்கிழமை (23) காலை 9.00 மணியளவில் தவிசாளர் கு. சுரேந்திரன் தலைமையில் இடம்பெற்றது.
-
-இதன்போது செம்மணி மனித புதைகுழிக்கு நீதி கோரி நடத்தப்பட்ட போராட்டத்தின் கோரிக்கைகளை வலுப்படுத்தும் விதமாக தவிசாளர்னால் முன் மொழிவு மேற்கொள்ளப்பட்டது.
-
-1)செம்மணி உள்ளிட்ட மனித புதைகுழி தொடர்பில் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகத்தின் கீழ் இயங்கும் இலங்கை பொறுப்பு கூறல் செயல் திட்ட அதிகாரிகள் தொழில்நுட்ப ரீதியான உள்ளிட்டை வழங்கவும் காணிப்பில் ஈடுபடவும் இலங்கை அரசாங்கம் அனுமதிக்க வேண்டும்
-
-...
-
-[Data](articles/d0cfcb1f.json)
-
----
-
-### இலங்கையின் 'மூன்றாவது பெரிய' மனித புதைகுழியாக மாறியது செம்மணி!
-
-*2025-07-24 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220770) · `ta`
-
-நான்கு அல்லது ஐந்து வயது மதிக்கத்தக்க பிள்ளைகளின் எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்ட, போரினால் பாதிக்கப்பட்ட வடக்கில் புதிதாகக் கண்டுபிடிக்கப்பட்ட மனித புதைகுழி, அடையாளம் காணப்பட்ட மனித எச்சங்களின் எண்ணிக்கையின் அடிப்படையில் நாட்டின் மூன்றாவது பெரிய புதைகுழியாகும்.
-
-2025 மே மாத நடுப்பகுதியில் இருந்து செம்மணி சித்துப்பாத்தி இந்து மயானத்தில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழியில் மேற்கொள்ளப்பட்ட அகழ்வாய்வில் இதுவரை 85 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதோடு, அவற்றில் சிறுவர்களின் எச்சங்களும் அடங்கும்.
-
-முன்னர் அடையாளம் காணப்பட்ட மூன்றாவது பெரிய மனித புதைகுழி மன்னாரில் உள்ள திருக்கேதீஸ்வரம் புதைகுழி ஆகும், 2023 இல் அந்த புதைகுழியில் 82 மனித உடல்களின் எச்சங்கள் கண்டுபிடிக்கப்பட்டன.
-
-இரண்டாம் கட்ட அகழ்வாய்வின் 18ஆவது நாளான ஜூலை 23 புதன்கிழமை செம்மணி மனித புதைகுழி வளாகத்தில் இருந்து ஐந்து புதிய மனித மண்டை ஓடுகள் கண்டுபிடிக்கப்பட்டதாக சட்டத்தரணி வி.எஸ். நிரஞ்சன் ஊடங்களுக்குத் தெரிவித்தார்.
-
-...
-
-[Data](articles/4a077002.json)
-
----
-
-### 2007ஆம் ஆண்டின் 07ஆம் இலக்க கம்பெனிகள் (திருத்தச்) சட்டமூலம் திருத்தங்களுடன் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டது
-
-*2025-07-24 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220769) · `ta`
-
-2007ஆம் ஆண்டின் 07ஆம் இலக்க கம்பெனிகள் (திருத்தச்) சட்டமூலம் திருத்தங்களுடன் புதன்கிழமை (23) பாராளுமன்றத்தில் நிறைவேற்றப்பட்டது.
-
-கம்பெனிகள் (திருத்தச்) சட்டமூலம் தொடர்பான இரண்டாவது மதிப்பீட்டு விவாதம் புதன்கிழமை (23) காலை 11.30
-
-மணி முதல் மாலை 5  மணிவரை இடம்பெற்றதுடன், விவாதத்தின் முடிவில் இது வாக்கெடுப்பின்றி திருத்தங்களுடன் நிறைவேற்றப்பட்டது.
-
-2007ஆம் ஆண்டின் 07ஆம் இலக்க கம்பெனிகள் (திருத்தச்) சட்டமூலம் முதலாவது மதிப்பீட்டுக்காக 2025.06.05ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டிருந்தது.
-
-◼️
-
-[Data](articles/18410b90.json)
-
----
-
-### அடுத்த பிரதம நீதியரசராக பிரீதி பத்மன் சூரசேன அரசியலமைப்பு பேரவை ஏகமனதாக அங்கீகாரம்
-
-*2025-07-24 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/220768) · `ta`
-
-அடுத்த பிரதம நீதியரசர் பதவிக்கு பரிந்துரைக்கப்பட்டிருந்த உயர்நீதிமன்ற நீதிபதி பிரீதி பத்மன் சூரசேனவை அரசியலமைப்பு பேரவை ஏகனமதாக அங்கீகரித்துள்ளது.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க அரசியலமைப்பு பேரவைக்கு உயர்நீதிமன்ற நீதிபதி பிரீதி பத்மன் சூரசேனவின் பெயரை பரிந்துரைத்திருந்தார்.
-
-இக்கூட்டத்தின் முதல்விடயமாக அடுத்த பிரதம நீதியரசர் பதவிக்கான வெற்றிடத்தினை நிரப்புகின்ற விடயம் எடுத்துக்கொள்ளப்பட்டது.
-
-இதன்போது, ஜனாதிபதியின் பரிந்துரை வெளிப்படுத்தப்பட்ட நிலையில் அதனை அரசியலமைப்பு பேரவையின் அங்கத்தவர்கள் ஏகமனதாக அங்கீகரித்தார்கள்.
-
-உயர்நீதிமன்ற நீதிபதிகள் குழாமில் சிரஷ்டத்துவம் மிக்கவரான நீதிபதி பிரீதி பத்மன் சூரசேன, முன்னர் நீதிச்சேவை ஆணைக்குழுவின் உறுப்பினராகவும் செயற்பட்டிருந்தார்.
-
-அத்துடன், அவரது தொழில்வாண்மைக் காலத்தில் பல உயர்மட்ட வழக்குகளுக்கும் தலைமை தாங்கியுள்ளதோடு இடைநீக்கம் செய்யப்பட்டுள்ள பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் மீதான குற்றச்சாட்டுகளை விசாரிக்கும் பாராளுமன்றக் குழுவின் தலைவராகவும் பணியாற்றியுள்ளார்.
-
-...
-
-[Data](articles/86f1fd71.json)
 
 ---

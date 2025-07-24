@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 16:22:31**
+As of **2025-07-24 16:34:22**
 
 ## Newspaper Stats
 
-*Scraped **66,551** Articles*
+*Scraped **66,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,384
 adaderanalk | 8,171
-tamilmirrorlk | 9,601
+tamilmirrorlk | 9,602
 virakesarilk | 11,086
-adaderanasinhalalk | 11,427
+adaderanasinhalalk | 11,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.1%) of 66,551 articles have been extended.
+61,973 (93.1%) of 66,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### තුර්කියේ ළැව්ගිනි - 10 දෙනෙකු මරුට
+
+*2025-07-24 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212592) · `si`
+
+තුර්කියේ වයඹ දිග කොටසේ හටගෙන ඇති ළැව්ගිනි පාලනය කිරීමේ මෙහෙයුම්වල නිරතව සිටි ගිනි නිවීමේ භටයින්ගෙන් 10 දෙනෙකු ළැව්ගින්නට හසුවී මිය ගොස් තිබේ.
+
+එහිදී තුවාල ලැබූ තවත් ගිනිනිවන භටයින් 14 දෙනෙක් රෝහල්ගතව ප්‍රතිකාර ලබන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+වයඹදිග තුර්කියේ එස්කිශෙහෙර් පළාතේ පවතින අධික උෂ්ණත්වය සහ දැඩි සුළං තත්ත්වය හේතුවෙන් අඟහරුවාදා (22) උදෑසන මෙම ප්‍රබල ළැව්ගිනි තත්ත්වය හට ගෙන තිබුණි.
+
+ඒ සමග ගින්න පාලනය කිරීම සඳහා ගිනිනිවීමේ භටපිරිස් යෙදවීමට බලධාරීන් කටයුතු කර ඇත.
+
+ගින්න පාලනය කිරීම සඳහා මැදිහත්වූ 24 දෙනෙකුගෙන් යුත් භට පිරිස ගින්නට හසුවී ඇති අතර, ඔවුන් මුදවාගනිමින් රෝහල්ගත කිරීමට පසුව පියවර ගෙන තිබුණි.
+
+තුවාලකරුවන් රෝහල්ගත කිරීමෙන් අනතුරුව ඒ අතරින් 10 දෙනෙකු මෙලෙස මියගොස් තිබේ.
+
+සෙසු 14 දෙනා රෝහල්ගතව ප්‍රතිකාර ලබන බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+තුර්කියේ මධ්‍යම සහ බස්නාහිර ප්‍රදේශවල මේ වන විටත් ළැව්ගිනි සක්‍රීය තත්ත්වයේ පවතින බව තුර්කි මාධ්‍ය සඳහන් කරයි.
+
+මේ හේතුවෙන් අවදානමට ලක්වී ඇති කලාපවල වෙසෙන පිරිස් කඩිනමින් ආරක්ෂිත ස්ථාන වෙත යොමු කිරීමට බලධාරීන් පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/5b768f0f.json)
+
+---
+
+### 6 இராஜதந்திரிகள் நற்சான்றிதழ்களை கையளித்தனர்
+
+*2025-07-24 16:14:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/6-இராஜதந்திரிகள்-நற்சான்றிதழ்களை-கையளித்தனர்/46-361695) · `ta`
+
+இலங்கைக்கான ஐந்து புதிய வெளிநாட்டுத் தூதுவர்களும் ஒரு உயர்ஸ்தானிகரும் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவிடம் தங்கள் நற்சான்றிதழ்களை வியாழக்கிழமை (24) காலை உத்தியோகபூர்வமாக கையளித்தனர்.
+
+இலங்கைக்கும் கசகஸ்தானுக்கும் இடையிலான இராஜதந்திர உறவுகளில் ஒரு மைல்கல்லைக் குறிக்கும் வகையில், இலங்கையில் முதன்முதலில் நிறுவப்பட்ட  கசகஸ்தான் தூதரகத்திற்கு தூதுவராக நியமிக்கப்பட்டுள்ள சேர்கெய் விக்டோரோவும் (Mr. Sergey Viktorov)   நற்சான்றிதழ்களை கையளித்த இராஜதந்திரிகளில் அடங்குகிறார். இலங்கையில் தனது தூதரகத்தைத் திறந்த முதல் மத்திய ஆசிய நாடு கசகஸ்தான் ஆகும்.
+
+இது தவிர, எரித்திரியா இராஜ்ஜியம், உஸ்பெகிஸ்தான் குடியரசு, ஜோர்டானின் ஹசேமைட் இராஜ்ஜியம் ,பூட்டான் இராஜ்ஜியம் என்பவற்றுக்கான தூதுவர்களும் பிஜி குடியரசின் புதிய உயர்ஸ்தானிகரும் இவ்வாறு  நியமிக்கப்பட்டுள்ளனர்.
+
+01.  அலெம் வோல்டெமரியம் (Mr. Alem Woldemariam)  - புது டில்லிக்கான  எரித்திரியா  இராஜ்ஜிய வதிவிடத் தூதுவர்
+
+02.  ஜக்ன்நாத் சாமி (Mr. Jagnnath Sami) - புது டில்லிக்கான  பிஜி குடியரசின் வதிவிட  உயர் ஸ்தானிகர்,
+
+...
+
+[Data](articles/8a04f481.json)
+
+---
 
 ### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම 2026 වසරේ එංගලන්තයට
 
@@ -1789,43 +1837,5 @@ President Trump made the post, modifying an earlier post which said he will give
 ...
 
 [Data](articles/9b345ff6.json)
-
----
-
-### Sri Lanka court faults Ranil’s 2022 emergency declaration restricting future Presidents
-
-*2025-07-24 07:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-court-faults-ranils-2022-emergency-declaration-restricting-future-presidents-232510/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court has ruled that ex-President Ranil Wickremesinghe was wrong in declaring emergency in 2022 soon after he was elected to the post by the parliament and ordered the attorney general to issue instructions to future presidents on similar actions.
-
-Justice Yasantha Kodagoda in the ruling the declaration of July 17, 2022 and regulations on July 18 are “are a nullity and is deemed to have never had the recognition of the law.”
-
-“The Attorney General is directed to, within three (3) months from the date of this Judgment incorporate the principles of law contained in this Judgment into a detailed legal advisory, and forward such advisory to the Office of His Excellency the President for necessary consideration,” Justice Kodagoda said.
-
-“A copy of that advisory is to be filed of record in this Court.
-
-...
-
-[Data](articles/9d83dffd.json)
-
----
-
-### දිවයින පුරා ආබාධිත වනඅලි 20ක්
-
-*2025-07-24 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212570) · `si`
-
-දිවයින පුරා ආබාධිත තත්ත්වයේ පසුවන වනඅලි 20 දෙනෙකු සඳහා වනජීවි නිලධාරීන් විසින් ප්‍රතිකාර සිදුකරමින් පවතින බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
-
-ප්‍රතිකාර ලබන වන අලින්ගෙන් වැඩි දෙනෙකු වෙඩි වැදීම්වලට සහ මදුවලට හසුවී පාද ආබාධයට ලක්වූ අලින් බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-ඒ අනුව අනුරාධපුර වනජීවි කලාපයේ වන අලින් 8 දෙනෙකු, පොළොන්නරුව වනජීවි කලාපයේ වන අලින් සිව්දෙනෙකු, වයඹ වනජිවි කලාපයේ වන අලින් තිදෙනෙකු සහ ඌව වනජීවි කලාපයේ වන අලින් පස් දෙනෙකු එලෙස ප්‍රතිකාර ලබන බව සඳහන් වේ.
-
-මේ අතර වනජීවී දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් රන්ජන් මාරසිංහ මහතා පැවසුවේ දිගම්පතහ ප්‍රදේශයෙන් වාර්තා වු වන අලි මරණ තුන සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීම සඳහා අවශ්‍ය තාක්ෂණික සහ වෙනත් සහය ලබාදෙන ලෙසට පොලිස්පතිවරයාගෙන් ඉල්ලීමක් කර ඇති බවයි.
-
-එමෙන්ම සංවිධානාත්මක කණ්ඩායමක් විසින් වන අලින් ඝාතනය සිදුකරන බව සත්ත්ව සුබසාධක ප්‍රජාව නියෝජනය කරමින් ඊයේ (23) පැවති මාධ්‍ය හමුවකට එක්වෙමින් පුජ්‍ය පාගොඩ ජනිතවංශ හිමි පැවසුවේය.
-
-◼️
-
-[Data](articles/80e1734b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-24 12:27:19**
+As of **2025-07-24 12:50:35**
 
 ## Newspaper Stats
 
-*Scraped **66,503** Articles*
+*Scraped **66,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 4,068
 dailyftlk | 4,703
 dailymirrorlk | 4,733
 adalk | 6,381
-adaderanalk | 8,160
-tamilmirrorlk | 9,591
+adaderanalk | 8,163
+tamilmirrorlk | 9,593
 virakesarilk | 11,076
-adaderanasinhalalk | 11,418
+adaderanasinhalalk | 11,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.2%) of 66,503 articles have been extended.
+61,973 (93.2%) of 66,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-24 (Thursday)
+
+### මන්ත්‍රී රෝහිතගේ බෑනා අධිකරණයට භාරවෙයි
+
+*2025-07-24 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212583) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ බෑනා වන ධනුෂ්ක වීරක්කොඩි මහතා මීට සුළු මොහොතකට පෙර මතුගම අධිකරණය වෙත ඉදිරිපත් වී තිබේ.
+
+◼️
+
+[Data](articles/414c757b.json)
+
+---
+
+### “வாயை மூடச் சொன்னதுக்கு மன்னியுங்கள்”
+
+*2025-07-24 12:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாயை-மூடச்-சொன்னதுக்கு-மன்னியுங்கள்/175-361677) · `ta`
+
+புதன்கிழமை (23)  சபாநாயகர் ஜகத் விக்ரமரத்னவை வாயை மூடச் சொன்னதற்காக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ரோகிணி கவிரத்ன, வியாழக்கிழமை (24)    மன்னிப்பு கேட்டார்.
+
+"சபாநாயகர் அந்த நேரத்தில் நடந்து கொண்ட விதம் காரணமாக நான் ஆக்ரோஷமான வார்த்தைகளைப் பயன்படுத்த வேண்டிய கட்டாயம் ஏற்பட்டது. எனது ஒழுக்கம் எங்கே என்று சபாநாயகர் கேள்வி எழுப்பினார், மேலும் எனது மன்னிப்பு அந்தக் கேள்விக்கான பதில்" என்று  கவிரத்ன கூறினார்.
+
+மேலும், சபைத் தலைவர் பிமல் ரத்நாயக்க தனது சிறப்புரிமைகளை மீறியதாக பாராளுமன்ற உறுப்பினர் கூறினார்.
+
+"நான் ஒரு கொலைகாரனின் மகள் என்று சபைத் தலைவர் கூறினார். என் தந்தை யாரையும் கொல்லவில்லை, ஆனால் மாத்தளை மாவட்ட மக்களுக்கு உயிர் கொடுத்தார்," என்று அவர் மேலும் கூறினார்.
+
+இருப்பினும், 1989 ஆம் ஆண்டு ஐக்கிய தேசியக் கட்சி அரசாங்கத்தின் போது பல சித்திரவதை அறைகள் இருந்ததை அவர் ஏற்றுக்கொண்டார்.
+
+◼️
+
+[Data](articles/110ddafd.json)
+
+---
+
+### එක්ස්ප්‍රස් පර්ල් නඩුවේ තීන්දුව දෙයි - වන්දිය අ. ඩො. බිලියන 1ක්
+
+*2025-07-24 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212582) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනිගැනීමේ සිද්ධියෙන් ඇතිවූ පාරිසරික මෙන්ම ආර්ථික හානිය වෙනුවෙන් අමෙරිකානු ඩොලර් බිලියන 1ක වන්දියක් ගෙවන ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් අදාළ නෞකා සමාගමට නියම කර තිබේ.
+
+එම වන්දි මුදල් භාණ්ඩාගාර ලේකම්වරයාට ගෙවිය යුතු බවට තීන්දුවේ සඳහන් ය.
+
+ඊට අමතරව මෙම ඛේදවාචකය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් එවක විෂයභාර අමාත්‍ය නාලක ගොඩහේවා, සමුද්‍ර දූෂණ වැළැක්වීමේ අධිකාරිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර තිබෙන බවත් ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර ඇත.
+
+අදාළ ඛේදවාචකය තුළින් සිදුවූ හානිය වෙනුවෙන් කාදිනල් අතිඋතුම් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශ්ව කිහිපයක් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම්වල තීන්දුව ලබාදෙමින් අගවිනිසුරු මුර්දු ප්‍රනාන්දු ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/f5856081.json)
+
+---
 
 ### தமிழனின் கலை வண்ணம் (வீடி​​யோ இ​ணைப்பு)
 
@@ -41,6 +91,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c614cd06.json)
+
+---
+
+### தமிழனின் கலை வண்ணம் (வீடி​​யோ இ​ணைப்பு)
+
+*2025-07-24 12:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழனின்-கலை-வண்ணம்-வீடி-யோ-இ-ணைப்பு/175-361676) · `ta`
+
+இலங்கையில் ராஜராஜ சோழன் காலத்து அறிவியல் இன்று வரை இயங்குகிறது  தமிழன் கல்லிலே கலை வண்ணம் கண்டான்
+
+◼️
+
+[Data](articles/d24891c7.json)
 
 ---
 
@@ -160,6 +222,28 @@ The film festival is part of events to celebrate 55 years of diplomatic ties wit
 
 ---
 
+### Over Rs. 3 bln earned from issuance of import & export control licenses in 2024
+
+*2025-07-24 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110806/over-rs-3-bln-earned-from-issuance-of-import-export-control-licenses-in-2024) · `en`
+
+The Department of Import and Export Control has reported a revenue of Rs. 3.7 billion for the year 2024, generated through the issuance of import and export control licenses.
+
+According to the 2024 performance report of the Department, this marks a 13% increase in revenue compared to the year 2023.
+
+A total of 17,010 import and export licenses were issued during the year, the Department said.
+
+The highest number of licenses were granted for the importation of mobile phones, communication equipment, and other equipment.
+
+Additionally, there was a notable increase in the issuance of licenses for the import and export of chemicals, fertilizers, pesticides, and industrial raw materials.
+
+Between June and December 2024, approval was granted for the importation of 300,000 metric tons of maize for animal feed production. During this period, 2,222 import licenses were issued to import maize, which represents an increase compared to the previous year.
+
+...
+
+[Data](articles/03ef64a2.json)
+
+---
+
 ### தாய்லாந்து - கம்போடியா இடையே பீரங்கி சண்டை
 
 *2025-07-24 11:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-இடையே-பீரங்கி-சண்டை/50-361670) · `ta`
@@ -175,6 +259,22 @@ The film festival is part of events to celebrate 55 years of diplomatic ties wit
 ...
 
 [Data](articles/5c9ec040.json)
+
+---
+
+### President arrives in Parliament
+
+*2025-07-24 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110805/president-arrives-in-parliament-) · `en`
+
+President Anura Kumara Dissanayake arrived in Parliament, a short while ago, Ada Derana reporter said.
+
+An adjournment debate on the proposed education reforms is currently underway.
+
+Accordingly, President Dissanayake is scheduled to express his views on the proposed education reforms in Parliament today.
+
+◼️
+
+[Data](articles/a728821a.json)
 
 ---
 
@@ -275,6 +375,26 @@ The film festival is part of events to celebrate 55 years of diplomatic ties wit
 ◼️
 
 [Data](articles/46a943a1.json)
+
+---
+
+### SJB member elected Chairman of Weligama PS after open ballot
+
+*2025-07-24 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110803/sjb-member-elected-chairman-of-weligama-ps-after-open-ballot-) · `en`
+
+Samagi Jana Balawegaya (SJB) member Lasantha Wickramasekara has been elected as new the Chairman of the Weligama Pradeshiya Sabha.
+
+SJB Councilor Lasantha Wickramasekara received 23 votes when an open ballot took place to elect the new chairman for the Pradeshiya Sabha.
+
+The National People’s Power (NPP) contestant for the post of chairman received 22 votes.
+
+Meanwhile, opposition councilor Denagama Rahula Thero was elected the Deputy Chairman of Pradeshiya Sabha.
+
+The vote to elect the chairman of the Weligama Pradeshiya Sabha was delayed on multiple occasions due to various issues.
+
+◼️
+
+[Data](articles/cfe02f45.json)
 
 ---
 
@@ -554,9 +674,17 @@ The skirmishes came after Thailand recalled its ambassador to Cambodia late on J
 
 *2025-07-24 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110800/sc-defers-sentencing-in-contempt-of-court-case-filed-against-immigration-controller-general-) · `en`
 
-The Supreme Court has deferred the sentencing to September 23 in the contempt of court case filed against Harsha Illukpitiya, the Controller General of Immigration and Emigration, who has pleaded guilty.
+The Supreme Court today deferred the sentencing in the contempt of court case filed against Harsha Illukpitiya, to September 23, Ada Derana reporter said.
 
-◼️
+The Supreme Court was due to sentence in the case after Controller General Harsha Illukpitiya, pleaded guilty to the contempt of court charge.
+
+The Controller General of Immigration and Emigration, Harsha Illukpitiya, is accused of being in contempt of court after failing to enforce a court order related to the e-visa issuance process.
+
+On September 13, 2024, the Supreme Court ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa issuance system.
+
+The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue.
+
+...
 
 [Data](articles/4b881f84.json)
 
@@ -1661,129 +1789,5 @@ Start your day with a glass of fresh coconut water to hydrate your body and skin
 ...
 
 [Data](articles/a8b420e1.json)
-
----
-
-### Beyond the Echo Chamber: Why diversity is Sri Lanka’s ultimate strategic asset
-
-*2025-07-23 22:24:00* · [`islandlk`](http://island.lk/beyond-the-echo-chamber-why-diversity-is-sri-lankas-ultimate-strategic-asset/) · `en`
-
-In a nation standing at a crossroads of economic recovery and social reconciliation, the dialogue surrounding diversity and inclusion has never been more critical. Moving beyond its frequent characterization as a Western corporate buzzword, a recent high-level discussion framed diversity as a cornerstone for Sri Lanka’s future prosperity and unity. The second day of the International HR Conference, hosted by the Chartered Institute of Personnel Management (CIPM) Sri Lanka on June 3rd at the Monarch Imperial in Kotte, convened a powerhouse panel of business leaders to dissect the theme, “Diversity for Creativity: Strengthening Social Cohesion.” The conversation that unfolded was a masterclass in shifting the narrative from diversity as a compliance metric to diversity as a strategic, non-negotiable imperative for innovation and national healing.
-
-...
-
-[Data](articles/4537c540.json)
-
----
-
-### SLT-MOBITEL launches enhanced ‘Home 4G LTE Broadband’ offering more value for every Sri Lankan home
-
-*2025-07-23 22:24:00* · [`islandlk`](http://island.lk/slt-mobitel-launches-enhanced-home-4g-lte-broadband-offering-more-value-for-every-sri-lankan-home/) · `en`
-
-SLT-MOBITEL has unveiled a revamped Home 4G LTE Broadband portfolio offering more value and simplified choices for every Sri Lankan home.
-
-The comprehensive rebrand marks a bold leap forward in delivering smarter, more affordable broadband for every Sri Lankan home. The newly introduced SLT-MOBITEL HOME 4G LTE packages are simplified and value-packed, also thoughtfully designed to meet the full spectrum of customer expectations, from data volume, speed, budget, or lifestyle.
-
-With attractive new connection charges and enhanced data allocations, these plans make high-quality broadband more accessible. The strategic transformation reinforces SLT-MOBITEL’s unwavering commitment to innovation, empowering households across the nation with flexible, future-ready, and dependable connectivity.
-
-...
-
-[Data](articles/5a67a7e4.json)
-
----
-
-### Experts discuss sustainability-linked opportunities and challenges for Sri Lanka’s textile and apparel sector
-
-*2025-07-23 22:22:00* · [`islandlk`](http://island.lk/experts-discuss-sustainability-linked-opportunities-and-challenges-for-sri-lankas-textile-and-apparel-sector/) · `en`
-
-A Capacity Building Workshop on Sustainability Impact Measurement and Reporting for Sri Lanka’s Textile and Apparel Sector was jointly organized recently by the Global Reporting Initiative (GRI), Sustainable Development Council, Joint Apparel Association Forum (JAAF) and the Export Development Board.
-
-A key highlight of the Workshop was the Roundtable Discussion on ‘Aligning Business, Policy, and Investment Priorities for Sustainable Growth” that brought together representatives from the textile and apparel industry as well as business support organizations to share insights on important aspects relating to sustainable businesses such as role of standards, sectoral priorities, business and policy alignment and investment and incentivization.
-
-...
-
-[Data](articles/648f1837.json)
-
----
-
-### ලෝක වෙළෙඳපොළේ රිදී මිලේ වාර්තාගත ඉහළ යෑමක්
-
-*2025-07-23 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212566) · `si`
-
-විදෙස් මාධ්‍ය සඳහන් කළේ, අද වනවිට ලෝක වෙළෙඳපොළේ රිදී අවුන්සියක වටිනාකම ඩොලර් 39.40ක් (රුපියල් 11,885) බවය.
-
-ඒ අනුව මෙම වසරේ රිදී මිල 36%කින් ඉහළ ගොස් ඇති අතර, අද දිනයේ පමණක් 0.3%කින් ඉහළගොස් ඇත.
-
-අමෙරිකාව විසින් එරට තීරුබදු ප්‍රතිපත්තිය වෙනස් කිරීමත් සමග රන්, රිදී, ප්ලැටිනම්, පැලේඩියම් වැනි ලෝහවලට ආයෝජකයින් වැඩිවශයෙන් නැඹුරුවීම මෙලෙස රිදී මිලේ ඉහළ යෑමට හේතු වී තිබේ.
-
-මෙහි විශේෂත්වය වන්නේ මෙම වසරේ දී රිදී මිල 36% කින් ඉහළ ගියද, රත්‍රන් මිල ඉහළගොස් ඇත්තේ 31%කින් පමණක් වීමය.
-
-නවතම අනාවරණය අනුව මෙම වසරේ රිදී අවුන්සයක මිල ඩොලර් 42 දක්වා ඉහළ යා හැකිය.
-
-කෙසේ වෙතත් 2011 වසරේ දී රිදී අවුන්සයක වටිනාකම ඩොලර් 49ක් දක්වා ඉහළගොස් තිබේ.
-
-◼️
-
-[Data](articles/d37e6ca2.json)
-
----
-
-### CBSL policy rates decision sends CSE on a bull-run
-
-*2025-07-23 22:19:00* · [`islandlk`](http://island.lk/cbsl-policy-rates-decision-sends-cse-on-a-bull-run/) · `en`
-
-CSE trading was extremely bullish following the Central Bank decision yesterday to keep its policy rate unchanged at 7.75 percent.
-
-Amid these developments both indices moved upwards. The All Share Price Index went up by 161.15 points while S and P SL20 rose by 34.94 points.
-
-Turnover stood at Rs 6.2 billion with nine crossings. Those crossings were reported in Sunshine Holdings where 5.7 million shares crossed for Rs 163.9 million; its shares traded at Rs 28.50, JKH four million shares crossed for Rs 100 million; its shares traded at Rs 25, Sri Lanka Telecom one million shares crossed to the tune of Rs 59 million; its shares traded at Rs 59.
-
-...
-
-[Data](articles/acd5244d.json)
-
----
-
-### யாழ். செம்மணி மனிதப் புதைகுழியில் இன்று 5 மனித எலும்புக்கூடுகள் அடையாளம் ; மொத்த எண்ணிக்கை 85 ஆக உயர்வு
-
-*2025-07-23 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/220760) · `ta`
-
-யாழ்ப்பாணம், அரியாலை செம்மணி சிந்துப்பாத்தி மனித புதைகுழியில் இருந்து இன்று புதன்கிழமை (23) மேலும் 5 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் காப்பு போன்ற வளையம் ஒன்றும் அடையாளம் காணப்பட்டுள்ளது.
-
-இதுவரை அடையாளம் காணப்பட்ட மனித எலும்புக்கூடுகளின் மொத்த எண்ணிக்கை 85 ஆக உயர்ந்துள்ளது , இவற்றில்  67 எலும்புக்கூடுகள் முழுமையாக தோண்டி எடுக்கப்பட்டுள்ளன.
-
-கடந்த மூன்று நாட்களில் 20 மனித எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ள நிலையில் 2 எலும்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளது.
-
-செம்மணி பகுதியில் "தடயவியல் அகழ்வாய்வுத்தளம் இல - 01" மற்றும்  "தடயவியல் அகழ்வாய்வுத்தளம் இல - 02" என நீதிமன்றினால் அடையாளப்படுத்தப்பட்ட மனித புதைகுழிகளில் அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வருகிறது.
-
-இரண்டாம் கட்ட பணிகளுக்காக 45 நாட்கள் நீதிமன்றினால் அனுமதிக்கப்பட்டுள்ள நிலையில் தற்போது இரண்டாம் பகுதி அகழ்வு பணிகள் இன்றைய தினம் 18ஆவது நாளாக முன்னெடுக்கப்பட்டது
-
-அதன் போது இரண்டு மனித புதைகுழிகளில் இருந்தும் இன்றைய தினம் புதன்கிழமை 05 எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-...
-
-[Data](articles/cf270bd8.json)
-
----
-
-### Silver prices surge to highest in 14 years
-
-*2025-07-23 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110788/silver-prices-surge-to-highest-in-14-years-) · `en`
-
-Silver prices surged to their highest in almost 14 years on Wednesday, aided by worries about U.S. tariff policy, signs of tightness in the spot market and growing investor interest in alternatives to gold.
-
-Spot silver was up 0.3% at $39.40 per troy ounce as of 1354 GMT, its highest level since September 2011.
-
-Silver, both a precious and industrial metal, is up 36% this year, outperforming gold’s 31% growth and coming within a whisker of the key $40-per-ounce mark. The metal hit a record high of $49 in 2011.
-
-U.S. President Donald Trump’s plan to impose 50% import tariffs on copper from August 1 and the U.S. import tariffs for Mexico widened the premium of the U.S. futures for silver and other metals against the London benchmarks in July, leading to a growth in lease rates in the spot market.
-
-Gold, silver, platinum and palladium were excluded from Trump’s April reciprocal tariffs.
-
-Spot silver prices may hit $42 per ounce this year, according to experts.
-
-...
-
-[Data](articles/618b14e9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 18:58:58**
+As of **2025-07-25 19:26:11**
 
 ## Newspaper Stats
 
-*Scraped **66,777** Articles*
+*Scraped **66,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,405
 adaderanalk | 8,198
-tamilmirrorlk | 9,647
+tamilmirrorlk | 9,648
 virakesarilk | 11,126
-adaderanasinhalalk | 11,470
+adaderanasinhalalk | 11,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,777 articles have been extended.
+61,973 (92.8%) of 66,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### බස් රථයක් සහ කැබ් රථයක් ගැටී 5ක් රෝහලට
+
+*2025-07-25 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212643) · `si`
+
+අනුරාධපුර - කුරුණෑගල ප්‍රධාන මාර්ගයේ දෙකේ කණුව ප්‍රදේශයේදී බස් රථයක් සහ කැබ් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අද (25) සවස සිදු වූ මෙම අනතුර හේතුවෙන් පස් දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇත.
+
+මෙසේ තුවාල ලබා ඇත්තේ කැබ් රථයේ ගමන් ගත් රියදුරු සහ බස් රථයේ ගමන් ගත් සිව් දෙනෙකු බව වාර්තා වේ.
+
+කෙසේ වෙතත් මෙම අනතුර අතරතුර මාරගයේ ගමන් ගත් මෝටර් රථයක් හා ලොරියක ගැටීමෙන් ද තවත් අනතුරක් සිදු විය.
+
+◼️
+
+[Data](articles/e5ed7db1.json)
+
+---
+
+### இலங்கைக்கு விசா இல்லாத நுழையக்கூடிய நாடுகளின் முழு பட்டியல்
+
+*2025-07-25 18:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விசா-இல்லாத-நுழையக்கூடிய-நாடுகளின்-முழு-பட்டியல்/175-361758) · `ta`
+
+◼️
+
+[Data](articles/c601a73c.json)
+
+---
+
+### සචින්ගේ විශිෂ්ට වාර්තාවට ජෝ රෑට් තවත් ළංවෙයි
+
+*2025-07-25 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212642) · `si`
+
+ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් පිටියේ වැඩිම ලකුණු රැස්කළ පිතිකරුවන් අතර තෙවන ස්ථානය දක්වා ඉදිරියට පැමිණීමට එංගලන්තයේ ජෝ රෑට්ට අද (25) හැකිවිය.
+
+ඉන්දියාවට එරෙහිව මැන්චෙස්ටර්හිදී මේ වනවිට පැවැත්වෙන සිව්වන ටෙස්ට් තරගයේ දී ඔහුට මෙම සුවිශේෂී කඩඉම පසුකර යාමට හැකිවිය.
+
+දිවා ආහාරය සඳහා තරගය නතර කරන විට ජෝ රෑට් පන්දු 115කට මුහුණදෙමින් ලකුණු 63ක් රැස්කරගෙන සිටි අතර, එම ලකුණුත් සමග ඔහු රැස්කළ සමස්ත ලකුණු සංඛ්‍යාව  13,322ක් දක්වා ඉහළ ගියේය.
+
+ඒ සමග ලකුණු 13,289ක් රැස්කර සිටි දකුණු අප්‍රිකාවේ ජැක් කාලිස් සහ ලකුණු 13,288ක් රැස්කර සිටි ඉන්දියාවේ රාහුල් ඩ්‍රාවිඩ් අභිබවා යමින් ජෝ රෑට් තෙවන ස්ථානයට දක්වා ඉහළට පැමණියේය.
+
+එමෙන්ම මෙම වාර්තාවේ දෙවන ස්ථානයේ පසුවන ඔස්ට්‍රේලියාවේ රිකී පොන්ටින් අභිබවා යාමට ජෝ රෑට්ට ලබා ගැනීමට අවශ්‍ය වන්නේ තව ලකුණු 88ක් පමණි.
+
+මෙම වාර්තාවේ පළමු ස්ථානයේ පසුවන්නේ ඉන්දීය සුපිරි පිතිකරු සචින් ටෙන්ඩුල්කාර්ය.
+
+◼️
+
+[Data](articles/bf6248a6.json)
+
+---
+
+### පොලිස් අධිකාරී ලක්ෂ්මන් කුරේ අත්අඩංගුවට ගැනීමෙන් මූලික අයිතිවාසිකම් උල්ලංඝනය වී ඇතැයි තීන්දුවක්
+
+*2025-07-25 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212641) · `si`
+
+හිටපු අමාත්‍ය ජෙයරාජ් ප්‍රනාන්දු පුල්ලේ ඝාතන සිද්ධිය ඇතුළු චෝදනා කිහිපයකට සම්බන්ධ බව කියමින් ත්‍රස්ත විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගත් එවක ගම්පහ පොලිස් අධිකාරීවරයකු වශයෙන් කටයුතු කළ ලක්ෂ්මන් කුරේ මහතා වධ හිංසනයට භාජනය කර අත්අඩංගුවේ රඳවා තැබීම තුළින් පොලිසිය ඔහුගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+
+අගවිනිසුරු මුර්දු ප්‍රනාන්දු, ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ඒ. එච්. එම්.ඩී. නවාස් මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කළේය.
+
+ආරක්ෂක ලේකම්වරයාගේ නියෝගයක් මත බූස්ස බන්ධනාගාරයේ රඳවා සිටියදී මෙම පොලිස් අධිකාරිවරයා නීතිඥ මංජුල බාලසූරිය මහතා මාර්ගයෙන් 2010 වසරේ මෙම මූලික අයිතිවාසිකම් පෙත්සම ශ්‍රේෂ්ඨාධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+අදාළ පෙත්සම විභාගයට ගෙන තීන්දුව ප්‍රකාශයට පත් කරමින් ශ්‍රේෂ්ඨාධිකරණය සඳහන් කළේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 11 සහ 13(2) යන ව්‍යවස්ථාවලින් සහතික කර තිබෙන පෙත්සම්කරුගේ මූලික අයිතිවාසිකම් වග උත්තරකාර පොලිස් නිලධාරීන් විසින් උල්ලංඝනය කර ඇති බවය.
+
+...
+
+[Data](articles/2e95189b.json)
+
+---
 
 ### இதுவரை 74 துப்பாக்கிச் சூடு; 40 பேர் பலி
 
@@ -1753,83 +1821,5 @@ Stocks opened up; ASPI was up 0.16%, or 30.04 points, at 19,409.28; S&P SL20 was
 ...
 
 [Data](articles/83f1c472.json)
-
----
-
-### France will recognise Palestinian state, Macron says
-
-*2025-07-25 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110827/france-will-recognise-palestinian-state-macron-says) · `en`
-
-France will officially recognise a Palestinian state in September, President Emmanuel Macron has said, which will make it the first G7 nation to do so.
-
-In a post on X, Macron said the formal announcement would be made at a session of the UN General Assembly in New York.
-
-“The urgent need today is for the war in Gaza to end and for the civilian population to be rescued. Peace is possible. We need an immediate ceasefire, the release of all hostages, and massive humanitarian aid to the people of Gaza,” he wrote.
-
-Palestinian officials welcomed Macron’s decision, while Israeli Prime Minister Benjamin Netanyahu said the move “rewards terror” following Hamas’s 7 October 2023 attack in Israel.
-
-The US “strongly rejects” Macron’s announcement, Secretary of State Marco Rubio said, calling the decision “reckless”.
-
-The G7 is a group of major industrialised nations, which alongside France includes the US, the UK, Italy, Germany, Canada and Japan.
-
-...
-
-[Data](articles/fc2b4bd9.json)
-
----
-
-### Turkish Minister reaffirms commitment to educational cooperation in meeting with PM
-
-*2025-07-25 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110826/turkish-minister-reaffirms-commitment-to-educational-cooperation-in-meeting-with-pm) · `en`
-
-The Minister of National Education of the Republic of Türkiye, Yusuf Tekin, paid a courtesy call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, yesterday (24 July) at Parliament.
-
-Welcoming the Minister, the Prime Minister recalled the longstanding friendship and cooperation between Sri Lanka and Türkiye, particularly in the spheres of economy, global trade, and education. During the meeting, the Prime Minister highlighted the new proposals in education put forward by Türkiye.
-
-The discussions focused on strengthening bilateral collaboration with an emphasis on education, global trade, logistics, energy, tourism, and healthcare sectors between the two countries, according to the Prime Minister’s Media Division.
-
-...
-
-[Data](articles/b06c4063.json)
-
----
-
-### IMF to assess impact of external risks on Sri Lanka’s economy during fifth review
-
-*2025-07-25 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110825/imf-to-assess-impact-of-external-risks-on-sri-lankas-economy-during-fifth-review) · `en`
-
-The International Monetary Fund (IMF) has acknowledged Sri Lanka’s continued economic progress as the country prepares for its fifth review under the IMF-supported Extended Fund Facility (EFF) arrangement.
-
-Speaking at a press briefing held yesterday (24), IMF Communications Director Julie Kozack provided an update on the status of Sri Lanka’s economic program and upcoming evaluations.
-
-On July 1st, the IMF Executive Board completed the fourth review of Sri Lanka’s program, releasing a tranche of $350 million and bringing the total financial assistance to $1.74 billion.
-
-Kozack highlighted that Sri Lanka’s “ambitious reform agenda continues to deliver commendable outcomes,” noting significant improvements across key economic indicators.
-
-According to Kozack, inflation remains low, revenue collection is on an upward trend, and international reserves continue to grow.
-
-...
-
-[Data](articles/3dcc6d72.json)
-
----
-
-### செம்மணியில் நேற்று 3 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-07-25 08:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-3-எலும்புக்கூடுகள்-அடையாளம்/175-361731) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது மூன்று மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன.
-
-இதன்மூலம் செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் மொத்த எண்ணிக்கை 88ஆக உயர்வடைந்துள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 19 ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது மூன்று மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. ஏற்கனவே அடையாளம் காணப்பட்ட ஒன்பது என்புத் தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-செம்மணி மனிதப் புதைகுழியில் இதுவரை 88 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 76 என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/090e781b.json)
 
 ---

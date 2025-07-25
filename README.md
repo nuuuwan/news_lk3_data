@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 21:32:15**
+As of **2025-07-25 21:49:01**
 
 ## Newspaper Stats
 
-*Scraped **66,800** Articles*
+*Scraped **66,803** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
-colombotelegraphcom | 682
+colombotelegraphcom | 683
 islandlk | 4,078
 economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
-adalk | 6,405
+adalk | 6,407
 adaderanalk | 8,201
 tamilmirrorlk | 9,650
 virakesarilk | 11,135
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,800 articles have been extended.
+61,973 (92.8%) of 66,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### මෙරට ආයෝජන ප්‍රමුඛතා අධ්‍යයනය කිරීමට ජපාන දූත පිරිසක්
+
+*2025-07-25 21:29:36* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ආයෝජන-ප්‍රමුඛතා-අධ්‍යයනය-කිරීමට-ජපාන-දූත-පිරිසක්/11-417507) · `si`
+
+ජපන් රජයේ ආර්ථික, වෙළෙඳ සහ කර්මාන්ත අමාත්‍යාංශයේ සහ ජපානයේ වෙළෙඳ ,වාණිජ සහ කර්මාන්ත ක්ෂේත්‍රවල නියෝජිතයින් පිරිසක් සහ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (24) පස්වරුවේ පැවැත්විණි.
+
+ශ්‍රී ලංකාව තුළ ජපන් ආයෝජන පුළුල් කිරීම සම්බන්ධයෙන් සොයා බැලීමට මෙම ජපන් දූත පිරිස පැමිණ තිබේ.
+
+මෙරට තුළ ආයෝජන ක්ෂේත්‍රයේ පවතින නව ආයෝජන අවස්ථා පිළිබඳව අවධානය යොමු කළ ජපන් දූත පිරිස ඉදිරි දින කිහිපයේදී ශ්‍රී ලංකාවේ රාජ්‍ය සහ පෞද්ගලික සමාගම් සමඟ ඒ පිළිබඳව සාකච්ඡා කිරීමටද නියමිතය.
+
+...
+
+[Data](articles/6b1b8682.json)
+
+---
 
 ### තායිලන්තය දිස්ත්‍රික්ක 8 ක යුද නීතිය ප්‍රකාශයට පත් කරයි
 
@@ -1825,19 +1841,5 @@ The raid was carried out by a team of officers, including the Director of the CC
 ◼️
 
 [Data](articles/4d31386f.json)
-
----
-
-### 1333 Bikeathon மூலம் CCC அறக்கட்டளையுடன் இணைந்து  மனநலத்தை மேம்படுத்தவிருக்கும் Heritance Hotels & Resorts மற்றும் Aitken Spence Travels!
-
-*2025-07-25 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/220893) · `ta`
-
-Aitken Spence Hotels இன் விளம்பர நாமமான  Heritance Hotels and Resorts மற்றும் Aitken Spence Travels ஆகியவை, CCC அறக்கட்டளையால் மனநலம் குறித்த தேசிய விழிப்புணர்வை ஏற்படுத்தவும், மற்றும்  உயிர்காக்கும் 1333 மனநல உதவி எண்ணை அணுக  ஊக்குவிக்கவும், ஏற்பாடு செய்யப்பட்டுள்ள வரவிருக்கும் Bikeathon-க்கான தங்கள் கூட்டாண்மையை அறிவிப்பதில் பெருமிதம் கொள்கின்றன.
-
-1333 Bikeathon, இலங்கை முழுவதும் தெற்கு கடற்கரையிலிருந்து மையப்பகுதி வரை ஒரு சக்திவாய்ந்த பயணத்தை  நடாத்த இருக்கிறது. இந்த பயணத்தில் , பங்கேற்பாளர்கள் Heritance Hotels & Resorts மற்றும் Heritance Ahungalla, Heritance Kandalama, Sentido Heritance Negombo மற்றும் Amethyst Resort Passikudah உள்ளிட்ட Aitken Spence Hotels-களினை தமது பிரத்யேக தங்குமிடங்களாக கொள்ள இருக்கிறார்கள்.
-
-...
-
-[Data](articles/08aa452f.json)
 
 ---

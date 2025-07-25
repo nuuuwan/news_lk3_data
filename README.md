@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 00:26:02**
+As of **2025-07-26 00:38:45**
 
 ## Newspaper Stats
 
-*Scraped **66,811** Articles*
+*Scraped **66,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 683
 islandlk | 4,078
 economynextcom | 4,091
-dailyftlk | 4,721
+dailyftlk | 4,723
 dailymirrorlk | 4,733
 adalk | 6,408
 adaderanalk | 8,202
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,811 articles have been extended.
+61,973 (92.8%) of 66,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Govt. urged to safeguard animals and nature through scientific, humane policies
+
+*2025-07-25 23:10:52* · [`dailyftlk`](https://www.ft.lk/opinion/Govt-urged-to-safeguard-animals-and-nature-through-scientific-humane-policies/14-779489) · `en`
+
+From left: Conservationist Jayantha Wijesinghe, Tails of Freedom’s Shilpa Samaratunge, AWPA Iromi Salgado, Animal Welfare Trust Sharmini Ratnayake, Environmentalist, Conservationist and Wildlife Specialist Rukshan Jayawardena, Venerable Pagoda Janithawansha Thero, Venerable Kumbiyagoda Meththananda Thero, Venerable Thammannagama Mahanama, Kotte Animal Welfare Rehan Samarakone, Rescue Animals Sri Lanka Anusha David, Attorney-at-Law Thanuja Navaratne, Animal Wellness Trust Dr. Krishanthi Rondon Fuentes, and Justice for Animals Madri Jayasekera
+
+A landmark gathering took place in Colombo this Wednesday, bringing together members of the Buddhist clergy, animal welfare organisations, corporate representatives, and citizens. United by a shared sense of urgency, they made a collective appeal to the Government to adopt evidence-based, humane, and sustainable policies to protect animals and nature across Sri Lanka.
+
+...
+
+[Data](articles/80b26390.json)
+
+---
 
 ### Remembering Rajendram Rajamahendran: Legacy  of courage and compassion
 
@@ -73,6 +87,20 @@ What happens in the rural sector and the impact on the entire country must be vi
 ...
 
 [Data](articles/60c74d80.json)
+
+---
+
+### Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal
+
+*2025-07-25 22:59:07* · [`dailyftlk`](https://www.ft.lk/columns/Bait-of-ruble-and-shadow-of-war-Sri-Lanka-s-mercenary-scandal/4-779485) · `en`
+
+The promise of a substantial income, far exceeding what they could ever hope to earn at home, overshadowed the inherent dangers of becoming a foreign fighter
+
+The elaborate deception unravelled the moment they landed on the promised land. Instead of the sworn logistical or support jobs, many found themselves immediately conscripted into the Russian military, handed dilapidated weapons, and hurled onto the brutal frontlines of the Ukraine war. There was no cadre training, no proper personal protective equipment, and certainly no safe, rear-echelon duties. The passports, initially taken for “processing,” were often confiscated by the mercenary recruiting companies in Russia, effectively trapping them in a foreign land with no means of escape. Compounding this betrayal was the bitter language barrier
+
+...
+
+[Data](articles/4bdb0b82.json)
 
 ---
 
@@ -1793,45 +1821,5 @@ READ FULL STATEMENT HERE : IMF Staff Concludes Visit to Sri Lanka
 ...
 
 [Data](articles/dd8f7e30.json)
-
----
-
-### மாலைத்தீவு செல்கிறார் ஜனாதிபதி
-
-*2025-07-25 11:29:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைத்தீவு-செல்கிறார்-ஜனாதிபதி/175-361740) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க மாலைத்தீவுக்கான உத்தியோகபூர்வ விஜயமொன்றை மேற்கொள்ளவுள்ளதாக அமைச்சர் விஜித ஹேரத் தெரிவித்தார்.
-
-மாலைத்தீவு ஜனாதிபதியின் அழைப்பின் பேரில், எதிர்வரும் திங்கட் கிழமை (28)ஆம் திகதி ஜனாதிபதி மாலைத்தீவுக்கான விஜயத்தை மேற்கொள்ளவுள்ளதாக அவர் மேலும் தெரிவித்தார். R
-
-◼️
-
-[Data](articles/0db9b16b.json)
-
----
-
-### சிறுமி கர்ப்பம்: காதலனுக்கு வலை
-
-*2025-07-25 11:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-கர்ப்பம்-காதலனுக்கு-வலை/175-361739) · `ta`
-
-பதினைந்து வயது மற்றும் ஆறு மாத சிறுமியை கர்ப்பமாக்கிய சந்தேக நபரை கைது செய்ய சியம்பலாண்டுவ பொலிஸார் விசாரணைகளை தொடங்கியுள்ளனர்.
-
-சியம்பலாந்துவ காவல் பிரிவுக்குட்பட்ட ருஹுணு தனவ்வ பகுதியைச் சேர்ந்த சிறுமியே இவ்வாறு கர்ப்பிணியாகியுள்ளார்.
-
-சிறுமியின் தாய் சிறுவயதிலிருந்தே அவர்களை விட்டுச் சென்றுவிட்டார், அதே நேரத்தில் மூத்த சகோதரி திருமணமாகி தனித்தனியாக வசித்து வருகிறார்.இரண்டு இளைய சகோதரர்களும் துறவிகளாக மாறிவிட்டனர்.
-
-கூலி வேலை செய்யும் தனது தந்தையின் வீட்டில் சிறுமி வசிக்கிறார். சில மாதங்களாக பாடசாலைக்கு சிறுமி செல்லவில்லை.
-
-அவள் அக்கம் பக்கத்தைச் சேர்ந்த ஒரு இளைஞனுடன் காதல் உறவில் இருந்ததாக விசாரணைகளில் தெரியவந்துள்ளது.
-
-சிறுமி வீட்டில் இருந்தபோது, அவளுடைய காதலன் கணவன் மனைவி போல நடந்து கொண்டான்.
-
-பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் சிறுமியை பொலிஸார்   விசாரித்ததில், அவளுடைய காதலன் பல சந்தர்ப்பங்களில் அவளை பாலியல் வன்கொடுமை செய்ததாக தெரியவந்தது.
-
-சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனையில் அனுமதிக்கப்பட்டு, அவள் கர்ப்பமாக இருப்பது தெரியவந்தது.
-
-◼️
-
-[Data](articles/bb154f4d.json)
 
 ---

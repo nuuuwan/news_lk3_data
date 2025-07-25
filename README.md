@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 16:22:54**
+As of **2025-07-25 16:34:38**
 
 ## Newspaper Stats
 
-*Scraped **66,756** Articles*
+*Scraped **66,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 4,077
 economynextcom | 4,087
 dailyftlk | 4,718
 dailymirrorlk | 4,733
-adalk | 6,403
+adalk | 6,404
 adaderanalk | 8,195
 tamilmirrorlk | 9,643
 virakesarilk | 11,124
-adaderanasinhalalk | 11,464
+adaderanasinhalalk | 11,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,756 articles have been extended.
+61,973 (92.8%) of 66,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### ධුරයට සමුදුන් අගවිනිසුරුවරිය 45 වසරක මතක අවදි කරයි
+
+*2025-07-25 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212634) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණය මඟින් ප්‍රකාශයට පත්කිරීමට යෙදුණු තීන්දු ප්‍රජාතන්ත්‍රවාදය හා නීතියේ ආධිපත්‍යය ශක්තිමත් කිරීමට හේතුවූ බව අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය අද (25) ප්‍රකාශ කළාය.
+
+◼️
+
+[Data](articles/5f9c6d7b.json)
+
+---
 
 ### ‘ஈ’ தொல்லையால்  நிச்சயதார்த்தமே ரத்து:  கிராமத்தை காலி செய்யும் மக்கள்
 
@@ -1797,21 +1809,5 @@ Dr. Jayamaha currently holds Director Posts at the Regional Centre for Strategic
 ...
 
 [Data](articles/191e8728.json)
-
----
-
-### Sri Lanka Economic and Investment Summit 2025 opens registrations
-
-*2025-07-25 05:22:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Economic-and-Investment-Summit-2025-opens-registrations/34-779465) · `en`
-
-The Ceylon Chamber of Commerce has announced that registrations are now open for the Sri Lanka Economic and Investment Summit 2025 (SLEIS), taking place on 2 and 3 December at the Shangri-La Colombo.
-
-This year’s event introduces an enhanced format that builds on the Ceylon Chamber’s flagship Sri Lanka Economic Summit, introducing a stronger investment focus to reflect current national priorities.
-
-Under the theme “Gateway to Growth: Asia’s Emerging Opportunity”, SLEIS 2025 aims to position Sri Lanka as a compelling investment destination at a time when regional supply chains are shifting, and structural reform is back on the agenda. The summit will bring together senior policymakers, private sector leaders, investors, diplomats, and development agencies for two days of strategic dialogue on how Sri Lanka can turn reform into results and position itself as a credible destination for regional investment and trade.
-
-...
-
-[Data](articles/2fb819cf.json)
 
 ---

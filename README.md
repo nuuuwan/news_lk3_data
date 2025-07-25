@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 16:47:47**
+As of **2025-07-25 17:05:43**
 
 ## Newspaper Stats
 
-*Scraped **66,760** Articles*
+*Scraped **66,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,404
 adaderanalk | 8,197
 tamilmirrorlk | 9,643
 virakesarilk | 11,124
-adaderanasinhalalk | 11,465
+adaderanasinhalalk | 11,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,760 articles have been extended.
+61,973 (92.8%) of 66,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීමට අයැදුම්පත් කැඳවයි
+
+*2025-07-25 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212635) · `si`
+
+රාජ්‍ය සේවා කොමිෂන් සභාවේ සාමාජික ධුරයක ඇතිවී තිබෙන පුරප්පාඩුව පිරවීම සඳහා අයැදුම්පත් කැඳවීම ආරම්භ කර ඇත.
+
+ඒ සඳහා වූ අයදුම්පත්‍ර, ශ්‍රී ලංකා පාර්ලිමේන්තු වෙබ් අඩවියෙහි www.parliament.lk පළකර ඇති ආකෘතිය අනුව සකස් කර, සම්පූර්ණ කරන ලද අයැදුම්පත්‍ර 2025 අගෝස්තු 01 දින හෝ එදිනට පෙර යොමු කළ යුතු බව වාර්තා වේ.
+
+අදාළ අයැදුම්පත්‍ර, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ වැඩබලන මහ ලේකම්, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභා කාර්යාලය, ශ්‍රි ලංකා පාර්ලිමේන්තුව, ශ්‍රි ජයවර්ධනපුර, කෝට්ටේ, යන ලිපිනයට ලියාපදිංචි තැපෑලෙන් හෝ constitutionalcouncil@parliament.lk යන විද්‍යුත් ලිපිනයට යොමු කළ යුතු බව ද සදහන්.
+
+එමෙන්ම ලියුම් කවරයේ ඉහළ වම් කෙළවරේ විද්‍යුත් ලිපියෙහි විෂය වශයෙන් ‘රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීම’ යනුවෙන් සඳහන් කළ යුතු වේ.
+
+◼️
+
+[Data](articles/a39903d1.json)
+
+---
 
 ### ධුරයට සමුදුන් අගවිනිසුරුවරිය 45 වසරක මතක අවදි කරයි
 
@@ -38,7 +56,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ශ්‍රේෂ්ඨාධිකරණය මඟින් ප්‍රකාශයට පත්කිරීමට යෙදුණු තීන්දු ප්‍රජාතන්ත්‍රවාදය හා නීතියේ ආධිපත්‍යය ශක්තිමත් කිරීමට හේතුවූ බව අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය අද (25) ප්‍රකාශ කළාය.
 
-◼️
+විශ්‍රාම යාමට නියමිත අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය විශ්‍රාම ගැනීම නිමිත්තෙන් අද ශ්‍රේෂ්ඨාධිකරණයේ පැවැති චාරිතානුකූල සමූදීමේ උත්සවය අමතමින් අගවිනිසුරුවරිය මේ බව කියා සිටියාය.
+
+එහිදී අදහස් පළ කළ අගවිනිසුරුවරිය තමන් මීට වසර 45කට පමණ පෙර නීති ශිෂ්‍යාවක් ලෙස අලුත් කඩේ ප්‍රදේශයට පැමිණි බවත් ඉන් පසුව නීතිඥ සංගමයේ සාමාජිකාවක බවට පත්වී අවසානයේදී ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරියක මෙන්ම අග්‍රවිනිශ්චකාර ධුරයටද පත්වීමට හැකි වූ බව සඳහන් කළාය.
+
+මෙරට ශ්‍රේෂ්ඨාධිකරණ ඉතිහාසයේ 48 වන අගවිනිසුරුවරිය ලෙස පත්වීමට තමාට හැකි වූ බවත් අගවිනිසුරුවරයෙකුගේ කාර්යභාරය හුදෙක් ශ්‍රේෂ්ඨාධිකරණයේ ප්‍රධානියා වශයෙන් කටයුතු කිරීම පමණක් නොවන බවත් ඇය අවධාරණය කළාය.
+
+විනිසුරුවරු අධිකරණයේ ආචාරධර්ම හා සම්මතයන් ආරක්ෂා කිරීමට බැඳී සිටින බවත් එම සම්මතයන් බිඳ දැමීම සමාව දිය නොහැකි පාපයක් බවත් ඇය සඳහන් කළාය.
+
+...
 
 [Data](articles/5f9c6d7b.json)
 
@@ -1795,21 +1821,5 @@ Journalists and storytellers were invited to step inside, ask questions freely, 
 ...
 
 [Data](articles/5563067f.json)
-
----
-
-### Home Lands records highest sales done in a month in history
-
-*2025-07-25 05:27:18* · [`dailyftlk`](https://www.ft.lk/business/Home-Lands-records-highest-sales-done-in-a-month-in-history/34-779468) · `en`
-
-Achieves an impressive Rs. 7.4 b from 104 units in June 2025
-
-Home Lands, has once again reaffirmed its market leadership by achieving a historic milestone in the country’s property sector. The company recorded the highest ever sales turnover in a month by any real estate developer in Sri Lanka, generating an impressive Rs. 7.4 billion in sales from 104 units in June 2025 alone. This landmark achievement was significantly driven by the successful launch of Pentara Residencies, the latest addition to the company’s growing portfolio of premium developments.
-
-This achievement is not only a testament to the strength of the Home Lands brand but also to the continued trust and confidence placed in it by clients, both locally and internationally. The June 2025 performance marks a new benchmark in monthly developer turnover, setting a record in Sri Lanka’s real estate history.
-
-...
-
-[Data](articles/4eb1b01c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 12:27:29**
+As of **2025-07-25 12:50:33**
 
 ## Newspaper Stats
 
-*Scraped **66,708** Articles*
+*Scraped **66,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,400
 adaderanalk | 8,190
-tamilmirrorlk | 9,631
+tamilmirrorlk | 9,632
 virakesarilk | 11,115
-adaderanasinhalalk | 11,452
+adaderanasinhalalk | 11,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,708 articles have been extended.
+61,973 (92.9%) of 66,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### 219 மருந்தகங்களின் உரிமம் ரத்து: அமைச்சர்
+
+*2025-07-25 12:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/219-மருந்தகங்களின்-உரிமம்-ரத்து-அமைச்சர்/175-361742) · `ta`
+
+2025 ஜூலை 18, க்குள் நாட்டில் உள்ள 219 மருந்தகங்களின் உரிமங்களை, தேசிய மருத்துவ ஒழுங்குமுறை ஆணையம் (NMRA)   ரத்து செய்துள்ளதாக சுகாதார அமைச்சர் டாக்டர் நளிந்த ஜெயதிஸ்ஸ  தெரிவித்தார்.
+
+2024-2025 ஆம் ஆண்டுக்கான உரிமங்களைப் புதுப்பிப்பதற்காக 2,039 விண்ணப்பங்களை மருத்துவ ஒழுங்குமுறை ஆணையம் பெற்றுள்ளதாகவும், 1,820 மருந்தகங்களுக்கு மட்டுமே உரிமங்கள் புதுப்பிக்கப்பட்டுள்ளதாகவும் அவர் பாராளுமன்றத்தில், வௌ்ளிக்கிழமை (25) தெரிவித்தார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் கேள்விக்கு பதிலளித்த அமைச்சர், நிரந்தர மருந்தாளுநர்கள் இல்லாததால் 219 மருந்தகங்களில் 137 மருந்தகங்களின் உரிமம் இடைநிறுத்தப்பட்டுள்ளதாகக் கூறினார்.
+
+சமூக மருந்தக நடைமுறைகளுக்கான வழிகாட்டுதல்களைப் பின்பற்றத் தவறியதால் 219 மருந்தகங்களில் 82 மருந்தகங்களின் உரிமங்களைப் புதுப்பிப்பதற்கான விண்ணப்பங்கள் நிராகரிக்கப்பட்டுள்ளதாக அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/813b3d38.json)
+
+---
+
+### තවත් රටවල් 40කට වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කරයි
+
+*2025-07-25 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212621) · `si`
+
+මෙරට සංචාරක ව්‍යාපාරය වර්ධනය කිරීමේ අරමුණින් තවත් රටවල් 40කට වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කළ බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+කොළඹ අද (25) පැවැති උත්සවයකදී අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ මාලදිවයින් ජනාධිපතිවරයාගේ ආරාධනයකට අනුව ජනාධිපති අනුර කුමාර දිසානායක එළැඹෙන සඳුදා මාලදිවයිනේ නිල සංචාරයක නිරත වීමට නියමිත බවය.
+
+"'Hotel Show Colombo 2025'' ප්‍රදර්ශනය අද පෙරවරුවේ කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී ආරම්භ කෙරිණි.
+
+◼️
+
+[Data](articles/07b4ec0c.json)
+
+---
 
 ### ශ්‍රී දළදා මාළිගාවේ සිව් මහා දේවාලයන්හි කප් සිටුවීමේ මංගල්‍යය අද
 
@@ -1733,41 +1767,5 @@ Additionally, new Ambassadors have been appointed for the State of Eritrea, the 
 ...
 
 [Data](articles/84abcb6f.json)
-
----
-
-### Bodies of mother and 2 daughters found in well in Mankulam
-
-*2025-07-24 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110818/bodies-of-mother-and-2-daughters-found-in-well-in-mankulam) · `en`
-
-The bodies of a mother and her two daughters have been recovered from a well located in the garden of a residence in the Panikkankulam area of Mankulam in Mullaitivu today (24), according to Mankulam Police.
-
-Police said that the bodies were found based on information received from the residents of the area.
-
-Accordingly, the bodies of a 38-year-old mother and two children, aged 11-year-old and 4-year-old have been found, the police said.
-
-The bodies were found inside the well in the garden of the house where they lived, while the remains are expected to be sent to the Mankulam Hospital’s morgue for post-mortem.
-
-Police said that investigations are underway to determine whether the deaths were suicides or other causes.
-
-◼️
-
-[Data](articles/2edca560.json)
-
----
-
-### புதிய கல்வி சீர்திருத்தங்களுக்கு ஆசிரியர் சங்கம் எதிர்ப்பு
-
-*2025-07-24 19:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-சீர்திருத்தங்களுக்கு-ஆசிரியர்-சங்கம்-எதிர்ப்பு/175-361706) · `ta`
-
-அரசாங்கத்தின் முன்மொழியப்பட்ட கல்வி சீர்திருத்தங்களுக்கு இலங்கை ஆசிரியர் சங்கம் (CTU) கடுமையான எதிர்ப்பை வெளிப்படுத்தியுள்ளது, ஆலோசனை இல்லாமை, கொள்கையில் முரண்பாடுகள் மற்றும் மாணவர்கள் மீது ஏற்படக்கூடிய எதிர்மறையான தாக்கங்களை இது சுட்டிக்காட்டுகிறது.
-
-CTU செயலாளர் ஜோசப் ஸ்டாலின் கூறுகையில், தொழிற்சங்கம் சீர்திருத்தங்களை "முற்றிலும் எதிர்க்கிறது" என்றார். இந்த சீர்திருத்தம் அவசரமானது என்றும், முக்கிய பங்குதாரர்களின் உள்ளீடு இல்லாதது என்றும் அவர் விவரித்தார்.
-
-"இந்த சீர்திருத்தங்களில் புதிதாக எதுவும் இல்லை - அவை முன்பே விவாதிக்கப்பட்டுள்ளன. கல்வி அமைச்சர் வகுப்பு அளவை 30 மாணவர்களாகக் குறைப்பது பற்றிப் பேசுகிறார், ஆனால் இந்த ஆண்டு அவர் வெளியிட்ட சுற்றறிக்கையில் ஒரு வகுப்பிற்கு 40 மாணவர்கள் கட்டாயமாக்கப்பட்டுள்ளது. இது எப்படி?" என்று ஸ்டாலின் கேள்வி எழுப்பினார்.
-
-...
-
-[Data](articles/5304dbc7.json)
 
 ---

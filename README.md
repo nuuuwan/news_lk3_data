@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 22:36:01**
+As of **2025-07-25 22:49:06**
 
 ## Newspaper Stats
 
-*Scraped **66,805** Articles*
+*Scraped **66,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,408
-adaderanalk | 8,201
+adaderanalk | 8,202
 tamilmirrorlk | 9,650
 virakesarilk | 11,135
 adaderanasinhalalk | 11,477
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,805 articles have been extended.
+61,973 (92.8%) of 66,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### President AKD holds virtual tariff talks with US Trade Representative
+
+*2025-07-25 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110844/president-akd-holds-virtual-tariff-talks-with-us-trade-representative) · `en`
+
+A virtual discussion was held this evening (25) between President Anura Kumara Dissanayake and U.S. Trade Representative (USTR) Jamieson Greer regarding the further reduction of trade tariffs imposed by the United States on Sri Lankan exports.
+
+The primary objective of the virtual meeting was to discuss the further reduction of proposed trade tariffs on Sri Lankan exports and to further strengthen trade and investment relations between the two nations.
+
+The Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with senior officials from the Office of the United States Trade Representative, also participated in the discussion.
+
+◼️
+
+[Data](articles/6a4ff43d.json)
+
+---
 
 ### පසුගිය දින කිහිපය තුළ වනඅලි 21ක් වෙඩි කයි
 
@@ -1829,21 +1845,5 @@ The raid was carried out by a team of officers, including the Director of the CC
 ◼️
 
 [Data](articles/14c0f6df.json)
-
----
-
-### பாடசாலை கட்டடம் இடிந்து விழுந்து 4 சிறுவர்கள் பலி
-
-*2025-07-25 10:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-கட்டடம்-இடிந்து-விழுந்து-4-சிறுவர்கள்-பலி/175-361738) · `ta`
-
-இந்தியாவின் ராஜஸ்தானில் இன்று (25) காலை பாடசாலை கட்டடம் இடிந்து விழுந்ததில் ஏற்பட்ட விபத்தில் நான்கு சிறுவர்கள் உயிரிழந்ததாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-ஜலாவர் மாவட்டத்தில் உள்ள ஒரு அரச பாடசாலையின் ஒற்றை மாடி கட்டடம் இடிந்து விழுந்துள்ளதுடன், விபத்து நடந்த நேரத்தில் ஆசிரியர்கள் மற்றும் ஊழியர்கள் தவிர சுமார் 40 மாணவர்கள் உள்ளே இருந்தனர்.
-
-கட்டடம் பாழடைந்த நிலையில் இருந்ததுடன், இது தொடர்பாக முன்னர் பல முறைப்பாடுகள் முன்வைக்கப்பட்ட நிலையில் இந்த விபத்து நிகழ்ந்துள்ளது.
-
-◼️
-
-[Data](articles/08d3fbdd.json)
 
 ---

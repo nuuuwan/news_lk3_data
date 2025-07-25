@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 16:06:30**
+As of **2025-07-25 16:22:54**
 
 ## Newspaper Stats
 
-*Scraped **66,755** Articles*
+*Scraped **66,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,403
 adaderanalk | 8,195
-tamilmirrorlk | 9,642
+tamilmirrorlk | 9,643
 virakesarilk | 11,124
 adaderanasinhalalk | 11,464
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,755 articles have been extended.
+61,973 (92.8%) of 66,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### ‘ஈ’ தொல்லையால்  நிச்சயதார்த்தமே ரத்து:  கிராமத்தை காலி செய்யும் மக்கள்
+
+*2025-07-25 16:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-தொல்லையால்-நிச்சயதார்த்தமே-ரத்து-கிராமத்தை-காலி-செய்யும்-மக்கள்/175-361752) · `ta`
+
+தொடரும் ஈக்கள் பிரச்சினையால் அங்குள்ள மக்கள் குடியிருப்புகளை காலி செய்து விட்டு வேறு இடத்துக்குச் செல்லும் நிலைக்கு திருச்செங்கோடு அருகே கட்டிபாளையம் கிராமத்தில்  தள்ளப்பட்டுள்ளனர்.
+
+திருச்செங்கோடு அருகே மரப்பரை ஊராட்சிக்கு உட்பட்ட கட்டிபாளையம் கிராமத்தைச் சுற்றி 20-க்கும் அதிகமான கோழிப் பண்ணைகள் உள்ளன. இப்பண்ணைகளில் உள்ள கூடாரத்தின் கீழ் கோழிகளின் எச்சம் மலை போல் குவித்து வைக்கப்படும். அவற்றை குறிப்பிட்ட மாதத்திற்கு ஒரு முறை கோழிப் பண்ணையாளர்கள் விற்பனை செய்வர்.
+
+இந்நிலையில் கோழி எச்சத்தில் இருந்து உற்பத்தியாகும் ஈக்கள் கட்டிபாளையம் சுற்றுவட்டாரத்தில் உள்ள குடியிருப்புகளை சூழ்ந்து கொள்கின்றன. குறிப்பாக, குடியிருப்புகளில் உள்ள உணவுப் பொருட்களின் மீது அவை சூழ்ந்து காணப் படுகின்றன. அந்தப் பொருட்களை மக்கள் பயன்படுத்தும் போது பல்வேறு தொற்று நோய் உள்ளிட்ட உடல் உபாதைகளுக்கு ஆளாவதாக அப்பகுதி மக்கள் புகார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/5d265908.json)
+
+---
 
 ### அரசாங்கத்தின் முக்கிய மூவருக்கு நீதிமன்றம் அதிரடி உத்தரவு
 
@@ -1797,21 +1813,5 @@ Under the theme “Gateway to Growth: Asia’s Emerging Opportunity”, SLEIS 20
 ...
 
 [Data](articles/2fb819cf.json)
-
----
-
-### Land prices surge up to 20% as real estate market responds to lower rates and economic stability
-
-*2025-07-25 05:22:12* · [`dailyftlk`](https://www.ft.lk/business/Land-prices-surge-up-to-20-as-real-estate-market-responds-to-lower-rates-and-economic-stability/34-779464) · `en`
-
-Sri Lanka’s real estate sector is demonstrating robust signs of recovery and renewed investor confidence in 2025, buoyed by a stabilising economy and favourable market conditions.
-
-The latest ‘Real Estate Market Outlook Report 2025 (REMOR25)’ by LankaPropertyWeb (LPW) highlights a significant resurgence across the property landscape, with key indicators pointing towards sustained growth.
-
-One of the most significant indicators of this recovery is the rapid appreciation of land prices in the Western Province. The report indicates an average year-on-year (YoY) increase of 12% in the region for 2025. Suburban areas are leading this surge, with land prices in the Colombo district’s suburban areas experiencing an average 20% increase. Piliyandala, for instance, recorded a 16% price increase, and both Athurugiriya and Homagama experienced 14% YoY growth.
-
-...
-
-[Data](articles/d77ab179.json)
 
 ---

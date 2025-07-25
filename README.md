@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 05:18:23**
+As of **2025-07-25 05:31:05**
 
 ## Newspaper Stats
 
-*Scraped **66,633** Articles*
+*Scraped **66,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,065
 economynextcom | 4,077
-dailyftlk | 4,706
+dailyftlk | 4,708
 dailymirrorlk | 4,733
 adalk | 6,396
 adaderanalk | 8,180
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,633 articles have been extended.
+61,973 (93.0%) of 66,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Impact of emerging tech and AI on jobs: Are companies and workers ready?
+
+*2025-07-25 05:12:55* · [`dailyftlk`](https://www.ft.lk/columns/Impact-of-emerging-tech-and-AI-on-jobs-Are-companies-and-workers-ready/4-779462) · `en`
+
+At the recent SLID–Huawei CXO Forum, I posed a question to the keynote speaker and panel: What is the real impact of AI on jobs? The panel unanimously acknowledged that Artificial Intelligence (AI) and other emerging technologies are rapidly reshaping industries, skills and workplaces—ushering in an era of unprecedented innovation, efficiency, and business transformation.
+
+Yet, alongside these advances come pressing concerns—particularly regarding their implications for employment, migration, and livelihoods. As Dr. Gita Gopinath, First Deputy Managing Director of the IMF, notes, AI’s full impact on productivity remains uncertain, but what is clear is the urgent need to strengthen both digital infrastructure and human capital (IMF Insight).
+
+...
+
+[Data](articles/9f134fa6.json)
+
+---
+
+### APB leads dialogue on technology and cyber risk supervision shaping resilient digital future
+
+*2025-07-25 05:10:56* · [`dailyftlk`](https://www.ft.lk/business/APB-leads-dialogue-on-technology-and-cyber-risk-supervision-shaping-resilient-digital-future/34-779461) · `en`
+
+From left: Moderator, Hatton National Bank Chief Information Security Officer and Senior Vice President Suresh Emmanuel, Central Bank of Sri Lanka Senior Assistant Director – Bank Supervision Department R.M.J. Patabendige, ISACA Vice President Indika Rajakaruna, Commercial Bank of Ceylon Chief Information Security Officer Sunari Dandeniya, and Scybers President Madu Rathnayake
+
+Association of Professional Bankers – Sri Lanka President Anton Arumugam addressing the audience
+
+The accelerating pace of digital transformation has brought the financial services industry to a defining juncture, where the growing threat of cyber risk increasingly shadows the opportunities of technological advancement. This pressing reality was at the forefront of a high-level panel discussion held recently, organised under the Continuing Professional Development Committee (CPDC) of the Association of Professional Bankers (APB), at the Bank of Ceylon Head Office Auditorium.
+
+...
+
+[Data](articles/5f45a1a3.json)
+
+---
 
 ### வெருகல் பிரதேசத்தில் தொல்லியல் சின்னங்களை அடையாளப்படுத்தும் நடவடிக்கை; வெற்றுக் காணிகள் விடுவிக்கப்படும்
 
@@ -1793,41 +1823,5 @@ For decades, India has played a careful balancing act when dealing with global c
 ...
 
 [Data](articles/8cefcae6.json)
-
----
-
-### Japan agrees to continue granting scholarships to Sri Lankan public sector workers
-
-*2025-07-24 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/110810/japan-agrees-to-continue-granting-scholarships-to-sri-lankan-public-sector-workers) · `en`
-
-The government of Japan has signed an agreement to continue its scholarship programme for executive-level government officials in Sri Lanka.
-
-Since 2010, the government of Japan has been offering scholarships on a grant basis through the Japanese Grant Aid for Human Resources Development Scholarship (JDS) Programme.
-
-The programme is funded by the Government of Japan under the Official Development Assistance and implemented through the Japan International Cooperation Agency (JICA).
-
-The scholarship programme has provided 240 opportunities for Master’s Degree programmes and 16 opportunities for PhD programmes from the year 2010 to 2025, the Ministry of Finance stated.
-
-The implementation of the JDS program has been successfully completed under four frameworks from 2010 to 2025, and currently the fourth framework is being implemented from 2022 to 2025.
-
-...
-
-[Data](articles/e9708593.json)
-
----
-
-### தேங்காய், கோப்பி, மாம்பழத் துறைகளை வலுப்படுத்த MDF உடன் SDB வங்கி ஒப்பந்தம்
-
-*2025-07-24 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220807) · `ta`
-
-அவுஸ்திரேலிய அரசாங்கம் நிதியளிக்கும் சந்தை அபிவிருத்தி வசதி (MDF) மற்றும் SDB வங்கி வியாபார அபிவிருத்தி ஆகியவை, தேங்காய், கோப்பி மற்றும் மாம்பழத் துறைகளை வலுப்படுத்தும் நோக்கில் சமீபத்தில் புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டன.
-
-இந் நிகழ்வு SDB வங்கியின் நிறைவேற்று பணிப்பாளர்/பிரதம நிறைவேற்றதிகாரி  கபில ஆரியரத்ன மற்றும் MDF இலங்கைக்கான பணிப்பாளர் மியம் பிராச்சா ஆகியோரின் தலைமையில் நடைபெற்றது.
-
-இந்த ஒப்பந்தத்தின் மூலம், SDB வங்கி மற்றும் MDF ஆகியவை இணைந்து துறை சார்ந்த பங்குதாரர்களுக்கு கூட்டு முதலீட்டு வாய்ப்புகளை உருவாக்கவும், உற்பத்தி மற்றும் பெறுமதி  சேர்ப்பு செயல்முறைகளை மேம்படுத்தவும் தொழிநுட்ப ஆலோசனைகளை வழங்க திட்டமிட்டுள்ளன.
-
-◼️
-
-[Data](articles/0f585dd0.json)
 
 ---

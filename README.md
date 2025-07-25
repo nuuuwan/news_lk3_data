@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 06:10:25**
+As of **2025-07-25 06:36:43**
 
 ## Newspaper Stats
 
-*Scraped **66,655** Articles*
+*Scraped **66,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 678
 islandlk | 4,076
 economynextcom | 4,078
-dailyftlk | 4,716
+dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,396
 adaderanalk | 8,180
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,655 articles have been extended.
+61,973 (93.0%) of 66,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### TISL welcomes SC ruling on X-Press Pearl
+
+*2025-07-25 05:58:50* · [`dailyftlk`](https://www.ft.lk/news/TISL-welcomes-SC-ruling-on-X-Press-Pearl/56-779478) · `en`
+
+Transparency International Sri Lanka (TISL) yesterday welcomed the Supreme Court’s landmark decision to hold both State officials and corporate actors accountable for their roles in one of the worst environmental disasters in the country’s history.
+
+Issuing a statement, TISL noted that the judgment underscores the critical need for transparency, institutional and corporate accountability, as well as stronger enforcement of legal obligations, to prevent future environmental harm, governance failures, and corruption.
+
+...
+
+[Data](articles/6a38d7f4.json)
+
+---
+
+### Sri Lanka Embassy in Doha recovers over Rs. 83 m in compensation in 1H
+
+*2025-07-25 05:41:02* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Embassy-in-Doha-recovers-over-Rs-83-m-in-compensation-in-1H/56-779471) · `en`
+
+The Sri Lanka Embassy in Doha has successfully recovered a total of Rs. 83,159,234 from January to June 2025 as death compensation on behalf of the Next of Kin (NoK) of Sri Lankan nationals who had passed away in Qatar.
+
+The recovered funds have been duly remitted to the Foreign Affairs, Foreign Employment and Tourism Ministry in Colombo, as well as to the respective NoKs of the deceased. This amount includes settlements for cases that had remained pending since 2023.
+
+Out of a total of Rs. 83,159,234, a sum of Rs. 23,389,434 was directly paid to the NoKs through the efforts of the Mission. The remaining Rs. 59,796,800 was recovered by the Mission and subsequently transferred to the Foreign Affairs, Foreign Employment and Tourism Ministry for onward disbursement to the respective NoKs.
+
+...
+
+[Data](articles/599387c4.json)
+
+---
 
 ### Reckless littering  places sacred city  of Anuradhapura at stake
 
@@ -1735,51 +1765,5 @@ The Thai Public Health Ministry said at least 11 civilians had been killed, most
 ...
 
 [Data](articles/eecd5f94.json)
-
----
-
-### Capital market content to be included in Sri Lanka’s proposed education reforms
-
-*2025-07-24 15:38:00* · [`economynextcom`](https://economynext.com/capital-market-content-to-be-included-in-sri-lankas-proposed-education-reforms-232586/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s financial market and education sector officials have discussed including capital market content into the proposed financial literacy curriculum under its new education reforms, the Securities and Exchange Commission said.
-
-Financial literacy is one of 16 core skills essential for students in the 21st century, and comprises knowledge, attitudes, and behaviours necessary for making informed financial decisions, SEC Chairman Hareendra Dissabandara said.
-
-“Financial literacy is not only an essential life competency,” he said, “but also a national solution that can address economic crises and reduce structural imbalances. Unfortunately, it is still largely confined to those who have studied Commerce subjects, when in fact it should be accessible to all.”
-
-A financial literacy seminar was held at the Ministry of Education for stakeholders involved in ongoing education sector reforms to contribute to the integration of financial literacy into the school curriculum.
-
-...
-
-[Data](articles/462d176b.json)
-
----
-
-### රසාරා විජේසූරිය මීටර 5000 අවසන් තරගයට
-
-*2025-07-24 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212588) · `si`
-
-ජර්මනියේ පැවැත්වෙන ලෝක විශ්වවිද්‍යාල ක්‍රීඩා උළෙලේදී මීටර 5000 ඉසව්වේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකාවේ රසාරා විජේසූරිය සමත් වූවාය.
-
-අද (24) පැවති සුදුසුකම් ලැබීමේ තරගයේ දී ඇය විනාඩි 16:00.30කින් තරගය අවසන් කර එම ඉසව්වේ 7වන ස්ථානය දිනාගැනීමත් සමග ඇයට මෙම අවස්ථාව හිමිවිය.
-
-මෙහිදී රසාරා ගතකළ කාලය ඇගේ පෞද්ගලික හොඳම කාලය වන අතර, මෙරට ක්‍රීඩිකාවක මලල ක්‍රීඩා ඉතිහාසයේ දැක් වූ දෙවන හොඳම කාලයද වේ.
-
-රසාරා ඊයේ පැවති මීටර 10000 ඉසව්වට සහභාගි වූ අතර, එහිදී විනාඩි 32:52.20කින් තරගය අවසන් කර නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට ද සමත් විය.
-
-කෙසේ නමුත් ඇය අලුත්කරනු ලැබුවේ ඇය විසින්ම පිහිටුවා තිබූ වාර්තාවක් වන අතර, මෙම වසර තුළදීම දෙවතාවක් එය අලුත්කර තිබුණි.
-
-රසාරා කැලණිය විශ්වවිද්‍යාල නියෝජනය කරමින් මෙම තරගාවලියට සහභාගි වී සිටියි.
-
-මෙවර ලෝක විශ්වවිද්‍යාල ක්‍රීඩා උළෙල ඉකුත් 16 වනදා ආරම්භ වූ අතර, එය එළැඹෙන 27 වනදා අවසන්වීමට නියමිතව ඇත.
-
-මේ සඳහා රටවල් 113ක් නියෝජනය කරමින් ක්‍රීඩික ක්‍රීඩිකාවෝ 7000කට වැඩි පිරිසක් සහභාගි වී සිටියි.
-
-ඔවුන් ක්‍රීඩා 18ක් යටතේ ඉසව් 234ක් වෙනුවෙන් තරග වැඳීමට නියමිතය.
-
-◼️
-
-[Data](articles/0b86b894.json)
 
 ---

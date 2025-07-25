@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 16:34:38**
+As of **2025-07-25 16:47:47**
 
 ## Newspaper Stats
 
-*Scraped **66,758** Articles*
+*Scraped **66,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,087
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,404
-adaderanalk | 8,195
+adaderanalk | 8,197
 tamilmirrorlk | 9,643
 virakesarilk | 11,124
 adaderanasinhalalk | 11,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,465
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,758 articles have been extended.
+61,973 (92.8%) of 66,760 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e2a816b2.json)
+
+---
+
+### Thailand, Cambodia exchange heavy artillery as fighting expands for second day
+
+*2025-07-25 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110837/thailand-cambodia-exchange-heavy-artillery-as-fighting-expands-for-second-day) · `en`
+
+Thailand and Cambodia exchanged heavy artillery fire for a second day on Friday as their worst fighting in over a decade intensified and spread to new areas, despite international calls for a ceasefire.
+
+At least 16 people have been killed and tens of thousands displaced in the escalating border battle.
+
+Both sides have blamed each other for starting the conflict and on Friday ratcheted up the rhetoric, with Thailand accusing Cambodia of deliberately targeting civilians and Cambodia alleging Thailand was using cluster munitions, a controversial and widely condemned ordnance.
+
+Thailand’s acting Prime Minister Phumtham Wechayachai said Cambodia had launched attacks on multiple fronts and Thailand was defending its territory.
+
+“The current situation involves acts of intrusion and aggression that are causing harm to the people’s lives. The situation has intensified and could escalate into a state of war. At present, it’s a confrontation involving heavy weapons,” he told reporters.
+
+...
+
+[Data](articles/44bb9bf8.json)
 
 ---
 
@@ -187,6 +207,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b03ce6ce.json)
+
+---
+
+### Court orders FIB to record statements from Minister, Deputy Minister and Mayor
+
+*2025-07-25 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110836/court-orders-fib-to-record-statements-from-minister-deputy-minister-and-mayor) · `en`
+
+The Mount Lavinia Magistrate has directed the Fraud Investigation Bureau (FIB) to record statements from Minister Wasantha Samarasinghe, Deputy Minister Mahinda Jayasinghe, and the Mayor of the Kaduwela Municipal Council, Ranjan Jayalal.
+
+This order was issued in connection with an ongoing investigation into the alleged leasing of a property belonging to the National Workers’ Institute using a fraudulent deed, said Ada Derana reporter.
+
+Mount Lavinia Magistrate A.D. Chathurika de Silva, delivering the order today (25 July), instructed the FIB to obtain statements from the three public representatives regarding the alleged fraudulent leasing of a two-storey building owned by the institution for Rs. 3.6 million and to submit the extracts.
+
+...
+
+[Data](articles/63b1971e.json)
 
 ---
 
@@ -1775,39 +1811,5 @@ This achievement is not only a testament to the strength of the Home Lands brand
 ...
 
 [Data](articles/4eb1b01c.json)
-
----
-
-### Overseas Realty records  Rs. 4.7 b Profit Before Tax in 1H
-
-*2025-07-25 05:26:23* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-7-b-Profit-Before-Tax-in-1H/34-779467) · `en`
-
-Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 5,258 million and a Group Profit Before Tax of Rs. 4,676 million for the 6 months ending 30 June. The depreciation of the Rupee resulted in a net exchange loss of Rs. 274 million compared to a gain of Rs. 1,076 million recorded in the corresponding period of last year on foreign currency loans.
-
-The Fair Value gain recorded from Investment Properties was Rs. 2,331 million compared to the Fair Value gain of Rs. 1,160 million in the same period of last year.
-
-The company Revenue of Rs. 1402 million at the World Trade Centre, Colombo, was 5% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
-
-...
-
-[Data](articles/45aa7b77.json)
-
----
-
-### Overseas Realty (Ceylon) appoints  Dr. Ranee Jayamaha as new Chairperson
-
-*2025-07-25 05:24:27* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-Ceylon-appoints-Dr-Ranee-Jayamaha-as-new-Chairperson/34-779466) · `en`
-
-Overseas Realty (Ceylon) PLC has announced the appointment of Dr. Ranee Jayamaha as the new Chairperson with effect from 23 July, following the demise of Ajit Jayaratne who served as Chairman since 2021.
-
-Prior to being appointed as Chairperson Dr. Jayamaha was a Director of the Company since 2013.
-
-Dr. Jayamaha graduated from the University of Peradeniya, Sri Lanka, and holds an MSc from the University 01 Stirling, UK, a PhD from the University of Bradford, and an honorary Doctor of the University from Stirling UK.
-
-Dr. Jayamaha currently holds Director Posts at the Regional Centre for Strategic Studies and the Transnational Lanka Ltd.
-
-...
-
-[Data](articles/191e8728.json)
 
 ---

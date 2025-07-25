@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 14:50:51**
+As of **2025-07-25 15:06:41**
 
 ## Newspaper Stats
 
-*Scraped **66,731** Articles*
+*Scraped **66,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,150 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 681
 islandlk | 4,076
-economynextcom | 4,081
+economynextcom | 4,086
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,401
 adaderanalk | 8,195
-tamilmirrorlk | 9,638
-virakesarilk | 11,118
-adaderanasinhalalk | 11,459
+tamilmirrorlk | 9,640
+virakesarilk | 11,120
+adaderanasinhalalk | 11,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,731 articles have been extended.
+61,973 (92.9%) of 66,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### පිරිවැය ආවරණය කෙරෙන විදුලි මිලකරණය අඛණ්ඩව පවත්වා ගත යුතුයි - IMF අවධාරණය කරයි
+
+*2025-07-25 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212629) · `si`
+
+රාජ්‍ය මූල්‍ය අවදානම් අවම කිරීමට සහ බලශක්ති උපයෝගිතාවල මූල්‍ය තිරසරභාවයට සහාය වීම සඳහා පිරිවැය ආවරණය කෙරෙන විදුලි මිලකරණය අඛණ්ඩව පවත්වා ගත යුතු බව ජාත්‍යන්තර මූල්‍ය අරමුදල අවධාරණය කර සිටී. ජා.මූ. අරමුදලේ ශ්‍රී ලංකාව සඳහා වන දූත මණ්ඩල ප්‍රධානී එවන් පපාජෝ(ර්)ජියෝ මහතාගේ නායකත්වය යටතේ වූ ජා.මූ. අරමුදලේ දූත කණ්ඩායම 2025 වසරේ ජූලි 21 සිට 25 දක්වා කොළඹ සංචාරය කළ අතර දූත මෙහෙවර අවසානයේ, පපාජෝ(ර්)ජියෝ මහතා විසින් නිකුත් කළ ප්‍රකාශයේ මේ බව සඳහන් වේ.
+
+මෑත කාලීන සාර්ව ආර්ථික ප්‍රවණතා සහ ජා.මූ. අරමුදලේ විස්තීර්ණ ණය පහසුකම යටතේ බලධාරීන් විසින් ක්‍රියාත්මක කර ගෙන යනු ලබන ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන යටතේ ආර්ථික සහ මූල්‍ය ප්‍රතිපත්ති ක්‍රියාත්මක කිරීමේ ප්‍රගතිය සාකච්ඡා කිරීම එම සංචාරයේ අරමුණ විය.
+
+දූත මෙහෙවර අවසානයේ, පපාජෝ(ර්)ජියෝ මහතා නිකුත් කළ සම්පූර්ණ ප්‍රකාශය පහතින් දැක්වේ.
+
+...
+
+[Data](articles/03925f98.json)
+
+---
+
+### S&P upgrades Pakistan credit rating to B- from CCC+
+
+*2025-07-25 14:45:00* · [`economynextcom`](https://economynext.com/sp-upgrades-pakistan-credit-rating-to-b-from-ccc-232730/) · `en`
+
+ECONMYNEXT – S&P Global Ratings said it is upgrading Pakistan’s sovereign rating from CCC+ to B- on improved budgets and assurances that the country will be able to roll-over maturing debt.
+
+“The stable outlook reflects our expectations that continued economic recovery and government efforts to enhance revenue will stabilize fiscal and debt metrics,” S&P said.
+
+“We also expect that sustained official financing will support Pakistan in meeting its external obligations, and that the country will continue to roll over its commercial credit lines over the next 12 months.
+
+“Downward pressure would emerge if financial support from key bilateral and multilateral partners quickly erodes.”
+
+On July 24, 2025, S&P Global Ratings raised its long-term sovereign credit ratings on Pakistan to ‘B-‘ from ‘CCC+’, and its short-term ratings to ‘B’ from ‘C’. The outlook on the long-term rating is stable.
+
+At the same time, we revised our transfer & convertibility assessment to ‘B-‘ from ‘CCC+’.
+
+...
+
+[Data](articles/9ad1f4b9.json)
+
+---
+
+### வெளிநாட்டு கடன் மறுசீரமைப்பு ஒப்பந்தம் தொடர்பான அமுலாக்கல் கடிதங்களில் இலங்கை - பிரான்ஸ் ஒப்பந்தம்
+
+*2025-07-25 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220912) · `ta`
+
+இலங்கையின் வெளிநாட்டுக் கடனை மறுசீரமைப்பதற்கான அதிகாரப்பூர்வ கடன் குழுவுடன் ஜூன் 26, 2024 அன்று கையெழுத்திடப்பட்ட புரிந்துணர்வு ஒப்பந்தத்தின்படி, பிரான்ஸ் அரசாங்கத்திற்கும் இலங்கை அரசாங்கத்திற்கும் இடையிலான கடன் மறுசீரமைப்பு குறித்த இருதரப்பு ஒப்பந்தம் ஜூன் 16, 2025 அன்று கையெழுத்தானது.
+
+இருதரப்பு ஒப்பந்தத்தில் அதிகாரப்பூர்வமாக கையெழுத்திட்டதைத் தொடர்ந்து, இலங்கை அரசாங்கத்தின் அங்கீகரிக்கப்பட்ட பிரதிநிதியாக நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சுமும், பிரெஞ்சு அரசாங்கத்தின் அங்கீகரிக்கப்பட்ட பிரதிநிதிகலான Agence Franciaise de Developpement (AFD), Bpifrance Assurance Export மற்றும் Banque de France ஆகியவை செயல்படுத்தல் கடிதங்களை நிறைவு செய்யும்.
+
+மேற்கூறியவற்றைக் கருத்தில் கொண்டு, Agence Franciaise de Developpement (AFD) நிறுவனத்துடனான அமலாக்கக் கடிதத்தில் கையெழுத்திடும் நிகழ்வு வியாழக்கிழமை (24) நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/eed34712.json)
+
+---
+
+### ஜப்பானிய தூதுக்குழு வருகை
+
+*2025-07-25 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220915) · `ta`
+
+ஜப்பானிய அரசாங்கத்தின் பொருளாதார, வர்த்தக மற்றும் கைத்தொழில் அமைச்சின் மற்றும்  ஜப்பானிய வர்த்தக, வாணிப மற்றும் கைத்தொழில் துறைப் பிரதிநிதிகள் குழு மற்றும் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க ஆகியோருக்கு இடையே வியாழக்கிழமை (24) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் கலந்துரையாடலொன்று நடைபெற்றது.
+
+இலங்கையில் ஜப்பானிய முதலீட்டை விரிவுபடுத்துவது குறித்து ஆராய்வதற்காக இந்த ஜப்பானிய தூதுக் குழு  வருகை தந்துள்ளது.
+
+இலங்கையில்  முதலீட்டுத் துறைகளில் காணப்படும் புதிய முதலீட்டு வாய்ப்புகள் குறித்து கவனம் செலுத்திய ஜப்பானிய தூதுக்குழு, எதிர்வரும் நாட்களில் இலங்கையில் உள்ள அரச மற்றும் தனியார் நிறுவனங்களுடன் இது குறித்து ஆராயத் திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/efd0b8b7.json)
+
+---
+
+### கறுப்பு ஜூலை இனவழிப்புக்கு எதிர்ப்பு: மானிப்பாய்  உறுப்பினர் வெளிநடப்பு
+
+*2025-07-25 14:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கறுப்பு-ஜூலை-இனவழிப்புக்கு-எதிர்ப்பு-மானிப்பாய்-உறுப்பினர்-வெளிநடப்பு/175-361749) · `ta`
+
+மானிப்பாய் பிரதேச சபையின் இரண்டாவது அமர்வானது இன்றைய தினம் தவிசாளர் ஜெசீதன் தலைமையில் ஆரம்பமானது.
+
+இதன்போது இலங்கை தமிழரசு கட்சியின் உறுப்பினர் லோக பிரகாசம் ரமணன் தேசிய மக்கள் சக்தியின் செயற்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து கருத்து தெரிவித்துவிட்டு சபையில் இருந்து வெளிநடப்பு செய்தார். இதன்போது சபையின் உப தவிசாளரும் வெளிநடப்பு செய்தார்.
+
+எமது இனமானது அளிக்கப்படுவதற்கு முக்கியமான காரணமாக இருந்தது 1983 ஆம் ஆண்டு இடம்பெற்ற ஜூலை கலம்பகம். இந்த ஜூலை கலவரத்தின்தின்போது தான் தமிழர்கள் அவர்களது தாயகம் நோக்கி விரட்டியடிக்கப்பட்டார்கள். அதன் பின்னர் தான் எமது இளைஞர்கள் பலர் ஆயுதங்களை கையில் எடுத்தார்கள்.
+
+செம்மணி புதைகுழியில் எமது பிஞ்சு குழந்தைகள் உட்பட இளைஞர்கள் யுவதிகள் என பலர் புதைக்கப்பட்டமைக்கு அடிப்படை காரணம் ஜூலை கலவரமே ஆகும்.
+
+...
+
+[Data](articles/29e25b97.json)
+
+---
+
+### குழந்தைங்க செத்துட்டாங்களானு தெரியலயே? குழம்பி சொன்ன அபிராமி
+
+*2025-07-25 14:27:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைங்க-செத்துட்டாங்களானு-தெரியலயே-குழம்பி-சொன்ன-அபிராமி/175-361748) · `ta`
+
+"எந்த தண்டனையை தருவதாக இருந்தாலும், அதை தீர்ப்பாக எழுதும்போது, நாம் சரியாகத்தான் தண்டனை தருகிறோமா? என்ற லேசான அக்கறையும் இருக்கும்.. ஆனால், கொஞ்சம்கூட சந்தேகத்திற்கு இடமில்லாத அளவுக்கு சாட்சியங்களுடைய அடிப்படையில், இப்படித்தான் தீர்ப்பு தர வேண்டும் என்று எழுதியிருக்கிறார்.. இதற்கு அசாத்தியமான மன உறுதி வேண்டும்" என்று அபிராமிக்கு வழங்கப்பட்ட தீர்ப்பு குறித்து மூத்த வழக்கறிஞர் சுமதி, கருத்து தெரிவித்துள்ளார்.
+
+"அபிராமியின் தீர்ப்பை வரவேற்கிறேன் என்று சொல்ல, இது கொண்டாடக்கூடிய விஷயமில்லை.. ஆனால், இந்த தீர்ப்பு மனதுக்கு ஆறுதலாக இருக்கிறது. என மூத்த வழக்கறிஞர் சுமதி, Vikatan யூடியூப் சேனலுக்கு பேட்டி தந்துள்ளார்.
+
+சமூகத்துக்கென ஒரு ஒழுக்கம் உள்ளது.. அந்த கட்டுப்பாட்டை மீறி, ஒருவரை கொன்றுவிட்டு, தான் மட்டுமே இன்பமாக இருக்கலாம் என்ற நியதியை ஏற்க முடியாது..
+
+தம்பதிக்குள் பிரச்சனை என்றால், அவர்கள் பிரிந்து போகலாம், இதற்கு சட்டத்தில் ஆயிரம் வழி உள்ளது. ஆனால், ஒரே நேரத்தில் கணவன், 2 குழந்தைகளையும் சேர்த்து கொலை செய்ய முடிவு செய்தார்..
+
+...
+
+[Data](articles/33a65feb.json)
+
+---
+
+### Sri Lanka president to visit the Maldives
+
+*2025-07-25 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-the-maldives-232732/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Disanayaka will make a state visit to the Maldives from July 28-30 at the invitation of the Maldives President Mohamed Muizzu.
+
+Disanayaka is scheduled to hold bilateral talks with Muizzu and exchange several Memoranda of Understanding to strengthn mutual cooperation, the Ministry of Foreign Affairs said.
+
+He is also scheduled to address a business forum and meet the Sri Lankan expatriate community.
+
+Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year.
+
+Disanayaka will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and senior Government officials. (Colombo/Jul25/2025)
+
+◼️
+
+[Data](articles/df5b9e0f.json)
+
+---
 
 ### අල්ලස් චෝදනාවක් සම්බන්ධයෙන් කලාකරුවෙකු අත්අඩංගුවට
 
@@ -99,6 +225,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3256f7c0.json)
+
+---
+
+### 6 new envoys to Sri Lanka present credentials
+
+*2025-07-25 13:48:00* · [`economynextcom`](https://economynext.com/6-new-envoys-to-sri-lanka-present-credentials-232733/) · `en`
+
+ECONOMYNEXT – Five new ambassadors and a high commissioner to Sri Lanka have presented their credentials to President Anura Dissanayake.
+
+Ambassador of Eritrea (resident in New Delhi) – Alem Woldemariam
+
+Ambassador of Jordan (resident in New Delhi) – Yousef Mustafa Abdelghani
+
+Ambassador of Bhutan (resident in Dhaka) – Dasho Karma Hamu Dorjee
+
+High Commissioner of Fiji (resident in New Delhi) – Jagnnath Sami
+
+This was the first time an ambassador for the Republic of Kazakhstan was appointed to Sri Lanka, after an embassy has been established in Sri Lanka.
+
+Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Colombo/July25/2025)
+
+◼️
+
+[Data](articles/c07b2086.json)
 
 ---
 
@@ -436,6 +586,26 @@ The statement emphasized that sustaining the reform momentum is critical to safe
 
 ---
 
+### IMF urges Sri Lanka budget 2026 in line with program after visit, warns on Trump tariff
+
+*2025-07-25 11:37:00* · [`economynextcom`](https://economynext.com/imf-urges-sri-lanka-budget-2026-in-line-with-program-after-visit-warns-on-trump-tariff-232709/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has urged that a budget be prepared in line with program parameters and warned that Trump tariffs are a risk to the economy which is recovering.
+
+“While the economic outlook is positive, downside risks have increased on the back of potentially high tariffs on Sri Lanka’s exports, persistent trade policy uncertainty, and heightened geopolitical tensions,” Mission Chief  Evan Papageorgiou said in a statement at the end of a staff visit.
+
+“This underscores the critical importance of maintaining the reform momentum and the efforts to rebuild fiscal space and external buffers.
+
+“These reforms will enhance Sri Lanka’s resilience to shocks and safeguard the hard-won economic progress to date. Should such shocks materialize, they will be addressed within the contours of the EFF program.”
+
+READ FULL STATEMENT HERE : IMF Staff Concludes Visit to Sri Lanka
+
+...
+
+[Data](articles/4258bafc.json)
+
+---
+
 ### ප්‍රංශය සහ ශ්‍රී ලංකාව අතර ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම ක්‍රියාත්මක කිරීමේ ලිපි අත්සන් කරයි
 
 *2025-07-25 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212619) · `si`
@@ -727,6 +897,26 @@ He was first elected to Parliament in 1977 representing the Ampara electorate un
 ◼️
 
 [Data](articles/c8009d12.json)
+
+---
+
+### Sri Lanka parliament to impeach police chief on August 05
+
+*2025-07-25 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-to-impeach-police-chief-on-august-05-232707/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament will debate a resolution to remove Inspector General Of Police Deshabandu Tennakoon on August 05, a statement said.
+
+A parliamentary committee earlier this week decided that the Police Chief Tennakoon, had abused power
+
+“This marks a historic moment in our constitutional journey, the first time in the history of the Republic of Sri Lanka that such a Committee has submitted its findings recommending the removal of an Inspector General of Police under the provision of the law enacted by the Parliament,” Wickramarathne read out in parliament.
+
+“This committee has found unanimously that the officer in question is guilty of the allegations brought against him,”
+
+The debate will be held from 1130 am to 1600 pm. (Colombo/July25/2025)
+
+◼️
+
+[Data](articles/be2d0a49.json)
 
 ---
 
@@ -1581,189 +1771,5 @@ Saroja Devi was hugely popular with Sri Lankan movie audiences too. Apart from T
 ...
 
 [Data](articles/13c53620.json)
-
----
-
-### மன்னார், வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களின் காணி பிரச்சினைகளுக்கு விரைவில் தீர்வு – சுசில் ரணசிங்க
-
-*2025-07-25 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/220879) · `ta`
-
-மன்னார், வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களில் நிலவும் காணிப்பிரச்சினைகளுக்கு விரைவான தீர்வு காண நடவடிக்கை எடுக்கப்படும் என  காணி, நீர்ப்பாசன பிரதி அமைச்சர் சுசில் ரணசிங்க தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (24) காதர் மஸ்தான் எம்பி நிலையியற் கட்டளை 27/2 ன் கீழ் எழுப்பிய கேள்விகளுக்குப் பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-மன்னார், வவுனியா, முல்லைத்தீவு மாவட்டங்களில் நிலவும் காணி பிரச்சினைகள் தொடர்பாக சம்பந்தப்பட்ட மாவட்டச் செயலாளர்களுடன் அண்மையில் பேச்சுவார்த்தை நடத்தப்பட்டது.  ஏனைய நடவடிக்கைகள் துரிதமாக முன்னெடுத்துச் செல்லப்படும் .
-
-அந்த வகையில் முல்லைத்தீவு மாவட்டத்தில் 54,000 ஏக்கர் காணி, வவுனியா மாவட்டத்தில் 24,000 ஏக்கர் காணி மற்றும் மன்னார் மாவட்டத்தில் 2000க்கும் மேற்பட்ட ஹெக்டெயார் காணிகளை விடுவிப்பது தொடர்பில் முக்கிய கவனம் செலுத்தப்பட்டது.
-
-...
-
-[Data](articles/0019c7ea.json)
-
----
-
-### From Sarong & Sati To Anaya & Burka: How Gulf Migration & Wahhabism Reshaped Sri Lankan Muslim Identity
-
-*2025-07-25 02:32:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-sarong-sati-to-anaya-burka-how-gulf-migration-wahhabism-reshaped-sri-lankan-muslim-identity/) · `en`
-
-Until the 1980s, the traditional clothing of Sri Lankan Moors—commonly referred to as Sri Lankan Muslims—was a vibrant and visible expression of their cultural identity. Men often wore sarongs, long tunics, and skullcaps, while women dressed in long skirts or sarees with modest blouses and shawls. These clothes, though modest and conservative, reflected centuries of cultural blending in Sri Lanka—a mix of Arab, Tamil, Sinhalese, and Malay influences that formed the unique religious and ethnic identity of Sri Lankan Muslims.
-
-However, beginning in the 1980s, a profound transformation began to unfold, catalyzed by a major wave of labor migration to the oil-rich Gulf countries. This migration, coupled with the global spread of Saudi-sponsored Wahhabism, fundamentally altered how Sri Lankan Muslims viewed their faith, their appearance, and their place in the broader Sri Lankan society.
-
-...
-
-[Data](articles/fe2b722c.json)
-
----
-
-### A Welcome To The New Mayor
-
-*2025-07-25 02:02:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-welcome-to-the-new-mayor/) · `en`
-
-At the recently held elections for the Council of the Colombo Municipality the governing NPP won a majority of the wards, a clear indication of the preference of the citizens living in the capital city. The other political parties gained their seats largely on account of the proportional system in place. Many of the sitting councillors were rejected as ward representatives, often the incoming NPP winner commanding a large margin.
-
-...
-
-[Data](articles/9bac8455.json)
-
----
-
-### எம்.பி. ரோஹித குணவர்தனவின் மருமகன் தனுக்க வீரக்கொடி முதலாம் திகதிவரை விளக்கமறியல்
-
-*2025-07-25 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220878) · `ta`
-
-கைது செய்யப்பட்ட பாராளுமன்ற உறுப்பினர் ரோஹித குணவர்தனவின் மருமகன் தனுக்க வீரக்கொடி எதிர்வரும் முதலாம்  திகதி வரையில் விளக்கமறியில் வைக்கப்பட்டுள்ளார்.
-
-தவறான தகவல்களை சமர்பித்து மோட்டார் வாகன திணைக்களத்தில் பதிவு செய்யப்பட்டதாகக் கூறப்படும் ஜீப் வண்டி தொடர்பில் முன்னெடுக்கப்படும் விசாரணைகளுக்கு அமைய சந்தேகநபர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-இதனிடையே குறித்த விவகாரம் தொடர்பில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ஜகத் விதானகேவின் மகன் ரசிக்க விதானகே பிணையில் விடுவிக்கப்பட்டுள்ளார்.
-
-சந்தேக நபர் வியாழக்கிழமை (24) மதுகம நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட நிலையில் அவரை 10 இலட்சம் ரூபா இரு சரீரப்பிணை களில் விடுவிக்க நீதவான் உத்தரவு பிறப்பித்தார்.
-
-ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ஜகத் விதானவின் மகன் ரசிக விதான தவறான தரவுகளுடன் பதிவு செய்யப்பட்ட ஜீப் தொடர்பாக அண்மையில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
-
-...
-
-[Data](articles/5db2e435.json)
-
----
-
-### நான்காவது டெஸ்டில் இந்தியா 358; இங்கிலாந்து துணிச்சலான பதில்: ரிஷாப் பான்ட் முற்றிலும் எதிர்பாராதவிதமாக மீண்டும் துடுப்பெடுத்தாடினார்
-
-*2025-07-25 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/220877) · `ta`
-
-மென்செஸ்டர், ஓல்ட் ட்ரஃபர்ட் விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது அண்டர்சன் - டெண்டுல்கர் கிண்ண டெஸ்ட் கிரிக்கெட் போட்டியில் இந்தியா முதல் இன்னிங்ஸில் பெற்ற 358 ஓட்டங்களுக்கு இங்கிலாந்து துணிச்சலான பதில் அளித்துள்ளது.
-
-பதிலுக்கு முதல் இன்னிங்ஸில் துடுப்பெடுத்தாடிவரும் இங்கிலாந்து போட்டியின் இரண்டாம் நாளான இன்று வியாழக்கிழமை ஆட்ட நேர முடிவில் 2 விக்கெட்களை இழந்து 225ஓட்டங்களைப் பெற்றிருந்தது.
-
-இதற்கு அமைய முதல் இன்னிங்ஸில் 8 விக்கெட்கள் மீதம் இருக்க இங்கிலாந்து 133 ஓட்டங்களால் இந்தியாவை விட பின்னிலையில் இருந்தது.
-
-மிகத் திறமையாகத் துடுப்பெடுத்தாடிய ஆரம்ப வீரர்களான ஸக் க்ரோவ்லி, பென் டக்கெட் ஆகிய இருவரும் சதங்களை நெருங்கிக்கொண்டிருக்கையில் துரதிர்ஷ்டவசமாக ஆட்டம் இழந்தனர்.
-
-ஸக் க்ரோவ்லி 13 பவுண்டறிகள் ஒரு சிக்ஸுடன் 84 ஓட்டங்களையும் பென் டக்கெட் 13 பவுண்டறிகளுடன் 94 ஓட்டங்களையும் பெற்று 33 ஓட்டங்கள் வித்தியாசத்தில் ஆட்டம் இழந்தனர். (197 - 2 விக்.)
-
-ஆட்ட நேர முடிவில் ஒல்லி போப் 20 ஓட்டங்களுடனும் ஜோ ரூட் 11 ஓட்டங்களுடனும் ஆட்டம் இழக்காதுள்ளனர்.
-
-...
-
-[Data](articles/d2e2efbd.json)
-
----
-
-### 2025-07-24 (Thursday)
-
-### පාකිස්තානය ගෞරවය බේරාගනියි
-
-*2025-07-24 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212605) · `si`
-
-බංග්ලාදේශයට එරෙහි තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයෙන් ලකුණු 74ක පහසු ජයක් හිමිකර ගැනීමට සංචාරක පාකිස්තාන කණ්ඩායම අද (24) සමත් විය.
-
-යම් හෙයකින් මෙම තරගයද පාකිස්තානය පරාජය වූවානම්, ඔවුන්ට වසර 18ක දෙරටේ විස්සයි20 ක්‍රිකට් ඉතිහාසයේ පළමුවරට බංග්ලාදේශය හමුවේ විස්සයි20 පූර්ණ තරගාවලි පරාජයක් ලැබීමට සිදුවේ.
-
-මීර්පූර්හිදී පැවති මෙම තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශය පළමුව පන්දුවට පහරදීමට පාකිස්තානයට ආරාධනා කළේය.
-
-එහිදී ඔවුන් පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 178ක් රැස්කිරීමට සමත් විය.
-
-ප්‍රහාරාත්මක ඉනිමක් ක්‍රීඩාකළ සහිබ්සාඩා ෆර්හාන් පන්දු 41කදී ලකුණු 63ක් රැස් කළේය.
-
-ඊට අමතරව හසන් නවාස් ලකුණු 33ක්, මොහොමඩ් නවාස් ලකුණු 27ක් හා සයිම් අයුබ් ලකුණු 21ක් රැස්කිරීමට සමත් වූහ.
-
-බංග්ලාදේශ වෙනුවෙන් පන්දු යැවීමේදී ටස්කින් අහ්මඩ් හා නසුන් අහ්මඩ් කඩුලු 3 බැගින් දවාගත්හ.
-
-නමුත් පිළිතුරු ඉනිම ක්‍රීඩා කිරීමට පිටියට පිවිසි බංග්ලාදේශයට පන්දුවාර 16.4කදී සියලු දෙනා දැවී ලබා ගතහැකි වූයේ ලකුණු 104ක් පමණි.
-
-බංග්ලාදේශ ඉනිමේ කඩුලු 7ක් ලකුණු 41ක් තුළ දවාගැනීමට පාකිස්තානය සමත් විය.
-
-...
-
-[Data](articles/61779e0b.json)
-
----
-
-### கொழும்பு தேசிய வைத்தியசாலையில் மனநலப் பிரிவுக்கு அழைத்துச் செல்லப்பட்ட சந்தேகநபர் தப்பிச் செல்ல முயன்ற சம்பவம்
-
-*2025-07-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/220876) · `ta`
-
-கொழும்பு தேசிய வைத்தியசாலையின் மனநல சிகிச்சைப் பிரிவுக்கு அழைத்துச் செல்லப்பட்ட சந்தேகநபர், சிறைச்சாலை அதிகாரிகளின் பாதுகாப்பிலிருந்து தப்பிச் செல்ல முயன்ற சம்பவம் ஒன்று பதிவாகியுள்ளது.
-
-இவ்விடயம் தொடர்பில் கொழும்பு மெகசின் சிறைச்சாலை உதவி அத்தியட்சகர் வி. ஆர். பிரபாத் தெரிவித்துள்தாவது,
-
-இம்மாதம் கடந்த 9  ஆம் திகதி  கொழும்பு புதுக்கடை நீதிவான் நீதிமன்றத்தால் திருட்டு குற்றச்செயல் ஒன்றில் சந்தேகநபராக அடையாளம் காணப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள  லியனகே சஷிந்த சந்தருவான் எனும் நபர்  கொழும்பு தேசிய வைத்தியசாலைக்கு அழைத்துச் சென்றிருந்த நிலையில் தப்பிச் செல்ல முற்பட்டுள்ளார்.
-
-கொழும்பு  தேசிய வைத்தியசாலையின் மனநல சிகிச்சைப் பிரிவில் முன்னிலைப்படுத்துவதற்காக அழைத்துச் செல்லப்பட்ட சந்தரப்பத்தில் வைத்திய பரிசோதனைக்காக விலங்கிலிருந்து அவரின்  ஒரு கையை மாத்திரம் விடுத்துள்ள நிலையில் குறித்த நபர் அங்கிருந்து தப்பிச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/7274499a.json)
-
----
-
-### கறுப்பு ஜுலையை உருவாக்கிய அமைச்சரவையில் இருந்தவர் ரணில் - பிமல் ரத்நாயக்க
-
-*2025-07-24 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/220875) · `ta`
-
-யாழ்ப்பாணம் நூலகத்தை எரித்த மற்றும் கறுப்பு ஜுலையை உருவாக்கிய அமைச்சரவையில் இருந்தவர்களில் ரணில் விக்கிரமசிங்க மட்டுமே இப்போது இருக்கின்றார் என்று சபை முதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (24) நடைபெற்ற கல்வி மறுசீரமைப்பு தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
-
-கலவி மறுசீரமைப்பு நடவடிக்கை தொடர்பில் கதைக்கும்போது வெள்ளைப் பத்திரிகை தொடர்பில் கருத்துக்கள் முன்வைக்கப்பட்டன. அந்தப் பெயரை கூறும் போதே எமக்கு பயம் வருகின்றது. 1981இல் ரணில் விக்ரமசிங்கவால் கொண்டுவரப்பட்ட வெள்ளைப் பத்திரிகையின் நோக்கம் முழுமையாக கருமையானது.
-
-அந்த வெள்ளைப் பத்திரிகை மூலம் கறுப்பு வேலைத்திட்டங்களை கொண்டு வந்த ரணில் போன்றோரே யாழ்ப்பாணம் நூலகத்திற்கு தீ வைத்தனர். கறுப்பு ஜூலையையும் ஏற்படுத்தினர் . இப்போது அரகலய வழக்கிலும் ரணில் தோல்வியடைந்துள்ளார். கறுப்பு ஜூலையை உருவாக்கிய அப்போதைய அமைச்சரவையில் இருந்தவர்களில்  தற்போதுள்ள ஒருவர் ரணில் விக்ரமசிங்க   மாத்திரமாகும் என்றார்.
-
-◼️
-
-[Data](articles/52fecfbe.json)
-
----
-
-### தலையில் கிளிப், நெயில் பாலிஷ்... நீதிமன்றம் வந்த பிரியாணி அபிராமி
-
-*2025-07-24 22:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையில்-கிளிப்-நெயில்-பாலிஷ்-நீதிமன்றம்-வந்த-பிரியாணி-அபிராமி/175-361722) · `ta`
-
-கள்ளக்காதலனுக்காக 10 மாதம் சுமந்து பெற்ற இரு குழந்தைகளையும் கொலை செய்த வழக்கின் தீர்ப்புக்காக, காஞ்சிபுரம் அமர்வு நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட குன்றத்தூர் அபிராமி, கை விரல் நகங்களில் நெயில் பாலிஷ் வைத்துக் கொண்டு கவலையே இல்லாமல் வந்திருந்ததை ஊடகங்கள் வாயிலாக அறியக்கிடைக்கின்றது.
-
-கோர்ட்டுக்கு வந்த அபிராமி, கருப்பு நிற சுடிதார் அணிந்துக் கொண்டு வந்திருந்தார். முகத்தை மறைப்பதற்காக கருப்பு நிற துப்பட்டாவை முகத்தில் கட்டியிருந்தார். தீர்ப்பு என்ன வரும் என்பதை அறிய பதற்றமாகவே இருந்தார். அவ்வப்போது அவர் கையை பிசைந்து கொண்டு நின்றிருந்தார்.
-
-இந்த நிலையில் "குழந்தையை பராமரிக்க வேண்டிய பொறுப்பில் இருக்கும் தாயே, சுயலாபத்திற்காக இப்படி கொலை செய்துள்ளது கொடூரம்" என குறிப்பிட்ட காஞ்சிபுரம் முதன்மை அமர்வு நீதிமன்ற நீதிபதி செம்மல், அபிராமியும், சுந்தரமும் குற்றவாளிகள் என அறிவித்தார்.
-
-...
-
-[Data](articles/2a2ad0f4.json)
-
----
-
-### தலையில் கிளிப், நெயில் பாலிஷ்... நீதிமன்றம் வந்த குன்றத்தூர் அபிராமி
-
-*2025-07-24 22:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையில்-கிளிப்-நெயில்-பாலிஷ்-நீதிமன்றம்-வந்த-குன்றத்தூர்-அபிராமி/175-361722) · `ta`
-
-கள்ளக்காதலனுக்காக 10 மாதம் சுமந்து பெற்ற இரு குழந்தைகளையும் கொலை செய்த வழக்கின் தீர்ப்புக்காக, காஞ்சிபுரம் அமர்வு நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட குன்றத்தூர் அபிராமி, கை விரல் நகங்களில் நெயில் பாலிஷ் வைத்துக் கொண்டு கவலையே இல்லாமல் வந்திருந்ததை ஊடகங்கள் வாயிலாக அறியக்கிடைக்கின்றது.
-
-கோர்ட்டுக்கு வந்த அபிராமி, கருப்பு நிற சுடிதார் அணிந்துக் கொண்டு வந்திருந்தார். முகத்தை மறைப்பதற்காக கருப்பு நிற துப்பட்டாவை முகத்தில் கட்டியிருந்தார். தீர்ப்பு என்ன வரும் என்பதை அறிய பதற்றமாகவே இருந்தார். அவ்வப்போது அவர் கையை பிசைந்து கொண்டு நின்றிருந்தார்.
-
-இந்த நிலையில் "குழந்தையை பராமரிக்க வேண்டிய பொறுப்பில் இருக்கும் தாயே, சுயலாபத்திற்காக இப்படி கொலை செய்துள்ளது கொடூரம்" என குறிப்பிட்ட காஞ்சிபுரம் முதன்மை அமர்வு நீதிமன்ற நீதிபதி செம்மல், அபிராமியும், சுந்தரமும் குற்றவாளிகள் என அறிவித்தார்.
-
-...
-
-[Data](articles/d8b924ea.json)
 
 ---

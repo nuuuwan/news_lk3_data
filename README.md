@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 13:32:04**
+As of **2025-07-25 13:50:18**
 
 ## Newspaper Stats
 
-*Scraped **66,716** Articles*
+*Scraped **66,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,400
 adaderanalk | 8,193
-tamilmirrorlk | 9,633
+tamilmirrorlk | 9,635
 virakesarilk | 11,115
 adaderanasinhalalk | 11,455
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,455
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,716 articles have been extended.
+61,973 (92.9%) of 66,718 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/813ecc8d.json)
+
+---
+
+### ஒர நாளில் தங்கத்தின் விலையில் ஏற்பட்ட மாற்றம்
+
+*2025-07-25 13:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒர-நாளில்-தங்கத்தின்-விலையில்-ஏற்பட்ட-மாற்றம்/175-361745) · `ta`
+
+இன்று (25) தங்கம் பவுண் ஒன்றுக்கு 2,000 ரூபாயால் குறைந்ததுள்ளதாக, கொழும்பு செட்டியார் தெரு தங்க நகை வியாபாரிகள் சங்கத்தினர் தெரிவித்துள்ளனர்.
+
+22 கரட் தங்கத்தின் ஒரு கிராமின் விலை 30,750 ரூபாயாகவும், விற்பனை செய்யப்படுகிறது. R
+
+◼️
+
+[Data](articles/d6668cc8.json)
+
+---
+
+### 40 நாடுகளுக்கு விசா கட்டணத்தை நீக்க தீர்மானம்
+
+*2025-07-25 13:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/40-நாடுகளுக்கு-விசா-கட்டணத்தை-நீக்க-தீர்மானம்/175-361744) · `ta`
+
+நாட்டின் சுற்றுலாத் துறையை வளர்க்கும் நோக்கில் மேலும் 40 நாடுகளுக்கான விசா கட்டணங்களை தள்ளுபடி செய்ய அரசாங்கம் முடிவு செய்துள்ளதாக வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.
+
+"ஹோட்டல் ஷோ கொழும்பு 2025" கண்காட்சி இன்று காலை கொழும்பில் உள்ள பண்டாரநாயக்க சர்வதேச மாநாட்டு மையத்தில் தொடங்கி வைக்கப்பட்டது.
+
+இந்த நிகழ்வு ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் தலைமையில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையில் அமைச்சர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4e81dc86.json)
 
 ---
 
@@ -128,7 +158,9 @@ In line with the Memorandum of Understanding (MoU) signed with the Office of the
 
 "'Hotel Show Colombo 2025'' ප්‍රදර්ශනය අද පෙරවරුවේ කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී ආරම්භ කෙරිණි.
 
-◼️
+මෙහිදී අදහස් දැක්වූ විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා,
+
+...
 
 [Data](articles/07b4ec0c.json)
 
@@ -1713,49 +1745,5 @@ Stock trading at the Colombo Stock Exchange (CSE) showed a bullish sentiment yes
 ...
 
 [Data](articles/2a2761e5.json)
-
----
-
-### உத்தேச கல்வி சீர்திருத்தத்தின் ஊடாக இந்நாட்டின் முழு சமூக மட்டத்தையும் பொருளாதார மட்டத்தையும் ஒரேசமயத்தில் உயர்த்துவதற்கு நாம் அனைவரும் ஒன்றுபடுவோம் - ஜனாதிபதி
-
-*2025-07-24 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/220872) · `ta`
-
-உத்தேச கல்வி சீர்திருத்தம் வெறும் பாடத்திட்டத்தை திருத்துவதற்கு மட்டும் மட்டுப்படுத்தப்பட்டதல்ல என்றும், அதே நேரத்தில் நாட்டின் முழு சமூக  மட்டத்தையும் பொருளாதார மட்டத்தையும் ஒரேயடியாக உயர்த்தும் என்றும் ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார்.
-
-இது ஒரு அரசியல் நோக்கிலான திட்டமன்றி ஒரு சமூக நோக்கம் கொண்டது என்பதால் அதற்கு ஆதரவளிக்குமாறும் ஜனாதிபதி கோரினார்.
-
-எந்தவொரு  பிள்ளையும் 13 வருட கட்டாயக் கல்வியை எந்த காரணத்திற்காகவும்  நிறைவு செய்யாமல் பாடசாலையை விட்டும் செல்லக் கூடாது என்றும்  ஜனாதிபதி வலியுறுத்தினார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (24) நடைபெற்ற கல்வி சீர்திருத்தங்கள் குறித்த விவாதத்தில் பங்கேற்று உரையாற்றும் போதே  ஜனாதிபதி அநுர குமார திசாநாயக்க  இவ்வாறு தெரிவித்தார்.
-
-கல்வி சீர்திருத்தங்கள் குறித்த விவாதத்தில் பல விடயங்களை முன்வைக்க நம்புகிறேன்.இந்த கல்வி முறை, இந்த கல்வி முறையின் ஊடாக உருவாக்கப்பட்டுள்ள இளம் தலைமுறை மற்றும்  இந்த கல்வி முறை உருவாக்கிய பொருளாதாரம் குறித்தும்  நம்மில் யாரும் திருப்தி அடைய முடியாது. எனவே, எங்களுக்கு மிகவும் விரிவான கல்வி சீர்திருத்தம் அவசியம்.
-
-...
-
-[Data](articles/c89ef075.json)
-
----
-
-### Govt takes responsibility for providing optimal school education for every child - President
-
-*2025-07-24 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110820/govt-takes-responsibility-for-providing-optimal-school-education-for-every-child-president-) · `en`
-
-President Anura Kumara Dissanayake stated that the proposed education reform is not merely limited to curriculum revision but will simultaneously elevate both the social and economic spheres of the country.
-
-The President requested support for this initiative, emphasising that it is a social objective, not a political one.
-
-He further stressed that no child should leave school without completing 13 years of compulsory education for any reason whatsoever.
-
-President Anura Kumara Dissanayake made these remarks while participating in today’s (24) parliamentary debate on education reforms, according to the President’s Media Division (PMD).
-
-Following is the full speech delivered by President Anura Kumara Dissanayake;
-
-“I intend to present a few points during the debate on education reforms.
-
-No one can be satisfied with the current education system, the young generation it has produced, or the economy it has fostered. Therefore, we urgently need comprehensive education reform.
-
-...
-
-[Data](articles/fcc0cd3b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 15:33:14**
+As of **2025-07-25 15:48:34**
 
 ## Newspaper Stats
 
-*Scraped **66,745** Articles*
+*Scraped **66,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 6,402
 adaderanalk | 8,195
 tamilmirrorlk | 9,640
 virakesarilk | 11,120
-adaderanasinhalalk | 11,461
+adaderanasinhalalk | 11,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,745 articles have been extended.
+61,973 (92.8%) of 66,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### පොලිස් විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
+
+*2025-07-25 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212632) · `si`
+
+මත්ද්‍රව්‍ය සහ අපරාධවලට සම්බන්ධ පුද්ගලයින් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විසින් ක්‍රියාත්මක කර ඇති සෝදිසි මෙහෙයුම් මාලාවේ තවත් සෝදිසි මෙහෙයුම් කිහිපයක් ඊයේ (24) දිනය පුරාවටද පොලීසිය සහ පොලිස් විශේෂ කාර්ය බලකාය මෙන්ම ත්‍රිවිධ හමුදාව එක්ව සිදුකර තිබේ.
+
+පොලිස් නිලධාරීන්, විශේෂ කාර්ය බළකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයින් ඇතුළුව පුද්ගලයින් 7,100කට අධික පිරිසක් මේ සඳහා සහභාගී වී ඇති අතර එහිදී පුද්ගලයින් 25,671 දෙනෙකු මෙන්ම වාහන 10,360ක් හා යතුරු පැදි 7,833න ප්‍රමාණයක් ද පරීක්ෂාවට ලක් කර ඇත.
+
+මෙම මෙහෙයුම් අතරතුරදී මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයින් 1504ක ප්‍රමාණයක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 160ක් සහ මිලිග්‍රෑම් 809ක ප්‍රමාණයක්ද හොරොයින් ග්‍රෑම් 214යි මිලිග්‍රෑම් 705ක ප්‍රමාණයක්ද පොලීසිය විසින් සිය භාරයට ගෙන ඇත.
+
+එමෙන්ම වැටලීමේදී විශේෂ වැටලීම්වලදී අපරාධවලට සෘජු ලෙස සම්බන්ධ බවට හඳුනාගත් පුද්ගලයින් 22 දෙනෙකු මෙන්ම විවිධ වැරදි සම්බන්ධයෙන් වරෙන්තුකරුවන් 520 දෙනෙකුද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/86dd782e.json)
+
+---
+
+### තායිලන්ත සහ කාම්බෝජ දේශසීමා ගැටුම් නරක අතට
+
+*2025-07-25 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212631) · `si`
+
+තායිලන්ත - කාම්බෝජ දේශසීමාවේ පවතින යුද ගැටුම් අද (25) දෙවන දිනටත් ක්‍රියාත්මක වී තිබේ.
+
+මෙම නොසන්සුන්කාරී තත්ත්වය ආරම්භ වූ ඊයේ දිනයේ සිට මේ දක්වා කාලය තුළ පුද්ගලයින් 16 දෙනෙකු මියගොස් ඇති අතර, ඉන් 15 දෙනෙකුම තායිලන්ත ජාතිකයින් බව සඳහන්.
+
+එමෙන්ම මෙම අර්බුදයත් සමග දේශසීමා ආසන්න ගම්මානවල ජීවත් වූ ලක්ෂයකට වැඩි පිරිසක් අවතැන්ව සිටින බවද විදෙස් වාර්තාවල දැක්වේ.
+
+පවතින මෙම නොසන්සුන්කාරී තත්ත්වය හේතුවෙන් වහාම සටන් විරාමයකට යන ලෙස දෙරටේම නායකයින්ගෙන් රටවල් කිහිපයක්ම ඉල්ලා තිබේ.
+
+මේ අතර මෙම උද්ගතවූ තත්ත්වය පිළිබඳ සාකච්ඡා කිරීමට එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලය ද අද රැස්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/b03ce6ce.json)
+
+---
 
 ### BYD පාකිස්තානයටත්
 
@@ -1751,31 +1791,5 @@ The accelerating pace of digital transformation has brought the financial servic
 ...
 
 [Data](articles/36206eaf.json)
-
----
-
-### Is global free trading paradoxical?
-
-*2025-07-25 03:45:22* · [`dailyftlk`](https://www.ft.lk/columns/Is-global-free-trading-paradoxical/4-779442) · `en`
-
-Although finalising an FTA is a lengthy process and time consuming, it is advisable to commence sooner, exploring areas and avenues to prevent surprises
-
-...
-
-[Data](articles/56522712.json)
-
----
-
-### Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency
-
-*2025-07-25 03:39:14* · [`dailyftlk`](https://www.ft.lk/columns/Trump-tariff-Jolt-to-Sri-Lanka-s-dependence-voracity-and-innate-complacency/4-779440) · `en`
-
-The Trump tariff is the long overdue shock which Sri Lanka badly needed to awaken it from its reverie
-
-It is our indecisiveness, indiscipline and inaction which have got us to where we are in the first place and it is never too late to start a new journey where Sri Lanka is largely in charge of its destiny. Our slave-like obeisance to the USA for tariff reductions is disturbing and humiliating. How much longer must we continue to remain in the deep hole of subservience and ‘eternal dependence’? We must remember that the great feats of explorers and inventors started with small steps. Our country must, today, chart its own destiny even if it means starting from scratch
-
-...
-
-[Data](articles/cff47157.json)
 
 ---

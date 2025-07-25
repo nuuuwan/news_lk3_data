@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 21:06:36**
+As of **2025-07-25 21:20:09**
 
 ## Newspaper Stats
 
-*Scraped **66,788** Articles*
+*Scraped **66,800** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
-colombotelegraphcom | 681
-islandlk | 4,077
+colombotelegraphcom | 682
+islandlk | 4,078
 economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,405
-adaderanalk | 8,200
+adaderanalk | 8,201
 tamilmirrorlk | 9,650
-virakesarilk | 11,126
+virakesarilk | 11,135
 adaderanasinhalalk | 11,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,788 articles have been extended.
+61,973 (92.8%) of 66,800 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,78 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5c2f10cc.json)
+
+---
+
+### Thailand declares martial law in eight districts bordering Cambodia
+
+*2025-07-25 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110843/thailand-declares-martial-law-in-eight-districts-bordering-cambodia) · `en`
+
+Thailand declared martial law in eight of its districts bordering Cambodia on Friday, as the countries traded strikes in a second deadly day of clashes.
+
+Apichart Sapprasert, commander of the military’s Border Defense Command in the provinces of Chanthaburi and Trat, said in a statement “martial law is now in effect” in seven districts of Chanthaburi and one district of Trat.
+
+◼️
+
+[Data](articles/34e06263.json)
+
+---
+
+### பூட்டான், கசகஸ்தான், ஜோர்தான், உஸ்பெகிஸ்தான் மற்றும் எரித்திரியா தூதுவர்களுடன் பிரதமரின் இராஜதந்திர சந்திப்பு
+
+*2025-07-25 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220965) · `ta`
+
+பிரதமர் கலாநிதி ஹரினி அமரசூரிய, ஜூலை 25 ஆம் திகதி, பாராளுமன்ற வளாகத்தில் முக்கியமான இராஜதந்திர சந்திப்புகளை நடத்தினார்.
+
+இதன் போது, (டாக்காவைத் தளமாகக் கொண்ட) இலங்கைக்கான பூட்டான் தூதுவர் டஷோ கர்மா ஹமு டோர்ஜி, (கொழும்பைத் தளமாகக் கொண்ட) இலங்கைக்கான கசகஸ்தான் குடியரசின் தூதுவர் சேர்ஜி விக்டோரோவ், (புதுடில்லியைத் தளமாகக் கொண்ட) இலங்கைக்கான ஜோர்தான் தூதுவர் யூசெப் முஸ்தபா அப்தெல்கனி, இலங்கைக்கான எரித்திரியா நாட்டின் தூதுவர் அலம் வோல்டெமரியம், மற்றும் (இஸ்லாமாபாத்தைச் தளமாகக் கொண்ட) இலங்கைக்கான உஸ்பெகிஸ்தான் தூதுவர் அலிஷர் துக்தயேவ் ஆகியோருடன் இந்தச் சந்திப்புகள் நடைபெற்றன.
+
+இந்த சந்திப்பானது பிராந்திய மற்றும் சர்வதேசப் பங்காளிகளுடனான இருதரப்பு மற்றும் பல்தரப்பு ஒத்துழைப்பை வலுப்படுத்துவதற்கான அரசாங்கத்தின் உறுதிப்பாட்டைப் பிரதிபலிக்கிறது.
+
+பிரதமருடனான இந்த கலந்துரையாடலில் அனைத்து தூதுவர்களையும் வரவேற்ற பிரதமர், பரஸ்பர நலன்கள், நிர்வாகத்தில் ஒத்துழைப்பு, இலங்கையின் அபிவிருத்தி மற்றும் ஜனநாயக மாற்றத்திற்கான ஆதரவு ஆகியவற்றில் கவனம் செலுத்தி இந்த கலந்துரையாடல்களை மேற்கொண்டார்.
+
+...
+
+[Data](articles/82779181.json)
+
+---
+
+### முத்தையன்கட்டில் மனித நுகர்விற்கு பொருத்தமற்ற உணவுப்பொருட்கள் கைப்பற்றல்
+
+*2025-07-25 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/220962) · `ta`
+
+முத்தையன்கட்டு பகுதிகளில் உள்ள உணவகங்கள் மற்றும் பல்பொருள் வணிக கடைகளில் வெள்ளிக்கிழமை (25) காலை சுகாதார பரிசோதகர்களால் மேற்கொள்ளப்பட்ட திடீர் பரிசோதனையின் போது, மனித நுகர்விற்கு பொருத்தமற்ற பல வகையான உணவுப்பொருட்கள் கண்டுபிடிக்கப்பட்டு அழிக்கப்பட்டுள்ளன.
+
+இந்த திடீர் சோதனை நடவடிக்கையை, முத்தையன்கட்டு பொது சுகாதார பரிசோதகர் லோஜிதன், ஒட்டுசுட்டான் பொதுச் சுகாதார பரிசோதகர் டிலக்சன் இணைந்து முன்னெடுத்தனர்.
+
+பரிசோதனையின் போது, முத்தையன்கட்டு வலதுகரை மற்றும் இடதுகரைப் பகுதிகளில் இயங்கும் பல உணவகங்கள் மற்றும் வணிக நிலையங்கள் பரிசோதனைக்கு உட்படுத்தப்பட்டன.
+
+அந்த இடங்களில் காலாவதியான, தவறான முறையில் சேமிக்கப்பட்ட, சுகாதார நிபந்தனைகளுக்கு எதிரான உணவுப் பொருட்கள் மீட்கப்பட்டு, அவை அந்தந்த இடத்திலேயே அழிக்கப்பட்டன.
+
+◼️
+
+[Data](articles/53419383.json)
+
+---
+
+### பால் போத்தலுடன் காணப்பட்ட குழந்தையின் எலும்புக் கூடு அகழ்ந்தெடுப்பு : இதுவரை செம்மணி சித்துப்பாத்தி மனித புதைகுழியில் 81 மனித எலும்புக்கூடுகள் மீட்பு !
+
+*2025-07-25 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220964) · `ta`
+
+செம்மணி மனித புதைகுழி அகழ்வு தொடர்பாக வெள்ளிக்கிழமை (25) ஊடகங்களுக்கு கருத்துத் தெரிவித்த போதே சட்டத்தரணி வி.எஸ்.நிரைஞ்சன் இதனை தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், செம்மணி மனித புதைகுழியில் வெள்ளிக்கிழமை இரண்டு மனித எலும்பு கூடுகள் புதிதாக அடையாளம் காணப்பட்டன.
+
+அத்துடன் ஏற்கனவே 76 மனித எலும்புக்கூடுகள் அகழ்ந்தெக்கப்பட்டிருந்தன. வெள்ளிக்கிழமை (25) புதிதாக ஐந்து மனித எலும்பு கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டன.
+
+அதே நேரம் இரண்டாவது அகழ்வு தளமாக அடையாளப்படுத்தப்பட்ட பகுதியில் சட்டரீதியாக புதைக்கப்பட்ட சடலம் ஒன்று நீதிமன்ற உத்தரவுக்கு அமைவாக பாதுகாப்பாக மூடப்பட்டது.
+
+குறித்த சடலம் தொடர்பான ஆய்வுகளின் பிற்பாடு அதன் காலத்தை சொல்ல முடியும். அதை அகழ்தெடுக்கவில்லை. குறித்த சடலம் பிரேத பரிசோதனைக்கு பின்னர் புதைக்கப்பட்டதாக சட்ட வைத்திய அதிகாரி நீதிமன்ற கவனத்திற்கு கொண்டு வந்ததற்கமைய சடலம் மூடப்பட்டது.
+
+பாலுட்டும் போத்தலுடன் அடையாளம் காணப்பட்ட சிறு குழந்தையின் எலும்புக்கூடு அகழ்ந்தெடுக்கப்பட்டது. பாலூட்டும் போத்தல் சான்றுப் பொருளாக மீட்கப்பட்டு நீதிமன்றக் கட்டுக்காவலில் வைக்கப்பட்டுள்ளது என்றார்.
+
+◼️
+
+[Data](articles/6192abd6.json)
 
 ---
 
@@ -164,6 +236,74 @@ Subsequent searches led to the recovery of 304 kg of ganja from a house in Keezh
 
 ---
 
+### கிளிநொச்சி பொலிஸ் சிறை கூட்டில் ஒருவர் உயிர் மாய்ப்பு!
+
+*2025-07-25 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/220961) · `ta`
+
+கிளிநொச்சி பொலிஸ்  நிலையத்தில் தடுப்பு காவலில் வைக்கப்பட்டிருந்த 65 வயதுடைய நான்கு பிள்ளையின் தந்தை ஒருவர் சடலமாக  மீட்க்கப்பட்டுள்ளார்.
+
+குறித்த நபர் வெள்ளிக்கிழமை (25) நன்பகல் குடும்பத் தகராறு காரணமாக மகளை தாக்கியதாக குற்றம் சாட்டி பொலிஸில் முறைப்பாடு செய்ததை அடுத்து பொலிஸார் குறித்த நபரை கைது செய்து தடுப்புக் காவலில் வைக்கப் பட்டிருந்த போது தூக்கில் தொங்கிய  நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்
+
+சடலமாக மீட்கப்பட்டவர் 65 வயதுடைய இரத்தினம் ராயு என்ற நான்கு பிள்ளைகளின் தந்தையாவர் சம்பவ இடத்திற்கு சென்ற  கிளிநொச்சி மாவட்ட நீதவான் நீதிமன்ற நீதவான்  ஜமீல் அவர்கள் சம்பவத்தை நேரில் பார்வையிட்டு உடற்கூற்று பரிசோதனையின் பின்னர் உறவினர்களிடம் ஒப்படைக்குமாறு உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/bd52f6b5.json)
+
+---
+
+### ஹரஹர வீரமல்லு - திரைப்பட விமர்சனம்
+
+*2025-07-25 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220957) · `ta`
+
+நடிகர்கள்: பவன் கல்யாண், நிதி அகர்வால், பொபி தியோல், நாசர், சுனில் மற்றும் பலர்.
+
+இந்தியாவில் உள்ள ஆந்திர மாநிலத்தின் துணை முதல்வரும், ஜன சேனா எனும் அரசியல் கட்சியின் தலைவரும், தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகருமான பவன் கல்யாண் நடிப்பில் உருவாகி, சற்று கால தாமதத்துடன் வெளியாகி இருக்கும் படம் 'ஹர ஹர வீர மல்லு'. இந்த திரைப்படம் ரசிகர்களுக்கு சிறந்த பட மாளிகை அனுபவத்தை அளித்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+பதினாறாம் நூற்றாண்டில் இந்தியாவை ஆட்சி செய்த முகலாய மன்னர்களின் காலகட்டத்தில் குறிப்பாக அவுரங்கசீப் மன்னராக இருந்த காலகட்டத்தில் அவர் இந்தியா முழுவதும் இஸ்லாம் மதத்தை பரப்ப திட்டமிடுகிறார்.
+
+அத்துடன் இந்தியாவில் வேரூன்றி இருந்த இந்து மதத்தை அழிக்கவும் திட்டமிடுகிறார். இதற்காக இந்து மன்னர்கள் ஆண்ட ராஜ்ஜியத்தை அழித்து, மக்களை மதம் மாறும் படி கட்டாயப்படுத்துகிறார்.
+
+...
+
+[Data](articles/fea32bf4.json)
+
+---
+
+### மகாவதார் நரசிம்மா - திரைப்பட விமர்சனம்
+
+*2025-07-25 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/220956) · `ta`
+
+அந்த வகையில் இந்திய கலாச்சாரத்தில் குறிப்பாக இந்து புராண இதிகாசங்களில் இடம் பிடித்திருக்கும் கதாபாத்திரங்கள் இதுபோன்ற அனிமேஷன் திரைப்படங்களாக உருவாக்குவதற்கு தகுதி படைத்தவை என்றாலும் இத்தகைய தொழில்நுட்பம் நேர்த்தியாக பாவிப்பதில் இதுவரை பற்றாக்குறையாக இருந்தது.
+
+தற்போது இத்தகைய தொழில்நுட்பம் இந்தியாவிலும் செறிவாக கிடைப்பதால்....' மகாவதார் நரசிம்மா'  எனும் பெயரில் அனிமேஷன் திரைப்படங்கள் உருவாக்கப்பட்டிருக்கிறது. இந்தத் திரைப்படம் -‌இது போன்ற அனிமேஷன் திரைப்படங்களை விரும்பி பார்க்கும் ரசிகர்களை திருப்தி அடையச் செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+மகாவிஷ்ணு பத்து அவதாரங்களை எடுத்ததாகவும், அதில் அவர் எடுத்த வராக அவதாரம் மற்றும் நரசிம்ம அவதாரம் ஆகிய இரண்டு அவதாரங்களை பற்றிய கதையை விவரிப்பது தான் இந்த 'மகாவதார் நரசிம்மா'.
+
+பிரகலாதன்-  ஸ்ரீமன் நாராயணன் மீதான நிகரற்ற பக்தியை இன்றைய டிஜிற்றல் தலைமுறையினருக்கு அவர்கள் விரும்பும் வகையில் விவரிக்கும் புராண  கதை தான் மகாவதார் நரசிம்மா.
+
+...
+
+[Data](articles/472356fa.json)
+
+---
+
+### பொதுமன்னிப்பின் கீழ் விடுவிக்கப்பட்ட அத்துல திலக்கரத்னவுக்கு 7 வருட கடூழிய சிறை அநுராதபுரம் மேல் நீதிமன்றம் தீர்ப்பு
+
+*2025-07-25 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/220955) · `ta`
+
+குற்றச்சாட்டு உறுதி செய்யப்பட்டு அநுராதபுரம் சிறையில் தடுத்து வைக்கப்பட்டிருந்த நிலையில் 2025 வெசாக் பூரணை தினத்தன்று ஜனாதிபதி பொதுமன்னிப்பின் கீழ் விடுவிக்கப்பட்டதாகக்கூறப்படும் டபிள்யூ.எச் அத்துல திலக்கரத்ன எனும் குற்றவாளிக்கு அநுராதபுரம் மேல் நீதிமன்றம் 7 வருட கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்தது.
+
+இதற்கு மேலதிகமாக பாதிக்கப்பட்ட தரப்புக்கு 40 இலட்சம் ரூபா இழப்பீடு வழங்குமாறும் உத்தர விட்ட நீதிபதி குறித்த நட்ட ஈட்டை செலுத்த தவறினால் அபராத தொகையாக அறவிடவும் அதனை மையப்படுத்தி 10 மாத கடூழிய சிறைத் தண்டனை விதித்து தீர்ப்பளித்தார்.
+
+டபிள்யூ.எச். அத்துல திலகரத்ன எனும் குறித்த நபர் 40 இலட்சம் ரூபா மோசடி செய்த சம்பவம் தொடர்பில் அநுராதபுரம் மேல் நீதிமன்றினால் அண்மையில் குற்றவாளியாக உறுதிப்படுத்தப்பட்டு சிறைத் தண்டனை வழங்கப்பட்டவராவார்.
+
+...
+
+[Data](articles/d1fc0931.json)
+
+---
+
 ### Full list as Sri Lanka waives visa fees for 40 countries
 
 *2025-07-25 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110840/full-list-as-sri-lanka-waives-visa-fees-for-40-countries) · `en`
@@ -251,6 +391,40 @@ Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa
 ◼️
 
 [Data](articles/2c7cc71b.json)
+
+---
+
+### 'அய்யா' எனும் திரைப்படமாக உருவாகும் மருத்துவர் ராமதாஸின் வாழ்க்கை வரலாறு
+
+*2025-07-25 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220949) · `ta`
+
+தமிழகத்தில் குறிப்பாக வட தமிழகத்தில் வாழும் கோடிக்கணக்கான வன்னிய இன மக்களின் எழுச்சிக்காக போராடி வரும் மருத்துவர் ராமதாஸின் வாழ்க்கை வரலாறு-  அவரின் பரிபூரண ஆசியுடன் 'அய்யா' என்ற பெயரில் திரைப்படமாக தயாராகிறது. இது தொடர்பான அதிகாரப்பூர்வமான அறிவிப்பு அவரது பிறந்த நாளன்று பிரத்யேக புகைப்படங்களை வெளியிட்டு படக்குழுவினர் அறிவித்துள்ளனர்.
+
+இயக்குநரும், நடிகருமான சேரன் இயக்கத்தில் உருவாகும் 'அய்யா' எனும் சுயசரிதை திரைப்படத்தில் நடிகரும், சமூக செயற்பாட்டாளருமான ஆரி அர்ஜுனன் கதையின் நாயகனாக நடிக்கிறார்.
+
+இந்த திரைப்படத்திற்கு ஏகாம்பரம் ஒளிப்பதிவு செய்ய கே. எஸ். சுந்தரமூர்த்தி இசையமைக்கிறார். மருத்துவர் ராமதாசின் அரசியல் சார்ந்த சம்பவங்கள் மற்றும் நடவடிக்கைகள் தொடர்பான வாழ்க்கை வரலாற்று படமாக உருவாகும் இந்த திரைப்படத்தை தமிழ் குமரன் புரொடக்ஷன்ஸ் பிரைவேட் லிமிடெட் நிறுவனம் சார்பில் தயாரிப்பாளர் ஜி. கே. எம். தமிழ் குமரன் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/49125aca.json)
+
+---
+
+### மாரீசன் - திரைப்பட விமர்சனம்
+
+*2025-07-25 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220951) · `ta`
+
+நடிகர்கள்: வடிவேலு, பகத் பாசில், கோவை சரளா, விவேக் பிரசன்னா, சித்தாரா, பி. எல். தேனப்பன், லிவிங்ஸ்டன் மற்றும் பலர்.
+
+'மாமன்னன்' படத்தின் வெற்றிக்குப் பிறகு மீண்டும் வடிவேலு - பகத் பாசில் கூட்டணியில் உருவாகி இருப்பதாலும் இப்படத்தின் டீசரில் இரண்டு முரண்பட்ட குணாதிசயம் கொண்ட கதாபாத்திரங்களின் பயணத்தை மையப்படுத்திய படைப்பு என்ற எதிர்பார்ப்பை ஏற்படுத்தியதாலும் ரசிகர்கள் இப்படத்தைக் காண பட மாளிகைக்கு சென்றனர்.  அவர்களுக்கு படக் குழுவினர் 'தரமான சம்பவத்தை ' நிகழ்த்தினார்களா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+தயாளன் ( பகத் பாசில்) சிறிய அளவிலான திருட்டுகளில் ஈடுபட்டு, காவல் துறையினரால் பிடிக்கப்பட்டு, சிறைக்கு சென்று வரும் திருடன். வேலாயுதம் பிள்ளை ( வடிவேலு) முதிய வயதில் உள்ளவர்.
+
+ஒரு தருணத்தில் தயாளன் திருட்டில் ஈடுபடும் போது வித்தியாசமான சூழலில் வேலாயுதம் பிள்ளையை சந்திக்கிறார். பணத்திற்காக அவரின் கோரிக்கையை ஏற்று அவருடன் பயணிக்கத் தொடங்குகிறார் தயாளன்.
+
+...
+
+[Data](articles/152b11bb.json)
 
 ---
 
@@ -693,6 +867,22 @@ They are also scheduled to discuss investments with Sri Lankan public and privat
 ◼️
 
 [Data](articles/e6fd884b.json)
+
+---
+
+### From Crime To Recreation: Morality Of Sri Lankan Tourism
+
+*2025-07-25 15:35:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-crime-to-recreation-morality-of-sri-lankan-tourism/) · `en`
+
+One may question if this is an instance of a covert, deliberate policy or a reflection of passive complicity. The government’s indifference amid growing criticism and protest against welcoming Israelis accused of war crimes – disguised as tourists – raises couple of red flags.
+
+Are we not as a country being complicit in obstructing accountability, for petty economic or political gain?
+
+Critics would say that the government’s non-action in this regard clearly demonstrates the State’s failure to uphold international law. Moreover, as a member of the comity of nations, it would be condescending to sacrifice justice for geopolitical or economic benefits. The NPP which came to power under the symbol of ‘Compass” seems to have lost its compass of moral responsibility and commitment to justice.
+
+...
+
+[Data](articles/af267d12.json)
 
 ---
 
@@ -1649,187 +1839,5 @@ Aitken Spence Hotels இன் விளம்பர நாமமான  Herita
 ...
 
 [Data](articles/08aa452f.json)
-
----
-
-### கார் பள்ளத்தில் கவிழ்ந்து விபத்து ; மூவர் காயம்
-
-*2025-07-25 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/220899) · `ta`
-
-பசறை பகுதியில் கார் ஒன்று வீதியை விட்டு விலகி சுமார் 300 அடி பள்ளத்தில் விழுந்து விபத்துக்குள்ளானதில்  மூவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-காயமடைந்தவர்கள் பதுளை பகுதியைச் சேர்ந்த 64, 58 மற்றும் 22 வயதுடைய இரண்டு பெண்களும் ஒரு ஆணுமே இவ்வாறு காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பதுளையில் இருந்து ஒக்கம்பிட்டி பகுதிக்கு தான நிகழ்வொன்றிற்கு சென்று மீண்டும் பதுளைக்கு திரும்பும் போது பசறை எரிபொருள் நிரப்பும் நிலையத்திற்கு முன்பாக வீதியை விட்டு விலகி சுமார் 300 அடி பள்ளத்தில் விழுந்து விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
-
-குறித்த கார் விபத்துக்குள்ளாகும் போது காரில் ஐவர் பயணித்ததாகவும் அதில் மூவர் பலத்த காயமடைந்த நிலையில் பசறை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன்,  பின்னர் மேலதிக சிகிச்சைகளுக்காக பதுளை வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சிகிச்சை பெற்று வருவதாக வைத்தியசாலையின் அதிகாரி ஒருவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/4774378c.json)
-
----
-
-### Former Minister P. Dayaratne passes away at 89
-
-*2025-07-25 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110830/former-minister-p-dayaratne-passes-away-at-89) · `en`
-
-Former Minister P. Dayaratne, a veteran politician and long-serving Member of Parliament from the Ampara District, has passed away at the age of 89, according to family sources.
-
-Born on October 1, 1936, Petikirige Dayaratna was a prominent figure in Sri Lankan politics.
-
-He was first elected to Parliament in 1977 representing the Ampara electorate under the United National Party (UNP).
-
-◼️
-
-[Data](articles/89034aa7.json)
-
----
-
-### ඉන්දියාවේ පාසලක ගොඩනැගිල්ලක් කඩා වැටී ළමුන් 04ක් මරුට
-
-*2025-07-25 10:34:36* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-පාසලක-ගොඩනැගිල්ලක්-කඩා-වැටී-ළමුන්-04ක්-මරුට/11-417501) · `si`
-
-ඉන්දියාවේ රාජස්ථාන් හී පාසලක ගොඩනැගිල්ලක් කඩා වැටීමෙන් ළමු 04 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-එම අනතුරින් තවත් 40 දෙනෙකු පමණ සුන්බුන් අතර සිරවී සිටින බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/c8d5cbf9.json)
-
----
-
-### හිටපු අමාත්‍ය පී. දයාරත්න අභාවප්‍රාප්ත වෙයි
-
-*2025-07-25 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212615) · `si`
-
-හිටපු අමාත්‍ය පී. දයාරත්න මහතා අද (25) පෙරවරුවේ අභාවප්‍රාප්ත වී තිබේ.
-
-දිගාමඩුල්ල දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන පී. දයාරත්න මහතා මියයන විට 89වන වියේ පසුවිය.
-
-1977 වසරේ දී දිගාමඩුල්ල දිස්ත්‍රික්කය නියෝජනය කරමින් දේශපාලනයට පිවිසි දයාරත්න මහතා, එම දිස්ත්‍රික්ය වෙනුවෙන් සුවිශේෂී සේවාවක් ඉටුකළ දේශපාලඥයෙකු ලෙස සැලකෙයි.
-
-ජේ. ආර්. ජයවර්ධන, ආර්. ප්‍රේමදාස. ඩී. බී. විජේතුංග, චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග සහ මහින්ද රාජපක්ෂ යන ජනාධිපතිවරුන් යටතේ ඒ මහතා විවිධ අමාත්‍ය ධුර හොබවා ඇත.
-
-◼️
-
-[Data](articles/dbabac2f.json)
-
----
-
-### ரூ. 40 ஆயிரம் பெறுமதியான போதைப்பொருளுடன் கனேடிய பிரஜை கைது
-
-*2025-07-25 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-40-ஆயிரம்-பெறுமதியான-போதைப்பொருளுடன்-கனேடிய-பிரஜை-கைது/175-361735) · `ta`
-
-சுமார் 40 மில்லியன் ரூபாய் மதிப்புள்ள போதைப்பொருட்களுடன் 52 வயது கனேடிய நபர் ஒருவர் இன்று காலை பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டார்.
-
-கனடாவின் ஒன்ராறியோவைச் சேர்ந்த சந்தேக நபர், கனடாவிலிருந்து கத்தாரின் தோஹாவிற்கு பறந்து சென்று, பின்னர் கத்தார் ஏர்வேஸ் விமானம் QR-662 இல் BIA ஐ வந்தடைந்தார். "கிரீன் சேனல்" வழியாக விமான நிலையத்தை விட்டு வெளியேற முயன்றபோது விமான நிலைய சுங்க போதைப்பொருள் பிரிவு அவரைப் பிடித்தது,
-
-இது அறிவிக்க எதுவும் இல்லாத பயணிகளுக்கானது. அதிகாரிகள் அவரது சூட்கேஸில் மறைத்து வைக்கப்பட்டிருந்த 12.196 கிலோகிராம் ஹாஷிஷ் மற்றும் 5.298 கிலோகிராம்  கொக்கெயின் ஆகியவற்றைக் கண்டுபிடித்தனர்.
-
-மேலதிக விசாரணை மற்றும் சட்ட நடவடிக்கைகளுக்காக அந்த நபரும் போதைப்பொருட்களும் கட்டுநாயக்கவில் உள்ள சுங்க போதைப்பொருள் பணியகத்திடம் ஒப்படைக்கப்படுகின்றன.
-
-◼️
-
-[Data](articles/c8009d12.json)
-
----
-
-### Sri Lanka parliament to impeach police chief on August 05
-
-*2025-07-25 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-to-impeach-police-chief-on-august-05-232707/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament will debate a resolution to remove Inspector General Of Police Deshabandu Tennakoon on August 05, a statement said.
-
-A parliamentary committee earlier this week decided that the Police Chief Tennakoon, had abused power
-
-“This marks a historic moment in our constitutional journey, the first time in the history of the Republic of Sri Lanka that such a Committee has submitted its findings recommending the removal of an Inspector General of Police under the provision of the law enacted by the Parliament,” Wickramarathne read out in parliament.
-
-“This committee has found unanimously that the officer in question is guilty of the allegations brought against him,”
-
-The debate will be held from 1130 am to 1600 pm. (Colombo/July25/2025)
-
-◼️
-
-[Data](articles/be2d0a49.json)
-
----
-
-### முன்னாள் அமைச்சர் தயாரத்ன காலமானார்
-
-*2025-07-25 10:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-தயாரத்ன-காலமானார்/175-361734) · `ta`
-
-முன்னாள் அமைச்சரவை அமைச்சர் பி. தயாரத்ன இன்று (25) காலை கொழும்பில் காலமானார்.
-
-1977 ஆம் ஆண்டு ஐக்கிய தேசியக் கட்சியில் இருந்து அம்பாறை மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தி அரசியலில் நுழைந்த  பி. தயாரத்ன, ஜே.ஆர்., ஜெயவர்தனே, ஆர். பிரேமதாச, டி.பி. விஜேதுகா, சந்திரிகா பண்டாரநாயக்க, குமாரதுங்க மற்றும் மஹிந்த ராஜபக்ஷ ஆகிய ஜனாதிபதிகளின் கீழ் அமைச்சர் பதவிகளை வகித்துள்ளார்.
-
-◼️
-
-[Data](articles/63c12b9d.json)
-
----
-
-### President Anura Kumara to visit Maldives on Monday
-
-*2025-07-25 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110829/president-anura-kumara-to-visit-maldives-on-monday) · `en`
-
-President Anura Kumara Dissanayake will undertake a state visit to the Maldives from July 28 to 30, 2025, at the invitation of Maldivian President Mohamed Muizzu.
-
-During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation, the Ministry of Foreign Affairs said in a statement.
-
-The State Visit is also significant as Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year, it said.
-
-During his stay, the President is also scheduled to address a business forum and meet with members of the Sri Lankan expatriate community, the statement added.
-
-President Dissanayake will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, along with senior government officials.
-
-◼️
-
-[Data](articles/1c3efe23.json)
-
----
-
-### அவசரமாக ஹெலி தரையிறக்கம்
-
-*2025-07-25 10:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஹெலி-தரையிறக்கம்/175-361733) · `ta`
-
-ஹொரணை, குலுபனவில் உள்ள தக்ஷிலா ஜூனியர் கல்லூரி மைதானத்தில் விமானப்படை ஹெலிகாப்டர் ஒன்று தரையிறங்கியதாக காவல்துறை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/aadc7ad8.json)
-
----
-
-### Tariff, market and geopolitical risks persist, but markets resilient: Fitch
-
-*2025-07-25 10:20:00* · [`economynextcom`](https://economynext.com/tariff-market-and-geopolitical-risks-persist-but-markets-resilient-fitch-232699/) · `en`
-
-ECONOMYNEXT – Risks for global credit remain negative with significant uncertainties, Fitch Ratings has said, but economic data and capital markets have been notably resilient this year so far.
-
-“Risks for global credit remain biased to the downside with significant uncertainties from a cyclical economic slowdown, a mercurial US tariff policy and persistent geopolitical risks,” Fitch Ratings said.
-
-However, the pause on US tariffs, the resolution to geopolitical conflicts and a continued willingness of US consumers to spend have kept investor risk appetite buoyed and market liquidity high, despite the elevated uncertainty and risk environment, the ratings agency said.
-
-...
-
-[Data](articles/cf09e9e0.json)
-
----
-
-### පාර්ලිමේන්තුව රැස්වෙයි
-
-*2025-07-25 10:19:14* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-රැස්වෙයි/11-417500) · `si`
-
-අද දිනයේදී පෙ.ව 11.30 සිට ප.ව 5.00 දක්වා අභාවප්‍රාප්ත හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයන් වෙනුවෙන් ශෝක යෝජනා ඉදිරිපත් කිරීම සඳහා කාලය වෙන් කර ඇත.
-
-මේ අනුව අභාවප්‍රාප්ත හිටපු  පාර්ලිමේන්තු මන්ත්‍රීවරයන් වන ආර්. සම්පන්දන්, අබේරත්න බණ්ඩාර හේරත් පිලපිටිය, ඩබ්.බී ඒකනායක, ලකී ජයවර්ධන සහ මාලනී ෆොන්සේකා යන මහත්ම මහත්මීන් වෙනුවෙන් මෙලෙස ශෝක යෝජනා ඉදිරිපත් කිරීමට නියමිතව ඇත.
-
-අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා සභාව කල්තබන අවස්ථාවේ ප්‍රශ්න සඳහා කාලය වෙන් කර තිබේ.
-
-◼️
-
-[Data](articles/91c01908.json)
 
 ---

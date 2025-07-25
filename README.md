@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 20:06:18**
+As of **2025-07-25 20:21:21**
 
 ## Newspaper Stats
 
-*Scraped **66,784** Articles*
+*Scraped **66,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,405
-adaderanalk | 8,198
+adaderanalk | 8,200
 tamilmirrorlk | 9,650
 virakesarilk | 11,126
-adaderanasinhalalk | 11,474
+adaderanasinhalalk | 11,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,784 articles have been extended.
+61,973 (92.8%) of 66,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### ජනපති සහ අමෙරිකානු වෙළෙඳ නියෝජිත කාර්යාලයේ තානාපති අතර Online සාකච්ඡාවක්
+
+*2025-07-25 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212645) · `si`
+
+එක්සත් ජනපදය විසින් මෙරට අපනයන මත පනවනු ලැබූ තීරුබදු අඩු කර ගැනීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ එක්සත් ජනපද වෙළෙඳ නියෝජිත කාර්යාලයේ (USTR) තානාපති ජේමිසන් ග්‍රියර් මහතා අතර මාර්ගගත සාකච්ඡාවක් පවත්වා තිබේ.
+
+මෙරටට පනවා ඇති තීරුබදු අඩු කර ගැනීම සහ දෙරට අතර  වෙළෙඳ සහ ආයෝජන සබඳතා වර්ධනය කර ගැනීම මෙම සාකච්ඡාවේ මූලික අරමුණ වී ඇත.
+
+මෙම මාර්ගගත සාකච්ඡාව සඳහා මුදල් අමාත්‍යාංශයේ ලේකම් ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සහ එක්සත් ජනපද වෙළෙඳ නියෝජිත කාර්යාලයේ (USTR) නිලධාරීහුද සම්බන්ධ වූහ.
+
+◼️
+
+[Data](articles/c25fdd86.json)
+
+---
 
 ### මෙරට මුහුදු සීමාව උල්ලංඝනය කළ ඉන්ධීය ධීවරයින් 07ක් රිමාන්ඩ්
 
@@ -70,6 +86,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Over 300 kg of ganja seized in India; Sri Lankans among five arrested
+
+*2025-07-25 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110842/over-300-kg-of-ganja-seized-in-india-sri-lankans-among-five-arrested) · `en`
+
+The Karaikal district police have seized over 300 kg of ganja and arrested five persons, including two Sri Lankan nationals, for their alleged involvement in an inter-state and cross-border smuggling network, Indian media reported today.
+
+The action was part of a crackdown under “Operation Vidiyal”, a drive aimed at making the district free from narcotic substance use, according to The Hindu.
+
+A statement from the Karaikal police said that acting on input from the Intelligence Bureau, a team, led by inspector R. Mari Christian Paul, intercepted a vehicle on July 15, arrested Dileep, 38, of Mannargudi and Kumaravel, 44, of Nallathur, and recovered 26 kg of ganja from their four-wheeler.
+
+Subsequent searches led to the recovery of 304 kg of ganja from a house in Keezhakasakudi, reportedly sourced via Kishore Kumar, 37, of Ambur.  He was arrested on July 17, and four more vehicles suspected to have been used for transporting ganja were seized.
+
+...
+
+[Data](articles/7e368de7.json)
+
+---
+
 ### ஜனாதிபதி,பிரதமர் பதவிக்கு பொருத்தமானவர் சம்பந்தன்
 
 *2025-07-25 19:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிரதமர்-பதவிக்கு-பொருத்தமானவர்-சம்பந்தன்/175-361759) · `ta`
@@ -105,6 +139,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e5ed7db1.json)
+
+---
+
+### Full list as Sri Lanka waives visa fees for 40 countries
+
+*2025-07-25 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110840/full-list-as-sri-lanka-waives-visa-fees-for-40-countries) · `en`
+
+To boost their tourism, the Sri Lankan government has taken a major step by giving visa fee waivers to forty countries.
+
+This sudden change in visa policy is expected to boost the tourism recovery of Sri Lanka. The national policy change also induced the economy of the country.
+
+This visa policy change is expected to attract international visitors to increase the cultural exchange.
+
+The countries to get this visa fee waived include Germany, India, Indonesia, Japan, China, Australia, Spain, Belarus and many more.
+
+This reflects the country’s efforts to improve its international standing and create easier access for travellers, boosting tourism and international relations.
+
+Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa-free destinations. This puts the country in a relatively favourable position for travellers.
+
+...
+
+[Data](articles/c659a4c4.json)
 
 ---
 
@@ -1773,63 +1829,5 @@ Visuals from the site showed local residents rushing to rescue the trapped stude
 ...
 
 [Data](articles/b0a4f1d4.json)
-
----
-
-### 4 children dead, 40 trapped in debris as school building collapses in India
-
-*2025-07-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110828/4-children-dead-40-trapped-in-debris-as-indias-rajasthan-school-building-collapses) · `en`
-
-At least four children were killed and several are feared trapped after a government school building collapsed in Rajasthan’s Jhalawar district on Friday.
-
-The incident at Piplodi Government School in Manohar Thana took place at around 8.30 am. Officials said around 40 children, besides teachers and staff members, were present in the premises when the roof of the single-storey building collapsed.
-
-According to sources, the building was in a dilapidated condition and several complaints were raised in this regard earlier. The school offers education till Class 8.
-
-“Four children have died and 17 others are injured. Ten children have been referred to Jhalawar out of which three to four are critical,” Jhalawar Superintendent of Police Amit Kumar told news agency PTI.
-
-Visuals from the site showed local residents rushing to rescue the trapped students, teachers and staff members. At least four JCB machines also arrived at the spot to help clear the debris.
-
-...
-
-[Data](articles/e729ad2a.json)
-
----
-
-### ඉන්දියාවේ පාසල් ගොඩනැගිල්ලක් කඩාවැටී ළමුන් 4ක් මරුට
-
-*2025-07-25 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212614) · `si`
-
-ඉන්දියාවේ රාජස්ථාන්හි පාසල් ගොඩනැගිල්ලක් කඩාවැටී අද (25) පෙරවරුවේ සිදු වූ අනතුරකින් ළමුන් සිව්දෙනෙකු මියගොස් ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
-
-ජලාවර් දිස්ත්‍රික්කයේ රජයේ පාසලක තනි මහල් ගොඩනැගිල්ලක්  මෙලෙස කඩාවැටී ඇති අතර, අනතුර සිදුවන අවස්ථාවේ ගුරුවරුන් සහ කාර්ය මණ්ඩල සාමාජිකයින්ට අමතරව ළමුන් 40 දෙනෙකු පමණ සිට තිබේ.
-
-මෙම ගොඩනැගිල්ල අබලන් තත්ත්වයේ තිබූවක් වන අතර, ඒ සම්බන්ධයෙන් මීට පෙර පැමිණිලි කිහිපයක්ද ලැබී තිබූ පසුබිමකම මෙම අනතුර සිදුව ඇත.
-
-◼️
-
-[Data](articles/4b40b971.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds steady
-
-*2025-07-25 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-232693/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.78/82 to the US dollar in the spot market Friday, slightly stronger from 301.80/85 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 9.02/08 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.48/50 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.05/15 percent.
-
-A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent.
-
-Stocks opened up; ASPI was up 0.16%, or 30.04 points, at 19,409.28; S&P SL20 was up 0.12%, or 6.98 points, at 5,734.35. (Colombo/July25/2025)
-
-◼️
-
-[Data](articles/4aab310b.json)
 
 ---

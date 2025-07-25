@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 03:30:49**
+As of **2025-07-26 03:47:45**
 
 ## Newspaper Stats
 
-*Scraped **66,823** Articles*
+*Scraped **66,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 683
 islandlk | 4,078
 economynextcom | 4,091
-dailyftlk | 4,723
+dailyftlk | 4,730
 dailymirrorlk | 4,733
 adalk | 6,408
 adaderanalk | 8,202
@@ -26,11 +26,109 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,823 articles have been extended.
+61,973 (92.7%) of 66,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### Supreme Court postpones sentencing in contempt case against former  Immigration Chief Ilukpitiya
+
+*2025-07-26 03:32:35* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-postpones-sentencing-in-contempt-case-against-former-Immigration-Chief-Ilukpitiya/56-779509) · `en`
+
+The contempt of Court application filed against former Controller General of Immigration and Emigration Harsha Ilukpitiya has been postponed for 23 September by the Supreme Court. On 1 July, Ilukpitiya pleaded guilty before the Supreme Court over the contempt of court charges filed against him over the controversial visa deal. The matter was re-fixed for 23 September to consider an appropriate sentence for the accused following his guilty pleas.
+
+Ilukpitiya has been in remand custody for a period of over nine months.
+
+◼️
+
+[Data](articles/1ee64fc5.json)
+
+---
+
+### Exterminators to expand business via Digi-Tech Pest Management Franchise across 14 districts in Sri Lanka
+
+*2025-07-26 03:23:57* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-to-expand-business-via-Digi-Tech-Pest-Management-Franchise-across-14-districts-in-Sri-Lanka/34-779508) · `en`
+
+...
+
+[Data](articles/0b72e92b.json)
+
+---
+
+### Emirates Group launches massive talent drive to power its next era of innovation and expansion
+
+*2025-07-26 03:19:42* · [`dailyftlk`](https://www.ft.lk/business/Emirates-Group-launches-massive-talent-drive-to-power-its-next-era-of-innovation-and-expansion/34-779507) · `en`
+
+Plans to recruit more than 17,300 professionals across 350 roles this year
+
+The Emirates Group has kick-started a global talent scouting and acquisition drive, revving up this phase of its phenomenal growth. This financial year, the aviation powerhouse is looking to onboard 17,300 people, equivalent to a mid-size town or the seating capacity of 58 Airbus A350 aircraft, across 350 roles.
+
+These roles span every facet, function and operations across Emirates, the world’s most profitable and largest international airline, and dnata, a leading global air and travel services provider. Hundreds of new recruits are required across some roles, including cabin crew, pilots, engineers, commercial and sales teams, customer service, ground handling, catering, IT, HR and finance. dnata is looking to hire more than 4,000 cargo, catering and ground handling specialists.
+
+...
+
+[Data](articles/980837dc.json)
+
+---
+
+### 33rd AGM of Sri Lanka – Pakistan Business Council
+
+*2025-07-26 03:15:02* · [`dailyftlk`](https://www.ft.lk/business/33rd-AGM-of-Sri-Lanka-Pakistan-Business-Council/34-779506) · `en`
+
+Immediate Past President Indhra Kaushal Rajapaksha (left) and newly appointed President Wasantha De Silva (right) present commemorative plaque to Pakistan’s High Commissioner to Sri Lanka Major General (Ret.) Faheem Ul Aziz, HI (M)
+
+The 33rd Annual General Meeting of the Sri Lanka – Pakistan Business Council (SLPBC) was held recently, attended by Pakistan’s High Commissioner to Sri Lanka Major General (Ret.) Faheem Ul Aziz, HI (M) at Cinnamon Lakeside, Colombo.
+
+DMW Ventures Ltd. Managing Director Wasantha de Silva was elected as SLPBC President for 2025/26, while Feroze Haji Anver from Cliftex Industries Ltd. and Perakum Mahasen Abeysekera from Vinu International Trading Company Ltd. were elected Vice Presidents, and M. Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer. Kalhari Group of Companies Chairman/Managing Director Indhra Kaushal Rajapaksa will serve the committee as Immediate Past President.
+
+...
+
+[Data](articles/36782779.json)
+
+---
+
+### Sri Lanka – Bangladesh keen to enhance economic cooperation
+
+*2025-07-26 03:14:23* · [`dailyftlk`](https://www.ft.lk/business/SriLanka-Bangladesh-keen-to-enhance-economic-cooperation/34-779505) · `en`
+
+Sri Lanka High Commissioner Dharmapala Weerakkody met the Vice President of the Dhaka Chamber of Commerce and Industry (DCCI), Md. Salem Sulaiman on 21 July, at the Sri Lanka High Commission in Dhaka.
+
+The meeting focused on a follow-up discussion regarding the Business delegation organised by the DCCI to Sri Lanka from 16-20 June 2025. The visit was co-organised and supported by the High Commission of Sri Lanka in Dhaka.
+
+...
+
+[Data](articles/7388900c.json)
+
+---
+
+### CH17 Loyalty and Hameedia Envoy celebrate 10 years of partnership
+
+*2025-07-26 03:09:36* · [`dailyftlk`](https://www.ft.lk/business/CH17-Loyalty-and-Hameedia-Envoy-celebrate-10-years-of-partnership/34-779504) · `en`
+
+What began as a visionary alliance between CH17 Loyalty and Hameedia Group’s, Envoy London, Sri Lanka’s leading name in corporate menswear, has grown into a formidable partnership defined by mutual respect and a commitment to excellence. For over ten years, CH17 has powered Envoy’s loyalty journey with innovative customer engagement and exclusive privilege programs. The two organisations have reaffirmed their unwavering partnership — steadfast in Sri Lanka and now strategically aligned to penetrate new markets, beginning with the UAE. This renewed collaboration aims to deliver greater value to our loyal clientele, expand brand presence, and set new benchmarks in customer loyalty
+
+◼️
+
+[Data](articles/ad0917c7.json)
+
+---
+
+### ComBank and Jaffna University empower farmers and youth in climate-smart agriculture
+
+*2025-07-26 03:05:52* · [`dailyftlk`](https://www.ft.lk/business/ComBank-and-Jaffna-University-empower-farmers-and-youth-in-climate-smart-agriculture/34-779503) · `en`
+
+Full day hands on workshop benefits 100 farmers in Kilinochchi
+
+The Commercial Bank of Ceylon has partnered with the Faculty of Agriculture of the University of Jaffna to deliver hands-on training in smart farming technologies to 100 farmers in Kilinochchi in a significant move to modernise Sri Lanka’s agriculture and strengthen food security in the face of climate change.
+
+A full-day workshop was held at the University’s greenhouses and demonstration fields under the banner of the Bank’s ‘Agri Modernisation Village’ program. It brought together farmers, youth, agriculture students, and instructors to explore practical, environmentally sustainable methods that address the challenges posed by erratic weather patterns, pest outbreaks, and reduced crop yields.
+
+...
+
+[Data](articles/6b444a76.json)
+
+---
 
 ### கிளிநொச்சி மாவட்ட வைத்தியசாலையின் மின் தூக்கி இயங்கவில்லை, நோயாளர்கள் சிரமம்
 
@@ -1709,121 +1807,5 @@ The Minister emphasized that by taking this decision, the Treasury will forgo an
 ...
 
 [Data](articles/168555f0.json)
-
----
-
-### PM vows legal action even against current govt officials over Easter attacks
-
-*2025-07-25 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110834/pm-vows-legal-action-even-against-current-govt-officials-over-easter-attacks) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, stated that legal action will be taken even against any officials currently serving under the incumbent government if they are found guilty in connection with the Easter Sunday bomb attacks.
-
-She made this statement in response to an oral question raised by Member of Parliament Chaminda Wijesiri during a parliamentary session held today (25 July).
-
-◼️
-
-[Data](articles/4c176972.json)
-
----
-
-### கிராமியப் பொருளாதார மேம்பாட்டிற்காக "தேசிய தொழிற்துறை திட்டமிடல் மூலோபாய சபை" ஸ்தாபிக்கப்படும் – பிரதமர் ஹரிணி
-
-*2025-07-25 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/220907) · `ta`
-
-இலங்கையின் கிராமியப் பொருளாதாரத்தை மேம்படுத்துவதைக் குறிக்கோளாகக் கொண்டு, "தேசிய தொழிற்துறை திட்டமிடல் மூலோபாய சபை"யை எதிர்காலத்தில் ஸ்தாபிக்க அரசாங்கம் நடவடிக்கை எடுக்கும் எனப் பிரதமர் கலாநிதி ஹரிணி அமரசூரியதெரிவித்தார். இச்சபையானது இலங்கையின் வர்த்தகத் துறையை மேம்படுத்துவதற்குத் தேவையான தொழில்நுட்ப, விஞ்ஞான மற்றும் ஏனைய ஆலோசனைகளை வழங்கும் என்றும் அவர் குறிப்பிட்டார்.
-
-பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் இன்று  வெள்ளிக்கிழமை (25) நடைபெற்ற பிரதேச அபிவிருத்தி வங்கியின் 40வது ஆண்டு நிறைவு விழாவில் கலந்துகொண்டு உரையாற்றிய போதே பிரதமர் மேற்கண்டவாறு  தெரிவித்தார்.
-
-இந்த ஆண்டு நிறைவு விழாவையொட்டி, மூன்று நாட்கள் நடைபெறும் தொழில்முனைவோர் உற்பத்திப் பொருட்களின் விற்பனைக் கூடங்கள் மற்றும் இணைய வங்கிச் சேவையான "RDB Quick App" ஆகியவற்றை இணையப் பயனாளிகளுக்காகப் பிரதமர் ஆரம்பித்து வைத்தார்.
-
-40 ஆண்டுகால சேவையைக் கொண்டாடும் வகையில், இலங்கை தபால் திணைக்களத்தால் வெளியிடப்பட்ட நினைவு முத்திரை ஒன்றும் பிரதமரிடம் கையளிக்கப்பட்டது.
-
-...
-
-[Data](articles/735b66af.json)
-
----
-
-### අතුල තිලකරත්නට බරපතළ වැඩ සහිත වසර 07ක සිරදඬුවමක්
-
-*2025-07-25 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212623) · `si`
-
-ජනාධිපති පොදු සමාව යටතේ අනීතිකව අනුරාධපුර බන්ධනාගාරයෙන් මුදාහැරි  ඩබ්ලිව්.එම්. අතුල තිලකරත්න නැමැත්තාට අනුරාධපුර මහාධිකරණ විනිසුරු නලීන් ද හේවාවසම් මහතා විසින් බරපතළ වැඩ සහිතව වසර 07ක  සිරදඬුවමක් නියම කර තිබේ.
-
-ඒ කූඨ ලේඛනයක් සකස් කර බැංකුවකින් රුපියල් ලක්ෂ 35ක මුදලක් ලබාගෙන එම මුදල සාපරාධී සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙනි.
-
-බැංකුවකින් මුදල් ලබා ගැනීමට භාවිත කරන ලේඛනයක් කූඨ ලෙස සකස් කර මුදල් ලබා ගැනීමේ චෝදනාව යටතේ වසර පහක බරපතළ වැඩ සහිත සිර දඬුවමක් සහ සාවද්‍ය පරිහරණය කිරීමේ චෝදනාවට තවත් වසර දෙකක බරපතළ වැඩ සහිත සිර දඬුවමක් මෙසේ නියම කෙරිණි.
-
-ඊට අමතරව, මෙම නඩුවේ පැමිණිලිකාර වෛද්‍ය එස්.ඩබ්.ඒ. ගාමිණී විමලානන්දට මුදලින් රුපියල් ලක්ෂ හතළිහක  වන්දියක් ගෙවන ලෙසට ද විත්තිකරුට නියෝග කළ මහාධිකරණ විනිසුරුවරයා එම වන්දි මුදල ගෙවීම පැහැර හරින්නේ නම් තවත් මාස දහයක සිර දඬුවමක් නියම කළේය.
-
-විත්තිකාර අතුල තිලකරත්නට එරෙහිව පැවති මෙම නඩු විභාගය අවසන් කර එහි තීන්දුව ප්‍රකාශයට පත් කිරීම සඳහා අදාළ නීති කෘත්‍යය අනුරාධපුර මහාධිකරණය හමුවේ අද (25) යළි කැඳවූ අවස්ථාවේදී ඔහු මෙම නියෝගය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/813ecc8d.json)
-
----
-
-### ஒர நாளில் தங்கத்தின் விலையில் ஏற்பட்ட மாற்றம்
-
-*2025-07-25 13:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒர-நாளில்-தங்கத்தின்-விலையில்-ஏற்பட்ட-மாற்றம்/175-361745) · `ta`
-
-இன்று (25) தங்கம் பவுண் ஒன்றுக்கு 2,000 ரூபாயால் குறைந்ததுள்ளதாக, கொழும்பு செட்டியார் தெரு தங்க நகை வியாபாரிகள் சங்கத்தினர் தெரிவித்துள்ளனர்.
-
-22 கரட் தங்கத்தின் ஒரு கிராமின் விலை 30,750 ரூபாயாகவும், விற்பனை செய்யப்படுகிறது. R
-
-◼️
-
-[Data](articles/d6668cc8.json)
-
----
-
-### ஒரே நாளில் தங்கத்தின் விலையில் ஏற்பட்ட மாற்றம்
-
-*2025-07-25 13:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-நாளில்-தங்கத்தின்-விலையில்-ஏற்பட்ட-மாற்றம்/175-361745) · `ta`
-
-இன்று (25) தங்கம் பவுண் ஒன்றுக்கு 2,000 ரூபாயால் குறைந்ததுள்ளதாக, கொழும்பு செட்டியார் தெரு தங்க நகை வியாபாரிகள் சங்கத்தினர் தெரிவித்துள்ளனர்.
-
-22 கரட் தங்கத்தின் ஒரு கிராமின் விலை 30,750 ரூபாயாகவும், விற்பனை செய்யப்படுகிறது. R
-
-◼️
-
-[Data](articles/ec029c8c.json)
-
----
-
-### 40 நாடுகளுக்கு விசா கட்டணத்தை நீக்க தீர்மானம்
-
-*2025-07-25 13:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/40-நாடுகளுக்கு-விசா-கட்டணத்தை-நீக்க-தீர்மானம்/175-361744) · `ta`
-
-நாட்டின் சுற்றுலாத் துறையை வளர்க்கும் நோக்கில் மேலும் 40 நாடுகளுக்கான விசா கட்டணங்களை தள்ளுபடி செய்ய அரசாங்கம் முடிவு செய்துள்ளதாக வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.
-
-"ஹோட்டல் ஷோ கொழும்பு 2025" கண்காட்சி இன்று காலை கொழும்பில் உள்ள பண்டாரநாயக்க சர்வதேச மாநாட்டு மையத்தில் தொடங்கி வைக்கப்பட்டது.
-
-இந்த நிகழ்வு ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் தலைமையில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையில் அமைச்சர் இதனைக் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/4e81dc86.json)
-
----
-
-### ’’இலங்கை தொழிலாளர் காங்கிரஸின் 87 வது வருட அகவை தினம் இன்று
-
-*2025-07-25 12:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தொழிலாளர்-காங்கிரஸின்-87-வது-வருட-அகவை-தினம்-இன்று/175-361743) · `ta`
-
-இலங்கை தொழிலாளர் காங்கிரஸ் (இ.தொ.கா) இன்று அதன் 86 வது ஆண்டு நிறைவடைந்து 87 வது வருட அகவையில் கால் பதிக்கின்றது.
-
-இலங்கை தொழிலாளர் காங்கிரஸ் தலைமையகமான சௌமியபவனில் விசேட பூஜை வழிபாடுகளுடன் முன்னாள் தலைவர்களான அமரர் சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் ஆகியோர்களின் உருவப்படத்திற்கு மலர் மாலை அணிவித்து அனுஷ்டிக்கப்பட்டது.
-
-இ.தொ.கா பொதுச் செயலாளர், பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், தலைவர் செந்தில் தொண்டமான் ஆகியோர் முன்னாள் தலைவர்களான அமரர் சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் ஆகியோர்களின் உருவப்படத்திற்கு மலர் மாலை அணிவித்தார்கள்.
-
-1939 ஆம் ஆண்டு ஜூலை மாதம் 25 திகதி அன்று ஆரம்பிக்கப்பட்ட இ.தொ.கா 87 வருட வரலாற்றைக் கொண்ட மாபெரும் தொழிற்சங்கமாகும்.
-
-இந்நிகழ்வில் இ.தொ.கா பொதுச் செயலாளரும், பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், தலைவர் செந்தில் தொண்டமான், பிரதம சட்ட ஆலோசகர் மாரிமுத்து,  உபத்தலைவர்களான. சின்னையா ராஜமனி, செல்லசாமி திருக்கேஷ் மற்றும் காரியாலய உத்தியோகத்தர்களும் கலந்துக்கொண்டார்கள்.
-
-◼️
-
-[Data](articles/6f18ff47.json)
 
 ---

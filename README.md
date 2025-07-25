@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 03:47:45**
+As of **2025-07-26 04:05:50**
 
 ## Newspaper Stats
 
-*Scraped **66,830** Articles*
+*Scraped **66,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ bbccomsinhala | 677
 colombotelegraphcom | 683
 islandlk | 4,078
 economynextcom | 4,091
-dailyftlk | 4,730
 dailymirrorlk | 4,733
+dailyftlk | 4,734
 adalk | 6,408
 adaderanalk | 8,202
 tamilmirrorlk | 9,652
@@ -26,11 +26,75 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,830 articles have been extended.
+61,973 (92.7%) of 66,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### Court of Appeal dismisses Lanka Broadcasters Guild appeal to intervene as interested party
+
+*2025-07-26 03:41:37* · [`dailyftlk`](https://www.ft.lk/news/Court-of-Appeal-dismisses-Lanka-Broadcasters-Guild-appeal-to-intervene-as-interested-party/56-779513) · `en`
+
+The Court of Appeal on Thursday refused Lanka Broadcasters Guild (Guarantee) Ltd., permission to intervene as ‘an interested party’ in support of Asia Broadcasting Corporation Ltd. The Court dismissed the application for intervention in an appeal filed by Asia Broadcasting Corporation against a decision of the Right to Information Commission (RTIC) holding the former to be a Public Authority under the Right to Information (RTI) Act.
+
+...
+
+[Data](articles/075b232e.json)
+
+---
+
+### Japan agrees to continue granting scholarships to Sri Lankan public sector workers
+
+*2025-07-26 03:38:06* · [`dailyftlk`](https://www.ft.lk/news/Japan-agrees-to-continue-granting-scholarships-to-Sri-Lankan-public-sector-workers/56-779512) · `en`
+
+The Government of Japan recently signed an agreement to continue its scholarship program for executive-level public sector officials in Sri Lanka.
+
+Since 2010, the Government of Japan has been offering scholarships on a grant basis through the Japanese Grant Aid for Human Resources Development Scholarship (JDS) program.
+
+The program is funded by the Government of Japan under the Official Development Assistance and implemented through the Japan International Cooperation Agency (JICA).
+
+Accordingly, an exchange of notes between the two Governments and a grant agreement between the Government of Sri Lankan and the JICA for the implementation of the program were signed on Thursday at the Finance, Planning and Economic Development Ministry.
+
+Treasury Secretary Dr. Harshana Suriyapperuma, on behalf of the Government of Sri Lanka, Japanese Ambassador Isomata Akio on behalf of the Government of Japan, and JICA Chief Representative Yamada Tetsuya, on behalf of the JICA signed the relevant documents.
+
+...
+
+[Data](articles/d4b9390e.json)
+
+---
+
+### German Ambassador Dr. Felix Neumann calls on Speaker of the House
+
+*2025-07-26 03:34:35* · [`dailyftlk`](https://www.ft.lk/news/German-Ambassador-Dr-Felix-Neumann-calls-on-Speaker-of-the-House/56-779511) · `en`
+
+German Ambassador Dr. Felix Neumann on Thursday met with Speaker of the Parliament Dr. Jagath Wickramaratne.
+
+The meeting served as an opportunity to exchange views on the current political landscape and to explore areas for future cooperation. Ambassador Dr. Neumann underscored Germany’s continued engagement across the political spectrum. Both parties reaffirmed their ongoing commitment to deepening and broadening the already close partnership between Germany and Sri Lanka.
+
+◼️
+
+[Data](articles/4deda031.json)
+
+---
+
+### Sri Lanka and Maldives to strengthen diplomatic training through MoU
+
+*2025-07-26 03:33:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Maldives-to-strengthen-diplomatic-training-through-MoU/56-779510) · `en`
+
+The Cabinet of Ministers on Monday approved signing a Memorandum of Understanding (MoU) between the Bandaranaike International Diplomatic Training Institute (BIDTI) of Sri Lanka and the Foreign Services Institution of the Republic of Maldives.
+
+The agreement aims to foster mutual cooperation and deepen bilateral understanding in the field of diplomatic training. Under the MoU, both institutions will exchange information on academic programs, facilitate the exchange of scholars and resource persons for seminars, and share expertise in areas of common interest.
+
+Additionally, the agreement will provide opportunities for diplomatic officers from both countries to participate in specialised training programs and jointly organise training courses and seminars in Colombo and Malé.
+
+The proposal to this effect, presented by Foreign Affairs, Foreign Employment, and Tourism Minister Vijitha Herath, was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/b5867430.json)
+
+---
 
 ### Supreme Court postpones sentencing in contempt case against former  Immigration Chief Ilukpitiya
 
@@ -1731,81 +1795,5 @@ Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Co
 ◼️
 
 [Data](articles/f2a7b5c8.json)
-
----
-
-### இணையவழி குற்றங்கள் தொடர்பில்  5,400க்கும் மேற்பட்ட முறைப்பாடுகள் பதிவு!
-
-*2025-07-25 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220908) · `ta`
-
-2025 ஆம் ஆண்டின் இதுவரையான காலப்பகுதிக்குள் இணையவழி குற்றங்கள் தொடர்பில்  5,400க்கும் மேற்பட்ட முறைப்பாடுகள் பதிவு செய்யப்பட்டுள்ளதாக இலங்கை கணினி அவசர செயற்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
-
-இலங்கை கணினி அவசர செயற்பாட்டுப் பிரிவின் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல இது தொடர்பில் தெரிவிக்கையில்,
-
-முகநூல் மற்றும் வாட்ஸ்அப் போன்ற சமூக ஊடகங்கள் ஊடாக இடம்பெறும் மோசடி மற்றும் வன்முறைச் செயல்கள் தொடர்பான முறைப்பாடுகளில் கணிசமான உயர்வு காணப்படுகிறது.
-
-சமூக ஊடகங்களில் சந்தேகத்திற்கிடமான முறையில் காணப்படும் விளம்பரங்கள் மற்றும் ஏனைய நடவடிக்கைகள் தொடர்பில் முறைப்பாடு செய்யுமாறு அவர் மேலும் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/a0c72c9e.json)
-
----
-
-### ජනාධිපති පොදු සමාව යටතේ අනීතිකව නිදහස් වූ පුද්ගලයාට බරපතල වැඩ සහිත සිරදඬුවම්
-
-*2025-07-25 13:38:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-පොදු-සමාව-යටතේ-අනීතිකව-නිදහස්-වූ-පුද්ගලයාට-බරපතල-වැඩ-සහිත-සිරදඬුවම්/11-417503) · `si`
-
-ජනාධිපති පොදු සමාව යටතේ අනීතිකව අනුරාධපුර බන්ධනාගාරයෙන් මුදාහැරි  ඩබ්ලිව්.එම්. අතුල තිලකරත්න නැමැත්තාට බරපතළ වැඩ සහිතව වසර 07ක  සිරදඬුවමක් නියම කර තිබේ.
-
-අනුරාධපුර මහාධිකරණ විනිසුරු නලීන් ද හේවාවසම් මහතා විසින් අද(25දා) මෙම නියෝගය ලබා  දුන්නේය.
-
-◼️
-
-[Data](articles/3db1d395.json)
-
----
-
-### இந்தியாவில் பாடசாலை மேற்கூரை இடிந்து விபத்து ; 7 மாணவர்கள் உயிரிழப்பு
-
-*2025-07-25 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220911) · `ta`
-
-இந்தியாவின், ராஜஸ்தான் மாநிலம் ஜலாவர் மாவட்டம் பொப்லொடி பகுதியில் இன்று வெள்ளிக்கிழமை (25)  காலைபாடசாலை ஒன்றில் மேற்கூரை திடீரென இடிந்து விழுந்துள்ளது.
-
-இந்த சம்பவத்தில் பாடசாலை வகுப்பறைகளில் இருந்த மாணவ-மாணவியர், ஆசிரியர்கள் இடிபாடுகளுக்குள் சிக்கிக்கொண்டுள்ளனர். இந்நிலையில், இந்த கட்டிட விபத்தில் 7 மாணவர்கள் உயிரிழந்துள்ளனர்.
-
-மேலும், படுகாயங்களுடன் மீட்கப்பட்ட 28 மாணவ, மாணவியர் அருகில் உள்ள வைத்தியசாலையில் சிகிச்சைக்கு அனுமதிக்கப்பட்டுள்ளனர்.
-
-வைத்தியசாலையில் சிகிச்சை பெற்று வரும் மாணவ, மாணவியரில் சிலரின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும் அவர்களுக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வருவதாகவும் தகவல் வெளியாகியுள்ளது.
-
-பாடசாலை  கட்டிடத்தின் மேற்கூரை இடிந்து விழுந்து விபத்துக்குள்ளான சம்பவம் தொடர்பாக பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
-
-◼️
-
-[Data](articles/6d8fee02.json)
-
----
-
-### Sri Lanka to waive visa fees for 40 more countries – Foreign Minister
-
-*2025-07-25 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110835/sri-lanka-to-waive-visa-fees-for-40-more-countries-foreign-minister) · `en`
-
-The Government of Sri Lanka has decided to waive visa fees for 40 additional countries to boost tourism, stated Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath.
-
-He made these remarks at a ceremony held in Colombo today (25 July).
-
-The “Hotel Show Colombo 2025” exhibition was inaugurated this morning at the Bandaranaike International Conference Hall in Colombo.
-
-The event was held under the patronage of President Anura Kumara Dissanayake.
-
-“In the past, we allowed tourists from seven countries to visit Sri Lanka without charging visa fees. The United Kingdom was among them,” Minister Herath noted.
-
-“At the most recent Cabinet meeting, we decided to waive visa fees for entry to 40 additional countries. Accordingly, once the relevant gazette notification is issued, a total of 47 countries will be able to visit Sri Lanka without a visa fee.”
-
-The Minister emphasized that by taking this decision, the Treasury will forgo an annual income of approximately USD 66 million.
-
-...
-
-[Data](articles/168555f0.json)
 
 ---

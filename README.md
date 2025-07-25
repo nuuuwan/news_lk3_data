@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 14:36:36**
+As of **2025-07-25 14:50:51**
 
 ## Newspaper Stats
 
-*Scraped **66,728** Articles*
+*Scraped **66,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 4,081
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,401
-adaderanalk | 8,193
+adaderanalk | 8,195
 tamilmirrorlk | 9,638
-virakesarilk | 11,117
+virakesarilk | 11,118
 adaderanasinhalalk | 11,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,728 articles have been extended.
+61,973 (92.9%) of 66,731 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -138,6 +138,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இணையவழி குற்றங்கள் தொடர்பில்  5,400க்கும் மேற்பட்ட முறைப்பாடுகள் பதிவு!
+
+*2025-07-25 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/220908) · `ta`
+
+2025 ஆம் ஆண்டின் இதுவரையான காலப்பகுதிக்குள் இணையவழி குற்றங்கள் தொடர்பில்  5,400க்கும் மேற்பட்ட முறைப்பாடுகள் பதிவு செய்யப்பட்டுள்ளதாக இலங்கை கணினி அவசர செயற்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+இலங்கை கணினி அவசர செயற்பாட்டுப் பிரிவின் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல இது தொடர்பில் தெரிவிக்கையில்,
+
+முகநூல் மற்றும் வாட்ஸ்அப் போன்ற சமூக ஊடகங்கள் ஊடாக இடம்பெறும் மோசடி மற்றும் வன்முறைச் செயல்கள் தொடர்பான முறைப்பாடுகளில் கணிசமான உயர்வு காணப்படுகிறது.
+
+சமூக ஊடகங்களில் சந்தேகத்திற்கிடமான முறையில் காணப்படும் விளம்பரங்கள் மற்றும் ஏனைய நடவடிக்கைகள் தொடர்பில் முறைப்பாடு செய்யுமாறு அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a0c72c9e.json)
+
+---
+
 ### இந்தியாவில் பாடசாலை மேற்கூரை இடிந்து விபத்து ; 7 மாணவர்கள் உயிரிழப்பு
 
 *2025-07-25 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220911) · `ta`
@@ -155,6 +173,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6d8fee02.json)
+
+---
+
+### Sri Lanka to waive visa fees for 40 more countries – Foreign Minister
+
+*2025-07-25 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110835/sri-lanka-to-waive-visa-fees-for-40-more-countries-foreign-minister) · `en`
+
+The Government of Sri Lanka has decided to waive visa fees for 40 additional countries to boost tourism, stated Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath.
+
+He made these remarks at a ceremony held in Colombo today (25 July).
+
+The “Hotel Show Colombo 2025” exhibition was inaugurated this morning at the Bandaranaike International Conference Hall in Colombo.
+
+The event was held under the patronage of President Anura Kumara Dissanayake.
+
+“In the past, we allowed tourists from seven countries to visit Sri Lanka without charging visa fees. The United Kingdom was among them,” Minister Herath noted.
+
+“At the most recent Cabinet meeting, we decided to waive visa fees for entry to 40 additional countries. Accordingly, once the relevant gazette notification is issued, a total of 47 countries will be able to visit Sri Lanka without a visa fee.”
+
+The Minister emphasized that by taking this decision, the Treasury will forgo an annual income of approximately USD 66 million.
+
+...
+
+[Data](articles/168555f0.json)
+
+---
+
+### PM vows legal action even against current govt officials over Easter attacks
+
+*2025-07-25 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110834/pm-vows-legal-action-even-against-current-govt-officials-over-easter-attacks) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, stated that legal action will be taken even against any officials currently serving under the incumbent government if they are found guilty in connection with the Easter Sunday bomb attacks.
+
+She made this statement in response to an oral question raised by Member of Parliament Chaminda Wijesiri during a parliamentary session held today (25 July).
+
+◼️
+
+[Data](articles/4c176972.json)
 
 ---
 
@@ -1709,61 +1765,5 @@ At the recently held elections for the Council of the Colombo Municipality the g
 ...
 
 [Data](articles/d8b924ea.json)
-
----
-
-### ජනප්‍රිය රෙස්ලිං ක්‍රීඩක හල්ක් හෝගන් දිවි ගමනට සමුදෙයි
-
-*2025-07-24 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212604) · `si`
-
-රෙස්ලිං වළල්ලේ දැවැන්තයෙක් වන අමෙරිකානු ජාතික හල්ක් හෝගන් නොහොත් ටෙරී බොලියා මියගොස් තිබේ.
-
-විදෙස් මාධ්‍ය සඳහන් කර සිටියේ, හදිසියේ ඇති වූ හෘදයාබාධ තත්ත්වයක් හේතුවෙන් ඔහු මියගිය බවය.
-
-අමෙරිකාවේ ජෝජියාහිදී උපත ලැබූ ටෙරී බොලියා, මියයන විට 71 වන වියේ පසුවිය.
-
-උපතින් ටෙරී බොලියා වුවත්, රෙස්ලිං පිටියේ ජනප්‍රිය වූයේ හල්ක් හෝගන් නමින්ය.
-
-1980 දශකයේ වෘත්තීය රෙස්ලිං ක්‍රීඩාවට පිවිසි හල්ක්, ලොව පුරා වඩාත් ජනප්‍රියත්වයට පත් වූයේ ඔහු ලැබූ ජයග්‍රාහණ හේතුවෙනි.
-
-ඒ හේතුවෙන් වෘත්තීය රෙස්ලිං ක්‍රීඩකයින්ට ගෞරව කිරීමක් ලෙස එක්කරන 'WWE Hall of Fame' නාමාවලියටද හෝගන්ගේ නාමය එක්විය.
-
-◼️
-
-[Data](articles/9e4cfd14.json)
-
----
-
-### பொத்துவில் பகுதியில் துப்பாக்கியுடன் ஒருவர் கைது
-
-*2025-07-24 22:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பொத்துவில்-பகுதியில்-துப்பாக்கியுடன்-ஒருவர்-கைது/73-361720) · `ta`
-
-பொத்துவில் பொலிஸ் பிரிவிற்குட்பட்ட ஒருகமலே பகுதியில் உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-விசேட அதிரடிப்படை அதிகாரிகள் குழுவொன்று இன்று (24) அப்பகுதியில் சோதனை நடவடிக்கையை மேற்கொண்ட போது, உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும் இரண்டு வெற்று குண்டுகளுடன் சந்தேக நபரை அதிகாரிகள் கைது செய்து, பொத்துவில் பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
-
-கைதான சந்தேக நபர், பொத்துவில் 05 பகுதியைச் சேர்ந்த 40 வயது மதிக்கத்தக்கவர் என தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/2924455f.json)
-
----
-
-### President directs implementation of urgent measures to address human-elephant conflict
-
-*2025-07-24 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110821/president-directs-implementation-of-urgent-measures-to-address-human-elephantconflict) · `en`
-
-President Anura Kumara Dissanayake held a discussion this afternoon (24) at the Presidential Secretariat with relevant Ministers and Officials regarding the protection of wild elephants and the safeguarding daily lives of rural community.
-
-During the meeting, the President inquired into the current situation regarding the increasing harassment incidents involving wild elephants and their disruptive impact on the daily lives of rural populations.
-
-Officials briefed the President on the prevailing situation and the longstanding difficulties faced by relevant institutions in addressing this issue effectively, according to the President’s Media Division (PMD).
-
-President Dissanayake emphasized that under no circumstances should wild elephants be subjected to harm or harassment and stressed the importance of identifying short-term, medium-term and long-term solutions.
-
-...
-
-[Data](articles/1f7154a0.json)
 
 ---

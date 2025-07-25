@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 17:05:43**
+As of **2025-07-25 17:17:27**
 
 ## Newspaper Stats
 
-*Scraped **66,761** Articles*
+*Scraped **66,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,89 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,404
 adaderanalk | 8,197
-tamilmirrorlk | 9,643
+tamilmirrorlk | 9,644
 virakesarilk | 11,124
-adaderanasinhalalk | 11,466
+adaderanasinhalalk | 11,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,761 articles have been extended.
+61,973 (92.8%) of 66,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### වීසා ගාස්තු අය නොකරන රටවල් ලැයිස්තුව මෙන්න
+
+*2025-07-25 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212638) · `si`
+
+මෙරට සංචාරක ව්‍යාපාරය වර්ධනය කිරීමේ අරමුණින් තවත් රටවල් 33ක් සඳහා වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කර තිබේ.
+
+මීට පෙර රටවල් 7ක් සඳහා එලෙස වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කර තිබුණි.
+
+ඒ  චීනය, ඉන්දියාව, ඉන්දුනීසියාව, රුසියාව, තායිලන්තය, මැලේසියාව සහ ජපානය යන රටවල් සඳහාය.
+
+◼️
+
+[Data](articles/866227f8.json)
+
+---
+
+### අලි රොෂාන්ගේ නඩුවට දින දෙයි
+
+*2025-07-25 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212637) · `si`
+
+බලපත්‍ර නොමැතිව අලි ඇතුන් කිහිප දෙනෙකු සන්තකයේ තබා ගැනීම ඇතුළු චෝදනා මත සමරප්පුලිගේ නිරාජ් රොෂාන් හෙවත් අලි රොෂාන් ඇතුළු විත්තිකරුවන් හතර දෙනෙකුට එරෙහිව ගොනු කර ඇති නඩුවේ තීන්දුව සැප්තැම්බර් 29 වනදා ප්‍රකාශයට පත් කරන බව කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද දින නියම කළේය.
+
+ඒ මෙම නඩුව අද (25) මංජුල තිලකරත්න සහ ලංකා ජයරත්න යන විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදී ය.
+
+එහිදී විනිසුරු මඬුල්ලේ සභාපති විනිසුරු මංජුල තිලකරත්න මහතා විවෘත අධිකරණයේ කරුණු දක්වමින් 2025 මැයි 16 දින අගවිනිසුරුවරියගේ නියමයෙන් මෙම නඩුව විභාග කිරීම සඳහා නව ත්‍රිපුද්ගල විනිසුරු මඬුල්ලක් නම් කර ඇති බව සඳහන් කළේය.
+
+මෙම නඩුවේ පූර්වගාමී විනිසුරුවරු ඉදිරියේ කැඳවනු ලැබු සාක්ෂි ඒ ආකාරයෙන්ම පිළිගැනීමට විත්ති පාර්ශ්වය විරුද්ධත්වයක් දක්වා නොමැති බවත් විනිසුරුවරයා කියා සිටියේය.
+
+නව විනිසුරු මඩුල්ලට මෙම නඩුකරය ගැන අධ්‍යයනය කිරීමට ප්‍රමාණවත් කාලයක් අවශ්‍ය බව පෙන්වා දුන් විනිසුරුවරයා ඒ අනුව නඩු තීන්දුව සැප්තැම්බර් 29 ප්‍රකාශයට පත් කරන බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/686af501.json)
+
+---
+
+### லஞ்சம் கேட்ட நடிகருக்கு விளக்கமறியல்
+
+*2025-07-25 16:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-கேட்ட-நடிகருக்கு-விளக்கமறியல்/175-361753) · `ta`
+
+அக்குரேகொட விமானப்படை தளத்தின் அதிகாரி ஒருவரிடமிருந்தும், மதுகமவில் உள்ள பிரபல தேசிய பாடசாலையின் அதிபரிடம் இருந்து  லஞ்சம் கேட்டதாகக் கூறப்படும் தொடம்கொட பகுதியைச் சேர்ந்த தொலைக்காட்சி நடிகரை, எதிர்வரும் 5 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க வௌ்ளிக்கிழமை (25),  உத்தரவிட்டார்.
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவால் தாக்கல் செய்யப்பட்ட முறைப்பாட்டை அடுத்தே மேற்கண்டவாறு உத்தரவிட்டுள்ளார்.
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட வினோத் தரங்கா என்ற நடிகர் இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டார்.
+
+...
+
+[Data](articles/0862381b.json)
+
+---
+
+### ඖෂධ අලෙවි සැල් 82ක බලපත්‍ර තාවකාලිකව අත්හිටුවයි
+
+*2025-07-25 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212636) · `si`
+
+දිවයින පුරා ඖෂධ අලෙවිසැල් 82ක බලපත්‍ර තාවකාලික අත්හිටුවීමට පියවර ගෙන ඇති බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+අද (25) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ මෙම ඖෂධ අලෙවි සැල් නිසි ප්‍රමිතිය යටතේ පවත්වා ගෙන නොයාම හේතුවෙන් මෙම බලපත්‍ර තාවකාලිකව අත්හිටුවීමට පියවර ගෙන ඇති බවය.
+
+එමෙන්ම මෙම වසරේ ආරම්භයේ සිට ජූලි මස 18 වැනි දින දක්වා ජාතික ඖෂධ නියාම අධිකාරිය වෙත ඖෂධ ශාලා බලපත්‍ර අලුත් කිරීම සඳහා ඉල්ලුම් පත් 2039ක් ලැබී ඇති බවත් ඉන් ඖෂධ ශාලා 1820කට නව බලපත්‍ර ලබා දීමට පියවර ගත් බවත් අමාත්‍යවරයා පැවසීය.
+
+ඒ අනුව එම කාලය තුළ ඖෂධ අලෙවි සැල් 219ක බලපත්‍ර යාවත්කාලීන කිරීම තාවකාලිකව අත්හිටුවීමට පියවර ගෙන ඇති බවත් ඉන් ඖෂධ අලෙවි සැල් 137ක පූර්ණ කාලීනව ඖෂධවේදීන් සේවයේ නියුතු නොවීම හේතුවක් වී ඇති බවත් තවත් ඒ අනුව පූර්ණ කාලීනව වගවිය යුතු ඖෂධවේදීන් ඉදිරිපත් කරන තෙක් එම බලපත්‍ර තාවකාලිකව අලුත් කිරීම අත්හිටවූ බවද සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/f4a4ecbe.json)
+
+---
 
 ### රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීමට අයැදුම්පත් කැඳවයි
 
@@ -1759,67 +1829,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/79fb2128.json)
-
----
-
-### TISL welcomes SC ruling on X-Press Pearl
-
-*2025-07-25 05:58:50* · [`dailyftlk`](https://www.ft.lk/news/TISL-welcomes-SC-ruling-on-X-Press-Pearl/56-779478) · `en`
-
-Transparency International Sri Lanka (TISL) yesterday welcomed the Supreme Court’s landmark decision to hold both State officials and corporate actors accountable for their roles in one of the worst environmental disasters in the country’s history.
-
-Issuing a statement, TISL noted that the judgment underscores the critical need for transparency, institutional and corporate accountability, as well as stronger enforcement of legal obligations, to prevent future environmental harm, governance failures, and corruption.
-
-...
-
-[Data](articles/6a38d7f4.json)
-
----
-
-### Sri Lanka Embassy in Doha recovers over Rs. 83 m in compensation in 1H
-
-*2025-07-25 05:41:02* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Embassy-in-Doha-recovers-over-Rs-83-m-in-compensation-in-1H/56-779471) · `en`
-
-The Sri Lanka Embassy in Doha has successfully recovered a total of Rs. 83,159,234 from January to June 2025 as death compensation on behalf of the Next of Kin (NoK) of Sri Lankan nationals who had passed away in Qatar.
-
-The recovered funds have been duly remitted to the Foreign Affairs, Foreign Employment and Tourism Ministry in Colombo, as well as to the respective NoKs of the deceased. This amount includes settlements for cases that had remained pending since 2023.
-
-Out of a total of Rs. 83,159,234, a sum of Rs. 23,389,434 was directly paid to the NoKs through the efforts of the Mission. The remaining Rs. 59,796,800 was recovered by the Mission and subsequently transferred to the Foreign Affairs, Foreign Employment and Tourism Ministry for onward disbursement to the respective NoKs.
-
-...
-
-[Data](articles/599387c4.json)
-
----
-
-### Reckless littering  places sacred city  of Anuradhapura at stake
-
-*2025-07-25 05:32:51* · [`dailyftlk`](https://www.ft.lk/news/Reckless-littering-places-sacred-city-of-Anuradhapura-at-stake/56-779470) · `en`
-
-Empty lunch packets and beer cans strewn along the reservoir
-
-Rampant pollution of environment has not only tainted the cradle of one of the oldest civilisations in the world, but also become breeding ground for many health hazards
-
-Resort owners in area lament reckless behaviour and callous attitude of polluters threaten international image of World Heritage Site
-
-Pressing island-wide issue of reckless trash disposal calls for ‘individual system change’
-
-...
-
-[Data](articles/f74ed2da.json)
-
----
-
-### Breaking barriers through dialogue: Glimpse into interfaith mosque tour at Kollupitiya Jumma Mosque
-
-*2025-07-25 05:31:21* · [`dailyftlk`](https://www.ft.lk/news/Breaking-barriers-through-dialogue-Glimpse-into-interfaith-mosque-tour-at-Kollupitiya-Jumma-Mosque/56-779469) · `en`
-
-On Monday evening, 14 July, the Kollupitiya Jumma Mosque opened its doors for something truly special—a mosque tour designed just for media professionals. Organised by the Centre for Islamic Studies Harmony Center, along with the Muslim Women’s Research and Action Forum and supported by Diakonia, the event was all about connection and understanding.
-
-Journalists and storytellers were invited to step inside, ask questions freely, and experience the heart of Muslim faith and community life up close. It was a genuine effort to clear up misconceptions, encourage honest dialogue, and build respect between different communities.
-
-...
-
-[Data](articles/5563067f.json)
 
 ---

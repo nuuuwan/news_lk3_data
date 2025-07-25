@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 10:53:21**
+As of **2025-07-25 11:08:48**
 
 ## Newspaper Stats
 
-*Scraped **66,691** Articles*
+*Scraped **66,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 4,081
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,398
-adaderanalk | 8,186
+adaderanalk | 8,188
 tamilmirrorlk | 9,628
 virakesarilk | 11,112
-adaderanasinhalalk | 11,447
+adaderanasinhalalk | 11,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,691 articles have been extended.
+61,973 (92.9%) of 66,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### ජනාධිපති මාලදිවයිනේ සංචාරයකට සැරසෙයි
+
+*2025-07-25 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212616) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක එළැඹෙන ජූලි 28 වනදා මාලදිවයිනේ  තෙදින නිල සංචාරයක නිරතවීමට නියමිතව ඇත.
+
+මාලදිවයින් ජනාධිපති මොහොමඩ් මුයිසුගේ ආරාධනයකට අනුව මෙම සංචාරයේ නිරතවන බව බව විදේශ අමාත්‍ය විජිත හේරත් නිවේදනයක් නිකුත්කරමින් පැවසීය.
+
+මෙම සංචාරය අතරතුර ජනාධිපතිවරයා ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීමටත්, අන්‍යෝන්‍ය සහයෝගිතාව වර්ධනය කිරීම සඳහා අවබෝධතා ගිවිසුම් කිහිපයක් හුවමාරු කර ගැනීමටත් නියමිතය.
+
+එමෙන්ම මෙම සංචාරය අතරතුර ජනාධිපතිවරයා මාලදිවයිනේ ව්‍යාපාරික සංසදය ඇමතීම සහ ශ්‍රී ලාංකික විදේශගත ප්‍රජාව හමුවීමටද නියමිතය.
+
+මෙම අවස්ථාවට විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් ඇතුළු රජයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක්ද සහභාගිවීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/14c0f6df.json)
+
+---
 
 ### பாடசாலை கட்டடம் இடிந்து விழுந்து 4 சிறுவர்கள் பலி
 
@@ -112,6 +132,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### President Anura Kumara to visit Maldives on Monday
+
+*2025-07-25 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110829/president-anura-kumara-to-visit-maldives-on-monday) · `en`
+
+President Anura Kumara Dissanayake will undertake a state visit to the Maldives from July 28 to 30, 2025, at the invitation of Maldivian President Mohamed Muizzu.
+
+During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation, the Ministry of Foreign Affairs said in a statement.
+
+The State Visit is also significant as Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year, it said.
+
+During his stay, the President is also scheduled to address a business forum and meet with members of the Sri Lankan expatriate community, the statement added.
+
+President Dissanayake will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, along with senior government officials.
+
+◼️
+
+[Data](articles/1c3efe23.json)
+
+---
+
 ### அவசரமாக ஹெலி தரையிறக்கம்
 
 *2025-07-25 10:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஹெலி-தரையிறக்கம்/175-361733) · `ta`
@@ -137,6 +177,26 @@ However, the pause on US tariffs, the resolution to geopolitical conflicts and a
 ...
 
 [Data](articles/cf09e9e0.json)
+
+---
+
+### 4 children dead, 40 trapped in debris as school building collapses in India
+
+*2025-07-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110828/4-children-dead-40-trapped-in-debris-as-indias-rajasthan-school-building-collapses) · `en`
+
+At least four children were killed and several are feared trapped after a government school building collapsed in Rajasthan’s Jhalawar district on Friday.
+
+The incident at Piplodi Government School in Manohar Thana took place at around 8.30 am. Officials said around 40 children, besides teachers and staff members, were present in the premises when the roof of the single-storey building collapsed.
+
+According to sources, the building was in a dilapidated condition and several complaints were raised in this regard earlier. The school offers education till Class 8.
+
+“Four children have died and 17 others are injured. Ten children have been referred to Jhalawar out of which three to four are critical,” Jhalawar Superintendent of Police Amit Kumar told news agency PTI.
+
+Visuals from the site showed local residents rushing to rescue the trapped students, teachers and staff members. At least four JCB machines also arrived at the spot to help clear the debris.
+
+...
+
+[Data](articles/e729ad2a.json)
 
 ---
 
@@ -1705,55 +1765,5 @@ Announcing the findings, the Speaker stated that the Committee had unanimously f
 ...
 
 [Data](articles/1cfb5fcd.json)
-
----
-
-### මහනුවර නගර සභා මන්ත්‍රීන්ගේ දුරකතන දීමනාව අවලංගුයි
-
-*2025-07-24 17:46:02* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-නගර-සභා-මන්ත්‍රීන්ගේ-දුරකතන-දීමනාව-අවලංගුයි/11-417490) · `si`
-
-මහනුවර මහ නගර සභාවේ මහජන නියෝජිතයන් සඳහා ලබා දෙනු ලැබූ දුරකථන ගාස්තු දීමනාව අවලංගු කිරීමට සභාවේ එකඟතාවය ලැබී තිබේ.
-
-2010 වසරේදී සභා සම්මතයකට අනුව මහනුවර මහ නගර සභාවේ නගරාධිපතිවරයා සඳහා 20,000ක දුරකථන දීමනාවක්ද නියෝජ්‍ය නගරාධිපතිවරයා සඳහා රුපියල් 15,000ක දුරකථන දීමනාවක්ද සෙසු මන්ත්‍රීන් සඳහා රුපියල් 10,000ක දුරකථන දීමනාවක්ද ගෙවීමට සභා සම්මතයක් ලැබී තිබුණි.
-
-ඒ අනුව පසුගිය වර සභාව රැස්වූ අවස්ථාවේදී එම දුරකථන දීමනාව සම්බන්ධයෙන් ඇති වූ කතාබහේදී පොදු ජන පෙරමුණු මන්ත්‍රී ලසන්ත බණ්ඩාර මහතා එම දුරකථන දීමනාව අනවශ්‍ය බවට ප්‍රකාශ කිරීමෙන් පසු එය සභා සම්මත විය.
-
-ඒ අනුව මහනුවර මහ නගර සභාවේ මන්ත්‍රීවරුන් 46 දෙනකු සඳහා ගෙවනු ලැබූ දුරකථන දීමනාව අහෝසි වී තිබේ.
-
-◼️
-
-[Data](articles/cfa7695d.json)
-
----
-
-### ප්‍රශස්ථ පාසල් අධ්‍යාපනයක වගකීම ආණ්ඩුව භාරගනී
-
-*2025-07-24 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212598) · `si`
-
-යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණය හුදෙක් විෂය නිර්දේශ සංශෝධනයකට සීමා නොවූවක් බවත් එමඟින් මෙරට සමස්ත සමාජ තලයත් ආර්ථික තලයත් එකවර ඔසවා තබන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-එය දේශපාලන අරමුණක් නොව සමාජීය අරමුණක් වන බැවින් ඊට සහාය දක්වන ලෙස ද ජනාධිපතිවරයා එහිදී ඉල්ලා සිටියේය.
-
-ජනාධිපතිවරයා වැඩිදුරටත් පැවසුවේ කිසිදු හේතුවක් මත කිසිදු දරුවෙකු 13 වසරක අනිවාර්ය අධ්‍යාපනය ලබා ගැනීමෙන් තොරව පාසල් හැර නොයා යුතු බවය.
-
-ඔහු මෙම අදහස් පළ කර සිටියේ අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳව පාර්ලිමේන්තුවේ අද (24) පැවති විවාදයට එක් වෙමිනි.
-
-◼️
-
-[Data](articles/bf75d1dd.json)
-
----
-
-### දේශබන්දු ගැන විවාදය අගෝස්තු 5
-
-*2025-07-24 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212597) · `si`
-
-ධුරයේ රාජකාරී කිරීම අත්හිටුවා ඇති පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එම ධුරයෙන් ඉවත් කිරීමේ යෝජනාව පිළිබඳ විවාදය අගෝස්තු 5 වනදා පැවැත්වෙන බව ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව අද (24) නිවේදනය කළේය.
-
-2002 අංක 5 දරන නිලධරයන් ඉවත් කිරීමේ (කාර්ය පටිපාටිය) පනතේ 17 වගන්තිය ප්‍රකාරව මෙම යෝජනා සම්මත විවාදය පැවැත්වේ.
-
-◼️
-
-[Data](articles/40b5a628.json)
 
 ---

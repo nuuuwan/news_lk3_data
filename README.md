@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 05:31:05**
+As of **2025-07-25 06:10:25**
 
 ## Newspaper Stats
 
-*Scraped **66,635** Articles*
+*Scraped **66,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 678
-islandlk | 4,065
-economynextcom | 4,077
-dailyftlk | 4,708
+islandlk | 4,076
+economynextcom | 4,078
+dailyftlk | 4,716
 dailymirrorlk | 4,733
 adalk | 6,396
 adaderanalk | 8,180
@@ -26,11 +26,139 @@ adaderanasinhalalk | 11,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,635 articles have been extended.
+61,973 (93.0%) of 66,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Reckless littering  places sacred city  of Anuradhapura at stake
+
+*2025-07-25 05:32:51* · [`dailyftlk`](https://www.ft.lk/news/Reckless-littering-places-sacred-city-of-Anuradhapura-at-stake/56-779470) · `en`
+
+Empty lunch packets and beer cans strewn along the reservoir
+
+Rampant pollution of environment has not only tainted the cradle of one of the oldest civilisations in the world, but also become breeding ground for many health hazards
+
+Resort owners in area lament reckless behaviour and callous attitude of polluters threaten international image of World Heritage Site
+
+Pressing island-wide issue of reckless trash disposal calls for ‘individual system change’
+
+...
+
+[Data](articles/f74ed2da.json)
+
+---
+
+### Breaking barriers through dialogue: Glimpse into interfaith mosque tour at Kollupitiya Jumma Mosque
+
+*2025-07-25 05:31:21* · [`dailyftlk`](https://www.ft.lk/news/Breaking-barriers-through-dialogue-Glimpse-into-interfaith-mosque-tour-at-Kollupitiya-Jumma-Mosque/56-779469) · `en`
+
+On Monday evening, 14 July, the Kollupitiya Jumma Mosque opened its doors for something truly special—a mosque tour designed just for media professionals. Organised by the Centre for Islamic Studies Harmony Center, along with the Muslim Women’s Research and Action Forum and supported by Diakonia, the event was all about connection and understanding.
+
+Journalists and storytellers were invited to step inside, ask questions freely, and experience the heart of Muslim faith and community life up close. It was a genuine effort to clear up misconceptions, encourage honest dialogue, and build respect between different communities.
+
+...
+
+[Data](articles/5563067f.json)
+
+---
+
+### Home Lands records highest sales done in a month in history
+
+*2025-07-25 05:27:18* · [`dailyftlk`](https://www.ft.lk/business/Home-Lands-records-highest-sales-done-in-a-month-in-history/34-779468) · `en`
+
+Achieves an impressive Rs. 7.4 b from 104 units in June 2025
+
+Home Lands, has once again reaffirmed its market leadership by achieving a historic milestone in the country’s property sector. The company recorded the highest ever sales turnover in a month by any real estate developer in Sri Lanka, generating an impressive Rs. 7.4 billion in sales from 104 units in June 2025 alone. This landmark achievement was significantly driven by the successful launch of Pentara Residencies, the latest addition to the company’s growing portfolio of premium developments.
+
+This achievement is not only a testament to the strength of the Home Lands brand but also to the continued trust and confidence placed in it by clients, both locally and internationally. The June 2025 performance marks a new benchmark in monthly developer turnover, setting a record in Sri Lanka’s real estate history.
+
+...
+
+[Data](articles/4eb1b01c.json)
+
+---
+
+### Overseas Realty records  Rs. 4.7 b Profit Before Tax in 1H
+
+*2025-07-25 05:26:23* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-7-b-Profit-Before-Tax-in-1H/34-779467) · `en`
+
+Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 5,258 million and a Group Profit Before Tax of Rs. 4,676 million for the 6 months ending 30 June. The depreciation of the Rupee resulted in a net exchange loss of Rs. 274 million compared to a gain of Rs. 1,076 million recorded in the corresponding period of last year on foreign currency loans.
+
+The Fair Value gain recorded from Investment Properties was Rs. 2,331 million compared to the Fair Value gain of Rs. 1,160 million in the same period of last year.
+
+The company Revenue of Rs. 1402 million at the World Trade Centre, Colombo, was 5% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
+
+...
+
+[Data](articles/45aa7b77.json)
+
+---
+
+### Overseas Realty (Ceylon) appoints  Dr. Ranee Jayamaha as new Chairperson
+
+*2025-07-25 05:24:27* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-Ceylon-appoints-Dr-Ranee-Jayamaha-as-new-Chairperson/34-779466) · `en`
+
+Overseas Realty (Ceylon) PLC has announced the appointment of Dr. Ranee Jayamaha as the new Chairperson with effect from 23 July, following the demise of Ajit Jayaratne who served as Chairman since 2021.
+
+Prior to being appointed as Chairperson Dr. Jayamaha was a Director of the Company since 2013.
+
+Dr. Jayamaha graduated from the University of Peradeniya, Sri Lanka, and holds an MSc from the University 01 Stirling, UK, a PhD from the University of Bradford, and an honorary Doctor of the University from Stirling UK.
+
+Dr. Jayamaha currently holds Director Posts at the Regional Centre for Strategic Studies and the Transnational Lanka Ltd.
+
+...
+
+[Data](articles/191e8728.json)
+
+---
+
+### Sri Lanka Economic and Investment Summit 2025 opens registrations
+
+*2025-07-25 05:22:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Economic-and-Investment-Summit-2025-opens-registrations/34-779465) · `en`
+
+The Ceylon Chamber of Commerce has announced that registrations are now open for the Sri Lanka Economic and Investment Summit 2025 (SLEIS), taking place on 2 and 3 December at the Shangri-La Colombo.
+
+This year’s event introduces an enhanced format that builds on the Ceylon Chamber’s flagship Sri Lanka Economic Summit, introducing a stronger investment focus to reflect current national priorities.
+
+Under the theme “Gateway to Growth: Asia’s Emerging Opportunity”, SLEIS 2025 aims to position Sri Lanka as a compelling investment destination at a time when regional supply chains are shifting, and structural reform is back on the agenda. The summit will bring together senior policymakers, private sector leaders, investors, diplomats, and development agencies for two days of strategic dialogue on how Sri Lanka can turn reform into results and position itself as a credible destination for regional investment and trade.
+
+...
+
+[Data](articles/2fb819cf.json)
+
+---
+
+### Land prices surge up to 20% as real estate market responds to lower rates and economic stability
+
+*2025-07-25 05:22:12* · [`dailyftlk`](https://www.ft.lk/business/Land-prices-surge-up-to-20-as-real-estate-market-responds-to-lower-rates-and-economic-stability/34-779464) · `en`
+
+Sri Lanka’s real estate sector is demonstrating robust signs of recovery and renewed investor confidence in 2025, buoyed by a stabilising economy and favourable market conditions.
+
+The latest ‘Real Estate Market Outlook Report 2025 (REMOR25)’ by LankaPropertyWeb (LPW) highlights a significant resurgence across the property landscape, with key indicators pointing towards sustained growth.
+
+One of the most significant indicators of this recovery is the rapid appreciation of land prices in the Western Province. The report indicates an average year-on-year (YoY) increase of 12% in the region for 2025. Suburban areas are leading this surge, with land prices in the Colombo district’s suburban areas experiencing an average 20% increase. Piliyandala, for instance, recorded a 16% price increase, and both Athurugiriya and Homagama experienced 14% YoY growth.
+
+...
+
+[Data](articles/d77ab179.json)
+
+---
+
+### Sunshine Holdings celebrates employee excellence at SUN Awards 2025
+
+*2025-07-25 05:18:50* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-celebrates-employee-excellence-at-SUN-Awards-2025/34-779463) · `en`
+
+Diversified conglomerate Sunshine Holdings PLC (CSE: SUN) honoured the outstanding achievements of its employees at the annual SUN Awards 2025, held under the theme ‘Roar of Glory’. Recognising excellence across its key business sectors — healthcare, consumer goods, and agribusiness — the respective award ceremonies by each business celebrated the individuals and teams that led with courage, commitment, and impact during the financial year 2024/25.
+
+The award ceremonies were graced by Sunshine Holdings Group Chief Executive Officer Shyam Sathasivam, and key members of the Sunshine Group’s executive committee. Deputy Chairman Vish Govindasamy was the chief guest of the first day of the event. A total of 215 awards were presented this year, including Merit Awards, Excellence Awards, and the prestigious Chairman’s Awards, celebrating both individual brilliance and team-driven success.
+
+...
+
+[Data](articles/569542d1.json)
+
+---
 
 ### Impact of emerging tech and AI on jobs: Are companies and workers ready?
 
@@ -454,6 +582,30 @@ President Dissanayake emphasized that under no circumstances should wild elephan
 
 ---
 
+### Cap Snap Lanka wins 4 Golds at National Quality and Productivity Convention
+
+*2025-07-24 21:24:00* · [`islandlk`](http://island.lk/cap-snap-lanka-wins-4-golds-at-national-quality-and-productivity-convention/) · `en`
+
+Cap Snap Lanka (Pvt) Ltd, won four Gold Awards at the National Convention on Quality and Productivity 2025, held recently at the Mount Lavinia Hotel, where its subsidiary, American Polymers (Pvt) Ltd, also received a Silver Award. The event was organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP). The four Gold Awards won by Cap Snap Lanka were for the achievements of its Quality Control Circles: Team Crystal (QCC2510276), Eco Guardians (QCC2510278), Perfect Finders (QCC2510280), and Clarity Achievers (QCC2510279). American Polymers received a Silver Award for its Quality Control Circle, The Counting Arc (QCC2510272).
+
+...
+
+[Data](articles/3b7a4e32.json)
+
+---
+
+### Sahasra Holdings recognised for foreign employment recruitment services
+
+*2025-07-24 21:23:00* · [`islandlk`](http://island.lk/sahasra-holdings-recognised-for-foreign-employment-recruitment-services/) · `en`
+
+Air Link Sahasra Holdings Pvt. Ltd. was honoured as the Foreign Employment Recruitment Brand of the Year at the Asia Miracle Awards 2025. The award ceremony was held recently at the Taj Samudra Hotel in Colombo. Founded in 2005, Sahasra Holdings has grown into a leading name in foreign employment and education consultancy. It has helped thousands of Sri Lankans secure job opportunities and educational placements around the world. The company’s head office is located in Kandy, with branch offices in Galle and Dehiaththakandiya.
+
+...
+
+[Data](articles/a3029ad6.json)
+
+---
+
 ### இங்கிலாந்துடன் இருவகை சர்வதேச மட்டுப்படுத்தப்பட்ட ஓவர் தொடர்களில் 2026இல் இலங்கை விளையாடவுள்ளது
 
 *2025-07-24 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220873) · `ta`
@@ -469,6 +621,82 @@ President Dissanayake emphasized that under no circumstances should wild elephan
 ◼️
 
 [Data](articles/c55aa1a4.json)
+
+---
+
+### Brandix’s FLO wins top accolade at SLASSCOM Ingenuity Awards
+
+*2025-07-24 21:18:00* · [`islandlk`](http://island.lk/brandixs-flo-wins-top-accolade-at-slasscom-ingenuity-awards/) · `en`
+
+Brandix’s cutting-edge digital operations platform, FLO, secured the First Runner-Up position in the National Category for Best Innovative Solution in Manufacturing at the prestigious SLASSCOM Ingenuity Awards, reinforcing the company’s leadership in tech-driven apparel manufacturing.
+
+Developed in-house, FLO revolutionises Brandix’s operations by providing real-time visibility and control across the entire manufacturing process from order intake to shipment. The platform optimises planning, quality checks, production, and inventory management, enabling faster, data-driven decision-making.
+
+As part of Brandix’s ‘SMART Factory initiative, FLO integrates AI and automation, showcasing the company’s commitment to digital transformation. The solution is continuously being enhanced, reflecting the innovative vision and technical expertise of Brandix’s team.
+
+...
+
+[Data](articles/a06336cb.json)
+
+---
+
+### Ceilao Insurance joins forces with Nawaloka Hospitals to enhance medical accessibility
+
+*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/ceilao-insurance-joins-forces-with-nawaloka-hospitals-to-enhance-medical-accessibility/) · `en`
+
+Ceilao Insurance has announced a groundbreaking exclusive partnership with Nawaloka Hospitals, one of Sri Lanka’s leading private healthcare institutions. This strategic alliance marks a significant milestone in the Sri Lankan insurance and healthcare industries, enabling all current and future Ceilao Insurance Brokers clients—both individual and corporate—to access exclusive discounts on a wide range of medical check-ups and healthcare services at Nawaloka Hospitals.
+
+This initiative is not just a value-added service—it is a bold step toward making premium healthcare more affordable and accessible for every Ceilao client. No other insurance broker in Sri Lanka has achieved such a precedent, reaffirming Ceilao’s position as a pioneering force in the industry.
+
+...
+
+[Data](articles/4db6e653.json)
+
+---
+
+### Registrations now open: Sri Lanka Economic and Investment Summit 2025
+
+*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/registrations-now-open-sri-lanka-economic-and-investment-summit-2025/) · `en`
+
+The Ceylon Chamber of Commerce has announced that registrations are now open for the Sri Lanka Economic and Investment Summit 2025 (SLEIS), taking place on 2nd and 3rd December 2025 at Shangri-La Colombo.
+
+Building on the success of the Ceylon Chamber’s flagship Sri Lanka Economic Summit, this year’s event introduces an enhanced format with a sharper focus on investment opportunities, aligning with Sri Lanka’s national priorities.
+
+Under the theme “Gateway to Growth: Asia’s Emerging Opportunity,” SLEIS 2025 will position Sri Lanka as a prime investment hub amid shifting regional supply chains and renewed momentum for structural reforms.
+
+The summit will convene senior policymakers, private sector leaders, investors, diplomats, and development agencies for two days of high-level discussions on transforming reforms into tangible growth and establishing Sri Lanka as a credible destination for trade and investment.
+
+...
+
+[Data](articles/9c631046.json)
+
+---
+
+### Supply chain integration key to business agility and excellence, experts say
+
+*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/supply-chain-integration-key-to-business-agility-and-excellence-experts-say/) · `en`
+
+In today’s fast-evolving digital economy, businesses must prioritize supply chain integration to achieve agility and competitive advantage, industry experts emphasize. A recent analysis highlights that successful supply chain management hinges on three critical dimensions: organizational relationship linkage, information coordination, and resource sharing.
+
+Integration, often termed the backbone of management excellence, requires aligning business processes, technology, and people both within an organization and across industries.
+
+While technological upgrades like Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems enhance system integration, psychological integration – collaborative decision-making across supply chain partners—is equally vital.
+
+...
+
+[Data](articles/db205124.json)
+
+---
+
+### CSE heading to end the week on a dynamic note
+
+*2025-07-24 21:16:00* · [`islandlk`](http://island.lk/cse-heading-to-end-the-week-on-a-dynamic-note/) · `en`
+
+Stock trading at the Colombo Stock Exchange (CSE) showed a bullish sentiment yesterday following the Central Bank’s decision to keep policy rate at a low level, market analysists said.Amid those developments both indices moved upwards. All Share Price Index up by 153.3 points while S and P SL20 up by 45.82 points.
+
+...
+
+[Data](articles/2a2761e5.json)
 
 ---
 
@@ -1553,275 +1781,5 @@ A financial literacy seminar was held at the Ministry of Education for stakehold
 ◼️
 
 [Data](articles/0b86b894.json)
-
----
-
-### கஞ்சிபானியின் நெருங்கிய சகா கைது
-
-*2025-07-24 15:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானியின்-நெருங்கிய-சகா-கைது/175-361690) · `ta`
-
-திட்டமிட்ட குற்றத் தலைவர் கஞ்சிபானி இம்ரானின் நெருங்கிய  பின்தொடர்பவரான நபர் ஒருவர் வியாழக்கிழமை (24) கைது செய்யப்பட்டுள்ளார்.
-
-அவர் கொழும்பு-13, ஆதுருப்புத் வீதியைச் 45 வயதுடைய முகமது மிஹிலர் முகமது அர்ஷத்  என்பவராவார்.
-
-இவர், விசா மற்றும் பாஸ்போர்ட் இல்லாமல் இந்தியாவில் சட்டவிரோதமாக தங்கியிருந்த நிலையில் செவ்வாய்க்கிழமை (22) அன்று இந்திய பாதுகாப்பு அதிகாரிகளால் கைது செய்யப்பட்டு, வியாழக்கிழமை (24) அன்று இந்தியாவின் சென்னையில் இருந்து  இண்டிகோ விமானத்தில் கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பப்பட்டார்.
-
-அவர் 2017 ஆம் ஆண்டு நாட்டை விட்டு துபாய்க்கு தப்பிச் சென்றுள்ளதுடன்,  2019 ஆம் ஆண்டு, மகந்துரே மதுஷ் உள்ளிட்ட ஒழுங்கமைக்கப்பட்ட குற்றத் தலைவர்கள் குழு துபாயில் ஒரு பிறந்தநாள் விழாவில் கைது செய்யப்பட்ட போது இவர் இந்தியாவுக்குத் தப்பிச் சென்றுள்ளார்.
-
-அவரது மனைவி மற்றும் குழந்தைகள் இன்னும் இந்தியாவில் இருப்பதாகவும் அவர்களிடம் செல்லுபடியாகும் விசாக்கள் மற்றும் பாஸ்போர்ட்டுகள் இருப்பதாகவும்  தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/96ac263f.json)
-
----
-
-### ශ්‍රී ලංකා - තුර්කි ආර්ථික සබඳතා පුළුල් කිරීමට සැරසෙයි
-
-*2025-07-24 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212587) · `si`
-
-ශ්‍රී ලංකාව සහ තුර්කි ජනරජය අතර ආර්ථික සහ තාක්ෂණික සහයෝගීතාව සඳහා වූ ඒකාබද්ධ කමිටුවේ ( JCETC ) තුන්වන සැසිවාරය අද (24) කොළඹදී ආරම්භ විය.
-
-ඒ, වෙළෙඳ, වාණිජ, අහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ මහතා සහ තුර්කි ජනරජයේ ජාතික අධ්‍යාපන අමාත්‍ය යූසුෆ් ටෙකින් මහතාගේ ප්‍රධානත්වයෙනි.
-
-දෙරට අතර ද්විපාර්ශ්වික ආර්ථික හා තාක්ෂණික සහයෝගීතාව තවදුරටත් ප්‍රවර්ධනය කිරීම මෙහි අරමුණ වෙයි.
-
-ඒ අනුව, නව අවස්ථාවන් ගවේෂණය කිරීමේ අරමුණින් දෙරටේම ජ්‍යෙෂ්ඨ රාජ්‍ය නිලධාරීන්, ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සහ තාක්ෂණික විශේෂඥයින් මෙම සැසියේදී හමුවීමට නියමිතය.
-
-◼️
-
-[Data](articles/95186862.json)
-
----
-
-### மேல் கொத்மலை நீர்த்தேக்கத்தின் வான் கதவு திறப்பு ; ஏனைய நீர்த்தேக்கங்களில் அதிகளவு நீர் வெளியேற்றம்
-
-*2025-07-24 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/220823) · `ta`
-
-நீரேந்து பகுதிகளில் பெய்து வரும் அடை மழை காரணமாக  மேல் கொத்மலை நீர்த்தேக்கத்தில் ஒரு வான் கதவைத் திறக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-மேல் கொத்மலையின் நீரேந்து பகுதிகளில் தொடர்ந்து பெய்து வரும் கனமழை காரணமாக மேல் கொத்மலை நீர்த்தேக்கத்தின் ஒரு வான் கதவு இன்று (24) அதிகாலை முதல் திறக்கப்பட்டுள்ளதாக நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு தெரிவித்துள்ளது.
-
-நீர்த்தேக்கத்தின் ஏனைய வான் கதவுகள் சுயமாகவே திறக்கப்படும் என்று நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு தெரிவித்துள்ளது இதனால்  நீர்த்தேக்க அணையின் கீழ்ப்பகுதியில் உள்ள கொத்மலை ஓயாவின் இருபுறமும் வசிக்கும்  பொதுமக்கள் இது தொடர்பாக விழிப்புடன் இருக்குமாறு அனர்த்த முகாமைத்து பிரிவின் அதிகாரிகள் அறிவுறுத்தியுள்ளனர்.
-
-மேல் கொத்மலை நீர்தேக்க பகுதிகளில் பெய்து வரும் கனமழையால், சென் கிளயார் மற்றும் டெவோன் நீர்வீழ்ச்சிகளில் இருந்து வெளியேறும் நீரும் அதிகரித்துள்ளமை குறிப்பிடதக்கது.
-
-◼️
-
-[Data](articles/79421955.json)
-
----
-
-### Wasantha de Silva elected President of Sri Lanka Pakistan Business Council
-
-*2025-07-24 15:02:00* · [`economynextcom`](https://economynext.com/wasantha-de-silva-eleced-president-of-sri-lanka-pakistan-business-council-232567/) · `en`
-
-ECONOMYNEXT – Wasantha de Silva of DMW Ventures (Pvt) Ltd was elected president of the Sri Lanka – Pakistan Business Council (SLPBC), replacing Indhra Kaushal Rajapaksa of the Kalhari Group of Companies.
-
-Feroze Haji Anver from Cliftex Industries (Pvt) Ltd and Perakum Mahasen Abeysekera from Vinu International Trading Company (Pvt) Ltd were elected Vice Presidents, and M Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer.
-
-The SLPBC 33rd annual general meeting held recently, was attended by High Commissioner of Pakistan Major General Faheem Ul Aziz.
-
-The newly appointed committee for the year 2025/26 consists of Gayan Maddumarachchi from APS Logistics International (Pvt) Ltd, Malithi Rajapaksha from John Keells Holdings PLC, Abdul Rehman Abdul Aziz from Rays International Shipping (Pvt) Ltd, Chandana Jirasinha from Aitken Spence Cargo (Pvt) Ltd and Priyantha Dissanayake from Mansel Ceylon (Pvt) Ltd.
-
-...
-
-[Data](articles/428b6f42.json)
-
----
-
-### India resumes visas for Chinese tourists amid thawing ties
-
-*2025-07-24 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110812/india-resumes-visas-for-chinese-tourists-amid-thawing-ties) · `en`
-
-India has resumed issuing tourist visas to Chinese nationals after a five-year gap as the two countries continue to explore ways to mend their strained relationship.
-
-The Indian embassy in Beijing made the announcement on Wednesday via the Chinese social media app Weibo, the state-owned Global Times newspaper reported.
-
-Chinese foreign ministry spokesperson Guo Jiakun said the development was a “positive move” and added that China was willing to work with India to improve the “facilitation of people-to-people exchanges”.
-
-India suspended visas to China, restricted investments and banned several Chinese apps after the 2020 military clashes in Galwan Valley killed at least 20 Indian soldiers.
-
-The site of the clash was on the de facto border - the Line of Actual Control or LAC - between the two countries.
-
-India and China share a border that is more than 3,440km (2,100 miles) long and have overlapping territorial claims.
-
-...
-
-[Data](articles/4ee76cd4.json)
-
----
-
-### No legal provisions for companies to charge 2.5%–3% fees on card transactions: CBSL
-
-*2025-07-24 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110811/no-legal-provisions-for-companies-to-charge-253-fees-on-card-transactions-cbsl) · `en`
-
-Companies and institutions have no legal provisions to impose additional charges ranging from 2.5% to 3% on customers for transactions made using credit or debit cards, the Director of Payments and Settlements at the Central Bank of Sri Lanka (CBSL), Vasantha Alwis has stated.
-
-He made this statement during a press briefing held at the Central Bank of Sri Lanka yesterday (July 23).
-
-Alwis said although they have noticed companies charging additional fees, doing so is not permitted under the agreements between the banks and the said merchants.
-
-“If any institution imposes an additional fee on digital transactions, customers should immediately lodge a complaint with the bank that issued their card,” he advised.
-
-“It is also crucial to obtain a receipt clearly showing the fee charged, so that the bank can initiate the process to recover the excess amount.”
-
-...
-
-[Data](articles/39df0152.json)
-
----
-
-### கிண்ணியாவில் கோழி இறைச்சி உணவு சாப்பிட்ட 25 பேர் வைத்தியசாலையில் அனுமதி!
-
-*2025-07-24 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/220819) · `ta`
-
-திருகோணமலை,  கிண்ணியா பிரதான வீதியில் உள்ள  உணவகத்தில் சாப்பிட்ட 25  நபர்கள் இதுவரைக்கும் புதன்கிழமை (23) உடல் நலக்குறைவு காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-சம்பவம் தொடர்பாக திருகோணமலை உணவு மற்றும் மருந்து திணைக்கள அதிகாரிகள் உணவகத்திற்கு ஆய்வு மேற்கொண்டு, அங்கு தயாரிக்கப்பட்ட கோழி இறைச்சி உணவு, பரோட்டா மற்றும் மயோனிஸ் மாதிரிகளை சேகரித்து, கொழும்பு மருத்துவ ஆராய்ச்சி நிறுவனம் (MRI) க்கு அனுப்பியுள்ளனர்.
-
-சுகாதாரத் துறையின் ஆரம்ப விசாரணைகளின் படி, மயோனிஸ் உரிய முறையில் தயாரிக்கப்படாமையும், உணவில் மாசு ஏற்பட்டிருப்பதும் காரணமாக இச்சம்பவம் நிகழ்ந்து இருக்கலாம் என கூறப்படுகின்றது.
-
-உணவு பொருட்கள் மற்றும் உணவகங்களில் சுகாதார விதிகளை பின்பற்றுவது அவசியம் என அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-சம்பவத்தின் பின்னர், குறித்த உணவகத்தை தற்காலிகமாக மூடிவைத்து, மேலும் விசாரணைகள் நடத்தப்பட்டு வருகின்றன. பாதிக்கப்பட்டவர்கள் கிண்ணியா, மூதூர் நிலாவெளி வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளதாக தெரியவருகிறது.
-
-◼️
-
-[Data](articles/66eee2b6.json)
-
----
-
-### சட்டவிரோத கட்டுமானங்களுக்கு எதிரான நடவடிக்கைகளை தொடர்ந்தும் முன்னெடுக்குமாறு வட மாகாண ஆளுநர் வலியுறுத்து!
-
-*2025-07-24 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/220821) · `ta`
-
-சட்டவிரோத கட்டுமானங்களுக்கு எதிராக முன்னெடுக்கப்பட்டுவரும் நடவடிக்கைகளை தொடர்ந்தும் உள்ளூராட்சிமன்றங்களை முன்னெடுக்குமாறும் அதை ஒருபோதும் யாருக்காகவும் நிறுத்தவேண்டாம் என வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் அவர்கள் கேட்டுக்கொண்டார்.
-
-உள்ளூராட்சி மன்றங்களின் செயலர்களுடனான மாதாந்தக் கலந்துரையாடல் ஆளுநர் செயலகத்தில் இன்று செவ்வாய்க்கிழமை (22) நடைபெற்றது.
-
-கலந்துரையாடலின் ஆரம்பத்தில் கருத்துத் தெரிவித்த ஆளுநர், சில உள்ளூராட்சிமன்றங்களின் செயற்பாடுகளில் முன்னேற்றம் ஏற்பட்டுள்ளதாகக் குறிப்பிட்டார். மக்களுக்கான அமைப்பே உள்ளூராட்சிமன்றம் என்பதை நினைவிலிருத்திச் செயற்படவேண்டும் என வலியுறுத்திய ஆளுநர், சோலைவரி மாற்றம், கட்டட அனுமதி உள்ளிட்ட விடயங்களை எவ்வளவு விரைவாக செய்து கொடுக்க முடியுமோ அதைச் செய்து கொடுக்குமாறு வலியுறுத்தினார்.
-
-இதன் பின்னர் உள்ளூராட்சி அமைச்சின் செயலாளர் அ.சோதிநாதனால், வீதிப்பாதுகாப்பும் கழிவு முகாமைத்துவமும் தொடர்பான விளக்கமளிப்பு இடம்பெற்றது. உள்ளூராட்சி மன்றங்கள் கவனம் செலுத்த வேண்டிய விடயங்கள் தொடர்பில் அவர் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/1d5436e8.json)
-
----
-
-### ரஷ்ய விமான விபத்து;பயணித்த அனைவரும் பலி
-
-*2025-07-24 14:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-விமான-விபத்து-பயணித்த-அனைவரும்-பலி/50-361688) · `ta`
-
-ரஷ்யாவின் தூர கிழக்கு அமுர் பகுதியில் விபத்துக்குள்ளான அங்காரா ஏர்லைன்ஸ் An-24 பயணிகள் விமானத்தில் இருந்த 49 பேரும் இறந்துவிட்டனர்.
-
-முதற்கட்ட தகவல்களை மேற்கோள் காட்டி TASS செய்தி நிறுவனம், இந்த செய்தியை வெளியிட்டுள்ளது.   .
-
-மாயமான விமானத்தை தேடும் நடவடிக்கைகளில் மீட்பு ஹெலிகாப்டர் பயன்படுத்தப்பட்டது. அந்த ஹெலி​காப்டர்,  விமானம் எரிவை கண்டுள்ளது மீட்பு பணியில் ஈடுபட்டுள்ள ரஷ்ய அதிகாரிகள் தெரிவித்தனர்.
-
-இந்த விமானம் ஐந்து குழந்தைகள் உட்பட 43 பயணிகளை ஏற்றிச் சென்று கொண்டிருந்தது. அதில் 6 பணியாளர்கள் இருந்தனர்.
-
-விமானியின் பிழை மற்றும் குறைந்த தெரிவுநிலை ஆகியவை விபத்துக்கான காரணமாக இருக்கலாம் என்று அதிகாரிகள் கருதுகின்றனர்.
-
-◼️
-
-[Data](articles/7093b273.json)
-
----
-
-### கள்ளக்காதலி பிரியாணி அபிராமிக்கு சாகும்வரை ஆயுள் தண்டனை
-
-*2025-07-24 14:19:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலி-பிரியாணி-அபிராமிக்கு-சாகும்வரை-ஆயுள்-தண்டனை/175-361686) · `ta`
-
-காஞ்சிபுரம் மாவட்டம் குன்றத்தூர் அடுத்த மூன்றாம் கட்டளை பகுதியை சேர்ந்தவர் விஜய். இவர் தனியார் வங்கி ஒன்றில் பணியாற்றி வந்தார். இவரது மனைவி அபிராமி. இந்த தம்பதிக்கு அஜய் என்ற மகனும் கார்னிகா என்ற பெண் குழந்தையும் இருந்தனர். டிக் டாக்கில் வீடியோ பதிவிட்டு பிரபலமான அபிராமிக்கு அப்பகுதியில் பிரியாணி கடையில் பணியாற்றி வந்த மீனாட்சி சுந்தரம் என்பவருடன் பழக்கம் ஏற்பட்டது. இந்த பழக்கம் நாளடைவில் கள்ளக்காதலாக மாறியது.
-
-இவர்களது கள்ளக்காதல் விவகாரம் கணவரான விஜய்க்கு தெரியவர அவர் கண்டித்துள்ளனர். இதனால் இருவருக்கும் இடையே தகராறு ஏற்பட்டு வந்துள்ளது. இதனால் ஆத்திரமடைந்த அபிராமி, மீனாட்சி சுந்தரத்துடன் சேர்ந்து வாழ முடிவெடுத்து இதற்கு தடையாக உள்ள கணவன் மற்றும் குழந்தைகளை கொலை செய்ய முடிவு செய்தார்.
-
-கடந்த 2018-ம் ஆண்டு தனது 2 குழந்தைகள் மற்றும் கணவருக்கு பாலில் தூக்க மாத்திரை கலந்து கொடுத்துள்ளார். இதில் அதிர்ஷ்டவசமாக விஜய் உயிர் தப்பினார். இருப்பினும் 2 குழந்தைகளும் உயிரிழந்த சம்பவம் கடும் அதிர்ச்சியை ஏற்படுத்தியது. இந்த சம்பவம் தொடர்பாக கணவர் விஜய் காவல் நிலையத்தில் புகார் அளித்தார்.
-
-...
-
-[Data](articles/38b27ee0.json)
-
----
-
-### இலங்கையில் மின்சார இருசக்கர வாகன புரட்சிக்கு புதிய அத்தியாயம் – டிரினிடி குளோபல் நிறுவனம் LTW 200 மற்றும் BO2யை அறிமுகம் செய்கிறது
-
-*2025-07-24 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/220817) · `ta`
-
-2023ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட டிரினிடி குளோபல் பிரைவட் லிமிட்டட் விற்பனைக்கு பின்னரான சேவை மற்றும் உதிரிபாகங்கள் என்பவற்றுடன் மின்சார இருசக்கர வாகனங்களை அறிமுகப்படுத்துவதில் முன்னோடியாக விளங்குகின்றது.போக்குவரத்து துறையில் புரட்சியை ஏற்படுத்தும் தனது நோக்கத்தை செயல்படுத்த மேற்கொண்ட முயற்சியின் விளைவாக அன்று கடவத்த கனெல்ரா மண்டபத்தில் நடைபெற்ற விழாவில் மிகவும் எதிர்பார்ப்பு மிக்க இருசக்கர வாகன வரிசையை அறிமுகப்படுத்தியது.
-
-இந்நிகழ்வில் இலங்கையர்கள் தனிப்பட்ட வாகனத்தின் அனுபவத்தை வேறுபட்ட விதத்தில் அனுபவிக்கும் வகையில் உருவாக்கப்பட்ட டிரினிடி நிறுவனத்தின் முதன்மை வாகனமான LTW 200 அதிகாரபூர்வமாக அறிமுகப்படுத்தப்பட்டதுடன் ஆரம்ப நிலை மாதிரியான BO2வும் அறிமுகமாகியது.
-
-LTW 200ஆனது உறுதி, செயல்திறன் மற்றும் நீடித்து உழைக்கும் தன்மை என்பவற்றில் சிறந்த தரத்தை கொண்டிருக்கும் டிரினிடி குளோபலின் முதற்தர மின்சார இருசக்கர வாகனமாகும். சக்திவாய்ந்த 2000W (2KW) மோட்டார் மற்றும் அதிநவீன LifePO4 பெட்டரி தொழில்நுட்பம் கொண்டு வடிவமைக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3821ce36.json)
-
----
-
-### ”எந்தவொரு மாணவரும் பாடசாலையிலிருந்து இடைவிலக கூடாது”
-
-*2025-07-24 14:17:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தவொரு-மாணவரும்-பாடசாலையிலிருந்து-இடைவிலக-கூடாது/175-361685) · `ta`
-
-எந்தவொரு மாணவரும் பாடசாலை முறையை விட்டு வெளியேற வேண்டிய அவசியமில்லாத 13 வருட தொடர்ச்சியான கல்வியை உறுதி செய்வதற்கு கல்வி சீர்திருத்தம் தேவை என்று ஜனாதிபதி அனுர குமார திசாநாயக்க இன்று தெரிவித்தார்.
-
-கல்வி சீர்திருத்தங்கள் குறித்து சிறப்பு அறிக்கை ஒன்றை வெளியிட்ட அவர், புதிய கல்வி சீர்திருத்தங்களில் 13 ஆண்டு தொடர்ச்சியான கல்வியை உறுதி செய்வதற்கான சீர்திருத்தங்கள் அடங்கும் என்று பாராளுமன்றத்தில் தெரிவித்தார்.
-
-ஒரு பிள்ளை தொடர்ந்து மூன்று நாட்கள் பாடசாலைக்கு வரவில்லை என்றால், ஒரு அரச அதிகாரி பிள்ளை சமூகமளிக்காமை குறித்து தனிப்பட்ட விசாரணை நடத்த வேண்டும் என்று ஜனாதிபதி கூறினார்.
-
-◼️
-
-[Data](articles/892fd0b5.json)
-
----
-
-### போத்தலால் தாக்கி தப்பிய கைதி சிக்கினார்
-
-*2025-07-24 14:09:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போத்தலால்-தாக்கி-தப்பிய-கைதி-சிக்கினார்/175-361684) · `ta`
-
-கொழும்பு ரிமாண்ட் சிறையில் தடுத்து வைக்கப்பட்டுள்ள ஒரு சந்தேக நபர்  கொழும்பு தேசிய மருத்துவமனையில் உள்ள மனநல மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டபோது தப்பிக்க முயன்ற சம்பவமொன்று புதன்கிழமை (23) இடம்பெற்றுள்ளது.
-
-சிறை அதிகாரிகள் சந்தேக நபரை மருத்துவருடன் கலந்தாலோசிப்பதற்கு முன்பு அவரது கைவிலங்குகளை அகற்றிக் கொண்டிருந்தபோது இந்த சம்பவம் நிகழ்ந்தது. அவர் சம்பவ இடத்தில் இருந்து தப்பி ஓடிவிட்டார், ஆனால் சிறிது நேரத்திலேயே மருத்துவமனையின் பிரதான நுழைவாயிலுக்கு அருகில் அவர் கைது செய்யப்பட்டார்.
-
-தப்பிக்கும் முயற்சியின் போது, சந்தேக நபர் ஒரு கண்ணாடி பாட்டிலை உடைத்து ஒரு பெண் சிறை அதிகாரியைத் தாக்க முயன்றதாக கூறப்படுகிறது. காயங்கள் எதுவும் ஏற்படுவதற்கு முன்பு அதிகாரிகளால் அவரைக் கட்டுப்படுத்த முடிந்தது.
-
-சம்பவத்தைத் தொடர்ந்து, சந்தேக நபர் மீண்டும் மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டு பின்னர் சிறைக்கு திரும்பினார்.
-
-◼️
-
-[Data](articles/e9909ddb.json)
-
----
-
-### Sri Lanka’s top court orders USD1 bn compensation for X-Press Pearl disaster
-
-*2025-07-24 14:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-orders-usd1-bn-compensation-for-x-press-pearl-disaster-232576/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court ordered the respondents in the X-Press Pearl disaster to pay 1 billion US dollars as compensation for the harm caused to marine and coastal environment, and the significant losses suffered by the island nation and the fishing industry, the verdict said.
-
-The MV X-Press Pearl disaster stands as Sri Lanka’s worst marine environmental catastrophe. On May 20, 2021, the Singapore-flagged container ship caught fire off the coast of Colombo while carrying a cargo that included 25 tons of nitric acid, other hazardous chemicals, and over 1,500 containers.
-
-Despite efforts to douse the fire, the vessel burned for nearly two weeks before sinking on June 2, 2021. The incident led to the spillage of harmful chemicals and billions of plastic pellets (nurdles) into the Indian Ocean, polluting vast stretches of Sri Lanka’s western coastline.
-
-...
-
-[Data](articles/e296825b.json)
-
----
-
-### The future of BRICS hinges on India’s stance
-
-*2025-07-24 14:00:00* · [`economynextcom`](https://economynext.com/the-future-of-brics-hinges-on-indias-stance-232540/) · `en`
-
-ECONOMYNEXT – India is set to take over the BRICS presidency in 2026 amidst global upheavals in the areas of trade and geopolitics. On the one hand are US-imposed tariffs on its trading partners globally, and on the other, cross-border tensions between some BRICS member states. The problem is confounded by US President Donald Trump’s recent threat of 10 per cent tariffs on any nation that aligns with BRICS.
-
-For decades, India has played a careful balancing act when dealing with global challenges. However, that strategy may be sorely tested when it takes on the BRICS leadership. Says Dr D Dhanuraj, Founder and Chair of the Centre for Public Policy Research, India, “The I in BRICS is very important, will it be for you, we or all humanity? India’s position is very important for the very survival and success of BRICS.”
-
-...
-
-[Data](articles/8cefcae6.json)
 
 ---

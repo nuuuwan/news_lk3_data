@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 15:06:41**
+As of **2025-07-25 15:22:05**
 
 ## Newspaper Stats
 
-*Scraped **66,741** Articles*
+*Scraped **66,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ newsfirstlk | 363
 dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 681
-islandlk | 4,076
-economynextcom | 4,086
+islandlk | 4,077
+economynextcom | 4,087
 dailyftlk | 4,718
 dailymirrorlk | 4,733
-adalk | 6,401
+adalk | 6,402
 adaderanalk | 8,195
 tamilmirrorlk | 9,640
 virakesarilk | 11,120
-adaderanasinhalalk | 11,460
+adaderanasinhalalk | 11,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,741 articles have been extended.
+61,973 (92.9%) of 66,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### BYD පාකිස්තානයටත්
+
+*2025-07-25 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212630) · `si`
+
+චීනය සහ පාකිස්ථානය අතර ආර්ථික සහයෝගීතාව තවත් ඉදිරි පියවරකට රැගෙන යමින් චීන BYD විද්‍යුත් වාහන එකලස් කිරීමේ කර්මාන්ත ශාලාවක් ලබන වසරේදී පාකිස්ථානයේ විවෘත කෙරෙන බව එම සමාගම සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5a55daf8.json)
+
+---
+
+### S&P affirms Bangladesh credit rating at B+
+
+*2025-07-25 15:00:00* · [`economynextcom`](https://economynext.com/sp-affirms-bangladesh-credit-rating-at-b-232773/) · `en`
+
+ECONOMYNEXT – S&P Global Ratings said it is affirming Bangladesh’s sovereign rating at B+ as the country’s external liquidity is stabilizing, as indicated by the recent steady improvement in its official foreign exchange reserves.
+
+“Our ‘B+’ ratings on Bangladesh reflect the economy’s modest per capita income and limited fiscal flexibility owing to a combination of low revenue-generation capacity and the government’s high interest burden,” the ratings agency said.
+
+“We could lower our ratings on Bangladesh if the country’s external position worsens such that, for example, narrow net external debt surpasses 100% of current account receipts on a sustained basis.”
+
+Bangladesh’s economy is stabilizing following an acute slowdown amid the political crisis in the second half of 2024.
+
+• Bangladesh’s external liquidity is stabilizing, as indicated by the recent steady improvement in its official foreign exchange reserves.
+
+...
+
+[Data](articles/d7a61446.json)
+
+---
 
 ### පිරිවැය ආවරණය කෙරෙන විදුලි මිලකරණය අඛණ්ඩව පවත්වා ගත යුතුයි - IMF අවධාරණය කරයි
 
@@ -162,7 +194,7 @@ Disanayaka will be accompanied by Minister of Foreign Affairs, Foreign Employmen
 
 *2025-07-25 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212628) · `si`
 
-අල්ලස් චෝදනාවක් සම්බන්ධයෙන් කලාකරුවකු වන විනෝද් තරංග යන අය අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් ඊයේ (24) අත්අඩංගුවට ගෙන තිබේ.
+අල්ලස් චෝදනාවක් සම්බන්ධයෙන් කලාකරුවකු වන විනෝද් තරංග යන අය අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගෙන තිබේ.
 
 පුද්ගලයන් දෙදෙනෙකුගෙන් රුපියල් 30,000 බැගින් වූ මුදලක් අල්ලස් වශයෙන් ඉල්ලීම යන චෝදනාව යටතේ මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
 
@@ -262,7 +294,7 @@ Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Co
 
 මෙම පෙත්සම අද කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංගවංශ මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
 
-එහිදී රාජිත සිනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාව අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් නියම කරන ලෙස ඉල්ලා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පෙත්සමක් ඉදිරිපත් කළත් එය මහෙස්ත්‍රාත්වරිය විසින් ප්‍රතික්ෂේප කළ බව සඳහන් කළේය.
+එහිදී රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාව අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් නියම කරන ලෙස ඉල්ලා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පෙත්සමක් ඉදිරිපත් කළත් එය මහෙස්ත්‍රාත්වරිය විසින් ප්‍රතික්ෂේප කළ බව සඳහන් කළේය.
 
 ...
 
@@ -303,6 +335,20 @@ Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Co
 ◼️
 
 [Data](articles/a0c72c9e.json)
+
+---
+
+### ජනාධිපති පොදු සමාව යටතේ අනීතිකව නිදහස් වූ පුද්ගලයාට බරපතල වැඩ සහිත සිරදඬුවම්
+
+*2025-07-25 13:38:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-පොදු-සමාව-යටතේ-අනීතිකව-නිදහස්-වූ-පුද්ගලයාට-බරපතල-වැඩ-සහිත-සිරදඬුවම්/11-417503) · `si`
+
+ජනාධිපති පොදු සමාව යටතේ අනීතිකව අනුරාධපුර බන්ධනාගාරයෙන් මුදාහැරි  ඩබ්ලිව්.එම්. අතුල තිලකරත්න නැමැත්තාට බරපතළ වැඩ සහිතව වසර 07ක  සිරදඬුවමක් නියම කර තිබේ.
+
+අනුරාධපුර මහාධිකරණ විනිසුරු නලීන් ද හේවාවසම් මහතා විසින් අද(25දා) මෙම නියෝගය ලබා  දුන්නේය.
+
+◼️
+
+[Data](articles/3db1d395.json)
 
 ---
 
@@ -1717,59 +1763,5 @@ It is our indecisiveness, indiscipline and inaction which have got us to where w
 ...
 
 [Data](articles/cff47157.json)
-
----
-
-### B. Saroja Devi: Sweet voiced Kannada parrot was goddess of expression
-
-*2025-07-25 03:27:41* · [`dailyftlk`](https://www.ft.lk/columns/B-Saroja-Devi-Sweet-voiced-Kannada-parrot-was-goddess-of-expression/4-779439) · `en`
-
-Saroja Devi reigned as the uncrowned queen of Tamil cinema in the early and mid-sixties of the last century
-
-Saroja Devi was hugely popular with Sri Lankan movie audiences too. Apart from Tamil and Muslim film fans, the actress had many Sinhala fans too, especially women. This became widely known when Saroja Devi accompanied MG Ramachandran (MGR) on a tour of the island in 1965. Both were mobbed by fans wherever they went. It was obvious that the chief magnet attracting the fans was MGR. However Saroja Devi herself drew crowds in her own right. When Tamil newspapers interviewed these fans, it was found that many were Sinhalese fans rooting for Saroja Devi
-
-...
-
-[Data](articles/ef99fd17.json)
-
----
-
-### எதிர்கால உலகிற்கு ஏற்ப கல்வி மாற்றம் ; கல்வி மறுசீரமைப்பின் நோக்கம் - அமைச்சர் சரோஜா சாவித்திரி
-
-*2025-07-25 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/220881) · `ta`
-
-பாடத்திட்டங்களையன்றி எதிர்கால உலகுக்கு பொருத்தமான வகையில் கல்வி முறைமையில் மாற்றம் ஏற்படுத்துவதே கல்வி மறுசீரமைப்பின் நோக்கமாகும் என அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (24) கல்வி மறுசீரமைப்பு தொடர்பான  சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-தேசிய மக்கள் சக்தி அரசாங்கம் ஆட்சியை பொறுப்பேற்ற போது கல்வி மறுசீரமைப்பு, சுகாதாரத்துறை மறுசீரமைப்பு மற்றும் போக்குவரத்து துறை மறுசீரமைப்பு தொடர்பில்    தெளிவான கொள்கையைக் கொண்டிருந்தது.
-
-இந்த கல்வி மறுசீரமைப்பு என்பது வெறுமனே பாடத்திட்டங்களை நவீனம யப்படுத்துவதோ புதிய பாடத்திட்டங்களை அறிமுகப்படுத்துவதோ பாடத்திட்டங்களில் மாற்றங்களை ஏற்படுத்துவதோ மட்டுமின்றி கல்வி முறைமையை முழுமையாக மாற்றுவதே நோக்கமாகும்.
-
-அத்துடன் சுற்றாடல், நாட்டு மக்களின் ஒருமைப்பாடு, தேசிய நல்லிணக்கம் தொடர்பில் தேசிய கொள்கையுடனான  தேசிய வேலைத்திட்டத்தை முன்னெடுப்பது தொடர்பிலும் கவனம் செலுத்தியது. இவற்றை புதிய கொள்கை வரைபுடன் நடைமுறைப்படுத்துவதே எமது நோக்கமாகும்.
-
-...
-
-[Data](articles/590512d4.json)
-
----
-
-### மல்யுத்த வீரர் ஹல்க் ஹோகன் 71 வயதில் காலமானார்!
-
-*2025-07-25 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/220880) · `ta`
-
-பிரபல wwe மல்யுத்த வீரரான ஹல்க் ஹோகன் தனது 71 வயதில் மாரடைப்பு காரணமாக காலமானார். மல்யுத்த போட்டியின் முடி சூடா மன்னனாக ஒரு காலத்தில் விளங்கிய ஹல்க் ஹோகன் WWE நிறுவனம் இன்று மாபெரும் சாம்பிராஜ்யத்தை படைத்ததற்கு ஒரு முக்கிய காரணமாக இருந்துள்ளார். இவரது இயற்பெயர் அவரது உண்மையான பெயர் டெர்ரி ஜீன் போலியா (Terry Gene Bollea).
-
-ஹல்க் ஹோகன் தன்னுடைய 71 வது வயதில் ஃப்ளோரிடாவில் உள்ள தனது வீட்டில் மயங்கி கிடந்து இருக்கின்றார்.
-
-இதனை அடுத்து வீட்டில் இருந்தவர்கள் அவசர கால உதவிக்கு அழைத்திருக்கிறார்கள். இதனை அடுத்து மருத்துவ உதவி குழுவினர் ஹல்க் ஹோகனை மருத்துவமனைக்கு அழைத்து சென்றபோதே அவருடைய உயிர் பிரிந்து விட்டதாக செய்திகள் வெளியாகி உள்ளது.
-
-ஹல்க் ஹோகனுக்கு மாரடைப்பு ஏற்பட்டு அவருடைய உயிர் பிரிந்ததாக முதல் கட்ட செய்திகள் வெளியாகி உள்ளது.
-
-அப்போது அவர் கோமாவில் சென்றுவிட்டதாக பல வதந்திகள் கிளம்பின. எனினும் அவர் நலமுடன் இருந்ததாக அவருடைய மனைவி தெரிவித்த நிலையில், தற்போது ஹல்க் ஹோகன் உயிரிழந்துவிட்டதாக செய்தி வெளியாகியிருப்பது ரசிகர்களை அதிர்ச்சி அடைய செய்திருக்கின்றது.
-
-...
-
-[Data](articles/13c53620.json)
 
 ---

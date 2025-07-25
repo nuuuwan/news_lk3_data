@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 13:50:18**
+As of **2025-07-25 14:07:14**
 
 ## Newspaper Stats
 
-*Scraped **66,718** Articles*
+*Scraped **66,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 4,076
 economynextcom | 4,081
 dailyftlk | 4,718
 dailymirrorlk | 4,733
-adalk | 6,400
+adalk | 6,401
 adaderanalk | 8,193
-tamilmirrorlk | 9,635
+tamilmirrorlk | 9,637
 virakesarilk | 11,115
-adaderanasinhalalk | 11,455
+adaderanasinhalalk | 11,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,718 articles have been extended.
+61,973 (92.9%) of 66,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### නරේන්ද්‍ර මෝදි අගමැති ධුරයෙන් වාර්තා තබයි
+
+*2025-07-25 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212626) · `si`
+
+ඉන්දියාවේ දෙවැනියට වැඩිම කාලයක් ධුරය දැරූ අගමැතිවරයා ලෙස වත්මන් අගමැති නරේන්ද්‍ර මෝදි අද (25) වාර්තා අතරට එක්වුණි.
+
+ඒ 2014 වසරේ සිට අඛණ්ඩ දින 4,078ක කාලයක් එරට අගමැති ධුරය දරමිනි.
+
+මීට පෙර ඉන්දියාවේ දෙවැනියට වැඩිම ධුර කාලයක් දැරූ අගමැතිවරයා වූයේ දින 4,077ක කාලයක් අගමැති ලෙස කටයුතු කළ ඉන්දිරා ගාන්ධි ය.
+
+1947 සිට 1964 වසර දක්වා ධුර දැරූ හිටපු අගමැති ජවහර්ලාල් නේරු, ඉතිහාසයේ වැඩිම කාලයක් ධුරය දරා ඇති ඉන්දිය රාජ්‍ය පාලකයා වෙයි.
+
+◼️
+
+[Data](articles/3256f7c0.json)
+
+---
+
+### රාජිතගේ ප්‍රතිශෝධන පෙත්සම විභාගයට ගන්න මහාධිකරණයෙන් තීරණයක්
+
+*2025-07-25 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212625) · `si`
+
+අල්ලස් කොමිසම විසින් තමන්ව අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් මත මුදා හරින ලෙස ඉල්ලා තමන් විසින් ඉදිරිපත් කළ පෙත්සමක් ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය දුන් තීන්දුව බල රහිතකර, තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාග කිරීමට කොළඹ මහාධිකරණය අද (25) තීරණය කළේය.
+
+ඒ අනුව මෙම පෙත්සම සම්බන්ධයෙන් අගෝස්තු මස 07 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා අදාළ පෙත්සමේ වගඋත්තරකරුවකු ලෙස නම් කර තිබූ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ අධ්‍යක්ෂ ජෙනරාල්වරයා වෙත නොතිසි නිකුත් කරන ලෙසත් අධිකරණය නියම කර ඇත.
+
+මෙම පෙත්සම අද කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංගවංශ මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී රාජිත සිනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාව අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් නියම කරන ලෙස ඉල්ලා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පෙත්සමක් ඉදිරිපත් කළත් එය මහෙස්ත්‍රාත්වරිය විසින් ප්‍රතික්ෂේප කළ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/478c4e2f.json)
+
+---
+
+### பறவைகள் பூங்காவின் உரிமையாளருக்கு விளக்கமறியல் நீடிப்பு
+
+*2025-07-25 13:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவைகள்-பூங்காவின்-உரிமையாளருக்கு-விளக்கமறியல்-நீடிப்பு/175-361746) · `ta`
+
+அதி சொகுசு மோட்டார் சைக்கிள்களை சட்டவிரோதமாக  இறக்குமதி செய்த குற்றச்சாட்டின் பேரில் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள  ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளரின் விளக்கமறியல் எதிர்வரும் 30 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர்,  நீதிமன்றில் வெள்ளிக்கிழமை (25) ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+சட்டவிரோதமாக  நாட்டில் இறக்குமதி செய்யப்பட்ட 200 மில்லியன் ரூபாய்க்கு அதிக பெறுமதியான 21 மோட்டார் சைக்கிள்கள் அம்பலாந்தோட்டையில் வைத்து ஜூலை 12 ஆம் திகதி பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+இது தொடர்பில் பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபரான ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர் கொழும்பு – நாரஹேன்பிட்டியவில் வைத்து ஜூலை 17 ஆம் திகதி கைதுசெய்யப்பட்டு நீதிமன்ற உத்தரவின் கீழ் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f2a7b5c8.json)
+
+---
 
 ### අතුල තිලකරත්නට බරපතළ වැඩ සහිත වසර 07ක සිරදඬුවමක්
 
@@ -63,6 +117,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d6668cc8.json)
+
+---
+
+### ஒரே நாளில் தங்கத்தின் விலையில் ஏற்பட்ட மாற்றம்
+
+*2025-07-25 13:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-நாளில்-தங்கத்தின்-விலையில்-ஏற்பட்ட-மாற்றம்/175-361745) · `ta`
+
+இன்று (25) தங்கம் பவுண் ஒன்றுக்கு 2,000 ரூபாயால் குறைந்ததுள்ளதாக, கொழும்பு செட்டியார் தெரு தங்க நகை வியாபாரிகள் சங்கத்தினர் தெரிவித்துள்ளனர்.
+
+22 கரட் தங்கத்தின் ஒரு கிராமின் விலை 30,750 ரூபாயாகவும், விற்பனை செய்யப்படுகிறது. R
+
+◼️
+
+[Data](articles/ec029c8c.json)
 
 ---
 
@@ -295,6 +363,20 @@ The raid was carried out by a team of officers, including the Director of the CC
 ...
 
 [Data](articles/536ff315.json)
+
+---
+
+### හිටපු ඇමතිවරයෙක් අභාවප්‍රාප්ත වෙයි
+
+*2025-07-25 11:10:31* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමතිවරයෙක්-අභාවප්‍රාප්ත-වෙයි/11-417502) · `si`
+
+හිටපු අමාත්‍ය පී. දයාරත්න මහතා අද (25දා) පෙරවරුවේ අභාවප්‍රාප්ත විය.
+
+එක්සත් ජාතික පක්ෂය  නියෝජනය කරමින් දේශපාලනයට පිවිසි දයාරත්න මහතා මියයන විට 89වන වියේ පසුවිය.
+
+◼️
+
+[Data](articles/3eda2f2c.json)
 
 ---
 
@@ -1669,81 +1751,5 @@ Air Link Sahasra Holdings Pvt. Ltd. was honoured as the Foreign Employment Recru
 ◼️
 
 [Data](articles/c55aa1a4.json)
-
----
-
-### Brandix’s FLO wins top accolade at SLASSCOM Ingenuity Awards
-
-*2025-07-24 21:18:00* · [`islandlk`](http://island.lk/brandixs-flo-wins-top-accolade-at-slasscom-ingenuity-awards/) · `en`
-
-Brandix’s cutting-edge digital operations platform, FLO, secured the First Runner-Up position in the National Category for Best Innovative Solution in Manufacturing at the prestigious SLASSCOM Ingenuity Awards, reinforcing the company’s leadership in tech-driven apparel manufacturing.
-
-Developed in-house, FLO revolutionises Brandix’s operations by providing real-time visibility and control across the entire manufacturing process from order intake to shipment. The platform optimises planning, quality checks, production, and inventory management, enabling faster, data-driven decision-making.
-
-As part of Brandix’s ‘SMART Factory initiative, FLO integrates AI and automation, showcasing the company’s commitment to digital transformation. The solution is continuously being enhanced, reflecting the innovative vision and technical expertise of Brandix’s team.
-
-...
-
-[Data](articles/a06336cb.json)
-
----
-
-### Ceilao Insurance joins forces with Nawaloka Hospitals to enhance medical accessibility
-
-*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/ceilao-insurance-joins-forces-with-nawaloka-hospitals-to-enhance-medical-accessibility/) · `en`
-
-Ceilao Insurance has announced a groundbreaking exclusive partnership with Nawaloka Hospitals, one of Sri Lanka’s leading private healthcare institutions. This strategic alliance marks a significant milestone in the Sri Lankan insurance and healthcare industries, enabling all current and future Ceilao Insurance Brokers clients—both individual and corporate—to access exclusive discounts on a wide range of medical check-ups and healthcare services at Nawaloka Hospitals.
-
-This initiative is not just a value-added service—it is a bold step toward making premium healthcare more affordable and accessible for every Ceilao client. No other insurance broker in Sri Lanka has achieved such a precedent, reaffirming Ceilao’s position as a pioneering force in the industry.
-
-...
-
-[Data](articles/4db6e653.json)
-
----
-
-### Registrations now open: Sri Lanka Economic and Investment Summit 2025
-
-*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/registrations-now-open-sri-lanka-economic-and-investment-summit-2025/) · `en`
-
-The Ceylon Chamber of Commerce has announced that registrations are now open for the Sri Lanka Economic and Investment Summit 2025 (SLEIS), taking place on 2nd and 3rd December 2025 at Shangri-La Colombo.
-
-Building on the success of the Ceylon Chamber’s flagship Sri Lanka Economic Summit, this year’s event introduces an enhanced format with a sharper focus on investment opportunities, aligning with Sri Lanka’s national priorities.
-
-Under the theme “Gateway to Growth: Asia’s Emerging Opportunity,” SLEIS 2025 will position Sri Lanka as a prime investment hub amid shifting regional supply chains and renewed momentum for structural reforms.
-
-The summit will convene senior policymakers, private sector leaders, investors, diplomats, and development agencies for two days of high-level discussions on transforming reforms into tangible growth and establishing Sri Lanka as a credible destination for trade and investment.
-
-...
-
-[Data](articles/9c631046.json)
-
----
-
-### Supply chain integration key to business agility and excellence, experts say
-
-*2025-07-24 21:17:00* · [`islandlk`](http://island.lk/supply-chain-integration-key-to-business-agility-and-excellence-experts-say/) · `en`
-
-In today’s fast-evolving digital economy, businesses must prioritize supply chain integration to achieve agility and competitive advantage, industry experts emphasize. A recent analysis highlights that successful supply chain management hinges on three critical dimensions: organizational relationship linkage, information coordination, and resource sharing.
-
-Integration, often termed the backbone of management excellence, requires aligning business processes, technology, and people both within an organization and across industries.
-
-While technological upgrades like Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems enhance system integration, psychological integration – collaborative decision-making across supply chain partners—is equally vital.
-
-...
-
-[Data](articles/db205124.json)
-
----
-
-### CSE heading to end the week on a dynamic note
-
-*2025-07-24 21:16:00* · [`islandlk`](http://island.lk/cse-heading-to-end-the-week-on-a-dynamic-note/) · `en`
-
-Stock trading at the Colombo Stock Exchange (CSE) showed a bullish sentiment yesterday following the Central Bank’s decision to keep policy rate at a low level, market analysists said.Amid those developments both indices moved upwards. All Share Price Index up by 153.3 points while S and P SL20 up by 45.82 points.
-
-...
-
-[Data](articles/2a2761e5.json)
 
 ---

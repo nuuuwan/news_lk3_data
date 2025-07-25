@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 04:48:12**
+As of **2025-07-26 05:05:41**
 
 ## Newspaper Stats
 
-*Scraped **66,834** Articles*
+*Scraped **66,835** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
-colombotelegraphcom | 683
+colombotelegraphcom | 684
 islandlk | 4,078
 economynextcom | 4,091
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,834 articles have been extended.
+61,973 (92.7%) of 66,835 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -423,6 +423,18 @@ The elaborate deception unravelled the moment they landed on the promised land. 
 ...
 
 [Data](articles/4bdb0b82.json)
+
+---
+
+### Tragedy & Coexistence: The Human–Elephant Conflict
+
+*2025-07-25 22:54:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tragedy-coexistence-the-human-elephant-conflict/) · `en`
+
+The elephants, revered for centuries in Sri Lankan culture and central to the country’s wildlife tourism industry, are continually facing an existential crisis. The numbers speak volumes. Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024). Behind these statistics lies a deeper, more painful story of fragmented habitats, misunderstood behavior, and policy paralysis.
+
+...
+
+[Data](articles/2aaf4329.json)
 
 ---
 
@@ -1777,23 +1789,5 @@ Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Co
 ...
 
 [Data](articles/478c4e2f.json)
-
----
-
-### பறவைகள் பூங்காவின் உரிமையாளருக்கு விளக்கமறியல் நீடிப்பு
-
-*2025-07-25 13:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவைகள்-பூங்காவின்-உரிமையாளருக்கு-விளக்கமறியல்-நீடிப்பு/175-361746) · `ta`
-
-அதி சொகுசு மோட்டார் சைக்கிள்களை சட்டவிரோதமாக  இறக்குமதி செய்த குற்றச்சாட்டின் பேரில் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள  ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளரின் விளக்கமறியல் எதிர்வரும் 30 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
-
-ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர்,  நீதிமன்றில் வெள்ளிக்கிழமை (25) ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-சட்டவிரோதமாக  நாட்டில் இறக்குமதி செய்யப்பட்ட 200 மில்லியன் ரூபாய்க்கு அதிக பெறுமதியான 21 மோட்டார் சைக்கிள்கள் அம்பலாந்தோட்டையில் வைத்து ஜூலை 12 ஆம் திகதி பொலிஸாரால் கைப்பற்றப்பட்டன.
-
-இது தொடர்பில் பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபரான ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர் கொழும்பு – நாரஹேன்பிட்டியவில் வைத்து ஜூலை 17 ஆம் திகதி கைதுசெய்யப்பட்டு நீதிமன்ற உத்தரவின் கீழ் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f2a7b5c8.json)
 
 ---

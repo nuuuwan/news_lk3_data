@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 17:52:24**
+As of **2025-07-25 18:11:08**
 
 ## Newspaper Stats
 
-*Scraped **66,772** Articles*
+*Scraped **66,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,405
-adaderanalk | 8,197
+adaderanalk | 8,198
 tamilmirrorlk | 9,646
-virakesarilk | 11,124
-adaderanasinhalalk | 11,469
+virakesarilk | 11,126
+adaderanasinhalalk | 11,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,772 articles have been extended.
+61,973 (92.8%) of 66,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### ශ්‍රී ලාංකික ව්‍යාපාරික කවුන්සිලයන්හි ගෝලීය සම්මේලනයේ වාර්ෂික මහා සභා රැස්වීමේ සමාරම්භයට එක්වූ ජනපති
+
+*2025-07-25 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212640) · `si`
+
+අද (25) පෙරවරුවේ කොළඹ ශැංග්‍රිලා හෝටලයේ පැවති ශ්‍රී ලාංකික ව්‍යාපාරික කවුන්සිලයන්හි ගෝලීය සම්මේලනයේ (Global Federation of Sri Lankan Business Councils) වාර්ෂික මහා සභා රැස්වීමේ සමාරම්භක අවස්ථාවට ජනාධිපති අනුර කුමාර දිසානායක මහතා සහභාගී වී තිබේ.
+
+ලොව පුරා විසිර සිටින ශ්‍රී ලාංකික ව්‍යාපාරික ප්‍රජාව ඒකාබද්ධ කෙරෙන වේදිකාවක් ලෙස ශ්‍රී ලාංකික ව්‍යාපාරික කවුන්සිලයේ ගෝලීය සම්මේලනය කටයුතු කරයි.
+
+"ගෝලීය ශ්‍රී ලාංකික ව්‍යාපාර එක්සත් කරමින් ඉදිරියට" මැයෙන් අද සහ හෙට (26) යන දෙදින පැවැත්වෙන මෙම සමුළුව සඳහා ඇමරිකා එක්සත් ජනපදය, එක්සත් රාජධානිය, ජපානය, ඔස්ට්‍රේලියාව, කැනඩාව සහ ඉන්දියාව ඇතුළු රටවල් 15ක ව්‍යාවසායකයෝ එක්ව සිටිති.
+
+ගෝලීය වෙළෙඳ සබඳතා පුළුල් කර ගැනීම, නව ආයෝජන කැඳවා ගැනීම සහ ලොව පුරා විසිර සිටින ශ්‍රී ලාංකික ව්‍යවසායකයන් මෙරට ආර්ථිකයට සක්‍රීය ලෙස දායක කර ගැනීම පිළිබඳ සාකච්ඡා මණ්ඩපයක් සැකසීම මෙවර සමුළුවේදී සිදුකෙරේ.
+
+...
+
+[Data](articles/817e9f6c.json)
+
+---
 
 ### Maldivian team visit Sri Lankan Parliament
 
@@ -150,6 +168,26 @@ Turnover was 4.2 billion rupees, below the monthly average of 7.1.
 
 ---
 
+### மஹியங்கனை மெதயாய, வககோட்டை மெதபெத்த மற்றும் கல்முனை அல்-அஸ்ஹர் கல்லூரிகளின் மாணவர்கள் ஜனாதிபதி மாளிகைக்கு வருகை
+
+*2025-07-25 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/220934) · `ta`
+
+மஹியங்கனை மெதயாய கல்லூரி, வககோட்டை மெதபெத்த கல்லூரி மற்றும் கல்முனை அல்-அஸ்ஹர் கல்லூரிகளின் மாணவர்கள் வியாழக்கிழமை (24) ஜனாதிபதி அலுவலகத்தால் ஏற்பாடு செய்யப்படும்  ‘Vision’ நிகழ்ச்சியில் பங்கேற்க வாய்ப்பு கிடைத்தது.
+
+ஜனாதிபதி அலுவலகம், கல்வி அமைச்சு மற்றும் பாராளுமன்ற மக்கள் தொடர்பாடல் பிரிவு ஆகியவை இணைந்து பாடசாலை மாணவர்களுக்காக இந்த திட்டத்தை செயல்படுத்துகின்றன.
+
+‘Vision’  திட்டம் மற்றும் அதன் எண்ணக்கரு ரீதியான மதிப்பு குறித்து மாணவர்களுக்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது.
+
+புதிய சமூக மாற்றத்துடன் நாட்டை உயர்ந்த நிலைக்கு உயர்த்துவதற்கான அரசாங்கத்தின் திட்டத்தில் மாணவர்களுக்கும் பொறுப்பு உள்ளது என்று ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் பிரசன்ன சந்தித் இந்த நிகழ்வில் பங்கேற்ற போது கூறினார்.
+
+ஒரு நாட்டின் வளர்ச்சிக்காக அனைவரும் தங்கள் கடமையை நிறைவேற்ற வேண்டும் என்றும், ஒழுக்கம் மற்றும் திறனுடன் கூடிய மனித வளங்கள் ஒரு நாட்டின் வளர்ச்சியில் சாதகமான தாக்கத்தை ஏற்படுத்துகின்றன என்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/d67eb923.json)
+
+---
+
 ### අලි රොෂාන්ගේ නඩුවට දින දෙයි
 
 *2025-07-25 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212637) · `si`
@@ -204,6 +242,26 @@ Turnover was 4.2 billion rupees, below the monthly average of 7.1.
 
 ---
 
+### சர்வதேச நாணய நிதியத்தின் ஊழியர் மட்ட குழுவினரின் இலங்கைக்கான விஜயம் நிறைவு
+
+*2025-07-25 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/220928) · `ta`
+
+இலங்கைக்கான சர்வதேச நாணய குழுப் பிரதானி இவான் பப்பஜோர்ஜியோ (Mr. Ivan Papageorgiou) தலைமையிலான சர்வதேச நாணய நிதியத்தின் (IMF) ஊழியர் மட்ட குழுவினர் இம்மாதம் 21 முதல் 25 ஆம் திகதி வரை நாட்டுக்கு விஜயம் செய்தருந்தனர்.
+
+இந்த விஜயத்தின் போது, அண்மைய பேரியல் பொருளாதார முன்னேற்றங்கள் மற்றும் சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதி வசதி (EFF) திட்டத்தின் கீழ் அதிகாரிகள் அமுல்படுத்தி வரும் பொருளாதார மற்றும் நிதிக் கொள்கைகளின் முன்னேற்றங்கள் குறித்து கலந்துரையாடப்பட்டது.
+
+• இலங்கை அதிகாரிகளால் அமுல்படுத்தப்படும் பொருளாதார சீர்திருத்தங்கள், வளர்ச்சி, பணவீக்கக் குறைப்பு, வெளிநாட்டு கையிருப்புக்களை அதிகரித்தல் மற்றும் அரச வருவாயை மேம்படுத்துதல் போன்றவற்றில் நல்ல முன்னேற்றத்தைக் காட்டுகின்றன.
+
+• 2025 ஆம் ஆண்டின் முதல் காலாண்டில், உண்மையான மொத்த உள்நாட்டு உற்பத்தி ஆண்டுக்கு ஆண்டு 4.8% ஆல் வளர்ச்சி அடைந்துள்ளது, இது எதிர்பார்ப்புகளை விட சிறப்பாகும்.
+
+• 2025 ஆம் ஆண்டின் இரண்டாம் காலாண்டில், பணவீக்கம் ஆண்டுக்கு ஆண்டு -1.1% ஆகக் குறைந்து, இலக்கை நோக்கி படிப்படியாகத் திரும்பியுள்ளது.
+
+...
+
+[Data](articles/425d9179.json)
+
+---
+
 ### රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීමට අයැදුම්පත් කැඳවයි
 
 *2025-07-25 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212635) · `si`
@@ -219,6 +277,24 @@ Turnover was 4.2 billion rupees, below the monthly average of 7.1.
 ◼️
 
 [Data](articles/a39903d1.json)
+
+---
+
+### Sri Lankan migrant worker in viral video still traumatized after workplace humiliation in Korea
+
+*2025-07-25 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110839/sri-lankan-migrant-worker-in-viral-video-still-traumatized-after-workplace-humiliation-in-korea) · `en`
+
+A Sri Lankan migrant worker said he continues to suffer from trauma months after co-workers tied him to a forklift and mocked him at a brick factory in Naju, South Jeolla, in an incident that has fueled national outrage and triggered a government investigation into the abuse of foreign laborers.
+
+The worker told the JoongAng Ilbo in a phone interview on Thursday that he continues to “suffer headaches from the trauma of being tied to a forklift” and mocked by co-workers at a brick factory in Naju, South Jeolla, earlier this year. Months after the incident, the video went viral online this week.
+
+“The forklift operator caused me tremendous pain. The shock I felt back then still gives me headaches,” the worker said. “I was so humiliated. I don’t even want to think about it.”
+
+The incident occurred around noon on Feb. 26, when the worker was hoisted into the air by a forklift while tied with white plastic sheeting.
+
+...
+
+[Data](articles/5120645b.json)
 
 ---
 
@@ -1757,83 +1833,5 @@ According to Kozack, inflation remains low, revenue collection is on an upward t
 ...
 
 [Data](articles/12c034e7.json)
-
----
-
-### முதல்வர் ஸ்டாலினுக்கு தீவிர சிகிச்சை
-
-*2025-07-25 07:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்வர்-ஸ்டாலினுக்கு-தீவிர-சிகிச்சை/175-361728) · `ta`
-
-முதல்வர் மு.க.ஸ்டாலினுக்கு நேற்று ஆஞ்சியோகிராம் பரிசோதனை செய்யப்பட்டது. முடிவுகள் இயல்பாக உள்ளன. அவர் இரண்டு நாள்களில் வழக்கமான பணிகளை மேற்கொள்வார் என்று அப்போலோ மருத்துவமனை நிர்வாகம் தெரிவித்துள்ளது.
-
-தமிழக முதல்வர் மு.க.ஸ்டாலின் உடல் நலக்குறைவு காரணமாக, சென்னை அப்போலோ மருத்துவமனையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார். மருத்துவமனையில் இருந்து கொண்டு, மக்கள் நலத்திட்டங்கள் தொடர்பாக அதிகாரிகளுடன் ஆலோசனை மேற்கொண்டு வருகிறார்.
-
-முதல்வர் ஸ்டாலினுக்கு ஏற்பட்ட தலைசுற்றல் பிரச்சினை தொடர்பாக அப்போலோ மருத்துவமனையில் மேற்கொள்ளப்பட்ட பல்வேறு மருத்துவப் பரிசோதனைகளில், இதயத்துடிப்பில் உள்ள சில வேறுபாடுகள் காரணமாகவே இந்த தலைசுற்றல் ஏற்பட்டுள்ளதாக கண்டறியப்பட்டது.
-
-...
-
-[Data](articles/5e5509fd.json)
-
----
-
-### Sri Lanka debt to GDP ratio edges up in March 2025
-
-*2025-07-25 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-to-gdp-ratio-edges-up-in-march-2025-232623/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government debt edged up to 96.7 percent of gross domestic product by March 2025 from 96.1 percent in December amid some currency depreciation, official data showed.
-
-Central government debt went up to 29,258 billion rupees in the first quarter of 2025 from 28,739 billion rupees, central bank data showed.
-
-Domestic debt went up from 18,310 billion rupees to 18,532 billion rupees, while foreign debt went up to 10,722 billion rupees, from 10,429 billion rupees, faster than the budget deficit of the period amid some rupee depreciation.
-
-Sri Lanka operates a so-called flexible exchange rate, an intermediate regime fraught with anchor conflicts, which is neither a clean float nor a hard peg and is prone to instability when private credit picks up.
-
-Sri Lanka defaulted in peacetime, while operating a similar regime and printing large volumes of money to target a mid-corridor (singe policy rate) interest rate, as well as some signaling analysts have shown.
-
-...
-
-[Data](articles/2154a764.json)
-
----
-
-### කෝටි 40ක මත්ද්‍රව්‍ය සමග විදේශිකයෙකු අත්අඩංගුවට
-
-*2025-07-25 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212611) · `si`
-
-රුපියල් කෝටි 40ක පමණ වටිනාකමකින් යුත් මත්ද්‍රව්‍ය තොගයක් රැගත් විදේශීය ජාතිකයෙකු කටුනායක ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අද (25) අලුයම අත්අඩංගුවට ගෙන තිබේ.
-
-ඔහු 'හරිත මාවත' ( Green Channel) ගමන්කිරිමේ දී අත්අඩංගුවට පත්ව ඇත.
-
-52 හැවිරිදි කැනඩා ජාතිකයෙකු වන ඔහු එරට ඔන්ටාරියෝ හි පදිංච්කරුවෙකු බව සඳහන්.
-
-අදාළ සැකකරු මත්ද්‍රව්‍ය තොගය කැනඩාවෙන් රැගෙන, කටාර් රාජ්‍යයේ දෝහා වෙත පැමිණ ඇත. එතැන් සිට කටුනායක වෙත පැමිණ තිබේ.
-
-ඔහු විසින් රැගෙන ආ ගමන්මල්ල තුළ හෂීෂ්' කිලෝ ග්‍රෑම් 12යි ග්‍රෑම් 196ක් සහ කොකේන් කිලෝ ග්‍රෑම් 5යි ග්‍රෑම් 298ක් තිබී සොයාගෙන ඇත.
-
-◼️
-
-[Data](articles/3d09ad42.json)
-
----
-
-### Failed shooting in Dehiwala: Gunman killed in shootout with STF
-
-*2025-07-25 07:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/110824/failed-shooting-in-dehiwala-gunman-killed-in-shootout-with-stf) · `en`
-
-The gunman suspected to be involved in the recent failed shooting attempt near the railway station at Dehiwala has been shot dead by Police Special Task Force (STF) personnel following an exchange of gunfire at Pahalagama, Kahatuduwa.
-
-Police said that the suspect was killed after STF personnel returned fire when he had opened fire at them while hiding in an abandoned house in the area early this morning (25).
-
-The deceased is suspected to be the gunman involved in the failed attempt to shoot and kill and individual near the Dehiwala railway station on July 18.
-
-Acting on intelligence, STF personnel had arrived to search an abandoned makeshift house located at Kandalowita in Pahalagama when the suspect had opened fire at them while hiding inside the house.
-
-The STF personnel had then returned fire resulting in the suspect’s death.
-
-Meanwhile, an officer of the STF has also been injured in the shootout and is receiving treatment at the Kalubowila Hospital.
-
-...
-
-[Data](articles/8659ccbe.json)
 
 ---

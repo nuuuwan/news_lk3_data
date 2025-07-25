@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 13:19:37**
+As of **2025-07-25 13:32:04**
 
 ## Newspaper Stats
 
-*Scraped **66,715** Articles*
+*Scraped **66,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,081
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,400
-adaderanalk | 8,192
+adaderanalk | 8,193
 tamilmirrorlk | 9,633
 virakesarilk | 11,115
 adaderanasinhalalk | 11,455
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,455
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.9%) of 66,715 articles have been extended.
+61,973 (92.9%) of 66,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cf933951.json)
+
+---
+
+### Sri Lanka and France sign debt restructuring implementation letters
+
+*2025-07-25 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/110833/sri-lanka-and-france-sign-debt-restructuring-implementation-letters) · `en`
+
+The Implementation Letter on Debt Restructuring between the Government of the French Republic and the Government of the Democratic Socialist Republic of Sri Lanka, related to the External Debt Restructuring Process, was signed on 24 July 2025.
+
+In line with the Memorandum of Understanding (MoU) signed with the Office of the Controller of Creditors (OCC) on 26 June 2024 for the external debt restructuring of Sri Lanka, the bilateral agreement on debt restructuring between the Government of France and the Government of Sri Lanka was signed on 16 June 2025, the Ministry of Finance, Planning and Economic Development said in a statement.
+
+...
+
+[Data](articles/05d04e0d.json)
 
 ---
 
@@ -1743,25 +1757,5 @@ No one can be satisfied with the current education system, the young generation 
 ...
 
 [Data](articles/fcc0cd3b.json)
-
----
-
-### අලි මිනිස් ගැටුම ගැන ජනපතිගේ අවධානය
-
-*2025-07-24 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212603) · `si`
-
-වනඅලි ජීවිත සුරැකීම මෙන්ම ග්‍රාමීය ජනතාවගේ දෛනික ජනජීවිතය සුරක්ෂිත කිරීම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අදාළ අමාත්‍යවරු හා නිලධාරීන් අතර සාකච්ඡාවක් ජනාධිපති ලේකම් කාර්යාලයේදී අද (24) පස්වරුවේ පැවැත්විය.
-
-දිනෙන් දින ඉහළ යමින් පවතින වනඅලින්ට සිදුවන හිරිහැර සහ ග්‍රාමීය ජනතාවගේ දෛනික ජීවිතයට සිදුව ඇති බලපෑම සම්බන්ධ වත්මන් තත්ත්වය මෙහිදී ජනාධිපතිවරයාගේ විමසීමට ලක් වී තිබේ.
-
-මෙහිදී නිලධාරීන් විසින් මේ සම්බන්ධව පවතින වත්මන් තත්ත්වය මෙන්ම ඊට විසඳුම් සෙවීමේදී දීර්ඝ කාලයක් තිස්සේ අදාළ ආයතන මුහුණ දෙන ගැටලු පිළිබඳව ජනාධිපතිවරයාගේ අවධානයට යොමු කළේය.
-
-මේ පිළිබඳව අදහස් දැක් වූ ජනාධිපතිවරයා ප්‍රකාශ කර සිටියේ කුමන තත්ත්වයක් යටතේ වුවද වනඅලින්ට සිදුවන හිරිහැර පිළිගත නොහැකි බවත්, ඒ වෙනුවෙන් කෙටි කාලීන, මධ්‍ය කාලීන සහ දිගුකාලීන විසඳුම් සෙවීමට පියවර ගත යුතු බවත්ය.
-
-ග්‍රාමීය මට්ටමින් මේ පිළිබඳව සමීපව අධ්‍යයනය කරන ලෙස නිලධාරීන්ට උපදෙස් දුන් ජනාධිපතිවරයා, දේශපාලන අධිකාරිය සහ ජනතාවද සහභාගි කර ගනිමින් මෙම ගැටලුවලට නිසි විසඳුම් ලබා දිය යුතු බවද අවධාරණය කළේය.
-
-...
-
-[Data](articles/4660ddc5.json)
 
 ---

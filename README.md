@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 20:32:58**
+As of **2025-07-25 20:48:27**
 
 ## Newspaper Stats
 
-*Scraped **66,787** Articles*
+*Scraped **66,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,405
 adaderanalk | 8,200
 tamilmirrorlk | 9,650
 virakesarilk | 11,126
-adaderanasinhalalk | 11,475
+adaderanasinhalalk | 11,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,787 articles have been extended.
+61,973 (92.8%) of 66,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### කාම්බෝජ දේශසීමාවට අයත් දිස්ත්‍රික්ක 08කට තායිලන්තය යුද නීතිය ප්‍රකාශ කරයි
+
+*2025-07-25 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212646) · `si`
+
+කාම්බෝජයට මායිම්ව ඇති ප්‍රදේශවලට යුද නීතිය ප්‍රකාශයට පත් කිරීමට තායිලන්තය පියවර ගෙන ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එරට දේශසීමා ආරක්ෂක අණදෙන නිලධාරීවරයා පවසා ඇත්තේ කාම්බෝජයට මායිම්ව ඇති තායිලන්තයේ දිස්ත්‍රික්ක 8කට මෙලෙස යුද නීතිය ප්‍රකාශයට පත් කර ඇති බවය.
+
+මේ අතර තායිලන්තයේ වැඩබලන අගමැති ෆුම්තම් චෙචයාචායි අනතුරු අඟවා ඇත්තේ කාම්බෝජය සමග දේශසීමා ගැටුම් හේතුවෙන් මේ වන විට බොහෝ පිරිසක් මියගොස් ඇති බවත් එය යුද්ධයක් දක්වා වර්ධනය විය හැකි බවත්ය.
+
+දීර්ඝ කාලයක් පුරාවට පැවැති දේශසීමා ආරවුලක් හේතුවෙන් ඊයේ දිනයේ ජෙට් යානා, කාලතුවක්කු, ටැංකි සහ ගොඩබිම් භටයින් සමග දැඩි සටනක් දක්වා වර්ධනය වී ඇති අතර එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයද මෙම ගැටුම් සම්බන්ධව හදිසි සාකච්ඡාවක් පැවැත්වීමටද නියමිතව තිබුණි.
+
+එම වාතාවරණය මධ්‍යයේ අද (25) සවස සිට තායිලන්ත හමුදා දේශසීමා අණදෙන නිලධාරිවරයෙකු විසින් කාම්බෝජය සමග මායිමේ පිහිටි දිස්ත්‍රික්ක 08ක් සඳහා මෙලෙස යුද නීතිය ප්‍රකාශයට පත් කර තිබේ.
+
+මේ අතර තායිලන්තය සිය දේශසීමා ප්‍රදේශවලින් 138,000කට අධික පිරිසක් ඉවත් කරගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+...
+
+[Data](articles/5c2f10cc.json)
+
+---
 
 ### ජනපති සහ අමෙරිකානු වෙළෙඳ නියෝජිත කාර්යාලයේ තානාපති අතර Online සාකච්ඡාවක්
 
@@ -1809,25 +1831,5 @@ However, the pause on US tariffs, the resolution to geopolitical conflicts and a
 ◼️
 
 [Data](articles/91c01908.json)
-
----
-
-### 4 children dead, 40 trapped in debris as school building collapses in India
-
-*2025-07-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110828/4-children-dead-40-trapped-in-debris-as-school-building-collapsesinindia) · `en`
-
-At least four children were killed and several are feared trapped after a government school building collapsed in Rajasthan’s Jhalawar district on Friday.
-
-The incident at Piplodi Government School in Manohar Thana took place at around 8.30 am. Officials said around 40 children, besides teachers and staff members, were present in the premises when the roof of the single-storey building collapsed.
-
-According to sources, the building was in a dilapidated condition and several complaints were raised in this regard earlier. The school offers education till Class 8.
-
-“Four children have died and 17 others are injured. Ten children have been referred to Jhalawar out of which three to four are critical,” Jhalawar Superintendent of Police Amit Kumar told news agency PTI.
-
-Visuals from the site showed local residents rushing to rescue the trapped students, teachers and staff members. At least four JCB machines also arrived at the spot to help clear the debris.
-
-...
-
-[Data](articles/b0a4f1d4.json)
 
 ---

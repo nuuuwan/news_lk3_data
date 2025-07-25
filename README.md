@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 01:16:42**
+As of **2025-07-26 01:48:26**
 
 ## Newspaper Stats
 
-*Scraped **66,813** Articles*
+*Scraped **66,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,54 @@ dailymirrorlk | 4,733
 adalk | 6,408
 adaderanalk | 8,202
 tamilmirrorlk | 9,651
-virakesarilk | 11,136
+virakesarilk | 11,138
 adaderanasinhalalk | 11,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,813 articles have been extended.
+61,973 (92.8%) of 66,815 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-26 (Saturday)
+
+### வைத்தியர்களுக்கான இடமாற்றத்தில் சீர்கேடு பல அரச வைத்தியசாலைகள் முடங்க வாய்ப்பு - அரச மருத்துவ அதிகாரிகள் சங்கம்
+
+*2025-07-26 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/220968) · `ta`
+
+தரப்படுத்தப்பட்ட வைத்தியர்களுக்கான பணியிடமாற்ற நடவடிக்கையில் நிலவிவரும் சீர்கேடு  காரணமாக அரச வைத்தியசாலைகள் நெருக்கடிக்குள்ளாகியுள்ளதுடன், இந்நிலைமை நீடிக்கும் பட்சத்தில் எதிர்வரும் நாட்களில் பல வைத்தியசாலைகள் முடங்க வாய்ப்புள்ளதாக  அரச மருத்துவ அதிகாரிகள் சங்கத்தின் ஊடகப் பேச்சாளர்  வைத்தியர்  சமில் விஜேசிங்க எச்சரித்துள்ளார்.
+
+கொழும்பில் அமைந்துள்ள அரச வைத்திய அதிகாரிகள் சங்கத்தில் வெள்ளிக்கிழமை (25) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே இவ்வாறு குறிப்பிட்டார்.
+
+தரப்படுத்தப்பட்ட வைத்தியர்களுக்கான     பணியிடமாற்ற  நடவடிக்கையில் நிலவிவரும் சீர்கேடு  காரணமாக இந்த நாட்டின் அரச வைத்தியசாலைகளின் சுகாதார சேவை நெருக்கடிக்குள்ளாகியுள்ளது.  நாடு முழுவதும் சுகாதார சேவையை  உயர் தரத்தில் வழங்க அனைத்து அரச வைத்தியசாலைகளுக்கும் அவசியமான வைத்தியர்கள் பணியமர்த்தப்பட வேண்டும். எனினும் நீண்ட காலமாக வைத்தியர்களுக்கான பணியிட மாற்றம் வழங்கப்படாமையால் பல வைத்தியசாலைகளில்  வைத்தியர்களுக்கு பற்றாக்குறை ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/3af6451f.json)
+
+---
+
+### ஜோ ரூட் குவித்த அபார சதத்தின் உதவியுடன் இந்தியாவை விட 186 ஓட்டங்கள்  முன்னிலையில் இங்கிலாந்து
+
+*2025-07-26 00:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220967) · `ta`
+
+இந்தியாவுக்கு எதிராக மென்செஸ்டர், ஓல்ட் ட்ரஃபர்ட் விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது அண்டர்சன் - டெண்டுல்கர் கிண்ண டெஸ்ட் கிரிக்கெட் போட்டியில் முன்னாள் அணித் தலைவர் ஜோ ரூட் குவித்த அபார சதத்தின் உதவியுடன் பலமான நிலையை அடைந்துள்ள இங்கிலாந்து முதல் இன்னிங்ஸில் 3 விக்கெட்கள் மீதம் இருக்க 186 ஓட்டங்களால் முன்னிலையில் இருக்கிறது.
+
+போட்டியின் 3ஆம் நாளான இன்று வெள்ளிக்கிழமை (25) தனது முதல் இன்னிங்ஸை 2 விக்கெட் இழப்புக்கு 225 ஓட்டங்களிலிருந்து தொடர்ந்த இங்கிலாந்து மூன்றாம் நாள் ஆட்ட நேர முடிவில் 7 விக்கெட்களை இழந்து 544 ஓட்டங்களைப் பெற்றிருந்தது.
+
+11 ஓட்டங்களிலிருந்து தனது துடுப்பாட்டத்தைத் தொடர்ந்த ஜோ ரூட் மிகத் திறமையாகத் துடுப்பெடுத்தாடி 248 பந்துகளை எதிர்கொண்டு 14 பவுண்டறிகளுடன் 150 ஓட்டங்களைக் குவித்தார்.
+
+தனது 157ஆவது டெஸ்ட போட்டியில் விளையாடும் ஜோ ரூட் 38ஆவது சதத்தைப் பதிவு செய்தார்.
+
+டெஸ்ட் கிரிக்கெட்டில் தனது மொத்த எண்ணிக்கையை 13,409 ஓட்டங்களாக உயர்த்தியதன் மூலம் சச்சின் டெண்டுல்காரின் 15,921 ஓட்டங்களுக்கு அடுத்ததாக அதிக ஓட்டங்கள் குவித்தவர்கள் வரிசையில் இரண்டாம் இடத்தை அடைந்துள்ளார்.
+
+...
+
+[Data](articles/7cbcfa58.json)
+
+---
 
 ### 2025-07-25 (Friday)
 
@@ -1785,41 +1823,5 @@ The statement emphasized that sustaining the reform momentum is critical to safe
 ...
 
 [Data](articles/7ca96722.json)
-
----
-
-### IMF urges Sri Lanka budget 2026 in line with program after visit, warns on Trump tariff
-
-*2025-07-25 11:37:00* · [`economynextcom`](https://economynext.com/imf-urges-sri-lanka-budget-2026-in-line-with-program-after-visit-warns-on-trump-tariff-232709/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has urged that a budget be prepared in line with program parameters and warned that Trump tariffs are a risk to the economy which is recovering.
-
-“While the economic outlook is positive, downside risks have increased on the back of potentially high tariffs on Sri Lanka’s exports, persistent trade policy uncertainty, and heightened geopolitical tensions,” Mission Chief  Evan Papageorgiou said in a statement at the end of a staff visit.
-
-“This underscores the critical importance of maintaining the reform momentum and the efforts to rebuild fiscal space and external buffers.
-
-“These reforms will enhance Sri Lanka’s resilience to shocks and safeguard the hard-won economic progress to date. Should such shocks materialize, they will be addressed within the contours of the EFF program.”
-
-READ FULL STATEMENT HERE : IMF Staff Concludes Visit to Sri Lanka
-
-...
-
-[Data](articles/4258bafc.json)
-
----
-
-### ප්‍රංශය සහ ශ්‍රී ලංකාව අතර ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම ක්‍රියාත්මක කිරීමේ ලිපි අත්සන් කරයි
-
-*2025-07-25 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212619) · `si`
-
-ශ්‍රී ලංකාවේ විදේශ ණය ප්‍රතිව්‍යුහගත කිරීම සඳහා නිල ණය හිමි කමිටුව සමඟ 2024 ජුනි 26 දින අත්සන් කරන ලද අවබෝධතා ගිවිසුමට (MoU) අනුව, ප්‍රංශ රජය හා ශ්‍රී ලංකා රජය අතර ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ද්විපාර්ශ්වික ගිවිසුම 2025 ජුනි 16 වන දින අත්සන් කළේය.
-
-ද්විපාර්ශ්වික ගිවිසුම නිල වශයෙන් අත්සන් කිරීමෙන් අනතුරුව, ශ්‍රී ලංකා රජයේ බලයලත් නියෝජිතයා ලෙස මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය සහ ප්‍රංශ රජයේ බලයලත් නියෝජිතයන් වන Agence Francaise_de Developpement (AFD), Bpifrance Assurance_Export සහ Banque de France_යන ආයතන සමඟ ක්‍රියාත්මක කිරීමේ ලිපි සම්පූර්ණ කළ යුතු වේ.
-
-ඒ අනුව, Agence Francaise de Developpement (AFD), නියෝජිතායතනය සමඟ ක්‍රියාත්මක කිරීමේ ලිපිය අත්සන් කිරීම ඊයේ (24) මුදල්, ක්‍රමසම්පාදන හා ආර්ථික සංවර්ධන අමාත්‍යාංශයේදී සිදු විය.
-
-...
-
-[Data](articles/dd8f7e30.json)
 
 ---

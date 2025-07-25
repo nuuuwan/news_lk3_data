@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 00:07:16**
+As of **2025-07-26 00:26:02**
 
 ## Newspaper Stats
 
-*Scraped **66,808** Articles*
+*Scraped **66,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 683
 islandlk | 4,078
 economynextcom | 4,091
-dailyftlk | 4,718
+dailyftlk | 4,721
 dailymirrorlk | 4,733
 adalk | 6,408
 adaderanalk | 8,202
@@ -26,11 +26,55 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,808 articles have been extended.
+61,973 (92.8%) of 66,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Remembering Rajendram Rajamahendran: Legacy  of courage and compassion
+
+*2025-07-25 23:09:31* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-Rajendram-Rajamahendran-Legacy-of-courage-and-compassion/4-779488) · `en`
+
+Four years have passed since we lost Rajendram Rajamahendran, a titan whose life was a testament to resilience, love for his homeland, and compassion for its people.
+
+As we honour his memory, we reflect on his remarkable career and the essence of the man – his spirit, convictions, and profound impact on countless lives and Sri Lanka’s fabric.
+
+Rajamahendran faced immense challenges, including death threats and the destruction of his assets. Yet, he chose to rebuild, driven by a fierce determination to affirm his vision and rights. His pragmatism in the face of danger was legendary, and his concern for others, even in perilous times, highlighted his empathy and sense of responsibility. This unwavering commitment to his goals and values inspired countless individuals to stand by him and work towards a common purpose.
+
+...
+
+[Data](articles/38907f9f.json)
+
+---
+
+### Addressing black carbon for double impact on climate and health
+
+*2025-07-25 23:06:26* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-black-carbon-for-double-impact-on-climate-and-health/4-779487) · `en`
+
+Action on black carbon offers significant opportunities for double impact on addressing the climate-health nexus
+
+Short-lived climate pollutants (SCPs), also known as super pollutants, have contributed to almost half of global warming to date and play an outsized role in pushing Earth toward dangerous tipping points. One of these pollutants, black carbon—fine particulate matter resulting from incomplete combustion, such as in cookstoves, diesel engines, or waste burning—offers significant opportunities for double impact on addressing the climate-health nexus. Its dual identity as a potent climate forcer and air pollutant places black carbon at the intersection of climate change mitigation and public health.
+
+...
+
+[Data](articles/cd60d0e6.json)
+
+---
+
+### Multi-dimensional approach to lift status of rural sector: Praja Shakthi program in context
+
+*2025-07-25 23:04:10* · [`dailyftlk`](https://www.ft.lk/columns/Multi-dimensional-approach-to-lift-status-of-rural-sector-Praja-Shakthi-program-in-context/4-779486) · `en`
+
+The rural sector is or should be regarded as the effective driver of the Sri Lankan economy although from a strategic perspective, it has not been considered from this prism
+
+What happens in the rural sector and the impact on the entire country must be viewed from the context of the underdeveloped and unrealised potential of the rural sector, and its national impact. The Praja Shakthi program must be considered in this context. The program intends to ensure fair distribution of economic development outcomes and to promote targeted, inclusive development across rural areas and to reorient existing community empowerment initiatives already in operation toward a more integrated and policy-driven approach. Through this initiative, a new structural framework is to be introduced to support the identification of development needs at all levels, policy formulation, implementation and monitoring
+
+...
+
+[Data](articles/60c74d80.json)
+
+---
 
 ### செம்மணி புதைகுழியின் தற்போதைய நிலை
 
@@ -1789,59 +1833,5 @@ READ FULL STATEMENT HERE : IMF Staff Concludes Visit to Sri Lanka
 ◼️
 
 [Data](articles/bb154f4d.json)
-
----
-
-### Hambantota Bird Park owner and 2 others further remanded
-
-*2025-07-25 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110831/hambantota-bird-park-owner-and-2-others-further-remanded) · `en`
-
-The owner of a Bird Park in Nagarawewa, Hambantota, along with two other suspects, have been further remanded until July 30 for allegedly concealing illegally imported motorcycles in a warehouse.
-
-They were produced before the Hambantota Magistrate’s Court, which extended their remand until July 30, said Ada Derana reporter.
-
-The Bird Park owner was arrested on July 17 by a special police team based in Narahenpita, following a raid carried out earlier this month.
-
-On July 12, police officers attached to the Central Crimes Investigation Bureau (CCIB) took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
-
-The raid was carried out by a team of officers, including the Director of the CCIB, based on special information received by the Acting IGP.
-
-...
-
-[Data](articles/536ff315.json)
-
----
-
-### හිටපු ඇමතිවරයෙක් අභාවප්‍රාප්ත වෙයි
-
-*2025-07-25 11:10:31* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමතිවරයෙක්-අභාවප්‍රාප්ත-වෙයි/11-417502) · `si`
-
-හිටපු අමාත්‍ය පී. දයාරත්න මහතා අද (25දා) පෙරවරුවේ අභාවප්‍රාප්ත විය.
-
-එක්සත් ජාතික පක්ෂය  නියෝජනය කරමින් දේශපාලනයට පිවිසි දයාරත්න මහතා මියයන විට 89වන වියේ පසුවිය.
-
-◼️
-
-[Data](articles/3eda2f2c.json)
-
----
-
-### ගාසා තීරයේ ළමුන් පස් දෙනෙකුගෙන් එක් අයෙකු මන්දපෝෂණයෙන්
-
-*2025-07-25 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212618) · `si`
-
-ගාසා තීරයේ ළමුන් පස් දෙනෙකුගෙන් එක් අයෙකු මන්දපෝෂණයෙන් පෙළෙන බව විදෙස් මාධ්‍ය ප්‍රකාශ කරයි.
-
-එක්සත් ජාතීන්ගේ පලස්තීන සරණාගත ඒජන්සිය ද සඳහන් කර සිටියේ, රෝගීන් දිනෙන් දින වැඩි වන බවය.
-
-ගාසා තීරයේ කුසගිනි අර්බුදය මෙතරම් දරුණු මට්ටමකට මින් පෙර කිසිදු දිනයක පැමිණ නොමැති බවත්, ගාසා තීරයට ලැබෙන ආධාර මට්ටමක අවමවීම මෙම තත්ත්වයට ප්‍රධාන වශයෙන් බලපා ඇති බව එක්සත් ජාතීන්ගේ සංවිධානය අනතුරු අඟවා තිබේ.‍
-
-මේ සම්බන්ධයෙන් ලෝක සෞඛ්‍ය සංවිධානය (WHO) පවසා සිටියේ, ගාසා තීරයේ ජනගහනයෙන් විශාල පිරිසක් 'කුසගින්නෙන්' පෙළෙන බවය.
-
-කෙසේ වෙතත් පසුගියදා ගාසා තීරයේ ඊශ්‍රායල හමුදා හමු වූ ඊශ්‍රායල ජනාධිපති අයිසැක් හර්සොග් අවධාරණය කර සිටියේ, තම රට  ජාත්‍යන්තර නීතියට අනුව මානුෂීය ආධාර ලබාදීමට කටයුතු කරන බවයි.
-
-◼️
-
-[Data](articles/6c7195c2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 06:36:43**
+As of **2025-07-25 07:16:48**
 
 ## Newspaper Stats
 
-*Scraped **66,657** Articles*
+*Scraped **66,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,396
 adaderanalk | 8,180
-tamilmirrorlk | 9,616
+tamilmirrorlk | 9,618
 virakesarilk | 11,111
-adaderanasinhalalk | 11,440
+adaderanasinhalalk | 11,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (93.0%) of 66,657 articles have been extended.
+61,973 (93.0%) of 66,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### பாதாள தலைவருக்கு போலி பிறப்புச் சான்றிதழ்: பதிவாளருக்கு விளக்கமறியல்
+
+*2025-07-25 06:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவருக்கு-போலி-பிறப்புச்-சான்றிதழ்-பதிவாளருக்கு-விளக்கமறியல்/175-361725) · `ta`
+
+துபாயில் இருக்கும், பெரிய அளவிலான போதைப்பொருள் கடத்தல்காரரும் பாதாள உலகக் கும்பல் உறுப்பினருமான கெஹெல்பத்தர பாஸ்மேவுக்கு, பதிவு விதிமுறைகளை துஷ்பிரயோகம் செய்து போலி பிறப்புச் சான்றிதழை வழங்கியதாக குற்றம் சாட்டப்பட்டுள்ள சீதாவாக்கை பிரதேச செயலகத்தின் கூடுதல் பதிவாளர் ருவினி வாசனாவை, கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி வியாழக்கிழமை (24) விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
+
+குற்றப் புலனாய்வுத் துறை, கடத்தல் தடுப்புப் புலனாய்வுப் பிரிவு மற்றும் கடல்சார் குற்றப் புலனாய்வுப் பிரிவு ஆகியவற்றால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர், அவர் 28 ஆம் திகதி வரை காவலில் வைக்கப்பட்டார்.
+
+சந்தேக நபரை ஆஜர்படுத்திய குற்றப் புலனாய்வுத் துறை அதிகாரிகள், பொது அதிகாரியாகக் காட்டிக் கொண்டு போலி வெளிநாட்டு கடவுச்சீட்டைத் தயாரிப்பதற்கு உதவியதன் மூலம் தண்டனைச் சட்டம் மற்றும் குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தின் கீழ் குற்றங்களைச் செய்ததற்காக சந்தேக நபர் கைது செய்யப்பட்டதாகத் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/ca8108f0.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-07-25 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212606) · `si`
+
+අද (25) බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ මධ්‍යම පළාත්වලත්, පුත්තලම, ත්‍රිකුණාමලය, මොණරාගල  සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 55-60ක පමණ තද සුළං ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පැවසීය.
+
+තවද දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+තද සුළංවලින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/79fb2128.json)
+
+---
 
 ### TISL welcomes SC ruling on X-Press Pearl
 
@@ -503,6 +537,22 @@ Saroja Devi was hugely popular with Sri Lankan movie audiences too. Apart from T
 ◼️
 
 [Data](articles/52fecfbe.json)
+
+---
+
+### தலையில் கிளிப், நெயில் பாலிஷ்... நீதிமன்றம் வந்த பிரியாணி அபிராமி
+
+*2025-07-24 22:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையில்-கிளிப்-நெயில்-பாலிஷ்-நீதிமன்றம்-வந்த-பிரியாணி-அபிராமி/175-361722) · `ta`
+
+கள்ளக்காதலனுக்காக 10 மாதம் சுமந்து பெற்ற இரு குழந்தைகளையும் கொலை செய்த வழக்கின் தீர்ப்புக்காக, காஞ்சிபுரம் அமர்வு நீதிமன்றத்திற்கு அழைத்து வரப்பட்ட குன்றத்தூர் அபிராமி, கை விரல் நகங்களில் நெயில் பாலிஷ் வைத்துக் கொண்டு கவலையே இல்லாமல் வந்திருந்ததை ஊடகங்கள் வாயிலாக அறியக்கிடைக்கின்றது.
+
+கோர்ட்டுக்கு வந்த அபிராமி, கருப்பு நிற சுடிதார் அணிந்துக் கொண்டு வந்திருந்தார். முகத்தை மறைப்பதற்காக கருப்பு நிற துப்பட்டாவை முகத்தில் கட்டியிருந்தார். தீர்ப்பு என்ன வரும் என்பதை அறிய பதற்றமாகவே இருந்தார். அவ்வப்போது அவர் கையை பிசைந்து கொண்டு நின்றிருந்தார்.
+
+இந்த நிலையில் "குழந்தையை பராமரிக்க வேண்டிய பொறுப்பில் இருக்கும் தாயே, சுயலாபத்திற்காக இப்படி கொலை செய்துள்ளது கொடூரம்" என குறிப்பிட்ட காஞ்சிபுரம் முதன்மை அமர்வு நீதிமன்ற நீதிபதி செம்மல், அபிராமியும், சுந்தரமும் குற்றவாளிகள் என அறிவித்தார்.
+
+...
+
+[Data](articles/2a2ad0f4.json)
 
 ---
 
@@ -1703,67 +1753,5 @@ There was also increased interest in Overseas Realty (closed up 2.40 rupees at 3
 ◼️
 
 [Data](articles/b9495e56.json)
-
----
-
-### Chinese cybercrime suspect detained at BIA and deported
-
-*2025-07-24 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110814/chinese-cybercrime-suspect-detained-at-bia-and-deported) · `en`
-
-A 28-year-old Chinese national suspected of involvement in an international cybercrime ring was arrested by the Border Surveillance Unit of the Department of Immigration and Emigration upon his arrival at Bandaranaike International Airport (BIA), Katunayake.
-
-The suspect had landed in Sri Lanka on July 23 at 5.10 p.m. onboard SriLankan Airlines flight UL-315 from Kuala Lumpur in Malaysia, said Ada Derana reporter.
-
-Officials had grown suspicious after observing that the individual was carrying a large quantity of computer equipment. During questioning, the suspect claimed that he had traveled to Sri Lanka to meet a prominent businessman linked to the Sri Lankan stock market.
-
-Further interrogation revealed possible links to an international online financial fraud network, prompting authorities to take immediate action.
-
-Accordingly, the suspect was arrested and subsequently handed over to SriLankan Airlines’ officials for deportation.
-
-◼️
-
-[Data](articles/b2ecf0c5.json)
-
----
-
-### Thailand, Cambodia border row spirals into deadly clash, killing 11
-
-*2025-07-24 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110813/thailand-cambodia-border-row-spirals-into-deadly-clash-killing-11) · `en`
-
-At least 11 civilians were killed Thursday when Thailand and Cambodia exchanged airstrikes, rockets and artillery fire, in a dramatic escalation of a long-running border row.
-
-The neighbors are locked in a bitter spat over an area known as the Emerald Triangle, where the borders of both countries and Laos meet and which is home to several ancient temples.
-
-The squabble has dragged on for decades, flaring into bloody military clashes more than 15 years ago and again in May, when a Cambodian soldier was killed in a firefight.
-
-The conflict blazed up Thursday, with Cambodia firing rockets and artillery shells into Thailand and the Thai military scrambling F-16 jets to carry out airstrikes.
-
-The Thai Public Health Ministry said at least 11 civilians had been killed, most of them in a rocket strike near a petrol station in Sisaket province.
-
-...
-
-[Data](articles/a0408066.json)
-
----
-
-### නව රාජ්‍ය තාන්ත්‍රික නිලධාරීන් කිහිපදෙනෙක් ජනාධිපතිවරයා වෙත අක්තපත්‍ර භාරදෙයි
-
-*2025-07-24 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212589) · `si`
-
-මෙරටට පත්ව සිටින නව විදේශ තානාපතිවරු පස් දෙනෙක් සහ මහ කොමසාරිස්වරයෙක් අද (24) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත නිල වශයෙන් සිය අක්තපත්‍ර භාර දී තිබේ.
-
-මෙහි විශේෂත්වයක් වන්නේ, ශ්‍රී ලංකාව සහ කසකස්තානය අතර රාජ්‍යතාන්ත්‍රික සබඳතාවල සන්ධිස්ථානයක් සනිටුහන් කරමින් පළමු වරට ශ්‍රී ලංකාවේ ස්ථාපිත කෙරෙන කසකස්තාන ජනරජයේ තානාපති කාර්යාලයට අදාළ  තානාපතිවරයා ලෙස පත්ව සිටින සර්ගෙයි වික්ටරොව් (Mr. Sergey Viktorov) මහතාද අක්තපත්‍ර භාර දුන් රාජතාන්ත්‍රිකයින් අතර වීමය.
-
-ශ්‍රී ලංකාවේ තානාපති කාර්යාලයක් විවෘත කළ පළමු මධ්‍යම ආසියානු රට වන්නේද කසකස්තානයයි.
-
-ඊට අමතරව එරිත්‍රියා රාජ්‍යය, උස්බෙකිස්තාන ජනරජය, ජෝර්දානයේ හෂෙමයිට් රාජධානිය, භූතාන රාජධානිය සඳහා නව තානාපතිවරුද, ෆිජි ජනරජය වෙනුවෙන් නව මහ කොමසාරිවරයෙක්ද මෙලෙස පත්ව සිටිති.
-
-අද දින අක්තපත්‍ර භාර දුන් තානාපතිවරුන්ගේ සහ මහ කොමසාරිස්වරයාගේ නාම ලේඛනය පහත දැක් වේ.
-
-01. අලෙම් වෝල්ඩෙමරියම් (Mr. Alem Woldemariam) මහතා - නවදිල්ලියේ නේවාසික එරිත්‍රියා රාජ්‍යයේ තානාපති
-
-...
-
-[Data](articles/eecd5f94.json)
 
 ---

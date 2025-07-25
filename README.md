@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 20:48:27**
+As of **2025-07-25 21:06:36**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-07-25 (Friday)
 
-### කාම්බෝජ දේශසීමාවට අයත් දිස්ත්‍රික්ක 08කට තායිලන්තය යුද නීතිය ප්‍රකාශ කරයි
+### තායිලන්තය දිස්ත්‍රික්ක 8 ක යුද නීතිය ප්‍රකාශයට පත් කරයි
 
 *2025-07-25 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212646) · `si`
 

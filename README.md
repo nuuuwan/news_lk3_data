@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-25 17:17:27**
+As of **2025-07-25 17:30:46**
 
 ## Newspaper Stats
 
-*Scraped **66,765** Articles*
+*Scraped **66,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 591
 bbccomsinhala | 677
 colombotelegraphcom | 681
 islandlk | 4,077
-economynextcom | 4,087
+economynextcom | 4,091
 dailyftlk | 4,718
 dailymirrorlk | 4,733
 adalk | 6,404
 adaderanalk | 8,197
-tamilmirrorlk | 9,644
+tamilmirrorlk | 9,646
 virakesarilk | 11,124
 adaderanasinhalalk | 11,469
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 11,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.8%) of 66,765 articles have been extended.
+61,973 (92.8%) of 66,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-25 (Friday)
+
+### Maldivian team visit Sri Lankan Parliament
+
+*2025-07-25 17:15:00* · [`economynextcom`](https://economynext.com/maldivian-team-visit-sri-lankan-parliament-232793/) · `en`
+
+ECONOMYNEXT – A delegation of eight officials from the Maldives President’s Office of the Republic of visited Sri Lanka’s Parliament as part of a study tour aimed at enhancing institutional knowledge and operational practices.
+
+“The objective of the visit was to observe and learn from the best practices followed by the Sri Lankan Parliament in these areas,” Parliament said in a statement.
+
+“The key focus areas of the study tour included archives and records maintenance, preservation of documents.”
+
+The team had discussions with Siyath Ahemed, the Chief Librarian of Parliament, who briefed them on the methods and systems in place for managing and preserving parliamentary records and inventory.
+
+They were also given a guided tour of the Parliament and Record Room. (Colombo/Jul25/2025)
+
+◼️
+
+[Data](articles/adbae541.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds steady
+
+*2025-07-25 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-232809/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 301.90/302.00 to the US dollar in the spot market Friday, from 301.80/85 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.50/62 percent, up from 8.48/58 percent.
+
+A bond maturing on 15.12.2029 closed at 9.53/55 percent, up from 9.48/55 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.40/50 percent.
+
+A bond maturing on 01.06.2033 closed at 10.68/80 percent. (Colombo/July25/2025)
+
+◼️
+
+[Data](articles/fa3b9294.json)
+
+---
+
+### “மாகாண சபைகளை பலவீனப்படுத்த முயற்சி”
+
+*2025-07-25 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைகளை-பலவீனப்படுத்த-முயற்சி/175-361755) · `ta`
+
+மாகாண சபைகளை சகல அமைச்சுகளும் பலவீனப்படுத்தும் நடவடிக்கைகளில் ஈடுபடுகின்றன என்று இலங்கை தமிழரசுக் கட்சி பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது போக்குவரத்து அமைச்சிடம் கேள்வி எழுப்பி உரையாற்றும் போதே சாணக்கியன் எம்.பி இவ்வாறு கூறினார்.
+
+மட்டக்களப்பு மாவட்டத்தில் அபிவிருத்திக்குழு கூட்டத்தில் கலந்து கொண்டிருந்த அமைச்சரிடம் பல வீதிகள் தொடர்பான முறைப்பாடுகளை முன்வைத்திருந்தோம். இதில் உள்ள பிரச்சினை என்னவென்றால் எமது மாவட்டத்தில் அதிகமான வீதிகள் வீதி அபிவிருத்தி அதிகார சபைக்கு உட்பட்டவை, அதேபோன்று பிரதேச சபைக்கு சொந்தமான வீதிகளும் உள்ளன. ஆனால் இவற்றுக்கான நிதிகளை மத்திய அரசாங்கமே வைத்திருக்கின்றன. மாகாண சபைகளுக்கு கீழுள்ள வீதிகளை அபிவிருத்தி செய்வதற்கு நாங்கள் மத்திய அரசாங்கத்திடம் கேட்க முடியாது. இந்நிலையில் உங்கள் அமைச்சின் கீழ் மாகாண அமைச்சுக்கு ஏதேனும் நிதி ஒதுக்கீடு செய்ய ஒழுங்குகள் உள்ளனவா? என்றார்.
+
+...
+
+[Data](articles/deddd38e.json)
+
+---
+
+### ரூ. 20 கோடி காப்புறுதிக்காக,  2 கால்களையும் வெட்டிய மருத்துவர்
+
+*2025-07-25 17:04:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரூ-20-கோடி-காப்புறுதிக்காக-2-கால்களையும்-வெட்டிய-மருத்துவர்/50-361754) · `ta`
+
+இலங்கை ரூபாய் பெறுமதியில் 20 கோடியை   பெறுவதற்காக மருத்துவர் ஒருவர் தனது முழங்காலுக்கு கீழ் உள்ள இரண்டு கால்களையும் அகற்றியுள்ள சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+பிரிட்டனில் காப்பீடு பணம் 5 லட்சம் பவுண்டுகள் பெறுவதற்கே இந்த நபர் இவ்வாறு செய்துள்ளார்.
+
+நீல் ஹாப்பர் என்ற அந்த மருத்துவர் காப்புறுதி  பணம் பெறும் நோக்கில் கால்களை அகற்றியுள்ளதாக காப்பீடு நிறுவனங்கள் குற்றம் சாட்டி நீதிமன்றத்தை நாடியுள்ளன. முழங்கால்களை பாதுகாப்பாக அகற்றுவது எப்படி என்பது தொடர்பான வீடியோக்களை வெப்சைட்டில் இருந்து நீல் ஹாப்பர் பெற்றிருப்பதும் தெரியவந்துள்ளது.
+
+நிதி சார்ந்த விஷயங்களில் பிரதானமாக பார்க்கப்படுவது காப்புறுதிதான் தான். குடும்பத்தில் உள்ள நபர்களுக்கு எந்தவொரு உடல்நலக் குறைவோ, விபத்தோ என்ன பிரச்சனை நேர்ந்தாலும் அந்தக் குடும்பத்தினர் பெரிய பணப் பிரச்சனைகளில் சிக்காமல் பாதுகாக்கவும், உரிய மருத்துவம் பெறுவதற்கும் காப்புறுதி என்பது உதவி வருகிறது.
+
+...
+
+[Data](articles/f2c997a6.json)
+
+---
 
 ### වීසා ගාස්තු අය නොකරන රටවල් ලැයිස්තුව මෙන්න
 
@@ -42,9 +118,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ  චීනය, ඉන්දියාව, ඉන්දුනීසියාව, රුසියාව, තායිලන්තය, මැලේසියාව සහ ජපානය යන රටවල් සඳහාය.
 
+ඒ අනුව මෙම ලැයිස්තුවට අදාළ වන රටවලින් ලංකාවට පැමිණීමේ දී වීසා ගාස්තුවක් අය නොකිරීමට රජය තීරණය කර ඇති අතර, එමඟින් අ.ඩො.මිලියන 66ක වාර්ෂික ආදායමක් රජයට අහිමි වෙන බවත් සඳහන්ය.
+
 ◼️
 
 [Data](articles/866227f8.json)
+
+---
+
+### Sri Lanka stocks close up boosted by diversified financials
+
+*2025-07-25 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-boosted-by-diversified-financials-232805/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange closed up on Friday, as retail interest continued in companies that had posted good quarterly results particularly diversified financials, brokers said.
+
+The ASPI was up 0.46%, or 88.47 points, at 19,467.71; and the S&P SL20 was up 0.48%, or 27.67 points, at 5,755.04.
+
+“There was another day of bull market, mostly driven by retail investors and limited participation by high net worth individuals,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
+
+“Main reasons for their interest are the positive results coming out. Those specific shares attracted interest.”
+
+Retail investor interest momentum in diversified financials, the leasing and finance companies, continued.
+
+“Most sported very good results, and on the back of that we are seeing the entire sector getting noticed; and there’s a bit of a rally.”
+
+Turnover was 4.2 billion rupees, below the monthly average of 7.1.
+
+...
+
+[Data](articles/bbd556d4.json)
 
 ---
 
@@ -203,6 +305,24 @@ Thailand’s acting Prime Minister Phumtham Wechayachai said Cambodia had launch
 ◼️
 
 [Data](articles/822ef6ca.json)
+
+---
+
+### Japanese team in Sri Lanka to study expanding investment opportunities
+
+*2025-07-25 15:47:00* · [`economynextcom`](https://economynext.com/japanese-team-in-sri-lanka-to-study-expanding-investment-opportunities-232783/) · `en`
+
+ECONOMYNEXT – A delegation from the Japanese Ministry of Economy, Trade, and Industry, and representatives from the country’s commercial and industrial sectors are on a visit to Sri Lanka to explore investment expansion.
+
+“The Japanese delegation has arrived to look into expanding Japanese investment in Sri Lanka,” the president’s media division said.
+
+The delegation discussed new investment opportunities with president’s secretary Nandika Sanath Kumanayake.
+
+They are also scheduled to discuss investments with Sri Lankan public and private companies. (Colombo/Jul25/2025)
+
+◼️
+
+[Data](articles/d4cafb82.json)
 
 ---
 
@@ -1721,113 +1841,5 @@ Meanwhile, an officer of the STF has also been injured in the shootout and is re
 ◼️
 
 [Data](articles/f35cd356.json)
-
----
-
-### Canadian national arrested with cocaine and Hashish at BIA
-
-*2025-07-25 06:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/110823/canadian-national-arrested-with-cocaine-and-hashish-at-bia) · `en`
-
-A Canadian national has been arrested by Sri Lanka Customs officials at the Bandaranaike International Airport (BIA) in Katunayake while attempting to smuggle more than 05 kg of cocaine and over 12 kg of Hashish into the country.
-
-The 52-year-old passenger, a resident of Ontario in Canada, had attempted to exit through the ‘Green Channel’ at the airport when he was detained and searched on a suspicion.
-
-Customs officers had discovered 12 kg and 196 grams of Hashish as well as 5 kg and 298 grams of cocaine concealed inside his luggage.
-
-The street value of the seized narcotics is estimated at around Rs. 400 million in total.
-
-The air passenger had arrived in Sri Lanka from Canada via Doha in Qatar.
-
-◼️
-
-[Data](articles/7053c41c.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-07-25 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110822/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
-
-Several spells of showers may occur in the North-western Province, it said.
-
-Strong winds of about 55-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, and Central provinces and Puttalam, Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 40-50 kmph can be expected at times elsewhere.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/9a402f12.json)
-
----
-
-### ’கிரெடிட் கார்டுகளுக்கு கூடுதல் கட்டணம் இல்லை’
-
-*2025-07-25 06:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரெடிட்-கார்டுகளுக்கு-கூடுதல்-கட்டணம்-இல்லை/175-361727) · `ta`
-
-கிரெடிட் அல்லது டெபிட் கார்டுகளைப் பயன்படுத்தி செய்யப்படும் பரிவர்த்தனைகளுக்கு நிறுவனங்கள் மற்றும் நிறுவனங்கள் வாடிக்கையாளர்களிடம் 2.5 வீதம் முதல் 3 வீதம்வரை கூடுதல் கட்டணம் வசூலிக்க எந்த சட்டப்பூர்வ ஏற்பாடும் இல்லை என்று இலங்கை மத்திய வங்கியின் கொடுப்பனவுகள் மற்றும் தீர்வுகள் இயக்குநர் வசந்தா ஆல்விஸ் சமீபத்தில் கூறினார்.
-
-கிரெடிட் அல்லது டெபிட் கார்டு பணம் செலுத்தும்போது கூடுதல் கட்டணம் வசூலிக்கப்பட்டால், வாடிக்கையாளர்கள் அட்டை வழங்கும் வங்கியில் புகார் செய்ய விருப்பம் உள்ளது என்றும், வசூலிக்கப்படும் அதிகப்படியான தொகை வாடிக்கையாளரின் கணக்கில் வரவு வைக்கப்படும் என்றும் அவர் கூறினார். இருப்பினும், புகார் அளிக்கும்போது, கூடுதல் கட்டணம் வசூலிக்கப்பட்டதற்கான தெளிவான ஆதாரங்களுடன் பரிவர்த்தனைக்கான ரசீதுகளை வாடிக்கையாளர் சமர்ப்பிக்க வேண்டும் என்றும் அவர் கூறினார்.
-
-இலங்கையில் ஆண்டுதோறும் 1.6 மில்லியன் டிஜிட்டல் பரிவர்த்தனைகள் மேற்கொள்ளப்படுகின்றன என்றும் அவர் கூறினார். இவற்றில் 800,000 கிரெடிட் கார்டு பரிவர்த்தனைகள் என்றும் 600,000 டெபிட் கார்டு பரிவர்த்தனைகள் என்றும் அவர் கூறினார்.
-
-...
-
-[Data](articles/563ae385.json)
-
----
-
-### இந்தியா - இங்கிலாந்து தடையற்ற வர்த்தக ஒப்பந்தம்
-
-*2025-07-25 06:46:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-இங்கிலாந்து-தடையற்ற-வர்த்தக-ஒப்பந்தம்/50-361726) · `ta`
-
-இந்திய பிரதமர் நரேந்திர மோடி - இங்கிலாந்து பிரதமர் கெய்ர் ஸ்டார்மெர் முன்னிலையில், இந்தியா - இங்கிலாந்து இடையே தடையற்ற வர்த்தக ஒப்பந்தம் நேற்று கையெழுத்தானது.
-
-இதற்கான ஒப்பந்தத்தில், இந்திய வர்த்தக அமைச்சர் பியூஷ் கோயலும், பிரிட்டன் வர்த்தக அமைச்சர் ஜோனாதன் ரெனால்ட்ஸும் கையெழுத்திட்டனர்.
-
-இந்தியா - இங்கிலாந்து பொருளாதார ஒத்துழைப்பில் இன்று ஒரு புதிய அத்தியாயம் தொடங்குகிறது. விரிவான பொருளாதார மற்றும் வர்த்தக ஒப்பந்தத்தில்   இரு நாடுகளும் கையெழுத்திட்டுள்ளன.
-
-இரு நாடுகளுக்கு இடையேயான வர்த்தகத்தை மேம்படுத்துவது, உள்ளடக்கிய வளர்ச்சியை ஊக்குவிப்பது, விவசாயிகள், பெண்கள், இளைஞர்கள், சிறு, குறு, நடுத்தர தொழில் முனைவோர்களுக்கான வாய்ப்புகளை உருவாக்குவது ஆகியவற்றில் இரு நாடுகளுக்கும் இருக்கும் உறுதிப்பாட்டை இது பிரதிபலிக்கிறது.
-
-...
-
-[Data](articles/23b03c4f.json)
-
----
-
-### பாதாள தலைவருக்கு போலி பிறப்புச் சான்றிதழ்: பதிவாளருக்கு விளக்கமறியல்
-
-*2025-07-25 06:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவருக்கு-போலி-பிறப்புச்-சான்றிதழ்-பதிவாளருக்கு-விளக்கமறியல்/175-361725) · `ta`
-
-துபாயில் இருக்கும், பெரிய அளவிலான போதைப்பொருள் கடத்தல்காரரும் பாதாள உலகக் கும்பல் உறுப்பினருமான கெஹெல்பத்தர பாஸ்மேவுக்கு, பதிவு விதிமுறைகளை துஷ்பிரயோகம் செய்து போலி பிறப்புச் சான்றிதழை வழங்கியதாக குற்றம் சாட்டப்பட்டுள்ள சீதாவாக்கை பிரதேச செயலகத்தின் கூடுதல் பதிவாளர் ருவினி வாசனாவை, கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி வியாழக்கிழமை (24) விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
-
-குற்றப் புலனாய்வுத் துறை, கடத்தல் தடுப்புப் புலனாய்வுப் பிரிவு மற்றும் கடல்சார் குற்றப் புலனாய்வுப் பிரிவு ஆகியவற்றால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர், அவர் 28 ஆம் திகதி வரை காவலில் வைக்கப்பட்டார்.
-
-சந்தேக நபரை ஆஜர்படுத்திய குற்றப் புலனாய்வுத் துறை அதிகாரிகள், பொது அதிகாரியாகக் காட்டிக் கொண்டு போலி வெளிநாட்டு கடவுச்சீட்டைத் தயாரிப்பதற்கு உதவியதன் மூலம் தண்டனைச் சட்டம் மற்றும் குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தின் கீழ் குற்றங்களைச் செய்ததற்காக சந்தேக நபர் கைது செய்யப்பட்டதாகத் தெரிவித்தனர்
-
-◼️
-
-[Data](articles/ca8108f0.json)
-
----
-
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-07-25 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212606) · `si`
-
-අද (25) බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ මධ්‍යම පළාත්වලත්, පුත්තලම, ත්‍රිකුණාමලය, මොණරාගල  සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 55-60ක පමණ තද සුළං ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පැවසීය.
-
-තවද දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-තද සුළංවලින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/79fb2128.json)
 
 ---

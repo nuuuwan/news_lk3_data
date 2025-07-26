@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 19:48:24**
+As of **2025-07-26 20:06:47**
 
 ## Newspaper Stats
 
-*Scraped **66,920** Articles*
+*Scraped **66,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,091
 economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,415
+adalk | 6,416
 adaderanalk | 8,215
 tamilmirrorlk | 9,662
 virakesarilk | 11,159
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,920 articles have been extended.
+61,973 (92.6%) of 66,921 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -221,6 +221,22 @@ He said the attackers wore explosive vests and carried grenades. It was not clea
 ...
 
 [Data](articles/ccbd6c47.json)
+
+---
+
+### 2024දී දුම්රිය ගමන්වාර 5305ක් අවලංගු වෙලා
+
+*2025-07-26 16:51:40* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-දුම්රිය-ගමන්වාර-5305ක්-අවලංගු-වෙලා/11-417514) · `si`
+
+ඉකුත් 2024  වසරේ ජනවාරි 15 වැනිදා සිට දෙසැම්බර් 31 දක්වා කාල සීමාව තුලදී දුම්රිය ගමන් වාර 5305 ක් අවලංගුවී  ඇති අතර දුම්රිය පීලි පැනීම් 101 ක් වාර්තාවී ඇති බව දුම්රිය දෙපාර්තමේන්තුව
+
+දුම්රිය ගමන් වාර එක් ලක්ෂ විසි පන් දහස්  හතලිස් හයක් 2024 වසරේ සැලසුම් කොට  තිබී ඇති අතර එම සංඛ්‍යාවෙන් නිශ්චිත වෙිලාවට ධාවනයවී ඇත්තේ දුම්රිය ගමන් වාර  හැට එක්දහස් තිස් අටකි.නිශ්චිත වේලාවට ධාවනය නොවූ දුම්රිය වාර සංඛ්‍යාව පනස් අට දහස් හත්සීය තුනකි.
+
+දුම්රිය ඇංජින්වල   සහ මැදිරිවල හටගන්නා කාර්මික දෝෂ දුම්රිය මාර්ගයේ පවතින දුර්වලතා සහ නඩත්තු  කටයුතු සඳහා අවශ්‍ය ප්‍රතිපාදන අමුද්‍රව්‍ය නොමැතිවීම අවශ්‍ය අලුත්වැඩියා  කටයුතු සඳහා සේවක හිඟතාවය දුම්රිය සංඥාවල ඇති දෝෂ දුම්රිය පීලි පැනීම්වලට හේතු වී ඇති බවද දුම්රිය දෙපාර්තමේන්තුව පෙන්වා දෙයි. තොරතුරු දැනගැනීමේ පනත යටතේ දුම්රිය දෙපාර්තමේන්තුව මඟින් මෙම තොරතුරු ලබාගෙන ඇත.
+
+◼️
+
+[Data](articles/103db28c.json)
 
 ---
 
@@ -1801,21 +1817,5 @@ The elephants, revered for centuries in Sri Lankan culture and central to the co
 ...
 
 [Data](articles/2c1c19bf.json)
-
----
-
-### Cinnamon Hotels & Resorts wins PATA Gold Award for wildlife conservation initiative
-
-*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-wins-pata-gold-award-for-wildlife-conservation-initiative/) · `en`
-
-Cinnamon Hotels & Resorts, Sri Lanka’s premier hospitality brand, has been honoured with the Pacific Asia Travel Association (PATA) Gold Award 2025 in the category of Best Ecosystem & Wildlife Conservation initiative for its groundbreaking Cinnamon Rainforest Restoration Project.
-
-The PATA Gold Awards, now in their 41st year, remain the most prestigious accolades in the Asia Pacific travel and tourism industry, celebrating organisations that lead with purpose, innovate with impact, and contribute meaningfully to sustainable tourism development.
-
-“This recognition from PATA affirms that true hospitality is inseparable from environmental responsibility,” said Hishan Singhawansa, CEO of Cinnamon Hotels & Resorts. “The Cinnamon Rainforest Restoration Project aligns with our broader ambition to sustain the environment we operate in, restoring ecosystems, empowering communities, and shaping a more conscious way of travel.”
-
-...
-
-[Data](articles/50d4f195.json)
 
 ---

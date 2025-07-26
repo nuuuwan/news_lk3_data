@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 05:18:19**
+As of **2025-07-26 05:31:48**
 
 ## Newspaper Stats
 
-*Scraped **66,835** Articles*
+*Scraped **66,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
 islandlk | 4,078
-economynextcom | 4,091
+economynextcom | 4,094
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,408
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,835 articles have been extended.
+61,973 (92.7%) of 66,838 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -596,6 +596,32 @@ Apichart Sapprasert, commander of the military’s Border Defense Command in the
 
 ---
 
+### Sri Lanka President in virtual tariff talks with US Trade Rep
+
+*2025-07-25 20:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-virtual-tariff-talks-with-us-trade-rep-232823/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake had discussed reducing Trump tariffs with US Trade Representative Jamieson Greer, a statement said.
+
+“The primary focus of the meeting is to reduce tariffs and promote trade and investment relations between the two countries,” the statement from the President’s office said.
+
+Sri Lanka had reduced its initial 44 percent tariff to 30 percent and is seeking further reductions.
+
+President Trump said earlier this week that he will reduce tariff points to any country that open markets for US goods.
+
+Treasury Secretary Harshana Suriyapperuma and other officials from the Office of the US Trade Representatives had participated in the meeting.
+
+Sri Lanka’s apparels, rubber and coconut exporters have expressed fears over losing the US market to competitors.
+
+RELATED  Sri Lanka apparel exports down 5.7-pct to US in June, up 23-pct to EU
+
+The International Monetary Fund has said the US tariffs are a risk for Sri Lanka.
+
+◼️
+
+[Data](articles/a4c33b3b.json)
+
+---
+
 ### முத்தையன்கட்டில் மனித நுகர்விற்கு பொருத்தமற்ற உணவுப்பொருட்கள் கைப்பற்றல்
 
 *2025-07-25 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/220962) · `ta`
@@ -935,6 +961,40 @@ Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa
 ...
 
 [Data](articles/152b11bb.json)
+
+---
+
+### Sri Lanka CIABOC arrests con artist asking bribe to save officials from probes
+
+*2025-07-25 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-ciaboc-arrests-con-artist-asking-bribe-to-save-officials-from-probes-232821/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commission to Investigate Allegations of Bribery or Corruption (CIABOC) arrested an artist who has asked for a bribe of Rs. 30,000 each from a principal and an Air Force officer to stop a probe against them by CIABOC.
+
+The artist was arrested late on Thursday near a bus stand in Kalutara, the CIABOC said in a statement.
+
+The artist has asked a principal in Mathugama area deposit Rs. 30,000/- in a bank account in return of stopping an existing CIABOC investigation promising that he can handover the investigation file to the principal and pursue officials to send a letter stating that there will be no probes further, the CIABOC said.
+
+The con artist also has asked the concerned Air Force officer to deposit Rs. 30,000 to prevent arrest by the CIABOC on an ongoing probe.
+
+The Director General of CIABOC in May has given a strong message to all government officials and the general public on the anti-corruption move under the new government.
+
+...
+
+[Data](articles/7577531f.json)
+
+---
+
+### Sri Lanka apparel exports down 5.7-pct to US in June, up 23-pct to EU
+
+*2025-07-25 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-exports-down-5-7-pct-to-us-in-june-up-23-pct-to-eu-232819/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s apparel exports grew 5.2 percent in in June 2025, with shipments to exports down 5.7 percent, but EU up 23.1 percent, the Joint Apparel Association Forum said.
+
+From January to June, exports went up 8.95 percent with EU rising 16.7 percent, the US 4.1 percent and UK 6.4 percent.
+
+◼️
+
+[Data](articles/aacf3f22.json)
 
 ---
 
@@ -1729,65 +1789,5 @@ Disanayaka will be accompanied by Minister of Foreign Affairs, Foreign Employmen
 ◼️
 
 [Data](articles/0cdca7b5.json)
-
----
-
-### නරේන්ද්‍ර මෝදි අගමැති ධුරයෙන් වාර්තා තබයි
-
-*2025-07-25 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212626) · `si`
-
-ඉන්දියාවේ දෙවැනියට වැඩිම කාලයක් ධුරය දැරූ අගමැතිවරයා ලෙස වත්මන් අගමැති නරේන්ද්‍ර මෝදි අද (25) වාර්තා අතරට එක්වුණි.
-
-ඒ 2014 වසරේ සිට අඛණ්ඩ දින 4,078ක කාලයක් එරට අගමැති ධුරය දරමිනි.
-
-මීට පෙර ඉන්දියාවේ දෙවැනියට වැඩිම ධුර කාලයක් දැරූ අගමැතිවරයා වූයේ දින 4,077ක කාලයක් අගමැති ලෙස කටයුතු කළ ඉන්දිරා ගාන්ධි ය.
-
-1947 සිට 1964 වසර දක්වා ධුර දැරූ හිටපු අගමැති ජවහර්ලාල් නේරු, ඉතිහාසයේ වැඩිම කාලයක් ධුරය දරා ඇති ඉන්දිය රාජ්‍ය පාලකයා වෙයි.
-
-◼️
-
-[Data](articles/3256f7c0.json)
-
----
-
-### 6 new envoys to Sri Lanka present credentials
-
-*2025-07-25 13:48:00* · [`economynextcom`](https://economynext.com/6-new-envoys-to-sri-lanka-present-credentials-232733/) · `en`
-
-ECONOMYNEXT – Five new ambassadors and a high commissioner to Sri Lanka have presented their credentials to President Anura Dissanayake.
-
-Ambassador of Eritrea (resident in New Delhi) – Alem Woldemariam
-
-Ambassador of Jordan (resident in New Delhi) – Yousef Mustafa Abdelghani
-
-Ambassador of Bhutan (resident in Dhaka) – Dasho Karma Hamu Dorjee
-
-High Commissioner of Fiji (resident in New Delhi) – Jagnnath Sami
-
-This was the first time an ambassador for the Republic of Kazakhstan was appointed to Sri Lanka, after an embassy has been established in Sri Lanka.
-
-Minister of Foreign Affairs Vijitha Herath was also present at the occasion. (Colombo/July25/2025)
-
-◼️
-
-[Data](articles/c07b2086.json)
-
----
-
-### රාජිතගේ ප්‍රතිශෝධන පෙත්සම විභාගයට මහාධිකරණයෙන් තීරණයක්
-
-*2025-07-25 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212625) · `si`
-
-අල්ලස් කොමිසම විසින් තමන්ව අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් මත මුදා හරින ලෙස ඉල්ලා තමන් විසින් ඉදිරිපත් කළ පෙත්සමක් ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය දුන් තීන්දුව බල රහිතකර, තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාග කිරීමට කොළඹ මහාධිකරණය අද (25) තීරණය කළේය.
-
-ඒ අනුව මෙම පෙත්සම සම්බන්ධයෙන් අගෝස්තු මස 07 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා අදාළ පෙත්සමේ වගඋත්තරකරුවකු ලෙස නම් කර තිබූ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ අධ්‍යක්ෂ ජෙනරාල්වරයා වෙත නොතිසි නිකුත් කරන ලෙසත් අධිකරණය නියම කර ඇත.
-
-මෙම පෙත්සම අද කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංගවංශ මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාව අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගැනීමට පෙර අපේක්ෂිත ඇපයක් නියම කරන ලෙස ඉල්ලා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පෙත්සමක් ඉදිරිපත් කළත් එය මහෙස්ත්‍රාත්වරිය විසින් ප්‍රතික්ෂේප කළ බව සඳහන් කළේය.
-
-...
-
-[Data](articles/478c4e2f.json)
 
 ---

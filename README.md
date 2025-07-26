@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 21:48:14**
+As of **2025-07-26 22:06:37**
 
 ## Newspaper Stats
 
-*Scraped **66,921** Articles*
+*Scraped **66,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,416
-adaderanalk | 8,215
+adaderanalk | 8,216
 tamilmirrorlk | 9,662
-virakesarilk | 11,159
+virakesarilk | 11,163
 adaderanasinhalalk | 11,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,921 articles have been extended.
+61,973 (92.6%) of 66,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### காணாமல் ஆக்கப்பட்டவர்களுக்கு சர்வதேச அளவில் ஏற்றுக்கொள்ளத்தக்க நீதி வேண்டும் - சிவஞானம் ஸ்ரீதரன்
+
+*2025-07-26 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221023) · `ta`
+
+வடக்கு கிழக்கு தமிழர் நாயகப் பகுதிகளில் தமிழ் மக்களுக்கு எதிராக நடந்த இனப்படுகொலை மற்றும் அடிப்படையில்லாத அநீதிகளுக்கு சர்வதேச நீதி பொறிமுறைகள் மூலம் நீதியான தீர்வை சர்வதேச சமூகம் வழங்க வேண்டும் என பாராளுமன்ற உறுப்பினர் சிவஞானம் ஸ்ரீதரன் தெரிவித்துள்ளார்.
+
+காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் மற்றும் பொதுச் சமூக அமைப்புகளின் பிரதிநிதிகள் சனிக்கிழமை (26)  கிளிநொச்சி கந்தசுவாமி ஆலய முன்றில் முன்னெடுத்த கவனயீர்ப்பு போராட்டத்தில் கலந்துகொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவர் இதனை தெரிவித்தார்.
+
+செம்மணியில் மேற்கொள்ளப்பட்ட அகழ்வுப் பணிகளில் 84க்கும் மேற்பட்ட மனித எலும்புக் கூடுகள் கண்டறியப்பட்டுள்ளன. சம்பூர், மன்னர், திருக்கேதீஸ்வரம், கொக்கு தொடுவாய் போன்ற பல இடங்களில் மனித புதைகுழிகள் சோற்றப்படுவதைத் தொடர்ந்து பல தமிழர்களுடைய உடல்கள் புதைக்கப்பட்டிருப்பதாக ஆய்வுகள் தெரிவிக்கின்றன.
+
+கொக்கு தொடுவாயில் அண்மையில் கண்டுபிடிக்கப்பட்ட 51 மனித எலும்புக் கூடுகள் துப்பாக்கி சூட்டால் பாதிக்கப்பட்டவையாகவும் அடைத்து மறைக்கப்பட்டவையாகவும் மருத்துவ ஆய்வுகள் உறுதிப்படுத்தியுள்ளன.
+
+...
+
+[Data](articles/b011abe4.json)
+
+---
+
+### மட்டக்களப்பில் தமிழர்களுக்கு எதிரான இனஅழிப்புக்கு சர்வதேச நீதி வேண்டி காந்தி பூங்காவில் ஆர்ப்பாட்டம்!
+
+*2025-07-26 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221026) · `ta`
+
+மட்டக்களப்பில் தமிழர்களுக்கு எதிராக மேற்கொள்ளப்பட்ட இன அழிப்புக்கு சர்வதேச நீதி பொறிமுறையூடாக தீர்வு தேவை எனக் கோரி  சனிக்கிழமை (26) காந்தி பூங்காவில் மக்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+வடக்கு கிழக்கு சமூக இயக்கத்தின் ஏற்பாட்டில், "தமிழர்களுக்கு எதிராக இழைக்கப்பட்ட இன அழிப்பிற்கு சர்வதேச நீதி" என்ற தொனிப்பொருளில் வடக்கு மற்றும் கிழக்கு மாகாணங்களைச் சேர்ந்த எட்டு மாவட்டங்களில் ஒரே நேரத்தில் மக்கள் கவனயீர்ப்பு போராட்டங்களில் ஈடுபட அழைப்பு விடுக்கப்பட்டிருந்தது.
+
+இதனையடுத்து மட்டக்களப்பு காந்தி பூங்காவில் நடைபெற்ற ஆர்ப்பாட்டத்தில் நாடாளுமன்ற உறுப்பினர்கள் ஞா. சிறிநேசன், வைத்தியர் இளையதம்பி சிறிநாத், மட்டக்களப்பு மாநகர சபையின் முதல்வர் சிவம் பாக்கியநாதன் உள்ளிட்ட பல அரசியல் பிரமுகர்கள், காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள், சமூக செயற்பாட்டாளர்கள், பொதுமக்கள் எனப் பெருந்திரளானோர் பங்கேற்றனர்.
+
+ஆர்ப்பாட்டத்தின்போது, செம்மணியில் கண்டுபிடிக்கப்பட்ட மனித புதைகுழிகள், இனப்படுகொலைக்கு சாட்சியாகக் கூறப்பட்டதோடு, சர்வதேச விசாரணை நடத்த வேண்டும் என வலியுறுத்தும் கோஷங்கள் எழுப்பப்பட்டன.
+
+◼️
+
+[Data](articles/e077d23c.json)
+
+---
+
+### கிருஷாந்திகுமாரசுவாமி கொலையின் குற்றவாளி  சோமரட்ண ராஜபக்ச  அளித்த சாட்சியம் ஊடாக நாங்கள் செம்மணியை அணுகவேண்டும்- உள்நாட்டு பொறிமுறை சரியான விதத்தில் வேலைசெய்யவில்லை -ரஜீவ்காந்
+
+*2025-07-26 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221027) · `ta`
+
+கிருஷாந்திகுமாரசுவாமி கொலையின் குற்றவாளியாக அடையாளம் காணப்பட்ட சோமரட்ண ராஜபக்ச என்கின்ற வீரர் நேரடியாக அளித்த சாட்சியம் ஊடாக நாங்கள் இந்த செம்மணியை அணுகவேண்டும்  என மக்கள் போராட்ட முன்னணியின் ராஜ்குமார் ரஜீவ்காந் தெரிவித்துள்ளார்.
+
+கிருஷாந்திகுமாரசுவாமி கொலையின் குற்றவாளியாக அடையாளம் காணப்பட்ட சோமரட்ண ராஜபக்ச என்கின்ற வீரர் நேரடியாக அளித்த சாட்சியம் ஊடாக நாங்கள் இந்த செம்மணியை அணுகவேண்டும் என்ற பார்வை எனக்கு இருக்கின்றது.
+
+300 முதல் 600 வரையிலான பேரை கொலை செய்து  எங்களிடம் மேலதிகாரிகள் தருவார்கள் - தந்தார்கள்,இங்கு கொண்டுவந்து அவர்களை புதை;திருக்கின்றோம் என அவர் சாட்சியம் வழங்கியிருந்தார்.
+
+அதன் பின்னர் சர்வதேச அமைப்புகள் சர்வதே மன்னிப்புச்சபை போன்றன மேற்கொண்ட முயற்சிகள் மூலம் 99ம் ஆண்டு வரையிலே அகழ்வு பணியை மேற்கொண்டு சுமார் 19 எலும்புக்கூடுகளை அப்போதே கண்டுபிடித்திருந்தார்கள்.
+
+...
+
+[Data](articles/a8a2d955.json)
+
+---
+
+### Sri Lankan woman loses Kuwaiti citizenship over major identity scam and fake pregnancy
+
+*2025-07-26 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110859/sri-lankan-woman-loses-kuwaiti-citizenship-over-major-identity-scam-and-fake-pregnancy) · `en`
+
+A Sri Lankan woman has made headlines in Kuwait after authorities uncovered a 33-year-long fraud in which she deceived a Kuwaiti man, faked a pregnancy, and illegally obtained Kuwaiti citizenship.
+
+The extraordinary case has exposed major vulnerabilities in Kuwait’s identity and nationality systems. It has also led to the revocation of citizenship from the woman’s purported daughter, after DNA testing confirmed that the child was not biologically related to either the woman or the Kuwaiti man listed as her father.
+
+The woman, identified as Costa, first entered Kuwait in 1992 on a domestic worker visa. Just two years later, she was deported following an absconding case filed against her.
+
+However, in 1996, she re-entered the country under a new name and passport. With no biometric screening systems in place at the time, she was able to pass through immigration unnoticed.
+
+...
+
+[Data](articles/d75e8dcf.json)
+
+---
 
 ### කඩොලාන වනාන්තර 08ක් රක්ෂිත ලෙස ප්‍රකාශයට පත් කරයි
 
@@ -237,6 +309,22 @@ He said the attackers wore explosive vests and carried grenades. It was not clea
 ◼️
 
 [Data](articles/103db28c.json)
+
+---
+
+### மட்டக்களப்பில் சுகாதார சேவைகள் மேம்பாட்டுக்கான புதிய திட்டங்கள் – சுகாதார அமைச்சரின் நடவடிக்கை
+
+*2025-07-26 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221010) · `ta`
+
+கிழக்கு மாகாணத்தின் மட்டக்களப்பு மாவட்டத்தில் உள்ள மருத்துவமனைகள் மற்றும் சுகாதார நிறுவனங்களால் மக்களுக்கு வழங்கப்படும் சுகாதார சேவைகளின் தற்போதைய நிலை குறித்து சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் டாக்டர் நளிந்த ஜயதிஸ்ஸ சமீபத்தில் விரிவான ஆய்வை மேற்கொண்டார்.
+
+மாவட்ட மருத்துவமனைகளில் உள்ள குறைபாடுகளை ஆராய்ந்து, இந்த நாட்டு மக்களுக்கு சிறந்த மற்றும் மேம்பட்ட சுகாதார சேவைகளை வழங்குவதற்காக சுகாதார அமைச்சினால் ஆரம்பிக்கபட்ட சிறப்புத் திட்டத்துடன் இணைந்து இந்த ஆய்வு நடத்தப்பட்டது.
+
+அரசாங்க மருத்துவமனை கட்டமைப்பை வினைத்திறனுடன் பராமரிப்பதே  முதன்மை நோக்கமாகும் என தெரிவித்த அமைச்சர், ஆய்வு விஜயத்தைத் தொடர்ந்து மட்டக்களப்பு பிராந்திய சுகாதார சேவைகள் திணைக்கள தலைவர்களுடனும் கலந்துரையாடலில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/727ff9b9.json)
 
 ---
 
@@ -1739,83 +1827,5 @@ Short-lived climate pollutants (SCPs), also known as super pollutants, have cont
 ...
 
 [Data](articles/cd60d0e6.json)
-
----
-
-### Multi-dimensional approach to lift status of rural sector: Praja Shakthi program in context
-
-*2025-07-25 23:04:10* · [`dailyftlk`](https://www.ft.lk/columns/Multi-dimensional-approach-to-lift-status-of-rural-sector-Praja-Shakthi-program-in-context/4-779486) · `en`
-
-The rural sector is or should be regarded as the effective driver of the Sri Lankan economy although from a strategic perspective, it has not been considered from this prism
-
-What happens in the rural sector and the impact on the entire country must be viewed from the context of the underdeveloped and unrealised potential of the rural sector, and its national impact. The Praja Shakthi program must be considered in this context. The program intends to ensure fair distribution of economic development outcomes and to promote targeted, inclusive development across rural areas and to reorient existing community empowerment initiatives already in operation toward a more integrated and policy-driven approach. Through this initiative, a new structural framework is to be introduced to support the identification of development needs at all levels, policy formulation, implementation and monitoring
-
-...
-
-[Data](articles/60c74d80.json)
-
----
-
-### Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal
-
-*2025-07-25 22:59:07* · [`dailyftlk`](https://www.ft.lk/columns/Bait-of-ruble-and-shadow-of-war-Sri-Lanka-s-mercenary-scandal/4-779485) · `en`
-
-The promise of a substantial income, far exceeding what they could ever hope to earn at home, overshadowed the inherent dangers of becoming a foreign fighter
-
-The elaborate deception unravelled the moment they landed on the promised land. Instead of the sworn logistical or support jobs, many found themselves immediately conscripted into the Russian military, handed dilapidated weapons, and hurled onto the brutal frontlines of the Ukraine war. There was no cadre training, no proper personal protective equipment, and certainly no safe, rear-echelon duties. The passports, initially taken for “processing,” were often confiscated by the mercenary recruiting companies in Russia, effectively trapping them in a foreign land with no means of escape. Compounding this betrayal was the bitter language barrier
-
-...
-
-[Data](articles/4bdb0b82.json)
-
----
-
-### Tragedy & Coexistence: The Human–Elephant Conflict
-
-*2025-07-25 22:54:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tragedy-coexistence-the-human-elephant-conflict/) · `en`
-
-The elephants, revered for centuries in Sri Lankan culture and central to the country’s wildlife tourism industry, are continually facing an existential crisis. The numbers speak volumes. Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024). Behind these statistics lies a deeper, more painful story of fragmented habitats, misunderstood behavior, and policy paralysis.
-
-...
-
-[Data](articles/2aaf4329.json)
-
----
-
-### செம்மணி புதைகுழியின் தற்போதைய நிலை
-
-*2025-07-25 22:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/செம்மணி-புதைகுழியின்-தற்போதைய-நிலை/71-361761) · `ta`
-
-யாழ்ப்பாணம் - செம்மணி பகுதியில் உள்ள இரண்டு மனித புதைகுழிகளில் இன்று  மேற்கொள்ளப்பட்ட அகழ்வு பணிகளின் போது, மேலும் 2 எலும்புக்கூடு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-கடந்த 05 நாட்களாக முன்னெடுக்கப்பட்ட அகழ்வு பணிகளில், மொத்தம் 25 எலும்புக்கூடு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-இதன் போது, இன்றைய தினம் அகழ்ந்து எடுக்கப்பட்ட 05 எலும்புக்கூடு தொகுதிகளுடன் சேர்த்து, மொத்தம் 81 எலும்புக்கூடு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-அதேவேளை, கடந்த சில தினங்களில் அடையாளம் காணப்பட்ட சில எலும்புக்கூடு தொகுதிகள் முறையாக நல்லடக்கம் செய்யப்பட்டவை என்பது உறுதிப்படுத்தப்பட்டுள்ளது.
-
-இவை உடற்கூற்று பரிசோதனைக்கு உட்படுத்தப்பட்டமை, எலும்புக்கூடு தொகுதிகள் அடையாளம் காணப்பட்ட முறைமை, மற்றும் பிரேத பெட்டியில் வைக்கப்பட்டிருந்தமை ஆகியவை இதற்கு சான்றாக அமைந்துள்ளன.
-
-இதனால், இவை முறையாக நல்லடக்கம் செய்யப்பட்டவை என உறுதிப்படுத்தப்பட்டதையடுத்து, அவை மீண்டும் மண்ணால் மூடப்பட்டன.
-
-...
-
-[Data](articles/6da1a711.json)
-
----
-
-### பாராளுமன்றத்தின் சிறந்த ஆளுமை : அரசியல்வாதிகளுக்கு உதாரணம் காலஞ்சென்ற இரா. சம்பந்தன் - அரசியல் கட்சி தலைவர்கள்
-
-*2025-07-25 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220966) · `ta`
-
-பாராளுமன்றத்தில் காணக்கிடைத்த மிகச் சிறந்த ஆளுமையாகவும் அரசியல்வாதிகளுக்கு உதாரண புருஷராகவும் முன்னாள் பாராளுமன்ற உறுப்பினர் காலஞ்சென்ற இரா.சம்பந்தன் திகழ்ந்தார் என அரசியல் கட்சி தலைவர்களும் பாராளுமன்ற உறுப்பினர்களும் தெரிவித்தனர்.
-
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (25) இடம்பெற்ற காலஞ்சென்ற முன்னாள் பாராளுமன்ற உறுப்பினர்களான ராஜவரோதயம் சம்பந்தன், ஏ. பிலபிற்றிய,டபிள்யூ, ஏ.ஏக்கநாயக்க,லக்கி ஜயவர்த்தன மற்றும் மாலனீ பொன்சேக்கா ஆகியோர் மீதான அனுதாபப் பிரேரணையில்  உரையாற்றும் போதே அவர்கள் இவ்வாறு தெரிவித்தனர்.
-
-இரா. சம்பந்தன் இந்த பாராளுமன்றத்தில் நாங்கள் காணுகின்ற மிக அபூர்வமான ஆளுமையாகும். சம்பந்தனின் அரசியல் என்பது வெவ்வேறு யுகங்களாக ஆராயப்பட வேண்டியது. சரிதம் எழுதப்படும் போது ஒவ்வொரு யுகங்களில் அவரின் பங்களிப்பு இருந்துள்ளது.  தமிழ் சமூகத்தின் விடுதலைக்காக எப்படி செயல்பட்டது என்பது பற்றி நிறைய பேசலாம். தமிழ் தேசிய விடுதலைப் போராட்டத்தில் ஒரு வகிபாகத்தை அவர் வகித்தார். அதற்கு இந்த சபையில் பலரும் சான்று பகிர்வார்கள். அவருடைய ஆத்மா சாந்தியடையட்டும் என்று பிரார்த்திக்கின்றேன். என்றார்.
-
-...
-
-[Data](articles/2c1c19bf.json)
 
 ---

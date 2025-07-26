@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 16:47:25**
+As of **2025-07-26 17:05:03**
 
 ## Newspaper Stats
 
-*Scraped **66,904** Articles*
+*Scraped **66,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,41 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
-islandlk | 4,090
+islandlk | 4,091
 economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,413
 adaderanalk | 8,211
-tamilmirrorlk | 9,661
-virakesarilk | 11,156
+tamilmirrorlk | 9,662
+virakesarilk | 11,157
 adaderanasinhalalk | 11,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,904 articles have been extended.
+61,973 (92.6%) of 66,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### இலங்கை கணினி அவசர தயார்நிலை குழு விடுத்துள்ள எச்சரிக்கை
+
+*2025-07-26 16:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கணினி-அவசர-தயார்நிலை-குழு-விடுத்துள்ள-எச்சரிக்கை/175-361773) · `ta`
+
+இலங்கை முழுவதும் இணையவழிக் குற்றங்கள் அதிகரித்துள்ளதாக இலங்கை கணினி அவசர தயார்நிலை குழு (CERT) தெரிவித்துள்ளது.
+
+5400க்கும் மேற்பட்ட இணையக் குற்றங்கள் தொடர்பில் முறைப்பாடுகள் பதிவாகியுள்ளதாகவும், எக்காரணம் கொண்டும் கடவுச்சொற்களைப் பகிர வேண்டாம் எனவும் இலங்கை கணினி அவசர தயார்நிலை குழு தெரிவித்துள்ளது.
+
+தெரியாத இணைப்புகளை அழுத்தி உட்செல்ல வேண்டாம் எனவும் இலங்கை கணினி அவசர தயார்நிலை குழு (CERT) குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c5c35f08.json)
+
+---
 
 ### නීතිවිරෝධීව ධීවර කටයුතු කළ 65ක් නාවික හමුදා භාරයට
 
@@ -89,6 +105,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/861d5b37.json)
+
+---
+
+### பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் குழு  ஜனாதிபதி அலுவலகத்திற்கு வருகை
+
+*2025-07-26 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221005) · `ta`
+
+ஜனாதிபதி அலுவலகத்தைப் பார்வையிட பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் குழுவொன்று வெள்ளிக்கிழமை (25) பிற்பகல் வருகை தந்தது.
+
+பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள், ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவுடன் சிறு கலந்துரையாடலில் ஈடுபட்டனர்.
+
+இதன்போது, ஜனாதிபதி அலுவலக நூலகம், பழைய பாராளுமன்றம் மற்றும் அமைச்சரவை கூட்ட மண்டபம் உள்ளிட்ட பழைய இடங்களைப் பார்வையிடும் வாய்ப்பு பிரித்தானிய பாராளுமன்ற உறுப்பினர்களுக்கு கிடைத்தது.
+
+மேலும், ஜனாதிபதியின் சிரேஸ்ட மேலதிகச் செயலாளர் ரோஷன் கமகே, இலங்கைக்கான பிரித்தானிய உயர் ஸ்தானிகர் ஆண்ட்ரூ பெட்ரிக் (Andrew Patrick)உள்ளிட்டோர் இந்த நிகழ்வில் பங்கேற்றனர்.
+
+◼️
+
+[Data](articles/98cb5ba6.json)
 
 ---
 
@@ -170,9 +204,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-26 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212660) · `si`
 
-කාම්බෝජ - තායිලන්ත දේශසීමාවේ හටගෙන ඇති ගැටුම්කාරී තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකා රජය සිය කනස්සල්ල පලකරන බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+පවතින ගැටලුකාරී තත්ත්වය සාමකාමීව විසදාගැනීම සඳහා කඩිනම් රාජ්‍යතාන්ත්‍රක සංවාදයක් සඳහා යොමුවන ලෙස ශ්‍රී ලංකා රජය තායිලන්තයෙන් සහ කාම්බෝජයෙන් ඉල්ලීමක් සිදුකරයි.
 
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ, අවිහිංසාවාදය,කරුණාව සහ සාමකාමී සහජීවනය කේන්ද්‍රකරගත් බුදුරජාණන් වහන්සේගේ ආකාලික ඉගැන්වීම් මගින් මඟ පෙන්වනු ලබන ජාතියක් ලෙස ශ්‍රී ලංකාව ගැටලු සාමකාමීව විසඳා ගැනීම සඳහා කඩිනමින් රාජ්‍යතාන්ත්‍රික සංවාදයක නිරතවන ලෙස දෙරටෙන්ම ඉල්ලා සිටින බවය.
+නිවේදනයක්  නිකුත් කරමින් විදේශ කටයුතු අමාත්‍යංශය පවසන්නේ දෙරට අතර දේශසීමාවේ මෑත කාලීනව උද්ගතවූ සිදුවීම් පිළිබඳව ශ්‍රී ලංකා රජය කනස්සල්ල පළ කරන බවයි.
+
+එම සිදුවීම් හේතුවෙන් ජීවිත හානි, අවතැන්වීම් සහ සංස්කෘතික වශයෙන් වැදගත් ස්ථානවලට හානි සිදුවී ඇති බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+
+අවිහිංසාවාදය, කරුණාව හා සාමකාමී සහජීවනය කේන්ද්‍ර කර ගත් බුදුරජානන් වහන්සේගේ අකාලික ඉගැන්වීම් මගින් මඟපෙන්වනු ලැබූ ජාතියක් ලෙස ශ්‍රී ලංකාව, ගැටලු සාමකාමීව විසදාගැනීම සඳහා රාජ්‍යතාන්ත්‍රක සංවාදයක නිරතවන ලෙස දෙරටින්ම ඉල්ලීමක් සිදුකරන බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
 
 ◼️
 
@@ -341,6 +379,24 @@ Sri Lanka expressed concern over the incidents, which have resulted in the loss 
 ...
 
 [Data](articles/80c2dbe5.json)
+
+---
+
+### President Inaugurates Hotel Show Colombo – 2025
+
+*2025-07-26 12:26:00* · [`islandlk`](http://island.lk/president-inaugurates-hotel-show-colombo-2025/) · `en`
+
+The ‘Hotel Show Colombo – 2025’ was officially inaugurated on Friday (25) morning  by President Anura Kumara Dissanayake at the Sirimavo Bandaranaike Memorial Exhibition Centre (BMICH), Colombo.
+
+This exhibition, which is jointly organized annually by the Sri Lanka Hospitality Graduates Association (SLHGA) in collaboration with the public and private sectors, is being held for the 17th time this year.
+
+The Colombo Hotel Show, which began in 1998, is the largest hospitality trade exhibition in Sri Lanka and serves as a valuable opportunity to promote the country’s tourism industry on an international level.
+
+President Anura Kumara Dissanayake, who inaugurated the Hotel Show Colombo – 2025 exhibition, also visited the exhibition stalls and engaged in friendly conversation with the attendees.
+
+...
+
+[Data](articles/0cd0f627.json)
 
 ---
 
@@ -1715,59 +1771,5 @@ The final match was attended by Clive Fonseka, CEO/General Manager of People’s
 ...
 
 [Data](articles/96ea1b55.json)
-
----
-
-### Government to take initiative to establish a National Industrial Planning Think Tank centered on revitalizing the Rural Economy – Prime Minister
-
-*2025-07-25 20:58:00* · [`islandlk`](http://island.lk/government-to-take-initiative-to-establish-a-national-industrial-planning-think-tank-centered-on-revitalizing-the-rural-economy-prime-minister/) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that the government will initiate steps to establish a National Industrial Planning Think Tank centered on revitalizing the rural economy and the necessary technical, scientific, and advisory support would be provided through that initiative to strengthen businesses across Sri Lanka.
-
-The Prime Minister made these remarks while participating in the 40th Anniversary celebration of the Regional Development Bank (RDB) held on July 25 at the Bandaranayaka Memorial International Conference Hall.
-
-At the event, the official launch of “RDB Quick App” online banking facility and the opening of the exhibition on business product stalls held for three consecutive days were initiated by the Prime Minister to the public in line with the anniversary celebration.
-
-A commemorative stamp issued by the Department of Posts to mark the anniversary was also presented to the Prime Minister during the occasion.
-
-...
-
-[Data](articles/a53fd511.json)
-
----
-
-### තායිලන්තය දිස්ත්‍රික්ක 8 ක යුද නීතිය ප්‍රකාශයට පත් කරයි
-
-*2025-07-25 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212646) · `si`
-
-කාම්බෝජයට මායිම්ව ඇති ප්‍රදේශවලට යුද නීතිය ප්‍රකාශයට පත් කිරීමට තායිලන්තය පියවර ගෙන ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-එරට දේශසීමා ආරක්ෂක අණදෙන නිලධාරීවරයා පවසා ඇත්තේ කාම්බෝජයට මායිම්ව ඇති තායිලන්තයේ දිස්ත්‍රික්ක 8කට මෙලෙස යුද නීතිය ප්‍රකාශයට පත් කර ඇති බවය.
-
-මේ අතර තායිලන්තයේ වැඩබලන අගමැති ෆුම්තම් චෙචයාචායි අනතුරු අඟවා ඇත්තේ කාම්බෝජය සමග දේශසීමා ගැටුම් හේතුවෙන් මේ වන විට බොහෝ පිරිසක් මියගොස් ඇති බවත් එය යුද්ධයක් දක්වා වර්ධනය විය හැකි බවත්ය.
-
-දීර්ඝ කාලයක් පුරාවට පැවැති දේශසීමා ආරවුලක් හේතුවෙන් ඊයේ දිනයේ ජෙට් යානා, කාලතුවක්කු, ටැංකි සහ ගොඩබිම් භටයින් සමග දැඩි සටනක් දක්වා වර්ධනය වී ඇති අතර එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයද මෙම ගැටුම් සම්බන්ධව හදිසි සාකච්ඡාවක් පැවැත්වීමටද නියමිතව තිබුණි.
-
-එම වාතාවරණය මධ්‍යයේ අද (25) සවස සිට තායිලන්ත හමුදා දේශසීමා අණදෙන නිලධාරිවරයෙකු විසින් කාම්බෝජය සමග මායිමේ පිහිටි දිස්ත්‍රික්ක 08ක් සඳහා මෙලෙස යුද නීතිය ප්‍රකාශයට පත් කර තිබේ.
-
-මේ අතර තායිලන්තය සිය දේශසීමා ප්‍රදේශවලින් 138,000කට අධික පිරිසක් ඉවත් කරගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-...
-
-[Data](articles/5c2f10cc.json)
-
----
-
-### Thailand declares martial law in eight districts bordering Cambodia
-
-*2025-07-25 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/110843/thailand-declares-martial-law-in-eight-districts-bordering-cambodia) · `en`
-
-Thailand declared martial law in eight of its districts bordering Cambodia on Friday, as the countries traded strikes in a second deadly day of clashes.
-
-Apichart Sapprasert, commander of the military’s Border Defense Command in the provinces of Chanthaburi and Trat, said in a statement “martial law is now in effect” in seven districts of Chanthaburi and one district of Trat.
-
-◼️
-
-[Data](articles/34e06263.json)
 
 ---

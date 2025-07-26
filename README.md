@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 14:06:44**
+As of **2025-07-26 14:21:51**
 
 ## Newspaper Stats
 
-*Scraped **66,888** Articles*
+*Scraped **66,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,413
-adaderanalk | 8,209
+adaderanalk | 8,210
 tamilmirrorlk | 9,660
 virakesarilk | 11,148
 adaderanasinhalalk | 11,488
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,888 articles have been extended.
+61,973 (92.7%) of 66,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### Sri Lanka calls for peaceful dialogue on Cambodia–Thailand border clashes
+
+*2025-07-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110852/sri-lanka-calls-for-peaceful-dialogue-on-cambodiathailand-border-clashes) · `en`
+
+The Government of Sri Lanka has called for a peaceful resolution to the recent clashes along the Cambodia–Thailand border, according to a statement issued by the Ministry of Foreign Affairs, Foreign Employment, and Tourism in Colombo.
+
+Sri Lanka expressed concern over the incidents, which have resulted in the loss of life, the displacement of civilians, and damage to culturally significant sites.
+
+“As a nation guided by the timeless teachings of the Lord Buddha—centered on nonviolence compassion and peaceful coexistence—Sri Lanka urges both countries to engage in early diplomatic dialogue aimed at resolving differences peacefully,” the statement added.
+
+◼️
+
+[Data](articles/7e692a87.json)
+
+---
 
 ### නාමිකව පමණක් ජාතික පාසල් වූ පාසල් 809ක් - කෝපා කමිටුවේදී සියල්ල හෙළිවෙයි
 
@@ -1759,15 +1775,5 @@ Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa
 ...
 
 [Data](articles/c659a4c4.json)
-
----
-
-### இலங்கைக்கு விசா இல்லாத நுழையக்கூடிய நாடுகளின் முழு பட்டியல்
-
-*2025-07-25 18:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விசா-இல்லாத-நுழையக்கூடிய-நாடுகளின்-முழு-பட்டியல்/175-361758) · `ta`
-
-◼️
-
-[Data](articles/c601a73c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 12:25:21**
+As of **2025-07-26 12:37:58**
 
 ## Newspaper Stats
 
-*Scraped **66,877** Articles*
+*Scraped **66,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,412
-adaderanalk | 8,208
+adaderanalk | 8,209
 tamilmirrorlk | 9,659
-virakesarilk | 11,145
+virakesarilk | 11,147
 adaderanasinhalalk | 11,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,877 articles have been extended.
+61,973 (92.7%) of 66,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### ரஜினி  தவறவிட்ட  அரசியலை  கெட்டியாக பிடித்துக்கொண்ட  கமல்…!
+
+*2025-07-26 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220989) · `ta`
+
+ரஜினி கர்நாடகாவை பிறப்பிடமாகக்கொண்டாலும் அவர் தமிழகத்தின் சூப்பர் ஸ்டாராக நிரந்தரமாக கொண்டாடப்பட்டு வருகின்றார். எனினும் அவர் அரசியலில் பிரவேசிக்காதது அவரது இரசிகர்களை மிகவும் ஏமாற்றத்துக்குள்ளாக்கியது. இப்போது 74 வயதாகும் ரஜினிகாந்த் இதற்குப் பின்னரும் அரசியலில் பிரவேசம் செய்வாரா என்பது தெரியாது. ஆனால் அவரது இரசிகர்கள் இன்னும் அவரது அரசியல் பிரவேசத்தை எதிர்ப்பார்த்துள்ளனர். அந்த இடத்தை கெட்டியாகப் பிடித்துக்கொண்டுள்ளார் கமலஹாசன். கடந்த ஜூன் மாதம் நடந்த மாநிலங்களவை தேர்தலில் தி.மு.க தலைமையிலான கூட்டணிக் கட்சிகளின் ஆதரவுடன், மக்கள் நீதி மய்யத்தின் சார்பாக மாநிலங்களவை உறுப்பினராகத் அவர் தெரிவு  செய்யப்பட்டார். இப்போது ராஜ்யசபா எம்.பியாக பதவி ஏற்றுள்ளார்.
+
+◼️
+
+[Data](articles/3a027031.json)
+
+---
 
 ### Sri Lanka’s apparel sector to boost ESG reporting with ITSB programme
 
@@ -45,6 +57,26 @@ The ITSB programme was launched by the Global Reporting Initiative (GRI) South A
 ...
 
 [Data](articles/c352bc53.json)
+
+---
+
+### Almost a third of people in Gaza not eating for days, UN food programme warns
+
+*2025-07-26 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110851/almost-a-third-of-people-in-gaza-not-eating-for-days-un-food-programme-warns) · `en`
+
+Almost one in three people in the Gaza Strip are going for days without eating, the UN’s food aid programme has warned.
+
+“Malnutrition is surging with 90,000 women and children in urgent need of treatment,” the World Food Programme (WFP) said in a statement.
+
+Warnings of starvation in Gaza have intensified this week. Nine more people died of malnutrition on Friday, according to the Palestinian territory’s Hamas-run health ministry - bringing the total such deaths since the war began to 122.
+
+Israel, which controls the entry of all supplies into Gaza, says there is no restriction on aid getting into the territory and blames Hamas for any malnutrition.
+
+On Friday, UK Prime Minister Sir Keir Starmer suggested the UK would play a role in dropping aid into Gaza by air after more than a third of MPs signed a letter calling on the government to recognise a Palestinian state.
+
+...
+
+[Data](articles/02661fad.json)
 
 ---
 
@@ -129,6 +161,20 @@ The ITSB programme was launched by the Global Reporting Initiative (GRI) South A
 ◼️
 
 [Data](articles/01e81b18.json)
+
+---
+
+### யாழில் போதையில் தவறான முடிவெடுத்து குடும்பஸ்தர் உயிர்மாய்ப்பு
+
+*2025-07-26 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220983) · `ta`
+
+யாழ்ப்பாணம் - கொட்டடி பகுதியைச் சேர்ந்த 48 வயதுடைய குடும்பஸ்தர் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் வியாழக்கிழமை (24) இரவு அளவுக்கு அதிகமாக மதுபானத்தை அருந்தி விட்டு, வீட்டுக்கு வந்து உணவு உண்ட பின்னர் உறங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/9e5de03c.json)
 
 ---
 
@@ -1723,63 +1769,5 @@ From January to June, exports went up 8.95 percent with EU rising 16.7 percent, 
 ...
 
 [Data](articles/817e9f6c.json)
-
----
-
-### Maldivian team visit Sri Lankan Parliament
-
-*2025-07-25 17:15:00* · [`economynextcom`](https://economynext.com/maldivian-team-visit-sri-lankan-parliament-232793/) · `en`
-
-ECONOMYNEXT – A delegation of eight officials from the Maldives President’s Office of the Republic of visited Sri Lanka’s Parliament as part of a study tour aimed at enhancing institutional knowledge and operational practices.
-
-“The objective of the visit was to observe and learn from the best practices followed by the Sri Lankan Parliament in these areas,” Parliament said in a statement.
-
-“The key focus areas of the study tour included archives and records maintenance, preservation of documents.”
-
-The team had discussions with Siyath Ahemed, the Chief Librarian of Parliament, who briefed them on the methods and systems in place for managing and preserving parliamentary records and inventory.
-
-They were also given a guided tour of the Parliament and Record Room. (Colombo/Jul25/2025)
-
-◼️
-
-[Data](articles/adbae541.json)
-
----
-
-### Sri Lanka rupee weakens against dollar, bonds steady
-
-*2025-07-25 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-232809/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 301.90/302.00 to the US dollar in the spot market Friday, from 301.80/85 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.50/62 percent, up from 8.48/58 percent.
-
-A bond maturing on 15.12.2029 closed at 9.53/55 percent, up from 9.48/55 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.40/50 percent.
-
-A bond maturing on 01.06.2033 closed at 10.68/80 percent. (Colombo/July25/2025)
-
-◼️
-
-[Data](articles/fa3b9294.json)
-
----
-
-### “மாகாண சபைகளை பலவீனப்படுத்த முயற்சி”
-
-*2025-07-25 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைகளை-பலவீனப்படுத்த-முயற்சி/175-361755) · `ta`
-
-மாகாண சபைகளை சகல அமைச்சுகளும் பலவீனப்படுத்தும் நடவடிக்கைகளில் ஈடுபடுகின்றன என்று இலங்கை தமிழரசுக் கட்சி பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது போக்குவரத்து அமைச்சிடம் கேள்வி எழுப்பி உரையாற்றும் போதே சாணக்கியன் எம்.பி இவ்வாறு கூறினார்.
-
-மட்டக்களப்பு மாவட்டத்தில் அபிவிருத்திக்குழு கூட்டத்தில் கலந்து கொண்டிருந்த அமைச்சரிடம் பல வீதிகள் தொடர்பான முறைப்பாடுகளை முன்வைத்திருந்தோம். இதில் உள்ள பிரச்சினை என்னவென்றால் எமது மாவட்டத்தில் அதிகமான வீதிகள் வீதி அபிவிருத்தி அதிகார சபைக்கு உட்பட்டவை, அதேபோன்று பிரதேச சபைக்கு சொந்தமான வீதிகளும் உள்ளன. ஆனால் இவற்றுக்கான நிதிகளை மத்திய அரசாங்கமே வைத்திருக்கின்றன. மாகாண சபைகளுக்கு கீழுள்ள வீதிகளை அபிவிருத்தி செய்வதற்கு நாங்கள் மத்திய அரசாங்கத்திடம் கேட்க முடியாது. இந்நிலையில் உங்கள் அமைச்சின் கீழ் மாகாண அமைச்சுக்கு ஏதேனும் நிதி ஒதுக்கீடு செய்ய ஒழுங்குகள் உள்ளனவா? என்றார்.
-
-...
-
-[Data](articles/deddd38e.json)
 
 ---

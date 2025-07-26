@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 00:07:09**
+As of **2025-07-27 00:24:16**
 
 ## Newspaper Stats
 
-*Scraped **66,935** Articles*
+*Scraped **66,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
 islandlk | 4,091
-economynextcom | 4,097
+economynextcom | 4,099
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,416
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,935 articles have been extended.
+61,973 (92.6%) of 66,937 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -636,6 +636,26 @@ In addition to the dinghies, 05 unauthorized fishing nets were also seized durin
 
 ---
 
+### Sri Lanka sees foreign selling in rupee bonds after two-week buying
+
+*2025-07-26 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-selling-in-rupee-bonds-after-two-week-buying-232911/) · `en`
+
+ECONOMYNEXT – Foreign investors sold Sri Lanka government securities for the first time in three weeks as they shifted for safe havens amid optimism the U.S. could soon reach a trade deal with the European Union.
+
+Foreign investors sold 405 million rupee ($1.35 million) worth of government securities in the week ended on July 24, after enjoying a total inflow of 14.22 million dollars in the previous two weeks.
+
+Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+The island nation has, however, enjoyed a total inflow of 28.6 billion rupees (around $95.3 million) into rupee bonds since December 26 last year through July 24, the data showed.
+
+...
+
+[Data](articles/340d48a5.json)
+
+---
+
 ### ජනාධිපති අරමුදලෙන් නැගෙනහිර පළාත් විෂය නිලධාරීන් දැනුවත් කෙරේ
 
 *2025-07-26 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212662) · `si`
@@ -837,6 +857,26 @@ Sri Lanka expressed concern over the incidents, which have resulted in the loss 
 ◼️
 
 [Data](articles/9b585e88.json)
+
+---
+
+### Sri Lanka urges diplomacy as Thailand Cambodia clashes intensify
+
+*2025-07-26 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-urges-diplomacy-as-thailand-cambodia-clashes-intensify-232865/) · `en`
+
+ECONOMYNEXT – Sri Lanka has called for a diplomatic measures to end a border clashes between Thailand and Cambodia which has claimed the lives of over 30 person on both sides and had led to tens of thousands fleeing border areas.
+
+The conflict has seen drones, artillery and also F-16 fighters deployed as fighting escalated.
+
+Cambodia has claimed that cluster bombs were used by Thailand and a historic temple has been shelled. Cambodia has close relations with China.
+
+Offers by Malaysia’s Mahathir Mohammed to mediate have been rejected.
+
+“The Government of Sri Lanka is concerned over the recent incidents along the Cambodia–Thailand border, which has resulted in the loss of life, displacement of civilians and damage to culturally significant sites,” the Foreign Ministry said in a statement.
+
+...
+
+[Data](articles/57c28fcd.json)
 
 ---
 
@@ -1809,41 +1849,5 @@ As stated earlier the anti-Tamil violence of July 1983 was not a spontaneous mas
 ...
 
 [Data](articles/abb3c64d.json)
-
----
-
-### இலங்கை வர்த்தகக் கவுன்ஸிலின் உலகளாவிய சம்மேளனத்தின் வருடாந்த பொதுக் கூட்டத்தின் ஆரம்ப விழாவில் ஜனாதிபதி பங்கேற்பு
-
-*2025-07-26 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220972) · `ta`
-
-கொழும்பு ஷாங்க்ரிலா ஹோட்டலில் வெள்ளிக்கிழமை (25) காலை நடைபெற்ற இலங்கை வர்த்தக கவுன்ஸிலின்(Global Federation of Sri Lankan Business Councils)  உலகளாவிய சம்மேளனத்தின் வருடாந்தப்  பொதுக் கூட்டத்தின் ஆரம்ப விழாவில் ஜனாதிபதி அநுரகுமார திசாநாயக்க கலந்து கொண்டார்.
-
-உலகம் முழுவதிலுமுள்ள இலங்கை வர்த்தகர்களை ஒரே இடத்தில் இணைக்கும் மேடையாக இலங்கை வர்த்தக கவுன்ஸிலின் உலகளாவிய சம்மேளனம் செயல்படுகிறது.
-
-"உலகளாவிய இலங்கை வர்த்தகங்களை ஒன்றிணைத்து - முன்னோக்கி  " என்ற தொனிப்பொருளில் இன்றும் (25)  நாளையும் (26) நடைபெறும் இந்த மாநாட்டில், அமெரிக்கா, இங்கிலாந்து, ஜப்பான், அவுஸ்திரேலியா, கனடா மற்றும் இந்தியா உள்ளிட்ட 15 நாடுகளைச் சேர்ந்த தொழில்முயற்சியாளர்கள் இணைந்துள்ளனர்.
-
-உலகளாவிய வர்த்தக உறவுகளை விரிவுபடுத்துதல், புதிய முதலீடுகளை ஈர்ப்பது மற்றும் உலகெங்கிலும் உள்ள இலங்கை தொழில்முனைவோரின் ஆதரவுடன் நாட்டின் பொருளாதாரத்திற்கு தீவிரமான பங்களிப்பைப் பெறுவது என்பன தொடர்பில்  கலந்துரையாடல் தளமொன்று இம்முறை மாநாட்டின் போது ஏற்படுத்தப்படும்.
-
-...
-
-[Data](articles/d0baec92.json)
-
----
-
-### Hotel Show Colombo – 2025  ஜனாதிபதியால் திறந்து வைப்பு
-
-*2025-07-26 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220971) · `ta`
-
-Hotel Show Colombo – 2025   25ஆம் திகதி வெள்ளிக்கிழமை காலை கொழும்பு  பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் உள்ள சிறிமாவோ பண்டாரநாயக்க ஞாபகார்த்த  மத்திய நிலையத்தில் ஆரம்பமானதோடு, ஆரம்ப நிகழ்வில் ஜனாதிபதி அநுர குமார திசாநாயக்க கலந்து கொண்டார்.
-
-இலங்கை ஹோட்டல் பாடசாலை பட்டதாரிகள் சங்கம், அரச மற்றும் தனியார் துறைகள் இணைந்து ஆண்டுதோறும் ஏற்பாடு செய்யும் இந்த கண்காட்சி, இந்த ஆண்டு 17 ஆவது முறையாக நடைபெறுகிறது.
-
-1998 ஆம் ஆண்டு தொடங்கப்பட்ட கொழும்பு ஹோட்டல் கண்காட்சி, நாட்டின் விருந்தோம்பல் துறையில் மிகப்பெரிய வர்த்தக கண்காட்சிகளில் ஒன்றாகும். நாட்டின் சுற்றுலாத் துறையை சர்வதேச அளவில் மேம்படுத்துவதற்கான சிறந்த வாய்ப்பாக இந்தக் கண்காட்சி இருக்கும்.
-
-Hotel Show Colombo – 2025   கண்காட்சியைத் திறந்து வைத்த ஜனாதிபதி, கண்காட்சி கூடங்களையும் பார்வையிட்டு அங்கு கூடியிருந்த மக்களுடன் சுமூகமான உரையாடலில் ஈடுபட்டார்.
-
-...
-
-[Data](articles/9d3b05e0.json)
 
 ---

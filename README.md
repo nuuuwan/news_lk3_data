@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 06:34:49**
+As of **2025-07-26 07:18:02**
 
 ## Newspaper Stats
 
-*Scraped **66,848** Articles*
+*Scraped **66,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,408
 adaderanalk | 8,202
 tamilmirrorlk | 9,653
 virakesarilk | 11,144
-adaderanasinhalalk | 11,477
+adaderanasinhalalk | 11,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,848 articles have been extended.
+61,973 (92.7%) of 66,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### කාම්බෝජය තායිලන්තයෙන් සටන් විරාමයක් ඉල්ලයි
+
+*2025-07-26 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212649) · `si`
+
+තායිලන්ත - කාම්බෝජ දේශසීමාවේ දින දෙකක පැවැති යුද ගැටුම්වලින් පසුව කාම්බෝජය වහාම ක්‍රියාත්මකවන පරිදි තායිලන්තයෙන් සටන් විරාමයක් ඉල්ලා තිබේ.
+
+මෙම යුද ගැටුම් හේතුවෙන් 15කට වැඩි පිරිසක් මියගිය අතර, ලක්ෂ ගණනක් අවතැන් විය.
+
+විදෙස් මාධ්‍ය වාර්තාවන්හි දැක්වෙන්නේ දෙරටම සාකච්ඡා පැවැත්වීමට සූදානමක් ඇති බවය.
+
+◼️
+
+[Data](articles/fc9464a4.json)
+
+---
+
+### අද වැස්ස ගැන කාලගුණයෙන් දැනුම්දීමක්
+
+*2025-07-26 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212648) · `si`
+
+අද (26) දිනයේ බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති වන අතර උතුරු පළාතේ වැසි ස්වල්පයක් ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු සහ උතුරු-මැද පළාත්වලත් පුත්තලම, ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50ක පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/9f5dece1.json)
+
+---
 
 ### தேன் எடுக்கச் சென்றவர் யானை தாக்கி உயிரிழப்பு
 
@@ -1737,43 +1771,5 @@ Bangladesh’s economy is stabilizing following an acute slowdown amid the polit
 ...
 
 [Data](articles/03925f98.json)
-
----
-
-### S&P upgrades Pakistan credit rating to B- from CCC+
-
-*2025-07-25 14:45:00* · [`economynextcom`](https://economynext.com/sp-upgrades-pakistan-credit-rating-to-b-from-ccc-232730/) · `en`
-
-ECONMYNEXT – S&P Global Ratings said it is upgrading Pakistan’s sovereign rating from CCC+ to B- on improved budgets and assurances that the country will be able to roll-over maturing debt.
-
-“The stable outlook reflects our expectations that continued economic recovery and government efforts to enhance revenue will stabilize fiscal and debt metrics,” S&P said.
-
-“We also expect that sustained official financing will support Pakistan in meeting its external obligations, and that the country will continue to roll over its commercial credit lines over the next 12 months.
-
-“Downward pressure would emerge if financial support from key bilateral and multilateral partners quickly erodes.”
-
-On July 24, 2025, S&P Global Ratings raised its long-term sovereign credit ratings on Pakistan to ‘B-‘ from ‘CCC+’, and its short-term ratings to ‘B’ from ‘C’. The outlook on the long-term rating is stable.
-
-At the same time, we revised our transfer & convertibility assessment to ‘B-‘ from ‘CCC+’.
-
-...
-
-[Data](articles/9ad1f4b9.json)
-
----
-
-### வெளிநாட்டு கடன் மறுசீரமைப்பு ஒப்பந்தம் தொடர்பான அமுலாக்கல் கடிதங்களில் இலங்கை - பிரான்ஸ் ஒப்பந்தம்
-
-*2025-07-25 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/220912) · `ta`
-
-இலங்கையின் வெளிநாட்டுக் கடனை மறுசீரமைப்பதற்கான அதிகாரப்பூர்வ கடன் குழுவுடன் ஜூன் 26, 2024 அன்று கையெழுத்திடப்பட்ட புரிந்துணர்வு ஒப்பந்தத்தின்படி, பிரான்ஸ் அரசாங்கத்திற்கும் இலங்கை அரசாங்கத்திற்கும் இடையிலான கடன் மறுசீரமைப்பு குறித்த இருதரப்பு ஒப்பந்தம் ஜூன் 16, 2025 அன்று கையெழுத்தானது.
-
-இருதரப்பு ஒப்பந்தத்தில் அதிகாரப்பூர்வமாக கையெழுத்திட்டதைத் தொடர்ந்து, இலங்கை அரசாங்கத்தின் அங்கீகரிக்கப்பட்ட பிரதிநிதியாக நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சுமும், பிரெஞ்சு அரசாங்கத்தின் அங்கீகரிக்கப்பட்ட பிரதிநிதிகலான Agence Franciaise de Developpement (AFD), Bpifrance Assurance Export மற்றும் Banque de France ஆகியவை செயல்படுத்தல் கடிதங்களை நிறைவு செய்யும்.
-
-மேற்கூறியவற்றைக் கருத்தில் கொண்டு, Agence Franciaise de Developpement (AFD) நிறுவனத்துடனான அமலாக்கக் கடிதத்தில் கையெழுத்திடும் நிகழ்வு வியாழக்கிழமை (24) நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சத்தில் நடைபெற்றது.
-
-...
-
-[Data](articles/eed34712.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 05:31:48**
+As of **2025-07-26 06:09:19**
 
 ## Newspaper Stats
 
-*Scraped **66,838** Articles*
+*Scraped **66,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
-islandlk | 4,078
+islandlk | 4,087
 economynextcom | 4,094
 dailymirrorlk | 4,733
 dailyftlk | 4,734
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,838 articles have been extended.
+61,973 (92.7%) of 66,847 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -476,6 +476,48 @@ The elephants, revered for centuries in Sri Lankan culture and central to the co
 
 ---
 
+### Cinnamon Hotels & Resorts wins PATA Gold Award for wildlife conservation initiative
+
+*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-wins-pata-gold-award-for-wildlife-conservation-initiative/) · `en`
+
+Cinnamon Hotels & Resorts, Sri Lanka’s premier hospitality brand, has been honoured with the Pacific Asia Travel Association (PATA) Gold Award 2025 in the category of Best Ecosystem & Wildlife Conservation initiative for its groundbreaking Cinnamon Rainforest Restoration Project.
+
+The PATA Gold Awards, now in their 41st year, remain the most prestigious accolades in the Asia Pacific travel and tourism industry, celebrating organisations that lead with purpose, innovate with impact, and contribute meaningfully to sustainable tourism development.
+
+“This recognition from PATA affirms that true hospitality is inseparable from environmental responsibility,” said Hishan Singhawansa, CEO of Cinnamon Hotels & Resorts. “The Cinnamon Rainforest Restoration Project aligns with our broader ambition to sustain the environment we operate in, restoring ecosystems, empowering communities, and shaping a more conscious way of travel.”
+
+...
+
+[Data](articles/50d4f195.json)
+
+---
+
+### Sri Lanka – Pakistan Business Council holds 33rd AGM
+
+*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/sri-lanka-pakistan-business-council-holds-33rd-agm/) · `en`
+
+The 33rd Annual General Meeting of the Sri Lanka – Pakistan Business Council (SLPBC) was held recently, attended by Major General (R) Faheem Ul Aziz, HI (M) High Commissioner of Pakistan in Sri Lanka at Cinnamon Lakeside, Colombo.
+
+Wasantha de Silva, Managing Director DMW Ventures (Pvt) Ltd was elected as President of SLPBC for 2025/26, while Feroze Haji Anver from Cliftex Industries (Pvt) Ltd and Perakum Mahasen Abeysekera from Vinu International Trading Company (Pvt)Ltd were elected Vice Presidents, and M. Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer. Indhra Kaushal Rajapaksa Chairman/Managing Director of the Kalhari Group of Companies will serve the committee as Immediate Past President.
+
+...
+
+[Data](articles/b2a363c6.json)
+
+---
+
+### Macktiles Lanka makes history in ‘porcelain perfection’ with 100pct Sri Lankan minerals
+
+*2025-07-25 22:17:00* · [`islandlk`](http://island.lk/macktiles-lanka-makes-history-in-porcelain-perfection-with-100pct-sri-lankan-minerals/) · `en`
+
+In a singular moment that rewrites the narrative of global manufacturing excellence, Macktiles Lanka (Private) Limited has achieved what was once considered impossible: creating authentic real porcelain tiles using exclusively Sri Lankan minerals. The island’s extraordinary geological wealth has now proven its potential extends far beyond traditional applications, with Macktiles unlocking the manufacturing capabilities of these mineral-rich deposits to create porcelain that doesn’t just meet international standards but obliterates them.
+
+...
+
+[Data](articles/41bba1f2.json)
+
+---
+
 ### President AKD holds virtual tariff talks with US Trade Representative
 
 *2025-07-25 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110844/president-akd-holds-virtual-tariff-talks-with-us-trade-representative) · `en`
@@ -539,6 +581,72 @@ The Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with
 ...
 
 [Data](articles/c34c6296.json)
+
+---
+
+### Monin creative cup debuts at National Barista Championship 2025
+
+*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/monin-creative-cup-debuts-at-national-barista-championship-2025/) · `en`
+
+The National Barista Championship, held in partnership with the Hotel Show and Sri Lanka Hospitality Graduates Association, is set to spotlight a new wave of barista creativity with the launch of the Monin Creative Cup. Designed to challenge and inspire, the Monin Creative Cup invites participants to push the boundaries of coffee innovation by crafting unique, coffee-based mocktails that blend skill, flavour and flair.
+
+From a series of regional workshops held across the island, over 40 talented baristas took part in this year’s competition, representing the best of Sri Lanka’s vibrant Hotel, Restaurant and Café sector. Of these, 13 semi-finalists were selected to compete in the Monin Creative Cup, with the top 6 finalists now advancing to the final round on 25th July at the BMICH, during the prestigious Hotel Show Colombo 2025.
+
+A special Master Class was recently held at ‘Studio R’ by Beverage Specialist Asif Iqbal for the semi-finalists, with the objective of enhancing their knowledge.
+
+...
+
+[Data](articles/45d8984d.json)
+
+---
+
+### ComBank partners with Prime EV Automobile to offer special leasing options
+
+*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/combank-partners-with-prime-ev-automobile-to-offer-special-leasing-options/) · `en`
+
+The Commercial Bank of Ceylon has announced a collaboration with Prime EV Automobiles (Pvt) Ltd., a subsidiary of the Senok Group, to offer exclusive leasing options to buyers of the new electric vehicle range represented by the company in Sri Lanka.
+
+The Bank said these special leasing offers and benefits will be available till the end of 2025, and cover vehicle models such as E07 Deepal, S05 Deepal, L07 Deepal, S07 Deepal, K 50 pick-up and Lumin Changan manufactured by Changan Automobile in China.
+
+...
+
+[Data](articles/81a9f95c.json)
+
+---
+
+### People’s Bank CEO/GM Challenge T20 League Tournament concludes in Batticaloa
+
+*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/peoples-bank-ceo-gm-challenge-t20-league-tournament-concludes-in-batticaloa/) · `en`
+
+People’s Bank Chief Executive Officer/General Manager Challenge T20 League Tournament 2025 was successfully held at the Koddaimunai Sports Village in Batticaloa, bringing together staff members from across the country in a spirited display of sportsmanship and team unity.
+
+K.G.P. Fighters won the tournament and were crowned champions, while PB Gladiators finished as runners-up. Colombo Challengers came in third and Dumbara Strikers took fourth place. Eranga Kumara from PB Gladiators was named Best Batsman, and Milan Kashalya, also from PB Gladiators, received the Best Bowler award.
+
+The tournament was played over eight days with eight teams in two groups. A total of 16 matches, including the final, were played, with 120 staff members.
+
+The final match was attended by Clive Fonseka, CEO/General Manager of People’s Bank, along with members of the Bank’s Corporate and Executive Management, showing the Bank’s strong support for staff engagement and wellbeing through sports.
+
+...
+
+[Data](articles/96ea1b55.json)
+
+---
+
+### Government to take initiative to establish a National Industrial Planning Think Tank centered on revitalizing the Rural Economy – Prime Minister
+
+*2025-07-25 20:58:00* · [`islandlk`](http://island.lk/government-to-take-initiative-to-establish-a-national-industrial-planning-think-tank-centered-on-revitalizing-the-rural-economy-prime-minister/) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that the government will initiate steps to establish a National Industrial Planning Think Tank centered on revitalizing the rural economy and the necessary technical, scientific, and advisory support would be provided through that initiative to strengthen businesses across Sri Lanka.
+
+The Prime Minister made these remarks while participating in the 40th Anniversary celebration of the Regional Development Bank (RDB) held on July 25 at the Bandaranayaka Memorial International Conference Hall.
+
+At the event, the official launch of “RDB Quick App” online banking facility and the opening of the exhibition on business product stalls held for three consecutive days were initiated by the Prime Minister to the public in line with the anniversary celebration.
+
+A commemorative stamp issued by the Department of Posts to mark the anniversary was also presented to the Prime Minister during the occasion.
+
+...
+
+[Data](articles/a53fd511.json)
 
 ---
 
@@ -1663,131 +1771,5 @@ At the same time, we revised our transfer & convertibility assessment to ‘B-�
 ...
 
 [Data](articles/efd0b8b7.json)
-
----
-
-### கறுப்பு ஜூலை இனவழிப்புக்கு எதிர்ப்பு: மானிப்பாய்  உறுப்பினர் வெளிநடப்பு
-
-*2025-07-25 14:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கறுப்பு-ஜூலை-இனவழிப்புக்கு-எதிர்ப்பு-மானிப்பாய்-உறுப்பினர்-வெளிநடப்பு/175-361749) · `ta`
-
-மானிப்பாய் பிரதேச சபையின் இரண்டாவது அமர்வானது இன்றைய தினம் தவிசாளர் ஜெசீதன் தலைமையில் ஆரம்பமானது.
-
-இதன்போது இலங்கை தமிழரசு கட்சியின் உறுப்பினர் லோக பிரகாசம் ரமணன் தேசிய மக்கள் சக்தியின் செயற்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து கருத்து தெரிவித்துவிட்டு சபையில் இருந்து வெளிநடப்பு செய்தார். இதன்போது சபையின் உப தவிசாளரும் வெளிநடப்பு செய்தார்.
-
-எமது இனமானது அளிக்கப்படுவதற்கு முக்கியமான காரணமாக இருந்தது 1983 ஆம் ஆண்டு இடம்பெற்ற ஜூலை கலம்பகம். இந்த ஜூலை கலவரத்தின்தின்போது தான் தமிழர்கள் அவர்களது தாயகம் நோக்கி விரட்டியடிக்கப்பட்டார்கள். அதன் பின்னர் தான் எமது இளைஞர்கள் பலர் ஆயுதங்களை கையில் எடுத்தார்கள்.
-
-செம்மணி புதைகுழியில் எமது பிஞ்சு குழந்தைகள் உட்பட இளைஞர்கள் யுவதிகள் என பலர் புதைக்கப்பட்டமைக்கு அடிப்படை காரணம் ஜூலை கலவரமே ஆகும்.
-
-...
-
-[Data](articles/29e25b97.json)
-
----
-
-### குழந்தைங்க செத்துட்டாங்களானு தெரியலயே? குழம்பி சொன்ன அபிராமி
-
-*2025-07-25 14:27:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைங்க-செத்துட்டாங்களானு-தெரியலயே-குழம்பி-சொன்ன-அபிராமி/175-361748) · `ta`
-
-"எந்த தண்டனையை தருவதாக இருந்தாலும், அதை தீர்ப்பாக எழுதும்போது, நாம் சரியாகத்தான் தண்டனை தருகிறோமா? என்ற லேசான அக்கறையும் இருக்கும்.. ஆனால், கொஞ்சம்கூட சந்தேகத்திற்கு இடமில்லாத அளவுக்கு சாட்சியங்களுடைய அடிப்படையில், இப்படித்தான் தீர்ப்பு தர வேண்டும் என்று எழுதியிருக்கிறார்.. இதற்கு அசாத்தியமான மன உறுதி வேண்டும்" என்று அபிராமிக்கு வழங்கப்பட்ட தீர்ப்பு குறித்து மூத்த வழக்கறிஞர் சுமதி, கருத்து தெரிவித்துள்ளார்.
-
-"அபிராமியின் தீர்ப்பை வரவேற்கிறேன் என்று சொல்ல, இது கொண்டாடக்கூடிய விஷயமில்லை.. ஆனால், இந்த தீர்ப்பு மனதுக்கு ஆறுதலாக இருக்கிறது. என மூத்த வழக்கறிஞர் சுமதி, Vikatan யூடியூப் சேனலுக்கு பேட்டி தந்துள்ளார்.
-
-சமூகத்துக்கென ஒரு ஒழுக்கம் உள்ளது.. அந்த கட்டுப்பாட்டை மீறி, ஒருவரை கொன்றுவிட்டு, தான் மட்டுமே இன்பமாக இருக்கலாம் என்ற நியதியை ஏற்க முடியாது..
-
-தம்பதிக்குள் பிரச்சனை என்றால், அவர்கள் பிரிந்து போகலாம், இதற்கு சட்டத்தில் ஆயிரம் வழி உள்ளது. ஆனால், ஒரே நேரத்தில் கணவன், 2 குழந்தைகளையும் சேர்த்து கொலை செய்ய முடிவு செய்தார்..
-
-...
-
-[Data](articles/33a65feb.json)
-
----
-
-### Sri Lanka president to visit the Maldives
-
-*2025-07-25 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-the-maldives-232732/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Disanayaka will make a state visit to the Maldives from July 28-30 at the invitation of the Maldives President Mohamed Muizzu.
-
-Disanayaka is scheduled to hold bilateral talks with Muizzu and exchange several Memoranda of Understanding to strengthn mutual cooperation, the Ministry of Foreign Affairs said.
-
-He is also scheduled to address a business forum and meet the Sri Lankan expatriate community.
-
-Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year.
-
-Disanayaka will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and senior Government officials. (Colombo/Jul25/2025)
-
-◼️
-
-[Data](articles/df5b9e0f.json)
-
----
-
-### අල්ලස් චෝදනාවක් සම්බන්ධයෙන් කලාකරුවෙකු අත්අඩංගුවට
-
-*2025-07-25 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212628) · `si`
-
-අල්ලස් චෝදනාවක් සම්බන්ධයෙන් කලාකරුවකු වන විනෝද් තරංග යන අය අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-පුද්ගලයන් දෙදෙනෙකුගෙන් රුපියල් 30,000 බැගින් වූ මුදලක් අල්ලස් වශයෙන් ඉල්ලීම යන චෝදනාව යටතේ මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
-
-ඒ මතුගම ප්‍රදේශයේ පදිංචි විදුහල්පතිනියක හා අහුන්ගල්ල ප්‍රදේශයේ පදිංචි ගුවන්හමුදා නිලධාරියෙකු විසින් ගොනු කළ පැමිණිල්ලට අදාලව ය.
-
-මෙහිදී අදාල විදුහල්පතිනිය සම්බන්ධයෙන් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ පවතින විමර්ශනයකට අදාලව එම විමර්ශනය සිදු නොකරන බව දන්වා ලිපියක් ලබාදීමට හා එම විමර්ශනයට අදාල ගොනුව ලබාදෙන බව පවසා මෙම පුද්ගලයා විසින් රුපියල් 30,000ක මුදල ඉල්ලා ඇත.
-
-එමෙන්ම ගුවන්හමුදවේ නිලධාරියා සම්බන්ධව ද අල්ලස් හෝ දූෂණ කොමිෂන් සභාවේ පවතින විමර්ශනයට අදාලව ඔහුව අත්අඩංගුවට නොගෙන සිටීමට සහ ඒ සම්බන්ධයෙන් ලිපියක් ලබා දෙන බව පවසා අදාල සැකකරු විසින් අල්ලස් මුදල ඉල්ලා තිබේ.
-
-ඒ අනුව අත්අඩංගුවට ගත් සැකකරු කොළඹ ප්‍රධාන මහේස්ත්‍රත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/5b0b5fc0.json)
-
----
-
-### தமிழ்த் தேசிய வீரர்கள் தின  நினைவேந்தலுக்கு அழைப்பு
-
-*2025-07-25 14:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்த்-தேசிய-வீரர்கள்-தின-நினைவேந்தலுக்கு-அழைப்பு/175-361747) · `ta`
-
-ஈழ விடுதலைப் போராட்டத்தின் பிதாமகர்களை நினைவு கூரும் 42 வது தமிழ் தேசிய வீரர்கள் தினம் தந்தை செல்வா நினைவு கேட்போர் கூடத்தில் நாளை சனிக்கிழமை மாலை-03.00 மணி இடம்பெறவுள்ளதாக ஏற்பாட்டாளர் சுரேன் குருசுவாமி தெரிவித்தார்.
-
-1983 ஆம் ஆண்டு ஜூலை மாதம் வெலிக்கடைச் சிறைச்சாலையில் படுகொலை செய்யப்பட்ட தமிழ்  ஈழ விடுதலை இயக்கத்தின் ஸ்தாபக தலைவர் தங்கதுரை, தளபதி குட்டிமணி மூத்த போராளிகள் ஜெகன், தேவன், நடேசுதாசன் உட்பட 53 ஈழ விடுதலைப் போராட்டத்தின் பிதாமகர்களையும் பொது மக்களையும் அஞ்சலிக்கும் 42 ஆவது ஆண்டு நினைவேந்தலாக நடைபெறுகிறது.
-
-இந்நிகழ்வின் சிறப்பு விருந்தினராக மூத்த ஊடகவியலாளர் வீ. தனபாலசிங்கம்  விருந்தினர்களாக தமிழரசுக் கட்சியின் பதில் தலைவர்
-
-...
-
-[Data](articles/0b9a842d.json)
-
----
-
-### ඉඩම් නඩුවකට අදාළව ආණ්ඩුවේ ප්‍රබලයින් තිදෙනෙකුට අධිකරණයෙන් දුන් නියෝගය
-
-*2025-07-25 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212627) · `si`
-
-පෞද්ගලික ආයතනයක් සතු දෙමහල් ගොඩනැගිල්ල සහිත ඉඩම ව්‍යාජ ඔප්පුවක් සකස් කර රුපියල් ලක්ෂ 36කට බදු දී වංචා කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන ඇමති වසන්ත සමරසිංහ, කම්කරු නියෝජ්‍ය ඇමති මහින්ද ජයසිංහ සහ කඩුවෙල නගරාධිපති රන්ජන් ජයලාල් යන අයගෙන් ප්‍රකාශ සටහන් කර උදෘත ගොනු කරන ලෙසට ගල්කිස්ස මහේස්ත්‍රාත් ඒ. ඩී. චතුරිකා ද සිල්වා අද (25) කොළඹ වංචා විමර්ශන කාර්යාංශයට නියෝග කළාය.
-
-විමර්ශනයේදී අනාවරණය කරගත් ලේඛන වන ගොඩනැගිල්ලේ සහතික කරන ලද ඔප්පුවේ පිටපතක්, 2017 වර්ෂයේ සැප්තැම්බර් මස 3 වන දින අදාළ ආයතනයේ වෘත්තීය සමිතියේ සභාපති ලෙසට වසන්න සමරසිංහ මහතාට බලය පැවරූ මහ සභා රැස්වීම් වාර්තා, අංක 166 සහා 206, 207 දරණ බදු ඔප්පුවල සහතික කරන ලද පිටපත් මෙන්ම ප්‍රශ්නගත දේපොළ භාරකාරත්වය සම්බන්ධයෙන් කඩුවෙල දිසා අධිකරණයේ, ගල්කිස්ස දිසා අධිකරණයේ සහා සිවිල් අභියාචනාධිකරණයේ පැවති නඩු කටයුතුවලට අදාළ සම්පූර්ණ නඩු වාර්තාවල පිටපත් වැඩිදුර වාර්තාවක් මඟින් කොළඹ වංචා විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් අද දින අධිකරණයට ඉදිරිපත් කරන ලදී.
-
-...
-
-[Data](articles/5618daf1.json)
-
----
-
-### රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීමට අයැදුම්පත් කැඳවයි
-
-*2025-07-25 13:50:28* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවා-කොමිෂන්-සභාව-සඳහා-සාමාජිකයකු-පත්කිරීමට-අයැදුම්පත්-කැඳවයි/11-417504) · `si`
-
-රාජ්‍ය සේවා කොමිෂන් සභාවේ සාමාජික ධුරයක ඇතිවී තිබෙන පුරප්පාඩුව පිරවීම සඳහා සුදුසුකම් ලත් තැනැත්තන්ගෙන් අයැදුම්පත් කැඳවීම ආරම්භ කර ඇත.
-
-ඒ සඳහා වූ අයදුම්පත්‍ර, ශ්‍රී ලංකා පාර්ලිමේන්තු වෙබ් අඩවියෙහි (www.parliament.lk) ‘රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීම’ නමැති ක්ෂණික සබැඳි යටතේ පළකර ඇති ආකෘතිය අනුව සකස් කර, සම්පූර්ණ කරන ලද අයැදුම්පත්‍ර 2025 අගෝස්තු 01 දින හෝ එදිනට පෙර යොමුකළ යුතුය.
-
-අදාළ අයැදුම්පත්‍ර,ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ වැඩබලන මහ ලේකම්, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභා කාර්යාලය, ශ්‍රි ලංකා පාර්ලිමේන්තුව, ශ්‍රි ජයවර්ධනපුර, කෝට්ටේ, යන ලිපිනයට ලියාපදිංචි තැපෑලෙන් හෝ [email protected] යන විද්‍යුත් ලිපිනයට යොමු කළ යුතුය.
-
-ලියුම් කවරයේ ඉහළ වම් කෙළවරේ/ විද්‍යුත් ලිපියෙහි විෂය වශයෙන් ‘රාජ්‍ය සේවා කොමිෂන් සභාව සඳහා සාමාජිකයකු පත්කිරීම’ යනුවෙන් සඳහන් කළයුතුය
-
-◼️
-
-[Data](articles/0cdca7b5.json)
 
 ---

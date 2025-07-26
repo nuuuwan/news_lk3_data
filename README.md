@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 03:47:31**
+As of **2025-07-27 04:05:35**
 
 ## Newspaper Stats
 
-*Scraped **66,937** Articles*
+*Scraped **66,938** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
-colombotelegraphcom | 684
+colombotelegraphcom | 685
 islandlk | 4,091
 economynextcom | 4,099
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,937 articles have been extended.
+61,973 (92.6%) of 66,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b810a9ba.json)
+
+---
+
+### Electricity Reform: The Act & The Amendment
+
+*2025-07-26 22:13:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electricity-reform-the-act-the-amendment/) · `en`
+
+It will not be an exaggeration to say that what the 2024 Electricity Act proposed, the 2025 Amendment seems set up to depose. Equally, what the Act set about to depose, the Amendment is seeking to re-propose. Unrestricted unbundling of the Ceylon Electricity Board (CEB) and privatizing the unbundled parts were the central purpose of the Act. Controlled unbundling without abandoning public ownership seems to be the main motivation behind the Amendment. The Act exclusively privileged everyone else except engineers to carry the burden of reforming the electricity sector. The Amendment reverses that privilege and includes mostly engineers with limited participation by other experts. Apart from policy specifics and technical details, it is unfortunate that the Act and the Amendment have singularly failed to find a balance between divergent approaches to electricity reform but have instead created unnecessary dichotomies between them.
+
+...
+
+[Data](articles/a83b1b1e.json)
 
 ---
 
@@ -1835,19 +1847,5 @@ A full-day workshop was held at the University’s greenhouses and demonstration
 ...
 
 [Data](articles/9b689c71.json)
-
----
-
-### Beginning of “Black July “; 15 July Meesalai Army Attack and 23 July Thinnavely LTTE Ambush.
-
-*2025-07-26 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86206) · `en`
-
-The first part of this article titled  “Black July; Anatomy of an Anti-Tamil Pogrom” was a brief overview of the horrific anti-Tamil violence that engulfed the Sri Lankan nation in July 1983. The second part of this article   focuses  primarily on how “Black July”began in 1983. This detailed article is written with the aid of earlier writings to denote the 42bd  anniversary of the 1983 July anti-Tamil pogrom.
-
-As stated earlier the anti-Tamil violence of July 1983 was not a spontaneous mass uprising of the Sinhala people against the Tamil people. Prior to the outbreak of violence, there existed a pre-planned conspiracy to launch a widespread attack against Tamil life, limb and property on a massive scale. All it required was a powerful incident to be the provocative pretext to justify such an attack.
-
-...
-
-[Data](articles/abb3c64d.json)
 
 ---

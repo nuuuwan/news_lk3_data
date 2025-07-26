@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 11:32:36**
+As of **2025-07-26 11:49:58**
 
 ## Newspaper Stats
 
-*Scraped **66,868** Articles*
+*Scraped **66,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,412
 adaderanalk | 8,206
-tamilmirrorlk | 9,657
+tamilmirrorlk | 9,659
 virakesarilk | 11,144
 adaderanasinhalalk | 11,485
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,868 articles have been extended.
+61,973 (92.7%) of 66,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### போலி யுவான் நாணயத்தாள்களுடன் சீன பிரஜை கைது
+
+*2025-07-26 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-யுவான்-நாணயத்தாள்களுடன்-சீன-பிரஜை-கைது/175-361770) · `ta`
+
+இரத்தினபுரி, திருவனாகெடிய பகுதியில் 4,000 போலி 100 யுவான் நாணயத்தாள்களை வைத்திருந்தமைக்காக 28 வயதுடைய சீன பிரஜை ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர் கஹவத்தை பொலிஸ் விசேட அதிரடிப்படை முகாமைச் சேர்ந்த அதிகாரிகள் குழுவினால் கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சம்பவம் குறித்து கஹவத்தை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.  R
+
+◼️
+
+[Data](articles/c2d3344c.json)
+
+---
+
+### தப்பிக்க முயன்று ஆற்றில் குதித்த நபர் மாயம்
+
+*2025-07-26 11:27:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிக்க-முயன்று-ஆற்றில்-குதித்த-நபர்-மாயம்/175-361769) · `ta`
+
+சிறைச்சாலையிலிருந்து தப்பிக்க முயன்று மகாவலி ஆற்றில் குதித்த சந்தேக நபர் நீரில் மூழ்கி காணாமல் போயுள்ளார்.
+
+பல்லேகல திறந்தவெளி சிறைச்சாலை முகாமில் தடுத்து வைக்கப்பட்டிருந்த சந்தேகநபரே இதில் காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+காணாமல் போன சந்தேக நபரைக் கண்டுபிடிப்பதற்கான தேடுதல் நடவடிக்கைகள் தற்போது நடைபெற்று வருவதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/944b1fe4.json)
+
+---
 
 ### තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්
 
@@ -1753,43 +1785,5 @@ Turnover was 4.2 billion rupees, below the monthly average of 7.1.
 ◼️
 
 [Data](articles/a39903d1.json)
-
----
-
-### Sri Lankan migrant worker in viral video still traumatized after workplace humiliation in Korea
-
-*2025-07-25 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/110839/sri-lankan-migrant-worker-in-viral-video-still-traumatized-after-workplace-humiliation-in-korea) · `en`
-
-A Sri Lankan migrant worker said he continues to suffer from trauma months after co-workers tied him to a forklift and mocked him at a brick factory in Naju, South Jeolla, in an incident that has fueled national outrage and triggered a government investigation into the abuse of foreign laborers.
-
-The worker told the JoongAng Ilbo in a phone interview on Thursday that he continues to “suffer headaches from the trauma of being tied to a forklift” and mocked by co-workers at a brick factory in Naju, South Jeolla, earlier this year. Months after the incident, the video went viral online this week.
-
-“The forklift operator caused me tremendous pain. The shock I felt back then still gives me headaches,” the worker said. “I was so humiliated. I don’t even want to think about it.”
-
-The incident occurred around noon on Feb. 26, when the worker was hoisted into the air by a forklift while tied with white plastic sheeting.
-
-...
-
-[Data](articles/5120645b.json)
-
----
-
-### ධුරයට සමුදුන් අගවිනිසුරුවරිය 45 වසරක මතක අවදි කරයි
-
-*2025-07-25 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212634) · `si`
-
-ශ්‍රේෂ්ඨාධිකරණය මඟින් ප්‍රකාශයට පත්කිරීමට යෙදුණු තීන්දු ප්‍රජාතන්ත්‍රවාදය හා නීතියේ ආධිපත්‍යය ශක්තිමත් කිරීමට හේතුවූ බව අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය අද (25) ප්‍රකාශ කළාය.
-
-විශ්‍රාම යාමට නියමිත අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය විශ්‍රාම ගැනීම නිමිත්තෙන් අද ශ්‍රේෂ්ඨාධිකරණයේ පැවැති චාරිතානුකූල සමූදීමේ උත්සවය අමතමින් අගවිනිසුරුවරිය මේ බව කියා සිටියාය.
-
-එහිදී අදහස් පළ කළ අගවිනිසුරුවරිය තමන් මීට වසර 45කට පමණ පෙර නීති ශිෂ්‍යාවක් ලෙස අලුත් කඩේ ප්‍රදේශයට පැමිණි බවත් ඉන් පසුව නීතිඥ සංගමයේ සාමාජිකාවක බවට පත්වී අවසානයේදී ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරියක මෙන්ම අග්‍රවිනිශ්චකාර ධුරයටද පත්වීමට හැකි වූ බව සඳහන් කළාය.
-
-මෙරට ශ්‍රේෂ්ඨාධිකරණ ඉතිහාසයේ 48 වන අගවිනිසුරුවරිය ලෙස පත්වීමට තමාට හැකි වූ බවත් අගවිනිසුරුවරයෙකුගේ කාර්යභාරය හුදෙක් ශ්‍රේෂ්ඨාධිකරණයේ ප්‍රධානියා වශයෙන් කටයුතු කිරීම පමණක් නොවන බවත් ඇය අවධාරණය කළාය.
-
-විනිසුරුවරු අධිකරණයේ ආචාරධර්ම හා සම්මතයන් ආරක්ෂා කිරීමට බැඳී සිටින බවත් එම සම්මතයන් බිඳ දැමීම සමාව දිය නොහැකි පාපයක් බවත් ඇය සඳහන් කළාය.
-
-...
-
-[Data](articles/5f9c6d7b.json)
 
 ---

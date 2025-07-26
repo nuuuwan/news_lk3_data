@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 15:30:46**
+As of **2025-07-26 15:47:57**
 
 ## Newspaper Stats
 
-*Scraped **66,892** Articles*
+*Scraped **66,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,413
-adaderanalk | 8,210
+adaderanalk | 8,211
 tamilmirrorlk | 9,660
 virakesarilk | 11,148
 adaderanasinhalalk | 11,491
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,892 articles have been extended.
+61,973 (92.6%) of 66,893 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,7 +70,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මීළඟ විස්සයි20 ලෝක කුසලානය ශ්‍රී ලංකාවේ හා ඉන්දියාවේ සම සත්කාරකත්වය යටතේ 2026 වසරේ පෙබරවාරි හා මාර්තු මාසයන්හිදී පැවැත්වීමට නියමිතව ඇත.
 
-◼️
+ජපානය වත්මන් විස්සයි20 ශ්‍රේණිගත කිරීම් හි ලොව 43වන ස්ථානයේ රැඳී සිටියි.
+
+...
 
 [Data](articles/9374f5f1.json)
 
@@ -87,6 +89,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/657f665a.json)
+
+---
+
+### Social spending, protecting vulnerable an indicative target in IMF program – SL Mission Chief
+
+*2025-07-26 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110853/social-spending-protecting-vulnerable-an-indicative-target-in-imf-program-sl-mission-chief) · `en`
+
+The International Monetary Fund (IMF) has underscored the importance of sustaining Sri Lanka’s reform momentum and safeguarding macroeconomic stability, following a week-long mission to the country.
+
+Speaking at Ada Derana’s current affairs program ‘@Hydepark’, Evan Papageorgiou, the IMF Mission Chief for Sri Lanka, outlined key developments in the nation’s economic program and future challenges.
+
+Papageorgiou expressed satisfaction with the government’s strong commitment to reform, highlighting productive discussions with a wide range of authorities and private sector representatives.
+
+“We were very happy always to see the strong commitment of the authorities including the president,” he said.
+
+The mission coincided with the IMF Executive Board’s approval of the fourth review of Sri Lanka’s program. The review focused on several structural benchmarks, including the enactment of the Asset Recovery Law, improved VAT compliance plans, and actions to address electricity cost recovery.
+
+...
+
+[Data](articles/98d3209d.json)
 
 ---
 
@@ -1759,23 +1781,5 @@ Subsequent searches led to the recovery of 304 kg of ganja from a house in Keezh
 ◼️
 
 [Data](articles/bd52f6b5.json)
-
----
-
-### ஹரஹர வீரமல்லு - திரைப்பட விமர்சனம்
-
-*2025-07-25 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/220957) · `ta`
-
-நடிகர்கள்: பவன் கல்யாண், நிதி அகர்வால், பொபி தியோல், நாசர், சுனில் மற்றும் பலர்.
-
-இந்தியாவில் உள்ள ஆந்திர மாநிலத்தின் துணை முதல்வரும், ஜன சேனா எனும் அரசியல் கட்சியின் தலைவரும், தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகருமான பவன் கல்யாண் நடிப்பில் உருவாகி, சற்று கால தாமதத்துடன் வெளியாகி இருக்கும் படம் 'ஹர ஹர வீர மல்லு'. இந்த திரைப்படம் ரசிகர்களுக்கு சிறந்த பட மாளிகை அனுபவத்தை அளித்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
-
-பதினாறாம் நூற்றாண்டில் இந்தியாவை ஆட்சி செய்த முகலாய மன்னர்களின் காலகட்டத்தில் குறிப்பாக அவுரங்கசீப் மன்னராக இருந்த காலகட்டத்தில் அவர் இந்தியா முழுவதும் இஸ்லாம் மதத்தை பரப்ப திட்டமிடுகிறார்.
-
-அத்துடன் இந்தியாவில் வேரூன்றி இருந்த இந்து மதத்தை அழிக்கவும் திட்டமிடுகிறார். இதற்காக இந்து மன்னர்கள் ஆண்ட ராஜ்ஜியத்தை அழித்து, மக்களை மதம் மாறும் படி கட்டாயப்படுத்துகிறார்.
-
-...
-
-[Data](articles/fea32bf4.json)
 
 ---

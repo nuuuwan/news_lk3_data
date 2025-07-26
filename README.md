@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 15:05:55**
+As of **2025-07-26 15:18:23**
 
 ## Newspaper Stats
 
-*Scraped **66,889** Articles*
+*Scraped **66,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,413
 adaderanalk | 8,210
 tamilmirrorlk | 9,660
 virakesarilk | 11,148
-adaderanasinhalalk | 11,488
+adaderanasinhalalk | 11,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,889 articles have been extended.
+61,973 (92.6%) of 66,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### කාම්බෝජ - තායිලන්ත දේශසීමා ගැටුම් ගැන ශ්‍රී ලංකාවේ කනස්සල්ල
+
+*2025-07-26 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212660) · `si`
+
+කාම්බෝජ - තායිලන්ත දේශසීමාවේ හටගෙන ඇති ගැටුම්කාරී තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකා රජය සිය කනස්සල්ල පලකරන බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ, අවිහිංසාවාදය,කරුණාව සහ සාමකාමී සහජීවනය කේන්ද්‍රකරගත් බුදුරජාණන් වහන්සේගේ ආකාලික ඉගැන්වීම් මගින් මඟ පෙන්වනු ලබන ජාතියක් ලෙස ශ්‍රී ලංකාව ගැටලු සාමකාමීව විසඳා ගැනීම සඳහා කඩිනමින් රාජ්‍යතාන්ත්‍රික සංවාදයක නිරතවන ලෙස දෙරටෙන්ම ඉල්ලා සිටින බවය.
+
+◼️
+
+[Data](articles/657f665a.json)
+
+---
 
 ### Sri Lanka calls for peaceful dialogue on Cambodia–Thailand border clashes
 
@@ -1753,27 +1767,5 @@ Subsequent searches led to the recovery of 304 kg of ganja from a house in Keezh
 ...
 
 [Data](articles/d1fc0931.json)
-
----
-
-### Full list as Sri Lanka waives visa fees for 40 countries
-
-*2025-07-25 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/110840/full-list-as-sri-lanka-waives-visa-fees-for-40-countries) · `en`
-
-To boost their tourism, the Sri Lankan government has taken a major step by giving visa fee waivers to forty countries.
-
-This sudden change in visa policy is expected to boost the tourism recovery of Sri Lanka. The national policy change also induced the economy of the country.
-
-This visa policy change is expected to attract international visitors to increase the cultural exchange.
-
-The countries to get this visa fee waived include Germany, India, Indonesia, Japan, China, Australia, Spain, Belarus and many more.
-
-This reflects the country’s efforts to improve its international standing and create easier access for travellers, boosting tourism and international relations.
-
-Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa-free destinations. This puts the country in a relatively favourable position for travellers.
-
-...
-
-[Data](articles/c659a4c4.json)
 
 ---

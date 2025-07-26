@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 17:05:03**
+As of **2025-07-26 17:16:35**
 
 ## Newspaper Stats
 
-*Scraped **66,907** Articles*
+*Scraped **66,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,091
 economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,413
+adalk | 6,415
 adaderanalk | 8,211
 tamilmirrorlk | 9,662
 virakesarilk | 11,157
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,907 articles have been extended.
+61,973 (92.6%) of 66,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### රාහුල හිමියන්ගෙන් ඇමති ලාල්කාන්තට අභියෝගයක්
+
+*2025-07-26 16:58:29* · [`adalk`](https://www.ada.lk/breaking_news/රාහුල-හිමියන්ගෙන්-ඇමති-ලාල්කාන්තට-අභියෝගයක්/11-417515) · `si`
+
+"මම ලාල් කාන්ත ඇමතිවරයාට අභියෝග කරනවා, පුලුවන් නම් රජරට තියෙන, උතුරු මැද පළාතේ තියෙන සියලුම වැව් වල වැව් තාවුලු අල්ලාගෙන හදලා තියෙන ගොඩනැගිලි මාස 06 ක් ඇතුළත ඔක්කෝම ඉවත් කරලා පෙන්වන්න බලන්න පුලුවන් නම්, මේක කරන්න බෑ. ඒ කරන්න බැරි හේතුව තමයි මේවාට දේශපාලඥයෝ සම්බන්ධ වෙලා ඉන්නවා. ව්‍යාපාරිකයෝ සම්බන්ධ වෙලා ඉන්නවා. කෘෂිකර්ම ඇමති ලාල් කාන්ත මහතා එවැනි අභියෝග ජනතාවට ප්‍රසිද්ධ මාධ්‍ය ඉස්සරහා කියන්න ඕන ඇත්තටම කරන්න පුලුවන් නම් පමණයි.හොඳ වැඩපිළිවෙලක් නමුත් කොච්චර දුරට සාර්ථකව ක්‍රියාත්මක කරන්න පුලුවන් වෙයිද කියන එක මං දන්නේ නෑ" යැයි නාමල් උයන නිර්මාතෘ වනවාසී රාහුල හිමියෝ පැවසූහ.
+
+උන්වහන්සේ මේ බව ප්‍රකාශ කර සිටියේ, අද (26) පස්වරුවේ කැඳවා තිබූ මාධ්‍ය හමුවකදීය.
+
+...
+
+[Data](articles/ccbd6c47.json)
+
+---
 
 ### இலங்கை கணினி அவசர தயார்நிலை குழு விடுத்துள்ள எச்சரிக்கை
 
@@ -379,6 +393,26 @@ Sri Lanka expressed concern over the incidents, which have resulted in the loss 
 ...
 
 [Data](articles/80c2dbe5.json)
+
+---
+
+### කාම්බෝජය වහාම සටන් විරාමක් ඉල්ලයි
+
+*2025-07-26 12:29:46* · [`adalk`](https://www.ada.lk/international/කාම්බෝජය-වහාම-සටන්-විරාමක්-ඉල්ලයි/3-417513) · `si`
+
+තායිලන්තය සමඟ "වහාම" සටන් විරාමයක් අවශ්‍ය බව කාම්බෝජය සඳහන් කර තිබේ. දෙරට අතර මීට දින කිහිපයකට පමණ පෙර ආරම්භ වූ දේශසීමා ගැටුම්වලින් සිවිල් වැසියන් ඇතුළු පුද්ගලයින් 32 කට ආසන්න සංඛ්‍යාවක් මිය ගොස් තිබේ.
+
+එක්සත් ජාතීන්ගේ කාම්බෝජ තානාපති චීයා කියෝ පැවසුවේ තම රට "කොන්දේසි විරහිතව" සටන් විරාමයක් ඉල්ලා සිටි බවයි.
+
+තෙවන පාර්ශවීය මැදිහත්වීම ප්‍රතික්ෂේප කරන තායිලන්තය මෙම යෝජනාව පිළිබඳව ප්‍රසිද්ධියේ අදහස් දක්වා නොමැත. තායිලන්තය මීට පෙර කාම්බෝජයට මායිම්ව ඇති දිස්ත්‍රික්ක අටක යුද නීතිය ප්‍රකාශයට පත් කළේය.
+
+අග්නිදිග ආසියානු රටවල් දෙකෙහි මෑතදී ඇති වූ ගැටුම්වලින් පුද්ගලයින් 32 දෙනෙකු සොල්දාදුවන් සහ සිවිල් වැසියන්ද ඇතුළුව මිය ගොස් ඇති අතර 200,000 කට ආසන්න සංඛ්‍යාවක් අවතැන් ව තිබේ.
+
+බ්‍රහස්පතින්දා ආරම්භ වූ සටන්වලින් අනතුරුව පළමුව වෙඩි තැබීම සම්බන්ධයෙන්  රටවල් දෙක එකිනෙකාට චෝදනා කරමින් සිටියි.
+
+◼️
+
+[Data](articles/fda2ceeb.json)
 
 ---
 
@@ -1739,37 +1773,5 @@ A special Master Class was recently held at ‘Studio R’ by Beverage Specialis
 ...
 
 [Data](articles/45d8984d.json)
-
----
-
-### ComBank partners with Prime EV Automobile to offer special leasing options
-
-*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/combank-partners-with-prime-ev-automobile-to-offer-special-leasing-options/) · `en`
-
-The Commercial Bank of Ceylon has announced a collaboration with Prime EV Automobiles (Pvt) Ltd., a subsidiary of the Senok Group, to offer exclusive leasing options to buyers of the new electric vehicle range represented by the company in Sri Lanka.
-
-The Bank said these special leasing offers and benefits will be available till the end of 2025, and cover vehicle models such as E07 Deepal, S05 Deepal, L07 Deepal, S07 Deepal, K 50 pick-up and Lumin Changan manufactured by Changan Automobile in China.
-
-...
-
-[Data](articles/81a9f95c.json)
-
----
-
-### People’s Bank CEO/GM Challenge T20 League Tournament concludes in Batticaloa
-
-*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/peoples-bank-ceo-gm-challenge-t20-league-tournament-concludes-in-batticaloa/) · `en`
-
-People’s Bank Chief Executive Officer/General Manager Challenge T20 League Tournament 2025 was successfully held at the Koddaimunai Sports Village in Batticaloa, bringing together staff members from across the country in a spirited display of sportsmanship and team unity.
-
-K.G.P. Fighters won the tournament and were crowned champions, while PB Gladiators finished as runners-up. Colombo Challengers came in third and Dumbara Strikers took fourth place. Eranga Kumara from PB Gladiators was named Best Batsman, and Milan Kashalya, also from PB Gladiators, received the Best Bowler award.
-
-The tournament was played over eight days with eight teams in two groups. A total of 16 matches, including the final, were played, with 120 staff members.
-
-The final match was attended by Clive Fonseka, CEO/General Manager of People’s Bank, along with members of the Bank’s Corporate and Executive Management, showing the Bank’s strong support for staff engagement and wellbeing through sports.
-
-...
-
-[Data](articles/96ea1b55.json)
 
 ---

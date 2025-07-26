@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 12:50:30**
+As of **2025-07-26 13:05:47**
 
 ## Newspaper Stats
 
-*Scraped **66,881** Articles*
+*Scraped **66,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,39 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
-islandlk | 4,087
+islandlk | 4,090
 economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,413
 adaderanalk | 8,209
 tamilmirrorlk | 9,659
-virakesarilk | 11,147
+virakesarilk | 11,148
 adaderanasinhalalk | 11,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,881 articles have been extended.
+61,973 (92.7%) of 66,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### "இது நாடா அல்லது சுடுகாடா?" மன்னாரில் இடம்பெற்ற ஆர்ப்பாட்டம்
+
+*2025-07-26 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220990) · `ta`
+
+இலங்கையில் இதுவரை கண்டுபிடிக்கப்பட்ட மிகப்பெரிய மனித புதைகுழி மன்னாரில் உள்ள நிலையில், இலங்கையில் காணப்படும் அனைத்து மனித புதைகுழிகளையும் சர்வதேச தரத்திற்கு அமைய அகழ்வாய்வு செய்யுமாறு அரசாங்கத்தை வலியுறுத்தி போராட்டம் ஒன்று முன்னெடுக்கப்பட்டுள்ளது.
+
+“'எங்கே எங்கள் உறவுகள் எங்கே?,” “இலங்கை அரசே இது நாடா அல்லது இடுகாடா?”, “வேண்டும் வேண்டும் சர்வதேச விசாரணை வேண்டும்,” “மனிதனும் புதைகுழிக்குள் நீதியும் புதைகுழிக்குள்ளா”, போன்ற வாசகங்கள் எழுதப்பட்ட பதாகைகளைத் தாங்கியவாறு மன்னார், அடம்பன் சந்தியிலிருந்து திருக்கேதீஸ்வரம் மனித புதைகுழி வரை பேரணியாக சென்ற மன்னார் மக்கள், மனித புதைகுழிகள் குறித்த அகழ்வாய்வுகளை வெளிப்படையான முறையில் மேற்கொள்ளுமாறு அரசாங்கத்தை வலியுறுத்தினர்.
+
+...
+
+[Data](articles/12f259e7.json)
+
+---
 
 ### ரஜினி  தவறவிட்ட  அரசியலை  கெட்டியாக பிடித்துக்கொண்ட  கமல்…!
 
@@ -1140,6 +1154,38 @@ The PATA Gold Awards, now in their 41st year, remain the most prestigious accola
 
 ---
 
+### Cathay Pacific introduces daily flights between Colombo and Hong Kong
+
+*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/cathay-pacific-introduces-daily-flights-between-colombo-and-hong-kong/) · `en`
+
+Starting 1 September 2025, Hong Kong’s home carrier Cathay Pacific will be operating daily return flights — up from the current five flights per week — between Sri Lanka’s Bandaranaike International Airport and Hong Kong International Airport.
+
+These flights will be operated by the airline’s Airbus A330-300 aircraft, offering fully flat beds in Business class and spacious seats in Economy.
+
+Customers wishing to continue their journey to onward destinations can also take this opportunity to connect to flights to other cities via Cathay Pacific’s home hub, Hong Kong. These include destinations in the Chinese Mainland, including the wider Greater Bay Area, as well as other popular Asian destinations in Thailand, Japan, South Korea, and more.
+
+...
+
+[Data](articles/871ba848.json)
+
+---
+
+### OREL IT becomes first Sri Lankan firm to secure Tier III Data Centre certification
+
+*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/orel-it-becomes-first-sri-lankan-firm-to-secure-tier-iii-data-centre-certification/) · `en`
+
+‘This isn’t just about technology. It’s about Sri Lanka’s digital sovereignty’
+
+In a landmark achievement for Sri Lanka’s tech industry, OREL IT has earned the TIA-942-C Design Certification for its upcoming Tier III data centre in Nawinna, Maharagama – making it the first Sri Lankan company to attain this globally recognized standard.
+
+The certification validates the facility’s ability to deliver 99.982% uptime, placing it among the world’s most resilient data infrastructures and signaling Sri Lanka’s growing capacity to develop homegrown, enterprise-grade digital solutions.
+
+...
+
+[Data](articles/a3ef331b.json)
+
+---
+
 ### Sri Lanka – Pakistan Business Council holds 33rd AGM
 
 *2025-07-25 22:18:00* · [`islandlk`](http://island.lk/sri-lanka-pakistan-business-council-holds-33rd-agm/) · `en`
@@ -1163,6 +1209,22 @@ In a singular moment that rewrites the narrative of global manufacturing excelle
 ...
 
 [Data](articles/41bba1f2.json)
+
+---
+
+### Stock Market wraps up a green week as ASPI rises on robust trading
+
+*2025-07-25 22:16:00* · [`islandlk`](http://island.lk/stock-market-wraps-up-a-green-week-as-aspi-rises-on-robust-trading/) · `en`
+
+Trading activities were bullish yesterday due to conducive macroeconomic condition which was a boon to the stock market operations, market analysists said.
+
+The ASPI ended higher amid healthy turnover levels with most sectors witnessing advances. JKH, Overseas Reality and DFCC led market activity with crossings also seen in Sunshine Holdings and LIOC. Trading in JKH amounted to 9% of total turnover.
+
+In the retail market top seven companies that have mainly contributed to the turnover were Overseas Realty Rs 252 million (6.8 million shares traded), JKH Rs 252 million (6.8 million shares traded) JKH Rs 238 million (9.5 million shares traded), DFCC Rs 197 million (1.3 million shares traded), Central Finance Rs 183 million (615,000   shares traded), LB Finance Rs 123 million (913,000 shares traded), Lanka IOC Rs 93.6 million (673,000 shares traded) and NDB Rs 91.4 million (681,000 shares traded) During the day 200 million shares volumes changed hands in 34000 transactions.
+
+...
+
+[Data](articles/7caa6cbb.json)
 
 ---
 
@@ -1699,73 +1761,5 @@ Sri Lanka ranks 91st in the global visa index as of 2024, with access to 42 visa
 ◼️
 
 [Data](articles/2c7cc71b.json)
-
----
-
-### 'அய்யா' எனும் திரைப்படமாக உருவாகும் மருத்துவர் ராமதாஸின் வாழ்க்கை வரலாறு
-
-*2025-07-25 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/220949) · `ta`
-
-தமிழகத்தில் குறிப்பாக வட தமிழகத்தில் வாழும் கோடிக்கணக்கான வன்னிய இன மக்களின் எழுச்சிக்காக போராடி வரும் மருத்துவர் ராமதாஸின் வாழ்க்கை வரலாறு-  அவரின் பரிபூரண ஆசியுடன் 'அய்யா' என்ற பெயரில் திரைப்படமாக தயாராகிறது. இது தொடர்பான அதிகாரப்பூர்வமான அறிவிப்பு அவரது பிறந்த நாளன்று பிரத்யேக புகைப்படங்களை வெளியிட்டு படக்குழுவினர் அறிவித்துள்ளனர்.
-
-இயக்குநரும், நடிகருமான சேரன் இயக்கத்தில் உருவாகும் 'அய்யா' எனும் சுயசரிதை திரைப்படத்தில் நடிகரும், சமூக செயற்பாட்டாளருமான ஆரி அர்ஜுனன் கதையின் நாயகனாக நடிக்கிறார்.
-
-இந்த திரைப்படத்திற்கு ஏகாம்பரம் ஒளிப்பதிவு செய்ய கே. எஸ். சுந்தரமூர்த்தி இசையமைக்கிறார். மருத்துவர் ராமதாசின் அரசியல் சார்ந்த சம்பவங்கள் மற்றும் நடவடிக்கைகள் தொடர்பான வாழ்க்கை வரலாற்று படமாக உருவாகும் இந்த திரைப்படத்தை தமிழ் குமரன் புரொடக்ஷன்ஸ் பிரைவேட் லிமிடெட் நிறுவனம் சார்பில் தயாரிப்பாளர் ஜி. கே. எம். தமிழ் குமரன் தயாரிக்கிறார்.
-
-...
-
-[Data](articles/49125aca.json)
-
----
-
-### மாரீசன் - திரைப்பட விமர்சனம்
-
-*2025-07-25 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/220951) · `ta`
-
-நடிகர்கள்: வடிவேலு, பகத் பாசில், கோவை சரளா, விவேக் பிரசன்னா, சித்தாரா, பி. எல். தேனப்பன், லிவிங்ஸ்டன் மற்றும் பலர்.
-
-'மாமன்னன்' படத்தின் வெற்றிக்குப் பிறகு மீண்டும் வடிவேலு - பகத் பாசில் கூட்டணியில் உருவாகி இருப்பதாலும் இப்படத்தின் டீசரில் இரண்டு முரண்பட்ட குணாதிசயம் கொண்ட கதாபாத்திரங்களின் பயணத்தை மையப்படுத்திய படைப்பு என்ற எதிர்பார்ப்பை ஏற்படுத்தியதாலும் ரசிகர்கள் இப்படத்தைக் காண பட மாளிகைக்கு சென்றனர்.  அவர்களுக்கு படக் குழுவினர் 'தரமான சம்பவத்தை ' நிகழ்த்தினார்களா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
-
-தயாளன் ( பகத் பாசில்) சிறிய அளவிலான திருட்டுகளில் ஈடுபட்டு, காவல் துறையினரால் பிடிக்கப்பட்டு, சிறைக்கு சென்று வரும் திருடன். வேலாயுதம் பிள்ளை ( வடிவேலு) முதிய வயதில் உள்ளவர்.
-
-ஒரு தருணத்தில் தயாளன் திருட்டில் ஈடுபடும் போது வித்தியாசமான சூழலில் வேலாயுதம் பிள்ளையை சந்திக்கிறார். பணத்திற்காக அவரின் கோரிக்கையை ஏற்று அவருடன் பயணிக்கத் தொடங்குகிறார் தயாளன்.
-
-...
-
-[Data](articles/152b11bb.json)
-
----
-
-### Sri Lanka CIABOC arrests con artist asking bribe to save officials from probes
-
-*2025-07-25 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-ciaboc-arrests-con-artist-asking-bribe-to-save-officials-from-probes-232821/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commission to Investigate Allegations of Bribery or Corruption (CIABOC) arrested an artist who has asked for a bribe of Rs. 30,000 each from a principal and an Air Force officer to stop a probe against them by CIABOC.
-
-The artist was arrested late on Thursday near a bus stand in Kalutara, the CIABOC said in a statement.
-
-The artist has asked a principal in Mathugama area deposit Rs. 30,000/- in a bank account in return of stopping an existing CIABOC investigation promising that he can handover the investigation file to the principal and pursue officials to send a letter stating that there will be no probes further, the CIABOC said.
-
-The con artist also has asked the concerned Air Force officer to deposit Rs. 30,000 to prevent arrest by the CIABOC on an ongoing probe.
-
-The Director General of CIABOC in May has given a strong message to all government officials and the general public on the anti-corruption move under the new government.
-
-...
-
-[Data](articles/7577531f.json)
-
----
-
-### Sri Lanka apparel exports down 5.7-pct to US in June, up 23-pct to EU
-
-*2025-07-25 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-exports-down-5-7-pct-to-us-in-june-up-23-pct-to-eu-232819/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s apparel exports grew 5.2 percent in in June 2025, with shipments to exports down 5.7 percent, but EU up 23.1 percent, the Joint Apparel Association Forum said.
-
-From January to June, exports went up 8.95 percent with EU rising 16.7 percent, the US 4.1 percent and UK 6.4 percent.
-
-◼️
-
-[Data](articles/aacf3f22.json)
 
 ---

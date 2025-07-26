@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 22:06:37**
+As of **2025-07-26 22:22:09**
 
 ## Newspaper Stats
 
-*Scraped **66,926** Articles*
+*Scraped **66,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,416
 adaderanalk | 8,216
-tamilmirrorlk | 9,662
+tamilmirrorlk | 9,663
 virakesarilk | 11,163
-adaderanasinhalalk | 11,498
+adaderanasinhalalk | 11,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,926 articles have been extended.
+61,973 (92.6%) of 66,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### வீட்டின் அருகிலிருந்த ஆற்றில் விழுந்து குழந்தை மரணம்
+
+*2025-07-26 22:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டின்-அருகிலிருந்த-ஆற்றில்-விழுந்து-குழந்தை-மரணம்/76-361778) · `ta`
+
+திம்புள்ள பத்தனை பொலிஸ் பிரிவிற்குட்பட்ட டெவோன் நீர் வீழ்ச்சிக்கு நீர் ஏந்தி செல்லும் கொட்டகலை ரொசிட்ட பகுதியில் உள்ள ஆறு ஒன்றில் இருந்து இன்று 4 வயதுடைய பெண் குழந்தை சடலமாக மீட்கப்பட்டுள்ளார்.
+
+திருமண நிகழ்வு ஒன்றுக்கு செல்லவிருந்த நிலையில், தனது மகளை தயார் நிலையில் வைத்து விட்டு குழந்தையின் தாய் தயாராகி கொண்டிருந்த வேளை, குறித்த குழந்தை வீட்டின் அருகிலிருந்த ஆற்றில் தவறுதலாக விழுந்து நீரில் அடித்து செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பின்னர் குறித்த குழந்தையை தேடும் நடவடிக்கையில் பொலிஸார் மற்றும் பொதுமக்கள் இணைந்து ஈடுபட்ட போது சுமார் மூன்று மணித்தியாலங்களுக்கு பின்னர் நீரில் அடித்து செல்லப்பட்ட குழந்தை சடலமாக மீட்கப்பட்டு கொட்டகலை பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சடலமாக மீடகப்பட்ட குழந்தை கொட்டகலை ரொசிட்டா தோட்டத்தை சேர்ந்த நான்கு வயதுடைய கிரேக்சிக்கா நெகோமி என அடையாளம் காணப்பட்டுள்ளதோடு, சடலம் சட்டவைத்திய அதிகாரியின் பிரேத பரிசோதனைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாக பொலிஸார் மேலும் குறிப்பிட்டனர்.
+
+◼️
+
+[Data](articles/3199e8e1.json)
+
+---
+
+### වැව් රක්ෂිතයේ ඉඩම් ඇල්ලූ පිරිසට වෙන දේ ඇමති ලාල් කාන්ත හෙළි කරයි
+
+*2025-07-26 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212670) · `si`
+
+ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතාට අයත් හෝටලයක් වැව් රක්ෂිතයෙන් කොටසක් අල්ලාගෙන ඇත්නම් මාධ්‍ය හමුවක් පවත්වා ඉන් ඉවත් විය යුතු බව කෘෂිකර්ම, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී ලාල්කාන්ත මහතා පවසයි.
+
+මොණරාගලදී අද (26) පැවැති වාරි මහිම අපේ උරුම වැඩසටහන යටතේ මොණරාගල සියඹලාණ්ඩුව කොට්ඨාසයේ වැව් සහ ඇළ මාර්ග 04ක් ප්‍රතිසංස්කරණය කිරීමේ සමාරම්භක උත්සවයට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+එහිදී අමාත්‍යවරයා පැවසුවේ අනුරාධපුර නුවර වැව ආශ්‍රිතව කොටස් කිහිපයක් ජාතික ජන බලවේගයේ පිරිසක්ද අල්ලාගෙන ඇතැයි තමන්ට වාර්තා වී ඇති බවත් ඔවුන්ට ස්වේච්ඡාවෙන්ම ඉවත්වී යන ලෙස තමන් දැනුම් දුන් බවය.
+
+...
+
+[Data](articles/3d3590c6.json)
+
+---
 
 ### காணாமல் ஆக்கப்பட்டவர்களுக்கு சர்வதேச அளவில் ஏற்றுக்கொள்ளத்தக்க நீதி வேண்டும் - சிவஞானம் ஸ்ரீதரன்
 
@@ -1797,35 +1831,5 @@ A landmark gathering took place in Colombo this Wednesday, bringing together mem
 ...
 
 [Data](articles/80b26390.json)
-
----
-
-### Remembering Rajendram Rajamahendran: Legacy  of courage and compassion
-
-*2025-07-25 23:09:31* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-Rajendram-Rajamahendran-Legacy-of-courage-and-compassion/4-779488) · `en`
-
-Four years have passed since we lost Rajendram Rajamahendran, a titan whose life was a testament to resilience, love for his homeland, and compassion for its people.
-
-As we honour his memory, we reflect on his remarkable career and the essence of the man – his spirit, convictions, and profound impact on countless lives and Sri Lanka’s fabric.
-
-Rajamahendran faced immense challenges, including death threats and the destruction of his assets. Yet, he chose to rebuild, driven by a fierce determination to affirm his vision and rights. His pragmatism in the face of danger was legendary, and his concern for others, even in perilous times, highlighted his empathy and sense of responsibility. This unwavering commitment to his goals and values inspired countless individuals to stand by him and work towards a common purpose.
-
-...
-
-[Data](articles/38907f9f.json)
-
----
-
-### Addressing black carbon for double impact on climate and health
-
-*2025-07-25 23:06:26* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-black-carbon-for-double-impact-on-climate-and-health/4-779487) · `en`
-
-Action on black carbon offers significant opportunities for double impact on addressing the climate-health nexus
-
-Short-lived climate pollutants (SCPs), also known as super pollutants, have contributed to almost half of global warming to date and play an outsized role in pushing Earth toward dangerous tipping points. One of these pollutants, black carbon—fine particulate matter resulting from incomplete combustion, such as in cookstoves, diesel engines, or waste burning—offers significant opportunities for double impact on addressing the climate-health nexus. Its dual identity as a potent climate forcer and air pollutant places black carbon at the intersection of climate change mitigation and public health.
-
-...
-
-[Data](articles/cd60d0e6.json)
 
 ---

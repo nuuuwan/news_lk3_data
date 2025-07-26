@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 19:12:22**
+As of **2025-07-26 19:48:24**
 
 ## Newspaper Stats
 
-*Scraped **66,913** Articles*
+*Scraped **66,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,415
-adaderanalk | 8,211
+adaderanalk | 8,215
 tamilmirrorlk | 9,662
-virakesarilk | 11,157
-adaderanasinhalalk | 11,497
+virakesarilk | 11,159
+adaderanasinhalalk | 11,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,913 articles have been extended.
+61,973 (92.6%) of 66,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### කඩොලාන වනාන්තර 08ක් රක්ෂිත ලෙස ප්‍රකාශයට පත් කරයි
+
+*2025-07-26 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212669) · `si`
+
+2025 ජගත් පරිසර දිනය නිමිත්තෙන් “කඩොලානට දලුලන්න ඉඩදෙන්න” වැඩසටහන යටතේ කඩොලාන වනාන්තර 08ක් රක්ෂිත කිරීමේ වැඩසටහන අද (26) පාලවිය, කරඹ දී පැවැත්විණි.
+
+ජගත් පරිසර දිනයට සමාගාමීව සිදු කරන ලද පාරිසරික සංරක්ෂණ ක්‍රියාවලියේ ඉදිරි පියවරක් ලෙස වනස්පති ජාතික වැඩසටහන පසුගිය 15 වැනිදා ආරම්භ වූ අතර එම වනස්පති වැඩසටහන යටතේ අම්පාර සහ මොණරාගල දිස්ත්‍රික්කයන් කේන්ද්‍ර කර ගනිමින් රක්ෂිත 16ක් නම් කෙරිණි.
+
+ඒ අනුව ලංකාවේ පවතින වනාන්තර රක්ෂිත කර ආරක්ෂා කිරීමේ ජාතික වැඩසටහනේ තවත් පියවරක් ලෙස කඩොලාන පරිසර පද්ධති ආරක්ෂා කර රැක ගැනීම සඳහා නව රජයේ පරිසර ප්‍රතිපත්තියට අනුකූලව “කඩොලානට දලුලන්න ඉඩදෙන්න” නමින් නව වැඩසටන අද දින (26)  සිට ආරම්භ විය.
+
+මේ වැඩසටහන ඔස්සේ ලංකාවේ විවිධ කඩොලාන පවතින ප්‍රදේශ තෝරාගනිමින් කඩොලාන වනාන්තර රක්ෂිත කර ආරක්ෂා කරනු ලබයි.
+
+...
+
+[Data](articles/2e7c73b5.json)
+
+---
+
+### தமிழர் சிறைப்படுகொலை வீரர்களுக்கு அஞ்சலி - விடுதலை கவனயீர்ப்பு நிகழ்வுகள்  கிட்டுப் பூங்காவில்
+
+*2025-07-26 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221024) · `ta`
+
+இலங்கை சிறைகளில் படுகொலை செய்யப்பட்ட தமிழ் அரசியற் கைதிகளுக்கு நீதி வேண்டிய நினைவேந்தலும், நீண்ட காலமாக தடுத்து வைக்கப்பட்டுள்ளவர்களது விடுதலையை நோக்கிய “விடுதலை” எனும் தொனிப்பொருளிலான கவனயீர்ப்பின் இரண்டாம் நாள் நிகழ்வுகள் நேற்றைய தினம் வெள்ளிக்கிழமை (25) கிட்டுப் பூங்காவில் நடைபெற்றது.
+
+குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் மு.கோமகனின் ஒருங்கிணைப்பில் நடைபெற்ற இரண்டாம் நாள் நிகழ்வுகளில் சிறைப்படுகொலை நினைவேந்தல் மற்றும் அரங்க நிகழ்வுகள் நடைபெற்றன.
+
+மேலும், விடுதலை நீர் கையளிப்பு, சிறைக்கூட உணர்வு கண்காட்சி ஆகியன இரு தினங்களாக நடைபெற்று வருவதோடு, தாயகத்தின் கிழக்குப் பிராந்தியத்திலிருந்து விடுதலை நீர் கையளிக்கப்பட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+
+குறித்த நிகழ்வின் போது மதத் தலைவர்கள், அரசியற் கட்சிச் செயற்பாட்டாளர்கள், அரசியற் கைதிகளின் குடும்பத்தினர், விடுவிக்கப்பட்ட முன்னாள் அரசியற் கைதிகள், குடிமக்கள், சமூகச் செயற்பாட்டாளர்கள், பல்கலைக்கழக மாணவர்கள், பொதுமக்கள் என பெருந்திரளானோர் பங்குகொண்டிருந்ததோடு, விடுதலை நீர் கையளிப்பிலும் ஈடுபட்டிருந்தனர்.
+
+◼️
+
+[Data](articles/9547add2.json)
+
+---
+
+### வலிகாமம் கிழக்கு பிரதேச சபையில் கறுப்பு ஜூலை நினைவேந்தல்
+
+*2025-07-26 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221017) · `ta`
+
+வலிகாமம் கிழக்கு பிரதேச சபையில் கறுப்பு ஜூலை நினைவேந்தல் நிகழ்வுகள் தவிசாளர் தியாகராஜா நிரோஷ் தலைமையில் இடம்பெற்றன.
+
+இன்று சனிக்கிழமை காலை  பிரதேச சபை முன்றலில் கறுப்பு ஜூலை இன அழிப்பில் படுகொலை செய்யப்பட்ட பொதுமக்கள் மற்றும் வெலிக்கடைச் சிறைச்சாலையில் படுகொலை கொலை செய்யப்பட்ட அரசியல் கைதிகளையும் நினைந்து அகவணக்கம் செலுத்தப்பட்டது.
+
+அதனைத் தொடர்ந்து பொது ஈகைச் சுடரினை தவிசாளர் ஏற்றி வைத்ததைத் தொடர்ந்து உறுப்பினர்கள் அஞ்சலிச் சுடர் விளக்குகளை ஏற்றி வைத்து அஞ்சலி
+
+மாறி மாறி ஆட்சி மாற்றங்கள் இடம்பெற்றன.  எனினும் இலங்கை அரச கொள்கை தமிழ் மக்களுக்கான நீதியை வழங்க முடியாத ஒன்றாகக் காணப்படுவதனாலும் அரச இயந்திரமும் மக்கள் சமூகமும் இனவாதமயப்படுத்தப்பட்டுள்ளமையின் விளைவினாலும் தமிழ் மக்களுக்கான நீதி பொறுப்புக்கூறல் கிட்டவில்லை. நாம் வரலாற்று ரீதியாக ஏமாற்றப்பட்ட நிலையில் சர்வதேச நீதி ஒன்றே எமக்குத் தீர்வாகும் என்பதை முன்வைக்கின்றோம்.
+
+கறுப்பு ஜூலை கலவரத்தின் போது அரச அனுசரணையில், ஊக்குவிப்பில், பங்கேற்பில், முன்னெடுப்பில் சகல படுகொலைகளும் தமிழ் மக்கள் மீதான பாரதூரமான மனித உரிமை மீறல்களும் இடம்பெற்றன.
+
+...
+
+[Data](articles/15d5a863.json)
+
+---
+
+### Four including cops arrested for killing pregnant deer remanded
+
+*2025-07-26 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110857/four-including-cops-arrested-for-killing-pregnant-deer-remanded) · `en`
+
+The four suspects, including two Police Sergeants, who were arrested in connection with the killing of a pregnant deer within the Heenugala Reserve at Makulugaswewa, Galewela, have been remanded until August 01 by the Dambulla Magistrate’s Court.
+
+Dambulla Acting Magistrate Dulanjali Sithumini issued this order after the suspects were produced before the court today (26).
+
+However, the police informed the acting magistrate that steps had been taken to admit one of the suspects to the Dambulla Base Hospital due to his health condition.
+
+The Dambulla Assistant Superintendent of Police (ASP) had also taken steps to present three firearms allegedly used to kill the pregnant doe to the court.
+
+The two civilians have been charged with killing a deer and possession of firearms, while the two police officers have been charged with aiding and abetting the killing of the pregnant deer within a forest reserve.
+
+...
+
+[Data](articles/bbfbf81c.json)
+
+---
 
 ### යළි කරළියට ආ පොලිස්පති පුටුව
 
@@ -93,6 +169,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3a30bac9.json)
+
+---
+
+### Nine killed in courthouse attack in Iran’s Sistan-Baluchestan province
+
+*2025-07-26 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110856/nine-killed-in-courthouse-attack-in-irans-sistan-baluchestan-province) · `en`
+
+At least nine people were killed in an armed attack by the Sunni Jaish al-Adl Baluch group on a courthouse in Iran’s restive Sistan-Baluchestan province on Saturday, including three of the assailants, state media reported.
+
+Jaish al-Adl confirmed the deaths of its three members in the clashes with security forces in Zahedan, the capital of the far southeastern province bordering Pakistan and Afghanistan. Sistan-Baluchestan is home to Iran’s Sunni Muslim Baluch minority, who have long complained of economic marginalisation and political exclusion.
+
+A toddler and a 60-year-old woman were among those killed, as well as three soldiers and law enforcement personnel assigned to the courthouse, the head of the province’s judiciary told IRNA. He did not identify the sixth dead person.
+
+He said the attackers wore explosive vests and carried grenades. It was not clear if they had detonated them.
+
+...
+
+[Data](articles/a2efb6d7.json)
 
 ---
 
@@ -188,6 +282,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 809 schools designated as ‘national schools’ in name only – COPA reveals
+
+*2025-07-26 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110855/809-schools-designated-as-national-schools-in-name-only-copa-reveals) · `en`
+
+It has been revealed during a meeting of the Committee on Public Accounts (COPA) that a sum of over Rs. 2.4 million has been spent solely on name boards to designate 809 provincial schools as national schools.
+
+However, it has come to light that these schools have been designated as national schools in name only, with no substantive changes implemented to reflect their new status.
+
+These findings were disclosed during a recent session of COPA, in which officials from the Ministry of Education were summoned for questioning.
+
+Furthermore, the committee has recommended that the Ministry of Education submit a comprehensive report within three months regarding the program launched by the previous government to increase the number of national schools to 1,000, along with details of the 72 projects initiated under the State Ministry.
+
+◼️
+
+[Data](articles/fbab9186.json)
+
+---
+
 ### විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
 *2025-07-26 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212663) · `si`
@@ -203,6 +315,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/861d5b37.json)
+
+---
+
+### Navy arrests 65 for engaging in illegal fishing activities
+
+*2025-07-26 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110854/navy-arrests-65-for-engaging-in-illegal-fishing-activities-) · `en`
+
+In a series of separate operations conducted within nearly two weeks between 09 and 22 July, the Sri Lanka Navy has apprehended a total of 65 individuals involved in various illegal fishing activities across multiple locations around the island.
+
+According to the Navy, the operations also led to the seizure of 16 dinghies used in these illegal practices.
+
+The operations were carried out by the Eastern, Northwestern, and North Central Naval Commands in the areas of Salpearu, Uppural, Polmalkuda, Nilaveli, and Maleimunthal in Trincomalee; Ippantivu in Mannar; and the Mannar North coastal region.
+
+The individuals (65) were arrested for engaging in activities such as fishing with unauthorized nets, light-coarse fishing, and the transportation of sea cucumbers and conch shells without valid licenses.
+
+In addition to the dinghies, 05 unauthorized fishing nets were also seized during the operations, said Navy.
+
+...
+
+[Data](articles/ab3172df.json)
 
 ---
 
@@ -916,11 +1048,11 @@ A total of 7 grams and 500 milligrams of crystal methamphetamine were recovered 
 
 *2025-07-26 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110848/more-details-revealed-in-pregnant-deer-killing-incident-involving-police-officers) · `en`
 
-Police have uncovered more details during the interrogation of suspects arrested in connection with the illegal killing of a pregnant deer that was pregnant in the Makulugaswewa area of the Heenugala Reserve, Galewela.
+Police have uncovered more details during the interrogation of suspects arrested in connection with the illegal killing of a pregnant deer in the Makulugaswewa area of the Heenugala Reserve, Galewela.
 
-During the interrogation of suspects arrested, another suspect has been apprehended as a result of ongoing investigations, said Dambulla Assistant Superintendent of Police (ASP) W. G. M. M. Chandrasiri.
+Following the interrogation of suspects arrested, another suspect has been apprehended as a result of ongoing investigations, said Dambulla Assistant Superintendent of Police (ASP) W. G. M. M. Chandrasiri.
 
-Police have also seized three unlicensed 12-bore firearms during the interrogation, he said.
+Police have also seized three unlicensed 12-bore firearms after the interrogation of the arrestees, he said.
 
 Initial arrests were made yesterday (July 25), involving two police sergeants and a civilian. Interrogation of the suspects revealed that two individuals from the Wahakotte area had entered the reserve to hunt deer. It was further disclosed that one of the suspects is the brother of a serving police sergeant.
 
@@ -1685,111 +1817,5 @@ The PATA Gold Awards, now in their 41st year, remain the most prestigious accola
 ...
 
 [Data](articles/50d4f195.json)
-
----
-
-### Cathay Pacific introduces daily flights between Colombo and Hong Kong
-
-*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/cathay-pacific-introduces-daily-flights-between-colombo-and-hong-kong/) · `en`
-
-Starting 1 September 2025, Hong Kong’s home carrier Cathay Pacific will be operating daily return flights — up from the current five flights per week — between Sri Lanka’s Bandaranaike International Airport and Hong Kong International Airport.
-
-These flights will be operated by the airline’s Airbus A330-300 aircraft, offering fully flat beds in Business class and spacious seats in Economy.
-
-Customers wishing to continue their journey to onward destinations can also take this opportunity to connect to flights to other cities via Cathay Pacific’s home hub, Hong Kong. These include destinations in the Chinese Mainland, including the wider Greater Bay Area, as well as other popular Asian destinations in Thailand, Japan, South Korea, and more.
-
-...
-
-[Data](articles/871ba848.json)
-
----
-
-### OREL IT becomes first Sri Lankan firm to secure Tier III Data Centre certification
-
-*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/orel-it-becomes-first-sri-lankan-firm-to-secure-tier-iii-data-centre-certification/) · `en`
-
-‘This isn’t just about technology. It’s about Sri Lanka’s digital sovereignty’
-
-In a landmark achievement for Sri Lanka’s tech industry, OREL IT has earned the TIA-942-C Design Certification for its upcoming Tier III data centre in Nawinna, Maharagama – making it the first Sri Lankan company to attain this globally recognized standard.
-
-The certification validates the facility’s ability to deliver 99.982% uptime, placing it among the world’s most resilient data infrastructures and signaling Sri Lanka’s growing capacity to develop homegrown, enterprise-grade digital solutions.
-
-...
-
-[Data](articles/a3ef331b.json)
-
----
-
-### Sri Lanka – Pakistan Business Council holds 33rd AGM
-
-*2025-07-25 22:18:00* · [`islandlk`](http://island.lk/sri-lanka-pakistan-business-council-holds-33rd-agm/) · `en`
-
-The 33rd Annual General Meeting of the Sri Lanka – Pakistan Business Council (SLPBC) was held recently, attended by Major General (R) Faheem Ul Aziz, HI (M) High Commissioner of Pakistan in Sri Lanka at Cinnamon Lakeside, Colombo.
-
-Wasantha de Silva, Managing Director DMW Ventures (Pvt) Ltd was elected as President of SLPBC for 2025/26, while Feroze Haji Anver from Cliftex Industries (Pvt) Ltd and Perakum Mahasen Abeysekera from Vinu International Trading Company (Pvt)Ltd were elected Vice Presidents, and M. Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer. Indhra Kaushal Rajapaksa Chairman/Managing Director of the Kalhari Group of Companies will serve the committee as Immediate Past President.
-
-...
-
-[Data](articles/b2a363c6.json)
-
----
-
-### Macktiles Lanka makes history in ‘porcelain perfection’ with 100pct Sri Lankan minerals
-
-*2025-07-25 22:17:00* · [`islandlk`](http://island.lk/macktiles-lanka-makes-history-in-porcelain-perfection-with-100pct-sri-lankan-minerals/) · `en`
-
-In a singular moment that rewrites the narrative of global manufacturing excellence, Macktiles Lanka (Private) Limited has achieved what was once considered impossible: creating authentic real porcelain tiles using exclusively Sri Lankan minerals. The island’s extraordinary geological wealth has now proven its potential extends far beyond traditional applications, with Macktiles unlocking the manufacturing capabilities of these mineral-rich deposits to create porcelain that doesn’t just meet international standards but obliterates them.
-
-...
-
-[Data](articles/41bba1f2.json)
-
----
-
-### Stock Market wraps up a green week as ASPI rises on robust trading
-
-*2025-07-25 22:16:00* · [`islandlk`](http://island.lk/stock-market-wraps-up-a-green-week-as-aspi-rises-on-robust-trading/) · `en`
-
-Trading activities were bullish yesterday due to conducive macroeconomic condition which was a boon to the stock market operations, market analysists said.
-
-The ASPI ended higher amid healthy turnover levels with most sectors witnessing advances. JKH, Overseas Reality and DFCC led market activity with crossings also seen in Sunshine Holdings and LIOC. Trading in JKH amounted to 9% of total turnover.
-
-In the retail market top seven companies that have mainly contributed to the turnover were Overseas Realty Rs 252 million (6.8 million shares traded), JKH Rs 252 million (6.8 million shares traded) JKH Rs 238 million (9.5 million shares traded), DFCC Rs 197 million (1.3 million shares traded), Central Finance Rs 183 million (615,000   shares traded), LB Finance Rs 123 million (913,000 shares traded), Lanka IOC Rs 93.6 million (673,000 shares traded) and NDB Rs 91.4 million (681,000 shares traded) During the day 200 million shares volumes changed hands in 34000 transactions.
-
-...
-
-[Data](articles/7caa6cbb.json)
-
----
-
-### President AKD holds virtual tariff talks with US Trade Representative
-
-*2025-07-25 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110844/president-akd-holds-virtual-tariff-talks-with-us-trade-representative) · `en`
-
-A virtual discussion was held this evening (25) between President Anura Kumara Dissanayake and U.S. Trade Representative (USTR) Jamieson Greer regarding the further reduction of trade tariffs imposed by the United States on Sri Lankan exports.
-
-The primary objective of the virtual meeting was to discuss the further reduction of proposed trade tariffs on Sri Lankan exports and to further strengthen trade and investment relations between the two nations.
-
-The Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with senior officials from the Office of the United States Trade Representative, also participated in the discussion.
-
-◼️
-
-[Data](articles/6a4ff43d.json)
-
----
-
-### පසුගිය දින කිහිපය තුළ වනඅලි 21ක් වෙඩි කයි
-
-*2025-07-25 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212647) · `si`
-
-පසුගිය දිනවල වනඅලි 21ක් වෙඩි ප්‍රහාරවලට ලක්වී ඇති බවත් එම සිදුවීම්වල සමාන තත්ත්වයත් නිරීක්ෂණය වන හෙයින් ඒ පිළිබඳ විශේෂ විමර්ශනයක් ආරම්භ කර ඇති බව පරිසර නියෝජ්‍ය අමාත්‍ය ඇන්ටන් ජයකොඩි මහතා පවසයි.
-
-විවිධ හේතුන් මත වනඅලි ජීවිතක්ෂයට පත්වීමේ සිදුවීම් රැසක්ම දිවයිනේ ප්‍රදේශ කිහිපයකින් වාර්තා වුණි.
-
-'භාතිය ඇතා'ගේ මරණයත් සමඟ මුළු රටේම අවධානය වන අලි මරණ සඳහා යොමුවීම මෑතකාලීනව දැකගත හැකි විය.
-
-◼️
-
-[Data](articles/d3cbcc32.json)
 
 ---

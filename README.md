@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 09:48:01**
+As of **2025-07-26 10:08:56**
 
 ## Newspaper Stats
 
-*Scraped **66,859** Articles*
+*Scraped **66,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,26 +17,44 @@ economynextcom | 4,094
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,410
-adaderanalk | 8,202
+adaderanalk | 8,206
 tamilmirrorlk | 9,656
 virakesarilk | 11,144
-adaderanasinhalalk | 11,483
+adaderanasinhalalk | 11,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,859 articles have been extended.
+61,973 (92.7%) of 66,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
 
+### ලලිත් කන්නන්ගරගේ ගෝලයින් 4ක් අත්අඩංගුවට
+
+*2025-07-26 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212655) · `si`
+
+ඩුබායි රාජ්‍යයේ රැඳීසිටිමින් මෙරට සංවිධානාත්මක අපරාධ ජාලය මෙහෙයවන 'බස් ලලියා' හෙවත් ලලිත් කන්නන්ගරගේ මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන පුද්ගලයින් 4 දෙනෙකු අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකා හංවැල්ල යතුරුපැදි ඒකකයේ උප පොලිස් පරීක්ෂක නුවන් තිලකරත්න ඇතුළු කණ්ඩායම විසින් සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+එම නිලධාරීන්ට ලද තොරතුරක් මත මාර්ග බාධකයක් යොදා පරීක්ෂා කිරීම් සිදුකරමින් සිටියදී මාර්ග බාධකය මගහැර පලා යෑමට තැත් කිරීමේදී සැකකරුවන් අත්අඩංගුවට පත්වී තිබේ.
+
+සැකකරුවන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 7යි මිලිග්‍රෑම් 500ක් සොයාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/4a786243.json)
+
+---
+
 ### ටිම් ඩේවිඩ්ගේ ඉනිමෙන් ඔස්ට්‍රේලියාවට සුපිරි ජයක්
 
 *2025-07-26 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212653) · `si`
 
-ටිම් ඩේවිඩ්ගේ ප්‍රහාරත්මක ඉනිම හේතුවෙන් බ.ඉ. කොදෙව් කණ්ඩායමට එරෙහි තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයෙන්ද කඩුලු 6ක පහසු ජයක් ලැබීමට සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම සමත් විය.
+ටිම් ඩේවිඩ්ගේ ප්‍රහාරත්මක ඉනිම හේතුවෙන් බ.ඉ. කොදෙව් කණ්ඩායමට එරෙහි තෙවන විස්සයි20 ක්‍රිකට් තරගයෙන්ද කඩුලු 6ක පහසු ජයක් ලැබීමට සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම සමත් විය.
 
 ශා. කිට්ස්හි වර්නර් පාක් ක්‍රීඩාංගණයේ පැවති මෙම තරගය මේරට වේලාවෙන් අද (26) පෙරවරුවේ අවසන් විය.
 
@@ -110,6 +128,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### More details revealed in pregnant deer killing incident involving police officers
+
+*2025-07-26 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110848/more-details-revealed-in-pregnant-deer-killing-incident-involving-police-officers) · `en`
+
+Police have uncovered more details during the interrogation of suspects arrested in connection with the illegal killing of a pregnant deer that was pregnant in the Makulugaswewa area of the Heenugala Reserve, Galewela.
+
+During the interrogation of suspects arrested, another suspect has been apprehended as a result of ongoing investigations, said Dambulla Assistant Superintendent of Police (ASP) W. G. M. M. Chandrasiri.
+
+Police have also seized three unlicensed 12-bore firearms during the interrogation, he said.
+
+Initial arrests were made yesterday (July 25), involving two police sergeants and a civilian. Interrogation of the suspects revealed that two individuals from the Wahakotte area had entered the reserve to hunt deer. It was further disclosed that one of the suspects is the brother of a serving police sergeant.
+
+After the deer was killed, the suspects allegedly sought assistance from the police sergeant brother, as several local residents had witnessed the incident.
+
+...
+
+[Data](articles/2b653df4.json)
+
+---
+
+### Govt to launch ‘Think Tank’ for rural economic revitalization, says PM
+
+*2025-07-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110847/govt-to-launch-think-tank-for-rural-economic-revitalization-says-pm) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that the government will initiate steps to establish a National Industrial Planning Think Tank centered on revitalizing the rural economy and the necessary technical, scientific, and advisory support would be provided through that initiative to strengthen businesses across Sri Lanka.
+
+The Prime Minister made these remarks while participating in the 40th Anniversary celebration of the Regional Development Bank (RDB) held on July 25 at the Bandaranayaka Memorial International Conference Hall, according to the Prime Minister’s Media Division.
+
+At the event, the official launch of “RDB Quick App” online banking facility and the opening of the exhibition on business product stalls held for three consecutive days were initiated by the Prime Minister to the public in line with the anniversary celebration.
+
+...
+
+[Data](articles/7de5386b.json)
+
+---
+
 ### செம்மணியில் வெளிவந்த சவப் பெட்டி
 
 *2025-07-26 08:06:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-வெளிவந்த-சவப்-பெட்டி/175-361764) · `ta`
@@ -147,6 +201,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/71497ccb.json)
+
+---
+
+### Cambodia calls for immediate ceasefire with Thailand
+
+*2025-07-26 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110846/cambodia-calls-for-immediate-ceasefire-with-thailand) · `en`
+
+Cambodia has called for an “immediate” ceasefire with Thailand, after two days of cross-border fighting between the two South East Asian neighbours.
+
+Cambodia’s ambassador to the UN, Chhea Keo, said his country asked for a truce “unconditionally”, adding that Phnom Penh also wanted a “peaceful solution of the dispute”.
+
+Thailand has not publicly commented on the ceasefire proposal. It earlier declared martial law in eight districts bordering Cambodia.
+
+At least 16 people have been killed and tens of thousands displaced in both countries, who accuse each other of firing the first shots on Thursday.
+
+Thailand’s acting Prime Minister Phumtham Wechayachai on Friday warned that the clashes could “move towards war”.
+
+He said the fighting now included heavy weapons and had spread to 12 locations along the border.
+
+Thailand also accused Cambodia of firing into civilian areas and evacuated all villages deemed to be within the radius of its rockets.
+
+...
+
+[Data](articles/8bab812e.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2025-07-26 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110845/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department states that showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
+
+Several spells of showers will occur in the North-western province and a few showers may occur in the Northern province.
+
+Fairly strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern and North-central provinces and in Puttalam, Trincomalee, and Hambantota districts., the Met. Department added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/60436a8b.json)
 
 ---
 
@@ -1685,99 +1781,5 @@ Thailand’s acting Prime Minister Phumtham Wechayachai said Cambodia had launch
 ...
 
 [Data](articles/44bb9bf8.json)
-
----
-
-### රජයේ මුදල් පිළිබඳ කාරක සභාවේ පුරප්පාඩුවට නිශාන්ත ජයවීර පත් කෙරේ
-
-*2025-07-25 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212633) · `si`
-
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සහ ක්‍රම හා විධි පිළිබඳ කාරක සභාවේ ඇති වූ පුරප්පාඩුව සඳහා පාර්ලිමේන්තු මන්ත්‍රී නිශාන්ත ජයවීර මහතා නම් කිරීමට පියවර ගෙන තිබේ.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වූ හර්ෂණ සූරියප්පෙරුම මහතා සිය මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීම හේතුවෙන් ඇති වූ රජයේ මුදල්  පිළිබඳ කාරක සභාවේ සහ ක්‍රම හා විධි පිළිබඳ කාරක සභාවල පුරප්පාඩු ඇති විය.
-
-ඒ අනුව එකී පුරප්පාඩු සඳහා පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 130 (03) හී විධි විධාන ප්‍රකාරව ජූලි 24 දින තේරිම් කාරක සභාව විසින් නිශාන්ත ජයවීර මහතා එම කාරක සභාවල සේවය කිරීම පිණිස නම් කරන බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (25) පාර්ලිමේන්තුවේදී පැවසීය.
-
-◼️
-
-[Data](articles/822ef6ca.json)
-
----
-
-### Japanese team in Sri Lanka to study expanding investment opportunities
-
-*2025-07-25 15:47:00* · [`economynextcom`](https://economynext.com/japanese-team-in-sri-lanka-to-study-expanding-investment-opportunities-232783/) · `en`
-
-ECONOMYNEXT – A delegation from the Japanese Ministry of Economy, Trade, and Industry, and representatives from the country’s commercial and industrial sectors are on a visit to Sri Lanka to explore investment expansion.
-
-“The Japanese delegation has arrived to look into expanding Japanese investment in Sri Lanka,” the president’s media division said.
-
-The delegation discussed new investment opportunities with president’s secretary Nandika Sanath Kumanayake.
-
-They are also scheduled to discuss investments with Sri Lankan public and private companies. (Colombo/Jul25/2025)
-
-◼️
-
-[Data](articles/d4cafb82.json)
-
----
-
-### பெண்ணொருவரை விபத்துக்குள்ளாக்கி துண்டிக்கப்பட்ட காலுடன் மோட்டார் சைக்கிளில் தப்பிச் சென்ற மாணவன்
-
-*2025-07-25 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/220890) · `ta`
-
-பெண்ணொருவரை விபத்துக்குள்ளாக்கி துண்டிக்கப்பட்ட காலுடன் மோட்டார் சைக்கிளில் மாணவனொருவர் தப்பிச் சென்ற சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-அக்மீமன ஹினிதும்கொட கனிஷ்ட பாடசாலைக்கு அருகில் நேற்று வியாழக்கிழமை (24) இந்த சம்பவம் இடம்பெற்றுள்ளது.
-
-தனது பிள்ளைகளுடன் வீதியில் நடத்து சென்று கொண்டிருந்த பெண்ணொருவர் மீது மாணவனொருவர் ஓட்டிச் சென்ற மோட்டார் சைக்கிள் மோதி விபத்து ஏற்பட்டுள்ளது.
-
-இதன்போது, பெண்ணின் காலின் ஒரு பகுதி துண்டிக்கப்பட்டு மோட்டார் சைக்கிளில் சிக்கியுள்ளது. இந்நிலையில், விபத்தை ஏற்படுத்திய மாணவன் அங்கிருந்து மோட்டார் சைக்கிளில் தப்பிச் சென்றுள்ளான்.
-
-தப்பிச் சென்ற மாணவன்  மோட்டார் சைக்கிளில் சிக்கியிருந்த காலை அருகிலுள்ள காட்டுப் பகுதியில் வீசி சென்றுள்ளார்.
-
-விரைந்து நடவடிக்கை எடுத்த அக்மீமன பொலிஸார் வீட்டில் மறைந்திருந்த மாணவனை கைது செய்து பெண்ணின் காலை காட்டுப்பகுதியில் இருந்து  மீட்டுள்ளனர்.
-
-பெண்ணின்  துண்டிக்கப்பட்ட  கால் பகுதி சுமார் இரண்டு மணி நேரத்திற்குப் பின்னரே வைத்தியசாலை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/97182282.json)
-
----
-
-### தாய்லாந்து - கம்போடியா ராணுவ மோதலால் பெரும் பதற்றம்:  1,38,000 மக்கள் தஞ்சம்
-
-*2025-07-25 15:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-ராணுவ-மோதலால்-பெரும்-பதற்றம்-1-38-000-மக்கள்-தஞ்சம்/50-361750) · `ta`
-
-தாய்லாந்து - கம்போடியா இடையே நடைபெற்று வரும் ராணுவ மோதல் காரணமாக எல்லையில் பதற்றம் அதிகரித்துள்ளது. இதன் காரணமாக, எல்லை பகுதியில் வசிக்கும் இரு நாடுகளைச் சேர்ந்த மக்களும் இடத்தை காலி செய்து பாதுகாப்பான இடங்களுக்கு நகர்ந்து வருகின்றனர். தாய்லாந்து எல்லையில் இருந்து 1,38,000 பேர் பாதுகாப்பான இடங்களுக்குச் சென்றுள்ளதாக அரசு தரப்பில் தெரிவிக்கப்பட்டுள்ளது.
-
-அண்டை நாடுகளான தாய்லாந்து - கம்போடியா இடையே நீண்ட காலமாக எல்லைப் பிரச்சினை இருந்து வருகிறது. தாய்லாந்தின் சுரின் மாகாண எல்லையில் உள்ள தா மியூன் தோம் எனும் இந்து கோயிலை மையமாக வைத்து இந்த எல்லைப் பிரச்சினை இருந்து வருகிறது.
-
-இந்த கோயில், தங்கள் நாட்டுக்குச் சொந்தமானது என கம்போடியா கூறி வரும் நிலையில், தாய்லாந்து அது தங்கள் நாட்டுக்கு உரியது என உரிமை கோரி வருகிறது. இந்நிலையில், இரு நாடுகளுக்கும் இடையே எல்லையில் மீண்டும் பதற்றம் அதிகரித்து ராணுவ மோதல்கள் இரண்டாவது நாளாக நடைபெற்று வருகின்றன.
-
-...
-
-[Data](articles/130a49f8.json)
-
----
-
-### மாலைதீவு செல்கிறார் ஜனாதிபதி அநுர குமார திசாநாயக்க
-
-*2025-07-25 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/220914) · `ta`
-
-மாலைதீவு ஜனாதிபதி முகமது முய்சுவின் அழைப்பின் பேரில் ஜனாதிபதி அநுர குமார திசாநாயக்க எதிர்வரும் திங்கட்கிழமை (28) உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு மாலைதீவுக்கு செல்லவுள்ளதாக வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
-
-ஜனாதிபதியாக பதவியேற்ற பின்னர் அவர் மாலைதீவுக்கு மேற்கொள்ளும் முதல் பயணமாக இது அமைகிறது.
-
-1965 ஆம் ஆண்டு ஜூலை 29 ஆம் திகதி இரு நாடுகளுக்கும்  இராஜதந்திர உறவுகளை ஆரம்பித்து  60வது ஆண்டு நிறைவை இந்த ஆண்டு கொண்டாடுவதால், இந்த உத்தியோகபூர்வ விஜயம் முக்கியத்துவம் வாய்ந்ததாக அமைந்துள்ளது.
-
-இருதரப்பு உறவுகளை வலுப்படுத்துதல், வர்த்தகம் மற்றும் பிராந்திய ஒத்துழைப்பு தொடர்பில் இரு நாட்டு தலைவர்களும் கலந்துரையாடுவார்கள் என எதிர்பார்க்கப்படுகிறது.
-
-மாலைதீவு - இலங்கைக்கு இடையிலான சுதந்திர வர்த்தக வலயத்தை உருவாக்குவதை நோக்கமாகக் கொண்ட ஒப்பந்த பேச்சுவார்தையும் நடத்தப்படவுள்ளது.
-
-◼️
-
-[Data](articles/e6fd884b.json)
 
 ---

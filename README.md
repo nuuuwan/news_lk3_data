@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 10:50:37**
+As of **2025-07-26 11:06:47**
 
 ## Newspaper Stats
 
-*Scraped **66,864** Articles*
+*Scraped **66,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,410
 adaderanalk | 8,206
 tamilmirrorlk | 9,656
 virakesarilk | 11,144
-adaderanasinhalalk | 11,484
+adaderanasinhalalk | 11,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,864 articles have been extended.
+61,973 (92.7%) of 66,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### කාන්තා අත්බෑග් කොල්ලකන කෝටිපති පුත්‍රයා හා මිත්‍රයා
+
+*2025-07-26 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212656) · `si`
+
+කාන්තාවන්ගේ අත්බෑග සහ ජංගම දුරකථන කොල්ලකෑමක් සම්බන්ධයෙන් තරුණයන් දෙදෙනෙකු පිළියන්දල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් දෙදෙනාගෙන් එක් අයෙකු මීට මාස 2කට පමණ ඉහතදී ඔස්ට්‍රේලියාවේ සිට නිවාඩුවට මෙරටට පැමිණි අයෙකු වන අතර, අනෙක් තරුණයා පානදුර ප්‍රදේශයේ කෝටිපති ව්‍යාපාරිකයකුගේ පුත්‍රයෙකු බව සඳහන්.
+
+ඔවුන් දෙදෙනා කොල්ලකන ලද ජංගම දුරකථතන අතර, නවීන පන්නයේ ජංගම දුරකථන 5ක්, ස්මාර්ට් ජංගම දුරකථන 15කට ආසන්න‍ ප්‍රමාණයක් තිබී සොයාගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ මෙම ජංගම දුරකථනවල වටිනකම රුපියල් ලක්ෂ 25කට ආසන්න බවය.
+
+තවද කොල්ලකෑම සඳහා යොදාගත් ව්‍යාජ අංක තහඩු සවිකළ යතුරුපැදියක්, මුහුණ සම්පූර්ණයෙන්ම ආවරණය වන සේ පළඳින ආරක්ෂක හිස්වැසුම් දෙකක්, හොරයින් මත්කුඩු මිලිගෑම් 10,900ක්, කාන්තා අත්බෑගයක් සහ කරමත එල්ලාගෙන යන බෑග් දෙකක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+මෙම සැකකරුවන් දැඩි ලෙස මත්ද්‍රව්‍ය පානයට ඇබ්බැහි වූවන් වන අතර, ඔවුන් දිනකට මත්කුඩු පැකට් 20ක් පමණ පානය කරන බව ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත.
+
+පිළියන්දල පොලීසිය සිදුකළ විශේෂ පරික්ෂා කිරීමක් අතරතුර දී අහඹු ලෙස මෙම දෙදෙනා අත්අඩංගුවට පත්ව තිබේ.
+
+...
+
+[Data](articles/90f3bb58.json)
+
+---
 
 ### ලලිත් කන්නන්ගරගේ ගෝලයින් 4ක් අත්අඩංගුවට
 
@@ -1761,25 +1785,5 @@ The incident occurred around noon on Feb. 26, when the worker was hoisted into t
 ◼️
 
 [Data](articles/e2a816b2.json)
-
----
-
-### Thailand, Cambodia exchange heavy artillery as fighting expands for second day
-
-*2025-07-25 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110837/thailand-cambodia-exchange-heavy-artillery-as-fighting-expands-for-second-day) · `en`
-
-Thailand and Cambodia exchanged heavy artillery fire for a second day on Friday as their worst fighting in over a decade intensified and spread to new areas, despite international calls for a ceasefire.
-
-At least 16 people have been killed and tens of thousands displaced in the escalating border battle.
-
-Both sides have blamed each other for starting the conflict and on Friday ratcheted up the rhetoric, with Thailand accusing Cambodia of deliberately targeting civilians and Cambodia alleging Thailand was using cluster munitions, a controversial and widely condemned ordnance.
-
-Thailand’s acting Prime Minister Phumtham Wechayachai said Cambodia had launched attacks on multiple fronts and Thailand was defending its territory.
-
-“The current situation involves acts of intrusion and aggression that are causing harm to the people’s lives. The situation has intensified and could escalate into a state of war. At present, it’s a confrontation involving heavy weapons,” he told reporters.
-
-...
-
-[Data](articles/44bb9bf8.json)
 
 ---

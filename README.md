@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 08:49:43**
+As of **2025-07-26 09:24:57**
 
 ## Newspaper Stats
 
-*Scraped **66,855** Articles*
+*Scraped **66,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,410
 adaderanalk | 8,202
-tamilmirrorlk | 9,654
+tamilmirrorlk | 9,655
 virakesarilk | 11,144
 adaderanasinhalalk | 11,481
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,855 articles have been extended.
+61,973 (92.7%) of 66,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### மாலைதீவில் மோடிக்கு உற்சாக வரவேற்பு
+
+*2025-07-26 08:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மாலைதீவில்-மோடிக்கு-உற்சாக-வரவேற்பு/50-361765) · `ta`
+
+பிரதமர் நரேந்திர மோடி நேற்று மாலைதீவு தலைநகர் மாலேவுக்கு சென்றார். அங்கு அவருக்கு உற்சாக வரவேற்பு அளிக்கப்பட்டது.
+
+கேரளாவில் இருந்து 700 கிலோ மீற்றர் தொலைவில் மாலைதீவு அமைந்துள்ளது. அந்த நாட்டின் 60 ஆவது சுதந்திர தினம் இன்று கொண்டாடப்படுகிறது. இதில் இந்திய பிரதமர் மோடி சிறப்பு விருந்தினராக பங்கேற்கிறார். இதற்காக பிரதமர் மோடி நேற்று சிறப்பு விமானத்தில் மாலைதீவில் வேலனா சர்வதேச விமான நிலையத்தில் தரையிறங்கினார்.
+
+மாலைதீவு ஜனாதிபதி முகமது முய்சு விமான நிலையத்துக்கு நேரடியாக சென்று பிரதமர் மோடியை வரவேற்றார். விமான நிலையத்தில் ஏராளமான இந்தியர்கள் திரண்டு வந்து அவருக்கு உற்சாக வரவேற்பு அளித்தனர். அங்கிருந்து மாலைதீவு தலைநகர் மாலேவுக்கு பிரதமர் நரேந்திர மோடி சென்றார். சுதந்திர தின சதுக்கத்தில் அவருக்கு சிவப்பு கம்பள வரவேற்பு அளிக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/50ee01a2.json)
+
+---
 
 ### செம்மணியில் வெளிவந்த சவப் பெட்டி
 
@@ -54,15 +70,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-26 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212651) · `si`
 
-ගලේවෙල මකුළුගස්වැව, හීනුගල රක්ෂිතයේ මුවදෙනකු ඝාතනය කළ සිද්ධියට අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් ප්‍රශ්නකිරීමේදී තවත් කරුණු රැසක් අනාවරණය කරගැනීමට පොලීසියට හැකිව තිබේ.
+ගලේවෙල මකුළුගස්වැව, හීනුගල රක්ෂිතයේ ගැබ්බර මුවදෙනකු ඝාතනය කළ සිද්ධියට අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් ප්‍රශ්නකිරීමේදී තවත් කරුණු රැසක් අනාවරණය කරගැනීමට පොලීසියට හැකිව තිබේ.
 
 මෙම ප්‍රශ්නකිරීමේ දී තවත් සැකකරුවෙකුද අත්අඩංගුවට ගෙන ඇති අතර, බෝර 12 බලපත්‍ර රහිත ගිනිඅවි 3ක්ද පොලීසිය සිය භාරයට ගත් බව දඹුල්ල සහකාර පොලිස් අධිකාරී ඩබ්ලිව්. ජී. එම්. එම්. චන්ද්‍රසිරි මහතා පැවසීය.
 
-ඊයේ (25) අත්අඩංගුවට ගත් පොලිස් සැරයන් දෙදෙනාගෙන් සහ සිවිල් පුද්ගලයාගෙන් සිදුකළ ප්‍රශ්නකිරීමේදී හෙළි වී ඇත්තේ, වහකෝට්ටේ   ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකු මුව දඩයමේ පැමිණ ඇති බවය.
+ඊයේ (25) අත්අඩංගුවට ගත් පොලිස් සැරයන් දෙදෙනාගෙන් සහ සිවිල් පුද්ගලයාගෙන් සිදුකළ ප්‍රශ්නකිරීමේදී හෙළි වී ඇත්තේ, වහකෝට්ටේ ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකු මුව දඩයමේ පැමිණ ඇති බවය.
 
 එමෙන්ම ඔවුන්ගෙන් එක් පුද්ගලයෙකුගේ සහෝදරයෙකු පොලිස් සැරයන්වරයෙකු බව පවසා තිබේ.
 
-මුවදෙන ඝාතනය කිරීමෙන් පසු රැගෙන යාමටත්,  ප්‍රදේශවාසීන් සිද්ධිය දුටු නිසාත් ඔවුන් මෙම පොලිස් සැරයන් සහෝදරයාගේ සහාය පතා ඇත.
+මුවදෙන ඝාතනය කිරීමෙන් පසු රැගෙන යාමටත්, ප්‍රදේශවාසීන් සිද්ධිය දුටු නිසාත් ඔවුන් මෙම පොලිස් සැරයන් සහෝදරයාගේ සහාය පතා ඇත.
 
 ඒ අනුව අදාළ සහෝදර පොලිස් සැරයන්වරයා තවත් පොලිස් සැරයන්වරයකුගේ සහය ලබාගෙන සහෝදරයා වෙඩිතැබූ මුවදෙන ආසන්නයට ගොස් ඇති බව පරීක්ෂණවලදී හෙළි වී තිබේ.
 
@@ -1757,21 +1773,5 @@ Critics would say that the government’s non-action in this regard clearly demo
 ◼️
 
 [Data](articles/b03ce6ce.json)
-
----
-
-### Court orders FIB to record statements from Minister, Deputy Minister and Mayor
-
-*2025-07-25 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110836/court-orders-fib-to-record-statements-from-minister-deputy-minister-and-mayor) · `en`
-
-The Mount Lavinia Magistrate has directed the Fraud Investigation Bureau (FIB) to record statements from Minister Wasantha Samarasinghe, Deputy Minister Mahinda Jayasinghe, and the Mayor of the Kaduwela Municipal Council, Ranjan Jayalal.
-
-This order was issued in connection with an ongoing investigation into the alleged leasing of a property belonging to the National Workers’ Institute using a fraudulent deed, said Ada Derana reporter.
-
-Mount Lavinia Magistrate A.D. Chathurika de Silva, delivering the order today (25 July), instructed the FIB to obtain statements from the three public representatives regarding the alleged fraudulent leasing of a two-storey building owned by the institution for Rs. 3.6 million and to submit the extracts.
-
-...
-
-[Data](articles/63b1971e.json)
 
 ---

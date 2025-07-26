@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 16:32:07**
+As of **2025-07-26 16:47:25**
 
 ## Newspaper Stats
 
-*Scraped **66,902** Articles*
+*Scraped **66,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,413
 adaderanalk | 8,211
-tamilmirrorlk | 9,660
+tamilmirrorlk | 9,661
 virakesarilk | 11,156
-adaderanasinhalalk | 11,492
+adaderanasinhalalk | 11,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,902 articles have been extended.
+61,973 (92.6%) of 66,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### නීතිවිරෝධීව ධීවර කටයුතු කළ 65ක් නාවික හමුදා භාරයට
+
+*2025-07-26 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212664) · `si`
+
+ගතවූ සති දෙකක කාලය තුළ නීතිවිරෝධීව ධීවර කටයුතුවල නිරතවූ පුද්ගලයින් 65 දෙනෙකු නාවිකා හමුදා භාරයට ගෙන තිබේ.
+
+ත්‍රිකුණාමලය, නිලාවේලී, පුත්තලම සහ මන්නාරම ඇතුළු ප්‍රදේශ කිහිපයක් ආශ්‍රිත වෙරළ සහ මුහුදු ප්‍රදේශ ආවරණය වන පරිදි නාවික හමුදාව සිදුකළ මෙහෙයුම්වලදී මොවුන් සිය භාරයට ගෙන ඇත.
+
+තහනම් ධිවර දැල් හා විදුලි ආලෝක ධාරා භාවිතය, වලංගු බලපත්‍ර නොමැතිව මුහුදු කූඩැල්ලන් සහ හක් බෙල්ලන් ප්‍රවාහනය යන නීතිවිරෝධි කටයුතුවලට අදාළව මෙම සැකකරුවන් 65 දෙනා නාවික හමුදා භාරයට ගෙන තිබේ.
+
+එමෙන්ම එහිදි ඔවුන්ට අයත් ඩිංගි යාත්‍රා 16 සමඟ තහනම් ධීවර දැල් 05ක් ද සිය භාරයට ගත් බව නාවික හමුදාව පැවසීය.
+
+නාවික හමුදා භාරයට ගත් සැකකරුවන් ඉදිරි නීතිමය කටයුතු සඳහා අදාළ ධිවර හා ජලජ සම්පත් දෙපාර්තමේන්තු කාර්යාල වෙත භාරදීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/580622d7.json)
+
+---
+
+### குழந்தையின் பொம்மைக்குள் போதைப்பொருள்
+
+*2025-07-26 16:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையின்-பொம்மைக்குள்-போதைப்பொருள்/175-361772) · `ta`
+
+பொம்மை ஒன்றுக்குள் மறைத்து வைத்து சூட்சுமமான முறையில் போதைப்பொருளை கடத்திய பெண் ஒருவரை சீதுவ பகுதியில் வைத்து பொலிஸார் கைது செய்துள்ளனர்.
+
+சீதுவ ராஜபக்ஷபுர பகுதியில் இன்று (26) காலை பொலிஸ் விசேட அதிரடிப்படை மற்றும் முப்படையினரால் நடத்தப்பட்ட தேடுதல் நடவடிக்கையின் போது, கொட்டாஞ்சேனை பகுதியைச் சேர்ந்த குறித்த பெண் தனது குழந்தையைப் பயன்படுத்தி போதைப்பொருள் கடத்தலில் ஈடுபட்ட நிலையில் கைது செய்யப்பட்டுள்ளார்.
+
+ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருள், கேரள கஞ்சா மற்றும் ஒரு மின்னணு தராசு ஆகியவற்றை குழந்தையின் பொம்மைக்குள் இருந்து பொலிஸார் கண்டுபிடித்தனர்.
+
+அதற்கமைய, குறித்த பெண்ணின் உடலில் மறைத்து வைக்கப்பட்டிருந்த பல ஐஸ் பெக்கட்டுக்களையும் பொலிஸார் கண்டுபிடித்துள்ளனர்.
+
+அந்தப் பெண் தனது 8 வயது குழந்தைக்கு பொம்மையைக் கொடுத்து, குழந்தையுடன் கொட்டாஞ்சேனையில் இருந்து சீதுவ பகுதிக்கு போதைப்பொருட்களைக் கொண்டு வந்திருக்கலாம் என்று பொலிஸார் சந்தேகம் வௌியிட்டனர்.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகள் நீர்கொழும்பு பிரிவுக்குப் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர் அசோக தர்மசேனவின் மேற்பார்வையில் நடைபெற்று வருகின்றன. R
+
+◼️
+
+[Data](articles/bcb701cb.json)
+
+---
 
 ### විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
@@ -1727,49 +1769,5 @@ Apichart Sapprasert, commander of the military’s Border Defense Command in the
 ◼️
 
 [Data](articles/34e06263.json)
-
----
-
-### பூட்டான், கசகஸ்தான், ஜோர்தான், உஸ்பெகிஸ்தான் மற்றும் எரித்திரியா தூதுவர்களுடன் பிரதமரின் இராஜதந்திர சந்திப்பு
-
-*2025-07-25 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220965) · `ta`
-
-பிரதமர் கலாநிதி ஹரினி அமரசூரிய, ஜூலை 25 ஆம் திகதி, பாராளுமன்ற வளாகத்தில் முக்கியமான இராஜதந்திர சந்திப்புகளை நடத்தினார்.
-
-இதன் போது, (டாக்காவைத் தளமாகக் கொண்ட) இலங்கைக்கான பூட்டான் தூதுவர் டஷோ கர்மா ஹமு டோர்ஜி, (கொழும்பைத் தளமாகக் கொண்ட) இலங்கைக்கான கசகஸ்தான் குடியரசின் தூதுவர் சேர்ஜி விக்டோரோவ், (புதுடில்லியைத் தளமாகக் கொண்ட) இலங்கைக்கான ஜோர்தான் தூதுவர் யூசெப் முஸ்தபா அப்தெல்கனி, இலங்கைக்கான எரித்திரியா நாட்டின் தூதுவர் அலம் வோல்டெமரியம், மற்றும் (இஸ்லாமாபாத்தைச் தளமாகக் கொண்ட) இலங்கைக்கான உஸ்பெகிஸ்தான் தூதுவர் அலிஷர் துக்தயேவ் ஆகியோருடன் இந்தச் சந்திப்புகள் நடைபெற்றன.
-
-இந்த சந்திப்பானது பிராந்திய மற்றும் சர்வதேசப் பங்காளிகளுடனான இருதரப்பு மற்றும் பல்தரப்பு ஒத்துழைப்பை வலுப்படுத்துவதற்கான அரசாங்கத்தின் உறுதிப்பாட்டைப் பிரதிபலிக்கிறது.
-
-பிரதமருடனான இந்த கலந்துரையாடலில் அனைத்து தூதுவர்களையும் வரவேற்ற பிரதமர், பரஸ்பர நலன்கள், நிர்வாகத்தில் ஒத்துழைப்பு, இலங்கையின் அபிவிருத்தி மற்றும் ஜனநாயக மாற்றத்திற்கான ஆதரவு ஆகியவற்றில் கவனம் செலுத்தி இந்த கலந்துரையாடல்களை மேற்கொண்டார்.
-
-...
-
-[Data](articles/82779181.json)
-
----
-
-### Sri Lanka President in virtual tariff talks with US Trade Rep
-
-*2025-07-25 20:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-virtual-tariff-talks-with-us-trade-rep-232823/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake had discussed reducing Trump tariffs with US Trade Representative Jamieson Greer, a statement said.
-
-“The primary focus of the meeting is to reduce tariffs and promote trade and investment relations between the two countries,” the statement from the President’s office said.
-
-Sri Lanka had reduced its initial 44 percent tariff to 30 percent and is seeking further reductions.
-
-President Trump said earlier this week that he will reduce tariff points to any country that open markets for US goods.
-
-Treasury Secretary Harshana Suriyapperuma and other officials from the Office of the US Trade Representatives had participated in the meeting.
-
-Sri Lanka’s apparels, rubber and coconut exporters have expressed fears over losing the US market to competitors.
-
-RELATED  Sri Lanka apparel exports down 5.7-pct to US in June, up 23-pct to EU
-
-The International Monetary Fund has said the US tariffs are a risk for Sri Lanka.
-
-◼️
-
-[Data](articles/a4c33b3b.json)
 
 ---

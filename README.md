@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 17:30:12**
+As of **2025-07-26 17:51:34**
 
 ## Newspaper Stats
 
-*Scraped **66,909** Articles*
+*Scraped **66,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 6,415
 adaderanalk | 8,211
 tamilmirrorlk | 9,662
 virakesarilk | 11,157
-adaderanasinhalalk | 11,493
+adaderanasinhalalk | 11,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,909 articles have been extended.
+61,973 (92.6%) of 66,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### 2025 ආසියනු කුසලාන T20 සටන UAE හිදී
+
+*2025-07-26 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212666) · `si`
+
+2025 ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේදී පැවැත්වෙන බව ආසියනු ක්‍රිකට් කවුන්සලය අද (26) නිවේදනය ⁣කළේය.
+
+පසුගියදා බංගලදේශයේ ඩකාහි පැවති ආසියානු ක්‍රිකට් කවුන්සිලයේ (ACC) රැස්වීමේ දී මේ පිළිබඳ අවසන් තීරණය තිබේ.
+
+තරගාවලිය සැප්තැම්බර් මස 9 සිට 28 දක්වා පැවැත්වීමට කටයුතු යොදා ඇති අතර, ඒ සඳහා රටවල් 8ක් තරගවැදීමට නියමිතය.
+
+ඒ අනුව තරගාවලියේදී නිල තරග කාලසටහන නුදුරේදීම ප්‍රකාශයට පත්කරනු ඇත.
+
+මේ සඳහා දැනටමත් ඉන්දියාව, ඇෆ්ගනිස්තානය, ශ්‍රී ලංකාව, බංග්ලාදේශය සහ පාකිස්තානය සුදුසුකම් ලබා සිටී.
+
+සෙසු කණ්ඩායම් ත්‍රිත්වය වන්නේ ACC ප්‍රිමියර් කුසලානයේ ජයග්‍රාහකයින් වන එක්සත් අරාබි එමීර් රාජ්‍යය, හොංකොං සහ ඕමානය යි.
+
+මීළග⁣ට ඇති ආසන්නම ලෝක කුසලානය 2026 විස්සයි20 ලෝක කුසලානය වන බැවින් එළැඹෙන ආසියානු කුසලානය ක්‍රිකට් තරගාවලියද විස්සයි20 ආකෘතිය යටතේ පැවැත්වේ.
+
+◼️
+
+[Data](articles/3a30bac9.json)
+
+---
+
+### ගැබ්බර මුවදෙන ඝාතනය කළ පොලිස් නිලධාරීන් දෙදෙනා ඇතුළු සිව්දෙනා රිමාන්ඩ්
+
+*2025-07-26 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212665) · `si`
+
+ගලේවෙල මකුළුගස්වැව, හීනුගල රක්ෂිතයේ ගැබ්බර මුවදෙනකු ඝාතනය කළ සිද්ධිය සම්බන්ධව අත්අඩංගුවට ගනු ලැබූ පොලිස් සැරයන්වරු දෙදෙනා සහ සිවිල් පුද්ගලයින් දෙදෙනා රක්ෂිත බන්ධනාගාර ගත කිරීමට දඹුල්ල මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+සැකකරුවන් අද (26) දඹුල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව දඹුල්ල වැඩබලන මහෙස්ත්‍රාත් දුලාංජලි සිතුමිණි මහත්මිය මෙම නියෝගය ලබා දුන්නාය.
+
+කෙසේ වෙතත් අදාළ සැකකරුවන්ගෙන් එක් අයෙකු අසනීප තත්ත්වය හේතුවෙන් ඔහු දඹුල්ල මූලික රෝහල වෙත ඇතුළත් කිරීමට පියවර ගත් බවත් පොලීසිය මහෙස්ත්‍රාත්වරිය හමුවේ පවසා තිබේ.
+
+ගැබ්බර මුවදෙන ඝාතනයට යොදා ගත් ගිනිඅවි 03ක් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට දඹුල්ල සහකාර පොලිස් අධිකාරීවරයා මෙහිදී පියවර ගෙන තිබුණි.
+
+සිවිල් පුද්ගලයින් දෙදෙනා මුවදෙනක ඝාතනය කිරීම, ගිනිඅවි සන්තකයේ තබා ගැනීම යන චෝදනා යටතේ නඩු ගොනු කර ඇති අතර සැකකාර පොලිස් නිලධාරීන් දෙදෙනා ගැබ්බර මුවදෙන ඝාතනයට අධාර අනුබල දීමේ චෝදනාව මත මහෙස්ත්‍රාත්වරයා හමුවේ නඩු ගොනු කර තිබේ.
+
+◼️
+
+[Data](articles/22fe3d17.json)
+
+---
 
 ### රාහුල හිමියන්ගෙන් ඇමති ලාල්කාන්තට අභියෝගයක්
 
@@ -1739,39 +1783,5 @@ The Secretary to the Ministry of Finance, Dr. Harshana Suriyapperuma, along with
 ...
 
 [Data](articles/6b1b8682.json)
-
----
-
-### වනඅලි හා ග්‍රාමීය ජනතාවගේ දෛනික ජීවිතය සුරක්ෂිත කිරීමට ජනපති අවධානය
-
-*2025-07-25 21:26:18* · [`adalk`](https://www.ada.lk/breaking_news/වනඅලි-හා-ග්‍රාමීය-ජනතාවගේ-දෛනික-ජීවිතය-සුරක්ෂිත-කිරීමට-ජනපති-අවධානය/11-417506) · `si`
-
-වනඅලි ජීවිත සුරැකීම මෙන්ම ග්‍රාමීය ජනතාවගේ දෛනික ජනජීවිතය සුරක්ෂිත කිරීම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අදාළ අමාත්‍යවරු හා නිලධාරීන් අතර සාකච්ඡාවක් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (24) පස්වරුවේ පැවැත්විණි.
-
-දිනෙන් දින ඉහළ යමින් පවතින වනඅලින්ට සිදුවන හිරිහැර සහ ග්‍රාමීය ජනතාවගේ දෛනික ජීවිතයට සිදුව ඇති බලපෑම සම්බන්ධ වත්මන් තත්ත්වය මෙහිදී ජනාධිපතිවරයාගේ විමසීමට ලක්විය.
-
-මෙහිදී නිලධාරීන් විසින් මේ සම්බන්ධව පවතින වත්මන් තත්ත්වය මෙන්ම ඊට විසඳුම් සෙවීමේදී දීර්ඝ කාලයක් තිස්සේ අදාළ ආයතන මුහුණ දෙන ගැටලු පිළිබඳව ජනාධිපතිවරයාගේ අවධානයට යොමු කරන ලදී.
-
-මේ පිළිබඳව අදහස් දැක් වූ ජනාධිපතිවරයා ප්‍රකාශ කර සිටියේ කුමන තත්ත්වයක් යටතේ වුවද වනඅලින්ට සිදුවන හිරිහැර පිළිගත නොහැකි බවත්, ඒ වෙනුවෙන් කෙටි කාලීන, මධ්‍ය කාලීන සහ දිගුකාලීන විසඳුම් සෙවීමට පියවර ගත යුතු බවත්ය. ග්‍රාමීය මට්ටමින් මේ පිළිබඳව සමීපව අධ්‍යයනය කරන ලෙස නිලධාරීන්ට උපදෙස් දුන් ජනාධිපතිවරයා, දේශපාලන අධිකාරිය සහ ජනතාවද සහභාගි කර ගනිමින් මෙම ගැටලුවලට නිසි විසඳුම් ලබා දිය යුතු බවද අවධාරණය කළේය.
-
-...
-
-[Data](articles/c34c6296.json)
-
----
-
-### Monin creative cup debuts at National Barista Championship 2025
-
-*2025-07-25 21:24:00* · [`islandlk`](http://island.lk/monin-creative-cup-debuts-at-national-barista-championship-2025/) · `en`
-
-The National Barista Championship, held in partnership with the Hotel Show and Sri Lanka Hospitality Graduates Association, is set to spotlight a new wave of barista creativity with the launch of the Monin Creative Cup. Designed to challenge and inspire, the Monin Creative Cup invites participants to push the boundaries of coffee innovation by crafting unique, coffee-based mocktails that blend skill, flavour and flair.
-
-From a series of regional workshops held across the island, over 40 talented baristas took part in this year’s competition, representing the best of Sri Lanka’s vibrant Hotel, Restaurant and Café sector. Of these, 13 semi-finalists were selected to compete in the Monin Creative Cup, with the top 6 finalists now advancing to the final round on 25th July at the BMICH, during the prestigious Hotel Show Colombo 2025.
-
-A special Master Class was recently held at ‘Studio R’ by Beverage Specialist Asif Iqbal for the semi-finalists, with the objective of enhancing their knowledge.
-
-...
-
-[Data](articles/45d8984d.json)
 
 ---

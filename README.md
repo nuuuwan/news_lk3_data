@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-26 12:07:37**
+As of **2025-07-26 12:25:21**
 
 ## Newspaper Stats
 
-*Scraped **66,874** Articles*
+*Scraped **66,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 684
 islandlk | 4,087
-economynextcom | 4,094
+economynextcom | 4,097
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,412
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,486
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.7%) of 66,874 articles have been extended.
+61,973 (92.7%) of 66,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-26 (Saturday)
+
+### Sri Lanka’s apparel sector to boost ESG reporting with ITSB programme
+
+*2025-07-26 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-apparel-sector-to-boost-esg-reporting-with-itsb-programme-232841/) · `en`
+
+ECONOMYNEXT – The Improving Transparency for Sustainable Business (ITSB) programme is set to enhance the global standing of Sri Lanka’s apparel sector by embedding global best practices in ESG reporting across the sector, the Joint Apparel Association Forum (JAAF) said.
+
+The ITSB programme was launched by the Global Reporting Initiative (GRI) South Asia, the Sustainable Development Council (SDC) of Sri Lanka, Sri Lanka Export Development Board (EDB), and JAAF. The programme is backed by the Swedish International Development Cooperation Agency (SIDA).
+
+“ITSB is designed to elevate sustainability practices and transparency across South Asia’s textile and apparel sector, positioning it for long-term resilience, profitability, and global leadership,” Rahul Singh, Senior Manager, South Asia, GRI, said.
+
+...
+
+[Data](articles/c352bc53.json)
+
+---
 
 ### கிளிநொச்சி வலய கல்வி பணிமனை, துணுக்காய் கல்வி வலயங்களில் ஆசிரியர் பற்றாக்குறை - ஜோசப் ஸ்டாலின்
 
@@ -340,6 +356,34 @@ At the event, the official launch of “RDB Quick App” online banking facility
 
 ---
 
+### Sri Lanka to give one year visas to Maldives citizens
+
+*2025-07-26 08:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-one-year-visas-to-maldives-citizens-232854/) · `en`
+
+ECONOMYNEXT – Sri Lanka will give one year visa to citizens of the Maldives, restoring a facility for longer term visas, Foreign Minister Vijith Herath said.
+
+“Up to now we gave only short term visas for Maldives citizens, subject to certain observations,” Foreign Minister Vijitha Herath said in Colombo.
+
+“From August 01, we will give Maldives citizens one year visas.”
+
+At one time large numbers of Maldivians used to come to Sri Lanka especially for health tourism.
+
+But after rules were tightened, they could not come, he said.
+
+“Now we have changed the decision and Maldives citizens to would be given one-year visas,” he said.
+
+RELATED : Sri Lanka to give free tourist visas to 40 more countries: Minister
+
+Sri Lanka President Anura Kumara Dissanayake is to make state visit to the Maldives next week.
+
+Sri Lanka will also expand free visa to 47 countries from the current 7, he said. (Colombo/July26/2025)
+
+◼️
+
+[Data](articles/95ed7c51.json)
+
+---
+
 ### ගැබ්බර මුවදෙන දඩයමේ අලුත්ම කතාවක්
 
 *2025-07-26 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212651) · `si`
@@ -481,6 +525,30 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/fc9464a4.json)
+
+---
+
+### Sri Lanka to give free tourist visas to 40 more countries: Minister
+
+*2025-07-26 06:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-free-tourist-visas-to-40-more-countries-minister-232851/) · `en`
+
+ECONOMYNEXT – Sri Lanka will give free tourist visas to 40 more countries, taking the total up to 47, as part of efforts to develop the sector, Foreign Minister Vijitha Herath said
+
+Sri Lanka already had visa scheme without fees to 7 countries.
+
+“At the last cabinet meeting we took a decision to issue visas without a fee to a additional 40 countries,” Herath said addressing the 2025 Hotel Show in Colombo.
+
+“The gazette is being issued. The number of countries without visa fees will now go up to 47.”
+
+The Treasury will lose about 66 million dollars (19.8 billion rupees) in visa fees as a result of the decision, Minister Herath said.
+
+“Despite the loss to Treasury, President as the Finance Minister agreed to take that decision,” he said
+
+“We expect through the development of the tourism to get more revenue indirectly. It is up to the industry to make sure that it happens.”  (Colombo/July25/2025)
+
+◼️
+
+[Data](articles/00acd61e.json)
 
 ---
 
@@ -720,6 +788,20 @@ A full-day workshop was held at the University’s greenhouses and demonstration
 
 ---
 
+### Beginning of “Black July “; 15 July Meesalai Army Attack and 23 July Thinnavely LTTE Ambush.
+
+*2025-07-26 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86206) · `en`
+
+The first part of this article titled  “Black July; Anatomy of an Anti-Tamil Pogrom” was a brief overview of the horrific anti-Tamil violence that engulfed the Sri Lankan nation in July 1983. The second part of this article   focuses  primarily on how “Black July”began in 1983. This detailed article is written with the aid of earlier writings to denote the 42bd  anniversary of the 1983 July anti-Tamil pogrom.
+
+As stated earlier the anti-Tamil violence of July 1983 was not a spontaneous mass uprising of the Sinhala people against the Tamil people. Prior to the outbreak of violence, there existed a pre-planned conspiracy to launch a widespread attack against Tamil life, limb and property on a massive scale. All it required was a powerful incident to be the provocative pretext to justify such an attack.
+
+...
+
+[Data](articles/abb3c64d.json)
+
+---
+
 ### இலங்கை வர்த்தகக் கவுன்ஸிலின் உலகளாவிய சம்மேளனத்தின் வருடாந்த பொதுக் கூட்டத்தின் ஆரம்ப விழாவில் ஜனாதிபதி பங்கேற்பு
 
 *2025-07-26 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/220972) · `ta`
@@ -803,6 +885,20 @@ Hotel Show Colombo – 2025   கண்காட்சியைத் தி�
 ...
 
 [Data](articles/b981a7cf.json)
+
+---
+
+### “Black July”: Anatomy of the July 1983 Anti-Tamil Pogrom.
+
+*2025-07-26 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86197) · `en`
+
+“All changed, changed utterly” is a powerful line from ‘Easter, 1916’, the famous poem of William Butler Yeats. The poem by W.B. Yeats was about the Irish Easter uprising in 1916, its cruel suppression and how all changed utterly in Ireland. In Sri Lanka “all changed” and “changed utterly” for the Tamil people 40 years ago.The catastrophic events of July 1983 drastically altered the lives of large numbers of Tamils in Sri Lanka.
+
+As is well-known , widespread anti-Tamil violence erupted forty -two  years ago during the fourth week of July in 1983.Although the tragic history of post-independence Sri Lanka records that the Tamils of Sri Lanka were subjected to mass –scale mob violence in the years 1956, 1958, 1977, 1981 and 1983, the anti-Tamil violence of July 1983 was the most horrible of them all.
+
+...
+
+[Data](articles/4679a8c7.json)
 
 ---
 
@@ -1685,105 +1781,5 @@ A bond maturing on 01.06.2033 closed at 10.68/80 percent. (Colombo/July25/2025)
 ...
 
 [Data](articles/deddd38e.json)
-
----
-
-### ரூ. 20 கோடி காப்புறுதிக்காக,  2 கால்களையும் வெட்டிய மருத்துவர்
-
-*2025-07-25 17:04:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரூ-20-கோடி-காப்புறுதிக்காக-2-கால்களையும்-வெட்டிய-மருத்துவர்/50-361754) · `ta`
-
-இலங்கை ரூபாய் பெறுமதியில் 20 கோடியை   பெறுவதற்காக மருத்துவர் ஒருவர் தனது முழங்காலுக்கு கீழ் உள்ள இரண்டு கால்களையும் அகற்றியுள்ள சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
-
-பிரிட்டனில் காப்பீடு பணம் 5 லட்சம் பவுண்டுகள் பெறுவதற்கே இந்த நபர் இவ்வாறு செய்துள்ளார்.
-
-நீல் ஹாப்பர் என்ற அந்த மருத்துவர் காப்புறுதி  பணம் பெறும் நோக்கில் கால்களை அகற்றியுள்ளதாக காப்பீடு நிறுவனங்கள் குற்றம் சாட்டி நீதிமன்றத்தை நாடியுள்ளன. முழங்கால்களை பாதுகாப்பாக அகற்றுவது எப்படி என்பது தொடர்பான வீடியோக்களை வெப்சைட்டில் இருந்து நீல் ஹாப்பர் பெற்றிருப்பதும் தெரியவந்துள்ளது.
-
-நிதி சார்ந்த விஷயங்களில் பிரதானமாக பார்க்கப்படுவது காப்புறுதிதான் தான். குடும்பத்தில் உள்ள நபர்களுக்கு எந்தவொரு உடல்நலக் குறைவோ, விபத்தோ என்ன பிரச்சனை நேர்ந்தாலும் அந்தக் குடும்பத்தினர் பெரிய பணப் பிரச்சனைகளில் சிக்காமல் பாதுகாக்கவும், உரிய மருத்துவம் பெறுவதற்கும் காப்புறுதி என்பது உதவி வருகிறது.
-
-...
-
-[Data](articles/f2c997a6.json)
-
----
-
-### වීසා ගාස්තු අය නොකරන රටවල් ලැයිස්තුව මෙන්න
-
-*2025-07-25 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212638) · `si`
-
-මෙරට සංචාරක ව්‍යාපාරය වර්ධනය කිරීමේ අරමුණින් තවත් රටවල් 33ක් සඳහා වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කර තිබේ.
-
-මීට පෙර රටවල් 7ක් සඳහා එලෙස වීසා ගාස්තු අය නොකිරීමට රජය තීරණය කර තිබුණි.
-
-ඒ  චීනය, ඉන්දියාව, ඉන්දුනීසියාව, රුසියාව, තායිලන්තය, මැලේසියාව සහ ජපානය යන රටවල් සඳහාය.
-
-ඒ අනුව මෙම ලැයිස්තුවට අදාළ වන රටවලින් ලංකාවට පැමිණීමේ දී වීසා ගාස්තුවක් අය නොකිරීමට රජය තීරණය කර ඇති අතර, එමඟින් අ.ඩො.මිලියන 66ක වාර්ෂික ආදායමක් රජයට අහිමි වෙන බවත් සඳහන්ය.
-
-◼️
-
-[Data](articles/866227f8.json)
-
----
-
-### Sri Lanka stocks close up boosted by diversified financials
-
-*2025-07-25 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-boosted-by-diversified-financials-232805/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange closed up on Friday, as retail interest continued in companies that had posted good quarterly results particularly diversified financials, brokers said.
-
-The ASPI was up 0.46%, or 88.47 points, at 19,467.71; and the S&P SL20 was up 0.48%, or 27.67 points, at 5,755.04.
-
-“There was another day of bull market, mostly driven by retail investors and limited participation by high net worth individuals,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
-
-“Main reasons for their interest are the positive results coming out. Those specific shares attracted interest.”
-
-Retail investor interest momentum in diversified financials, the leasing and finance companies, continued.
-
-“Most sported very good results, and on the back of that we are seeing the entire sector getting noticed; and there’s a bit of a rally.”
-
-Turnover was 4.2 billion rupees, below the monthly average of 7.1.
-
-...
-
-[Data](articles/bbd556d4.json)
-
----
-
-### மஹியங்கனை மெதயாய, வககோட்டை மெதபெத்த மற்றும் கல்முனை அல்-அஸ்ஹர் கல்லூரிகளின் மாணவர்கள் ஜனாதிபதி மாளிகைக்கு வருகை
-
-*2025-07-25 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/220934) · `ta`
-
-மஹியங்கனை மெதயாய கல்லூரி, வககோட்டை மெதபெத்த கல்லூரி மற்றும் கல்முனை அல்-அஸ்ஹர் கல்லூரிகளின் மாணவர்கள் வியாழக்கிழமை (24) ஜனாதிபதி அலுவலகத்தால் ஏற்பாடு செய்யப்படும்  ‘Vision’ நிகழ்ச்சியில் பங்கேற்க வாய்ப்பு கிடைத்தது.
-
-ஜனாதிபதி அலுவலகம், கல்வி அமைச்சு மற்றும் பாராளுமன்ற மக்கள் தொடர்பாடல் பிரிவு ஆகியவை இணைந்து பாடசாலை மாணவர்களுக்காக இந்த திட்டத்தை செயல்படுத்துகின்றன.
-
-‘Vision’  திட்டம் மற்றும் அதன் எண்ணக்கரு ரீதியான மதிப்பு குறித்து மாணவர்களுக்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது.
-
-புதிய சமூக மாற்றத்துடன் நாட்டை உயர்ந்த நிலைக்கு உயர்த்துவதற்கான அரசாங்கத்தின் திட்டத்தில் மாணவர்களுக்கும் பொறுப்பு உள்ளது என்று ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் பிரசன்ன சந்தித் இந்த நிகழ்வில் பங்கேற்ற போது கூறினார்.
-
-ஒரு நாட்டின் வளர்ச்சிக்காக அனைவரும் தங்கள் கடமையை நிறைவேற்ற வேண்டும் என்றும், ஒழுக்கம் மற்றும் திறனுடன் கூடிய மனித வளங்கள் ஒரு நாட்டின் வளர்ச்சியில் சாதகமான தாக்கத்தை ஏற்படுத்துகின்றன என்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் மேலும் தெரிவித்தார்.
-
-...
-
-[Data](articles/d67eb923.json)
-
----
-
-### අලි රොෂාන්ගේ නඩුවට දින දෙයි
-
-*2025-07-25 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212637) · `si`
-
-බලපත්‍ර නොමැතිව අලි ඇතුන් කිහිප දෙනෙකු සන්තකයේ තබා ගැනීම ඇතුළු චෝදනා මත සමරප්පුලිගේ නිරාජ් රොෂාන් හෙවත් අලි රොෂාන් ඇතුළු විත්තිකරුවන් හතර දෙනෙකුට එරෙහිව ගොනු කර ඇති නඩුවේ තීන්දුව සැප්තැම්බර් 29 වනදා ප්‍රකාශයට පත් කරන බව කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද දින නියම කළේය.
-
-ඒ මෙම නඩුව අද (25) මංජුල තිලකරත්න සහ ලංකා ජයරත්න යන විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදී ය.
-
-එහිදී විනිසුරු මඬුල්ලේ සභාපති විනිසුරු මංජුල තිලකරත්න මහතා විවෘත අධිකරණයේ කරුණු දක්වමින් 2025 මැයි 16 දින අගවිනිසුරුවරියගේ නියමයෙන් මෙම නඩුව විභාග කිරීම සඳහා නව ත්‍රිපුද්ගල විනිසුරු මඬුල්ලක් නම් කර ඇති බව සඳහන් කළේය.
-
-මෙම නඩුවේ පූර්වගාමී විනිසුරුවරු ඉදිරියේ කැඳවනු ලැබු සාක්ෂි ඒ ආකාරයෙන්ම පිළිගැනීමට විත්ති පාර්ශ්වය විරුද්ධත්වයක් දක්වා නොමැති බවත් විනිසුරුවරයා කියා සිටියේය.
-
-නව විනිසුරු මඩුල්ලට මෙම නඩුකරය ගැන අධ්‍යයනය කිරීමට ප්‍රමාණවත් කාලයක් අවශ්‍ය බව පෙන්වා දුන් විනිසුරුවරයා ඒ අනුව නඩු තීන්දුව සැප්තැම්බර් 29 ප්‍රකාශයට පත් කරන බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/686af501.json)
 
 ---

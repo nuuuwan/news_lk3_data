@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 14:33:55**
+As of **2025-07-27 14:48:27**
 
 ## Newspaper Stats
 
-*Scraped **67,044** Articles*
+*Scraped **67,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,62 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,425
-adaderanalk | 8,233
-tamilmirrorlk | 9,695
-virakesarilk | 11,178
+adaderanalk | 8,234
+tamilmirrorlk | 9,696
+virakesarilk | 11,179
 adaderanasinhalalk | 11,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,044 articles have been extended.
+61,973 (92.4%) of 67,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
 
+### படகு கவிழ்ந்து விபத்து ; இரு மீனவர்கள் மீட்பு
+
+*2025-07-27 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221078) · `ta`
+
+தெற்கு கடற்பரப்பில் மிரிஸ்ஸ அருகே இன்று ஞாயிற்றுக்கிழமை (27) விபத்துக்குள்ளான படகு ஒன்றில் இருந்து  இரண்டு மீனவர்களை கரையோர காவல்படையினர் மீட்டுள்ளனர்.
+
+மிரிஸ்ஸ, பண்டாரமுல்லையில் இருந்து 35 மற்றும் 63 வயதுடைய மீனவர்கள் இன்றையதினம் கடற்றொழிலுக்குச் சென்ற நிலையில், கடல் சீற்றத்தால் படகு கவிழ்ந்து விபத்துக்குள்ளானது.
+
+சம்பவம் தொடர்பில் அறிந்தவுடன் இலங்கை கரையோர காவல்படை CG 201 என்ற கரையோர ரோந்துப் படகை அந்த இடத்திற்கு அனுப்பியது.
+
+பொதுமக்களின் உதவியுடன் மீனவர்களையும் அவர்களது படகையும் மீட்புக் குழுவினர் கரைக்கு கொண்டு வந்துள்ளனர்.
+
+◼️
+
+[Data](articles/9fe2f5b6.json)
+
+---
+
+### 75 வயது தாத்தாவுடன் ரகசிய திருமணம்: திருமணம் முடிந்த 24 மணி நேரத்தில் உயிரிழந்த தாத்தா
+
+*2025-07-27 14:25:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/75-வயது-தாத்தாவுடன்-ரகசிய-திருமணம்-திருமணம்-முடிந்த-24-மணி-நேரத்தில்-உயிரிழந்த-தாத்தா/97-361828) · `ta`
+
+அயர்லாந்தின் ஆஃபாலி கவுண்டியைச் சேர்ந்த ஜோசப் க்ரோகன் (வயது 75) என்ற பணக்கார நில உரிமையாளர், பல ஆண்டுகளாக இரத்தப் புற்றுநோயால் அவதிப்பட்டு வந்தார். அவரது வீட்டில் பணியாளராக இருந்த லிசா ஃபிளாஹெர்டி (வயது 50) என்பவரை ரகசியமாக திருமணம் செய்து கொண்டார். திருமணம் நடந்ததிலிருந்து 24 மணி நேரத்துக்குள், ஜோசப் மரணமடைந்தார்.
+
+அவரது மரணத்துக்குப் பிறகு, ஜோசப்பின் சொத்துகள் – 5.5 மில்லியன் யூரோ  மதிப்புள்ள நிலங்கள் மற்றும் சொத்து – அவரது புதிய மனைவி லிசாவுக்குச் சொந்தமானது.
+
+இதனை எதிர்த்து, ஜோசப்பின் குடும்பத்தினர் நீதிமன்றத்தில் வழக்கு தொடர்ந்தனர். “இந்த திருமணம் மற்றும் மரணம் பற்றிய எந்த தகவலும் எங்களுக்குத் தெரியவில்லை. லிசா எங்களை  ஏமாற்றி திட்டமிட்ட நடவடிக்கை மேற்கொண்டுள்ளார்” என அவர்கள் குற்றம் சாட்டினர்.
+
+குடும்பத்தினர் லிசாவை, பணத்துக்காக நெருக்கம் ஏற்படுத்திய சூழ்ச்சிகாரியாக சித்தரிக்க முயற்சிக்கின்றனர். ஆனால், லிசாவின் நெருங்கிய நண்பர்கள் கூறுவது வேறுபட்டது. “இவர்களுக்கிடையே 1991ஆம் ஆண்டு முதல் நெருக்கமான உறவு இருந்து வருகிறது. லிசா சிறுவயதிலேயே (16 வயதில்) ஜோசப்புடன் பழகினார்.
+
+...
+
+[Data](articles/8b36ec23.json)
+
+---
+
 ### உலகின் நம்பிக்கையான தலைவர்களில் மோடி முதலிடம்
 
 *2025-07-27 14:19:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-நம்பிக்கையான-தலைவர்களில்-மோடி-முதலிடம்/175-361827) · `ta`
 
-உலக தலைவர்களில் நம்பிக்கையான தலைவர் யார் என்று சமீபத்தில் ஆய்வு ஒன்று நடத்தப்பட்டது. அந்த ஆய்வில் ஒவ்வொரு நாட்டு தலைவரும் எப்படி நடந்து கொள்கின்றனர் என்றும் ஆய்வு செய்யப்பட்டது.
-
-அமெரிக்காவைச் சேர்ந்த புலனாய்வு நிறுவனமான மார்னிங் கன்சல்ட் என்ற நிறுவனம் இந்த ஆய்வை நடத்தியது.
+உலக தலைவர்களில் நம்பிக்கையான தலைவர்களின் பட்டியலில் இந்தியப் பிரதமர் மோடி இடம்பிடித்துள்ளார் என அண்மையில் அமெரிக்காவைச் சேர்ந்த புலனாய்வு நிறுவனமான 'மார்னிங் கன்சல்ட்' நடத்திய ஆய்வில் தெரிவிக்கப்பட்டுள்ளது.
 
 இந்த ஆய்வின்போது, உலகத் தலைவர்களுக்கு அவர்களது சொந்த நாட்டில் எவ்வளவு மதிப்பு இருக்கிறது என்றும் பொதுமக்களிடம் கருத்துக்கணிப்பு நடத்தப்பட்டது. அதோடு உலக நாடுகளில் எந்த அளவுக்கு மரியாதை இருக்கிறது என்றும் ஆய்வு எடுக்கப்பட்டது.
 
@@ -48,9 +82,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 உலகின் நம்பிக்கையான தலைவர்களில் பிரதமர் மோடிக்கு முதல் இடம் கிடைத்துள்ளது. அவர் 100 மதிப்பெண்களுக்கு 75 மதிப்பெண்களை பெற்று அசைக்க முடியாத முதல் இடத்தில் இருக்கிறார்.
 
+2ஆவது இடத்தில் தென் கொரிய அதிபர் லி ஜோ மியுங்க் உள்ளார். அவருக்கு 59 மதிப்பெண்கள் கிடைத்துள்ளன.
+
 ...
 
 [Data](articles/19a700a6.json)
+
+---
+
+### Air India releases compensation to 166 families of AI171 crash
+
+*2025-07-27 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110878/air-india-releases-compensation-to-166-families-of-ai171-crash) · `en`
+
+Air India has announced that it has paid insurance relief compensation to the families of 166 victims of the Ahmedabad plane crash last month. Besides, payment to the families of another 52 victims is in the process, it added.
+
+The plane crash, one of the worst air disasters in India in decades, involved a Boeing 787-8 Dreamliner operating as Air India flight AI171.
+
+Out of the 242 people onboard, 241 were killed, while the total death toll stood at 260, including casualties on the ground.
+
+On June 14, Air India announced that it will provide an interim compensation of Rs. 2.5 million, to the families of each of the deceased and survivors of the Ahmedabad plane crash to help address immediate financial needs.
+
+Air India’s compensation status to families of AI171 crash victims ‘
+
+Air India has released the interim compensation to the families of 147 of the 229 deceased passengers and also the 19 who lost their lives at the accident site,’ the Tata-Group airline said in the statement today.
+
+...
+
+[Data](articles/007f49de.json)
 
 ---
 
@@ -1769,51 +1827,5 @@ It will not be an exaggeration to say that what the 2024 Electricity Act propose
 ◼️
 
 [Data](articles/3199e8e1.json)
-
----
-
-### වැව් රක්ෂිතයේ ඉඩම් ඇල්ලූ පිරිසට වෙන දේ ඇමති ලාල් කාන්ත හෙළි කරයි
-
-*2025-07-26 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212670) · `si`
-
-ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතාට අයත් හෝටලයක් වැව් රක්ෂිතයෙන් කොටසක් අල්ලාගෙන ඇත්නම් මාධ්‍ය හමුවක් පවත්වා ඉන් ඉවත් විය යුතු බව කෘෂිකර්ම, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී ලාල්කාන්ත මහතා පවසයි.
-
-මොණරාගලදී අද (26) පැවැති වාරි මහිම අපේ උරුම වැඩසටහන යටතේ මොණරාගල සියඹලාණ්ඩුව කොට්ඨාසයේ වැව් සහ ඇළ මාර්ග 04ක් ප්‍රතිසංස්කරණය කිරීමේ සමාරම්භක උත්සවයට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
-
-එහිදී අමාත්‍යවරයා පැවසුවේ අනුරාධපුර නුවර වැව ආශ්‍රිතව කොටස් කිහිපයක් ජාතික ජන බලවේගයේ පිරිසක්ද අල්ලාගෙන ඇතැයි තමන්ට වාර්තා වී ඇති බවත් ඔවුන්ට ස්වේච්ඡාවෙන්ම ඉවත්වී යන ලෙස තමන් දැනුම් දුන් බවය.
-
-...
-
-[Data](articles/3d3590c6.json)
-
----
-
-### Trump says he is seeking a ceasefire between Thailand, Cambodia
-
-*2025-07-26 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/110860/trump-says-he-is-seeking-a-ceasefire-between-thailand-cambodia) · `en`
-
-U.S. President Donald Trump said on Saturday he was calling the leaders of Cambodia and Thailand to press for a ceasefire as fighting along the border continued into a third day.
-
-“The call with Cambodia has ended, but expect to call back regarding War stoppage and Ceasefire based on what Thailand has to say. I am trying to simplify a complex situation!” Trump wrote on his social media platform, adding that the call to Thailand’s leader “is being made momentarily.”
-
-◼️
-
-[Data](articles/5e992930.json)
-
----
-
-### முகம் பார்த்து எவரும் கைது செய்யப்படுவதில்லை ; மோசடிகளில் ஈடுபட்டோருக்கு எதிரான சட்ட நடவடிக்கைகள் தொடரும் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
-
-*2025-07-26 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/221014) · `ta`
-
-நாட்டில் சில பிரபலமானவர்கள் கைது செய்யப்படுவது அவர்களது முகத்தையும் பின்புலத்தையும் பார்த்து அல்ல. முறையாக முன்னெடுக்கப்படும் விசாரணைகள் ஊடாகவே இந்த கைதுகள் இடம்பெறுகின்றன. எனவே எதிர்க்கட்சிகள் எவ்வாறான விமர்சனங்களை முன்வைத்தாலும் ஊழல், மோசடிகளில் ஈடுபட்டோருக்கு எதிராக சட்ட நடவடிக்கைகள் முன்னெடுக்கப்படுவது இடை நிறுத்தப்பட மாட்டாது என அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-கொழும்பில் வெள்ளிக்கிழமை (25) ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-யாரும் முகம் பார்த்து கைது செய்யப்படுவதில்லை. மத்துகமவில் தேசிய மக்கள் சக்தி ஆட்சியமைத்தன் காரணமாகவே ஜகத் விதானகேயின் மகன் கைது செய்யப்பட்டதாக தெரிவிக்கின்றனர். அவர் மீதான விசாரணைகள் கடந்த இரு மாதங்களுக்கு முன்னரே ஆரம்பமாகிவிட்டன. அந்த விசாரணைகளுக்கமையவே அவர் கைது செய்யப்பட்டுள்ளார். நீதிமன்ற மற்றும் பொலிஸ் விசாரணைகளில் எந்த வகையிலும் அரசியல் தலையீடு இல்லை.
-
-...
-
-[Data](articles/2c083c58.json)
 
 ---

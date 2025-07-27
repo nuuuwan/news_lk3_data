@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 06:53:42**
+As of **2025-07-27 07:38:48**
 
 ## Newspaper Stats
 
-*Scraped **66,957** Articles*
+*Scraped **66,960** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
-colombotelegraphcom | 685
+colombotelegraphcom | 687
 economynextcom | 4,099
 islandlk | 4,106
 dailymirrorlk | 4,733
@@ -20,17 +20,37 @@ adalk | 6,416
 adaderanalk | 8,217
 tamilmirrorlk | 9,667
 virakesarilk | 11,164
-adaderanasinhalalk | 11,504
+adaderanasinhalalk | 11,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,957 articles have been extended.
+61,973 (92.6%) of 66,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### අමෙරිකාවේ සුපිරි වෙළෙඳසැලක පිහි ඇනුමක්
+
+*2025-07-27 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212676) · `si`
+
+අමෙරිකාවේ, මිචිගන් ප්‍රාන්තයේ සුපිරි වෙළෙඳසැලක සිදුකළ පිහි ඇනුමකින් පුද්ගලයින් 11 දෙනෙකු පමණ තුවාල ලබා තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ එම පිහි ඇනුමෙන් තුවාල ලැබූ පුද්ගලයින් තිදෙනෙකු සැත්කම්වලට භාජනය කර ඇති බවය.
+
+පිහි ඇනුමෙන් තුවාල ලැබූ අයගෙන් හය දෙනෙකු පිරිමි පුද්ගලයින් වන අතර පස්දෙනෙකු කාන්තාවන් බවට වාර්තා වෙයි.
+
+සිද්ධිය සම්බන්ධයෙන් මිචිගන්හි පදිංචි 42 හැවිරිදි පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුගේ අනන්‍යතාවය මෙතෙක් හෙළි කර නොමැති අතර මෙය ත්‍රස්තවාදී ක්‍රියාවක් නොවන බව එරට බලධාරීන් පවසයි.
+
+◼️
+
+[Data](articles/ecc94c11.json)
+
+---
 
 ### අද කාලගුණය
 
@@ -97,6 +117,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b93b1285.json)
+
+---
+
+### Reflections On Sri Lanka’s Education Reforms & The Discourse Around Them
+
+*2025-07-27 01:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-sri-lankas-education-reforms-the-discourse-around-them/) · `en`
+
+Scratching the Surface or Radically Overhauling? Reflections on Sri Lanka’s Education Reforms and the Discourse Around Them
+
+Dr. Harini Amarasuriya, as Minister of Education, has introduced a set of reforms that have quickly become the subject of much controversy. At the same time, the government has expressed its desire to build broad consensus on the reforms, including through dialogue with political parties. President Dissanayake, speaking in Parliament recently, emphasized this point. But education is no ordinary topic in Sri Lanka. It is emotionally charged, politically sensitive, and socially critical. For most Sri Lankan families, education remains the single most trusted pathway for children to transcend economic and social boundaries and “become somebody” in life.
+
+...
+
+[Data](articles/c1afa8bd.json)
+
+---
+
+### Education Reforms: A Qualified, Clean Minister In A Corrupt Society
+
+*2025-07-27 01:11:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/education-reforms-a-qualified-clean-minister-in-a-corrupt-society/) · `en`
+
+Dr. Harini Amarasuriya, the Prime Minister holding the Education Portfolio, has made a bold foray into education reforms. We all know how grave and intractable the problem are, crying for urgent resolution. Right-thinking Sri Lankans wish her success. Her chief challenge is overcoming our corrupt society.
+
+She is more qualified than most Sri Lankans to tackle the problem. She has a doctorate, university teaching experience and, besides Sri Lankan and Indian studying experience, significant multi-continental European, American and Australian exposure.
+
+As I demonstrate, our educational problems are a fallout of our corrupt society. We suddenly have a relatively clean government. The PM in such a government, is well-positioned to succeed.
+
+The PM’s qualifications as Minister of Education are unquestionable, even though some argue that better people were overlooked because she is a woman.
+
+...
+
+[Data](articles/d90a81c7.json)
 
 ---
 
@@ -1763,63 +1815,5 @@ Thailand also accused Cambodia of firing into civilian areas and evacuated all v
 ...
 
 [Data](articles/8bab812e.json)
-
----
-
-### Showers expected in parts of the island
-
-*2025-07-26 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110845/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department states that showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
-
-Several spells of showers will occur in the North-western province and a few showers may occur in the Northern province.
-
-Fairly strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern and North-central provinces and in Puttalam, Trincomalee, and Hambantota districts., the Met. Department added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/60436a8b.json)
-
----
-
-### හෝමාගම පුද්ගල ඝාතනයට සැකපිට 4දෙනෙක් අත්අඩංගුවට
-
-*2025-07-26 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212650) · `si`
-
-ගෙල සිරකර හිසට පහරදී පුද්ගලයෙකු ඝාතනය කර හෝමාගම පොලිස් වසමේ බයිපාස් මාර්ගයේ දමාගොස් තිබූ අපරාධයට සම්බන්ධ සැකකරුවන් සිව් දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-අදාළ අපරාධය ඉකුත් 10 වනදා සිදුකර තිබූ අතර නුගේගොඩ කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් ඊයේ (25) රාත්‍රී කාලයේ මාදම්පිටිය හා ග්‍රෑන්ඩ්පාස් යන පොලිස් වසම්වලදී සිදුකළ මෙහෙයුමකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
-
-ඒ අනුව අදාළ සැකකරුවන් මේ වනවිට හෝමාගම පොලිස් ස්ථානයට ඉදිරිපත් කර තිබේ.
-
-සැකකරුවන් අවුරුදු 18 හා 24 යන වයස්වල පසුවන කොළඹ 14 හා 15 යන ප්‍රදේශවල පදිංචිකරුවන් ය.
-
-අදාළ පුද්ගලයාව ඝාතනය කිරීමෙන් පසු ඔහු පැමිණි මෝටර් රථය කෑගල්ල මාවනැල්ල මාර්ගයේ තිබී සොයා ගැනුණි.
-
-ඒ අනුව ඝාතනයට සම්බන්ධ සැකකරුවන් හඳුනාගැනීම සඳහා පොලීසිය දීර්ඝ විමර්ශනයක් සිදුකළ අතර එහි ප්‍රතිඵලයක් ලෙස මෙම අපරාධයට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/df6845ff.json)
-
----
-
-### දෙහිවල වෙඩි තැබීමට සම්බන්ධ සැකකරු එස්.ටී.එෆ්. වෙඩි පහරින් මරුට
-
-*2025-07-26 06:49:58* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-වෙඩි-තැබීමට-සම්බන්ධ-සැකකරු-එස්-ටී-එෆ්--වෙඩි-පහරින්-මරුට/11-417510) · `si`
-
-2025.07.18 වන දින දෙහිවල දුම්රියපොල අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් පුද්ගලයෙකුට වෙඩි තබා තුවාල සිදුකිරීමට සම්බන්ධ ප්‍රධාන සැකකරු 2025.07.25 වන දින අළුයම් කාලයේ කහතුඩුව, පාලගම ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බලකා මොරටුව කඳවුරේ නිලධාරීන් කණ්ඩායමක්  අත්අඩංගුවට ගැනීමට යාමේදී ඇති වූ වෙඩි හුවමාරුවකදී වෙඩි වැදිමෙන් මියගොස් ඇත.
-
-මරණකරු වයස අවුරුදු 41 ක් වූ කවුඩාන, දෙහිවල ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මෘත ශරීරය වෑතර රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධියෙන් පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරියෙකුද තුවාල ලබා කළුබෝවිල රෝහලට ඇතුලත් කර ඇත.
-
-කහතුඩුව පොලිසිය හා පොලිස් විශේෂ කාර්ය බලකා මොරටුව කඳවුර එක්ව වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/36132fac.json)
 
 ---

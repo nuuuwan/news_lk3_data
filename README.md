@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 14:48:27**
+As of **2025-07-27 15:06:15**
 
 ## Newspaper Stats
 
-*Scraped **67,047** Articles*
+*Scraped **67,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,58 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,425
-adaderanalk | 8,234
+adaderanalk | 8,235
 tamilmirrorlk | 9,696
 virakesarilk | 11,179
-adaderanasinhalalk | 11,519
+adaderanasinhalalk | 11,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,047 articles have been extended.
+61,973 (92.4%) of 67,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
 
+### பேஸ்புக் களியாட்ட நிகழ்வு ; போதைப்பொருளுடன் 21 பேர் கைது
+
+*2025-07-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
+
+கடுவலை, வெலிவிட்ட பகுதியில் பேஸ்புக்  ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ஒன்றில் வைத்து போதைப்பொருட்களுடன் 21 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய முன்னெடுக்கப்பட்ட சுற்றி வளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களிடமிருநந்து  கஞ்சா மற்றும் போதை மாத்திரைகள் உட்பட பல சட்டவிரோத பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+22 முதல் 27 வயதுக்குட்பட்ட இந்த சந்தேகநபர்கள் கடுவலை  நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
+
+◼️
+
+[Data](articles/69dee9aa.json)
+
+---
+
+### ත්‍රීරෝද රථයක් ඩෙවෝන් ඇළට පෙරළෙයි  - පුද්ගලයෙකුට තුවාල
+
+*2025-07-27 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212691) · `si`
+
+දිඹුලපතන ප්‍රදේශයේ සිට හැටන් දක්වා ධාවනය වූ ත්‍රීරෝද රථයක් මාර්ගයෙන් ඉවතට පැන ඩෙවෝන් ඇළට පෙරළීමෙන් අනතුරක් සිදුව තිබේ.
+
+දිඹුලපතන පොලීසිය පැවසුවේ අධික වේගයෙන් ධාවනය වී ඇති මෙම ත්‍රීරෝද රථයේ ඉදිරිපස රෝදයේ හදිසියේ ඇති වූ කාර්මික දෝෂයක් හේතුවෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+කෙසේ වෙතත් අනතුරින් ත්‍රීරෝද රථයට දැඩි අලාභ හානි සිදුව තිබේ.
+
+◼️
+
+[Data](articles/82e1d285.json)
+
+---
+
 ### படகு கவிழ்ந்து விபத்து ; இரு மீனவர்கள் மீட்பு
 
-*2025-07-27 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221078) · `ta`
+*2025-07-27 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221078) · `ta`
 
 தெற்கு கடற்பரப்பில் மிரிஸ்ஸ அருகே இன்று ஞாயிற்றுக்கிழமை (27) விபத்துக்குள்ளான படகு ஒன்றில் இருந்து  இரண்டு மீனவர்களை கரையோர காவல்படையினர் மீட்டுள்ளனர்.
 
@@ -65,6 +99,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8b36ec23.json)
+
+---
+
+### Sri Lanka’s Cardinal Ranjith opposes same-sex marriage concept
+
+*2025-07-27 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110879/sri-lankas-cardinal-ranjith-opposes-same-sex-marriage-concept) · `en`
+
+Archbishop of Colombo His Eminence Cardinal Malcolm Ranjith has reiterated the importance of safeguarding the traditional family unit while strongly opposing the same-sex marriage concept.
+
+While delivering a sermon at the St. Anne’s Church Beruwala, Cardinal Malcolm Ranjith said the new generation has been misguided due to various propagandas and seeking temporary solutions without understanding the real meaning of marriage.
+
+The Archbishop of Colombo said Sri Lankans are being influenced by global trends at present and stated that certain organisations are actively working on promoting same-sex marriage among the younger generation.
+
+Cardinal Malcolm Ranjith stressed that a family cannot be built without the involvement of a man and a woman.
+
+The Archbishop therefore reiterated the importance of safeguarding the traditional marriage while rejecting new trends that are detrimental to the society.
+
+◼️
+
+[Data](articles/aa518558.json)
 
 ---
 
@@ -215,24 +269,6 @@ These operations have been launched under the direct supervision of the Deputy I
 ...
 
 [Data](articles/1ff6d216.json)
-
----
-
-### சமூக ஊடகங்கள் ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ; போதைப்பொருளுடன் 21 பேர் கைது
-
-*2025-07-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
-
-கடுவலை, வெலிவிட்ட பகுதியில் சமூக ஊடகங்கள் ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ஒன்றில் போதைப்பொருட்களுடன்  21 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய முன்னெடுக்கப்பட்ட சுற்றி வளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்களிடமிருநந்து  கஞ்சா மற்றும் போதை மாத்திரைகள் உட்பட பல சட்டவிரோத பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
-
-22 முதல் 27 வயதுக்குட்பட்ட சந்தேகநபர்கள் கடுவலை  நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
-
-◼️
-
-[Data](articles/69dee9aa.json)
 
 ---
 
@@ -1797,35 +1833,5 @@ The PM’s qualifications as Minister of Education are unquestionable, even thou
 ◼️
 
 [Data](articles/b810a9ba.json)
-
----
-
-### Electricity Reform: The Act & The Amendment
-
-*2025-07-26 22:13:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electricity-reform-the-act-the-amendment/) · `en`
-
-It will not be an exaggeration to say that what the 2024 Electricity Act proposed, the 2025 Amendment seems set up to depose. Equally, what the Act set about to depose, the Amendment is seeking to re-propose. Unrestricted unbundling of the Ceylon Electricity Board (CEB) and privatizing the unbundled parts were the central purpose of the Act. Controlled unbundling without abandoning public ownership seems to be the main motivation behind the Amendment. The Act exclusively privileged everyone else except engineers to carry the burden of reforming the electricity sector. The Amendment reverses that privilege and includes mostly engineers with limited participation by other experts. Apart from policy specifics and technical details, it is unfortunate that the Act and the Amendment have singularly failed to find a balance between divergent approaches to electricity reform but have instead created unnecessary dichotomies between them.
-
-...
-
-[Data](articles/a83b1b1e.json)
-
----
-
-### வீட்டின் அருகிலிருந்த ஆற்றில் விழுந்து குழந்தை மரணம்
-
-*2025-07-26 22:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டின்-அருகிலிருந்த-ஆற்றில்-விழுந்து-குழந்தை-மரணம்/76-361778) · `ta`
-
-திம்புள்ள பத்தனை பொலிஸ் பிரிவிற்குட்பட்ட டெவோன் நீர் வீழ்ச்சிக்கு நீர் ஏந்தி செல்லும் கொட்டகலை ரொசிட்ட பகுதியில் உள்ள ஆறு ஒன்றில் இருந்து இன்று 4 வயதுடைய பெண் குழந்தை சடலமாக மீட்கப்பட்டுள்ளார்.
-
-திருமண நிகழ்வு ஒன்றுக்கு செல்லவிருந்த நிலையில், தனது மகளை தயார் நிலையில் வைத்து விட்டு குழந்தையின் தாய் தயாராகி கொண்டிருந்த வேளை, குறித்த குழந்தை வீட்டின் அருகிலிருந்த ஆற்றில் தவறுதலாக விழுந்து நீரில் அடித்து செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பின்னர் குறித்த குழந்தையை தேடும் நடவடிக்கையில் பொலிஸார் மற்றும் பொதுமக்கள் இணைந்து ஈடுபட்ட போது சுமார் மூன்று மணித்தியாலங்களுக்கு பின்னர் நீரில் அடித்து செல்லப்பட்ட குழந்தை சடலமாக மீட்கப்பட்டு கொட்டகலை பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-சடலமாக மீடகப்பட்ட குழந்தை கொட்டகலை ரொசிட்டா தோட்டத்தை சேர்ந்த நான்கு வயதுடைய கிரேக்சிக்கா நெகோமி என அடையாளம் காணப்பட்டுள்ளதோடு, சடலம் சட்டவைத்திய அதிகாரியின் பிரேத பரிசோதனைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாக பொலிஸார் மேலும் குறிப்பிட்டனர்.
-
-◼️
-
-[Data](articles/3199e8e1.json)
 
 ---

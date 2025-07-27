@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 00:36:57**
+As of **2025-07-28 00:47:29**
 
 ## Newspaper Stats
 
-*Scraped **67,106** Articles*
+*Scraped **67,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 688
-economynextcom | 4,101
+economynextcom | 4,102
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,106 articles have been extended.
+61,973 (92.3%) of 67,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -335,6 +335,28 @@ Police also seized four illegal firearms during this special operation.
 ◼️
 
 [Data](articles/d92aded9.json)
+
+---
+
+### Lanka Ashok Leyland exports to Maldives, eyes Africa
+
+*2025-07-27 18:35:00* · [`economynextcom`](https://economynext.com/lanka-ashok-leyland-exports-to-maldives-eyes-africa-232927/) · `en`
+
+ECONOMYNEXT – Lanka Ashok Leyland, a unit of India’s Ashok Leyland, a commercial vehicle distributor which also assembles in Sri Lanka said it wants to grow exports and is looking at markets in Africa.
+
+The company had export revenues of 140 million in 2025 and 255 million a year earlier, mainly from shipment to the Maldives.
+
+“To further support national economic recovery and industry competitiveness, the company has also started laying groundwork to develop export capabilities,” Lanka Ashok Leyland told shareholders in the annual report.
+
+“Initial consignments were delivered to the Maldives, and exploratory work has begun to assess market opportunities in right-hand drive countries across Africa.
+
+“Though still at a nascent stage, exports remain an important component of the company’s long-term growth agenda.
+
+“This initiative marks a significant milestone in expanding the company’s regional footprint and showcases its capability to meet international standards in vehicle assembling.
+
+...
+
+[Data](articles/d781b7e6.json)
 
 ---
 
@@ -1763,31 +1785,5 @@ The statement also affirms that the existing security arrangements for the clerg
 ◼️
 
 [Data](articles/e86f4140.json)
-
----
-
-### Turkey records all-time high temperature of 50.5 degrees celsius
-
-*2025-07-27 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110873/turkey-records-all-time-high-temperature-of-505-degrees-celsius) · `en`
-
-Turkey’s environment ministry has stated that meteorologists had registered a reading of 50.5C in the southeast of the country, a nationwide record.
-
-The record temperature was registered on Friday at Silopi, the ministry said in a post on X.
-
-And across the country, 132 weather stations had registered record temperatures for the month of July, the statement added.
-
-Silopi, in the province of Sirnak, sits just 10 kilometres (six miles) from Turkey’s borders with Iraq and Syria.
-
-The previous heat record in temperature, recorded in August 2023, was 49.5C.
-
-The country is currently in the grip of a heatwave and is fighting fires in a number of regions.
-
-Firefighters have been struggling for four days to contain one in the northern Karabuk province, forcing the evacuation of several villagers.
-
-On Wednesday, 10 people perished fighting a fire in Eskisehir province.
-
-...
-
-[Data](articles/5532a02c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 19:47:28**
+As of **2025-07-27 20:05:39**
 
 ## Newspaper Stats
 
-*Scraped **67,089** Articles*
+*Scraped **67,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,431
-adaderanalk | 8,243
+adaderanalk | 8,245
 tamilmirrorlk | 9,704
-virakesarilk | 11,188
+virakesarilk | 11,189
 adaderanasinhalalk | 11,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,089 articles have been extended.
+61,973 (92.4%) of 67,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### மாகாண சபை முறை நாட்டுக்கு அவசியமா? சகலரும் விரிவாக கலந்துரையாடி தீர்மானிக்க வேண்டும் - தினேஷ் குணவர்தன
+
+*2025-07-27 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/221107) · `ta`
+
+மாகாண சபை முறைமை நாட்டுக்கு அவசியமா என்பதை மீள் சிந்திக்க வேண்டிய காலம் வந்திருக்கிறது. மாகாண சபை முறைமையை அப்படியே கொண்டு செல்வதா? அல்லது அப்படியே முடித்துக் கொள்வதா? அல்லது அதனை முழுமையாக மறுசீரமைப்பு செய்வதா என்பது தொடர்பில் நாடளாவிய ரீதியில் கலந்துரையாடல்களும் மீளாய்வும் இடம்பெற வேண்டியது அவசியம் என்று முன்னாள் பிரதமரும் மக்கள் ஐக்கிய முன்னணியின் தலைவருமான தினேஷ் குணவர்தன தெரிவித்தார்.
+
+40 வருடங்களுக்கு முன்னர் அறிமுகப்படுத்தப்பட்ட மாகாண சபை முறைமை இன்றைய அரசியல் சவால்களை எதிர்கொள்கிறதா என்பதை நாம் ஆராய வேண்டும். மேலும் மாகாண சபை முறையின்றி கடந்த பல வருடங்களாக நாடு இயங்கி இருக்கிறது என்பதையும் புரிந்துகொள்ள வேண்டும் எனவும் தினேஷ் குணவர்தன சுட்டிக்காட்டினார்.
+
+மாகாண சபைத் தேர்தல்கள் தொடர்ந்தும் நடத்தப்படாமல் தாமதமடைந்து வருகின்ற சூழலில் அது தொடர்பில் தினேஷ் குணவர்தனவின் நிலைப்பாட்டை வினவிய போதே அவர் வீரகேசரியிடம் இதனை சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/525ee1be.json)
+
+---
+
+### Two fishermen rescued after boat capsizes in seas off Mirissa
+
+*2025-07-27 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110888/two-fishermen-rescued-after-boat-capsizes-in-seas-off-mirissa) · `en`
+
+The Sri Lanka Coast Guard (SLCG) has successfully rescued two fishermen who were in distress after their fishing vessel capsized due to rough seas off the southern coast near Mirissa today (July 27).
+
+The fishermen had departed from Bandaramulla, Mirissa, early this morning for routine fishing activities.
+
+Later, their boat encountered rough sea conditions and capsized off the Mirissa coastline, the SLCG said in a statement.
+
+Upon receiving information about the incident, the SLCG Operations Center promptly dispatched the Inshore Patrol Boat ‘CG 201’ to the reported location.
+
+Accordingly, the rescue team had retrieved the two fishermen along with the boat and brought them ashore unharmed, with the support of civilians in the area, the statement said.
+
+The rescued individuals, aged 35 and 63, are residents of the Bandaramulla area in Mirissa.
+
+◼️
+
+[Data](articles/89d91d38.json)
+
+---
+
+### Over 1,100 arrested for drug-related offenses in island-wide operation
+
+*2025-07-27 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110887/over-1100-arrested-for-drug-related-offenses-in-island-wide-operation) · `en`
+
+A total of 1,182 individuals have been arrested in connection with drug-related offenses during a special island-wide operation conducted yesterday (26) by the Sri Lanka Police, the Police Special Task Force (STF), and the Tri-Forces.
+
+During the operation, authorities seized 230 grams and 159 milligrams of crystal methamphetamine (Ice), as well as 220 grams and 415 milligrams of heroin.
+
+Meanwhile, 20 individuals directly linked to criminal activities and 410 suspects with outstanding warrants for various offenses were arrested during the operation.
+
+As part of the operation, 24,343 individuals were subjected to inspections, while 9,727 vehicles and 7,396 motorcycles were also searched.
+
+The operation involved more than 7,600 personnel, including police officers, members of the Special Task Force, and the tri-forces personnel.
+
+Police also seized four illegal firearms during this special operation.
+
+◼️
+
+[Data](articles/a088146e.json)
+
+---
 
 ### ගාසා තීරයේ ප්‍රදේශ 3කට තාවකාලික සටන් විරාමයක්
 
@@ -1735,57 +1795,5 @@ The announcement that the military would pause some fighting comes after months 
 ...
 
 [Data](articles/7ce24b48.json)
-
----
-
-### තායිලන්ත - කාම්බෝජ ගැටුම විසඳීමට ජනපතිට මැදිහත් වන්නැයි ඉල්ලීමක්
-
-*2025-07-27 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212681) · `si`
-
-තායිලන්තය සහ කාම්බෝජය අතර හටගෙන ඇති පවතින ගැටලුකාරී තත්ත්වය සාමකාමීව විසඳාගැනීම සඳහා අතරමැදියෙකු ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතාට මැදිහත් වන්නැයි පූජ්‍ය ඕමල්පේ සෝභිත හිමියන් ඉල්ලීමක් කරයි.
-
-උන්වහන්සේ පවසන්නේ ඒ සඳහා ජනාධිපතිවරයාට පූර්ණ අයිතියක් ඇති බැවින් භික්ෂූන් වහන්සේලා පෙරටු කරගනිමින් දෙරටේ බලධාරීන් හමුවී මේ පිළිබඳ කඩිනමින් සාකච්ඡා කළ යුතු බවය.
-
-"බෞද්ධ රටවල් දෙකක් හැටියට කරුණාකරලා පාරම්පරිකව අවුරුදු දහස් ගණනාවක් තිස්සේ තමන් ලද උරුමයට මුල් තැන දීලා බෞද්ධ ක්‍රමයට මේ ප්‍රශ්නය විසඳගන්න ඉදිරිපත් වෙන්න. කරුණාකරලා ඒ සම්බන්ධයෙන් අවධානය යොමුකරන්න කියලා අපි තායිලන්තයේ සහ කාම්බෝජයේ බලධාරීන්ට කරුණාවෙන් මතක් කිරීම සඳහා වූ යෝජනාව සඳහා අද පාලක මහා සංඝ සභාවේ සම්මත වුණේ.
-
-...
-
-[Data](articles/62c73a1b.json)
-
----
-
-### எதிர்ப்புக்கு மத்தியில் நல்லூர் திருவிழாவுக்கு மணல் விநியோகம்
-
-*2025-07-27 10:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்புக்கு-மத்தியில்-நல்லூர்-திருவிழாவுக்கு-மணல்-விநியோகம்/175-361799) · `ta`
-
-அம்பன் கிழக்கில் கிராம அபிவிருத்தி சங்கத்தின் தீர்மானத்தை மீறி பொலிஸ் பாதுகாப்புடன் நல்லூர் ஆலயத்திற்கு மணல் விநியோகம்   சனிக்கிழமை (26) இடம்பெற்றது.
-
-நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்த திருவிழாவுக்காக வருடம் தோறும் குறிப்பிட்ட மணல் மண் வடமராட்சி கிழக்கு அம்பன் பகுதியில் இருந்து பிரதேச மக்களின் அனுமதியுடன் வழங்கப்பட்டு வந்தது.
-
-வருடாந்தம் வழங்கப்படும் மணல் மண், திருவிழா நிறைவடைந்ததும் விற்பனை செய்யப்படுகிறது.  அம்பன் கிழக்கில் பத்து லட்சம் கியூப் மணல் மண் அகழப்பட்டு சூழல் சமநிலை பாதிக்கப்பட்ட நிலையில் தமது கிராமத்தை தொடர்ந்து அழிவிற்கு உட்படுத்தக் கூடாது என்பதன் கருத்தில் கொண்டும். இம்முறை மணல் மண் வழங்குவதற்கு எதிர்ப்பு தெரிவித்தது மணல் மண் வழங்க மறுத்திருந்தனர். அதேவேளை தொடர்ச்சியாக அம்பன் கிழக்கில் மட்டும் அகழ கூடாது என்று தெரிவித்திருந்தனர்.
-
-இந்நிலையில்   பிரதேச மக்களின் எதிர்ப்புக்கு மத்தியில் பொலிஸ் பாதுகாப்புடன் மணல் மண் விநியோகம் இடம் பெற்றது. .
-
-...
-
-[Data](articles/6e0fe90b.json)
-
----
-
-### Sri Lanka President urged to intervene in Thailand–Cambodia dispute
-
-*2025-07-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110869/sri-lanka-president-urged-to-intervene-in-thailandcambodia-dispute) · `en`
-
-A request has been made to President Anura Kumara Dissanayake to intervene as a mediator in order to peacefully resolve the ongoing tensions between Thailand and Cambodia.
-
-Venerable Omalpe Sobhitha Thera stated that the President has full authority to act in his capacity and emphasized the importance of holding prompt discussions with the authorities of both countries, with the involvement of Buddhist monks.
-
-Ven. Omalpe Sobhitha Thera also urged both Thailand and Cambodia as two Buddhist nations, to address the issue in a compassionate manner, giving priority to the heritage they have preserved for thousands of years.
-
-The Thera stated a proposal regarding the intervention has been unanimously adopted by the Supreme Council of the Sangha and therefore Ven. Sobhitha Thera called on the authorities of Thailand and Cambodia to direct their attention on the matter promptly.
-
-...
-
-[Data](articles/62682aaf.json)
 
 ---

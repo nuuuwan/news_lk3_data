@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 16:21:29**
+As of **2025-07-27 16:32:30**
 
 ## Newspaper Stats
 
-*Scraped **67,064** Articles*
+*Scraped **67,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,429
-adaderanalk | 8,238
+adaderanalk | 8,239
 tamilmirrorlk | 9,700
-virakesarilk | 11,181
+virakesarilk | 11,183
 adaderanasinhalalk | 11,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,064 articles have been extended.
+61,973 (92.4%) of 67,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### புதிய பிரதம நீதியரசராக பிரீத்தி பத்மன் சூரசேன பதவியேற்பு
+
+*2025-07-27 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221085) · `ta`
+
+இலங்கையின் புதிய பிரதம நீதியரசராக உயர் நீதிமன்ற சிரேஷ்ட நீதியரசர் பிரீத்தி பத்மன் சூரசேன இன்று ஞாயிற்றுக்கிழமை (27) காலை ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க முன்னிலையில் பதவியேற்றார்.
+
+பிரதம நீதியரசர் முர்து நிருபா பிந்துஷினி பெர்னாண்டோ ஓய்வு பெற்றதைத் தொடர்ந்து காலியாக இருந்த பதவிக்கு பிரீத்தி பத்மன் சூரசேனவின் பெயரை அரசியலமைப்பு சபை அண்மையில் அங்கீகரித்தது.
+
+1989 ஆம் ஆண்டு சட்டத்தரணியாக பதவியேற்ற பிரீத்தி பத்மன் சூரசேன, பின்னர் சட்டமா அதிபர் திணைக்களத்தில் இணைந்து அரச தரப்பு  சட்டத்தரணியாக பணியாற்றி 2007 ஆம் ஆண்டு உயர் நீதிமன்ற நீதிபதியாக நியமிக்கப்பட்டார்.
+
+2016 ஆம் ஆண்டு மேன்முறையீட்டு நீதிமன்ற நீதிபதியாக நியமிக்கப்பட்ட அவர், 2018 ஆம் ஆண்டு மேன்முறையீட்டு நீதிமன்றத் தலைவராகவும், 2019 ஆம் ஆண்டு உயர் நீதிமன்ற நீதியரசராகவும் நியமிக்கப்பட்டார்.
+
+அது தொடக்கம், உயர் நீதிமன்ற நீதியரசராக இருந்து வந்த  பிரீத்தி பத்மன் சூரசேன, முன்னாள் பிரதம நீதியரசர் முர்து பெர்னாண்டோவுக்குப் பிறகு இருக்கும் உயர் நீதிமன்ற நீதிபதிகளில் சிரேஷ்ட நீதியரசர் ஆவார்.
+
+...
+
+[Data](articles/0539bafc.json)
+
+---
+
+### செம்மணி மனிதப் புதைகுழியில் தரையை ஊடுருவும் ராடர் மூலம் பரந்துபட்ட ஸ்கான் நடவடிக்கைகள் முன்னெடுப்பதற்கான திட்டம் ஆரம்பம்!
+
+*2025-07-27 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221082) · `ta`
+
+யாழ்ப்பாணம் செம்மணி பகுதியில் அமைந்துள்ள மனிதப் புதைகுழியில், தற்போது தரையை ஊடுருவும் ராடர் (GPR – Ground Penetrating Radar) மூலம் பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க திட்டமிடப்பட்டுள்ளது. இதற்கான தொழில்நுட்பம் வெளிநாட்டிலிருந்து கொண்டுவரப்பட்டு, துரிதகதியில் ஆய்வுப் பணிகள் முன்னெடுக்கப்படுகின்றன.
+
+இது தொடர்பாக, செய்மதிப் படங்களின் அடிப்படையில் அகழ்வுப் பணிகளுக்கு வெளியே புதிய இடங்களும் அடையாளம் காணப்பட்டுள்ளன. அவை, துறைசார் நிபுணரான சோமதேவாவினால்  உறுதிப்படுத்தப்பட்ட பகுதிகளாகும்.
+
+இந்நிலையில், செம்மணியில் குறித்த பகுதிக்குள் மட்டும் அகழ்வுகளை மேற்கொள்ளாமல், பரந்துபட்ட இடங்களிலும் மேற்கொள்ள வேண்டும் என உள்ளூர் மற்றும் சர்வதேச அளவில் வலியுறுத்தல்கள் அதிகரித்தன.
+
+...
+
+[Data](articles/e0b3ddcd.json)
+
+---
 
 ### புதிய பிரதம நீதியரசர்   பதவியேற்றார்
 
@@ -167,6 +203,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/004d3449.json)
+
+---
+
+### World’s No. 1 stunt kite team to feature at Derana International Kite Festival
+
+*2025-07-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110882/worlds-no-1-stunt-kite-team-to-feature-at-derana-international-kite-festival) · `en`
+
+The world’s number one stunt kite team, the Three Wind Kite Team from Wuhan, China, will take part in the Derana-Signal Colombo International Kite Festival.
+
+The Kite Festival is scheduled to take place on August 24 at Galle Face Green.
+
+The Three Wind Kite Team has also claimed the World Kite Championship title for three years consecutively.
+
+◼️
+
+[Data](articles/4ae68050.json)
 
 ---
 
@@ -1769,65 +1821,5 @@ Meanwhile, United Nations Secretary-General Antonio Guterres expressed his deep 
 ...
 
 [Data](articles/af9be7aa.json)
-
----
-
-### අමෙරිකාවේ සුපිරි වෙළෙඳසැලක පිහි ඇනුමක්
-
-*2025-07-27 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212676) · `si`
-
-අමෙරිකාවේ, මිචිගන් ප්‍රාන්තයේ සුපිරි වෙළෙඳසැලක සිදුකළ පිහි ඇනුමකින් පුද්ගලයින් 11 දෙනෙකු පමණ තුවාල ලබා තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ එම පිහි ඇනුමෙන් තුවාල ලැබූ පුද්ගලයින් තිදෙනෙකු සැත්කම්වලට භාජනය කර ඇති බවය.
-
-පිහි ඇනුමෙන් තුවාල ලැබූ අයගෙන් හය දෙනෙකු පිරිමි පුද්ගලයින් වන අතර පස්දෙනෙකු කාන්තාවන් බවට වාර්තා වෙයි.
-
-සිද්ධිය සම්බන්ධයෙන් මිචිගන්හි පදිංචි 42 හැවිරිදි පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් සැකකරුගේ අනන්‍යතාවය මෙතෙක් හෙළි කර නොමැති අතර මෙය ත්‍රස්තවාදී ක්‍රියාවක් නොවන බව එරට බලධාරීන් පවසයි.
-
-◼️
-
-[Data](articles/ecc94c11.json)
-
----
-
-### A/L Exam top achievers to be felicitated by President’s Fund in Batticaloa
-
-*2025-07-27 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110863/al-exam-top-achievers-to-be-felicitated-by-presidents-fund-in-batticaloa) · `en`
-
-The Eastern Province ceremony of the President’s Fund A/L Excellence Awards organized to recognize district-level top achievers of the 2023/2024 G.C.E. Advanced Level Examination will be held today (27) at the Swami Vipulananda Faculty of Fine Arts in Batticaloa.
-
-Under this initiative, 60 top-performing students who excelled in A/L in 2023/2024 from each district, representing various subject streams, will be awarded financial scholarships and certificates in recognition of their academic excellence, the President’s Media Division said.
-
-This province-based recognition program was first launched in the Northern Province with its inaugural event in Kilinochchi, followed by the second event in Matara for the Southern Province, the PMD noted.
-
-The upcoming ceremony in Batticaloa marks the third in the series, focusing on the Eastern Province.
-
-A total of 360 top-performing students from the districts of Ampara, Batticaloa and Trincomalee will be honoured.
-
-...
-
-[Data](articles/01baa8f1.json)
-
----
-
-### අද කාලගුණය
-
-*2025-07-27 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212675) · `si`
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (27) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු සහ උතුරු-මැද පළාත්වලත් පුත්තලම, ත්‍රිකුණාමලය, සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 50ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවය.
-
-පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  තැනින් තැන වැසි ඇති වේ.
-
-දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශාවලින් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40 පමණ විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-මාතර සිට  හම්බන්තොට හරහා පොතුවිල් දක්වා සහ  කල්පිටිය සිට මන්නාරම, කන්කසන්තුරය සහ ත්‍රිකුණාමලය හරහා  වාකරේ දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 50-55 පමණ දක්වා ඉහළ යා හැකියි.
-
-...
-
-[Data](articles/8cdc8b51.json)
 
 ---

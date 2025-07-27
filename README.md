@@ -1,36 +1,118 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 03:48:18**
+As of **2025-07-28 04:06:24**
 
 ## Newspaper Stats
 
-*Scraped **67,117** Articles*
+*Scraped **67,124** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
-colombotelegraphcom | 688
+colombotelegraphcom | 690
 economynextcom | 4,102
 islandlk | 4,106
 dailymirrorlk | 4,733
-dailyftlk | 4,740
+dailyftlk | 4,744
 adalk | 6,434
 adaderanalk | 8,247
 tamilmirrorlk | 9,704
-virakesarilk | 11,199
+virakesarilk | 11,200
 adaderanasinhalalk | 11,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,117 articles have been extended.
+61,973 (92.3%) of 67,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### Women’s Chamber of Industry and Commerce Northern Chapter holds workshop on “Importance of Packaging”
+
+*2025-07-28 03:49:24* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-Northern-Chapter-holds-workshop-on-Importance-of-Packaging/34-779556) · `en`
+
+The Women’s Chamber of Industry and Commerce (WCIC) Northern Chapter, formally inaugurated earlier this year, has been operating in the Northern Province with the support of the German Asia-Pacific Business Association (OAV) for the past two years, engaging, empowering, and enriching the women entrepreneurs of the North.
+
+Northern Province, once a vibrant hub of economic activity, is making valiant efforts to gain the lost glory. However, the results are much to be desired.
+
+The WCIC has enrolled a base of SMEs and some larger businesses to form a group that could benefit from the efforts and strengths of the chamber. We focus on providing capacity building initiatives and support with policy advocacy.
+
+...
+
+[Data](articles/5a103241.json)
+
+---
+
+### TRACE announces Research  and Development Grant for innovators
+
+*2025-07-28 03:41:49* · [`dailyftlk`](https://www.ft.lk/business/TRACE-announces-Research-and-Development-Grant-for-innovators/34-779555) · `en`
+
+In a bold move to accelerate innovation and support the country’s brightest minds, TRACE has officially opened applications for its 2025 Research and Development (R&D) Grant.
+
+The program offers funding of up to Rs. 500,000 for eligible individuals and teams working on cutting-edge research projects.
+
+The TRACE R&D Grant is open to a broad spectrum of applicants including university students and academic staff, startups, and independent researchers. The initiative aims to foster innovation, support experimental ideas, and bring transformative research to life across a variety of sectors.
+
+“We believe that great ideas deserve the opportunity to flourish,” said a spokesperson from TRACE. “Through this grant, we hope to empower researchers and entrepreneurs to drive meaningful impact and create solutions that address real-world challenges.”
+
+Applications are being accepted until 31 August, and interested applicants are encouraged to submit their proposals via the official application portal.
+
+...
+
+[Data](articles/e49e9f0f.json)
+
+---
+
+### National campaign launched to control sexual harassment in public transport and spaces
+
+*2025-07-28 03:27:42* · [`dailyftlk`](https://www.ft.lk/news/National-campaign-launched-to-control-sexual-harassment-in-public-transport-and-spaces/56-779554) · `en`
+
+Sexual harassment in Sri Lanka’s public transport and spaces poses a severe threat to women and girls, limiting their freedom and causing distress. This persistent issue fosters gender imbalance, directly hindering the nation’s economic growth and overall development.
+
+In response to this growing challenge, the Sri Lankan Government, in partnership with the Government of Japan and the United Nations Population Fund (UNFPA), has initiated a national campaign with a mission to create safer, gender-sensitive public spaces and ensure harassment-free travel on public transport for the public in Sri Lanka.
+
+The campaign was officially launched on 23 July, in partnership with the Ministry of Women and Child Affairs and the Ministry of Transport, Highways, Ports and Civil Aviation, with support from UNFPA Sri Lanka and funding from the Government of Japan.
+
+...
+
+[Data](articles/7dc15ba0.json)
+
+---
+
+### European Union and Sri Lanka host landmark International Conference on Child Protection to tackle violence against children
+
+*2025-07-28 03:24:41* · [`dailyftlk`](https://www.ft.lk/news/European-Union-and-Sri-Lanka-host-landmark-International-Conference-on-Child-Protection-to-tackle-violence-against-children/56-779553) · `en`
+
+Marking a critical push to combat all forms of violence against children in Sri Lanka, the International Conference on Child Protection (ICCP’25) was inaugurated on 25 July and ran until yesterday (27 July). The conference brings together over 250 participants, including Government  leaders, leading Government  institutions, international and local experts, researchers, and child protection practitioners, to forge stronger protection systems for children.
+
+Hosted by the Centre for Gender Studies at the University of Kelaniya in collaboration with the National Child Protection Authority (NCPA) and supported by the European Union (EU) through UNICEF Sri Lanka, ICCP’25 aims to drive policy, academic, and institutional action on some of the country’s most pressing issues related to children.
+
+...
+
+[Data](articles/729a4881.json)
+
+---
+
+### நாட்டில் பல்வேறு பகுதிகளில் மழையுடனான காலநிலை தொடரும் சாத்தியம்
+
+*2025-07-28 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221118) · `ta`
+
+புத்தளத்திலிருந்து கொழும்பு மற்றும் காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளில் பல இடங்களில் 28ஆம் திகதி திங்கட்கிழமை மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது. காலநிலை தொடர்பில் விடுக்கப்படும் முன்னெச்சரிக்கை தொடர்பில் அவதானம் செலுத்துமாறு அனர்த்த முகாமைத்துவ மத்திய நிலையம் பொதுமக்களிடம் வலியுறுத்துகிறது.
+
+நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் காற்றானது மேற்கு முதல் தென்மேற்கு வரையான திசைகளிலிருந்து வீசக் கூடிய சாத்தியம் காணப்படுவதுடன், காற்றின் வேகமானது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+மாத்தறையிலிருந்து ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளிலும் கல்பிட்டியிலிருந்து மன்னார், காங்கேசந்துறை மற்றும் திருகோணமலை ஊடாக வாகரை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளிலும் காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 50-55 கிலோ மீற்றர் வரை அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+...
+
+[Data](articles/1512d83c.json)
+
+---
 
 ### Five new foreign envoys present credentials to President
 
@@ -242,6 +324,26 @@ Unlike active data input (like filling out a form), digital exhaust is collected
 
 ---
 
+### Navigating Crisis
+
+*2025-07-27 21:59:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-crisis/) · `en`
+
+“The winds and waves are always on the side of the ablest navigators.” – Edward Gibbon
+
+At a recent book launch organized by Advocata Institute, Former President Ranil Wickremesinghe made a startling statement. A substantial section of the cognoscente on economics in our land perceives him as our preeminent strategic thinker. Commenting on US Tariffs he said “US is a member of the OCC. And the US has signed on to the EFF and their time limits which means they must help us now… Otherwise they are in breach of the agreement.”
+
+“They are preventing us from repaying bondholders, the former President pointed out adding “And now we must tell the IMF…tell the bondholders to go to the U.S. and collect the money.”
+
+He hoped the current administration will succeed in getting the Trump tariff down as Sri Lanka “cannot survive with 30 percent”.
+
+The gathering he addressed had many outstanding people in the field of finance and commerce.
+
+...
+
+[Data](articles/3a8e9e3d.json)
+
+---
+
 ### Two women killed, 4 injured in crash on expressway
 
 *2025-07-27 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110890/two-women-killed-4-injured-in-crash-on-expressway) · `en`
@@ -255,6 +357,18 @@ A total of six persons were reportedly travelling in the van at the time of the 
 ◼️
 
 [Data](articles/88ae3c4b.json)
+
+---
+
+### Sri Lanka’s Globalisation & Its Policy Challenges, According To Dr. Sarath Rajapatirana
+
+*2025-07-27 21:49:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-globalisation-its-policy-challenges-according-to-dr-sarath-rajapatirana/) · `en`
+
+Sri Lanka had been a beneficiary of the waves of globalisation that had struck it for thousands of years. It had been open to trade, investment, transfer of knowledge, and factor mobility without hindrance. The country’s chronicle, Mahavamsa, talks about an incident that had happened in the 6th century BCE showing that the country had been visited by foreign ships laden with rice and other goods. According to the story, when Prince Vijaya landed in Thambapanni, the local princess Kuveni had hosted him and his retinue numbering 600 to a meal of rice and an assortment of gifts. According to Mahavamsa, rice for the meal and items for gifts had been procured from merchant ships that had been wreaked in the nearby seas.[1]
+
+...
+
+[Data](articles/1228deb8.json)
 
 ---
 
@@ -1667,133 +1781,5 @@ The suspects, aged between 22 and 27 are scheduled to be produced before the Kad
 ◼️
 
 [Data](articles/2291290d.json)
-
----
-
-### 10,000 பொலிஸ் அதிகாரிகளை இணைக்கத் திட்டம்
-
-*2025-07-27 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-000-பொலிஸ்-அதிகாரிகளை-இணைக்கத்-திட்டம்/175-361817) · `ta`
-
-நாடளாவிய ரீதியில் போதைப்பொருள் சுற்றிவளைப்புகளை அதிகரிக்கும் நோக்கில் சுமார் 10 ஆயிரம் சிவில் பாதுகாப்பு அதிகாரிகளை பொலிஸ் சேவையில் இணைத்துக்கொள்வதற்கு தீர்மானித்துள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-நாட்டிலுள்ள அனைத்து பொலிஸ் நிலையங்களையும் மையப்படுத்தி சிவில் பாதுகாப்பு அதிகாரிகளை இணைத்துக்கொள்ள நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு பிரதியமைச்சர் சுனில் வட்டகல தெரிவித்துள்ளார்.
-
-நாட்டிற்குள் போதைப்பொருள் கடத்தல் வலையமைப்பை தடுப்பதனூடாக போதைப்பொருள் பாவனையை குறைக்க முடியுமெனவும் அவர் குறிப்பிட்டுள்ளார்.
-
-நாடளாவிய ரீதியில் இரவு மற்றும் அதிகாலை வேளையில் சுற்றிவளைப்புகள் அதிகரிக்கப்பட்டுள்ளதாகவும் பிரதியமைச்சர் சுனில் வட்டகல தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/6d67d954.json)
-
----
-
-### குற்றச்சாட்டுகளை மறுத்தது இலங்கை பொலிஸ்
-
-*2025-07-27 12:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குற்றச்சாட்டுகளை-மறுத்தது-இலங்கை-பொலிஸ்/175-361816) · `ta`
-
-பெலவத்தையில் உள்ள ஒரு ஹோட்டல் இலவச உணவு வழங்குவதை நிறுத்தியதாகக் கூறப்பட்டதைத் தொடர்ந்து, அதிகாரிகள் பழிவாங்கும் நடவடிக்கையில் ஈடுபட்டதாக சமூக ஊடகங்களில் பரவும் குற்றச்சாட்டுகளை இலங்கை பொலிஸ் மறுத்துள்ளது.
-
-இந்த வைரல் காணொளி, ஜூலை 25, 2025 அன்று பெலவத்தை, பன்னிபிட்டி வீதியில் உள்ள ஒரு ஹோட்டலுக்கு நுகேகொடை உதவி பொலிஸ் கண்காணிப்பாளர் (ASP) மேற்கொண்ட வருகையுடன் தொடர்புடையது. பணம் மற்றும் தங்க நகைகள் திருடப்பட்டதாக ஹோட்டல் ஊழியர் ஒருவர் அளித்த முறைப்பாட்டின் பேரில் விசாரணை நடத்துவதற்காக இந்த வருகை மேற்கொள்ளப்பட்டது.
-
-பொலிஸ் அதிகாரிகள் முன்பு ஹோட்டலில் இருந்து இலவச உணவைப் பெற்றதாகவும், முறைப்பாடுகளைத் தொடர்ந்து இந்த நடைமுறை நிறுத்தப்பட்ட பிறகு, அதிகாரிகள் கோபத்தால் ஹோட்டலை குறிவைத்ததாகவும் சமூக ஊடகப் பதிவுகள் குற்றம் சாட்டின.
-
-...
-
-[Data](articles/819938e1.json)
-
----
-
-### இலங்கையில் குவியும் சுற்றுலாப் பயணிகள்
-
-*2025-07-27 12:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-குவியும்-சுற்றுலாப்-பயணிகள்/175-361815) · `ta`
-
-இந்த  ஆண்டில் இதுவரை நாட்டிற்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1.3 மில்லியனைத் தாண்டியுள்ளதாக  இலங்கை சுற்றுலா மேம்பாட்டு ஆணையம் தெரிவித்துள்ளது.
-
-சுற்றுலா மேம்பாட்டு ஆணையத்தின் சமீபத்திய புள்ளிவிபரங்களின்படி,  1,313,232 வெளிநாட்டு சுற்றுலாப் பயணிகள் இலங்கைக்கு வந்துள்ளதாகக் குறிப்பிடுகின்றன.
-
-இவர்களில் 269,780 பேர் இந்தியாவிலிருந்தும், 124,652 பேர் ஐக்கிய இராச்சியத்திலிருந்தும், 114,644 பேர் ரஷ்யாவிலிருந்தும் வந்ததாகம் தெரிவித்துள்ளது.
-
-அத்துடன், ஜூலை மாதத்தில் இதுவரை 145,188 சுற்றுலாப் பயணிகள் நாட்டிற்கு வந்துள்ளதாக கூறியுள்ளன.
-
-◼️
-
-[Data](articles/29458132.json)
-
----
-
-### கம்போடியா-தாய்லாந்து அமைதிப் பேச்சுக்கு இணக்கம்: டிரம்ப்
-
-*2025-07-27 12:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கம்போடியா-தாய்லாந்து-அமைதிப்-பேச்சுக்கு-இணக்கம்-டிரம்ப்/50-361814) · `ta`
-
-எல்லையில் மூன்று நாட்கள் நடந்த கொடிய மோதல்களுக்குப் பிறகு,  தாய்லாந்து மற்றும் கம்போடியாவின் தலைவர்கள் உடனடியாக போர்நிறுத்த பேச்சுவார்த்தைகளை மேற்கொள்ள ஒப்புக்கொண்டதாக அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் அறிவித்தார்.
-
-இந்த சண்டையில் குறைந்தது 33 பேர் கொல்லப்பட்டனர் மற்றும் 1,68,000 க்கும் மேற்பட்டோர் இடம்பெயர்ந்துள்ளனர்.
-
-தற்போது ஸ்காட்லாந்தில் உள்ள டிரம்ப், கம்போடிய பிரதமர் ஹன் மானெட் மற்றும் தாய்லாந்தின் தற்காலிக பிரதமர் பும்தம் வெச்சாயாச்சாயுடன் பேசியதாக ட்ரூத் சோஷியலில் பதிவிட்டுள்ளார்.
-
-தொடர்ச்சியான மோதல்கள் அமெரிக்காவுடனான எதிர்கால வர்த்தக ஒப்பந்தங்களை பாதிக்கக்கூடும் என்று எச்சரித்து, இரு தரப்பினரும் விரோதத்தை முடிவுக்குக் கொண்டுவர வேண்டும் என்று அவர் வலியுறுத்தினார். இரு தரப்பினரும் தாமதமின்றி அமைதிப் பேச்சுவார்த்தைகளைத் தொடங்க ஒப்புக்கொண்டதாக டிரம்ப் கூறினார்.
-
-◼️
-
-[Data](articles/cf38217e.json)
-
----
-
-### Sri Lanka primary dealers in knowledge sharing drive
-
-*2025-07-27 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-primary-dealers-in-knowledge-sharing-drive-232916/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Association of Primary Dealers is enhancing knowledge in the financial community, an official said after hosting a forum on ongoing changes with new laws and operational changes to deb management.
-
-After the Public Debt Management Act No. 33 of 2024 debt securities issuance is shifting to the Treasury from the central bank.
-
-“The Public Debt Management Act stands as a landmark initiative in shaping a more structured and transparent debt management framework for Sri Lanka,” Romesh Gomez, President of the Association of Primary Dealers said.
-
-President’s Counsel Harsha Fernando, examined the impact on the gilt market and intermediaries of the new law as well as the Public Debt Management Office.
-
-Udeni Udugahapattuwa, Director General of the Public Debt Management Office, N D Y C Weerasinghe, Superintendent of Public Debt, Central Bank of Sri Lanka, and Naomal Goonewardena, Precedent Partner, Nithya Partners were resource persons.
-
-...
-
-[Data](articles/b13fc115.json)
-
----
-
-### ஏற்றுமதித் துறையில் பாரிய வளர்ச்சி
-
-*2025-07-27 11:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதித்-துறையில்-பாரிய-வளர்ச்சி/175-361813) · `ta`
-
-இலங்கையின் 2025ஆம் ஆண்டின் முதல் ஐந்து மாதங்களில் ஏற்றுமதித் துறை குறிப்பிடத்தக்க நேர்மறையான செயல்திறனையும் நிலையான முன்னேற்றத்தையும் காட்டி வருவதாக இலங்கை ஏற்றுமதி மேம்பாட்டு வாரியத்தின் தலைவரும் தலைமை நிர்வாக அதிகாரியுமான மங்கள விஜேசிங்க கூறுகிறார்.
-
-ஊடகங்களுக்கு சனிக்கிழமை (26) அன்று கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-மேலும், 2025ஆம் ஆண்டின் முதல் ஐந்து மாதங்களில் மொத்த ஏற்றுமதி வருவாய் 6,933.35 மில்லியன் அமெரிக்க டொலர்கள் என்று  மங்கள விஜேசிங்க சுட்டிக்காட்டினார்.
-
-கடந்த 2024ஆம் ஆண்டின் இதே காலகட்டத்துடன் ஒப்பிடும்போது இது 7.14% வளர்ச்சியாகும் என்று அவர் மேலும் கூறினார்.
-
-“மே 2025 இல் பொருட்கள் மற்றும் சேவைத் துறைகளில் மொத்த ஏற்றுமதி வருவாய் 1,386.66 மில்லியன் அமெரிக்க டொலர்களாக இருந்தது.
-
-இது இலங்கையின் ஏற்றுமதித் துறையின் செயல்திறன் நிலை மற்றும் சந்தைகளை பன்முகப்படுத்தவும் போட்டித்தன்மையை மேம்படுத்தவும் மூலோபாய முயற்சிகளின் நேர்மறையான தாக்கத்தை பிரதிபலிக்கிறது என்று அவர் கூறுகிறார்.
-
-...
-
-[Data](articles/c6972a1d.json)
-
----
-
-### Police denies withdrawal of security granted to senior monk in Eastern Province
-
-*2025-07-27 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/110874/police-denies-withdrawal-of-security-granted-to-senior-monk-in-eastern-province) · `en`
-
-The Sri Lanka Police have issued a statement regarding a social media post claiming that the security provided to a senior Buddhist monk in the Eastern Province has been withdrawn.
-
-Accordingly, Police denies the claims, stating that no steps have been taken to remove the security provided to the senior monk.
-
-The statement also affirms that the existing security arrangements for the clergy remain unchanged and continue as before.
-
-◼️
-
-[Data](articles/4248a916.json)
 
 ---

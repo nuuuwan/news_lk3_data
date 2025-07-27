@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 16:32:30**
+As of **2025-07-27 16:46:59**
 
 ## Newspaper Stats
 
-*Scraped **67,067** Articles*
+*Scraped **67,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,429
 adaderanalk | 8,239
 tamilmirrorlk | 9,700
 virakesarilk | 11,183
-adaderanasinhalalk | 11,522
+adaderanasinhalalk | 11,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,067 articles have been extended.
+61,973 (92.4%) of 67,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-07-27 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212695) · `si`
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම වයඹ පළාතෙත් කොළඹ සහ ගම්පහ දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි අතර ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල හා උතුරු, උතුරු - මැද , වයඹ යන පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇති විය හැකි බව වාර්තා වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+
+◼️
+
+[Data](articles/a879b02b.json)
+
+---
 
 ### புதிய பிரதம நீதியரசராக பிரீத்தி பத்மன் சூரசேன பதவியேற்பு
 
@@ -1801,25 +1819,5 @@ There were no active exploration licenses at the moment, Minister Jayakody said.
 ◼️
 
 [Data](articles/39f4cc52.json)
-
----
-
-### Thailand, Cambodia agree to hold immediate ceasefire talks
-
-*2025-07-27 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110864/thailand-cambodia-agree-to-hold-immediate-ceasefire-talks) · `en`
-
-US President Donald Trump has announced that Thailand and Cambodia have agreed to an “immediate ceasefire” over violent conflict at their borders.
-
-The US president said that he spoke with both Cambodian Prime Minister Hun Manet and acting prime minister of Thailand Phumtham Wechayachai to restore peace.
-
-In a series of posts on Truth Social, Trump said “They have agreed to immediately meet and quickly work out a Ceasefire and, ultimately, PEACE!”
-
-“They are also looking to get back to the “Trading Table” with the United States, which we think is inappropriate to do until such time as the fighting STOPS,” the Republican leader wrote.
-
-Meanwhile, United Nations Secretary-General Antonio Guterres expressed his deep concern over the recent armed conflict between Thailand and Cambodia at the border, urging both the nations to agree to an immediate ceasefire and resolve the disputes via dialogue.
-
-...
-
-[Data](articles/af9be7aa.json)
 
 ---

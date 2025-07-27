@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 16:06:06**
+As of **2025-07-27 16:21:29**
 
 ## Newspaper Stats
 
-*Scraped **67,063** Articles*
+*Scraped **67,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,101
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,428
+adalk | 6,429
 adaderanalk | 8,238
 tamilmirrorlk | 9,700
 virakesarilk | 11,181
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,063 articles have been extended.
+61,973 (92.4%) of 67,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c96700c4.json)
+
+---
+
+### ප්‍රීති පද්මන් සූරසේන නව අගවිනිසුරු ලෙස දිවුරුම් දෙයි
+
+*2025-07-27 15:28:42* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රීති-පද්මන්-සූරසේන-නව-අගවිනිසුරු-ලෙස-දිවුරුම්-දෙයි/11-417530) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා අද (27දා) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී නව අගවිනිසුරුවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම්  දෙනු ලැබිණි.
+
+◼️
+
+[Data](articles/36a27d9b.json)
 
 ---
 
@@ -1817,29 +1829,5 @@ A total of 360 top-performing students from the districts of Ampara, Batticaloa 
 ...
 
 [Data](articles/8cdc8b51.json)
-
----
-
-### Walmart stabbing in Michigan leaves 11 injured
-
-*2025-07-27 05:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110862/walmart-stabbing-in-michigan-leaves-11-injured) · `en`
-
-At least 11 people have been injured in a stabbing at a Walmart supermarket in Michigan, authorities say.
-
-One suspect was in custody following the incident in Traverse City, authorities confirmed. Local media reports said three people were undergoing surgery.
-
-A nearby hospital said it was treating 11 victims. “As a result, our Emergency Department is currently experiencing a higher-than-usual volume of patients,” Munson Medical Centre said on social media.
-
-Footage posted online shows multiple police and ambulance units in the carpark of the Walmart.
-
-Grand Traverse County Sheriff’s Office confirmed it was investigating “a multiple stabbing incident at the Wal-Mart in Traverse City”.
-
-FBI Deputy Director Dan Bongino said federal personnel were responding to provide any necessary support to local authorities.
-
-Michigan Governor Gretchen Whitmer said she was “in touch with law enforcement about the horrible news”.
-
-...
-
-[Data](articles/90b48025.json)
 
 ---

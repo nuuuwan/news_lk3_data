@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 10:54:54**
+As of **2025-07-27 11:10:42**
 
 ## Newspaper Stats
 
-*Scraped **66,990** Articles*
+*Scraped **66,992** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
-colombotelegraphcom | 687
+colombotelegraphcom | 688
 economynextcom | 4,099
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,420
 adaderanalk | 8,225
-tamilmirrorlk | 9,677
+tamilmirrorlk | 9,678
 virakesarilk | 11,166
 adaderanasinhalalk | 11,511
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 66,990 articles have been extended.
+61,973 (92.5%) of 66,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### “ஈஸ்டர் தாக்குதல்களைத் தடுத்திருக்கலாம்”
+
+*2025-07-27 10:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்களைத்-தடுத்திருக்கலாம்/175-361802) · `ta`
+
+2014ஆம் ஆண்டு முதல் வழங்கப்பட்ட புலனாய்வு அறிக்கைகளின் அடிப்படையில் இராணுவப் புலனாய்வுத் துறை செயல்பட்டிருந்தால், ஈஸ்டர் தாக்குதல்களைத் தடுத்திருக்கலாம் என்றும், மட்டக்களப்பு புலனாய்வு மற்றும் பாதுகாப்புக் குழுவால் பராமரிக்கப்படும் தகவல் கோப்பிலிருந்து அந்தத் தகவல் இப்போது நீக்கப்பட்டுள்ளது என்று குற்றப் புலனாய்வுத் துறையால் கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தில் சமர்ப்பிக்கப்பட்ட அறிக்கையில் கூறப்பட்டுள்ளது.
+
+வவுணதீவு காவல் நிலையத்தில் கடமையில் இருந்த இரண்டு பொலிஸ் அதிகாரிகளின் கொலை (நவம்பர் 30, 2018) சஹாரன் ஹாஷிம் மற்றும் அவரது குழுவினரால் மேற்கொள்ளப்பட்டதாக இராணுவப் புலனாய்வுத் துறைக்கு தகவல் கிடைத்ததாகவும், ஆனால், அவர்கள் அதை மூடிமறைத்ததாகவும் நீதவான் நீதிமன்றத்தில் சமர்ப்பிக்கப்பட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்தத் தகவல் இலங்கை இராணுவத்தின் மூன்றாவது ஆயுதப் புலனாய்வுப் படையின் மட்டக்களப்பு புலனாய்வு மற்றும் பாதுகாப்புக் குழுவிற்கு முகமது கலீல் முகமது மஸ்ஃபி என்கிற நசீர் என்ற தகவலறிந்தவரால் வழங்கப்பட்டது.
+
+...
+
+[Data](articles/dac6e5ce.json)
+
+---
 
 ### பெண்ணின் வீட்டுக்குள் நுழைந்த கல்யாண தரகர் கைது
 
@@ -625,6 +641,20 @@ Meanwhile, fairly strong winds of about 50kmph can be expected at times over the
 ◼️
 
 [Data](articles/4cda31d1.json)
+
+---
+
+### From Palestine To Sri Lanka: How ‘Development’ Weaponized Identity Politics During The Cold War
+
+*2025-07-27 05:25:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-palestine-to-sri-lanka-how-development-weaponized-identity-politics-during-the-cold-war/) · `en`
+
+There are remarkable patterns of history, organized violence, and Disinformation between events leading to the pogrom and forced population displacements in Sri Lanka in 1983, and British occupied Palestine, 35 years earlier when the Nakba unfolded amid Cold War escalating in Europe.
+
+Both, Ceylon and Palestine were British occupied in 1948, and both got faux independence that year as the British officially left but stayed behind to stage Gladio Style “Stay Behind” Operations and Shocks in the post/colony; These included riots, protests, coups, assassinations such as SWRD Bandaranaike in 1959,  with the CIA and MI-6 as happened to Patrice Lumumba in the Congo and Chile’s Socialist President Salvador Allende in 1973 for regime change and destabilization of the Global South struggling to de-colonize and be Non-Aligned.
+
+...
+
+[Data](articles/d8fffdfd.json)
 
 ---
 
@@ -1775,45 +1805,5 @@ Offers by Malaysia’s Mahathir Mohammed to mediate have been rejected.
 ...
 
 [Data](articles/57c28fcd.json)
-
----
-
-### නාමිකව පමණක් ජාතික පාසල් වූ පාසල් 809ක් - කෝපා කමිටුවේදී සියල්ල හෙළිවෙයි
-
-*2025-07-26 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212659) · `si`
-
-පළාත් පාසල් 809ක් ජාතික පාසල් ලෙස නම් කිරීම සඳහා වන නාම පුවරු සඳහා පමණක් රුපියල් ලක්ෂ 24කට අධික මුදලක් වැය කර ඇති බව රජයේ ගිණුම් කාරක සභාව හෙවත් කෝපා කමිටුවේදී අනාවරණය වී තිබේ.
-
-ඒ අනුව, මෙම පාසල් 809 නාමිකව පමණක් ජාතික පාසල් ලෙස නම් කර ඇති බව අනාවරණය වී ඇත.
-
-රජයේ ගිණුම් කාරක සභාව හමුවට පසුගියදා අධ්‍යාපන අමාත්‍යංශය කැඳවූ අවස්ථාවේදී මෙම කරුණු අනාවරණය වී තිබේ.
-
-පසුගිය රජය සමයේ ක්‍රියාත්මක වූ  ජාතික පාසල් දහසක් දක්වා වැඩි කිරීමේ වැඩ සටහන සම්බන්ධයෙන් සහ රාජ්‍ය අමාත්‍යංශය ආරම්භ කළ ව්‍යාපෘති 72ක් සම්බන්ධයෙන් මාස 03ක් ඇතුළත වාර්තාවක් ලබාදෙන ලෙස මෙහිදි අධ්‍යාපන අමාත්‍යංශ නිලධාරීන්ට නිර්දේශ කර ඇති බව සඳහන් වෙයි.
-
-◼️
-
-[Data](articles/b1c59aae.json)
-
----
-
-### “வடிவேலு மிக மோசமானவர்” பிரபல நடிகை குற்றச்சாட்டு
-
-*2025-07-26 12:59:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/வடிவேலு-மிக-மோசமானவர்-பிரபல-நடிகை-குற்றச்சாட்டு/54-361771) · `ta`
-
-90ஸ்களின் இறுதியில் துணை கதாபாத்திரங்கள் மற்றும் கவர்ச்சியான வேடங்களில் நடித்து பிரபலமான நடிகை சோனா, நடிகர் வடிவேலு குறித்து அதிர்ச்சி தரும் கருத்துகளை வெளியிட்டுள்ளார்.
-
-ரஜினிகாந்தின் 'குசேலன்' திரைப்படத்தில் அவருடன் நடித்த அனுபவம் குறித்து அண்மையில் யூடியூபில் அளித்த பேட்டி ஒன்றில் சோனா இந்த பரபரப்பான தகவல்களைப் பகிர்ந்துகொண்டார்.
-
-"வடிவேலு சார் ஒரு சிறந்த நகைச்சுவை நடிகர் என்பதும், அவரை யாராலும் அடித்துக்கொள்ள முடியாது என்பதும் உலகறிந்த உண்மை. ஆனால், எனக்கு அவருடன் செட்டாகவில்லை.
-
-'குசேலன்' படத்தின் படப்பிடிப்பில் அவரது குணாதிசயம் (கேரக்டர்) என்னைப் பலவிதமாகப் பாடாய்படுத்திவிட்டது," என்று சோனா வெளிப்படையாகத் தெரிவித்தார்.
-
-மேலும், "படமும் சரியாகப் போகவில்லை. அதன்பின் எங்களுக்கு (வடிவேலுவுடன் இணைந்து நடிக்க) 16 பட வாய்ப்புகள் வந்தன," என்றும் குறிப்பிட்டார்.
-
-"என் மானமும் மரியாதையும் எனக்கு மிகவும் முக்கியம். ரோட்டில் நின்று பிச்சைகூட எடுத்துவிடலாம், அந்த மாதிரி நடித்துச் சம்பாதிக்கிற காசு வேண்டாம் என்ற முடிவில் நான் தெளிவாக இருந்தேன்.
-
-...
-
-[Data](articles/80c2dbe5.json)
 
 ---

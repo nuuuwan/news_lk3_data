@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 21:48:46**
+As of **2025-07-27 22:06:38**
 
 ## Newspaper Stats
 
-*Scraped **67,099** Articles*
+*Scraped **67,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,434
-adaderanalk | 8,245
+adaderanalk | 8,246
 tamilmirrorlk | 9,704
-virakesarilk | 11,191
-adaderanasinhalalk | 11,531
+virakesarilk | 11,193
+adaderanasinhalalk | 11,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,099 articles have been extended.
+61,973 (92.4%) of 67,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### දක්ෂිණ අධිවේගයේ සිදු වූ අනතුරකින් දෙදෙනෙකුට දිවි අහිමිවෙයි
+
+*2025-07-27 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212705) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ අඟුණකොළපැලැස්ස 175 වන කිලෝමීටර් කණුව අසල වෑන් රථයක් අනතුරට පත්වීමෙන් කාන්තාවන් දෙදෙනෙකු මියගොස් තවත් 4 දෙනෙකු තුවාල ලබා තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 72 හැවිරිදි සහ 44 හැවිරිදි වයස්වල කාන්තාවන් දෙදෙනෙකු බව වාර්තා වේ.
+
+ටයරයක් පුපුරා යාම හේතුවෙන් වෑන් රථය අනතුරට පත්වී ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/1939c594.json)
+
+---
+
+### பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் அடிப்படை உரிமை மீறல் மனுத்தாக்கல் செய்யலாம் - விஜயதாஸ ராஜபக்ஷ
+
+*2025-07-27 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221110) · `ta`
+
+தேசபந்து தென்னகோன் பொலிஸ்மா அதிபராக செயற்படுவதற்கு இடைக்கால தடைவிதித்து தீர்ப்பளித்த மூவரடங்கிய நீதியரசர்கள் குழுவில் அங்கம் வகித்த நீதியரசர் பாராளுமன்ற சிறப்பு குழுவின் தலைவராக செயற்பட்டு, தேசபந்து தென்னகோனை பதவி நீக்குமாறு பாராளுமன்றத்துக்கு அறிக்கை சமர்ப்பித்துள்ளார். தேசபந்து தென்னகோன் உயர்நீதிமன்றத்தில் அடிப்படை உரிமை மீறல் மனுவை தாக்கல் செய்ய முடியும் என முன்னாள் நீதி மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+புதிய கல்வி மறுசீரமைப்பு தேசிய அவசியத்தை வெளிப்படுத்துகிறது. கல்வி மறுசீரமைப்பு  மற்றும் வரவு செலவுத் திட்டத்தில் இலவச கல்விக்கு 6 சதவீதம் ஒதுக்கீடு வழங்கப்பட வேண்டும் என்று பல்வேறு தரப்பினர்கள் தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டனர். மக்கள் விடுதலை முன்னணி இந்த போராட்டங்களை தொடர்ச்சியாக முன்னெடுத்தது.தற்போது அந்த கோரிக்கைளை அவர்கள் செயற்படுத்தியுள்ளார்களா என்பதை வினவ வேண்டும்.
+
+...
+
+[Data](articles/a374bf46.json)
+
+---
+
+### அமெரிக்க தீர்வை வரி பேச்சுவார்த்தை தோல்வி – தவறான ஆலோசனை வழங்கியதாக ரவி கருணாநாயக்க குற்றச்சாட்டு
+
+*2025-07-27 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221111) · `ta`
+
+அமெரிக்காவினால் விதிக்கப்பட்ட 30 சதவீத பரஸ்பர தீர்வை வரி குறைப்பு தொடர்பில் அமெரிக்காவுடன் அரசாங்கம் மேற்கொண்ட பேச்சுவார்த்தை தோல்வியடைந்துள்ளது. இந்த தீர்வை வரி விவகாரத்தில் அரச அதிகாரிகள் அரசாங்கத்துக்கு தவறான ஆலோசனைகளை வழங்கியுள்ளார்கள். அமெரிக்காவின் இறக்குமதிகளுக்கு வரி விலக்களிப்பதால் பாரிய பாதிப்பு இலங்கைக்கு ஏற்படாது என புதிய ஜனநாயக முன்னணியின் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்தார்.
+
+அமெரிக்காவினால் விதிக்கப்பட்ட பரஸ்பர தீர்வை வரி விடயத்தில் நாட்டின் நலன் தொடர்பில் மாத்திரமே அவதானம் செலுத்த வேண்டும். இலங்கைக்கும் அமெரிக்காவுக்கும் இடையிலான வர்த்தக பற்றாக்குறையை அடிப்படையாகக் கொண்டு இலங்கைக்கு 44 சதவீத தீர்வை வரி விதிக்கப்பட்டது.
+
+இலங்கையின் பிரதிநிதிகளுக்கும், அமெரிக்க வர்த்தக பிரதிநிதிகளுக்கும் இடையிலான பேச்சுவார்த்தைக்கு அமைய 44 சதவீத தீர்வை வரி 30 ஆக குறைக்கப்பட்டது. அதிகளவான வர்த்தக இருப்பினை கொண்டுள்ள ஆசிய வலய நாடுகளுக்கு இலங்கையை காட்டிலும் குறைவான வரி வீதம் விதிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8102a893.json)
+
+---
+
+### Three Maradana police officers interdicted over drug links
+
+*2025-07-27 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110889/three-maradana-police-officers-interdicted-over-drug-links) · `en`
+
+Three Police Constables (PCs) attached to the Maradana Police Station have been interdicted after being found to have maintained links with drug traffickers, the police said.
+
+On July 23, a suspect was arrested by officers of the Colombo Central Crime Investigation Bureau (CCIB) with 11,320 milligrams of crystal methamphetamine (Ice).
+
+Upon inspecting the arrested suspect’s phone, information linked to three police officers, including their phone numbers and voicemails have been discovered.
+
+Accordingly, the three constables were arrested on charges of aiding and abetting a drug trafficker to engage in drug trafficking.
+
+The arrested police constables are said to be aged 22, 30, and 32.
+
+Further investigations into the incident are being carried out by the CCIB.
+
+◼️
+
+[Data](articles/325816e4.json)
+
+---
 
 ### මරදාන පොලීසියේ කොස්තාපල්වරු තිදෙනෙකුගේ වැඩ තහනම්
 
@@ -1723,81 +1791,5 @@ On Wednesday, 10 people perished fighting a fire in Eskisehir province.
 ...
 
 [Data](articles/101ce1dd.json)
-
----
-
-### 'கூட்டாக இனத்தை அழிக்கின்ற மனோநிலை ஸ்ரீலங்கா அரசிற்கு தொடர்ந்தும் இருந்திருக்கின்றது என்பதையே மனித புதைகுழிகள் வெளிப்படுத்தியுள்ளன" - செம்மணி மனித புதைகுழி அகழ்வை பார்வையிட்ட கஜேந்திரகுமார்
-
-*2025-07-27 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221051) · `ta`
-
-கூட்டாக இனத்தை அழிக்கின்ற மனோநிலை ஸ்ரீலங்கா அரசிற்கு தொடர்ந்தும் இருந்திருக்கின்றது என்பதையே செம்மணி மனித புதைகுழியும் ஏனைய மனித புதைகுழிகளும் வெளிப்படுத்தியுள்ளன என தமிழ் தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்
-
-இதுவரையில் 89 உடல்கள் அடையாளப்படுத்தப்பட்டுள்ளன, மேலதிகமாகவும் பல உடல்கள் உறுதிப்படுத்தப்படக்கூடிய நிலையில் காணப்படுகின்றன.
-
-இந்த மனிதப்புதைகுழி என்பது கிட்டத்தட்ட 96ம் ஆண்டு காலப்பகுதியிலிருந்து மூடிமறைக்கப்பட்ட ஒரு விடயம்.
-
-அப்போது செம்மணியில் 15 உடல்கள் கண்டுபிடிக்கப்பட்ட நிலையில் அன்றைய சந்திரிகாகுமாரதுங்க அரசாங்கம் அன்றைய வெளிவிவகார அமைச்சர் லக்ஸ்மன் கதிர்காமரை பயன்படுத்தி இது கிருஷாந்தி குமாரசுவாமி கொலைவழக்கில் குற்றவாளியாக நிரூபிக்கப்பட்ட சோமரட்ண ராஜபக்ச எரிச்சலால், அரசாங்கத்தின் மீதான கோபத்தில் சொன்ன பொய் என்ற கோணத்தில் உலகையே நம்பவைத்ததுதான் அன்றைய காலத்திலிருந்து இன்றுவரைக்கும் காணப்படுகின்றது.
-
-...
-
-[Data](articles/6ac079e2.json)
-
----
-
-### ஜூலை மாதத்தின் இதுவரையான காலப்பகுதியில் 145,000 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை
-
-*2025-07-27 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221048) · `ta`
-
-ஜூலை மாதத்தின் இதுவரையான காலப்பகுதியில் 145,188 சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை தந்துள்ளதாக சுற்றுலா அபிவிருத்தி அதிகார சபையின் தரவுகள் தெரிவிக்கின்றன.
-
-இந்தியாவில் இருந்து அதிகளவாக 27,786  (19.1% ) சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
-
-இதேவேளை,  ஐக்கிய இராச்சியத்திலிருந்து 16,750 பேரும், நெதர்லாந்திலிருந்து 10,809 பேரும், சீனாவிலிருந்து 5,904 பேரும் மற்றும் பிரான்ஸில் இருந்து 7,732 பேரும் சுற்றுலா பயணிகளாக நாட்டுக்கு வருகை தந்துள்ளனர்.
-
-அத்துடன்,  ஜூன் மாதத்திற்கான அண்மைய புள்ளிவிவரங்களின்படி,  இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நாட்டுக்கு வருகை தந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,313,232 ஆக அதிகரித்துள்ளது.
-
-அவர்களில், 269,780 பேர் இந்தியாவைச் சேர்ந்தவர்கள், 124,652 பேர் இங்கிலாந்தைச் சேர்ந்தவர்கள் மற்றும் 114,644 பேர் ரஷ்யாவைச் சேர்ந்தவர்கள் என குறிப்பிடப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/aa16498d.json)
-
----
-
-### Number of skeletal remains uncovered from Chemmani mass grave increases to 101
-
-*2025-07-27 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110872/number-of-skeletal-remains-uncovered-from-chemmani-mass-grave-increases-to-101) · `en`
-
-Skeletal remains believed to belong to 11 more individuals have been recovered from the Chemmani Sindhubathi cemetery, located near a suspected mass grave site in Jaffna.
-
-The fourth phase of excavations at the Chemmani Sindhubathi cemetery in Jaffna, continued for the sixth day yesterday (26), according to excavation officials.
-
-The officials stated that, to date, skeletal remains belonging to 101 individuals have been unearthed, with remains of 90 individuals already recovered during previous excavation efforts.
-
-The skeletal remains were first noticed on February 20, 2025, during a development project at the Chemmani Sindhubathi cemetery in Jaffna.
-
-Following the discovery, those involved in the development work informed the Jaffna police.
-
-Subsequently, the Jaffna police obtained a court order from the Jaffna Magistrate’s Court to conduct excavations at the site where the remains were found.
-
-...
-
-[Data](articles/f3fed985.json)
-
----
-
-### සමාජ මාධ්‍යයේ පල වන පුවතක් සම්බන්ධයෙන් පොලීසිය කරුණු පැහැදිලි කරයි
-
-*2025-07-27 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212683) · `si`
-
-නැගෙනහිර පළාතේ සංඝනායක හිමි නමක් උන්වහන්සේට ලබා දී තිබූ පොලිස් ආරක්ෂාව ඉවත් කර ඇති බවට පුවත් ඇතුළත් කරමින් සමාජ මාධ්‍ය ජාලා ඔස්සේ සංසරණය වන පුවතක් සම්බන්ධයෙන් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
-
-එහි සදහන් වන්නේ එම සංඝනායක හිමි නමට ලබා දී තිබූ අරක්ෂාව ඉවත් කිරීමට කටයුතු සිදු කර නොමැති බවය.
-
-එමෙන්ම උන්වහන්සේට ලබා දී තිබූ අරක්ෂාව පෙර පරිදිම ලබාදීමට කටයුතු කර ඇති බවද එම නිවේදනයේ සදහන්.
-
-◼️
-
-[Data](articles/0bd66f98.json)
 
 ---

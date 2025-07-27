@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 15:32:01**
+As of **2025-07-27 15:48:05**
 
 ## Newspaper Stats
 
-*Scraped **67,054** Articles*
+*Scraped **67,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,427
-adaderanalk | 8,235
-tamilmirrorlk | 9,697
-virakesarilk | 11,179
+adaderanalk | 8,238
+tamilmirrorlk | 9,699
+virakesarilk | 11,181
 adaderanasinhalalk | 11,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,054 articles have been extended.
+61,973 (92.4%) of 67,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### சூரிய மின் உற்பத்தி நிலையம் திறந்து வைப்பு
+
+*2025-07-27 15:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூரிய-மின்-உற்பத்தி-நிலையம்-திறந்து-வைப்பு/175-361832) · `ta`
+
+மட்டக்களப்பு நாவற்காடு பகுதியில் சூரிய சக்தி (பிரைவேட்) லிமிடெட் நிறுவனத்தால் கட்டப்பட்ட 10 மெகாவாட் சூரிய மின் உற்பத்தி நிலையம் ஞாயிற்றுக்கிழமை (27) அன்று எரிசக்தி அமைச்சர் பொறியியலாளர் குமார ஜெயக்கொடி அவர்களினால் உத்தியோக பூர்வமாக திறந்துவைக்கப்பட்டது.
+
+10 மெகாவாட் மின் சக்தி குறித்த சூரிய மின் உற்பத்தி நிலையத்தில் இருந்து தேசிய மின் கட்டமைப்புடன் இன்று முதல் இணைக்கப்பட்டது டன், குறித்த சூரிய மின் உற்பத்தி நிலையத்தின் செயற்பாடுகள் மற்றும் கட்டமைப்புக்களை அமைச்சர் உள்ளிட்ட அதிதிகள் பார்வையிட்டதுடன்,
+
+குறித்த மின் உற்பத்தி நிலையத்தினால் வவுணதீவு பிரதேசத்தில் உள்ள பாடசாலைகள், விளையாட்டு கழகங்கள் போன்றவற்றிற்கு தேவைப்பாடாக காணப்பட்ட பல இலட்சம் பெறுமதிமிக்க தேவைப்பாடுகள் அமைச்சரினால் வழங்கி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/c96700c4.json)
+
+---
+
+### ரயில்களை தடுத்த மரம்: வெட்டிய பின் ’’விர்ர்ர்’’ என பயணிக்கும் ரயில்
+
+*2025-07-27 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்களை-தடுத்த-மரம்-வெட்டிய-பின்-விர்ர்ர்-என-பயணிக்கும்-ரயில்/76-361831) · `ta`
+
+இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தில் ஒரு பெரிய மரம் விழுந்ததில் பாதிக்கப்பட்ட மலையக ரயில் சேவை  வழமைக்கு திரும்பியுள்ளது.
+
+பாதை விழுந்த மரம்வெட்டி அகற்றப்பட்டதன் பின்னர், பதுளை-கொழும்பு கோட்டைக்கு இடையில் ரயில் சேவைகள் முன்னெடுக்கப்படுகின்றன  என நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+இன்று (27) காலை இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தில் ஒரு பெரிய மரம் விழுந்ததால், மலையக ரயில் பாதையில் நாவலப்பிட்டி மற்றும் கலபொட இடையே ரயில் சேவை பாதிக்கப்பட்டது.
+
+இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் அதே இடத்தில் ஒரு பெரிய மரம் விழுந்ததால், மலையகத்துக்கான ரயில் சேவைகள் பாதிக்கப்பட்டிருந்தன.
+
+◼️
+
+[Data](articles/002d3baa.json)
+
+---
+
+### கிழக்கு மாகாண தேரரின் பாதுகாப்பு மீளப் பெறப்பட்டுள்ளதாக வெளியாகியுள்ள தகவலை பொலிஸ் திணைக்களம்  மறுத்துள்ளது
+
+*2025-07-27 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/221079) · `ta`
+
+கிழக்கு மாகாணத்தில் மூத்த பௌத்த தேரர் ஒருவருக்கு வழங்கப்பட்ட பாதுகாப்பு மீளப் பெறப்பட்டுள்ளதாக சமூக ஊடகங்களில் வெளியாகியுள்ள தகவலை இலங்கை பொலிஸ் திணைக்களம் மறுத்துள்ளது.
+
+எனினும், நீண்ட தூரத்தில் இருந்து பணிகளை செய்வதில் நிர்வாகச் சிக்கல்கள் இருந்ததால், பாதுகாப்புப் பணிகளை மிகவும் திறமையாகக் கையாள  உள்ளூர் பொலிஸ் அதிகாரிகளை நியமிக்க முன்மொழியப்பட்டது எனக் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/9ac0d16a.json)
+
+---
 
 ### නව අගවිනිසුරු දිවුරුම් දෙයි
 
@@ -49,6 +97,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9871a835.json)
+
+---
+
+### செம்மணியில் மேலும் 5 எலும்புக்கூட்டு தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டன
+
+*2025-07-27 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221080) · `ta`
+
+யாழ்ப்பாணம் செம்மணி பகுதியில் அமைந்துள்ள மனித புதைகுழிகளில், இன்று ஞாயிற்றுக்கிழமை (05) புதிய எலும்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+இன்று புதிதாக எலும்புக்கூட்டு தொகுதிகள் எதுவும் அடையாளம் காணப்படாத நிலையில், ஏற்கனவே அடையாளம் காணப்பட்ட 5 தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டுள்ளன. கடந்த 7 நாட்களில் மட்டும் 30 தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+இந்த அகழ்வுகள், நீதிமன்றத்தால் “தடயவியல் அகழ்வாய்வுத் தளம் இல - 01” மற்றும் “இல - 02” என அடையாளம் காணப்பட்ட பகுதிகளில் நடைபெற்று வருகின்றன. இரண்டாம் கட்ட அகழ்வுப் பணிகளுக்காக 45 நாட்கள் அனுமதி வழங்கப்பட்டுள்ள நிலையில், இன்றைய தினம் 22வது நாளாக பணி முன்னெடுக்கப்பட்டது.
+
+கடந்த 7 நாட்களில் 36 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதுவரை 101 தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன, அதில் 95 தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன என்பது குறிப்பிடத்தக்கது.
+
+மேலும், இன்று அகழ்ந்தெடுக்கப்பட்ட எலும்புகளுடன் இருந்த ஒரு பொலித்தீன் பை, மேலதிக ஆய்விற்காக சட்ட வைத்திய அதிகாரியிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ded16056.json)
 
 ---
 
@@ -72,6 +140,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### World’s No. 1 stunt kite team to feature at Derana International Kite Festival
+
+*2025-07-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110882/worlds-no-1-stunt-kite-team-to-enter-derana-kite-festival) · `en`
+
+The world’s number one stunt kite team, the Three Wind Kite Team from Wuhan, China, will take part in the Derana-Signal Colombo International Kite Festival.
+
+The Kite Festival is scheduled to take place on August 24 at Galle Face Green.
+
+The Three Wind Kite Team has also claimed the World Kite Championship title for three years consecutively.
+
+◼️
+
+[Data](articles/70af374f.json)
+
+---
+
 ### பலத்த பாதுகாப்புக்கு மத்தியில் பாலங்களை திறந்த இளைஞர்கள்
 
 *2025-07-27 15:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலத்த-பாதுகாப்புக்கு-மத்தியில்-பாலங்களை-திறந்த-இளைஞர்கள்/76-361830) · `ta`
@@ -92,9 +176,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Three-wheeler topples into canal in Dimbula Pathana
+
+*2025-07-27 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110881/three-wheeler-topples-into-canal-in-dimbula-pathana) · `en`
+
+A three-wheeler traveling from Dimbula Pathana to Hatton veered off the road and toppled into the Devon Canal, police stated.
+
+The driver of the three-wheeler sustained injuries in the incident.
+
+According to the Dimbula Pathana Police, the accident occurred due to a mechanical failure in the front wheel of the three-wheeler, which was reportedly traveling at high speed.
+
+The three-wheeler was severely damaged in the accident, police added.
+
+◼️
+
+[Data](articles/ef7469c1.json)
+
+---
+
 ### பேஸ்புக் களியாட்ட நிகழ்வு ; போதைப்பொருளுடன் 21 பேர் கைது
 
-*2025-07-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
+*2025-07-27 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
 
 கடுவலை, வெலிவிட்ட பகுதியில் பேஸ்புக்  ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ஒன்றில் வைத்து போதைப்பொருட்களுடன் 21 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
@@ -139,6 +241,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/82e1d285.json)
+
+---
+
+### Sri Lanka reaffirms commitment to strengthening ties with Singapore
+
+*2025-07-27 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110880/sri-lanka-reaffirms-commitment-to-strengthening-ties-with-singapore) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Vijitha Herath has reaffirmed the country’s commitment to further advancing bilateral relations with Singapore.
+
+The Foreign Minister made these remarks in a congratulatory letter issued to the Republic of Singapore to commemorate the 55th anniversary of the establishment of diplomatic relations between the two nations.
+
+The Republic of Singapore and the Democratic Socialist Republic of Sri Lanka officially established diplomatic relations on 27 July 1970.
+
+To mark the 55th anniversary of this occasion, Singapore’s Minister for Foreign Affairs, Dr. Vivian Balakrishnan, and Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, exchanged congratulatory letters.
+
+...
+
+[Data](articles/183ded25.json)
 
 ---
 
@@ -1715,111 +1835,5 @@ Meanwhile, fairly strong winds of about 50kmph can be expected at times over the
 ◼️
 
 [Data](articles/484b9bc5.json)
-
----
-
-### பொலித்தீன் பையில் எலும்புக் குவியல்கள்
-
-*2025-07-27 05:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலித்தீன்-பையில்-எலும்புக்-குவியல்கள்/175-361791) · `ta`
-
-யாழ். செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் தடயவியல் அகழ்வாய்வுத் தளம் இரண்டு என நீதிமன்றத்தால் பிரகடனப்படுத்தப்பட்ட பகுதியில் நேற்று அகழ்வுப் பணிகள் இடம்பெற்றபோது பொலித்தீன் பை ஒன்று அடையாளம் காணப்பட்டுள்ளது.
-
-அந்தப் பொலித்தீன் பை முழுமையாக சுத்தப்படுத்தப்பட்டு அகழ்ந்து எடுக்கப்பட்டதன் பின்னரே அது பற்றிய விவரங்கள் கிடைக்கப் பெறும் என்று தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/989d003f.json)
-
----
-
-### உடுப்புத் துவைத்த குடும்பஸ்தர் உயிரிழப்பு
-
-*2025-07-27 05:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடுப்புத்-துவைத்த-குடும்பஸ்தர்-உயிரிழப்பு/175-361790) · `ta`
-
-இவ்வாறு உயிரிழந்தவர் சுப்ரமணியம்வீதி, சுன்னாகத்தைச்  சேர்ந்த சிவஞானம் சிவகுமார் (வயது 58) என்பவராவார்.
-
-மேற்படி நபர் தாவடியில் உள்ள பாடசாலை ஒன்றில் காவலாளியாக கடமை ஆற்றுவதாகவும் நேற்று சனிக்கிழமை மதியம் 1:30 மணியளவில் உடுப்பு துவைத்துக் கொண்டிருந்த போது மயங்கி விழுந்த நிலையில்  தெல்லிப்பளை வைத்தியசாலைக்கு கொண்டு சென்ற போது ஏற்கனவே அவர் உயிரிழந்துள்ளதாக வைத்தியர்களால் தெரிவிக்கப்பட்டுள்ளது.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணைகளை  மேற்கொண்டு பிரதேச பரிசோதனைக்கு உத்தரவிட்டார்.  (a)
-
-◼️
-
-[Data](articles/4cda31d1.json)
-
----
-
-### From Palestine To Sri Lanka: How ‘Development’ Weaponized Identity Politics During The Cold War
-
-*2025-07-27 05:25:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-palestine-to-sri-lanka-how-development-weaponized-identity-politics-during-the-cold-war/) · `en`
-
-There are remarkable patterns of history, organized violence, and Disinformation between events leading to the pogrom and forced population displacements in Sri Lanka in 1983, and British occupied Palestine, 35 years earlier when the Nakba unfolded amid Cold War escalating in Europe.
-
-Both, Ceylon and Palestine were British occupied in 1948, and both got faux independence that year as the British officially left but stayed behind to stage Gladio Style “Stay Behind” Operations and Shocks in the post/colony; These included riots, protests, coups, assassinations such as SWRD Bandaranaike in 1959,  with the CIA and MI-6 as happened to Patrice Lumumba in the Congo and Chile’s Socialist President Salvador Allende in 1973 for regime change and destabilization of the Global South struggling to de-colonize and be Non-Aligned.
-
-...
-
-[Data](articles/d8fffdfd.json)
-
----
-
-### தமிழக வளர்ச்சிக்கு உறுதிபூண்டுள்ளோம்: மோடி தெரிவிப்பு
-
-*2025-07-27 05:24:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வளர்ச்சிக்கு-உறுதிபூண்டுள்ளோம்-மோடி-தெரிவிப்பு/175-361789) · `ta`
-
-தமிழகத்தின் வளர்ச்சி, மேம்பட்ட தமிழகம் என்ற கனவுக்கு உறுதிபூண்டுள்ளோம். முந்தைய ஐக்கிய முற்போக்கு கூட்டணி ஆட்சியின்போது தமிழகத்துக்கு கிடைத்த நிதியை விடவும், மூன்று மடங்கு கூடுதல் நிதியை கடந்த 10 ஆண்டுகளில் தேசிய ஜனநாயக கூட்டணி அரசு வழங்கியுள்ளது என்று  தூத்துக்குடியில் பிரதமர் மோடி தெரிவித்துள்ளார்.
-
-தூத்துக்குடியில் விரிவாக்கம் செய்யப்பட்ட விமான நிலைய மேம்படுத்தப்பட்ட புதிய முனையத்தை பிரதமர் நரேந்திர மோடி நேற்று இரவு திறந்து வைத்தார்.  4,874 கோடி ரூபா  மதிப்பிலான முடிவுற்ற திட்டப் பணிகளை திறந்து வைத்தும், புதிய திட்டப் பணிகளுக்கு அடிக்கலும் நாட்டினார். பிரிட்டன் மற்றும் மாலைதீவு சுற்றுப் பயணத்தை முடித்துக் கொண்டு நேரடியாக தூத்துக்குடி வந்த பிரதமர் மோடி, இந்த திட்டப் பணிகளை தொடங்கி வைத்தார். ‘வணக்கம்’ என தமிழில் சொல்லி தனது உரையை தொடங்கினார். அவர் மேலும் உரையாற்றுகையில்,
-
-...
-
-[Data](articles/db350f9c.json)
-
----
-
-### ஈரானில் மீண்டும் தாக்குதல்: 9 பேர் பலி
-
-*2025-07-27 05:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-மீண்டும்-தாக்குதல்-9-பேர்-பலி/50-361788) · `ta`
-
-ஈரானில் நீதித்துறை கட்டடத்தின் மீது நடத்தப்பட்ட தாக்குதலில் பொதுமக்கள் 6 பேர் உட்பட தாக்குதல்தாரிகள் என 9 பேர் கொல்லப்பட்டுள்ளனர். மேலும் 22 பேர் படுகாயமடைந்துள்ளனர் என இஸ்லாமிய புரட்சிகர காவல் படை தெரிவித்துள்ளது.
-
-ஈரானின் ஜஹேதானில் உள்ள நீதித்துறை கட்டடத்தின் மீது ஜெய்ஷ் அல்-அதில் பயங்கரவாதிகள் திடீரென சரமாரி தாக்குதல் நடத்தி உள்ளனர். இந்த தாக்குதலில் சம்பவ இடத்திலேயே ஆறு பேர் கொல்லப்பட்டனர். மேலும் பலர் பலத்த காயமுற்றனர். இதனால் பலி எண்ணிக்கை அதிகரிக்கும் என அஞ்சப்படுகிறது.
-
-இந்த தாக்குதல் சம்பவத்திற்கு, ஜெய்ஷ் அல் -அதில் பயங்கரவாத அமைப்பு பொறுப்பேற்றுள்ளது. (a)
-
-◼️
-
-[Data](articles/b93b1285.json)
-
----
-
-### Reflections On Sri Lanka’s Education Reforms & The Discourse Around Them
-
-*2025-07-27 01:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-sri-lankas-education-reforms-the-discourse-around-them/) · `en`
-
-Scratching the Surface or Radically Overhauling? Reflections on Sri Lanka’s Education Reforms and the Discourse Around Them
-
-Dr. Harini Amarasuriya, as Minister of Education, has introduced a set of reforms that have quickly become the subject of much controversy. At the same time, the government has expressed its desire to build broad consensus on the reforms, including through dialogue with political parties. President Dissanayake, speaking in Parliament recently, emphasized this point. But education is no ordinary topic in Sri Lanka. It is emotionally charged, politically sensitive, and socially critical. For most Sri Lankan families, education remains the single most trusted pathway for children to transcend economic and social boundaries and “become somebody” in life.
-
-...
-
-[Data](articles/c1afa8bd.json)
-
----
-
-### Education Reforms: A Qualified, Clean Minister In A Corrupt Society
-
-*2025-07-27 01:11:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/education-reforms-a-qualified-clean-minister-in-a-corrupt-society/) · `en`
-
-Dr. Harini Amarasuriya, the Prime Minister holding the Education Portfolio, has made a bold foray into education reforms. We all know how grave and intractable the problem are, crying for urgent resolution. Right-thinking Sri Lankans wish her success. Her chief challenge is overcoming our corrupt society.
-
-She is more qualified than most Sri Lankans to tackle the problem. She has a doctorate, university teaching experience and, besides Sri Lankan and Indian studying experience, significant multi-continental European, American and Australian exposure.
-
-As I demonstrate, our educational problems are a fallout of our corrupt society. We suddenly have a relatively clean government. The PM in such a government, is well-positioned to succeed.
-
-The PM’s qualifications as Minister of Education are unquestionable, even though some argue that better people were overlooked because she is a woman.
-
-...
-
-[Data](articles/d90a81c7.json)
 
 ---

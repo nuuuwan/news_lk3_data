@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 04:48:10**
+As of **2025-07-28 05:06:33**
 
 ## Newspaper Stats
 
-*Scraped **67,131** Articles*
+*Scraped **67,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,102
 islandlk | 4,106
 dailymirrorlk | 4,733
-dailyftlk | 4,749
+dailyftlk | 4,751
 adalk | 6,434
 adaderanalk | 8,247
 tamilmirrorlk | 9,704
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,131 articles have been extended.
+61,973 (92.3%) of 67,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### Justice Preethi Padman Surasena sworn in as 49th Chief Justice of Sri Lanka
+
+*2025-07-28 04:24:44* · [`dailyftlk`](https://www.ft.lk/news/Justice-Preethi-Padman-Surasena-sworn-in-as-49th-Chief-Justice-of-Sri-Lanka/56-779563) · `en`
+
+The most senior Supreme Court Justice, Preethi Padman Surasena was officially sworn in as the Chief Justice of Sri Lanka before President Anura Kumara Disanayake yesterday at the Presidential Secretariat.
+
+He assumes office as the 49th Chief Justice of Sri Lanka, succeeding Chief Justice Murdu Nirupa Bidushinie Fernando, who recently retired. Last week, his appointment received approval from the Constitutional Council.
+
+Having been called to the Bar in 1989, Justice Surasena subsequently joined the Attorney General’s Department, serving as a State Counsel. He was appointed as a High Court Judge in 2007. In 2016, he was appointed as a Court of Appeal Judge, becoming the President of the Court of Appeal in 2018, and a Supreme Court Judge in 2019.
+
+Since then, Justice Surasena has served as a Supreme Court Judge, making him the most senior Supreme Court Justice after former Chief Justice Murdu Fernando.
+
+...
+
+[Data](articles/6a9bceef.json)
+
+---
+
+### British Parliamentarians visit Presidential Secretariat
+
+*2025-07-28 04:21:18* · [`dailyftlk`](https://www.ft.lk/news/British-Parliamentarians-visit-Presidential-Secretariat/56-779562) · `en`
+
+A delegation of British Parliamentarians last Friday visited the Presidential Secretariat.
+
+During their visit, the delegation held a brief discussion with Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+They also toured several historic areas within the Secretariat, including the Presidential Secretariat Library, the Old Parliament, and the Cabinet Meeting Hall.
+
+Senior Additional Secretary to the President Roshan Gamage, British High Commissioner Andrew Patrick, and several other officials were present during the visit.
+
+◼️
+
+[Data](articles/6ebe8384.json)
+
+---
 
 ### President prioritises protection of wild elephants, daily lives of rural community
 
@@ -1739,39 +1775,5 @@ He served as the Centre Commandant of the Corps of Sri Lanka Engineers prior to 
 ...
 
 [Data](articles/935f1c14.json)
-
----
-
-### புள்ளி மான் சுட்டுக்கொலை;2 பொலிஸார் உட்பட நால்வர் கைது
-
-*2025-07-27 12:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளி-மான்-சுட்டுக்கொலை-2-பொலிஸார்-உட்பட-நால்வர்-கைது/175-361821) · `ta`
-
-மகுலு காசவேவா பொலிஸ் பிரிவுக்கு உட்பட்ட வெட்டகோலு வேவா பகுதியில் ஒரு புள்ளி மான் கொல்லப்பட்டது தொடர்பாக இரண்டு பொலிஸ் அதிகாரிகள் உட்பட நான்கு சந்தேக நபர்களை இலங்கை பொலிஸ் கைது செய்துள்ளது.
-
-ஜூலை 24, 2025 அன்று சமூக ஊடகங்கள் மற்றும் பிரதான செய்திகளில் செய்தி வெளியான பிறகு பரவலான கவனத்தை ஈர்த்த இந்த சம்பவம், விரைவான பொலிஸ் நடவடிக்கைக்கு வழிவகுத்தது. சந்தேக நபர்கள் ஜூலை 26 அன்று தம்புள்ளை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு ஓகஸ்ட் 1, 2025 வரை விளக்கமறியலில் வைக்கப்பட்டனர்.
-
-சட்டம் அனைத்து தனிநபர்களுக்கும், அவர்களின் அந்தஸ்தைப் பொருட்படுத்தாமல் சமமாகப் பொருந்தும் என்றும், பொதுமக்களிடமிருந்து பெறப்பட்ட நம்பகமான தகவல்களின் அடிப்படையில் விசாரணைகள் மேற்கொள்ளப்படுகின்றன என்றும் பொலிஸ் திணைக்களம் இதன்போது வலியுறுத்தியது.
-
-◼️
-
-[Data](articles/2aa6a598.json)
-
----
-
-### நாகராஜர் பீடத்தின் தினமும்   தியானம் செய்யும் முஸ்லிம் பெண்மணி
-
-*2025-07-27 12:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாகராஜர்-பீடத்தின்-தினமும்-தியானம்-செய்யும்-முஸ்லிம்-பெண்மணி/175-361820) · `ta`
-
-கர்நாடக மாநிலம் கொப்பல் மாவட்டத்தில் அமைந்துள்ள கவி சித்தேஸ்வரா மடம், வருடந்தோறும் நடைபெறும் திருவிழாவால் “தெற்கின் கும்பமேளா” என அழைக்கப்படுகிறது.
-
-இந்த மடத்தில் பெரும்பாலும் ஹிந்துக்கள் மட்டுமே வந்து வழிபடுவது வழக்கம். ஆனால், கடந்த 8 நாட்களாக முஸ்லிம் சமுதாயத்தைச் சேர்ந்த ஹசீனா பேகம் என்ற பெண், பர்தா அணிந்து இம்மடத்தில் தியானத்தில் ஈடுபடுவதால் பக்தர்கள் பெரும் ஆச்சரியத்தில் உள்ளனர்.
-
-கொப்பல் மாவட்டம் எலபுர்கா தாலுகாவின் குடாரி மோதியில் வசித்து வரும் ஹசீனா பேகம், மடத்தின் நாகதேவர் சிலை முன் அமர்ந்து தினமும் ஒரு மணி நேரம் தியானம் செய்து வருகிறார்.
-
-“மன அமைதிக்காக இங்கு வந்துள்ளேன். என் வாழ்க்கையில் பல சிரமங்கள் ஏற்பட்டது. அனைத்து மதங்களும் ஒன்று என்பதால்தான் இந்த மடத்திற்கு வந்தேன். கடந்த 13 ஆண்டுகளாக இந்த மடத்தில் நான் வருகிறேன். எனது குழந்தைகளுக்கும் மடாதிபதியின் ஆசீர்வாதம் கிடைத்துள்ளது” என உணர்ச்சி மிகுந்து தெரிவித்தார்.
-
-...
-
-[Data](articles/7d60bd41.json)
 
 ---

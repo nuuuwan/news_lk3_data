@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 10:14:06**
+As of **2025-07-27 10:39:26**
 
 ## Newspaper Stats
 
-*Scraped **66,970** Articles*
+*Scraped **66,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,170 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,419
-adaderanalk | 8,217
-tamilmirrorlk | 9,671
-virakesarilk | 11,164
-adaderanasinhalalk | 11,508
+adaderanalk | 8,225
+tamilmirrorlk | 9,675
+virakesarilk | 11,166
+adaderanasinhalalk | 11,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 66,970 articles have been extended.
+61,973 (92.5%) of 66,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### තායිලන්ත - කාම්බෝජ ගැටුම විසඳීමට ජනපතිට මැදිහත් වන්නැයි ඉල්ලීමක්
+
+*2025-07-27 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212681) · `si`
+
+තායිලන්තය සහ කාම්බෝජය අතර හටගෙන ඇති පවතින ගැටලුකාරී තත්ත්වය සාමකාමීව විසඳාගැනීම සඳහා අතරමැදියෙකු ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතාට මැදිහත් වන්නැයි පූජ්‍ය ඕමල්පේ සෝභිත හිමියන් ඉල්ලීමක් කරයි.
+
+උන්වහන්සේ පවසන්නේ ඒ සඳහා ජනාධිපතිවරයාට පූර්ණ අයිතියක් ඇති බැවින් භික්ෂූන් වහන්සේලා පෙරටු කරගනිමින් දෙරටේ බලධාරීන් හමුවී මේ පිළිබඳ කඩිනමින් සාකච්ඡා කළ යුතු බවය.
+
+"බෞද්ධ රටවල් දෙකක් හැටියට කරුණාකරලා පාරම්පරිකව අවුරුදු දහස් ගණනාවක් තිස්සේ තමන් ලද උරුමයට මුල් තැන දීලා බෞද්ධ ක්‍රමයට මේ ප්‍රශ්නය විසඳගන්න ඉදිරිපත් වෙන්න. කරුණාකරලා ඒ සම්බන්ධයෙන් අවධානය යොමුකරන්න කියලා අපි තායිලන්තයේ සහ කාම්බෝජයේ බලධාරීන්ට කරුණාවෙන් මතක් කිරීම සඳහා වූ යෝජනාව සඳහා අද පාලක මහා සංඝ සභාවේ සම්මත වුණේ.
+
+...
+
+[Data](articles/62c73a1b.json)
+
+---
+
+### நாளை மாலைதீவு செல்கிறார் ஜனாதிபதி அநுரகுமார
+
+*2025-07-27 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221040) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான உயர்மட்ட தூதுக்குழு 3 நாட்கள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு நாளை திங்கட்கிழமை மாலைதீவு செல்லவுள்ளது.
+
+நாளை முதல் 30ஆம் திகதி புதன்கிழமை வரை இவ்விஜயம் அமையவுள்ளது. மாலைதீவு ஜனாதிபதி மொஹமட் முய்ஸூவின் அழைப்பிற்கமையவே ஜனாதிபதி அந்நாட்டுக்கு விஜயம் செய்யவுள்ளார்.
+
+இந்த விஜயத்தின் போது, ஜனாதிபதி அநுரகுமார திசாநாயக்க, மாலைதீவு ஜனாதிபதி முய்சுவுடன் இருதரப்பு பேச்சுவார்த்தைகளை நடத்தவுள்ளதாகவும், பரஸ்பர ஒத்துழைப்பை ஆழப்படுத்தும் நோக்கில் பல புரிந்துணர்வு ஒப்பந்தங்கள் பரிமாறிக் கொள்ளப்படவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இலங்கை மற்றும் மாலத்தீவுக்கிடையில் முறையான இராஜதந்திர உறவுகள் நிறுவப்பட்டு இந்த ஆண்டுடன் 60ஆவது ஆண்டு நிறைவு கொண்டாடப்படவுள்ளது. அந்த வகையில் இலங்கையின் உயர்மட்ட தூதுக்குழவின் இந்த அரசுப் பயணம் முக்கியத்துவம் வாய்ந்தது என்று தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8d0a343a.json)
+
+---
+
+### அமெரிக்காவில் விமானத்தில் தீ விபத்து
+
+*2025-07-27 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221037) · `ta`
+
+அமெரிக்காவில் டென்வர் சர்வதேச விமான நிலையத்தில் சனிக்கிழமை அமெரிக்கன் ஏர்லைன்ஸ் விமானத்தின் டயர் திடீரென தீப்பிடித்துள்ளது.
+
+மியாமிக்கு புறப்படவிருந்த இந்த விமானம் புறப்படுவதற்கு முன்பே உடனடியாக நிறுத்தப்பட்டது. விமானம் புறப்படும் கடைசி நேரத்தில் நிறுத்தப்பட்டு பயணிகள் அவசர அவசரமாக வெளியேற்றப்பட்டனர்.
+
+விமானத்தில் மொத்தம் 173 பயணிகள் மற்றும் பணியாளர்கள் இருந்துள்ளனர். இந்த சம்பவத்தில் ஒரு பயணிக்கு லேசான காயம் ஏற்பட்டுள்ளது.
+
+அதில், அனைத்து பயணிகளும், பணியாளர்களும் பாதுகாப்பாக விமானத்தை விட்டு வெளியேற்றப்பட்டனர். எங்கள் பராமரிப்பு குழு விமானத்தை ஆய்வு செய்து வருகிறது. பயணிகளுக்கு ஏற்பட்ட அசௌகரியத்திற்கு வருந்துகிறோம் என்று அதில் தெரிவிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/69f4bb39.json)
+
+---
+
+### பிள்ளையானின் அலுவலகத்தில் கடும்சோதனை
+
+*2025-07-27 10:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானின்-அலுவலகத்தில்-கடும்சோதனை/175-361798) · `ta`
+
+யுத்தம் நிலவிய காலங்களில் தமிழீழ விடுதலைப் புலிகள் அமைப்பில் இருந்து 2004 ஆண்டு  பிரிந்து சென்று தமிழ் மக்கள் விடுதலைப் புலிகள் (ரீ.எம்.வி.பி) அமைப்பு  என  கருணா அம்மான் எனப்படும் விநாயக மூர்த்தி முரளிதரன் மற்றும் அதன் முக்கியஸ்தராக செயற்பட்ட பிள்ளையான் எனப்படும் சிவநேசத்துரை சந்திரகாந்தன்  தலைமையில் பலர் செயற்பட்டிருந்தனர்.
+
+இதில்  அம்பாறை மாவட்டத்தில் அக்கால கட்டத்தில்  பொறுப்பாளராக செயற்பட்ட இனிய பாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினர்   கே. புஷ்ப குமார்  பயன்படுத்திய அலுவலகங்கள் மற்றும் முகாம்கள் இன்று பயங்கரவாத  புலனாய்வு பிரிவு  மற்றும் குற்றப் புலனாய்வுப் பிரிவு  அணியினர் சோதனை மேற்கொண்டிருந்தனர்.
+
+இதனடிப்படையில் குற்றப் புலனாய்வுப் பிரிவினரால் ஏலவே கைது செய்யப்பட்டு தடுத்து  வைக்கப்பட்டிருந்த   சந்தேக நபர்கள்    வெள்ளை நிற ஆடை அணிந்து அவ்விடத்திற்கு இரண்டு வெவ்வேறு ஜீப் வண்களில்  அழைத்து வரப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/4f2be02d.json)
+
+---
+
+### සංචාරක පැමිණීම ලක්ෂ 13 පනී
+
+*2025-07-27 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212680) · `si`
+
+2025 වසරේ මේ දක්වා මෙරටට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව ලක්ෂ 13 සීමාව ඉක්මවා ගොස් තිබේ.
+
+සංචාරක සංවර්ධන අධිකාරියේ නවතම සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,313,232ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ තිබේ.
+
+ඒ අතරින් පුද්ගලයින් 269,780ක් ඉන්දියාවෙන්, 124,652ක් එක්සත් රාජධානියෙන් සහ 114,644ක් රුසියාවෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+
+මේ අතර ජූලි මාසයේ මේ දක්වා සංචාරකයින් 145,188ක් මෙරටට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ දත්ත පෙන්වා දෙයි.
+
+එම අධිකාරියේ විසින් නිකුත් කරන ලද දත්තවලට අනුව, ඉන්දියාවෙන් සංචාරකයින් 27,786ක් පැමිණ ඇති අතර එය 19.1% කි.
+
+තවද, ජුලි මාසයේදී එක්සත් රාජධානියෙන් පුද්ගලයින් 16,750ක්, නෙදර්ලන්තයෙන් පුද්ගලයින් 10,809 ක්, චීනයෙන් 5,904 ක් සහ ප්‍රංශ ජාතිකයින් 7,732ක් ද ශ්‍රී ලංකාවට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/fb3134b4.json)
+
+---
+
+### மதுபோதையில் அடாவடி: சொரூபமும் உடைத்து சேதம்:   NPP யின்  அமைப்பாளர்  உட்பட 8 பேர் கைது
+
+*2025-07-27 10:05:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபோதையில்-அடாவடி-சொரூபமும்-உடைத்து-சேதம்-NPP-யின்-அமைப்பாளர்-உட்பட-8-பேர்-கைது/175-361797) · `ta`
+
+மெரிஞ்சிமுனை நாரயம்பதி மாதா கோயில் மகிமை மிக்க மாதா சொரூபத்தை மதுபோதையில் உடைத்து சேதப்படுத்திய சந்தேகத்தின் பேரில் வேலணையை சேர்ந்த 8 பேர் ஊர்காவற்றுறை பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த சம்பவத்துடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பெயரில் தேசிய மக்கள் சக்தியின் (NPP) தீவக அமைப்பாளர் வேல்முருகன் மயூரன் உள்ளடங்கலாக 8 பேரை பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+மெரிஞ்சிமுனை நாரயம்பதி மாதா கோயில் மாதா சொரூபத்தை மதுபோதையில் இருந்த 20 பேரடங்கிய கும்பல் ஒன்று உடைத்து சேதப்படுத்தியதாக ஊர்காவற்றுறை பொலிஸாருக்கு குறித்த ஆலய நிர்வாகத்தினர் முறைப்பாடு செய்திருந்த நிலையில் பொலிஸார் துரித நடவடிக்கையால்   8 பேர் கைதுசெய்யப்பட்டுள்ளனர் .
+
+கைதானவர்களின் தகவலின் அடிப்படையில் ஏனையோர் தேடப்பட்டு வருகின்றனர். அவர்களும் விரைவில் கைது செய்யப்படுவர் என தெரிவித்தனர். அத்துடன் விசாரணைகளை அடுத்து குறித்த நபர்களை நீதிமன்றில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/d7f488b9.json)
+
+---
+
+### மனைவி பிரிந்ததால்,  பீர் மட்டும் குடித்த கணவன் மரணம்
+
+*2025-07-27 09:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மனைவி-பிரிந்ததால்-பீர்-மட்டும்-குடித்த-கணவன்-மரணம்/50-361796) · `ta`
+
+மனைவி விவாகரத்து செய்ததால் மிகவும் வருத்தமடைந்த ஒருவர், ஒரு மாதமாக எதையும் சாப்பிடாமல்,பீர்  மட்டுமே குடித்து உயிரிழந்த  சம்பவம் தாய்லாந்தில் இடம்பெற்றுள்ளது.
+
+44 வயதான தவீசக் தனது மனைவியால் விவாகரத்து செய்யப்பட்டார். அவர்களுக்கு பதினாறு வயது மகன் இருப்பதாகவும் மகனை தவீசக்கிடம் விட்டுவிட்டு அப்பெண் வெளியேறியுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+மனைவி தன்னை விட்டுச் சென்றதால் மிகுந்த மன உளைச்சலுக்கு ஆளான தவீசக், சாப்பிடுவதை முற்றிலுமாக நிறுத்தி,  நாள் முழுவதும் பீர் குடித்துக்கொண்டிருந்துள்ளார்.
+
+இதனால் அவரது உறுப்புகள் செயலிழந்து, அவரது உடல்நிலை மோசமடைந்துள்ளது. ஒரு தொண்டு நிறுவனம் தவீசக்கை மருத்துவமனையில் சேர்க்க முயன்ற போதும் குறித்த  நிறுவனங்கள் அவரது வீட்டை அடைவதற்குள் தவீசக் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+பொலிஸார் அவரது அறையில் இருந்து 100 பீர் பாட்டில்களைக் கண்டுபிடித்துள்ளனர். அதிகப்படியான மது அருந்தியதால் அவர் உயிரிழந்துள்ளமை உறுதிபடுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ab737883.json)
+
+---
+
+### பெண் மயக்கம்: ஆம்புலன்ஸில்  பாலியல் வன்கொடுமை
+
+*2025-07-27 09:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-மயக்கம்-ஆம்புலன்ஸில்-பாலியல்-வன்கொடுமை/175-361795) · `ta`
+
+ஊர்க்காவல் படை தேர்வின் போது மயக்கமடைந்ததால் ஆம்புலன்ஸில் ஏற்றிச் சென்ற இளம் பெண்ணை சிலர் பாலியல் வன்கொடுமை செய்துள்ளனர்.
+
+பிஹார் மாநிலம் கயா மாவட்டத்தில் உள்ள ராணுவ மைதானத்தில் கடந்த 24-ம் திகதி ஊர்க்காவல் படை தேர்வு நடைபெற்றது. இதில் உடல்தகுதித் தேர்வில் பங்கேற்ற 24 வயது இளம் பெண் திடீரென மயக்கமடைந்துள்ளார்.
+
+இதையடுத்து, அங்கு தயாராக இருந்த ஆம்புலன்ஸ் வாகனத்தில் அந்தப் பெண்ணை மருத்துவமனைக்கு அனுப்பி வைத்துள்ளனர். சிகிச்சைக்குப் பிறகு அந்தப் பெண் இயல்புநிலைக்கு திரும்பி உள்ளார்.
+
+இந்நிலையில், ஓடும் வாகனத்திலேயே அதிலிருந்த ஊழியர்கள் தன்னை பாலியல் வன்கொடுமை செய்தனர் என அந்தப் பெண் புகார் செய்துள்ளார்.
+
+உடல் தகுதித் தேர்வின் போது சுயநினைவை இழந்த போதிலும், ஆம்புலன்ஸில் சென்றபோது சற்று நினைவு திரும்பியதாகவும் அவர் கூறியுள்ளார்.
+
+இதன் அடிப்படையில் வழக்கு பதிவு செய்த பொலிஸார். இதுகுறித்து விசாரிக்க சிறப்பு புலனாய்வுக் குழுவை அமைத்தனர். விசாரணை நடத்திய அக்குழுவினர், சிசிடிவி ஆதாரத்தின் அடிப்படையில் ஆம்புலன்ஸ் ஓட்டுநர் மற்றும் ஒரு தொழில்நுட்ப ஊழியரை கைது செய்து விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/a00d2828.json)
+
+---
 
 ### தவெக நிகழ்ச்சிகளில்  பட்டாசு வெடிக்க தடை
 
@@ -66,6 +216,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Tourist arrivals in July top 145,000
+
+*2025-07-27 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/110868/tourist-arrivals-in-july-top-145000) · `en`
+
+A total of 145,188 tourists have arrived in the country thus far in July, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 27,786 tourists have arrived from India which accounts to 19.1%. Furthermore, 16,750 persons from the United Kingdom, 10,809 from the Netherlands, 5,904 from China and 7,732 French nationals have also visited Sri Lanka in the month of June.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,313,232 with the release of the latest figures for June.
+
+Among them, 269,780 individuals are from India, 124,652 from the UK and 114,644 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/8b22573e.json)
+
+---
+
 ### අමෙරිකානු ගුවන් යානයක  ගින්නක්
 
 *2025-07-27 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212679) · `si`
@@ -88,6 +256,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Four-year-old girl dies after falling into canal in Kotagala
+
+*2025-07-27 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110867/four-year-old-girl-dies-after-falling-into-canal-in-kotagala) · `en`
+
+A four-year-old girl has died after falling into a canal near a house in the Rosita Estate in Dimbula Pathana, police stated.
+
+The body has been placed in the morgue of the District Base Hospital Dickoya, and the Dimbula Pathana Police are conducting further investigations.
+
+Meanwhile, another individual drowned in a canal while bathing in the ‘Patthini Pedesa’ area in Polonnaruwa.
+
+◼️
+
+[Data](articles/ecb61928.json)
+
+---
+
+### Passengers exit American Airlines flight via emergency slide after aborted takeoff
+
+*2025-07-27 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110866/passengers-exit-american-airlines-flight-via-emergency-slide-after-aborted-takeoff) · `en`
+
+An American Airlines flight was forced to abort takeoff at the Denver airport on Saturday after a landing gear malfunction led to fire and smoke on the runway.
+
+An emergency evacuation followed, and all 173 passengers were safely taken out.
+
+AA-3023, operated by a Boeing 737 MAX 8 aircraft, was bound for Miami when the incident occurred. It suffered a maintenance issue with the tire, the airline later said.
+
+Dramatic rescue footage showed the panic-stricken passengers sliding down from the plane while the landing gear was seen on fire. Smoke filled the entire area as the passengers came out one by one.
+
+The aircraft reported a possible landing gear incident while departing from the Denver airport around 2:45 pm (local time), said the Federal Aviation Administration (FAA), adding that the passengers were evacuated on the runway and transported to the terminal by bus.
+
+...
+
+[Data](articles/ffe97458.json)
+
+---
+
 ### ඇළකට වැටී සිඟිත්තියක් මරුට
 
 *2025-07-27 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212678) · `si`
@@ -107,6 +311,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c6f2ba3e.json)
+
+---
+
+### Four including a female arrested over assault on bus driver in Kandy
+
+*2025-07-27 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110865/four-including-a-female-arrested-over-assault-on-bus-driver-in-kandy) · `en`
+
+A total of four individuals have been arrested by the Kandy Police in connection with the assault on a bus driver who was transporting schoolchildren in Hantana, Kandy on Friday (25), police stated.
+
+The arrested suspects are aged 21, 26, and 27, while the female suspect is 38 years old. All suspected are residents of Kandy, police added.
+
+The private bus, which was transporting a group of schoolchildren and teachers from Anuradhapura to visit the Hantana mountain range, had collided with a three-wheeler.
+
+Following the accident, a group of individuals had assaulted the bus driver.
+
+The injured driver was later hospitalized. Despite the teachers and parents on the bus urging the crowd not to assault the driver, the group proceeded with the attack, according to police.
+
+Accordingly, police have taken into custody three males and one female involved in the assault.
+
+...
+
+[Data](articles/1fb7f761.json)
 
 ---
 
@@ -166,6 +392,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Thailand, Cambodia agree to hold immediate ceasefire talks
+
+*2025-07-27 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110864/thailand-cambodia-agree-to-hold-immediate-ceasefire-talks) · `en`
+
+US President Donald Trump has announced that Thailand and Cambodia have agreed to an “immediate ceasefire” over violent conflict at their borders.
+
+The US president said that he spoke with both Cambodian Prime Minister Hun Manet and acting prime minister of Thailand Phumtham Wechayachai to restore peace.
+
+In a series of posts on Truth Social, Trump said “They have agreed to immediately meet and quickly work out a Ceasefire and, ultimately, PEACE!”
+
+“They are also looking to get back to the “Trading Table” with the United States, which we think is inappropriate to do until such time as the fighting STOPS,” the Republican leader wrote.
+
+Meanwhile, United Nations Secretary-General Antonio Guterres expressed his deep concern over the recent armed conflict between Thailand and Cambodia at the border, urging both the nations to agree to an immediate ceasefire and resolve the disputes via dialogue.
+
+...
+
+[Data](articles/af9be7aa.json)
+
+---
+
 ### අමෙරිකාවේ සුපිරි වෙළෙඳසැලක පිහි ඇනුමක්
 
 *2025-07-27 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212676) · `si`
@@ -183,6 +429,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ecc94c11.json)
+
+---
+
+### A/L Exam top achievers to be felicitated by President’s Fund in Batticaloa
+
+*2025-07-27 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110863/al-exam-top-achievers-to-be-felicitated-by-presidents-fund-in-batticaloa) · `en`
+
+The Eastern Province ceremony of the President’s Fund A/L Excellence Awards organized to recognize district-level top achievers of the 2023/2024 G.C.E. Advanced Level Examination will be held today (27) at the Swami Vipulananda Faculty of Fine Arts in Batticaloa.
+
+Under this initiative, 60 top-performing students who excelled in A/L in 2023/2024 from each district, representing various subject streams, will be awarded financial scholarships and certificates in recognition of their academic excellence, the President’s Media Division said.
+
+This province-based recognition program was first launched in the Northern Province with its inaugural event in Kilinochchi, followed by the second event in Matara for the Southern Province, the PMD noted.
+
+The upcoming ceremony in Batticaloa marks the third in the series, focusing on the Eastern Province.
+
+A total of 360 top-performing students from the districts of Ampara, Batticaloa and Trincomalee will be honoured.
+
+...
+
+[Data](articles/01baa8f1.json)
 
 ---
 
@@ -206,6 +472,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Walmart stabbing in Michigan leaves 11 injured
+
+*2025-07-27 05:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110862/walmart-stabbing-in-michigan-leaves-11-injured) · `en`
+
+At least 11 people have been injured in a stabbing at a Walmart supermarket in Michigan, authorities say.
+
+One suspect was in custody following the incident in Traverse City, authorities confirmed. Local media reports said three people were undergoing surgery.
+
+A nearby hospital said it was treating 11 victims. “As a result, our Emergency Department is currently experiencing a higher-than-usual volume of patients,” Munson Medical Centre said on social media.
+
+Footage posted online shows multiple police and ambulance units in the carpark of the Walmart.
+
+Grand Traverse County Sheriff’s Office confirmed it was investigating “a multiple stabbing incident at the Wal-Mart in Traverse City”.
+
+FBI Deputy Director Dan Bongino said federal personnel were responding to provide any necessary support to local authorities.
+
+Michigan Governor Gretchen Whitmer said she was “in touch with law enforcement about the horrible news”.
+
+...
+
+[Data](articles/90b48025.json)
+
+---
+
 ### ஜனாதிபதி அலுவலகத்தில் பிரித்தானிய எம்.பிக்கள்
 
 *2025-07-27 05:39:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-பிரித்தானிய-எம்-பிக்கள்/175-361792) · `ta`
@@ -221,6 +511,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69891a30.json)
+
+---
+
+### Several spells of showers expected today
+
+*2025-07-27 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110861/several-spells-of-showers-expected-today-) · `en`
+
+Several spells of showers will occur in the Western, Sabaragamuwa, Central and North-western provinces and in the Galle and Matara districts today (27), the Department of Meteorology said.
+
+Meanwhile, fairly strong winds of about 50kmph can be expected at times over the Western slopes of the central hills and in the Northern and North-central provinces and in the Puttalam, Trincomalee, and Hambantota districts, the Met. Department added.
+
+◼️
+
+[Data](articles/484b9bc5.json)
 
 ---
 
@@ -1519,291 +1823,5 @@ President Anura Kumara Dissanayake, who inaugurated the Hotel Show Colombo – 2
 ...
 
 [Data](articles/a5fea581.json)
-
----
-
-### ரஜினி  தவறவிட்ட  அரசியலை  கெட்டியாக பிடித்துக்கொண்ட  கமல்…!
-
-*2025-07-26 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/220989) · `ta`
-
-ரஜினி கர்நாடகாவை பிறப்பிடமாகக்கொண்டாலும் அவர் தமிழகத்தின் சூப்பர் ஸ்டாராக நிரந்தரமாக கொண்டாடப்பட்டு வருகின்றார். எனினும் அவர் அரசியலில் பிரவேசிக்காதது அவரது இரசிகர்களை மிகவும் ஏமாற்றத்துக்குள்ளாக்கியது. இப்போது 74 வயதாகும் ரஜினிகாந்த் இதற்குப் பின்னரும் அரசியலில் பிரவேசம் செய்வாரா என்பது தெரியாது. ஆனால் அவரது இரசிகர்கள் இன்னும் அவரது அரசியல் பிரவேசத்தை எதிர்ப்பார்த்துள்ளனர். அந்த இடத்தை கெட்டியாகப் பிடித்துக்கொண்டுள்ளார் கமலஹாசன். கடந்த ஜூன் மாதம் நடந்த மாநிலங்களவை தேர்தலில் தி.மு.க தலைமையிலான கூட்டணிக் கட்சிகளின் ஆதரவுடன், மக்கள் நீதி மய்யத்தின் சார்பாக மாநிலங்களவை உறுப்பினராகத் அவர் தெரிவு  செய்யப்பட்டார். இப்போது ராஜ்யசபா எம்.பியாக பதவி ஏற்றுள்ளார்.
-
-◼️
-
-[Data](articles/3a027031.json)
-
----
-
-### Sri Lanka’s apparel sector to boost ESG reporting with ITSB programme
-
-*2025-07-26 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-apparel-sector-to-boost-esg-reporting-with-itsb-programme-232841/) · `en`
-
-ECONOMYNEXT – The Improving Transparency for Sustainable Business (ITSB) programme is set to enhance the global standing of Sri Lanka’s apparel sector by embedding global best practices in ESG reporting across the sector, the Joint Apparel Association Forum (JAAF) said.
-
-The ITSB programme was launched by the Global Reporting Initiative (GRI) South Asia, the Sustainable Development Council (SDC) of Sri Lanka, Sri Lanka Export Development Board (EDB), and JAAF. The programme is backed by the Swedish International Development Cooperation Agency (SIDA).
-
-“ITSB is designed to elevate sustainability practices and transparency across South Asia’s textile and apparel sector, positioning it for long-term resilience, profitability, and global leadership,” Rahul Singh, Senior Manager, South Asia, GRI, said.
-
-...
-
-[Data](articles/c352bc53.json)
-
----
-
-### Almost a third of people in Gaza not eating for days, UN food programme warns
-
-*2025-07-26 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110851/almost-a-third-of-people-in-gaza-not-eating-for-days-un-food-programme-warns) · `en`
-
-Almost one in three people in the Gaza Strip are going for days without eating, the UN’s food aid programme has warned.
-
-“Malnutrition is surging with 90,000 women and children in urgent need of treatment,” the World Food Programme (WFP) said in a statement.
-
-Warnings of starvation in Gaza have intensified this week. Nine more people died of malnutrition on Friday, according to the Palestinian territory’s Hamas-run health ministry - bringing the total such deaths since the war began to 122.
-
-Israel, which controls the entry of all supplies into Gaza, says there is no restriction on aid getting into the territory and blames Hamas for any malnutrition.
-
-On Friday, UK Prime Minister Sir Keir Starmer suggested the UK would play a role in dropping aid into Gaza by air after more than a third of MPs signed a letter calling on the government to recognise a Palestinian state.
-
-...
-
-[Data](articles/02661fad.json)
-
----
-
-### கிளிநொச்சி வலய கல்வி பணிமனை, துணுக்காய் கல்வி வலயங்களில் ஆசிரியர் பற்றாக்குறை - ஜோசப் ஸ்டாலின்
-
-*2025-07-26 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/220986) · `ta`
-
-கிளிநொச்சி வலய கல்விப் பணிமனை மற்றும் துணுக்காய் கல்வி வலயங்களில் பாரிய அளவிலான ஆசிரியர் பற்றாக்குறை காணப்படுவதாகவும் விசேடமாக விஞ்ஞானம் தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் ( ஐ.சி.டி) போன்ற பாடங்களுக்கு அதிகமாக ஆசிரியர் பற்றாக்குறை நிலவுவதாக ஆசிரியர் சங்க பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்தார்.
-
-ஆசிரியர் சங்க பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் வெள்ளிக்கிழமை (25) கிளிநொச்சி தெற்கு வலய கல்வி பணிமனைக்கு விஜயம் ஒன்றை மேற்கொண்டு இருந்த நிலையிலேயே அவர் ஊடகங்களுக்கு மேற்கண்டவாறு தெரிவித்திருந்தார்.
-
-கிளிநொச்சி வலயக் கல்வி பணிமனை மற்றும் துணுக்காய் கல்வி வலயங்களில் பாரிய அளவிலான ஆசிரியர் பற்றாக்குறை காணப்படுகின்றது. இதில் விசேடமாக விஞ்ஞானம் மற்றும் தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (ஐ.சி.டி) போன்ற பாடங்களுக்கு அதிகமாக ஆசிரியர் பற்றாக்குறை நிலவுகின்றது.
-
-இது மட்டுமின்றி சில பாடசாலைகள் நடத்த முடியாத அளவிலே ஆசிரியர் பற்றாக்குறை காணப்படுகின்றது. இதற்கு ஒர் தீர்வும் வழங்கப்படாத நிலைமை காணப்படுகின்றது. கிளிநொச்சி வலயத்தில் மாத்திரம் 75 பேர் இடமாற்றம் பெற்று சென்றுள்ளனர்.
-
-...
-
-[Data](articles/b3308477.json)
-
----
-
-### போலி யுவான் நாணயத்தாள்களுடன் சீன பிரஜை கைது
-
-*2025-07-26 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-யுவான்-நாணயத்தாள்களுடன்-சீன-பிரஜை-கைது/175-361770) · `ta`
-
-இரத்தினபுரி, திருவனாகெடிய பகுதியில் 4,000 போலி 100 யுவான் நாணயத்தாள்களை வைத்திருந்தமைக்காக 28 வயதுடைய சீன பிரஜை ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபர் கஹவத்தை பொலிஸ் விசேட அதிரடிப்படை முகாமைச் சேர்ந்த அதிகாரிகள் குழுவினால் கைது செய்யப்பட்டுள்ளார்.
-
-இந்த சம்பவம் குறித்து கஹவத்தை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.  R
-
-◼️
-
-[Data](articles/c2d3344c.json)
-
----
-
-### தப்பிக்க முயன்று ஆற்றில் குதித்த நபர் மாயம்
-
-*2025-07-26 11:27:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிக்க-முயன்று-ஆற்றில்-குதித்த-நபர்-மாயம்/175-361769) · `ta`
-
-சிறைச்சாலையிலிருந்து தப்பிக்க முயன்று மகாவலி ஆற்றில் குதித்த சந்தேக நபர் நீரில் மூழ்கி காணாமல் போயுள்ளார்.
-
-பல்லேகல திறந்தவெளி சிறைச்சாலை முகாமில் தடுத்து வைக்கப்பட்டிருந்த சந்தேகநபரே இதில் காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-காணாமல் போன சந்தேக நபரைக் கண்டுபிடிப்பதற்கான தேடுதல் நடவடிக்கைகள் தற்போது நடைபெற்று வருவதாக பொலிஸார் தெரிவித்தனர். R
-
-◼️
-
-[Data](articles/944b1fe4.json)
-
----
-
-### ඇතෙකු සමග සටනෙන් පරාජය භාරගත් වනඅලියා මරුට
-
-*2025-07-26 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212657) · `si`
-
-ඇතෙකු සමග දරුණු සටනක නිරතවී බරපතළ තුවාල ලැබූ වනඅලියෙකු මැදිරිගිරිය කවුඩුල්ල ජලාශයේ වැලිතුඩ ප්‍රදේශයේදී මියගොස් තිබේ.
-
-ඒ අනුව අද (26) උදෑසන ගිරිතලේ වනජීවී පශු වෛද්‍ය ඒකකයේ පශු වෛද්‍ය සමීර කලිගුආරච්චි මහතා විසින් වනඅලියා සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකළේය.
-
-එහිදී ඔහු සඳහන් කළේ වනඅලියා මියයෑමට හේතුව පසුගිය දිනවල ඇතෙකු සමග ඇතිවූ ගැටුමෙන් ඇතිවූ බරපතළ තුවාල බවය.
-
-මෙලෙස මියගොස් ඇති වනඅලියා වයස අවුරුදු 40ක් පමණ වන උස අඩි 9ක් පමණ වන සත්වයෙක්ය.
-
-වනඅලියාගේ ජීවිතය බේරාගැනීම සඳහා පසුගිය දින කිහිපයේම ප්‍රතිකාර සිදුකර තිබුණි.
-
-◼️
-
-[Data](articles/8a556f51.json)
-
----
-
-### வயிற்றில் குட்டியுடன் இருந்த மானை கொலை செய்த இரு பொலிஸ் அதிகாரிகள் உட்பட  நால்வர் கைது!
-
-*2025-07-26 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/220980) · `ta`
-
-கலேவெல, மகுலுகஸ் வெவ, ஹீனுக்கல வனப்பகுதியில் வயிற்றில் குட்டியுடன் இருந்த மானை கொலை செய்த சம்பவம் தொடர்பில் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
-
-இந்த சம்பவம் தொடர்பில் வெள்ளிக்கிழமை (25) இரண்டு பொலிஸ் அதிகாரிகள் உட்பட மூன்று பேர் பொலிஸாரால் கைது செய்யப்பட்டனர்.
-
-இவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே மேலும் ஒருவர் 03 சட்டவிரோத துப்பாக்கிகளுடன் கைது செய்யப்பட்டுள்ளார்.
-
-இதன்போது, நேற்று கைது செய்யப்பட்ட பொலிஸ் அதிகாரியும் மற்றுமொரு நபரும் சகோதரர்கள் என விசாரணையில் தெரியவந்துள்ளது.
-
-கைது செய்யப்பட்ட நான்கு சந்தேக நபர்களும் இன்று சனிக்கிழமை (26) தம்புள்ளை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
-
-மேலும், கைதான இரண்டு பொலிஸ் அதிகாரிகளுக்கும் எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என்றும் தம்புள்ளை உதவி பொலிஸ் அத்தியட்சகர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/9348900b.json)
-
----
-
-### තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්
-
-*2025-07-26 11:15:20* · [`adalk`](https://www.ada.lk/breaking_news/තද-සුළං-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-417512) · `si`
-
-දිවයින පුරා පවතින සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද හා මධ්‍යම පළාත් මෙන්ම පුත්තලම, ත්‍රිකුණාමලය, හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-55) ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-දිවයිනේ හසසු ප්‍ර දේශවල විටින් විට හමන පැ.කි.මී. (40-45) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවද එම දෙපාර්තමෙන්තුව දන්වා සිටියි.
-
-◼️
-
-[Data](articles/01e81b18.json)
-
----
-
-### දුම්රියෙන් වැටී පුද්ගලයෙකු මරුට
-
-*2025-07-26 10:56:12* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියෙන්-වැටී-පුද්ගලයෙකු-මරුට/11-417511) · `si`
-
-හලාවත පොලිස් වසමේ සවරාන ප්‍රදේශයේදී කොළඹ කොටුව සිට හලාවත දක්වා ධාවනය වූ දුම්රියෙන් වැටී පුද්ගලයෙකු ඊයේ (25දා) දහවල් මියගොස් ඇති බවට හලාවත පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත.
-
-මරණකරු වයස අවුරුදු 70 ක පමණ වන අනන්‍යතාවය තහවුරු කර ගැනීමට නොහැකී වී ඇත. උස අඩි 05 අඟල් 06 ක් පමණ වන තළෙළු, කෙට්ටු, සාමාන්‍ය සිරුරකි. උඩුකයට සුදුපාට ඉරි සහිත අත්කොට කමිසයක් හා යටිකයට කොළපාට සරමක් හැඳ සිට ඇත.
-
-මෘත ශරීර හලාවත රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර හලාවත පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/cc46d76a.json)
-
----
-
-### யாழில் போதையில் தவறான முடிவெடுத்து குடும்பஸ்தர் உயிர்மாய்ப்பு
-
-*2025-07-26 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/220983) · `ta`
-
-யாழ்ப்பாணம் - கொட்டடி பகுதியைச் சேர்ந்த 48 வயதுடைய குடும்பஸ்தர் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-இவர் வியாழக்கிழமை (24) இரவு அளவுக்கு அதிகமாக மதுபானத்தை அருந்தி விட்டு, வீட்டுக்கு வந்து உணவு உண்ட பின்னர் உறங்கியுள்ளார்.
-
-◼️
-
-[Data](articles/9e5de03c.json)
-
----
-
-### කාන්තා අත්බෑග් කොල්ලකන කෝටිපති පුත්‍රයා හා මිත්‍රයා
-
-*2025-07-26 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212656) · `si`
-
-කාන්තාවන්ගේ අත්බෑග සහ ජංගම දුරකථන කොල්ලකෑමක් සම්බන්ධයෙන් තරුණයන් දෙදෙනෙකු පිළියන්දල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් දෙදෙනාගෙන් එක් අයෙකු මීට මාස 2කට පමණ ඉහතදී ඔස්ට්‍රේලියාවේ සිට නිවාඩුවට මෙරටට පැමිණි අයෙකු වන අතර, අනෙක් තරුණයා පානදුර ප්‍රදේශයේ කෝටිපති ව්‍යාපාරිකයකුගේ පුත්‍රයෙකු බව සඳහන්.
-
-ඔවුන් දෙදෙනා කොල්ලකන ලද ජංගම දුරකථතන අතර, නවීන පන්නයේ ජංගම දුරකථන 5ක්, ස්මාර්ට් ජංගම දුරකථන 15කට ආසන්න‍ ප්‍රමාණයක් තිබී සොයාගෙන ඇත.
-
-පොලීසිය සඳහන් කළේ මෙම ජංගම දුරකථනවල වටිනකම රුපියල් ලක්ෂ 25කට ආසන්න බවය.
-
-තවද කොල්ලකෑම සඳහා යොදාගත් ව්‍යාජ අංක තහඩු සවිකළ යතුරුපැදියක්, මුහුණ සම්පූර්ණයෙන්ම ආවරණය වන සේ පළඳින ආරක්ෂක හිස්වැසුම් දෙකක්, හොරයින් මත්කුඩු මිලිගෑම් 10,900ක්, කාන්තා අත්බෑගයක් සහ කරමත එල්ලාගෙන යන බෑග් දෙකක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-මෙම සැකකරුවන් දැඩි ලෙස මත්ද්‍රව්‍ය පානයට ඇබ්බැහි වූවන් වන අතර, ඔවුන් දිනකට මත්කුඩු පැකට් 20ක් පමණ පානය කරන බව ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත.
-
-පිළියන්දල පොලීසිය සිදුකළ විශේෂ පරික්ෂා කිරීමක් අතරතුර දී අහඹු ලෙස මෙම දෙදෙනා අත්අඩංගුවට පත්ව තිබේ.
-
-...
-
-[Data](articles/90f3bb58.json)
-
----
-
-### 21 wild elephants shot recently; special probe initiated – Dy Minster
-
-*2025-07-26 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110850/21-wild-elephants-shot-recently-special-probe-initiated-dy-minster) · `en`
-
-Deputy Minister of Environment Anton Jayakody stated that a total of 21 wild elephants have been shot in recent days, prompting the launch of a special investigation into the incidents, as similar occurrences are being reported across the country.
-
-Several reports have emerged from various parts of the island regarding the deaths of wild elephants due to multiple causes.
-
-The recent death of the tusker known as ‘Bhathiya’ has drawn national attention, further highlighting the growing concern over wild elephant fatalities.
-
-◼️
-
-[Data](articles/4497ded9.json)
-
----
-
-### Police arrest 4 suspects connected to Lalith Kannangara’s drug network
-
-*2025-07-26 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110849/police-arrest-4-suspects-connected-to-lalith-kannangaras-drug-network) · `en`
-
-Four individuals allegedly connected to the drug trafficking operations of ‘Bus Laliya’, also known as Lalith Kannangara — a Dubai-based figure believed to be running a Sri Lankan organized crime network — have been arrested in possession of crystal methamphetamine (commonly known as ‘ICE’).
-
-The arrests were made by a team led by Sub-Inspector Nuwan Thilakaratne of the Hanwella Motorcycle Unit of the Police Special Task Force (STF).
-
-According to police, the suspects were apprehended while attempting to evade a roadblock established based on intelligence received by officers.
-
-A total of 7 grams and 500 milligrams of crystal methamphetamine were recovered from the suspects’ possession.
-
-◼️
-
-[Data](articles/b12ffd5b.json)
-
----
-
-### ලලිත් කන්නන්ගරගේ ගෝලයින් 4ක් අත්අඩංගුවට
-
-*2025-07-26 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212655) · `si`
-
-ඩුබායි රාජ්‍යයේ රැඳීසිටිමින් මෙරට සංවිධානාත්මක අපරාධ ජාලය මෙහෙයවන 'බස් ලලියා' හෙවත් ලලිත් කන්නන්ගරගේ මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන පුද්ගලයින් 4 දෙනෙකු අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගෙන තිබේ.
-
-පොලිස් විශේෂ කාර්ය බළකා හංවැල්ල යතුරුපැදි ඒකකයේ උප පොලිස් පරීක්ෂක නුවන් තිලකරත්න ඇතුළු කණ්ඩායම විසින් සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
-
-එම නිලධාරීන්ට ලද තොරතුරක් මත මාර්ග බාධකයක් යොදා පරීක්ෂා කිරීම් සිදුකරමින් සිටියදී මාර්ග බාධකය මගහැර පලා යෑමට තැත් කිරීමේදී සැකකරුවන් අත්අඩංගුවට පත්වී තිබේ.
-
-සැකකරුවන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 7යි මිලිග්‍රෑම් 500ක් සොයාගෙන තිබුණි.
-
-◼️
-
-[Data](articles/4a786243.json)
-
----
-
-### ටිම් ඩේවිඩ්ගේ ඉනිමෙන් ඔස්ට්‍රේලියාවට සුපිරි ජයක්
-
-*2025-07-26 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212653) · `si`
-
-ටිම් ඩේවිඩ්ගේ ප්‍රහාරත්මක ඉනිම හේතුවෙන් බ.ඉ. කොදෙව් කණ්ඩායමට එරෙහි තෙවන විස්සයි20 ක්‍රිකට් තරගයෙන්ද කඩුලු 6ක පහසු ජයක් ලැබීමට සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම සමත් විය.
-
-ශා. කිට්ස්හි වර්නර් පාක් ක්‍රීඩාංගණයේ පැවති මෙම තරගය මේරට වේලාවෙන් අද (26) පෙරවරුවේ අවසන් විය.
-
-මෙහිදී බ.ඉ. කොදෙව්වන්ගෙන් හිමි වූ ලකුණු 215ක ඉලක්කය කඩුලු 4ක් පමණක් දැවී තිබියදී තරගයේ 17(16.1) වන පන්දුවාරයේදී ඔස්ට්‍රේලියාව පසුකර ගියේය.
-
-ප්‍රහාරාත්මක ඉනිමක් ක්‍රීඩාකළ ටිම් ඩේවිඩ් නොදැවී ලකුණු 102ක් රැස්කිරීමට සමත් වූ අතර, පන්දු 37කින් ගොඩනැගුණු ඔහුගේ ඉනිමට හයේ පහර 11ක් හා හතරේ පහර 6ක් ඇතුළත් විය.
-
-මෙය ඔස්ට්‍රේලියානු පිතිකරුවෙකු විස්සයි20 තරග බිමේ රැස්කළ වේගවත්ම ශතකය වේ.
-
-එමෙන්ම ටිම් ඩේවිඩ් සිය අර්ධ ශතක සීමාවද පන්දු 16කදී පසුකර ගිය අතර, එයද ඔස්ට්‍රේලියානු පිතිකරුවෙකු වාර්තාකළ වේගවත්ම විස්සයි20 අර්ධ ශතකය විය.
-
-මේ අතර කොදෙව් ඉනිම වෙනුවෙන්ද නායක ෂේ හෝප් පන්දු 57කට පමණක් මුහුණදෙමින් නොදැවී ලකුණු 102ක් රැස්කිරීමට සමත් විය.
-
-ඒ අනුව ඔහු කොදෙව් ක්‍රිකට් ඉතිහාසයේ සෑම ආකෘතියකම ශතකයක් රැස්කළ දෙවන පිතිකරුවා ලෙස වාර්තා අතරට එක්විය.
-
-...
-
-[Data](articles/d244978a.json)
 
 ---

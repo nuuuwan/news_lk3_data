@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 13:30:48**
+As of **2025-07-27 13:49:59**
 
 ## Newspaper Stats
 
-*Scraped **67,033** Articles*
+*Scraped **67,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,112 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,423
-adaderanalk | 8,231
+adaderanalk | 8,233
 tamilmirrorlk | 9,692
-virakesarilk | 11,176
-adaderanasinhalalk | 11,517
+virakesarilk | 11,178
+adaderanasinhalalk | 11,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 67,033 articles have been extended.
+61,973 (92.4%) of 67,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### දෙරණ සරුංගල් සැණකෙළියට චීනයේ ත්‍රී වින්ඩ් සරුංගල් කණ්ඩායමත් එක් වෙයි
+
+*2025-07-27 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212689) · `si`
+
+දෙරණ - සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය සඳහා ලොව අංක එකේ ස්ටන්ට් සරුංගල් කණ්ඩායම වන චීනයේ වූහාන් නුවර ත්‍රී වින්ඩ් සරුංගල් කණ්ඩායමද එක් වන බව මේ වන විට නිවේදනය කර තිබේ.
+
+දෙරණ සරුංගල් සැණකෙළිය අගෝස්තු මස 24 වැනිදා ගාලු මුවදොර පිටියේදී පැවැත්වීමට නියමිතය.
+
+දෙරණ දායකත්වයෙන් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය මෙවර පැවැත්වෙන්නේ 5 වැනි වරටය.
+
+පසුගිය වසර තුනේම ලෝක ශූරතා ක්‍රීඩා සරුංගල් තරගාවලිය ජයග්‍රහණය කළේද ත්‍රී වින්ඩ් සරුංගල්  කණ්ඩායමය.
+
+◼️
+
+[Data](articles/85c3b8cd.json)
+
+---
+
+### 24 persons nabbed during special operation in Galle
+
+*2025-07-27 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110877/24-persons-nabbed-during-special-operation-in-galle) · `en`
+
+A total of twenty-four suspects have been arrested in a special search operation carried out in several areas of Galle.
+
+It is also reported that 13 women were arrested during a raid conducted at a gambling centre in Mahamodara.
+
+Meanwhile, three-wheelers were also subjected to special searches during this operation carried out yesterday (26).
+
+Furthermore, a suspect was apprehended for the possession of drugs while a group of drivers were also charged with traffic offenses.
+
+These operations have been launched under the direct supervision of the Deputy Inspector General of Police (DIG) in Galle with the aim of preventing the transportation of illegal weapons and narcotics.
+
+◼️
+
+[Data](articles/12bbc8ff.json)
+
+---
+
+### சட்டவாக்க கட்டமைப்புக்கள் பலப்படுத்தப்பட வேண்டும் - சர்வதேச சிறுவர் பாதுகாப்பு மாநாட்டில் இலங்கைக்கான ஐரோப்பிய ஒன்றிய தூதர் வலியுறுத்து
+
+*2025-07-27 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221060) · `ta`
+
+சிறுவர்களுக்கான நீதியில் நேர்மையும் சமத்துவமும் பிரதிபலிக்க வேண்டும் என்றும், சட்டவாக்கக் கட்டமைப்புக்க ள் மறுசீரமைக்கப்பட்டு பலப்படுத்த வேண்டுமெனவும் இலங்கைக்கான ஐரோப்பிய ஒன்றிய தூதர் கார்மென் மொரெனோ வலியுறுத்தினார்.
+
+இலங்கையில் இடம்பெறுகின்ற சிறுவர்களுக்கெதிரான அனைத்து வகையான  வன்முறைகளையும் எதிர்த்துப் போராடுவதற்கு தேவையான அழுத்தங்களை வழங்கும் நோக்கில் சர்வதேச சிறுவர் பாதுகாப்பு மாநாடு கடந்த 25ஆம் திகதி ஆரம்பமாகி இன்று வரையில் நடைபெறுகின்றது,
+
+இந்நிலையில் இம்மாநாட்டின் ஆரம்ப நிகழ்வில் உரையாற்றும்போதே அவர்கள் மேற்கண்டவாறு தெரிவித்தார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+
+சட்டவாக்கக் கட்டமைப்புக்களை பலப்படுத்தி சிறுவர்களுடன் கடமையாற்றும் நிறுவனங்கள் மற்றும் தொழில்வல்லுநர்களின் ஆற்றலை மேம்படுத்தி சிறுவர் நேய நீதித்துறை மறுசீரமைப்பு நடவடிக்கைகளுக்கு தமது ஒத்துழைப்பின் முக்கியத்துவத்தை எடுத்துரைத்தார்.
+
+...
+
+[Data](articles/1ff6d216.json)
+
+---
+
+### சமூக ஊடகங்கள் ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ; போதைப்பொருளுடன் 21 பேர் கைது
+
+*2025-07-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
+
+கடுவலை, வெலிவிட்ட பகுதியில் சமூக ஊடகங்கள் ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ஒன்றில் போதைப்பொருட்களுடன்  21 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய முன்னெடுக்கப்பட்ட சுற்றி வளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களிடமிருநந்து  கஞ்சா மற்றும் போதை மாத்திரைகள் உட்பட பல சட்டவிரோத பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+22 முதல் 27 வயதுக்குட்பட்ட சந்தேகநபர்கள் கடுவலை  நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
+
+◼️
+
+[Data](articles/69dee9aa.json)
+
+---
+
+### Brigadier F. Joseph assumes duties as Defence Ministry spokesman
+
+*2025-07-27 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110876/brigadier-f-joseph-assumes-duties-as-defence-ministry-spokesman) · `en`
+
+Brigadier Franklin Joseph USP has officially assumed duties as the new Director Media and Spokesman of the Ministry of Defence.
+
+He officially assumed responsibilities from Colonel Nalin Herath, who previously served as the Director Media and Spokesman, Ministry of Defence said in a statement.
+
+Brigadier Franklin Joseph, a distinguished officer of the Sri Lanka Army Engineers Corps, brings with him over three decades of exemplary service marked by professionalism, leadership and a deep commitment to national security.
+
+He served as the Centre Commandant of the Corps of Sri Lanka Engineers prior to takeover the duties as the Director Media.
+
+◼️
+
+[Data](articles/dfcd1f99.json)
+
+---
 
 ### ඉන්දියාවේ කෝවිලක ඇතිවූ තෙරපුමකින් පුද්ගලයින් 06 දෙනෙකු මරුට
 
@@ -1731,103 +1823,5 @@ However, in 1996, she re-entered the country under a new name and passport. With
 ...
 
 [Data](articles/2e7c73b5.json)
-
----
-
-### தமிழர் சிறைப்படுகொலை வீரர்களுக்கு அஞ்சலி - விடுதலை கவனயீர்ப்பு நிகழ்வுகள்  கிட்டுப் பூங்காவில்
-
-*2025-07-26 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221024) · `ta`
-
-இலங்கை சிறைகளில் படுகொலை செய்யப்பட்ட தமிழ் அரசியற் கைதிகளுக்கு நீதி வேண்டிய நினைவேந்தலும், நீண்ட காலமாக தடுத்து வைக்கப்பட்டுள்ளவர்களது விடுதலையை நோக்கிய “விடுதலை” எனும் தொனிப்பொருளிலான கவனயீர்ப்பின் இரண்டாம் நாள் நிகழ்வுகள் நேற்றைய தினம் வெள்ளிக்கிழமை (25) கிட்டுப் பூங்காவில் நடைபெற்றது.
-
-குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் மு.கோமகனின் ஒருங்கிணைப்பில் நடைபெற்ற இரண்டாம் நாள் நிகழ்வுகளில் சிறைப்படுகொலை நினைவேந்தல் மற்றும் அரங்க நிகழ்வுகள் நடைபெற்றன.
-
-மேலும், விடுதலை நீர் கையளிப்பு, சிறைக்கூட உணர்வு கண்காட்சி ஆகியன இரு தினங்களாக நடைபெற்று வருவதோடு, தாயகத்தின் கிழக்குப் பிராந்தியத்திலிருந்து விடுதலை நீர் கையளிக்கப்பட்டிருந்தமையும் குறிப்பிடத்தக்கது.
-
-குறித்த நிகழ்வின் போது மதத் தலைவர்கள், அரசியற் கட்சிச் செயற்பாட்டாளர்கள், அரசியற் கைதிகளின் குடும்பத்தினர், விடுவிக்கப்பட்ட முன்னாள் அரசியற் கைதிகள், குடிமக்கள், சமூகச் செயற்பாட்டாளர்கள், பல்கலைக்கழக மாணவர்கள், பொதுமக்கள் என பெருந்திரளானோர் பங்குகொண்டிருந்ததோடு, விடுதலை நீர் கையளிப்பிலும் ஈடுபட்டிருந்தனர்.
-
-◼️
-
-[Data](articles/9547add2.json)
-
----
-
-### வலிகாமம் கிழக்கு பிரதேச சபையில் கறுப்பு ஜூலை நினைவேந்தல்
-
-*2025-07-26 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221017) · `ta`
-
-வலிகாமம் கிழக்கு பிரதேச சபையில் கறுப்பு ஜூலை நினைவேந்தல் நிகழ்வுகள் தவிசாளர் தியாகராஜா நிரோஷ் தலைமையில் இடம்பெற்றன.
-
-இன்று சனிக்கிழமை காலை  பிரதேச சபை முன்றலில் கறுப்பு ஜூலை இன அழிப்பில் படுகொலை செய்யப்பட்ட பொதுமக்கள் மற்றும் வெலிக்கடைச் சிறைச்சாலையில் படுகொலை கொலை செய்யப்பட்ட அரசியல் கைதிகளையும் நினைந்து அகவணக்கம் செலுத்தப்பட்டது.
-
-அதனைத் தொடர்ந்து பொது ஈகைச் சுடரினை தவிசாளர் ஏற்றி வைத்ததைத் தொடர்ந்து உறுப்பினர்கள் அஞ்சலிச் சுடர் விளக்குகளை ஏற்றி வைத்து அஞ்சலி
-
-மாறி மாறி ஆட்சி மாற்றங்கள் இடம்பெற்றன.  எனினும் இலங்கை அரச கொள்கை தமிழ் மக்களுக்கான நீதியை வழங்க முடியாத ஒன்றாகக் காணப்படுவதனாலும் அரச இயந்திரமும் மக்கள் சமூகமும் இனவாதமயப்படுத்தப்பட்டுள்ளமையின் விளைவினாலும் தமிழ் மக்களுக்கான நீதி பொறுப்புக்கூறல் கிட்டவில்லை. நாம் வரலாற்று ரீதியாக ஏமாற்றப்பட்ட நிலையில் சர்வதேச நீதி ஒன்றே எமக்குத் தீர்வாகும் என்பதை முன்வைக்கின்றோம்.
-
-கறுப்பு ஜூலை கலவரத்தின் போது அரச அனுசரணையில், ஊக்குவிப்பில், பங்கேற்பில், முன்னெடுப்பில் சகல படுகொலைகளும் தமிழ் மக்கள் மீதான பாரதூரமான மனித உரிமை மீறல்களும் இடம்பெற்றன.
-
-...
-
-[Data](articles/15d5a863.json)
-
----
-
-### Four including cops arrested for killing pregnant deer remanded
-
-*2025-07-26 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110857/four-including-cops-arrested-for-killing-pregnant-deer-remanded) · `en`
-
-The four suspects, including two Police Sergeants, who were arrested in connection with the killing of a pregnant deer within the Heenugala Reserve at Makulugaswewa, Galewela, have been remanded until August 01 by the Dambulla Magistrate’s Court.
-
-Dambulla Acting Magistrate Dulanjali Sithumini issued this order after the suspects were produced before the court today (26).
-
-However, the police informed the acting magistrate that steps had been taken to admit one of the suspects to the Dambulla Base Hospital due to his health condition.
-
-The Dambulla Assistant Superintendent of Police (ASP) had also taken steps to present three firearms allegedly used to kill the pregnant doe to the court.
-
-The two civilians have been charged with killing a deer and possession of firearms, while the two police officers have been charged with aiding and abetting the killing of the pregnant deer within a forest reserve.
-
-...
-
-[Data](articles/bbfbf81c.json)
-
----
-
-### යළි කරළියට ආ පොලිස්පති පුටුව
-
-*2025-07-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212668) · `si`
-
-ධුරයේ රාජකාරි සිදුකිරීම අත්හිටුවා ඇති පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සම්බන්ධයෙන් විමර්ශන කමිටු වාර්තාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමෙන් අනතුරුව යළිත් වරක් පොලිස්පති ධුරය සම්බන්ධයෙන් සාකච්ඡාවක් මතුවී වී තිබේ.
-
-ඒ දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනා සම්මතය ලබන අගෝස්තු මස 05 වැනිදා විවාද කිරීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වීමත් සමගය.
-
-කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පෙරේදා දිනයේදී රැස්වූ පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මේ පිළිබඳ තීරණය වී ඇති අතර ඒ අනුව අගොස්තු 05 වැනි අඟහරුවාදා පෙරවරු 11.30 පස්වරු 04.00 දක්වා දේශබන්දු තෙන්නකෝන් මහතා 2002 අංක 05 දරණ නිල ධරයෙන් ඉවත් කිරීමේ (ක්‍රියා පටිපාටිය) පනතේ 17 වැනි වගන්තිය ප්‍රකාරව එම ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනාව විවාදයට ගනු ඇත.
-
-මෙරට ඉතිහාසයේ පොලිස්පතිවරයෙකු සම්බන්ධයෙන් කරුණු සොයා බැලීමට පත් කරන ලද පළමු පාර්ලිමේන්තු කමිටුව විසින් දේශබන්දු තෙන්නකෝන් මහතා සම්බන්ධයෙන් දීර්ඝ විමර්ශනයක් සිදුකරනු ලැබීය.
-
-...
-
-[Data](articles/ee8687c9.json)
-
----
-
-### 2025 ලෝක කෘත්‍රිම බුද්ධි සමුළුව චීනයේ දී ඇරඹේ
-
-*2025-07-26 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212667) · `si`
-
-2025 ලෝක කෘත්‍රිම බුද්ධි සමුළුව චීනයේ ෂැංහයි හිදී අද (26) ආරම්භ විය.
-
-සමුළුව පැවැත්වෙන්නේ "බුද්ධිමත් යුගයේ ගෝලීය සහයෝගීතාවය" යන තේමාව යටතේ ය.
-
-"ශාස්ත්‍රීය ඉදිරි ගමන, මෘදු හා දෘඩ ඒකාබද්ධ කිරීම සහ ගෝලීය පාලනය" යන මූලික කරුණු තුන කෙරෙහි මෙවර සමුළුවේ දී මුල්වරට අවධානය යොමු කරනු ලැබේ.
-
-මෙම සමුළුවට සමගාමීව පැවැත්වෙන ප්‍රදර්ශන භූමිය ද ප්‍රථමවරට වර්ග මීටර් 70,000 ඉක්මවා ගොස් ඇති අතර,සමාගම් 800කට වැඩි සංඛ්‍යාවක් සිය නිෂ්පාදන ප්‍රදර්ශනයට එක් කර ඇත.
-
-අති නවීන නිෂ්පාදන 3,000කට අධික සංඛ්‍යාවක් මෙන්ම ගෝලීයව සහ දේශීයව මුල්වරට ඉදිරිපත් කෙරෙන නව නිෂ්පාදන 100කට අධික සංඛ්‍යාවක් ද එහිදී ප්‍රදර්ශනය කරනු ලැබේ.
-
-ගෝලීය කෘත්‍රිම බුද්ධියේ වර්ධනය සහ ප්‍රවර්ධනය අරමුණින් පැවැත්වෙන මෙම සමුළුව සඳහා 30කට වැඩි රටවල් සහ කලාපවලින් ආරාධිතයන් 1200කට වැඩි පිරිසක් සහභාගී වේ.
-
-...
-
-[Data](articles/2ab9da2e.json)
 
 ---

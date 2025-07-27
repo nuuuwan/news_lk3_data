@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 01:48:14**
+As of **2025-07-28 02:09:54**
 
 ## Newspaper Stats
 
-*Scraped **67,108** Articles*
+*Scraped **67,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 688
 economynextcom | 4,102
 islandlk | 4,106
 dailymirrorlk | 4,733
-dailyftlk | 4,734
+dailyftlk | 4,739
 adalk | 6,434
 adaderanalk | 8,247
 tamilmirrorlk | 9,704
@@ -26,11 +26,91 @@ adaderanasinhalalk | 11,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,108 articles have been extended.
+61,973 (92.3%) of 67,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### Sri Lanka’s globalisation and its policy challenges, according to Dr. Sarath Rajapatirana
+
+*2025-07-28 01:38:02* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-globalisation-and-its-policy-challenges-according-to-Dr-Sarath-Rajapatirana/4-779532) · `en`
+
+Sri Lanka had been a beneficiary of the waves of globalisation that had struck it for thousands of years. It had been open to trade, investment, transfer of knowledge, and factor mobility without hindrance. The country’s chronicle, Mahavamsa, talks about an incident that had happened in the 6th century BCE showing that the country had been visited by foreign ships laden with rice and other goods. According to the story, when Prince Vijaya landed in Thambapanni, the local princess Kuveni had hosted him and his retinue numbering 600 to a meal of rice and an assortment of gifts. According to Mahavamsa, rice for the meal and items for gifts had been procured from merchant ships that had been wreaked in the nearby seas.1
+
+...
+
+[Data](articles/a9bba196.json)
+
+---
+
+### Navigating crisis
+
+*2025-07-28 01:34:31* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-crisis/4-779531) · `en`
+
+always on the side of the ablest navigators” – Edward Gibbon
+
+At a recent book launch organised by Advocata Institute, former President Ranil Wickremesinghe made a startling statement. A substantial section of the cognoscente on economics in our land perceives him as our preeminent strategic thinker.
+
+Commenting on US tariffs he said, “US is a member of the OCC. And the US has signed on to the EFF and their time limits which means they must help us now… Otherwise they are in breach of the agreement.”
+
+“They are preventing us from repaying bondholders, the former President pointed out adding, “And now we must tell the IMF…tell the bondholders to go to the US and collect the money.”
+
+He hoped the current administration will succeed in getting the Trump tariff down as Sri Lanka “cannot survive with 30%”.
+
+The gathering he addressed had many outstanding people in the field of finance and commerce.
+
+...
+
+[Data](articles/7dc594a3.json)
+
+---
+
+### Who protects the vulnerable? Reframing role of Police in preventing gendered harassment in Sri Lanka
+
+*2025-07-28 01:32:23* · [`dailyftlk`](https://www.ft.lk/opinion/Who-protects-the-vulnerable-Reframing-role-of-Police-in-preventing-gendered-harassment-in-Sri-Lanka/14-779530) · `en`
+
+Women, children, and vulnerable families are not statistics waiting for a crisis to unfold
+
+In Sri Lanka, the word protection carries weight. It is a promise embedded in the mandate of State institutions, especially the Police. It is a word that should evoke safety, trust, and accountability. Yet, for many women and children, especially in vulnerable domestic contexts, protection remains an unfulfilled expectation, marked by inaction, bias, and systemic disregard. This raises urgent questions about the role of the Police and women’s units in addressing, preventing, and responding to gendered harassment in its early forms.
+
+...
+
+[Data](articles/9ae2e561.json)
+
+---
+
+### Maldives history:  From Sri Lankan Prince to first King
+
+*2025-07-28 01:30:54* · [`dailyftlk`](https://www.ft.lk/columns/Maldives-history-From-Sri-Lankan-Prince-to-first-King/4-779528) · `en`
+
+Luxury safari boats – each boat has 6 to 12 rooms (floating hotels)
+
+King Mahaabarana Adeettiya (Koimala) was the first ruler to govern the entire Maldives from 1117 to 1141 (24 years). Before him, earlier rulers only controlled specific parts of the Maldives or what was known as Deeva Maari (and Dheeva Mahal) at that time.
+
+Koimala is believed to be a Sinhalese prince of royal lineage from Ceylon. Legend has it that he married the daughter of the king of Ceylon and embarked on a journey with her in two vessels. Upon reaching the Maldives, they encountered calm seas and decided to rest in Northern Maalhosmadulhu Atoll. The king and his entourage settled at Rasgetheemu Island (meaning the King’s Island), while the queen and her servants stayed at Angolhitheem Island (meaning the Queen’s Island or island of servants) in the same atoll.
+
+...
+
+[Data](articles/6f939242.json)
+
+---
+
+### Invisible trails: Navigating intersections of digital exhaust, trust, and privacy
+
+*2025-07-28 01:26:16* · [`dailyftlk`](https://www.ft.lk/columns/Invisible-trails-Navigating-intersections-of-digital-exhaust-trust-and-privacy/4-779527) · `en`
+
+In the modern digital ecosystem, every click, search, swipe, and share generate a hidden byproduct – digital exhaust. This byproduct, often unnoticed by users, forms the backbone of predictive algorithms, targeted advertising, and behavioural analytics. While the potential for innovation and personalisation is immense, it also raises critical concerns around digital trust and digital privacy. This article explores the intricate relationship between these three interconnected concepts and why understanding them is essential in the digital age.
+
+Digital exhaust refers to the passive, often unintentional, data trails that individuals leave behind as they navigate the internet and use digital devices. This includes metadata, device usage patterns, location information, app logs, online behaviour, and much more.
+
+Unlike active data input (like filling out a form), digital exhaust is collected in the background. For example:
+
+...
+
+[Data](articles/215f7331.json)
+
+---
 
 ### கில், ஜடேஜா, சுந்தர் அபார சதங்கள் குவிப்பு; இங்கிலாந்து - இந்தியா 4ஆவது டெஸ்ட் வெற்றிதோல்வியின்றி முடிவு
 
@@ -1705,89 +1785,5 @@ The statement also affirms that the existing security arrangements for the clerg
 ◼️
 
 [Data](articles/de4789a1.json)
-
----
-
-### தாய்லாந்து - கம்போடியா  போர் தீவிரம்: 33 பேர் உயிரிழப்பு
-
-*2025-07-27 11:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-போர்-தீவிரம்-33-பேர்-உயிரிழப்பு/50-361810) · `ta`
-
-தாய்லாந்து, கம்போடியா இடையிலான போர் தீவிரமடைந்து வருகிறது. இந்த போரில் இருதரப்பில் இதுவரை 33 பேர் உயிரிழந்து உள்ளனர்.
-
-தென்கிழக்கு ஆசியாவில் தாய்லாந்து அமைந்துள்ளது. இதன் அண்டை நாடு கம்போடியா இரு நாடுகளும் 817 கி.மீ. தொலைவு எல்லையை பகிர்ந்து கொள்கிறது. பண்டைய காலத்தில் முதலாம் ராமா மன்னரால் தோற்றுவிக்கப் பட்ட ரத்தனகோசின் பேரரசு தாய்லாந்தை ஆட்சி செய்தது.
-
-இதே போல இரண்டாம் ஜெயவர்மன் மன்னரால் தோற்றுவிக்கப்பட்ட கெமர் பேரரசு கம்போடியாவை ஆட்சி செய்தது. இந்து மதத்தைப் பின்பற்றிய ரத்தனகோசின், கெமர் பேரரசுகள் தங்களது ஆட்சிக் காலத்தில் ஏராளமான இந்து கோயில்களை கட்டின. தற்போது இரு நாடுகளின் எல்லைப் பகுதிகளில் உள்ள இந்து கோயில்களை சொந்தம் கொண்டாடுவதில் பிரச்சினை எழுந்து போராக வெடித்திருக்கிறது.
-
-...
-
-[Data](articles/a9fb4015.json)
-
----
-
-### හන්තානේදී බස් රථ රියදුරෙකුට පහරදීමට සම්බන්ධ 4ක් අල්ලයි
-
-*2025-07-27 11:42:15* · [`adalk`](https://www.ada.lk/breaking_news/හන්තානේදී-බස්-රථ-රියදුරෙකුට-පහරදීමට-සම්බන්ධ-4ක්-අල්ලයි/11-417523) · `si`
-
-මහනුවර පොලිස් වසමේ හන්තාන සඳගිරිසෑය වන්දනා කිරීම සඳහා අනුරාධපුර නිවත්තක චේතිය විද්‍යාලයේ පාසල් සිසුන් පිරිසක් රැගත් බස් රථයක රියදුරුවරයාට පහරදී බස් රථයට ද අලාභානි කළ බව කියන හන්තාන ප්‍රදේශයේ පදිංචිකරුවන් හතර දෙනකු පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති අතර එම සිද්ධියේ ප්‍රධාන සැකකරු අත්අඩංගුවට ගැනීමට විමර්ශන සිදුකරමින් පවතිනද බව පොලිසිය කියයි.
-
-එම සිසුන් පිරිස රැගත් බස් රථය සමඟ බස් රථ පහක් හන්තාන මාර්ගයේ ඉහළට ගමන් කරමින් තිබියදී එම මාර්ගයේ පහළට ගමන් කරමින් තිබූ ත්‍රී රෝද රථයක ගැටීමට ගොස් ඇති අතර එම අවස්ථාවේදී එම ස්ථානයට එක් වූ පිරිසක් බස් රථයේ රියදුරට පහර දී බස් රථයට ද අලහ හානි සිදුකොට ඇති බව පොලිසිය කියයි.
-
-එම සිද්ධිය වන අවස්ථාවේදී බස් රථයේ රියැදුරු බස් රථයෙන් බස්සවා පහරදීම සඳහා එම පිරිස උත්සාහ කොට ඇති අතර එම අවස්ථාවේදී ගුරුවරුන් සහ කුඩා ළමුන් භීතියට පත් වී කෑ මොරදෙද්දී පොලු මුගුරු රැගත් පිරිසක් ඉතාමත් අමානුෂික ලෙස හැසිරෙමින් බස් රථයේ රියදුරට පහර දී තිබෙන බව පොලිසිය කියයි.
-
-...
-
-[Data](articles/812c0fd3.json)
-
----
-
-### උක් මුදල් ඉල්ලා සෙවනගල ගොවීන් විරෝධයක
-
-*2025-07-27 11:37:00* · [`adalk`](https://www.ada.lk/breaking_news/උක්-මුදල්-ඉල්ලා-සෙවනගල-ගොවීන්-විරෝධයක/11-417522) · `si`
-
-ලංකා සීනි සමාගමේ සෙවනගල සීනි කර්මාන්තායතනට උක් ගස් සැපයූ උක් ගොවීන්ට සහ ට්‍රැක්ටර් රථ හිමියන්ට මාස කිහිපයක් තිස්සේ මුදල් නොගෙවීම පිළිබඳව විරෝධය පළ කරමින් උක් ගොවීහු පිරිසක් (26) වෙනිදා උද්ඝෝෂණ ව්‍යාපාරයක නිරත වූහ.
-
-සෙවනගල ඩංඩුම හංදියේදී විරෝධතාවය දැක්වූ පිරිස පාගමනින් සෙවනගල සීනි කර්මාන්ත ආයතනය වෙත යාමට උත්සාහ කිරීමේදී පොලීසිය එය වළක්වාලූ අතර පෙළපාලි ආකාරයෙන් නොගොස් පුද්ගලයින් තනි තනිව කර්මාන්ත ශාලාව අසලට යන ලෙස පොලීසිය උපදෙස් දෙනු ලැබීය.
-
-ඒ අනුව උද්ඝෝෂණකරුවන් කර්මාන්ත ශාලාවේ ප්‍රධාන දොරටුව අසලට ගිය අතර ගේට්ටුව ඔවුන් සඳහා විවෘත වූයේ නැත.
-
-පසුව එතැනද සටන් පාඨ කියමින් පිරිස උද්ඝෝෂණයේ නිරතවී පාලනාධිකාරිය සමඟ සාකච්ඡාවක් ඉල්ලා සිටියහ. නමුත් ප්‍රධාන පෙළේ පාලකයින් කර්මාන්ත ශාලාවේ නොසිටි නිසා ඊට අවස්ථාවක් නොලැබිණි.
-
-ගොවීන්ට සහ ට්‍රැක්ටර් රථ ගොවි හිමියන්ට කර්මාන්ත ආයතනය මඟින් රුපියල් ලක්ෂ දෙදහස් පන්සියයක් ගෙවීමට ඇති හෙයින් තමන්ට ලැබිය යුතු මුදල් කඩිනමින් ලබා නොදුණහොත් දැවැන්ත විරෝධතා ව්‍යාපාරයක්  රජයට එරෙහිව ගෙනයන බව ඔව්හු ප්‍රකාශ කළහ.
-
-...
-
-[Data](articles/3e93714b.json)
-
----
-
-### கணவனிடம் தினமும் பணம் வசூலிக்கும் பெண்
-
-*2025-07-27 11:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கணவனிடம்-தினமும்-பணம்-வசூலிக்கும்-பெண்/53-361808) · `ta`
-
-மனைவியானவள், தினமும் காலையில் தன் கணவர் அலுவலகத்திற்கு எடுத்துச் செல்ல உணவைத் தயார் செய்வார். ஆனால், ஒரு மனைவி தன் கணவனுக்கு உணவு சமைத்து, அதற்காக அவரிடமிருந்து பணம் வாங்குவதைப் பற்றி நீங்கள் எப்போதாவது கேள்விப்பட்டிருக்கிறீர்களா? ஒரு பெண் சமூக ஊடகங்களில் ஒரு விசித்திரமான பதிவொன்றை பகிர்ந்துள்ளார்.
-
-அமெரிக்காவில் வசிக்கும் அந்தப் பெண், வேலைக்குச் செல்லும் தனது கணவருக்கு மதிய உணவு பேக் செய்ய தினமும் 10  டொலர்களை (3011.75  வசூலிப்பதாகக் கூறி சமூக ஊடகங்களில் ஒரு வீடியோவைப் பதிவிட்டுள்ளார். இந்த வீடியோவானது இணையத்தில் பெரும் சர்ச்சையை ஏற்படுத்தி வருகிறது.
-
-அமெரிக்காவில் வசிக்கும் அந்தப் பெண்ணின் பெயர் 'ரே', அவர் இரண்டு குழந்தைகளுக்குத் தாய் மற்றும் டிக்டாக் க்ரியேட்டர் ஆவார். தனது கணவருக்கு உணவு பேக் செய்யும் வீடியோவை டிக்டோக்கில் பகிர்ந்து கொண்ட அவர், அதற்கு கட்டணம் வசூலிப்பதாகக் கூறினார். என் கணவருக்கு மதிய உணவு பேக் செய்வதற்காக, ஒரு நாளைக்கு தான் 10 டொலர்களை வசூலிப்பதாகக் கூறியுள்ளார்.
-
-...
-
-[Data](articles/2503a2fb.json)
-
----
-
-### ஐ.நா.வுக்கான கடித வரைபை தமிழ் அரசுக்கும் வழங்குவோம் - கஜேந்திரகுமார் பொன்னம்பலம் தெரிவிப்பு
-
-*2025-07-27 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221052) · `ta`
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக்கு அடுத்த மாதமளவில் அனுப்பி வைக்கப்படவுள்ள கூட்டுக்கடிதத்தின் வரைபினை இலங்கைத் தமிழரசுக்கட்சிக்கும் வழங்கவுள்ளோம். உள்ளடத்தில் அவர்களுக்கு உடன்பாடு ஏற்படும் பட்சத்தில் அவர்களின் கையொப்பத்தையும் உள்ளீர்த்து அனுப்புவதற்கு தயாராகவே உள்ளோம் என்று தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும்,  யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக்கு இலங்கையின் நடைபெற்ற இனப்படுகொலைக்கு சர்வதேச பொறுப்புக்கூறலை வலியுறுத்தி மீண்டும் கடிதமொன்றை அனுப்புவதற்கு அரசியல் கட்சிகள், சிவில் அமைப்புக்கள்,பாதிக்கப்பட்ட தரப்புக்கள் கூட்டிணைந்து ஏகமனதாக கடந்த ஞாயிற்றுக்கிழமை தீர்மானித்துள்ளன.
-
-அக்கூட்டத்தில் பங்கேற்பதற்கு இலங்கைத் தமிழரசுக்கட்சிக்கு அழைப்பு விடுக்கப்பட்டிருந்தபோதும்ரூபவ் அதில் பங்கேற்பதில்லை என்று கட்சி தீர்மானித்திருப்பதாக பதிலளிக்கப்பட்டிருந்தது. எனினும் எக்காரணத்துக்காக குறித்த கலந்துரையாடலில் பங்கேற்பதில்லை என்ற தீர்மானம் எடுக்கப்பட்டது என்பது தொடர்பில் வெளிப்படுத்தப்பட்டிருக்கவில்லை.
-
-...
-
-[Data](articles/d904a8ef.json)
 
 ---

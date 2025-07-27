@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 17:04:58**
+As of **2025-07-27 17:18:01**
 
 ## Newspaper Stats
 
-*Scraped **67,071** Articles*
+*Scraped **67,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,430
-adaderanalk | 8,239
+adaderanalk | 8,240
 tamilmirrorlk | 9,701
 virakesarilk | 11,183
 adaderanasinhalalk | 11,524
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,524
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,071 articles have been extended.
+61,973 (92.4%) of 67,072 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,7 +88,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මෙරට සෞඛ්‍ය සේවාවේ දැවැන්ත පරිවර්ථනයකට පියවර තබයි
+### මෙරට සෞඛ්‍ය සේවාවේ දැවැන්ත පරිවර්ථනයකට සැරසෙයි
 
 *2025-07-27 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212694) · `si`
 
@@ -133,6 +133,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d9e9b195.json)
+
+---
+
+### Justice Preethi Padman Surasena Sworn in as 49th Chief Justice of Sri Lanka
+
+*2025-07-27 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110883/justice-preethi-padman-surasena-sworn-in-as-49th-chief-justice-of-sri-lanka) · `en`
+
+Justice Preethi Padman Surasena, the most senior Supreme Court Justice, was sworn in as the new Chief Justice of Sri Lanka this morning (27) at the Presidential Secretariat, before President Anura Kumara Dissanayake.
+
+Justice Preethi Padman Surasena is the 49th Chief Justice of Sri Lanka, the President’s Media Division (PMD) said.
+
+Justice Surasena’s name was recently approved by the Constitutional Council for the vacancy created by the retirement of former Chief Justice Murdu Nirupa Bidushinie Fernando.
+
+Having been called to the Bar in 1989, Mr. Preethi Padman Surasena subsequently joined the Attorney General’s Department, serving as a State Counsel. He was appointed as a High Court Judge in 2007, the PMD added.
+
+In 2016, he was appointed as a Court of Appeal Judge, becoming the President of the Court of Appeal in 2018, and a Supreme Court Judge in 2019.
+
+...
+
+[Data](articles/9c3081f3.json)
 
 ---
 
@@ -1791,21 +1811,5 @@ Accordingly, police have taken into custody three males and one female involved 
 ...
 
 [Data](articles/1fb7f761.json)
-
----
-
-### අන්තර්ජාල පහසුකම්වලට ගෙවීම් පාසල් සංවර්ධන අංශයෙන් ගෙවන්න වෙයි
-
-*2025-07-27 07:28:28* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාල-පහසුකම්වලට-ගෙවීම්-පාසල්-සංවර්ධන-අංශයෙන්-ගෙවන්න-වෙයි/11-417518) · `si`
-
-සබරගමු පළාත් පාසල්  86 කට අන්තර්ජාල පහසුකම් ලබා දිමට සබරගමු පළාත් අධ්‍යාපන අමාත්‍යංශය කටයුතු කර තිබේ.
-
-ඒ අනුව  අන්තර්ජාල සම්බන්ධතාවය  පමණක්  අමාත්‍යංශය හරහා ලබා දීමට කටයුත කර ඇති බවත් මාසික ගෙවීම පාසල් සංවර්ධන අංශයෙන්  සිදු කළ යුතු බවත් සබරගමු ළාත් අධ්‍යාපන අමාත්‍යංශය පැවසීය.
-
-එසේම මේ සඳහා ලක්ෂ 09 කට ආසන්න මුදලක් වැය වුණ බවත් ඉදිරියේදී අන්තර්ජාල පහසුකම් නැති අනෙක් පාසල් සඳහා ද එම පහසුකම් ලබා දීමට බලාපොරොත්තු වන බවත් අධ්‍යාපන අමාතංශය සඳහන් කලේය.
-
-◼️
-
-[Data](articles/8b23b49b.json)
 
 ---

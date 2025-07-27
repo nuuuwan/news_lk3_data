@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 18:30:15**
+As of **2025-07-27 19:12:52**
 
 ## Newspaper Stats
 
-*Scraped **67,084** Articles*
+*Scraped **67,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,431
-adaderanalk | 8,241
+adaderanalk | 8,243
 tamilmirrorlk | 9,704
 virakesarilk | 11,187
 adaderanasinhalalk | 11,527
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,084 articles have been extended.
+61,973 (92.4%) of 67,086 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b8737379.json)
+
+---
+
+### Education reform is about systemic change, not just textbooks, says PM Harini
+
+*2025-07-27 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110886/education-reform-is-about-systemic-change-not-just-textbooks-says-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that educational reform is not merely about the introduction of a new textbook, but a transformation of the entire system.
+
+The Prime Minister made these remarks while participating in a panel discussion held under the theme “For a Prosperous Nation – Let’s Unite as Women”, organized by the Ratnapura District Women’s Collective of the National People’s Power (NPP), which took place on  Saturday (July 26) at the Ratnapura Town Hall, the PM’s Media Division said in a statement.
+
+During the panel discussion, Prime Minister Amarasuriya noted that there are several major issues within the current education system, especially the pressure placed on children by the exam-centered structure, the resultant stress on parents, and the demanding social consequences created by the competitive nature of the system.
+
+Therefore, she added that the government aims to address all these issues through this educational reform.
+
+...
+
+[Data](articles/d86a88b9.json)
+
+---
+
+### Govt to set up 2,000 primary care centres nationwide in next 3 years
+
+*2025-07-27 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110885/govt-to-set-up-2000-primary-care-centres-nationwide-in-next-3-years) · `en`
+
+The Ministry of Health and Mass Media announced that Primary Care Community Centers will be established islandwide, with each center expected to serve nearly 10,000 people from the country’s population to provide more efficient and higher-quality primary health care services.
+
+Accordingly, the Ministry added that, under the first phase, 2,000 Primary Care Community Centers will be set up islandwide over the next three years.
+
+Issuing a statement in this regard, the Ministry also added that 100 centers are scheduled to open this year, marking the beginning of the program. Each center will be staffed by eight persons.
+
+...
+
+[Data](articles/4aa6222e.json)
 
 ---
 
@@ -1755,45 +1789,5 @@ The Thera stated a proposal regarding the intervention has been unanimously adop
 ...
 
 [Data](articles/4f2be02d.json)
-
----
-
-### සංචාරක පැමිණීම ලක්ෂ 13 පනී
-
-*2025-07-27 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212680) · `si`
-
-2025 වසරේ මේ දක්වා මෙරටට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව ලක්ෂ 13 සීමාව ඉක්මවා ගොස් තිබේ.
-
-සංචාරක සංවර්ධන අධිකාරියේ නවතම සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,313,232ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ තිබේ.
-
-ඒ අතරින් පුද්ගලයින් 269,780ක් ඉන්දියාවෙන්, 124,652ක් එක්සත් රාජධානියෙන් සහ 114,644ක් රුසියාවෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
-
-මේ අතර ජූලි මාසයේ මේ දක්වා සංචාරකයින් 145,188ක් මෙරටට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ දත්ත පෙන්වා දෙයි.
-
-එම අධිකාරියේ විසින් නිකුත් කරන ලද දත්තවලට අනුව, ඉන්දියාවෙන් සංචාරකයින් 27,786ක් පැමිණ ඇති අතර එය 19.1% කි.
-
-තවද, ජුලි මාසයේදී එක්සත් රාජධානියෙන් පුද්ගලයින් 16,750ක්, නෙදර්ලන්තයෙන් පුද්ගලයින් 10,809 ක්, චීනයෙන් 5,904 ක් සහ ප්‍රංශ ජාතිකයින් 7,732ක් ද ශ්‍රී ලංකාවට පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/fb3134b4.json)
-
----
-
-### மதுபோதையில் அடாவடி: சொரூபமும் உடைத்து சேதம்:   NPP யின்  அமைப்பாளர்  உட்பட 8 பேர் கைது
-
-*2025-07-27 10:05:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபோதையில்-அடாவடி-சொரூபமும்-உடைத்து-சேதம்-NPP-யின்-அமைப்பாளர்-உட்பட-8-பேர்-கைது/175-361797) · `ta`
-
-மெரிஞ்சிமுனை நாரயம்பதி மாதா கோயில் மகிமை மிக்க மாதா சொரூபத்தை மதுபோதையில் உடைத்து சேதப்படுத்திய சந்தேகத்தின் பேரில் வேலணையை சேர்ந்த 8 பேர் ஊர்காவற்றுறை பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
-
-குறித்த சம்பவத்துடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பெயரில் தேசிய மக்கள் சக்தியின் (NPP) தீவக அமைப்பாளர் வேல்முருகன் மயூரன் உள்ளடங்கலாக 8 பேரை பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-மெரிஞ்சிமுனை நாரயம்பதி மாதா கோயில் மாதா சொரூபத்தை மதுபோதையில் இருந்த 20 பேரடங்கிய கும்பல் ஒன்று உடைத்து சேதப்படுத்தியதாக ஊர்காவற்றுறை பொலிஸாருக்கு குறித்த ஆலய நிர்வாகத்தினர் முறைப்பாடு செய்திருந்த நிலையில் பொலிஸார் துரித நடவடிக்கையால்   8 பேர் கைதுசெய்யப்பட்டுள்ளனர் .
-
-கைதானவர்களின் தகவலின் அடிப்படையில் ஏனையோர் தேடப்பட்டு வருகின்றனர். அவர்களும் விரைவில் கைது செய்யப்படுவர் என தெரிவித்தனர். அத்துடன் விசாரணைகளை அடுத்து குறித்த நபர்களை நீதிமன்றில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/d7f488b9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 11:35:50**
+As of **2025-07-27 11:50:16**
 
 ## Newspaper Stats
 
-*Scraped **66,995** Articles*
+*Scraped **66,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 4,099
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,420
+adalk | 6,421
 adaderanalk | 8,225
-tamilmirrorlk | 9,680
+tamilmirrorlk | 9,681
 virakesarilk | 11,166
-adaderanasinhalalk | 11,512
+adaderanasinhalalk | 11,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 66,995 articles have been extended.
+61,973 (92.5%) of 66,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### கணவனிடம் தினமும் பணம் வசூலிக்கும் பெண்
+
+*2025-07-27 11:34:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கணவனிடம்-தினமும்-பணம்-வசூலிக்கும்-பெண்/53-361808) · `ta`
+
+மனைவியானவள், தினமும் காலையில் தன் கணவர் அலுவலகத்திற்கு எடுத்துச் செல்ல உணவைத் தயார் செய்வார். ஆனால், ஒரு மனைவி தன் கணவனுக்கு உணவு சமைத்து, அதற்காக அவரிடமிருந்து பணம் வாங்குவதைப் பற்றி நீங்கள் எப்போதாவது கேள்விப்பட்டிருக்கிறீர்களா? ஒரு பெண் சமூக ஊடகங்களில் ஒரு விசித்திரமான பதிவொன்றை பகிர்ந்துள்ளார்.
+
+அமெரிக்காவில் வசிக்கும் அந்தப் பெண், வேலைக்குச் செல்லும் தனது கணவருக்கு மதிய உணவு பேக் செய்ய தினமும் 10  டொலர்களை (3011.75  வசூலிப்பதாகக் கூறி சமூக ஊடகங்களில் ஒரு வீடியோவைப் பதிவிட்டுள்ளார். இந்த வீடியோவானது இணையத்தில் பெரும் சர்ச்சையை ஏற்படுத்தி வருகிறது.
+
+அமெரிக்காவில் வசிக்கும் அந்தப் பெண்ணின் பெயர் 'ரே', அவர் இரண்டு குழந்தைகளுக்குத் தாய் மற்றும் டிக்டாக் க்ரியேட்டர் ஆவார். தனது கணவருக்கு உணவு பேக் செய்யும் வீடியோவை டிக்டோக்கில் பகிர்ந்து கொண்ட அவர், அதற்கு கட்டணம் வசூலிப்பதாகக் கூறினார். என் கணவருக்கு மதிய உணவு பேக் செய்வதற்காக, ஒரு நாளைக்கு தான் 10 டொலர்களை வசூலிப்பதாகக் கூறியுள்ளார்.
+
+...
+
+[Data](articles/2503a2fb.json)
+
+---
+
+### ග්‍රීසිය පැතිර යන ලැව්ගිනි පාලනය කිරීමට යුරෝපා සංගමයේ සහාය පතයි
+
+*2025-07-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212684) · `si`
+
+ග්‍රීසියේ හටගෙන ඇති ලැව්ගිනි මැඩ පැවැත්වීම සඳහා සහාය වන ලෙස ග්‍රීසිය යුරෝපා සංගමයෙන් ඉල්ලා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+සතියකට ආසන්න කාලයක් පුරාවට මෙම ලැව්ගිනි පැතිර යමින් ඇති අතර පවතින දැඩි සුළං හමුවේ ගින්න පැතිරීමද වේගවත් වී තිබේ.
+
+මේ අතර විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ පසුගිය පැය 24ක කාලය තුළ ඇති වූ ගිනි ගැනීම් 52න් 44ක් ගිනි නිවන භටයින් විසින් පාලනය කිරීමට සමත්ව ඇති බවය.
+
+ලැව්ගිනි පැතිර යන ප්‍රදේශ ආශ්‍රිත ගම්මානවල පදිංචිකරුවන් වහාම එම ස්ථානවලින් ඉවත් කිරීමට පියවර ගෙන ඇති බව ග්‍රීසියේ මාධ්‍ය වාර්තා කර තිබේ.
+
+තද සුළං හේතුවෙන් ලැව්ගිනි පැතිර යන ප්‍රදේශ ආශ්‍රිතව නිවාස සහ ගොඩනැගිලිවලට දැඩි හානි සිදුව ඇතැයිද ඇතැම් නිවාස ගිනි ගෙන විනාශ වී ඇතැයිද එරට මාධ්‍ය වාර්තා කර ඇත.
+
+මේ අතර පැතිර යන ලැව් ගිනි හේතුවෙන් පුද්ගලයින් කිහිප දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇතැයිද වාර්තා කර තිබේ.
+
+එමෙන්ම ග්‍රීසියේ මේ වන විට පවතින අධික උණුසුම් කාලගුණය සහ දැඩි සුළං හේතුවෙන් ලැව් ගිනි පැතිර යාම වේගවත් වී ඇති අතර තත්ත්වය පාලනය කිරීම සඳහා එරට බලධාරීන් දැඩි වෙහෙසක් ගනිමින් සිටින බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/d882b031.json)
+
+---
 
 ### සමාජ මාධ්‍යයේ පල වන පුවතක් සම්බන්ධයෙන් පොලීසිය කරුණු පැහැදිලි කරයි
 
@@ -299,6 +339,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a00d2828.json)
+
+---
+
+### ධීවර බෝට්ටුවක් මුහුද මැද පෙරලේ
+
+*2025-07-27 09:54:09* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-බෝට්ටුවක්-මුහුද-මැද-පෙරලේ/11-417520) · `si`
+
+ධීවර කටයුතු සදහා මුහුදු ගොස් එමින් සිටී බෝට්ටුවක් පෙරලී ධීවරයින් තිදෙනෙකු දිවි බේරාගෙන ඇති බවත්, බෝට්ටුව මත්සයින් සමග මුහුදට ගසාගෙන ගිය බවත් පානදුර ජීවිත ආරක්ෂක නිළධාරීන් සදහන් කරයි.
+
+මෙසේ දිවි ගලවාගෙන ඇත්තේ පානදුර උයන්කැලේ ප්‍රදේශයෙන් කේ එල් ටී 1136 නමැති බෝට්ටුවෙන් මුහුදු ගිය පානදුර නල්ලූරුව ප්‍රදේශයේ පදිංචි පුද්ගලයන් බව පොලිසිය සදහන් කරයි .
+
+ධීවරයින් තිදෙනා ඊයේ (26) අළුයම මුහුදු ගොස් ඇති බවත් ධීවර කටයුතු නිමවා නැවත පැමිණෙමින් සිටියදී රළ පහරට හසුව බෝට්ටුව පෙරලී ඇති බවත් සදහන් වේ.
+
+ධීවරයින් තිදෙනා බෝට්ටුව හැරදමා වෙරළට පිහිනා පැමිණ ඇති බව ධීවරයින් පැවසීය. පෙරලීගිය බෝට්ටුව කිලෝමීටරයක් පමණ  ඈත මුහුදේ පාවෙමින් තිබෙන අයුරු දැකගත හැකිවිය.
+
+◼️
+
+[Data](articles/9cc83d74.json)
 
 ---
 
@@ -1763,45 +1821,5 @@ Moreover on the ground, in the absence of any mutually agreed plan, the Sri Lank
 ...
 
 [Data](articles/9cc18cdd.json)
-
----
-
-### Sri Lanka calls for peaceful dialogue on Cambodia–Thailand border clashes
-
-*2025-07-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110852/sri-lanka-calls-for-peaceful-dialogue-on-cambodiathailand-border-clashes) · `en`
-
-The Government of Sri Lanka has called for a peaceful resolution to the recent clashes along the Cambodia–Thailand border, according to a statement issued by the Ministry of Foreign Affairs, Foreign Employment, and Tourism in Colombo.
-
-Sri Lanka expressed concern over the incidents, which have resulted in the loss of life, the displacement of civilians, and damage to culturally significant sites.
-
-“As a nation guided by the timeless teachings of the Lord Buddha—centered on nonviolence compassion and peaceful coexistence—Sri Lanka urges both countries to engage in early diplomatic dialogue aimed at resolving differences peacefully,” the statement added.
-
-◼️
-
-[Data](articles/7e692a87.json)
-
----
-
-### THE KANDY ESALA PERAHERA
-
-*2025-07-26 13:50:00* · [`islandlk`](http://island.lk/the-kandy-esala-perahera/) · `en`
-
-The Kandy Esala Perahera parades the streets of the Hill Capital to coincide with the eighth full moon poya of the year – the Esala Poya – in July/August. The change of date each year is because the lunar calendar is not parallel to the Gregorian calendar in use, since the full moon occurs every 28 days.
-
-...
-
-[Data](articles/8c705e31.json)
-
----
-
-### Diminution of my salary
-
-*2025-07-26 13:49:00* · [`islandlk`](http://island.lk/diminution-of-my-salary/) · `en`
-
-By and large, we had a hardworking team of officials both in the Ministry and the Departments. The Minister Mr. Herat and the Deputy Minister Mr. Rajakaruna, later himself to become Minister for a short period, were both appreciative and supportive of the officers. I had myself been the recipient of much kindness. I remember an occasion when the Deputy Minister was acting for the Minister. We were at our Tuesday afternoon review meeting. The time was about 6.30 p.m, when the office-aide came and informed me that there was a telephone call from home. I was speaking and virtually in mid-sentence when this message came. I wanted therefore to quickly complete the point I was making before getting up and going to take the call. This did not meet with the Acting Minister’s approval. “First, go and see what the call is about,” he said.
-
-...
-
-[Data](articles/cd33bfa6.json)
 
 ---

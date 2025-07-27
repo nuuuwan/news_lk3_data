@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 04:20:52**
+As of **2025-07-28 04:32:54**
 
 ## Newspaper Stats
 
-*Scraped **67,126** Articles*
+*Scraped **67,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,102
 islandlk | 4,106
 dailymirrorlk | 4,733
-dailyftlk | 4,744
+dailyftlk | 4,749
 adalk | 6,434
 adaderanalk | 8,247
 tamilmirrorlk | 9,704
@@ -26,11 +26,61 @@ adaderanasinhalalk | 11,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,126 articles have been extended.
+61,973 (92.3%) of 67,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### President prioritises protection of wild elephants, daily lives of rural community
+
+*2025-07-28 04:16:56* · [`dailyftlk`](https://www.ft.lk/news/President-prioritises-protection-of-wild-elephants-daily-lives-of-rural-community/56-779561) · `en`
+
+President Anura Kumara Disanayake on last week held a crucial discussion with relevant Ministers and Officials regarding the protection of wild elephants and safeguarding daily lives of rural community.
+
+During the meeting, the President inquired into the current situation regarding the increasing harassment incidents involving wild elephants and their disruptive impact on the daily lives of rural populations.
+
+Officials briefed the President on the prevailing situation and the longstanding difficulties faced by relevant institutions in addressing this issue effectively.
+
+President Disanayake emphasised that under no circumstances should wild elephants be subjected to harm or harassment and stressed the importance of identifying short-term, medium-term and long-term solutions. The President directed officials to conduct in-depth assessments at the village level and noted that effective solutions need to be provided with the support of both political leadership and the public.
+
+...
+
+[Data](articles/bd66bf0b.json)
+
+---
+
+### Prime Minister calls for deep educational reform beyond textbooks
+
+*2025-07-28 04:15:59* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-calls-for-deep-educational-reform-beyond-textbooks/56-779560) · `en`
+
+PRIME Minister and Education Minister Dr. Harini Amarasuriya on Saturday insisted that genuine educational reform in Sri Lanka must go beyond new textbooks, calling instead for a systemic transformation of the country’s outdated and exam-centric system.
+
+Speaking at a panel discussion titled ‘For a Prosperous Nation – Let’s Unite as Women,’ organised by the Ratnapura District Women’s Collective of the National People’s Power (NPP), the Prime Minister underscored the deep-rooted challenges facing the education sector. The event, held at the Ratnapura Town Hall, brought together political leaders and grassroots activists to discuss the role of women in shaping national policy.
+
+Highlighting the current pressure on students, parents, and teachers caused by Sri Lanka’s rigid examination structure, Dr. Amarasuriya said the proposed reforms would aim to ease this burden and address the broader societal consequences of the system’s competitiveness.
+
+...
+
+[Data](articles/621753a4.json)
+
+---
+
+### Embassy advances trade collaboration: Maliban and CP Group hold follow-up business meeting in Bangkok
+
+*2025-07-28 04:11:38* · [`dailyftlk`](https://www.ft.lk/business/Embassy-advances-trade-collaboration-Maliban-and-CP-Group-hold-follow-up-business-meeting-in-Bangkok/34-779559) · `en`
+
+The Embassy of Sri Lanka in Thailand successfully facilitated a high-level business meeting between Maliban Biscuit Manufactories Ltd., Sri Lanka and Charoen Pokphand Foods Public Company  Ltd., (CPF), a core subsidiary of Thailand’s CP Group, on 22 July in Bangkok.
+
+This in-person meeting follows an initial virtual engagement between the two companies, coordinated by the Embassy, aimed at introducing Maliban’s product portfolio to CPF and initiating dialogue on potential trade collaboration. The latest meeting served to deepen those discussions and assess tangible business opportunities within the Thai market.
+
+The objective of the session was to present Maliban’s extensive product range and explore possibilities for export and distribution partnerships with CP Group. This event marked a significant step in strengthening private sector engagement and commercial ties between Sri Lanka and Thailand.
+
+...
+
+[Data](articles/74f5df0b.json)
+
+---
 
 ### வவுணதீவில் மறைந்த தலைவர் இரா.சம்பந்தனின் ஓராண்டு நினைவு வணக்க அஞ்சலி
 
@@ -43,6 +93,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1f875a8b.json)
+
+---
+
+### Priyantha Ranasinghe to lead CIPM for another term
+
+*2025-07-28 04:01:15* · [`dailyftlk`](https://www.ft.lk/business/Priyantha-Ranasinghe-to-lead-CIPM-for-another-term/34-779558) · `en`
+
+CIPM Sri Lanka unanimously re-elected outstanding HR professional and business leader Priyantha Ranasinghe as President for the year 2025/26 at its Annual General Meeting held on 26 July at the Waters Edge, Battaramulla, amidst its distinguished membership representing the HR fraternity in Sri Lanka.
+
+Ranasinghe, an exceptional HR professional and dynamic business leader, continues at the helm of CIPM with an unwavering commitment to advancing the standards of human resource management in the country. A seasoned HR professional veteran with over 28 years of multi-sectoral experience, he has held senior HR leadership positions in hospitality, banking and finance, plantations, and food and beverage sectors. His expertise spans not only Sri Lanka but also extends to regional markets such as Indonesia, India, and Malaysia.
+
+...
+
+[Data](articles/ddc6d7c8.json)
+
+---
+
+### Lassana greetings from BIA
+
+*2025-07-28 04:00:26* · [`dailyftlk`](https://www.ft.lk/business/Lassana-greetings-from-BIA/34-779557) · `en`
+
+Lassana Flora elevates airport greetings with country’s first-ever arrival terminal floral outlet
+
+Miss World Sri Lanka 2024 Anudi Gunasekara opens the Lassana Flora outlet at BIA as Guest of Honour
+
+Lassana Flora, Sri Lanka’s premier florist and greenhouse agri-producer, launched the first floral outlet at the Bandaranaike International Airport (BIA); strategically located within the arrival terminal. The venture offers a thoughtful and convenient way for visitors to greet incoming travellers with a fresh, vibrant bouquet, adding a profound touch of warmth and appreciation.
+
+...
+
+[Data](articles/0f4694d2.json)
 
 ---
 
@@ -1693,89 +1773,5 @@ He served as the Centre Commandant of the Corps of Sri Lanka Engineers prior to 
 ...
 
 [Data](articles/7d60bd41.json)
-
----
-
-### ගැබ්බර මුවදෙන මරා දැමූ පොලිස් සැරයන් දෙදෙනා ඇතුළු 4 දෙනා රිමාන්ඩ්
-
-*2025-07-27 12:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ගැබ්බර-මුවදෙන-මරා-දැමූ-පොලිස්-සැරයන්-දෙදෙනා-ඇතුළු-4-දෙනා-රිමාන්ඩ්/11-417524) · `si`
-
-‎මකුල්ගස්වැව හීනුග්ගල ප්‍රදේශයේදී  ගැබ්බර මුව දෙනෙකු මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් මකුල්ගස්වැව පොලිසිය  මගින් සැකපිට අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කළ  පොලිස් සැරයන්වරුන් දෙදෙනෙකු හා තවත්  සැකකරුවන් දෙදෙනෙකු  ඇතුළු හතර දෙනකු  අගෝස්තු මස 01 දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස දඹුල්ල වැඩ බලන මහේස්ත්‍රාත් දුලාංජලී සිතුමිණී මහත්මිය නියෝග කළාය.‎
-
-‎මෙම අපරාධය සම්බන්ධයෙන් කෙරෙන විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් මීළඟ නඩු දිනයේදී අධිකරණය හමුවට ඉදිරිපත් කරන ලෙසද වැඩ බලන මහේස්ත්‍රාත්වරිය මකුල්ගස්වැව පොලිසියේ ස්ථානාධිපතිවරයාට තවදුරටත් නියෝග කරණු ලැබීය.
-
-‎මෙසේ රක්ෂිත බන්ධනාගාරගත කළේ  හිරානේගම පොලි ස්ථානයට  අනුයුක්තව සේවය කරන පොලිස් සැරයෙන්   (60221) දිසානායක සහ මඩාටුගම පොලිස්ථානයට අනුයුක්තව සේවය  කරන පොලිස් සැරයෙන්  (68455) දිල්ෂාන් යන සැකකරුවන් සහ ගලේවෙල වහකෝට්ටේ ගල්ගොඩයාය අංක 430,ඩී  ලිපිනයේ පදිංචි   ඩී .චන්න සුරංජිත් මිල්ටන් සහ  ගලේවෙල  වහකෝට්ටේ කපුකොටුව අංක 231 ලිපිනයේ පදිංචි එම්.ජී.ඩී. රුක්මන් ප්‍රශන්ත  විජේරත්න යන සැකකරුවන්ය .
-
-...
-
-[Data](articles/0d1254c7.json)
-
----
-
-### “ஒரே ஒரு வதந்தி”  6 உயிர்கள் பறிபோனது, 35 பேர் காயம்
-
-*2025-07-27 12:45:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-ஒரு-வதந்தி-6-உயிர்கள்-பறிபோனது-35-பேர்-காயம்/175-361818) · `ta`
-
-உத்தராகண்ட் மாநிலம், ஹரித்வாரில் உள்ள மானசா தேவி கோவிலில் ஏற்பட்ட கூட்ட நெரிசலில் சிக்கி 6 பேர் உயிரிழந்தனர். 30-க்கும் மேற்பட்டோர் காயங்களுடன் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-கோயிலுக்கு செல்லும் படிக்கட்டுகளில் மின்சாரம் தாக்கிதயதாக தகவல் பரவியதையடுத்து பக்தர்கள் அங்கிருந்து இறங்கிச் செல்ல முயற்சித்துள்ளனர். நூற்றுக்கணக்கான பக்தர்கள் ஒரே நேரத்தில் ஓட முயற்சித்ததால் அங்கு கடுமையான கூட்ட நெரிசல் ஏற்பட்டுள்ளது. இதில் சிக்கி ஆறு பேர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளனர். மேலும் 30-க்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர்.
-
-தகவலறிந்து சம்பவ இடத்துக்கு விரைந்து வந்த காவல்துறை மற்றும் மீட்புப் படையினர் உடனடியாக காயமடைந்தவர்களை மீட்டு மருத்துவமனைக்கு அனுப்பி வைத்தனர்.
-
-கோயிலுக்குச் செல்லும் படிக்கட்டுகளில் இருந்த மின்கம்பத்தில் மின்கசிவு ஏற்பட்டதாக தகவல் பரவியதே இந்த நெரிசலுக்கு காரணம் என்று பொலிஸார் தெரிவிக்கின்றனர். மின்கம்பத்தில் உண்மையிலேயே மின்கசிவு ஏற்பட்டதா? அல்லது யாரேனும் வேண்டுமென்றே வதந்தி பரப்பினார்களா? என்ற கோணத்தில் விசாரணை நடைபெற்று வருகிறது.
-
-...
-
-[Data](articles/704f5f48.json)
-
----
-
-### வரிக் குறைப்பு குறித்து அமெரிக்காவுடன் இவ்வாரம் முக்கிய பேச்சு
-
-*2025-07-27 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221039) · `ta`
-
-இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு சமீபத்தில் அறிவிக்கப்பட்ட 30 சதவீத வரியின் தாக்கத்தை தணிக்கும் முயற்சியில், அமெரிக்காவுடன் இவ்வாரம் முக்கிய பேச்சுவார்த்தையில் அரசாங்கம் ஈடுப்பட உள்ளது. இருப்பினும் எதிர்வரும் ஆகஸ்ட்  மாதம் முதலாம் திகதியுடன் அமெரிக்கா விதித்த 30 சதவீத வரி நடைமுறைக்கு வரவுள்ளதுடன், இலங்கை ஏற்றுமதியாளர்களுக்கு இந்த வரி விதிப்பு பெரும் சவாலை ஏற்படுத்தியுள்ளது.
-
-இவ்வாறானதொரு நிலையில், இந்த வரிகளை எளிதாக்குவது குறித்த மற்றொரு முக்கிய பேச்சுவார்த்தையை மெய்நிகர் கலந்துரையாடல் முன்னெடுக்கப்பட உள்ளது. நிதி அமைச்சு மற்றும் மத்திய வங்பி அதிகாரிகள் இந்த கலந்துரையாடலில் பங்கேற உள்ளனர். ஆகஸ்ட்  மாதம் 1 ஆம் திகதிக்குள் இந்த பேச்சுவார்த்தைகளில் குறிப்பிடத்தக்க முன்னேற்றத்தை எதிர்பார்ப்பதாக பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் அனில் ஜயந்த நம்பிக்கை வெளியிட்டார்.
-
-...
-
-[Data](articles/646d7ef1.json)
-
----
-
-### இந்தியப் பெருங்கடல் அமைதிக்கான பிராந்தியம் - ரணில் விக்கிரமசிங்கவின் தெளிவுரை
-
-*2025-07-27 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/221041) · `ta`
-
-தாய்வானில் போர் ஏற்பட்டால் அது இந்தியப் பெருங்கடலில் பாதிப்பை ஏற்படுத்தாது. ஏனெனில் இந்தியப் பெருங்கடல் பிராந்தியம் அமைதிக்கான பிராந்தியம் என்பதை புவிசார் அரசியல் போட்டியாளர்கள் ஏற்றுக்கொள்ள வேண்டும். பிராந்தியத்தின் மூலோபாய முக்கியத்துவத்தையும், இங்கு ஸ்திரத்தன்மையை நிலைநாட்டுவதன் அவசியத்தையும் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டியுள்ளார்.
-
-புவிசார் அரசியல் பதட்டங்கள் மற்றும் அவற்றால் இந்தியப் பெருங்கடல் பிராந்தியத்திற்கு ஏற்படக்கூடிய சாத்தியமான தாக்கங்கள் குறித்து, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, கொழும்பில் இடம்பெற்ற கலந்துரையாடலில் தனது நிலைப்பாட்டைத் தெளிவுபடுத்தினார்.
-
-இலங்கை எதிர்கொள்ளும் சவால்களை விவரித்த அவர், உலகளாவிய மோதல்கள் மற்றும் வர்த்தகக் கொள்கைகளின் தாக்கம் குறித்து குறிப்பிட்டார்.
-
-...
-
-[Data](articles/a5bfd426.json)
-
----
-
-### ගාල්ලේ විශේෂ මෙහෙයුමක්
-
-*2025-07-27 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212687) · `si`
-
-ගාල්ල නගරයේ ප්‍රදේශ කිහිපයක සිදු කළ විශේෂ සෝදිසි මෙහෙයුමක දී සැකපිට පුද්ගලයන් 24 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම මහමෝදර ප්‍රදේශයේ බූරු පිටියක් වටලා කාන්තාවන් 13 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
-
-ඊයේ (26) සිදු කළ මෙම විශේෂ සෝදිසි මෙහෙයුමේ දී ත්‍රීරෝද රථ ද හදිසි පරීක්ෂාවකට ලක් කර ඇත.
-
-එහිදී මත්ද්‍රව්‍ය සමග සැකකරුවෙකු සහ රථ වාහන වැරදි සම්බන්ධයෙන් රියදුරන් පිරිසකට නඩු පැවරීමටද කටයුතු කෙරිණි.
-
-නීති විරෝධී අවි ආයුධ සහ මත්ද්‍රව්‍ය ප්‍රවාහනය වැළැක්වීමේ අරමුණින් ගාල්ල නියෝජ්‍ය පොලිස්පතිගේ සෘජු අධීක්ෂණය යටතේ මෙම මෙහෙයුම් දියත් කර ඇත.
-
-◼️
-
-[Data](articles/777f5c76.json)
 
 ---

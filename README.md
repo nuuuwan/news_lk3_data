@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 05:31:17**
+As of **2025-07-27 06:13:44**
 
 ## Newspaper Stats
 
-*Scraped **66,938** Articles*
+*Scraped **66,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 685
-islandlk | 4,091
 economynextcom | 4,099
+islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,416
 adaderanalk | 8,217
-tamilmirrorlk | 9,664
+tamilmirrorlk | 9,666
 virakesarilk | 11,164
 adaderanasinhalalk | 11,503
 
@@ -26,9 +26,45 @@ adaderanasinhalalk | 11,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,938 articles have been extended.
+61,973 (92.6%) of 66,955 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-27 (Sunday)
+
+### ஜனாதிபதி அலுவலகத்தில் பிரித்தானிய எம்.பிக்கள்
+
+*2025-07-27 05:39:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-பிரித்தானிய-எம்-பிக்கள்/175-361792) · `ta`
+
+ஜனாதிபதி அலுவலகத்தைப் பார்வையிட பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் குழுவொன்று நேற்று முன்தினம் பிற்பகல் வருகை தந்தது.
+
+பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவுடன் சிறு கலந்துரையாடலில் ஈடுபட்டனர்.
+
+ஜனாதிபதி அலுவலக நூலகம், பழைய பாராளுமன்றம் மற்றும் அமைச்சரவை கூட்ட மண்டபம் உள்ளிட்ட பழைய இடங்களைப் பார்வையிடும் வாய்ப்பு பிரித்தானிய பாராளுமன்ற உறுப்பினர்களுக்கு கிடைத்தது.
+
+ஜனாதிபதியின் சிரேஸ்ட மேலதிகச் செயலாளர் ரோஷன் கமகே, இலங்கைக்கான பிரித்தானிய உயர் ஸ்தானிகர் ஆண்ட்ரூ பெட்ரிக் உள்ளிட்டோர் இந்த நிகழ்வில் பங்கேற்றனர். (a)
+
+◼️
+
+[Data](articles/69891a30.json)
+
+---
+
+### ஈரானில் மீண்டும் தாக்குதல்: 9 பேர் பலி
+
+*2025-07-27 05:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-மீண்டும்-தாக்குதல்-9-பேர்-பலி/50-361788) · `ta`
+
+ஈரானில் நீதித்துறை கட்டடத்தின் மீது நடத்தப்பட்ட தாக்குதலில் பொதுமக்கள் 6 பேர் உட்பட தாக்குதல்தாரிகள் என 9 பேர் கொல்லப்பட்டுள்ளனர். மேலும் 22 பேர் படுகாயமடைந்துள்ளனர் என இஸ்லாமிய புரட்சிகர காவல் படை தெரிவித்துள்ளது.
+
+ஈரானின் ஜஹேதானில் உள்ள நீதித்துறை கட்டடத்தின் மீது ஜெய்ஷ் அல்-அதில் பயங்கரவாதிகள் திடீரென சரமாரி தாக்குதல் நடத்தி உள்ளனர். இந்த தாக்குதலில் சம்பவ இடத்திலேயே ஆறு பேர் கொல்லப்பட்டனர். மேலும் பலர் பலத்த காயமுற்றனர். இதனால் பலி எண்ணிக்கை அதிகரிக்கும் என அஞ்சப்படுகிறது.
+
+இந்த தாக்குதல் சம்பவத்திற்கு, ஜெய்ஷ் அல் -அதில் பயங்கரவாத அமைப்பு பொறுப்பேற்றுள்ளது. (a)
+
+◼️
+
+[Data](articles/b93b1285.json)
+
+---
 
 ### 2025-07-26 (Saturday)
 
@@ -636,6 +672,56 @@ In addition to the dinghies, 05 unauthorized fishing nets were also seized durin
 
 ---
 
+### Is an air accident a crime?
+
+*2025-07-26 15:54:00* · [`islandlk`](http://island.lk/is-an-air-accident-a-crime/) · `en`
+
+RCyAF/ SLAF, Air Ceylon, Air Lanka, Singapore Airlines Ltd, SriLankan Airlines Ltd. Former Member, Accident Investigation Team CAASL, Organisation of Professional Associations (OPA) Representative for ‘Aviation’
+
+(This article was first published in The Island over 20 years ago. It is reproduced given its relevance to the current situation in the light of the Air India Boeing B787 crash on 12 June 2025.)
+
+In 1852, a Balloonist crashed in France. Although criminal proceedings were contemplated it was declared that since his descent was involuntary, he would be exempt from any court action. Besides that, when he was losing altitude he had shouted for help! When in September 1908, Orville Wright crashed and killed Lt. Thomas E Selfridge (the first Air Crash victim of a powered aircraft), no criminal action was taken against the pilot.
+
+...
+
+[Data](articles/902d5cf8.json)
+
+---
+
+### UNESCO defers decision to recognise Kapilavastu, a site of global Buddhist significance
+
+*2025-07-26 15:53:00* · [`islandlk`](http://island.lk/unesco-defers-decision-to-recognise-kapilavastu-a-site-of-global-buddhist-significance/) · `en`
+
+The Government of Nepal’s official nomination to designate Tilaurakot–Kapilavastu — the ancient city of the Shakya Kingdom, described in the early Buddhist texts as the childhood home of the Buddha and the site of his father King Suddhodhana’s palace — as a World Heritage Site was reviewed and deferred by the United Nations Educational, Scientific and Cultural Organization (UNESCO) on July 10, 2025.
+
+The nomination, titled ‘Tilaurakot–Kapilavastu: The Archaeological Remains of the Ancient Shakya Kingdom’, was considered during the 47th session of the World Heritage Committee held in Paris.
+
+The submission highlights the fact that Tilaurakot is identified as ancient Kapilavastu, the capital of the Sakyan kingdom, the childhood home of the Buddha.
+
+In other words, Tilaurakot is the archaeological site identified as the location of ancient Kapilavastu — the capital of the Sakyan kingdom and the place where the Buddha spent his early life, including at the palace of his father, King Suddhodhana.
+
+...
+
+[Data](articles/cb9ec275.json)
+
+---
+
+### Making friends with former Swedish Prime Minister, 91, at a bus stop
+
+*2025-07-26 15:51:00* · [`islandlk`](http://island.lk/making-friends-with-former-swedish-prime-minister-91-at-a-bus-stop/) · `en`
+
+My friend Priyanwada and I were driving along a street in the Tyreso municipality of Stockholm, Sweden, and she suddenly stopped her car recognizing a familiar figure at a bus stop and saying, “Ah, our former prime minister is at the bus stop.”
+
+Ingvar Carlsson, a two-time prime minister of Sweden, was waiting for a bus to travel to Stockholm for a political event. He only drives to Stockholm when it is absolutely necessary. “People recognize me on the bus and train and talk to me. I like that,” he says.
+
+Carlsson, who sat in the Swedish Parliament for all of 38 years, is a well-known political leader not only in Sweden but also in Europe.  Sweden, one of the world’s leading welfare states, is headed by King Carl Gustaf; it is the third largest country in the European Union with a territory totaling 450,295 square kilometers.
+
+...
+
+[Data](articles/85a435c0.json)
+
+---
+
 ### சர்வதேச நீதி கோரிக்கைக்கு ஆதரவு தெரிவித்து கொழும்பில் போராட்டம்
 
 *2025-07-26 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221004) · `ta`
@@ -645,6 +731,110 @@ In addition to the dinghies, 05 unauthorized fishing nets were also seized durin
 ◼️
 
 [Data](articles/cfacc480.json)
+
+---
+
+### Network In Action makes its Lankan debut with launch event in Colombo
+
+*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/network-in-action-makes-its-lankan-debut-with-launch-event-in-colombo/) · `en`
+
+The global business networking platform, Network In Action (NIA), officially launched its Sri Lanka chapter at an exclusive event held at Cinnamon Grand, Colombo. The invite-only evening brought together a selected group of entrepreneurs, professionals, and business leaders from across industries. Hosted by NIA’s Sri Lanka Regional Partners, Jayathas Kamalanathan and Pamatheesan Kopalapillai, the launch offered a firsthand experience of how NIA operates and what sets its networking model apart from conventional approaches. The event kicked off at 6 p.m. on 9 July, and featured a keynote presentation from the leadership team, followed by a live demonstration of an NIA-style group session.
+
+...
+
+[Data](articles/19c42deb.json)
+
+---
+
+### Ceylinco Life concludes Family Savari 18 with spectacular Malaysia tour for policyholder families
+
+*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/ceylinco-life-concludes-family-savari-18-with-spectacular-malaysia-tour-for-policyholder-families/) · `en`
+
+Ceylinco Life recently concluded the 18th edition of the ‘Family?Savari’ rewards programme with a breathtaking all-expenses-paid holiday tour to Malaysia for its policyholder winners and their families.
+
+From 13th to 16th June, 10 policyholders and their family members – a total of 40 guests – were treated to a luxurious three-night, four-day tour in Malaysia, accompanied by Family Savari celebrity ambassadors Roshan Ranawana, his wife Kushlani, and their son Minneth.
+
+Ceylinco Life covered all costs, including airfares, accommodation, meals, transport and tours. The itinerary featured visits to iconic attractions such as the Petronas Twin Towers, Lake Symphony Light & Water Show, KLCC Aquarium, the scenic Genting Highlands with cable-car rides, and the spiritual Batu caves. The tour culminated in an exclusive private gala dinner for the families to celebrate together.
+
+...
+
+[Data](articles/296c6e05.json)
+
+---
+
+### ComBank supports preschool education in collaboration with UNICEF
+
+*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/combank-supports-preschool-education-in-collaboration-with-unicef/) · `en`
+
+Demonstrating its continuing commitment to education, the Commercial Bank of Ceylon recently handed over the fully refurbished Muthukumarana Preschool at Madagama in the Monaragala District, under a partnership with UNICEF to uplift the standard of preschool education in Sri Lanka.
+
+The handover marks the successful completion of the Bank’s contribution to the UNICEF-led project titled ‘Reaching the most marginalized with quality preschool education – Enabling all children in Sri Lanka to play, learn, and reach their full potential.’ This initiative focuses on enhancing access to safer, more equitable, and quality early learning environments for children in remote communities.
+
+Present at the ceremony from Commercial Bank were the Regional Manager – Uva Sabaragamuwa Region, Chamenda Kalugamage, and the Branch Manager – Monaragala, Upali Marasinghe. Representing UNICEF were the Chief of Communication, Advocacy and Partnerships, Bismarck Swangin, and the Education Officer, Sugath Adikaram.
+
+...
+
+[Data](articles/d46e5b64.json)
+
+---
+
+### Sri Lanka Insurance Suba Pathum Scholarship awards 225 Scholarships for School Children
+
+*2025-07-26 15:39:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-suba-pathum-scholarship-awards-225-scholarships-for-school-children/) · `en`
+
+A total of Rs. 24.7mn worth of scholarships for the year 2025
+
+Sri Lanka Insurance Life – The Nations’ protector, over the years have had contributed to the betterment of the future generation of the country. Sri Lanka Insurance Life (SLICLL) is not only one of the most profitable state owned enterprises but also a responsible corporate citizen that enriches the community it operates in.
+
+...
+
+[Data](articles/6caa63b4.json)
+
+---
+
+### Trinity Global rolls out LTW 200 and BO2, driving Lanka’s e-mobility shift
+
+*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/trinity-global-rolls-out-ltw-200-and-bo2-driving-lankas-e-mobility-shift/) · `en`
+
+Trinity Global Pvt Ltd, a rising force in Sri Lanka’s electric mobility sector, launched its much-anticipated electric two-wheeler lineup at a vibrant ceremony held at Canelra Hall, Kadawatha, on Thursday (24).
+
+The company unveiled its flagship model, the LTW 200, and entry-level model, the BO2, marking a significant milestone in its mission to revolutionise personal transportation.
+
+The LTW 200, powered by a 2000W motor and advanced LifePO? battery, offers a class-leading range of 200 km per charge, along with enhanced safety, thermal stability, and a battery lifespan of up to 3,000 cycles. Trinity backs the vehicle with a 3-year battery warranty and 2-year motor warranty.
+
+The BO2, aimed at urban commuters, delivers 100 km per charge with a 1000W motor, making it an affordable gateway to electric mobility. It shares the same robust battery technology and warranty coverage.
+
+...
+
+[Data](articles/480eb0ee.json)
+
+---
+
+### Dialog, HNB General Insurance launch parametric insurance for fishermen via Sayuru App
+
+*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/dialog-hnb-general-insurance-launch-parametric-insurance-for-fishermen-via-sayuru-app/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has partnered with HNB General Insurance, one of Sri Lanka’s leading insurance providers, to collaboratively address the growing risks posed by extreme weather, particularly rainfall, cyclones, wind speed and temperature. These parametric insurance solutions will be introduced through the Dialog Sayuru App.
+
+...
+
+[Data](articles/8a86ae4a.json)
+
+---
+
+### HNB Assurance ranked among Lanka’s top 40 best workplaces by Great Place to Work
+
+*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/hnb-assurance-ranked-among-lankas-top-40-best-workplaces-by-great-place-to-work/) · `en`
+
+HNB Assurance PLC has been recognized by Great Place to Work Sri Lanka as one of the Top 40 Best Workplaces in the country and was also proudly placed 09th among large-scale organizations.
+
+This recognition is based on feedback directly from employees and a thorough assessment of the company’s culture and efforts to build a positive and supportive work environment.
+
+Lasitha Wimalaratne, Executive Director / CEO of HNB Assurance PLC, stated, “We are truly proud to be ranked among the best workplaces in Sri Lanka and I’d like to convey my sincere thanks to Great Place to Work for this recognition. What makes this award meaningful is that it reflects the culture we have built together. Our people are the driving force behind our success, and as we move forward, we remain committed to creating a workplace they can continue to feel proud to be a part of.”
+
+...
+
+[Data](articles/c89b4d0e.json)
 
 ---
 
@@ -836,6 +1026,20 @@ The mission coincided with the IMF Executive Board’s approval of the fourth re
 
 ---
 
+### All Party Conference of 1989-90
+
+*2025-07-26 13:53:00* · [`islandlk`](http://island.lk/all-party-conference-of-1989-90/) · `en`
+
+Unfulfilled Undertakings Lead Once More to War Getting the legislation through Parliament, with a two-third majority where the repeal of the sixth amendment was concerned or even a simple majority where the dissolution of the NEPC was concerned, was taking its time. The LTTE was becoming increasingly impatient and alleging that they were being led into a “peace trap”. The hope for dividends of peace were not forthcoming, or not fast enough to satisfy them.
+
+Moreover on the ground, in the absence of any mutually agreed plan, the Sri Lankan security forces were moving in to fill the security vacuum and replace the departing IPKF. I feared that the way incidents were building up would soon lead to a head-on collision.
+
+...
+
+[Data](articles/9cc18cdd.json)
+
+---
+
 ### Sri Lanka calls for peaceful dialogue on Cambodia–Thailand border clashes
 
 *2025-07-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110852/sri-lanka-calls-for-peaceful-dialogue-on-cambodiathailand-border-clashes) · `en`
@@ -849,6 +1053,42 @@ Sri Lanka expressed concern over the incidents, which have resulted in the loss 
 ◼️
 
 [Data](articles/7e692a87.json)
+
+---
+
+### THE KANDY ESALA PERAHERA
+
+*2025-07-26 13:50:00* · [`islandlk`](http://island.lk/the-kandy-esala-perahera/) · `en`
+
+The Kandy Esala Perahera parades the streets of the Hill Capital to coincide with the eighth full moon poya of the year – the Esala Poya – in July/August. The change of date each year is because the lunar calendar is not parallel to the Gregorian calendar in use, since the full moon occurs every 28 days.
+
+...
+
+[Data](articles/8c705e31.json)
+
+---
+
+### Diminution of my salary
+
+*2025-07-26 13:49:00* · [`islandlk`](http://island.lk/diminution-of-my-salary/) · `en`
+
+By and large, we had a hardworking team of officials both in the Ministry and the Departments. The Minister Mr. Herat and the Deputy Minister Mr. Rajakaruna, later himself to become Minister for a short period, were both appreciative and supportive of the officers. I had myself been the recipient of much kindness. I remember an occasion when the Deputy Minister was acting for the Minister. We were at our Tuesday afternoon review meeting. The time was about 6.30 p.m, when the office-aide came and informed me that there was a telephone call from home. I was speaking and virtually in mid-sentence when this message came. I wanted therefore to quickly complete the point I was making before getting up and going to take the call. This did not meet with the Acting Minister’s approval. “First, go and see what the call is about,” he said.
+
+...
+
+[Data](articles/cd33bfa6.json)
+
+---
+
+### Kiss Cam and Culture of Contradiction
+
+*2025-07-26 13:44:00* · [`islandlk`](http://island.lk/kiss-cam-and-culture-of-contradiction/) · `en`
+
+Former Astronomer CEO Andy Byron and HR head Kristin Cabot, caught in an intimate moment on a kiss cam at a Coldplay concert, present a striking case study in the complex and contradictory nature of human social conduct. What appears on the surface as a simple lapse into private impropriety quickly becomes a public spectacle, revealing the enduring tension between societal norms and individual desires. Yet, more than a mere episode of personal indiscretion, this event exposes a fundamental paradox embedded in culture itself: a simultaneous denunciation and fascination with scandal that runs deep through human history and psyche.
+
+...
+
+[Data](articles/9709390e.json)
 
 ---
 
@@ -1587,265 +1827,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/fc9464a4.json)
-
----
-
-### Sri Lanka to give free tourist visas to 40 more countries: Minister
-
-*2025-07-26 06:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-free-tourist-visas-to-40-more-countries-minister-232851/) · `en`
-
-ECONOMYNEXT – Sri Lanka will give free tourist visas to 40 more countries, taking the total up to 47, as part of efforts to develop the sector, Foreign Minister Vijitha Herath said
-
-Sri Lanka already had visa scheme without fees to 7 countries.
-
-“At the last cabinet meeting we took a decision to issue visas without a fee to a additional 40 countries,” Herath said addressing the 2025 Hotel Show in Colombo.
-
-“The gazette is being issued. The number of countries without visa fees will now go up to 47.”
-
-The Treasury will lose about 66 million dollars (19.8 billion rupees) in visa fees as a result of the decision, Minister Herath said.
-
-“Despite the loss to Treasury, President as the Finance Minister agreed to take that decision,” he said
-
-“We expect through the development of the tourism to get more revenue indirectly. It is up to the industry to make sure that it happens.”  (Colombo/July25/2025)
-
-◼️
-
-[Data](articles/00acd61e.json)
-
----
-
-### අද වැස්ස ගැන කාලගුණයෙන් දැනුම්දීමක්
-
-*2025-07-26 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212648) · `si`
-
-අද (26) දිනයේ බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකිය.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
-
-වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති වන අතර උතුරු පළාතේ වැසි ස්වල්පයක් ඇති විය හැකිය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු සහ උතුරු-මැද පළාත්වලත් පුත්තලම, ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50ක පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව සඳහන් කරයි.
-
-◼️
-
-[Data](articles/9f5dece1.json)
-
----
-
-### தேன் எடுக்கச் சென்றவர் யானை தாக்கி உயிரிழப்பு
-
-*2025-07-26 03:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேன்-எடுக்கச்-சென்றவர்-யானை-தாக்கி-உயிரிழப்பு/175-361763) · `ta`
-
-திருகோணமலை, மொரவெவ பொலிஸ் பிரிவுக்குட்பட்ட கந்தளாய் காட்டுப் பகுதியில் தேன் எடுக்கச் சென்றவர் மீது யானை தாக்கியதில் மேற்படி நபர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
-
-இந்தத் துயரச் சம்பவம் நேற்று மாலை இடம்பெற்றுள்ளது என்று மொரவெவ பொலிஸார் தெரிவித்தனர்.
-
-கந்தளாய் காட்டுப் பகுதிக்குத் தேன் எடுப்பதற்காக மூன்று பேர் சென்றனர் எனவும், இதன்போது யானை ஒன்று குறித்த நபர்களைத் தாக்க முற்பட்டபோது மூவரும் வெவ்வேறாகப் பிரிந்து ஓடினர் எனவும், அவ்வேளை ஒருவரை யானை தாக்கியது எனவும் ஆரம்பகட்ட விசாரணையின் மூலம் தெரியவந்துள்ளது.
-
-யானையின் தாக்குதலில் ஹெல்லென - மித்தெனிய பகுதியைச் சேர்ந்த ஜீ.எம்.ரஞ்சித் (வயது 53) என்பவரே உயிரிழந்துள்ளார்.
-
-இந்தச் சம்பவம் தொடர்பில் மொரவெவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
-
-◼️
-
-[Data](articles/ef3d7030.json)
-
----
-
-### Court of Appeal dismisses Lanka Broadcasters Guild appeal to intervene as interested party
-
-*2025-07-26 03:41:37* · [`dailyftlk`](https://www.ft.lk/news/Court-of-Appeal-dismisses-Lanka-Broadcasters-Guild-appeal-to-intervene-as-interested-party/56-779513) · `en`
-
-The Court of Appeal on Thursday refused Lanka Broadcasters Guild (Guarantee) Ltd., permission to intervene as ‘an interested party’ in support of Asia Broadcasting Corporation Ltd. The Court dismissed the application for intervention in an appeal filed by Asia Broadcasting Corporation against a decision of the Right to Information Commission (RTIC) holding the former to be a Public Authority under the Right to Information (RTI) Act.
-
-...
-
-[Data](articles/075b232e.json)
-
----
-
-### Japan agrees to continue granting scholarships to Sri Lankan public sector workers
-
-*2025-07-26 03:38:06* · [`dailyftlk`](https://www.ft.lk/news/Japan-agrees-to-continue-granting-scholarships-to-Sri-Lankan-public-sector-workers/56-779512) · `en`
-
-The Government of Japan recently signed an agreement to continue its scholarship program for executive-level public sector officials in Sri Lanka.
-
-Since 2010, the Government of Japan has been offering scholarships on a grant basis through the Japanese Grant Aid for Human Resources Development Scholarship (JDS) program.
-
-The program is funded by the Government of Japan under the Official Development Assistance and implemented through the Japan International Cooperation Agency (JICA).
-
-Accordingly, an exchange of notes between the two Governments and a grant agreement between the Government of Sri Lankan and the JICA for the implementation of the program were signed on Thursday at the Finance, Planning and Economic Development Ministry.
-
-Treasury Secretary Dr. Harshana Suriyapperuma, on behalf of the Government of Sri Lanka, Japanese Ambassador Isomata Akio on behalf of the Government of Japan, and JICA Chief Representative Yamada Tetsuya, on behalf of the JICA signed the relevant documents.
-
-...
-
-[Data](articles/d4b9390e.json)
-
----
-
-### German Ambassador Dr. Felix Neumann calls on Speaker of the House
-
-*2025-07-26 03:34:35* · [`dailyftlk`](https://www.ft.lk/news/German-Ambassador-Dr-Felix-Neumann-calls-on-Speaker-of-the-House/56-779511) · `en`
-
-German Ambassador Dr. Felix Neumann on Thursday met with Speaker of the Parliament Dr. Jagath Wickramaratne.
-
-The meeting served as an opportunity to exchange views on the current political landscape and to explore areas for future cooperation. Ambassador Dr. Neumann underscored Germany’s continued engagement across the political spectrum. Both parties reaffirmed their ongoing commitment to deepening and broadening the already close partnership between Germany and Sri Lanka.
-
-◼️
-
-[Data](articles/4deda031.json)
-
----
-
-### Sri Lanka and Maldives to strengthen diplomatic training through MoU
-
-*2025-07-26 03:33:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Maldives-to-strengthen-diplomatic-training-through-MoU/56-779510) · `en`
-
-The Cabinet of Ministers on Monday approved signing a Memorandum of Understanding (MoU) between the Bandaranaike International Diplomatic Training Institute (BIDTI) of Sri Lanka and the Foreign Services Institution of the Republic of Maldives.
-
-The agreement aims to foster mutual cooperation and deepen bilateral understanding in the field of diplomatic training. Under the MoU, both institutions will exchange information on academic programs, facilitate the exchange of scholars and resource persons for seminars, and share expertise in areas of common interest.
-
-Additionally, the agreement will provide opportunities for diplomatic officers from both countries to participate in specialised training programs and jointly organise training courses and seminars in Colombo and Malé.
-
-The proposal to this effect, presented by Foreign Affairs, Foreign Employment, and Tourism Minister Vijitha Herath, was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/b5867430.json)
-
----
-
-### Supreme Court postpones sentencing in contempt case against former  Immigration Chief Ilukpitiya
-
-*2025-07-26 03:32:35* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-postpones-sentencing-in-contempt-case-against-former-Immigration-Chief-Ilukpitiya/56-779509) · `en`
-
-The contempt of Court application filed against former Controller General of Immigration and Emigration Harsha Ilukpitiya has been postponed for 23 September by the Supreme Court. On 1 July, Ilukpitiya pleaded guilty before the Supreme Court over the contempt of court charges filed against him over the controversial visa deal. The matter was re-fixed for 23 September to consider an appropriate sentence for the accused following his guilty pleas.
-
-Ilukpitiya has been in remand custody for a period of over nine months.
-
-◼️
-
-[Data](articles/1ee64fc5.json)
-
----
-
-### Exterminators to expand business via Digi-Tech Pest Management Franchise across 14 districts in Sri Lanka
-
-*2025-07-26 03:23:57* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-to-expand-business-via-Digi-Tech-Pest-Management-Franchise-across-14-districts-in-Sri-Lanka/34-779508) · `en`
-
-...
-
-[Data](articles/0b72e92b.json)
-
----
-
-### Emirates Group launches massive talent drive to power its next era of innovation and expansion
-
-*2025-07-26 03:19:42* · [`dailyftlk`](https://www.ft.lk/business/Emirates-Group-launches-massive-talent-drive-to-power-its-next-era-of-innovation-and-expansion/34-779507) · `en`
-
-Plans to recruit more than 17,300 professionals across 350 roles this year
-
-The Emirates Group has kick-started a global talent scouting and acquisition drive, revving up this phase of its phenomenal growth. This financial year, the aviation powerhouse is looking to onboard 17,300 people, equivalent to a mid-size town or the seating capacity of 58 Airbus A350 aircraft, across 350 roles.
-
-These roles span every facet, function and operations across Emirates, the world’s most profitable and largest international airline, and dnata, a leading global air and travel services provider. Hundreds of new recruits are required across some roles, including cabin crew, pilots, engineers, commercial and sales teams, customer service, ground handling, catering, IT, HR and finance. dnata is looking to hire more than 4,000 cargo, catering and ground handling specialists.
-
-...
-
-[Data](articles/980837dc.json)
-
----
-
-### 33rd AGM of Sri Lanka – Pakistan Business Council
-
-*2025-07-26 03:15:02* · [`dailyftlk`](https://www.ft.lk/business/33rd-AGM-of-Sri-Lanka-Pakistan-Business-Council/34-779506) · `en`
-
-Immediate Past President Indhra Kaushal Rajapaksha (left) and newly appointed President Wasantha De Silva (right) present commemorative plaque to Pakistan’s High Commissioner to Sri Lanka Major General (Ret.) Faheem Ul Aziz, HI (M)
-
-The 33rd Annual General Meeting of the Sri Lanka – Pakistan Business Council (SLPBC) was held recently, attended by Pakistan’s High Commissioner to Sri Lanka Major General (Ret.) Faheem Ul Aziz, HI (M) at Cinnamon Lakeside, Colombo.
-
-DMW Ventures Ltd. Managing Director Wasantha de Silva was elected as SLPBC President for 2025/26, while Feroze Haji Anver from Cliftex Industries Ltd. and Perakum Mahasen Abeysekera from Vinu International Trading Company Ltd. were elected Vice Presidents, and M. Shabeer Iqbal from Star Textile Processing Industries was elected Treasurer. Kalhari Group of Companies Chairman/Managing Director Indhra Kaushal Rajapaksa will serve the committee as Immediate Past President.
-
-...
-
-[Data](articles/36782779.json)
-
----
-
-### Sri Lanka – Bangladesh keen to enhance economic cooperation
-
-*2025-07-26 03:14:23* · [`dailyftlk`](https://www.ft.lk/business/SriLanka-Bangladesh-keen-to-enhance-economic-cooperation/34-779505) · `en`
-
-Sri Lanka High Commissioner Dharmapala Weerakkody met the Vice President of the Dhaka Chamber of Commerce and Industry (DCCI), Md. Salem Sulaiman on 21 July, at the Sri Lanka High Commission in Dhaka.
-
-The meeting focused on a follow-up discussion regarding the Business delegation organised by the DCCI to Sri Lanka from 16-20 June 2025. The visit was co-organised and supported by the High Commission of Sri Lanka in Dhaka.
-
-...
-
-[Data](articles/7388900c.json)
-
----
-
-### CH17 Loyalty and Hameedia Envoy celebrate 10 years of partnership
-
-*2025-07-26 03:09:36* · [`dailyftlk`](https://www.ft.lk/business/CH17-Loyalty-and-Hameedia-Envoy-celebrate-10-years-of-partnership/34-779504) · `en`
-
-What began as a visionary alliance between CH17 Loyalty and Hameedia Group’s, Envoy London, Sri Lanka’s leading name in corporate menswear, has grown into a formidable partnership defined by mutual respect and a commitment to excellence. For over ten years, CH17 has powered Envoy’s loyalty journey with innovative customer engagement and exclusive privilege programs. The two organisations have reaffirmed their unwavering partnership — steadfast in Sri Lanka and now strategically aligned to penetrate new markets, beginning with the UAE. This renewed collaboration aims to deliver greater value to our loyal clientele, expand brand presence, and set new benchmarks in customer loyalty
-
-◼️
-
-[Data](articles/ad0917c7.json)
-
----
-
-### ComBank and Jaffna University empower farmers and youth in climate-smart agriculture
-
-*2025-07-26 03:05:52* · [`dailyftlk`](https://www.ft.lk/business/ComBank-and-Jaffna-University-empower-farmers-and-youth-in-climate-smart-agriculture/34-779503) · `en`
-
-Full day hands on workshop benefits 100 farmers in Kilinochchi
-
-The Commercial Bank of Ceylon has partnered with the Faculty of Agriculture of the University of Jaffna to deliver hands-on training in smart farming technologies to 100 farmers in Kilinochchi in a significant move to modernise Sri Lanka’s agriculture and strengthen food security in the face of climate change.
-
-A full-day workshop was held at the University’s greenhouses and demonstration fields under the banner of the Bank’s ‘Agri Modernisation Village’ program. It brought together farmers, youth, agriculture students, and instructors to explore practical, environmentally sustainable methods that address the challenges posed by erratic weather patterns, pest outbreaks, and reduced crop yields.
-
-...
-
-[Data](articles/6b444a76.json)
-
----
-
-### கிளிநொச்சி மாவட்ட வைத்தியசாலையின் மின் தூக்கி இயங்கவில்லை, நோயாளர்கள் சிரமம்
-
-*2025-07-26 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/220974) · `ta`
-
-கிளிநொச்சி மாவட்ட வைத்தியசாலையின் பயன்பாட்டில் இருந்து வந்த மின் தூக்கி கடந்த நான்கு நாட்களாக  செயலிழந்த நிலையில்  நோயாளர்கள் கடும் சிரமங்களுக்கு உள்ளாகி வருகின்றனர்.
-
-சத்திர சிசிக்சை கூடம், அவசர சிகிச்சை, உள்ளிட்டவற்றுக்கு நோயாளிகளை அழைத்துச் செல்வது, சிகிச்சை நிறைவுற்றதும் விடுதிகளுக்கு மீளவும் அழைத்து வருவது போன்றவற்றுக்கு பயன்படுத்தப்பட்ட மின் தூக்கியே செயலிழந்துள்ளது.
-
-இதனால்  ஊழியர்களை நோயாளிகளை படிகட்டு வழியாக சுமந்து செல்வதும் சிகிச்சை நிறைவுற்றதும் அங்கிருந்து மீளவும் சுமந்து செல்வதும் என ஊழியர்களும் நெருக்கடிகளை சந்தித்துள்ளனர்.
-
-அத்தோடு ஆபத்தான சத்திர சிகிச்சை மேற்கொண்ட நோயாளிகள், மற்றும்  நடமாட முடியாத நோயாளிகள் என பலரும் இதனால் பெரிதும் பாதிப்படைந்துள்ளனர்.
-
-◼️
-
-[Data](articles/ba55fe71.json)
-
----
-
-### புதிய அரசியலமைப்புக்கான முதற்கட்ட பணிகள் ஆரம்பம் - பிரதமர்
-
-*2025-07-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/220973) · `ta`
-
-புதிய அரசியலமைப்புக்கான ஆரம்பகட்ட வேலைத்திட்டங்கள் முன்னெடுக்கப்பட்டுள்ளன. எமது ஆட்சி காலத்துக்குள் புதிய அரசியலமைப்பு திருத்தங்களை மேற்கொள்வோமென பிரதமர் ஹரிணி அமரசூரிய தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (25) வாய்மூல விடைக்கான கேள்வி நேரத்தில், புதிய அரசிலமைப்பு திருத்தம் தொடர்பில்  ஐக்கிய மக்கள் சக்தி உறுப்பினர் அஜித் பி பெரேரா எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-புதிய அரசியலமைப்பு ஒன்று நாட்டுக்கு தேவையாகும். அது இந்த நாட்டின் அடிப்படை சட்டமாகும். அதனால் அதில் திருத்தம்  மேற்கொள்ளும்போது அது தொடர்பில் ஆராயாமல், விசேட நிபுணர்களுடன் கலந்துரையாடாமல், பிரஜைகள் குழுக்களின் கருத்துக்களுக்கு செவிசாய்க்காமல் குறுகிய காலத்தில் மேற்கொள்வது யாத்தியப்படாத ஒன்றாகும்.
-
-விசேடமாக தற்போது இருக்கும் சில கட்டளைகள்,சட்டங்கள், ஒழுங்குவிதிகளில் திருத்தங்கள் மேற்கொள்ளப்பட வேண்டி இருக்கின்றன. அதனால் எமது அரசாங்கம் அதுதொடர்பான நடவடிக்கைகளை மேற்கொண்டுவருகிறது. அதன் பிரகாரம் புதிய அரசியல் அமைப்பு திருத்தம் தொடர்பான ஆரம்பகட்ட வேலைத்திட்டங்கள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-...
-
-[Data](articles/9b689c71.json)
 
 ---

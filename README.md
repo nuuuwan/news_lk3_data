@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 04:06:24**
+As of **2025-07-28 04:20:52**
 
 ## Newspaper Stats
 
-*Scraped **67,124** Articles*
+*Scraped **67,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 4,744
 adalk | 6,434
 adaderanalk | 8,247
 tamilmirrorlk | 9,704
-virakesarilk | 11,200
+virakesarilk | 11,202
 adaderanasinhalalk | 11,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,124 articles have been extended.
+61,973 (92.3%) of 67,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### வவுணதீவில் மறைந்த தலைவர் இரா.சம்பந்தனின் ஓராண்டு நினைவு வணக்க அஞ்சலி
+
+*2025-07-28 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221120) · `ta`
+
+மறைந்த எமது கட்சியின் தலைவர் இரா.சம்பந்தன் ஐயாவின் ஓராண்டு நினைவு வணக்க அஞ்சலி நிகழ்வு வவுணதீவில் இலங்கைத் தமிழ் அரசுக் கட்சி வவுணதீவுப் பிரதேச கிளையின் ஏற்பாட்டில் 27ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றது.
+
+வணக்க அஞ்சலி நிகழ்வில் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர்கள்,மட்டு மாநகர முதல்வர், பிரதிமுதல்வர், பிரதேச சபை தவிசாளர்கள், பிரதிதவிசாளர்கள், பிரதேச சபை உறுப்பினர்கள், கட்சி அங்கத்தவர்கள் என பலரும் கலந்துகொண்டு மறைந்த பெருந்தலைவருக்கு நினைவு அஞ்சலி செலுத்தினர் இதன் போது தீபச்சுடர், மலரஞ்சலி, நினைவுப்பேருரை போன்றன நிகழ்வுகள் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/1f875a8b.json)
+
+---
+
+### மாணவர் குறைவாகவுள்ள பாடசாலைகள் தொடர்பில் தீர்மானம் எடுப்பதற்கு முன் மாற்று நடவடிக்கை அவசியம் - முஜிபுர் ரஹ்மான்
+
+*2025-07-28 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221119) · `ta`
+
+மாணவர்கள் குறைவாக உள்ள பாடசாலைகள் தொடர்பில் தீர்மானம் எடுக்கப்போவதாக ஜனாதிபதி தெரிவித்திருந்தார். அவ்வாறான பாடசாலைகளை மூடிவிடுவதற்கு முன்னர் அங்கு கல்வி கற்கும் மாணவர்களுக்கான மாற்று நடவடிக்கை என்ன என்பது தொடர்பில் தெளிவுபடுத்த வேண்டும் என ஐக்கிய மக்ள் சக்து பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+குறைவான மாணவர்கள் எண்ணிக்கையுடைய பாடசாலைகள் தொடர்பில் தீர்மானம் எடுக்கப்போவதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்றத்தில் தெரிவித்த கருத்து தொடர்பில் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் உள்ள அரச பாடசாலை கட்டமைப்பில் 15 வீதமானவை 50க்கும் குறைவான மாணவர்களை கொண்டுள்ளது. 100 மாணவர்களை விடவும் குறைவான எண்ணிக்கை கொண்ட 3144 பாடசாலைகள் உள்ளன. இதன்படி அரச பாடசாலைகளில் மூன்றில் ஒரு பங்கு நூற்றுக்கும் குறைவான மாணவர்களே உள்ளதாக ஜனாதிபதி தெரிவித்திருந்தார். இதனை நாங்கள் ஏற்றுக்கொள்கிறோம்.
+
+...
+
+[Data](articles/532719f9.json)
+
+---
 
 ### Women’s Chamber of Industry and Commerce Northern Chapter holds workshop on “Importance of Packaging”
 
@@ -1747,39 +1777,5 @@ He served as the Centre Commandant of the Corps of Sri Lanka Engineers prior to 
 ◼️
 
 [Data](articles/777f5c76.json)
-
----
-
-### ආරක්ෂක අමාත්‍යාංශයේ නව මාධ්‍ය අධ්‍යක්ෂ ලෙස බ්‍රිගේඩියර් එෆ්. ජෝසප් වැඩ භාර ගනියි
-
-*2025-07-27 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212686) · `si`
-
-ආරක්ෂක අමාත්‍යාංශයේ නව මාධ්‍ය අධ්‍යක්ෂ සහ මාධ්‍ය ප්‍රකාශක ලෙස පත් කළ බ්‍රිගේඩියර් එස්. ජෝසප් මහතා සිය ධුරයේ වැඩ ආරම්භ කර තිබේ.
-
-මීට පෙර එම ධුරයේ රාජකාරි කළ කර්නල් නලීන් හේරත් මහතා විශ්‍රාම යාමෙන් අනතුරුව ඔහු මෙම ධුරයේ වැඩ භාර ගන්නා ලදි.
-
-ශ්‍රී ලංකා යුද හමුදා ඉංජිනේරු බළකායේ කීර්තිමත් නිලධාරියෙකු වන බ්‍රිගේඩියර් ෆ්‍රෑන්ක්ලින් ජෝසප් සිය වෘත්තිය නිපුණත්වය, කැපී පෙනෙන නායකත්ව ගුණාංග සහ ජාතික ආරක්ෂාව තහවුරු කිරීම සඳහා කැපවී ක්‍රියා කිරීම තුළින් දශක තුනකට අධික ආදර්ශමත් සේවාවක් කළ කීර්තිමත් යුද හමුදා නිලධාරියෙකුද වේ.
-
-ආරක්ෂක අමාත්‍යාංශයේ නව මාධ්‍ය අධ්‍යක්ෂ සහ මාධ්‍ය ප්‍රකාශක ලෙස රාජකාරි භාර ගැනීමට පෙර ඔහු ශ්‍රී ලංකා යුද හමුදා ඉංජිනේරු බළකායේ රෙජිමේන්තු මධ්‍යස්ථාන සේනාවිධායක ලෙස විශිෂ්ට සේවයක් ද සිදු කළේය.
-
-◼️
-
-[Data](articles/bf2a5903.json)
-
----
-
-### 21 arrested with drugs at party organised through social media
-
-*2025-07-27 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110875/21-arrested-with-drugs-at-party-organised-through-social-media) · `en`
-
-A total of 21 individuals have been taken into custody along with drugs during a raid conducted at a party which was organized through social media in Welivita, Kaduwela, police stated.
-
-During the raid officers seized several illegal substances including cannabis and narcotics pills, Police reported.
-
-The suspects, aged between 22 and 27 are scheduled to be produced before the Kaduwela Magistrate’s Court.
-
-◼️
-
-[Data](articles/2291290d.json)
 
 ---

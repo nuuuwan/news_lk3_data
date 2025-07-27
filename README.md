@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 17:18:01**
+As of **2025-07-27 17:30:19**
 
 ## Newspaper Stats
 
-*Scraped **67,072** Articles*
+*Scraped **67,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,430
 adaderanalk | 8,240
-tamilmirrorlk | 9,701
+tamilmirrorlk | 9,702
 virakesarilk | 11,183
-adaderanasinhalalk | 11,524
+adaderanasinhalalk | 11,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,072 articles have been extended.
+61,973 (92.4%) of 67,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### රට පුරා විශේෂ මෙහෙයුම්වලින් 1000කට වැඩි පිරිසක් අත්අඩංගුවට
+
+*2025-07-27 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212696) · `si`
+
+පොලීසිය, පොලිස් විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාව එක්ව ඊයේ (26) සිදු කළ විශේෂ සෝදිසි මෙහෙයුමක දී මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් පුද්ගලයන් 1,182ක් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 230 මිලිග්‍රෑම් 159ක ප්‍රමාණයක් හා හෙරොයින් ග්‍රෑම් 220 මිලිග්‍රෑම් 415ක ප්‍රමාණයක් පොලීසිය සිය භාරයට ගෙන ඇත.
+
+අපරාධවලට ඍජු ලෙස සම්බන්ධ බවට හඳුනාගත් පුද්ගලයන් 20 දෙනෙකු හා විවිධ වැරදි සම්බන්ධයෙන් වරෙන්තුකරුවන් 410 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම විශේෂ මෙහෙයුම හරහා පුද්ගලයන් 24,343 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 9,727 හා යතුරුපැදි 7,396ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කෙරිණි.
+
+මේ සදහා පොලිස් නිලධාරීන්, විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයන් ඇතුළත්ව නිලධාරීන් 7600කට අධික පිරිසක් සහභාගී වී ඇත.
+
+එමෙන්ම මෙම විශේෂ සෝදිසි මෙහෙයුමේ දී නීති විරෝධී ගිනි අවි හතරක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/28df2b25.json)
+
+---
+
+### மசாஜ்க்கு அப்பால் மறுத்த பெண்ணை தாக்கிய பிசி
+
+*2025-07-27 17:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்க்கு-அப்பால்-மறுத்த-பெண்ணை-தாக்கிய-பிசி/175-361843) · `ta`
+
+ஒரு மசாஜ் நிலைய சிகிச்சையாளரான பெண்ணைத் தாக்கி, வேறு எதுவும் கிடைக்காத நிலையில், அவரது பணத்தைக் கொள்ளையடித்து, அப்பெண்ணை கடத்தி வாதுவ நகரில் மீண்டும் தாக்கியதாகக் கூறப்படும் ஒரு பொலிஸ் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளதாக வாதுவ பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட நபர் ஹொரண தலைமையக காவல்துறையில் இணைக்கப்பட்ட பாணந்துறை பிரிவு குற்றப் புலனாய்வுப் பிரிவில் பணியாற்றி மோட்டார் சைக்கிள் பிரிவில் பணியாற்றும் ஒரு கான்ஸ்டபிள் ஆவார்.
+
+சந்தேக நபர் கைது செய்யப்பட்ட நேரத்தில் 27,000 ரூபாய் பணத்தை வைத்திருந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9f0b6c67.json)
+
+---
 
 ### எண்ணெய் கலப்படம் 2000 லீற்றர் சிக்கியது
 
@@ -1767,49 +1805,5 @@ The aircraft reported a possible landing gear incident while departing from the 
 ...
 
 [Data](articles/ffe97458.json)
-
----
-
-### ඇළකට වැටී සිඟිත්තියක් මරුට
-
-*2025-07-27 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212678) · `si`
-
-දිඹුලපතන පොලිස් වසමේ රොසිටා වත්ත ප්‍රදේශයේදී නිවසක් ආසන්නයේ ඇති ඇළ මාර්ගයකට වැටී කුඩා දැරියක්  මියගොස් තිබේ.
-
-ඊයේ (26) උදෑසන කාලයේ මෙම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
-
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 04ක් වූ රොසිටා වත්ත, කොටගල ප්‍රදේශයේ පදිංචිව සිටි සිඟිත්තියකි.
-
-මෘත ශරීරය දික්ඔය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර දිඹුලපතන පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-මේ අතර පසුගිය 26 වන දින දහවල් කාලයේ පොළොන්නරුව පොලිස් වසමේ පත්තිනි පෙදෙස 02 ප්‍රදේශයේදී ඇති ඇල මාර්ගයක දිය නෑමට ගිය පුද්ගලයෙකු දියට වැටී මියගොස් තිබේ.
-
-එලෙස මියගොස් ඇත්තේ, නවනගරය, මැදිරිගිරිය ප්‍රදේශයේ පදිංචිව සිටි 38  හැවිරිදි පුද්ගලයෙකි.
-
-◼️
-
-[Data](articles/c6f2ba3e.json)
-
----
-
-### Four including a female arrested over assault on bus driver in Kandy
-
-*2025-07-27 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110865/four-including-a-female-arrested-over-assault-on-bus-driver-in-kandy) · `en`
-
-A total of four individuals have been arrested by the Kandy Police in connection with the assault on a bus driver who was transporting schoolchildren in Hantana, Kandy on Friday (25), police stated.
-
-The arrested suspects are aged 21, 26, and 27, while the female suspect is 38 years old. All suspected are residents of Kandy, police added.
-
-The private bus, which was transporting a group of schoolchildren and teachers from Anuradhapura to visit the Hantana mountain range, had collided with a three-wheeler.
-
-Following the accident, a group of individuals had assaulted the bus driver.
-
-The injured driver was later hospitalized. Despite the teachers and parents on the bus urging the crowd not to assault the driver, the group proceeded with the attack, according to police.
-
-Accordingly, police have taken into custody three males and one female involved in the assault.
-
-...
-
-[Data](articles/1fb7f761.json)
 
 ---

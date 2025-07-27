@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 08:34:57**
+As of **2025-07-27 09:18:34**
 
 ## Newspaper Stats
 
-*Scraped **66,964** Articles*
+*Scraped **66,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,099
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,417
+adalk | 6,418
 adaderanalk | 8,217
-tamilmirrorlk | 9,668
+tamilmirrorlk | 9,669
 virakesarilk | 11,164
 adaderanasinhalalk | 11,507
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 66,964 articles have been extended.
+61,973 (92.5%) of 66,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c6f2ba3e.json)
+
+---
+
+### ඇළකට වැටී දැරියක් මරුට
+
+*2025-07-27 07:22:29* · [`adalk`](https://www.ada.lk/breaking_news/ඇළකට-වැටී-දැරියක්-මරුට/11-417517) · `si`
+
+දිඹුලපතන පොලිස් වසමේ රොසිටා වත්ත ප්‍රදේශයේදී නිවසක් ආසන්නයේ ඇති ඇල මාර්ගයක කුඩා දැරියක් වැටී මියගොස් ඇති බවට දිඹුලපතන පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත.
+
+මියගිය දැරිය වයස අවුරුදු 04 ක් වූ රොසිටා වත්ත, කොටගල ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මෘත ශරීරය දික්ඔය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර දිඹුලපතන පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි. ඊයේ දහවල් කාලයේ මෙම අනතුර සිදුව තිබේ.
+
+◼️
+
+[Data](articles/2f675fdf.json)
 
 ---
 
@@ -133,6 +149,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69891a30.json)
+
+---
+
+### பொலித்தீன் பையில் எலும்புக் குவியல்கள்
+
+*2025-07-27 05:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலித்தீன்-பையில்-எலும்புக்-குவியல்கள்/175-361791) · `ta`
+
+யாழ். செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் தடயவியல் அகழ்வாய்வுத் தளம் இரண்டு என நீதிமன்றத்தால் பிரகடனப்படுத்தப்பட்ட பகுதியில் நேற்று அகழ்வுப் பணிகள் இடம்பெற்றபோது பொலித்தீன் பை ஒன்று அடையாளம் காணப்பட்டுள்ளது.
+
+அந்தப் பொலித்தீன் பை முழுமையாக சுத்தப்படுத்தப்பட்டு அகழ்ந்து எடுக்கப்பட்டதன் பின்னரே அது பற்றிய விவரங்கள் கிடைக்கப் பெறும் என்று தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/989d003f.json)
 
 ---
 
@@ -1771,41 +1801,5 @@ A total of 7 grams and 500 milligrams of crystal methamphetamine were recovered 
 ◼️
 
 [Data](articles/50ee01a2.json)
-
----
-
-### More details revealed in pregnant deer killing incident involving police officers
-
-*2025-07-26 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110848/more-details-revealed-in-pregnant-deer-killing-incident-involving-police-officers) · `en`
-
-Police have uncovered more details during the interrogation of suspects arrested in connection with the illegal killing of a pregnant deer in the Makulugaswewa area of the Heenugala Reserve, Galewela.
-
-Following the interrogation of suspects arrested, another suspect has been apprehended as a result of ongoing investigations, said Dambulla Assistant Superintendent of Police (ASP) W. G. M. M. Chandrasiri.
-
-Police have also seized three unlicensed 12-bore firearms after the interrogation of the arrestees, he said.
-
-Initial arrests were made yesterday (July 25), involving two police sergeants and a civilian. Interrogation of the suspects revealed that two individuals from the Wahakotte area had entered the reserve to hunt deer. It was further disclosed that one of the suspects is the brother of a serving police sergeant.
-
-After the deer was killed, the suspects allegedly sought assistance from the police sergeant brother, as several local residents had witnessed the incident.
-
-...
-
-[Data](articles/2b653df4.json)
-
----
-
-### Govt to launch ‘Think Tank’ for rural economic revitalization, says PM
-
-*2025-07-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/110847/govt-to-launch-think-tank-for-rural-economic-revitalization-says-pm) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that the government will initiate steps to establish a National Industrial Planning Think Tank centered on revitalizing the rural economy and the necessary technical, scientific, and advisory support would be provided through that initiative to strengthen businesses across Sri Lanka.
-
-The Prime Minister made these remarks while participating in the 40th Anniversary celebration of the Regional Development Bank (RDB) held on July 25 at the Bandaranayaka Memorial International Conference Hall, according to the Prime Minister’s Media Division.
-
-At the event, the official launch of “RDB Quick App” online banking facility and the opening of the exhibition on business product stalls held for three consecutive days were initiated by the Prime Minister to the public in line with the anniversary celebration.
-
-...
-
-[Data](articles/7de5386b.json)
 
 ---

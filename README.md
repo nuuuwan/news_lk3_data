@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 17:30:19**
+As of **2025-07-27 17:51:51**
 
 ## Newspaper Stats
 
-*Scraped **67,074** Articles*
+*Scraped **67,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,101
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,430
+adalk | 6,431
 adaderanalk | 8,240
-tamilmirrorlk | 9,702
+tamilmirrorlk | 9,703
 virakesarilk | 11,183
 adaderanasinhalalk | 11,525
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,074 articles have been extended.
+61,973 (92.4%) of 67,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### இரண்டு ஆண்கள் எப்படி ஒரு குடும்பத்தை உருவாக்க முடியும்?
+
+*2025-07-27 17:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ஆண்கள்-எப்படி-ஒரு-குடும்பத்தை-உருவாக்க-முடியும்/175-361846) · `ta`
+
+பேருவளையில் உள்ள புனித மரியா தேவாலயத்தில் நடைபெற்ற மத விழாவில் உரையாற்றிய பேராயர் கர்தினால் மல்கம் ரஞ்சித், ஓரினச்சேர்க்கை திருமணம் ஒரு மனித உரிமை அல்ல என்றும் அதை அனுமதிக்கக்கூடாது என்றும் கூறினார்.
+
+நவீன சமூகத்தில் "ஊழல் சித்தாந்தங்கள்" என்று அதை அவர் விவரித்ததுடன் அதிகரித்து வரும் ஓரினச்சேர்க்கை ஊக்குவிப்புக்கு எதிராக கர்தினால் எச்சரிப்பு விடுத்தார்.
+
+இதில் ஒரே பாலின திருமணத்திற்கான அழுத்தம் அடங்கும், இது பாரம்பரிய குடும்ப விழுமியங்களை குறைமதிப்பிற்கு உட்படுத்துவதாக அவர் கூறினார்.
+
+"இரண்டு ஆண்கள் எப்படி ஒரு குடும்பத்தை உருவாக்க முடியும்? அவர்கள் எப்படி குழந்தைகளைப் பெற முடியும்?" என்று கர்தினால் ரஞ்சித் கேள்வி எழுப்பினார், திருமணத்தை ஒரு தற்காலிக அனுபவமாகக் கருதக்கூடாது என்றும், அது தார்மீக மற்றும் ஆன்மீக புரிதலின் அடிப்படையில் இருக்க வேண்டும் என்றும் கூறினார்.
+
+...
+
+[Data](articles/f5ff70d9.json)
+
+---
 
 ### රට පුරා විශේෂ මෙහෙයුම්වලින් 1000කට වැඩි පිරිසක් අත්අඩංගුවට
 
@@ -399,6 +417,26 @@ The three-wheeler was severely damaged in the accident, police added.
 ◼️
 
 [Data](articles/69dee9aa.json)
+
+---
+
+### තායිලන්ත හා කාම්බෝජියා ගැටුම් නැවැත්වීමටත් ට්‍රම්ප් මැදිහත්වෙයි
+
+*2025-07-27 14:42:56* · [`adalk`](https://www.ada.lk/international/තායිලන්ත-හා-කාම්බෝජියා-ගැටුම්-නැවැත්වීමටත්-ට්‍රම්ප්-මැදිහත්වෙයි/3-417529) · `si`
+
+ඇමෙරිකානු ජනපති ඩොනල්ඩ් ට්‍රම්ප් සෙනසුරාදා පැවසුවේ, කාම්බෝජයේ සහ තායිලන්තයේ නායකයින් අමතා, දේශසීමා ගැටුම්වලින් පසුව වහාම සටන් විරාමයකයට යොමුවන ලෙස ඔවුන්ට බලපෑම් කළ බවයි.
+
+තම ස්කොට්ලන්ත ගොල්ෆ් පිටි වෙත පෞද්ගලික සංචාරයක් ආරම්භ කිරීමට පෙර ජනපතිවරයා සිය සිය ටෘත් සමාජ මාධ්‍ය ගිණුමේ මේ බව සටහන් කළේය.
+
+"රටවල් දෙක වහාම හමුවී ඉක්මනින් සටන් විරාමයක් ඇති කර ගැනීමට සහ අවසානයේ සාමය ඇති කිරීමට එකඟ වී ඇත!" යනුවෙන් ඇමෙරිකානු ජනපතිවරයා පැවැසීය.
+
+සටන් විරාමයක් වෙනුවෙන් ඇමෙරිකානු ජනපතිවරයාගේ මැදිහත්වීමට රටවල් දෙක ඔහුට ස්තූති කළේය. සටන් විරාමයක් සඳහා වූ ඔහුගේ ඉල්ලීම කාම්බෝජය පිළිගෙන ඇති අතර, තායිලන්තය දෙරට අතර සංවාදයක අවශ්‍යතාවය අවධාරණය කළේය.
+
+කෙසේ වෙතත්, එක්සත් ජනපද ජනාධිපතිවරයාගේ මෙම අදහස් දැක්වීමෙන් පසුවත් ඊයේ රාත්‍රී දේශ සීමාව දිගේ ෂෙල් වෙඩි ප්‍රහාර එල්ල වූ බවයි.
+
+◼️
+
+[Data](articles/518525ee.json)
 
 ---
 
@@ -1769,41 +1807,5 @@ Among them, 269,780 individuals are from India, 124,652 from the UK and 114,644 
 ◼️
 
 [Data](articles/9317e862.json)
-
----
-
-### Four-year-old girl dies after falling into canal in Kotagala
-
-*2025-07-27 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110867/four-year-old-girl-dies-after-falling-into-canal-in-kotagala) · `en`
-
-A four-year-old girl has died after falling into a canal near a house in the Rosita Estate in Dimbula Pathana, police stated.
-
-The body has been placed in the morgue of the District Base Hospital Dickoya, and the Dimbula Pathana Police are conducting further investigations.
-
-Meanwhile, another individual drowned in a canal while bathing in the ‘Patthini Pedesa’ area in Polonnaruwa.
-
-◼️
-
-[Data](articles/ecb61928.json)
-
----
-
-### Passengers exit American Airlines flight via emergency slide after aborted takeoff
-
-*2025-07-27 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110866/passengers-exit-american-airlines-flight-via-emergency-slide-after-aborted-takeoff) · `en`
-
-An American Airlines flight was forced to abort takeoff at the Denver airport on Saturday after a landing gear malfunction led to fire and smoke on the runway.
-
-An emergency evacuation followed, and all 173 passengers were safely taken out.
-
-AA-3023, operated by a Boeing 737 MAX 8 aircraft, was bound for Miami when the incident occurred. It suffered a maintenance issue with the tire, the airline later said.
-
-Dramatic rescue footage showed the panic-stricken passengers sliding down from the plane while the landing gear was seen on fire. Smoke filled the entire area as the passengers came out one by one.
-
-The aircraft reported a possible landing gear incident while departing from the Denver airport around 2:45 pm (local time), said the Federal Aviation Administration (FAA), adding that the passengers were evacuated on the runway and transported to the terminal by bus.
-
-...
-
-[Data](articles/ffe97458.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 12:25:55**
+As of **2025-07-27 12:50:07**
 
 ## Newspaper Stats
 
-*Scraped **67,020** Articles*
+*Scraped **67,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,101
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,421
-adaderanalk | 8,227
+adalk | 6,422
+adaderanalk | 8,229
 tamilmirrorlk | 9,688
 virakesarilk | 11,176
 adaderanasinhalalk | 11,514
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,514
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 67,020 articles have been extended.
+61,973 (92.5%) of 67,023 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -256,6 +256,50 @@ Udeni Udugahapattuwa, Director General of the Public Debt Management Office, N D
 
 ---
 
+### මුදලට බූරුවා ගැසූ කාන්තාවන් 13ක් ඇතුළු 16ක් අල්ලයි
+
+*2025-07-27 11:30:12* · [`adalk`](https://www.ada.lk/breaking_news/මුදලට-බූරුවා-ගැසූ-කාන්තාවන්-13ක්-ඇතුළු-16ක්-අල්ලයි/11-417521) · `si`
+
+වාද්දුව ප්‍රදේශයේ බූරු පිටි දෙකක් වටලා කාන්තාවන් 13 ක් ඇතුළු 16 දෙනෙකු අත් අඩංගුවට ගත්බව වාද්දුව පොලිසිය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව වේරගම සහ හබරලගහලන්ද ප්‍රදේශයේ පදිංචි පිරිසක් බව  පොලිසිය කීය.
+
+ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ජනක විතානගේ මහතා ට ලද තොරතුරක් මත පොලිස් කණ්ඩායම් ස්ථාන දෙක වටලා සැකකරුවන් අත් අඩංගුවට ගෙන රුපියල් ලක්ෂයකට අධික මුදලක් , බූරු කූට්ටම් දෙකක් සහ පැදුරු දෙකක් පොලිස් භාරයට ගෙන තිබේ.
+
+ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ජනක විතානගේ මහතා ගේ ප්‍රධානත්වයෙන් කාන්තා නිළධාරින් ඇතුළු පොලිස් කණ්ඩායමක් වැටලීමට එක්වූහ.
+
+◼️
+
+[Data](articles/e86f4140.json)
+
+---
+
+### Turkey records all-time high temperature of 50.5 degrees celsius
+
+*2025-07-27 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110873/turkey-records-all-time-high-temperature-of-505-degrees-celsius) · `en`
+
+Turkey’s environment ministry has stated that meteorologists had registered a reading of 50.5C in the southeast of the country, a nationwide record.
+
+The record temperature was registered on Friday at Silopi, the ministry said in a post on X.
+
+And across the country, 132 weather stations had registered record temperatures for the month of July, the statement added.
+
+Silopi, in the province of Sirnak, sits just 10 kilometres (six miles) from Turkey’s borders with Iraq and Syria.
+
+The previous heat record in temperature, recorded in August 2023, was 49.5C.
+
+The country is currently in the grip of a heatwave and is fighting fires in a number of regions.
+
+Firefighters have been struggling for four days to contain one in the northern Karabuk province, forcing the evacuation of several villagers.
+
+On Wednesday, 10 people perished fighting a fire in Eskisehir province.
+
+...
+
+[Data](articles/5532a02c.json)
+
+---
+
 ### ග්‍රීසිය පැතිර යන ලැව්ගිනි පාලනය කිරීමට යුරෝපා සංගමයේ සහාය පතයි
 
 *2025-07-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212684) · `si`
@@ -345,6 +389,28 @@ Udeni Udugahapattuwa, Director General of the Public Debt Management Office, N D
 ◼️
 
 [Data](articles/aa16498d.json)
+
+---
+
+### Number of skeletal remains uncovered from Chemmani mass grave increases to 101
+
+*2025-07-27 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110872/number-of-skeletal-remains-uncovered-from-chemmani-mass-grave-increases-to-101) · `en`
+
+Skeletal remains believed to belong to 11 more individuals have been recovered from the Chemmani Sindhubathi cemetery, located near a suspected mass grave site in Jaffna.
+
+The fourth phase of excavations at the Chemmani Sindhubathi cemetery in Jaffna, continued for the sixth day yesterday (26), according to excavation officials.
+
+The officials stated that, to date, skeletal remains belonging to 101 individuals have been unearthed, with remains of 90 individuals already recovered during previous excavation efforts.
+
+The skeletal remains were first noticed on February 20, 2025, during a development project at the Chemmani Sindhubathi cemetery in Jaffna.
+
+Following the discovery, those involved in the development work informed the Jaffna police.
+
+Subsequently, the Jaffna police obtained a court order from the Jaffna Magistrate’s Court to conduct excavations at the site where the remains were found.
+
+...
+
+[Data](articles/f3fed985.json)
 
 ---
 
@@ -1769,61 +1835,5 @@ Furthermore, the committee has recommended that the Ministry of Education submit
 ◼️
 
 [Data](articles/fbab9186.json)
-
----
-
-### විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
-
-*2025-07-26 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212663) · `si`
-
-මත්ද්‍රව්‍ය සහ අපරාධවලට සම්බන්ධ පුද්ගලයින් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක කර ඇති විෂේශ සෝදිසි මෙහෙයුම් මාලාවේ තවත් සෝදිසි මෙහෙයුම් කිහිපයක් ඊයේ (25) දිනය පුරාවටද සිදුකර තිබේ.
-
-මේ සඳහා ශ්‍රී ලංකා පොලීසියත්, පොලිස් විශේෂ කාර්ය බළකාය සහ ත්‍රිවිධ හමුදාවත් එක්ව ඇති අතර ඒ සඳහා පොලිස් නිලධාරීන්, විශේෂ කාර්ය බළකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයින් ඇතුළු ආරක්ෂක නිලධාරීන් 6,500කට අධික පිරිසක් සහභාගී වී තිබේ.
-
-එහිදි ක්‍රියාත්මක වූ සෝදිසි මෙහෙයුමේදී පුද්ගලයින් 24,281 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 10,175ක් සහ යතුරුපැදි 7,240ක ප්‍රමාණයක් මෙහිදී පරීක්ෂාවට ලක් කර ඇත.
-
-ඒ අනුව මෙහෙයුම් අතරතුරදී මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් පුද්ගලයින් 1,455ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇති අතර එහිදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 374 මිලිග්‍රෑම් 336ක ප්‍රමාණයක්ද හොරොයින් ග්‍රෑම් 218 මිලිග්‍රෑම් 281 ප්‍රමාණයක්ද ඇතුළුව මත්ද්‍රව්‍ය ප්‍රමාණයක් පොලිස් භාරයට ගෙන තිබේ.
-
-...
-
-[Data](articles/861d5b37.json)
-
----
-
-### Navy arrests 65 for engaging in illegal fishing activities
-
-*2025-07-26 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110854/navy-arrests-65-for-engaging-in-illegal-fishing-activities-) · `en`
-
-In a series of separate operations conducted within nearly two weeks between 09 and 22 July, the Sri Lanka Navy has apprehended a total of 65 individuals involved in various illegal fishing activities across multiple locations around the island.
-
-According to the Navy, the operations also led to the seizure of 16 dinghies used in these illegal practices.
-
-The operations were carried out by the Eastern, Northwestern, and North Central Naval Commands in the areas of Salpearu, Uppural, Polmalkuda, Nilaveli, and Maleimunthal in Trincomalee; Ippantivu in Mannar; and the Mannar North coastal region.
-
-The individuals (65) were arrested for engaging in activities such as fishing with unauthorized nets, light-coarse fishing, and the transportation of sea cucumbers and conch shells without valid licenses.
-
-In addition to the dinghies, 05 unauthorized fishing nets were also seized during the operations, said Navy.
-
-...
-
-[Data](articles/ab3172df.json)
-
----
-
-### பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் குழு  ஜனாதிபதி அலுவலகத்திற்கு வருகை
-
-*2025-07-26 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221005) · `ta`
-
-ஜனாதிபதி அலுவலகத்தைப் பார்வையிட பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள் குழுவொன்று வெள்ளிக்கிழமை (25) பிற்பகல் வருகை தந்தது.
-
-பிரித்தானிய பாராளுமன்ற உறுப்பினர்கள், ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவுடன் சிறு கலந்துரையாடலில் ஈடுபட்டனர்.
-
-இதன்போது, ஜனாதிபதி அலுவலக நூலகம், பழைய பாராளுமன்றம் மற்றும் அமைச்சரவை கூட்ட மண்டபம் உள்ளிட்ட பழைய இடங்களைப் பார்வையிடும் வாய்ப்பு பிரித்தானிய பாராளுமன்ற உறுப்பினர்களுக்கு கிடைத்தது.
-
-மேலும், ஜனாதிபதியின் சிரேஸ்ட மேலதிகச் செயலாளர் ரோஷன் கமகே, இலங்கைக்கான பிரித்தானிய உயர் ஸ்தானிகர் ஆண்ட்ரூ பெட்ரிக் (Andrew Patrick)உள்ளிட்டோர் இந்த நிகழ்வில் பங்கேற்றனர்.
-
-◼️
-
-[Data](articles/98cb5ba6.json)
 
 ---

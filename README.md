@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 20:48:13**
+As of **2025-07-27 21:05:58**
 
 ## Newspaper Stats
 
-*Scraped **67,097** Articles*
+*Scraped **67,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ dailyftlk | 4,734
 adalk | 6,434
 adaderanalk | 8,245
 tamilmirrorlk | 9,704
-virakesarilk | 11,190
-adaderanasinhalalk | 11,530
+virakesarilk | 11,191
+adaderanasinhalalk | 11,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.4%) of 67,097 articles have been extended.
+61,973 (92.4%) of 67,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### මරදාන පොලීසියේ කොස්තාපල්වරු තිදෙනෙකුගේ වැඩ තහනම්
+
+*2025-07-27 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212704) · `si`
+
+මරදාන පොලීසියට අනුයුක්තව සේවය කළ පොලිස් කොස්තාපල්වරුන් තිදෙනෙකුගේ වැඩතහනම් කර තිබේ.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු සමග සබඳතා පැවැත් වූ බවට වූ තොරතුරක් මත මෙම තිදෙනා අත්අඩංගුවට පත්ව සිටියේය.
+
+ඉකුත් 23වනදා කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන කාර්ය්‍යාංශයේ නිලධාරීන් විසින් අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 11,320ක් සමග පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබුණි.
+
+එම පුද්ගලයා පරීක්ෂා කිරීමේ දී ඔහු සන්තකයේ තිබූ ජංගම දුරකථනයේ මෙම පොලිස් නිලධාරීන්ගේ දුරකථන අංක සහ හඬපට දත්ත ඇති බවට අනාවරණය ඇත.
+
+ඒ හේතුවෙන් මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුට මත්ද්‍රව්‍ය ජාවාරම් කිරීමට ආධාර අනුබලදීම චෝදනාව යටතේ අත්අඩංගුවට පත්විය.
+
+අත්අඩංගුවට ගත් කොස්තාපල්වරුන් තිදෙනා වයස අවුරුදු 22, 30 හා 32 අතර පසුවන්නන් බව සඳහන්.
+
+ඔවුන් සම්බන්ධ වැඩිදුර විමර්හන කොළඹ මධ්‍යම    කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය සිදුකරයි.
+
+◼️
+
+[Data](articles/9778e53d.json)
+
+---
 
 ### තවත් වන අලි මළ සිරුරක් හමුවෙයි
 
@@ -45,6 +69,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2cc61e45.json)
+
+---
+
+### நாடு பூராக 2,000 ஆரம்ப சுகாதார மத்திய நிலையங்கள் – இந்த ஆண்டு 100 நிலையங்கள் அமைப்போம்: நளிந்த ஜயதிஸ்ஸ
+
+*2025-07-27 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221109) · `ta`
+
+நாட்டின் சுமார் 10ஆயிரம்  மக்கள் தொகையினருக்கு ஒரு ஆரம்ப சுகாதார சேவை நிலையம் என்ற அடிப்படையில் நாடு பூராகவும் 2ஆயிரம் ஆரம்ப சுகாதார மத்திய நிலையங்களை அமைக்க நடவடிக்கை எடுத்துள்ளோம்.  இந்த ஆண்டு 100 மத்திய நிலையங்கள் அமைக்கப்படும் என சுகாதார மற்றும் ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+மக்களுக்கு தற்போது வழங்கப்படும் ஆரம்ப சுகாதார சேவைகளை எதிர்காலத்தில் மிகவும் சிறந்த சேவையாக வழங்குவதை பிரதான நோக்கமாகக் கொண்டு, முழு நாட்டையும் உள்ளடக்கும் வகையில் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சினால் நிறுவப்பட உள்ள ஆரம்ப சுகாதார சமூக மையத் திட்டம் குறித்து பொது சுகாதார தாதியர் அதிகாரிகளுக்கான  பயிற்சிப் பட்டறை 26ஆம் திகதி சனிக்கிழமை இலங்கை மன்றக் கல்லூரி கேட்போர் கூடத்தில் இடம்பெற்றது.
+
+...
+
+[Data](articles/d4d46126.json)
 
 ---
 
@@ -84,7 +122,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### කොංගෝ රාජ්‍යයේ පල්ලියකට එල්ල කළ ප්‍රහාරයකින් 38ක් මරුට
+### කොංගෝ රාජ්‍යයේ කතෝලික දේවස්ථානයකට එල්ල කළ ප්‍රහාරයකින් 38ක් මරුට
 
 *2025-07-27 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212702) · `si`
 
@@ -1761,41 +1799,5 @@ Subsequently, the Jaffna police obtained a court order from the Jaffna Magistrat
 ◼️
 
 [Data](articles/0bd66f98.json)
-
----
-
-### வெளியேறிய நிபுணர்கள், மருத்துவர்களுக்கு சிக்கல்
-
-*2025-07-27 11:15:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியேறிய-நிபுணர்கள்-மருத்துவர்களுக்கு-சிக்கல்/175-361805) · `ta`
-
-பல்வேறு காரணங்களுக்காக நாட்டை விட்டு வெளியேறிய நிபுணர்கள் மற்றும் மருத்துவர்கள் சேவைக்குத் திரும்புவதற்கான மேன்முறையீடுகளைச் சமர்ப்பித்திருந்தாலும், சுகாதார அமைச்சகமும் பொது சேவை ஆணையமும் அந்த கோரிக்கைகளை சேவையை விட்டு வெளியேறியது போல் கருதி நிராகரிக்க நடவடிக்கை எடுத்துள்ளதாக ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
-
-மேலும், நாடு திரும்பிய 20-50 மருத்துவர்கள் மீண்டும் சேவையில் சேர விருப்பம் தெரிவித்து கோரிக்கைகளை சமர்ப்பித்துள்ளனர்.
-
-அத்துடன், பொது சேவை ஆணையத்தின் ஒப்புதல் இல்லாமல் அவர்களை மீண்டும் பணியமர்த்த முடியாது என்று சுகாதார அமைச்சகம் சம்பந்தப்பட்ட மருத்துவர்களிடம் தெரிவித்துள்ளது.
-
-சுகாதார அமைச்சினால் நடத்தப்பட்ட கண்காணிப்பு அழைப்புகளின் போது, நாட்டில் மருத்துவர்கள் மற்றும் நிபுணர்களின் எண்ணிக்கை தற்போது அங்கீகரிக்கப்பட்ட எண்ணிக்கையை விட அதிகமாக இருப்பதால், சேவைக்குத் திரும்ப கோரிய மருத்துவர்களுக்கு, பொது சேவை ஆணையம் தொடர்புடைய நியமனங்களைச் செய்வதில் சிரமம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/8bd3acdd.json)
-
----
-
-### Israeli military says it will pause fighting in 3 areas of Gaza to address surging hunger
-
-*2025-07-27 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110871/israeli-military-says-it-will-pause-fighting-in-3-areas-of-gaza-to-address-surging-hunger) · `en`
-
-The Israeli military said Sunday it would begin a “tactical pause” in fighting in three areas of Gaza as part of steps to address a worsening humanitarian situation.
-
-The military said it would halt activity in Muwasi, Deir al-Balah and Gaza City from 10:00 a.m. to 8:00 p.m. local time every day until further notice, beginning Sunday. The military said it was not operating in those areas, but there has been fighting and strikes in each in recent weeks.
-
-In a statement, the military said it would also designate secure routes that would be to help aid agencies deliver food and other supplies to people across Gaza.
-
-The announcement that the military would pause some fighting comes after months of experts’ warnings of famine amid Israeli restrictions on aid. International criticism, including by close allies, has grown as several hundred Palestinians have been killed in recent weeks while trying to reach food distribution sites.
-
-...
-
-[Data](articles/14a7076d.json)
 
 ---

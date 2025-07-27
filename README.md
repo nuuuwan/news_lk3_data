@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 11:10:42**
+As of **2025-07-27 11:35:50**
 
 ## Newspaper Stats
 
-*Scraped **66,992** Articles*
+*Scraped **66,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,420
 adaderanalk | 8,225
-tamilmirrorlk | 9,678
+tamilmirrorlk | 9,680
 virakesarilk | 11,166
-adaderanasinhalalk | 11,511
+adaderanasinhalalk | 11,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 66,992 articles have been extended.
+61,973 (92.5%) of 66,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### සමාජ මාධ්‍යයේ පල වන පුවතක් සම්බන්ධයෙන් පොලීසිය කරුණු පැහැදිලි කරයි
+
+*2025-07-27 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212683) · `si`
+
+නැගෙනහිර පළාතේ සංඝනායක හිමි නමක් උන්වහන්සේට ලබා දී තිබූ පොලිස් ආරක්ෂාව ඉවත් කර ඇති බවට පුවත් ඇතුළත් කරමින් සමාජ මාධ්‍ය ජාලා ඔස්සේ සංසරණය වන පුවතක් සම්බන්ධයෙන් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සදහන් වන්නේ එම සංඝනායක හිමි නමට ලබා දී තිබූ අරක්ෂාව ඉවත් කිරීමට කටයුතු සිදු කර නොමැති බවය.
+
+එමෙන්ම උන්වහන්සේට ලබා දී තිබූ අරක්ෂාව පෙර පරිදිම ලබාදීමට කටයුතු කර ඇති බවද එම නිවේදනයේ සදහන්.
+
+◼️
+
+[Data](articles/0bd66f98.json)
+
+---
+
+### வெளியேறிய நிபுணர்கள், மருத்துவர்களுக்கு சிக்கல்
+
+*2025-07-27 11:15:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியேறிய-நிபுணர்கள்-மருத்துவர்களுக்கு-சிக்கல்/175-361805) · `ta`
+
+பல்வேறு காரணங்களுக்காக நாட்டை விட்டு வெளியேறிய நிபுணர்கள் மற்றும் மருத்துவர்கள் சேவைக்குத் திரும்புவதற்கான மேன்முறையீடுகளைச் சமர்ப்பித்திருந்தாலும், சுகாதார அமைச்சகமும் பொது சேவை ஆணையமும் அந்த கோரிக்கைகளை சேவையை விட்டு வெளியேறியது போல் கருதி நிராகரிக்க நடவடிக்கை எடுத்துள்ளதாக ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+
+மேலும், நாடு திரும்பிய 20-50 மருத்துவர்கள் மீண்டும் சேவையில் சேர விருப்பம் தெரிவித்து கோரிக்கைகளை சமர்ப்பித்துள்ளனர்.
+
+அத்துடன், பொது சேவை ஆணையத்தின் ஒப்புதல் இல்லாமல் அவர்களை மீண்டும் பணியமர்த்த முடியாது என்று சுகாதார அமைச்சகம் சம்பந்தப்பட்ட மருத்துவர்களிடம் தெரிவித்துள்ளது.
+
+சுகாதார அமைச்சினால் நடத்தப்பட்ட கண்காணிப்பு அழைப்புகளின் போது, நாட்டில் மருத்துவர்கள் மற்றும் நிபுணர்களின் எண்ணிக்கை தற்போது அங்கீகரிக்கப்பட்ட எண்ணிக்கையை விட அதிகமாக இருப்பதால், சேவைக்குத் திரும்ப கோரிய மருத்துவர்களுக்கு, பொது சேவை ஆணையம் தொடர்புடைய நியமனங்களைச் செய்வதில் சிரமம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8bd3acdd.json)
+
+---
+
+### பேஸ்புக் விருந்து ; 21 பேர் கைது
+
+*2025-07-27 11:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேஸ்புக்-விருந்து-21-பேர்-கைது/175-361804) · `ta`
+
+முகநூல் ஊடாக ஏற்பாடு செய்யப்பட்ட போதைப்பொருள் விருந்தை சுற்றி வளைத்து 21 இளைஞர்களை கைது செய்ததாக கடுவெல பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 15 சிகரெட்டுகள், பீல் என்ற போதை குளிசைகள் 07 மற்றும் போதைப்பொருட்களை கட்டுப்படுத்தப் பயன்படுத்தப்படும் பிற சாதனங்கள் பறிமுதல் செய்யப்பட்டன.
+
+கைது செய்யப்பட்டவர்கள் கொழும்பை சுற்றியுள்ள பல்வேறு பகுதிகளைச் சேர்ந்த 22 - 27 வயதுக்குட்பட்டவர்கள்  என கடுவெல பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a4f0b1c8.json)
+
+---
 
 ### “ஈஸ்டர் தாக்குதல்களைத் தடுத்திருக்கலாம்”
 
@@ -1753,57 +1803,5 @@ By and large, we had a hardworking team of officials both in the Ministry and th
 ...
 
 [Data](articles/cd33bfa6.json)
-
----
-
-### Kiss Cam and Culture of Contradiction
-
-*2025-07-26 13:44:00* · [`islandlk`](http://island.lk/kiss-cam-and-culture-of-contradiction/) · `en`
-
-Former Astronomer CEO Andy Byron and HR head Kristin Cabot, caught in an intimate moment on a kiss cam at a Coldplay concert, present a striking case study in the complex and contradictory nature of human social conduct. What appears on the surface as a simple lapse into private impropriety quickly becomes a public spectacle, revealing the enduring tension between societal norms and individual desires. Yet, more than a mere episode of personal indiscretion, this event exposes a fundamental paradox embedded in culture itself: a simultaneous denunciation and fascination with scandal that runs deep through human history and psyche.
-
-...
-
-[Data](articles/9709390e.json)
-
----
-
-### கம்போடிய எல்லையில் இராணுவ சட்டம் அமுல்: தாய்லாந்து எடுத்த முடிவு !
-
-*2025-07-26 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/220992) · `ta`
-
-தாய்லாந்து மற்றும் கம்போடியா ஆகிய நாடுகளுக்கு இடையிலான நில எல்லை விவகாரம் நாளுக்கு நாள் தீவிரமடைந்து வரும் நிலையில், கம்போடியாவின் எல்லையில் உள்ள பகுதிகளில் தாய்லாந்து இராணுவச் சட்டத்தை அமுல்படுத்துவதாக அறிவித்துள்ளது.
-
-கம்போடியாவின் எல்லையில் உள்ள தாய்லாந்தின் 8 மாவட்டங்களில் வெள்ளிக்கிழமை (25) முதல் இராணுவச் சட்டத்தை அமுல்படுத்துவதாக தாய்லாந்து இராணுவம் அறிவித்துள்ளது.
-
-இதற்கிடையில், கம்போடியாவுடனான எல்லை மோதல்களில் பலர் உயிரிழந்துள்ளதாகவும் இது யுத்தமாக மாறக்கூடும் என்றும் தாய்லாந்தின் தற்காலிக பிரதமர் பும்தம் செச்சாயாசாய் எச்சரித்துள்ளார்.
-
-இது நாடுகளுக்கும் இடையிலான மோதலையடுத்து தாய்லாந்து தனது எல்லைப் பகுதிகளில் இருந்து  ஒரு இலட்சத்துக்கும் மேற்பட்ட மக்களை வெளியேற்றியுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-அத்துடன் கம்போடிய எல்லையில் உள்ள 06 பாதுகாக்கப்பட்ட பகுதிகளை மூட தாய்லாந்தின் இயற்கை வளங்கள் மற்றும் சுற்றுச்சூழல் அமைச்சகமும் உத்தரவிட்டுள்ள நிலையில், அந்த பகுதியில் உள்ள 06 தேசிய பூங்காக்களை மூட தாய்லாந்து நடவடிக்கை எடுத்துள்ளது.
-
-◼️
-
-[Data](articles/9b585e88.json)
-
----
-
-### Sri Lanka urges diplomacy as Thailand Cambodia clashes intensify
-
-*2025-07-26 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-urges-diplomacy-as-thailand-cambodia-clashes-intensify-232865/) · `en`
-
-ECONOMYNEXT – Sri Lanka has called for a diplomatic measures to end a border clashes between Thailand and Cambodia which has claimed the lives of over 30 person on both sides and had led to tens of thousands fleeing border areas.
-
-The conflict has seen drones, artillery and also F-16 fighters deployed as fighting escalated.
-
-Cambodia has claimed that cluster bombs were used by Thailand and a historic temple has been shelled. Cambodia has close relations with China.
-
-Offers by Malaysia’s Mahathir Mohammed to mediate have been rejected.
-
-“The Government of Sri Lanka is concerned over the recent incidents along the Cambodia–Thailand border, which has resulted in the loss of life, displacement of civilians and damage to culturally significant sites,” the Foreign Ministry said in a statement.
-
-...
-
-[Data](articles/57c28fcd.json)
 
 ---

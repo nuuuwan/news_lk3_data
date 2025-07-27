@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 07:38:48**
+As of **2025-07-27 08:34:57**
 
 ## Newspaper Stats
 
-*Scraped **66,960** Articles*
+*Scraped **66,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 4,099
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
-adalk | 6,416
+adalk | 6,417
 adaderanalk | 8,217
-tamilmirrorlk | 9,667
+tamilmirrorlk | 9,668
 virakesarilk | 11,164
-adaderanasinhalalk | 11,505
+adaderanasinhalalk | 11,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.6%) of 66,960 articles have been extended.
+61,973 (92.5%) of 66,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### ඇළකට වැටී සිඟිත්තියක් මරුට
+
+*2025-07-27 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212678) · `si`
+
+දිඹුලපතන පොලිස් වසමේ රොසිටා වත්ත ප්‍රදේශයේදී නිවසක් ආසන්නයේ ඇති ඇළ මාර්ගයකට වැටී කුඩා දැරියක්  මියගොස් තිබේ.
+
+ඊයේ (26) උදෑසන කාලයේ මෙම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 04ක් වූ රොසිටා වත්ත, කොටගල ප්‍රදේශයේ පදිංචිව සිටි සිඟිත්තියකි.
+
+මෘත ශරීරය දික්ඔය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර දිඹුලපතන පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+මේ අතර පසුගිය 26 වන දින දහවල් කාලයේ පොළොන්නරුව පොලිස් වසමේ පත්තිනි පෙදෙස 02 ප්‍රදේශයේදී ඇති ඇල මාර්ගයක දිය නෑමට ගිය පුද්ගලයෙකු දියට වැටී මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, නවනගරය, මැදිරිගිරිය ප්‍රදේශයේ පදිංචිව සිටි 38  හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/c6f2ba3e.json)
+
+---
+
+### මහනුවර ප්‍රදේශයේදී බස් රථ රියදුරෙකුට පහරදීමේ සිද්ධියට සිව්දෙනෙකු අත්අඩංගුවට
+
+*2025-07-27 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212677) · `si`
+
+මහනුවර පොලිස් වසමේ හන්තාන ප්‍රදේශයේ පාසල් ළමුන් රැගෙන ගිය බස් රථයක රියදුරෙකුට පසුගිය 25 වැනි දින පහරදීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු සහ සැකකාරියක් මහනුවර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 21,26,27 සහ සැකකාරිය අවුරුදු 38 වයස්වල පසුවන මහනුවර ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+අනුරාධපුරයේ සිට හන්තාන කඳුවැටිය නැරඹීමට පාසල් සිසු සිසුවියන් පිරිසක් රැගෙන ගිය මෙම පෞද්ගලික බස් රථය ත්‍රිරෝද රථයක ගැටී තිබුණි.
+
+අනතුර සිදුවීමෙන් පසු බස් රථයේ රියදුරුට මහනුවර හන්තාන ප්‍රදේශයේ පිරිසක් විසින් පහර දෙනු ලැබීය.
+
+පහර කෑමෙන් තුවාල ලැබූ බස් රථ රියදුරු පසුව රෝහල්ගත කිරීමටද පියවර ගෙන ඇති අතර බස් රථයේ සිටි ගුරුවරුන් සහ දෙමාපියන් රියදුරුට පහර නොදෙන ලෙස දැන්වූද අදාළ පිරිස් විසින් රියදුරුට පහර දී තිබුණි.
+
+ඒ අනුව එම පහරදීමට සම්බන්ධ සැකකරුවන් තිදෙනා සහ සැකකාරිය පොලීසිය විසින් මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් ඊයේ (26) මහනුවර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට පොලීසිය පියවර ගෙන ඇති අතර එහිදී සැකකාරිය ඇප මත මුදා හැර හැරීමට මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+...
+
+[Data](articles/b16c36b6.json)
+
+---
 
 ### අමෙරිකාවේ සුපිරි වෙළෙඳසැලක පිහි ඇනුමක්
 
@@ -87,6 +133,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69891a30.json)
+
+---
+
+### உடுப்புத் துவைத்த குடும்பஸ்தர் உயிரிழப்பு
+
+*2025-07-27 05:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடுப்புத்-துவைத்த-குடும்பஸ்தர்-உயிரிழப்பு/175-361790) · `ta`
+
+இவ்வாறு உயிரிழந்தவர் சுப்ரமணியம்வீதி, சுன்னாகத்தைச்  சேர்ந்த சிவஞானம் சிவகுமார் (வயது 58) என்பவராவார்.
+
+மேற்படி நபர் தாவடியில் உள்ள பாடசாலை ஒன்றில் காவலாளியாக கடமை ஆற்றுவதாகவும் நேற்று சனிக்கிழமை மதியம் 1:30 மணியளவில் உடுப்பு துவைத்துக் கொண்டிருந்த போது மயங்கி விழுந்த நிலையில்  தெல்லிப்பளை வைத்தியசாலைக்கு கொண்டு சென்ற போது ஏற்கனவே அவர் உயிரிழந்துள்ளதாக வைத்தியர்களால் தெரிவிக்கப்பட்டுள்ளது.
+
+இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணைகளை  மேற்கொண்டு பிரதேச பரிசோதனைக்கு உத்தரவிட்டார்.  (a)
+
+◼️
+
+[Data](articles/4cda31d1.json)
 
 ---
 
@@ -381,6 +443,28 @@ U.S. President Donald Trump said on Saturday he was calling the leaders of Cambo
 ...
 
 [Data](articles/a8a2d955.json)
+
+---
+
+### පළාත් පාසල් 809ක් නාම මාත්‍රිකව ජාතික පාසල් කරලා
+
+*2025-07-26 19:39:50* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාසල්-809ක්-නාම-මාත්‍රිකව-ජාතික-පාසල්-කරලා/11-417516) · `si`
+
+මේ දක්වාම ශ්‍රී ලංකාවේ අනුමතවූ ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් නොමැති බව කෝපා කමිටුවේදී අනාවරණය වෙයි
+
+හැකි ඉක්මනින් ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් සකස්කිරීමට කටයුතු කරන ලෙස නිලධාරීන්ට උපදෙස්
+
+පසුගිය ආණ්ඩු සමයේ ආරම්භ කළ ජාතික පාසැල් ප්‍රමාණය 1000 දක්වා සංවර්ධනය කිරීමේ වැඩසටහන සම්බන්ධයෙන් සහ රාජ්‍ය අමාත්‍යාංශය යටතේ ආරම්භ කළ ව්‍යාපෘති 72ක් සම්බන්ධයෙන් කෝපා කමිටුව වාර්තාවක් කැඳවයි.
+
+අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය වර්තමානයේ කටයුතු කරන ආකාරය සම්බන්ධයෙන් කෝපා කමිටුවෙන් පැසසුම්.
+
+මේ දක්වාම ශ්‍රී ලංකාවේ අනුමතවූ ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් නොමැති බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී (COPA) අනාවරණය විය.
+
+මේ පිළිබඳ අනාවරණය වූයේ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ 2023 වර්ෂයේ විගණකාධිපති වාර්තාව හා වර්තමාන කාර්යසාධනය සම්බන්ධයෙන් සාකච්ඡා කිරීමට  රජයේ ගිණුම් පිළිබඳ කාරක සභාව (COPA)  ගරු පාර්ලිමේන්තු මන්ත්‍රී අරවින්ද සෙනරත් මහතාගේ සභාපතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/88068a1c.json)
 
 ---
 
@@ -1723,97 +1807,5 @@ At the event, the official launch of “RDB Quick App” online banking facility
 ...
 
 [Data](articles/7de5386b.json)
-
----
-
-### செம்மணியில் வெளிவந்த சவப் பெட்டி
-
-*2025-07-26 08:06:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-வெளிவந்த-சவப்-பெட்டி/175-361764) · `ta`
-
-மனிதப் புதைகுழி அடையாளம் காணப்பட்ட செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் மேலும் மனிதப் புதைகுழிகள் இருக்கலாம் எனச்  சந்தேகத்தின் அடிப்படையில் அகழ்வுப் பணிகள் ஆரம்பிக்கப்பட்ட புதிய பகுதியான தடயவியல் அகழ்வாய்வுத்தளம் இரண்டிலிருந்து சட்ட ரீதியாக உடற்கூற்றுப் பரிசோதனை செய்யப்பட்டு பிரேதப் பெட்டியில் அடக்கம் செய்யப்பட்ட சடலம் ஒன்று அடையாளம் காணப்பட்டது.
-
-நேற்று இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 20ஆம் நாள் அகழ்வுப் பணிகள் இடம்பெற்ற நிலையில் தடயவியல் அகழ்வாய்வுத்தளம் இரண்டிலிருந்து சட்ட ரீதியாக உடற்கூற்றுப் பரிசோதனை செய்யப்பட்டு பிரேதப் பெட்டியில் அடக்கம் செய்யப்பட்ட சடலம் ஒன்று அடையாளம் காணப்பட்டது.
-
-அந்தச் சடலம் நீதிமன்றத்தின் உத்தரவுக்கமைய உடற்கூற்றுப் பரிசோதனை செய்யப்பட்டது என்பதைச் சட்ட வைத்திய அதிகாரி பிரணவன் செல்லையா நீதிமன்றத்தின் கவனத்துக்குக் கொண்டு சென்றதன் அடிப்படையில் நீதிமன்றத்தின் உத்தரவுக்கமைய அது மீளவும் மண் போட்டுப் பாதுகாப்பாக மூடப்பட்டுள்ளது.
-
-தடயவியல் அகழ்வாய்வுத்தளம் இரண்டில் தொடர்ந்தும் அகழ்வுப் பணிகள் இடம்பெற்று வருகின்றமை குறிப்பிடத்தக்கது. (a)
-
-◼️
-
-[Data](articles/6d8b642c.json)
-
----
-
-### Sri Lanka to give one year visas to Maldives citizens
-
-*2025-07-26 08:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-one-year-visas-to-maldives-citizens-232854/) · `en`
-
-ECONOMYNEXT – Sri Lanka will give one year visa to citizens of the Maldives, restoring a facility for longer term visas, Foreign Minister Vijith Herath said.
-
-“Up to now we gave only short term visas for Maldives citizens, subject to certain observations,” Foreign Minister Vijitha Herath said in Colombo.
-
-“From August 01, we will give Maldives citizens one year visas.”
-
-At one time large numbers of Maldivians used to come to Sri Lanka especially for health tourism.
-
-But after rules were tightened, they could not come, he said.
-
-“Now we have changed the decision and Maldives citizens to would be given one-year visas,” he said.
-
-RELATED : Sri Lanka to give free tourist visas to 40 more countries: Minister
-
-Sri Lanka President Anura Kumara Dissanayake is to make state visit to the Maldives next week.
-
-Sri Lanka will also expand free visa to 47 countries from the current 7, he said. (Colombo/July26/2025)
-
-◼️
-
-[Data](articles/95ed7c51.json)
-
----
-
-### ගැබ්බර මුවදෙන දඩයමේ අලුත්ම කතාවක්
-
-*2025-07-26 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212651) · `si`
-
-ගලේවෙල මකුළුගස්වැව, හීනුගල රක්ෂිතයේ ගැබ්බර මුවදෙනකු ඝාතනය කළ සිද්ධියට අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් ප්‍රශ්නකිරීමේදී තවත් කරුණු රැසක් අනාවරණය කරගැනීමට පොලීසියට හැකිව තිබේ.
-
-මෙම ප්‍රශ්නකිරීමේ දී තවත් සැකකරුවෙකුද අත්අඩංගුවට ගෙන ඇති අතර, බෝර 12 බලපත්‍ර රහිත ගිනිඅවි 3ක්ද පොලීසිය සිය භාරයට ගත් බව දඹුල්ල සහකාර පොලිස් අධිකාරී ඩබ්ලිව්. ජී. එම්. එම්. චන්ද්‍රසිරි මහතා පැවසීය.
-
-ඊයේ (25) අත්අඩංගුවට ගත් පොලිස් සැරයන් දෙදෙනාගෙන් සහ සිවිල් පුද්ගලයාගෙන් සිදුකළ ප්‍රශ්නකිරීමේදී හෙළි වී ඇත්තේ, වහකෝට්ටේ ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකු මුව දඩයමේ පැමිණ ඇති බවය.
-
-එමෙන්ම ඔවුන්ගෙන් එක් පුද්ගලයෙකුගේ සහෝදරයෙකු පොලිස් සැරයන්වරයෙකු බව පවසා තිබේ.
-
-මුවදෙන ඝාතනය කිරීමෙන් පසු රැගෙන යාමටත්, ප්‍රදේශවාසීන් සිද්ධිය දුටු නිසාත් ඔවුන් මෙම පොලිස් සැරයන් සහෝදරයාගේ සහාය පතා ඇත.
-
-ඒ අනුව අදාළ සහෝදර පොලිස් සැරයන්වරයා තවත් පොලිස් සැරයන්වරයකුගේ සහය ලබාගෙන සහෝදරයා වෙඩිතැබූ මුවදෙන ආසන්නයට ගොස් ඇති බව පරීක්ෂණවලදී හෙළි වී තිබේ.
-
-...
-
-[Data](articles/71497ccb.json)
-
----
-
-### Cambodia calls for immediate ceasefire with Thailand
-
-*2025-07-26 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/110846/cambodia-calls-for-immediate-ceasefire-with-thailand) · `en`
-
-Cambodia has called for an “immediate” ceasefire with Thailand, after two days of cross-border fighting between the two South East Asian neighbours.
-
-Cambodia’s ambassador to the UN, Chhea Keo, said his country asked for a truce “unconditionally”, adding that Phnom Penh also wanted a “peaceful solution of the dispute”.
-
-Thailand has not publicly commented on the ceasefire proposal. It earlier declared martial law in eight districts bordering Cambodia.
-
-At least 16 people have been killed and tens of thousands displaced in both countries, who accuse each other of firing the first shots on Thursday.
-
-Thailand’s acting Prime Minister Phumtham Wechayachai on Friday warned that the clashes could “move towards war”.
-
-He said the fighting now included heavy weapons and had spread to 12 locations along the border.
-
-Thailand also accused Cambodia of firing into civilian areas and evacuated all villages deemed to be within the radius of its rockets.
-
-...
-
-[Data](articles/8bab812e.json)
 
 ---

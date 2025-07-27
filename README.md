@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-27 12:07:25**
+As of **2025-07-27 12:25:55**
 
 ## Newspaper Stats
 
-*Scraped **67,001** Articles*
+*Scraped **67,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,137 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 688
-economynextcom | 4,099
+economynextcom | 4,101
 islandlk | 4,106
 dailymirrorlk | 4,733
 dailyftlk | 4,734
 adalk | 6,421
-adaderanalk | 8,225
-tamilmirrorlk | 9,683
-virakesarilk | 11,166
+adaderanalk | 8,227
+tamilmirrorlk | 9,688
+virakesarilk | 11,176
 adaderanasinhalalk | 11,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.5%) of 67,001 articles have been extended.
+61,973 (92.5%) of 67,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-27 (Sunday)
+
+### 10,000 பொலிஸ் அதிகாரிகளை இணைக்கத் திட்டம்
+
+*2025-07-27 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-000-பொலிஸ்-அதிகாரிகளை-இணைக்கத்-திட்டம்/175-361817) · `ta`
+
+நாடளாவிய ரீதியில் போதைப்பொருள் சுற்றிவளைப்புகளை அதிகரிக்கும் நோக்கில் சுமார் 10 ஆயிரம் சிவில் பாதுகாப்பு அதிகாரிகளை பொலிஸ் சேவையில் இணைத்துக்கொள்வதற்கு தீர்மானித்துள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+நாட்டிலுள்ள அனைத்து பொலிஸ் நிலையங்களையும் மையப்படுத்தி சிவில் பாதுகாப்பு அதிகாரிகளை இணைத்துக்கொள்ள நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு பிரதியமைச்சர் சுனில் வட்டகல தெரிவித்துள்ளார்.
+
+நாட்டிற்குள் போதைப்பொருள் கடத்தல் வலையமைப்பை தடுப்பதனூடாக போதைப்பொருள் பாவனையை குறைக்க முடியுமெனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+நாடளாவிய ரீதியில் இரவு மற்றும் அதிகாலை வேளையில் சுற்றிவளைப்புகள் அதிகரிக்கப்பட்டுள்ளதாகவும் பிரதியமைச்சர் சுனில் வட்டகல தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6d67d954.json)
+
+---
+
+### குற்றச்சாட்டுகளை மறுத்தது இலங்கை பொலிஸ்
+
+*2025-07-27 12:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குற்றச்சாட்டுகளை-மறுத்தது-இலங்கை-பொலிஸ்/175-361816) · `ta`
+
+பெலவத்தையில் உள்ள ஒரு ஹோட்டல் இலவச உணவு வழங்குவதை நிறுத்தியதாகக் கூறப்பட்டதைத் தொடர்ந்து, அதிகாரிகள் பழிவாங்கும் நடவடிக்கையில் ஈடுபட்டதாக சமூக ஊடகங்களில் பரவும் குற்றச்சாட்டுகளை இலங்கை பொலிஸ் மறுத்துள்ளது.
+
+இந்த வைரல் காணொளி, ஜூலை 25, 2025 அன்று பெலவத்தை, பன்னிபிட்டி வீதியில் உள்ள ஒரு ஹோட்டலுக்கு நுகேகொடை உதவி பொலிஸ் கண்காணிப்பாளர் (ASP) மேற்கொண்ட வருகையுடன் தொடர்புடையது. பணம் மற்றும் தங்க நகைகள் திருடப்பட்டதாக ஹோட்டல் ஊழியர் ஒருவர் அளித்த முறைப்பாட்டின் பேரில் விசாரணை நடத்துவதற்காக இந்த வருகை மேற்கொள்ளப்பட்டது.
+
+பொலிஸ் அதிகாரிகள் முன்பு ஹோட்டலில் இருந்து இலவச உணவைப் பெற்றதாகவும், முறைப்பாடுகளைத் தொடர்ந்து இந்த நடைமுறை நிறுத்தப்பட்ட பிறகு, அதிகாரிகள் கோபத்தால் ஹோட்டலை குறிவைத்ததாகவும் சமூக ஊடகப் பதிவுகள் குற்றம் சாட்டின.
+
+...
+
+[Data](articles/819938e1.json)
+
+---
+
+### இலங்கையில் குவியும் சுற்றுலாப் பயணிகள்
+
+*2025-07-27 12:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-குவியும்-சுற்றுலாப்-பயணிகள்/175-361815) · `ta`
+
+இந்த  ஆண்டில் இதுவரை நாட்டிற்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1.3 மில்லியனைத் தாண்டியுள்ளதாக  இலங்கை சுற்றுலா மேம்பாட்டு ஆணையம் தெரிவித்துள்ளது.
+
+சுற்றுலா மேம்பாட்டு ஆணையத்தின் சமீபத்திய புள்ளிவிபரங்களின்படி,  1,313,232 வெளிநாட்டு சுற்றுலாப் பயணிகள் இலங்கைக்கு வந்துள்ளதாகக் குறிப்பிடுகின்றன.
+
+இவர்களில் 269,780 பேர் இந்தியாவிலிருந்தும், 124,652 பேர் ஐக்கிய இராச்சியத்திலிருந்தும், 114,644 பேர் ரஷ்யாவிலிருந்தும் வந்ததாகம் தெரிவித்துள்ளது.
+
+அத்துடன், ஜூலை மாதத்தில் இதுவரை 145,188 சுற்றுலாப் பயணிகள் நாட்டிற்கு வந்துள்ளதாக கூறியுள்ளன.
+
+◼️
+
+[Data](articles/29458132.json)
+
+---
+
+### கம்போடியா-தாய்லாந்து அமைதிப் பேச்சுக்கு இணக்கம்: டிரம்ப்
+
+*2025-07-27 12:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கம்போடியா-தாய்லாந்து-அமைதிப்-பேச்சுக்கு-இணக்கம்-டிரம்ப்/50-361814) · `ta`
+
+எல்லையில் மூன்று நாட்கள் நடந்த கொடிய மோதல்களுக்குப் பிறகு,  தாய்லாந்து மற்றும் கம்போடியாவின் தலைவர்கள் உடனடியாக போர்நிறுத்த பேச்சுவார்த்தைகளை மேற்கொள்ள ஒப்புக்கொண்டதாக அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் அறிவித்தார்.
+
+இந்த சண்டையில் குறைந்தது 33 பேர் கொல்லப்பட்டனர் மற்றும் 1,68,000 க்கும் மேற்பட்டோர் இடம்பெயர்ந்துள்ளனர்.
+
+தற்போது ஸ்காட்லாந்தில் உள்ள டிரம்ப், கம்போடிய பிரதமர் ஹன் மானெட் மற்றும் தாய்லாந்தின் தற்காலிக பிரதமர் பும்தம் வெச்சாயாச்சாயுடன் பேசியதாக ட்ரூத் சோஷியலில் பதிவிட்டுள்ளார்.
+
+தொடர்ச்சியான மோதல்கள் அமெரிக்காவுடனான எதிர்கால வர்த்தக ஒப்பந்தங்களை பாதிக்கக்கூடும் என்று எச்சரித்து, இரு தரப்பினரும் விரோதத்தை முடிவுக்குக் கொண்டுவர வேண்டும் என்று அவர் வலியுறுத்தினார். இரு தரப்பினரும் தாமதமின்றி அமைதிப் பேச்சுவார்த்தைகளைத் தொடங்க ஒப்புக்கொண்டதாக டிரம்ப் கூறினார்.
+
+◼️
+
+[Data](articles/cf38217e.json)
+
+---
+
+### Sri Lanka primary dealers in knowledge sharing drive
+
+*2025-07-27 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-primary-dealers-in-knowledge-sharing-drive-232916/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Association of Primary Dealers is enhancing knowledge in the financial community, an official said after hosting a forum on ongoing changes with new laws and operational changes to deb management.
+
+After the Public Debt Management Act No. 33 of 2024 debt securities issuance is shifting to the Treasury from the central bank.
+
+“The Public Debt Management Act stands as a landmark initiative in shaping a more structured and transparent debt management framework for Sri Lanka,” Romesh Gomez, President of the Association of Primary Dealers said.
+
+President’s Counsel Harsha Fernando, examined the impact on the gilt market and intermediaries of the new law as well as the Public Debt Management Office.
+
+Udeni Udugahapattuwa, Director General of the Public Debt Management Office, N D Y C Weerasinghe, Superintendent of Public Debt, Central Bank of Sri Lanka, and Naomal Goonewardena, Precedent Partner, Nithya Partners were resource persons.
+
+...
+
+[Data](articles/b13fc115.json)
+
+---
+
+### ஏற்றுமதித் துறையில் பாரிய வளர்ச்சி
+
+*2025-07-27 11:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதித்-துறையில்-பாரிய-வளர்ச்சி/175-361813) · `ta`
+
+இலங்கையின் 2025ஆம் ஆண்டின் முதல் ஐந்து மாதங்களில் ஏற்றுமதித் துறை குறிப்பிடத்தக்க நேர்மறையான செயல்திறனையும் நிலையான முன்னேற்றத்தையும் காட்டி வருவதாக இலங்கை ஏற்றுமதி மேம்பாட்டு வாரியத்தின் தலைவரும் தலைமை நிர்வாக அதிகாரியுமான மங்கள விஜேசிங்க கூறுகிறார்.
+
+ஊடகங்களுக்கு சனிக்கிழமை (26) அன்று கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+மேலும், 2025ஆம் ஆண்டின் முதல் ஐந்து மாதங்களில் மொத்த ஏற்றுமதி வருவாய் 6,933.35 மில்லியன் அமெரிக்க டொலர்கள் என்று  மங்கள விஜேசிங்க சுட்டிக்காட்டினார்.
+
+கடந்த 2024ஆம் ஆண்டின் இதே காலகட்டத்துடன் ஒப்பிடும்போது இது 7.14% வளர்ச்சியாகும் என்று அவர் மேலும் கூறினார்.
+
+“மே 2025 இல் பொருட்கள் மற்றும் சேவைத் துறைகளில் மொத்த ஏற்றுமதி வருவாய் 1,386.66 மில்லியன் அமெரிக்க டொலர்களாக இருந்தது.
+
+இது இலங்கையின் ஏற்றுமதித் துறையின் செயல்திறன் நிலை மற்றும் சந்தைகளை பன்முகப்படுத்தவும் போட்டித்தன்மையை மேம்படுத்தவும் மூலோபாய முயற்சிகளின் நேர்மறையான தாக்கத்தை பிரதிபலிக்கிறது என்று அவர் கூறுகிறார்.
+
+...
+
+[Data](articles/c6972a1d.json)
+
+---
 
 ### பாதுகாப்பு அமைச்சின் புதிய ஊடகப் பேச்சாளர் நியமனம்
 
@@ -45,6 +157,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/843cc0b7.json)
+
+---
+
+### பாதுகாப்பு அமைச்சின் புதிய பேச்சாளராக பிரிகேடியர் பிராங்கிளின் ஜோசப் நியமனம்
+
+*2025-07-27 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221053) · `ta`
+
+பாதுகாப்பு அமைச்சின் புதிய ஊடகப்பணிப்பாளர் மற்றும் பேச்சாளராக பிரிகேடியர் பிராங்கிளின் ஜோசப் உத்தியோக பூர்வமாக கடமைகளை ஏற்றுக்கொண்டுள்ளார்.
+
+இந்த அமைச்சின் ஊடகப்பணிப்பாளர் மற்றும் பேச்சாளராக் பணியாற்றிய கேர்ணல் நளின் ஹேரத் அப்பதவியிலிருந்து விடைபெற்றுள்ள நிலையிலேயே அவ்வெற்றிடத்துக்கு பிரிகேடியர் பிராங்கிளின் ஜோசப் நியமிக்கப்பட்டுள்ளார்.
+
+இலங்கை இராணுவ பொறியியலாளர் படையணியின் மூத்த அதிகாரியான பிரிகேடியர் பிராங்கிளின் ஜோசப் தொழில்முறை, தலைமைத்துவம் மற்றும் தேசிய பாதுகாப்பிற்கான ஆழ்ந்த அர்ப்பணிப்பு ஆகியவற்றால் மூன்று தசாப்தங்களுக்கும் மேலான சிறந்த சேவையை ஆற்றியுள்ளார்.
+
+அத்துடன், இப்பதவிக்கு நியமிக்கப்படுவதற்கு முன்னதாக, இலங்கை பொறியியலாளர் படையணியின் தளபதியாக செயற்பட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4c9ab967.json)
+
+---
+
+### சச்சினின் சாதனையை முறியடிப்பாரா ஜோ ரூட்?
+
+*2025-07-27 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221044) · `ta`
+
+சச்சின் டெண்டுல்கரை கிரிக்கட் தெய்வமாக கருதும் இந்திய இரசிகர்கள் ஜோ ரூட் அவரது சாதனையை நெருங்கவே முடியாது என சமூக ஊடகங்களில் பதிவிட்டு வருகின்றனர். ஆனால் ரூட் இதே சராசரியில் தொடர்ச்சியாக விளையாடினால் அவருக்கு 2,512 ஓட்டங்கள் ஒரு சவாலே இல்லையென ஏனையோர்  கூறுகின்றனர். தனது 13 வருட டெஸ்ட் வாழ்க்கையில் 157 போட்டிகளில் விளையாடியுள்ள ஜோ ரூட் ஒரு போட்டியில்  85 ஓட்டங்கள் என்ற கணக்கில் பெற்றிருக்கின்றார். 2021 ஆம் ஆண்டிலிருந்து அவர் விளையாடிய 60 டெஸ்ட் போட்டிகளில் அவர் போட்டி ஒன்றில் 93 ஓட்டங்கள் என்ற சராசரியைப் பெற்றுள்ளார். ஒரு போட்டியில் அவர் தனது வழக்கமான சராசரியான 85 ஓட்டங்கள் என்ற அளவில் பெற்றால் அவர் டெண்டுல்கரின் சாதனை ஓட்டங்களைப் பெற 30 டெஸ்ட் போட்டிகளில் விளையாட வேண்டும்.
+
+◼️
+
+[Data](articles/c84d86d3.json)
 
 ---
 
@@ -98,6 +240,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஐ.நா.வுக்கான கடித வரைபை தமிழ் அரசுக்கும் வழங்குவோம் - கஜேந்திரகுமார் பொன்னம்பலம் தெரிவிப்பு
+
+*2025-07-27 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221052) · `ta`
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக்கு அடுத்த மாதமளவில் அனுப்பி வைக்கப்படவுள்ள கூட்டுக்கடிதத்தின் வரைபினை இலங்கைத் தமிழரசுக்கட்சிக்கும் வழங்கவுள்ளோம். உள்ளடத்தில் அவர்களுக்கு உடன்பாடு ஏற்படும் பட்சத்தில் அவர்களின் கையொப்பத்தையும் உள்ளீர்த்து அனுப்புவதற்கு தயாராகவே உள்ளோம் என்று தமிழ்த் தேசிய மக்கள் முன்னணியின் தலைவரும்,  யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக்கு இலங்கையின் நடைபெற்ற இனப்படுகொலைக்கு சர்வதேச பொறுப்புக்கூறலை வலியுறுத்தி மீண்டும் கடிதமொன்றை அனுப்புவதற்கு அரசியல் கட்சிகள், சிவில் அமைப்புக்கள்,பாதிக்கப்பட்ட தரப்புக்கள் கூட்டிணைந்து ஏகமனதாக கடந்த ஞாயிற்றுக்கிழமை தீர்மானித்துள்ளன.
+
+அக்கூட்டத்தில் பங்கேற்பதற்கு இலங்கைத் தமிழரசுக்கட்சிக்கு அழைப்பு விடுக்கப்பட்டிருந்தபோதும்ரூபவ் அதில் பங்கேற்பதில்லை என்று கட்சி தீர்மானித்திருப்பதாக பதிலளிக்கப்பட்டிருந்தது. எனினும் எக்காரணத்துக்காக குறித்த கலந்துரையாடலில் பங்கேற்பதில்லை என்ற தீர்மானம் எடுக்கப்பட்டது என்பது தொடர்பில் வெளிப்படுத்தப்பட்டிருக்கவில்லை.
+
+...
+
+[Data](articles/d904a8ef.json)
+
+---
+
 ### ග්‍රීසිය පැතිර යන ලැව්ගිනි පාලනය කිරීමට යුරෝපා සංගමයේ සහාය පතයි
 
 *2025-07-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212684) · `si`
@@ -119,6 +277,74 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d882b031.json)
+
+---
+
+### இலங்கையில் முதல் அணுமின் நிலையத்திற்கான 5 தளங்கள்
+
+*2025-07-27 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221050) · `ta`
+
+அணுசக்தி திட்டத்தை மேம்படுத்தும் தொடர்ச்சியான முயற்சிகளின் ஒரு பகுதியாக, முதல் அணுமின் நிலையத்தை அமைப்பதற்கான ஐந்து சாத்தியமான தளங்களை இலங்கை அடையாளம் கண்டுள்ளதாக சர்வதேச அணுசக்தி முகவரகம் உறுதிப்படுத்தியுள்ளது. கடந்த 4 முதல் 18 ஆம் திகதி வரை நடைபெற்ற மீளாய்வுப் பணிக்கு பிறகு இந்தத் தகவல் வெளிப்படுத்தப்பட்டுள்ளது.
+
+அரசாங்கத்தின் கோரிக்கையின் பேரில் மேற்கொள்ளப்பட்ட இந்த ஒருங்கிணைந்த அணு உள்கட்டமைப்பு மீளாய்வு பணிக்குழு, 2022 ஆம் ஆண்டில் நடைபெற்ற முதல் கட்ட சர்வதேச அணுசக்தி முகவரகத்தின் மீளாய்வுகளில் வழங்கப்பட்ட பரிந்துரைகளை செயல்படுத்துவதில் இலங்கை அடைந்துள்ள முன்னேற்றத்தை மதிப்பிட்டது. இந்த பணிக்குழுவில் பல்கேரியா மற்றும் துருக்கி நாடுகளைச் சேர்ந்த நிபுணர்களும் உள்ளடங்கியுள்ளனர்.
+
+...
+
+[Data](articles/f0b7af28.json)
+
+---
+
+### கம்போடியா - தாய்லாந்து எல்லை மோதல்கள் ; இலங்கை கவலை
+
+*2025-07-27 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221047) · `ta`
+
+கம்போடியா-தாய்லாந்து எல்லையில்  ஏற்பட்டுள்ள மோதல்கள் குறித்து அரசாங்கம் ஆழ்ந்த கவலையை வெளிப்படுத்தியுள்ளது. இந்த மோதல்கள் உயிரிழப்புகளையும், பொதுமக்களின் இடப்பெயர்வுகளையும், கலாச்சார ரீதியாக முக்கியத்துவம் வாய்ந்த இடங்களுக்கு சேதங்களையும் ஏற்படுத்தியுள்ளதாக அரசாங்கம் குறிப்பிட்டுள்ளது.
+
+அகிம்சை, கருணை மற்றும் சமாதான சகவாழ்வு ஆகியவற்றை மையமாகக் கொண்ட புத்த பகவானின் காலத்தால் அழியாத போதனைகளால் வழிநடத்தப்படும் நாடாக, இலங்கை இரு நாடுகளையும் அமைதியான முறையில் வேறுபாடுகளைத் தீர்க்கும் நோக்கில் விரைவான இராஜதந்திர பேச்சுவார்த்தைகளில் ஈடுபடுமாறு வலியுறுத்தியுள்ளது.
+
+இந்த மோதல்கள் பிராந்திய ஸ்திரத்தன்மைக்கு அச்சுறுத்தலாக அமைவதுடன், இரு நாடுகளின் மக்களுக்கும் பெரும் துன்பத்தை விளைவிப்பதாக அரசாங்கம் சுட்டிக்காட்டியுள்ளது. வரலாற்று ரீதியாகவும், கலாச்சார ரீதியாகவும் நெருங்கிய உறவுகளைக் கொண்டுள்ள கம்போடியாவும் தாய்லாந்தும், தங்களுக்கு இடையிலான பிரச்சினைகளை பேச்சுவார்த்தை மூலம் தீர்த்துக்கொள்ள வேண்டும் என்பதே இலங்கையின் நிலைப்பாடாகும் என குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/101ce1dd.json)
+
+---
+
+### 'கூட்டாக இனத்தை அழிக்கின்ற மனோநிலை ஸ்ரீலங்கா அரசிற்கு தொடர்ந்தும் இருந்திருக்கின்றது என்பதையே மனித புதைகுழிகள் வெளிப்படுத்தியுள்ளன" - செம்மணி மனித புதைகுழி அகழ்வை பார்வையிட்ட கஜேந்திரகுமார்
+
+*2025-07-27 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221051) · `ta`
+
+கூட்டாக இனத்தை அழிக்கின்ற மனோநிலை ஸ்ரீலங்கா அரசிற்கு தொடர்ந்தும் இருந்திருக்கின்றது என்பதையே செம்மணி மனித புதைகுழியும் ஏனைய மனித புதைகுழிகளும் வெளிப்படுத்தியுள்ளன என தமிழ் தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்
+
+இதுவரையில் 89 உடல்கள் அடையாளப்படுத்தப்பட்டுள்ளன, மேலதிகமாகவும் பல உடல்கள் உறுதிப்படுத்தப்படக்கூடிய நிலையில் காணப்படுகின்றன.
+
+இந்த மனிதப்புதைகுழி என்பது கிட்டத்தட்ட 96ம் ஆண்டு காலப்பகுதியிலிருந்து மூடிமறைக்கப்பட்ட ஒரு விடயம்.
+
+அப்போது செம்மணியில் 15 உடல்கள் கண்டுபிடிக்கப்பட்ட நிலையில் அன்றைய சந்திரிகாகுமாரதுங்க அரசாங்கம் அன்றைய வெளிவிவகார அமைச்சர் லக்ஸ்மன் கதிர்காமரை பயன்படுத்தி இது கிருஷாந்தி குமாரசுவாமி கொலைவழக்கில் குற்றவாளியாக நிரூபிக்கப்பட்ட சோமரட்ண ராஜபக்ச எரிச்சலால், அரசாங்கத்தின் மீதான கோபத்தில் சொன்ன பொய் என்ற கோணத்தில் உலகையே நம்பவைத்ததுதான் அன்றைய காலத்திலிருந்து இன்றுவரைக்கும் காணப்படுகின்றது.
+
+...
+
+[Data](articles/6ac079e2.json)
+
+---
+
+### ஜூலை மாதத்தின் இதுவரையான காலப்பகுதியில் 145,000 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை
+
+*2025-07-27 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221048) · `ta`
+
+ஜூலை மாதத்தின் இதுவரையான காலப்பகுதியில் 145,188 சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை தந்துள்ளதாக சுற்றுலா அபிவிருத்தி அதிகார சபையின் தரவுகள் தெரிவிக்கின்றன.
+
+இந்தியாவில் இருந்து அதிகளவாக 27,786  (19.1% ) சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+
+இதேவேளை,  ஐக்கிய இராச்சியத்திலிருந்து 16,750 பேரும், நெதர்லாந்திலிருந்து 10,809 பேரும், சீனாவிலிருந்து 5,904 பேரும் மற்றும் பிரான்ஸில் இருந்து 7,732 பேரும் சுற்றுலா பயணிகளாக நாட்டுக்கு வருகை தந்துள்ளனர்.
+
+அத்துடன்,  ஜூன் மாதத்திற்கான அண்மைய புள்ளிவிவரங்களின்படி,  இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நாட்டுக்கு வருகை தந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,313,232 ஆக அதிகரித்துள்ளது.
+
+அவர்களில், 269,780 பேர் இந்தியாவைச் சேர்ந்தவர்கள், 124,652 பேர் இங்கிலாந்தைச் சேர்ந்தவர்கள் மற்றும் 114,644 பேர் ரஷ்யாவைச் சேர்ந்தவர்கள் என குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/aa16498d.json)
 
 ---
 
@@ -156,6 +382,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Israeli military says it will pause fighting in 3 areas of Gaza to address surging hunger
+
+*2025-07-27 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/110871/israeli-military-says-it-will-pause-fighting-in-3-areas-of-gaza-to-address-surging-hunger) · `en`
+
+The Israeli military said Sunday it would begin a “tactical pause” in fighting in three areas of Gaza as part of steps to address a worsening humanitarian situation.
+
+The military said it would halt activity in Muwasi, Deir al-Balah and Gaza City from 10:00 a.m. to 8:00 p.m. local time every day until further notice, beginning Sunday. The military said it was not operating in those areas, but there has been fighting and strikes in each in recent weeks.
+
+In a statement, the military said it would also designate secure routes that would be to help aid agencies deliver food and other supplies to people across Gaza.
+
+The announcement that the military would pause some fighting comes after months of experts’ warnings of famine amid Israeli restrictions on aid. International criticism, including by close allies, has grown as several hundred Palestinians have been killed in recent weeks while trying to reach food distribution sites.
+
+...
+
+[Data](articles/14a7076d.json)
+
+---
+
 ### பேஸ்புக் விருந்து ; 21 பேர் கைது
 
 *2025-07-27 11:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேஸ்புக்-விருந்து-21-பேர்-கைது/175-361804) · `ta`
@@ -169,6 +413,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a4f0b1c8.json)
+
+---
+
+### தனிமையில் இருந்த பெண்ணின் கையை பிடித்து இழுக்க முற்பட்ட திருமணசேவை புரோக்கருக்கு  விளக்கமறியல்
+
+*2025-07-27 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221043) · `ta`
+
+காத்தான்குடி பொலிஸ் பிரிவிலுள்ள பிரதேசத்தில் வீடொன்றுக்குள் அத்துமீறி உள்நுழைந்து தனிமையில் இருந்த பெண்ணின் கையைப்பிடித்து இழுக்க முற்பட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட திருமணசேவை புரோக்கரை எதிர்வரும் 12 ஆம் திகதி வரை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதமன்ற நீதவான் வெள்ளிக்கிழமை (25) உத்தரவிட்டார்.
+
+குறித்த பிரதேசத்தில் கடந்த ஒருவருடத்திற்கு முன்னர் திருமண புரோக்கர் பெண்ணொருவரை ஆணொருவருக்கு திருமணம் முடித்துவைத்து அதற்கான தரகு பணத்தை பெண் மற்றும் மாப்பிளை வீட்டாரிடம் பெற்றுக் கொண்டார்.
+
+இந்நிலையில் அண்மையில் திருமணம்முடித்த பெண்ணின் கணவர் வேலைக்குச் சென்ற பின்னர் வீட்டில் பெண் தனிமையில் இருந்து வந்துள்ள நிலையில் வீட்டின் வாசல் கதவை திறந்து சட்டவிரோதமாக உட் சென்று வாசல் கதவில் அவரது தொலைபேசி இலக்கத்தை பொரித்துவிட்டு சென்றுள்ளார்.
+
+...
+
+[Data](articles/b11950dd.json)
 
 ---
 
@@ -188,6 +448,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இந்தியப் பெருங்கடல் அமைதிக்கான பிராந்தியம் - ரணில் விக்கிரமசிங்கவின் தெளிவுரை
+
+*2025-07-27 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/221041) · `ta`
+
+தாய்வானில் போர் ஏற்பட்டால் அது இந்தியப் பெருங்கடலில் பாதிப்பை ஏற்படுத்தாது. ஏனெனில் இந்தியப் பெருங்கடல் பிராந்தியம் அமைதிக்கான பிராந்தியம் என்பதை புவிசார் அரசியல் போட்டியாளர்கள் ஏற்றுக்கொள்ள வேண்டும். பிராந்தியத்தின் மூலோபாய முக்கியத்துவத்தையும், இங்கு ஸ்திரத்தன்மையை நிலைநாட்டுவதன் அவசியத்தையும் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/a5bfd426.json)
+
+---
+
 ### பெண்ணின் வீட்டுக்குள் நுழைந்த கல்யாண தரகர் கைது
 
 *2025-07-27 10:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-வீட்டுக்குள்-நுழைந்த-கல்யாண-தரகர்-கைது/175-361801) · `ta`
@@ -201,6 +473,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/42a69a7f.json)
+
+---
+
+### வரிக் குறைப்பு குறித்து அமெரிக்காவுடன் இவ்வாரம் முக்கிய பேச்சு
+
+*2025-07-27 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221039) · `ta`
+
+இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு சமீபத்தில் அறிவிக்கப்பட்ட 30 சதவீத வரியின் தாக்கத்தை தணிக்கும் முயற்சியில், அமெரிக்காவுடன் இவ்வாரம் முக்கிய பேச்சுவார்த்தையில் அரசாங்கம் ஈடுப்பட உள்ளது. இருப்பினும் எதிர்வரும் ஆகஸ்ட்  மாதம் முதலாம் திகதியுடன் அமெரிக்கா விதித்த 30 சதவீத வரி நடைமுறைக்கு வரவுள்ளதுடன், இலங்கை ஏற்றுமதியாளர்களுக்கு இந்த வரி விதிப்பு பெரும் சவாலை ஏற்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/646d7ef1.json)
 
 ---
 
@@ -255,6 +539,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6e0fe90b.json)
+
+---
+
+### Sri Lanka President urged to intervene in Thailand–Cambodia dispute
+
+*2025-07-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110869/sri-lanka-president-urged-to-intervene-in-thailandcambodia-dispute) · `en`
+
+A request has been made to President Anura Kumara Dissanayake to intervene as a mediator in order to peacefully resolve the ongoing tensions between Thailand and Cambodia.
+
+Venerable Omalpe Sobhitha Thera stated that the President has full authority to act in his capacity and emphasized the importance of holding prompt discussions with the authorities of both countries, with the involvement of Buddhist monks.
+
+Ven. Omalpe Sobhitha Thera also urged both Thailand and Cambodia as two Buddhist nations, to address the issue in a compassionate manner, giving priority to the heritage they have preserved for thousands of years.
+
+The Thera stated a proposal regarding the intervention has been unanimously adopted by the Supreme Council of the Sangha and therefore Ven. Sobhitha Thera called on the authorities of Thailand and Cambodia to direct their attention on the matter promptly.
+
+...
+
+[Data](articles/62682aaf.json)
 
 ---
 
@@ -633,6 +935,26 @@ Accordingly, police have taken into custody three males and one female involved 
 ...
 
 [Data](articles/b16c36b6.json)
+
+---
+
+### Sri Lanka to market Mannar oil exploration blocks after appointing consultant
+
+*2025-07-27 07:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-market-mannar-oil-exploration-blocks-after-appointing-consultant-232913/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning a fresh licensing round for oil exploration blocks in Mannar basin, after appointing a marketing consultant, Power and Energy Minister Kumar Jayakody said.
+
+“The cabinet gave approval to appoint a marketing consultant to attract investors for the area (Mannar basin),” Minister Jayakody told parliament on July 25.
+
+“After a consultant or consultancy company is appointed we will being marketing the blocks.”
+
+India’s Cairn found hydrocarbon deposits in a deep sea exploration well but it was deemed too expensive extract at the time.
+
+There were no active exploration licenses at the moment, Minister Jayakody said.
+
+◼️
+
+[Data](articles/39f4cc52.json)
 
 ---
 
@@ -1503,325 +1825,5 @@ In addition to the dinghies, 05 unauthorized fishing nets were also seized durin
 ◼️
 
 [Data](articles/98cb5ba6.json)
-
----
-
-### Is an air accident a crime?
-
-*2025-07-26 15:54:00* · [`islandlk`](http://island.lk/is-an-air-accident-a-crime/) · `en`
-
-RCyAF/ SLAF, Air Ceylon, Air Lanka, Singapore Airlines Ltd, SriLankan Airlines Ltd. Former Member, Accident Investigation Team CAASL, Organisation of Professional Associations (OPA) Representative for ‘Aviation’
-
-(This article was first published in The Island over 20 years ago. It is reproduced given its relevance to the current situation in the light of the Air India Boeing B787 crash on 12 June 2025.)
-
-In 1852, a Balloonist crashed in France. Although criminal proceedings were contemplated it was declared that since his descent was involuntary, he would be exempt from any court action. Besides that, when he was losing altitude he had shouted for help! When in September 1908, Orville Wright crashed and killed Lt. Thomas E Selfridge (the first Air Crash victim of a powered aircraft), no criminal action was taken against the pilot.
-
-...
-
-[Data](articles/902d5cf8.json)
-
----
-
-### UNESCO defers decision to recognise Kapilavastu, a site of global Buddhist significance
-
-*2025-07-26 15:53:00* · [`islandlk`](http://island.lk/unesco-defers-decision-to-recognise-kapilavastu-a-site-of-global-buddhist-significance/) · `en`
-
-The Government of Nepal’s official nomination to designate Tilaurakot–Kapilavastu — the ancient city of the Shakya Kingdom, described in the early Buddhist texts as the childhood home of the Buddha and the site of his father King Suddhodhana’s palace — as a World Heritage Site was reviewed and deferred by the United Nations Educational, Scientific and Cultural Organization (UNESCO) on July 10, 2025.
-
-The nomination, titled ‘Tilaurakot–Kapilavastu: The Archaeological Remains of the Ancient Shakya Kingdom’, was considered during the 47th session of the World Heritage Committee held in Paris.
-
-The submission highlights the fact that Tilaurakot is identified as ancient Kapilavastu, the capital of the Sakyan kingdom, the childhood home of the Buddha.
-
-In other words, Tilaurakot is the archaeological site identified as the location of ancient Kapilavastu — the capital of the Sakyan kingdom and the place where the Buddha spent his early life, including at the palace of his father, King Suddhodhana.
-
-...
-
-[Data](articles/cb9ec275.json)
-
----
-
-### Making friends with former Swedish Prime Minister, 91, at a bus stop
-
-*2025-07-26 15:51:00* · [`islandlk`](http://island.lk/making-friends-with-former-swedish-prime-minister-91-at-a-bus-stop/) · `en`
-
-My friend Priyanwada and I were driving along a street in the Tyreso municipality of Stockholm, Sweden, and she suddenly stopped her car recognizing a familiar figure at a bus stop and saying, “Ah, our former prime minister is at the bus stop.”
-
-Ingvar Carlsson, a two-time prime minister of Sweden, was waiting for a bus to travel to Stockholm for a political event. He only drives to Stockholm when it is absolutely necessary. “People recognize me on the bus and train and talk to me. I like that,” he says.
-
-Carlsson, who sat in the Swedish Parliament for all of 38 years, is a well-known political leader not only in Sweden but also in Europe.  Sweden, one of the world’s leading welfare states, is headed by King Carl Gustaf; it is the third largest country in the European Union with a territory totaling 450,295 square kilometers.
-
-...
-
-[Data](articles/85a435c0.json)
-
----
-
-### சர்வதேச நீதி கோரிக்கைக்கு ஆதரவு தெரிவித்து கொழும்பில் போராட்டம்
-
-*2025-07-26 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221004) · `ta`
-
-வடக்கு, கிழக்கு தமிழர்கள் கோரும் சர்வதேச நீதி பொறிமுறையூடான நீதி கோரிக்கைக்கு ஆதரவு தெரிவித்து, மாண்புமிகு மலையக மக்கள் சிவில் சமூகக் கூட்டிணைவு கொழும்பில் அமைந்துள்ள ஐக்கிய நாடுகள் சபையின் இலங்கை காரியாலயத்திற்கு முன்பாக இன்று சனிக்கிழமை (26)  ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்திருந்தது.
-
-◼️
-
-[Data](articles/cfacc480.json)
-
----
-
-### Network In Action makes its Lankan debut with launch event in Colombo
-
-*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/network-in-action-makes-its-lankan-debut-with-launch-event-in-colombo/) · `en`
-
-The global business networking platform, Network In Action (NIA), officially launched its Sri Lanka chapter at an exclusive event held at Cinnamon Grand, Colombo. The invite-only evening brought together a selected group of entrepreneurs, professionals, and business leaders from across industries. Hosted by NIA’s Sri Lanka Regional Partners, Jayathas Kamalanathan and Pamatheesan Kopalapillai, the launch offered a firsthand experience of how NIA operates and what sets its networking model apart from conventional approaches. The event kicked off at 6 p.m. on 9 July, and featured a keynote presentation from the leadership team, followed by a live demonstration of an NIA-style group session.
-
-...
-
-[Data](articles/19c42deb.json)
-
----
-
-### Ceylinco Life concludes Family Savari 18 with spectacular Malaysia tour for policyholder families
-
-*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/ceylinco-life-concludes-family-savari-18-with-spectacular-malaysia-tour-for-policyholder-families/) · `en`
-
-Ceylinco Life recently concluded the 18th edition of the ‘Family?Savari’ rewards programme with a breathtaking all-expenses-paid holiday tour to Malaysia for its policyholder winners and their families.
-
-From 13th to 16th June, 10 policyholders and their family members – a total of 40 guests – were treated to a luxurious three-night, four-day tour in Malaysia, accompanied by Family Savari celebrity ambassadors Roshan Ranawana, his wife Kushlani, and their son Minneth.
-
-Ceylinco Life covered all costs, including airfares, accommodation, meals, transport and tours. The itinerary featured visits to iconic attractions such as the Petronas Twin Towers, Lake Symphony Light & Water Show, KLCC Aquarium, the scenic Genting Highlands with cable-car rides, and the spiritual Batu caves. The tour culminated in an exclusive private gala dinner for the families to celebrate together.
-
-...
-
-[Data](articles/296c6e05.json)
-
----
-
-### ComBank supports preschool education in collaboration with UNICEF
-
-*2025-07-26 15:45:00* · [`islandlk`](http://island.lk/combank-supports-preschool-education-in-collaboration-with-unicef/) · `en`
-
-Demonstrating its continuing commitment to education, the Commercial Bank of Ceylon recently handed over the fully refurbished Muthukumarana Preschool at Madagama in the Monaragala District, under a partnership with UNICEF to uplift the standard of preschool education in Sri Lanka.
-
-The handover marks the successful completion of the Bank’s contribution to the UNICEF-led project titled ‘Reaching the most marginalized with quality preschool education – Enabling all children in Sri Lanka to play, learn, and reach their full potential.’ This initiative focuses on enhancing access to safer, more equitable, and quality early learning environments for children in remote communities.
-
-Present at the ceremony from Commercial Bank were the Regional Manager – Uva Sabaragamuwa Region, Chamenda Kalugamage, and the Branch Manager – Monaragala, Upali Marasinghe. Representing UNICEF were the Chief of Communication, Advocacy and Partnerships, Bismarck Swangin, and the Education Officer, Sugath Adikaram.
-
-...
-
-[Data](articles/d46e5b64.json)
-
----
-
-### Sri Lanka Insurance Suba Pathum Scholarship awards 225 Scholarships for School Children
-
-*2025-07-26 15:39:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-suba-pathum-scholarship-awards-225-scholarships-for-school-children/) · `en`
-
-A total of Rs. 24.7mn worth of scholarships for the year 2025
-
-Sri Lanka Insurance Life – The Nations’ protector, over the years have had contributed to the betterment of the future generation of the country. Sri Lanka Insurance Life (SLICLL) is not only one of the most profitable state owned enterprises but also a responsible corporate citizen that enriches the community it operates in.
-
-...
-
-[Data](articles/6caa63b4.json)
-
----
-
-### Trinity Global rolls out LTW 200 and BO2, driving Lanka’s e-mobility shift
-
-*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/trinity-global-rolls-out-ltw-200-and-bo2-driving-lankas-e-mobility-shift/) · `en`
-
-Trinity Global Pvt Ltd, a rising force in Sri Lanka’s electric mobility sector, launched its much-anticipated electric two-wheeler lineup at a vibrant ceremony held at Canelra Hall, Kadawatha, on Thursday (24).
-
-The company unveiled its flagship model, the LTW 200, and entry-level model, the BO2, marking a significant milestone in its mission to revolutionise personal transportation.
-
-The LTW 200, powered by a 2000W motor and advanced LifePO? battery, offers a class-leading range of 200 km per charge, along with enhanced safety, thermal stability, and a battery lifespan of up to 3,000 cycles. Trinity backs the vehicle with a 3-year battery warranty and 2-year motor warranty.
-
-The BO2, aimed at urban commuters, delivers 100 km per charge with a 1000W motor, making it an affordable gateway to electric mobility. It shares the same robust battery technology and warranty coverage.
-
-...
-
-[Data](articles/480eb0ee.json)
-
----
-
-### Dialog, HNB General Insurance launch parametric insurance for fishermen via Sayuru App
-
-*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/dialog-hnb-general-insurance-launch-parametric-insurance-for-fishermen-via-sayuru-app/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has partnered with HNB General Insurance, one of Sri Lanka’s leading insurance providers, to collaboratively address the growing risks posed by extreme weather, particularly rainfall, cyclones, wind speed and temperature. These parametric insurance solutions will be introduced through the Dialog Sayuru App.
-
-...
-
-[Data](articles/8a86ae4a.json)
-
----
-
-### HNB Assurance ranked among Lanka’s top 40 best workplaces by Great Place to Work
-
-*2025-07-26 15:38:00* · [`islandlk`](http://island.lk/hnb-assurance-ranked-among-lankas-top-40-best-workplaces-by-great-place-to-work/) · `en`
-
-HNB Assurance PLC has been recognized by Great Place to Work Sri Lanka as one of the Top 40 Best Workplaces in the country and was also proudly placed 09th among large-scale organizations.
-
-This recognition is based on feedback directly from employees and a thorough assessment of the company’s culture and efforts to build a positive and supportive work environment.
-
-Lasitha Wimalaratne, Executive Director / CEO of HNB Assurance PLC, stated, “We are truly proud to be ranked among the best workplaces in Sri Lanka and I’d like to convey my sincere thanks to Great Place to Work for this recognition. What makes this award meaningful is that it reflects the culture we have built together. Our people are the driving force behind our success, and as we move forward, we remain committed to creating a workplace they can continue to feel proud to be a part of.”
-
-...
-
-[Data](articles/c89b4d0e.json)
-
----
-
-### Sri Lanka sees foreign selling in rupee bonds after two-week buying
-
-*2025-07-26 15:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-selling-in-rupee-bonds-after-two-week-buying-232911/) · `en`
-
-ECONOMYNEXT – Foreign investors sold Sri Lanka government securities for the first time in three weeks as they shifted for safe havens amid optimism the U.S. could soon reach a trade deal with the European Union.
-
-Foreign investors sold 405 million rupee ($1.35 million) worth of government securities in the week ended on July 24, after enjoying a total inflow of 14.22 million dollars in the previous two weeks.
-
-Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-The island nation has, however, enjoyed a total inflow of 28.6 billion rupees (around $95.3 million) into rupee bonds since December 26 last year through July 24, the data showed.
-
-...
-
-[Data](articles/340d48a5.json)
-
----
-
-### ජනාධිපති අරමුදලෙන් නැගෙනහිර පළාත් විෂය නිලධාරීන් දැනුවත් කෙරේ
-
-*2025-07-26 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212662) · `si`
-
-ජනාධිපති අරමුදලේ කටයුතු ප්‍රාදේශීය මට්ටම දක්වා විමධ්‍යගත කිරීමේ විශේෂ පුහුණ වැඩමුළු මාලාවේ නැගෙනහිර පළාත් වැඩමුළුව අද (26) මඩකලපුව දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත්විණි.
-
-ජනාධිපති අරමුදලේ සියලු කාර්යයන් ප්‍රාදේශීය ලේකම් කාර්යාල දක්වා විමධ්‍යගත කිරීමත් සමඟ ඊට ලැබෙන අයඳුම්පත් සංඛ්‍යාව ඉහළ ගොස් ඇත. ඒ සමඟම පරිගණක මූලික කරගත් නව මාර්ගගත ක්‍රමවේදය (Online System) පිළිබඳව ප්‍රාදේශීය ලේකම් කාර්යාලවල අදාළ කාර්ය මණ්ඩලය දැනුවත් කිරීම හා පුහුණු කිරීම අත්‍යවශ්‍ය වී තිබේ.
-
-ඒ අනුව පළාත් මට්ටමින් ක්‍රියාත්මක පුහුණු වැඩමුළු මාලාවේ නැගෙනහිර පළාත් වැඩමුළුව  පැවති අතර අම්පාර, මඩකලපුව, ත්‍රිකුණාමලය යන දිස්ත්‍රික්කයන්හි ජනාධිපති අරමුදල සම්බන්ධයෙන් කටයුතු කරනු ලබන විෂය නිලධාරීහු 100කට වැඩි පිරිසක් ඊට සහභාගි වී සිටියහ.
-
-මෙම වැඩසටහන මගින්, නැගෙනහිර පළාතේ ජනාධිපති අරමුදලේ ප්‍රතිලාභීන් ප්‍රමාණය වැඩි කිරීම, ප්‍රතිලාභීන් වෙත ඉහළ ගුණාත්මක සේවාවක් ලබා දීම, නවීකරණය වූ මාර්ගගත ක්‍රමවේද හදුන්වා දීම හා වඩාත් කඩිනම් සේවාවන් සැපයීම පිණිස අදාළ  දැනුම හා පුහුණුව ලබා දීමට අපේක්ෂිතය.
-
-...
-
-[Data](articles/eecf7dfa.json)
-
----
-
-### யுத்தம்நடந்தபோது  அரசிற்கு முற்றுமுழுதாக துணை நின்ற ஐநா யுத்தம் முடிவடைந்த பின்னர் இனஅழிப்பு செய்தவர்களிடமே பொறுப்புக்கூறலை ஒப்படைத்துக்கொண்டு வருவது  மிகவும் ஏமாற்றகரமான விடயம்-  செல்வரசா கஜேந்திரன்
-
-*2025-07-26 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221000) · `ta`
-
-யுத்தம்நடந்தபோது ஸ்ரீலங்கா அரசிற்கு முற்றுமுழுதாக துணை நின்ற ஐநா யுத்தம் முடிவடைந்த பின்னர் இனஅழிப்பு செய்தவர்களிடமே பொறுப்புக்கூறலை ஒப்படைத்துக்கொண்டு வருவது என்பது மிகவும் ஏமாற்றகரமான விடயம் என தமிழ் தேசிய மக்கள் முன்னணியின் முன்னாள் நாடாளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தெரிவித்துள்ளார்.
-
-தமிழர்களுக்கு இழைக்கப்பட்ட இன அழிப்பிற்கான தீர்வானது சர்வதேச நீதிப் பெறிமுறைகள் ஊடாகவே வழங்கப்பட முடியும் என்பதை வலியுறுத்தி இன்றையதினம் செம்மணி புதைகுழிக்கு அண்மித்த பகுதியில் முன்னெடுக்கப்பட்டபோராட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவித்துள்ளதாவது
-
-இலங்கை அரசாங்கம் தொடர்ச்சியான கட்டமைப்பு சார் இன அழிப்பு நடவடிக்கைகளை மேற்கொண்டுவந்துஇஇனப்படுகொலைiயும் மேற்கொண்டுவந்து அதன் உச்சகட்டமாக 2009ம் ஆண்டு ஒருஇலட்சத்திற்கும் அதிகமான தமிழ் மக்கள் ஸ்ரீலங்கா ஆயுதப்படைகளினாலே மிகக்கொடுரமான முறையிலே கொன்றொழிக்கப்பட்டுள்ளார்கள்.
-
-...
-
-[Data](articles/34c810ec.json)
-
----
-
-### ජපාන ක්‍රිකට් කණ්ඩායම අගෝස්තුවේ ශ්‍රී ලංකාවට
-
-*2025-07-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212661) · `si`
-
-ජපාන ජාතික පිරිමි ක්‍රිකට් කණ්ඩායම එළැඹෙන අගෝස්තු මාසයේ දී ශ්‍රී ලංකාවේ සංචාරයක නිරතවීමට නියමිතව ඇත.
-
-එළැඹෙන විස්සයි20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලැබීමේ ආසියා - පැසිෆික් කලාපීය තරගාවලියට පෙර සූදානමක් ලෙස ඔවුන් මෙම සංචාරය සිදුකරනු ලබයි.
-
-මේ සඳහා ක්‍රීඩාකරන ශ්‍රී ලංකා සංචිතය නැගීඑන හා 19න් පහළ ක්‍රීඩකයින්ගේ එකතුවක් නම් කිරීමට නියමිතව ඇති බව සඳහන්.
-
-අගෝස්තු මස 2වනදා සිට 10වනදා දක්වා පැවැත්වෙන මෙම තරගාවලිය විස්සයි20 තරග 7කින් සමන්විත වේ.
-
-ඉන් තරග 5ක් මග්ගොනදී ද, තරග 2ක් කොළඹදී ද පැවැත්වීමට කටයුතු යොදා ඇත.
-
-ලෝක කුසලානයට සුදුසුකම් ලැබීමේ ආසියා - පැසිෆික් කලාපීය තරගාවලිය මෙම වසරේ ඔක්තෝබර් 8වනදා සිට 17වනදා දක්වා ඕමානයේ දී පැවැත්වේ.
-
-මේ සඳහා ජපානය ඇතුළු කණ්ඩායම් 9ක් සුදුසුකම් ලබා සිටින අතර, ඔවුන් මූලික වටයේ 'B' කාණ්ඩයෙන් තරගවැඳීමට නියමිතව ඇත.
-
-මීළඟ විස්සයි20 ලෝක කුසලානය ශ්‍රී ලංකාවේ හා ඉන්දියාවේ සම සත්කාරකත්වය යටතේ 2026 වසරේ පෙබරවාරි හා මාර්තු මාසයන්හිදී පැවැත්වීමට නියමිතව ඇත.
-
-ජපානය වත්මන් විස්සයි20 ශ්‍රේණිගත කිරීම් හි ලොව 43වන ස්ථානයේ රැඳී සිටියි.
-
-...
-
-[Data](articles/9374f5f1.json)
-
----
-
-### කාම්බෝජ - තායිලන්ත දේශසීමා ගැටුම් ගැන ශ්‍රී ලංකාවේ කනස්සල්ල
-
-*2025-07-26 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212660) · `si`
-
-පවතින ගැටලුකාරී තත්ත්වය සාමකාමීව විසදාගැනීම සඳහා කඩිනම් රාජ්‍යතාන්ත්‍රක සංවාදයක් සඳහා යොමුවන ලෙස ශ්‍රී ලංකා රජය තායිලන්තයෙන් සහ කාම්බෝජයෙන් ඉල්ලීමක් සිදුකරයි.
-
-නිවේදනයක්  නිකුත් කරමින් විදේශ කටයුතු අමාත්‍යංශය පවසන්නේ දෙරට අතර දේශසීමාවේ මෑත කාලීනව උද්ගතවූ සිදුවීම් පිළිබඳව ශ්‍රී ලංකා රජය කනස්සල්ල පළ කරන බවයි.
-
-එම සිදුවීම් හේතුවෙන් ජීවිත හානි, අවතැන්වීම් සහ සංස්කෘතික වශයෙන් වැදගත් ස්ථානවලට හානි සිදුවී ඇති බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
-
-අවිහිංසාවාදය, කරුණාව හා සාමකාමී සහජීවනය කේන්ද්‍ර කර ගත් බුදුරජානන් වහන්සේගේ අකාලික ඉගැන්වීම් මගින් මඟපෙන්වනු ලැබූ ජාතියක් ලෙස ශ්‍රී ලංකාව, ගැටලු සාමකාමීව විසදාගැනීම සඳහා රාජ්‍යතාන්ත්‍රක සංවාදයක නිරතවන ලෙස දෙරටින්ම ඉල්ලීමක් සිදුකරන බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/657f665a.json)
-
----
-
-### Social spending, protecting vulnerable an indicative target in IMF program – SL Mission Chief
-
-*2025-07-26 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110853/social-spending-protecting-vulnerable-an-indicative-target-in-imf-program-sl-mission-chief) · `en`
-
-The International Monetary Fund (IMF) has underscored the importance of sustaining Sri Lanka’s reform momentum and safeguarding macroeconomic stability, following a week-long mission to the country.
-
-Speaking at Ada Derana’s current affairs program ‘@Hydepark’, Evan Papageorgiou, the IMF Mission Chief for Sri Lanka, outlined key developments in the nation’s economic program and future challenges.
-
-Papageorgiou expressed satisfaction with the government’s strong commitment to reform, highlighting productive discussions with a wide range of authorities and private sector representatives.
-
-“We were very happy always to see the strong commitment of the authorities including the president,” he said.
-
-The mission coincided with the IMF Executive Board’s approval of the fourth review of Sri Lanka’s program. The review focused on several structural benchmarks, including the enactment of the Asset Recovery Law, improved VAT compliance plans, and actions to address electricity cost recovery.
-
-...
-
-[Data](articles/98d3209d.json)
-
----
-
-### வியட்நாம் பஸ் விபத்தில் குழந்தைகள் உள்ளிட்ட 9 பேர் பலி : பலர் காயம் !
-
-*2025-07-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/220999) · `ta`
-
-வியட்நாமில் இடம்பெற்ற பஸ் விபத்தில் சிக்கி குழந்தைகள் உள்ளிட்ட 9 பேர் உயிரிழந்துள்ளனர்.
-
-வியட்நாமில் ஹனோயிலிருந்து டானாங்கிற்கு பஸ் சென்று கொண்டிருந்த போது இந்த பஸ் திடீரென வீதியை விட்டு விலகி போக்குவரத்து அடையாள பலகைகளில் மோதி கவிழ்ந்து விபத்திற்குள்ளானது. இந்த விபத்தில் குழந்தைகள் உள்ளிட்ட 9 பேர் உயிரிழந்துள்ளனர்.
-
-மேலும் 16 பேர் காயமடைந்துள்ளதாக சர்வதேச செய்திகள் தெரிவிக்கின்றன. காயமடைந்த பயணிகள் அனைவரும் சிகிச்சைக்காக அருகிலுள்ள  வைத்தியசாலையில் சிகிச்சையளிக்கப்பட்டு வருகின்றனர்.
-
-இதேவேளை, வியட்நாமில் வீதி விபத்துகள் அடிக்கடி இடம்பெறும் நிலையில், அந்நாட்டு தேசிய புள்ளிவிபர அலுவலகத்தின் அதிகாரபூர்வ தரவுகளின்படி, இந்த ஆண்டின் முதல் ஆறு மாதங்களில் மாத்திரம் வீதி விபத்துகளால் 5,024 பேர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/74d0428b.json)
-
----
-
-### முல்லைத்தீவில் இனஅழிப்புக்கு நீதி கோரி கவனயீர்ப்பு போராட்டம்
-
-*2025-07-26 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/220998) · `ta`
-
-நீண்ட காலமாக தமிழ் மக்கள் மீது திட்டமிட்ட வகையில் மேற்கொள்ளப்பட்டு வரும் இனஅழிப்பிற்கான சர்வதேச நீதி கோரியும், தமிழருக்கான நீதியை வலியுறுத்தியும் முல்லைத்தீவில் சனிக்கிழமை (26) பாரிய கவனயீர்ப்பு போராட்டம் நடைபெற்றது.
-
-இந்த போராட்டம், வடக்கு கிழக்கு சமூக இயக்கத்தின் ஏற்பாட்டில் முல்லைத்தீவின் மாவட்டச் செயலகம் முன்பாக முன்னெடுக்கப்பட்டது. இதற்கு முன், வடகிழக்கின் அனைத்து மாவட்டங்களிலும் இத்தகைய போராட்டங்கள் நடைபெறும் என ஏற்பாட்டாளர்கள் அறிவித்திருந்தனர்.
-
-குறித்த போராட்டத்தில்,பாராளுமன்ற உறுப்பினர் துரைராசா ரவிகரன்,கரைதுறைப்பற்று பிரதேச சபை தபிசாளர் லோகேஸ்வரன் , கரைதுறைப்பற்று பிரதேச சபை உறுப்பினர் ஜுட்சன்,வடக்கு, கிழக்கு சமூக இயக்கத்தின் ஒருங்கிணைப்பாளர் அன்புமணி லவகுசராசா, மீனவ ஒத்துழைப்பு இயக்கத்தின் உறுப்பினர்கள், காணாமல் ஆக்கப்பட்ட உறவுகள் சங்கத்தினர், சமூக செயற்பாட்டாளர்கள், பொதுமக்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
-
-◼️
-
-[Data](articles/f486b1db.json)
 
 ---

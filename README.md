@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 11:24:35**
+As of **2025-07-28 11:36:48**
 
 ## Newspaper Stats
 
-*Scraped **67,184** Articles*
+*Scraped **67,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,444
-adaderanalk | 8,256
-tamilmirrorlk | 9,715
-virakesarilk | 11,202
-adaderanasinhalalk | 11,544
+adaderanalk | 8,258
+tamilmirrorlk | 9,718
+virakesarilk | 11,205
+adaderanasinhalalk | 11,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,184 articles have been extended.
+61,973 (92.2%) of 67,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### புதிய கல்வி சீர்திருத்தம் குறித்து பிரதமர் கருத்து
+
+*2025-07-28 11:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-சீர்திருத்தம்-குறித்து-பிரதமர்-கருத்து/175-361881) · `ta`
+
+அரசாங்கத்தின் கல்வி சீர்திருத்தம் என்பது புதிய பாடப்புத்தகத்தை அறிமுகப்படுத்துவது மட்டுமல்ல, மாணவர்கள், பெற்றோர்கள் மற்றும் ஆசிரியர்கள் மீதான அழுத்தத்தைக் குறைக்க தற்போதைய முறையை முற்றிலுமாக மாற்றியமைப்பதாகும் என்று பிரதமரும் கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய கூறினார்.
+
+ஜூலை 26 அன்று இரத்தினபுரி நகர மண்டபத்தில், தேசிய மக்கள் சக்தியின் (NPP) இரத்தினபுரி மாவட்ட மகளிர் கூட்டமைப்பு ஏற்பாடு செய்த 'வளமான தேசத்திற்காக பெண்களாக ஒன்றுபடுவோம்' என்ற தலைப்பில் நடைபெற்ற குழு கலந்துரையாடலின் போது அவர் இந்தக் கருத்துக்களை தெரிவித்தார்.
+
+தற்போதுள்ள கல்வி முறை, தேர்வு மையப்படுத்தப்பட்ட அணுகுமுறையால், குழந்தைகள் மீது மிகுந்த அழுத்தத்தை ஏற்படுத்துகிறது என்றும், மாணவர்கள் மற்றும் பெற்றோர்கள் இருவருக்கும் தேவையற்ற மன அழுத்தத்தை ஏற்படுத்துகிறது என்றும் பிரதமர் கூறினார். புதிய சீர்திருத்தங்கள் இந்த கட்டமைப்பை மாற்றுவதையும், கல்வியில் கடுமையான போட்டியின் சமூக விளைவுகளைக் குறைப்பதையும் நோக்கமாகக் கொண்டுள்ளன என்று அவர் விளக்கினார்.
+
+...
+
+[Data](articles/07123bd0.json)
+
+---
+
+### ජනපති මාලදිවයිනට ළඟා වෙයි
+
+*2025-07-28 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212721) · `si`
+
+මාලදිවයිනේ රාජ්‍ය සංචාර‍ය ආරම්භ කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (28) පෙරවරුවේ වෙලානා ජාත්‍යන්තර ගුවන් තොටුපොළට ළඟා වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එහිදී මාලදිවයිනේ ජාතික ආරක්ෂක බලකායේ උත්තමාචාර මධ්‍යයේ එරට ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) මහතා විසින් ජනාධිපතිවරයා මහත් හරසරින් යුතුව පිළිගනු ලැබීය.
+
+ජනාධිපතිවරයා පිළිගැනීම වෙනුවෙන් මාලදිවයිනේ වලානා ජාත්‍යන්තර ගුවන් තොටුපොළහි විශේෂ අමුත්තන් පැමිණීමේ පර්යන්තයේදී කුඩා දැරියන් පිරිසක් අලංකාර සංස්කෘතික නර්තනයක් ඉදිරිපත් කළ අතර, ජනපතිවරයා එම දැරියන් සමඟ කෙටි කතාබහකද නිරත විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය මාලදිවයිනේ ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) මහතාගේ ප්‍රධානත්වයෙන් අද පස්වරුවේ මාලදිවයිනේ අගනුවර වන මාලේහි ජනරජ චතුරශ්‍රයේදී පැවැත්වේ.
+
+ජනාධිපතිවරයා සමඟ මෙම රාජ්‍ය සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සහ රජයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් එක්ව සිටිති.
+
+◼️
+
+[Data](articles/c3b254fe.json)
+
+---
+
+### முட்டை சாப்பிடுபவர்களுக்கு நல்ல செய்தி
+
+*2025-07-28 11:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-சாப்பிடுபவர்களுக்கு-நல்ல-செய்தி/175-361879) · `ta`
+
+நாட்டில் நாளாந்த முட்டை உற்பத்தி 15 மில்லியனாக அதிகரித்ததன் காரணமாக முட்டைகளின் விலை குறைந்துள்ளதாக அகில இலங்கை முட்டை உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் சரத் ரத்நாயக்க கூறுகிறார்.
+
+இதன் காரணமாக, ஒரு முட்டையின் மொத்த விலை சுமார் 24 ரூபாயாகக் குறைந்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/9f98fa91.json)
+
+---
+
+### දුම්රිය වර්ජනයකට සුදානමක්
+
+*2025-07-28 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212720) · `si`
+
+සිය ගැටලුවලට විසඳුම් නොලැබුණ හොත් පැය 48ක සංකේත වැඩවර්ජනයක් සිදුකරන බව දුම්රිය ලොකොමෝටිව් ඔපරේටින් ඉංජිනියර්ස් සංගමය පවසයි.
+
+එම සංගමයේ, ප්‍රධාන සභාපති කේ.යු. කොන්තසිංහ මහතා පවසා සිටියේ, ප්‍රවාහන අමාත්‍යාංශය හා දුම්රිය දෙපාර්තමේන්තුව වෙත 2025 ජූලි 22 දින යොමුකළ ලිපිය සම්බන්ධයෙන් සාධනීය ප්‍රතිචාරයක් නොලැබුණහොත් එළැඹෙන ජූලි මස 30 වන දා සහ 31 වන දා යන දෙදින මෙම වැඩවර්ජනය සිදුකරන බවය.
+
+විශේෂයෙන්ම දුම්රිය රියදුරු ශ්‍රේණිය මුහුණදෙන පරිපාලන ගැටලු සහ යටිතල පහසුකම් සම්බන්ධයෙන් තීරණාත්මක විසඳුමක් නොලැබුණහොත් මෙම වැඩවර්ජනය අනිවාර්යෙයන්ම සිදුකරන බවට අනතුරු ඇඟවීමක් සිදුකරන බව ද ඒ මහතා පැවසීය.
+
+සතුටුදායක පිළිතුරක් අපේක්ෂා කරන අතර, එවැනි දෙයක් ලැබුණොත් පමණක් වැඩවර්ජනය අත්හිටුවීමට කටයුතු කරන බව ද පැවසු සභාපතිවරයා, අද හෝ හෙට මේ පිළිබඳ පිළිතුරක් අපේක්ෂා කරන බව ද කියා සිටියේය.
+
+◼️
+
+[Data](articles/5a7f355d.json)
+
+---
+
+### முட்டை 30 ரூபாய்... முட்டை ரொட்டி 130 ரூபாய்... என்ன கணக்கு இது?
+
+*2025-07-28 11:12:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-30-ரூபாய்-முட்டை-ரொட்டி-130-ரூபாய்-என்ன-கணக்கு-இது/175-361877) · `ta`
+
+முட்டை விலை குறைந்திருந்தாலும், முட்டை ரொட்டி மற்றும் கொத்து ரொட்டியின் விலை முன்பு போலவே இருப்பதாக நுகர்வோர் கூறுகின்றனர்.
+
+ஒரு முட்டையின் விலை 45 முதல் 50 ரூபாய் வரை இருந்தபோது, ஒரு முட்டை ரொட்டியின் விலையை 125 முதல் 130 ரூபாய் வரை உயர்த்த ஹோட்டல் உரிமையாளர்கள் நடவடிக்கை எடுத்தனர்.
+
+ஆனால், இப்போது ஒரு முட்டையின் விலை 29 மற்றும் 32 ரூபாய் வரை குறைந்துள்ள போதும், முட்டை ரொட்டி இன்னும் அதே விலையில் விற்கப்படுகிறது.
+
+முட்டை விலை குறைந்ததால் கொத்து ரொட்டியின் விலை குறைக்கப்பட்டிருக்கலாம் என்றாலும், அதுவும் குறைக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/c23b6df6.json)
+
+---
 
 ### මර්වින් ට එරෙහිව අල්ලස් කොමිසම ගොනුකළ නඩුවට දිනදෙයි
 
@@ -49,6 +135,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bc7873d6.json)
+
+---
+
+### குழந்தைகளை கொல்லும் இஸ்ரேலிய படையினர் இலங்கைக்கு வருவதற்கு இலவச வீசாவா? கொழும்பில் இன்று ஆர்ப்பாட்டம்
+
+*2025-07-28 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/221131) · `ta`
+
+இஸ்ரேலிய படையினர் இலங்கைக்கு விஜயம் மேற்கொள்வதற்கு அவர்களிற்கு இலவச வீசாவை  வழங்குவது குறித்து அரசாங்கம் ஆராய்ந்துவருவதாக தெரிவித்துள்ள சுதந்திர பாலஸ்தீன இயக்கம் இதற்கு எதிராக இன்று வெளிவிவகார அமைச்சின் முன்னால் மாலை நான்கு மணிக்கு ஆர்ப்பாட்டமொன்றில் ஈடுபடவுள்ளது.
+
+காசாவில் அப்பாவி சிறுவர்கள் மீது குண்டுவீசி ,சுட்டுக்கொலை செய்த இஸ்ரேலிய இராணுவீரர்களிற்கு இலங்கைக்கு விஜயம் மேற்கொள்வதற்கு இலவசவீசாவை வழங்கும் திட்டமொன்றை முன்னெடுப்பது குறித்து அரசாங்கம் ஆராய்ந்துவருகின்றது.
+
+இலங்கை அரசாங்கம் சுற்றுலாத்துறையின் அபிவிருத்திக்காக இதனை செய்வதாக தெரிவித்தாலும் அது ஒரு பொய்
+
+இந்த இஸ்ரேலிய படைவீராகள் மிகவும் ஆபத்தான மனோநிலையில் உள்ளனர்.அவர்களின் மதிப்பு மிக்க குணங்களான சுற்றுலாவிற்கு செல்லும் நாடுகளில் சுற்றுலாப்பயணிகள் மற்றும் உள்நாட்டவர்களிற்கு அச்சுறுத்தல் விடுக்கும் குணங்கள் குறித்து உலகின் பல பகுதிகளில் இருந்து தகவல்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/ced777ae.json)
 
 ---
 
@@ -104,6 +208,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இஸ்ரேலிய படையினரால் தடுத்துவைக்கப்பட்டுள்ள காசா மருத்துவர்களின் எண்ணிக்கை அதிகரிக்கின்றது - பெருமளவு சுகாதார பணியாளர்களும் சிறைகளில்
+
+*2025-07-28 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/221129) · `ta`
+
+காசாவை சேர்ந்த 28 மருத்துவர்கள் இஸ்ரேலிய சிறைச்சாலைகளில் தடுத்துவைக்கப்பட்டுள்ளனர் என தெரிவித்துள்ள பாலஸ்தீனத்தை சேர்ந்த சுகாதார பணியாளர்கள் கண்காணிப்பு அமைப்பு  அவர்களில் எட்டு பேர் அறுவை சிகிச்சை எலும்பியல் சிகிச்சை தீவிரசிகிச்சை குழந்தைநோயியல் மருத்துவம் இருதயவியல் போன்றவற்றில் நீண்டகால அனுபவம்மிக்க மருத்துவ ஆலோசகர்களாக பணியாற்றியவர்கள் என தெரிவித்துள்ளது.
+
+இவர்களில் 21 பேர் 400நாட்களிற்கு மேலாக தடுத்துவைக்கப்பட்டுள்ளனர்  என தெரிவித்துள்ள சுகாதார பணியாளர்கள் கண்காணிப்பு அமைப்பு  ஜூலைமாதத்தின் பின்னர் மூன்று மருத்துவசுகாதார பணியாளர்களை இஸ்ரேல் கைதுசெய்துள்ளது என தெரிவித்துள்ளது.
+
+கைதுசெய்யப்பட்டுள்ளவர்களிற்கு எதிராக இஸ்ரேல் இதுவரை எந்தவொரு குற்றச்சாட்டையும் சுமத்தவில்லை என பாலஸ்தீன அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/20237253.json)
+
+---
+
 ### தொழிலதிபர் திலினி பிரியமாலி கைது
 
 *2025-07-28 10:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலதிபர்-திலினி-பிரியமாலி-கைது/175-361873) · `ta`
@@ -137,6 +257,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d1be2a11.json)
+
+---
+
+### நுண், சிறிய மற்றும் நடுத்தர தொழில்முனைவோர் பிரச்சினைகளுக்கு நிரந்தர தீர்வு தேவை – சஜித் பிரேமதாச
+
+*2025-07-28 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221127) · `ta`
+
+நாட்டின் பொருளாதாரத்திற்குப் பெரிதும் பங்களிக்கின்ற நுண், சிறிய மற்றும் நடுத்தர தொழில்முனைவோர்களின் பிரச்சினைகளுக்கு நிரந்தர தீர்வுகள் அளிக்க அரசாங்கம் முன்வர வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச வலியுறுத்தியுள்ளார்.
+
+Citizens’ Voice திட்டத்தின் கீழ், இந்தத் தொழில்முனைவோரின் பிரதிநிதிகள் மற்றும் செயற்பாட்டாளர்களுடன் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நேற்று ஞாயிற்றுக்கிழமை (27) நடைபெற்ற கலந்துரையாடலின்போதே அவர் இதனைக் குறிப்பிட்டார்.
+
+“நாட்டின் பொருளாதார வளர்ச்சியில் 50%க்கும் அதிக பங்களிப்பு அளிக்கும் இந்தத் தொழில்முனைவோர், இலட்சக்கணக்கான மக்களுக்கு வேலைவாய்ப்பை வழங்குகிறார்கள். இத்தகைய முக்கியத்துவம் வாய்ந்த பிரிவை தேர்தல் காலங்களில் மட்டுமே அன்புடன் அணுகி, பின்னர் கவனிக்காத நிலை இருப்பது முற்றிலும் ஏற்க முடியாதது.
+
+...
+
+[Data](articles/0876b95d.json)
 
 ---
 
@@ -201,6 +337,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/fa93f7d4.json)
+
+---
+
+### Israel begins daily pause in fighting in 3 Gaza areas to allow ‘minimal’ aid as hunger grows
+
+*2025-07-28 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110901/israel-begins-daily-pause-in-fighting-in-3-gaza-areas-to-allow-minimal-aid-as-hunger-grows) · `en`
+
+The Israeli military Sunday began limited pauses in fighting in three populated areas of Gaza for 10 hours a day, part of measures including airdrops as concerns grow over surging hunger and as Israel faces criticism over its conduct in the 21-month war.
+
+The military said the “tactical pause” from 10 a.m. to 8 p.m. in Gaza City, Deir al-Balah and Muwasi, all with large populations, would increase humanitarian aid entering the territory.
+
+United Nations humanitarian chief Tom Fletcher welcomed Israel’s decision to support a “one-week scale-up of aid” and said “some movement restrictions appear to have been eased.” But he said action needs to be sustained, vast and fast.
+
+“Whichever path we choose, we will have to continue to allow the entry of minimal humanitarian supplies,” Israeli Prime Minister Benjamin Netanyahu said.
+
+...
+
+[Data](articles/60b807bf.json)
+
+---
+
+### Thilini Priyamali arrested
+
+*2025-07-28 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110900/thilini-priyamali-arrested) · `en`
+
+Businesswoman Thilini Priyamali, has been arrested by the Homagama police this morning (28), said Ada Derana reporter.
+
+She was taken into custody for allegedly obstructing the duties of an officer at the Homagama Court.
+
+◼️
+
+[Data](articles/8fafc128.json)
 
 ---
 
@@ -308,7 +476,7 @@ According to the Police Media Division, the Weligama Pradeshiya Saba member who 
 
 A fatal road accident occurred this morning (28 July) near the Cemetery Roundabout in Borella, resulting in the death of one person and injuries to more than five others, police said.
 
-According to police, the incident occurred when a crane truck with malfunctioning brakes collided with multiple vehicles.
+According to police, the incident occurred when a crane truck with malfunctioning brakes collided with 07 motorcycles and 03 cars.
 
 The injured have been admitted to the Colombo National Hospital for treatment, said police.
 
@@ -1591,165 +1759,5 @@ The company had export revenues of 140 million in 2025 and 255 million a year ea
 ...
 
 [Data](articles/d781b7e6.json)
-
----
-
-### இனியபாரதியின் இரண்டாவது சகா கைது!
-
-*2025-07-27 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221103) · `ta`
-
-இனிய பாரதியின் சககாவான தொப்பிமனாப் என்றழைக்கப்படும் முன்னாள் திருக்கோவில் பிரசே சபை உறுப்பினரான சி.விக்கினேஸ்வரன் ஞாயிற்றுக்கிழமை (27) மாலை சிஜடி யினர் கைது செய்ததுடன் அம்பாறை மாவட்ட தமிழ் பகுதிகளில் கடந்த காலத்தில் இனியபாரதி தலைமையிலான தமிழ் மக்கள் விடுதலைப் புலிகள் (ரீ.எம்.வி.பி) கட்சியின் இயங்கி வந்த முகாங்கள் மற்றும் மயானங்களை  இரண்டு தினங்களாக சிஜடி யினர் சோதனை நடவடிக்கை ஒன்றை முன்னெடுத்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
-
-அம்பாறை திருக்கோவில் பிரதேச சபையின் முன்னாள் தவிசாளர் உதயகுமார் துப்பாக்கியால் சுட்டு படுகொலை செய்யப்பட்ட சம்பவம் உட்பட 2005 மற்றும் 2008 க்கு இடையில் கிழக்கு மாகாணத்தில் நடந்த கொலைகள், கடத்தல்கள், காணாமல் போதல்கள், துப்பாக்கிகளைப் பயன்படுத்துதல், சித்திரவதைக் கூடங்களை நடத்துதல்;
-
-...
-
-[Data](articles/f8a434c6.json)
-
----
-
-### මෙරට ඉන්ධන පරිභෝජනයෙන් සියයට 30ක ඉතිරියක්
-
-*2025-07-27 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212700) · `si`
-
-මෙරට ඉන්ධන පරිභෝජනය සියයට 30කින් පමණ අඩු වී ඇති බව බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා පවසයි.
-
-ඔහු පෙන්වාදෙන්නේ මේ වන විට නව ඉන්ධනහල් සඳහා බලපත්‍ර ලබාදීම ද අත්හිටුවා ඇති බවය.
-
-විදුලි බල නිෂ්පාදනය සඳහා ද පුනර්ජනනීය බලශක්තිය වැඩි වශයෙන් යොදාගැනීමට කටයුතු කරමින් සිටින බව මඩකලපුව ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් කුමාර ජයකොඩි අමාත්‍යවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/cbfc125c.json)
-
----
-
-### ComBank partners AusAsia Education to support students with affordable education loans
-
-*2025-07-27 18:14:00* · [`islandlk`](http://island.lk/combank-partners-ausasia-education-to-support-students-with-affordable-education-loans/) · `en`
-
-Students aspiring to study overseas can now benefit from a special loan scheme offered by the Commercial Bank of Ceylon, following the signing of a Memorandum of Understanding (MoU) with Austasia Education Consultants (Pvt) Ltd. (AusAsia Education), a leading student placement agency in Sri Lanka.
-
-This strategic partnership will facilitate the promotion of the Bank’s Education Loans for Student Files and overseas study financing, enabling students to access financial support with attractive terms as they pursue higher education in countries such as Australia, New Zealand, UK, Canada, Malaysia and Singapore.
-
-...
-
-[Data](articles/01e04931.json)
-
----
-
-### ‘Evolution Auto is powering Sri Lanka’s electric future’
-
-*2025-07-27 18:10:00* · [`islandlk`](http://island.lk/evolution-auto-is-powering-sri-lankas-electric-future/) · `en`
-
-Evolution Auto (Pvt) Ltd, Sri Lanka’s trailblazer in next-generation electric vehicles (EVs), is proud to announce two major milestones in its mission to deliver world-class EV after-sales service, comprising body, drive train, periodic maintenance & electrical systems. These include the commencement of a cutting-edge multi-brand EV workshop along the Colombo–Kandy Road and the successful completion of specialized international training programs by its after-sales staff.
-
-...
-
-[Data](articles/996d4612.json)
-
----
-
-### තායිලන්ත - කාම්බෝජ දේශසීමා ගැටුමේ අලුත්ම තත්ත්වය
-
-*2025-07-27 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212699) · `si`
-
-තායිලන්තය සහ කාම්බෝජය අතර හටගෙන ඇති දේශසීමා ගැටුම් ගැන සාකච්ඡා පැවැත්වීමේ මැදිහත්කරුවෙක් ලෙස මැලේසියාව එක්කර ගැනීමට එම රටවල් එකඟවී තිබේ.
-
-මැලේසියා විදේශ අමාත්‍ය මොහොමඩ් හසන් එරට රාජ්‍ය ප්‍රවෘත්ති ඒජන්සිය හරහා මේ බව තහවුරුකර ඇත.
-
-ඒ අනුව කාම්බෝජ අගමැති හුන් මැනට් සහ තායිලන්ත වැඩබලන අගමැති ෆුම්තම් වෙචයාචායි හෙට (28)  සවස මැලේසියාවට පැමිණීමට නියමිතය.
-
-◼️
-
-[Data](articles/b8737379.json)
-
----
-
-### Education reform is about systemic change, not just textbooks, says PM Harini
-
-*2025-07-27 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110886/education-reform-is-about-systemic-change-not-just-textbooks-says-pm-harini) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that educational reform is not merely about the introduction of a new textbook, but a transformation of the entire system.
-
-The Prime Minister made these remarks while participating in a panel discussion held under the theme “For a Prosperous Nation – Let’s Unite as Women”, organized by the Ratnapura District Women’s Collective of the National People’s Power (NPP), which took place on  Saturday (July 26) at the Ratnapura Town Hall, the PM’s Media Division said in a statement.
-
-During the panel discussion, Prime Minister Amarasuriya noted that there are several major issues within the current education system, especially the pressure placed on children by the exam-centered structure, the resultant stress on parents, and the demanding social consequences created by the competitive nature of the system.
-
-Therefore, she added that the government aims to address all these issues through this educational reform.
-
-...
-
-[Data](articles/d86a88b9.json)
-
----
-
-### Govt to set up 2,000 primary care centres nationwide in next 3 years
-
-*2025-07-27 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110885/govt-to-set-up-2000-primary-care-centres-nationwide-in-next-3-years) · `en`
-
-The Ministry of Health and Mass Media announced that Primary Care Community Centers will be established islandwide, with each center expected to serve nearly 10,000 people from the country’s population to provide more efficient and higher-quality primary health care services.
-
-Accordingly, the Ministry added that, under the first phase, 2,000 Primary Care Community Centers will be set up islandwide over the next three years.
-
-Issuing a statement in this regard, the Ministry also added that 100 centers are scheduled to open this year, marking the beginning of the program. Each center will be staffed by eight persons.
-
-...
-
-[Data](articles/4aa6222e.json)
-
----
-
-### கிழக்குப் பல்கலைக்கழக வேந்தர் பேராசிரியர் மானாகப்போடி செல்வராசா காலமானார்
-
-*2025-07-27 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221100) · `ta`
-
-கிழக்குப் பல்கலைக்கழகத்தின் வேந்தராக கடமையாற்றிய பேராசிரியர் மானாகப்போடி செல்வராசா ஞாயிற்றுக்கிழமை  (27) காலை இயற்கை எய்தினார். சுகயீனமுற்றிருந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த அவர் இன்று காலமானதாக குடும்பத்தினர் தெரிவித்தனர்.
-
-அன்னாரின் பூதவுடல் தற்போது மட்டக்களப்பு கல்லடியில் உள்ள அவரது இல்லத்தில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது. நாளை (28) காலை அவரது பூதவுடல் கிழக்குப் பல்கலைக்கழக நல்லையா மண்டபத்திற்கு கொண்டு செல்லப்பட்டு அஞ்சலிக்காக வைக்கப்பட்ட பின்னர் மீண்டும் இல்லத்துக்கு கொண்டு செல்லப்படவுள்ளதுடன், மாலை 4.00 மணிக்கு கள்ளியங்காடு இந்துமயானத்தில் தகனக் கிரியைகள் நடைபெறவுள்ளது.
-
-1948 ஜப்பசி 14ஆம் தேதி மட்டக்களப்பு முனைக்காடு பகுதியில் பிறந்த பேராசிரியர் செல்வராசா, கல்லடி பகுதியை நிரந்தர வசிப்பிடமாகக் கொண்டிருந்தார். பேராதனைப் பல்கலைக்கழகத்தில் கல்விமானிப் பட்டம் பெற்ற அவர், குருநாகல், இரத்மலானை உள்ளிட்ட பல பாடசாலைகளில் ஆசிரியர், அதிபராக பணியாற்றினார்.
-
-...
-
-[Data](articles/a227d0b8.json)
-
----
-
-### අධ්‍යාපන ප්‍රතිසංස්කරණ යනු අලුත් පෙළපොතක් හඳුන්වාදීමක් නෙවෙයි - අගමැති හරිනි
-
-*2025-07-27 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212698) · `si`
-
-අධ්‍යාපන  ප්‍රතිසංස්කරණ යනු හුදෙක් නව පෙළපොතක් හඳුනවාදීමක් නොවන බවත් සමස්ත පද්ධතියම වෙනස් කිරීමක් බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
-
-ඇය මේ බව පැවසුවේ ඊයේ (26)  "පොහොසත් රටක් වෙනුවෙන් ගැහැනු අපි එකමිටට " යන තේමාවෙන් සංවිධානය කරන ලද ජාතික ජන බලවේගයේ රත්නපුර දිස්ත්‍රික් කාන්තා එකමුතුව විසින් රත්නපුර නගර ශාලාවේදී පැවති සංවාදශීලී කථිකාව හා එක්වෙමිනි.
-
-මෙහි දී සභාව අමතමින් නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳව අදහස් අග්‍රාමාත්‍යවරිය,
-
-"දරුවන්ට බරක් නොවන, දෙමව්පියන්ට සහ ගුරුවරුන්ට බරක් නොවන අධ්‍යාපන ක්‍රමයක් ඇතිකරන එක අපි අපේ දේශපාලන ව්‍යාපාරය තුළ දිගින් දිගට කතාකරපු දෙයක්. ඒ ගැන අපෙ ප්‍රතිපත්ති ප්‍රකාශනය තුළ සවිස්තරාත්මක ප්‍රකාශ කරලා තියෙනවා.
-
-...
-
-[Data](articles/23834330.json)
-
----
-
-### ”ஜனாதிபதியின் பாதுகாப்பு பலப்படுத்தப்பட வேண்டும்”
-
-*2025-07-27 17:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பாதுகாப்பு-பலப்படுத்தப்பட-வேண்டும்/175-361847) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் பாதுகாப்பு தொடரணி பலப்படுத்தப்பட வேண்டும் என்று தாம் நம்புவதாக விவசாய அமைச்சர் கே.டி. லால்காந்த தெரிவித்துள்ளார்.
-
-பொதுக்கூட்டத்தில் பேசிய அமைச்சர், பயணத்திற்கு தாமே இரட்டை டக்ஸியைப் பயன்படுத்தினாலும், செயலாளர் மற்றும் மேலதிக செயலாளர்கள் உட்பட தனது அமைச்சகத்தின் மூத்த அதிகாரிகள் சொகுசு V8 வாகனங்களைப் பயன்படுத்துவதாகக் கூறினார்.
-
-"இப்போதெல்லாம், அவர்கள் கொஞ்சம் சங்கடமாக உணர ஆரம்பித்துவிட்டார்கள். சமீபத்தில் வவுனியாவில், எனது அமைச்சக செயலாளர் அவர்கள் எப்படி இப்படியே தொடர முடியும் என்று கேட்டார், அவர்களில் எட்டு பேர் ஒரு வேனில் பயணம் செய்தனர்," என்று அவர் கூறினார்.
-
-ஜனாதிபதியின் வாகன அணிவகுப்பைக் காட்டும் சமூக ஊடகப் பதிவுகளைக் குறிப்பிட்டு, அமைச்சர், "ஜனாதிபதி பயணம் செய்யும்போது, அவருடன் செல்ல வேண்டிய ஒரு குழு உள்ளது. இதைத் தவிர்க்க முடியாது" என்றார்.
-
-தற்போதைய பாதுகாப்பு அமைப்பை கடந்த காலங்களுடன் ஒப்பிடுவது நியாயமற்றது என்று அவர் தொடர்ந்து கூறினார்.
-
-...
-
-[Data](articles/d37e7c9d.json)
 
 ---

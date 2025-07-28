@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 02:48:06**
+As of **2025-07-29 03:05:54**
 
 ## Newspaper Stats
 
-*Scraped **67,350** Articles*
+*Scraped **67,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
-dailyftlk | 4,756
+dailyftlk | 4,758
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,751
@@ -26,11 +26,49 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,350 articles have been extended.
+61,973 (92.0%) of 67,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Chandana Amaradasa heads SLANZBC
+
+*2025-07-29 02:37:31* · [`dailyftlk`](https://www.ft.lk/business/Chandana-Amaradasa-heads-SLANZBC/34-779587) · `en`
+
+The new office bearers of SLANZBC with Ambassadors and Deputy Minister of Digital Economy Eranga Weeraratne
+
+Island Leisure founder Chairman Chandana Amaradasa, was elected President of the Australia-New Zealand Business Council (SLANZBC) of the Ceylon Chamber of Commerce held its AGM at the Cinnamon Lake Hotel recently.
+
+He said that Sri Lanka’s Small and Medium sector, responsible for 50% of the total revenues and growth of the economy, has been facing many obstacles and challenges in the last few years.
+
+“They simply do not have capital market access and most of the time access to the financial sector of the country.”
+
+He requested that Australia and New Zealand open their markets more to the SME sector of Sri Lanka.
+
+“Sri Lanka’s tourism sector has nearly 50,000 registered rooms, in which only 9,500 rooms fall into the category of 4 and 5 star. Sri Lanka badly needs capacity enhancements to ensure comprehensive and positive revenue growth both in tourism and our GDP as well.”
+
+...
+
+[Data](articles/6b090608.json)
+
+---
+
+### Ceylon Chamber to host networking event with new Heads of Lankan missions
+
+*2025-07-29 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-to-host-networking-event-with-new-Heads-of-Lankan-missions/34-779586) · `en`
+
+The Ceylon Chamber of Commerce has announced an interactive session with newly appointed Heads of Mission of Sri Lanka – 2025, which will take place on Tuesday, 5 August, from 2:30 p.m. to 4:30 p.m. at the Ground Floor Auditorium of the Ceylon Chamber.
+
+This high-level networking event offers a valuable opportunity for businesses to engage directly with Sri Lanka’s new Ambassadors, High Commissioners, and Consul Generals stationed in key markets. These include Brazil, China, India, Indonesia, Italy, Maldives, Nairobi, Nepal, Oman, Saudi Arabia, South Korea, Turkey, and the United States. Participants will have the chance to discuss trade and investment opportunities, raise country-specific challenges, and introduce their company’s offerings to a targeted diplomatic audience.
+
+Limited seats are available. Register via https://event.chamber.lk/Details/Event/400. For more information, contact the Ceylon Chamber via +94 115588861 / +94 115588829 or email [email protected] / [email protected].
+
+◼️
+
+[Data](articles/9938d4d3.json)
+
+---
 
 ### கிளிநொச்சி மாவட்ட வைத்தியசாலையில் செயலிழந்த மின் தூக்கி, நோயாளர்களை ஏற்றி இறக்கும் பணிகளில் மாணவர்கள்
 
@@ -1767,41 +1805,5 @@ In line with the Memorandum of Understanding (MoU) Sri Lanka signed with the Off
 ...
 
 [Data](articles/51a107f2.json)
-
----
-
-### දකුණු කොරියාවේ නව ශ්‍රී ලංකා තානාපති මාරිමුත්තු කේ පද්මනාදන්
-
-*2025-07-28 14:59:33* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-නව-ශ්‍රී-ලංකා-තානාපති-මාරිමුත්තු-කේ-පද්මනාදන්/11-417555) · `si`
-
-නව තානාපතිවරුන් 5,  මහ කොමසාරිස්වරයෙක් සහ අමාත්‍යාංශ ලේකම්වරියක්  පත්කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය හිමිවේ.
-
-නව තානාපතිවරුන් 5,  මහ කොමසාරිස්වරයෙක් සහ අමාත්‍යාංශ ලේකම්වරියක්  පත්කිරීමට  පසුගිය 24 වන දින පාර්ලිමේන්තුවේදී රැස් වූ උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය ලබාදී ඇත.
-
-ඒ අනුව ඉන්දුනීසියාවේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සුමදුරිකා ශෂිකලා ප්‍රේමවර්ධන මෙනවියගේ  නම  උසස් නිලතල පිළිබඳ කාරක සභාව විසින්  අනුමත කර ඇත. එමෙන්ම  බ්‍රසීල ෆෙඩරල් ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සී. ඒ චාමින්දා ඉනෝකා කොලොන්නේ, මාලදිවයින් ජනරජයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා ලෙස මොහොමඩ් රිස්වි හසන්, තුර්කි ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස එල්. ආර්. එම්. එන්. පී. ජී. බී. කදුරුගමුව, නේපාල ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස රුවන්ති දෙල්පිටිය, දකුණු කොරියාවේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස මාරිමුත්තු කේ පද්මනාදන්  යන මහත්ම මහත්මීන්ගේ නම් උසස් නිලතල පිළිබඳ කාරක සභාව විසින් අනුමත කර ඇත.
-
-...
-
-[Data](articles/e2023ed2.json)
-
----
-
-### Rs. 50 mln worth foreign cigarettes seized in largest-ever smuggling attempt at BIA
-
-*2025-07-28 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110917/rs-50-mln-worth-foreign-cigarettes-seized-in-largest-ever-smuggling-attempt-at-bia) · `en`
-
-A large consignment of foreign-manufactured cigarettes valued at Rs. 50 million was seized today (28) by officers of the Central Intelligence Directorate of Sri Lanka Customs while it was being transported through the Bandaranaike International Airport (BIA) in Katunayake.
-
-The contraband was en-route to the Cargo Village in transit for shipment to Australia and England.
-
-This marks the largest and first-ever seizure of illicit cigarettes in the history of both the Katunayake Airport and its Cargo Village, according to Sri Lanka Customs.
-
-The consignment had been falsely declared as “towels” and “plastic cups” and was intended to be shipped from Dubai to London, Sydney, and Melbourne on 9 and 11 January last year.
-
-As per the Sri Lanka Customs Ordinance, all goods in transit must be accurately declared. Furthermore, under an international convention signed by Sri Lanka in 2016, it is now a legal requirement to prevent the illicit trade in tobacco products within the country.
-
-...
-
-[Data](articles/94c0f931.json)
 
 ---

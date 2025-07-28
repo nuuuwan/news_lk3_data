@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 04:06:41**
+As of **2025-07-29 04:22:02**
 
 ## Newspaper Stats
 
-*Scraped **67,358** Articles*
+*Scraped **67,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 islandlk | 4,115
 economynextcom | 4,116
 dailymirrorlk | 4,733
-dailyftlk | 4,758
+dailyftlk | 4,759
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,751
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,358 articles have been extended.
+61,973 (92.0%) of 67,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Power imbalance and corporate failure
+
+*2025-07-29 03:56:44* · [`dailyftlk`](https://www.ft.lk/columns/Power-imbalance-and-corporate-failure/4-779597) · `en`
+
+Unchecked authority can pave the way for unethical behaviour, financial mismanagement, and ultimately, corporate failure
+
+Power imbalance often occurs when authority is concentrated on a single individual or a few executives, and it is at the heart of corporate mismanagement, corruption, and abuse of power. Concentration of power often restrains diverse perspectives and critical debate. Without input from multiple stakeholders, decisions may be made based on limited information or personal biases. Power imbalances often create fertile ground for corruption, as executives with unchecked authority may prioritise personal gain over the organisation’s objectives. Within a culture with a higher power imbalance, employees fear speaking out and whistleblowing, and finally, innovation and collaboration suffer.
+
+...
+
+[Data](articles/edb644e9.json)
+
+---
 
 ### Chandana Amaradasa heads SLANZBC
 
@@ -1825,19 +1839,5 @@ The leaders of Thailand and Cambodia have agreed to an immediate and uncondition
 ◼️
 
 [Data](articles/778dbcb3.json)
-
----
-
-### நாமலுக்கு பிடியாணை;நீதிமன்றம் அதிரடி உத்தரவு
-
-*2025-07-28 15:25:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-பிடியாணை-நீதிமன்றம்-அதிரடி-உத்தரவு/175-361907) · `ta`
-
-நாமல் ராஜபக்ஷவுக்கு எதிராக அம்பாந்தோட்டை நீதவான் நீதிமன்றில் தாக்கல் செய்யப்பட்டுள்ள வழக்கு ஒன்று தொடர்பான விசாரணைகளுக்காக நீதிமன்றில் ஆஜராகாமல் இருந்தமையினால் அவருக்கு எதிராக இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-நாமல் ராஜபக்ஷவை கைது செய்யுமாறு அம்பாந்தோட்டை நீதவான் நீதிமன்றம் பிடியாணை பிறப்பித்து உத்தரவிட்டுள்ளது.
-
-◼️
-
-[Data](articles/22d2803d.json)
 
 ---

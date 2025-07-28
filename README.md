@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 20:06:32**
+As of **2025-07-28 20:22:25**
 
 ## Newspaper Stats
 
-*Scraped **67,310** Articles*
+*Scraped **67,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,462
-adaderanalk | 8,282
-tamilmirrorlk | 9,748
-virakesarilk | 11,220
-adaderanasinhalalk | 11,567
+adalk | 6,463
+adaderanalk | 8,284
+tamilmirrorlk | 9,749
+virakesarilk | 11,223
+adaderanasinhalalk | 11,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.1%) of 67,310 articles have been extended.
+61,973 (92.1%) of 67,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### ரோயல் பார்க் கொலைக் குற்றவாளிக்கு எதிராக சிவப்பு பிடியாணை
+
+*2025-07-28 20:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோயல்-பார்க்-கொலைக்-குற்றவாளிக்கு-எதிராக-சிவப்பு-பிடியாணை/175-361930) · `ta`
+
+ரோயல் பார்க் கொலை வழக்கு தொடர்பாக மரண தண்டனை விதிக்கப்பட்ட ஜூட் ஷமந்த ஜெயமஹாவை கைது செய்வதற்கான சிவப்பு பிடியாணையை அதிகாரிகள் பெற்றுள்ளதாக சட்டமா அதிபர் நேற்று உயர் நீதிமன்றத்தில் தெரிவித்தார்.
+
+ஜூட் ஷமந்த ஜெயமஹாவுக்கு ஜனாதிபதி மன்னிப்பு வழங்கிய முன்னாள் ஜனாதிபதி சிறிசேனவின் முடிவை எதிர்த்து தாக்கல் செய்யப்பட்ட அடிப்படை உரிமைகள் மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு வந்தபோது, சட்டமா அதிபரின் சார்பில் ஆஜரான அரசு சட்டத்தரணி இந்த தகவலை தெரிவித்தார். நீதிமன்ற உத்தரவை அமல்படுத்துவதில் ஏற்பட்டுள்ள முன்னேற்றத்தை மதிப்பிடுவதற்காக இந்த மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/7070804a.json)
+
+---
+
+### ජනපති සහ මාලදිවයින් ජනාධිපතිවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා
+
+*2025-07-28 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212744) · `si`
+
+මාලදිවයිනේ රාජ්‍ය සංචාර‍යක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡා අද (28) පස්වරුවේ මාලදිවයින් ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+මාලදිවයින් ජනාධිපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයා මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබීය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා එහි අමුත්තන්ගේ සමරු පොතෙහි සමරු සටහනක් තැබීමෙන් අනතුරුව, දෙරටේ නායකයෝ නිල ඡායාරූපයකට පෙනී සිටියහ.
+
+ඉන් අනතුරුව, ජනපති සහ මාලදිවයින් ජනාධිපතිවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා ආරම්භ විය.
+
+එම සාකච්ඡාවෙන් පසුව, දෙපාර්ශ්වය අතර ගිවිසුම් හුවමාරු කරගනු ලැබිණි. ඒ අනුව, අන්‍යෝන්‍ය නීති අධාර ගිවිසු‍මක් සහ මාලදිවයිනේ විදේශ සේවා ආයතනය (FOSIM) සහ බණ්ඩාරනායක රාජ්‍ය තාන්ත්‍රික පුහුණු ආයතනය අතර අවබෝධතා ගිවිසුම මෙසේ හුවමාරු කර ගැනිණි.
+
+...
+
+[Data](articles/ab64af9b.json)
+
+---
+
+### திலினி பிரியமாலிக்கு ரூ.2 லட்சம் பிணையில் விடுவிப்பு
+
+*2025-07-28 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221219) · `ta`
+
+ஹோமாகம காவல்துறையினரால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட தொழிலதிபர் திலினி பிரியமாலியை, இரண்டு லட்சம் ரூபாய் பிணையில் விடுவிக்க ஹோமாகம மாஜிஸ்திரேட் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+ஜூன் 16 ஆம் தேதி நீதிமன்றத்தில் நிலுவையில் உள்ள ஒரு வழக்கில் ஆஜராக சந்தேகநபர் திலினி பிரியமாலி ஹோமாகம நீதிமன்றத்திற்கு வந்தபோது, சந்தேகநபருக்கு சம்மன் வழங்கச் சென்றபோது சட்டவிரோதமாகத் தடுத்தல், குற்றவியல் மிரட்டல், கடமைக்குத் தடை ஏற்படுத்துதல் மற்றும் சம்மன் வழங்கிய நபரின் கடமைக்குத் தடை ஏற்படுத்துதல் ஆகிய குற்றச்சாட்டுகளின் பேரில் அவர் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்.
+
+இது தொடர்பாக, ஹோமாகம மாஜிஸ்திரேட் ராஜிந்திர ஜெயசுந்தர ஜூலை 14 ஆம் தேதி உத்தரவு பிறப்பித்தார், சந்தேகநபர் ஜூலை 15 ஆம் தேதி ஹோமாகம காவல் தலைமையகத்தில் ஆஜராகி வாக்குமூலம் அளிக்க உத்தரவிட்டார்.
+
+அதன்படி, சந்தேகநபரான தொழிலதிபர் திலினி பிரியமாலி, வாக்குமூலம் அளிக்க ஹோமாகம காவல் தலைமையகத்திற்கு வந்தபோது கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9b1e0715.json)
+
+---
+
+### முன்னாள் கடற்படைத் தளபதி நிஷாந்த உலுகேதென்ன கைது
+
+*2025-07-28 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/221218) · `ta`
+
+முன்னாள் கடற்படைத் தளபதி நிஷாந்த உலுகேதென்ன குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த கைதானது கடற்படை புலனாய்வு இயக்குநராக இருந்த காலத்தில் பொத்துஹெர பகுதியில் நடந்த ஒரு கடத்தல் தொடர்பான விசாரணையுடன் தொடர்புடையது என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7d9ec794.json)
+
+---
 
 ### පොල්තෙල් සඳහා ප්‍රමිතියක්
 
@@ -52,6 +118,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### செம்மணி மனிதப்புதைகுழி அகழ்வு செயன்முறையில் சர்வதேச கண்காணிப்பும் நிபுணத்துவமும் உள்வாங்கப்படுவது அவசியம் - சர்வதேச ஜுரர்கள் ஆணைக்குழு வலியுறுத்தல்
+
+*2025-07-28 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221217) · `ta`
+
+நீதியை நிலைநாட்டுவதில் உள்ளகப்பொறிமுறைகளின் நீண்டகாலத் தோல்வியைக் கருத்திற்கொண்டு நோக்குகையில், தற்போது முன்னெடுக்கப்பட்டுவரும் செம்மணி மனிதப்புதைகுழி அகழ்வு செயன்முறையில் நிலையான சர்வதேச கண்காணிப்பு உள்வாங்கப்படவேண்டியது மிக அவசியமாகும்.
+
+அதற்கமைய சுயாதீன சர்வதேச தடயவியல் நிபுணர்கள் மற்றும் மனித உரிமைகள் கண்காணிப்பாளர்கள் பணியில் ஈடுபடுத்தப்படவேண்டும். அகழ்வு செயன்முறை தொடர்பில் பாதிக்கப்பட்ட குடும்பங்கள் மற்றும் பொதுமக்களுக்கு உரிய நேரத்தில் வெளிப்படைத்தன்மைவாய்ந்த முறையில் தெளிவுபடுத்தவேண்டும் என சர்வதேச ஜுரர்கள் ஆணைக்குழு அரசாங்கத்தை வலியுறுத்தியுள்ளது.
+
+அதுமாத்திரமன்றி எதிர்வரும் செப்டெம்பர் மாதம் நடைபெறவிருக்கும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரின்போது இலங்கை தொடர்பான தீர்மானத்தைப் புதுப்பிக்கவேண்டும் எனவும் அந்த ஆணைக்குழு வேண்டுகோள்விடுத்துள்ளது.
+
+யாழ் செம்மணி சித்துபாத்தி மனிதப்புதைகுழி அகழ்வுப்பணிகள் தொடர்ந்து முன்னெடுக்கப்பட்டுவரும் நிலையில், இதுகுறித்து சர்வதேச ஜுரர்கள் ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ள அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+...
+
+[Data](articles/1a67c744.json)
+
+---
+
 ### பொரளை விபத்தில் சாரதி கஞ்சா பயன்படுத்தியமை உறுதி
 
 *2025-07-28 19:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-விபத்தில்-சாரதி-கஞ்சா-பயன்படுத்தியமை-உறுதி/175-361929) · `ta`
@@ -69,6 +153,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c1b76e87.json)
+
+---
+
+### Owner of crane truck involved in fatal Borella accident arrested
+
+*2025-07-28 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110931/owner-of-crane-truck-involved-in-fatal-borella-accident-arrested) · `en`
+
+The owner of the crane truck involved in the fatal road accident that occurred this morning (28) in Borella has also been taken into custody, police stated.
+
+According to police, both the driver and the owner of the crane truck are scheduled to be produced before the Hulftsdorp No. 02 Magistrate’s Court tomorrow.
+
+Meanwhile, the crane truck driver involved in the fatal accident, in which an individual died, was under the influence of cannabis, according to police.
+
+This has been revealed during a medical examination conducted on the relevant individual, police noted.
+
+A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
+
+Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
+
+This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
+
+...
+
+[Data](articles/b0c2eefa.json)
 
 ---
 
@@ -374,9 +482,21 @@ The former Navy Commander was arrested by the CID over the disappearance of a yo
 
 *2025-07-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110927/two-arrested-over-abduction-and-murder-of-youth-in-kahawatta-remanded) · `en`
 
-Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until July 28.
+Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until August 5, Ada Derana reporter said.
 
-◼️
+They were remanded after being produced before the Pelmadulla Magistrate’s Court.
+
+The two suspects were wanted in connection with the fatal shooting of a youth and the injury of another individual in Kahawatta on June 30.
+
+The two suspects, residents of Homagama, were then handed over to the Ratnapura Division Crimes Unit.
+
+Following interrogation, police referred them to a psychiatrist at the Ratnapura Hospital. After the evaluation, they were brought to the Pelmadulla Magistrate’s Court today.
+
+The suspects were brought to court under tight security since they are due to be presented for an identification parade.
+
+On June 30, a 22-year-old youth died in the shooting while another 27-year-old person was hospitalized after sustaining injuries.
+
+...
 
 [Data](articles/622e434b.json)
 
@@ -507,6 +627,26 @@ Accordingly, the petitions were taken up before a three-judge bench of the Supre
 ...
 
 [Data](articles/2483516c.json)
+
+---
+
+### ජූඩ් ශ්‍රමන්ත අල්ලන්න රතු නිවේදන
+
+*2025-07-28 16:49:43* · [`adalk`](https://www.ada.lk/breaking_news/ජූඩ්-ශ්‍රමන්ත-අල්ලන්න-රතු-නිවේදන/11-417561) · `si`
+
+මහත් ආන්දෝලනයකට තුඩුදුන් රෝයල් පාර්ක් මිනී මැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියමවී සිටියදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ජනාධිපති සමාව දීමෙන් පසු රටින් පළා ගිය ජූඩ් ශ්‍රමන්ත ජයමහ නමැත්තා අත්අඩංගුවට ගැනීම සඳහා ‘රතු නිවේදන’ නිකුත් කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (28) දැනුම් දුන්නේය.
+
+නඩුව කැඳවු අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ සජිත් බණ්ඩාර මහතා ඒ බව දැනුම් දුන්නේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන එස්. තුරේරාජා, යසන්ත කෝදාගොඩ සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල විනිසුරු මඩුල්ල හමුවේ කැඳවූ පෙත්සම සලකා බැලිණි.
+
+කාන්තා මාධ්‍ය එකමුතුව ඉදිරිපත් කර ඇති මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා” ජූඩ් ශ්‍රමන්ත ජයමහ නමැත්තා” නීතීපතිවරයා ඇතු`ථ පිරිසක් නම් කර ඇත”
+
+අදාළ මූලික අයිතිවාසිකම් පෙත්සම විභාග කළ ශ්‍රේෂ්ඨාධිකරණය හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා විසින් ජූඩ් ශ්‍රමන්ත නමැත්තාට සමාව ප්‍රදානය කළ ආකාරය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බව මීට පෙර අවස්ථාවක තීන්දු කළේය.
+
+...
+
+[Data](articles/8b6fc945.json)
 
 ---
 
@@ -1346,6 +1486,30 @@ The accident occurred when a crane traveling from Rajagiriya towards the Bauddha
 
 ---
 
+### Crane truck driver involved in fatal Borella accident tests positive for cannabis
+
+*2025-07-28 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110915/crane-truck-driver-involved-in-fatal-borella-accident-tests-positive-for-cannabis-) · `en`
+
+The crane driver involved in the fatal accident in Borella this morning (28), in which an individual died, was under the influence of cannabis, according to Police.
+
+This has been revealed during a medical examination conducted on the relevant individual, police noted.
+
+A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
+
+Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
+
+This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
+
+Dr. Rukshan Bellana also noted that among the injured, two are women, and the remaining five are men.
+
+The accident occurred when a crane traveling from Rajagiriya towards the Bauddhaloka Mawatha collided with six motorcycles and three motor vehicles that were stopped near the traffic signals at the Kanatta roundabout.
+
+...
+
+[Data](articles/a4d95a50.json)
+
+---
+
 ### බොරැල්ලේ මාරක අනතුර - දොඹකරයේ රියදුරු ගංජා පානය කර සිටි බව හෙළිවෙයි
 
 *2025-07-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212727) · `si`
@@ -1641,153 +1805,5 @@ Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previ
 ...
 
 [Data](articles/50b4f16e.json)
-
----
-
-### ’’City of Dreams Sri Lanka’’ யில் ஹிருத்திக்
-
-*2025-07-28 12:00:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/City-of-Dreams-Sri-Lanka-யில்-ஹிருத்திக்/175-361885) · `ta`
-
-இலங்கையின் முதன்மையான பொழுதுபோக்கு மையமாகத் திகழவிருக்கும் ‘City of Dreams Sri Lanka’இன் அங்குரார்ப்பண நிகழ்வு பிரபல நட்சத்திர நடிகரான ஹிருத்திக் ரோஷனின் சமூகமளிப்போடு பிரமாண்டமான கொண்டாட்டங்களுடன் நடைபெறவுள்ளது.
-
-'Krrish', 'War', மற்றும் 'Super 30' போன்ற திரைப்படங்களில் தனது சிறப்பான நடிப்பிற்காக அறியப்பட்ட பிரபல நடிகரான ஹிருத்திக்ரோஷனின் வருகை, தெற்காசியாவின்படைப்பாற்றல் மற்றும் கலாச்சாரத் திறமைகளை பிராந்திய அளவில் வெளிச்சத்திற்குக் கொண்டு வரும் இத்திட்டத்தின் லட்சியத்தை சுட்டிக்காட்டுகிறது.
-
-City of Dreams Sri Lanka என்பது ஒரு அற்புதமான, புதிய திட்டமாகும். இது உயர்தர சொகுசு தங்குமிடங்கள், உலகத்தரம் வாய்ந்த உணவகங்கள், நவீன சில்லறை வர்த்தக நிலையங்கள் மற்றும் அற்புதமான பொழுதுபோக்கு அம்சங்கள் அனைத்தையும் ஒரே கூரையின் கீழ் கொண்டு வருகிறது. ஆகஸ்ட் 2 ஆம் திகதி ஒரு தொடர்ச்சியான கொண்டாட்டத்தின் ஆரம்பமாகும்.
-
-இது கொழும்பிற்கு ஒரு புதிய அத்தியாயத்தை உருவாக்கும் – தன்னம்பிக்கை, படைப்பாற்றல் மற்றும் பிராந்திய இணைப்பு ஆகியவற்றை உள்ளடக்கிய ஒரு புதிய சகாப்தம் என்பதும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/0b57bcc9.json)
-
----
-
-### නව ඌව පළාත් ප්‍රධාන ලේකම් පත් කෙරේ
-
-*2025-07-28 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212723) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි ඌව පළාත් ප්‍රධාන ලේකම් ලෙස පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය පත් කරනු ලැබ තිබේ.
-
-ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම මහත්මිය වෙත භාර දුන්නේය.
-
-ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය, මෙම පත්කිරීමට පෙර, බස්නාහිර පළාත් අධ්‍යාපන, සංස්කෘතික හා කලා කටයුතු, ක්‍රීඩා හා යෞවන කටයුතු සහ තොරතුරු තාක්ෂණය පිළිබඳ අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළාය.
-
-◼️
-
-[Data](articles/5ab1acdb.json)
-
----
-
-### ජනපති මාලදිවයිනට ලඟා වෙයි
-
-*2025-07-28 11:49:42* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මාලදිවයිනට-ලඟා-වෙයි/11-417551) · `si`
-
-මාලදිවයිනේ රාජ්‍ය සංචාර‍ය ආරම්භ කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (28දා) පෙරවරුවේ වෙලානා ජාත්‍යන්තර ගුවන් තොටුපොළට ළඟා වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
-
-එහිදී මාලදිවයිනේ ජාතික ආරක්ෂක බලකායේ උත්තමාචාර මධ්‍යයේ එරට ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) විසින් ජනාධිපතිවරයා මහත් හරසරින් යුතුව පිළිගනු ලැබිණි.
-
-◼️
-
-[Data](articles/ad1915fd.json)
-
----
-
-### நாளை முதல் நாடு தழுவிய அடையாள வேலைநிறுத்தம்
-
-*2025-07-28 11:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-நாடு-தழுவிய-அடையாள-வேலைநிறுத்தம்/175-361884) · `ta`
-
-நாளை (29) நள்ளிரவு முதல் நாடு தழுவிய 48 மணி நேர அடையாள வேலைநிறுத்தத்தில் ஈடுபடவுள்ளதாக ரயில் இயந்திர ஓட்டுநர் சங்கம் தெரிவித்துள்ளது.
-
-தவறான சமிக்ஞை அமைப்புகள் உட்பட பல்வேறு பிரச்சினைகள் தொடர்பாக இந்த அடையாள வேலைநிறுத்தம் தொடங்கப்படும் என்று தொழிற்சங்கத் தலைவர் கே.ஏ.யு. கொண்டசிங்க தெரிவித்தார்.
-
-இந்த அடையாள வேலைநிறுத்தம் காரணமாக நாடு முழுவதும் உள்ள அனைத்து ரயில்களும் நிறுத்தப்படும் என்று அவர் மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/0bee9ec5.json)
-
----
-
-### බොරැල්ලේ මාරක අනතුරින් තුවාල ලැබු 7ක් තවමත් රෝහලේ
-
-*2025-07-28 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212722) · `si`
-
-අද (28) උදෑසන බොරැල්ල, කනත්ත හන්දියේ දී සිදුවු මාරක අනතුරින් තුවාල ලැබු පුද්ගලයින් 7 දෙනෙකු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
-
-පොලීසිය පැවසුවේ, අනතුරින් තුවාල ලැබූ එක් අයෙක් රෝහල් ගත කිරීමේදී මියගොස් සිටි බව කොළඹ ජාතික රෝහලේ, නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැවසීය.
-
-තුවාලකරුවන් අතරින් දෙදෙනෙකු කාන්තාවන් වන බවත්, ඉතිරි පස්දෙනාම පිරිමි පුද්ගලයින් වන බව ද වෛද්‍යවරයා කියා සිටියේය.
-
-අද උදෑසන රාජගිරිය දෙස සිට බෞද්ධාලෝක මාවත දෙසට ධාවනය වෙමින් තිබූ දොඹකරයක්, කනත්ත වටරවුමේ මාර්ග සංඥා අසල නවතා තිබූ යතුරු පැදි 6ක සහ මෝටර් රථ 3ක් ගැටී අනතුර සිදුව තිබුණි.
-
-අනතුර සිදුකළ දොඹකරයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, දොඹකරයේ තිරිංග අක්‍රීය වීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැක පළ කරයි.
-
-◼️
-
-[Data](articles/f914f434.json)
-
----
-
-### மாலைதீவில்  ஜனாதிபதிக்கு அமோக வரவேற்பு
-
-*2025-07-28 11:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைதீவில்-ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-361883) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க மாலைதீவுக்கான அரச விஜயத்தை ஆரம்பித்து, திங்கட்கிழடமை (28) அன்று முற்பகல் வெலானா சர்வதேச விமான நிலையத்தை சென்றடைந்தார்.
-
-அங்கு மாலைதீவின் தேசிய பாதுகாப்புப் படையின் மரியாதைக்கு மத்தியில் ஜனாதிபதியை அந்நாட்டு ஜனாதிபதி கலாநிதி மொஹமட் முய்சு (Dr Mohamed Muizzu) வரவேற்றார்.
-
-ஜனாதிபதியை வரவேற்கும் முகமாக மாலைதீவு வெலானா சர்வதேச விமான நிலையத்தின் விசேட விருந்தினர் வருகை முனையத்தில் சிறுமிகள் குழுவொன்று அழகிய கலாசார நடனத்தை நிகழ்த்தியதுடன், ஜனாதிபதி அந்த சிறுமிகளுடன் சிறு உரையாடலிலும் ஈடுபட்டார்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவை வரவேற்கும் உத்தியோகபூர்வ வைபவம் மாலைதீவு ஜனாதிபதி கலாநிதி மொஹமட் முய்சு (Dr Mohamed Muizzu) தலைமையில் மாலைதீவின் தலைநகரான மாலேயில் உள்ள குடியரசு சதுக்கத்தில் இன்று பிற்பகல் நடைபெறவுள்ளது.
-
-வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும் அரசாங்கத்தின் சிரேஷ்ட அதிகாரிகள் குழுவினரும் இந்த அரச விஜயத்தில் கலந்து கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/3dd73e8f.json)
-
----
-
-### President Anura Kumara begins state visit to Maldives
-
-*2025-07-28 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110908/president-anura-kumara-begins-state-visit-to-maldives) · `en`
-
-President Anura Kumara Dissanayake, who left the island this morning (28), on a three-day state visit to the Maldives, landed at the Velana International Airport in Male, a short while ago.
-
-On his arrival, President Dissanayake and the Sri Lankan delegation were received by Maldivian President Mohamed Muizzu, the President’s Media Division stated.
-
-The President was then accorded a Guard of Honour by the Maldives National Defence Force.
-
-An official welcome ceremony is scheduled to take place later today.
-
-During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation.
-
-The two leaders are also expected to hold discussions aimed at further strengthening bilateral ties between Sri Lanka and the Maldives.
-
-They are also due to deliver joint press statements outlining the outcomes of their discussions.
-
-...
-
-[Data](articles/104d40b3.json)
-
----
-
-### மாணவர்களுக்கு இனி இரண்டு இடைவேளை
-
-*2025-07-28 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இனி-இரண்டு-இடைவேளை/175-361882) · `ta`
-
-புதிய கல்வி சீர்திருத்தங்களின் கீழ், பாடசாலை நேரங்கள் மற்றும் இடைவேளை நேரங்கள் மாற்றப்பட்டுள்ளன.
-
-அதன்படி, பாடசாலைகள் காலை 7.30 மணி முதல் பிற்பகல் 2.00 மணி வரை நடைபெறும், மேலும் இரண்டு இடைவேளைகளை வழங்க பரிந்துரைக்கப்பட்டுள்ளது.
-
-ஜனவரி 1 ஆம் திகதியிலிருந்து பாடசாலை நேரம் ஒரு நாளைக்கு 50 நிமிடங்கள் அதிகரிக்கும் என்பதால், மாணவர்களால் அதைத் தாங்க முடியாது.
-
-எனவே தினமும் காலை 10.10 மணி முதல் காலை 10.30 மணி வரை மற்றும் மதியம் 12.10 மணி முதல் மதியம் 12.20 மணி வரை இரண்டு இடைவேளை வழங்கப்பட்டுள்ளதாக தேசிய கல்வி நிறுவனத்தின் உதவி பணிப்பாளர் நாயகம் டாக்டர் அசோக டி சில்வா தெரிவித்தார்.
-
-அதன்படி, காலை 7.40 முதல் 8.30 மணி வரை, காலை 8.30-9.20 மணி வரை, காலை 9.20 -10.10 மணி வரை, காலை 10.30 -11.20 மணி வரை, காலை 11.20 முதல் மதியம் 12.10 மணி வரை மற்றும் மதியம் 12.20 -1.10 மணி வரை, பிற்பகல் 1.10-2.00 மணி வரை என நேரங்கள் மாற்றியமைக்கப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/53a3c201.json)
 
 ---

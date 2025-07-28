@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 14:07:48**
+As of **2025-07-28 14:26:11**
 
 ## Newspaper Stats
 
-*Scraped **67,226** Articles*
+*Scraped **67,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,450
-adaderanalk | 8,263
+adaderanalk | 8,267
 tamilmirrorlk | 9,728
-virakesarilk | 11,205
+virakesarilk | 11,207
 adaderanasinhalalk | 11,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,226 articles have been extended.
+61,973 (92.2%) of 67,232 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,6 +74,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### தியவடன நிலமே தெரிவுக்கான வாக்களிப்பில் பெண்களுக்கும் உரிமை வழங்கப்பட வேண்டும் – கண்டியில் ஆர்ப்பாட்டம்
+
+*2025-07-28 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221148) · `ta`
+
+தியவடன நிலமே தெரிவுக்கான வாக்களிப்பில் பெண்களுக்கும் உரிமை வழங்கப்பட வேண்டும் என்ற கோரிக்கையுடன், கண்டி வாவிக் கரையில் அமைதியான முறையில் ஆர்ப்பாட்டமொன்று இன்று திங்கட்கிழமை (28) இடம்பெற்றது.
+
+இந்த அமைதி ஆர்ப்பாட்டம் கண்டி பொதுமக்கள் அமைப்பு, சிவில் அமைப்புகள், சமூக செயற்பாட்டாளர்கள் மற்றும் சில தொழிற்சங்க உறுப்பினர்களின் ஒருங்கிணைப்பில் முன்னெடுக்கப்பட்டது.
+
+தற்போதைய நடைமுறைப்படி, கண்டி மாவட்ட பிரதேச செயலாளர்களில் ஆண்களுக்கு மட்டுமே தியவடன நிலமே தெரிவுக்கான வாக்களிப்பு உரிமை வழங்கப்பட்டுள்ளது. பெண் பிரதேச செயலாளர்கள் வாக்களிக்க முடியாத நிலைமை காணப்படுகிறது.
+
+இது பாலின சமத்துவத்துக்கு எதிரான ஒரு செயற்பாடாக இருப்பதாகக் கூறிய ஆர்ப்பாட்டக்காரர்கள், சட்ட திருத்தங்கள் மூலம் இந்த பாகுபாட்டை நீக்கி பெண்களுக்கும் சம உரிமை வழங்கப்பட வேண்டுமென வலியுறுத்தினர்.
+
+◼️
+
+[Data](articles/5713abbf.json)
+
+---
+
+### நல்லூர் திருவிழாவுக்காக எடுக்கப்படும் மணலை பாதுகாத்து அடுத்த ஆண்டும் பயன்படுத்துமாறு யாழ். அரசாங்க அதிபர் கோரிக்கை
+
+*2025-07-28 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221144) · `ta`
+
+நல்லூர் திருவிழாவுக்காக இம்முறை எடுக்கப்படும் மணலை பாதுகாத்து, அடுத்த ஆண்டிலும் பயன்படுத்துமாறு யாழ்ப்பாணம் மாநகர சபையிடம் கோரிக்கை விடுக்கப்பட்டுள்ளதாக யாழ். மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் தெரிவித்துள்ளார்.
+
+நல்லூர் திருவிழா நாளை 29ஆம் திகதி ஆரம்பமாகவுள்ளது. இதற்கான மணல் விநியோகத்திற்காக யாழ்ப்பாணம் மாநகர சபை முன்வைத்த கோரிக்கையின் அடிப்படையில் ஏற்பட்ட சில இடையூறுகள் குறித்து விளக்கமளிக்கும்போது அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மண்ணுக்கான அனுமதியை பெறும் முயற்சியில், மருதங்கேணி பிரதேச செயலர் அந்தப் பகுதியில் உள்ள சமூகமட்ட அமைப்புகளுடன் கலந்துரையாடி, அனுமதி பெற முயற்சித்தபோதும், அதற்கு மறுப்புகள் வந்ததாகவும், பின்னர் நாகர் கோவில் மேற்கு விளையாட்டுக் கழகம் அனுமதி வழங்கியதைக் கொண்டே வனஜீவராசிகள் திணைக்களத்திடம் கோரிக்கை முன்வைக்கப்பட்டதாகவும் அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/6ae6e859.json)
+
+---
+
 ### 2025 පළමු මාස හයේ අපනයන ආදායම ඩොලර් බිලියන 8.3 ඉක්මවයි
 
 *2025-07-28 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212726) · `si`
@@ -93,6 +127,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/103859a2.json)
+
+---
+
+### Sri Lanka’s exports surge to USD 8.3 billion in first six months of 2025
+
+*2025-07-28 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110914/sri-lankas-exports-surge-to-usd-83-billion-in-first-six-months-of-2025) · `en`
+
+Sri Lanka’s export sector demonstrated remarkable resilience and steady progress during the first six months of 2025, with total exports reaching US$ 8,337.86 million, marking a robust 6.70 % growth compared to the same period in 2024., the Central Bank of Sri Lanka said.
+
+Total exports, including both merchandise and services reached US$ 1,460.34 Mn in June 2025. This shows an impressive year-on-year growth of 8.73% over June 2024, highlighting the strength of Sri Lanka’s export sector and the effectiveness of ongoing strategies to broaden market reach and improve global competitiveness.
+
+In June 2025 alone, merchandise exports grew by 6.85 % year-on-year, reaching US$ 1,150.73 Mn, according to provisional data of Sri Lanka Customs including the estimates for Gems & Jewellery and Petroleum Products. For the period January to June 2025, merchandise exports totaled US$ 6,504.72 Mn, reflecting 5.86% increase compared to the same period in 2024.
+
+...
+
+[Data](articles/de19b606.json)
 
 ---
 
@@ -128,6 +178,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Four Acting Ministers appointed during President’s visit to Maldives
+
+*2025-07-28 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110911/four-acting-ministers-appointed-during-presidents-visit-to-maldives-) · `en`
+
+Four Acting Ministers have been appointed for key ministries in light of President Anura Kumara Dissanayake’s state visit to the Maldives.
+
+President Dissanayake left the island this morning on a three-day state visit to the Maldives.
+
+President Dissanayake was accompanied on his three-day state visit to the Maldives by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
+
+The appointments, announced by the President’s Media Division (PMD), are as follows:
+
+• Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando has been appointed as the Acting Minister of Finance, Planning and Economic Development.
+
+• Deputy Minister of Digital Economy, Eranga Weeraratne has been appointed as the Acting Minister of Digital Economy.
+
+• Deputy Minister of Defense, Aruna Jayasekara has been appointed as the Acting Minister of Defense.
+
+...
+
+[Data](articles/7859848c.json)
+
+---
+
+### 4 killed in ‘mass shooting’ in Thai capital: police
+
+*2025-07-28 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110910/4-killed-in-mass-shooting-in-thai-capital-police) · `en`
+
+Four security guards were killed and one other person wounded in a mass shooting at a popular fresh food market in Thailand’s capital on Monday, police said.
+
+“Police are investigating the motive. So far it’s a mass shooting,” Worapat Sukthai, deputy police chief of Bangkok’s Bang Sue district where the incident took place, told AFP—adding that the gunman took his own life.
+
+◼️
+
+[Data](articles/8cee2530.json)
+
+---
+
 ### திருமணம் செய்யாமலே கர்ப்பமான நடிகை
 
 *2025-07-28 12:30:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/திருமணம்-செய்யாமலே-கர்ப்பமான-நடிகை/54-361891) · `ta`
@@ -139,6 +227,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eec17218.json)
+
+---
+
+### President appoints new Chief Secretary for Uva Province
+
+*2025-07-28 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110909/president-appoints-new-chief-secretary-for-uva-province) · `en`
+
+President Anura Kumara Dissanayake has appointed P.A.G. Fernando as the Chief Secretary of Uva Province, effective immediately, the President’s Media Division stated.
+
+The letter of appointment was officially handed over to her by the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat this morning (28).
+
+Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previously served as the Secretary to the Ministry of Education Cultural & Arts, Sports & Youth Affairs & Information Technology Western Province, the PMD added.
+
+◼️
+
+[Data](articles/416b1d08.json)
 
 ---
 
@@ -1703,109 +1807,5 @@ The campaign was officially launched on 23 July, in partnership with the Ministr
 ...
 
 [Data](articles/7dc15ba0.json)
-
----
-
-### European Union and Sri Lanka host landmark International Conference on Child Protection to tackle violence against children
-
-*2025-07-28 03:24:41* · [`dailyftlk`](https://www.ft.lk/news/European-Union-and-Sri-Lanka-host-landmark-International-Conference-on-Child-Protection-to-tackle-violence-against-children/56-779553) · `en`
-
-Marking a critical push to combat all forms of violence against children in Sri Lanka, the International Conference on Child Protection (ICCP’25) was inaugurated on 25 July and ran until yesterday (27 July). The conference brings together over 250 participants, including Government  leaders, leading Government  institutions, international and local experts, researchers, and child protection practitioners, to forge stronger protection systems for children.
-
-Hosted by the Centre for Gender Studies at the University of Kelaniya in collaboration with the National Child Protection Authority (NCPA) and supported by the European Union (EU) through UNICEF Sri Lanka, ICCP’25 aims to drive policy, academic, and institutional action on some of the country’s most pressing issues related to children.
-
-...
-
-[Data](articles/729a4881.json)
-
----
-
-### நாட்டில் பல்வேறு பகுதிகளில் மழையுடனான காலநிலை தொடரும் சாத்தியம்
-
-*2025-07-28 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221118) · `ta`
-
-புத்தளத்திலிருந்து கொழும்பு மற்றும் காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளில் பல இடங்களில் 28ஆம் திகதி திங்கட்கிழமை மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது. காலநிலை தொடர்பில் விடுக்கப்படும் முன்னெச்சரிக்கை தொடர்பில் அவதானம் செலுத்துமாறு அனர்த்த முகாமைத்துவ மத்திய நிலையம் பொதுமக்களிடம் வலியுறுத்துகிறது.
-
-நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் காற்றானது மேற்கு முதல் தென்மேற்கு வரையான திசைகளிலிருந்து வீசக் கூடிய சாத்தியம் காணப்படுவதுடன், காற்றின் வேகமானது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
-
-மாத்தறையிலிருந்து ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளிலும் கல்பிட்டியிலிருந்து மன்னார், காங்கேசந்துறை மற்றும் திருகோணமலை ஊடாக வாகரை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளிலும் காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 50-55 கிலோ மீற்றர் வரை அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுகின்றது.
-
-...
-
-[Data](articles/1512d83c.json)
-
----
-
-### Five new foreign envoys present credentials to President
-
-*2025-07-28 03:03:58* · [`dailyftlk`](https://www.ft.lk/news/Five-new-foreign-envoys-present-credentials-to-President/56-779552) · `en`
-
-Five newly appointed Ambassadors and one High Commissioner to Sri Lanka officially presented their credentials to President Anura Kumara Disanayake at the Presidential Secretariat last week (24).
-
-Alem Woldemariam – Ambassador of the State of Eritrea (Resident in New Delhi)
-
-Jagnnath Sami – High Commissioner of the Republic of Fiji (Resident in New Delhi)
-
-Alisher Tukhtaev – Ambassador of the Republic of Uzbekistan (Resident in Islamabad)
-
-Yousef Mustafa Abdelghani – Ambassador of the Hashemite Kingdom of Jordan (Resident in New Delhi)
-
-Sergey Viktorov – Ambassador of the Republic of Kazakhstan (Resident in Colombo)
-
-Dasho Karma Hamu Dorjee – Ambassador of the Kingdom of Bhutan (Resident in Dhaka)
-
-Notably, among the diplomats who presented their credentials was the newly appointed Ambassador for the Republic of Kazakhstan Sergey Viktorov.
-
-...
-
-[Data](articles/3683c713.json)
-
----
-
-### நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட விசேட சோதனையின் போது 1,182 கைது!
-
-*2025-07-28 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221117) · `ta`
-
-நாடளாவிய ரீதியில் 26ஆம் திகதி சனிக்கிழமை முன்னெடுக்கப்பட்ட விசேட சோதனையின் போது 1,182 கைது செய்யப்பட்டுள்ளனர். இவர்களில்  திறந்த  பிடியாணை பிறப்பிக்கப்பட்ட 410 பேரும் பல்வேறு குற்றச் செயல்களுடன் நேரடி தொடர்புடையதாக கூறப்படும் 20 பேரும் உள்ளடங்குவதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்தது.
-
-நாட்டில் இடம்பெறும் போதைப்பொருள் வர்த்தகம் மற்றும் திட்டமிட்ட குற்றச் செயல்களை கட்டுப்படுத்தும் நோக்கில் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய அண்மைய நாட்களாக நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்புகள் முன்னெடுக்கப்பட்டு வருகின்றன.
-
-இதன் ஒரு கட்டமாக நாடளாவிய ரீதியில் சனிக்கிழமை (26) விசேட தேடுதல் நடவடிக்கைகள் முன்னெடுக்கப்பட்டிருந்தன. இதற்காக பொலிஸார், பொலிஸ் விசேட அதிரப்படையினர், இராணுவம், கடற்படை மற்றும் விமானப்படைச் சேர்ந்த சுமார் 7600 இற்கும் மேற்பட்ட அதிகாரிகள் கடமைக்காக அழைக்கப்பட்டிருந்தனர்.
-
-இதற்கமைய  24 ஆயிரத்து 343 பேர் சோதனைக்கு உட்படுத்தப்பட்டிருந்ததுடன்  இதன்போது 9 ஆயிரத்து 727 வாகனங்களும் சோதனைக்கு உட்படுத்தப்பட்டிருந்தன.
-
-...
-
-[Data](articles/0c5afe1b.json)
-
----
-
-### கடந்த காலங்களில் ஆட்சியில் இருந்த அரசாங்கங்கள் கல்வித்துறையை தமது அரசியல் தீர்மானங்களைச் செயல்படுத்துவதற்காகப் பயன்படுத்தினர் - பிரதமர்
-
-*2025-07-28 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/221116) · `ta`
-
-கடந்த காலங்களில் ஆட்சியில் இருந்த அரசாங்கங்கள் கல்வியைப் பற்றிப் பெருமளவில் பேசிய போதிலும் அவர்கள் முன்னெடுத்து வந்த அரசியல் கலாச்சாரத்தினால் கல்வித்துறையில் பல்வேறு பிரச்சினைகள் ஏற்பட்டன. பெரும்பாலும் அவர்கள் கல்வியையும் தமது அரசியல் தீர்மானங்களைச் செயல்படுத்துவதற்காகப் பயன்படுத்தினர். தமது பெயரால் கட்டிடத்தைத் திறந்து வைப்பது போன்ற கண்காட்சி அரசியலுக்காகத் தமது அதிகாரத்தைப் பயன்படுத்தி கல்வித்துறைக்கு பெரும் அழிவை ஏற்படுத்தியிருக்கிறார்கள் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
-
-கல்விச் சீர்திருத்தம் என்பது வெறுமனே புதிய பாடப்புத்தகங்களை அறிமுகப்படுத்துவது அல்ல.மாறாக ஒட்டுமொத்த கல்வி முறைமையையும் மாற்றி அமைப்பதாகும். எனவே கல்வி ரீதியாக முன்னேற்றமடைந்த ஒரு நாடாக எமது நாட்டை அபிவிருத்தி அடையச் செய்வதற்கு அனைவருக்கும் அழைப்பு விடுப்பதாக அவர் மேலும் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/a24041c1.json)
-
----
-
-### மின்சார சபையை தனியார் மயப்படுத்த அரசு முயற்சி – பாட்டலி சம்பிக்க ரணவக்க குற்றச்சாட்டு
-
-*2025-07-28 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221115) · `ta`
-
-இலங்கை மின்சார சபையின் தனியுரிமையை தனியார் மயப்படுத்தவே இந்த அரசாங்கம் முயற்சிக்கிறது. முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க அரச நிறுவனங்களை தனியார் மயப்படுத்துவதாக குறிப்பிட்டுக் கொண்டு ஆட்சிக்கு வந்த ஜனாதிபதி அநுரகுமார திசாநாயக்க மின்சார சபையின் தனியுரிமையை இலங்கை மின்சார (திருத்தச்) சட்டமூலம் ஊடாக குழித் தோண்டிப்புதைக்க முயற்சிக்கிறார் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,முன்னாள் பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
-
-இலங்கை மின்சாரசபை (திருத்தச்) சட்டமூலம் தொடர்பான இரண்டாவது மதிப்பீடு விவாதம் எதிர்வரும் 06 ஆம் திகதி இடம்பெறவுள்ளது. மின்சார சபைச் சட்டமூலம் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசாங்கத்தால் கடும் சர்ச்சைகளுக்கு மத்தியில் நிறைவேற்றப்பட்டது.
-
-கடந்த அரசாங்கத்தால் இந்த சட்டம் தொடர்பான சட்டமூலம் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்பட்டதன் பலர் இந்த சட்டமூலத்தை சவாலுக்குட்படுத்தி உயர்நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்தார்கள்.நீதிமன்றத்தின் வியாக்கியானத்துக்கு பின்னர் சட்டம் இயற்றப்பட்டது.
-
-...
-
-[Data](articles/6b30f277.json)
 
 ---

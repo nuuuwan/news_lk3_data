@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 11:36:48**
+As of **2025-07-28 11:52:31**
 
 ## Newspaper Stats
 
-*Scraped **67,194** Articles*
+*Scraped **67,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,444
 adaderanalk | 8,258
-tamilmirrorlk | 9,718
+tamilmirrorlk | 9,720
 virakesarilk | 11,205
 adaderanasinhalalk | 11,546
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 11,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,194 articles have been extended.
+61,973 (92.2%) of 67,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### மாலைதீவில்  ஜனாதிபதிக்கு அமோக வரவேற்பு
+
+*2025-07-28 11:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைதீவில்-ஜனாதிபதிக்கு-அமோக-வரவேற்பு/175-361883) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க மாலைதீவுக்கான அரச விஜயத்தை ஆரம்பித்து, திங்கட்கிழடமை (28) அன்று முற்பகல் வெலானா சர்வதேச விமான நிலையத்தை சென்றடைந்தார்.
+
+அங்கு மாலைதீவின் தேசிய பாதுகாப்புப் படையின் மரியாதைக்கு மத்தியில் ஜனாதிபதியை அந்நாட்டு ஜனாதிபதி கலாநிதி மொஹமட் முய்சு (Dr Mohamed Muizzu) வரவேற்றார்.
+
+ஜனாதிபதியை வரவேற்கும் முகமாக மாலைதீவு வெலானா சர்வதேச விமான நிலையத்தின் விசேட விருந்தினர் வருகை முனையத்தில் சிறுமிகள் குழுவொன்று அழகிய கலாசார நடனத்தை நிகழ்த்தியதுடன், ஜனாதிபதி அந்த சிறுமிகளுடன் சிறு உரையாடலிலும் ஈடுபட்டார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவை வரவேற்கும் உத்தியோகபூர்வ வைபவம் மாலைதீவு ஜனாதிபதி கலாநிதி மொஹமட் முய்சு (Dr Mohamed Muizzu) தலைமையில் மாலைதீவின் தலைநகரான மாலேயில் உள்ள குடியரசு சதுக்கத்தில் இன்று பிற்பகல் நடைபெறவுள்ளது.
+
+வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும் அரசாங்கத்தின் சிரேஷ்ட அதிகாரிகள் குழுவினரும் இந்த அரச விஜயத்தில் கலந்து கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/3dd73e8f.json)
+
+---
+
+### மாணவர்களுக்கு இனி இரண்டு இடைவேளை
+
+*2025-07-28 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இனி-இரண்டு-இடைவேளை/175-361882) · `ta`
+
+புதிய கல்வி சீர்திருத்தங்களின் கீழ், பாடசாலை நேரங்கள் மற்றும் இடைவேளை நேரங்கள் மாற்றப்பட்டுள்ளன.
+
+அதன்படி, பாடசாலைகள் காலை 7.30 மணி முதல் பிற்பகல் 2.00 மணி வரை நடைபெறும், மேலும் இரண்டு இடைவேளைகளை வழங்க பரிந்துரைக்கப்பட்டுள்ளது.
+
+ஜனவரி 1 ஆம் திகதியிலிருந்து பாடசாலை நேரம் ஒரு நாளைக்கு 50 நிமிடங்கள் அதிகரிக்கும் என்பதால், மாணவர்களால் அதைத் தாங்க முடியாது.
+
+எனவே தினமும் காலை 10.10 மணி முதல் காலை 10.30 மணி வரை மற்றும் மதியம் 12.10 மணி முதல் மதியம் 12.20 மணி வரை இரண்டு இடைவேளை வழங்கப்பட்டுள்ளதாக தேசிய கல்வி நிறுவனத்தின் உதவி பணிப்பாளர் நாயகம் டாக்டர் அசோக டி சில்வா தெரிவித்தார்.
+
+அதன்படி, காலை 7.40 முதல் 8.30 மணி வரை, காலை 8.30-9.20 மணி வரை, காலை 9.20 -10.10 மணி வரை, காலை 10.30 -11.20 மணி வரை, காலை 11.20 முதல் மதியம் 12.10 மணி வரை மற்றும் மதியம் 12.20 -1.10 மணி வரை, பிற்பகல் 1.10-2.00 மணி வரை என நேரங்கள் மாற்றியமைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/53a3c201.json)
+
+---
 
 ### புதிய கல்வி சீர்திருத்தம் குறித்து பிரதமர் கருத்து
 
@@ -1721,43 +1761,5 @@ NDB reported an impressive 143.6% year-on-year (YoY) earnings growth in 1Q2025
 ...
 
 [Data](articles/1d29d0ff.json)
-
----
-
-### Sri Lanka must stay the course on tough reforms: IMF
-
-*2025-07-27 18:39:00* · [`islandlk`](http://island.lk/sri-lanka-must-stay-the-course-on-tough-reforms-imf/) · `en`
-
-An International Monetary Fund (IMF) mission team concluded its visit to Sri Lanka recently, acknowledging the country’s progress under its economic reform programme but cautioning that the road ahead remains fraught with challenges.
-
-While growth has exceeded expectations and inflation is stabilising, the IMF stressed that Sri Lanka must deepen reforms – particularly in taxation, debt management, and governance to secure long-term stability amid global uncertainties.
-
-The IMF noted that Sri Lanka’s economy grew by 4.8% year-on-year in Q1 2025, surpassing projections. Inflation has eased to -1.1%, and foreign reserves have climbed to $6 billion. However, the mission warned that looming threats including potential export tariffs, geopolitical tensions, and trade uncertainties demand unwavering commitment to fiscal discipline.
-
-...
-
-[Data](articles/147517f0.json)
-
----
-
-### Lanka Ashok Leyland exports to Maldives, eyes Africa
-
-*2025-07-27 18:35:00* · [`economynextcom`](https://economynext.com/lanka-ashok-leyland-exports-to-maldives-eyes-africa-232927/) · `en`
-
-ECONOMYNEXT – Lanka Ashok Leyland, a unit of India’s Ashok Leyland, a commercial vehicle distributor which also assembles in Sri Lanka said it wants to grow exports and is looking at markets in Africa.
-
-The company had export revenues of 140 million in 2025 and 255 million a year earlier, mainly from shipment to the Maldives.
-
-“To further support national economic recovery and industry competitiveness, the company has also started laying groundwork to develop export capabilities,” Lanka Ashok Leyland told shareholders in the annual report.
-
-“Initial consignments were delivered to the Maldives, and exploratory work has begun to assess market opportunities in right-hand drive countries across Africa.
-
-“Though still at a nascent stage, exports remain an important component of the company’s long-term growth agenda.
-
-“This initiative marks a significant milestone in expanding the company’s regional footprint and showcases its capability to meet international standards in vehicle assembling.
-
-...
-
-[Data](articles/d781b7e6.json)
 
 ---

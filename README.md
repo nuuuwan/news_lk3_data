@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 04:48:29**
+As of **2025-07-29 05:06:49**
 
 ## Newspaper Stats
 
-*Scraped **67,361** Articles*
+*Scraped **67,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 islandlk | 4,115
 economynextcom | 4,116
 dailymirrorlk | 4,733
-dailyftlk | 4,761
+dailyftlk | 4,768
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,751
@@ -26,11 +26,127 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,361 articles have been extended.
+61,973 (92.0%) of 67,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Easter Sunday attack negligence case against Hemasiri, Pujith to resume on 18 September
+
+*2025-07-29 04:36:21* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-attack-negligence-case-against-Hemasiri-Pujith-to-resume-on-18-September/56-779614) · `en`
+
+The Colombo High Court Trial-at-Bar yesterday announced that the criminal negligence case against former Defence Secretary Hemasiri Fernando and former Inspector General of Police (IGP) Pujith Jayasundara will be taken up again on 18 September.
+
+The case, which accuses the two former top officials of failing to act on prior intelligence to prevent the 2019 Easter Sunday terrorist attacks, was heard yesterday before a High Court bench comprising Judges Namal Balalle and Mohamed Irshadeen.
+
+During proceedings, Deputy Solicitor General Sudarshan de Silva, representing the Attorney General, informed the Court that one of the original trial judges, Adithya Patabendige, had been elevated to the Court of Appeal. As a result, a new judge will be temporarily appointed to complete the three-judge bench until the Chief Justice names a permanent replacement.
+
+The Court granted the request and postponed the case to 18 September to resume hearings.
+
+...
+
+[Data](articles/f73aa11e.json)
+
+---
+
+### President AKD gets State welcome ceremony in Malé
+
+*2025-07-29 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-gets-State-welcome-ceremony-in-Malé/56-779613) · `en`
+
+The official State welcome ceremony for President Anura Kumara Disanayake, who is currently on a State visit to the Maldives, was held yesterday at the Republic Square in the capital city of Malé.
+
+President Disanayake was warmly received upon his arrival at the Republic Square by Maldivian President Dr. Mohamed Muizzu with full honours.
+
+Following this, President Disanayake was accorded a guard of honour by the Maldivian National Defence Force and joined in on observing the ceremonial parade of the military.
+
+Subsequently, an introduction between the Maldivian hosts and the Sri Lankan delegation took place.
+
+◼️
+
+[Data](articles/bad015d5.json)
+
+---
+
+### Red warrant obtained against Royal Park convict: AG
+
+*2025-07-29 04:35:00* · [`dailyftlk`](https://www.ft.lk/news/Red-warrant-obtained-against-Royal-Park-convict-AG/56-779612) · `en`
+
+The Attorney General (AG) informed the Supreme Court on Sunday that authorities have obtained a red warrant for the arrest of Jude Shramantha Jayamaha, who was sentenced to death in connection with the Royal Park murder case.
+
+The State Counsel who appeared for the AG made this revelation when a Fundamental Rights petition challenging former President Sirisena’s decision to grant a Presidential Pardon to Jayamaha was called before the Supreme Court. The petition was taken up before the Supreme Court to evaluate the progress of implementing the Court order. On 6 June 2024, the Supreme Court ruled that former President Maithripala Sirisena’s decision to grant a Presidential Pardon to Royal Park murder convict Don Shramantha Jude Anthony Jayamaha was arbitrary and invalid in law. The Court further directed the AG and all relevant authorities to take the necessary steps to arrange Jayamaha’s extradition, as he is considered a convict on death row.
+
+...
+
+[Data](articles/306c0098.json)
+
+---
+
+### Former Navy Commander Nishantha Ulugetenne remanded
+
+*2025-07-29 04:34:33* · [`dailyftlk`](https://www.ft.lk/news/Former-Navy-Commander-Nishantha-Ulugetenne-remanded/56-779611) · `en`
+
+Former Sri Lanka Navy (SLN) Commander Admiral (Retd.) Nishantha Ulugetenne, who was arrested yesterday by the Criminal Investigation Department (CID), has been remanded. The Polgahawela Magistrate’s Court ordered to remand him till 30 July.
+
+The former Navy Commander was arrested by the CID over the disappearance of a youth from Pothuhera while he was functioning as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/6770d089.json)
+
+---
+
+### P.A.G. Fernando appointed Chief Secretary of Uva Province
+
+*2025-07-29 04:34:13* · [`dailyftlk`](https://www.ft.lk/news/P-A-G-Fernando-appointed-Chief-Secretary-of-Uva-Province/56-779610) · `en`
+
+President Anura Kumara Disanayake has appointed P.A.G. Fernando as the Chief Secretary of the Uva Province, effective immediately.
+
+The letter of appointment was officially handed over to her by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
+
+Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previously served as the Secretary to the Ministry of Education, Cultural and Arts, Sports and Youth Affairs and Information Technology Western Province.
+
+◼️
+
+[Data](articles/b6be0f68.json)
+
+---
+
+### National Business Excellence Awards  2025 celebrates two decades of excellence
+
+*2025-07-29 04:29:36* · [`dailyftlk`](https://www.ft.lk/business/National-Business-Excellence-Awards-2025-celebrates-two-decades-of-excellence/34-779609) · `en`
+
+From left: Bronze Award Winner: People’s Bank, Gold Award Winner: Dipped Products and Silver Award Winner: Dankotuwa Porcelain
+
+The National Chamber of Commerce of Sri Lanka has announced the successful conclusion of the National Business Excellence Awards (NBEA) 2025, marking a remarkable milestone of 20 years in celebrating and recognising business excellence in the country.
+
+The grand awards ceremony was held on 24 July at the Shangri-La Colombo, in the presence of a distinguished gathering comprising corporate leaders, business community members, and esteemed guests.
+
+Launched in 2004, the NBEA has emerged as Sri Lanka’s most prestigious and pioneering awards schemes. Over the past two decades, it has maintained the highest standards in evaluating and recognising outstanding business organisations, earning a reputation as a well-structured and credible platform for promoting excellence in the Sri Lankan corporate landscape.
+
+...
+
+[Data](articles/723a2b2d.json)
+
+---
+
+### Sarvodaya opens online store
+
+*2025-07-29 04:25:26* · [`dailyftlk`](https://www.ft.lk/business/Sarvodaya-opens-online-store/34-779608) · `en`
+
+Sarvodaya has launched the Sarvodaya Online Store, a major milestone in its ission to empower community entrepreneurs and promote a people-centred, inclusive economy across Sri Lanka.
+
+This new digital platform (https://sarvodaya.store/) brings together community-based producers, innovators, Sarvodaya Shramadana Societies, and partner groups from across the country, offering a unified online marketplace for ethically made, locally sourced products.
+
+Opening the event, Executive Director Damith Kulanayake warmly welcomed all distinguished guests, emphasising the importance of their presence at this pivotal moment.
+
+Janaki Kathriarachchi, an award-winning entrepreneur, delivered the keynote on “Empowerment and Innovation: The Emerging Role of the Entrepreneur,” stressing the need for value-driven innovation and community resilience.
+
+...
+
+[Data](articles/5821b795.json)
+
+---
 
 ### Hayleys Electronics opens smart hub in Nugegoda to drive energy and engineering services
 
@@ -1707,135 +1823,5 @@ Elsewhere, Japan’s Nikkei 225 index declined 1.10 percent, or 457.96 points, t
 ◼️
 
 [Data](articles/ca693b97.json)
-
----
-
-### யாழ்ப்பாணத்துக்கு வருகிறது மிகப் பெரிய இந்திய சுற்றுலாப் பயணிகள் கப்பல்!
-
-*2025-07-28 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221172) · `ta`
-
-இந்தியாவிலிருந்து பயணிக்கின்ற அதிசொகுசு சுற்றுலா கப்பலான Cordelia Cruises எதிர்வரும் ஆகஸ்ட் 15 மற்றும் 22 ஆகிய திகதிகளில் யாழ்ப்பாணத்துக்கு வருகை தரவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
-
-இந்த கப்பல் 2023ஆம் ஆண்டில் 9 முறையும் 2024ஆம் ஆண்டிலிருந்து இதுவரை 6 முறையும் இலங்கைக்கு வந்துள்ளது.
-
-அதனையடுத்து, இந்த ஆண்டின் முக்கியமான பயணமாக ஆகஸ்ட் மாதத்தில் இந்த கப்பல் மீண்டும் இலங்கைக்கு வரவுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-இந்த சுற்றுலா கப்பல், காலை வேளையில் காங்கேசன் துறைமுகத்திற்கு வருகைதரும். இதில் பயணிக்கும் சுற்றுலா பயணிகள், யாழ்ப்பாணம், கோட்டை உள்ளிட்ட முக்கியமான இடங்களை பார்வையிட்டு, அதன் பின்னர் மீண்டும் இந்தியாவை நோக்கி புறப்படவுள்ளனர்.
-
-Cordelia Cruises கப்பல் மிகவும் பிரமாண்டமான மற்றும் அதிநவீன வசதிகள் கொண்ட சுற்றுலாப் பயணிகள் கப்பலாக காணப்படுகிறது.
-
-◼️
-
-[Data](articles/3c6a4acb.json)
-
----
-
-### குஷூடன் இருவர் கைது
-
-*2025-07-28 15:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷூடன்-இருவர்-கைது/175-361909) · `ta`
-
-சுமார் 10 கோடி ரூபாய் பெறுமதியுடைய 'குஷ்' என்ற போதைப்பொருளுடன் நாட்டிற்கு வந்த வெளிநாட்டவர்கள் இருவர், அனைத்து சோதனைகளையும் முடித்துவிட்டு விமான நிலையத்திலிருந்து வெளியேறிக்கொண்டிருந்த நிலையில் விமான நிலைய பொலிஸ்  போதைப்பொருள் தடுப்புப் பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
-
-இந்தியாவைச் சேர்ந்த 36 வயதுடைய ஆண் மற்றும் 56 வயதுடைய பெண் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
-
-இந்தியாவில் உள்ள ஒரு பெண்ணின் உத்தரவுக்கமைய  இந்த போதைப்பொருளை இருவரும் நாட்டிற்கு கொண்டு வந்ததாக சந்தேக நபர்கள் பொலிஸாரிடம் தெரிவித்துள்ளனர்.
-
-இருவரும் தாய்லாந்தின் பேங்கொக்கில் இந்த போதைப்பொருளை வாங்கி, மலேசியா சென்று அங்கிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளனர். அவர்களிடமிருந்து குஷ் போதைப்பொருள்  10 கிலோ கிராம்  மீட்கப்பட்டுள்ளது.
-
-இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவு அதிகாரிகள்  மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/7f339098.json)
-
----
-
-### ASPI surpasses 19,500 points for first time ever
-
-*2025-07-28 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110921/aspi-surpasses-19500-points-for-first-time-ever) · `en`
-
-The Colombo Stock Exchange (CSE) reached a historic milestone today (15) as the All Share Price Index (ASPI) surpassed the 19,500-points mark for the first time in the capital market’s history.
-
-Accordingly, the ASPI rose by 50.15 points to close at 19,517.86 points, surpassing the previous high of 19,467.71 points recorded on July 25, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 19.47 points to close at 5,774.51 points.
-
-◼️
-
-[Data](articles/10e628f7.json)
-
----
-
-### Sri Lanka services exports rise 16.38-pct in June
-
-*2025-07-28 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-16-38-pct-in-june-233167/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s services exports rose 16.38 percent from a year ago to 309.61 million US dollars in June 2025, helped by transport and logistics, the island’s Export Development Board said.
-
-Over the first six months of the year, services exports are estimated to have increased 9.78 percent, totaling 1,833.14 million dollars.
-
-ICT/BPM exports rose 34.12 percent to 147.18 million US dollars, but construction fell 40.06 percent to 10.35 million US dollars.
-
-Financial services also fell 45.78 percent to 3.90 million US dollars.
-
-Transport and logistics grew 12.39 percent to 148.18 million US dollars.
-
-Total services exports from January to June 2025 were 1,833.14 million US dollars, up 9.78 percent.
-
-With merchandise exports, total exports grew 8.73 percent to 1,460.34 million US dollars in June.
-
-RELATED Sri Lanka exports rise 6.85-pct in June 2025, helped by tea, coconut and apparel
-
-...
-
-[Data](articles/654c0c55.json)
-
----
-
-### Thailand and Cambodia agree to ceasefire - Malaysia PM
-
-*2025-07-28 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110920/thailand-and-cambodia-agree-to-ceasefire-malaysia-pm) · `en`
-
-The leaders of Thailand and Cambodia have agreed to an immediate and unconditional ceasefire to end their border clashes, Malaysian Prime Minister Anwar Ibrahim said on Monday, following talks in Malaysia between the two Southeast Asian neighbours.
-
-◼️
-
-[Data](articles/a2279e60.json)
-
----
-
-### සියලු කොටස් මිල දර්ශකය ඒකක 19,500 සීමාව ඉක්මවයි
-
-*2025-07-28 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212734) · `si`
-
-කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය ඓතිහාසික සන්ධිස්ථානයක් තබමින් අද (28) ගනුදෙනු අවසාන වන විට ප්‍රථම වරට ඒකක 19,500 සීමාව පසු කිරීමට සමත්ව තිබුණි.
-
-ඒ අනුව සියලු කොටස් මිල දර්ශකයේ වාර්තා වුණු ඉහළම අගයේ වාර්තාව අලුත් කරමින් එහි අගය ඒකක 50.15කින් ඉහළ ගොස් ඒකක 19,517.86ක් ලෙසින් සටහන් විය.
-
-මෙලෙස සියලු කොටස් මිල දර්ශකයේ ඉහළ යාමට රෝයල් සෙරමික් ලංකා, මෙල්ස්ටාකෝප්, හේමාස් හෝල්ඩිංග්ස්, LB ෆිනෑන්ස් සහ CT හෝල්ඩිංග්ස් යන සමාගම් ඇතුළුව සමාගම් 97ක කොටස් මිල ඉහළ යාම හේතු වී තිබුණි.
-
-මේ අතර දිනයේ ගනුදෙනු අවසානයේ S&P SL 20 මිල දර්ශකය ඒකක 19.47 කින් ඉහළ ගොස් ඒකක 5,774.51ක් ලෙසින් සටහන් විය.
-
-◼️
-
-[Data](articles/3798ace0.json)
-
----
-
-### නාරහේන්පිට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව අසල අල්ලස් ගැනීමට උත්සාහ කළ තැරැව්කරුවෙකු අත්අඩංගුවට
-
-*2025-07-28 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212733) · `si`
-
-නාරහේන්පිට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව අසළ දී අල්ලස් ලබාගැනීමට තැත් කළ තැරැව්කරුවෙකු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-එම කොමිසම විසින් සිදුකරන ලද වැටලීමකදි රුපියල් 10,000ක අල්ලස් ලබා ගැනීමක් සම්බන්ධව මෙම තැරැව්කරු අත්අඩංගුවට ගෙන ඇත.
-
-යතුරුපැදියක අනු ලියාපදිංචි සහතිකය, මුල් ලියාපදිංචි සහතිකය ලෙස මෝටර් රථ ප්‍රවාහන කොමසාරිස් කාර්යාලයේ නිලධාරීන් මගින් සංශෝධනය කරවා දීමට සැකකරු රුපියල් 30,000ක අල්ලස් මුදලක් ඉල්ලා තිබේ.
-
-එම මුදලින් ලේඛණ භාරගත් අවස්ථාවේදී අතිකාරම් මුදල් වශයෙන් රුපියල් 10,000ක මුදලක් ලබා ගැනීමේදී එම කාර්යාලයට යාබද ගජබා මාවතෙහි කඩ කාමරයක් තුළදී මෙම තැරැව්කරු අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/1eaf1c95.json)
 
 ---

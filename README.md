@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 09:18:24**
+As of **2025-07-28 09:50:55**
 
 ## Newspaper Stats
 
-*Scraped **67,162** Articles*
+*Scraped **67,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,102
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,436
-adaderanalk | 8,253
-tamilmirrorlk | 9,708
+adalk | 6,437
+adaderanalk | 8,256
+tamilmirrorlk | 9,710
 virakesarilk | 11,202
 adaderanasinhalalk | 11,540
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 11,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,162 articles have been extended.
+61,973 (92.3%) of 67,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### NPP உறுப்பினர் வீட்டின் மீது துப்பாக்கிச் சூடு : சந்தேகநபர் கைது
+
+*2025-07-28 09:27:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-உறுப்பினர்-வீட்டின்-மீது-துப்பாக்கிச்-சூடு-சந்தேகநபர்-கைது/175-361868) · `ta`
+
+வெலிகம பிரதேச சபையின் தேசிய மக்கள் சக்தி உறுப்பினர் தாரக நாணயக்காரவின் வீட்டை இலக்கு வைத்து நடத்தப்பட்ட துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த 16ஆம் திகதி அதிகாலையில் மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் தாரக நாணயக்காரவின் வீட்டை இலக்கு வைத்து துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றிருந்தனர்.
+
+வீட்டின் வாயிலின் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதன் காரணமாக சம்பவத்தில் எந்தவொரு நபருக்கும் காயம் ஏற்படவில்லை என்பது குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/c0c5559a.json)
+
+---
+
+### மாத்தளையில் இளைஞன் கொலை
+
+*2025-07-28 09:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையில்-இளைஞன்-கொலை/175-361867) · `ta`
+
+மாத்தளை, பலாபத்வல பகுதியில் உள்ள ஒரு வீட்டில் நேற்று இரு தரப்பினரிடையே ஏற்பட்ட  தாக்குதலில் 18 வயதுடைய இளைஞன் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த நபர் மேலும் மூவருடன் சந்தேகநபரின் வீட்டுக்குச் சென்றிருந்த நிலையில், அங்கு சந்தேகநபர் மற்றும் வீட்டாருடன் வாக்குவாதம் ஏற்பட்டுள்ளது.
+
+வாக்குவாதம் அதிகரித்ததைத் தொடர்ந்து சந்தேக நபர் அருகிலுள்ள கூர்மையான ஆயுதத்தால் ஒருவரின் கழுத்தில் தாக்கியதுடன், மற்றொரு நபரை வெட்டி காயப்படுத்தியதாக விசாரணையில் தெரியவந்துள்ளது.
+
+இந்தக் குற்றத்துடன் தொடர்புடைய சந்தேக நபர் கைது செய்யப்பட்டுள்ளதோடு, மாத்தளை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/9e2e33ba.json)
+
+---
+
+### Suspect arrested over shooting incident at NPP councillor’s home
+
+*2025-07-28 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110899/suspect-arrested-over-shooting-incident-at-npp-councillors-home) · `en`
+
+A 33-year-old suspect has been arrested in Matara in connection with the shooting incident at the residence of Tharaka Nanayakkara, a National People’s Power (NPP) member of the Weligama Pradeshiya Sabha, police said.
+
+On July 16, a shooting incident was reported in Udukawa, Weligama.
+
+According to police, two unidentified gunmen arrived on a motorcycle and opened fire at the residence of a member of the Weligama Pradeshiya Sabha in Udukawa at around 4:40 a.m.
+
+When inquired by Ada Derana, the Office of the Police Media Spokesperson stated that no one was injured in the shooting and that shots were fired at the gate of the house.
+
+According to the Police Media Division, the Weligama Pradeshiya Saba member who represents the NPP had previously informed police about receiving death threats.
+
+◼️
+
+[Data](articles/6016f05a.json)
+
+---
 
 ### மாலைத்தீவு சென்றார் ஜனாதிபதி
 
@@ -48,13 +102,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මන්ත්‍රී තාරකගේ නිවසට වෙඩි තැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+### One dead, over 5 injured as crane truck collides with multiple vehicles
+
+*2025-07-28 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110898/one-dead-over-5-injured-as-crane-truck-collides-with-multiple-vehicles) · `en`
+
+A fatal road accident occurred this morning (28 July) near the Cemetery Roundabout in Borella, resulting in the death of one person and injuries to more than five others, police said.
+
+According to police, the incident occurred when a crane truck with malfunctioning brakes collided with multiple vehicles.
+
+The injured have been admitted to the Colombo National Hospital for treatment, said police.
+
+◼️
+
+[Data](articles/113a3363.json)
+
+---
+
+### ප්‍රාස මන්ත්‍රී තාරකගේ නිවසට වෙඩි තැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
 
 *2025-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212715) · `si`
 
-වැලිගම ප්‍රාදේශීය සභා ජාතික ජන බලවේගයේ මන්ත්‍රී තාරක නානායක්කාරගේ නිවසට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+ජාතික ජන බලවේගයේ වැලිගම ප්‍රාදේශීය සභා මන්ත්‍රී තාරක නානායක්කාරගේ නිවසට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
 
 පොලීසිය පැවසුවේ 33 හැවිරිදි සැකකරු මාතර ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවයි.
+
+පසුගිය 16 වනදා අලුයම 4.40ට පමණ යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි ප්‍රහාරය එල්ල කර පලාගොස් තිබුණි.
+
+ඒ වන විට අදාළ මන්ත්‍රීවරයාට මරණ තර්ජන ඇති බව පවසා නිවසට පොලිස් ආරක්ෂව ද යොදවා තිබුණි.
+
+වෙඩි ප්‍රහාරය නිවසේ ගේට්ටුවට එල්ල වී ඇති අතර කිසිවකුටත් තුවාල සිදුව තිබුණේ නැත.
 
 ◼️
 
@@ -75,6 +151,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/43aaa2fe.json)
+
+---
+
+### Three killed and others injured in German train derailment
+
+*2025-07-28 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110897/three-killed-and-others-injured-in-german-train-derailment) · `en`
+
+At least three people have been killed and several others have been seriously injured after a passenger train derailed in south-west Germany, police say.
+
+Operator Deutsche Bahn said the train crashed at Riedlingen near Stuttgart for “unknown reasons”. Reports say there had been a storm in the area shortly before.
+
+Around 100 people were on board the train when at least two carriages derailed in a forested area around 18:10 local time (17:10 BST), German news agency dpa reported.
+
+German Chancellor Freidrich Merz said he “mourn[ed] the victims” and offered his “deepest sympathy” to their families in a post on X.
+
+He said he was in close contact with the interior and transport ministers, and has requested that they provide the emergency services with all the support they need.
+
+In a statement, Ulm police said that current investigations showed “three people were killed and other passengers were seriously injured”.
+
+...
+
+[Data](articles/c65aed98.json)
 
 ---
 
@@ -209,6 +307,22 @@ So far, hundreds of millions of nurdles may have been cleared away - but the rem
 ...
 
 [Data](articles/9459a635.json)
+
+---
+
+### ජනපති මාලදිවයින් සංචාරය අරඹයි
+
+*2025-07-28 07:38:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මාලදිවයින්-සංචාරය-අරඹයි/11-417538) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා තුන් දින නිල සංචාරයක් සදහා 07/28 දින උදෑසන කටුනායක ගුවන් තොටුපොළෙන් මාළදිවයින මාළේ නුවර බලා පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය .
+
+ජනාධිපතිතුමා සමග විදේශ කටයුතු , විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ද තවත් රජයේ ජ්‍යෙෂ්ඨ නිලධාරීන් කීප දෙනෙකුගෙන් සමන්විත පිරිසක් ද දූත පිරිස ලෙස එක් වී සිටියහ.
+
+ඔවුන් 07/28 දින උදෑසන 07.30 ට මාළදිවයින මාළේ නුවර බලා ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 101 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියහ. මෙම පිරිස 07/30 දින මෙම සංචාරය නිමා කර ආපසු පැමිණීමට නියමිතය.
+
+◼️
+
+[Data](articles/eff4a34a.json)
 
 ---
 
@@ -1657,105 +1771,5 @@ In 2016, he was appointed as a Court of Appeal Judge, becoming the President of 
 ...
 
 [Data](articles/9c3081f3.json)
-
----
-
-### சூரிய மின் உற்பத்தி நிலையம் திறந்து வைப்பு
-
-*2025-07-27 15:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூரிய-மின்-உற்பத்தி-நிலையம்-திறந்து-வைப்பு/175-361832) · `ta`
-
-மட்டக்களப்பு நாவற்காடு பகுதியில் சூரிய சக்தி (பிரைவேட்) லிமிடெட் நிறுவனத்தால் கட்டப்பட்ட 10 மெகாவாட் சூரிய மின் உற்பத்தி நிலையம் ஞாயிற்றுக்கிழமை (27) அன்று எரிசக்தி அமைச்சர் பொறியியலாளர் குமார ஜெயக்கொடி அவர்களினால் உத்தியோக பூர்வமாக திறந்துவைக்கப்பட்டது.
-
-10 மெகாவாட் மின் சக்தி குறித்த சூரிய மின் உற்பத்தி நிலையத்தில் இருந்து தேசிய மின் கட்டமைப்புடன் இன்று முதல் இணைக்கப்பட்டது டன், குறித்த சூரிய மின் உற்பத்தி நிலையத்தின் செயற்பாடுகள் மற்றும் கட்டமைப்புக்களை அமைச்சர் உள்ளிட்ட அதிதிகள் பார்வையிட்டதுடன்,
-
-குறித்த மின் உற்பத்தி நிலையத்தினால் வவுணதீவு பிரதேசத்தில் உள்ள பாடசாலைகள், விளையாட்டு கழகங்கள் போன்றவற்றிற்கு தேவைப்பாடாக காணப்பட்ட பல இலட்சம் பெறுமதிமிக்க தேவைப்பாடுகள் அமைச்சரினால் வழங்கி வைக்கப்பட்டது.
-
-...
-
-[Data](articles/c96700c4.json)
-
----
-
-### ප්‍රීති පද්මන් සූරසේන නව අගවිනිසුරු ලෙස දිවුරුම් දෙයි
-
-*2025-07-27 15:28:42* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රීති-පද්මන්-සූරසේන-නව-අගවිනිසුරු-ලෙස-දිවුරුම්-දෙයි/11-417530) · `si`
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා අද (27දා) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී නව අගවිනිසුරුවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම්  දෙනු ලැබිණි.
-
-◼️
-
-[Data](articles/36a27d9b.json)
-
----
-
-### ரயில்களை தடுத்த மரம்: வெட்டிய பின் ’’விர்ர்ர்’’ என பயணிக்கும் ரயில்
-
-*2025-07-27 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்களை-தடுத்த-மரம்-வெட்டிய-பின்-விர்ர்ர்-என-பயணிக்கும்-ரயில்/76-361831) · `ta`
-
-இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தில் ஒரு பெரிய மரம் விழுந்ததில் பாதிக்கப்பட்ட மலையக ரயில் சேவை  வழமைக்கு திரும்பியுள்ளது.
-
-பாதை விழுந்த மரம்வெட்டி அகற்றப்பட்டதன் பின்னர், பதுளை-கொழும்பு கோட்டைக்கு இடையில் ரயில் சேவைகள் முன்னெடுக்கப்படுகின்றன  என நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
-
-இன்று (27) காலை இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தில் ஒரு பெரிய மரம் விழுந்ததால், மலையக ரயில் பாதையில் நாவலப்பிட்டி மற்றும் கலபொட இடையே ரயில் சேவை பாதிக்கப்பட்டது.
-
-இகுருஓயா மற்றும் கலபொட ரயில் நிலையங்களுக்கு இடையில் அதே இடத்தில் ஒரு பெரிய மரம் விழுந்ததால், மலையகத்துக்கான ரயில் சேவைகள் பாதிக்கப்பட்டிருந்தன.
-
-◼️
-
-[Data](articles/002d3baa.json)
-
----
-
-### கிழக்கு மாகாண தேரரின் பாதுகாப்பு மீளப் பெறப்பட்டுள்ளதாக வெளியாகியுள்ள தகவலை பொலிஸ் திணைக்களம்  மறுத்துள்ளது
-
-*2025-07-27 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/221079) · `ta`
-
-கிழக்கு மாகாணத்தில் மூத்த பௌத்த தேரர் ஒருவருக்கு வழங்கப்பட்ட பாதுகாப்பு மீளப் பெறப்பட்டுள்ளதாக சமூக ஊடகங்களில் வெளியாகியுள்ள தகவலை இலங்கை பொலிஸ் திணைக்களம் மறுத்துள்ளது.
-
-எனினும், நீண்ட தூரத்தில் இருந்து பணிகளை செய்வதில் நிர்வாகச் சிக்கல்கள் இருந்ததால், பாதுகாப்புப் பணிகளை மிகவும் திறமையாகக் கையாள  உள்ளூர் பொலிஸ் அதிகாரிகளை நியமிக்க முன்மொழியப்பட்டது எனக் குறிப்பிட்டுள்ளது.
-
-◼️
-
-[Data](articles/9ac0d16a.json)
-
----
-
-### නව අගවිනිසුරු දිවුරුම් දෙයි
-
-*2025-07-27 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212693) · `si`
-
-ශ්‍රේෂ්ඨාධිකරණයේ ජ්‍යෙෂ්ඨතම විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා අද (27) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ශ්‍රී ලංකාවේ නව අගවිනිසුරුවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දී තිබේ.
-
-අගවිනිසුරු මුර්දු නිරූපා බිඳුෂිණි ප්‍රනාන්දු මහත්මිය විශ්‍රාම යාමෙන් පසු පුරප්පාඩු වූ ධුරය සඳහා ප්‍රීති පද්මන් සූරසේන මහතාගේ නම ව්‍යවස්ථා සභාව විසින් පසුගියදා අනුමත කරන ලදී.
-
-1989 වසරේ නීතිඥවරයකු වශයෙන් දිවුරුම් දුන් ප්‍රීති පද්මන් සූරසේන මහතා, ඉන් අනතුරුව නීතිපති දෙපාර්තමේන්තුවට එක්ව රජයේ නීතිඥවරයකු ලෙස සේවය කළ අතර 2007 වසරේදී මහාධිකරණ විනිසුරුවරයකු ලෙස පත් විය.
-
-2016 වසරේදී අභියාචනාධිකරණ විනිසුරු ධුරයට පත් වූ ඔහු 2018 වසරේ අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා වශයෙන් පත් වූ අතර 2019 වසරේ ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයකු වශයෙන් පත් විය.
-
-එතැන් පටන් මේ දක්වා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයකු වශයෙන් කටයුතු කරන ප්‍රීති පද්මන් සූරසේන මහතා හිටපු අගවිනිසුරු මුර්දු නිරූපා බිඳුෂිණි ප්‍රනාන්දු මහත්මියගෙන් පසුව සිටින ජ්‍යෙෂ්ඨතම ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයා වේ.
-
-...
-
-[Data](articles/9871a835.json)
-
----
-
-### செம்மணியில் மேலும் 5 எலும்புக்கூட்டு தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டன
-
-*2025-07-27 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221080) · `ta`
-
-யாழ்ப்பாணம் செம்மணி பகுதியில் அமைந்துள்ள மனித புதைகுழிகளில், இன்று ஞாயிற்றுக்கிழமை (05) புதிய எலும்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
-
-இன்று புதிதாக எலும்புக்கூட்டு தொகுதிகள் எதுவும் அடையாளம் காணப்படாத நிலையில், ஏற்கனவே அடையாளம் காணப்பட்ட 5 தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டுள்ளன. கடந்த 7 நாட்களில் மட்டும் 30 தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
-
-இந்த அகழ்வுகள், நீதிமன்றத்தால் “தடயவியல் அகழ்வாய்வுத் தளம் இல - 01” மற்றும் “இல - 02” என அடையாளம் காணப்பட்ட பகுதிகளில் நடைபெற்று வருகின்றன. இரண்டாம் கட்ட அகழ்வுப் பணிகளுக்காக 45 நாட்கள் அனுமதி வழங்கப்பட்டுள்ள நிலையில், இன்றைய தினம் 22வது நாளாக பணி முன்னெடுக்கப்பட்டது.
-
-கடந்த 7 நாட்களில் 36 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதுவரை 101 தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன, அதில் 95 தொகுதிகள் முற்றாக அகழ்ந்தெடுக்கப்பட்டுள்ளன என்பது குறிப்பிடத்தக்கது.
-
-மேலும், இன்று அகழ்ந்தெடுக்கப்பட்ட எலும்புகளுடன் இருந்த ஒரு பொலித்தீன் பை, மேலதிக ஆய்விற்காக சட்ட வைத்திய அதிகாரியிடம் ஒப்படைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ded16056.json)
 
 ---

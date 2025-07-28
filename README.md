@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 00:48:52**
+As of **2025-07-29 01:06:06**
 
 ## Newspaper Stats
 
-*Scraped **67,343** Articles*
+*Scraped **67,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
-dailyftlk | 4,751
+dailyftlk | 4,752
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,750
@@ -26,9 +26,25 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,343 articles have been extended.
+61,973 (92.0%) of 67,344 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-29 (Tuesday)
+
+### ICJ urges international oversight and victim-centred investigation into Chemmani mass grave
+
+*2025-07-29 00:26:53* · [`dailyftlk`](https://www.ft.lk/opinion/ICJ-urges-international-oversight-and-victim-centred-investigation-into-Chemmani-mass-grave/14-779575) · `en`
+
+In light of the ongoing excavation at the Chemmani-Siththupaththi mass grave site in Jaffna, situated in the north of Sri Lanka, the International Commission of Jurists (ICJ) yesterday issued the following statement
+
+As of 27 July 2025, 101 skeletal remains, including those of children and infants, had been recovered at Chemmani-Siththupaththi. The ICJ considers that the excavation process is a necessary, initial step toward truth and accountability, and calls on the Government of Sri Lanka to ensure that all exhumation and investigative processes be conducted in full compliance with international human rights law and standards—such as the Revised United Nations Manual on the Effective Prevention and Investigation of Extra-legal, Arbitrary and Summary Executions (the Minnesota Protocol on the Investigation of Potentially Unlawful Death)—including with respect to investigative practice and forensic science and the rights and dignity of the dead and their families.
+
+...
+
+[Data](articles/9219f85a.json)
+
+---
 
 ### 2025-07-28 (Monday)
 
@@ -1791,23 +1807,5 @@ ECONOMYNEXT – The United States has funded a five-day training programme for S
 ◼️
 
 [Data](articles/d4009fe2.json)
-
----
-
-### හේමසිරිට සහ පූජිත්ට එරෙහි පාස්කු නඩුව යළි කැඳවන්න නියෝග
-
-*2025-07-28 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212728) · `si`
-
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් සාපරාධී ලෙස රාජකාරිය පැහැර හැරීම ඇතුළු චෝදනා එල්ල වී සිටින හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත් ජයසුන්දර යන මහත්වරුන්ට එරෙහිව ගොනුකර තිබෙන නඩුව සැප්තැම්බර් 18 වැනිදා යළි කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල නියම කළහ.
-
-මෙම නඩුව අද (28) නාමල් බළල්ලේ සහ මොහොමඩ් ඉර්ෂඩීන් යන මහත්වරුන්ගෙන් සමන්විත මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් දීලිප පීරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුව විභාග කළ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා මේ වන විට අභියාචනාධිකරණයට උසස් වීමක් ලබා තිබීම හේතුවෙන් නව විනිසුරු මඬුල්ලක් පත් කරන ලෙස නව අගවිනිසුරුවරයාගෙන් ඉල්ලීමක් සිදුකිරීමට කටයුතු කරන බව පැවසීය.
-
-ඒ අනුව නව විනිසුරු මඬුල්ලක් පත් කරන තුරු මෙම නඩුව කැඳවීම සඳහා වෙනත් දිනයක් ලබා දෙන ලෙස අතිරේක සොලිසිටර් ජෙනරාල්වරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
-
-...
-
-[Data](articles/7836be1f.json)
 
 ---

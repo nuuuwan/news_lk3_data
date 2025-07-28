@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 16:35:23**
+As of **2025-07-28 16:47:52**
 
 ## Newspaper Stats
 
@@ -50,7 +50,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-28 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110923/former-navy-commander-nishantha-ulugetenne-arrested-by-cid) · `en`
 
-Former Sri Lanka Navy Commander Admiral (Retired) Nishantha Ulugetenne arrested by the CID over the disappearance of a youth from Pothuhera when he was Director, Naval Intelligence.
+Former Commander of the Sri Lanka Navy (SLN) Admiral (Retired) Nishantha Ulugetenne has been arrested by the Criminal Investigation Department (CID).
+
+The former Navy Commander has been arrested over the disappearance of a youth from Pothuhera while he was functioning as the Director of Naval Intelligence.
 
 ◼️
 

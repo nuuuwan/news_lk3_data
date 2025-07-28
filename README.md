@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 12:09:07**
+As of **2025-07-28 12:29:44**
 
 ## Newspaper Stats
 
-*Scraped **67,200** Articles*
+*Scraped **67,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,95 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 690
-economynextcom | 4,102
+economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,446
 adaderanalk | 8,258
-tamilmirrorlk | 9,721
+tamilmirrorlk | 9,724
 virakesarilk | 11,205
-adaderanasinhalalk | 11,547
+adaderanasinhalalk | 11,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,200 articles have been extended.
+61,973 (92.2%) of 67,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### நல்லுர் வருடாந்த திருவிழா 2025 (கொடிச்சீலை நிகழ்வு)
+
+*2025-07-28 12:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லுர்-வருடாந்த-திருவிழா-2025-கொடிச்சீலை-நிகழ்வு/175-361887) · `ta`
+
+வரலாற்று சிறப்பு மிக்க நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்த மகோற்சவம் செவ்வாய்க்கிழமை (29) அன்று கொடியேற்றத்துடன் ஆரம்பமாகவுள்ள நிலையில்,கொடியேற்றத்துக்காக சம்பிரதாயப் பூர்வமாக கொடிச்சீலை எடுத்து வரும் நிகழ்வு திங்கட்கிழமை (28) அன்று நடைபெற்றது.
+
+செங்குந்தர் பரம்பரையினரால் நல்லூர் ஆலயக் கொடியேற்றத்திற்கான கொடிச்சீலை சம்பிரதாயப் பூர்வமாக ஆலயத்தில் ஒப்படைக்கப்படுவது பாரம்பரிய வழக்கமாகும்.
+
+அதன் படி யாழ் சட்டநாதர் சிவன் ஆலயத்திற்கு அருகில் உள்ள வேல் மடம் முருகன் ஆலயத்தில் இன்றைய தினம் திங்கட்கிழமை நடைபெற்ற விஷேட பூஜை வழிபாடுகளை தொடர்ந்து அங்கிருந்து சிறிய தேர் ஒன்றில் கொடிச்சீலை பருத்தித்துறை வீதி ஊடக எடுத்து செல்லப்பட்டு நல்லூர் கந்தசுவாமி ஆலயத்தினை வந்தடைந்து. கொடிச்சீலை நல்லூர் ஆலய பிரதம குருக்களிடம் கையளிக்கப்பட்டது.
+
+நல்லூர் ஆலய மகோற்சவ கொடியேற்றம் நாளைய தினம் செவ்வாய்க்கிழமை காலை 10 மணிக்கு கொடியேற்றத்துடன் ஆரம்பமாகி தொடர்ந்து 25 நாட்களுக்கு மகோற்சவ திருவிழாக்கள் இடம்பெறும்.
+
+...
+
+[Data](articles/dc3cf248.json)
+
+---
+
+### GovPay ஊடாக   அபராதம்: இன்று முதல் அமுல்
+
+*2025-07-28 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GovPay-ஊடாக-அபராதம்-இன்று-முதல்-அமுல்/175-361886) · `ta`
+
+மேல் மாகாணத்திலும், அதிவேக நெடுஞ்சாலைகளிலும் "Govpay" செயலி மூலம் நேரடியாக அபராதம் செலுத்தும் முறை திங்கட்கிழமை (28) முதல் அமல்படுத்தப்படும் என்று போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+இந்தத் திட்டம் குறித்த விழிப்புணர்வை ஏற்படுத்த துறைமுக அமைச்சில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் பங்கேற்றபோது அமைச்சர் இவ்வாறு கூறினார்.
+
+தொடர்புடைய அபராதங்களில் எந்த மாற்றங்களும் செய்யப்படவில்லை என்றும், 33 அபராத விதிமீறல்களுக்கு Govpay மூலம் நேரடியாக அபராதம் செலுத்தலாம் என்றும் அமைச்சர் கூறினார். இந்த முறை காரணமாக, அபராதம் செலுத்தும் நபர் தபால் நிலையங்களுக்குச் செல்ல வேண்டியதில்லை என்றும் அமைச்சர் கூறினார்.
+
+தொடர்புடைய அபராதம் செலுத்தும் முறையை வெற்றிகரமாக மாற்றுவதற்காக பொலிஸ் அதிகாரிகளுக்கு பயிற்சி அளிக்கப்பட்டுள்ளதாகக் கூறிய அமைச்சர்,   தொடர்புடைய "செயலில்" இருந்து அபராதத்தைப் பெறக்கூடிய போக்குவரத்து பொலிஸ் அதிகாரிகளுக்கு  1,000 அலைபேசிகள் வழங்க திட்டமிடப்பட்டுள்ளதாகவும் கூறினார்.
+
+...
+
+[Data](articles/50b4f16e.json)
+
+---
+
+### ’’City of Dreams Sri Lanka’’ யில் ஹிருத்திக்
+
+*2025-07-28 12:00:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/City-of-Dreams-Sri-Lanka-யில்-ஹிருத்திக்/175-361885) · `ta`
+
+இலங்கையின் முதன்மையான பொழுதுபோக்கு மையமாகத் திகழவிருக்கும் ‘City of Dreams Sri Lanka’இன் அங்குரார்ப்பண நிகழ்வு பிரபல நட்சத்திர நடிகரான ஹிருத்திக் ரோஷனின் சமூகமளிப்போடு பிரமாண்டமான கொண்டாட்டங்களுடன் நடைபெறவுள்ளது.
+
+'Krrish', 'War', மற்றும் 'Super 30' போன்ற திரைப்படங்களில் தனது சிறப்பான நடிப்பிற்காக அறியப்பட்ட பிரபல நடிகரான ஹிருத்திக்ரோஷனின் வருகை, தெற்காசியாவின்படைப்பாற்றல் மற்றும் கலாச்சாரத் திறமைகளை பிராந்திய அளவில் வெளிச்சத்திற்குக் கொண்டு வரும் இத்திட்டத்தின் லட்சியத்தை சுட்டிக்காட்டுகிறது.
+
+City of Dreams Sri Lanka என்பது ஒரு அற்புதமான, புதிய திட்டமாகும். இது உயர்தர சொகுசு தங்குமிடங்கள், உலகத்தரம் வாய்ந்த உணவகங்கள், நவீன சில்லறை வர்த்தக நிலையங்கள் மற்றும் அற்புதமான பொழுதுபோக்கு அம்சங்கள் அனைத்தையும் ஒரே கூரையின் கீழ் கொண்டு வருகிறது. ஆகஸ்ட் 2 ஆம் திகதி ஒரு தொடர்ச்சியான கொண்டாட்டத்தின் ஆரம்பமாகும்.
+
+இது கொழும்பிற்கு ஒரு புதிய அத்தியாயத்தை உருவாக்கும் – தன்னம்பிக்கை, படைப்பாற்றல் மற்றும் பிராந்திய இணைப்பு ஆகியவற்றை உள்ளடக்கிய ஒரு புதிய சகாப்தம் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0b57bcc9.json)
+
+---
+
+### නව ඌව පළාත් ප්‍රධාන ලේකම් පත් කෙරේ
+
+*2025-07-28 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212723) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි ඌව පළාත් ප්‍රධාන ලේකම් ලෙස පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය පත් කරනු ලැබ තිබේ.
+
+ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම මහත්මිය වෙත භාර දුන්නේය.
+
+ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය, මෙම පත්කිරීමට පෙර, බස්නාහිර පළාත් අධ්‍යාපන, සංස්කෘතික හා කලා කටයුතු, ක්‍රීඩා හා යෞවන කටයුතු සහ තොරතුරු තාක්ෂණය පිළිබඳ අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළාය.
+
+◼️
+
+[Data](articles/5ab1acdb.json)
+
+---
 
 ### நாளை முதல் நாடு தழுவிய அடையாள வேலைநிறுத்தம்
 
@@ -194,6 +264,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka Plantations Association say Trump tariffs will hurt tea, rubber farms
+
+*2025-07-28 11:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-association-say-trump-tariffs-will-hurt-tea-rubber-farms-233084/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Planters’ Association made up of managers of commercial farming sector says tea a a proposed Trump tariff will hurt tea and rubber farms particularly as Vietnam and Indonesia has negotiated better terms.
+
+The US has allowed its citizens to buy Sri Lanka tea at zero taxes, before the 30 percent tax was proposed.
+
+Meanwhile the Planter’s Association said the US imported 6.4 million kilos of Ceylon tea in 2024 up 22 percent in volume and 11 percent.
+
+About 65 percent were value added teas which were packaged blended, flavored and instant teas.
+
+Former Chairman of Tea Exporters Association, Ganesh Deivanayagam said the average FOB price of tea exported to the US was around 7 dollar per kilo, higher than the national average price of 5.83 dollars in 2024, showing a premium position of Ceylon Tea in the country.
+
+...
+
+[Data](articles/09a6e085.json)
+
+---
+
 ### මර්වින් ට එරෙහිව අල්ලස් කොමිසම ගොනුකළ නඩුවට දිනදෙයි
 
 *2025-07-28 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212719) · `si`
@@ -247,6 +337,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4dc08c30.json)
+
+---
+
+### Sri Lanka president in the Maldives to sign bilateral agreements
+
+*2025-07-28 10:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-the-maldives-to-sign-bilateral-agreements-233057/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake will sign several agreements while on a 3-day state visit to neighbouring Maldives, he said.
+
+“Just landed in the Maldives! Ready to engage in meaningful discussions with President @MMuizzu and other leaders to strengthen our collaboration. We will also sign several MoUs that will enhance cooperation between Sri Lanka and the Maldives!” Dissanayake said on social media.
+
+Dissanayake landed on the archipelago on Monday commencing his visit at the invitation of the President Mohamed Muizzu.
+
+The visit “will include bilateral discussions between President Dissanayake and President Muizzu, as well as meetings with other senior Maldivian officials” his media division said.
+
+Dissanayake will also address a business forum organised by the Sri Lankan High Commission in the Maldives and engage with members of the Sri Lankan community residing there.
+
+...
+
+[Data](articles/6cd4fe05.json)
 
 ---
 
@@ -468,11 +578,41 @@ She was taken into custody for allegedly obstructing the duties of an officer at
 
 *2025-07-28 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212716) · `si`
 
-හෝමාගම අධිකරණයේ නිලධාරියෙකුගේ රාජකාරියට බාධා කිරීම සම්බන්ධයෙන් තිලිණි ප්‍රියමාලිව අත්අඩංගුවට ගෙන තිබේ.
+හෝමාගම අධිකරණයේ පිස්කල් නිලධාරියෙකුගේ රාජකාරියට බාධා කිරීම ඇතුළු චෝදනා කිහිපයක් සම්බන්ධයෙන් ව්‍යාපාරික තිලිණි ප්‍රියමාලි අද (28) හෝමාගම මුලස්ථාන පොලීසිය විසින් අත්අඩංගුවට ගැනුණි.
+
+ඒ පොලීසිය හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙස හෝමාගම මහෙස්ත්‍රාත් අධිකරණයෙන් ඇයට ලැබුණු නියෝගයකට අනුව පොලිස් ස්ථානයට පැමිණි අවස්ථාවේදීය.
 
 ◼️
 
 [Data](articles/31e5045c.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-07-28 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-233036/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 301.80/302.00 to the US dollar in the spot market Monday, from 301.90/85 on Friday, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.50/60 percent, up from 8.50/62 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.02/07 percent, up from 9.02/03 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.45/50 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.50/59 percent, up from 9.53/55 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.40/50 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.75/80 percent, up from 10.68/80 percent.
+
+Stocks opened up: The ASPI was up 0.41%, or 80.54 points, at 19,548.25; The S&P SL20 was up 0.37%, or 21.21 points, at 5,776.25. (Colombo/July28/2025)
+
+◼️
+
+[Data](articles/2d6654a4.json)
 
 ---
 
@@ -733,6 +873,30 @@ The suspect involved in the crime has been arrested, and the Matale Police are c
 ◼️
 
 [Data](articles/3efb16b0.json)
+
+---
+
+### Sri Lanka can change inflation target if not appropriate: Minister
+
+*2025-07-28 08:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-change-inflation-target-if-not-appropriate-minister-232957/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation target of 5 percent, which has been set by the central bank based on its own past performance could be revised in the future, Deputy Minister of Economic Development Anil Jayantha Fernando said.
+
+The central bank has set the inflation target based on the inflation it has created in the recent past, where Sri Lanka’s average inflation has been around 5 percent, he explained.
+
+“In the future if it is not appropriate, we can accordingly change,” Minister Fernando told parliament.
+
+The current three-year inflation agreement signed with the government runs out in 2026, he said.
+
+Minister Fernando was replying to a question by opposition legislator Ravi Karunanayake.
+
+The central bank has missed its 5 percent inflation target, which is sometimes seen as deflation when 12-month data is taken into account, but prices have moved up marginally since 2022.
+
+There was no problem in having lower than targeted inflation, Minister Fernando said.
+
+...
+
+[Data](articles/34cbb3cf.json)
 
 ---
 
@@ -997,6 +1161,28 @@ Fairly strong winds of about 40 kmph can be expected at times over Western slope
 ◼️
 
 [Data](articles/1f875a8b.json)
+
+---
+
+### US and EU reach 15-pct ‘all inclusive’ Trump tariff deal as Sri Lanka continues talks
+
+*2025-07-28 05:53:00* · [`economynextcom`](https://economynext.com/us-and-eu-reach-15-pct-all-inclusive-trump-tariff-deal-as-sri-lanka-continues-talks-232937/) · `en`
+
+ECONOMYNEXT – The European Union and the United States have reached a 15 percent tariff deal President Donald Trump said would be ‘all inclusive’ according to EU Commission President Ursula von der Leyen.
+
+Trump said the US was talking to a number of other countries and he was “doing them at the low end, not the high end because we don’t want to hurt anybody.”
+
+More discussions are also on with China he indicated describing the existing agreement as a ‘sort of’ deal.
+
+Sri Lanka President Anura Kumara Dissanayake had discussions with the US Trade Representative Jamieson Greer Friday as discussions to lower tariffs continue.
+
+RELATED : Sri Lanka President in virtual tariff talks with US Trade Rep
+
+“We are agreeing that the tariff straight across for automobiles and everything else will   be a straight across tariff of 15 percent,” Trump said at a joint briefing with von der Leyen on the EU deal.
+
+...
+
+[Data](articles/c7f4263c.json)
 
 ---
 
@@ -1601,169 +1787,5 @@ Further investigations into the incident are being carried out by the CCIB.
 ◼️
 
 [Data](articles/2cc61e45.json)
-
----
-
-### රඹුටන් කල් තබා ගැනීමට ක්‍රමයක් තිබේ නම් අපනයනයෙන් වැඩි ආදායමක් ගන්න පුළුවන්
-
-*2025-07-27 20:28:30* · [`adalk`](https://www.ada.lk/breaking_news/රඹුටන්-කල්-තබා-ගැනීමට-ක්‍රමයක්-තිබේ-නම්-අපනයනයෙන්-වැඩි-ආදායමක්-ගන්න-පුළුවන්/11-417534) · `si`
-
-වසරකට එක් වරක් පමණක් අස්වැන්න ලබන රඹුටන් කල් තබා ගැනීමේ ක්‍රමයක් සකස්කර දෙන්නේ නම් රඹුටන් අපනයෙන් වැඩි ආදායමක් රටට උපයා දීමට හැකියාව පවතින බව ගම්පහ දිස්ත්‍රික්කයේ රඹුටන් වගාකරුවෝ පෙන්වා දෙති.
-
-අතීතයේ මල්වාන රඹුටන් සදහා වැඩි වශයෙන් ප්‍රචලිතව තිබූ මුත් වර්තමානය ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ ගණනාවකම උසස් තත්ත්වයේ රඹුටන් වගාකිරීමට යොමුව ඇති අතර එම වගාකරුවන් පෙන්වා දෙනු ලබන්නේ වගාවේදී රෝග වැළඳීමත් ගැටළුවක්ව පවතින බැවින්  කෘෂිකර්ම දෙපාර්තමේන්තුවෙහි අදාල නිලධාරීන් විසින් මේ සම්බන්ධයෙන් නිසි සොයා බැලීමක් විය යුතු බවය.
-
-තවද  වසරකට දෙවරක් ඵලදාව ගැනීමේ ක්‍රම පිළිබඳව වගාකරුවන්ට අවශ්‍ය දැනුම ලබා දීම පිනිස දැනුවත් කිරීම් ආදිය විය යුතු බවත් ඔවුහු පෙන්වා දෙති.
-
-එසේම අවශ්‍ය පොහොර මිල ගණන් අධිකවීමත් රඹුටන් වගාවට අහිතකර ලෙස බලපා ඇති බවත් වගාකරුවන් සදහන් කරති .
-
-◼️
-
-[Data](articles/10016ae1.json)
-
----
-
-### நாடு பூராக 2,000 ஆரம்ப சுகாதார மத்திய நிலையங்கள் – இந்த ஆண்டு 100 நிலையங்கள் அமைப்போம்: நளிந்த ஜயதிஸ்ஸ
-
-*2025-07-27 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221109) · `ta`
-
-நாட்டின் சுமார் 10ஆயிரம்  மக்கள் தொகையினருக்கு ஒரு ஆரம்ப சுகாதார சேவை நிலையம் என்ற அடிப்படையில் நாடு பூராகவும் 2ஆயிரம் ஆரம்ப சுகாதார மத்திய நிலையங்களை அமைக்க நடவடிக்கை எடுத்துள்ளோம்.  இந்த ஆண்டு 100 மத்திய நிலையங்கள் அமைக்கப்படும் என சுகாதார மற்றும் ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-மக்களுக்கு தற்போது வழங்கப்படும் ஆரம்ப சுகாதார சேவைகளை எதிர்காலத்தில் மிகவும் சிறந்த சேவையாக வழங்குவதை பிரதான நோக்கமாகக் கொண்டு, முழு நாட்டையும் உள்ளடக்கும் வகையில் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சினால் நிறுவப்பட உள்ள ஆரம்ப சுகாதார சமூக மையத் திட்டம் குறித்து பொது சுகாதார தாதியர் அதிகாரிகளுக்கான  பயிற்சிப் பட்டறை 26ஆம் திகதி சனிக்கிழமை இலங்கை மன்றக் கல்லூரி கேட்போர் கூடத்தில் இடம்பெற்றது.
-
-...
-
-[Data](articles/d4d46126.json)
-
----
-
-### ස්පා කතට පහරදුන් කොස්තාපල් අත්අඩංගුවට
-
-*2025-07-27 20:24:03* · [`adalk`](https://www.ada.lk/breaking_news/ස්පා-කතට-පහරදුන්-කොස්තාපල්-අත්අඩංගුවට/11-417533) · `si`
-
-වාද්දුව තල්පිටිය ප්‍රදේශයේ සම්භාහන මධ්‍යස්ථානයකට ගොස් ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එහි කාන්තාවකට පහරදුන් බව කියන කොස්තාපල් වරයෙකු අත් අඩංගුවට ගත්බව වාද්දුව පොලිසිය පවසයි .
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හොරණ පොලිසියේ  රාජකාරි කරන කොස්තාපල් වරයෙකු බව පොලිසිය කීය.
-
-සැකකාර කොස්තාපල් වරයා හොරණ මූලස්ථාන පොලිසියේ සිට පානදුර කොට්ඨාස අපරාධ විමර්ශන ඒකකයට විශේෂ රාජකාරියක් සඳහා පැමිණ සිටියදී සම්බාහන මධ්‍යස්ථානයට ගොස් ඇති බව පොලිසිය පවසයි.
-
-සැකකාර කොස්තාපල්වරයා ජංගම දුරකථනයක්ද පොළොවේ ගසා අදාළ කාන්තාවට පහරදී ඇති බවත්, ඇයව වාද්දුව නගරයේ රාජ්‍ය බැංකුවක් වෙත කැටුව විත් මුදල් ලබා දෙන ලෙස ඉල්ලා පහරදී ඇති බවත් පොලිසිය කීය.
-
-සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි . වාද්දුව පොලිසිය පරීක්ෂණණ පවත්වයි.
-
-◼️
-
-[Data](articles/cd9c9785.json)
-
----
-
-### பகிடிவதையால் உயிரிழந்த சப்ரகமுவ பல்கலை மாணவன்; விசாரணை அறிக்கை பல்கலைக்கழக உபவேந்தரிடம் கையளிப்பு
-
-*2025-07-27 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221108) · `ta`
-
-பகிடிவதை காரணமாக சப்ரகமுவ பல்கலைக்கழக மாணவன் உயிரிழந்த சம்பவம் தொடர்பாக விசாரணை செய்ய நியமிக்கப்பட்ட ஐவரடங்கிய குழுவின் அறிக்கை பல்கலைக்கழக உபவேந்தரிடம் கையளிக்கப்பட்டுள்ளது.
-
-குறித்த அறிக்கை அடுத்த வாரம் நிர்வாகக்குழுவிடம் கையளிக்கப்படும் என பல்கலைக்கழக உபவேந்தர் பேராசிரியர் சுனில் ஷாந்த தெரிவித்தார்.
-
-தொழில்நுட்ப பீட மாணவனின் மரணம் குறித்த காரணம் நிர்வாகக்குழுவின் மூலம் வௌிப்படுத்தப்படும் எனவும் சம்பவம் தொடர்பாக 70 மாணவர்களிடமிருந்து வாக்குமூலம் பெறப்பட்டுள்ளதாகவும் அதன்படி அவர்களிடமிருந்து 150 மணித்தியாலங்களுக்கும் மேலாக சாட்சியங்கள் பதிவு செய்யப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/b70abced.json)
-
----
-
-### කොංගෝ රාජ්‍යයේ කතෝලික දේවස්ථානයකට එල්ල කළ ප්‍රහාරයකින් 38ක් මරුට
-
-*2025-07-27 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212702) · `si`
-
-කොංගෝ රාජ්‍යයේ කතෝලික දේවස්ථානයකට එල්ල වූ ප්‍රහාරයකින් අවම වශයෙන් 38 දෙනෙකු මිය ගොස් ඇති බව විදෙස් මාධය පවසයි.
-
-කැරලිකරුවන් පිරිසක් විසින් ගිනිඅවි සහ සහ තියුණු ආයුද භාවිතා කරමින් මෙම ඝාතනයන් සහ පහරදීම සසිදුකර ඇති බව වාර්තාවේ.
-
-ISIS සමඟ සබඳතා ඇති ADF නැමැති කැරලිකරුවන් විසින් මෙම ප්‍රහාරය සිදුකර ඇති අතර ඔවුන් නිරන්තරයෙන් සිවිල් ජනතාවට එරෙහිව ප්‍රහාර එල්ල කරන බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තාකර තිබේ.
-
-◼️
-
-[Data](articles/56a7fd14.json)
-
----
-
-### மாகாண சபை முறை நாட்டுக்கு அவசியமா? சகலரும் விரிவாக கலந்துரையாடி தீர்மானிக்க வேண்டும் - தினேஷ் குணவர்தன
-
-*2025-07-27 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/221107) · `ta`
-
-மாகாண சபை முறைமை நாட்டுக்கு அவசியமா என்பதை மீள் சிந்திக்க வேண்டிய காலம் வந்திருக்கிறது. மாகாண சபை முறைமையை அப்படியே கொண்டு செல்வதா? அல்லது அப்படியே முடித்துக் கொள்வதா? அல்லது அதனை முழுமையாக மறுசீரமைப்பு செய்வதா என்பது தொடர்பில் நாடளாவிய ரீதியில் கலந்துரையாடல்களும் மீளாய்வும் இடம்பெற வேண்டியது அவசியம் என்று முன்னாள் பிரதமரும் மக்கள் ஐக்கிய முன்னணியின் தலைவருமான தினேஷ் குணவர்தன தெரிவித்தார்.
-
-40 வருடங்களுக்கு முன்னர் அறிமுகப்படுத்தப்பட்ட மாகாண சபை முறைமை இன்றைய அரசியல் சவால்களை எதிர்கொள்கிறதா என்பதை நாம் ஆராய வேண்டும். மேலும் மாகாண சபை முறையின்றி கடந்த பல வருடங்களாக நாடு இயங்கி இருக்கிறது என்பதையும் புரிந்துகொள்ள வேண்டும் எனவும் தினேஷ் குணவர்தன சுட்டிக்காட்டினார்.
-
-மாகாண சபைத் தேர்தல்கள் தொடர்ந்தும் நடத்தப்படாமல் தாமதமடைந்து வருகின்ற சூழலில் அது தொடர்பில் தினேஷ் குணவர்தனவின் நிலைப்பாட்டை வினவிய போதே அவர் வீரகேசரியிடம் இதனை சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/525ee1be.json)
-
----
-
-### Two fishermen rescued after boat capsizes in seas off Mirissa
-
-*2025-07-27 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110888/two-fishermen-rescued-after-boat-capsizes-in-seas-off-mirissa) · `en`
-
-The Sri Lanka Coast Guard (SLCG) has successfully rescued two fishermen who were in distress after their fishing vessel capsized due to rough seas off the southern coast near Mirissa today (July 27).
-
-The fishermen had departed from Bandaramulla, Mirissa, early this morning for routine fishing activities.
-
-Later, their boat encountered rough sea conditions and capsized off the Mirissa coastline, the SLCG said in a statement.
-
-Upon receiving information about the incident, the SLCG Operations Center promptly dispatched the Inshore Patrol Boat ‘CG 201’ to the reported location.
-
-Accordingly, the rescue team had retrieved the two fishermen along with the boat and brought them ashore unharmed, with the support of civilians in the area, the statement said.
-
-The rescued individuals, aged 35 and 63, are residents of the Bandaramulla area in Mirissa.
-
-◼️
-
-[Data](articles/89d91d38.json)
-
----
-
-### Over 1,100 arrested for drug-related offenses in island-wide operation
-
-*2025-07-27 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/110887/over-1100-arrested-for-drug-related-offenses-in-island-wide-operation) · `en`
-
-A total of 1,182 individuals have been arrested in connection with drug-related offenses during a special island-wide operation conducted yesterday (26) by the Sri Lanka Police, the Police Special Task Force (STF), and the Tri-Forces.
-
-During the operation, authorities seized 230 grams and 159 milligrams of crystal methamphetamine (Ice), as well as 220 grams and 415 milligrams of heroin.
-
-Meanwhile, 20 individuals directly linked to criminal activities and 410 suspects with outstanding warrants for various offenses were arrested during the operation.
-
-As part of the operation, 24,343 individuals were subjected to inspections, while 9,727 vehicles and 7,396 motorcycles were also searched.
-
-The operation involved more than 7,600 personnel, including police officers, members of the Special Task Force, and the tri-forces personnel.
-
-Police also seized four illegal firearms during this special operation.
-
-◼️
-
-[Data](articles/a088146e.json)
-
----
-
-### ගාසා තීරයේ ප්‍රදේශ 3කට තාවකාලික සටන් විරාමයක්
-
-*2025-07-27 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212701) · `si`
-
-ගාසා නගරය, ඩෙයර් අල්-බාලා සහ ගාසා තීරයේ මුවාසි යන ප්‍රදේශවල හමුදා ක්‍රියාකාරකම් නැවත දැනුම් දෙන තුරු ක්‍රියාත්මක නොවන බව ඊශ්‍රායල පරිපාලනය නිවේදනය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-ඒ අනුව ගාසා තීරය පුරා ජනතාවට ආහාර සහ අනෙකුත් සැපයුම් ලබා දීම සඳහා ආධාර ආයතනවල සහායට ආරක්ෂිත මාර්ග නම් කරන බව ඊශ්‍රායල ආරක්ෂක හමුදාව පවසා ඇත.
-
-ඊශ්‍රායල හමුදාව වැඩිදුරටත් පැවසුවේ ගාසා පුරවැසියන්ට ආධාර ලබා දෙන එක්සත් ජාතීන්ගේ රථ පෙළ ආරක්ෂිතව ගමන් කිරීම සඳහා “මානුෂීය කොරිඩෝ” ස්ථාපිත කරන බවය.
-
-ලෝක ආහාර වැඩසටහනේ වාර්තාවලට අනුව ගාසා තීරයේ 470,000 ක ජනතාවක් දැඩි කුසගින්නකට මුහුණ දී සිටී.
-
-උග්‍ර මන්දපෝෂණය සඳහා ළමුන් 71,000 ක් සහ මව්වරුන් 17,000 කට වැඩි පිරිසකට හදිසි ප්‍රතිකාර අවශ්‍ය වනු ඇතැයි ද එම වාර්තාව පුරෝකථනය කර ඇත.
-
-◼️
-
-[Data](articles/d92aded9.json)
 
 ---

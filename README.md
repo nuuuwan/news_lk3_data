@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 22:51:58**
+As of **2025-07-28 23:06:45**
 
 ## Newspaper Stats
 
-*Scraped **67,336** Articles*
+*Scraped **67,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,465
 adaderanalk | 8,287
 tamilmirrorlk | 9,750
 virakesarilk | 11,227
-adaderanasinhalalk | 11,575
+adaderanasinhalalk | 11,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,336 articles have been extended.
+61,973 (92.0%) of 67,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### ඉන්දියාවෙන් පිටුවහල් කළ වැලිගම සහන් කටුනායකදී අත්අඩංගුවට
+
+*2025-07-28 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212752) · `si`
+
+සහන් සිසි කැළුම් හෙවත් වැලිගම සහන් නැමැති සංවිධානාත්මක අපරාධකරු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ඉන්දියාවෙන් පිටුවහල් කරන ලද මොහු අද (28) පස්වරුවේදී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ඒකකය මගින් අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
+
+පානදුර ප්‍රදේශයේ සහ කළුතර ප්‍රදේශයේ සිදුවූ වෙඩි තැබීමේ සිද්ධීන් දෙකකට මෙන්ම මට්ටක්කුලියේ පත්තෑ සුරංග නැමැත්තාට වෙඩි තැබීමේ ප්‍රධාන සැකකරු වන්නේද මෙම වැලිගම සහන් නැමැත්තා බවද මොහු කුලී ඝාතකයෙකු බවත් වාර්තා වේ.
+
+සැකකරු වැඩිදුර විමර්ශන සඳහා කළුතර අපරාධ කොට්ඨාසයට භාර දී තිබේ.
+
+◼️
+
+[Data](articles/7a3dc2d5.json)
+
+---
 
 ### දැදුරුඔය වැලි ජාවාරම
 
@@ -1801,29 +1819,5 @@ The accident occurred when a crane traveling from Rajagiriya towards the Bauddha
 ...
 
 [Data](articles/4b7709d7.json)
-
----
-
-### Crane truck driver involved in fatal Borella accident tests positive for cannabis
-
-*2025-07-28 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110915/crane-truck-driver-involved-in-fatal-borella-accident-tests-positive-for-cannabis-) · `en`
-
-The crane driver involved in the fatal accident in Borella this morning (28), in which an individual died, was under the influence of cannabis, according to Police.
-
-This has been revealed during a medical examination conducted on the relevant individual, police noted.
-
-A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
-
-Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
-
-This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
-
-Dr. Rukshan Bellana also noted that among the injured, two are women, and the remaining five are men.
-
-The accident occurred when a crane traveling from Rajagiriya towards the Bauddhaloka Mawatha collided with six motorcycles and three motor vehicles that were stopped near the traffic signals at the Kanatta roundabout.
-
-...
-
-[Data](articles/a4d95a50.json)
 
 ---

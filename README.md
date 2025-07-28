@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 09:50:55**
+As of **2025-07-28 10:15:44**
 
 ## Newspaper Stats
 
-*Scraped **67,168** Articles*
+*Scraped **67,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 4,102
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,437
+adalk | 6,439
 adaderanalk | 8,256
 tamilmirrorlk | 9,710
 virakesarilk | 11,202
-adaderanasinhalalk | 11,540
+adaderanasinhalalk | 11,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,168 articles have been extended.
+61,973 (92.3%) of 67,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### තිලිණි ප්‍රියමාලි අත්අඩංගුවට
+
+*2025-07-28 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212716) · `si`
+
+හෝමාගම අධිකරණයේ නිලධාරියෙකුගේ රාජකාරියට බාධා කිරීම සම්බන්ධයෙන් තිලිණි ප්‍රියමාලිව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/31e5045c.json)
+
+---
 
 ### NPP உறுப்பினர் வீட்டின் மீது துப்பாக்கிச் சூடு : சந்தேகநபர் கைது
 
@@ -45,6 +57,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c0c5559a.json)
+
+---
+
+### ජාජබ ප්‍රාදේශීය සභා මන්ත්‍රීගේ නිවසට වෙඩි තැබූ සැකකරුවෙකු අත්අඩංගුවට
+
+*2025-07-28 09:24:58* · [`adalk`](https://www.ada.lk/breaking_news/ජාජබ-ප්‍රාදේශීය-සභා-මන්ත්‍රීගේ-නිවසට-වෙඩි-තැබූ-සැකකරුවෙකු-අත්අඩංගුවට/11-417543) · `si`
+
+ජාතික ජන බලවේගයේ වැලිගම ප්‍රාදේශීය සභා මන්ත්‍රී තාරක නානායක්කාර මහතාගේ නිවසට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මාතර ප්‍රදේශයේ දී  මෙම පුද්ගලයා අත්අඩංගුවට ගත් බව පොලීසිය සඳහන් කළේය.
+
+පසුගිය 16 වැනිදා  පොලිස් ආරක්ෂාව යොදා තිබියදී මෙම වෙඩි තැබීම සිදු කළ අතර, පසුව ඒ පිළිබඳ පොලිස් විමර්ශනයක් ආරම්භ කෙරිණි.
+
+◼️
+
+[Data](articles/25a0345b.json)
 
 ---
 
@@ -151,6 +179,20 @@ The injured have been admitted to the Colombo National Hospital for treatment, s
 ...
 
 [Data](articles/43aaa2fe.json)
+
+---
+
+### බොරැල්ලේ රිය අනතුරක් - අයෙක් මරුට
+
+*2025-07-28 08:38:19* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ලේ-රිය-අනතුරක්---අයෙක්-මරුට/11-417541) · `si`
+
+බොරැල්ල ප්‍රදේශයේ අද (28දා) උදෑසන සිදු වූ  රිය අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් තවත් කිහිප දෙනෙකු තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f1b96e8b.json)
 
 ---
 
@@ -1717,59 +1759,5 @@ The talks in Malaysia come after Malaysian Prime Minister Anwar Ibrahim, chair o
 ...
 
 [Data](articles/421fccf5.json)
-
----
-
-### செம்மணி மனிதப் புதைகுழியில் தரையை ஊடுருவும் ராடர் மூலம் பரந்துபட்ட ஸ்கான் நடவடிக்கைகள் முன்னெடுப்பதற்கான திட்டம் ஆரம்பம்!
-
-*2025-07-27 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221082) · `ta`
-
-யாழ்ப்பாணம் செம்மணி பகுதியில் அமைந்துள்ள மனிதப் புதைகுழியில், தற்போது தரையை ஊடுருவும் ராடர் (GPR – Ground Penetrating Radar) மூலம் பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க திட்டமிடப்பட்டுள்ளது. இதற்கான தொழில்நுட்பம் வெளிநாட்டிலிருந்து கொண்டுவரப்பட்டு, துரிதகதியில் ஆய்வுப் பணிகள் முன்னெடுக்கப்படுகின்றன.
-
-இது தொடர்பாக, செய்மதிப் படங்களின் அடிப்படையில் அகழ்வுப் பணிகளுக்கு வெளியே புதிய இடங்களும் அடையாளம் காணப்பட்டுள்ளன. அவை, துறைசார் நிபுணரான சோமதேவாவினால்  உறுதிப்படுத்தப்பட்ட பகுதிகளாகும்.
-
-இந்நிலையில், செம்மணியில் குறித்த பகுதிக்குள் மட்டும் அகழ்வுகளை மேற்கொள்ளாமல், பரந்துபட்ட இடங்களிலும் மேற்கொள்ள வேண்டும் என உள்ளூர் மற்றும் சர்வதேச அளவில் வலியுறுத்தல்கள் அதிகரித்தன.
-
-...
-
-[Data](articles/e0b3ddcd.json)
-
----
-
-### புதிய பிரதம நீதியரசர்   பதவியேற்றார்
-
-*2025-07-27 15:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-பதவியேற்றார்/175-361833) · `ta`
-
-இலங்கையின் புதிய பிரதம நீதியரசராக, நீதியரசர் பிரீத்தி பத்மன் சூரசேன ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திசாநாயக்க முன்னிலையில் ஞாயிற்றுக்கிழமை (27) காலை பதவியேற்றார். இவர், இலங்கையின் 49வது நீதியரசராவார்.
-
-முன்னாள் பிரதம நீதியரசர் முர்து நிருபா பிதுஷினி பெர்னாண்டோ ஓய்வு பெற்றதால் ஏற்பட்ட  வெற்றிடத்துக்கு நீதியரசர் சூரசேனவின் பெயர், ஜனாதிபதியால் அரசியலமைப்பு சபைக்கு அனுப்பப்பட்டது.  அரசியலமைப்பு சபையால் சமீபத்தில் அங்கீகரிக்கப்பட்டது.
-
-1989 ஆம் ஆண்டு வழக்கறிஞர் சங்கத்திற்கு அழைக்கப்பட்ட பிரீத்தி பத்மன் சூரசேன, பின்னர் சட்டமா அதிபர் துறையில் இணைந்து, அரசு வழக்கறிஞராக பணியாற்றினார். 2007 ஆம் ஆண்டு உயர் நீதிமன்ற நீதியரசராக நியமிக்கப்பட்டார்.
-
-2016 ஆம் ஆண்டு, மேன்முறையீட்டு நீதிமன்ற நீதியரசராக நியமிக்கப்பட்டார், 2018 ஆம் ஆண்டு மேன்முறையீட்டு நீதிமன்றத்தின் தலைவராகவும், 2019 ஆம் ஆண்டு உயர் நீதிமன்ற நீதியரசராகவும் நியமிக்கப்பட்டார். அப்போதிருந்து, பிரீத்தி பத்மன் சூரசேன உயர் நீதிமன்ற நீதியரசராக பணியாற்றி வருகிறார்.
-
-◼️
-
-[Data](articles/d9e9b195.json)
-
----
-
-### Justice Preethi Padman Surasena Sworn in as 49th Chief Justice of Sri Lanka
-
-*2025-07-27 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110883/justice-preethi-padman-surasena-sworn-in-as-49th-chief-justice-of-sri-lanka) · `en`
-
-Justice Preethi Padman Surasena, the most senior Supreme Court Justice, was sworn in as the new Chief Justice of Sri Lanka this morning (27) at the Presidential Secretariat, before President Anura Kumara Dissanayake.
-
-Justice Preethi Padman Surasena is the 49th Chief Justice of Sri Lanka, the President’s Media Division (PMD) said.
-
-Justice Surasena’s name was recently approved by the Constitutional Council for the vacancy created by the retirement of former Chief Justice Murdu Nirupa Bidushinie Fernando.
-
-Having been called to the Bar in 1989, Mr. Preethi Padman Surasena subsequently joined the Attorney General’s Department, serving as a State Counsel. He was appointed as a High Court Judge in 2007, the PMD added.
-
-In 2016, he was appointed as a Court of Appeal Judge, becoming the President of the Court of Appeal in 2018, and a Supreme Court Judge in 2019.
-
-...
-
-[Data](articles/9c3081f3.json)
 
 ---

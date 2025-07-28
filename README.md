@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 21:49:45**
+As of **2025-07-28 22:07:25**
 
 ## Newspaper Stats
 
-*Scraped **67,326** Articles*
+*Scraped **67,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ dailyftlk | 4,751
 adalk | 6,465
 adaderanalk | 8,287
 tamilmirrorlk | 9,749
-virakesarilk | 11,223
-adaderanasinhalalk | 11,571
+virakesarilk | 11,227
+adaderanasinhalalk | 11,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,326 articles have been extended.
+61,973 (92.0%) of 67,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### மாலைதீவுடன் சகோதரத்துவத்தை வலுப்படுத்தும் இலங்கை ; இலங்கைக்கு வழங்கும் நிலையான ஆதரவிற்கு ஜனாதிபதி முய்சுக்கு நன்றி - ஜனாதிபதி
+
+*2025-07-28 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221223) · `ta`
+
+இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான நெருங்கிய இருதரப்பு உறவுகள், நட்பு கூட்டாண்மை, நெருங்கிய நட்புறவு மற்றும் எதிர்கால ஒத்துழைப்பைக் குறிக்கும் வகையிலான மாலைதீவுக்கான எனது முதல் அரச விஜயத்தில் மாலேயிற்கு வருகை தரக்கிடைத்தமை  மகிழ்ச்சி அளிக்கிறது. இந்தப் பயணம் நமது இரு நாடுகளுக்கும் இடையிலான உறவுக்குப் புதிய உற்சாகத்தையும் பலத்தையும் சேர்க்கும் என்று நான் நம்புகிறேன்.
+
+இலங்கையும் மாலைதீவுகளும் முறையான இராஜதந்திர உறவுகளை ஸ்தாபித்ததன் 60 ஆவது ஆண்டு நிறைவைக் கொண்டாடும் இந்த முக்கியமான சந்தர்ப்பத்தில் எனது மாலைதீவு விஜயம் மிகவும் முக்கியத்துவம் பெறுகிறது.
+
+எனக்கும் எனது பிரதிநிதிகளுக்கும் கிடைத்த அழைப்பிற்கும் அமோக வரவேற்புக்கும் விருந்தோம்பலுக்கும் அதிமேதகு ஜனாதிபதி முகமத் முய்சு அவர்களுக்கு எனது மனமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறேன்.
+
+இந்து சமுத்திரத்தில் உள்ள நமது இரு நாடுகளும் பழங்கால கடல்வழி வர்த்தகப் பாதைகள் மற்றும் பொதுவான வரலாறு ஆகியவற்றுடன் நமது தொடர்புகளால் வளம் பெற்றுள்ளன.
+
+...
+
+[Data](articles/3013e7de.json)
+
+---
+
+### එළැඹෙන වසරේදී ඖෂධ හිඟයක් නොමැති බව සෞඛ්‍ය බලධාරීන් කියයි
+
+*2025-07-28 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212748) · `si`
+
+ඖෂධ හිඟය පියවීම සඳහා ගත යුතු පියවර සම්බන්ධයෙන් සෞඛ්‍ය හා ජනමාධ්‍ය සහ කාන්තා සවිබල ගැන්වීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී සාකච්ඡාවට භාජනය වී තිබේ.
+
+මීට එක්වූ සෞඛ්‍ය අමාත්‍යාංශයේ නිලදාරීන් කාරක සභාවේදී සඳහන් කර ඇත්තේ පසුගිය වසරවල ඇණවුම් ලබා දීමේ ප්‍රමාදයන් හේතුවෙන් වර්තමාන ඖෂධ හිඟය මතුව ඇති බවය.
+
+කෙසේ නමුත් එළැඹෙන වසර සඳහා ප්‍රසම්පාදන ක්‍රියාවලීන් මේ වන විටත් ආරම්භ කර ඇති බැවින් 2026 වසරේදී කිසිදු ඖෂධ හිඟයක් ඇති නොවන බව සෞඛ්‍ය නිලධාරීන් කාරක සභාව හමුවේ අවධාරණය කර තිබේ.
+
+එමෙන්ම මෙම වසර අවසන් වන විට අත්‍යවශ්‍ය ඖෂධවලින් 80%ත් 90%ත් අතර ප්‍රමාණයක් රට තුළ ලබා ගත හැකි වෙනු ඇතැයිද අපේක්ෂා කරන බවද ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+මෙහිදී කාරක සභාව විසින් ඉතා අත්‍යවශ්‍ය ඖෂධ ද්‍රව්‍ය ලබා ගත හැකිදැයි නිලධාරීන්ගෙන් විමසා සිටි අතර එයට ප්‍රතිචාර ලබා දෙමින් අමාත්‍යාංශ නිලධාරීන් විසින් දැනට එවැනි ඖෂධ ද්‍රව්‍යවල හිඟයක් නොමැති බව තහවුරු කළේය.
+
+◼️
+
+[Data](articles/73f3bfa3.json)
+
+---
 
 ### මාලදිවයින් ආයෝජකයින්ට ජනපතිගෙන් ආරාධනාවක්
 
@@ -49,6 +87,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/07d2a308.json)
+
+---
+
+### மாலைதீவில் ஜனாதிபதி அநுரகுமார திசாநாயக்க, முகமது முய்சுவுடன் இருதரப்பு சந்திப்பு
+
+*2025-07-28 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221220) · `ta`
+
+மாலைதீவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும், மாலைதீவு ஜனாதிபதி கலாநிதி முகமது முய்சுவிற்கும் (Dr Mohamed Muizzu)  இடையிலான இருதரப்பு பேச்சுவார்த்தைகள் திங்கட்கிழமை (28) பிற்பகல் மாலைதீவு ஜனாதிபதி அலுவலகத்தில் நடைபெற்றன.
+
+மாலைதீவு ஜனாதிபதி அலுவலகத்திற்கு வருகை தந்த ஜனாதிபதிக்கு, மாலைதீவு ஜனாதிபதி கலாநிதி முகமது முய்சு மகத்தான வரவேற்பளித்தார்.
+
+ஜனாதிபதி  அநுரகுமார திசாநாயக்க விருந்தினர் புத்தகத்தில் நினைவுக் குறிப்பு இட்ட பிறகு, இரு நாடுகளின் தலைவர்களும் உத்தியோகபூர்வ புகைப்படம் பிடிக்கும் நிகழ்வில் இணைந்து கொண்டனர்.
+
+கலந்துரையாடலைத் தொடர்ந்து, இரு தரப்பினருக்கும் இடையே புரிந்துணர்வு ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டன. அதன்படி, மாலைதீவு வெளியுறவு சேவை நிறுவனம் (FOSIM) மற்றும் பண்டாரநாயக்க சர்வதேச இராஜதந்திர பயிற்சி நிறுவனம் இடையே  புரிந்துணர்வு ஒப்பந்தம் மற்றும் பரஸ்பர சட்ட உதவி வழங்கல்  தொர்பான ஒப்பந்தம் என்பன  பரிமாறப்பட்டன.
+
+...
+
+[Data](articles/2aa256ea.json)
+
+---
+
+### SLC பிரதான லீக் 50 ஓவர் இறுதிப் போட்டியில் சிசிசி - பொலிஸ்
+
+*2025-07-28 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221222) · `ta`
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் (SLC) நடத்தப்பட்டுவரும் பிரதான லீக் 50 ஓவர் கிரிக்கெட் இறுதிப் போட்டியில் விளையாடுவதற்கு கொழும்பு கிரிக்கெட் கழகமும் பொலிஸ் விளையாட்டுக் கழகமும் தகுதிபெற்றுக்கொண்டன.
+
+தமிழ் யூனியன் அண்ட் அத்லட்டிக் கழகத்தை கொழும்பு கிரிக்கெட் கழகமும் கோல்ட்ஸ் கிரிக்கெட் கழகத்தை பொலிஸ் விளையாட்டுக் கழகமும் அரை இறுதிகளில் வெற்றிகொண்டு இறுதிப் போட்டியில் விளையாட தகுதிபெற்றன.
+
+சிசிசி மைதானத்தில் ஞாயிற்றுக்கிழமை நடைபெற்ற இரண்டாவது அரை இறுதிப் போட்டியில் தமிழ் யூனியன் கழகத்தை 68 ஓட்டங்களால் கொழும்பு கிரிக்கெட் கழகம் (CCC) வெற்றிகொண்டது.
+
+இலங்கை ஏ அணி வீரர்களான பவன் ரத்நாயக்க, சொனால் தினூஷ ஆகியோர் குவித்த அரைச் சதங்கள், இலங்கை வீரர் கமிந்து மெண்டிஸின் 4 விக்கெட் குவியல் என்பன சிசிசி அணியை இலகுவாக வெற்றிபெறச் செய்தன.
+
+தமிழ் யூனியன் சார்பாக சித்தார ஹப்புஹின்ன, சண்முகநாதன் ஷாருஜன் ஆகிய இருவரும் அரைச் சதங்கள் பெற்ற போதிலும் ஏனையவர்கள் துடுப்பாட்டத்தில் பிரகாசிக்கத் தவறினர்.
+
+...
+
+[Data](articles/07b7863d.json)
+
+---
+
+### செம்மணி புதைகுழிகள் தொடர்பான உண்மைகள் வெளிக்கொணரப்பட வேண்டும் – எம். ஏ. சுமந்திரன்
+
+*2025-07-28 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221221) · `ta`
+
+உண்மைகளை மூடி மறைத்து  நல்லிணக்கத்தினை ஏற்படுத்த முடியாது. எனவே புதைகுழிகள் தொடர்பிலான உண்மைகளை அரசாங்கம் கண்டறிந்து அதனை வெளிப்படுத்த வேண்டும் என ஜனாதிபதி சட்டத்தரணி எம். ஏ. சுமந்திரன் தெரிவித்துள்ளார்.
+
+செம்மணி புதைகுழி அகழ்வு பணிகளை திங்கட்கிழமை (28) ஜனாதிபதி சட்டத்தரணி எம். ஏ, சுமந்திரன், சட்டத்தரணி கேசவன் சயந்தன் ஆகியோர் நேரில் சென்று பார்வையிட்டனர்.
+
+இங்கு நடைபெறும் அகழ்வில் வயது குறைந்தவர்களின் எலும்பு கூடுகள் மீட்கப்பட்டுள்ளன. எலும்பு கூடுகள் அசாதாரணமாக சூழலில் அடக்கம் செய்யப்பட்டுள்ளது. இவை தொடர்பில் உண்மைகள் கண்டறியப்பட வேண்டும்.
+
+மனித புதைகுழிகள் கொக்குத்தொடுவாய் , மன்னார் , மாத்தளை , போன்று தெற்கிலும் சில இடங்களில் அடையாளம் காணப்பட்டுள்ளது.
+
+இலங்கையில் புதைகுழிகள் அடையாளம் காணப்பட்டுள்ள போதிலும் , அவை தொடர்பில் ஆய்வு செய்ய கூடிய பொறிமுறைகள் இலங்கையில் இன்னமும் இல்லாத நிலைமைகள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/f0253963.json)
 
 ---
 
@@ -1721,95 +1817,5 @@ The accident occurred when a crane traveling from Rajagiriya towards the Bauddha
 ...
 
 [Data](articles/103859a2.json)
-
----
-
-### Sri Lanka’s exports surge to USD 8.3 billion in first six months of 2025
-
-*2025-07-28 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110914/sri-lankas-exports-surge-to-usd-83-billion-in-first-six-months-of-2025) · `en`
-
-Sri Lanka’s total exports during the first six months of 2025 have reached USD 8,337.86 million, marking a robust 6.70 % growth compared to the same period in 2024, the Central Bank of Sri Lanka (CBSL) has highlighted.
-
-Total exports, including both merchandise and services reached USD 1,460.34 million in June 2025.
-
-This is an impressive year-on-year growth of 8.73% over June 2024, highlighting the strength of Sri Lanka’s export sector and the effectiveness of ongoing strategies to broaden market reach and improve global competitiveness, the CBSL stated.
-
-In June 2025 alone, merchandise exports grew by 6.85 % year-on-year, reaching USD 1,150.73 million, according to provisional data of Sri Lanka Customs including the estimates for Gems & Jewellery and Petroleum Products.
-
-For the period January to June 2025, merchandise exports totaled USD 6,504.72 million, reflecting 5.86% increase compared to the same period in 2024.
-
-...
-
-[Data](articles/de19b606.json)
-
----
-
-### ඌව පළාත් නව ප්‍රධාන ලේකම් පත් කෙරේ
-
-*2025-07-28 12:53:04* · [`adalk`](https://www.ada.lk/breaking_news/ඌව-පළාත්-නව-ප්‍රධාන-ලේකම්-පත්-කෙරේ/11-417552) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි ඌව පළාත් ප්‍රධාන ලේකම් ලෙස පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය පත් කරනු ලැබ තිබේ.
-
-ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම මහත්මිය වෙත භාර දුන්නේය.
-
-ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය, මෙම පත්කිරීමට පෙර, බස්නාහිර පළාත් අධ්‍යාපන, සංස්කෘතික හා කලා කටයුතු, ක්‍රීඩා හා යෞවන කටයුතු සහ තොරතුරු තාක්ෂණය පිළිබඳ අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළාය.
-
-◼️
-
-[Data](articles/a3a65d0d.json)
-
----
-
-### බැංකොක් නුවර සමූහ වෙඩිතැබීමක් - සිව්දෙනෙක් මරුට
-
-*2025-07-28 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212725) · `si`
-
-අද (28) උදෑසන තායිලන්තයේ, බැංකොක් අගනුවර ජනප්‍රිය ආහාර වෙළෙඳපොළක් තුළ සිදුවු සමූහ වෙඩිතැබීමකින් එහි සිටි ආරක්ෂක නිලධාරීන් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-වෙඩිතැබීමෙන් තවත් අයෙක් තුවාල ලබා ඇති අතර, පොලීසිය වෙඩිතැබීම සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
-
-වෙඩිතැබීම සිදුකළ පුද්ගලයා සියදිවි නසාගෙන ඇති බව ද එරට ආරක්ෂක අංශ තහවුරු කර තිබේ.
-
-◼️
-
-[Data](articles/7c4383e3.json)
-
----
-
-### Four Acting Ministers appointed during President’s visit to Maldives
-
-*2025-07-28 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/110911/four-acting-ministers-appointed-during-presidents-visit-to-maldives-) · `en`
-
-Four Acting Ministers have been appointed for key ministries in light of President Anura Kumara Dissanayake’s state visit to the Maldives.
-
-President Dissanayake left the island this morning on a three-day state visit to the Maldives.
-
-President Dissanayake was accompanied on his three-day state visit to the Maldives by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-The appointments, announced by the President’s Media Division (PMD), are as follows:
-
-• Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando has been appointed as the Acting Minister of Finance, Planning and Economic Development.
-
-• Deputy Minister of Digital Economy, Eranga Weeraratne has been appointed as the Acting Minister of Digital Economy.
-
-• Deputy Minister of Defense, Aruna Jayasekara has been appointed as the Acting Minister of Defense.
-
-...
-
-[Data](articles/7859848c.json)
-
----
-
-### 4 killed in ‘mass shooting’ in Thai capital: police
-
-*2025-07-28 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110910/4-killed-in-mass-shooting-in-thai-capital-police) · `en`
-
-Four security guards were killed and one other person wounded in a mass shooting at a popular fresh food market in Thailand’s capital on Monday, police said.
-
-“Police are investigating the motive. So far it’s a mass shooting,” Worapat Sukthai, deputy police chief of Bangkok’s Bang Sue district where the incident took place, told AFP—adding that the gunman took his own life.
-
-◼️
-
-[Data](articles/8cee2530.json)
 
 ---

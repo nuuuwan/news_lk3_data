@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 05:31:37**
+As of **2025-07-28 06:15:37**
 
 ## Newspaper Stats
 
-*Scraped **67,133** Articles*
+*Scraped **67,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 690
 economynextcom | 4,102
-islandlk | 4,106
+islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,434
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,133 articles have been extended.
+61,973 (92.3%) of 67,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -774,6 +774,88 @@ Police also seized four illegal firearms during this special operation.
 
 ---
 
+### Hrithik Roshan to ignite entertainment journey of City of Dreams Sri Lanka on August 2
+
+*2025-07-27 18:42:00* · [`islandlk`](http://island.lk/hrithik-roshan-to-ignite-entertainment-journey-of-city-of-dreams-sri-lanka-on-august-2/) · `en`
+
+City of Dreams Sri Lanka will begin its much-anticipated journey of being Sri Lanka’s entertainment Hub with Indian superstar Hrithik Roshan making a special appearance at the celebrations on August 2.
+
+Known for his roles in Krrish, War, and Super 30, Roshan’s presence signals the regional significance of the project’s ambition to bring South Asia’s creative and cultural talent to the forefront.
+
+City of Dreams Sri Lanka is a landmark development combining luxury accommodation, world-class dining, high-end retail, and immersive entertainment under one roof. August 2 is the start of an ongoing celebration that will shape a new narrative for Colombo — one of confidence, creativity, and regional connectivity.
+
+First Capital maintains constructive outlook on NDB, sees strong growth potential
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/81e6d31c.json)
+
+---
+
+### Financial markets and ‘main street’ economy moving in opposite directions: analyst
+
+*2025-07-27 18:41:00* · [`islandlk`](http://island.lk/financial-markets-and-main-street-economy-moving-in-opposite-directions-analyst/) · `en`
+
+While headlines celebrate the Colombo Stock Exchange’s bullish run, with the All Share Price Index (ASPI) recently rising by 2.6%, the average Sri Lankan is left wondering: How does this actually affect my daily life? The stark reality is that macroeconomic stability often yields a mixed bag for ordinary citizens. Some costs rise, while others see fleeting relief, and financial policies rarely translate into tangible benefits for the working class.
+
+To understand this disconnect, The Island Financial Review spoke with an economic analyst who wished to remain anonymous.
+
+When asked about the stock market rally, the expert noted that while it benefits some, the gains largely bypass the majority.
+
+...
+
+[Data](articles/94238c5b.json)
+
+---
+
+### Sampath Bank launches private banking units at six premier branches across Sri Lanka on a single day
+
+*2025-07-27 18:41:00* · [`islandlk`](http://island.lk/sampath-bank-launches-private-banking-units-at-six-premier-branches-across-sri-lanka-on-a-single-day/) · `en`
+
+Sampath Bank PLC marked a significant milestone in its exclusive banking journey with the unveiling of Private Banking units at six key branch locations: Kandy, Kurunegala, Narahenpita, Negombo, Panadura and Wellawatte on 25th July 2025. This strategic expansion reflects the Bank’s continued focus on delivering exclusive financial solutions and strengthening its proposition for discerning clients across Sri Lanka.
+
+The simultaneous launch reflects the scale and prestige of Sampath Bank’s Private Banking proposition, reinforcing the institution’s reputation for discretion, insight and personalised financial solutions. The presence of the Board of Directors and select private banking customers clients at each location highlights the importance of this strategic initiative, affirming the Bank’s dedication to nurturing long-standing relationships with individuals who seek a more personalised and elevated banking experience.
+
+...
+
+[Data](articles/f5dcf7ed.json)
+
+---
+
+### First Capital maintains constructive outlook on NDB, sees strong growth potential
+
+*2025-07-27 18:40:00* · [`islandlk`](http://island.lk/first-capital-maintains-constructive-outlook-on-ndb-sees-strong-growth-potential/) · `en`
+
+First Capital Research has reaffirmed its positive stance on National Development Bank (NDB), maintaining a ‘buy’ recommendation despite a slight moderation in short-term expectations. The bank’s strong earnings recovery, declining impairments, and favorable macroeconomic conditions underpin First Capital’s confidence in NDB’s long-term growth trajectory.
+
+NDB reported an impressive 143.6% year-on-year (YoY) earnings growth in 1Q2025, though slightly below expectations due to slower loan expansion. The surge in profitability was largely driven by a sharp reduction in impairment charges. However, quarterly earnings saw a 58.5% contraction compared to 4Q2024, primarily due to a one-off reversal of impairment charges related to International Sovereign Bonds (ISBs).
+
+...
+
+[Data](articles/1d29d0ff.json)
+
+---
+
+### Sri Lanka must stay the course on tough reforms: IMF
+
+*2025-07-27 18:39:00* · [`islandlk`](http://island.lk/sri-lanka-must-stay-the-course-on-tough-reforms-imf/) · `en`
+
+An International Monetary Fund (IMF) mission team concluded its visit to Sri Lanka recently, acknowledging the country’s progress under its economic reform programme but cautioning that the road ahead remains fraught with challenges.
+
+While growth has exceeded expectations and inflation is stabilising, the IMF stressed that Sri Lanka must deepen reforms – particularly in taxation, debt management, and governance to secure long-term stability amid global uncertainties.
+
+The IMF noted that Sri Lanka’s economy grew by 4.8% year-on-year in Q1 2025, surpassing projections. Inflation has eased to -1.1%, and foreign reserves have climbed to $6 billion. However, the mission warned that looming threats including potential export tariffs, geopolitical tensions, and trade uncertainties demand unwavering commitment to fiscal discipline.
+
+...
+
+[Data](articles/147517f0.json)
+
+---
+
 ### Lanka Ashok Leyland exports to Maldives, eyes Africa
 
 *2025-07-27 18:35:00* · [`economynextcom`](https://economynext.com/lanka-ashok-leyland-exports-to-maldives-eyes-africa-232927/) · `en`
@@ -823,6 +905,32 @@ The company had export revenues of 140 million in 2025 and 255 million a year ea
 ...
 
 [Data](articles/cbfc125c.json)
+
+---
+
+### ComBank partners AusAsia Education to support students with affordable education loans
+
+*2025-07-27 18:14:00* · [`islandlk`](http://island.lk/combank-partners-ausasia-education-to-support-students-with-affordable-education-loans/) · `en`
+
+Students aspiring to study overseas can now benefit from a special loan scheme offered by the Commercial Bank of Ceylon, following the signing of a Memorandum of Understanding (MoU) with Austasia Education Consultants (Pvt) Ltd. (AusAsia Education), a leading student placement agency in Sri Lanka.
+
+This strategic partnership will facilitate the promotion of the Bank’s Education Loans for Student Files and overseas study financing, enabling students to access financial support with attractive terms as they pursue higher education in countries such as Australia, New Zealand, UK, Canada, Malaysia and Singapore.
+
+...
+
+[Data](articles/01e04931.json)
+
+---
+
+### ‘Evolution Auto is powering Sri Lanka’s electric future’
+
+*2025-07-27 18:10:00* · [`islandlk`](http://island.lk/evolution-auto-is-powering-sri-lankas-electric-future/) · `en`
+
+Evolution Auto (Pvt) Ltd, Sri Lanka’s trailblazer in next-generation electric vehicles (EVs), is proud to announce two major milestones in its mission to deliver world-class EV after-sales service, comprising body, drive train, periodic maintenance & electrical systems. These include the commencement of a cutting-edge multi-brand EV workshop along the Colombo–Kandy Road and the successful completion of specialized international training programs by its after-sales staff.
+
+...
+
+[Data](articles/996d4612.json)
 
 ---
 
@@ -1657,123 +1765,5 @@ Air India has released the interim compensation to the families of 147 of the 22
 ...
 
 [Data](articles/b1c44097.json)
-
----
-
-### දෙරණ සරුංගල් සැණකෙළියට චීනයේ ත්‍රී වින්ඩ් සරුංගල් කණ්ඩායමත් එක් වෙයි
-
-*2025-07-27 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212689) · `si`
-
-දෙරණ - සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය සඳහා ලොව අංක එකේ ස්ටන්ට් සරුංගල් කණ්ඩායම වන චීනයේ වූහාන් නුවර ත්‍රී වින්ඩ් සරුංගල් කණ්ඩායමද එක් වන බව මේ වන විට නිවේදනය කර තිබේ.
-
-දෙරණ සරුංගල් සැණකෙළිය අගෝස්තු මස 24 වැනිදා ගාලු මුවදොර පිටියේදී පැවැත්වීමට නියමිතය.
-
-දෙරණ දායකත්වයෙන් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය මෙවර පැවැත්වෙන්නේ 5 වැනි වරටය.
-
-පසුගිය වසර තුනේම ලෝක ශූරතා ක්‍රීඩා සරුංගල් තරගාවලිය ජයග්‍රහණය කළේද ත්‍රී වින්ඩ් සරුංගල්  කණ්ඩායමය.
-
-◼️
-
-[Data](articles/85c3b8cd.json)
-
----
-
-### 24 persons nabbed during special operation in Galle
-
-*2025-07-27 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110877/24-persons-nabbed-during-special-operation-in-galle) · `en`
-
-A total of twenty-four suspects have been arrested in a special search operation carried out in several areas of Galle.
-
-It is also reported that 13 women were arrested during a raid conducted at a gambling centre in Mahamodara.
-
-Meanwhile, three-wheelers were also subjected to special searches during this operation carried out yesterday (26).
-
-Furthermore, a suspect was apprehended for the possession of drugs while a group of drivers were also charged with traffic offenses.
-
-These operations have been launched under the direct supervision of the Deputy Inspector General of Police (DIG) in Galle with the aim of preventing the transportation of illegal weapons and narcotics.
-
-◼️
-
-[Data](articles/12bbc8ff.json)
-
----
-
-### சட்டவாக்க கட்டமைப்புக்கள் பலப்படுத்தப்பட வேண்டும் - சர்வதேச சிறுவர் பாதுகாப்பு மாநாட்டில் இலங்கைக்கான ஐரோப்பிய ஒன்றிய தூதர் வலியுறுத்து
-
-*2025-07-27 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221060) · `ta`
-
-சிறுவர்களுக்கான நீதியில் நேர்மையும் சமத்துவமும் பிரதிபலிக்க வேண்டும் என்றும், சட்டவாக்கக் கட்டமைப்புக்க ள் மறுசீரமைக்கப்பட்டு பலப்படுத்த வேண்டுமெனவும் இலங்கைக்கான ஐரோப்பிய ஒன்றிய தூதர் கார்மென் மொரெனோ வலியுறுத்தினார்.
-
-இலங்கையில் இடம்பெறுகின்ற சிறுவர்களுக்கெதிரான அனைத்து வகையான  வன்முறைகளையும் எதிர்த்துப் போராடுவதற்கு தேவையான அழுத்தங்களை வழங்கும் நோக்கில் சர்வதேச சிறுவர் பாதுகாப்பு மாநாடு கடந்த 25ஆம் திகதி ஆரம்பமாகி இன்று வரையில் நடைபெறுகின்றது,
-
-இந்நிலையில் இம்மாநாட்டின் ஆரம்ப நிகழ்வில் உரையாற்றும்போதே அவர்கள் மேற்கண்டவாறு தெரிவித்தார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
-
-சட்டவாக்கக் கட்டமைப்புக்களை பலப்படுத்தி சிறுவர்களுடன் கடமையாற்றும் நிறுவனங்கள் மற்றும் தொழில்வல்லுநர்களின் ஆற்றலை மேம்படுத்தி சிறுவர் நேய நீதித்துறை மறுசீரமைப்பு நடவடிக்கைகளுக்கு தமது ஒத்துழைப்பின் முக்கியத்துவத்தை எடுத்துரைத்தார்.
-
-...
-
-[Data](articles/1ff6d216.json)
-
----
-
-### මහජන සෞඛ්‍ය හෙද නිලධාරීන්ට ලබන වසර මුල දී යතුරු පැදි
-
-*2025-07-27 13:05:10* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-හෙද-නිලධාරීන්ට-ලබන-වසර-මුල-දී-යතුරු-පැදි/11-417525) · `si`
-
-මෙරට ජනතාවට වර්තමානයේ දී සපයනු ලබන ප්‍රාථමික සෞඛ්‍ය සේවා වඩාත් ගුණාත්මක හා කාර්යක්ෂම සේවාවක් ලෙස ඉදිරියේ දී  ලබාදීම ප්‍රමුඛ අරමුණු කරගනිමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය මුළු දිවයිනම ආවරණය වන පරිදි පිහිටුවීමට යෝජිත ප්‍රාථමික සෞඛ්‍ය සේවා මධ්‍යස්ථාන (Primary Care Community Centre) ව්‍යාපෘතිය පිළිබඳව මහජන සෞඛ්‍ය හෙද නිලධාරීන් (Public Health Nursing Officers - PHNO) දැනුවත් කිරීමේ වැඩමුළුවක් ඊයේ  (26)  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා පදනම ආයතන ශ්‍රවණාගාරයේ දී පැවැතියේය.
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ප්‍රාථමික සෞඛ්‍ය සේවා අංශය (Primary Healthcare Unit) විසින් මෙම පුහුණු  වැඩමුළුව සංවිධානය කර තිබුණි.
-
-...
-
-[Data](articles/9c33e874.json)
-
----
-
-### Brigadier F. Joseph assumes duties as Defence Ministry spokesman
-
-*2025-07-27 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/110876/brigadier-f-joseph-assumes-duties-as-defence-ministry-spokesman) · `en`
-
-Brigadier Franklin Joseph USP has officially assumed duties as the new Director Media and Spokesman of the Ministry of Defence.
-
-He officially assumed responsibilities from Colonel Nalin Herath, who previously served as the Director Media and Spokesman, Ministry of Defence said in a statement.
-
-Brigadier Franklin Joseph, a distinguished officer of the Sri Lanka Army Engineers Corps, brings with him over three decades of exemplary service marked by professionalism, leadership and a deep commitment to national security.
-
-He served as the Centre Commandant of the Corps of Sri Lanka Engineers prior to takeover the duties as the Director Media.
-
-◼️
-
-[Data](articles/dfcd1f99.json)
-
----
-
-### ඉන්දියාවේ කෝවිලක ඇතිවූ තෙරපුමකින් පුද්ගලයින් 06 දෙනෙකු මරුට
-
-*2025-07-27 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212688) · `si`
-
-ඉන්දියාවේ උත්තරාකන්ඩි හී පිහිටි කෝවිලක ඇතිවූ තෙරපීමකින් පුද්ගලයින් 06 දෙනෙකු මියගොස් තවත් 35 දෙනෙකු තුවාල ලබා ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
-
-ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ උත්තරාකන්ඩි,  හරිද්වාර් හී පිහිටි මන්සා දේවි කෝවිලේ මෙම තෙරපීම සිදුව ඇති අතර මාර්ගයේ පඩිපෙළ මත මෙම තෙරපීම සිදුව ඇති බවය.
-
-විදුලි සැර වැදීමක් සිදුවිය හැකි බවට පැතිර ගිය කටකතාවක් හේතුවෙන් ජනතාව අතර භීතියක් ඇතිව ඇති බවත් ඉන්පසු මෙම තෙරපීම සිදුව ඇති බවත් එරට මාධ්‍ය වාර්තා කර තිබේ.
-
-කෙසේ වෙතත් තෙරපීමෙන් තුවාල ලැබුවන් කඩිනමින් රෝහල් ගත කිරීමට අදාළ පිරිස් විසින් කටයුතු කර ඇති බවත් වාර්තා වේ.
-
-◼️
-
-[Data](articles/0da469e5.json)
-
----
-
-### “750 ஊசிக்கு மேல போட்டாச்சு”:  பொன்னம்பலம் கண்ணீர்
-
-*2025-07-27 13:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/750-ஊசிக்கு-மேல-போட்டாச்சு-பொன்னம்பலம்-கண்ணீர்/54-361822) · `ta`
-
-தமிழ் சினிமாவில் ஸ்டண்ட் கலைஞராக அறிமுகமான நடிகர் பொன்னம்பலம், ‘நாட்டாமை’ படத்தின் மூலம் ரசிகர்களிடையே தனி ரசிகர் பட்டாளத்தை உருவாக்கினார். தமிழ் மட்டுமன்றி மலையாளம், தெலுங்கு, ஹிந்தி மொழிப்படங்களிலும் நடித்து வந்துள்ள இவர், கடந்த காலங்களில் உடல்நலக் குறைவால் கடுமையாக பாதிக்கப்பட்டிருந்தார். சிறுநீரக பிரச்சனையால் மருத்துவமனையில் அனுமதிக்கப்பட்ட அவர், பொருளாதார சிக்கலால் சிகிச்சைக்கு பணம் தேவைப்பட்ட நிலையில், வீடியோ மூலம் பொதுமக்களிடம் உதவி கேட்டதையடுத்து, பலரும் உதவிக்கு முன்வந்தனர்.
-
-...
-
-[Data](articles/935f1c14.json)
 
 ---

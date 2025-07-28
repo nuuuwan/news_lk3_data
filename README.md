@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 11:52:31**
+As of **2025-07-28 12:09:07**
 
 ## Newspaper Stats
 
-*Scraped **67,196** Articles*
+*Scraped **67,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,102
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,444
+adalk | 6,446
 adaderanalk | 8,258
-tamilmirrorlk | 9,720
+tamilmirrorlk | 9,721
 virakesarilk | 11,205
-adaderanasinhalalk | 11,546
+adaderanasinhalalk | 11,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,196 articles have been extended.
+61,973 (92.2%) of 67,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### நாளை முதல் நாடு தழுவிய அடையாள வேலைநிறுத்தம்
+
+*2025-07-28 11:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-நாடு-தழுவிய-அடையாள-வேலைநிறுத்தம்/175-361884) · `ta`
+
+நாளை (29) நள்ளிரவு முதல் நாடு தழுவிய 48 மணி நேர அடையாள வேலைநிறுத்தத்தில் ஈடுபடவுள்ளதாக ரயில் இயந்திர ஓட்டுநர் சங்கம் தெரிவித்துள்ளது.
+
+தவறான சமிக்ஞை அமைப்புகள் உட்பட பல்வேறு பிரச்சினைகள் தொடர்பாக இந்த அடையாள வேலைநிறுத்தம் தொடங்கப்படும் என்று தொழிற்சங்கத் தலைவர் கே.ஏ.யு. கொண்டசிங்க தெரிவித்தார்.
+
+இந்த அடையாள வேலைநிறுத்தம் காரணமாக நாடு முழுவதும் உள்ள அனைத்து ரயில்களும் நிறுத்தப்படும் என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/0bee9ec5.json)
+
+---
+
+### බොරැල්ලේ මාරක අනතුරින් තුවාල ලැබු 7ක් තවමත් රෝහලේ
+
+*2025-07-28 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212722) · `si`
+
+අද (28) උදෑසන බොරැල්ල, කනත්ත හන්දියේ දී සිදුවු මාරක අනතුරින් තුවාල ලැබු පුද්ගලයින් 7 දෙනෙකු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+පොලීසිය පැවසුවේ, අනතුරින් තුවාල ලැබූ එක් අයෙක් රෝහල් ගත කිරීමේදී මියගොස් සිටි බව කොළඹ ජාතික රෝහලේ, නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැවසීය.
+
+තුවාලකරුවන් අතරින් දෙදෙනෙකු කාන්තාවන් වන බවත්, ඉතිරි පස්දෙනාම පිරිමි පුද්ගලයින් වන බව ද වෛද්‍යවරයා කියා සිටියේය.
+
+අද උදෑසන රාජගිරිය දෙස සිට බෞද්ධාලෝක මාවත දෙසට ධාවනය වෙමින් තිබූ දොඹකරයක්, කනත්ත වටරවුමේ මාර්ග සංඥා අසල නවතා තිබූ යතුරු පැදි 6ක සහ මෝටර් රථ 3ක් ගැටී අනතුර සිදුව තිබුණි.
+
+අනතුර සිදුකළ දොඹකරයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, දොඹකරයේ තිරිංග අක්‍රීය වීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැක පළ කරයි.
+
+◼️
+
+[Data](articles/f914f434.json)
+
+---
 
 ### மாலைதீவில்  ஜனாதிபதிக்கு அமோக வரவேற்பு
 
@@ -316,6 +352,22 @@ Citizens’ Voice திட்டத்தின் கீழ், இந்த�
 
 ---
 
+### කලා සහ සංස්කෘතික කටයුතු පිළිබඳ පාර්ලිමේන්තු සංසදයේ ඉදිරි කටයුතු සඳහා ක්‍රියාකාරී කමිටුවක්
+
+*2025-07-28 10:31:52* · [`adalk`](https://www.ada.lk/breaking_news/කලා-සහ-සංස්කෘතික-කටයුතු-පිළිබඳ-පාර්ලිමේන්තු-සංසදයේ-ඉදිරි-කටයුතු-සඳහා-ක්‍රියාකාරී-කමිටුවක්/11-417545) · `si`
+
+දසවැනි පාර්ලිමේන්තුව සඳහා ස්ථාපිත කලා සහ සංස්කෘතික කටයුතු පිළිබඳ පාර්ලිමේන්තු සංසදයේ ඉදිරි කටයුතු සඳහා ක්‍රියාකාරී කමිටුවක් පත් කෙරිණි. මෙරට කලා සහ සංස්කෘතික ක්ෂේත්‍රයන්හි උන්නතිය සඳහා සංසදය විසින් සිදු කිරිමට අපේකෂිත වැඩසටහන් මෙහෙයවීම, ඒ් සඳහා අදාළ ක්ෂේත්‍රයන්හි ප්‍රවීණයන්ගෙන් සහ විද්වතුන්ගෙන් අදහස් හා යෝජනා ලබා ගැනීම මෙම ක්‍රියාකාරී කමිටුවේ අරමුණයි.
+
+කමිටුවේ සාමාජිකයන් ලෙස ගරු පාර්ලිමේන්තු මන්ත්‍රීවරයන් වන මහාචාර්ය සේන නානායක්කාර, ලක්ෂ්මන් නිපුණආරච්චි, නීතිඥ හිරුණි විජේසිංහ, නීතිඥ නිලන්ති කොට්ටහච්චි, සුගත් වසන්ත ද සිල්වා, නීතිඥ සුසන්ත දොඩාවත්ත,රුවන් මාපලගම සහ දිනේෂ් හේමන්ත යන මන්ත්‍රීවරයන් පත් කෙරිණි.
+
+මේ පත් කිරීම් සිදුවූයේ කලා සහ සංස්කෘතික කටයුතු පිළිබඳ පාර්ලිමේන්තු සංසදය එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී ජගත් මනුවර්ණ මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (22) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/5345ab63.json)
+
+---
+
 ### பொரளையில் விபத்து ; ஒருவர் பலி - 50 பேர் காயம்
 
 *2025-07-28 10:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-விபத்து-ஒருவர்-பலி-50-பேர்-காயம்/175-361871) · `ta`
@@ -471,6 +523,24 @@ She was taken into custody for allegedly obstructing the duties of an officer at
 ◼️
 
 [Data](articles/9e2e33ba.json)
+
+---
+
+### කප්පම් කල්ලියක තිදෙනෙකු අත්අඩංගුවට
+
+*2025-07-28 08:58:14* · [`adalk`](https://www.ada.lk/breaking_news/කප්පම්-කල්ලියක-තිදෙනෙකු-අත්අඩංගුවට/11-417542) · `si`
+
+කළුතර හා අවට වෙළඳ වෙළඳසැල් සහ ව්‍යාපාරික ස්ථාන වලින් විවිධ සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින්ගෙන් නම් ද සදහන් කරමින්  කප්පම්  ලබාගත් "චාටර් බට්ටා "නමැති දිවයිනේ නම ගිය අපරාධකරුවෙකු ඇතුළු තිදෙනෙකු  කළුතර කොට්ඨාස   අපරාධ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ. සැකකරුවන් පයාගල ප්‍රදේශයේ පදිංචි 29,30 සහ 39 වියැති පුද්ගලයන් බව පොලිසිය කීය.
+
+කප්පම් ලබාදුන් පුද්ගලයින්ගෙන් ලද පැමිණිලි මත ප්‍රදේශයේ CCTV දර්ශන පරීක්ෂා කිරීමේන් පසු ප්‍රධාන  සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+සිදුකළ ප්‍රශ්න කිරීම් වලදී අනාවරණය වී ඇත්තේ එම යතුරුපැදියද කළුතර බෝධිය අසලදී සොරකම් කරන ලද යතුරුපැදියක් බවත්, එහි  බදෙහි අංකය මකා දමා  වෙනත් අංක තහඩුවක් සවිකොට ඇති බවත්ය. ඒ අනුව එයට අනුබල දුන් සැකකරුද අත් අඩංගුවට ගෙන ඇති තිදෙනා අතර වන බව පොලිසිය සදහන් කරයි.
+
+සැකකරුවන්  භාවිත කළ හෙල්මට් දෙකක් ජැකට් සහ එම කප්පම් මුදල් ලබා ගැනීමට භාවිතා කළ ජංගම දුරකථනයක්ද පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/d8b80f0a.json)
 
 ---
 
@@ -1695,71 +1765,5 @@ Police also seized four illegal firearms during this special operation.
 ◼️
 
 [Data](articles/d92aded9.json)
-
----
-
-### Hrithik Roshan to ignite entertainment journey of City of Dreams Sri Lanka on August 2
-
-*2025-07-27 18:42:00* · [`islandlk`](http://island.lk/hrithik-roshan-to-ignite-entertainment-journey-of-city-of-dreams-sri-lanka-on-august-2/) · `en`
-
-City of Dreams Sri Lanka will begin its much-anticipated journey of being Sri Lanka’s entertainment Hub with Indian superstar Hrithik Roshan making a special appearance at the celebrations on August 2.
-
-Known for his roles in Krrish, War, and Super 30, Roshan’s presence signals the regional significance of the project’s ambition to bring South Asia’s creative and cultural talent to the forefront.
-
-City of Dreams Sri Lanka is a landmark development combining luxury accommodation, world-class dining, high-end retail, and immersive entertainment under one roof. August 2 is the start of an ongoing celebration that will shape a new narrative for Colombo — one of confidence, creativity, and regional connectivity.
-
-First Capital maintains constructive outlook on NDB, sees strong growth potential
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/81e6d31c.json)
-
----
-
-### Financial markets and ‘main street’ economy moving in opposite directions: analyst
-
-*2025-07-27 18:41:00* · [`islandlk`](http://island.lk/financial-markets-and-main-street-economy-moving-in-opposite-directions-analyst/) · `en`
-
-While headlines celebrate the Colombo Stock Exchange’s bullish run, with the All Share Price Index (ASPI) recently rising by 2.6%, the average Sri Lankan is left wondering: How does this actually affect my daily life? The stark reality is that macroeconomic stability often yields a mixed bag for ordinary citizens. Some costs rise, while others see fleeting relief, and financial policies rarely translate into tangible benefits for the working class.
-
-To understand this disconnect, The Island Financial Review spoke with an economic analyst who wished to remain anonymous.
-
-When asked about the stock market rally, the expert noted that while it benefits some, the gains largely bypass the majority.
-
-...
-
-[Data](articles/94238c5b.json)
-
----
-
-### Sampath Bank launches private banking units at six premier branches across Sri Lanka on a single day
-
-*2025-07-27 18:41:00* · [`islandlk`](http://island.lk/sampath-bank-launches-private-banking-units-at-six-premier-branches-across-sri-lanka-on-a-single-day/) · `en`
-
-Sampath Bank PLC marked a significant milestone in its exclusive banking journey with the unveiling of Private Banking units at six key branch locations: Kandy, Kurunegala, Narahenpita, Negombo, Panadura and Wellawatte on 25th July 2025. This strategic expansion reflects the Bank’s continued focus on delivering exclusive financial solutions and strengthening its proposition for discerning clients across Sri Lanka.
-
-The simultaneous launch reflects the scale and prestige of Sampath Bank’s Private Banking proposition, reinforcing the institution’s reputation for discretion, insight and personalised financial solutions. The presence of the Board of Directors and select private banking customers clients at each location highlights the importance of this strategic initiative, affirming the Bank’s dedication to nurturing long-standing relationships with individuals who seek a more personalised and elevated banking experience.
-
-...
-
-[Data](articles/f5dcf7ed.json)
-
----
-
-### First Capital maintains constructive outlook on NDB, sees strong growth potential
-
-*2025-07-27 18:40:00* · [`islandlk`](http://island.lk/first-capital-maintains-constructive-outlook-on-ndb-sees-strong-growth-potential/) · `en`
-
-First Capital Research has reaffirmed its positive stance on National Development Bank (NDB), maintaining a ‘buy’ recommendation despite a slight moderation in short-term expectations. The bank’s strong earnings recovery, declining impairments, and favorable macroeconomic conditions underpin First Capital’s confidence in NDB’s long-term growth trajectory.
-
-NDB reported an impressive 143.6% year-on-year (YoY) earnings growth in 1Q2025, though slightly below expectations due to slower loan expansion. The surge in profitability was largely driven by a sharp reduction in impairment charges. However, quarterly earnings saw a 58.5% contraction compared to 4Q2024, primarily due to a one-off reversal of impairment charges related to International Sovereign Bonds (ISBs).
-
-...
-
-[Data](articles/1d29d0ff.json)
 
 ---

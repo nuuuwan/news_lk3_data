@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 13:07:01**
+As of **2025-07-28 13:32:18**
 
 ## Newspaper Stats
 
-*Scraped **67,221** Articles*
+*Scraped **67,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,448
 adaderanalk | 8,263
 tamilmirrorlk | 9,727
 virakesarilk | 11,205
-adaderanasinhalalk | 11,550
+adaderanasinhalalk | 11,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,221 articles have been extended.
+61,973 (92.2%) of 67,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### 2025 පළමු මාස හයේ අපනයන ආදායම ඩොලර් බිලියන 8.3 ඉක්මවයි
+
+*2025-07-28 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212726) · `si`
+
+ශ්‍රී ලංකාවේ අපනයන 2025 වර්ෂයේ පළමු මාස හය තුළ කැපී පෙනෙන ප්‍රගතියක් පෙන්නුම් කරමින් සමස්ත අපනයන ආදායම ඇමරිකානු ඩොලර් මිලියන 8,337.86 කට ළඟා වී ඇති බවත්, එය 2024 වර්ෂයේ එම කාල සීමාවට සාපේක්ෂව 6.70%ක වර්ධනයක් බවත් අපනයන සංවර්ධන මණ්ඩලය පවසයි.
+
+මේ සම්බන්ධයෙන් අපනයන සංවර්ධන මණ්ඩලය විසින් නිකුත් කළ නිවේදනයක වැඩිදුරටත් මෙසේ සඳහන් වේ.
+
+වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළු සමස්ත අපනයන 2025 ජූනි මාසයේදී ඇමරිකානු ඩොලර් මිලියන 1,460.34 කට ළඟා විය. මෙය 2024 ජූනි මාසයට සාපේක්ෂව 8.73%ක  වර්ධනයක් පෙන්නුම් කරයි.
+
+2025 ජූනි මාසයේදී පමණක් වෙළඳ භාණ්ඩ අපනයන 6.85%කින් වර්ධනය වී ඇමරිකානු ඩොලර් මිලියන 1,150.73 කට ළඟා වී ඇති බව ශ්‍රී ලංකා රේගුව සහ විද්‍යුත් භාණ්ඩ සඳහා ඇස්තමේන්තු දත්ත අනුව පෙන්නුම් කරයි.
+
+2025 ජනවාරි සිට ජූනි දක්වා කාල සීමාව සඳහා වෙළඳ භාණ්ඩ අපනයන ඇමරිකානු ඩොලර් මිලියන 6,504.72 ක් විය, එය 2024 වර්ෂයේ එම කාල සීමාවට සාපේක්ෂව 5.86%ක වර්ධනයකි.
+
+2025 ජූනි මාසයේදී සේවා අපනයනවලින් ලැබෙන ආදායම ඇමරිකානු ඩොලර් මිලියන 309.61 ක් ලෙස ඇස්තමේන්තු කර ඇත. එය 2024 වර්ෂයේ එම කාල සීමාවට සාපේක්ෂව 16.38 % ක වර්ධනයකි.
+
+...
+
+[Data](articles/103859a2.json)
+
+---
 
 ### බැංකොක් නුවර සමූහ වෙඩිතැබීමක් - සිව්දෙනෙක් මරුට
 
@@ -1773,21 +1795,5 @@ Koimala is believed to be a Sinhalese prince of royal lineage from Ceylon. Legen
 ...
 
 [Data](articles/6f939242.json)
-
----
-
-### Invisible trails: Navigating intersections of digital exhaust, trust, and privacy
-
-*2025-07-28 01:26:16* · [`dailyftlk`](https://www.ft.lk/columns/Invisible-trails-Navigating-intersections-of-digital-exhaust-trust-and-privacy/4-779527) · `en`
-
-In the modern digital ecosystem, every click, search, swipe, and share generate a hidden byproduct – digital exhaust. This byproduct, often unnoticed by users, forms the backbone of predictive algorithms, targeted advertising, and behavioural analytics. While the potential for innovation and personalisation is immense, it also raises critical concerns around digital trust and digital privacy. This article explores the intricate relationship between these three interconnected concepts and why understanding them is essential in the digital age.
-
-Digital exhaust refers to the passive, often unintentional, data trails that individuals leave behind as they navigate the internet and use digital devices. This includes metadata, device usage patterns, location information, app logs, online behaviour, and much more.
-
-Unlike active data input (like filling out a form), digital exhaust is collected in the background. For example:
-
-...
-
-[Data](articles/215f7331.json)
 
 ---

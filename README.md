@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 13:51:43**
+As of **2025-07-28 14:07:48**
 
 ## Newspaper Stats
 
-*Scraped **67,224** Articles*
+*Scraped **67,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,449
+adalk | 6,450
 adaderanalk | 8,263
-tamilmirrorlk | 9,727
+tamilmirrorlk | 9,728
 virakesarilk | 11,205
 adaderanasinhalalk | 11,552
 
@@ -26,13 +26,31 @@ adaderanasinhalalk | 11,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,224 articles have been extended.
+61,973 (92.2%) of 67,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
 
-### බොරැල්ලේ මාරක අනතුර - දොඹකරයේ රියදුරු ගංජා මත්ද්‍රව්‍ය පානය කර සිටි බව හෙළිවෙයි
+### போதையில் தள்ளாடிய ஐந்து மாணவிகள்
+
+*2025-07-28 13:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-தள்ளாடிய-ஐந்து-மாணவிகள்/175-361898) · `ta`
+
+பிரபல்யமான   பெண்கள் பாடசாலையொன்றில் 9 ஆம் வகுப்பு மாணவிகள் 5 பேர் போதை மாத்திரை பயன்படுத்திய நிலையில்  மருதானை பொலிஸார் மாணவிகளை அழைத்து விசாரணை மேற்கொண்டுள்ளனர்.
+
+இம் மாணவிகளில் இரு மாணவிகளே இந்த போதைப்பொருள் மாத்திரிகைகளை மட்டக்குளிய  பிரதேசத்திற்குச் சென்று அங்கு ஒர் நபரிடம் அடிக்கடி வாங்கி பாடசாலைக்கு கொண்டு வருவதாகவும் விசாரணையின்போது தெரியவந்தது.
+
+மேற்படி மாணவிகள் 2 குளிசைகள் பின்னர் 3 குளிசைகளை பாடசாலையின் கழிவறைக்குச் சென்று இதை அருந்துவது தெரியவருகின்றது.
+
+இது தொடர்பில் பாடசாலையின் அதிபர், மருதானை பொலிஸாருக்கு தொலைபேசி அழைப்பை எடுத்து முறைப்பாடு செய்துள்ளார். பாடசாலைக்கு விரைந்த பொலிஸார் இம் மாணவிகள் 5 பேரையும் அழைத்துச் சென்று விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/3419f8fd.json)
+
+---
+
+### බොරැල්ලේ මාරක අනතුර - දොඹකරයේ රියදුරු ගංජා පානය කර සිටි බව හෙළිවෙයි
 
 *2025-07-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212727) · `si`
 
@@ -625,6 +643,24 @@ Dissanayake will also address a business forum organised by the Sri Lankan High 
 ...
 
 [Data](articles/8e8f77db.json)
+
+---
+
+### නොරොච්චෝලෙට අවශ්‍ය තරම් ගල් අඟුරු තිබෙනවා
+
+*2025-07-28 10:46:58* · [`adalk`](https://www.ada.lk/breaking_news/නොරොච්චෝලෙට-අවශ්‍ය-තරම්-ගල්-අඟුරු-තිබෙනවා/11-417547) · `si`
+
+මේ වන විට නොරොච්චෝලේ ගල් අඟුරු බලාගාරයට අවශ්‍ය 2025/26 ගල් අඟුරු වාරය සම්බන්ධයෙන් විවිධ අසත්‍ය හා නොමග යවන සුළු පුවත් විවිධ මාධ්‍යවල පළවන බව නිරීක්ෂණය වී ඇතැයි ලංකා ගල්අඟුරු සමාගම නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+නොරොච්චෝල ගල් අඟුරු බලාගාරය සඳහා 2025 සැප්තැම්බර් මස අවසානය දක්වා අවශ්‍ය ගල් අඟුරු තොග ප්‍රමාණවත් ලෙස තිබෙන බවත් වර්තමාන සැපයුම් කොන්ත්‍රාත්තුව යටතේ තවත් ගල් අඟුරු මෙට්‍රික් ටොන් 840,000 ක් සැප්තැම්බර් මස සිට දෙසැම්බර් මස මුල දක්වා සැපයීමට නියමිත බවද සමාගම නිවේදනය කරයි.
+
+එසේම ඉදිරි වසර සඳහා අවශ්‍ය ගල් අඟුරු සැපයුම් සඳහා වන ප්‍රසම්පාදන කටයුතු මේ වන විට ආරම්භ කර ඇති බවද සමාගම පවසයි.
+
+සෑම වසරකම පවතින නිරිතදිග මෝසම් වර්ෂාව හේතුවෙන් ගල් අඟුරු සැපයුම සාමාන්‍යයෙන් සැප්තැම්බර් සිට ඊළඟ වසරේ අප්‍රේල් තෙක් පමණක් සිදු වන බවත් එම නිසා, ඉදිරි ගල් අඟුරු වාරය සඳහා ගල් අඟුරු සැපයුම සම්බන්ධයෙන් කිසිඳු අවදානමක් මේ වන විට නොපවතින බව වගකීමෙන් සහ පැහැදිලිව ප්‍රකාශ කර සිටින බවත් සමාගම නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/b3840d1f.json)
 
 ---
 
@@ -1771,39 +1807,5 @@ Notably, among the diplomats who presented their credentials was the newly appoi
 ...
 
 [Data](articles/6b30f277.json)
-
----
-
-### Sri Lanka’s globalisation and its policy challenges, according to Dr. Sarath Rajapatirana
-
-*2025-07-28 01:38:02* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-globalisation-and-its-policy-challenges-according-to-Dr-Sarath-Rajapatirana/4-779532) · `en`
-
-Sri Lanka had been a beneficiary of the waves of globalisation that had struck it for thousands of years. It had been open to trade, investment, transfer of knowledge, and factor mobility without hindrance. The country’s chronicle, Mahavamsa, talks about an incident that had happened in the 6th century BCE showing that the country had been visited by foreign ships laden with rice and other goods. According to the story, when Prince Vijaya landed in Thambapanni, the local princess Kuveni had hosted him and his retinue numbering 600 to a meal of rice and an assortment of gifts. According to Mahavamsa, rice for the meal and items for gifts had been procured from merchant ships that had been wreaked in the nearby seas.1
-
-...
-
-[Data](articles/a9bba196.json)
-
----
-
-### Navigating crisis
-
-*2025-07-28 01:34:31* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-crisis/4-779531) · `en`
-
-always on the side of the ablest navigators” – Edward Gibbon
-
-At a recent book launch organised by Advocata Institute, former President Ranil Wickremesinghe made a startling statement. A substantial section of the cognoscente on economics in our land perceives him as our preeminent strategic thinker.
-
-Commenting on US tariffs he said, “US is a member of the OCC. And the US has signed on to the EFF and their time limits which means they must help us now… Otherwise they are in breach of the agreement.”
-
-“They are preventing us from repaying bondholders, the former President pointed out adding, “And now we must tell the IMF…tell the bondholders to go to the US and collect the money.”
-
-He hoped the current administration will succeed in getting the Trump tariff down as Sri Lanka “cannot survive with 30%”.
-
-The gathering he addressed had many outstanding people in the field of finance and commerce.
-
-...
-
-[Data](articles/7dc594a3.json)
 
 ---

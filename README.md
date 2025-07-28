@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 14:55:25**
+As of **2025-07-28 15:11:25**
 
 ## Newspaper Stats
 
-*Scraped **67,237** Articles*
+*Scraped **67,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,452
 adaderanalk | 8,267
-tamilmirrorlk | 9,730
+tamilmirrorlk | 9,733
 virakesarilk | 11,207
-adaderanasinhalalk | 11,553
+adaderanasinhalalk | 11,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,237 articles have been extended.
+61,973 (92.2%) of 67,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### பதில் அமைச்சர்கள் நியமனம்
+
+*2025-07-28 14:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-அமைச்சர்கள்-நியமனம்/175-361905) · `ta`
+
+ஜனாதிபதி அனுர குமார திசாநாயக்க, மாலைதீவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ளதன் காரணமாக, 04 அமைச்சுகளுக்கு பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
+
+ஜனாதிபதியின் கீழ் உள்ள டிஜிட்டல் பொருளாதார அமைச்சு, பாதுகாப்பு அமைச்சு மற்றும் நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சு ஆகிய அமைச்சுகளுக்கும், அமைச்சர் விஜித ஹேரத்தின் கீழ் உள்ள வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சிற்கும் பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
+
+அதன்படி, நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி பதில் அமைச்சராக, தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் அனில் ஜயந்த பெர்னாண்டோ, டிஜிட்டல் பொருளாதார பதில் அமைச்சராக, டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன, பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகர பாதுகாப்பு பதில் அமைச்சராகவும், வெளிநாட்டலுவல்கள் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமசந்திர, வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை பதில் அமைச்சராகவும் நியமிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c1c78ab2.json)
+
+---
+
+### அலுமாரியில் ஆயுதங்கள்: பெண் கைது
+
+*2025-07-28 14:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அலுமாரியில்-ஆயுதங்கள்-பெண்-கைது/76-361904) · `ta`
+
+ஒரு வீட்டில் அலுமாரியில் மறைத்து வைக்கப்பட்டிருந்த ரிவால்வர், ஒரு கைத்துப்பாக்கி, வெடிமருந்துகள் மற்றும் இரண்டு கத்திகளை வைத்திருந்ததாக சந்தேகத்தின் பேரில் ஒரு பெண் கடந்த 27 ஆம் திகதி கைது செய்யப்பட்டதாக பண்டாரவளை பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸாருக்குக் கிடைத்த ரகசிய தகவலின் பேரில் வீட்டை சோதனை செய்தபோது, வீட்டில் உள்ள அலுமாரியில் மறைத்து வைக்கப்பட்டிருந்த ஒரு பொதியில் இந்தப் பொருட்கள் இருந்ததாகக் பொலிஸார் தெரிவித்தனர்.
+
+ஒரு ரிவால்வர், 28   வெடிமருந்துகள் மற்றும் ரிவால்வருக்குப் பயன்படுத்தப்படும் 5 வெற்று குண்டுகள், 20 மிமீ பிஸ்டல், ஒரு மகசின் மற்றும் 2 உயிருள்ள வெடிமருந்துகள், ஒரு பிஸ்டல் கேஸ் மற்றும் 2 கத்திகள் ஆகியவை கண்டுபிடிக்கப்பட்டன.
+
+இது தொடர்பாக சந்தேகத்தின் பேரில் வீட்டில் இருந்த பெண் கைது செய்யப்பட்டார், விசாரித்தபோது, தனது கணவர் வெளிநாட்டில் இருப்பதாக அவர் கூறியதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0515eeed.json)
+
+---
+
+### තනතුරු කිහිපයකට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය
+
+*2025-07-28 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212729) · `si`
+
+නව තානාපතිවරුන් පස් දෙනෙකු,  මහ කොමසාරිස්වරයෙක් සහ අමාත්‍යාංශ ලේකම්වරියක් පත්කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය හිමිව තිබේ.
+
+පසුගිය 24 වන දින පාර්ලිමේන්තුවේදී රැස් වූ උසස් නිලතල පිළිබඳ කාරක සභාවේදී මෙම අනුමැතිය හිමිව ඇත.
+
+ඒ අනුව ඉන්දුනීසියාවේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සුමදුරිකා ශෂිකලා ප්‍රේමවර්ධන මෙනවියගේ  නම  උසස් නිලතල පිළිබඳ කාරක සභාව විසින්  අනුමත කර තිබේ.
+
+එමෙන්ම  බ්‍රසීල ෆෙඩරල් ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සී. ඒ චාමින්දා ඉනෝකා කොලොන්නේ, මාලදිවයින් ජනරජයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා ලෙස මොහොමඩ් රිස්වි හසන්, තුර්කි ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස එල්. ආර්. එම්. එන්. පී. ජී. බී. කදුරුගමුව, නේපාල ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස රුවන්ති දෙල්පිටිය, දකුණු කොරියාවේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස මාරිමුත්තු කේ පද්මනාදන්  යන මහත්ම මහත්මීන්ගේ නම් උසස් නිලතල පිළිබඳ කාරක සභාව විසින් අනුමත කර ඇත.
+
+තවද  අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ ලේකම්වරිය ලෙස ජනාධිපති නීතිඥ අයේෂා  ජිනසේන  මෙනවියගේ නම ද උසස් නිලතල පිළිබඳ කාරක සභාව විසින්  අනුමත කර තිබේ.
+
+...
+
+[Data](articles/82b483e7.json)
+
+---
 
 ### தாறுமாறாக ஓடி விபத்துக்குள்ளான பஸ்: 10 பேர் துடிதுடித்து பலி
 
@@ -50,9 +104,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-28 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212728) · `si`
 
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් සාපරාධී ලෙස රාජකාරිය පැහැර හැරීම ඇතුළු චෝදනා එල්ල වී සිටින හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත් ජයසුන්දර යන මහත්වරුන්ට එරෙහිව ගොනුකර තිබෙන නඩුව  සැප්තැම්බර් 18 වැනිදා යළි කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල නියම කළහ.
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් සාපරාධී ලෙස රාජකාරිය පැහැර හැරීම ඇතුළු චෝදනා එල්ල වී සිටින හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත් ජයසුන්දර යන මහත්වරුන්ට එරෙහිව ගොනුකර තිබෙන නඩුව සැප්තැම්බර් 18 වැනිදා යළි කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල නියම කළහ.
 
-◼️
+මෙම නඩුව අද (28) නාමල් බළල්ලේ සහ මොහොමඩ් ඉර්ෂඩීන් යන මහත්වරුන්ගෙන් සමන්විත මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් දීලිප පීරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුව විභාග කළ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා මේ වන විට අභියාචනාධිකරණයට උසස් වීමක් ලබා තිබීම හේතුවෙන් නව විනිසුරු මඬුල්ලක් පත් කරන ලෙස නව අගවිනිසුරුවරයාගෙන් ඉල්ලීමක් සිදුකිරීමට කටයුතු කරන බව පැවසීය.
+
+ඒ අනුව නව විනිසුරු මඬුල්ලක් පත් කරන තුරු මෙම නඩුව කැඳවීම සඳහා වෙනත් දිනයක් ලබා දෙන ලෙස අතිරේක සොලිසිටර් ජෙනරාල්වරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+...
 
 [Data](articles/7836be1f.json)
 
@@ -343,6 +403,24 @@ Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previ
 ...
 
 [Data](articles/85416437.json)
+
+---
+
+### நல்லூர் வருடாந்த திருவிழா 2025 (கொடிச்சீலை நிகழ்வு)
+
+*2025-07-28 12:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-வருடாந்த-திருவிழா-2025-கொடிச்சீலை-நிகழ்வு/175-361887) · `ta`
+
+வரலாற்று சிறப்பு மிக்க நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்த மகோற்சவம் செவ்வாய்க்கிழமை (29) அன்று கொடியேற்றத்துடன் ஆரம்பமாகவுள்ள நிலையில்,கொடியேற்றத்துக்காக சம்பிரதாயப் பூர்வமாக கொடிச்சீலை எடுத்து வரும் நிகழ்வு திங்கட்கிழமை (28) அன்று நடைபெற்றது.
+
+செங்குந்தர் பரம்பரையினரால் நல்லூர் ஆலயக் கொடியேற்றத்திற்கான கொடிச்சீலை சம்பிரதாயப் பூர்வமாக ஆலயத்தில் ஒப்படைக்கப்படுவது பாரம்பரிய வழக்கமாகும்.
+
+அதன் படி யாழ் சட்டநாதர் சிவன் ஆலயத்திற்கு அருகில் உள்ள வேல் மடம் முருகன் ஆலயத்தில் இன்றைய தினம் திங்கட்கிழமை நடைபெற்ற விஷேட பூஜை வழிபாடுகளை தொடர்ந்து அங்கிருந்து சிறிய தேர் ஒன்றில் கொடிச்சீலை பருத்தித்துறை வீதி ஊடக எடுத்து செல்லப்பட்டு நல்லூர் கந்தசுவாமி ஆலயத்தினை வந்தடைந்து. கொடிச்சீலை நல்லூர் ஆலய பிரதம குருக்களிடம் கையளிக்கப்பட்டது.
+
+நல்லூர் ஆலய மகோற்சவ கொடியேற்றம் நாளைய தினம் செவ்வாய்க்கிழமை காலை 10 மணிக்கு கொடியேற்றத்துடன் ஆரம்பமாகி தொடர்ந்து 25 நாட்களுக்கு மகோற்சவ திருவிழாக்கள் இடம்பெறும்.
+
+...
+
+[Data](articles/ac9ca675.json)
 
 ---
 
@@ -1733,69 +1811,5 @@ Senior Additional Secretary to the President Roshan Gamage, British High Commiss
 ◼️
 
 [Data](articles/6ebe8384.json)
-
----
-
-### President prioritises protection of wild elephants, daily lives of rural community
-
-*2025-07-28 04:16:56* · [`dailyftlk`](https://www.ft.lk/news/President-prioritises-protection-of-wild-elephants-daily-lives-of-rural-community/56-779561) · `en`
-
-President Anura Kumara Disanayake on last week held a crucial discussion with relevant Ministers and Officials regarding the protection of wild elephants and safeguarding daily lives of rural community.
-
-During the meeting, the President inquired into the current situation regarding the increasing harassment incidents involving wild elephants and their disruptive impact on the daily lives of rural populations.
-
-Officials briefed the President on the prevailing situation and the longstanding difficulties faced by relevant institutions in addressing this issue effectively.
-
-President Disanayake emphasised that under no circumstances should wild elephants be subjected to harm or harassment and stressed the importance of identifying short-term, medium-term and long-term solutions. The President directed officials to conduct in-depth assessments at the village level and noted that effective solutions need to be provided with the support of both political leadership and the public.
-
-...
-
-[Data](articles/bd66bf0b.json)
-
----
-
-### Prime Minister calls for deep educational reform beyond textbooks
-
-*2025-07-28 04:15:59* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-calls-for-deep-educational-reform-beyond-textbooks/56-779560) · `en`
-
-PRIME Minister and Education Minister Dr. Harini Amarasuriya on Saturday insisted that genuine educational reform in Sri Lanka must go beyond new textbooks, calling instead for a systemic transformation of the country’s outdated and exam-centric system.
-
-Speaking at a panel discussion titled ‘For a Prosperous Nation – Let’s Unite as Women,’ organised by the Ratnapura District Women’s Collective of the National People’s Power (NPP), the Prime Minister underscored the deep-rooted challenges facing the education sector. The event, held at the Ratnapura Town Hall, brought together political leaders and grassroots activists to discuss the role of women in shaping national policy.
-
-Highlighting the current pressure on students, parents, and teachers caused by Sri Lanka’s rigid examination structure, Dr. Amarasuriya said the proposed reforms would aim to ease this burden and address the broader societal consequences of the system’s competitiveness.
-
-...
-
-[Data](articles/621753a4.json)
-
----
-
-### Embassy advances trade collaboration: Maliban and CP Group hold follow-up business meeting in Bangkok
-
-*2025-07-28 04:11:38* · [`dailyftlk`](https://www.ft.lk/business/Embassy-advances-trade-collaboration-Maliban-and-CP-Group-hold-follow-up-business-meeting-in-Bangkok/34-779559) · `en`
-
-The Embassy of Sri Lanka in Thailand successfully facilitated a high-level business meeting between Maliban Biscuit Manufactories Ltd., Sri Lanka and Charoen Pokphand Foods Public Company  Ltd., (CPF), a core subsidiary of Thailand’s CP Group, on 22 July in Bangkok.
-
-This in-person meeting follows an initial virtual engagement between the two companies, coordinated by the Embassy, aimed at introducing Maliban’s product portfolio to CPF and initiating dialogue on potential trade collaboration. The latest meeting served to deepen those discussions and assess tangible business opportunities within the Thai market.
-
-The objective of the session was to present Maliban’s extensive product range and explore possibilities for export and distribution partnerships with CP Group. This event marked a significant step in strengthening private sector engagement and commercial ties between Sri Lanka and Thailand.
-
-...
-
-[Data](articles/74f5df0b.json)
-
----
-
-### Priyantha Ranasinghe to lead CIPM for another term
-
-*2025-07-28 04:01:15* · [`dailyftlk`](https://www.ft.lk/business/Priyantha-Ranasinghe-to-lead-CIPM-for-another-term/34-779558) · `en`
-
-CIPM Sri Lanka unanimously re-elected outstanding HR professional and business leader Priyantha Ranasinghe as President for the year 2025/26 at its Annual General Meeting held on 26 July at the Waters Edge, Battaramulla, amidst its distinguished membership representing the HR fraternity in Sri Lanka.
-
-Ranasinghe, an exceptional HR professional and dynamic business leader, continues at the helm of CIPM with an unwavering commitment to advancing the standards of human resource management in the country. A seasoned HR professional veteran with over 28 years of multi-sectoral experience, he has held senior HR leadership positions in hospitality, banking and finance, plantations, and food and beverage sectors. His expertise spans not only Sri Lanka but also extends to regional markets such as Indonesia, India, and Malaysia.
-
-...
-
-[Data](articles/ddc6d7c8.json)
 
 ---

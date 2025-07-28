@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 06:53:14**
+As of **2025-07-28 07:38:48**
 
 ## Newspaper Stats
 
-*Scraped **67,143** Articles*
+*Scraped **67,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,434
-adaderanalk | 8,247
-tamilmirrorlk | 9,704
+adaderanalk | 8,249
+tamilmirrorlk | 9,705
 virakesarilk | 11,202
-adaderanasinhalalk | 11,533
+adaderanasinhalalk | 11,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,143 articles have been extended.
+61,973 (92.3%) of 67,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### தீப்பந்தப் போராட்டம்
+
+*2025-07-28 06:37:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பந்தப்-போராட்டம்/175-361862) · `ta`
+
+கறுப்பு ஜூலை நினைவேந்தலையொட்டி யாழ். வடமராட்சி, நெல்லியடி பஸ் நிலையம் முன்பாகத் தீப்பந்தப் போராட்டம் நடைபெற்றது.
+
+நேற்று (27) இரவு 7 மணியளவில் இலங்கைத் தமிழரசுக் கட்சியின் ஏற்பாட்டில் இந்தப் போராட்டம் முன்னெடுக்கப்பட்டது.
+
+இதில் தமிழரசுக் கட்சியின் பொதுச்செயலாளர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ சுமந்திரன் தலைமையில் உள்ளூராட்சி சபைகளின் தவிசாளர்கள், உறுப்பினர்கள், கட்சியின் உறுப்பினர்கள் எனப் பலரும் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/9e54cef6.json)
+
+---
+
+### අමෙරිකාව සහ යුරෝපා සංගමය අතර නව වෙළෙඳ ගිවිසුමක්
+
+*2025-07-28 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212708) · `si`
+
+අමෙරිකා එක්සත් ජනපදය සහ යුරෝපා සංගමය වෙළෙඳ ගිවිසුමකට එළඹ තිබේ.
+
+ස්කොට්ලන්තයේ පැවති යුරෝපා සංගම් ප්‍රධානියා සහ ජනාධිපති ට්‍රම්ප් අතර පැවති හමුවකින් පසුව මෙලෙස ගිවිසුමකට එළඹ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ඒ අනුව, නව ගිවිසුම යටතේ, අගෝස්තු 1 වනදා සිට බොහෝ භාණ්ඩ සඳහා මීට පෙර යෝජනා කරන ලද 30% අනුපාතය ප්‍රතිස්ථාපනය කරමින්, එක්සත් ජනපදයට කරන සියලුම යුරෝපා සංගම් අපනයන සඳහා 15% ක ස්ථාවර තීරුබදු පනවනු ලබන බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/edd82e55.json)
+
+---
+
+### Several spells of light showers expected today
+
+*2025-07-28 06:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110892/several-spells-of-light-showers-expected-today) · `en`
+
+Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts, the Department of Meteorology said.
+
+Fairly strong winds of about 40 kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Hambantota district, the Met. Department added.
+
+◼️
+
+[Data](articles/9cc22480.json)
+
+---
 
 ### අද වැසි වාර කිහිපයක්
 
@@ -38,9 +84,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවේ.
 
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
 ◼️
 
 [Data](articles/2c66de36.json)
+
+---
+
+### EU and US agree trade deal, with 15% tariffs for European exports to America
+
+*2025-07-28 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110891/eu-and-us-agree-trade-deal-with-15-tariffs-for-european-exports-to-america) · `en`
+
+EU and US agree trade deal, with 15% tariffs for European exports to America
+
+The United States and European Union have reached a trade deal framework, ending a months-long standoff between two of the world’s biggest economic partners.
+
+After make-or-break negotiations between President Donald Trump and European Commission President Ursula Von der Leyen in Scotland, the pair agreed a US tariff on all EU goods of 15%.
+
+That is half the 30% import tax rate Trump had threatened to implement starting on Friday. He said the 27-member bloc would open its markets to US exporters with zero per cent tariffs on certain products.
+
+Von der Leyen also hailed the deal, saying it would bring stability for both allies, who together account for almost a third of global trade.
+
+Trump has wielded tariffs against major US trade partners in a bid to reorder the global economy and trim the American trade deficit.
+
+...
+
+[Data](articles/b80ca35f.json)
 
 ---
 
@@ -1685,81 +1755,5 @@ The Archbishop therefore reiterated the importance of safeguarding the tradition
 ...
 
 [Data](articles/19a700a6.json)
-
----
-
-### Air India releases compensation to 166 families of AI171 crash
-
-*2025-07-27 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/110878/air-india-releases-compensation-to-166-families-of-ai171-crash) · `en`
-
-Air India has announced that it has paid insurance relief compensation to the families of 166 victims of the Ahmedabad plane crash last month. Besides, payment to the families of another 52 victims is in the process, it added.
-
-The plane crash, one of the worst air disasters in India in decades, involved a Boeing 787-8 Dreamliner operating as Air India flight AI171.
-
-Out of the 242 people onboard, 241 were killed, while the total death toll stood at 260, including casualties on the ground.
-
-On June 14, Air India announced that it will provide an interim compensation of Rs. 2.5 million, to the families of each of the deceased and survivors of the Ahmedabad plane crash to help address immediate financial needs.
-
-Air India’s compensation status to families of AI171 crash victims ‘
-
-Air India has released the interim compensation to the families of 147 of the 229 deceased passengers and also the 19 who lost their lives at the accident site,’ the Tata-Group airline said in the statement today.
-
-...
-
-[Data](articles/007f49de.json)
-
----
-
-### கூட்ட நெரிசலில் சிக்கி  6 பேர் மரணம்
-
-*2025-07-27 13:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்ட-நெரிசலில்-சிக்கி-6-பேர்-மரணம்/175-361825) · `ta`
-
-உத்தரகண்ட் மாநிலம் ஹரித்வாரில் மானசா தேவி கோவிலில் ஏற்பட்ட கூட்ட நெரிசலில் சிக்கி 6 பேர் உயிரிழந்தனர். மேலும் 25க்கும் மேற்பட்டோர் காயம் அடைந்துள்ளனர்.
-
-உத்தரகண்ட் மாநிலம் ஹரித்வாரில் மானசா தேவி கோவில் அமைந்துள்ளது. இந்த கோவிலில் ஞாயிற்றுக்கிழமை (27) அன்று சுவாமி தரிசனம் செய்ய ஏராளமானோர் கூடியுள்ளனர். அப்போது திடீரனெ கூட்ட நெரிசல் ஏற்பட்டுள்ளது. சம்பவ இடத்திற்கு விரைந்த மீட்பு படையினர் நீண்ட நேரம் போராடி மீட்பு பணி மேற்கொண்டுள்ளனர்.
-
-இந்த துயர சம்பவத்தில் 6 பேர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளனர்.  மேலும் 25க்கும் மேற்பட்டோர் பலத்த காயம் அடைந்துள்ளனர். இவர்கள் சிகிச்சைக்காக மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். இதில் சிலரது நிலைமை கவலைக்கிடமாக உள்ளது.
-
-◼️
-
-[Data](articles/ac722ff9.json)
-
----
-
-### වනජීවින් වනසන කිසිවෙකුට නීතියෙ සහනයක් දෙන්නේ නෑ
-
-*2025-07-27 13:55:56* · [`adalk`](https://www.ada.lk/breaking_news/වනජීවින්-වනසන-කිසිවෙකුට-නීතියෙ-සහනයක්-දෙන්නේ-නෑ/11-417526) · `si`
-
-සංරක්ෂණය කල යුතු වනජීවින් කිසිම විටත වනසන්නන්ට හා අනුබල දෙන්නන්ට කිසිම අවස්ථාවක නීතියෙන් ගැලවි යාමට හෝ නීතියෙන් සහනයක් ලබා දීමට ඉඩ ලබා නොදෙන බව වනජීවි  වන සම්පත්  හා පරිසර අමාත්‍ය වෛද්‍ය ධම්මික පටබැදිගේ මහතා පැවසිය.
-
-ඇමතිවරයා මේ බව පවසා සිටියෙ ජාත්‍යන්තර කඩොලාන දිනය නිමිති කරගනිමින් පුත්තලම දිස්ත්‍රික්කයෙ කඩොලාන වනාන්තර 8 ක් රක්ෂීත ලෙස නම් කිරීමේ අවස්ථාවට එක්වෙමිනි.
-
-එහිදි  ඇමතිවරයා පවසා සිටියෙ පසුගිය දිනක මකුළුගස්වැව පොලිසියෙ නිළධාරීන් දෙදෙනෙකු ඇතුළු තවත් පිරිසක් එක්වි මුවකු මරා දැමිමේ සිද්දිය සම්බන්ධව අදහස් දක්වමිනි.
-
-මෙහිදි ඇමතිවරයා පවසා සිටියෙ අදාල සිද්දියෙදී ජනතාව දැක්වු සහයෝගය හා කැපවිම ඉතාමත් විශිෂ්ඨ මට්ටමක තිබු බවයි.ඒ නිසාම ජනතාව ස්වේච්ජාවෙන් වන ජීවින් ආරක්ෂා කිරීමට එක්විම අගය කල යුතු බවත් එවැනි ජනතාව වෙනුවෙන් තම අමාත්‍යංශය හිස නමා ආචාර කරනු බවය.
-
-එසේම මේ සම්බන්ධව ක්‍රියාත්මක වන පරිසරවේදින් ඇතුළු සියලු දෙනාටම ආයාචනය කරනවා රැක ගත යුතු වනජීවින් ආරක්ෂා කර ගැනිමට පෙළ ගැසෙන්න කියලා යැයි පැවසිය.
-
-...
-
-[Data](articles/6bc25620.json)
-
----
-
-### කතරගම වැඩසිටිකන්ද පුදබිමේ ආරක්ෂාව සම්බන්ධයෙන් පළවූ පුවතට පොලීසියෙන් ප්‍රතිචාර
-
-*2025-07-27 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212690) · `si`
-
-කතරගම ඓතිහාසික වැඩසිටිකන්ද පුදබිමේ ආරක්ෂාව සඳහා ස්ථාපිත කර තිබූ පොලිස් මුරපොලෙහි රාජකාරි සඳහා පත් කර සිටි නිලධාරීන් ඉවත් කර ඇති බවට එම පුදබිමේ විහාරාධිපති හිමියන් ජනාධිපතිවරයා වෙත යොමු කරන ලද ලිපියක් සමාජ මාධ්‍යයේ හුවමාරු වීම සම්බන්ධව පොලීසිය කරුණු පැහැදිළි කිරීමක් සිදුකර තිබේ.
-
-පොලීසිය විසින් නිවේදනයක් නිකුත් කරමින් මේ සම්බන්ධව සඳහන් කර ඇත්තේ එම පුවතෙහි කිසිදු සත්‍යතාවයක් නොමැති බවය.
-
-ඒ අනුව, වැඩසිටිකන්ද පුදබිමෙහි ආරක්ෂාව සඳහා ප්‍රමාණවත් පොලිස් හා යුධ හමුදා නිලධාරීන් පිරිසක් යොදවා ඇති බවත් පොලීසිය විසින් නිකුත් කළ නිවේදනයේ සඳහන්ව තිබේ.
-
-එමෙන්ම අදාළ විහාරස්ථානයේ ආරක්ෂාව තහවුරු කර ඇති බවත් පුද්ගලානුබද්ධ ආරක්ෂාව නොව ස්ථානයේ හා බැතිමතුන්ගේ ආරක්ෂාව තහවුරු කිරිමට පොලීසිය පියවර ගෙන ඇති බවත් එම නිවේදනයේ සදහන්ව ඇත.
-
-...
-
-[Data](articles/c7ea9b08.json)
 
 ---

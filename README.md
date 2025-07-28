@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 21:33:25**
+As of **2025-07-28 21:49:45**
 
 ## Newspaper Stats
 
-*Scraped **67,323** Articles*
+*Scraped **67,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,464
-adaderanalk | 8,285
+adalk | 6,465
+adaderanalk | 8,287
 tamilmirrorlk | 9,749
 virakesarilk | 11,223
 adaderanasinhalalk | 11,571
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.1%) of 67,323 articles have been extended.
+61,973 (92.0%) of 67,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fa535e3f.json)
+
+---
+
+### Fire breaks out at factory in Gampola
+
+*2025-07-28 20:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/110934/fire-breaks-out-at-factory-in-gampola) · `en`
+
+A fire has broken out at a factory located on the Kandy-Nawalapitiya road in Gampola, police said.
+
+According to the Kandy Fire Service Department, a fire engine and a water tanker have been dispatched to the scene to bring the blaze under control.
+
+◼️
+
+[Data](articles/2f31a0a4.json)
 
 ---
 
@@ -147,6 +161,26 @@ Trump, who is holding meetings in Scotland, said earlier on Monday that he was g
 ◼️
 
 [Data](articles/3ce128f6.json)
+
+---
+
+### Trump sets deadline of 10 or 12 days for Russia on war with Ukraine
+
+*2025-07-28 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110932/trump-sets-deadline-of-10-or-12-days-for-russia-on-war-with-ukraine) · `en`
+
+U.S. President Donald Trump set a new deadline of 10 or 12 days for Russia to make progress toward ending the war in Ukraine or face consequences, underscoring frustration with Russian President Vladimir Putin for the 3-1/2-year-old conflict.
+
+Trump has threatened both sanctions on Russia and buyers of its exports unless progress is made.
+
+Speaking in Scotland, where he is holding meetings with European leaders and playing golf, Trump said he was disappointed in Putin and shortening a 50-day deadline he had set on the issue earlier this month.
+
+“I’m going to make a new deadline of about ... 10 or 12 days from today,” Trump told reporters during a meeting with British Prime Minister Keir Starmer.
+
+“There’s no reason in waiting... We just don’t see any progress being made.”
+
+...
+
+[Data](articles/6ba8b898.json)
 
 ---
 
@@ -581,6 +615,26 @@ On June 30, a 22-year-old youth died in the shooting while another 27-year-old p
 ◼️
 
 [Data](articles/e52f0d11.json)
+
+---
+
+### ධාර්මිෂ්ඨ සමාජය හදන්න ආපු පක්ෂය අධාර්මිෂ්ඨම රාජ්‍යය බිහි කළා
+
+*2025-07-28 17:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ධාර්මිෂ්ඨ-සමාජය-හදන්න-ආපු-පක්ෂය-අධාර්මිෂ්ඨම-රාජ්‍යය-බිහි-කළා/11-417563) · `si`
+
+ආගමික චින්තන විප්ලවයක් ඇති නොකර දේශපාලන අරගල කිරීමෙන් පමණක් රටේ තත්ත්වය වෙනස් කළ නොහැකි යැයි කොළඹ අගරදගුරු රංජිත් මැල්කම් කාදිනල් හිමිපාණෝ සඳහන් කළහ .
+
+උන්වහන්සේ මෙසේ පැවසුවේ දිවුලපිටිය මරදගහමුල සාන්ත සෙබස්තියන් දෙව් මැදුර ප්‍රතිසංස්කරණය කර ආසිරි ගැන්වීමේ උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගි වෙමින් පැවැති දේව මෙහෙයේදීය.
+
+මීසම් සේවක ෆිලික්ස් ශාන්ත පියතුමාගේ උපදෙස් සහ මග පෙන්වීම යටතේ මෙම පිරිසකර කිරීම සිදුකරනු ලැබ ඇත.
+
+"මීට දශක පහකට පමණ පෙර එක්තරා දේශපාලන පක්ෂයක් ධර්මිෂ්ඨ රාජ්‍යයක් බිහි කරනවා යනුවෙන් ප්‍රකාශ කර ඉතිහාසයේ තිබුණු අධර්මිෂ්ඨම රාජ්‍ය බිහිකළා කියලයි මම හිතන්නේ. ඔවුන්ගේ පාලන ක්‍රමය තුළදී නීතිය අවනීතිය බවට පත්වුණා. රටේ සාමය නැති වුණා. මට මහා යුද්ධයක පැටලුණා. ධර්මිෂ්ඨකම, යහපත්කම  දේශපාලන පක්ෂයකට හදන්න බැහැ. ආගමික චින්තන විප්ලවයක් ඇති නොකර දේශපාලන අරගල කිරීමෙන් රටේ තත්ත්වය වෙනස් කරන්න බැහැ.
+
+දැන් පවතින නායකත්වය රට පිරිසිදු කරමු කියලා clean Sri Lanka කියලා වැඩපිළිවෙළක් ගෙනියනවා. නමුත් බාහිර පිරිසිදුකන් සිදුවුණත් මනුෂ්‍යයාගේ අභ්‍යන්තරය පිරිසිදුකම සකස් කරන්න බැහැ.
+
+...
+
+[Data](articles/3c449478.json)
 
 ---
 
@@ -1757,45 +1811,5 @@ Four security guards were killed and one other person wounded in a mass shooting
 ◼️
 
 [Data](articles/8cee2530.json)
-
----
-
-### திருமணம் செய்யாமலே கர்ப்பமான நடிகை
-
-*2025-07-28 12:30:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/திருமணம்-செய்யாமலே-கர்ப்பமான-நடிகை/54-361891) · `ta`
-
-கன்னட சினிமாவில் முன்னணி நாயகியாக இருந்தவர் பாவனா ராமண்ணா. தமிழில் அன்புள்ள காதலுக்கு, நட்சத்திர காதல், ஆஹா எத்தனை அழகு உள்ளிட்ட சில படங்களில் நடித்துள்ளார். 40 வயதான பாவனா இதுவரை திருமணம் செய்யவில்லை. ஆனால் தற்போது கர்ப்பமாக இருக்கிறார்.
-
-இது குறித்து அவர் கூறியிருப்பதாவது: 40 வயதை நெருங்கியபோது, குழந்தை பெற்றுக் கொள்ள வேண்டும் என்ற ஆசை தீவிரம் அடைந்தது. தற்போது நான் கர்ப்பமாக இருக்கிறேன். தனியொரு பெண்ணாக நான் எடுத்த இந்த முடிவு சாதாரணமாக நடக்கவில்லை. செயற்கை கருத்தரிப்பு முறையில் குழந்தை பெற்றுக் கொள்ள பல மருத்துவமனைகளை அணுகினேன். திருமணமாகாத பெண் என்ற ஒரே காரணத்தை சொல்லி அனைவரும் என்னை நிராகரித்தனர். எனது விருப்பத்துக்கு தடை போட்டனர். தற்போது தடைகளை தாண்டி இரட்டை குழந்தைகளுக்கு அம்மா ஆகப்போகிறேன். என்கிறார் பாவனா.
-
-◼️
-
-[Data](articles/eec17218.json)
-
----
-
-### President appoints new Chief Secretary for Uva Province
-
-*2025-07-28 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110909/president-appoints-new-chief-secretary-for-uva-province) · `en`
-
-President Anura Kumara Dissanayake has appointed P.A.G. Fernando as the Chief Secretary of Uva Province, effective immediately, the President’s Media Division stated.
-
-The letter of appointment was officially handed over to her by the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat this morning (28).
-
-Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previously served as the Secretary to the Ministry of Education Cultural & Arts, Sports & Youth Affairs & Information Technology Western Province, the PMD added.
-
-◼️
-
-[Data](articles/416b1d08.json)
-
----
-
-### ​என்னாத்த சொல்ல...
-
-*2025-07-28 12:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னாத்த-சொல்ல/62-361890) · `ta`
-
-◼️
-
-[Data](articles/86f2b24e.json)
 
 ---

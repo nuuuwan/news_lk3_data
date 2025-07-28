@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 23:50:41**
+As of **2025-07-29 00:08:00**
 
 ## Newspaper Stats
 
-*Scraped **67,337** Articles*
+*Scraped **67,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,465
-adaderanalk | 8,287
+adaderanalk | 8,289
 tamilmirrorlk | 9,750
-virakesarilk | 11,227
+virakesarilk | 11,231
 adaderanasinhalalk | 11,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,337 articles have been extended.
+61,973 (92.0%) of 67,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட வெலிகம சஹான், கட்டுநாயக்கவில் கைது
+
+*2025-07-28 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221228) · `ta`
+
+கட்டமைக்கப்பட்ட குற்றவாளியான சஹான் சிசி கெலும் அல்லது வெலிகம சஹான், கட்டுநாயக்கவில் உள்ள பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட அவர், திங்கட்கிழமை (28) மதியம் விமான நிலைய குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+
+பாணந்துறை மற்றும் களுத்துறை பகுதியில் நடந்த இரண்டு துப்பாக்கிச் சூடு சம்பவங்களிலும், மட்டக்குளியவில் பட்டேயா சுரங்காவின் துப்பாக்கிச் சூட்டிலும் இந்த வெலிகம சஹான் முக்கிய சந்தேக நபர் என்றும், அவர் ஒரு கூலி கொலையாளி என்றும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/fa1c671b.json)
+
+---
+
+### கம்பளை - நாவலப்பிட்டி சாலையில் குடை தொழிற்சாலையில் தீ விபத்து
+
+*2025-07-28 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/221227) · `ta`
+
+கம்பளை - நாவலப்பிட்டி சாலையில் மருத்துவமனைக்கு அருகில் அமைந்துள்ள ஒரு குடை தொழிற்சாலையில் திங்கட்கிழமை (28) இரவு தீ விபத்து ஏற்பட்டது.
+
+திங்கட்கிழமை (28) மாலை 7 மணியளவில் தொழிற்சாலையின் கிடங்கில் இருந்து திடீரென தீ விபத்து ஏற்பட்டதாக தொழிற்சாலையின் பாதுகாப்புப் படையினர் பொலிசாரிடம் தெரிவித்துள்ளனர்.
+
+தீ பரவியதைத் தொடர்ந்து, அருகிலுள்ள கம்பளை போதனா மருத்துவமனையின் மருத்துவ குடியிருப்புகளுக்கும் தீ பரவி, இரண்டு மருத்துவ குடியிருப்புகளை எரித்தனர்.
+
+தீயை அணைக்க கண்டி தீயணைப்புத் துறையின் இரண்டு தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டதாக கண்டி தீயணைப்புத் துறை தெரிவித்துள்ளது.
+
+அதே நேரத்தில், கம்பளை நகர சபை மற்றும் இராணுவத்தின் தண்ணீர் பவுசர் வந்து தீயை அணைக்க கடுமையாக போராடி வருவதாக கூறப்படுகிறது.
+
+இதற்கிடையில், தீ அவர்களுக்கு பரவாமல் தடுக்க மருத்துவ குடியிருப்புகளின் கூரை மற்றும் சுவர்களை அகற்ற நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+தற்போது கண்டி தீயணைப்புத் துறை, இராணுவம், கம்பளை நகரசபை, கம்பளை காவல்துறை மற்றும் உள்ளூர்வாசிகள் தீயை அணைக்கும் முயற்சிகளை மேற்கொண்டு வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c42a4be7.json)
+
+---
 
 ### ඉන්දියාවෙන් පිටුවහල් කළ වැලිගම සහන් කටුනායකදී අත්අඩංගුවට
 
@@ -47,6 +87,52 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7a3dc2d5.json)
+
+---
+
+### மோட்டார் சைக்கிள் பதிவு சான்றிதழ் மாற்ற இலஞ்சம் கோரி இடைத்தரகர் கைது
+
+*2025-07-28 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221225) · `ta`
+
+மோட்டார் சைக்கிள் ஒன்றின் பதிவு சான்றிதழை மாற்றுவதற்காக 30 ஆயிரம் ரூபா இலஞ்சம் கோரிய  குற்றச்சாட்டில் இடைத்தரகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர் திங்கட்கிழமை (28) முற்பகல் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் நாரஹேன்பிட்டி மோட்டார் வாகன திணைக்களத்துக்கு அருகில் இலஞ்சத்தை பெற்றுக் கொள்ள முயற்சித்த போதே கைது செய்யப்பட்டுள்ளார்.
+
+இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் விசாரணை அதிகாரிகளால் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின் போதே சந்தேகநபர் நேற்று  கைது செய்யப்பட்டுள்ளார். மோட்டார் சைக்கிள் ஒன்றின் தற்காலிக பதிவு சான்றிதழை ஆரம்ப பதிவு சான்றிதழாக மாற்றிக்கொள்வதற்கு மோட்டார் வாகன திணைக்களத்தின் உத்தியோகத்தர் ஒருவருக்கு இலஞ்சம் வழங்க வேண்டும் எனத்தெரிவித்து குறித்த சந்தேக நபர் 30 ஆயிரம் ரூபா இலஞ்சம் கோரியுள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/f028dc7e.json)
+
+---
+
+### Former Senior DIG Priyantha Jayakody arrested by CID
+
+*2025-07-28 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110936/former-senior-dig-priyantha-jayakody-arrested-by-cid) · `en`
+
+Former Senior DIG Priyantha Jayakody has been arrested by the Criminal Investigation Department (CID).
+
+He has reportedly been arrested in connection with an incident of allegedly lodging a false complaint claiming that he has received death threats from notorious underworld figure Koralagamage Mandinu Padmasiri, alias ‘Kehelbaddara Padme’.
+
+The arrested former Senior DIG is currently receiving treatment at the Ragama Hospital, under the custody of the CID, due to an illness.
+
+◼️
+
+[Data](articles/9a03554d.json)
+
+---
+
+### முன்னாள் டிஐஜி பிரியந்த ஜெயக்கொடி சிஐடியினரால் கைது செய்யப்பட்டார்
+
+*2025-07-28 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221224) · `ta`
+
+கெஹெல் பத்தர பத்மே என்ற ஒரு ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் தலைவர் தனக்கு கொலை மிரட்டல் விடுக்கப்பட்டதாகக் கூறி குற்றப் புலனாய்வுத் துறையில் பொய்யான புகாரை அளித்த சம்பவம் தொடர்பாக இது நிகழ்ந்துள்ளது.
+
+முன்னாள் டிஐஜி பிரியந்த ஜெயக்கொடி தற்போது உடல்நலக் குறைவு காரணமாக ராகம போதனா மருத்துவமனையில் குற்றப் புலனாய்வுத் துறை அதிகாரிகளின் காவலில் இருப்பதாக காவல்துறை ஊடகப் பேச்சாளர், உதவி காவல்துறை கண்காணிப்பாளர் எஃப்.யு.வுட்லர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/82926f9b.json)
 
 ---
 
@@ -163,6 +249,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/dab6257c.json)
+
+---
+
+### Sri Lanka is a trusted destination for Maldivian investments – President AKD
+
+*2025-07-28 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110935/sri-lanka-is-a-trusted-destination-for-maldivian-investments-president-akd) · `en`
+
+The President of Sri Lanka, Anura Kumara Dissanayake, currently on his first State Visit to the Maldives, has reiterated the long-standing and cordial relationship between the two island nations, marking a renewed chapter in their bilateral ties.
+
+The visit also commemorates the 60th anniversary of the establishment of formal diplomatic relations between Sri Lanka and the Maldives.
+
+According to a formal statement issued by Ministry of Foreign Affairs in Sri Lanka, President Dissanayake underscored the significance of the occasion and expressed deep appreciation for the warm welcome and hospitality extended by Maldivian President Mohamed Muizzu and his government.
+
+President Anura Kumara emphasized the historical ties between the two Indian Ocean littoral states, pointing to their shared histories and association with ancient maritime trade routes.
+
+...
+
+[Data](articles/bf8b0eda.json)
 
 ---
 
@@ -1705,119 +1809,5 @@ ECONOMYNEXT – The United States has funded a five-day training programme for S
 ...
 
 [Data](articles/7836be1f.json)
-
----
-
-### Russia’s Aeroflot cancels dozens of flights after information failure
-
-*2025-07-28 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110916/russias-aeroflot-cancels-dozens-of-flights-after-information-failure) · `en`
-
-Russian airline Aeroflot cancelled dozens of flights on Monday after what it called a failure in its information systems.
-
-The national carrier did not provide further details about the cause of the problem or how long it would take to resolve.
-
-Since Russia launched the war in Ukraine in February 2022, travellers in Russia have become accustomed to flight disruptions. However, those delays have usually been caused by temporary airport closures after drone attacks.
-
-Aeroflot said that “specialists are currently working to minimize the impact on the flight schedule and to restore normal service operations”.
-
-On Telegram, it listed more than 40 cancelled flights to destinations across Russia, as well as to the Belarusian capital Minsk and the Armenian capital Yerevan.
-
-Aeroflot urged passengers whose flights from Moscow’s Sheremetyevo airport had been cancelled to retrieve their checked-in luggage and leave.
-
-...
-
-[Data](articles/1232ba92.json)
-
----
-
-### மாடியில் இருந்து விழுந்த பாதுகாப்பு அதிகாரி மரணம்
-
-*2025-07-28 14:29:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்த-பாதுகாப்பு-அதிகாரி-மரணம்/175-361902) · `ta`
-
-பாதுகாப்பு அதிகாரி ஒருவர் ஞாயிற்றுக்கிழமை (27) இரவு ஒரு கட்டிடத்தின் மேல் மாடியில் இருந்து விழுந்து உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இரண்டு மாடி கட்டிடத்தின் இரண்டாவது மாடியில் இருந்து பாதுகாப்பு அதிகாரி கீழே விழுந்ததாகவும், கட்டிடத்திற்கு அருகில் கிடந்த அவரது உடல் காலையில் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-பாதிக்கப்பட்ட தர்மசீலன் ரகுராஜ் (34) ஒரு தனியார் பாதுகாப்பு நிறுவனத்தால் பணியமர்த்தப்பட்டிருந்தார். விபத்துக்கான சூழ்நிலைகள் இன்னும் கண்டறியப்படவில்லை என்று பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/b3c53823.json)
-
----
-
-### போதையில் தள்ளாடிய ஐந்து மாணவிகள்
-
-*2025-07-28 13:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-தள்ளாடிய-ஐந்து-மாணவிகள்/175-361898) · `ta`
-
-பிரபல்யமான   பெண்கள் பாடசாலையொன்றில் 9 ஆம் வகுப்பு மாணவிகள் 5 பேர் போதை மாத்திரை பயன்படுத்திய நிலையில்  மருதானை பொலிஸார் மாணவிகளை அழைத்து விசாரணை மேற்கொண்டுள்ளனர்.
-
-இம் மாணவிகளில் இரு மாணவிகளே இந்த போதைப்பொருள் மாத்திரிகைகளை மட்டக்குளிய  பிரதேசத்திற்குச் சென்று அங்கு ஒர் நபரிடம் அடிக்கடி வாங்கி பாடசாலைக்கு கொண்டு வருவதாகவும் விசாரணையின்போது தெரியவந்தது.
-
-மேற்படி மாணவிகள் 2 குளிசைகள் பின்னர் 3 குளிசைகளை பாடசாலையின் கழிவறைக்குச் சென்று இதை அருந்துவது தெரியவருகின்றது.
-
-இது தொடர்பில் பாடசாலையின் அதிபர், மருதானை பொலிஸாருக்கு தொலைபேசி அழைப்பை எடுத்து முறைப்பாடு செய்துள்ளார். பாடசாலைக்கு விரைந்த பொலிஸார் இம் மாணவிகள் 5 பேரையும் அழைத்துச் சென்று விசாரணை நடத்தி வருகின்றனர்.
-
-◼️
-
-[Data](articles/3419f8fd.json)
-
----
-
-### Sri Lanka exports rise 6.85-pct in June 2025, helped by tea, coconut and apparel
-
-*2025-07-28 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-rise-6-85-pct-in-june-2025-helped-by-tea-coconut-and-apparel-233128/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports rose 6.85 percent to 1,150.73 million dollars in June 2025 from a year ago, helped by tea, coconut and apparel exports, while seafood, spices and rubber exports fell, data from the export promotion office showed.
-
-Merchandise exports for January to June 2025 rose 5.86 percent, compared to the same period in 2024, to 6,504.72 million dollars.
-
-Earnings from tea which made up 12.8 percent of merchandise exports, increased 9.21 percent to 132.97 million dollars in June 2025 compared to June 2024.
-
-Tea exports to Iraq and Libya recorded increases of 82.99 percent, 172.38 percent respectively compared to June 2024, while tea exports to Iran decreased by 55.31 percent in June 2025 amidst Israel’s unprovoked bombing.
-
-Export earnings from coconut-based products increased 59.62 percent in June 2025 compared to the same month in 2024.
-
-...
-
-[Data](articles/f5bbd65e.json)
-
----
-
-### කෞෂාල් සිල්වාට ප්‍රධාන පුහුණුකාර තනතුරක්
-
-*2025-07-28 13:49:20* · [`adalk`](https://www.ada.lk/sports/කෞෂාල්-සිල්වාට-ප්‍රධාන-පුහුණුකාර-තනතුරක්/9-417553) · `si`
-
-ශ්‍රී ලංකාවේ ටෙස්ට් ක්‍රිකට් කණඩායමේ හිටපු ආරම්භ පිතිකරුවෙකු වන කෞෂාල් සිල්වා හොංකොන් පිරිමි කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත් කර තිබේ.
-
-එළැඹෙන ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය සඳහා මෙම පත්කිරීම සිදු කර ඇත.
-
-◼️
-
-[Data](articles/c42c8be3.json)
-
----
-
-### Crane driver involved in fatal Borella accident tests positive for cannabis
-
-*2025-07-28 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110915/crane-driver-involved-in-fatal-borella-accident-tests-positive-for-cannabis-) · `en`
-
-The crane driver involved in the fatal accident in Borella this morning (28), in which an individual died, was under the influence of cannabis, according to Police.
-
-This has been revealed during a medical examination conducted on the relevant individual, police noted.
-
-A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
-
-Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
-
-This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
-
-Dr. Rukshan Bellana also noted that among the injured, two are women, and the remaining five are men.
-
-The accident occurred when a crane traveling from Rajagiriya towards the Bauddhaloka Mawatha collided with six motorcycles and three motor vehicles that were stopped near the traffic signals at the Kanatta roundabout.
-
-...
-
-[Data](articles/4b7709d7.json)
 
 ---

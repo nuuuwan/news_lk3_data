@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 01:06:06**
+As of **2025-07-29 01:17:31**
 
 ## Newspaper Stats
 
-*Scraped **67,344** Articles*
+*Scraped **67,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
-dailyftlk | 4,752
+dailyftlk | 4,755
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,750
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,344 articles have been extended.
+61,973 (92.0%) of 67,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours
+
+*2025-07-29 01:01:01* · [`dailyftlk`](https://www.ft.lk/opinion/Celebrating-500-million-FDI-Drop-in-the-ocean-compared-to-our-neighbours/14-779578) · `en`
+
+The Government initially claimed it had secured $ 3.8 billion in committed FDI. When questioned by MP Harsha de Silva, this figure was quietly revised down to $ 1.8 billion. Now, it claims that Sri Lanka attracted $ 500 million in FDI in the first half of 2025.
+
+While any FDI inflow is welcome for a country emerging from an unprecedented economic crisis, celebrating this modest figure is not only premature — it risks breeding complacency and misjudging the true scale of the challenge ahead. Pity the BOI Chairman does not get this!
+
+A closer look reveals why this figure should not be a source of national pride:
+
+India regularly attracts $ 10–15+ billion per quarter, driven by its massive market, improved infrastructure, and targeted incentives like the Production Linked Incentive (PLI) schemes.
+
+Vietnam brings in $ 5–8 billion per quarter, boosted by global supply chain diversification and a stable, pro-business climate.
+
+...
+
+[Data](articles/a5975501.json)
+
+---
+
+### Real hangover: Outdated laws and who they serve
+
+*2025-07-29 00:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Real-hangover-Outdated-laws-and-who-they-serve/4-779577) · `en`
+
+This milestone of legislative change is about far more than alcohol
+
+Growing up in Sri Lanka we’re often reminded of the country’s proud legacy of progress for women: setting a global precedent in 1960 as the first country in the world to elect a female Prime Minister. Today, women in Sri Lanka enjoy one of the highest literacy rates in South Asia, at over 90%. Women also make up the majority in universities and represent a significant portion of the workforce, especially in manufacturing and service sectors. Despite these political and economic milestones, Sri Lanka was one of the few countries in the world to restrict women from purchasing or selling alcohol legally until 2025. Similar discriminatory laws have existed in parts of India, Pakistan, and some Gulf nations, regularly justified under cultural or religious norms.
+
+...
+
+[Data](articles/16d095c9.json)
+
+---
+
+### Reject violence and war, struggle for peace and harmony
+
+*2025-07-29 00:51:06* · [`dailyftlk`](https://www.ft.lk/columns/Reject-violence-and-war-struggle-for-peace-and-harmony/4-779576) · `en`
+
+I use the term ‘struggle’ in the title of this article to mean ‘work,’ and not ‘fight.’ The advocacy for peace in the world is old as the history of war and violence. But that has failed so far at least to moderate conflicts and war. Today the world has come to a high point after the Second World War as two of the conflicts, between Russia and Ukraine and Ukraine and Palestine, with a great potential of creating a disastrous world war.
+
+There are over 20 countries at present involved in internal or external wars. Wikipedia gives a broad description of the situation and based on the figures of death toll during 2024 those countries can be listed as follows with numbers of mortality.
+
+...
+
+[Data](articles/adc45056.json)
+
+---
 
 ### ICJ urges international oversight and victim-centred investigation into Chemmani mass grave
 
@@ -1757,55 +1805,5 @@ ECONOMYNEXT – The United States has funded a five-day training programme for S
 ...
 
 [Data](articles/837fdddb.json)
-
----
-
-### තනතුරු කිහිපයකට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය
-
-*2025-07-28 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212729) · `si`
-
-නව තානාපතිවරුන් පස් දෙනෙකු,  මහ කොමසාරිස්වරයෙක් සහ අමාත්‍යාංශ ලේකම්වරියක් පත්කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය හිමිව තිබේ.
-
-පසුගිය 24 වන දින පාර්ලිමේන්තුවේදී රැස් වූ උසස් නිලතල පිළිබඳ කාරක සභාවේදී මෙම අනුමැතිය හිමිව ඇත.
-
-ඒ අනුව ඉන්දුනීසියාවේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සුමදුරිකා ශෂිකලා ප්‍රේමවර්ධන මෙනවියගේ  නම  උසස් නිලතල පිළිබඳ කාරක සභාව විසින්  අනුමත කර තිබේ.
-
-එමෙන්ම  බ්‍රසීල ෆෙඩරල් ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස සී. ඒ චාමින්දා ඉනෝකා කොලොන්නේ, මාලදිවයින් ජනරජයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා ලෙස මොහොමඩ් රිස්වි හසන්, තුර්කි ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස එල්. ආර්. එම්. එන්. පී. ජී. බී. කදුරුගමුව, නේපාල ජනරජයේ ශ්‍රී ලංකා තානාපතිවරිය ලෙස රුවන්ති දෙල්පිටිය, දකුණු කොරියාවේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස මාරිමුත්තු කේ පද්මනාදන්  යන මහත්ම මහත්මීන්ගේ නම් උසස් නිලතල පිළිබඳ කාරක සභාව විසින් අනුමත කර ඇත.
-
-තවද  අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ ලේකම්වරිය ලෙස ජනාධිපති නීතිඥ අයේෂා  ජිනසේන  මෙනවියගේ නම ද උසස් නිලතල පිළිබඳ කාරක සභාව විසින්  අනුමත කර තිබේ.
-
-...
-
-[Data](articles/82b483e7.json)
-
----
-
-### தாறுமாறாக ஓடி விபத்துக்குள்ளான பஸ்: 10 பேர் துடிதுடித்து பலி
-
-*2025-07-28 14:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாறுமாறாக-ஓடி-விபத்துக்குள்ளான-பஸ்-10-பேர்-துடிதுடித்து-பலி/50-361903) · `ta`
-
-பாகிஸ்தானின் தலைநகர் இஸ்லாமாபாதிலிருந்து பஞ்சாப் மாநிலத்தின் லாகூர் நோக்கி பயணித்துக்கொண்டிருந்த ஒரு தனியார் பேருந்து, பாலகசார் என்ற பகுதியில் சென்றுக் கொண்டிருந்தபோது, அதன் முன்பக்க டயர் திடீரென வெடித்தது. இதனால் கட்டுப்பாட்டை இழந்த பேருந்து, சாலையோர பள்ளத்தில் கவிழ்ந்தது. இந்த விபத்தில் 10 பயணிகள் சம்பவ இடத்திலேயே பரிதாபமாக உயிரிழந்தனர்.
-
-மேலும், விபத்தில் பலர் படுகாயம் அடைந்தனர். அவர்களில் 30 பேர் மீட்கப்பட்டு அருகிலுள்ள மருத்துவமனையில் அனுமதிக்கபட்டு தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. பள்ளத்தில் கவிழ்ந்த பேருந்து சம்பவம், அப்பகுதி மக்களிடையே பெரும் சோகத்தையும் பதற்றத்தையும் ஏற்படுத்தியுள்ளது. பொலிஸார் மற்றும் மீட்பு பணியாளர்கள் இணைந்து மேலதிக நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/f7334747.json)
-
----
-
-### වැඩබලන ඇමතිවරු 04ක් පත් කෙරේ
-
-*2025-07-28 14:35:04* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-ඇමතිවරු-04ක්-පත්-කෙරේ/11-417554) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මාලදිවයිනේ රාජ්‍ය සංචාරයක් සඳහා දිවයිනෙන් පිටත්ව යාම හේතුවෙන් අමාත්‍යාංශ 04ක් සඳහා වැඩබලන අමාත්‍යවරුන් පත් කර තිබේ.
-
-ජනාධිපතිවරයා යටතේ පවතින ඩිජිටල් ආර්ථික අමාත්‍යාංශය, ආරක්ෂක අමාත්‍යාංශය සහ මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය යන අමාත්‍යාංශ සඳහා මෙන්ම අමාත්‍ය විජිත හේරත් මහතා යටතේ පවතින විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සඳහා මෙලෙස වැඩබලන අමාත්‍යවරුන් පත් කර ඇත.
-
-ඒ අනුව මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන වැඩබලන අමාත්‍යවරයා ලෙස කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාද, ඩිජිටල් ආර්ථික වැඩබලන අමාත්‍යවරයා ලෙස ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය එරංග වීරරත්න මහතාද, ආරක්ෂක වැඩබලන අමාත්‍යවරයා ලෙස ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාද, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක වැඩබලන අමාත්‍යවරයා ලෙස විදේශ කටයුතු , විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා ද පත් කරනු ලැබ සිටිති.
-
-◼️
-
-[Data](articles/d4009fe2.json)
 
 ---

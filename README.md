@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 19:27:55**
+As of **2025-07-28 19:50:05**
 
 ## Newspaper Stats
 
-*Scraped **67,309** Articles*
+*Scraped **67,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,462
 adaderanalk | 8,282
 tamilmirrorlk | 9,748
 virakesarilk | 11,220
-adaderanasinhalalk | 11,566
+adaderanasinhalalk | 11,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.1%) of 67,309 articles have been extended.
+61,973 (92.1%) of 67,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### පොල්තෙල් සඳහා ප්‍රමිතියක්
+
+*2025-07-28 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212743) · `si`
+
+නියමිත ලෙස ඇසුරුම් කරන ලද පොල් තෙල් පමණක් අලෙවිය සඳහා ඉදිරියේදී අවසර ලබාදිමට තීරණය කර ඇති බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+
+ඒ වෙළෙඳපොළේ පවතින ඇසුරුම් නොකරන ලද පොල්තෙල් ස﻿ඳහා වෙනත් ද්‍රව්‍ය කලවම් කර අලෙවිකරන බවට තම අධිකාරියට ලද පැමිණිලිවලට අදාළව සිදුකළ සාම්පල පරීක්ෂා ඔස්සේ කළ තහවුරු කිරීම්වලට අනුවය.
+
+වෙළෙඳපොළේ පවතින ඇසුරුම් නොකරන ලද පොල්තෙල් අලෙවි කිරීමේදී වෙනත් ද්‍රව්‍යයන් කලවම් කර අලෙවි කරන බවට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියට ලද තොරතුරකට අනුව දිවයින පුරා තෝරාගත් වෙළෙඳසැල් සහ නිෂ්පාදනායතන 75ක් පමණ පසුගියදා පරීක්ෂාවට ලක්කර තිබුණි.
+
+එහිදී ලබාගත් සාම්පල පරීක්ෂාවේදී සාම්පල 22ක පමණ එලෙස අලෙවිය සඳහා වෙනත් ද්‍රව්‍ය කලවම් කර පොල් තෙල් අලෙවිකිරීමට සූදානම් කර තිබෙන අයුරු නිරීක්ෂණය වී තිබුණි.
+
+ඒ අනුව ප්‍රමිතියෙන් යුතු පොල්තෙල් පාරිභෝගිකයා වෙත ලබාදීම සඳහා ඇසුරුම්කළ පොල් තෙල් පමණක් අලෙවි කිරීමට පොල් සංවර්ධන මණ්ඩලය සහ පාරිභෝගික අධිකාරිය සැලසුම්කර තිබේ.
+
+...
+
+[Data](articles/86e249e7.json)
+
+---
 
 ### பொரளை விபத்தில் சாரதி கஞ்சா பயன்படுத்தியமை உறுதி
 
@@ -1769,25 +1789,5 @@ They are also due to deliver joint press statements outlining the outcomes of th
 ◼️
 
 [Data](articles/53a3c201.json)
-
----
-
-### Pre-trial conference fixed for ex-minister Mervyn Silva’s bribery case
-
-*2025-07-28 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110907/pre-trial-conference-fixed-for-ex-minister-mervyn-silvas-bribery-case) · `en`
-
-The Colombo High Court has ordered that the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Minister Mervyn Silva, who is accused of illegally acquiring assets during his tenure as a minister, be taken up on September 24.
-
-The case was taken up today (28) before Colombo High Court Judge Sahan Mapa Bandara.
-
-During the court proceedings, attorneys representing both sides requested that the case be referred for a full trial conference.
-
-Accordingly, court has ordered that the case be called for a pre-trial conference on September 24.
-
-The Bribery Commission filed the case alleging that Mervyn Silva committed an offense under the Anti-Corruption Act by illegally acquiring property worth nearly Rs. 150 million, in excess of his lawful income, while serving as a minister between 2010 and 2012.
-
-◼️
-
-[Data](articles/ff70ca15.json)
 
 ---

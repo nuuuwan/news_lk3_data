@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 14:26:11**
+As of **2025-07-28 14:39:55**
 
 ## Newspaper Stats
 
-*Scraped **67,232** Articles*
+*Scraped **67,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,450
+adalk | 6,451
 adaderanalk | 8,267
 tamilmirrorlk | 9,728
 virakesarilk | 11,207
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,232 articles have been extended.
+61,973 (92.2%) of 67,233 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3419f8fd.json)
+
+---
+
+### කෞෂාල් සිල්වාට ප්‍රධාන පුහුණුකාර තනතුරක්
+
+*2025-07-28 13:49:20* · [`adalk`](https://www.ada.lk/sports/කෞෂාල්-සිල්වාට-ප්‍රධාන-පුහුණුකාර-තනතුරක්/9-417553) · `si`
+
+ශ්‍රී ලංකාවේ ටෙස්ට් ක්‍රිකට් කණඩායමේ හිටපු ආරම්භ පිතිකරුවෙකු වන කෞෂාල් සිල්වා හොංකොන් පිරිමි කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත් කර තිබේ.
+
+එළැඹෙන ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය සඳහා මෙම පත්කිරීම සිදු කර ඇත.
+
+◼️
+
+[Data](articles/c42c8be3.json)
 
 ---
 
@@ -1791,21 +1805,5 @@ Applications are being accepted until 31 August, and interested applicants are e
 ...
 
 [Data](articles/e49e9f0f.json)
-
----
-
-### National campaign launched to control sexual harassment in public transport and spaces
-
-*2025-07-28 03:27:42* · [`dailyftlk`](https://www.ft.lk/news/National-campaign-launched-to-control-sexual-harassment-in-public-transport-and-spaces/56-779554) · `en`
-
-Sexual harassment in Sri Lanka’s public transport and spaces poses a severe threat to women and girls, limiting their freedom and causing distress. This persistent issue fosters gender imbalance, directly hindering the nation’s economic growth and overall development.
-
-In response to this growing challenge, the Sri Lankan Government, in partnership with the Government of Japan and the United Nations Population Fund (UNFPA), has initiated a national campaign with a mission to create safer, gender-sensitive public spaces and ensure harassment-free travel on public transport for the public in Sri Lanka.
-
-The campaign was officially launched on 23 July, in partnership with the Ministry of Women and Child Affairs and the Ministry of Transport, Highways, Ports and Civil Aviation, with support from UNFPA Sri Lanka and funding from the Government of Japan.
-
-...
-
-[Data](articles/7dc15ba0.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 03:05:54**
+As of **2025-07-29 03:18:44**
 
 ## Newspaper Stats
 
-*Scraped **67,352** Articles*
+*Scraped **67,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 690
-economynextcom | 4,110
 islandlk | 4,115
+economynextcom | 4,116
 dailymirrorlk | 4,733
 dailyftlk | 4,758
 adalk | 6,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,352 articles have been extended.
+61,973 (92.0%) of 67,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,38 @@ Vietnam brings in $ 5–8 billion per quarter, boosted by global supply chain di
 ...
 
 [Data](articles/a5975501.json)
+
+---
+
+### 6.6 magnitude earthquake near in Nicobar Island
+
+*2025-07-29 00:57:00* · [`economynextcom`](https://economynext.com/6-6-magnitude-earthquake-near-in-nicobar-island-233261/) · `en`
+
+ECONOMYNEXT – There was no tsunami threat to the Indian Ocean from a 6.6 magnitude earthquake near Nicobar Islands, a bulletin issued by Indian authorities said, shortly after the first alert that the quake was big enough to generate a wave.
+
+“Based on pre-run model scenarios, there is NO THREAT to countries in the Indian Ocean,” the notice said.
+
+“No further bulletins will be issued unless the situation changes.”
+
+This bulletin applies to areas within and bordering the Indian Ocean
+
+and is issued by Tsunami Service Provider INDIA in support of the
+
+Based on pre-run model scenarios, there is NO THREAT to countries in
+
+the Indian Ocean. No further bulletins will be issued unless the
+
+make decisions regarding the official threat and warning status in
+
+For more detailed information, please refer to the tsunami advisory
+
+bulletins issued by the National Tsunami Warning Centres (NTWCs) of
+
+Indian Ocean countries. The tsunami warning status reported by NTWCs
+
+◼️
+
+[Data](articles/c2c34a94.json)
 
 ---
 
@@ -556,6 +588,24 @@ According to the Kandy Fire Service Department, a fire engine and a water tanker
 
 ---
 
+### Sri Lanka, Maldives leaders hold bilateral discussions, sign MOUs
+
+*2025-07-28 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-maldives-leaders-hold-bilateral-discussions-sign-mous-233252/) · `en`
+
+ECONOMYNEXT – Leaders of Sri Lanka and Maldives held bilateral discussions and signed Memorandum of Understanding (MOU) during the official visit of President Anura Kumara Dissanayake to Male, the island nation’s President’s Media Division (PMD) said.
+
+An MoU was signed between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike Diplomatic Training Institute while an agreement on mutual legal assistance between the two nations.
+
+“These agreements are expected to strengthen relations and cooperation between the Maldives and Sri Lanka across various sectors,” the PMD said in a statement.
+
+“The first agreement aims to provide mutual legal assistance in criminal matters, while the second is a Memorandum of Understanding on diplomatic training and the exchange of related information and documents between the respective institutions.” (Colombo/July 28/2025)
+
+◼️
+
+[Data](articles/cc91ed3c.json)
+
+---
+
 ### ரோயல் பார்க் கொலைக் குற்றவாளிக்கு எதிராக சிவப்பு பிடியாணை
 
 *2025-07-28 20:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோயல்-பார்க்-கொலைக்-குற்றவாளிக்கு-எதிராக-சிவப்பு-பிடியாணை/175-361930) · `ta`
@@ -771,6 +821,26 @@ This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo N
 ◼️
 
 [Data](articles/087428de.json)
+
+---
+
+### Sri Lanka Customs detain around 1,000 BYD EVs in motor capacity probe
+
+*2025-07-28 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-detain-around-1000-byd-evs-in-motor-capacity-probe-233141/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs has detained around 1,000 Chinese-made BYD electric vehicles in six consignments that arrived in the island over the declaration of motor capacity issue which is used to calculate taxes, official sources said.
+
+Customs have been declared a motor capacity of 100 kiloWatts but there have been concerns that the car are usually produced with a 150kW motor, which attracts a higher rate of duty in Sri Lanka.
+
+The excise for a 100 KW motor vehicle is 2.4 million rupees, but this rises to about 5.4 million rupees for a 150 KW vehicle.
+
+The BYD vehicles had arrived in six consignments and reached Sri Lanka in two different days of this month, the sources said.
+
+In the case of conventional piston engine cars, it is customary for the same model to come in different sized engines. The same model of some mid-sized petrol cars for example used to come in 1300cc, 1500cc and even 1800cc engines.
+
+...
+
+[Data](articles/5a3a82ae.json)
 
 ---
 
@@ -997,6 +1067,28 @@ The former Navy Commander was arrested by the CID over the disappearance of a yo
 ◼️
 
 [Data](articles/67339d49.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds edge up
+
+*2025-07-28 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-edge-up-233196/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.95/302.03 to the US dollar in the spot market Monday, from 301.90/302.00 the previous day, while bond yields edged up slightly, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.52/60 percent, from 8.50/62 percent.
+
+A bond maturing on 15.12.2029 closed at 9.52/57 percent, up from 9.53/55 percent.
+
+A bond maturing on 15.12.2032 closed at 10.42/50 percent, up from 10.40/50 percent.
+
+A bond maturing on 01.06.2033 closed at 10.75/86 percent, from 10.68/80 percent. (Colombo/July28/2025)
+
+◼️
+
+[Data](articles/520f9f68.json)
 
 ---
 
@@ -1508,6 +1600,28 @@ Accordingly, the Deputy Solicitor General requested court to set a new date for 
 
 ---
 
+### Sri Lanka stocks rise 0.26-pct, pushed by capital goods
+
+*2025-07-28 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-0-26-pct-pushed-by-capital-goods-233171/) · `en`
+
+ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) moved up 0.26 percent pushed by interest in capital goods stocks, data on its site showed.
+
+The ASPI rose 50.15 points to 19,517.86 on Monday; while the S&P SL20 index climbed 0.34 percent, or 19.47 points, to close at 5,774.51.
+
+Turnover increased to 6.1 billion rupees; while the share volume was 162,329,463.
+
+The ASPI was pushed up by Royal Ceramics Lanka which ended 4.00 rupees stronger at 44.00; Melstacorp which rose 1.75 rupees to 152.00 rupees; Hemas Holdings which ended 0.70 rupees up at 31.40 rupees; L B Finance which moved 4.75 rupees up to 140.00; and C T Holdings which closed 8.50 rupees higher at 598.75.
+
+France CAC 40 was trading 0.70 higher at 7,889.04 after US reduced tariffs to 15 percent.
+
+Elsewhere, Japan’s Nikkei 225 index declined 1.10 percent, or 457.96 points, to 40,998.27 as “investors continued to lock in profits following last week’s surge sparked by a Japan-U.S. trade deal,” Japan’s The Mainichi newspaper said.
+
+...
+
+[Data](articles/c91bbd5d.json)
+
+---
+
 ### 21/4 தாக்குதல்: மீண்டும் விசாரணைக்கு வருகிறது வழக்கு
 
 *2025-07-28 16:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்-மீண்டும்-விசாரணைக்கு-வருகிறது-வழக்கு/175-361910) · `ta`
@@ -1601,6 +1715,32 @@ Meanwhile, the S&P SL20 Index moved up by 19.47 points to close at 5,774.51 poin
 ◼️
 
 [Data](articles/10e628f7.json)
+
+---
+
+### Sri Lanka services exports rise 16.38-pct in June
+
+*2025-07-28 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-16-38-pct-in-june-233167/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports rose 16.38 percent from a year ago to 309.61 million US dollars in June 2025, helped by transport and logistics, the island’s Export Development Board said.
+
+Over the first six months of the year, services exports are estimated to have increased 9.78 percent, totaling 1,833.14 million dollars.
+
+ICT/BPM exports rose 34.12 percent to 147.18 million US dollars, but construction fell 40.06 percent to 10.35 million US dollars.
+
+Financial services also fell 45.78 percent to 3.90 million US dollars.
+
+Transport and logistics grew 12.39 percent to 148.18 million US dollars.
+
+Total services exports from January to June 2025 were 1,833.14 million US dollars, up 9.78 percent.
+
+With merchandise exports, total exports grew 8.73 percent to 1,460.34 million US dollars in June.
+
+RELATED Sri Lanka exports rise 6.85-pct in June 2025, helped by tea, coconut and apparel
+
+...
+
+[Data](articles/654c0c55.json)
 
 ---
 
@@ -1699,111 +1839,5 @@ The leaders of Thailand and Cambodia have agreed to an immediate and uncondition
 ◼️
 
 [Data](articles/22d2803d.json)
-
----
-
-### Sri Lanka’s exports to US surpass USD 250 million in June as Trump tariffs loom
-
-*2025-07-28 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110919/sri-lankas-exports-to-us-surpass-usd-250-million-in-june-as-trump-tariffs-loom) · `en`
-
-Sri Lankan exports to the United States have increased in the month of June as the new 30% tariff rate announced by US President Donald Trump is set to take effect later this week.
-
-The US remains Sri Lanka’s single largest export destination, which absorbs 23% of Sri Lanka’s merchandise exports.
-
-According to latest data issued by the Central Bank of Sri Lanka (CBSL), Sri Lanka’s exports stood at USD 252.34 million in June while it was USD 216.67 million in May 2025.
-
-Exports to the United States over the cumulative period from January to June 2025 increased by 4.61%, reaching USD 1,434.99 million.
-
-Meanwhile, exports to the United Kingdom increased by 22.38% to USD 91.64 million in June 2025 compared to the same month in 2024. During the cumulative period from January to June 2025, exports to the UK recorded a growth of 6.92%, reaching USD 483.93 million compared to the corresponding period in 2024.
-
-...
-
-[Data](articles/5c355678.json)
-
----
-
-### Arrest warrant issued against Namal Rajapaksa by Hambantota Court
-
-*2025-07-28 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110918/arrest-warrant-issued-against-namal-rajapaksa-by-hambantota-court) · `en`
-
-The Hambantota Magistrate’s Court has issued an arrest warrant for Member of Parliament Namal Rajapaksa for failing to appear in court for a trial, police stated.
-
-◼️
-
-[Data](articles/c85212e7.json)
-
----
-
-### තායිලන්තය සහ කාම්බෝජය සටන් විරාමයකට එකඟ වෙයි
-
-*2025-07-28 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212732) · `si`
-
-UPDATE - තායිලන්තය සහ කාම්බෝජය අතර සාම සාකච්ඡාවලින් පසු දෙපාර්ශ්වය ක්ෂණික සහ කොන්දේසි විරහිත සටන් විරාමයකට එකඟ වී තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇති පරිදි අද මධ්‍යම රාත්‍රියේ සිට මෙම සටන් විරාමය ක්‍රියාත්මක වන බවට මැලේසියාවේ අග්‍රාමාත්‍ය අන්වර් ඊබ්‍රහිම් පවසා ඇති බවය.
-
-මෙය ගැටුම් අවම කර සාමය සහ ආරක්ෂාව යථා තත්ත්වයට පත් කිරීම සඳහා අත්‍යවශ්‍ය පළමු පියවරක් බවද ඔහු සඳහන් කර තිබේ.
-
-තායිලන්තය සහ කාම්බෝජය අතර සාම සාකච්ඡා මාලදිවයිනේදී ආරම්භ වී තිබේ.
-
-මේ සඳහා තායිලන්තයේ වැඩබලන අග්‍රාමාත්‍ය ෆුම්තම් වෙචයාචායි සහ කාම්බෝජයේ අග්‍රාමාත්‍ය යුන් මැනට් එක්ව ඇති අතර සාම සාකච්ඡා හී මැදිහත්කරු ලෙස මැලේසියානු අග්‍රාමාත්‍ය අන්වර් ඊබ්‍රහිම් කටයුතු කරනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-මැලේසියාවේ අගනුවර වන ක්වාලාලම්පූර් හී පිහිටා ඇති මැලේසියානු අග්‍රාමාත්‍යවරයාගේ නිල නිවසේදී මෙම සාකච්ඡා ආරම්භ වී ඇති අතර චීනයේ සහ අමෙරිකා එක්සත් ජනපදයේ නිලධාරීන් පිරිසක්ද එම සාකච්ඡා සඳහා එක්ව ඇති බවත් විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-...
-
-[Data](articles/e9b2ae99.json)
-
----
-
-### නාමල්ව අත්අඩංගුවට ගන්නැයි වරෙන්තුවක්
-
-*2025-07-28 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212731) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අත්අඩංගුවට ගැනීමට හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර තිබේ.
-
-එම අධිකරණය හමුවේ විභාග වන නඩුවක් සඳහා අද දිනයේ පෙනී නොසිටීම හේතුවෙන් මන්ත්‍රීවරයා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
-
-2017 වසරේ දී හම්බන්තොට වරාය විදෙස් රටවලට පැවරීමට එරෙහිව පැවති විරෝධතාවකදී අධිකරණ නියෝග නොතකමින් කටයුතු කිරීම සම්බන්ධයෙන් නාමල් රාජපක්ෂ මන්ත්‍රීවරයා ඇතුළු පිරිසකට එරෙහිව අදාළ නඩුව ගොනු කර තිබුණි.
-
-එම නඩුව අද කැදවු අවස්ථාවේ මන්ත්‍රීවරයා අධිකරණයට හමුවේ පෙනී නොසිටීම හේතුවෙන් මෙලෙස ඔහු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය පොලිසියට නියෝග කර ඇති බව පොලීසිය සඳහන් කළේය.
-
-කෙසේවෙතත් නාමල් රාජපක්ෂ මන්ත්‍රීවරයා මේ වන විට විදෙස් ගතව සිටින බව ද වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/7b3d6c06.json)
-
----
-
-### නාමල් රාජපක්ෂ අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කරයි
-
-*2025-07-28 15:07:03* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-රාජපක්ෂ-අත්අඩංගුවට-ගැනීමට-වරෙන්තු-නිකුත්-කරයි/11-417556) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අත්අඩංගුවට ගැනීම සඳහා වරෙන්තුවක් නිකුත්කර තිබේ.
-
-හම්බන්තොට මහේස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර ඇති නඩුවකට අදාළව අද (28දා) පෙනී නොසිටීම හේතුවෙන් මෙලෙස වරෙන්තු නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/63e25ea3.json)
-
----
-
-### Sri Lanka restructures French debt, suspended and new projects to start
-
-*2025-07-28 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructures-french-debt-suspended-and-new-projects-to-start-233119/) · `en`
-
-ECONOMYNEXT – Sri Lanka and France have signed an implementation letter on debt restructuring, enabling the resumption of temporarily suspended financing, the Ministry of Finance said.
-
-The signing of the letters marked the conclusion of the debt restructuring process between Sri Lanka and France, the ministry said.
-
-“Consequently, the Government of Sri Lanka will enable to resumption of temporarily suspended loan financing and secure financing for new projects from all lender agencies of the Government of France to the successful
-
-In line with the Memorandum of Understanding (MoU) Sri Lanka signed with the Official Creditor Committee (OCC) on 26 June 2024 for external debt restructuring of the country, a bilateral agreement on debt restructuring between the governments of France and Sri Lanka was signed on 16 June 2025.
-
-...
-
-[Data](articles/51a107f2.json)
 
 ---

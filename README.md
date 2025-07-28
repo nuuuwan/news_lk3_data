@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 16:23:27**
+As of **2025-07-28 16:35:23**
 
 ## Newspaper Stats
 
-*Scraped **67,259** Articles*
+*Scraped **67,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,455
-adaderanalk | 8,267
+adaderanalk | 8,276
 tamilmirrorlk | 9,738
 virakesarilk | 11,208
-adaderanasinhalalk | 11,560
+adaderanasinhalalk | 11,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.1%) of 67,259 articles have been extended.
+61,973 (92.1%) of 67,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න අත්අඩංගුවට
+
+*2025-07-28 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212737) · `si`
+
+හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න මහතා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ ඔහු නාවික හමුදා බුද්ධි අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේදී සිදුව ඇති පුද්ගල පැහැරගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළවය.
+
+◼️
+
+[Data](articles/eec3c45c.json)
+
+---
+
+### Former Navy Commander Nishantha Ulugetenne arrested by CID
+
+*2025-07-28 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110923/former-navy-commander-nishantha-ulugetenne-arrested-by-cid) · `en`
+
+Former Sri Lanka Navy Commander Admiral (Retired) Nishantha Ulugetenne arrested by the CID over the disappearance of a youth from Pothuhera when he was Director, Naval Intelligence.
+
+◼️
+
+[Data](articles/58d100a1.json)
+
+---
+
+### Easter Attacks: Case against Pujith, Hemasiri to be taken up once again in September
+
+*2025-07-28 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110922/easter-attacks-case-against-pujith-hemasiri-to-be-taken-up-once-again-in-september) · `en`
+
+The case filed against former Secretary to the Ministry of Defence Hemasiri Fernando and former Inspector General of Police (IGP) Pujith Jayasundara before the Colombo High Court Trial-at-Bar on charges of criminal negligence of duty by failing to prevent the 2019 Easter Sunday terror attacks despite receiving intelligence information in advance will be taken up once again on September 18.
+
+The case was taken up before the High Court bench, consisting of Judges Namal Balalle and Mohamed Irshadeen today.
+
+During the hearing, the Deputy Solicitor General, Sudarshan de Silva, who appeared on behalf of the Attorney General, informed court that, since Judge Aditya Patabendige has already been appointed to the Court of Appeal, the position on the three-judge bench will be filled by a new judge until the appointment of a replacement by the Chief Justice.
+
+Accordingly, the Deputy Solicitor General requested court to set a new date for the case to be heard.
+
+...
+
+[Data](articles/87faa807.json)
+
+---
 
 ### රඹුක්කන වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 07 විභාගයට අවසර දෙයි
 
@@ -128,6 +172,34 @@ Cordelia Cruises கப்பல் மிகவும் பிரமாண்�
 
 ---
 
+### ASPI surpasses 19,500 points for first time ever
+
+*2025-07-28 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110921/aspi-surpasses-19500-points-for-first-time-ever) · `en`
+
+The Colombo Stock Exchange (CSE) reached a historic milestone today (15) as the All Share Price Index (ASPI) surpassed the 19,500-points mark for the first time in the capital market’s history.
+
+Accordingly, the ASPI rose by 50.15 points to close at 19,517.86 points, surpassing the previous high of 19,467.71 points recorded on July 25, 2025.
+
+Meanwhile, the S&P SL20 Index moved up by 19.47 points to close at 5,774.51 points.
+
+◼️
+
+[Data](articles/10e628f7.json)
+
+---
+
+### Thailand and Cambodia agree to ceasefire - Malaysia PM
+
+*2025-07-28 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110920/thailand-and-cambodia-agree-to-ceasefire-malaysia-pm) · `en`
+
+The leaders of Thailand and Cambodia have agreed to an immediate and unconditional ceasefire to end their border clashes, Malaysian Prime Minister Anwar Ibrahim said on Monday, following talks in Malaysia between the two Southeast Asian neighbours.
+
+◼️
+
+[Data](articles/a2279e60.json)
+
+---
+
 ### සියලු කොටස් මිල දර්ශකය ඒකක 19,500 සීමාව ඉක්මවයි
 
 *2025-07-28 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212734) · `si`
@@ -191,6 +263,38 @@ Cordelia Cruises கப்பல் மிகவும் பிரமாண்�
 ◼️
 
 [Data](articles/22d2803d.json)
+
+---
+
+### Sri Lanka’s exports to US surpass USD 250 million in June as Trump tariffs loom
+
+*2025-07-28 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110919/sri-lankas-exports-to-us-surpass-usd-250-million-in-june-as-trump-tariffs-loom) · `en`
+
+Sri Lankan exports to the United States have increased in the month of June as the new 30% tariff rate announced by US President Donald Trump is set to take effect later this week.
+
+The US remains Sri Lanka’s single largest export destination, which absorbs 23% of Sri Lanka’s merchandise exports.
+
+According to latest data issued by the Central Bank of Sri Lanka (CBSL), Sri Lanka’s exports stood at USD 252.34 million in June while it was USD 216.67 million in May 2025.
+
+Exports to the United States over the cumulative period from January to June 2025 increased by 4.61%, reaching USD 1,434.99 million.
+
+Meanwhile, exports to the United Kingdom increased by 22.38% to USD 91.64 million in June 2025 compared to the same month in 2024. During the cumulative period from January to June 2025, exports to the UK recorded a growth of 6.92%, reaching USD 483.93 million compared to the corresponding period in 2024.
+
+...
+
+[Data](articles/5c355678.json)
+
+---
+
+### Arrest warrant issued against Namal Rajapaksa by Hambantota Court
+
+*2025-07-28 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110918/arrest-warrant-issued-against-namal-rajapaksa-by-hambantota-court) · `en`
+
+The Hambantota Magistrate’s Court has issued an arrest warrant for Member of Parliament Namal Rajapaksa for failing to appear in court for a trial, police stated.
+
+◼️
+
+[Data](articles/c85212e7.json)
 
 ---
 
@@ -265,6 +369,26 @@ In line with the Memorandum of Understanding (MoU) Sri Lanka signed with the Off
 ...
 
 [Data](articles/51a107f2.json)
+
+---
+
+### Rs. 50 mln worth foreign cigarettes seized in largest-ever smuggling attempt at BIA
+
+*2025-07-28 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110917/rs-50-mln-worth-foreign-cigarettes-seized-in-largest-ever-smuggling-attempt-at-bia) · `en`
+
+A large consignment of foreign-manufactured cigarettes valued at Rs. 50 million was seized today (28) by officers of the Central Intelligence Directorate of Sri Lanka Customs while it was being transported through the Bandaranaike International Airport (BIA) in Katunayake.
+
+The contraband was en-route to the Cargo Village in transit for shipment to Australia and England.
+
+This marks the largest and first-ever seizure of illicit cigarettes in the history of both the Katunayake Airport and its Cargo Village, according to Sri Lanka Customs.
+
+The consignment had been falsely declared as “towels” and “plastic cups” and was intended to be shipped from Dubai to London, Sydney, and Melbourne on 9 and 11 January last year.
+
+As per the Sri Lanka Customs Ordinance, all goods in transit must be accurately declared. Furthermore, under an international convention signed by Sri Lanka in 2016, it is now a legal requirement to prevent the illicit trade in tobacco products within the country.
+
+...
+
+[Data](articles/94c0f931.json)
 
 ---
 
@@ -388,6 +512,28 @@ ECONOMYNEXT – The United States has funded a five-day training programme for S
 
 ---
 
+### Russia’s Aeroflot cancels dozens of flights after information failure
+
+*2025-07-28 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110916/russias-aeroflot-cancels-dozens-of-flights-after-information-failure) · `en`
+
+Russian airline Aeroflot cancelled dozens of flights on Monday after what it called a failure in its information systems.
+
+The national carrier did not provide further details about the cause of the problem or how long it would take to resolve.
+
+Since Russia launched the war in Ukraine in February 2022, travellers in Russia have become accustomed to flight disruptions. However, those delays have usually been caused by temporary airport closures after drone attacks.
+
+Aeroflot said that “specialists are currently working to minimize the impact on the flight schedule and to restore normal service operations”.
+
+On Telegram, it listed more than 40 cancelled flights to destinations across Russia, as well as to the Belarusian capital Minsk and the Armenian capital Yerevan.
+
+Aeroflot urged passengers whose flights from Moscow’s Sheremetyevo airport had been cancelled to retrieve their checked-in luggage and leave.
+
+...
+
+[Data](articles/1232ba92.json)
+
+---
+
 ### மாடியில் இருந்து விழுந்த பாதுகாப்பு அதிகாரி மரணம்
 
 *2025-07-28 14:29:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்த-பாதுகாப்பு-அதிகாரி-மரணம்/175-361902) · `ta`
@@ -453,6 +599,30 @@ Export earnings from coconut-based products increased 59.62 percent in June 2025
 ◼️
 
 [Data](articles/c42c8be3.json)
+
+---
+
+### Crane driver involved in fatal Borella accident tests positive for cannabis
+
+*2025-07-28 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110915/crane-driver-involved-in-fatal-borella-accident-tests-positive-for-cannabis-) · `en`
+
+The crane driver involved in the fatal accident in Borella this morning (28), in which an individual died, was under the influence of cannabis, according to Police.
+
+This has been revealed during a medical examination conducted on the relevant individual, police noted.
+
+A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
+
+Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
+
+This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
+
+Dr. Rukshan Bellana also noted that among the injured, two are women, and the remaining five are men.
+
+The accident occurred when a crane traveling from Rajagiriya towards the Bauddhaloka Mawatha collided with six motorcycles and three motor vehicles that were stopped near the traffic signals at the Kanatta roundabout.
+
+...
+
+[Data](articles/4b7709d7.json)
 
 ---
 
@@ -540,11 +710,15 @@ Export earnings from coconut-based products increased 59.62 percent in June 2025
 
 *2025-07-28 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110914/sri-lankas-exports-surge-to-usd-83-billion-in-first-six-months-of-2025) · `en`
 
-Sri Lanka’s export sector demonstrated remarkable resilience and steady progress during the first six months of 2025, with total exports reaching US$ 8,337.86 million, marking a robust 6.70 % growth compared to the same period in 2024., the Central Bank of Sri Lanka said.
+Sri Lanka’s total exports during the first six months of 2025 have reached USD 8,337.86 million, marking a robust 6.70 % growth compared to the same period in 2024, the Central Bank of Sri Lanka (CBSL) has highlighted.
 
-Total exports, including both merchandise and services reached US$ 1,460.34 Mn in June 2025. This shows an impressive year-on-year growth of 8.73% over June 2024, highlighting the strength of Sri Lanka’s export sector and the effectiveness of ongoing strategies to broaden market reach and improve global competitiveness.
+Total exports, including both merchandise and services reached USD 1,460.34 million in June 2025.
 
-In June 2025 alone, merchandise exports grew by 6.85 % year-on-year, reaching US$ 1,150.73 Mn, according to provisional data of Sri Lanka Customs including the estimates for Gems & Jewellery and Petroleum Products. For the period January to June 2025, merchandise exports totaled US$ 6,504.72 Mn, reflecting 5.86% increase compared to the same period in 2024.
+This is an impressive year-on-year growth of 8.73% over June 2024, highlighting the strength of Sri Lanka’s export sector and the effectiveness of ongoing strategies to broaden market reach and improve global competitiveness, the CBSL stated.
+
+In June 2025 alone, merchandise exports grew by 6.85 % year-on-year, reaching USD 1,150.73 million, according to provisional data of Sri Lanka Customs including the estimates for Gems & Jewellery and Petroleum Products.
+
+For the period January to June 2025, merchandise exports totaled USD 6,504.72 million, reflecting 5.86% increase compared to the same period in 2024.
 
 ...
 
@@ -1623,187 +1797,5 @@ The injured have been admitted to the Colombo National Hospital for treatment, s
 ◼️
 
 [Data](articles/113a3363.json)
-
----
-
-### ප්‍රාස මන්ත්‍රී තාරකගේ නිවසට වෙඩි තැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
-
-*2025-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212715) · `si`
-
-ජාතික ජන බලවේගයේ වැලිගම ප්‍රාදේශීය සභා මන්ත්‍රී තාරක නානායක්කාරගේ නිවසට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසිය පැවසුවේ 33 හැවිරිදි සැකකරු මාතර ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවයි.
-
-එමෙන්ම වෙඩික්කරුවන් ප්‍රවාහනය කළ බවට සැක කෙරෙන මොටර් රථය ද පොලිස් භාරයට ගෙන තිබේ.
-
-පසුගිය 16 වනදා අලුයම 4.40ට පමණ යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි ප්‍රහාරය එල්ල කර පලාගොස් තිබුණි.
-
-ඒ වන විට අදාළ මන්ත්‍රීවරයාට මරණ තර්ජන ඇති බව පවසා නිවසට පොලිස් ආරක්ෂව ද යොදවා තිබුණි.
-
-යතුරුපැදියකින් පැමිණි සැකකරුවන් මිලිමීටර් 9 වර්ගයේ ගිනි අවියකින් වෙඩි තබා තිබූ අතර එහිදී එම අවස්ථාවේදී මන්ත්‍රීවරයාගේ ආරක්ෂාවට නිවසේ  සිටි පොලිස් නිලධාරීන් විසින් ටි 56 වර්ගයේ ගිනි අවි වලින් සැකකරුවන් වෙත වෙඩි තබා තිබූ අතර එහිදී සැකකරුවන් පළා ගොස් තිබිණි.
-
-◼️
-
-[Data](articles/3c3cbd09.json)
-
----
-
-### ஸ்டாலின், விஜய் வீடுகளுக்கு வெடிகுண்டு மிரட்டல்
-
-*2025-07-28 08:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டாலின்-விஜய்-வீடுகளுக்கு-வெடிகுண்டு-மிரட்டல்/175-361865) · `ta`
-
-ஒரே நேரத்​தில் தமிழ் நாடு முதல்​வர் ஸ்​டா​லின், நடிகர் விஜய் மற்​றும் அண்ணா பல்​கலைக்​கழகம் மற்​றும் விமான நிலையத்துக்கு வெடிகுண்டு மிரட்​டல் விடுக்​கப்​பட்​டது. சோதனை​யில் வெடிகுண்டு மிரட்​டல் வெறும் புரளி என தெரிய​வந்​தது.
-
-சென்னை எழும்​பூரில் செயல்​பட்டு வரும் மாநில பொலிஸ் கட்டுப்​பாட்டு அறைக்கு நேற்று அதி​காலை வந்த தொலைபேசி அழைப்பில் , எதிர்முனையில் பேசிய நபர் ‘முதல்​வர் வீட்​டுக்கு வெடிகுண்டு வைத்​துள்​ளேன். அது சற்று நேரத்​தில் வெடித்து சிதறும். முடிந்​தால் தடுத்துப் பாருங்​கள்’ எனக் கூறி இணைப்பை துண்​டித்​தார்.
-
-இதைக் கேட்டு அதிர்ச்சி அடைந்த கட்​டுப்​பாட்டு அறை பொலிஸார் உடனடி​யாக உயர் பொலிஸ் அதி​காரி​களுக்கு தகவல் தெரிவித்​தனர். இதையடுத்​து, தேனாம்​பேட்டை பொலிஸார் , வெடிகுண்​டு​களை கண்​டறிந்து அகற்​றும் நிபுணர்​கள் மற்​றும் மோப்ப நாயுடன் ஆழ்​வார்​பேட்டை சித்​தரஞ்​சன் வீதி​யில் உள்ள முதல்​வர் மு.க.ஸ்​டா​லின் வீடு மற்​றும் வீட்டு வளாகம் முழுவதும்  மெட்​டல் டிடெக்​டர் கருவி மூலம் சோதித்து பார்த்​தனர்.
-
-...
-
-[Data](articles/43aaa2fe.json)
-
----
-
-### බොරැල්ලේ රිය අනතුරක් - අයෙක් මරුට
-
-*2025-07-28 08:38:19* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ලේ-රිය-අනතුරක්---අයෙක්-මරුට/11-417541) · `si`
-
-බොරැල්ල ප්‍රදේශයේ අද (28දා) උදෑසන සිදු වූ  රිය අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-අනතුරින් තවත් කිහිප දෙනෙකු තුවාල ලබා රෝහල් ගත කළ බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/f1b96e8b.json)
-
----
-
-### Three killed and others injured in German train derailment
-
-*2025-07-28 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110897/three-killed-and-others-injured-in-german-train-derailment) · `en`
-
-At least three people have been killed and several others have been seriously injured after a passenger train derailed in south-west Germany, police say.
-
-Operator Deutsche Bahn said the train crashed at Riedlingen near Stuttgart for “unknown reasons”. Reports say there had been a storm in the area shortly before.
-
-Around 100 people were on board the train when at least two carriages derailed in a forested area around 18:10 local time (17:10 BST), German news agency dpa reported.
-
-German Chancellor Freidrich Merz said he “mourn[ed] the victims” and offered his “deepest sympathy” to their families in a post on X.
-
-He said he was in close contact with the interior and transport ministers, and has requested that they provide the emergency services with all the support they need.
-
-In a statement, Ulm police said that current investigations showed “three people were killed and other passengers were seriously injured”.
-
-...
-
-[Data](articles/c65aed98.json)
-
----
-
-### ගැටුමක් නිසා තරුණයෙක් අවසන් ගමන් යයි
-
-*2025-07-28 08:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ගැටුමක්-නිසා-තරුණයෙක්-අවසන්-ගමන්-යයි/11-417540) · `si`
-
-මාතලේ පොලිස් වසමේ පලාපත්වල ප්‍රදේශයේ නිවසක දෙපාර්ශවයක් අතර ඇති වූ බහින් බස්වීමක් දුරදිග යාමෙන් පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධකින් පහරදී තුවාල සිදුකර මාතලේ රෝහලට ඇතුලත් කිරීමෙන් පසු එක් පුද්ගලයෙකු මියගොස් ඇති බවට මාතලේ පොලිස් ස්ථානයට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
-
-මරණකරු වයස අවුරුදු 18 ක් වූ පලාපත්වල, මාතලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මරණකරු තවත් පුද්ගලයින් තිදෙනෙකු සමඟ සැකකරුගේ නිවසට පැමිණ සැකකරු හා නිවැසියන් අතර ඇති වූ බහින් බස් වීමක් දුරදිග යාම හේතුවෙන් සැකකරු අසල තිබූ තියුණු ආයුධයකින් මරණකරුගේ ගෙල ප්‍රදේශයට පහර දී තවත් පුද්ගලයෙකුට කැපුම් තුවාල සිදුකර ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
-
-මෘත ශරීරය මාතලේ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර අපරාධයට සම්බන්ධ සැකකරු අත්අඩංගුවට ගෙන ඇත. මාතලේ පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි. ඊයේ (27දා) සවස මෙම ගැටුම සිදුව තිබේ.
-
-◼️
-
-[Data](articles/d88dd5ac.json)
-
----
-
-### බොරැල්ලේ මාරක අනතුරක් - අයෙක් මරුට - 5කට වැඩි පිරිසකට තුවාල
-
-*2025-07-28 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212714) · `si`
-
-බොරැල්ල, කනත්ත හන්දිය ප්‍රදේශයේ දී අද (28) උදෑසන සිදු වූ මාරක රිය අනතුරකින් පුද්ගලයෙකු මියගොස් පුද්ගලයින් පස්‍දෙනෙකුට වැඩි පිරිසක් තුවාල ලබා ඇති බව පොලීසිය පවසයි.
-
-තිරිංග නිසිලෙස ක්‍රියාත්මක නොවූ දොඹකරයක් යතුරුපැදි 07ක සහ මෝටර් රථ 03ක ගැටී මෙම අනතුර සිදුව තිබුණි.
-
-අනතුරින් තුවාල ලැබූ පිරිස මේ වනවිට කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/04251624.json)
-
----
-
-### 18-year-old dies following assault in Matale
-
-*2025-07-28 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110896/18-year-old-dies-following-assault-in-matale) · `en`
-
-An 18-year-old youth has died following an assault that escalated after an argument between two groups at a residence in the Palapathwela area of Matale.
-
-On July 27, the deceased, along with three others, had arrived at the suspect’s house and started an argument with the suspect and the residents.
-
-The ongoing investigation has revealed that as the argument escalated, the suspect attacked the deceased in the neck with a sharp weapon and also inflicted cuts on another person.
-
-The injured have been admitted to Matale Hospital, but one person succumbed to his injuries after being admitted.
-
-The suspect involved in the crime has been arrested, and the Matale Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/4cad7018.json)
-
----
-
-### සංචාරක පැමිණීම ලක්ෂ 13 ඉක්මවයි
-
-*2025-07-28 08:12:13* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-13-ඉක්මවයි/11-417539) · `si`
-
-මේ වසරේ ජනවාරි 01 දා සිට 23 දා තෙක් ශ්‍රී ලංකාවට සංචාරකයන් 1 313 232ක් පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය පවසයි. එසේම ජුලි මස 01 දා සිට 23 දා තෙක් සංචාරකයන් 145 188ක් පැමිණ තිබේ. මේ වසරේදී  ශ්‍රී ලංකාවට සංචාරකයන් ලක්ෂ 25ක් ගෙන්වා ගැනීමට ශ්‍රී ලංකාව අපේක්ෂා කරයි.
-
-◼️
-
-[Data](articles/3efb16b0.json)
-
----
-
-### Sri Lanka can change inflation target if not appropriate: Minister
-
-*2025-07-28 08:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-change-inflation-target-if-not-appropriate-minister-232957/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation target of 5 percent, which has been set by the central bank based on its own past performance could be revised in the future, Deputy Minister of Economic Development Anil Jayantha Fernando said.
-
-The central bank has set the inflation target based on the inflation it has created in the recent past, where Sri Lanka’s average inflation has been around 5 percent, he explained.
-
-“In the future if it is not appropriate, we can accordingly change,” Minister Fernando told parliament.
-
-The current three-year inflation agreement signed with the government runs out in 2026, he said.
-
-Minister Fernando was replying to a question by opposition legislator Ravi Karunanayake.
-
-The central bank has missed its 5 percent inflation target, which is sometimes seen as deflation when 12-month data is taken into account, but prices have moved up marginally since 2022.
-
-There was no problem in having lower than targeted inflation, Minister Fernando said.
-
-...
-
-[Data](articles/34cbb3cf.json)
-
----
-
-### வயோதிபர் சடலமாக மீட்பு
-
-*2025-07-28 08:01:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிபர்-சடலமாக-மீட்பு/175-361864) · `ta`
-
-யாழ்ப்பாணம், அல்லைப்பிட்டி பகுதியில் படுக்கையில் எரிந்த நிலையில் வயோதிபர் ஒருவர் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-3 ஆம் வட்டாரம் அல்லைப்பிட்டி வெண்புறவியைச் சேர்ந்த 84 வயதுடைய மணியாஸ் சேவியர் என்ற வயோதிபரே இவ்வாறு எரிந்த நிலையில் நேற்று  (27) சடலமாக மீட்கப்பட்டுள்ளார்.
-
-வயோதிபர் வாழ்ந்த வீட்டில் இருந்து புகை வெளிவருவதை  வீதியால் சென்ற அவரது உறவினர் அவதானித்து வீட்டின் உள்ளே சென்று பார்த்தபோது அவர் சடலமாக காணப்பட்டுள்ளார்.
-
-புகைப்பிடிக்கும் பழக்கம் கொண்ட குறித்த வயோதிபர் பாவித்த பீடியின் மூலம் அவர் உறங்கும் மெத்தையில் ஏற்பட்ட தீயின் காரணமாகவே இந்த மரணம் ஏற்பட்டிருக்கலாம் என முதல்க்கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/bcff7c61.json)
 
 ---

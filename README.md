@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 18:34:09**
+As of **2025-07-28 19:00:33**
 
 ## Newspaper Stats
 
-*Scraped **67,291** Articles*
+*Scraped **67,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,460
-adaderanalk | 8,276
-tamilmirrorlk | 9,745
-virakesarilk | 11,214
-adaderanasinhalalk | 11,565
+adaderanalk | 8,282
+tamilmirrorlk | 9,746
+virakesarilk | 11,220
+adaderanasinhalalk | 11,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.1%) of 67,291 articles have been extended.
+61,973 (92.1%) of 67,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### 2026 நடுப்பகுதியில் மீண்டும் பொருளாதார நெருக்கடி ஏற்படும் – உதய கம்மன்பில
+
+*2025-07-28 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221214) · `ta`
+
+2026 ஆம் ஆண்டு நடுப்பகுதியில் மீண்டும் பொருளாதார நெருக்கடி தோற்றம் பெறும் சூழலே காணப்படுகிறது. பொருளாதார வளர்ச்சி வீதம் குறைவடைந்த போக்கில் செல்வதை அவதானிக்க முடிகிறது. எதிர்க்கட்சிகள் அனைத்தும் ஒன்றிணைந்தால் அடுத்தாண்டு பொதுத்தேர்தலை நடத்தும் சூழலை ஏற்படுத்தலாம் என பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுறு ஹெல உறுமய கட்சியின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (27) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கடந்த ஓரிரு மாதங்களுக்கு முன்னர் நாட்டில் திட்டமிட்ட வகையில் உப்புக்கு தட்டுப்பாடு ஏற்பட்டது.சந்தையில் நிலவிய உப்பு தட்டுப்பாட்டுக்கு தீர்வாக  2025 ஆம் ஆண்டு 06 இலக்க ஏற்றுமதி மற்றும் இறக்குமதி கட்டுப்பாட்டு ஒழுங்குவிதிகளின் பிரகாரம் உப்பு இறக்குமதிக்கு அனுமதி வழங்கப்பட்டது.
+
+...
+
+[Data](articles/311832f3.json)
+
+---
+
+### Public urged not to fly kites near airports
+
+*2025-07-28 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110930/public-urged-not-to-fly-kites-near-airports) · `en`
+
+The general public has been requested to refrain from flying kites near airports in the country.
+
+The Sri Lanka Air Force (SLAF) states that it has received reports of an increase in the number of kites being flown near airports.
+
+Due to this, the Air Force warns that there is a risk of accidents involving aircraft.
+
+Previously, the Airport and Aviation Services (Sri Lanka) (Pvt) Ltd. has also announced a ban on flying kites near international airports due to safety concerns for aircraft and passengers.
+
+◼️
+
+[Data](articles/0ae7154c.json)
+
+---
+
+### 5 புதிய தூதுவர்கள், ஒரு உயர் ஸ்தானிகர் நியமனம்
+
+*2025-07-28 18:29:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-புதிய-தூதுவர்கள்-ஒரு-உயர்-ஸ்தானிகர்-நியமனம்/175-361927) · `ta`
+
+உயர் பதவிகளுக்கான குழு, 5 புதிய தூதுவர்கள், ஒரு உயர் ஸ்தானிகர் மற்றும் ஒரு அமைச்சக செயலாளரின் நியமனங்களுக்கு ஒப்புதல் அளித்துள்ளது.
+
+கடந்த வாரம் (24) பாராளுமன்றத்தில் நடைபெற்ற உயர் பதவிகளுக்கான குழுவின் கூட்டத்தின் போது இந்த நியமனங்கள் அங்கீகரிக்கப்பட்டன.
+
+திருமதி. சி.ஏ. சமிந்தா இனோகா கொலோன்னே - பிரேசில் கூட்டாட்சி குடியரசின் இலங்கைத் தூதுவர்.
+
+திரு. முகமது ரிஸ்வி ஹாசன் - மாலைதீவு குடியரசிற்கான இலங்கை உயர் ஸ்தானிகர்
+
+செல்வி ஆயிஷா ஜினசேனா (PC) - நீதி மற்றும் தேசிய ஒருங்கிணைப்பு அமைச்சகத்தின் செயலாளர்.
+
+உயர் பதவிகளுக்கான குழுவின் தலைவராக பிரதமர் ஹரினி அமரசூரிய, பாராளுமன்ற உறுப்பினர்களான குமார ஜயக்கொடி, அனில் ஜயந்த, ஹர்ஷன நாணயக்கார, உபாலி பன்னிலகே, சரோஜா சாவித்திரி பால்ராஜ், ஹன்சக விஜேமுனி, ரிஷாத் பதியுதீன், தயாசிறி ஜயசேகர மற்றும் நிசாம் காரியப்பர் ஆகியோர் அங்கம் வகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/60cb7576.json)
+
+---
+
+### அரசாங்கத்திடம் கல்வி மறுசீரமைப்பில் தெளிவான கொள்கை இல்லை – வருண ராஜபக்ஷ்
+
+*2025-07-28 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221213) · `ta`
+
+கல்வி மறுசீரமைப்பு மேற்கொள்வதாக அரசாங்கம் தெரிவித்து வருகின்றபோதும் அரசாங்கத்திடம் தொடர்பில் முறையான கொள்கை ஒன்று இல்லை. அதேநேரம் இந்த மறுசீரமைப்பு மேற்கொள்ள நியமிக்கப்பட்ட குழுவில் கல்வியலாளர்கள் என யாரும் இல்லை என ஐக்கிய  மக்கள் சக்தி கம்பஹா தொகுதி அமைப்பாளர் வருண ராஜபக்ஷ் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை () இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு  தெரிவித்தார்.
+
+கல்வித்துறையில் மாற்றத்தை ஏற்படுத்த வேண்டும் என 40 வருடங்களுக்கு முன்பிருந்தே நாங்கள் தெரிவித்து வருகிறோம். ,இதற்கு முன்னர் இருந்த அரசாங்கங்களும் கல்வி மறுசீரமைப்பு தொடர்பில் நடவடிக்கை எடுத்திருந்தன. அந்த வகையில் தற்போது இந்த அரசாங்கமும் அதனை செய்ய ஆரம்பித்திருக்கிறது. கல்வி மறுசீரமைப்பு மேற்கொள்ளப்படட வேண்டும் என்பதில் மாற்றுக்கருத்து இல்லை.
+
+...
+
+[Data](articles/d463af56.json)
+
+---
+
+### බොරැල්ලේ මාරක අනතුර සම්බන්ධයෙන් දොඹකර රථයේ හිමිකරු අත්අඩංගුවට
+
+*2025-07-28 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212742) · `si`
+
+බොරැල්ල කනත්ත හංදිය ප්‍රදේශයේ අද (28) උදෑසන සිදුවූ මාරක රිය අනතුර සම්බන්ධයෙන් දොඹකර රථයේ හිමිකරුද අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකාර රියදුරා සහ දොඹකර රථයේ හිමිකරු හෙට අලුත්කඩේ අංක 02 මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත බව පොලීසිය පවසයි.
+
+මේ අතර රිය අනතුරට සම්බන්ධ දොඹකර රථයේ රියදුරා ගංජා පානය කර ඇති බවට තහවුරු වී ඇති බවට අදාළ රියදුරු සම්බන්ධයෙන් සිදුකළ වෛද්‍ය පරීක්ෂණයේදී ඒ බව තහවුරු වූ බවයි බොරැල්ල පොලීසිය සඳහන් කළේය.
+
+අද උදෑසන බෞද්ධාලෝක මාවතේ සිට බොරැල්ල දෙසට ධාවනය වූ දොඹකර රථය බොරැල්ල කනත්ත වට රවුමේ මාර්ග සංඥා අසලදී  යතුරුපැදි 06ක සහ මෝටර් රථ 03ක ගැටී අනතුරක් සිදුව තිබුණි.
+
+මාර්ග සංඥා හේතුවෙන් රථ වාහන නතර කර තිබියදී දොඹකර රථය වාහන පෙළ යටකරගෙන වේගයෙන් ඉදිරියට ගමන් කරන ආකාරය CCTV දර්ශනවල දැක්වුණි.
+
+දොඹකර රථයට යටවූ යතුරුපැදි කිහිපයක් රථය තුළ සිරවී ඇති ආකාරය ද දක්නට ලැබුණි.
+
+අනතුරින් එක් යතුරුපැදිකරුවෙකු එම ස්ථානයේදීම මියගොස් තිබූ අතර තුවාල ලැබූ තවත් 07 දෙනෙකු ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කළ බව පොලීසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/47b7280a.json)
+
+---
 
 ### අත්අඩංගුවට ගත් හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න රිමාන්ඩ්
 
@@ -45,6 +141,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ed989d71.json)
+
+---
+
+### ஜெர்மனியில் பயணிகள் ரயில் தடம் புரண்டு விபத்து : மூவர் பலி; பலர் காயம்
+
+*2025-07-28 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221211) · `ta`
+
+ஜெர்மனியில் பயணிகள் ரயில் தடம் புரண்டு விபத்துக்குள்ளானதில் மூன்று பேர் பலியானதுடன் பலர் காயமடைந்துள்ளனர்.
+
+குறித்த விபத்தில் ரயிலின் ஓட்டுநரும் பலியானதுடன், குறைந்தது 50 பேர் காயமடைந்ததாகவும், அவர்களில் 25 பேர் ஆபத்தான நிலையில் இருப்பதாகவும் அதிகாரிகள் மேலும் தெரிவிக்கின்றனர்.
+
+27ஆம் திகதி ஞாயிற்றுக்கிழமை மாலை தென்மேற்கு பேடன்-வுர்ட்டம்பெர்க் மாநிலத்தில் உள்ள ரீட்லிங்கன் நகருக்கு அருகிலுள்ள காட்டுப் பகுதியில், மியூனிக் நகருக்கு மேற்கே சுமார் 158 கிமீ (98 மைல்) தொலைவில் குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/711c4663.json)
+
+---
+
+### Former Navy Commander Nishantha Ulugetenne remanded
+
+*2025-07-28 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110929/former-navy-commander-nishantha-ulugetenne-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN) Admiral (Retired) Nishantha Ulugetenne who was arrested earlier today by the Criminal Investigation Department (CID), has been remanded, Ada Derana reporter said.
+
+He has been remanded until July 30 by the Polgahawela Magistrate’s Court.
+
+The former Navy Commander was arrested by the CID over the disappearance of a youth from Pothuhera while he was functioning as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/12655a0c.json)
 
 ---
 
@@ -130,6 +258,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 1983ம் ஆண்டு கறுப்பு ஜூலையில் கொழும்பில் தீக்கிரையாக்கப்பட்ட ரியோசினிமா - வெள்ளித்திரையின் நிழல்களும் ஒரு தேசத்தின் ஆன்மாவும்
+
+*2025-07-28 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221179) · `ta`
+
+2025 ஜூலை மாதம் அமைதியான ஆனால் உறுதியான சிறிய குழுவினர் கறுப்பு ஜூலையை நினைவுகூருவதற்காக கொழும்பு கனத்தை சுற்றுவட்டத்தில் கூடினார்கள்.1983 இல் இலங்கை தமிழர்களிற்கு எதிராக வன்முறையாக மாறிய வாரம்.
+
+13 படையினர் கொல்லப்பட்டமைக்கான எதிர்வினையாக ஆரம்பித்தது பின்னர் அரசஆதரவுடனான இனக்கலவரமாக மாறியது.ஆயிரக்கணக்கானவர்கள் படுகொலை செய்யப்பட்டார்கள்இஒரு தலைமுறையின் கனவுகள்,உறவுகள், எதிர்காலம் ஆகியவை புகைமண்டலத்திற்குள்ளும் இடிபாடுகளிற்குள்ளும் புதைக்கப்பட்டது.
+
+இது வெறுமனே கலவரம் இல்லை.இது ஒருநாட்டின் தார்மீக திசைகாட்டியை உடைத்தெறிதல்,இலங்கையின் மனிதநேயத்தில் ஒரு ஆழமான முறிவு.கறுப்பு ஜூலை இலங்கையின் மூன்று தசாப்தகால யுத்தத்தின் ஆரம்பமாக கருதப்படுகின்றது.
+
+ஆனால் அது தமிழர்களின் அடையாளமே அழிக்கப்பட்ட கலாச்சார அழிப்பிற்கான ஒரு முக்கிய தருணமாகவும் இருந்தது.தமிழர்களின் அடையாளமே எரிக்கப்பட்டது.
+
+எரிக்கப்பட்ட வீடுகள் மற்றும் சூறையாடப்பட்ட கடைகளிற்கு மத்தியில் மிகவும் நுட்பமான பேரழிவு இடம்பெற்றது.இது பன்முகத்தன்மை கொண்ட தேசத்தின் பகிரப்பட்ட கதைகள் , பாடல்களை சாம்பலாக்கியது.ஒரு காலத்தில் கூட்டு கற்பனை
+
+...
+
+[Data](articles/3d012060.json)
+
+---
+
 ### ගුවන් තොටුපොළවල් අවට සරුංගල් යැවීමෙන් වළකින්න
 
 *2025-07-28 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212740) · `si`
@@ -143,6 +291,68 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/03ff334b.json)
+
+---
+
+### Two arrested over abduction and murder of youth in Kahawatta remanded
+
+*2025-07-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110927/two-arrested-over-abduction-and-murder-of-youth-in-kahawatta-remanded) · `en`
+
+Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until July 28.
+
+◼️
+
+[Data](articles/622e434b.json)
+
+---
+
+### விவசாயம், விவசாயிகளைப் பற்றி பேசும் 'உழவர் மகன்'
+
+*2025-07-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221196) · `ta`
+
+நடிகர் கௌஷிக் கதையின் நாயகனாக நடித்திருக்கும் 'உழவர் மகன்' எனும் திரைப்படம் -விவசாயிகளை பற்றியும் , விவசாயத்தைப் பற்றியும் சமூகப் பொறுப்புணர்வுடன் பேசுகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் ப. ஐயப்பன் இயக்கத்தில் உருவாகி இருக்கும் 'உழவர் மகன் ' திரைப்படத்தில் கௌஷிக் ,சிம்ரன் ராஜ், வின்சிட்டா ஜார்ஜ், விஜித் சரவணன், யோகி ராம் ,ரஞ்சன் குமார், சிவ சேனாதிபதி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். இந்த திரைப்படத்தை சுபலட்சுமி பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே .முருகன் தயாரித்துள்ளார்.
+
+எதிர்வரும் ஓகஸ்ட் மாதம் எட்டாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியிட திட்டமிடப்பட்டிருக்கும் இந்த படத்தை பற்றி இயக்குநர் பேசுகையில், '' மக்களுக்கு சோறு போடும் விவசாய தொழில் இன்று பல இன்னல்களுக்கு ஆளாகி வருகிறது. அந்தத் தொழிலை மேற்கொண்டிருக்கும் விவசாயிகள் சொல்ல முடியாத துன்பத்தை சந்தித்து வருகிறார்கள். இந்தப் பிரச்சனையின் தீவிரத்தையும் அதற்கான தீர்வையும் சொல்லி இருக்கிறோம். அத்துடன் காதலும், சமூகத்திற்கு தேவையான செய்தி ஒன்றினையும் இப்படத்தில் வழங்கியுள்ளோம்'' என்றார்.
+
+◼️
+
+[Data](articles/e52f0d11.json)
+
+---
+
+### SC grants leave to proceed with seven FR petitions filed over Rambukkana shooting
+
+*2025-07-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110926/sc-grants-leave-to-proceed-with-seven-fr-petitions-filed-over-rambukkana-shooting) · `en`
+
+The Supreme Court today (28) granted leave to proceed with seven fundamental rights petitions filed in connection with the alleged violation of fundamental human rights during the Rambukkana protest that occurred during the time of the ‘Aragalaya’ in 2022.
+
+Petitions have been filed in relation to an incident where police opened fire to disperse a group of protesters near a filling station in Rambukkana, where people were demonstrating against the alleged sale of fuel at a higher price. The shooting resulted in the death of an individual and injuries to several others.
+
+Accordingly, the petitions were taken up before a three-judge bench of the Supreme Court comprising Justices Achala Wengappuli, Priyantha Fernando, and Menaka Wijesundera.
+
+...
+
+[Data](articles/668b0700.json)
+
+---
+
+### தனுஷ் நடிக்கும் 'இட்லி கடை' படத்தின் முதல் பாடல் வெளியீடு
+
+*2025-07-28 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221197) · `ta`
+
+சிறந்த நடிப்பிற்காக தேசிய விருதினை வென்ற நடிகர் தனுஷ் நடிப்பில் தயாராகி வரும் 'இட்லி கடை' எனும் திரைப்படத்தில் இடம் பெற்ற 'என்ன சுகம்' எனும் முதல் பாடலும் , பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+அவரது பிறந்த நாளை கொண்டாடும் வகையில் வெளியிடப்பட்டிருக்கும் இந்தப் பாடல் குறுகிய கால அவகாசத்திற்குள் இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.‌
+
+நடிகரும், இயக்குநருமான தனுஷ் இயக்கத்தில் உருவாகி வரும் 'இட்லி கடை' எனும் திரைப்படத்தில் தனுஷ் - நித்யா மேனன் ஆகியோர் முதன்மையான வேடங்களில் நடிக்கிறார்கள்.
+
+இவர்களுடன் அருண் விஜய் ,ஷாலினி பாண்டே, சத்யராஜ் , ராஜ்கிரண் ஆகியோர் முக்கிய கதாபாத்திரங்களில் தோன்றுகிறார்கள். கிரண் கௌசிக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ .வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை டான் பிக்சர்ஸ் மற்றும் வுண்டர்பார் பிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/5b819f92.json)
 
 ---
 
@@ -206,6 +416,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### சமுத்திரக்கனி நடிக்கும் 'ராகு- கேது'
+
+*2025-07-28 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221187) · `ta`
+
+தென்னிந்திய திரையுலகில் ஒப்பற்ற குணசித்திர நடிகராக வலம் வரும் சமுத்திரக்கனி  'ராகு- கேது' எனும் ஆன்மீக உணர்வை விவரிக்கும் திரைப்படத்தில் கதையின் நாயகனாக-  சிவ பெருமானாக நடித்திருக்கிறார் என படக் குழுவினர் பெருமிதத்துடன் குறிப்பிட்டுள்ளனர்.
+
+இயக்குநர் 'தமிழ்மாமனி ' துரை.  பாலசுந்தரம் இயக்கத்தில் உருவாகியுள்ள 'ராகு- கேது 'எனும் திரைப்படத்தில் சமுத்திரக்கனி, கஸ்தூரி, விக்னேஷ் ஆகியோர் முதன்மையான வேடத்தில் நடித்திருக்கிறார்கள்.
+
+கலைமாமணி கே பி அறிவானந்தம் கதை, வசனம், பாடல்கள் எழுதியிருக்கும் இந்த திரைப்படத்திற்கு மோகன் ஒளிப்பதிவு செய்ய, பரணிதரன் மற்றும் சதானந்தம் ஆகியோர் இணைந்து இசையமைத்துள்ளனர்.
+
+ஆன்மீக படைப்பாக தயாராகி இருக்கும் இந்த திரைப்படத்தை தமிழரசன் தியேட்டர் நிறுவனம் சார்பில் தயாரிப்பாளர் சாந்தி பாலசுந்தரம் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/2483516c.json)
+
+---
+
 ### තිළිණි ප්‍රියමාලිට ඇප
 
 *2025-07-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212738) · `si`
@@ -221,6 +449,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3513115e.json)
+
+---
+
+### Broker arrested near DMT office in Narahenpita
+
+*2025-07-28 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110925/broker-arrested-near-dmt-office-in-narahenpita) · `en`
+
+A broker who attempted to solicit a bribe near the head office of the Department of Motor Traffic in Narahenpita has been arrested by the Commission to Investigate Allegations of Bribery or Corruption.
+
+The arrest was made during a sting operation carried out by the Commission, where the suspect was apprehended in connection with accepting a bribe of Rs. 10,000.
+
+The suspect had allegedly demanded a total bribe of Rs. 30,000 to have the certificate of registration of a motorcycle amended as the original registration certificate by officials at the Department of Motor Traffic.
+
+He was arrested while accepting Rs. 10,000 as an advance payment at a shop near the Department, located down Gajaba Mawatha, at the time he took custody of the documents.
+
+The arrested suspect is scheduled to be produced before the Colombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/39abce6b.json)
 
 ---
 
@@ -274,26 +522,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 1983ம் ஆண்டு கறுப்புஜூலையில் கொழும்பில் தீக்கிரையாக்கப்பட்ட ரியோசினிமா   -   வெள்ளித்திரையில் நிழல்களும் ஒரு தேசத்தின் ஆன்மாவும்
-
-*2025-07-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221179) · `ta`
-
-2025 ஜூலை மாதம் அமைதியான ஆனால் உறுதியான சிறிய குழுவினர் கறுப்பு ஜூலையை நினைவுகூருவதற்காக கொழும்பு கனத்தை சுற்றுவட்டத்தில் கூடினார்கள்.1983 இல் இலங்கை தமிழர்களிற்கு எதிராக வன்முறையாக மாறிய வாரம்.
-
-13 படையினர் கொல்லப்பட்டமைக்கான எதிர்வினையாக ஆரம்பித்தது பின்னர் அரசஆதரவுடனான இனக்கலவரமாக மாறியது.ஆயிரக்கணக்கானவர்கள் படுகொலை செய்யப்பட்டார்கள்இஒரு தலைமுறையின் கனவுகள்,உறவுகள், எதிர்காலம் ஆகியவை புகைமண்டலத்திற்குள்ளும் இடிபாடுகளிற்குள்ளும் புதைக்கப்பட்டது.
-
-இது வெறுமனே கலவரம் இல்லை.இது ஒருநாட்டின் தார்மீக திசைகாட்டியை உடைத்தெறிதல்,இலங்கையின் மனிதநேயத்தில் ஒரு ஆழமான முறிவு.கறுப்பு ஜூலை இலங்கையின் மூன்று தசாப்தகால யுத்தத்தின் ஆரம்பமாக கருதப்படுகின்றது.
-
-ஆனால் அது தமிழர்களின் அடையாளமே அழிக்கப்பட்ட கலாச்சார அழிப்பிற்கான ஒரு முக்கிய தருணமாகவும் இருந்தது.தமிழர்களின் அடையாளமே எரிக்கப்பட்டது.
-
-எரிக்கப்பட்ட வீடுகள் மற்றும் சூறையாடப்பட்ட கடைகளிற்கு மத்தியில் மிகவும் நுட்பமான பேரழிவு இடம்பெற்றது.இது பன்முகத்தன்மை கொண்ட தேசத்தின் பகிரப்பட்ட கதைகள் , பாடல்களை சாம்பலாக்கியது.ஒரு காலத்தில் கூட்டு கற்பனை
-
-...
-
-[Data](articles/3d012060.json)
-
----
-
 ### 'எதிர்பாராததை எதிர்பாருங்கள் ' என 'ஹவுஸ்மேட்ஸ் ' படக் குழுவினர் உற்சாக அறிவிப்பு
 
 *2025-07-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221182) · `ta`
@@ -311,6 +539,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5b7c47d5.json)
+
+---
+
+### Thilini Priyamali granted bail
+
+*2025-07-28 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110924/thilini-priyamali-granted-bail) · `en`
+
+Businesswoman Thilini Priyamali has been granted bail after being produced before the Homagama Magistrate’s Court today (28).
+
+Homagama Magistrate Rajindra Wijesuriya ordered her release on surety bail amounting to Rs. 200,000.
+
+Priyamali was arrested earlier today by the Homagama Police on multiple charges, including obstructing the duties of a fiscal officer at the Homagama Magistrate’s Court.
+
+She was taken into custody after arriving at the police station, following a court order requiring her to provide a statement to the police.
+
+Businesswoman Thilini Priyamali, was previously arrested and remanded for allegedly committing massive financial fraud.
+
+◼️
+
+[Data](articles/d775d09d.json)
 
 ---
 
@@ -1543,259 +1791,5 @@ He emphasized that the strike will definitely proceed unless a decisive solution
 ◼️
 
 [Data](articles/9f98fa91.json)
-
----
-
-### දුම්රිය වර්ජනයකට සුදානමක්
-
-*2025-07-28 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212720) · `si`
-
-සිය ගැටලුවලට විසඳුම් නොලැබුණ හොත් පැය 48ක සංකේත වැඩවර්ජනයක් සිදුකරන බව දුම්රිය ලොකොමෝටිව් ඔපරේටින් ඉංජිනියර්ස් සංගමය පවසයි.
-
-එම සංගමයේ, ප්‍රධාන සභාපති කේ.යු. කොන්තසිංහ මහතා පවසා සිටියේ, ප්‍රවාහන අමාත්‍යාංශය හා දුම්රිය දෙපාර්තමේන්තුව වෙත 2025 ජූලි 22 දින යොමුකළ ලිපිය සම්බන්ධයෙන් සාධනීය ප්‍රතිචාරයක් නොලැබුණහොත් එළැඹෙන ජූලි මස 30 වන දා සහ 31 වන දා යන දෙදින මෙම වැඩවර්ජනය සිදුකරන බවය.
-
-විශේෂයෙන්ම දුම්රිය රියදුරු ශ්‍රේණිය මුහුණදෙන පරිපාලන ගැටලු සහ යටිතල පහසුකම් සම්බන්ධයෙන් තීරණාත්මක විසඳුමක් නොලැබුණහොත් මෙම වැඩවර්ජනය අනිවාර්යෙයන්ම සිදුකරන බවට අනතුරු ඇඟවීමක් සිදුකරන බව ද ඒ මහතා පැවසීය.
-
-සතුටුදායක පිළිතුරක් අපේක්ෂා කරන අතර, එවැනි දෙයක් ලැබුණොත් පමණක් වැඩවර්ජනය අත්හිටුවීමට කටයුතු කරන බව ද පැවසු සභාපතිවරයා, අද හෝ හෙට මේ පිළිබඳ පිළිතුරක් අපේක්ෂා කරන බව ද කියා සිටියේය.
-
-◼️
-
-[Data](articles/5a7f355d.json)
-
----
-
-### முட்டை 30 ரூபாய்... முட்டை ரொட்டி 130 ரூபாய்... என்ன கணக்கு இது?
-
-*2025-07-28 11:12:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-30-ரூபாய்-முட்டை-ரொட்டி-130-ரூபாய்-என்ன-கணக்கு-இது/175-361877) · `ta`
-
-முட்டை விலை குறைந்திருந்தாலும், முட்டை ரொட்டி மற்றும் கொத்து ரொட்டியின் விலை முன்பு போலவே இருப்பதாக நுகர்வோர் கூறுகின்றனர்.
-
-ஒரு முட்டையின் விலை 45 முதல் 50 ரூபாய் வரை இருந்தபோது, ஒரு முட்டை ரொட்டியின் விலையை 125 முதல் 130 ரூபாய் வரை உயர்த்த ஹோட்டல் உரிமையாளர்கள் நடவடிக்கை எடுத்தனர்.
-
-ஆனால், இப்போது ஒரு முட்டையின் விலை 29 மற்றும் 32 ரூபாய் வரை குறைந்துள்ள போதும், முட்டை ரொட்டி இன்னும் அதே விலையில் விற்கப்படுகிறது.
-
-முட்டை விலை குறைந்ததால் கொத்து ரொட்டியின் விலை குறைக்கப்பட்டிருக்கலாம் என்றாலும், அதுவும் குறைக்கப்படவில்லை.
-
-◼️
-
-[Data](articles/c23b6df6.json)
-
----
-
-### තවත් වන අලියෙක් ජීවිතක්ෂයට
-
-*2025-07-28 11:11:59* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වන-අලියෙක්-ජීවිතක්ෂයට/11-417550) · `si`
-
-සේරුවිල පොලිස් වසමට අයත් සිරිමංගලපුර කුඹුරු යායේ කෙරවල කොටිගල නැමැති ප්‍රදේශයේ මියගොස් සිටි වල් අලියෙකුගේ තවත් මළ සිරුරක් ඊයේ (27) පස්වරුවේ සොයාගත් බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව කියයි.
-
-දින කීපයකට පෙර මියගොස් ඇති බවට සැක කරන මෙම අලියාගේ මුඛයෙන් රුධිර වහනය වීමක් දක්නට ඇති අතර එය හක්ක පටස් ආහාරයට ගැනීම නිසා හක්ක පුපුරා ගොස් ඇති බවට සැක කරන්නේ යැයි එම දෙපාර්තමේන්තුවේ සේරුවිල අඩවි කාර්යාලයේ වනජීවී අඩවි ආරක්ෂක ඒ.එම්.සී.මධුරංග මහතා පැවසීය.
-
-වයස අවුරුදු 30 පමණ පිරිමි සතෙකු වන මෙම අලියා සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය පැවැත්වීම සඳහා ගිරිතලේ පිහිටි වනජීවී පශු  වෛද්‍ය ඒකකයට දැනුම් දී ඇති බව අඩවි ආරක්ෂක වැඩිදුරටත් කීහ .
-
-◼️
-
-[Data](articles/3650c780.json)
-
----
-
-### Sri Lanka Plantations Association say Trump tariffs will hurt tea, rubber farms
-
-*2025-07-28 11:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-association-say-trump-tariffs-will-hurt-tea-rubber-farms-233084/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Planters’ Association made up of managers of commercial farming sector says tea a a proposed Trump tariff will hurt tea and rubber farms particularly as Vietnam and Indonesia has negotiated better terms.
-
-The US has allowed its citizens to buy Sri Lanka tea at zero taxes, before the 30 percent tax was proposed.
-
-Meanwhile the Planter’s Association said the US imported 6.4 million kilos of Ceylon tea in 2024 up 22 percent in volume and 11 percent.
-
-About 65 percent were value added teas which were packaged blended, flavored and instant teas.
-
-Former Chairman of Tea Exporters Association, Ganesh Deivanayagam said the average FOB price of tea exported to the US was around 7 dollar per kilo, higher than the national average price of 5.83 dollars in 2024, showing a premium position of Ceylon Tea in the country.
-
-...
-
-[Data](articles/09a6e085.json)
-
----
-
-### Hearing of case against Yoshitha and his grandmother postponed to September
-
-*2025-07-28 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110905/hearing-of-case-against-yoshitha-and-his-grandmother-postponed-to-september-) · `en`
-
-The Colombo High Court has ordered that the case filed by the Attorney General against Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, and his grandmother, Daisy Forrest, over the alleged unlawful acquisition of assets worth approximately Rs. 73 million, be recalled on September 22, Ada Derana reporter said.
-
-The case was taken up today (28) before Colombo High Court Judge Sahan Mapa Bandara.
-
-President’s Counsel Sampath Mendis, appearing on behalf of Yoshitha Rajapaksa, informed court that a forensic audit report had been submitted as evidence in this case. He requested court permission to access and examine 26 compact discs (CDs) containing emails, eight pen drives, one hard drive, one laptop, and a CPU, which were used in the preparation of the audit report.
-
-The state counsel noted that the prosecution had no objection to the request.
-
-Accordingly, the case was scheduled to be recalled on September 22.
-
-...
-
-[Data](articles/3b602ed0.json)
-
----
-
-### කහවත්තේ ඝාතනයට ජීප් රියේ ගිය දෙදෙනා බාර වෙයි
-
-*2025-07-28 11:04:01* · [`adalk`](https://www.ada.lk/breaking_news/කහවත්තේ-ඝාතනයට-ජීප්-රියේ-ගිය-දෙදෙනා-බාර-වෙයි/11-417549) · `si`
-
-කහවත්ත බුංගිරිය ප්‍රදේශයේ නිවසකින් තරුණයන් දෙදෙනකු පැහැර ගෙන ගොස් එක් තරුණයෙක් ඝාතනය කළ සිද්ධිය සම්බන්ධයෙන් පොලීසියට අවශ්‍යව සිටි දෙදෙනකු නීතිඥවරුන් දෙදෙනෙක් මාර්ගයෙන් 27දා සවස පොලීසියට බාර විය.
-
-මෙසේ බාරවී ඇත්තේ පන්නිපිටිය බිරාහක්මණගම ලිපිනයේ පදිංචි දෙදෙනෙකි. ඔවුන් 31 සහ 32 වියේ පසුවන්නන් වේ. පසුගිය ජූනි  මස 30දා රාත්‍රි සිදුවූ සිද්ධිය සම්බන්ධයෙන් මොවුන් සැකකරනු ලබයි .
-
-සමන්ත  සුදේශ්ප්‍රිය සහ භාතිය කුරුප්පු ආරච්චි යන නීතිඥවරු මාර්ගයෙන් රත්නපුර කොට්ඨාස විමර්ශන අංශය ට බාරවිය.
-
-තරුණයන් දෙදෙනකු පැහැර ගෙන ගිය සහ එක් තරුණයෙක් ඝාතනය කිරීමේ සිද්ධියේ ජීප්  රථයෙන් ගමන් කර ඇත්තේ මොවුන් දෙදෙනා බවටසැකකෙරේ. මෙම සිද්ධිය සම්බන්ධ අධිකරණ කටයුතු පැල්මඩුල්ල මහේස්ත්‍රාත් අධිකරණයේ සිදුකෙරේ.
-
-◼️
-
-[Data](articles/248536cc.json)
-
----
-
-### මර්වින් ට එරෙහිව අල්ලස් කොමිසම ගොනුකළ නඩුවට දිනදෙයි
-
-*2025-07-28 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212719) · `si`
-
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කළ අවදියේ අයථා ලෙස වත්කම් අත්පත් කරගත් බවට චෝදනා ලබා සිටින හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව සැප්තැම්බර් මස 24 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
-
-මෙම නඩුව අද (28) කොළඹ මහාධිකරණ විනිසුරු සහන් මාපා බණ්ඩාර මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී දෙපාර්ශ්වයේ නීතිඥවරු අධිකරණයේ ඉල්ලා සිටියේ මෙම නඩුව පූර්ණ නඩු විභාග සම්මන්ත්‍රණය සඳහා යොමු කරන ලෙසටය.
-
-ඒ අනුව මෙම නඩුව පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා සැප්තැම්බර් මස 24 වනදා කැඳවන ලෙසත් නියම කර ඇත.
-
-2010 වසරේ සිට 2012 වසර දක්වා කාල සීමාව තුළ අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් සිය නීත්‍යානුකූල ආදායම අභිබවා රුපියල් මිලියන 150 කට ආසන්න වටිනාකමකින් යුත් දේපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ වරදක් සිදු කළ බවට චෝදනා කරමින් අල්ලස් කොමිසම විසින් මෙම නඩුව ගොනු කර තිබේ.
-
-◼️
-
-[Data](articles/bc7873d6.json)
-
----
-
-### குழந்தைகளை கொல்லும் இஸ்ரேலிய படையினர் இலங்கைக்கு வருவதற்கு இலவச வீசாவா? கொழும்பில் இன்று ஆர்ப்பாட்டம்
-
-*2025-07-28 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/221131) · `ta`
-
-இஸ்ரேலிய படையினர் இலங்கைக்கு விஜயம் மேற்கொள்வதற்கு அவர்களிற்கு இலவச வீசாவை  வழங்குவது குறித்து அரசாங்கம் ஆராய்ந்துவருவதாக தெரிவித்துள்ள சுதந்திர பாலஸ்தீன இயக்கம் இதற்கு எதிராக இன்று வெளிவிவகார அமைச்சின் முன்னால் மாலை நான்கு மணிக்கு ஆர்ப்பாட்டமொன்றில் ஈடுபடவுள்ளது.
-
-காசாவில் அப்பாவி சிறுவர்கள் மீது குண்டுவீசி ,சுட்டுக்கொலை செய்த இஸ்ரேலிய இராணுவீரர்களிற்கு இலங்கைக்கு விஜயம் மேற்கொள்வதற்கு இலவசவீசாவை வழங்கும் திட்டமொன்றை முன்னெடுப்பது குறித்து அரசாங்கம் ஆராய்ந்துவருகின்றது.
-
-இலங்கை அரசாங்கம் சுற்றுலாத்துறையின் அபிவிருத்திக்காக இதனை செய்வதாக தெரிவித்தாலும் அது ஒரு பொய்
-
-இந்த இஸ்ரேலிய படைவீராகள் மிகவும் ஆபத்தான மனோநிலையில் உள்ளனர்.அவர்களின் மதிப்பு மிக்க குணங்களான சுற்றுலாவிற்கு செல்லும் நாடுகளில் சுற்றுலாப்பயணிகள் மற்றும் உள்நாட்டவர்களிற்கு அச்சுறுத்தல் விடுக்கும் குணங்கள் குறித்து உலகின் பல பகுதிகளில் இருந்து தகவல்கள் வெளியாகியுள்ளன.
-
-...
-
-[Data](articles/ced777ae.json)
-
----
-
-### வேன் டயர் வெடித்ததில் இருவர் மரணம்
-
-*2025-07-28 10:55:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேன்-டயர்-வெடித்ததில்-இருவர்-மரணம்/175-361874) · `ta`
-
-தெற்கு அதிவேக நெடுஞ்சாலையின் அங்குனுகொலபெலஸ்ஸ 175 கி.மீ கட்டை அருகில் ஞாயிற்றுக்கிழமை (27) மாலை 5.30 மணியளவில் பயணித்த வேன்   டயர் வெடித்து விபத்துக்குள்ளானதில் இருவர் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
-
-வெலிகம , தெனிபிட்டிய மற்றும் வரகாபிட்டிய பகுதிகளைச் சேர்ந்த 40 , 60 வயதுடைய  நிலுகா மற்றும் ஞானவதி என்ற இரண்டு பெண்கள் விபத்தில் உயிரிழந்தனர்.
-
-மேலும் விபத்தில் காயமடைந்த நால்வர் அங்குணகொலபெலஸ்ஸ பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் மேலதிக சிகிச்சைக்காக ஹம்பாந்தோட்டை பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
-
-விபத்து தொடர்பாக அங்குணகொலபெலஸ்ஸ அதிவேக நெடுஞ்சாலை சோதனைச் சாவடியில் உள்ள பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/4dc08c30.json)
-
----
-
-### Sri Lanka president in the Maldives to sign bilateral agreements
-
-*2025-07-28 10:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-the-maldives-to-sign-bilateral-agreements-233057/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will sign several agreements while on a 3-day state visit to neighbouring Maldives, he said.
-
-“Just landed in the Maldives! Ready to engage in meaningful discussions with President @MMuizzu and other leaders to strengthen our collaboration. We will also sign several MoUs that will enhance cooperation between Sri Lanka and the Maldives!” Dissanayake said on social media.
-
-Dissanayake landed on the archipelago on Monday commencing his visit at the invitation of the President Mohamed Muizzu.
-
-The visit “will include bilateral discussions between President Dissanayake and President Muizzu, as well as meetings with other senior Maldivian officials” his media division said.
-
-Dissanayake will also address a business forum organised by the Sri Lankan High Commission in the Maldives and engage with members of the Sri Lankan community residing there.
-
-...
-
-[Data](articles/6cd4fe05.json)
-
----
-
-### බස්නාහිර පළාත තුළ සහ අධිවේගී මාර්ග වල අද සිට Govpay හරහා ස්ථානීය දඩ ගෙවීමට අවස්ථාව
-
-*2025-07-28 10:51:43* · [`adalk`](https://www.ada.lk/technology/බස්නාහිර-පළාත-තුළ-සහ-අධිවේගී-මාර්ග-වල-අද-සිට-Govpay-හරහා-ස්ථානීය-දඩ-ගෙවීමට-අවස්ථාව/5-417548) · `si`
-
-බස්නාහිර පළාත තුළ සහ අධිවේගී මාර්ගවල අද (28දා) සිට Govpay හරහා ස්ථානීය දඩ අය කරගැනීමේ ක්‍රමවේදය ක්‍රියාත්මක කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක මහතා  පැවසීය.
-
-මේ සම්බන්ධයෙන් දැනුවත් කිරීමේ මාධ්‍ය හමුවකට එක්වෙමින්  ඔහු මේ බව කියා සිටියේය.
-
-“අද දිනයේදී බස්නාහිර පළාතේ රථ වාහන පොලීසියේ පොලිස් නිලධාරීන් 1,000කට දුරකතන ලබා දෙන්න. ඒ අනුව පුළුවන්කම ලැබෙනවා බස්නාහිර පළාත තුළ මාර්ග වැරැද්දක් කළොත් ඒ වැරැද්දේ ප්‍රමාණයට අනුව ඡංගම දුරකතනය හරහා එවෙලෙම දඩය ගෙවන්න පුළුවන්. අධිවේගී මාර්ග වලටත් අද සිට පුළුවන්. ”
-
-◼️
-
-[Data](articles/8b191c85.json)
-
----
-
-### යෝෂිතගේ සහ ඩේසි ආච්චිගේ නඩුවකට  දිනදෙයි
-
-*2025-07-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212718) · `si`
-
-රුපියල් මිලියන 73කට ආසන්න වත්කම් අයථා ලෙස උපයාගැනීම සම්බන්ධයෙන් චෝදනා ලබා සිටින හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පුත් යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තනිය වන ඩේසි ෆොරස්ට් යන අයට නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවක් යළි සැප්තැම්බර් මස 22 වෙනිදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
-
-මෙම නඩුව අද (28) කොළඹ මහාධිකරණ විනිසුරු සහන් මාපා බණ්ඩාර මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී යෝෂිත රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුවේ සාක්ෂියක් ලෙස වෝහාරික විගණන වාර්තාවක් ඉදිරිපත් කර ඇති අතර එම විගණන වාර්තාව සකස් කිරීම සඳහා ඊමේල් පණිවුඩ අඩංගු සීඩී තැටි 26ක්, පෙන්ඩ්‍රයිව් 08ක්, හාඩ්ඩ්‍රයිව් 1ක්, ලැප්ටොප් 1ක් සහ CPU එකක් සම්බන්ධයෙන් ප්‍රවේශ වී පරීක්ෂා කිරීමට අවසර ලබාදෙන ලෙස ඉල්ලා සිටියේය.
-
-ඒ අනුව අදාළ පැමිණිල්ල නැවතත් සැප්තැම්බර් මස 22 වෙනිදා කැඳවීමට දින නියම වුණි.
-
-...
-
-[Data](articles/8e8f77db.json)
-
----
-
-### නොරොච්චෝලෙට අවශ්‍ය තරම් ගල් අඟුරු තිබෙනවා
-
-*2025-07-28 10:46:58* · [`adalk`](https://www.ada.lk/breaking_news/නොරොච්චෝලෙට-අවශ්‍ය-තරම්-ගල්-අඟුරු-තිබෙනවා/11-417547) · `si`
-
-මේ වන විට නොරොච්චෝලේ ගල් අඟුරු බලාගාරයට අවශ්‍ය 2025/26 ගල් අඟුරු වාරය සම්බන්ධයෙන් විවිධ අසත්‍ය හා නොමග යවන සුළු පුවත් විවිධ මාධ්‍යවල පළවන බව නිරීක්ෂණය වී ඇතැයි ලංකා ගල්අඟුරු සමාගම නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-නොරොච්චෝල ගල් අඟුරු බලාගාරය සඳහා 2025 සැප්තැම්බර් මස අවසානය දක්වා අවශ්‍ය ගල් අඟුරු තොග ප්‍රමාණවත් ලෙස තිබෙන බවත් වර්තමාන සැපයුම් කොන්ත්‍රාත්තුව යටතේ තවත් ගල් අඟුරු මෙට්‍රික් ටොන් 840,000 ක් සැප්තැම්බර් මස සිට දෙසැම්බර් මස මුල දක්වා සැපයීමට නියමිත බවද සමාගම නිවේදනය කරයි.
-
-එසේම ඉදිරි වසර සඳහා අවශ්‍ය ගල් අඟුරු සැපයුම් සඳහා වන ප්‍රසම්පාදන කටයුතු මේ වන විට ආරම්භ කර ඇති බවද සමාගම පවසයි.
-
-සෑම වසරකම පවතින නිරිතදිග මෝසම් වර්ෂාව හේතුවෙන් ගල් අඟුරු සැපයුම සාමාන්‍යයෙන් සැප්තැම්බර් සිට ඊළඟ වසරේ අප්‍රේල් තෙක් පමණක් සිදු වන බවත් එම නිසා, ඉදිරි ගල් අඟුරු වාරය සඳහා ගල් අඟුරු සැපයුම සම්බන්ධයෙන් කිසිඳු අවදානමක් මේ වන විට නොපවතින බව වගකීමෙන් සහ පැහැදිලිව ප්‍රකාශ කර සිටින බවත් සමාගම නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
-
-◼️
-
-[Data](articles/b3840d1f.json)
-
----
-
-### இஸ்ரேலிய படையினரால் தடுத்துவைக்கப்பட்டுள்ள காசா மருத்துவர்களின் எண்ணிக்கை அதிகரிக்கின்றது - பெருமளவு சுகாதார பணியாளர்களும் சிறைகளில்
-
-*2025-07-28 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/221129) · `ta`
-
-காசாவை சேர்ந்த 28 மருத்துவர்கள் இஸ்ரேலிய சிறைச்சாலைகளில் தடுத்துவைக்கப்பட்டுள்ளனர் என தெரிவித்துள்ள பாலஸ்தீனத்தை சேர்ந்த சுகாதார பணியாளர்கள் கண்காணிப்பு அமைப்பு  அவர்களில் எட்டு பேர் அறுவை சிகிச்சை எலும்பியல் சிகிச்சை தீவிரசிகிச்சை குழந்தைநோயியல் மருத்துவம் இருதயவியல் போன்றவற்றில் நீண்டகால அனுபவம்மிக்க மருத்துவ ஆலோசகர்களாக பணியாற்றியவர்கள் என தெரிவித்துள்ளது.
-
-இவர்களில் 21 பேர் 400நாட்களிற்கு மேலாக தடுத்துவைக்கப்பட்டுள்ளனர்  என தெரிவித்துள்ள சுகாதார பணியாளர்கள் கண்காணிப்பு அமைப்பு  ஜூலைமாதத்தின் பின்னர் மூன்று மருத்துவசுகாதார பணியாளர்களை இஸ்ரேல் கைதுசெய்துள்ளது என தெரிவித்துள்ளது.
-
-கைதுசெய்யப்பட்டுள்ளவர்களிற்கு எதிராக இஸ்ரேல் இதுவரை எந்தவொரு குற்றச்சாட்டையும் சுமத்தவில்லை என பாலஸ்தீன அமைப்பு தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/20237253.json)
 
 ---

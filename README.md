@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 13:32:18**
+As of **2025-07-28 13:51:43**
 
 ## Newspaper Stats
 
-*Scraped **67,222** Articles*
+*Scraped **67,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,448
+adalk | 6,449
 adaderanalk | 8,263
 tamilmirrorlk | 9,727
 virakesarilk | 11,205
-adaderanasinhalalk | 11,551
+adaderanasinhalalk | 11,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,222 articles have been extended.
+61,973 (92.2%) of 67,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### බොරැල්ලේ මාරක අනතුර - දොඹකරයේ රියදුරු ගංජා මත්ද්‍රව්‍ය පානය කර සිටි බව හෙළිවෙයි
+
+*2025-07-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212727) · `si`
+
+අද (28) උදෑසන බොරැල්ල, කනත්ත හන්දියේ සිදුවු මාරක අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් දොඹකරයේ රියදුරු ගංජා මත්ද්‍රව්‍ය පානය කර සිට ඇතැයි තහවුරු වී තිබේ.
+
+අදාළ පුද්ගලයා සම්බන්ධයෙන් සිදුකළ වෛද්‍ය පරීක්ෂණයේ දී මේ බව අනාවරණය වී ඇත.
+
+අද (28) උදෑසන බොරැල්ල, කනත්ත හන්දියේ දී සිදුවු මාරක අනතුරින් තුවාල ලැබු පුද්ගලයින් 7 දෙනෙකු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+පොලීසිය පැවසුවේ, අනතුරින් තුවාල ලැබූ එක් අයෙක් රෝහල් ගත කිරීමේදී මියගොස් සිටි බව කොළඹ ජාතික රෝහලේ, නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැවසීය.
+
+තුවාලකරුවන් අතරින් දෙදෙනෙකු කාන්තාවන් වන බවත්, ඉතිරි පස්දෙනාම පිරිමි පුද්ගලයින් වන බව ද වෛද්‍යවරයා කියා සිටියේය.
+
+අද උදෑසන රාජගිරිය දෙස සිට බෞද්ධාලෝක මාවත දෙසට ධාවනය වෙමින් තිබූ දොඹකරයක්, කනත්ත වටරවුමේ මාර්ග සංඥා අසල නවතා තිබූ යතුරු පැදි 6ක සහ මෝටර් රථ 3ක් ගැටී අනතුර සිදුව තිබුණි.
+
+අනතුර සිදුකළ දොඹකරයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, දොඹකරයේ තිරිංග අක්‍රීය වීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැක පළ කළේය.
+
+◼️
+
+[Data](articles/2c97e845.json)
+
+---
 
 ### 2025 පළමු මාස හයේ අපනයන ආදායම ඩොලර් බිලියන 8.3 ඉක්මවයි
 
@@ -51,6 +75,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/103859a2.json)
+
+---
+
+### ඌව පළාත් නව ප්‍රධාන ලේකම් පත් කෙරේ
+
+*2025-07-28 12:53:04* · [`adalk`](https://www.ada.lk/breaking_news/ඌව-පළාත්-නව-ප්‍රධාන-ලේකම්-පත්-කෙරේ/11-417552) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි ඌව පළාත් ප්‍රධාන ලේකම් ලෙස පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය පත් කරනු ලැබ තිබේ.
+
+ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම මහත්මිය වෙත භාර දුන්නේය.
+
+ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරිනියක වන පී.ඒ.ජී. ප්‍රනාන්දු මහත්මිය, මෙම පත්කිරීමට පෙර, බස්නාහිර පළාත් අධ්‍යාපන, සංස්කෘතික හා කලා කටයුතු, ක්‍රීඩා හා යෞවන කටයුතු සහ තොරතුරු තාක්ෂණය පිළිබඳ අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළාය.
+
+◼️
+
+[Data](articles/a3a65d0d.json)
 
 ---
 
@@ -1765,35 +1805,5 @@ The gathering he addressed had many outstanding people in the field of finance a
 ...
 
 [Data](articles/7dc594a3.json)
-
----
-
-### Who protects the vulnerable? Reframing role of Police in preventing gendered harassment in Sri Lanka
-
-*2025-07-28 01:32:23* · [`dailyftlk`](https://www.ft.lk/opinion/Who-protects-the-vulnerable-Reframing-role-of-Police-in-preventing-gendered-harassment-in-Sri-Lanka/14-779530) · `en`
-
-Women, children, and vulnerable families are not statistics waiting for a crisis to unfold
-
-In Sri Lanka, the word protection carries weight. It is a promise embedded in the mandate of State institutions, especially the Police. It is a word that should evoke safety, trust, and accountability. Yet, for many women and children, especially in vulnerable domestic contexts, protection remains an unfulfilled expectation, marked by inaction, bias, and systemic disregard. This raises urgent questions about the role of the Police and women’s units in addressing, preventing, and responding to gendered harassment in its early forms.
-
-...
-
-[Data](articles/9ae2e561.json)
-
----
-
-### Maldives history:  From Sri Lankan Prince to first King
-
-*2025-07-28 01:30:54* · [`dailyftlk`](https://www.ft.lk/columns/Maldives-history-From-Sri-Lankan-Prince-to-first-King/4-779528) · `en`
-
-Luxury safari boats – each boat has 6 to 12 rooms (floating hotels)
-
-King Mahaabarana Adeettiya (Koimala) was the first ruler to govern the entire Maldives from 1117 to 1141 (24 years). Before him, earlier rulers only controlled specific parts of the Maldives or what was known as Deeva Maari (and Dheeva Mahal) at that time.
-
-Koimala is believed to be a Sinhalese prince of royal lineage from Ceylon. Legend has it that he married the daughter of the king of Ceylon and embarked on a journey with her in two vessels. Upon reaching the Maldives, they encountered calm seas and decided to rest in Northern Maalhosmadulhu Atoll. The king and his entourage settled at Rasgetheemu Island (meaning the King’s Island), while the queen and her servants stayed at Angolhitheem Island (meaning the Queen’s Island or island of servants) in the same atoll.
-
-...
-
-[Data](articles/6f939242.json)
 
 ---

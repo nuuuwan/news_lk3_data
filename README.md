@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 08:33:50**
+As of **2025-07-28 09:18:24**
 
 ## Newspaper Stats
 
-*Scraped **67,154** Articles*
+*Scraped **67,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
 adalk | 6,436
-adaderanalk | 8,249
-tamilmirrorlk | 9,706
+adaderanalk | 8,253
+tamilmirrorlk | 9,708
 virakesarilk | 11,202
-adaderanasinhalalk | 11,538
+adaderanasinhalalk | 11,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.3%) of 67,154 articles have been extended.
+61,973 (92.3%) of 67,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### மாலைத்தீவு சென்றார் ஜனாதிபதி
+
+*2025-07-28 08:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைத்தீவு-சென்றார்-ஜனாதிபதி/175-361866) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க மாலைத்தீவுக்கான உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இன்று காலை நாட்டிலிருந்து புறப்பட்டுச் சென்றுள்ளார்.
+
+மாலைதீவு ஜனாதிபதி முகமது முய்சுவின் அழைப்பின்பேரில் சென்ற ஜனாதிபதி எதிர்வரும் 30ஆம் திகதி வரை அங்கு தங்கியிருப்பாரென ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இந்த விஜயத்தின் போது இருநாட்டு தலைவர்களும் இருதரப்பு பேச்சுவார்த்தைகளில் ஈடுபடவுள்ளதுடன் இரு தரப்பினதும் பரஸ்பர ஒத்துழைப்பை மேலும் வலுப்படுத்துவதற்காக சில புரிந்துணர்வு ஒப்பந்தங்களும் ஏற்படுத்திக்கொள்ளப்படவுள்ளன. R
+
+◼️
+
+[Data](articles/7fce0ff1.json)
+
+---
+
+### මන්ත්‍රී තාරකගේ නිවසට වෙඩි තැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+
+*2025-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212715) · `si`
+
+වැලිගම ප්‍රාදේශීය සභා ජාතික ජන බලවේගයේ මන්ත්‍රී තාරක නානායක්කාරගේ නිවසට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ 33 හැවිරිදි සැකකරු මාතර ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බවයි.
+
+◼️
+
+[Data](articles/3c3cbd09.json)
+
+---
+
+### ஸ்டாலின், விஜய் வீடுகளுக்கு வெடிகுண்டு மிரட்டல்
+
+*2025-07-28 08:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டாலின்-விஜய்-வீடுகளுக்கு-வெடிகுண்டு-மிரட்டல்/175-361865) · `ta`
+
+ஒரே நேரத்​தில் தமிழ் நாடு முதல்​வர் ஸ்​டா​லின், நடிகர் விஜய் மற்​றும் அண்ணா பல்​கலைக்​கழகம் மற்​றும் விமான நிலையத்துக்கு வெடிகுண்டு மிரட்​டல் விடுக்​கப்​பட்​டது. சோதனை​யில் வெடிகுண்டு மிரட்​டல் வெறும் புரளி என தெரிய​வந்​தது.
+
+சென்னை எழும்​பூரில் செயல்​பட்டு வரும் மாநில பொலிஸ் கட்டுப்​பாட்டு அறைக்கு நேற்று அதி​காலை வந்த தொலைபேசி அழைப்பில் , எதிர்முனையில் பேசிய நபர் ‘முதல்​வர் வீட்​டுக்கு வெடிகுண்டு வைத்​துள்​ளேன். அது சற்று நேரத்​தில் வெடித்து சிதறும். முடிந்​தால் தடுத்துப் பாருங்​கள்’ எனக் கூறி இணைப்பை துண்​டித்​தார்.
+
+இதைக் கேட்டு அதிர்ச்சி அடைந்த கட்​டுப்​பாட்டு அறை பொலிஸார் உடனடி​யாக உயர் பொலிஸ் அதி​காரி​களுக்கு தகவல் தெரிவித்​தனர். இதையடுத்​து, தேனாம்​பேட்டை பொலிஸார் , வெடிகுண்​டு​களை கண்​டறிந்து அகற்​றும் நிபுணர்​கள் மற்​றும் மோப்ப நாயுடன் ஆழ்​வார்​பேட்டை சித்​தரஞ்​சன் வீதி​யில் உள்ள முதல்​வர் மு.க.ஸ்​டா​லின் வீடு மற்​றும் வீட்டு வளாகம் முழுவதும்  மெட்​டல் டிடெக்​டர் கருவி மூலம் சோதித்து பார்த்​தனர்.
+
+...
+
+[Data](articles/43aaa2fe.json)
+
+---
+
+### බොරැල්ලේ මාරක අනතුරක් - අයෙක් මරුට - 5කට වැඩි පිරිසකට තුවාල
+
+*2025-07-28 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212714) · `si`
+
+බොරැල්ල, කනත්ත හන්දිය ප්‍රදේශයේ දී අද (28) උදෑසන සිදු වූ මාරක රිය අනතුරකින් පුද්ගලයෙකු මියගොස් පුද්ගලයින් පස්‍දෙනෙකුට වැඩි පිරිසක් තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+තිරිංග නිසිලෙස ක්‍රියාත්මක නොවූ දොඹකරය තවත් වාහන කිහිපයක ගැටී මෙම අනතුර සිදුව තිබුණි.
+
+අනතුරින් තුවාල ලැබූ පිරිස මේ වනවිට කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/04251624.json)
+
+---
+
+### 18-year-old dies following assault in Matale
+
+*2025-07-28 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110896/18-year-old-dies-following-assault-in-matale) · `en`
+
+An 18-year-old youth has died following an assault that escalated after an argument between two groups at a residence in the Palapathwela area of Matale.
+
+On July 27, the deceased, along with three others, had arrived at the suspect’s house and started an argument with the suspect and the residents.
+
+The ongoing investigation has revealed that as the argument escalated, the suspect attacked the deceased in the neck with a sharp weapon and also inflicted cuts on another person.
+
+The injured have been admitted to Matale Hospital, but one person succumbed to his injuries after being admitted.
+
+The suspect involved in the crime has been arrested, and the Matale Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/4cad7018.json)
+
+---
 
 ### வயோதிபர் சடலமாக மீட்பு
 
@@ -50,6 +132,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### President Dissanayake leaves for official visit to Maldives
+
+*2025-07-28 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110895/president-dissanayake-leaves-for-official-visit-to-maldives) · `en`
+
+President Anura Kumara Dissanayake has left the island short while ago, to embark on a three-day official visit to Maldives from July 28 to 30, 2025.
+
+This visit is being undertaken at the invitation of Maldivian President Mohamed Muizzu.
+
+During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation, the Ministry of Foreign Affairs said in a statement.
+
+The State Visit is also significant as Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year, it said.
+
+During his stay, the President is also scheduled to address a business forum and meet with members of the Sri Lankan expatriate community, the statement added.
+
+President Dissanayake will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, along with senior government officials.
+
+◼️
+
+[Data](articles/ed6f373c.json)
+
+---
+
 ### ජනපති දිවයිනෙන් පිටව යයි
 
 *2025-07-28 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212713) · `si`
@@ -63,6 +167,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/30808c4d.json)
+
+---
+
+### President Dissanayake to leave for Maldives today
+
+*2025-07-28 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110894/president-dissanayake-to-leave-for-maldives-today) · `en`
+
+President Anura Kumara Dissanayake is scheduled to depart for Maldives today (July 28), on a state visit at the invitation of the Maldivian President Mohamed Muizzu.
+
+The President is expected to return to Sri Lanka on July 30, 2025.
+
+During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation, the Ministry of Foreign Affairs said in a statement.
+
+The State Visit is also significant as Sri Lanka and the Maldives commemorate the 60th anniversary of the establishment of formal diplomatic relations this year, it said.
+
+During his stay, the President is also scheduled to address a business forum and meet with members of the Sri Lankan expatriate community, the statement added.
+
+President Dissanayake will be accompanied by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, along with senior government officials.
+
+◼️
+
+[Data](articles/8d298c0b.json)
+
+---
+
+### BBC uncovers lasting toxic legacy of cargo ship disaster off Sri Lanka
+
+*2025-07-28 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/110893/bbc-uncovers-lasting-toxic-legacy-of-cargo-ship-disaster-off-sri-lanka) · `en`
+
+Four years after a stricken cargo ship caused the largest plastic spill ever recorded, volunteers on Sri Lanka’s beaches are still sifting kilograms of tiny, toxic plastic pellets from the sand.
+
+Billions of plastic nurdles, as they are called, are thought to have washed up after the X-Press Pearl disaster in 2021, along with tonnes of engine fuel, acid, caustic soda, lead, copper slag, lithium batteries and epoxy resin - all toxic to aquatic life.
+
+The immediate damage was obvious: the nurdles inundated the shoreline, turning it white, while dead turtles, dolphins and fish began washing up.
+
+But scientists are now flagging fears the damage to the environment could be much more enduring than previously thought.
+
+So far, hundreds of millions of nurdles may have been cleared away - but the remaining, lentil-sized microplastic granules have become increasingly difficult to find as they disappear deeper into the sand.
+
+...
+
+[Data](articles/9459a635.json)
 
 ---
 
@@ -162,11 +308,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-28 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212708) · `si`
 
-අමෙරිකා එක්සත් ජනපදය සහ යුරෝපා සංගමය වෙළෙඳ ගිවිසුමකට එළඹ තිබේ.
+යුරෝපා සංගම් ප්‍රධානියා සහ ජනාධිපති ට්‍රම්ප් අතර ස්කොට්ලන්තයේ දී පැවති පැවති හමුවකින් පසුව මෙලෙස ගිවිසුමකට එළඹ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-ස්කොට්ලන්තයේ පැවති යුරෝපා සංගම් ප්‍රධානියා සහ ජනාධිපති ට්‍රම්ප් අතර පැවති හමුවකින් පසුව මෙලෙස ගිවිසුමකට එළඹ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+ඒ අනුව, මීට පෙර යෝජනා කරන ලද 30% අනුපාතය සංශෝධනය කරමින් යුරෝපා සංගම් අපනයන සඳහා 15% ක ස්ථාවර තීරුබදු පැනවීමට නියමිත බව සඳහන් වේ.
 
-ඒ අනුව, නව ගිවිසුම යටතේ, අගෝස්තු 1 වනදා සිට බොහෝ භාණ්ඩ සඳහා මීට පෙර යෝජනා කරන ලද 30% අනුපාතය ප්‍රතිස්ථාපනය කරමින්, එක්සත් ජනපදයට කරන සියලුම යුරෝපා සංගම් අපනයන සඳහා 15% ක ස්ථාවර තීරුබදු පනවනු ලබන බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
+අගෝස්තු මස 1 වනදා සිට ගිවිසුමට අදාළ සංශෝධනය සිදුවනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
 ◼️
 
@@ -199,6 +345,20 @@ Fairly strong winds of about 40 kmph can be expected at times over Western slope
 ◼️
 
 [Data](articles/2c66de36.json)
+
+---
+
+### வவுணதீவில் மறைந்த இரா.சம்பந்தனின் ஓராண்டு நினைவு வணக்க அஞ்சலி
+
+*2025-07-28 06:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221120) · `ta`
+
+மறைந்த கட்சியின் தலைவர் இரா.சம்பந்தன் ஐயாவின் ஓராண்டு நினைவு வணக்க அஞ்சலி நிகழ்வு வவுணதீவில் இலங்கைத் தமிழ் அரசுக் கட்சி வவுணதீவுப் பிரதேச கிளையின் ஏற்பாட்டில் 27ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றது.
+
+வணக்க அஞ்சலி நிகழ்வில் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர்கள்,மட்டு மாநகர முதல்வர், பிரதிமுதல்வர், பிரதேச சபை தவிசாளர்கள், பிரதிதவிசாளர்கள், பிரதேச சபை உறுப்பினர்கள், கட்சி அங்கத்தவர்கள் என பலரும் கலந்துகொண்டு மறைந்த பெருந்தலைவருக்கு நினைவு அஞ்சலி செலுத்தினர் இதன் போது தீபச்சுடர், மலரஞ்சலி, நினைவுப்பேருரை போன்றன நிகழ்வுகள் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/1f875a8b.json)
 
 ---
 
@@ -307,20 +467,6 @@ The objective of the session was to present Maliban’s extensive product range 
 ...
 
 [Data](articles/74f5df0b.json)
-
----
-
-### வவுணதீவில் மறைந்த தலைவர் இரா.சம்பந்தனின் ஓராண்டு நினைவு வணக்க அஞ்சலி
-
-*2025-07-28 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221120) · `ta`
-
-மறைந்த எமது கட்சியின் தலைவர் இரா.சம்பந்தன் ஐயாவின் ஓராண்டு நினைவு வணக்க அஞ்சலி நிகழ்வு வவுணதீவில் இலங்கைத் தமிழ் அரசுக் கட்சி வவுணதீவுப் பிரதேச கிளையின் ஏற்பாட்டில் 27ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றது.
-
-வணக்க அஞ்சலி நிகழ்வில் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர்கள்,மட்டு மாநகர முதல்வர், பிரதிமுதல்வர், பிரதேச சபை தவிசாளர்கள், பிரதிதவிசாளர்கள், பிரதேச சபை உறுப்பினர்கள், கட்சி அங்கத்தவர்கள் என பலரும் கலந்துகொண்டு மறைந்த பெருந்தலைவருக்கு நினைவு அஞ்சலி செலுத்தினர் இதன் போது தீபச்சுடர், மலரஞ்சலி, நினைவுப்பேருரை போன்றன நிகழ்வுகள் இடம்பெற்றது.
-
-◼️
-
-[Data](articles/1f875a8b.json)
 
 ---
 
@@ -1611,149 +1757,5 @@ In 2016, he was appointed as a Court of Appeal Judge, becoming the President of 
 ◼️
 
 [Data](articles/ded16056.json)
-
----
-
-### සමලිංගික විවාහ මානව අයිතිවාසිකමක් නොවේ - කාදිනල් හිමි
-
-*2025-07-27 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212692) · `si`
-
-සමලිංගික විවාහ මානව අයිතිවාසිකමක් නොවන බවත්, ඊට ඉඩ නොදිය යුතු බවත් අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් පවසයි.
-
-බේරුවල ශාන්ත ආනා දේවස්ථානයේ පැවති ආගමික වැඩසටහනකට එක්වෙමින් උන් වහන්සේ මේ බව පැවසීය.
-
-"අද තරුණ තරුණියෝ නිසි අවබෝධයකින් තොරව තම සහකරු හෝ සහකාරිය තෝරාගැනීම සිදුකරනවා, විවාහ ජීවිතය තාවකාලික අත්දැකීමක් ලෙස සලකනවා. විවිධ දූෂිත ආකල්ප මිනිස් සමාජයට ගලාඑමින් පවතිනවා.
-
-සමලිංගික විවාහ ප්‍රචාරය කරන්නට කටයුතු කරනවා. මේක මානව අයිතිවාසිකමක්ලු ?, කොහොමද එහෙම වෙන්නේ ?, කොහොමද පිරිමි දෙන්නෙක් පවුලක් හදන්නේ ?, කොහොමද දරුවෝ ලබන්නේ ?.
-
-එදා තරුණ පිරිස් විවාහයට පෙර හමුවුණේ දෙමාපිය රැකවරණය යටතේ හෝ ඔවුන්ගේ ආශීර්වාදයෙන්. එවැනි විවාහ අද තත්ත්වයට වඩා සාර්ථක වී තිබෙනවා " යනුවෙන් පැවසීය.
-
-◼️
-
-[Data](articles/004d3449.json)
-
----
-
-### World’s No. 1 stunt kite team to feature at Derana International Kite Festival
-
-*2025-07-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110882/worlds-no-1-stunt-kite-team-to-feature-at-derana-international-kite-festival) · `en`
-
-The world’s number one stunt kite team, the Three Wind Kite Team from Wuhan, China, will take part in the Derana-Signal Colombo International Kite Festival.
-
-The Kite Festival is scheduled to take place on August 24 at Galle Face Green.
-
-The Three Wind Kite Team has also claimed the World Kite Championship title for three years consecutively.
-
-◼️
-
-[Data](articles/4ae68050.json)
-
----
-
-### World’s No. 1 stunt kite team to feature at Derana International Kite Festival
-
-*2025-07-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110882/worlds-no-1-stunt-kite-team-to-enter-derana-kite-festival) · `en`
-
-The world’s number one stunt kite team, the Three Wind Kite Team from Wuhan, China, will take part in the Derana-Signal Colombo International Kite Festival.
-
-The Kite Festival is scheduled to take place on August 24 at Galle Face Green.
-
-The Three Wind Kite Team has also claimed the World Kite Championship title for three years consecutively.
-
-◼️
-
-[Data](articles/70af374f.json)
-
----
-
-### பலத்த பாதுகாப்புக்கு மத்தியில் பாலங்களை திறந்த இளைஞர்கள்
-
-*2025-07-27 15:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலத்த-பாதுகாப்புக்கு-மத்தியில்-பாலங்களை-திறந்த-இளைஞர்கள்/76-361830) · `ta`
-
-நீண்டகாலமாக புனரமைக்கப்படாது இருந்த இரண்டும் தொங்கும் பாலங்களையும் சுய முயற்சியினால் புனரமைத்து மக்கள் பாவனைக்கு பொகவந்தலாவ எல்பட தோட்ட இளைஞர்கள் ஞாயிற்றுக்கிழமை (27) கையளித்துள்ளனர். .
-
-நோர்வூட் பிரதேச சபைக்கு சொந்தமான பொகவந்தலாவ கெர்கஸ்வோல்ட் எல்பட கீழ்பிரிவு மற்றும் மேற் பிரிவு ஆகிய தோட்ட பகுதிகளை சேர்ந்த பொதுமக்கள் மற்றும் பாடசாலை மாணவர்கள் நாளாந்தம் போக்குவரத்திற்கு  பயன்படுத்தும் கெசல்கமுவ ஒயாவை ஊடறுத்து  செல்லும் இரண்டும் தொங்கு பாலங்களே புனரமைக்கப்பட்டு திறப்பு விழா நடத்தப்பட்டுள்ளது.
-
-பாலம் அமைக்கப்பட்டுள்ள பிரதேசத்தில் உள்ள விநாயகர் ஆலயத்தில் விசேட பூஜைகள் இடம் பெற்றதன் பின்னர்  குறித்த இரண்டு தொங்கு பாலங்களும் திறந்து  வைக்கப்பட்டன.
-
-இந்த நிகழ்வில் கெர்க்கஸ்வோல்ட் தோட்ட உதவி முகாமையாளர்களான டி.எம். ஆர்.எஸ். மதுவந்த திஸாநாயக்க ,பி.எம்.ஏ.ஆக்கேஷ் சரமசிங்க, தோட்ட இளைஞர்கள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
-
-குறித்த இரண்டு பாலங்களும் நோர்வூட் பிரதேச சபைக்கு சொந்தமானது இந்த பாலம்  சுமார் நூறு வருடங்கள் பழைமைவாய்ந்தன.
-
-...
-
-[Data](articles/dde5a1bf.json)
-
----
-
-### Three-wheeler topples into canal in Dimbula Pathana
-
-*2025-07-27 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110881/three-wheeler-topples-into-canal-in-dimbula-pathana) · `en`
-
-A three-wheeler traveling from Dimbula Pathana to Hatton veered off the road and toppled into the Devon Canal, police stated.
-
-The driver of the three-wheeler sustained injuries in the incident.
-
-According to the Dimbula Pathana Police, the accident occurred due to a mechanical failure in the front wheel of the three-wheeler, which was reportedly traveling at high speed.
-
-The three-wheeler was severely damaged in the accident, police added.
-
-◼️
-
-[Data](articles/ef7469c1.json)
-
----
-
-### பேஸ்புக் களியாட்ட நிகழ்வு ; போதைப்பொருளுடன் 21 பேர் கைது
-
-*2025-07-27 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221068) · `ta`
-
-கடுவலை, வெலிவிட்ட பகுதியில் பேஸ்புக்  ஊடாக ஏற்பாடு செய்யப்பட்ட களியாட்ட நிகழ்வு ஒன்றில் வைத்து போதைப்பொருட்களுடன் 21 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய முன்னெடுக்கப்பட்ட சுற்றி வளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்களிடமிருநந்து  கஞ்சா மற்றும் போதை மாத்திரைகள் உட்பட பல சட்டவிரோத பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
-
-22 முதல் 27 வயதுக்குட்பட்ட இந்த சந்தேகநபர்கள் கடுவலை  நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
-
-◼️
-
-[Data](articles/69dee9aa.json)
-
----
-
-### තායිලන්ත හා කාම්බෝජියා ගැටුම් නැවැත්වීමටත් ට්‍රම්ප් මැදිහත්වෙයි
-
-*2025-07-27 14:42:56* · [`adalk`](https://www.ada.lk/international/තායිලන්ත-හා-කාම්බෝජියා-ගැටුම්-නැවැත්වීමටත්-ට්‍රම්ප්-මැදිහත්වෙයි/3-417529) · `si`
-
-ඇමෙරිකානු ජනපති ඩොනල්ඩ් ට්‍රම්ප් සෙනසුරාදා පැවසුවේ, කාම්බෝජයේ සහ තායිලන්තයේ නායකයින් අමතා, දේශසීමා ගැටුම්වලින් පසුව වහාම සටන් විරාමයකයට යොමුවන ලෙස ඔවුන්ට බලපෑම් කළ බවයි.
-
-තම ස්කොට්ලන්ත ගොල්ෆ් පිටි වෙත පෞද්ගලික සංචාරයක් ආරම්භ කිරීමට පෙර ජනපතිවරයා සිය සිය ටෘත් සමාජ මාධ්‍ය ගිණුමේ මේ බව සටහන් කළේය.
-
-"රටවල් දෙක වහාම හමුවී ඉක්මනින් සටන් විරාමයක් ඇති කර ගැනීමට සහ අවසානයේ සාමය ඇති කිරීමට එකඟ වී ඇත!" යනුවෙන් ඇමෙරිකානු ජනපතිවරයා පැවැසීය.
-
-සටන් විරාමයක් වෙනුවෙන් ඇමෙරිකානු ජනපතිවරයාගේ මැදිහත්වීමට රටවල් දෙක ඔහුට ස්තූති කළේය. සටන් විරාමයක් සඳහා වූ ඔහුගේ ඉල්ලීම කාම්බෝජය පිළිගෙන ඇති අතර, තායිලන්තය දෙරට අතර සංවාදයක අවශ්‍යතාවය අවධාරණය කළේය.
-
-කෙසේ වෙතත්, එක්සත් ජනපද ජනාධිපතිවරයාගේ මෙම අදහස් දැක්වීමෙන් පසුවත් ඊයේ රාත්‍රී දේශ සීමාව දිගේ ෂෙල් වෙඩි ප්‍රහාර එල්ල වූ බවයි.
-
-◼️
-
-[Data](articles/518525ee.json)
-
----
-
-### වැඩසිටිකන්ද පුදබිමේ ආරක්ෂාව ගැන පොලීසියෙන් නිවේදනයක්
-
-*2025-07-27 14:42:38* · [`adalk`](https://www.ada.lk/breaking_news/වැඩසිටිකන්ද-පුදබිමේ-ආරක්ෂාව-ගැන-පොලීසියෙන්-නිවේදනයක්/11-417528) · `si`
-
-කතරගම ඓතිහාසික වැඩසිටිකන්ද පුදබිමේ ආරක්ෂාව සම්බන්ධයෙන් පොලීසිය කරුණු පැහැදිළි කිරීමක් සිදුකර තිබේ.
-
-වැඩසිටිකන්ද පුදබිමේ ආරක්ෂාව ස්ථාපිත කර තිබූ පොලිස් මුරපොලෙහි රාජකාරි සඳහා පත් කර සිටි නිලධාරීන් ඉවත් කර ඇති බවට එම පුදබිමේ විහාරාධිපති හිමියන් ජනාධිපතිවරයා වෙත යොමු කරන ලද ලිපියක් සමාජ මාධ්‍යයේ හුවමාරු වීම සම්බන්ධව කරුණු දක්වමින් පොලීසිය මෙම පැහැදිලි කිරීම සිදු කර ඇත.
-
-එම පුවතෙහි කිසිදු සත්‍යතාවයක් නොමැති බව අදාළ පැහැදිලි කිරීම මගින් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/31a9fb4d.json)
 
 ---

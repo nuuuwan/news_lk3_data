@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 12:52:31**
+As of **2025-07-28 13:07:01**
 
 ## Newspaper Stats
 
-*Scraped **67,215** Articles*
+*Scraped **67,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,447
-adaderanalk | 8,258
+adalk | 6,448
+adaderanalk | 8,263
 tamilmirrorlk | 9,727
 virakesarilk | 11,205
 adaderanasinhalalk | 11,550
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,215 articles have been extended.
+61,973 (92.2%) of 67,221 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,6 +246,30 @@ City of Dreams Sri Lanka என்பது ஒரு அற்புதமா�
 
 ---
 
+### President Anura Kumara begins state visit to Maldives
+
+*2025-07-28 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110908/president-anura-kumara-begins-state-visit-to-maldives) · `en`
+
+President Anura Kumara Dissanayake, who left the island this morning (28), on a three-day state visit to the Maldives, landed at the Velana International Airport in Male, a short while ago.
+
+On his arrival, President Dissanayake and the Sri Lankan delegation were received by Maldivian President Mohamed Muizzu, the President’s Media Division stated.
+
+The President was then accorded a Guard of Honour by the Maldives National Defence Force.
+
+An official welcome ceremony is scheduled to take place later today.
+
+During the visit, President Dissanayake is scheduled to hold bilateral talks with President Muizzu and witness the exchange of several Memoranda of Understanding aimed at deepening mutual cooperation.
+
+The two leaders are also expected to hold discussions aimed at further strengthening bilateral ties between Sri Lanka and the Maldives.
+
+They are also due to deliver joint press statements outlining the outcomes of their discussions.
+
+...
+
+[Data](articles/104d40b3.json)
+
+---
+
 ### மாணவர்களுக்கு இனி இரண்டு இடைவேளை
 
 *2025-07-28 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இனி-இரண்டு-இடைவேளை/175-361882) · `ta`
@@ -266,6 +290,26 @@ City of Dreams Sri Lanka என்பது ஒரு அற்புதமா�
 
 ---
 
+### Pre-trial conference fixed for ex-minister Mervyn Silva’s bribery case
+
+*2025-07-28 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110907/pre-trial-conference-fixed-for-ex-minister-mervyn-silvas-bribery-case) · `en`
+
+The Colombo High Court has ordered that the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Minister Mervyn Silva, who is accused of illegally acquiring assets during his tenure as a minister, be taken up on September 24.
+
+The case was taken up today (28) before Colombo High Court Judge Sahan Mapa Bandara.
+
+During the court proceedings, attorneys representing both sides requested that the case be referred for a full trial conference.
+
+Accordingly, court has ordered that the case be called for a pre-trial conference on September 24.
+
+The Bribery Commission filed the case alleging that Mervyn Silva committed an offense under the Anti-Corruption Act by illegally acquiring property worth nearly Rs. 150 million, in excess of his lawful income, while serving as a minister between 2010 and 2012.
+
+◼️
+
+[Data](articles/ff70ca15.json)
+
+---
+
 ### புதிய கல்வி சீர்திருத்தம் குறித்து பிரதமர் கருத்து
 
 *2025-07-28 11:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-சீர்திருத்தம்-குறித்து-பிரதமர்-கருத்து/175-361881) · `ta`
@@ -279,6 +323,26 @@ City of Dreams Sri Lanka என்பது ஒரு அற்புதமா�
 ...
 
 [Data](articles/07123bd0.json)
+
+---
+
+### Railway engine drivers threaten to strike on 30 and 31 July
+
+*2025-07-28 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110906/railway-engine-drivers-threaten-to-strike-on-30-and31july) · `en`
+
+The Locomotive Operating Engineers’ Union has announced that locomotive engine drivers will launch an island-wide 48-hour token strike starting from midnight tomorrow (29), citing unresolved issues.
+
+Union representatives stated that if their concerns are not addressed within the 48-hour period, they will proceed with the planned strike action, which is expected to disrupt all train operations across the country.
+
+However, they noted that if a satisfactory solution is provided before the deadline, the strike will be called off.
+
+Chairman of the Union, K.U. Konthasinghe said the token strike would be staged on 30 and 31 July if a positive response is not received to the letter submitted to the Ministry of Transport and the Department of Railways on July 22, 2025.
+
+He emphasized that the strike will definitely proceed unless a decisive solution is offered—particularly concerning administrative issues and infrastructure challenges faced by the train driver workforce.
+
+...
+
+[Data](articles/cfb23b05.json)
 
 ---
 
@@ -369,6 +433,26 @@ Former Chairman of Tea Exporters Association, Ganesh Deivanayagam said the avera
 ...
 
 [Data](articles/09a6e085.json)
+
+---
+
+### Hearing of case against Yoshitha and his grandmother postponed to September
+
+*2025-07-28 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110905/hearing-of-case-against-yoshitha-and-his-grandmother-postponed-to-september-) · `en`
+
+The Colombo High Court has ordered that the case filed by the Attorney General against Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, and his grandmother, Daisy Forrest, over the alleged unlawful acquisition of assets worth approximately Rs. 73 million, be recalled on September 22, Ada Derana reporter said.
+
+The case was taken up today (28) before Colombo High Court Judge Sahan Mapa Bandara.
+
+President’s Counsel Sampath Mendis, appearing on behalf of Yoshitha Rajapaksa, informed court that a forensic audit report had been submitted as evidence in this case. He requested court permission to access and examine 26 compact discs (CDs) containing emails, eight pen drives, one hard drive, one laptop, and a CPU, which were used in the preparation of the audit report.
+
+The state counsel noted that the prosecution had no objection to the request.
+
+Accordingly, the case was scheduled to be recalled on September 22.
+
+...
+
+[Data](articles/3b602ed0.json)
 
 ---
 
@@ -498,6 +582,24 @@ Dissanayake will also address a business forum organised by the Sri Lankan High 
 
 ---
 
+### මහනුවර උමං මාර්ග භාවිත කිරීම අනිවාර්ය කරයි
+
+*2025-07-28 10:36:41* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-උමං-මාර්ග-භාවිත-කිරීම-අනිවාර්ය-කරයි/11-417546) · `si`
+
+පේරාදෙණිය  ශික්ෂණ රෝහල සහ ගැටඹේ රාජෝපවනාරාම විහාරය අසල ඇති උමං මාර්ගය භාවිතා කිරීම අනිවාර්ය කිරීමට පියවර ගන්නා බව ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා සඳහන් කරයි.
+
+ඒ මහතා මේ බව සඳහන් කළේ  ගැටඹේ රාජෝපවනාරාමය සහ පේරාදෙණිය ශික්ෂණ රෝහල ඉදිරිපිට ප්‍රධාන මාර්ගයේ පදික වෙළඳුන් නිසා සිදුවන අවහිරතා සම්බන්ධ කෙෂ්ත්‍ර නිරීක්ෂණයකට එක් වෙමිනි.
+
+එම ස්ථානයේ පදික වෙළඳුන් නිසා පදිකයන්ට සිදුවන අවහිරතා සම්බන්ධයෙන් පැමිණිලි රැසක් ඉදිරිපත් කොට ඇති අතර ඒ සම්බන්ධයෙන් මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී ද අවධානය යොමු වී තිබිණ.
+
+පදික වේදිකා හා උමං මාර්ගයක් පැවතුණත් පදිකයන් ප්‍රධාන මාර්ගය භාවිත කිරීම නිසා දැඩි අනාරක්ෂිත තත්ත්වයක් මතුවී ඇති බවත් මේ හේතුවෙන් මාර්ගයේ වාහන තදබදයක් මතුවන බවත් සම්බන්ධීකරණ කමිටුවේදී සාකච්ඡාවට ලක් විය.
+
+...
+
+[Data](articles/f2e878a1.json)
+
+---
+
 ### தொழிலதிபர் திலினி பிரியமாலி கைது
 
 *2025-07-28 10:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலதிபர்-திலினி-பிரியமாலி-கைது/175-361873) · `ta`
@@ -531,6 +633,28 @@ Dissanayake will also address a business forum organised by the Sri Lankan High 
 ◼️
 
 [Data](articles/d1be2a11.json)
+
+---
+
+### GovPay spot fine system launched in Western Province & on highways
+
+*2025-07-28 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110904/govpay-spot-fine-system-launched-in-western-province-on-highways) · `en`
+
+The spot fine payment system via GovPay has been implemented in the Western Province and on highways starting today (28 July).
+
+Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake, made this announcement during a press briefing held in this regard.
+
+Minister Rathnayake clarified that there has been no change in the amount of fines. Fines for 33 designated motor traffic offences can now be paid through the GovPay system, allowing individuals to make payment digitally instead of having to make payments only at post offices.
+
+He stated that necessary training has been provided to relevant officers to ensure the smooth implementation of the system.
+
+Additionally, 1,000 traffic police officers are scheduled to be issued mobile phones today to support the initiative, he added.
+
+The Minister also acknowledged the strong commitment of the Ministry of Digital Affairs, which played a key role in the swift launch of the system.
+
+...
+
+[Data](articles/909a9464.json)
 
 ---
 
@@ -652,9 +776,13 @@ United Nations humanitarian chief Tom Fletcher welcomed Israel’s decision to s
 
 *2025-07-28 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110900/thilini-priyamali-arrested) · `en`
 
-Businesswoman Thilini Priyamali, has been arrested by the Homagama police this morning (28), said Ada Derana reporter.
+Businesswoman Thilini Priyamali has been arrested by the Homagama Police today (28).
 
-She was taken into custody for allegedly obstructing the duties of an officer at the Homagama Court.
+She has been apprehended on several charges, including obstructing the duties of a fiscal officer at the Homagama Magistrate’s Court, said Ada Derana reporter.
+
+Priyamali was taken into custody after arriving at the police station in compliance with a court order requiring her to provide a statement to police.
+
+Businesswoman Thilini Priyamali, was previously arrested and remanded for allegedly committing massive financial fraud.
 
 ◼️
 
@@ -814,7 +942,7 @@ According to the Police Media Division, the Weligama Pradeshiya Saba member who 
 
 A fatal road accident occurred this morning (28 July) near the Cemetery Roundabout in Borella, resulting in the death of one person and injuries to more than five others, police said.
 
-According to police, the incident occurred when a crane truck with malfunctioning brakes collided with 07 motorcycles and 03 cars.
+According to police, the incident occurred when a crane truck with malfunctioning brakes collided with 06 motorcycles and 03 cars.
 
 The injured have been admitted to the Colombo National Hospital for treatment, said police.
 
@@ -1661,109 +1789,5 @@ Unlike active data input (like filling out a form), digital exhaust is collected
 ...
 
 [Data](articles/215f7331.json)
-
----
-
-### கில், ஜடேஜா, சுந்தர் அபார சதங்கள் குவிப்பு; இங்கிலாந்து - இந்தியா 4ஆவது டெஸ்ட் வெற்றிதோல்வியின்றி முடிவு
-
-*2025-07-28 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221114) · `ta`
-
-மென்செஸ்டர், ஓல்ட் ட்ரஃபர்ட் விளையாட்டரங்கில் நடைபெற்ற இங்கிலாந்துக்கும் இந்தியாவுக்கும் இடையிலான நான்காவது அண்டர்சன் - டெண்டுல்கர் டெஸ்ட் கிரிக்கெட் போட்டி ஞாயிறன்று (28) வெற்றிதோல்வியின்றி முடிவடைந்தது.
-
-எனினும், ஐந்து போட்டிகள் கொண்ட டெஸ்ட் தொடரில் மேலும் ஒரு போட்டி மீதம் இருக்க இங்கிலாந்து 2 - 1 என்ற ஆட்டங்கள் வித்தியாசத்தில் முன்னிலையில் இருக்கிறது.
-
-போட்டியின் நான்காம் நாளன்று இங்கிலாந்து பலமான நிலையில் இருந்தபோதிலும் கடைசி நாளன்று ஷுப்மான் கில், ரவிந்த்ர ஜடேஜா, வொஷிங்டன் சுந்தர் ஆகியோர் குவித்த சதங்கள், கே.எல். ராகுல் பெற்ற அரைச் சதம் என்பன போட்டியை வெற்றிதோல்வியின்றி முடிவடைய செய்தன.
-
-போட்டியின் கடைசி நாளான இன்றைய தினம் தனது 2ஆவது இன்னிங்ஸை 137 ஓட்டங்கள் பின்னிலையில் இருந்தவாறு 2 விக்கெட் இழப்புக்கு 174 ஓட்டங்களிலிருந்து இந்தியா  தொடர்ந்தது. இந்தியா சார்பாக 3ஆவது வீரராக வொஷிங்டன் சுந்தர் சதம் குவித்ததும் ஆட்டத்தை வெற்றிதோல்வியின்றி முடித்துக்கொள்ள இரண்டு அணியினரும் தீர்மானித்தனர்.
-
-ஆட்டம் முடிவுக்கு வந்தபோது இந்தியா 4 விக்கெட்களை இழந்து 425 ஓட்டங்களைப் பெற்றிருந்தது.
-
-...
-
-[Data](articles/d0f80e37.json)
-
----
-
-### 2025-07-27 (Sunday)
-
-### தெற்கு அதிவேக நெடுஞ்சாலையில் விபத்து : இருவர் பலி, நான்கு பேர் காயம்
-
-*2025-07-27 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221113) · `ta`
-
-தெற்கு அதிவேக நெடுஞ்சாலையில் அங்குணகொலபெலஸ்ஸவில் 175வது கிலோமீட்டர் தூண் அருகே வேன் ஒன்று எதிரே வந்த வாகனத்துடன் மோதியதில் இரண்டு பெண்கள் உயிரிழந்தனர், மேலும் நான்கு பேர் காயமடைந்தனர்.
-
-மத்தளவிலிருந்து கொழும்பு நோக்கிச் சென்ற சிறிய வேனின் பின்புற டயர் வெடித்து வாகனம் தடுப்புச் சுவரில் மோதியதில் குறித்த விபத்து நிகழ்ந்துள்ளது.
-
-விபத்து நடந்த நேரத்தில் வேனில் ஆறு பேர் இருந்தனர், காயமடைந்தவர்கள் ஹம்பாந்தோட்டை பொது வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டனர்.
-
-இறந்தவர்கள் 72 மற்றும் 44 வயதுடைய இரண்டு பெண்கள் என்று பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/be0072c7.json)
-
----
-
-### கிழக்கு மாகாணத்தின் உயர்தரப் பரீட்சையில் திறமை செலுத்திய மாணவர்களை ஜனாதிபதி நிதியம் கௌரவித்தது
-
-*2025-07-27 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221112) · `ta`
-
-ஜனாதிபதி நிதியத்தால் செயல்படுத்தப்படும் 2023/2024 க.பொ.த உயர்தரப் பரீட்சையில் மாவட்ட அளவில் முதலிடம் பெற்ற மாணவர்களை கௌரவிக்கும் கிழக்கு மாகாண நிகழ்வு ஞாயிற்றுக்கிழமை (27) மட்டக்களப்பு சுவாமி விபுலானந்த நுண்கலை பீடத்தில் சபாநாயகர் ஜகத் விக்ரமரத்ன தலைமையில் நடைபெற்றது.
-
-இந்த நிகழ்வில், 2023 மற்றும் 2024 ஆம் ஆண்டுகளுக்கான க.பொ.த உயர்தரப் பரீட்சையில் உயர் பெறுபேறுகளைப் பெற்ற அம்பாறை, மட்டக்களப்பு மற்றும் திருகோணமலை மாவட்டங்களைச் சேர்ந்த 6 பாடப் பிரிவுகளின் கீழ் உயர் பெறுபேறுகளைப் பெற்ற  10 மாணவர்கள் வீதம் 360 மாணவர்களுக்கு தலா ரூ. 100,000 ஊக்குவிப்புக் கொடுப்பனவு மற்றும் சான்றிதழ்கள் வழங்கப்பட்டன. இதற்காக ஜனாதிபதி நிதியம் 36 மில்லியன் ரூபா செலவிட்டுள்ளது.
-
-மாகாண மட்டத்தில் செயல்படுத்தப்படும் இந்தத் திட்டம் சமீபத்தில் வட மாகாணத்தில் தொடங்கப்பட்டது. அதன் இரண்டாவது திட்டம் தென் மாகாணத்திலும் மூன்றாவது திட்டம் கிழக்கு மாகாணத்திலும் செயல்படுத்தப்பட்டது. எதிர்காலத்தில் இந்தத் திட்டத்தை ஏனைய மாகாணங்களிலும் செயல்படுத்த ஜனாதிபதி நிதியம் நடவடிக்கை எடுத்து வருகிறது.
-
-...
-
-[Data](articles/41f5d610.json)
-
----
-
-### Navigating Crisis
-
-*2025-07-27 21:59:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-crisis/) · `en`
-
-“The winds and waves are always on the side of the ablest navigators.” – Edward Gibbon
-
-At a recent book launch organized by Advocata Institute, Former President Ranil Wickremesinghe made a startling statement. A substantial section of the cognoscente on economics in our land perceives him as our preeminent strategic thinker. Commenting on US Tariffs he said “US is a member of the OCC. And the US has signed on to the EFF and their time limits which means they must help us now… Otherwise they are in breach of the agreement.”
-
-“They are preventing us from repaying bondholders, the former President pointed out adding “And now we must tell the IMF…tell the bondholders to go to the U.S. and collect the money.”
-
-He hoped the current administration will succeed in getting the Trump tariff down as Sri Lanka “cannot survive with 30 percent”.
-
-The gathering he addressed had many outstanding people in the field of finance and commerce.
-
-...
-
-[Data](articles/3a8e9e3d.json)
-
----
-
-### Two women killed, 4 injured in crash on expressway
-
-*2025-07-27 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110890/two-women-killed-4-injured-in-crash-on-expressway) · `en`
-
-Two females have reportedly died while four others remain injured after a van crashed due to a burst tyre near the 175th Km post at Angunukolapelessa on the Southern Expressway, police said.
-
-The accident occurred when a rear tyre of a small van traveling from Mattala to Colombo suddenly burst, causing the vehicle to crash into the safety fence of the Southern Expressway.
-
-A total of six persons were reportedly travelling in the van at the time of the accident, and the injured have been immediately rushed to the Hambantota General Hospital.
-
-◼️
-
-[Data](articles/88ae3c4b.json)
-
----
-
-### Sri Lanka’s Globalisation & Its Policy Challenges, According To Dr. Sarath Rajapatirana
-
-*2025-07-27 21:49:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-globalisation-its-policy-challenges-according-to-dr-sarath-rajapatirana/) · `en`
-
-Sri Lanka had been a beneficiary of the waves of globalisation that had struck it for thousands of years. It had been open to trade, investment, transfer of knowledge, and factor mobility without hindrance. The country’s chronicle, Mahavamsa, talks about an incident that had happened in the 6th century BCE showing that the country had been visited by foreign ships laden with rice and other goods. According to the story, when Prince Vijaya landed in Thambapanni, the local princess Kuveni had hosted him and his retinue numbering 600 to a meal of rice and an assortment of gifts. According to Mahavamsa, rice for the meal and items for gifts had been procured from merchant ships that had been wreaked in the nearby seas.[1]
-
-...
-
-[Data](articles/1228deb8.json)
 
 ---

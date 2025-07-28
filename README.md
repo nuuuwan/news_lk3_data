@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 04:22:02**
+As of **2025-07-29 04:34:11**
 
 ## Newspaper Stats
 
-*Scraped **67,359** Articles*
+*Scraped **67,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 islandlk | 4,115
 economynextcom | 4,116
 dailymirrorlk | 4,733
-dailyftlk | 4,759
+dailyftlk | 4,761
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,751
@@ -26,11 +26,45 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,359 articles have been extended.
+61,973 (92.0%) of 67,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Hayleys Electronics opens smart hub in Nugegoda to drive energy and engineering services
+
+*2025-07-29 04:22:57* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Electronics-opens-smart-hub-in-Nugegoda-to-drive-energy-and-engineering-services/34-779607) · `en`
+
+HEL’s new office now open at No. 311, High Level Road, Gangodawila, Nugegoda
+
+Hayleys Electronics Ltd., (HEL), part of the Projects and Engineering Sector of Hayleys PLC and a pioneer in engineering accessories and services in Sri Lanka for over 90 years, has unveiled a purpose-built flagship centre at No. 311, High Level Road, Gangodawila, Nugegoda.
+
+The new one-stop trading hub brings together HEL’s full portfolio of solar power, smart lighting, air conditioning, and industrial infrastructure solutions under one roof, streamlining service delivery and enabling faster go-to-market capabilities.
+
+The strategic relocation comes at a time when demand for sustainable, high-performance engineering solutions is growing across the residential, commercial, and industrial sectors.
+
+...
+
+[Data](articles/a51492ba.json)
+
+---
+
+### Colombo to host Asia International Digital Economy and AI in Finance Summit 2025
+
+*2025-07-29 04:20:44* · [`dailyftlk`](https://www.ft.lk/business/Colombo-to-host-Asia-International-Digital-Economy-and-AI-in-Finance-Summit-2025/34-779606) · `en`
+
+The Asia International Digital Economy and AI in Finance Summit 2025 — featuring the Asian Digital Finance Forum and Awards — will convene global leaders on 23 October, at Port City Colombo to shape the future of inclusive, AI-driven financial systems across Asia through policy, regulation, and technological innovation.
+
+Organised by the Asian FinTech Academy (AFTA) in collaboration with the Fintech Association of Sri Lanka (FASL), and in strategic partnership with Port City Colombo, the summit highlights Colombo’s rise as a regional nexus for digital finance and AI innovation.
+
+Key global strategic partners include Tech London Advocates (TLA), Global Tech Advocates (GTA), the International Digital Economies Association (iDEA), and Wall Street Fintech AI Inc.
+
+...
+
+[Data](articles/69c5da94.json)
+
+---
 
 ### Power imbalance and corporate failure
 
@@ -1803,41 +1837,5 @@ The leaders of Thailand and Cambodia have agreed to an immediate and uncondition
 ◼️
 
 [Data](articles/1eaf1c95.json)
-
----
-
-### ගුවන්තොටුපොළ ඉතිහාසයේ විශාලම දුම්වැටි තොගය අත්අඩංගුවට
-
-*2025-07-28 15:27:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්තොටුපොළ-ඉතිහාසයේ-විශාලම-දුම්වැටි-තොගය-අත්අඩංගුවට/11-417557) · `si`
-
-රුපියල් කෝටි පහක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් , මාර්ගස්ථ ක්‍රමයට කටුනායක ගුවන් තොටුපොළ හරහා ඕස්ට්‍රේලියාවට සහ එංගලන්තයට යැවීම සදහා ගුවන් භාණ්ඩ ගම්මානය ( Cargo Village ) වෙත ගෙනැවිත් තිබියදී රේගු මධ්‍යම බුද්ධි අංශයේ නිලධාරීන් පිරිසක් විසින් අද (28) අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම දුම්වැටි තොගය කටුනායක ගුවන් තොටුපොළ ඉතිහාසයේ මෙන්ම ගුවන් භාණ්ඩ ගම්මානයේ දී  අත්අඩංගුවට ගත් විශාලතම සහ පළමු දුම්වැටි තොගය වීම විශේෂත්වයකි.
-
-මෙම දුම්වැටි තොගය ඉකුත් ජනවාරි මස 09 දින සහ 11 යන දිනවල ඩුබායි සිට එංගලන්තයේ ලන්ඩන් සහ ඕස්ට්‍රේලියාවේ සිඩ්නි සහ මෙල්බර්න් වෙත යැවීම සදහා " තුවා "  සහ " ප්ලාස්ටික් කෝප්ප " ලෙස රේගුවට ප්‍රකාශ කර කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි .
-
-රේගු ආඥා පනත අනුව මාර්ගස්ත භාණ්ඩ ශ්‍රී ලංකාව හරහා රැගෙන යන විට ඒවායේ අඩංගු ද්‍රව්‍ය නිවැරදිව රේගුවට ප්‍රකාශ කළ යුතුය .
-
-මෙහි " ටොප් ගන් "  සහ  "මැන්චෙස්ටර් " වර්ගයේ දුම්වැටි විසි දෙලක්ෂ තිස් නව දහස් හාරසීයයක් තිබුණි.
-
-...
-
-[Data](articles/7c4f3712.json)
-
----
-
-### ஜனாதிபதியும் நாமலும் ஒரே விமானத்தில் பறந்தனர்
-
-*2025-07-28 15:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியும்-நாமலும்-ஒரே-விமானத்தில்-பறந்தனர்/175-361908) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்கவும் இலங்கை பொதுஜன பெரமுன (SLPP) தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷவும்   ஒரே விமானத்தில் மாலைத்தீவுக்குச் சென்றனர்.
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க, மாலத்தீவுக்கு அரசு முறைப் பயணமாகச் சென்று கொண்டிருந்தார், அதே நேரத்தில் ராஜபக்ஷ ஒரு திருமண விழாவில் கலந்து கொள்ள அங்கு பயணம் செய்து கொண்டிருந்தார்.
-
-அவர்கள் கொழும்பிலிருந்து மாலைத்தீவுக்குச் செல்லும் ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானம் UL 101 இன் வணிக வகுப்பில் இருந்தனர்.
-
-◼️
-
-[Data](articles/778dbcb3.json)
 
 ---

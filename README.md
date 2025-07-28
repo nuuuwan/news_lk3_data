@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 01:17:31**
+As of **2025-07-29 01:31:15**
 
 ## Newspaper Stats
 
-*Scraped **67,347** Articles*
+*Scraped **67,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 690
 economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
-dailyftlk | 4,755
+dailyftlk | 4,756
 adalk | 6,465
 adaderanalk | 8,289
 tamilmirrorlk | 9,750
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,347 articles have been extended.
+61,973 (92.0%) of 67,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Sri Lanka should stop appeasing Trump
+
+*2025-07-29 01:09:40* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-should-stop-appeasing-Trump/4-779579) · `en`
+
+The Triffin dilemma, identified by economist Robert Triffin, highlights the conflict faced by a country whose currency serves as the global reserve. To meet international demand, it must supply large amounts of its currency, often through trade deficits, which can undermine confidence in its long-term value while conflicting with domestic economic priorities.
+
+The supply of US dollars to the global economy is primarily achieved through international trade, requiring the US to run persistent trade deficits. This structural necessity reflects the Triffin dilemma — a conflict between domestic economic goals and the global demand for the dollar as the world’s reserve currency.
+
+...
+
+[Data](articles/62c21780.json)
+
+---
 
 ### Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours
 
@@ -1787,23 +1801,5 @@ As per the Sri Lanka Customs Ordinance, all goods in transit must be accurately 
 ◼️
 
 [Data](articles/0515eeed.json)
-
----
-
-### U.S. trains 16 Sri Lanka Customs officers to search illicit narcotics
-
-*2025-07-28 14:44:00* · [`economynextcom`](https://economynext.com/u-s-trains-16-sri-lanka-customs-officers-to-search-illicit-narcotics-233161/) · `en`
-
-ECONOMYNEXT – The United States has funded a five-day training programme for Sri Lanka’s frontline Customs officials to search the flow of illicit narcotics though Sri Lankan territorial waters, the U.S. Embassy in Colombo said.
-
-“The U.S. and Sri Lanka are working together to stop the flow of illicit narcotics through Sri Lankan territorial waters. Last week, the U.S. funded a 5-day training for 16 of Sri Lanka’s frontline customs officers in pier side vessel search techniques,” the U.S. said in its official X-platform.
-
-“Part of @StateINL (U.S. Department of State INL)’s partnership with the @UNODC (UN Office for Drugs & Corruption) Global Maritime Crime Program, we shared international best practices in vessel search and interdiction at ports, harbor terminals, and anchorage areas to stop criminals and support successful prosecutions.”
-
-“Together we are limiting transnational crime and making the U.S., Sri Lanka, and the world safer.”
-
-...
-
-[Data](articles/837fdddb.json)
 
 ---

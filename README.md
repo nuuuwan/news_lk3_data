@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 21:06:47**
+As of **2025-07-28 21:21:57**
 
 ## Newspaper Stats
 
@@ -37,6 +37,8 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-07-28 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212746) · `si`
 
 මහනුවර-නාවලපිටිය මාර්ගයේ ගම්පොළ ප්‍රදේශයේ කර්මාන්ත ශාලාවක ගින්නක් හට ගෙන තිබේ.
+
+මහනුවර ගිනි නිවීමේ ඒකකය පැවසුවේ හට ගෙන ඇති මැඩ පැවැත්වීම සඳහා ගිනි නිවීමේ රථයක් සහ ජල බවුසයක් මේ වන විට එම ස්ථානයට යොමු කර ඇති බවය.
 
 ◼️
 

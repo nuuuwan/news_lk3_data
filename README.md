@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 14:39:55**
+As of **2025-07-28 14:55:25**
 
 ## Newspaper Stats
 
-*Scraped **67,233** Articles*
+*Scraped **67,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ economynextcom | 4,107
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,451
+adalk | 6,452
 adaderanalk | 8,267
-tamilmirrorlk | 9,728
+tamilmirrorlk | 9,730
 virakesarilk | 11,207
-adaderanasinhalalk | 11,552
+adaderanasinhalalk | 11,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,233 articles have been extended.
+61,973 (92.2%) of 67,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### தாறுமாறாக ஓடி விபத்துக்குள்ளான பஸ்: 10 பேர் துடிதுடித்து பலி
+
+*2025-07-28 14:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாறுமாறாக-ஓடி-விபத்துக்குள்ளான-பஸ்-10-பேர்-துடிதுடித்து-பலி/50-361903) · `ta`
+
+பாகிஸ்தானின் தலைநகர் இஸ்லாமாபாதிலிருந்து பஞ்சாப் மாநிலத்தின் லாகூர் நோக்கி பயணித்துக்கொண்டிருந்த ஒரு தனியார் பேருந்து, பாலகசார் என்ற பகுதியில் சென்றுக் கொண்டிருந்தபோது, அதன் முன்பக்க டயர் திடீரென வெடித்தது. இதனால் கட்டுப்பாட்டை இழந்த பேருந்து, சாலையோர பள்ளத்தில் கவிழ்ந்தது. இந்த விபத்தில் 10 பயணிகள் சம்பவ இடத்திலேயே பரிதாபமாக உயிரிழந்தனர்.
+
+மேலும், விபத்தில் பலர் படுகாயம் அடைந்தனர். அவர்களில் 30 பேர் மீட்கப்பட்டு அருகிலுள்ள மருத்துவமனையில் அனுமதிக்கபட்டு தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. பள்ளத்தில் கவிழ்ந்த பேருந்து சம்பவம், அப்பகுதி மக்களிடையே பெரும் சோகத்தையும் பதற்றத்தையும் ஏற்படுத்தியுள்ளது. பொலிஸார் மற்றும் மீட்பு பணியாளர்கள் இணைந்து மேலதிக நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/f7334747.json)
+
+---
+
+### හේමසිරිට සහ පූජිත්ට එරෙහි පාස්කු නඩුව යළි කැඳවන්න නියෝග
+
+*2025-07-28 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212728) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් සාපරාධී ලෙස රාජකාරිය පැහැර හැරීම ඇතුළු චෝදනා එල්ල වී සිටින හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත් ජයසුන්දර යන මහත්වරුන්ට එරෙහිව ගොනුකර තිබෙන නඩුව  සැප්තැම්බර් 18 වැනිදා යළි කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල නියම කළහ.
+
+◼️
+
+[Data](articles/7836be1f.json)
+
+---
+
+### மாடியில் இருந்து விழுந்த பாதுகாப்பு அதிகாரி மரணம்
+
+*2025-07-28 14:29:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-விழுந்த-பாதுகாப்பு-அதிகாரி-மரணம்/175-361902) · `ta`
+
+பாதுகாப்பு அதிகாரி ஒருவர் ஞாயிற்றுக்கிழமை (27) இரவு ஒரு கட்டிடத்தின் மேல் மாடியில் இருந்து விழுந்து உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இரண்டு மாடி கட்டிடத்தின் இரண்டாவது மாடியில் இருந்து பாதுகாப்பு அதிகாரி கீழே விழுந்ததாகவும், கட்டிடத்திற்கு அருகில் கிடந்த அவரது உடல் காலையில் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+பாதிக்கப்பட்ட தர்மசீலன் ரகுராஜ் (34) ஒரு தனியார் பாதுகாப்பு நிறுவனத்தால் பணியமர்த்தப்பட்டிருந்தார். விபத்துக்கான சூழ்நிலைகள் இன்னும் கண்டறியப்படவில்லை என்று பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b3c53823.json)
+
+---
 
 ### போதையில் தள்ளாடிய ஐந்து மாணவிகள்
 
@@ -651,6 +693,24 @@ Accordingly, the case was scheduled to be recalled on September 22.
 ...
 
 [Data](articles/3b602ed0.json)
+
+---
+
+### කහවත්තේ ඝාතනයට ජීප් රියේ ගිය දෙදෙනා බාර වෙයි
+
+*2025-07-28 11:04:01* · [`adalk`](https://www.ada.lk/breaking_news/කහවත්තේ-ඝාතනයට-ජීප්-රියේ-ගිය-දෙදෙනා-බාර-වෙයි/11-417549) · `si`
+
+කහවත්ත බුංගිරිය ප්‍රදේශයේ නිවසකින් තරුණයන් දෙදෙනකු පැහැර ගෙන ගොස් එක් තරුණයෙක් ඝාතනය කළ සිද්ධිය සම්බන්ධයෙන් පොලීසියට අවශ්‍යව සිටි දෙදෙනකු නීතිඥවරුන් දෙදෙනෙක් මාර්ගයෙන් 27දා සවස පොලීසියට බාර විය.
+
+මෙසේ බාරවී ඇත්තේ පන්නිපිටිය බිරාහක්මණගම ලිපිනයේ පදිංචි දෙදෙනෙකි. ඔවුන් 31 සහ 32 වියේ පසුවන්නන් වේ. පසුගිය ජූනි  මස 30දා රාත්‍රි සිදුවූ සිද්ධිය සම්බන්ධයෙන් මොවුන් සැකකරනු ලබයි .
+
+සමන්ත  සුදේශ්ප්‍රිය සහ භාතිය කුරුප්පු ආරච්චි යන නීතිඥවරු මාර්ගයෙන් රත්නපුර කොට්ඨාස විමර්ශන අංශය ට බාරවිය.
+
+තරුණයන් දෙදෙනකු පැහැර ගෙන ගිය සහ එක් තරුණයෙක් ඝාතනය කිරීමේ සිද්ධියේ ජීප්  රථයෙන් ගමන් කර ඇත්තේ මොවුන් දෙදෙනා බවටසැකකෙරේ. මෙම සිද්ධිය සම්බන්ධ අධිකරණ කටයුතු පැල්මඩුල්ල මහේස්ත්‍රාත් අධිකරණයේ සිදුකෙරේ.
+
+◼️
+
+[Data](articles/248536cc.json)
 
 ---
 
@@ -1737,73 +1797,5 @@ Ranasinghe, an exceptional HR professional and dynamic business leader, continue
 ...
 
 [Data](articles/ddc6d7c8.json)
-
----
-
-### Lassana greetings from BIA
-
-*2025-07-28 04:00:26* · [`dailyftlk`](https://www.ft.lk/business/Lassana-greetings-from-BIA/34-779557) · `en`
-
-Lassana Flora elevates airport greetings with country’s first-ever arrival terminal floral outlet
-
-Miss World Sri Lanka 2024 Anudi Gunasekara opens the Lassana Flora outlet at BIA as Guest of Honour
-
-Lassana Flora, Sri Lanka’s premier florist and greenhouse agri-producer, launched the first floral outlet at the Bandaranaike International Airport (BIA); strategically located within the arrival terminal. The venture offers a thoughtful and convenient way for visitors to greet incoming travellers with a fresh, vibrant bouquet, adding a profound touch of warmth and appreciation.
-
-...
-
-[Data](articles/0f4694d2.json)
-
----
-
-### மாணவர் குறைவாகவுள்ள பாடசாலைகள் தொடர்பில் தீர்மானம் எடுப்பதற்கு முன் மாற்று நடவடிக்கை அவசியம் - முஜிபுர் ரஹ்மான்
-
-*2025-07-28 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221119) · `ta`
-
-மாணவர்கள் குறைவாக உள்ள பாடசாலைகள் தொடர்பில் தீர்மானம் எடுக்கப்போவதாக ஜனாதிபதி தெரிவித்திருந்தார். அவ்வாறான பாடசாலைகளை மூடிவிடுவதற்கு முன்னர் அங்கு கல்வி கற்கும் மாணவர்களுக்கான மாற்று நடவடிக்கை என்ன என்பது தொடர்பில் தெளிவுபடுத்த வேண்டும் என ஐக்கிய மக்ள் சக்து பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-குறைவான மாணவர்கள் எண்ணிக்கையுடைய பாடசாலைகள் தொடர்பில் தீர்மானம் எடுக்கப்போவதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்றத்தில் தெரிவித்த கருத்து தொடர்பில் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-நாட்டில் உள்ள அரச பாடசாலை கட்டமைப்பில் 15 வீதமானவை 50க்கும் குறைவான மாணவர்களை கொண்டுள்ளது. 100 மாணவர்களை விடவும் குறைவான எண்ணிக்கை கொண்ட 3144 பாடசாலைகள் உள்ளன. இதன்படி அரச பாடசாலைகளில் மூன்றில் ஒரு பங்கு நூற்றுக்கும் குறைவான மாணவர்களே உள்ளதாக ஜனாதிபதி தெரிவித்திருந்தார். இதனை நாங்கள் ஏற்றுக்கொள்கிறோம்.
-
-...
-
-[Data](articles/532719f9.json)
-
----
-
-### Women’s Chamber of Industry and Commerce Northern Chapter holds workshop on “Importance of Packaging”
-
-*2025-07-28 03:49:24* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-Northern-Chapter-holds-workshop-on-Importance-of-Packaging/34-779556) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) Northern Chapter, formally inaugurated earlier this year, has been operating in the Northern Province with the support of the German Asia-Pacific Business Association (OAV) for the past two years, engaging, empowering, and enriching the women entrepreneurs of the North.
-
-Northern Province, once a vibrant hub of economic activity, is making valiant efforts to gain the lost glory. However, the results are much to be desired.
-
-The WCIC has enrolled a base of SMEs and some larger businesses to form a group that could benefit from the efforts and strengths of the chamber. We focus on providing capacity building initiatives and support with policy advocacy.
-
-...
-
-[Data](articles/5a103241.json)
-
----
-
-### TRACE announces Research  and Development Grant for innovators
-
-*2025-07-28 03:41:49* · [`dailyftlk`](https://www.ft.lk/business/TRACE-announces-Research-and-Development-Grant-for-innovators/34-779555) · `en`
-
-In a bold move to accelerate innovation and support the country’s brightest minds, TRACE has officially opened applications for its 2025 Research and Development (R&D) Grant.
-
-The program offers funding of up to Rs. 500,000 for eligible individuals and teams working on cutting-edge research projects.
-
-The TRACE R&D Grant is open to a broad spectrum of applicants including university students and academic staff, startups, and independent researchers. The initiative aims to foster innovation, support experimental ideas, and bring transformative research to life across a variety of sectors.
-
-“We believe that great ideas deserve the opportunity to flourish,” said a spokesperson from TRACE. “Through this grant, we hope to empower researchers and entrepreneurs to drive meaningful impact and create solutions that address real-world challenges.”
-
-Applications are being accepted until 31 August, and interested applicants are encouraged to submit their proposals via the official application portal.
-
-...
-
-[Data](articles/e49e9f0f.json)
 
 ---

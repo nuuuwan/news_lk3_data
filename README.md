@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-28 15:11:25**
+As of **2025-07-28 15:26:26**
 
 ## Newspaper Stats
 
-*Scraped **67,241** Articles*
+*Scraped **67,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,73 @@ newsfirstlk | 363
 dbsjeyarajcom | 592
 bbccomsinhala | 677
 colombotelegraphcom | 690
-economynextcom | 4,107
+economynextcom | 4,110
 islandlk | 4,115
 dailymirrorlk | 4,733
 dailyftlk | 4,751
-adalk | 6,452
+adalk | 6,454
 adaderanalk | 8,267
 tamilmirrorlk | 9,733
 virakesarilk | 11,207
-adaderanasinhalalk | 11,554
+adaderanasinhalalk | 11,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.2%) of 67,241 articles have been extended.
+61,973 (92.2%) of 67,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-28 (Monday)
+
+### නාමල් අත්අඩංගුවට ගන්නැයි වරෙන්තුවක්
+
+*2025-07-28 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212731) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අත්අඩංගුවට ගැනීම සඳහා වරෙන්තුවක් නිකුත් කර තිබේ.
+
+ඒ හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණයේ විභාග වන නඩුවකට අධිකරණයේ පෙනී නොසිටීම හේතුවෙන්ය.
+
+"අද දෙරණ වාර්තාකරු පැවසුවේ හෙට දිනයේ මෝසමක් මාර්ගයෙන් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අධිකරණය හමුවේ පෙනී සිටීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/7b3d6c06.json)
+
+---
+
+### නාමල් රාජපක්ෂ අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කරයි
+
+*2025-07-28 15:07:03* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-රාජපක්ෂ-අත්අඩංගුවට-ගැනීමට-වරෙන්තු-නිකුත්-කරයි/11-417556) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අත්අඩංගුවට ගැනීම සඳහා වරෙන්තුවක් නිකුත්කර තිබේ.
+
+හම්බන්තොට මහේස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර ඇති නඩුවකට අදාළව අද (28දා) පෙනී නොසිටීම හේතුවෙන් මෙලෙස වරෙන්තු නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/63e25ea3.json)
+
+---
+
+### Sri Lanka restructures French debt, suspended and new projects to start
+
+*2025-07-28 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructures-french-debt-suspended-and-new-projects-to-start-233119/) · `en`
+
+ECONOMYNEXT – Sri Lanka and France have signed an implementation letter on debt restructuring, enabling the resumption of temporarily suspended financing, the Ministry of Finance said.
+
+The signing of the letters marked the conclusion of the debt restructuring process between Sri Lanka and France, the ministry said.
+
+“Consequently, the Government of Sri Lanka will enable to resumption of temporarily suspended loan financing and secure financing for new projects from all lender agencies of the Government of France to the successful
+
+In line with the Memorandum of Understanding (MoU) Sri Lanka signed with the Official Creditor Committee (OCC) on 26 June 2024 for external debt restructuring of the country, a bilateral agreement on debt restructuring between the governments of France and Sri Lanka was signed on 16 June 2025.
+
+...
+
+[Data](articles/51a107f2.json)
+
+---
 
 ### பதில் அமைச்சர்கள் நியமனம்
 
@@ -66,6 +114,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### U.S. trains 16 Sri Lanka Customs officers to search illicit narcotics
+
+*2025-07-28 14:44:00* · [`economynextcom`](https://economynext.com/u-s-trains-16-sri-lanka-customs-officers-to-search-illicit-narcotics-233161/) · `en`
+
+ECONOMYNEXT – The United States has funded a five-day training programme for Sri Lanka’s frontline Customs officials to search the flow of illicit narcotics though Sri Lankan territorial waters, the U.S. Embassy in Colombo said.
+
+“The U.S. and Sri Lanka are working together to stop the flow of illicit narcotics through Sri Lankan territorial waters. Last week, the U.S. funded a 5-day training for 16 of Sri Lanka’s frontline customs officers in pier side vessel search techniques,” the U.S. said in its official X-platform.
+
+“Part of @StateINL (U.S. Department of State INL)’s partnership with the @UNODC (UN Office for Drugs & Corruption) Global Maritime Crime Program, we shared international best practices in vessel search and interdiction at ports, harbor terminals, and anchorage areas to stop criminals and support successful prosecutions.”
+
+“Together we are limiting transnational crime and making the U.S., Sri Lanka, and the world safer.”
+
+...
+
+[Data](articles/837fdddb.json)
+
+---
+
 ### තනතුරු කිහිපයකට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය
 
 *2025-07-28 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212729) · `si`
@@ -97,6 +163,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f7334747.json)
+
+---
+
+### වැඩබලන ඇමතිවරු 04ක් පත් කෙරේ
+
+*2025-07-28 14:35:04* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-ඇමතිවරු-04ක්-පත්-කෙරේ/11-417554) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මාලදිවයිනේ රාජ්‍ය සංචාරයක් සඳහා දිවයිනෙන් පිටත්ව යාම හේතුවෙන් අමාත්‍යාංශ 04ක් සඳහා වැඩබලන අමාත්‍යවරුන් පත් කර තිබේ.
+
+ජනාධිපතිවරයා යටතේ පවතින ඩිජිටල් ආර්ථික අමාත්‍යාංශය, ආරක්ෂක අමාත්‍යාංශය සහ මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය යන අමාත්‍යාංශ සඳහා මෙන්ම අමාත්‍ය විජිත හේරත් මහතා යටතේ පවතින විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සඳහා මෙලෙස වැඩබලන අමාත්‍යවරුන් පත් කර ඇත.
+
+ඒ අනුව මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන වැඩබලන අමාත්‍යවරයා ලෙස කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාද, ඩිජිටල් ආර්ථික වැඩබලන අමාත්‍යවරයා ලෙස ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය එරංග වීරරත්න මහතාද, ආරක්ෂක වැඩබලන අමාත්‍යවරයා ලෙස ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාද, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක වැඩබලන අමාත්‍යවරයා ලෙස විදේශ කටයුතු , විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා ද පත් කරනු ලැබ සිටිති.
+
+◼️
+
+[Data](articles/d4009fe2.json)
 
 ---
 
@@ -149,6 +231,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3419f8fd.json)
+
+---
+
+### Sri Lanka exports rise 6.85-pct in June 2025, helped by tea, coconut and apparel
+
+*2025-07-28 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-rise-6-85-pct-in-june-2025-helped-by-tea-coconut-and-apparel-233128/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports rose 6.85 percent to 1,150.73 million dollars in June 2025 from a year ago, helped by tea, coconut and apparel exports, while seafood, spices and rubber exports fell, data from the export promotion office showed.
+
+Merchandise exports for January to June 2025 rose 5.86 percent, compared to the same period in 2024, to 6,504.72 million dollars.
+
+Earnings from tea which made up 12.8 percent of merchandise exports, increased 9.21 percent to 132.97 million dollars in June 2025 compared to June 2024.
+
+Tea exports to Iraq and Libya recorded increases of 82.99 percent, 172.38 percent respectively compared to June 2024, while tea exports to Iran decreased by 55.31 percent in June 2025 amidst Israel’s unprovoked bombing.
+
+Export earnings from coconut-based products increased 59.62 percent in June 2025 compared to the same month in 2024.
+
+...
+
+[Data](articles/f5bbd65e.json)
 
 ---
 
@@ -1703,113 +1805,5 @@ Fairly strong winds of about 40 kmph can be expected at times over Western slope
 ◼️
 
 [Data](articles/9cc22480.json)
-
----
-
-### අද වැසි වාර කිහිපයක්
-
-*2025-07-28 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212706) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-◼️
-
-[Data](articles/2c66de36.json)
-
----
-
-### வவுணதீவில் மறைந்த இரா.சம்பந்தனின் ஓராண்டு நினைவு வணக்க அஞ்சலி
-
-*2025-07-28 06:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221120) · `ta`
-
-மறைந்த கட்சியின் தலைவர் இரா.சம்பந்தன் ஐயாவின் ஓராண்டு நினைவு வணக்க அஞ்சலி நிகழ்வு வவுணதீவில் இலங்கைத் தமிழ் அரசுக் கட்சி வவுணதீவுப் பிரதேச கிளையின் ஏற்பாட்டில் 27ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்றது.
-
-வணக்க அஞ்சலி நிகழ்வில் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர்கள்,மட்டு மாநகர முதல்வர், பிரதிமுதல்வர், பிரதேச சபை தவிசாளர்கள், பிரதிதவிசாளர்கள், பிரதேச சபை உறுப்பினர்கள், கட்சி அங்கத்தவர்கள் என பலரும் கலந்துகொண்டு மறைந்த பெருந்தலைவருக்கு நினைவு அஞ்சலி செலுத்தினர் இதன் போது தீபச்சுடர், மலரஞ்சலி, நினைவுப்பேருரை போன்றன நிகழ்வுகள் இடம்பெற்றது.
-
-◼️
-
-[Data](articles/1f875a8b.json)
-
----
-
-### US and EU reach 15-pct ‘all inclusive’ Trump tariff deal as Sri Lanka continues talks
-
-*2025-07-28 05:53:00* · [`economynextcom`](https://economynext.com/us-and-eu-reach-15-pct-all-inclusive-trump-tariff-deal-as-sri-lanka-continues-talks-232937/) · `en`
-
-ECONOMYNEXT – The European Union and the United States have reached a 15 percent tariff deal President Donald Trump said would be ‘all inclusive’ according to EU Commission President Ursula von der Leyen.
-
-Trump said the US was talking to a number of other countries and he was “doing them at the low end, not the high end because we don’t want to hurt anybody.”
-
-More discussions are also on with China he indicated describing the existing agreement as a ‘sort of’ deal.
-
-Sri Lanka President Anura Kumara Dissanayake had discussions with the US Trade Representative Jamieson Greer Friday as discussions to lower tariffs continue.
-
-RELATED : Sri Lanka President in virtual tariff talks with US Trade Rep
-
-“We are agreeing that the tariff straight across for automobiles and everything else will   be a straight across tariff of 15 percent,” Trump said at a joint briefing with von der Leyen on the EU deal.
-
-...
-
-[Data](articles/c7f4263c.json)
-
----
-
-### EU and US agree trade deal, with 15% tariffs for European exports to America
-
-*2025-07-28 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/110891/eu-and-us-agree-trade-deal-with-15-tariffs-for-european-exports-to-america) · `en`
-
-EU and US agree trade deal, with 15% tariffs for European exports to America
-
-The United States and European Union have reached a trade deal framework, ending a months-long standoff between two of the world’s biggest economic partners.
-
-After make-or-break negotiations between President Donald Trump and European Commission President Ursula Von der Leyen in Scotland, the pair agreed a US tariff on all EU goods of 15%.
-
-That is half the 30% import tax rate Trump had threatened to implement starting on Friday. He said the 27-member bloc would open its markets to US exporters with zero per cent tariffs on certain products.
-
-Von der Leyen also hailed the deal, saying it would bring stability for both allies, who together account for almost a third of global trade.
-
-Trump has wielded tariffs against major US trade partners in a bid to reorder the global economy and trim the American trade deficit.
-
-...
-
-[Data](articles/b80ca35f.json)
-
----
-
-### Justice Preethi Padman Surasena sworn in as 49th Chief Justice of Sri Lanka
-
-*2025-07-28 04:24:44* · [`dailyftlk`](https://www.ft.lk/news/Justice-Preethi-Padman-Surasena-sworn-in-as-49th-Chief-Justice-of-Sri-Lanka/56-779563) · `en`
-
-The most senior Supreme Court Justice, Preethi Padman Surasena was officially sworn in as the Chief Justice of Sri Lanka before President Anura Kumara Disanayake yesterday at the Presidential Secretariat.
-
-He assumes office as the 49th Chief Justice of Sri Lanka, succeeding Chief Justice Murdu Nirupa Bidushinie Fernando, who recently retired. Last week, his appointment received approval from the Constitutional Council.
-
-Having been called to the Bar in 1989, Justice Surasena subsequently joined the Attorney General’s Department, serving as a State Counsel. He was appointed as a High Court Judge in 2007. In 2016, he was appointed as a Court of Appeal Judge, becoming the President of the Court of Appeal in 2018, and a Supreme Court Judge in 2019.
-
-Since then, Justice Surasena has served as a Supreme Court Judge, making him the most senior Supreme Court Justice after former Chief Justice Murdu Fernando.
-
-...
-
-[Data](articles/6a9bceef.json)
-
----
-
-### British Parliamentarians visit Presidential Secretariat
-
-*2025-07-28 04:21:18* · [`dailyftlk`](https://www.ft.lk/news/British-Parliamentarians-visit-Presidential-Secretariat/56-779562) · `en`
-
-A delegation of British Parliamentarians last Friday visited the Presidential Secretariat.
-
-During their visit, the delegation held a brief discussion with Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-They also toured several historic areas within the Secretariat, including the Presidential Secretariat Library, the Old Parliament, and the Cabinet Meeting Hall.
-
-Senior Additional Secretary to the President Roshan Gamage, British High Commissioner Andrew Patrick, and several other officials were present during the visit.
-
-◼️
-
-[Data](articles/6ebe8384.json)
 
 ---

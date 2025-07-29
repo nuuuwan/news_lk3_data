@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 14:54:17**
+As of **2025-07-29 15:09:43**
 
 ## Newspaper Stats
 
-*Scraped **67,481** Articles*
+*Scraped **67,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,480
-adaderanalk | 8,309
+adaderanalk | 8,315
 tamilmirrorlk | 9,778
-virakesarilk | 11,244
-adaderanasinhalalk | 11,599
+virakesarilk | 11,246
+adaderanasinhalalk | 11,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,481 articles have been extended.
+61,973 (91.8%) of 67,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### இன்று இரவு விண்கல் மழை பொழியும்
+
+*2025-07-29 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/221272) · `ta`
+
+தெற்கு டெல்டா அக்வாரி (Southern Delta Aquariids) விண்கல் மழை பொழியும் அற்புதமான காட்சியை இன்று இரவு காணலாம்  என வானியல் மற்றும் பொறியியல் பேராசிரியர கிஹான் வீரசேகர தெரிவித்தார்.
+
+பூமியிலிருந்து இந்த ஆண்டு காணக்கூடிய முக்கிய வானியல் நிகழ்வுகளில் ஒன்றான விண்கல் மழை, கும்ப ராசிக்குள் கிழக்கு வானத்தில் சிறப்பாகக் காணப்படும்.
+
+இரவு 9 மணி முதல் அதிகாலை வரை விண்கற்களைக் காண முடியும் என்றாலும், அவற்றைப் பார்ப்பதற்கு ஏற்ற நேரம் நள்ளிரவு ஆகும்.
+
+தெளிவான வானத்தின் கீழ் ஒரு மணி நேரத்திற்குள் 15 முதல் 20 விண்கற்களை பார்வையாளர்கள் காணலாம்.
+
+இந்த நிகழ்வு குறிப்பாக சிறுவர்களுக்கு விண்வெளியில் ஒரு இயற்கை நிகழ்வைக் காணவும், வானியலில் அதிக ஆர்வத்தை வளர்க்கவும் ஒரு மதிப்புமிக்க வாய்ப்பாக அமையும்.
+
+இந்த காட்சியுடன், சனி கிரகமும் வானத்தின் அதே பகுதியில் தெரியும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b0694929.json)
+
+---
+
+### ඉදිරි දින කිහිපය ගැන අනාවැකියක්
+
+*2025-07-29 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212779) · `si`
+
+ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැක.
+
+දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. 40 ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/7f6d5959.json)
+
+---
+
+### ශ්‍රී ලංකාව සමඟ වඩාත් සමීපව කටයුතු කිරීම අපේකෂාවයි - මාලදිවයින් ජනපති කියයි
+
+*2025-07-29 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212778) · `si`
+
+ශ්‍රී ලංකා - මාලදිවයින් රාජ්‍ය තාන්ත්‍රික සබඳතාවලට 60 වසරක් සපිරෙන අවස්ථාවේ සිදුවන ශ්‍රී ලංකා ජනාධිපතිවරයාගේ මාලදිවයින් රාජ්‍ය සංචාරය, දෙරටම ආර්ථික වශයෙන් ඒකාබද්ධ සහ සමෘද්ධිමත් ඉදිරි ගමනක් කරා යන ගමනේ තීරණාත්මක සාධකයක් වනු ඇති බව මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා පැවසීය.
+
+මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා ඒ බව සඳහන් කළේ ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් ඊයේ (28) රාත්‍රියේ කුරුම්බා මෝල්ඩිව්ස් නිවාඩු නිකේතනයේදී පැවති නිල රාත්‍රී භෝජන සංග්‍රහයෙන් අනතුරුව අදහස් දක්වමිනි.
+
+මාලදිවයින්-ශ්‍රී ලංකා සබඳතාවල පවතින ආර්ථිකමය වැදගත්කම මෙහිදී පෙන්වා දුන් මාලදිවයින් ජනාධිපතිවරයා කලාපයේ සමෘද්ධිය සහ ස්ථාවරත්වය ගොඩනැගීම සඳහා කරන බවද පැවසීය.
+
+දෙරට අතර ඓතිහාසික සබඳතා සැලකිය යුතු ලෙස වර්ධනය වී ඇති බව පැවසූ ඒ මහතා වර්තමානයේදී  සාම්ප්‍රදායික භාණ්ඩ හුවමාරුවෙන් ඔබ්බට ගොස් සංචාරක ව්‍යාපාරය, ඩිජිටල් තාක්ෂණය, ආරක්ෂක සහයෝගීතාව සහ සංස්කෘතික හුවමාරුව වැනි නවීන අංශ ආවරණය වන ලෙසින් එම වර්ධනය සිදු ව ඇති බවද පැවසීය.
+
+...
+
+[Data](articles/fbd4c7c9.json)
+
+---
 
 ### இராப்போசன விருந்தில் வரலாற்றை நினைவு கூர்ந்த ஜனாதிபதி
 
@@ -86,6 +146,34 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Crane truck driver involved in fatal Borella accident remanded
+
+*2025-07-29 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/110963/crane-truck-driver-involved-in-fatal-borella-accident-remanded) · `en`
+
+The crane driver, who was involved in the fatal accident in Borella last morning (28), in which an individual died, has been remanded, Ada Derana reporter said.
+
+Accordingly, the Colombo Traffic Magistrate’s Court ordered the man to be remanded until August 7.
+
+Additionally, the Magistrate ordered the release of the owner of the vehicle on a Rs. 500,000 surety bail.
+
+These orders were issued by the Colombo Traffic Magistrate’s Court after considering the facts presented by the Borella Police.
+
+The driver and the owner of the crane truck involved in the accident were arrested yesterday by the Borella Police.
+
+According to police, the crane truck driver was under the influence of cannabis at the time of the accident.
+
+This was revealed during a medical examination conducted on the relevant individual.
+
+A total of seven individuals including two police personnel were injured in the accident.
+
+One of the injured individuals succumbed to his injuries at the time of admission to the hospital.
+
+...
+
+[Data](articles/fd5708b9.json)
+
+---
+
 ### நாடு திரும்பினார் நாமல்
 
 *2025-07-29 13:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-நாமல்/175-361979) · `ta`
@@ -99,6 +187,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2ef6c679.json)
+
+---
+
+### இன அழிப்புக்கு சர்வதேச பொறிமுறையின் ஊடாக விசாரணை ; கரைச்சி, பூநகரி, பளை பிரதேச சபைகளில் பிரேரணை முன்மொழிவு
+
+*2025-07-29 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221268) · `ta`
+
+இலங்கையில் தமிழ் மக்கள் மீது மேற்கொள்ளப்பட்ட இன  அழிப்பு நடவடிக்கைக்கு உள்நாட்டு விசாரணை நீதியை பெற்றுத்தராது. எனவே சர்வதேச  விசாரணை பொறிமுறை ஒன்றை உருவாக்க வலியுறுத்தி கிளிநொச்சி கரைச்சி, பளை, பூநகரி பிரதேச சபைகளின் அடுத்த அமர்வில் பிரேரணை ஒன்றை ஐனநாயக தமிழ்த்தேசியக் கூட்டணியின் பங்காளி கட்சியான சமத்துவக் கட்சி பிரதேச சபை உறுப்பினர்கள் சமர்த்துள்ளனர்.
+
+இலங்கையில் வாழ்கின்ற சிறுபான்மை இனமான தமிழ் இனம் மீது இலங்கை சுதந்திரம் அடைந்த காலம் தொட்டு மாறி மாறி ஆட்சிக்கு வந்த அரசுகள் 2009 வரை மேற்கொண்டது ஒரு இனவழிப்பு நடவடிக்கையே எனவும். அதன் உச்சக்கட்டமாக 2009 இறுதி யுத்தகாலத்தில் மிக கொடூரமான இனவழிப்பு யுத்தத்தில் பல ஆயிரக்கணக்கான  தமிழ் மக்கள் கொல்லப்பட்டார்கள். அத்தோடு ஆயிரக்கணக்கான தமிழ் மக்கள் காணாமல் ஆக்கப்பட்டுள்ளார்கள், தமிழ் மக்களின் பூர்வீக பிரதேசங்களான வடக்கு கிழக்கில்  பல இடங்களில் பாரிய மனித புதைகுழிகள் காணப்படுகின்றன. அதன் ஒரு பெரும் சாட்சியாக செம்மணி மனித புதைக்குழி உள்ளது.
+
+...
+
+[Data](articles/1ed242dd.json)
 
 ---
 
@@ -119,6 +221,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/72e0f4bb.json)
+
+---
+
+### UN Women says 1 mln women, girls starving in Gaza
+
+*2025-07-29 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110962/un-women-says-1-mln-women-girls-starving-in-gaza) · `en`
+
+One million women and girls in the Gaza Strip are facing mass starvation, violence and abuse, UN Women said in a statement on the escalating humanitarian catastrophe in Gaza on Monday.
+
+Malnutrition is soaring and essential services have long collapsed, forcing women and girls to adopt increasingly dangerous survival strategies, the statement said.
+
+“Women and girls in Gaza are facing the impossible choice of starving to death at their shelters, or venturing out in search of food and water at the extreme risk of being killed. Their children are starving to death before their eyes. This is horrific, unconscionable and unacceptable. It is inhumane,” UN Women Executive Director Sima Bahous said in the statement.
+
+“This suffering must end immediately. We need unhindered humanitarian access at scale and a permanent ceasefire leading to sustainable peace,” she said.
+
+...
+
+[Data](articles/f0b8d014.json)
 
 ---
 
@@ -171,6 +291,72 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cbd18c18.json)
+
+---
+
+### Maldives President hosts state banquet for President AKD
+
+*2025-07-29 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110961/maldives-president-hosts-state-banquet-for-president-akd) · `en`
+
+President of the Maldives Dr. Mohamed Muizz hosted a state banquet in honour of President Anura Kumara Dissanayake, who is currently on a state visit to the Maldives, at the Kurumba resort, Maldives, the President’s Media Division said.
+
+The dinner was organized by Maldivian President Dr. Mohamed Muizzu, the PMD added.
+
+The Sri Lankan delegation, including the Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, participated in this occasion.
+
+President Anura Kumara Dissanayake left the island on a three-day state visit to the Maldives, yesterday.
+
+◼️
+
+[Data](articles/c7902201.json)
+
+---
+
+### Special train services to Kandy for Esala Perahera
+
+*2025-07-29 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110960/special-train-services-to-kandy-for-esala-perahera) · `en`
+
+Sri Lanka Railways has announced special train services to accommodate the increased passenger demand during the Esala Perahera at the Temple of the Tooth Relic in Kandy.
+
+Special trains are scheduled to operate from Colombo, Nawalapitiya and Matale to Kandy.
+
+Colombo Fort to Kandy – Operates daily from August 4 to August 8
+
+Kandy to Colombo Fort – Operates daily from August 4 to August 8
+
+Kandy to Polgahawela – Operates daily from August 4 to August 8
+
+Nawalapitiya to Kandy – Operates daily from August 4 to August 8
+
+Kandy to Nawalapitiya – Operates daily from August 4 to August 8
+
+◼️
+
+[Data](articles/18f1fbb8.json)
+
+---
+
+### Police Constable among three arrested with medicinal drug stock worth Rs. 20 million
+
+*2025-07-29 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/110959/police-constable-among-three-arrested-with-medicinal-drug-stock-worth-rs-20-million) · `en`
+
+A Police Constable, who had been running a drug storage facility within his own residence, has been arrested along with two others with a stock of medicinal drugs valued at approximately Rs. 20 million.
+
+The arrested constable had been serving in the traffic division of the Kohuwala Police.
+
+Among the arrested are the constable’s wife and a person alleged to have supplied the drugs.
+
+During the raid, police seized a total of 1,330,420 pills which had been stored in his residence.
+
+The raid was conducted based on intelligence received by the Mannar Crime Division.
+
+Investigations have uncovered that the Constable, who had been serving at the Kohuwala Police for 14 years, was storing medicinal drugs provided by a pharmacy owner—the alleged main suspect in this trafficking operation—at his residence and distributing them to various parts of the country.
+
+Accordingly, the three suspects have been arrested under three charges.
+
+...
+
+[Data](articles/a64a2458.json)
 
 ---
 
@@ -562,7 +748,7 @@ US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
 
 There is no impact on Sri Lanka from the earthquake reported earlier today near the Andaman and Nicobar Islands, in the Bay of Bengal, the Geological Survey and Mines Bureau has stated.
 
-An earthquake of magnitude 6.3 hit the Bay of Bengal, at 12.11 a.m.
+An earthquake of magnitude 6.3 hit the Bay of Bengal, at 00.11 a.m.
 
 According to India’s National Center for Seismology, the depth of the quake of 10 km and the exact location was Latitude 6.82 N, Longitude 93.37 E.
 
@@ -570,9 +756,11 @@ Several strong aftershocks were reported following the quake, but no damage to p
 
 Issuing a statement on the incident, the Director General of the Geological Survey and Mines Bureau, Deepani Weerakoon confirmed that there is no impact on Sri Lanka from the earthquake.
 
-She also mentioned that the earthquake occurred about 260 kilometers away from Sri Lanka, and its magnitude was recorded as 6.6 on the Richter scale in Sri Lanka.
+She also mentioned that the epicenter of the earthquake was about 259 km west-northwest of Sabang in Indonesia’s Aceh province.
 
-...
+Although several aftershocks were reported following the earthquake, Weerakoon further stated that the public need not to panic regarding the event.
+
+◼️
 
 [Data](articles/1f3d6d99.json)
 
@@ -800,11 +988,11 @@ Later, after considering a bail request submitted by him, he was released on bai
 
 *2025-07-29 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212765) · `si`
 
-පසුගිය මාස කිහිපය තුළදී සංවිධානාත්මක අපරාදකරුවන් මෙන්ම විවිධ අපරාධවල නිරත වූ සහ ඊට ආධාර අනුබල දුන් පුද්ගලයන්ද ඔවුන්ගේ තරාතිරම නොබලා අත්අඩංගුවට ගනිමින් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කර ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශය පවසයි.
+පසුගිය මාස කිහිපය තුළදී සංවිධානාත්මක අපරාධකරුවන් මෙන්ම විවිධ අපරාධවල නිරත වූ සහ ඊට ආධාර අනුබල දුන් පුද්ගලයන්ද ඔවුන්ගේ තරාතිරම නොබලා අත්අඩංගුවට ගනිමින් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කර ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශය පවසයි.
 
 රටෙහි නීතිය හා සාමය ස්ථාපනය කිරීමේ අරමුණින් සිදු කරන මෙම අත්අඩංගුවට ගැනීම්වලට අදාළ සුවිශේෂි අත්අඩංගුවට ගැනීම් කිහිපයක් ඊයේ (28) දිනය තුළදී සිදු කිරීමට ශ්‍රී ලංකා පොලීසිය සමත්ව ඇත.
 
-ඒ අනුව හිටපු නාවික හමුදාපතිවරයෙකු වන නිශාන්ත උළුගේතැන්න යන අය පුද්ගල අතුරුදන් වීමක් සම්බන්ධයෙන් සිදුකරන විමර්ෂණවලට අදාලව 2025-07-28 වන දින අපරාද පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
+ඒ අනුව හිටපු නාවික හමුදාපතිවරයෙකු වන නිශාන්ත උළුගේතැන්න යන අය පුද්ගල අතුරුදන්වීමක් සම්බන්ධයෙන් සිදුකරන විමර්ෂණවලට අදාළව 2025-07-28 වන දින අපරාද පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
 
 ඔහුව පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළැඹෙන 30 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කොට තිබේ.
 
@@ -941,6 +1129,22 @@ Subsequently, with the agreement of both parties, the case was settled amicably.
 ◼️
 
 [Data](articles/7659dea1.json)
+
+---
+
+### Thissa Kuttiarachchi expresses regret, retracts claims against President AKD after defamation case
+
+*2025-07-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110951/thissa-kuttiarachchi-expresses-regret-retracts-claims-against-president-akd-after-defamation-case) · `en`
+
+Former Member of Parliament Thissa Kuttiarachchi today informed the Colombo District Court that he unconditionally regrets the statement he made pertaining to President Anura Kumara Dissanayake.
+
+This announcement was made through his legal representatives during the court proceedings today in relation to a lawsuit filed by President Anura Kumara Dissanayake, who demanded Rs. 10 billion in damages for defamation.
+
+Subsequently, with the agreement of both parties, the case was settled amicably.
+
+◼️
+
+[Data](articles/bac4b1b6.json)
 
 ---
 
@@ -1643,181 +1847,5 @@ Officials from the Ministry of Health informed the Committee that the current sh
 ...
 
 [Data](articles/b9f19bc3.json)
-
----
-
-### Several MoUs inked between Sri Lanka and Maldives
-
-*2025-07-29 06:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110940/several-mous-inked-between-sri-lanka-and-maldives) · `en`
-
-President Anura Kumara Dissanayake, currently on a state visit to the Maldives, held bilateral discussions with Maldivian President Dr. Mohamed Muizzu yesterday (28) at the Maldivian Presidential Office.
-
-Upon his arrival at the Maldivian Presidential Office, President Dissanayake was warmly welcomed by Maldivian President Dr. Mohamed Muizzu.
-
-After President Anura Kumara Dissanayake signed the guest book, the two leaders posed for an official photograph.
-
-Following this, the bilateral discussions between the President and the Maldivian President commenced.
-
-After the discussions, agreements were exchanged between both parties. This included a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike Diplomatic Training Institute, as well as an agreement on mutual legal assistance.
-
-...
-
-[Data](articles/e8dab51a.json)
-
----
-
-### Sri Lanka’s Commercial Bank Green Bonds to pay up to 11.30-pct in 10-year securities
-
-*2025-07-29 06:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-green-bonds-to-pay-up-to-11-30-pct-in-10-year-securities-233279/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon said its 15 billion rupee green bond issue will open on August 04, offering securities with tenures of 5, 7 and 10 years.
-
-The bonds are rated A (lka) by Fitch and will be listed on the Colombo Stock Exchange.
-
-Type A  5-year bond with 10.55-pct coupon paid semi-annually (effective rate 10.83-pct)
-
-Type C 7-year bond with 10.85-pct coupon paid semi-annually (effective rate 11.14-pct)
-
-Type E – 10-year bond with 11.00-pct coupon paid semi-annually (effective rate 11.30-pct)
-
-The funds will be used to finance ‘green’ projects like renewable energy.
-
-The bonds are Basle III compliant securities which will be converted to equity in case of a capital deficiency. (Colombo/July29/2025 – Updated II)
-
-◼️
-
-[Data](articles/2be49e0a.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට අදත් වැසි
-
-*2025-07-29 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212753) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/ac8c295e.json)
-
----
-
-### New York shooting: Four including police officer dead
-
-*2025-07-29 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110939/new-york-shooting-four-including-police-officer-dead) · `en`
-
-At least four people were reportedly killed, including a New York Police Department officer, in a shooting in New York’s central Manhattan on Monday (local time). The shooter, tentatively identified as 27-year-old Shane Tamura from Las Vegas, has also died from what police believe is a self-inflicted injury, according to a report by CNN.
-
-The shooting took place at a skyscraper in a crowded part of Midtown Manhattan, just blocks from Grand Central Station, Rockefeller Centre and the Museum of Modern Art, provoking a lockdown in the area. The 634-foot skyscraper, located at 345 Park Avenue, south of Central Park, occupies a full city block and is one of the few buildings in the city with its own zip code. The area is home to several five-star business hotels, as well as several corporate headquarters, including those of Colgate-Palmolive and KPMG, the auditing firm.
-
-...
-
-[Data](articles/421d3589.json)
-
----
-
-### Few showers expected in parts of the island
-
-*2025-07-29 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110938/few-showers-expected-in-parts-of-the-island) · `en`
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (29), the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts during the afternoon or night, the Met. Department added.
-
-Fairly strong winds of about 40kmph can be expected at times over the Western slopes of the central hills and in the Southern province.
-
-The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/4b11bada.json)
-
----
-
-### Weligama Sahan arrested at BIA
-
-*2025-07-29 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110937/weligama-sahan-arrested-at-bia) · `en`
-
-Sahan Sisi Kalum, also known as Weligama Sahan, an organized criminal, has been taken into custody at the Bandaranaike International Airport (BIA) in Katunayake, police stated.
-
-He was deported from India and arrested by the Criminal Investigation Department (CID) at the airport.
-
-It has been reported that this individual, known as Weligama Sahan, is the main suspect in two shooting incidents that occurred in Panadura and Kalutara, as well as in the shooting of a person named “Paththe Suranga” in Mattakkuliya.
-
-The suspect has been handed over to the Kalutara Range Crime Division for further investigations.
-
-◼️
-
-[Data](articles/5d080999.json)
-
----
-
-### Easter Sunday attack negligence case against Hemasiri, Pujith to resume on 18 September
-
-*2025-07-29 04:36:21* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-attack-negligence-case-against-Hemasiri-Pujith-to-resume-on-18-September/56-779614) · `en`
-
-The Colombo High Court Trial-at-Bar yesterday announced that the criminal negligence case against former Defence Secretary Hemasiri Fernando and former Inspector General of Police (IGP) Pujith Jayasundara will be taken up again on 18 September.
-
-The case, which accuses the two former top officials of failing to act on prior intelligence to prevent the 2019 Easter Sunday terrorist attacks, was heard yesterday before a High Court bench comprising Judges Namal Balalle and Mohamed Irshadeen.
-
-During proceedings, Deputy Solicitor General Sudarshan de Silva, representing the Attorney General, informed the Court that one of the original trial judges, Adithya Patabendige, had been elevated to the Court of Appeal. As a result, a new judge will be temporarily appointed to complete the three-judge bench until the Chief Justice names a permanent replacement.
-
-The Court granted the request and postponed the case to 18 September to resume hearings.
-
-...
-
-[Data](articles/f73aa11e.json)
-
----
-
-### President AKD gets State welcome ceremony in Malé
-
-*2025-07-29 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-gets-State-welcome-ceremony-in-Malé/56-779613) · `en`
-
-The official State welcome ceremony for President Anura Kumara Disanayake, who is currently on a State visit to the Maldives, was held yesterday at the Republic Square in the capital city of Malé.
-
-President Disanayake was warmly received upon his arrival at the Republic Square by Maldivian President Dr. Mohamed Muizzu with full honours.
-
-Following this, President Disanayake was accorded a guard of honour by the Maldivian National Defence Force and joined in on observing the ceremonial parade of the military.
-
-Subsequently, an introduction between the Maldivian hosts and the Sri Lankan delegation took place.
-
-◼️
-
-[Data](articles/bad015d5.json)
-
----
-
-### Red warrant obtained against Royal Park convict: AG
-
-*2025-07-29 04:35:00* · [`dailyftlk`](https://www.ft.lk/news/Red-warrant-obtained-against-Royal-Park-convict-AG/56-779612) · `en`
-
-The Attorney General (AG) informed the Supreme Court on Sunday that authorities have obtained a red warrant for the arrest of Jude Shramantha Jayamaha, who was sentenced to death in connection with the Royal Park murder case.
-
-The State Counsel who appeared for the AG made this revelation when a Fundamental Rights petition challenging former President Sirisena’s decision to grant a Presidential Pardon to Jayamaha was called before the Supreme Court. The petition was taken up before the Supreme Court to evaluate the progress of implementing the Court order. On 6 June 2024, the Supreme Court ruled that former President Maithripala Sirisena’s decision to grant a Presidential Pardon to Royal Park murder convict Don Shramantha Jude Anthony Jayamaha was arbitrary and invalid in law. The Court further directed the AG and all relevant authorities to take the necessary steps to arrange Jayamaha’s extradition, as he is considered a convict on death row.
-
-...
-
-[Data](articles/306c0098.json)
-
----
-
-### Former Navy Commander Nishantha Ulugetenne remanded
-
-*2025-07-29 04:34:33* · [`dailyftlk`](https://www.ft.lk/news/Former-Navy-Commander-Nishantha-Ulugetenne-remanded/56-779611) · `en`
-
-Former Sri Lanka Navy (SLN) Commander Admiral (Retd.) Nishantha Ulugetenne, who was arrested yesterday by the Criminal Investigation Department (CID), has been remanded. The Polgahawela Magistrate’s Court ordered to remand him till 30 July.
-
-The former Navy Commander was arrested by the CID over the disappearance of a youth from Pothuhera while he was functioning as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/6770d089.json)
 
 ---

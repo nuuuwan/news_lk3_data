@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 16:35:04**
+As of **2025-07-29 16:48:18**
 
 ## Newspaper Stats
 
-*Scraped **67,510** Articles*
+*Scraped **67,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,486
 adaderanalk | 8,315
 tamilmirrorlk | 9,784
 virakesarilk | 11,246
-adaderanasinhalalk | 11,608
+adaderanasinhalalk | 11,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,510 articles have been extended.
+61,973 (91.8%) of 67,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### දේශබන්දුගේ අපේක්ෂිත ඇප ඉල්ලීමට ලැබුණු නියෝගය
+
+*2025-07-29 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212787) · `si`
+
+තමන් අත්අඩංගුවට නොගන්නා ලෙස ඉල්ලමින්, ධුරයේ වැඩ තහනමට ලක්ව සිටින පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා වෙනුවෙන් නීතිඥ අජිත් පතිරණ මහතා කළ අපේක්ෂිත ඇප ඉල්ලීම පිළිබඳ නියෝගය ලබන අගෝස්තු 05 කැඳවන ලෙස කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය නියෝග කළාය.
+
+එදිනට විශේෂ පොලීස් විමර්ශන ඒකකයේ ස්ථානාධිපතිවරයාට අධිකරණයේ පෙනී සිටින ලෙස කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය නොතිසි නිකුත් කර තිබේ.
+
+අපේක්ෂිත ඇප ඉල්ලීම සම්බන්ධයෙන් විරෝධතා ඇත්නම් එදිනට ගොනුකරන ලෙසත් පොලිස් ස්ථානාධිපතිවරයාට මහේස්ත්‍රාත්වරිය නියෝගයක් කර ඇත.
+
+අරගලය පැවැති අවස්ථාවේ දී ජනාධිපති ලේකම් කාර්යාලයට අදාළ නඩුවක් ගොනු කර ඇති බැවින් එම සිද්ධිය සම්බන්ධයෙන් තමන් අඩංගුවට ගැනීමේ සූදානමක් ඇති බව පවසමින් හිටපු පොලිස්පතිවරයාඅපේක්ෂිත ඇප ඉල්ලුමක් ඉදිරිපත් කළ අවස්ථාවේ මහේස්ත්‍රාත්වරිය මෙම නියෝගය සිදු කළාය.
+
+◼️
+
+[Data](articles/8c70c656.json)
+
+---
 
 ### 1,200 கி.கி தூள் மாயம்: உதவி முகாமையாளர் சிக்கினார்
 
@@ -52,13 +70,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මාලදිවයින් විදේශ කටයුතු ඇමති ජනපති අනුරව හමුවෙයි
+### ජනපති අනුර මාලදිවයින් විදේශ කටයුතු ඇමතිව හමුවෙයි
 
 *2025-07-29 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212786) · `si`
 
-මාලදිවයින් විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා කලීල් මහතා අද (29) ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවිය.
+මාලදිවයින් විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා කලීල් මහතා අද (29) ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
 
-එහිදී මාලදිවයින් විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා කලීල් මහතා මාලදිවයිනට පැමිණි ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දූත පිරිස පිළිගත්තේය.
+එහිදී මාලදිවයින් විදේශ කටයුතු අමාත්‍යවරයා මාලදිවයිනට පැමිණි ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දූත පිරිස පිළිගත්තේය.
 
 දෙරට අතර දිගුකාලීන මිත්‍රත්වයේ බැඳීම් තවදුරටත් ශක්තිමත් කිරීම සඳහා ශ්‍රී ලංකාව සමඟ සමීපව කටයුතු කිරීමට මාලදිවයින් රජයේ කැපවීම ද ඔහු නැවත තහවුරු කළේය.
 
@@ -1837,25 +1855,5 @@ Stocks opened up; the ASPI was up 0.13%, or 25.03 points, at 19,542.89; the S&P 
 ◼️
 
 [Data](articles/5738ccea.json)
-
----
-
-### Earthquake of magnitude 6.3 strikes near Andaman and Nicobar Islands
-
-*2025-07-29 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110945/earthquake-of-magnitude-63-strikes-near-andaman-and-nicobar-islands) · `en`
-
-An earthquake of magnitude 6.3 hit the Bay of Bengal, near the Andaman and Nicobar Islands on Tuesday morning (29).
-
-According to India’s National Center for Seismology, the depth of the quake of 10 km and the exact location was Latitude 6.82 N, Longitude 93.37 E.
-
-There have been no reports of any damage or casualties so far.
-
-This quake comes a week after mild tremors were felt across Delhi and the national capital region on July 22.
-
-An earthquake of magnitude 3.2 struck with its epicentre in Faridabad. No damage to property or loss of life was reported.
-
-◼️
-
-[Data](articles/1d2d32e9.json)
 
 ---

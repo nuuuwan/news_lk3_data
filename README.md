@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 00:07:43**
+As of **2025-07-30 00:28:32**
 
 ## Newspaper Stats
 
-*Scraped **67,589** Articles*
+*Scraped **67,590** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 693
+colombotelegraphcom | 694
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,589 articles have been extended.
+61,973 (91.7%) of 67,590 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -701,6 +701,18 @@ This meeting was held to express the deep and unwavering solidarity of the Sri L
 ◼️
 
 [Data](articles/02efa868.json)
+
+---
+
+### Bahuchithavādiyā: A Poignant Portrait Of Modern Longing & Urban Isolation
+
+*2025-07-29 18:23:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/bahuchithavadiya-a-poignant-portrait-of-modern-longing-urban-isolation/) · `en`
+
+In a cinematic landscape often dominated by spectacle and escapism, Malaka Dewapriya’s Bahuchithavadiya emerges as a deeply introspective and emotionally resonant film that dares to explore the quiet tragedies of everyday life. Directed with a keen eye for detail and a profound understanding of human vulnerability, the film is a masterclass in subtle storytelling, capturing the emotional and psychological entrapments of individuals navigating love, ambition, and identity in contemporary Sri Lanka.
+
+...
+
+[Data](articles/23a19160.json)
 
 ---
 
@@ -1807,33 +1819,5 @@ The move follows efforts by local governments to boost birth rates in China.
 ...
 
 [Data](articles/06d23186.json)
-
----
-
-### Crane truck driver involved in fatal Borella accident remanded
-
-*2025-07-29 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/110963/crane-truck-driver-involved-in-fatal-borella-accident-remanded) · `en`
-
-The crane driver, who was involved in the fatal accident in Borella last morning (28), in which an individual died, has been remanded, Ada Derana reporter said.
-
-Accordingly, the Colombo Traffic Magistrate’s Court ordered the man to be remanded until August 7.
-
-Additionally, the Magistrate ordered the release of the owner of the vehicle on a Rs. 500,000 surety bail.
-
-These orders were issued by the Colombo Traffic Magistrate’s Court after considering the facts presented by the Borella Police.
-
-The driver and the owner of the crane truck involved in the accident were arrested yesterday by the Borella Police.
-
-According to police, the crane truck driver was under the influence of cannabis at the time of the accident.
-
-This was revealed during a medical examination conducted on the relevant individual.
-
-A total of seven individuals including two police personnel were injured in the accident.
-
-One of the injured individuals succumbed to his injuries at the time of admission to the hospital.
-
-...
-
-[Data](articles/fd5708b9.json)
 
 ---

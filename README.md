@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 04:33:28**
+As of **2025-07-30 04:48:11**
 
 ## Newspaper Stats
 
-*Scraped **67,599** Articles*
+*Scraped **67,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
-dailyftlk | 4,768
+dailyftlk | 4,774
 adalk | 6,496
 adaderanalk | 8,332
 tamilmirrorlk | 9,791
@@ -26,11 +26,101 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,599 articles have been extended.
+61,973 (91.7%) of 67,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### SLAEA hosts high-level forum on EU CSDDD: Strengthening sustainable trade through compliance and collaboration
+
+*2025-07-30 04:26:43* · [`dailyftlk`](https://www.ft.lk/business/SLAEA-hosts-high-level-forum-on-EU-CSDDD-Strengthening-sustainable-trade-through-compliance-and-collaboration/34-779638) · `en`
+
+The Sri Lanka Apparel Exporters Association (SLAEA) hosted a high-level industry forum on 9 July at the Jetwing Hotel in Colombo 7, bringing together a diverse group of stakeholders to explore the growing relevance of the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD). Designed to strengthen awareness and preparedness, the session focused on the far-reaching implications of the directive for Sri Lanka’s export economy — particularly in key sectors such as apparel, tea, and rubber.
+
+...
+
+[Data](articles/b1d8a0dd.json)
+
+---
+
+### Daminda appointed Group MD at Swisstek
+
+*2025-07-30 04:24:02* · [`dailyftlk`](https://www.ft.lk/business/Daminda-appointed-Group-MD-at-Swisstek/34-779637) · `en`
+
+...
+
+[Data](articles/44a46e0b.json)
+
+---
+
+### High-ranking Maldivian State officials meet with President
+
+*2025-07-30 04:21:43* · [`dailyftlk`](https://www.ft.lk/news/High-ranking-Maldivian-State-officials-meet-with-President/56-779636) · `en`
+
+The Deputy Speaker of the Maldivian Parliament and five Cabinet Ministers from the Maldivian Government visited the Kurumba Maldives resort yesterday to hold discussions with President Anura Kumara Disanayake.
+
+Those who met with the President included: Maldivian Parliament Deputy Speaker Ahmed Nazim, Foreign Affairs Minister Dr. Abdulla Khaleel, Economic Development and Trade Minister Mohamed Saeed, Defence Minister Mohamed Ghassan Maumoon, Finance and Planning; Minister Moosa Zameer, and Homeland Security and Technology Minister Ali Ihusaan.
+
+They expressed their gratitude to President Disanayake for his state visit to the Maldives. They conveyed their confidence that this visit, which marks the 60th anniversary of strong diplomatic relations between the two nations, will lay the foundation for deeper cooperation, broader understanding and an even stronger friendship in the future.
+
+...
+
+[Data](articles/08870cb5.json)
+
+---
+
+### SL new High  Commissioner in India presents credentials
+
+*2025-07-30 04:20:14* · [`dailyftlk`](https://www.ft.lk/news/SL-new-High-Commissioner-in-India-presents-credentials/56-779635) · `en`
+
+Sri Lanka’s new High Commissioner in India Mahishini Colonne (left) yesterday presented credentials to Indian President Droupadi Murmu.
+
+◼️
+
+[Data](articles/2f541927.json)
+
+---
+
+### Sectoral Committee reviews proposed education reforms to boost human capital
+
+*2025-07-30 04:19:18* · [`dailyftlk`](https://www.ft.lk/news/Sectoral-Committee-reviews-proposed-education-reforms-to-boost-human-capital/56-779634) · `en`
+
+Education Ministry and related institutions present reform steps and past efforts
+
+Committee Chair MP Hesha Withanage calls for expert consultation to review plan; pledges full support for proper implementation of reforms
+
+Reviews Samurdhi (Amendment) Bill and Samurdhi Bank operations; approves to present Samurdhi Bill for Second Reading in Parliament
+
+The proposed Education Reform Plan came under discussion at the Sectoral Oversight Committee on Education, Manpower and Human Capital during its recent meeting held on 25 July at Parliament, chaired by MP Hesha Withanage.
+
+Education, Higher Education and Vocational Training Ministry Secretary Nalaka Kaluwewa, representatives of the National Education Commission, National Institute of Education Director-General along with several other senior officials of the Education Ministry, participated in this meeting.
+
+...
+
+[Data](articles/ca0ad878.json)
+
+---
+
+### Thisakutti Arachchi extends unconditional apology to President over defamatory remarks
+
+*2025-07-30 04:17:49* · [`dailyftlk`](https://www.ft.lk/news/Thisakutti-Arachchi-extends-unconditional-apology-to-President-over-defamatory-remarks/56-779633) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) former MP Thisakutti Arachchi yesterday tendered his unconditional apology over an alleged defamatory statement he had made referring to the National People’s Power (NPP) and President Anura Kumara Dissanayake in 2023.
+
+Disanayake had filed this lawsuit before the Colombo District Court claiming Rs. 10 billion as damages from Kuttiarachchi for allegedly making defamatory statements.
+
+During a public meeting held in Colombo on 19 August 2023, former MP Arachchi had allegedly made remarks against the NPP over its alleged investments in the island nation of Malta.
+
+Disanayake alleged that the defamatory and baseless allegations made against him by Arachchi had been telecast over television news on 19 August 2023, without verifying the truthfulness of the statements.
+
+When the matter was called before the Colombo District Court, the case was withdrawn by the plaintiff following the defendant’s unconditional apology.
+
+◼️
+
+[Data](articles/1c4ba7f9.json)
+
+---
 
 ### ரம்புக்கனை – ஹதரலியத்த வீதியில் விபத்து : இருவர் உயிரிழப்பு
 
@@ -1663,119 +1753,5 @@ The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in J
 ◼️
 
 [Data](articles/bf72992b.json)
-
----
-
-### ළහිරු වීරසේකර අත්අඩංගුවට
-
-*2025-07-29 15:18:53* · [`adalk`](https://www.ada.lk/breaking_news/ළහිරු-වීරසේකර-අත්අඩංගුවට/11-417584) · `si`
-
-අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ හිටපු කැඳවුම්කරුවෙක් මෙන්ම වත්මන් යූත් ෆෝ චේන්ජ් සංවිධානයේ ජාතික සංවිධායක ළහිරු වීරසේකර අත්අඩංගුවට ගෙන තිබේ.
-
-තෙබුවන ප්‍ර දේශයේ කර්මාන්ත ශාලාවකට අයත් ඉඩමකට බලහත්කාරයෙන් ඇතුළුවීමේ චෝදනා යටතේ තෙබුවන පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ති‍බේ.
-
-◼️
-
-[Data](articles/fda4feb0.json)
-
----
-
-### நாமலுக்குப் பிணை
-
-*2025-07-29 15:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்குப்-பிணை/175-361983) · `ta`
-
-நேற்று பிடியாணை பிறப்பிக்கப்பட்ட இலங்கை பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு பிணை வழங்கப்பட்டது.
-
-நாமல் ராஜபக்ஷ இன்று ஹம்பாந்தோட்டை நீதவான் நீதிமன்றத்தில் முன்னிலையானதை அடுத்து பிணையில் விடுவிக்கப்பட்டார்.
-
-இன்று காலை மாலைதீவிலிருந்து வந்த பிறகு, அவர் நீதிமன்றத்தில் முன்னிலையாகி, ஒரு மனுவை சமர்ப்பித்ததாகக் கூறப்படுகிறது.
-
-நாமல் ராஜபக்ஷ திட்டமிடப்பட்ட விசாரணைக்கு முன்னிலையாகத் தவறியதை அடுத்து, ஹம்பாந்தோட்டை நீதவான் நீதிமன்றம் நேற்று பிடியாணையைப் பிறப்பித்தது.
-
-அப்போது நாமல் ராஜபக்ஷ ஒரு நிகழ்வில் கலந்து கொள்வதற்காக மாலைதீவில் இருப்பதாகக் கூறப்பட்டது.
-
-◼️
-
-[Data](articles/f409f538.json)
-
----
-
-### Sri Lanka and Maldives to collaborate more closely
-
-*2025-07-29 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-maldives-to-collaborate-more-closely-233392/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake and Maldivian President Mohamed Muizzu have discussed the economic potential of Maldives–Sri Lanka relations at a state dinner.
-
-The event marked 60 years of diplomatic ties between the two Indian Ocean nations.
-
-Both nations are keen to seize the current momentum to collaborate more closely on building inclusive prosperity and regional stability, Dissanayake’s media division said.
-
-“Whether it is strengthening maritime security, promoting blue economy initiatives, or collaborating in multilateral forums, Sri Lanka is committed to working with the Maldives to create a peaceful, prosperous and sustainable Indian Ocean region,” Dissanayake said.
-
-...
-
-[Data](articles/523637c2.json)
-
----
-
-### Sri Lankan High Commissioner Mahishini Colonne presents credentials to Indian President
-
-*2025-07-29 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110966/sri-lankan-high-commissioner-mahishini-colonne-presents-credentials-to-indian-president) · `en`
-
-High Commissioner of Sri Lanka to India Mahishini Colonne has presented her credentials to the President of India, Smt Droupadi Murmu.
-
-The Indian President accepted credentials from the High Commissioner at a ceremony held at Rashtrapati Bhavan today (29).
-
-Mahishini Colonne was appointed the Sri Lankan High Commissioner to India after the appointment was ratified by the Constitutional Council.
-
-Mahishini Colonne was also the Deputy High Commissioner to India from 2011 to 2014.
-
-◼️
-
-[Data](articles/756598f7.json)
-
----
-
-### கால்களை சுக்குநூறாக்கிய பாரந்தூக்கி சாரதிக்கு விளக்கமறியல்
-
-*2025-07-29 14:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்களை-சுக்குநூறாக்கிய-பாரந்தூக்கி-சாரதிக்கு-விளக்கமறியல்/175-361982) · `ta`
-
-பொரளை கனத்தை சுற்றுவட்டார பகுதியில் இடம்பெற்ற விபத்துடன் தொடர்புடைய பாரந்தூக்கியின் ஓட்டுநர் நிமந்த சேனாதீரவை ஆகஸ்ட் 7 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக  நீதவான் எம்.என். ரிஜ்வான், செவ்வாய்க்கிழமை (29) உத்தரவிட்டார்.
-
-வாகனத்தின் உரிமையாளர் மாலன் ஸ்ரீ பெர்னாண்டோவை ரூ. 500,000 சரீர பிணையில் விடுவிக்கவும் நீதவான் உத்தரவிட்டார்.
-
-விபத்து தொடர்பில் பொரளை பொலிஸார், நீதிமன்றத்தில் முன்வைத்த ஆதாரங்களை அடிப்படையாக வைத்தே மேலதிக நீதவான் மேற்கண்டவாறு உத்தரவிட்டார்.
-
-பொரளை கனத்தை சுற்று வட்டத்திற்கு அருகில் திங்கட்கிழமை (28) காலை இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார். ஏழு பேர் காயமடைந்தனர்.
-
-சம்பவத்தை அடுத்து கிரேன் ஓட்டுநர் கைது செய்யப்பட்டார். அவர்,  சம்பவத்தின் போது கஞ்சா போதையில் இருந்திருக்கலாம் என சந்தேகிக்கப்படுகிறது.
-
-ராஜகிரியவில் இருந்து பௌத்தலோக மாவத்தை நோக்கிச் சென்ற கிரேன், ஆறு மோட்டார் சைக்கிள்கள் மற்றும் போக்குவரத்து சிக்னலில் நிறுத்தப்பட்டிருந்த மூன்று வாகனங்கள் மீது மோதியதில் இந்த விபத்து நிகழ்ந்துள்ளது.
-
-...
-
-[Data](articles/8d49bb5a.json)
-
----
-
-### මාලේ ගිය නාමල් දිවයිනට
-
-*2025-07-29 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212780) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා මාලදිවයි‍නේ සංචාරය නිමා කරමින් අද (29) උදෑසන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණියේය.
-
-එහිදී ඔහුගේ පැමිණීම බලාපොරොත්තුවෙන් නීතීඥවරුන් කිහිප දෙනෙකු සහ දේශපාලන ආධාරකරුවන් පිරිසක් ද කටුනායක ගුවන්තොටුපොළ පරිශ්‍රය වෙත පැමිණ සිටි බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-හම්බන්තොට අධිකරණය මගින් නිකුත් කර තිබෙන වරෙන්තුවකට අනුව නාමල් රාජපක්ෂ මහතාව කටුනායකදී අත්අඩංගුවට ගැනීමේ සූදානමක් පවතින බවට පළවූ වාර්තා පදනම් කරගෙන මෙලෙස ඔහුගේ ආධාරකරුවන් පිරිසක් ගුවන්තොටුපොළ පරිශ්‍රයට පැමිණ තිබුණි.
-
-එවන් පසුබිමක් තුළ අද (29) උදෑසන 11:30ට පමණ මාලදිවයිනේ මාලේ නුවර සිට ශ්‍රීලන්කන් ගුවන් සේවයේ යූ.එල්. 102 දරන ගුවන් යානයෙන් නාමල් රාජපක්ෂ මහතා කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
-
-පසුව නාමල් රාජපක්ෂ මහතා දහවල් 12:30ට පමණ කටුනායක ගුවන්තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය ඔස්සේ පිටව ගියේය.
-
-2017 වසරේ දී හම්බන්තොට වරාය විදෙස් රටවලට පැවරීමට එරෙහිව පැවති විරෝධතාවකදී අධිකරණ නියෝග නොතකමින් කටයුතු කිරීම සම්බන්ධයෙන් නාමල් රාජපක්ෂ මන්ත්‍රීවරයා ඇතුළු පිරිසකට එරෙහිව නඩුවක් ගොනු කර තිබේ.
-
-...
-
-[Data](articles/05e9ba1a.json)
 
 ---

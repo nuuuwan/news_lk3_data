@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 00:28:32**
+As of **2025-07-30 00:49:30**
 
 ## Newspaper Stats
 
-*Scraped **67,590** Articles*
+*Scraped **67,591** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 694
+colombotelegraphcom | 695
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,590 articles have been extended.
+61,973 (91.7%) of 67,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -519,6 +519,20 @@ He said that forensic evidence was used to establish that the rifles found on th
 ...
 
 [Data](articles/6d9a56d8.json)
+
+---
+
+### Neelan: Unsilenced – Documentary On Neelan Tiruchelvam Released
+
+*2025-07-29 19:08:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/neelan-unsilenced-documentary-on-neelan-tiruchelvam-released/) · `en`
+
+The release of this documentary comes at a critical juncture in Sri Lanka’s political history. President Anura Kumara Dissanayake and the National People’s Power (NPP) hold an extraordinary parliamentary supermajority. This rare political opportunity provides the platform to enact long-overdue constitutional reforms—reforms that Dr. Neelan Tiruchelvam envisioned nearly three decades ago as essential to redressing the grievances of Sri Lanka’s minority communities.
+
+Yet, despite the scope of the NPP’s electoral mandate, meaningful steps toward constitutional reform have been disappointingly absent. It is my sincere hope that this documentary will serve as both an urgent call to action and a source of inspiration—encouraging the Sri Lankan public to hold President Dissanayake accountable to his promises and to advocate for Dr. Tiruchelvam’s vision of a just and inclusive constitution.
+
+...
+
+[Data](articles/cbb44eb1.json)
 
 ---
 
@@ -1797,27 +1811,5 @@ The move follows efforts by local governments to boost birth rates in China.
 ...
 
 [Data](articles/1be369d8.json)
-
----
-
-### දොඹකරයේ රියදුරු රිමාන්ඩ් - අයිතිකරුට ඇප
-
-*2025-07-29 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212776) · `si`
-
-ඊයේ දින බොරැල්ල ප්‍රදේශයේ සිදුවූ මාරක රිය අනතුරු සිද්ධියට සම්බන්ධ දොඹකරයේ රියදුරු ලබන 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ රථවාහන මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-එම සිද්ධියට සම්බන්ධ දොඹකරයේ හිමිකරු රුපියල් ලක්ෂ පහක ශරීර ඇපයක් මත මුදා හැරීමටත් එම අධිකරණය විසින් නියම කරනු ලැබීය.
-
-සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ බොරැල්ල පොලීසියේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ රථවාහන මහෙස්ත්‍රාත් එම්.එන්. රිස්වාන් මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
-
-සැකකරුවන් අධිකරණයට ඉදිරිපත් කරමින් කරුණු දක්වූ බොරැල්ල පොලීසියේ නිලධාරීන් ඊයේ පෙරවරු 8.45ට පමණ බොරැල්ල කනත්ත වටරවම ආසන්නයේ සිදුවූ මෙම මාරක රිය අනතුර හේතුවෙන් එක් පුද්ගලයකු මියගොස් තවත් පුද්ගලයින් හත් දෙනකු බරපතළ තුවාල ලබා තිබෙන බව සඳහන් කළේය.
-
-ඊට අමතරව යතුරු පැදි 06කට සහ කාර් රථ දෙකකට හානි සිදුවූ බවත් ඔහු කියා සිටියේය.
-
-තුවාල ලබා සිටින පිරිස් අතර පොලිස් නිලධාරින් දෙදෙනෙකු හා අල්ලස් කොමිසමට අනුයුක්ත පොලීසිය නිලධාරියකුත්  සිටින බව පොලීසිය ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/06d23186.json)
 
 ---

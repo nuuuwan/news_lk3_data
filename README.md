@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 23:22:06**
+As of **2025-07-29 23:33:54**
 
 ## Newspaper Stats
 
-*Scraped **67,584** Articles*
+*Scraped **67,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,496
-adaderanalk | 8,331
+adaderanalk | 8,332
 tamilmirrorlk | 9,791
-virakesarilk | 11,261
+virakesarilk | 11,265
 adaderanasinhalalk | 11,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,584 articles have been extended.
+61,973 (91.7%) of 67,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### யாழில் இடம்பெற்ற கோர விபத்து!
+
+*2025-07-29 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221321) · `ta`
+
+யாழ்ப்பாணம் - பருத்தித்துறை வீதியின் கோப்பாய் பகுதியில் செவ்வாய்க்கிழமை (29) கோர விபத்து சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+இந்த விபத்தில் பேருந்தில் பயணித்த சிலரும் காரில் பயணித்த ஒருவரும் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/60d5197d.json)
+
+---
+
+### மன்னார் கடற்பரப்பில் 14 இந்திய மீனவர்கள் கைது
+
+*2025-07-29 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221320) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இரண்டு இந்திய மீன்பிடி படகுகள் பத்தலங்குண்டுவ மற்றும் மன்னாரின் வடக்கு கடற்பரப்பில் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பத்தலங்குண்டுவ கடல் பகுதியிலும் மன்னாருக்கு வடக்கே உள்ள கடல் பகுதியிலும் மேற்கொண்ட சிறப்பு தேடுதல் நடவடிக்கையின் போது, இலங்கை கடற்பரப்பில் சட்டவிரோத மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டிருந்த 14 இந்திய மீனவர்களுடன் இந்திய மீன்பிடி படகுகள் இரண்டும்  இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+நாட்டின் கடற்பரப்பை மீறி வெளிநாட்டு மீன்பிடி கப்பல்கள் மேற்கொள்ளும் சட்டவிரோத மீன்பிடி நடவடிக்கைகளை தடுக்கவும், உள்ளுர் மீனவ மக்களின் வாழ்வாதாரத்தை பாதுகாக்கவும் கடற்படை வழக்கமான நடவடிக்கைகளை மேற்கொண்டு வருகிறது.
+
+இந்த நடவடிக்கைகளின் மூலம், 02 இந்திய மீன்பிடி படகுகள் மற்றும் அதில் இருந்த 14 இந்திய மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டு, கல்பிட்டி மற்றும் தலைமன்னார் படகுத்துறைக்கு கொண்டு வரப்பட்டு, மேலதிக சட்ட நடவடிக்கைகளுக்காக கல்பிட்டி மற்றும் தலைமன்னார் உதவி மீன்வள ஆய்வாளர் அலுவலகங்களில் ஒப்படைக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/799b6757.json)
+
+---
+
+### யாழில் 6 பிரதேச செயலகங்களில் நிர்வாக உத்தியோகத்தர் இல்லை - ஒருவர் மட்டும்  14 வருடங்களாக ஒரே பிரதேச செயலகத்தில்!
+
+*2025-07-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221319) · `ta`
+
+யாழ். மாவட்டத்திலுள்ள 15 பிரதேச செயலகங்களில் 9 பிரதேச செயலகங்களில் மட்டும் நிரந்தர நிர்வாக உத்தியோத்தர் (AO) காணப்படுகின்ற நிலையில் ஏனைய 6 பிரதேச செயலகங்களிலும் நிரந்த உத்தியோகத்தர் இன்றி பதில் கடமை உத்தியோகத்தர்களே கடமையில் உள்ளமை தகவல் அறியும் சட்ட மூலம் உறுதிப்படுத்தப்பட்டுள்ளது.
+
+யாழ். மாவட்டத்தில் உள்ள பிரதேச செயல்களான யாழ்ப்பாணம் நல்லூர் சங்கானை, உடுவில், சாவகச்சேரி கரவெட்டி ,பருத்தித்துறை மற்றும் மருதங்கேணி ஆகிய பிரதேச செயலகங்களில் கடமைகள் உள்ள நிர்வாக உத்தியோத்தர் அனேகமாக 2021 ஆம் ஆண்டு பொறுப்பேற்றவர்களாக காணப்படுகின்றனர்.
+
+இந்நிலையில் கோப்பாய் பிரதேச செயலகத்தில் கடமையாற்றம் நிர்வாக உத்தியோத்தர் மட்டும் 2011 இருந்து இன்று வரை  இடமாற்றம் ஏதும் இன்றி கோப்பாய் பிரதேச செயலகத்தில் 14 வருடங்களாக தொடர்ந்து கடமையில் உள்ளார்.
+
+ஏனைய பிரதேச செயலகங்களான வேலனை ,நெடுந்தீவு ஊர்காவற்துறை, காரைநகர் தெல்லிப்பழை மற்றும் சண்டிலிப்பாய் ஆகிய பிரதேச செயலகங்களில் நிர்வாக உத்தியோத்தர் நிரந்தரமாக நியமிக்கப்படவில்லை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2219dede.json)
+
+---
+
+### தூக்கில் தொங்கிய நிலையில் பெண்ணின் சடலம் மீட்பு!
+
+*2025-07-29 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221318) · `ta`
+
+வவுனியா குடியிருப்பு பகுதியில் உள்ள வீடொன்றில் இருந்து தூக்கில்தொங்கிய நிலையில் பெண் ஒருவரின் சடலத்தினை பொலிசார் மீட்டுள்ளனர்.
+
+குடியிருப்பு மடத்தடிவீதியில் அமைந்துள்ள வீடொன்றில் சடலம் ஒன்று இருப்பது தொடர்பாக வவுனியா பொலிசாருக்கு செவ்வாய்க்கிழமை (29) இரவு தகவல் வழங்கப்பட்டிருந்தது.
+
+சம்பவ இடத்திற்கு சென்ற பொலிசார் சடலத்தை மீட்டுள்ளதுடன் விசாரணைகளை முன்னெடுத்துள்ளனர். குறித்த வீட்டின் கீழ்தளத்தில் தனிமையில் இருந்த பெண் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+வீட்டின் கதவு மூடப்பட்டிருந்த நிலையில் பொலிசாரார் அதனை உடைத்து உள்ளேசென்றிருந்தனர்.  சம்பவத்தில் குடியிருப்பு பகுதியை சேர்ந்த எழிலரசி வயது 53 என்ற பெண்ணே சடலமாக மீட்கப்பட்டார்.
+
+◼️
+
+[Data](articles/c8e2fb40.json)
+
+---
 
 ### දියේ ගිලී තරුණයෙකු ජීවිතක්ෂයට
 
@@ -92,17 +160,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### සැන්ට්නර් නවසීලන්ත ටෙස්ට් කණ්ඩායමේ නායකත්වයට
+### Maldivian Deputy Speaker and ministers hold bilateral talks with President Dissanayake
+
+*2025-07-29 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110980/maldivian-deputy-speaker-and-ministers-hold-bilateral-talks-with-president-dissanayake) · `en`
+
+Deputy Speaker of the Maldives and five other Maldivian ministers met with President Anura Kumara Dissanayake today (29) at the ‘Kurumba Maldives’ resort and held discussions.
+
+Accordingly, Mr. Ahmed Nazim, Deputy Speaker of the Maldives; Dr. Abdulla Khaleel, Minister of Foreign Affairs; Mr. Mohamed Saeed, Minister of Economic Development and Trade; Mr. Mohamed Ghassan Maumoon, Minister of Defence; Mr. Moosa Zameer, Minister of Finance and Planning; and Mr. Ali Ihusaan, Minister of Home Security and Technology, held talks with the President during the meeting, the President’s Media Division (PMD) said.
+
+They extended their gratitude to President Dissanayake for undertaking the state visit and expressed confidence that the visit, held in commemoration of 60 years of diplomatic ties between Sri Lanka and the Maldives, would lay the foundation for deeper cooperation, broader understanding, and stronger friendship between the two nations.
+
+...
+
+[Data](articles/effe66b4.json)
+
+---
+
+### නවසීලන්ත ටෙස්ට් නායකත්වය සැට්නර්ට
 
 *2025-07-29 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212800) · `si`
 
-නවසීලන්තය ක්‍රිකට් කණ්ඩායමේ නව ටෙස්ට් නායකයා ලෙස තුන් ඉරියව් ක්‍රීඩක මිචෙල් සැන්ට්නර් නම් කර තිබේ.
+සිම්බාබ්වේ කණ්ඩායමට එරෙහි තරග 2කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයේ නවසීලන්ත කණ්ඩායමේ වැඩබලන නායකයා ලෙස තුන්ඉරියව් ක්‍රීඩක මිචෙල් සැට්නර් නම් කර තිබේ.
 
-ඒ නවසීලන්ත කණ්ඩායමේ නිත්‍ය නායක ටොම් ලැතම් සිම්බාබ්වේ කණ්ඩායම සමග පැවති පළමු ටෙස්ට් තරගයේ දී උරහිසේ ආබාධයකට ලක්ව තිබුණි.
+නවසීලන්ත නිත්‍ය නායක ටොම් ලේතම් මේ වනවිට උරහිසේ ආබාධයකට ලක්ව සිටින අතර, ඔහු දෙවන ටෙස්ට් තරගයට ක්‍රීඩා කරනු ඇති බව නවසීලන්තය ක්‍රිකට් නිවේදනය කර ඇත.
 
-ඒ අනුව සිම්බාබ්වේ කණ්ඩායම සමග පැවැත්වෙන ඉදිරි ටෙස්ට් ක්‍රිකට් තරග සඳහා මිචෙල් සැන්ට්නර් නායකත්වය දරනු ඇත.
+මේ හේතුවෙන් නවසීලන්ත සීමිත පන්දුවාර තරගවල නායකයා වන සැට්නර්ට මෙම වගකීම ලැබී තිබේ.
 
-නවසීලන්ත පිරිමි ටෙස්ට් ක්‍රිකට් කණ්ඩායමේ නායකත්වයට පත් වූ 32 වන ක්‍රීඩකයා බවට මිචෙල් සැන්ට්නර් පත්ව තිබේ.
+ඒ අනුව නවසීලන්ත පිරිමි ටෙස්ට් ක්‍රිකට් කණ්ඩායමක් මෙහෙයවන 32 වන නායකයා මිචෙල් සැට්නර් වනු ඇත.
 
 ◼️
 
@@ -442,7 +526,13 @@ He said that forensic evidence was used to establish that the rifles found on th
 
 *2025-07-29 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212795) · `si`
 
-අල්ලස් ලබා ගැනීමේ චෝදනාවක් මත මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+අදාළ සැකකරු අද (29) පස්වරු 5.07ට පමණ මාලිගාවිල - මොනරාගල මාර්ගයේ වීරගස් හංදිය අසල දී අත්අඩංගුවට ගෙන ඇත.
+
+ඔක්කම්පිටිය ගාමිණීපුර ප්‍රදේශයේ ව්‍යාපාරිකයකු විසින් සිදු කරන ලද පැමිණිල්ලකට අනුව සැකකාර පොලිස් පක්ෂකවරයා මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+එලෙස එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂණ් සභාවේ විමර්ශන නිලධාරීන් විසින්ය.
+
+අදාළ පැමිණිලිකරු විසින් ඔක්කම්පිටිය ප්‍රදේශයේ පවත්වා ගෙන යනු ලබන වැලි ව්‍යාපාරය කරදරයකින් තොරව පවත්වා ගෙන යාමට හා වැලි කැණීම් කරන ස්ථානයේ සිට ගබඩාවට ට්‍රැක්ටර් මගින් වැලි ප්‍රවාහනය සිදු කරනු ලබන අවස්ථාවන් හි දී නීති මගින් කටයුතු නොකර සිටීම සඳහා මාසිකව රුපියල් 50,000/-ක මුදලක් බැගින් ඉල්ලා, අවස්ථා ගණනාවක දී රුපියල් 47,000/-ක මුදලක් ඉල්ලා ලබා ගෙන නැවත ඉහත පරිදි කටයුතු කර දීම සඳහා සැකකරු විසින් අලුතින් ඉදිකරනු ලබන නිවසේ වැඩ කටයුතු සඳහා වැලි කියුබ් 03ක් හෝ එහි වටිනාකම වන රුපියල් 45,000/-ක මුදලක් අල්ලස් ලෙස ඉල්ලා එකී මුදල රුපියල් 40,000/- දක්වා අඩුකර ලබා ගැනීමේ දී අදාළ සැකකරු අත්අඩංගුවට ගෙන ඇත.
 
 ◼️
 
@@ -1745,89 +1835,5 @@ One of the injured individuals succumbed to his injuries at the time of admissio
 ...
 
 [Data](articles/fd5708b9.json)
-
----
-
-### நாடு திரும்பினார் நாமல்
-
-*2025-07-29 13:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-நாமல்/175-361979) · `ta`
-
-நீதிமன்றத்தால் பிடியாணை பிறப்பிக்கப்பட்டிருந்த போதிலும் மாலைதீவு சென்றிருந்த பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ, செவ்வாய்க்கிழமை (29)    காலை நாடு திரும்பினார்.
-
-ஹம்பாந்தோட்டை துறைமுக விற்பனைக்கு எதிராக 2017 ஆம் ஆண்டு நடைபெற்ற போராட்டத்தின் போது ஒழுங்கீனமாக நடந்து கொண்டதாகக் கூறப்படும் சம்பவம் தொடர்பாக தாக்கல் செய்யப்பட்ட வழக்கில் ஆஜராகத் தவறியதற்காக ஹம்பாந்தோட்டை பிரதான நீதவான் ஓஷத மகா ஆராச்சி இந்த பிடியாணையை,  திங்கட்கிழமை (29) பிறப்பித்தார்.
-
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவை பிரதிநிதித்துவப்படுத்தும் வழக்கறிஞர்கள் குழுவும்   ஹம்பாந்தோட்டை நீதிமன்றத்தில் ஒரு மனுவை இன்று (29) காலை சமர்ப்பித்தது.
-
-◼️
-
-[Data](articles/2ef6c679.json)
-
----
-
-### இன அழிப்புக்கு சர்வதேச பொறிமுறையின் ஊடாக விசாரணை ; கரைச்சி, பூநகரி, பளை பிரதேச சபைகளில் பிரேரணை முன்மொழிவு
-
-*2025-07-29 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221268) · `ta`
-
-இலங்கையில் தமிழ் மக்கள் மீது மேற்கொள்ளப்பட்ட இன  அழிப்பு நடவடிக்கைக்கு உள்நாட்டு விசாரணை நீதியை பெற்றுத்தராது. எனவே சர்வதேச  விசாரணை பொறிமுறை ஒன்றை உருவாக்க வலியுறுத்தி கிளிநொச்சி கரைச்சி, பளை, பூநகரி பிரதேச சபைகளின் அடுத்த அமர்வில் பிரேரணை ஒன்றை ஐனநாயக தமிழ்த்தேசியக் கூட்டணியின் பங்காளி கட்சியான சமத்துவக் கட்சி பிரதேச சபை உறுப்பினர்கள் சமர்த்துள்ளனர்.
-
-இலங்கையில் வாழ்கின்ற சிறுபான்மை இனமான தமிழ் இனம் மீது இலங்கை சுதந்திரம் அடைந்த காலம் தொட்டு மாறி மாறி ஆட்சிக்கு வந்த அரசுகள் 2009 வரை மேற்கொண்டது ஒரு இனவழிப்பு நடவடிக்கையே எனவும். அதன் உச்சக்கட்டமாக 2009 இறுதி யுத்தகாலத்தில் மிக கொடூரமான இனவழிப்பு யுத்தத்தில் பல ஆயிரக்கணக்கான  தமிழ் மக்கள் கொல்லப்பட்டார்கள். அத்தோடு ஆயிரக்கணக்கான தமிழ் மக்கள் காணாமல் ஆக்கப்பட்டுள்ளார்கள், தமிழ் மக்களின் பூர்வீக பிரதேசங்களான வடக்கு கிழக்கில்  பல இடங்களில் பாரிய மனித புதைகுழிகள் காணப்படுகின்றன. அதன் ஒரு பெரும் சாட்சியாக செம்மணி மனித புதைக்குழி உள்ளது.
-
-...
-
-[Data](articles/1ed242dd.json)
-
----
-
-### Sri Lanka’s Current Economic Outlook
-
-*2025-07-29 13:40:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-current-economic-outlook/) · `en`
-
-Sri Lanka is a lower-middle-income island nation in South Asia with a mixed economy traditionally based on agriculture, manufacturing, and services. Strategically located along major shipping routes, the country has developed key industries such as tea production, garment manufacturing, tourism, and remittances.
-
-Following decades of civil conflict, Sri Lanka’s economy experienced rapid expansion in the post-war period (2009–2012), fueled by public investment and growth in tourism. However, persistent fiscal deficits, rising external debt, and structural inefficiencies left the economy vulnerable to shocks.
-
-In 2022, Sri Lanka faced its most severe economic crisis in decades, characterized by a sovereign debt default, foreign exchange shortages, soaring inflation, and widespread social unrest. Since then, the country has embarked on a path of macroeconomic stabilization and reform, supported by international partners including the IMF.
-
-...
-
-[Data](articles/33dbdcc9.json)
-
----
-
-### ජපන් රැකියාලාභීන්ගේ ගුණාත්මකභාවය ඉහළ නැංවීමට පියවර
-
-*2025-07-29 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212774) · `si`
-
-ජපානයේ රැකියා සඳහා යොමුවීමට අපේක්ෂා කරන ශ්‍රී ලාංකිකයින්ගේ භාෂා හැකියාව හා පුහුණු කටයුතු වැඩිදියුණු කිරීම තුළින් රැකියා අපේක්ෂිතයින්ගේ ගුණාත්මකභාවය ඉහළ නැංවීමට පියවර ගෙන තිබේ.
-
-ඒ සඳහා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පියවර ගනිමින් සිටින බව එම කාර්යාංශයේ සාමාන්‍යාධිකාරී ඩී.ඩී.පී.සේනානායක මහතා ප්‍රකාශ කළේය.
-
-මේ දිනවල ශ්‍රී ලංකාවේ සංචාරය නිරතවන IM Japan ආයතයේ සභාපති කිමුරා හිසයොෂි හා එහි කළමනාකරණ අධ්‍යක්ෂක ෆුකගාවා මසහිකෝ යන මහත්වරුන් ඊයේ (28) කාර්යාංශයේ ඉහළ කළමනාකාරීත්වයේ නිලධාරීන් හමුවූ අතර, එහිදී සේනානායක මහතා මේ අදහස් පවසා තිබේ.
-
-ශ්‍රී ලාංකිකයින්ට ජපානයේ සාත්තු සේවා ක්ෂේත්‍රයේ ඉහළ ඉල්ලුමක් පවතින බැවින්, සාත්තු සේවා පුහුණුලාභීන් ප්‍රමාණය වැඩි කිරීම සුදුසු බව IM Japan ආයතනයේ සභාපතිවරයා මෙහිදී ප්‍රකාශ කළ අතර, ඒ සඳහා පුහුණු සංචිතයක් පවත්වාගෙන යාම සුදුසු බව වැඩිදුරටත් ප්‍රකාශ කර ඇත.
-
-එසේම විශේෂ නිපුණතා සහිත රැකියා (SSW) සඳහා කුසලතා පරීක්ෂණයට අදාළ ඉගැන්වීමේ කටයුතු කාර්යාංශය හරහා සිදුකිරීමට IM Japan ආයතනයේ සහාය ලබාදීමටද කිමුරා මහතා මෙහිදී එකඟතාවය පළකර තිබේ.
-
-...
-
-[Data](articles/72e0f4bb.json)
-
----
-
-### UN Women says 1 mln women, girls starving in Gaza
-
-*2025-07-29 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110962/un-women-says-1-mln-women-girls-starving-in-gaza) · `en`
-
-One million women and girls in the Gaza Strip are facing mass starvation, violence and abuse, UN Women said in a statement on the escalating humanitarian catastrophe in Gaza on Monday.
-
-Malnutrition is soaring and essential services have long collapsed, forcing women and girls to adopt increasingly dangerous survival strategies, the statement said.
-
-“Women and girls in Gaza are facing the impossible choice of starving to death at their shelters, or venturing out in search of food and water at the extreme risk of being killed. Their children are starving to death before their eyes. This is horrific, unconscionable and unacceptable. It is inhumane,” UN Women Executive Director Sima Bahous said in the statement.
-
-“This suffering must end immediately. We need unhindered humanitarian access at scale and a permanent ceasefire leading to sustainable peace,” she said.
-
-...
-
-[Data](articles/f0b8d014.json)
 
 ---

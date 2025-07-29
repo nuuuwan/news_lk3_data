@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 20:06:52**
+As of **2025-07-29 19:50:48**
 
 ## Newspaper Stats
 
-*Scraped **67,554** Articles*
+*Scraped **67,551** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 691
+colombotelegraphcom | 690
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,492
 adaderanalk | 8,325
-tamilmirrorlk | 9,788
+tamilmirrorlk | 9,786
 virakesarilk | 11,251
 adaderanasinhalalk | 11,619
 
@@ -26,49 +26,11 @@ adaderanasinhalalk | 11,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,554 articles have been extended.
+61,973 (91.7%) of 67,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
-
-### உலகின் மிகச் சிறந்த தீவுகள் பட்டியலில் இலங்கை முதலிடம்
-
-*2025-07-29 19:42:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்-சிறந்த-தீவுகள்-பட்டியலில்-இலங்கை-முதலிடம்/175-361996) · `ta`
-
-உலகளாவிய பயண தளமான பிக் 7 டிராவல் தொகுத்த "உலகின் 50 சிறந்த தீவுகள்" பட்டியலில் இலங்கை முதலிடத்தைப் பிடித்து, உலகின் மிக அழகான தீவாக முடிசூட்டப்பட்டுள்ளது.
-
-2025 ஆம் ஆண்டுக்கான பட்டியல் உலகின் மிகவும் அழகிய தீவுகளைக் கொண்டாடுகிறது, பிரெஞ்சு பாலினேசியாவின் மோரியா, ஈக்வடாரில் உள்ள கலபகோஸ் தீவுகள் மற்றும் சீஷெல்ஸ் போன்ற பிரபலமான தீவு சொர்க்கங்களை , இலங்கை முந்திக் கொண்டுள்ளது.
-
-பிக் 7 டிராவல் இன் படி, இலங்கை அதன் வளமான கலாச்சார பாரம்பரியம், மாறுபட்ட நிலப்பரப்புகள் மற்றும் அழகிய கடற்கரைகள் ஆகியவற்றின் கலவைக்காகத் தேர்ந்தெடுக்கப்பட்டது.
-
-தீவு தேசத்தின் தனித்துவமான வனவிலங்குகள், பழங்கால கோயில்கள், பசுமையான தேயிலைத் தோட்டங்கள் மற்றும் துடிப்பான உள்ளூர் அனுபவங்களுக்காகவும் இந்தப் பட்டியல் இலங்கையை எடுத்துக்காட்டியது.
-
-◼️
-
-[Data](articles/112e8226.json)
-
----
-
-### காணாமல் போன மீனவர்களின் வீடுகளுக்குச் சென்ற சஜித்
-
-*2025-07-29 19:42:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-மீனவர்களின்-வீடுகளுக்குச்-சென்ற-சஜித்/175-361995) · `ta`
-
-சிலாபம் பகுதியில் அமைந்து காணப்படும் வெல்ல கொலனி பகுதியை சேர்ந்த இரு மீனவர்கள் கடந்த பத்து நாட்களுக்கு முன்பதாக விபத்தில் சிக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-கடலுக்குச் சென்ற 3 மீன்பிடி இயந்திர படகுகளில் ஒரு படகு பலத்த காற்று மற்றும் புயல் காரணமாக காணாமல் போயுள்ளதுடன், அதில் பயணித்த இரு மீனவர்களும் காணாமல் போயுள்ளனர்.
-
-இது தொடர்பாக அரசாங்க அதிகாரிகளுக்கு பல முறை தகவல் தெரிவித்தும், எந்த நடவடிக்கையும் எடுக்கப்பட்டிருக்கவில்லை.
-
-பத்து நாட்களுக்குப் பிறகும், கிராம மக்களினது தேடுதல் முயற்சியால் காணாமல் போன ஒருவரது சடலம் கண்டுபிடிக்கப்பட்டது. ஆனால் அடுத்த மீனவரின் சடலம் இன்னும் கண்டுபிடிக்கப்படவில்லை.
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று (28) சிலாபம் பகுதிக்கு விஜயம் செய்த தருணம் குறித்த விடயமறிந்து, காணாமல் போன மீனவர்களின் வீடுகளுக்குச் சென்று குடும்பத்தினரைச் சந்தித்து விடயங்களை நேரில் கேட்டறிந்தார்.
-
-...
-
-[Data](articles/9f77147f.json)
-
----
 
 ### යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ ගැන හෙරිටේජ් එලායන්ස් ලංකා සංවිධානයෙන් ඉල්ලීමක්
 
@@ -1264,22 +1226,6 @@ One of the injured individuals succumbed to his injuries at the time of admissio
 
 ---
 
-### Sri Lanka’s Current Economic Outlook
-
-*2025-07-29 13:40:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-current-economic-outlook/) · `en`
-
-Sri Lanka is a lower-middle-income island nation in South Asia with a mixed economy traditionally based on agriculture, manufacturing, and services. Strategically located along major shipping routes, the country has developed key industries such as tea production, garment manufacturing, tourism, and remittances.
-
-Following decades of civil conflict, Sri Lanka’s economy experienced rapid expansion in the post-war period (2009–2012), fueled by public investment and growth in tourism. However, persistent fiscal deficits, rising external debt, and structural inefficiencies left the economy vulnerable to shocks.
-
-In 2022, Sri Lanka faced its most severe economic crisis in decades, characterized by a sovereign debt default, foreign exchange shortages, soaring inflation, and widespread social unrest. Since then, the country has embarked on a path of macroeconomic stabilization and reform, supported by international partners including the IMF.
-
-...
-
-[Data](articles/33dbdcc9.json)
-
----
-
 ### ජපන් රැකියාලාභීන්ගේ ගුණාත්මකභාවය ඉහළ නැංවීමට පියවර
 
 *2025-07-29 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212774) · `si`
@@ -1863,5 +1809,67 @@ US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
 ◼️
 
 [Data](articles/9e5e0d2f.json)
+
+---
+
+### Bay of Bengal earthquake has no impact on Sri Lanka - GSMB
+
+*2025-07-29 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110954/bay-of-bengal-earthquake-has-no-impact-on-sri-lanka-gsmb) · `en`
+
+There is no impact on Sri Lanka from the earthquake reported earlier today near the Andaman and Nicobar Islands, in the Bay of Bengal, the Geological Survey and Mines Bureau has stated.
+
+An earthquake of magnitude 6.3 hit the Bay of Bengal, at 00.11 a.m.
+
+According to India’s National Center for Seismology, the depth of the quake of 10 km and the exact location was Latitude 6.82 N, Longitude 93.37 E.
+
+Several strong aftershocks were reported following the quake, but no damage to property or loss of life has been reported.
+
+Issuing a statement on the incident, the Director General of the Geological Survey and Mines Bureau, Deepani Weerakoon confirmed that there is no impact on Sri Lanka from the earthquake.
+
+She also mentioned that the epicenter of the earthquake was about 259 km west-northwest of Sabang in Indonesia’s Aceh province.
+
+Although several aftershocks were reported following the earthquake, Weerakoon further stated that the public need not to panic regarding the event.
+
+◼️
+
+[Data](articles/1f3d6d99.json)
+
+---
+
+### කොස්තාපල්වරයාගේ නිවසේ මත්පෙති ගබඩාවක්
+
+*2025-07-29 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212768) · `si`
+
+සිය නිවස තුළ මත්පෙති ගබඩාවක් පවත්වාගෙන ගිය පොලිස් කොස්තාපල්වරයෙකු ඇතුළු තිදෙනකු රුපියල් කෝටි 2කට ආසන්න වටිනාකමින් යුත් මත්පෙති තොගයක් සමග අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොහුවල පොලිසියේ රථවාහන අංශයට අනුයුක්තව සේවය කළ කොස්තාපල්වරයෙකි.
+
+අත්අඩංගුවට පත්වූවන් අතර කොස්තාපල්වරයාගේ බිරිඳ සහ මත්පෙති සැපයූ බව කියන පුද්ගලයා ද සිටී.
+
+එම නිවස තුළ ගබඩා කර තිබී මිලිගෑම් 150 මත්පෙති පෙට්ටි 21ක් හා මිලිගෑම් 300 මත්පෙති පෙට්ටියක් සමග සම්පූර්ණ මත් පෙති 1,330,420ක ප්‍රමාණයක් පොලිසිය සිය භාරයට ගෙන ඇත.
+
+බොරලැස්ගමුව බෙල්ලන්විල ජය මාවත ප්‍රදේශයේ තාවකාලිකව පදිංචි කොහුවල පොලිසියේ රථවාහන අංශයට අනුයුක්ත කොස්තාපල්වරයෙක් නිවස තුළ මත්පෙති ගබඩාවක් පවත්වාගෙන යමින් දිවයින පුරා බෙදා හරින බවට මන්නාරම කොට්ඨාස අපරාධ විමර්ශන අංශයට යුද හමුදා බුද්ධි අංශයෙන් ලද තොරතුරකට අනුව මෙම වැටලීම සිදුකර ඇත තිබේ.
+
+...
+
+[Data](articles/7753263d.json)
+
+---
+
+### அஸ்வெசும கொடுப்பனவு நாளை
+
+*2025-07-29 11:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கொடுப்பனவு-நாளை/175-361963) · `ta`
+
+அஸ்வெசும சலுகைகளைப் பெறும் முதியோருக்கான மாதாந்திர கொடுப்பனவு நாளை (30) அவர்களின் வங்கிக் கணக்குகளில் வைப்பிலிடப்படும் என்று நலன்புரி சலுகைகள் சபை தெரிவித்துள்ளது.
+
+நாளை முதல் பயனாளிகள் தங்கள் நிதியை நியமிக்கப்பட்ட கணக்குகள் மூலம் அணுக முடியும் என்று சபைத் தலைவர் ஜெயந்த வீரரத்ன தெரிவித்தார்.
+
+நாடு முழுவதும் தகுதியுள்ள 600,768 பயனாளிகளின் வங்கிக் கணக்குகளில் மொத்தம் ரூ. 3,003 மில்லியனுக்கும் (ரூ. 3,003,840,000) அதிகமாக வரவு வைக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+குறைந்த வருமானம் மற்றும் பாதிக்கப்படக்கூடிய குடும்பங்களை ஆதரிப்பதை நோக்கமாகக் கொண்ட அஸ்வெசும திட்டம், அதன் நலன்புரி கட்டமைப்பின் கீழ் ஆயிரக்கணக்கான முதிய குடிமக்களுக்கு தொடர்ந்து நிதி உதவி வழங்கி வருகிறது.
+
+◼️
+
+[Data](articles/07f48d7f.json)
 
 ---

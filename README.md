@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 17:06:18**
+As of **2025-07-29 17:18:02**
 
 ## Newspaper Stats
 
-*Scraped **67,512** Articles*
+*Scraped **67,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,487
+adalk | 6,488
 adaderanalk | 8,315
 tamilmirrorlk | 9,784
 virakesarilk | 11,246
-adaderanasinhalalk | 11,609
+adaderanasinhalalk | 11,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,512 articles have been extended.
+61,973 (91.8%) of 67,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### ට්‍රම්ප්ගේ ප්‍රකාශයෙන් පැය කිහිපයකට පසු යුක්‍රේනයට රුසියාවෙන් ගුවන් ප්‍රහාරයක්
+
+*2025-07-29 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212789) · `si`
+
+යුක්‍රේනයේ ගිනිකොන දෙසින් පිහිටි බන්ධනාගාරයකට රුසියානු ගුවන් ප්‍රහාරයක් එල්ල වී තිබේ.
+
+අදාළ ගුවන් ප්‍රහාරයෙන් පුද්ගලයින් 17 දෙනෙකු මිය ගොස් තවත් 42 දෙනෙකු තුවාල ලබා ඇති බව යුක්‍රේන බලධාරීන් පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් රුසියානු ජනාධිපති ව්ලැඩ්මීර් පුටින්ට සාමය ඇති කිරීම සඳහා දී තිබූ කාලය සීමා කරන බවට ප්‍රකාශ කිරීමෙන් පැය කිහිපයකට පසු මෙම ප්‍රහාරය එල්ල වී ඇති බවය.
+
+යුක්‍රේන ජනාධිපතිවරයා ප්‍රහාරය සම්බන්ධයෙන් අදහස් දක්වමින් පවසා ඇත්තේ රුසියානු ප්‍රහාරයෙන් පුද්ගලයින් රැසක් තුවාල ලබා ඇති බවත් රුසියාව විසින් මෙම ප්‍රහාරය හිතා මතා සිදුකළ බවය.
+
+එමෙන්ම නිවේදනයක් නිකුත් කරමින් යුක්‍රේන අධිකරණ අමාත්‍යාංශය ප්‍රහාරය සම්බන්ධව අදහස් දක්වමින් පැවසුවේ අධි පුපුරන සුලු ගුවන් බෝම්බ හතරක් බන්ධනාගාරයට එල්ල වූ බවත් ප්‍රහාරයෙන් 42 දෙදෙනෙකු තුවාල ලැබූ බවත්ය.
+
+◼️
+
+[Data](articles/4d517c74.json)
+
+---
+
+### හෙට උණුසුම් වන ප්‍රදේශ ගැන නිවේදනයක්
+
+*2025-07-29 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212788) · `si`
+
+ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (30) දිනයේද අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අද (29) පස්වරු 04.00ට නිකුත්කරන ලද එම නිවේදනය හෙට දිනය සඳහා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+නැගෙනහිර සහ උතුරු මැද පළාත්වල සහ සහ වව්නියා දිස්ත්‍රික්කයේ ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේනදය කරයි.
+
+◼️
+
+[Data](articles/8e2a9d44.json)
+
+---
 
 ### සෙංකඩගල ඇසළ පෙරහරේ පළමු කුඹල් පෙරහර අද
 
@@ -273,6 +309,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/36d6e631.json)
+
+---
+
+### බීඩි සඳහා දුම්කොළ බද්ද වැඩි කිරීමේ ගැසට් පත්‍රයට මුදල් කාරක සභාවේ අනුමැතිය
+
+*2025-07-29 15:23:48* · [`adalk`](https://www.ada.lk/breaking_news/බීඩි-සඳහා-දුම්කොළ-බද්ද-වැඩි-කිරීමේ-ගැසට්-පත්‍රයට-මුදල්-කාරක-සභාවේ-අනුමැතිය/11-417586) · `si`
+
+ශ්‍රී ලංකාවේ නිෂ්පාදනය කරන සෑම බීඩි වර්ගයක් සඳහාම අය කරනු ලබන දුම්කොළ බද්ද (Tobacco Tax) 2025 අප්‍රේල් 02 වන දින සිට බලපැවැත්වෙන පරිදි රු. 2 සිට රු. 3 දක්වා වැඩි කිරීම සඳහා වන 2025 අප්‍රේල් 01 දිනැති අංක 2430/16 දරන අතිවිශේෂ ගැසට් නිවේදනය රජයේ මුදල් පිළිබඳ කාරක සභාව අනුමත කළේය.
+
+මේ පිළිබඳ සලකා බලනු ලැබුයේ රජයේ මුදල් පිළිබඳ කාරක සභාව ඒහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පසුගියදා (22) පාර්ලිමේන්තුවේදී රැසුවූ අවස්ථාවේදීය.
+
+උක්ත බදු ඉහළ නැංවීම 2025 අයවැය මගින් ප්‍රකාශයට පත් කරන ලද අතර, එය 1999 අංක 8 දරන දුම්කොළ බදු පනත යටතේ, 2 වන වගන්තියට අනුකූලව මුදල් අමාත්‍යවරයා විසින් කරන ලද නියෝගයක් මගින් ක්‍රියාත්මක කිරීමට නියමිතය.
+
+...
+
+[Data](articles/51ba7162.json)
 
 ---
 
@@ -1793,69 +1845,5 @@ Beijing issued its highest-level rain and flood alerts on Monday, advising resid
 ◼️
 
 [Data](articles/5588f544.json)
-
----
-
-### யட்டிநுவர எதிர்க்கட்சி தலைவரின் குடும்பத்தினர் சடலங்களாக மீட்பு
-
-*2025-07-29 09:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யட்டிநுவர-எதிர்க்கட்சி-தலைவரின்-குடும்பத்தினர்-சடலங்களாக-மீட்பு/76-361950) · `ta`
-
-யட்டிநுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவரான ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்  சம்பிகா விஜேரத்ன (53), அவரது மனைவி மற்றும் மகள் ஆகியோர் முருத்தலாவை கம்பியாடிய வீட்டில் மர்மமான முறையில் இறந்து கிடந்ததாக பேராதனை பொலிஸார் தெரிவித்தனர்.
-
-இறந்த சம்பிகா விஜேரத்ன நீண்டகால அரசியல்வாதி. அவரது உடல் வீட்டின் ஒரு அறையில் தூக்கில் தொங்கிய நிலையில் கண்டெடுக்கப்பட்டது, அதே நேரத்தில் அவரது 16 வயது மகள் மற்றும் மனைவியின் உடல்கள் வீடு முழுவதும் சிதறிக்கிடந்தன என்று பொலிஸார் தெரிவித்தனர். சம்பவத்தில் அவர்களின் இளம் மகள் உயிர் பிழைத்ததாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த மர்மமான மரணங்களுக்கான காரணம் இன்னும் தெரியவில்லை என்று பேராதனை பொலிஸார் தெரிவிக்கின்றனர். இது தற்கொலையா அல்லது வேறு ஏதேனும் காரணமா என்று பொலிஸார் விசாரித்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/d3ef9eb4.json)
-
----
-
-### Token strike by train drivers to go ahead as planned at midnight
-
-*2025-07-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110946/token-strike-by-train-drivers-to-go-ahead-as-planned-at-midnight) · `en`
-
-Train drivers have announced that the 48-hour token strike will go ahead as planned at midnight today (29).
-
-The General Secretary of the Locomotive Operating Engineers’ Union, Chandana Weeranduwa stated that although they have informed the authorities on multiple occasions about their issues, no firm solutions have been provided thus far.
-
-They also discussed these issues yesterday (28) with the General Manager of Railways, and Chandana Weeranduwa said that no acceptable resolution could be reached during the meeting.
-
-Yesterday, Chairman of the Union K.U. Konthasinghe said the token strike would be staged on 30 and 31 July if a positive response is not received to the letter submitted to the Ministry of Transport and the Department of Railways on July 22, 2025.
-
-He emphasized that the strike will definitely proceed unless a decisive solution is offered—particularly concerning administrative issues and infrastructure challenges faced by the train drivers.
-
-◼️
-
-[Data](articles/972d40b6.json)
-
----
-
-### Sri Lanka rupee weakens against dollar, bonds steady
-
-*2025-07-29 09:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-233298/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 301.90/302.10 to the US dollar in the spot market Tuesday, weaker from 301.95/302.03 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.45/55 percent, down from 8.52/60 percent.
-
-A bond maturing on 15.10.2028 was quoted flat at 9.00/05 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.50/58 percent, up from 9.52/57 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.42/50 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.70/80 percent, down from 10.75/86 percent.
-
-An auction of Rs. 92,500 million Treasury bills is scheduled to be held on July 30.
-
-Stocks opened up; the ASPI was up 0.13%, or 25.03 points, at 19,542.89; the S&P SL20 was up 0.06%, or 3.56 points, at 5,778.07. (Colombo/July29/2025)
-
-◼️
-
-[Data](articles/b3bf439b.json)
 
 ---

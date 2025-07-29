@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 13:50:42**
+As of **2025-07-29 14:07:29**
 
 ## Newspaper Stats
 
-*Scraped **67,474** Articles*
+*Scraped **67,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,478
+adalk | 6,479
 adaderanalk | 8,309
-tamilmirrorlk | 9,776
+tamilmirrorlk | 9,777
 virakesarilk | 11,244
-adaderanasinhalalk | 11,596
+adaderanasinhalalk | 11,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,474 articles have been extended.
+61,973 (91.8%) of 67,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### நாடு திரும்பினார் நாமல்
+
+*2025-07-29 13:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-நாமல்/175-361979) · `ta`
+
+நீதிமன்றத்தால் பிடியாணை பிறப்பிக்கப்பட்டிருந்த போதிலும் மாலைதீவு சென்றிருந்த பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ, செவ்வாய்க்கிழமை (29)    காலை நாடு திரும்பினார்.
+
+ஹம்பாந்தோட்டை துறைமுக விற்பனைக்கு எதிராக 2017 ஆம் ஆண்டு நடைபெற்ற போராட்டத்தின் போது ஒழுங்கீனமாக நடந்து கொண்டதாகக் கூறப்படும் சம்பவம் தொடர்பாக தாக்கல் செய்யப்பட்ட வழக்கில் ஆஜராகத் தவறியதற்காக ஹம்பாந்தோட்டை பிரதான நீதவான் ஓஷத மகா ஆராச்சி இந்த பிடியாணையை,  திங்கட்கிழமை (29) பிறப்பித்தார்.
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவை பிரதிநிதித்துவப்படுத்தும் வழக்கறிஞர்கள் குழுவும்   ஹம்பாந்தோட்டை நீதிமன்றத்தில் ஒரு மனுவை இன்று (29) காலை சமர்ப்பித்தது.
+
+◼️
+
+[Data](articles/2ef6c679.json)
+
+---
+
+### ජපන් රැකියාලාභීන්ගේ ගුණාත්මකභාවය ඉහළ නැංවීමට පියවර
+
+*2025-07-29 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212774) · `si`
+
+ජපානයේ රැකියා සඳහා යොමුවීමට අපේක්ෂා කරන ශ්‍රී ලාංකිකයින්ගේ භාෂා හැකියාව හා පුහුණු කටයුතු වැඩිදියුණු කිරීම තුළින් රැකියා අපේක්ෂිතයින්ගේ ගුණාත්මකභාවය ඉහළ නැංවීමට පියවර ගෙන තිබේ.
+
+ඒ සඳහා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පියවර ගනිමින් සිටින බව එම කාර්යාංශයේ සාමාන්‍යාධිකාරී ඩී.ඩී.පී.සේනානායක මහතා ප්‍රකාශ කළේය.
+
+මේ දිනවල ශ්‍රී ලංකාවේ සංචාරය නිරතවන IM Japan ආයතයේ සභාපති කිමුරා හිසයොෂි හා එහි කළමනාකරණ අධ්‍යක්ෂක ෆුකගාවා මසහිකෝ යන මහත්වරුන් ඊයේ (28) කාර්යාංශයේ ඉහළ කළමනාකාරීත්වයේ නිලධාරීන් හමුවූ අතර, එහිදී සේනානායක මහතා මේ අදහස් පවසා තිබේ.
+
+ශ්‍රී ලාංකිකයින්ට ජපානයේ සාත්තු සේවා ක්ෂේත්‍රයේ ඉහළ ඉල්ලුමක් පවතින බැවින්, සාත්තු සේවා පුහුණුලාභීන් ප්‍රමාණය වැඩි කිරීම සුදුසු බව IM Japan ආයතනයේ සභාපතිවරයා මෙහිදී ප්‍රකාශ කළ අතර, ඒ සඳහා පුහුණු සංචිතයක් පවත්වාගෙන යාම සුදුසු බව වැඩිදුරටත් ප්‍රකාශ කර ඇත.
+
+එසේම විශේෂ නිපුණතා සහිත රැකියා (SSW) සඳහා කුසලතා පරීක්ෂණයට අදාළ ඉගැන්වීමේ කටයුතු කාර්යාංශය හරහා සිදුකිරීමට IM Japan ආයතනයේ සහාය ලබාදීමටද කිමුරා මහතා මෙහිදී එකඟතාවය පළකර තිබේ.
+
+...
+
+[Data](articles/72e0f4bb.json)
+
+---
 
 ### බීජිං නුවර අයහපත් කාලගුණයෙන් 34ක් මරුට
 
@@ -850,6 +886,18 @@ Subsequently, with the agreement of both parties, the case was settled amicably.
 
 ---
 
+### දළඳා පෙරහර වෙනුවෙන් විශේෂ දුම්රිය යොදවයි
+
+*2025-07-29 10:16:09* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-පෙරහර-වෙනුවෙන්-විශේෂ-දුම්රිය-යොදවයි/11-417575) · `si`
+
+මහනුවර ඇසළ පෙරහරේ රන්දෝලි පෙරහර පැවැත්වෙන අගෝස්තු 04 දා සිට අවසන් රන්දෝලි පෙරහර පැවැත්වෙන අගෝස්තු 08දා දක්වා කොළඹ කොටුව, මාතලේ හා නාවලපිටිය සිට මහනුවර දක්වා විශේෂ දුම්රිය ධාවනය කරවන බව දුම්රිය දෙපාර්තමේන්තුව කියයි.
+
+◼️
+
+[Data](articles/87ae4263.json)
+
+---
+
 ### கொடிகமுவவில் கடையில் தீ விபத்து
 
 *2025-07-29 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221238) · `ta`
@@ -888,11 +936,13 @@ Subsequently, with the agreement of both parties, the case was settled amicably.
 
 *2025-07-29 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-windforce-vidullanka-10mw-solar-plant-completed-233302/) · `en`
 
-ECONOMYNEXT – Sri Lanka-based Windforce Plc said a 10 MW solar plant built in the eastern Batticaloa region as a joint venture with Vidullanka, was launched on July 12.
+ECONOMYNEXT – Sri Lanka-based WindForce Plc said a 10 MW solar plant built in the eastern Batticaloa region as a joint venture with Vidullanka, was launched on July 26.
 
 The plant is expected to generate about 19.5 GigaWatt hours of electricity a year, Windforce said in a stock exchange filing.
 
 The plant is on high-salinity land in Vavunativu which is unfit for agriculture.
+
+The project was implemented through Sooryashakthi (Pvt) Limited, a fully owned subsidiary of Solar Universe (Pvt) Limited, a joint venture between Vidullanka and WindForce, with each party holding an equal shareholding.
 
 WindForce said it executed the engineering, procurement, and construction contract.
 
@@ -902,9 +952,7 @@ The project was completed on time despite floods slowing construction, the compa
 
 Vidullanka, WindForce joint venture signs purchase agreement with solar plant
 
-Renewable energy firm WindForce, started in 2020, has power plants in Sri Lanka, the Maldives, Tanzania, Pakistan, Uganda and Ukraine.(Colombo/Jul29/2025)
-
-◼️
+...
 
 [Data](articles/fa83acb5.json)
 
@@ -1769,57 +1817,5 @@ The strategic relocation comes at a time when demand for sustainable, high-perfo
 ...
 
 [Data](articles/a51492ba.json)
-
----
-
-### Colombo to host Asia International Digital Economy and AI in Finance Summit 2025
-
-*2025-07-29 04:20:44* · [`dailyftlk`](https://www.ft.lk/business/Colombo-to-host-Asia-International-Digital-Economy-and-AI-in-Finance-Summit-2025/34-779606) · `en`
-
-The Asia International Digital Economy and AI in Finance Summit 2025 — featuring the Asian Digital Finance Forum and Awards — will convene global leaders on 23 October, at Port City Colombo to shape the future of inclusive, AI-driven financial systems across Asia through policy, regulation, and technological innovation.
-
-Organised by the Asian FinTech Academy (AFTA) in collaboration with the Fintech Association of Sri Lanka (FASL), and in strategic partnership with Port City Colombo, the summit highlights Colombo’s rise as a regional nexus for digital finance and AI innovation.
-
-Key global strategic partners include Tech London Advocates (TLA), Global Tech Advocates (GTA), the International Digital Economies Association (iDEA), and Wall Street Fintech AI Inc.
-
-...
-
-[Data](articles/69c5da94.json)
-
----
-
-### Power imbalance and corporate failure
-
-*2025-07-29 03:56:44* · [`dailyftlk`](https://www.ft.lk/columns/Power-imbalance-and-corporate-failure/4-779597) · `en`
-
-Unchecked authority can pave the way for unethical behaviour, financial mismanagement, and ultimately, corporate failure
-
-Power imbalance often occurs when authority is concentrated on a single individual or a few executives, and it is at the heart of corporate mismanagement, corruption, and abuse of power. Concentration of power often restrains diverse perspectives and critical debate. Without input from multiple stakeholders, decisions may be made based on limited information or personal biases. Power imbalances often create fertile ground for corruption, as executives with unchecked authority may prioritise personal gain over the organisation’s objectives. Within a culture with a higher power imbalance, employees fear speaking out and whistleblowing, and finally, innovation and collaboration suffer.
-
-...
-
-[Data](articles/edb644e9.json)
-
----
-
-### Chandana Amaradasa heads SLANZBC
-
-*2025-07-29 02:37:31* · [`dailyftlk`](https://www.ft.lk/business/Chandana-Amaradasa-heads-SLANZBC/34-779587) · `en`
-
-The new office bearers of SLANZBC with Ambassadors and Deputy Minister of Digital Economy Eranga Weeraratne
-
-Island Leisure founder Chairman Chandana Amaradasa, was elected President of the Australia-New Zealand Business Council (SLANZBC) of the Ceylon Chamber of Commerce held its AGM at the Cinnamon Lake Hotel recently.
-
-He said that Sri Lanka’s Small and Medium sector, responsible for 50% of the total revenues and growth of the economy, has been facing many obstacles and challenges in the last few years.
-
-“They simply do not have capital market access and most of the time access to the financial sector of the country.”
-
-He requested that Australia and New Zealand open their markets more to the SME sector of Sri Lanka.
-
-“Sri Lanka’s tourism sector has nearly 50,000 registered rooms, in which only 9,500 rooms fall into the category of 4 and 5 star. Sri Lanka badly needs capacity enhancements to ensure comprehensive and positive revenue growth both in tourism and our GDP as well.”
-
-...
-
-[Data](articles/6b090608.json)
 
 ---

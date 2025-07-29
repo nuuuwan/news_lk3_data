@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 21:50:03**
+As of **2025-07-29 22:07:09**
 
 ## Newspaper Stats
 
-*Scraped **67,571** Articles*
+*Scraped **67,573** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 691
+colombotelegraphcom | 693
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,571 articles have been extended.
+61,973 (91.7%) of 67,573 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -796,6 +796,20 @@ This diversification, he noted, reflects “not only the dynamism of our bilater
 
 ---
 
+### The Man In The Small Room: A Norwegian Who Quietly Made A Nation Rich
+
+*2025-07-29 16:23:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-man-in-the-small-room-a-norwegian-who-quietly-made-a-nation-rich/) · `en`
+
+In the quiet halls of the Norwegian Foreign Ministry during the 1960s, behind a nondescript door, sat a man in a modest room. No press, no fanfare, no entourage. Just papers, maps, treaties, and a mind fiercely devoted to his country. His name was Jens Evensen—a name few outside Norway’s policy and legal circles knew at the time. Yet the work he did in that small room changed the destiny of a nation.
+
+Jens Evensen was not a politician then. He was a public official—an expert in international law with an unwavering sense of duty. His mission? To secure Norway’s maritime borders and legally stake its claim to the North Sea’s continental shelf, an area soon to be discovered as one of the richest oil reserves in the world.
+
+...
+
+[Data](articles/2575f4b5.json)
+
+---
+
 ### Sri Lanka stocks rise marginal 0.07-pct, S&P SL20 dips
 
 *2025-07-29 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-marginal-0-07-pct-sp-sl20-dips-233391/) · `en`
@@ -887,6 +901,20 @@ He emphasized that the strike will definitely proceed unless a decisive solution
 ◼️
 
 [Data](articles/20eb0d1f.json)
+
+---
+
+### 38 Years Since Indo-Sri Lanka Accord: Time to Honour The 13th Amendment & Hold Provincial Elections
+
+*2025-07-29 16:13:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/38-years-since-indo-sri-lanka-accord-time-to-honour-the-13th-amendment-hold-provincial-elections/) · `en`
+
+29 July 2025 marks the 38th anniversary of the signing of the Indo-Sri Lanka Accord — a landmark agreement intended to bring an end to Sri Lanka’s ethnic conflict and provide a political solution for the long-marginalised Tamil community. Signed in 1987 between then Indian Prime Minister Rajiv Gandhi and Sri Lankan President JR Jayewardene, the Accord promised devolution of power through constitutional reform.
+
+At the heart of that commitment was the introduction of the 13th Amendment to the Constitution, which led to the establishment of Provincial Councils — a mechanism designed to give Sri Lanka’s provinces, especially the Tamil-majority North and East, a degree of self-governance.
+
+...
+
+[Data](articles/99900e59.json)
 
 ---
 
@@ -1833,39 +1861,5 @@ Local wholesale prices of coconut oil were 860,000 to 880,000 rupees per metric 
 ◼️
 
 [Data](articles/56b62d98.json)
-
----
-
-### July allowance for elders to be credited to bank accounts tomorrow
-
-*2025-07-29 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110958/july-allowance-for-elders-to-be-credited-to-bank-accounts-tomorrow-) · `en`
-
-The monthly allowance designated for elderly individuals aged over 70, enrolled in the welfare benefit program, will be credited to their respective bank accounts tomorrow (30), the Welfare Benefits Board has announced.
-
-The Board stated that the beneficiaries can withdraw the amount from their accounts from tomorrow.
-
-This financial aid is provided to a total of 600,768 eligible individuals under the relief scheme while a total sum of Rs. 3,003,840,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
-
-◼️
-
-[Data](articles/fc517974.json)
-
----
-
-### பஸ்,லொறி மோதியதில்  யாத்ரீகர்கள் 18 பேர் பலி
-
-*2025-07-29 12:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-லொறி-மோதியதில்-யாத்ரீகர்கள்-18-பேர்-பலி/175-361972) · `ta`
-
-இந்தியாவின் ஜார்க்கண்ட் மாநிலத்தில் இன்று செவ்வாய்கிழமை (29) அதிகாலை 4.30 மணி அளவில் பஸ்ஸூம், லொறியும் மோதிக் கொண்ட விபத்தில் கன்வார் யாத்ரீகர்கள் 18 பேர் உயிரிழந்துள்ளதாக அந்நாட்டு செய்திகள் தெரிவிக்கின்றன.
-
-மோகன்பூர் பொலிஸ் நிலைய எல்லைக்குட்பட்ட ஜமுனியா வனப்பகுதி அருகே ஏராளமான கன்வார் யாத்ரீகர்களுடன் சென்று கொண்டிருந்த பஸ் ஒன்று கேஸ் சிலிண்டர் ஏற்றியபடி வந்துகொண்டிருந்த லொறியுடன் மோதியுள்ளது.
-
-சம்பவம் குறித்து தகவல் அறிந்த பொலிஸாரும், மீட்புக்குழுவினர் உடனடியாக அங்கு விரைந்து சென்ற. இடிபாடுகளில் சிக்கியவர்களை மீட்டு அருகில் உள்ள மருத்துவமனைகளுக்கு அனுப்பி வைத்துள்ளனர்.
-
-விபத்து அதிகாலை நேரத்தில் நிகழ்ந்துள்ளது. துாக்க கலக்கத்தில் வாகனம் ஓட்டும்போது சற்று கண் அசந்தாலும் பெரும் விபத்து நேரிட்டு விடும். எனவே, இரவு, அதிகாலை நேரங்களில் பயணத்தை தவிர்க்க வேண்டும் என்பதை இந்த விபத்து உணர்த்துகிறது என அறிவுறுத்தப்படுகின்றது.
-
-◼️
-
-[Data](articles/5cf08088.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 06:54:11**
+As of **2025-07-29 07:40:49**
 
 ## Newspaper Stats
 
-*Scraped **67,379** Articles*
+*Scraped **67,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 690
 economynextcom | 4,116
-islandlk | 4,126
+islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,465
 adaderanalk | 8,289
-tamilmirrorlk | 9,751
+tamilmirrorlk | 9,752
 virakesarilk | 11,232
-adaderanasinhalalk | 11,576
+adaderanasinhalalk | 11,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,379 articles have been extended.
+61,973 (92.0%) of 67,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### செம்மணியில் நேற்று 3 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-07-29 06:33:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-3-எலும்புக்கூடுகள்-அடையாளம்/175-361946) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியின் நேற்றைய அகழ்வின் போது புதிதாக மூன்று என்புத் தொகுதிகள் அடையாளம் காணப்பட்டன.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 23ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
+
+நேற்றைய அகழ்வின் போது மூன்று மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டன. ஒரு மனித என்புத் தொகுதி முழுமையாக அகழ்ந்து எடுக்கப்பட்டது.
+
+செம்மணி மனிதப் புதைகுழியில் இதுவரை 104 என்புத் தொகுதிகள் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 96 என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+யாழ். நீதிவான் ஏ.ஏ.ஆனந்தராஜாவின் கண்காணிப்பில் துறைசார் நிபுணர் பேராசிரியர் ராஜ் சோமதேவாவின் தலைமையில் அகழ்வுப் பணிகள் இடம்பெற்று வருகின்றன.
+
+...
+
+[Data](articles/b9f19bc3.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2025-07-29 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212753) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/ac8c295e.json)
+
+---
 
 ### Easter Sunday attack negligence case against Hemasiri, Pujith to resume on 18 September
 
@@ -499,6 +537,22 @@ LOLC Finance, Sri Lanka’s leading non-banking financial institution, has launc
 ...
 
 [Data](articles/f028dc7e.json)
+
+---
+
+### Vision Care Hearing Solutions launches dedicated audiology unit in Panadura
+
+*2025-07-28 22:38:00* · [`islandlk`](http://island.lk/vision-care-hearing-solutions-launches-dedicated-audiology-unit-in-panadura/) · `en`
+
+Vision Care Hearing Solutions, a leading provider of hearing care in Sri Lanka and a subsidiary of Vision Care, the country’s largest vision, hearing and eyewear solutions provider, recently opened its latest independent Audiology Unit on the 2nd floor of Vision Care, 233 Galle – Colombo Road, Panadura. This marks one of six specialised audiology centres across the island, further strengthening Vision Care Hearing Solutions’ commitment to delivering world-class hearing healthcare to all Sri Lankans.
+
+Renowned ENT specialist Dr. Selvi Vettivelu ceremonially opened the Panadura Audiology Unit and offers a holistic range of services designed to cater to people of all ages, from infants to the elderly. The facility features advanced diagnostic tools for behavioural hearing assessments, including speech audiometry, SISI, ToneDecay and a multitude of special tests enabling differential diagnosis of hearing disorders.
+
+Uber rolls into Jaffna – rides and eats now available in Northern Province
+
+...
+
+[Data](articles/c286f03e.json)
 
 ---
 
@@ -1757,55 +1811,5 @@ Businesswoman Thilini Priyamali, was previously arrested and remanded for allege
 ◼️
 
 [Data](articles/eec3c45c.json)
-
----
-
-### Former Navy Commander Nishantha Ulugetenne arrested by CID
-
-*2025-07-28 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110923/former-navy-commander-nishantha-ulugetenne-arrested-by-cid) · `en`
-
-Former Commander of the Sri Lanka Navy (SLN) Admiral (Retired) Nishantha Ulugetenne has been arrested by the Criminal Investigation Department (CID).
-
-The former Navy Commander has been arrested over the disappearance of a youth from Pothuhera while he was functioning as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/58d100a1.json)
-
----
-
-### ජනපතිට දැවැන්ත ආරක්ෂාවක් ලබා දිය යුතුයි
-
-*2025-07-28 16:14:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-දැවැන්ත-ආරක්ෂාවක්-ලබා-දිය-යුතුයි/11-417558) · `si`
-
-කවුරුන් කෙසේ පැවසුවද ජනාධිපතිවරයාට දැවැන්ත ආරක්ෂාවක් ලබාදිය යුතු බවත් අවශ්‍ය නම් හෙලිකොප්ටරේ පවා ගමන් බිමන් යා යුතු බවත් එහෙත් ඊට ජනාධිපතිවරයාගේ කැමැත්තක් නොමැති බව කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පවසයි.
-
-අමාත්‍යවරයා ඒ බව අවධාරණය කර සිටියේ පේරාදෙණිය ගන්නරුවේදී ඉකුත් 27 වැනි දිනපැවති වැඩසටහනකට එක්වෙමිනි.
-
-"ජනාධිපතිවරයා මුල් අවධියේදී ගමන් බිමන් යන විට බොහෝ අය විවේචනය කළා ඔහොම ගිහිල්ල බෑ ආරක්ෂාව මදි දැඩි ආරක්ෂක වැඩපිළිවෙලක් අත්‍යවශ්‍යයි කියා.  සම්බන්ධයෙන් මගේ මතයත් එයමයි. ජනාධිපතිවරයාට අනිවාර්යයෙන් විශේෂ ආරක්‍ෂාවක් අවශ්‍යයි. විවිධ අය විවිධ මත පළ කළත් ජනාධිපතිවරයාට දැවැන්ත ආරක්‍ෂාවක් දිය යුතුමයි.
-
-මම පසුගිය පසුගිය දා දැක්කා ජනාධිපතිතුමා අධිවේගී මාර්ගයේ වාහනයක ගමන් කරන දර්ශනයක්.  රථයට පසු පසින් තව රථවාහන කීපයක්ම යන ආකාරය දුටුවා. ඒක බලලා සමහරු කියනවා පරණ ක්‍රමයමයි මිනිස්සු විතරයි වෙනස් වුණේ කියලා.
-
-...
-
-[Data](articles/d58fb877.json)
-
----
-
-### Easter Attacks: Case against Pujith, Hemasiri to be taken up once again in September
-
-*2025-07-28 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110922/easter-attacks-case-against-pujith-hemasiri-to-be-taken-up-once-again-in-september) · `en`
-
-The case filed against former Secretary to the Ministry of Defence Hemasiri Fernando and former Inspector General of Police (IGP) Pujith Jayasundara before the Colombo High Court Trial-at-Bar on charges of criminal negligence of duty by failing to prevent the 2019 Easter Sunday terror attacks despite receiving intelligence information in advance will be taken up once again on September 18.
-
-The case was taken up before the High Court bench, consisting of Judges Namal Balalle and Mohamed Irshadeen today.
-
-During the hearing, the Deputy Solicitor General, Sudarshan de Silva, who appeared on behalf of the Attorney General, informed court that, since Judge Aditya Patabendige has already been appointed to the Court of Appeal, the position on the three-judge bench will be filled by a new judge until the appointment of a replacement by the Chief Justice.
-
-Accordingly, the Deputy Solicitor General requested court to set a new date for the case to be heard.
-
-...
-
-[Data](articles/87faa807.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 00:49:30**
+As of **2025-07-30 01:05:58**
 
 ## Newspaper Stats
 
-*Scraped **67,591** Articles*
+*Scraped **67,592** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 695
+colombotelegraphcom | 696
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,591 articles have been extended.
+61,973 (91.7%) of 67,592 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -479,6 +479,20 @@ Under these circumstances, MP Namal Rajapaksa, who had been overseas at the time
 ...
 
 [Data](articles/7cb76095.json)
+
+---
+
+### Will The AKD/NPP Sabotage Or Support The RTIC? A Burning Question For “System Change’
+
+*2025-07-29 19:19:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/will-the-akd-npp-sabotage-or-support-the-rtic-a-burning-question-for-system-change/) · `en`
+
+Defeating all expectations of good governance on which the National Peoples’ Power (NPP) and President Anura Kumara Dissanayake (AKD) coasted to a stunning electoral victory in 2024, the NPP Government has stubbornly turned a deaf ear to public appeals to speedily appoint the Chair of the Right to Information Commission (RTIC) left vacant since March 4th 2025 and to fill long pending vacancies in the senior legal staff of the Commission.
+
+These appeals include a recent Open Letter sent to the President and the Constitutional Council by one hundred and seventeen public intellectuals, lawyers, journalists, activists, trade unionists as well as former heads and members of independent constitutional commissions. Observing that the RTI Commission is ‘a critically important independent organ that ensures the government’s accountability to the public’, the President was told that the acid test of a system change in good governance was whether the NPP will support or sabotage the Commission.
+
+...
+
+[Data](articles/24ec57e3.json)
 
 ---
 
@@ -1789,27 +1803,5 @@ The move follows efforts by local governments to boost birth rates in China.
 ...
 
 [Data](articles/f5987935.json)
-
----
-
-### දරු උපත් ඉහළ නංවන්න චීන රජයෙන් දෙමව්පියන්ට මුදල් සහනාධාරයක්
-
-*2025-07-29 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212777) · `si`
-
-චීනයේ දරු ප්‍රසූතිය දිරි ගැන්වීමේ අරමුණින් අවුරුදු 03ට අඩු සෑම දරුවෙකුටම වසරකට යුවාන් 3,600 හෙවත් අමෙරිකානු ඩොලර් 500කට ආසන්න මුදලක් ලබා දීමට චීන රජය තීරණය කර තිබේ.
-
-චීන රජය විසින් ලබා දෙන මෙම සහනාධාරය තනි පුද්ගල ආදායම් බද්දෙන් නිදහස් කිරීමටද තීරණය කර ඇතැයිද එරට මාධ්‍ය වාර්තා කර ඇත.
-
-මෙම ප්‍රතිපත්තිය මගින් සෑම වසරකම පවුල් මිලියන 20කට වැඩි පිරිසක් ප්‍රතිලාභ ලබනු ඇතැයි එරට රජය අපේක්ෂා කර තිබේ.
-
-චීන මාධ්‍ය වාර්තා සඳහන් කර ඇත්තේ පසුගිය වසර 07 තුළ අලුත උපන් බිළිඳුන් සංඛ්‍යාව අඛණ්ඩව පහත වැටී ඇති අතර පසුගිය වසර අවසන් වන විට චීනයේ වයස අවුරුදු 60 සහ ඊට වැඩි ජනගහනය මිලියන 310ක් දක්වාද ළඟා වී ඇති බවය.
-
-ඒ අනුව මෙම අභියෝගයන්ට මුහුණ දීම සඳහා පසුගිය වසර කිහිපය තුළ එරට පළාත් පාලන ආයතන රැසක වැඩසටහන් රැසක් ක්‍රියාත්මක කර ඇති අතර එම වැඩසටහන් අතර ත්‍යාගශීලි සහ දිරිගැන්වීම් ද ඇතුළත්ව තිබුණි.
-
-මෙම සහනාධාරය යටතේ චීනයේ හොහොට් හී සෑම පවුලකම පළමු දරුවා සඳහා යුවාන් 10,000ක එක් වරක් සහනාධාරයක් ලබා දෙන අතර දෙවන දරුවෙකුට වයස අවුරුදු 5 දක්වා වාර්ෂිකව යුවාන් 10,000ක සහනාධාරයක් ලැබෙනු ඇත.
-
-...
-
-[Data](articles/1be369d8.json)
 
 ---

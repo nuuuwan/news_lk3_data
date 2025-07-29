@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 11:52:42**
+As of **2025-07-29 12:08:18**
 
 ## Newspaper Stats
 
-*Scraped **67,450** Articles*
+*Scraped **67,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,474
+adalk | 6,476
 adaderanalk | 8,305
-tamilmirrorlk | 9,766
+tamilmirrorlk | 9,770
 virakesarilk | 11,242
-adaderanasinhalalk | 11,592
+adaderanasinhalalk | 11,593
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,450 articles have been extended.
+61,973 (91.9%) of 67,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### ජනපති වෙනුවෙන් මාලදිවයිනේ දී විශේෂ රාත්‍රී භෝජන සංග්‍රහයක්
+
+*2025-07-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212770) · `si`
+
+මාලදිවයිනේ රාජ්‍ය සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් මාලදිවයින් ජනාධිපතිවරයා පිරිනමන විශේෂ රාත්‍රී භෝජන සංග්‍රහය ‘කුරුම්බා මෝල්ඩිව්ස්’ නිවාඩු නිකේතනයේදී  ඊයේ (28) රාත්‍රියේ පැවැත්විණි.
+
+මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා සහ ජනපති ආර්යාව විසින් මෙම විශේෂ රාත්‍රී භෝජන සංග්‍රහය සංවිධානය කර තිබිණි.
+
+මේ අවස්ථාව සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු මෙරට දූත පිරිස සහභාගි වූහ.
+
+◼️
+
+[Data](articles/7a6b1eb5.json)
+
+---
+
+### ’டிஜிட்டல்’ முறையில் யாசகம் பெறும் நபர்
+
+*2025-07-29 11:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/டிஜிட்டல்-முறையில்-யாசகம்-பெறும்-நபர்/53-361970) · `ta`
+
+தமிழகத்தின் திருப்பத்தூர் மாவட்டம் புத்துக்கோவில் பகுதியில் வாணியம்பாடி கணவாய்புதூர் பகுதியை சேர்ந்த 60 வயதான நபர் ஒருவர் 'கியூ.ஆர்.' கோடு அட்டையை கையில் வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் யாசகம் எடுத்து வருகிறார்.
+
+யாராவது சில்லறை இல்லை என்றால் “அக்கவுண்டில் போடு” என 'கியூ.ஆர்.' கோடு அட்டையை காட்டுகிறார்.
+
+வித்தியாசமான அவரது இந்த அணுகுமுறையால் பலரும் டிஜிட்டல் முறையில் யாசகத்தை  போட்டு வருகின்றனர்.
+
+அதற்கு அவர், தற்போது செல்போன், கிரெடிட் கார்டு மற்றும் டெபிட் கார்டுகள் மூலம்தான் பெரும்பாலான பரிவர்த்தனைகள் நடைபெற்று வருகின்றன.
+
+இப்போது பர்சில் பணம் வைத்துக்கொள்வது அரிதாக உள்ளதாக தெரிவித்த அவர், தான் 3 வங்கி ஏ.ரி.எம். கார்டுகள் வைத்து இருப்பதாகவும், 'கியூ.ஆர்.' கோடு அட்டையை வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் பிச்சை எடுப்பதாகவும், இதனால் 'டிஜிட்டல்' முறையிலேயே பலர் பணம் செலுத்துவதாகவும் தெரிவித்துள்ளார்.
+
+இளைஞர்கள் சிலர் இதை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் வெளியிட்டனர். அது வைரலாகி வருகிறது.
+
+◼️
+
+[Data](articles/a2cd9994.json)
+
+---
+
+### ஜனாதிபதிக்கு சேறுபூசிய குட்டி ஆராச்சி மன்னிப்பு கேட்டார்
+
+*2025-07-29 11:40:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சேறுபூசிய-குட்டி-ஆராச்சி-மன்னிப்பு-கேட்டார்/175-361968) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனக திஸ்ஸ குட்டி ஆராச்சி   கொழும்பு மாவட்ட நீதிமன்றத்தில் ஒரு வாக்குமூலத்தை செவ்வாய்க்கிழமை (29) அளித்தார்.
+
+ஜனாதிபதி அனுரகுமார  திசாநாயக்கவை அவமதிக்கும் வகையில் ஒரு கருத்தை தெரிவித்தமைக்காக நிபந்தனையற்ற வருத்தத்தை தெரிவித்துக் கொள்கிறேன் என தனது வாக்குமூலத்தில் தெரிவித்தார்..
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனக திஸ்ஸ குட்டி ஆராச்சி மற்றும் இருவரிடமிருந்து ரூ. 10 பில்லியன் இழப்பீட்டு வழங்குமாறு ஜனாதிபதி அனுரகுமார திசாநாயக்க கோரியிருந்தார். எனினும்,   ஜனக திஸ்ஸ குட்டி ஆராச்சி தனது நிபந்தனையற்ற வருத்தத்தை தெரிவித்து வழக்கை தீர்த்து வைத்தார்.
+
+கொழும்பு ​ மாவட்ட மேலதிக நீதவான் சந்திம ஜீவந்தரா முன் வழக்கு, செவ்வாய்க்கிழமை தீர்த்து வைக்கப்பட்டது.
+
+...
+
+[Data](articles/a16fbf19.json)
+
+---
+
+### தங்க முலாம் துப்பாக்கி வழக்கு:  துமிந்த விடுதலை
+
+*2025-07-29 11:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-முலாம்-துப்பாக்கி-வழக்கு-துமிந்த-விடுதலை/175-361966) · `ta`
+
+தங்க முலாம் பூசப்பட்ட T-56 துப்பாக்கி தொடர்பான விசாரணை தொடர்பாக கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் துமிந்த திசாநாயக்கவை விடுதலை செய்ய கல்கிசை நீதவான் நீதிமன்றம் செவ்வாய்க்கிழமை (29) உத்தரவிட்டது.
+
+இந்த வழக்கில் நேரடி மற்றும் சூழ்நிலை ஆதாரங்கள் இல்லாததால் முன்னாள் பாராளுமன்ற உறுப்பினர் விடுதலை செய்யப்படுவதாக நீதிமன்றம் அறிவித்துள்ளது.
+
+தங்கமுலாம் பூசப்பட்ட T-56 ரக துப்பாக்கி கைப்பற்றப்பட்டமை தொடர்பிலான விசாரணைகளின் பின்னர் கைது செய்யப்பட்ட ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுச் செயலாளரும், முன்னாள் அமைச்சருமான துமிந்த திசாநாயக்கவை, மே.29 வரையிலும் விளக்கமறியில் வைக்குமாறு கல்கிசை பதில் நீதவான்  சாந்த குமார, சனிக்கிழமை (24) உத்தரவு பிறப்பித்திருந்தது.
+
+...
+
+[Data](articles/f38fc71b.json)
+
+---
 
 ### அத்துமீறி நுழைந்த இராணுவத்தினர் ; நல்லூர் ஆலயத்தில் பதற்றம்
 
@@ -61,6 +133,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e921ecb2.json)
+
+---
+
+### රන් ආලේපිත ටී 56 නඩුවෙන් දුමින්ද මුදා හරයි
+
+*2025-07-29 11:23:25* · [`adalk`](https://www.ada.lk/breaking_news/රන්-ආලේපිත-ටී-56-නඩුවෙන්-දුමින්ද-මුදා-හරයි/11-417580) · `si`
+
+රන් ආලේපිත ටී 56 වර්ගයේ ගිනිඅවියක් සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව අත්අඩංගුවට ගෙන ඇප මත මුදා හැර සිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා එම නඩුවෙන් මුදා හැරීමට ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+මෙම නඩුවට අදාළව සෘජු හා පරිවේෂණීය සාක්ෂි නොමැති වීම හේතුවෙන් හිටපු මන්ත්‍රීවරයා මුදා හරින  බව අධිකරණය දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/4f502b60.json)
 
 ---
 
@@ -116,6 +202,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### තිස්ස කුට්ටිආරච්චි කොන්දේසි විරහිතව ජනපතිට කනගාටුව ප්‍රකාශ කරයි
+
+*2025-07-29 11:19:40* · [`adalk`](https://www.ada.lk/breaking_news/තිස්ස-කුට්ටිආරච්චි-කොන්දේසි-විරහිතව-ජනපතිට-කනගාටුව-ප්‍රකාශ-කරයි/11-417579) · `si`
+
+පසුගිය ජනපතිවරණ කාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා සම්බන්ධයෙන් තමන් සිදුකළ ප්‍රකාශය පිළිබඳව කොන්දේසි විරහිතව කනගාටුව ප්‍රකාශ කිරීම හරහා  නඩුව සමතයකට පත් කර ගත් බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිස්ස  කුට්ටිආරච්චි මහතා අද (29) කොළඹ දිසා අධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+තමන්ට සිදු කළ අපහාසය වෙනුවෙන් වන්දියක් අය කර දෙන ලෙස ඉල්ලා අනුර කුමාර දිසානායක මහතා විසින් ගොනුකර තිබූ නඩුව අද කොළඹ දිසා අධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී අධිකරණය හමුවේ පෙනී සිටි තිසකුට්ටි ආරච්චි මහතා සිය නීතිඥවරු මාර්ගයෙන් මෙම දැනුම්දීම සිදුකළේය.
+
+මැතිවරණ කාලයේදී කුමක් ප්‍රකාශ කළද අනුර කුමාර දිසානායක මහතා මේ වන විට බහුතරයකගේ කැමැත්ත මත රටේ ජනපති වී සිටින බව තිස්සකුට්ටි ආරච්චි මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/9e5e0d2f.json)
+
+---
+
 ### කොස්තාපල්වරයාගේ නිවසේ මත්පෙති ගබඩාවක්
 
 *2025-07-29 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212768) · `si`
@@ -133,6 +235,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7753263d.json)
+
+---
+
+### அஸ்வெசும கொடுப்பனவு நாளை
+
+*2025-07-29 11:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கொடுப்பனவு-நாளை/175-361963) · `ta`
+
+அஸ்வெசும சலுகைகளைப் பெறும் முதியோருக்கான மாதாந்திர கொடுப்பனவு நாளை (30) அவர்களின் வங்கிக் கணக்குகளில் வைப்பிலிடப்படும் என்று நலன்புரி சலுகைகள் சபை தெரிவித்துள்ளது.
+
+நாளை முதல் பயனாளிகள் தங்கள் நிதியை நியமிக்கப்பட்ட கணக்குகள் மூலம் அணுக முடியும் என்று சபைத் தலைவர் ஜெயந்த வீரரத்ன தெரிவித்தார்.
+
+நாடு முழுவதும் தகுதியுள்ள 600,768 பயனாளிகளின் வங்கிக் கணக்குகளில் மொத்தம் ரூ. 3,003 மில்லியனுக்கும் (ரூ. 3,003,840,000) அதிகமாக வரவு வைக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+குறைந்த வருமானம் மற்றும் பாதிக்கப்படக்கூடிய குடும்பங்களை ஆதரிப்பதை நோக்கமாகக் கொண்ட அஸ்வெசும திட்டம், அதன் நலன்புரி கட்டமைப்பின் கீழ் ஆயிரக்கணக்கான முதிய குடிமக்களுக்கு தொடர்ந்து நிதி உதவி வழங்கி வருகிறது.
+
+◼️
+
+[Data](articles/07f48d7f.json)
 
 ---
 
@@ -1693,123 +1813,5 @@ LOLC Finance, Sri Lanka’s leading non-banking financial institution, has launc
 ...
 
 [Data](articles/f028dc7e.json)
-
----
-
-### Vision Care Hearing Solutions launches dedicated audiology unit in Panadura
-
-*2025-07-28 22:38:00* · [`islandlk`](http://island.lk/vision-care-hearing-solutions-launches-dedicated-audiology-unit-in-panadura/) · `en`
-
-Vision Care Hearing Solutions, a leading provider of hearing care in Sri Lanka and a subsidiary of Vision Care, the country’s largest vision, hearing and eyewear solutions provider, recently opened its latest independent Audiology Unit on the 2nd floor of Vision Care, 233 Galle – Colombo Road, Panadura. This marks one of six specialised audiology centres across the island, further strengthening Vision Care Hearing Solutions’ commitment to delivering world-class hearing healthcare to all Sri Lankans.
-
-Renowned ENT specialist Dr. Selvi Vettivelu ceremonially opened the Panadura Audiology Unit and offers a holistic range of services designed to cater to people of all ages, from infants to the elderly. The facility features advanced diagnostic tools for behavioural hearing assessments, including speech audiometry, SISI, ToneDecay and a multitude of special tests enabling differential diagnosis of hearing disorders.
-
-Uber rolls into Jaffna – rides and eats now available in Northern Province
-
-...
-
-[Data](articles/c286f03e.json)
-
----
-
-### CSE in state of exuberance for seventh day; notches 18 crossings
-
-*2025-07-28 22:36:00* · [`islandlk`](http://island.lk/cse-in-state-of-exuberance-for-seventh-day-notches-18-crossings/) · `en`
-
-CSE trading was positive for the seventh consecutive day yesterday due to conducive market conditions. However, pre- profit takings were noted during the middle of the session but it did not affect the market from moving to green territory at the end of the session, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 55.15 points, while the S and P SL20 rose by 23.3 points. Turnover stood at Rs 6.2 billion with 18 crossings. Out of them, the top eight crossings were reported in HNB (Non- Voting), where 765,000 shares crossed to the tune of Rs 222 million; its shares traded at Rs 290, Lanka IOC 1.15 million shares crossed to the tune of Rs 161 million; its shares traded at Rs 140, Royal Ceramic 3.5 million shares crossed to the tune of Rs 148 million; its shares traded at Rs 42.
-
-...
-
-[Data](articles/459926eb.json)
-
----
-
-### Former Senior DIG Priyantha Jayakody arrested by CID
-
-*2025-07-28 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/110936/former-senior-dig-priyantha-jayakody-arrested-by-cid) · `en`
-
-Former Senior DIG Priyantha Jayakody has been arrested by the Criminal Investigation Department (CID).
-
-He has reportedly been arrested in connection with an incident of allegedly lodging a false complaint claiming that he has received death threats from notorious underworld figure Koralagamage Mandinu Padmasiri, alias ‘Kehelbaddara Padme’.
-
-The arrested former Senior DIG is currently receiving treatment at the Ragama Hospital, under the custody of the CID, due to an illness.
-
-◼️
-
-[Data](articles/9a03554d.json)
-
----
-
-### முன்னாள் டிஐஜி பிரியந்த ஜெயக்கொடி சிஐடியினரால் கைது செய்யப்பட்டார்
-
-*2025-07-28 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221224) · `ta`
-
-கெஹெல் பத்தர பத்மே என்ற ஒரு ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் தலைவர் தனக்கு கொலை மிரட்டல் விடுக்கப்பட்டதாகக் கூறி குற்றப் புலனாய்வுத் துறையில் பொய்யான புகாரை அளித்த சம்பவம் தொடர்பாக இது நிகழ்ந்துள்ளது.
-
-முன்னாள் டிஐஜி பிரியந்த ஜெயக்கொடி தற்போது உடல்நலக் குறைவு காரணமாக ராகம போதனா மருத்துவமனையில் குற்றப் புலனாய்வுத் துறை அதிகாரிகளின் காவலில் இருப்பதாக காவல்துறை ஊடகப் பேச்சாளர், உதவி காவல்துறை கண்காணிப்பாளர் எஃப்.யு.வுட்லர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/82926f9b.json)
-
----
-
-### දැදුරුඔය වැලි ජාවාරම
-
-*2025-07-28 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212751) · `si`
-
-දැදුරු ඔය වැලි ජාවාරම්කරුවන්ගේ තෝතැන්නක් වී ඇත්තේ එහි වැලි කැණීම තහනම් කරමින් අධිකරණ නියෝගයක් පවා නිකුත් කර ඇති පසුබිමකයි.
-
-උකුස්සාගේ අද අනාවරණය දැදුරු ඔයේ සිදුවන එම අනීතික වැලි ජාවාරමක් පිළිබඳවයි.
-
-ශ්‍රී ලංකාවේ 6 වැනි දිගම ගංගාව වන දැදුරු ඔය කුරුණෑගල රස්නායකපුර, බටුවැව ඇතුළු ප්‍රදේශ කිහිපයක් ඔස්සේ දිස්ත්‍රික්ක පහක් මාඉම් කරගනිමින් ගලායන්නේ එහි දෙපස සශ්‍රීක තැනිතලා බවට පත්කරමින්ය.
-
-එහෙත් දැදුරු ඔය ඇතැම් ස්ථාන කලක් තිස්සේ නීතිවිරෝධී වැලි ජාවාරම්කරුවන්ගේ තිප්පළක් වී තිබේ.
-
-කුරුණෑගල පොලිස් නිලධාරින් සහ ජාවාරම්කරුවන් පිරිසක් අතර 2016 වසරේ ඇති වූ ගැටුමක් අධිකරනය දක්වා දුරදිග ගිය අතර එහි ප්‍රතිඵලයක් ලෙස 2019 වසරේදී කුරුණෑගල මහාධිකරණය දැදුරු ඔය ආශ්‍රිත ප්‍රදේශයේ වැලි කැණීම් තහනම් කරමින් නියෝගයක් ද නිකුත් කළේය.
-
-කෙසේවෙතත් දැදුරු ඔයේ සිදුකෙරෙන වැලි කැණීම් පිළිබඳව අවස්ථා ගණනාවකදී අද දෙරණ උකුස්සාට තොරතුරු ලැබුණු අතර ඒ අනුව පසුගියදා අප කුරුණෑගල බටුවැව ප්‍රදේශයේ ස්ථානයට ගියේ එය සැකහැර දැනගැනීම සඳහාය.
-
-පිරිසක් වැලි කැණීමෙහි නිරත වී සිටින අයුරු අප එහි එක් ඉවුරක සිට නිරීක්ෂණය කළේය.
-
-...
-
-[Data](articles/80c56efe.json)
-
----
-
-### හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි CID අත්අඩංගුවට
-
-*2025-07-28 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212750) · `si`
-
-හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ සංවිධානාත්මක අපරාධ කල්ලි නායක කෙහෙල් බද්දර පද්මේ නැමැත්තා තමන්ට මරණ තර්ජන සිදුකළ බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ව්‍යාජ පැමිණිල්ලක් ඉදිරිපත් කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
-
-පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්.යු.වුට්ලර් මහතා පැවසුවේ, හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා අසනීප තත්ත්වයක් හේතුවෙන් මේවන විට රාගම ශික්ෂණ රෝහලේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් භාරයේ සිටින බවය.
-
-◼️
-
-[Data](articles/8bc5e327.json)
-
----
-
-### යුක්‍රේන යුද්ධය අවසන් කරන්න ට්‍රම්ප්ගෙන් රුසියාවට කාල සීමාවක්
-
-*2025-07-28 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212749) · `si`
-
-යුක්‍රේන යුද්ධය අවසන් කිරීම සඳහා රුසියාවට එල්ල කරන පීඩනය ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් දැඩි කර තිබේ.
-
-යුද්ධය අවසන් කිරීම සඳහා ප්‍රගතියක් ලබාදීම සඳහා මොස්කව් රජයට වෙත දින 10 සිට 12 දක්වා නව කාල සීමාවක් නියම කරන බව ඔහු අද (28) පැවසීය.
-
-ස්කොට්ලන්තයේ පවත්වන රැස්වීම් අතරතුරදී ට්‍රම්ප් පවසා සිටියේ, තමා විසින් මීට පෙර නියම කළ දින 50ක කාල සීමාව කෙටි කිරීමට යන බවය.
-
-ව්ලැඩිමීර් පුටින් සමඟ ඇති වූ කලකිරීම හේතුවෙන් ට්‍රම්ප් විසින් මෙම තීරණය ගත් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-◼️
-
-[Data](articles/8cfa07da.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 12:08:18**
+As of **2025-07-29 12:28:39**
 
 ## Newspaper Stats
 
-*Scraped **67,457** Articles*
+*Scraped **67,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,476
+adalk | 6,477
 adaderanalk | 8,305
-tamilmirrorlk | 9,770
+tamilmirrorlk | 9,772
 virakesarilk | 11,242
-adaderanasinhalalk | 11,593
+adaderanasinhalalk | 11,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,457 articles have been extended.
+61,973 (91.9%) of 67,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### பஸ்,லொறி மோதியதில்  யாத்ரீகர்கள் 18 பேர் பலி
+
+*2025-07-29 12:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-லொறி-மோதியதில்-யாத்ரீகர்கள்-18-பேர்-பலி/175-361972) · `ta`
+
+இந்தியாவின் ஜார்க்கண்ட் மாநிலத்தில் இன்று செவ்வாய்கிழமை (29) அதிகாலை 4.30 மணி அளவில் பஸ்ஸூம், லொறியும் மோதிக் கொண்ட விபத்தில் கன்வார் யாத்ரீகர்கள் 18 பேர் உயிரிழந்துள்ளதாக அந்நாட்டு செய்திகள் தெரிவிக்கின்றன.
+
+மோகன்பூர் பொலிஸ் நிலைய எல்லைக்குட்பட்ட ஜமுனியா வனப்பகுதி அருகே ஏராளமான கன்வார் யாத்ரீகர்களுடன் சென்று கொண்டிருந்த பஸ் ஒன்று கேஸ் சிலிண்டர் ஏற்றியபடி வந்துகொண்டிருந்த லொறியுடன் மோதியுள்ளது.
+
+சம்பவம் குறித்து தகவல் அறிந்த பொலிஸாரும், மீட்புக்குழுவினர் உடனடியாக அங்கு விரைந்து சென்ற. இடிபாடுகளில் சிக்கியவர்களை மீட்டு அருகில் உள்ள மருத்துவமனைகளுக்கு அனுப்பி வைத்துள்ளனர்.
+
+விபத்து அதிகாலை நேரத்தில் நிகழ்ந்துள்ளது. துாக்க கலக்கத்தில் வாகனம் ஓட்டும்போது சற்று கண் அசந்தாலும் பெரும் விபத்து நேரிட்டு விடும். எனவே, இரவு, அதிகாலை நேரங்களில் பயணத்தை தவிர்க்க வேண்டும் என்பதை இந்த விபத்து உணர்த்துகிறது என அறிவுறுத்தப்படுகின்றது.
+
+◼️
+
+[Data](articles/5cf08088.json)
+
+---
+
+### “கடல்சார் பாதுகாப்பை வலுப்படுத்த மாலைதீவுகள்   பணியாற்றும்”
+
+*2025-07-29 12:09:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்சார்-பாதுகாப்பை-வலுப்படுத்த-மாலைதீவுகள்-பணியாற்றும்/175-361971) · `ta`
+
+ஜனாதிபதி  திசாநாயக்கவையும் அவரது தூதுக்குழுவையும் மாலைதீவிற்கு வரவேற்பது எனக்குக் கிடைத்த  பெரும் மரியாதை மற்றும் பாக்கியம் ஆகும். உங்கள் வருகை நமது நீண்டகால நட்பின் அடையாளம் என்பதோடு நமது பொதுவான நோக்கங்களை மீண்டும் உறுதிப்படுத்துவதோடு நமது இரு நாடுகளுக்கும் இடையிலான பிணைப்புகளை மேலும் வலுப்படுத்த ஒரு வாய்ப்பாகும். மாலைதீவும் இலங்கையும் இந்து சமுத்திரத்தினால் சூழப்பட்ட இரண்டு சகோதர நாடுகள்.
+
+நமது வரலாறு சாட்சியமளிக்கும் விதமாக, நமது புராணக்கதைகள் பின்னிப் பிணைந்துள்ளதோடு பல நூற்றாண்டுகள் பழமையான நட்பை நாம் பகிர்ந்து கொள்கிறோம். ஆறு தசாப்தங்களுக்கு முன்னர் இரு நாடுகளுக்கும் இடையே முறையான இராஜதந்திர உறவுகள் நிறுவப்பட்டதன் மூலம் அந்த நெருங்கிய உறவுகள் மேலும் வளர்ச்சியடைந்தன.1965  ஜூலை 26 ஆம் திகதி மாலைதீவுடன் இராஜதந்திர உறவுகளை ஏற்படுத்திய முதல் நாடுகளில் இலங்கையும் ஒன்றாகும்.
+
+...
+
+[Data](articles/dba3cf8c.json)
+
+---
+
+### ළහිරු වීරසේකර පොලිස් භාරයට
+
+*2025-07-29 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212771) · `si`
+
+යූත් ෆො චේන්ජ් සංවිධානයේ ජාතික සංවිධායක ළහිරු වීරසේකර තෙඹුවන පොලීසිය විසින් සිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bb724b8d.json)
+
+---
 
 ### ජනපති වෙනුවෙන් මාලදිවයිනේ දී විශේෂ රාත්‍රී භෝජන සංග්‍රහයක්
 
@@ -45,6 +89,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7a6b1eb5.json)
+
+---
+
+### මහනුවර ඇසල පෙරහැර වෙනුවෙන් දින 05කදී විශේෂ දුම්රිය ගමන්වාර 07ක්
+
+*2025-07-29 11:45:41* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-පෙරහැර-වෙනුවෙන්-දින-05කදී-විශේෂ-දුම්රිය-ගමන්වාර-07ක්/11-417582) · `si`
+
+2025 අගෝස්තු 04 වැනිදා සිට 08 වැනිදා දක්වා මහනුවර ඇසල පෙරහැරෙහි රන්දෝලි පෙරහැර වෙනුවෙන් විශේෂ දුම්රි ගමන්වාර 07ක් ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇති බව ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/0007b916.json)
 
 ---
 
@@ -1751,67 +1807,5 @@ And, despite her work load, connected with music, Andrea still finds the time to
 ...
 
 [Data](articles/fb28dda4.json)
-
----
-
-### ඉන්දියාවෙන් පිටුවහල් කළ වැලිගම සහන් කටුනායකදී අත්අඩංගුවට
-
-*2025-07-28 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212752) · `si`
-
-සහන් සිසි කැළුම් හෙවත් වැලිගම සහන් නැමැති සංවිධානාත්මක අපරාධකරු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
-
-ඉන්දියාවෙන් පිටුවහල් කරන ලද මොහු අද (28) පස්වරුවේදී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ඒකකය මගින් අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
-
-පානදුර ප්‍රදේශයේ සහ කළුතර ප්‍රදේශයේ සිදුවූ වෙඩි තැබීමේ සිද්ධීන් දෙකකට මෙන්ම මට්ටක්කුලියේ පත්තෑ සුරංග නැමැත්තාට වෙඩි තැබීමේ ප්‍රධාන සැකකරු වන්නේද මෙම වැලිගම සහන් නැමැත්තා බවද මොහු කුලී ඝාතකයෙකු බවත් වාර්තා වේ.
-
-සැකකරු වැඩිදුර විමර්ශන සඳහා කළුතර අපරාධ කොට්ඨාසයට භාර දී තිබේ.
-
-◼️
-
-[Data](articles/7a3dc2d5.json)
-
----
-
-### ‘How Sun Siyam Pasikudah is leading the East coast’s boutique renaissance’
-
-*2025-07-28 22:40:00* · [`islandlk`](http://island.lk/how-sun-siyam-pasikudah-is-leading-the-east-coasts-boutique-renaissance/) · `en`
-
-Once considered Sri Lanka’s quiet frontier, the island’s east coast is experiencing a deliberate and meaningful resurgence. With its powdery beaches, cultural depth, and warm waters untouched by overdevelopment, the region is fast emerging as the next chapter in responsible, high-value tourism.
-
-And at the heart of this movement stands Sun Siyam Pasikudah, a resort nestled along the sun-drenched shores of Kalkudah that embodies a new kind of luxury. One that is intimate, sustainable, and deeply rooted in place.
-
-Unlike the mega-resorts that line more commercial destinations, Sun Siyam Pasikudah does not compete on excess. It competes on experience. With just 34 villas and suites, the property offers space, silence, and soulful connection, the kind of refined minimalism that today’s conscious travellers increasingly seek.
-
-...
-
-[Data](articles/1818beda.json)
-
----
-
-### LOLC Finance unveils Super Savings Account with higher returns
-
-*2025-07-28 22:39:00* · [`islandlk`](http://island.lk/lolc-finance-unveils-super-savings-account-with-higher-returns/) · `en`
-
-LOLC Finance, Sri Lanka’s leading non-banking financial institution, has launched the LOLC Super Savings Account, a thoughtfully designed savings solution that offers the perfect balance between high returns and convenient access to funds. Developed in response to evolving customer expectations, this product is tailored for individuals seeking greater value and flexibility from their savings, whether they are managing daily expenses or planning for future financial goals.
-
-...
-
-[Data](articles/68f46705.json)
-
----
-
-### மோட்டார் சைக்கிள் பதிவு சான்றிதழ் மாற்ற இலஞ்சம் கோரி இடைத்தரகர் கைது
-
-*2025-07-28 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221225) · `ta`
-
-மோட்டார் சைக்கிள் ஒன்றின் பதிவு சான்றிதழை மாற்றுவதற்காக 30 ஆயிரம் ரூபா இலஞ்சம் கோரிய  குற்றச்சாட்டில் இடைத்தரகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபர் திங்கட்கிழமை (28) முற்பகல் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் நாரஹேன்பிட்டி மோட்டார் வாகன திணைக்களத்துக்கு அருகில் இலஞ்சத்தை பெற்றுக் கொள்ள முயற்சித்த போதே கைது செய்யப்பட்டுள்ளார்.
-
-இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் விசாரணை அதிகாரிகளால் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின் போதே சந்தேகநபர் நேற்று  கைது செய்யப்பட்டுள்ளார். மோட்டார் சைக்கிள் ஒன்றின் தற்காலிக பதிவு சான்றிதழை ஆரம்ப பதிவு சான்றிதழாக மாற்றிக்கொள்வதற்கு மோட்டார் வாகன திணைக்களத்தின் உத்தியோகத்தர் ஒருவருக்கு இலஞ்சம் வழங்க வேண்டும் எனத்தெரிவித்து குறித்த சந்தேக நபர் 30 ஆயிரம் ரூபா இலஞ்சம் கோரியுள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/f028dc7e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 17:53:47**
+As of **2025-07-29 18:10:25**
 
 ## Newspaper Stats
 
-*Scraped **67,523** Articles*
+*Scraped **67,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,488
+adalk | 6,489
 adaderanalk | 8,315
 tamilmirrorlk | 9,784
 virakesarilk | 11,246
-adaderanasinhalalk | 11,612
+adaderanasinhalalk | 11,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,523 articles have been extended.
+61,973 (91.8%) of 67,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### යුද ගැටුම් නිසා පලස්තීනුවන් 60000ක් මිය ගිහින් - දහස් ගණනක් තවමත් අතුරුදන්
+
+*2025-07-29 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212792) · `si`
+
+ඊශ්‍රායල් - පලස්තීන යුද ගැටුම් හේතුවෙන් 2023 වසරේ ඔක්තෝබර් 7 වනදා සිට ගාසා තීරයේ සිදුවූ පලස්තීනුවන්ගේ මරණ සංඛ්‍යාව 60,000 ඉක්මවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම කාලසීමාව තුළ තුවාල ලැබූ පලස්තීනුවන් සංඛ්‍යාව 145,000 කට අධික බවත් එම වාර්තා පෙන්වා දෙයි.
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ දහස් ගණනක් තවමත්  සුන්බුන් යට අතුරුදහන් වී සිටින බවත් ය.
+
+◼️
+
+[Data](articles/8d4deb1a.json)
+
+---
+
+### හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි රිමාන්ඩ්
+
+*2025-07-29 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212791) · `si`
+
+අපරාධකරුවකු වන කෙහෙල්බද්දර පද්මේ තමන්ට මරණ තර්ජන කළේයැයි පවසමින් අසත්‍ය පැමිණිල්ලක් ඉදිරිපත් කිරීමේ චෝදනාව මත අත්අඩංගුවටපත් විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා අගෝස්තු 06 දක්වා රක්ෂිත බන්ධනාගාර කෙරුණි.
+
+ඒ රාගම පිහිටි පෞද්ගලික රෝහලක ප්‍රතිකාර ලබනමින් සිටින විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා මහර මහෙස්‍ර්තාත්වරයා පරීක්ෂා කිරීමෙන් අනතුරුවය.
+
+ඔහුට ආරක්ෂාව ලබාගැනීමේ අරමුණින් මෙම ක්‍රියාව සිදුකර ඇති බවට මේවන විට තොරතුරු හෙළිවී ඇති බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකළ විමර්ශනවලදී අනාවරණ වී තිබේ.
+
+අපරාධකරුවකු වන කෙහෙල්බද්දර පද්මේ නැමැත්තාගෙන් තමන්ට මරණ තර්ජන එල්ල වී ඇති බවට හිටපු මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ මධ්‍යම පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කර තිබුණි.
+
+එසේම විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතාද පසුගිය දිනක අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ගොනුකර තිබුණේ කෙහෙල්බද්දර පද්මේ නැමැත්තා තමන්ටද තර්ජනය කළ බව පවසමින්ය.
+
+...
+
+[Data](articles/37552313.json)
+
+---
 
 ### Maritime security, blue economy discussed during Sri Lanka leader’s Maldives visit
 
@@ -347,6 +383,24 @@ ECONOMYNEXT – Sri Lanka has sold 71 billion rupees in 2030 and 2037 bonds, of 
 ...
 
 [Data](articles/239ca5c2.json)
+
+---
+
+### ඉදිරි දින කිහිපයේදී වැසි ඇතිවීමට හිතකර වායුගෝලයක්
+
+*2025-07-29 15:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවීමට-හිතකර-වායුගෝලයක්/11-417587) · `si`
+
+ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි
+
+ඇතිවීම  සඳහා හිතකාර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+උතුරු, උතුරුමැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි
+
+බස්නාහිර හා සබරමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/34d4d1c8.json)
 
 ---
 
@@ -1805,67 +1859,5 @@ Subsequently, with the agreement of both parties, the case was settled amicably.
 ◼️
 
 [Data](articles/1f9aa84d.json)
-
----
-
-### Sri Lanka WindForce-Vidullanka 10MW solar plant completed
-
-*2025-07-29 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-windforce-vidullanka-10mw-solar-plant-completed-233302/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based WindForce Plc said a 10 MW solar plant built in the eastern Batticaloa region as a joint venture with Vidullanka, was launched on July 26.
-
-The plant is expected to generate about 19.5 GigaWatt hours of electricity a year, Windforce said in a stock exchange filing.
-
-The plant is on high-salinity land in Vavunativu which is unfit for agriculture.
-
-The project was implemented through Sooryashakthi (Pvt) Limited, a fully owned subsidiary of Solar Universe (Pvt) Limited, a joint venture between Vidullanka and WindForce, with each party holding an equal shareholding.
-
-WindForce said it executed the engineering, procurement, and construction contract.
-
-The plant has 22,048 photovoltaic modules, and 34 string inverters which it said would improve efficiency and reliability.
-
-The project was completed on time despite floods slowing construction, the company said.
-
-Vidullanka, WindForce joint venture signs purchase agreement with solar plant
-
-...
-
-[Data](articles/fa83acb5.json)
-
----
-
-### රස පරීක්ෂක කාර්යාලයේ කාර්ය සහයකයෙක් හෙරොයින් සහ අයිස් සමග අත්අඩංගුවට
-
-*2025-07-29 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212762) · `si`
-
-රස පරීක්ෂක කාර්යාලයේ කාර්ය සහයකයෙකු හෙරොයින් හා අයිස් මත්ද්‍රව්‍ය සමග පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන්ගේ අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (28) දින මාලඹේ පොලිස් වසමේ කුඩාදෙනිය පටුමග, හෝකන්දර දකුණ ප්‍රදේශයේ නිවසක දී එම පුද්ගලයාව අත්අඩංගුවට ගෙන ඇත.
-
-එහිදී හෙරොයින් ග්‍රෑම් 265ක් හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 250ක් සන්තකයේ තබාගෙන සිටි අවුරුදු 58ක පුද්ගලයෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/22d0c0be.json)
-
----
-
-### Office Assistant at Government Analyst’s Department arrested with heroin and ICE
-
-*2025-07-29 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110950/office-assistant-at-government-analysts-department-arrested-with-heroin-and-ice) · `en`
-
-An office assistant attached to the Government Analyst’s Department has been arrested for the possession of narcotics, police stated.
-
-The individual has been apprehended by a team of officers attached to the Intelligence Division of the Special Task Force in Hokandara South.
-
-Officers found 265 grams of heroin and 250 grams of ICE (crystal methamphetamine) in his possession at the time of the arrest.
-
-The 58-year-old office assistant is a resident of Hokandara South.
-
-He has been handed over to the Malabe Police Station for further investigation.
-
-◼️
-
-[Data](articles/433139aa.json)
 
 ---

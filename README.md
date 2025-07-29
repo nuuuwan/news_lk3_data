@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 15:35:44**
+As of **2025-07-29 15:48:42**
 
 ## Newspaper Stats
 
-*Scraped **67,496** Articles*
+*Scraped **67,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,482
+adalk | 6,484
 adaderanalk | 8,315
-tamilmirrorlk | 9,780
+tamilmirrorlk | 9,782
 virakesarilk | 11,246
-adaderanasinhalalk | 11,602
+adaderanasinhalalk | 11,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,496 articles have been extended.
+61,973 (91.8%) of 67,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### ”நாமல் தான் அடுத்த ஜனாதிபதி ”
+
+*2025-07-29 15:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-தான்-அடுத்த-ஜனாதிபதி/175-361986) · `ta`
+
+அடுத்த ஜனாதிபதித் தேர்தல் குறித்த அனைத்து உளவுத்துறை அறிக்கைகளும் நாமல் ராஜபக்ஷ இலங்கையின் அடுத்த ஜனாதிபதியாக இருப்பார் என்பதை ஏற்கனவே உறுதிப்படுத்தியுள்ளன என்று முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
+
+சமீபத்திய நிகழ்வில் பேசிய அவர், கிராமங்களில் உள்ள மக்கள் கூட நாமல் அடுத்த தலைவராக வருவதைப் பற்றிப் பேசுகிறார்கள் என்றார்.
+
+"நாமல் அடுத்த ஜனாதிபதியாக வருவார் என்று கிராமத்தில் பேச்சு உள்ளது. அனைத்து அறிக்கைகளும் ஏற்கனவே கொடுக்கப்பட்டுள்ளன," என்று பெர்னாண்டோ கூறினார்.
+
+அறிக்கைகள் தொடர்பாக எந்த வகையான சோதனை அல்லது விசாரணையையும் நடத்துமாறு அவர் அரசாங்கத்திற்கு சவால் விடுத்தார்.
+
+"நாங்கள் அதை எதிர்கொள்ளத் தயாராக இருக்கிறோம். அப்போது, அவர்கள் இரட்டை டாக்ஸியில் ஏராளமான கோப்புகளைக் கொண்டு வந்தார்கள், ஆனால் எதுவும் கிடைக்கவில்லை. அவர்கள் வழக்கைத் தாக்கல் செய்தால் போதும். அதுதான் அன்றைய செய்தி," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/037e7ec6.json)
+
+---
+
+### හම්බන්තොට කුරුලු උයනේ හිමිකරුගෙන් අධිකරණයට පෙත්සමක්
+
+*2025-07-29 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212781) · `si`
+
+හම්බන්තොට කුරුලු උද්‍යානයේ තිබී සොයා ගන්න ලද නීති විරෝධී ලෙස ආනයනය කරන ලද සුඛෝපභෝගී මෝටර් බයිසිකල් 21 ක් සන්තකයේ තබාගත්තේ යැයි සැකපිට තමන්ව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කිරීමට ගෙන තිබෙන තීරණයට එරෙහිව එම උද්‍යානයේ හිමිකරු වූ අජිත් ගාල්ලගේ මහතා වෙනුවෙන් ඔහුගේ නීතිඥවරු ඉදිරිපත් කළ රිට් පෙත්සම කරුණු තහවුරු කිරීම සඳහා අගෝස්තු මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (29) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ එරාජ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම මෝටර් බයිසිකල් මහා මාර්ගයේ භාවිතා කිරීමේ චේතනාවෙන් ගෙන්වන ලද බයිසිකල් නොවන බව ප්‍රකාශ කළේය.
+
+මෝටර් රථ පනතට අනුව මෙම චෝදනාව ඇප ලබා දිය හැකි වරදක් බවත් ඔහු මෙහිදී කියා සිටියේය.
+
+...
+
+[Data](articles/cf596e93.json)
+
+---
+
+### ஜெயவர்தனபுர பொது மருத்துவமனையின் தவிசாளர் இராஜினாமா
+
+*2025-07-29 15:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெயவர்தனபுர-பொது-மருத்துவமனையின்-தவிசாளர்-இராஜினாமா/175-361984) · `ta`
+
+ஸ்ரீ ஜெயவர்தனபுர பொது மருத்துவமனையின் தவிசாளரும், மகப்பேறு மருத்துவருமான ஆலோசகர் வைத்தியர் ஜயங்க திலகரத்ன தனது ராஜினாமா கடிதத்தை சுகாதார அமைச்சரிடம் அளித்துள்ளதாக டெய்லி மிரர் பத்திரிகை தகவல் அறிந்துள்ளது.
+
+இருப்பினும், இந்த நியமனம் அரசியல் நோக்கம் கொண்டது என்று மருத்துவத் துறையினர் விமர்சித்தனர்.
+
+பதுளை போதனா மருத்துவமனையின் புதிய பணிப்பாளராக வைத்தியர் திலகரத்ன கடமைகளைப் பொறுப்பேற்பார் என்று எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/36d6e631.json)
+
+---
+
+### ළහිරු වීරසේකර අත්අඩංගුවට
+
+*2025-07-29 15:18:53* · [`adalk`](https://www.ada.lk/breaking_news/ළහිරු-වීරසේකර-අත්අඩංගුවට/11-417584) · `si`
+
+අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ හිටපු කැඳවුම්කරුවෙක් මෙන්ම වත්මන් යූත් ෆෝ චේන්ජ් සංවිධානයේ ජාතික සංවිධායක ළහිරු වීරසේකර අත්අඩංගුවට ගෙන තිබේ.
+
+තෙබුවන ප්‍ර දේශයේ කර්මාන්ත ශාලාවකට අයත් ඉඩමකට බලහත්කාරයෙන් ඇතුළුවීමේ චෝදනා යටතේ තෙබුවන පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ති‍බේ.
+
+◼️
+
+[Data](articles/fda4feb0.json)
+
+---
 
 ### நாமலுக்குப் பிணை
 
@@ -924,6 +992,22 @@ Although several aftershocks were reported following the earthquake, Weerakoon f
 
 ---
 
+### සුමේධ ඇතා වන අලියෙකු සමග ගැටේ
+
+*2025-07-29 11:11:28* · [`adalk`](https://www.ada.lk/picture_story/සුමේධ-ඇතා-වන-අලියෙකු-සමග-ගැටේ/10-417578) · `si`
+
+පොළොන්නරුව මින්නේරිය ජාතික වන උද්‍යානය නිජබිම කරගත් සුමේධ ඇතා මින්නේරිය ජාතික වන උද්‍යානයේ මින්නේරිය වැව් රක්ෂිතයේ සැරිසරමින් සිටි සද්ධන්ත තවත් වන අලියෙකු සමග 28 වෙනිදා ගැටෙන අයුරු එම වන උද්‍යානයේ සංචාරයක නිරතව සිටි පුද්ගලයෙකුගේ කැමරා කාචයෙහි සටහන්ව තිබුණි.
+
+මීට මාස කිහිපයකට ඉහතදී ලොරි රථයක ගැටී දකුණු දළය අහිමිව අතුරු දහන්ව සිටි සුමේධ ඇතා පසුගිය දිනවල නැවත වරක් මින්නේරිය ජාතික වන උද්‍යානයෙන් හමු වූ අතර එම සුමේධ ඇතා තම නිජබිම වන මින්නේරිය ජාතික වන උද්‍යානයේ සැරිසරමින් සිටිති.
+
+ඇතුන් හා අලින් අතර තම ආධිපත්‍ය තහවුරු කර ගැනීම උදෙසා මේ දිනවල නිරතුරුව ගැටුම් සිදුවෙන අතර එලෙස තම මින්නේරිය ජාතික වන උද්‍යානය තුල තම ආධිපත්‍ය තහවුරු කිරීම වෙනුවෙන් මෙලෙස සුමේධ ඇතා ගැටෙන අයුරු මෙහිදී දැකගත හැකිවෙයි.
+
+◼️
+
+[Data](articles/a9cfd1bc.json)
+
+---
+
 ### யாரென்று தெரிகிறதா?
 
 *2025-07-29 11:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/யாரென்று-தெரிகிறதா/62-361960) · `ta`
@@ -1767,99 +1851,5 @@ Prime Minister Dr. Amarasuriya further stated Sri Lankan chefs are not only culi
 ◼️
 
 [Data](articles/0f755c2d.json)
-
----
-
-### සරසවියක ගොඩනැගිල්ලකින් ඇද වැටි ආරක්ෂකයෙක් මරුට
-
-*2025-07-29 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212757) · `si`
-
-කිලිනොච්චියේ අරවියල්නගර් විශ්වවිද්‍යාලයේ පුද්ගලික ආරක්ෂක අංශයේ රාජකාරි යෙදී සිටි පුද්ගලයෙකු එහි කෘෂි පීඨයේ දෙවන මහලින් බිමට ඇද වැටී මියගොස් ඇත.
-
-ඊයේ (28) අළුයම් කාලයේ මෙය සිදු වී ඇති අතර ඒ සම්බන්ධයෙන් කිලිනොච්චිය පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/40ca7c2b.json)
-
----
-
-### Bodies of Yatinuwara PS Opposition Leader, his wife and child found
-
-*2025-07-29 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110943/bodies-of-yatinuwara-ps-opposition-leader-his-wife-and-child-found) · `en`
-
-The bodies of the Leader of the Opposition of the Yatinuwara Pradeshiya Sabah, his wife and the daughter have been found at their residence in Yahalatenna, police stated.
-
-Police stated that the opposition leader of the Yatinuwara Pradeshiya Sabha had committed suicide by hanging, and the bodies of his wife and daughter were also found inside a room of the house.
-
-The deceased are a 52-year-old man, his 44-year-old wife, and their 17-year-old daughter.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-- For emergencies, contact the National Mental Health Helpline: 1926
-
-◼️
-
-[Data](articles/76f46820.json)
-
----
-
-### Sri Lanka resident investors buy restructured ISBs from foreigners
-
-*2025-07-29 07:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-resident-investors-buy-restructured-isbs-from-foreigners-233285/) · `en`
-
-ECONOMYNEXT – Investors resident in Sri Lanka had bought restructured sovereign bonds from foreign investors in the first quarter of 2025, official data shows.
-
-In December 2024 Sri Lanka restructured defaulted sovereign bonds of 12,550 million US dollars in an exercise which left 10,585 million dollars of so-called macro-linked bonds, as well as some other bonds including governance linked bonds.
-
-By end December 2024, 9,315 million dollars of sovereign bonds were owned by foreigners and 1,270 million owned by residents, central bank data shows.
-
-By the end of the first quarter locals had bought 115 million dollars of bonds, taking the total held by residents to 1,385 million and reducing foreign holdings to 9,200 million dollars.
-
-Sri Lanka’s banks are also flushed with dollar liquidity as the government in particular repaid some loans in rupees, which were covered by purchases from local market to maintain their foreign exchange open positions.
-
-...
-
-[Data](articles/0f45efaf.json)
-
----
-
-### Global stock index falls, euro slides after US-EU trade deal
-
-*2025-07-29 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110942/global-stock-index-falls-euro-slides-after-us-eu-trade-deal) · `en`
-
-A global equities gauge fell on Monday while the euro took a tumble and U.S. Treasuries sold off as investors cautiously greeted a trade agreement between the U.S. and European Union at the start of an action-packed week for markets.
-
-The weekend’s framework trade deal, which European Commission President Ursula von der Leyen described as the best the bloc could get, will impose a 15 per cent import tariff on most EU goods while the EU is set to spend $600 billion on U.S. investments and open up some important parts of its market.
-
-While the accord may avert a damaging standoff between the trading partners, which account for almost a third of global trade, some European capitals complained it was lopsided in favor of Washington.
-
-MSCI’s gauge of stocks across the globe fell 2.78 points, or 0.30 per cent, to 938.48. The index, representing stocks from 47 countries, had boasted five record closes out of the prior six trading sessions.
-
-...
-
-[Data](articles/715d11f4.json)
-
----
-
-### පාතාලය හෙල්ලූ වෙඩික්කරුගේ අපරාධ ලැයිස්තුව එළියට
-
-*2025-07-29 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212756) · `si`
-
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු වන හික්කඩුව ලියනගේ සහන් සිසිකැලුම් හෙවත් වැලිගම සහන් ඉන්දියාවේ සිට මෙරටට පිටුවහල් කර සිටියදී කටුනායක ගුවන්තොටුපළේ දී අත්අඩංගුවට පත්වුණි.
-
-සැකකරු ඊයේ (28) රාත්‍රී චෙන්නායි නුවර සිට කටුනායක ගුවන්තොටුපළ වෙත පැමිණි අවස්ථාවේ අපරාධ පරීක්ෂණ දෙපාර්තම්න්තු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබුණි.
-
-31 හැවිරිදි වැලිගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන මෙම සැකකරුට එරෙහිව මාතර සහ පානදුර යන ප්‍රදේශවල මිනීමැරුම්, මංකොල්ලකෑම් අතුළු අපරාධ රැසක් සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති බව පොලීසිය පවසයි.
-
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන හරක්කටා නැමැත්තාගේ ගෝලයෙකු මෙන්ම මිදිගම චූටිගේ සහ කුඩු සලිඳුගේ ද ප්‍රධාන වෙඩික්කරු වශයෙන් මෙම සැකකරු කටයුතු කර ඇතැයි තොරතුරු අනාවරණය වී තිබේ.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් සැකකරු ඉදිරි විමර්ශන කටයුතු සඳහා කළුතර අපරාධ කොට්ඨාශය වෙත භාර දී ඇත.
-
-මෙම සැකකරු සිදුකර ඇති අපරාධ ලැයිස්තුවක් පොලීසිය විසින් නිකුත් කර තිබේ.
-
-...
-
-[Data](articles/20deea37.json)
 
 ---

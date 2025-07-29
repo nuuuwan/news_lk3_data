@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 12:28:39**
+As of **2025-07-29 12:51:29**
 
 ## Newspaper Stats
 
-*Scraped **67,461** Articles*
+*Scraped **67,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,477
-adaderanalk | 8,305
-tamilmirrorlk | 9,772
+adaderanalk | 8,309
+tamilmirrorlk | 9,774
 virakesarilk | 11,242
-adaderanasinhalalk | 11,594
+adaderanasinhalalk | 11,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,461 articles have been extended.
+61,973 (91.9%) of 67,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### දොඹකර රියැදුරා අද අධිකරණය හමුවට
+
+*2025-07-29 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212772) · `si`
+
+බොරැල්ල කනත්ත වටරවුම අසල සිදුවූ මාරක රිය අනතුරට සම්බන්ධ දොඹකර රථ රියැදුරා අද (28) අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+අනතුරින් තුවාල ලැබූ 6 දෙනා තවදුරටත් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන බව රෝහල් ආරංචිමාර්ග පැවසුවේය.
+
+බොරැල්ල කනත්ත වටරවුම අසලදී ඊයේ (28) පෙරවරු 7.45ට පමණ දොඹකර රථයක් පාලනයෙන් ගිලිහී ගොස් මාරක අනතුරක් සිදුවුණා.
+
+එම රථය යතුරුපැදි 6ක් යටකරමින් සහ මෝටර් රථ 3කද ගැටෙමින් වේගයෙන් ධාවනය විය.
+
+අනතුරින් එක් පුද්ගලයෙක් එම ස්ථානයේදීම මියගිය අතර තවත් 06 දෙනෙකු තුවාල ලැබූහ.
+
+කොළඹ ජාතික රෝහල පැවසුවේ, ඒ අතරින් එක් අයෙකුගේ පාදය ඉවත් කිරීමටද සිදුවූ බවය.
+
+මෙම මාරක අනතුර සම්බන්ධයෙන් දොඹකර රථයේ රියැදුරා වන 26 හැවිරිදි පුද්ගලයා බොරැල්ල පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබූ අතර, වෛද්‍ය පරීක්ෂණයේදී හෙළිවී තිබුණේ ඔහු ඒ වනවිට ගංජා මත්ද්‍රව්‍ය භාවිත කර සිට තිබූ බවය.
+
+ඊට අමතරව දොඹකර රථයේ හිමිකරු ද පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබූ අතර ඔවුන් අද අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/c6832664.json)
+
+---
+
+### 22 குழந்தைகளை தத்தெடுக்கும் ராகுல் காந்தி
+
+*2025-07-29 12:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-குழந்தைகளை-தத்தெடுக்கும்-ராகுல்-காந்தி/175-361973) · `ta`
+
+ஏப்ரல் 22ம் திகதி நடந்த பஹல்காம் பயங்கரவாத தாக்குதலை தொடர்ந்து நடந்த இந்தியா - பாகிஸ்தான் போரில் பெற்றோரை இழந்து தவிக்கும் 22 குழந்தைகளை லோக்சபா எதிர்க்கட்சி தலைவரான காங்கிரஸின் ராகுல் காந்தி தத்தெடுக்க முடிவு செய்துள்ளார்.
+
+ஜம்மு காஷ்மீரின் பஹல்காமில் கடந்த ஏப்ரல் 22ம் திகதி பாகிஸ்தான் ஆதரவு பயங்கரவாதிகள் நுழைந்து துப்பாக்கிச்சூடு நடத்தினர். இதில் 26 பேர் இறந்தனர். இந்த தாக்குதலுக்கு நம் நாட்டின் சார்பில் பதிலடி கொடுக்கப்பட்டது. மே 7 ம் திகதி ‛ஆபரேஷன் சிந்தூர்' நடவடிக்கை மூலமாக பாகிஸ்தானில் 9 பயங்கரவாத முகாம்களை நம் படை வீரர்கள் அழித்தனர்.
+
+இதையடுத்து இருநாடுகளுக்கும் இடையே போர் மூண்டது. நம் நாடும், பாகிஸ்தானும் மாறி மாறி தாக்குதல் நடத்தினர். நம் நாட்டின் துல்லிய தாக்குதல்கள் பாகிஸ்தானின் போர் விமானங்கள், ராணுவ தளம், விமானப்படை தளங்களை அழித்தது. மாறாக பாகிஸ்தானின் ஏவுகணை, ட்ரோன்கள் வானிலேயே அழிக்கப்பட்டது.
+
+...
+
+[Data](articles/bac64505.json)
+
+---
+
+### July allowance for elders to be credited to bank accounts tomorrow
+
+*2025-07-29 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110958/july-allowance-for-elders-to-be-credited-to-bank-accounts-tomorrow-) · `en`
+
+The monthly allowance designated for elderly individuals aged over 70, enrolled in the welfare benefit program, will be credited to their respective bank accounts tomorrow (30), the Welfare Benefits Board has announced.
+
+The Board stated that the beneficiaries can withdraw the amount from their accounts from tomorrow.
+
+This financial aid is provided to a total of 600,768 eligible individuals under the relief scheme while a total sum of Rs. 3,003,840,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
+
+◼️
+
+[Data](articles/fc517974.json)
+
+---
 
 ### பஸ்,லொறி மோதியதில்  யாத்ரீகர்கள் 18 பேர் பலி
 
@@ -76,6 +134,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Thailand-US trade talks should be concluded before Aug 1, minister says
+
+*2025-07-29 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110955/thailand-us-trade-talks-should-be-concluded-before-aug-1-minister-says) · `en`
+
+Thailand’s trade talks with the United States are expected to be concluded before Aug 1, and US tariffs on the country are not expected to be as high as 36 per cent, its finance minister said on Tuesday (Jul 29).
+
+The United States was Thailand’s largest export market last year, accounting for 18.3 per cent of total shipments, or US$54.96 billion. Washington has put its deficit with Thailand at US$45.6 billion.
+
+Thailand is ready to negotiate and its proposal remains the same, Finance Minister Pichai Chunhavajira told reporters.
+
+“The United States has already opened the way for further negotiations, and we will continue the discussions,” he said.
+
+Asked whether the talks could be done before the Aug 1 deadline, Pichai said, “Yes, it can be done in time. We’re definitely ready and now we’ll see how the US decides.”
+
+US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
+
+...
+
+[Data](articles/e74af2f3.json)
+
+---
+
 ### ජනපති වෙනුවෙන් මාලදිවයිනේ දී විශේෂ රාත්‍රී භෝජන සංග්‍රහයක්
 
 *2025-07-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212770) · `si`
@@ -101,6 +181,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0007b916.json)
+
+---
+
+### சில்லறை இல்லைன்னு சொல்லாதீங்க பா.. ஜிபி-ல போட்டுட்டு போங்க
+
+*2025-07-29 11:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/சில்லறை-இல்லைன்னு-சொல்லாதீங்க-பா-ஜிபி-ல-போட்டுட்டு-போங்க/53-361970) · `ta`
+
+தமிழகத்தின் திருப்பத்தூர் மாவட்டம் புத்துக்கோவில் பகுதியில் வாணியம்பாடி கணவாய்புதூர் பகுதியை சேர்ந்த 60 வயதான நபர் ஒருவர் 'கியூ.ஆர்.' கோடு அட்டையை கையில் வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் யாசகம் எடுத்து வருகிறார்.
+
+யாராவது சில்லறை இல்லை என்றால் “அக்கவுண்டில் போடு” என 'கியூ.ஆர்.' கோடு அட்டையை காட்டுகிறார்.
+
+வித்தியாசமான அவரது இந்த அணுகுமுறையால் பலரும் டிஜிட்டல் முறையில் யாசகத்தை  போட்டு வருகின்றனர்.
+
+அதற்கு அவர், தற்போது செல்போன், கிரெடிட் கார்டு மற்றும் டெபிட் கார்டுகள் மூலம்தான் பெரும்பாலான பரிவர்த்தனைகள் நடைபெற்று வருகின்றன.
+
+இப்போது பர்சில் பணம் வைத்துக்கொள்வது அரிதாக உள்ளதாக தெரிவித்த அவர், தான் 3 வங்கி ஏ.ரி.எம். கார்டுகள் வைத்து இருப்பதாகவும், 'கியூ.ஆர்.' கோடு அட்டையை வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் பிச்சை எடுப்பதாகவும், இதனால் 'டிஜிட்டல்' முறையிலேயே பலர் பணம் செலுத்துவதாகவும் தெரிவித்துள்ளார்.
+
+இளைஞர்கள் சிலர் இதை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் வெளியிட்டனர். அது வைரலாகி வருகிறது.
+
+◼️
+
+[Data](articles/9b5ea5d1.json)
 
 ---
 
@@ -274,6 +376,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Bay of Bengal earthquake has no impact on Sri Lanka - GSMB
+
+*2025-07-29 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110954/bay-of-bengal-earthquake-has-no-impact-on-sri-lanka-gsmb) · `en`
+
+There is no impact on Sri Lanka from the earthquake reported earlier today near the Andaman and Nicobar Islands, in the Bay of Bengal, the Geological Survey and Mines Bureau has stated.
+
+An earthquake of magnitude 6.3 hit the Bay of Bengal, at 12.11 a.m.
+
+According to India’s National Center for Seismology, the depth of the quake of 10 km and the exact location was Latitude 6.82 N, Longitude 93.37 E.
+
+Several strong aftershocks were reported following the quake, but no damage to property or loss of life has been reported.
+
+Issuing a statement on the incident, the Director General of the Geological Survey and Mines Bureau, Deepani Weerakoon confirmed that there is no impact on Sri Lanka from the earthquake.
+
+She also mentioned that the earthquake occurred about 260 kilometers away from Sri Lanka, and its magnitude was recorded as 6.6 on the Richter scale in Sri Lanka.
+
+...
+
+[Data](articles/1f3d6d99.json)
+
+---
+
 ### කොස්තාපල්වරයාගේ නිවසේ මත්පෙති ගබඩාවක්
 
 *2025-07-29 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212768) · `si`
@@ -415,6 +539,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7a90fffe.json)
+
+---
+
+### Duminda Dissanayake released from ‘gold-plated’ T-56 firearm case due to lack of evidence
+
+*2025-07-29 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110953/duminda-dissanayake-released-from-gold-plated-t-56-firearm-case-due-to-lack-of-evidence) · `en`
+
+The Mount Lavinia Magistrate’s Court today (29) ordered the release of former Minister Duminda Dissanayake from the case filed over the discovery of a gold-plated T-56 firearm at an apartment complex in Havelock Town, citing lack of evidence.
+
+During court proceedings, Magistrate Chathurika de Silva ordered the release of former Minister Dissanayake due to the absence of direct and circumstantial evidence related to the case.
+
+The former Minister was taken into custody on 23 May in connection with investigations regarding ownership of a gold-plated T-56 type firearm found at a housing complex in Havelock Town.
+
+The gold-plated T-56 assault rifle was discovered inside a woman’s travel bag at the apartment complex.
+
+After being presented before the Mount Lavinia Magistrate’s Court, Duminda Dissanayake was ordered to be remanded.
+
+Later, after considering a bail request submitted by him, he was released on bail under strict conditions on 14 July.
+
+◼️
+
+[Data](articles/853a27f5.json)
 
 ---
 
@@ -1671,141 +1817,5 @@ Vietnam brings in $ 5–8 billion per quarter, boosted by global supply chain di
 ...
 
 [Data](articles/a5975501.json)
-
----
-
-### 6.6 magnitude earthquake near in Nicobar Island
-
-*2025-07-29 00:57:00* · [`economynextcom`](https://economynext.com/6-6-magnitude-earthquake-near-in-nicobar-island-233261/) · `en`
-
-ECONOMYNEXT – There was no tsunami threat to the Indian Ocean from a 6.6 magnitude earthquake near Nicobar Islands, a bulletin issued by Indian authorities said, shortly after the first alert that the quake was big enough to generate a wave.
-
-“Based on pre-run model scenarios, there is NO THREAT to countries in the Indian Ocean,” the notice said.
-
-“No further bulletins will be issued unless the situation changes.”
-
-This bulletin applies to areas within and bordering the Indian Ocean
-
-and is issued by Tsunami Service Provider INDIA in support of the
-
-Based on pre-run model scenarios, there is NO THREAT to countries in
-
-the Indian Ocean. No further bulletins will be issued unless the
-
-make decisions regarding the official threat and warning status in
-
-For more detailed information, please refer to the tsunami advisory
-
-bulletins issued by the National Tsunami Warning Centres (NTWCs) of
-
-Indian Ocean countries. The tsunami warning status reported by NTWCs
-
-◼️
-
-[Data](articles/c2c34a94.json)
-
----
-
-### Real hangover: Outdated laws and who they serve
-
-*2025-07-29 00:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Real-hangover-Outdated-laws-and-who-they-serve/4-779577) · `en`
-
-This milestone of legislative change is about far more than alcohol
-
-Growing up in Sri Lanka we’re often reminded of the country’s proud legacy of progress for women: setting a global precedent in 1960 as the first country in the world to elect a female Prime Minister. Today, women in Sri Lanka enjoy one of the highest literacy rates in South Asia, at over 90%. Women also make up the majority in universities and represent a significant portion of the workforce, especially in manufacturing and service sectors. Despite these political and economic milestones, Sri Lanka was one of the few countries in the world to restrict women from purchasing or selling alcohol legally until 2025. Similar discriminatory laws have existed in parts of India, Pakistan, and some Gulf nations, regularly justified under cultural or religious norms.
-
-...
-
-[Data](articles/16d095c9.json)
-
----
-
-### Reject violence and war, struggle for peace and harmony
-
-*2025-07-29 00:51:06* · [`dailyftlk`](https://www.ft.lk/columns/Reject-violence-and-war-struggle-for-peace-and-harmony/4-779576) · `en`
-
-I use the term ‘struggle’ in the title of this article to mean ‘work,’ and not ‘fight.’ The advocacy for peace in the world is old as the history of war and violence. But that has failed so far at least to moderate conflicts and war. Today the world has come to a high point after the Second World War as two of the conflicts, between Russia and Ukraine and Ukraine and Palestine, with a great potential of creating a disastrous world war.
-
-There are over 20 countries at present involved in internal or external wars. Wikipedia gives a broad description of the situation and based on the figures of death toll during 2024 those countries can be listed as follows with numbers of mortality.
-
-...
-
-[Data](articles/adc45056.json)
-
----
-
-### ICJ urges international oversight and victim-centred investigation into Chemmani mass grave
-
-*2025-07-29 00:26:53* · [`dailyftlk`](https://www.ft.lk/opinion/ICJ-urges-international-oversight-and-victim-centred-investigation-into-Chemmani-mass-grave/14-779575) · `en`
-
-In light of the ongoing excavation at the Chemmani-Siththupaththi mass grave site in Jaffna, situated in the north of Sri Lanka, the International Commission of Jurists (ICJ) yesterday issued the following statement
-
-As of 27 July 2025, 101 skeletal remains, including those of children and infants, had been recovered at Chemmani-Siththupaththi. The ICJ considers that the excavation process is a necessary, initial step toward truth and accountability, and calls on the Government of Sri Lanka to ensure that all exhumation and investigative processes be conducted in full compliance with international human rights law and standards—such as the Revised United Nations Manual on the Effective Prevention and Investigation of Extra-legal, Arbitrary and Summary Executions (the Minnesota Protocol on the Investigation of Potentially Unlawful Death)—including with respect to investigative practice and forensic science and the rights and dignity of the dead and their families.
-
-...
-
-[Data](articles/9219f85a.json)
-
----
-
-### 2025-07-28 (Monday)
-
-### இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட வெலிகம சஹான், கட்டுநாயக்கவில் கைது
-
-*2025-07-28 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221228) · `ta`
-
-கட்டமைக்கப்பட்ட குற்றவாளியான சஹான் சிசி கெலும் அல்லது வெலிகம சஹான், கட்டுநாயக்கவில் உள்ள பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
-
-இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட அவர், திங்கட்கிழமை (28) மதியம் விமான நிலைய குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
-
-பாணந்துறை மற்றும் களுத்துறை பகுதியில் நடந்த இரண்டு துப்பாக்கிச் சூடு சம்பவங்களிலும், மட்டக்குளியவில் பட்டேயா சுரங்காவின் துப்பாக்கிச் சூட்டிலும் இந்த வெலிகம சஹான் முக்கிய சந்தேக நபர் என்றும், அவர் ஒரு கூலி கொலையாளி என்றும் தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/fa1c671b.json)
-
----
-
-### கம்பளை - நாவலப்பிட்டி சாலையில் குடை தொழிற்சாலையில் தீ விபத்து
-
-*2025-07-28 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/221227) · `ta`
-
-கம்பளை - நாவலப்பிட்டி சாலையில் மருத்துவமனைக்கு அருகில் அமைந்துள்ள ஒரு குடை தொழிற்சாலையில் திங்கட்கிழமை (28) இரவு தீ விபத்து ஏற்பட்டது.
-
-திங்கட்கிழமை (28) மாலை 7 மணியளவில் தொழிற்சாலையின் கிடங்கில் இருந்து திடீரென தீ விபத்து ஏற்பட்டதாக தொழிற்சாலையின் பாதுகாப்புப் படையினர் பொலிசாரிடம் தெரிவித்துள்ளனர்.
-
-தீ பரவியதைத் தொடர்ந்து, அருகிலுள்ள கம்பளை போதனா மருத்துவமனையின் மருத்துவ குடியிருப்புகளுக்கும் தீ பரவி, இரண்டு மருத்துவ குடியிருப்புகளை எரித்தனர்.
-
-தீயை அணைக்க கண்டி தீயணைப்புத் துறையின் இரண்டு தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டதாக கண்டி தீயணைப்புத் துறை தெரிவித்துள்ளது.
-
-அதே நேரத்தில், கம்பளை நகர சபை மற்றும் இராணுவத்தின் தண்ணீர் பவுசர் வந்து தீயை அணைக்க கடுமையாக போராடி வருவதாக கூறப்படுகிறது.
-
-இதற்கிடையில், தீ அவர்களுக்கு பரவாமல் தடுக்க மருத்துவ குடியிருப்புகளின் கூரை மற்றும் சுவர்களை அகற்ற நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-தற்போது கண்டி தீயணைப்புத் துறை, இராணுவம், கம்பளை நகரசபை, கம்பளை காவல்துறை மற்றும் உள்ளூர்வாசிகள் தீயை அணைக்கும் முயற்சிகளை மேற்கொண்டு வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c42a4be7.json)
-
----
-
-### Ambassador for Blues Music Victoria
-
-*2025-07-28 22:49:00* · [`islandlk`](http://island.lk/ambassador-for-blues-music-victoria/) · `en`
-
-Sri Lanka-born Andrea Marr, who now resides in Australia, has been singing Blues since 1997, and has achieved great success in the Blues scene.
-
-She has 10 albums to her name, was inducted into the Blues Music Victoria Hall of Fame, won the Blues Performer of the Year award, three times, and was the Australian Female Blues Artiste of the Year, in 2009.
-
-This year, she sang in Memphis, in the States, as part of the International Women in Blues showcase and returned to Australia to become the Ambassador for Blues Music Victoria – Women in Blues programme.
-
-What’s more, Andrea is using her years of experience as a recording artiste, and performer, as well as her experience, to developing artistes, at her music school, to help the female-fronted Blues acts, in the state of Victoria, to get more gigs, and be heard internationally.
-
-And, despite her work load, connected with music, Andrea still finds the time to house homeless cats with people who love animals.
-
-...
-
-[Data](articles/fb28dda4.json)
 
 ---

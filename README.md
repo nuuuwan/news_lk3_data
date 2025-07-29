@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 21:22:45**
+As of **2025-07-29 21:33:51**
 
 ## Newspaper Stats
 
-*Scraped **67,567** Articles*
+*Scraped **67,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,493
 adaderanalk | 8,330
-tamilmirrorlk | 9,788
+tamilmirrorlk | 9,791
 virakesarilk | 11,256
 adaderanasinhalalk | 11,621
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 11,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,567 articles have been extended.
+61,973 (91.7%) of 67,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### வெப்பநிலை குறித்து விடுக்கப்பட்டுள்ள எச்சரிக்கை
+
+*2025-07-29 21:06:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/175-361999) · `ta`
+
+நாட்டின் பல பகுதிகளில் நாளை (30)வெப்பநிலை கவனம் செலுத்த வேண்டிய மட்டத்தில் இருக்கும் என்று வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+கிழக்கு மற்றும் வடமத்திய மாகாணங்கள் மற்றும் வவுனியா மாவட்டத்தின் சில பகுதிகளில் வெப்பக் குறியீடு, அதாவது மனித உடலால் உணரப்படும் வெப்பநிலை, கவனம் செலுத்த வேண்டிய மட்டத்தில் இருக்கக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/5fcac994.json)
+
+---
+
+### ஒக்கம்பிட்டிய பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி கைது
+
+*2025-07-29 21:04:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்கம்பிட்டிய-பொலிஸ்-நிலையத்தின்-பொறுப்பதிகாரி-கைது/175-361998) · `ta`
+
+மொனராகலை - ஒக்கம்பிட்டிய பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி இலஞ்சம் மற்றும் ஊழல் தொடர்பான குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/988db84f.json)
+
+---
+
+### துருக்கியுடனான பாதுகாப்பு உறவுகளை பலப்படுத்திய இலங்கை
+
+*2025-07-29 21:00:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துருக்கியுடனான-பாதுகாப்பு-உறவுகளை-பலப்படுத்திய-இலங்கை/175-361997) · `ta`
+
+இலங்கை IDEF 2025 இல் பங்கு பற்றியதன் மூலம் துருக்கியுடனான பாதுகாப்பு உறவுகளை பலப்படுத்தியுள்ளது.
+
+உலகின் முதன்மையான பாதுகாப்பு கண்காட்சிகளில் ஒன்றான (IDEF 2025) என்ற 17வது சர்வதேச பாதுகாப்பு தொழில் கண்காட்சி, துருக்கி குடியரசின் ஜனாதிபதியின் அனுசரணையுடன், துருக்கி தேசிய பாதுகாப்பு அமைச்சினால் நடத்தப்பட்டு, துருக்கி ஆயுதப்படைகளினால் (TAFF) ஏற்பாடு செய்யப்பட்டது.
+
+இந்த நிகழ்வு, அதிநவீன பாதுகாப்பு தொழில்நுட்பங்களை காட்சிப்படுத்துவதற்கும் பாதுகாப்புத் துறையில் சர்வதேச ஒத்துழைப்பை வளர்ப்பதற்கும் ஒரு உலகளாவிய தளத்தை உருவாக்கியுள்ளது.
+
+IDEF 2025 என்ற இந்த கண்காட்சி, 2025 ஜூலை 22 முதல் 27 வரை இஸ்தான்புல் எக்ஸ்போ மையத்தில் நடைபெற்றது.
+
+துருக்கியின் தேசிய பாதுகாப்பு பிரதி அமைச்சர் திரு. பிலால் துர்தாலியின் அழைப்பின் பேரில் அந்நாட்டிக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்ட இலங்கையின் பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜயசேகர (ஓய்வு), தனது இந்த விஜயத்தின்போது  துருக்கியின் பல மூத்த பாதுகாப்பு உயர் அதிகாரிகளுடன் கலந்தரையாடலில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/b55968b1.json)
+
+---
 
 ### අභියෝග හමුවේ සියදිවි නසාගැනීම විසඳුමක් නොවේ
 
@@ -1817,55 +1863,5 @@ This financial aid is provided to a total of 600,768 eligible individuals under 
 ...
 
 [Data](articles/dba3cf8c.json)
-
----
-
-### ළහිරු වීරසේකර පොලිස් භාරයට
-
-*2025-07-29 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212771) · `si`
-
-යූත් ෆො චේන්ජ් සංවිධානයේ ජාතික සංවිධායක ළහිරු වීරසේකර තෙඹුවන පොලීසිය විසින් සිය භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/bb724b8d.json)
-
----
-
-### Thailand-US trade talks should be concluded before Aug 1, minister says
-
-*2025-07-29 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/110955/thailand-us-trade-talks-should-be-concluded-before-aug-1-minister-says) · `en`
-
-Thailand’s trade talks with the United States are expected to be concluded before Aug 1, and US tariffs on the country are not expected to be as high as 36 per cent, its finance minister said on Tuesday (Jul 29).
-
-The United States was Thailand’s largest export market last year, accounting for 18.3 per cent of total shipments, or US$54.96 billion. Washington has put its deficit with Thailand at US$45.6 billion.
-
-Thailand is ready to negotiate and its proposal remains the same, Finance Minister Pichai Chunhavajira told reporters.
-
-“The United States has already opened the way for further negotiations, and we will continue the discussions,” he said.
-
-Asked whether the talks could be done before the Aug 1 deadline, Pichai said, “Yes, it can be done in time. We’re definitely ready and now we’ll see how the US decides.”
-
-US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
-
-...
-
-[Data](articles/e74af2f3.json)
-
----
-
-### ජනපති වෙනුවෙන් මාලදිවයිනේ දී විශේෂ රාත්‍රී භෝජන සංග්‍රහයක්
-
-*2025-07-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212770) · `si`
-
-මාලදිවයිනේ රාජ්‍ය සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් මාලදිවයින් ජනාධිපතිවරයා පිරිනමන විශේෂ රාත්‍රී භෝජන සංග්‍රහය ‘කුරුම්බා මෝල්ඩිව්ස්’ නිවාඩු නිකේතනයේදී  ඊයේ (28) රාත්‍රියේ පැවැත්විණි.
-
-මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා සහ ජනපති ආර්යාව විසින් මෙම විශේෂ රාත්‍රී භෝජන සංග්‍රහය සංවිධානය කර තිබිණි.
-
-මේ අවස්ථාව සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු මෙරට දූත පිරිස සහභාගි වූහ.
-
-◼️
-
-[Data](articles/7a6b1eb5.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 05:06:08**
+As of **2025-07-30 05:19:01**
 
 ## Newspaper Stats
 
-*Scraped **67,606** Articles*
+*Scraped **67,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
-dailyftlk | 4,775
+dailyftlk | 4,777
 adalk | 6,496
 adaderanalk | 8,332
 tamilmirrorlk | 9,791
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,606 articles have been extended.
+61,973 (91.7%) of 67,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### Digital VAT, DST, retaliatory taxes and US laws
+
+*2025-07-30 05:05:23* · [`dailyftlk`](https://www.ft.lk/columns/Digital-VAT-DST-retaliatory-taxes-and-US-laws/4-779656) · `en`
+
+The United States has historically objected to Digital Services Taxes, revenue-based levies that target large multinational tech firms and bypass traditional tax treaties
+
+This article explores the legal and policy mechanisms the United States employs to counter foreign trade practices, with a particular emphasis on Digital Services Taxes (DSTs) and how they differ from Value Added Taxes (VAT). It also analyses the Trump administration’s strategic use of these tools—especially trade threats and Section 301 of the Trade Act of 1974 investigations to challenge DSTs, which are often seen as discriminatory toward US tech companies.
+
+...
+
+[Data](articles/266719e6.json)
+
+---
+
+### Modernising Sri Lanka’s Armed Forces: Preparing  for future security challenges
+
+*2025-07-30 04:59:17* · [`dailyftlk`](https://www.ft.lk/opinion/Modernising-Sri-Lanka-s-Armed-Forces-Preparing-for-future-security-challenges/14-779655) · `en`
+
+The contours of future conflict are increasingly shaped by threats that challenge traditional military  classifications
+
+A nuanced synthesis of threat perception, demographic trends, geophysical constraints, strategic doctrine, and external alignments invariably shapes the architecture of any credible military force. As we face, rapid technological advancements, evolving geopolitical landscapes, and multifaceted array of conventional and asymmetric threats, the Pathfinder Foundation suggests that a clear and proactive military strategy is essential for addressing future security challenges.
+
+Such a strategy not only augments operational readiness but also enhances the flexibility of the Armed Forces to mitigate unforeseen contingencies that may compromise sovereignty or destabilise national cohesion. It also cultivates necessary linkage between civilian decision-makers and military leadership, helping to meet state security objectives and reinforce long-term resilience.
+
+...
+
+[Data](articles/f0425ff6.json)
+
+---
 
 ### “Commercial Mediation Bill”: Problem or solution?
 
@@ -1721,37 +1751,5 @@ The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in J
 ...
 
 [Data](articles/cf596e93.json)
-
----
-
-### ஜெயவர்தனபுர பொது மருத்துவமனையின் தவிசாளர் இராஜினாமா
-
-*2025-07-29 15:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெயவர்தனபுர-பொது-மருத்துவமனையின்-தவிசாளர்-இராஜினாமா/175-361984) · `ta`
-
-ஸ்ரீ ஜெயவர்தனபுர பொது மருத்துவமனையின் தவிசாளரும், மகப்பேறு மருத்துவருமான ஆலோசகர் வைத்தியர் ஜயங்க திலகரத்ன தனது ராஜினாமா கடிதத்தை சுகாதார அமைச்சரிடம் அளித்துள்ளதாக டெய்லி மிரர் பத்திரிகை தகவல் அறிந்துள்ளது.
-
-இருப்பினும், இந்த நியமனம் அரசியல் நோக்கம் கொண்டது என்று மருத்துவத் துறையினர் விமர்சித்தனர்.
-
-பதுளை போதனா மருத்துவமனையின் புதிய பணிப்பாளராக வைத்தியர் திலகரத்ன கடமைகளைப் பொறுப்பேற்பார் என்று எதிர்பார்க்கப்படுகிறது.
-
-◼️
-
-[Data](articles/36d6e631.json)
-
----
-
-### බීඩි සඳහා දුම්කොළ බද්ද වැඩි කිරීමේ ගැසට් පත්‍රයට මුදල් කාරක සභාවේ අනුමැතිය
-
-*2025-07-29 15:23:48* · [`adalk`](https://www.ada.lk/breaking_news/බීඩි-සඳහා-දුම්කොළ-බද්ද-වැඩි-කිරීමේ-ගැසට්-පත්‍රයට-මුදල්-කාරක-සභාවේ-අනුමැතිය/11-417586) · `si`
-
-ශ්‍රී ලංකාවේ නිෂ්පාදනය කරන සෑම බීඩි වර්ගයක් සඳහාම අය කරනු ලබන දුම්කොළ බද්ද (Tobacco Tax) 2025 අප්‍රේල් 02 වන දින සිට බලපැවැත්වෙන පරිදි රු. 2 සිට රු. 3 දක්වා වැඩි කිරීම සඳහා වන 2025 අප්‍රේල් 01 දිනැති අංක 2430/16 දරන අතිවිශේෂ ගැසට් නිවේදනය රජයේ මුදල් පිළිබඳ කාරක සභාව අනුමත කළේය.
-
-මේ පිළිබඳ සලකා බලනු ලැබුයේ රජයේ මුදල් පිළිබඳ කාරක සභාව ඒහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පසුගියදා (22) පාර්ලිමේන්තුවේදී රැසුවූ අවස්ථාවේදීය.
-
-උක්ත බදු ඉහළ නැංවීම 2025 අයවැය මගින් ප්‍රකාශයට පත් කරන ලද අතර, එය 1999 අංක 8 දරන දුම්කොළ බදු පනත යටතේ, 2 වන වගන්තියට අනුකූලව මුදල් අමාත්‍යවරයා විසින් කරන ලද නියෝගයක් මගින් ක්‍රියාත්මක කිරීමට නියමිතය.
-
-...
-
-[Data](articles/51ba7162.json)
 
 ---

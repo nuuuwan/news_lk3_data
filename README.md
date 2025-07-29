@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 09:20:15**
+As of **2025-07-29 09:53:06**
 
 ## Newspaper Stats
 
-*Scraped **67,394** Articles*
+*Scraped **67,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,469
-adaderanalk | 8,289
-tamilmirrorlk | 9,754
-virakesarilk | 11,232
+adaderanalk | 8,300
+tamilmirrorlk | 9,756
+virakesarilk | 11,234
 adaderanasinhalalk | 11,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,394 articles have been extended.
+61,973 (91.9%) of 67,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### மிதிகம சஹான் நாடு திரும்பும் போது சிக்கினார்
+
+*2025-07-29 09:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதிகம-சஹான்-நாடு-திரும்பும்-போது-சிக்கினார்/175-361951) · `ta`
+
+மிதிகம சஹான் என்றழைக்கப்படும் ஹிக்கடுவ லியனகே சஹான் சிசிகெலம் என்ற ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினர்,  இந்தியாவில் இருந்து திரும்பும் போது பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் (BIA) வருகை முனையத்தில் வைத்து குற்றப் புலனாய்வுத் துறை (CID) அதிகாரிகளால் திங்கட்கிழமை (28) இரவு கைது செய்யப்பட்டார்.
+
+வெலிகமவைச் சேர்ந்த 32 வயதான சந்தேக நபர், மாத்தறை மற்றும் பாணந்துறை பொலிஸ் பிரிவுகளில் பல கொலைகள் மற்றும் கொள்ளைகளுடன் தொடர்புடையவர் என்று கூறப்படுகிறது.
+
+அவர் தற்போது பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பிரபல பாதாள உலகத் தலைவர் நதுன் சிந்தக விக்ரமரத்ன என்ற ஹரக் கட்டாவின்  கூட்டாளி என்று அதிகாரிகள் தெரிவித்தனர்.
+
+அவர் மற்றொரு ஒழுங்கமைக்கப்பட்ட குற்றவாளியான மிதிகம சுட்டியுடனும் நெருங்கிய தொடர்புடையவராவார்.  மாலை 6:30 மணியளவில் சென்னையிலிருந்து இண்டிகோ விமானம் 6E-1173 இல் சஹான் விமான நிலையத்திற்கு வந்திருந்தார்.
+
+முன்கூட்டிய உளவுத்துறையின்படி செயல்பட்ட CID அதிகாரிகள், வருகை முனையத்தில் அவரைக் கைது செய்தனர்.
+
+...
+
+[Data](articles/ff67cb5a.json)
+
+---
+
+### Thirty dead in Beijing following heavy rain
+
+*2025-07-29 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110947/thirty-dead-in-beijing-following-heavy-rain) · `en`
+
+Thirty people were killed in Beijing as of midnight on Monday (Jul 28) as heavy rain hit the Chinese capital, the official Xinhua news agency reported on Tuesday.
+
+The fatalities were reported in Beijing’s mountainous northern districts, with 28 in Miyun and two in Yanqing. State media did not specify when or how the deaths occurred.
+
+Heavy rain started over the weekend and intensified around Beijing and surrounding provinces on Monday, with the capital getting rainfall of up to 543.4mm in its northern districts, Xinhua said.
+
+Beijing also relocated 80,322 residents as the rain hit, Xinhua reported. Roads and communication infrastructure were damaged, and 136 villages were left without power as of midnight Monday.
+
+Late on Monday, Chinese President Xi Jinping ordered “all-out” search and rescue efforts to minimise casualties.
+
+Beijing issued its highest-level rain and flood alerts on Monday, advising residents not to leave their homes.
+
+◼️
+
+[Data](articles/09a8866e.json)
+
+---
+
+### அந்தமான், நிக்கோபார் தீவுகளில் பூகம்பம்
+
+*2025-07-29 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221235) · `ta`
+
+அந்தமான் மற்றும் நிக்கோபார் தீவுகளுக்கு அருகிலுள்ள வங்காள விரிகுடாவில் இன்று செவ்வாய்க்கிழமை (29) காலை 6.3 ரிக்டர் அளவிலான பூகம்பம் ஏற்பட்டது.
+
+பூகம்பத்தின் ஆழம் 10 கிலோ மீற்றர் மற்றும் சரியான இடம் அட்சரேகை 6.82 N, தீர்க்கரேகை 93.37 E ஆகும் என இந்தியாவின் தேசிய நில அதிர்வு மையம் தெரிவித்துள்ளார்.
+
+இதுவரை எந்த விதமான சேதமோ அல்லது உயிரிழப்புகளோ ஏற்பட்டதாக எந்த தகவலும் வௌஜயாக இல்லை.
+
+22 ஆம் திகதி  டெல்லி மற்றும் தேசிய தலைநகர் பகுதியில் சிறிய அளவிலான அதிர்வு உணரப்பட்டு ஒரு வாரத்தின் பின்னர் இந்த பூகம்பம் ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5588f544.json)
+
+---
+
+### யட்டிநுவர எதிர்க்கட்சி தலைவரின் குடும்பத்தினர் சடலங்களாக மீட்பு
+
+*2025-07-29 09:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யட்டிநுவர-எதிர்க்கட்சி-தலைவரின்-குடும்பத்தினர்-சடலங்களாக-மீட்பு/76-361950) · `ta`
+
+யட்டிநுவர பிரதேச  சபையின்  எதிர்க்கட்சித்  தலைவர்,  அவரது  மனைவி  மற்றும்  அவர்களின்  மகள்  ஆகியோரின் உடல்கள் யஹலதென்னவில் உள்ள அவர்களது வீட்டில் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d3ef9eb4.json)
+
+---
+
+### Token strike by train drivers to go ahead as planned at midnight
+
+*2025-07-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/110946/token-strike-by-train-drivers-to-go-ahead-as-planned-at-midnight) · `en`
+
+Train drivers have announced that the 48-hour token strike will go ahead as planned at midnight today (29).
+
+The General Secretary of the Locomotive Operating Engineers’ Union, Chandana Weeranduwa stated that although they have informed the authorities on multiple occasions about their issues, no firm solutions have been provided thus far.
+
+They also discussed these issues yesterday (28) with the General Manager of Railways, and Chandana Weeranduwa said that no acceptable resolution could be reached during the meeting.
+
+Yesterday, Chairman of the Union K.U. Konthasinghe said the token strike would be staged on 30 and 31 July if a positive response is not received to the letter submitted to the Ministry of Transport and the Department of Railways on July 22, 2025.
+
+He emphasized that the strike will definitely proceed unless a decisive solution is offered—particularly concerning administrative issues and infrastructure challenges faced by the train drivers.
+
+◼️
+
+[Data](articles/972d40b6.json)
+
+---
+
+### யட்டிநுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவர், அவரது மனைவி மற்றும் மகள் சடலங்களாக மீட்பு
+
+*2025-07-29 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221233) · `ta`
+
+யட்டிநுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவர், அவரது மனைவி மற்றும் மகள் ஆகியோர் உயிரை மாய்த்துக் கொண்ட நிலையில் சடலங்களாக யஹலதென்னவில் உள்ள அவர்களது வீட்டில் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+யட்டினுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவர் தூக்குப்போட்டு உயிரை மாய்த்துக் கொண்டுள்ள நிலையில், அவரது மனைவி மற்றும் மகளின் சடலங்களும் வீட்டின் அறை ஒன்றுக்குள் இருந்து மீட்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர்கள் 52 வயதுடைய எதிர்க்கட்சித்தலைவர், அவரது 44 வயதுடைய மனைவி மற்றும் அவர்களது 17 வயதுடைய மகள் ஆவர்.
+
+உங்களுக்கு அல்லது உங்களுக்குத் தெரிந்த ஒருவர் நெருக்கடியில் இருந்தாலோ அல்லது உதவி தேவைப்பட்டாலோ உடனடி உதவிக்கு :
+
+- அவசர நிலைகளுக்கு தேசிய மனநல உதவி தொடர்பு எண் 1926 ஐத் தொடர்பு கொள்ளவும்
+
+◼️
+
+[Data](articles/5738ccea.json)
+
+---
+
+### Earthquake of magnitude 6.3 strikes near Andaman and Nicobar Islands
+
+*2025-07-29 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/110945/earthquake-of-magnitude-63-strikes-near-andaman-and-nicobar-islands) · `en`
+
+An earthquake of magnitude 6.3 hit the Bay of Bengal, near the Andaman and Nicobar Islands on Tuesday morning (29).
+
+According to India’s National Center for Seismology, the depth of the quake of 10 km and the exact location was Latitude 6.82 N, Longitude 93.37 E.
+
+There have been no reports of any damage or casualties so far.
+
+This quake comes a week after mild tremors were felt across Delhi and the national capital region on July 22.
+
+An earthquake of magnitude 3.2 struck with its epicentre in Faridabad. No damage to property or loss of life was reported.
+
+◼️
+
+[Data](articles/1d2d32e9.json)
+
+---
 
 ### ජූලි මාසයේ වැඩිහිටි දීමනාව හෙට ගිණුමට
 
@@ -45,6 +177,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5b73d373.json)
+
+---
+
+### “Encouraging to see strong female leadership emerging in Sri Lanka’s culinary sector”: PM Harini
+
+*2025-07-29 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110944/encouraging-to-see-strong-female-leadership-emerging-in-sri-lankas-culinary-sector-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says she is pleased to see many female chefs participating in a field that has traditionally been male dominated.
+
+It is encouraging to witness strong female leadership emerging in Sri Lanka’s culinary sector, Prime Minister Dr. Amarasuriya added.
+
+The Prime Minister made these remarks while addressing the SIRHA BOCUSE D’OR Sri Lanka 2025 awarding ceremony, held in Colombo.
+
+Prime Minister Dr. Amarasuriya further stated Sri Lankan chefs are not only culinary artists but they are ambassadors of heritage.
+
+“It is not just about food. It is about excellence, about legacy, about identity.
+
+...
+
+[Data](articles/844610b3.json)
 
 ---
 
@@ -136,6 +288,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Bodies of Yatinuwara PS Opposition Leader, his wife and child found
+
+*2025-07-29 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/110943/bodies-of-yatinuwara-ps-opposition-leader-his-wife-and-child-found) · `en`
+
+The bodies of the Leader of the Opposition of the Yatinuwara Pradeshiya Sabah, his wife and the daughter have been found at their residence in Yahalatenna, police stated.
+
+Police stated that the opposition leader of the Yatinuwara Pradeshiya Sabha had committed suicide by hanging, and the bodies of his wife and daughter were also found inside a room of the house.
+
+The deceased are a 52-year-old man, his 44-year-old wife, and their 17-year-old daughter.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+◼️
+
+[Data](articles/76f46820.json)
+
+---
+
+### Global stock index falls, euro slides after US-EU trade deal
+
+*2025-07-29 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110942/global-stock-index-falls-euro-slides-after-us-eu-trade-deal) · `en`
+
+A global equities gauge fell on Monday while the euro took a tumble and U.S. Treasuries sold off as investors cautiously greeted a trade agreement between the U.S. and European Union at the start of an action-packed week for markets.
+
+The weekend’s framework trade deal, which European Commission President Ursula von der Leyen described as the best the bloc could get, will impose a 15 per cent import tariff on most EU goods while the EU is set to spend $600 billion on U.S. investments and open up some important parts of its market.
+
+While the accord may avert a damaging standoff between the trading partners, which account for almost a third of global trade, some European capitals complained it was lopsided in favor of Washington.
+
+MSCI’s gauge of stocks across the globe fell 2.78 points, or 0.30 per cent, to 938.48. The index, representing stocks from 47 countries, had boasted five record closes out of the prior six trading sessions.
+
+...
+
+[Data](articles/715d11f4.json)
+
+---
+
 ### පාතාලය හෙල්ලූ වෙඩික්කරුගේ අපරාධ ලැයිස්තුව එළියට
 
 *2025-07-29 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212756) · `si`
@@ -190,6 +378,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### No shortage of essential medicines in 2026, health officials claim
+
+*2025-07-29 07:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/110941/no-shortage-of-essential-medicines-in-2026-health-officials-claim) · `en`
+
+Officials attached to the Ministry of Health have claimed that there will be no shortage of essential medicines in 2026.
+
+This was revealed when the Sectoral Oversight Committee on Health, Media and Women’s Empowerment inquired into the medicine shortage and related matters at the Committee meeting held under the chairmanship of Member of Parliament Dr. Nihal Abeysinghe.
+
+Officials from the Ministry of Health informed the Committee that the current shortage of medicines has arisen due to delays in placing orders in previous years. However, they have assured the Committee that the procurement process for the year 2026 has already commenced, and there will be no shortage in 2026. They further stated that by the end of this year, 80% to 90% of essential medicine items are expected to be available in the country, according to a statement issued by the Department of Communication of Parliament.
+
+...
+
+[Data](articles/e9221363.json)
+
+---
+
 ### நடனமாடிய இளைஞர் உயிரிழப்பு
 
 *2025-07-29 06:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடனமாடிய-இளைஞர்-உயிரிழப்பு/175-361947) · `ta`
@@ -228,6 +432,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Several MoUs inked between Sri Lanka and Maldives
+
+*2025-07-29 06:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/110940/several-mous-inked-between-sri-lanka-and-maldives) · `en`
+
+President Anura Kumara Dissanayake, currently on a state visit to the Maldives, held bilateral discussions with Maldivian President Dr. Mohamed Muizzu yesterday (28) at the Maldivian Presidential Office.
+
+Upon his arrival at the Maldivian Presidential Office, President Dissanayake was warmly welcomed by Maldivian President Dr. Mohamed Muizzu.
+
+After President Anura Kumara Dissanayake signed the guest book, the two leaders posed for an official photograph.
+
+Following this, the bilateral discussions between the President and the Maldivian President commenced.
+
+After the discussions, agreements were exchanged between both parties. This included a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike Diplomatic Training Institute, as well as an agreement on mutual legal assistance.
+
+...
+
+[Data](articles/e8dab51a.json)
+
+---
+
 ### ප්‍රදේශ කිහිපයකට අදත් වැසි
 
 *2025-07-29 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212753) · `si`
@@ -243,6 +467,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ac8c295e.json)
+
+---
+
+### New York shooting: Four including police officer dead
+
+*2025-07-29 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110939/new-york-shooting-four-including-police-officer-dead) · `en`
+
+At least four people were reportedly killed, including a New York Police Department officer, in a shooting in New York’s central Manhattan on Monday (local time). The shooter, tentatively identified as 27-year-old Shane Tamura from Las Vegas, has also died from what police believe is a self-inflicted injury, according to a report by CNN.
+
+The shooting took place at a skyscraper in a crowded part of Midtown Manhattan, just blocks from Grand Central Station, Rockefeller Centre and the Museum of Modern Art, provoking a lockdown in the area. The 634-foot skyscraper, located at 345 Park Avenue, south of Central Park, occupies a full city block and is one of the few buildings in the city with its own zip code. The area is home to several five-star business hotels, as well as several corporate headquarters, including those of Colgate-Palmolive and KPMG, the auditing firm.
+
+...
+
+[Data](articles/421d3589.json)
+
+---
+
+### Few showers expected in parts of the island
+
+*2025-07-29 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110938/few-showers-expected-in-parts-of-the-island) · `en`
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (29), the Department of Meteorology said.
+
+Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts during the afternoon or night, the Met. Department added.
+
+Fairly strong winds of about 40kmph can be expected at times over the Western slopes of the central hills and in the Southern province.
+
+The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4b11bada.json)
+
+---
+
+### Weligama Sahan arrested at BIA
+
+*2025-07-29 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110937/weligama-sahan-arrested-at-bia) · `en`
+
+Sahan Sisi Kalum, also known as Weligama Sahan, an organized criminal, has been taken into custody at the Bandaranaike International Airport (BIA) in Katunayake, police stated.
+
+He was deported from India and arrested by the Criminal Investigation Department (CID) at the airport.
+
+It has been reported that this individual, known as Weligama Sahan, is the main suspect in two shooting incidents that occurred in Panadura and Kalutara, as well as in the shooting of a person named “Paththe Suranga” in Mattakkuliya.
+
+The suspect has been handed over to the Kalutara Range Crime Division for further investigations.
+
+◼️
+
+[Data](articles/5d080999.json)
 
 ---
 
@@ -1537,285 +1811,5 @@ The former Navy Commander was arrested by the CID over the disappearance of a yo
 ◼️
 
 [Data](articles/67339d49.json)
-
----
-
-### මුඛ පිළිකා බහුල වීමට හේතු මෙන්න
-
-*2025-07-28 17:42:46* · [`adalk`](https://www.ada.lk/breaking_news/මුඛ-පිළිකා-බහුල-වීමට-හේතු-මෙන්න/11-417564) · `si`
-
-ශ්‍රී ලංකාවේ මුඛ සහ හනු ශල්‍ය වෛද්‍ය විද්‍යාලයේ (College of Oral and Maxillofacial Surgeons of Sri Lanka)  20 වන වාර්ෂික විද්‍යාත්මක සැසිවාරය - 2025, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් කොළඹ සිනමන් ලේක් හෝටලයේ දී පසුගියදා පැවැති අතර එහිදී මෙම කරුණූ අනාවරණය විය.
-
-මෙහිදී මුඛ පිළිකාව ප්‍රධාන මහජන සෞඛ්‍ය ගැටළුවක් බව අවධාරණය කළ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා ශ්‍රී ලංකාවේ විශේෂයෙන්ම පිරිමින් අතර මුඛ පිළිකාව තවමත් බරපතලම සහ නොනවතින සෞඛ්‍ය අභියෝගයක් ලෙස පවතින බව ද බොහෝ විට දුම්කොළ, පුවක් සමඟ මිශ්‍ර කරන ලද බුලත් විට සහ මත්පැන් බහුලව භාවිතා කිරීම, පිළිකා අවදානම සැලකිය යුතු ලෙස වැඩි කිරීමට හේතු සාධක වී ඇති බව ද අවධාරණය කරන ලදි.
-
-“රැකවරණයෙන් ඔබ්බට, මුඛ සහ හනු සැත්කම් (OMF) වල විශිෂ්ටත්වය කරා” යන්න තේමා කර ගනිමින් මෙවර සැසිවාරය පවත්වන ලදි.
-
-...
-
-[Data](articles/ba4e014c.json)
-
----
-
-### Sri Lanka rupee weakens against dollar, bonds edge up
-
-*2025-07-28 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-edge-up-233196/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.95/302.03 to the US dollar in the spot market Monday, from 301.90/302.00 the previous day, while bond yields edged up slightly, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.52/60 percent, from 8.50/62 percent.
-
-A bond maturing on 15.12.2029 closed at 9.52/57 percent, up from 9.53/55 percent.
-
-A bond maturing on 15.12.2032 closed at 10.42/50 percent, up from 10.40/50 percent.
-
-A bond maturing on 01.06.2033 closed at 10.75/86 percent, from 10.68/80 percent. (Colombo/July28/2025)
-
-◼️
-
-[Data](articles/520f9f68.json)
-
----
-
-### 1983ம் ஆண்டு கறுப்பு ஜூலையில் கொழும்பில் தீக்கிரையாக்கப்பட்ட ரியோசினிமா - வெள்ளித்திரையின் நிழல்களும் ஒரு தேசத்தின் ஆன்மாவும்
-
-*2025-07-28 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221179) · `ta`
-
-2025 ஜூலை மாதம் அமைதியான ஆனால் உறுதியான சிறிய குழுவினர் கறுப்பு ஜூலையை நினைவுகூருவதற்காக கொழும்பு கனத்தை சுற்றுவட்டத்தில் கூடினார்கள்.1983 இல் இலங்கை தமிழர்களிற்கு எதிராக வன்முறையாக மாறிய வாரம்.
-
-13 படையினர் கொல்லப்பட்டமைக்கான எதிர்வினையாக ஆரம்பித்தது பின்னர் அரசஆதரவுடனான இனக்கலவரமாக மாறியது.ஆயிரக்கணக்கானவர்கள் படுகொலை செய்யப்பட்டார்கள்இஒரு தலைமுறையின் கனவுகள்,உறவுகள், எதிர்காலம் ஆகியவை புகைமண்டலத்திற்குள்ளும் இடிபாடுகளிற்குள்ளும் புதைக்கப்பட்டது.
-
-இது வெறுமனே கலவரம் இல்லை.இது ஒருநாட்டின் தார்மீக திசைகாட்டியை உடைத்தெறிதல்,இலங்கையின் மனிதநேயத்தில் ஒரு ஆழமான முறிவு.கறுப்பு ஜூலை இலங்கையின் மூன்று தசாப்தகால யுத்தத்தின் ஆரம்பமாக கருதப்படுகின்றது.
-
-ஆனால் அது தமிழர்களின் அடையாளமே அழிக்கப்பட்ட கலாச்சார அழிப்பிற்கான ஒரு முக்கிய தருணமாகவும் இருந்தது.தமிழர்களின் அடையாளமே எரிக்கப்பட்டது.
-
-எரிக்கப்பட்ட வீடுகள் மற்றும் சூறையாடப்பட்ட கடைகளிற்கு மத்தியில் மிகவும் நுட்பமான பேரழிவு இடம்பெற்றது.இது பன்முகத்தன்மை கொண்ட தேசத்தின் பகிரப்பட்ட கதைகள் , பாடல்களை சாம்பலாக்கியது.ஒரு காலத்தில் கூட்டு கற்பனை
-
-...
-
-[Data](articles/3d012060.json)
-
----
-
-### ගුවන් තොටුපොළවල් අවට සරුංගල් යැවීමෙන් වළකින්න
-
-*2025-07-28 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212740) · `si`
-
-දිවයිනේ සෑම ගුවන් තොටුපොළක් ආශ්‍රිතවම සරුංගල් යැවීමෙන් වළකින ලෙස ගුවන් හමුදාව මහජනතාවගෙන් ඉල්ලා සිටි.
-
-ඔවුන් පවසන්නේ, ගුවන් තොටුපොළ ආශ්‍රිතව සරුංගල් යැවීම වැඩි වශයෙන් වාර්තා වන බවය.
-
-මේ හේතුවෙන් ගුවන් යානාවලට අනතුරු සිදුවිමේ අවධානමක් ඇති බව ගුවන් හමුදාව පවසයි.
-
-◼️
-
-[Data](articles/03ff334b.json)
-
----
-
-### Two arrested over abduction and murder of youth in Kahawatta remanded
-
-*2025-07-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/110927/two-arrested-over-abduction-and-murder-of-youth-in-kahawatta-remanded) · `en`
-
-Two individuals, who were arrested in connection with the abduction and murder of a youth in Kahawatta have been remanded until August 5, Ada Derana reporter said.
-
-They were remanded after being produced before the Pelmadulla Magistrate’s Court.
-
-The two suspects were wanted in connection with the fatal shooting of a youth and the injury of another individual in Kahawatta on June 30.
-
-The two suspects, residents of Homagama, were then handed over to the Ratnapura Division Crimes Unit.
-
-Following interrogation, police referred them to a psychiatrist at the Ratnapura Hospital. After the evaluation, they were brought to the Pelmadulla Magistrate’s Court today.
-
-The suspects were brought to court under tight security since they are due to be presented for an identification parade.
-
-On June 30, a 22-year-old youth died in the shooting while another 27-year-old person was hospitalized after sustaining injuries.
-
-...
-
-[Data](articles/622e434b.json)
-
----
-
-### விவசாயம், விவசாயிகளைப் பற்றி பேசும் 'உழவர் மகன்'
-
-*2025-07-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221196) · `ta`
-
-நடிகர் கௌஷிக் கதையின் நாயகனாக நடித்திருக்கும் 'உழவர் மகன்' எனும் திரைப்படம் -விவசாயிகளை பற்றியும் , விவசாயத்தைப் பற்றியும் சமூகப் பொறுப்புணர்வுடன் பேசுகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
-
-இயக்குநர் ப. ஐயப்பன் இயக்கத்தில் உருவாகி இருக்கும் 'உழவர் மகன் ' திரைப்படத்தில் கௌஷிக் ,சிம்ரன் ராஜ், வின்சிட்டா ஜார்ஜ், விஜித் சரவணன், யோகி ராம் ,ரஞ்சன் குமார், சிவ சேனாதிபதி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். இந்த திரைப்படத்தை சுபலட்சுமி பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே .முருகன் தயாரித்துள்ளார்.
-
-எதிர்வரும் ஓகஸ்ட் மாதம் எட்டாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியிட திட்டமிடப்பட்டிருக்கும் இந்த படத்தை பற்றி இயக்குநர் பேசுகையில், '' மக்களுக்கு சோறு போடும் விவசாய தொழில் இன்று பல இன்னல்களுக்கு ஆளாகி வருகிறது. அந்தத் தொழிலை மேற்கொண்டிருக்கும் விவசாயிகள் சொல்ல முடியாத துன்பத்தை சந்தித்து வருகிறார்கள். இந்தப் பிரச்சனையின் தீவிரத்தையும் அதற்கான தீர்வையும் சொல்லி இருக்கிறோம். அத்துடன் காதலும், சமூகத்திற்கு தேவையான செய்தி ஒன்றினையும் இப்படத்தில் வழங்கியுள்ளோம்'' என்றார்.
-
-◼️
-
-[Data](articles/e52f0d11.json)
-
----
-
-### ධාර්මිෂ්ඨ සමාජය හදන්න ආපු පක්ෂය අධාර්මිෂ්ඨම රාජ්‍යය බිහි කළා
-
-*2025-07-28 17:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ධාර්මිෂ්ඨ-සමාජය-හදන්න-ආපු-පක්ෂය-අධාර්මිෂ්ඨම-රාජ්‍යය-බිහි-කළා/11-417563) · `si`
-
-ආගමික චින්තන විප්ලවයක් ඇති නොකර දේශපාලන අරගල කිරීමෙන් පමණක් රටේ තත්ත්වය වෙනස් කළ නොහැකි යැයි කොළඹ අගරදගුරු රංජිත් මැල්කම් කාදිනල් හිමිපාණෝ සඳහන් කළහ .
-
-උන්වහන්සේ මෙසේ පැවසුවේ දිවුලපිටිය මරදගහමුල සාන්ත සෙබස්තියන් දෙව් මැදුර ප්‍රතිසංස්කරණය කර ආසිරි ගැන්වීමේ උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගි වෙමින් පැවැති දේව මෙහෙයේදීය.
-
-මීසම් සේවක ෆිලික්ස් ශාන්ත පියතුමාගේ උපදෙස් සහ මග පෙන්වීම යටතේ මෙම පිරිසකර කිරීම සිදුකරනු ලැබ ඇත.
-
-"මීට දශක පහකට පමණ පෙර එක්තරා දේශපාලන පක්ෂයක් ධර්මිෂ්ඨ රාජ්‍යයක් බිහි කරනවා යනුවෙන් ප්‍රකාශ කර ඉතිහාසයේ තිබුණු අධර්මිෂ්ඨම රාජ්‍ය බිහිකළා කියලයි මම හිතන්නේ. ඔවුන්ගේ පාලන ක්‍රමය තුළදී නීතිය අවනීතිය බවට පත්වුණා. රටේ සාමය නැති වුණා. මට මහා යුද්ධයක පැටලුණා. ධර්මිෂ්ඨකම, යහපත්කම  දේශපාලන පක්ෂයකට හදන්න බැහැ. ආගමික චින්තන විප්ලවයක් ඇති නොකර දේශපාලන අරගල කිරීමෙන් රටේ තත්ත්වය වෙනස් කරන්න බැහැ.
-
-දැන් පවතින නායකත්වය රට පිරිසිදු කරමු කියලා clean Sri Lanka කියලා වැඩපිළිවෙළක් ගෙනියනවා. නමුත් බාහිර පිරිසිදුකන් සිදුවුණත් මනුෂ්‍යයාගේ අභ්‍යන්තරය පිරිසිදුකම සකස් කරන්න බැහැ.
-
-...
-
-[Data](articles/3c449478.json)
-
----
-
-### SC grants leave to proceed with seven FR petitions filed over Rambukkana shooting
-
-*2025-07-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/110926/sc-grants-leave-to-proceed-with-seven-fr-petitions-filed-over-rambukkana-shooting) · `en`
-
-The Supreme Court today (28) granted leave to proceed with seven fundamental rights petitions filed in connection with the alleged violation of fundamental human rights during the Rambukkana protest that occurred during the time of the ‘Aragalaya’ in 2022.
-
-Petitions have been filed in relation to an incident where police opened fire to disperse a group of protesters near a filling station in Rambukkana, where people were demonstrating against the alleged sale of fuel at a higher price. The shooting resulted in the death of an individual and injuries to several others.
-
-Accordingly, the petitions were taken up before a three-judge bench of the Supreme Court comprising Justices Achala Wengappuli, Priyantha Fernando, and Menaka Wijesundera.
-
-...
-
-[Data](articles/668b0700.json)
-
----
-
-### தனுஷ் நடிக்கும் 'இட்லி கடை' படத்தின் முதல் பாடல் வெளியீடு
-
-*2025-07-28 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221197) · `ta`
-
-சிறந்த நடிப்பிற்காக தேசிய விருதினை வென்ற நடிகர் தனுஷ் நடிப்பில் தயாராகி வரும் 'இட்லி கடை' எனும் திரைப்படத்தில் இடம் பெற்ற 'என்ன சுகம்' எனும் முதல் பாடலும் , பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-அவரது பிறந்த நாளை கொண்டாடும் வகையில் வெளியிடப்பட்டிருக்கும் இந்தப் பாடல் குறுகிய கால அவகாசத்திற்குள் இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.‌
-
-நடிகரும், இயக்குநருமான தனுஷ் இயக்கத்தில் உருவாகி வரும் 'இட்லி கடை' எனும் திரைப்படத்தில் தனுஷ் - நித்யா மேனன் ஆகியோர் முதன்மையான வேடங்களில் நடிக்கிறார்கள்.
-
-இவர்களுடன் அருண் விஜய் ,ஷாலினி பாண்டே, சத்யராஜ் , ராஜ்கிரண் ஆகியோர் முக்கிய கதாபாத்திரங்களில் தோன்றுகிறார்கள். கிரண் கௌசிக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ .வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை டான் பிக்சர்ஸ் மற்றும் வுண்டர்பார் பிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
-
-...
-
-[Data](articles/5b819f92.json)
-
----
-
-### අත්‍යවශ්‍ය ඖෂධ ද්‍රව්‍යවල හිඟයක් නැහැ
-
-*2025-07-28 17:09:21* · [`adalk`](https://www.ada.lk/breaking_news/අත්‍යවශ්‍ය-ඖෂධ-ද්‍රව්‍යවල-හිඟයක්-නැහැ/11-417562) · `si`
-
-සෞඛ්‍ය, ජනමාධ්‍ය සහ කාන්තා සවිබල ගැන්වීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව, පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිහාල් අබේසිංහ මහතාගේ සභාපතිත්වයෙන් පසුගිය 23 වැනිදා  පාර්ලිමේන්තුවේදී  රැස්වූ අතර එහිදී  ඖෂධ හිඟය සහ ඒ ආශ්‍රිත කරුණු පිළිබඳව සොයා බැලීය.
-
-පසුගිය වසරවල ඇණවුම් ලබා දීමේ ප්‍රමාදයන් හේතුවෙන් වර්තමාන ඖෂධ හිඟය මතුව ඇති බව  සෞඛ්‍ය අමාත්‍යාංශයේ නිලධාරීහු මෙහදී කාරක සභාවට දැනුම් දුන්හ.කෙසේ වෙතත්, 2026 වසර සඳහා ප්‍රසම්පාදන ක්‍රියාවලිය දැනටමත් ආරම්භ කර ඇති බැවින්  2026 වසරේදී  දී කිසිදු හිඟයක් ඇති නොවන බව එම නිලධාරීහු   කාරක සභාවට  සහතික කර පැවසුහ. එමෙන්ම මෙම වසර අවසන් වන විට අත්‍යවශ්‍ය ඖෂධවලින් 80% ත් 90% ත් අතර ප්‍රමාණයක් රට තුළ ලබා ගත හැකි වනු ඇතැයි අපේක්ෂා කරන බව ද  ඔවුහු වැඩිදුරටත්  අදහස් දක්වමින් පැවසූහ. මෙහිදී  කාරක සභාව  විසින්  ඉතා අත්‍යවශ්‍ය ඖෂධ ද්‍රව්‍ය ලබා ගත හැකිදැයි  නිලධාරීන්ගෙන්  විමසා සිටි අතර එයට   ප්‍රතිචාර දක්වමින්  අමාත්‍යාංශ නිලධාරීහු  දැනට එවැනි ඖෂධ ද්‍රව්‍යවල හිඟයක් නොමැති බව තහවුරු කළහ.
-
-...
-
-[Data](articles/06bc7e7f.json)
-
----
-
-### ජනපති පිළිගැනීමේ නිල රාජ්‍ය උත්සවය මාලේ ජනරජ චතුරශ්‍රයේදී
-
-*2025-07-28 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212739) · `si`
-
-මාලදිවයිනේ රාජ්‍ය සංචාර‍යක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල රාජ්‍ය උත්සවය අද (28) පස්වරුවේ මාලේ අගනුවර ජනරජ චතුරශ්‍රයේ දී පැවැත්විණි.
-
-මාලේහි ජනරජ චතුරශ්‍රය වෙත පැමිණි ජනාධිපතිවරයා මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු  මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබීය.
-
-අනතුරුව ජනාධිපති අනුර කුමාර දිසානායක මහතා මාලදිවයිනේ ජාතික ආරක්ෂක බලකායේ උත්තමාචාර පිළිගත් අතර, ජාතික ආරක්ෂක බළකා පෙළපාලිය නිරීක්ෂණය සඳහාද එක්විය.
-
-සත්කාරක මාලදිවයින් නියෝජිතයින් සහ ශ්‍රී ලංකා දූත පිරිස අන්‍යෝන්‍ය වශයෙන් හඳුන්වාදීම ඉන් අනතුරුව සිදු විය.
-
-පිළිගැනීමේ නිල රාජ්‍ය උත්සවයෙන් අනතුරුව, දෙරටේ නායකයින් අතර ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
-
-ජනාධිපතිවරයා සමඟ මෙම රාජ්‍ය සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සහ රජයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් එක්ව සිටිති.
-
-◼️
-
-[Data](articles/0b21740b.json)
-
----
-
-### முன்னாள் கடற்படை தளபதி நிஷாந்த கைது
-
-*2025-07-28 16:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-தளபதி-நிஷாந்த-கைது/175-361915) · `ta`
-
-முன்னாள் கடற்படை தளபதி நிஷாந்த உலுகேதென்ன குற்றப் புலனாய்வு திணைக்களத்தினரால் திங்கட்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.
-
-பொத்துஹேர பகுதியில் நபரொருவரை கடத்தி, கொலை செய்த சம்பவம் தொடர்பான விசாரனைகளுக்கமைய அவர் கைது செய்யப்பட்டுள்ளார்.
-
-சம்பவம் இடம்பெற்ற காலப்பகுதியில் சந்தேகநபரான நிஷாந்த உலுகேதென்ன கடற்படையின் புலனாய்வு பிரிவின் பிரதானியாக  செயற்பட்டதுடன் கடத்தப்பட்ட
-
-நபர் தடுத்து வைக்கப்பட்டிருந்ததாக கூறப்படும் சட்டவிரோத தடுப்பு முகாம் அவரது கண்காணிப்பில் செயற்பட்டுள்ளமை பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
-
-கடத்தப்பட்ட நபர் பல நாட்களுக்கு பின்னர் சட்டவிரோத தடுப்பு முகாமிலிருந்து அனுப்பிய கடிதத்தை அடிப்படையாகக்கொண்டு விசாரணைகள் முன்னெடுக்கப்பட்டதாக பொலிஸார் குறிப்பிட்டனர்.
-
-இந்த சம்பவம் தொடர்பில் இதற்கு முன்னர் சில சந்தேகநபர்கள் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/ff2d3cec.json)
-
----
-
-### தாய்லாந்து - கம்போடியா நள்ளிரவு முதல் போர் நிறுத்தம்
-
-*2025-07-28 16:55:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-நள்ளிரவு-முதல்-போர்-நிறுத்தம்/50-361914) · `ta`
-
-தாய்லாந்து மற்றும் கம்போடியா நாடுகள் நிபந்தனையற்ற உடனடி போர்நிறுத்தத்திற்கு ஒப்புக்கொண்டதாக மலேசிய பிரதமர் அன்வர் இப்ராஹிம் தெரிவித்துள்ளார்
-
-தாய்லாந்தின் தற்காலிகப் பிரதமர் பும்தம் வெச்சயாசாய் மற்றும் கம்போடியாவின் பிரதமர் ஹன் மானெட் ஆகியோர்  மலேசியாவின் புத்ரஜெயாவில் உள்ள பிரதமர் அன்வரின் அதிகாரப்பூர்வ இல்லத்தில் போர்நிறுத்தப் பேச்சுவார்த்தையில் திங்கட்கிழமை (28)  ஈடுபட்டனர்.
-
-கம்போடியா மற்றும் தாய்லாந்து தலைவர்களுடன் இணைந்து பேசிய மலேசிய பிரதமர் அன்வர், “கம்போடியா மற்றும் தாய்லாந்து இடையே மிகவும் நேர்மறையான முன்னேற்றத்தை காணும் வகையில் நல்ல முடிவுகளை நாங்கள் கண்டிருக்கிறோம்.” என்று அறிவித்தார்.
-
-...
-
-[Data](articles/231004d9.json)
-
----
-
-### சமுத்திரக்கனி நடிக்கும் 'ராகு- கேது'
-
-*2025-07-28 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221187) · `ta`
-
-தென்னிந்திய திரையுலகில் ஒப்பற்ற குணசித்திர நடிகராக வலம் வரும் சமுத்திரக்கனி  'ராகு- கேது' எனும் ஆன்மீக உணர்வை விவரிக்கும் திரைப்படத்தில் கதையின் நாயகனாக-  சிவ பெருமானாக நடித்திருக்கிறார் என படக் குழுவினர் பெருமிதத்துடன் குறிப்பிட்டுள்ளனர்.
-
-இயக்குநர் 'தமிழ்மாமனி ' துரை.  பாலசுந்தரம் இயக்கத்தில் உருவாகியுள்ள 'ராகு- கேது 'எனும் திரைப்படத்தில் சமுத்திரக்கனி, கஸ்தூரி, விக்னேஷ் ஆகியோர் முதன்மையான வேடத்தில் நடித்திருக்கிறார்கள்.
-
-கலைமாமணி கே பி அறிவானந்தம் கதை, வசனம், பாடல்கள் எழுதியிருக்கும் இந்த திரைப்படத்திற்கு மோகன் ஒளிப்பதிவு செய்ய, பரணிதரன் மற்றும் சதானந்தம் ஆகியோர் இணைந்து இசையமைத்துள்ளனர்.
-
-ஆன்மீக படைப்பாக தயாராகி இருக்கும் இந்த திரைப்படத்தை தமிழரசன் தியேட்டர் நிறுவனம் சார்பில் தயாரிப்பாளர் சாந்தி பாலசுந்தரம் தயாரித்திருக்கிறார்.
-
-...
-
-[Data](articles/2483516c.json)
-
----
-
-### ජූඩ් ශ්‍රමන්ත අල්ලන්න රතු නිවේදන
-
-*2025-07-28 16:49:43* · [`adalk`](https://www.ada.lk/breaking_news/ජූඩ්-ශ්‍රමන්ත-අල්ලන්න-රතු-නිවේදන/11-417561) · `si`
-
-මහත් ආන්දෝලනයකට තුඩුදුන් රෝයල් පාර්ක් මිනී මැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියමවී සිටියදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ජනාධිපති සමාව දීමෙන් පසු රටින් පළා ගිය ජූඩ් ශ්‍රමන්ත ජයමහ නමැත්තා අත්අඩංගුවට ගැනීම සඳහා ‘රතු නිවේදන’ නිකුත් කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (28) දැනුම් දුන්නේය.
-
-නඩුව කැඳවු අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ සජිත් බණ්ඩාර මහතා ඒ බව දැනුම් දුන්නේය.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන එස්. තුරේරාජා, යසන්ත කෝදාගොඩ සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල විනිසුරු මඩුල්ල හමුවේ කැඳවූ පෙත්සම සලකා බැලිණි.
-
-කාන්තා මාධ්‍ය එකමුතුව ඉදිරිපත් කර ඇති මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා” ජූඩ් ශ්‍රමන්ත ජයමහ නමැත්තා” නීතීපතිවරයා ඇතු`ථ පිරිසක් නම් කර ඇත”
-
-අදාළ මූලික අයිතිවාසිකම් පෙත්සම විභාග කළ ශ්‍රේෂ්ඨාධිකරණය හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා විසින් ජූඩ් ශ්‍රමන්ත නමැත්තාට සමාව ප්‍රදානය කළ ආකාරය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බව මීට පෙර අවස්ථාවක තීන්දු කළේය.
-
-...
-
-[Data](articles/8b6fc945.json)
 
 ---

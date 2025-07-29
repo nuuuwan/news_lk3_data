@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 16:23:07**
+As of **2025-07-29 16:35:04**
 
 ## Newspaper Stats
 
-*Scraped **67,508** Articles*
+*Scraped **67,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,486
 adaderanalk | 8,315
-tamilmirrorlk | 9,783
+tamilmirrorlk | 9,784
 virakesarilk | 11,246
-adaderanasinhalalk | 11,607
+adaderanasinhalalk | 11,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,508 articles have been extended.
+61,973 (91.8%) of 67,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### 1,200 கி.கி தூள் மாயம்: உதவி முகாமையாளர் சிக்கினார்
+
+*2025-07-29 16:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-200-கி-கி-தூள்-மாயம்-உதவி-முகாமையாளர்-சிக்கினார்/76-361989) · `ta`
+
+ஆர்.பி.கே.பிளான்டேசனுக்கு உரித்தான மஸ்கெலியா பிரவுன்ஸ்வீக் தோட்ட தேயிலை தொழிற்சாலையில் இருந்து  840,000 ரூபாய் பெறுமதியான No. 1 டஸ்ட், தேயிலை தூள் 60 கிலோ கிராம் நிறை கொண்ட 1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் கடந்த 23 ம் திகதி களவாடப்பட்டுள்ளது  என தோட்ட முகாமையாளர்  நிலுஷான் மதுசங்க ஜயவீர , மஸ்கெலியா பொலிஸ் நிலையத்தில் புகார் ஒன்றை பதிவு செய்து உள்ளார்.
+
+அதனைத் தொடர்ந்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமாரவின் பணிப்புக்கு அமைய விசாரணைகள் ஆரம்பிக்க பட்டு தேயிலை தொழிற்சாலையில் பொருத்த பட்டு இருந்த சீ.சீ.டி வி கெமராக்கள் பரிசோதனை மேற்கொள்ளப்பட்டது..
+
+23.07.2025.அன்று இரவு 8.30.மணி தொடக்கம் 10.30 மணிக்குள் தேயிலை தூள் அடங்கிய 20 பொதிகள்  தோட்ட உதவி முகாமையாளரால்   லொறிக்கு  ஏற்றப் பட்டது தெரிய வந்தது.
+
+அதனைத் தொடர்ந்து தோட்ட உதவி முகாமையாளரை மஸ்கெலியா பொலிஸார் கைது செய்து ஹட்டன் நீதிமன்றில் ஆஜர் படுத்தினர்
+
+ஹட்டன் நீதிமன்ற நீதிவான் அவரை எதிர்வரும் 30ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/052a3fc8.json)
+
+---
+
+### මාලදිවයින් විදේශ කටයුතු ඇමති ජනපති අනුරව හමුවෙයි
+
+*2025-07-29 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212786) · `si`
+
+මාලදිවයින් විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා කලීල් මහතා අද (29) ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවිය.
+
+එහිදී මාලදිවයින් විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා කලීල් මහතා මාලදිවයිනට පැමිණි ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දූත පිරිස පිළිගත්තේය.
+
+දෙරට අතර දිගුකාලීන මිත්‍රත්වයේ බැඳීම් තවදුරටත් ශක්තිමත් කිරීම සඳහා ශ්‍රී ලංකාව සමඟ සමීපව කටයුතු කිරීමට මාලදිවයින් රජයේ කැපවීම ද ඔහු නැවත තහවුරු කළේය.
+
+ශ්‍රී ලංකාව සහ මාලදිවයින අතර පුළුල් පරාසයක සහයෝගීතාව අඛණ්ඩව පවත්වාගෙන යාමට ශ්‍රී ලංකා රජයේ කැපවීම අනුර කුමාර දිසානායක මහතා නැවත අවධාරණය කළේය.
+
+අමාත්‍ය ආචාර්ය කලීල් මහතා සමඟ ශ්‍රී ලංකාවේ මාලදිවයින් මහ කොමසාරිස් මසූඩ් ඉමාඩ්, ලේකම් ෆාතිමත් ඉනායා, අතිරේක ලේකම් අමිනාත් අබ්දුල්ලා දිඩි සහ අධ්‍යක්ෂ ජනරාල් අයිෂාත් ෆරීනා යන මහත්වරු ද එක්වූහ.
+
+◼️
+
+[Data](articles/cb042029.json)
+
+---
 
 ### දුම්රිය වර්ජනය අත්හිටුවයි
 
@@ -1817,41 +1857,5 @@ An earthquake of magnitude 3.2 struck with its epicentre in Faridabad. No damage
 ◼️
 
 [Data](articles/1d2d32e9.json)
-
----
-
-### ජූලි මාසයේ වැඩිහිටි දීමනාව හෙට ගිණුමට
-
-*2025-07-29 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212760) · `si`
-
-ජූලි මාසය සඳහා වූ වැඩිහිටි දීමනාව හෙට (30) දිනයේ අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධන ප්‍රතිලාභ මණ්ඩලය දැනුම්දී තිබේ.
-
-ඒ අනුව රු 3,003,840,000ක මුදලක් ප්‍රතිලාභීන් 600,768ක් අතරේ බෙදාහැරීමට නියමිතය.
-
-අදාළ ප්‍රතිලාභීන්ට හෙට දින සිට තමාට හිමි මුදල අස්වැසුම ප්‍රතිලාභී ගිණුමෙන් ලබාගත හැකිය.
-
-◼️
-
-[Data](articles/5b73d373.json)
-
----
-
-### “Encouraging to see strong female leadership emerging in Sri Lanka’s culinary sector”: PM Harini
-
-*2025-07-29 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/110944/encouraging-to-see-strong-female-leadership-emerging-in-sri-lankas-culinary-sector-pm-harini) · `en`
-
-Prime Minister Dr. Harini Amarasuriya says she is pleased to see many female chefs participating in a field that has traditionally been male dominated.
-
-It is encouraging to witness strong female leadership emerging in Sri Lanka’s culinary sector, Prime Minister Dr. Amarasuriya added.
-
-The Prime Minister made these remarks while addressing the SIRHA BOCUSE D’OR Sri Lanka 2025 awarding ceremony, held in Colombo.
-
-Prime Minister Dr. Amarasuriya further stated Sri Lankan chefs are not only culinary artists but they are ambassadors of heritage.
-
-“It is not just about food. It is about excellence, about legacy, about identity.
-
-...
-
-[Data](articles/844610b3.json)
 
 ---

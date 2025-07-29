@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 14:38:54**
+As of **2025-07-29 14:54:17**
 
 ## Newspaper Stats
 
-*Scraped **67,479** Articles*
+*Scraped **67,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,479
+adalk | 6,480
 adaderanalk | 8,309
-tamilmirrorlk | 9,777
+tamilmirrorlk | 9,778
 virakesarilk | 11,244
 adaderanasinhalalk | 11,599
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,479 articles have been extended.
+61,973 (91.8%) of 67,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### இராப்போசன விருந்தில் வரலாற்றை நினைவு கூர்ந்த ஜனாதிபதி
+
+*2025-07-29 14:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராப்போசன-விருந்தில்-வரலாற்றை-நினைவு-கூர்ந்த-ஜனாதிபதி/175-361980) · `ta`
+
+இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான 60 ஆண்டுகால இராஜதந்திர உறவுகளை மேலும் வலுப்படுத்தி, எதிர்காலத்தில் இலங்கையும் மாலைதீவும்  நெருங்கிய நண்பர்களாக மட்டுமல்லாமல், பொதுவான தொலைநோக்குப் பார்வையாலும் பொதுவான நோக்கத்தாலும் ஒன்றுபட்ட பங்காளிகளாக முன்னேறுவோம் என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+மாலைதீவு ஜனாதிபதி கலாநிதி மொஹமட் முய்சு  (Dr. Mohamed Muizzu) திங்கட்கிழமை  (28) இரவு குரும்பா மோல்டீவ்ஸ் (Kurumba Maldives) விடுதியில் வழங்கிய விசேட இராப்போசன விருந்தில் கலந்து கொண்ட பின்னர் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+இலங்கையின் நெருங்கிய நண்பராகவும் பிராந்திய பங்காளியாகவும் நீண்ட கால உறவுகளை கொண்ட அழகிய மாலைதீவுக்கு வருகை தர முடிந்தமையிட்டு  மகிழ்ச்சி தெரிவித்த ஜனாதிபதி, இரு நாடுகளுக்கும் இடையிலான நெருங்கிய நட்புறவு மற்றும் வரலாற்றுத் தொடர்புகளை நினைவு கூர்ந்தார்.
+
+◼️
+
+[Data](articles/9bee8826.json)
+
+---
 
 ### දරු උපත් ඉහළ නංවන්න චීන රජයෙන් දෙමව්පියන්ට මුදල් සහනාධාරයක්
 
@@ -891,6 +907,24 @@ Authorities stated that the condition of some was critical. The identities of th
 ◼️
 
 [Data](articles/8fe4de9e.json)
+
+---
+
+### මෑන්හැටන් වෙඩි තැබීමෙන් 4ක් මරුට, වෙඩික්කරුත් දිවි නසාගෙන
+
+*2025-07-29 10:27:37* · [`adalk`](https://www.ada.lk/international/මෑන්හැටන්-වෙඩි-තැබීමෙන්-4ක්-මරුට--වෙඩික්කරුත්-දිවි-නසාගෙන/3-417576) · `si`
+
+ඇමෙරිකාවේ මෑන් හැටන්හි ගොඩනැගිල්ලක් තුළ සිදුකළ විවෘත වෙඩි තැබීමකින් පුද්ගලයන් සිව් දෙනෙකු මියගොස් ඇති අතර මිය ගිය අතර පොලිස් නිධාරියෙකුද සිටින බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+වෙඩි තැබීමට සම්බන්ධ සැකකරු වන 27 හැවිරිදි ෂේන් ඩෙවොන් තමුරා ලෙසින් හඳුනාගෙන ඇති අතර පසුව ඔහුගේ මළ සිරුරද සොයාගෙන තිබේ. සැකකරු ලාස් වේගාස් සිට පැමිණි ඇති බවට  පොලිසිය පවසන නමුත් මෙම ඝාතන කුමක් හේතුවෙන් සිදුකළාද යන්න පැහැදිලි නිවෙන බවද කියයි.
+
+සැකකරු පැමිණි මෝටර් රථයේ තවත් පතොරම් තිබී ඇත. මියගිය පොලිස් නිලධාරියා නිව්යෝර්ක් නගරයේ ජීවත්වන අතර ඔහුගේ බිරිඳ තම තුන්වන දරුවා ලැබීමට සූදානම්ව සිටියි.
+
+ඇමරිකා එක්සත් ජනපදයේ වඩාත්ම ජනාකීර්ණ නගරයක් මධ්‍යයේ මෙම විවෘත වෙඩි තැබීම  සිදු කර තිබේ.
+
+◼️
+
+[Data](articles/0fbe7d98.json)
 
 ---
 
@@ -1785,39 +1819,5 @@ The former Navy Commander was arrested by the CID over the disappearance of a yo
 ◼️
 
 [Data](articles/6770d089.json)
-
----
-
-### P.A.G. Fernando appointed Chief Secretary of Uva Province
-
-*2025-07-29 04:34:13* · [`dailyftlk`](https://www.ft.lk/news/P-A-G-Fernando-appointed-Chief-Secretary-of-Uva-Province/56-779610) · `en`
-
-President Anura Kumara Disanayake has appointed P.A.G. Fernando as the Chief Secretary of the Uva Province, effective immediately.
-
-The letter of appointment was officially handed over to her by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
-
-Fernando, a Special Grade Officer of the Sri Lanka Administrative Service, previously served as the Secretary to the Ministry of Education, Cultural and Arts, Sports and Youth Affairs and Information Technology Western Province.
-
-◼️
-
-[Data](articles/b6be0f68.json)
-
----
-
-### National Business Excellence Awards  2025 celebrates two decades of excellence
-
-*2025-07-29 04:29:36* · [`dailyftlk`](https://www.ft.lk/business/National-Business-Excellence-Awards-2025-celebrates-two-decades-of-excellence/34-779609) · `en`
-
-From left: Bronze Award Winner: People’s Bank, Gold Award Winner: Dipped Products and Silver Award Winner: Dankotuwa Porcelain
-
-The National Chamber of Commerce of Sri Lanka has announced the successful conclusion of the National Business Excellence Awards (NBEA) 2025, marking a remarkable milestone of 20 years in celebrating and recognising business excellence in the country.
-
-The grand awards ceremony was held on 24 July at the Shangri-La Colombo, in the presence of a distinguished gathering comprising corporate leaders, business community members, and esteemed guests.
-
-Launched in 2004, the NBEA has emerged as Sri Lanka’s most prestigious and pioneering awards schemes. Over the past two decades, it has maintained the highest standards in evaluating and recognising outstanding business organisations, earning a reputation as a well-structured and credible platform for promoting excellence in the Sri Lankan corporate landscape.
-
-...
-
-[Data](articles/723a2b2d.json)
 
 ---

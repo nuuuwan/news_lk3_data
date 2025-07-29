@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 10:42:14**
+As of **2025-07-29 11:07:44**
 
 ## Newspaper Stats
 
-*Scraped **67,417** Articles*
+*Scraped **67,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,123 @@ economynextcom | 4,116
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,470
-adaderanalk | 8,301
-tamilmirrorlk | 9,758
+adalk | 6,471
+adaderanalk | 8,305
+tamilmirrorlk | 9,759
 virakesarilk | 11,234
-adaderanasinhalalk | 11,587
+adaderanasinhalalk | 11,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,417 articles have been extended.
+61,973 (91.9%) of 67,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
 
+### ඉන්දියන් සාගරයේ සිදුවු භූකම්පනයෙන් ලංකාවට බලපෑමක් නෑ
+
+*2025-07-29 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212766) · `si`
+
+අද (29) උදෑසන අන්දමන් සහ නිකොබාර් දුපත් ආසන්නයේ බොංගාල බොක්කෙහි රික්ටර් පරිමාණ 6.3ක භූකම්පනයක් ඇති වුණි.
+
+ඉන්දියාවේ ජාතික භූ කම්පන විද්‍යා මධ්‍යස්ථානයට අනුව, භූකම්පනයේ ගැඹුර කිලෝමීටර 10ක් විය.
+
+එම භූකම්පනයෙන් පසුව ප්‍රබල පසු කම්පන කිහිපයක් වාර්තා වී ඇති අතර, කිසිදු දේපොළ හෝ ජීවිත හානියක් වාර්තා වී නොමැත.
+
+මේ සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් භූවිද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්, දීපානි වීරකෝන් මහත්මිය සඳහන් කළේ, ශ්‍රී ලංකාවට ඉන් බලපෑමක් නොමැති බවය.
+
+ලංකාවට ගිනිකොණ දිසාවෙන් කිලෝමීටර් 260කට ආසන්නයේ මෙම භූකම්පනය හට ගෙන ඇති අතර, එහි ප්‍රබලත්වය ලංකාවේ රික්ටර් පරිමාණ 6.6 ලෙස සටහන්ව ඇතැයි ද ඇය පැවසීය.
+
+මෙම භූකම්පනයෙන් පසුව පසු කම්පන කිහිපයක් වාර්තා වී ඇති නමුත් ඒ සම්බන්ධයෙන් ද මෙරට ජනතාව අනිසි බියක් ඇති කරගත යුතු නොවන බව දීපානි වීරකෝන් මහත්මිය වැඩිදුරටත් කියා සිටියාය.
+
+◼️
+
+[Data](articles/89f45689.json)
+
+---
+
+### පසුගිය පැය 24දී සිදු වූ විශේෂ අත්අඩංගුවට ගැනීම් පිළිබඳ නිවේදනයක්
+
+*2025-07-29 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212765) · `si`
+
+පසුගිය මාස කිහිපය තුළදී සංවිධානාත්මක අපරාදකරුවන් මෙන්ම විවිධ අපරාධවල නිරත වූ සහ ඊට ආධාර අනුබල දුන් පුද්ගලයන්ද ඔවුන්ගේ තරාතිරම නොබලා අත්අඩංගුවට ගනිමින් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කර ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශය පවසයි.
+
+රටෙහි නීතිය හා සාමය ස්ථාපනය කිරීමේ අරමුණින් සිදු කරන මෙම අත්අඩංගුවට ගැනීම්වලට අදාළ සුවිශේෂි අත්අඩංගුවට ගැනීම් කිහිපයක් ඊයේ (28) දිනය තුළදී සිදු කිරීමට ශ්‍රී ලංකා පොලීසිය සමත්ව ඇත.
+
+ඒ අනුව හිටපු නාවික හමුදාපතිවරයෙකු වන නිශාන්ත උළුගේතැන්න යන අය පුද්ගල අතුරුදන් වීමක් සම්බන්ධයෙන් සිදුකරන විමර්ෂණවලට අදාලව 2025-07-28 වන දින අපරාද පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඔහුව පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළැඹෙන 30 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කොට තිබේ.
+
+එමෙන්ම විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයෙකු වන ප්‍රියන්ත ජයකොඩි යන අය ඊයේ (28) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවට පත් විය.
+
+...
+
+[Data](articles/7ff8551e.json)
+
+---
+
+### 18 devotees killed in bus-truck collision in India’s Jharkhand
+
+*2025-07-29 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110952/18-devotees-killed-in-bus-truck-collision-in-indias-jharkhand) · `en`
+
+At least 18 devotees have been killed and several others injured after a bus they were travelling in collided with a truck loaded with cooking gas cylinders in India’s Jharkhand.
+
+The incident occurred at around 4:30 a.m. during the ongoing Shravani Mela, a time when thousands of devotees travel to offer sacred water at the Baba Baidyanath Dham temple.
+
+Several devotees were trapped inside the mangled remains of the vehicle, prompting an immediate response from the police, ambulance services, and the National Disaster Response Force (NDRF), who worked together to extract the injured and retrieve the bodies.
+
+The injured were rushed to nearby primary health centres and Deoghar Sadar Hospital.
+
+Authorities stated that the condition of some was critical. The identities of the victims are currently being verified, and the bodies are being sent for post-mortem examinations.
+
+◼️
+
+[Data](articles/c64f6f41.json)
+
+---
+
+### நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்த மகோற்சவ பெருவிழா ஆரம்பம்
+
+*2025-07-29 10:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தசுவாமி-ஆலயத்தின்-வருடாந்த-மகோற்சவ-பெருவிழா-ஆரம்பம்/175-361956) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க யாழ்ப்பாணம் நல்லூர் கந்தசுவாமி கோவிலின் கொடியேற்றம் இன்று ஏராளமான மக்கள் கூட்டத்துடன் ஆரம்பம் ஆகியுள்ளது.
+
+நல்லூர் ஆலயக் கொடியேற்றத்திற்கான கொடிச்சீலையானது செங்குந்தர் பரம்பரையினரால் நல்லூர் கந்தசுவாமி கோவில் ஆலயத்தில் ஒப்படைக்கப்படுவது வழக்கமாகும். அதன்படி நேற்றும் விஷேட பூஜை வழிபாடுகள் நடைபெற்றது.
+
+அதாவது, சட்டநாதர் சிவன் ஆலயத்திற்கு அருகில் உள்ள வேல் மடம் முருகன் ஆலயத்தில் நடைபெற்ற இந்த பூஜையில் கொடிச்சீலை எடுத்துச் செல்லப்பட்டு ஆலயத்தை சென்றடைந்தது. R
+
+◼️
+
+[Data](articles/8fe4de9e.json)
+
+---
+
+### Thissa Kuttiarachchi expresses regret, retracts claims against President AKD after defamation case
+
+*2025-07-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110951/thissa-kuttiarachchi-expresses-regret-retracts-claims-against-president-akd-afterdefamationcase) · `en`
+
+Former Member of Parliament Thissa Kuttiarachchi today informed the Colombo District Court that he unconditionally apologized for the statement he made pertaining to President Anura Kumara Dissanayake.
+
+This announcement was made through his legal representatives during the court proceedings today in relation to a lawsuit filed by President Anura Kumara Dissanayake, who demanded Rs. 10 billion in damages for defamation.
+
+Subsequently, with the agreement of both parties, the case was settled amicably.
+
+◼️
+
+[Data](articles/7659dea1.json)
+
+---
+
 ### ජනපති සම්බන්ධයෙන් කළ ප්‍රකාශයට තිසකුට්ටි අධිකරණය හමුවේ කනගාටුව පළ කරයි
 
 *2025-07-29 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212764) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සම්බන්ධයෙන් තමන් සිදුකළ ප්‍රකාශය පිළිබඳව කොන්දේසි විරහිතව කණගාටුව පළ කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිස්ස කුට්ටිආරච්චි මහතා අද (29) කොළඹ දිසා අධිකරණය හමුවේ දැනුම් දුන්නේය.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සම්බන්ධයෙන් තමන් සිදුකළ ප්‍රකාශය පිළිබඳව කොන්දේසි විරහිතව කනගාටුව පළ කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිසකුට්ටි ආරච්චි මහතා අද (29) කොළඹ දිසා අධිකරණය හමුවේ දැනුම් දුන්නේය.
 
-තමන්ට සිදු කළ අපහාසය වෙනුවෙන් රුපියල් බිලියන දහයක වන්දියක් අය කර දෙන ලෙස ඉල්ලා අනුර කුමාර දිසානායක මහතා විසින් ගොනු කර තිබූ නඩුවක් අද කොළඹ දිසා අධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී අධිකරණය හමුවේ පෙනී සිටි තිස කුට්ටිආරච්චි මහතා සිය නීතිඥවරු මාර්ගයෙන් මෙම දැනුම්දීම සිදුකළේය.
+තමන්ට සිදු කළ අපහාසය වෙනුවෙන් රුපියල් බිලියන දහයක වන්දියක් අය කර දෙන ලෙස ඉල්ලා අනුර කුමාර දිසානායක මහතා විසින් ගොනුකර තිබූ නඩුවක් අද කොළඹ දිසා අධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී අධිකරණය හමුවේ පෙනී සිටි තිසකුට්ටි ආරච්චි මහතා සිය නීතිඥවරු මාර්ගයෙන් මෙම දැනුම්දීම සිදුකළේය.
 
 ◼️
 
@@ -79,6 +173,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/22d0c0be.json)
+
+---
+
+### Office Assistant at Government Analyst’s Department arrested with heroin and ICE
+
+*2025-07-29 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110950/office-assistant-at-government-analysts-department-arrested-with-heroin-and-ice) · `en`
+
+An office assistant attached to the Government Analyst’s Department has been arrested for the possession of narcotics, police stated.
+
+The individual has been apprehended by a team of officers attached to the Intelligence Division of the Special Task Force in Hokandara South.
+
+Officers found 265 grams of heroin and 250 grams of ICE (crystal methamphetamine) in his possession at the time of the arrest.
+
+The 58-year-old office assistant is a resident of Hokandara South.
+
+He has been handed over to the Malabe Police Station for further investigation.
+
+◼️
+
+[Data](articles/433139aa.json)
 
 ---
 
@@ -127,6 +241,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ef80abe4.json)
+
+---
+
+### Fire breaks out at a shop in Godigamuwa
+
+*2025-07-29 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110948/fire-breaks-out-at-a-shop-in-godigamuwa) · `en`
+
+A fire has broken out in a shop located along the Piliyandala-Maharagama Road in Godigamuwa, police stated.
+
+Two fire trucks of the Sri Jayewardenepura Kotte Municipal Council have been dispatched to the location to control the fire.
+
+◼️
+
+[Data](articles/a5dc3dae.json)
 
 ---
 
@@ -208,7 +336,11 @@ Beijing issued its highest-level rain and flood alerts on Monday, advising resid
 
 *2025-07-29 09:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யட்டிநுவர-எதிர்க்கட்சி-தலைவரின்-குடும்பத்தினர்-சடலங்களாக-மீட்பு/76-361950) · `ta`
 
-யட்டிநுவர பிரதேச  சபையின்  எதிர்க்கட்சித்  தலைவர்,  அவரது  மனைவி  மற்றும்  அவர்களின்  மகள்  ஆகியோரின் உடல்கள் யஹலதென்னவில் உள்ள அவர்களது வீட்டில் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+யட்டிநுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவரான ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்  சம்பிகா விஜேரத்ன (53), அவரது மனைவி மற்றும் மகள் ஆகியோர் முருத்தலாவை கம்பியாடிய வீட்டில் மர்மமான முறையில் இறந்து கிடந்ததாக பேராதனை பொலிஸார் தெரிவித்தனர்.
+
+இறந்த சம்பிகா விஜேரத்ன நீண்டகால அரசியல்வாதி. அவரது உடல் வீட்டின் ஒரு அறையில் தூக்கில் தொங்கிய நிலையில் கண்டெடுக்கப்பட்டது, அதே நேரத்தில் அவரது 16 வயது மகள் மற்றும் மனைவியின் உடல்கள் வீடு முழுவதும் சிதறிக்கிடந்தன என்று பொலிஸார் தெரிவித்தனர். சம்பவத்தில் அவர்களின் இளம் மகள் உயிர் பிழைத்ததாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த மர்மமான மரணங்களுக்கான காரணம் இன்னும் தெரியவில்லை என்று பேராதனை பொலிஸார் தெரிவிக்கின்றனர். இது தற்கொலையா அல்லது வேறு ஏதேனும் காரணமா என்று பொலிஸார் விசாரித்து வருகின்றனர்.
 
 ◼️
 
@@ -427,6 +559,8 @@ Police stated that the opposition leader of the Yatinuwara Pradeshiya Sabha had 
 The deceased are a 52-year-old man, his 44-year-old wife, and their 17-year-old daughter.
 
 If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+- For emergencies, contact the National Mental Health Helpline: 1926
 
 ◼️
 
@@ -1660,154 +1794,18 @@ This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo N
 
 ---
 
-### ප්‍රසන්න රණවීර ඇතුළු තිදෙනාට ඇප නෑ
+### බිත්තරේ උඩ යයි
 
-*2025-07-28 18:39:13* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසන්න-රණවීර-ඇතුළු-තිදෙනාට-ඇප-නෑ/11-417567) · `si`
+*2025-07-28 18:47:49* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරේ-උඩ-යයි/11-417568) · `si`
 
-කිරිබත්ගොඩ නගරයේ ඉදි කිරීමට රජයට පවරා ගෙන තිබු රුපියල් කෝටි දෙකක් පමණ වටිනා ඉඩමකට කූට ලේඛණ සකස් කිරීම සම්බන්ධව රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර ඇතුළු තිදෙනා තවදුරටත් ලබන අගෝස්තු මස 04 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර අංක 01 මහේස්ත්‍රාත් අධිකරණයේ මහේස්ත්‍රාත් කාංචනා ද සිල්වා මහත්මිය අද ( 28 වැනිදා ) නියම කළාය.
+බිත්තර මිල මේ සතියේ රුපියල් දෙකකින් ඉහළ දැමීමට සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමය ඊයේ(28දා) පැවති මිල තීරණය කළ කමිටුවේදී පියවරගෙන ඇතැයි එම සංගමයේ සභාපති සරත් රත්නායක මහතා පවසයි.
 
-හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර  , කැලණිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී මිල්රෝයි පෙරේරා හා හිටපු ඇමැති මර්වින් සිල්වා ගේ එවකට පාර්ලිමේන්තු කටයුතු හිටපු ලේකම් දොන් සරත් කුමාර එදිරිසිංහ නොහොත් සිංගප්පූරු සරත් යන තිදෙනා මෙසේ තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+ඒ අනුව රුපියල් 24කට තිබූ සුදු බිත්තරයක ගොවිපළ මිල රුපියල් 26ක් ලෙසත් රතු බිත්තරයක ගොවිපළ මිල රුපියල් 28ක් ලෙසත් එහිදී ප‍්‍රකාශයට පත් කෙරිණ. බිත්තර තොග මිල නිෂ්පාදකයන්ගේ සංගමය තීරණය කර තිබූ බිත්තර තොග මිල අනුව  සුදු හා රතු බිත්තර පිළිවෙළින් රුපියල් 29ක් හා රු.31කි.
 
-මෙදින සැකකරුවන් අධිකරණයට ඉදිරිපත් කර නොසිටි අතර ඔවුන් ස්කයිප් තාක්ෂණය ඔස්සේ සම්බන්ධ කර ගන්නා ලදී. . ඔවුනට නියෝගය බන්ධනාගාරය මගින් දන්වන බවද මහේස්ත්‍රාත්වරිය පැවසුවාය.
-
-...
-
-[Data](articles/c092597f.json)
-
----
-
-### உயிரிழந்த ஆண் சிறுத்தையின் சடலம் மீட்பு
-
-*2025-07-28 18:35:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-ஆண்-சிறுத்தையின்-சடலம்-மீட்பு/175-361928) · `ta`
-
-கொத்மலையில் உள்ள கட்டுகிதுல பகுதியில் ஒரு ஆண் சிறுத்தை இறந்து கிடந்தது கண்டுபிடிக்கப்பட்டுள்ளது.இது காட்டு விலங்குகளைக் கொல்ல பொதுவாகப் பயன்படுத்தப்படும் கொடிய பொறியான 'ஹக்க பட்டாஸ்' சட்டவிரோதமாகப் பயன்படுத்தப்பட்ட மற்றொரு துயர சம்பவமாக சந்தேகிக்கப்படுகிறது.
-
-இந்த சம்பவம் தொடர்பான ஒரு பதிவு தற்போது X இல்  பகிரப்பட்டு வருகிறது.
-
-அந்தப் பதிவின்படி, வனவிலங்கு பாதுகாப்புத் திணைக்களத்தின் (DWC) அதிகாரிகள் சிறுத்தையின் உடலை மீட்டுள்ளனர்,மேலும் இறப்புக்கான சரியான காரணத்தைக் கண்டறிய விசாரணை நடந்து வருகிறது.
-
-இருப்பினும், ஹக்க பட்டாஸ் போன்ற தடைசெய்யப்பட்ட சாதனங்களைத் தொடர்ந்து பயன்படுத்துவதை வனவிலங்கு அதிகாரிகள் கடுமையாகக் கண்டித்துள்ளனர், மேலும் இலங்கையின் அழிந்து வரும் உயிரினங்களைப் பாதுகாப்பதற்கான தொடர்ச்சியான முயற்சிகளை ஆதரிக்குமாறு பொதுமக்களை வலியுறுத்தியுள்ளனர்.
-
-சம்பவம் குறித்து விபரங்களைக் கோர DWCயின் மூத்த அதிகாரிகளைத் தொடர்பு கொள்ள பலமுறை முயற்சித்தபோதும் அது பலனளிக்கவில்லை.
-
-◼️
-
-[Data](articles/087428de.json)
-
----
-
-### Sri Lanka Customs detain around 1,000 BYD EVs in motor capacity probe
-
-*2025-07-28 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-detain-around-1000-byd-evs-in-motor-capacity-probe-233141/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs has detained around 1,000 Chinese-made BYD electric vehicles in six consignments that arrived in the island over the declaration of motor capacity issue which is used to calculate taxes, official sources said.
-
-Customs have been declared a motor capacity of 100 kiloWatts but there have been concerns that the car are usually produced with a 150kW motor, which attracts a higher rate of duty in Sri Lanka.
-
-The excise for a 100 KW motor vehicle is 2.4 million rupees, but this rises to about 5.4 million rupees for a 150 KW vehicle.
-
-The BYD vehicles had arrived in six consignments and reached Sri Lanka in two different days of this month, the sources said.
-
-In the case of conventional piston engine cars, it is customary for the same model to come in different sized engines. The same model of some mid-sized petrol cars for example used to come in 1300cc, 1500cc and even 1800cc engines.
+ගොවීන් ඉතාම පීඩනයට ලක් කරමින් බිත්තර මිල මාසයකට වැඩි කාලයක් ඉතාම පහතට එමින් තිබෙන අතරතුර ගොවිපළවල සිටි වයස්ගත සතුන් ඉවත් කිරීම නිසා බිත්තර අතිරික්තය සමනය වෙමින් ඉල්ලුමක් සෑදුණ බවත් සියලුම ගොවි මහතුන් එකාවන්ව එක තීරණයක සිට දැක්වූ සහයෝගය මෙන්ම සංගමය විසින් නියම කළ රුපියල් 26න් පහත කිසිම ගොවි මහතෙකු විසින් වෙළෙඳුන්ට ලබා නොදුන හොත් තවත් පියවරක් ඉදිරියට යාහැකි බවත් සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ සභාපති වරයා එහිදී මාධ්‍යයට කරුණු දැක්වීය.
 
 ...
 
-[Data](articles/5a3a82ae.json)
-
----
-
-### 2026 நடுப்பகுதியில் மீண்டும் பொருளாதார நெருக்கடி ஏற்படும் – உதய கம்மன்பில
-
-*2025-07-28 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221214) · `ta`
-
-2026 ஆம் ஆண்டு நடுப்பகுதியில் மீண்டும் பொருளாதார நெருக்கடி தோற்றம் பெறும் சூழலே காணப்படுகிறது. பொருளாதார வளர்ச்சி வீதம் குறைவடைந்த போக்கில் செல்வதை அவதானிக்க முடிகிறது. எதிர்க்கட்சிகள் அனைத்தும் ஒன்றிணைந்தால் அடுத்தாண்டு பொதுத்தேர்தலை நடத்தும் சூழலை ஏற்படுத்தலாம் என பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுறு ஹெல உறுமய கட்சியின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (27) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-கடந்த ஓரிரு மாதங்களுக்கு முன்னர் நாட்டில் திட்டமிட்ட வகையில் உப்புக்கு தட்டுப்பாடு ஏற்பட்டது.சந்தையில் நிலவிய உப்பு தட்டுப்பாட்டுக்கு தீர்வாக  2025 ஆம் ஆண்டு 06 இலக்க ஏற்றுமதி மற்றும் இறக்குமதி கட்டுப்பாட்டு ஒழுங்குவிதிகளின் பிரகாரம் உப்பு இறக்குமதிக்கு அனுமதி வழங்கப்பட்டது.
-
-...
-
-[Data](articles/311832f3.json)
-
----
-
-### Public urged not to fly kites near airports
-
-*2025-07-28 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/110930/public-urged-not-to-fly-kites-near-airports) · `en`
-
-The general public has been requested to refrain from flying kites near airports in the country.
-
-The Sri Lanka Air Force (SLAF) states that it has received reports of an increase in the number of kites being flown near airports.
-
-Due to this, the Air Force warns that there is a risk of accidents involving aircraft.
-
-Previously, the Airport and Aviation Services (Sri Lanka) (Pvt) Ltd. has also announced a ban on flying kites near international airports due to safety concerns for aircraft and passengers.
-
-◼️
-
-[Data](articles/0ae7154c.json)
-
----
-
-### 5 புதிய தூதுவர்கள், ஒரு உயர் ஸ்தானிகர் நியமனம்
-
-*2025-07-28 18:29:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-புதிய-தூதுவர்கள்-ஒரு-உயர்-ஸ்தானிகர்-நியமனம்/175-361927) · `ta`
-
-உயர் பதவிகளுக்கான குழு, 5 புதிய தூதுவர்கள், ஒரு உயர் ஸ்தானிகர் மற்றும் ஒரு அமைச்சக செயலாளரின் நியமனங்களுக்கு ஒப்புதல் அளித்துள்ளது.
-
-கடந்த வாரம் (24) பாராளுமன்றத்தில் நடைபெற்ற உயர் பதவிகளுக்கான குழுவின் கூட்டத்தின் போது இந்த நியமனங்கள் அங்கீகரிக்கப்பட்டன.
-
-திருமதி. சி.ஏ. சமிந்தா இனோகா கொலோன்னே - பிரேசில் கூட்டாட்சி குடியரசின் இலங்கைத் தூதுவர்.
-
-திரு. முகமது ரிஸ்வி ஹாசன் - மாலைதீவு குடியரசிற்கான இலங்கை உயர் ஸ்தானிகர்
-
-செல்வி ஆயிஷா ஜினசேனா (PC) - நீதி மற்றும் தேசிய ஒருங்கிணைப்பு அமைச்சகத்தின் செயலாளர்.
-
-உயர் பதவிகளுக்கான குழுவின் தலைவராக பிரதமர் ஹரினி அமரசூரிய, பாராளுமன்ற உறுப்பினர்களான குமார ஜயக்கொடி, அனில் ஜயந்த, ஹர்ஷன நாணயக்கார, உபாலி பன்னிலகே, சரோஜா சாவித்திரி பால்ராஜ், ஹன்சக விஜேமுனி, ரிஷாத் பதியுதீன், தயாசிறி ஜயசேகர மற்றும் நிசாம் காரியப்பர் ஆகியோர் அங்கம் வகிக்கின்றனர்.
-
-◼️
-
-[Data](articles/60cb7576.json)
-
----
-
-### அரசாங்கத்திடம் கல்வி மறுசீரமைப்பில் தெளிவான கொள்கை இல்லை – வருண ராஜபக்ஷ்
-
-*2025-07-28 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221213) · `ta`
-
-கல்வி மறுசீரமைப்பு மேற்கொள்வதாக அரசாங்கம் தெரிவித்து வருகின்றபோதும் அரசாங்கத்திடம் தொடர்பில் முறையான கொள்கை ஒன்று இல்லை. அதேநேரம் இந்த மறுசீரமைப்பு மேற்கொள்ள நியமிக்கப்பட்ட குழுவில் கல்வியலாளர்கள் என யாரும் இல்லை என ஐக்கிய  மக்கள் சக்தி கம்பஹா தொகுதி அமைப்பாளர் வருண ராஜபக்ஷ் தெரிவித்தார்.
-
-ஐக்கிய மக்கள் சக்தி கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை () இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு  தெரிவித்தார்.
-
-கல்வித்துறையில் மாற்றத்தை ஏற்படுத்த வேண்டும் என 40 வருடங்களுக்கு முன்பிருந்தே நாங்கள் தெரிவித்து வருகிறோம். ,இதற்கு முன்னர் இருந்த அரசாங்கங்களும் கல்வி மறுசீரமைப்பு தொடர்பில் நடவடிக்கை எடுத்திருந்தன. அந்த வகையில் தற்போது இந்த அரசாங்கமும் அதனை செய்ய ஆரம்பித்திருக்கிறது. கல்வி மறுசீரமைப்பு மேற்கொள்ளப்படட வேண்டும் என்பதில் மாற்றுக்கருத்து இல்லை.
-
-...
-
-[Data](articles/d463af56.json)
-
----
-
-### බොරැල්ලේ මාරක අනතුර සම්බන්ධයෙන් දොඹකර රථයේ හිමිකරු අත්අඩංගුවට
-
-*2025-07-28 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212742) · `si`
-
-බොරැල්ල කනත්ත හංදිය ප්‍රදේශයේ අද (28) උදෑසන සිදුවූ මාරක රිය අනතුර සම්බන්ධයෙන් දොඹකර රථයේ හිමිකරුද අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකාර රියදුරා සහ දොඹකර රථයේ හිමිකරු හෙට අලුත්කඩේ අංක 02 මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත බව පොලීසිය පවසයි.
-
-මේ අතර රිය අනතුරට සම්බන්ධ දොඹකර රථයේ රියදුරා ගංජා පානය කර ඇති බවට තහවුරු වී ඇති බවට අදාළ රියදුරු සම්බන්ධයෙන් සිදුකළ වෛද්‍ය පරීක්ෂණයේදී ඒ බව තහවුරු වූ බවයි බොරැල්ල පොලීසිය සඳහන් කළේය.
-
-අද උදෑසන බෞද්ධාලෝක මාවතේ සිට බොරැල්ල දෙසට ධාවනය වූ දොඹකර රථය බොරැල්ල කනත්ත වට රවුමේ මාර්ග සංඥා අසලදී  යතුරුපැදි 06ක සහ මෝටර් රථ 03ක ගැටී අනතුරක් සිදුව තිබුණි.
-
-මාර්ග සංඥා හේතුවෙන් රථ වාහන නතර කර තිබියදී දොඹකර රථය වාහන පෙළ යටකරගෙන වේගයෙන් ඉදිරියට ගමන් කරන ආකාරය CCTV දර්ශනවල දැක්වුණි.
-
-දොඹකර රථයට යටවූ යතුරුපැදි කිහිපයක් රථය තුළ සිරවී ඇති ආකාරය ද දක්නට ලැබුණි.
-
-අනතුරින් එක් යතුරුපැදිකරුවෙකු එම ස්ථානයේදීම මියගොස් තිබූ අතර තුවාල ලැබූ තවත් 07 දෙනෙකු ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කළ බව පොලීසිය සඳහන් කළේය.
-
-...
-
-[Data](articles/47b7280a.json)
+[Data](articles/113cd777.json)
 
 ---

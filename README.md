@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 02:06:45**
+As of **2025-07-30 02:21:17**
 
 ## Newspaper Stats
 
-*Scraped **67,592** Articles*
+*Scraped **67,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ dailyftlk | 4,768
 adalk | 6,496
 adaderanalk | 8,332
 tamilmirrorlk | 9,791
-virakesarilk | 11,265
+virakesarilk | 11,266
 adaderanasinhalalk | 11,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,592 articles have been extended.
+61,973 (91.7%) of 67,593 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-30 (Wednesday)
+
+### நம்பி வாக்களித்த மக்களை அரசாங்கம் ஏமாற்றக் கூடாது - அஜித் பி பெரேரா
+
+*2025-07-30 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221322) · `ta`
+
+நாட்டில் கல்வி சீர்திருத்தங்கள் தொடர்பில் பரவலாகப் பேசப்படுகிறது. கல்வித்துறையில் பாரிய சீர்திருத்தங்கள் மேற்கொள்வதாகவே தேசிய மக்கள் சக்தியின் கொள்கை பிரகடனத்தில் குறிப்பிடப்பட்டிருந்தது. மக்கள் அதனை நம்பியே வாக்களித்தனர். எனவே இதனை அரசியலாகப் பார்க்காமல் அரசாங்கம் அதன் பொறுப்பினை நிறைவேற்ற வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+கொழும்பில் செவ்வாய்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இன்று நாட்டில் கல்வி சீர்திருத்தங்கள் தொடர்பில் பரவலாகப் பேசப்படுகிறது. கல்வித்துறையில் பாரிய சீர்திருத்தங்கள் மேற்கொள்வதாகவே தேசிய மக்கள் சக்தியின் கொள்கை பிரகடனத்தில் குறிப்பிடப்பட்டிருந்தது. மக்கள் அதை நம்பி வாக்களித்தனர். இது அரசியல் அல்ல. அரசாங்கத்தின் பொறுப்பாகும். ஜனவரியிலிருந்து 1 - 6ஆம் வகுப்புக்களில் பாடத்திட்டங்களில் மாற்றங்களை ஏற்படுத்துவதாக அரசாங்கம் குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/0b55191a.json)
+
+---
 
 ### 2025-07-29 (Tuesday)
 
@@ -1777,31 +1795,5 @@ Speaking further at the event, President Anura Kumara Dissanayake stated:
 ...
 
 [Data](articles/574f395c.json)
-
----
-
-### China offers parents $1,500 in bid to boost births
-
-*2025-07-29 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110964/china-offers-parents-1500-in-bid-to-boost-births) · `en`
-
-Parents in China are being offered 3,600 yuan (£375; $500) a year for each of their children under the age of three in the government’s first nationwide subsidy aimed at boosting birth rates.
-
-The country’s birth rate has been falling, even after the ruling Communist Party abolished its controversial one-child policy almost a decade ago.
-
-The handouts will help around 20 million families with the cost of raising children, according to state media.
-
-Several provinces across China have piloted some form of payouts to encourage people to have more children as the world’s second largest economy faces a looming demographic crisis.
-
-The scheme, which was announced on Monday, will offer parents a total of up to 10,800 yuan per child.
-
-The policy will be applied retroactively from the start of this year, Beijing’s state broadcaster CCTV said.
-
-Families with children born between 2022 and 2024 can also apply for partial subsidies.
-
-The move follows efforts by local governments to boost birth rates in China.
-
-...
-
-[Data](articles/f5987935.json)
 
 ---

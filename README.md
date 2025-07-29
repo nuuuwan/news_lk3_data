@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 04:48:11**
+As of **2025-07-30 05:06:08**
 
 ## Newspaper Stats
 
-*Scraped **67,605** Articles*
+*Scraped **67,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
-dailyftlk | 4,774
+dailyftlk | 4,775
 adalk | 6,496
 adaderanalk | 8,332
 tamilmirrorlk | 9,791
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,605 articles have been extended.
+61,973 (91.7%) of 67,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### “Commercial Mediation Bill”: Problem or solution?
+
+*2025-07-30 04:46:52* · [`dailyftlk`](https://www.ft.lk/opinion/Commercial-Mediation-Bill-Problem-or-solution/14-779649) · `en`
+
+Sri Lanka’s recently gazetted Mediation (Civil and Commercial Disputes) Bill, 2025 aims to institutionalise mediation and reduce court backlog. Some critics argue that it will not fully serve its intended purpose.
+
+This is an interview with President’s Counsel Harsha Fernando, who, in addition to litigation, has been practicing commercial negotiations and mediation, both locally and overseas, for over 20 years.
+
+Q: The Government has proposed a Commercial Mediation Bill. What are your initial thoughts on it?
+
+...
+
+[Data](articles/d571d2ce.json)
+
+---
 
 ### SLAEA hosts high-level forum on EU CSDDD: Strengthening sustainable trade through compliance and collaboration
 
@@ -1737,21 +1753,5 @@ The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in J
 ...
 
 [Data](articles/51ba7162.json)
-
----
-
-### අධිකරණයට ඉදිරිපත් වූ නාමල්ට ලැබුණු නියෝගය මෙන්න
-
-*2025-07-29 15:21:08* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණයට-ඉදිරිපත්-වූ-නාමල්ට-ලැබුණු-නියෝගය-මෙන්න/11-417585) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ ඇප මත මුදා හැරීමට හම්බන්තොට මහේස්ත්‍රාත්අ ධිකරණය නියෝග කර තිබේ.
-
-මන්ත්‍රීවරයා අද (29දා) හම්බන්තොට මහේස්ත්‍රාත්  අධිකරණයට ඉදිරිපත් වීමෙන් පසුව මෙම නියෝගය ලබා දී තිබේ.
-
-නඩුවකට පෙනී නොසිටීම හේතුවෙන් ඔහුට ඊයේ (28දා) වරෙන්තු නිකුත් කරනු ලැබිණි.
-
-◼️
-
-[Data](articles/bf72992b.json)
 
 ---

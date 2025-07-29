@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 05:33:07**
+As of **2025-07-29 06:13:55**
 
 ## Newspaper Stats
 
-*Scraped **67,368** Articles*
+*Scraped **67,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 690
-islandlk | 4,115
 economynextcom | 4,116
+islandlk | 4,126
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (92.0%) of 67,368 articles have been extended.
+61,973 (92.0%) of 67,379 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -420,6 +420,26 @@ As of 27 July 2025, 101 skeletal remains, including those of children and infant
 
 ---
 
+### Ambassador for Blues Music Victoria
+
+*2025-07-28 22:49:00* · [`islandlk`](http://island.lk/ambassador-for-blues-music-victoria/) · `en`
+
+Sri Lanka-born Andrea Marr, who now resides in Australia, has been singing Blues since 1997, and has achieved great success in the Blues scene.
+
+She has 10 albums to her name, was inducted into the Blues Music Victoria Hall of Fame, won the Blues Performer of the Year award, three times, and was the Australian Female Blues Artiste of the Year, in 2009.
+
+This year, she sang in Memphis, in the States, as part of the International Women in Blues showcase and returned to Australia to become the Ambassador for Blues Music Victoria – Women in Blues programme.
+
+What’s more, Andrea is using her years of experience as a recording artiste, and performer, as well as her experience, to developing artistes, at her music school, to help the female-fronted Blues acts, in the state of Victoria, to get more gigs, and be heard internationally.
+
+And, despite her work load, connected with music, Andrea still finds the time to house homeless cats with people who love animals.
+
+...
+
+[Data](articles/fb28dda4.json)
+
+---
+
 ### ඉන්දියාවෙන් පිටුවහල් කළ වැලිගම සහන් කටුනායකදී අත්අඩංගුවට
 
 *2025-07-28 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212752) · `si`
@@ -438,6 +458,34 @@ As of 27 July 2025, 101 skeletal remains, including those of children and infant
 
 ---
 
+### ‘How Sun Siyam Pasikudah is leading the East coast’s boutique renaissance’
+
+*2025-07-28 22:40:00* · [`islandlk`](http://island.lk/how-sun-siyam-pasikudah-is-leading-the-east-coasts-boutique-renaissance/) · `en`
+
+Once considered Sri Lanka’s quiet frontier, the island’s east coast is experiencing a deliberate and meaningful resurgence. With its powdery beaches, cultural depth, and warm waters untouched by overdevelopment, the region is fast emerging as the next chapter in responsible, high-value tourism.
+
+And at the heart of this movement stands Sun Siyam Pasikudah, a resort nestled along the sun-drenched shores of Kalkudah that embodies a new kind of luxury. One that is intimate, sustainable, and deeply rooted in place.
+
+Unlike the mega-resorts that line more commercial destinations, Sun Siyam Pasikudah does not compete on excess. It competes on experience. With just 34 villas and suites, the property offers space, silence, and soulful connection, the kind of refined minimalism that today’s conscious travellers increasingly seek.
+
+...
+
+[Data](articles/1818beda.json)
+
+---
+
+### LOLC Finance unveils Super Savings Account with higher returns
+
+*2025-07-28 22:39:00* · [`islandlk`](http://island.lk/lolc-finance-unveils-super-savings-account-with-higher-returns/) · `en`
+
+LOLC Finance, Sri Lanka’s leading non-banking financial institution, has launched the LOLC Super Savings Account, a thoughtfully designed savings solution that offers the perfect balance between high returns and convenient access to funds. Developed in response to evolving customer expectations, this product is tailored for individuals seeking greater value and flexibility from their savings, whether they are managing daily expenses or planning for future financial goals.
+
+...
+
+[Data](articles/68f46705.json)
+
+---
+
 ### மோட்டார் சைக்கிள் பதிவு சான்றிதழ் மாற்ற இலஞ்சம் கோரி இடைத்தரகர் கைது
 
 *2025-07-28 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221225) · `ta`
@@ -451,6 +499,20 @@ As of 27 July 2025, 101 skeletal remains, including those of children and infant
 ...
 
 [Data](articles/f028dc7e.json)
+
+---
+
+### CSE in state of exuberance for seventh day; notches 18 crossings
+
+*2025-07-28 22:36:00* · [`islandlk`](http://island.lk/cse-in-state-of-exuberance-for-seventh-day-notches-18-crossings/) · `en`
+
+CSE trading was positive for the seventh consecutive day yesterday due to conducive market conditions. However, pre- profit takings were noted during the middle of the session but it did not affect the market from moving to green territory at the end of the session, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 55.15 points, while the S and P SL20 rose by 23.3 points. Turnover stood at Rs 6.2 billion with 18 crossings. Out of them, the top eight crossings were reported in HNB (Non- Voting), where 765,000 shares crossed to the tune of Rs 222 million; its shares traded at Rs 290, Lanka IOC 1.15 million shares crossed to the tune of Rs 161 million; its shares traded at Rs 140, Royal Ceramic 3.5 million shares crossed to the tune of Rs 148 million; its shares traded at Rs 42.
+
+...
+
+[Data](articles/459926eb.json)
 
 ---
 
@@ -1745,83 +1807,5 @@ Accordingly, the Deputy Solicitor General requested court to set a new date for 
 ...
 
 [Data](articles/87faa807.json)
-
----
-
-### රඹුක්කන වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 07 විභාගයට අවසර දෙයි
-
-*2025-07-28 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212736) · `si`
-
-අරගලය පැවති සමයේ රඹුක්කන ප්‍රදේශයේ ඉන්ධන පිරවුම් හලක් අසල වැඩි මිලට ඉන්ධන අලෙවි කිරීමේ සිද්ධියට විරෝධය පළ කරමින් මහජනතා විසින් උද්ඝෝෂණයක් සිදුකළ අවස්ථාවේදී එය විසුරුවා හැරීම සඳහා පොලීසිය විසින් වෙඩි තැබීමෙන් පුද්ගලයකු මරණයට පත්වීම ඇතුළු තවත් පිරිසක් තුවාල ලැබීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනු කෙරුණු මූලික අයිතිවාසිකම් පෙත්සම් 07 ක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (28) අවසර ලබා දුන්නේය.
-
-අදාළ පෙත්සම් සලකා බැලීමෙන් අනතුරුව අචල වෙංගප්පුලි, ප්‍රියන්ත ප්‍රනාන්දු සහ මේනකා විජේසුන්දර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
-
-ඒ අනුව මෙම පෙත්සමට අදාළ විරෝධතා තිබේ නම් ඒවා සති හයක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙස අදාළ පෙත්සම්වල වග උත්තරකරුවන් ලෙස නම් කර තිබූ මෙම වෙඩිතැබීම සිදුකිරීමට අණදුන් බව කියන කෑගල්ල හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී. කීර්තිරත්න සහ වෙඩිතැබීම සිදුකළ බව කියන පොලිස් කොස්තාපල්වරු තුන්දෙනෙකුට අධිකරණය විසින් නොතීසි නිකුත් කළේය.
-
-...
-
-[Data](articles/9bb902d7.json)
-
----
-
-### Sri Lanka stocks rise 0.26-pct, pushed by capital goods
-
-*2025-07-28 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-0-26-pct-pushed-by-capital-goods-233171/) · `en`
-
-ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) moved up 0.26 percent pushed by interest in capital goods stocks, data on its site showed.
-
-The ASPI rose 50.15 points to 19,517.86 on Monday; while the S&P SL20 index climbed 0.34 percent, or 19.47 points, to close at 5,774.51.
-
-Turnover increased to 6.1 billion rupees; while the share volume was 162,329,463.
-
-The ASPI was pushed up by Royal Ceramics Lanka which ended 4.00 rupees stronger at 44.00; Melstacorp which rose 1.75 rupees to 152.00 rupees; Hemas Holdings which ended 0.70 rupees up at 31.40 rupees; L B Finance which moved 4.75 rupees up to 140.00; and C T Holdings which closed 8.50 rupees higher at 598.75.
-
-France CAC 40 was trading 0.70 higher at 7,889.04 after US reduced tariffs to 15 percent.
-
-Elsewhere, Japan’s Nikkei 225 index declined 1.10 percent, or 457.96 points, to 40,998.27 as “investors continued to lock in profits following last week’s surge sparked by a Japan-U.S. trade deal,” Japan’s The Mainichi newspaper said.
-
-...
-
-[Data](articles/c91bbd5d.json)
-
----
-
-### 21/4 தாக்குதல்: மீண்டும் விசாரணைக்கு வருகிறது வழக்கு
-
-*2025-07-28 16:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்-மீண்டும்-விசாரணைக்கு-வருகிறது-வழக்கு/175-361910) · `ta`
-
-உயிர்த்த ஞாயிறு அன்று பயங்கரவாத தாக்குதல் நடத்தப்பட உள்ளதாக புலனாய்வுத் தகவல்கள் கிடைத்தும், அதைத் தடுக்க நடவடிக்கை எடுக்கத் தவறியதன் மூலம் குற்றவியல் கடமையை இழந்ததாக முன்னாள் பாதுகாப்புச் செயலாளர் ஹேமசிறி பெர்னாண்டோ மற்றும் முன்னாள் பொலிஸ் மா அதிபர் பூஜித் ஜெயசுந்தர ஆகியோருக்கு எதிராகத் தாக்கல் செய்யப்பட்ட வழக்கை மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு மேல் நீதிமன்றத்தின் மூன்று நீதிபதிகள் கொண்ட அமர்வு திங்கட்கிழமை (28) உத்தரவிட்டது.
-
-இந்த வழக்கு மேல் நீதிமன்ற நீதிபதிகள் நாமல் பலல்லே மற்றும் முகமது இர்ஷதீன் ஆகியோர் அடங்கிய அமர்வு முன் விசாரணைக்கு வந்தது.
-
-◼️
-
-[Data](articles/b4e937da.json)
-
----
-
-### බොරැල්ලේ මාරක අනතුරින් තුවාල ලැබූවන් අතර පොලිස් නිලධාරීන් දෙදෙනකුත්
-
-*2025-07-28 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212735) · `si`
-
-අද (28) උදෑසන බොරැල්ල, කනත්ත හන්දියේ දී සිදුවු මාරක අනතුරින් තුවාල ලැබු පුද්ගලයින් අතර පොලිස් නිලධාරීන්  දෙදෙනෙකු ද සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
-
-එම අනතුරින් තුවල ලැබූ 07 දෙනෙකු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
-
-තුවාලකරුවන් අතරින් දෙදෙනෙකු කාන්තාවන් වන බවත්, ඉතිරි පස්දෙනා පිරිමි පුද්ගලයින් වන බව කොළඹ ජාතික රෝහලේ, නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැවසීය.
-
-අද උදෑසන රාජගිරිය දෙස සිට බෞද්ධාලෝක මාවත දෙසට ධාවනය වෙමින් තිබූ දොඹකරයක්, කනත්ත වටරවුමේ මාර්ග සංඥා අසල නවතා තිබූ යතුරු පැදි 6ක සහ මෝටර් රථ 3ක් ගැටී අනතුර සිදුව තිබුණි.
-
-එම අනතුරින් එක් අයෙකු මියගොස් තවත් පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා රෝහල් ගත කෙරුණි.
-
-අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් දොඹකරයේ රියදුරු ගංජා මත්ද්‍රව්‍ය පානය කර සිට ඇතැයි තහවුරු විය.
-
-අදාළ පුද්ගලයා සම්බන්ධයෙන් සිදුකළ වෛද්‍ය පරීක්ෂණයේ දී මේ බව අනාවරණය වී ඇත.
-
-දොඹකරයේ තිරිංග අක්‍රීය වීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට පොලීසිය සැක පළ කරයි.
-
-◼️
-
-[Data](articles/ca693b97.json)
 
 ---

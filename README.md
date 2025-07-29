@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 20:36:35**
+As of **2025-07-29 20:50:06**
 
 ## Newspaper Stats
 
-*Scraped **67,564** Articles*
+*Scraped **67,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
 adalk | 6,493
-adaderanalk | 8,329
+adaderanalk | 8,330
 tamilmirrorlk | 9,788
-virakesarilk | 11,255
+virakesarilk | 11,256
 adaderanasinhalalk | 11,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,564 articles have been extended.
+61,973 (91.7%) of 67,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### யாழில். ரிக்ரொக் காதலனுக்காக நகைகளை திருடிய யுவதி, காதலன், யுவதியின் நண்பி ஆகிய மூவரும் விளக்கமறியலில்
+
+*2025-07-29 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221312) · `ta`
+
+யாழ்ப்பாணத்தை சேர்ந்த ரிக் ரொக் பிரபலங்களில் ஒருவரான இளைஞன், அந்த இளைஞனுக்கு மோட்டார் சைக்கிள் வாங்கி கொடுக்க,  நகைகளை களவாடிய யுவதி, யுவதிக்கு உடந்தையாக செயற்பட்ட யுவதியின் நண்பி ஆகிய மூவரையும் எதிர்வரும் 06ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு சாவகச்சேரி நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+யாழ்ப்பாணத்தை சேர்ந்த இளைஞன் ஒருவர் ரிக் ரொக் சமூக வலைத்தளங்களில் தனது காணொளிகளை பதிவேற்றி பிரபலமானவராக தன்னை காட்டிக்கொண்டு வந்துள்ளார்.
+
+குறித்த இளைஞனுடன் ரிக் ரொக் மூலம் அறிமுகமான சாவகச்சேரி பகுதியை சேர்ந்த யுவதி , அவரை காதலித்து வந்துள்ளார்.
+
+அந்நிலையில் தனது காதலனுக்கு , அதிநவீன மோட்டார் சைக்கிள் ஒன்றினை கொள்வனவு செய்வதற்காகவும் , காதலன் சொகுசு வாழ்க்கை வாழ்வதற்காவும் , தனது வீட்டில் இருந்து சுமார் 19 பவுண் நகையை களவெடுத்து , அதனை காதலனிடம் கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/375c2fab.json)
+
+---
 
 ### මාලදිවයින් රාජ්‍ය ප්‍රධානීහු ජනපති හමු වෙති
 
@@ -113,6 +131,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fc8bd4f7.json)
+
+---
+
+### Warrant issued for Namal’s arrest recalled
+
+*2025-07-29 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110978/warrant-issued-for-namals-arrest-recalled) · `en`
+
+The Hambantota Magistrate’s Court today (29) recalled the arrest warrant issued against SLPP Member of Parliament Namal Rajapaksa and granted him anticipatory bail.
+
+This order was issued after MP Rajapaksa appeared before the Hambantota Magistrate’s Court through a motion, following his return to the country this morning (July 29) upon concluding his visit to the Maldives.
+
+A case has been filed against MP Namal Rajapaksa and several others for allegedly disregarding court orders during a 2017 protest against the transfer of the Hambantota Port to foreign companies.
+
+The Hambantota Magistrate’s Court had issued the arrest warrant and ordered that the MP be produced in court due to his failure to appear when the case was taken up on July 28.
+
+Under these circumstances, MP Namal Rajapaksa, who had been overseas at the time, returned to the country today and appeared in court through a motion.
+
+◼️
+
+[Data](articles/381bfbe3.json)
 
 ---
 
@@ -1831,39 +1869,5 @@ US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
 ...
 
 [Data](articles/25b4f6ac.json)
-
----
-
-### මහනුවර ඇසල පෙරහැර වෙනුවෙන් දින 05කදී විශේෂ දුම්රිය ගමන්වාර 07ක්
-
-*2025-07-29 11:45:41* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-පෙරහැර-වෙනුවෙන්-දින-05කදී-විශේෂ-දුම්රිය-ගමන්වාර-07ක්/11-417582) · `si`
-
-2025 අගෝස්තු 04 වැනිදා සිට 08 වැනිදා දක්වා මහනුවර ඇසල පෙරහැරෙහි රන්දෝලි පෙරහැර වෙනුවෙන් විශේෂ දුම්රි ගමන්වාර 07ක් ක්‍රියාත්මක කිරීමට පියවර ගෙන ඇති බව ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
-
-◼️
-
-[Data](articles/0007b916.json)
-
----
-
-### சில்லறை இல்லைன்னு சொல்லாதீங்க பா.. ஜிபி-ல போட்டுட்டு போங்க
-
-*2025-07-29 11:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/சில்லறை-இல்லைன்னு-சொல்லாதீங்க-பா-ஜிபி-ல-போட்டுட்டு-போங்க/53-361970) · `ta`
-
-தமிழகத்தின் திருப்பத்தூர் மாவட்டம் புத்துக்கோவில் பகுதியில் வாணியம்பாடி கணவாய்புதூர் பகுதியை சேர்ந்த 60 வயதான நபர் ஒருவர் 'கியூ.ஆர்.' கோடு அட்டையை கையில் வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் யாசகம் எடுத்து வருகிறார்.
-
-யாராவது சில்லறை இல்லை என்றால் “அக்கவுண்டில் போடு” என 'கியூ.ஆர்.' கோடு அட்டையை காட்டுகிறார்.
-
-வித்தியாசமான அவரது இந்த அணுகுமுறையால் பலரும் டிஜிட்டல் முறையில் யாசகத்தை  போட்டு வருகின்றனர்.
-
-அதற்கு அவர், தற்போது செல்போன், கிரெடிட் கார்டு மற்றும் டெபிட் கார்டுகள் மூலம்தான் பெரும்பாலான பரிவர்த்தனைகள் நடைபெற்று வருகின்றன.
-
-இப்போது பர்சில் பணம் வைத்துக்கொள்வது அரிதாக உள்ளதாக தெரிவித்த அவர், தான் 3 வங்கி ஏ.ரி.எம். கார்டுகள் வைத்து இருப்பதாகவும், 'கியூ.ஆர்.' கோடு அட்டையை வைத்துக்கொண்டு 'டிஜிட்டல்' முறையில் பிச்சை எடுப்பதாகவும், இதனால் 'டிஜிட்டல்' முறையிலேயே பலர் பணம் செலுத்துவதாகவும் தெரிவித்துள்ளார்.
-
-இளைஞர்கள் சிலர் இதை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் வெளியிட்டனர். அது வைரலாகி வருகிறது.
-
-◼️
-
-[Data](articles/9b5ea5d1.json)
 
 ---

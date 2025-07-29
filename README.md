@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 14:07:29**
+As of **2025-07-29 14:25:19**
 
 ## Newspaper Stats
 
-*Scraped **67,477** Articles*
+*Scraped **67,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,479
 adaderanalk | 8,309
 tamilmirrorlk | 9,777
 virakesarilk | 11,244
-adaderanasinhalalk | 11,597
+adaderanasinhalalk | 11,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,477 articles have been extended.
+61,973 (91.8%) of 67,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### දොඹකරයේ රියදුරු රිමාන්ඩ් - අයිතිකරුට ඇප
+
+*2025-07-29 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212776) · `si`
+
+ඊයේ (28) දින බොරැල්ල ප්‍රදේශයේ සිදුවූ මාරක රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් දොඹකරයේ රියදුරු අගෝස්තු මස 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ රථවාහන මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+එමෙන්ම අධිකරණයට ඉදිරිපත් කළ අදාළ රථයේ හිමිකරු රුපියල් ලක්ෂ පහක ශරීර ඇප මත මුදා හැරීමටත් මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+
+බොරැල්ල පොලීසිය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ රථවාහන මහෙස්ත්‍රාත් අධිකරණය විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/06d23186.json)
+
+---
 
 ### நாடு திரும்பினார் நாமல்
 
@@ -1799,23 +1815,5 @@ Janaki Kathriarachchi, an award-winning entrepreneur, delivered the keynote on �
 ...
 
 [Data](articles/5821b795.json)
-
----
-
-### Hayleys Electronics opens smart hub in Nugegoda to drive energy and engineering services
-
-*2025-07-29 04:22:57* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Electronics-opens-smart-hub-in-Nugegoda-to-drive-energy-and-engineering-services/34-779607) · `en`
-
-HEL’s new office now open at No. 311, High Level Road, Gangodawila, Nugegoda
-
-Hayleys Electronics Ltd., (HEL), part of the Projects and Engineering Sector of Hayleys PLC and a pioneer in engineering accessories and services in Sri Lanka for over 90 years, has unveiled a purpose-built flagship centre at No. 311, High Level Road, Gangodawila, Nugegoda.
-
-The new one-stop trading hub brings together HEL’s full portfolio of solar power, smart lighting, air conditioning, and industrial infrastructure solutions under one roof, streamlining service delivery and enabling faster go-to-market capabilities.
-
-The strategic relocation comes at a time when demand for sustainable, high-performance engineering solutions is growing across the residential, commercial, and industrial sectors.
-
-...
-
-[Data](articles/a51492ba.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 12:51:29**
+As of **2025-07-29 13:06:53**
 
 ## Newspaper Stats
 
-*Scraped **67,468** Articles*
+*Scraped **67,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ dailyftlk | 4,768
 adalk | 6,477
 adaderanalk | 8,309
 tamilmirrorlk | 9,774
-virakesarilk | 11,242
+virakesarilk | 11,244
 adaderanasinhalalk | 11,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,468 articles have been extended.
+61,973 (91.9%) of 67,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### யாழில் சகோதரியுடன் வசித்து வந்த சகோதரன் படுகொலை!
+
+*2025-07-29 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221261) · `ta`
+
+யாழில் சகோதரியுடன் வசித்து வந்த சகோதரன் ஒருவர் இரவு படுகொலை செய்யப்பட்டுள்ளதாக யாழ்ப்பாணம் பொலிஸார் தெரிவித்தனர்.
+
+1ஆம் குறுக்குத் தெரு, மணியம் தோட்டம் பகுதியைச் சேர்ந்த 54 வயதுடைய ஒருவரே உயிரிழந்துள்ளார்.
+
+குறித்த நபரும் 56 வயதுடைய சகோதரியும் சம்பவம் இடம்பெற்ற வீட்டில் வசித்து வந்துள்ளனர். இவ்வாறான சூழ்நிலையில் அவர் கொலை செய்யப்பட்டு இன்று செவ்வாய்க்கிழமை (29) காலை சடலமாக கண்டெடுக்கப்பட்டுள்ளார்.
+
+நான் குறி சொல்லும் வேலை செய்து வருகிறேன். இரவு மூவர் வீட்டுக்கு வந்து தண்ணீர் கேட்டனர். அவர்களுக்கு தண்ணீர் எடுப்பதற்காக உள்ளே சென்றவேளை அவர்கள் உள்ளே வந்து என்னை கட்டி போட்டுவிட்டு நகைகளை திருடிச் சென்றுள்ளனர்.
+
+பின்னர் அதிகாலை 3 மணியளவில் நான் கட்டுக்களை அவிழ்த்துவிட்டு வெளியே வந்து பார்த்தவேளை தம்பி சடலமாக காணப்பட்டார் என கூறியுள்ளார்.
+
+இருப்பினும் குறித்த பெண் வழங்கிய வாக்குமூலத்தில் திருப்தியடையாத யாழ்ப்பாணம் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/518166ce.json)
+
+---
 
 ### දොඹකර රියැදුරා අද අධිකරණය හමුවට
 
@@ -169,6 +191,22 @@ US tariffs on Thailand could be announced on Aug 1 or Aug 2, Pichai said.
 ◼️
 
 [Data](articles/7a6b1eb5.json)
+
+---
+
+### இலங்கையுடன் 60 ஆண்டுகளாக இராஜதந்திர உறவுகளை பேணிவருகிறோம் - மாலைதீவு ஜனாதிபதி முகமது முய்சு
+
+*2025-07-29 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/221253) · `ta`
+
+மாலைதீவு இலங்கையுடன் 60 ஆண்டுகள் இராஜதந்திர உறவுகளை பேணிவருவதாக அந்நாட்டு ஜனாதிபதி முகமது முய்சு தெரிவித்துள்ளார்.
+
+ஜனாதிபதி  திசாநாயக்கவையும் அவரது தூதுக்குழுவையும் மாலைதீவிற்கு வரவேற்பது எனக்குக் கிடைத்த  பெரும் மரியாதை மற்றும் பாக்கியம் ஆகும். உங்கள் வருகை நமது நீண்டகால நட்பின் அடையாளம் என்பதோடு நமது பொதுவான நோக்கங்களை மீண்டும் உறுதிப்படுத்துவதோடு நமது இரு நாடுகளுக்கும் இடையிலான பிணைப்புகளை மேலும் வலுப்படுத்த ஒரு வாய்ப்பாகும். மாலைதீவும் இலங்கையும் இந்து சமுத்திரத்தினால் சூழப்பட்ட இரண்டு சகோதர நாடுகள்.
+
+நமது வரலாறு சாட்சியமளிக்கும் விதமாக, நமது புராணக்கதைகள் பின்னிப் பிணைந்துள்ளதோடு பல நூற்றாண்டுகள் பழமையான நட்பை நாம் பகிர்ந்து கொள்கிறோம். ஆறு தசாப்தங்களுக்கு முன்னர் இரு நாடுகளுக்கும் இடையே முறையான இராஜதந்திர உறவுகள் நிறுவப்பட்டதன் மூலம் அந்த நெருங்கிய உறவுகள் மேலும் வளர்ச்சியடைந்தன. 1965  ஜூலை 26 ஆம் திகதி மாலைதீவுடன் இராஜதந்திர உறவுகளை ஏற்படுத்திய முதல் நாடுகளில் இலங்கையும் ஒன்றாகும்.
+
+...
+
+[Data](articles/25b4f6ac.json)
 
 ---
 
@@ -1783,39 +1821,5 @@ Limited seats are available. Register via https://event.chamber.lk/Details/Event
 ...
 
 [Data](articles/c55ce4b2.json)
-
----
-
-### Sri Lanka should stop appeasing Trump
-
-*2025-07-29 01:09:40* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-should-stop-appeasing-Trump/4-779579) · `en`
-
-The Triffin dilemma, identified by economist Robert Triffin, highlights the conflict faced by a country whose currency serves as the global reserve. To meet international demand, it must supply large amounts of its currency, often through trade deficits, which can undermine confidence in its long-term value while conflicting with domestic economic priorities.
-
-The supply of US dollars to the global economy is primarily achieved through international trade, requiring the US to run persistent trade deficits. This structural necessity reflects the Triffin dilemma — a conflict between domestic economic goals and the global demand for the dollar as the world’s reserve currency.
-
-...
-
-[Data](articles/62c21780.json)
-
----
-
-### Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours
-
-*2025-07-29 01:01:01* · [`dailyftlk`](https://www.ft.lk/opinion/Celebrating-500-million-FDI-Drop-in-the-ocean-compared-to-our-neighbours/14-779578) · `en`
-
-The Government initially claimed it had secured $ 3.8 billion in committed FDI. When questioned by MP Harsha de Silva, this figure was quietly revised down to $ 1.8 billion. Now, it claims that Sri Lanka attracted $ 500 million in FDI in the first half of 2025.
-
-While any FDI inflow is welcome for a country emerging from an unprecedented economic crisis, celebrating this modest figure is not only premature — it risks breeding complacency and misjudging the true scale of the challenge ahead. Pity the BOI Chairman does not get this!
-
-A closer look reveals why this figure should not be a source of national pride:
-
-India regularly attracts $ 10–15+ billion per quarter, driven by its massive market, improved infrastructure, and targeted incentives like the Production Linked Incentive (PLI) schemes.
-
-Vietnam brings in $ 5–8 billion per quarter, boosted by global supply chain diversification and a stable, pro-business climate.
-
-...
-
-[Data](articles/a5975501.json)
 
 ---

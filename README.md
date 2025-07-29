@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 18:34:06**
+As of **2025-07-29 19:01:10**
 
 ## Newspaper Stats
 
-*Scraped **67,527** Articles*
+*Scraped **67,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,489
-adaderanalk | 8,315
-tamilmirrorlk | 9,784
-virakesarilk | 11,246
-adaderanasinhalalk | 11,615
+adalk | 6,491
+adaderanalk | 8,325
+tamilmirrorlk | 9,786
+virakesarilk | 11,251
+adaderanasinhalalk | 11,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,527 articles have been extended.
+61,973 (91.7%) of 67,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### தென்னகோன் முன்பிணை மனு; ஓஐசிக்கு நோட்டீஸ்
+
+*2025-07-29 18:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோன்-முன்பிணை-மனு-ஓஐசிக்கு-நோட்டீஸ்/175-361994) · `ta`
+
+ஜனாதிபதி செயலகத்திற்கு முன்பாக ஆர்ப்பாட்டக்காரர்களை கலைத்த சம்பவம் தொடர்பான விசாரணை தொடர்பாக சந்தேக நபராக கைது செய்யப்பட்டால், தனக்கு முன்பிணை வழங்குமாறு கோரி, பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தில் தனது எதிர்பார்க்கப்பட்ட பிணை விண்ணப்பத்தை செவ்வாய்க்கிழமை (29)சமர்ப்பித்தார்.
+
+குற்றப் புலனாய்வுத் துறையின் சிறப்புப் புலனாய்வுப் பிரிவு 03 இன் பொறுப்பதிகாரி, இந்த ஜாமீன் விண்ணப்பத்தை பிரதிவாதியாகச் சமர்ப்பித்தார்.
+
+2022 மே 9 அன்று ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டக்காரர்கள் கலைக்கப்பட்ட சம்பவம் தொடர்பாக உயர் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டு, வழக்கு விசாரிக்கப்பட்டு இறுதி தீர்ப்பு வழங்கப்படுவதற்கு முன்பு கைது செய்யப்படும் அபாயம் இருப்பதால் முன்பிணை வழங்க வேண்டும் என்றும் கோரி இந்த மனு தாக்கல் செய்யப்பட்டது.
+
+இந்த பிணை விண்ணப்பத்தை பரிசீலித்த பின்னர், கோட்டை நீதவான் திருமதி நிலபுலி லங்காபுர, குற்றப் புலனாய்வுத் துறையின் சிறப்பு புலனாய்வுப் பிரிவு 03 இன் OIC க்கு தனது விளக்கத்தை  முன்வைக்க 5 ஆம் திகதி நீதிமன்றத்தில் ஆஜராகுமாறு நோட்டீஸ் அனுப்பினார்
+
+◼️
+
+[Data](articles/806791ba.json)
+
+---
+
+### සර්වජන බලය පලස්තීනය වෙත මානුෂීය සහයෝගිතාවයේ දෑත් දිගු කරයි
+
+*2025-07-29 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212794) · `si`
+
+සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ දිලිත් ජයවීර මහතා ඇතුළු එම පක්ෂයේ නායකයින් පිරිසක් ශ්‍රී ලංකාවේ පලස්තීන තානාපති ඉහාබ් කලීල් මහතා හමුවී තිබේ.
+
+එහිදී, මේ වනවිට දීර්ඝ හා අමානුෂික ගැටුමක් මධ්‍යයේ තවමත් අතිවිශාල දුක් වේදනා විඳ දරාගන්නා පලස්තීනයේ අහිංසක සිවිල් වැසියන් වෙත ශ්‍රී ලාංකික ජනතාව වෙනුවෙන් බලවත් කණගාටුව ප්‍රකාශ කෙරුණි.
+
+◼️
+
+[Data](articles/d10fe6bc.json)
+
+---
+
+### செம்மணி சமூக புதைகுழி இலங்கையில் இனப்படுகொலை நிகழ்ந்துள்ளது என்பதற்கான சாட்சியாகும் - அருட்தந்தை மா.சத்திவேல்
+
+*2025-07-29 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221307) · `ta`
+
+செம்மணி சமூக புதைகுழி இலங்கையில் இனப்படுகொலை நிகழ்ந்துள்ளது என்பதற்கான சாட்சியாகும். பல சான்று பொருட்களும் வெளிவந்திருப்பதன் மூலம் கொடூரமாக கொலை செய்யப்பட்டுள்ளமை தெரியவருகின்றது என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான  அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+
+மண்ணில் பிறந்த அனைத்து உயிரினங்களும் நலமே வாழ வேண்டும் என்பதோடு; இயற்கையும் சுற்றுச்சூழலும் தன் நிலை கெடாத வகையில் மனிதன் வாழ வேண்டும் என்பதே அனைத்து சமயங்களில் போதனையாகும். அதனை காக்கவே புத்தரும், இயேசுவும் நீதி வாழ்வுக்கான அறைகூவல் விடுத்தனர். வலுவான மக்கள் சக்தியையும் உருவாக்கினர்.
+
+ஆனால் அவர்கள் பெயரால் இன்று கட்டியெழுப்பப்பட்டுள்ள சமய நிறுவனங்கள் தான் நிலை பிறழ்ந்து இனவாத நோக்கில் இலங்கையில் செயல்படுவது சமய தர்மத்தையும், நீதியையும், உண்மையும் சமூக புதைகுழிகளுக்குள் தள்ளுவதாகவே தோன்றுகின்றது.
+
+...
+
+[Data](articles/6f713050.json)
+
+---
+
+### பணியின்போதே சுய இன்பம்: 30 நிமிட ‛பிரேக்’குடன் தனி அறை வழங்கிய நிறுவனம்
+
+*2025-07-29 18:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பணியின்போதே-சுய-இன்பம்-30-நிமிட-பிரேக்-குடன்-தனி-அறை-வழங்கிய-நிறுவனம்/50-361993) · `ta`
+
+பணியின்போது தனது ஊழியர்கள் சுயஇன்பம் செய்து கொள்ள தினமும் 30 நிமிடம் பிரேக் வழங்குகிறது.
+
+மேலும் சுயஇன்பத்துக்காக தனி அறையை ஏற்படுத்தி வழங்கி இருப்பது பலருக்கும் வியப்பை ஏற்படுத்தி உள்ளது. இந்நிலையில் தான் அதன் பின்னணி குறித்த முக்கிய தகவல்கள் வெளியாகி உள்ளது.
+
+அரசு மற்றும் தனியார் நிறுவனங்களில் லஞ்ச் பிரேக் இருப்பதை நாம் கேள்வி பட்டு இருப்போம். சில தனியார் நிறுவனங்களில் டீ பிரேக் கூட அதிகாரப்பூர்வமாக வழங்கப்பட்டு வருகிறது. ஆனால் ‛சுயஇன்பம்' செய்து கொள்ள அலுவலகத்தில் 30 நிமிடம் பிரேக் வழங்கப்படுகிறது என்றால் உங்களால் நம்ப முடிகிறதா?
+
+ஆம், நம்பித்தான் ஆக வேண்டும். ஏனென்றால் இது உண்மை. தற்போதும் நடைமுறையில் உள்ளது. இந்த வினோத ‛பிரேக்'கை வழங்கி உள்ள நிறுவனத்தின் பெயர் எரிகா லஸ்ட் பிலிம்ஸ். இந்த நிறுவனம் ஸ்வீடன் தலைநகர் ஸ்டாக்ஹோமை தலைமையிடமாக கொண்டு செயல்பட்டு வருகிறது.
+
+...
+
+[Data](articles/f2cab249.json)
+
+---
 
 ### වසර 4,000ක් පැරණි අත් සලකුණක්
 
@@ -90,6 +156,38 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former Senior DIG Priyantha Jayakody remanded
+
+*2025-07-29 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110973/former-senior-dig-priyantha-jayakody-remanded) · `en`
+
+Former Senior DIG Priyantha Jayakody, who was arrested by the Criminal Investigation Department (CID) for allegedly lodging a false complaint, has been remanded until August 06 by the Mahara Magistrate’s Court.
+
+This order was issued after the retired police officer, who is currently receiving treatment at a private hospital in Ragama, was examined by the Mahara Magistrate.
+
+On July 28, former Senior DIG Priyantha Jayakody was arrested in connection with an incident of allegedly lodging a false complaint claiming that he had received death threats from notorious underworld figure Koralagamage Mandinu Padmasiri, alias ‘Kehelbaddara Padme’.
+
+However, the investigations conducted by the CID have revealed that the act was carried out with the intention of ensuring his personal safety.
+
+...
+
+[Data](articles/5371c81e.json)
+
+---
+
+### දුම්රිය වර්ජනය තාවකාලිකව අත්හිටුවයි
+
+*2025-07-29 17:38:31* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-තාවකාලිකව-අත්හිටුවයි/11-417593) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් අද (29දා) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබූ පැය 48 දුම්රිය රියදුරු වර්ජනය තාවකාලිකව අත්හිටුවා තිබේ.
+
+ප්‍රවාහන අමාත්‍යාංශයේ ලේකම්වරයා සමග අද (29දා) පැවැති සාකච්ඡාවේදී පවතින ගැටලුවලට විසදුම් ලබාදීමට පොරොන්දු වූ බවද, පවතින පරිපාලන ගැටලු ලබන මස 19 වැනි දිනට පෙර විසඳීමටද,  රියදුරන්ගේ ගැටලු හෙට සිට විසඳීමට පොරොන්දු වූ බවද, ලෝකොමෝටිව් ඔපරේටින් ඉංජිනියර්ස් සංගමයේ ප්‍රධාන ලේකම් චන්දන වියන්දූව මහතා පැවසීය.
+
+◼️
+
+[Data](articles/275db4ff.json)
+
+---
+
 ### Maritime security, blue economy discussed during Sri Lanka leader’s Maldives visit
 
 *2025-07-29 17:30:00* · [`economynextcom`](https://economynext.com/maritime-security-blue-economy-discussed-during-sri-lanka-leaders-maldives-visit-233443/) · `en`
@@ -105,6 +203,64 @@ In his remarks, President Dissanayake recalled Sri Lanka’s early support for M
 ...
 
 [Data](articles/05a464df.json)
+
+---
+
+### Palestinian death toll from Israeli military offensive in Gaza surpasses 60,000
+
+*2025-07-29 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110972/palestinian-death-toll-from-israeli-military-offensive-in-gaza-surpasses-60000) · `en`
+
+Israel’s military offensive on the Gaza Strip has killed at least 60,000 Palestinians since Oct. 7, 2023, the enclave’s health ministry said, a conflict that has devastated the coastal territory and triggered a humanitarian crisis.
+
+Most of the Palestinians killed are civilians according to the enclave’s health authorities.
+
+The ministry said on Tuesday that the number of injured is 145,870, while thousands remain missing under the rubble of destroyed buildings and areas.
+
+The war began after Gaza’s dominant Palestinian militant group Hamas carried out a cross-border attack on southern Israel, killing around 1,200 people and taking more than 250 hostages, according to Israeli authorities.
+
+Israel’s subsequent air and ground campaign has leveled entire neighbourhoods in Gaza, displaced most of the population of 2.3 million, and pushed the enclave to the brink of famine, according to the United Nations.
+
+...
+
+[Data](articles/d69ff228.json)
+
+---
+
+### ஸ்பெய்னை பெனல்டிகளில் வீழ்த்தி மகளிர் யூரோ கிண்ண கால்பந்தாட்ட சம்பியன் பட்டத்தை இங்கிலாந்து தக்கவைத்தது
+
+*2025-07-29 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221297) · `ta`
+
+சுவிட்சர்லாந்தின் பசெல், சென். ஜேக்கப் பார்க் விளையாட்டரங்கில் வார இறுதியில் நடைபெற்ற மகளிர் ஐரோப்பிய கிண்ண கால்பந்தாட்ட இறுதிப் போட்டியில் நடப்பு மகளிர் உலக சம்பியன் ஸ்பெய்னை 3 - 1 என்ற பெனல்டி அடிப்படையில் வெற்றிகொண்ட இங்கிலாந்து, 2023இல் வென்ற சம்பியன் பட்டத்தை தக்கவைத்துக்கொண்டது.
+
+இரண்டு அணிகளும் சம அளவில் மோதிக்கொண்ட இந்தப் போட்டியின் 25ஆவது நிமிடத்தில் ஸ்பெய்ன் சார்பாக மரியோனா கெல்டென்டி கோல்போட்டார்.
+
+அந்த சந்தரப்பத்தில் அத்தேனியா டெல் கெஸ்டிலோ பரிமாறிய பந்தை நோக்கி ஓடிய ஓனா பெட்ல், பந்தை நகர்த்திசென்று எதிரணியின் கோல் எல்லையை நோக்கி உயர்வாக  பரிமாறி னார். அந்தப் பந்தை நோக்கி உயரே தாவிய மரியோனா கெல்டென்டி தனது தலையால் பந்தை முட்டி கோலாக்கினார்.
+
+இடைவேளையின்போது ஸ்பெய்ன் 1 - 0 என்ற கோல் அடிப்படையில் முன்னிலையில் இருந்தது.
+
+இடைவேளை முடிந்த பின்னர் ஆட்டம் தொடர்ந்தபோது போட்டியின் 57ஆவது நிமிடத்தில் இங்கிலாந்து சார்பாக கோல் நிலையை அலெசியா ரூசோ சமப்படுத்தினார்.
+
+...
+
+[Data](articles/f31dfbcf.json)
+
+---
+
+### Sri Lanka named Most Beautiful Island in the World 2025
+
+*2025-07-29 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/110971/sri-lanka-named-most-beautiful-island-in-the-world-2025) · `en`
+
+Global travel website ‘Big 7 Travel’ has officially released its annual list of the top 50 best islands in the world and has ranked Sri Lanka in the first spot as ‘The Most Beautiful Island in the World’ for 2025.
+
+With destinations from across the globe, the list celebrates unique island experiences and inspiring places to explore in 2025.
+
+This year’s ranking highlights a mix of trending destinations, remote escapes and iconic favourites. The list is based on aggregated scores from previous media results, contributions from the Big 7 Travel editorial team, destination popularity on social media, and destinations capturing travellers’ attention in 2025.
+
+Sri Lanka has been ranked first in the list followed by Mo’orea of French Polynesia and Yemen’s Socotra. The Portuguese island of Madeira and the The Galapagos of Ecuador round out the top 5 of the list.
+
+...
+
+[Data](articles/9bcdb923.json)
 
 ---
 
@@ -198,6 +354,40 @@ Sri Lanka sold 71 billion rupees in 2030 and 2037 bonds of an offered 122 billio
 
 ---
 
+### ஸ்ரீ ஜயவர்தனபுர வைத்தியசாலையின் தலைவர் இராஜிநாமா
+
+*2025-07-29 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221291) · `ta`
+
+கொழும்பு,  ஸ்ரீ ஜயவர்தனபுர பொது வைத்தியசாலையின் தலைவரும், மகப்பேற்றியல் மற்றும் மகப்பேற்று வைத்திய நிபுணரரான ஜயங்க திலகரத்ன தனது இராஜினாமா கடிதத்தை சுகாதார அமைச்சரிடம் கையளித்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+வைத்திய நிபுணரரான ஜயங்க திலகரத்ன  2024 ஆம் ஆண்டு  ஒக்டோபர் மாதம் தலைவராக நியமிக்கப்பட்டார். அப்போது,  இந்த நியமனம் அரசியல் நோக்கம் கொண்டது என வைத்தியத்துறையினர் விமர்சித்தனர்.
+
+வைத்தியர் திலகரத்ன தம்புள்ளையில் உள்ள மாவட்ட அடிப்படை வைத்தியசாலையில் புதிய மகப்பேறு வைத்தியராக பொறுப்பேற்பார் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/f8de2d0b.json)
+
+---
+
+### Maldivians have looked to Sri Lanka as a second home for generations - President Muizzu
+
+*2025-07-29 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110970/maldivians-have-looked-to-sri-lanka-as-a-second-home-for-generations-president-muizzu) · `en`
+
+At a state dinner held in honour of President Anura Kumara Dissanayake, Maldivian President Dr. Mohamed Muizzu highlighted the significant economic potential of Maldives–Sri Lanka relations.
+
+The event held last evening at the Kurumba Hotel, which marked 60 years of diplomatic ties between the two nations, underscored their shared commitment to promoting inclusive prosperity and sustainable development across the Indian Ocean region.
+
+In his address, President Muizzu emphasised that the historical ties between the two island nations have evolved significantly, moving beyond traditional exchanges of goods like dried fish to encompass modern sectors such as tourism, digital technology, security cooperation and cultural exchange.
+
+This diversification, he noted, reflects “not only the dynamism of our bilateral ties but also our shared ambition to meet the demands of a rapidly changing world.”
+
+...
+
+[Data](articles/8b8197a9.json)
+
+---
+
 ### දේශබන්දුගේ අපේක්ෂිත ඇප ඉල්ලීමට ලැබුණු නියෝගය
 
 *2025-07-29 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212787) · `si`
@@ -256,6 +446,26 @@ Japan’s Nikkei 225 index declined 0.79 percent, or 323.72 points, to 40,674.55
 
 ---
 
+### Railway strike called off
+
+*2025-07-29 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110969/railway-strike-called-off) · `en`
+
+The Locomotive Operating Engineers’ Union has decided to call off the planned 48-hour token strike which was scheduled to be launched from midnight today (29).
+
+The decision has been taken following discussions between trade union representatives and officials including the Secretary to the Ministry of Transport.
+
+The Locomotive Operating Engineers’ Union had previously announced that they will be engaging in 48-hour token strike from midnight today citing several demands.
+
+On July 27, Chairman of the Locomotive Operating Engineers’ Union K.U. Konthasinghe stated that the token strike would be staged on 30 and 31 July if a positive response is not received to the letter submitted to the Ministry of Transport and the Department of Railways on July 22, 2025.
+
+He emphasized that the strike will definitely proceed unless a decisive solution is offered—particularly concerning administrative issues and infrastructure challenges faced by the train drivers.
+
+◼️
+
+[Data](articles/962dc31c.json)
+
+---
+
 ### ජනපති අනුර මාලදිවයින් විදේශ කටයුතු ඇමතිව හමුවෙයි
 
 *2025-07-29 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212786) · `si`
@@ -273,6 +483,20 @@ Japan’s Nikkei 225 index declined 0.79 percent, or 323.72 points, to 40,674.55
 ◼️
 
 [Data](articles/cb042029.json)
+
+---
+
+### හෝටලය තියෙන්නේ වැව් මායිමේ නෙමෙයි, නැති බම්බුවක් කොහොමද අයින් කරන්නේ
+
+*2025-07-29 16:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෝටලය-තියෙන්නේ-වැව්-මායිමේ-නෙමෙයි--නැති-බම්බුවක්-කොහොමද-අයින්-කරන්නේ/11-417590) · `si`
+
+මත භේදයට තුඩු දී ඇති පොලොන්නරුව පරාක්‍රම සමුද්‍ර වැව් තාවුල්ලේ පිහිටා ඇති සුදු අරලිය හෝටලය පිහිටා ඇත්තේ වැව් රක්ෂිතයේ නොවන බවත් එහි ඉවත් කරන්න දෙයක් නොමැති බවත් කෘෂිකර්ම අමාත්‍ය කේ.ඩි. ලාල්කාන්ත මහතා පැවැසීය.
+
+“මම නම් ඩඩ්ලි ගැන කථා කළේ නෑ. ඒත් සමාජය මේ ගැන කථා කරන්න ගත්තාම කියන්න වුණා. කියන්න ඕන් වුණ දේ තමයි අරලිය හෝටලය තියෙන්නේ වැවේ මායිමේ, වැවේ රක්ෂිතයේ නෙමෙයි. ඒකයි කථාව. එතකොට ඒකේ අයින් කරන්න දෙයක් නෑ. දැන් අභියෝග කරනවා පුළුවන් නම් ඒක අයින් කරන්න. නැති බම්බුවක් කොහොමද අපි අයින් කරන්නේ. වැටක් හරි මායිමේ තියෙනවානම් ඒක එතුමා අයින් කර ගනීවි.”
+
+◼️
+
+[Data](articles/20eb0d1f.json)
 
 ---
 
@@ -309,6 +533,62 @@ Japan’s Nikkei 225 index declined 0.79 percent, or 323.72 points, to 40,674.55
 ...
 
 [Data](articles/378d0c26.json)
+
+---
+
+### லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்கு தெரியும் ; இவர்களாவது நீதியை பெற்றுதருவார்கள் என நம்புகின்றேன் - லலித்தின் தந்தை
+
+*2025-07-29 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221282) · `ta`
+
+லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்கு தெரியும் என தெரிவித்துள்ள  லலித்தின்  தந்தை ஆறுமுகம் வீரராஜா லலித்குகனிற்கும் காணாமல்போன ஆயிரக்கணக்கானவர்களிற்கும் இந்த அரசாங்கத்தில் நீதி கிடைக்கும் என எதிர்பார்ப்பதாக தெரிவித்துள்ளார்.
+
+கொழும்பு பொலிஸ்தலைமையகத்திற்கு வாக்குமூலம் வழங்கிய பின்னர் ஊடகங்களிற்கு கருத்து தெரிவிக்கையிலேயே அவர் இதனை தெரிவித்துள்ளார்.
+
+இதிலாவது நல்லது கிடைக்கும் என எதிர்பார்க்கின்றோம். நாளைமறுதினம் வழக்கு உள்ளது வழக்கில் நல்ல முடிவு கிடைக்கும் என்றே எதிர்பார்க்கின்றோம்.
+
+லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்றாக தெரியும், இந்த அரசாங்கத்திலாவது நீதி கிடைக்கவேண்டும்.எனது பிள்ளைக்கும் ஏனையவர்களிற்கும் நீதி கிடைக்குமாக இருந்தான் நான் இந்த அரசாங்கத்திற்கு நன்றி தெரிவிப்பேன்.
+
+◼️
+
+[Data](articles/48034813.json)
+
+---
+
+### மகிஷினி கொலோன்ன இந்திய ஜனாதிபதியிடம்  நற்சான்றிதழ்களை கையளித்தார்
+
+*2025-07-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221284) · `ta`
+
+இந்தியாவுக்கான இலங்கை உயர் ஸ்தானிகராக நியமிக்கப்பட்ட மகிஷினி கொலோன்ன, இன்று செவ்வாய்க்கிழமை (29) இந்திய ஜனாதிபதி திரௌபதி முர்முவிடம் தனது நற்சான்றிதழ்களை கையளித்தார்.
+
+இந்திய ஜனாதிபதியின் உத்தியோகபூர்வ இல்லமான ராஷ்டிரபதி பவனில் நடைபெற்ற நிகழ்வில் அவர் தனது நற்சான்றிதழ்களை கையளித்தார்.
+
+கடந்த மே மாதம் ஜனாதிபதி அநு குமார திசாநாயக்கவால் மகிஷினி கொலோன்ன இந்தப் பதவிக்கு நியமிக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/5b897c2b.json)
+
+---
+
+### Namal returns from Maldives amidst possible arrest
+
+*2025-07-29 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110968/namal-returns-from-maldives-amidst-possible-arrest) · `en`
+
+SLPP Member of Parliament Namal Rajapaksa had arrived at the Bandaranaike International Airport (BIA) in Katunayake this afternoon (29), concluding his visit to the Maldives.
+
+According to Ada Derana reporter, several attorneys and a group of political supporters were seen gathered at the BIA premises awaiting his arrival.
+
+They had gathered at the BIA following reports of possible attempts to arrest Namal Rajapaksa upon arrival at the BIA, pursuant to a warrant issued by the Hambantota Magistrate’s Court.
+
+In this context, Rajapaksa had reached the BIA on board SriLankan Airlines flight UL 102 from Malé, Maldives, at around 11.30 a.m. today (29).
+
+He had later exited the airport via the Silk Route Lounge at around 12.30 p.m.
+
+A case has been filed against MP Namal Rajapaksa and several others for allegedly disregarding court orders during a protest in 2017 against the transfer of the Hambantota Port to foreign companies.
+
+...
+
+[Data](articles/e7d3498e.json)
 
 ---
 
@@ -385,6 +665,24 @@ ECONOMYNEXT – Sri Lanka has sold 71 billion rupees in 2030 and 2037 bonds, of 
 ◼️
 
 [Data](articles/ccca2a46.json)
+
+---
+
+### Steps taken to enhance language skills and training of Sri Lankans seeking jobs in Japan
+
+*2025-07-29 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110967/steps-taken-to-enhance-language-skills-and-training-of-sri-lankans-seeking-jobs-in-japan) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has taken necessary steps to improve the standards of Sri Lankan job seekers heading to Japan by enhancing their language skills and training.
+
+The General Manager of the Sri Lanka Bureau of Foreign Employment (SLBFE), D.D.P. Senanayake, stated that the Bureau is actively working towards this goal.
+
+He made these remarks during a meeting held yesterday (28) with the Chairman of IM Japan, Hiroshi Kimura, and its Managing Director, Masahiko Fukasawa, who are currently visiting Sri Lanka and met with the senior management of the SLBFE.
+
+The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in Japan’s nursing sector and emphasized the need to increase the number of nursing trainees. He also suggested establishing a training pool to support this initiative.
+
+...
+
+[Data](articles/5a644883.json)
 
 ---
 
@@ -564,6 +862,24 @@ Both nations are keen to seize the current momentum to collaborate more closely 
 
 ---
 
+### Sri Lankan High Commissioner Mahishini Colonne presents credentials to Indian President
+
+*2025-07-29 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/110966/sri-lankan-high-commissioner-mahishini-colonne-presents-credentials-to-indian-president) · `en`
+
+High Commissioner of Sri Lanka to India Mahishini Colonne has presented her credentials to the President of India, Smt Droupadi Murmu.
+
+The Indian President accepted credentials from the High Commissioner at a ceremony held at Rashtrapati Bhavan today (29).
+
+Mahishini Colonne was appointed the Sri Lankan High Commissioner to India after the appointment was ratified by the Constitutional Council.
+
+Mahishini Colonne was also the Deputy High Commissioner to India from 2011 to 2014.
+
+◼️
+
+[Data](articles/756598f7.json)
+
+---
+
 ### கால்களை சுக்குநூறாக்கிய பாரந்தூக்கி சாரதிக்கு விளக்கமறியல்
 
 *2025-07-29 14:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்களை-சுக்குநூறாக்கிய-பாரந்தூக்கி-சாரதிக்கு-விளக்கமறியல்/175-361982) · `ta`
@@ -695,6 +1011,52 @@ Both nations are keen to seize the current momentum to collaborate more closely 
 ◼️
 
 [Data](articles/9bee8826.json)
+
+---
+
+### Sri Lanka and Maldives will advance as partners united by common vision: President AKD
+
+*2025-07-29 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/110965/sri-lanka-and-maldives-will-advance-as-partners-united-by-common-vision-president-akd) · `en`
+
+President Anura Kumara Dissanayake has affirmed that Sri Lanka and the Maldives will not only remain close friends but will also advance as partners united by a common vision and purpose.
+
+President Dissanayake made these remarks after attending a special dinner hosted by Maldivian President Dr. Mohamed Muizzu at the Kurumba Maldives resort, the President’s Media Division stated.
+
+The President Dissanayake expressed his delight at visiting the beautiful Maldives, a long-standing close friend and regional partner of Sri Lanka and recalled the profound friendship and historical ties between the two nations, the PMD added.
+
+Speaking further at the event, President Anura Kumara Dissanayake stated:
+
+“I consider it a great honour to visit the beautiful Maldives, a nation that has maintained long-standing relations with us as a close friend and partner of Sri Lanka.
+
+...
+
+[Data](articles/574f395c.json)
+
+---
+
+### China offers parents $1,500 in bid to boost births
+
+*2025-07-29 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/110964/china-offers-parents-1500-in-bid-to-boost-births) · `en`
+
+Parents in China are being offered 3,600 yuan (£375; $500) a year for each of their children under the age of three in the government’s first nationwide subsidy aimed at boosting birth rates.
+
+The country’s birth rate has been falling, even after the ruling Communist Party abolished its controversial one-child policy almost a decade ago.
+
+The handouts will help around 20 million families with the cost of raising children, according to state media.
+
+Several provinces across China have piloted some form of payouts to encourage people to have more children as the world’s second largest economy faces a looming demographic crisis.
+
+The scheme, which was announced on Monday, will offer parents a total of up to 10,800 yuan per child.
+
+The policy will be applied retroactively from the start of this year, Beijing’s state broadcaster CCTV said.
+
+Families with children born between 2022 and 2024 can also apply for partial subsidies.
+
+The move follows efforts by local governments to boost birth rates in China.
+
+...
+
+[Data](articles/f5987935.json)
 
 ---
 
@@ -1507,359 +1869,5 @@ Although several aftershocks were reported following the earthquake, Weerakoon f
 ◼️
 
 [Data](articles/97251b1a.json)
-
----
-
-### රන් අලේපිත ගිනිඅවිය ගැන ගල්කිස්ස අධිකරණයෙන් දුමින්දට දුන් තීන්දුව
-
-*2025-07-29 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212767) · `si`
-
-රන් ආලේපිත ටී 56 වර්ගයේ ගිනිඅවියේ හිමිකාරීත්වය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව අත්අඩංගුවට ගෙන ඇප මත මුදා හැර සිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා එම නඩුවෙන් මුදා හැරීමට ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-ඒ මීට අදාළ නඩුව අද (29) ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයේදී කැඳවූ අවස්ථාවේදී වන අතර එහිදී මෙම නඩුවට අදාළව සෘජු හා පරිවේෂණීය සාක්ෂි නොමැති වීම හේතුවෙන් හිටපු මන්ත්‍රීවරයා මුදා හරින බවයි ගල්කිස්ස මහෙස්ත්‍රාත් චතුරිකා ද සිල්වා මහත්මිය නියෝග කර ඇත.
-
-හැව්ලොක් සිටි සුපිරි නිවාස සංකීර්ණයෙන් හමුවූ රන් ආලේපිත ටී 56 වර්ගයේ ගිනි අවියේ හිමිකාරිත්වය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයා පසුගිය මැයි මස 23 වැනි දින අත්අඩංගුවට ගනු ලැබූ අතර පසුව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගත කිරීමටද නියෝග කෙරුණි.
-
-පසුව ඔහු විසින් ඉදිරිපත් කර තිබූ ඇප ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව පසුගිය 14 වැනි දින ඇප කොන්දේසි මත නිදහස් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/2171f70f.json)
-
----
-
-### டிக்டோக் காதலனுக்கு வீட்டில் களவாடிய காதலி கைது
-
-*2025-07-29 11:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்டோக்-காதலனுக்கு-வீட்டில்-களவாடிய-காதலி-கைது/175-361959) · `ta`
-
-யாழ்ப்பாணத்தை சேர்ந்த டிக்டோக் பிரபலங்களில் ஒருவரான தனது காதலனுக்கு மோட்டார் சைக்கிள் வாங்க வீட்டில் நகைகளை களவாடிய யுவதி உள்ளிட்ட ஏழு பேரை சாவகச்சேரி பொலிஸார்   திங்கட்கிழமை  (28)கைது செய்துள்ளனர்.
-
-யாழ்ப்பாணத்தை சேர்ந்த இளைஞர் ஒருவர் டிக்டோக் சமூக வலைத்தளங்களில் தனது காணொளிகளை பதிவேற்றி பிரபலமானவராக தன்னை காட்டிக் கொண்டு வந்துள்ளார்.
-
-குறித்த இளைஞனுடன் டிக்டோக் மூலம் அறிமுகமான சாவகச்சேரி பகுதியை சேர்ந்த யுவதி , அவரை காதலித்து வந்துள்ளார்.
-
-இந்நிலையில் தனது காதலனுக்கு , அதிநவீன மோட்டார் சைக்கிள் ஒன்றை கொள்வனவு செய்வதற்காகவும் , காதலன் சொகுசு வாழ்க்கை வாழ்வதற்காவும் , தனது வீட்டில் இருந்து சுமார் 19 பவுண் நகையை களவெடுத்து , அதை காதலனிடம் கொடுத்துள்ளார்.
-
-வீட்டில் இருந்த நகைகள் காணாமல் போனமை தொடர்பில், யுவதியின் பெற்றோர் சாவகச்சேரி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
-
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் , யுவதி மீது சந்தேகம் கொண்டு அவரிடம் விசாரணைகளை முன்னெடுத்த போது, வீட்டில் இருந்த நகைகளை தான் களவெடுத்து காதலனுக்கு வழங்கியதை ஒப்புக்கொண்டுள்ளார்.
-
-...
-
-[Data](articles/b07f59ba.json)
-
----
-
-### மோட்டார் சைக்கிளின் பதிவுச் சான்றிதழை அதிகாரபூர்வமாக மாற்றுவற்கு இலஞ்சம் கோரிய இடைத்தரகர் கைது
-
-*2025-07-29 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221240) · `ta`
-
-மோட்டார் சைக்கிளின் பதிவுச் சான்றிதழை அதிகாரபூர்வமாக மாற்றுவற்கு இலஞ்சம் கோரிய இடைத்தரகர் ஒருவர் நாரஹென்பிட்டியில் உள்ள மோட்டார் வாகன போக்குவரத்துத் திணைக்களத்திற்கு அருகில் வைத்து இலஞ்சம் மற்றும்  ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் கைதுசெய்யப்பட்டுள்ளார்.
-
-இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளுக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர் கைதுசெய்யப்பட்டுள்ளார்.
-
-சந்தேக நபர் மோட்டார் சைக்கிளின் பதிவுச் சான்றிதழை அதிகாரபூர்வமாக மாற்றுவதற்காக நபரொருவரிடம் 30 ஆயிரம் ரூபா பணத்தை இலஞ்சமாக கோரியுள்ளார்.
-
-பின்னர் இலஞ்சமாக கோரிய தொகையில் 10 ஆயிரம் ரூபா பணத்தை நாரஹென்பிட்டியில் உள்ள மோட்டார் வாகன  போக்குவரத்துத் திணைக்களத்திற்கு அருகில் உள்ள கடை ஒன்றில் வைத்து பெற்றுக்கொள்ள முயன்ற போது கைதுசெய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு நீதவான்  நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளதாக இலஞ்சம் மற்றும்  ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/7a90fffe.json)
-
----
-
-### පොලොන්නරුවේ වී මිල රු. 90ට බසී
-
-*2025-07-29 11:01:41* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවේ-වී-මිල-රු--90ට-බසී/11-417577) · `si`
-
-මෙවර යල කන්නයේ පොළොන්නරුව ඇතුළු මහවැලි බී කලාපයේ බොහෝ ප්‍රදේශවල වී අස්වනු නෙලීම් කටයුතු ආරම්භ කල ද රජය මෙතෙක් වී මිලදී ගැනීමේ වැඩපිළිවෙළ ක්‍රියාත්මක නොකිරීම නිසා, පොළොන්නරුවේ මහා පරිමාණ වී මෝල් හිමිකරුවන් තමන්ගේ වී කිලෝවක් රුපියල් 90 ක් වැනි අඩු මිලකට මිලදී ගැනීමේ කූට ව්‍යාපාරය ආරම්භ කර ඇති බව මහවැලි බි කළාපයේ ගොවීන් පවසති.
-
-මේ වනවිට පොළොන්නරුවේ මහා පරිමාණ වී මෝල් හිමිකරුවන් අමුවෙන් නාඩු වී කිලෝවක් රුපියල් අනුවකට සහ වේලපු වී කිලෝවක් රුපියල් 120 ක් වැනි මිලකට ලබා ගනිමින් පවතින අතර සම්බා වී මිලද ඊට සාපේක්ෂව පහල බැස ඇති බව ගොවි සංවිධාන නියෝජිතයින් සහ ගොවීන් සඳහන් කරති.
-
-රජය අමු වී කිලෝවක් සඳහා රුපියල් 102 ක මිලක් නියම කළද මේ වනවිට මහවැලි බි කලාපයේ වී අලෙවි මණ්ඩලයට අයත් සියලු වී ගබඩා වසා ඇති අතර කිසිදු ස්ථානයක ගොවීන්ගේ වී මිලදී ගැනීමක් සිදු නොවන බවද ගොවීන් චෝදනා කරති.
-
-...
-
-[Data](articles/4c43c048.json)
-
----
-
-### Duminda Dissanayake released from ‘gold-plated’ T-56 firearm case due to lack of evidence
-
-*2025-07-29 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/110953/duminda-dissanayake-released-from-gold-plated-t-56-firearm-case-due-to-lack-of-evidence) · `en`
-
-The Mount Lavinia Magistrate’s Court today (29) ordered the release of former Minister Duminda Dissanayake from the case filed over the discovery of a gold-plated T-56 firearm at an apartment complex in Havelock Town, citing lack of evidence.
-
-During court proceedings, Magistrate Chathurika de Silva ordered the release of former Minister Dissanayake due to the absence of direct and circumstantial evidence related to the case.
-
-The former Minister was taken into custody on 23 May in connection with investigations regarding ownership of a gold-plated T-56 type firearm found at a housing complex in Havelock Town.
-
-The gold-plated T-56 assault rifle was discovered inside a woman’s travel bag at the apartment complex.
-
-After being presented before the Mount Lavinia Magistrate’s Court, Duminda Dissanayake was ordered to be remanded.
-
-Later, after considering a bail request submitted by him, he was released on bail under strict conditions on 14 July.
-
-◼️
-
-[Data](articles/853a27f5.json)
-
----
-
-### ஏமனில் கேரள நர்ஸ் நிமிஷாவின் மரண தண்டனை ‘ரத்து’
-
-*2025-07-29 10:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏமனில்-கேரள-நர்ஸ்-நிமிஷாவின்-மரண-தண்டனை-ரத்து/175-361957) · `ta`
-
-ஏமன் நாட்டில் கேரள மாநில செவிலியர் நிமிஷா பிரியாவுக்கு விதிக்கப்பட்ட மரண தண்டனை ரத்து செய்யப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது. இதனை கேரளா​வின் இஸ்​லாமிய மதத் தலை​வர் அபுபக்​கர் முஸ்​லி​யாரின் ‘கிராண்ட் முப்தி’ அலுவலகம் உறுதிப்படுத்தியுள்ளது.
-
-செவிலியர் நிமிஷா பிரியா விவகாரத்தில் அபுபக்​கர் முஸ்​லி​யார் மத்​தி​யஸ்​தம் மேற்கொண்டார் என்பது குறிப்பிடத்தக்கது. அதேவேளையில், இந்திய அரசு தரப்பில் நிமிஷாவின் விவகாரத்தை கவனித்து வரும் அதிகாரிகள், மரண தண்டனை ரத்து குறித்து இன்னும் உறுதி செய்யவில்லை.
-
-அபுபக்​கர் முஸ்​லி​யார் கோரிக்கையை ஏற்று ஏமன் நாட்டை சேர்ந்த மதகுரு ஹபீப் உமர் பின் ஹபீஸ், நிமிஷாவின் விவகாரத்தில் இரு தரப்புக்கும் இடையில் பேச்சுவார்த்தை நடத்தவும், தண்டனையை பரிசீலிக்கவும் வல்லுநர் குழுவை அமைத்தார். இந்த பேச்சுவார்த்தை மற்றும் தண்டனை பரிசீலனையில் ஏற்பட்ட இறுதி உடன்பாட்டின்படி நிமிஷாவின் மரண தண்டனை தற்போது ரத்து செய்யப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
-
-...
-
-[Data](articles/3bf72002.json)
-
----
-
-### ඉන්දියන් සාගරයේ සිදුවු භූකම්පනයෙන් ලංකාවට බලපෑමක් නෑ
-
-*2025-07-29 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212766) · `si`
-
-අද (29) උදෑසන අන්දමන් සහ නිකොබාර් දුපත් ආසන්නයේ බොංගාල බොක්කෙහි රික්ටර් පරිමාණ 6.3ක භූකම්පනයක් ඇති වුණි.
-
-ඉන්දියාවේ ජාතික භූ කම්පන විද්‍යා මධ්‍යස්ථානයට අනුව, භූකම්පනයේ ගැඹුර කිලෝමීටර 10ක් විය.
-
-එම භූකම්පනයෙන් පසුව ප්‍රබල පසු කම්පන කිහිපයක් වාර්තා වී ඇති අතර, කිසිදු දේපොළ හෝ ජීවිත හානියක් වාර්තා වී නොමැත.
-
-මේ සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් භූවිද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්, දීපානි වීරකෝන් මහත්මිය සඳහන් කළේ, ශ්‍රී ලංකාවට ඉන් බලපෑමක් නොමැති බවය.
-
-ලංකාවට කිලෝමීටර් 260කට ආසන්නයේ මෙම භූකම්පනය හට ගෙන ඇති අතර, එහි ප්‍රබලත්වය ලංකාවේ රික්ටර් පරිමාණ 6.6 ලෙස සටහන්ව ඇතැයි ද ඇය පැවසීය.
-
-මෙම භූකම්පනයෙන් පසුව පසු කම්පන කිහිපයක් වාර්තා වී ඇති නමුත් ඒ සම්බන්ධයෙන් ද මෙරට ජනතාව අනිසි බියක් ඇති කරගත යුතු නොවන බව දීපානි වීරකෝන් මහත්මිය වැඩිදුරටත් කියා සිටියාය.
-
-◼️
-
-[Data](articles/89f45689.json)
-
----
-
-### SLT-MOBITEL, IESL உடன் நீண்டகால பங்காண்மையின் புதிய உத்தியோகபூர்வ ஆரம்பம்
-
-*2025-07-29 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221244) · `ta`
-
-தேசிய தகவல் தொடர்பாடல் தொழினுட்ப தீர்வுகள் வழங்குனரான SLT-MOBITEL, அண்மையில் ஏற்பாடு செய்யப்பட்டிருந்த Techno 2025 நிகழ்வில், இலங்கை பொறியியலாளர் நிறுவகத்துடன் (IESL) மீண்டும் கைகோர்த்திருந்தது. ‘Engineering for a Smart Nation,’ எனும் தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த நிகழ்வு, டிஜிட்டல் உள்ளடக்கம் மற்றும் இலங்கையின் எதிர்காலத்தை தயார்ப்படுத்தும் புத்தாக்கமான பொறியியல் மற்றும் தொழினுட்ப புத்தாக்கங்களை வெளிப்படுத்தும் வகையில், முன்னணி கண்காட்சியாக அமைந்திருந்தது.
-
-உத்தியோகபூர்வ அறிமுக நிகழ்வில், SLT-MOBITEL Group பிரதம நிறைவேற்று அதிகாரி ஜனக அபேசிங்க, நிகழ்வின் ஏற்பாட்டாளர்களான IESL இடம் அனுசரணை காசோலையை கையளித்திருந்தார். அந்நிகழ்வில் SLT-MOBITEL இன் பிரதம சந்தைப்படுத்தல் அதிகாரி பிரபாத் தஹநாயக்கவும் இணைந்தார்.
-
-...
-
-[Data](articles/488ea694.json)
-
----
-
-### පසුගිය පැය 24දී සිදු වූ විශේෂ අත්අඩංගුවට ගැනීම් පිළිබඳ නිවේදනයක්
-
-*2025-07-29 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212765) · `si`
-
-පසුගිය මාස කිහිපය තුළදී සංවිධානාත්මක අපරාධකරුවන් මෙන්ම විවිධ අපරාධවල නිරත වූ සහ ඊට ආධාර අනුබල දුන් පුද්ගලයන්ද ඔවුන්ගේ තරාතිරම නොබලා අත්අඩංගුවට ගනිමින් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කර ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශය පවසයි.
-
-රටෙහි නීතිය හා සාමය ස්ථාපනය කිරීමේ අරමුණින් සිදු කරන මෙම අත්අඩංගුවට ගැනීම්වලට අදාළ සුවිශේෂි අත්අඩංගුවට ගැනීම් කිහිපයක් ඊයේ (28) දිනය තුළදී සිදු කිරීමට ශ්‍රී ලංකා පොලීසිය සමත්ව ඇත.
-
-ඒ අනුව හිටපු නාවික හමුදාපතිවරයෙකු වන නිශාන්ත උළුගේතැන්න යන අය පුද්ගල අතුරුදන්වීමක් සම්බන්ධයෙන් සිදුකරන විමර්ෂණවලට අදාළව 2025-07-28 වන දින අපරාද පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
-
-ඔහුව පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළැඹෙන 30 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කොට තිබේ.
-
-එමෙන්ම විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයෙකු වන ප්‍රියන්ත ජයකොඩි යන අය ඊයේ (28) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවට පත් විය.
-
-...
-
-[Data](articles/7ff8551e.json)
-
----
-
-### 18 devotees killed in bus-truck collision in India’s Jharkhand
-
-*2025-07-29 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/110952/18-devotees-killed-in-bus-truck-collision-in-indias-jharkhand) · `en`
-
-At least 18 devotees have been killed and several others injured after a bus they were travelling in collided with a truck loaded with cooking gas cylinders in India’s Jharkhand.
-
-The incident occurred at around 4:30 a.m. during the ongoing Shravani Mela, a time when thousands of devotees travel to offer sacred water at the Baba Baidyanath Dham temple.
-
-Several devotees were trapped inside the mangled remains of the vehicle, prompting an immediate response from the police, ambulance services, and the National Disaster Response Force (NDRF), who worked together to extract the injured and retrieve the bodies.
-
-The injured were rushed to nearby primary health centres and Deoghar Sadar Hospital.
-
-Authorities stated that the condition of some was critical. The identities of the victims are currently being verified, and the bodies are being sent for post-mortem examinations.
-
-◼️
-
-[Data](articles/c64f6f41.json)
-
----
-
-### நியூயோர்க் துப்பாக்கிச் சூடு: உயிரிழந்தவர்களின் எண்ணிக்கை 5 ஆக அதிகரப்பு
-
-*2025-07-29 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221237) · `ta`
-
-அமெரிக்காவின் மிகப்பெரிய நகரங்களில் ஒன்றான நியூயோர்க்கில் மத்திய மன்ஹாட்டனில் திங்கட்கிழமை நடந்த துப்பாக்கிச் சூட்டில் பொலிஸ் அதிகாரி உட்பட ஐந்து பேர் உயிரிழந்துள்ளார்கள்.
-
-44 மாடி கொண்ட வணிக வளாகம் ஒன்றில் இந்த துப்பாக்கிச்சூட்டு சம்பவம் இடம்பெற்றுள்ளது. இந்தப் பகுதியில் பல ஐந்து நட்சத்திர வணிக ஹோட்டல்கள், கோல்கேட் - பால்மோலிவ் மற்றும் தணிக்கை நிறுவனமான கேபிஎம்ஜி உள்ளிட்ட பல நிறுவன தலைமையகங்கள் உள்ளன.
-
-லாஸ் வேகாஸைச்  சேர்ந்த 27 வயதான நபரே துப்பாக்கிச் சூடு நடத்தியதாக அடையாளம் காணப்பட்டுள்ளார்.
-
-வணிக வளாகத்திற்கு  நுழைந்து வலதுபுறம் திரும்பி, அதிரடியாக  பொலிஸ் அதிகாரி மீது துப்பாக்கிச் சூடு நடத்தியுள்ளார்.
-
-பின்னர் அந்த நபர் தரை தளத்தில் பெண்ணொருவர் மற்றும் பாதுகாப்பு அதிகாரி ஒருவர் உட்பட இரண்டு பேரை சுட்டுக் கொன்றுள்ளார்.
-
-பின்னர் 33 வது மாடிக்குச் சென்று, அங்கு நபரொருவரை சுட்டுக் கொன்றுள்ளார். மற்றொரு நபர் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/308aba77.json)
-
----
-
-### ஆண் சிறுத்தை சடலமாக மீட்பு
-
-*2025-07-29 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221245) · `ta`
-
-மத்திய மாகாணத்தில் கட்டுகித்துல பகுதியில் ஒரு வயதான ஆண் சிறுத்தை ஒன்று சடலமாக  மீட்கப்பட்டுள்ளதாக லியோபோகான் ஸ்ரீலங்கா அமைப்பு தெரிவித்துள்ளது.
-
-ஹக்க பட்டாஸ் வெடித்து சிறுத்தை உயிரிழந்திருக்கலாம் என சந்தேகிப்பதாக அந்த அமைப்பு தெரிவித்துள்ளது.
-
-வனஜீவராசிகள் பாதுகாப்ப திணைக்களம் சடலத்தை கொண்டு சென்றுள்ளதாகவும், விசாரணைகள் தொடர்ந்து நடைபெற்று வருவதாகவும் லியோபோகான் ஸ்ரீலங்கா அமைப்பு மேலும் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/33d47d26.json)
-
----
-
-### ஒஸ்கார் விருதுபெற்ற பாலஸ்தீனியர்கள் பற்றிய திரைப்படத்தை உருவாக்குவதற்கு உதவிய பாலஸ்தீனியர் யூதகுடியேற்றவாசியால் சுட்டுக்கொலை-இஸ்ரேல் இப்படித்தான் எங்களை அழிக்கின்றது - ஒவ்வொருவராக - நண்பர் கருத்து
-
-*2025-07-29 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/221243) · `ta`
-
-ஒஸ்கார் விருது பெற்ற பாலஸ்தீனியர்களை பற்றிய குறுந்திரைப்படத்தை உருவாக்குவதில் இணைந்து பணியாற்றிய பாலஸ்தீனர் ஒருவர் மேற்கு கரையில் யூதகுடியேற்றவாசிகளால் கொல்லப்பட்டுள்ளார்.
-
-பாலஸ்தீன செயற்பாட்டாளரும் ஆசிரியருமான ஒடே முகமத் ஹடாலின் ஆக்கிரமிக்கப்பட்ட மேற்குகரையில் உள்ள கிராமமொன்றில் இஸ்ரேலிய குடியேற்றவாசியொருவரால் சுட்டுக்கொல்லப்பட்டுள்ளார்
-
-ஹடாலின் தனது செயற்பாடுகளால் மிகவும் பிரசித்தமானவர்.மசெவெர் யட்டாவில் உள்ள பாலஸ்தீனியர்கள் மீது இஸ்ரேலிய படையினரும் யூதகுடியேற்றவாசிகளும் மேற்கொள்ளும் தாக்குதல்களை விபரிக்கும் ஒஸ்கார் விருதுபெற்ற நோ அதர் லாண்ட் திரைப்படத்தை உருவாக்குவதற்கு இவர் பெரும் பங்களிப்பை வழங்கியிருந்தார்.
-
-ஹெப்ரோனிற்கு அருகில் உள்ள உம் அல் கெய்ர் பாலஸ்தீனிய கிராமத்தின் மீது யூதகுடியேற்றவாசிகள் மேற்கொண்ட தாக்குதலின் போது இவர் கொல்லப்பட்டார் என பாலஸ்தீன அதிகார சபையின் கல்வியமைச்சு சமூக ஊடகத்தில் பதிவிட்டுள்ளது.
-
-இன்றுகாலை எனது நண்பர் அவ்டா படுகொலை செய்ய்பட்டார் என பாலஸ்தீன பத்திரிகையாளர் பசெல் அட்ரா சமூக ஊடகத்தில் பதிவிட்டுள்ளார்.
-
-...
-
-[Data](articles/c889cff1.json)
-
----
-
-### நல்லூர் கந்தசுவாமி ஆலயத்தின் வருடாந்த மகோற்சவ பெருவிழா ஆரம்பம்
-
-*2025-07-29 10:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தசுவாமி-ஆலயத்தின்-வருடாந்த-மகோற்சவ-பெருவிழா-ஆரம்பம்/175-361956) · `ta`
-
-வரலாற்றுச் சிறப்புமிக்க யாழ்ப்பாணம் நல்லூர் கந்தசுவாமி கோவிலின் கொடியேற்றம் இன்று ஏராளமான மக்கள் கூட்டத்துடன் ஆரம்பம் ஆகியுள்ளது.
-
-நல்லூர் ஆலயக் கொடியேற்றத்திற்கான கொடிச்சீலையானது செங்குந்தர் பரம்பரையினரால் நல்லூர் கந்தசுவாமி கோவில் ஆலயத்தில் ஒப்படைக்கப்படுவது வழக்கமாகும். அதன்படி நேற்றும் விஷேட பூஜை வழிபாடுகள் நடைபெற்றது.
-
-அதாவது, சட்டநாதர் சிவன் ஆலயத்திற்கு அருகில் உள்ள வேல் மடம் முருகன் ஆலயத்தில் நடைபெற்ற இந்த பூஜையில் கொடிச்சீலை எடுத்துச் செல்லப்பட்டு ஆலயத்தை சென்றடைந்தது. R
-
-◼️
-
-[Data](articles/8fe4de9e.json)
-
----
-
-### මෑන්හැටන් වෙඩි තැබීමෙන් 4ක් මරුට, වෙඩික්කරුත් දිවි නසාගෙන
-
-*2025-07-29 10:27:37* · [`adalk`](https://www.ada.lk/international/මෑන්හැටන්-වෙඩි-තැබීමෙන්-4ක්-මරුට--වෙඩික්කරුත්-දිවි-නසාගෙන/3-417576) · `si`
-
-ඇමෙරිකාවේ මෑන් හැටන්හි ගොඩනැගිල්ලක් තුළ සිදුකළ විවෘත වෙඩි තැබීමකින් පුද්ගලයන් සිව් දෙනෙකු මියගොස් ඇති අතර මිය ගිය අතර පොලිස් නිධාරියෙකුද සිටින බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-වෙඩි තැබීමට සම්බන්ධ සැකකරු වන 27 හැවිරිදි ෂේන් ඩෙවොන් තමුරා ලෙසින් හඳුනාගෙන ඇති අතර පසුව ඔහුගේ මළ සිරුරද සොයාගෙන තිබේ. සැකකරු ලාස් වේගාස් සිට පැමිණි ඇති බවට  පොලිසිය පවසන නමුත් මෙම ඝාතන කුමක් හේතුවෙන් සිදුකළාද යන්න පැහැදිලි නිවෙන බවද කියයි.
-
-සැකකරු පැමිණි මෝටර් රථයේ තවත් පතොරම් තිබී ඇත. මියගිය පොලිස් නිලධාරියා නිව්යෝර්ක් නගරයේ ජීවත්වන අතර ඔහුගේ බිරිඳ තම තුන්වන දරුවා ලැබීමට සූදානම්ව සිටියි.
-
-ඇමරිකා එක්සත් ජනපදයේ වඩාත්ම ජනාකීර්ණ නගරයක් මධ්‍යයේ මෙම විවෘත වෙඩි තැබීම  සිදු කර තිබේ.
-
-◼️
-
-[Data](articles/0fbe7d98.json)
-
----
-
-### Thissa Kuttiarachchi expresses regret, retracts claims against President AKD after defamation case
-
-*2025-07-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110951/thissa-kuttiarachchi-expresses-regret-retracts-claims-against-president-akd-afterdefamationcase) · `en`
-
-Former Member of Parliament Thissa Kuttiarachchi today informed the Colombo District Court that he unconditionally apologized for the statement he made pertaining to President Anura Kumara Dissanayake.
-
-This announcement was made through his legal representatives during the court proceedings today in relation to a lawsuit filed by President Anura Kumara Dissanayake, who demanded Rs. 10 billion in damages for defamation.
-
-Subsequently, with the agreement of both parties, the case was settled amicably.
-
-◼️
-
-[Data](articles/7659dea1.json)
-
----
-
-### Thissa Kuttiarachchi expresses regret, retracts claims against President AKD after defamation case
-
-*2025-07-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/110951/thissa-kuttiarachchi-expresses-regret-retracts-claims-against-president-akd-after-defamation-case) · `en`
-
-Former Member of Parliament Thissa Kuttiarachchi today informed the Colombo District Court that he unconditionally regrets the statement he made pertaining to President Anura Kumara Dissanayake.
-
-This announcement was made through his legal representatives during the court proceedings today in relation to a lawsuit filed by President Anura Kumara Dissanayake, who demanded Rs. 10 billion in damages for defamation.
-
-Subsequently, with the agreement of both parties, the case was settled amicably.
-
-◼️
-
-[Data](articles/bac4b1b6.json)
-
----
-
-### ජනපති සම්බන්ධයෙන් කළ ප්‍රකාශයට තිසකුට්ටි අධිකරණය හමුවේ කනගාටුව පළ කරයි
-
-*2025-07-29 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212764) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සම්බන්ධයෙන් තමන් සිදුකළ ප්‍රකාශය පිළිබඳව කොන්දේසි විරහිතව කනගාටුව පළ කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිසකුට්ටි ආරච්චි මහතා අද (29) කොළඹ දිසා අධිකරණය හමුවේ දැනුම් දුන්නේය.
-
-තමන්ට සිදු කළ අපහාසය වෙනුවෙන් රුපියල් බිලියන දහයක වන්දියක් අය කර දෙන ලෙස ඉල්ලා අනුර කුමාර දිසානායක මහතා විසින් ගොනුකර තිබූ නඩුවක් අද කොළඹ දිසා අධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී අධිකරණය හමුවේ පෙනී සිටි තිසකුට්ටි ආරච්චි මහතා සිය නීතිඥවරු මාර්ගයෙන් මෙම දැනුම්දීම සිදුකළේය.
-
-◼️
-
-[Data](articles/06dccc0c.json)
-
----
-
-### දළඳා පෙරහර වෙනුවෙන් විශේෂ දුම්රිය යොදවයි
-
-*2025-07-29 10:16:09* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-පෙරහර-වෙනුවෙන්-විශේෂ-දුම්රිය-යොදවයි/11-417575) · `si`
-
-මහනුවර ඇසළ පෙරහරේ රන්දෝලි පෙරහර පැවැත්වෙන අගෝස්තු 04 දා සිට අවසන් රන්දෝලි පෙරහර පැවැත්වෙන අගෝස්තු 08දා දක්වා කොළඹ කොටුව, මාතලේ හා නාවලපිටිය සිට මහනුවර දක්වා විශේෂ දුම්රිය ධාවනය කරවන බව දුම්රිය දෙපාර්තමේන්තුව කියයි.
-
-◼️
-
-[Data](articles/87ae4263.json)
-
----
-
-### கொடிகமுவவில் கடையில் தீ விபத்து
-
-*2025-07-29 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221238) · `ta`
-
-கொடிகமுவ பகுதியில் பிலியந்தலை - மஹரகம வீதியில் அமைந்துள்ள கடை ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தீயை கட்டுப்படுத்த ஸ்ரீ ஜெயவர்தனபுர கோட்டே நகர சபையின் இரண்டு தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/3c8b3038.json)
 
 ---

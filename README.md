@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 11:07:44**
+As of **2025-07-29 11:25:32**
 
 ## Newspaper Stats
 
-*Scraped **67,425** Articles*
+*Scraped **67,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,91 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 690
-economynextcom | 4,116
+economynextcom | 4,120
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
-adalk | 6,471
+adalk | 6,472
 adaderanalk | 8,305
-tamilmirrorlk | 9,759
+tamilmirrorlk | 9,762
 virakesarilk | 11,234
-adaderanasinhalalk | 11,589
+adaderanasinhalalk | 11,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.9%) of 67,425 articles have been extended.
+61,973 (91.9%) of 67,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### யாரென்று தெரிகிறதா?
+
+*2025-07-29 11:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/யாரென்று-தெரிகிறதா/62-361960) · `ta`
+
+◼️
+
+[Data](articles/97251b1a.json)
+
+---
+
+### රන් අලේපිත ගිනිඅවිය ගැන ගල්කිස්ස අධිකරණයෙන් දුමින්දට දුන් තීන්දුව
+
+*2025-07-29 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212767) · `si`
+
+රන් ආලේපිත ටී 56 වර්ගයේ ගිනිඅවියේ හිමිකාරීත්වය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව අත්අඩංගුවට ගෙන ඇප මත මුදා හැර සිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා එම නඩුවෙන් මුදා හැරීමට ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+ඒ මීට අදාළ නඩුව අද (29) ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයේදී කැඳවූ අවස්ථාවේදී වන අතර එහිදී මෙම නඩුවට අදාළව සෘජු හා පරිවේෂණීය සාක්ෂි නොමැති වීම හේතුවෙන් හිටපු මන්ත්‍රීවරයා මුදා හරින බවයි ගල්කිස්ස මහෙස්ත්‍රාත් චතුරිකා ද සිල්වා මහත්මිය නියෝග කර ඇත.
+
+හැව්ලොක් සිටි සුපිරි නිවාස සංකීර්ණයෙන් හමුවූ රන් ආලේපිත ටී 56 වර්ගයේ ගිනි අවියේ හිමිකාරිත්වය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයා පසුගිය මැයි මස 23 වැනි දින අත්අඩංගුවට ගනු ලැබූ අතර පසුව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගත කිරීමටද නියෝග කෙරුණි.
+
+පසුව ඔහු විසින් ඉදිරිපත් කර තිබූ ඇප ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව පසුගිය 14 වැනි දින ඇප කොන්දේසි මත නිදහස් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/2171f70f.json)
+
+---
+
+### டிக்டோக் காதலனுக்கு வீட்டில் களவாடிய காதலி கைது
+
+*2025-07-29 11:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்டோக்-காதலனுக்கு-வீட்டில்-களவாடிய-காதலி-கைது/175-361959) · `ta`
+
+யாழ்ப்பாணத்தை சேர்ந்த டிக்டோக் பிரபலங்களில் ஒருவரான தனது காதலனுக்கு மோட்டார் சைக்கிள் வாங்க வீட்டில் நகைகளை களவாடிய யுவதி உள்ளிட்ட ஏழு பேரை சாவகச்சேரி பொலிஸார்   திங்கட்கிழமை  (28)கைது செய்துள்ளனர்.
+
+யாழ்ப்பாணத்தை சேர்ந்த இளைஞர் ஒருவர் டிக்டோக் சமூக வலைத்தளங்களில் தனது காணொளிகளை பதிவேற்றி பிரபலமானவராக தன்னை காட்டிக் கொண்டு வந்துள்ளார்.
+
+குறித்த இளைஞனுடன் டிக்டோக் மூலம் அறிமுகமான சாவகச்சேரி பகுதியை சேர்ந்த யுவதி , அவரை காதலித்து வந்துள்ளார்.
+
+இந்நிலையில் தனது காதலனுக்கு , அதிநவீன மோட்டார் சைக்கிள் ஒன்றை கொள்வனவு செய்வதற்காகவும் , காதலன் சொகுசு வாழ்க்கை வாழ்வதற்காவும் , தனது வீட்டில் இருந்து சுமார் 19 பவுண் நகையை களவெடுத்து , அதை காதலனிடம் கொடுத்துள்ளார்.
+
+வீட்டில் இருந்த நகைகள் காணாமல் போனமை தொடர்பில், யுவதியின் பெற்றோர் சாவகச்சேரி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் , யுவதி மீது சந்தேகம் கொண்டு அவரிடம் விசாரணைகளை முன்னெடுத்த போது, வீட்டில் இருந்த நகைகளை தான் களவெடுத்து காதலனுக்கு வழங்கியதை ஒப்புக்கொண்டுள்ளார்.
+
+...
+
+[Data](articles/b07f59ba.json)
+
+---
+
+### ஏமனில் கேரள நர்ஸ் நிமிஷாவின் மரண தண்டனை ‘ரத்து’
+
+*2025-07-29 10:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏமனில்-கேரள-நர்ஸ்-நிமிஷாவின்-மரண-தண்டனை-ரத்து/175-361957) · `ta`
+
+ஏமன் நாட்டில் கேரள மாநில செவிலியர் நிமிஷா பிரியாவுக்கு விதிக்கப்பட்ட மரண தண்டனை ரத்து செய்யப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது. இதனை கேரளா​வின் இஸ்​லாமிய மதத் தலை​வர் அபுபக்​கர் முஸ்​லி​யாரின் ‘கிராண்ட் முப்தி’ அலுவலகம் உறுதிப்படுத்தியுள்ளது.
+
+செவிலியர் நிமிஷா பிரியா விவகாரத்தில் அபுபக்​கர் முஸ்​லி​யார் மத்​தி​யஸ்​தம் மேற்கொண்டார் என்பது குறிப்பிடத்தக்கது. அதேவேளையில், இந்திய அரசு தரப்பில் நிமிஷாவின் விவகாரத்தை கவனித்து வரும் அதிகாரிகள், மரண தண்டனை ரத்து குறித்து இன்னும் உறுதி செய்யவில்லை.
+
+அபுபக்​கர் முஸ்​லி​யார் கோரிக்கையை ஏற்று ஏமன் நாட்டை சேர்ந்த மதகுரு ஹபீப் உமர் பின் ஹபீஸ், நிமிஷாவின் விவகாரத்தில் இரு தரப்புக்கும் இடையில் பேச்சுவார்த்தை நடத்தவும், தண்டனையை பரிசீலிக்கவும் வல்லுநர் குழுவை அமைத்தார். இந்த பேச்சுவார்த்தை மற்றும் தண்டனை பரிசீலனையில் ஏற்பட்ட இறுதி உடன்பாட்டின்படி நிமிஷாவின் மரண தண்டனை தற்போது ரத்து செய்யப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+...
+
+[Data](articles/3bf72002.json)
+
+---
 
 ### ඉන්දියන් සාගරයේ සිදුවු භූකම්පනයෙන් ලංකාවට බලපෑමක් නෑ
 
@@ -157,6 +223,32 @@ Subsequently, with the agreement of both parties, the case was settled amicably.
 ◼️
 
 [Data](articles/1f9aa84d.json)
+
+---
+
+### Sri Lanka WindForce-Vidullanka 10MW solar plant completed
+
+*2025-07-29 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-windforce-vidullanka-10mw-solar-plant-completed-233302/) · `en`
+
+ECONOMYNEXT – Sri Lanka-based Windforce Plc said a 10 MW solar plant built in the eastern Batticaloa region as a joint venture with Vidullanka, was launched on July 12.
+
+The plant is expected to generate about 19.5 GigaWatt hours of electricity a year, Windforce said in a stock exchange filing.
+
+The plant is on high-salinity land in Vavunativu which is unfit for agriculture.
+
+WindForce said it executed the engineering, procurement, and construction contract.
+
+The plant has 22,048 photovoltaic modules, and 34 string inverters which it said would improve efficiency and reliability.
+
+The project was completed on time despite floods slowing construction, the company said.
+
+Vidullanka, WindForce joint venture signs purchase agreement with solar plant
+
+Renewable energy firm WindForce, started in 2020, has power plants in Sri Lanka, the Maldives, Tanzania, Pakistan, Uganda and Ukraine.(Colombo/Jul29/2025)
+
+◼️
+
+[Data](articles/fa83acb5.json)
 
 ---
 
@@ -368,6 +460,34 @@ He emphasized that the strike will definitely proceed unless a decisive solution
 
 ---
 
+### Sri Lanka rupee weakens against dollar, bonds steady
+
+*2025-07-29 09:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-233298/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 301.90/302.10 to the US dollar in the spot market Tuesday, weaker from 301.95/302.03 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.45/55 percent, down from 8.52/60 percent.
+
+A bond maturing on 15.10.2028 was quoted flat at 9.00/05 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.50/58 percent, up from 9.52/57 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.42/50 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.70/80 percent, down from 10.75/86 percent.
+
+An auction of Rs. 92,500 million Treasury bills is scheduled to be held on July 30.
+
+Stocks opened up; the ASPI was up 0.13%, or 25.03 points, at 19,542.89; the S&P SL20 was up 0.06%, or 3.56 points, at 5,778.07. (Colombo/July29/2025)
+
+◼️
+
+[Data](articles/b3bf439b.json)
+
+---
+
 ### யட்டிநுவர பிரதேச சபையின் எதிர்க்கட்சித் தலைவர், அவரது மனைவி மற்றும் மகள் சடலங்களாக மீட்பு
 
 *2025-07-29 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221233) · `ta`
@@ -498,6 +618,26 @@ Prime Minister Dr. Amarasuriya further stated Sri Lankan chefs are not only culi
 
 ### ජනපති සහ මාලදිවයින් ජනාධිපතිවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා
 
+*2025-07-29 07:44:44* · [`adalk`](https://www.ada.lk/uncategorized/ජනපති-සහ-මාලදිවයින්-ජනාධිපතිවරයා-අතර-ද්වීපාර්ශ්වික-සාකච්ඡා/1-417572) · `si`
+
+මාලදිවයිනේ රාජ්‍ය සංචාර‍යක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡා
+
+මාලදිවයින් ජනාධිපති කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයා මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබීය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා එහි අමුත්තන්ගේ සමරු පොතෙහි සමරු සටහනක් තැබීමෙන් අනතුරුව, දෙරටේ නායකයෝ නිල ඡායාරූපයකට පෙනී සිටියහ.
+
+ඉන් අනතුරුව, ජනපති සහ මාලදිවයින් ජනාධිපතිවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා ආරම්භ විය.
+
+එම සාකච්ඡාවෙන් පසුව, දෙපාර්ශ්වය අතර ගිවිසුම් හුවමාරු කරගනු ලැබිණි. ඒ අනුව, අන්‍යෝන්‍ය නීති අධාර ගිවිසු‍මක් සහ මාලදිවයිනේ විදේශ සේවා ආයතනය (FOSIM) සහ බණ්ඩාරනායක රාජ්‍යතාන්ත්‍රික පුහුණු ආයතනය අතර අවබෝධතා ගිවිසුම මෙසේ හුවමාරු කර ගැනිණි.
+
+...
+
+[Data](articles/06145f41.json)
+
+---
+
+### ජනපති සහ මාලදිවයින් ජනාධිපතිවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා
+
 *2025-07-29 07:44:44* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-සහ-මාලදිවයින්-ජනාධිපතිවරයා-අතර-ද්වීපාර්ශ්වික-සාකච්ඡා/10-417572) · `si`
 
 මාලදිවයිනේ රාජ්‍ය සංචාර‍යක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr Mohamed Muizzu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡා
@@ -565,6 +705,26 @@ If you or someone you know is in crisis and needs help, resources are available 
 ◼️
 
 [Data](articles/76f46820.json)
+
+---
+
+### Sri Lanka resident investors buy restructured ISBs from foreigners
+
+*2025-07-29 07:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-resident-investors-buy-restructured-isbs-from-foreigners-233285/) · `en`
+
+ECONOMYNEXT – Investors resident in Sri Lanka had bought restructured sovereign bonds from foreign investors in the first quarter of 2025, official data shows.
+
+In December 2024 Sri Lanka restructured defaulted sovereign bonds of 12,550 million US dollars in an exercise which left 10,585 million dollars of so-called macro-linked bonds, as well as some other bonds including governance linked bonds.
+
+By end December 2024, 9,315 million dollars of sovereign bonds were owned by foreigners and 1,270 million owned by residents, central bank data shows.
+
+By the end of the first quarter locals had bought 115 million dollars of bonds, taking the total held by residents to 1,385 million and reducing foreign holdings to 9,200 million dollars.
+
+Sri Lanka’s banks are also flushed with dollar liquidity as the government in particular repaid some loans in rupees, which were covered by purchases from local market to maintain their foreign exchange open positions.
+
+...
+
+[Data](articles/0f45efaf.json)
 
 ---
 
@@ -711,6 +871,30 @@ After the discussions, agreements were exchanged between both parties. This incl
 ...
 
 [Data](articles/e8dab51a.json)
+
+---
+
+### Sri Lanka’s Commercial Bank Green Bonds to pay up to 11.30-pct in 10-year securities
+
+*2025-07-29 06:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-green-bonds-to-pay-up-to-11-30-pct-in-10-year-securities-233279/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon said its 15 billion rupee green bond issue will open on August 04, offering securities with tenures of 5, 7 and 10 years.
+
+The bonds are rated A (lka) by Fitch and will be listed on the Colombo Stock Exchange.
+
+Type A  5-year bond with 10.55-pct coupon paid semi-annually (effective rate 10.83-pct)
+
+Type C 7-year bond with 10.85-pct coupon paid semi-annually (effective rate 11.14-pct)
+
+Type E – 10-year bond with 11.00-pct coupon paid semi-annually (effective rate 11.30-pct)
+
+The funds will be used to finance ‘green’ projects like renewable energy.
+
+The bonds are Basle III compliant securities which will be converted to equity in case of a capital deficiency. (Colombo/July29/2025 – Updated II)
+
+◼️
+
+[Data](articles/2be49e0a.json)
 
 ---
 
@@ -1647,165 +1831,5 @@ An MoU was signed between the Foreign Service Institute of Maldives (FOSIM) and 
 ◼️
 
 [Data](articles/9b1e0715.json)
-
----
-
-### Trump says he is setting new 10 to 12-day deadline for Russia on war
-
-*2025-07-28 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110932/trump-says-he-is-setting-new-10-to-12-day-deadline-for-russia-on-war) · `en`
-
-U.S. President Donald Trump on Monday increased pressure on Russia to end its war in Ukraine, saying he was setting a new deadline of 10 to 12 days for Moscow to make progress on doing so.
-
-Trump, who is holding meetings in Scotland, said earlier on Monday that he was going to shorten a 50-day deadline he had set because of frustration with Russian President Vladimir Putin.
-
-◼️
-
-[Data](articles/3ce128f6.json)
-
----
-
-### Trump sets deadline of 10 or 12 days for Russia on war with Ukraine
-
-*2025-07-28 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110932/trump-sets-deadline-of-10-or-12-days-for-russia-on-war-with-ukraine) · `en`
-
-U.S. President Donald Trump set a new deadline of 10 or 12 days for Russia to make progress toward ending the war in Ukraine or face consequences, underscoring frustration with Russian President Vladimir Putin for the 3-1/2-year-old conflict.
-
-Trump has threatened both sanctions on Russia and buyers of its exports unless progress is made.
-
-Speaking in Scotland, where he is holding meetings with European leaders and playing golf, Trump said he was disappointed in Putin and shortening a 50-day deadline he had set on the issue earlier this month.
-
-“I’m going to make a new deadline of about ... 10 or 12 days from today,” Trump told reporters during a meeting with British Prime Minister Keir Starmer.
-
-“There’s no reason in waiting... We just don’t see any progress being made.”
-
-...
-
-[Data](articles/6ba8b898.json)
-
----
-
-### முன்னாள் கடற்படைத் தளபதி நிஷாந்த உலுகேதென்ன கைது
-
-*2025-07-28 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/221218) · `ta`
-
-முன்னாள் கடற்படைத் தளபதி நிஷாந்த உலுகேதென்ன குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்டுள்ளார்.
-
-குறித்த கைதானது கடற்படை புலனாய்வு இயக்குநராக இருந்த காலத்தில் பொத்துஹெர பகுதியில் நடந்த ஒரு கடத்தல் தொடர்பான விசாரணையுடன் தொடர்புடையது என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/7d9ec794.json)
-
----
-
-### පොල්තෙල් සඳහා ප්‍රමිතියක්
-
-*2025-07-28 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212743) · `si`
-
-නියමිත ලෙස ඇසුරුම් කරන ලද පොල් තෙල් පමණක් අලෙවිය සඳහා ඉදිරියේදී අවසර ලබාදිමට තීරණය කර ඇති බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
-
-ඒ වෙළෙඳපොළේ පවතින ඇසුරුම් නොකරන ලද පොල්තෙල් ස﻿ඳහා වෙනත් ද්‍රව්‍ය කලවම් කර අලෙවිකරන බවට තම අධිකාරියට ලද පැමිණිලිවලට අදාළව සිදුකළ සාම්පල පරීක්ෂා ඔස්සේ කළ තහවුරු කිරීම්වලට අනුවය.
-
-වෙළෙඳපොළේ පවතින ඇසුරුම් නොකරන ලද පොල්තෙල් අලෙවි කිරීමේදී වෙනත් ද්‍රව්‍යයන් කලවම් කර අලෙවි කරන බවට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියට ලද තොරතුරකට අනුව දිවයින පුරා තෝරාගත් වෙළෙඳසැල් සහ නිෂ්පාදනායතන 75ක් පමණ පසුගියදා පරීක්ෂාවට ලක්කර තිබුණි.
-
-එහිදී ලබාගත් සාම්පල පරීක්ෂාවේදී සාම්පල 22ක පමණ එලෙස අලෙවිය සඳහා වෙනත් ද්‍රව්‍ය කලවම් කර පොල් තෙල් අලෙවිකිරීමට සූදානම් කර තිබෙන අයුරු නිරීක්ෂණය වී තිබුණි.
-
-ඒ අනුව ප්‍රමිතියෙන් යුතු පොල්තෙල් පාරිභෝගිකයා වෙත ලබාදීම සඳහා ඇසුරුම්කළ පොල් තෙල් පමණක් අලෙවි කිරීමට පොල් සංවර්ධන මණ්ඩලය සහ පාරිභෝගික අධිකාරිය සැලසුම්කර තිබේ.
-
-...
-
-[Data](articles/86e249e7.json)
-
----
-
-### செம்மணி மனிதப்புதைகுழி அகழ்வு செயன்முறையில் சர்வதேச கண்காணிப்பும் நிபுணத்துவமும் உள்வாங்கப்படுவது அவசியம் - சர்வதேச ஜுரர்கள் ஆணைக்குழு வலியுறுத்தல்
-
-*2025-07-28 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221217) · `ta`
-
-நீதியை நிலைநாட்டுவதில் உள்ளகப்பொறிமுறைகளின் நீண்டகாலத் தோல்வியைக் கருத்திற்கொண்டு நோக்குகையில், தற்போது முன்னெடுக்கப்பட்டுவரும் செம்மணி மனிதப்புதைகுழி அகழ்வு செயன்முறையில் நிலையான சர்வதேச கண்காணிப்பு உள்வாங்கப்படவேண்டியது மிக அவசியமாகும்.
-
-அதற்கமைய சுயாதீன சர்வதேச தடயவியல் நிபுணர்கள் மற்றும் மனித உரிமைகள் கண்காணிப்பாளர்கள் பணியில் ஈடுபடுத்தப்படவேண்டும். அகழ்வு செயன்முறை தொடர்பில் பாதிக்கப்பட்ட குடும்பங்கள் மற்றும் பொதுமக்களுக்கு உரிய நேரத்தில் வெளிப்படைத்தன்மைவாய்ந்த முறையில் தெளிவுபடுத்தவேண்டும் என சர்வதேச ஜுரர்கள் ஆணைக்குழு அரசாங்கத்தை வலியுறுத்தியுள்ளது.
-
-அதுமாத்திரமன்றி எதிர்வரும் செப்டெம்பர் மாதம் நடைபெறவிருக்கும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரின்போது இலங்கை தொடர்பான தீர்மானத்தைப் புதுப்பிக்கவேண்டும் எனவும் அந்த ஆணைக்குழு வேண்டுகோள்விடுத்துள்ளது.
-
-யாழ் செம்மணி சித்துபாத்தி மனிதப்புதைகுழி அகழ்வுப்பணிகள் தொடர்ந்து முன்னெடுக்கப்பட்டுவரும் நிலையில், இதுகுறித்து சர்வதேச ஜுரர்கள் ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ள அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
-
-...
-
-[Data](articles/1a67c744.json)
-
----
-
-### ජනපතිවරයාගේ ජර්මානු සංචාරයේ යටි අරමුණ හෙළි කළ යුතුයි
-
-*2025-07-28 19:13:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයාගේ-ජර්මානු-සංචාරයේ-යටි-අරමුණ-හෙළි-කළ-යුතුයි/11-417570) · `si`
-
-ජනාධිපතිවරයාගේ ජර්මානු සංචාරයේ යටි අරමුණ වහාම රටට හෙළි කළ යුතු යැයි පිවිතුරු හෙළ උරුමය නායක උදය ගම්මන්පිළ මහතා අවධාරණය කළේය.
-
-ඔහු පෙන්වා දුන්නේ චාන්සලර්වරයා හමු වීමට වෙලාවක් නොදී තිබියදී නෙදියවන් හමුවීම ජනාධිපතිතුමාගේ ජර්මානු සංචාරයේ යටි අරමුණද යන්න පැහැදිලි සැකයක් මතුවන බවයි.පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ දී අද (28දා) පැවති මාධ්‍ය හමුවේදී  ඔහු වැඩිදුරටත් මෙසේද පැවසීය.
-
-...
-
-[Data](articles/8e5ff67d.json)
-
----
-
-### பொரளை விபத்தில் சாரதி கஞ்சா பயன்படுத்தியமை உறுதி
-
-*2025-07-28 19:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-விபத்தில்-சாரதி-கஞ்சா-பயன்படுத்தியமை-உறுதி/175-361929) · `ta`
-
-பொரளை கனத்த சந்தியில் இன்று (28) காலை நடந்த கோர விபத்தில் காயமடைந்தவர்களில் இரண்டு பொலிஸ் அதிகாரிகளும் அடங்குவதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-இவர்களில் இருவர் பெண்கள், ஐவர் ஆண்கள் என கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்‌ஷான் பெல்லன தெரிவித்தார்.
-
-ராஜகிரியவிலிருந்து பௌத்தலோக மாவத்தை நோக்கிச் சென்ற கிரேன் வாகனம், கனத்த சந்தியில் உள்ள போக்குவரத்து சமிக்ஞை விளக்கில் நிறுத்தப்பட்டிருந்த ஆறு மோட்டார் சைக்கிள்கள் மற்றும் மூன்று கார்களுடன் மோதியது.
-
-விபத்து தொடர்பாக கைது செய்யப்பட்ட கிரேன் வாகன சாரதி, வைத்தியப் பரிசோதனையில் கஞ்சா பாவித்திருந்தது உறுதியாகியுள்ளது.
-
-கிரேன் வாகனத்தின் தடுப்பான் செயலிழந்ததும், சாரதியின் அதிவேக ஓட்டுதலும் விபத்துக்கு முக்கிய காரணங்களாக பொலிஸார் சந்தேகிக்கின்றனர். R
-
-◼️
-
-[Data](articles/c1b76e87.json)
-
----
-
-### Owner of crane truck involved in fatal Borella accident arrested
-
-*2025-07-28 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/110931/owner-of-crane-truck-involved-in-fatal-borella-accident-arrested) · `en`
-
-The owner of the crane truck involved in the fatal road accident that occurred this morning (28) in Borella has also been taken into custody, police stated.
-
-According to police, both the driver and the owner of the crane truck are scheduled to be produced before the Hulftsdorp No. 02 Magistrate’s Court tomorrow.
-
-Meanwhile, the crane truck driver involved in the fatal accident, in which an individual died, was under the influence of cannabis, according to police.
-
-This has been revealed during a medical examination conducted on the relevant individual, police noted.
-
-A total of seven individuals injured in the accident are currently receiving treatment at the Colombo National Hospital.
-
-Police stated that one of the injured individuals succumbed to his injuries at the time of admission to the hospital.
-
-This was also confirmed by Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital.
-
-...
-
-[Data](articles/b0c2eefa.json)
-
----
-
-### බිත්තරේ උඩ යයි
-
-*2025-07-28 18:47:49* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරේ-උඩ-යයි/11-417568) · `si`
-
-බිත්තර මිල මේ සතියේ රුපියල් දෙකකින් ඉහළ දැමීමට සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමය ඊයේ(28දා) පැවති මිල තීරණය කළ කමිටුවේදී පියවරගෙන ඇතැයි එම සංගමයේ සභාපති සරත් රත්නායක මහතා පවසයි.
-
-ඒ අනුව රුපියල් 24කට තිබූ සුදු බිත්තරයක ගොවිපළ මිල රුපියල් 26ක් ලෙසත් රතු බිත්තරයක ගොවිපළ මිල රුපියල් 28ක් ලෙසත් එහිදී ප‍්‍රකාශයට පත් කෙරිණ. බිත්තර තොග මිල නිෂ්පාදකයන්ගේ සංගමය තීරණය කර තිබූ බිත්තර තොග මිල අනුව  සුදු හා රතු බිත්තර පිළිවෙළින් රුපියල් 29ක් හා රු.31කි.
-
-ගොවීන් ඉතාම පීඩනයට ලක් කරමින් බිත්තර මිල මාසයකට වැඩි කාලයක් ඉතාම පහතට එමින් තිබෙන අතරතුර ගොවිපළවල සිටි වයස්ගත සතුන් ඉවත් කිරීම නිසා බිත්තර අතිරික්තය සමනය වෙමින් ඉල්ලුමක් සෑදුණ බවත් සියලුම ගොවි මහතුන් එකාවන්ව එක තීරණයක සිට දැක්වූ සහයෝගය මෙන්ම සංගමය විසින් නියම කළ රුපියල් 26න් පහත කිසිම ගොවි මහතෙකු විසින් වෙළෙඳුන්ට ලබා නොදුන හොත් තවත් පියවරක් ඉදිරියට යාහැකි බවත් සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ සභාපති වරයා එහිදී මාධ්‍යයට කරුණු දැක්වීය.
-
-...
-
-[Data](articles/113cd777.json)
 
 ---

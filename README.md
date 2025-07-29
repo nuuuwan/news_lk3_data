@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-29 17:31:05**
+As of **2025-07-29 17:53:47**
 
 ## Newspaper Stats
 
-*Scraped **67,516** Articles*
+*Scraped **67,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 690
-economynextcom | 4,120
+economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
 dailyftlk | 4,768
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.8%) of 67,516 articles have been extended.
+61,973 (91.8%) of 67,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-29 (Tuesday)
+
+### Maritime security, blue economy discussed during Sri Lanka leader’s Maldives visit
+
+*2025-07-29 17:30:00* · [`economynextcom`](https://economynext.com/maritime-security-blue-economy-discussed-during-sri-lanka-leaders-maldives-visit-233443/) · `en`
+
+ECONOMYNEXT – In a symbolic and diplomatically significant visit, Sri Lankan President Anura Kumara Dissanayake reinforced Colombo’s commitment to strengthening regional cooperation during his trip to the Maldives, underscoring a vision of partnership built on shared history, geography, and purpose.
+
+His visit comes at a time when Sri Lanka is recovering from an economic crisis while economic experts expect a similar situation in the Maldives “very soon”.
+
+The visit, which coincides with the 60th anniversary of diplomatic ties between Sri Lanka and the Maldives, served as both a celebration of longstanding friendship and a platform to recalibrate bilateral engagement in line with 21st-century challenges and opportunities.
+
+In his remarks, President Dissanayake recalled Sri Lanka’s early support for Maldivian independence and cultural contributions such as the composition of the Maldivian national anthem’s melody by Sri Lankan maestro Pandit W D Amaradeva.
+
+...
+
+[Data](articles/05a464df.json)
+
+---
 
 ### අධ්‍යාපන ප්‍රතිසංස්කරණවලට යෝජනා ලබාදීමට තවදුරටත් අවස්ථාව
 
@@ -45,6 +63,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1f74ca04.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds steady
+
+*2025-07-29 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-233435/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.15/30 to the US dollar in the spot market Tuesday, weaker from 301.95/302.03 the previous day, while bond yields were somewhat steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/56 percent, down from 8.52/60 percent.
+
+A bond maturing on 15.10.2028 closed at 9.02/08 percent, up from 9.00/05 percent.
+
+A bond maturing on 15.12.2029 closed at 9.53/59 percent, up from 9.52/57 percent.
+
+Sri Lanka sold 71 billion rupees in 2030 and 2037 bonds of an offered 122 billion at auction today. (Colombo/July29/2025)
+
+◼️
+
+[Data](articles/82f16a14.json)
 
 ---
 
@@ -115,6 +155,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8c70c656.json)
+
+---
+
+### Sri Lanka stocks rise marginal 0.07-pct, S&P SL20 dips
+
+*2025-07-29 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-marginal-0-07-pct-sp-sl20-dips-233391/) · `en`
+
+ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) rose marginally higher by 0.07 percent while the S&P SL20 declined, data on its site showed.
+
+The ASPI rose 14.34 points from Monday to 19,532.20; while the S&P SL20 index ended 0.38 percent, or 22.05 points weaker, to close at 5,752.46.
+
+Turnover increased to 7.5 billion rupees from 6.1 billion rupees; while the share volume was 221,201,482.
+
+The ASPI was pushed up by ACL Cables which ended 10.75 rupees stronger at 177.75; Melstacorp which rose 2 rupees to 154.00 rupees; Hayleys which ended 2.25 rupees up at 179.75 rupees; Central Finance Company which moved 3.75 rupees up to 307.75; and Cargills (Ceylon) which closed 11.50 rupees higher at 600.
+
+Japan’s Nikkei 225 index declined 0.79 percent, or 323.72 points, to 40,674.55.
+
+...
+
+[Data](articles/1406a639.json)
 
 ---
 
@@ -251,6 +311,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9f950b0e.json)
+
+---
+
+### Sri Lanka sells Rs71bn in bonds after offering Rs122bn
+
+*2025-07-29 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs71bn-in-bonds-after-offering-rs122bn-233411/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 71 billion rupees in 2030 and 2037 bonds, of an offered 122 billion, data from the state debt office showed.
+
+50.20 billion rupees of 01 July 2030 (LKB00530G018) bonds were sold at an average yield of 9.77 percent, of an offered 90 billion.
+
+20.85 billion rupees of 01 July 2037 (LKB01237G019) bonds were sold of an offered 32 billion at an average yield of 11.08 percent.
+
+◼️
+
+[Data](articles/ccca2a46.json)
 
 ---
 
@@ -391,6 +467,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f409f538.json)
+
+---
+
+### Sri Lanka and Maldives to collaborate more closely
+
+*2025-07-29 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-maldives-to-collaborate-more-closely-233392/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake and Maldivian President Mohamed Muizzu have discussed the economic potential of Maldives–Sri Lanka relations at a state dinner.
+
+The event marked 60 years of diplomatic ties between the two Indian Ocean nations.
+
+Both nations are keen to seize the current momentum to collaborate more closely on building inclusive prosperity and regional stability, Dissanayake’s media division said.
+
+“Whether it is strengthening maritime security, promoting blue economy initiatives, or collaborating in multilateral forums, Sri Lanka is committed to working with the Maldives to create a peaceful, prosperous and sustainable Indian Ocean region,” Dissanayake said.
+
+...
+
+[Data](articles/523637c2.json)
 
 ---
 
@@ -738,6 +832,28 @@ President Anura Kumara Dissanayake left the island on a three-day state visit to
 
 ---
 
+### Sri Lanka young politicians visit India
+
+*2025-07-29 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-young-politicians-visit-india-233369/) · `en`
+
+ECONOMYNEXT – A 24-member team of young politicians from Sri Lanka representing 14 political parties visited India to enhance cross-party political linkages across different tiers between the two countries.
+
+The delegation comprised members of parliament, former members of provincial councils, members of local government bodies and youth wing leaders.
+
+Delegates were provided an overview of India’s developmental initiatives, economic modernisation, technological advancements, democratic traditions and its cultural heritage, the High Commission of India in Colombo said.
+
+The visit from 14-25 July spanned across Delhi-NCR, and the states of Bihar and Karnataka.
+
+They met Indian Foreign Secretary Vikram Misri in Delhi, and the governors of Bihar and Karnataka, and visited the parliament.
+
+The programme included exposure to India’s manufacturing industry through visits to plants of Maruti Suzuki, BOSCH India and Ather Energy, the High Commission said.
+
+...
+
+[Data](articles/7a9721ed.json)
+
+---
+
 ### Special train services to Kandy for Esala Perahera
 
 *2025-07-29 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110960/special-train-services-to-kandy-for-esala-perahera) · `en`
@@ -847,6 +963,32 @@ Accordingly, the three suspects have been arrested under three charges.
 ...
 
 [Data](articles/bac64505.json)
+
+---
+
+### Sri Lanka coconut auction prices rise 18.1-pct
+
+*2025-07-29 12:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-18-1-pct-233361/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices rose 18.1 percent at a weekly auction, Coconut Development Authority data showed.
+
+The average price for 1,000 nuts was 149,468.77 rupees on July 24.
+
+“The highest and the lowest price for a nut was not declared,” CDA officials said for the second straight session.
+
+Export earnings from coconut-based products have increased 59.62 percent in June 2025 compared to the same month in 2024, helping Sri Lanka’s merchandise exports rise 6.85 percent, data from the export promotion office showed.
+
+Sri Lanka exports rise 6.85-pct in June 2025, helped by tea, coconut and apparel
+
+The number of nuts offered moved to 598,139 from 402,742 a week earlier, while nuts sold climbed to 582,364 from 381,624.
+
+In the local market, the wholesale price for a large nut was 150-160 rupees, while small nuts were 130-140 a piece on July 24.
+
+Local wholesale prices of coconut oil were 860,000 to 880,000 rupees per metric ton. (Colombo/Jul29/2025)
+
+◼️
+
+[Data](articles/56b62d98.json)
 
 ---
 
@@ -1725,123 +1867,5 @@ He has been handed over to the Malabe Police Station for further investigation.
 ◼️
 
 [Data](articles/433139aa.json)
-
----
-
-### அந்தமான் - நிக்கோபார் தீவுகளுக்கு அருகில் சக்தி வாய்ந்த நிலநடுக்கம்
-
-*2025-07-29 09:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அந்தமான்-நிக்கோபார்-தீவுகளுக்கு-அருகில்-சக்தி-வாய்ந்த-நிலநடுக்கம்/50-361953) · `ta`
-
-வங்கக்கடலில் அந்தமான் மற்றும் நிக்கோபார் தீவுகளுக்கு அருகில் இன்று (29) அதிகாலை 6.3 ரிக்டர் அளவில் சக்தி வாய்ந்த நிலநடுக்கம் ஏற்பட்டதாக இந்திய தேசிய நிலநடுக்கவியல் மையம் தெரிவித்துள்ளது.
-
-இந்த நிலநடுக்கத்தின் மையம் கடலுக்கு அடியே 10 கி.மீ ஆழத்தில், அந்தமான் மற்றும் நிக்கோபார் தீவுகளுக்கு அருகே அமைந்திருந்தது.
-
-இந்த நிலநடுக்கத்தால் இதுவரை எவ்வித சேதமோ அல்லது உயிரிழப்போ பதிவாகவில்லை. மேலும், தற்போது வரை சுனாமி எச்சரிக்கை எதுவும் விடுக்கப்படவில்லை. R
-
-◼️
-
-[Data](articles/c2b0afc7.json)
-
----
-
-### அதிகாலையில் அழுத அபிராமியின் குழந்தைகள்... ஹவுஸ் ஓனர் பரபரப்பு தகவல்
-
-*2025-07-29 09:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-அழுத-அபிராமியின்-குழந்தைகள்-ஹவுஸ்-ஓனர்-பரபரப்பு-தகவல்/175-361952) · `ta`
-
-"அபிராமி மேல எங்களுக்கு எந்த சந்தேகமும் வந்ததில்லை ஒருவேளை தவறான விஷயம் தெரிந்திருந்தால், அவர்களை அப்போதே வீட்டை காலி செய்ய சொல்லியிருப்போம். முன்தினம் இரவு வரை எங்களுடன்தான் அபிராமியின் குழந்தைகள் இருந்தார்கள். மறுநாள் விடிகாலையில் 5.30 மணிக்கு குழந்தை அழுகிற சத்தம் கேட்டது. அப்புறம்தான் இந்த விஷயம் எங்களுக்கு தெரியவந்தது" என்று கதறி அழுது கொண்டே சொல்கிறார்கள், அபிராமி குடியிருந்த வீட்டின் உரிமையாளர்கள்.
-
-குன்றத்தூர் அபிராமிக்கு தற்போது தண்டனை கிடைத்துள்ளது.. இந்த தண்டனை வரவேற்புக்குரியதாக இருந்தாலும், ஏன் தூக்கு தண்டனை தரப்படவில்லை என்ற கேள்வி தமிழக மக்களின் நெஞ்சில் எழுந்தவாறே உள்ளது.
-
-இந்நிலையில், குடியிருந்த வீட்டின் உரிமையாளர், செய்தியாளர்களிடம் தங்கள் குமுறலை கொட்டி உள்ளனர்.. அப்போது ஹவுஸ் ஓனர் தம்பதி இருவருமே கதறி அழுதவாறே, அபிராமியின் குழந்தைகளை பற்றி சொல்லியிருப்பது, கேட்பேரை நிலைகுலைய வைத்து வருகிறது..
-
-"அபிராமிக்கு ஆண் குழந்தை பிறந்து 3 மாதமாகி இருந்தபோதுதான், இங்கு குடிவந்தார்கள்.. 2வது குழந்தையும் இதே வீட்டில்தான் பிறந்தது.. நன்றாகத்தான் குடும்பமாக இருந்தார்கள்.
-
-...
-
-[Data](articles/2c3d57b1.json)
-
----
-
-### මහරගම වාහන අලංකරණ උපාංග අලෙවිසැලක ගින්නක්
-
-*2025-07-29 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212761) · `si`
-
-මහරගම පිළියන්දල මාර්ගයේ ගොඩිගමුව ප්‍රදේශයේ පිහිටි වාහන අලංකරණය කරන ස්ථානයක හදිසි ගිනි ගැනීමක් සිදුව තිබේ.
-
-මේ වන විට ඇතිව ඇති ගින්න මැඩ පැවැත්වීම සඳහා ගිනි නිවීමේ රථ 02ක් අදාළ ස්ථානයට යොමු කර ඇති බව කෝට්ටේ ගිනි නිවීමේ ඒකකය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/ef80abe4.json)
-
----
-
-### Fire breaks out at a shop in Godigamuwa
-
-*2025-07-29 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110948/fire-breaks-out-at-a-shop-in-godigamuwa) · `en`
-
-A fire has broken out in a shop located along the Piliyandala-Maharagama Road in Godigamuwa, police stated.
-
-Two fire trucks of the Sri Jayewardenepura Kotte Municipal Council have been dispatched to the location to control the fire.
-
-◼️
-
-[Data](articles/a5dc3dae.json)
-
----
-
-### Fire breaks out at a shop in Godigamuwa
-
-*2025-07-29 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/110948/fire-breaks-out-in-a-shop-along-piliyandala-maharagama-road) · `en`
-
-A fire has broken out in a shop located along the Piliyandala-Maharagama Road in Godigamuwa, police stated.
-
-Two fire trucks of the Sri Jayewardenepura Kotte Municipal Council have been dispatched to the location to control the fire.
-
-◼️
-
-[Data](articles/b96c724c.json)
-
----
-
-### மிதிகம சஹான் நாடு திரும்பும் போது சிக்கினார்
-
-*2025-07-29 09:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதிகம-சஹான்-நாடு-திரும்பும்-போது-சிக்கினார்/175-361951) · `ta`
-
-மிதிகம சஹான் என்றழைக்கப்படும் ஹிக்கடுவ லியனகே சஹான் சிசிகெலம் என்ற ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினர்,  இந்தியாவில் இருந்து திரும்பும் போது பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் (BIA) வருகை முனையத்தில் வைத்து குற்றப் புலனாய்வுத் துறை (CID) அதிகாரிகளால் திங்கட்கிழமை (28) இரவு கைது செய்யப்பட்டார்.
-
-வெலிகமவைச் சேர்ந்த 32 வயதான சந்தேக நபர், மாத்தறை மற்றும் பாணந்துறை பொலிஸ் பிரிவுகளில் பல கொலைகள் மற்றும் கொள்ளைகளுடன் தொடர்புடையவர் என்று கூறப்படுகிறது.
-
-அவர் தற்போது பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பிரபல பாதாள உலகத் தலைவர் நதுன் சிந்தக விக்ரமரத்ன என்ற ஹரக் கட்டாவின்  கூட்டாளி என்று அதிகாரிகள் தெரிவித்தனர்.
-
-அவர் மற்றொரு ஒழுங்கமைக்கப்பட்ட குற்றவாளியான மிதிகம சுட்டியுடனும் நெருங்கிய தொடர்புடையவராவார்.  மாலை 6:30 மணியளவில் சென்னையிலிருந்து இண்டிகோ விமானம் 6E-1173 இல் சஹான் விமான நிலையத்திற்கு வந்திருந்தார்.
-
-முன்கூட்டிய உளவுத்துறையின்படி செயல்பட்ட CID அதிகாரிகள், வருகை முனையத்தில் அவரைக் கைது செய்தனர்.
-
-...
-
-[Data](articles/ff67cb5a.json)
-
----
-
-### Thirty dead in Beijing following heavy rain
-
-*2025-07-29 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110947/thirty-dead-in-beijing-following-heavy-rain) · `en`
-
-Thirty people were killed in Beijing as of midnight on Monday (Jul 28) as heavy rain hit the Chinese capital, the official Xinhua news agency reported on Tuesday.
-
-The fatalities were reported in Beijing’s mountainous northern districts, with 28 in Miyun and two in Yanqing. State media did not specify when or how the deaths occurred.
-
-Heavy rain started over the weekend and intensified around Beijing and surrounding provinces on Monday, with the capital getting rainfall of up to 543.4mm in its northern districts, Xinhua said.
-
-Beijing also relocated 80,322 residents as the rain hit, Xinhua reported. Roads and communication infrastructure were damaged, and 136 villages were left without power as of midnight Monday.
-
-Late on Monday, Chinese President Xi Jinping ordered “all-out” search and rescue efforts to minimise casualties.
-
-Beijing issued its highest-level rain and flood alerts on Monday, advising residents not to leave their homes.
-
-◼️
-
-[Data](articles/09a8866e.json)
 
 ---

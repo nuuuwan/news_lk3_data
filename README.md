@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 15:10:49**
+As of **2025-07-30 15:26:27**
 
 ## Newspaper Stats
 
-*Scraped **67,727** Articles*
+*Scraped **67,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,507
-adaderanalk | 8,360
+adaderanalk | 8,361
 tamilmirrorlk | 9,818
 virakesarilk | 11,279
-adaderanasinhalalk | 11,649
+adaderanasinhalalk | 11,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,727 articles have been extended.
+61,973 (91.5%) of 67,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### අළුතින් ආදේශක තැපැල් සහායකයින් 1000ක් ලියාපදිංචියට අනුමැතිය
+
+*2025-07-30 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212832) · `si`
+
+දැනට ලියාපදිංචිව සිටින ආදේශක තැපැල් සහායකයින් 1000 කගේ සේවය ස්ථීර කිරීමටත්, අළුතින් ආදේශක තැපැල් සහායකයින් 1000ක් ලියාපදිංචි කිරීමටත් අනුමැතිය ලැබී ඇති බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+තැපැල් දෙපාර්තමේන්තුවේ තිබෙන පොදු ප්‍රශ්නයක් වන සේවක හිඟය සහ ප්‍රවාහන ගැටළු නිරාකරණය කිරීම සඳහා දැනටමත් පියවර ගනිමින් සිටින බවද එහිදී අමාත්‍යවරයා පවසා තිබේ.
+
+ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවට අයත් මධ්‍යම තැපැල් හුවමාරුවේ සේවා කටයුතු නිරීක්ෂණය කිරීමේ අවස්ථාවට එක්වෙමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මෙම අදහස් පළ කළේය.
+
+නිරික්ෂණයෙන් අනතුරුව මධ්‍යම තැපැල් හුවමාරුවේ වත්මන් කටයුතු, ඉදිරි පියවර සහ පවතින ගැටළු පිළිබඳ නිලධාරීන් සහ සේවක මණ්ඩලය සමග ද අමාත්‍යවරයා සාකච්ඡා කර තිබේ.
+
+◼️
+
+[Data](articles/8b4475d6.json)
+
+---
+
+### ශ්‍රී ලංකාව සහ ස්විට්සර්ලන්තය අතර සංක්‍රමණ පිළිබඳ සාකච්ඡාවක්
+
+*2025-07-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212831) · `si`
+
+ශ්‍රී ලංකාව සහ ස්විට්සර්ලන්තය අතර සංක්‍රමණ හවුල්කාරිත්වය පිළිබඳ විශේෂඥයින්ගේ තෙවන රැස්වීම පැවැත්විණි.
+
+එහිදී දෙරටේ නියෝජිතයින් අතර, 2016 වසරේදී මෙම වැඩසටහන දියත් කළ දින සිට සංක්‍රමණ හවුල්කාරිත්වය යටතේ ලබා ඇති ප්‍රගතිය මෙම රැස්වීමේදී සමාලෝචනය කර තිබේ.
+
+පසුගිය වසරේ ශ්‍රී ලංකා රජයට ද්විපාර්ශ්වික ආරක්ෂිත ශ්‍රම සංක්‍රමණ වැඩසටහන විධිමත් ලෙස භාර දීමෙන් පසු හවුල්කාරිත්වයේ අනාගත ගමන් මග පිළිබඳව සාකච්ඡා කර ඇත.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශයේ යුරෝපා සහ උතුරු අමෙරිකා අංශයේ අධ්‍යක්ෂ ජනරාල් සුගීෂ්වර ගුණරත්න සහ ස්විට්සර්ලන්ත ෆෙඩරල් අධිකරණ හා පොලිස් දෙපාර්තමේන්තුවේ සංක්‍රමණ සඳහා වූ රාජ්‍ය ලේකම් කාර්යාලයේ අධ්‍යක්ෂ/ජාත්‍යන්තර කටයුතු පිළිබඳ තානාපති හෙන්ඩ්‍රික් ක්‍රවුස්කොෆ් යන මහත්වරු රැස්වීමේ සම සභාපතිත්වය දරන ලදී.
+
+මෙම වැඩසටහනට ස්විට්සර්ලන්තය අරමුදල් සපයන ලද අතර ශ්‍රී ලාංකික සංක්‍රමණික සේවකයින්ගේ ආරක්ෂාව සහ සුභසාධනය සඳහා තිරසර රාමු ආයතනිකරණය කිරීමේ කැපවීම අවධාරණය කරයි.
+
+...
+
+[Data](articles/f4bc87f5.json)
+
+---
+
+### ගාසා මරණ 60,000 ඉක්මවයි - සාගින්නෙන් මියයෑමත් ඉහළට
+
+*2025-07-30 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212830) · `si`
+
+21 වැනි සියවසේ මානුෂීය ඛේදවාචකය බවට පත්වෙමින් ඇති ගාසා තීරයේ පලස්තීනුවන්ගේ ශෝකාලාපය ලොව පුරා රැව් දෙද්දී, පසුගිය 2023 වසරේ ඔක්තෝබර් 7 වැනිදා සිට මේ දක්වා වාර්තා වූ ගාසා තීරයේ පලස්තීනුවන්ගේ මරණ සංඛ්‍යාව ඊයේ (29) 60,000 සීමාව ඉක්මවා ගියේය.
+
+ඉන් අඩක් පමණ කාන්තාවන් සහ ළමුන් බවයි ගාසා තීරයේ පලස්තීන සෞඛ්‍ය අමාත්‍යාංශය ප්‍රකාශ කළේය.
+
+එක්සත් ජාතීන්ගේ සංවිධානය මෙම සංඛ්‍යාත්මක දත්ත පිළිගත හැකි බව පවසද්දී, ඇතැම් ස්වාධීන අධ්‍යයනවලින් පෙනී ගොස් ඇත්තේ, මරණ සංඛ්‍යාව මීටත් වඩා ඉහළ අගයක් විය හැකි බවය.
+
+දින 662ක් තුළ ගාසා තීරයට එල්ල වූ ඊශ්‍රායල ප්‍රහාරවලින් 60,000කට වැඩි පිරිසක් මිය යාම දිනකට පුද්ගලයින් 90කට වැඩි සංඛ්‍යාවක් මිය යාමක් විදියට සැලකිය හැකියි.
+
+ගාසා තීරයේ පලස්තීනුවන් 1,45,000කට වැඩි පිරිසක් තුවාල ලබා ඇති බවත්, තවත් ගණනක් සුන්බුන් අතර අතුරුදන් වී ඇති බවත් ගාසා සෞඛ්‍ය අමාත්‍යාංශය සඳහන් කළේය.
+
+ගාසා තීරයේ ඊශ්‍රායල ප්‍රහාර මානුෂීය ආධාර මෙහෙයුම් සඳහා දිවා කාලයේ පැය 10ක් අත්හිටුවන බව ප්‍රකාශ කළත් රාත්‍රියේ එම ප්‍රහාර අඛණ්ඩව ක්‍රියාත්මක වේ.
+
+...
+
+[Data](articles/09ff4b4d.json)
+
+---
 
 ### ජර්මනියේ ඔලිම්පික් තරුව කඳු නැගීමේදී අනතුරකට ලක්වෙයි
 
@@ -51,6 +111,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/86c44a20.json)
+
+---
+
+### வைட்டமின் டி குறைப்பாட்டால் சிறுவர்கள் பாதிப்பு
+
+*2025-07-30 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221362) · `ta`
+
+உடலுக்கு தேவையான சூரிய ஒளி கிடைக்காமையினால் வைட்டமின் டி குறைபாடு சிறுவர்களிடையே கடும் உடல்நலப் பிரச்சினையாக காணப்படுகிறது. இது சுமார் 20 முதல் 30 ஆண்டுகளுக்கு முன்னர் பிரச்சினை ஒன்றாக சிறுவர்களிடையே இருந்ததில்லை என சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+உடலில் சூரிய ஒளிபடாமலே இருப்பதுதான் மிக முக்கியமான காரணம். இன்றைய சூழலில் சிறுவர்கள்  வெளியில் சென்று விளையாடுவதற்குப் பதிலாக, படிப்பு, டியூஷன், வீடியோ கேம்கள், தொலைக்காட்சி பார்ப்பது மற்றும் போன்களைப் பயன்படுத்துவதில் நேரத்தை செலவிடுகின்றார்கள்.
+
+போதிய விழிப்புணர்வு இல்லாததே இந்த நிலைக்குக் காரணம். மிதமான சூரிய ஒளியின் மூலம் தான் பெரும்பாலான மனிதர்களுக்கு வைட்டமின் டி சத்து கிடைக்கிறது என்பதைப் பற்றிய விழிப்புணர்வு மக்களிடம் இல்லை.
+
+மிகக் குறைவான உணவுகளே இயற்கையாக வைட்டமின் டிஐ கொண்டிருக்கின்றன. மேலும் அவை சிறுவர்கள் அல்லது பெரியவர்களின் வைட்டமின் டி தேவையைப் பூர்த்தி செய்ய போதுமானதாக இருப்பதில்லை.
+
+...
+
+[Data](articles/9d0d08aa.json)
 
 ---
 
@@ -110,24 +188,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### சூரிய ஒளி குறைப்பாட்டால் சிறுவர்கள் பாதிப்பு
-
-*2025-07-30 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221362) · `ta`
-
-உடலுக்கு தேவையான சூரிய ஒளி கிடைக்காமையினால் வைட்டமின் டி குறைபாடு சிறுவர்களிடையே கடும் உடல்நலப் பிரச்சினையாக காணப்படுகிறது. இது சுமார் 20 முதல் 30 ஆண்டுகளுக்கு முன்னர் பிரச்சினை ஒன்றாக சிறுவர்களிடையே இருந்ததில்லை என சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
-
-உடலில் சூரிய ஒளிபடாமலே இருப்பதுதான் மிக முக்கியமான காரணம். இன்றைய சூழலில் சிறுவர்கள்  வெளியில் சென்று விளையாடுவதற்குப் பதிலாக, படிப்பு, டியூஷன், வீடியோ கேம்கள், தொலைக்காட்சி பார்ப்பது மற்றும் போன்களைப் பயன்படுத்துவதில் நேரத்தை செலவிடுகின்றார்கள்.
-
-போதிய விழிப்புணர்வு இல்லாததே இந்த நிலைக்குக் காரணம். மிதமான சூரிய ஒளியின் மூலம் தான் பெரும்பாலான மனிதர்களுக்கு வைட்டமின் டி சத்து கிடைக்கிறது என்பதைப் பற்றிய விழிப்புணர்வு மக்களிடம் இல்லை.
-
-மிகக் குறைவான உணவுகளே இயற்கையாக வைட்டமின் டிஐ கொண்டிருக்கின்றன. மேலும் அவை சிறுவர்கள் அல்லது பெரியவர்களின் வைட்டமின் டி தேவையைப் பூர்த்தி செய்ய போதுமானதாக இருப்பதில்லை.
-
-...
-
-[Data](articles/9d0d08aa.json)
-
----
-
 ### போலி பொலிஸ் பரிசோதகர் கைது
 
 *2025-07-30 14:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-பொலிஸ்-பரிசோதகர்-கைது/175-362046) · `ta`
@@ -139,6 +199,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b429ac0f.json)
+
+---
+
+### SC informed ex-President Gotabaya prepared to give evidence in Lalith- Kugan habeas corpus case
+
+*2025-07-30 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111008/sc-informed-ex-president-gotabaya-prepared-to-give-evidence-in-lalith-kugan-habeas-corpus-case) · `en`
+
+Former President Gotabaya Rajapaksa has informed the Supreme Court today (30), through his legal representatives, that he is prepared to provide evidence in relation to the habeas corpus case filed by the relatives of activists Lalith Weeraraj and Kugan Muruganandan, who went missing in 2011.
+
+The statement was made by President’s Counsel Romesh de Silva, who appeared on behalf of Gotabaya Rajapaksa, when the relevant appeal petition was taken up before the Supreme Court today.
+
+However, due to existing security reasons, the attorney informed court that it is problematic for his client to appear before the Jaffna Magistrate’s Court to give evidence, but that they are prepared to do so before a court in Colombo.
+
+The three-judge bench of the Supreme Court then informed President’s Counsel Romesh de Silva that the request should be submitted to the Jaffna Magistrate’s Court within four weeks starting today, in order to obtain an appropriate order.
+
+...
+
+[Data](articles/3eab0750.json)
 
 ---
 
@@ -1805,79 +1883,5 @@ The Hawaii County Civil Defense Agency said in a social media post that the quak
 ◼️
 
 [Data](articles/5181b464.json)
-
----
-
-### Earthquake of magnitude 8.7 strikes Russian coast; tsunami alert issued
-
-*2025-07-30 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110984/earthquake-of-magnitude-87-strikes-russian-coast-tsunami-alert-issued) · `en`
-
-A powerful magnitude 8.7 earthquake struck off Russia’s far eastern Kamchatka Peninsula on Wednesday, triggering a Pacific Ocean tsunami warning. Destructive tsunami waves could reach areas along the coasts of Russia and Japan in the next three hours, according to the US Geological Survey (USGS).
-
-The quake was shallow at a depth of 19.3 km (12 miles), and was centred about 125 km (80 miles) east-southeast of Petropavlovsk in Russia’s Kamchatka peninsula along the coast of Avacha Bay, the USGS said as it revised the magnitude up from 8.0 earlier.
-
-Videos have emerged on social media from the region, showing violent shaking inside buildings, with damage reported at multiple places. In one of the surveillance videos from inside what appears to be a mobile shop, furniture can be seen shaking as the building trembles.
-
-Another video shows the moment the powerful earthquake was detected by the seismic centre in Russia, sparking an alarm.
-
-...
-
-[Data](articles/82550a00.json)
-
----
-
-### இனிய பாரதியின் இன்னுமொரு சகா கைது
-
-*2025-07-30 05:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-இன்னுமொரு-சகா-கைது/175-362012) · `ta`
-
-இனிய பாரதியின் இன்னும் ஒரு சகாவான் சபாபதி மட்டு கிரான் வைத்து சிஐடி யினரால் கைது
-
-இனியபாரதியின் இன்னுமொரு சகாவான வெலிகந்தை தீவுச்சேனையைச் சேர்ந்த பாலிகிருஷ்ணன் சபாபதி என்பவரை மட்டக்களப்பு கிரானில் வைத்து இன்று செவ்வாய்க்கிழமை(29) மாலை 4.00 மணியளவில் கொழும்பில் இருந்து சென்ற குற்ற விசாரணைப் பிரிவு சிஜடி யினர் கைது செய்துள்ளனர்.
-
-ரி.எம.;வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேசசபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக சந்தேகத்தின் அடிப்படையில் கடந்த 6ம் திகதி திருக்கோவில் மற்றும் மட்டு சந்திவெளி பகுதிகளில் வைத்து சிஜடியினர் கைது செய்தனர்.
-
-...
-
-[Data](articles/572ec560.json)
-
----
-
-### FR filed seeking an order directing President to appoint a Chairman for RTI Commission
-
-*2025-07-30 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/110983/fr-filed-seeking-an-order-directing-president-to-appoint-a-chairman-for-rti-commission) · `en`
-
-A Fundamental Rights (FR) petition has been filed before the Supreme Court, seeking an order directing the President to appoint a Chairman for the Right to Information (RTI) Commission of Sri Lanka.
-
-According to Ada Derana correspondent, the petition was filed by a journalist and a civil society organization.
-
-The President, the Secretary to the President, the Speaker, members of the Constitutional Council, and the Attorney General, among others have been named as respondents in the petition.
-
-The petitioners state that the post of Chairman of the Right to Information Commission has remained vacant for approximately six months.
-
-They point out that this vacancy arose following the resignation of retired Supreme Court Justice Upali Abeyratne, who previously served as the Chairman of the RTI Commission.
-
-...
-
-[Data](articles/c06d2c12.json)
-
----
-
-### Evening showers expected in several areas in the next few days
-
-*2025-07-30 05:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110981/evening-showers-expected-in-several-areas-in-the-next-few-days) · `en`
-
-Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers will occur at several places in the North-Central, Central, Uva and Eastern provinces after 1:00 p.m. today (30), the Met. Department added.
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-Fairly strong winds of about 40kmph can be expected at times over the Southern province.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/053288c1.json)
 
 ---

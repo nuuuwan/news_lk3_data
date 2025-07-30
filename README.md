@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 12:51:54**
+As of **2025-07-30 13:07:46**
 
 ## Newspaper Stats
 
-*Scraped **67,705** Articles*
+*Scraped **67,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-economynextcom | 4,134
+economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,502
+adalk | 6,504
 adaderanalk | 8,355
 tamilmirrorlk | 9,815
 virakesarilk | 11,277
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,705 articles have been extended.
+61,973 (91.5%) of 67,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### ඇමෙරිකාවේ හවායි වෙත සුනාමි රළ එයි, තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම්
+
+*2025-07-30 12:48:53* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-හවායි-වෙත-සුනාමි-රළ-එයි--තවත්-රටවල්-කිහිපයකට-සුනාමි-අනතුරු-ඇඟවීම්/11-417609) · `si`
+
+රුසියාවේ ඇතිවූ රික්ටර් මාපාංකයේ 8.8ක ප්‍රභලත්වයෙන් යුත් භූමිකම්පාවට අදාළව ඇමෙරිකාවේ හවායි වෙත සුනාමි රළ කඩා වැදුණි. හවායි වෙත සුනාමි පූර්ව අනතුරු ඇඟවීම් නිකුත් කර තිබූ හෙයින් ජනතාව ආරක්ෂිත ස්ථාන කරා යොමුව තිබුණි.
+
+මේ අතර චීනය, පිල්පීනය, ඉන්දුනීසියාව, නවසීලන්තය, පේරු හා මෙක්සිකෝ යන රටවල්ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/3864c090.json)
+
+---
 
 ### சுனாமி எச்சரிக்கைகள்: என்ன நடக்கிறது: ஒரே பார்வையில்
 
@@ -49,6 +63,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/80df1517.json)
+
+---
+
+### Sri Lanka apparel exporters teach EU due diligence rules to rubber, tea exporters
+
+*2025-07-30 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-exporters-teach-eu-due-diligence-rules-to-rubber-tea-exporters-233671/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Apparel Exporters Association (SLAEA) said it had hosted a forum to update exporters, including those in sectors like tea and rubber, on the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD) where compliance is required to continue to ship goods to the region.
+
+The event focused on the implications of CSDDD for Sri Lanka’s export economy, SLAEA said.
+
+“It marks a new chapter in how international trade will be shaped and governed,” SLAEA Chairperson Rajitha Jayasuriya said.
+
+“It places responsibility and legal obligation not only on large EU companies, but by extension on every partner along the value chain—be it manufacturers, suppliers, raw material providers, or other supporting services—to proactively identify, prevent, and address human rights and environmental risks within their operations.”
+
+...
+
+[Data](articles/895cf720.json)
 
 ---
 
@@ -363,6 +395,24 @@ The mayor of Russia’s northern Kuril islands district said Wednesday that “e
 ...
 
 [Data](articles/665b41dc.json)
+
+---
+
+### ලෝකයේ හොඳම දූපත ලෙස ලංකාව කිරුළ පළදී
+
+*2025-07-30 11:20:46* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-හොඳම-දූපත-ලෙස-ලංකාව-කිරුළ-පළදී/11-417605) · `si`
+
+ගෝලීය සංචාරක වෙබ් අඩවියක් වන බිග් 7 ට්‍රැවල් විසින් සම්පාදනය කරන ලද "ලෝකයේ හොඳම දූපත් 50" ලැයිස්තුවේ ප්‍රමුඛ ස්ථානය ලබා ගනිමින් ශ්‍රී ලංකාව ලොව ලස්සනම දූපත ලෙස කිරුළු පැළඳ ඇත.
+
+2025 ලැයිස්තුව ලෝකයේ වඩාත්ම විශ්මයජනක දූපත් ගමනාන්ත සමරන අතර, ප්‍රංශ පොලිනීසියාවේ මුඕරියා, ඉක්වදෝරයේ ගැලපගෝස් දූපත් සහ සීෂෙල්ස් වැනි සුප්‍රසිද්ධ දූපත් පාරාදීසයන්ට වඩා ශ්‍රී ලංකාව ඉදිරියෙන් සිටී.
+
+බිග් 7 ට්‍රැවල්ට අනුව, සංස්කෘතික උරුමයන්, විවිධ භූ දර්ශන සහ පිරිසිදු වෙරළ තීරයන්ගේ පොහොසත් මිශ්‍රණය සඳහා ශ්‍රී ලංකාව තෝරා  ගෙන තිබේ.
+
+අද්විතීය වනජීවීන්, පුරාණ විහාරස්ථාන, සශ්‍රීක තේ වගාවන් සහ සජීවී දේශීය අත්දැකීම් සඳහා බිග් 7 ට්‍රැවල් විශේෂ අවධානය යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/d1c4e40d.json)
 
 ---
 
@@ -1779,51 +1829,5 @@ When the matter was called before the Colombo District Court, the case was withd
 ...
 
 [Data](articles/4818cdcf.json)
-
----
-
-### புதிய பயங்கரவாத எதிர்ப்புச்சட்ட வரைபில் மட்டுமீறிய அதிகாரங்களை ஜனாதிபதிக்கு வழங்காதீர் - அம்பிகா சற்குணநாதன் வலியுறுத்தல்
-
-*2025-07-30 02:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221322) · `ta`
-
-புதிதாக உருவாக்கப்படும் பயங்கரவாத எதிர்ப்புச்சட்டத்தில் நீதிமன்றத்தின் அல்லது பாராளுமன்றத்தின் அனுமதியின்றி ஊரடங்கு உத்தரவு பிறப்பித்தல், சில இடங்களை தடைசெய்யப்பட்ட பகுதிகளாக வரையறுத்து மக்கள் நடமாட்டத்தை மட்டுப்படுத்தல் போன்ற அறிவிப்புக்களை வெளியிடுவதற்கான அதிகாரம் ஜனாதிபதிக்கு வழங்கப்படக்கூடாது என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் உறுப்பினரும், சித்திரவதைகளைத் தடுப்பதற்கான ஐ.நா முகவரகத்தின் உறுப்பினருமான சட்டத்தரணி அம்பிகா சற்குணநாதன் வலியுறுத்தியுள்ளார்.
-
-தற்போது நடைமுறையில் உள்ள பயங்கரவாதத்தடைச்சட்டத்தைப் பதிலீடு செய்யும் வகையில் புதியதொரு பயங்கரவாத எதிர்ப்புச்சட்ட வரைபைத் தயாரிப்பதற்கு அவசியமான பரிந்துரைகளை முன்வைக்குமாறு நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சு அண்மையில் வேண்டுகோள்விடுத்திருந்தது. அதற்கமைய அம்பிகா சற்குணநாதனால் நீதியமைச்சுக்கு அனுப்பிவைக்கப்பட்டுள்ள பரிந்துரைகள் அடங்கிய கடிதத்தில் சுட்டிக்காட்டப்பட்டுள்ள முக்கிய விடயங்கள் வருமாறு:
-
-...
-
-[Data](articles/0b55191a.json)
-
----
-
-### 2025-07-29 (Tuesday)
-
-### Central Bank of Sri Lanka promotes digital payments in Dambulla
-
-*2025-07-29 23:32:00* · [`islandlk`](http://island.lk/central-bank-of-sri-lanka-promotes-digital-payments-in-dambulla/) · `en`
-
-Continuing its Digital Payments Promotion Campaign of 2025, the Central Bank of Sri Lanka (CBSL) has organized a promotional event on 1st and 2nd of August 2025 from 9.30 am to 7.00 pm at the Dambulla Dedicated Economic Centre with the participation of Dr. Nandalal Weerasinghe, the Governor of CBSL, and other senior officials.
-
-CBSL launched its nationwide campaign under the theme ‘Shaping the future through digital payments’ considering the important role played by digital payments in enabling financial inclusion leading to economic development. The campaign intends to empower Sri Lankans with knowledge and experience of making digital payments which is a safer, more convenient, and efficient alternative to cash. As part of its campaign, CBSL successfully conducted two events in Hambantota and Nuwara Eliya districts earlier this year, in collaboration with financial institutions and other stakeholders.
-
-...
-
-[Data](articles/96175788.json)
-
----
-
-### Breaking free from conventional investment paths; How to make your money work harder
-
-*2025-07-29 23:32:00* · [`islandlk`](http://island.lk/breaking-free-from-conventional-investment-paths-how-to-make-your-money-work-harder/) · `en`
-
-Picture this: You have some extra money sitting in your drawer, while across town, an established manufacturing company with a solid track record desperately needs funds to expand their operations and hire more workers. How do these two needs meet? Welcome to the fascinating world of capital markets – Sri Lanka’s financial matchmaking service.
-
-Think of capital markets as giant marketplaces where money changes hands. Just like in an ordinary marketplace, companies come to capital markets to “buy” money (through borrowing or selling shares), while people with extra cash come to “sell” their money (by investing) in exchange for returns.
-
-In simple terms, capital markets help channel money from people who have it (savers and investors) to people who need it (businesses and governments) to grow and create jobs.
-
-...
-
-[Data](articles/9d77f7e3.json)
 
 ---

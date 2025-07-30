@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 11:11:04**
+As of **2025-07-30 11:28:59**
 
 ## Newspaper Stats
 
-*Scraped **67,672** Articles*
+*Scraped **67,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,129
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,500
+adalk | 6,501
 adaderanalk | 8,346
-tamilmirrorlk | 9,804
+tamilmirrorlk | 9,805
 virakesarilk | 11,277
 adaderanasinhalalk | 11,637
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.6%) of 67,672 articles have been extended.
+61,973 (91.6%) of 67,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### 2 நாட்களில்  இருளில் மூழ்க போகும் பூமி
+
+*2025-07-30 11:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/2-நாட்களில்-இருளில்-மூழ்க-போகும்-பூமி/57-362031) · `ta`
+
+21ம் நூற்றாண்டின் நீளமான சூரிய கிரகணம் 2025 ஆகஸ்ட் 2ம் திகதி நிகழ்கிறது. 2025 ஆகஸ்ட் 2-ஆம் திகதி நிகழவிருக்கும் மிக நீண்ட சூரிய கிரகணம் ஒரு குறிப்பிடத்தக்க நிகழ்வாகும். ஸ்பெயின், எகிப்து மற்றும் சவுதி அரேபியா போன்ற நாடுகளில் இது முழுமையாக தெரியும் என எதிர்பார்க்கப்படுகிறது.
+
+வழக்கமான கிரகணங்கள் சில நிமிடங்களில் முடிவடையும் நிலையில், இந்த நிகழ்வு சுமார் 6 நிமிடங்கள் 23 வினாடிகள் வரை நீடிக்கும். ஐரோப்பா, வட ஆப்பிரிக்கா, மற்றும் மத்திய கிழக்கு நாடுகளில் இந்த சூரிய கிரகணம் தெளிவாகத் தெரியும். சில பகுதிகளில் ஆறு நிமிடங்களுக்கு மேல் இருள் சூழ்ந்திருக்கும். இது ஒரு முக்கியமான வானியல் நிகழ்வாகும். இந்தியா முழுவதும் மாலை 4 மணி முதல் 6 மணி வரை கிரகணம் தெரியும்.
+
+இந்தக் கிரகணத்தின்போது சூரியனின் ஒளிவட்டத்தை நீண்ட நேரம் காண முடியும். ஆசியா மற்றும் அமெரிக்காவின் சில பகுதிகளில் இது முழுமையாகத் தெரியாது. எனினும், இந்தியாவின் மேற்குப் பகுதிகளில் ஓரளவு தெரியும்.
+
+...
+
+[Data](articles/ee2d2163.json)
+
+---
 
 ### முன்னாள் டிஐஜி பிரியந்த ஜயக்கொடிக்கு விளக்கமறியல்
 
@@ -60,7 +76,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### රුසියාවේ භූකම්පනයෙන් තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම්
+### භූකම්පනයෙන් තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම් - ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයට බලපෑමක් නෑ
 
 *2025-07-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212816) · `si`
 
@@ -76,7 +92,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 භූකම්පනය හේතුවෙන් කම්චැට්කා අර්ධද්වීපට අඩි 13ක් උස සුනාමි රළක් ද ඇති වුණි.
 
-◼️
+මේ අතර ජපානයට බලපෑ සුනාමි තත්ත්වය හේතුවෙන් ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයට මේ දක්වා කිසිදු බලපෑමක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+බලාගාරයේ අධීක්ෂණ කටයුතු සිදුකරන එරට රජයට අයත් ටෝකියෝ විදුලිබල සමාගම හෙවත් ටෙප්පෝ සමාගම ප්‍රකාශ කර ඇත්තේ, සියලු කාර්ය මණ්ඩලය මේ වනවිට ඉන් ඉවත්කර ඇති බවය.
+
+...
 
 [Data](articles/44599fd6.json)
 
@@ -868,11 +888,11 @@ The general public has also been requested to take adequate precautions to minim
 
 *2025-07-30 05:11:44* · [`dailyftlk`](https://www.ft.lk/columns/Provinces-development-and-governance/4-779660) · `en`
 
-One does not expect the President to be fully versed on all the structures. It is the responsibility of those serving his office to show him the way
-
 In October 2024 the President had requested Governors to improve the living conditions of the people. President Anura Kumara Disanayake instructed the Governors to prepare and submit a new proposal aimed at rationalising the Provincial Council mechanism. The President also stated that, given the current Government’s transitional period, the provincial councils must strive to deliver the best possible services to improve the living conditions of the people.
 
 Recent news reported that although Rs. 574 million has been allocated for the Hambantota District this year under the Southern Province Development Program, only about Rs. 23 million has been spent so far in July, amounting to approximately 4% progress.
+
+Frankly, a couple of heads should have rolled. The Governor, Chief Secretary, District Secretary, Divisional Secretaries, Provincial Ministry Secretaries, Deputy Chief Secretary Finance of the Province and the Finance Commission of Sri Lanka are responsible for fiscal oversight.
 
 ...
 
@@ -1741,19 +1761,5 @@ Under these circumstances, MP Namal Rajapaksa, who had been overseas at the time
 ...
 
 [Data](articles/7cb76095.json)
-
----
-
-### Will The AKD/NPP Sabotage Or Support The RTIC? A Burning Question For “System Change’
-
-*2025-07-29 19:19:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/will-the-akd-npp-sabotage-or-support-the-rtic-a-burning-question-for-system-change/) · `en`
-
-Defeating all expectations of good governance on which the National Peoples’ Power (NPP) and President Anura Kumara Dissanayake (AKD) coasted to a stunning electoral victory in 2024, the NPP Government has stubbornly turned a deaf ear to public appeals to speedily appoint the Chair of the Right to Information Commission (RTIC) left vacant since March 4th 2025 and to fill long pending vacancies in the senior legal staff of the Commission.
-
-These appeals include a recent Open Letter sent to the President and the Constitutional Council by one hundred and seventeen public intellectuals, lawyers, journalists, activists, trade unionists as well as former heads and members of independent constitutional commissions. Observing that the RTI Commission is ‘a critically important independent organ that ensures the government’s accountability to the public’, the President was told that the acid test of a system change in good governance was whether the NPP will support or sabotage the Commission.
-
-...
-
-[Data](articles/24ec57e3.json)
 
 ---

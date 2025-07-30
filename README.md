@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 05:31:45**
+As of **2025-07-30 06:11:10**
 
 ## Newspaper Stats
 
-*Scraped **67,612** Articles*
+*Scraped **67,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-economynextcom | 4,127
-islandlk | 4,127
+economynextcom | 4,129
+islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,496
 adaderanalk | 8,332
-tamilmirrorlk | 9,791
+tamilmirrorlk | 9,793
 virakesarilk | 11,272
 adaderanasinhalalk | 11,624
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,612 articles have been extended.
+61,973 (91.6%) of 67,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### இனிய பாரதியின் இன்னுமொரு சகா கைது
+
+*2025-07-30 05:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-இன்னுமொரு-சகா-கைது/175-362012) · `ta`
+
+இனிய பாரதியின் இன்னும் ஒரு சகாவான் சபாபதி மட்டு கிரான் வைத்து சிஐடி யினரால் கைது
+
+இனியபாரதியின் இன்னுமொரு சகாவான வெலிகந்தை தீவுச்சேனையைச் சேர்ந்த பாலிகிருஷ்ணன் சபாபதி என்பவரை மட்டக்களப்பு கிரானில் வைத்து இன்று செவ்வாய்க்கிழமை(29) மாலை 4.00 மணியளவில் கொழும்பில் இருந்து சென்ற குற்ற விசாரணைப் பிரிவு சிஜடி யினர் கைது செய்துள்ளனர்.
+
+ரி.எம.;வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேசசபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக சந்தேகத்தின் அடிப்படையில் கடந்த 6ம் திகதி திருக்கோவில் மற்றும் மட்டு சந்திவெளி பகுதிகளில் வைத்து சிஜடியினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/572ec560.json)
+
+---
 
 ### Provinces, development and governance
 
@@ -346,6 +362,68 @@ When the matter was called before the Colombo District Court, the case was withd
 
 ### 2025-07-29 (Tuesday)
 
+### Central Bank of Sri Lanka promotes digital payments in Dambulla
+
+*2025-07-29 23:32:00* · [`islandlk`](http://island.lk/central-bank-of-sri-lanka-promotes-digital-payments-in-dambulla/) · `en`
+
+Continuing its Digital Payments Promotion Campaign of 2025, the Central Bank of Sri Lanka (CBSL) has organized a promotional event on 1st and 2nd of August 2025 from 9.30 am to 7.00 pm at the Dambulla Dedicated Economic Centre with the participation of Dr. Nandalal Weerasinghe, the Governor of CBSL, and other senior officials.
+
+CBSL launched its nationwide campaign under the theme ‘Shaping the future through digital payments’ considering the important role played by digital payments in enabling financial inclusion leading to economic development. The campaign intends to empower Sri Lankans with knowledge and experience of making digital payments which is a safer, more convenient, and efficient alternative to cash. As part of its campaign, CBSL successfully conducted two events in Hambantota and Nuwara Eliya districts earlier this year, in collaboration with financial institutions and other stakeholders.
+
+...
+
+[Data](articles/96175788.json)
+
+---
+
+### Breaking free from conventional investment paths; How to make your money work harder
+
+*2025-07-29 23:32:00* · [`islandlk`](http://island.lk/breaking-free-from-conventional-investment-paths-how-to-make-your-money-work-harder/) · `en`
+
+Picture this: You have some extra money sitting in your drawer, while across town, an established manufacturing company with a solid track record desperately needs funds to expand their operations and hire more workers. How do these two needs meet? Welcome to the fascinating world of capital markets – Sri Lanka’s financial matchmaking service.
+
+Think of capital markets as giant marketplaces where money changes hands. Just like in an ordinary marketplace, companies come to capital markets to “buy” money (through borrowing or selling shares), while people with extra cash come to “sell” their money (by investing) in exchange for returns.
+
+In simple terms, capital markets help channel money from people who have it (savers and investors) to people who need it (businesses and governments) to grow and create jobs.
+
+...
+
+[Data](articles/9d77f7e3.json)
+
+---
+
+### ComBank’s Rs 15 billion Green Bond Issue opens on August 4
+
+*2025-07-29 23:30:00* · [`islandlk`](http://island.lk/combanks-rs-15-billion-green-bond-issue-opens-on-august-4/) · `en`
+
+The Commercial Bank of Ceylon has announced plans to raise up to Rs 15 billion for lending to sustainability-linked projects via a Green Bond approved in principle by the Colombo Stock Exchange (CSE) for public listing.
+
+The Green Bond Issue opening on Monday 4th August 2025 will comprise of an initial issue of 100 million Basel III Compliant – Tier 2 Listed Rated Unsecured Subordinated Redeemable Green Bonds with a Non-Viability Conversion feature, at the par value of Rs 100/= each, to raise a sum of Rupees 10 billion; and an option to issue up to a further 50 million Green Bonds at the discretion of the Bank, in the event of an oversubscription of the initial issue.
+
+The Bank said the issue will further strengthen its Tier II capital base and raise funds for the expansion of its green lending portfolio.
+
+...
+
+[Data](articles/b5be8ab8.json)
+
+---
+
+### HNB, JKH and Sierra Cables drive trading activity on Colombo Stock Exchange
+
+*2025-07-29 23:28:00* · [`islandlk`](http://island.lk/hnb-jkh-and-sierra-cables-drive-trading-activity-on-colombo-stock-exchange/) · `en`
+
+The trading activities on the Colombo Stick Exchange were positive yesterday despite a slight decline in JKH stocks due to certain negative news reports on BYD vehicle imports pertaining to alleged engine capacity issues, market analysts said.
+
+Amid those developments, the market was positive overall with most counters witnessing advances
+
+In a combined result, mixed reactions were noted in both indices; All Share Price Index up by 14.34 points while S and P SL20 down by 11.7 points.
+
+...
+
+[Data](articles/f583f39b.json)
+
+---
+
 ### யாழில் இடம்பெற்ற கோர விபத்து!
 
 *2025-07-29 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221321) · `ta`
@@ -546,6 +624,48 @@ They extended their gratitude to President Dissanayake for undertaking the state
 
 ---
 
+### Sri Lanka’s JKCG says in discussions with authorities over detained Chinese BYDs
+
+*2025-07-29 21:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkcg-says-in-discussions-with-authorities-over-detained-chinese-byds-233474/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s authorized distributor of BYD vehicles John Keells CG Auto (Pvt) Ltd (JKCG) is “actively engaged” in discussions with the relevant government authorities to clarify an issue with regard motor power, the company said.
+
+Sri Lanka Customs has detained around 1,000 Chinese-made BYD electric vehicles that arrived in the island this month over a motor capacity issue which is used to calculate taxes, official sources have said.
+
+Customs have been declared a motor output of 100 kiloWatts, based on the manufacturers rating where output is limited to 100kW with a reduction is performance.
+
+“We would like to reassure our key stakeholders and the public that… the vehicles in question imported directly from the manufacturer, BYD in China, are 100 kW models,” the JKCG said in a statement.
+
+“These are identical to the models offered for sale in some other international markets such as Singapore,” it said.
+
+...
+
+[Data](articles/2199935d.json)
+
+---
+
+### IMF upgrades world, India, China growth on lower Trump tariffs, warns on fiscal risks
+
+*2025-07-29 21:10:00* · [`economynextcom`](https://economynext.com/imf-upgrades-world-india-china-growth-on-lower-trump-tariffs-warns-on-fiscal-risks-233473/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has upgraded its 2025 world growth forecast to 3.0 percent in a July projection up from 2.8 percent in April, with China increased to 4.8 percent (+0.8-pct) and India 6.4 percent (+0.2-pct), amid lower than initial Trump tariffs.
+
+“A rebound in effective tariff rates could lead to weaker growth,” the IMF said in a July update to its World Economic Outlook.
+
+“Elevated uncertainty could start weighing more heavily on activity, also as deadlines for additional tariffs expire without progress on substantial, permanent agreements.
+
+“Geopolitical tensions could disrupt global supply chains and push commodity prices up.”
+
+Russia’s growth was downgraded by 0.6 percent to just 0.9 percent. Russia has been hit by sanctions, sharply higher military spending.
+
+The Russian central bank successfully shifted a floating exchange rate regime after Western nations froze its reserves and lost a chance to trigger a currency crisis and an economic meltdown.
+
+...
+
+[Data](articles/2919d172.json)
+
+---
+
 ### வெப்பநிலை குறித்து விடுக்கப்பட்டுள்ள எச்சரிக்கை
 
 *2025-07-29 21:06:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/175-361999) · `ta`
@@ -569,6 +689,18 @@ They extended their gratitude to President Dissanayake for undertaking the state
 ◼️
 
 [Data](articles/988db84f.json)
+
+---
+
+### ஒக்கம்பிட்டிய  ஓ.ஐ.சி கைது
+
+*2025-07-29 21:04:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்கம்பிட்டிய-ஓ-ஐ-சி-கைது/175-361998) · `ta`
+
+மொனராகலை - ஒக்கம்பிட்டிய பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி இலஞ்சம் மற்றும் ஊழல் தொடர்பான குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d21db890.json)
 
 ---
 
@@ -1593,155 +1725,5 @@ At the heart of that commitment was the introduction of the 13th Amendment to th
 ...
 
 [Data](articles/378d0c26.json)
-
----
-
-### லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்கு தெரியும் ; இவர்களாவது நீதியை பெற்றுதருவார்கள் என நம்புகின்றேன் - லலித்தின் தந்தை
-
-*2025-07-29 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221282) · `ta`
-
-லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்கு தெரியும் என தெரிவித்துள்ள  லலித்தின்  தந்தை ஆறுமுகம் வீரராஜா லலித்குகனிற்கும் காணாமல்போன ஆயிரக்கணக்கானவர்களிற்கும் இந்த அரசாங்கத்தில் நீதி கிடைக்கும் என எதிர்பார்ப்பதாக தெரிவித்துள்ளார்.
-
-கொழும்பு பொலிஸ்தலைமையகத்திற்கு வாக்குமூலம் வழங்கிய பின்னர் ஊடகங்களிற்கு கருத்து தெரிவிக்கையிலேயே அவர் இதனை தெரிவித்துள்ளார்.
-
-இதிலாவது நல்லது கிடைக்கும் என எதிர்பார்க்கின்றோம். நாளைமறுதினம் வழக்கு உள்ளது வழக்கில் நல்ல முடிவு கிடைக்கும் என்றே எதிர்பார்க்கின்றோம்.
-
-லலித்குகன் யார் என்பது இந்த அரசாங்கத்திற்கு நன்றாக தெரியும், இந்த அரசாங்கத்திலாவது நீதி கிடைக்கவேண்டும்.எனது பிள்ளைக்கும் ஏனையவர்களிற்கும் நீதி கிடைக்குமாக இருந்தான் நான் இந்த அரசாங்கத்திற்கு நன்றி தெரிவிப்பேன்.
-
-◼️
-
-[Data](articles/48034813.json)
-
----
-
-### மகிஷினி கொலோன்ன இந்திய ஜனாதிபதியிடம்  நற்சான்றிதழ்களை கையளித்தார்
-
-*2025-07-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221284) · `ta`
-
-இந்தியாவுக்கான இலங்கை உயர் ஸ்தானிகராக நியமிக்கப்பட்ட மகிஷினி கொலோன்ன, இன்று செவ்வாய்க்கிழமை (29) இந்திய ஜனாதிபதி திரௌபதி முர்முவிடம் தனது நற்சான்றிதழ்களை கையளித்தார்.
-
-இந்திய ஜனாதிபதியின் உத்தியோகபூர்வ இல்லமான ராஷ்டிரபதி பவனில் நடைபெற்ற நிகழ்வில் அவர் தனது நற்சான்றிதழ்களை கையளித்தார்.
-
-கடந்த மே மாதம் ஜனாதிபதி அநு குமார திசாநாயக்கவால் மகிஷினி கொலோன்ன இந்தப் பதவிக்கு நியமிக்கப்பட்டார்.
-
-◼️
-
-[Data](articles/5b897c2b.json)
-
----
-
-### Namal returns from Maldives amidst possible arrest
-
-*2025-07-29 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110968/namal-returns-from-maldives-amidst-possible-arrest) · `en`
-
-SLPP Member of Parliament Namal Rajapaksa had arrived at the Bandaranaike International Airport (BIA) in Katunayake this afternoon (29), concluding his visit to the Maldives.
-
-According to Ada Derana reporter, several attorneys and a group of political supporters were seen gathered at the BIA premises awaiting his arrival.
-
-They had gathered at the BIA following reports of possible attempts to arrest Namal Rajapaksa upon arrival at the BIA, pursuant to a warrant issued by the Hambantota Magistrate’s Court.
-
-In this context, Rajapaksa had reached the BIA on board SriLankan Airlines flight UL 102 from Malé, Maldives, at around 11.30 a.m. today (29).
-
-He had later exited the airport via the Silk Route Lounge at around 12.30 p.m.
-
-A case has been filed against MP Namal Rajapaksa and several others for allegedly disregarding court orders during a protest in 2017 against the transfer of the Hambantota Port to foreign companies.
-
-...
-
-[Data](articles/e7d3498e.json)
-
----
-
-### නාමල් එයි කටුනායකින් පිටව යයි
-
-*2025-07-29 15:49:04* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-එයි-කටුනායකින්-පිටව-යයි/11-417588) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා මාලදිවයින සංචාරය නිමා කර 07/29 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර හම්බන්තොට අධිකරණය මගින් වරෙන්තුවක් නිකුත් කර තිබුණ ද ඔහු අත් අඩංගුවට ගැනීමකින් තොරව ගුවන් තොටුපොළෙන් පිට වී ගියේය.
-
-ඔහු 07/29 දින උදෑසන 11.30 ට මාළදිවයින මාළේ නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 102 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
-
-නාමල් රාජපක්ෂ මහතාගේ පැමිණීම බලාපොරොත්තුවෙන් නීතීඥවරුන් කීප දෙනෙකු සහ ඔහුගේ ආධාර කරුවන් කීප දෙනෙකු ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ.
-
-කටුනායක ගුවන්තොටුපළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් වෙත මොහු අත්අඩංගුවට ගැනීමට අධිකරණයෙන් නියෝගයක් ලැබී නොතිබුනු අතර පොලීසිය විසින් ද අත් අඩංගුවට ගැනීමක් සිදු නොකර තිබුණි .
-
-මෙම පසුබිම යටතේ නාමල් රාජපක්ෂ මහතා 07/29 දින දහවල් 12.30 ට පමණ කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය ඔස්සේ ගුවන් තොටුපොළෙන් පිට වී ගියේය .
-
-◼️
-
-[Data](articles/67e5700c.json)
-
----
-
-### නාමල්ගේ වරෙන්තුව ආපසු කැඳවයි
-
-*2025-07-29 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212784) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාට හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය මගින් නිකුත් කර තිබූ වරෙන්තුව ආපසු කැඳවා පෙර ඇප මත නිදහස් කිරීමට අද (29) එම අධිකරණය නියෝග කළේය.
-
-ඒ, මාලදිවයි‍නේ සංචාරය නිමා කරමින් අද උදෑසන දිවයිනට පැමිණි පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා මෝසමක් මාර්ගයෙන් හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත්වීමෙන් අනතුරුවය.
-
-2017 වසරේ දී හම්බන්තොට වරාය විදෙස් රටවලට පැවරීමට එරෙහිව පැවති විරෝධතාවකදී අධිකරණ නියෝග නොතකමින් කටයුතු කිරීම සම්බන්ධයෙන් නාමල් රාජපක්ෂ මන්ත්‍රීවරයා ඇතුළු පිරිසකට එරෙහිව මෙම නඩුව ගොනු කර තිබේ.
-
-මෙම නඩුව ඊයේ (28) කැඳවූ අවස්ථාවේදී මන්ත්‍රීවරයා අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් මෙලෙස ඔහු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය පොලීසියට නියෝගයක් නිකුත් කර තිබුණි.
-
-එවන් පසුබිමක් තුළ නාමල් රාජපක්ෂ මහතා අද මෝසමක් මාර්ගයෙන් හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනීසිට තිබුණි.
-
-◼️
-
-[Data](articles/0c9f4c10.json)
-
----
-
-### බීඩි සඳහා දුම්කොළ බද්ද වැඩි කිරීමට මුදල් පිළිබඳ කාරක සභාවේ අනුමැතිය
-
-*2025-07-29 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212783) · `si`
-
-බීඩි සඳහා දුම්කොළ බද්ද වැඩි කිරීමේ ගැසට් පත්‍රයට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමැතිය හිමව තිබේ.
-
-ශ්‍රී ලංකාවේ නිෂ්පාදනය කරන සෑම බීඩි වර්ගයක් සඳහාම අය කරනු ලබන දුම්කොළ බද්ද 2025 අප්‍රේල් 02 වන දින සිට බලපැවැත්වෙන පරිදි රු. 2 සිට රු. 3 දක්වා වැඩි කිරීම සඳහා වන 2025 අප්‍රේල් 01 දිනැති අංක 2430/16 දරන අතිවිශේෂ ගැසට් නිවේදනය රජය විසින් නිකුත් කර තිබුණි.
-
-මේ පිළිබඳ සලකා බලනු ලැබුයේ රජයේ මුදල් පිළිබඳ කාරක සභාව සභාපති  පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-අදාළ බදු ඉහළ නැංවීම 2025 අයවැය මගින් ප්‍රකාශයට පත් කරන ලද අතර, එය 1999 අංක 8 දරන දුම්කොළ බදු පනත යටතේ, 2 වන වගන්තියට අනුකූලව මුදල් අමාත්‍යවරයා විසින් කරන ලද නියෝගයක් මගින් ක්‍රියාත්මක කිරීමට නියමිතය.
-
-මෙහිදී අදහස් දැක්වූ සුරාබදු කොමසාරිස් ජනරාල්වරයා සඳහන් කළේ පසුගිය වසරේ බීඩි නිෂ්පාදකයින් සඳහා බලපත්‍ර 1,140ක් නිකුත් කර ඇති නමුත්, බදු ඉහළ නැංවීමේන් අනතුරුව මෙම වසරේ බලපත්‍ර අලුත් කර ඇත්තේ 840ක් පමණක් බවය.
-
-...
-
-[Data](articles/9f950b0e.json)
-
----
-
-### Sri Lanka sells Rs71bn in bonds after offering Rs122bn
-
-*2025-07-29 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs71bn-in-bonds-after-offering-rs122bn-233411/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 71 billion rupees in 2030 and 2037 bonds, of an offered 122 billion, data from the state debt office showed.
-
-50.20 billion rupees of 01 July 2030 (LKB00530G018) bonds were sold at an average yield of 9.77 percent, of an offered 90 billion.
-
-20.85 billion rupees of 01 July 2037 (LKB01237G019) bonds were sold of an offered 32 billion at an average yield of 11.08 percent.
-
-◼️
-
-[Data](articles/ccca2a46.json)
-
----
-
-### Steps taken to enhance language skills and training of Sri Lankans seeking jobs in Japan
-
-*2025-07-29 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110967/steps-taken-to-enhance-language-skills-and-training-of-sri-lankans-seeking-jobs-in-japan) · `en`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has taken necessary steps to improve the standards of Sri Lankan job seekers heading to Japan by enhancing their language skills and training.
-
-The General Manager of the Sri Lanka Bureau of Foreign Employment (SLBFE), D.D.P. Senanayake, stated that the Bureau is actively working towards this goal.
-
-He made these remarks during a meeting held yesterday (28) with the Chairman of IM Japan, Hiroshi Kimura, and its Managing Director, Masahiko Fukasawa, who are currently visiting Sri Lanka and met with the senior management of the SLBFE.
-
-The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in Japan’s nursing sector and emphasized the need to increase the number of nursing trainees. He also suggested establishing a training pool to support this initiative.
-
-...
-
-[Data](articles/5a644883.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 18:10:02**
+As of **2025-07-30 18:33:15**
 
 ## Newspaper Stats
 
-*Scraped **67,761** Articles*
+*Scraped **67,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,513
-adaderanalk | 8,366
-tamilmirrorlk | 9,826
-virakesarilk | 11,282
-adaderanasinhalalk | 11,660
+adaderanalk | 8,368
+tamilmirrorlk | 9,827
+virakesarilk | 11,283
+adaderanasinhalalk | 11,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,761 articles have been extended.
+61,973 (91.5%) of 67,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### ට්‍රම්ප්ගෙන් ඉන්දියාවට සියයට 25ක තීරු බද්දක්
+
+*2025-07-30 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212843) · `si`
+
+අමෙරිකානු එක්සත් ජනපදය විසින් ඉන්දියාවෙන් අයකරන අන්‍යෝන්‍ය තීරුබදු අනුපාතය 25%ක් බව නිවේදනය කර තිබේ.
+
+ඒ අනුව අගෝස්තු 1 වනදා සිට එනම්, සෙනසුරාදා සිට මෙය බලපැවැත්වෙන අමෙරිකානු ජනධිපති ඩොනල්ඩ් ට්‍රම්ප් සිය Truth සමාජ මාධ්‍ය ගිණුම හරහා මේ බව නිවේදනය කර ඇත.
+
+◼️
+
+[Data](articles/db9ba53f.json)
+
+---
+
+### புலிகளின் ஆயுதங்களை வாடகைக்கு விட்ட மூவர் சிக்கினர்
+
+*2025-07-30 18:08:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-ஆயுதங்களை-வாடகைக்கு-விட்ட-மூவர்-சிக்கினர்/175-362064) · `ta`
+
+போரின் போது சேகரிக்கப்பட்ட விடுதலைப் புலிகளின் ஆயுதங்களை மறைத்து, தெற்கில் உள்ள பாதாள உலக உறுப்பினர்கள் மற்றும் குற்றவாளிகளுக்கு வாடகைக்கு கொடுடுத்ததாகக் கூறப்படும் மூவர் கைது செய்யப்பட்டுள்ளனர்
+
+வவுனியா, நேரிகுளம் பகுதியைச் சேர்ந்த மூன்று சந்தேக நபர்களையும்  பயங்கரவாத புலனாய்வுப் பிரிவில் 03 மாத காலத்திற்கு தடுத்து வைத்து விசாரிக்க கொழும்பு மேலதிக நீதவான் பசன் அமரசேன உத்தரவிட்டார்.
+
+சந்தேக நபர்களான காரியக் பெரமல் ரமேஷ், அந்தோணி பெர்னாண்டோ விக்ரம மற்றும் முகமது ராசிக் ஆகியோரையே தடுத்து வைத்து விசாரிக்க உத்தரவிடப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/2fe213f3.json)
+
+---
 
 ### இராணுவத் தளபதியின் சேவை நீட்டிப்பு...
 
@@ -124,6 +154,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோவின் பதவிக்காலம் நீடிப்பு
+
+*2025-07-30 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221386) · `ta`
+
+இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோவின் பதவிக்காலம் ஜனாதிபதி அநுர குமார திசாநாயக்கவினால் ஒரு வருட காலம் நீடிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/95faf932.json)
+
+---
+
 ### වත්මන් යුද හමුදාපතිවරයාට සේවා දිගුවක්
 
 *2025-07-30 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212840) · `si`
@@ -155,6 +197,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7bd27d4b.json)
+
+---
+
+### Army Commander granted one-year service extension
+
+*2025-07-30 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111017/army-commander-granted-one-year-service-extension) · `en`
+
+The Commander of the Sri Lanka Army, Lieutenant General Lasantha Rodrigo, has been granted one-year service extension by President Anura Kumara Dissanayake.
+
+The extension, effective from August 1, was granted by President Dissanayake.
+
+Lieutenant General Lasantha Rodrigo officially assumed duties as the 25th Commander of the Sri Lanka Army at the Army Headquarters on December 31, 2024.
+
+Before assuming the duties of Army Commander, he previously served as the Deputy Chief of Staff of the Sri Lanka Army, demonstrating a distinguished career in leadership and service.
+
+He also served as the Commandant of the Defence Services Command and Staff College.
+
+Lieutenant General Lasantha Rodrigo is an alumnus of St. Benedict’s College, Colombo, and joined the Regular Force of the Sri Lanka Army as an Officer Cadet on January 20, 1989, under Regular Intake - 31 (IMA).
+
+◼️
+
+[Data](articles/75b83876.json)
 
 ---
 
@@ -225,6 +289,24 @@ According to the Maldivian authorities, this initiative is being offered in the 
 ...
 
 [Data](articles/442b4fc9.json)
+
+---
+
+### Maldives grants free 90-day on-arrival tourist visas to Sri Lankans
+
+*2025-07-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111016/maldives-grants-free-90-day-on-arrival-tourist-visas-to-sri-lankans) · `en`
+
+The Government of the Maldives has announced that Sri Lankan citizens will be granted free 90-day on-arrival tourist visas for travel to the Maldives for tourism purposes.
+
+This decision coincides with the official visit of Sri Lankan President Anura Kumara Dissanayake to the Maldives, according to the President’s Media Division (PMD).
+
+This visa facility will take effect from 29 July 2025. To obtain the visa, Sri Lankan travellers must hold a valid passport and provide proof of sufficient funds to cover their expenses during their stay in the Maldives.
+
+According to the Maldivian authorities, this initiative is being offered in the spirit of mutual cooperation between the two nations. It is subject to the terms of the Agreement on the Provision of Visa Facilitation between the Government of the Maldives and the Government of Sri Lanka, as well as the immigration laws and regulations of the Maldives.
+
+...
+
+[Data](articles/feff3b2c.json)
 
 ---
 
@@ -1713,107 +1795,5 @@ Here is the complete list of countries and islands where tsunami waves could str
 ◼️
 
 [Data](articles/fc45c39e.json)
-
----
-
-### நுவரெலியாவில் பெண்கள் காப்பகம் திறப்பு
-
-*2025-07-30 09:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பெண்கள்-காப்பகம்-திறப்பு/76-362019) · `ta`
-
-நுவரெலியா தற்காலிக பெண்கள் காப்பகத்தை மகளிர் மற்றும் குழந்தைகள் நல அமைச்சர் திறந்து வைத்தார்.
-
-புதிய அரசாங்கம் அமைக்க பட்டதில் இருந்து குறுகிய காலத்திற்குள் பெண்கள் மற்றும் குழந்தைகள் நல மேம்பாட்டு க்கு சாதகமான பணிகளை மேற்கொண்டு வருகிறது என்று மகளிர் மற்றும் குழந்தைகள் நல அமைச்சர் சரோஜா சாவித்திரி பால் ராஜ் கூறினார்.
-
-செவ்வாய்க்கிழமை  (29)அன்று நுவரெலியா தற்காலிக பெண்கள் காப்பகத்தை திறந்து வைத்த பின்னர் ஊடகங்களுக்கு உரையாற்றிய போதே அவர் இந்தக் கருத்துக்களை தெரிவித்தார்.
-
-வீட்டு வன்முறையை எதிர்த்து போராடவும், குழந்தைகள் மற்றும் பெண்கள் பாதுகாப்பிற்கு தேவையான மசோதாக்களைக் கொண்டுவரவும், அனாதைகள் மற்றும் நன்னடத்தையில் உள்ள குழந்தைகளுக்கு ரூ. 5,000 உதவித்தொகை வழங்கவும் நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக அமைச்சர் கூறினார்.
-
-வீட்டு வன்முறையால் பாதிக்கப்பட்ட, குறுகிய காலத்திற்கு வீடுகளை விட்டு வெளியேறி, அரசின் பாதுகாப்பு மற்றும் சமூகமயமாக்கலுடன் தங்கியிருக்கும் பெண்கள் மற்றும் குழந்தைகளை தற்காலிக பெண்கள் தங்குமிடங்கள் மூலம் தங்க வைக்கும் திட்டம் செயல்படுத்தப்பட்டு வருவதாகவும் அவர் மேலும் தெரிவித்தார்.
-
-...
-
-[Data](articles/4fe1708f.json)
-
----
-
-### Sri Lanka’s Seylan Bank net up 20-pct in June
-
-*2025-07-30 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-seylan-bank-net-up-20-pct-in-june-233638/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Seylan Bank grew 25 percent from a year ago to 2.76 billion rupees in the June 2025 quarter, amid lower provisions and a pick up in fee income interim accounts showed.
-
-Seylan Bank group reported earnings of 4.35 rupees per share for the quarter. In the six months to June Seylan reported earnings of 8.56 rupees on total profits of 5.44 billion rupees, which grew 19.9 percent.
-
-Seylan’s interest income fell 6 percent to 19.94 billion rupees, interest expenses also fell 10.6 percent to 10.679 billion rupees and net interest income fell 0.48 percent to 9.26 billion rupees.
-
-Provisions were down to 229 million rupees from 1.4 billion rupees last year.
-
-Loans and advances rose 6.7 percent in the six months to June 2025.
-
-Investments in debt instruments fell 5.48 percent to 128.7 billion rupees.
-
-Placements with banks and finance companies fell to 28.4 billion rupees from 50.1 billion rupees.
-
-...
-
-[Data](articles/3c2d6d34.json)
-
----
-
-### ‘Stay strong and stay safe’: Donald Trump urges after massive earthquake triggered tsunami warnings
-
-*2025-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110993/stay-strong-and-stay-safe-donald-trump-urges-after-massive-earthquake-triggered-tsunami-warnings) · `en`
-
-U.S. President Donald Trump urged people to “stay strong and stay safe” following a massive 8.8-magnitude earthquake that struck off Russia’s eastern coast on Wednesday, prompting widespread tsunami warnings across the Pacific, including for the United States, Japan, and Hawaii.
-
-A powerful 8.8-magnitude earthquake struck off the coast of Russia early Wednesday, triggering tsunami waves that hit parts of Russia’s Kuril Islands and Japan’s northern island of Hokkaido.
-
-“Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United States. Japan is also in the way. Please visit https://tsunami.gov for the latest information. STAY STRONG AND STAY SAFE!” – said President Donald Trump in a posting on his Truth Social media platform.
-
-...
-
-[Data](articles/69877762.json)
-
----
-
-### සුනාමි රළ ජපානයට ඇතුළු වෙයි
-
-*2025-07-30 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212813) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් සුනාමි රළ උතුරු ජපානයේ වෙරළ තීරයන් වෙත ඇතුළු වී තිබේ.
-
-සෙන්ටිමීටර් 30ක උසකින් යුතුව සුනාමිය රළ වෙරළට පැමිණි බව NHK ගුවන් විදුලි නාලිකාව වාර්තා කළේය.
-
-ජපානයේ කාලගුණ ඒජන්සිය මීට පෙර පැවසුවේ, ජපානයේ උතුරු සහ නැගෙනහිර වෙරළ තීරයේ ඔසාකා නගරයට දකුණින් වකයාමා දක්වා මීටර් තුනක් දක්වා සුනාමි රළ පැමිණෙන ඇතැයි අපේක්ෂා කරන බවය.
-
-ජපානයේ ගිනිනිවීමේ හා ආපදා කළමනාකරණ ඒජන්සිය පැවසුවේ, සුනාමි තත්ත්වය යටතේ මේ දක්වා කිසිදු තුවාලයක් හෝ හානියක් වාර්තා වී නොමැති බවය.
-
-හොකයිඩෝ සිට ඔකිනාවා දක්වා විහිඳෙන ජපන් වෙරළ තීරයේ අවට නගර සභා 133කට අයත් පුද්ගලයින් ලක්ෂ 9ක් පමණ මේ වනවිට එම ස්ථානයන්ගෙන් ඉවත්කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-මේ අතර, රුසියාවට බලපෑ ප්‍රබල භූකම්පනය සහ සුනාමි තත්ත්වය හේතුවෙන් ඉන්දියානු සාගරයට සුනාමි අනතුරු ඇඟවීමක් නොමැති බව මෙරට අපදා කළමනාකරන මධ්‍යස්ථානය පවසයි.
-
-◼️
-
-[Data](articles/ab098144.json)
-
----
-
-### பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகள் பொலிஸில் சரண்
-
-*2025-07-30 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221334) · `ta`
-
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகள், வலானை குற்றத் தடுப்புப் பிரிவில் சரணடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-சட்டவிரோதமாக பொருத்தப்பட்ட வாகனத்தை தன்வசம் வைத்திருந்தமை தொடர்பில் முன்னெடுக்கப்படும் விசாரணைகள் தொடர்பாக அவர் தனது வழக்கறிஞருடன் சரணடைந்துள்ளார்.
-
-இந்த சம்பவம் தொடர்பாக அவரது கணவர் தனுஷ்க வீரக்கொடி கைது செய்யப்பட்டு தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-அண்மையில் மத்துகம பகுதியில் சட்டவிரோதமாக பொருத்தப்பட்ட வாகனம் ஒன்று கைப்பற்றப்பட்ட  சம்பவத்திலும் வீரக்கொடி தொடர்புடையவர் ஆவார்.
-
-இதே சம்பவத்துடன் தொடர்புடைய பாணந்துறை வலானை குற்றவியல் தடுப்புப் பிரிவினரால் கைது செய்யப்பட்ட பாராளுமன்ற உறுப்பினர் ஜகத் விதானவின் மகன் பிணையில் விடுவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/269b0cde.json)
 
 ---

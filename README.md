@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 14:55:13**
+As of **2025-07-30 15:10:49**
 
 ## Newspaper Stats
 
-*Scraped **67,723** Articles*
+*Scraped **67,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,506
+adalk | 6,507
 adaderanalk | 8,360
-tamilmirrorlk | 9,817
+tamilmirrorlk | 9,818
 virakesarilk | 11,279
-adaderanasinhalalk | 11,647
+adaderanasinhalalk | 11,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,723 articles have been extended.
+61,973 (91.5%) of 67,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### ජර්මනියේ ඔලිම්පික් තරුව කඳු නැගීමේදී අනතුරකට ලක්වෙයි
+
+*2025-07-30 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212829) · `si`
+
+ජර්මනියේ ද්විත්ව ඔලිම්පික් ශූරියක් වන ලෝරා ඩල්මයර් පාකිස්තානයේ කඳු නැගීමක් අතරතුර සිදුවූ අනතුරකින් බරපතළ තුවාල ලබා තිබේ.
+
+පසුගිය (28) වනදා ලෝරා ඩල්මයර් ඇගේ සහකරු සමඟ කරකෝරම් කඳුකරය නැගීමේදී මෙම අනතුර සිදු වී ඇත.
+
+අයහපත් කාලගුණය හේතුවෙන් අඟහරුවාදා උදෑසන වන තෙක් ගලවා ගැනීමේ හෙලිකොප්ටරයකට ඇය වෙත ළඟාවීමට නොහැකි වී තිබේ.
+
+දුර්වල ආලෝකය හේතුවෙන් අඟහරුවාදා සවස මෙහෙයුම් තාවකාලිකව අත්හිටුවීමට සිදුව ඇති අතර අද (30) උදෑසන නැවත ආරම්භ කළ බව ජර්මානු ගුවන් විදුලි විකාශක ZDF වාර්තා කරයි.
+
+ලෝරා ඩල්මයර් ඇගේ වෘත්තීය ජීවිතය පුරා විවිධ අංශයන් නියෝජනය කරමින් ලෝක ශූරතාවලියේදී රන් පදක්කම් 15ක් දිනාගෙන ඇත.
+
+තවද එකම ඔලිම්පික් උළෙලකදී කෙටි දුර ධාවන ඉසව්ව සහ ලුහුබැඳීමේ ඉසව්ව යන තරඟ දෙකම දිනාගත් පළමු කාන්තාව ඇයයි.
+
+◼️
+
+[Data](articles/86c44a20.json)
+
+---
+
+### ධීවර ප්‍රජාවටත් රක්ෂණ යෝජනා ක්‍රමයක්
+
+*2025-07-30 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212828) · `si`
+
+තම ජීවනෝපාය ලෙස කරදිය සහ මිරිදිය මසුන් ඇල්ලීම සඳහා කිමිදුම් කටයුතුවල නිරතව සිටින්නා වූ ධීවර ප්‍රජාව වෙනුවෙන් හදිසි අනතුරු රක්‍ෂණ යොජනා ක්‍රමයක් කෘෂිකාමික හා ගොවිජන රක්ෂණ මණ්ඩලය මගින් හඳුන්වාදී තිබේ.
+
+මෙම රක්ෂණ යෝජනා ක්‍රමය මඟින් අයහපත් කාලගුණික දේශගුණික තත්ත්වයන් හේතු කොටගෙන හෝ ධීවර රැකියාවේ නිරතව සිටින අතරතුර දී සිදුවන ඕනෑම හදිසි අනතුරකින් සිදුවිය හැකි ජීවිතය අහිමිවීම හෝ අනෙකුත් අර්කමණ්‍යවීම්වලදී රක්‍ෂණාවරන ලබාදීම සිදු කෙරේ.
+
+ධීවර කටයුතුවලින් බැහැරව සිටින අවස්ථාවකදී වුවද අහඹු අනතුරකින් සිදුවන මරණ හෝ වෙනත් අකර්මණ්‍යතාවන් සඳහා මෙහිදී ප්‍රතිලාභ සැලසෙන බව සදහන් වේ.
+
+ඒ යටතේ රු.2000/- වැනි වාර්ෂික රක්ෂණ වාරිකයක් යටතේ හදිසි මරණයකදී රුපියල් ලක්‍ෂ 12ක වන්දියක් මෙම රක්ෂණ ක්‍රමය තුළින් හිමි වේ.
+
+මීට අමතරව පූර්ණ හා තාවකාලික අකර්මණ්‍යතාවයන්හි දී වන්දි ගෙවීම් සිදු කෙරෙන අතර අනතුරක් හේතුවෙන් සිදුවන එක් ඇසක් අහිමිවීම, එක් ගාත්‍රයක් අහිමිවීම, පූර්ණ වශයෙන් කථනය අහිමි වීම වැනි තත්ත්වයන්හි දී ඉතා කඩිනමින් වන්දි ගෙවීමටද කටයුතු යොදා ඇත.
+
+◼️
+
+[Data](articles/e9907942.json)
+
+---
+
+### சம்பூர் மனித எலும்பு எச்சங்கள்: 6 ஆம் திகதி விசேட கூட்டம்
+
+*2025-07-30 14:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பூர்-மனித-எலும்பு-எச்சங்கள்-6-ஆம்-திகதி-விசேட-கூட்டம்/175-362049) · `ta`
+
+சம்பூர் மனித எலும்பு எச்சங்கள் கண்டெடுக்கப்பட்ட இடத்தில் தொடர்ந்து அகழ்வு செய்வதா? இல்லையா? என்பதை தீர்மானிக்க எதிர்வரும் ஆகஸ்ட் 6 ந் திகதி விசேட கூட்டம் ஒன்றை நடத்த வேண்டும் என்று மூதூர் நீதிவான் நீதிமன்றம் புதன்கிழமை (30) தீர்மானித்துள்ளது.
+
+இக்கூட்டத்தில் தொல்பொருள் திணைக்களம்,தடயவியல் பிரிவினர்,சட்ட வைத்திய அதிகாரி,புவிச்சரிதவியல் மற்றும் சுரங்கங்கள் பணியகம், குற்றவியல் பிரிவினர், தேசிய நிலக் கண்ணிவெடி அகற்றும் நிறுவனத்தினர்,பொலிஸ் திணைக்களம் என்பனவற்றின் அலுவலர்கள் நீதிவான் திருமதி.தஸ்னீம் பெளசான் தலைமையில் ஒன்று கூடி ஆராய்வது என்றும்,அதன் பின்னர் எடுக்கப்படும் தீர்மானத்திற்கு அமைய இறுதி முடிவு எடுக்கப்படும் என்றும்   தீர்மானிக்கப்பட்டது.
+
+அதன்படி 6 ஆம் திகதி நடைபெறவுள்ள கூட்டத்தில் கலந்து கொள்ள வேண்டிய தரப்புகளுக்கான அழைப்பை சம்பூர் பொலிஸார் அனுப்ப வேண்டும் எனவும் நீதவான் உத்தரவிட்டுள்ளார்.
+
+மூதூர் நீதிமன்றம் கடந்த  25 ஆம் திகதி வழங்கிய உத்தரவுக்கு அமைய   சட்டவைத்திய அதிகாரி, நீதிமன்றுக்கு புதன்கிழமை (30)  அறிக்கையை முன்வைத்தார்.
+
+...
+
+[Data](articles/b81fd66b.json)
+
+---
 
 ### கலிபோர்னியாவில் சுனாமி அலை
 
@@ -573,6 +633,22 @@ According to Li, the talks followed up on the consensus reached during the phone
 ...
 
 [Data](articles/fbfe1093.json)
+
+---
+
+### ඇඹිලිපිටිය ප්‍රා. සභාවේ කෝටි හතේ වංචාවට ගණකාධිකාරීවරයෙකුත් රිමාන්ඩ්
+
+*2025-07-30 11:30:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටිය-ප්‍රා--සභාවේ-කෝටි-හතේ-වංචාවට-ගණකාධිකාරීවරයෙකුත්-රිමාන්ඩ්/11-417607) · `si`
+
+ඇඹිලිපිටිය ප්‍රාදේශීය සභාවට දුන් කෝටි හතකට වැඩි මුදලක් වංචා කිරීමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින්  සබරගමු පළාත් සභාවේ ගණකාධිකාරීවරයෙක් 29දා අත්අඩංගුවට ගනු ලැබීය. ඔහු ඇඹිලිපිටිය අතිරේක මහේස්ත්‍රාත් ටිරෝන් ප්‍රනාන්දු මහතා හමුවට 29දා පැමිණවීමෙන් පසු 31දා තෙක් රිමාන්ඩ්භාරයේ තැබිමට නියම කරනු ලැබීය.
+
+මෙසේ රිමාන්ඩ්භාරයට පත්කෙරුණේ සබරගමු පළාත් සභාවේ ගණකාධිකාරීවරයෙක් ලෙස සේවය කරන සෙනරත්ගේ ආනන්ද තිලකරත්න යන අයයි.
+
+2016 සහ 2017 වර්ෂ සදහා ඇඹිලිපිටිය ප්‍රාදේශීය සභාවේ විවිධ ව්‍යාපෘතිවලට යෙදවීමේදී ව්‍යාපෘති 77කට අදාලව, රුපියල් 7,16,45,226.32ක මුලදල් වංචා කිරිම සම්බන්ධයෙන් ලැබුනු පැමිණිල්ලට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මුල්‍ය හා වානිජ අපරාධ විමර්ශන කාර්යංශයේ අංක 03 අපරාධ විමර්ශන අංශය විමර්ශන පවත්වයි.
+
+...
+
+[Data](articles/cc4d48a7.json)
 
 ---
 
@@ -1803,73 +1879,5 @@ The general public has also been requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/053288c1.json)
-
----
-
-### Provinces, development and governance
-
-*2025-07-30 05:11:44* · [`dailyftlk`](https://www.ft.lk/columns/Provinces-development-and-governance/4-779660) · `en`
-
-In October 2024 the President had requested Governors to improve the living conditions of the people. President Anura Kumara Disanayake instructed the Governors to prepare and submit a new proposal aimed at rationalising the Provincial Council mechanism. The President also stated that, given the current Government’s transitional period, the provincial councils must strive to deliver the best possible services to improve the living conditions of the people.
-
-Recent news reported that although Rs. 574 million has been allocated for the Hambantota District this year under the Southern Province Development Program, only about Rs. 23 million has been spent so far in July, amounting to approximately 4% progress.
-
-Frankly, a couple of heads should have rolled. The Governor, Chief Secretary, District Secretary, Divisional Secretaries, Provincial Ministry Secretaries, Deputy Chief Secretary Finance of the Province and the Finance Commission of Sri Lanka are responsible for fiscal oversight.
-
-...
-
-[Data](articles/a1034849.json)
-
----
-
-### Legislative reforms
-
-*2025-07-30 05:08:38* · [`dailyftlk`](https://www.ft.lk/opinion/Legislative-reforms/14-779659) · `en`
-
-There are several gaps in legislation. An agreement around it necessary soon. A suggestive list is below.
-
-The Parliament is empowered to confer on the President the power of that Provincial Council to make Statutes and to delegate the power so conferred to an authority specified by the President (Article 154M). That authority would be a Board of Advisors appointed by the President for that Province.
-
-Over the years, the Central Ministry of Education has encroached upon the powers devolved to the provinces and taken over a large number of provincial schools and declared them to be national schools. All such schools have to be returned immediately to the provinces.
-
-Similar issues exist around health due to taking back powers of provinces by Cabinet.
-
-Rest houses which were under the purview of local authorities were taken over by the Centre by an amendment to the Urban Development Ordinance. This is an infringement of the powers of the provinces.
-
-...
-
-[Data](articles/03ba0272.json)
-
----
-
-### Vision for development by provinces
-
-*2025-07-30 05:08:18* · [`dailyftlk`](https://www.ft.lk/opinion/Vision-for-development-by-provinces/14-779658) · `en`
-
-Fuel and infuse a surge of development through revenue generation: The objective is to generate sustainable revenue streams that can fuel and support the developmental activities in the province. This may involve exploring various sectors, attracting investments, promoting entrepreneurship, and leveraging the available resources to stimulate economic growth.
-
-Achieve selected objectives within five years: The overall objective is to accomplish the set goals and targets within a specific time frame of five years, indicating a sense of urgency and commitment towards achieving tangible results in a relatively short period.
-
-These selected objectives outline a comprehensive vision for Provincial Development Authorities, encompassing economic growth, environmental sustainability, improved governance, and enhanced well-being for the residents of the province.
-
-...
-
-[Data](articles/0ea719fb.json)
-
----
-
-### Poverty alleviation an approach
-
-*2025-07-30 05:07:41* · [`dailyftlk`](https://www.ft.lk/opinion/Poverty-alleviation-an-approach/14-779657) · `en`
-
-Digitally profile, recognise pre-existing skills, define livelihood development targets, and work towards them and measure using globally defined standards.
-
-Ignite entrepreneur skills into earnings, take them to the bank for credit lines and provide management services using Development Officers.
-
-Give 7-9 perch lands, value the land, provide one stop services to optimise use including vegetable, fruits, poultry, livestock.
-
-◼️
-
-[Data](articles/7aabc708.json)
 
 ---

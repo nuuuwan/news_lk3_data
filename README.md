@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 00:27:19**
+As of **2025-07-31 01:06:07**
 
 ## Newspaper Stats
 
-*Scraped **67,789** Articles*
+*Scraped **67,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-economynextcom | 4,135
 islandlk | 4,136
+economynextcom | 4,144
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,520
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,789 articles have been extended.
+61,973 (91.4%) of 67,798 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,6 +178,24 @@ Following the inspection, the Minister engaged in discussions with the officers 
 
 ---
 
+### Maldives gives Sri Lanka citizens 90-day on arrival tourist visa
+
+*2025-07-30 20:06:00* · [`economynextcom`](https://economynext.com/maldives-gives-sri-lanka-citizens-90-day-on-arrival-tourist-visa-233752/) · `en`
+
+ECONOMYNEXT – Maldives has announced that Sri Lanka tourists will given free 90-day visas, during a visit by President Anura Kumara Dissanayake to the archipelago, his media office said.
+
+“..[T]o obtain the visa, travellers must possess a valid passport and proof of sufficient financial means to cover their expenses during their stay in the Maldives,” the statement said.
+
+Sri Lanka and the Maldives had mutual on arrival visa system in place.
+
+Shortly before President Dissanayake went on a state visit Sri Lanka said one year visas will be given to Maldives citizens. (Colombo/July30/2025)
+
+◼️
+
+[Data](articles/2a582be3.json)
+
+---
+
 ### BYD රථ දහසකට වඩා හම්බන්තොට සිරවෙයි
 
 *2025-07-30 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212845) · `si`
@@ -316,6 +334,26 @@ During the search, 948 individuals were arrested for drug-related offenses, and 
 
 ---
 
+### Sri Lanka Customs waiting to test Chinese BYD EV motor
+
+*2025-07-30 18:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-waiting-to-test-chinese-byd-ev-motor-233726/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs is waiting to test the motor of a BYD vehicle to check the actual wattage, an official told a parliament panel, in the latest development after around 1,000 vehicles were detained over a disputed power of a motor.
+
+The agents for BYD have yet not delivered a motor which Customs wanted to test at Sri Lanka’s Moratuwa University, Customs spokesman Seevali Arukgoda told the Committee of Public Finance of the parliament.
+
+The investigation was started after several persons from the industry provided information and the Deputy Minister of Finance also gave additional information, Arukgoda said.
+
+“They have said the motor has to be removed from the car, there is a way to do it, and experts have to come,” Arukgoda said. “There is a delay on their part.”
+
+The John Keells company has said they recommended some international labs, but the usual practice at Sri Lanka Customs on technical matters was to refer them to Moratuwa University, he said.
+
+...
+
+[Data](articles/f0c9309a.json)
+
+---
+
 ### தர்மச் சக்கர விவகாரம்: மஸாஹிமாவுக்கு நீதி கிடைத்தது
 
 *2025-07-30 18:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தர்மச்-சக்கர-விவகாரம்-மஸாஹிமாவுக்கு-நீதி-கிடைத்தது/175-362065) · `ta`
@@ -333,6 +371,26 @@ During the search, 948 individuals were arrested for drug-related offenses, and 
 ...
 
 [Data](articles/f1be1aeb.json)
+
+---
+
+### India to pay 25-pct tariff plus Russia penalty Trump says as Sri Lanka awaits
+
+*2025-07-30 18:30:00* · [`economynextcom`](https://economynext.com/india-to-pay-25-pct-tariff-plus-russia-penalty-trump-says-as-sri-lanka-awaits-233742/) · `en`
+
+ECONOMYNEXT – India will pay 25 percent tariff plus an unspecified penalty from August 01, for buying oil and military hardware from Russia, President Trump said in a social media post as Sri Lanka awaits a revision of its 30 percent tariff.
+
+“Remember, while India is our friend, we have, over the years, done relatively little business with them because their Tariffs are far too high, among the highest in the World, and they have the most strenuous and obnoxious non-monetary Trade Barriers of any Country,” Trump said in a posts on his truthsocial.com.
+
+“Also, they have always bought a vast majority of their military equipment from Russia, and are Russia’s largest buyer of ENERGY, along with China, at a time when everyone wants Russia to stop the killing in Ukraine – al things not good
+
+India will therefore be paying a tariff of 25%, plus a penalty for the above, starting on August first.,
+
+A few minutes later he made another post saying “We have a massive trade deficit with Sri Lanka.”
+
+◼️
+
+[Data](articles/54cad70d.json)
 
 ---
 
@@ -437,6 +495,28 @@ But British Transport Minister Heidi Alexander - designated by the government to
 ...
 
 [Data](articles/521c72df.json)
+
+---
+
+### Sri Lanka rupee weakens against dollar, bonds steady
+
+*2025-07-30 17:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-233720/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.20/30 to the US dollar in the spot market Wednesday, weaker from 302.15/30 the previous day, while bond yields held broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.45/55 percent, down from 8.45/56 percent.
+
+A bond maturing on 15.10.2028 closed at 9.00/05 percent, down from 9.02/08 percent.
+
+A bond maturing on 15.12.2029 closed at 9.52/56 percent, down from 9.53/59 percent.
+
+A bond maturing on 15.12.2034 closed at 10.41/50 percent. (Colombo/July30/2025)
+
+◼️
+
+[Data](articles/4aa8daaf.json)
 
 ---
 
@@ -593,6 +673,28 @@ But British Transport Minister Heidi Alexander - designated by the government to
 ◼️
 
 [Data](articles/489196bf.json)
+
+---
+
+### Sri Lanka stocks close up driven by capital goods and banks
+
+*2025-07-30 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-capital-goods-and-banks-233708/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange closed up marginally on Wednesday, data on its site showed. The ASPI was up 0.17 percent, or 33.95 points, at 19,566.15; while the S&P SL20 was down 0.01 percent, or 0.78 points, at 5,751.68.
+
+Turnover was 5.2 billion rupees. Most of this came from capital goods stocks (Rs1.4bn), while banks stocks also saw traction (Rs1bn).
+
+The S&P SL20 was weighted down largely by John Keells Holdings, which traded 30 cents lower at 24.10 rupees.
+
+The conglomerate reported a loss of 803.7 million rupees in the June 2025 quarter, driven by losses in its leisure sector amid high cost of sales and tax expenses.
+
+Sri Lanka’s John Keells Holdings lose Rs.803.7mn in June quarter
+
+The company’s subsidiary and authorized distributor of BYD vehicles, John Keells CG Auto, is in discussions with the government authorities to clarify an issue with regard to the vehicles motor power which is used to calculate taxes, after a consignment was impounded by Sri Lanka Customs.
+
+...
+
+[Data](articles/b5ffcd91.json)
 
 ---
 
@@ -766,6 +868,26 @@ According to the Maldivian authorities, this initiative is being offered in the 
 
 ---
 
+### Sri Lanka sells Rs66.12bn treasury bills after offering Rs92.5bn
+
+*2025-07-30 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs66-12bn-treasury-bills-after-offering-rs92-5bn-233703/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 66.12 billion rupees of Treasury bills, with yields steady across maturities, after offering 92.5 billion, data from the state debt office showed.
+
+The 3-month yield was unchanged at 7.62 percent, with 22.5 billion rupees offered and 31.27 billion sold.
+
+The 6-month yield was unchanged at 7.91 percent, with 50 billion rupees offered and 17.59 billion sold.
+
+The 12-month yield was unchanged at 8.03 percent with 20 billion rupees of bills offered and 17.25 billion rupees bills sold.
+
+The 6 and 12 month bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/bba1898e.json)
+
+---
+
 ### ඉන්දීය රංගන ශිල්පිනී නන්දිනි කාශ්‍යප් අත්අඩංගුවට
 
 *2025-07-30 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212838) · `si`
@@ -803,6 +925,28 @@ This programme was funded by Switzerland and underscores the commitment to insti
 ...
 
 [Data](articles/b88b1a3c.json)
+
+---
+
+### Sri Lanka’s John Keells Holdings lose Rs.803.7mn in June quarter
+
+*2025-07-30 16:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-holdings-lose-rs-803-7mn-in-june-quarter-233701/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings said it reported a loss of 803.7  million rupees in the June 2025 quarter, driven by losses in its leisure sector amid high cost of sales and tax expenses.
+
+The group reported a tax expense of 2.39 billion rupees in the June quarter, compared to 762.3 million rupees in the same quarter last year.
+
+John Keells Holdings report loss of 5 cents per share for June quarter.
+
+Revenues grew 67 percent to 114.1 billion rupees, with insurance revenues of 5.4  billion rupees.
+
+Cost of sales grew 63 percent to 93.7 billion rupees. Gross profits grew 69 percent to 21.4 billion rupees. Administrative expenses rose 55 percent to 11.2 billion rupees.
+
+“While the Group recorded a positive PAT, the profit attributable to equity holders was impacted by the higher non-controlling interest on account of JKCG where the effective ownership of the Group is 50%,” JKH Chairman Krishan Balendra said in his message.
+
+...
+
+[Data](articles/18f2d965.json)
 
 ---
 
@@ -993,6 +1137,26 @@ The former Navy Commander was arrested by the CID in connection with the disappe
 ◼️
 
 [Data](articles/3aee327d.json)
+
+---
+
+### Sri Lanka’s Ceylon Cold Stores net down 7-pct in June 2025 quarter
+
+*2025-07-30 15:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-cold-stores-net-down-7-pct-in-june-2025-quarter-233699/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Cold Stores Plc, a consumer goods and retail group, said profits fell 7 percent from a year earlier to 1,092.7 million rupees in the June 2025 quarter amid higher cost of sales and taxes.
+
+The firm reported earnings of 1.15 rupees per share for the quarter in interim accounts filed with the Colombo Stock Exchange.
+
+CCS produces Elephant House-branded soft drinks and ice cream, and operates the Keells supermarkets chain.
+
+In the June quarter, revenues rose 13 percent to 43.2 billion rupees, but cost of sales rose at a faster 15 percent to 37.5 billion rupees, shrinking gross profits 4 percent to 5.7 billion rupees.
+
+The tax expenses also rose by 19 percent to 664.5 million rupees compared to 556.3 million rupees a year earlier.  (Colombo/July 30/2025)
+
+◼️
+
+[Data](articles/d50c70e6.json)
 
 ---
 
@@ -1191,6 +1355,24 @@ Tibet and Nepal lie along a major geological fault line where the Indian tectoni
 ...
 
 [Data](articles/b81fd66b.json)
+
+---
+
+### Sri Lanka and Switzerland commit to promoting safe, orderly, and regular migration
+
+*2025-07-30 14:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-switzerland-commit-to-promoting-safe-orderly-and-regular-migration-233692/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s progress under the Migration Partnership between Sri Lanka and Switzerland was reviewed at the third meeting held in Bern this week, and Swiss assistance for Sri Lankan migrant worker skills development was discussed, the Foreign Ministry said.
+
+“The meeting reviewed the progress made under the Migration Partnership since its launch in 2016 and discussed the future trajectory of the partnership after the formal handing over of the bilateral Safe Labour Migration Program (SLMP) to the Government of Sri Lanka last year.”
+
+Further Swiss assistance for the skills development of Sri Lankan migrant workers and strengthening collaboration with the National Anti-Human Trafficking Task Force (NAHTTF) were also discussed.
+
+Funded by Switzerland, the programme underscores the commitment to institutionalizing sustainable frameworks for the protection and welfare of Sri Lankan migrant workers.
+
+...
+
+[Data](articles/36c53fed.json)
 
 ---
 
@@ -1685,163 +1867,5 @@ The Minister noted that around 2,350 people are killed while 6,000 sustain serio
 ◼️
 
 [Data](articles/f4f9ceca.json)
-
----
-
-### கமலை காதலித்து வந்தேன்: லட்சுமி ராமகிருஷ்ணன்
-
-*2025-07-30 11:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கமலை-காதலித்து-வந்தேன்-லட்சுமி-ராமகிருஷ்ணன்/54-362038) · `ta`
-
-விஜய் தொலைக்காட்சியில் ‘குக் வித் கோமாளி 6’ நிகழ்ச்சியில் போட்டியாளராக பங்கேற்று வருகிறார் லட்சுமி ராமகிருஷ்ணன்.
-
-சமீபத்தில் அந்த நிகழ்ச்சியில் பேசும் போது கமலை காதலித்து வந்ததாகவும், அதை அவரிடம் சொல்ல முயன்ற போது நீங்கள் தங்கை மாதிரி என்று சொல்லி அனுப்பிவிட்டதாகவும் குறிப்பிட்டார். இதை வைத்து பலரும் செய்திகள் வெளியிட்டார்கள். லட்சுமி ராமகிருஷ்ணனின் இந்தப் பேச்சு வைரலாக பரவியது.
-
-இந்தப் பேச்சு தொடர்பாக லட்சுமி ராமகிருஷ்ணன் தனது எக்ஸ் தளத்தில், “நான் 16ஆம் வயதில் நிச்சயதார்த்தம் செய்து, 18ஆம் வயதில் திருமணம் செய்தேன். 42-வது வயதுவரை எனக்கு சினிமா உலகத்துடன் எந்த தொடர்பும் இல்லை. மற்ற பலர்போலவே, நான் நட்சத்திரங்களை ஒரு ரசிகையாகவும், குழந்தைபோன்ற ஆச்சரியத்துடனும் பார்த்தவள்தான். 45-வது வயதில் ஒரு பிரபல நடிகரை நேரில் சந்தித்தபோது, உண்மையிலேயே star-struck ஆகிவிட்டேன்.
-
-...
-
-[Data](articles/3a788314.json)
-
----
-
-### “ஒத்துக்கொண்டனர் ஓட்டுகின்றோம்”
-
-*2025-07-30 11:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்துக்கொண்டனர்-ஓட்டுகின்றோம்/175-362037) · `ta`
-
-பல கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (29) நள்ளிரவு தொடங்கவிருந்த 48 மணி நேர ரயில் ஓட்டுநர்களின் வேலைநிறுத்தம், தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
-
-போக்குவரத்து அமைச்சின் செயலாளருடன் செவ்வாய்க்கிழமை (29) மாலை  நடைபெற்ற கலந்துரையாடலின் போது, தற்போதுள்ள பிரச்சினைகளுக்கு தீர்வுகளை வழங்குவதாகவும், தற்போதுள்ள நிர்வாக சிக்கல்கள் அடுத்த மாதம் 19 ஆம் திகதிக்கு முன்னர் தீர்க்கப்படும் என்றும்,    ஓட்டுநர்களின் பிரச்சினைகள், புதன்கிழமை (30) முதல் தீர்க்கப்படும் என்றும் உறுதியளிக்கப்பட்டுள்ளதால் வேலை நிறுத்த போராட்டத்தை தற்காலிகமாக இடைநிறுத்தியுள்ளோம் என லோகோமோட்டிவ் இயக்க பொறியாளர்கள் சங்கத்தின் பொதுச் செயலாளர் சந்தன வியந்துவ தெரிவித்தார்.
-
-◼️
-
-[Data](articles/87398507.json)
-
----
-
-### චීන අමෙරිකා තීරු බදු සඳහා යළි තාවකාලික එකඟතාවක්
-
-*2025-07-30 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212818) · `si`
-
-මතභේදයට තුඩු දී තිබෙන චීන-අමෙරිකා අන්‍යෝන්‍ය තීරු බදු සඳහා යළි තාවකාලික එකඟතාවකට පැමිණීමට දෙපාර්ශ්වය තීරණය කර තිබේ.
-
-ඒ පසුගිය දෙදින තුළ චීන-අමෙරිකා දෙපාර්ශ්වයේ නියෝජිතයින් අතර ස්වීඩනයේ පැවති සාකච්ඡාවලින් අනතුරුවයි.
-
-එහිදී එළඹුණු එකඟතාවන්ට අනුව දැනට තාවකාලිකව අත්හිටුවා තිබෙන ඇමරිකාවේ 24%ක අන්‍යෝන්‍ය තීරුබදු මෙන්ම චීනයේ ප්‍රතිචාරය ද තවත් දින 90ක් දක්වා දීර්ඝ කිරීමට දෙපාර්ශ්වය එකඟත්වය පළ කර තිබේ.
-
-චීන-අමෙරිකා ආර්ථික හා වෙළඳ කටයුතු සඳහා වන චීන පාර්ශ්වයේ ප්‍රධානී, උප අග්‍රාමාත්‍ය He Lifeng මහතා, අමෙරිකා පාර්ශ්වයේ ප්‍රධානී, භාණ්ඩාගාර ලේකම් Scott Bessent මහතා හා වෙළඳ නියෝජිත Jamieson Greer මහතාගේ ප්‍රධානත්වයෙන් මෙම සාකච්ඡා පැවැත්විණි.
-
-මෙහිදී චීන ඇමරිකා ආර්ථික හා වෙළඳ සබඳතාව, සාර්ව ප්‍රතිපත්ති ඇතුළු පොදු අවධානයට ලක්වන ගැටලු පිළිබඳව ද දෙපාර්ශ්වය අතර සාකච්ඡා පවත්වා ඇත.
-
-දෙරටේ නායකයන් පසුගිය ජූනි මස දී දුරකථන සංවාද ඔස්සේ ඇතිකර ගත් එකඟතාවන්ට අනුව දෙපාර්ශ්වය එකිනෙකාගේ අවශ්‍යතාවන්ට ගරු කරමින් කටයුතු කළ යුතු බව He Lifeng මහතා එහිදී අවධාරණය කර තිබේ.
-
-...
-
-[Data](articles/932a5340.json)
-
----
-
-### China’s representative terms U.S. trade talks in Stockholm ‘in-depth, candid, constructive’
-
-*2025-07-30 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111001/chinas-representative-terms-us-trade-talks-in-stockholm-in-depth-candid-constructive) · `en`
-
-The Chinese and U.S. teams held “in-depth, candid, constructive” discussions on economy and trade over the past day and a half in Stockholm, said a senior Chinese official on Tuesday.
-
-Li Chenggang, China international trade representative with the Ministry of Commerce and vice minister of commerce, made the remarks while briefing the press following the meeting of the China-U.S. economic and trade consultation mechanism in Stockholm, Sweden.
-
-According to Li, the talks followed up on the consensus reached during the phone call between the two heads of state on June 5.
-
-“The economic and trade teams of both countries held in-depth, candid, and constructive discussions on major issues of mutual concern, under the framework of the China-U.S. economic and trade consultation mechanism,” Li said, noting that the two sides fully recognize the importance of maintaining a stable and healthy China-U.S.economic and trade relationship.
-
-...
-
-[Data](articles/fbfe1093.json)
-
----
-
-### ඇඹිලිපිටිය ප්‍රා. සභාවේ කෝටි හතේ වංචාවට ගණකාධිකාරීවරයෙකුත් රිමාන්ඩ්
-
-*2025-07-30 11:30:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටිය-ප්‍රා--සභාවේ-කෝටි-හතේ-වංචාවට-ගණකාධිකාරීවරයෙකුත්-රිමාන්ඩ්/11-417607) · `si`
-
-ඇඹිලිපිටිය ප්‍රාදේශීය සභාවට දුන් කෝටි හතකට වැඩි මුදලක් වංචා කිරීමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින්  සබරගමු පළාත් සභාවේ ගණකාධිකාරීවරයෙක් 29දා අත්අඩංගුවට ගනු ලැබීය. ඔහු ඇඹිලිපිටිය අතිරේක මහේස්ත්‍රාත් ටිරෝන් ප්‍රනාන්දු මහතා හමුවට 29දා පැමිණවීමෙන් පසු 31දා තෙක් රිමාන්ඩ්භාරයේ තැබිමට නියම කරනු ලැබීය.
-
-මෙසේ රිමාන්ඩ්භාරයට පත්කෙරුණේ සබරගමු පළාත් සභාවේ ගණකාධිකාරීවරයෙක් ලෙස සේවය කරන සෙනරත්ගේ ආනන්ද තිලකරත්න යන අයයි.
-
-2016 සහ 2017 වර්ෂ සදහා ඇඹිලිපිටිය ප්‍රාදේශීය සභාවේ විවිධ ව්‍යාපෘතිවලට යෙදවීමේදී ව්‍යාපෘති 77කට අදාලව, රුපියල් 7,16,45,226.32ක මුලදල් වංචා කිරිම සම්බන්ධයෙන් ලැබුනු පැමිණිල්ලට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මුල්‍ය හා වානිජ අපරාධ විමර්ශන කාර්යංශයේ අංක 03 අපරාධ විමර්ශන අංශය විමර්ශන පවත්වයි.
-
-...
-
-[Data](articles/cc4d48a7.json)
-
----
-
-### Sri Lanka’s WindForce to offer 3-pct voting stock in employee share option scheme
-
-*2025-07-30 11:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-to-offer-3-pct-voting-stock-in-employee-share-option-scheme-233636/) · `en`
-
-ECONOMYNEXT – Sri Lanka renewable energy firm WindForce said it was planning to offer 40,523,068 ordinary shares in an employee share option plan.
-
-It will be 3 percent of issue shares of the shares before the share option plan, the firm said in a stock exchange filing.
-
-The objective of the ESOS was to incentivize and retain key talent the company said.
-
-The company will grant options to management staff Level 1 and Level 2 employees.
-
-“The Company remains committed to its growth trajectory, underpinned by strategic initiatives aimed at enhancing profitability and scaling operations,” WindForce said.
-
-The proposed ESOS is subject to regulatory and shareholder approval. (Colombo/Jul30/2025)
-
-◼️
-
-[Data](articles/f3785f66.json)
-
----
-
-### කන්තලේ සීනි කම්හලේ ඉඩම් කෙටි කාලීන බෝග වගාවට ලබාගෙන ඇත්තේ 1272යි
-
-*2025-07-30 11:27:32* · [`adalk`](https://www.ada.lk/breaking_news/කන්තලේ-සීනි-කම්හලේ-ඉඩම්-කෙටි-කාලීන-බෝග-වගාවට-ලබාගෙන-ඇත්තේ-1272යි/11-417606) · `si`
-
-රජය ගත් කැබිනට් තීන්දුවක් මත කන්තලේ සීනි කම්හල් භූමියේ කෙටි කාලීන බෝග වගාව සඳහා ගොවීන්ට ඉඩම් ලබාදීමේදී තෝරාගත් ගොවීන් 1314 දෙනාගෙන් ඉඩම් කට්ටි ලබාගෙන ඇත්තේ ගොවීන් 1272 ක් බව කන්තලේ සහකාර ඉඩම් කොමසාරිස් එරන්දි කෞශල්‍යා කුරේ මහත්මිය පැවැසීය .
-
-එසේ ඉඩම් කට්ටි ලබාගත් ගොවීන්ගෙන් රජයේ ගාස්තු ගෙවා වාර්ෂික අවසර පත්‍ර ලබාගෙන ඇත්තේ ගොවීන් 899 ක් බවද සහකාර ඉඩම් කොමසාරිස්වරිය පෙන්වා දුන්නාය .
-
-වගා කිරීමට අවශ්‍ය යටිතල පහසුකම් නොමැති වීම නිසා ගොවීන් 273 දෙනෙකු වාර්ෂික බලපත්‍ර ලබා ගැනීම සිදුකර නොමැති අතර සුදුසු ආයෝජකයෙකු හරහා යටිතල පහසුකම් ලබා දෙන්නේ නම් ඉතිරි ගොවීන්ද රජය ගාස්තු ගෙවා ඉඩම් වාර්ෂික බලපත්‍ර ලබා ගැනීමට පෙළඹෙනු ඇති බව සහකාර ඉඩම් කොමසාරිස්වරිය තවදුරටත් කීහ .
-
-විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති අරුන් හේමචන්ද්‍ර මහතාගේ ප්‍රධානත්වයෙන්    ත්‍රිකුණාමලය දිසාපති කාර්යාලයේ පැවැති දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමේදී  ඉඩම් සහකාර ඉඩම් කොමසාරිස්වරිය මෙම කරුණු අනාවරණය කළාය.
-
-◼️
-
-[Data](articles/44202d97.json)
-
----
-
-### ஹம்பாந்தோட்டை பறவைகள் பூங்கா உரிமையாளருக்குப் பிணை
-
-*2025-07-30 11:23:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-பறவைகள்-பூங்கா-உரிமையாளருக்குப்-பிணை/175-362034) · `ta`
-
-இலங்கைக்குள் ஆடம்பர மோட்டார் சைக்கிள்களை சட்டவிரோதமாக இறக்குமதி செய்ததாக கைது செய்யப்பட்ட ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர் பிணையில் விடுவிக்கப்பட்டார்.
-
-பல நாட்களாக பொலிஸாரிடமிருந்து தப்பி ஓடிய சந்தேக நபர், ஜூலை 17 அன்று கொழும்பில் கைது செய்யப்பட்டார்.
-
-◼️
-
-[Data](articles/b05ce9b1.json)
-
----
-
-### Russia declares state of emergency on tsunami-hit islands after quake
-
-*2025-07-30 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111000/russia-declares-state-of-emergency-on-tsunami-hit-islands-after-quake) · `en`
-
-Authorities in Russia’s far eastern Sakhalin region declared on Wednesday a state of emergency in the northern Kuril Islands, where tsunami waves have damaged buildings and caused flooding.
-
-“A state of emergency has been declared in the North Kuril District, where an earthquake and tsunami occurred today,” the Sakhalin government said in a statement.
-
-The mayor of Russia’s northern Kuril islands district said Wednesday that “everyone” there had evacuated to safety.
-
-“Everyone was evacuated. There was enough time, a whole hour. So everyone was evacuated, all the people are in the tsunami safety zone,” Mayor Alexander Ovsyannikov said at a crisis meeting with officials.
-
-◼️
-
-[Data](articles/d2d82a52.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 16:23:01**
+As of **2025-07-30 16:34:52**
 
 ## Newspaper Stats
 
-*Scraped **67,743** Articles*
+*Scraped **67,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,510
 adaderanalk | 8,363
-tamilmirrorlk | 9,820
+tamilmirrorlk | 9,821
 virakesarilk | 11,282
-adaderanasinhalalk | 11,654
+adaderanasinhalalk | 11,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,743 articles have been extended.
+61,973 (91.5%) of 67,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### லலித், குகன் விவகாரம்: சாட்சியமளிக்க கோட்டா தயார்
+
+*2025-07-30 16:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லலித்-குகன்-விவகாரம்-சாட்சியமளிக்க-கோட்டா-தயார்/175-362054) · `ta`
+
+மனித உரிமை ஆர்வலர்களான லலித் மற்றும் குகன் காணாமல் போனது தொடர்பான ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக நீதவான் நீதிமன்றத்தில் சாட்சியமளிக்க முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ  தயாராக இருப்பதாக அவரது சட்டத்தரணி உயர்நீதிமன்றத்தில் புதன்கிழமை (20) தெரிவித்தார்.
+
+◼️
+
+[Data](articles/094250b7.json)
+
+---
+
+### ඉන්දීය රංගන ශිල්පිනී නන්දිනි කාශ්‍යප් අත්අඩංගුවට
+
+*2025-07-30 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212838) · `si`
+
+ඉන්දීය රංගන ශිල්පිනී නන්දිනි කාශ්‍යප් ගුවහාටි පොලිසිය විසින් අද (30) අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ ඇය පැදවූ බව කියන මෝටර් රථයක ගැටීමෙන් 21 හැවිරිදි සිසුවෙක් මියයාමේ සිදුවීමට සම්බන්ධවයි.
+
+පසුගිය 25 වැනිදා දින අලුයම 3.00ට පමණ ගුවහාටිහි දඛින්ගාඕන් ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
+
+රංගන ශිල්පිනිය මෙම අනතුර සිදු කර පලා යන ආකාරය ඒ ආසන්නයේ තිබූ CCTV කැමරාවක ද සටහන්ව තිබුණි.
+
+අනතුරෙන් පසු, සිසුවා බරපතල තුවාල ලබා රෝහල් ගත කර ඇති අතර ප්‍රතිකාර ලබමින් සිටිය දී ඔහු මෙසේ මියගොස් තිබේ.
+
+මියගිය සිසුවාගේ පවුලේ ඥාතීන් සදහන් කළේ මෙම අනතුර හේතුවෙන් ඔහුගේ හිසට දරුණු ලෙස තුවාල සිදුවී ඇති බවත් ඔහුගේ කකුල් දෙකෙහිම අස්ථි බිඳීම් සිදුවී තිබූ බවත් ය.
+
+◼️
+
+[Data](articles/82171223.json)
+
+---
 
 ### சம்பூரில் மனித எச்சங்கள் வழக்கு ; விசேட மாநாடு 06ஆம் திகதி
 
@@ -43,6 +77,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/213b7354.json)
+
+---
+
+### හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න යළි රිමාන්ඩ්
+
+*2025-07-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212836) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් හිටපු නාවික හමුදාපති විශ්‍රාමික අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතාව, අගෝස්තු 13 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+◼️
+
+[Data](articles/f8e928e5.json)
 
 ---
 
@@ -1777,73 +1823,5 @@ The motorcyclist sustained serious injuries and was first admitted to the Rambew
 ...
 
 [Data](articles/e56d989d.json)
-
----
-
-### Tsunami warning issued to Russia, Pacific islands, South America on 8.7M quake
-
-*2025-07-30 08:18:00* · [`economynextcom`](https://economynext.com/tsunami-warning-issued-to-russia-pacific-islands-south-america-on-8-7m-quake-233600/) · `en`
-
-ECONOMYNEXT – A tsunami warning has been issued for Russia, Pacific Islands and South American costs after an 8.7 magnitude earquake off the East Coast of Russia.
-
-Waves as high as 3 meters could hit some coasts, the warning from the Pacific Tsunami Warning Centre said.
-
-Above 3 metres – ECUADOR… NORTHWESTERN HAWAIIAN ISLANDS… AND RUSSIA.
-
-1 to 3 metres – CHILE… COSTA RICA… FRENCH POLYNESIA… HAWAII… JAPAN… JARVIS ISLAND… JOHNSTON ATOLL… KIRIBATI… MIDWAY ISLAND… PALMYRA ISLAND… PERU… SAMOA… AND SOLOMON   ISLANDS.
-
-Indian and Indonesian authorities said there was risk to the Indian Ocean.
-
-**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
-
-THIS MESSAGE IS ISSUED FOR INFORMATION ONLY IN SUPPORT OF THE
-
-MEANT FOR NATIONAL AUTHORITIES IN EACH COUNTRY OF THAT SYSTEM.
-
-ALERT FOR EACH COUNTRY AND MAY ISSUE ADDITIONAL OR MORE REFINED
-
-**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
-
-* AN EARTHQUAKE WITH A PRELIMINARY MAGNITUDE OF 8.7 OCCURRED
-
-...
-
-[Data](articles/420351b5.json)
-
----
-
-### පලස්තීන රාජ්‍යය පිළිගැනීමට බ්‍රිතාන්‍යයේ සූදානමක්?
-
-*2025-07-30 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212809) · `si`
-
-ගාසා තීරයේ භයානක තත්ත්වය අවසන් කිරීමට ඊශ්‍රායලය සැලකිය යුතු පියවර නොගන්නේ නම් සැප්තැම්බර් මාසයේදී පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා බව බ්‍රිතාන්‍ය අග්‍රාමාත්‍ය කීර් ස්ටාර්මර් පවසා තිබේ.
-
-සටන් විරාමයකට එකඟ වීම, ද්වි-රාජ්‍ය විසඳුමක් ලබාදෙන දිගුකාලීන තිරසාර සාමයකට කැපවීම සහ එක්සත් ජාතීන්ගේ සංවිධානයට  ආධාර සැපයීම නැවත ආරම්භ කිරීමට ඉඩ දීම ඇතුළු අනෙකුත් කොන්දේසි ද ඊශ්‍රායලය සපුරාලිය යුතු බවට ඔහු පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
-
-නැතහොත් සැප්තැම්බර් මාසයේ එක්සත් ජාතීන්ගේ මහා මණ්ඩල සැසිවාරයේදී එක්සත් රාජධානියට එම පියවර ගැනීමට සිදුවන බව ඔහු දන්වා තිබේ.
-
-ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු පවසා ඇත්තේ මෙම පියවර හමාස් හි බිහිසුණු ත්‍රස්තවාදයට ආධාර අනුබල දීමක් බවයි.
-
-පලස්තීන රාජ්‍යයක් නිල වශයෙන් පිළිගැනීමට සූදානම් බව  ප්‍රංශය ද පසුගියදා නිවේදනය කළේය.
-
-මේ අතර හමාස් සංවිධානය වහාම සියලුම ප්‍රාණ ඇපකරුවන් නිදහස් කළ යුතු බවට සහ සටන් විරාමයකට අත්සන් කළ යුතු බව බ්‍රිතානය අග්‍රාමාතවරයා පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
-
-...
-
-[Data](articles/63565661.json)
-
----
-
-### போர் நிறுத்த ஒப்பந்தத்தை மீறும் கம்போடியா
-
-*2025-07-30 08:09:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போர்-நிறுத்த-ஒப்பந்தத்தை-மீறும்-கம்போடியா/50-362016) · `ta`
-
-கம்போடியா போர் நிறுத்த ஒப்பந்தத்தை மீறியதாக தாய்லாந்து இராணுவம் குற்றம் சாட்டியுள்ளது. முன்னதாக, இரு நாடுகளும் நிபந்தனையற்ற போர் நிறுத்தத்துக்கு நேற்று முன்தினம் ஒப்புக்கொண்டன.
-
-எல்லை தொடர்பான சிக்கல்களால், கடந்த வியாழக்கிழமை (ஜூலை 24) எல்லையில் ஏற்பட்ட கண்ணிவெடி தாக்குதலில் 5 தாய்லாந்து வீரர்கள் காயமடைந்ததைத் தொடர்ந்து இரு நாடுகளுக்கு இடையே மோதல் வெடித்தது. இந்த போரில் நேற்று முன்தினம் வரை இருதரப்பிலும் சேர்த்து 38 பேர் உயிரிழந்தனர். இரு தரப்பிலும் 3,00,000 இற்கும் மேற்பட்ட மக்கள் இடம்பெயர்த்தனர்.
-
-...
-
-[Data](articles/2765c42b.json)
 
 ---

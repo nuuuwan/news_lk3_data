@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 15:26:27**
+As of **2025-07-30 15:37:39**
 
 ## Newspaper Stats
 
-*Scraped **67,731** Articles*
+*Scraped **67,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,507
+adalk | 6,508
 adaderanalk | 8,361
 tamilmirrorlk | 9,818
 virakesarilk | 11,279
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,652
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,731 articles have been extended.
+61,973 (91.5%) of 67,732 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -433,6 +433,26 @@ He commenced his medical career at the Panadura Hospital and went on to serve in
 ...
 
 [Data](articles/17955d29.json)
+
+---
+
+### ජාතික ඉඩම් බැංකුවක්
+
+*2025-07-30 12:37:20* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඉඩම්-බැංකුවක්/11-417608) · `si`
+
+වගා කළ හැකි නමුත් වගාවෙන් තොරව පවතින ඉඩම් පිළිබඳ තොරතුරු සහිත ජාතික ඉඩම් බැංකුවක්  ස්ථාපිත කරන බව කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හදුන්නෙත්ති මහතා පවසයි.
+
+වගා නොකළ ඉඩම් පිළිබදව දිස්ත්‍රික් මට්ටමින් තොරතුරු ලබා දෙන ලෙස ඒ යටතේ දිස්ත්‍රික් ලේකම්වරුන් දැනුවත් කරන බව ද අමාත්‍යවරයා කීවේය.
+
+ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය විසින් සංවිධානය කරනු ලැබූ ප්‍රාදේශීය අපනයන කරුවන්ගේ සම්බන්ධතා ගොඩනැගීමේ සමුළුවක් කටුගස්තොට මහවැලි රීච් හෝටලයේදී ඊයේ (29) පැවැති දැනුවත් කිරීමේ වැඩසටහනකදී අමාත්‍යවරයා මේ බව කීවේය.
+
+ඉදිරි පස් අවුරුද්දක කාලය තුළදී අපනයන ආදායම් ඉහළ නැංවීමට අපේක්ෂා කරන බවත් ඒ සඳහා මෙම ඉඩම් යොදා ගැනීම අපේක්ෂිත යැයි ද අමාත්‍යවරයා පැවසුවේය.
+
+පසුගිය වසර 10ක කාලය තුළදී අපනයන ආදායම් ඉපැයීම් වර්ධනය 1%ක් වූ නමුත් මේ වන විට එහි වර්ධන අගය 7%ක් දක්වා ඉහළ නැංවීමට හැකියාව ලැබුණු බව කී අමාත්‍යවරයා මෙරට ඉතිහාසයේ වැඩිම අපනයන ඉපැයීම් මෙම වර්ෂය තුළදී ළගා කර ගැනිමට හැකියාව ලැබුණු බව ද පැවසුවේය.
+
+...
+
+[Data](articles/fda619e7.json)
 
 ---
 
@@ -1863,25 +1883,5 @@ A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Pe
 ◼️
 
 [Data](articles/7b39c654.json)
-
----
-
-### Earthquake of magnitude 8 strikes Russian coast; tsunami alert issued
-
-*2025-07-30 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/110984/earthquake-of-magnitude-8-strikes-russian-coast-tsunami-alert-issued) · `en`
-
-Tsunami alerts have been issued after a magnitude 8.0 earthquake off Russia’s east coast.
-
-The quake struck 136km (85 miles) east of Petropavlovsk-Kamchatsky in Russia’s far east, the United States Geological Survey said on Tuesday.
-
-Japan’s meteorological agency issued a tsunami advisory for the country, warning of waves of up to 1 metre (3.3 feet) high.
-
-The Pacific Tsunami Warning Center issued an immediate “tsunami watch” for the state of Hawaii.
-
-The Hawaii County Civil Defense Agency said in a social media post that the quake may be strong enough to “generate destructive waves” in Hawaii.
-
-◼️
-
-[Data](articles/5181b464.json)
 
 ---

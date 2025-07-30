@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 16:06:51**
+As of **2025-07-30 16:23:01**
 
 ## Newspaper Stats
 
-*Scraped **67,739** Articles*
+*Scraped **67,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ dailyftlk | 4,781
 adalk | 6,510
 adaderanalk | 8,363
 tamilmirrorlk | 9,820
-virakesarilk | 11,279
-adaderanasinhalalk | 11,653
+virakesarilk | 11,282
+adaderanasinhalalk | 11,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,739 articles have been extended.
+61,973 (91.5%) of 67,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### சம்பூரில் மனித எச்சங்கள் வழக்கு ; விசேட மாநாடு 06ஆம் திகதி
+
+*2025-07-30 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221381) · `ta`
+
+திருகோணமலை சம்பூரில் மனித எச்சங்கள் மீட்கப்பட்ட பகுதியில் அகழ்வுப் பணியை மேற்கொள்வது தொடர்பில் ஆராயும் முகமாக குறித்த வழக்கானது வழக்கு மாநாடு ஒன்றிற்காக எதிர்வரும் 06ஆம் திகதி நியமிக்கப்பட்டுள்ளதுடன், குறித்த மாநாட்டுக்கு வர வேண்டியவர்களுக்கு அழைப்பு விடுக்குமாறு சம்பூர் பொலிஸ் பொறுப்பதிகாரிக்கு நீதிபதி உத்தரவிட்டுள்ளார்.
+
+குறித்த வழக்கானது கடந்த தவணை நீதிமன்றத்தினால் வழங்கப்பட்டிருந்த அறிவுறுத்தலுக்கு அமைய இன்று புதன்கிழமை (30) அழைக்கப்பட்டபோது சட்ட வைத்திய அதிகாரி மற்றும் தொல்பொருளியல் திணைக்களம் ஆகியவற்றிடமிருந்து நீதிமன்ற அறிக்கையினை கோரியிருந்து. குறித்த அறிக்கைகளை ஆராய்ந்த நீதிபதி  எச்.எம். தஸ்னீம் பௌசான் குறித்த உத்தரவை பிறப்பித்துள்ளார்.
+
+...
+
+[Data](articles/213b7354.json)
+
+---
+
+### போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்யப்பட்ட சந்தேகநபர் உயிர்மாய்ப்பு
+
+*2025-07-30 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221377) · `ta`
+
+போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்யப்பட்ட சந்தேகநபர் உயிரை மாய்த்து கொண்ட பின்னர் அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவிக்கப்பட்டுள்ளமைக்கு கல்கிஸ்ஸை சட்டதரணிகள் சங்கம் வருத்தம் தெரிவித்துள்ளது.
+
+போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்து தடுத்து வைக்கப்பட்ட சந்தேகநபர் செவ்வாய்க்கிழமை (29) கல்கிசை நீதவான் நீதிமன்றத்தால் அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவிக்கப்பட்டுள்ளார். ஆனால் சந்தேகநபர் உயிருடன் இல்லை. சிறைச்சாலையில் அடைக்கப்பட்டமையினால் மன உளைச்சலுக்குள்ளாகி உயிரை மாய்த்துக்கொண்டுள்ளார்.
+
+2024 ஆம் ஆண்டு மே மாதம் அன்று இலங்கை சட்டத்தின் கீழ் பிணையில் வெளி வரமுடியாத குற்றச் செயலான 3,200 மில்லி கிராம் ஹெரோயின் வைத்திருந்ததாகக் கூறி தெஹிவளை பொலிஸாரினால் சந்தேகநபர் கைது செய்யப்பட்டார்.
+
+இரண்டு மாதங்கள் கழித்து, தான் நியாயமற்ற முறையில் நீண்டகாலமாக தடுத்து வைக்கப்பட்டதால் ஏற்பட்ட மன அழுத்தம் காரணமாக உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+...
+
+[Data](articles/6b4977d2.json)
+
+---
+
+### ඉන්දියාව සමග ඇතිකරගත් අවබෝධතා ගිවිසුමකට එරෙහිව පෙත්සමක්
+
+*2025-07-30 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212834) · `si`
+
+මෙරට පුරවැසියන් සඳහා ඩිජිටල් හැඳුනුම්පත් නිකුත් කිරීමේ ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා ශ්‍රී ලංකා රජය ඉන්දියාව සමග ඇතිකරගෙන තිබෙන අවබෝධතා ගිවිසුම බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+සමාජ ක්‍රියාකාරිණියක්වන අමානි රිෂාඩ් හමිඩ් විසින් මෙම පෙත්සම ඉදිරිපත් කළ අතර එහි වගඋත්තරකරුවන් ලෙස ඩිජිටල් ආර්ථික අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා, අග්‍රාමාත්‍ය හරිනී අමරසූරිය ඇතුළු අමාත්‍ය මණ්ඩලය ඇතුළු 27 දෙනෙකු නම් කර ඇත.
+
+නීතීඥ කනිෂ්ක විතාරණ මහතා මාර්ගයෙන් ගොනුකර තිබෙන මෙම පෙත්සම තුළින් පෙත්සම්කාරිය කියා සිටින්නේ ශ්‍රී ලංකා රජය විසින් ඉන්දියාව සමඟ මෙරට පුරවැසියන්ගේ ඩිජිටල් ජාතික හැඳුනුම්පත් නිකුත් කිරීමට අදාළ ව්‍යාපෘතියක් සම්බන්ධයෙන් අවබෝධතා ගිවිසුමකට එළඹ තිබෙන බවය.
+
+මීට අදාළව ඉකුත් ජනවාරි මස 27 සහ ජුනි මස 02 වනදා අමාත්‍ය මණ්ඩල තීන්දු දෙකක් ලබාගෙන තිබෙන බවත් මහජනතාව හෝ පාර්ලිමේන්තුව දැනුවත් කිරීමකින් තොරව මෙම අමාත්‍ය මණ්ඩල තීරණය ගෙන තිබෙන බවත් පෙත්සමේ සඳහන් වේ.
+
+...
+
+[Data](articles/f8b65997.json)
+
+---
+
+### வட்ஸ்அப் ஓடிபி மோசடிகள் தொடர்பில் பொதுமகளுக்கு சிஐடி எச்சரிக்கை
+
+*2025-07-30 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221370) · `ta`
+
+வட்ஸ் அப் பயனர்களை குறி வைத்து சைபர் மோசடி சம்பவங்கள் அதிகரித்து வருவதால், பயனர்கள் ஓடிபி (OTP) எனப்படும் ஒருமுறை மட்டுமே பயன்படுத்தக்கூடிய கடவுச்சொற்கள் உள்ளிட்ட எந்த தகவல்களையும் பகிர்வதை தவிர்க்க வேண்டும் என சிஐடி எனப்படும் குற்றப்புலனாய்வுத் திணைக்களம் அவசர எச்சரிக்கை விடுத்துள்ளது.
+
+மோசடிக்காரர்கள் பாதிக்கப்பட்டவரின் மொபைல்போனுக்கு ஓடிபியை குறுந்தகவல்கள் (SMS) ஊடாக அனுப்பி வைப்பார்கள். பின்னர் தெரியாத செல்போன் எண்ணிலிருந்து, நமது வட்ஸ்அப்பில் ஒரு செய்தி வரும். அதில் வட்ஸ்அப் கணக்கிற்கான ஆறு இலக்க குறியீடு உங்களது எண்ணுக்கு தவறாக அனுப்பப்பட்டுவிட்டதாகவும், அந்த ஓடிபி குறியீட்டை பகிருமாறு மோசடிக்காரர்கள் கேட்பார்கள். எந்த சூழ்நிலையிலும் ஓடிபியை பகிர்வதை தவிர்க்க வேண்டும்.
+
+...
+
+[Data](articles/6733309d.json)
+
+---
 
 ### භූමිකම්පනය අතරතුර රුසියාවේ රෝහලක සිදු වූ සැත්කම
 
@@ -1781,87 +1845,5 @@ ALERT FOR EACH COUNTRY AND MAY ISSUE ADDITIONAL OR MORE REFINED
 ...
 
 [Data](articles/2765c42b.json)
-
----
-
-### රුසියාවට අඩි 13ක් උස සුනාමි රළ කඩා වදී - ජපානයටත් අනතුරු ඇඟවෙයි
-
-*2025-07-30 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212808) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් කම්චැට්කා අර්ධද්වීපට අඩි 13ක් උස සුනාමිය රළ පැමිණි බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරය ආසන්නයේ රික්ටර් පරිමාණ ඒකක  8.8ක් ප්‍රබල භූකම්පනයක් අද (30) උදෑසන හට ගෙන තිබුණි.
-
-USGS ට අනුව, රුසියාවේ පෙට්‍රොපව්ලොව්ස්ක්-කම්චැට්ස්කි සිට සැතපුම් 85ක් පමණ දුරින් භූමිකම්පාව කිලෝමීටර් 19ක් ගැඹුරට සිදු විය.
-
-භූකම්පනයෙන් පසුව ජපානයේ වෙරළබඩ ප්‍රදේශ සඳහා ද සුනාමි අනතුරු ඇඟවීම් නිකුත්කළ අතර, එරට කාලගුණ විද්‍යා ඒජන්සිය අනතුරු අඟවන්නේ මීටර 1ක් දක්වා රළ ඇති විය හැකි බවය.
-
-මීට අමතරව හවායි දූපත් සහ ඇලස්කාවේ ඇලූටියන් දූපත්වල කොටස් සඳහා සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමටද පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
-
-◼️
-
-[Data](articles/f106c2ac.json)
-
----
-
-### ශ්‍රී ලංකා තොරතුරු කොමිසමට සභාපතිවරයකු පත් කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා FR පෙත්සමක්
-
-*2025-07-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212807) · `si`
-
-ශ්‍රී ලංකා තොරතුරු කොමිසම සඳහා සභාපතිවරයෙකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-ජනමාධ්‍යවේදියෙකු සහ දැයට සවිය ආයතනය  විසින් මෙම පෙත්සම ඉදිරිපත් කළ බව 'අද දෙරණ' අධිකරණ වාර්තාකරු සඳහන් කළේය.
-
-එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස ජනාධිපතිවරයා,  ජනාධිපති ලේකම්වරයා, කථානායකවරයා ඇතුළු ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින් සහ නීතිපති ඇතුළු පිරිසක් නම් කර තිබේ.
-
-පෙත්සම්කරුවන් කියා සිටින්නේ, ශ්‍රී ලංකා තොරතුරු කොමිසමේ සභාපති ධූරය මාස හයකට ආසන්න කාලයක් පුරප්පාඩුව පවතින බවය.
-
-එම කොමිසමේ සභාපතිවරයා වශයෙන් කටයුතු කළ විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු උපාලි අබේරත්න මහතා ඉන් ඉල්ලා අස්වීමෙන් පසුව මෙම පුරප්පාඩුව හටගත් බවත් ඔවුන් පෙන්වා දෙයි.
-
-තොරතුරු කොමිසම සඳහා සභාපතිවරයෙකු පත්වීම් කිරීමේ බලය ජනාධිපතිවරයා වෙත පැවරී තිබුණද එම පුරප්පාඩුව සඳහා වැඩබලන සභාපතිවරයෙකු හෝ පත් කිරීමට ජනාධිපතිවරයා කටයුතු කර නොමැති බව පෙත්සම්කරුවන් පවසයි.
-
-...
-
-[Data](articles/46f92438.json)
-
----
-
-### Tsunami hits Russia’s Far East after powerful earthquake, several injured
-
-*2025-07-30 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/110987/tsunami-hits-russias-far-east-after-powerful-earthquake-several-injured) · `en`
-
-A magnitude 8.8 earthquake struck off Russia’s Far Eastern Kamchatka Peninsula on Wednesday, generating a tsunami of up to 4 metres (13 feet), damaging buildings and prompting warnings and evacuations that stretched across the Pacific Ocean.
-
-Several people were injured in the remote Russian region, while much of Japan’s eastern seaboard - devastated by a powerful earthquake and tsunami in 2011 - was ordered to evacuate.
-
-“Today’s earthquake was serious and the strongest in decades of tremors,” Kamchatka Governor Vladimir Solodov said in a video posted on the Telegram messaging app.
-
-A tsunami with a height of 3-4 metres (10-13 feet) was recorded in parts of Kamchatka, said Sergei Lebedev, regional minister for emergency situations, urging people to move away from the shoreline.
-
-...
-
-[Data](articles/8588e02a.json)
-
----
-
-### UK to recognise Palestinian state unless Israel meets conditions
-
-*2025-07-30 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110986/uk-to-recognise-palestinian-state-unless-israel-meets-conditions) · `en`
-
-The UK will recognise a Palestinian state in September unless Israel takes “substantive steps to end the appalling situation in Gaza”, Sir Keir Starmer has said.
-
-The PM said Israel must also meet other conditions, including agreeing to a ceasefire, committing to a long-term sustainable peace that delivers a two-state solution, and allowing the United Nations to restart the supply of aid, or the UK would take the step at September’s UN General Assembly.
-
-Israeli prime minister Benjamin Netanyahu said the move “rewards Hamas’s monstrous terrorism”.
-
-The UK government has previously said recognition should come at a point when it can have maximum impact, as part of a peace process.
-
-However, the PM has been under growing pressure - including from his own MPs - to act more quickly.
-
-Last week France also announced it would officially recognise a Palestinian state in September - the first of the G7 group of the world’s richest countries to do so.
-
-...
-
-[Data](articles/9415b48f.json)
 
 ---

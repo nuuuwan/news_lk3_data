@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 12:08:27**
+As of **2025-07-30 12:51:54**
 
 ## Newspaper Stats
 
-*Scraped **67,694** Articles*
+*Scraped **67,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,195 @@ economynextcom | 4,134
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,501
-adaderanalk | 8,352
-tamilmirrorlk | 9,811
+adalk | 6,502
+adaderanalk | 8,355
+tamilmirrorlk | 9,815
 virakesarilk | 11,277
-adaderanasinhalalk | 11,640
+adaderanasinhalalk | 11,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,694 articles have been extended.
+61,973 (91.5%) of 67,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
 
-### ඔස්ට්‍රේලියාවේ ෙ16ට අඩු ළමුන් සඳහා YouTube තහනමක්
+### சுனாமி எச்சரிக்கைகள்: என்ன நடக்கிறது: ஒரே பார்வையில்
+
+*2025-07-30 12:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனாமி-எச்சரிக்கைகள்-என்ன-நடக்கிறது-ஒரே-பார்வையில்/50-362045) · `ta`
+
+ஜப்பான் டோக்கியோவிலிருந்து ஹவாய் வரை, கலிபோர்னியாவிலிருந்து நியூசிலாந்து வரை, சுனாமி அச்சங்களுக்கு மத்தியில் மில்லியன் கணக்கான மக்கள் மிகுந்த எச்சரிக்கையில் உள்ளனர்.
+
+ரஷ்ய கடற்கரையில் ஏற்பட்ட மிகப்பெரிய நிலநடுக்கம் மற்றும் பசிபிக் பெருங்கடல் முழுவதும் தற்போது நிலவும் சுனாமி எச்சரிக்கைகள் பற்றிய சுருக்கம்
+
+உள்ளூர் நேரப்படி காலை 11:25 மணிக்கு தூர கிழக்கு ரஷ்யாவை 8.8 ரிக்டர் அளவிலான நிலநடுக்கம் தாக்கியது, இதனால் பலருக்கு சிறு காயங்கள் மற்றும் பரவலான வெள்ளம் ஏற்பட்டது
+
+ஜப்பானின் வடக்கு கடற்கரையில் 40 செ.மீ அலைகள் எழுந்ததை அடுத்து, விரைவில் ஹவாயின் கரையை சுனாமி அலைகள் அடையும் என்று எதிர்பார்க்கப்படுகிறது
+
+சீனா, பிலிப்பைன்ஸ், இந்தோனேசியா, நியூசிலாந்து மற்றும் பெரு மற்றும் மெக்சிகோ கூட சுனாமி எச்சரிக்கைகளை வெளியிட்டுள்ளன
+
+◼️
+
+[Data](articles/80df1517.json)
+
+---
+
+### ஹவாயை தாக்கிய சுனாமி அலை
+
+*2025-07-30 12:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹவாயை-தாக்கிய-சுனாமி-அலை/50-362044) · `ta`
+
+ரஷ்யாவின் கிழக்கு கடற்கரையில் ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கம் காரணமாக ஹவாய்த் தீவுகளை சுனாமி அலைகள் தாக்கத் தொடங்கியுள்ளதாக பசிப்பிக் சுனாமி எச்சரிக்கை நிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3f162036.json)
+
+---
+
+### “நண்பனான இந்தியாவுக்கு 25 சதவீத வரி”: ட்ரம்ப் சூசகம்
+
+*2025-07-30 12:26:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நண்பனான-இந்தியாவுக்கு-25-சதவீத-வரி-ட்ரம்ப்-சூசகம்/50-362043) · `ta`
+
+இந்தியா மற்றும் அமெரிக்காவுக்கு இடையிலான இருதரப்பு ஒப்பந்தம் குறித்த பேச்சுவார்த்தை சிறப்பான முறையில் நடைபெற்று வருவதாக அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்ப் தெரிவித்தார். இருப்பினும் இந்தியாவுக்கு 20 முதல் 25 சதவீதம் வரையில் வரி விதிக்க வாய்ப்புள்ளதாக அவர் சூசகமாக கூறியுள்ளார்.
+
+அமெரிக்க ஜனாதிபதியாக டொனால்டு ட்ரம்ப் கடந்த ஜனவரி மாதம் பதவியேற்றார். அப்போது, உலக நாடுகளின் பொருட்களுக்கான இறக்குமதி வரி பட்டியலை வெளியிட்டார். இது உலக நாடுகளை அதிர்ச்சியடைய வைத்தது. பின்னர் இந்த புதிய வரி விதிப்பு 90 நாட்களுக்கு நிறுத்தி வைப்பதாக அறிவித்தார். இதன்படி, கடந்த ஜூலை 9-ம் திகதி கெடு முடிய இருந்த நிலையில் ஆகஸ்ட் 1-ம் திகதி வரை நீட்டித்தார்.
+
+இதனிடையே, பல்வேறு நாடுகள் அமெரிக்காவுடன் வர்த்தக ஒப்பந்தம் செய்து கொள்வது தொடர்பாக பேச்சுவார்த்தை நடத்தி வருகின்றன. இதில் ஜப்பான், இங்கிலாந்து, ஐரோப்பிய யூனியன் உள்ளிட்டவற்றுடன் ஒப்பந்தம் கையெழுத்தாகி உள்ளது. இந்தியாவுடனும் வரி விதிப்பு தொடர்பான பேச்சுவார்த்தை நடைபெற்று வருகிறது.
+
+...
+
+[Data](articles/ce17863b.json)
+
+---
+
+### Tsunami waves hit Alaska and Hawaii; US West Coast on alert
+
+*2025-07-30 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111003/tsunami-waves-hit-alaska-and-hawaii-us-west-coast-on-alert) · `en`
+
+Tsunami waves have reached parts of Alaska and Hawaii, according to foreign media reports.
+
+The state of Hawaii, parts of Alaska’s Aleutian Islands, and a section of Northern California are currently under a tsunami warning, the most severe alert issued by authorities.
+
+Meanwhile, the rest of the US West Coast is under a less severe tsunami advisory.
+
+The first waves have already struck Alaska, and waves are now beginning to hit Hawaii.
+
+Other western states of the U.S. are bracing for impact, with waves expected to reach coastal areas in the coming hours. According to the U.S. Tsunami Warning Center, the estimated arrival times are as follows:
+
+◼️
+
+[Data](articles/70b086f5.json)
+
+---
+
+### ඇලෙස්කාවට සහ හවායි දූපත්වලටත් සුනාමි රළ කඩා වදී
+
+*2025-07-30 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212822) · `si`
+
+රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් මේ වනවිට ඇලෙස්කාව සහ අමෙරිකාවට අයත් හවායි දූපත් වෙත සුනාමි රළ ඇතුළු වී තිබේ.
+
+මේ වනවිට හවායි හි ඔආහු දූපතේ වෙරළ තීරයේ හලයිවාහි ජලමට්ටම අඩි 4කට වඩා ඉහළ ගොස් ඇතැයි ද වි‍දෙස් මාධ්‍ය වාර්තා කරයි.
+
+හවායි ප්‍රාන්තය, අලෙස්කාවේ ඇලූටියම් දූපත්වල ඇතැම් කොටස් සහ උතුරු කැලිෆෝනියාවේ කොටසක් මේ වනවිටත් සුනාමි අනතුරු ඇඟවීම් යටතේ පවතින අතර, වඩාත් දැඩි අනතුරු ඇඟවීම එක්සත් ජනපදයේ බටහිර වෙරළ තීරයට නිකුත් කර ඇත.
+
+සුනාමි රළ මේ වනවිටත් ඇලෙස්කාවට ඇතුළු වී ඇති අතර, හවායි දූපත්වලට ද සුනාමි රළ පැමිණීමට පටන් ගෙන ඇතැයි විදෙස් වාර්තා සඳහන් කරයි.
+
+එක්සත් ජනපදයේ බටහිර ප්‍රදේශයේ සෙසු ප්‍රාන්තවලට ඉදිරි පැය කිහිපය තුළ සුනාමි රළ ඇතුළු විය හැකි බවට අපේක්ෂා කෙරේ.
+
+ඒ සඳහා ජනතාව මේ වනවිටත් සුදානමින් සිටින බව විදෙස් වාර්තා සඳහන් කරයි.
+
+මේ අතර එක්සත් ජනපද සුනාමි අනතුරු ඇඟවීමේ මධ්‍යස්ථානයෙන් ප්‍රදේශ කිහිපයකට සුනාමි රළ පැමිණීමේ වේලාවන් ප්‍රකාශයට පත්කර ඇත.
+
+...
+
+[Data](articles/c006c753.json)
+
+---
+
+### Govt to strictly enforce seat belt law from October – Transport Minister
+
+*2025-07-30 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111002/govt-to-strictly-enforce-seat-belt-law-from-october-transport-minister) · `en`
+
+Minister of Transport, Highways, Ports, and Civil Aviation Bimal Rathnayake says steps will be taken to strictly enforce the seat belt regulations in the near future.
+
+While participating in the Galle District Transport Committee meeting, he stated that measures would be taken to revoke the permits granted to owners of buses that do not comply with the law.
+
+The Minister noted that around 2,350 people are killed while 6,000 sustain serious injuries due to motor accidents annually. Therefore, he noted that the government has presented a ‘Road Safety Plan’ for 2025 and 2026 through the Ministry of Transport.
+
+“Under that, a seat belt plan will be imposed. In any case, we are publishing the gazette. Even though the law has been in effect since 2011, no one seems to care. People drive on the expressway without wearing seat belts,” the Minister said.
+
+...
+
+[Data](articles/11adfd31.json)
+
+---
+
+### ’ஐ லவ் யூ’  கூறியவருக்கு நீதிமன்றம் கருத்து
+
+*2025-07-30 12:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-லவ்-யூ-கூறியவருக்கு-நீதிமன்றம்-கருத்து/175-362041) · `ta`
+
+15 வயது சிறுமி ஒருவர், தான் வீட்டிற்குச் செல்லும் வழியில் இளைஞர் "ஐ லவ் யூ" என்று சொன்னதாகவும், இதற்கு முன்பும் பலமுறை தொல்லை கொடுத்ததாகவும் குற்றம் சாட்டியிருந்தார். அவரது புகாரின் அடிப்படையில், இந்தியாவின் போக்சோ உள்ளிட்ட பிரிவுகளின்கீழ் பொலிஸார் வழக்கு பதிவு செய்தது. இருப்பினும், போதிய ஆதாரம் இல்லாததால் விசாரணை நீதிமன்றம் ஏற்கெனவே இளைஞரை விடுவித்திருந்தது.
+
+சத்தீஸ்கர் மாநிலம் தம்தரி மாவட்டத்தில் உள்ள குரூட் பொலிஸ் பிரிவில் நடந்த இந்த வழக்கின் தீர்ப்பை எதிர்த்து உயர்நீதிமன்றத்தில் மேன்முறையீடு செய்யப்பட்டது.
+
+இந்த மனுவை விசாரித்த ஐகோர்ட்டு, குற்றஞ்சாட்டப்பட்டுள்ள இளைஞர் சிறுமியிடம் தவறாக நடந்துகொண்டதாக சாட்சியங்களுடன் நிரூபிக்க முடியவில்லை.
+
+அவர் தவறான எண்ணத்தில் சிறுமியிடம் பழக முயற்சிக்கவும் இல்லை என்று தெரிய வந்துள்ளதாக நீதிமன்றம் தெரிவித்துள்ளது.
+
+மேலும், கீழமை நீதிமன்றத்தால் வழங்கப்பட்ட தீர்ப்பை மேற்கோள்காட்டி, மேன்முறையீட்டு மனுவை தள்ளுபடி செய்தது.
+
+◼️
+
+[Data](articles/e26bd2bb.json)
+
+---
+
+### මාරක රිය අනතුරක් - දෙදෙනෙක් මරුට
+
+*2025-07-30 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212821) · `si`
+
+හතරලියද්ද -  රඔුක්කන මාර්ගයෙහි 12 කණුව ආසන්නයේදී සිදුවූ මාරක රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+හතරලියද්ද දෙසට ධාවනය වූ ලොරි රථයක් ත්‍රිරෝද රථයක ගැටීමෙන් ඊයේ (29) හවස මෙම අනතුර සිදුව ඇත.
+
+ලොරි රථයේ රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව පසුව යතුරුපැදියක හා කැබ් රථයක ගැටී ලොරිය මාර්ගයෙන් ඉවතට පැන අනතුරට ලක්ව තිබේ.
+
+අනතුරින් ලොරි රථයේ රියදුරු සහ රිය සහායක දෙදෙනාද, යතුරුපැදිකරුද, කැබ් රථයේ රියදුරු සහ රිය සහායකද තුවාල ලබා හතරලියද්ද රෝහලට ඇතුළත් කර තිබේ.
+
+පසුව වයස අවුරුදු 52 හා 63 වයස්වල පසුවූ ලොරි රථයේ රියදුරු සහ යතුරුපැදිකරු මියගොස් ඇත.
+
+ලොරි රථයේ රිය සහායක දෙදෙනා සහ කැබ් රථයේ රියදුරු වැඩිදුර ප්‍රතිකාර සඳහා මහනුවර රෝහලට ඇතුළත් කර තිබේ.
+
+මෘත ශරීර හතරලියද්ද රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මේ සම්බන්ධයෙන් හතරලියද්ද පොලීසිය වැඩිදුර විමර්ශනය සිදුකරයි.
+
+◼️
+
+[Data](articles/366fd551.json)
+
+---
+
+### අපරාධ කල්ලි නායකයෙකු ඇතුළු 11ක් අත්අඩංගුවට
+
+*2025-07-30 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212820) · `si`
+
+හලාවත බංගදෙනිය වීරකමණ්දලුව ප්‍රදේශයේ නිවසක් වටලා සිදු කළ හදිසි සෝදිසි මෙහෙයුමක දී කොළඹ සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ඇතුළු 11 දෙනෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (29) පස්වරුවේ මෙම වැටලීම සිදු කර ඇති අතර එම අවස්ථාවේ සංවිධානාත්මක අපරාධ කල්ලි නායකයා නිවසින් පැන ගොස් ඇති බව වාර්තා වේ.
+
+කෙසේ වෙතත් ඔහු ත්‍රීරෝද රථයකින් හලාවත බස් නැවතුම්පොළ බලා ගමන් කරමින් සිටිය දී හලාවත පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අතර කාන්තාවන් තුන්දෙනෙකු හා පිරිමි පුද්ගලයන් 08 දෙනෙකු සිටී.
+
+◼️
+
+[Data](articles/cb925c0c.json)
+
+---
+
+### ඔස්ට්‍රේලියාවේ 16ට අඩු ළමුන් සඳහා YouTube තහනමක්
 
 *2025-07-30 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212819) · `si`
 
@@ -104,23 +276,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### China’s representative terms U.S. trade talks in Stockholm ‘in-depth, candid, constructive’
+
+*2025-07-30 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111001/chinas-representative-terms-us-trade-talks-in-stockholm-in-depth-candid-constructive) · `en`
+
+The Chinese and U.S. teams held “in-depth, candid, constructive” discussions on economy and trade over the past day and a half in Stockholm, said a senior Chinese official on Tuesday.
+
+Li Chenggang, China international trade representative with the Ministry of Commerce and vice minister of commerce, made the remarks while briefing the press following the meeting of the China-U.S. economic and trade consultation mechanism in Stockholm, Sweden.
+
+According to Li, the talks followed up on the consensus reached during the phone call between the two heads of state on June 5.
+
+“The economic and trade teams of both countries held in-depth, candid, and constructive discussions on major issues of mutual concern, under the framework of the China-U.S. economic and trade consultation mechanism,” Li said, noting that the two sides fully recognize the importance of maintaining a stable and healthy China-U.S.economic and trade relationship.
+
+...
+
+[Data](articles/fbfe1093.json)
+
+---
+
 ### Sri Lanka’s WindForce to offer 3-pct voting stock in employee share option scheme
 
 *2025-07-30 11:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-to-offer-3-pct-voting-stock-in-employee-share-option-scheme-233636/) · `en`
 
-ECONOMYNEXT – Sri Lanka renewable energy firm WindForce said it was planning to offer 40,523,068 ordinary voting shares in an employee share option scheme (ESOS).
+ECONOMYNEXT – Sri Lanka renewable energy firm WindForce said it was planning to offer 40,523,068 ordinary shares in an employee share option plan.
 
-The ESOS will result in the issuance of ordinary voting shares not exceeding 3 percent of the pre-ESOS issued number of shares of the company, WindForce said in a stock exchange filing.
+It will be 3 percent of issue shares of the shares before the share option plan, the firm said in a stock exchange filing.
 
-The objective of the ESOS was to incentivize and retain key talent by offering eligible employees an opportunity to acquire equity in the company, it said.
+The objective of the ESOS was to incentivize and retain key talent the company said.
 
-The company will grant options to management staff Level 1 and Level 2 employees to purchase ordinary voting shares in the company subject to limits, and terms and conditions.
-
-Incorporated in July 2010, WindForce was established to manage all facets of renewable energy development.
+The company will grant options to management staff Level 1 and Level 2 employees.
 
 “The Company remains committed to its growth trajectory, underpinned by strategic initiatives aimed at enhancing profitability and scaling operations,” WindForce said.
 
-...
+The proposed ESOS is subject to regulatory and shareholder approval. (Colombo/Jul30/2025)
+
+◼️
 
 [Data](articles/f3785f66.json)
 
@@ -207,6 +397,24 @@ The primary objective of establishing this commission is to facilitate collabora
 ...
 
 [Data](articles/1f7f9209.json)
+
+---
+
+### විෂ මත්ද්‍රව්‍ය ජාලයන් ආරක්ෂා කිරීමට රජය කිසිම දේශපාලන මැදිහත්වීමක් කරන්නේ නෑ
+
+*2025-07-30 11:14:01* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-මත්ද්‍රව්‍ය-ජාලයන්-ආරක්ෂා-කිරීමට-රජය-කිසිම-දේශපාලන-මැදිහත්වීමක්-කරන්නේ-නෑ/11-417604) · `si`
+
+විෂ මත්ද්‍රව්‍ය  ප්‍රචලිත කිරීමට හෝ එම ජාලයන් ආරක්ෂා කිරීමට වත්මන් රජය යටතේ කිසිදු දේශපාල මැදිහත්වීමක් සිදු නොවන බැවින් මෙරටින් විෂ මත්ද්‍රව්‍ය තුරන් කිරීමට නොබියව එක්වන ලෙස සියලු පාර්ශවයන්ගෙන් ඉල්ලීමක් කරන බව වෙළඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+
+ඒ මහතා මේ බව කියා සිටියේ විෂ මත්ද්‍රව්‍ය මෙරටින් තුරන් කිරීම සඳහා විශේෂ කමිටු පිහිටුවීමේ දීප ව්‍යාප්ත මත්ද්‍රව්‍ය නිවාරණ වැඩ සටහනේ අනුරාධපුර දිස්ත්‍රික් වැඩ සටහනට එක්වෙමින්ය.
+
+එම මත්ද්‍රව්‍ය නිවාරණ දීප ව්‍යාප්ත විශේෂ කමිටු පිහිටුවීම පෙරේදා (29දා) දින අනුරාධපුර දිස්ත්‍රික්කයෙන් ආරම්භ වූ අතර එය උතුරු මැද පළාත් ආණ්ඩුකාර වසන්ත ජිනදාස මහතාගේ ප්‍රධානත්වයෙන් උතුරු මැද පළාත් සභා ශ්‍රවණාගාරයේදී සිදුවිය.
+
+විෂ මත්ද්‍රව්‍ය තුරන් කිරීම ප්‍රථමයෙන් පාසල් දරුවන් ඉලක්ක කර ගනිමින් ආරම්භ කිරීම සඳහා මෙහිදී අවධානය යොමු වූ අතර ඒ සදහා දරුවන් දැනුවත් කිරීමේ වැඩසටහන් මෙන්ම තවත් අදියරක් ලෙස නගර සහ ග්‍රාමීය මට්ටමින් ජනතාව දැනුවත් කිරීමට විශේෂ කමිටු පිහිටුවීමට නියමිතය.
+
+...
+
+[Data](articles/688b25e5.json)
 
 ---
 
@@ -868,7 +1076,7 @@ Based on information received by the Acting Inspector General of Police regardin
 
 ---
 
-### Three including toddler killed in multiple road accidents
+### Three including toddler killed in separate road accidents
 
 *2025-07-30 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110988/three-including-toddler-killed-in-multiple-road-accidents) · `en`
 
@@ -876,7 +1084,15 @@ Three individuals, including a one-and-a-half-year-old toddler have died due to 
 
 These accidents took place yesterday (29) in Matale, Medawachchiya, and Katana.
 
-◼️
+An accident was reported along the Matale-Rattota road in Mandandawela, when a three-wheeler overturned on the road after the driver lost control of the vehicle.
+
+Police stated in the accident, the mother of the driver and a toddler who were traveling in the back seat of the three-wheeler sustained injuries. They were admitted to the Matale Hospital, where the child later succumbed to injuries.
+
+Meanwhile, in Medawachchiya along the A9 road at the Weli Oya junction, a lorry collided with a motorcycle and another lorry, after the driver lost control of the vehicle.
+
+The motorcyclist sustained serious injuries and was first admitted to the Rambewa Hospital and then transferred to the Anuradhapura Hospital for further treatment, where he died.
+
+...
 
 [Data](articles/e56d989d.json)
 
@@ -1609,199 +1825,5 @@ In simple terms, capital markets help channel money from people who have it (sav
 ...
 
 [Data](articles/9d77f7e3.json)
-
----
-
-### ComBank’s Rs 15 billion Green Bond Issue opens on August 4
-
-*2025-07-29 23:30:00* · [`islandlk`](http://island.lk/combanks-rs-15-billion-green-bond-issue-opens-on-august-4/) · `en`
-
-The Commercial Bank of Ceylon has announced plans to raise up to Rs 15 billion for lending to sustainability-linked projects via a Green Bond approved in principle by the Colombo Stock Exchange (CSE) for public listing.
-
-The Green Bond Issue opening on Monday 4th August 2025 will comprise of an initial issue of 100 million Basel III Compliant – Tier 2 Listed Rated Unsecured Subordinated Redeemable Green Bonds with a Non-Viability Conversion feature, at the par value of Rs 100/= each, to raise a sum of Rupees 10 billion; and an option to issue up to a further 50 million Green Bonds at the discretion of the Bank, in the event of an oversubscription of the initial issue.
-
-The Bank said the issue will further strengthen its Tier II capital base and raise funds for the expansion of its green lending portfolio.
-
-...
-
-[Data](articles/b5be8ab8.json)
-
----
-
-### HNB, JKH and Sierra Cables drive trading activity on Colombo Stock Exchange
-
-*2025-07-29 23:28:00* · [`islandlk`](http://island.lk/hnb-jkh-and-sierra-cables-drive-trading-activity-on-colombo-stock-exchange/) · `en`
-
-The trading activities on the Colombo Stick Exchange were positive yesterday despite a slight decline in JKH stocks due to certain negative news reports on BYD vehicle imports pertaining to alleged engine capacity issues, market analysts said.
-
-Amid those developments, the market was positive overall with most counters witnessing advances
-
-In a combined result, mixed reactions were noted in both indices; All Share Price Index up by 14.34 points while S and P SL20 down by 11.7 points.
-
-...
-
-[Data](articles/f583f39b.json)
-
----
-
-### யாழில் இடம்பெற்ற கோர விபத்து!
-
-*2025-07-29 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221321) · `ta`
-
-யாழ்ப்பாணம் - பருத்தித்துறை வீதியின் கோப்பாய் பகுதியில் செவ்வாய்க்கிழமை (29) கோர விபத்து சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-இந்த விபத்தில் பேருந்தில் பயணித்த சிலரும் காரில் பயணித்த ஒருவரும் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/60d5197d.json)
-
----
-
-### மன்னார் கடற்பரப்பில் 14 இந்திய மீனவர்கள் கைது
-
-*2025-07-29 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221320) · `ta`
-
-இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இரண்டு இந்திய மீன்பிடி படகுகள் பத்தலங்குண்டுவ மற்றும் மன்னாரின் வடக்கு கடற்பரப்பில் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
-
-பத்தலங்குண்டுவ கடல் பகுதியிலும் மன்னாருக்கு வடக்கே உள்ள கடல் பகுதியிலும் மேற்கொண்ட சிறப்பு தேடுதல் நடவடிக்கையின் போது, இலங்கை கடற்பரப்பில் சட்டவிரோத மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டிருந்த 14 இந்திய மீனவர்களுடன் இந்திய மீன்பிடி படகுகள் இரண்டும்  இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
-
-நாட்டின் கடற்பரப்பை மீறி வெளிநாட்டு மீன்பிடி கப்பல்கள் மேற்கொள்ளும் சட்டவிரோத மீன்பிடி நடவடிக்கைகளை தடுக்கவும், உள்ளுர் மீனவ மக்களின் வாழ்வாதாரத்தை பாதுகாக்கவும் கடற்படை வழக்கமான நடவடிக்கைகளை மேற்கொண்டு வருகிறது.
-
-இந்த நடவடிக்கைகளின் மூலம், 02 இந்திய மீன்பிடி படகுகள் மற்றும் அதில் இருந்த 14 இந்திய மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டு, கல்பிட்டி மற்றும் தலைமன்னார் படகுத்துறைக்கு கொண்டு வரப்பட்டு, மேலதிக சட்ட நடவடிக்கைகளுக்காக கல்பிட்டி மற்றும் தலைமன்னார் உதவி மீன்வள ஆய்வாளர் அலுவலகங்களில் ஒப்படைக்கப்பட்டனர்.
-
-◼️
-
-[Data](articles/799b6757.json)
-
----
-
-### யாழில் 6 பிரதேச செயலகங்களில் நிர்வாக உத்தியோகத்தர் இல்லை - ஒருவர் மட்டும்  14 வருடங்களாக ஒரே பிரதேச செயலகத்தில்!
-
-*2025-07-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221319) · `ta`
-
-யாழ். மாவட்டத்திலுள்ள 15 பிரதேச செயலகங்களில் 9 பிரதேச செயலகங்களில் மட்டும் நிரந்தர நிர்வாக உத்தியோத்தர் (AO) காணப்படுகின்ற நிலையில் ஏனைய 6 பிரதேச செயலகங்களிலும் நிரந்த உத்தியோகத்தர் இன்றி பதில் கடமை உத்தியோகத்தர்களே கடமையில் உள்ளமை தகவல் அறியும் சட்ட மூலம் உறுதிப்படுத்தப்பட்டுள்ளது.
-
-யாழ். மாவட்டத்தில் உள்ள பிரதேச செயல்களான யாழ்ப்பாணம் நல்லூர் சங்கானை, உடுவில், சாவகச்சேரி கரவெட்டி ,பருத்தித்துறை மற்றும் மருதங்கேணி ஆகிய பிரதேச செயலகங்களில் கடமைகள் உள்ள நிர்வாக உத்தியோத்தர் அனேகமாக 2021 ஆம் ஆண்டு பொறுப்பேற்றவர்களாக காணப்படுகின்றனர்.
-
-இந்நிலையில் கோப்பாய் பிரதேச செயலகத்தில் கடமையாற்றம் நிர்வாக உத்தியோத்தர் மட்டும் 2011 இருந்து இன்று வரை  இடமாற்றம் ஏதும் இன்றி கோப்பாய் பிரதேச செயலகத்தில் 14 வருடங்களாக தொடர்ந்து கடமையில் உள்ளார்.
-
-ஏனைய பிரதேச செயலகங்களான வேலனை ,நெடுந்தீவு ஊர்காவற்துறை, காரைநகர் தெல்லிப்பழை மற்றும் சண்டிலிப்பாய் ஆகிய பிரதேச செயலகங்களில் நிர்வாக உத்தியோத்தர் நிரந்தரமாக நியமிக்கப்படவில்லை என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/2219dede.json)
-
----
-
-### தூக்கில் தொங்கிய நிலையில் பெண்ணின் சடலம் மீட்பு!
-
-*2025-07-29 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221318) · `ta`
-
-வவுனியா குடியிருப்பு பகுதியில் உள்ள வீடொன்றில் இருந்து தூக்கில்தொங்கிய நிலையில் பெண் ஒருவரின் சடலத்தினை பொலிசார் மீட்டுள்ளனர்.
-
-குடியிருப்பு மடத்தடிவீதியில் அமைந்துள்ள வீடொன்றில் சடலம் ஒன்று இருப்பது தொடர்பாக வவுனியா பொலிசாருக்கு செவ்வாய்க்கிழமை (29) இரவு தகவல் வழங்கப்பட்டிருந்தது.
-
-சம்பவ இடத்திற்கு சென்ற பொலிசார் சடலத்தை மீட்டுள்ளதுடன் விசாரணைகளை முன்னெடுத்துள்ளனர். குறித்த வீட்டின் கீழ்தளத்தில் தனிமையில் இருந்த பெண் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
-
-வீட்டின் கதவு மூடப்பட்டிருந்த நிலையில் பொலிசாரார் அதனை உடைத்து உள்ளேசென்றிருந்தனர்.  சம்பவத்தில் குடியிருப்பு பகுதியை சேர்ந்த எழிலரசி வயது 53 என்ற பெண்ணே சடலமாக மீட்கப்பட்டார்.
-
-◼️
-
-[Data](articles/c8e2fb40.json)
-
----
-
-### දියේ ගිලී තරුණයෙකු ජීවිතක්ෂයට
-
-*2025-07-29 22:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212802) · `si`
-
-ගාල්ල, ගිංතොට මෝයකට අසල දියනෑමට ගිය තරුණයෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
-
-අද (29) සවස මෙම අනතුර සිදුව ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-මෙලෙස මියගොස් ඇත්තේ ගිංතොට, කුරුඳුවත්ත ප්‍රදේශයේ පදිංචි 22 හැවිරිදි තරුණයෙකි.
-
-මරණකරු ගිං ගඟේ මෝය කට අසල දිය නෑමට ගොස් අතුරුදහන්ව ඇති අතර පසුව ප්‍රදේශවාසීන්, නාවික හමුදාවේ කිමිදුන්කරුවන් සහ පොලීසිය එක්ව තරුණයා සොයා මෙහෙයුමක් ආරම්භ කර තිබුණි.
-
-එහිදී කිමිදුන්කරුවන්ට තරුණයාගේ මළ සිරුර හමුව ඇති අතර සිරුර ගොඩට රැගෙන ඒමෙන් පසු පශ්චාත් මරණ පරීක්ෂණය සඳහා ගාල්ල ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත රැගෙන යන ලදී.
-
-◼️
-
-[Data](articles/e855c3c0.json)
-
----
-
-### ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස්වරිය ඉන්දීය ජනපතිනියට අක්තපත්‍ර භාරදෙයි
-
-*2025-07-29 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212801) · `si`
-
-ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස් මහේෂිනී කොලොන්නේ මහත්මිය ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය වෙත සිය අක්තපත්‍ර භාර දී තිබේ.
-
-අද (29) නවදිල්ලියේ රාෂ්ට්‍රපති භවන්හිදී ජනාධිපතිනිය වෙත නිල වශයෙන් ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස්වරිය සිය අක්තපත්‍ර භාර දුනි.
-
-මෙහිදී 2024 දෙසැම්බර් මාසයේදී ජනාධිපති දිසානායක මහතාගේ ඉන්දීය සංචාරය සහ 2025 අප්‍රේල් මාසයේදී අගමැති මෝදි මහතාගේ ශ්‍රී ලංකා සංචාරයන් දෙරට අතර හවුල්කාරිත්වය විශිෂ්ට මට්ටමකට ඔසවා තැබූ බව ශ්‍රී ලංකා මහ කොමසාරිස්වරිය ප්‍රකාශ කළාය.
-
-විශේෂයෙන් ඇය අර්බුදකාරී කාලවලදී ලබා දුන් අඛණ්ඩ සහයෝගය සඳහා ඉන්දියාවට ශ්‍රී ලංකාවේ කෘතඥතාව පළ කළාය.
-
-◼️
-
-[Data](articles/6bfc872d.json)
-
----
-
-### 19 வயதின் கீழ் பெண்களுக்கான இலங்கை இளையோர் லீக் கிரிக்கெட்: காலி அணி சம்பியனானது
-
-*2025-07-29 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221317) · `ta`
-
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்டுவந்த 19 வயதுக்குட்பட்ட பெண்களுக்கான இலங்கை இளையோர் லீக் கிரிக்கெட் போட்டியில் 19 வயதுக்குட்பட்ட காலி பெண்கள் அணி சம்பியனானது.
-
-இந்த சுற்றுப் போட்டியில் கொழும்பு, கண்டி, காலி, தம்புள்iளை ஆகிய நான்கு அணிகள் பங்குபற்றின.
-
-என்.சி.சி. மைதானத்தில் இன்று செவ்வாய்க்கிழமை (29) நடைபெற்ற இறுதிப் போட்டியில் 19 வயதுக்குட்பட்ட கொழும்பு பெண்கள் அணியை 90 ஓட்டங்களால் 19 வயதுக்குட்பட்ட காலி பெண்கள் அணி வெற்றி கொண்டு சம்பியனானது.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய காலி அணி 20 ஓவர்களில் 3 விக்கெட்களை இழந்து 143 ஓட்டங்களைக் குவித்தது.
-
-நேதாஜி இசுராஞ்சலி, ரஷ்மி நேத்ராஞ்சலி ஆகிய இருவரும் பிரிக்கப்படாத 4ஆவது விக்கெட்டில் 103 ஓட்டங்களைப் பகிர்ந்து அணியை பலமான நிலையில் இட்டனர்.
-
-இசுராஞ்சலி 9 பவுண்டறிகள், 2 சிக்ஸ்கள் உட்பட 77 ஓட்டங்களுடனும் நேத்ராஞ்சலி 4 பவுண்டறிகள், ஒரு சிக்ஸ் உடப்ட 39 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
-
-...
-
-[Data](articles/73912129.json)
-
----
-
-### Maldivian Deputy Speaker and ministers hold bilateral talks with President Dissanayake
-
-*2025-07-29 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110980/maldivian-deputy-speaker-and-ministers-hold-bilateral-talks-with-president-dissanayake) · `en`
-
-Deputy Speaker of the Maldives and five other Maldivian ministers met with President Anura Kumara Dissanayake today (29) at the ‘Kurumba Maldives’ resort and held discussions.
-
-Accordingly, Mr. Ahmed Nazim, Deputy Speaker of the Maldives; Dr. Abdulla Khaleel, Minister of Foreign Affairs; Mr. Mohamed Saeed, Minister of Economic Development and Trade; Mr. Mohamed Ghassan Maumoon, Minister of Defence; Mr. Moosa Zameer, Minister of Finance and Planning; and Mr. Ali Ihusaan, Minister of Home Security and Technology, held talks with the President during the meeting, the President’s Media Division (PMD) said.
-
-They extended their gratitude to President Dissanayake for undertaking the state visit and expressed confidence that the visit, held in commemoration of 60 years of diplomatic ties between Sri Lanka and the Maldives, would lay the foundation for deeper cooperation, broader understanding, and stronger friendship between the two nations.
-
-...
-
-[Data](articles/effe66b4.json)
-
----
-
-### නවසීලන්ත ටෙස්ට් නායකත්වය සැට්නර්ට
-
-*2025-07-29 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212800) · `si`
-
-සිම්බාබ්වේ කණ්ඩායමට එරෙහි තරග 2කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයේ නවසීලන්ත කණ්ඩායමේ වැඩබලන නායකයා ලෙස තුන්ඉරියව් ක්‍රීඩක මිචෙල් සැට්නර් නම් කර තිබේ.
-
-නවසීලන්ත නිත්‍ය නායක ටොම් ලේතම් මේ වනවිට උරහිසේ ආබාධයකට ලක්ව සිටින අතර, ඔහු දෙවන ටෙස්ට් තරගයට ක්‍රීඩා කරනු ඇති බව නවසීලන්තය ක්‍රිකට් නිවේදනය කර ඇත.
-
-මේ හේතුවෙන් නවසීලන්ත සීමිත පන්දුවාර තරගවල නායකයා වන සැට්නර්ට මෙම වගකීම ලැබී තිබේ.
-
-ඒ අනුව නවසීලන්ත පිරිමි ටෙස්ට් ක්‍රිකට් කණ්ඩායමක් මෙහෙයවන 32 වන නායකයා මිචෙල් සැට්නර් වනු ඇත.
-
-◼️
-
-[Data](articles/332c8b39.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 04:52:34**
+As of **2025-07-31 05:06:19**
 
 ## Newspaper Stats
 
-*Scraped **67,804** Articles*
+*Scraped **67,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,786
+dailyftlk | 4,788
 adalk | 6,520
 adaderanalk | 8,373
-tamilmirrorlk | 9,833
+tamilmirrorlk | 9,834
 virakesarilk | 11,283
 adaderanasinhalalk | 11,667
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,804 articles have been extended.
+61,973 (91.4%) of 67,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Sri Lanka’s participation at Global SME Ministerial Meeting and Trade Promotion Organisations Leadership Dialogue
+
+*2025-07-31 04:52:52* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-participation-at-Global-SME-Ministerial-Meeting-and-Trade-Promotion-Organisations-Leadership-Dialogue/34-779710) · `en`
+
+Sri Lanka Export Development Board (EDB) Chairman and Chief Executive Officer Mangala Wijesinghe represented Sri Lanka at two prestigious international events held in Johannesburg, South Africa, the Trade Promotion Organisations (TPO) Leadership Dialogue and the inaugural Global SME Ministerial Meeting. Both events took place at the Birchwood Hotel & OR Tambo Conference Centre from 22 to 24 July.
+
+The high-level meetings were organised by the International Trade Centre (ITC) in collaboration with the Department of Small Business Development of the Government of South Africa. These events brought together policymakers, TPO leaders, and global stakeholders to explore innovative strategies to empower small and medium-sized enterprises (SMEs).
+
+...
+
+[Data](articles/096f0cde.json)
+
+---
+
+### Rahul Pavithran appointed Head of Sales and Marketing at ITC Ratnadipa, Colombo
+
+*2025-07-31 04:49:17* · [`dailyftlk`](https://www.ft.lk/business/Rahul-Pavithran-appointed-Head-of-Sales-and-Marketing-at-ITC-Ratnadipa-Colombo/34-779709) · `en`
+
+ITC Ratnadipa Colombo has appointed international hospitality professional Rahul Pavithran as Head of Sales and Marketing in a strategic move to strengthen the hotel’s market position.
+
+A seasoned professional, Rahul possesses over 17 years of experience in hospitality sales and marketing, demonstrating a proven ability to drive revenue growth, enhance brand presence, and expand market reach. In his new role, he will further strengthen the hotel’s efforts to capitalise on emerging opportunities within Sri Lanka’s competitive luxury hospitality sector.
+
+...
+
+[Data](articles/687b3e93.json)
+
+---
+
+### பா.ஜ.க. துணைத் தலைவரானார் குஷ்பு
+
+*2025-07-31 04:42:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பா-ஜ-க-துணைத்-தலைவரானார்-குஷ்பு/175-362088) · `ta`
+
+தமிழக பா.ஜ.க. மாநில நிர்வாகிகள் பட்டியலை மாநில தலைவர் நயினார் நாகேந்திரன் வெளியிட்டுள்ளார். நடிகை குஷ்பு உள்ளிட்ட 14 பேர் மாநில துணைத் தலைவர்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+பா.ஜ.க. தேசிய தலைவர் நட்டாவின் ஒப்புதலுடன் தமிழக பாரதிய ஜனதா கட்சிக்கு புதிய மாநில நிர்வாகிகள் நியமனம் செய்யப்படுகிறார்கள்.
+
+மாநில துணைத் தலைவர்களாக எம். சக்கரவர்த்தி, வி.பி. துரைசாமி, கே.பி. ராமலிங்கம், கரு நாகராஜன், சசிகலா புஷ்பா, கனகசபாபதி, டால்பின் ஸ்ரீதர், ஏ.ஜி.சம்பத், பால் கனகராஜ், ஜெயபிரகாஷ், மா.வெங்கடேசன், கோபால்சாமி, குஷ்பு சுந்தர், என். சுந்தர் ஆகிய 14 பேர் நியமிக்கப்படுகிறார்கள். மாநில அமைப்பு பொதுச் செயலாளராக கேசவ விநாயகன் நியமிக்கப்பட்டுள்ளார் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/5f2ea3b6.json)
+
+---
 
 ### குழந்தையை அரவணைத்தபடி இருந்த எலும்புக்கூடு
 
@@ -1777,65 +1821,5 @@ The event focused on the implications of CSDDD for Sri Lanka’s export economy,
 ◼️
 
 [Data](articles/3f162036.json)
-
----
-
-### “நண்பனான இந்தியாவுக்கு 25 சதவீத வரி”: ட்ரம்ப் சூசகம்
-
-*2025-07-30 12:26:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நண்பனான-இந்தியாவுக்கு-25-சதவீத-வரி-ட்ரம்ப்-சூசகம்/50-362043) · `ta`
-
-இந்தியா மற்றும் அமெரிக்காவுக்கு இடையிலான இருதரப்பு ஒப்பந்தம் குறித்த பேச்சுவார்த்தை சிறப்பான முறையில் நடைபெற்று வருவதாக அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்ப் தெரிவித்தார். இருப்பினும் இந்தியாவுக்கு 20 முதல் 25 சதவீதம் வரையில் வரி விதிக்க வாய்ப்புள்ளதாக அவர் சூசகமாக கூறியுள்ளார்.
-
-அமெரிக்க ஜனாதிபதியாக டொனால்டு ட்ரம்ப் கடந்த ஜனவரி மாதம் பதவியேற்றார். அப்போது, உலக நாடுகளின் பொருட்களுக்கான இறக்குமதி வரி பட்டியலை வெளியிட்டார். இது உலக நாடுகளை அதிர்ச்சியடைய வைத்தது. பின்னர் இந்த புதிய வரி விதிப்பு 90 நாட்களுக்கு நிறுத்தி வைப்பதாக அறிவித்தார். இதன்படி, கடந்த ஜூலை 9-ம் திகதி கெடு முடிய இருந்த நிலையில் ஆகஸ்ட் 1-ம் திகதி வரை நீட்டித்தார்.
-
-இதனிடையே, பல்வேறு நாடுகள் அமெரிக்காவுடன் வர்த்தக ஒப்பந்தம் செய்து கொள்வது தொடர்பாக பேச்சுவார்த்தை நடத்தி வருகின்றன. இதில் ஜப்பான், இங்கிலாந்து, ஐரோப்பிய யூனியன் உள்ளிட்டவற்றுடன் ஒப்பந்தம் கையெழுத்தாகி உள்ளது. இந்தியாவுடனும் வரி விதிப்பு தொடர்பான பேச்சுவார்த்தை நடைபெற்று வருகிறது.
-
-...
-
-[Data](articles/ce17863b.json)
-
----
-
-### Tsunami waves hit Alaska and Hawaii; US West Coast on alert
-
-*2025-07-30 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111003/tsunami-waves-hit-alaska-and-hawaii-us-west-coast-on-alert) · `en`
-
-Tsunami waves have reached parts of Alaska and Hawaii, according to foreign media reports.
-
-The state of Hawaii, parts of Alaska’s Aleutian Islands, and a section of Northern California are currently under a tsunami warning, the most severe alert issued by authorities.
-
-Meanwhile, the rest of the US West Coast is under a less severe tsunami advisory.
-
-The first waves have already struck Alaska, and waves are now beginning to hit Hawaii.
-
-Other western states of the U.S. are bracing for impact, with waves expected to reach coastal areas in the coming hours. According to the U.S. Tsunami Warning Center, the estimated arrival times are as follows:
-
-◼️
-
-[Data](articles/70b086f5.json)
-
----
-
-### ඇලෙස්කාවට සහ හවායි දූපත්වලටත් සුනාමි රළ කඩා වදී
-
-*2025-07-30 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212822) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් මේ වනවිට ඇලෙස්කාව සහ අමෙරිකාවට අයත් හවායි දූපත් වෙත සුනාමි රළ ඇතුළු වී තිබේ.
-
-මේ වනවිට හවායි හි ඔආහු දූපතේ වෙරළ තීරයේ හලයිවාහි ජලමට්ටම අඩි 4කට වඩා ඉහළ ගොස් ඇතැයි ද වි‍දෙස් මාධ්‍ය වාර්තා කරයි.
-
-හවායි ප්‍රාන්තය, අලෙස්කාවේ ඇලූටියම් දූපත්වල ඇතැම් කොටස් සහ උතුරු කැලිෆෝනියාවේ කොටසක් මේ වනවිටත් සුනාමි අනතුරු ඇඟවීම් යටතේ පවතින අතර, වඩාත් දැඩි අනතුරු ඇඟවීම එක්සත් ජනපදයේ බටහිර වෙරළ තීරයට නිකුත් කර ඇත.
-
-සුනාමි රළ මේ වනවිටත් ඇලෙස්කාවට ඇතුළු වී ඇති අතර, හවායි දූපත්වලට ද සුනාමි රළ පැමිණීමට පටන් ගෙන ඇතැයි විදෙස් වාර්තා සඳහන් කරයි.
-
-එක්සත් ජනපදයේ බටහිර ප්‍රදේශයේ සෙසු ප්‍රාන්තවලට ඉදිරි පැය කිහිපය තුළ සුනාමි රළ ඇතුළු විය හැකි බවට අපේක්ෂා කෙරේ.
-
-ඒ සඳහා ජනතාව මේ වනවිටත් සුදානමින් සිටින බව විදෙස් වාර්තා සඳහන් කරයි.
-
-මේ අතර එක්සත් ජනපද සුනාමි අනතුරු ඇඟවීමේ මධ්‍යස්ථානයෙන් ප්‍රදේශ කිහිපයකට සුනාමි රළ පැමිණීමේ වේලාවන් ප්‍රකාශයට පත්කර ඇත.
-
-...
-
-[Data](articles/c006c753.json)
 
 ---

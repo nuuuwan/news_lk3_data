@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 14:26:00**
+As of **2025-07-30 14:39:50**
 
 ## Newspaper Stats
 
-*Scraped **67,714** Articles*
+*Scraped **67,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,506
-adaderanalk | 8,355
-tamilmirrorlk | 9,815
-virakesarilk | 11,278
-adaderanasinhalalk | 11,646
+adaderanalk | 8,360
+tamilmirrorlk | 9,817
+virakesarilk | 11,279
+adaderanasinhalalk | 11,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,714 articles have been extended.
+61,973 (91.5%) of 67,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### கலிபோர்னியாவில் சுனாமி அலை
+
+*2025-07-30 14:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கலிபோர்னியாவில்-சுனாமி-அலை/50-362047) · `ta`
+
+இது மாநிலத்தின் வடக்கே உள்ள அரினா கோவ் மற்றும் மான்டேரியில் தோன்றி மேலும் கீழ்நோக்கிச் செல்கிறது என்று அமெரிக்க தேசிய வானிலை சேவைதெரிவித்துள்ளது.
+
+கலிபோர்னியாவின் வடக்கு கலிபோர்னியாவில் உள்ள ஓரிகான் எல்லைக்கு அருகிலுள்ள கிரசென்ட் நகரில், நீர் மட்டம் உயர்ந்துள்ள நிலையில், கலிபோர்னியா தனது முதல் சுனாமி அலைகளைக் காணத் தொடங்கியுள்ளது.
+
+தேசிய பெருங்கடல் மற்றும் வளிமண்டல நிர்வாகத்தின் தரவுகளின்படி, 1 அடிக்கு மேல் அலை காணப்பட்டுள்ளது, விரைவில் அதிக அலைகள் எதிர்பார்க்கப்படுகின்றன.
+
+இந்த நகரம் வடக்கு கலிபோர்னியாவின் கடற்கரையின் 100 மைல் நீளத்தில் அமைந்துள்ளது, இது மிக உயர்ந்த எச்சரிக்கை மட்டமான சுனாமி எச்சரிக்கையின் கீழ் உள்ளது
+
+◼️
+
+[Data](articles/33238128.json)
+
+---
+
+### சூரிய ஒளி குறைப்பாட்டால் சிறுவர்கள் பாதிப்பு
+
+*2025-07-30 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221362) · `ta`
+
+உடலுக்கு தேவையான சூரிய ஒளி கிடைக்காமையினால் வைட்டமின் டி குறைபாடு சிறுவர்களிடையே கடும் உடல்நலப் பிரச்சினையாக காணப்படுகிறது. இது சுமார் 20 முதல் 30 ஆண்டுகளுக்கு முன்னர் பிரச்சினை ஒன்றாக சிறுவர்களிடையே இருந்ததில்லை என சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+உடலில் சூரிய ஒளிபடாமலே இருப்பதுதான் மிக முக்கியமான காரணம். இன்றைய சூழலில் சிறுவர்கள்  வெளியில் சென்று விளையாடுவதற்குப் பதிலாக, படிப்பு, டியூஷன், வீடியோ கேம்கள், தொலைக்காட்சி பார்ப்பது மற்றும் போன்களைப் பயன்படுத்துவதில் நேரத்தை செலவிடுகின்றார்கள்.
+
+போதிய விழிப்புணர்வு இல்லாததே இந்த நிலைக்குக் காரணம். மிதமான சூரிய ஒளியின் மூலம் தான் பெரும்பாலான மனிதர்களுக்கு வைட்டமின் டி சத்து கிடைக்கிறது என்பதைப் பற்றிய விழிப்புணர்வு மக்களிடம் இல்லை.
+
+மிகக் குறைவான உணவுகளே இயற்கையாக வைட்டமின் டிஐ கொண்டிருக்கின்றன. மேலும் அவை சிறுவர்கள் அல்லது பெரியவர்களின் வைட்டமின் டி தேவையைப் பூர்த்தி செய்ய போதுமானதாக இருப்பதில்லை.
+
+...
+
+[Data](articles/9d0d08aa.json)
+
+---
+
+### போலி பொலிஸ் பரிசோதகர் கைது
+
+*2025-07-30 14:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-பொலிஸ்-பரிசோதகர்-கைது/175-362046) · `ta`
+
+தலைமைப் பொலிஸ் பரிசோதகர் என்று கூறி, தங்கோவிட்ட பொலிஸ் போக்குவரத்துப் பிரிவின் பொறுப்பதிகாரியிடம் உதவி கோரியதாகக் கூறப்படும் ஒருவர் செவ்வாய்க்கிழமை (29) கைது செய்யப்பட்டதாக தங்கோவிட்ட பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸார் நடத்திய விசாரணையில், சந்தேக நபர் கொழும்பு-நகர வீதியில் கடமையில் ஈடுபட்டிருந்த பிரதேச போக்குவரத்து அதிகாரிகளிடம் தன்னை ஒரு பொலிஸ் பரிசோதகர் மற்றும் தலைமை பொலிஸ் பரிசோதகர் என்றும் அறிமுகப்படுத்திக் கொண்டதாக தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/b429ac0f.json)
+
+---
+
+### WhatsApp scams surge in Sri Lanka
+
+*2025-07-30 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111007/whatsapp-scams-surge-in-sri-lanka) · `en`
+
+A large number of complaints are currently being reported regarding fraudulent attempts to hack WhatsApp users’ accounts by sending fake calls and text messages in order to defraud them of money, the Criminal Investigation Department (CID) said.
+
+Investigations have revealed that the fraudsters deceive users into revealing their WhatsApp One-Time Password (OTP) numbers, which are then used to send fake messages.
+
+Accordingly, the police have urged the public to remain vigilant against this scam.
+
+They further emphasized that OTP numbers for online accounts should never be shared with anyone under any circumstances.
+
+◼️
+
+[Data](articles/c616ce74.json)
+
+---
+
+### ලලිත් - කුගන් සිද්ධියට සාක්ෂි දීමට ගෝඨා සූදානම්
+
+*2025-07-30 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212827) · `si`
+
+මානව හිමිකම් ක්‍රියාකාරීන් දෙදෙනෙකු වන ලලිත් වීරරාජ් සහ කුගන් මුර්ගානන්දන් සම්බන්ධයෙන් ඔවුන්ගේ ඥාතීන් විසින් යාපනය මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත්කර තිබෙන හබයාස් 'කෝපුස් නඩුකරයට' අදාළව සාක්ෂි ලබාදීමට තමන් සූදානම් බව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා නීතිඥවරු මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට අද (30) දැනුම් දුන්නේය.
+
+මෙම කරුණට අදාළ අභියාචනා පෙත්සමක් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී ගෝඨාභය රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මෙම දැනුම්දීම සිදුකළේය.
+
+කෙසේ වෙතත් පවතින ආරක්ෂක හේතූන් මත තම සේවා දායකයාට යාපනය අධිකරණය හමුවේ සාක්ෂි දීමට අපහසු බවත්, කොළඹ අධිකරණයක ඒ සඳහා සූදානම් බවත් නීතිඥවරයා මෙහිදී අධිකරණයට දැනුම් දුන්නේය.
+
+එහිදී ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල  ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතාට දැනුම් දී ඇත්තේ, මෙම ඉල්ලීම අද සිට සති හතරක් තුළ යාපනය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර සුදුසු නියෝග ලබාගැනීමට කටයුතු කරන ලෙසය.
+
+...
+
+[Data](articles/8f261196.json)
+
+---
 
 ### ආනයනය කළ වාහන රේගු භාරයේ රඳවා ගැනීම ගැන කෝප් කමිටුවේ අවධානය
 
@@ -45,6 +131,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2711b011.json)
+
+---
+
+### Russia Earthquake: 60-cm tsunami waves detected in Japan
+
+*2025-07-30 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111006/russia-earthquake-60-cm-tsunami-waves-detected-in-japan) · `en`
+
+Vast areas of Japan’s Pacific coast were hit by tsunami waves as high as 60 centimeters on Wednesday after a magnitude 8.8 earthquake struck off Russia’s Kamchatka Peninsula in the morning, with the weather agency keeping its evacuation warning in place.
+
+The warning, covering areas stretching from Hokkaido in northern Japan to Wakayama Prefecture in the west, disrupted rail, road and air transportation along the coast and led the operator of the crippled Fukushima Daiichi nuclear power plant to halt the release of treated radioactive wastewater into the Pacific Ocean.
+
+The Japan Meteorological Agency has warned of tsunami waves as high as 3 meters. The highest detected so far were the 60 cm-waves that arrived after 1 p.m. at the town of Hamanaka in Hokkaido, northern Japan, and Kuji Port in Iwate Prefecture.
+
+A 20-cm wave also reached Tokyo’s Harumi waterfront district, according to the agency.
+
+...
+
+[Data](articles/025905f8.json)
 
 ---
 
@@ -77,6 +181,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0c2275c0.json)
+
+---
+
+### 11 including underworld gang member arrested in Chilaw
+
+*2025-07-30 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111005/11-including-underworld-gang-member-arrested-in-chilaw) · `en`
+
+A total of 11 individuals including a member of an organized crime gang based in Colombo have been taken into custody during a raid conducted at a residence in Bangadeniya, Chilaw, police stated.
+
+According to police, the leader of the underworld gang fled the house during the operation.
+
+However, he was later apprehended by the Chilaw Police while traveling towards the Chilaw bus stand in a three-wheeler.
+
+The Chilaw Police is conducting further investigations into the matter.
+
+◼️
+
+[Data](articles/e73ea2d5.json)
 
 ---
 
@@ -135,6 +257,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/80df1517.json)
+
+---
+
+### Dr. Tamara Kalubowila assumes duties as Chairman of J’pura Hospital
+
+*2025-07-30 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111004/dr-tamara-kalubowila-assumes-duties-as-chairman-of-jpura-hospital) · `en`
+
+Dr. Tamara Kalubowila has been appointed as the new Chairman of the Sri Jayewardenepura General Hospital.
+
+The Minister of Health and Mass Media, Dr. Nalinda Jayatissa, officially handed over the letter of appointment to Dr. Kalubowila at the Ministry premises on July 29.
+
+Dr. Kalubowila completed his Advanced Level studies at Royal College, Colombo, and entered the medical profession in 1986 after obtaining his MBBS degree from the Faculty of Medicine, University of Colombo.
+
+He commenced his medical career at the Panadura Hospital and went on to serve in various capacities, including Medical Officer of Health (MOH), Regional Director of Health Services (RDHS), Medical Officer of Maternal and Child Health (MO/MCH), Epidemiological Medical Officer, and Medical Officer in Charge of Institutions. He later transitioned into medical administration as the Medical Superintendent of the Horana Hospital, according to a statement issued by the Ministry of Health and Mass Media.
+
+...
+
+[Data](articles/55230174.json)
 
 ---
 
@@ -1238,6 +1378,28 @@ Based on information received by the Acting Inspector General of Police regardin
 
 ### Three including toddler killed in separate road accidents
 
+*2025-07-30 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110988/three-including-toddler-killed-in-separate-road-accidents) · `en`
+
+Three individuals, including a one-and-a-half-year-old toddler have died due to multiple road accidents reported from across the country, police stated.
+
+These accidents took place yesterday (29) in Matale, Medawachchiya, and Katana.
+
+An accident was reported along the Matale-Rattota road in Mandandawela, when a three-wheeler overturned on the road after the driver lost control of the vehicle.
+
+Police stated in the accident, the mother of the driver and a toddler who were traveling in the back seat of the three-wheeler sustained injuries. They were admitted to the Matale Hospital, where the child later succumbed to injuries.
+
+Meanwhile, in Medawachchiya along the A9 road at the Weli Oya junction, a lorry collided with a motorcycle and another lorry, after the driver lost control of the vehicle.
+
+The motorcyclist sustained serious injuries and was first admitted to the Rambewa Hospital and then transferred to the Anuradhapura Hospital for further treatment, where he died.
+
+...
+
+[Data](articles/4da1b4ed.json)
+
+---
+
+### Three including toddler killed in separate road accidents
+
 *2025-07-30 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110988/three-including-toddler-killed-in-multiple-road-accidents) · `en`
 
 Three individuals, including a one-and-a-half-year-old toddler have died due to multiple road accidents reported from across the country, police stated.
@@ -1709,141 +1871,5 @@ Give 7-9 perch lands, value the land, provide one stop services to optimise use 
 ◼️
 
 [Data](articles/7aabc708.json)
-
----
-
-### Digital VAT, DST, retaliatory taxes and US laws
-
-*2025-07-30 05:05:23* · [`dailyftlk`](https://www.ft.lk/columns/Digital-VAT-DST-retaliatory-taxes-and-US-laws/4-779656) · `en`
-
-The United States has historically objected to Digital Services Taxes, revenue-based levies that target large multinational tech firms and bypass traditional tax treaties
-
-This article explores the legal and policy mechanisms the United States employs to counter foreign trade practices, with a particular emphasis on Digital Services Taxes (DSTs) and how they differ from Value Added Taxes (VAT). It also analyses the Trump administration’s strategic use of these tools—especially trade threats and Section 301 of the Trade Act of 1974 investigations to challenge DSTs, which are often seen as discriminatory toward US tech companies.
-
-...
-
-[Data](articles/266719e6.json)
-
----
-
-### Modernising Sri Lanka’s Armed Forces: Preparing  for future security challenges
-
-*2025-07-30 04:59:17* · [`dailyftlk`](https://www.ft.lk/opinion/Modernising-Sri-Lanka-s-Armed-Forces-Preparing-for-future-security-challenges/14-779655) · `en`
-
-The contours of future conflict are increasingly shaped by threats that challenge traditional military  classifications
-
-A nuanced synthesis of threat perception, demographic trends, geophysical constraints, strategic doctrine, and external alignments invariably shapes the architecture of any credible military force. As we face, rapid technological advancements, evolving geopolitical landscapes, and multifaceted array of conventional and asymmetric threats, the Pathfinder Foundation suggests that a clear and proactive military strategy is essential for addressing future security challenges.
-
-Such a strategy not only augments operational readiness but also enhances the flexibility of the Armed Forces to mitigate unforeseen contingencies that may compromise sovereignty or destabilise national cohesion. It also cultivates necessary linkage between civilian decision-makers and military leadership, helping to meet state security objectives and reinforce long-term resilience.
-
-...
-
-[Data](articles/f0425ff6.json)
-
----
-
-### “Commercial Mediation Bill”: Problem or solution?
-
-*2025-07-30 04:46:52* · [`dailyftlk`](https://www.ft.lk/opinion/Commercial-Mediation-Bill-Problem-or-solution/14-779649) · `en`
-
-Sri Lanka’s recently gazetted Mediation (Civil and Commercial Disputes) Bill, 2025 aims to institutionalise mediation and reduce court backlog. Some critics argue that it will not fully serve its intended purpose.
-
-This is an interview with President’s Counsel Harsha Fernando, who, in addition to litigation, has been practicing commercial negotiations and mediation, both locally and overseas, for over 20 years.
-
-Q: The Government has proposed a Commercial Mediation Bill. What are your initial thoughts on it?
-
-...
-
-[Data](articles/d571d2ce.json)
-
----
-
-### SLAEA hosts high-level forum on EU CSDDD: Strengthening sustainable trade through compliance and collaboration
-
-*2025-07-30 04:26:43* · [`dailyftlk`](https://www.ft.lk/business/SLAEA-hosts-high-level-forum-on-EU-CSDDD-Strengthening-sustainable-trade-through-compliance-and-collaboration/34-779638) · `en`
-
-The Sri Lanka Apparel Exporters Association (SLAEA) hosted a high-level industry forum on 9 July at the Jetwing Hotel in Colombo 7, bringing together a diverse group of stakeholders to explore the growing relevance of the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD). Designed to strengthen awareness and preparedness, the session focused on the far-reaching implications of the directive for Sri Lanka’s export economy — particularly in key sectors such as apparel, tea, and rubber.
-
-...
-
-[Data](articles/b1d8a0dd.json)
-
----
-
-### Daminda appointed Group MD at Swisstek
-
-*2025-07-30 04:24:02* · [`dailyftlk`](https://www.ft.lk/business/Daminda-appointed-Group-MD-at-Swisstek/34-779637) · `en`
-
-...
-
-[Data](articles/44a46e0b.json)
-
----
-
-### High-ranking Maldivian State officials meet with President
-
-*2025-07-30 04:21:43* · [`dailyftlk`](https://www.ft.lk/news/High-ranking-Maldivian-State-officials-meet-with-President/56-779636) · `en`
-
-The Deputy Speaker of the Maldivian Parliament and five Cabinet Ministers from the Maldivian Government visited the Kurumba Maldives resort yesterday to hold discussions with President Anura Kumara Disanayake.
-
-Those who met with the President included: Maldivian Parliament Deputy Speaker Ahmed Nazim, Foreign Affairs Minister Dr. Abdulla Khaleel, Economic Development and Trade Minister Mohamed Saeed, Defence Minister Mohamed Ghassan Maumoon, Finance and Planning; Minister Moosa Zameer, and Homeland Security and Technology Minister Ali Ihusaan.
-
-They expressed their gratitude to President Disanayake for his state visit to the Maldives. They conveyed their confidence that this visit, which marks the 60th anniversary of strong diplomatic relations between the two nations, will lay the foundation for deeper cooperation, broader understanding and an even stronger friendship in the future.
-
-...
-
-[Data](articles/08870cb5.json)
-
----
-
-### SL new High  Commissioner in India presents credentials
-
-*2025-07-30 04:20:14* · [`dailyftlk`](https://www.ft.lk/news/SL-new-High-Commissioner-in-India-presents-credentials/56-779635) · `en`
-
-Sri Lanka’s new High Commissioner in India Mahishini Colonne (left) yesterday presented credentials to Indian President Droupadi Murmu.
-
-◼️
-
-[Data](articles/2f541927.json)
-
----
-
-### Sectoral Committee reviews proposed education reforms to boost human capital
-
-*2025-07-30 04:19:18* · [`dailyftlk`](https://www.ft.lk/news/Sectoral-Committee-reviews-proposed-education-reforms-to-boost-human-capital/56-779634) · `en`
-
-Education Ministry and related institutions present reform steps and past efforts
-
-Committee Chair MP Hesha Withanage calls for expert consultation to review plan; pledges full support for proper implementation of reforms
-
-Reviews Samurdhi (Amendment) Bill and Samurdhi Bank operations; approves to present Samurdhi Bill for Second Reading in Parliament
-
-The proposed Education Reform Plan came under discussion at the Sectoral Oversight Committee on Education, Manpower and Human Capital during its recent meeting held on 25 July at Parliament, chaired by MP Hesha Withanage.
-
-Education, Higher Education and Vocational Training Ministry Secretary Nalaka Kaluwewa, representatives of the National Education Commission, National Institute of Education Director-General along with several other senior officials of the Education Ministry, participated in this meeting.
-
-...
-
-[Data](articles/ca0ad878.json)
-
----
-
-### Thisakutti Arachchi extends unconditional apology to President over defamatory remarks
-
-*2025-07-30 04:17:49* · [`dailyftlk`](https://www.ft.lk/news/Thisakutti-Arachchi-extends-unconditional-apology-to-President-over-defamatory-remarks/56-779633) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) former MP Thisakutti Arachchi yesterday tendered his unconditional apology over an alleged defamatory statement he had made referring to the National People’s Power (NPP) and President Anura Kumara Dissanayake in 2023.
-
-Disanayake had filed this lawsuit before the Colombo District Court claiming Rs. 10 billion as damages from Kuttiarachchi for allegedly making defamatory statements.
-
-During a public meeting held in Colombo on 19 August 2023, former MP Arachchi had allegedly made remarks against the NPP over its alleged investments in the island nation of Malta.
-
-Disanayake alleged that the defamatory and baseless allegations made against him by Arachchi had been telecast over television news on 19 August 2023, without verifying the truthfulness of the statements.
-
-When the matter was called before the Colombo District Court, the case was withdrawn by the plaintiff following the defendant’s unconditional apology.
-
-◼️
-
-[Data](articles/1c4ba7f9.json)
 
 ---

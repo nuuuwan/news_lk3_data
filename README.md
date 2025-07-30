@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 15:37:39**
+As of **2025-07-30 15:50:16**
 
 ## Newspaper Stats
 
-*Scraped **67,732** Articles*
+*Scraped **67,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,508
-adaderanalk | 8,361
-tamilmirrorlk | 9,818
+adaderanalk | 8,363
+tamilmirrorlk | 9,820
 virakesarilk | 11,279
 adaderanasinhalalk | 11,652
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,652
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,732 articles have been extended.
+61,973 (91.5%) of 67,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### ‘ரத்தரங்’ மகள் கைது
+
+*2025-07-30 15:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தரங்-மகள்-கைது/175-362052) · `ta`
+
+சந்தேகத்திற்கிடமான ஜீப் பாகங்களிலிருந்து இணைக்கப்பட்ட வாகனம்  சம்பவம் தொடர்பாக கைது செய்யத் தேடப்பட்ட பாராளுமன்ற உறுப்பினர் ரோஹித அபய குணவர்தனவின் மகள்,  பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவில் புதன்கிழமை (30 )ஒரு வழக்கறிஞர் மூலமாக சரணடைந்தார்.
+
+◼️
+
+[Data](articles/f3f6618a.json)
+
+---
+
+### ’Miss Teen Tourism’ போட்டியில் இலங்கைப் பெண்
+
+*2025-07-30 15:31:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Miss-Teen-Tourism-போட்டியில்-இலங்கைப்-பெண்/175-362051) · `ta`
+
+பிலிப்பைன்ஸில் நடைபெறவுள்ள “Miss Teen Tourism” போட்டியில் பங்குபற்றுவதற்காக இலங்கையைச் சேர்ந்த அஞ்சனா ஹீனடிகல, இன்று புதன்கிழமை (30)  பிலிப்பைன்ஸுக்கு புறப்பட்டு சென்றுள்ளார்.
+
+அஞ்சனா ஹீனடிகல, இலங்கையில் நடைபெற்ற 'Miss Teen Tourism' போட்டியில் முதலிடம் வென்றுள்ளதையடுத்து, அவர் பிலிப்பைன்ஸுக்கு புறப்பட்டு சென்றுள்ளார்
+
+கட்டுநாயக்க விமான நிலையத்திலிருந்து எயார் ஏசியா விமானம் AK-046 ஊடாக தாய்லாந்துக்கு சென்று இவர், அங்கிருந்து பிலிப்பைன்ஸுக்கு செல்லவுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+எதிர்வரும் ஆகஸ்ட் மாதம் 08ஆம் திகதி அன்று பிலிப்பைன்ஸில் உள்ள மணிலா நகரத்தில்  'Miss Teen Tourism' இறுதிச் சுற்று போட்டி நடைபெறவுள்ளதுடன், இந்த போட்டியில் உலகம் முழுவதிலும் உள்ள 40 நாடுகளில் இருந்து பல போட்டியாளர்கள் பங்குபற்றவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/84a16b65.json)
+
+---
 
 ### අළුතින් ආදේශක තැපැල් සහායකයින් 1000ක් ලියාපදිංචියට අනුමැතිය
 
@@ -67,6 +97,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f4bc87f5.json)
+
+---
+
+### Special insurance scheme introduced for fishing community
+
+*2025-07-30 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111012/special-insurance-scheme-introduced-for-fishing-community-) · `en`
+
+A special insurance scheme has been introduced by the Agricultural and Agrarian Insurance Board for the fishing community engaged in fishing activities in lagoon and inland waters as their livelihood.
+
+The insurance scheme provides coverage against loss of life or disability caused by sudden accidents that may occur due to adverse weather or climatic conditions, or while engaged in fishing activities, according to the Department of Government Information.
+
+It is also stated that benefits will be provided even if an accident occurs during a period when the individual is not actively involved in fishing activities.
+
+Under this scheme, a compensation of Rs. 1.2 million is offered in the event of sudden death, for an annual premium of Rs. 2,000.
+
+Additionally, compensation will be paid in cases of total or partial disability. Provisions have been made for swift compensation payments in the event of serious injuries as a result of an accident.
+
+◼️
+
+[Data](articles/5ecdd5cf.json)
 
 ---
 
@@ -129,6 +179,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9d0d08aa.json)
+
+---
+
+### Two earthquakes hit Tibet hours after powerful tremors jolt Russia
+
+*2025-07-30 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111011/two-earthquakes-hit-tibet-hours-after-powerful-tremors-jolt-russia) · `en`
+
+A second earthquake hit Tibet on Wednesday, registering a magnitude of 4.0, according to a statement from the National Center for Seismology (NCS). The NCS reported that the quake occurred at a shallow depth of 10 km, increasing the likelihood of aftershocks, reported ANI.
+
+“EQ of M: 4.0, On: 30/07/2025 11:31:02 IST, Lat: 28.32 N, Long: 87.65 E, Depth: 10 Km, Location: Tibet,” said NCS through a post on X.
+
+The region had already experienced an earthquake of 4.3 magnitude earlier in the day.
+
+Shallow earthquakes are more dangerous because their seismic waves have less distance to travel before reaching the surface, causing stronger shaking and more damage, reports ANI.
+
+Tibet and Nepal lie along a major geological fault line where the Indian tectonic plate constantly pushes against the Eurasian plate, which ultimately triggers frequent earthquakes in the region and makes the Tibetan plateau a seismically active region.
+
+...
+
+[Data](articles/8e6c8fed.json)
 
 ---
 
@@ -1805,83 +1875,5 @@ Israel has blocked food aid to Gaza for months, limited food distribution to a U
 ...
 
 [Data](articles/40759509.json)
-
----
-
-### උතුරට, උතුරුමැදට සහ නැගෙනහිරට තද වැසි
-
-*2025-07-30 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212805) · `si`
-
-ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇති වෙමින් පවතී.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති වේ.
-
-දකුණු පළාතේ විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇති විය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/69fff93e.json)
-
----
-
-### රුසියාවේ ප්‍රබල භූකම්පනයක්
-
-*2025-07-30 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212804) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ප්‍රබල භූකම්පන තත්ත්වයක් මතුව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-USGS ට අනුව, රුසියාවේ පෙට්‍රොපව්ලොව්ස්ක්-කම්චැට්ස්කි සිට සැතපුම් 85ක් පමණ දුරින් භූමිකම්පාව කිලෝමීටර් 19ක් ගැඹුරට සිදු විය.
-
-භූකම්පනයෙන් පසුව හවායි දූපත් සහ ඇලස්කාවේ ඇලූටියන් දූපත් වල කොටස් සඳහා සුනාමි සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමටද පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
-
-මීට අමතරව ජපානයේ වෙරළබඩ ප්‍රදේශ සඳහා ද සුනාමි අනතුරු ඇඟවීම් ක්‍රියාත්මක වන අතර, එරට කාලගුණ විද්‍යා ඒජන්සිය අනතුරු අඟවන්නේ මීටර 1ක් දක්වා රළ ඇති විය හැකි බවයි.
-
-භූමිකම්පාවේ අපිකේන්ද්‍රය පිහිටා ඇත්තේ රුසියාවේ ඈත පෙරදිග කම්චැට්කා අර්ධද්වීපයේ වෙරළට ඔබ්බෙන් වන අතර එය ජනාකීර්ණ නොවන රටේ දුරස්ථ කොටසකි.
-
-◼️
-
-[Data](articles/9090d17a.json)
-
----
-
-### First Kumbal Perahera of Kandy Esala Festival to take to the streets tonight
-
-*2025-07-30 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/110985/first-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
-
-The first Kumbal Perahera of the Kandy Esala Festival is scheduled to commence tonight (30) with the historic procession, one of the oldest and grandest festivals in Sri Lanka, parading the streets of Kandy.
-
-The Kumbal Perahera will commence from the Kandy Temple of the Tooth Relic at 7:05 p.m. and will travel along the Dalada Veediya, D.S.Senanayake Street, Pansala Road, Deva Veediya, Colombo Street, Yatinuwara Street, and will return to the Dalada Maligawa via the Raja Veediya.
-
-The Kumbal Perahera will continue for five consecutive days before the commencement of the Randoli Perahera, which is scheduled to take to the streets on August 4.
-
-The grand Randoli Perahera will take place on Poya Day, which falls on August 8.
-
-The traditional Diya-Kepuma Mangallaya (water-cutting ceremony) will take place on August 9 in the Mahaweli River waters in Getambe.
-
-A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Perahera festival, the most revered religious event in Sri Lanka.
-
-◼️
-
-[Data](articles/d86d69b7.json)
-
----
-
-### செம்மணியில் நேற்றும் 7 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-07-30 05:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்றும்-7-எலும்புக்கூடுகள்-அடையாளம்/175-362013) · `ta`
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 24ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது ஏழு மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டன. 3 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்து எடுக்கப்பட்டன.
-
-செம்மணி மனிதப் புதைகுழியில் இதுவரை 111 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ள நிலையில் இதுவரை 99 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/7b39c654.json)
 
 ---

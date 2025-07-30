@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 04:07:24**
+As of **2025-07-31 04:21:23**
 
 ## Newspaper Stats
 
-*Scraped **67,800** Articles*
+*Scraped **67,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,783
+dailyftlk | 4,785
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,832
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,800 articles have been extended.
+61,973 (91.4%) of 67,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Beyond visa waivers: Building Sri Lanka’s global tourism brand
+
+*2025-07-31 03:57:45* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-visa-waivers-Building-Sri-Lanka-s-global-tourism-brand/4-779698) · `en`
+
+The visa waiver initiative should not serve as a smokescreen for the continued absence of a coherent international marketing campaign. Despite repeated proclamations, no meaningful effort has materialised—even though the necessary funds have long been available.
+
+This failure to properly position Sri Lanka is doing real harm. It contributes to suppressed room rates across all categories of accommodation and deters foreign direct investment, which remains significantly lower than in competing regional markets due to weak margins. Ask any hotelier.
+
+...
+
+[Data](articles/274a312d.json)
+
+---
+
+### Letter of concern to Defence Secretary over arrest of former Navy Chief
+
+*2025-07-31 03:55:02* · [`dailyftlk`](https://www.ft.lk/opinion/Letter-of-concern-to-Defence-Secretary-over-arrest-of-former-Navy-Chief/14-779697) · `en`
+
+Civilian intelligence architect and legal-State strategist Jihan Hameed has written to the Defence Secretary expressing concern over the manner in which the former Navy Commander Nishantha Ulugetenne was arrested and remanded on Tuesday. In her letter Hameed alleges grave institutional failure in the civilian remanding of the former Navy Chief and urges clarification from the Defence Secretary. Following are excerpts.
+
+This letter is issued to formally raise alarm over the recent remanding through civilian custody of the former Commander of the Sri Lanka Navy — a constitutional-level military authority who once held direct command over one-third of Sri Lanka’s defence apparatus.
+
+The treatment of such a figure through standard criminal remand procedures, absent any assertion of military custody or command-level procedural safeguards, amounts to a direct institutional breakdown and violates the national doctrine of civil–military coordination.
+
+...
+
+[Data](articles/812ba85a.json)
+
+---
 
 ### Renewable with solar, the way forward
 
@@ -1817,47 +1847,5 @@ The Minister noted that around 2,350 people are killed while 6,000 sustain serio
 ◼️
 
 [Data](articles/e26bd2bb.json)
-
----
-
-### මාරක රිය අනතුරක් - දෙදෙනෙක් මරුට
-
-*2025-07-30 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212821) · `si`
-
-හතරලියද්ද -  රඔුක්කන මාර්ගයෙහි 12 කණුව ආසන්නයේදී සිදුවූ මාරක රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-හතරලියද්ද දෙසට ධාවනය වූ ලොරි රථයක් ත්‍රිරෝද රථයක ගැටීමෙන් ඊයේ (29) හවස මෙම අනතුර සිදුව ඇත.
-
-ලොරි රථයේ රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව පසුව යතුරුපැදියක හා කැබ් රථයක ගැටී ලොරිය මාර්ගයෙන් ඉවතට පැන අනතුරට ලක්ව තිබේ.
-
-අනතුරින් ලොරි රථයේ රියදුරු සහ රිය සහායක දෙදෙනාද, යතුරුපැදිකරුද, කැබ් රථයේ රියදුරු සහ රිය සහායකද තුවාල ලබා හතරලියද්ද රෝහලට ඇතුළත් කර තිබේ.
-
-පසුව වයස අවුරුදු 52 හා 63 වයස්වල පසුවූ ලොරි රථයේ රියදුරු සහ යතුරුපැදිකරු මියගොස් ඇත.
-
-ලොරි රථයේ රිය සහායක දෙදෙනා සහ කැබ් රථයේ රියදුරු වැඩිදුර ප්‍රතිකාර සඳහා මහනුවර රෝහලට ඇතුළත් කර තිබේ.
-
-මෘත ශරීර හතරලියද්ද රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මේ සම්බන්ධයෙන් හතරලියද්ද පොලීසිය වැඩිදුර විමර්ශනය සිදුකරයි.
-
-◼️
-
-[Data](articles/366fd551.json)
-
----
-
-### உலகின் மிகவும் அழகிய தீவுகள் பட்டியலில் இலங்கை முதலிடம்
-
-*2025-07-30 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221341) · `ta`
-
-சுற்றுலா பயண இணையத்தளமான பிக் 7 டிராவல் (Big 7 Travel) தொகுத்த "உலகின் 50 சிறந்த தீவுகள்" பட்டியலில் முதலிடத்தை இலங்கை பிடித்துள்ளது.
-
-பிரெஞ்சு பாலினீசியாவின் மூரியா, ஈக்வடாரில் உள்ள கலபகோஸ் தீவுகள் மற்றும் சீஷெல்ஸ் போன்ற பிரபலமான சொர்க்க தீவுகளை இலங்கை முந்திக் கொண்டுள்ளது.
-
-கலாசார பாரம்பரியம், மாறுபட்ட நிலப்பரப்புகள் மற்றும் அழகிய கடற்கரைகள் ஆகியவற்றை கொண்டமைந்துள்ளமையினால் இலங்கை தெரிவுசெய்யப்பட்டுள்ளது.
-
-மேலும்,  இலங்கையில் தனித்துவமான வனவிலங்குகள், பழங்கால கோயில்கள், பசுமையான தேயிலைத் தோட்டங்கள் மற்றும் துடிப்பான உள்ளூர் அனுபவங்கள் கிடைப்பதாக பாராட்டுதல்களை பெற்றுள்ளது என தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/77675de9.json)
 
 ---

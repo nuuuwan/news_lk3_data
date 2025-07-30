@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 17:18:05**
+As of **2025-07-30 17:31:15**
 
 ## Newspaper Stats
 
-*Scraped **67,755** Articles*
+*Scraped **67,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,512
 adaderanalk | 8,366
-tamilmirrorlk | 9,823
+tamilmirrorlk | 9,825
 virakesarilk | 11,282
-adaderanasinhalalk | 11,658
+adaderanasinhalalk | 11,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,755 articles have been extended.
+61,973 (91.5%) of 67,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### மாலைதீவிற்கு இலவச 90 நாள் On-Arrival சுற்றுலா விசா
+
+*2025-07-30 17:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலைதீவிற்கு-இலவச-90-நாள்-On-Arrival-சுற்றுலா-விசா/175-362060) · `ta`
+
+சுற்றுலா நோக்கங்களுக்காக மாலத்தீவுக்குச் செல்லும் இலங்கை குடிமக்களுக்கு 90 நாள் இலவச வருகை சுற்றுலா விசா வழங்கப்படும் என்று மாலைதீவு அரசு அறிவித்துள்ளது.
+
+ஜனாதிபதி அனுர குமார திசாநாயக்கவின் மாலைதீவுக்கான அரசுப் பயணத்துடன் இணைந்து இந்த அறிவிப்பு வெளியிடப்பட்டதாக ஜனாதிபதியின் ஊடகப் பிரிவு   தெரிவித்துள்ளது.
+
+இந்த விசா வசதி 2025 ஜூலை 29 ஆம் திகதி முதல் அமலுக்கு வரும், மேலும் விசாவைப் பெற, பயணிகள் செல்லுபடியாகும் கடவுச்சீட்டு மற்றும் மாலைதீவில் தங்கியிருக்கும் போது அவர்களின் செலவுகளை ஈடுகட்ட போதுமான நிதி ஆதாரத்தை வைத்திருக்க வேண்டும்.
+
+இந்த முயற்சி இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான விசா வசதி குறித்த இருதரப்பு ஒப்பந்தத்தின் விதிகளின் கீழ், மாலைதீவின் குடியேற்றச் சட்டங்கள் மற்றும் விதிமுறைகளின்படி வழங்கப்படுகிறது.
+
+இந்த நடவடிக்கை பரஸ்பர ஒத்துழைப்பை மேம்படுத்துவதற்கான அதன் வலுவான அர்ப்பணிப்பைக் காட்டுகிறது என்றும், இலங்கையுடனான அதன் உறவில் அது வைக்கும் முக்கியத்துவத்தை வலுப்படுத்துகிறது என்றும் மாலைதீவு அரசு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a7fddd82.json)
+
+---
+
+### ஆட்டையை போட்ட கொட்டகலை பெண்  மாட்டினார்
+
+*2025-07-30 17:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆட்டையை-போட்ட-கொட்டகலை-பெண்-மாட்டினார்/76-362059) · `ta`
+
+கொட்டகலையைச் சேர்ந்த 43 வயதுடைய அலுவலக ஊழியர் ஒருவர், 35 நீர் வடிகட்டிகள் மற்றும் 13 தொலைக்காட்சிகள் உள்ளிட்ட அலுவலகப் பொருட்களைத் திருடியதற்காக கைது செய்யப்பட்டுள்ளார்.
+
+இதன் மதிப்பு   7.03 மில்லியன் ரூபாகும் கொட்டகலை பகுதியைச் சேர்ந்த சந்தேக நபரான அந்த பெண், அலுவலகத்தில் பணிபுரிந்து வந்தவர், தற்போது விசாரணைக்கு முகங்கொடுத்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/890dc92d.json)
+
+---
+
+### ඉන්දියාවට එරෙහි අවසන් ටෙස්ට් තරගය එංගලන්ත නායකයාට අහිමි වෙයි
+
+*2025-07-30 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212841) · `si`
+
+ඉන්දියාවට එරෙහි 5වන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගය එංගලන්ත නායක බෙන් ස්ටොක්ස්ට අහිමි වී ඇත.
+
+ඔහුගේ උරහිසේ ආබාධය තවමත් සුව වී නොමැති හෙයින් මෙලෙස මෙම තරගය අහිමි වී තිබේ.
+
+ඒ අනුව බෙන් ස්ටොක්ස්ගෙන් පුරප්පාඩුවන එංගලන්ත නායකත්වයට ඔලී පෝප් පත්කර ඇත.
+
+ඒ අනුව පෙර තරගයට ක්‍රීඩාකළ වේගපන්දු යවන ක්‍රීඩක ජොෆ්රා ආචර්, බ්‍රයිඩන් කාර්ස් මෙන්ම ලියම් ඩේව්සන් වැනි ක්‍රීඩකයන් මෙම තරගයෙන් විවේක ගන්වා තිබේ.
+
+ඔවුන් වෙනුවට ජේකබ් බෙතෙල්, ගස් ඇට්කින්සන්, ජේමි ඕවර්ටන් සහ ජොෂ් ටොන්ග් කැඳවා ඇත.
+
+දෙරට අතර 5වන ටෙස්ට් තරගය හෙට (31) ඕවල් ක්‍රීඩාංගණයේ දී ආරම්භවීමට නියමිතය.
+
+◼️
+
+[Data](articles/bd587afc.json)
+
+---
 
 ### වත්මන් යුද හමුදාපතිවරයාට සේවා දිගුවක්
 
@@ -44,7 +100,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 යුද හමුදාපති ධුරයේ රාජකාරී භාර ගැනීමට ප්‍රථම ඔහු ශ්‍රී ලංකා යුද හමුදාවේ නියෝජ්‍ය මාණ්ඩලික ප්‍රධානී ධුරය හෙඹවීය.
 
-කොළඹ ශාන්ත බෙනඩික් විද්‍යාලයේ ආදී ශිෂ්‍යයෙකු වන ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා වර්ෂ 1989  ජනවාරී මස 20 වැනිදා කැඩෙඩ් නිලධාරියෙකු ලෙස යුද හමුදාවට එක්විය.
+කොළඹ ශාන්ත බෙනඩික් විද්‍යාලයේ ආදී ශිෂ්‍යයෙකු වන ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා වර්ෂ 1989  ජනවාරී මස 20 වැනිදා කැඩෙට් නිලධාරියෙකු ලෙස යුද හමුදාවට එක්විය.
 
 ◼️
 
@@ -140,9 +196,15 @@ According to the Maldivian authorities, this initiative is being offered in the 
 
 *2025-07-30 16:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லலித்-குகன்-விவகாரம்-சாட்சியமளிக்க-கோட்டா-தயார்/175-362054) · `ta`
 
-மனித உரிமை ஆர்வலர்களான லலித் மற்றும் குகன் காணாமல் போனது தொடர்பான ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக நீதவான் நீதிமன்றத்தில் சாட்சியமளிக்க முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ  தயாராக இருப்பதாக அவரது சட்டத்தரணி உயர்நீதிமன்றத்தில் புதன்கிழமை (20) தெரிவித்தார்.
+மனித உரிமை ஆர்வலர்களான லலித் மற்றும் குகன் காணாமல் போனது தொடர்பான ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக நீதவான் நீதிமன்றத்தில் சாட்சியமளிக்க முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்‌ஷ  தயாராக இருப்பதாக அவரது சட்டத்தரணி உயர்நீதிமன்றத்தில் புதன்கிழமை (20) அன்று தெரிவித்தார்.
 
-◼️
+ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக தாக்கல் செய்யப்பட்ட மேல்முறையீட்டு மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, முன்னாள் ஜனாதிபதி சார்பாக ஆஜரான ஜனாதிபதி வழக்கறிஞர் ரொமேஷ் டி சில்வா இதனை நீதிமன்றத்தின் கவனத்துக்கு  தெரிவித்தார்.
+
+இருப்பினும், பாதுகாப்பு காரணங்களுக்காக தனது கட்சிக்காரர் யாழ்ப்பாணத்திற்குப் பதிலாக கொழும்பில் உள்ள ஒரு நீதவான் நீதிமன்றத்தில் ஆஜராக அனுமதிக்கப்பட வேண்டும் என்று அவர் கோரினார்.
+
+மனுதாரர்கள் சார்பாக ஆஜரான வழக்கறிஞர் நுவான் போபேஜ், இந்தக் கோரிக்கைக்கு தங்களுக்கு எந்த ஆட்சேபனையும் இல்லை என்று நீதிமன்றத்திற்குத் தெரிவித்தார்.
+
+...
 
 [Data](articles/094250b7.json)
 
@@ -1757,55 +1819,5 @@ A bond maturing on 15.12.2032 was quoted at 10.40/50 percent. (Colombo/July30/20
 ◼️
 
 [Data](articles/8bea0984.json)
-
----
-
-### 14 TN fishermen held by Sri Lanka; CM seeks Indian government’s intervention
-
-*2025-07-30 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/110992/14-tn-fishermen-held-by-sri-lanka-cm-seeks-indian-governments-intervention) · `en`
-
-As many as 14 fishermen from Rameswaram and Pamban were arrested by the Sri Lankan authorities in two separate incidents on Tuesday for allegedly crossing the International Maritime Boundary Line (IMBL).
-
-Chief Minister of Tamil Nadu, M K Stalin wrote to Union external affairs Minister S Jaishankar, urging immediate diplomatic intervention to secure the release of the detained fishermen and their boats.
-
-In the first incident in the early hours of Tuesday, five fishermen aboard a mechanised boat were apprehended by the Sri Lankan navy near the Mannar region, and handed over to the authorities for further action. The arrested were identified as boat owner J Justin, 51, of Thangachimadam, S Denison, 39, and S Sekar, 55, from Pamban, and J Mobin, 24, and T Saimon, 55, from Rameswaram.
-
-...
-
-[Data](articles/71e7388d.json)
-
----
-
-### රුසියාවට දරුණු භූමිකම්පාවක්, ඇමෙරිකාවට හා ජපානයට සුනාමි අනතුරු අඟවයි
-
-*2025-07-30 09:19:49* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවට-දරුණු-භූමිකම්පාවක්--ඇමෙරිකාවට-හා-ජපානයට-සුනාමි-අනතුරු-අඟවයි/11-417601) · `si`
-
-රුසියාවට රික්ටර් මාපාංකයේ 8.7ක ප්‍රභලත්වයකින් යුත් භූමිකම්පාවක් ඇතිව තිබේ. මෙම භූමිකම්පාවත් සමග රුසියාව, ඇමෙරිකාව හා ජපනයේ ඇතැම් ප්‍ර දේශවලට සුනාමි අනතුරු ඇඟවීම් නිකුක් කරනු ලැබීය.
-
-ජපානයේ හොක්කායිඩෝ සිට කියුෂි දක්වා වෙරළ ප්‍ර දේශවලට මෙන්ම ඇමෙරිකාවේ බටහිර වෙරළ තීරය, ඇලස්කාවේ සමහර ප්‍ර දේශවලට, හවායි හා ගුආම්වලට සුනාමි අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
-
-රුසියාවේ Petropavlovsk-Kamchatsky, සිට සැතපුම් 78ක දුරකින් හා කිලෝමීටර් 18ක ගැඹුරකින් මෙම භූමිකම්පාව ඇතිව තිබේ. මෙම භූමිකම්පාව හේතුවෙන් කම්චට්කා ප්‍ර දේශයට මීටර් 3-4ක යුත් ීඋසකින් යුත් මුහුදු රළ ඇතිවිය. මේ හේතුවෙන් ජීවිත හානි සිදුව නැතත් දේපළ හානි සිදුව තිබේ.
-
-දශක ගණනාවකට පසුව රුසියාවට බලපෑ දරුණූ භූමිකම්පාවක් ලෙස මෙය සැලකේ.
-
-◼️
-
-[Data](articles/3daa8e4d.json)
-
----
-
-### Earthquake in Russia sets off tsunami alarms in Japan, US, Pacific Islands but no threat to Sri Lanka
-
-*2025-07-30 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/110991/earthquake-in-russia-sets-off-tsunami-alarms-in-japan-us-pacific-islands-but-no-threat-to-sri-lanka) · `en`
-
-With a tsunami hitting the coastal areas of Russia’s Kuril Islands and Japan’s large northern island of Hokkaido and warnings ringing across Pacific Islands and the US, local officials have ruled out any threat to Sri Lanka.
-
-The tsunami warnings came after an 8.8-magnitude earthquake struck Russia’s Far East early Wednesday. The Japan Meteorological Agency said a first tsunami wave of about 30 cm reached Nemuro on the eastern coast of Hokkaido. Damage and evacuations were reported in the Russian regions nearest the quake’s epicenter on the Kamchatka Peninsula.
-
-The first tsunami wave hit the coastal area of Severo-Kurilsk, the main settlement on Russia’s Kuril Islands in the Pacific, according to the local governor Valery Limarenko. He said residents were safe and staying on high ground until the threat of a repeat wave was gone.
-
-...
-
-[Data](articles/0304ed8a.json)
 
 ---

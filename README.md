@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 11:28:59**
+As of **2025-07-30 11:52:14**
 
 ## Newspaper Stats
 
-*Scraped **67,674** Articles*
+*Scraped **67,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,101 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-economynextcom | 4,129
+economynextcom | 4,134
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,501
-adaderanalk | 8,346
+adaderanalk | 8,351
 tamilmirrorlk | 9,805
 virakesarilk | 11,277
-adaderanasinhalalk | 11,637
+adaderanasinhalalk | 11,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.6%) of 67,674 articles have been extended.
+61,973 (91.6%) of 67,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### චීන අමෙරිකා තීරු බදු සඳහා යළි තාවකාලික එකඟතාවක්
+
+*2025-07-30 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212818) · `si`
+
+මතභේදයට තුඩු දී තිබෙන චීන-අමෙරිකා අන්‍යෝන්‍ය තීරු බදු සඳහා යළි තාවකාලික එකඟතාවකට පැමිණීමට දෙපාර්ශ්වය තීරණය කර තිබේ.
+
+ඒ පසුගිය දෙදින තුළ චීන-අමෙරිකා දෙපාර්ශ්වයේ නියෝජිතයින් අතර ස්වීඩනයේ පැවති සාකච්ඡාවලින් අනතුරුවයි.
+
+එහිදී එළඹුණු එකඟතාවන්ට අනුව දැනට තාවකාලිකව අත්හිටුවා තිබෙන ඇමරිකාවේ 24%ක අන්‍යෝන්‍ය තීරුබදු මෙන්ම චීනයේ ප්‍රතිචාරය ද තවත් දින 90ක් දක්වා දීර්ඝ කිරීමට දෙපාර්ශ්වය එකඟත්වය පළ කර තිබේ.
+
+චීන-අමෙරිකා ආර්ථික හා වෙළඳ කටයුතු සඳහා වන චීන පාර්ශ්වයේ ප්‍රධානී, උප අග්‍රාමාත්‍ය He Lifeng මහතා, අමෙරිකා පාර්ශ්වයේ ප්‍රධානී, භාණ්ඩාගාර ලේකම් Scott Bessent මහතා හා වෙළඳ නියෝජිත Jamieson Greer මහතාගේ ප්‍රධානත්වයෙන් මෙම සාකච්ඡා පැවැත්විණි.
+
+මෙහිදී චීන ඇමරිකා ආර්ථික හා වෙළඳ සබඳතාව, සාර්ව ප්‍රතිපත්ති ඇතුළු පොදු අවධානයට ලක්වන ගැටලු පිළිබඳව ද දෙපාර්ශ්වය අතර සාකච්ඡා පවත්වා ඇත.
+
+දෙරටේ නායකයන් පසුගිය ජූනි මස දී දුරකථන සංවාද ඔස්සේ ඇතිකර ගත් එකඟතාවන්ට අනුව දෙපාර්ශ්වය එකිනෙකාගේ අවශ්‍යතාවන්ට ගරු කරමින් කටයුතු කළ යුතු බව He Lifeng මහතා එහිදී අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/932a5340.json)
+
+---
+
+### Sri Lanka’s WindForce to offer 3-pct voting stock in employee share option scheme
+
+*2025-07-30 11:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-to-offer-3-pct-voting-stock-in-employee-share-option-scheme-233636/) · `en`
+
+ECONOMYNEXT – Sri Lanka renewable energy firm WindForce said it was planning to offer 40,523,068 ordinary voting shares in an employee share option scheme (ESOS).
+
+The ESOS will result in the issuance of ordinary voting shares not exceeding 3 percent of the pre-ESOS issued number of shares of the company, WindForce said in a stock exchange filing.
+
+The objective of the ESOS was to incentivize and retain key talent by offering eligible employees an opportunity to acquire equity in the company, it said.
+
+The company will grant options to management staff Level 1 and Level 2 employees to purchase ordinary voting shares in the company subject to limits, and terms and conditions.
+
+Incorporated in July 2010, WindForce was established to manage all facets of renewable energy development.
+
+“The Company remains committed to its growth trajectory, underpinned by strategic initiatives aimed at enhancing profitability and scaling operations,” WindForce said.
+
+...
+
+[Data](articles/f3785f66.json)
+
+---
+
+### PM Harini appointed Chairperson of Sri Lanka National Commission for UNESCO
+
+*2025-07-30 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110999/pm-harini-appointed-chairperson-of-sri-lanka-national-commission-for-unesco) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has been appointed as the Chairperson of the Sri Lanka National Commission for the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+
+The Secretary to the Ministry of Education Nalaka Kaluwawa has been named as the Vice Chairperson of the Commission, the Prime Minister’s Media Division said in a statement.
+
+Appointments to the Sri Lanka National Commission for UNESCO was held on Tuesday (July 29) at the Ministry of Education, Isurupaya, Battaramulla, with the participation of the Prime Minister Dr. Amarasuriya.
+
+The primary objective of establishing this commission is to facilitate collaboration among all relevant ministries in implementing UNESCO’s key focus areas of education, science, culture, mass communication, social sciences, and the environment in line with national development goals, according to the statement.
+
+...
+
+[Data](articles/9842a6a2.json)
+
+---
+
+### කුරුළු උයනේ හිමිකරුට ඇප
+
+*2025-07-30 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212817) · `si`
+
+කුරුළු උද්‍යාන ගබඩාවේ රුපියල් මිලියන 250ක් වටිනා අධි ධාරිතාවකින් යුත් යතුරුපැදි ගබඩා කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් එහි හිමිකරු ඇප මත මුදාහැර තිබේ.
+
+ඒ අනුව රුපියල් ලක්ෂ දෙක බැගින් වූ ශරීර ඇප දෙකක් මත මෙම පුද්ගලයා මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/792a9a4c.json)
+
+---
 
 ### 2 நாட்களில்  இருளில் மூழ்க போகும் பூமி
 
@@ -45,6 +121,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ee2d2163.json)
+
+---
+
+### Hambantota Bird Park owner granted bail
+
+*2025-07-30 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110998/hambantota-bird-park-owner-granted-bail) · `en`
+
+The owner of a bird park in Nagarawewa, Hambantota, where several luxury motorcycles imported illegally were found recently, has been released on bail.
+
+The order was issued by the Hambantota Magistrate’s Court today, said Ada Derana reporter.
+
+On July 25, the bird park owner and two other suspects were remanded until today (July 30) by the Hambantota Magistrate’s Court for allegedly concealing illegally imported motorcycles in a warehouse.
+
+The Bird Park owner was arrested on July 17 by a special police team based in Narahenpita, following a raid carried out earlier this month.
+
+On July 12, police officers attached to the Central Crimes Investigation Bureau (CCIB) took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
+
+The raid was carried out by a team of officers, including the Director of the CCIB, based on special information received by the Acting IGP.
+
+...
+
+[Data](articles/3aaaf23a.json)
 
 ---
 
@@ -73,6 +171,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d48b5d26.json)
+
+---
+
+### Japan issues evacuation advisory for 1.9 million people as waves hit near Tokyo
+
+*2025-07-30 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110997/japan-issues-evacuation-advisory-for-19-million-people-as-waves-hit-near-tokyo) · `en`
+
+More than 1.9 million people across Japan have been urged to move to safer ground, as tsunami waves hit various parts of the coast and transport is disrupted nationwide – though the waves remain much smaller than previously forecast.
+
+The Fire and Disaster Management Agency has issued localised evacuation orders affecting 1,905,596 people across 21 prefectures, the largest numbers of evacuees coming from Hokkaido, Kanagawa and Wakayama prefectures.
+
+The first waves hit Japan’s northernmost island of Hokkaido, where video shared by Reuters and the Nippon News Network showed people taking shelter on a roof. Tsunami sirens could be heard blaring through parts of the island on Wednesday morning.
+
+...
+
+[Data](articles/6370b476.json)
 
 ---
 
@@ -135,6 +249,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/dedc3dde.json)
+
+---
+
+### July allowance for elders to be credited to bank accounts today
+
+*2025-07-30 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110996/july-allowance-for-elders-to-be-credited-to-bank-accounts-today) · `en`
+
+The monthly allowance designated for elderly individuals aged over 70, enrolled in the welfare benefit program, will be credited to their respective bank accounts today (30), the Welfare Benefits Board has announced.
+
+This financial aid is provided to a total of 600,768 eligible individuals under the relief scheme while a total sum of Rs. 3,003,840,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
+
+◼️
+
+[Data](articles/99d50984.json)
+
+---
+
+### Tsunami warnings disrupt US West Coast and Hawaii travel, with flights diverted
+
+*2025-07-30 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110995/tsunami-warnings-disrupt-us-west-coast-and-hawaii-travel-with-flights-diverted) · `en`
+
+Travel disruptions are mounting along the US West Coast and in Hawaii amid tsunami warnings issued across the Pacific after a powerful 8.8 magnitude earthquake struck off Russia’s east coast.
+
+Flights to Honolulu are being disrupted, with diversions, delays and cancellations reported across affected airports, according to FlightRadar24.
+
+Flights from various airlines that departed from Los Angeles, Vancouver, San Francisco and San Diego that were bound for Hawaii were turned back to their destination airports late Tuesday, tracking data shows.
+
+Hawaiian and Alaska Airlines are holding departures to Hawaii, diverting some en route flights, and advising passengers to check flight statuses before heading to the airport.
+
+...
+
+[Data](articles/31f261da.json)
 
 ---
 
@@ -204,8 +350,6 @@ Here is the complete list of countries and islands where tsunami waves could str
 
 මෙම ලැයිස්තුව සකස් කර ඇත්තේ පෙර මාධ්‍ය ප්‍රතිඵල, Big 7 Travel කතුවැකි කණ්ඩායමේ දායකත්වය, සමාජ මාධ්‍යවල ලෝකයේ සංචාරක ගමනාන්තවල ජනප්‍රියත්වය සහ 2025 දී සංචාරකයන්ගේ අවධානය දිනා ගන්නා ගමනාන්ත මත පදනම් වූ සමුච්චිත ලකුණු අනුවයි.
 
-‘Big 7 Travel’ නිල වාර්තාවට අනුව ශ්‍රී ලංකාව හඳුන්වා දී ඇත්තේ පහත අයුරිනි.
-
 ◼️
 
 [Data](articles/2696973e.json)
@@ -271,6 +415,30 @@ Here is the complete list of countries and islands where tsunami waves could str
 ...
 
 [Data](articles/4fe1708f.json)
+
+---
+
+### Sri Lanka’s Seylan Bank net up 20-pct in June
+
+*2025-07-30 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-seylan-bank-net-up-20-pct-in-june-233638/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Seylan Bank grew 25 percent from a year ago to 2.76 billion rupees in the June 2025 quarter, amid lower provisions and a pick up in fee income interim accounts showed.
+
+Seylan Bank group reported earnings of 4.35 rupees per share for the quarter. In the six months to June Seylan reported earnings of 8.56 rupees on total profits of 5.44 billion rupees, which grew 19.9 percent.
+
+Seylan’s interest income fell 6 percent to 19.94 billion rupees, interest expenses also fell 10.6 percent to 10.679 billion rupees and net interest income fell 0.48 percent to 9.26 billion rupees.
+
+Provisions were down to 229 million rupees from 1.4 billion rupees last year.
+
+Loans and advances rose 6.7 percent in the six months to June 2025.
+
+Investments in debt instruments fell 5.48 percent to 128.7 billion rupees.
+
+Placements with banks and finance companies fell to 28.4 billion rupees from 50.1 billion rupees.
+
+...
+
+[Data](articles/3c2d6d34.json)
 
 ---
 
@@ -363,6 +531,26 @@ A powerful 8.8-magnitude earthquake struck off the coast of Russia early Wednesd
 ◼️
 
 [Data](articles/afd6bca3.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-07-30 09:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-233630/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.15/25 to the US dollar in the spot market Wednesday, stronger from 302.15/30 the previous day, while bond yields held broadly steady, dealers said.
+
+A bond maturing on 15.02.2028 was quoted at 8.75/85 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.45/55 percent.
+
+A bond maturing on 15.03.2031 was quoted at 10.07/15 percent, up from 10.05/15 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent. (Colombo/July30/2025)
+
+◼️
+
+[Data](articles/8bea0984.json)
 
 ---
 
@@ -530,15 +718,19 @@ The agency has issued an evacuation advisory to more than 900,000 people in 133 
 
 The daughter of Member of Parliament Rohitha Abeygunawardena has surrendered to the Walana Anti-Vice Unit, police stated.
 
-She has surrendered with her attorney in relation to investigations over the alleged possession of an illegally assembled vehicle.
+She has surrendered through her attorney in relation to investigations over the alleged possession of an illegally assembled vehicle.
 
 Her husband Dhanushka Weerakkody is currently in remand custody over the incident.
 
-Weerakkody is also linked to an incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
+Weerakkody is also linked to the incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
 
 Meanwhile, the son of Member of Parliament Jagath Vithana, who was earlier arrested by the Panadura Walana Anti-Vice Unit in connection with the same incident, was released on bail.
 
-◼️
+Rasika Vithana was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
+
+Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
+
+...
 
 [Data](articles/d6cede69.json)
 
@@ -555,6 +747,38 @@ These accidents took place yesterday (29) in Matale, Medawachchiya, and Katana.
 ◼️
 
 [Data](articles/e56d989d.json)
+
+---
+
+### Tsunami warning issued to Russia, Pacific islands, South America on 8.7M quake
+
+*2025-07-30 08:18:00* · [`economynextcom`](https://economynext.com/tsunami-warning-issued-to-russia-pacific-islands-south-america-on-8-7m-quake-233600/) · `en`
+
+ECONOMYNEXT – A tsunami warning has been issued for Russia, Pacific Islands and South American costs after an 8.7 magnitude earquake off the East Coast of Russia.
+
+Waves as high as 3 meters could hit some coasts, the warning from the Pacific Tsunami Warning Centre said.
+
+Above 3 metres – ECUADOR… NORTHWESTERN HAWAIIAN ISLANDS… AND RUSSIA.
+
+1 to 3 metres – CHILE… COSTA RICA… FRENCH POLYNESIA… HAWAII… JAPAN… JARVIS ISLAND… JOHNSTON ATOLL… KIRIBATI… MIDWAY ISLAND… PALMYRA ISLAND… PERU… SAMOA… AND SOLOMON   ISLANDS.
+
+Indian and Indonesian authorities said there was risk to the Indian Ocean.
+
+**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
+
+THIS MESSAGE IS ISSUED FOR INFORMATION ONLY IN SUPPORT OF THE
+
+MEANT FOR NATIONAL AUTHORITIES IN EACH COUNTRY OF THAT SYSTEM.
+
+ALERT FOR EACH COUNTRY AND MAY ISSUE ADDITIONAL OR MORE REFINED
+
+**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
+
+* AN EARTHQUAKE WITH A PRELIMINARY MAGNITUDE OF 8.7 OCCURRED
+
+...
+
+[Data](articles/420351b5.json)
 
 ---
 
@@ -719,6 +943,24 @@ Last week France also announced it would officially recognise a Palestinian stat
 ◼️
 
 [Data](articles/2db134cf.json)
+
+---
+
+### UK to conditionally recognize Palestine as Israel turns Gaza into genocide camp
+
+*2025-07-30 06:13:00* · [`economynextcom`](https://economynext.com/uk-to-conditionally-recognize-palestine-as-israel-turns-gaza-into-genocide-camp-233565/) · `en`
+
+ECONOMYNEXT – UK Prime Minister Prime Minister Keir Starmer said Britain will recognize Palestine by September unless Israel agrees to a ceasefire and stop starving Gaza civilians which has been termed as genocide.
+
+French President Emmanuelle Macron said earlier in the week that France would unconditionally recognize Palestine in the September UN General Assembly.
+
+“I can confirm the UK will recognise the state of Palestine by the United Nations General Assembly in September unless the Israeli government takes substantive steps to end the appalling situation in Gaza, agree to a ceasefire and commit to a long-term, sustainable peace, reviving the prospect of a Two State Solution,” Starmer said.
+
+Israel has blocked food aid to Gaza for months, limited food distribution to a US-Israeli outfit and repeatedly shot people coming to take food and systematically destroyed the heath system of the area to increase deaths.
+
+...
+
+[Data](articles/40759509.json)
 
 ---
 
@@ -1557,209 +1799,5 @@ IDEF 2025 என்ற இந்த கண்காட்சி, 2025 ஜூல�
 ...
 
 [Data](articles/b55968b1.json)
-
----
-
-### Shooter in New York skyscraper left note blaming NFL for brain injury, mayor says
-
-*2025-07-29 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110979/shooter-in-new-york-skyscraper-left-note-blaming-nfl-for-brain-injury-mayor-says) · `en`
-
-The man who killed four people in a rampage with a rifle through a Midtown Manhattan office building was carrying a note that appeared to blame the National Football League for his degenerative brain disease, New York Mayor Eric Adams said on Tuesday.
-
-Police have identified the shooter as Shane Tamura, a 27-year-old Las Vegas resident with a history of mental illness struggles, who ended the Monday evening massacre by shooting himself in the chest on the 33rd floor of a Park Avenue office tower.
-
-The NFL has its headquarters in the skyscraper, but Tamura apparently entered the wrong elevator bank and ended up in the offices of Rudin Management, a real estate company, where he shot employees, the mayor said.
-
-“The note alluded to that he felt he had CTE, a known brain injury for those who participate in contact sports,” Adams told CBS News. “He appeared to have blamed the NFL for his injury.”
-
-...
-
-[Data](articles/7e627542.json)
-
----
-
-### අභියෝග හමුවේ සියදිවි නසාගැනීම විසඳුමක් නොවේ
-
-*2025-07-29 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212799) · `si`
-
-එහි ඛේදවාචකය නම් තමා දිවි නසාගන්නවා සේම තවත් අයෙකුගේ ජීවත්වීමේ අයිතියට ද හානි පැමිණවීමය.
-
-"ගොඩක් වෙලාට කීහිප වතාවක් හිතනවා, සැලසුම් කරනවා, ඊට පස්සේ තමයි උත්සහා කිරීම් සහ කෙරවල අවසානයක් දකින්නේ.  අපි ඕනේ කෙනෙක්ට ජීවිතේ සමහර වෙලාවදී හිතෙන්න පුළුවන් දැන් ඇති, දැන් බෑ කියලා, හැබැයි ඔබට දිගින් දිගට එහෙම හිතෙනවානම් ඔන්න ඔබට උදව් අවශ්‍යයි. අපේ මාසික සෞඛ්‍ය උපකාරක සේවය 1926 පැය 24 පුරා  ක්‍රියාත්මකයි. අමතන්න සැනින් ඔබට අවශ්‍ය යොමුකිරීම අපි කරනවා. කෙනෙක් හිතනවානම් තමන් උදව් ගන්න යන එක දුර්වල කමක් කියලා කිසිසේත්ම නැත. මැරෙන්න හිතෙනවානම් ඔන්න ඔබට උදව් ගන්න මේක තමයි හොඳම අවස්ථාව කල් දාන්න එපා දැන්මම  අමතන්න 1926 අපි ඔබට උදව්වෙන්නම් ප්‍රතිකාර වගේම උපදේශන සම්බන්ධයෙන් අපිට ඔබට සහාය වෙන්න පුළුවන්."
-
-◼️
-
-[Data](articles/831378ca.json)
-
----
-
-### மாலைதீவின் அரச பிரதானிகள் ஜனாதிபதியை சந்தித்தனர்
-
-*2025-07-29 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/221314) · `ta`
-
-மாலைதீவின் பிரதி சபாநாயகர் மற்றும் அரசாங்கத்தின் ஐந்து அமைச்சரவை அமைச்சர்கள் செவ்வாய்க்கிழமை (29) ‘குரும்பா மோல்டீவ்ஸ்’  விடுதியில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவைச் சந்தித்து கலந்துரையாடினர்.
-
-அதன்படி, மாலைதீவு பிரதி சபாநாயகர் அகமத் நஸீம் (Ahmed Nazim), வெளியுறவு அமைச்சர் கலாநிதி அப்துல்லா கலீல் (Dr. Abdulla Khaleel) பொருளாதார அபிவிருத்தி மற்றும் வர்த்தக அமைச்சர் மொஹமட் சயீத் (Mohamed Saeed), பாதுகாப்பு அமைச்சர் மொஹமட்  கசான் மௌமூன் (Mohamed Ghassan Maumoon), நிதி மற்றும் திட்டமிடல் அமைச்சர் மூசா சமீர் (Moosa Zameer), உள்நாட்டுப் பாதுகாப்பு மற்றும் தொழில்நுட்ப அமைச்சர் அலி இஹுசான்(Ali Ihusaan) ஆகியோர் ஜனாதிபதியை சந்தித்து கலந்துரையாடினர்.
-
-மாலைதீவுக்கு அரச விஜயம் மேற்கொண்டதற்காக  ஜனாதிபதிக்கு நன்றி தெரிவித்த அவர்கள், இரு நாடுகளுக்கும் இடையே இராஜதந்திர உறவுகள் நிறுவப்பட்டதன் 60 ஆவது ஆண்டு நிறைவைக் குறிக்கும் இந்தப் பயணம், எதிர்காலத்தில் ஆழமான ஒத்துழைப்பு, பரந்த புரிதல் மற்றும் சிறந்த நட்புக்கான அடித்தளமாக அமையும் என்று நம்பிக்கை தெரிவித்தனர்.
-
-...
-
-[Data](articles/bd565828.json)
-
----
-
-### இனிய பாரதியின் இன்னும் ஒரு சகாவான் சபாபதி மட்டு கிரான் வைத்து சிஜடி யினரால் கைது இதுவரை இனிய பாரதியின் சகாக்கள் 4 பேர் கைது
-
-*2025-07-29 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/221313) · `ta`
-
-இனியபாரதியின் இன்னுமொரு சகாவான வெலிகந்தை தீவுச்சேனையைச் சேர்ந்த பாலகிருஷ்ணன் சபாபதி என்பவரை மட்டக்களப்பு கிரானில் வைத்து  செவ்வாய்க்கிழமை (29) மாலை 4.00 மணியளவில் கொழும்பிலிருந்து சென்ற குற்ற விசாரணைப் பிரிவு சிஜடி யினர் கைது செய்துள்ளனர்.
-
-ரி.எம.வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேசசபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக சந்தேகத்தின் அடிப்படையில் கடந்த 6ம் திகதி திருக்கோவில் மற்றும் மட்டு சந்திவெளி பகுதிகளில் வைத்து சிஜடியினர் கைது செய்தனர்.
-
-...
-
-[Data](articles/7d859403.json)
-
----
-
-### யாழில். ரிக்ரொக் காதலனுக்காக நகைகளை திருடிய யுவதி, காதலன், யுவதியின் நண்பி ஆகிய மூவரும் விளக்கமறியலில்
-
-*2025-07-29 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221312) · `ta`
-
-யாழ்ப்பாணத்தை சேர்ந்த ரிக் ரொக் பிரபலங்களில் ஒருவரான இளைஞன், அந்த இளைஞனுக்கு மோட்டார் சைக்கிள் வாங்கி கொடுக்க,  நகைகளை களவாடிய யுவதி, யுவதிக்கு உடந்தையாக செயற்பட்ட யுவதியின் நண்பி ஆகிய மூவரையும் எதிர்வரும் 06ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு சாவகச்சேரி நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
-
-யாழ்ப்பாணத்தை சேர்ந்த இளைஞன் ஒருவர் ரிக் ரொக் சமூக வலைத்தளங்களில் தனது காணொளிகளை பதிவேற்றி பிரபலமானவராக தன்னை காட்டிக்கொண்டு வந்துள்ளார்.
-
-குறித்த இளைஞனுடன் ரிக் ரொக் மூலம் அறிமுகமான சாவகச்சேரி பகுதியை சேர்ந்த யுவதி , அவரை காதலித்து வந்துள்ளார்.
-
-அந்நிலையில் தனது காதலனுக்கு , அதிநவீன மோட்டார் சைக்கிள் ஒன்றினை கொள்வனவு செய்வதற்காகவும் , காதலன் சொகுசு வாழ்க்கை வாழ்வதற்காவும் , தனது வீட்டில் இருந்து சுமார் 19 பவுண் நகையை களவெடுத்து , அதனை காதலனிடம் கொடுத்துள்ளார்.
-
-...
-
-[Data](articles/375c2fab.json)
-
----
-
-### මාලදිවයින් රාජ්‍ය ප්‍රධානීහු ජනපති හමු වෙති
-
-*2025-07-29 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212798) · `si`
-
-මාලදිවයින් නියෝජ්‍ය කථානායකවරයා සහ රජයේ කැබිනට් අමාත්‍යවරු පස් දෙනෙක් අද (29) ‘කුරුම්බා මෝල්ඩිව්ස්’ නිවාඩු නිකේතනයට පැමිණ ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වී සාකච්ඡා පැවැත්වූහ.
-
-ඒ අනුව, මාලදිවයින් නියෝජ්‍ය කථානායක අහමද් නසීම්, එහි විදේශ කටයුතු අමාත්‍ය ආචාර්ය අබ්දුල්ලා ඛලීල්, ආර්ථික සංවර්ධන සහ වෙළෙඳ අමාත්‍ය මොහමද් සයීඩ්, ආරක්ෂක අමාත්‍ය මොහමද් ගසාන් මව්මූන්,  මුදල් සහ ක්‍රමසම්පාදන අමාත්‍ය මූසා සමීර් සහ ස්වදේශ ආරක්ෂක සහ තාක්ෂණ අමාත්‍ය අලි ඉහුසාන් යන මහත්වරු ජනාධිපතිවරයා හමු වී සාකච්ඡා පැවැත්වූහ.
-
-මාලදිවයිනේ රාජ්‍ය සංචාරයක නිරත වීම පිළිබඳ ජනාධිපතිවරයා වෙත ස්තූතිය පළ කළ ඔවුහු දෙරට අතර ශක්තිමත් රාජ්‍යතාන්ත්‍රික සබඳතා ඇරඹීමේ 60 වන සංවත්සරය සනිටුහන් කරමින් සිදුකළ මෙම සංචාරය අනාගතයේදී වඩාත් ගැඹුරු සහයෝගීතාවක්, පුළුල් අවබෝධයක් මෙන්ම වඩා යහපත් මිත්‍රත්වයක් සඳහා පදනම වනු ඇති බවට විශ්වාසය පළ කළහ.
-
-මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු රජයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක්ද සහභාගි වූහ.
-
-◼️
-
-[Data](articles/56e3da6e.json)
-
----
-
-### போலியான குற்றச்சாட்டுக்களை முன்வைப்பதை எதிர்க்கட்சியினர் தவிர்த்துக் கொள்ள வேண்டும் - சுனில் வட்டகல
-
-*2025-07-29 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221311) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க மோல்டாவா நாட்டில் 5 பில்லியன் டொலர் நிதி முதலீடு செய்ததாக குறிப்பிட்ட விடயம் முற்றிலும் பொய்யானது என பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியராட்சி நீதவான் முன்னிலையில் குறிப்பிட்டு,  அடிப்படையற்ற வகையில் பொய்யுரைத்ததற்கு கவலை தெரிவித்துள்ளார். அரசாங்கத்தின் மீது போலியான குற்றச்சாட்டுக்களை முன்வைப்பதை எதிர்க்கட்சியினர் தவிர்த்துக் கொள்ள வேண்டும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
-
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியராட்சிக்கு எதிராக ஜனாதிபதி அநுரகுமார திஸாநாயக்க தாக்கல் செய்த அவதூறு வழக்கு செவ்வாய்க்கிழமை (29) கொழும்பு நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டதைத் தொடர்ந்து ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/2fec0a6c.json)
-
----
-
-### உலகின் மிகச் சிறந்த தீவுகள் பட்டியலில் இலங்கை முதலிடம்
-
-*2025-07-29 19:42:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகச்-சிறந்த-தீவுகள்-பட்டியலில்-இலங்கை-முதலிடம்/175-361996) · `ta`
-
-உலகளாவிய பயண தளமான பிக் 7 டிராவல் தொகுத்த "உலகின் 50 சிறந்த தீவுகள்" பட்டியலில் இலங்கை முதலிடத்தைப் பிடித்து, உலகின் மிக அழகான தீவாக முடிசூட்டப்பட்டுள்ளது.
-
-2025 ஆம் ஆண்டுக்கான பட்டியல் உலகின் மிகவும் அழகிய தீவுகளைக் கொண்டாடுகிறது, பிரெஞ்சு பாலினேசியாவின் மோரியா, ஈக்வடாரில் உள்ள கலபகோஸ் தீவுகள் மற்றும் சீஷெல்ஸ் போன்ற பிரபலமான தீவு சொர்க்கங்களை , இலங்கை முந்திக் கொண்டுள்ளது.
-
-பிக் 7 டிராவல் இன் படி, இலங்கை அதன் வளமான கலாச்சார பாரம்பரியம், மாறுபட்ட நிலப்பரப்புகள் மற்றும் அழகிய கடற்கரைகள் ஆகியவற்றின் கலவைக்காகத் தேர்ந்தெடுக்கப்பட்டது.
-
-தீவு தேசத்தின் தனித்துவமான வனவிலங்குகள், பழங்கால கோயில்கள், பசுமையான தேயிலைத் தோட்டங்கள் மற்றும் துடிப்பான உள்ளூர் அனுபவங்களுக்காகவும் இந்தப் பட்டியல் இலங்கையை எடுத்துக்காட்டியது.
-
-◼️
-
-[Data](articles/112e8226.json)
-
----
-
-### காணாமல் போன மீனவர்களின் வீடுகளுக்குச் சென்ற சஜித்
-
-*2025-07-29 19:42:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-மீனவர்களின்-வீடுகளுக்குச்-சென்ற-சஜித்/175-361995) · `ta`
-
-சிலாபம் பகுதியில் அமைந்து காணப்படும் வெல்ல கொலனி பகுதியை சேர்ந்த இரு மீனவர்கள் கடந்த பத்து நாட்களுக்கு முன்பதாக விபத்தில் சிக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-கடலுக்குச் சென்ற 3 மீன்பிடி இயந்திர படகுகளில் ஒரு படகு பலத்த காற்று மற்றும் புயல் காரணமாக காணாமல் போயுள்ளதுடன், அதில் பயணித்த இரு மீனவர்களும் காணாமல் போயுள்ளனர்.
-
-இது தொடர்பாக அரசாங்க அதிகாரிகளுக்கு பல முறை தகவல் தெரிவித்தும், எந்த நடவடிக்கையும் எடுக்கப்பட்டிருக்கவில்லை.
-
-பத்து நாட்களுக்குப் பிறகும், கிராம மக்களினது தேடுதல் முயற்சியால் காணாமல் போன ஒருவரது சடலம் கண்டுபிடிக்கப்பட்டது. ஆனால் அடுத்த மீனவரின் சடலம் இன்னும் கண்டுபிடிக்கப்படவில்லை.
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று (28) சிலாபம் பகுதிக்கு விஜயம் செய்த தருணம் குறித்த விடயமறிந்து, காணாமல் போன மீனவர்களின் வீடுகளுக்குச் சென்று குடும்பத்தினரைச் சந்தித்து விடயங்களை நேரில் கேட்டறிந்தார்.
-
-...
-
-[Data](articles/9f77147f.json)
-
----
-
-### යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ ගැන හෙරිටේජ් එලායන්ස් ලංකා සංවිධානයෙන් ඉල්ලීමක්
-
-*2025-07-29 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212797) · `si`
-
-යෝජිත 2026 පාසල් විෂය මාලා ප්‍රතිසංස්කරණය සම්බන්ධයෙන් විනිවිද භාවයෙන් යුත් ප්‍රවේශයක් සහ අර්ථවත් මහජන සංවාදයක් ලබාදෙන ලෙස හෙරිටේජ් එලායන්ස් ලංකා සංවිධානය ආණ්ඩුවෙන් ඉල්ලීමක් සිදුකර තිබේ.
-
-නිවේනදයක් නිකුත් කරමින් හෙරිටේජ් එලායන්ස් ලංකා සංවිධානය ඒ බව සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/fc8bd4f7.json)
-
----
-
-### Warrant issued for Namal’s arrest recalled
-
-*2025-07-29 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110978/warrant-issued-for-namals-arrest-recalled) · `en`
-
-The Hambantota Magistrate’s Court today (29) recalled the arrest warrant issued against SLPP Member of Parliament Namal Rajapaksa and granted him anticipatory bail.
-
-This order was issued after MP Rajapaksa appeared before the Hambantota Magistrate’s Court through a motion, following his return to the country this morning (July 29) upon concluding his visit to the Maldives.
-
-A case has been filed against MP Namal Rajapaksa and several others for allegedly disregarding court orders during a 2017 protest against the transfer of the Hambantota Port to foreign companies.
-
-The Hambantota Magistrate’s Court had issued the arrest warrant and ordered that the MP be produced in court due to his failure to appear when the case was taken up on July 28.
-
-Under these circumstances, MP Namal Rajapaksa, who had been overseas at the time, returned to the country today and appeared in court through a motion.
-
-◼️
-
-[Data](articles/381bfbe3.json)
-
----
-
-### යටිනුවර ප්‍රා.ස. මන්ත්‍රී, බිරිඳ සහ දියණියගේ මරණ ගැන තොරතුරු රැසක්
-
-*2025-07-29 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212796) · `si`
-
-යටිනුවර ප්‍රාදේශීය සභාවේ විපක්ෂ නායක ලෙස කටයුතු කළ සමගි ජන බලවේගය පක්ෂයේ මන්ත්‍රීවරයෙකු, ඔහුගේ බිරිඳ සහ වැඩිමහල් දියණිය නිවස තුළ මියයෑම සම්බන්ධයෙන් පොලිසිය විමර්ශන ආරම්භ කර තිබේ.
-
-පොලීසිය සිදුකළ මුලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මියගිය මන්ත්‍රීවරයා විසින් තවත් පුද්ගලයෙකු  සමග සිදුකළ මුල්‍ය ගනුදෙනුවක් මෙම සියදිවි හානිකර ගැනීමට හේතුවී ඇති බවය.
-
-පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව යටිනුවර, යහලතැන්න ප්‍රදේශයේ පිහිටි අදාළ මන්ත්‍රීවරයාගේ දෙමහල් නිවස තුළ තිබී අද උදෑසන මෙම මළසිරුරු සොයාගෙන තිබිණි.
-
-මන්ත්‍රීවරයා නිවසේ පිටුපස පිහිටි තාවකාලිකව ඉදිකර ඇති ස්ථානයක ගෙලවැලලාගෙන සියදිවි හානිකර ගෙන සිටි අතර ඔහුගේ බිරිඳ සහ දියණියගේ මළ සිරුරු නිවසේ ඉහළ සහ පහළ මහලේ කාමර දෙකක් තුළ තිබී පොලීසිය විසින් සොයාගෙන ගත්තේය.
-
-කෙසේවෙතත් බිරිඳ සහ දියණියගේ මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පොලීසිය සැකකරනු ලබන්නේ බිරිඳට සහ දියණියට නින්දයාම සදහා පසුදින රාත්‍රියේ යම් පෙතිවර්ගයක් ලබා දීමෙන් අනතුරුව අදාළ මන්ත්‍රීවරයා විසින් ඔවුන්ගේ ගෙල සිරකර ඝාතනය කරන්නට ඇති බවය.
-
-...
-
-[Data](articles/7cb76095.json)
 
 ---

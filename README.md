@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 05:06:19**
+As of **2025-07-31 05:18:46**
 
 ## Newspaper Stats
 
-*Scraped **67,807** Articles*
+*Scraped **67,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,788
+dailyftlk | 4,794
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,834
@@ -26,11 +26,113 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,807 articles have been extended.
+61,973 (91.4%) of 67,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### PM Dr. Harini appointed Chairperson of  Sri Lanka National Commission for UNESCO
+
+*2025-07-31 05:03:00* · [`dailyftlk`](https://www.ft.lk/news/PM-Dr-Harini-appointed-Chairperson-of-Sri-Lanka-National-Commission-for-UNESCO/56-779716) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has been appointed as the Chairperson of the Sri Lanka National Commission for the United Nations Educational, Scientific and Cultural Organisation (UNESCO), the Prime Minister’s Media Division announced.
+
+Education Ministry Secretary Nalaka Kaluwewa has been named Vice Chairperson of the Commission.
+
+The appointments were formalised during a ceremony held on Tuesday (29) at the Education Ministry in Isurupaya, Battaramulla, with Dr. Amarasuriya in attendance.
+
+According to the statement, the National Commission is tasked with coordinating efforts across key ministries to support UNESCO’s core mandates including education, science, culture, mass communication, social sciences, and environmental initiatives   in alignment with Sri Lanka’s national development goals.
+
+n Subject matter experts: Dr. Asha de Vos, Chandra Wickramasinghe, Dr. V.V. Madawattegedara, and Saminathan Vimal.
+
+...
+
+[Data](articles/729a4ada.json)
+
+---
+
+### Sarvajana Balaya expresses solidarity with Palestine
+
+*2025-07-31 05:00:53* · [`dailyftlk`](https://www.ft.lk/news/Sarvajana-Balaya-expresses-solidarity-with-Palestine/56-779715) · `en`
+
+From left: A.W.S. Ameen, Rajitha Hapuarachchi, Dr. Channa Jayasumana, Sarvajana Balaya Leader MP Dilith Jayaweera, Palestinian Ambassador Ihab Khalil, Palestinian Deputy Ambassador Hisham Abu Taha, and Hassan Aladeen
+
+The leadership of the Sarvajana Balaya political alliance held a meeting with Palestinian Ambassador Ihab Khalil on Tuesday (29).
+
+This meeting was held to express the deep and unwavering solidarity of the Sri Lankan people with the innocent civilians of Palestine, who continue to endure immense suffering amid a prolonged and inhumane conflict.
+
+...
+
+[Data](articles/c4d830b7.json)
+
+---
+
+### EFL welcomes Govt.’s latest move on Wedithalathive Nature Reserve
+
+*2025-07-31 05:00:22* · [`dailyftlk`](https://www.ft.lk/news/EFL-welcomes-Govt-s-latest-move-on-Wedithalathive-Nature-Reserve/56-779714) · `en`
+
+The Environmental Foundation (Guarantee) Ltd., (EFL) has welcomed the decision by the Cabinet of Ministers to retain the original status quo of the Wedithalathive Nature Reserve.
+
+“This decision is a significant victory for the environment and a reaffirmation of the critical importance of preserving Sri Lanka’s protected areas. However, we remain vigilant, as similar threats may arise in the future. The EFL will continue to advocate for the protection of our nation’s natural heritage and stand against any attempts to undermine it,” the EFL said in a statement.
+
+...
+
+[Data](articles/83b6ca68.json)
+
+---
+
+### Committee on High Posts approves five new Ambassadors, High Commissioner and Ministry Secretary
+
+*2025-07-31 04:59:44* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-five-new-Ambassadors-High-Commissioner-and-Ministry-Secretary/56-779713) · `en`
+
+The Parliamentary Committee on High Posts recently approved the appointments of five new Ambassadors, a High Commissioner and a Ministry Secretary.
+
+Accordingly, Sumadhurika Sashikala Premawardhane as the Ambassador of Sri Lanka to the Republic of Indonesia, C.A. Chaminda Inoka Colonne as the Ambassador of Sri Lanka to the Federative Republic of Brazil, Mohamed Rizvi Hassen as the High Commissioner of Sri Lanka to the Republic of Maldives, L.R.M.N.P.G.B. Kadurugamuwa as the Ambassador of Sri Lanka to the Republic of Turkey, Ruwanthi Delpitiya as the Ambassador of Sri Lanka to Nepal, and Marimuththu K. Pathmanaathan as the Ambassador of Sri Lanka to the Republic of South Korea have been recommended by the Committee on High Posts.
+
+In addition, the name of Ayesha Jinasena, PC, has also been recommended by the Committee on High Posts for the appointment as the Secretary to the Justice and National Integration Ministry.
+
+...
+
+[Data](articles/8bf5347a.json)
+
+---
+
+### Sri Lanka and Türkiye chart new path of cooperation at 3rd JCETC session
+
+*2025-07-31 04:58:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Türkiye-chart-new-path-of-cooperation-at-3rd-JCETC-session/34-779712) · `en`
+
+Turkish National Education Minister Yusuf Tekin (left) and Trade, Commerce, Food Security and Co-operative Development Minister Wasantha Samarasinghe
+
+The third session of the Sri Lanka-Türkiye Joint Committee for Economic and Technical Cooperation (JCETC) was successfully held on 24 July at the Hilton Colombo, marking a major milestone in deepening bilateral ties between the two nations.
+
+The meeting underscored both countries’ renewed commitment to expanding cooperation across a wide range of sectors, from trade and investment to agriculture, education, maritime affairs, transport, health, tourism, and technology and innovation.
+
+...
+
+[Data](articles/2471bb33.json)
+
+---
+
+### Regional Exporters Networking initiative launched from Kandy
+
+*2025-07-31 04:56:35* · [`dailyftlk`](https://www.ft.lk/business/Regional-Exporters-Networking-initiative-launched-from-Kandy/34-779711) · `en`
+
+The Sri Lanka Export Development Board (EDB), under the patronage of Industry and Entrepreneurship Development Minister Sunil Handunnetti successfully conducted the Regional Exporters Networking Forum on 29 July, at the Mahaweli Reach Hotel, Katugastota, Kandy.
+
+The forum was organised with the objective of enhancing regional export capacities and fostering greater participation from exporters in the districts of Kandy, Matale, Nuwara Eliya, Badulla, and Kegalle in achieving the goals of the National Export Strategy.
+
+Facilitating direct dialogue between regional exporters and government institutions and policy makers,
+
+Providing a platform to discuss and seek solutions to challenges related to customs operations, legal and regulatory frameworks, and market access,
+
+Supporting policy development based on the specific needs of regional export entrepreneurs.
+
+...
+
+[Data](articles/ec9f4ea9.json)
+
+---
 
 ### Sri Lanka’s participation at Global SME Ministerial Meeting and Trade Promotion Organisations Leadership Dialogue
 
@@ -1713,113 +1815,5 @@ The Chilaw Police is conducting further investigations into the matter.
 ◼️
 
 [Data](articles/3864c090.json)
-
----
-
-### சுனாமி எச்சரிக்கைகள்: என்ன நடக்கிறது: ஒரே பார்வையில்
-
-*2025-07-30 12:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனாமி-எச்சரிக்கைகள்-என்ன-நடக்கிறது-ஒரே-பார்வையில்/50-362045) · `ta`
-
-ஜப்பான் டோக்கியோவிலிருந்து ஹவாய் வரை, கலிபோர்னியாவிலிருந்து நியூசிலாந்து வரை, சுனாமி அச்சங்களுக்கு மத்தியில் மில்லியன் கணக்கான மக்கள் மிகுந்த எச்சரிக்கையில் உள்ளனர்.
-
-ரஷ்ய கடற்கரையில் ஏற்பட்ட மிகப்பெரிய நிலநடுக்கம் மற்றும் பசிபிக் பெருங்கடல் முழுவதும் தற்போது நிலவும் சுனாமி எச்சரிக்கைகள் பற்றிய சுருக்கம்
-
-உள்ளூர் நேரப்படி காலை 11:25 மணிக்கு தூர கிழக்கு ரஷ்யாவை 8.8 ரிக்டர் அளவிலான நிலநடுக்கம் தாக்கியது, இதனால் பலருக்கு சிறு காயங்கள் மற்றும் பரவலான வெள்ளம் ஏற்பட்டது
-
-ஜப்பானின் வடக்கு கடற்கரையில் 40 செ.மீ அலைகள் எழுந்ததை அடுத்து, விரைவில் ஹவாயின் கரையை சுனாமி அலைகள் அடையும் என்று எதிர்பார்க்கப்படுகிறது
-
-சீனா, பிலிப்பைன்ஸ், இந்தோனேசியா, நியூசிலாந்து மற்றும் பெரு மற்றும் மெக்சிகோ கூட சுனாமி எச்சரிக்கைகளை வெளியிட்டுள்ளன
-
-◼️
-
-[Data](articles/80df1517.json)
-
----
-
-### Dr. Tamara Kalubowila assumes duties as Chairman of J’pura Hospital
-
-*2025-07-30 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111004/dr-tamara-kalubowila-assumes-duties-as-chairman-of-jpura-hospital) · `en`
-
-Dr. Tamara Kalubowila has been appointed as the new Chairman of the Sri Jayewardenepura General Hospital.
-
-The Minister of Health and Mass Media, Dr. Nalinda Jayatissa, officially handed over the letter of appointment to Dr. Kalubowila at the Ministry premises on July 29.
-
-Dr. Kalubowila completed his Advanced Level studies at Royal College, Colombo, and entered the medical profession in 1986 after obtaining his MBBS degree from the Faculty of Medicine, University of Colombo.
-
-He commenced his medical career at the Panadura Hospital and went on to serve in various capacities, including Medical Officer of Health (MOH), Regional Director of Health Services (RDHS), Medical Officer of Maternal and Child Health (MO/MCH), Epidemiological Medical Officer, and Medical Officer in Charge of Institutions. He later transitioned into medical administration as the Medical Superintendent of the Horana Hospital, according to a statement issued by the Ministry of Health and Mass Media.
-
-...
-
-[Data](articles/55230174.json)
-
----
-
-### அவுஸ்திரேலியாவில் 16 வயதுக்குட்பட்டவர்கள் யூடியூப் பயன்படுத்த தடை !
-
-*2025-07-30 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221348) · `ta`
-
-16 வயதுக்குட்பட்ட சிறுவர்கள் யூடியூப் பயன்படுத்துவதை தடை செய்ய அவுஸ்திரேலியா வரலாற்றில் சிறப்புமிக்க சமூக ஊடகச் சட்டங்களை அமுல்படுத்தும் அந்நாட்டு தகவல் தொடர்பு அமைச்சர் அனிகா வெல் தெரிவித்துள்ளார்.
-
-உலகளவில் அதிகம் பயன்படுத்தப்படும் சமூக ஊடகங்களில் ஒன்றான யூடியூப்பில் பத்தில் நான்கு அவுஸ்திரேலிய சிறுவர்கள் தவறான வீடியோக்களை பார்வையிடுவதாக முறைப்பாடு கிடைக்கப்பெற்றுள்ளதாக தகவல் தொடர்பு அமைச்சர் தெரிவித்துள்ளார்.
-
-தளங்கள் தங்கள் அடையாளத்தை ஊகிப்பதற்கு முன்பு சிறுவர்கள் தாங்கள் யார் என்பதை அறிந்துகொள்ள வேண்டும் என அரசாங்கம் விரும்புகிறது என வெல்ஸ்  அறிக்கை ஒன்றில் குறிப்பிட்டுள்ளார்.
-
-"சமூக ஊடகங்களுக்கு ஒரு இடம் இருக்கிறது, ஆனால் சிறுவர்களை குறிவைக்கும் கொள்ளையடிக்கும் வழிமுறைகளுக்கு இடமில்லை."
-
-கடந்த ஆண்டு 16 வயது வரை சிறுவர்கள் பேஸ்புக், டிக்டொக் மற்றும் இன்ஸ்டாகிராம் போன்ற சமூக ஊடகங்களை பயன்படுத்துவதை  தடைசெய்யும் சட்டங்களை கொண்டுவருவதாக அவுஸ்திரேலியா அறிவித்தது.
-
-...
-
-[Data](articles/17955d29.json)
-
----
-
-### ජාතික ඉඩම් බැංකුවක්
-
-*2025-07-30 12:37:20* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඉඩම්-බැංකුවක්/11-417608) · `si`
-
-වගා කළ හැකි නමුත් වගාවෙන් තොරව පවතින ඉඩම් පිළිබඳ තොරතුරු සහිත ජාතික ඉඩම් බැංකුවක්  ස්ථාපිත කරන බව කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හදුන්නෙත්ති මහතා පවසයි.
-
-වගා නොකළ ඉඩම් පිළිබදව දිස්ත්‍රික් මට්ටමින් තොරතුරු ලබා දෙන ලෙස ඒ යටතේ දිස්ත්‍රික් ලේකම්වරුන් දැනුවත් කරන බව ද අමාත්‍යවරයා කීවේය.
-
-ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය විසින් සංවිධානය කරනු ලැබූ ප්‍රාදේශීය අපනයන කරුවන්ගේ සම්බන්ධතා ගොඩනැගීමේ සමුළුවක් කටුගස්තොට මහවැලි රීච් හෝටලයේදී ඊයේ (29) පැවැති දැනුවත් කිරීමේ වැඩසටහනකදී අමාත්‍යවරයා මේ බව කීවේය.
-
-ඉදිරි පස් අවුරුද්දක කාලය තුළදී අපනයන ආදායම් ඉහළ නැංවීමට අපේක්ෂා කරන බවත් ඒ සඳහා මෙම ඉඩම් යොදා ගැනීම අපේක්ෂිත යැයි ද අමාත්‍යවරයා පැවසුවේය.
-
-පසුගිය වසර 10ක කාලය තුළදී අපනයන ආදායම් ඉපැයීම් වර්ධනය 1%ක් වූ නමුත් මේ වන විට එහි වර්ධන අගය 7%ක් දක්වා ඉහළ නැංවීමට හැකියාව ලැබුණු බව කී අමාත්‍යවරයා මෙරට ඉතිහාසයේ වැඩිම අපනයන ඉපැයීම් මෙම වර්ෂය තුළදී ළගා කර ගැනිමට හැකියාව ලැබුණු බව ද පැවසුවේය.
-
-...
-
-[Data](articles/fda619e7.json)
-
----
-
-### Sri Lanka apparel exporters teach EU due diligence rules to rubber, tea exporters
-
-*2025-07-30 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-exporters-teach-eu-due-diligence-rules-to-rubber-tea-exporters-233671/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Apparel Exporters Association (SLAEA) said it had hosted a forum to update exporters, including those in sectors like tea and rubber, on the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD) where compliance is required to continue to ship goods to the region.
-
-The event focused on the implications of CSDDD for Sri Lanka’s export economy, SLAEA said.
-
-“It marks a new chapter in how international trade will be shaped and governed,” SLAEA Chairperson Rajitha Jayasuriya said.
-
-“It places responsibility and legal obligation not only on large EU companies, but by extension on every partner along the value chain—be it manufacturers, suppliers, raw material providers, or other supporting services—to proactively identify, prevent, and address human rights and environmental risks within their operations.”
-
-...
-
-[Data](articles/895cf720.json)
-
----
-
-### ஹவாயை தாக்கிய சுனாமி அலை
-
-*2025-07-30 12:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹவாயை-தாக்கிய-சுனாமி-அலை/50-362044) · `ta`
-
-ரஷ்யாவின் கிழக்கு கடற்கரையில் ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கம் காரணமாக ஹவாய்த் தீவுகளை சுனாமி அலைகள் தாக்கத் தொடங்கியுள்ளதாக பசிப்பிக் சுனாமி எச்சரிக்கை நிலையம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/3f162036.json)
 
 ---

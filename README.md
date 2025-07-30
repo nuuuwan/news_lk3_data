@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 07:18:40**
+As of **2025-07-30 08:14:52**
 
 ## Newspaper Stats
 
-*Scraped **67,631** Articles*
+*Scraped **67,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,85 @@ adalk | 6,496
 adaderanalk | 8,334
 tamilmirrorlk | 9,795
 virakesarilk | 11,272
-adaderanasinhalalk | 11,626
+adaderanasinhalalk | 11,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.6%) of 67,631 articles have been extended.
+61,973 (91.6%) of 67,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### රුසියාවට අඩි 13ක් උස සුනාමි රළ කඩා වදී - ජපානයටත් අනතුරු ඇඟවෙයි
+
+*2025-07-30 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212808) · `si`
+
+රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් කම්චැට්කා අර්ධද්වීපට අඩි 13ක් උස සුනාමිය රළ පැමිණි බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+රුසියාවේ නැගෙනහිර වෙරළ තීරයේ 8.7ක ප්‍රබල භූකම්පන තත්ත්වයක් අද (30) උදෑසන හට ගෙන තිබුණි.
+
+USGS ට අනුව, රුසියාවේ පෙට්‍රොපව්ලොව්ස්ක්-කම්චැට්ස්කි සිට සැතපුම් 85ක් පමණ දුරින් භූමිකම්පාව කිලෝමීටර් 19ක් ගැඹුරට සිදු විය.
+
+භූකම්පනයෙන් පසුව ජපානයේ වෙරළබඩ ප්‍රදේශ සඳහා ද සුනාමි අනතුරු ඇඟවීම් නිකුත්කළ  අතර, එරට කාලගුණ විද්‍යා ඒජන්සිය අනතුරු අඟවන්නේ මීටර 1ක් දක්වා රළ ඇති විය හැකි බවයි.
+
+මීට අමතරව හවායි දූපත් සහ ඇලස්කාවේ ඇලූටියන් දූපත්වල කොටස් සඳහා සුනාමි සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමටද පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/f106c2ac.json)
+
+---
+
+### ශ්‍රී ලංකා තොරතුරු කොමිසමට සභාපතිවරයකු පත් කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා FR පෙත්සමක්
+
+*2025-07-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212807) · `si`
+
+ශ්‍රී ලංකා තොරතුරු කොමිසම සඳහා සභාපතිවරයෙකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ජනමාධ්‍යවේදියෙකු සහ දැයට සවිය ආයතනය  විසින් මෙම පෙත්සම ඉදිරිපත් කළ බව 'අද දෙරණ' අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස ජනාධිපතිවරයා,  ජනාධිපති ලේකම්වරයා, කථානායකවරයා ඇතුළු ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින් සහ නීතිපති ඇතුළු පිරිසක් නම් කර තිබේ.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ, ශ්‍රී ලංකා තොරතුරු කොමිසමේ සභාපති ධූරය මාස හයකට ආසන්න කාලයක් පුරප්පාඩුව පවතින බවය.
+
+එම කොමිසමේ සභාපතිවරයා වශයෙන් කටයුතු කළ විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු උපාලි අබේරත්න මහතා ඉන් ඉල්ලා අස්වීමෙන් පසුව මෙම පුරප්පාඩුව හටගත් බවත් ඔවුන් පෙන්වා දෙයි.
+
+තොරතුරු කොමිසම සඳහා සභාපතිවරයෙකු පත්වීම් කිරීමේ බලය ජනාධිපතිවරයා වෙත පැවරී තිබුණද එම පුරප්පාඩුව සඳහා වැඩබලන සභාපතිවරයෙකු හෝ පත් කිරීමට ජනාධිපතිවරයා කටයුතු කර නොමැති බව පෙත්සම්කරුවන් පවසයි.
+
+...
+
+[Data](articles/46f92438.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - බිලිඳෙක් ඇතුළු තිදෙනෙකුට දිවි අහිමිවෙයි
+
+*2025-07-30 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212806) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු කිහිපයකින් අවුරුදු එකහමාරක කුඩා දරුවෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මිය ගොස් තිබේ.
+
+ඊයේ (29) මෙම අනතුරු සිදුව තිබුණේ මාතලේ, මැදවච්චිය සහ කටාන යන පොලිස් වසම්වලින්ය.
+
+මාතලේ පොලිස් වසමේ මාතලේ රත්තොට මාර්ගයේ මණදන්ඩාවෙල ප්‍රදේශයේදී ත්‍රීරෝද රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරළීගොස් අනතුරක් සිදුව තිබුණි.
+
+අනතුරින් ත්‍රීරෝද රථයේ රියදුරු පිටුපස අසුනේ ගමන්ගත් රියදුරුගේ මව හා කුඩා දරුවා තුවාල ලබා මාතලේ රෝහලට ඇතුළත් කිරීමෙන් පසු දරුවා මියගොස් ඇත.
+
+එලෙස මිය ගොස් ඇත්තේ, මාතලේ ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු එකහමාරක කුඩා දරුවෙකි.
+
+මේ අතර මැදවච්චිය පොලිස් වසමේ ඒ 09 මාර්ගයේ වැලිඔය හන්දියේදී ලොරි රථයක රියදුරුට රථය පාලනය කර ගත නොහැකිව යතුරු පැදියක හා තවත් ලොරි රථයක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් යතුරුපැදිකරු බරපතළ තුවාල ලබා රැඹෑව රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, මැදවච්චිය ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/340bea6d.json)
+
+---
 
 ### நல்லூருக்குள் நுழைந்த இராணுவ வாகனம்
 
@@ -52,7 +120,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### උතුරු, උතුරුමැද සහ නැගෙනහිරට තද වැසි
+### උතුරට, උතුරුමැදට සහ නැගෙනහිරට තද වැසි
 
 *2025-07-30 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212805) · `si`
 
@@ -1675,59 +1743,5 @@ This diversification, he noted, reflects “not only the dynamism of our bilater
 ◼️
 
 [Data](articles/8c70c656.json)
-
----
-
-### The Man In The Small Room: A Norwegian Who Quietly Made A Nation Rich
-
-*2025-07-29 16:23:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-man-in-the-small-room-a-norwegian-who-quietly-made-a-nation-rich/) · `en`
-
-In the quiet halls of the Norwegian Foreign Ministry during the 1960s, behind a nondescript door, sat a man in a modest room. No press, no fanfare, no entourage. Just papers, maps, treaties, and a mind fiercely devoted to his country. His name was Jens Evensen—a name few outside Norway’s policy and legal circles knew at the time. Yet the work he did in that small room changed the destiny of a nation.
-
-Jens Evensen was not a politician then. He was a public official—an expert in international law with an unwavering sense of duty. His mission? To secure Norway’s maritime borders and legally stake its claim to the North Sea’s continental shelf, an area soon to be discovered as one of the richest oil reserves in the world.
-
-...
-
-[Data](articles/2575f4b5.json)
-
----
-
-### Sri Lanka stocks rise marginal 0.07-pct, S&P SL20 dips
-
-*2025-07-29 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-marginal-0-07-pct-sp-sl20-dips-233391/) · `en`
-
-ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) rose marginally higher by 0.07 percent while the S&P SL20 declined, data on its site showed.
-
-The ASPI rose 14.34 points from Monday to 19,532.20; while the S&P SL20 index ended 0.38 percent, or 22.05 points weaker, to close at 5,752.46.
-
-Turnover increased to 7.5 billion rupees from 6.1 billion rupees; while the share volume was 221,201,482.
-
-The ASPI was pushed up by ACL Cables which ended 10.75 rupees stronger at 177.75; Melstacorp which rose 2 rupees to 154.00 rupees; Hayleys which ended 2.25 rupees up at 179.75 rupees; Central Finance Company which moved 3.75 rupees up to 307.75; and Cargills (Ceylon) which closed 11.50 rupees higher at 600.
-
-Japan’s Nikkei 225 index declined 0.79 percent, or 323.72 points, to 40,674.55.
-
-...
-
-[Data](articles/1406a639.json)
-
----
-
-### 1,200 கி.கி தூள் மாயம்: உதவி முகாமையாளர் சிக்கினார்
-
-*2025-07-29 16:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-200-கி-கி-தூள்-மாயம்-உதவி-முகாமையாளர்-சிக்கினார்/76-361989) · `ta`
-
-ஆர்.பி.கே.பிளான்டேசனுக்கு உரித்தான மஸ்கெலியா பிரவுன்ஸ்வீக் தோட்ட தேயிலை தொழிற்சாலையில் இருந்து  840,000 ரூபாய் பெறுமதியான No. 1 டஸ்ட், தேயிலை தூள் 60 கிலோ கிராம் நிறை கொண்ட 1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் கடந்த 23 ம் திகதி களவாடப்பட்டுள்ளது  என தோட்ட முகாமையாளர்  நிலுஷான் மதுசங்க ஜயவீர , மஸ்கெலியா பொலிஸ் நிலையத்தில் புகார் ஒன்றை பதிவு செய்து உள்ளார்.
-
-அதனைத் தொடர்ந்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமாரவின் பணிப்புக்கு அமைய விசாரணைகள் ஆரம்பிக்க பட்டு தேயிலை தொழிற்சாலையில் பொருத்த பட்டு இருந்த சீ.சீ.டி வி கெமராக்கள் பரிசோதனை மேற்கொள்ளப்பட்டது..
-
-23.07.2025.அன்று இரவு 8.30.மணி தொடக்கம் 10.30 மணிக்குள் தேயிலை தூள் அடங்கிய 20 பொதிகள்  தோட்ட உதவி முகாமையாளரால்   லொறிக்கு  ஏற்றப் பட்டது தெரிய வந்தது.
-
-அதனைத் தொடர்ந்து தோட்ட உதவி முகாமையாளரை மஸ்கெலியா பொலிஸார் கைது செய்து ஹட்டன் நீதிமன்றில் ஆஜர் படுத்தினர்
-
-ஹட்டன் நீதிமன்ற நீதிவான் அவரை எதிர்வரும் 30ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
-
-◼️
-
-[Data](articles/052a3fc8.json)
 
 ---

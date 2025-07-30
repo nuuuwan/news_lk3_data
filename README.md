@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 21:50:20**
+As of **2025-07-30 22:07:51**
 
 ## Newspaper Stats
 
-*Scraped **67,780** Articles*
+*Scraped **67,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,519
 adaderanalk | 8,368
 tamilmirrorlk | 9,832
 virakesarilk | 11,283
-adaderanasinhalalk | 11,664
+adaderanasinhalalk | 11,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,780 articles have been extended.
+61,973 (91.4%) of 67,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### MrBeast YouTube අතික්‍රමණය කරයි
+
+*2025-07-30 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212847) · `si`
+
+YouTube අවකාශය තුළ ග්‍රාහකයින් (subscribers) මිලියන 400 සීමාව පසුකල ලොව පළමු හා එකම නාලිකාව බවට ජේම්ස් ස්ටීවන්  ඩොනල්ඩ්සන්ගේ 'MrBeast' යූ ටියුබ් චැනලය පත්ව තිබේ.
+
+ඒ අනුව ඔහු වෙනුවෙන්ම නවතම මාදිලියෙන් යුත් Play Button එකක් නිර්මාණය කර, YouTube ප්‍රධාන විධායක නිලධාරී නීල් මොහාන් මහතා විසින් ඔහුට ලබා දී ඇත.
+
+අමෙරිකානු ජාතිකයෙකු වන මේ වනවිට 27වන වියේ පසුවන ඩොනල්ඩ්සන්ගේ මෙම 'MrBeast' නාලිකාව 2012 වසරේ දී ආරම්භ කර වූවකි.
+
+එයට 2016 වසරේදී ග්‍රාහකයින් ලක්ෂය සම්පූර්ණ කිරීමට හැකි වූ අතර, 2017 වසරේ දී මිලියනය සම්පූර්ණ කරගත හැකිවිය.
+
+සිය ග්‍රාහකයින් සංඛ්‍යාව අධිවේගයෙන් ආකර්ෂණය කරගත් ඔහු 2018 වසරේදී මිලියන 10 සීමාව සම්පූර්ණ කළ අතර, 2021 වසරේ දී මිලියන 50 සීමාව පසුකර ගියේය.
+
+එමෙන්ම වසරක් තුළ දී එනම්, 2022 වසරේ දී ඔහුට මිලියන 100 සීමාව දක්වා සිය නාලිකාව වැඩිකරගැනීමට හැකිව තිබේ.
+
+මේ වනවිට වීඩියෝ 888කට අධික සංඛ්‍යාවක් ඉදිරිපත් කර ඇති 'MrBeast'යූ ටියුබ් චැනලය බිලියන 91කට වැඩි නැරඹුම් වාර සංඛ්‍යාවකට හිමිකම් කියයි.
+
+◼️
+
+[Data](articles/2a1122bb.json)
+
+---
 
 ### ජෝන්ස්ටන්ට එරෙහි තවත් නඩුවක් විභාගයට ගැනේ
 
@@ -1795,27 +1819,5 @@ The primary objective of establishing this commission is to facilitate collabora
 ◼️
 
 [Data](articles/e050b9fd.json)
-
----
-
-### Hambantota Bird Park owner granted bail
-
-*2025-07-30 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/110998/hambantota-bird-park-owner-granted-bail) · `en`
-
-The owner of a bird park in Nagarawewa, Hambantota, where several luxury motorcycles imported illegally were found recently, has been released on bail.
-
-The order was issued by the Hambantota Magistrate’s Court today, said Ada Derana reporter.
-
-On July 25, the bird park owner and two other suspects were remanded until today (July 30) by the Hambantota Magistrate’s Court for allegedly concealing illegally imported motorcycles in a warehouse.
-
-The Bird Park owner was arrested on July 17 by a special police team based in Narahenpita, following a raid carried out earlier this month.
-
-On July 12, police officers attached to the Central Crimes Investigation Bureau (CCIB) took custody of 21 illegally imported motorcycles found inside a storage facility of a Bird Park, Hambantota.
-
-The raid was carried out by a team of officers, including the Director of the CCIB, based on special information received by the Acting IGP.
-
-...
-
-[Data](articles/3aaaf23a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 04:21:23**
+As of **2025-07-31 04:32:59**
 
 ## Newspaper Stats
 
-*Scraped **67,802** Articles*
+*Scraped **67,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,785
+dailyftlk | 4,786
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,832
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,802 articles have been extended.
+61,973 (91.4%) of 67,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Building value-centric nation: Navigating complex journey from corruption to integrity
+
+*2025-07-31 04:10:56* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-nation-Navigating-complex-journey-from-corruption-to-integrity/4-779700) · `en`
+
+The time for bold, inclusive leadership is now; leadership that understands that true transformation requires patience, preparation, and partnership with all stakeholders
+
+Corruption is not merely the result of individual moral failings but a symptom of systemic pressures. Many low and middle-income Sri Lankan families rely on informal facilitation payments or small bribes as economic survival mechanisms – an informal “parallel economy” born from inadequate wages and weak enforcement of fair labour standards. The informal payments sustain livelihoods in sectors where official compensation and service delivery are insufficient
+
+...
+
+[Data](articles/f94804cd.json)
+
+---
 
 ### Beyond visa waivers: Building Sri Lanka’s global tourism brand
 
@@ -1827,25 +1841,5 @@ The Minister noted that around 2,350 people are killed while 6,000 sustain serio
 ...
 
 [Data](articles/11adfd31.json)
-
----
-
-### ’ஐ லவ் யூ’  கூறியவருக்கு நீதிமன்றம் கருத்து
-
-*2025-07-30 12:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-லவ்-யூ-கூறியவருக்கு-நீதிமன்றம்-கருத்து/175-362041) · `ta`
-
-15 வயது சிறுமி ஒருவர், தான் வீட்டிற்குச் செல்லும் வழியில் இளைஞர் "ஐ லவ் யூ" என்று சொன்னதாகவும், இதற்கு முன்பும் பலமுறை தொல்லை கொடுத்ததாகவும் குற்றம் சாட்டியிருந்தார். அவரது புகாரின் அடிப்படையில், இந்தியாவின் போக்சோ உள்ளிட்ட பிரிவுகளின்கீழ் பொலிஸார் வழக்கு பதிவு செய்தது. இருப்பினும், போதிய ஆதாரம் இல்லாததால் விசாரணை நீதிமன்றம் ஏற்கெனவே இளைஞரை விடுவித்திருந்தது.
-
-சத்தீஸ்கர் மாநிலம் தம்தரி மாவட்டத்தில் உள்ள குரூட் பொலிஸ் பிரிவில் நடந்த இந்த வழக்கின் தீர்ப்பை எதிர்த்து உயர்நீதிமன்றத்தில் மேன்முறையீடு செய்யப்பட்டது.
-
-இந்த மனுவை விசாரித்த ஐகோர்ட்டு, குற்றஞ்சாட்டப்பட்டுள்ள இளைஞர் சிறுமியிடம் தவறாக நடந்துகொண்டதாக சாட்சியங்களுடன் நிரூபிக்க முடியவில்லை.
-
-அவர் தவறான எண்ணத்தில் சிறுமியிடம் பழக முயற்சிக்கவும் இல்லை என்று தெரிய வந்துள்ளதாக நீதிமன்றம் தெரிவித்துள்ளது.
-
-மேலும், கீழமை நீதிமன்றத்தால் வழங்கப்பட்ட தீர்ப்பை மேற்கோள்காட்டி, மேன்முறையீட்டு மனுவை தள்ளுபடி செய்தது.
-
-◼️
-
-[Data](articles/e26bd2bb.json)
 
 ---

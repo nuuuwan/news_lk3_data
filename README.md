@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 16:34:52**
+As of **2025-07-30 16:48:09**
 
 ## Newspaper Stats
 
-*Scraped **67,746** Articles*
+*Scraped **67,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,510
+adalk | 6,511
 adaderanalk | 8,363
-tamilmirrorlk | 9,821
+tamilmirrorlk | 9,822
 virakesarilk | 11,282
-adaderanasinhalalk | 11,656
+adaderanasinhalalk | 11,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,746 articles have been extended.
+61,973 (91.5%) of 67,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### ලාංකිකයන්ට මාලදිවයිනෙන් දින 90ක On-Arrival සංචාරක වීසා
+
+*2025-07-30 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212839) · `si`
+
+සංචාරක කටයුතු සඳහා මාලදිවයිනට යන මෙරට පුරවැසියන්ට නොමිලේ දින 90ක් සඳහා on-arrival සංචාරක වීසා බලපත්‍ර නිකුත් කිරීමට මාලදිවයින් රජය තීරණය කර ඇත.
+
+ජනාධිපති මාධ්‍ය අංශයේ නිවේදනයක් නිකුත් කරමින් සඳහන් කර සිටියේ, ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ මාලදිවයින් සංචාරයට සමගාමීව මෙම තීරණය ගෙන තිබෙන බවය.
+
+ඒ අනුව මෙම වීසා බලපත්‍ර නිකුත් කිරීම ඊයේ (29) සිට ක්‍රියාත්මකය.
+
+එම වීසා ලබා ගැනීම සඳහා වලංගු විදේශ ගමන් බලපත්‍රයක් තිබීම සහ මාලදිවයිනේ රැඳී සිටින කාලය තුළ සිය වියදම් සඳහා ප්‍රමාණවත් මුදල් තමන් සන්තකයේ ඇති බවට සනාථ කිරීම පමණක් අවශ්‍ය වේ.
+
+මාලදිවයින් ජනරජය සහ ශ්‍රී ලංකාව අතරවන වීසා පහසුකම් සැපයීම පිළිබඳ ගිවිසුමේ විධිවිධාන සහ මාලදිවයිනේ ආගමන නීති සහ රෙගුලාසිවලට යටත්ව දෙරට අතර අන්‍යෝන්‍ය සහයෝගීතාව අරමුණු කර මෙම වීසා පහසුකම සපයන බව මාලදිවයින් රජය පවසයි.
+
+◼️
+
+[Data](articles/f4577604.json)
+
+---
+
+### WhatsApp  மோசடிகள்; பொதுமக்கள் அவதானம்
+
+*2025-07-30 16:26:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WhatsApp-மோசடிகள்-பொதுமக்கள்-அவதானம்/175-362056) · `ta`
+
+போலி அழைப்புகள் மற்றும் குறுஞ்செய்திகளை அனுப்பி வாட்ஸ்அப் பயனர்களின் கணக்குகளை ஹேக் செய்து, அவர்களிடம் இருந்து பணத்தை மோசடி செய்யும் மோசடி முயற்சிகள் குறித்து தற்போது ஏராளமான புகார்கள் பதிவாகியுள்ளதாக குற்றப் புலனாய்வுத் துறை (CID) தெரிவித்துள்ளது.
+
+மோசடி செய்பவர்கள் பயனர்களை ஏமாற்றி, அவர்களின் வாட்ஸ்அப் ஒன்-டைம் கடவுச்சொல் (OTP) எண்களை வெளிப்படுத்தி, பின்னர் போலி செய்திகளை அனுப்பப் பயன்படுத்துவதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+அதன்படி, இந்த மோசடி குறித்து பொதுமக்கள் விழிப்புடன் இருக்குமாறு பொலிஸ் தரப்பில் வலியுறுத்தப்பட்டுள்ளது.
+
+ஒன்லைன் கணக்குகளுக்கான OTP எண்களை எந்த சூழ்நிலையிலும் யாருடனும் பகிரக்கூடாது என்றும் அவர்கள் மேலும் வலியுறுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/cb0f06a6.json)
+
+---
 
 ### லலித், குகன் விவகாரம்: சாட்சியமளிக்க கோட்டா தயார்
 
@@ -84,7 +122,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212836) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් හිටපු නාවික හමුදාපති විශ්‍රාමික අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතාව, අගෝස්තු 13 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+අත්අඩංගුවට ගනු ලැබූ හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න මහතා එළැඹෙන 13 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
+
+නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැර ගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව හිටපු නාවික හමුදාපතිවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගැනුණි.
 
 ◼️
 
@@ -139,6 +179,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6733309d.json)
+
+---
+
+### දකුණේ පාතාලයට ආයුධ දුන් වව්නියාවේ තිදෙනෙක් ටී.අයි.ඩී. රඳවාගෙන ප්‍රශ්න කරයි
+
+*2025-07-30 15:48:58* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-පාතාලයට-ආයුධ-දුන්-වව්නියාවේ-තිදෙනෙක්-ටී-අයි-ඩී--රඳවාගෙන-ප්‍රශ්න-කරයි/11-417613) · `si`
+
+එල්.ටී.ටී. ඊ යුද සමයේදී එක්රැස් කළ අවි ආයුධ සඟවා තබා ගනිමින් දකුණේ පාතාල සාමාජිකයින්ට හා අපරාධකරුවන්ට කුලියට ලබා දුන්නේ යැයි අත්අඩංගුවට ගත් වවුනියාව නෙරිකුලම් හි පදිංචි සැකකරුවන් තිදෙනා මාස 03ක කාලයක් ත්‍රස්ත විමර්ශන කොට්ඨාශයේ රඳවාගෙන ප්‍රශ්න කිරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා  නියෝග කළේය.
+
+කාරියක් පෙරමාල් රමේෂ්, ඇන්තනී ප්‍රනාන්දු වික්‍රම සහ මොහොමඩ් රාසික් යන සැකකරුවන් මෙසේ රඳවා ප්‍රශ්න කිරීමට නියෝග කෙරිණි.
+
+ත්‍රස්ත විමර්ශන කොට්ඨාශයේ නිලධාරින් අධිකරණයට කරුණු ඉදිරිපත් කරමින් කියා සිටියේ පසුගිය 21 වැනිදින කිරිබත්ගොඩ පොලිස් වසමේදී ටී-56 ගිනිඅවියක්, පතොරම් 30ක් සහිත පතොරම් ගැබක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 05යි මිලිග්‍රෑම් 650ක් සමග අත්අඩංගුවටගත් සැකකරුවකුගෙන් අනාවරණය කරගත් තොරතුරු අනුව මෙම සැකකරුවන් අත්අඩංගුවට ගත් බවය.
+
+අදාල  ගිනි අවිය වව්නියාව සිට කොළඹ ප්‍රදේශයට රැගෙනවිත් ඇති බවත් මෙම ගිනිඅවිය තවත් පාර්ශ්වයක් වෙත ලබාදී අපරාධයක් සිදු කිරීමෙන් අනතුරුව නැවත වව්නියාවට රැගෙන යෑමට සැලසුම් කර ඇති බවට විමර්ශනවලදී අනාවරණය වී ඇති බවත් පැවසීය.
+
+...
+
+[Data](articles/86b66d5c.json)
 
 ---
 
@@ -1755,73 +1813,5 @@ The agency has issued an evacuation advisory to more than 900,000 people in 133 
 ◼️
 
 [Data](articles/20bea784.json)
-
----
-
-### MP Rohitha Abeygunawardena’s daughter surrenders to Police
-
-*2025-07-30 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/110989/mp-rohitha-abeygunawardenas-daughter-surrenders-to-police-) · `en`
-
-The daughter of Member of Parliament Rohitha Abeygunawardena has surrendered to the Walana Anti-Vice Unit, police stated.
-
-She has surrendered through her attorney in relation to investigations over the alleged possession of an illegally assembled vehicle.
-
-Her husband Dhanushka Weerakkody is currently in remand custody over the incident.
-
-Weerakkody is also linked to the incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
-
-Meanwhile, the son of Member of Parliament Jagath Vithana, who was earlier arrested by the Panadura Walana Anti-Vice Unit in connection with the same incident, was released on bail.
-
-Rasika Vithana was arrested in Mathugama in connection with the alleged possession of an illegally assembled vehicle.
-
-Based on information received by the Acting Inspector General of Police regarding a jeep registered using forged data, the Walana Anti-Vice Unit launched an investigation about four months ago.
-
-...
-
-[Data](articles/d6cede69.json)
-
----
-
-### Three including toddler killed in separate road accidents
-
-*2025-07-30 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110988/three-including-toddler-killed-in-separate-road-accidents) · `en`
-
-Three individuals, including a one-and-a-half-year-old toddler have died due to multiple road accidents reported from across the country, police stated.
-
-These accidents took place yesterday (29) in Matale, Medawachchiya, and Katana.
-
-An accident was reported along the Matale-Rattota road in Mandandawela, when a three-wheeler overturned on the road after the driver lost control of the vehicle.
-
-Police stated in the accident, the mother of the driver and a toddler who were traveling in the back seat of the three-wheeler sustained injuries. They were admitted to the Matale Hospital, where the child later succumbed to injuries.
-
-Meanwhile, in Medawachchiya along the A9 road at the Weli Oya junction, a lorry collided with a motorcycle and another lorry, after the driver lost control of the vehicle.
-
-The motorcyclist sustained serious injuries and was first admitted to the Rambewa Hospital and then transferred to the Anuradhapura Hospital for further treatment, where he died.
-
-...
-
-[Data](articles/4da1b4ed.json)
-
----
-
-### Three including toddler killed in separate road accidents
-
-*2025-07-30 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/110988/three-including-toddler-killed-in-multiple-road-accidents) · `en`
-
-Three individuals, including a one-and-a-half-year-old toddler have died due to multiple road accidents reported from across the country, police stated.
-
-These accidents took place yesterday (29) in Matale, Medawachchiya, and Katana.
-
-An accident was reported along the Matale-Rattota road in Mandandawela, when a three-wheeler overturned on the road after the driver lost control of the vehicle.
-
-Police stated in the accident, the mother of the driver and a toddler who were traveling in the back seat of the three-wheeler sustained injuries. They were admitted to the Matale Hospital, where the child later succumbed to injuries.
-
-Meanwhile, in Medawachchiya along the A9 road at the Weli Oya junction, a lorry collided with a motorcycle and another lorry, after the driver lost control of the vehicle.
-
-The motorcyclist sustained serious injuries and was first admitted to the Rambewa Hospital and then transferred to the Anuradhapura Hospital for further treatment, where he died.
-
-...
-
-[Data](articles/e56d989d.json)
 
 ---

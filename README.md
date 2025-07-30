@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 05:19:01**
+As of **2025-07-30 05:31:45**
 
 ## Newspaper Stats
 
-*Scraped **67,608** Articles*
+*Scraped **67,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 economynextcom | 4,127
 islandlk | 4,127
 dailymirrorlk | 4,733
-dailyftlk | 4,777
+dailyftlk | 4,781
 adalk | 6,496
 adaderanalk | 8,332
 tamilmirrorlk | 9,791
@@ -26,11 +26,79 @@ adaderanasinhalalk | 11,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.7%) of 67,608 articles have been extended.
+61,973 (91.7%) of 67,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### Provinces, development and governance
+
+*2025-07-30 05:11:44* · [`dailyftlk`](https://www.ft.lk/columns/Provinces-development-and-governance/4-779660) · `en`
+
+One does not expect the President to be fully versed on all the structures. It is the responsibility of those serving his office to show him the way
+
+In October 2024 the President had requested Governors to improve the living conditions of the people. President Anura Kumara Disanayake instructed the Governors to prepare and submit a new proposal aimed at rationalising the Provincial Council mechanism. The President also stated that, given the current Government’s transitional period, the provincial councils must strive to deliver the best possible services to improve the living conditions of the people.
+
+Recent news reported that although Rs. 574 million has been allocated for the Hambantota District this year under the Southern Province Development Program, only about Rs. 23 million has been spent so far in July, amounting to approximately 4% progress.
+
+...
+
+[Data](articles/a1034849.json)
+
+---
+
+### Legislative reforms
+
+*2025-07-30 05:08:38* · [`dailyftlk`](https://www.ft.lk/opinion/Legislative-reforms/14-779659) · `en`
+
+There are several gaps in legislation. An agreement around it necessary soon. A suggestive list is below.
+
+The Parliament is empowered to confer on the President the power of that Provincial Council to make Statutes and to delegate the power so conferred to an authority specified by the President (Article 154M). That authority would be a Board of Advisors appointed by the President for that Province.
+
+Over the years, the Central Ministry of Education has encroached upon the powers devolved to the provinces and taken over a large number of provincial schools and declared them to be national schools. All such schools have to be returned immediately to the provinces.
+
+Similar issues exist around health due to taking back powers of provinces by Cabinet.
+
+Rest houses which were under the purview of local authorities were taken over by the Centre by an amendment to the Urban Development Ordinance. This is an infringement of the powers of the provinces.
+
+...
+
+[Data](articles/03ba0272.json)
+
+---
+
+### Vision for development by provinces
+
+*2025-07-30 05:08:18* · [`dailyftlk`](https://www.ft.lk/opinion/Vision-for-development-by-provinces/14-779658) · `en`
+
+Fuel and infuse a surge of development through revenue generation: The objective is to generate sustainable revenue streams that can fuel and support the developmental activities in the province. This may involve exploring various sectors, attracting investments, promoting entrepreneurship, and leveraging the available resources to stimulate economic growth.
+
+Achieve selected objectives within five years: The overall objective is to accomplish the set goals and targets within a specific time frame of five years, indicating a sense of urgency and commitment towards achieving tangible results in a relatively short period.
+
+These selected objectives outline a comprehensive vision for Provincial Development Authorities, encompassing economic growth, environmental sustainability, improved governance, and enhanced well-being for the residents of the province.
+
+...
+
+[Data](articles/0ea719fb.json)
+
+---
+
+### Poverty alleviation an approach
+
+*2025-07-30 05:07:41* · [`dailyftlk`](https://www.ft.lk/opinion/Poverty-alleviation-an-approach/14-779657) · `en`
+
+Digitally profile, recognise pre-existing skills, define livelihood development targets, and work towards them and measure using globally defined standards.
+
+Ignite entrepreneur skills into earnings, take them to the bank for credit lines and provide management services using Development Officers.
+
+Give 7-9 perch lands, value the land, provide one stop services to optimise use including vegetable, fruits, poultry, livestock.
+
+◼️
+
+[Data](articles/7aabc708.json)
+
+---
 
 ### Digital VAT, DST, retaliatory taxes and US laws
 
@@ -1675,81 +1743,5 @@ The Chairman of IM Japan highlighted the high demand for Sri Lankan workers in J
 ...
 
 [Data](articles/5a644883.json)
-
----
-
-### විල්පත්තු රක්ෂිත කලාපය හා සම්බන්ධ ගැසට් නිවේදනයක් ඉවත් කර ගැනේ
-
-*2025-07-29 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212782) · `si`
-
-විල්පත්තු සංරක්ෂිත කලාපයේ පිහිටා තිබෙන වෙඩිතලතිව් රක්ෂිත කලාපයෙන් හෙක්ටයාර 168ක් ඉස්සන් ගොවිපොළක් පවත්වාගෙන යාම සඳහා මුදා හැරීමට පසුගිය රජයේ හිටපු වන ජීවී අමාත්‍ය පවිත්‍ර වන්නිආරච්චි මහත්මිය විසින් නිකුත් කරන ලද ගැසට් නිවේදනය ඉවත් කර ගැනීමට අමාත්‍ය මණ්ඩලය තීරණය කර ඇතැයි  නීතිපතිවරයා අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ දැනුම් දුන්නේය.
-
-එම ගැසට් නිවේදනය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා වනජීවී ආරක්ෂක සංගමය සහ පරිසර යුක්ති කේන්ද්‍රය ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබුවේය.
-
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් විවේකා සිරිවර්ධන මහත්මිය මෙම දැනුම් දීම සිදු කළාය.
-
-එස්. තුරෙයි රාජා, යසන්ත කෝදාගොඩ, ප්‍රියන්ත ප්‍රනාන්දු , යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම කැඳවිය.
-
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් විවේකා සිරිවර්ධන මහත්මිය අධිකරණය හමුවේ කියා සිටියේ මෙම ගැසට් නිවේදනය සම්බන්ධයෙන් සමාලෝචනයක් කිරීමෙන් අනතුරුව එය ඉවත් කර ගැනීමට අමාත්‍ය මණ්ඩල තීරණයක් ගෙන ඇති බවය.
-
-...
-
-[Data](articles/239ca5c2.json)
-
----
-
-### ඉදිරි දින කිහිපයේදී වැසි ඇතිවීමට හිතකර වායුගෝලයක්
-
-*2025-07-29 15:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවීමට-හිතකර-වායුගෝලයක්/11-417587) · `si`
-
-ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි
-
-ඇතිවීම  සඳහා හිතකාර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
-
-උතුරු, උතුරුමැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි
-
-බස්නාහිර හා සබරමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/34d4d1c8.json)
-
----
-
-### ”நாமல் தான் அடுத்த ஜனாதிபதி ”
-
-*2025-07-29 15:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-தான்-அடுத்த-ஜனாதிபதி/175-361986) · `ta`
-
-அடுத்த ஜனாதிபதித் தேர்தல் குறித்த அனைத்து உளவுத்துறை அறிக்கைகளும் நாமல் ராஜபக்ஷ இலங்கையின் அடுத்த ஜனாதிபதியாக இருப்பார் என்பதை ஏற்கனவே உறுதிப்படுத்தியுள்ளன என்று முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
-
-சமீபத்திய நிகழ்வில் பேசிய அவர், கிராமங்களில் உள்ள மக்கள் கூட நாமல் அடுத்த தலைவராக வருவதைப் பற்றிப் பேசுகிறார்கள் என்றார்.
-
-"நாமல் அடுத்த ஜனாதிபதியாக வருவார் என்று கிராமத்தில் பேச்சு உள்ளது. அனைத்து அறிக்கைகளும் ஏற்கனவே கொடுக்கப்பட்டுள்ளன," என்று பெர்னாண்டோ கூறினார்.
-
-அறிக்கைகள் தொடர்பாக எந்த வகையான சோதனை அல்லது விசாரணையையும் நடத்துமாறு அவர் அரசாங்கத்திற்கு சவால் விடுத்தார்.
-
-"நாங்கள் அதை எதிர்கொள்ளத் தயாராக இருக்கிறோம். அப்போது, அவர்கள் இரட்டை டாக்ஸியில் ஏராளமான கோப்புகளைக் கொண்டு வந்தார்கள், ஆனால் எதுவும் கிடைக்கவில்லை. அவர்கள் வழக்கைத் தாக்கல் செய்தால் போதும். அதுதான் அன்றைய செய்தி," என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/037e7ec6.json)
-
----
-
-### හම්බන්තොට කුරුලු උයනේ හිමිකරුගෙන් අධිකරණයට පෙත්සමක්
-
-*2025-07-29 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212781) · `si`
-
-හම්බන්තොට කුරුලු උද්‍යානයේ තිබී සොයා ගන්න ලද නීති විරෝධී ලෙස ආනයනය කරන ලද සුඛෝපභෝගී මෝටර් බයිසිකල් 21 ක් සන්තකයේ තබාගත්තේ යැයි සැකපිට තමන්ව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කිරීමට ගෙන තිබෙන තීරණයට එරෙහිව එම උද්‍යානයේ හිමිකරු වූ අජිත් ගාල්ලගේ මහතා වෙනුවෙන් ඔහුගේ නීතිඥවරු ඉදිරිපත් කළ රිට් පෙත්සම කරුණු තහවුරු කිරීම සඳහා අගෝස්තු මස 05 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
-
-මෙම පෙත්සම අද (29) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ එරාජ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම මෝටර් බයිසිකල් මහා මාර්ගයේ භාවිතා කිරීමේ චේතනාවෙන් ගෙන්වන ලද බයිසිකල් නොවන බව ප්‍රකාශ කළේය.
-
-මෝටර් රථ පනතට අනුව මෙම චෝදනාව ඇප ලබා දිය හැකි වරදක් බවත් ඔහු මෙහිදී කියා සිටියේය.
-
-...
-
-[Data](articles/cf596e93.json)
 
 ---

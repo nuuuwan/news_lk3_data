@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 20:34:44**
+As of **2025-07-30 20:49:11**
 
 ## Newspaper Stats
 
-*Scraped **67,776** Articles*
+*Scraped **67,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,517
+adalk | 6,518
 adaderanalk | 8,368
-tamilmirrorlk | 9,831
+tamilmirrorlk | 9,832
 virakesarilk | 11,283
 adaderanasinhalalk | 11,663
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,776 articles have been extended.
+61,973 (91.4%) of 67,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### பவர் ஸ்டார் சீனிவாசன் கைது
+
+*2025-07-30 20:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பவர்-ஸ்டார்-சீனிவாசன்-கைது/54-362082) · `ta`
+
+பவர் ஸ்டாரிடம் பணத்தைக் கொடுத்துவிட்டு ஏமாறுபவர்கள் குறித்த தகவல்களும், அதன் பின்னர் பவர் ஸ்டார் சீனிவாசன் கைது செய்யப்படுவதும் வழமையாகி விட்டது.
+
+அதாவது, " ரூ.1000 கோடி கடன் வாங்கித் தருவதாக கூறி டெல்லி தொழில் அதிபரிடம் ரூ.5 கோடி பெற்று மோசடி செய்ததாக பவர் ஸ்டார் சீனிவாசன் மீது ஏற்கனவே வழக்கு பதிவு செய்யப்பட்டிருந்தது.
+
+இந்த வழக்கு தொடர்பாக கடந்த 2018 ஆம் ஆண்டு முதல் நீதிமன்றத்தில் முறையாக விசாரணைக்கு ஆஜராகாமல் இருந்த நிலையில், இரண்டு முறை குற்றவாளியாக அறிவிக்கப்பட்ட நிலையில், பவர் ஸ்டார் சீனிவாசன் கைது செய்யப்பட்டுள்ளார்.
+
+மோசடி செய்யப்பட்ட பணத்தை திரைப்பட மற்றும் போக்குவரத்து செலவுக்காக பயன்படுத்தி இருப்பதும் தெரியவந்தது. பவர் ஸ்டார் சீனிவாசன் மீது அதேபோல் ஆறு மோசடி வழக்கு சென்னையில் இருப்பதும் தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/78bfdcda.json)
+
+---
 
 ### BYD රථ දහසකට වඩා හම්බන්තොට සිරවෙයි
 
@@ -297,6 +315,24 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 ◼️
 
 [Data](articles/bd587afc.json)
+
+---
+
+### පේරාදෙණිය උමං මාර්ගය භාවිතා කිරීම ලබන 1දා සිට අනිවාර්යයි
+
+*2025-07-30 17:04:35* · [`adalk`](https://www.ada.lk/breaking_news/පේරාදෙණිය-උමං-මාර්ගය-භාවිතා-කිරීම-ලබන-1දා-සිට-අනිවාර්යයි/11-417619) · `si`
+
+පේරාදෙණිය රෝහල ආසන්නයේ ප්‍රධාන මාර්ගයේ ඉදි කර ඇති උමං මාර්ගය භාවිතා කිරීම  අගෝස්තු මාසයේ පළමු වනදා  සිට අනිවාර්ය කිරීමට මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුව තීරණය කළේය.
+
+ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය  වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා විසින් ඉදිරිපත් කළ යෝජනාවට කමිටුවේ අනුමැතිය හිමි විය.
+
+කෘෂිකර්ම පශු සම්පත්  ඉඩම් සහ වාරිමාර්ග අමාත්‍ය කේ.ඩි.ලාල්කාන්ත මහතාගේ ප්‍රධානත්වයෙන් සහ සම්බන්ධිකරණ කමිටුවේ සම සභාපති මධ්‍යම පළාත් ආණ්ඩුකාර මහාචාර්ය සරත් අබේකෝන් මහතා  ඇතුළු  නියෝජ්‍ය අමාත්‍යවරුන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ රාජ්‍ය නිලධාරින්ගේ සහභාගිත්වයෙන් මෙම  සම්බන්ධිකරණ කමිටු රැස්වීම පැවැත්විණ.
+
+මෙහිදි ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා සඳහන් කළේ   පේරාදෙණිය රෝහල අසල මහාමාර්ගය මාරු වීමට ඉදි කර ඇති උමං මාර්ගය ජනතාව භාවිතා  නොකර පාර මාරු වීමට මහාමාර්ගය භාවිතා කිරීම නිසා විශාල තදබදයක් මෙන්ම අනතුරුදායක තත්වයක්ද උදා වී ඇති බවයි. ඒ නිසා මෙම  උමං මාර්ගය භාවිතා කිරීම අනිවාර්ය කළ යුතු බවත් එය අගෝස්තු පළමු වනදා සිට ක්‍රියාත්මක විය කළ බවත් ය.
+
+...
+
+[Data](articles/a82ffe6e.json)
 
 ---
 
@@ -1775,47 +1811,5 @@ The raid was carried out by a team of officers, including the Director of the CC
 ◼️
 
 [Data](articles/d48b5d26.json)
-
----
-
-### Japan issues evacuation advisory for 1.9 million people as waves hit near Tokyo
-
-*2025-07-30 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110997/japan-issues-evacuation-advisory-for-19-million-people-as-waves-hit-near-tokyo) · `en`
-
-More than 1.9 million people across Japan have been urged to move to safer ground, as tsunami waves hit various parts of the coast and transport is disrupted nationwide – though the waves remain much smaller than previously forecast.
-
-The Fire and Disaster Management Agency has issued localised evacuation orders affecting 1,905,596 people across 21 prefectures, the largest numbers of evacuees coming from Hokkaido, Kanagawa and Wakayama prefectures.
-
-The first waves hit Japan’s northernmost island of Hokkaido, where video shared by Reuters and the Nippon News Network showed people taking shelter on a roof. Tsunami sirens could be heard blaring through parts of the island on Wednesday morning.
-
-...
-
-[Data](articles/6370b476.json)
-
----
-
-### භූකම්පනයෙන් තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම් - ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයට බලපෑමක් නෑ
-
-*2025-07-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212816) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් අමෙරිකාවට අයත් හවායි දූපත් සහ ඇලෙස්කා කලාපවලට ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
-
-සමස්ත හවායි දිවයිනටම සුනාමි බලපෑම් එල්ලවීමේ අවදානම හේතුවෙන් වෙරළාසන්න කලාප මඟහැර ජනතාව උස් බිම් වෙත යොමු කෙරුණි.
-
-මීට අමතරව චීනයට, පේරු රාජ්‍යයට සහ ඉක්වදෝරයට ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කර ඇත.
-
-බටහිර අමෙරිකානු වෙරළතීරයට මෙන්ම අමෙරිකාවට අයත් ගුවාම් සහ මයික්‍රොනීසියාවෙ හි ඇතැම් දූපත්වලට ද සුනාමි බලපෑම් එල්ලවනු ඇතැයි අපේක්ෂිතය.
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ රික්ටර් මාපකයේ ඒකක 8.8ක ප්‍රබලත්වයෙන් යුතු කම්චැට්කා භූකම්පනය, ඉතිහාසයට එක්වන්නේ ලොව එතෙක් මෙතෙක් බලපෑ හයවැනියට ප්‍රබලතම භූකම්පනය ලෙසය.
-
-භූකම්පනය හේතුවෙන් කම්චැට්කා අර්ධද්වීපට අඩි 13ක් උස සුනාමි රළක් ද ඇති වුණි.
-
-මේ අතර ජපානයට බලපෑ සුනාමි තත්ත්වය හේතුවෙන් ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයට මේ දක්වා කිසිදු බලපෑමක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-බලාගාරයේ අධීක්ෂණ කටයුතු සිදුකරන එරට රජයට අයත් ටෝකියෝ විදුලිබල සමාගම හෙවත් ටෙප්පෝ සමාගම ප්‍රකාශ කර ඇත්තේ, සියලු කාර්ය මණ්ඩලය මේ වනවිට ඉන් ඉවත්කර ඇති බවය.
-
-...
-
-[Data](articles/44599fd6.json)
 
 ---

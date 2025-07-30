@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 16:48:09**
+As of **2025-07-30 17:11:32**
 
 ## Newspaper Stats
 
-*Scraped **67,749** Articles*
+*Scraped **67,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,511
-adaderanalk | 8,363
-tamilmirrorlk | 9,822
+adalk | 6,512
+adaderanalk | 8,366
+tamilmirrorlk | 9,823
 virakesarilk | 11,282
-adaderanasinhalalk | 11,657
+adaderanasinhalalk | 11,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.5%) of 67,749 articles have been extended.
+61,973 (91.5%) of 67,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### වත්මන් යුද හමුදාපතිවරයාට සේවා දිගුවක්
+
+*2025-07-30 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212840) · `si`
+
+වත්මන් යුද හමුදාපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතාට වසරක සේවා දිගුවක් ලබා දී තිබේ.
+
+අගෝස්තු මස පළමු වැනිදා සිට ක්‍රියාත්මක වන පරිදි ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අදාල සේවා දිගුව ලබා දී ඇත.
+
+ශ්‍රී ලංකා කාලතුවක්කු හමුදාව නියෝජනය කරන වත්මන් යුද හමුදාපතිවරයා පසුගිය වසරේ දෙසැම්බර් 31 වන දින සිට ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා යුද හමුදාවේ 25 වැනි යුද හමුදාපතිවරයා ලෙස එම ධුරයේ රාජකාරී ආරම්භ කළේය.
+
+යුද හමුදාපති ධුරයේ රාජකාරී භාර ගැනීමට ප්‍රථම ඔහු ශ්‍රී ලංකා යුද හමුදාවේ නියෝජ්‍ය මාණ්ඩලික ප්‍රධානී ධුරය හෙඹවීය.
+
+කොළඹ ශාන්ත බෙනඩික් විද්‍යාලයේ ආදී ශිෂ්‍යයෙකු වන ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා වර්ෂ 1989  ජනවාරී මස 20 වැනිදා කැඩෙඩ් නිලධාරියෙකු ලෙස යුද හමුදාවට එක්විය.
+
+◼️
+
+[Data](articles/4d56ddf9.json)
+
+---
+
+### இந்தியாவுடனான ஒப்பந்தம்: இரத்து செய்யக்கோரி மனு
+
+*2025-07-30 16:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுடனான-ஒப்பந்தம்-இரத்து-செய்யக்கோரி-மனு/175-362058) · `ta`
+
+இலங்கை குடிமக்களுக்கு டிஜிட்டல் அடையாள அட்டைகளை வழங்கும் திட்டத்தை செயல்படுத்துவதற்காக இந்தியாவுடன் இலங்கை அரசு கையெழுத்திட்ட புரிந்துணர்வு ஒப்பந்தத்தை (MoU) செல்லாததாக்க உத்தரவிடக் கோரி உயர் நீதிமன்றத்தில் அடிப்படை உரிமைகள் மனு தாக்கல் செய்யப்பட்டுள்ளது.
+
+சமூக ஆர்வலர் அமானி ரிஷாத் ஹமீத் இந்த மனுவை தாக்கல் செய்துள்ளார். ஜனாதிபதி, பிரதமர் ஹரிணி அமரசூரிய மற்றும் டிஜிட்டல் பொருளாதார அமைச்சர் உள்ளிட்ட அமைச்சரவை உறுப்பினர்கள் பிரதிவாதிகளாக பெயரிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7bd27d4b.json)
+
+---
 
 ### ලාංකිකයන්ට මාලදිවයිනෙන් දින 90ක On-Arrival සංචාරක වීසා
 
@@ -52,6 +86,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න යළි රිමාන්ඩ්
+
+*2025-07-30 16:28:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නාවික-හමුදාපති-නිශාන්ත-උළුගේතැන්න-යළි-රිමාන්ඩ්/11-417616) · `si`
+
+අත්අඩංගුවට ගත් හිටපු නාවික හමුදාපති විශ්‍රාමික අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතා ලබන 13 වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඔහුව පසුගියදා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු අද(30දා) දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+◼️
+
+[Data](articles/fd859f60.json)
+
+---
+
 ### WhatsApp  மோசடிகள்; பொதுமக்கள் அவதானம்
 
 *2025-07-30 16:26:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WhatsApp-மோசடிகள்-பொதுமக்கள்-அவதானம்/175-362056) · `ta`
@@ -67,6 +115,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cb0f06a6.json)
+
+---
+
+### Maldives grants free 90-day on-arrival tourist visas to Sri Lankans
+
+*2025-07-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111016/maldives-to-grant-free-90-day-on-arrival-tourist-visas-to-sri-lankans) · `en`
+
+The Government of the Maldives has announced that Sri Lankan citizens will be granted free 90-day on-arrival tourist visas for travel to the Maldives for tourism purposes.
+
+This decision coincides with the official visit of Sri Lankan President Anura Kumara Dissanayake to the Maldives, according to the President’s Media Division (PMD).
+
+This visa facility will take effect from 29 July 2025. To obtain the visa, Sri Lankan travellers must hold a valid passport and provide proof of sufficient funds to cover their expenses during their stay in the Maldives.
+
+According to the Maldivian authorities, this initiative is being offered in the spirit of mutual cooperation between the two nations. It is subject to the terms of the Agreement on the Provision of Visa Facilitation between the Government of the Maldives and the Government of Sri Lanka, as well as the immigration laws and regulations of the Maldives.
+
+...
+
+[Data](articles/442b4fc9.json)
 
 ---
 
@@ -104,6 +170,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka and Switzerland strengthen migration partnership at third expert meeting
+
+*2025-07-30 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111015/sri-lanka-and-switzerland-strengthen-migration-partnership-at-third-expert-meeting) · `en`
+
+The third meeting of experts on the Migration Partnership between Sri Lanka and Switzerland was held in Bern on Tuesday (July 29).
+
+Sugeeshwara Gunaratna, Director General for Europe and North America at the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and Ambassador Hendrick Krauskopf, Director of International Affairs at the State Secretariat for Migration of the Swiss Federal Department of Justice and Police, co-chaired the meeting.
+
+The meeting reviewed the progress made under the Migration Partnership since its launch in 2016 and discussed the future trajectory of the partnership after the formal handover of the bilateral Safe Labour Migration Program (SLMP) to the Government of Sri Lanka last year, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
+
+This programme was funded by Switzerland and underscores the commitment to institutionalizing sustainable frameworks for the protection and welfare of Sri Lankan migrant workers.
+
+...
+
+[Data](articles/b88b1a3c.json)
+
+---
+
 ### சம்பூரில் மனித எச்சங்கள் வழக்கு ; விசேட மாநாடு 06ஆம் திகதி
 
 *2025-07-30 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221381) · `ta`
@@ -122,13 +206,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212836) · `si`
 
-අත්අඩංගුවට ගනු ලැබූ හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න මහතා එළැඹෙන 13 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු නාවික හමුදාපති (විශ්‍රාමික) අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතාව යළිත් එළැඹෙන අගෝස්තු මස 13 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
 
-නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැර ගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව හිටපු නාවික හමුදාපතිවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගැනුණි.
+නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැර ගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව හිටපු නාවික හමුදාපතිවරයාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පසු ගිය 28වනදා අත්අඩංගුවට ගැනුණි.
+
+ඒ අනුව, හිටපු නාවික හමුදාපතිවරයාව එදින පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී මහෙස්ත්‍රාත්වරයා නියෝග කළේ සැකකරු අද දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසය.
 
 ◼️
 
 [Data](articles/f8e928e5.json)
+
+---
+
+### Ex-Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-07-30 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111014/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded, said Ada Derana reporter.
+
+He has been remanded until August 13 by the Polgahawela Magistrate’s Court.
+
+The former Navy Commander was arrested by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/6dd481f6.json)
 
 ---
 
@@ -1705,113 +1807,5 @@ The first tsunami wave hit the coastal area of Severo-Kurilsk, the main settleme
 ...
 
 [Data](articles/0304ed8a.json)
-
----
-
-### வடக்கில் இடியுடன் கூடிய மழை பெய்யும்
-
-*2025-07-30 09:16:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-362018) · `ta`
-
-எதிர்வரும் சில நாட்களில் வடக்கு, வடமத்திய, ஊவா மற்றும் கிழக்கு மாகாணங்களில் மாலை வேளையில் இடியுடன் கூடிய மழை பெய்ய சாதகமான வளிமண்டல நிலைமைகள் உருவாகி வருவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-வடமத்திய, மத்திய, ஊவா மற்றும் கிழக்கு மாகாணங்களில் பிற்பகல் 1.00 மணிக்குப் பிறகு மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என்று அந்த திணைக்களம் வெளியிட்டுள்ள வானிலை முன்னறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
-
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவு மழை பெய்யக்கூடும்.
-
-தென் மாகாணத்தில் அவ்வப்போது மணிக்கு 40 கி.மீ வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும்.
-
-இடியுடன் கூடிய மழையுடன் ஏற்படும் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படும் ஆபத்துகளைக் குறைப்பதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொதுமக்களை அறிவுறுத்தியுள்ளது. R
-
-◼️
-
-[Data](articles/e3806cb5.json)
-
----
-
-### වැඩිහිටි දීමනාව අද බැංකුවලට
-
-*2025-07-30 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212811) · `si`
-
-ජූලි මාසය සඳහා වූ වැඩිහිටි දීමනාව අද (30) දිනයේ අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධන ප්‍රතිලාභ මණ්ඩලය දැනුම්දී තිබේ.
-
-ඒ අනුව රු 3,003,840,000ක මුදලක් ප්‍රතිලාභීන් 600,768ක් අතරේ බෙදාහැරීමට නියමිතය.
-
-අදාළ ප්‍රතිලාභීන්ට හෙට දින සිට තමාට හිමි මුදල අස්වැසුම ප්‍රතිලාභී ගිණුමෙන් ලබාගත හැකිය.
-
-◼️
-
-[Data](articles/134e1961.json)
-
----
-
-### First tsunami waves hit northern Japan
-
-*2025-07-30 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/110990/first-tsunami-waves-hit-northern-japan) · `en`
-
-The first tsunami from a huge earthquake off Russia’s far east that sparked warnings around the Pacific was observed in northern Japan, measuring around 30 centimeters (one foot), broadcaster NHK reported.
-
-The wave hit the main northern island of Hokkaido, with NHK warning that subsequent waves could be much higher.
-
-Japan’s weather agency said earlier that waves of up to three meters were expected all the way down the northern and eastern coasts of Japan, as far as Wakayama south of Osaka.
-
-Japan’s Fire and Disaster Management Agency said no injuries or damages have been reported so far, the AP reports.
-
-The agency has issued an evacuation advisory to more than 900,000 people in 133 municipalities along the Japanese coastline, stretching from Hokkaido to Okinawa. It’s unclear how many people actually took shelter.
-
-◼️
-
-[Data](articles/4bd3e4f6.json)
-
----
-
-### இந்தியப் பெருங்கடலுக்கு சுனாமி அச்சுறுத்தல் இல்லை
-
-*2025-07-30 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221332) · `ta`
-
-ரஷ்யாவின் தூர கிழக்கு பிராந்தியமான கம்சட்காவில் 8.8 ரிச்டர் அளவில் சக்திவாய்ந்த பூகம்பம் ஏற்பட்டுள்ளது.
-
-இதனை தொடர்ந்து  ஜப்பான் மற்றும் அமெரிக்காவின் சில பகுதிகளை சுனாமி தாக்கலாம் என்ற எச்சரிக்கை விடுக்கப்பட்டது.
-
-அதேவேளை, இந்திய பெருங்கடலுக்கு சுனாமி அச்சுறுத்தல் இல்லை என இந்தோனேசியாவில் உள்ள அதன் சுனாமி சேவை வழங்குநர் (InaTEWS-BMKG) ஊடாக இந்தியப் பெருங்கடல் சுனாமி எச்சரிக்கை மற்றும் தணிப்பு அமைப்பு (IOTWS) உறுதிப்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/249be4a6.json)
-
----
-
-### මන්ත්‍රී රෝහිතගේ දියණිය පොලීසියට භාරවෙයි
-
-*2025-07-30 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212810) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය නීතිඥවරයෙකුගේ මාර්ගයෙන් අද (30) උදෑසන වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය වෙත භාරවී තිබේ.
-
-ව්‍යාජ දත්ත ඇතුළත්කොට ලියාපදිංචි කරන ලද ජීප් රථයක් පිළිබඳ වැඩබලන පොලිස්පතිවරයාට ලද තොරතුරකට අනුව වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය මීට මාස 4කට පමණ ඉහත සිට විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-එම රථය මතුගම නගරයේ ධාවනය කරමින් ඇති බවට ලද තොරතුරකට අනුව පසුගිය ජූලි 19 වෙනිදා පස්වරුවේ එම ප්‍රදේශයේ විශේෂ මෙහෙයුමක් ආරම්භ කළ වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය අදාළ ජීප් රථය සමග එය පැදවූ සැකකරු අත්අඩංගුවට ගනු ලැබීය.
-
-මෙලෙස අත්අඩංගුවට ගනු ලැබුවේ සමගි ජන බලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් විතාන මහතාගේ පුත්‍රයා වන රසික විතාන මහතා වන අතර ඔහු මේ වනවිට ඇප මත මුදාහැර තිබේ.
-
-අදාළ ජීප් රථය සම්බන්ධයෙන් සිදුකළ පරීක්ෂා කිරීමේදී අනාවරණ වී ඇත්තේ, එය නීතිවිරෝධී අයුරින් මෙරටට ගෙන්වා ව්‍යාජ දත්ත ඉදිරිපත් කර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කර ඇති බවය.
-
-...
-
-[Data](articles/44c5a4f2.json)
-
----
-
-### ஜப்பானை தாக்கியது சுனாமி
-
-*2025-07-30 08:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானை-தாக்கியது-சுனாமி/50-362017) · `ta`
-
-ரஷ்யாவில் ஏற்பட்ட சக்தி வாய்ந்த நில அதிர்வின் காரணமாக, ஜப்பானின் ஹொக்கைடோ பகுதியை சுனாமி தாக்கியுள்ளது.
-
-அந்நாட்டு நேரப்படி, முற்பகல் 10.30 மணிக்கு சுனாமி தாக்கியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-இதேவேளை, ஜப்பானில் ஏற்பட்ட சுனாமி காரணமாக ரயில் சேவைகள் தடைப்பட்டுள்ளதாக ஜப்பானிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/20bea784.json)
 
 ---

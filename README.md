@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 22:07:51**
+As of **2025-07-30 22:23:50**
 
 ## Newspaper Stats
 
-*Scraped **67,781** Articles*
+*Scraped **67,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,519
-adaderanalk | 8,368
+adaderanalk | 8,372
 tamilmirrorlk | 9,832
 virakesarilk | 11,283
 adaderanasinhalalk | 11,665
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,781 articles have been extended.
+61,973 (91.4%) of 67,785 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,24 @@ YouTube අවකාශය තුළ ග්‍රාහකයින් (subscrib
 ...
 
 [Data](articles/78bfdcda.json)
+
+---
+
+### Approval granted for registration of 1,000 new substitute postal assistants
+
+*2025-07-30 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111021/approval-granted-for-registration-of-1000-new-substitute-postal-assistants) · `en`
+
+Minister of Health and Mass Media Dr. Nalinda Jayatissa says that approval has been granted to make the services of 1,000 currently registered substitute postal assistants permanent and to recruit and register an additional 1,000 new substitute postal assistants.
+
+The Minister also mentioned that efforts are underway to tackle ongoing issues, such as staffing shortages and transportation challenges, within the Department of Posts.
+
+Minister Dr. Nalinda Jayatissa expressed these views during an inspection of the services at the Central Mail Exchange under the Sri Lanka Department of Posts.
+
+Following the inspection, the Minister engaged in discussions with the officers and staff of the Central Mail Exchange regarding current activities, future plans, and existing challenges.
+
+◼️
+
+[Data](articles/6798cca6.json)
 
 ---
 
@@ -208,6 +226,28 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 
 ---
 
+### Over 122,000 arrested for drug offenses since January
+
+*2025-07-30 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111020/over-122000-arrested-for-drug-offenses-since-january) · `en`
+
+The Ministry of Public Security and Parliamentary Affairs has revealed that a total of 122,913 individuals have been arrested for drug-related offenses between January 01 and July 29, 2025.
+
+In a statement issued by the ministry, it was noted that, during this period, authorities have seized 928,787 kilograms of heroin, 1,396,709 kilograms of crystal methamphetamine (commonly known as ICE), 11,192,823 kilograms of cannabis, 27,836 kilograms of cocaine, and 381,428 kilograms of hashish.
+
+Meanwhile, a special island-wide operation was conducted yesterday (July 29), by the Sri Lanka Police, the Police Special Task Force (STF), and the Tri-Forces.
+
+A total of 6,695 personnel have participated in the operation, including police officers, STF members, and Tri-Forces personnel.
+
+As part of the operation, 10,128 vehicles and 7,734 motorcycles were searched.
+
+During the search, 948 individuals were arrested for drug-related offenses, and 13 people directly involved in these crimes were also apprehended.
+
+◼️
+
+[Data](articles/cfa8a2ad.json)
+
+---
+
 ### தர்மச் சக்கர விவகாரம்: மஸாஹிமாவுக்கு நீதி கிடைத்தது
 
 *2025-07-30 18:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தர்மச்-சக்கர-விவகாரம்-மஸாஹிமாவுக்கு-நீதி-கிடைத்தது/175-362065) · `ta`
@@ -225,6 +265,24 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 ...
 
 [Data](articles/f1be1aeb.json)
+
+---
+
+### Trump announces 25% tariff on India and ‘penalty’ for trading with Russia
+
+*2025-07-30 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111019/trump-announces-25-tariff-on-india-and-penalty-for-trading-with-russia) · `en`
+
+With just a day left for the August 1 deadline set by the Donald Trump administration to wrap up agreements with its trading partners, the American President on Wednesday announced 25 percent tariffs “plus a penalty” for India.
+
+In a post on his platform Truth Social, Trump said India’s own protectionist policies over the years had meant America had “done relatively little business with them”.
+
+“Also, they have always bought a vast majority of their military equipment from Russia, and are Russia’s largest buyer of ENERGY, along with China, at a time when everyone wants Russia to STOP THE KILLING IN UKRAINE — ALL THINGS NOT GOOD!” he wrote.
+
+However, he did not clarify what exactly the “penalty” would entail beyond the newly announced 25 per cent tariff.
+
+...
+
+[Data](articles/ba9829e7.json)
 
 ---
 
@@ -279,6 +337,22 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 ◼️
 
 [Data](articles/624f7a03.json)
+
+---
+
+### UK rejects criticism that move to recognise Palestinian state rewards Hamas
+
+*2025-07-30 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111018/uk-rejects-criticism-that-move-to-recognise-palestinian-state-rewards-hamas) · `en`
+
+Britain rejected Israeli criticism on Wednesday that it was rewarding militant group Hamas by setting out plans to recognise a Palestinian state unless Israel took steps to improve the situation in Gaza and bring about peace.
+
+Prime Minister Keir Starmer’s ultimatum, setting a September deadline, prompted an immediate rebuke from Israel’s Benjamin Netanyahu, who said it rewarded Hamas and punished the victims of the fighters’ 2023 attack that triggered the war. U.S. President Donald Trump also said he did not think Hamas “should be rewarded” with recognition of Palestinian independence.
+
+But British Transport Minister Heidi Alexander - designated by the government to respond to media questions on Wednesday - said: “This is not a reward for Hamas.
+
+...
+
+[Data](articles/521c72df.json)
 
 ---
 
@@ -1755,69 +1829,5 @@ The primary objective of establishing this commission is to facilitate collabora
 ...
 
 [Data](articles/1f7f9209.json)
-
----
-
-### විෂ මත්ද්‍රව්‍ය ජාලයන් ආරක්ෂා කිරීමට රජය කිසිම දේශපාලන මැදිහත්වීමක් කරන්නේ නෑ
-
-*2025-07-30 11:14:01* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-මත්ද්‍රව්‍ය-ජාලයන්-ආරක්ෂා-කිරීමට-රජය-කිසිම-දේශපාලන-මැදිහත්වීමක්-කරන්නේ-නෑ/11-417604) · `si`
-
-විෂ මත්ද්‍රව්‍ය  ප්‍රචලිත කිරීමට හෝ එම ජාලයන් ආරක්ෂා කිරීමට වත්මන් රජය යටතේ කිසිදු දේශපාල මැදිහත්වීමක් සිදු නොවන බැවින් මෙරටින් විෂ මත්ද්‍රව්‍ය තුරන් කිරීමට නොබියව එක්වන ලෙස සියලු පාර්ශවයන්ගෙන් ඉල්ලීමක් කරන බව වෙළඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
-
-ඒ මහතා මේ බව කියා සිටියේ විෂ මත්ද්‍රව්‍ය මෙරටින් තුරන් කිරීම සඳහා විශේෂ කමිටු පිහිටුවීමේ දීප ව්‍යාප්ත මත්ද්‍රව්‍ය නිවාරණ වැඩ සටහනේ අනුරාධපුර දිස්ත්‍රික් වැඩ සටහනට එක්වෙමින්ය.
-
-එම මත්ද්‍රව්‍ය නිවාරණ දීප ව්‍යාප්ත විශේෂ කමිටු පිහිටුවීම පෙරේදා (29දා) දින අනුරාධපුර දිස්ත්‍රික්කයෙන් ආරම්භ වූ අතර එය උතුරු මැද පළාත් ආණ්ඩුකාර වසන්ත ජිනදාස මහතාගේ ප්‍රධානත්වයෙන් උතුරු මැද පළාත් සභා ශ්‍රවණාගාරයේදී සිදුවිය.
-
-විෂ මත්ද්‍රව්‍ය තුරන් කිරීම ප්‍රථමයෙන් පාසල් දරුවන් ඉලක්ක කර ගනිමින් ආරම්භ කිරීම සඳහා මෙහිදී අවධානය යොමු වූ අතර ඒ සදහා දරුවන් දැනුවත් කිරීමේ වැඩසටහන් මෙන්ම තවත් අදියරක් ලෙස නගර සහ ග්‍රාමීය මට්ටමින් ජනතාව දැනුවත් කිරීමට විශේෂ කමිටු පිහිටුවීමට නියමිතය.
-
-...
-
-[Data](articles/688b25e5.json)
-
----
-
-### කුරුළු උයනේ හිමිකරුට ඇප
-
-*2025-07-30 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212817) · `si`
-
-කුරුළු උද්‍යාන ගබඩාවේ රුපියල් මිලියන 250ක් වටිනා අධි ධාරිතාවකින් යුත් යතුරුපැදි ගබඩා කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් එහි හිමිකරු ඇප මත මුදාහැර තිබේ.
-
-ඒ අනුව රුපියල් ලක්ෂ දෙක බැගින් වූ ශරීර ඇප දෙකක් මත මෙම පුද්ගලයා මුදාහැර තිබේ.
-
-◼️
-
-[Data](articles/792a9a4c.json)
-
----
-
-### 2 நாட்களில்  இருளில் மூழ்க போகும் பூமி
-
-*2025-07-30 11:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/2-நாட்களில்-இருளில்-மூழ்க-போகும்-பூமி/57-362031) · `ta`
-
-21ம் நூற்றாண்டின் நீளமான சூரிய கிரகணம் 2025 ஆகஸ்ட் 2ம் திகதி நிகழ்கிறது. 2025 ஆகஸ்ட் 2-ஆம் திகதி நிகழவிருக்கும் மிக நீண்ட சூரிய கிரகணம் ஒரு குறிப்பிடத்தக்க நிகழ்வாகும். ஸ்பெயின், எகிப்து மற்றும் சவுதி அரேபியா போன்ற நாடுகளில் இது முழுமையாக தெரியும் என எதிர்பார்க்கப்படுகிறது.
-
-வழக்கமான கிரகணங்கள் சில நிமிடங்களில் முடிவடையும் நிலையில், இந்த நிகழ்வு சுமார் 6 நிமிடங்கள் 23 வினாடிகள் வரை நீடிக்கும். ஐரோப்பா, வட ஆப்பிரிக்கா, மற்றும் மத்திய கிழக்கு நாடுகளில் இந்த சூரிய கிரகணம் தெளிவாகத் தெரியும். சில பகுதிகளில் ஆறு நிமிடங்களுக்கு மேல் இருள் சூழ்ந்திருக்கும். இது ஒரு முக்கியமான வானியல் நிகழ்வாகும். இந்தியா முழுவதும் மாலை 4 மணி முதல் 6 மணி வரை கிரகணம் தெரியும்.
-
-இந்தக் கிரகணத்தின்போது சூரியனின் ஒளிவட்டத்தை நீண்ட நேரம் காண முடியும். ஆசியா மற்றும் அமெரிக்காவின் சில பகுதிகளில் இது முழுமையாகத் தெரியாது. எனினும், இந்தியாவின் மேற்குப் பகுதிகளில் ஓரளவு தெரியும்.
-
-...
-
-[Data](articles/ee2d2163.json)
-
----
-
-### ஜயவர்தனபுர பொது வைத்தியசாலைக்கு புதிய தவிசாளர் நியமனம்
-
-*2025-07-30 11:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜயவர்தனபுர-பொது-வைத்தியசாலைக்கு-புதிய-தவிசாளர்-நியமனம்/175-362030) · `ta`
-
-வைத்தியர் ஜயங்க திலகரட்ன பதவி விலகியதையடுத்து ஸ்ரீ ஜயவர்தனபுர பொது வைத்தியசாலையின் புதிய தவிசாளராக, வைத்தியர் தாமர களுபோவில நியமிக்கப்பட்டுள்ளதாக வட்டாரங்கள் உறுதிப்படுத்தியுள்ளன.
-
-வைத்தியர் திலகரத்ன தனது ராஜினாமாவை சுகாதார அமைச்சரிடம் சமர்ப்பித்தார், மேலும் அவருக்கு அடுத்தபடியாக வைத்தியர் கலுபோவிலவை அமைச்சகம் உத்தியோகபூர்வமாக அங்கீகரித்துள்ளது.
-
-வைத்தியர் களுபோவில தற்போது தேசிய சுகாதார அறிவியல் நிறுவனத்தின் (NIHS) பணிப்பாளராக பணியாற்றுகிறார்.
-
-◼️
-
-[Data](articles/e050b9fd.json)
 
 ---

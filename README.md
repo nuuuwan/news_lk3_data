@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 19:49:56**
+As of **2025-07-30 20:06:15**
 
 ## Newspaper Stats
 
-*Scraped **67,773** Articles*
+*Scraped **67,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,135
 islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
-adalk | 6,516
+adalk | 6,517
 adaderanalk | 8,368
-tamilmirrorlk | 9,830
+tamilmirrorlk | 9,831
 virakesarilk | 11,283
 adaderanasinhalalk | 11,662
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,773 articles have been extended.
+61,973 (91.4%) of 67,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### சங்கிலி அறுத்த சம்பவத்தில் படுகாயமடைந்த வயோதிப பெண் பலி
+
+*2025-07-30 19:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சங்கிலி-அறுத்த-சம்பவத்தில்-படுகாயமடைந்த-வயோதிப-பெண்-பலி/73-362072) · `ta`
+
+மட்டக்களப்பில் கழுத்தில் இருந்து தங்க சங்கிலியை கொள்ளையர்கள் அறுத்த சம்பவத்தில் படுகாயமடைந்த வயோதிப பெண் சிகிச்சை பலன் இன்று உயிரிழப்பு
+
+மட்டக்களப்பு நகரில் வீட்டின் முன் வீதியை துப்பரவு செய்து கொண்டிருந்த வயோதிப பெண் ஒருவரின் கழுத்தில் இருந்த தங்க சங்கிலியை அறுத்தெடுத்து அவரை வீதியில் தள்ளி வீழ்த்திவிட்டு மோட்டார் சைக்கிளில் தப்பி சென்ற சம்பவத்தில் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட வயோதிப பெண் சிகிச்சை பலனின்றி இன்று புதன்கிழமை (30) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மட்டக்களப்பு நகர் நல்லையா வீதியைச் சேர்ந்த 81 வயதுடைய மகேஸ்வரி சரவணமுத்து என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+கடந்த 24ம் திகதி காலை 6.30 மணிக்கு குறித்த வயோதிப பெண் தனது வீட்டின் முன்னால் உள்ள வீதியை துப்பரவு செய்து கொண்டிருந்தார். அப்போது அங்கு மோட்டார் சைக்கிள் ஒன்றில் வந்த இருவர் பெண்ணின் கழுத்தில் இருந்த சுமார் 3 இலச்சம் ரூபா பெறுமதியான தங்க சங்கிலியை அறுத்தொடுத்து கொண்டு அவரை வீதியில் தள்ளி வீழ்த்தி விட்டு தப்பி ஓடியுள்ளனர்.
+
+...
+
+[Data](articles/9546b078.json)
+
+---
 
 ### රුසියාවට බලපෑ සුනාමියෙන් කිසිදු ජීවිත හානියක් සිදුව නැහැ
 
@@ -44,9 +62,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 අර්ධද්වීපයේ දකුණු කෙළවරේ පිහිටා ඇති සෙවෙරෝ-කුරිල්ස්කි දිස්ත්‍රික්කය ද සුනාමි අනතුරු ඇඟවීම් ඉවත් කළ බව සඳහන් වේ.
 
-මේ අතර, රුසියාවේ සකාලින් කලාපයේ ආණ්ඩුකාර වැලරි ලිමරෙන්කෝ නිවේදනය කළේ, රුසියාවේ ඈත පෙරදිග අර්ධද්වීපයට දකුණින් පිහිටි ගිනිකඳු දූපත් සමූහයක් වන උතුරු කුරිල් දූපත්වලට තවදුරටත් සුනාමි තර්ජනයක් නොමැති බවය.
+මේ අතර, රුසියාවේ සකාලින් කලාපයේ ආණ්ඩුකාර වැලරි ලිමරෙන්කෝ නිවේදනය කළේ, රුසියාවේ පෙරදිග අර්ධද්වීපයට දකුණින් පිහිටි ගිනිකඳු දූපත් සමූහයක් වන උතුරු කුරිල් දූපත්වලට ද තවදුරටත් සුනාමි තර්ජනයක් නොමැති බවය.
 
-එමෙන්ම තත්ත්වය ස්ථාවර වෙමින් පවතින අතර සියලුම හදිසි සේවාවන් සූදානමින් පවතින බව ඔහු වැඩිදුරටත් පැවසුවේය.
+එමෙන්ම මේ වන විට තත්ත්වය ස්ථාවර වෙමින් පවතින බවත් අවදානම පහව ගියද සියලුම හදිසි සේවාවන්  තවදුරටත් සූදානමින් පවතින බවත් ඔහු වැඩිදුරටත් පැවසුවේය.
 
 ◼️
 
@@ -289,6 +307,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4d56ddf9.json)
+
+---
+
+### වට්ස්ඇප් හරහා සිදුකරන මුදල් වංචා ඉහළට
+
+*2025-07-30 16:46:58* · [`adalk`](https://www.ada.lk/breaking_news/වට්ස්ඇප්-හරහා-සිදුකරන-මුදල්-වංචා-ඉහළට/11-417618) · `si`
+
+වට්ස් ඇප් ගිණුම් අනවසර ප්‍රවිශ්ඨයකට ලක්කර මුදල් වංචා කිරීම් සම්බන්ධයෙන් පැමිණිලි විශාල සංඛ්‍යාවක් මේ දින වල වාර්තා වන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සඳහන් කරයි. වට්ස් ඇප් මෘදුකාංගය මගින් ව්‍යාජ ඇමතුම් හා කෙටි පණිවිඩ යොමුකර මෙම මුදල් වංචා සිදුකරන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/489196bf.json)
 
 ---
 
@@ -1783,37 +1813,5 @@ The first waves hit Japan’s northernmost island of Hokkaido, where video share
 ...
 
 [Data](articles/dedc3dde.json)
-
----
-
-### July allowance for elders to be credited to bank accounts today
-
-*2025-07-30 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/110996/july-allowance-for-elders-to-be-credited-to-bank-accounts-today) · `en`
-
-The monthly allowance designated for elderly individuals aged over 70, enrolled in the welfare benefit program, will be credited to their respective bank accounts today (30), the Welfare Benefits Board has announced.
-
-This financial aid is provided to a total of 600,768 eligible individuals under the relief scheme while a total sum of Rs. 3,003,840,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
-
-◼️
-
-[Data](articles/99d50984.json)
-
----
-
-### Tsunami warnings disrupt US West Coast and Hawaii travel, with flights diverted
-
-*2025-07-30 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/110995/tsunami-warnings-disrupt-us-west-coast-and-hawaii-travel-with-flights-diverted) · `en`
-
-Travel disruptions are mounting along the US West Coast and in Hawaii amid tsunami warnings issued across the Pacific after a powerful 8.8 magnitude earthquake struck off Russia’s east coast.
-
-Flights to Honolulu are being disrupted, with diversions, delays and cancellations reported across affected airports, according to FlightRadar24.
-
-Flights from various airlines that departed from Los Angeles, Vancouver, San Francisco and San Diego that were bound for Hawaii were turned back to their destination airports late Tuesday, tracking data shows.
-
-Hawaiian and Alaska Airlines are holding departures to Hawaii, diverting some en route flights, and advising passengers to check flight statuses before heading to the airport.
-
-...
-
-[Data](articles/31f261da.json)
 
 ---

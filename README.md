@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 03:48:16**
+As of **2025-07-31 04:07:24**
 
 ## Newspaper Stats
 
-*Scraped **67,799** Articles*
+*Scraped **67,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,782
+dailyftlk | 4,783
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,832
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,799 articles have been extended.
+61,973 (91.4%) of 67,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Renewable with solar, the way forward
+
+*2025-07-31 03:32:54* · [`dailyftlk`](https://www.ft.lk/columns/Renewable-with-solar-the-way-forward/4-779696) · `en`
+
+The cost of manufacturing solar panels has plummeted dramatically in the last decades, making them an affordable form of electricity
+
+On 16 July, the Prime Minister at the Seventh Meeting of the International Solar Alliance Regional Committee for the Asia and Pacific Region held in Colombo, emphasised on Sri Lanka’s dedication to strengthening regional solar cooperation and achieving energy security through sustainable development.
+
+Apparently, the Prime Minister is more concerned of regional solar corporation, rather than the country’s requirement. This brings again the undisclosed agreement the President signed with India. It is clear that India wishes to connect the two countries with an electrical connection and export electricity to Sri Lanka. It is well known that the production cost of India is lower than Sri Lanka.
+
+...
+
+[Data](articles/173d8924.json)
+
+---
 
 ### Post-July ‘83 JVP, evil Israeli State and US global hegemony
 
@@ -1843,23 +1859,5 @@ The Minister noted that around 2,350 people are killed while 6,000 sustain serio
 ◼️
 
 [Data](articles/77675de9.json)
-
----
-
-### අපරාධ කල්ලි නායකයෙකු ඇතුළු 11ක් අත්අඩංගුවට
-
-*2025-07-30 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212820) · `si`
-
-හලාවත බංගදෙනිය වීරකමණ්දලුව ප්‍රදේශයේ නිවසක් වටලා සිදු කළ හදිසි සෝදිසි මෙහෙයුමක දී කොළඹ සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ඇතුළු 11 දෙනෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (29) පස්වරුවේ මෙම වැටලීම සිදු කර ඇති අතර එම අවස්ථාවේ සංවිධානාත්මක අපරාධ කල්ලි නායකයා නිවසින් පැන ගොස් ඇති බව වාර්තා වේ.
-
-කෙසේ වෙතත් ඔහු ත්‍රීරෝද රථයකින් හලාවත බස් නැවතුම්පොළ බලා ගමන් කරමින් සිටිය දී හලාවත පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අතර කාන්තාවන් තුන්දෙනෙකු හා පිරිමි පුද්ගලයන් 08 දෙනෙකු සිටී.
-
-◼️
-
-[Data](articles/cb925c0c.json)
 
 ---

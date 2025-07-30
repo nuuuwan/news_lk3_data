@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 03:19:15**
+As of **2025-07-31 03:31:40**
 
 ## Newspaper Stats
 
-*Scraped **67,798** Articles*
+*Scraped **67,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,781
+dailyftlk | 4,782
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,832
@@ -26,9 +26,23 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,798 articles have been extended.
+61,973 (91.4%) of 67,799 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-07-31 (Thursday)
+
+### Post-July ‘83 JVP, evil Israeli State and US global hegemony
+
+*2025-07-31 03:12:21* · [`dailyftlk`](https://www.ft.lk/columns/Post-July-83-JVP-evil-Israeli-State-and-US-global-hegemony/4-779695) · `en`
+
+It is only appropriate that Black July 1983 was remembered this month, but the recollection stopped at the ghastly events, their causation and immediate aftermath. The narrative is that sections of the UNP, predominantly those associated with Minister Cyril Mathew and the UNP trade union wing he headed, the JSS, played a key role in the anti-Tamil pogrom. The Jayewardene government then cynically framed the JVP for the violence which it had absolutely nothing to do with and proscribed the party, driving it into clandestinity and rearmament. The interventionist role of India then prompted/provoked the JVP into a massive armed uprising which threatened state power itself. That’s the accepted narrative and is true, but is an incomplete truth.
+
+...
+
+[Data](articles/a6a5aacb.json)
+
+---
 
 ### 2025-07-30 (Wednesday)
 
@@ -1847,25 +1861,5 @@ The Minister noted that around 2,350 people are killed while 6,000 sustain serio
 ◼️
 
 [Data](articles/cb925c0c.json)
-
----
-
-### ඔස්ට්‍රේලියාවේ 16ට අඩු ළමුන් සඳහා YouTube තහනමක්
-
-*2025-07-30 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212819) · `si`
-
-ඔස්ට්‍රේලියාවේ වයස අවුරුදු 16ට අඩු ළමුන් සඳහා ලොව ප්‍රථමවරට සමාජ මාධ්‍ය තහනමට YouTube ඇතුළත් කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-ඔස්ට්‍රේලියානු රජය විසින් මීට පෙර සමාජ මාධ්‍ය වේදිකා කිහිපයක් සඳහා ලබා දී තිබූ නිදහස් කිරීම ඉවත් කිරීමෙන් පසුව මෙම තීරණ ගෙන ඇත.
-
-එමඟින් TikTok, Instagram, Facebook, X සහ Snapchat සීමා කෙරෙන අතර දෙසැම්බර් මාසයේදී ආරම්භ වීමට නියමිතය.
-
-තහනම යටතේ, නව යොවුන් වියේ පසුවන්නන්ට තවමත් යූ ටියුබ් වීඩියෝ නැරඹීමට හැකි වනු ඇති අතර මෙම අන්තර්ගතය උඩුගත කිරීමට හෝ වේදිකාවේ අන්තර් ක්‍රියා කිරීමට අවශ්‍ය ගිණුමක් පවත්වා ගැනීමට අවසර නොමැත.
-
-මෙම තහනම යටතේ, නව යොවුන් වියේ පසුවන්නන්ට තවමත් YouTube වීඩියෝ නැරඹීමට හැකි ඇති අතර YouTube වීඩියෝ උඩුගත කිරීමට හෝ වේදිකාවේ අන්තර් ක්‍රියා කිරීමට අවශ්‍ය වන ගිණුමක් තබාගැනීමට අවසර නොලැබේ.
-
-◼️
-
-[Data](articles/f4f9ceca.json)
 
 ---

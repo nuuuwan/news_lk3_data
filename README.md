@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 22:37:05**
+As of **2025-07-30 22:49:53**
 
 ## Newspaper Stats
 
-*Scraped **67,786** Articles*
+*Scraped **67,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,520
-adaderanalk | 8,372
+adaderanalk | 8,373
 tamilmirrorlk | 9,832
 virakesarilk | 11,283
-adaderanasinhalalk | 11,665
+adaderanasinhalalk | 11,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,786 articles have been extended.
+61,973 (91.4%) of 67,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### මහනුවර ඓතිහාසික දළදා පෙරහර මංගල්‍යය ඇරඹෙයි
+
+*2025-07-30 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212849) · `si`
+
+ශ්‍රී ලාංකේය සංස්කෘතියේ අභිමානය ලොවට පෙන්වන 1715 වැනි ශ්‍රී දළදා පෙරහර මංගල්‍යය අද (30) ආරම්භ විය.
+
+පළමු කුඹල් පෙරහර උතුරු දිසාභිමුඛව වීථි සංචාරය ඇරඹුණේ අද පස්වරු 7.05ට යෙදුණු සුබ මොහොතිනි.
+
+පළමු කුඹල් පෙරහරේ පෙරහර කරඬුව වැඩමකරවීම ශ්‍රී දළදා මාළිගාවේ ඇත්පන්තියේ ඉන්දිරාජා හස්තියා සිදුකළ අතර දෑල ඇතුන් ලෙස බුරුම රාජා සහ කෝට්ටේ රාජා හස්තීන් ගමන් කළේය.
+
+පළමු දිනයේ පෙරහර නැරඹීමට දේශීය සැදැහැවතුන් මෙන්ම විදෙස් සංචාරකයින් ඇතුළු බොහෝ පිරිසක් එක්ව සිටියේය.
+
+ඇසළ පෙරහර මංගල්‍යයේ කුඹල් පෙරහර 5ක් අගෝස්තු 03 වැනිදා දක්වා වීථී සංචාරය කෙරෙන අතර පළමු රන්දෝලි පෙරහර ලබන 04 වනදා වීථී සංචාරය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b05c8365.json)
+
+---
+
+### අන්තර් සමාජ එක්දින ක්‍රිකට් ශූරතාව CCC දිනයි
+
+*2025-07-30 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212848) · `si`
+
+පොලිස් ක්‍රීඩා සමාජය ලකුණු 187ක දැවැන්ත පරාජයකට ලක්කරමින් 'ශ්‍රී ලංකා ක්‍රිකට්' සංවිධානය කළ අන්තර් සමාජ එක්දින ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට කොළඹ ක්‍රිකට් සමාජ (CCC) කණ්ඩායම සමත් විය.
+
+දිවාරාත්‍රී තරගයක් ලෙස කොළඹ CCC ක්‍රීඩාංණයේ පැවැති තරගය මීට සුළු වේලාවකට පෙර අවසන් විය.
+
+අවසන් මහා තරගයේ පළමුව පන්දුවට පහරදුන් CCC කණ්ඩායම පන්දුවාර 50 තුළදී කඩුලු 5ක් පමණක් දැවී ලකුණු 387ක් රැස්කිරීමට සමත් විය.
+
+එහිදී අනර්ඝ ඉනිමක් ගොඩනැගූ පවන් රත්නායක නොදැවී ලකුණු 158ක් රැස්කළේය.
+
+පන්දු 94කින් ගොඩනැගුණු ඔහුගේ ඉනිමට හයේ පහර 9ක් හා හතරේ පහර 13ක් ඇතුළත් විය.
+
+ඊට අමතරව නිශාන් මදුෂ්ක (88), කමිඳු මෙන්ඩිස් (59) හා නායක සොනාල් දිනූෂ (53) අර්ධ ශතක රැස්කරමින් දක්ෂතා දැක්වූහ.
+
+පොලිස් කණ්ඩායම වෙනුවෙන් පන්දු යැවීමේදී චාරුක ප්‍රමෝද් (2/92), චාරුක ජයතිලක (2/65) දක්ෂතා දැක්වූහ.
+
+කෙසේ නමුත් ලකුණු 388ක දැවැන්ත ඉලක්කයක් හඹාගිය පොලිස් කණ්ඩායමට පන්දුවාර 40.2කදී සියලු දෙනා දැවී රැසකළ හැකිවූයේ ලකුණු 200ක් පමණි.
+
+ඉනිමේ වැඩිම ලකුණු ලාභියා වූ ප්‍රියමාල් පෙරේරා ලකුණු 57ක් රැස්කළේය.
+
+...
+
+[Data](articles/072be1b1.json)
+
+---
+
+### Sri Lanka commends Japan’s role in debt relief at 3rd bilateral policy talks
+
+*2025-07-30 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111022/sri-lanka-commends-japans-role-in-debt-relief-at-3rd-bilateral-policy-talks) · `en`
+
+The 3rd Japan–Sri Lanka Policy Dialogue was held today (30) in Colombo at the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+The Dialogue served as a constructive platform for the two countries to exchange views on foreign policy matters and a wide range of bilateral issues, paving the way for enhanced cooperation.
+
+Discussions focused on strengthening economic cooperation, with particular emphasis on shared interests in trade and investment, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+Sri Lanka briefed the Japanese side on its current economic situation and ongoing efforts towards debt sustainability, while conveying deep appreciation for Japan’s significant role as Co-Chair of the Official Creditor Committee (OCC).
+
+The Dialogue also underscored the value of Japanese Official Development Assistance (ODA) and its substantial contribution to Sri Lanka’s socio-economic development.
+
+...
+
+[Data](articles/8494067b.json)
+
+---
 
 ### MrBeast YouTube අතික්‍රමණය කරයි
 
@@ -1775,59 +1843,5 @@ The mayor of Russia’s northern Kuril islands district said Wednesday that “e
 ◼️
 
 [Data](articles/d2d82a52.json)
-
----
-
-### யுனெஸ்கோவிற்கு புதிய அலுவலர் குழு நியமனம்
-
-*2025-07-30 11:21:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுனெஸ்கோவிற்கு-புதிய-அலுவலர்-குழு-நியமனம்/175-362033) · `ta`
-
-ஐக்கிய நாடுகளின் கல்வி, அறிவியல் மற்றும் கலாச்சார அமைப்புக்கான (யுனெஸ்கோ) இலங்கை தேசிய ஆணைக்குழுவின் புதிய நிர்வாகக் குழுவிற்கான நியமனம், கௌரவ பிரதமரின் பங்கேற்புடன் ஜூலை 29 அன்று பத்தரமுல்லை, இசுருபாயவில் அமைந்துள்ள கல்வி அமைச்சில் நடைபெற்றது.
-
-கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், கலாநிதி ஹரினி அமரசூரிய அவர்கள், யுனெஸ்கோவிற்கான இலங்கை தேசிய ஆணைக்குழுவின் தலைவராக நியமிக்கப்பட்டார். அதேவேளை, கல்வி அமைச்சின் செயலாளர் திரு. நாலக்க கலுவெவ அவர்கள் உப தலைவராக நியமிக்கப்பட்டார்.
-
-கல்வி, அறிவியல், கலாச்சாரம், வெகுஜனத் தொடர்பாடல், சமூகவியல் மற்றும் சுற்றாடல் ஆகிய முக்கிய துறைகளில் யுனெஸ்கோ அமைப்பின் இலக்குகளுக்கு அமைய, தேசிய அபிவிருத்தி இலக்குகளை அடைவதில் தொடர்புடைய அனைத்து அமைச்சகங்களுக்கிடையேயான ஒத்துழைப்பை மேம்படுத்துவதே இந்த ஆணைக்குழுவை நிறுவுவதன் முதன்மை நோக்கமாகும்.
-
-புதிதாக நியமிக்கப்பட்ட ஆணைக்குழு உறுப்பினர்களில், துறைசார் நிபுணர்களான கலாநிதி ஆஷா டி வோஸ், திருமதி சந்திரா விக்ரமசிங்க, கலாநிதி டீ. பி. மெதவத்தகெதர, திரு. சுவாமிநாதன் விமல் ஆகியோருடன்,
-
-...
-
-[Data](articles/665b41dc.json)
-
----
-
-### ලෝකයේ හොඳම දූපත ලෙස ලංකාව කිරුළ පළදී
-
-*2025-07-30 11:20:46* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-හොඳම-දූපත-ලෙස-ලංකාව-කිරුළ-පළදී/11-417605) · `si`
-
-ගෝලීය සංචාරක වෙබ් අඩවියක් වන බිග් 7 ට්‍රැවල් විසින් සම්පාදනය කරන ලද "ලෝකයේ හොඳම දූපත් 50" ලැයිස්තුවේ ප්‍රමුඛ ස්ථානය ලබා ගනිමින් ශ්‍රී ලංකාව ලොව ලස්සනම දූපත ලෙස කිරුළු පැළඳ ඇත.
-
-2025 ලැයිස්තුව ලෝකයේ වඩාත්ම විශ්මයජනක දූපත් ගමනාන්ත සමරන අතර, ප්‍රංශ පොලිනීසියාවේ මුඕරියා, ඉක්වදෝරයේ ගැලපගෝස් දූපත් සහ සීෂෙල්ස් වැනි සුප්‍රසිද්ධ දූපත් පාරාදීසයන්ට වඩා ශ්‍රී ලංකාව ඉදිරියෙන් සිටී.
-
-බිග් 7 ට්‍රැවල්ට අනුව, සංස්කෘතික උරුමයන්, විවිධ භූ දර්ශන සහ පිරිසිදු වෙරළ තීරයන්ගේ පොහොසත් මිශ්‍රණය සඳහා ශ්‍රී ලංකාව තෝරා  ගෙන තිබේ.
-
-අද්විතීය වනජීවීන්, පුරාණ විහාරස්ථාන, සශ්‍රීක තේ වගාවන් සහ සජීවී දේශීය අත්දැකීම් සඳහා බිග් 7 ට්‍රැවල් විශේෂ අවධානය යොමුකර තිබේ.
-
-◼️
-
-[Data](articles/d1c4e40d.json)
-
----
-
-### PM Harini appointed Chairperson of Sri Lanka National Commission for UNESCO
-
-*2025-07-30 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/110999/pm-harini-appointed-chairperson-of-sri-lanka-national-commission-for-unesco) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has been appointed as the Chairperson of the Sri Lanka National Commission for the United Nations Educational, Scientific and Cultural Organization (UNESCO).
-
-The Secretary to the Ministry of Education Nalaka Kaluwawa has been named as the Vice Chairperson of the Commission, the Prime Minister’s Media Division said in a statement.
-
-Appointments to the Sri Lanka National Commission for UNESCO was held on Tuesday (July 29) at the Ministry of Education, Isurupaya, Battaramulla, with the participation of the Prime Minister Dr. Amarasuriya.
-
-The primary objective of establishing this commission is to facilitate collaboration among all relevant ministries in implementing UNESCO’s key focus areas of education, science, culture, mass communication, social sciences, and the environment in line with national development goals, according to the statement.
-
-...
-
-[Data](articles/9842a6a2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 04:32:59**
+As of **2025-07-31 04:52:34**
 
 ## Newspaper Stats
 
-*Scraped **67,803** Articles*
+*Scraped **67,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,786
 adalk | 6,520
 adaderanalk | 8,373
-tamilmirrorlk | 9,832
+tamilmirrorlk | 9,833
 virakesarilk | 11,283
 adaderanasinhalalk | 11,667
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,803 articles have been extended.
+61,973 (91.4%) of 67,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### குழந்தையை அரவணைத்தபடி இருந்த எலும்புக்கூடு
+
+*2025-07-31 04:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-அரவணைத்தபடி-இருந்த-எலும்புக்கூடு/175-362085) · `ta`
+
+செம்மணியில் ஒரு பெரிய எலும்பு கூட்டு தொகுதி, சிறு குழந்தையின் எலும்புக்கூட்டினை அரவணைத்தவாறு அடையாளம் காணப்பட்ட நிலையில் அவ்விரு எலும்புக்கூட்டு தொகுதிகளும் அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+இந்த எலும்புக்கூட்டு தொகுதிகள நேற்றுமுன்தினம் அடையாளம் காணப்பட்ட நிலையில் அவை நேற்று (30) முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/a759cacc.json)
+
+---
 
 ### Building value-centric nation: Navigating complex journey from corruption to integrity
 
@@ -1823,23 +1837,5 @@ Other western states of the U.S. are bracing for impact, with waves expected to 
 ...
 
 [Data](articles/c006c753.json)
-
----
-
-### Govt to strictly enforce seat belt law from October – Transport Minister
-
-*2025-07-30 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111002/govt-to-strictly-enforce-seat-belt-law-from-october-transport-minister) · `en`
-
-Minister of Transport, Highways, Ports, and Civil Aviation Bimal Rathnayake says steps will be taken to strictly enforce the seat belt regulations in the near future.
-
-While participating in the Galle District Transport Committee meeting, he stated that measures would be taken to revoke the permits granted to owners of buses that do not comply with the law.
-
-The Minister noted that around 2,350 people are killed while 6,000 sustain serious injuries due to motor accidents annually. Therefore, he noted that the government has presented a ‘Road Safety Plan’ for 2025 and 2026 through the Ministry of Transport.
-
-“Under that, a seat belt plan will be imposed. In any case, we are publishing the gazette. Even though the law has been in effect since 2011, no one seems to care. People drive on the expressway without wearing seat belts,” the Minister said.
-
-...
-
-[Data](articles/11adfd31.json)
 
 ---

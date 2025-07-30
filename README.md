@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 10:55:04**
+As of **2025-07-30 11:11:04**
 
 ## Newspaper Stats
 
-*Scraped **67,664** Articles*
+*Scraped **67,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ islandlk | 4,136
 dailymirrorlk | 4,733
 dailyftlk | 4,781
 adalk | 6,500
-adaderanalk | 8,344
-tamilmirrorlk | 9,802
-virakesarilk | 11,275
-adaderanasinhalalk | 11,635
+adaderanalk | 8,346
+tamilmirrorlk | 9,804
+virakesarilk | 11,277
+adaderanasinhalalk | 11,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.6%) of 67,664 articles have been extended.
+61,973 (91.6%) of 67,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-30 (Wednesday)
+
+### முன்னாள் டிஐஜி பிரியந்த ஜயக்கொடிக்கு விளக்கமறியல்
+
+*2025-07-30 10:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-டிஐஜி-பிரியந்த-ஜயக்கொடிக்கு-விளக்கமறியல்/175-362028) · `ta`
+
+டுபாயில் தலைமறைவாக உள்ள பாதாள உலக கும்பலைச் சேர்ந்த “கெஹெல்பத்தர பத்மே” என்று அழைக்கப்படும் மன்தினு பத்மசிறி பெரேரா ஹேவத் என்பவரிடமிருந்து கொலை மிரட்டல் விடுக்கப்பட்டதாக குற்றப் புலனாய்வு திணைக்களத்தில் போலி முறைப்பாடு ஒன்றை வழங்கியமை தொடர்பில் முன்னாள் டிஐஜி பிரியந்த ஜயக்கொடி கடந்த திங்கட்கிழமை (28) மாலை குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டிருந்தார்.
+
+அந்த வகையில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்ட முன்னாள் டிஐஜி பிரியந்த ஜயக்கொடியை எதிர்வரும் ஆகஸ்ட் மாதம் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மஹர நீதவான் காஞ்சனா நிரஞ்சலா டி சில்வா செவ்வாய்க்கிழமை (29) உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0b7b0984.json)
+
+---
+
+### உடம்பே சிலிர்க்குதே… இந்த வீடியோவை பாருங்க
+
+*2025-07-30 10:51:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உடம்பே-சிலிர்க்குதே-இந்த-வீடியோவை-பாருங்க/50-362027) · `ta`
+
+உலகின் வலிமையான நிலநடுக்கங்களில் ஒன்று ரஷ்யாவின் கிழக்குப் பகுதியில் தாக்கியது. ரிக்டர் அளவுகோலில் 8.8 ஆகப் பதிவான இந்த நிலநடுக்கம் வட பசிபிக் பகுதியில் சுனாமியைத் தூண்டியது. ரஷ்யாவின் கம்சாத்கா தீபகற்பத்தை சுனாமி (TSunami) தாக்கியது. ஜப்பானின் 2 கடற்கரை பகுதியில் 4 பெரிய அளவிலான திமிங்கலங்கள் கரை ஒதுங்கியுள்ளன
+
+இதன் காரணமாக அலாஸ்கா, ஹவாய் மற்றும் நியூசிலாந்து போன்ற தெற்குப் பகுதிகளுக்கும் எச்சரிக்கை விடப்பட்டது. இந்த நிலநடுக்கம், பெட்ரோபாவ்லோவ்ஸ்க்-காம்சட்ஸ்கி நகரில் இருந்து சுமார் 119 கிலோமீட்டர் தொலைவில், காம்சட்கா தீபகற்பத்தில் மையம் கொண்டிருந்தது, அந்நகரில் 180,000 பேர் வசிக்கின்றனர்.
+
+◼️
+
+[Data](articles/d48b5d26.json)
+
+---
+
+### රුසියාවේ භූකම්පනයෙන් තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම්
+
+*2025-07-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212816) · `si`
+
+රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය හේතුවෙන් අමෙරිකාවට අයත් හවායි දූපත් සහ ඇලෙස්කා කලාපවලට ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+සමස්ත හවායි දිවයිනටම සුනාමි බලපෑම් එල්ලවීමේ අවදානම හේතුවෙන් වෙරළාසන්න කලාප මඟහැර ජනතාව උස් බිම් වෙත යොමු කෙරුණි.
+
+මීට අමතරව චීනයට, පේරු රාජ්‍යයට සහ ඉක්වදෝරයට ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කර ඇත.
+
+බටහිර අමෙරිකානු වෙරළතීරයට මෙන්ම අමෙරිකාවට අයත් ගුවාම් සහ මයික්‍රොනීසියාවෙ හි ඇතැම් දූපත්වලට ද සුනාමි බලපෑම් එල්ලවනු ඇතැයි අපේක්ෂිතය.
+
+රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ රික්ටර් මාපකයේ ඒකක 8.8ක ප්‍රබලත්වයෙන් යුතු කම්චැට්කා භූකම්පනය, ඉතිහාසයට එක්වන්නේ ලොව එතෙක් මෙතෙක් බලපෑ හයවැනියට ප්‍රබලතම භූකම්පනය ලෙසය.
+
+භූකම්පනය හේතුවෙන් කම්චැට්කා අර්ධද්වීපට අඩි 13ක් උස සුනාමි රළක් ද ඇති වුණි.
+
+◼️
+
+[Data](articles/44599fd6.json)
+
+---
+
+### உலகின் மிகவும் அழகான தீவாக இலங்கை முதலிடம்
+
+*2025-07-30 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221341) · `ta`
+
+சுற்றுலா பயண இணையத்தளமான பிக் 7 டிராவல் (Big 7 Travel) தொகுத்த "உலகின் 50 சிறந்த தீவுகள்" பட்டியலில் முதலிடத்தை இலங்கை பிடித்துள்ளது.
+
+பிரெஞ்சு பாலினீசியாவின் மூரியா, ஈக்வடாரில் உள்ள கலபகோஸ் தீவுகள் மற்றும் சீஷெல்ஸ் போன்ற பிரபலமான சொர்க்க தீவுகளை இலங்கை முந்திக் கொண்டுள்ளது.
+
+கலாசார பாரம்பரியம், மாறுபட்ட நிலப்பரப்புகள் மற்றும் அழகிய கடற்கரைகள் ஆகியவற்றை கொண்டமைந்துள்ளமையினால் இலங்கை தெரிவுசெய்யப்பட்டுள்ளது.
+
+மேலும்,  இலங்கையில் தனித்துவமான வனவிலங்குகள், பழங்கால கோயில்கள், பசுமையான தேயிலைத் தோட்டங்கள் மற்றும் துடிப்பான உள்ளூர் அனுபவங்கள் கிடைப்பதாக பாராட்டுதல்களை பெற்றுள்ளது என தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/77675de9.json)
+
+---
+
+### ආසන පටි නීතිය දැඩි වෙයි
+
+*2025-07-30 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212815) · `si`
+
+ආසන පටි නීතිය ඉදිරියේදී දැඩිව ක්‍රියාත්මක කිරීමට පියවර ගන්නා බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+ගාල්ල දිස්ත්‍රික් ප්‍රවාහන කමිටුවට සහභාගී වෙමින් ඔහු සඳහන් කර සිටියේ, එම නීතිය අනුගමනය නොකරන බස්රථවල බලපත්‍ර අහෝසි කිරීමට පියවර ගන්නා බවය.
+
+"2,350 මැරෙනවා අවුරුද්දකට. තව 6,000 විතර මාරාන්තික තුවාල ලබනවා. ඒක නිසා 2025 සහ 2026 අවුරුද්දට ප්‍රවාහන අමාත්‍යංශයෙන් අපි ඉදිරිපත් කරලා තියෙනවා රෝඩ් සේෆ්ට් ප්ලෑන් එකක්. ඒ යටතේ, සීට් බෙල්ට් ප්ලෑන් එකක් impose කරන්න. කොහොමත් අපි ගැසට් එක ගහනවා. දැනුත් impose කරලා තියෙන්නේ 2011 අවුරුද්දෙ ඉඳන්. කවුරුත් ගණන් ගන්නෙ නෑ. හයිවේ යනවා සීට් බෙල්ට් දාන්නෙ නැතුව.
+
+ඒ නිසා අපි 2,300ක් මැරෙන එක 2,000කට අඩු කරන්න පුළුවන්. අපි සැප්තැම්බර් 30 දාලා තියෙනවා සියලුම අධිවේගී මාර්ගවලට. මට මතක විදියට අපි කියනවා සීට් බෙල්ට් දාන එක මගීන්ට. මොකද ගොඩක් බස්වල අනිවාර්යෙන්ම සීට් බෙල්ට් තියනවා. ඒ නිසා අනිවාර්යෙන්ම නීතිය ක්‍රියාත්මක කරලා එක්කො තහනම් කරනවා බස්. නැත්නම් ලයිසන් කැන්සල් කරනවා."
+
+...
+
+[Data](articles/dedc3dde.json)
+
+---
 
 ### முதியோர் கொடுப்பனவு குறித்து விஷேட அறிவிப்பு
 
@@ -45,6 +131,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/940c0010.json)
+
+---
+
+### இலங்கைக்கு கடத்த முயன்ற பீடி இலைகள் கைப்பற்றல் ; ஒருவர் கைது
+
+*2025-07-30 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221337) · `ta`
+
+இந்தியாவின், ராமநாதபுரம் அருகே இலங்கைக்கு கடத்த முயன்ற 2,250 கிலோ பீடி இலைகள் கைப்பற்றப்பட்டுள்ளது.
+
+இந்த சம்பவம் தொடர்பாக சந்தேகத்தின் பெயரில் ஒருவரை கைது செய்து விசாரணை மேற்கொண்டு வருகின்றனர்.
+
+ராமநாதபுரம் மாவட்டம் இலங்கைக்கு மிக அருகில் இருப்பதால் ராமநாதபுரம் மாவட்ட கடற்கரையில் இருந்து சமையல் மஞ்சள், சுக்கு, கஞ்சா, கடல் அட்டைகள், பீடி இலைகள் உள்ளிட்டவைகள் அதிக அளவு இலங்கைக்கு கடத்தப்பட்டு வருகிறது.
+
+இந்நிலையில் இன்று புதன்கிழமை (30) அதிகாலை ராமநாதபுரம் அடுத்த வெள்ளரி ஓடை கடற்கரையிலிருந்து இலங்கைக்கு பீடி இலைகள்  கடல் வழியாக சட்டவிரோதமான முறையில் கடத்த இருப்பதாக கிடைத்த தகவலின் அடிப்படையில் குநு கியூ பிரிவு பொலிஸார் திடீர் சுற்றிவளைப்பு நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+
+இதன்போது, லொறி ஒன்றில் இருந்து இலங்கைக்கு பீடி இலை பொதிகளை படகில் ஏற்றி கொண்டிருந்தபோது அவர்களை மடக்கிப் பிடிக்க முயன்ற போது  கடலில் படகில் இருந்த இருவர் 10 மூட்டை பீடி இலை பொதிகளுடன் கடல் வழியாக தப்பியுள்ளனர்.
+
+...
+
+[Data](articles/123e69fc.json)
+
+---
+
+### Tsunami threat after Russia quake: Full list of countries and islands at risk
+
+*2025-07-30 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/110994/tsunami-threat-after-russia-quake-full-list-of-countries-and-islands-at-risk) · `en`
+
+Several countries are under tsunami threat after a powerful 8.7-magnitude earthquake struck Russia’s Kamchatka Peninsula. Tsunami waves have already reached parts of Russia’s Kuril Islands and Japan’s northern island of Hokkaido.
+
+Here is the complete list of countries and islands where tsunami waves could strike, as per US tsunami warning system.
+
+◼️
+
+[Data](articles/ec5ad323.json)
 
 ---
 
@@ -131,6 +251,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4fe1708f.json)
+
+---
+
+### ‘Stay strong and stay safe’: Donald Trump urges after massive earthquake triggered tsunami warnings
+
+*2025-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/110993/stay-strong-and-stay-safe-donald-trump-urges-after-massive-earthquake-triggered-tsunami-warnings) · `en`
+
+U.S. President Donald Trump urged people to “stay strong and stay safe” following a massive 8.8-magnitude earthquake that struck off Russia’s eastern coast on Wednesday, prompting widespread tsunami warnings across the Pacific, including for the United States, Japan, and Hawaii.
+
+A powerful 8.8-magnitude earthquake struck off the coast of Russia early Wednesday, triggering tsunami waves that hit parts of Russia’s Kuril Islands and Japan’s northern island of Hokkaido.
+
+“Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United States. Japan is also in the way. Please visit https://tsunami.gov for the latest information. STAY STRONG AND STAY SAFE!” – said President Donald Trump in a posting on his Truth Social media platform.
+
+...
+
+[Data](articles/69877762.json)
 
 ---
 
@@ -1619,139 +1755,5 @@ These appeals include a recent Open Letter sent to the President and the Constit
 ...
 
 [Data](articles/24ec57e3.json)
-
----
-
-### கொரியாவில் இலங்கையர்களுக்கு அதிகமான தொழில் வாய்ப்புகளுக்கு இணக்கம்
-
-*2025-07-29 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221310) · `ta`
-
-அரசாங்கம் இலங்கை தொழிலாளர் சமூகத்துக்கு அதிகப்படியான சம்பளம் மற்றும் ஆராேக்கியமான தொழிலை பெற்றுக்கொடுப்பதற்காக மேற்கொண்டுவரும் வேலைத்திட்டத்துக்கு இணக்கம் தெரிவித்து தென்கொரியாவில் அதிகமான தொழில் வாய்ப்புக்கள் தற்போது கிடைத்து வருகின்றன.
-
-அதன்பிரகாரம் அந்த நாட்டின் பருவகால தொழில் குழுவின் (ஈ8) கீழான தொழில் வாய்ப்புக்களை பெற்றுக்கொள்வதற்கு கொரியாவின் பொசொங் உள்ளூராட்சி நிறுவனத்துடன் மேற்கொண்ட கலந்துரையாடல் வெற்றியடைந்துள்ளதுடன் அதுதொடர்பான புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திட அமைச்சரவை அனுமதி கிடைக்கப்பெற்றுள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் தெரிவித்துள்ளது.
-
-வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு, சுற்றுலாத்துறை அமைச்சர் விஜித்த ஹேரத்தினால் அதுதொடர்பான அமைச்சரவை பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது. உத்தேச புரிந்துணர்வு ஒப்பந்தம் ஊடாக  இலங்கை தொழிலாளர்களுக்கு பருவகால தொழில் திட்டத்தின் கீழ், அதிகபட்ச 8 மாதங்கள் வரை பொசாெங் மாகாணத்தில் விவசாய கிராமங்களில் பணியாற்றுவதற்கு வாய்ப்பு கிடைக்கும்.
-
-...
-
-[Data](articles/0f224f80.json)
-
----
-
-### India says 3 gunmen suspected of Pahalgam attack killed
-
-*2025-07-29 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/110977/india-says-3-gunmen-suspected-of-pahalgam-attack-killed) · `en`
-
-Three suspected militants were killed in a gunfight in India-administered Kashmir, India’s Home Minister Amit Shah said in a statement to the lower house of parliament on Tuesday.
-
-The operation comes over three months after gunmen attacked tourists in the town of Pahalgam in India-administered Kashmir.
-
-Shah said that all three militants involved in the gunfight were killed.
-
-“I want to tell the parliament those who attacked in Baisaran were three terrorists and all three have been killed,” he said.
-
-“Indian security agencies have detailed evidence of their involvement in the attack,” Shah said.
-
-He said that forensic evidence was used to establish that the rifles found on the men were the same as those used in the April attack.
-
-“It was confirmed that these three rifles were involved in killing of our innocent civilians,” the minister said.
-
-...
-
-[Data](articles/6d9a56d8.json)
-
----
-
-### Neelan: Unsilenced – Documentary On Neelan Tiruchelvam Released
-
-*2025-07-29 19:08:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/neelan-unsilenced-documentary-on-neelan-tiruchelvam-released/) · `en`
-
-The release of this documentary comes at a critical juncture in Sri Lanka’s political history. President Anura Kumara Dissanayake and the National People’s Power (NPP) hold an extraordinary parliamentary supermajority. This rare political opportunity provides the platform to enact long-overdue constitutional reforms—reforms that Dr. Neelan Tiruchelvam envisioned nearly three decades ago as essential to redressing the grievances of Sri Lanka’s minority communities.
-
-Yet, despite the scope of the NPP’s electoral mandate, meaningful steps toward constitutional reform have been disappointingly absent. It is my sincere hope that this documentary will serve as both an urgent call to action and a source of inspiration—encouraging the Sri Lankan public to hold President Dissanayake accountable to his promises and to advocate for Dr. Tiruchelvam’s vision of a just and inclusive constitution.
-
-...
-
-[Data](articles/cbb44eb1.json)
-
----
-
-### ඔක්කම්පිටිය පොලිස් ස්ථානාධිපතිවරයා අත්අඩංගුවට
-
-*2025-07-29 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212795) · `si`
-
-අදාළ සැකකරු අද (29) පස්වරු 5.07ට පමණ මාලිගාවිල - මොනරාගල මාර්ගයේ වීරගස් හංදිය අසල දී අත්අඩංගුවට ගෙන ඇත.
-
-ඔක්කම්පිටිය ගාමිණීපුර ප්‍රදේශයේ ව්‍යාපාරිකයකු විසින් සිදු කරන ලද පැමිණිල්ලකට අනුව සැකකාර පොලිස් පක්ෂකවරයා මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
-
-එලෙස එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂණ් සභාවේ විමර්ශන නිලධාරීන් විසින්ය.
-
-අදාළ පැමිණිලිකරු විසින් ඔක්කම්පිටිය ප්‍රදේශයේ පවත්වා ගෙන යනු ලබන වැලි ව්‍යාපාරය කරදරයකින් තොරව පවත්වා ගෙන යාමට හා වැලි කැණීම් කරන ස්ථානයේ සිට ගබඩාවට ට්‍රැක්ටර් මගින් වැලි ප්‍රවාහනය සිදු කරනු ලබන අවස්ථාවන් හි දී නීති මගින් කටයුතු නොකර සිටීම සඳහා මාසිකව රුපියල් 50,000/-ක මුදලක් බැගින් ඉල්ලා, අවස්ථා ගණනාවක දී රුපියල් 47,000/-ක මුදලක් ඉල්ලා ලබා ගෙන නැවත ඉහත පරිදි කටයුතු කර දීම සඳහා සැකකරු විසින් අලුතින් ඉදිකරනු ලබන නිවසේ වැඩ කටයුතු සඳහා වැලි කියුබ් 03ක් හෝ එහි වටිනාකම වන රුපියල් 45,000/-ක මුදලක් අල්ලස් ලෙස ඉල්ලා එකී මුදල රුපියල් 40,000/- දක්වා අඩුකර ලබා ගැනීමේ දී අදාළ සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/1809b92b.json)
-
----
-
-### Okkampitiya Police OIC arrested on bribery charge
-
-*2025-07-29 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/110976/okkampitiya-police-oic-arrested-on-bribery-charge) · `en`
-
-The Officer-in-Charge (OIC) of the Okkampitiya Police Station has been arrested by officers of the Bribery Commission over an allegation of soliciting a bribe.
-
-◼️
-
-[Data](articles/5a3566ad.json)
-
----
-
-### ඔක්කම්පිටිය ඕඅයිසී අල්ලස් දැලේ
-
-*2025-07-29 18:58:09* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්කම්පිටිය-ඕඅයිසී-අල්ලස්-දැලේ/11-417600) · `si`
-
-ඔක්කම්පිටිය පොලීසියේ ස්ථානාධිපති ඩබ්ලිව්.එම්.ආර් සුමුදු ප්‍රසන්න මහතා (29) වෙනිදා රුපියල් හතළිස් දහසක අල්ලස් මුදලක් ලබා ගැනීමේදී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
-
-අල්ලස් කොමිෂන් සභාවට නිරන්තරයෙන් ලැබුණු තොරතුරු මත අල්ලස් කොමිසමේ නිලධාරියෙකු වැලි ප්‍රවාහනය කිරීමේ බලපත්‍රයක් ලබා ගැනීමට උදව් කරන ලෙස ඉල්ලා සිටි අතර ඒ සඳහා රුපියල් හතළිස් දහසක මුදලක් ඉල්ලා තිබේ.
-
-අල්ලස් කොමිසමේ නිලධාරීන් අද සවස එම මුදල පොලිස් ස්ථානාධිපති වරයා ශාරීරික අභ්‍යාසයේ යෙදෙමින් පාගමනින් යන අතරතුර පේරගස් මණ්ඩිය අසලදී එම අදාල මුදල ලබාගෙන ඇති අතර ඒ අවස්ථාවේ ඔහුව අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/c41f1f26.json)
-
----
-
-### மாகாண சபைத் தேர்தல்: சட்ட சிக்கலுக்கு பாராளுமன்றமே தீர்வு – தேர்தல்கள் ஆணையாளர்
-
-*2025-07-29 18:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221309) · `ta`
-
-மாகாண சபைத் தேர்தலை எந்த தேர்தல் முறையில் நடத்துவது என்ற சட்ட சிக்கலுக்கு பாராளுமன்றத்தின் ஊடாகவே தீர்வு காண முடியும். தேர்தல் முறைமையை சிறந்த முறையில் தீர்மானித்தால் மாகாண சபைத் தேர்தலை நடத்த தயாராகவே உள்ளோம் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
-
-கடந்த 10 மாத காலப்பகுதியில் 3 தேர்தல்களை நடத்தி முடித்துள்ளோம்.உயர்நீதிமன்றத்தின் உத்தரவுக்கமைய உள்ளுராட்சிமன்றத் தேர்தலை சிறந்த முறையில் நடத்தினோம்.தற்போது உள்ளுராட்சிமன்ற அதிகார சபைகள் ஸ்தாபிக்கப்பட்டுள்ளன.
-
-மக்கள் பிரதிநிதிகள் இல்லாமல் மாகாண சபைகள் இயங்குவது ஜனநாயகத்துக்கு விரோதமானது. மாகாண சபைத் தேர்தலை விரைவாக நடத்த வேண்டும் என்ற நிலைப்பாட்டில் தேர்தல்கள் ஆணைக்குழு உறுதியாகவுள்ளது.
-
-மாகாண சபைத் தேர்தல் குறித்து உயர்நீதிமன்றம் கடந்த காலங்களில் பல வியாக்கியானங்களை முன்வைத்துள்ளது. மாகாண சபைத் தேர்தலை பழைய தேர்தல் முறையில் நடத்துவதா அல்லது புதிய தேர்தல் முறையிலா நடத்துவது என்பதில் பாரிய சட்ட சிக்கல்கள் காணப்படுகிறது.
-
-...
-
-[Data](articles/7184f724.json)
-
----
-
-### Sarvajana Balaya expresses solidarity with Palestine, calls for ‘strong message as a nation’
-
-*2025-07-29 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/110975/sarvajana-balaya-expresses-solidarity-with-palestine-calls-for-strong-message-as-a-nation) · `en`
-
-The leadership of “Sarvajana Balaya” political alliance held a meeting with the Ambassador of the State of Palestine to Sri Lanka, Ihab Khalil, earlier today (29).
-
-This meeting was held to express the deep and unwavering solidarity of the Sri Lankan people with the innocent civilians of Palestine, who continue to endure immense suffering amid a prolonged and inhumane conflict, a statement said.
-
-“During the discussion, Sarvajana Balaya conveyed its grave concern over the ongoing humanitarian catastrophe in Gaza and the occupied Palestinian territories. The deliberate targeting of civilian infrastructure, the widespread displacement of families, and the systematic deprivation of basic necessities resulting in starvation, which all constitute egregious violations of international law.”
-
-...
-
-[Data](articles/120f964a.json)
 
 ---

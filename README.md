@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-30 13:33:14**
+As of **2025-07-30 13:55:23**
 
 ## Newspaper Stats
 
@@ -50,7 +50,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මහනුවර ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද
+### දළදා මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද
 
 *2025-07-30 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212824) · `si`
 

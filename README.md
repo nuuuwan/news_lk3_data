@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 04:33:25**
+As of **2025-08-01 04:48:34**
 
 ## Newspaper Stats
 
-*Scraped **68,032** Articles*
+*Scraped **68,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 698
 islandlk | 4,149
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,796
+dailyftlk | 4,801
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
@@ -26,11 +26,99 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,032 articles have been extended.
+61,973 (91.1%) of 68,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### Govt. holds high-level talks on implementing National Anti-Corruption Action Plan 2025-2029
+
+*2025-08-01 04:32:06* · [`dailyftlk`](https://www.ft.lk/news/Govt-holds-high-level-talks-on-implementing-National-Anti-Corruption-Action-Plan-2025-2029/56-779741) · `en`
+
+CIABOC Director General Ranga Dissanayake (left) and Secretary to the President Dr. Nandika Sanath Kumanayake
+
+A high-level meeting to review the implementation of Sri Lanka’s National Anti-Corruption Action Plan 2025-2029 was held on Wednesday (30 July) at the Presidential Secretariat.
+
+The discussion brought together the Heads of the National Steering Committee and key representatives from both State and private sector institutions involved in executing the strategy. The session was chaired by Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+The National Anti-Corruption Action Plan, launched on 9 April 2025 under the theme “Towards a Country of Integrity,” is an initiative based on the vision of President Anura Kumara Disanayake. It is scheduled to be implemented over a five-year period from 2025 onwards.
+
+...
+
+[Data](articles/151b2063.json)
+
+---
+
+### Online facility for land maps available from today: Survey Department
+
+*2025-08-01 04:30:08* · [`dailyftlk`](https://www.ft.lk/news/Online-facility-for-land-maps-available-from-today-Survey-Department/56-779740) · `en`
+
+The Survey Department yesterday announced that land maps will be available online from today (1), marking a major step towards digital public services.
+
+Surveyor General Y.G. Gnanathilaka made this announcement during a media briefing yesterday, held coinciding with the Department’s 225th anniversary celebrations which falls today, and the Department also plans to issue a commemorative stamp to mark the occasion.
+
+“Till Thursday (31 July), the public could obtain survey maps only through Departmental offices. With the new system, individuals can now purchase maps via online payment through the Department’s website,” he said.
+
+Gnanathilaka also said that the land information database of the Survey Department is linked with the Land Registry Department, enabling the public to access land-related data.
+
+According to the Surveyor General, all maps and plans have now been digitised, and nearly 2.4 million land plots have been archived in the Department’s data repository.
+
+...
+
+[Data](articles/8f98e96f.json)
+
+---
+
+### Chief Justice pledges to fast-track Court digitalisation
+
+*2025-08-01 04:29:02* · [`dailyftlk`](https://www.ft.lk/news/Chief-Justice-pledges-to-fast-track-Court-digitalisation/56-779739) · `en`
+
+Says several discussions already held with BASL President regarding proposed digitalisation initiative
+
+Newly appointed Chief Justice Preethi Padman Surasena yesterday assured that he intends to fast-track the digitalisation of the Court system across the country, noting that the time has come to adopt technologically advanced methods in the administration of justice.
+
+Chief Justice Surasena made these remarks while addressing the ceremonial sitting held at the Supreme Court to formally welcome him as the 49th Chief Justice of Sri Lanka. The Chief Justice further noted that he has already held several discussions with the President of the Bar Association of Sri Lanka (BASL) regarding the proposed digitalisation initiative.
+
+...
+
+[Data](articles/1371d390.json)
+
+---
+
+### Story of Wa’el Zuaiter comes alive in Colombo today
+
+*2025-08-01 04:26:01* · [`dailyftlk`](https://www.ft.lk/news/Story-of-Wa-el-Zuaiter-comes-alive-in-Colombo-today/56-779738) · `en`
+
+A compelling one-person theatrical performance, ‘For a Palestinian,’ is set to grace the stage of the Namel Malini Punchi Theatre in Colombo today (1) at 7:30 p.m.
+
+This timely production offers a moving exploration of the life and legacy of Wa’el Zuaiter, a Palestinian intellectual and activist whose story remains largely obscured in mainstream historical narratives.
+
+Set in Rome during the 1960s, Zuaiter’s life becomes a lens through which the audience is invited to examine themes of identity, exile, heritage, and the enduring human need for connection and justice. His narrative, one of quiet resistance, cultural preservation, and personal longing, is rendered with powerful intimacy by performer Murthaaz Abdul Barry.
+
+...
+
+[Data](articles/7bc6c3f4.json)
+
+---
+
+### President pledges reforms, economic revival in address to Sri Lankans in Maldives
+
+*2025-08-01 04:23:45* · [`dailyftlk`](https://www.ft.lk/news/President-pledges-reforms-economic-revival-in-address-to-Sri-Lankans-in-Maldives/56-779737) · `en`
+
+President Anura Kumara Disanayake on Tuesday (29 July) reaffirmed his administration’s commitment to building a prosperous and law-abiding Sri Lanka, during a meeting with the expatriate Sri Lankan community at the Maldives National University.
+
+Speaking at the Maldives National University Auditorium, the President outlined the Government’s key priorities—restoring rule of law, revitalising the economy, eradicating corruption, and establishing a new political culture.
+
+Organised by the Sri Lanka High Commission in the Maldives, the event drew a large audience of Sri Lankan professionals, students, and workers. It marked the President’s first official engagement with Sri Lankans overseas since assuming office.
+
+Disanayake stated that the overwhelming mandate his Government received in the last elections reflected the people’s call for a political transformation. “We were chosen to replace a corrupt, privileged system with one that is accountable, transparent, and people-centred,” he said.
+
+...
+
+[Data](articles/83ff63c8.json)
+
+---
 
 ### First payment released for signalling and telecommunication project on Maho-Anuradhapura railway line
 
@@ -1703,99 +1791,5 @@ Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smok
 ◼️
 
 [Data](articles/8d34d0ae.json)
-
----
-
-### சம்பூரில் மனித எச்சங்கள் கண்டுபிடிப்பு: மனித உரிமைகளுக்கான மையம் நேரில் ஆய்வு
-
-*2025-07-31 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221454) · `ta`
-
-திருகோணமலை சம்பூர் சிறுவர் பூங்காவை அண்மித்துள்ள கடற்கரையோரப் பகுதியில் அண்மையில் கண்டுபிடிக்கப்பட்ட மனித எச்சங்கள் தொடர்பில், மனித உரிமைகளுக்கும் அபிவிருத்திக்குமான மையத்தின் தலைவர் சிரேஷ்ட சட்டத்தரணி இரட்ணவேல் தலைமையிலான சட்டத்தரணிகள் குழுவினர் வியாழக்கிழமை (31) நேரில் விஜயம் மேற்கொண்டு ஆய்வு செய்தனர்.
-
-கடந்த ஞாயிற்றுக்கிழமை (ஜூலை 20) MAG என்ற மிதிவெடி அகற்றும் நிறுவனம் மிதிவெடி அகற்றும் பணிகளில் ஈடுபட்டிருந்தபோது, சிதைந்த மனித மண்டை ஓடு மற்றும் எலும்புப் பகுதிகளைக் கண்டெடுத்தது.இது அப்பகுதியில் பெரும் பரபரப்பை ஏற்படுத்தியது.
-
-இதையடுத்து, கடந்த ஜூலை 23ஆம் திகதி மூதூர் நீதிமன்ற நீதிபதி, அரச பகுப்பாய்வு திணைக்களம், சட்ட வைத்திய அதிகாரி, தொல்பொருள் திணைக்களம், புவிச்சரிதவியல் அளவை மற்றும் சுரங்கங்கள் பணியகம், காணாமல் போனோர் அலுவலகம், குற்றவியல் தடய காட்சிகள் அலுவலகம் (SOCO) ஆகிய திணைக்களங்களின் அதிகாரிகள் குறித்த பகுதிக்கு விஜயம் மேற்கொண்டு நிலைமையை ஆராய்ந்தனர்.
-
-...
-
-[Data](articles/6db9cdff.json)
-
----
-
-### Youth arrested with drugs worth over Rs. 10 million in Borella
-
-*2025-07-31 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111041/youth-arrested-with-drugs-worth-over-rs-10-million-in-borella) · `en`
-
-An individual has been arrested for the possession of a stock of over one kilogram of ICE (Crystal Methamphetamine) narcotics in Borella, police stated.
-
-Based on information received by the Borella Police Station, the suspect was arrested along with the drugs during an inspection of a motorcycle adjacent to the Sirisara Uyana housing complex in Borella.
-
-Police stated that 1 kilogram and 105 grams of ICE and 125 grams of heroin were found in his possession at the time.
-
-The value of the seized stock is estimated to exceed Rs. 10 million.
-
-He is reportedly an associate of an organized criminal, according to police.
-
-The Borella Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/68d01270.json)
-
----
-
-### Sri Lanka’s DFCC Bank to sell Rs10bn GSS+ bond
-
-*2025-07-31 14:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-to-sell-rs10bn-gss-bond-233906/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc is planning a 10-year green, social and sustainable (GSS) bond issue to raise 10 billion rupees, it said.
-
-The proposed issue will offer 100 million Basel III compliant, subordinated, listed, rated, unsecured, redeemable GSS+ bonds, with a non-viability conversion option, at 100 rupees each.
-
-The bonds, with a term of up to 10 years, will be issued with annual coupon payments.
-
-The interest rates are to be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said.
-
-The issue is subject to receiving necessary regulatory and other approvals.
-
-The bank’s previous green bond issue to raise 2.5 billion rupees was oversubscribed.
-
-GSS bonds fund projects with measurable environmental, social, or sustainability objectives, going further than green bonds which fund eco-friendly projects such as renewable energy and climate adaptation.
-
-...
-
-[Data](articles/5eef5eb8.json)
-
----
-
-### தேயிலை தூள் திருடிய உதவி முகாமையாளருக்கு பிணை
-
-*2025-07-31 14:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-தூள்-திருடிய-உதவி-முகாமையாளருக்கு-பிணை/76-362117) · `ta`
-
-1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் அடங்கிய No. 1 டஸ்ட்,  60 கிலோ கிராம் தேயிலை தூளை திருடிய குற்றச்சாட்டை ஒத்துக்கொண்ட தோட்ட உதவி முகாமையாளர் ஹட்டன் நீதவான் நீதிமன்றத்தில், புதன்கிழமை (30) பிணையில் விடுவிக்கப்பட்டுள்ளார்.
-
-ஆர்.பி.கே.பிளான்டேசனுக்கு உரித்தான மஸ்கெலியா பிரவுன்ஸ்வீக் தோட்ட தேயிலை தொழிற்சாலையில் இருந்து  840,000 ரூபாய் பெறுமதியான No. 1 டஸ்ட், தேயிலை தூள் 60 கிலோ கிராம் நிறை கொண்ட 1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் கடந்த 23 ம் திகதி களவாடப்பட்டுள்ளது  என தோட்ட முகாமையாளர்  நிலுஷான் மதுசங்க ஜயவீர , மஸ்கெலியா பொலிஸ் நிலையத்தில் புகார் ஒன்றை பதிவு செய்திருந்தார்.
-
-அதனைத் தொடர்ந்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமாரவின் பணிப்புக்கு அமைய விசாரணைகள் ஆரம்பிக்க பட்டு தேயிலை தொழிற்சாலையில் பொருத்த பட்டு இருந்த சீ.சீ.டி வி கெமராக்கள் பரிசோதனை மேற்கொள்ளப்பட்டது..
-
-23.07.2025.அன்று இரவு 8.30.மணி தொடக்கம் 10.30 மணிக்குள் தேயிலை தூள் அடங்கிய 20 பொதிகள்  தோட்ட உதவி முகாமையாளரால்   லொறிக்கு  ஏற்றப் பட்டது தெரிய வந்தது.
-
-...
-
-[Data](articles/f8c12e21.json)
-
----
-
-### රෝහිතගේ දියණියට අද අධිකරණයෙන් ලැබුණු නියෝගය මෙන්න
-
-*2025-07-31 14:31:16* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-දියණියට-අද-අධිකරණයෙන්-ලැබුණු-නියෝගය-මෙන්න/11-417638) · `si`
-
-අත්අඩංගුවට ගෙන සිටි පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය අද(31දා) මතුගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ඇප මත මුදා හැර තිබේ.
-
-ඒ අනුව ඇය රුපියල් ලක්ෂ 20 බැගින් වූ ශරීර ඇප 2ක් මත මුදාහැරීමට කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/4249b6df.json)
 
 ---

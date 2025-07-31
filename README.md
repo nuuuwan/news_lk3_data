@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 21:06:47**
+As of **2025-07-31 21:21:32**
 
 ## Newspaper Stats
 
-*Scraped **67,997** Articles*
+*Scraped **68,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,545
-adaderanalk | 8,403
+adaderanalk | 8,406
 tamilmirrorlk | 9,871
 virakesarilk | 11,321
 adaderanasinhalalk | 11,697
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 67,997 articles have been extended.
+61,973 (91.1%) of 68,000 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### No fuel price revision for August
+
+*2025-07-31 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111055/no-fuel-price-revision-for-august-) · `en`
+
+The Ceylon Petroleum Corporation (CPC) announced that there will be no revision of fuel prices for the month of August 2025.
+
+Accordingly, all fuel prices will remain unchanged for August, it said.
+
+◼️
+
+[Data](articles/6a5bb296.json)
+
+---
+
 ### மாலைதீவு வர்த்தக மன்றத்தில் ஜனாதிபதி உரையாற்றினார்
 
 *2025-07-31 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221491) · `ta`
@@ -69,6 +83,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8f699220.json)
+
+---
+
+### Sri Lanka-China defence ties reaffirmed at PLA 98th anniversary celebration
+
+*2025-07-31 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111054/sri-lanka-china-defence-ties-reaffirmed-at-pla-98th-anniversary-celebration) · `en`
+
+Deputy Minister of Defence, Major General (Retd) Aruna Jayasekara has highlighted the deep-rooted friendship between Sri Lanka and China, forged through centuries of cultural exchange and strengthened over 68 years of formal diplomatic relations.
+
+The Deputy Minister of Defence made these remarks while addressing the event held to mark the 98th Anniversary of the founding of the Chinese People’s Liberation Army (PLA).
+
+Addressing the event, the Deputy Minister commended the PLA’s 98 years of remarkable history, resilience, and evolution in overcoming the diverse challenges of modern warfare and security.
+
+He also recalled the landmark state visit of the President to China in January this year. The Deputy Minister stated that the visit reaffirmed the shared values of independence, self-reliance, solidarity, and mutual assistance as enshrined in the historic Rubber-Rice Pact, while paving the way to further deepen the Strategic Cooperative Partnership between the two nations.
+
+...
+
+[Data](articles/701b31db.json)
 
 ---
 
@@ -627,6 +659,26 @@ Last month, the Cabinet granted approval to draft legislation aimed at repealing
 ...
 
 [Data](articles/68ec1e08.json)
+
+---
+
+### Survey Department to expand its services from tomorrow
+
+*2025-07-31 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111046/survey-department-to-expand-its-services-from-tomorrow) · `en`
+
+The general public will have the opportunity to make online payments and receive land maps delivered to their homes from tomorrow (August 1), Surveyor General Y. G. Gnanathilaka stated.
+
+The initiative has been launched to coincide with the 225th anniversary of the Sri Lanka Survey Department.
+
+He made this statement while participating in a press conference held at the Government Information Department.
+
+Surveyor General Y. G. Gnanathilaka said, “Until now, we issued maps to the public through our office. But now, we have planned to allow the public to obtain maps through an online system. Accordingly, people will be able to make online payments and receive the required maps directly to their homes.”
+
+“In addition, we are also working to provide access for the public to view the information available in the Land Information System online,” the Surveyor General added further.
+
+◼️
+
+[Data](articles/3131cdb2.json)
 
 ---
 
@@ -1753,61 +1805,5 @@ A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Pe
 ◼️
 
 [Data](articles/271e2381.json)
-
----
-
-### මැණිකේ ඇතින්නියගේ සහාය පාලකවරයාගේ සිරුර මහනුවර වැවෙන් හමුවෙයි
-
-*2025-07-31 11:45:07* · [`adalk`](https://www.ada.lk/breaking_news/මැණිකේ-ඇතින්නියගේ-සහාය-පාලකවරයාගේ-සිරුර-මහනුවර-වැවෙන්-හමුවෙයි/11-417633) · `si`
-
-සැක කටයුතු ආකාරයෙන් මියගිය පුද්ගලයකුගේ මළ සිරුරක් මහනුවර වැවේ සොරොව්ව අසල පාවෙමින් තිබියදී පොලිසිය විසින් සොයා ගෙන තිබේ.
-
-මියගිය පුද්ගලයා මහනුවර ඓතිහාසික ඇසළ පෙරහරට සහභාගි වීම සඳහා පැමිණි මැණිකේ නැමති ඇතින්නියගේ හස්ති පාලකවරයාගේ සහායකයෙකු මේ වන විට හඳුනාගෙන ඇති අතර ඔහු අරණායක ප්‍රදේශයේ පදිංචි 28 හැසිවිරිදි අකලංක නමැත්තෙකු බව පොලිසිය කියයි. මරණකරුගේ නළල ප්‍රදේශයේ තුවාල කැළලක් ඇති බවද පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/c77ba807.json)
-
----
-
-### செம்மணி மனித புதைகுழி: ஸ்கேன் பரிசோதனைக்கு பாதுகாப்பு அமைச்சின் அனுமதி தேவையில்லை – சட்டத்தரணி ரணிதா ஞானராஜா
-
-*2025-07-31 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221421) · `ta`
-
-போரினால் பெரிதும் பாதிக்கப்பட்ட வடக்கில், செம்மணி சித்துப்பாத்தி மயானத்தில் கடந்த மே மாதம் ஆரம்பிக்கப்பட்ட அகழ்வாய்வில் இருந்து, இதுவரை 115 மனித எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்டுள்ளதாக சட்டத்தரணி ரணிதா ஞானராஜா தெரிவித்தார்.
-
-இந்த அகழ்வில் சிறுவர்கள்  உட்பட 102 மனித எலும்புக்கூடுகள்அடையாளம் காணப்பட்டுள்ளன. அத்தோடு, இந்த புதைகுழி, நாட்டின் மூன்றாவது பெரிய மனித புதைகுழியாக மாறியுள்ளது.
-
-தடயவியல் தளம் 1-ல், ஒரு பெரிய எலும்புக்கூட்டின் அருகில், ஒரு குழந்தையின் எலும்புக்கூடு அரவணைக்கப்பட்டபடி காணப்பட்டதாகவும், அது முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளது.
-
-மனித எலும்புகளுடன், செம்மணி சித்துப்பாத்தி மனித புதைகுழியில் இருந்து இதுவரை மீட்கப்பட்ட சான்றுப் பொருட்களில் குழந்தை பால் போத்தல், குழந்தைகள் விளையாடும் பொம்மை, காலணிகள் மற்றும் பாடசாலை பைகள் ஆகியவை அடங்கும்.
-
-மேலும் எலும்புக்கூடுகள் உள்ளதா என்பதை உறுதிப்படுத்த ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகத்தின் ஸ்கேன் இயந்திரத்தின் மூலம் ஆகஸ்ட் 4ஆம் திகதி பரிசோதனை நடைபெற உள்ளது.
-
-...
-
-[Data](articles/35fbb531.json)
-
----
-
-### 6 மாதங்களில் லஞ்சம் தொடர்பான சம்பவங்களில் 34 பேர் கைது
-
-*2025-07-31 11:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-லஞ்சம்-தொடர்பான-சம்பவங்களில்-34-பேர்-கைது/175-362109) · `ta`
-
-2025 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் லஞ்சம் தொடர்பான சம்பவங்கள் தொடர்பாக 34 நபர்கள் கைது செய்யப்பட்டதாக லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு (CIABOC) தெரிவித்துள்ளது.
-
-இந்த ஆண்டு ஜனவரி 1 முதல் ஜூன் 30 வரை 3,022 முறைப்பாடுகள் கிடைத்ததாக ஆணைக்குழு தெரிவித்துள்ளது.
-
-இந்தக் காலகட்டத்தில், 54 சோதனைகள் நடத்தப்பட்டு, 34 சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-அந்த சந்தேக நபர்களில் இலங்கை பொலிஸை சேர்ந்த 10 அதிகாரிகள், நீதி அமைச்சின் 5 அதிகாரிகள், சுகாதார அமைச்சின் 2 அதிகாரிகள் மற்றும் இலங்கை போக்குவரத்து சபைளைச் சேர்ந்த 2 அதிகாரிகள் அடங்குவர்.
-
-கூடுதலாக, இந்த ஆண்டின் முதல் ஆறு மாதங்களில் லஞ்சம் வாங்கிய சம்பவங்கள் தொடர்பாக 6 பொதுமக்கள் கைது செய்யப்பட்டதாக ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
-
-இந்த காலகட்டத்தில், லஞ்சம் தொடர்பான 60 சந்தேக நபர்களுக்கு எதிராக பல்வேறு நீதிமன்றங்களில் 50 சட்ட வழக்குகள் தாக்கல் செய்யப்பட்டன.
-
-...
-
-[Data](articles/831e6388.json)
 
 ---

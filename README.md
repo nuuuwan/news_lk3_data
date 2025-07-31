@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 02:08:07**
+As of **2025-08-01 02:21:27**
 
 ## Newspaper Stats
 
-*Scraped **68,026** Articles*
+*Scraped **68,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ dailyftlk | 4,795
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
-virakesarilk | 11,328
+virakesarilk | 11,330
 adaderanasinhalalk | 11,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,026 articles have been extended.
+61,973 (91.1%) of 68,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### மிலிந்த மொரகொடவுடன் ஜேர்மன் தூதுவர் பெலிக்ஸ் நோமன் சந்திப்பு
+
+*2025-08-01 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221499) · `ta`
+
+பாத் பைன்டர் பவுண்டேஷன் ஸ்தாபகர் மிலிந்த மொரகொடவுக்கும், இலங்கைக்கான ஜேர்மன் தூதுவர் கலாநிதி பெலிக்ஸ் நோமனுக்கும் இடையிலான சந்திப்பு அண்மையில் நடைபெற்றது.
+
+இச்சந்திப்பின்போது இந்திய பசுபிக், இந்து சமுத்திர பிராந்திய பாதுகாப்பு மற்றும் வங்காள விரிகுடா நாடுகளுக்கிடையிலான ஒத்துழைப்பு உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் இருதரப்பினரும் கருத்துக்களை பரிமாறிக்கொண்டதுடன் பரஸ்பர அக்கறைக்குரிய ஏனைய விடயங்கள் குறித்தும் கலந்துரையாடப்பட்டது.
+
+அத்தோடு உலகளாவிய பதற்ற நிலைகளின் போது தடையற்ற நிரம்பலை உறுதிப்படுத்த வேண்டியதன் அவசியம் குறித்து வலியுறுத்திய அவர்கள் இலங்கையில் புதிய ஜேர்மன் முதலீடுகளுக்கான வாய்ப்புக்கள் தொடர்பில் ஆராய்ந்தனர்.
+
+◼️
+
+[Data](articles/daa15804.json)
+
+---
+
+### இங்கிலாந்துடனான கடைசி டெஸ்டின் ஆரம்ப நாளன்று தடுமாறிய இந்தியாவுக்கு நாயர், சுந்தர் கை கொடுத்தனர்
+
+*2025-08-01 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221498) · `ta`
+
+இங்கிலாந்துக்கு எதிரான 5 போட்டிகள் கொண்ட அண்டர்சன் - டெண்டுல்கர் டெஸ்ட் கிரிக்கெட் தொடரில் 1 - 2 என்ற ஆட்டங்கள் வித்தியாசத்தில் பின்னிலையில் இருக்கும் இந்தியா, கெனிங்டன் ஓவல் விளையாட்டரங்கில் வியாழக்கிழமை (31) ஆரம்பமான கடைசிப் போட்டியில் தடுமாற்றத்தை எதிர்கொண்டது.
+
+எனினும் கருண் நாயர், வொஷிங்டன் சுந்தர் ஆகிய இருவரும் பொறுப்புணர்வுடன் துடுப்பெடுத்தாடி இந்தியாவுக்கு கை கொடுத்தனர்.
+
+இந்தப் டெஸ்ட் போட்டியிலும் நாணய சுழற்சியில் தோல்வி அடைந்தைத் தொடர்ந்து முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இந்தியா முதலாம் நாள் ஆட்ட நேர முடிவில் 6 விக்கெட்களை இழந்து 204 ஓட்டங்களைப் பெற்றிருந்தது.
+
+ஆரம்ப வீரர்கள் யஷஸ்வி ஜய்ஸ்வால் (2), கே. எல். ராகுல் (14) ஆகிய இருவரும் 16 ஓவர்களுக்குள் ஆட்டம் இழந்தனர். (38 - 2 விக்.)
+
+அணித் தலைவர் ஷுப்மான் கில், சாய் சுதர்சன் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் ஜோடி சேர்ந்து பொறுமையுடன் துடுப்பெடுத்தாடிக் கொண்டிருக்கையில் மழை பெய்ய ஆரம்பித்ததால் ஆட்டம் தடைப்பட்டு வேளையோடு பகல் உணவு எடுக்கப்பட்டது.
+
+...
+
+[Data](articles/8e3699e5.json)
+
+---
 
 ### பிரியாணிக்கு விந்தணு தானம்: பிச்சைக்காரர்களை வைத்து நடந்த அவலம்!
 
@@ -1785,39 +1821,5 @@ Weerakkody is also linked to the incident involving the seizure of an illegally 
 ◼️
 
 [Data](articles/b2472730.json)
-
----
-
-### Delta flight diverted after being hit by turbulence, 25 passengers hospitalized
-
-*2025-07-31 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111039/delta-flight-diverted-after-being-hit-by-turbulence-25-passengers-hospitalized) · `en`
-
-A Delta Airlines flight made an emergency landing at Minneapolis-St. Paul International Airport on Wednesday after dozens of people were injured during “significant” turbulence.
-
-Flight 56 bound for Amsterdam took off from Salt Lake City airport at 16:30 local time (23:30 BST), before being diverted to Minneapolis. It landed just over two hours into its nine-hour flight time, at around 19:45 local time.
-
-Medical personnel met the Airbus A330-900 to “evaluate customers and crew” after it arrived in Minneapolis, with 25 passengers then transported to local hospitals for care.
-
-In a statement, Delta said that it is “working with customers to support their immediate needs”.
-
-In the US, there have been 207 severe injuries caused by turbulence - where an individual has been admitted to hospital for more than 48 hours - since 2009, according to official figures from the National Transportation Safety Board.
-
-...
-
-[Data](articles/11759079.json)
-
----
-
-### ඉන්දීය - එංගලන්ත පස්වන ටෙස්ට් ක්‍රිකට් තරගය අද
-
-*2025-07-31 14:11:51* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය---එංගලන්ත-පස්වන-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-417637) · `si`
-
-සංචාරක ඉන්දීය කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පස්වන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගය අද (31දා) එංගලන්තයේ ඕවල් ක්‍රීඩාංගනයේදී පැවැත්වේ.
-
-දෙරට අතර පැවති තරග 04න් තරග 2ක් ජයග්‍රහණය කරමින් එංගලන්ත කණ්ඩායම මේ වන විට ඉදිරියෙන් සිටින අතර, ඉන්දීය කණ්ඩායම මෙහිදී එක් තරගයක් පමණක් ජයගැනීමට සමත්විය.
-
-◼️
-
-[Data](articles/4f68d691.json)
 
 ---

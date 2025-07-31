@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 04:48:34**
+As of **2025-08-01 05:06:26**
 
 ## Newspaper Stats
 
-*Scraped **68,037** Articles*
+*Scraped **68,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 698
 islandlk | 4,149
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,801
+dailyftlk | 4,803
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,037 articles have been extended.
+61,973 (91.1%) of 68,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### COYLE and JETRO sign landmark MoU to champion health and productivity
+
+*2025-08-01 04:40:15* · [`dailyftlk`](https://www.ft.lk/business/COYLE-and-JETRO-sign-landmark-MoU-to-champion-health-and-productivity/34-779743) · `en`
+
+From left: COYLE CEO Indunil Ukwatte, Past Chairmen Aminda Rodrigo and Dinuk Hettiarachchi, Chairman Manjula Wijesundera, JETRO Colombo Resident Representative Hiroki Oi, SLCHPA Organising Committee Chairman Mihiru Perera, JETRO Colombo Senior Research Executive Lakna Ayeshmanthi and COYLE Senior Vice Chairman Suren Chandraratna
+
+The Chamber of Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) has signed a Memorandum of Understanding (MoU), a significant step toward strengthening international collaboration and fostering workplace well-being.
+
+The partnership is aimed at fostering mutual development and promoting a culture of “Health and Productivity Management” across Sri Lanka’s corporate sector.
+
+The signing ceremony on 4 July marked the beginning of a strategic cooperation between two forward-thinking organisations committed to shaping a healthier, more resilient workforce and business ecosystem.
+
+...
+
+[Data](articles/e6a373ef.json)
+
+---
+
+### Sarrah Sammoon becomes first Lankan to receive prestigious Certification in Investment Migration
+
+*2025-08-01 04:34:22* · [`dailyftlk`](https://www.ft.lk/business/Sarrah-Sammoon-becomes-first-Lankan-to-receive-prestigious-Certification-in-Investment-Migration/34-779742) · `en`
+
+Sarrah Sammoon, widely recognised as a pioneer of the global mobility industry in Sri Lanka, has once again made history by becoming the first Sri Lankan to receive the Certification in Investment Migration from the Investment Migration Council (IMC) of Switzerland, the global governing body for the investment migration profession.
+
+With over 30 years of leadership in the field, Sarrah Sammoon is a regulated global mobility specialist and the Founder and CEO of Magellan Champlain. Her firm serves multinational corporations, high-net-worth individuals, and globally mobile families across over 25 destinations. Her latest accomplishment underscores her commitment to professional excellence and responsible advisory practices in a rapidly evolving industry.
+
+...
+
+[Data](articles/b329fe02.json)
+
+---
 
 ### Govt. holds high-level talks on implementing National Anti-Corruption Action Plan 2025-2029
 
@@ -1759,37 +1791,5 @@ Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smok
 ◼️
 
 [Data](articles/903615b8.json)
-
----
-
-### ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
-
-*2025-07-31 14:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-அபேகுணவர்தனவின்-மகளுக்கு-பிணை/175-362118) · `ta`
-
-இலங்கை பொதுஜன பெரமுன (SLPP) நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மதுகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
-
-சந்தேக நபர் தலா 2 மில்லியன் ரூபாய் மதிப்புள்ள இரண்டு சரீரப் பிணைகளில் விடுவிக்கப்பட்டார்.
-
-இந்த வழக்கு தொடர்பாக தற்போது விசாரணைகளை மேற்கொண்டு வரும் வாலானா குற்றவியல் தடுப்புப் பிரிவில் சரணடைந்த பின்னர் அவர் காவலில் வைக்கப்பட்டார்.
-
-◼️
-
-[Data](articles/671f8a32.json)
-
----
-
-### ரோஹிதவின் மகளுக்கு பிணை
-
-*2025-07-31 14:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவின்-மகளுக்கு-பிணை/175-362118) · `ta`
-
-ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மதுகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
-
-சந்தேக நபர் தலா 2 மில்லியன் ரூபாய் மதிப்புள்ள இரண்டு சரீரப் பிணைகளில் விடுவிக்கப்பட்டார்.
-
-சந்தேகத்துக்கிடமான வாகன தொடர்பிலான விசாரணைகளை மேற்கொண்டு வரும் வாலன குற்றவியல் தடுப்புப் பிரிவில் சரணடைந்த பின்னர் அவர் காவலில் வைக்கப்பட்டார்.
-
-◼️
-
-[Data](articles/8d34d0ae.json)
 
 ---

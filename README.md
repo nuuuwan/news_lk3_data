@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 10:28:46**
+As of **2025-07-31 10:53:39**
 
 ## Newspaper Stats
 
-*Scraped **67,859** Articles*
+*Scraped **67,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,144
 islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,525
+adalk | 6,526
 adaderanalk | 8,379
-tamilmirrorlk | 9,843
+tamilmirrorlk | 9,844
 virakesarilk | 11,287
-adaderanasinhalalk | 11,675
+adaderanasinhalalk | 11,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,859 articles have been extended.
+61,973 (91.3%) of 67,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### මහනුවර වැවේ පුද්ගල මළසිරුරක්
+
+*2025-07-31 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212861) · `si`
+
+මහනුවර පෙරහරට එක් වූ හස්ති පාලක සහායකයෙකුගේ මළසිරුරක් අද (31) උදෑසන මහනුවර වැව් ඉවුරේ පාවෙමින් තිබියදී සොයා ගෙන තිබේ.
+
+මෙම පුද්ගලයා මහනුවර කතරගම දේවාලයේ පෙරහරට සහභාගී වීම සඳහා අරණායක ප්‍රදේශයේ සිට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/266fb394.json)
+
+---
 
 ### கினிகத்தேன விபத்தில் கொழும்பு ஜனிரா இக்ரம் பலி
 
@@ -57,6 +71,16 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/88152f32.json)
+
+---
+
+### காதில் பூ சுத்தாது கண்களை திறந்து விடுங்கடா
+
+*2025-07-31 10:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/காதில்-பூ-சுத்தாது-கண்களை-திறந்து-விடுங்கடா/62-362097) · `ta`
+
+◼️
+
+[Data](articles/a86b3ff5.json)
 
 ---
 
@@ -1170,6 +1194,22 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 
 ---
 
+### යුද හමුදාපතිට වසරක සේවා දිගුවක්
+
+*2025-07-30 19:04:15* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාපතිට-වසරක-සේවා-දිගුවක්/11-417627) · `si`
+
+යුද හමුදාපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතාට හෙට (01) සිට වසරක සේවා දිගුවක් ලබා දී තිබේ.
+
+සේනාධිනායක ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අදාල සේවා දිගුව ලබා දී ඇත.
+
+ශ්‍රී ලංකා කාලතුවක්කු හමුදාව නියෝජනය කරන වත්මන් යුද හමුදාපතිවරයා පසුගිය වසරේ දෙසැම්බර් 31 වන දින සිට ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා යුද හමුදාවේ 25 වැනි යුද හමුදාපතිවරයා ලෙස එම ධුරයේ රාජකාරී ආරම්භ කළේය.
+
+◼️
+
+[Data](articles/057920b9.json)
+
+---
+
 ### முன்னாள் கடற்படை தளபதியின் விளக்கமறியல் நீடிப்பு
 
 *2025-07-30 18:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-தளபதியின்-விளக்கமறியல்-நீடிப்பு/175-362068) · `ta`
@@ -1779,55 +1819,5 @@ According to the Maldivian authorities, this initiative is being offered in the 
 ...
 
 [Data](articles/442b4fc9.json)
-
----
-
-### Maldives grants free 90-day on-arrival tourist visas to Sri Lankans
-
-*2025-07-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111016/maldives-grants-free-90-day-on-arrival-tourist-visas-to-sri-lankans) · `en`
-
-The Government of the Maldives has announced that Sri Lankan citizens will be granted free 90-day on-arrival tourist visas for travel to the Maldives for tourism purposes.
-
-This decision coincides with the official visit of Sri Lankan President Anura Kumara Dissanayake to the Maldives, according to the President’s Media Division (PMD).
-
-This visa facility will take effect from 29 July 2025. To obtain the visa, Sri Lankan travellers must hold a valid passport and provide proof of sufficient funds to cover their expenses during their stay in the Maldives.
-
-According to the Maldivian authorities, this initiative is being offered in the spirit of mutual cooperation between the two nations. It is subject to the terms of the Agreement on the Provision of Visa Facilitation between the Government of the Maldives and the Government of Sri Lanka, as well as the immigration laws and regulations of the Maldives.
-
-...
-
-[Data](articles/feff3b2c.json)
-
----
-
-### லலித், குகன் விவகாரம்: சாட்சியமளிக்க கோட்டா தயார்
-
-*2025-07-30 16:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லலித்-குகன்-விவகாரம்-சாட்சியமளிக்க-கோட்டா-தயார்/175-362054) · `ta`
-
-மனித உரிமை ஆர்வலர்களான லலித் மற்றும் குகன் காணாமல் போனது தொடர்பான ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக நீதவான் நீதிமன்றத்தில் சாட்சியமளிக்க முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்‌ஷ  தயாராக இருப்பதாக அவரது சட்டத்தரணி உயர்நீதிமன்றத்தில் புதன்கிழமை (20) அன்று தெரிவித்தார்.
-
-ஹேபியஸ் கார்பஸ் விசாரணை தொடர்பாக தாக்கல் செய்யப்பட்ட மேல்முறையீட்டு மனு உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, முன்னாள் ஜனாதிபதி சார்பாக ஆஜரான ஜனாதிபதி வழக்கறிஞர் ரொமேஷ் டி சில்வா இதனை நீதிமன்றத்தின் கவனத்துக்கு  தெரிவித்தார்.
-
-இருப்பினும், பாதுகாப்பு காரணங்களுக்காக தனது கட்சிக்காரர் யாழ்ப்பாணத்திற்குப் பதிலாக கொழும்பில் உள்ள ஒரு நீதவான் நீதிமன்றத்தில் ஆஜராக அனுமதிக்கப்பட வேண்டும் என்று அவர் கோரினார்.
-
-மனுதாரர்கள் சார்பாக ஆஜரான வழக்கறிஞர் நுவான் போபேஜ், இந்தக் கோரிக்கைக்கு தங்களுக்கு எந்த ஆட்சேபனையும் இல்லை என்று நீதிமன்றத்திற்குத் தெரிவித்தார்.
-
-...
-
-[Data](articles/094250b7.json)
-
----
-
-### රාජ්‍ය දැව සංස්ථාවේ පරිපාලන දුර්වලතා පිළිබඳව කෝප් කමිටුවේ අවධානය
-
-*2025-07-30 16:18:14* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-දැව-සංස්ථාවේ-පරිපාලන-දුර්වලතා-පිළිබඳව-කෝප්-කමිටුවේ-අවධානය/11-417615) · `si`
-
-රාජ්‍ය දැව සංස්ථාවේ 2022 සහ 2023 වර්ෂවලට අදාළව විගණකාධිපති වාර්තා සහ වත්මන් කාර්යසාධනය විමර්ශනය සඳහා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතීත්වයෙන් පසුගියදා (23) රැස්විය.
-
-රාජ්‍ය දැව සංස්ථාව විසින් සේවක අර්ථසාධක අරමුදල් පනත (EPF) සහ සේවා නියුක්තයන්ගේ භාර අරමුදල් (ETF) පනත්වල ප්‍රතිපාදන ප්‍රකාරව කටයුතු නොකිරීම හේතුවෙන් 2006 වසරේ සිට 2022 වසර දක්වා කාලයට අදාළව එම අරමුදල්වලට අධිභාර වශයෙන් රු. මිලියන 122 කට ආසන්න මුදලක් ගෙවීමට සිදුවී ඇති බව මෙහිදී අනාවරණය විය. එසේම සංස්ථාවේ සේවකයන් විසින් ගෙවිය යුතු දායක මුදල් රු.මිලියන 126කට ආසන්න මුදලක් සංස්ථාව විසින් ගෙවීමට සිදුවීම හේතුවෙන් සංස්ථාවට රු. මිලියන 248ක අලාභයක් සිදුවී ඇති බවත් විගණකාධිපතිවරයා පැවසීය.
-
-...
-
-[Data](articles/7d96b0d8.json)
 
 ---

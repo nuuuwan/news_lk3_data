@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 04:21:52**
+As of **2025-08-01 04:33:25**
 
 ## Newspaper Stats
 
-*Scraped **68,031** Articles*
+*Scraped **68,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 698
 islandlk | 4,149
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,795
+dailyftlk | 4,796
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,031 articles have been extended.
+61,973 (91.1%) of 68,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### First payment released for signalling and telecommunication project on Maho-Anuradhapura railway line
+
+*2025-08-01 04:21:33* · [`dailyftlk`](https://www.ft.lk/news/First-payment-released-for-signalling-and-telecommunication-project-on-Maho-Anuradhapura-railway-line/56-779736) · `en`
+
+The Government of India has released the first instalment, amounting to around $ 2.5 million (approximately Rs. 770 million), for the installation of an advanced signalling and telecommunication system along the Maho-Anuradhapura railway line. This marks another key milestone in India-Sri Lanka cooperation in the railway sector.
+
+The project was jointly launched by the Prime Minister of India and the President of Sri Lanka during the recent high-level visit in April 2025. Initially envisaged as a Line of Credit (LoC) project at a cost of $ 14.89 million, it was later converted into a grant by the Government of India during the State visit of the President of Sri Lanka to India in December 2024. It is being executed by Indian Public Sector Undertaking, Ircon International Ltd.
+
+...
+
+[Data](articles/c51feef6.json)
+
+---
 
 ### அதிவேக நெடுஞ்சாலைகளில் பின் இருக்கை சீட் பெல்ட் கட்டாயம் – போக்குவரத்து அமைச்சகம்
 
@@ -1783,23 +1797,5 @@ GSS bonds fund projects with measurable environmental, social, or sustainability
 ◼️
 
 [Data](articles/4249b6df.json)
-
----
-
-### பரந்தனில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
-
-*2025-07-31 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221445) · `ta`
-
-கிளிநொச்சி - பரந்தன் சந்தியில் இன்று வியாழக்கிழமை (31) காலை இடம்பெற்ற வாகன விபத்தில் யுவதி உயிரிழந்துள்ளார்.
-
-பரந்தனில் இருந்து கிளிநொச்சி நோக்கி சென்ற டிப்பர் வாகனம், கிளிநொச்சியிலிருந்து பரந்தன் நோக்கி சென்ற மோட்டார் சைக்கிள் மீது மோதி விபத்து ஏற்பட்டது.
-
-இந்த விபத்தில் மோட்டார் சைக்கிளில் சென்ற தனியார் வங்கியில் பணிபுரியும் பெண் உயிரிழந்துள்ளார்.
-
-விபத்து தொடர்பான மேலதிக விசாரணைகளை கிளிநொச்சி பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/6abf69cf.json)
 
 ---

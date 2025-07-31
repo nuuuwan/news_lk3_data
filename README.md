@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 13:51:35**
+As of **2025-07-31 14:07:29**
 
 ## Newspaper Stats
 
-*Scraped **67,914** Articles*
+*Scraped **67,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,533
 adaderanalk | 8,382
-tamilmirrorlk | 9,858
+tamilmirrorlk | 9,859
 virakesarilk | 11,299
 adaderanasinhalalk | 11,682
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,682
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,914 articles have been extended.
+61,973 (91.3%) of 67,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### யாழ். பெண்ணை கண்டுபிடிக்க உதவுங்கள்
+
+*2025-07-31 13:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்ணை-கண்டுபிடிக்க-உதவுங்கள்/175-362114) · `ta`
+
+யாழ் வடமராட்சி கிழக்கு நாகர்கோவில் பகுதியில் செவ்வாய்க்கிழமை (29) அன்று இருந்து 25 வயதுடைய டினுசன் நிஸ்ரலா எனும் குடும்ப பெண் ஒருவர் காணாமல் போய் உள்ளார்.
+
+இந்த பெண்ணை கண்டு பிடிக்க உதவும்மாறு பெண்ணின் கணவர் மற்றும் உறவினர்கள் உதவி கோரியுள்ளனர்  இச்சம்பவம் தொடர்பாக மேலும் தெரிய வருவதாவது  கடந்த செவ்வாய்க்கிழமை (29) ஆம் திகதி இரவு கணவனுடன் இருந்த குடும்ப பெண் இரவு11மணியளவில் தூக்கத்தில் இருந்த கணவன் எழுந்து பார்த்தவுடன் குடும்ப பெண்ணை காணவில்லை.
+
+அதனையடுத்து கணவன் மனைவியின் தாயிடம் மனைவி வந்துள்ளாரா என கேட்டுள்ளார் அங்கும் பெண் போகவில்லை இதன் பின் பதற்றம் அடைந்த கணவர் மற்றும் உறவினர்கள் குடும்ப பெண்ணை தேடியுள்ளனர்.
+
+இதனை தொடர்ந்து காணாமல் போன பெண் சம்பந்தமாக மருதங்கேணி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த நிலையில் மருதங்கேணி பொலிஸாரும் தமது தீவிர தேடுதல் நடவடிக்கையில் ஈடுபட்டு வருகின்றனர் .
+
+இன்றுடன் குறித்த பெண் காணாமல் போய் மூன்று நாட்கள் கடந்து செல்லும் நிலையில் அனைவரின் உதவியையும் பெண்ணின் கணவர்மற்றும் குடும்பம் கேட்டுநிற்கின்றனர் .
+
+◼️
+
+[Data](articles/6f75255b.json)
+
+---
 
 ### චීන මහජන විමුක්ති හමුදාව පිහිටුවීමේ 98 වැනි සංවත්සර සැමරුම
 
@@ -1799,19 +1819,5 @@ Ponder for a moment the myriad reasons for which we ought to express gratitude a
 ...
 
 [Data](articles/e5fac30a.json)
-
----
-
-### Breaking free from conventional investment paths; How to make your money work harder – Part II
-
-*2025-07-30 23:38:00* · [`islandlk`](http://island.lk/breaking-free-from-conventional-investment-paths-how-to-make-your-money-work-harder-part-ii/) · `en`
-
-Repayment obligations – No immediate repayment obligations in equity financing. In debt financing however, the borrowed amount must be repaid within a time frame.
-
-Interest payments – In terms of equity financing, there are no interest payments but in debt financing regular interest payments are required.
-
-...
-
-[Data](articles/622a2202.json)
 
 ---

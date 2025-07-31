@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 05:18:46**
+As of **2025-07-31 05:32:14**
 
 ## Newspaper Stats
 
-*Scraped **67,813** Articles*
+*Scraped **67,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 696
 islandlk | 4,136
 economynextcom | 4,144
 dailymirrorlk | 4,733
-dailyftlk | 4,794
+dailyftlk | 4,795
 adalk | 6,520
 adaderanalk | 8,373
 tamilmirrorlk | 9,834
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,813 articles have been extended.
+61,973 (91.4%) of 67,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Sri Lanka, Switzerland review migration partnership progress
+
+*2025-07-31 05:06:08* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Switzerland-review-migration-partnership-progress/56-779717) · `en`
+
+The third meeting of experts on the migration partnership between Sri Lanka and Switzerland was held in Bern on Tuesday (29), where the progress made under the migration partnership since its launch in 2016 was reviewed.
+
+According to Sri Lanka’s Foreign Ministry, a discussion was also held on the future trajectory of the partnership after the formal handing over of the bilateral Safe Labour Migration Program (SLMP) to the Government of Sri Lanka last year.
+
+This program was funded by Switzerland and underscores the commitment to institutionalising sustainable frameworks for the protection and welfare of Sri Lankan migrant workers.
+
+Foreign Affairs, Foreign Employment and Tourism Ministry Director General – Europe and North America Sugeeshwara Gunaratna and Swiss Federal Department of Justice and Police State Secretariat for Migration Director – International Affairs Ambassador Hendrick Krauskopf Co-Chaired the meeting.
+
+...
+
+[Data](articles/a70b3675.json)
+
+---
 
 ### PM Dr. Harini appointed Chairperson of  Sri Lanka National Commission for UNESCO
 
@@ -1801,19 +1819,5 @@ The Chilaw Police is conducting further investigations into the matter.
 ...
 
 [Data](articles/cebbd1cf.json)
-
----
-
-### ඇමෙරිකාවේ හවායි වෙත සුනාමි රළ එයි, තවත් රටවල් කිහිපයකට සුනාමි අනතුරු ඇඟවීම්
-
-*2025-07-30 12:48:53* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-හවායි-වෙත-සුනාමි-රළ-එයි--තවත්-රටවල්-කිහිපයකට-සුනාමි-අනතුරු-ඇඟවීම්/11-417609) · `si`
-
-රුසියාවේ ඇතිවූ රික්ටර් මාපාංකයේ 8.8ක ප්‍රභලත්වයෙන් යුත් භූමිකම්පාවට අදාළව ඇමෙරිකාවේ හවායි වෙත සුනාමි රළ කඩා වැදුණි. හවායි වෙත සුනාමි පූර්ව අනතුරු ඇඟවීම් නිකුත් කර තිබූ හෙයින් ජනතාව ආරක්ෂිත ස්ථාන කරා යොමුව තිබුණි.
-
-මේ අතර චීනය, පිල්පීනය, ඉන්දුනීසියාව, නවසීලන්තය, පේරු හා මෙක්සිකෝ යන රටවල්ද සුනාමි අනතුරු ඇඟවීම් නිකුත් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/3864c090.json)
 
 ---

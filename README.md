@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 16:48:00**
+As of **2025-07-31 17:06:00**
 
 ## Newspaper Stats
 
-*Scraped **67,946** Articles*
+*Scraped **67,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,536
-adaderanalk | 8,391
+adaderanalk | 8,394
 tamilmirrorlk | 9,865
 virakesarilk | 11,305
-adaderanasinhalalk | 11,689
+adaderanasinhalalk | 11,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,946 articles have been extended.
+61,973 (91.2%) of 67,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### හිටපු ජනපති වරප්‍රසාද කැපෙන පනත් කෙටුම්පත ගැසට් කෙරේ
+
+*2025-07-31 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212875) · `si`
+
+හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් පනත අහෝසි කෙරෙන පනත් කෙටුම්පත ගැසට් කර තිබේ.
+
+ඒ අනුව, පහත දැක්වෙන හිමිකම් මෙම පනත් කෙටුම්පත සම්මත වූ දා සිට නොගෙවිය යුත්තේය යනුවෙන් එහි දැක්වෙයි.
+
+හිටපු ජනපති වරප්‍රසාද කැපෙන පනත් කෙටුම්පත ගැසට් කෙරේ by poornima on Scribd
+
+◼️
+
+[Data](articles/03da93c6.json)
+
+---
+
+### මාරක අනතුරින් බිරිඳ ජීවිතක්ෂයට සැමියාට බරපතළයි
+
+*2025-07-31 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212874) · `si`
+
+මරදානේ සිට නාවලපිටිය දක්වා ධාවනය වූ යතුරුපැදියක් ලොරි රථයක ගැටී සිදු වූ අනතුරකින් එහි ගමන්ගත් කාන්තාව ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙම යතුරුපැදියේ අඹුසැමි යුවලක් ගමන් කර ඇති අතර බිරිද එම ස්ථානයේදීම මියගොස් සැමියා බරපතළ තුවාල ලබා නාවලපිටිය දිස්ත්‍රික් මහ රෝහල වෙත ඇතුලත් කර ඇත.
+
+මෙසේ මියගොස් ඇත්තේ මරදාන ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 44ක් වන දෙදරු මවකි.
+
+අදාල යුවල නාවලපිටිය දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාර ලබන ඥාතියෙකු බැලීමට යතුරුපැදියෙන් ගමන් කරමින් සිටියදී හැටන් කොළඹ ප්‍රධාන මාර්ගයේ මිල්ලගහමුල ප්‍රදේශයේදි මෙම අනතුරට මුහුණ දී තිබුණි.
+
+සිද්ධිය සම්බන්ධයෙන් ලොරි රථයේ රියදුරා සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය පැවසුවේය.
+
+මියගිය කාන්තාවගේ සිරුර පශ්චාත් මරණ පරික්ෂණය සදහා දික්ඔය මුලික රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/0b26d5d6.json)
+
+---
+
+### “Should empower women in grassroots-level political activism”: PM Harini
+
+*2025-07-31 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111045/empower-women-in-grassroots-level-political-activism-pm-harini-) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says that her expectation is not only to have women elected as political representatives but also to empower women in grassroots-level political activism. She pointed out that the election of twenty women from her party to the Tenth Parliament is the result of a sustained initiative to empower women in politics, and that the objective of the Women Parliamentarians’ Caucus is to continue that effort beyond party divisions.
+
+The Prime Minister expressed these views at a meeting held in Parliament of the Women Parliamentarians’ Caucus chaired by Minister of Women and Child Affairs Saroja Savithri Paulraj.
+
+The meeting aimed at gathering public opinion on increasing women’s political representation in local government institutions, provincial councils, and Parliament, as well as ensuring equal opportunities and inclusive participation of women in Sri Lankan politics, according to a statement issued by the Department of Communication of Parliament.
+
+...
+
+[Data](articles/b71e7028.json)
+
+---
 
 ### குடு மாலியின் மகள் படுகொலை: இருவர் கைது
 
@@ -63,6 +117,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/627d47be.json)
+
+---
+
+### Colombo inflation climbs in July
+
+*2025-07-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111043/colombo-inflation-climbs-in-july) · `en`
+
+The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to -0.3% in July 2025, compared to -0.6% in June 2025, according to the latest data released by the Department of Census and Statistics.
+
+The CCPI for all items for the month of July 2025 was 194.1 and it records a decrease of 0.4 index points compared to the month of June 2025 for which the index was 194.5.
+
+The Y-on-Y inflation of Food Group decreased to 1.5% in July 2025 from 4.3% in June 2025 and the Y-on-Y inflation of Non Food Group increased to -1.2% in July 2025 from -1.2% in June 2025.
+
+For the month of July 2025, on Y-on-Y basis, the contribution to inflation by food commodities was 0.49%.
+
+◼️
+
+[Data](articles/0e26b1ba.json)
 
 ---
 
@@ -169,6 +241,28 @@ Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smok
 ◼️
 
 [Data](articles/0e3174cf.json)
+
+---
+
+### Lung cancer more prevalent among men compared to women, experts say
+
+*2025-07-31 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111042/lung-cancer-more-prevalent-among-men-compared-to-women-experts-say-) · `en`
+
+Lung cancer is more prevalent among men compared to women, at present, according to Dr. Saman Iddagoda, a Thoracic Surgeon at the National Hospital For Respiratory Diseases in Welisara.
+
+Dr. Saman Iddagoda also noted that there is a rising trend in the number of lung cancer patients in Sri Lanka.
+
+Dr. Iddagoda made these remarks at a media briefing organized by the Health Promotion Bureau, coinciding with the World Lung Cancer Day, which falls tomorrow (August 1).
+
+He noted when analyzing records in the cancer registry of Sri Lanka, there is a clear increase in the number of lung cancer cases among the population.
+
+In particular, there are more reports concerning lung cancer in men, often linked to smoking habits, Dr. Saman Iddagoda added.
+
+Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smoking women being diagnosed and they have observed such individuals are hesitant in seeking hospital treatment.
+
+◼️
+
+[Data](articles/ee39f509.json)
 
 ---
 
@@ -1779,93 +1873,5 @@ But steel and aluminium, other big earners for South Korea, will be taxed at 50%
 ◼️
 
 [Data](articles/ba291f2b.json)
-
----
-
-### ගතවු පළමු මාස 6 දී අල්ලස් ගත් 34ක් අත්අඩංගුවට
-
-*2025-07-31 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212855) · `si`
-
-මේ වසරේ ගත වු පළමු මාස 06 තුළ අල්ලස් ලබාගැනීමේ සිදුවීම් සම්බන්ධයෙන් පුද්ගලයින් 34 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේ මේ වසරේ ජනවාරි මස පළමු වන දින සිට ජුනි මස 30 වන දින දක්වා කාලය තුළ පැමිණිලි 3,022ක් ලැබී ඇති බවයි.
-
-එම කාලය තුළ වැටලීම් 54ක් සිදුකර ඇති අතර ඉන් සැකකරුවන් 34 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-එම සැකකරුවන් අතර ශ්‍රී ලංකා පොලීසියේ නිලධාරීන් දසදෙනෙකු අධිකරණ අමාත්‍යාංශයේ නිලධාරින් 5 දෙනෙකු සෞඛ්‍ය අමාත්‍යාංශයේ නිලධාරීන් දෙදෙනෙකු, ලංකා ගමනාගමන මණ්ඩලයේ නිලධාරින් දෙදෙනෙකු වන බව ද සඳහන් වේ.
-
-ඊට අමතරව සිවිල් පුද්ගලයින් 6 දෙනෙකු ද අල්ලස් ලබාගැනීමේ සිදුවීම් සම්බන්ධයෙන් මේ වසරේ ගත වූ පළමු මාස 6 තුළ අත්අඩංගුවට ගෙන ඇති බවය අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේ.
-
-මේ වසරේ ගත වු කාලය තුළ අල්ලස් ලබාගැනීමේ සිදුවීම් සම්බන්ධයෙන් දිවයිනේ විවිධ අධිකරණ වල සැකකරුවන් 60 දෙනෙකුට එරෙහිව නඩු 50ක් ගොනුකර තිබේ.
-
-...
-
-[Data](articles/564e79a9.json)
-
----
-
-### இன்று அதிகாலை துப்பாக்கி சூடு: ஒருவர் பலி
-
-*2025-07-31 07:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகாலை-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-362090) · `ta`
-
-காலி, கொஸ்கொட பகுதியில் இன்று (31) அதிகாலை இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார் என பொலிஸார் தெரிவித்துள்ளனர்.
-
-அடையாளம் தெரியாத நபர்கள் ரி56 துப்பாக்கியால் மேற்கொண்ட இந்த துப்பாக்கிச் சூட்டில் 23 வயது இளைஞர் ஒருவர் உயிரிழந்துள்ளார் என பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/d0ee1b0e.json)
-
----
-
-### ඉදිරි දින කිහිපයේදී පළාත් කිහිපයකට වැස්ස වැඩිවෙයි
-
-*2025-07-31 07:49:44* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-පළාත්-කිහිපයකට-වැස්ස-වැඩිවෙයි/11-417630) · `si`
-
-ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව හා නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකාර වායුයෙෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙන්නේ උතුරු, උතුරුමැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවයි.
-
-ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් බස්නාහිර හා සබරෙමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි යැයි කාලගුණ විද්‍යා නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
-
-◼️
-
-[Data](articles/044c9988.json)
-
----
-
-### දෙවැනි කුඹල් පෙරහර අද
-
-*2025-07-31 07:42:53* · [`adalk`](https://www.ada.lk/uncategorized/දෙවැනි-කුඹල්-පෙරහර-අද/1-417629) · `si`
-
-සෙංකඩගල ඓතිහාසික ඇසළ පෙරහරේ දෙවැනි කුඹල් පෙරහර අද (31) වීදි සංචාරය කිරීමට නියමිතය.
-
-අද රාත්‍රි 7.01 ට යෙදෙන සුබ මූර්තියෙන් උතුරු දිශාභිමුඛව පෙරහර පිටත්ව දළදා වීදිය ඔස්සේ පැමිණ ඩී. එස්. සේනානායක වීදියෙන් රජවිදියට හරි ඉහළටවිත් පෙරහර ගෙවදීමට නියමිතය.
-
-මේ අතර ඇසළ පෙරහරේ ප්‍රථම කුඹල් පෙරහර ඊයේ (30) පස්වරු 7.05 ට යොදුන සුභ මුහුර්තියෙන් වීදි සංචාරය කරන්නට යෙදුණි.
-
-ප්‍රථම කුඹල් පෙරහරේ සධාතුක කරඬුව වැඩම්මවීමේ පින්බර අවස්ථාව උදා කර ගැනීමට මෙවර  හිමිව තිබුණේ ශ්‍රී දළදා මාළිගාවේ ඇත් පන්තියේ මංගල හස්තියා වශයෙන් සැලකෙන ඉන්දිජාටය. දෑල හස්තීන් වශයෙන් කෝට්ටේ රාජා සහ බුරුම රාජා ගමන් කළේය.
-
-◼️
-
-[Data](articles/53b85e39.json)
-
----
-
-### දෙවැනි කුඹල් පෙරහර අද
-
-*2025-07-31 07:42:53* · [`adalk`](https://www.ada.lk/religion/දෙවැනි-කුඹල්-පෙරහර-අද/4-417629) · `si`
-
-සෙංකඩගල ඓතිහාසික ඇසළ පෙරහරේ දෙවැනි කුඹල් පෙරහර අද (31) වීදි සංචාරය කිරීමට නියමිතය.
-
-අද රාත්‍රි 7.01 ට යෙදෙන සුබ මූර්තියෙන් උතුරු දිශාභිමුඛව පෙරහර පිටත්ව දළදා වීදිය ඔස්සේ පැමිණ ඩී. එස්. සේනානායක වීදියෙන් රජවිදියට හරි ඉහළටවිත් පෙරහර ගෙවදීමට නියමිතය.
-
-මේ අතර ඇසළ පෙරහරේ ප්‍රථම කුඹල් පෙරහර ඊයේ (30) පස්වරු 7.05 ට යොදුන සුභ මුහුර්තියෙන් වීදි සංචාරය කරන්නට යෙදුණි.
-
-ප්‍රථම කුඹල් පෙරහරේ සධාතුක කරඬුව වැඩම්මවීමේ පින්බර අවස්ථාව උදා කර ගැනීමට මෙවර  හිමිව තිබුණේ ශ්‍රී දළදා මාළිගාවේ ඇත් පන්තියේ මංගල හස්තියා වශයෙන් සැලකෙන ඉන්දිජාටය. දෑල හස්තීන් වශයෙන් කෝට්ටේ රාජා සහ බුරුම රාජා ගමන් කළේය.
-
-◼️
-
-[Data](articles/6acc76d2.json)
 
 ---

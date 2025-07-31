@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 22:24:47**
+As of **2025-07-31 22:38:06**
 
 ## Newspaper Stats
 
-*Scraped **68,007** Articles*
+*Scraped **68,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,546
-adaderanalk | 8,408
+adaderanalk | 8,411
 tamilmirrorlk | 9,871
-virakesarilk | 11,324
-adaderanasinhalalk | 11,698
+virakesarilk | 11,327
+adaderanasinhalalk | 11,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,007 articles have been extended.
+61,973 (91.1%) of 68,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### ගෙවුණු මාස 06ට පොලිස් නිලධාරීන් 300ගේ වැඩ තහනම්
+
+*2025-07-31 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212884) · `si`
+
+පසුගිය මාස 06 ඇතුළත පමණක් පොලිස් නිලධාරීන් තුන්සීයකගේ වැඩ තහනමට ලක්ව ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
+
+ඔහු වැඩිදුරටත් සඳහන් කළේ රජයක් ලෙස තරාතිරම කුමක් වුවත් ඕනෑම අයෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කරන බවය.
+
+එමෙන්ම රාජ්‍ය සේවයේ නියුතු සුළු පිරිසක් සිදු කරන වැරදි හේතුවෙන් සමස්ත රාජ්‍ය සේවයටම කැළලක් ඇති වන බව අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/380788c2.json)
+
+---
+
+### மனித எச்சங்கள் கண்டுபிடிக்கப்பட்ட இடம் 'ஒரு மயான பூமி' அல்ல
+
+*2025-07-31 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221496) · `ta`
+
+கிழக்கு மாகாணத்தில் அரசாங்கப் படைகளால் கொல்லப்பட்ட தமிழர்களை நினைவுகூரும் வகையில் அமைக்கப்பட்ட நினைவுச்சின்னத்திற்கு அருகில் மனித எச்சங்கள் கண்டுபிடிக்கப்பட்ட இடம் 'ஒரு மயான பூமி' என்ற கூற்றை ஆதரிக்க போதுமான ஆதாரங்கள் இல்லையென தொல்பொருள் திணைக்களம் நீதிமன்றத்திற்குத் தெரிவித்துள்ளது.
+
+அந்த இடத்தில் கண்டுபிடிக்கப்பட்ட மனித எச்சங்களின் உரிமையாளர்களின் மரணத்திற்கான காரணத்தைக் கண்டறிய மேலும் ஆழமான ஆய்வுகள் நடத்தப்பட வேண்டுமென சட்ட வைத்திய அதிகாரி நீதவான் நீதிமன்றத்திற்குத் தெரிவித்துள்ளார்.
+
+திருகோணமலை மாவட்டத்தில் உள்ள சம்பூர் கடற்கரையில் கண்ணிவெடி அகற்றும் நடவடிக்கையை மேற்கொண்டிருந்த பிரித்தானியாவை தளமாகக் கொண்ட ஒரு நிறுவனம் ஜூலை 20 அன்று மண்டை ஓடு உள்ளிட்ட எலும்புகளைக் கண்டுபிடித்தது.
+
+ஜூலை 30 ஆம் திகதிக்குள் அந்த இடத்தின் வரலாறு குறித்து நீதிமன்றத்திற்கு அறிக்கை சமர்ப்பிக்க தொல்பொருள் திணைக்களத்திற்கு உத்தரவிட்ட மூதூர் நீதிபதி, அகழ்வாய்வு குறித்த அறிக்கையை நீதிமன்றத்திற்கு சமர்ப்பிக்க சட்ட வைத்திய அதிகாரிக்கு உத்தரவிட்டார்.
+
+...
+
+[Data](articles/c71f6aea.json)
+
+---
+
+### அமெரிக்க தீர்வை வரி இன்று முதல் அமுல் – அதனைத் தடுக்கும் முயற்சி தோல்வி: சமன் ரத்னப்பிரிய
+
+*2025-07-31 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221495) · `ta`
+
+அமெரிக்காவினால் இலங்கைக்கு விதிக்கப்பட்டிருக்கும் 30வீத தீர்வை வரி இன்று முதல் அமுலுக்கு வருகின்ற நிலையில், வரியை குறைத்துக்கொள்ள அமெரிக்காவுக்கு சென்ற அரசாங்கத்தின் தூதுக்குழுவினரால் அதனை செய்ய முடியாமல் போயிருக்கிறது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் சமன் ரத்னப்பிரிய தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் காரியாலயத்தில் வியாழக்கிழமை (31) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இலங்கை அமெரிக்காவுக்கு ஏற்றுமதி செய்யும் பொருட்களுக்கான தீர்வை வரியை அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம் நூற்றுக்கு 10 வீதத்தில் இருந்து 44 வீதமாக அதிகரித்திருந்தார். ஜனாதிபதி ட்ரம்பின் இந்த தீர்வை வரி அதிகரிப்பு அனைத்து நாடுகளுக்கும் அதிகரிக்கப்பட்டிருந்தது. என்றாலும் அதிகமான நாடுகள் உடனடியாக செயற்பட்டு, இராஜதந்திர அடிப்படையில் அமெரிக்காவுடன் கலந்துரையாடி, விதிக்கப்பட்டிருந்த தீர்வை வரியை குறைத்துக்கொள்ள நடவடிக்கை எடுத்திருந்தது.
+
+...
+
+[Data](articles/a7bacee3.json)
+
+---
+
+### முன்னாள் ஜனாதிபதிகளுக்கான விசேட சலுகைகள் ரத்து செய்யப்படும் - சட்டமூல வரைவு வெளியீடு
+
+*2025-07-31 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/221490) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்துச் செய்தற்கான சட்டமூலம் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்பட்டுள்ளது. நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சின் பணிப்புக்கமைய இந்த வர்த்தமானி பிரசுரிக்கப்பட்டுள்ளது.
+
+இதற்கமைய முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது விதவையான மனைவியருக்கு வழங்கப்படும் அரச உத்தியோகபூர்வ இல்லம், மாதாந்த கொடுப்பனவு, செயலாளருக்கான மாதாந்த கொடுப்பனவு, உத்தியோகபூர்வ வாகனங்கள் மற்றும் வேறு வசதி வழங்கள் என்பன இதனூடாக நிறுத்தப்படவுள்ளது.
+
+அத்துடன் முன்னாள் ஜனாதிபதியின் மனைவிக்கு செலுத்தப்பட்ட மாதாந்த கொடுப்பனவு இச்சட்டமூலத்தின் ஊடாக நிறுத்துவதற்கு சட்டமூலத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+1986 ஆம் ஆண்டு 04 ஆம் இலக்க ஜனாதிபதிகளின் உரித்து சட்டத்தை இரத்துச் செய்யும் பொருட்டு இச்சட்டமூலம் தயாரிக்கப்பட்டுள்ளது.
+
+இந்தச் சட்டமூலம் 2025 ஆம் ஆண்டு ..... இலக்க ஜனாதிபதிகளின் உரித்து (இரத்துச் செய்தல்) சட்டம் என்று அடையாளப்படுத்தப்படும்.
+
+...
+
+[Data](articles/647af6fa.json)
+
+---
+
+### Trump announces agreement to pause higher tariffs on Mexico for 90 days
+
+*2025-07-31 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111058/trump-announces-agreement-to-pause-higher-tariffs-on-mexico-for-90-days) · `en`
+
+President Donald Trump announced on Thursday he’s extending the existing tariffs with Mexico, America’s largest trading partner, and he will pause higher tariffs that were set to go into effect Friday.
+
+That means the status quo will continue, in which goods from Mexico are taxed at 25%, unless they are compliant with the United States-Mexico-Canada trade deal Trump signed under his first term. In those instances, goods won’t face any tariffs, barring certain sectoral tariffs in place.
+
+“I have just concluded a telephone conversation with the President of Mexico, Claudia Sheinbaum, which was very successful in that, more and more, we are getting to know and understand each other,” Trump said in a Truth Social post. “The complexities of a Deal with Mexico are somewhat different than other Nations because of both the problems, and assets, of the Border. We have agreed to extend, for a 90 Day period, the exact same Deal as we had for the last short period of time.”
+
+...
+
+[Data](articles/dae67c3e.json)
+
+---
 
 ### අමෙරිකානු බදු අඩුකරගැනීමේ සාකච්ඡාවල නවතම තත්ත්වය ගැන කියන හඳුන්නෙත්ති
 
@@ -56,9 +142,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-31 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111057/300-police-officers-suspended-since-january-public-security-minister-) · `en`
 
-Around 300 police officers have been suspended owing to various offenses in the past six months, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has revealed.
+Around 300 police officers have been suspended owing to various offenses since January, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has revealed.
 
-◼️
+Although around 200 police personnel were suspended in 2024, the numbers have increased significantly this year, the Public Security Minister noted.
+
+The Minister said due to the actions of certain government employees, the image of the entire state service has been tarnished.
+
+He said some workers even have lost their monthly pension payments despite working for 25 years in the state service after being found guilty of committing various offenses.
+
+Minister of Public Security and Parliamentary Affairs Ananda Wijepala said it is unfortunate that at present, the Inspector General of Police, the Controller General of Immigration and Emigration and the Commissioner General of Prison are all held by individuals who are in acting capacity.
+
+...
 
 [Data](articles/4e88a99e.json)
 
@@ -116,7 +210,9 @@ The Government of India has released the first installment, amounting to around 
 
 This marks another key milestone in India–Sri Lanka cooperation in the railway sector, the Indian High Commission in Colombo stated.
 
-◼️
+The project was jointly launched by President Anura Kumara Dissanayake and Prime Minister of India Narendra Modi during the recent high-level visit in April 2025. Initially envisaged as a Line of Credit (LoC) project at a cost of USD 14.89 million, it was later converted into a grant by the Government of India during the State Visit of the President of Sri Lanka to India in December 2024. It is being executed by Indian Public Sector Undertaking, Ircon International Limited.
+
+...
 
 [Data](articles/688842cc.json)
 
@@ -180,6 +276,24 @@ Accordingly, all fuel prices will remain unchanged for August, it said.
 
 ### Sri Lanka-China defence ties reaffirmed at PLA 98th anniversary celebrations
 
+*2025-07-31 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111054/sri-lanka-china-defence-ties-reaffirmed-at-pla-98th-anniversary-celebrations) · `en`
+
+Deputy Minister of Defence, Major General (Retd) Aruna Jayasekara has highlighted the deep-rooted friendship between Sri Lanka and China, forged through centuries of cultural exchange and strengthened over 68 years of formal diplomatic relations.
+
+The Deputy Minister of Defence made these remarks while addressing the event held to mark the 98th Anniversary of the founding of the Chinese People’s Liberation Army (PLA).
+
+Addressing the event, the Deputy Minister commended the PLA’s 98 years of remarkable history, resilience, and evolution in overcoming the diverse challenges of modern warfare and security.
+
+He also recalled the landmark state visit of the President to China in January this year. The Deputy Minister stated that the visit reaffirmed the shared values of independence, self-reliance, solidarity, and mutual assistance as enshrined in the historic Rubber-Rice Pact, while paving the way to further deepen the Strategic Cooperative Partnership between the two nations.
+
+...
+
+[Data](articles/5af8fda5.json)
+
+---
+
+### Sri Lanka-China defence ties reaffirmed at PLA 98th anniversary celebrations
+
 *2025-07-31 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111054/sri-lanka-china-defence-ties-reaffirmed-at-pla-98th-anniversary-celebration) · `en`
 
 Deputy Minister of Defence, Major General (Retd) Aruna Jayasekara has highlighted the deep-rooted friendship between Sri Lanka and China, forged through centuries of cultural exchange and strengthened over 68 years of formal diplomatic relations.
@@ -220,6 +334,26 @@ He also recalled the landmark state visit of the President to China in January t
 
 ---
 
+### Discussions with US officials aimed at reducing tariffs have not been successful: Handunneththi
+
+*2025-07-31 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111053/discussions-with-us-officials-aimed-at-reducing-tariffs-have-not-been-successful-handunneththi) · `en`
+
+Discussions held with US authorities aimed at reducing the higher reciprocal tariff rate announced by US President Donald Trump have not been successful thus far, Minister of Industry and Entrepreneurship Development Sunil Handunneththi has acknowledged.
+
+Although several discussions were held with US authorities, Sri Lanka has been unsuccessful in striking a deal to reduce the reciprocal tariffs announced by the US President, Minister Handunneththi conceded.
+
+According to the announcement made by US President Trump, an additional 30% tariff will be imposed on Sri Lankan exports entering the US market from tomorrow (Aug 1).
+
+The Minister said they are still hopeful of a better deal pertaining to tariffs, although it takes effect from tomorrow.
+
+A virtual discussion was also held last week between President Anura Kumara Dissanayake and U.S. Trade Representative (USTR) Jamieson Greer regarding the further reduction of trade tariffs imposed by the United States on Sri Lankan exports.
+
+...
+
+[Data](articles/4b7f518d.json)
+
+---
+
 ### Discussions held with US authorities aimed at reducing tariffs have not been successful: Handunneththi
 
 *2025-07-31 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111053/discussions-held-with-us-authorities-aimed-at-reducing-tariffs-have-not-been-successful-handunneththi) · `en`
@@ -233,22 +367,6 @@ According to the announcement made by US President Trump, an additional 30% tari
 ◼️
 
 [Data](articles/5ab41572.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளுக்கான விசேட சலுகைகள் ரத்து செய்யப்படும் - சட்டமூல வரைவு வெளியீடு
-
-*2025-07-31 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221490) · `ta`
-
-முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களுக்கு வழங்கப்பட்ட விசேட சலுகைகள் மற்றும் உரிமைகள் ரத்து செய்யப்படவுள்ளன. இதற்கான சட்டமூல வரைவு, அரச வர்த்தமானியில் தற்போது வெளியிடப்பட்டுள்ளது.
-
-இந்த சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்படும் நாளிலிருந்து, முன்னாள் ஜனாதிபதிகள் பெற்றிருந்த பின்வரும் சலுகைகள் மற்றும் உரிமைகள் செல்லாதவையாகும்.
-
-இந்த மாற்றத்துக்கான அனுமதி, அண்மையில் நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் வழங்கப்பட்டிருந்தது என்பதும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/647af6fa.json)
 
 ---
 
@@ -667,6 +785,24 @@ To reach the target, the Central Bank is conducting a series of island-wide prog
 ...
 
 [Data](articles/e5c3606f.json)
+
+---
+
+### பாடசாலை மாணவர்கள் மத்தியில் போதைப்பொருள் பாவனை அதிகரிப்பு - அமைச்சர்  வசந்த சமரசிங்க குற்றச்சாட்டு
+
+*2025-07-31 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221472) · `ta`
+
+பாடசாலை மாணவர்கள் மத்தியில் போதைப்பொருள் பாவனை தீவிரமடைந்துள்ளமை  பாரதூரமானது. போதைப்பொருள் வர்த்தகத்துக்கும், அரசாங்கத்துக்கும் எவ்வித தொடர்பும் கிடையாது.ஆகவே போதைப்பொருள் ஒழிப்புக்கு அனைவரும் ஒத்துழைக்க வேண்டுமென  உணவு பாதுகாப்பு மற்றும் வணிக, கூட்டுறவு அபிவிருத்தி அமைச்சர்  வசந்த சமரசிங்க தெரிவித்தார்.
+
+போதைப்பொருள் ஒழிப்புக்கான நடவடிக்கைகள் சகல அமைச்சு மற்றும் திணைக்கள மட்டத்தில் முன்னெடுக்கப்பட்டுள்ளன. பாடசாலை மாணவர்கள் மத்தியில் போதைப்பொருள் பாவனை தீவிரமடைந்துள்ளமை பாரதூரமானதுடன், துரதிஸ்டவசமானது.
+
+போதைப்பொருள் வர்த்தகம் மற்றும் வியாபாரத்துக்குமிடையில் அரசியல் தொடர்பிருப்பதாக கடந்த காலங்களில் குறிப்பிடப்பட்டது. எமது அரசாங்கத்துக்கும் போதைப்பொருள் வர்த்தகர்களுக்கு இடையில் எவ்வித தொடர்பும் கிடையாது.இதனால் தான் போதைப்பொருள் ஒழிப்புக்கு கடுமையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
+
+போதைப்பொருள் ஒழிப்புக்கு கல்வி அமைச்சு மட்டத்தில் உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன. இதற்கு அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும். சட்டவிரோதமான செயற்பாடுகளுக்கு எதிராக கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என்றார்.
+
+◼️
+
+[Data](articles/e0da9ebf.json)
 
 ---
 
@@ -1657,137 +1793,5 @@ The Chief Justice also stated that the digitization of court proceedings will be
 ...
 
 [Data](articles/f7c6634c.json)
-
----
-
-### தர்ம சக்கரம் பொறிக்கப்பட்ட ஆடை அணிந்த பெண் கைது செய்யப்பட்டமை அடிப்படை உரிமைகளை மீறிய செயல் - உயர் நீதிமன்றம் தீர்ப்பு
-
-*2025-07-31 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221426) · `ta`
-
-2019 ஆம் ஆண்டு தர்ம சக்கரம் பொறிக்கப்பட்ட ஆடையை அணிந்தமைக்காக பெண்ணொருவர் கைது செய்து தடுத்து வைக்கப்பட்டமை அவரது அடிப்படை உரிமைகளை மீறிய செயலாகும் என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
-
-அதன்படி, ஹசலக்க பொலிஸ் நிலையத்தின் முன்னாள் பொறுப்பதிகாரி தனது தனிப்பட்ட நிதி மூலம் பாதிக்கப்பட்டவருக்கு 30,000 ரூபாவை நஷ்ட ஈடாக வழங்குமாறு உத்தரவிட்டுள்ளது.
-
-கொலொங்கொடையைச் சேர்ந்த 47 வயதான அப்துல் ரஹீம் மசாஹீனா என்ற நபரே , தனது அடிப்படை உரிமைகள் மீறப்பட்டதாக தெரிவித்து , பிரதிவாதிகள் மீது விசாரணை நடத்தி, ஒழுகாற்று நடவடிக்கை எடுத்து வழக்குத் தொடர சட்டமா அதிபர் மற்றும் பொலிஸ் மா அதிபர் ஆகியோருக்கு உத்தரவிடக் கோரி இந்த மனுவை தாக்கல் செய்திருந்தார்.
-
-தீர்ப்பை வழங்கிய நீதிபதி யசந்த கோடகோடா, நீதிபதி குமுதினி விக்ரமசிங்க மற்றும் நீதிபதி ஷிரான் குணரத்ன ஆகியோர் உடன்பட்டு அடிப்படை உரிமைகள் விண்ணப்பத்தை அனுமதித்தனர்.
-
-2019 ஆம் ஆண்டு மே மாதம் 18 ஆம் திகதி முதல் ஜூன் மாதம் 03 ஆம் திகதி வரை பதுளை சிறைச்சாலையில் தான் விளக்கமறியலில் வைக்கப்பட்டதாக  மனுதாரர்  குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/0a43d86b.json)
-
----
-
-### කාන්තාවන්ට වඩා පිරිමින්ට පෙනහළු පිළිකා අවදානමක්
-
-*2025-07-31 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212866) · `si`
-
-කාන්තාවන්ට සාපේක්ෂව පිරිමි පුද්ගලයන්ට පෙනහළු පිළිකා ඇතිවීමේ වර්ධනයක් පෙන්නුම් කරන බව වැලිසර ජාතික ළය රෝහලේ විශේෂඥ ශෛල්‍ය වෛද්‍ය සමන් ඉද්දගොඩ මහතා පවසයි.
-
-එමෙන්ම ඔහු පැවසුවේ මෙරට පෙනහළු පිළිකා රෝගීන්ගේ ඉහළ යාමක් පෙන්නුම් කරන බවය.
-
-හෙට (01) දිනයට යෙදී ඇති ලෝක පෙනහළු පිළිකා දිනයට සමගාමීව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් ශල්‍ය වෛද්‍ය සමන් ඉද්දගොඩ මහතා මේ බව සඳහන් කළේය.
-
-"ලංකාවේ තියෙනවා පිළිකා සම්බන්ධයෙන් දත්ත වාර්තා කරන ලේඛනය. හැම අවුරුද්දෙම ඒකේ සටහන් වෙනවා පිළිකා සම්බන්ධයෙන් දත්තයන්. දත්ත පරිශීලනය කරාම පැහැදිලි වර්ධනයක් තියෙනවා මේ පෙනහළු පිළිකාවල ලංකාවේ ජනතාවගේ. විශේෂයෙන් පිරිමි පුද්ගලයින්ගේ පෙනහළු පිළිකා සම්බන්ධයෙන් වැඩිපුර සමීක්ෂණ වාර්තා තියෙන්නේ දුම්පානය කිරීම සම්බන්ධයෙන් තොරතුරු. නමුත් දත්ත පරීක්ෂා කිරීමේ දී  දුම් නොබන කාන්තාවන්ගේ ප්‍රතිශතය ඉහළ ගොස් තිබෙනවා. අපිට ඒ පුද්ගලයින් රෝහල්වලට පැමිණේමේදී යම්කිසි ප්‍රමාදයක් තියෙනවා."
-
-◼️
-
-[Data](articles/dda511c1.json)
-
----
-
-### Heat warning issued for several areas
-
-*2025-07-31 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111034/heat-warning-issued-for-several-areas) · `en`
-
-The Meteorology Department has issued a Warm Weather Advisory for Northern, Eastern and North-central provinces and Monaragala and Hambantota districts.
-
-It states that the Heat Index, the temperature felt on human body is expected to increase up to ‘Caution level’ today (31)  at some places in Northern, Eastern and North-central provinces and Monaragala and Hambantota districts.
-
-As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/98b08ae0.json)
-
----
-
-### மட்டக்களப்பில் சட்டவிரோத மணல் கடத்தல்: ஒருவர் கைது
-
-*2025-07-31 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221442) · `ta`
-
-மட்டக்களப்பு - காத்தான்குடி பகுதியில், சட்டவிரோதமாக மணல் ஏற்றி வந்த ஒருவர், காத்தான்குடி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட முக்கிய வீதியில் மேற்கொள்ளப்பட்ட திடீர் சோதனையின் போது, அனுமதிப் பத்திரம் இன்றி மணல் ஏற்றிய உழவு இயந்திரம் கண்டறியப்பட்டது.
-
-அதனை தொடர்ந்து உழவு இயந்திரத்தை இயக்கிய நபர் உடனடியாக கைது செய்யப்பட்டார். மேலும் கைது செய்யப்பட்ட நபர் உழவு இயந்திரத்துடன் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளார்.
-
-◼️
-
-[Data](articles/9117d445.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයාට උපකාර කරපු තරුණයට අලි රංචුවක් දීපු දඩුවම
-
-*2025-07-31 12:42:29* · [`adalk`](https://www.ada.lk/picture_story/කණ්ඩලමේ-හැඩකාරයාට-උපකාර-කරපු-තරුණයට-අලි-රංචුවක්-දීපු-දඩුවම/10-417636) · `si`
-
-කණ්ඩලමේ හැඩකාරයා නමින් හදුන්වන වන අලියාට මුලින්ම පිහිට වූ තරුණයාගේ  පළමු අස්වැන්න  නෙලීමට දින කිහිපයක්  තිබූ තක්කාලි වගා බිම 30 දින රාත්‍රියේ වන අලින් රංචුවක් විසින් සම්පූර්ණයෙන් විනාශ කර දමා තිබේ.
-
-කණ්ඩලම  කුරාගල ප්‍රදේශයේ තරුණයෙකු වන සනත් ජානක බණ්ඩාර මහතා  පූර්ණ කාලීනව එළවළු වගාව සිදු කරන තරුණයෙකි. යකුරාගල ප්‍රදේශයේ ඉතා සාර්ථකව අස්වැන්න නෙළීමට තිබූ තක්කාලි වගා භූමියකට පැමිණි වන අලි තිදෙනෙකුට අස්වනු නෙළීමට තිබූ තක්කාලි බිම ඊට එළා තිබූ බට සියල්ල විනාශ කර දමා තිබේ.
-
-දීනපතාම රාත්‍රියේ ගසක් උඩ පැලක් තනාගෙන තම වගා භූමිය ආරක්ෂා කරමින් සිටින බවත් මෙදින තමන්ගේ දරුවා පාසල් අධ්‍යාපන චාරිකාවක ගොස් ඔහු රැගෙන ඒම සඳහා ගිය අවස්ථාවේ දී වන අලින් වගා භූමියට කඩා වැදී ඇතැයි ජානක බණ්ඩාර මහතා සඳහන් කළේය.
-
-මෙම තක්කාලි වගාව ඇතුළු වූ වන අලින් එහි එළා තිබූ බට වලට දැඩි හානි සිදුකොට තිබේ. වන අලින්ගේ පාදවලට පෑගුණු තක්කාලි ගෙඩි සහ ගස් සම්පූර්ණයෙන්ම විනාශ   වීමද දැක ගැනීමට හැකි විය.
-
-...
-
-[Data](articles/1a39c3de.json)
-
----
-
-### Sri Lanka’s tourist arrivals exceed 1.3 million so far this year
-
-*2025-07-31 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111033/sri-lankas-tourist-arrivals-exceed-13-million-so-far-this-year) · `en`
-
-The number of tourists who have arrived in the island so far this year has exceeded 1.3 million, according to the latest data.
-
-The Sri Lanka Tourism Development Authority (SLTDA) said a total of 1,341,953 tourists have visited the island between January 01 and July 27, 2025.
-
-The majority of the visitors are Indian nationals, numbering 274,919.
-
-In addition, it is reported that tourists from countries including Britain, Russia, Germany, China, France, Australia, and the Netherlands have also visited the island in significant numbers.
-
-According to information provided by the SLTDA, a total of 173,909 tourists arrived in the island within the first 27 days of July.
-
-Furthermore, the highest number of tourists for the month arrived on July 26, with 7,579 arrivals on that day.
-
-◼️
-
-[Data](articles/bb0ba48a.json)
-
----
-
-### Defence, security cooperation discussed at third Japan–Sri Lanka policy meet
-
-*2025-07-31 12:36:00* · [`economynextcom`](https://economynext.com/defence-security-cooperation-discussed-at-third-japan-sri-lanka-policy-meet-233879/) · `en`
-
-ECONOMYNEXT – Sri Lanka and Japan have discussed foreign policy matters, bilateral issues, and enhanced cooperation, at the third Japan–Sri Lanka Policy Dialogue, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-“Discussions focused on strengthening economic cooperation, with particular emphasis on shared interests in trade and investment.”
-
-The two sides addressed key issues related to labour migration, exploring pathways for sustainable and mutually beneficial migration frameworks, the ministry said.
-
-Deepening defence and security sector cooperation between the two countries was also discussed.
-
-Sri Lanka briefed Japan, Co-Chair of the Official Creditor Committee (OCC), on its current economic situation and ongoing efforts towards debt sustainability.
-
-...
-
-[Data](articles/b8079deb.json)
 
 ---

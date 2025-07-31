@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 15:49:11**
+As of **2025-07-31 16:07:07**
 
 ## Newspaper Stats
 
-*Scraped **67,940** Articles*
+*Scraped **67,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,536
-adaderanalk | 8,389
-tamilmirrorlk | 9,863
-virakesarilk | 11,304
+adaderanalk | 8,391
+tamilmirrorlk | 9,864
+virakesarilk | 11,305
 adaderanasinhalalk | 11,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,940 articles have been extended.
+61,973 (91.2%) of 67,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### “நீதிமன்ற கட்டமைப்பு டிஜிட்டல் மயமாகும்”
+
+*2025-07-31 15:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-கட்டமைப்பு-டிஜிட்டல்-மயமாகும்/175-362123) · `ta`
+
+நாடு முழுவதும் நீதிமன்ற கட்டமைப்பை டிஜிட்டல் மயமாக்குவதை விரைவுபடுத்தத் திட்டமிட்டுள்ளதாகப் புதிதாக நியமிக்கப்பட்ட பிரதம நீதியரசர் பிரீத்தி பத்மன் சூரசேன, வியாழக்கிழமை (31) அன்று தெரிவித்தார்.
+
+நீதி நிர்வாகத்தில் தொழில்நுட்ப ரீதியாக மேம்பட்ட முறைகளைப் பின்பற்ற வேண்டிய நேரம் வந்துவிட்டது என்றும் வலியுறுத்தினார்.
+
+இலங்கையின் 49ஆவது பிரதம நீதியரசரை வரவேற்கும் சம்பிரதாய நிகழ்வு, உயர் நீதிமன்றத்தில் நடைபெற்றது. அதில் கலந்து​கொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்மொழியப்பட்ட டிஜிட்டல் மயமாக்கல் முயற்சி தொடர்பாக இலங்கை வழக்கறிஞர்கள் சங்கத்தின் (BASL) தலைவருடன் ஏற்கனவே பலமுறை கலந்துரையாடல்களை நடத்தியுள்ளதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+
+அதற்கு மேலதிகமாக, டிஜிட்டல் முறையை செயல்படுத்துவது குறித்து விவாதிக்க நீதி அமைச்சர் மற்றும் நீதி அமைச்சின் செயலாளருடன் சந்திப்புகளை நடத்தியுள்ளதாகவும், இதை நாடு முழுவதும் ஆவலுடன் எதிர்பார்க்கிறது என்றும் அவர் கூறினார்.
+
+...
+
+[Data](articles/dfc50790.json)
+
+---
 
 ### ජර්මානු ඔලිම්පික් ශූරිය පාකිස්තානයේ දී මරුට
 
@@ -76,6 +96,48 @@ biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍ර
 
 ---
 
+### அமெரிக்காவில் நடுவானில் விமானம் குலுங்கியதால் அவசரமாக தரையிறக்கம் : 25 பயணிகள் வைத்தியசாலையில் அனுமதி
+
+*2025-07-31 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221456) · `ta`
+
+நடுவானில் குலுங்கியதால் பலர் காயமடைந்ததை அடுத்து டெல்டா ஏர்லைன்ஸ் விமானம் புதன்கிழமை மினியாபோலிஸ் - செயின்ட் போல் சர்வதேச விமான நிலையத்தில் அவசரமாக தரையிறக்கப்பட்டது.
+
+அமெரிக்காவின் சால்ட் லேக் சிட்டி விமான நிலையத்திலிருந்து அந்நாட்டு நேரப்படி மாலை 4:30 மணிக்கு நெதர்லாந்தின் தலைநகர் ஆம்ஸ்டர்டாம் நோக்கி புறப்பட்ட இந்த விமானம் நாடுவானில் குலுங்கியதால் மினியாபோலிஸுக்கு திருப்பி அனுப்பப்பட்டது.
+
+அமெரிக்காவில் மட்டும் கடந்த 2009ஆம் ஆண்டு முதல் 207 பேர் பலத்த காயமடைந்துள்ளனர். இதில் பலரும் 48 மணி நேரத்திற்கும் அதிகமாக மருத்துவமனையில் சிகிச்சை பெற்றனர் என அமெரிக்காவின் தேசிய போக்குவரத்து பாதுகாப்பு அமைப்பு தகவல்கள் தெரிவிக்கின்றன.
+
+ஓராண்டில் உலகளவில் புறப்படும் சுமார் 3.5 கோடிக்கும் அதிகமான விமானங்களில், 5000 விமானங்கள் தீவிரமாக குலுங்குவதாக  கணக்கிடப்பட்டுள்ளது.
+
+2023 ஆம் ஆண்டில் விமானப் பயணிகளுக்கு ஏற்பட்ட காயங்களில் 40 சதவீதமான காயங்கள் விமானம் குலுங்கியதால் ஏற்பட்டவை என சர்வதேச சிவில் விமான போக்குவரத்து அமைப்பின் வருடாந்திர அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4b0e3b93.json)
+
+---
+
+### Lung cancer more prevalent among men compared to women, experts
+
+*2025-07-31 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111042/lung-cancer-more-prevalent-among-men-compared-to-women-experts-) · `en`
+
+Lung cancer is more prevalent among men compared to women, at present, according to Dr. Saman Iddagoda, a Thoracic Surgeon at the National Hospital For Respiratory Diseases in Welisara.
+
+Dr. Saman Iddagoda also noted that there is a rising trend in the number of lung cancer patients in Sri Lanka.
+
+Dr. Iddagoda made these remarks at a media briefing organized by the Health Promotion Bureau, coinciding with the World Lung Cancer Day, which falls tomorrow (August 1).
+
+He noted when analyzing records in the cancer registry of Sri Lanka, there is a clear increase in the number of lung cancer cases among the population.
+
+In particular, there are more reports concerning lung cancer in men, often linked to smoking habits, Dr. Saman Iddagoda added.
+
+Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smoking women being diagnosed and they have observed such individuals are hesitant in seeking hospital treatment.
+
+◼️
+
+[Data](articles/0e3174cf.json)
+
+---
+
 ### ரூ2,000 கோரி துண்டுப்பிரசுரங்கள் விநியோகம்
 
 *2025-07-31 15:16:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ2-000-கோரி-துண்டுப்பிரசுரங்கள்-விநியோகம்/76-362121) · `ta`
@@ -87,6 +149,20 @@ biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍ර
 ...
 
 [Data](articles/ea0dd0ad.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
+
+*2025-07-31 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221455) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மத்துகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
+
+சட்டவிரோத வாகன வழக்கு தொடர்பாக நேற்று புதன்கிழமை (30) இவர் கைது செய்யப்பட்டிருந்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/903615b8.json)
 
 ---
 
@@ -138,17 +214,25 @@ biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍ර
 
 ---
 
-### ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
+### Youth arrested with drugs worth over Rs. 10 million in Borella
 
-*2025-07-31 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221455) · `ta`
+*2025-07-31 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111041/youth-arrested-with-drugs-worth-over-rs-10-million-in-borella) · `en`
 
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மத்துகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
+An individual has been arrested for the possession of a stock of over one kilogram of ICE (Crystal Methamphetamine) narcotics in Borella, police stated.
 
-சட்டவிரோத வாகன வழக்கு தொடர்பாக நேற்று புதன்கிழமை (30) இவர் கைது செய்யப்பட்டிருந்திருந்தமை குறிப்பிடத்தக்கது.
+Based on information received by the Borella Police Station, the suspect was arrested along with the drugs during an inspection of a motorcycle adjacent to the Sirisara Uyana housing complex in Borella.
+
+Police stated that 1 kilogram and 105 grams of ICE and 125 grams of heroin were found in his possession at the time.
+
+The value of the seized stock is estimated to exceed Rs. 10 million.
+
+He is reportedly an associate of an organized criminal, according to police.
+
+The Borella Police is conducting further investigations into the incident.
 
 ◼️
 
-[Data](articles/903615b8.json)
+[Data](articles/68d01270.json)
 
 ---
 
@@ -1783,83 +1867,5 @@ Agreements were exchanged between both parties during the visit, including a Mem
 ◼️
 
 [Data](articles/b8dd2943.json)
-
----
-
-### කාන්තාවක් අත්අඩංගුවට ගෙන රඳවා තබාගැනීමක් සම්බන්ධයෙන් හසලක OICට දුන් තීන්දුවක්
-
-*2025-07-31 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212854) · `si`
-
-2019 වසරේ "ධර්ම චක්‍රයක්" සහිත ඇඳුමක් පැළඳ සිටියේ යැයි කාන්තාවක් අත්අඩංගුවට ගෙන රඳවා තබාගැනීම තුළින් හසලක පොලීසියේ ස්ථානාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
-
-අදාළ කාන්තාව විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කිරීමෙන් අනතුරුව කුමුදුනී වික්‍රමසිංහ, ශිරාන් ගුණරත්න යන විනිසුරුවරුන්ගේ එකඟත්වයෙන් යුතුව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු යසන්ත කෝදාගොඩ මහතා මෙම තීන්දුව ප්‍රකාශයට පත් කරනු ලැබීය.
-
-ඒ අනුව අදාළ අත්අඩංගුවට ගැනීම සිදුකළ හසලක පොලීසියේ එවකට ස්ථානාධිපති පොලිස් පරීක්ෂක චන්දන නිශාන්ත යන අය විසින් සිය පෞද්ගලික මුදල් වලින් රුපියල් 30,000ක මුදලක් පෙත්සම්කාරියට ගෙවිය යුතු බවත් විනිසුරු මඩුල්ල නියෝග කර තිබේ.
-
-එම වන්දි මුදල ගෙවීම සඳහා පොලිස් දෙපාර්තමේන්තුවේ අරමුදල් හෝ පොලිස් සාමුහික අරමුදලේ මුදල් භාවිත නොකළ බවට පොලිස්පතිවරයා විසින් අධිකරණයට සහතිකයක් ලබාදිය යුතු බවටත් එම නියෝගයේ සඳහන් වේ.
-
-...
-
-[Data](articles/a6c522a4.json)
-
----
-
-### Trump says did a deal with Pakistan involving oil exploration
-
-*2025-07-31 07:10:00* · [`economynextcom`](https://economynext.com/trump-says-did-a-deal-with-pakistan-involving-oil-exploration-233790/) · `en`
-
-ECONOMYNEXT – President Donald Trump said he had concluded a deal with Pakistan, which involves oil exploration, without giving additional details.
-
-“We have just concluded a Deal with the Country of Pakistan, whereby Pakistan and the United States will work together on developing their massive Oil Reserves,” he said in a post on his truthsocial.com platform.
-
-“We are in the process of choosing the Oil Company that will lead this Partnership. Who knows, maybe they’ll be selling Oil to India some day!”
-
-Getting oil exploration blocks without open bidding on a government to government deals (so-called assignment basis) was earlier the preserve of countries like China and Russia.
-
-The US had advocated free international bidding for countries to get maximum revenues.  US aid also gave technical assistance to Sri Lanka’s petroleum exploration office to prepare oil blocks for commercial bidding.
-
-...
-
-[Data](articles/6da19675.json)
-
----
-
-### මාලදිවයින් රාජ්‍ය සංචාරය සාර්ථකව නිම කරමින් ජනපති දිවයිනට
-
-*2025-07-31 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212852) · `si`
-
-මාලදිවයින් රාජ්‍ය සංචාරය සාර්ථකව අවසන් කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (30) රාත්‍රියේ දිවයිනට පැමිණියේය.
-
-පසුගිය 28 වනද ජනාධිපතිවරයා මෙම සංචාරයේ නිරත වූයේ මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු (Dr. Mohamed Muizzu) මහතාගේ ආරාධනයකට අනුවය.
-
-මෙම රාජ්‍ය සංචාරයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා, ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා සමඟ මෙන්ම මාලදිවයිනේ කැබිනට් අමාත්‍යවරුන් ඇතුළු රාජ්‍ය ප්‍රධානීන් සමඟද අන්‍යෝන්‍ය වශයෙන් වැදගත් වන ද්විපාර්ශ්වික, කලාපීය සහ ජාත්‍යන්තර කරුණු පිළිබඳව පුළුල් ලෙස සාකච්ඡා පැවැත් වීය.
-
-මෙම සංචාරය තුළදී ශ්‍රී ලංකාව සහ මාලදිවයින අතර අන්‍යෝන්‍ය නීති අධාර ගිවිසු‍මක් සහ මාලදිවයිනේ විදේශ සේවා ආයතනය (FOSIM) සහ බණ්ඩාරනායක රාජ්‍යතාන්ත්‍රික පුහුණු ආයතනය අතර අවබෝධතා ගිවිසුමක් හුවමාරු කර ගැනිණි.
-
-ජනාධිපතිවරයා වෙනුවෙන් මාලදිවයින් ජනාධිපති ආචාර්ය මොහමද් මුයිසු මහතා විසින් ‘කුරුම්බා මෝල්ඩිව්ස්’නිවාඩු නිකේතනයේදී විශේෂ රාත්‍රී භෝජන සංග්‍රහයක්ද සංවිධානය කර තිබිණි.
-
-...
-
-[Data](articles/05dd7037.json)
-
----
-
-### 23-year-old shot dead in Kosgoda
-
-*2025-07-31 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111024/23-year-old-shot-dead-in-kosgoda) · `en`
-
-A 23-year-old youth has been shot dead in the Doowamodera area of Kosgoda at around 5.30 a.m. this morning (31), Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler, said.
-
-The shooting was reportedly carried out by two unidentified gunmen who arrived on a motorcycle.
-
-Preliminary investigations conducted by the police have revealed that a T-56 firearm was used in the shooting.
-
-The Police Media Spokesperson stated that the Kosgoda Police have launched further investigations into the incident.
-
-The deceased has been identified as Aruth Mendis, the son of the owner of a turtle center, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/1b600852.json)
 
 ---

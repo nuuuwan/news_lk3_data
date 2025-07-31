@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 20:50:41**
+As of **2025-07-31 21:06:47**
 
 ## Newspaper Stats
 
-*Scraped **67,995** Articles*
+*Scraped **67,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,149
 economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,543
+adalk | 6,545
 adaderanalk | 8,403
 tamilmirrorlk | 9,871
 virakesarilk | 11,321
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 67,995 articles have been extended.
+61,973 (91.1%) of 67,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### අගෝස්තු මාසයට අදාළව ඉන්ධන මිල ගැන ගත් තීරණය මෙන්න
+
+*2025-07-31 20:43:00* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-මාසයට-අදාළව-ඉන්ධන-මිල-ගැන-ගත්-තීරණය-මෙන්න/11-417651) · `si`
+
+අගෝස්තු මාසයට අදාළව ඉන්ධන මිල ගණන්වල වෙනසක් සිදු නොවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/163874dc.json)
+
+---
 
 ### අගෝස්තු මස ඉන්ධන මිලේ වෙනසක් නෑ
 
@@ -181,6 +193,22 @@ The 2021 state of emergency declaration gave military chief Min Aung Hlaing supr
 ...
 
 [Data](articles/0532bb32.json)
+
+---
+
+### විරාජ් තාඹුගලගෙන් හා පියුමි හංසමාලිගෙන් රු. කෝටි 42ක ’බදු පොල්ලක්’
+
+*2025-07-31 18:46:08* · [`adalk`](https://www.ada.lk/breaking_news/විරාජ්-තාඹුගලගෙන්-හා-පියුමි-හංසමාලිගෙන්-රු--කෝටි-42ක-’බදු-පොල්ලක්’/11-417647) · `si`
+
+අවුරා ලංකා සමාගමේ සභාපති විරාජ් තාබුගල හා කෙටි කලකින් කෝටිපතිනියක් වූයේ යැයි කියන නිරූපණ ශිල්පිනි පියුමි හංසමාලි ගෝමස් කමැත්තන් 2022/2023 වර්ෂ සඳහා ගෙවීම පැහැර හැරී රුපියල් කෝටි 42කට ආසන්න ආදායම් බදු මුදල්, දඩ හා පොලිය අයකර ගැනීමට මහාධිකරණයේ නඩු පවරන බව දේශීය ආදායම් කොමසාරිස්වරයා කොළඹ අතිරේක පසන් අමරසේන මහතාට අද (31) දැනුම් දුන්නේය.
+
+තාබුගල මහතා රුපියල් මිලියන 194ක බදු මුදලක් සහ ‘ලෝලියා ස්කින් කෙයා’ පුද්ගලික සමාගමේ හිමිකාරිනි පියුමි හංසමාලි මහත්මිය රුපියල් මිලියන 225ක බදු මුදලක් ගෙවීම පැහැර හැර ඇතැයිද දේශීය ආදායම් කොමසාරිස්වරයා වැඩිදුරටත් දැනුම් දුන්නේය.
+
+පියුමි හංසමාලී නමැති නිරූපණ ශිල්පිනියට හා විරාජ් තාඹුගල නමැති ව්‍යාපාරිකයාට එරෙහි විමර්ශන ගොනු කැඳවූ අවස්ථාවේදී දේශීය ආදායම් කොමසාරිස්වරයා වෙනුවෙන් පෙනී සිටි නීතිඥ දිනේෂ් පෙරේරා මහතා වැඩිදුර වාර්තාවක් ඉදිරිපත් කරමින් මේ බව දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/c9fdbe7e.json)
 
 ---
 
@@ -1781,39 +1809,5 @@ A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Pe
 ...
 
 [Data](articles/831e6388.json)
-
----
-
-### முஸ்லிம் பெண்களின் கலாச்சார ஆடைகளை அகற்ற பணிப்புரை ?
-
-*2025-07-31 11:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-பெண்களின்-கலாச்சார-ஆடைகளை-அகற்ற-பணிப்புரை/175-362108) · `ta`
-
-சுகாதாரத் துறையில் பணி புரியும் முஸ்லிம் பெண் ஊழியர்கள் அணியும் கலாச்சாரம் சார்ந்த ஆடைகளை அகற்றுமாறு திருகோணமலை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வழங்கியுள்ள பணிப்புரையை ஏற்றுக்கொள்ள முடியாதென திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இம்ரான் மகரூப் தெரிவித்தார்.
-
-“திருகோணமலையிலுள்ள வைத்தியசாலைகள் மற்றும் சுகாதார வைத்திய அதிகாரி அலுவலகங்களில் கடமையாற்றும் முஸ்லிம் தாதியர்கள், மருத்துவ மாதுக்கள் மற்றும் சிற்றூழியர்கள் இனிமேல் கலாச்சார ஆடை அணிந்து கடமைக்கு வரக்கூடாது என பிராந்திய சுகாதார சேவைகள் பணிப்பாளரால் அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக பாதிக்கப்பட்ட அலுவலர்கள் எனது கவனத்திற்கு கொண்டு வந்துள்ளனர்.
-
-...
-
-[Data](articles/62f02639.json)
-
----
-
-### Sri Lanka President returns after signing Maldives agreements
-
-*2025-07-31 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-returns-after-signing-maldives-agreements-233874/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake has returned to the island after a visit to the Maldives where two bilateral agreements were signed.
-
-The two agreements were a Mutual Legal Assistance Agreement between Sri Lanka and the Maldives and a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike International
-
-The Maldives President Mohamed Muizzu and Dissanayake expressed “their mutual commitment to further strengthen and expand their close friendship and cooperation” Dissanayake’s media division said.
-
-Dissanayake met ministers and state officials of the Maldives to discuss bilateral, regional and international issues of mutual importance.
-
-He also addressed a business forum organized by the Sri Lanka High Commission in the Maldives and the Sri Lanka–Maldives Business Council of the Ceylon Chamber of Commerce, as well as a gathering of expatriate community. (Colombo/Jul31/2025)
-
-◼️
-
-[Data](articles/0768977d.json)
 
 ---

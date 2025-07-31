@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 15:24:32**
+As of **2025-07-31 15:35:33**
 
 ## Newspaper Stats
 
-*Scraped **67,936** Articles*
+*Scraped **67,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,535
 adaderanalk | 8,389
-tamilmirrorlk | 9,862
+tamilmirrorlk | 9,863
 virakesarilk | 11,304
 adaderanasinhalalk | 11,686
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,936 articles have been extended.
+61,973 (91.2%) of 67,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### ரூ2,000 கோரி துண்டுப்பிரசுரங்கள் விநியோகம்
+
+*2025-07-31 15:16:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ2-000-கோரி-துண்டுப்பிரசுரங்கள்-விநியோகம்/76-362121) · `ta`
+
+தோட்டத் தொழிலாளர்களின் நாளாந்த ஊதியத்தை 2000 ரூபாவாக உயர்த்துதல் உள்ளிட்ட பல கோரிக்கைகளை அடிப்படையாகக் கொண்ட துண்டுப் பிரசுரங்களை விநியோகிக்கும் விழிப்புணர்வு நிகழ்ச்சி வியாழக்கிழமை (31) அன்று ஹட்டன் பேருந்து நிலையத்தில் நடைபெற்றது.
+
+தோட்டத் தொழிலாளர் மையம், ​சமூக நீதிக்கான மலையக மக்கள் இயக்கம் மற்றும் மக்கள் போராட்ட இயக்கம் ஆகியவற்றின் உறுப்பினர்களால் இந்த விழிப்புணர்வு நிகழ்ச்சி நடத்தப்பட்டது.
+
+...
+
+[Data](articles/ea0dd0ad.json)
+
+---
 
 ### ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
 
@@ -1847,25 +1861,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/91b1ad41.json)
-
----
-
-### Trump imposes 15 tariff on Korea, suspends de minimis citing drugs
-
-*2025-07-31 06:13:00* · [`economynextcom`](https://economynext.com/trump-imposes-15-tariff-on-korea-suspends-de-minimis-citing-drugs-233783/) · `en`
-
-ECONOMYNEXT – Korean goods will be subject to a tariff of 15 percent, President Donald Trump said in a social media post, while also suspending de minimis duty exemptions for goods.
-
-Korea will give 350 billion dollars “for Investments owned and controlled by the United States, and selected by myself, as President,” he said.
-
-“Additionally, South Korea will purchase $100 Billion Dollars of LNG, or other Energy products and, further, South Korea has agreed to invest a large sum of money for their Investment purposes,” Trump said.
-
-“This sum will be announced within the next two weeks when the President of South Korea, Lee Jae Myung, comes to the White House for a Bilateral Meeting.
-
-“It is also agreed that South Korea will be completely OPEN TO TRADE with the United States, and that they will accept American product including Cars and Trucks, Agriculture, etc. We have agreed to a Tariff for South Korea of 15%. America will not be charged a Tariff.”
-
-...
-
-[Data](articles/5102b71e.json)
 
 ---

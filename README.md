@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 14:39:03**
+As of **2025-07-31 14:54:31**
 
 ## Newspaper Stats
 
-*Scraped **67,919** Articles*
+*Scraped **67,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 4,149
 economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,533
+adalk | 6,534
 adaderanalk | 8,382
-tamilmirrorlk | 9,859
+tamilmirrorlk | 9,860
 virakesarilk | 11,299
 adaderanasinhalalk | 11,686
 
@@ -26,21 +26,43 @@ adaderanasinhalalk | 11,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,919 articles have been extended.
+61,973 (91.2%) of 67,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
 
+### தேயிலை தூள் திருடிய உதவி முகாமையாளருக்கு பிணை
+
+*2025-07-31 14:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-தூள்-திருடிய-உதவி-முகாமையாளருக்கு-பிணை/76-362117) · `ta`
+
+1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் அடங்கிய No. 1 டஸ்ட்,  60 கிலோ கிராம் தேயிலை தூளை திருடிய குற்றச்சாட்டை ஒத்துக்கொண்ட தோட்ட உதவி முகாமையாளர் ஹட்டன் நீதவான் நீதிமன்றத்தில், புதன்கிழமை (30) பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+ஆர்.பி.கே.பிளான்டேசனுக்கு உரித்தான மஸ்கெலியா பிரவுன்ஸ்வீக் தோட்ட தேயிலை தொழிற்சாலையில் இருந்து  840,000 ரூபாய் பெறுமதியான No. 1 டஸ்ட், தேயிலை தூள் 60 கிலோ கிராம் நிறை கொண்ட 1,200 கிலோ கிராம்  அடங்கிய 20 பொதிகள் கடந்த 23 ம் திகதி களவாடப்பட்டுள்ளது  என தோட்ட முகாமையாளர்  நிலுஷான் மதுசங்க ஜயவீர , மஸ்கெலியா பொலிஸ் நிலையத்தில் புகார் ஒன்றை பதிவு செய்திருந்தார்.
+
+அதனைத் தொடர்ந்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமாரவின் பணிப்புக்கு அமைய விசாரணைகள் ஆரம்பிக்க பட்டு தேயிலை தொழிற்சாலையில் பொருத்த பட்டு இருந்த சீ.சீ.டி வி கெமராக்கள் பரிசோதனை மேற்கொள்ளப்பட்டது..
+
+23.07.2025.அன்று இரவு 8.30.மணி தொடக்கம் 10.30 மணிக்குள் தேயிலை தூள் அடங்கிய 20 பொதிகள்  தோட்ட உதவி முகாமையாளரால்   லொறிக்கு  ஏற்றப் பட்டது தெரிய வந்தது.
+
+...
+
+[Data](articles/f8c12e21.json)
+
+---
+
 ### රෝහිතගේ දියණියට ඇප
 
 *2025-07-31 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212870) · `si`
 
-මතුගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කළ පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය වන රොෂෙල් අබේගුණවර්ධන මහත්මියට ඇප හිමිව තිබේ.
+මතුගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කළ පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය වන රොෂෙල් අබේගුණවර්ධනට ඇප හිමිව තිබේ.
 
-ඇය අද (31) දින අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+ඇය අද (31) පෙරවරුවේ අධිකරණය වෙත ඉදිරිපත් කළ අතර, එහිදී රුපියල් ලක්ෂ 20 බැගින් වූ ශරීර ඇප 2ක් මත මුදාහැර තිබේ.
 
-ඒ අනුව ඇය රුපියල් ලක්ෂ 20 බැගින් වූ ශරීර ඇප 2ක් මත මුදාහැර තිබේ.
+නීති විරෝධි ලෙස ව්‍යාජ තොරතුරු ඇතුළත් කර ලියාපදිංචි කරන ලද සුඛෝපභෝගී මෝටර් රථයක් සම්බන්ධයෙන් සිදුකරන පරීක්ෂණවලට අදාළව ඇය ඊයේ (30) වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකය වෙත භාර වී තිබුණි.
+
+එහිදී ඇයගෙන් පැය 9කට අධික කාලයක් ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව අත්අඩංගුවට ගනු ලැබීය.
+
+මෙම සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් රොෂෙල් අබේගුණවර්ධනගේ සැමියා මේ වනවිට රක්ෂිත බන්ධනාගාර ගතව සිටියි.
 
 ◼️
 
@@ -63,6 +85,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3bb7891d.json)
+
+---
+
+### ඉන්දීය - එංගලන්ත පස්වන ටෙස්ට් ක්‍රිකට් තරගය අද
+
+*2025-07-31 14:11:51* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය---එංගලන්ත-පස්වන-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-417637) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පස්වන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගය අද (31දා) එංගලන්තයේ ඕවල් ක්‍රීඩාංගනයේදී පැවැත්වේ.
+
+දෙරට අතර පැවති තරග 04න් තරග 2ක් ජයග්‍රහණය කරමින් එංගලන්ත කණ්ඩායම මේ වන විට ඉදිරියෙන් සිටින අතර, ඉන්දීය කණ්ඩායම මෙහිදී එක් තරගයක් පමණක් ජයගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/4f68d691.json)
 
 ---
 
@@ -1797,35 +1833,5 @@ Corruption is not merely the result of individual moral failings but a symptom o
 ...
 
 [Data](articles/f94804cd.json)
-
----
-
-### Beyond visa waivers: Building Sri Lanka’s global tourism brand
-
-*2025-07-31 03:57:45* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-visa-waivers-Building-Sri-Lanka-s-global-tourism-brand/4-779698) · `en`
-
-The visa waiver initiative should not serve as a smokescreen for the continued absence of a coherent international marketing campaign. Despite repeated proclamations, no meaningful effort has materialised—even though the necessary funds have long been available.
-
-This failure to properly position Sri Lanka is doing real harm. It contributes to suppressed room rates across all categories of accommodation and deters foreign direct investment, which remains significantly lower than in competing regional markets due to weak margins. Ask any hotelier.
-
-...
-
-[Data](articles/274a312d.json)
-
----
-
-### Letter of concern to Defence Secretary over arrest of former Navy Chief
-
-*2025-07-31 03:55:02* · [`dailyftlk`](https://www.ft.lk/opinion/Letter-of-concern-to-Defence-Secretary-over-arrest-of-former-Navy-Chief/14-779697) · `en`
-
-Civilian intelligence architect and legal-State strategist Jihan Hameed has written to the Defence Secretary expressing concern over the manner in which the former Navy Commander Nishantha Ulugetenne was arrested and remanded on Tuesday. In her letter Hameed alleges grave institutional failure in the civilian remanding of the former Navy Chief and urges clarification from the Defence Secretary. Following are excerpts.
-
-This letter is issued to formally raise alarm over the recent remanding through civilian custody of the former Commander of the Sri Lanka Navy — a constitutional-level military authority who once held direct command over one-third of Sri Lanka’s defence apparatus.
-
-The treatment of such a figure through standard criminal remand procedures, absent any assertion of military custody or command-level procedural safeguards, amounts to a direct institutional breakdown and violates the national doctrine of civil–military coordination.
-
-...
-
-[Data](articles/812ba85a.json)
 
 ---

@@ -1,0 +1,32 @@
+{
+  "newspaper_id": "adaderanalk",
+  "url": "https://www.adaderana.lk/news/111052/sri-lanka-to-launch-digital-id-by-april-2026-govt-assures-citizen-privacy-and-data-security",
+  "time_ut": 1753969380.0,
+  "original_lang": "en",
+  "original_title": "Sri Lanka to launch Digital ID by April 2026; Govt assures citizen privacy and data security",
+  "original_body_lines": [
+    "In a major push towards digital transformation, the Government of Sri Lanka announced that it will launch its national Digital ID system by April 2026, a move that it promises will revolutionize access to public services while ensuring strong data privacy and citizen protection.",
+    "The project, implemented under the Ministry of Digital Economy, is funded by a grant of approximately LKR 10.4 billion from the Government of India.",
+    "\u201cThis will minimise the financial burden on the Sri Lankan government,\u201d the Ministry confirmed.",
+    "The Digital Economy Initiative envisions building an inclusive and robust digital economy by 2030, positioning Sri Lanka as a regional digital hub. A key step toward achieving this goal is the implementation of a secure and reliable digital identity system, the statement said.",
+    "For decades, Sri Lanka\u2019s physical National Identity Card (NIC) has served as the foundation for identification and public service access. However, the global pivot toward secure and scalable digital identity solutions has prompted Sri Lanka to adopt a modern digital alternative.",
+    "The selected platform is the Modular Open-Source Identity Platform (MOSIP), a globally recognised, open-source digital ID framework already in use in countries such as the Philippines, Morocco, Ethiopia, and Togo. Over 130 million people globally have received MOSIP-based IDs, the ministry said.",
+    "The Ministry said it considered three options: a locally developed system, proprietary commercial solutions, and international open-source platforms. MOSIP emerged as the most cost-effective, secure, and sovereign-friendly option, it said.",
+    "\u201cBuilding an in-house solution would be time-consuming, will be limited to the knowledge available locally, at a time when digital ID expertise and experience are readily available to be extracted from other countries and products, requiring continuous investment of public money in software development, maintenance, and long-term sustainability.\u201d",
+    "Proprietary platforms, while mature, came with high costs, limited flexibility, and the risk of vendor lock-in, the ministry said, adding that MOSIP gives Sri Lanka flexibility, avoids vendor lock-in, and ensures the government retains full control of citizen data.",
+    "Unlike commercial alternatives, MOSIP\u2019s open-source nature means it can be customised, maintained, and audited independently, making it ideal for long-term national use, it said.",
+    "The ministry clarified that a certified Indian system integrator will customise MOSIP for Sri Lanka, while local IT professionals will be trained for full operation, maintenance, and future development of the system.",
+    "- All data capture will be handled solely by the Department for Registration of Persons",
+    "- Biometric or personal data will be collected once the system is fully under local management.",
+    "- A full security audit will be conducted by Sri Lanka CERT before the system\u2019s activation.",
+    "- The system will be deployed in infrastructure that is owned and operated by the Sri Lankan Government.",
+    "The Ministry of Digital Economy emphasised that the Digital ID system is designed with privacy and data security at its core.",
+    "Biometric data, such as face, fingerprints, and iris scan data, will be stored encrypted using multi-layer encryption both in transit and at rest. This approach ensures that citizen data remains private, secure, and fully inaccessible to unauthorised parties, reinforcing public confidence in the system\u2019s integrity, it said.",
+    "The Ministry noted that contrary to public misconceptions, MOSIP is not India\u2019s \u201cAadhaar\u201d system.",
+    "While inspired by Aadhaar\u2019s model, MOSIP is an international, open-source platform developed by a consortium of global experts in digital identity and cybersecurity, the statement pointed out.",
+    "\u201cThere have been no reported data breaches in any MOSIP-based system,\u201d the Ministry affirmed.",
+    "Officials emphasise that the Digital ID is more than just a technical tool; it is a cornerstone for inclusive governance and public trust.",
+    "The new system aims to simplify access to public and private sector services, enhance transparency and efficiency in government service delivery, and protect citizen privacy through modern encryption and data protocols. Enable the digital economy through secure digital authentication.",
+    "The Ministry of Digital Economy called on all stakeholders to approach the initiative with facts, not fear, and to support a project that will serve as the digital foundation for generations to come."
+  ]
+}

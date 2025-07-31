@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 00:49:26**
+As of **2025-08-01 00:27:33**
 
 ## Newspaper Stats
 
-*Scraped **68,026** Articles*
+*Scraped **68,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
 islandlk | 4,149
-economynextcom | 4,164
+economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,546
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,026 articles have been extended.
+61,973 (91.1%) of 68,016 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -538,28 +538,6 @@ The aggrieved party submitting the appeal claims that the Court of Appeal’s de
 
 ---
 
-### Sri Lanka opens US$1.2bn of vehicle import LCs : President
-
-*2025-07-31 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-us1-2bn-of-vehicle-import-lcs-president-233969/) · `en`
-
-ECONOMYNEXT – Sri Lanka car importers have opened 1.2 billion US dollars of letters of credit to import vehicles, President Anura Kumara Dissanayake said.
-
-“For five years, vehicle imports in our country were stopped. We have opened up the vehicle market,” President Dissanayake was quoted as saying to the Sri Lanka community in the Maldives.
-
-“As of yesterday, we have opened LCs worth 1200 million dollars for vehicle imports. However, the dollar remains stable. This reflects a very important characteristic of the economy.”
-
-Each month Sri Lanka gets around 2.1 to 2.4 billion US dollars of current inflows from exports, remittances, tourism and other services exports.
-
-The money is used for imports, to travel abroad, service imports like software, interest payments, dividends.
-
-In May for example the net outflow of the primary investment account which is mostly dividends and interest was 146 million dollars but personal vehicles were only 126 million dollars.
-
-...
-
-[Data](articles/d321e314.json)
-
----
-
 ### மரணதண்டனை கைதி விடுவிப்பு: தீர்ப்புக்கு எதிரான மனு விசாரணைக்கு வருகிறது
 
 *2025-07-31 18:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணதண்டனை-கைதி-விடுவிப்பு-தீர்ப்புக்கு-எதிரான-மனு-விசாரணைக்கு-வருகிறது/175-362138) · `ta`
@@ -730,26 +708,6 @@ To reach the target, the Central Bank is conducting a series of island-wide prog
 
 ---
 
-### Sri Lanka’s PABC Bank net up 71-pct in June 2025 quarter
-
-*2025-07-31 17:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-pabc-bank-net-up-71-pct-in-june-2025-quarter-233962/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s PABC Bank said net profits for the June 2025 quarter grew 71 percent to 1,135.1 million rupees from a year earlier, helped by lower interest expenses, reduced bad loans and income tax expenses, the earnings filed to the Colombo Stock Exchange showed.
-
-PABC reported earnings of 2.56 rupees for the quarter. For the six months to June 30, earnings were 4.68 rupees on total profits of 2,151.9 billion rupees.
-
-Income taxes in the quarter were down 43 percent to 307.4 million rupees from 538.6 million rupees in the same quarter a year earlier.
-
-Interest income was steady at 7.6 billion rupees, interest expenses, however, fell 5 percent to 4.37 billion rupees and net interest income grew 9 percent to 3.23 billion rupees.
-
-For the quarter the PABC provided 181 million rupees for impairments, 55 percent lower than 401.4 million rupees in the June quarter a year earlier amid some recovery in the economy.
-
-...
-
-[Data](articles/5a8b8201.json)
-
----
-
 ### චොකා මල්ලී නිදහස් කිරීමේ තීන්දුවට එරෙහි නීතිපතිගේ විශේෂ අභියාචනය විභාගයට ගනියි
 
 *2025-07-31 17:38:09* · [`adalk`](https://www.ada.lk/breaking_news/චොකා-මල්ලී-නිදහස්-කිරීමේ-තීන්දුවට-එරෙහි-නීතිපතිගේ-විශේෂ-අභියාචනය-විභාගයට-ගනියි/11-417643) · `si`
@@ -763,28 +721,6 @@ For the quarter the PABC provided 181 million rupees for impairments, 55 percent
 ...
 
 [Data](articles/50ebedd4.json)
-
----
-
-### Sri Lanka consumer prices rise 2.9-pct over 34-months, July prices down
-
-*2025-07-31 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-prices-rise-2-9-pct-over-34-months-july-prices-down-233947/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s consumer prices fell 0.3 percent in the 12-months to July 2025, with prices dropping 0.2 percent in July, data from the state statistics office showed.
-
-Sri Lanka’s central bank has created only 2.9 percent inflation in the 34 months since September 2022, when deflationary policy started showing up in the balance of payments.
-
-But the central bank printed money in the last quarter of 2024 as a pickup in credit pushed up interbank rates.
-
-Excess liquidity built up in the first quarter from dollar purchases which the central bank’s founder Governor John Exter, who had superior knowledge of note-issue banking, once called ‘monetizing the balance of payments’.
-
-In June food prices were rose 0.9 percent in the 33 months from September 2022, but in July 2025 food price were down 1.5 percent over 34 months.
-
-Sri Lanka’s central bank has also been helped by better monetary policy from the Fed.
-
-...
-
-[Data](articles/7ebf389c.json)
 
 ---
 
@@ -821,28 +757,6 @@ Sri Lanka’s central bank has also been helped by better monetary policy from t
 ...
 
 [Data](articles/b0c6cd0a.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bonds broadly steady
-
-*2025-07-31 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-broadly-steady-233941/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.10/20 to the US dollar in the spot market Thursday, edging lower from 302.20/30 the previous day, while bond yields held broadly steady although longer tenors edged down slightly, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
-
-A bond maturing on 15.10.2028 closed at 8.97/9.02 percent, down from 9.00/05 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/54 percent, down from 9.52/56 percent.
-
-A bond maturing on 01.11.2033 closed at 10.75/82 percent. (Colombo/July31/2025)
-
-◼️
-
-[Data](articles/5d5d5614.json)
 
 ---
 
@@ -1218,20 +1132,6 @@ The meeting aimed at gathering public opinion on increasing women’s political 
 
 ---
 
-### Sri Lanka sells extra Rs23bn Treasury bills after auction
-
-*2025-07-31 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs23bn-treasury-bills-after-auction-233937/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 23,005 million rupees of treasury bills offered on tap at an average rate of 7.91 percent, the state debt office said.
-
-On Wednesday (30) the debt office raised 66.12 billion rupees of 3, 6 and 12 month bills.
-
-◼️
-
-[Data](articles/50063c88.json)
-
----
-
 ### இலங்கையின் புடைவை மற்றும் ஆடைக் கைத்தொழில் துறையில் நிலைத்தன்மை வணிகத்திற்கான வெளிப்படைத்தன்மையை மேம்படுத்தல் திட்டம் ஆரம்பம்
 
 *2025-07-31 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221466) · `ta`
@@ -1350,28 +1250,6 @@ For the month of July 2025, on Y-on-Y basis, the contribution to inflation by fo
 
 ---
 
-### Sri Lanka stocks close up after initial selling pressure
-
-*2025-07-31 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-initial-selling-pressure-233927/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange rallied to close up on Thursday, after seeing some selling pressure in the morning, brokers said.
-
-“In the morning the market was down because there was a bit of selling pressure coming in on the back of all the negative publicity surrounding John Keells,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-“This brought the overall market sentiment down. But buying interest was strong and market ended on a positive note.”
-
-The ASPI was up 0.39 percent, or 76.33 points, at 19,642.48; while the S&P SL20 was up 0.18 percent, or 10.49 points, at 5,762.17.
-
-Market turnover was 5.66 billion rupees. Most of this came from bank stocks (1.5 billion rupees), capital goods stocks (1.3 billion rupees), Food, Beverage & Tobacco Industry (883 million rupees) and diversified financials (578 million rupees).
-
-There was a lot of retail activity despite the negative publicity with investors “not too disturbed”, Mathew said.
-
-...
-
-[Data](articles/3dcd187e.json)
-
----
-
 ### “நீதிமன்ற கட்டமைப்பு டிஜிட்டல் மயமாகும்”
 
 *2025-07-31 15:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-கட்டமைப்பு-டிஜிட்டல்-மயமாகும்/175-362123) · `ta`
@@ -1389,26 +1267,6 @@ There was a lot of retail activity despite the negative publicity with investors
 ...
 
 [Data](articles/dfc50790.json)
-
----
-
-### Sri Lanka’s Chevron Lubricants June net up 32-pct; finance cost falls
-
-*2025-07-31 15:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-chevron-lubricants-june-net-up-32-pct-finance-cost-falls-233929/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Chevron Lubricants grew 32 percent from a year ago to 989.7 million rupees in the June 2025 quarter helped by higher revenue, the interim accounts showed.
-
-The firm reported earnings of 4.12 rupees for the quarter. The stock closed at 170.25 rupees, up 3.75 rupees on Thursday.
-
-The firm faced a lower finance cost in the June quarter compared to the same period last year. The finance cost fell 7 percent to 19.6 million rupees in the quarter compared to 21.2  million in the June quarter last year.
-
-Gross profits rose 19 percent to 2,039.5 million rupees as revenue rose 7 percent to 5,680.7 million rupees while cost of sales edged up 2 percent to 3,641.2 million in the quarter.
-
-Sri Lanka’s interest rates have fallen after the central bank cut the key monetary policy rates sharply since last year to boost credit and economic growth. The move has helped companies to borrow at a lower cost. (Colombo/July 31/2025)
-
-◼️
-
-[Data](articles/a0e66974.json)
 
 ---
 
@@ -1449,26 +1307,6 @@ biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍ර
 ◼️
 
 [Data](articles/6ced3f12.json)
-
----
-
-### Sri Lanka’s COYLE to get Japanese HR know-how from JETRO
-
-*2025-07-31 15:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-coyle-to-get-japanese-hr-know-how-from-jetro-233961/) · `en`
-
-ECONOMYNEXT – The Chamber of Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) have signed a Memorandum of Understanding (MoU) to strengthen collaboration and foster workplace well-being.
-
-The MoU outlines a joint framework for knowledge exchange, benchmarking, and shared learning, drawing on Japan’s expertise in human resource management and health-oriented workplace innovation.
-
-“By collaborating with JETRO, COYLE aims to bring international best practices to Sri Lankan enterprises while creating opportunities for deeper bilateral engagement in economic and social spheres,” COYLE said in a statement.
-
-The partnership is aimed at fostering mutual development and promoting a culture of “Health and Productivity Management” across Sri Lanka’s corporate sector.
-
-At part of this the Sri Lanka Corporate Health & Productivity Awards (SLCHPA) will be expanded.
-
-...
-
-[Data](articles/de776920.json)
 
 ---
 
@@ -1652,30 +1490,6 @@ The Borella Police is conducting further investigations into the incident.
 
 ---
 
-### Sri Lanka’s DFCC Bank to sell Rs10bn GSS+ bond
-
-*2025-07-31 14:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-to-sell-rs10bn-gss-bond-233906/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc is planning a 10-year green, social and sustainable (GSS) bond issue to raise 10 billion rupees, it said.
-
-The proposed issue will offer 100 million Basel III compliant, subordinated, listed, rated, unsecured, redeemable GSS+ bonds, with a non-viability conversion option, at 100 rupees each.
-
-The bonds, with a term of up to 10 years, will be issued with annual coupon payments.
-
-The interest rates are to be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said.
-
-The issue is subject to receiving necessary regulatory and other approvals.
-
-The bank’s previous green bond issue to raise 2.5 billion rupees was oversubscribed.
-
-GSS bonds fund projects with measurable environmental, social, or sustainability objectives, going further than green bonds which fund eco-friendly projects such as renewable energy and climate adaptation.
-
-...
-
-[Data](articles/5eef5eb8.json)
-
----
-
 ### தேயிலை தூள் திருடிய உதவி முகாமையாளருக்கு பிணை
 
 *2025-07-31 14:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-தூள்-திருடிய-உதவி-முகாமையாளருக்கு-பிணை/76-362117) · `ta`
@@ -1819,5 +1633,175 @@ In the US, there have been 207 severe injuries caused by turbulence - where an i
 ◼️
 
 [Data](articles/4f68d691.json)
+
+---
+
+### රුපියල්  කෝටිය ඉක්මවන මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
+
+*2025-07-31 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212868) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑමයකට අධික තොගයක් සමග පුද්ගලයෙකු බොරැල්ල ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+බොරැල්ල පොලිස් ස්ථානයට ලද තොරතුරක් මත බොරැල්ල, සිරිසර උයන මහල් නිවාසය අසලදී යතුරුපැදියක් පරීක්ෂා කිරීමේ දී අදාල මත්ද්‍රව්‍ය තොගය සමග සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය පැවසුවේය.
+
+එහිදී ඔහු සතුව තිබී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 01 ග්‍රෑම් 105ක් හා හෙරොයින් ග්‍රෑම් 125ක් සොයාගෙන ඇති බව සදහන් වේ.
+
+අත්අඩංගුවට ගත් සැකකරු 23 හැවිරිදි අතුරුගිරිය ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර ඔහු සංවිධානාත්මක අපරාධකරුවෙකගේ ගෝලයකු බව ද අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/8ce0b080.json)
+
+---
+
+### Defence Ministry hosts awareness programme on Anti-Corruption Act
+
+*2025-07-31 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111038/defence-ministry-hosts-awareness-programme-on-anti-corruption-act) · `en`
+
+A special awareness programme on Sri Lanka’s strengthened anti-corruption act has taken place at the Ministry of Defence.
+
+The programme was organized by the Internal Affairs Unit of the Ministry of Defence under the guidance of Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd).
+
+It was conducted by the High Court Judge Ranga Dissanayake, Director General of the Commission to Investigate Allegations of Bribery and Corruption (CIABOC).
+
+During his lecture, the Director General of CIABOC provided a concise overview of the newly introduced Anti-Corruption Act, emphasizing its key provisions and implications for public service, the Defence Ministry said in a statement.
+
+He has also highlighted the importance of working with honesty, good faith and vigilance in the execution of official duties and encouraged public servants and officers not to fear upholding transparency and accountability when executing their duties.
+
+...
+
+[Data](articles/d7ce91f6.json)
+
+---
+
+### Rohitha’s daughter to be produced before court
+
+*2025-07-31 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111037/rohithas-daughter-to-be-produced-before-court) · `en`
+
+The daughter of Member of Parliament Rohitha Abeygunawardena is scheduled to be produced before the Matugama Magistrate’s Court today (31).
+
+She had surrendered to the Walana Anti-Vice Unit yesterday (30) through an attorney, in connection with investigations into the alleged possession of an illegally assembled vehicle, police stated.
+
+According to the police, her statement was recorded for over nine hours.
+
+After recording her statement, Rochelle Abeygunawardena, the daughter of former minister Rohitha Abeygunawardena, was arrested and handed over to the Matugama Police Station for further investigations.
+
+Her husband, Dhanushka Weerakkody, is currently in remand custody over the same incident.
+
+Weerakkody is also allegedly linked to the incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
+
+◼️
+
+[Data](articles/c5750dda.json)
+
+---
+
+### யானை - மனித மோதலைத் தடுப்பதற்கு விசேட திட்டங்களை முன்மொழியும் எதிர்க்கட்சி தலைவர்
+
+*2025-07-31 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221444) · `ta`
+
+யானை - மனித மோதலைத் தடுப்பதற்கு, நாடு முழுவதும் துப்பாக்கிகளை விநியோகிப்பதற்குப் பதிலாக செயற்படுத்துவதற்கு எம்மிடம் திட்டங்கள் உள்ளன. அதற்கமைய 10 எம்மால் முன்மொழியப்படும் 10 அம்ச திட்டங்களை செயற்படுத்துமாறு அரசாங்கத்தை வலியுறுத்துவதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+வியாழக்கிழமை (31) விசேட அறிக்கையொன்றை வெளியிட்டு அவர் இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாளாந்தம் மனித - யானை மோதலால் நமது நாட்டில் பெரும் துயர் நிகழ்ந்து வருகிறது. ஒருபுறம் மனித வளங்களும் மறுபுறம் காட்டு யானை வளங்களும் அழிக்கப்படுகின்றன. எனவே, உடனடியாக அரசாங்கம் செயல்படுத்தப்பட வேண்டிய பத்து அம்ச வேலைத்திட்டத்தை முன்மொழிகிறேன்.
+
+முறையானதொரு, விஞ்ஞான பூர்வமானதொரு துல்லியமான காட்டு யானைகள் தொடர்பான கணக்கெடுப்பை நடத்துதல். மனித-யானை மோதலைக் குறைப்பதற்காக 2020 ஆம் ஆண்டில் வகுக்கப்பட்ட தேசிய செயல் வேலைத்திட்டத்தை உடனடியாக அமுலுக்கு கொண்டு வருதல்.
+
+...
+
+[Data](articles/1ebde6cb.json)
+
+---
+
+### யாழ். பெண்ணை கண்டுபிடிக்க உதவுங்கள்
+
+*2025-07-31 13:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்ணை-கண்டுபிடிக்க-உதவுங்கள்/175-362114) · `ta`
+
+யாழ் வடமராட்சி கிழக்கு நாகர்கோவில் பகுதியில் செவ்வாய்க்கிழமை (29) அன்று இருந்து 25 வயதுடைய டினுசன் நிஸ்ரலா எனும் குடும்ப பெண் ஒருவர் காணாமல் போய் உள்ளார்.
+
+இந்த பெண்ணை கண்டு பிடிக்க உதவும்மாறு பெண்ணின் கணவர் மற்றும் உறவினர்கள் உதவி கோரியுள்ளனர்  இச்சம்பவம் தொடர்பாக மேலும் தெரிய வருவதாவது  கடந்த செவ்வாய்க்கிழமை (29) ஆம் திகதி இரவு கணவனுடன் இருந்த குடும்ப பெண் இரவு11மணியளவில் தூக்கத்தில் இருந்த கணவன் எழுந்து பார்த்தவுடன் குடும்ப பெண்ணை காணவில்லை.
+
+அதனையடுத்து கணவன் மனைவியின் தாயிடம் மனைவி வந்துள்ளாரா என கேட்டுள்ளார் அங்கும் பெண் போகவில்லை இதன் பின் பதற்றம் அடைந்த கணவர் மற்றும் உறவினர்கள் குடும்ப பெண்ணை தேடியுள்ளனர்.
+
+இதனை தொடர்ந்து காணாமல் போன பெண் சம்பந்தமாக மருதங்கேணி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த நிலையில் மருதங்கேணி பொலிஸாரும் தமது தீவிர தேடுதல் நடவடிக்கையில் ஈடுபட்டு வருகின்றனர் .
+
+இன்றுடன் குறித்த பெண் காணாமல் போய் மூன்று நாட்கள் கடந்து செல்லும் நிலையில் அனைவரின் உதவியையும் பெண்ணின் கணவர்மற்றும் குடும்பம் கேட்டுநிற்கின்றனர் .
+
+◼️
+
+[Data](articles/6f75255b.json)
+
+---
+
+### கண்டி - பேராதனை வீதியிலுள்ள கெட்டம்பே சுரங்க வழிப்பாதையை பயன்படுத்துவது கட்டாயம் !
+
+*2025-07-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221447) · `ta`
+
+கண்டி- பேராதனை பிரதான வீதியில்,  கெட்டம்பே என்ற இடத்தில் பாதை மாறுபவர்கள் அங்கு அமைக்கப்பட்டுள்ள  சுரங்க வழிப் பாதையை பயன்படுத்துவது நாளை முதல் (ஆகஸ்ட் 1) கட்டாயமாக்கப்பட்டுள்ளது.  கண்டி மாவட்ட அபிவிருத்தி சபைக் கூட்டத்தில் இந்த முடிவு மேற்கொள்ளப்பட்டுள்ளது.
+
+கண்டி செயலக கேட்போர் கூடத்தில் இடம் பெற்ற மேற்படிகூட்டத்தில் விவசாய,  நீர்பாசன அமைச்சர் கே.டி.லால்காந்த,  மத்திய மாகாண ஆளுநர் பேராசிரியர் சரத் அபேகோன் உட்பட கண்டிமாவட்டத்தைச் சேர்ந்த  அமைச்சர்கள் பாராளுமன்ற அங்கத்தவர்கள் எனப் பலர் இதில் கலந்து கொண்டனர்.
+
+கண்டி- கொழும்பு பிரதான பாதையில் வாகன நெரிசல் காரணமாக பொதுமக்கள் பிரச்சினைகளை எதிர்கொள்கின்றனர். இது தொடர்பாக நாம் பலமுறை எடுத்துச் சொல்லியும் பொதுமக்களில் சிலர் அதனைப் பின் பற்றுவதில்லை.
+
+எனவே கெட்டம்பேயிலுள்ள சுரங்கவழிப்பாதையை எதிர் வரும் ஆகஸ்ட் முதலாம் திகதிமுதல் பயன் படுத்துவது  கட்டாயமாக்கப்பட்டுள்ளது.
+
+மேட்படி சுரங்கப் பாதையை பயன் படுத்தாது பாதையின் குருக்கே பொதுமக்கள் பாதை மாறுவதே  மேட்படி இடத்தில் வாகன நெரிசலுக்கு முக்கிய காரணம் எனக்கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0cbb2cd0.json)
+
+---
+
+### Hearing of cases will be expedited through digitization, new CJ assures
+
+*2025-07-31 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111036/hearing-of-cases-will-be-expedited-through-digitization-new-cj-assures) · `en`
+
+The ceremonial sitting to welcome the new Chief Justice of Sri Lanka Preethi Padman Surasena took place at the Supreme Court complex today (31).
+
+Judges representing the Supreme Court and the Court of Appeal, as well as judges from the High Court, District Courts, and Magistrates’ Courts attended the event.
+
+During the traditional welcoming ceremony, Chief Justice Padman Surasena stated that all necessary measures will be taken to enhance the judicial process in a manner that strengthens public trust.
+
+The Chief Justice also stated that the digitization of court proceedings will be expedited in order to accelerate the hearing of cases and provide an efficient service to the public through the judicial system.
+
+◼️
+
+[Data](articles/5575c2ae.json)
+
+---
+
+### චීන මහජන විමුක්ති හමුදාව පිහිටුවීමේ 98 වැනි සංවත්සර සැමරුම
+
+*2025-07-31 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212867) · `si`
+
+චීන මහජන විමුක්ති හමුදාව පිහිටුවීමේ 98වැනි සංවත්සර උත්සවය කොළඹදී ඊයේ (30) පැවැත්වුණි.
+
+ඒ මෙරට චීන තානාපති චී ෂෙන්හොන් සහ ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි.
+
+මෙම සැමරුම් උත්සවයට හිටපු ජනාධිපතිවරු වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මෛත්‍රිපාල සිරිසේන, විපක්ෂ නායක සජිත් ප්‍රේමදාස, පාර්ලිමේන්තු මන්ත්‍රි දිලිත් ජයවීර යන මහත්ම මහත්මීන් ඇතුළු පිරිසත් එක්ව සිටියේය.
+
+එහිදී අදහස් දැක්වූ ශ්‍රී ලංකාවේ චීන තානාපති චී ෂෙන්හොන් මහතා,
+
+"චීනය ඉදිරියේදීත් සෑම අවස්ථාවකම ශ්‍රී ලංකාව සමඟ පවතින ක්‍රමෝපායික සහයෝගිතාව සහ අන්‍යෝන්‍ය විශ්වාසය ශක්තිමත් කිරීමට කටයුතු කරනවා. අනෙකුත් සියලුම කරුණු සම්බන්ධයෙන්ද චීනය ශ්‍රී ලංකාවට සහාය ලබාදෙන්නේ සෑමවිටම ප්‍රමුඛත්වයක් දක්වමින්."
+
+...
+
+[Data](articles/02aeedf0.json)
+
+---
+
+### பரந்தன் விபத்தில் வங்கியின் பெண் பணியாளர் பலி
+
+*2025-07-31 13:28:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரந்தன்-விபத்தில்-வங்கியின்-பெண்-பணியாளர்-பலி/175-362112) · `ta`
+
+ஏ-09 வீதியில் பரந்தன் சந்திப்புக்கு அருகில், வியாழக்கிழமை (31) காலை 08.30 மணியளவில் இடம்பெற்ற விபத்தில், மோட்டார் சைக்கிளில் சென்ற தனியார் வங்கியில் பணிபுரியும் பெண் உயிரிழந்துள்ளார்.
+
+பரந்தனில் இருந்து கிளிநொச்சி நோக்கி பயணித்த டிப்பர் வாகனம், கிளிநொச்சியிலிருந்து பரந்தன் நோக்கி பயணித்த மோட்டார் சைக்கிள் மீது மோதி விபத்துக்கு உள்ளாகியுள்ளது,
+
+◼️
+
+[Data](articles/b239d613.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 12:07:57**
+As of **2025-07-31 12:27:52**
 
 ## Newspaper Stats
 
-*Scraped **67,887** Articles*
+*Scraped **67,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,144
 islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,528
+adalk | 6,530
 adaderanalk | 8,381
-tamilmirrorlk | 9,856
-virakesarilk | 11,292
-adaderanasinhalalk | 11,680
+tamilmirrorlk | 9,857
+virakesarilk | 11,294
+adaderanasinhalalk | 11,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,887 articles have been extended.
+61,973 (91.3%) of 67,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### පළාත් කිහිපයකට ඉහළ උණුසුම් තත්ත්වයක්
+
+*2025-07-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212865) · `si`
+
+පවතින උණුසුම් කාලගුණික තත්ත්වයත් සමග එළිමහන් ක්‍රියාකාරකම්වල යෙදීමේදී ඇති විය හැකි විජලන තත්ත්වයන් වළක්වා ගැනීමට වැඩි වශයෙන් ජලය පානය කිරීමට පියවර ගත යුතු බව විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+ඔහු පවසන්නේ උණුසුම් කාලගුණික තත්ත්වයත් සමග චර්ම රෝගවල වර්ධනයක් ද සිදුවිය හැකි බවය.
+
+මෙම තත්ත්වයන් වළක්වා ගැනීම සඳහා වැඩිපුර ජලය පානය කිරීමට මෙන්ම දියර සහිත ආහාර ලබාගැනීමට පියවර ගත යුතු බව විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පැවසුවේය.
+
+මේ අතර අද දිනයේ ද දිවයිනේ ප්‍රදේශ කිහිපයක මිනිස් සිරුරට දැනෙන උෂ්ණත්වය “අවධානය යොමුකළ යුතු“ මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව උතුර, උතුරු - මැද සහ නැගෙනහිර පළාත් සහ මොණරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් උණුසුම් තත්ත්වය “අවධානය යොමුකළ යුතු“ මට්ටමක පැවතිය හැකි බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d0739425.json)
+
+---
+
+### නව අගවිනිසුරු පිළිගැනීමේ නිල උත්සවය ශ්‍රේෂ්ඨාධිකරණ සංකීර්ණයේදී
+
+*2025-07-31 11:59:32* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගවිනිසුරු-පිළිගැනීමේ-නිල-උත්සවය-ශ්‍රේෂ්ඨාධිකරණ-සංකීර්ණයේදී/11-417635) · `si`
+
+නව අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා පිළිගැනීමේ චාරිත්‍රනුකූල නිල උත්සවය අද(31දා) ශ්‍රේෂ්ඨාධිකරණ සංකීර්ණයේදී පැවැත්විණි.
+
+ශ්‍රේෂ්ඨාධිකරණය සහ අභියාචනාධිකරණය නියෝජනය කරන විනිසුරුවරු, මහාධිකරණ, දිසා අධිකරණ සහ මහේස්ත්‍රාත් අධිකරණවල විනිසුරුවරුන්ද මෙම උත්සවයට සහභාගි විය.
+
+◼️
+
+[Data](articles/ba09b0fd.json)
+
+---
+
+### சாதனை படைத்து வரும் நடிகை சுவாசிகாவின் 'போகி 'பட முன்னோட்டம்
+
+*2025-07-31 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221430) · `ta`
+
+'லப்பர் பந்து', 'மாமன்' ஆகிய படங்களின் மூலம் ரசிகர்களிடம் பிரபலமான நடிகை சுவாசிகா கதையின் நாயகியாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'போகி' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+
+இயக்குநர் விஜய சேகரன் இயக்கத்தில் உருவாகியுள்ள 'போகி 'திரைப்படத்தில் சுவாசிகா, நபி நந்தி ,சரத், பூனம் கவுர் எழுத்தாளரும் நடிகருமான வேல
+
+ராமமூர்த்தி, பாடலாசிரியர் சினேகன், சங்கிலி முருகன், மொட்டை ராஜேந்திரன், எம். எஸ். பாஸ்கர் உள்ளிட்ட பலர் நடித்துள்ளனர். ராஜா சி. சேகர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மரியா மனோகர் இசையமைத்திருக்கிறார்.
+
+உண்மை சம்பவத்தை தழுவி தயாராகி இருக்கும் இந்த திரைப்படத்தை வி சினிமா குளோபல் நெட்வொர்க் &  லைக் நிறுவனம் தயாரித்திருக்கிறது.  இந்த திரைப்படத்தை பி ஜி பி என்டர்பிரைசஸ் சார்பில் தயாரிப்பாளர் பி ஜி பிச்சை மணி வழங்குகிறார்.
+
+...
+
+[Data](articles/a31eddbc.json)
+
+---
+
+### துல்கர் சல்மான் நடிக்கும் 'காந்தா ' படத்தின் கிளர்வோட்டம் வெளியீடு
+
+*2025-07-31 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221428) · `ta`
+
+லாபகரமான நட்சத்திர நடிகரான துல்கர் சல்மான் முதன்மையான வேடத்தில் நடித்திருக்கும் 'காந்தா 'எனும் திரைப்படத்தின் கிளர்வோட்டம் அவரது பிறந்த நாளை முன்னிட்டு வெளியிடப்பட்டுள்ளது.
+
+இயக்குநர் செல்வமணி செல்வராஜ் இயக்கத்தில் உருவாகி வரும்' காந்தா ' திரைப்படத்தில் துல்கர் சல்மான் , சமுத்திரக்கனி,  பாக்கிய ஸ்ரீ போர்சே ஆகியோர் முக்கிய வேடங்களில் நடித்துள்ளனர். டானி சான்செஸ் லோபஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜானு சந்தர் இசையமைத்திருக்கிறார். திரைப்பட நடிகரின் வாழ்வியலை விவரிக்கும் இந்த திரைப்படத்தை ஸ்பிரிட் மீடியா மற்றும் வேஃபரர் ஃபிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+இப்படத்தின் பணிகள் விறுவிறுப்பாக நடைபெற்று வரும் தருணத்தில் நாயகன் துல்கர் சல்மானின் பிறந்த நாளை முன்னிட்டு அவருடைய ரசிகர்களுக்காக 'காந்தா' படத்தின் கிளர்வோட்டத்தை பட குழுவினர் வெளியிட்டுள்ளனர்.
+
+...
+
+[Data](articles/cf48f060.json)
+
+---
 
 ### කොස්ගොඩ තරුණයා ඝාතනයට ගෙනා යතුරු පැදිය හමුවෙයි?
 
@@ -335,6 +403,20 @@ Kandy Police Headquarters is conducting further investigations into the incident
 ◼️
 
 [Data](articles/c369b0e2.json)
+
+---
+
+### விண்ணில் ஏவப்பட்டு 14 வினாடிகளில் வெடித்துச் சிதறிய ரோக்கெட்
+
+*2025-07-31 10:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விண்ணில்-ஏவப்பட்டு-14-வினாடிகளில்-வெடித்துச்-சிதறிய-ரோக்கெட்/50-362099) · `ta`
+
+அஸ்திரேலியாவின் விண்வெளி ஆராய்ச்சி நிறுவனமாக கில்மர் நிறுவனம் செயல்படுகிறது. குயின்ஸ்லாந்து மாகாணம் யாடலா நகரை மையமாக கொண்டு செயல்படும் இந்த தனியார் நிறுவனம் அரசின் நிதியுதவிகளை பெற்று வருகிறது. இந்த நிலையில் நாட்டிலேயே முதல் முறையாக ராக்கெட் ஒன்றை தயாரித்து விண்ணில் செலுத்த கில்மர் நிறுவனம் முடிவு செய்தது.
+
+அதன்படி 'எரிஸ்' என்ற ராக்கெட்டை தயாரித்தது. குறித்த நேரத்தின்படி இது நேற்று விண்ணில் ஏவப்பட்டது. கில்மர் நிறுவனத்துக்கு சொந்தமான ஏவுதளத்தில் இருந்து அந்த ராக்கெட் விண்ணில் செலுத்தப்பட்டது. கரும்புகையை கக்கியபடி விண்ணில் சீறிப்பாய்ந்த அந்த ராக்கெட் 14 நொடிகளில் வானில் பறந்து கொண்டிருந்தபோதே வெடித்து சிதறியது. இதுதொடர்பாக விசாரணை நடத்தப்பட்டு மீண்டு வருவோம் என அந்த நிறுவனம் விளக்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1f9d2465.json)
 
 ---
 
@@ -853,6 +935,22 @@ But steel and aluminium, other big earners for South Korea, will be taxed at 50%
 ◼️
 
 [Data](articles/d0ee1b0e.json)
+
+---
+
+### ඉදිරි දින කිහිපයේදී පළාත් කිහිපයකට වැස්ස වැඩිවෙයි
+
+*2025-07-31 07:49:44* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-පළාත්-කිහිපයකට-වැස්ස-වැඩිවෙයි/11-417630) · `si`
+
+ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, ඌව හා නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකාර වායුයෙෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙන්නේ උතුරු, උතුරුමැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවයි.
+
+ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් බස්නාහිර හා සබරෙමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි යැයි කාලගුණ විද්‍යා නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/044c9988.json)
 
 ---
 
@@ -1715,123 +1813,5 @@ CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි
 ...
 
 [Data](articles/68477779.json)
-
----
-
-### Over 122,000 arrested for drug offenses since January
-
-*2025-07-30 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111020/over-122000-arrested-for-drug-offenses-since-january) · `en`
-
-The Ministry of Public Security and Parliamentary Affairs has revealed that a total of 122,913 individuals have been arrested for drug-related offenses between January 01 and July 29, 2025.
-
-In a statement issued by the ministry, it was noted that, during this period, authorities have seized 928,787 kilograms of heroin, 1,396,709 kilograms of crystal methamphetamine (commonly known as ICE), 11,192,823 kilograms of cannabis, 27,836 kilograms of cocaine, and 381,428 kilograms of hashish.
-
-Meanwhile, a special island-wide operation was conducted yesterday (July 29), by the Sri Lanka Police, the Police Special Task Force (STF), and the Tri-Forces.
-
-A total of 6,695 personnel have participated in the operation, including police officers, STF members, and Tri-Forces personnel.
-
-As part of the operation, 10,128 vehicles and 7,734 motorcycles were searched.
-
-During the search, 948 individuals were arrested for drug-related offenses, and 13 people directly involved in these crimes were also apprehended.
-
-◼️
-
-[Data](articles/cfa8a2ad.json)
-
----
-
-### මෙටා සමාගම ඉන්ස්ටග්‍රැම්හි හි දෙමව්පිය අධීක්ෂණ යෙදවුම මෙරටට හඳුන්වා දෙයි
-
-*2025-07-30 18:47:26* · [`adalk`](https://www.ada.lk/technology/මෙටා-සමාගම-ඉන්ස්ටග්‍රැම්හි-හි-දෙමව්පිය-අධීක්ෂණ-යෙදවුම-මෙරටට-හඳුන්වා-දෙයි/5-417625) · `si`
-
-ශ්‍රී ලංකාවේ යොවුන් ඉන්ස්ටග්‍රෑම් (Instagram) ගිණුම් සඳහා දෙමව්පිය අධීක්ෂණ යෙදවුම සක්‍රිය කරන බව එම වැඩසටහන අයත් මෙටා සමාගම පසුගියදා නිවේදනය කළේය. ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය එරංග වීරරත්න මහතා සහ මෙටා සමාගමෙහි නියෝජිතයන් අතර පසුගියදා එම අමාත්‍යාංශයේදී පැවැති හමුවකින් අනතුරුව මෙටා සමාගම මෙම තීරණය නිල වශයෙන් නිවේදනය කර තිබේ.
-
-ඒ අනුව මෙම යෙදවුම මගින් දෙමව්පියන්ට තම දරුවන්ගේ ඉන්ස්ටග්‍රෑම් ක්‍රියාකාරකම් පිළිබඳව වැඩි අධීක්ෂණයක් යෙදවීමට හැකියාව ලැබෙන බව පැවසෙයි. මෙම නව විශේෂාංගය වයස අවුරුදු 13 සිට 17 දක්වා නිර්මාණය කර තිබේ. මෙහිදී ඉන්ස්ටග්‍රෑම් ප්‍රවේශය පූර්ව අනුමත සම්බන්ධතාවලට සීමාවීම, සීමිත පණිවිඩකරණ හැකියාව, සංවේදී අන්තර්ගතයන්ට ප්‍රවේශය පිළිබඳ දෙමාපියන්ගේ පාලනය, අන්තර්ක්‍රියා සීමා පවත්වා ගැනීමේ හැකියාව සහ දෛනික තිර කාල සීමාවන් සැකසීමේ හැකියාව යනාදිය මීට ඇතුළත් වෙයි.
-
-මෙම දෙමාපිය අධීක්ෂණ හැකියාව නුදුරේදීම ෆේස්බුක් සහ මැසෙන්ජර් වැනි අනෙකුත් සමාජ මාධ්‍ය වේදිකා වෙතද හඳුන්වා දෙන බව මෙටා සමාගම නිවේදනය කර තිබේ.
-
-...
-
-[Data](articles/b6c72b63.json)
-
----
-
-### Sri Lanka to test Chinese BYD EV motor as Harsha warns on international standards
-
-*2025-07-30 18:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-waiting-to-test-chinese-byd-ev-motor-233726/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs is waiting to test the motor of a BYD vehicle to check the actual wattage, an official told a parliament panel, in the latest development after around 1,000 vehicles were detained over a disputed power of a motor.
-
-The agents for BYD have yet not delivered a motor which Customs wanted to test at Sri Lanka’s Moratuwa University, Customs spokesman Seevali Arukgoda told the Committee of Public Finance of the parliament.
-
-The investigation was started after several persons from the industry provided information and the Deputy Minister of Finance also gave additional information, Arukgoda said.
-
-“They have said the motor has to be removed from the car, there is a way to do it, and experts have to come,” Arukgoda said. “There is a delay on their part.”
-
-The John Keells company has said they recommended some international labs, but the usual practice at Sri Lanka Customs on technical matters was to refer them to Moratuwa University, he said.
-
-...
-
-[Data](articles/f0c9309a.json)
-
----
-
-### බී.වයි.ඩී. ගැටලුව මුදල් කාරක සභාවේ අවධානය
-
-*2025-07-30 18:38:40* · [`adalk`](https://www.ada.lk/breaking_news/බී-වයි-ඩී--ගැටලුව-මුදල්-කාරක-සභාවේ-අවධානය/11-417624) · `si`
-
-BYD මෝටර් රථ වල මෝටරය සම්බන්ධයෙන් පැන නැගී ඇති ගැටළුව ජාත්‍යන්තරව පිළිගත් ආයතනයක් හරහා පරික්ෂා කර විසඳා ගත යුතු බවට රජයේ මුදල් පිළිබඳ කාරක සභාවේ  සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා ශ්‍රී ලංකා රේගු නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
-
-මීට පෙර චීනයෙන් පොහොර ආනයනයේදී ඇති කරගත් ගැටළුව මෙන් ගැටළුවක් චීනයේ නිශ්පාදිත BYDමෝටර් රථ ගෙන්වීමේදී  ඇති කර නොගත යුතු බව සභාපතිවරයා නිලධාරීන්ට අවධාරණය කළේය.
-
-කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා - BYD ප්‍රශ්නය මෙතනත් මතු වුණා. කරුණාකරලා අපිට දැනුවත් කරනවාද මෙතන මොනවාද වෙලා තියෙන්නේ කියලා.
-
-අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ - ආනයනය කරන විට වාහන වල මෝටර් ධාරිතාව අඩුවෙන් දක්වා ඇති බවට චෝදනාවක් තියෙනවා. ඒ සම්බන්ධයෙන් පරීක්ෂනයක් ආරම්භ කරලා තියෙනවා.
-
-කමිටු සාමාජික නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ -  බදු ව්‍යුහයේ වෙනස් කර ගැනීමට මෝටර් ධාර්තාව වෙනස් කර තිබෙනවා. සැබෑ ධාරිතාව ප්‍රකාශයට පත් කරන්නේ නැතිව. ඒක තමයි චෝදනාව.
-
-...
-
-[Data](articles/bc099dd8.json)
-
----
-
-### தர்மச் சக்கர விவகாரம்: மஸாஹிமாவுக்கு நீதி கிடைத்தது
-
-*2025-07-30 18:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தர்மச்-சக்கர-விவகாரம்-மஸாஹிமாவுக்கு-நீதி-கிடைத்தது/175-362065) · `ta`
-
-தர்மச் சக்கரம் வரையப்பட்ட ஆடையை அணிந்திருந்தார் என்ற குற்றச்சாட்டில் கைது செய்யப்பட்ட மஸாஹிமாவுக்கு புதன்கிழமை (30) நீதி கிடைத்தது.
-
-ஈஸ்டர் தாக்குதலை தொடர்ந்து  தர்மசக்கர புகைப்படம் கொண்ட ஆடை (கப்டான்) அணிந்திருந்தார் என்ற குற்றச்சாட்டில் மஹியங்கனை, ஹஸலகவை சேர்ந்த மஸாஹிமா கைது செய்யப்பட்டு சிறைவாசம் அனுபவித்தார்.
-
-ஆனால் இவர்  கப்பலின் சுக்கான் கொண்ட புகைப்படம் வரையப்பட்ட ஆடையைத் தான் அணிந்தார்.
-
-இந்நிலையில் பின்நாட்களில் விடுதலையான சகோதரி மஸாஹிமா தனது அடிப்படை மனித உரிமை மீறப்பட்டதாக கூறி உயர் நீதிமன்றில் வழக்குத் தாக்கல் செய்திருந்தார். தொடர்ந்து நடைபெற்று வந்த வழக்கு விசாரணையின் தீர்ப்பு புதன்கிழமை (30) வெளியானது.
-
-நீதியரசர்களான யசந்த கொடேகொட, குமுதினி விக்கிரமசிங்க, ஷிரான் கொனேரத்ன ஆகியோர் அடங்கிய அமர்வு இன்று தீர்ப்பை வெளியிட்டது.
-
-...
-
-[Data](articles/f1be1aeb.json)
-
----
-
-### India to pay 25-pct tariff plus Russia penalty Trump says as Sri Lanka awaits decision
-
-*2025-07-30 18:30:00* · [`economynextcom`](https://economynext.com/india-to-pay-25-pct-tariff-plus-russia-penalty-trump-says-as-sri-lanka-awaits-233742/) · `en`
-
-ECONOMYNEXT – India will pay 25 percent tariff plus an unspecified penalty from August 01, for buying oil and military hardware from Russia, President Trump said in a social media post as Sri Lanka awaits a revision of its 30 percent tariff.
-
-“Remember, while India is our friend, we have, over the years, done relatively little business with them because their Tariffs are far too high, among the highest in the World, and they have the most strenuous and obnoxious non-monetary Trade Barriers of any Country,” Trump said in a posts on his truthsocial.com.
-
-“Also, they have always bought a vast majority of their military equipment from Russia, and are Russia’s largest buyer of ENERGY, along with China, at a time when everyone wants Russia to stop the killing in Ukraine – al things not good
-
-India will therefore be paying a tariff of 25%, plus a penalty for the above, starting on August first.,
-
-A few minutes later he made another post saying “We have a massive trade deficit with India.”
-
-...
-
-[Data](articles/54cad70d.json)
 
 ---

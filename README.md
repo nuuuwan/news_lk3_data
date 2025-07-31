@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 05:32:14**
+As of **2025-07-31 06:10:59**
 
 ## Newspaper Stats
 
-*Scraped **67,814** Articles*
+*Scraped **67,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-islandlk | 4,136
+islandlk | 4,144
 economynextcom | 4,144
 dailymirrorlk | 4,733
 dailyftlk | 4,795
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,814 articles have been extended.
+61,973 (91.4%) of 67,822 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -283,6 +283,82 @@ It is only appropriate that Black July 1983 was remembered this month, but the r
 ---
 
 ### 2025-07-30 (Wednesday)
+
+### Breaking free from conventional investment paths; How to make your money work harder – Part II
+
+*2025-07-30 23:38:00* · [`islandlk`](http://island.lk/breaking-free-from-conventional-investment-paths-how-to-make-your-money-work-harder-part-ii/) · `en`
+
+Repayment obligations – No immediate repayment obligations in equity financing. In debt financing however, the borrowed amount must be repaid within a time frame.
+
+Interest payments – In terms of equity financing, there are no interest payments but in debt financing regular interest payments are required.
+
+...
+
+[Data](articles/622a2202.json)
+
+---
+
+### BNI National Conference engages over 400+ local and international members
+
+*2025-07-30 23:35:00* · [`islandlk`](http://island.lk/bni-national-conference-engages-over-400-local-and-international-members/) · `en`
+
+BNI Sri Lanka’s flagship event – The BNI National Conference 2025 – which was held on 18th at the Cinnamon Grand, Colombo concluded successfully with the active and enthusiastic participation of 250 members representing the 16 chapters in Sri Lanka and 160 foreign participants representing overseas BNI chapters from India, Japan, Bahrain, and Taiwan, The participants were hosted to an engaging full-day conference followed by a networking and fellowship session. The conference aimed to connect the 400+ entrepreneurs, professionals, and industry leaders for targeted networking and referral opportunities. Attendees participated in high-speed meetings, learned from expert speakers on business trends and leadership, and explored collaborations and joint ventures. The event also recognized outstanding performance, offered regional and international exposure, and fostered cross-chapter business relationships among BNI members.
+
+...
+
+[Data](articles/45ef28de.json)
+
+---
+
+### 38th Annual Conference of the Organisation of Professional Associations of Sri Lanka
+
+*2025-07-30 23:34:00* · [`islandlk`](http://island.lk/38th-annual-conference-of-the-organisation-of-professional-associations-of-sri-lanka/) · `en`
+
+The Organisation of Professional Associations of Sri Lanka (OPA), established in 1975, serves as the apex body representing Sri Lanka’s professional community. With 52 member associations spanning 34 disciplines, including Law, Medicine, Engineering, Accountancy, Supply Chain Management, Architecture, and Banking ,the OPA is a unifying platform for over 60,000 professionals.
+
+The OPA’s core mission is to leverage the collective expertise of Sri Lanka’s professionals to contribute to national development, foster professional excellence, and promote ethical leadership across sectors.
+
+We are pleased to announce the 38th Annual Conference of the OPA, the signature event of our calendar, scheduled for the 19th and 20th of August 2025 at Cinnamon Life, Colombo.
+
+...
+
+[Data](articles/5b5417e9.json)
+
+---
+
+### AIA Sri Lanka recognised among Best Workplaces™ in Sri Lanka 2025 for 13th consecutive year
+
+*2025-07-30 23:33:00* · [`islandlk`](http://island.lk/aia-sri-lanka-recognised-among-best-workplaces-in-sri-lanka-2025-for-13th-consecutive-year/) · `en`
+
+AIA Sri Lanka has once again demonstrated its commitment to excellence in workplace culture by being named among the Best Workplaces™ in Sri Lanka for 2025 by Great Place to Work®. This prestigious recognition places AIA as the highest-ranked insurance company on the list, reaffirming its position as a leader not only in the insurance industry but also in corporate culture and employee engagement. This marks the thirteenth consecutive year that AIA Sri Lanka has earned this honour, an exemplification of its consistent dedication to fostering a high-trust, high-performance environment where employees feel valued, supported, and empowered.
+
+...
+
+[Data](articles/25341f31.json)
+
+---
+
+### WindForce employee share option plan keeps bourse on buoyant track
+
+*2025-07-30 23:30:00* · [`islandlk`](http://island.lk/windforce-employee-share-option-plan-keeps-bourse-on-buoyant-track/) · `en`
+
+One of Sri Lanka’s renewable energy firms, “WindForce”, is now in the process of planning to offer 40,523,068 ordinary shares in an employee share option plan.
+
+The objective of the ESOS was to incentivize and retain key talent the company said.
+
+The company will grant options to management staff Level 1 and Level 2 employees.
+
+Amid those developments the CSE was in a healthy performance for the 9th consecutive day yesterday,
+
+Both indices moved upwards. The All Share Price Index went up by 33 points while the S and P SL20 rose by 10.5 points. Turnover stood at Rs 5.29 billion with 12 crossings.
+
+Those crossings were reported in HNB, where 560,000 shares crossed to the tune of Rs 203 million; its shares traded at Rs 363, HNB (Non- Voting) 670,000 shares crossed to the tune of Rs 197 million; its shares traded at Rs 294, Light House Hotel 1.9 million shares crossed for Rs 161 million; its shares traded at Rs 83.
+
+...
+
+[Data](articles/cc68f1f4.json)
+
+---
 
 ### මහනුවර ඓතිහාසික දළදා පෙරහර මංගල්‍යය ඇරඹෙයි
 
@@ -1727,97 +1803,5 @@ They further emphasized that OTP numbers for online accounts should never be sha
 ...
 
 [Data](articles/2711b011.json)
-
----
-
-### Russia Earthquake: 60-cm tsunami waves detected in Japan
-
-*2025-07-30 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111006/russia-earthquake-60-cm-tsunami-waves-detected-in-japan) · `en`
-
-Vast areas of Japan’s Pacific coast were hit by tsunami waves as high as 60 centimeters on Wednesday after a magnitude 8.8 earthquake struck off Russia’s Kamchatka Peninsula in the morning, with the weather agency keeping its evacuation warning in place.
-
-The warning, covering areas stretching from Hokkaido in northern Japan to Wakayama Prefecture in the west, disrupted rail, road and air transportation along the coast and led the operator of the crippled Fukushima Daiichi nuclear power plant to halt the release of treated radioactive wastewater into the Pacific Ocean.
-
-The Japan Meteorological Agency has warned of tsunami waves as high as 3 meters. The highest detected so far were the 60 cm-waves that arrived after 1 p.m. at the town of Hamanaka in Hokkaido, northern Japan, and Kuji Port in Iwate Prefecture.
-
-A 20-cm wave also reached Tokyo’s Harumi waterfront district, according to the agency.
-
-...
-
-[Data](articles/025905f8.json)
-
----
-
-### ඊශ්‍රායල ප්‍රහාර හමුවේ ජීවිතක්ෂයට පත් වූ පලස්තීන වැසියන් සංඛ්‍යාව 60,000 ඉක්මවයි
-
-*2025-07-30 13:18:31* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල-ප්‍රහාර-හමුවේ-ජීවිතක්ෂයට-පත්-වූ-පලස්තීන-වැසියන්-සංඛ්‍යාව-60-000-ඉක්මවයි/11-417610) · `si`
-
-ගාසා තීරයේදී පලස්තීනයට එරෙහිව ඊශ්‍රායල එල්ල කළ ප්‍රහාර හමුවේ ජීවිතක්ෂයට පත්වූ පලස්තීන වැසියන් සංඛ්‍යාව 60,000 ඉක්මවා ගොස් තිබේ.
-
-ඒ අනුව 2023 වසරේ ඔක්තෝම්බර් ආරම්භ වූ මෙම යුධ ගැටුම් හේතුවෙන් පලස්තීන වැසියන් 60,034ක් ජීවිතක්ෂයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/b60dfa0e.json)
-
----
-
-### වට්ස්ඇප් හරහා සිදුවෙන මූල්‍ය වංචාවක් ගැන තොරතුරු හෙළිවෙයි
-
-*2025-07-30 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212825) · `si`
-
-වට්ස්ඇප් පරිශීලිකයන්ගේ ගිණුම් තුළට අනවසරයෙන් ඇතුළත් වී ව්‍යාජ ඇමතුම් හා කෙටි පණිවුඩ යොමුකර මුදල් වංචා කිරීම සම්බන්ධයෙන් පැමිණිලි විශාල සංඛ්‍යාවක් මෙම දිනවල වාර්තා වන බව අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව පවසයි.
-
-විමර්ශනවලින් අනාවරණය වී ඇත්තේ මෙම වංචාකරුවන් විසින් පරිශීලිකයන් රවටා වට්ස්ඇප් OTP අංකය ලබා ගෙන ඔවුන් වෙත ව්‍යාජ පණිවුඩ යොමු කර මුදල් වංචා සිදුකරන බවය.
-
-ඒ අනුව මෙම මුදල් වංචාව සම්බන්ධයෙන් මහජනතාවට දැනුවත්ව සිටින ලෙස පොලීසිය දන්වා සිටී.
-
-එමෙන්ම පොලීසිය වැඩිදුරටත් සදහන් කළේ කිසිදු අවස්ථාවක වෙනත් පාර්ශවයන් වෙත අන්තර්ජාල ගිණුම්හි OTP අංක ලබා නොදෙන ලෙසය.
-
-◼️
-
-[Data](articles/0c2275c0.json)
-
----
-
-### 11 including underworld gang member arrested in Chilaw
-
-*2025-07-30 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111005/11-including-underworld-gang-member-arrested-in-chilaw) · `en`
-
-A total of 11 individuals including a member of an organized crime gang based in Colombo have been taken into custody during a raid conducted at a residence in Bangadeniya, Chilaw, police stated.
-
-According to police, the leader of the underworld gang fled the house during the operation.
-
-However, he was later apprehended by the Chilaw Police while traveling towards the Chilaw bus stand in a three-wheeler.
-
-The Chilaw Police is conducting further investigations into the matter.
-
-◼️
-
-[Data](articles/e73ea2d5.json)
-
----
-
-### දළදා මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද
-
-*2025-07-30 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212824) · `si`
-
-ශ්‍රී ලාංකේය සංස්කෘතියේ අභිමානය ලොවට පෙන්වන මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍යය අද (30) ආරම්භ වෙයි.
-
-ඒ අනුව ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද රාත්‍රි 7.05ට යෙදෙන සුබ මොහොතින් වීථි සංචාරය කිරීමට නියමිතය.
-
-පෙරහැර මංගල්‍යයට කප් සිටුවීමෙන් අනතුරුව නාථ, පත්තිනි, විෂ්ණු, කතරගම යන සිව්මහා දේවාලයන්හි අභ්‍යන්තර පෙරහර පැවැති අතර එහි 5 වැනි පෙරහැර එනම් අවසන් අභ්‍යන්තර පෙරහැර ඊයේ රාත්‍රී විථී සංචාරය කළේය.
-
-අභ්‍යන්තර පෙරහැර පැවැත්වීමෙන් අනතුරුව බෞද්ධ සැදැහැවතුන්ගේ මුදුන් මල්කඩ වන මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ ඇසළ පෙරහර මංගල්‍යයේ පළමු කුඹල් පෙරහර අද රාත්‍රියේ වීථි සංචාරය කෙරේ.
-
-පෙරහැර නැරඹීමට පැමිණෙන ජනතාවගේ සෞඛ්‍යාරක්ෂාව වෙනුවෙන් නගරයේ වීථිවල දූමායන කටයුතු ද අද පෙරවරුවේ සිදුකෙරුණි.
-
-පෙරහැර නැරඹීම සඳහා මේ වන විට බොහෝ පිරිසක් මහනුවර නගරයට පැමිණ සිටී.
-
-විශේෂත්වය වන්නේ, වෙනත් වසරවලට සාපේක්ෂව මෙවර පළමු කුඹල් පෙරහැර නැරඹීම සඳහා අද අලුයම සිටම දුර බැහැර ජනතාව පැමිණ සිටීමයි.
-
-...
-
-[Data](articles/cebbd1cf.json)
 
 ---

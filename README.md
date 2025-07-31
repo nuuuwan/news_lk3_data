@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 06:37:11**
+As of **2025-07-31 07:17:24**
 
 ## Newspaper Stats
 
-*Scraped **67,822** Articles*
+*Scraped **67,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,39 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-islandlk | 4,144
 economynextcom | 4,144
+islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,520
 adaderanalk | 8,373
-tamilmirrorlk | 9,834
+tamilmirrorlk | 9,835
 virakesarilk | 11,283
-adaderanasinhalalk | 11,667
+adaderanasinhalalk | 11,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,822 articles have been extended.
+61,973 (91.4%) of 67,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### කොස්ගොඩ වෙඩිතැබීමකින් තරුණයෙක් මරුට
+
+*2025-07-31 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212851) · `si`
+
+කොස්ගොඩ, දූවමෝදර ප්‍රදේශයේදී අද (31) අලුයම සිදුකළ වෙඩිතැබීමකින් 23 හැවිරිදි තරුණයෙකු මිය ගොස් තිබේ
+
+පොලිස් මාධ්‍ය ප්‍රකාශක පැවසුවේ යතුරුපැදියකින් පැමිණි පිරිසක් විසින් මෙම වෙඩිතැබීම සිදු කර ඇති බවය.
+
+◼️
+
+[Data](articles/817f9805.json)
+
+---
 
 ### Sri Lanka, Switzerland review migration partnership progress
 
@@ -196,6 +210,22 @@ A seasoned professional, Rahul possesses over 17 years of experience in hospital
 
 ---
 
+### செம்மணியில் நேற்று 4 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-07-31 04:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-4-எலும்புக்கூடுகள்-அடையாளம்/175-362086) · `ta`
+
+யாழ்ப்பாணம், செம்மணியில் நேற்றைய அகழ்வின் போது புதிதாக நான்கு மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதன்மூலம் செம்மணிப் புதைகுழியில் அடையாளம் காணப்பட்ட என்புத் தொகுதிகளின் எண்ணிக்கை 115 ஆக அதிகரித்துள்ளது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழி தொடர்பான இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 25 ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
+
+செம்மணி மனிதப் புதைகுழியில் இதுவரை 115 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 102 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.  (a)
+
+◼️
+
+[Data](articles/dc87c451.json)
+
+---
+
 ### குழந்தையை அரவணைத்தபடி இருந்த எலும்புக்கூடு
 
 *2025-07-31 04:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-அரவணைத்தபடி-இருந்த-எலும்புக்கூடு/175-362085) · `ta`
@@ -283,6 +313,38 @@ It is only appropriate that Black July 1983 was remembered this month, but the r
 ---
 
 ### 2025-07-30 (Wednesday)
+
+### Natural route to stop Hair Fall …
+
+*2025-07-30 23:51:00* · [`islandlk`](http://island.lk/natural-route-to-stop-hair-fall/) · `en`
+
+Hair fall is something most of us experience, even the young ones, and it can be quite stressful when you comb your hair and you find your comb has collected your falling hair.
+
+Shedding around 50 to 100 single strands of hair per day is considered normal. However, losing more than 150 strands a day, experiencing sudden thinning, or developing circular bald patches on your scalp, are reasons for concern.
+
+Well, there is a kind of a natural route to take to stop hair fall and some of the ways include:
+
+A scientific study found that untreated onion juice leads to hair regrowth. So, if you are struggling with hair loss, resort to onion juice to counteract the issue and promote healthy hair. Apply the juice to the scalp, let it sit for a specific duration, and then rinse thoroughly.
+
+...
+
+[Data](articles/ecff1740.json)
+
+---
+
+### Reflections on a journey towards positive ageing – Part II
+
+*2025-07-30 23:47:00* · [`islandlk`](http://island.lk/reflections-on-a-journey-towards-positive-ageing-part-ii/) · `en`
+
+Appreciation is a means by which an individual articulates his or her sentiments towards another for a commendable quality inherent in that individual. The act of appreciating another often emerges as a spontaneous response to what one deems worthy of acknowledgment. Moments of appreciation wield a profound influence on the positive aging process. Individuals express their admiration for talents, expertise, achievements, philanthropy, and other virtues through various forms of praise, rewards, and the accommodation of differing perspectives, contingent upon specific circumstances.
+
+Ponder for a moment the myriad reasons for which we ought to express gratitude and appreciation for the intricate ecosystem—the sun, the moon, the air we breathe, the water sources and the diverse flora and fauna that flourish in nature, all of which sustain our very existence. A person with an optimistic outlook on life cultivates qualities that serve as vital sustenance for a fulfilling existence.
+
+...
+
+[Data](articles/e5fac30a.json)
+
+---
 
 ### Breaking free from conventional investment paths; How to make your money work harder – Part II
 
@@ -1733,75 +1795,5 @@ Funded by Switzerland, the programme underscores the commitment to institutional
 ◼️
 
 [Data](articles/b429ac0f.json)
-
----
-
-### SC informed ex-President Gotabaya prepared to give evidence in Lalith- Kugan habeas corpus case
-
-*2025-07-30 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111008/sc-informed-ex-president-gotabaya-prepared-to-give-evidence-in-lalith-kugan-habeas-corpus-case) · `en`
-
-Former President Gotabaya Rajapaksa has informed the Supreme Court today (30), through his legal representatives, that he is prepared to provide evidence in relation to the habeas corpus case filed by the relatives of activists Lalith Weeraraj and Kugan Muruganandan, who went missing in 2011.
-
-The statement was made by President’s Counsel Romesh de Silva, who appeared on behalf of Gotabaya Rajapaksa, when the relevant appeal petition was taken up before the Supreme Court today.
-
-However, due to existing security reasons, the attorney informed court that it is problematic for his client to appear before the Jaffna Magistrate’s Court to give evidence, but that they are prepared to do so before a court in Colombo.
-
-The three-judge bench of the Supreme Court then informed President’s Counsel Romesh de Silva that the request should be submitted to the Jaffna Magistrate’s Court within four weeks starting today, in order to obtain an appropriate order.
-
-...
-
-[Data](articles/3eab0750.json)
-
----
-
-### WhatsApp scams surge in Sri Lanka
-
-*2025-07-30 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111007/whatsapp-scams-surge-in-sri-lanka) · `en`
-
-A large number of complaints are currently being reported regarding fraudulent attempts to hack WhatsApp users’ accounts by sending fake calls and text messages in order to defraud them of money, the Criminal Investigation Department (CID) said.
-
-Investigations have revealed that the fraudsters deceive users into revealing their WhatsApp One-Time Password (OTP) numbers, which are then used to send fake messages.
-
-Accordingly, the police have urged the public to remain vigilant against this scam.
-
-They further emphasized that OTP numbers for online accounts should never be shared with anyone under any circumstances.
-
-◼️
-
-[Data](articles/c616ce74.json)
-
----
-
-### ලලිත් - කුගන් සිද්ධියට සාක්ෂි දීමට ගෝඨා සූදානම්
-
-*2025-07-30 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212827) · `si`
-
-මානව හිමිකම් ක්‍රියාකාරීන් දෙදෙනෙකු වන ලලිත් වීරරාජ් සහ කුගන් මුර්ගානන්දන් සම්බන්ධයෙන් ඔවුන්ගේ ඥාතීන් විසින් යාපනය මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත්කර තිබෙන හබයාස් 'කෝපුස් නඩුකරයට' අදාළව සාක්ෂි ලබාදීමට තමන් සූදානම් බව හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා නීතිඥවරු මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට අද (30) දැනුම් දුන්නේය.
-
-මෙම කරුණට අදාළ අභියාචනා පෙත්සමක් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී ගෝඨාභය රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මෙම දැනුම්දීම සිදුකළේය.
-
-කෙසේ වෙතත් පවතින ආරක්ෂක හේතූන් මත තම සේවා දායකයාට යාපනය අධිකරණය හමුවේ සාක්ෂි දීමට අපහසු බවත්, කොළඹ අධිකරණයක ඒ සඳහා සූදානම් බවත් නීතිඥවරයා මෙහිදී අධිකරණයට දැනුම් දුන්නේය.
-
-එහිදී ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල  ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතාට දැනුම් දී ඇත්තේ, මෙම ඉල්ලීම අද සිට සති හතරක් තුළ යාපනය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර සුදුසු නියෝග ලබාගැනීමට කටයුතු කරන ලෙසය.
-
-...
-
-[Data](articles/8f261196.json)
-
----
-
-### ආනයනය කළ වාහන රේගු භාරයේ රඳවා ගැනීම ගැන කෝප් කමිටුවේ අවධානය
-
-*2025-07-30 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212826) · `si`
-
-ආනයනය කරන ලද වාහන රේගු භාරයේ රඳවා තබා ගැනීම පිළිබඳ රජයේ මුදල් පිළිබඳ කාරක සභාව පසුගියදා රැස්වූ අවස්ථාවේදී අවධානය යොමු විය.
-
-ඒ, එම සභාව එහි සභාපති, ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා පාර්ලිමේන්තු පරිශ්‍රයේදී රැස්වූ අවස්ථාවේදීය.
-
-මේ චෝදනාව ගේන්නේ ලංකාවේ තියෙන ප්‍රධානම ආයතනයට විරුද්ධව. එතකොට දැන් මේක සවුත් චයිනා මෝර්නින් පෝස්ට් එකේ ලොකු ආර්ටිකල් එකක් හැටියට ගිහිල්ලා තිබුණා. මම ඒක කියෙව්වා. ඒ සවුත් චයිනා මෝර්නින් පෝස්ට් එකේ කියන්නේ මෙන්න මෙහෙම කතාවක්. සමහර රටවල්වල ඒ තියෙන නිසා, සිංගප්පූරුවේ, නේපාලයේ, ලංකාවේ ඒ ටැක්ස් ස්ට්‍රක්චර්ස් තියෙන නිසා, ටැක්ස් එක අඩු කරන විදියට තමයි ඒගොල්ලෝ ඒ එන්ජින් කැපෑසිටි එක හදලා තියෙන්නේ. දැන් උදාහරණයක් හැටියට, ඒ පත්තරේ තියෙන්නේ BYD කියන වාහනය, එකසිය පනහක් කිලෝවොට්වලට සමහර රටවල්වලට යනවා. ඒ වාහනයම සීය කිලෝවොට්වලට, අනිත් රටවල්වලට යනවා. එතකොට අපිට මේක සීයද එකසිය පනහද කියන එක හොයාගන්න ජාත්‍යන්තරව පිළිගන්න පුළුවන් තාක්ෂණික ක්‍රමවේදයක් තියෙනවද ලංකාවේ මේක කරන්න?
-
-...
-
-[Data](articles/2711b011.json)
 
 ---

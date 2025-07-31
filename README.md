@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 13:20:33**
+As of **2025-07-31 13:32:42**
 
 ## Newspaper Stats
 
-*Scraped **67,910** Articles*
+*Scraped **67,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,38 @@ dailyftlk | 4,795
 adalk | 6,532
 adaderanalk | 8,382
 tamilmirrorlk | 9,857
-virakesarilk | 11,298
+virakesarilk | 11,299
 adaderanasinhalalk | 11,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,910 articles have been extended.
+61,973 (91.3%) of 67,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
 
+### தொல்லியல் திணைக்களத்தின் பொறுப்பதிகாரி உள்ளிட்ட இரு தரப்பினருக்கு திருகோணமலை மனித உரிமை ஆணைக்குழு அழைப்பாணை
+
+*2025-07-31 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221437) · `ta`
+
+திருகோணமலை குச்சவெளியில் உள்ள காணியில் தொல்லியல் திணைக்களம் அதிகார துஸ்பிரயோகம் செய்வதாக மனித உரிமை ஆணைக்குழுவில் தனியார் ஒருவர் செய்த முறைப்பாட்டுக்கு அமைய தொல்லியல் திணைக்களத்தின் பொறுப்பதிகாரி உள்ளிட்ட இரு தரப்பினருக்கு மனித உரிமை ஆணைக்குழு அழைப்பாணை விடுத்துள்ளது.
+
+குறித்த முறைப்பாடு தொடர்பில் விசாரணை மேற்கொள்வதற்காக எதிர்வரும் ஆகஸ்ட் மாதம் 07 ஆம் திகதி காலை 10.00 மணியளவில் திருகோணமலை பிராந்திய மனித உரிமை ஆணைக்குழுவின் காரியாலயத்தில் அது தொடர்பான சகல ஆவணங்களுடனும் முன்னிலையாகுமாறு மனித உரிமை ஆணைக்குழுவால் அனுப்பி வைக்கப்பட்டுள்ள அழைப்பாணைக் கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+அத்துடன், 1996ஆம் ஆண்டின் 21ஆம் இலக்க இலங்கை மனித உரிமைகள் ஆணைக்குழுச் சட்டத்தின் 18ஆம் உறுப்புரைக்கு அமைய விசாரனை மேற்கொள்வதற்கான தத்துவத்தை நடைமுறைப் படுத்துவதற்கு உறுப்புரை 20(2) இற்கு அமைவாக இவ் அழைப்பாணை விடுக்கப்படுவதாகவும் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f7c6634c.json)
+
+---
+
 ### தர்ம சக்கரம் பொறிக்கப்பட்ட ஆடை அணிந்த பெண் கைது செய்யப்பட்டமை அடிப்படை உரிமைகளை மீறிய செயல் - உயர் நீதிமன்றம் தீர்ப்பு
 
-*2025-07-31 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221426) · `ta`
+*2025-07-31 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221426) · `ta`
 
 2019 ஆம் ஆண்டு தர்ம சக்கரம் பொறிக்கப்பட்ட ஆடையை அணிந்தமைக்காக பெண்ணொருவர் கைது செய்து தடுத்து வைக்கப்பட்டமை அவரது அடிப்படை உரிமைகளை மீறிய செயலாகும் என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
 
@@ -52,6 +68,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பரந்தனில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
+
+*2025-07-31 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221445) · `ta`
+
+A09 வீதியில் பரந்தன் சந்திப்புக்கு அருகில், பரந்தனில் இருந்து கிளிநொச்சி நோக்கி வந்த டிப்பர் வாகனம், கிளிநொச்சியிலிருந்து பரந்தன் நோக்கி வந்த மோட்டார் சைக்கிள் மீது மோதி விபத்து ஏற்பட்டது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளில் சென்ற தனியார் வங்கியில் பணிபுரியும் பெண் உயிரிழந்துள்ளார்.
+
+விபத்து தொடர்பான மேலதிக விசாரணைகளை கிளிநொச்சி பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6abf69cf.json)
+
+---
+
 ### மட்டக்களப்பில் சட்டவிரோத மணல் கடத்தல்: ஒருவர் கைது
 
 *2025-07-31 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221442) · `ta`
@@ -65,22 +97,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9117d445.json)
-
----
-
-### தொல்லியல் திணைக்களத்தின் பொறுப்பதிகாரி உள்ளிட்ட இரு தரப்பினருக்கு திருகோணமலை மனித உரிமை ஆணைக்குழு அழைப்பாணை
-
-*2025-07-31 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221437) · `ta`
-
-திருகோணமலை குச்சவெளியில் உள்ள காணியில் தொல்லியல் திணைக்களம் அதிகார துஸ்பிரயோகம் செய்வதாக மனித உரிமை ஆணைக்குழுவில் தனியார் ஒருவர் செய்த முறைப்பாட்டுக்கு அமைய தொல்லியல் திணைக்களத்தின் பொறுப்பதிகாரி உள்ளிட்ட இரு தரப்பினருக்கு மனித உரிமை ஆணைக்குழு அழைப்பாணை விடுத்துள்ளது.
-
-குறித்த முறைப்பாடு தொடர்பில் விசாரணை மேற்கொள்வதற்காக எதிர்வரும் ஆகஸ்ட் மாதம் 07 ஆம் திகதி காலை 10.00 மணியளவில் திருகோணமலை பிராந்திய மனித உரிமை ஆணைக்குழுவின் காரியாலயத்தில் அது தொடர்பான சகல ஆவணங்களுடனும் முன்னிலையாகுமாறு மனித உரிமை ஆணைக்குழுவால் அனுப்பி வைக்கப்பட்டுள்ள அழைப்பாணைக் கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
-
-அத்துடன், 1996ஆம் ஆண்டின் 21ஆம் இலக்க இலங்கை மனித உரிமைகள் ஆணைக்குழுச் சட்டத்தின் 18ஆம் உறுப்புரைக்கு அமைய விசாரனை மேற்கொள்வதற்கான தத்துவத்தை நடைமுறைப் படுத்துவதற்கு உறுப்புரை 20(2) இற்கு அமைவாக இவ் அழைப்பாணை விடுக்கப்படுவதாகவும் குறிப்பிடப்பட்டுள்ளது.
-
-...
-
-[Data](articles/f7c6634c.json)
 
 ---
 
@@ -1789,27 +1805,5 @@ AIA Sri Lanka has once again demonstrated its commitment to excellence in workpl
 ...
 
 [Data](articles/25341f31.json)
-
----
-
-### WindForce employee share option plan keeps bourse on buoyant track
-
-*2025-07-30 23:30:00* · [`islandlk`](http://island.lk/windforce-employee-share-option-plan-keeps-bourse-on-buoyant-track/) · `en`
-
-One of Sri Lanka’s renewable energy firms, “WindForce”, is now in the process of planning to offer 40,523,068 ordinary shares in an employee share option plan.
-
-The objective of the ESOS was to incentivize and retain key talent the company said.
-
-The company will grant options to management staff Level 1 and Level 2 employees.
-
-Amid those developments the CSE was in a healthy performance for the 9th consecutive day yesterday,
-
-Both indices moved upwards. The All Share Price Index went up by 33 points while the S and P SL20 rose by 10.5 points. Turnover stood at Rs 5.29 billion with 12 crossings.
-
-Those crossings were reported in HNB, where 560,000 shares crossed to the tune of Rs 203 million; its shares traded at Rs 363, HNB (Non- Voting) 670,000 shares crossed to the tune of Rs 197 million; its shares traded at Rs 294, Light House Hotel 1.9 million shares crossed for Rs 161 million; its shares traded at Rs 83.
-
-...
-
-[Data](articles/cc68f1f4.json)
 
 ---

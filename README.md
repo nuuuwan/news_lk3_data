@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 12:27:52**
+As of **2025-07-31 12:51:12**
 
 ## Newspaper Stats
 
-*Scraped **67,893** Articles*
+*Scraped **67,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,45 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 696
-economynextcom | 4,144
 islandlk | 4,149
+economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,530
-adaderanalk | 8,381
+adaderanalk | 8,382
 tamilmirrorlk | 9,857
-virakesarilk | 11,294
+virakesarilk | 11,295
 adaderanasinhalalk | 11,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,893 articles have been extended.
+61,973 (91.3%) of 67,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### Defence, security cooperation discussed at third Japan–Sri Lanka policy meet
+
+*2025-07-31 12:36:00* · [`economynextcom`](https://economynext.com/defence-security-cooperation-discussed-at-third-japan-sri-lanka-policy-meet-233879/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Japan have discussed foreign policy matters, bilateral issues, and enhanced cooperation, at the third Japan–Sri Lanka Policy Dialogue, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+“Discussions focused on strengthening economic cooperation, with particular emphasis on shared interests in trade and investment.”
+
+The two sides addressed key issues related to labour migration, exploring pathways for sustainable and mutually beneficial migration frameworks, the ministry said.
+
+Deepening defence and security sector cooperation between the two countries was also discussed.
+
+Sri Lanka briefed Japan, Co-Chair of the Official Creditor Committee (OCC), on its current economic situation and ongoing efforts towards debt sustainability.
+
+...
+
+[Data](articles/b8079deb.json)
+
+---
 
 ### පළාත් කිහිපයකට ඉහළ උණුසුම් තත්ත්වයක්
 
@@ -49,6 +69,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d0739425.json)
+
+---
+
+### பிரவுன்ஸ் நிறுவனத்தின் 150வது ஆண்டு விழா: ரூபா. 200 மில்லியன் மதிப்புள்ள வெகுமதிகள் விநியோகஸ்தர்களுக்கு வழங்கல்!
+
+*2025-07-31 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/221433) · `ta`
+
+நாடு முழுவதும் உள்ள அதன் முக்கிய விநியோகஸ்தர்களின் நீண்டகால விசுவாசத்தையும் செயல்திறனையும் கௌரவிக்கும் முயற்சியாக, பிரவுன்ஸ் பேட்டரி மற்றும் டயர் மூலோபாய வணிகப் பிரிவு (SBU) சமீபத்தில் காலி முக ஹோட்டல் (Galle Face Hotel) ஒரு மதிப்புமிக்க விநியோகஸ்தர் பாராட்டு விழாவை நடத்தியது.
+
+2024 டிசம்பர் மாதம் முதல் மார்ச் மாதம் 2025 வரை நடைபெற்ற ஒரு புதுமையான விநியோகஸ்தர் தள்ளுபடி அங்கீகாரத் திட்டத்தின் ஒரு பகுதியாக, பேட்டரி மற்றும் டயர் SBU ரூபா. 200 மில்லியனுக்கும் அதிகமான ஊக்கத்தொகைக்கான காசோலைகளை வழங்கியது.
+
+இது பிரவுன்ஸ் குழுமத்தின் 150 வது ஆண்டு விழா மற்றும் 101 வருடங்கள் தேசத்தில் முன்னிலையில் உள்ளதை குறிக்கும் வகையில் இலங்கையில் ஒரு ஒட்டோமொடிவ் பேட்டரி நிறுவனத்தால் இதுவரை பெறப்பட்ட மிக உயர்ந்த தொகையாகும்.
+
+...
+
+[Data](articles/ef537be9.json)
 
 ---
 
@@ -118,6 +154,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Second Kumbal Perahera of Kandy Esala Festival to take to the streets tonight
+
+*2025-07-31 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111032/second-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
+
+The second Kumbal Perahera of the Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (31).
+
+The Kumbal Perahera will commence from the Kandy Temple of the Tooth Relic at 7.05 p.m. tonight.
+
+The first Kumbal Perahera of this year’s Kandy Esala Festival paraded through the streets last night (30), and a large crowd gathered to witness it, Ada Derana reporter said.
+
+The Kumbal Perahera will continue for five consecutive days, from July 30 to August 03, before the commencement of the Randoli Perahera, which is scheduled to take to the streets on August 4.
+
+The grand Randoli Perahera will take place on Poya Day, which falls on August 8.
+
+The traditional Diya-Kepuma Mangallaya (water-cutting ceremony) will take place on August 9 in the Mahaweli River waters in Getambe.
+
+A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Perahera festival, the most revered religious event in Sri Lanka.
+
+◼️
+
+[Data](articles/271e2381.json)
+
+---
+
 ### செம்மணி மனித புதைகுழி: ஸ்கேன் பரிசோதனைக்கு பாதுகாப்பு அமைச்சின் அனுமதி தேவையில்லை – சட்டத்தரணி ரணிதா ஞானராஜா
 
 *2025-07-31 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221421) · `ta`
@@ -171,6 +231,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/62f02639.json)
+
+---
+
+### Sri Lanka President returns after signing Maldives agreements
+
+*2025-07-31 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-returns-after-signing-maldives-agreements-233874/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has returned to the island after a visit to the Maldives where two bilateral agreements were signed.
+
+The two agreements were a Mutual Legal Assistance Agreement between Sri Lanka and the Maldives and a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike International
+
+The Maldives President Mohamed Muizzu and Dissanayake expressed “their mutual commitment to further strengthen and expand their close friendship and cooperation” Dissanayake’s media division said.
+
+Dissanayake met ministers and state officials of the Maldives to discuss bilateral, regional and international issues of mutual importance.
+
+He also addressed a business forum organized by the Sri Lanka High Commission in the Maldives and the Sri Lanka–Maldives Business Council of the Ceylon Chamber of Commerce, as well as a gathering of expatriate community. (Colombo/Jul31/2025)
+
+◼️
+
+[Data](articles/0768977d.json)
 
 ---
 
@@ -512,6 +592,30 @@ The suspect is a resident of the Rathnapura area, and it has been revealed that 
 
 ---
 
+### Trump says Canada recognition of Palestine hurts trade deal
+
+*2025-07-31 10:33:00* · [`economynextcom`](https://economynext.com/trump-says-canada-recognition-of-palestine-hurts-trade-deal-233853/) · `en`
+
+ECONOMYNEXT – US President Donald Trump has said it would be harder to make a trade deal with Canada because they were backing Palestinian statehood.
+
+“Wow! Canada has just announced that it is backing statehood for Palestine. That will make it very hard for us to make a Trade Deal with them. Oh’ Canada!!!” Trump wrote on his Truth Social.
+
+Canada will recognize a Palestinian state in September, Canadian Prime Minister Mark Carney told reporters on Wednesday.
+
+“Canada intends to recognise the State of Palestine at the 80th session of the United Nations General Assembly in September 2025,” Carney told reporters.
+
+Canada follows France, which has said it will recognize a Palestinian state in September.
+
+UK Prime Minister Keir Starmer said they will recognize Palestine by September unless Israel agrees to a ceasefire and stop starving Gaza civilians in a genocide.
+
+The earlier Trump tariffs are set to go into effect on August 1. So far, no extensions have been announced.
+
+...
+
+[Data](articles/21b79e18.json)
+
+---
+
 ### பொரளையில் போதைப்பொருட்களுடன் மோட்டார் சைக்கிளில் பயணித்த நபர் கைது!
 
 *2025-07-31 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221417) · `ta`
@@ -618,6 +722,30 @@ The suspect is a resident of the Rathnapura area, and it has been revealed that 
 
 ---
 
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-07-31 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-233821/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.15/20 to the US dollar in the spot market Thursday, stronger from 302.20/30 the previous day, while bond yields held broadly steady, dealers said.
+
+A bond maturing on 15.10.2028 was quoted at 9.00/02 percent, down from 9.00/05 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.53/56 percent, up from 9.52/56 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.75/80 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent.
+
+In the Colombo Stock Exchange the ASPI opened marginally up 0.07 percent, or 13.03 points, at 19,579.18; while the S&P SL20 was trading down 0.29 percent, or 16.79 points, at 5,734.89.
+
+Telegraphic transfer rates were quoted as follows; British pound buying was 394.7318 selling 406.0736, euro buying 338.9425 selling 350.1477, American dollar 298.5000 and 305.5000. (Colombo/July31/2025)
+
+◼️
+
+[Data](articles/9c6cc6d5.json)
+
+---
+
 ### ජනවාරි සිට ජූලි දක්වා පැමිණි සංචාරකයින් ගණන ලක්ෂ 13 ඉක්මවයි
 
 *2025-07-31 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212860) · `si`
@@ -655,6 +783,24 @@ The suspect is a resident of the Rathnapura area, and it has been revealed that 
 ◼️
 
 [Data](articles/70d2b30b.json)
+
+---
+
+### Sri Lanka’s Cargills Bank to raise Rs2.5bn, reduce group stake
+
+*2025-07-31 09:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-cargills-bank-to-raise-rs2-5bn-reduce-group-stake-233809/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cargills Bank said it is looking to boost capital and reduce the holdings of its parent, Cargills group in line with a central bank requirement.
+
+The central bank has asked the bank reduce the stake of its parent to 50 percent by the end of 2025, through market mechanisms, the lender said in a stock exchange filing.
+
+It was also asked to ‘explore options to diversify the ownership structure” to reduce the Cargills group voting shares from 60.71 percent to 15 percent by 2029.
+
+Cargills Bank was also asked to raise capital through ‘market mechanisms’ to reach a minimum capital requirement of 20 billion rupees by end 2029. (Colombo/July31/2025)
+
+◼️
+
+[Data](articles/3e84aceb.json)
 
 ---
 
@@ -1024,6 +1170,26 @@ Agreements were exchanged between both parties during the visit, including a Mem
 
 ---
 
+### Trump says did a deal with Pakistan involving oil exploration
+
+*2025-07-31 07:10:00* · [`economynextcom`](https://economynext.com/trump-says-did-a-deal-with-pakistan-involving-oil-exploration-233790/) · `en`
+
+ECONOMYNEXT – President Donald Trump said he had concluded a deal with Pakistan, which involves oil exploration, without giving additional details.
+
+“We have just concluded a Deal with the Country of Pakistan, whereby Pakistan and the United States will work together on developing their massive Oil Reserves,” he said in a post on his truthsocial.com platform.
+
+“We are in the process of choosing the Oil Company that will lead this Partnership. Who knows, maybe they’ll be selling Oil to India some day!”
+
+Getting oil exploration blocks without open bidding on a government to government deals (so-called assignment basis) was earlier the preserve of countries like China and Russia.
+
+The US had advocated free international bidding for countries to get maximum revenues.  US aid also gave technical assistance to Sri Lanka’s petroleum exploration office to prepare oil blocks for commercial bidding.
+
+...
+
+[Data](articles/6da19675.json)
+
+---
+
 ### මාලදිවයින් රාජ්‍ය සංචාරය සාර්ථකව නිම කරමින් ජනපති දිවයිනට
 
 *2025-07-31 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212852) · `si`
@@ -1123,6 +1289,46 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/91b1ad41.json)
+
+---
+
+### Trump imposes 15 tariff on Korea, suspends de minimis citing drugs
+
+*2025-07-31 06:13:00* · [`economynextcom`](https://economynext.com/trump-imposes-15-tariff-on-korea-suspends-de-minimis-citing-drugs-233783/) · `en`
+
+ECONOMYNEXT – Korean goods will be subject to a tariff of 15 percent, President Donald Trump said in a social media post, while also suspending de minimis duty exemptions for goods.
+
+Korea will give 350 billion dollars “for Investments owned and controlled by the United States, and selected by myself, as President,” he said.
+
+“Additionally, South Korea will purchase $100 Billion Dollars of LNG, or other Energy products and, further, South Korea has agreed to invest a large sum of money for their Investment purposes,” Trump said.
+
+“This sum will be announced within the next two weeks when the President of South Korea, Lee Jae Myung, comes to the White House for a Bilateral Meeting.
+
+“It is also agreed that South Korea will be completely OPEN TO TRADE with the United States, and that they will accept American product including Cars and Trucks, Agriculture, etc. We have agreed to a Tariff for South Korea of 15%. America will not be charged a Tariff.”
+
+...
+
+[Data](articles/5102b71e.json)
+
+---
+
+### Fed keeps rates unchanged, in split decision
+
+*2025-07-31 05:33:00* · [`economynextcom`](https://economynext.com/fed-keeps-rates-unchanged-in-split-decision-233765/) · `en`
+
+ECONOMYNEXT – The US Federal Reserve kept its interest rate target unchanged saying growth has slowed, labour market was solid and but inflation was somewhat high.
+
+“Although swings in net exports continue to affect the data, recent indicators suggest that growth of economic activity moderated in the first half of the year,” the Fed said in its monetary policy statement.
+
+“The unemployment rate remains low, and labor market conditions remain solid. Inflation remains somewhat elevated.”
+
+Governors Michelle W. Bowman and Christopher J. Waller wanted to cut rates by 0.25 basis points and voted against the decision.
+
+US President Donald Trump has criticized the Fed for not cutting rates. Trump himself was elected amid the inflation created by Fed and general public unhappiness, despite relatively low unemployment and in-migration, which is now being reversed by force.
+
+...
+
+[Data](articles/68e88d0f.json)
 
 ---
 
@@ -1627,191 +1833,5 @@ YouTube අවකාශය තුළ ග්‍රාහකයින් (subscrib
 ...
 
 [Data](articles/86ec6996.json)
-
----
-
-### பவர் ஸ்டார் சீனிவாசன் கைது
-
-*2025-07-30 20:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பவர்-ஸ்டார்-சீனிவாசன்-கைது/54-362082) · `ta`
-
-பவர் ஸ்டாரிடம் பணத்தைக் கொடுத்துவிட்டு ஏமாறுபவர்கள் குறித்த தகவல்களும், அதன் பின்னர் பவர் ஸ்டார் சீனிவாசன் கைது செய்யப்படுவதும் வழமையாகி விட்டது.
-
-அதாவது, " ரூ.1000 கோடி கடன் வாங்கித் தருவதாக கூறி டெல்லி தொழில் அதிபரிடம் ரூ.5 கோடி பெற்று மோசடி செய்ததாக பவர் ஸ்டார் சீனிவாசன் மீது ஏற்கனவே வழக்கு பதிவு செய்யப்பட்டிருந்தது.
-
-இந்த வழக்கு தொடர்பாக கடந்த 2018 ஆம் ஆண்டு முதல் நீதிமன்றத்தில் முறையாக விசாரணைக்கு ஆஜராகாமல் இருந்த நிலையில், இரண்டு முறை குற்றவாளியாக அறிவிக்கப்பட்ட நிலையில், பவர் ஸ்டார் சீனிவாசன் கைது செய்யப்பட்டுள்ளார்.
-
-மோசடி செய்யப்பட்ட பணத்தை திரைப்பட மற்றும் போக்குவரத்து செலவுக்காக பயன்படுத்தி இருப்பதும் தெரியவந்தது. பவர் ஸ்டார் சீனிவாசன் மீது அதேபோல் ஆறு மோசடி வழக்கு சென்னையில் இருப்பதும் தெரிய வந்துள்ளது.
-
-...
-
-[Data](articles/78bfdcda.json)
-
----
-
-### Approval granted for registration of 1,000 new substitute postal assistants
-
-*2025-07-30 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111021/approval-granted-for-registration-of-1000-new-substitute-postal-assistants) · `en`
-
-Minister of Health and Mass Media Dr. Nalinda Jayatissa says that approval has been granted to make the services of 1,000 currently registered substitute postal assistants permanent and to recruit and register an additional 1,000 new substitute postal assistants.
-
-The Minister also mentioned that efforts are underway to tackle ongoing issues, such as staffing shortages and transportation challenges, within the Department of Posts.
-
-Minister Dr. Nalinda Jayatissa expressed these views during an inspection of the services at the Central Mail Exchange under the Sri Lanka Department of Posts.
-
-Following the inspection, the Minister engaged in discussions with the officers and staff of the Central Mail Exchange regarding current activities, future plans, and existing challenges.
-
-◼️
-
-[Data](articles/6798cca6.json)
-
----
-
-### Maldives gives Sri Lanka citizens 90-day on arrival tourist visa
-
-*2025-07-30 20:06:00* · [`economynextcom`](https://economynext.com/maldives-gives-sri-lanka-citizens-90-day-on-arrival-tourist-visa-233752/) · `en`
-
-ECONOMYNEXT – Maldives has announced that Sri Lanka tourists will given free 90-day visas, during a visit by President Anura Kumara Dissanayake to the archipelago, his media office said.
-
-“..[T]o obtain the visa, travellers must possess a valid passport and proof of sufficient financial means to cover their expenses during their stay in the Maldives,” the statement said.
-
-Sri Lanka and the Maldives had mutual on arrival visa system in place.
-
-Shortly before President Dissanayake went on a state visit Sri Lanka said one year visas will be given to Maldives citizens. (Colombo/July30/2025)
-
-◼️
-
-[Data](articles/2a582be3.json)
-
----
-
-### BYD රථ දහසකට වඩා හම්බන්තොට සිරවෙයි
-
-*2025-07-30 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212845) · `si`
-
-BYD ATTO 3 ඇටෝ ත්‍රී වර්ගයේ මෝටර් රථ දහසක් පමණ හම්බන්තොට වරායෙන් නිදහස් නොකර තබාගැනීම පිළිබඳ රජයේ මුදල් පිළිබඳ කාරක සභාවේ අවධානය යොමුවිය.
-
-කෙසේ වෙතත් අදාළ මෝටර් රථවල එකම බලයලත් බෙදාහැරීමේ ආයතනය වන ජෝන් කීල්ස් සමාගම පවසන්නේ, ඔවුන්ගේ සියලුම වාහන දේශීය නීති රෙගුලාසිවලට අනුකූල බවට සහතික කරන බවය.
-
-මේ අතර CROSS BORDER ණයවර ලිපි විවෘත කරමින් කොන්දේසි සපුරා නොමැතිව ආනයනය කළ රථවාහන ප්‍රතිඅපනයනය කිරීමට රජය තීන්දුවක් ගෙන ඇති බව භාණ්ඩාගාර නියෝජ්‍ය ලේකම් දිලිප් සිල්වා මහතා, රජයේ මුදල් පිළිබඳ කාරක සභාවේදී ප්‍රකාශ කළේය.
-
-CROSS BOARDER LC හෙවත් දේශසීමා ණයවර ලිපි විවෘත කර ආනයනය කරන ලද රථවාහන 500කට ආසන්න ප්‍රමාණයක් මේ වනවිට හම්බන්තොට වරායේ නිශ්කාශනය නොකර ගාල්කර තිබේ.
-
-මේ අතර BYD ATTO 3 වර්ගයේ මෝටර් රථ දහසක් පමණ ද හම්බන්තොට වරායෙන් නිෂ්කාශනය නොකර ශ්‍රී ලංකා රේගුව රඳවා තබාගෙන තිබේ.
-
-ඊට හේතු වී ඇත්තේ මෙරටට ආනයනය කරන ලද ATTO 3 මාදිලියේ රථවල මෝටර් බලය 100kW ලෙස නිෂ්පාදනය කර පැමිණියද, එම මාදිලියෙන්ම වෙනත් රටවලට ආනයනය කරන වාහනවල මෝටර් බලය 150kW වීම හේතුවෙන් පැන නැගී ඇති ගැටලුකාරී තත්ත්වයයි.
-
-...
-
-[Data](articles/e1325c6f.json)
-
----
-
-### சங்கிலி அறுத்த சம்பவத்தில் படுகாயமடைந்த வயோதிப பெண் பலி
-
-*2025-07-30 19:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சங்கிலி-அறுத்த-சம்பவத்தில்-படுகாயமடைந்த-வயோதிப-பெண்-பலி/73-362072) · `ta`
-
-மட்டக்களப்பில் கழுத்தில் இருந்து தங்க சங்கிலியை கொள்ளையர்கள் அறுத்த சம்பவத்தில் படுகாயமடைந்த வயோதிப பெண் சிகிச்சை பலன் இன்று உயிரிழப்பு
-
-மட்டக்களப்பு நகரில் வீட்டின் முன் வீதியை துப்பரவு செய்து கொண்டிருந்த வயோதிப பெண் ஒருவரின் கழுத்தில் இருந்த தங்க சங்கிலியை அறுத்தெடுத்து அவரை வீதியில் தள்ளி வீழ்த்திவிட்டு மோட்டார் சைக்கிளில் தப்பி சென்ற சம்பவத்தில் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட வயோதிப பெண் சிகிச்சை பலனின்றி இன்று புதன்கிழமை (30) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மட்டக்களப்பு நகர் நல்லையா வீதியைச் சேர்ந்த 81 வயதுடைய மகேஸ்வரி சரவணமுத்து என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-கடந்த 24ம் திகதி காலை 6.30 மணிக்கு குறித்த வயோதிப பெண் தனது வீட்டின் முன்னால் உள்ள வீதியை துப்பரவு செய்து கொண்டிருந்தார். அப்போது அங்கு மோட்டார் சைக்கிள் ஒன்றில் வந்த இருவர் பெண்ணின் கழுத்தில் இருந்த சுமார் 3 இலச்சம் ரூபா பெறுமதியான தங்க சங்கிலியை அறுத்தொடுத்து கொண்டு அவரை வீதியில் தள்ளி வீழ்த்தி விட்டு தப்பி ஓடியுள்ளனர்.
-
-...
-
-[Data](articles/9546b078.json)
-
----
-
-### රුසියාවට බලපෑ සුනාමියෙන් කිසිදු ජීවිත හානියක් සිදුව නැහැ
-
-*2025-07-30 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212844) · `si`
-
-රුසියාවට බලපෑ රික්ටර් මාපකයේ 8.8ක දැවැන්ත භූමිකම්පාවෙන් සහ එහි ප්‍රතිඵලයක් ලෙස ඇති වූ සුනාමියෙන් කිසිදු ජීවිත හානියක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කළේ සුනාමි අනතුරු ඇඟවීමේ පද්ධතිය නිවැරදි වේලාවට ක්‍රියාත්මක වූ බැවින් පුද්ගලයින් ඉවත් කිරීමට හැකි වීම හේතුවෙන් හානිය වළක්වා ගැනීමට හැකියාව ලැබුණු බවය.
-
-ඒ අනුව මේ වන විට භූමිකම්පාව සිදු වූ කම්චැට්කා අර්ධද්වීපයට සුනාමි තර්ජන අනතුරු ඇඟවීම අවලංගු කර තිබේ.
-
-අර්ධද්වීපයේ දකුණු කෙළවරේ පිහිටා ඇති සෙවෙරෝ-කුරිල්ස්කි දිස්ත්‍රික්කය ද සුනාමි අනතුරු ඇඟවීම් ඉවත් කළ බව සඳහන් වේ.
-
-මේ අතර, රුසියාවේ සකාලින් කලාපයේ ආණ්ඩුකාර වැලරි ලිමරෙන්කෝ නිවේදනය කළේ, රුසියාවේ පෙරදිග අර්ධද්වීපයට දකුණින් පිහිටි ගිනිකඳු දූපත් සමූහයක් වන උතුරු කුරිල් දූපත්වලට ද තවදුරටත් සුනාමි තර්ජනයක් නොමැති බවය.
-
-එමෙන්ම මේ වන විට තත්ත්වය ස්ථාවර වෙමින් පවතින බවත් අවදානම පහව ගියද සියලුම හදිසි සේවාවන්  තවදුරටත් සූදානමින් පවතින බවත් ඔහු වැඩිදුරටත් පැවසුවේය.
-
-◼️
-
-[Data](articles/aa1aa763.json)
-
----
-
-### යුද හමුදාපතිට වසරක සේවා දිගුවක්
-
-*2025-07-30 19:04:15* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාපතිට-වසරක-සේවා-දිගුවක්/11-417627) · `si`
-
-යුද හමුදාපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතාට හෙට (01) සිට වසරක සේවා දිගුවක් ලබා දී තිබේ.
-
-සේනාධිනායක ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අදාල සේවා දිගුව ලබා දී ඇත.
-
-ශ්‍රී ලංකා කාලතුවක්කු හමුදාව නියෝජනය කරන වත්මන් යුද හමුදාපතිවරයා පසුගිය වසරේ දෙසැම්බර් 31 වන දින සිට ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා යුද හමුදාවේ 25 වැනි යුද හමුදාපතිවරයා ලෙස එම ධුරයේ රාජකාරී ආරම්භ කළේය.
-
-◼️
-
-[Data](articles/057920b9.json)
-
----
-
-### முன்னாள் கடற்படை தளபதியின் விளக்கமறியல் நீடிப்பு
-
-*2025-07-30 18:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-தளபதியின்-விளக்கமறியல்-நீடிப்பு/175-362068) · `ta`
-
-இலங்கை கடற்படையின் முன்னாள் தளபதி அட்மிரல் (ஓய்வு) நிஷாந்த உலுகேதென்னவை ஒகஸ்ட் 13 ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்க உத்தரவிடப்பட்டுள்ளது.
-
-இன்று பொல்கஹவெல நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் அவர் மேலும் விளக்கமறியலில் வைக்கப்பட்டார்.
-
-கடற்படை புலனாய்வு பணிப்பாளராக இருந்த காலத்தில், பொத்துஹெரவைச் சேர்ந்த ஒரு இளைஞர் காணாமல் போனது தொடர்பாக இந்த வாரம் அவர் கைது செய்யப்பட்டார்.
-
-அட்மிரல் நிஷாந்த உலுகேதென்ன, ஜூலை 2020 முதல் டிசம்பர் 2022 வரை இலங்கை கடற்படையின் 24வது தளபதியாகப் பணியாற்றினார்.
-
-◼️
-
-[Data](articles/215207b3.json)
-
----
-
-### 21 அதிக திறன் கொண்ட மோட்டார் சைக்கிள்கள் : கைதானவருக்கு பிணை
-
-*2025-07-30 18:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-அதிக-திறன்-கொண்ட-மோட்டார்-சைக்கிள்கள்-கைதானவருக்கு-பிணை/175-362067) · `ta`
-
-சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 21 அதிக திறன் கொண்ட மோட்டார் சைக்கிள்களை வைத்திருந்ததாகக் கூறி சமீபத்தில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த ஹம்பாந்தோட்டை பறவைகள் பூங்காவின் உரிமையாளர் பிணையில்  விடுவிக்கப்பட்டுள்ளார்.
-
-அந்த நபர் இன்று (30) ஹம்பாந்தோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட போது,  500,000 மதிப்புள்ள இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
-
-நாட்டிற்கு சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 21 மோட்டார் சைக்கிள்கள் மற்றும் பயிரிடப்பட்ட கஞ்சா செடிகளுடன் இவர் ஜூலை மாதம் 12ஆம் திகதி கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/1b724291.json)
-
----
-
-### රත්නපුර පොලීසියේ තිදෙනෙකුගේ වැඩ තහනම්
-
-*2025-07-30 18:53:20* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියේ-තිදෙනෙකුගේ-වැඩ-තහනම්/11-417626) · `si`
-
-අපරාධ නඩු කිහිපයක සැකකරුවෙකු පොලිස් රැදවුම්භාරයෙන් පලායාම හේතුවෙන් රත්නපුර මුලස්ථාන පොලිස් පරීක්ෂකවරයා ඇතුලු නිලධාරින් තිදෙනෙකුගේ අද (30දා) වැඩතහනම් කර ඇත.
-
-මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස කටයුතු කරන්නේ ප්‍රධාන පොලිස් පරීක්ෂක කමල් අබේසිරි මහතාය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් අල්ලාගෙන රත්නපුර මුලස්ථාන පොලිසියට බාරදුන් සංවිධානාත්මක අපරාධ කල්ලියක ප්‍රබල අපරාධකරුවෙක් අද උදෑසන 07.00ට මෙලෙස පලාගොස් තිබුණි. රත්නපුර අංගම්මන ප්‍රදේශයේදි සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
-
-මිනීමැරුම් සිද්ධින් දෙකක් සම්බන්ධ නඩු දෙකක් සහ විවෘත වරෙන්තු දෙකක් පලාගිය සැකකරුට එරෙහිව තිබු බවද පොලිසිය පැවසුවේය. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් රත්නපුර මුලස්ථාන පොලීසියේ රාත්‍රී කාර්යභාර නිලධාරීවරයාට සහ උප සේවක නිලධාරියාට සැකකරු බාරදී තිබුණ බවද පොලිසිය පැවසුවේය.
-
-උදෑසන 06.00ට රාත්‍රී සේවයේ සිටි නිලධාරින් සේවා මුරය අවසන්ව පිටව ගිය පසු උදේ සේවා මුරය බාරගත් කාර්යභාර නිලධාරීවරයා සහ උප සේවක නිලධාරියා රාජකාරී කරන අවස්ථාවේ මුහුණ සේදිමට සහ වැසිකිලියාමට ගෙනගිය අවස්ථාවේ සැකකරු පලාගොස් තිබුණි.
-
-...
-
-[Data](articles/68477779.json)
 
 ---

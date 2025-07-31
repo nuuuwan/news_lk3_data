@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 14:54:31**
+As of **2025-07-31 15:09:46**
 
 ## Newspaper Stats
 
-*Scraped **67,921** Articles*
+*Scraped **67,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 4,149
 economynextcom | 4,154
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,534
-adaderanalk | 8,382
-tamilmirrorlk | 9,860
-virakesarilk | 11,299
+adalk | 6,535
+adaderanalk | 8,389
+tamilmirrorlk | 9,861
+virakesarilk | 11,304
 adaderanasinhalalk | 11,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,921 articles have been extended.
+61,973 (91.2%) of 67,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
+
+*2025-07-31 14:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-அபேகுணவர்தனவின்-மகளுக்கு-பிணை/175-362118) · `ta`
+
+இலங்கை பொதுஜன பெரமுன (SLPP) நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மதுகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
+
+சந்தேக நபர் தலா 2 மில்லியன் ரூபாய் மதிப்புள்ள இரண்டு சரீரப் பிணைகளில் விடுவிக்கப்பட்டார்.
+
+இந்த வழக்கு தொடர்பாக தற்போது விசாரணைகளை மேற்கொண்டு வரும் வாலானா குற்றவியல் தடுப்புப் பிரிவில் சரணடைந்த பின்னர் அவர் காவலில் வைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/671f8a32.json)
+
+---
+
+### சம்பூரில் மனித எச்சங்கள் கண்டுபிடிப்பு: மனித உரிமைகளுக்கான மையம் நேரில் ஆய்வு
+
+*2025-07-31 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221454) · `ta`
+
+திருகோணமலை சம்பூர் சிறுவர் பூங்காவை அண்மித்துள்ள கடற்கரையோரப் பகுதியில் அண்மையில் கண்டுபிடிக்கப்பட்ட மனித எச்சங்கள் தொடர்பில், மனித உரிமைகளுக்கும் அபிவிருத்திக்குமான மையத்தின் தலைவர் சிரேஷ்ட சட்டத்தரணி இரட்ணவேல் தலைமையிலான சட்டத்தரணிகள் குழுவினர் வியாழக்கிழமை (31) நேரில் விஜயம் மேற்கொண்டு ஆய்வு செய்தனர்.
+
+கடந்த ஞாயிற்றுக்கிழமை (ஜூலை 20) MAG என்ற மிதிவெடி அகற்றும் நிறுவனம் மிதிவெடி அகற்றும் பணிகளில் ஈடுபட்டிருந்தபோது, சிதைந்த மனித மண்டை ஓடு மற்றும் எலும்புப் பகுதிகளைக் கண்டெடுத்தது.இது அப்பகுதியில் பெரும் பரபரப்பை ஏற்படுத்தியது.
+
+இதையடுத்து, கடந்த ஜூலை 23ஆம் திகதி மூதூர் நீதிமன்ற நீதிபதி, அரச பகுப்பாய்வு திணைக்களம், சட்ட வைத்திய அதிகாரி, தொல்பொருள் திணைக்களம், புவிச்சரிதவியல் அளவை மற்றும் சுரங்கங்கள் பணியகம், காணாமல் போனோர் அலுவலகம், குற்றவியல் தடய காட்சிகள் அலுவலகம் (SOCO) ஆகிய திணைக்களங்களின் அதிகாரிகள் குறித்த பகுதிக்கு விஜயம் மேற்கொண்டு நிலைமையை ஆராய்ந்தனர்.
+
+...
+
+[Data](articles/6db9cdff.json)
+
+---
+
+### ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
+
+*2025-07-31 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221455) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மத்துகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
+
+சட்டவிரோத வாகன வழக்கு தொடர்பாக நேற்று புதன்கிழமை (30) இவர் கைது செய்யப்பட்டிருந்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/903615b8.json)
+
+---
 
 ### தேயிலை தூள் திருடிய உதவி முகாமையாளருக்கு பிணை
 
@@ -47,6 +93,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f8c12e21.json)
+
+---
+
+### රෝහිතගේ දියණියට අද අධිකරණයෙන් ලැබුණු නියෝගය මෙන්න
+
+*2025-07-31 14:31:16* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-දියණියට-අද-අධිකරණයෙන්-ලැබුණු-නියෝගය-මෙන්න/11-417638) · `si`
+
+අත්අඩංගුවට ගෙන සිටි පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය අද(31දා) මතුගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ඇප මත මුදා හැර තිබේ.
+
+ඒ අනුව ඇය රුපියල් ලක්ෂ 20 බැගින් වූ ශරීර ඇප 2ක් මත මුදාහැරීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/4249b6df.json)
+
+---
+
+### பரந்தனில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
+
+*2025-07-31 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221445) · `ta`
+
+கிளிநொச்சி - பரந்தன் சந்தியில் இன்று வியாழக்கிழமை (31) காலை இடம்பெற்ற வாகன விபத்தில் யுவதி உயிரிழந்துள்ளார்.
+
+பரந்தனில் இருந்து கிளிநொச்சி நோக்கி சென்ற டிப்பர் வாகனம், கிளிநொச்சியிலிருந்து பரந்தன் நோக்கி சென்ற மோட்டார் சைக்கிள் மீது மோதி விபத்து ஏற்பட்டது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளில் சென்ற தனியார் வங்கியில் பணிபுரியும் பெண் உயிரிழந்துள்ளார்.
+
+விபத்து தொடர்பான மேலதிக விசாரணைகளை கிளிநொச்சி பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6abf69cf.json)
 
 ---
 
@@ -88,6 +166,50 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### MP Rohitha Abeygunawardena’s daughter granted bail
+
+*2025-07-31 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111040/mp-rohitha-abeygunawardenas-daughter-granted-bail) · `en`
+
+The daughter of Member of Parliament Rohitha Abeygunawardena, Rochelle Abeygunawardena, who was arrested yesterday (30), has been granted bail, Ada Derana reporter said.
+
+The Matugama Magistrate’s Court accordingly ordered MP Abeygunawardena’s daughter on two Rs. 2 million surety bails each.
+
+She was arrested yesterday after surrendering to the Walana Anti-Vice Unit, in connection with investigations into the alleged possession of an illegally assembled vehicle, police stated.
+
+According to police, her statement was recorded for over nine hours.
+
+After recording her statement, Rochelle Abeygunawardena was arrested and handed over to the Matugama Police Station for further investigations.
+
+Her husband, Dhanushka Weerakkody, is currently in remand custody over the same incident.
+
+Weerakkody is also linked to the incident involving the seizure of an illegally assembled vehicle in Matugama recently.
+
+◼️
+
+[Data](articles/b2472730.json)
+
+---
+
+### Delta flight diverted after being hit by turbulence, 25 passengers hospitalized
+
+*2025-07-31 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111039/delta-flight-diverted-after-being-hit-by-turbulence-25-passengers-hospitalized) · `en`
+
+A Delta Airlines flight made an emergency landing at Minneapolis-St. Paul International Airport on Wednesday after dozens of people were injured during “significant” turbulence.
+
+Flight 56 bound for Amsterdam took off from Salt Lake City airport at 16:30 local time (23:30 BST), before being diverted to Minneapolis. It landed just over two hours into its nine-hour flight time, at around 19:45 local time.
+
+Medical personnel met the Airbus A330-900 to “evaluate customers and crew” after it arrived in Minneapolis, with 25 passengers then transported to local hospitals for care.
+
+In a statement, Delta said that it is “working with customers to support their immediate needs”.
+
+In the US, there have been 207 severe injuries caused by turbulence - where an individual has been admitted to hospital for more than 48 hours - since 2009, according to official figures from the National Transportation Safety Board.
+
+...
+
+[Data](articles/11759079.json)
+
+---
+
 ### ඉන්දීය - එංගලන්ත පස්වන ටෙස්ට් ක්‍රිකට් තරගය අද
 
 *2025-07-31 14:11:51* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය---එංගලන්ත-පස්වන-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-417637) · `si`
@@ -120,6 +242,66 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Defence Ministry hosts awareness programme on Anti-Corruption Act
+
+*2025-07-31 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111038/defence-ministry-hosts-awareness-programme-on-anti-corruption-act) · `en`
+
+A special awareness programme on Sri Lanka’s strengthened anti-corruption act has taken place at the Ministry of Defence.
+
+The programme was organized by the Internal Affairs Unit of the Ministry of Defence under the guidance of Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd).
+
+It was conducted by the High Court Judge Ranga Dissanayake, Director General of the Commission to Investigate Allegations of Bribery and Corruption (CIABOC).
+
+During his lecture, the Director General of CIABOC provided a concise overview of the newly introduced Anti-Corruption Act, emphasizing its key provisions and implications for public service, the Defence Ministry said in a statement.
+
+He has also highlighted the importance of working with honesty, good faith and vigilance in the execution of official duties and encouraged public servants and officers not to fear upholding transparency and accountability when executing their duties.
+
+...
+
+[Data](articles/d7ce91f6.json)
+
+---
+
+### Rohitha’s daughter to be produced before court
+
+*2025-07-31 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111037/rohithas-daughter-to-be-produced-before-court) · `en`
+
+The daughter of Member of Parliament Rohitha Abeygunawardena is scheduled to be produced before the Matugama Magistrate’s Court today (31).
+
+She had surrendered to the Walana Anti-Vice Unit yesterday (30) through an attorney, in connection with investigations into the alleged possession of an illegally assembled vehicle, police stated.
+
+According to the police, her statement was recorded for over nine hours.
+
+After recording her statement, Rochelle Abeygunawardena, the daughter of former minister Rohitha Abeygunawardena, was arrested and handed over to the Matugama Police Station for further investigations.
+
+Her husband, Dhanushka Weerakkody, is currently in remand custody over the same incident.
+
+Weerakkody is also allegedly linked to the incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
+
+◼️
+
+[Data](articles/c5750dda.json)
+
+---
+
+### யானை - மனித மோதலைத் தடுப்பதற்கு விசேட திட்டங்களை முன்மொழியும் எதிர்க்கட்சி தலைவர்
+
+*2025-07-31 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221444) · `ta`
+
+யானை - மனித மோதலைத் தடுப்பதற்கு, நாடு முழுவதும் துப்பாக்கிகளை விநியோகிப்பதற்குப் பதிலாக செயற்படுத்துவதற்கு எம்மிடம் திட்டங்கள் உள்ளன. அதற்கமைய 10 எம்மால் முன்மொழியப்படும் 10 அம்ச திட்டங்களை செயற்படுத்துமாறு அரசாங்கத்தை வலியுறுத்துவதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+வியாழக்கிழமை (31) விசேட அறிக்கையொன்றை வெளியிட்டு அவர் இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாளாந்தம் மனித - யானை மோதலால் நமது நாட்டில் பெரும் துயர் நிகழ்ந்து வருகிறது. ஒருபுறம் மனித வளங்களும் மறுபுறம் காட்டு யானை வளங்களும் அழிக்கப்படுகின்றன. எனவே, உடனடியாக அரசாங்கம் செயல்படுத்தப்பட வேண்டிய பத்து அம்ச வேலைத்திட்டத்தை முன்மொழிகிறேன்.
+
+முறையானதொரு, விஞ்ஞான பூர்வமானதொரு துல்லியமான காட்டு யானைகள் தொடர்பான கணக்கெடுப்பை நடத்துதல். மனித-யானை மோதலைக் குறைப்பதற்காக 2020 ஆம் ஆண்டில் வகுக்கப்பட்ட தேசிய செயல் வேலைத்திட்டத்தை உடனடியாக அமுலுக்கு கொண்டு வருதல்.
+
+...
+
+[Data](articles/1ebde6cb.json)
+
+---
+
 ### யாழ். பெண்ணை கண்டுபிடிக்க உதவுங்கள்
 
 *2025-07-31 13:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்ணை-கண்டுபிடிக்க-உதவுங்கள்/175-362114) · `ta`
@@ -137,6 +319,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6f75255b.json)
+
+---
+
+### கண்டி - பேராதனை வீதியிலுள்ள கெட்டம்பே சுரங்க வழிப்பாதையை பயன்படுத்துவது கட்டாயம் !
+
+*2025-07-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221447) · `ta`
+
+கண்டி- பேராதனை பிரதான வீதியில்,  கெட்டம்பே என்ற இடத்தில் பாதை மாறுபவர்கள் அங்கு அமைக்கப்பட்டுள்ள  சுரங்க வழிப் பாதையை பயன்படுத்துவது நாளை முதல் (ஆகஸ்ட் 1) கட்டாயமாக்கப்பட்டுள்ளது.  கண்டி மாவட்ட அபிவிருத்தி சபைக் கூட்டத்தில் இந்த முடிவு மேற்கொள்ளப்பட்டுள்ளது.
+
+கண்டி செயலக கேட்போர் கூடத்தில் இடம் பெற்ற மேற்படிகூட்டத்தில் விவசாய,  நீர்பாசன அமைச்சர் கே.டி.லால்காந்த,  மத்திய மாகாண ஆளுநர் பேராசிரியர் சரத் அபேகோன் உட்பட கண்டிமாவட்டத்தைச் சேர்ந்த  அமைச்சர்கள் பாராளுமன்ற அங்கத்தவர்கள் எனப் பலர் இதில் கலந்து கொண்டனர்.
+
+கண்டி- கொழும்பு பிரதான பாதையில் வாகன நெரிசல் காரணமாக பொதுமக்கள் பிரச்சினைகளை எதிர்கொள்கின்றனர். இது தொடர்பாக நாம் பலமுறை எடுத்துச் சொல்லியும் பொதுமக்களில் சிலர் அதனைப் பின் பற்றுவதில்லை.
+
+எனவே கெட்டம்பேயிலுள்ள சுரங்கவழிப்பாதையை எதிர் வரும் ஆகஸ்ட் முதலாம் திகதிமுதல் பயன் படுத்துவது  கட்டாயமாக்கப்பட்டுள்ளது.
+
+மேட்படி சுரங்கப் பாதையை பயன் படுத்தாது பாதையின் குருக்கே பொதுமக்கள் பாதை மாறுவதே  மேட்படி இடத்தில் வாகன நெரிசலுக்கு முக்கிய காரணம் எனக்கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0cbb2cd0.json)
+
+---
+
+### Hearing of cases will be expedited through digitization, new CJ assures
+
+*2025-07-31 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111036/hearing-of-cases-will-be-expedited-through-digitization-new-cj-assures) · `en`
+
+The ceremonial sitting to welcome the new Chief Justice of Sri Lanka Preethi Padman Surasena took place at the Supreme Court complex today (31).
+
+Judges representing the Supreme Court and the Court of Appeal, as well as judges from the High Court, District Courts, and Magistrates’ Courts attended the event.
+
+During the traditional welcoming ceremony, Chief Justice Padman Surasena stated that all necessary measures will be taken to enhance the judicial process in a manner that strengthens public trust.
+
+The Chief Justice also stated that the digitization of court proceedings will be expedited in order to accelerate the hearing of cases and provide an efficient service to the public through the judicial system.
+
+◼️
+
+[Data](articles/5575c2ae.json)
 
 ---
 
@@ -171,6 +391,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b239d613.json)
+
+---
+
+### பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளொன்றுக்கான அடிப்படைச் சம்பளமாக 2 ஆயிரம் ரூபா வழங்கப்பட வேண்டும் -  மக்கள் போராட்ட இயக்கம்
+
+*2025-07-31 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/221449) · `ta`
+
+மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளொன்றுக்கான அடிப்படைச் சம்பளமாக 2 ஆயிரம் ரூபா வழங்கப்பட வேண்டும் என மக்கள் போராட்ட இயக்கம் வலியுறுத்தியுள்ளது.
+
+இது தொடர்பில் தெளிவுபடுத்தி, மேலும் பல கோரிக்கைகளை உள்ளடக்கிய வகையிலான துண்டு பிரசுரம் விநியோக நடவடிக்கை ஹட்டன் பஸ் நிலையப் பகுதியில் இன்று வியாழக்கிழமை (31) முன்னெடுக்கப்பட்டது.
+
+தோட்டத் தொழிலாளர் மத்திய நிலையம், சமூக நீதிக்கான மலையக வெகுஜன அமைப்பு , மக்கள் போராட்ட இயக்கம் என்பன  இணைந்தே இதற்குரிய நடவடிக்கையை முன்னெடுத்திருந்தன.
+
+தோட்டத் தொழிலாளர்களுக்கு அடிப்படை நாள் சம்பளமாக 2000 ரூபா வழங்கப்பட வேண்டும் ; அத்தோடு மாத சம்பள முறைமை அறிமுகப்படுத்தப்பட வேண்டும்.
+
+தோட்ட அடிமை முறைமை நீக்கப்பட வேண்டும் ; காணி உரிமை வழங்கப்பட வேண்டும் என்பன உட்பட மேலும் பல கோரிக்கைகளை முன்னிறுத்தியே துண்டு பிரசுர விநியோகம் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/66f41715.json)
 
 ---
 
@@ -210,22 +450,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### பரந்தனில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு
-
-*2025-07-31 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221445) · `ta`
-
-A09 வீதியில் பரந்தன் சந்திப்புக்கு அருகில், பரந்தனில் இருந்து கிளிநொச்சி நோக்கி வந்த டிப்பர் வாகனம், கிளிநொச்சியிலிருந்து பரந்தன் நோக்கி வந்த மோட்டார் சைக்கிள் மீது மோதி விபத்து ஏற்பட்டது.
-
-இந்த விபத்தில் மோட்டார் சைக்கிளில் சென்ற தனியார் வங்கியில் பணிபுரியும் பெண் உயிரிழந்துள்ளார்.
-
-விபத்து தொடர்பான மேலதிக விசாரணைகளை கிளிநொச்சி பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/6abf69cf.json)
-
----
-
 ### කාන්තාවන්ට වඩා පිරිමින්ට පෙනහළු පිළිකා අවදානමක්
 
 *2025-07-31 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212866) · `si`
@@ -244,6 +468,24 @@ A09 வீதியில் பரந்தன் சந்திப்பு�
 
 ---
 
+### Heat warning issued for several areas
+
+*2025-07-31 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111034/heat-warning-issued-for-several-areas) · `en`
+
+The Meteorology Department has issued a Warm Weather Advisory for Northern, Eastern and North-central provinces and Monaragala and Hambantota districts.
+
+It states that the Heat Index, the temperature felt on human body is expected to increase up to ‘Caution level’ today (31)  at some places in Northern, Eastern and North-central provinces and Monaragala and Hambantota districts.
+
+As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/98b08ae0.json)
+
+---
+
 ### மட்டக்களப்பில் சட்டவிரோத மணல் கடத்தல்: ஒருவர் கைது
 
 *2025-07-31 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221442) · `ta`
@@ -257,6 +499,28 @@ A09 வீதியில் பரந்தன் சந்திப்பு�
 ◼️
 
 [Data](articles/9117d445.json)
+
+---
+
+### Sri Lanka’s tourist arrivals exceed 1.3 million so far this year
+
+*2025-07-31 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111033/sri-lankas-tourist-arrivals-exceed-13-million-so-far-this-year) · `en`
+
+The number of tourists who have arrived in the island so far this year has exceeded 1.3 million, according to the latest data.
+
+The Sri Lanka Tourism Development Authority (SLTDA) said a total of 1,341,953 tourists have visited the island between January 01 and July 27, 2025.
+
+The majority of the visitors are Indian nationals, numbering 274,919.
+
+In addition, it is reported that tourists from countries including Britain, Russia, Germany, China, France, Australia, and the Netherlands have also visited the island in significant numbers.
+
+According to information provided by the SLTDA, a total of 173,909 tourists arrived in the island within the first 27 days of July.
+
+Furthermore, the highest number of tourists for the month arrived on July 26, with 7,579 arrivals on that day.
+
+◼️
+
+[Data](articles/bb0ba48a.json)
 
 ---
 
@@ -1607,231 +1871,5 @@ US President Donald Trump has criticized the Fed for not cutting rates. Trump hi
 ...
 
 [Data](articles/68e88d0f.json)
-
----
-
-### Sri Lanka, Switzerland review migration partnership progress
-
-*2025-07-31 05:06:08* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Switzerland-review-migration-partnership-progress/56-779717) · `en`
-
-The third meeting of experts on the migration partnership between Sri Lanka and Switzerland was held in Bern on Tuesday (29), where the progress made under the migration partnership since its launch in 2016 was reviewed.
-
-According to Sri Lanka’s Foreign Ministry, a discussion was also held on the future trajectory of the partnership after the formal handing over of the bilateral Safe Labour Migration Program (SLMP) to the Government of Sri Lanka last year.
-
-This program was funded by Switzerland and underscores the commitment to institutionalising sustainable frameworks for the protection and welfare of Sri Lankan migrant workers.
-
-Foreign Affairs, Foreign Employment and Tourism Ministry Director General – Europe and North America Sugeeshwara Gunaratna and Swiss Federal Department of Justice and Police State Secretariat for Migration Director – International Affairs Ambassador Hendrick Krauskopf Co-Chaired the meeting.
-
-...
-
-[Data](articles/a70b3675.json)
-
----
-
-### PM Dr. Harini appointed Chairperson of  Sri Lanka National Commission for UNESCO
-
-*2025-07-31 05:03:00* · [`dailyftlk`](https://www.ft.lk/news/PM-Dr-Harini-appointed-Chairperson-of-Sri-Lanka-National-Commission-for-UNESCO/56-779716) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has been appointed as the Chairperson of the Sri Lanka National Commission for the United Nations Educational, Scientific and Cultural Organisation (UNESCO), the Prime Minister’s Media Division announced.
-
-Education Ministry Secretary Nalaka Kaluwewa has been named Vice Chairperson of the Commission.
-
-The appointments were formalised during a ceremony held on Tuesday (29) at the Education Ministry in Isurupaya, Battaramulla, with Dr. Amarasuriya in attendance.
-
-According to the statement, the National Commission is tasked with coordinating efforts across key ministries to support UNESCO’s core mandates including education, science, culture, mass communication, social sciences, and environmental initiatives   in alignment with Sri Lanka’s national development goals.
-
-n Subject matter experts: Dr. Asha de Vos, Chandra Wickramasinghe, Dr. V.V. Madawattegedara, and Saminathan Vimal.
-
-...
-
-[Data](articles/729a4ada.json)
-
----
-
-### Sarvajana Balaya expresses solidarity with Palestine
-
-*2025-07-31 05:00:53* · [`dailyftlk`](https://www.ft.lk/news/Sarvajana-Balaya-expresses-solidarity-with-Palestine/56-779715) · `en`
-
-From left: A.W.S. Ameen, Rajitha Hapuarachchi, Dr. Channa Jayasumana, Sarvajana Balaya Leader MP Dilith Jayaweera, Palestinian Ambassador Ihab Khalil, Palestinian Deputy Ambassador Hisham Abu Taha, and Hassan Aladeen
-
-The leadership of the Sarvajana Balaya political alliance held a meeting with Palestinian Ambassador Ihab Khalil on Tuesday (29).
-
-This meeting was held to express the deep and unwavering solidarity of the Sri Lankan people with the innocent civilians of Palestine, who continue to endure immense suffering amid a prolonged and inhumane conflict.
-
-...
-
-[Data](articles/c4d830b7.json)
-
----
-
-### EFL welcomes Govt.’s latest move on Wedithalathive Nature Reserve
-
-*2025-07-31 05:00:22* · [`dailyftlk`](https://www.ft.lk/news/EFL-welcomes-Govt-s-latest-move-on-Wedithalathive-Nature-Reserve/56-779714) · `en`
-
-The Environmental Foundation (Guarantee) Ltd., (EFL) has welcomed the decision by the Cabinet of Ministers to retain the original status quo of the Wedithalathive Nature Reserve.
-
-“This decision is a significant victory for the environment and a reaffirmation of the critical importance of preserving Sri Lanka’s protected areas. However, we remain vigilant, as similar threats may arise in the future. The EFL will continue to advocate for the protection of our nation’s natural heritage and stand against any attempts to undermine it,” the EFL said in a statement.
-
-...
-
-[Data](articles/83b6ca68.json)
-
----
-
-### Committee on High Posts approves five new Ambassadors, High Commissioner and Ministry Secretary
-
-*2025-07-31 04:59:44* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-five-new-Ambassadors-High-Commissioner-and-Ministry-Secretary/56-779713) · `en`
-
-The Parliamentary Committee on High Posts recently approved the appointments of five new Ambassadors, a High Commissioner and a Ministry Secretary.
-
-Accordingly, Sumadhurika Sashikala Premawardhane as the Ambassador of Sri Lanka to the Republic of Indonesia, C.A. Chaminda Inoka Colonne as the Ambassador of Sri Lanka to the Federative Republic of Brazil, Mohamed Rizvi Hassen as the High Commissioner of Sri Lanka to the Republic of Maldives, L.R.M.N.P.G.B. Kadurugamuwa as the Ambassador of Sri Lanka to the Republic of Turkey, Ruwanthi Delpitiya as the Ambassador of Sri Lanka to Nepal, and Marimuththu K. Pathmanaathan as the Ambassador of Sri Lanka to the Republic of South Korea have been recommended by the Committee on High Posts.
-
-In addition, the name of Ayesha Jinasena, PC, has also been recommended by the Committee on High Posts for the appointment as the Secretary to the Justice and National Integration Ministry.
-
-...
-
-[Data](articles/8bf5347a.json)
-
----
-
-### Sri Lanka and Türkiye chart new path of cooperation at 3rd JCETC session
-
-*2025-07-31 04:58:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Türkiye-chart-new-path-of-cooperation-at-3rd-JCETC-session/34-779712) · `en`
-
-Turkish National Education Minister Yusuf Tekin (left) and Trade, Commerce, Food Security and Co-operative Development Minister Wasantha Samarasinghe
-
-The third session of the Sri Lanka-Türkiye Joint Committee for Economic and Technical Cooperation (JCETC) was successfully held on 24 July at the Hilton Colombo, marking a major milestone in deepening bilateral ties between the two nations.
-
-The meeting underscored both countries’ renewed commitment to expanding cooperation across a wide range of sectors, from trade and investment to agriculture, education, maritime affairs, transport, health, tourism, and technology and innovation.
-
-...
-
-[Data](articles/2471bb33.json)
-
----
-
-### Regional Exporters Networking initiative launched from Kandy
-
-*2025-07-31 04:56:35* · [`dailyftlk`](https://www.ft.lk/business/Regional-Exporters-Networking-initiative-launched-from-Kandy/34-779711) · `en`
-
-The Sri Lanka Export Development Board (EDB), under the patronage of Industry and Entrepreneurship Development Minister Sunil Handunnetti successfully conducted the Regional Exporters Networking Forum on 29 July, at the Mahaweli Reach Hotel, Katugastota, Kandy.
-
-The forum was organised with the objective of enhancing regional export capacities and fostering greater participation from exporters in the districts of Kandy, Matale, Nuwara Eliya, Badulla, and Kegalle in achieving the goals of the National Export Strategy.
-
-Facilitating direct dialogue between regional exporters and government institutions and policy makers,
-
-Providing a platform to discuss and seek solutions to challenges related to customs operations, legal and regulatory frameworks, and market access,
-
-Supporting policy development based on the specific needs of regional export entrepreneurs.
-
-...
-
-[Data](articles/ec9f4ea9.json)
-
----
-
-### Sri Lanka’s participation at Global SME Ministerial Meeting and Trade Promotion Organisations Leadership Dialogue
-
-*2025-07-31 04:52:52* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-participation-at-Global-SME-Ministerial-Meeting-and-Trade-Promotion-Organisations-Leadership-Dialogue/34-779710) · `en`
-
-Sri Lanka Export Development Board (EDB) Chairman and Chief Executive Officer Mangala Wijesinghe represented Sri Lanka at two prestigious international events held in Johannesburg, South Africa, the Trade Promotion Organisations (TPO) Leadership Dialogue and the inaugural Global SME Ministerial Meeting. Both events took place at the Birchwood Hotel & OR Tambo Conference Centre from 22 to 24 July.
-
-The high-level meetings were organised by the International Trade Centre (ITC) in collaboration with the Department of Small Business Development of the Government of South Africa. These events brought together policymakers, TPO leaders, and global stakeholders to explore innovative strategies to empower small and medium-sized enterprises (SMEs).
-
-...
-
-[Data](articles/096f0cde.json)
-
----
-
-### Rahul Pavithran appointed Head of Sales and Marketing at ITC Ratnadipa, Colombo
-
-*2025-07-31 04:49:17* · [`dailyftlk`](https://www.ft.lk/business/Rahul-Pavithran-appointed-Head-of-Sales-and-Marketing-at-ITC-Ratnadipa-Colombo/34-779709) · `en`
-
-ITC Ratnadipa Colombo has appointed international hospitality professional Rahul Pavithran as Head of Sales and Marketing in a strategic move to strengthen the hotel’s market position.
-
-A seasoned professional, Rahul possesses over 17 years of experience in hospitality sales and marketing, demonstrating a proven ability to drive revenue growth, enhance brand presence, and expand market reach. In his new role, he will further strengthen the hotel’s efforts to capitalise on emerging opportunities within Sri Lanka’s competitive luxury hospitality sector.
-
-...
-
-[Data](articles/687b3e93.json)
-
----
-
-### பா.ஜ.க. துணைத் தலைவரானார் குஷ்பு
-
-*2025-07-31 04:42:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பா-ஜ-க-துணைத்-தலைவரானார்-குஷ்பு/175-362088) · `ta`
-
-தமிழக பா.ஜ.க. மாநில நிர்வாகிகள் பட்டியலை மாநில தலைவர் நயினார் நாகேந்திரன் வெளியிட்டுள்ளார். நடிகை குஷ்பு உள்ளிட்ட 14 பேர் மாநில துணைத் தலைவர்களாக நியமிக்கப்பட்டுள்ளனர்.
-
-பா.ஜ.க. தேசிய தலைவர் நட்டாவின் ஒப்புதலுடன் தமிழக பாரதிய ஜனதா கட்சிக்கு புதிய மாநில நிர்வாகிகள் நியமனம் செய்யப்படுகிறார்கள்.
-
-மாநில துணைத் தலைவர்களாக எம். சக்கரவர்த்தி, வி.பி. துரைசாமி, கே.பி. ராமலிங்கம், கரு நாகராஜன், சசிகலா புஷ்பா, கனகசபாபதி, டால்பின் ஸ்ரீதர், ஏ.ஜி.சம்பத், பால் கனகராஜ், ஜெயபிரகாஷ், மா.வெங்கடேசன், கோபால்சாமி, குஷ்பு சுந்தர், என். சுந்தர் ஆகிய 14 பேர் நியமிக்கப்படுகிறார்கள். மாநில அமைப்பு பொதுச் செயலாளராக கேசவ விநாயகன் நியமிக்கப்பட்டுள்ளார் என தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/5f2ea3b6.json)
-
----
-
-### இளைஞரின் சடலம்  மீட்பு
-
-*2025-07-31 04:37:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞரின்-சடலம்-மீட்பு/175-362087) · `ta`
-
-யாழ்ப்பாணம், அச்சுவேலியில்  மர்மமான முறையில் உயிரிழந்த நிலையில் இளைஞர் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது என்று பொலிஸார் தெரிவித்தனர்.
-
-மேற்படி இளைஞர், அருகில் உள்ள ஆலயத்தில் இடம்பெற்ற இசை நிகழ்ச்சியில் கலந்துவிட்டு வீடு திரும்பும்போது வீட்டுக்கு முன்னால் மர்மமான முறையில் உயிரிழந்த நிலையில் காணப்பட்டுள்ளார்.
-
-இளைஞர் இவ்வாறான நிலையில் காணப்படுவதைப் பார்த்த உறவினர்கள் அச்சுவேலி பிரதேச வைத்தியசாலைக்கு எடுத்துச் சென்று அனுமதித்த போதும் அவர் ஏற்கனவே உயிரிழந்து விட்டார்  என்று தெரிவிக்கப்பட்டுள்ளது.
-
-செல்வச்சந்திரன் மிமோஜன் எனும் 27 வயதுடைய இளைஞரே உயிரிழந்தவராவார். அவரது கால் பாதத்தில் பாம்பு தீண்டிய அடையாளம் காணப்படுகின்றது என்று தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/85b82860.json)
-
----
-
-### செம்மணியில் நேற்று 4 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-07-31 04:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-4-எலும்புக்கூடுகள்-அடையாளம்/175-362086) · `ta`
-
-யாழ்ப்பாணம், செம்மணியில் நேற்றைய அகழ்வின் போது புதிதாக நான்கு மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதன்மூலம் செம்மணிப் புதைகுழியில் அடையாளம் காணப்பட்ட என்புத் தொகுதிகளின் எண்ணிக்கை 115 ஆக அதிகரித்துள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழி தொடர்பான இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 25 ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-செம்மணி மனிதப் புதைகுழியில் இதுவரை 115 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 102 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.  (a)
-
-◼️
-
-[Data](articles/dc87c451.json)
-
----
-
-### குழந்தையை அரவணைத்தபடி இருந்த எலும்புக்கூடு
-
-*2025-07-31 04:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-அரவணைத்தபடி-இருந்த-எலும்புக்கூடு/175-362085) · `ta`
-
-செம்மணியில் ஒரு பெரிய எலும்பு கூட்டு தொகுதி, சிறு குழந்தையின் எலும்புக்கூட்டினை அரவணைத்தவாறு அடையாளம் காணப்பட்ட நிலையில் அவ்விரு எலும்புக்கூட்டு தொகுதிகளும் அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-இந்த எலும்புக்கூட்டு தொகுதிகள நேற்றுமுன்தினம் அடையாளம் காணப்பட்ட நிலையில் அவை நேற்று (30) முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/a759cacc.json)
-
----
-
-### Building value-centric nation: Navigating complex journey from corruption to integrity
-
-*2025-07-31 04:10:56* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-nation-Navigating-complex-journey-from-corruption-to-integrity/4-779700) · `en`
-
-The time for bold, inclusive leadership is now; leadership that understands that true transformation requires patience, preparation, and partnership with all stakeholders
-
-Corruption is not merely the result of individual moral failings but a symptom of systemic pressures. Many low and middle-income Sri Lankan families rely on informal facilitation payments or small bribes as economic survival mechanisms – an informal “parallel economy” born from inadequate wages and weak enforcement of fair labour standards. The informal payments sustain livelihoods in sectors where official compensation and service delivery are insufficient
-
-...
-
-[Data](articles/f94804cd.json)
 
 ---

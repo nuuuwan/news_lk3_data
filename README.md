@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 03:19:11**
+As of **2025-08-01 03:32:03**
 
 ## Newspaper Stats
 
-*Scraped **68,028** Articles*
+*Scraped **68,030** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 696
+colombotelegraphcom | 698
 islandlk | 4,149
 economynextcom | 4,164
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,028 articles have been extended.
+61,973 (91.1%) of 68,030 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,6 +200,20 @@ But Trump said Thursday morning that he would postpone any tariff changes, as a 
 
 ---
 
+### Indo-Sri Lanka Accord: 38 Years Since We Missed The Bus
+
+*2025-07-31 21:30:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indo-sri-lanka-accord-38-years-since-we-missed-the-bus/) · `en`
+
+Even after thirty-eight years, the Indo-Lanka Accord, signed on July 29, 1987, stands out as a remarkable event in Sri Lanka’s history. After much struggle, the accord led to the 13th Amendment to the constitution, which introduced a provincial council structure in an attempt to resolve the island’s protracted ethnic conflict. From the outset, hardliners on both sides rejected the 13th Amendment as a comprehensive solution: Tamil hardliners argued it was insufficient, while some Sinhalese hardliners believed it gave too much to the Tamils.
+
+To this day, Sri Lanka’s ethnic question remains unresolved, stubbornly echoing those same old arguments—even though the bloody civil war ended with the loss of thousands of lives. History remains our only teacher, reminding us of what we failed to understand in the past. Despite India’s hard-footed Cold War approach, she put her best efforts into helping Sri Lanka move forward, but both factions failed to engage constructively.
+
+...
+
+[Data](articles/dbb7206a.json)
+
+---
+
 ### අමෙරිකානු බදු අඩුකරගැනීමේ සාකච්ඡාවල නවතම තත්ත්වය ගැන කියන හඳුන්නෙත්ති
 
 *2025-07-31 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212883) · `si`
@@ -237,6 +251,18 @@ Minister of Public Security and Parliamentary Affairs Ananda Wijepala said it is
 ...
 
 [Data](articles/4e88a99e.json)
+
+---
+
+### Reframing Education Reform In Sri Lanka: Aligning Human Capital With Inclusive Growth & Sustainable Development
+
+*2025-07-31 21:06:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reframing-education-reform-in-sri-lanka-aligning-human-capital-with-inclusive-growth-sustainable-development/) · `en`
+
+Prime Minister Dr. Harini Amarasuriya, as the Minister of Education, has presented an array of education reform measures along with her expertise, deep knowledge, and experience, and her utmost commitment and dedication to the subject matter. It is indeed highly commendable and valued. President Anura Kumara Dissanayake, in his versatile speech in the Parliament, clearly and extensively explained that reforms will not be confined to revising the curriculum. But a fundamental transformation of our entire society, the economic body, and the country. What we have seen via social media is a Power Point presentation (PPT) as a draft of the reform measures, which may be the tip of the iceberg.
+
+...
+
+[Data](articles/991578e3.json)
 
 ---
 
@@ -1779,47 +1805,5 @@ GSS bonds fund projects with measurable environmental, social, or sustainability
 ◼️
 
 [Data](articles/3691198b.json)
-
----
-
-### මිනින්දෝරු දෙපාර්තමේන්තුවෙන් ඉඩම් සිතියම් නිවසටම
-
-*2025-07-31 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212869) · `si`
-
-ශ්‍රී ලංකා මිනින්දෝරු දෙපාර්තමේන්තුවේ 225 වැනි සංවත්සරය වෙනුවෙන් අගෝස්තු 01 සිට ඔන්ලයින් හරහා ගෙවීම් සිදුකර ඉඩම් සිතියම් නිවසටම ගෙන්වා ගැනීමට අවස්ථාව හිමිවන බව මැනුම්පති වයි. ජී ඥාණතිලක මහතා පවසයි.
-
-ඔහු මේ බව සඳහන් කළේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
-
-"මෙතෙක් මහජනතාව වෙත අපි සිතියම් නිකුත් කිරීම සිදු කළේ කාර්යාලය හරහා. නමුත් දැන් ඔන්ලයින් ක්‍රමය යටතේ සිතියම් ලබාගැනීමට මහජනතාවට අවස්ථාව ලබාදීමට අපි සැලසුම් කරලා තියෙනවා. ඒ අනුව ඔන්ලයින් ගෙවීම් කර තමන්ගේ නිවසටම අවශ්‍ය සිතියම් ලබා ගැනීමට හැකියාව තියෙනවා."
-
-ඒ වගේම මහජනතාවට ඉඩම් තොරතුරු පද්ධතියේ තිබෙන තොරතුරු ඔන්ලයින් දැකගැනීමට අවස්ථාවත් ලබාදීමට අපි කටයුතු කරනවා."
-
-◼️
-
-[Data](articles/3bb7891d.json)
-
----
-
-### MP Rohitha Abeygunawardena’s daughter granted bail
-
-*2025-07-31 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111040/mp-rohitha-abeygunawardenas-daughter-granted-bail) · `en`
-
-The daughter of Member of Parliament Rohitha Abeygunawardena, Rochelle Abeygunawardena, who was arrested yesterday (30), has been granted bail, Ada Derana reporter said.
-
-The Matugama Magistrate’s Court accordingly ordered MP Abeygunawardena’s daughter on two Rs. 2 million surety bails each.
-
-She was arrested yesterday after surrendering to the Walana Anti-Vice Unit, in connection with investigations into the alleged possession of an illegally assembled vehicle, police stated.
-
-According to police, her statement was recorded for over nine hours.
-
-After recording her statement, Rochelle Abeygunawardena was arrested and handed over to the Matugama Police Station for further investigations.
-
-Her husband, Dhanushka Weerakkody, is currently in remand custody over the same incident.
-
-Weerakkody is also linked to the incident involving the seizure of an illegally assembled vehicle in Matugama recently.
-
-◼️
-
-[Data](articles/b2472730.json)
 
 ---

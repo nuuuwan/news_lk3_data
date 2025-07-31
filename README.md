@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 16:23:07**
+As of **2025-07-31 16:35:03**
 
 ## Newspaper Stats
 
-*Scraped **67,945** Articles*
+*Scraped **67,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,536
 adaderanalk | 8,391
-tamilmirrorlk | 9,864
+tamilmirrorlk | 9,865
 virakesarilk | 11,305
 adaderanasinhalalk | 11,689
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,945 articles have been extended.
+61,973 (91.2%) of 67,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### குடு மாலியின் மகள் படுகொலை: இருவர் கைது
+
+*2025-07-31 16:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-மாலியின்-மகள்-படுகொலை-இருவர்-கைது/175-362125) · `ta`
+
+போதைப்பொருள் குற்றச்சாட்டில் நீதிமன்றத்தால் பல முறை தண்டிக்கப்பட்ட குடு மாலி என்ற பெண்ணின் மகளை படுகொலைச் செய்த மற்றும் அந்த பெண்ணின் மகனுக்கு படுகாயங்களை ஏற்படுத்திய குற்றச்சாட்டில் இருவர், வியாழக்கிழமை (31) கைது செய்யப்பட்டுள்ளனர்.
+
+பங்கதெனிய மற்றும் பல்லம ஆகிய பிரதேசங்களைச் சேர்ந்த 26 மற்றும் 33 வயதுடையவர்கள் இருவரே கைது செய்யப்பட்டுள்ளனர். இந்த துப்பாக்கி பிரயோகத்துக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள், மாதம்பே இரட்டகுளம் பகுதியில் உள்ள ஒரு கழிவறையில் தாழ்த்தப்பட்டிருந்த நிலையில் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+மாரவில, மாரடை பகுதியில், செவ்வாய்க்கிழமை ( 22) ஆம் திகதி இரவு  முச்சக்கர வண்டியில் பயணித்துக்கொண்டிருந்த போது, மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரினால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் இரண்டு குழந்தைகளின் தாய் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததாகவும், அவரது மூத்த குழந்தை படுகாயமடைந்ததாகவும் மாரவில பொலிஸார் தெரிவித்தனர்.
+
+கொலை செய்யப்பட்டவர் மாரவில, மாரடை பகுதியைச் சேர்ந்த எதிரிசிங்க ஆராச்சிகே வசந்தி சதுராணி எனப்படும் சதாமாலி என்ற 30 வயதுடைய பெண்ணாவார்.
+
+...
+
+[Data](articles/4d48867b.json)
+
+---
 
 ### කොළඹ උද්ධමනය ඉහළට
 
@@ -1849,23 +1867,5 @@ But steel and aluminium, other big earners for South Korea, will be taxed at 50%
 ◼️
 
 [Data](articles/6acc76d2.json)
-
----
-
-### President Dissanayake returns after concluding state visit to Maldives
-
-*2025-07-31 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111025/president-dissanayake-returns-after-concluding-state-visit-to-maldives) · `en`
-
-President Anura Kumara Dissanayake has arrived in the island last night (30), following the conclusion of his three-day state visit to the Maldives.
-
-This visit, which took place from July 28, was made at the invitation of Maldivian President Mohamed Muizzu.
-
-During the state visit, Anura Kumara Dissanayake held extensive discussions with President Muizzu, as well as with the Cabinet Ministers and Heads of State of the Maldives, covering bilateral, regional, and international issues of mutual importance.
-
-Agreements were exchanged between both parties during the visit, including a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike Diplomatic Training Institute. An agreement on mutual legal assistance was also signed.
-
-...
-
-[Data](articles/8613a74d.json)
 
 ---

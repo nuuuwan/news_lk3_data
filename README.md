@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 09:37:51**
+As of **2025-07-31 10:04:53**
 
 ## Newspaper Stats
 
-*Scraped **67,841** Articles*
+*Scraped **67,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,142 @@ islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,524
-adaderanalk | 8,373
-tamilmirrorlk | 9,838
-virakesarilk | 11,283
-adaderanasinhalalk | 11,673
+adaderanalk | 8,379
+tamilmirrorlk | 9,839
+virakesarilk | 11,286
+adaderanasinhalalk | 11,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.4%) of 67,841 articles have been extended.
+61,973 (91.3%) of 67,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### இலங்கையின் தேசிய பிரச்சினைகளுக்கு தீர்வைக் காண தென்னாபிரிக்காவில்  மண்டேலா வெளிக்காட்டியதைப் போன்ற அரசியல் ஞானம் தேவை
+
+*2025-07-31 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221414) · `ta`
+
+வெள்ளையரின் இனஒதுக்கல் அரசாங்கத்துடன் சமரசம் செய்துகொள்ளாமல் 27 வருடங்கள் சிறைவாசத்தை அனுபவித்த மண்டேலா ஜனாதிபதி தேர்தலில் வெற்றிபெற்று அரசாங்கத்தை அமைத்தார். ஆனால், ஒரு பதவிக்காலத்துக்கு மாத்திரம் பதவியில் இருந்த பிறகு அதிகாரத்தில் இருந்து இறங்கி நாட்டுக்கு சரியான பாதையைக் காட்டினார். இலங்கையின் இன்றைய சூழ்நிலைக்கு  பொருந்தக்கூடிய வகையிலும் சகல தரப்புகளையும் அரவணைக்கும் ஆட்சிமுறையை முன்னெடுப்பதற்கும் அதே போன்ற அரசியல் ஞானம் தேவைப்படுகிறது.
+
+◼️
+
+[Data](articles/5c866895.json)
+
+---
+
+### நாடு திரும்பினார் ஜனாதிபதி
+
+*2025-07-31 09:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-362092) · `ta`
+
+கடந்த 28 ஆம் திகதி ஆரம்பித்த மாலைதீவுக்கான  உத்தியோகபூர்வ விஜயத்தை வெற்றிகரமாக நிறைவு செய்து, ஜனாதிபதி அநுரகுமார திசாநாயக்க புதன்கிழமை (30) இரவு நாடு திரும்பினார்.
+
+மாலைதீவு ஜனாதிபதி கலாநிதி முகமது முய்சுவின் (Dr. Mohamed Muizzu) அழைப்பின் பேரில் ஜனாதிபதி இந்த உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டார்.
+
+இந்த உத்தியோகபூர்வ விஜயத்தின் போது, ஜனாதிபதி அநுரகுமார திசாநாயக்க, ஜனாதிபதி  கலாநிதி முகமது முய்சுவுடனும்  மாலைதீவு அமைச்சரவை அமைச்சர்கள் உட்பட அரச பிரதானிகளுடன் பரஸ்பர முக்கியத்துவம் வாய்ந்த இருதரப்பு, பிராந்திய மற்றும் சர்வதேச பிரச்சினைகள் குறித்து விரிவான கலந்துரையாடல்களையும் நடத்தினார்.
+
+இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான  பரஸ்பர சட்ட உதவி வழங்கல்  தொடர்பான ஒப்பந்தம் மற்றும் மாலைதீவு வெளியுறவு சேவை நிறுவனம் (FOSIM) மற்றும் பண்டாரநாயக்க சர்வதேச இராஜதந்திர பயிற்சி நிறுவனம் ஆகியவற்றுக்கு இடையேயான புரிந்துணர்வு ஒப்பந்தம் என்பனவும் பரிமாறப்பட்டன.
+
+“குரும்பா மோல்டீவ்ஸ்” விடுதியில்  ஜனாதிபதிக்கு மாலைதீவு ஜனாதிபதி கலாநிதி முகமது முய்சு விசேட இராப்போசன விருந்துபசாரம் அளித்தார்.
+
+...
+
+[Data](articles/3a5a0a4d.json)
+
+---
+
+### 34 arrested in connection with bribery incidents in first half of year
+
+*2025-07-31 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111028/34-arrested-in-connection-with-bribery-incidents-in-first-half-of-year) · `en`
+
+A total of 34 individuals have been arrested in connection with incidents of soliciting bribes in the first six months of this year (2025).
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) stated that 3,022 complaints were received between January 01 and June 30 of this year.
+
+During that period, 54 raids were carried out, resulting in the arrest of 34 suspects.
+
+It was also stated that among the suspects are ten officers from the Sri Lanka Police, five officers from the Ministry of Justice, two officers from the Ministry of Health, and two officers from the Sri Lanka Transport Board (SLTB).
+
+Additionally, the CIABOC stated that six civilians were also arrested in the first six months of this year in connection with bribery incidents.
+
+During the time elapsed this year, 50 cases have been filed against 60 suspects in various courts across the island in connection with bribery incidents.
+
+...
+
+[Data](articles/d65edb1d.json)
+
+---
+
+### மாலைதீவு விஜயத்தை முடித்துக் கொண்டு நாடு திரும்பினார் ஜனாதிபதி அநுர குமார திஸாநாயக்க
+
+*2025-07-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/221411) · `ta`
+
+மாலைதீவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயத்தை முடித்துக்கொண்டு, ஜனாதிபதி அனுரகுமார திசாநாயக்க புதன்கிழமை (30) இரவு நாடு திரும்பினார்.
+
+மாலைதீவு ஜனாதிபதி முகமது முய்சுவின் அழைப்பையேற்று கடந்த 28 ஆம் திகதி மாலைதீவு நாட்டுக்கான பயணத்தை ஜனாதிபதி ஆரம்பித்தார்.
+
+இந்த உத்தியோகபூர்வ விஜயத்தின் போது, ஜனாதிபதி அநுரகுமார திசாநாயக்க, ஜனாதிபதி  கலாநிதி முகமது முய்சுவுடனும்  மாலைதீவு அமைச்சரவை அமைச்சர்கள் உட்பட அரச பிரதானிகளுடன் பரஸ்பர முக்கியத்துவம் வாய்ந்த இருதரப்பு, பிராந்திய மற்றும் சர்வதேச பிரச்சினைகள் குறித்து விரிவான கலந்துரையாடல்களையும் நடத்தினார்.
+
+இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான  பரஸ்பர சட்ட உதவி வழங்கல்  தொடர்பான ஒப்பந்தம் மற்றும் மாலைதீவு வெளியுறவு சேவை நிறுவனம் (FOSIM) மற்றும் பண்டாரநாயக்க சர்வதேச இராஜதந்திர பயிற்சி நிறுவனம் ஆகியவற்றுக்கு இடையேயான புரிந்துணர்வு ஒப்பந்தம் என்பனவும் பரிமாறப்பட்டன.
+
+“குரும்பா மோல்டீவ்ஸ்” விடுதியில்  ஜனாதிபதிக்கு மாலைதீவு ஜனாதிபதி கலாநிதி முகமது முய்சு விசேட இராப்போசன விருந்துபசாரம் அளித்தார்.
+
+...
+
+[Data](articles/37ed3ab3.json)
+
+---
+
+### කොස්ගොඩ වෙඩි තැබීමට පැමිණි යතුරුපැදිය සොයාගනී
+
+*2025-07-31 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212858) · `si`
+
+කොස්ගොඩ ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමට පැමිණි බවට සැක කෙරෙන යතුරුපැදිය පොලීසිය විසින් සොයාගෙන තිබේ.
+
+වෙඩි තැබීම සිදු වූ ස්ථානයේ සිට කිලෝමීටර් 6ක් පමන දුරින් කොස්ගොඩ අතුරුවැල්ල පාලම අසල ගඟට පෙරලා දමා තිබිය දී මෙම යතුරුපැදිය සොයා ගත් බව පොලීසිය පවසයි.
+
+අද (31) අලුයම 5.15ට පමණ කොස්ගොඩ දූවමෝදර ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාදුනන තුවක්කරුවන් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්.යු.වුට්ලර් මහතා පැවසුවේය.
+
+වෙඩි වැදීමෙන් මියගොස් ඇත්තේ 23 හැවිරිදි තරුණයෙකු බව සඳහන් වේ.
+
+ටී 56 ගිනි අවියක් මෙම වෙඩි තැබීම සඳහා භාවිත කර ඇති බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලින් අනාවරණය වී තිබේ.
+
+කොස්ගොඩ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ආරම්භ කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ මෙලෙස මියගොස් ඇත්තේ කැස්බෑ මධ්‍යස්ථානයක හිමිකරුවෙකුගේ පුත්‍රයා වන අරුත් මැන්ඩිස් යන තරුණයා බවයි.
+
+◼️
+
+[Data](articles/8e527510.json)
+
+---
+
+### பல பகுதிகளில் மனித உடலால் உணரக்கூடிய வெப்பம் அதிகரிப்பு
+
+*2025-07-31 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221413) · `ta`
+
+தென், கிழக்கு மற்றும் தென் மத்திய மாகாணங்கள் மற்றும் மொனராகலை, அம்பாந்தோட்டை ஆகிய பகுதிகளில்
+
+இன்று வியாழக்கிழமை (31) மனித உடலால் உணரக்கூடிய வெப்பம் அதிகரித்து காணப்படும் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+நாட்டின் சில பகுதிகளில் இன்றைய தினம் வெப்பநிலை கவனம் செலுத்த வேண்டிய மட்டத்தில் இருக்கும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+வளிமண்டலவியல் திணைக்களத்தினால் நேற்று புதன்கிழமை (30) மாலை வெளியிடப்பட்டுள்ள அறிக்கையிலேயே இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+எனவே மக்கள் அதிகளவு நீரை அருந்தவேண்டும் மற்றும் பணி செய்யும் இடங்களில் முடிந்தவரை அடிக்கடி நிழலில் ஓய்வு எடுக்க வேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
+
+இதேவேளை வெப்ப அலைகளின் போது மக்கள் இலகுரக மற்றும் வெள்ளை அல்லது வெளிர் நிற ஆடைகளை அணியுமாறும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது
+
+அதேநேரம் வீட்டில் உள்ள வயோதிபர்கள் மற்றும் நோய் நிலையுள்ளவர்கள் குறித்தும் அவதானத்துடன் இருக்குமாறு வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/ae00c43c.json)
+
+---
 
 ### நாடு திரும்பினார் ஜனாதிபதி
 
@@ -74,6 +196,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Canada follows France and UK with plan to recognise Palestinian state
+
+*2025-07-31 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111027/canada-follows-france-and-uk-with-plan-to-recognise-palestinian-state) · `en`
+
+Prime Minister Mark Carney has said Canada plans to recognise a Palestinian state in September, becoming the third G7 nation to make such an announcement in recent days.
+
+Carney said the move depends on democratic reforms, including the Palestinian Authority holding elections next year without Hamas.
+
+His remarks come a day after the UK announced it would recognise a Palestinian state in September unless Israel agreed to a ceasefire and other conditions and a week after France unveiled a similar plan.
+
+Israel’s foreign ministry rejected Canada’s announcement, calling it “a reward for Hamas”. Most countries - 147 of the UN’s 193 member states - formally recognise a Palestinian state.
+
+Carney said Canada would formally recognise the state of Palestine at the upcoming UN General Assembly.
+
+...
+
+[Data](articles/fe77f830.json)
+
+---
+
 ### ජනපති පැමිණෙයි
 
 *2025-07-31 08:07:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පැමිණෙයි/11-417632) · `si`
@@ -89,6 +231,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9af423f2.json)
+
+---
+
+### Trump announces deal to impose 15% tariff on South Korea
+
+*2025-07-31 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111026/trump-announces-deal-to-impose-15-tariff-on-south-korea) · `en`
+
+President Donald Trump says the US will charge a 15% tariff on imports from South Korea, in what he called a “full and complete trade deal”.
+
+It comes just a day before a 1 August deadline for countries to reach agreements with the US or be hit with higher tariffs. South Korea had been facing a 25% levy if it had not struck a deal.
+
+Pressure on Seoul had been mounting after Japan, a key competitor in the car and manufacturing industries, secured a 15% tariff rate with the US this week.
+
+The deal, which will also see Seoul invest $350bn (£264.1bn) in the US, has been touted as a success in South Korea - especially given the record trade surplus of at least $56bn with the US last year.
+
+The 15% tariff rate will cover both cars and semiconductors, two of Seoul’s main exports to the US.
+
+But steel and aluminium, other big earners for South Korea, will be taxed at 50%, in line with the global rate President Trump has set.
+
+...
+
+[Data](articles/c0ca557c.json)
 
 ---
 
@@ -125,6 +289,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d0ee1b0e.json)
+
+---
+
+### President Dissanayake returns after concluding state visit to Maldives
+
+*2025-07-31 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111025/president-dissanayake-returns-after-concluding-state-visit-to-maldives) · `en`
+
+President Anura Kumara Dissanayake has arrived in the island last night (30), following the conclusion of his three-day state visit to the Maldives.
+
+This visit, which took place from July 28, was made at the invitation of Maldivian President Mohamed Muizzu.
+
+During the state visit, Anura Kumara Dissanayake held extensive discussions with President Muizzu, as well as with the Cabinet Ministers and Heads of State of the Maldives, covering bilateral, regional, and international issues of mutual importance.
+
+Agreements were exchanged between both parties during the visit, including a Memorandum of Understanding (MoU) between the Foreign Service Institute of Maldives (FOSIM) and the Bandaranaike Diplomatic Training Institute. An agreement on mutual legal assistance was also signed.
+
+...
+
+[Data](articles/8613a74d.json)
 
 ---
 
@@ -182,6 +364,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 23-year-old shot dead in Kosgoda
+
+*2025-07-31 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111024/23-year-old-shot-dead-in-kosgoda) · `en`
+
+A 23-year-old youth has been shot dead in the Doowamodera area of Kosgoda at around 5.30 a.m. this morning (31), Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler, said.
+
+The shooting was reportedly carried out by two unidentified gunmen who arrived on a motorcycle.
+
+Preliminary investigations conducted by the police have revealed that a T-56 firearm was used in the shooting.
+
+The Police Media Spokesperson stated that the Kosgoda Police have launched further investigations into the incident.
+
+The deceased has been identified as Aruth Mendis, the son of the owner of a turtle center, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/1b600852.json)
+
+---
+
 ### කොස්ගොඩ වෙඩිතැබීමකින් තරුණයෙක් මරුට
 
 *2025-07-31 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212851) · `si`
@@ -219,6 +421,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4305eba7.json)
+
+---
+
+### Evening showers expected in several areas in the next few days
+
+*2025-07-31 06:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111023/evening-showers-expected-in-several-areas-in-the-next-few-days) · `en`
+
+Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
+
+Meanwhile, showers or thundershowers will occur at several places in Northern, North-Central, Central, Uva and Eastern provinces after 1.00 p.m.
+
+Fairly heavy falls above 50 mm are likely at some places, the Met. Department added.
+
+A few showers may occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Fairly strong winds of about 40 kmph can be expected at times over Southern province.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/91b1ad41.json)
 
 ---
 
@@ -1611,189 +1835,5 @@ Cost of sales grew 63 percent to 93.7 billion rupees. Gross profits grew 69 perc
 ...
 
 [Data](articles/dcdaf785.json)
-
----
-
-### Ex-Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-07-30 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111014/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
-
-Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded, said Ada Derana reporter.
-
-He has been remanded until August 13 by the Polgahawela Magistrate’s Court.
-
-The former Navy Commander was arrested by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/6dd481f6.json)
-
----
-
-### போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்யப்பட்ட சந்தேகநபர் உயிர்மாய்ப்பு
-
-*2025-07-30 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221377) · `ta`
-
-போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்யப்பட்ட சந்தேகநபர் உயிரை மாய்த்து கொண்ட பின்னர் அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவிக்கப்பட்டுள்ளமைக்கு கல்கிஸ்ஸை சட்டதரணிகள் சங்கம் வருத்தம் தெரிவித்துள்ளது.
-
-போதைப்பொருள் குற்றச்சாட்டில் தவறுதலாக கைது செய்து தடுத்து வைக்கப்பட்ட சந்தேகநபர் செவ்வாய்க்கிழமை (29) கல்கிசை நீதவான் நீதிமன்றத்தால் அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவிக்கப்பட்டுள்ளார். ஆனால் சந்தேகநபர் உயிருடன் இல்லை. சிறைச்சாலையில் அடைக்கப்பட்டமையினால் மன உளைச்சலுக்குள்ளாகி உயிரை மாய்த்துக்கொண்டுள்ளார்.
-
-2024 ஆம் ஆண்டு மே மாதம் அன்று இலங்கை சட்டத்தின் கீழ் பிணையில் வெளி வரமுடியாத குற்றச் செயலான 3,200 மில்லி கிராம் ஹெரோயின் வைத்திருந்ததாகக் கூறி தெஹிவளை பொலிஸாரினால் சந்தேகநபர் கைது செய்யப்பட்டார்.
-
-இரண்டு மாதங்கள் கழித்து, தான் நியாயமற்ற முறையில் நீண்டகாலமாக தடுத்து வைக்கப்பட்டதால் ஏற்பட்ட மன அழுத்தம் காரணமாக உயிரை மாய்த்துக் கொண்டுள்ளார்.
-
-...
-
-[Data](articles/6b4977d2.json)
-
----
-
-### ඉන්දියාව සමග ඇතිකරගත් අවබෝධතා ගිවිසුමකට එරෙහිව පෙත්සමක්
-
-*2025-07-30 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212834) · `si`
-
-මෙරට පුරවැසියන් සඳහා ඩිජිටල් හැඳුනුම්පත් නිකුත් කිරීමේ ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා ශ්‍රී ලංකා රජය ඉන්දියාව සමග ඇතිකරගෙන තිබෙන අවබෝධතා ගිවිසුම බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-සමාජ ක්‍රියාකාරිණියක්වන අමානි රිෂාඩ් හමිඩ් විසින් මෙම පෙත්සම ඉදිරිපත් කළ අතර එහි වගඋත්තරකරුවන් ලෙස ඩිජිටල් ආර්ථික අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා, අග්‍රාමාත්‍ය හරිනී අමරසූරිය ඇතුළු අමාත්‍ය මණ්ඩලය ඇතුළු 27 දෙනෙකු නම් කර ඇත.
-
-නීතීඥ කනිෂ්ක විතාරණ මහතා මාර්ගයෙන් ගොනුකර තිබෙන මෙම පෙත්සම තුළින් පෙත්සම්කාරිය කියා සිටින්නේ ශ්‍රී ලංකා රජය විසින් ඉන්දියාව සමඟ මෙරට පුරවැසියන්ගේ ඩිජිටල් ජාතික හැඳුනුම්පත් නිකුත් කිරීමට අදාළ ව්‍යාපෘතියක් සම්බන්ධයෙන් අවබෝධතා ගිවිසුමකට එළඹ තිබෙන බවය.
-
-මීට අදාළව ඉකුත් ජනවාරි මස 27 සහ ජුනි මස 02 වනදා අමාත්‍ය මණ්ඩල තීන්දු දෙකක් ලබාගෙන තිබෙන බවත් මහජනතාව හෝ පාර්ලිමේන්තුව දැනුවත් කිරීමකින් තොරව මෙම අමාත්‍ය මණ්ඩල තීරණය ගෙන තිබෙන බවත් පෙත්සමේ සඳහන් වේ.
-
-...
-
-[Data](articles/f8b65997.json)
-
----
-
-### வட்ஸ்அப் ஓடிபி மோசடிகள் தொடர்பில் பொதுமகளுக்கு சிஐடி எச்சரிக்கை
-
-*2025-07-30 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221370) · `ta`
-
-வட்ஸ் அப் பயனர்களை குறி வைத்து சைபர் மோசடி சம்பவங்கள் அதிகரித்து வருவதால், பயனர்கள் ஓடிபி (OTP) எனப்படும் ஒருமுறை மட்டுமே பயன்படுத்தக்கூடிய கடவுச்சொற்கள் உள்ளிட்ட எந்த தகவல்களையும் பகிர்வதை தவிர்க்க வேண்டும் என சிஐடி எனப்படும் குற்றப்புலனாய்வுத் திணைக்களம் அவசர எச்சரிக்கை விடுத்துள்ளது.
-
-மோசடிக்காரர்கள் பாதிக்கப்பட்டவரின் மொபைல்போனுக்கு ஓடிபியை குறுந்தகவல்கள் (SMS) ஊடாக அனுப்பி வைப்பார்கள். பின்னர் தெரியாத செல்போன் எண்ணிலிருந்து, நமது வட்ஸ்அப்பில் ஒரு செய்தி வரும். அதில் வட்ஸ்அப் கணக்கிற்கான ஆறு இலக்க குறியீடு உங்களது எண்ணுக்கு தவறாக அனுப்பப்பட்டுவிட்டதாகவும், அந்த ஓடிபி குறியீட்டை பகிருமாறு மோசடிக்காரர்கள் கேட்பார்கள். எந்த சூழ்நிலையிலும் ஓடிபியை பகிர்வதை தவிர்க்க வேண்டும்.
-
-...
-
-[Data](articles/6733309d.json)
-
----
-
-### දකුණේ පාතාලයට ආයුධ දුන් වව්නියාවේ තිදෙනෙක් ටී.අයි.ඩී. රඳවාගෙන ප්‍රශ්න කරයි
-
-*2025-07-30 15:48:58* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-පාතාලයට-ආයුධ-දුන්-වව්නියාවේ-තිදෙනෙක්-ටී-අයි-ඩී--රඳවාගෙන-ප්‍රශ්න-කරයි/11-417613) · `si`
-
-එල්.ටී.ටී. ඊ යුද සමයේදී එක්රැස් කළ අවි ආයුධ සඟවා තබා ගනිමින් දකුණේ පාතාල සාමාජිකයින්ට හා අපරාධකරුවන්ට කුලියට ලබා දුන්නේ යැයි අත්අඩංගුවට ගත් වවුනියාව නෙරිකුලම් හි පදිංචි සැකකරුවන් තිදෙනා මාස 03ක කාලයක් ත්‍රස්ත විමර්ශන කොට්ඨාශයේ රඳවාගෙන ප්‍රශ්න කිරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා  නියෝග කළේය.
-
-කාරියක් පෙරමාල් රමේෂ්, ඇන්තනී ප්‍රනාන්දු වික්‍රම සහ මොහොමඩ් රාසික් යන සැකකරුවන් මෙසේ රඳවා ප්‍රශ්න කිරීමට නියෝග කෙරිණි.
-
-ත්‍රස්ත විමර්ශන කොට්ඨාශයේ නිලධාරින් අධිකරණයට කරුණු ඉදිරිපත් කරමින් කියා සිටියේ පසුගිය 21 වැනිදින කිරිබත්ගොඩ පොලිස් වසමේදී ටී-56 ගිනිඅවියක්, පතොරම් 30ක් සහිත පතොරම් ගැබක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 05යි මිලිග්‍රෑම් 650ක් සමග අත්අඩංගුවටගත් සැකකරුවකුගෙන් අනාවරණය කරගත් තොරතුරු අනුව මෙම සැකකරුවන් අත්අඩංගුවට ගත් බවය.
-
-අදාල  ගිනි අවිය වව්නියාව සිට කොළඹ ප්‍රදේශයට රැගෙනවිත් ඇති බවත් මෙම ගිනිඅවිය තවත් පාර්ශ්වයක් වෙත ලබාදී අපරාධයක් සිදු කිරීමෙන් අනතුරුව නැවත වව්නියාවට රැගෙන යෑමට සැලසුම් කර ඇති බවට විමර්ශනවලදී අනාවරණය වී ඇති බවත් පැවසීය.
-
-...
-
-[Data](articles/86b66d5c.json)
-
----
-
-### භූමිකම්පනය අතරතුර රුසියාවේ රෝහලක සිදු වූ සැත්කම
-
-*2025-07-30 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212833) · `si`
-
-රුසියාවේ නැගෙනහිර වෙරළ තීරයේ ඇතිවූ භූමිකම්පනය අතරතුර රුසියාවේ රෝහලක් තුළ සැත්කමක් සිදුකරන අයුරු දැක්වෙන දර්ශන පෙළක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-එරට වේලාවෙන් අද (30) පෙරවරු 11.25ට පමණ මෙම භූකම්පනය සිදුව තිබුණේ නැගෙනහිර කම්චැට්කා හි සිට කිලෝ මීටර් 74ක් දුරින් පැසිෆික් සාගරයේ ය.
-
-භූකම්පනයක් හටගත් අවස්ථාවේදී රුසියාවේ බොහෝ ස්ථානවල ගොඩනැගිලි සෙලවී කඩා වැටී තිබුණු අතර, රෝහල තුළ සැත්කම සිදුකරමින් තිබෙන අවස්ථාවේ වෛද්‍යවරු ප්‍රමුඛ සෞඛ්‍ය කාර්ය මණ්ඩලය එම අවස්ථාවට මුහුණදුන් අයුරු බොහෝ දෙනාගේ සිත් සංවේදී කළ දර්ශනයක් වුණි.
-
-භූකම්පනයෙන් රුසියාවේ නැගෙනහිර කලාපීය නගරවල පිරිසක් තුවාල ලබා ඇතැයි වාර්තා වන නමුත් කිසිදු ජීවිත හානියක් මෙතෙක් වාර්තාවී නැහැ.
-
-◼️
-
-[Data](articles/14315283.json)
-
----
-
-### ‘ரத்தரங்’ மகள் கைது
-
-*2025-07-30 15:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தரங்-மகள்-கைது/175-362052) · `ta`
-
-சந்தேகத்திற்கிடமான ஜீப் பாகங்களிலிருந்து இணைக்கப்பட்ட வாகனம்  சம்பவம் தொடர்பாக கைது செய்யத் தேடப்பட்ட பாராளுமன்ற உறுப்பினர் ரோஹித அபய குணவர்தனவின் மகள்,  பாணந்துறை வலான மத்திய ஊழல் தடுப்புப் பிரிவில் புதன்கிழமை (30 )ஒரு வழக்கறிஞர் மூலமாக சரணடைந்தார்.
-
-◼️
-
-[Data](articles/f3f6618a.json)
-
----
-
-### ’Miss Teen Tourism’ போட்டியில் இலங்கைப் பெண்
-
-*2025-07-30 15:31:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Miss-Teen-Tourism-போட்டியில்-இலங்கைப்-பெண்/175-362051) · `ta`
-
-பிலிப்பைன்ஸில் நடைபெறவுள்ள “Miss Teen Tourism” போட்டியில் பங்குபற்றுவதற்காக இலங்கையைச் சேர்ந்த அஞ்சனா ஹீனடிகல, இன்று புதன்கிழமை (30)  பிலிப்பைன்ஸுக்கு புறப்பட்டு சென்றுள்ளார்.
-
-அஞ்சனா ஹீனடிகல, இலங்கையில் நடைபெற்ற 'Miss Teen Tourism' போட்டியில் முதலிடம் வென்றுள்ளதையடுத்து, அவர் பிலிப்பைன்ஸுக்கு புறப்பட்டு சென்றுள்ளார்
-
-கட்டுநாயக்க விமான நிலையத்திலிருந்து எயார் ஏசியா விமானம் AK-046 ஊடாக தாய்லாந்துக்கு சென்று இவர், அங்கிருந்து பிலிப்பைன்ஸுக்கு செல்லவுள்ளதாகத் தெரிவிக்கப்படுகிறது.
-
-எதிர்வரும் ஆகஸ்ட் மாதம் 08ஆம் திகதி அன்று பிலிப்பைன்ஸில் உள்ள மணிலா நகரத்தில்  'Miss Teen Tourism' இறுதிச் சுற்று போட்டி நடைபெறவுள்ளதுடன், இந்த போட்டியில் உலகம் முழுவதிலும் உள்ள 40 நாடுகளில் இருந்து பல போட்டியாளர்கள் பங்குபற்றவுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/84a16b65.json)
-
----
-
-### ජපානයේ ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයේ සේවකයන් 4,000ක් කඩිනමින් ඉවත් කරයි
-
-*2025-07-30 15:22:55* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයේ-ෆුකුෂිමා-න්‍යෂ්ටික-බලාගාරයේ-සේවකයන්-4-000ක්-කඩිනමින්-ඉවත්-කරයි/11-417612) · `si`
-
-සුනාමි අනතුරු ඇගවීම් නිකුත් කිරීමෙන් පසු ජපානයේ ෆුකුෂිමා න්‍යෂ්ටික බලාගාරයේ සියලුම සේවකයන් ඉන් ඉවත් කර තිබේ.
-
-මෙම න්‍යෂ්ටික බලාගාරයේ සේවකයන් 4000ක් සිටින අතර, එම සියලුම සේවකයන් ඉවත් කර ඇත.
-
-◼️
-
-[Data](articles/3aee327d.json)
-
----
-
-### Sri Lanka’s Ceylon Cold Stores net down 7-pct in June 2025 quarter
-
-*2025-07-30 15:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-cold-stores-net-down-7-pct-in-june-2025-quarter-233699/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Cold Stores Plc, a consumer goods and retail group, said profits fell 7 percent from a year earlier to 1,092.7 million rupees in the June 2025 quarter amid higher cost of sales and taxes.
-
-The firm reported earnings of 1.15 rupees per share for the quarter in interim accounts filed with the Colombo Stock Exchange.
-
-CCS produces Elephant House-branded soft drinks and ice cream, and operates the Keells supermarkets chain.
-
-In the June quarter, revenues rose 13 percent to 43.2 billion rupees, but cost of sales rose at a faster 15 percent to 37.5 billion rupees, shrinking gross profits 4 percent to 5.7 billion rupees.
-
-The tax expenses also rose by 19 percent to 664.5 million rupees compared to 556.3 million rupees a year earlier.  (Colombo/July 30/2025)
-
-◼️
-
-[Data](articles/d50c70e6.json)
-
----
-
-### අළුතින් ආදේශක තැපැල් සහායකයින් 1000ක් ලියාපදිංචියට අනුමැතිය
-
-*2025-07-30 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212832) · `si`
-
-දැනට ලියාපදිංචිව සිටින ආදේශක තැපැල් සහායකයින් 1000 කගේ සේවය ස්ථීර කිරීමටත්, අළුතින් ආදේශක තැපැල් සහායකයින් 1000ක් ලියාපදිංචි කිරීමටත් අනුමැතිය ලැබී ඇති බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-තැපැල් දෙපාර්තමේන්තුවේ තිබෙන පොදු ප්‍රශ්නයක් වන සේවක හිඟය සහ ප්‍රවාහන ගැටළු නිරාකරණය කිරීම සඳහා දැනටමත් පියවර ගනිමින් සිටින බවද එහිදී අමාත්‍යවරයා පවසා තිබේ.
-
-ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවට අයත් මධ්‍යම තැපැල් හුවමාරුවේ සේවා කටයුතු නිරීක්ෂණය කිරීමේ අවස්ථාවට එක්වෙමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මෙම අදහස් පළ කළේය.
-
-නිරික්ෂණයෙන් අනතුරුව මධ්‍යම තැපැල් හුවමාරුවේ වත්මන් කටයුතු, ඉදිරි පියවර සහ පවතින ගැටළු පිළිබඳ නිලධාරීන් සහ සේවක මණ්ඩලය සමග ද අමාත්‍යවරයා සාකච්ඡා කර තිබේ.
-
-◼️
-
-[Data](articles/8b4475d6.json)
 
 ---

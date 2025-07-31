@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 11:37:22**
+As of **2025-07-31 11:52:08**
 
 ## Newspaper Stats
 
-*Scraped **67,877** Articles*
+*Scraped **67,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,527
-adaderanalk | 8,379
-tamilmirrorlk | 9,851
+adaderanalk | 8,381
+tamilmirrorlk | 9,855
 virakesarilk | 11,291
 adaderanasinhalalk | 11,679
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 11,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,877 articles have been extended.
+61,973 (91.3%) of 67,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### முஸ்லிம் பெண்களின் கலாச்சார ஆடைகளை அகற்ற பணிப்புரை ?
+
+*2025-07-31 11:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-பெண்களின்-கலாச்சார-ஆடைகளை-அகற்ற-பணிப்புரை/175-362108) · `ta`
+
+சுகாதாரத் துறையில் பணி புரியும் முஸ்லிம் பெண் ஊழியர்கள் அணியும் கலாச்சாரம் சார்ந்த ஆடைகளை அகற்றுமாறு திருகோணமலை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வழங்கியுள்ள பணிப்புரையை ஏற்றுக்கொள்ள முடியாதென திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இம்ரான் மகரூப் தெரிவித்தார்.
+
+“திருகோணமலையிலுள்ள வைத்தியசாலைகள் மற்றும் சுகாதார வைத்திய அதிகாரி அலுவலகங்களில் கடமையாற்றும் முஸ்லிம் தாதியர்கள், மருத்துவ மாதுக்கள் மற்றும் சிற்றூழியர்கள் இனிமேல் கலாச்சார ஆடை அணிந்து கடமைக்கு வரக்கூடாது என பிராந்திய சுகாதார சேவைகள் பணிப்பாளரால் அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக பாதிக்கப்பட்ட அலுவலர்கள் எனது கவனத்திற்கு கொண்டு வந்துள்ளனர்.
+
+...
+
+[Data](articles/62f02639.json)
+
+---
+
+### பல பகுதிகள் கடலில் மூழ்குமா?: பரபரப்பு தகவல்
+
+*2025-07-31 11:30:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகள்-கடலில்-மூழ்குமா-பரபரப்பு-தகவல்/175-362107) · `ta`
+
+பருவநிலை மாற்றம் காரணமாக கடல்மட்டம் உயர்வதால் 2040-ம் ஆண்டுக்குள் மும்பை 10 சதவீதத்துக்கும் மேற்பட்ட நிலத்தை இழந்து மூழ்கும் அபாயத்தில் உள்ளதாக ஆய்வு அறிக்கைகள் எச்சரித்து உள்ளன.
+
+தெற்கு மும்பையின் பல பகுதிகளை 2050ஆம் ஆண்டுக்குள் கடல் மூழ்கடித்து விடும் எனவும் மற்றொரு ஆய்வறிக்கை கூறுகிறது. இதனால் நகரின் முக்கிய அடையாளங்கள் மாயமாகும் வாய்ப்பு இருப்பதாக மும்பை மாநகராட்சி முன்னாள் கமிஷனர் இக்பால் சகால் கடந்த ஆண்டு எச்சரித்தார். ''வருகிற 2050ஆம் ஆண்டுக்குள் கப்பரடே, நாரிமன் பாயிண்ட் மற்றும் மந்திராலயா ஆகியவை மூழ்கும்" என்ற அவரது கருத்து கவனத்தை ஈர்த்தது.
+
+ஸ்காட் கல்ப் மற்றும் பெஞ்சமின் ஸ்ட்ராஸ் ஆகியோரால் எழுதப்பட்ட இந்த ஆய்வறிக்கை, 2019ஆம் ஆண்டு அக்டோபரில் நேச்சர் கம்யூனிகேஷன்ஸ் இதழில் வெளிவந்தது. உயரும் கடல்மட்டத்தால் மும்பையின் பலபகுதிகள் அழிக்கப்படும் அபாயத்தில் இருப்பதாக நியூயார்க் டைம்ஸ் அறிக்கை எச்சரித்துள்ளது.
+
+...
+
+[Data](articles/7810b09a.json)
+
+---
+
+### சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1.3 மில்லியனைத் தாண்டியது
+
+*2025-07-31 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-எண்ணிக்கை-1-3-மில்லியனைத்-தாண்டியது/175-362106) · `ta`
+
+இந்த ஆண்டு இதுவரை 1.3 மில்லியனுக்கும் அதிகமான சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை (SLTDA) தெரிவித்துள்ளது.
+
+ஜனவரி 1 ஆம் திகதி முதல் ஜூலை 27 ஆம் திகதி வரை மொத்தம் 1,341,953 சுற்றுலாப் பயணிகள் இலங்கைக்கு வருகை தந்துள்ளதாக SLTDA தெரிவித்துள்ளது.
+
+மேலும், இங்கிலாந்து, ரஷ்யா, ஜெர்மனி, சீனா, பிரான்ஸ் , அவுஸ்திரேலியா மற்றும் நெதர்லாந்து உள்ளிட்ட நாடுகளிலிருந்தும் சுற்றுலாப் பயணிகள் கணிசமான எண்ணிக்கையில் வந்துள்ளனர்.
+
+SLTDA தரவுகளின்படி, ஜூலை 27 நாட்களுக்குள் 173,909 சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை தந்துள்ளனர்.
+
+மேலும், அந்த மாதத்தில் அதிகபட்ச சுற்றுலாப் பயணிகளின் எண்ணிக்கை ஜூலை 26 ஆம் திகதி பதிவாகியுள்ளதுடன் , அது மொத்தம் 7,579 வருகைகள் ஆகும்.
+
+◼️
+
+[Data](articles/3e07b459.json)
+
+---
+
+### தொதல் விற்கும் சிறுவனின் கதை: கண்களை நனைக்கும்
+
+*2025-07-31 11:29:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொதல்-விற்கும்-சிறுவனின்-கதை-கண்களை-நனைக்கும்/76-362105) · `ta`
+
+ஒரு நீல நிற கூடையை வைத்திருந்த ஒரு சிறுவனைப் பார்த்தேன். அவன் அங்குள்ள மருந்தகத்தில், தன் பாட்டிக்கு மருந்து வாங்க வந்திருந்தான். நான் ஒரு அந்நியனைப் போல உணர்ந்தேன், "கூடைக்குள் என்ன இருக்கிறது? நீ இங்கே என்ன செய்கிறாய்?" என்று சிறுவனிடம் கேட்டேன். பின்னர், "நான் ஒரு தொழில் செய்கிறேன்" என்று சாதாரணமாகச் சொன்னான்.
+
+பண்டாரவளையில் உள்ள அங்காடிக்கு முன்பாக, அந்த சிறுவனை புதன்கிழமை (30) மாலை சுமார் 8.30 மணியளவில் சந்தித்தேன் என, எமது நிருபர் பாலித ஆரியவன்ச கதையை தொடர்கிறார்.
+
+அப்போது நான் அவனிடம் பாடசாலைக்குச் செல்கிறாயா என்று கேட்டேன், அப்போது தரையைப் பார்த்துக் கொண்டிருந்த சிறுவன், "நான் பாடசாலைக்கு செல்கிறேன். நான் ஏழாம் வகுப்பு படிக்கிறேன். எனக்கு இப்போது 11 வயது. "நான் மதியம் 2 மணிக்குப் பிறகு தொதல் விற்கிறேன்" என்று அவன் சிறிது கவலையுடன் சொன்னான். அவன் சொன்ன விதம் அவருடைய வாழ்க்கை முறையைப் பற்றி எனக்கு ஆச்சரியத்தை ஏற்படுத்தியது.
+
+...
+
+[Data](articles/9fbc2682.json)
+
+---
 
 ### யாருக்கும் இல்லாத புதிய வகை இரத்தம்
 
@@ -174,6 +240,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Body of elephant mahout’s assistant found in Kandy Lake
+
+*2025-07-31 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111031/body-of-elephant-mahouts-assistant-found-in-kandy-lake) · `en`
+
+The body of an individual, reportedly an assistant to an elephant mahout who participated in the Kandy Esala Perahera, has been found floating on the banks of Kandy Lake this morning (31).
+
+The deceased had arrived from the Aranayake area to take part in the annual Esala Perahera in Kandy.
+
+He had been employed as an assistant to the mahout of an elephant that had participated in the procession.
+
+The deceased has been identified as a 28-year-old youth named Achalanka.
+
+Kandy Police Headquarters is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c924402e.json)
+
+---
+
 ### අද දෙවන කුඔල් පෙරහැර
 
 *2025-07-31 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212862) · `si`
@@ -243,6 +329,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/031617a8.json)
+
+---
+
+### Two police officers interdicted after arrested suspect escapes custody
+
+*2025-07-31 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111030/two-police-officers-interdicted-after-arrested-suspect-escapes-custody) · `en`
+
+Two police officers attached to the Rathnapura Police Headquarters have been interdicted in connection with an incident in which a suspect who was in police custody had escaped.
+
+According to Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler, a Police Sergeant and a Constable have been interdicted in relation to the incident.
+
+The suspect in question, who was accused of several crimes, was arrested by the Criminal Investigation Department (CID) and handed over to the Rathnapura Police Station for further investigation.
+
+The suspect, who was reportedly held in a cell at the police station on July 30, had requested to use the toilet. While the cell door was being opened, he had managed to flee after escaping from the custody of the officers on duty.
+
+The suspect is a resident of the Rathnapura area, and it has been revealed that he was also allegedly involved in several shooting incidents that occurred in the Panadura area recently.
+
+...
+
+[Data](articles/532880d7.json)
 
 ---
 
@@ -1721,111 +1827,5 @@ However, he did not clarify what exactly the “penalty” would entail beyond t
 ◼️
 
 [Data](articles/2fe213f3.json)
-
----
-
-### இராணுவத் தளபதியின் சேவை நீட்டிப்பு...
-
-*2025-07-30 17:56:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்-தளபதியின்-சேவை-நீட்டிப்பு/175-362063) · `ta`
-
-இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோவுக்கு நாளை (1) முதல் ஒரு வருட சேவை நீட்டிப்பு வழங்கப்பட்டுள்ளது.
-
-ஜனாதிபதி அனுர குமார திசாநாயக்கவின் பரிந்துரையின் பேரில் இந்த சேவை நீட்டிப்பு வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/624f7a03.json)
-
----
-
-### යටිනුවර මරණ තුන ගැන විවෘත තීන්දුවක්
-
-*2025-07-30 17:54:19* · [`adalk`](https://www.ada.lk/breaking_news/යටිනුවර-මරණ-තුන-ගැන-විවෘත-තීන්දුවක්/11-417621) · `si`
-
-මහනුවර යහලතැන්න ප්‍රදේශයේ සිය නිවස තුල  අභිරහස් ලෙස මිය ගොස් සිටියදී ඊයේ  29 සොයා ගත් මහනුවර යටිනුවර ප්‍රාදේශිය සභාවේ විපක්ෂ නායක සහ හිටපු සභාපති චම්පික නිලන්ත මහතාගේ සහ ඔහුගේ බිරිඳගේ මෙන්ම  වැඩිමහල් දියණියගේ මෘත දේහයන් සම්බන්ධ පශ්චාත් මරණ පරීක්ෂණය පේරාදෙණිය විශ්ව විද්‍යාලයේ වෛද්‍ය පීඨයේදී ඊයේ (29) සවස පවත්වා ඇති අතර එහිදී මෙම මරණ සම්බන්ධයෙන් විවෘත තීන්දුවක් ලබා දී  මෘත ශරීරවල  කොටස් රජයේ රස පරීක්ෂක වෙත යොමු කිරීමට පියවර ගෙන තිබේ.
-
-යටිනුවර ප්‍රාදේශිය සභාවේ විපක්ෂ නායක චම්පික නිලන්ත(52) මහතාගේ දේහය නිවස ආසන්නයේ  ස්ථානයක එල්ලෙමින් තිබියදී සහ බිරිඳ වන දිල්රුක්ෂි ජයලත් කුමාරගේ (44) සහ ඔවුන්ගේ වැඩිමහල් දියණිය වන ශිහාරා ආශිංසනී හපුගොඩ (17) යන  දෙදෙනාගේ   දේහයන් නිවස තුලදී තිබියදීත් සොයා ගෙන තිබිණ.
-
-මිය ගිය විපක්ෂ නායක චම්පික නිලන්ත  විසින් සිය බිරිඳට සහ දියණියට නිති පෙති වැනි දෙයක් බොන්න දී ගෙළ හිර කර මරා තමාද දිවි නසා ගන්නට ඇති බවට පොලීසිය  සැක කරන නමුත් මෙහි සැබෑ තත්වය දැන ගැනීමට ලැබෙන්නේ රස පරීක්ෂක වාර්තාව ලැබීමෙන් පසුව බවත් පොලීසිය කියයි.
-
-...
-
-[Data](articles/1d862246.json)
-
----
-
-### UK rejects criticism that move to recognise Palestinian state rewards Hamas
-
-*2025-07-30 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111018/uk-rejects-criticism-that-move-to-recognise-palestinian-state-rewards-hamas) · `en`
-
-Britain rejected Israeli criticism on Wednesday that it was rewarding militant group Hamas by setting out plans to recognise a Palestinian state unless Israel took steps to improve the situation in Gaza and bring about peace.
-
-Prime Minister Keir Starmer’s ultimatum, setting a September deadline, prompted an immediate rebuke from Israel’s Benjamin Netanyahu, who said it rewarded Hamas and punished the victims of the fighters’ 2023 attack that triggered the war. U.S. President Donald Trump also said he did not think Hamas “should be rewarded” with recognition of Palestinian independence.
-
-But British Transport Minister Heidi Alexander - designated by the government to respond to media questions on Wednesday - said: “This is not a reward for Hamas.
-
-...
-
-[Data](articles/521c72df.json)
-
----
-
-### Sri Lanka rupee weakens against dollar, bonds steady
-
-*2025-07-30 17:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-against-dollar-bonds-steady-233720/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.20/30 to the US dollar in the spot market Wednesday, weaker from 302.15/30 the previous day, while bond yields held broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.45/55 percent, down from 8.45/56 percent.
-
-A bond maturing on 15.10.2028 closed at 9.00/05 percent, down from 9.02/08 percent.
-
-A bond maturing on 15.12.2029 closed at 9.52/56 percent, down from 9.53/59 percent.
-
-A bond maturing on 15.12.2034 closed at 10.41/50 percent. (Colombo/July30/2025)
-
-◼️
-
-[Data](articles/4aa8daaf.json)
-
----
-
-### ව්‍යාජ පොලිස් පරීක්ෂක එකලස් කළ වාහන සමග අල්ලයි
-
-*2025-07-30 17:38:37* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-පොලිස්-පරීක්ෂක-එකලස්-කළ-වාහන-සමග-අල්ලයි/11-417620) · `si`
-
-ප්‍රධාන පොලිස් පරීක්‍ෂකවරයෙකු ලෙස පෙනී සිටිමින් , එකලස් කොට සකස් කරන ලද මෝටර් රථ අලෙවි කිරීමට ඇති ස්ථාන සොයා ගොස් ඒවා ලබාගත් බව කියන පුද්ගලයෙකු අත් අඩංගුවට ගනු ලැබූ බව ගම්පහ මූලස්ථාන පොලීසිය සදහන් කරයි.
-
-නිට්ටඹුව ප්‍රදේශයේ පදිංචි 45 හැවිරිදි එම පුද්ගලයාගේ නිවසේ තිබී සුඛෝපභෝගී ජීප්රථ තුනක් පොලීසිය අත් අඩංගුවට ගනු ලැබූ බවත් ඔහු සන්තකයෙහි තිබී පොලිස් දෙපාර්තමේන්තුව මගින් නිකුත් කරන අන්දමට  ව්‍යාජ ලෙස සකස්කරන ලද ප්‍රධාන පොලිස් පරීක්ෂක හැදුනුම්පතක් සහ පොලිස් නිල ඇදුම් කිහිපයක්ද පොලීසිය බාරයට ගනු ලැබූ බවත් පොලීසිය පවසයි.
-
-පොලිස් නිලධාරියෙකු ලෙස පෙනී සිටින අයෙකු පිළිබඳව පොලීසියට ලද තොරතුරක් මත සැකකරු අත් අඩංගුවට ගෙන ඇති අතර මේ සම්බන්ධයෙන් ගම්පහ වැඩ බලන පොලිස් අධිකාරී ජේ.එච්.එන්.එම්.ජයපත්ම මහතාගේ උපදෙස් පරිදි සහකාර පොලිස් අධිකාරී එච්.එම්.ඩබ්ලිව්. හේරත් සහ වැඩ බලන මූලස්ථාන පොලිස් පරීක්ෂක චමින්ද පින්තු යන මහත්වරුන්ගේ අධීක්ෂණය යටතේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඩිලාන් රාජපක්ෂ මහතාගේ මෙහෙයවීමෙන් වැඩි දුර විමර්ශන සිදු කෙරේ.
-
-◼️
-
-[Data](articles/d37f932d.json)
-
----
-
-### ජනවාරියේ සිට මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් ලක්ෂය ඉක්මවූ පිරිසක් අත්අඩංගුවට
-
-*2025-07-30 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212842) · `si`
-
-2025 ජනවාරි පළමුවනදා සිට ඊයේ (29) දිනය දක්වා මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 122,913 දෙනෙකු අත්අඩංගුවට පත්ව ඇති බව මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍යංශය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ 2025 ජනවාරි පළමුවනදා සිට ඊයේ (29) දිනය දක්වා පමණක්, හෙරොයින් කිලෝ 928. 787ක් ද, අයිස් කිලෝ 1396. 709ක් ද, ගංජා කිලෝ 11 192. 823ක් ද, කොකේන් කිලෝ 27. 836ක් ද, හෂිස් කිලෝ 381.428ක්ද පොලිස් භාරයට ගෙන ඇති බවය.
-
-මේ අතර, ඊයේ දිනයේ පමණක් ශ්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බලකාය හා ත්‍රිවිධ හමුදාව එක්ව විශේෂ මෙහෙයුම් කිහිපයක් මුලු රටම ආවරණය වන පරිද්දෙන් සිදු කර ඇත.
-
-එම මෙහෙයුම් සඳහා ශ්‍රී ලංකා පොලීසියෙත්, පොලිස් විශේෂ කාර්ය බලකායෙත් සහ ත්‍රිවිධ හමුදාවේත් සාමාජිකයන් 6,695ක සංඛ්‍යාවක් සහභාගී වී ඇති අතර එහිදී පුද්ගලයන් 25,111ක් පරීක්ෂාවට ලක් කර තිබේ.
-
-එමෙන්ම වාහන 10,128ක් ද යතුරු පැදි 7,734ක් ද පරීක්ෂාවට ලක් කර ඇත.
-
-මෙම විශේෂ සෝදිසි මෙහෙයුම් තුළදී විෂ මත්ද්‍රව්‍ය සම්බන්ධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 948ක් අත්අඩංගුවට පත්ව ඇත.
-
-...
-
-[Data](articles/ee6cc41f.json)
 
 ---

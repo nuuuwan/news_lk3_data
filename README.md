@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 23:06:28**
+As of **2025-07-31 23:21:23**
 
 ## Newspaper Stats
 
@@ -106,11 +106,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-07-31 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111058/trump-announces-agreement-to-pause-higher-tariffs-on-mexico-for-90-days) · `en`
 
-President Donald Trump announced on Thursday he’s extending the existing tariffs with Mexico, America’s largest trading partner, and he will pause higher tariffs that were set to go into effect Friday.
+President Donald Trump on Thursday said he would not raise U.S. tariffs on Mexican goods beyond their current levels for 90 days, in order to give the neighboring countries time to strike a trade deal.
 
-That means the status quo will continue, in which goods from Mexico are taxed at 25%, unless they are compliant with the United States-Mexico-Canada trade deal Trump signed under his first term. In those instances, goods won’t face any tariffs, barring certain sectoral tariffs in place.
+Trump recently threatened to raise the blanket tariff rate on Mexican imports to 30%, up from the 25% duty he had previously imposed to address alleged cross-border crime and drug trafficking. Mexico is also exposed to a 25% tariff on auto imports and 50% tariffs on metals commodities.
 
-“I have just concluded a telephone conversation with the President of Mexico, Claudia Sheinbaum, which was very successful in that, more and more, we are getting to know and understand each other,” Trump said in a Truth Social post. “The complexities of a Deal with Mexico are somewhat different than other Nations because of both the problems, and assets, of the Border. We have agreed to extend, for a 90 Day period, the exact same Deal as we had for the last short period of time.”
+The new rate for Mexico was set to take effect Friday, when Trump’s paused “reciprocal” tariffs on dozens of countries are set to snap back into place.
+
+But Trump said Thursday morning that he would postpone any tariff changes, as a result of his “very successful” call with Mexican President Claudia Sheinbaum.
+
+“More and more, we are getting to know and understand each other,” Trump said in a Truth Social post.
 
 ...
 

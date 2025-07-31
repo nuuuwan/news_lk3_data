@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 14:07:29**
+As of **2025-07-31 14:25:33**
 
 ## Newspaper Stats
 
-*Scraped **67,915** Articles*
+*Scraped **67,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,533
 adaderanalk | 8,382
 tamilmirrorlk | 9,859
 virakesarilk | 11,299
-adaderanasinhalalk | 11,682
+adaderanasinhalalk | 11,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,915 articles have been extended.
+61,973 (91.2%) of 67,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### රුපියල්  කෝටිය ඉක්මවන මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
+
+*2025-07-31 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212868) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑමයකට අධික තොගයක් සමග පුද්ගලයෙකු බොරැල්ල ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+බොරැල්ල පොලිස් ස්ථානයට ලද තොරතුරක් මත බොරැල්ල, සිරිසර උයන මහල් නිවාසය අසලදී යතුරුපැදියක් පරීක්ෂා කිරීමේ දී අදාල මත්ද්‍රව්‍ය තොගය සමග සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය පැවසුවේය.
+
+එහිදී ඔහු සතුව තිබී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 01 ග්‍රෑම් 105ක් හා හෙරොයින් ග්‍රෑම් 125ක් සොයාගෙන ඇති බව සදහන් වේ.
+
+අත්අඩංගුවට ගත් සැකකරු 23 හැවිරිදි අතුරුගිරිය ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර ඔහු සංවිධානාත්මක අපරාධකරුවෙකගේ ගෝලයකු බව ද අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/8ce0b080.json)
+
+---
 
 ### யாழ். பெண்ணை கண்டுபிடிக்க உதவுங்கள்
 
@@ -1805,19 +1823,5 @@ A scientific study found that untreated onion juice leads to hair regrowth. So, 
 ...
 
 [Data](articles/ecff1740.json)
-
----
-
-### Reflections on a journey towards positive ageing – Part II
-
-*2025-07-30 23:47:00* · [`islandlk`](http://island.lk/reflections-on-a-journey-towards-positive-ageing-part-ii/) · `en`
-
-Appreciation is a means by which an individual articulates his or her sentiments towards another for a commendable quality inherent in that individual. The act of appreciating another often emerges as a spontaneous response to what one deems worthy of acknowledgment. Moments of appreciation wield a profound influence on the positive aging process. Individuals express their admiration for talents, expertise, achievements, philanthropy, and other virtues through various forms of praise, rewards, and the accommodation of differing perspectives, contingent upon specific circumstances.
-
-Ponder for a moment the myriad reasons for which we ought to express gratitude and appreciation for the intricate ecosystem—the sun, the moon, the air we breathe, the water sources and the diverse flora and fauna that flourish in nature, all of which sustain our very existence. A person with an optimistic outlook on life cultivates qualities that serve as vital sustenance for a fulfilling existence.
-
-...
-
-[Data](articles/e5fac30a.json)
 
 ---

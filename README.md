@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 14:25:33**
+As of **2025-07-31 14:39:03**
 
 ## Newspaper Stats
 
-*Scraped **67,916** Articles*
+*Scraped **67,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,533
 adaderanalk | 8,382
 tamilmirrorlk | 9,859
 virakesarilk | 11,299
-adaderanasinhalalk | 11,683
+adaderanasinhalalk | 11,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,916 articles have been extended.
+61,973 (91.2%) of 67,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### රෝහිතගේ දියණියට ඇප
+
+*2025-07-31 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212870) · `si`
+
+මතුගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කළ පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දියණිය වන රොෂෙල් අබේගුණවර්ධන මහත්මියට ඇප හිමිව තිබේ.
+
+ඇය අද (31) දින අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+ඒ අනුව ඇය රුපියල් ලක්ෂ 20 බැගින් වූ ශරීර ඇප 2ක් මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/3691198b.json)
+
+---
+
+### මිනින්දෝරු දෙපාර්තමේන්තුවෙන් ඉඩම් සිතියම් නිවසටම
+
+*2025-07-31 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212869) · `si`
+
+ශ්‍රී ලංකා මිනින්දෝරු දෙපාර්තමේන්තුවේ 225 වැනි සංවත්සරය වෙනුවෙන් අගෝස්තු 01 සිට ඔන්ලයින් හරහා ගෙවීම් සිදුකර ඉඩම් සිතියම් නිවසටම ගෙන්වා ගැනීමට අවස්ථාව හිමිවන බව මැනුම්පති වයි. ජී ඥාණතිලක මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+
+"මෙතෙක් මහජනතාව වෙත අපි සිතියම් නිකුත් කිරීම සිදු කළේ කාර්යාලය හරහා. නමුත් දැන් ඔන්ලයින් ක්‍රමය යටතේ සිතියම් ලබාගැනීමට මහජනතාවට අවස්ථාව ලබාදීමට අපි සැලසුම් කරලා තියෙනවා. ඒ අනුව ඔන්ලයින් ගෙවීම් කර තමන්ගේ නිවසටම අවශ්‍ය සිතියම් ලබා ගැනීමට හැකියාව තියෙනවා."
+
+ඒ වගේම මහජනතාවට ඉඩම් තොරතුරු පද්ධතියේ තිබෙන තොරතුරු ඔන්ලයින් දැකගැනීමට අවස්ථාවත් ලබාදීමට අපි කටයුතු කරනවා."
+
+◼️
+
+[Data](articles/3bb7891d.json)
+
+---
 
 ### රුපියල්  කෝටිය ඉක්මවන මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
 
@@ -153,6 +187,24 @@ A09 வீதியில் பரந்தன் சந்திப்பு�
 ◼️
 
 [Data](articles/6abf69cf.json)
+
+---
+
+### කාන්තාවන්ට වඩා පිරිමින්ට පෙනහළු පිළිකා අවදානමක්
+
+*2025-07-31 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212866) · `si`
+
+කාන්තාවන්ට සාපේක්ෂව පිරිමි පුද්ගලයන්ට පෙනහළු පිළිකා ඇතිවීමේ වර්ධනයක් පෙන්නුම් කරන බව වැලිසර ජාතික ළය රෝහලේ විශේෂඥ ශෛල්‍ය වෛද්‍ය සමන් ඉද්දගොඩ මහතා පවසයි.
+
+එමෙන්ම ඔහු පැවසුවේ මෙරට පෙනහළු පිළිකා රෝගීන්ගේ ඉහළ යාමක් පෙන්නුම් කරන බවය.
+
+හෙට (01) දිනයට යෙදී ඇති ලෝක පෙනහළු පිළිකා දිනයට සමගාමීව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් ශල්‍ය වෛද්‍ය සමන් ඉද්දගොඩ මහතා මේ බව සඳහන් කළේය.
+
+"ලංකාවේ තියෙනවා පිළිකා සම්බන්ධයෙන් දත්ත වාර්තා කරන ලේඛනය. හැම අවුරුද්දෙම ඒකේ සටහන් වෙනවා පිළිකා සම්බන්ධයෙන් දත්තයන්. දත්ත පරිශීලනය කරාම පැහැදිලි වර්ධනයක් තියෙනවා මේ පෙනහළු පිළිකාවල ලංකාවේ ජනතාවගේ. විශේෂයෙන් පිරිමි පුද්ගලයින්ගේ පෙනහළු පිළිකා සම්බන්ධයෙන් වැඩිපුර සමීක්ෂණ වාර්තා තියෙන්නේ දුම්පානය කිරීම සම්බන්ධයෙන් තොරතුරු. නමුත් දත්ත පරීක්ෂා කිරීමේ දී  දුම් නොබන කාන්තාවන්ගේ ප්‍රතිශතය ඉහළ ගොස් තිබෙනවා. අපිට ඒ පුද්ගලයින් රෝහල්වලට පැමිණේමේදී යම්කිසි ප්‍රමාදයක් තියෙනවා."
+
+◼️
+
+[Data](articles/dda511c1.json)
 
 ---
 
@@ -1775,53 +1827,5 @@ The treatment of such a figure through standard criminal remand procedures, abse
 ...
 
 [Data](articles/812ba85a.json)
-
----
-
-### Renewable with solar, the way forward
-
-*2025-07-31 03:32:54* · [`dailyftlk`](https://www.ft.lk/columns/Renewable-with-solar-the-way-forward/4-779696) · `en`
-
-The cost of manufacturing solar panels has plummeted dramatically in the last decades, making them an affordable form of electricity
-
-On 16 July, the Prime Minister at the Seventh Meeting of the International Solar Alliance Regional Committee for the Asia and Pacific Region held in Colombo, emphasised on Sri Lanka’s dedication to strengthening regional solar cooperation and achieving energy security through sustainable development.
-
-Apparently, the Prime Minister is more concerned of regional solar corporation, rather than the country’s requirement. This brings again the undisclosed agreement the President signed with India. It is clear that India wishes to connect the two countries with an electrical connection and export electricity to Sri Lanka. It is well known that the production cost of India is lower than Sri Lanka.
-
-...
-
-[Data](articles/173d8924.json)
-
----
-
-### Post-July ‘83 JVP, evil Israeli State and US global hegemony
-
-*2025-07-31 03:12:21* · [`dailyftlk`](https://www.ft.lk/columns/Post-July-83-JVP-evil-Israeli-State-and-US-global-hegemony/4-779695) · `en`
-
-It is only appropriate that Black July 1983 was remembered this month, but the recollection stopped at the ghastly events, their causation and immediate aftermath. The narrative is that sections of the UNP, predominantly those associated with Minister Cyril Mathew and the UNP trade union wing he headed, the JSS, played a key role in the anti-Tamil pogrom. The Jayewardene government then cynically framed the JVP for the violence which it had absolutely nothing to do with and proscribed the party, driving it into clandestinity and rearmament. The interventionist role of India then prompted/provoked the JVP into a massive armed uprising which threatened state power itself. That’s the accepted narrative and is true, but is an incomplete truth.
-
-...
-
-[Data](articles/a6a5aacb.json)
-
----
-
-### 2025-07-30 (Wednesday)
-
-### Natural route to stop Hair Fall …
-
-*2025-07-30 23:51:00* · [`islandlk`](http://island.lk/natural-route-to-stop-hair-fall/) · `en`
-
-Hair fall is something most of us experience, even the young ones, and it can be quite stressful when you comb your hair and you find your comb has collected your falling hair.
-
-Shedding around 50 to 100 single strands of hair per day is considered normal. However, losing more than 150 strands a day, experiencing sudden thinning, or developing circular bald patches on your scalp, are reasons for concern.
-
-Well, there is a kind of a natural route to take to stop hair fall and some of the ways include:
-
-A scientific study found that untreated onion juice leads to hair regrowth. So, if you are struggling with hair loss, resort to onion juice to counteract the issue and promote healthy hair. Apply the juice to the scalp, let it sit for a specific duration, and then rinse thoroughly.
-
-...
-
-[Data](articles/ecff1740.json)
 
 ---

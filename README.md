@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 10:04:53**
+As of **2025-07-31 10:28:46**
 
 ## Newspaper Stats
 
-*Scraped **67,852** Articles*
+*Scraped **67,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,125 @@ economynextcom | 4,144
 islandlk | 4,149
 dailymirrorlk | 4,733
 dailyftlk | 4,795
-adalk | 6,524
+adalk | 6,525
 adaderanalk | 8,379
-tamilmirrorlk | 9,839
-virakesarilk | 11,286
-adaderanasinhalalk | 11,674
+tamilmirrorlk | 9,843
+virakesarilk | 11,287
+adaderanasinhalalk | 11,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.3%) of 67,852 articles have been extended.
+61,973 (91.3%) of 67,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### கினிகத்தேன விபத்தில் கொழும்பு ஜனிரா இக்ரம் பலி
+
+*2025-07-31 10:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கினிகத்தேன-விபத்தில்-கொழும்பு-ஜனிரா-இக்ரம்-பலி/76-362098) · `ta`
+
+கினிகத்தேன பொலிஸ் பிரிவின் மில்லகஹமுல்ல பகுதியில், கொழும்பிலிருந்து நாவலப்பிட்டி நோக்கிச் சென்ற  மோட்டார் சைக்கிள், அதே வீதியில்  பயணித்த லொரியை முந்திச் செல்ல முயன்றபோது கவிழ்ந்தது.
+
+இந்த மோட்டார் சைக்கிளில் கொழும்பு 10, மொஹிதீன் மஸ்ஜித் வீதி  இக்ராம் மிஸ்கி மற்றும் அவரது மனைவி ஜனிரா இக்ராம் ஆகியோர் பயணித்துள்ளனர்
+
+மோட்டார் சைக்கிளில் இருந்து விழுந்து லொரியின் பின் சக்கரத்தின் கீழ் நசுங்கிய பெண் சம்பவ இடத்திலேயே உயிரிழந்தார்.
+
+விபத்தில் இக்ராம் மிஸ்கிக்கு லேசான காயம் ஏற்பட்டு கினிகத்தேன மருத்துவமனையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/aaf1d335.json)
+
+---
+
+### காதில் பூ சுத்தாது கண்ணை திறந்து விடுங்கடா
+
+*2025-07-31 10:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/காதில்-பூ-சுத்தாது-கண்ணை-திறந்து-விடுங்கடா/62-362097) · `ta`
+
+◼️
+
+[Data](articles/88152f32.json)
+
+---
+
+### நடிகை ராதிகா திடீரென வைத்தியசாலையில் அனுமதி
+
+*2025-07-31 10:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகை-ராதிகா-திடீரென-வைத்தியசாலையில்-அனுமதி/54-362096) · `ta`
+
+பிரபல நடிகை ராதிகா டெங்கு காய்ச்சல் காரணமாக தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்த தகவல் வெளியாகியதும், ரசிகர்கள் மற்றும் திரையுலக பிரபலர்கள் சமூக ஊடகங்களில் அவருக்கு விரைவில் குணமாக வேண்டும் என பதிவுகளை பதிவிட்டு வருகிறார்கள். தன்னுடைய உறுதியான மனோபாவத்தால் விரைவில் குணமடைவார் என அனைவரும் நம்பிக்கை தெரிவித்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/e61314bf.json)
+
+---
+
+### மோட்டார் சைக்கிள் – லொறி விபத்து ; இரு பிள்ளைகளின் தாய் உயிரிழப்பு ; தந்தை ஆபத்தான நிலையில்
+
+*2025-07-31 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221416) · `ta`
+
+கொழும்பு, மருதானையிலிருந்து நாவலப்பிட்டி நோக்கி பயணித்த மோட்டார் சைக்கிள் அதே திசையில் பயணித்த லொறியை முந்திச் செல்ல முயன்றபோது ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிளில் பயணித்த மனைவி சம்பவ இடத்திலேயே உயிரிழந்தார்.
+
+மோட்டார் சைக்கிளை ஓட்டிச் சென்ற கணவர் படுகாயமடைந்து நாவலப்பிட்டி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என கினிகத்தேன பொலிஸ் நிலைய பொறுப்பதிகாரி விராஜ் விதானகே தெரிவித்தார்.
+
+விபத்தில் உயிரிழந்தவர் கொழும்பு மருதானையைச் சேர்ந்த 44 வயதுடைய இரண்டு குழந்தைகளின் தாயார் என பொலிஸார் தெரிவித்தனர்.
+
+ஹட்டன் - கொழும்பு பிரதான வீதியில் கினிகத்தேனை, மில்லகஹமுல பகுதியில் குறித்த விபத்து இடம்பெற்றதாகவும்.
+
+நாவலப்பிட்டி மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பெற்று வரும் உறவினரைப் பார்வையிட குறித்த  தம்பதியினர் மோட்டார் சைக்கிளில் சென்றுள்ளனர்.
+
+இதன்போது, கொழும்பிலிருந்து வட்டவளை நோக்கிச் சென்ற லொறியினை மோட்டார் சைக்கிள் சாரதி முந்திச் செல்ல முயன்ற போது, லொறியின் இடது பக்கத்தின் நடுப்பகுதியில் மோட்டார் சைக்கிள் சிக்கிக் கொண்டது.
+
+...
+
+[Data](articles/e7b92536.json)
+
+---
+
+### ජනවාරි සිට ජූලි දක්වා පැමිණි සංචාරකයින් ගණන ලක්ෂ 13 ඉක්මවයි
+
+*2025-07-31 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212860) · `si`
+
+මේ වසරේ ගතවු කාලය තුළ දිවයිනට පැමිණි සංචාරකයින් සංඛ්‍යාව ලක්ෂ 13 ඉක්මවා ගොස් තිබේ.
+
+ඒ අනුව ජනවාරි පළමු දින සිට ජූලි මස 27 වන දින දක්වා කාලය තුළ දිවයිනට සංචාරකයින් 1,341,953 දෙනෙකු පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරයි.
+
+ඉන් වැඩි දෙනෙකු ඉන්දීය ජාතිකයින් වන අතර එම සංඛ්‍යාව 274,919කි.
+
+ඊට අමතරව බ්‍රිතාන්‍ය, රුසියාව, ජර්මනිය, චීනය, ප්‍රංශය, ඔස්ට්‍රේලියාව සහ නෙදර්ලන්තය ඇතුළු රටවලින් ද සංචාරකයින් වැඩි වශයෙන් දිවයිනට පැමිණ ඇති බව සඳහන් ය.
+
+ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය තොරතුරු ඉදිරිපත් කර ඇති පරිදි ජූලි මාසයේ ගතවු දින 27ක කාලය තුළ සංචාරකයින් 173,909 දෙනෙකු දිවයිනට පැමිණ ඇති බවයි.
+
+තවද ජූලි මාසයේ ගතවු දින 27 තුළ වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇත්තේ ජූලි 26 වනදා වන අතර එම ගණන 7,579කි.
+
+◼️
+
+[Data](articles/2833b4c8.json)
+
+---
+
+### டெலிகிராம் மூலம் ஆபாச படங்கள் விற்பனை
+
+*2025-07-31 09:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெலிகிராம்-மூலம்-ஆபாச-படங்கள்-விற்பனை/175-362094) · `ta`
+
+டெலிகிராம் சமூக ஊடக கணக்கின் மூலம் பெண்கள் மற்றும் யுவதிகளின், ஆபாசப் படங்கள் விற்பனை செய்யப்பட்டதாகக் கூறப்படும் சம்பவம் குறித்து தேசிய சிறுவர் பாதுகாப்பு அதிகாரசபை விசாரணைகளை ஆரம்பித்துள்ளது.
+
+சமூக ஊடகங்கள் மூலம் கிடைக்கப்பெற்ற முறைப்பாடுகளின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சமூக ஊடக செயற்பாட்டாளரான சான்யா ஹேரத் குறிப்பிட்டுள்ளார்.
+
+இதன்படி, டெலிகிராம் சமூக ஊடக பயனாளர்களுக்குப் படங்களை அனுப்பி பணம் ஈட்டப்படுவதாக அவர் தமது சமூக ஊடக பக்கத்தில் கூறியிருந்தார்.
+
+இந்த பின்னணியிலேயே, குறித்த சம்பவம் தொடர்பில் விசாரணை ஆரம்பிக்கப்பட்டுள்ளதாகத் தேசிய சிறுவர் பாதுகாப்பு அதிகாரசபையின் தலைவர் பிரீத்தி இனோகா ரணசிங்க எமது செய்தி சேவைக்குத் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/70d2b30b.json)
+
+---
 
 ### இலங்கையின் தேசிய பிரச்சினைகளுக்கு தீர்வைக் காண தென்னாபிரிக்காவில்  மண்டேலா வெளிக்காட்டியதைப் போன்ற அரசியல் ஞானம் தேவை
 
@@ -1142,6 +1246,22 @@ During the search, 948 individuals were arrested for drug-related offenses, and 
 
 ---
 
+### මෙටා සමාගම ඉන්ස්ටග්‍රැම්හි හි දෙමව්පිය අධීක්ෂණ යෙදවුම මෙරටට හඳුන්වා දෙයි
+
+*2025-07-30 18:47:26* · [`adalk`](https://www.ada.lk/technology/මෙටා-සමාගම-ඉන්ස්ටග්‍රැම්හි-හි-දෙමව්පිය-අධීක්ෂණ-යෙදවුම-මෙරටට-හඳුන්වා-දෙයි/5-417625) · `si`
+
+ශ්‍රී ලංකාවේ යොවුන් ඉන්ස්ටග්‍රෑම් (Instagram) ගිණුම් සඳහා දෙමව්පිය අධීක්ෂණ යෙදවුම සක්‍රිය කරන බව එම වැඩසටහන අයත් මෙටා සමාගම පසුගියදා නිවේදනය කළේය. ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය එරංග වීරරත්න මහතා සහ මෙටා සමාගමෙහි නියෝජිතයන් අතර පසුගියදා එම අමාත්‍යාංශයේදී පැවැති හමුවකින් අනතුරුව මෙටා සමාගම මෙම තීරණය නිල වශයෙන් නිවේදනය කර තිබේ.
+
+ඒ අනුව මෙම යෙදවුම මගින් දෙමව්පියන්ට තම දරුවන්ගේ ඉන්ස්ටග්‍රෑම් ක්‍රියාකාරකම් පිළිබඳව වැඩි අධීක්ෂණයක් යෙදවීමට හැකියාව ලැබෙන බව පැවසෙයි. මෙම නව විශේෂාංගය වයස අවුරුදු 13 සිට 17 දක්වා නිර්මාණය කර තිබේ. මෙහිදී ඉන්ස්ටග්‍රෑම් ප්‍රවේශය පූර්ව අනුමත සම්බන්ධතාවලට සීමාවීම, සීමිත පණිවිඩකරණ හැකියාව, සංවේදී අන්තර්ගතයන්ට ප්‍රවේශය පිළිබඳ දෙමාපියන්ගේ පාලනය, අන්තර්ක්‍රියා සීමා පවත්වා ගැනීමේ හැකියාව සහ දෛනික තිර කාල සීමාවන් සැකසීමේ හැකියාව යනාදිය මීට ඇතුළත් වෙයි.
+
+මෙම දෙමාපිය අධීක්ෂණ හැකියාව නුදුරේදීම ෆේස්බුක් සහ මැසෙන්ජර් වැනි අනෙකුත් සමාජ මාධ්‍ය වේදිකා වෙතද හඳුන්වා දෙන බව මෙටා සමාගම නිවේදනය කර තිබේ.
+
+...
+
+[Data](articles/b6c72b63.json)
+
+---
+
 ### Sri Lanka to test Chinese BYD EV motor as Harsha warns on international standards
 
 *2025-07-30 18:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-waiting-to-test-chinese-byd-ev-motor-233726/) · `en`
@@ -1202,7 +1322,7 @@ BYD මෝටර් රථ වල මෝටරය සම්බන්ධයෙන
 
 ---
 
-### India to pay 25-pct tariff plus Russia penalty Trump says as Sri Lanka awaits
+### India to pay 25-pct tariff plus Russia penalty Trump says as Sri Lanka awaits decision
 
 *2025-07-30 18:30:00* · [`economynextcom`](https://economynext.com/india-to-pay-25-pct-tariff-plus-russia-penalty-trump-says-as-sri-lanka-awaits-233742/) · `en`
 
@@ -1214,9 +1334,9 @@ ECONOMYNEXT – India will pay 25 percent tariff plus an unspecified penalty fro
 
 India will therefore be paying a tariff of 25%, plus a penalty for the above, starting on August first.,
 
-A few minutes later he made another post saying “We have a massive trade deficit with Sri Lanka.”
+A few minutes later he made another post saying “We have a massive trade deficit with India.”
 
-◼️
+...
 
 [Data](articles/54cad70d.json)
 
@@ -1709,131 +1829,5 @@ According to the Maldivian authorities, this initiative is being offered in the 
 ...
 
 [Data](articles/7d96b0d8.json)
-
----
-
-### Sri Lanka sells Rs66.12bn treasury bills after offering Rs92.5bn
-
-*2025-07-30 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs66-12bn-treasury-bills-after-offering-rs92-5bn-233703/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 66.12 billion rupees of Treasury bills, with yields steady across maturities, after offering 92.5 billion, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.62 percent, with 22.5 billion rupees offered and 31.27 billion sold.
-
-The 6-month yield was unchanged at 7.91 percent, with 50 billion rupees offered and 17.59 billion sold.
-
-The 12-month yield was unchanged at 8.03 percent with 20 billion rupees of bills offered and 17.25 billion rupees bills sold.
-
-The 6 and 12 month bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/bba1898e.json)
-
----
-
-### ඉන්දීය රංගන ශිල්පිනී නන්දිනි කාශ්‍යප් අත්අඩංගුවට
-
-*2025-07-30 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212838) · `si`
-
-ඉන්දීය රංගන ශිල්පිනී නන්දිනි කාශ්‍යප්, ගුවහාටි පොලිසිය විසින් අද (30) අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ ඇය පැදවූ බව කියන මෝටර් රථයක ගැටීමෙන් 21 හැවිරිදි සිසුවෙක් මියයාමේ සිදුවීමට සම්බන්ධවයි.
-
-පසුගිය 25 වැනිදා දින අලුයම 3.00ට පමණ ගුවහාටිහි දඛින්ගාඕන් ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
-
-රංගන ශිල්පිනිය මෙම අනතුර සිදු කර පලා යන ආකාරය ඒ ආසන්නයේ තිබූ CCTV කැමරාවක ද සටහන්ව තිබුණි.
-
-අනතුරෙන් පසු, සිසුවා බරපතල තුවාල ලබා රෝහල් ගත කර ඇති අතර ප්‍රතිකාර ලබමින් සිටිය දී ඔහු මෙසේ මියගොස් තිබේ.
-
-මියගිය සිසුවාගේ පවුලේ ඥාතීන් සදහන් කළේ මෙම අනතුර හේතුවෙන් ඔහුගේ හිසට දරුණු ලෙස තුවාල සිදුවී ඇති බවත් ඔහුගේ කකුල් දෙකෙහිම අස්ථි බිඳීම් සිදුවී තිබූ බවත් ය.
-
-◼️
-
-[Data](articles/82171223.json)
-
----
-
-### Sri Lanka and Switzerland strengthen migration partnership at third expert meeting
-
-*2025-07-30 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111015/sri-lanka-and-switzerland-strengthen-migration-partnership-at-third-expert-meeting) · `en`
-
-The third meeting of experts on the Migration Partnership between Sri Lanka and Switzerland was held in Bern on Tuesday (July 29).
-
-Sugeeshwara Gunaratna, Director General for Europe and North America at the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and Ambassador Hendrick Krauskopf, Director of International Affairs at the State Secretariat for Migration of the Swiss Federal Department of Justice and Police, co-chaired the meeting.
-
-The meeting reviewed the progress made under the Migration Partnership since its launch in 2016 and discussed the future trajectory of the partnership after the formal handover of the bilateral Safe Labour Migration Program (SLMP) to the Government of Sri Lanka last year, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
-
-This programme was funded by Switzerland and underscores the commitment to institutionalizing sustainable frameworks for the protection and welfare of Sri Lankan migrant workers.
-
-...
-
-[Data](articles/b88b1a3c.json)
-
----
-
-### Sri Lanka’s John Keells Holdings lose Rs.803.7mn in June quarter
-
-*2025-07-30 16:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-holdings-lose-rs-803-7mn-in-june-quarter-233701/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s John Keells Holdings said it reported a loss of 803.7  million rupees in the June 2025 quarter, driven by losses in its leisure sector amid high cost of sales and tax expenses.
-
-The group reported a tax expense of 2.39 billion rupees in the June quarter, compared to 762.3 million rupees in the same quarter last year.
-
-John Keells Holdings report loss of 5 cents per share for June quarter.
-
-Revenues grew 67 percent to 114.1 billion rupees, with insurance revenues of 5.4  billion rupees.
-
-Cost of sales grew 63 percent to 93.7 billion rupees. Gross profits grew 69 percent to 21.4 billion rupees. Administrative expenses rose 55 percent to 11.2 billion rupees.
-
-“While the Group recorded a positive PAT, the profit attributable to equity holders was impacted by the higher non-controlling interest on account of JKCG where the effective ownership of the Group is 50%,” JKH Chairman Krishan Balendra said in his message.
-
-...
-
-[Data](articles/18f2d965.json)
-
----
-
-### சம்பூரில் மனித எச்சங்கள் வழக்கு ; விசேட மாநாடு 06ஆம் திகதி
-
-*2025-07-30 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221381) · `ta`
-
-திருகோணமலை சம்பூரில் மனித எச்சங்கள் மீட்கப்பட்ட பகுதியில் அகழ்வுப் பணியை மேற்கொள்வது தொடர்பில் ஆராயும் முகமாக குறித்த வழக்கானது வழக்கு மாநாடு ஒன்றிற்காக எதிர்வரும் 06ஆம் திகதி நியமிக்கப்பட்டுள்ளதுடன், குறித்த மாநாட்டுக்கு வர வேண்டியவர்களுக்கு அழைப்பு விடுக்குமாறு சம்பூர் பொலிஸ் பொறுப்பதிகாரிக்கு நீதிபதி உத்தரவிட்டுள்ளார்.
-
-குறித்த வழக்கானது கடந்த தவணை நீதிமன்றத்தினால் வழங்கப்பட்டிருந்த அறிவுறுத்தலுக்கு அமைய இன்று புதன்கிழமை (30) அழைக்கப்பட்டபோது சட்ட வைத்திய அதிகாரி மற்றும் தொல்பொருளியல் திணைக்களம் ஆகியவற்றிடமிருந்து நீதிமன்ற அறிக்கையினை கோரியிருந்து. குறித்த அறிக்கைகளை ஆராய்ந்த நீதிபதி  எச்.எம். தஸ்னீம் பௌசான் குறித்த உத்தரவை பிறப்பித்துள்ளார்.
-
-...
-
-[Data](articles/213b7354.json)
-
----
-
-### හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න යළි රිමාන්ඩ්
-
-*2025-07-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212836) · `si`
-
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු නාවික හමුදාපති (විශ්‍රාමික) අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතාව යළිත් එළැඹෙන අගෝස්තු මස 13 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කර තිබේ.
-
-නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැර ගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව හිටපු නාවික හමුදාපතිවරයාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පසු ගිය 28වනදා අත්අඩංගුවට ගැනුණි.
-
-ඒ අනුව, හිටපු නාවික හමුදාපතිවරයාව එදින පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී මහෙස්ත්‍රාත්වරයා නියෝග කළේ සැකකරු අද දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසය.
-
-◼️
-
-[Data](articles/f8e928e5.json)
-
----
-
-### වසරේ මුල් දින 100ට වන අලි මරණ 56ක්
-
-*2025-07-30 16:02:10* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-මුල්-දින-100ට-වන-අලි-මරණ-56ක්/11-417614) · `si`
-
-මෙම වසරේ මුල් දින 100  තුළ අලි ඇතුන් 56 ක්  විවිධ හේතුන් නිසා මරණයට පත්වී ඇති බවත්  වෙඩි තැබීම් මගින් 20 ක් අනවසර විදුලි රැුහැන් වලින් 12 ක් දුම්රිය අනතුරුවලින් 10 ක් හක්කපටස් මගින් 09 ක් සහ දියේ ගිලී 05 ක්  වන අතර අලි ඇතුන් පහර දීමෙන් මිනිස් ජීවිත 19 ක් මරණයට පත්වී ඇති බව ශ‍්‍රී ලංකා වන අලි සංරක්ෂණ  සංසදයේ සභාපති  සාරංග දේව ද අල්විස්  මහතා අද (30දා) කුරුණෑගලදී පැවසීය.
-
-අලි මිනිස් ගැටුම නිමා කරමින් අලි මිනිස් සහජීවනය ඇති කිරීම උදෙසා අත්සන්  ලක්ෂයක්  ලබා ගැනීමේ අරමුණින්   කොළඹ කොටුව, මහනුවර, ගම්පහ, කැළණිය, හොරණ, ගාල්ල, සහ යාපනය  කුරුණෑගල ආදී ප‍්‍රධාන නගරවලදී  අත්සන් ලබාගත් අතර 70000 කට අධික අත්සන් මේ වන විට ලැබී  ඇති බවත්  අනුරාධපුර  නගරයේදී අගෝස්තු  08 සහ 09 දිනවලදී අත්සන් ලබා ගැනීිමට කටයුතු කරන බවත්  අත්සන් ලක්ෂය සම්පූර්ණ වූ පසු ජනාධිපති තුමාට භාරදිමට කටයුතු කරන බව සාරංග දේව ද අල්විස්  මහතා පැවසීය.
-
-...
-
-[Data](articles/dcdaf785.json)
 
 ---

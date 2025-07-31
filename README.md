@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 15:09:46**
+As of **2025-07-31 15:24:32**
 
 ## Newspaper Stats
 
-*Scraped **67,935** Articles*
+*Scraped **67,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,795
 adalk | 6,535
 adaderanalk | 8,389
-tamilmirrorlk | 9,861
+tamilmirrorlk | 9,862
 virakesarilk | 11,304
 adaderanasinhalalk | 11,686
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,935 articles have been extended.
+61,973 (91.2%) of 67,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/671f8a32.json)
+
+---
+
+### ரோஹிதவின் மகளுக்கு பிணை
+
+*2025-07-31 14:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவின்-மகளுக்கு-பிணை/175-362118) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மதுகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
+
+சந்தேக நபர் தலா 2 மில்லியன் ரூபாய் மதிப்புள்ள இரண்டு சரீரப் பிணைகளில் விடுவிக்கப்பட்டார்.
+
+சந்தேகத்துக்கிடமான வாகன தொடர்பிலான விசாரணைகளை மேற்கொண்டு வரும் வாலன குற்றவியல் தடுப்புப் பிரிவில் சரணடைந்த பின்னர் அவர் காவலில் வைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/8d34d0ae.json)
 
 ---
 
@@ -1851,25 +1867,5 @@ Korea will give 350 billion dollars “for Investments owned and controlled by t
 ...
 
 [Data](articles/5102b71e.json)
-
----
-
-### Fed keeps rates unchanged, in split decision
-
-*2025-07-31 05:33:00* · [`economynextcom`](https://economynext.com/fed-keeps-rates-unchanged-in-split-decision-233765/) · `en`
-
-ECONOMYNEXT – The US Federal Reserve kept its interest rate target unchanged saying growth has slowed, labour market was solid and but inflation was somewhat high.
-
-“Although swings in net exports continue to affect the data, recent indicators suggest that growth of economic activity moderated in the first half of the year,” the Fed said in its monetary policy statement.
-
-“The unemployment rate remains low, and labor market conditions remain solid. Inflation remains somewhat elevated.”
-
-Governors Michelle W. Bowman and Christopher J. Waller wanted to cut rates by 0.25 basis points and voted against the decision.
-
-US President Donald Trump has criticized the Fed for not cutting rates. Trump himself was elected amid the inflation created by Fed and general public unhappiness, despite relatively low unemployment and in-migration, which is now being reversed by force.
-
-...
-
-[Data](articles/68e88d0f.json)
 
 ---

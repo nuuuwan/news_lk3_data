@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 21:21:32**
+As of **2025-07-31 21:33:20**
 
 ## Newspaper Stats
 
-*Scraped **68,000** Articles*
+*Scraped **68,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,545
 adaderanalk | 8,406
 tamilmirrorlk | 9,871
 virakesarilk | 11,321
-adaderanasinhalalk | 11,697
+adaderanasinhalalk | 11,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,000 articles have been extended.
+61,973 (91.1%) of 68,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### අමෙරිකානු බදු අඩුකරගැනීමේ සාකච්ඡාවල නවතම තත්ත්වය ගැන කියන හඳුන්නෙත්ති
+
+*2025-07-31 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212883) · `si`
+
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ තීරුබදු ප්‍රතිපත්තිය හෙට සිට ක්‍රියාත්මක වීමට නියමිතව තිබෙන අතර එම තීරුබදු අඩුකරගැනීම සඳහා අමෙරිකාව සමග සිදුකරමින් පවතින සාකච්ඡා මෙතෙක් සාර්ථක වී නොමැති බව කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් ඔහු සඳහන් කර සිටියේ එම සාකච්ඡා සුබවාදීව අවසන් වේයැයි අපේක්ෂා කරන බවයි.
+
+''ඇමරිකා එක්සත් ජනපදය වුණත් ඉතාම හොඳ මට්ටමකට සාකච්ඡා සම්පූර්ණ වෙලා නැහැ. අපි බලාපොරොත්තු වෙනවා සුබවාදීව ඉවර වෙයි කියලා. ඒ වගේම අපි රජය හදන ආර්ථික ඉලක්ක ජනතාව අතර බෙදා හදාගෙන ජන සහභාගීත්වයෙන් ඒ ඉලක්ක සම්පූර්ණ කරගැනීම තමයි අපේ අරමුණ''
+
+ලොව රටවල් 100කට ආසන්න සංඛ්‍යාවක් ඉලක්ක කරගනිමින් අමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පසුගිය පසුගිය අප්‍රේල් දෙවැනිදා අන්‍යෝන්‍ය තීරුබදු හඳුන්වාදෙනු ලැබුවේය.
+
+මෙහිදී දෙරට අතර සියයට 88ක වෙළෙඳ හිඟයක් පවතින බවට සඳහන් කරමින් ශ්‍රී ලංකාවට සියයට 44ක් තීරුබදු පැනවූයේ ඉහළ තීරුබදුවලට ලක්වූ මුල් රටවල් 10 අතරට ශ්‍රී ලංකාව ද ඇතුළත් කරමිනි.
+
+...
+
+[Data](articles/9b6d6788.json)
+
+---
 
 ### අගෝස්තු මාසයට අදාළව ඉන්ධන මිල ගැන ගත් තීරණය මෙන්න
 
@@ -1781,29 +1801,5 @@ Sri Lanka briefed Japan, Co-Chair of the Official Creditor Committee (OCC), on i
 ...
 
 [Data](articles/9fe233cb.json)
-
----
-
-### Second Kumbal Perahera of Kandy Esala Festival to take to the streets tonight
-
-*2025-07-31 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111032/second-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
-
-The second Kumbal Perahera of the Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (31).
-
-The Kumbal Perahera will commence from the Kandy Temple of the Tooth Relic at 7.05 p.m. tonight.
-
-The first Kumbal Perahera of this year’s Kandy Esala Festival paraded through the streets last night (30), and a large crowd gathered to witness it, Ada Derana reporter said.
-
-The Kumbal Perahera will continue for five consecutive days, from July 30 to August 03, before the commencement of the Randoli Perahera, which is scheduled to take to the streets on August 4.
-
-The grand Randoli Perahera will take place on Poya Day, which falls on August 8.
-
-The traditional Diya-Kepuma Mangallaya (water-cutting ceremony) will take place on August 9 in the Mahaweli River waters in Getambe.
-
-A Day Perahera will be held on August 9, concluding this year’s Kandy Esala Perahera festival, the most revered religious event in Sri Lanka.
-
-◼️
-
-[Data](articles/271e2381.json)
 
 ---

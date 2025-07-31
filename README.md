@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-07-31 17:51:58**
+As of **2025-07-31 18:09:08**
 
 ## Newspaper Stats
 
-*Scraped **67,961** Articles*
+*Scraped **67,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,539
 adaderanalk | 8,394
 tamilmirrorlk | 9,870
 virakesarilk | 11,305
-adaderanasinhalalk | 11,693
+adaderanasinhalalk | 11,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.2%) of 67,961 articles have been extended.
+61,973 (91.2%) of 67,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-07-31 (Thursday)
+
+### ප්‍රේමලාල් ජයසේකරට මරණ දඬුවම  ලබාදෙන්නැයි ඉල්ලා ගොනු කළ  අභියාචනයක් විභාගයට අවසර
+
+*2025-07-31 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212878) · `si`
+
+2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ එවක ජනාධිපති අපේක්ෂක මෛත්‍රිපාල සිරිසේන මහතාගේ කහවත්තේ පැවති දේශපාලන රැලියකට වෙඩි ප්‍රහාරයක් එල්ල කර ශාන්ත දොඩංගොඩ නමැත්තෙකු වෙඩි තබා මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි හිටපු අමාත්‍ය ප්‍රේමදාල් ජයසේකර( චොකා මල්ලි )මහතා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකු නිදොස් කොට නිදහස් කරමින් අභියාචනාධිකරණය දුන් තීන්දුව බල රහිත කරන ලෙස ඉල්ලා ගොනු කෙරුණු අභියාචනා පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද අවසර ලබා දුන්නේය.
+
+මෙම සිද්ධියෙන් අගතියට පාර්ශවය විසින් අදාල අභියාචනා පෙත්සම ශ්‍රේෂ්ඨාධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+
+එම පෙත්සම අද සලකා බැලීමෙන් අනතුරුව ජනක් ද සිල්වා, ප්‍රියන්ත ප්‍රනාන්දු සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+
+ඉන් අනතුරුව පෙත්සම් විභාගය පෙබරවාරි මස 13 වනදා දක්වා කල් තැබිණි.
+
+මෙම පෙත්සම ඉදිරිපත් කළ අගතියට පත් පාර්ශවය සඳහන් කර සිටින්නේ ප්‍රේමලාල් ජයසේකර ඇතුළු විත්තිකරුවන් නිදොස් කොට නිදහස් කරමින් අභියාචනාධිකරණය දුන් තීන්දුව නීතියට පටහැනි බවය.
+
+...
+
+[Data](articles/442b9304.json)
+
+---
 
 ### වසර 127කට පසු ඉන්දියාවට ලැබුණු බෞද්ධ උරුමය
 
@@ -1817,27 +1837,5 @@ Cargills Bank was also asked to raise capital through ‘market mechanisms’ to
 ...
 
 [Data](articles/3a5a0a4d.json)
-
----
-
-### 34 arrested in connection with bribery incidents in first half of year
-
-*2025-07-31 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111028/34-arrested-in-connection-with-bribery-incidents-in-first-half-of-year) · `en`
-
-A total of 34 individuals have been arrested in connection with incidents of soliciting bribes in the first six months of this year (2025).
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) stated that 3,022 complaints were received between January 01 and June 30 of this year.
-
-During that period, 54 raids were carried out, resulting in the arrest of 34 suspects.
-
-It was also stated that among the suspects are ten officers from the Sri Lanka Police, five officers from the Ministry of Justice, two officers from the Ministry of Health, and two officers from the Sri Lanka Transport Board (SLTB).
-
-Additionally, the CIABOC stated that six civilians were also arrested in the first six months of this year in connection with bribery incidents.
-
-During the time elapsed this year, 50 cases have been filed against 60 suspects in various courts across the island in connection with bribery incidents.
-
-...
-
-[Data](articles/d65edb1d.json)
 
 ---

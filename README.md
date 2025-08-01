@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 00:51:36**
+As of **2025-08-02 01:05:47**
 
 ## Newspaper Stats
 
-*Scraped **68,178** Articles*
+*Scraped **68,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 699
 islandlk | 4,159
-economynextcom | 4,168
+economynextcom | 4,176
 dailymirrorlk | 4,733
-dailyftlk | 4,817
+dailyftlk | 4,821
 adalk | 6,557
 adaderanalk | 8,433
 tamilmirrorlk | 9,889
@@ -26,11 +26,71 @@ adaderanasinhalalk | 11,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,178 articles have been extended.
+61,973 (90.9%) of 68,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### Sajith and Harsha weigh in on US tariff reduction
+
+*2025-08-02 00:47:57* · [`dailyftlk`](https://www.ft.lk/news/Sajith-and-Harsha-weigh-in-on-US-tariff-reduction/56-779808) · `en`
+
+Opposition leader Sajith Premadasa urges Government to field team of trade economists and experienced negotiators to bring tariff down to 15%
+
+SJB MP Dr. Harsha de Silva glad US tariff is down to 20%, calls for serious work to build bridges with the world
+
+Main Opposition party Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa yesterday welcomed the United States’ decision to reduce tariffs on Sri Lankan exports to 20%. In a message posted on X, he argued that Sri Lanka should push for a further reduction to 15% to boost its export competitiveness. “This puts us on par with Vietnam and Bangladesh, while India pays 25%,” he said. “A rate under 15% would give our exporters a real lift. We should field a team of trade economists and experienced negotiators to keep pressing forward.”
+
+...
+
+[Data](articles/d70bf6dc.json)
+
+---
+
+### BASL flags delay in appointing RTI Commission Chair
+
+*2025-08-02 00:45:29* · [`dailyftlk`](https://www.ft.lk/news/BASL-flags-delay-in-appointing-RTI-Commission-Chair/56-779807) · `en`
+
+The Bar Association of Sri Lanka (BASL) yesterday sent a reminder to the Speaker of Parliament, who also serves as the Chairman of the Constitutional Council, regarding the long-pending appointment of the Chairman of the Right to Information (RTI) Commission.
+
+The BASL highlighted that the position has remained vacant for a considerable period and urged the Speaker to take serious cognisance of the matter and nominate the remaining member needed to fully constitute the RTI Commission.
+
+...
+
+[Data](articles/c3b729ac.json)
+
+---
+
+### UNP seeks clarity on US trade commitments
+
+*2025-08-02 00:45:14* · [`dailyftlk`](https://www.ft.lk/news/UNP-seeks-clarity-on-US-trade-commitments/56-779806) · `en`
+
+The United National Party (UNP) welcomed the recent Executive Order by US President Donald Trump that further reduces reciprocal tariffs on Sri Lankan goods. In a statement, the party commended the Sri Lankan Government and its negotiating team for concluding the discussions successfully.
+
+It pointed out that the order states that some trading partners “have agreed to, or are on the verge of agreeing to, meaningful trade and security commitments with the United States.” Section 2(b) specifies that the countries listed in Annex 1 will continue to face additional duties until formal agreements are signed and further orders are issued. In light of this, the UNP has called on the Government to clarify the nature of the commitments made. It urged officials to publish a detailed explanation of the agreements referenced in the order, including their scope and implications for Sri Lanka’s trade and security relationship with the United States.
+
+◼️
+
+[Data](articles/f312df5f.json)
+
+---
+
+### Intex Sri Lanka 2025 showcases  South Asian textile and apparel industry
+
+*2025-08-02 00:44:25* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2025-showcases-South-Asian-textile-and-apparel-industry/34-779805) · `en`
+
+It will also attract participants from ASEAN, MENA, and Europe
+
+AI, digital tech and other innovations for a greener industry to be showcased at the expo
+
+South Asia’s annual textiles sourcing show, Intex Sri Lanka 2025, will be held from 6-8 August in Colombo. This is the 17th edition of the yearly event that bridges Sri Lanka’s world-renowned manufacturing strength with global textile producers and technology leaders. Since its debut in 2015, the show has become a strategic sourcing calendar event for buyers and industry leaders from across South Asia, ASEAN, MENA, and Europe. From fibres to fashion, processing to packaging, Intex delivers the full textile value chain, and this year, it’s taking it all a notch higher, the organisers of the event said in a statement.
+
+...
+
+[Data](articles/f74dd7e0.json)
+
+---
 
 ### Why deportations, border and immigration controls in Global North?
 
@@ -580,6 +640,68 @@ Although his 90-day detention period was scheduled to end on August 4, the inves
 
 ---
 
+### Sri Lanka to facilitate imports from the US, anti-graft helps reduce Trump tariffs
+
+*2025-08-01 18:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-facilitate-imports-from-the-us-anti-graft-helps-reduce-trump-tariffs-234197/) · `en`
+
+ECONOMYNEXT – Sri Lanka will facilitate more imports from the United States to reduce a trade deficit and also make it easier for American firms to do business in the country, Treasury Secretary Harshana Suriyapperuma said.
+
+Sri Lanka negotiated a reduction of the Trump tariff from 44 to 20 percent in two levels.
+
+Sri Lanka has achieved the first objective of maintaining competition position with other exporting nations, Suriyapperuma who led the negotiations said.
+
+Sri Lanka’s strategy to reduce corruption and help clear a path for companies to do business in the island had gone a long way to reduce the tariff, he said.
+
+Due to non-disclosure rules Sri Lanka cannot immediately release all areas that are under discussion, but the country has been as open as possible, he said.
+
+...
+
+[Data](articles/caca6da0.json)
+
+---
+
+### JAAF thanks negotiators, Sri Lanka envoy in Washington for tariff resolution
+
+*2025-08-01 18:56:00* · [`economynextcom`](https://economynext.com/jaaf-thanks-negotiators-sri-lanka-envoy-in-washington-for-tariff-resolution-234205/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Joint Apparel Association Forum has issued a statement, appreciating the negotiating team and the role of Ambassador Mahinda Samarasighe in bringing down a Trump tariff to levels of competitors.
+
+“Sri Lanka’s rate aligns closely with other key apparel exporting nations in the region, including
+
+Bangladesh, Cambodia, Vietnam, Indonesia, and Pakistan,” JAAF said in a statement.
+
+“This parity ensures a level playing field and preserves the competitiveness of Sri Lanka’s apparel industry in the key US market.
+
+JAAF said it appreciated the efforts of President Anura Kumara Dissanayake and negotiating team led by Treasury Secretary, Harshana Suriyapperuma.
+
+“Special thanks also to Ambassador Mahinda Samarasinghe Sri Lanka’s Ambassador in the USA, for the invaluable role he played in the negotiations from Washington,” the JAAF said.
+
+“His ongoing diplomatic engagement and advocacy were pivotal in facilitating constructive dialogue with the US stakeholders.
+
+...
+
+[Data](articles/fcef152b.json)
+
+---
+
+### Ceylon Chamber commends Sri Lanka negotiators after tariff reduction
+
+*2025-08-01 18:55:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-commends-sri-lanka-negotiators-after-tariff-reduction-234207/) · `en`
+
+ECONOMYNEXT – Ceylon Chamber of Commerce has commended the Sri Lanka negotiating team for reducing a Trump tariff to 20 percent.
+
+“While this is clear progress reflecting the value of sustained engagement and strategic diplomacy, it is now important to use this window of opportunity to work towards a long-term arrangement that ensures more stable and competitive market access for our exporters”, Krishan Balendra, Chairman said in a statement
+
+“We appreciate the efforts of the officials involved for their proactive and strategic efforts, particularly in engaging with the U.S. Government and the Office of the United States Trade Representative (USTR) to secure this positive result.”
+
+The Ceylon Chamber of Commerce commends the Government of Sri Lanka and the national negotiation team on the successful outcome of recent discussions with the United States, which led to a further reduction in the reciprocal tariff rate – from 30% to 20% – on Sri Lankan exports.
+
+...
+
+[Data](articles/04a1067e.json)
+
+---
+
 ### ලොකු ලුණු ගොවියාගෙන් ආණ්ඩුවට දෝස්මුරයක්
 
 *2025-08-01 18:54:51* · [`adalk`](https://www.ada.lk/picture_story/ලොකු-ලුණු-ගොවියාගෙන්-ආණ්ඩුවට-දෝස්මුරයක්/10-417659) · `si`
@@ -842,6 +964,30 @@ Thus, members of the public are advised to stay hydrated, take breaks in the sha
 
 ---
 
+### Sri Lanka rupee stronger against dollar, bonds steady after initial run
+
+*2025-08-01 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-after-initial-run-234195/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.20/30 to the US dollar in the spot market Thursday, stronger from 302.10/20 the previous day, while bond yields held broadly steady after the initial run, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.00/10percent, down from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.40/45 percent, down from 8.45/55 percent.
+
+A bond maturing on 15.10.2028 closed at 8.75/85 percent, down from 8.97/9.02 percent.
+
+A bond maturing on 15.12.2029 closed at 9.35/40 percent, down from 9.50/54 percent.
+
+A bond maturing on 15.12.2032 closed at 10.23/26 percent, down from 10.38/42 percent.
+
+A bond maturing on 01.11.2033 closed at 10.62/65 percent, down from 10.75/82 percent. (Colombo/Aug1/2025)
+
+◼️
+
+[Data](articles/18ff7518.json)
+
+---
+
 ### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා සහ බලශක්ති අමාත්‍යවරයා අතර හමුවක්
 
 *2025-08-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212907) · `si`
@@ -910,6 +1056,26 @@ The new Executive Order states that “some trading partners have agreed to, or 
 
 ---
 
+### Sri Lanka’s top 100 brands increased in value to Rs559.4bn: Brand Finance
+
+*2025-08-01 16:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-100-brands-increased-in-value-to-rs559-4bn-brand-finance-234164/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 100 most valuable brands have increased in value and now hold a combined brand value of 559.4 billion rupees, according to a ranking by Brand Finance.
+
+“The upward trend signals that confidence is returning, and market activity is normalising, underpinned by stronger macro fundamentals and the acceleration of digital transformation across leading corporates,” the brand valuation consultancy said.
+
+Banking has emerged as the best performing sector this year with Bank of Ceylon crowned Sri Lanka’s most valuable brand in 2025.
+
+Commercial Bank and Dialog secured second and third most valuable brand positions.
+
+COLOMBO, 1 August 2025 – Sri Lanka’s 100 Most Valuable Brands have increased in value and now holds a combined brand value of LKR559.4 billion in 2025, according to the Sri Lanka 100 2025 ranking by Brand Finance, the world’s leading brand valuation consultancy.
+
+...
+
+[Data](articles/f920033b.json)
+
+---
+
 ### காசாவில் 60000 பேர் கொல்லப்பட்டுள்ளனர் - அவர்களில் 18500 பேர் சிறுவர்கள் - பெயர் விபரங்களை வெளியிட்டது வோசிங்டன் போஸ்ட்
 
 *2025-08-01 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/221542) · `ta`
@@ -962,6 +1128,24 @@ As Sri Lanka grapples with its fragile economic recovery, the latest outcome of 
 
 ---
 
+### Sri Lanka court extends block on winding up SriLankan Airlines till Sept 03
+
+*2025-08-01 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-court-extends-block-on-winding-up-srilankan-airlines-till-sept-03-234180/) · `en`
+
+ECONOMYNEXT – A Sri Lanka court has extended an enjoining order preventing SriLankan Airlines being wound up over a bond default till September 03.
+
+Representatives acting for the Trustees of the bond had earlier demanded full payment of 209 million dollars on defaulted 175 million dollar bond and interest and indicated that they would seek to wind up SriLankan Airlines.
+
+Lawyers for SriLankan Arilines told court that under Sri Lanka company law, the representatives acting for bondholders have no standing to wind up the airline, and the government was in negotiations with the bondholders.
+
+Romesh de Silva, President counsel with manjuka Fernandopulle and Niran Anketell  instructed by Sanath Wijewardena appeared for Sri Lankan Airlines. (Colombo/Aug01/2025)
+
+◼️
+
+[Data](articles/c9389019.json)
+
+---
+
 ### பல மாகாணங்களுக்கு கடும் மின்னல் தாக்கம் தொடர்பில் எச்சரிக்கை
 
 *2025-08-01 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221543) · `ta`
@@ -1001,6 +1185,28 @@ This is not the end of the story, Stephen Brown of Capital Economics said in a c
 ...
 
 [Data](articles/55595bf1.json)
+
+---
+
+### Sri Lanka stocks boosted by tariff reduction, banks and financials draw investors
+
+*2025-08-01 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-boosted-by-tariff-reduction-banks-and-financials-draw-investors-234170/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday after US President Donald Trump announced a reduction in the applicable tariff rate for exports.
+
+The ASPI rose 1.38 percent, or 271.77 points, to 19,914.25, and the S&P SL20 rose 2.34 percent, or 134.92 points, to 5,897.09.
+
+“Market rose on the news of the tariffs,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+“There was investor confidence coming from that, but the market moved primarily on banks and diversified financials stocks.”
+
+There was a lot of interest in export stocks too, especially Dipped Products, which closed 2.90 rupees up at 63.90.
+
+Stocks that saw the most active volumes traded were Hayleys Fabric which was up 2.60 rupees at 48.00, Hayleys which was up 6.50 rupees at 194.00, Hela Apparel which was up 20 cents at 3.70 rupees, and Teejay which was up 50 cents at 48.60 rupees.
+
+...
+
+[Data](articles/e7fb01e6.json)
 
 ---
 
@@ -1386,6 +1592,28 @@ The Quantity of Purchases Index recorded 57.1 in June, compared to 56.9 in May.
 
 ---
 
+### Sri Lanka stocks rise 1.2-pct on tariff news
+
+*2025-08-01 12:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-1-2-pct-on-tariff-news-234138/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange was trading up on Friday following US President Donald Trump’s announcement of a reduced tariff rate of 20 percent on goods exports.
+
+The ASPI was trading up 1.29 percent, or 253.20 points, at 19,895.68 while the S&P SL20 was up 2.24 percent, or 128.86 points, at 5,891.03.
+
+Stocks that saw active volumes traded included several export companies; Hela Apparel was up 30 cents at 3.80 rupees, Dipped Products was up 3.10 rupees at 64.10, and Hayleys Fabric was up 2.80 rupees at 48.20.
+
+Hayleys Fibre, which exports coconut fiber and coir-based products, was trading up 2.20 rupees at 53.50.
+
+However, Royal Ceramics which also exports floor and wall tiles, bathware, and sanitaryware to the USA, was trading down 10 cents at 42.80 rupees.
+
+Sri Lanka got a 20 percent tariff in a slew of revised rates announced by President Donald Trump through an executive order late Thursday.
+
+...
+
+[Data](articles/01612182.json)
+
+---
+
 ### கிண்ணியா மீன் சந்தையில் சுகாதார ஒழுங்குமுறை நடவடிக்கை ; பாவனைக்கு உதவாத மீன்கள் அழிப்பு!
 
 *2025-08-01 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221525) · `ta`
@@ -1633,233 +1861,5 @@ LPL 2025 இன் நேரம், 2026 ஐசிசி ஆண்கள் ட�
 ◼️
 
 [Data](articles/3422fbfc.json)
-
----
-
-### கொழும்பில் திருட்டு பொருட்களுடன் இருவர் கைது!
-
-*2025-08-01 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/221513) · `ta`
-
-கொழும்பு - கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் ஹெரோயின் வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று வியாழக்கிழமை (31) கொழும்பு வடக்கு குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபரிடம்  மேற்கொள்ளப்பட்ட விசாரணைகளின் அடிப்படையில், சந்தேக நபரின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் பல கையடக்க தொலைபேசிகள் மற்றும் மடிக்கணினிகள் கைப்பற்றப்பட்டுள்ளன.
-
-கைது செய்யப்பட்டவர்கள், 41 மற்றும் 64 வயதுடைய சேதவத்தை பகுதியைச் சேர்ந்தவர்கள் ஆவர்.
-
-சந்தேக நபர்களிடமிருந்து 18 கையடக்க தொலைபேசிகள் , 02 மடிக்கணினிகள், 01 டெப் , ஒரு பாலிஷர் இயந்திரம், 05 கிரைண்டர்கள் மற்றும் 03 கிரில் இயந்திரங்கள் உள்ளிட்ட பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
-
-இந்த சம்பவம் குறித்து மேலதிக விசாரணைகளை கொழும்பு வடக்கு பிரிவு குற்றப் புலனாய்வுப் பணியகம் மேற்கொண்டு வருகிறது.
-
-◼️
-
-[Data](articles/733d4196.json)
-
----
-
-### 25 எம்.பிக்கள் 100முன்னாள் எம்.பிகளுக்கு எச்சரிக்கை கடிதம்
-
-*2025-08-01 11:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-எம்-பிக்கள்-100முன்னாள்-எம்-பிகளுக்கு-எச்சரிக்கை-கடிதம்/175-362161) · `ta`
-
-லஞ்சம் அல்லது ஊழல் பற்றிய சாத்துதல்களை புலனாய்வு செய்யும் ஆணையத்தின் அறிவிப்பின்படி, சொத்து மற்றும் பொறுப்பு அறிவிப்புகளை சரியான நேரத்தில் சமர்ப்பிக்கத் தவறிய 25 பாராளுமன்ற உறுப்பினர்களுக்கும், கிட்டத்தட்ட நூறு முன்னாள் பாராளுமன்ற உறுப்பினர்களுக்கும் சபாநாயகர் டாக்டர் ஜகத் விக்ரமரத்ன எச்சரிக்கை கடிதங்களை அனுப்பியுள்ளார்.
-
-சொத்து மற்றும் பொறுப்புச் சட்டத்தின்படி, ஒவ்வொரு பாராளுமன்ற உறுப்பினரும் ஒவ்வொரு ஆண்டும் மார்ச் 31 ஆம் திகதி வரை வைத்திருக்கும் அனைத்து சொத்துக்களின் விவரங்களையும் ஒவ்வொரு ஆண்டும் ஜூன் 30 ஆம் திகதிக்கு முன்னர் சபாநாயகரிடம் சமர்ப்பிக்க வேண்டும்.
-
-இதற்கிடையில், ஜூன் 30 ஆம் திகதிக்குள் சொத்து மற்றும் பொறுப்பு அறிவிப்புகளைச் சமர்ப்பிக்கத் தவறிய பாராளுமன்ற உறுப்பினர்களுக்கு அபராதம் விதிக்கப்படும் என்றும், ஜூலை 1 முதல் ஆகஸ்ட் 31 வரை சொத்து மற்றும் பொறுப்பு அறிவிப்புகளைச் சமர்ப்பிக்கத் தவறிய பாராளுமன்ற உறுப்பினர்களுக்கு அபராதம் விதிக்கப்படும் என்றும் பாராளுமன்ற வட்டாரங்கள் தெரிவித்தன
-
-◼️
-
-[Data](articles/5c0ab186.json)
-
----
-
-### அழகான பெண்களின் படங்களை ஏற்றிய டொப்பியாவுக்கு சிறை
-
-*2025-08-01 11:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழகான-பெண்களின்-படங்களை-ஏற்றிய-டொப்பியாவுக்கு-சிறை/175-362160) · `ta`
-
-அழகான பெண்களின் புகைப்படங்களைக் காட்சிப்படுத்தி, ஆபாசக் கதைகளைப் பரப்பிய யூடியூப் சேனலை நடத்தியதற்காக கடுவெல பகுதியைச் சேர்ந்த ஒருவருக்கு ஐந்து ஆண்டுகளுக்கு ஒத்திவைக்கப்பட்ட ஆறு மாத சிறைத்தண்டனையை கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க வியாழக்கிழமை (31) விதித்தார்.
-
-குற்றப் புலனாய்வுத் துறையின் கணினி குற்றப் புலனாய்வுப் பிரிவினால் தாக்கல் செய்யப்பட்ட வழக்கில் பிரதிவாதியாக இருந்த திமுத்து சாமர (டோபியா) என்ற நபருக்கு ஐந்து ஆண்டுகளுக்கு ஒத்திவைக்கப்பட்ட ஆறு மாத சிறைத்தண்டனை விதிக்கப்பட்டது.
-
-கொழும்புப் பகுதியில் உள்ள பாடசாலை ஆசிரியர் ஒருவர் அளித்த புகாரின் அடிப்படையில், கணினி குற்றப் புலனாய்வுப் பிரிவு இந்த வழக்கைத் தாக்கல் செய்தது.
-
-ஆபாசக் கதைகளை ஒளிபரப்பும் யூடியூப் சேனலில் தனது புகைப்படம் ஒளிபரப்பப்படுவதாக ஆசிரியை அளித்த புகாரின் அடிப்படையில் மூன்று குற்றச்சாட்டுகளின் கீழ் இந்த வழக்குத் தொடரப்பட்டது
-
-◼️
-
-[Data](articles/143057a2.json)
-
----
-
-### එස් එම් චන්ද්‍රසේනට ඇප
-
-*2025-08-01 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212892) · `si`
-
-රක්ෂිත බන්ධනාගාර ගතව සිටි හිටපු අමාත්‍ය එස්. එම් චන්ද්‍රසේන මහතා ඇප මත මුදාහරිණ ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (1) නියම කළේය.
-
-2014 වසරේ දී අනුරාධපුර දිස්ත්‍රික්කයේ දිළිඳු ගොවීන් සඳහා සහනදායි මිල ගණන් යටතේ බෙදාදීමට රුපියල් මිලියන 25ක මුදලක් වැයකර මිලදී ගනු ලැබූ බඩඉරිඟු බීජ, නීත්‍යානුකූල ක්‍රමවේදයට පටහැනිව එම වසරේ පැවැති ජනාධිපතිවරණයේදී තමන්ට වාසියක් අත්කර ගැනීමේ අරමුණින් තම හිතවතුන් හා ආධාරකරුවන් අතර බෙදාහැරීම තුළින් 'දූෂණය' නැමති වරද සිදුකළේ යැයි චෝදනා කරමින් ඔහු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටියේය.
-
-අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී මහත්මිය විසින් මෙම නියෝගය නිකුත් කළේය.
-
-මෙම පැමිණිල්ල කැදවූ අවස්ථාවේදී අල්ලස් කොමිසමේ නිලධාරීනිය අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට අදාළ විමර්ශන බොහෝ දුරට අවසන් වී ඇතැයි සඳහන් කළාය.
-
-කෘෂිකර්ම නිලධාරීන් කිහිප දෙනෙකුගෙන් ප්‍රකාශ සටහන් කර ගැනීමට නියමිතව තිබෙන බවත්, ඒ අනුව සුදුසු නියෝගයක් නිකුත් කරන ලෙසත් ඉල්ලා සිටියේය.
-
-...
-
-[Data](articles/de6c1a1d.json)
-
----
-
-### Former Minister S.M. Chandrasena granted bail
-
-*2025-08-01 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111065/former-minister-sm-chandrasena-granted-bail) · `en`
-
-Former Minister S.M. Chandrasena has been granted bail after being produced before the Colombo Chief Magistrate’s Court today (01).
-
-Colombo Chief Magistrate Thanuja Lakmali issued the bail order after considering the facts presented by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the defense counsel.
-
-At the hearing, a Bribery Commission officer informed the court that the investigation into the matter is nearing completion. The officer also stated that statements are yet to be recorded from several agriculture officers, and requested an appropriate order to proceed accordingly.
-
-Appearing on behalf of the suspect, Attorney-at-Law Chaminda Athukorala stated that the former minister has fully cooperated with the investigation and that there have been no allegations of witness intimidation or interference.
-
-In light of this, the defense requested that bail be granted under suitable conditions.
-
-...
-
-[Data](articles/268cb1db.json)
-
----
-
-### 14 இலட்சம் ரூபாய் பெறுமதியான தொலைத்தொடர்பு கோபுர பெற்றரிகள் 44 மீட்பு
-
-*2025-08-01 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/14-இலட்சம்-ரூபாய்-பெறுமதியான-தொலைத்தொடர்பு-கோபுர-பெற்றரிகள்-44-மீட்பு/73-362159) · `ta`
-
-பாரிய அளவிலான 44 தொலைத்தொடர்பு கோபுர பெற்றிகள்ரிகளை களுவாஞ்சிக்குடி பொலிஸார் கைப்பற்றியுள்ளதாக களுவாஞ்சுக்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்கா தெரிவித்தார். இச்சம்பவம் தொடர்பாக இருவர் கைது செய்யப்பட்டுள்ளதாகவும் மேலும் அவர் தெரிவித்தார்
-
-கைப்பற்றப்பட்டுள்ள பேட்டரி ஒன்றின் பெறுமதி சுமார் 30,000 என தெரிய வருகிறது இதன்படி சுமார் 14 லட்சம் ரூபாய் பெறுமதியான பெற்றரிகளே இவ்வாறு கைப்பற்றப்பட்டுள்ளன
-
-பெரியபோரதீவு  தொலைத்தொடர்பு கோபுரத்திலிருந்து திருடப்பட்ட 24 பெற்றரிகளும் சம்மமாந்துறை தொலைதொடர்பு கோபுரங்களிலிருந்து திருடப்பட்ட 20 பெற்றரிகளும் கிடைக்கப் பற்ற தகவல் ஒன்றின் அடிப்படையில் கைப்பற்றப்பட்டுள்ளன
-
-பொலிஸாரினால் மீட்கப்பட்டுள்ள பெற்றரிகளும்  குறித்த சந்தேக நபர்களும் களுவாஞ்சிக்குடி சுற்றுலா நீதிமன்றத்தில் ஆஜர் படுத்த நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும் பொலிஸ் நிலைய பொறுப்பதிகாரி மேலும் தெரிவித்தார்
-
-◼️
-
-[Data](articles/b2ff4f25.json)
-
----
-
-### தர்மசக்கரம் விவகாரம்
-
-*2025-08-01 11:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தர்மசக்கரம்-விவகாரம்/62-362158) · `ta`
-
-தர்மசக்கரம் விவகாரம் தொடர்பில் எமது சகோதர பத்திரிக்கையான அத பத்திரிக்கையில் வெளியான சிந்தனை சித்திரம்
-
-◼️
-
-[Data](articles/f237f350.json)
-
----
-
-### யாழில் குடும்பஸ்தர் தற்கொலை
-
-*2025-08-01 11:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-குடும்பஸ்தர்-தற்கொலை/71-362157) · `ta`
-
-யாழ்ப்பாணத்தில் கொடுக்கல் வாங்கல் பிரச்சினை காரணமாக குடும்பஸ்தர் ஒருவர்  தவறான முடிவெடுத்து உயிரிழந்துள்ளார்.
-
-கோப்பாய் - கட்டைப்பிராய் பகுதியைச் சேர்ந்த சுந்தரம் கோணேஸ்வரன் (66) என்பவரே சம்பவத்தில் உயிரிழந்துள்ளார்.
-
-கொடுக்கல் வாங்கல் பிரச்சினை காரணமாக மனவிரக்தி அடைந்த அவர், கடந்த 30ஆம் திகதி தூக்கில் தொங்கி உயிரை மாய்த்துக் கொண்டார்.
-
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார்.
-
-◼️
-
-[Data](articles/09a87897.json)
-
----
-
-### Trump ended 6 conflicts, including India-Pak, deserves Nobel Prize: White House official
-
-*2025-08-01 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111064/trump-ended-6-conflicts-including-india-pak-deserves-nobel-prize-white-house-official) · `en`
-
-White House Press Secretary Karoline Leavitt said Trump has ended six conflicts, including those between Israel and Iran and India and Pakistan, adding that “it is well past time that Trump should be awarded the Nobel Peace Prize”.
-
-“President Trump has now ended conflicts between Thailand and Cambodia, Israel and Iran, Rwanda and the Democratic Republic of Congo, India and Pakistan, Serbia and Kosovo, and Egypt and Ethiopia,” Karoline Leavitt said.
-
-“This means that President Trump has brokered on average one peace deal or ceasefire per month during his six months in office. It is well past time that the President Trump be awarded the Nobel Peace Prize,” she added.
-
-Trump has repeatedly claimed brokering ceasefire between India and Pakistan in May after New Delhi launched Operation Sindoor against Islamabad’s terror infrastructure. However, India has refuted the claims made by the US President.
-
-...
-
-[Data](articles/0dc5e8ac.json)
-
----
-
-### Sri Lanka rupee depreciates amid record current account surplus : analysis
-
-*2025-08-01 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-amid-record-current-account-surplus-analysis-234065/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee had depreciated from 295 to 300 from February to June 2025 amid record current account surpluses, central bank data shows, though macro-economists in the age-of-inflation usually claim that current account deficits are to blame for depreciation.
-
-Sri Lanka ran external current account surpluses of 1,495 million dollars from January to June 2025 but the rupee started to depreciate from February.
-
-In February there was a 360 million dollar surplus in the current account, and in March 472 million dollars, when the rupee fell further.
-
-Macro-economists who started to print money to suppress rates and run full employment policies claiming that inflation pushed growth, denying stability for economic agents to work, started to claim in the 1960s in particular that current account deficits were the reason that exchange rates depreciated and not their inflationism.
-
-...
-
-[Data](articles/7a093920.json)
-
----
-
-### Sri Lanka rupee opens stronger, bonds yields down amid Trump tariff cut
-
-*2025-08-01 10:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-yields-down-amid-trump-tariff-cut-234071/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.85/95 to the US dollar in the spot market Friday from 302.10/20 the previous day, while the bond yields were down after a reduction of the Trump tariff to 20 percent from 30, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.00/10 percent, down from 8.10/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.35/45 percent, down from 8.45/55 percent.
-
-A bond maturing on 15.10.2028 was quoted at 8.75/85 percent, down from 8.97/9.02 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.37/43 percent, down from 9.50/54 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.55/65 percent.
-
-A bond maturing on 15.03.2031 was quoted at 9.85/95 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.22/27 percent, down from 10.38/42 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.60/68 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/80 percent.
-
-...
-
-[Data](articles/2f5f585e.json)
-
----
-
-### “Heartily pleased” – MP Harsha thanks all who contributed to US tariff relief
-
-*2025-08-01 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111063/heartily-pleased-mp-harsha-thanks-all-who-contributed-to-us-tariff-relief) · `en`
-
-SJB Member of Parliament Dr. Harsha de Silva has welcomed the decision by the United States to reduce the tariff rate on Sri Lankan goods to 20%, describing it as a significant victory for the country’s export sector.
-
-Expressing his satisfaction, Dr. de Silva stated he is “heartily pleased” with the development.
-
-In a statement, Dr. de Silva expressed his appreciation for the efforts made both publicly and behind the scenes to secure this concession, which he believes will help Sri Lanka maintain its regional competitiveness in global markets.
-
-“The reduction of the tariff rate imposed by the United States on Sri Lankan goods to 20% is a victory and will enable us to further maintain the regional competitiveness of our exports,” he stated.
-
-He also thanked the United States for recognizing the challenges faced by Sri Lanka as a smaller economy and for extending this trade relief.
-
-...
-
-[Data](articles/fa70eac6.json)
 
 ---

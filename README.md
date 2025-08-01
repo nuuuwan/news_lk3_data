@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 17:06:03**
+As of **2025-08-01 17:18:16**
 
 ## Newspaper Stats
 
-*Scraped **68,128** Articles*
+*Scraped **68,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,553
-adaderanalk | 8,424
+adaderanalk | 8,426
 tamilmirrorlk | 9,884
-virakesarilk | 11,344
-adaderanasinhalalk | 11,721
+virakesarilk | 11,346
+adaderanasinhalalk | 11,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,128 articles have been extended.
+61,973 (91.0%) of 68,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### ජපානය, කොරියාව ඇතුළු රටවල් රැසකට ශ්‍රි ලාංකිකයින්ට රැකියා අවස්ථා
+
+*2025-08-01 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212908) · `si`
+
+ජපානය, දකුණු කොරියාව හා ඊශ්‍රායලය යන රටවල රැකියා අවස්ථා වැඩි වශයෙන් ශ්‍රි ලාංකිකයින්ට ලබාගැනීම සඳහා දැනටමත් අවශ්‍ය පියවර රැසක් ගෙන ඇති බවත් විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා ප්‍රකාශ කළේය.
+
+එසේම නව රජය පත්වීමත් සමග විවිධ ක්ෂේත්‍රවලට දේශපාලනමය මැදිහත්වීමක් සිදුනොවන නිසා පැහැදීමට ලක්වූ දියුණු රටවල් ශ්‍රි ලාංකික ශ්‍රමිකයින්ට නව රැකියා අවස්ථා විවර කරමින් සිටින බවද නියෝජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අංශ කිහිපයක් නව කාර්යාල පරිශ්‍රයක ස්ථාපිත කිරීම නිමිත්තෙන් පැවති උත්සවයකට බත්තරමුල්ලේදී එක්වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය.
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අංශ කිහිපයක් නාරාහෙන්පිට, මෙහෙවර පියස කාර්යාලයේ පවත්වාගෙන ගිය අතර, විගමණික ප්‍රජාවට සිදුවන අපහසුතා සලකා බලා එම අංශ බත්තරමුල්ල, ප්‍රධාන කාර්යාලය ආසන්නයේ පිහිටි ගොඩනැගිල්ලක ස්ථාපිත කරන ලදී.
+
+...
+
+[Data](articles/a78a4f3c.json)
+
+---
+
+### சென்னை பைல்ஸ் முதல் பக்கம் - திரைப்பட விமர்சனம்
+
+*2025-08-01 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221560) · `ta`
+
+நடிகர்கள் :  வெற்றி, ஷில்பா மஞ்சுநாத், தம்பி ராமையா, மகேஷ் தாஸ், ரெடின் கிங்ஸ்லி, சுபத்ரா, அனிகா சுரேந்திரன் மற்றும் பலர்.
+
+சிங்கப்பூரை சேர்ந்த தொழிலதிபரும் , சிங்கப்பூர் நாட்டின் தேசிய ஆணழகன் பட்டத்தை வென்றவருமான மகேஸ்வரன் தேவதாஸ் நடிகராக அறிமுகமாகி இருக்கும் 'சென்னை பைல்ஸ் - முதல் பக்கம்' அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+மதுரையை சார்ந்த குற்ற புலனாய்வு தொடர்பான நாவலை எழுதி பிரபலமான எழுத்தாளர் ஜீவன் குமாரின் வாரிசு பிரபாகரன்( வெற்றி ) - அவருடைய தந்தையை பற்றி பத்திரிக்கையாளர் சுவாதி ( ஷில்பா மஞ்சுநாத்) 'மனிதம்' என்ற அச்சு ஊடகத்திற்கு பத்து வாரத்திற்கு தொடர் ஒன்றை எழுதுகிறார்.
+
+இதற்காக பிரபாகரனும் , சுவாதியும் சென்னையில் சந்தித்துக் கொள்கிறார்கள். இந்நிலையில் சென்னையில் உள்ள காவல் நிலையத்தில் காவல்துறை அதிகாரியாக ராமையா ( தம்பி ராமையா) பணியாற்றி வருகிறார்.
+
+இந்த தருணத்தில் தமிழகத்தின் வெவ்வேறு பகுதியில் பாடசாலையில் பயிலும் மாணவர்களும், மாணவிகளும் மர்மமான முறையில் கொலை செய்யப்படுகிறார்கள்.
+
+...
+
+[Data](articles/8f43c48f.json)
+
+---
 
 ### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා සහ බලශක්ති අමාත්‍යවරයා අතර හමුවක්
 
@@ -63,6 +101,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/61475495.json)
+
+---
+
+### அமெரிக்கா முன்வைத்த திருத்தப்பட்ட பரஸ்பர புதிய வர்த்தக வரி குறித்து ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் மகிழ்ச்சி
+
+*2025-08-01 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221555) · `ta`
+
+ஆகஸ்ட் முதலாம் திகதி முதல் நடைமுறைப்படுத்தப்படும் அமெரிக்காவின் திருத்தப்பட்ட பரஸ்பர ஒத்துப்போகும் வரி கட்டமைப்பின்படி, இலங்கைக்கு விதிக்கப்பட்ட 20% வரி விகிதம் தொடர்பாக, ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் (JAAF) தனது மகிழ்ச்சியை வெளிப்படுத்தியுள்ளது.
+
+இந்த வரி விகிதத்தை மாற்றுவதற்காக, அமெரிக்க வணிக பிரதிநிதிகளுடன் வெற்றிகரமான பேச்சுவார்த்தைகளை நடத்திய ஜனாதிபதி அனுர குமார திசாநாயக்க, நிதி அமைச்சக செயலாளர் கலாநிதி ஹர்ஷன சூரியப்பெரும உள்ளிட்ட அனைத்து அரச அதிகாரிகளுக்கும் JAAF தனது நன்றி மற்றும் பாராட்டுகளை இந்த அறிக்கை மூலம் தெரிவித்துள்ளது.
+
+வொஷிங்டனில் உள்ள இராஜதந்திர குழுவுடன் நடைபெற்ற பேச்சுவார்த்தைகளில் இலங்கைக்கான அமெரிக்கத் தூதுவர் மஹிந்த சமரசிங்க அவர்களின் பங்களிப்புக்கு JAAF சிறப்பு நன்றி தெரிவிக்கிறது.
+
+...
+
+[Data](articles/7035c8b6.json)
+
+---
+
+### UNP commends govt for tariff negotiations, seeks details on US trade deal
+
+*2025-08-01 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111074/unp-commends-govt-for-tariff-negotiations-seeks-details-on-us-trade-deal) · `en`
+
+The United National Party (UNP) has welcomed the recent executive order issued by U.S. President Donald Trump, which further reduces the reciprocal tariff rates on Sri Lankan exports.
+
+In a statement, the UNP commended the Sri Lankan Government and its negotiating team for successfully concluding the relevant negotiations.
+
+“We commend the Government and the negotiating team for successfully concluding the negotiations,” the party said.
+
+The new Executive Order states that “some trading partners have agreed to, or are on the verge of agreeing to, meaningful trade and security commitments with the United States.”
+
+...
+
+[Data](articles/8507a14b.json)
 
 ---
 
@@ -123,6 +195,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/333c10e5.json)
+
+---
+
+### World shares retreat after Trump’s order imposing new tariffs on 68 countries and EU
+
+*2025-08-01 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111072/world-shares-retreat-after-trumps-order-imposing-new-tariffs-on-68-countries-and-eu) · `en`
+
+World shares retreated Friday after President Donald Trump issued a new set of import duties that will apply to dozens of countries as of Aug. 7.
+
+U.S. futures fell 0.9% after Trump announced tariff rates of up to 41% for imports from 68 countries and the European Union. He also said the tariff for products from Canada would rise to 35%, effective Friday.
+
+Investors were looking ahead to U.S. payrolls data due out later in the day.
+
+The order pushed back the tariff deadline earlier set for Aug. 1 and injected a new dose of uncertainty in an already unpredictable process that has been rattling markets since Trump returned to the White House in January.
+
+This is not the end of the story, Stephen Brown of Capital Economics said in a commentary, adding that “this is unlikely to be the final word, as it still seems likely that some other countries will reach their own deals with the U.S., while there is a chance that the U.S. courts will eventually strike down these tariffs.
+
+...
+
+[Data](articles/55595bf1.json)
 
 ---
 
@@ -1757,75 +1849,5 @@ FOUNDATION.LK is a not-for-profit initiative dedicated to empowering Sri Lankans
 ...
 
 [Data](articles/83e3d304.json)
-
----
-
-### National Savings Bank joins hands with ‘Artha’
-
-*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/national-savings-bank-joins-hands-with-artha/) · `en`
-
-The program, implemented by the Ministry of Women and Child Affairs, with the intention of extending a helping hand for the daily needs and education of the children residing in Child Development Centers and Government Childcare Centers, was launched recently at Sethsiripaya, Battaramulla. National Savings Bank (NSB) joined hands with this national course as the Official Banking Partner.
-
-It is expected, through this program, to develop a financial plan to facilitate the educational needs of and sustainable income for the children who come to reside in the center’s on various social and humanitarian grounds. Accordingly, a monthly allowance will be granted for these children, under the program.
-
-...
-
-[Data](articles/01962822.json)
-
----
-
-### CH 17 and The Expertin collaborate to elevate CRM and loyalty solutions in Sri Lanka
-
-*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/ch-17-and-the-expertin-collaborate-to-elevate-crm-and-loyalty-solutions-in-sri-lanka/) · `en`
-
-CH 17 and The Expertin have formalised a strategic partnership to enhance customer relationship management (CRM) and loyalty solutions across a broad range of industries in Sri Lanka. This collaboration brings together two specialised entities with distinct yet complementary expertise in loyalty technology, marketing, business strategy, and digital transformation.
-
-Since its inception in 2013, CH 17 has developed into a recognised leader in loyalty management systems. The company’s platform integrates seamlessly with a variety of third-party technologies, including point-of-sale (POS) systems, CRM platforms, email marketing tools, and SMS gateways. This enables businesses to deliver consistent, data-driven experiences while gaining a comprehensive understanding of customer behaviour.
-
-...
-
-[Data](articles/5d66ec28.json)
-
----
-
-### Rahul Pavithran appointed head of Sales & Marketing at ITC Ratnadipa, Colombo
-
-*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/rahul-pavithran-appointed-head-of-sales-marketing-at-itc-ratnadipa-colombo/) · `en`
-
-Colombo, Sri Lanka – ITC Ratnadipa Colombo has appointed international hospitality professional Rahul Pavithran as Head of Sales & Marketing in a strategic move to strengthen the hotel’s market position. A seasoned professional, Rahul possesses over 17 years of experience in hospitality sales and marketing, demonstrating a proven ability to drive revenue growth, enhance brand presence, and expand market reach. In his new role, he will further strengthen the hotel’s efforts to capitalise on emerging opportunities within Sri Lanka’s competitive luxury hospitality sector.
-
-...
-
-[Data](articles/67dad155.json)
-
----
-
-### Stock market hit by US tariff jitters but day ends on recovery note
-
-*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/stock-market-hit-by-us-tariff-jitters-but-day-ends-on-recovery-note/) · `en`
-
-Stock market investors panicked and the CSE was slightly volatile yesterday due to the US tariff revision on Sri Lankan exports coming into effect today. Consequently the market was a bit down during the initial sessions but later recovered and moved to green territory.
-
-The All Share Price Index went up by 87.03 points, while the S and P SL20 rose by 14.1 points. Turnover, stood at Rs 5.6 billion. Seven crossings that were reported yesterday were; Access Engineering 2.9 million shares crossed to the tune of Rs 174 million; its shares traded at Rs 60, JKH five million shares crossed to the tune of Rs 119 million; its shares traded at Rs 23.80.
-
-...
-
-[Data](articles/b654f3ac.json)
-
----
-
-### அமெரிக்க தீர்வை வரி இன்று முதல் அமுல் – அதனைத் தடுக்கும் முயற்சி தோல்வி: சமன் ரத்னப்பிரிய
-
-*2025-07-31 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221495) · `ta`
-
-அமெரிக்காவினால் இலங்கைக்கு விதிக்கப்பட்டிருக்கும் 30வீத தீர்வை வரி இன்று முதல் அமுலுக்கு வருகின்ற நிலையில், வரியை குறைத்துக்கொள்ள அமெரிக்காவுக்கு சென்ற அரசாங்கத்தின் தூதுக்குழுவினரால் அதனை செய்ய முடியாமல் போயிருக்கிறது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் சமன் ரத்னப்பிரிய தெரிவித்தார்.
-
-கொழும்பில் அமைந்துள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் காரியாலயத்தில் வியாழக்கிழமை (31) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-இலங்கை அமெரிக்காவுக்கு ஏற்றுமதி செய்யும் பொருட்களுக்கான தீர்வை வரியை அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம் நூற்றுக்கு 10 வீதத்தில் இருந்து 44 வீதமாக அதிகரித்திருந்தார். ஜனாதிபதி ட்ரம்பின் இந்த தீர்வை வரி அதிகரிப்பு அனைத்து நாடுகளுக்கும் அதிகரிக்கப்பட்டிருந்தது. என்றாலும் அதிகமான நாடுகள் உடனடியாக செயற்பட்டு, இராஜதந்திர அடிப்படையில் அமெரிக்காவுடன் கலந்துரையாடி, விதிக்கப்பட்டிருந்த தீர்வை வரியை குறைத்துக்கொள்ள நடவடிக்கை எடுத்திருந்தது.
-
-...
-
-[Data](articles/a7bacee3.json)
 
 ---

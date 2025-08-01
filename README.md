@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 15:35:54**
+As of **2025-08-01 15:49:17**
 
 ## Newspaper Stats
 
-*Scraped **68,118** Articles*
+*Scraped **68,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,553
 adaderanalk | 8,422
 tamilmirrorlk | 9,884
 virakesarilk | 11,340
-adaderanasinhalalk | 11,717
+adaderanasinhalalk | 11,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,118 articles have been extended.
+61,973 (91.0%) of 68,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රසංශා
+
+*2025-08-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212904) · `si`
+
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් පනවන ලද නව අන්‍යෝන්‍ය තීරුබදු අනුපාත තවදුරටත් වෙනස් කිරීම සම්බන්ධව එක්සත් ජාතික පක්ෂය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන්ව ඇත්තේ මෙම තීරුබදු අනුපාත තවදුරටත් වෙනස් කිරීම පක්ෂයක් ලෙස එක්සත් ජාතික පක්ෂය පිළිගන්නා බවය.
+
+ඊට අදාළ සාකච්ඡා සාර්ථකව අවසන් කිරීම සම්බන්ධව රජයට සහ සාකච්ඡා කණ්ඩායමට ප්‍රසංශා කරන බවත් එම පක්ෂය නිකුත් කළ නිවේදනයේ සඳහන්ව තිබේ.
+
+ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රසංශා by poornima on Scribd
+
+◼️
+
+[Data](articles/f50f8808.json)
+
+---
 
 ### සවස් කාලයේ දී ප්‍රදේශ කිහිපයකට තද වැසි
 
@@ -257,6 +275,30 @@ This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J
 ...
 
 [Data](articles/3ab5137e.json)
+
+---
+
+### Sri Lanka construction expands in June 2025: PMI
+
+*2025-08-01 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-june-2025-pmi-234096/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector expanded 58.6 in June 2025, compared to 59.7 in May 2025, according to a Purchasing Managers Index compiled by the central bank.
+
+“Many firms attributed this growth to favourable industry conditions, particularly exhibited by the steady increase in project work and stable price levels,” the central bank statement said.
+
+The New Orders Index increased during the month as respondents observed more construction projects being granted, particularly in road infrastructure.
+
+Several firms had reported that negotiations are underway to recommence some of the temporarily halted construction projects.
+
+The Employment Index turned positive and the Quantity of Purchases Index further expanded in June, with the continuous increase in construction work.
+
+The Employment index rose in May, recording 51.4 in June compared to 45.7 in May.
+
+The Quantity of Purchases Index recorded 57.1 in June, compared to 56.9 in May.
+
+...
+
+[Data](articles/7b321497.json)
 
 ---
 
@@ -549,30 +591,6 @@ LPL 2025 இன் நேரம், 2026 ஐசிசி ஆண்கள் ட�
 ◼️
 
 [Data](articles/733d4196.json)
-
----
-
-### Sri Lanka construction expands in June 2025: PMI
-
-*2025-08-01 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-june-2025-pmi-234096/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s construction sector expanded 58.6 in June 2025, compared to 59.7 in May 2025, according to a Purchasing Managers Index compiled by the central bank.
-
-“Many firms attributed this growth to favourable industry conditions, particularly exhibited by the steady increase in project work and stable price levels,” the central bank statement said.
-
-The New Orders Index increased during the month as respondents observed more construction projects being granted, particularly in road infrastructure.
-
-Several firms had reported that negotiations are underway to recommence some of the temporarily halted construction projects.
-
-The Employment Index turned positive and the Quantity of Purchases Index further expanded in June, with the continuous increase in construction work.
-
-The Employment index rose in May, recording 51.4 in June compared to 45.7 in May.
-
-The Quantity of Purchases Index recorded 57.1 in June, compared to 56.9 in May.
-
-...
-
-[Data](articles/7b321497.json)
 
 ---
 
@@ -1791,21 +1809,5 @@ Prime Minister Dr. Harini Amarasuriya, as the Minister of Education, has present
 ◼️
 
 [Data](articles/163874dc.json)
-
----
-
-### India releases first installment of advanced signalling system project on Maho–A’pura Railway Line
-
-*2025-07-31 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111056/india-releases-first-installment-of-advanced-signalling-system-project-on-mahoapura-railway-line) · `en`
-
-The Government of India has released the first installment, amounting to around USD 2.5 Million for the installation of an advanced signalling and telecommunication system along the Maho–Anuradhapura Railway Line.
-
-This marks another key milestone in India–Sri Lanka cooperation in the railway sector, the Indian High Commission in Colombo stated.
-
-The project was jointly launched by President Anura Kumara Dissanayake and Prime Minister of India Narendra Modi during the recent high-level visit in April 2025. Initially envisaged as a Line of Credit (LoC) project at a cost of USD 14.89 million, it was later converted into a grant by the Government of India during the State Visit of the President of Sri Lanka to India in December 2024. It is being executed by Indian Public Sector Undertaking, Ircon International Limited.
-
-...
-
-[Data](articles/688842cc.json)
 
 ---

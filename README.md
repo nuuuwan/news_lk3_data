@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 10:23:15**
+As of **2025-08-01 10:45:22**
 
 ## Newspaper Stats
 
-*Scraped **68,072** Articles*
+*Scraped **68,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 4,164
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,549
-adaderanalk | 8,414
+adaderanalk | 8,415
 tamilmirrorlk | 9,875
-virakesarilk | 11,332
+virakesarilk | 11,334
 adaderanasinhalalk | 11,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,072 articles have been extended.
+61,973 (91.0%) of 68,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### மாணவிக்கு ஆபாச வீடியோ அனுப்பிய ஆசிரியையின் கணவரை கைது செய்ய நீதிமன்றம் உத்தரவு
+
+*2025-08-01 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/221507) · `ta`
+
+மாணவிக்கு ஆபாச வீடியோ அனுப்பியதாகக் குற்றம் சாட்டப்பட்ட ஆசிரியையின் கணவரை உடனடியாகக் கைது செய்து நீதிமன்றில் ஆஜர்படுத்துமாறு கொழும்பு மேலதிக நீதவான் கசுன் காஞ்சன திசாநாயக்க வியாழக்கிழமை (31) உத்தரவிட்டுள்ளார்.
+
+ஆசிரியர் அளித்த முறைப்பாடு தொடர்பாக நீதிமன்றத்தில் ஆஜரானபோது, பொலிஸ் சிறுவர்கள் மற்றும் மகளிர் பணியக அதிகாரிகள் அளித்த அறிக்கைகளை தொடர்ந்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+ஆபாசப் படங்களுக்கு அடிமையானதாகக் கூறப்படும் சந்தேகநபர், தனது மனைவியுடன் உடலுறவில் இருந்த தருணங்களை இரகசியமாகப் பதிவு செய்துள்ளார்.
+
+இந்நிலையில், குடும்ப தகராறில் மனைவியிடம் கல்வி கற்கும் மாணவிக்கு அந்த வீடியோவை பகிர்ந்துள்ளார் என விசாரணையில் தெரிய வந்துள்ளது.
+
+முறைப்பாடு அளித்த ஆசிரியையான மனைவிக்கும்  அவரது கணவருக்கும் இடையில் அண்மையில் தகராறினால் ஆபாசப் படங்களை பகிர்ந்து சந்தேகநபர் பழிவாங்க எண்ணியதாக நீதிமன்றத்தில் மேலும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/16c3c700.json)
+
+---
+
+### இன்றும் பல பகுதிகளில் மனித உடலால் உணரக்கூடிய வெப்பம் அதிகரிப்பு
+
+*2025-08-01 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/221508) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று வெள்ளிக்கிழமை (01) மனித உடலில் உணரப்படும் வெப்பநிலை அதிகரித்து காணப்படும் என வெப்ப சுட்டெண் ஆலோசனையை வளிமண்டலவியல் திணைக்களம் வெளியிட்டுள்ளது.
+
+அதன்படி,  வடக்கு, கிழக்கு மற்றும் வட-மத்திய மாகாணங்களின் சில பகுதிகளிலும், மொனராகலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் வெப்பம் அதிகரித்து காணப்படும் என கணிக்கப்பட்டுள்ளது.
+
+வெப்பநிலை மற்றும் ஈரப்பதத்தின் விளைவுகளை இணைப்பதன் மூலம் வெப்ப சுட்டெண் கணக்கிடப்படுகிறது, மேலும் உடலில் வெப்பத்தின் உண்மையான உணர்வை பிரதிபலிக்கிறது.
+
+எனவே மக்கள் அதிகளவு நீரை அருந்தவேண்டும் மற்றும் பணி செய்யும் இடங்களில் முடிந்தவரை அடிக்கடி நிழலில் ஓய்வு எடுக்க வேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
+
+இதேவேளை வெப்ப அலைகளின் போது மக்கள் இலகுரக மற்றும் வெள்ளை அல்லது வெளிர் நிற ஆடைகளை அணியுமாறும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது
+
+அதேநேரம் வீட்டில் உள்ள வயோதிபர்கள் மற்றும் நோய் நிலையுள்ளவர்கள் குறித்தும் அவதானத்துடன் இருக்குமாறு வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/66e39550.json)
+
+---
 
 ### සොරබඩු සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
 
@@ -51,6 +93,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/585e8ecb.json)
+
+---
+
+### Seat belts mandatory for expressway bus passengers from Sep. 1?
+
+*2025-08-01 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111062/seat-belts-mandatory-for-expressway-bus-passengers-from-sep-1) · `en`
+
+Effective from today (August 1), it is now mandatory for all passengers travelling in the rear seats of light vehicles on expressways to wear seat belts.
+
+According to police, special inspections will be carried out to ensure compliance with this new safety regulation.
+
+Meanwhile, the National Transport Commission (NTC) has announced that, starting from September 1, all passengers travelling in passenger buses on expressways will also be required to wear seat belts.
+
+NTC Chairman, Engineer P.A. Chandrapala, highlighted the importance of this measure, stating:
+
+“There is a need to ensure that all passengers, including the driver, wear seat belts in passenger buses operating on expressways from the 1st of September.”
+
+◼️
+
+[Data](articles/5e98ec4a.json)
 
 ---
 
@@ -1695,55 +1757,5 @@ A bond maturing on 01.11.2033 closed at 10.75/82 percent. (Colombo/July31/2025)
 ...
 
 [Data](articles/9f2c7246.json)
-
----
-
-### Presidents’ Entitlements (Repeal) Bill gazetted
-
-*2025-07-31 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111047/presidents-entitlements-repeal-bill-gazetted) · `en`
-
-The Bill has been drafted to revoke special privileges extended to former Presidents and their widows.
-
-Earlier this month, the Cabinet of Minister granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986).
-
-Last month, the Cabinet granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents, their widows and former MPs.
-
-◼️
-
-[Data](articles/a473cc76.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளின் சலுகைக் குறைப்பு;வர்த்தமானி வெளியீடு
-
-*2025-07-31 17:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-சலுகைக்-குறைப்பு-வர்த்தமானி-வெளியீடு/175-362133) · `ta`
-
-முன்னாள் ஜனாதிபதிகள், அவர்களது குடும்பங்கள் மற்றும் ஓய்வுபெற்ற பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்ட சிறப்பு சலுகைகளைக் குறைக்கும் 1986 ஆம் ஆண்டின் 4 ஆம் எண் ஜனாதிபதி உரிமைச் சட்டத்தைத் திருத்துவதை நோக்கமாகக் கொண்ட வரைவு சட்டமூலத்தின் வர்த்தமானி வெளியிடப்பட்டுள்ளது.
-
-கடந்த வாரம், சட்டமூலத்தை வர்த்தமானியில் வெளியிட்டு பாராளுமன்றத்தில் தாக்கல் செய்வதற்கான முன்மொழிவுக்கு அமைச்சரவை ஒப்புதல் அளித்தது.
-
-முன்னதாக, ஜூன் மாதத்தில், 1986 ஆம் ஆண்டின் 4 ஆம் எண் ஜனாதிபதி உரிமைச் சட்டம் மற்றும் 1977 ஆம் ஆண்டின் 1 ஆம் எண் பாராளுமன்ற ஓய்வூதியச் சட்டம் இரண்டையும் ரத்து செய்வதற்கான சட்டத்தை வரைவதற்கும் அமைச்சரவை ஒப்புதல் அளித்தது.
-
-இந்த சீர்திருத்தங்கள் முன்னாள் ஜனாதிபதிகள் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கு ஐந்து ஆண்டு காலத்திற்குப் பிறகு வழங்கப்படும் வாழ்நாள் ஓய்வூதியம் உட்பட நீட்டிக்கப்பட்ட சிறப்பு சலுகைகளை திறம்பட நிறுத்தும்.
-
-...
-
-[Data](articles/d129962d.json)
-
----
-
-### විදුලිබලයට ජපාන ආයෝජන
-
-*2025-07-31 17:01:47* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබලයට-ජපාන-ආයෝජන/11-417641) · `si`
-
-ඉහළ පෙලේ ජපාන ආයෝජකයින් පිරිසක් අද (31) බලශක්ති අමාත්‍යංශයේදී අමාත්‍යවරයා හමුවිය. එහිදී පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ සහ විශේෂයෙන් විදුලි සම්ප්‍රේශණ පද්ධතිය නවීකරණය හා සංවර්ධනය කිරීමෙහිලා ඇති ආයෝජන අවස්ථා පිළිබඳව සාකච්ඡා කරන ලදී.
-
-දිගු කාලීන මිතුරු රටක් ලෙස ජපානය සම්බන්ධයෙන් ලංකාවේ අපට ඇත්තේ ඉතාමත් හොඳ සුහද හැඟීමක්. විශේෂයෙන්ම අපේ රටේ සංවර්ධනයට යටිතල පහසුකම් දියුණුවට ජපානය දක්වන සහාය අගය කරන අතරම, විදුලිබල උත්පාදන සහ සම්ප්‍රේශණ ක්ෂේත්‍ර යේ ලංකාවේ ඇති අවස්ථා ප්‍රයෝජනයට ගෙන අපේ රටේ එම ක්ෂේත්‍රවල ආයෝජනය කිරීමට ඉදිරිපත්වීම අගය කරන බව අමාත්‍යවරයා පැවසීය. එසේම එකී ආයෝජකයින්ට අවශ්‍ය පහසුකම් ලබාදීමට  රජය කැපවී සිටින බවද අමාත්‍යවරයා තවදුරටත් පැවසීය.
-
-මෙරට තුළ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී රාජ්‍ය ආයතන වෙතින් ලබාගත යුතු අවසර ලබා ගැනීමේ ක්‍රියාවලියේ ඇති ප්‍රමාදයන් හා ගැටළු සම්බන්ධයෙන් මෙහිදී විශේෂයෙන් එම ආයෝජකයින් විසින් අමාත්‍යවරයා දැනුවත් කරන ලද අතර එහිදී අමාත්‍යවරයා වැඩිදුරටත් පවසා සිටියේ රජයක් ලෙස එම ගැටළු හඳුනාගෙන ඇති බවත්, ඉදිරියේදී එම ගැටළු විසඳීමට අවශ්‍ය පියවර ගෙනඇති බවත්ය.
-
-...
-
-[Data](articles/68ec1e08.json)
 
 ---

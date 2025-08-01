@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 15:49:17**
+As of **2025-08-01 16:06:57**
 
 ## Newspaper Stats
 
-*Scraped **68,119** Articles*
+*Scraped **68,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,553
-adaderanalk | 8,422
+adaderanalk | 8,424
 tamilmirrorlk | 9,884
 virakesarilk | 11,340
 adaderanasinhalalk | 11,718
@@ -26,13 +26,13 @@ adaderanasinhalalk | 11,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,119 articles have been extended.
+61,973 (91.0%) of 68,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
 
-### ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රසංශා
+### ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රශංසා
 
 *2025-08-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212904) · `si`
 
@@ -50,13 +50,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka should aim for under 15% - Sajith says after US tariff cut
+
+*2025-08-01 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111071/sri-lanka-should-aim-for-under-15-sajith-says-after-us-tariff-cut-) · `en`
+
+Leader of the Opposition Sajith Premadasa, Sajith Premadasa, has welcomed the recent decision by the United States to reduce the trade tariff imposed on Sri Lankan exports to 20 percent.
+
+In a post on ‘X’ (formerly Twitter), the SJB leader highlighted that this reduction places Sri Lanka on a competitive footing alongside countries like Vietnam and Bangladesh, while noting that India’s tariff rate remains at 25 percent.
+
+“Glad the U.S. cut tariffs to 20% for Sri Lankan goods. This puts us alongside Vietnam and Bangladesh, while India pays 25%,” he said.
+
+Premadasa further emphasized the need for Sri Lanka to aim for tariff rates below 15 percent to provide a substantial boost to the country’s exporters.
+
+“We should aim under 15% to give our exporters a real lift,” he stated.
+
+The opposition leader also called for the establishment of a dedicated team comprising trade economists and lead negotiators to proactively engage in ongoing trade discussions and ensure continued progress.
+
+...
+
+[Data](articles/ababbca2.json)
+
+---
+
+### Sri Lanka to continue trade discussions with US after tariff relief – Finance Secretary
+
+*2025-08-01 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111070/sri-lanka-to-continue-trade-discussions-with-us-after-tariff-relief-finance-secretary) · `en`
+
+The United States has announced a reduction in the reciprocal tariff rate imposed on goods imported from Sri Lanka, lowering it from 30 percent to 20 percent.
+
+According to a statement issued by the White House, the revised tariff rate will come into effect on August 7.
+
+Commenting on the development, the Secretary to Sri Lanka’s Ministry of Finance, Dr. Harshana Suriyapperuma, stated:
+
+“Along with the challenges we face, new opportunities have also emerged. This development reflects a mutual willingness by both countries to pursue shared benefits.”
+
+“We view this as a significant achievement for Sri Lanka, and we intend to continue these discussions going forward,” he added.
+
+◼️
+
+[Data](articles/15f68552.json)
+
+---
+
 ### සවස් කාලයේ දී ප්‍රදේශ කිහිපයකට තද වැසි
 
 *2025-08-01 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212903) · `si`
 
 උතුරු, උතුරු - මැද, ඌව, නැගෙනහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් කුරුණෑගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මි. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැනි බව වාර්තා වේ.
+මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මි. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව වාර්තා වේ.
 
 එමෙන්ම බස්නාහිර පළාතේත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකියි.
 
@@ -1781,33 +1823,5 @@ Prime Minister Dr. Harini Amarasuriya, as the Minister of Education, has present
 ...
 
 [Data](articles/a4e9908a.json)
-
----
-
-### ஒகஸ்ட் மாத எரிபொருள் விலைகளில் மாற்றம் இல்லை - பெற்றோலியக் கூட்டுத்தாபனம்
-
-*2025-07-31 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221493) · `ta`
-
-மாதாந்த எரிபொருள் விலை திருத்தத்தின்படி, ஆகஸ்ட் மாதத்திற்கான எரிபொருள் விலையில் எந்த மாற்றமும் இருக்காது என்று இலங்கை பெட்ரோலியக் கூட்டுத்தாபனம் அறிவித்துள்ளது.
-
-அதன்படி, கடந்த ஜூலை மாதத்தில் மேற்கொள்ளப்பட்ட அதே எரிபொருள் விலை திருத்தம் ஆகஸ்ட் மாதத்திற்கும் அமலுக்கு வரும்.
-
-ரூ.341 ஆக இருந்த 95 ஆக்டேன் பெட்ரோலின் விலை, ரூ.325 ஆக இருந்த ஒரு லிட்டர் சூப்பர் டீசலின் விலை, அப்படியே இருக்கும் என்று இலங்கை பெட்ரோலியக் கூட்டுத்தாபனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/e13ba6d5.json)
-
----
-
-### අගෝස්තු මාසයට අදාළව ඉන්ධන මිල ගැන ගත් තීරණය මෙන්න
-
-*2025-07-31 20:43:00* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-මාසයට-අදාළව-ඉන්ධන-මිල-ගැන-ගත්-තීරණය-මෙන්න/11-417651) · `si`
-
-අගෝස්තු මාසයට අදාළව ඉන්ධන මිල ගණන්වල වෙනසක් සිදු නොවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
-
-◼️
-
-[Data](articles/163874dc.json)
 
 ---

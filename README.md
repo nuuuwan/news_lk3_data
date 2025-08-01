@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 17:31:36**
+As of **2025-08-01 17:53:22**
 
 ## Newspaper Stats
 
-*Scraped **68,133** Articles*
+*Scraped **68,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,553
 adaderanalk | 8,426
 tamilmirrorlk | 9,884
 virakesarilk | 11,346
-adaderanasinhalalk | 11,722
+adaderanasinhalalk | 11,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,133 articles have been extended.
+61,973 (91.0%) of 68,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### ශිෂ්‍යත්ව විභාගයේ  උපකාරක පන්ති පැවැත්වීම 06 වැනිදා මැදියම් රැයෙන් තහනම්
+
+*2025-08-01 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212909) · `si`
+
+එළැඹෙන අගෝස්තු මස 10 වැනි දින පැවැත්වීමට නියමිත ශිෂ්‍යත්ව විභාගය නිමිත්තෙන් අගෝස්තු මස 06 වැනි දින මධ්‍යම රාත්‍රියෙන් පසු ශිෂ්‍යත්ව විභාගය අවසන් වන තෙක් එම විභාගය සඳහා උපකාරක පන්ති පැවැත්වීම තහනම් කෙරෙන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ විභාග අපේක්ෂකයින් සඳහා උපකාරක පන්ති සංවිධානය කිරීම සහ එම පන්ති මෙහෙයවීම, විශයානුබද්ධ දේශන, සම්මන්ත්‍රණ, වැඩමුළු පැවැත්වීම, උක්ත විභාගය සඳහා අනුමාන ප්‍රශ්න ඇතුළත් ප්‍රශ්න පත්‍ර මුද්‍රණය කිරීම සහ ඒවා බෙදා හැරීම, විභාග ප්‍රශ්න පත්‍රවල ප්‍රශ්න ලබා දෙන බවට හෝ ඒ හා සමාන ප්‍රශ්න ලබා දෙන බවට පෝස්ටර්, බැනර්, අත්පත්‍රිකා විද්‍යුත් හෝ මුද්‍රිත මාධ්‍ය මගින් හෝ සමාජ මාධ්‍ය ගින් ප්‍රසිද්ධ කිරීම හෝ එවැනි දෑ ළඟ තබා ගැනීම සපුරා තහනම් වන බවය.
+
+මෙවර ශිෂ්‍යත්ව විභාගය දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදි පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/7a936f8d.json)
+
+---
+
+### හිටපු අමාත්‍ය රෝහිත බෝගොල්ලාගමට එරෙහි අල්ලස් නඩුවක් කැඳවීමට දිනදෙයි
+
+*2025-08-01 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212910) · `si`
+
+දූෂණ චෝදනාවක් සම්බන්ධයෙන් අල්ලස් කොමිසම විසින් හිටපු අමාත්‍ය රෝහිත බෝගොල්ලාගම මහතාට එරෙහිව ගොනුකර තිබෙන නඩුවක් ඔහු නොමැතිව විභාගයට ගැනීම සඳහා දින නියම කිරීමට එම නඩුව ඔක්තෝබර් මස 30 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසම කළ කරුණු දැක්වීමත් සලකා බැලීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු මහේෂ් වීරමන් මහතා මෙම නියෝගය නිකුත් කර ඇත.
+
+විත්තිකරු මේ වන විට විදේශගතව සිටින බවට තොරතුරු හෙළි වී තිබෙන නිසා ඔහු නොමැතිව නඩුව විභාගයට ගැනීමට අවසර දෙන ලෙස අල්ලස් කොමිසම ඉල්ලීම් කළේය.
+
+2006 වසරේ ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් ලන්ඩන් නුවර සංවිධානය කළ ආයෝජන ප්‍රවර්ධන ප්‍රදර්ශනයකට සහභාගි වී හෝටල් ගාස්තු සහ ප්‍රදර්ශන වියදම් ලෙස රුපියල් ලක්ෂ 15 කට අධික මුදලක් භාණ්ඩාගාර රෙගුලාසිවලට පටහැනිව ගෙවන ලෙස ආයෝජන මණ්ඩලයේ සභාපතිවරයා පෙළඹවීම තුළින් අල්ලස් පනතේ "දූෂණය" නැමැති වරද සිදුකළ බවට චෝදනා කරමින් හිටපු අමාත්‍යවරයාට විරුද්ධව මෙම නඩුව අල්ලස් කොමිසම විසින් ගොනු කර ඇත.
+
+◼️
+
+[Data](articles/ddb0f4af.json)
+
+---
 
 ### ජපානය, කොරියාව ඇතුළු රටවල් රැසකට ශ්‍රි ලාංකිකයින්ට රැකියා අවස්ථා
 
@@ -1821,33 +1855,5 @@ CAHM, in partnership with the William Angliss Institute Australia (RTO 3045), o
 ...
 
 [Data](articles/91c05bcd.json)
-
----
-
-### HNB General Insurance ‘Celebrating Excellence 2025’ honours exceptional staff and top-tier sales achievers
-
-*2025-07-31 21:49:00* · [`islandlk`](http://island.lk/hnb-general-insurance-celebrating-excellence-2025-honours-exceptional-staff-and-top-tier-sales-achievers/) · `en`
-
-HNB General Insurance (HNBGI), a leading player in Sri Lanka’s general insurance sector, recently hosted its annual flagship event, ‘Celebrating Excellence 2025’, at Waters Edge, Battaramulla. The evening brought together staff and sales professionals from across the country in a unified celebration of dedication and achievement. HNBA and HNBGI Chairman Stuart Chapman graced the event as Chief Guest, joined by members of the Board of Directors – reinforcing the company’s belief that people are the true engine behind its continued growth.
-
-This year’s gathering marked a meaningful chapter in HNB General Insurance’s journey, recognizing not just business performance, but also the shared values, resilience, and commitment that drive the organization forward. The event celebrated team spirit across every level – from front-line sales to back-office support – highlighting the unity that powers HNBGI.
-
-...
-
-[Data](articles/5fbd4efd.json)
-
----
-
-### 35 years of transforming Sri Lanka’s digital landscape leads to the unveiling of FOUNDATION.LK
-
-*2025-07-31 21:48:00* · [`islandlk`](http://island.lk/35-years-of-transforming-sri-lankas-digital-landscape-leads-to-the-unveiling-of-foundation-lk/) · `en`
-
-This year marks 35 years of registering domain names in .LK;; TechCERT has secured digital Sri Lanka for 20 years. — and this year marks anothermilestone with the launch of Foundation.LK.
-
-FOUNDATION.LK is a not-for-profit initiative dedicated to empowering Sri Lankans with the knowledge, skills, and resources to navigate cyberspace safely and confidently—promoting responsible digital citizenship and unlocking opportunities in the evolving digital landscape.
-
-...
-
-[Data](articles/83e3d304.json)
 
 ---

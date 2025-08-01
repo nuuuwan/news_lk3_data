@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 11:39:34**
+As of **2025-08-01 11:56:30**
 
 ## Newspaper Stats
 
-*Scraped **68,081** Articles*
+*Scraped **68,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 4,164
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,549
-adaderanalk | 8,415
-tamilmirrorlk | 9,879
-virakesarilk | 11,334
+adaderanalk | 8,418
+tamilmirrorlk | 9,880
+virakesarilk | 11,335
 adaderanasinhalalk | 11,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,081 articles have been extended.
+61,973 (91.0%) of 68,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### 25 எம்.பிக்கள் 100முன்னாள் எம்.பிகளுக்கு எச்சரிக்கை கடிதம்
+
+*2025-08-01 11:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-எம்-பிக்கள்-100முன்னாள்-எம்-பிகளுக்கு-எச்சரிக்கை-கடிதம்/175-362161) · `ta`
+
+லஞ்சம் அல்லது ஊழல் பற்றிய சாத்துதல்களை புலனாய்வு செய்யும் ஆணையத்தின் அறிவிப்பின்படி, சொத்து மற்றும் பொறுப்பு அறிவிப்புகளை சரியான நேரத்தில் சமர்ப்பிக்கத் தவறிய 25 பாராளுமன்ற உறுப்பினர்களுக்கும், கிட்டத்தட்ட நூறு முன்னாள் பாராளுமன்ற உறுப்பினர்களுக்கும் சபாநாயகர் டாக்டர் ஜகத் விக்ரமரத்ன எச்சரிக்கை கடிதங்களை அனுப்பியுள்ளார்.
+
+சொத்து மற்றும் பொறுப்புச் சட்டத்தின்படி, ஒவ்வொரு பாராளுமன்ற உறுப்பினரும் ஒவ்வொரு ஆண்டும் மார்ச் 31 ஆம் திகதி வரை வைத்திருக்கும் அனைத்து சொத்துக்களின் விவரங்களையும் ஒவ்வொரு ஆண்டும் ஜூன் 30 ஆம் திகதிக்கு முன்னர் சபாநாயகரிடம் சமர்ப்பிக்க வேண்டும்.
+
+இதற்கிடையில், ஜூன் 30 ஆம் திகதிக்குள் சொத்து மற்றும் பொறுப்பு அறிவிப்புகளைச் சமர்ப்பிக்கத் தவறிய பாராளுமன்ற உறுப்பினர்களுக்கு அபராதம் விதிக்கப்படும் என்றும், ஜூலை 1 முதல் ஆகஸ்ட் 31 வரை சொத்து மற்றும் பொறுப்பு அறிவிப்புகளைச் சமர்ப்பிக்கத் தவறிய பாராளுமன்ற உறுப்பினர்களுக்கு அபராதம் விதிக்கப்படும் என்றும் பாராளுமன்ற வட்டாரங்கள் தெரிவித்தன
+
+◼️
+
+[Data](articles/5c0ab186.json)
+
+---
+
+### இலங்கையின் அரச வைத்தியத்துறையில் IVF முறையில் முதலாவது குழந்தை பிறந்தது
+
+*2025-08-01 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221515) · `ta`
+
+இலங்கையின் அரச வைத்தியத்துறையில் செயற்கை கருத்தரிப்பு முறையில் (IVF) வெற்றிகரமாக முதலாவது பிரவசம் வியாழக்கிழமை (31) ராகமவில் உள்ள வடக்கு கொழும்பு போதனா வைத்தியசாலையில் இடம்பெற்றுள்ளது.
+
+இது களனி பல்கலைக்கழக மருத்துவ பீடத்தின் மகப்பேறியல் மற்றும் மகளிர் மருத்துவத் துறையின் IVF நிலையத்தின் ஒரு வருட கால முயற்சியின் விளைவாக இடம்பெற்றுள்ளது.
+
+இந்த வெற்றிகரமான பிரசவத்திற்கு வழிவகுத்த IVF நடைமுறை, முதன் முதலில் கடந்த ஆண்டு பல்கலைக்கழகத்தின் கருத்தரித்தல் மையத்தில் மேற்கொள்ளப்பட்டது. அரசாங்கம் நடத்தும் IVF திட்டத்திற்குப் பின்னர் அரசாங்க வைத்தியசாலையில் குழந்தை ஒன்று பிறப்பது இதுவே முதல் முறை ஆகும்.
+
+களனி பல்கலைக்கழகத்தின் ஆலோசகர் மகப்பேறியல் மற்றும் மகளிர் வைத்திய நிபுணர் பேராசிரியர் ரசிக்கா ஹேரத் தலைமையிலான மருத்துவக் குழுவால் சிசேரியன் பிரசவம் செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3422fbfc.json)
+
+---
 
 ### அழகான பெண்களின் படங்களை ஏற்றிய டொப்பியாவுக்கு சிறை
 
@@ -54,11 +88,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-01 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212892) · `si`
 
-රක්ෂිත බන්ධනාගාර ගතව සිටි හිටපු අමාත්‍ය එස්. එම් චන්ද්‍රසේන මහතාට ඇප හිමිව තිබේ.
+රක්ෂිත බන්ධනාගාර ගතව සිටි හිටපු අමාත්‍ය එස්. එම් චන්ද්‍රසේන මහතා ඇප මත මුදාහරිණ ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (1) නියම කළේය.
+
+2014 වසරේ දී අනුරාධපුර දිස්ත්‍රික්කයේ දිළිඳු ගොවීන් සඳහා සහනදායි මිල ගණන් යටතේ බෙදාදීමට රුපියල් මිලියන 25ක මුදලක් වැයකර මිලදී ගනු ලැබූ බඩඉරිඟු බීජ, නීත්‍යානුකූල ක්‍රමවේදයට පටහැනිව එම වසරේ පැවැති ජනාධිපතිවරණයේදී තමන්ට වාසියක් අත්කර ගැනීමේ අරමුණින් තම හිතවතුන් හා ආධාරකරුවන් අතර බෙදාහැරීම තුළින් 'දූෂණය' නැමති වරද සිදුකළේ යැයි චෝදනා කරමින් ඔහු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටියේය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී මහත්මිය විසින් මෙම නියෝගය නිකුත් කළේය.
+
+මෙම පැමිණිල්ල කැදවූ අවස්ථාවේදී අල්ලස් කොමිසමේ නිලධාරීනිය අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට අදාළ විමර්ශන බොහෝ දුරට අවසන් වී ඇතැයි සඳහන් කළාය.
+
+කෘෂිකර්ම නිලධාරීන් කිහිප දෙනෙකුගෙන් ප්‍රකාශ සටහන් කර ගැනීමට නියමිතව තිබෙන බවත්, ඒ අනුව සුදුසු නියෝගයක් නිකුත් කරන ලෙසත් ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/de6c1a1d.json)
+
+---
+
+### Former Minister S.M. Chandrasena granted bail
+
+*2025-08-01 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111065/former-minister-sm-chandrasena-granted-bail) · `en`
+
+Former Minister S.M. Chandrasena has been granted bail after being produced before the Colombo Chief Magistrate’s Court today (01).
+
+He was arrested by the Bribery Commission on July 04 on suspicion of committing the offence of corruption.
+
+In 2014, maize seeds worth Rs. 25 million—procured for distribution to poor farmers in the Anuradhapura District at subsidized prices—were allegedly distributed instead to his friends and political supporters. This distribution, reportedly carried out in violation of established legal procedures, is believed to have been aimed at gaining political advantage during that year’s presidential election.
 
 ◼️
 
-[Data](articles/de6c1a1d.json)
+[Data](articles/268cb1db.json)
 
 ---
 
@@ -107,6 +165,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/09a87897.json)
+
+---
+
+### Trump ended 6 conflicts, including India-Pak, deserves Nobel Prize: White House official
+
+*2025-08-01 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111064/trump-ended-6-conflicts-including-india-pak-deserves-nobel-prize-white-house-official) · `en`
+
+White House Press Secretary Karoline Leavitt said Trump has ended six conflicts, including those between Israel and Iran and India and Pakistan, adding that “it is well past time that Trump should be awarded the Nobel Peace Prize”.
+
+“President Trump has now ended conflicts between Thailand and Cambodia, Israel and Iran, Rwanda and the Democratic Republic of Congo, India and Pakistan, Serbia and Kosovo, and Egypt and Ethiopia,” Karoline Leavitt said.
+
+“This means that President Trump has brokered on average one peace deal or ceasefire per month during his six months in office. It is well past time that the President Trump be awarded the Nobel Peace Prize,” she added.
+
+Trump has repeatedly claimed brokering ceasefire between India and Pakistan in May after New Delhi launched Operation Sindoor against Islamabad’s terror infrastructure. However, India has refuted the claims made by the US President.
+
+...
+
+[Data](articles/0dc5e8ac.json)
+
+---
+
+### “Heartily pleased” – MP Harsha thanks all who contributed to US tariff relief
+
+*2025-08-01 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111063/heartily-pleased-mp-harsha-thanks-all-who-contributed-to-us-tariff-relief) · `en`
+
+SJB Member of Parliament Dr. Harsha de Silva has welcomed the decision by the United States to reduce the tariff rate on Sri Lankan goods to 20%, describing it as a significant victory for the country’s export sector.
+
+Expressing his satisfaction, Dr. de Silva stated he is “heartily pleased” with the development.
+
+In a statement, Dr. de Silva expressed his appreciation for the efforts made both publicly and behind the scenes to secure this concession, which he believes will help Sri Lanka maintain its regional competitiveness in global markets.
+
+“The reduction of the tariff rate imposed by the United States on Sri Lankan goods to 20% is a victory and will enable us to further maintain the regional competitiveness of our exports,” he stated.
+
+He also thanked the United States for recognizing the challenges faced by Sri Lanka as a smaller economy and for extending this trade relief.
+
+...
+
+[Data](articles/fa70eac6.json)
 
 ---
 
@@ -1659,105 +1755,5 @@ Sri Lanka’s central bank has also been helped by better monetary policy from t
 ...
 
 [Data](articles/7ebf389c.json)
-
----
-
-### டி.இமான்- யுகபாரதி - சித் ஸ்ரீராம் கூட்டணியில் வெளியான 'ஏழுமலை' பட பாடல்
-
-*2025-07-31 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/221478) · `ta`
-
-கன்னட திரையுலகில் வளர்ந்து வரும் நடிகரான ரானா கதையின் நாயகனாக நடித்திருக்கும் 'ஏழுமலை' எனும் படத்தில் இடம்பெற்ற 'ராக்காட்சி ' எனும் பாடலும், பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் புனித் ரங்கசாமி இயக்கத்தில் உருவாகி வரும் 'ஏழுமலை 'எனும் திரைப்படத்தில் ரானா, பிரியங்கா அச்சார், ஜெகபதிபாபு , நாகாபரணா , கிஷோர் குமார் , சர்தார் சத்யா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-உண்மை சம்பவங்களை தழுவி தயாராகி இருக்கும் இந்த திரைப்படத்தை தருண் சுதிர் கிரியேட்டிவ்ஸ் மற்றும் டி எஸ் ஆர்ட்ஸ் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது. இந்த திரைப்படத்தை நரசிம்மா நாயக் வழங்குகிறார்.
-
-தமிழ் மற்றும் கன்னட மொழியில் தயாராகி இருக்கும் இந்த திரைப்படத்தில் இடம்பெற்ற 'ராக்காட்சி ராக்காட்சி ஒன் அழக ஒரு தடவ பார்த்தாலே பறப்பேனே தூங்காமலே..' எனத் தொடங்கும் பாடலும் , பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-...
-
-[Data](articles/abfc64ee.json)
-
----
-
-### யஷோதா விமலதர்மா சூர்யாவின் புரட்சி மிகுந்த சில்லறை வியாபார அணுகுமுறை
-
-*2025-07-31 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221476) · `ta`
-
-வெள்ளித் திரை நட்சத்திரம் யஷோதா விமலதர்மா, சூர்யா match boxes மற்றும் incense sticks பிராண்ட் தூதராக இருக்கிறார். சமீபத்தில், அவர் குருணாகல் , பொல்கஹவெல, மற்றும் அலாவ்வ ஆகிய முக்கிய சில்லறை விற்பனை நிலையங்களுக்கு எதிர்பாராத விஜயங்களை மேற்கொண்டு, அங்கு கடை உரிமையாளர்களுடன் நேரடியாக பேசிச் சந்தித்த அனுபவங்கள் மற்றும் அவர்கள் எதிர்கொள்ளும் உண்மை நிலைகளைப் பற்றி அறிந்தார்.
-
-இந்த சிறப்பு சமூகப் செயற்பாடானது சூர்யாவின் சில்லறை விற்பனையாளர் கூட்டாளிகளுடன் உறுதியான உறவுகளை வளர்க்கும் தொடர்ச்சியான முயற்சியின் ஒரு பகுதியாகும்.
-
-இந்த கூட்டாளிகளே இந்த பிரபலமான match boxes பிராண்ட், வழக்கமான இலங்கையர்களின் கைகளில் சென்று சேரும் வகையில் உறுதியாக செயற்படுகிறார்கள்.
-
-கம்பனியின் பிரதிநிதிகள் மட்டுமல்லாமல், அங்கு வந்த எப்போதும் இனிமையான யஷோதா விமலதர்மா அவர்கள், இந்த முயற்சியில் தனிப்பட்ட மற்றும் மறக்க முடியாத முத்திரையொன்றை பதித்தார்.
-
-...
-
-[Data](articles/b0c6cd0a.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bonds broadly steady
-
-*2025-07-31 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-broadly-steady-233941/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.10/20 to the US dollar in the spot market Thursday, edging lower from 302.20/30 the previous day, while bond yields held broadly steady although longer tenors edged down slightly, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
-
-A bond maturing on 15.10.2028 closed at 8.97/9.02 percent, down from 9.00/05 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/54 percent, down from 9.52/56 percent.
-
-A bond maturing on 01.11.2033 closed at 10.75/82 percent. (Colombo/July31/2025)
-
-◼️
-
-[Data](articles/5d5d5614.json)
-
----
-
-### වසර 127කට පසු ඉන්දියාවට ලැබුණු බෞද්ධ උරුමය
-
-*2025-07-31 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212877) · `si`
-
-බුදුන් වහන්සේගේ ධාතූන් අතර තැන්පත් කර තිබූ මැණික් තොගයක් හොංකොං හිදී ප්‍රසිද්ධ වෙන්දේසියේ විකිණීමට එරෙහිව ඉන්දියාව සිදුකළ බලපෑමන් පසු, එම මැණික් තොගය යළි ඉන්දියාවට ලැබී තිබේ.
-
-1898 වසරේ දී උත්තර් ප්‍රදේශ් හි පිප්‍රහ්වා හි ස්තූපයකින් බුදුන් වහන්සේගේ යැයි හඳුනාගත් අස්ථි කොටස් සමග මෙම මැණික් තොගය ඇතුළු ආභරණ 1,800කට ආසන්න ප්‍රමාණයක් සොයාගනු ලැබීය.
-
-එම මැණික තොගය සොතෙබිස් නම් වෙන්දේසි සමාගමක් විසින් ඉකුත් මාර්තු 7වනදා වෙන්දේසි කිරීමට නියමිතව තිබූ අතර, ඔවුන් එම මැණික් තොගයේ වටිනාකම හොංකොං ඩොලර් මිලියන 100ක් ලෙස ගණන් බලා තිබුණි.
-
-කෙසේ වෙතත් එම වෙන්දේසියට එරෙහිව ඉන්දීය සංස්කෘතික අමාත්‍යංශය නීතිමය ලිපියක් යොමුකිරීමට පියවර ගත්තේය.
-
-එමෙන්ම ඉන්දීය පුරාවිද්‍යා සමීක්ෂණ ආයතනය ද හොංකොං කොන්සල් ජනරාල්වරයා වෙත දැනුම් දී සිටියේ, අදාළ වෙන්දේසිය වහාම නතර කරන ලෙසය.
-
-තවද එම මැණික් තොගය වෙන්දේසියේ විකිණීම වහාම නතර කර කෞතුක වස්තු නැවත ඉන්දියාවට ලබාදෙන ලෙස ද සොතෙබිස් ආයතනය වෙත අදාල ලිපියෙන් වැඩිදුරටත් දන්වා තිබුණි.
-
-ඒ අනුව ඉන්දීය රජයේ එම නීතිමය ක්‍රියාමාර්ගය හමුවේ මෙම බෞද්ධ ආභරණ එකතුව ඉන්දියාව ලැබී ඇත.
-
-...
-
-[Data](articles/c1d9f9f5.json)
-
----
-
-### ஊழல் விசாரணைகள் குறித்து ஜனாதிபதி விசேட தகவல்
-
-*2025-07-31 17:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-விசாரணைகள்-குறித்து-ஜனாதிபதி-விசேட-தகவல்/175-362136) · `ta`
-
-இலங்கை விரைவில் யாரும் லஞ்சம் வாங்குவதை நினைத்தும் பாரக்க முடியாத நாடாக மாறும் என்றும், சட்டம் அனைவருக்கும் சமமாக அமல்படுத்தப்படும் என்றும் ஜனாதிபதி அனுரகுமார திசாநாயக்க கூறுகிறார்.
-
-ஊழலில் ஈடுபடுவதற்கும் லஞ்சம் கேட்பதற்கும் மக்கள் பயப்பட வேண்டியிருந்தாலும், தற்போது அவர்கள் சட்டத்திற்கு அப்பாற்பட்டவர்கள் என்று நம்புகிறார்கள், மேலும் இதுபோன்ற செயல்களில் தொடர்ந்து ஈடுபடுகிறார்கள் என்று ஜனாதிபதி கூறினார்.
-
-"மக்கள் லஞ்சம் கொடுக்கவும் வாங்குவதற்கும் பயப்பட வேண்டும். மக்கள் சட்டத்திற்கு பயப்பட வேண்டும். சட்டத்தின் முன் அனைவரும் சமம் என்ற ஒரு அரசை நாங்கள் கட்டியெழுப்புவோம். முன்னாள் ஐஜிபி, முன்னாள் கடற்படைத் தளபதி மற்றும் சிறைச்சாலைகள், மோட்டார் போக்குவரத்துத் திணைக்கள குடிவரவு மற்றும் சுங்கம் போன்ற அரச அதிகாரிகள் உட்பட பல உயர் அதிகாரிகள் சமீபத்தில் கைது செய்யப்பட்டுள்ளனர்," என்று அவர் கூறினார்.
-
-முந்தைய அரசாங்கங்களால் ஆட்சி மாற்றங்களின் போது தடுக்கப்பட்ட பல்வேறு வழக்குகளை விசாரிக்க குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) புதிய குழு நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி மேலும் தெரிவித்தார்.
-
-...
-
-[Data](articles/cbda416a.json)
 
 ---

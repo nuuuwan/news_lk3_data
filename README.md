@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 00:07:57**
+As of **2025-08-02 00:40:37**
 
 ## Newspaper Stats
 
-*Scraped **68,170** Articles*
+*Scraped **68,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,20 +15,86 @@ colombotelegraphcom | 699
 islandlk | 4,159
 economynextcom | 4,168
 dailymirrorlk | 4,733
-dailyftlk | 4,811
+dailyftlk | 4,815
 adalk | 6,557
 adaderanalk | 8,433
 tamilmirrorlk | 9,889
-virakesarilk | 11,356
+virakesarilk | 11,358
 adaderanasinhalalk | 11,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,170 articles have been extended.
+61,973 (90.9%) of 68,176 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-02 (Saturday)
+
+### Sri Lanka’s tariff triumph: Cool President in hot crisis
+
+*2025-08-02 00:05:47* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-tariff-triumph-Cool-President-in-hot-crisis/4-779786) · `en`
+
+How did he do it? Amidst the chaos and confusion he did not panic. Nor did he flounder. He did not shout in the press or scurry in panic. He focussed on what was in his control: understanding what we could do and putting in place the best negotiating team for Sri Lanka
+
+Donald Trump’s tariffs shook the world. Financial markets around the world plunged. The US stock market registered its largest two-day loss in history. Businesses and politicians were in panic.
+
+Sri Lanka was one of the worst affected. The Trump tariffs would have increased the cost of Sri Lankan exports to the US by 44% overnight. Equally catastrophically, the tariffs imposed on other countries were lower. Our exports would have faced the sixth highest tariff in the world. India was at 27%, Bangladesh 37% and Pakistan 30%. Sri Lanka’s hard earned recovery was about to be reversed. Tens of thousands of jobs were in jeopardy.
+
+...
+
+[Data](articles/b65efdcb.json)
+
+---
+
+### Three years after Aragalaya: bring on the next revolution
+
+*2025-08-02 00:03:45* · [`dailyftlk`](https://www.ft.lk/columns/Three-years-after-Aragalaya-bring-on-the-next-revolution/4-779785) · `en`
+
+If a people’s movement such as the Aragalaya is to actualise ALL of its ambitions, it must be a perpetual revolution
+
+The closing of ranks by a widely despised regime in the aftermath of July 2022 served Sri Lanka in at least one sterling sense. In that those who stepped up to the plate, or into the breach caused by the ignominious exit of a discredited president, steadied the ship of state through the direst of the straits we have sailed to date. One can but hope that in similar vein, even the ranks of Tuscany, who despise the incumbent administration – in city, chamber, council, cabal, coffee-morning and cocktail circuits – would come to see and lever the power of the people made manifest to effect what is best for nation, state, country, the spirit of governance and the soul of Sri Lanka. That would be a revolution in itself: a consummation devoutly to be wished
+
+...
+
+[Data](articles/79cd01a9.json)
+
+---
+
+### “Bait of ruble and shadow  of war: Sri Lanka’s mercenary scandal” – A response
+
+*2025-08-02 00:01:29* · [`dailyftlk`](https://www.ft.lk/opinion/Bait-of-ruble-and-shadow-of-war-Sri-Lanka-s-mercenary-scandal-A-response/14-779784) · `en`
+
+In connection with the “Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal” publication by Roy Denish in the “Weekend Financial Times” on 26 July 2025, the Russian Embassy would like to point out the following.
+
+The said article is evidently of a contract nature and is likely to be lavishly remunerated by foreign donors. It includes a number of false statements. Sri Lankan volunteers taking part in the Russian Special Military Operation were informed on all terms, conditions and privileges of the service while signing contracts with the Armed Forces of the Russian Federation.
+
+The Russian Federation treats with deep respect the heroic feat of Sri Lankan citizens fighting against the Nazism supported by the West. Our country completely fulfils and will continue to fulfil its commitments in relation to the military men and their families.
+
+...
+
+[Data](articles/14937973.json)
+
+---
+
+### Historic pageant of the hill capital
+
+*2025-08-02 00:01:10* · [`dailyftlk`](https://www.ft.lk/columns/Historic-pageant-of-the-hill-capital/4-779783) · `en`
+
+The performances of the ‘Kandyan Dancers’ in their traditional costumes are an eye catching item in the Kandy Esala Perahera
+
+The ‘Esala Maha Perahera’ of Kandy – the historic pageant of the hill country has once again commenced parading the streets, bringing much joy, veneration and enthusiasm among the Buddhists as well as many non-Buddhists in Sri Lanka.
+
+This historic annual pageant is held as homage to the sacred tooth relic of the Buddha in keeping with the age-old traditions. The annual Esala Maha Perahera of Kandy has many facets in it being a religious, cultural as well as a historical event in Sri Lanka.
+
+The sacred tooth relic of the Buddha which is believed to have been brought to Sri Lanka by Prince Dantha and Princes Hemamala from India during the reign of Keerthi Sri Meghawarna (303—331 AD) had gradually become a great religious object in Sri Lanka and also a personal property of the King which symbolised the kingship of the country.
+
+...
+
+[Data](articles/c1614b7e.json)
+
+---
 
 ### 2025-08-01 (Friday)
 
@@ -45,6 +111,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5e4ad695.json)
+
+---
+
+### ஐ.நா மனித உரிமைகள் பேரவைக்கு கடிதம்: கையெழுத்து விவகாரம் குறித்து தமிழரசுக்கட்சியின் தீர்மானம் வெள்ளிக்கிழமை அறிவிக்கப்படும் - கஜேந்திரகுமார் பொன்னம்பலம்
+
+*2025-08-01 22:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221589) · `ta`
+
+அரசியல் கட்சிகள் மற்றும் சிவில் சமூக அமைப்புக்கள் இணைந்து சர்வதேச பொறுப்புக்கூறலை வலியுறுத்தி ஐ.நா மனித உரிமைகள் பேரவைக்கு அனுப்பிவைக்கவுள்ள கடிதத்தில் கையெழுத்திடுவது குறித்து வெள்ளிக்கிழமை (1) நடைபெறவுள்ள கட்சியின் அரசியல் குழுக்கூட்டத்தில் கலந்துரையாடி தீர்மானத்தை அறிவிப்பதாக தமிழரசுக்கட்சிப் பிரதிநிதிகள் கூறியிருப்பதாக தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்துள்ளார்.
+
+இலங்கையில் இடம்பெற்ற இனப்படுகொலைக்கு சர்வதேச பொறுப்புக்கூறலை வலியுறுத்தி ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக்கு கடிதமொன்றை அனுப்புவதற்கு அரசியல் கட்சிகள், சிவில் அமைப்புக்கள் மற்றும் பாதிக்கப்பட்ட தரப்புக்கள் என்பன கடந்த வாரம் ஏகமனதாகத் தீர்மானம் மேற்கொண்டிருந்தன.
+
+அக்கூட்டத்தில் பங்கேற்பதற்கு இலங்கைத் தமிழரசுக்கட்சிக்கு அழைப்பு விடுக்கப்பட்டிருந்தபோதிலும், அதில் பங்கேற்பதில்லை என்று கட்சி தீர்மானித்திருப்பதாகப் பதிலளிக்கப்பட்டது.
+
+...
+
+[Data](articles/4036aa15.json)
 
 ---
 
@@ -81,6 +163,26 @@ It said this achievement reflects the strategic foresight, persistence, and prof
 ...
 
 [Data](articles/6702e5b4.json)
+
+---
+
+### மாளிகாவத்தை ரயில் நிலையத்தில் ரயில் கழிப்பறையில் பெண் சிசுவின் சடலம் கண்டெடுப்பு
+
+*2025-08-01 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221588) · `ta`
+
+மாளிகாவத்தை ரயில் நிலையத்தில் நிறுத்தப்பட்டிருந்த 8346ஆம் எண் ரயிலின் மூன்றாம் வகுப்பு பெட்டியின் கழிப்பறையில் பெண் சிசுவின் சடலம் வெள்ளிக்கிழமை (01) கண்டுபிடிக்கப்பட்டுள்ளது.
+
+சடலமாக கண்டுபிடிக்கப்பட்ட அந்த சிசுவுக்கு சுமார் 3 நாட்கள் வயதாகும் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இரவு பயணத்தை முடித்து புத்தளத்திலிருந்து கல்கிசை நோக்கி வந்த ரயில் மாளிகாவத்தை நிலையத்தில் நிறுத்தப்பட்டிருந்தது. அதைப் பராமரிக்கச் சென்ற தொழிலாளர்கள் குழுவினர், மூன்றாம் வகுப்பு பெட்டியிலிருந்து கடும் துர்நாற்றம் வீசுவதை உணர்ந்து சோதனை செய்தபோது, ஒரு பையில் சுற்றப்பட்ட நிலையில் சிசுவின் சடலத்தைக் கண்டுபிடித்துள்ளனர்.
+
+தெமட்டகொட பொலிஸார் உடனடியாக சம்பவ இடத்திற்கு வருகை தந்து விசாரணைகளை ஆரம்பித்தனர். அளுத்கம நீதவானும் பின்னர் சம்பவ இடத்திற்கு வந்து சடலத்தையும் ரயில் பெட்டியையும் பார்வையிட்டார்.
+
+சிசுவின் சடலம் பிரேத பரிசோதனைக்காக அழைத்துச் செல்லப்பட்டுள்ளதுடன், சம்பவத்திற்கான காரணம் மற்றும் குற்றவாளியை கண்டறிய விசாரணைகள் தொடர்ந்து நடைபெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8e0c6a34.json)
 
 ---
 
@@ -1773,119 +1875,5 @@ He also thanked the United States for recognizing the challenges faced by Sri La
 ...
 
 [Data](articles/16c3c700.json)
-
----
-
-### இன்றும் பல பகுதிகளில் மனித உடலால் உணரக்கூடிய வெப்பம் அதிகரிப்பு
-
-*2025-08-01 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/221508) · `ta`
-
-நாட்டின் பல பகுதிகளில் இன்று வெள்ளிக்கிழமை (01) மனித உடலில் உணரப்படும் வெப்பநிலை அதிகரித்து காணப்படும் என வெப்ப சுட்டெண் ஆலோசனையை வளிமண்டலவியல் திணைக்களம் வெளியிட்டுள்ளது.
-
-அதன்படி,  வடக்கு, கிழக்கு மற்றும் வட-மத்திய மாகாணங்களின் சில பகுதிகளிலும், மொனராகலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் வெப்பம் அதிகரித்து காணப்படும் என கணிக்கப்பட்டுள்ளது.
-
-வெப்பநிலை மற்றும் ஈரப்பதத்தின் விளைவுகளை இணைப்பதன் மூலம் வெப்ப சுட்டெண் கணக்கிடப்படுகிறது, மேலும் உடலில் வெப்பத்தின் உண்மையான உணர்வை பிரதிபலிக்கிறது.
-
-எனவே மக்கள் அதிகளவு நீரை அருந்தவேண்டும் மற்றும் பணி செய்யும் இடங்களில் முடிந்தவரை அடிக்கடி நிழலில் ஓய்வு எடுக்க வேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
-
-இதேவேளை வெப்ப அலைகளின் போது மக்கள் இலகுரக மற்றும் வெள்ளை அல்லது வெளிர் நிற ஆடைகளை அணியுமாறும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது
-
-அதேநேரம் வீட்டில் உள்ள வயோதிபர்கள் மற்றும் நோய் நிலையுள்ளவர்கள் குறித்தும் அவதானத்துடன் இருக்குமாறு வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
-
-◼️
-
-[Data](articles/66e39550.json)
-
----
-
-### සොරබඩු සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
-
-*2025-08-01 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212890) · `si`
-
-කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත ග්‍රෑන්ඩ්පාස් පොලිස් වසමේදී හෙරොයින් ග්‍රෑම් 03යි මිලිග්‍රෑම් 20ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
-
-ඊයේ (31) දහවල් කාලයේදී අත්අඩංගුවට ගත් මෙම සැකකරු සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශයේදී සැකකරුගේ නිවසේ තිබී අනන්‍යතාවය තහවුරු කරගත නොහැකි ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක කිහිපයක් සොයාගෙන ඇත.
-
-ඒ අනුව වැල්ලම්පිටිය ප්‍රදේශයේදී සොරබඩු ළග තබාගෙන සිටි තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරුවන් අවුරුදු 41ක් හා 64ක් වන සේදවත්ත ප්‍රදේශයේ පදිංචිකරුවන් ය.
-
-සැකකරුවන් සන්තකයේ තිබී ජංගම දුරකථන 18ක්, ලැප්ටොප් පරිගණක 02ක්, ටැබ් යන්ත්‍ර 01ක්, පොලිෂර් යන්ත්‍රයක්, ග්‍රයින්ඩර් 05ක්, ග්‍රිල් යන්ත්‍ර 03ක් ඇතුළු භාණ්ඩ සොයාගෙන ඇත.
-
-කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/585e8ecb.json)
-
----
-
-### Seat belts mandatory for expressway bus passengers from Sep. 1?
-
-*2025-08-01 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111062/seat-belts-mandatory-for-expressway-bus-passengers-from-sep-1) · `en`
-
-Effective from today (August 1), it is now mandatory for all passengers travelling in the rear seats of light vehicles on expressways to wear seat belts.
-
-According to police, special inspections will be carried out to ensure compliance with this new safety regulation.
-
-Meanwhile, the National Transport Commission (NTC) has announced that, starting from September 1, all passengers travelling in passenger buses on expressways will also be required to wear seat belts.
-
-NTC Chairman, Engineer P.A. Chandrapala, highlighted the importance of this measure, stating:
-
-“There is a need to ensure that all passengers, including the driver, wear seat belts in passenger buses operating on expressways from the 1st of September.”
-
-◼️
-
-[Data](articles/5e98ec4a.json)
-
----
-
-### සෞදියේ සැණකෙළි භූමියක බිහිසුණු අනතුරක්
-
-*2025-08-01 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212889) · `si`
-
-සෞදි අරාබියේ සැණකෙළි භූමියක විනෝදාස්වාදය සඳහා ඉදිකර තිබූ උපාංගයක් (Fairground ride) කඩාවැටී සිදු වූ බිහිසුණු අනතුරකින් එහි සිටි 23 දෙනෙකු තුවාල ලබා රෝහල්ගත කර තිබේ.
-
-ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව එරට රාජ්‍ය මාධ්‍ය වාර්තා කරයි.
-
-ජෙඩා නගරයේ තායිෆ් හි අල්-හඩා ප්‍රදේශයේ විනෝද උද්‍යානයක මෙම අනතුර සිදුව ඇත.
-
-අනතුර සම්බන්ධයෙන් කලාපීය ආණ්ඩුකාරවරයා විශේෂ විමර්ශනයක් ආරම්භ කර ඇති අතර, එම විනෝද උද්‍යානය ද වසා දැමීමට නියෝග කර තිබේ.
-
-◼️
-
-[Data](articles/57ea3d56.json)
-
----
-
-### இலங்கை மீதான வரியை 20 சதவீதமாகக் குறைக்கும் அமெரிக்கா
-
-*2025-08-01 08:46:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீதான-வரியை-20-சதவீதமாகக்-குறைக்கும்-அமெரிக்கா/175-362154) · `ta`
-
-இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கான வரிகளை 20 சதவீதமாகக் குறைப்பதாக அமெரிக்கா அறிவித்துள்ளது.
-
-இந்த வரி விதிப்பு 2025 ஓகஸ்ட் 7 ஆம் திகதி முதல் அமுலாகிறது.  (a)
-
-◼️
-
-[Data](articles/07eabebd.json)
-
----
-
-### බුදුන්ගේ පූජනීය මැණික් තොගයක් නැවතත් ඉන්දියාවට
-
-*2025-08-01 08:16:11* · [`adalk`](https://www.ada.lk/international/බුදුන්ගේ-පූජනීය-මැණික්-තොගයක්-නැවතත්-ඉන්දියාවට/3-417654) · `si`
-
-ඇමෙරිකා එක්සත් ජනපදයේ සුප්‍රසිද්ධ වෙන්දේසි සමාගමක් වන Sotheby’s සමාගමට අයත්ව තිබූ ගෞතම බුදුරජාණන් වහන්සේගේ බව පැවසෙන පූජනීය මැණික් ප්‍රමාණයකින් කොටසක් ඉන්දියාව වෙත භාරදීමට එම සමාගම පියවර ගෙන ඇතැයි වාර්තා වෙයි.
-
-මෙම පූජනීය මැණික් තොගය පසුගිය මැයි මාසයේදී හොංකොංහිදී වෙන්දේසි කිරීමට නියමිතව තිබූ අතර, ඊට ඉන්දියාව ඇතුළුව ලොව පුරා බෞද්ධ ජනතාවගේ දැඩි විරෝධය එල්ල විය. කෙසේ වෙතත් මෙම වෙන්දේසිය සම්බන්ධයෙන් ඉන්දියාව සිදුකළ රාජතාන්ත්‍රික මැදිහත්වීමක ප්‍රතිඵලයක් ලෙස මෙම මැණික් ආපසු ඉන්දියාව වෙත හිමිව තිබෙන බව සඳහන් වෙයි.
-
-Sotheby’s සමාගම සඳහන් කරන ආකාරයට ඉන්දියාවේ පිහිටි ප්‍රමුඛතම සමාගම් සමූහයක් වන ගොඩ්‍රිජ් ඉන්ඩස්ට්‍රීස් සමාගම මෙම මැණික් මිලදී ගෙන තිබේ. ඒ අනුව මෙම මැණික් නැවතත් ඉන්දියාව ලබාදීමට හැකිවීම ගැන සතුටට පත්වන බව Sotheby’s සමාගම පවසා තිබේ.
-
-ඒ අනුව ඉදිරියේදී ඉන්දියාව තුළ මෙම පූජනීය මැණික් මහජන ප්‍රදර්ශනය සඳහා ස්ථිරවම තැනක තැන්පත් කෙරෙනු ඇති බව එම වෙන්දේසි සමාගම සඳහන් කරයි.
-
-◼️
-
-[Data](articles/39a237d2.json)
 
 ---

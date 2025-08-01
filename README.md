@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 17:53:22**
+As of **2025-08-01 18:09:50**
 
 ## Newspaper Stats
 
-*Scraped **68,135** Articles*
+*Scraped **68,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,553
-adaderanalk | 8,426
+adaderanalk | 8,428
 tamilmirrorlk | 9,884
-virakesarilk | 11,346
+virakesarilk | 11,348
 adaderanasinhalalk | 11,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,135 articles have been extended.
+61,973 (91.0%) of 68,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### அரசாங்கம் இனப்படுகொலைக்கு ஆளாகும் பாலஸ்தீன மக்களை ஆதரிக்க எந்த அர்த்தமுள்ள நடவடிக்கையையும் எடுக்கத் தவறிவிட்டது-இஸ்ரேலிய சுற்றுலாப்பயணிகளிற்கு இலவச வீசா வழங்கும் திட்டத்தை கைவிடுங்கள் - சோசலிஸ மக்கள் போரம் ஜனாதிபதிக்கு கடிதம்
+
+*2025-08-01 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221572) · `ta`
+
+இஸ்ரேலிய சுற்றுலாப்பயணிகளிற்கு இலவசவீசா வழங்கும் திட்டத்தை ஜனாதிபதி அனுரகுமாரதிசநாயக்க கைவிடவேண்டும் என வேண்டுகோள் விடுத்துள்ள சோசலிச மக்கள் போரம் இது தொடர்பில் ஜனாதிபதிக்கு கடிதம் ஒன்றையும் எழுதியுள்ளது.
+
+காசாவில் பாலஸ்தீனியர்களை கண்மூடித்தனமாக குண்டுவீசித் தாக்கிஇ குறிவைத்து கொலை செய்ததன் மூலமும் ஒட்டுமொத்த மக்களையும் வலுக்கட்டாயமாக இடம்பெயர்த்ததன் மூலமும் பெருமளவில் பட்டினியால் பாலஸ்தீன மக்களை அழித்ததன் மூலமும் இனப்படுகொலை செய்ததாக இஸ்ரேலிய பாதுகாப்புப் படையும் இஸ்ரேலிய அரசாங்கமும் குற்றம் சாட்டப்பட்டுள்ளன.
+
+காசாவில் உள்ள 2.1 மில்லியன் மக்களும் உணவுப் பற்றாக்குறையால் பாதிக்கப்பட்டுள்ளதாகவும் 900000 குழந்தைகள் பசியால் வாடுவதாகவும் 70இ000 பேர் ஏற்கனவே ஊட்டச்சத்து குறைபாட்டின் அறிகுறிகளைக் காட்டுவதாகவும் காசா சுகாதார அமைச்சகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/f340a9e5.json)
+
+---
 
 ### ශිෂ්‍යත්ව විභාගයේ  උපකාරක පන්ති පැවැත්වීම 06 වැනිදා මැදියම් රැයෙන් තහනම්
 
@@ -63,6 +79,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ddb0f4af.json)
+
+---
+
+### சிவகார்த்திகேயன் நடிக்கும் ' மதராஸி' திரைப்படத்தின் முதல் பாடல் வெளியீடு
+
+*2025-08-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/221570) · `ta`
+
+'அமரன் 'படத்தின் பிரம்மாண்டமான வெற்றியைத் தொடர்ந்து நடிகர் சிவகார்த்திகேயன் நடிப்பில் உருவாகி வரும் ' மதராஸி'  எனும் திரைப்படத்தில் இடம்பெற்ற 'சலம்பல..' எனும் முதல் பாடலும் , பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ஏ. ஆர். முருகதாஸ் இயக்கத்தில் உருவாகி வரும்' மதராஸி' திரைப்படத்தில் சிவகார்த்திகேயன் , ருக்மணி வசந்த் , வித்யுத் ஜம்ப்வால் , பிஜு மேனன், சபீர் , விக்ராந்த் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+சுதீப் இலாமோன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்ரீ லட்சுமி மூவிஸ் நிறுவனம் தயாரித்திருக்கிறது.
+
+எதிர்வரும் செப்டம்பர் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தில் இடம்பெற்ற ' சலம்பல சலம்பல அடியே கண்ணம்மா.. 'எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/f24b25bf.json)
+
+---
+
+### Ceylon Chamber commends tariff reduction, urges long-term trade strategy with US
+
+*2025-08-01 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111076/ceylon-chamber-commends-tariff-reduction-urges-long-term-trade-strategy-with-us) · `en`
+
+The Ceylon Chamber of Commerce (CCC) has commended the Government of Sri Lanka and the national negotiation team for securing a further reduction in the reciprocal tariff rate imposed by the United States on Sri Lankan exports—from 30% to 20%.
+
+In a statement issued by the Chamber, Chairperson Krishan Balendra described the development as a positive outcome of sustained diplomatic engagement.
+
+“While this is clear progress reflecting the value of sustained engagement and strategic diplomacy, it is now important to use this window of opportunity to work towards a long-term arrangement that ensures more stable and competitive market access for our exporters”, Balendra stated.
+
+The Chamber extended its appreciation to the officials involved for their proactive and strategic efforts, particularly in engaging with the U.S. Government and the Office of the United States Trade Representative (USTR) to secure this outcome.
+
+...
+
+[Data](articles/acb8080e.json)
 
 ---
 
@@ -101,6 +153,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8f43c48f.json)
+
+---
+
+### Heat advisory issued for several areas
+
+*2025-08-01 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111075/heat-advisory-issued-for-severalareas) · `en`
+
+The Meteorology Department has issued a Warm Weather Advisory for the North-Central and Eastern provinces, and the Monaragala and Hambantota districts.
+
+It states that the heat index — the temperature felt by the human body — is likely to increase to the ‘Caution level’ in some areas of the North-Central and Eastern provinces, and the Monaragala and Hambantota districts.
+
+As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
+
+Thus, members of the public are advised to stay hydrated, take breaks in the shade as often as possible, and limit strenuous outdoor activities. They are also requested to check on the elderly and the sick, never leave children unattended inside vehicles, and wear lightweight, white or light-colored clothing.
+
+...
+
+[Data](articles/e459c647.json)
 
 ---
 
@@ -1779,81 +1849,5 @@ The project was jointly launched by the Prime Minister of India and the Presiden
 ◼️
 
 [Data](articles/4e5c959e.json)
-
----
-
-### 2025-07-31 (Thursday)
-
-### கடந்த 6 மாதங்களில் 300 காவல்துறை அதிகாரிகள் இடைநீக்கம்
-
-*2025-07-31 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221497) · `ta`
-
-கடந்த ஆறு மாதங்களில் மட்டும் 300 பொலிஸ் அதிகாரிகள் இடைநீக்கம் செய்யப்பட்டுள்ளனர் என்று பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால கூறுகிறார்.
-
-ஒரு அரசாங்கமாக, அவர்களின் பதவியைப் பொருட்படுத்தாமல் யாருக்கும் எதிராக சட்டம் அமல்படுத்தப்படும் என்று அவர் மேலும் கூறினார்.
-
-பொது சேவையில் உள்ள ஒரு சிறிய எண்ணிக்கையிலான மக்கள் செய்யும் தவறுகளால் முழு பொது சேவையும் களங்கப்படுத்தப்படுகிறது என்றும் அமைச்சர் கூறினார்.
-
-◼️
-
-[Data](articles/02669869.json)
-
----
-
-### ගෙවුණු මාස 06ට පොලිස් නිලධාරීන් 300ගේ වැඩ තහනම්
-
-*2025-07-31 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212884) · `si`
-
-මෙම වසරේ පසුගිය මාස 06 ඇතුළත පමණක් පොලිස් නිලධාරීන් තුන්සීයක් වැඩ තහනමට ලක්ව ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-ඔහු වැඩිදුරටත් සඳහන් කළේ, රජයක් ලෙස තරාතිරම කුමක් වුවත් ඕනෑම අයෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කරන බවය.
-
-එමෙන්ම රාජ්‍ය සේවයේ නියුතු සුළු පිරිසක් සිදුකරන වැරදි හේතුවෙන් සමස්ත රාජ්‍ය සේවයටම කැළලක් ඇතිවන බව ද අමාත්‍යවරයා සඳහන් කළේය.
-
-''මේ මාස 6ට විතරක් 300ක් මේ වෙනකොට වැඩ තහනමට ලක්වෙලා තියෙනවා. එහෙම වැඩ තහනමට ලක් වෙන්නේ තමන් කරන, තමන්ට ලැබුණු රැකියාව පිළිබඳ ආදරයක්, බැඳීමක්, තමන් ලබන වැටුප මොන ආකාරයෙන්ද ලැබෙන්නේ කියලා හැඟීමක්, දැනීමක් නැති තැන.
-
-සමහර අය අවුරුදු 25ක් සේවයේ ඉඳලා තමන්ගේ තනතුර අහිමි කරගෙන, විශ්‍රාම වැටුප අහිමි කරගෙන සිරගත වන අවස්ථා අපි දැකලා තියෙනවා.
-
-අපේ පාලක ජෙනරාල්වරයාට, පොලිස්පතිවරයාට, බන්ධනාගාර කොමසාරිස් ජෙනරාල්වරයාට... මුලට තියෙනවා වැඩබලන කියලා.
-
-ඇයි වැඩබලන ඇවිල්ලා තියෙන්නේ. ආගමන පාලක ජෙනරාල්වරයා සිරගත වෙනවා, පොලිස්පතිවරයා සිරගතවෙලා ඇප පිට ඉන්නවා, බන්ධනාගාර කොමසාරිස්වරයා තමන්ගෙම බන්ධනාගාරයේ බන්ධනාගාර ගතවෙලා ඇප පිට නිදහස් වෙලා ඉන්නවා.
-
-...
-
-[Data](articles/380788c2.json)
-
----
-
-### மனித எச்சங்கள் கண்டுபிடிக்கப்பட்ட இடம் 'ஒரு மயான பூமி' அல்ல
-
-*2025-07-31 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221496) · `ta`
-
-கிழக்கு மாகாணத்தில் அரசாங்கப் படைகளால் கொல்லப்பட்ட தமிழர்களை நினைவுகூரும் வகையில் அமைக்கப்பட்ட நினைவுச்சின்னத்திற்கு அருகில் மனித எச்சங்கள் கண்டுபிடிக்கப்பட்ட இடம் 'ஒரு மயான பூமி' என்ற கூற்றை ஆதரிக்க போதுமான ஆதாரங்கள் இல்லையென தொல்பொருள் திணைக்களம் நீதிமன்றத்திற்குத் தெரிவித்துள்ளது.
-
-அந்த இடத்தில் கண்டுபிடிக்கப்பட்ட மனித எச்சங்களின் உரிமையாளர்களின் மரணத்திற்கான காரணத்தைக் கண்டறிய மேலும் ஆழமான ஆய்வுகள் நடத்தப்பட வேண்டுமென சட்ட வைத்திய அதிகாரி நீதவான் நீதிமன்றத்திற்குத் தெரிவித்துள்ளார்.
-
-திருகோணமலை மாவட்டத்தில் உள்ள சம்பூர் கடற்கரையில் கண்ணிவெடி அகற்றும் நடவடிக்கையை மேற்கொண்டிருந்த பிரித்தானியாவை தளமாகக் கொண்ட ஒரு நிறுவனம் ஜூலை 20 அன்று மண்டை ஓடு உள்ளிட்ட எலும்புகளைக் கண்டுபிடித்தது.
-
-ஜூலை 30 ஆம் திகதிக்குள் அந்த இடத்தின் வரலாறு குறித்து நீதிமன்றத்திற்கு அறிக்கை சமர்ப்பிக்க தொல்பொருள் திணைக்களத்திற்கு உத்தரவிட்ட மூதூர் நீதிபதி, அகழ்வாய்வு குறித்த அறிக்கையை நீதிமன்றத்திற்கு சமர்ப்பிக்க சட்ட வைத்திய அதிகாரிக்கு உத்தரவிட்டார்.
-
-...
-
-[Data](articles/c71f6aea.json)
-
----
-
-### Bocuse d’Or Sri Lanka Finale showcases culinary excellence at Colombo Academy of Hospitality Management (CAHM) @ SLIIT
-
-*2025-07-31 21:50:00* · [`islandlk`](http://island.lk/bocuse-dor-sri-lanka-finale-showcases-culinary-excellence-at-colombo-academy-of-hospitality-management-cahm-sliit/) · `en`
-
-The prestigious Bocuse d’Or Sri Lanka Finale, often called the “Oscars of the Culinary Industry,” was held on 27th July 2025 at the Colombo Academy of Hospitality Management (CAHM) @ SLIIT, reaffirming its status as Sri Lanka’s premier hub for hospitality and culinary training.
-
-CAHM, in partnership with the William Angliss Institute Australia (RTO 3045), offers internationally benchmarked qualifications and industry-grade kitchen facilities designed to meet global competition standards.
-
-“The facilities at CAHM are exceptional; world-class kitchens, top-tier workstations, and a training environment that truly prepares students for international challenges,” said Chef Rohan Fernandopulle, President of Bocuse d’Or Sri Lanka.
-
-...
-
-[Data](articles/91c05bcd.json)
 
 ---

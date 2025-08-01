@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 11:56:30**
+As of **2025-08-01 12:13:45**
 
 ## Newspaper Stats
 
-*Scraped **68,086** Articles*
+*Scraped **68,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,549
 adaderanalk | 8,418
-tamilmirrorlk | 9,880
+tamilmirrorlk | 9,882
 virakesarilk | 11,335
-adaderanasinhalalk | 11,706
+adaderanasinhalalk | 11,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,086 articles have been extended.
+61,973 (91.0%) of 68,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### முன்னாள் அமைச்சர் சந்திரசேனவுக்கு நிபந்தனை பிணை
+
+*2025-08-01 11:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-சந்திரசேனவுக்கு-நிபந்தனை-பிணை/175-362165) · `ta`
+
+முன்னாள் பொருளாதார மேம்பாடு மற்றும் சிறப்புத் திட்டங்கள் பிரதி அமைச்சர் எஸ்.எம். சந்திரசேனவை இன்று கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க பிணையில் விடுவித்தார்.
+
+சந்தேக நபருக்கு நீதிமன்றம் ரூ. 50,000 ரொக்கப் பிணையையும் தலா ரூ. 5 மில்லியன் இரண்டு பிணைப் பத்திரங்களையும் வழங்கியது. பயணத் தடையும் விதிக்கப்பட்டது.
+
+2015 தேர்தலுக்கு முன்னதாக, குறைந்த வருமானம் கொண்ட விவசாயிகளுக்கு ஒதுக்கப்பட்ட ரூ. 25 மில்லியன் மதிப்புள்ள விதை நெல்லை தனது அரசியல் கூட்டாளிகளுக்கு விநியோகிக்க 2014 ஆம் ஆண்டு அனுராதபுரம் மாவட்டச் செயலக அதிகாரிகளை செல்வாக்கு செலுத்தியதாக சந்திரசேன மீது குற்றம் சாட்டப்பட்டுள்ளது,
+
+இது அரசுக்கு இழப்பை ஏற்படுத்தியதாகக் கூறப்படுகிறது. லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணையத்தின் (CIABOC) அதிகாரிகள், விசாரணை பெரும்பாலும் முடிந்துவிட்டதாக நீதிமன்றத்திற்குத் தெரிவித்து பொருத்தமான உத்தரவைக் கோரினர்.
+
+சமர்ப்பிக்கப்பட்ட மேலும் அறிக்கையை மதிப்பாய்வு செய்த பிறகு, பிணை மறுக்க போதுமான காரணங்கள் இல்லை என்று நீதவான் தீர்ப்பளித்தார், அதன்படி சந்திரசேனவை விடுவிக்க உத்தரவிட்டார்
+
+◼️
+
+[Data](articles/a5b5cef5.json)
+
+---
+
+### 2025 LPL තරගාවලියට දින වෙන්වෙයි
+
+*2025-08-01 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212893) · `si`
+
+2025 ලංකා ප්‍රිමියර් ලීග් (LPL) ක්‍රිකට් තරගාවලිය නොවැම්බර් මස 27 වනදා සිට දෙසැම්බර් 23 වනදා දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් අද නිවේදනය කළේය.
+
+තරගාවලිය පැවැත්වන 6 වන අදියර මෙය වන අතර, මෙහි තරග කොළඹ, පල්ලෙකැලේ සහ දඹුල්ල ක්‍රීඩාංගණය වලදී පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/31d49fc4.json)
+
+---
+
+### லங்கா பிரீமியர் லீக்கின் முக்கிய அறிவிப்பு
+
+*2025-08-01 11:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/லங்கா-பிரீமியர்-லீக்கின்-முக்கிய-அறிவிப்பு/44-362162) · `ta`
+
+லங்கா பிரீமியர் லீக்கின் (LPL) ஆறாவது பதிப்பு 2025 நவம்பர் 27 முதல் டிசம்பர் 23 வரை நடைபெறும் என்று இலங்கை கிரிக்கெட் (SLC) தெரிவித்துள்ளது.
+
+2020 ஆம் ஆண்டு தொடங்கப்பட்டதிலிருந்து இலங்கையின் கிரிக்கெட் நாட்காட்டியில் ஒரு முக்கிய நிகழ்வாக மாறியுள்ள இந்தப் போட்டியில்,
+
+கொழும்பில் உள்ள ஆர். பிரேமதாச சர்வதேச கிரிக்கெட் மைதானம் (RPICS), பல்லேகலே சர்வதேச கிரிக்கெட் மைதானம் (PICS) மற்றும் ரங்கிரி தம்புள்ள சர்வதேச கிரிக்கெட் மைதானம் (RDICS) ஆகிய மூன்று முக்கிய சர்வதேச மைதானங்களில் போட்டிகள் இடம்பெறும்.
+
+LPL 2025 இன் நேரம், 2026 ஐசிசி ஆண்கள் டி20 உலகக் கோப்பைக்கான தயாரிப்புகளுடன் போட்டியை இணைக்கும் நோக்கம் கொண்டது என்று போட்டி இயக்குநர் சமந்தா தோடன்வெலா கூறினார்.
+
+"இந்த காலகட்டத்தில் LPL ஐ நடத்தும் யோசனை, 2026 ஐசிசி ஆண்கள் டி20 உலகக் கோப்பையுடன் போட்டியை இணைப்பதை நோக்கமாகக் கொண்டுள்ளது" என்று அவர் கூறினார்
+
+◼️
+
+[Data](articles/24d379e9.json)
+
+---
+
+### இலங்கையின் அரச வைத்தியத்துறையில் IVF முறையில் முதலாவது குழந்தை பிறந்தது
+
+*2025-08-01 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221515) · `ta`
+
+இலங்கையின் அரச வைத்தியத்துறையில் செயற்கை கருத்தரிப்பு முறையில் (IVF) வெற்றிகரமாக முதலாவது குழந்தை வியாழக்கிழமை (31) ராகமவில் உள்ள வடக்கு கொழும்பு போதனா வைத்தியசாலையில் பிறந்துள்ளது.
+
+இது களனி பல்கலைக்கழக மருத்துவ பீடத்தின் மகப்பேறியல் மற்றும் மகளிர் மருத்துவத் துறையின் IVF நிலையத்தின் ஒரு வருட கால முயற்சியின் விளைவாக இடம்பெற்றுள்ளது.
+
+கடந்த ஆண்டு இந்த IVF செயற்கை கருத்தரிப்பு முறை முதன் முதலில் பல்கலைக்கழகத்தின் கருத்தரித்தல் மையத்தில் மேற்கொள்ளப்பட்டது.  அரசாங்கம் நடத்தும் IVF திட்டத்திற்குப் பின்னர் அரசாங்க வைத்தியசாலையில் குழந்தை ஒன்று பிறப்பது இதுவே முதல் முறை ஆகும்.
+
+களனி பல்கலைக்கழகத்தின் ஆலோசகர் மகப்பேறியல் மற்றும் மகளிர் வைத்திய நிபுணர் பேராசிரியர் ரசிக்கா ஹேரத் தலைமையிலான மருத்துவக் குழுவால் சிசேரியன் செய்யப்பட்டுள்ளது.
+
+இந்த சாதனை, அதே பீடத்தைச் சேர்ந்த மூத்த விரிவுரையாளரும் கருத்தரித்தல் வைத்தியர் நிபுணர் சுரங்க ஹெட்டிபத்திரண தலைமையிலான மருத்துவக் குழுவால் நடத்தப்பட்ட அரசாங்க கருத்தரித்தல் மையத்தில் நடத்தப்பட்ட முதலாவது வெற்றிகரமான IVF கருத்தரிப்பு என்பதிலும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3422fbfc.json)
+
+---
 
 ### 25 எம்.பிக்கள் 100முன்னாள் எம்.பிகளுக்கு எச்சரிக்கை கடிதம்
 
@@ -45,24 +119,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5c0ab186.json)
-
----
-
-### இலங்கையின் அரச வைத்தியத்துறையில் IVF முறையில் முதலாவது குழந்தை பிறந்தது
-
-*2025-08-01 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221515) · `ta`
-
-இலங்கையின் அரச வைத்தியத்துறையில் செயற்கை கருத்தரிப்பு முறையில் (IVF) வெற்றிகரமாக முதலாவது பிரவசம் வியாழக்கிழமை (31) ராகமவில் உள்ள வடக்கு கொழும்பு போதனா வைத்தியசாலையில் இடம்பெற்றுள்ளது.
-
-இது களனி பல்கலைக்கழக மருத்துவ பீடத்தின் மகப்பேறியல் மற்றும் மகளிர் மருத்துவத் துறையின் IVF நிலையத்தின் ஒரு வருட கால முயற்சியின் விளைவாக இடம்பெற்றுள்ளது.
-
-இந்த வெற்றிகரமான பிரசவத்திற்கு வழிவகுத்த IVF நடைமுறை, முதன் முதலில் கடந்த ஆண்டு பல்கலைக்கழகத்தின் கருத்தரித்தல் மையத்தில் மேற்கொள்ளப்பட்டது. அரசாங்கம் நடத்தும் IVF திட்டத்திற்குப் பின்னர் அரசாங்க வைத்தியசாலையில் குழந்தை ஒன்று பிறப்பது இதுவே முதல் முறை ஆகும்.
-
-களனி பல்கலைக்கழகத்தின் ஆலோசகர் மகப்பேறியல் மற்றும் மகளிர் வைத்திய நிபுணர் பேராசிரியர் ரசிக்கா ஹேரத் தலைமையிலான மருத்துவக் குழுவால் சிசேரியன் பிரசவம் செய்யப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3422fbfc.json)
 
 ---
 
@@ -110,11 +166,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Former Minister S.M. Chandrasena has been granted bail after being produced before the Colombo Chief Magistrate’s Court today (01).
 
-He was arrested by the Bribery Commission on July 04 on suspicion of committing the offence of corruption.
+Colombo Chief Magistrate Thanuja Lakmali issued the bail order after considering the facts presented by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the defense counsel.
 
-In 2014, maize seeds worth Rs. 25 million—procured for distribution to poor farmers in the Anuradhapura District at subsidized prices—were allegedly distributed instead to his friends and political supporters. This distribution, reportedly carried out in violation of established legal procedures, is believed to have been aimed at gaining political advantage during that year’s presidential election.
+At the hearing, a Bribery Commission officer informed the court that the investigation into the matter is nearing completion. The officer also stated that statements are yet to be recorded from several agriculture officers, and requested an appropriate order to proceed accordingly.
 
-◼️
+Appearing on behalf of the suspect, Attorney-at-Law Chaminda Athukorala stated that the former minister has fully cooperated with the investigation and that there have been no allegations of witness intimidation or interference.
+
+In light of this, the defense requested that bail be granted under suitable conditions.
+
+...
 
 [Data](articles/268cb1db.json)
 
@@ -1697,63 +1757,5 @@ To reach the target, the Central Bank is conducting a series of island-wide prog
 ◼️
 
 [Data](articles/1d9fffcf.json)
-
----
-
-### Sri Lanka’s PABC Bank net up 71-pct in June 2025 quarter
-
-*2025-07-31 17:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-pabc-bank-net-up-71-pct-in-june-2025-quarter-233962/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s PABC Bank said net profits for the June 2025 quarter grew 71 percent to 1,135.1 million rupees from a year earlier, helped by lower interest expenses, reduced bad loans and income tax expenses, the earnings filed to the Colombo Stock Exchange showed.
-
-PABC reported earnings of 2.56 rupees for the quarter. For the six months to June 30, earnings were 4.68 rupees on total profits of 2,151.9 billion rupees.
-
-Income taxes in the quarter were down 43 percent to 307.4 million rupees from 538.6 million rupees in the same quarter a year earlier.
-
-Interest income was steady at 7.6 billion rupees, interest expenses, however, fell 5 percent to 4.37 billion rupees and net interest income grew 9 percent to 3.23 billion rupees.
-
-For the quarter the PABC provided 181 million rupees for impairments, 55 percent lower than 401.4 million rupees in the June quarter a year earlier amid some recovery in the economy.
-
-...
-
-[Data](articles/5a8b8201.json)
-
----
-
-### චොකා මල්ලී නිදහස් කිරීමේ තීන්දුවට එරෙහි නීතිපතිගේ විශේෂ අභියාචනය විභාගයට ගනියි
-
-*2025-07-31 17:38:09* · [`adalk`](https://www.ada.lk/breaking_news/චොකා-මල්ලී-නිදහස්-කිරීමේ-තීන්දුවට-එරෙහි-නීතිපතිගේ-විශේෂ-අභියාචනය-විභාගයට-ගනියි/11-417643) · `si`
-
-2015 ජනාධිපතිවරණ සමයේ රත්නපුර කහවත්ත ප්‍රදේශයේදී පුද්ගලයකුට වෙඩි තබා ඝා නතනය කිරීම සම්බන්ධයෙන් වරදකරුවන් වී මරණ දඩුවම නියමව සිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රී ප්‍රේමලාල් ජයසේකර මහතා ඇතුළු විත්තිකරුවන් තිදෙනා සියලු චෝදනාවලින් නිදොස් කොට නිදහස් කරමින් අභියාචනාධිකරණය දුන් තීන්දුවට එරෙහිව නීතීපතිවරයා ගොනුකර ඇතිූ විශේෂ අභියාචන පෙත්සම විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (31) තීරණය කළේය.
-
-අභියාචනාධිකරණය තීන්දුවට එරෙහිව නීතීපතිවරයා ගොනුකර ඇතිූ විශේෂ අභියාචන පෙත්සම ලබන වර්ෂයේ පෙබරවාරි 13 වැනිදා විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන්වන ජනක් ද සිල්වා” ප්‍රියන්ත ප්‍රනාන්දු සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් හමුවේ මෙම විශේෂ අභියාවත පෙත්සම සලකා බැලිණී.
-
-...
-
-[Data](articles/50ebedd4.json)
-
----
-
-### Sri Lanka consumer prices rise 2.9-pct over 34-months, July prices down
-
-*2025-07-31 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-prices-rise-2-9-pct-over-34-months-july-prices-down-233947/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s consumer prices fell 0.3 percent in the 12-months to July 2025, with prices dropping 0.2 percent in July, data from the state statistics office showed.
-
-Sri Lanka’s central bank has created only 2.9 percent inflation in the 34 months since September 2022, when deflationary policy started showing up in the balance of payments.
-
-But the central bank printed money in the last quarter of 2024 as a pickup in credit pushed up interbank rates.
-
-Excess liquidity built up in the first quarter from dollar purchases which the central bank’s founder Governor John Exter, who had superior knowledge of note-issue banking, once called ‘monetizing the balance of payments’.
-
-In June food prices were rose 0.9 percent in the 33 months from September 2022, but in July 2025 food price were down 1.5 percent over 34 months.
-
-Sri Lanka’s central bank has also been helped by better monetary policy from the Fed.
-
-...
-
-[Data](articles/7ebf389c.json)
 
 ---

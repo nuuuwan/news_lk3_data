@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 20:07:13**
+As of **2025-08-01 20:22:25**
 
 ## Newspaper Stats
 
-*Scraped **68,151** Articles*
+*Scraped **68,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,555
 adaderanalk | 8,428
-tamilmirrorlk | 9,886
+tamilmirrorlk | 9,888
 virakesarilk | 11,353
-adaderanasinhalalk | 11,727
+adaderanasinhalalk | 11,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,151 articles have been extended.
+61,973 (90.9%) of 68,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### එල් සැල්වදෝර් ජනාධිපතිට නැවත තරග කරන්න පාර්ලිමේන්තුවෙන් අනුමැතිය
+
+*2025-08-01 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212914) · `si`
+
+මධ්‍යම අමෙරිකානු රාජ්‍යයක් වන එල් සැල්වදෝරය ගැන පසුගිය කාලයේදී කතාබහට ලක්වුණේ එහි අධිරක්ෂිත බන්ධනාගාරයේ අමෙරිකාව පිටුවහල් කරන අපරාධකරුවන් ලෙස හංවඩු ගැසූ සංක්‍රමණිකයන් රැඳවීම හේතුවෙනි.
+
+ඒ සඳහා අමෙරිකාවේ ට්‍රම්ප් පරිපාලනය එල් සැල්වදෝරයේ COOL DICTATOR යන අන්වර්ථ නාමයෙන් හැඳින්වෙන ජනාධිපති නයිබ් බුකලේ සමග ගිවිසුමකටත් එළඹුණි.
+
+තවමත් 44 වැනි වියේ පසුවන ජනාධිපති නයිබ් බුකලේ එරට ජනාධිපති ධුරය හොබවන්නේ 2019 වසරේ සිටය.
+
+නයිබ් බුකලේ රට තුළ මේ තරම් ජනප්‍රසාදයක් දිනාගැනීමට සමත්වුණේ රටේ අපරාධ කල්ලි මැඬලීමට ඔහු දැඩි පියවර ගැනීම හේතුවෙනි.
+
+මේ නිසා අනෙකුත් කලාපීය රටවලට සාපේක්ෂව එල් සැල්වදෝරයේ අපරාධ කල්ලිවල ප්‍රචණ්ඩත්වය බෙහෙවින් අඩු මට්ටමක පවතියි.
+
+එහෙත් ඔහුගේ මේ අයෝමය හස්තය ජාත්‍යන්තර මානව හිමිකම් සංවිධානවල විවේචනයට ලක්ව ඇත.
+
+එල් සැල්වදෝර් ව්‍යවස්ථාව අනුව බුකලේට නැවතත් ජනාධිපතිවරණයට ඉදිරිපත්වන්න හැකියාවක් නොමැත.
+
+එහෙත් ඔහුට මීළඟ ජනාධිපතිවරණයට තරග කරන්න වගේම වර්තමාන ධුරකාලය වසර පහේ සිට වසර 6 දක්වා දීර්ඝ කරන්න එල් සැල්වදෝර් පාර්ලිමේන්තුව ඊයේ අනුමැතිය ලබා දුන්නේය.
+
+...
+
+[Data](articles/d6fbee68.json)
+
+---
+
+### ரயிலில் பல நாட்கள் பழமையான சிசுவின் எச்சங்கள் மீட்பு
+
+*2025-08-01 19:56:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-பல-நாட்கள்-பழமையான-சிசுவின்-எச்சங்கள்-மீட்பு/175-362172) · `ta`
+
+புத்தளத்தில் இருந்து கொழும்பு நோக்கிப் பயணித்த புகையிரதத்தில் கைவிடப்பட்ட நிலையில், பல நாட்கள் பழமையானதாக நம்பப்படும் சிசுவின் சடலம் ஒன்று  கண்டுபிடிக்கப்பட்டது.
+
+புகையிரதத்தின் கழிவறையைச் சுத்தம் செய்யும் போது துப்பரவு பணியாளர் ஒருவரால் குறித்த சிசுவின் சடலம் கண்டுபிடிக்கப்பட்டது.
+
+சம்பவ இடத்திற்குச் சென்று சடலத்தை பார்வையிட்ட பொலிஸார், கொழும்பு மேலதிக நீதவான் கசுன் காஞ்சன திஸாநாயக்கவிடம் உண்மைகளை முன்வைத்தனர்.
+
+இதையடுத்து சிசுவின் எச்சங்களைப் பிரேதப் பரிசோதனைக்கு அனுப்பி அதன் அறிக்கையை நீதிமன்றத்தில் சமர்ப்பிக்குமாறு நீதவான் உத்தரவிட்டார். R
+
+◼️
+
+[Data](articles/fc6eaf49.json)
+
+---
+
+### அனைத்து மேலதிக வகுப்புகளுக்கும் தடை விதிப்பு
+
+*2025-08-01 19:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-மேலதிக-வகுப்புகளுக்கும்-தடை-விதிப்பு/175-362170) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையை இலக்காகக் கொண்ட அனைத்து மேலதிக வகுப்புகள், விரிவுரைகள், கருத்தரங்குகள் மற்றும் செயலமர்வுகள் அனைத்தும் எதிர்வரும் 06 ஆம் திகதி நள்ளிரவு முதல் தடை செய்யப்படுவதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, தடையை மீறுவோருக்கு எதிராக கடும் நடவடிக்கை எடுக்கப்படும் என பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+தரம் 5 புலமைப்பரிசில் பரீட்சை எதிர்வரும் ஓகஸ்ட் மாதம்  10ஆம் திகதி நடைபெறவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/a57f142e.json)
+
+---
 
 ### பியூமி, தம்புகல குறித்து வெளியான விஷேட செய்தி
 
@@ -1823,45 +1883,5 @@ In November 1988, elections were held together for the temporarily merged Northe
 ...
 
 [Data](articles/e7a70cb7.json)
-
----
-
-### How bacteria exposed a scandal
-
-*2025-08-01 05:26:39* · [`dailyftlk`](https://www.ft.lk/columns/How-bacteria-exposed-a-scandal/4-779758) · `en`
-
-We’re all familiar with the Sinhalese phrase ‘nangi pennala akka dunna wage’. Which is a story of deception in which a prospective bachelor is promised the pretty younger sister but ends up being married off to the unattractive older sister. But who would have thought to do such a thing in pharmaceutical procurement?
-
-In 2023, the Ministry of Health imported vials of what was supposed to be human immunoglobulin, which is a crucial drug for patients with serious immune disorders. But when the vials were delivered and administered, they were found to contain nothing but water. Fast forward a year or so, the (former) Health Minister at the time is arrested and remanded along with key officials in the Medical Supplies Division and the importing company.
-
-...
-
-[Data](articles/68af2ef9.json)
-
----
-
-### Reforming Sri Lanka’s coconut auction system: Call to empower growers and restore fairness
-
-*2025-08-01 05:23:08* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-Sri-Lanka-s-coconut-auction-system-Call-to-empower-growers-and-restore-fairness/4-779757) · `en`
-
-Sri Lanka cannot continue to celebrate its status as a global coconut leader while ignoring the inequities faced by its primary producers
-
-Sri Lanka’s coconut industry stands as a cornerstone of the national economy deeply rooted in its cultural heritage, rural livelihoods, and food security. Encompassing over 409,000 hectares and producing close to three billion coconuts annually, the sector provides essential employment, stabilises rural communities, and earns valuable foreign exchange. In 2024 alone, Sri Lanka generated $ 856 million from coconut and coconut-based exports, reaffirming its global leadership as the number one exporter of coconut milk, cream, and powder; second in coir products; and third in desiccated coconut.
-
-...
-
-[Data](articles/e8f560a2.json)
-
----
-
-### Pearl of a judgement for pearl of contention
-
-*2025-08-01 05:08:50* · [`dailyftlk`](https://www.ft.lk/columns/Pearl-of-a-judgement-for-pearl-of-contention/4-779756) · `en`
-
-X-Press Pearl, the pearl of contention (https://www.ft.lk/columns/Our-X-Press-Pearl-of-contention/4-719880), is back in the news with Sri Lanka’s highest court issuing a stern, far-reaching judgement – a 361-page document! The Supreme Court has given a landmark ruling for a fundamental rights case raised by three petitioners and has awarded compensation that sets a record and has multiple precedents. Clear and firm judgment on ‘who was responsible’ is welcome. A whole series of activities has been initiated by the decree, with the courts keeping oversight on how matters are proceeding.
-
-...
-
-[Data](articles/8e798e05.json)
 
 ---

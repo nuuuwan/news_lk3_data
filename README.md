@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 05:18:43**
+As of **2025-08-01 05:32:00**
 
 ## Newspaper Stats
 
-*Scraped **68,039** Articles*
+*Scraped **68,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 698
-islandlk | 4,149
+islandlk | 4,151
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,803
+dailyftlk | 4,804
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,039 articles have been extended.
+61,973 (91.1%) of 68,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### Pearl of a judgement for pearl of contention
+
+*2025-08-01 05:08:50* · [`dailyftlk`](https://www.ft.lk/columns/Pearl-of-a-judgement-for-pearl-of-contention/4-779756) · `en`
+
+X-Press Pearl, the pearl of contention (https://www.ft.lk/columns/Our-X-Press-Pearl-of-contention/4-719880), is back in the news with Sri Lanka’s highest court issuing a stern, far-reaching judgement – a 361-page document! The Supreme Court has given a landmark ruling for a fundamental rights case raised by three petitioners and has awarded compensation that sets a record and has multiple precedents. Clear and firm judgment on ‘who was responsible’ is welcome. A whole series of activities has been initiated by the decree, with the courts keeping oversight on how matters are proceeding.
+
+...
+
+[Data](articles/8e798e05.json)
+
+---
 
 ### COYLE and JETRO sign landmark MoU to champion health and productivity
 
@@ -1777,19 +1789,5 @@ Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smok
 ...
 
 [Data](articles/ea0dd0ad.json)
-
----
-
-### பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு பிணை
-
-*2025-07-31 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221455) · `ta`
-
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவின் மகளுக்கு மத்துகம நீதவான் நீதிமன்றம் பிணை வழங்கியுள்ளது.
-
-சட்டவிரோத வாகன வழக்கு தொடர்பாக நேற்று புதன்கிழமை (30) இவர் கைது செய்யப்பட்டிருந்திருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/903615b8.json)
 
 ---

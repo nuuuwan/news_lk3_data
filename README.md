@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 21:21:02**
+As of **2025-08-01 21:33:06**
 
 ## Newspaper Stats
 
-*Scraped **68,160** Articles*
+*Scraped **68,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 4,811
 adalk | 6,556
 adaderanalk | 8,431
 tamilmirrorlk | 9,888
-virakesarilk | 11,353
+virakesarilk | 11,356
 adaderanasinhalalk | 11,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,160 articles have been extended.
+61,973 (90.9%) of 68,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### தரம் 05 புலமைப்பரிசில் பரீட்சைக்கான மேலதிக வகுப்புக்களுக்கு தடை?
+
+*2025-08-01 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221587) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையை இலக்காகக் கொண்டு நடத்தப்படும் அனைத்து மேலதிக வகுப்புகள், விரிவுரைகள், கருத்தரங்குகள் மற்றும் செயலமர்வுகள் எதிர்வரும் ஆகஸ்ட் 6ஆம் திகதி நள்ளிரவு முதல் தடை செய்யப்படும் என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+இந்த தடையை மீறும் ஆசிரியர்கள், பாடசாலைகள் அல்லது நிறுவனங்களுக்கு எதிராக கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர எச்சரித்துள்ளார்.
+
+இந்நிலையில், தரம் 5 புலமைப்பரிசில் பரீட்சை ஆகஸ்ட் 10ஆம் திகதி நடைபெற உள்ளது. இந்தப் பரீட்சை நாடளாவிய ரீதியில் 2,787 பரீட்சை நிலையங்களில் இடம்பெறும் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d2694147.json)
+
+---
 
 ### සයිබර් වංචාවලින් ඉන්දියාවට 2024දී රුපියල් කෝටි 23,000ක් අහිමි වෙලා
 
@@ -47,6 +63,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6fbdea25.json)
+
+---
+
+### ஊடகவியலாளர் நிலக்சனின் 18ஆம் ஆண்டு நினைவேந்தல் யாழில் அனுஷ்டிப்பு
+
+*2025-08-01 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221586) · `ta`
+
+படுகொலை செய்யப்பட்ட ஊடகவியலாளரும் யாழ் மாணவர் பேரவையின் தலைவருமான சகாதேவன் நிலக்சனின் 18 ஆம் ஆண்டு நினைவேந்தல் யாழில் அனுஷ்டிக்கப்பட்டது.
+
+தமிழ்த் தேசிய மக்கள் முன்னணியின் ஏற்பாட்டில் அக் கட்சியின்  யாழ்ப்பாண தலைமை அலுவலகத்தில் வெள்ளிக்கிழமை (1) மாலை இவ் நினைவேந்தல் அனுஷ்டிக்கப்பட்டது.
+
+இத் போது நிலக்சனின் திருவுருவ படத்திற்கு சுடரேற்றி மலர்மாலை அணிவித்து மலரஞ்சலி செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/e36a7081.json)
 
 ---
 
@@ -73,6 +105,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/50a504a2.json)
+
+---
+
+### செம்மணி மனிதப் புதைகுழி சான்றுகள்: உறவுகள் அடையாளம் காண அவை பொதுமக்களுக்கு காட்சிப்படுத்தப்படும்
+
+*2025-08-01 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/221585) · `ta`
+
+செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களை காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் அடையாளம் காண உதவும் வகையில் அவற்றை காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+குற்ற புலனாய்வு பிரிவின் மனித கொலை விசாரணை பிரிவின் , நிலைய பொறுப்பதிகாரி யாழ் . நீதவான் நீதிமன்றில் செய்த விண்ணப்பபத்தின் பிரகாரம் சான்று பொருட்களை காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அதன் அடிப்படையில் எதிர்வரும் செவ்வாய்க்கிழமை மதியம் 01.30 மணி முதல் மாலை 05 மணி வரையில் அரியாலை சிந்துப்பாத்தி இந்து மயானத்தில் மக்களின் பார்வைக்காக சான்று பொருட்கள் வைக்கப்படவுள்ளன.
+
+செம்மணி புதைகுழிகளில் இருந்து இதுவரையில் , புத்தக பை , சிறுவர்களின் காலணிகள் , குழந்தையின் பால் போச்சி , வளையல்கள் , உள்ளிட்ட 54 சான்று பொருட்கள் மீட்கப்பட்டு , அவை நீதிமன்ற கட்டுக்காவலில் வைக்கப்பட்டுள்ளன.
+
+அவற்றினை பொதுமக்களுக்கு காட்சிப்படுத்தி , அவற்றை அடையாளப்படுத்த கூடியவர்கள் , நீதிமன்றுக்கோ , குற்ற புலனாய்வு துறையினருக்கோ தெரிவிப்பதன் ஊடாக விசாரணைக்கு ஒத்துழைக்குமாறு கேட்டுக்கொள்ளப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/71372a23.json)
 
 ---
 
@@ -1845,69 +1897,5 @@ He also increased duties on Canadian goods to 35% from 25% for all products not 
 ◼️
 
 [Data](articles/026622c8.json)
-
----
-
-### ට්‍රම්ප්ගේ තීරු බද්ද සියයට 20ක් දක්වා අඩුකරයි
-
-*2025-08-01 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212885) · `si`
-
-අමෙරිකානු එක්සත් ජනපදය විසින් ශ්‍රී ලංකාවෙන් ආනයනය කෙරෙන භාණ්ඩ සඳහා අයකරන අන්‍යෝන්‍ය තීරුබදු අනුපාතය 20%ක් දක්වා තවදුරටත් අඩුකර තිබේ.
-
-අමෙරිකාව විසින් ශ්‍රී ලංකාවෙන් සිදුකරන ආනයන මත පනවන 30%ක අන්‍යොන්‍ය තීරුබදු අනුපාතයක් ප්‍රකාශයට පත්කර තිබූ අතර, එය අද (1) සිට ක්‍රියාත්මක වීමට නියමිතව තිබුණි.
-
-ධවල මන්දිරය නිකුත් කළ නිවේදනයට අනුව ශ්‍රී ලංකාව ඇතුළු රටවල් කිහිපයකම මෙලෙස තීරුබදු අනුපාත පහත හෙළා තිබේ.
-
-ඒ අනුව දකුණු ආසියානු රටවල්වන බංග්ලාදේශයෙන් 20%ක්, පාකිස්තානයෙන් 19%ක් දක්වා ද අඩුකර තිබේ.
-
-කෙසේ වෙතත් අමෙරිකාව ඉන්දියාවෙන් ආනයනය කෙරෙන භාණ්ඩ සඳහා අයකෙරෙන තීරුබදු ප්‍රතිශතය වෙනස්කර නොමැති අතර, එය 25% සීමාවේ එලෙසින්ම පවතියි.
-
-මේ අතර 50%ක දැවැන්ත තීරු බදු අනුපාතයක් ප්‍රකාශයට පත්කර තිබූ බ්‍රසීලයේ ආනයන මත පනවන බද්ද 10%ක් දක්වා අඩුකර තිබීමද විශේෂත්වයක්ය.
-
-එමෙන්ම අමෙරිකාවේ ප්‍රධානම මිතුරු රාජ්‍යයක් වන ඊශ්‍රායලයෙන් අයකරන තීරු බදු අනුපාතයද 15%ක් දක්වා පහත හෙළා ඇත.
-
-මෙම පහත දැමූ තීරුබදු අනුපාත අතර ඉහළම ප්‍රතිශතය 41%ක් වන අතර, එය සිරියාව වෙනුවෙන් දක්වා තිබේ.
-
-...
-
-[Data](articles/b697f129.json)
-
----
-
-### Donald Trump reduces tariff on Sri Lanka to 20%, New tariffs go into effect from Aug 7
-
-*2025-08-01 05:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111060/donald-trump-reduces-tariff-on-sri-lanka-to-20-new-tariffs-go-into-effect-from-aug-7) · `en`
-
-U.S. President Donald Trump signed an executive order on Thursday reducing tariffs on Sri Lankan goods to 20% from 44% announced in April, the White House said.
-
-Trump had initially announced a tariff rate of 44% in April for Sri Lankan exports. However, the rate was then reduced to 30%, according to a letter directed to President Anura Kumara Dissanayake on July 10.
-
-On April 2, President Donald Trump declared a US economic emergency and announced tariffs of at least 10% across all countries, with rates even higher for 60 countries or trading blocs that have a high trade deficit with the US. He deemed it “Liberation Day.”
-
-With just a few hours to go before the August 1 trade deadline, the White House announced its new trade policy late Thursday – and, along with it, its new tariff plan.
-
-...
-
-[Data](articles/137e25c4.json)
-
----
-
-### Sri Lanka gets 20-pct Trump tariff
-
-*2025-08-01 05:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-20-pct-trump-tariff-233994/) · `en`
-
-ECONOMYNEXT – Sri Lanka has got a 20 percent tariff in an slew of revised rates announced by President Donald Trump through an executive order.
-
-Sri Lanka’s rate is the same or similar to that of Bangladesh, Vietnam, Malaysia (19), Indonesia (19), Thailand (19), Pakistan (19), and lower than India (25).
-
-Cambodia which has has seen an export boom after getting monetary stability dollarization had got 19.
-
-In 2024 Cambodia’s exports were 33 billion from almost nothing before the mid-1990 when the country dollarized and macroeconomists lost the ability to do ‘monetary policy’s and trigger external crises, drive away foreign investors and destroy domestic capital with ‘competitive exchange rates’.
-
-A series of African nations and tiny island states have got 15.
-
-...
-
-[Data](articles/e15d066a.json)
 
 ---

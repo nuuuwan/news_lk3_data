@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 06:15:09**
+As of **2025-08-01 06:53:57**
 
 ## Newspaper Stats
 
-*Scraped **68,048** Articles*
+*Scraped **68,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,49 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 698
-islandlk | 4,151
+islandlk | 4,158
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,810
+dailyftlk | 4,811
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
 virakesarilk | 11,331
-adaderanasinhalalk | 11,699
+adaderanasinhalalk | 11,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,048 articles have been extended.
+61,973 (91.1%) of 68,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### ට්‍රම්ප්ගේ තීරු බද්ද සියයට 20ක් දක්වා අඩුකරයි
+
+*2025-08-01 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212885) · `si`
+
+අමෙරිකානු එක්සත් ජනපදය විසින් ශ්‍රී ලංකාවෙන් ආනයනය කෙරෙන භාණ්ඩ සඳහා අන්‍යෝන්‍ය තීරුබදු අනුපාතය 20%ක් දක්වා අඩුකර තිබේ.
+
+◼️
+
+[Data](articles/b697f129.json)
+
+---
+
+### Do leopards and people actually share the same world?
+
+*2025-08-01 05:47:01* · [`dailyftlk`](https://www.ft.lk/columns/Do-leopards-and-people-actually-share-the-same-world/4-779763) · `en`
+
+Neluma of Wilpattu in his prime, 2023, Photograph by Rukshan Jayewardene
+
+...
+
+[Data](articles/f1865de9.json)
+
+---
 
 ### AI at work: Why CEOs  and HR must lead the charge
 
@@ -391,6 +415,104 @@ The project was jointly launched by the Prime Minister of India and the Presiden
 ...
 
 [Data](articles/c71f6aea.json)
+
+---
+
+### Bocuse d’Or Sri Lanka Finale showcases culinary excellence at Colombo Academy of Hospitality Management (CAHM) @ SLIIT
+
+*2025-07-31 21:50:00* · [`islandlk`](http://island.lk/bocuse-dor-sri-lanka-finale-showcases-culinary-excellence-at-colombo-academy-of-hospitality-management-cahm-sliit/) · `en`
+
+The prestigious Bocuse d’Or Sri Lanka Finale, often called the “Oscars of the Culinary Industry,” was held on 27th July 2025 at the Colombo Academy of Hospitality Management (CAHM) @ SLIIT, reaffirming its status as Sri Lanka’s premier hub for hospitality and culinary training.
+
+CAHM, in partnership with the William Angliss Institute Australia (RTO 3045), offers internationally benchmarked qualifications and industry-grade kitchen facilities designed to meet global competition standards.
+
+“The facilities at CAHM are exceptional; world-class kitchens, top-tier workstations, and a training environment that truly prepares students for international challenges,” said Chef Rohan Fernandopulle, President of Bocuse d’Or Sri Lanka.
+
+...
+
+[Data](articles/91c05bcd.json)
+
+---
+
+### HNB General Insurance ‘Celebrating Excellence 2025’ honours exceptional staff and top-tier sales achievers
+
+*2025-07-31 21:49:00* · [`islandlk`](http://island.lk/hnb-general-insurance-celebrating-excellence-2025-honours-exceptional-staff-and-top-tier-sales-achievers/) · `en`
+
+HNB General Insurance (HNBGI), a leading player in Sri Lanka’s general insurance sector, recently hosted its annual flagship event, ‘Celebrating Excellence 2025’, at Waters Edge, Battaramulla. The evening brought together staff and sales professionals from across the country in a unified celebration of dedication and achievement. HNBA and HNBGI Chairman Stuart Chapman graced the event as Chief Guest, joined by members of the Board of Directors – reinforcing the company’s belief that people are the true engine behind its continued growth.
+
+This year’s gathering marked a meaningful chapter in HNB General Insurance’s journey, recognizing not just business performance, but also the shared values, resilience, and commitment that drive the organization forward. The event celebrated team spirit across every level – from front-line sales to back-office support – highlighting the unity that powers HNBGI.
+
+...
+
+[Data](articles/5fbd4efd.json)
+
+---
+
+### 35 years of transforming Sri Lanka’s digital landscape leads to the unveiling of FOUNDATION.LK
+
+*2025-07-31 21:48:00* · [`islandlk`](http://island.lk/35-years-of-transforming-sri-lankas-digital-landscape-leads-to-the-unveiling-of-foundation-lk/) · `en`
+
+This year marks 35 years of registering domain names in .LK;; TechCERT has secured digital Sri Lanka for 20 years. — and this year marks anothermilestone with the launch of Foundation.LK.
+
+FOUNDATION.LK is a not-for-profit initiative dedicated to empowering Sri Lankans with the knowledge, skills, and resources to navigate cyberspace safely and confidently—promoting responsible digital citizenship and unlocking opportunities in the evolving digital landscape.
+
+...
+
+[Data](articles/83e3d304.json)
+
+---
+
+### National Savings Bank joins hands with ‘Artha’
+
+*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/national-savings-bank-joins-hands-with-artha/) · `en`
+
+The program, implemented by the Ministry of Women and Child Affairs, with the intention of extending a helping hand for the daily needs and education of the children residing in Child Development Centers and Government Childcare Centers, was launched recently at Sethsiripaya, Battaramulla. National Savings Bank (NSB) joined hands with this national course as the Official Banking Partner.
+
+It is expected, through this program, to develop a financial plan to facilitate the educational needs of and sustainable income for the children who come to reside in the center’s on various social and humanitarian grounds. Accordingly, a monthly allowance will be granted for these children, under the program.
+
+...
+
+[Data](articles/01962822.json)
+
+---
+
+### CH 17 and The Expertin collaborate to elevate CRM and loyalty solutions in Sri Lanka
+
+*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/ch-17-and-the-expertin-collaborate-to-elevate-crm-and-loyalty-solutions-in-sri-lanka/) · `en`
+
+CH 17 and The Expertin have formalised a strategic partnership to enhance customer relationship management (CRM) and loyalty solutions across a broad range of industries in Sri Lanka. This collaboration brings together two specialised entities with distinct yet complementary expertise in loyalty technology, marketing, business strategy, and digital transformation.
+
+Since its inception in 2013, CH 17 has developed into a recognised leader in loyalty management systems. The company’s platform integrates seamlessly with a variety of third-party technologies, including point-of-sale (POS) systems, CRM platforms, email marketing tools, and SMS gateways. This enables businesses to deliver consistent, data-driven experiences while gaining a comprehensive understanding of customer behaviour.
+
+...
+
+[Data](articles/5d66ec28.json)
+
+---
+
+### Rahul Pavithran appointed head of Sales & Marketing at ITC Ratnadipa, Colombo
+
+*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/rahul-pavithran-appointed-head-of-sales-marketing-at-itc-ratnadipa-colombo/) · `en`
+
+Colombo, Sri Lanka – ITC Ratnadipa Colombo has appointed international hospitality professional Rahul Pavithran as Head of Sales & Marketing in a strategic move to strengthen the hotel’s market position. A seasoned professional, Rahul possesses over 17 years of experience in hospitality sales and marketing, demonstrating a proven ability to drive revenue growth, enhance brand presence, and expand market reach. In his new role, he will further strengthen the hotel’s efforts to capitalise on emerging opportunities within Sri Lanka’s competitive luxury hospitality sector.
+
+...
+
+[Data](articles/67dad155.json)
+
+---
+
+### Stock market hit by US tariff jitters but day ends on recovery note
+
+*2025-07-31 21:47:00* · [`islandlk`](http://island.lk/stock-market-hit-by-us-tariff-jitters-but-day-ends-on-recovery-note/) · `en`
+
+Stock market investors panicked and the CSE was slightly volatile yesterday due to the US tariff revision on Sri Lankan exports coming into effect today. Consequently the market was a bit down during the initial sessions but later recovered and moved to green territory.
+
+The All Share Price Index went up by 87.03 points, while the S and P SL20 rose by 14.1 points. Turnover, stood at Rs 5.6 billion. Seven crossings that were reported yesterday were; Access Engineering 2.9 million shares crossed to the tune of Rs 174 million; its shares traded at Rs 60, JKH five million shares crossed to the tune of Rs 119 million; its shares traded at Rs 23.80.
+
+...
+
+[Data](articles/b654f3ac.json)
 
 ---
 
@@ -1591,175 +1713,5 @@ Swedish International Development Cooperation Agency (SIDA)இன் ஒத்�
 ◼️
 
 [Data](articles/b29e0d13.json)
-
----
-
-### கிளிநொச்சியில் புலிகளின் ஆயுதங்களை தேடி மேற்கொள்ளப்பட்ட அகழ்வு இடைநிறுத்தம்!
-
-*2025-07-31 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221464) · `ta`
-
-விடுதலைப்புலிகளின் ஆயுதங்கள் இருக்கலாம் என சந்தேகித்து மேற்கொள்ளப்பட்ட அகழ்வுப் பணியானது எவ்வித தடயங்களும் காணப்படாத நிலையில் இடைநிறுத்தப்பட்டுள்ளது.
-
-கிளிநொச்சி - தர்மபுரம்  பொலிஸ் பிரிவுக்குட்பட்ட புன்னைநீராவி கிராம அலுவலர் பிரிவு ஏ-35 பிரதான வீதியின் அருகே தனியார் காணி ஒன்றில் விடுதலைப் புலிகளின் ஆயுதம் இருப்பதாக கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைவாக பொலிஸார்  வியாழக்கிழமை (31) கிளிநொச்சி மாவட்ட நீதிமன்ற நீதவான் இஸ்மாத் ஜெமீல்  முன்னிலையில் அகழ்வுப்பணி முன்னெடுக்கப்பட்டது.
-
-பொலிஸார், இராணுவத்தினர், பொலிஸ் விசேட அதிரடிப்படையினர், திணைக்களங்களின் உத்தியோகத்தர்கள் முன்னிலையில் அகழ்வுப்பணி மேற்கொள்ளப்பட்ட போது எந்தவித தடயங்களும் கிடைக்காத நிலையில் குறித்த அகழ்வுப்பணி இடைநிறுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c32bc182.json)
-
----
-
-### குடு மாலியின் மகள் படுகொலை: இருவர் கைது
-
-*2025-07-31 16:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-மாலியின்-மகள்-படுகொலை-இருவர்-கைது/175-362125) · `ta`
-
-போதைப்பொருள் குற்றச்சாட்டில் நீதிமன்றத்தால் பல முறை தண்டிக்கப்பட்ட குடு மாலி என்ற பெண்ணின் மகளை படுகொலைச் செய்த மற்றும் அந்த பெண்ணின் மகனுக்கு படுகாயங்களை ஏற்படுத்திய குற்றச்சாட்டில் இருவர், வியாழக்கிழமை (31) கைது செய்யப்பட்டுள்ளனர்.
-
-பங்கதெனிய மற்றும் பல்லம ஆகிய பிரதேசங்களைச் சேர்ந்த 26 மற்றும் 33 வயதுடையவர்கள் இருவரே கைது செய்யப்பட்டுள்ளனர். இந்த துப்பாக்கி பிரயோகத்துக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள், மாதம்பே இரட்டகுளம் பகுதியில் உள்ள ஒரு கழிவறையில் தாழ்த்தப்பட்டிருந்த நிலையில் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-மாரவில, மாரடை பகுதியில், செவ்வாய்க்கிழமை ( 22) ஆம் திகதி இரவு  முச்சக்கர வண்டியில் பயணித்துக்கொண்டிருந்த போது, மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரினால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் இரண்டு குழந்தைகளின் தாய் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததாகவும், அவரது மூத்த குழந்தை படுகாயமடைந்ததாகவும் மாரவில பொலிஸார் தெரிவித்தனர்.
-
-கொலை செய்யப்பட்டவர் மாரவில, மாரடை பகுதியைச் சேர்ந்த எதிரிசிங்க ஆராச்சிகே வசந்தி சதுராணி எனப்படும் சதாமாலி என்ற 30 வயதுடைய பெண்ணாவார்.
-
-...
-
-[Data](articles/4d48867b.json)
-
----
-
-### කොළඹ උද්ධමනය ඉහළට
-
-*2025-07-31 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212873) · `si`
-
-කොළඹ පාරිභෝගික මිල දර්ශකයෙහි වාර්ෂික ලක්ෂ්‍යමය වෙනස මගින් මනිනු ලබන මතුපිට උද්ධමනය, 2025 ජුනි මාසයේ වාර්තා වූ -0.6% සිට 2025 ජූලි මාසයේ දී -0.3%ක් දක්වා ඉහළ ගොස් ඇති බව ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
-
-මේ අතර වාර්ෂික ලක්ෂ්‍යමය පදනම මත ආහාර කාණ්ඩයේ උද්ධමනය 2025 ජූලි මාසයේ දී 1.5%ක් දක්වා අඩු වී ඇති අතර, 2025 ජුනි මාසයේ දී එය වාර්තා වූයේ 4.3%ක්  ලෙසය.
-
-එමෙන්ම ආහාර නොවන කාණ්ඩයේ උද්ධමනය 2025 ජූලි මාසයේ දී -1.2%ක් දක්වා වැඩි වී ඇති අතර, එය 2025 ජුනි මාසයේ දී -2.8%ක් ලෙස වාර්තා විය.
-
-◼️
-
-[Data](articles/627d47be.json)
-
----
-
-### Colombo inflation climbs in July
-
-*2025-07-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111043/colombo-inflation-climbs-in-july) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to -0.3% in July 2025, compared to -0.6% in June 2025, according to the latest data released by the Department of Census and Statistics.
-
-The CCPI for all items for the month of July 2025 was 194.1 and it records a decrease of 0.4 index points compared to the month of June 2025 for which the index was 194.5.
-
-The Y-on-Y inflation of Food Group decreased to 1.5% in July 2025 from 4.3% in June 2025 and the Y-on-Y inflation of Non Food Group increased to -1.2% in July 2025 from -1.2% in June 2025.
-
-For the month of July 2025, on Y-on-Y basis, the contribution to inflation by food commodities was 0.49%.
-
-◼️
-
-[Data](articles/0e26b1ba.json)
-
----
-
-### Sri Lanka stocks close up after initial selling pressure
-
-*2025-07-31 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-initial-selling-pressure-233927/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange rallied to close up on Thursday, after seeing some selling pressure in the morning, brokers said.
-
-“In the morning the market was down because there was a bit of selling pressure coming in on the back of all the negative publicity surrounding John Keells,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-“This brought the overall market sentiment down. But buying interest was strong and market ended on a positive note.”
-
-The ASPI was up 0.39 percent, or 76.33 points, at 19,642.48; while the S&P SL20 was up 0.18 percent, or 10.49 points, at 5,762.17.
-
-Market turnover was 5.66 billion rupees. Most of this came from bank stocks (1.5 billion rupees), capital goods stocks (1.3 billion rupees), Food, Beverage & Tobacco Industry (883 million rupees) and diversified financials (578 million rupees).
-
-There was a lot of retail activity despite the negative publicity with investors “not too disturbed”, Mathew said.
-
-...
-
-[Data](articles/3dcd187e.json)
-
----
-
-### “நீதிமன்ற கட்டமைப்பு டிஜிட்டல் மயமாகும்”
-
-*2025-07-31 15:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-கட்டமைப்பு-டிஜிட்டல்-மயமாகும்/175-362123) · `ta`
-
-நாடு முழுவதும் நீதிமன்ற கட்டமைப்பை டிஜிட்டல் மயமாக்குவதை விரைவுபடுத்தத் திட்டமிட்டுள்ளதாகப் புதிதாக நியமிக்கப்பட்ட பிரதம நீதியரசர் பிரீத்தி பத்மன் சூரசேன, வியாழக்கிழமை (31) அன்று தெரிவித்தார்.
-
-நீதி நிர்வாகத்தில் தொழில்நுட்ப ரீதியாக மேம்பட்ட முறைகளைப் பின்பற்ற வேண்டிய நேரம் வந்துவிட்டது என்றும் வலியுறுத்தினார்.
-
-இலங்கையின் 49ஆவது பிரதம நீதியரசரை வரவேற்கும் சம்பிரதாய நிகழ்வு, உயர் நீதிமன்றத்தில் நடைபெற்றது. அதில் கலந்து​கொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-முன்மொழியப்பட்ட டிஜிட்டல் மயமாக்கல் முயற்சி தொடர்பாக இலங்கை வழக்கறிஞர்கள் சங்கத்தின் (BASL) தலைவருடன் ஏற்கனவே பலமுறை கலந்துரையாடல்களை நடத்தியுள்ளதாகவும் அவர் மேலும் குறிப்பிட்டார்.
-
-அதற்கு மேலதிகமாக, டிஜிட்டல் முறையை செயல்படுத்துவது குறித்து விவாதிக்க நீதி அமைச்சர் மற்றும் நீதி அமைச்சின் செயலாளருடன் சந்திப்புகளை நடத்தியுள்ளதாகவும், இதை நாடு முழுவதும் ஆவலுடன் எதிர்பார்க்கிறது என்றும் அவர் கூறினார்.
-
-...
-
-[Data](articles/dfc50790.json)
-
----
-
-### Sri Lanka’s Chevron Lubricants June net up 32-pct; finance cost falls
-
-*2025-07-31 15:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-chevron-lubricants-june-net-up-32-pct-finance-cost-falls-233929/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Chevron Lubricants grew 32 percent from a year ago to 989.7 million rupees in the June 2025 quarter helped by higher revenue, the interim accounts showed.
-
-The firm reported earnings of 4.12 rupees for the quarter. The stock closed at 170.25 rupees, up 3.75 rupees on Thursday.
-
-The firm faced a lower finance cost in the June quarter compared to the same period last year. The finance cost fell 7 percent to 19.6 million rupees in the quarter compared to 21.2  million in the June quarter last year.
-
-Gross profits rose 19 percent to 2,039.5 million rupees as revenue rose 7 percent to 5,680.7 million rupees while cost of sales edged up 2 percent to 3,641.2 million in the quarter.
-
-Sri Lanka’s interest rates have fallen after the central bank cut the key monetary policy rates sharply since last year to boost credit and economic growth. The move has helped companies to borrow at a lower cost. (Colombo/July 31/2025)
-
-◼️
-
-[Data](articles/a0e66974.json)
-
----
-
-### රාජ්‍ය සේවා වැටුප් විෂමතා ගැන සොයන්න අනු කමිටුවක්
-
-*2025-07-31 15:32:23* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවා-වැටුප්-විෂමතා-ගැන-සොයන්න-අනු-කමිටුවක්/11-417639) · `si`
-
-රාජ්‍ය සේවයේ දැනට පවතින වැටුප් විෂමතා හා ඊට සම්බන්ධ ගැටලුවලට විසඳුම් සෙවීමට ගරු පාර්ලිමේන්තු මන්ත්‍රී චන්දන සූරියආරච්චි මහතාගේ සභාපතීත්වයෙන් යුතුව රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව යටතේ අනු කාරක සභාවක් පත් කෙරිණි.
-
-රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන කටයුතු  අමාත්‍ය මහාචාර්ය ඒ.එච්.එම්.එච් අබයරත්න මහතාගේ සභාපතීත්වයෙන් පාර්ලිමේන්තුවේදී පැවති අමාත්‍යාංශයීය උපදේශක කාරක සභාවේදී  මෙම තීරණය ගෙන ඇත.
-
-◼️
-
-[Data](articles/b975288a.json)
-
----
-
-### ජර්මානු ඔලිම්පික් ශූරිය පාකිස්තානයේ දී මරුට
-
-*2025-07-31 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212872) · `si`
-
-ජර්මානු ඔලිම්පික් ශූරියක වන ලෝරා ඩොල්මයර් පාකිස්තානයේ කඳු නැගීමක් අතරතුර සිදුවූ හදිසි අනතුරකින් ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඇය තවත් කඳු නැගීමේ සහකාරියක සමග පසුගිය සඳුදා (28) ගිල්ගිට්-බෝල්ටිස්තාන් කලාපයේ කඳු නැගීමේ නිතරව සිටියදී මෙම අවාසනාවන්ත අනතුරට ලක්ව සිටියේය.
-
-අනතුරට ලක්වන විට ඇය ලායිලා කඳු මුදුණේ සිට ඇති අතර, එහිදී මීටර් 5,700ක් පමණ උසකින් වූ ප්‍රදේශයකින් පහළට ඇදවැටී තිබේ.
-
-කෙසේ වෙතත් එදින පැවති අයහපත් කාලගුණය හා දුර්වල ආලෝක තත්ත්වය හේතුවෙන් පසුදින උදෑසන තෙක්ම ගලවාගැනීමේ හෙලිකොප්ටරයකට ඇය වෙත ළඟාවීමට නොහැකි විය.
-
-ඒ හේතුවෙන් එදිනට මෙහෙයුම් තාවකාලිකව අත්හිටුවීමට සිදුවූ අතර, ඊයේ (30) උදෑසන නැවතවරක් මෙහෙයුම් ආරම්භ කළේය.
-
-එහිදී ඩොල්මයර්ව හමුව ඇති අතර, ගලවාගැනීමේ කණ්ඩායම් විශ්වාස කරන්නේ අනතුර සිදු වූ සඳුදා දිනයේම ඇය මියයන්නට ඇති බවය.
-
-මෙම ගලවාගැනීමේ මෙහෙයුමට ජර්මනියේ සහ එක්සත් ජනපදයේ විශේෂඥ කඳු නගින්නන් ද එක්ව තිබේ.
-
-biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍රීඩිකාවක වන 31 හැවිරිදි ලෝරා ඩොල්මයර්, ඔලිම්පික් උළෙල 2කට, ලෝක ශූරතාවලි 5කට හා ලෝක කුසලාන 7කට ජර්මනිය නියෝජනය කරමින් සහභාගි වී ඇත.
-
-◼️
-
-[Data](articles/6ced3f12.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 20:22:25**
+As of **2025-08-01 20:34:16**
 
 ## Newspaper Stats
 
-*Scraped **68,154** Articles*
+*Scraped **68,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,555
-adaderanalk | 8,428
+adaderanalk | 8,431
 tamilmirrorlk | 9,888
 virakesarilk | 11,353
 adaderanasinhalalk | 11,728
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,728
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,154 articles have been extended.
+61,973 (90.9%) of 68,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -92,6 +92,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Tuition classes for scholarship exam banned from Aug 6 midnight
+
+*2025-08-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111079/tuition-classes-for-scholarship-exam-banned-from-aug-6-midnight) · `en`
+
+The Commissioner General of Examinations announced that the conducting of tuition classes, seminars, workshops, etc. related to the Grade 5 Scholarship Examination is prohibited from midnight on August 06 (Wednesday) until the end of the exam.
+
+Issuing a statement, the Examinations Department said that organising and conducting tuition classes, specialized lectures, seminars, workshops for Grade 5 Scholarship examination candidates, printing and distributing question papers containing guess questions for the said examination, publishing posters, banners, handouts, promoting such events for candidates through electronic or printed media or social media, or possessing such items, is strictly prohibited.
+
+This year’s scholarship examination is scheduled to be held at 2,787 examination centres across the island on August 10, 2025.
+
+◼️
+
+[Data](articles/3006bb28.json)
+
+---
+
 ### பியூமி, தம்புகல குறித்து வெளியான விஷேட செய்தி
 
 *2025-08-01 19:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-தம்புகல-குறித்து-வெளியான-விஷேட-செய்தி/175-362169) · `ta`
@@ -131,6 +147,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/16eb9225.json)
+
+---
+
+### ‘Loku Patty’ remanded after 90-day detention
+
+*2025-08-01 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111078/loku-patty-remanded-after-90-day-detention) · `en`
+
+The Nugegoda Magistrate’s Court today ordered that the notorious underworld criminal figure known as “Loku Patty”, who is accused over the murder of businessman “Club Wasantha”, be remanded until August 04.
+
+This order was issued when the suspect was produced before the court today after the conclusion of the detention orders.
+
+Sujeewa Ruwan Kumara de Silva, also known as “Loku Patty”, who is an accused in the murder of ‘Club Wasantha’, was brought back to the island on May 04 after being detained in Belarus.
+
+After he was brought to the island, further investigations were conducted by the Western South Crime Division of Sri Lanka Police.
+
+Accordingly, the investigating officers who detained and questioned the suspect for 90 days had uncovered a number of important information regarding the firearms and property in his possession.
+
+Although his 90-day detention period was scheduled to end on August 4, the investigating officers had produced him before the Nugegoda Magistrate’s Court today.
+
+...
+
+[Data](articles/0bc4f30e.json)
 
 ---
 
@@ -275,6 +313,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/994bb05f.json)
+
+---
+
+### Dilith urges regular dialogue after ‘positive progress’ on US tariffs
+
+*2025-08-01 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111077/dilith-urges-regular-dialogue-after-positive-progress-on-us-tariffs) · `en`
+
+Sarvajana Balaya leader MP Dilith Jayaweera emphasised the need for Sri Lanka to diversify its export basket and to engage in regular and comprehensive dialogue with trade partners such as the US as a post-crisis management strategy.
+
+Referring to the modification of the U.S. tariff rates earlier today, the parliamentarian hailed it as “positive progress”, from the 44% reciprocal tariff announced on April 02.
+
+“As I shared with the President, during the party leader meeting, as a post-crisis management strategy we need to engage in regular and comprehensive dialogue,” he said, adding that it is a position he always maintained, “primarily to pre-empt this kind of shock in the first place.”
+
+“As we receive this positive news, we must be aware that steps to diversify our export basket, in terms of quantity, quality and export locations, have seen little to no progress,” the MP said in a post on ‘X’.
+
+...
+
+[Data](articles/735b8a23.json)
 
 ---
 
@@ -1835,53 +1891,5 @@ In December 2024, a group of activists including members of the Socialist People
 ...
 
 [Data](articles/af202f3f.json)
-
----
-
-### Navigating perpetual uncertainty: Leader’s toolkit
-
-*2025-08-01 05:37:23* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-perpetual-uncertainty-Leader-s-toolkit/4-779760) · `en`
-
-During tense and uncertain times, decisions made without being clouded by emotion—driven primarily by logic and technical understanding—demonstrate true leadership
-
-If there is one critical factor that will persist throughout the rest of the 21st century and beyond, it is uncertainty. The world is witnessing unprecedented macro changes, driven by a growing number of leaders making increasingly irrational decisions from a global perspective. These decisions are often rooted in individualistic views, backed by geopolitics and polarisation of power. I believe this situation will worsen, especially given the ongoing uncertain geopolitical shifts.
-
-In light of this, macro-level uncertainty and its impact on weaker, more vulnerable economies—such as Sri Lanka—are almost impossible to fully comprehend. Navigating a corporation in such uncertain waters, perhaps for an indefinite period, requires several key leadership traits that I believe need to be highlighted:
-
-...
-
-[Data](articles/053f18ae.json)
-
----
-
-### Heavy showers above 75 mm expected in some areas today
-
-*2025-08-01 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111059/heavy-showers-above-75-mm-expected-in-some-areas-today-) · `en`
-
-Showers or thundershowers will occur at several places in the North-Central, Uva, Eastern, Central and Sabaragamuwa provinces and in the Kurunegala, Vavuniya, Mullaitivu and Hambantota districts after 1.00 p.m. today (01), the Department of Meteorology said.
-
-Fairly heavy falls about 75 mm are likely at some places in these areas.
-
-A few showers may occur in the Western province and in Galle, Matara and Puttalam districts, the Met Department added.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6e54abae.json)
-
----
-
-### Varatharaja Perumal: First, last  and only North-Eastern Chief Minister
-
-*2025-08-01 05:32:05* · [`dailyftlk`](https://www.ft.lk/columns/Varatharaja-Perumal-First-last-and-only-North-Eastern-Chief-Minister/4-779759) · `en`
-
-The provincial councils scheme, implemented since 1988, has seen a number of chief ministers being elected by the various provincial councils over the years. Although the norm has been for each province to have a single chief minister, there has been a notable exception in the past.
-
-In November 1988, elections were held together for the temporarily merged Northern and Eastern Provinces. Annamalai Varatharaja Perumal of the Eelam People’s Revolutionary Liberation Front (EPRLF) was elected as the first chief minister of what was then called the North-Eastern Provincial Council.
-
-...
-
-[Data](articles/e7a70cb7.json)
 
 ---

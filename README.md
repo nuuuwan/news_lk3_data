@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 21:49:46**
+As of **2025-08-01 22:07:34**
 
 ## Newspaper Stats
 
-*Scraped **68,163** Articles*
+*Scraped **68,165** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
-colombotelegraphcom | 698
+colombotelegraphcom | 699
 islandlk | 4,159
 economynextcom | 4,168
 dailymirrorlk | 4,733
@@ -20,17 +20,35 @@ adalk | 6,556
 adaderanalk | 8,431
 tamilmirrorlk | 9,888
 virakesarilk | 11,356
-adaderanasinhalalk | 11,730
+adaderanasinhalalk | 11,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,163 articles have been extended.
+61,973 (90.9%) of 68,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### කථානායක නිල නිවස  සම්බන්ධයෙන් ගත් තීරණය
+
+*2025-08-01 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212917) · `si`
+
+කථානායකවරයාගේ නිල නිවස "පාර්ලිමේන්තු අධ්‍යයන සහ පර්යේෂණ මධ්‍යස්ථානයක්" බවට  පරිවර්තනය කිරීම පිළිබඳව යෝජිත වැඩපිළිවෙළට පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේ ප්‍රතිපත්තිමය එකඟතාව හිමිව තිබේ.
+
+ඒ අනුව මාස හයක ආරම්භක කාලයක් සඳහා මධ්‍යස්ථානයේ පදනම් රාමුව සැලසුම් කිරීම සහ ව්‍යුහගත කිරීම සම්බන්ධීකරණය, උපදෙස් දීම සහ මෙහෙයවීම සඳහා විශ්‍රාමික ජ්‍යෙෂ්ඨ රජයේ නිලධාරියෙකු ව්‍යාපෘති කළමනාකරුවෙකු ලෙස පත්කිරීමටද කාරක සභාවේ අනුමතිය හිමිව ඇත.
+
+පසුගිය 24 වැනිදා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේදී එම යෝජනාව සළකා බැලූ අවස්ථාවේදී මේ පිළිබද සාකච්ඡා කෙරිණි.
+
+රජයේ සියලු අංශ ඔස්සේ ව්‍යවස්ථාදායක සහ ආණ්ඩුකරණ හැකියාවන් ශක්තිමත් කිරීමේ මූලික ඉලක්කය ඇතිව මෙම  යෝජිත මධ්‍යස්ථානය මගින්, උසස් පර්යේෂණ පහසුකම්, විශේෂිත පුහුණුව සහ ප්‍රතිපත්ති විශ්ලේෂණයන් සඳහා ප්‍රවේශය සැපයීම සිදු කිරීමට අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/45118efd.json)
+
+---
 
 ### தரம் 05 புலமைப்பரிசில் பரீட்சைக்கான மேலதிக வகுப்புக்களுக்கு தடை?
 
@@ -685,6 +703,20 @@ The new Executive Order states that “some trading partners have agreed to, or 
 ...
 
 [Data](articles/b5c19717.json)
+
+---
+
+### Sri Lanka’s Costly Misstep In U.S. Tariff Negotiations
+
+*2025-08-01 15:57:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-costly-misstep-in-u-s-tariff-negotiations/) · `en`
+
+Just days ago, we were told by Sri Lankan officials that trade discussions with the United States were “progressing well” and all “under control.” Now, we face the reality: a 30% U.S. tariff on Sri Lankan goods, effective August 1st. What happened in between? The U.S. reduced it from the potential 44% to 30%, without serious negotiations.
+
+As Sri Lanka grapples with its fragile economic recovery, the latest outcome of U.S. tariff negotiations casts a long shadow over its ability to negotiate effectively and its exports to the USA in the future. Effective August 1st, 2025, Sri Lanka finds itself lumped with Algeria, Iraq, and Libya—each now subject to a staggering 30% tariff under the revised U.S. trade policy.
+
+...
+
+[Data](articles/b7c76cc1.json)
 
 ---
 
@@ -1859,43 +1891,5 @@ He also increased duties on Canadian goods to 35% from 25% for all products not 
 ...
 
 [Data](articles/7d10c4e8.json)
-
----
-
-### செம்மணியில் நேற்று 3 எலுப்புக்கூடுகள் அடையாளம்
-
-*2025-08-01 07:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-3-எலுப்புக்கூடுகள்-அடையாளம்/175-362152) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியின் நேற்றைய அகழ்வின் போது புதிதாக 3 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டன.
-
-செம்மணி மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வின் 26ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது மூன்று மனித என்புத் தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டன. மூன்று மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்து எடுக்கப்பட்டன.
-
-செம்மணி மனிதப் புதைகுழியில் இதுவரை 118 மனித என்புத் தொகுதிகள்  அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 105 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/a0209d13.json)
-
----
-
-### අද පස්වරුවේ ලොකු වැස්සක්
-
-*2025-08-01 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212886) · `si`
-
-උතුරු-මැද, ඌව, නැගෙනහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් කුරුණෑගල, වවුනියාව, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවලත් අද (01) සවස 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම අනාවැකියේ ඒ බව සඳහන් ය.
-
-මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මිලිමීටර් 75ක පමණ තරමක තද වැසි ඇති වෙයි.
-
-බස්නාහිර පළාතෙත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-◼️
-
-[Data](articles/026622c8.json)
 
 ---

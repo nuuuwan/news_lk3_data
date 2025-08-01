@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 18:09:50**
+As of **2025-08-01 18:32:59**
 
 ## Newspaper Stats
 
@@ -48,7 +48,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ශිෂ්‍යත්ව විභාගයේ  උපකාරක පන්ති පැවැත්වීම 06 වැනිදා මැදියම් රැයෙන් තහනම්
+### ශිෂ්‍යත්ව විභාගයේ උපකාරක පන්ති පැවැත්වීම 06 වැනිදා මැදියම් රැයෙන් තහනම්
 
 *2025-08-01 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212909) · `si`
 

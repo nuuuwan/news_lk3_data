@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 12:38:43**
+As of **2025-08-01 12:54:57**
 
 ## Newspaper Stats
 
-*Scraped **68,095** Articles*
+*Scraped **68,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 698
 islandlk | 4,159
-economynextcom | 4,164
+economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,551
 adaderanalk | 8,418
 tamilmirrorlk | 9,884
 virakesarilk | 11,335
-adaderanasinhalalk | 11,709
+adaderanasinhalalk | 11,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,095 articles have been extended.
+61,973 (91.0%) of 68,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### පියුමි සහ තාඹුගල රු කෝටි 40කට අධික බදු වංචා කරලා
+
+*2025-08-01 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212897) · `si`
+
+රුපියල් මිලියන 289කට අධික ආදායම් බදු නොගෙවීම හේතුවෙන් ප්‍රසිද්ධ නිරූපන ශිල්පිනියක් වන පියුමි හංසමාලිට එරෙහිව මහාධිකරණයේ නඩු පවරන බව දේශීය ආදායම් බදු දෙපාර්තමේන්තුව කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබේ.
+
+2022 හා 2023 වර්ෂවලට අදාළව ඇය මෙලෙස ආදායම් බදු ගෙවීම පැහැරහැර ඇති බව සඳහන් ය.
+
+එමෙන්ම ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන විරංජිත් තාඹුගල නමැත්තාද එම වර්ෂ දෙකට අදාළව ආදායම් බදු ගෙවීම පැහැර හැර ඇති බව එම දෙපාර්තමේන්තුව අධිකරණයට දැනුම්දී තිබේ.
+
+බදු අපරාධ වැරදිවලට අදාළ විමර්ශනවල ප්‍රගති වාර්තා කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා හමුවේ ඊයේ කැඳවනු ලැබීය.
+
+එහිදී දේශීය ආදායම් බදු දෙපාර්තමේන්තුව කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම් දුන්නේ, රජයට බදු නොගෙවා පැහැර හැරීම සම්බන්ධයෙන් පියුමි හංසමාලි හා අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාඹුගලට එරෙහිව ඉදිරියේදී කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනු කිරීමට පියවර ගන්නා බවය.
+
+...
+
+[Data](articles/b7586edf.json)
+
+---
+
+### රෝහිතගේ බෑනාට ඇප
+
+*2025-08-01 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212896) · `si`
+
+ආන්දෝලනාත්මක  ජීප් රථ ගනුදෙනුව සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධනගේ බෑනා වන ධනුෂ්ක වීරක්කොඩි ඇප මත මුදා හැර තිබේ.
+
+◼️
+
+[Data](articles/e6d76c87.json)
+
+---
 
 ### 2025 මේ දක්වා පොලීසියේ 300කගේ වැඩ තහනම්
 
@@ -186,6 +218,30 @@ LPL 2025 இன் நேரம், 2026 ஐசிசி ஆண்கள் ட�
 
 ---
 
+### Sri Lanka construction expands in June 2025: PMI
+
+*2025-08-01 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-june-2025-pmi-234096/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector expanded 58.6 in June 2025, compared to 59.7 in May 2025, according to a Purchasing Managers Index compiled by the central bank.
+
+“Many firms attributed this growth to favourable industry conditions, particularly exhibited by the steady increase in project work and stable price levels,” the central bank statement said.
+
+The New Orders Index increased during the month as respondents observed more construction projects being granted, particularly in road infrastructure.
+
+Several firms had reported that negotiations are underway to recommence some of the temporarily halted construction projects.
+
+The Employment Index turned positive and the Quantity of Purchases Index further expanded in June, with the continuous increase in construction work.
+
+The Employment index rose in May, recording 51.4 in June compared to 45.7 in May.
+
+The Quantity of Purchases Index recorded 57.1 in June, compared to 56.9 in May.
+
+...
+
+[Data](articles/7b321497.json)
+
+---
+
 ### 25 எம்.பிக்கள் 100முன்னாள் எம்.பிகளுக்கு எச்சரிக்கை கடிதம்
 
 *2025-08-01 11:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-எம்-பிக்கள்-100முன்னாள்-எம்-பிகளுக்கு-எச்சரிக்கை-கடிதம்/175-362161) · `ta`
@@ -323,6 +379,54 @@ Trump has repeatedly claimed brokering ceasefire between India and Pakistan in M
 ...
 
 [Data](articles/0dc5e8ac.json)
+
+---
+
+### Sri Lanka rupee depreciates amid record current account surplus : analysis
+
+*2025-08-01 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-amid-record-current-account-surplus-analysis-234065/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee had depreciated from 295 to 300 from February to June 2025 amid record current account surpluses, central bank data shows, though macro-economists in the age-of-inflation usually claim that current account deficits are to blame for depreciation.
+
+Sri Lanka ran external current account surpluses of 1,495 million dollars from January to June 2025 but the rupee started to depreciate from February.
+
+In February there was a 360 million dollar surplus in the current account, and in March 472 million dollars, when the rupee fell further.
+
+Macro-economists who started to print money to suppress rates and run full employment policies claiming that inflation pushed growth, denying stability for economic agents to work, started to claim in the 1960s in particular that current account deficits were the reason that exchange rates depreciated and not their inflationism.
+
+...
+
+[Data](articles/7a093920.json)
+
+---
+
+### Sri Lanka rupee opens stronger, bonds yields down amid Trump tariff cut
+
+*2025-08-01 10:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-yields-down-amid-trump-tariff-cut-234071/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.85/95 to the US dollar in the spot market Friday from 302.10/20 the previous day, while the bond yields were down after a reduction of the Trump tariff to 20 percent from 30, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 8.00/10 percent, down from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.35/45 percent, down from 8.45/55 percent.
+
+A bond maturing on 15.10.2028 was quoted at 8.75/85 percent, down from 8.97/9.02 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.37/43 percent, down from 9.50/54 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.55/65 percent.
+
+A bond maturing on 15.03.2031 was quoted at 9.85/95 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.22/27 percent, down from 10.38/42 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.60/68 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.75/80 percent.
+
+...
+
+[Data](articles/2f5f585e.json)
 
 ---
 
@@ -677,6 +781,26 @@ With just a few hours to go before the August 1 trade deadline, the White House 
 ...
 
 [Data](articles/137e25c4.json)
+
+---
+
+### Sri Lanka gets 20-pct Trump tariff
+
+*2025-08-01 05:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-20-pct-trump-tariff-233994/) · `en`
+
+ECONOMYNEXT – Sri Lanka has got a 20 percent tariff in an slew of revised rates announced by President Donald Trump through an executive order.
+
+Sri Lanka’s rate is the same or similar to that of Bangladesh, Vietnam, Malaysia (19), Indonesia (19), Thailand (19), Pakistan (19), and lower than India (25).
+
+Cambodia which has has seen an export boom after getting monetary stability dollarization had got 19.
+
+In 2024 Cambodia’s exports were 33 billion from almost nothing before the mid-1990 when the country dollarized and macroeconomists lost the ability to do ‘monetary policy’s and trigger external crises, drive away foreign investors and destroy domestic capital with ‘competitive exchange rates’.
+
+A series of African nations and tiny island states have got 15.
+
+...
+
+[Data](articles/e15d066a.json)
 
 ---
 
@@ -1643,117 +1767,5 @@ The 2021 state of emergency declaration gave military chief Min Aung Hlaing supr
 ...
 
 [Data](articles/c9fdbe7e.json)
-
----
-
-### SC to hear appeal filed seeking to annul Appeals Court’s decision to acquit Premalal Jayasekara
-
-*2025-07-31 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111050/sc-to-hear-appeal-filed-seeking-to-annul-appeals-courts-decision-to-acquit-premalal-jayasekara) · `en`
-
-The Supreme Court today (31) granted permission to hear an appeal filed seeking an annulment of the ruling issued by the Court of Appeal which acquitted and released three individuals, including former Minister Premalal Jayasekara, who were sentenced to death for the murder of an individual during a political rally in Kahawatta held by then-presidential candidate Maithripala Sirisena during the 2015 presidential election period.
-
-The aggrieved party in the case submitted the appeal to the Supreme Court.
-
-After reviewing the petition today, a three-judge bench of the Supreme Court, consisting of Justices Janak de Silva, Priyantha Fernando, and Sampath Abeykoon, issued the order, Ada Derana reporter said.
-
-Accordingly, the hearing of the appeal was postponed until February 13, 2026.
-
-The aggrieved party submitting the appeal claims that the Court of Appeal’s decision to acquit and release Premalal Jayasekara and the other defendants is contrary to the law.
-
-...
-
-[Data](articles/9845327a.json)
-
----
-
-### Sri Lanka opens US$1.2bn of vehicle import LCs : President
-
-*2025-07-31 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-us1-2bn-of-vehicle-import-lcs-president-233969/) · `en`
-
-ECONOMYNEXT – Sri Lanka car importers have opened 1.2 billion US dollars of letters of credit to import vehicles, President Anura Kumara Dissanayake said.
-
-“For five years, vehicle imports in our country were stopped. We have opened up the vehicle market,” President Dissanayake was quoted as saying to the Sri Lanka community in the Maldives.
-
-“As of yesterday, we have opened LCs worth 1200 million dollars for vehicle imports. However, the dollar remains stable. This reflects a very important characteristic of the economy.”
-
-Each month Sri Lanka gets around 2.1 to 2.4 billion US dollars of current inflows from exports, remittances, tourism and other services exports.
-
-The money is used for imports, to travel abroad, service imports like software, interest payments, dividends.
-
-In May for example the net outflow of the primary investment account which is mostly dividends and interest was 146 million dollars but personal vehicles were only 126 million dollars.
-
-...
-
-[Data](articles/d321e314.json)
-
----
-
-### மரணதண்டனை கைதி விடுவிப்பு: தீர்ப்புக்கு எதிரான மனு விசாரணைக்கு வருகிறது
-
-*2025-07-31 18:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணதண்டனை-கைதி-விடுவிப்பு-தீர்ப்புக்கு-எதிரான-மனு-விசாரணைக்கு-வருகிறது/175-362138) · `ta`
-
-2015 ஜனாதிபதித் தேர்தலின் போது இரத்தினபுரியின் கஹவத்த பகுதியில் ஒருவரை சுட்டுக் கொன்ற வழக்கில் மரண தண்டனை விதிக்கப்பட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேமலால் ஜயசேகர மற்றும் மூவரை விடுவித்த மேன்முறையீட்டு நீதிமன்றத்தின் தீர்ப்பை எதிர்த்து சட்டமா அதிபர் தாக்கல் செய்த சிறப்பு மேன்முறையீட்டு மனுவை அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விசாரிக்க உயர் நீதிமன்றம் இன்று (31) முடிவு செய்தது.
-
-மேல்முறையீட்டு நீதிமன்றத்தின் தீர்ப்பை எதிர்த்து சட்டமா அதிபர் தாக்கல் செய்த சிறப்பு மேன்முறையீட்டு மனுவை அடுத்த ஆண்டு பிப்ரவரி 13 ஆம் திகதி விசாரிப்பதற்கான திகதியை உயர் நீதிமன்றம் நிர்ணயித்துள்ளது.
-
-இந்த சிறப்பு மேன்முறையீட்டு மனு உயர் நீதிமன்ற நீதியரசர்களான ஜனக் டி சில்வா, பிரியந்த பெர்னாண்டோ மற்றும் சம்பத் அபேகோன் ஆகியோர் அடங்கிய அமர்வு முன் பரிசீலிக்கப்பட்டது
-
-◼️
-
-[Data](articles/3b014856.json)
-
----
-
-### 2021 සිට මියන්මාරයේ ප්‍රකාශයට පත් කර තිබුණු හදිසි තත්ත්වය ඉවතට
-
-*2025-07-31 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212879) · `si`
-
-මියන්මාර හමුදාව විසින් 2021 පෙබරවාරි මාසයේ සිට ප්‍රකාශයට පත් කර තිබුණු හදිසි තත්ත්වය අද (31) අවසන් කර තිබේ.
-
-ජාත්‍යන්තර නිරීක්ෂකයින් පෙන්වා දෙන්නේ දෙසැම්බර් මාසයේදී පැවැත්වීමට නියමිත මැතිවරණයට සූදානම් වීම සඳහා මෙම තීරණය ගෙන ඇති බවය.
-
-2021 පෙබරවාරි මාසයේදී හමුදාව හදිසි තත්වයක් ප්‍රකාශයට පත් කළේ එය ප්‍රජාතන්ත්‍රවාදයේ සිවිල් රජය වන අවුන් සාන් සුකී බලයෙන් පහ කිරීමත් සමඟ වන අතර එය දහස් ගණනක් ජීවිත බිලිගත් සිවිල් යුද්ධයක් ඇති කළේය.
-
-ඒ අනුව හමුදා ප්‍රධානී මින් අවුන් හ්ලයිංට ව්‍යවස්ථාදායකය, විධායකය සහ අධිකරණය කෙරෙහි උත්තරීතර බලය ලැබිණි.
-
-කෙසේ වෙතත් මැතිවරණයක් පැවැත්වීම සඳහා මින් අවුන් හ්ලයිං විසින් නායකත්වය දෙන සාමාජිකයින් 11 දෙනෙකුගෙන් යුත් කොමිසමක් පිහිටුවීමට ද හමුදා ජුන්ටාව නිවේදනය කළ බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/16473512.json)
-
----
-
-### ෂැන්ග්හයි නුවරදී පැවැත්වුණු ලෝක කෘත්‍රිම බුද්ධි සමුළුව
-
-*2025-07-31 18:17:04* · [`adalk`](https://www.ada.lk/opinion/ෂැන්ග්හයි-නුවරදී-පැවැත්වුණු-ලෝක-කෘත්‍රිම-බුද්ධි-සමුළුව/2-417645) · `si`
-
-කෘත්‍රිම බුද්ධි ජාත්‍යන්තර ආයතනය (Artificial Intelligence International Institute) මගින් සංවිධානය කෙරුණු World Artificial Intelligence Conference 2025 (WAIC) සමුළුව සහ ප්‍රදර්ශනය පසුගියදා චීනයේ ෂැන්ග්හයි නුවර ෂැන්ග්හයි වර්ල්ඩ් එක්ස්පෝ සෙන්ටර්හිදී පැවැත්වුණි.
-
-2018 වසරේදී ආරම්භ වුණු මෙම සමුළුව මෙවර පැවැත්වී ඇත්තේ හත්වැනි වතාවටයි. මෙහිදී චීනය ඇතුළුව ලොව තාක්ෂණික සමාගම් මගින් නිර්මාණය කළ කෘත්‍රිම බුද්ධි වැඩසටහන්, රොබෝ යන්ත්‍ර ඇතුළු නවෝත්පාදන රැසක් ඉදිරිපත් කර තිබුණි.
-
-මේ අතර චීනය මෙවර සමුළුවට සහ ප්‍රදර්ශනයට සමගාමීව කෘත්‍රිම බුද්ධිය ගෝලීය පාලනය සදහා ක්‍රියා සැලැස්මක් (Global AI Governance Action Plan) ඉදිරිපත් කිරීමටද කටයුතු යොදා තිබුණි. ඒ අනුව චීනයේ අගමැති ලී කුයිආන්ග් විසින් චීනයේ මෙම අනාගත කෘත්‍රිම බුද්ධි දැක්ම එළිදැක්වීම සිදු කෙරුණු අතර, මෙම අවස්ථාව සදහා ලොව පුරා රටවල් 40කට අධික සංඛ්‍යාවක් නියෝජනය කරමින් තාක්ෂණික දැවැන්තයන් රැසක් සහභාගි වී සිටියහ.
-
-...
-
-[Data](articles/fa43d26b.json)
-
----
-
-### Tsunami warnings lifted across the Pacific allowing millions to return home
-
-*2025-07-31 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111049/tsunami-warnings-lifted-across-the-pacific-allowing-millions-to-return-home) · `en`
-
-Japan’s weather office has lifted a tsunami advisory imposed a day earlier, becoming one of the last countries to rescind the emergency order after one of the strongest earthquakes ever recorded hit Russia’s Far East.
-
-The Japan Meteorological Agency (JMA) issued a statement lifting the advisory on Thursday, as fears of a deadly disaster subsided across the Pacific, including the United States’s West Coast and several Latin American countries, allowing millions to return to their homes.
-
-Storm surges of up to 4 metres (12 feet) were predicted for some parts of the Pacific, after the magnitude 8.8 quake struck off Russia’s Kamchatka Peninsula on Wednesday. Ultimately, the tsunamis produced by the earthquake were weaker than had been feared.
-
-“There is currently no coastal area for which tsunami warnings or advisories are in force,” the Japanese agency announced on Thursday afternoon (07:45 GMT).
-
-...
-
-[Data](articles/e15404ea.json)
 
 ---

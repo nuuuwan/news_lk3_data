@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 05:32:00**
+As of **2025-08-01 06:15:09**
 
 ## Newspaper Stats
 
-*Scraped **68,042** Articles*
+*Scraped **68,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 698
 islandlk | 4,151
 economynextcom | 4,164
 dailymirrorlk | 4,733
-dailyftlk | 4,804
+dailyftlk | 4,810
 adalk | 6,546
 adaderanalk | 8,411
 tamilmirrorlk | 9,872
@@ -26,11 +26,99 @@ adaderanasinhalalk | 11,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.1%) of 68,042 articles have been extended.
+61,973 (91.1%) of 68,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### AI at work: Why CEOs  and HR must lead the charge
+
+*2025-08-01 05:42:05* · [`dailyftlk`](https://www.ft.lk/opinion/AI-at-work-Why-CEOs-and-HR-must-lead-the-charge/14-779762) · `en`
+
+The father of modern HR, renowned HR guru Prof. Dave Ulrich, states in this interview that AI is no longer a distant disruption—it is already reshaping how we work, lead, and make decisions. His insights provide a clear roadmap for HR leaders and CEOs to not only adapt, but also shape the future of work with clarity, courage, and compassion
+
+Prof. Ulrich, how can HR align their workforce strategy with AI-driven business models?
+
+...
+
+[Data](articles/18f3631d.json)
+
+---
+
+### Letter to President to revoke free visas for Israeli nationals
+
+*2025-08-01 05:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/Letter-to-President-to-revoke-free-visas-for-Israeli-nationals/14-779761) · `en`
+
+Following is a letter written to President Anura Kumara Disanayake by Socialist People’s Forum General Secretary Dharmasiri Lankapeli, demanding that his Government’s policy to issue free visas to Israeli tourists be revoked, given the ongoing genocide in Palestine
+
+This letter is to demand that you revoke the Government’s recently announced policy of waiving visa fees to Israeli tourists entering Sri Lanka.
+
+In December 2024, a group of activists including members of the Socialist People’s Forum wrote to the Inspector General of Police (IGP) asking for an explanation as to how Gal Ferenbook, a member of the Israeli Defence Force (IDF), alleged to have violated international humanitarian laws in Gaza, was allowed to enter Sri Lanka. To date, the IGP has not acknowledged this letter nor made public any investigations he may have carried out in response.
+
+...
+
+[Data](articles/af202f3f.json)
+
+---
+
+### Navigating perpetual uncertainty: Leader’s toolkit
+
+*2025-08-01 05:37:23* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-perpetual-uncertainty-Leader-s-toolkit/4-779760) · `en`
+
+During tense and uncertain times, decisions made without being clouded by emotion—driven primarily by logic and technical understanding—demonstrate true leadership
+
+If there is one critical factor that will persist throughout the rest of the 21st century and beyond, it is uncertainty. The world is witnessing unprecedented macro changes, driven by a growing number of leaders making increasingly irrational decisions from a global perspective. These decisions are often rooted in individualistic views, backed by geopolitics and polarisation of power. I believe this situation will worsen, especially given the ongoing uncertain geopolitical shifts.
+
+In light of this, macro-level uncertainty and its impact on weaker, more vulnerable economies—such as Sri Lanka—are almost impossible to fully comprehend. Navigating a corporation in such uncertain waters, perhaps for an indefinite period, requires several key leadership traits that I believe need to be highlighted:
+
+...
+
+[Data](articles/053f18ae.json)
+
+---
+
+### Varatharaja Perumal: First, last  and only North-Eastern Chief Minister
+
+*2025-08-01 05:32:05* · [`dailyftlk`](https://www.ft.lk/columns/Varatharaja-Perumal-First-last-and-only-North-Eastern-Chief-Minister/4-779759) · `en`
+
+The provincial councils scheme, implemented since 1988, has seen a number of chief ministers being elected by the various provincial councils over the years. Although the norm has been for each province to have a single chief minister, there has been a notable exception in the past.
+
+In November 1988, elections were held together for the temporarily merged Northern and Eastern Provinces. Annamalai Varatharaja Perumal of the Eelam People’s Revolutionary Liberation Front (EPRLF) was elected as the first chief minister of what was then called the North-Eastern Provincial Council.
+
+...
+
+[Data](articles/e7a70cb7.json)
+
+---
+
+### How bacteria exposed a scandal
+
+*2025-08-01 05:26:39* · [`dailyftlk`](https://www.ft.lk/columns/How-bacteria-exposed-a-scandal/4-779758) · `en`
+
+We’re all familiar with the Sinhalese phrase ‘nangi pennala akka dunna wage’. Which is a story of deception in which a prospective bachelor is promised the pretty younger sister but ends up being married off to the unattractive older sister. But who would have thought to do such a thing in pharmaceutical procurement?
+
+In 2023, the Ministry of Health imported vials of what was supposed to be human immunoglobulin, which is a crucial drug for patients with serious immune disorders. But when the vials were delivered and administered, they were found to contain nothing but water. Fast forward a year or so, the (former) Health Minister at the time is arrested and remanded along with key officials in the Medical Supplies Division and the importing company.
+
+...
+
+[Data](articles/68af2ef9.json)
+
+---
+
+### Reforming Sri Lanka’s coconut auction system: Call to empower growers and restore fairness
+
+*2025-08-01 05:23:08* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-Sri-Lanka-s-coconut-auction-system-Call-to-empower-growers-and-restore-fairness/4-779757) · `en`
+
+Sri Lanka cannot continue to celebrate its status as a global coconut leader while ignoring the inequities faced by its primary producers
+
+Sri Lanka’s coconut industry stands as a cornerstone of the national economy deeply rooted in its cultural heritage, rural livelihoods, and food security. Encompassing over 409,000 hectares and producing close to three billion coconuts annually, the sector provides essential employment, stabilises rural communities, and earns valuable foreign exchange. In 2024 alone, Sri Lanka generated $ 856 million from coconut and coconut-based exports, reaffirming its global leadership as the number one exporter of coconut milk, cream, and powder; second in coir products; and third in desiccated coconut.
+
+...
+
+[Data](articles/e8f560a2.json)
+
+---
 
 ### Pearl of a judgement for pearl of contention
 
@@ -1673,121 +1761,5 @@ biathlon ක්‍රීඩාවේ අතිවිශිෂ්ට ක්‍ර
 ◼️
 
 [Data](articles/6ced3f12.json)
-
----
-
-### Sri Lanka’s COYLE to get Japanese HR know-how from JETRO
-
-*2025-07-31 15:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-coyle-to-get-japanese-hr-know-how-from-jetro-233961/) · `en`
-
-ECONOMYNEXT – The Chamber of Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) have signed a Memorandum of Understanding (MoU) to strengthen collaboration and foster workplace well-being.
-
-The MoU outlines a joint framework for knowledge exchange, benchmarking, and shared learning, drawing on Japan’s expertise in human resource management and health-oriented workplace innovation.
-
-“By collaborating with JETRO, COYLE aims to bring international best practices to Sri Lankan enterprises while creating opportunities for deeper bilateral engagement in economic and social spheres,” COYLE said in a statement.
-
-The partnership is aimed at fostering mutual development and promoting a culture of “Health and Productivity Management” across Sri Lanka’s corporate sector.
-
-At part of this the Sri Lanka Corporate Health & Productivity Awards (SLCHPA) will be expanded.
-
-...
-
-[Data](articles/de776920.json)
-
----
-
-### උතුරු දුම්රිය මාර්ගයේ අලුත්වැඩියා ගැන ගොනුකළ නඩුව විභාගයට
-
-*2025-07-31 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212871) · `si`
-
-උතුරු දුම්රිය මාර්ගය අලුත්වැඩියා කිරීමේදී මහව සහ අනුරාධපුරය අතර දුම්රිය ස්ථානවලට ප්‍රවේශ වීමට ආබාධ සහිත පුද්ගලයින්ට පහසුකම් සලසා නොමැති බවට චෝදනා කරමින් අනුරාධපුර මහාධිකරණය හමුවේ ගොනුකර ඇති නඩුවේ තීන්දුව ප්‍රකාශ කිරීමට දින නියම කර තිබේ.
-
-ඒ අනුව නඩුවේ තීන්දුව ලබන සැප්තැම්බර් මස 18 දින ප්‍රකාශයට පත්කරන බව අනුරාධපුර මහාධිකරණ විනිසුරු ආචාර්ය නලීන් ද හේවාවසම් මහතා නියෝග කළේය.
-
-ආබාධ සහිත කාන්තාවන්ගේ සංගමය විසින් ගොනුකර ඇති අදාල නඩුවේ වගඋත්තරකරුවන් ලෙස ප‍්‍රවාහන මහමාර්ග අමාත්‍ය බිමල් රත්නායක, එම අමාත්‍යංශයේ ලේකම්වරයා, දුම්රිය සාමාන්‍යාධිකරිවරයා,  උතුරු පළාත සහ අනුරාධපුර භාර ඉංජිනේරු අධිකාරිවරයා යන අය නම්කර ඇති බව සදහන් වේ.
-
-ඉන්දීය ණය ආධාර යටතේ උතුරු දුම්රිය මාර්ගය නවීකරණය කිරීමට සමගාමීව මහව සිට අනුරාධපුරය දක්වා අතර ඇති දුම්රිය ස්ථාන සංවර්ධනය කිරීමේ දී ආබාධ සහිත තැනැත්තන්ගේ අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට ප්‍රකාශ කරමින් මෙම නඩුව ගොනුකර ඇත.
-
-◼️
-
-[Data](articles/3b1aa309.json)
-
----
-
-### அமெரிக்காவில் நடுவானில் விமானம் குலுங்கியதால் அவசரமாக தரையிறக்கம் : 25 பயணிகள் வைத்தியசாலையில் அனுமதி
-
-*2025-07-31 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/221456) · `ta`
-
-நடுவானில் குலுங்கியதால் பலர் காயமடைந்ததை அடுத்து டெல்டா ஏர்லைன்ஸ் விமானம் புதன்கிழமை மினியாபோலிஸ் - செயின்ட் போல் சர்வதேச விமான நிலையத்தில் அவசரமாக தரையிறக்கப்பட்டது.
-
-அமெரிக்காவின் சால்ட் லேக் சிட்டி விமான நிலையத்திலிருந்து அந்நாட்டு நேரப்படி மாலை 4:30 மணிக்கு நெதர்லாந்தின் தலைநகர் ஆம்ஸ்டர்டாம் நோக்கி புறப்பட்ட இந்த விமானம் நாடுவானில் குலுங்கியதால் மினியாபோலிஸுக்கு திருப்பி அனுப்பப்பட்டது.
-
-அமெரிக்காவில் மட்டும் கடந்த 2009ஆம் ஆண்டு முதல் 207 பேர் பலத்த காயமடைந்துள்ளனர். இதில் பலரும் 48 மணி நேரத்திற்கும் அதிகமாக மருத்துவமனையில் சிகிச்சை பெற்றனர் என அமெரிக்காவின் தேசிய போக்குவரத்து பாதுகாப்பு அமைப்பு தகவல்கள் தெரிவிக்கின்றன.
-
-ஓராண்டில் உலகளவில் புறப்படும் சுமார் 3.5 கோடிக்கும் அதிகமான விமானங்களில், 5000 விமானங்கள் தீவிரமாக குலுங்குவதாக  கணக்கிடப்பட்டுள்ளது.
-
-2023 ஆம் ஆண்டில் விமானப் பயணிகளுக்கு ஏற்பட்ட காயங்களில் 40 சதவீதமான காயங்கள் விமானம் குலுங்கியதால் ஏற்பட்டவை என சர்வதேச சிவில் விமான போக்குவரத்து அமைப்பின் வருடாந்திர அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/4b0e3b93.json)
-
----
-
-### Lung cancer more prevalent among men compared to women, experts
-
-*2025-07-31 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111042/lung-cancer-more-prevalent-among-men-compared-to-women-experts-) · `en`
-
-Lung cancer is more prevalent among men compared to women, at present, according to Dr. Saman Iddagoda, a Thoracic Surgeon at the National Hospital For Respiratory Diseases in Welisara.
-
-Dr. Saman Iddagoda also noted that there is a rising trend in the number of lung cancer patients in Sri Lanka.
-
-Dr. Iddagoda made these remarks at a media briefing organized by the Health Promotion Bureau, coinciding with the World Lung Cancer Day, which falls tomorrow (August 1).
-
-He noted when analyzing records in the cancer registry of Sri Lanka, there is a clear increase in the number of lung cancer cases among the population.
-
-In particular, there are more reports concerning lung cancer in men, often linked to smoking habits, Dr. Saman Iddagoda added.
-
-Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smoking women being diagnosed and they have observed such individuals are hesitant in seeking hospital treatment.
-
-◼️
-
-[Data](articles/0e3174cf.json)
-
----
-
-### Lung cancer more prevalent among men compared to women, experts say
-
-*2025-07-31 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111042/lung-cancer-more-prevalent-among-men-compared-to-women-experts-say-) · `en`
-
-Lung cancer is more prevalent among men compared to women, at present, according to Dr. Saman Iddagoda, a Thoracic Surgeon at the National Hospital For Respiratory Diseases in Welisara.
-
-Dr. Saman Iddagoda also noted that there is a rising trend in the number of lung cancer patients in Sri Lanka.
-
-Dr. Iddagoda made these remarks at a media briefing organized by the Health Promotion Bureau, coinciding with the World Lung Cancer Day, which falls tomorrow (August 1).
-
-He noted when analyzing records in the cancer registry of Sri Lanka, there is a clear increase in the number of lung cancer cases among the population.
-
-In particular, there are more reports concerning lung cancer in men, often linked to smoking habits, Dr. Saman Iddagoda added.
-
-Dr. Saman Iddagoda stressed that data also shows a rising percentage of non-smoking women being diagnosed and they have observed such individuals are hesitant in seeking hospital treatment.
-
-◼️
-
-[Data](articles/ee39f509.json)
-
----
-
-### ரூ2,000 கோரி துண்டுப்பிரசுரங்கள் விநியோகம்
-
-*2025-07-31 15:16:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ2-000-கோரி-துண்டுப்பிரசுரங்கள்-விநியோகம்/76-362121) · `ta`
-
-தோட்டத் தொழிலாளர்களின் நாளாந்த ஊதியத்தை 2000 ரூபாவாக உயர்த்துதல் உள்ளிட்ட பல கோரிக்கைகளை அடிப்படையாகக் கொண்ட துண்டுப் பிரசுரங்களை விநியோகிக்கும் விழிப்புணர்வு நிகழ்ச்சி வியாழக்கிழமை (31) அன்று ஹட்டன் பேருந்து நிலையத்தில் நடைபெற்றது.
-
-தோட்டத் தொழிலாளர் மையம், ​சமூக நீதிக்கான மலையக மக்கள் இயக்கம் மற்றும் மக்கள் போராட்ட இயக்கம் ஆகியவற்றின் உறுப்பினர்களால் இந்த விழிப்புணர்வு நிகழ்ச்சி நடத்தப்பட்டது.
-
-...
-
-[Data](articles/ea0dd0ad.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 22:51:56**
+As of **2025-08-01 23:06:35**
 
 ## Newspaper Stats
 
-*Scraped **68,167** Articles*
+*Scraped **68,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,557
-adaderanalk | 8,431
+adaderanalk | 8,433
 tamilmirrorlk | 9,888
 virakesarilk | 11,356
 adaderanasinhalalk | 11,732
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,167 articles have been extended.
+61,973 (90.9%) of 68,169 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka’s exporters and apparel sector welcome revised US tariffs
+
+*2025-08-01 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111081/sri-lankas-exporters-and-apparel-sector-welcome-revised-us-tariffs) · `en`
+
+The Exporters’ Association of Sri Lanka and the Joint Apparel Association Forum (JAAF) today welcomed and commended the significant progress achieved in the trade negotiations between Sri Lanka and the United States, which have led to a reduction in tariffs on Sri Lankan exports to the U.S. market—now lowered to 20%.
+
+“We express our sincere appreciation to the Government of Sri Lanka and, in particular, the dedicated efforts of the negotiation team led by Dr. Harshana Suriyapperuma,” the Exporters’ Association said in a statement.
+
+It said this achievement reflects the strategic foresight, persistence, and professionalism of the team in navigating a complex international trade environment to secure more favorable terms for Sri Lankan exporters.
+
+...
+
+[Data](articles/6702e5b4.json)
+
+---
+
 ### කථානායක නිල නිවස  සම්බන්ධයෙන් ගත් තීරණය
 
 *2025-08-01 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212917) · `si`
@@ -67,6 +83,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/45118efd.json)
+
+---
+
+### Immediate steps to fill 5,000 police vacancies – Public Security Minister
+
+*2025-08-01 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111080/immediate-steps-to-fill-5000-police-vacancies-public-security-minister) · `en`
+
+Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, stated that while there are approximately 28,000 vacancies in Sri Lanka Police at present, steps have already been taken to urgently fill 5,000 of those vacancies.
+
+He further stated that Cabinet approval has been obtained for this purpose and that the relevant processes have already commenced, with recruitment to be completed within this year.
+
+He also pointed out that 10,000 personnel currently serving in the Civil Security Department are expected to be attached to the police service.
+
+The Minister made these remarks during the meeting of the Ministerial Consultative Committee on Public Security and Parliamentary Affairs, held recently, chaired by him and attended by Deputy Minister Sunil Watagala, Attorney-at-Law.
+
+...
+
+[Data](articles/277c2ce5.json)
 
 ---
 
@@ -1857,39 +1891,5 @@ Sotheby’s සමාගම සඳහන් කරන ආකාරයට ඉන�
 ◼️
 
 [Data](articles/2702b197.json)
-
----
-
-### இலங்கைக்கான வரியை குறைத்து அமெரிக்க ஜனாதிபதி ட்ரம்ப் விசேட அறிவிப்பு
-
-*2025-08-01 07:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221503) · `ta`
-
-இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கான வரியை 20 சதவீதமாக குறைத்து அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் அறிவித்துள்ளார்.
-
-அமெரிக்க ஜனாபதி டொனால்ட் டிரம்ப் பல உலகநாடுகளை இலக்குவைத்து புதிய வர்த்தக வரிகளை கடந்த மாதங்களாக அறிவித்து வந்துள்ள நிலையில், அந்த வரிகள் இன்று ஓகஸ்ட் மாதம் முதலாம் திகதி முதல் அமுலுக்கு வரும் நிலையில், சில நாடுகளுக்கு புதிய வர்த்தக வரி விதிப்புக்களை அறிவித்துள்ளார்.
-
-அதன்படி, இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு 20 வீத வரி விதிக்கப்பட்டுள்ளது. கடந்த ஏப்ரல் மாதம் 2ஆம் திகதி இலங்கையிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு 44 வீத வர்த்தக வரி விதிக்கப்பட்டிருந்தது. இருப்பினும், தற்போது அந்த வரி 20 வீதமாக சரிசெய்யப்பட்டுள்ளது. இந்த வரி விதிப்பால் இலங்கையின் ஆடைத் தொழில் துறை பாதிக்கப்படலாம் என எதிர்பார்க்கப்படுகிறது.
-
-இதேவேளை, கனடாவின் மீதான வரிகள் 25 வீதத்திலிருந்து 35 வீதமாக உயர்த்தப்பட்டுள்ளன. கனடா, அமெரிக்க தொழில்நுட்ப நிறுவனங்கள் மீது டிஜிட்டல் சேவை வரி விதித்ததால், இதற்குப் பதிலடியாக இந்த வரி உயர்வு அமுல்படுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3a59d03f.json)
-
----
-
-### 103 கிலோ கேரள கஞ்சா மீட்பு
-
-*2025-08-01 07:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/103-கிலோ-கேரள-கஞ்சா-மீட்பு/175-362153) · `ta`
-
-வடமராட்சி கிழக்கு வத்திராயன் கடற்கரையில் இருந்து 103 கிலோக் கிராம் கேரள கஞ்சா விசேட அதிரடிப்படையினரினால் மீட்கப்பட்டு மருதங்கேணி பொலிஸிடம்  ஒப்படைக்கப்பட்டுள்ளது.
-
-மேற்படி  பகுதியில் கஞ்சா கடத்தப்படுவதாக இராணுவ புலனாய்வுப் பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலை அடுத்து நேற்று வியாழக்கிழமை அதிகாலை கரவெட்டியில்  உள்ள விசேட அதிரடிப்படையினர் மேற்படி பகுதியில் சோதனை நடத்தினர்.
-
-இதன்போது 54 பொதிகளில் இருந்த 103 கிலோ கஞ்சா மீட்க்கப்பட்டு மருதங்கேணி பொலிஸாரிடம் பாரப்படுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/02397c93.json)
 
 ---

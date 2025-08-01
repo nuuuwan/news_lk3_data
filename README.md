@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 14:07:43**
+As of **2025-08-01 14:25:16**
 
 ## Newspaper Stats
 
-*Scraped **68,111** Articles*
+*Scraped **68,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,65 @@ adalk | 6,551
 adaderanalk | 8,421
 tamilmirrorlk | 9,884
 virakesarilk | 11,339
-adaderanasinhalalk | 11,714
+adaderanasinhalalk | 11,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,111 articles have been extended.
+61,973 (91.0%) of 68,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
 
+### ලොකු පැටී එළැඹෙන 04 වනදා දක්වා යළි රිමාන්ඩ්
+
+*2025-08-01 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212902) · `si`
+
+ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් චෝදවා එල්ලවී සිටින අපරාධ කල්ලි නායකයෙකු වන "ලොකු පැටී" නැමැත්තාව එළැඹෙන 04 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+ඒ සැකකරු රැඳවුම් නියෝග අවසන් කර අද දිනයේදී අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදීය.
+
+ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ලවී සිටින සුජීව රුවන් කුමාර ද සිල්වා නොහොත් "ලොකු පැටී" නැමැති අපරාධකරු පසුගිය මැයි මස 4 වැනිදා දිවයිනට රැගෙන ආවේය.
+
+බෙලරූස් රාජ්‍යයේ අත්අඩංගුවේ පසු වූ ඔහු දිවයිනට රැගෙන ඒමෙන් පසුව බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් වැඩිදුර විමර්ශන සිදු කෙරිණි.
+
+ඒ අනුව දින 90ක් සැකකරු රඳවාගෙන ප්‍රශ්න කළ විමර්ශන නිලධාරීන් ඔහු සතු වූ ගිනිඅවි හා දේපළ සම්බන්ධයෙන් වැදගත් තොරතුරු රැසක් අනාවරණ කර ගත්තේය.
+
+ඔහුගේ දින 90ක රැඳවුම් කාලය එළැඹෙන 4 වනදා අවසන්වීමට නියමිතව තිබුණද විමර්ශන නිලධාරීන් අද දිනයේදී ඔහුව නුගේගොඩ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+
+ඒ අනුව ලොකු පැටී නැමැත්තාව එළැඹෙන 4 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+
+◼️
+
+[Data](articles/5ae38719.json)
+
+---
+
+### ජපාන ක්‍රිකට් කණ්ඩායම දිවයිනට
+
+*2025-08-01 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212901) · `si`
+
+ශ්‍රී ලංකාව සමගින් පුහුණු ක්‍රිකට් කඳවුරක් සඳහා ජපාන ක්‍රිකට් කණ්ඩායම ඊයේ (31) දිවයිනට පැමිණියේය.
+
+එළැඹෙන විස්සයි20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලැබීමේ ආසියා - පැසිෆික් කලාපීය තරගාවලියට පෙර සූදානමක් ලෙස ඔවුන් මෙම සංචාරය සිදුකර තිබේ.
+
+මේ යටතේ ඔවුන් පුහුණු තරග 7කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලියකට ක්‍රීඩාකිරීමට නියමිත අතර, ඒ සඳහා ශ්‍රී ලංකාව වෙනුවෙන් වයස 19න් පළාත් සංචිත හතරක් ශ්‍රී ලංකා ක්‍රිකට් වෙනුවෙන් ලබාදෙනු ලැබේ.
+
+මෙම තරගවලින් තරග 5ක් මග්ගොනදී ද, තරග 2ක් කොළඹ NCC ක්‍රීඩාංගණයේ දීද පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/b110c5a0.json)
+
+---
+
 ### අමෙරිකානු තීරු බදු තවත් අඩු කිරීම ගැන රජය කරුණු පහදයි
 
 *2025-08-01 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212900) · `si`
 
-අමෙරිකාව, ශ්‍රී ලංකාවෙන් ආනයනය කරන භාණ්ඩ මත පැනවූ අන්‍යොන්‍ය තීරු බදු ප්‍රතිශතය සියයට 30 සිට 20 දක්වා අඩුකර තිබේ.
+අමෙරිකාව, ශ්‍රී ලංකාවෙන් ආනයනය කරනු ලබන භාණ්ඩ මත පැනවූ අන්‍යේන්‍ය තීරු බදු ප්‍රතිශතය සියයට 30 සිට 20 දක්වා අඩුකර තිබේ.
 
 ධවල මන්දිරය නිවේදනය කළේ, මෙම නව තීරු බදු ප්‍රතිශත ක්‍රියාවට නැංවෙන්නේ, අගෝස්තු මස 7 වනදා සිට බවය.
 
@@ -1747,47 +1789,5 @@ He also recalled the landmark state visit of the President to China in January t
 ...
 
 [Data](articles/5af8fda5.json)
-
----
-
-### Sri Lanka-China defence ties reaffirmed at PLA 98th anniversary celebrations
-
-*2025-07-31 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111054/sri-lanka-china-defence-ties-reaffirmed-at-pla-98th-anniversary-celebration) · `en`
-
-Deputy Minister of Defence, Major General (Retd) Aruna Jayasekara has highlighted the deep-rooted friendship between Sri Lanka and China, forged through centuries of cultural exchange and strengthened over 68 years of formal diplomatic relations.
-
-The Deputy Minister of Defence made these remarks while addressing the event held to mark the 98th Anniversary of the founding of the Chinese People’s Liberation Army (PLA).
-
-Addressing the event, the Deputy Minister commended the PLA’s 98 years of remarkable history, resilience, and evolution in overcoming the diverse challenges of modern warfare and security.
-
-He also recalled the landmark state visit of the President to China in January this year. The Deputy Minister stated that the visit reaffirmed the shared values of independence, self-reliance, solidarity, and mutual assistance as enshrined in the historic Rubber-Rice Pact, while paving the way to further deepen the Strategic Cooperative Partnership between the two nations.
-
-...
-
-[Data](articles/701b31db.json)
-
----
-
-### මහව - අනුරාධපුර දුම්රිය මාර්ගය වෙනුවෙන් ඉන්දියාවෙන් දෙන මුදලේ පළමු කොටස නිදහස් කෙරේ
-
-*2025-07-31 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212880) · `si`
-
-මහව - අනුරාධපුර දුම්රිය මාර්ගය සදහා සංඥා සහ විදුලි සංදේශ පද්ධතියක් ස්ථාපනය කිරීම සඳහා ඉන්දීය රජය විසින් පළමු වාරිකය ලෙස ඇමරිකානු ඩොලර් මිලියන 2.5ක් (ආසන්න වශයෙන් රුපියල් මිලියන 770) නිකුත් කර ඇත.
-
-මෙම ව්‍යාපෘතිය ඇමරිකානු ඩොලර් මිලියන 14.89ක වියදමින් ණයක් ලෙස ඉන්දීය රජයෙන් දීමට යෝජනා කර තිබුණ ද 2024 දෙසැම්බර් මාසයේදී ශ්‍රී ලංකා ජනාධිපතිවරයාගේ ඉන්දීය රාජ්‍ය සංචාරයේදී ඉන්දීය රජය විසින් එය ප්‍රදානයක් බවට පරිවර්තනය කරන ලදී.
-
-එය ක්‍රියාත්මක කරනු ලබන්නේ ඉන්දියානු රාජ්‍ය අංශයේ ආයතනයක් වන ඉර්කෝන් ඉන්ටර්නැෂනල් ලිමිටඩ් විසිනි.
-
-ඉන්දීය ආධාර ඇතිව, උතුරු මාර්ගයේ ධාවන පථ පැයට කිලෝමීටර 100 දක්වා දුම්රිය වේගයට සහාය වන පරිදි වැඩිදියුණු කර ඇත.
-
-මීට සමගාමීව දියුණු සංඥා පද්ධතියක් හරහා මගීන්ගේ ආරක්ෂාව වැඩි දියුණු කිරීම තුළින් දුම්රිය සේවාවන්හි කාර්යක්ෂමතාව වැඩි කිරීමට අපේක්ෂා කෙරේ.
-
-මෙම ව්‍යාපෘතියේ මූලික කටයුතු මේ වන විට ආරම්භ කර ඇති අතර, ව්‍යාපෘතිය 2026 අගෝස්තු වන විට අවසන් කිරීමට නියමිතය.
-
-ශ්‍රී ලංකාවේ දුම්රිය අංශයට ඉන්දියාවේ සමුච්චිත මූල්‍ය ආධාර ආසන්න වශයෙන් ඇමරිකානු ඩොලර් බිලියන 1.2කි.
-
-...
-
-[Data](articles/e80a7abf.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 09:56:53**
+As of **2025-08-01 10:23:15**
 
 ## Newspaper Stats
 
-*Scraped **68,071** Articles*
+*Scraped **68,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,45 @@ adalk | 6,549
 adaderanalk | 8,414
 tamilmirrorlk | 9,875
 virakesarilk | 11,332
-adaderanasinhalalk | 11,703
+adaderanasinhalalk | 11,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,071 articles have been extended.
+61,973 (91.0%) of 68,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
 
+### සොරබඩු සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2025-08-01 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212890) · `si`
+
+කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත ග්‍රෑන්ඩ්පාස් පොලිස් වසමේදී හෙරොයින් ග්‍රෑම් 03යි මිලිග්‍රෑම් 20ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+ඊයේ (31) දහවල් කාලයේදී අත්අඩංගුවට ගත් මෙම සැකකරු සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශයේදී සැකකරුගේ නිවසේ තිබී අනන්‍යතාවය තහවුරු කරගත නොහැකි ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක කිහිපයක් සොයාගෙන ඇත.
+
+ඒ අනුව වැල්ලම්පිටිය ප්‍රදේශයේදී සොරබඩු ළග තබාගෙන සිටි තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් අවුරුදු 41ක් හා 64ක් වන සේදවත්ත ප්‍රදේශයේ පදිංචිකරුවන් ය.
+
+සැකකරුවන් සන්තකයේ තිබී ජංගම දුරකථන 18ක්, ලැප්ටොප් පරිගණක 02ක්, ටැබ් යන්ත්‍ර 01ක්, පොලිෂර් යන්ත්‍රයක්, ග්‍රයින්ඩර් 05ක්, ග්‍රිල් යන්ත්‍ර 03ක් ඇතුළු භාණ්ඩ සොයාගෙන ඇත.
+
+කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/585e8ecb.json)
+
+---
+
 ### සෞදියේ සැණකෙළි භූමියක බිහිසුණු අනතුරක්
 
 *2025-08-01 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212889) · `si`
 
-සෞදි අරාබියේ සැණකෙළි භූමියක ඉදිකර තිබූ ත්‍රාසජනක උපාංගයක් (Fairground ride) කඩාවැටී සිදු වූ බිහිසුණු අනතුරකින් එහි සිටි 23 දෙනෙකු තුවාල ලබා රෝහල්ගත කර තිබේ.
+සෞදි අරාබියේ සැණකෙළි භූමියක විනෝදාස්වාදය සඳහා ඉදිකර තිබූ උපාංගයක් (Fairground ride) කඩාවැටී සිදු වූ බිහිසුණු අනතුරකින් එහි සිටි 23 දෙනෙකු තුවාල ලබා රෝහල්ගත කර තිබේ.
 
 ඉන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව එරට රාජ්‍ය මාධ්‍ය වාර්තා කරයි.
 
@@ -1723,25 +1745,5 @@ Last month, the Cabinet granted approval to draft legislation aimed at repealing
 ...
 
 [Data](articles/68ec1e08.json)
-
----
-
-### Survey Department to expand its services from tomorrow
-
-*2025-07-31 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111046/survey-department-to-expand-its-services-from-tomorrow) · `en`
-
-The general public will have the opportunity to make online payments and receive land maps delivered to their homes from tomorrow (August 1), Surveyor General Y. G. Gnanathilaka stated.
-
-The initiative has been launched to coincide with the 225th anniversary of the Sri Lanka Survey Department.
-
-He made this statement while participating in a press conference held at the Government Information Department.
-
-Surveyor General Y. G. Gnanathilaka said, “Until now, we issued maps to the public through our office. But now, we have planned to allow the public to obtain maps through an online system. Accordingly, people will be able to make online payments and receive the required maps directly to their homes.”
-
-“In addition, we are also working to provide access for the public to view the information available in the Land Information System online,” the Surveyor General added further.
-
-◼️
-
-[Data](articles/3131cdb2.json)
 
 ---

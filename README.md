@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 22:07:34**
+As of **2025-08-01 22:24:50**
 
 ## Newspaper Stats
 
-*Scraped **68,165** Articles*
+*Scraped **68,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,159
 economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
-adalk | 6,556
+adalk | 6,557
 adaderanalk | 8,431
 tamilmirrorlk | 9,888
 virakesarilk | 11,356
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,165 articles have been extended.
+61,973 (90.9%) of 68,166 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e36a7081.json)
+
+---
+
+### පොලිසියේ පුරප්පාඩු  28000ක් 5000ක් කඩිනමින් පුරවයි
+
+*2025-08-01 20:31:53* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-පුරප්පාඩු--28000ක්-5000ක්-කඩිනමින්-පුරවයි/11-417661) · `si`
+
+ශ්‍රී ලංකා පොලිසියේ මේවන විට පුරප්පාඩු 28000කට ආසන්න ප්‍රමාණයක් පවතින බවත් ඉන් පුරප්පාඩු 5000ක් කඩිනමින් පිරවීමට පියවර ගෙන ඇති බවත් මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා  පසුගියදා  පැවසීය.
+
+මේ වන විට ඒ සඳහා අමාත්‍ය මණ්ඩල අනුමතිය ලැබී අදාළ කටයුතු ආරම්භ කොට ඇති බවත් මේ වසර තුළ මෙම පිරිස බඳවා ගැනීම සිදු කරන බවත් අමාත්‍යවරයා පැවසීය. එසේම සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවේ සේවය කරන අය අතුරින් 10,000ක පිරිසක් පොලිස් සේවයට අනුයුක්ත කිරීමට අපේක්ෂා කරන බවත් ඒ මහතා සඳහන් කළේය.
+
+අමාත්‍යවරයා මේ බව පවසා සිටියේ ඒ මහතා‍ගේ සභාපතීත්වයෙන් සහ නියෝජ්‍ය අමාත්‍ය නීතීඥ සුනිල් වටගල මහතාගේ සභභාගීත්වයෙන් පසුගියදා (25) පාර්ලිමේන්තුවේ පැවති මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේදී ය.
+
+පොලිස් සේවයේ පවතින ගැටලු සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් කාරක සභාවේදී ඉදිරිපත් කළ විමසීම්වලට පිළිතුරු ලබා දෙමින් විජේපාල මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/988e8b08.json)
 
 ---
 
@@ -1873,23 +1891,5 @@ Sotheby’s සමාගම සඳහන් කරන ආකාරයට ඉන�
 ◼️
 
 [Data](articles/8bcca347.json)
-
----
-
-### Asia-Pacific markets fall after Trump modifies tariff rates
-
-*2025-08-01 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111061/asia-pacific-markets-fall-after-trump-modifies-tariff-rates) · `en`
-
-Asian shares fell on Friday after the U.S. slapped dozens of trading partners with steep tariffs, while investors anxiously await U.S. jobs data that could make or break the case for a Fed rate cut next month.
-
-Late on Thursday, President Donald Trump signed an executive order imposing tariffs ranging from 10% to 41% on U.S. imports from dozens of countries and foreign locations. Rates were set at 25% for India’s U.S.-bound exports, 20% for Taiwan’s, 19% for Thailand’s and 15% for South Korea’s.
-
-He also increased duties on Canadian goods to 35% from 25% for all products not covered by the U.S.-Mexico-Canada trade agreement, but gave Mexico a 90-day reprieve from higher tariffs to negotiate a broader trade deal.
-
-“At this point, the reaction in markets has been modest, and I think part of the reason for that is the recent trade deals with the EU, Japan, and South Korea have certainly helped to cushion the impact,” said Tony Sycamore, analyst at IG.
-
-...
-
-[Data](articles/7d10c4e8.json)
 
 ---

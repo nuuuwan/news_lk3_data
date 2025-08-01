@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 16:50:51**
+As of **2025-08-01 17:06:03**
 
 ## Newspaper Stats
 
-*Scraped **68,126** Articles*
+*Scraped **68,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,553
 adaderanalk | 8,424
 tamilmirrorlk | 9,884
 virakesarilk | 11,344
-adaderanasinhalalk | 11,719
+adaderanasinhalalk | 11,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,126 articles have been extended.
+61,973 (91.0%) of 68,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා සහ බලශක්ති අමාත්‍යවරයා අතර හමුවක්
+
+*2025-08-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212907) · `si`
+
+ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘ පැට්‍ර්ක් (Andrew Patrick) මහතා සහ බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි අතර හමුවක් අද (01) පෙරවරුවේ බලශක්ති අමාත්‍යාංශයේදී පැවැත්වුණි.
+
+දෙරට අතර බලශක්ති ක්ෂේත්‍රයේ සබඳතා වර්ධනය කරගැනීමේ අරමුණින් පැවැති එම හමුවේදී විශේෂයෙන් මෙරට විදුලිබල ක්ෂේත්‍රයට අදාළ තොරුතුරු, සැළසුම් සහ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව සාකච්ජා කෙරිණි.
+
+සුළං විදුලිබලය ඇතුළු විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රවනතා පිළිබඳව මෙහිදී සැළකිල්ලට ලක්වුණු අතර අවශ්‍යතාවය අනුව අන්තර්ජාතික සහයෝගීතා ආයතන හරහා මෙරටට අවශ්‍යය සහයෝගය ලබාදීම සඳහා බ්‍රිතාන්‍ය මහකොමසාරිස්වරයා මෙහිදී එකඟ වී ඇත.
+
+එමෙන්ම මෙරට පුනර්ජනනීය බලශක්ති නිෂ්පාදනයේ විශාල දායකත්වයක් ලබා දෙන ජල විදුලිබලාගාර පද්ධතිය පිළිබඳවද සාකච්ජා වුනු අතර එහිදී මෙරට විශාලතම ජල විදුලි බලාගාරය වන වික්ටෝරියා ජල විදුලිබලාගාරය බ්‍රිතාන්‍ය රජයේ ප්‍රදානයක් බව කෘතවේදීව සිහිපත් කරන බව අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/4bc3900e.json)
+
+---
+
+### සෞඛ්‍ය පරීක්ෂකවරුන්ගේ රාජකාරි වේලාවන් සංශෝධනය කිරීමට කමිටුවක්
+
+*2025-08-01 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212906) · `si`
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය, සමස්ත ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය සහ ශ්‍රී ලංකා ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමය යන සංගම්වල නියෝජිතයින් සමග සාකච්ඡාවක් අද (01) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේදී පවත්වනු ලැබීය.
+
+මෙහිදී වෘත්තිය සමිති නියෝජිතයින් ඉදිරිපත් කළ වෘත්තිය ගැටළු අතර ප්‍රධාන මහජන සෞඛ්‍ය පරීක්ෂක තනතුර පිරවීම, යතුරු පැදි ලබා ගැනීම, පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක පුහුණුව කඩිනම් කිරීම, පුහුණුව සඳහා අලුතින් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් බඳවා ගැනීම, සේවාස්ථ පුහුණු පාඨමාලාවන් ආරම්භ කිරීම, රාජකාරි වේලාවන් සංශෝධනය කිරීම, ඩිජිටල් සෞඛ්‍ය පද්ධතියක් සකස් කිරීම ඇතුළු කරුණු ගණනාවක් සම්බන්ධව සාකච්ඡාවට ලක් කෙරිණි.
+
+එහිදී එම කාලීන ගැටලු පිළිබඳව විශේෂ අවධානය යොමු කරමින් අමාත්‍යවරයා අමාත්‍යංශ නිලධාරීන් සමග එම අවස්ථාවේදීම සාකච්ඡා කර එම ගැටළු කිහිපයක් සඳහා විසඳුම් ලබා දීමටද පියවර ගත් අතර අනෙකුත් ගැටළු සඳහා ඉදිරියේදී මධ්‍ය කාලීන හා දීර්ඝ කාලීන ලෙස විසඳුම් ලබා දීමට කටයුතු කරන බවද පැවසීය.
+
+...
+
+[Data](articles/61475495.json)
+
+---
 
 ### காசாவில் 60000 பேர் கொல்லப்பட்டுள்ளனர் - அவர்களில் 18500 பேர் சிறுவர்கள் - பெயர் விபரங்களை வெளியிட்டது வோசிங்டன் போஸ்ட்
 
@@ -1793,45 +1827,5 @@ The All Share Price Index went up by 87.03 points, while the S and P SL20 rose b
 ...
 
 [Data](articles/a7bacee3.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளுக்கான விசேட சலுகைகள் ரத்து செய்யப்படும் - சட்டமூல வரைவு வெளியீடு
-
-*2025-07-31 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/221490) · `ta`
-
-முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்துச் செய்தற்கான சட்டமூலம் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்பட்டுள்ளது. நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சின் பணிப்புக்கமைய இந்த வர்த்தமானி பிரசுரிக்கப்பட்டுள்ளது.
-
-இதற்கமைய முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது விதவையான மனைவியருக்கு வழங்கப்படும் அரச உத்தியோகபூர்வ இல்லம், மாதாந்த கொடுப்பனவு, செயலாளருக்கான மாதாந்த கொடுப்பனவு, உத்தியோகபூர்வ வாகனங்கள் மற்றும் வேறு வசதி வழங்கள் என்பன இதனூடாக நிறுத்தப்படவுள்ளது.
-
-அத்துடன் முன்னாள் ஜனாதிபதியின் மனைவிக்கு செலுத்தப்பட்ட மாதாந்த கொடுப்பனவு இச்சட்டமூலத்தின் ஊடாக நிறுத்துவதற்கு சட்டமூலத்தில் குறிப்பிடப்பட்டுள்ளது.
-
-1986 ஆம் ஆண்டு 04 ஆம் இலக்க ஜனாதிபதிகளின் உரித்து சட்டத்தை இரத்துச் செய்யும் பொருட்டு இச்சட்டமூலம் தயாரிக்கப்பட்டுள்ளது.
-
-இந்தச் சட்டமூலம் 2025 ஆம் ஆண்டு ..... இலக்க ஜனாதிபதிகளின் உரித்து (இரத்துச் செய்தல்) சட்டம் என்று அடையாளப்படுத்தப்படும்.
-
-...
-
-[Data](articles/647af6fa.json)
-
----
-
-### Trump announces agreement to pause higher tariffs on Mexico for 90 days
-
-*2025-07-31 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111058/trump-announces-agreement-to-pause-higher-tariffs-on-mexico-for-90-days) · `en`
-
-President Donald Trump on Thursday said he would not raise U.S. tariffs on Mexican goods beyond their current levels for 90 days, in order to give the neighboring countries time to strike a trade deal.
-
-Trump recently threatened to raise the blanket tariff rate on Mexican imports to 30%, up from the 25% duty he had previously imposed to address alleged cross-border crime and drug trafficking. Mexico is also exposed to a 25% tariff on auto imports and 50% tariffs on metals commodities.
-
-The new rate for Mexico was set to take effect Friday, when Trump’s paused “reciprocal” tariffs on dozens of countries are set to snap back into place.
-
-But Trump said Thursday morning that he would postpone any tariff changes, as a result of his “very successful” call with Mexican President Claudia Sheinbaum.
-
-“More and more, we are getting to know and understand each other,” Trump said in a Truth Social post.
-
-...
-
-[Data](articles/dae67c3e.json)
 
 ---

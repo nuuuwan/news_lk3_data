@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 13:51:31**
+As of **2025-08-01 14:07:43**
 
 ## Newspaper Stats
 
-*Scraped **68,108** Articles*
+*Scraped **68,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,551
-adaderanalk | 8,419
+adaderanalk | 8,421
 tamilmirrorlk | 9,884
 virakesarilk | 11,339
-adaderanasinhalalk | 11,713
+adaderanasinhalalk | 11,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,108 articles have been extended.
+61,973 (91.0%) of 68,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### අමෙරිකානු තීරු බදු තවත් අඩු කිරීම ගැන රජය කරුණු පහදයි
+
+*2025-08-01 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212900) · `si`
+
+අමෙරිකාව, ශ්‍රී ලංකාවෙන් ආනයනය කරන භාණ්ඩ මත පැනවූ අන්‍යොන්‍ය තීරු බදු ප්‍රතිශතය සියයට 30 සිට 20 දක්වා අඩුකර තිබේ.
+
+ධවල මන්දිරය නිවේදනය කළේ, මෙම නව තීරු බදු ප්‍රතිශත ක්‍රියාවට නැංවෙන්නේ, අගෝස්තු මස 7 වනදා සිට බවය.
+
+මේ සම්බන්ධයෙන් කරුණු පැහැදිලි කළ මුදල් අමාත්‍යාංශ ලේකම්  ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සඳහන් කළේ,
+
+"මේ අභියෝගත් එක්කම අලුත් අවස්ථාත් ලැබී තිබෙනවා. ඒකෙන් පෙනෙන්නේ රටවල් දෙකටම.. අන්‍යොන්‍ය වශයෙන් අවශ්‍ය කරන ප්‍රතිලාභ මේ තුළින් ඉදිරියේදී අපිට උදාවෙන්නට නියමිතයි. මේක විශාල ජයග්‍රහණයක් විදියට තමයි රටක් ලෙස අපි දකින්නේ. මෙම සාකච්ඡා අපි ඉදිරියට කරගෙන යන්න බලාපොරොත්තු වෙනවා."
+
+මේ අතර අමෙරිකාව මෙරටට පැනවූ තීරු බදු අනුපාතය 20% දක්වා අඩුකිරීම ගැන සතුට පළකරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් X පණිවුඩයක් තබා තිබුණි.
+
+ඔහු පවසන්නේ ඉන්දියාවට 25%ක තීරුබදු අනුපාතයක් පනවද්දී ශ්‍රී ලංකාව, බංගල්දේශය හා වියට්නාමයට 20%ක සමාන තීරුබදු අනුපාතයක් පනවා ඇති බවය.
+
+...
+
+[Data](articles/a88d4b65.json)
+
+---
 
 ### වයස්ගතම කලලයෙන් උපත ලැබූ වාර්තාගත බිලිඳා
 
@@ -52,6 +74,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Flooding leaves 14 dead, missing in Vietnam’s Dien Bien
+
+*2025-08-01 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111068/flooding-leaves-14-dead-missing-in-vietnams-dien-bien) · `en`
+
+Flooding triggered by heavy rain has left at least 14 people dead or missing in Vietnam’s northern province of Dien Bien, state media reported on Friday.
+
+Floodwater rose quickly on Thursday night after hours of heavy rain, inundating houses in low-lying areas and causing flash floods and mudslides in mountainous parts of the province, Tien Phong newspaper reported.
+
+Traffic and power lines to several parts of the province have been cut off due to the floods, according to a statement from the provincial People’s Committee.
+
+Two children in Hang Pu Xi village have been buried in mudslides and rescuers are yet to find their bodies, according to the statement.
+
+Media reports said ongoing heavy rain in the province is hindering the search for the missing.
+
+◼️
+
+[Data](articles/c847d085.json)
+
+---
+
 ### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
 
 *2025-08-01 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212898) · `si`
@@ -65,6 +107,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/533ebf18.json)
+
+---
+
+### No Laugfs Gas price revision in August
+
+*2025-08-01 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111067/no-laugfs-gas-price-revision-in-august) · `en`
+
+LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of August, 2025.
+
+This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
+
+◼️
+
+[Data](articles/f8197c6b.json)
 
 ---
 
@@ -1733,59 +1789,5 @@ He also recalled the landmark state visit of the President to China in January t
 ...
 
 [Data](articles/e80a7abf.json)
-
----
-
-### Discussions with US officials aimed at reducing tariffs have not been successful: Handunneththi
-
-*2025-07-31 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111053/discussions-with-us-officials-aimed-at-reducing-tariffs-have-not-been-successful-handunneththi) · `en`
-
-Discussions held with US authorities aimed at reducing the higher reciprocal tariff rate announced by US President Donald Trump have not been successful thus far, Minister of Industry and Entrepreneurship Development Sunil Handunneththi has acknowledged.
-
-Although several discussions were held with US authorities, Sri Lanka has been unsuccessful in striking a deal to reduce the reciprocal tariffs announced by the US President, Minister Handunneththi conceded.
-
-According to the announcement made by US President Trump, an additional 30% tariff will be imposed on Sri Lankan exports entering the US market from tomorrow (Aug 1).
-
-The Minister said they are still hopeful of a better deal pertaining to tariffs, although it takes effect from tomorrow.
-
-A virtual discussion was also held last week between President Anura Kumara Dissanayake and U.S. Trade Representative (USTR) Jamieson Greer regarding the further reduction of trade tariffs imposed by the United States on Sri Lankan exports.
-
-...
-
-[Data](articles/4b7f518d.json)
-
----
-
-### Discussions held with US authorities aimed at reducing tariffs have not been successful: Handunneththi
-
-*2025-07-31 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111053/discussions-held-with-us-authorities-aimed-at-reducing-tariffs-have-not-been-successful-handunneththi) · `en`
-
-Discussions held with US authorities aimed at reducing the tariff rate announced by US President Donald Trump have not been successful thus far, Minister of Industry and Entrepreneurship Development Sunil Handunneththi has acknowledged.
-
-Although several discussions were held with US authorities, Sri Lanka has been unsuccessful in striking a deal to reduce the reciprocal tariffs announced by the US President, Minister Handunneththi conceded.
-
-According to the announcement made by US President Trump, an additional 30% tariff will be imposed on Sri Lankan exports entering the US market from tomorrow (Aug 1).
-
-◼️
-
-[Data](articles/5ab41572.json)
-
----
-
-### Sri Lanka to launch Digital ID by April 2026; Govt assures citizen privacy and data security
-
-*2025-07-31 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111052/sri-lanka-to-launch-digital-id-by-april-2026-govt-assures-citizen-privacy-and-data-security) · `en`
-
-In a major push towards digital transformation, the Government of Sri Lanka announced that it will launch its national Digital ID system by April 2026, a move that it promises will revolutionize access to public services while ensuring strong data privacy and citizen protection.
-
-The project, implemented under the Ministry of Digital Economy, is funded by a grant of approximately LKR 10.4 billion from the Government of India.
-
-“This will minimise the financial burden on the Sri Lankan government,” the Ministry confirmed.
-
-The Digital Economy Initiative envisions building an inclusive and robust digital economy by 2030, positioning Sri Lanka as a regional digital hub. A key step toward achieving this goal is the implementation of a secure and reliable digital identity system, the statement said.
-
-...
-
-[Data](articles/df300dda.json)
 
 ---

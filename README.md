@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 14:38:32**
+As of **2025-08-01 14:54:24**
 
 ## Newspaper Stats
 
-*Scraped **68,114** Articles*
+*Scraped **68,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,551
-adaderanalk | 8,421
+adaderanalk | 8,422
 tamilmirrorlk | 9,884
 virakesarilk | 11,340
 adaderanasinhalalk | 11,716
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,716
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,114 articles have been extended.
+61,973 (91.0%) of 68,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### Piumi Hansamali & Viranjith Thambugala to be indicted for tax evasion
+
+*2025-08-01 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111069/piumi-hansamali-viranjith-thambugala-to-be-indicted-for-tax-evasion) · `en`
+
+The Inland Revenue Department (IRD) has informed the Colombo Magistrate’s Court that it intends to file a case before the Colombo High Court against well-known model Piumi Hansamali and prominent businessman Viranjith Thambugala, for alleged non-payment of income taxes amounting to over Rs. 400 million.
+
+According to the IRD, both individuals are accused of evading income tax payments for the financial years 2022 and 2023.
+
+The case was taken up yesterday (01) before Colombo Additional Magistrate Pasan Amarasena, during which progress reports on the ongoing investigations into tax-related offences were presented.
+
+Senior Counsel Dinesh Perera, appearing on behalf of the Commissioner General of Inland Revenue, informed the court that investigation reports concerning the alleged tax evasion by Hansamali and Thambugala had been submitted to the Attorney General, and that the department intends to proceed with filing indictments before the Colombo High Court.
+
+...
+
+[Data](articles/e6ed3b52.json)
+
+---
 
 ### வியட்நாமில் வெள்ளப்பெருக்கு ;  14 பேர் உயிரிழப்பு
 
@@ -1775,21 +1793,5 @@ Accordingly, all fuel prices will remain unchanged for August, it said.
 ...
 
 [Data](articles/f760d2d0.json)
-
----
-
-### மாலைதீவு வர்த்தக மன்றத்தில் ஜனாதிபதி உரையாற்றினார்
-
-*2025-07-31 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221491) · `ta`
-
-மாலைதீவுக்கான இலங்கை உயர் ஸ்தானிகராலயம் மற்றும் இலங்கை வர்த்தக சபையின் இலங்கை-மாலைதீவு வணிக கவுன்சில் ஏற்பாடு செய்த வர்த்தக மன்றத்தில் புதன்கிழமை (30) பிற்பகல் ஜனாதிபதி அநுர குமார திசாநாயக்க கலந்து கொண்டார்.
-
-மாலைதீவில் உள்ள JEN Maldives Malé ஹோட்டலில் நடைபெற்ற இந்த வர்த்தக மன்றத்தின் நோக்கம், முதலீடு, வர்த்தகம் மற்றும் சுற்றுலாத் தொழில்துறைகளில் முதலீட்டிற்கு  உகந்த நாடாக இலங்கையை முன்னிலைப்படுத்துவதும், மாலைதீவு வர்த்தக சமூகத்தை இந்நாட்டில் முதலீடு செய்ய அழைப்பு விடுப்பதுமாகும்.
-
-மாலைதீவு வர்த்தக சமூகத்தினரிடையே உரையாற்றிய ஜனாதிபதி, இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான பொருளாதார ஒத்துழைப்பை மேம்படுத்துவதற்கான வாய்ப்புகள் மற்றும் ஆற்றலை வலியுறுத்தினார். 2022 பொருளாதார நெருக்கடிக்குப் பிறகு, வலுவான பொருளாதார சீர்திருத்தங்கள் மற்றும் சர்வதேச ஆதரவு மூலம் இலங்கை பொருளாதார ஸ்திரத்தன்மையை அடைந்துள்ளதாக தெரிவித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க, தற்போது இலங்கையில்  முதலீட்டுக்கு உகந்த சூழல் உருவாக்கப்பட்டுள்ளதாகவும் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/8f699220.json)
 
 ---

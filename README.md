@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 16:23:27**
+As of **2025-08-01 16:35:43**
 
 ## Newspaper Stats
 
-*Scraped **68,122** Articles*
+*Scraped **68,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailyftlk | 4,811
 adalk | 6,553
 adaderanalk | 8,424
 tamilmirrorlk | 9,884
-virakesarilk | 11,340
+virakesarilk | 11,344
 adaderanasinhalalk | 11,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,122 articles have been extended.
+61,973 (91.0%) of 68,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### காசாவில் 60000 பேர் கொல்லப்பட்டுள்ளனர் - அவர்களில் 18500 பேர் சிறுவர்கள் - பெயர் விபரங்களை வெளியிட்டது வோசிங்டன் போஸ்ட்
+
+*2025-08-01 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/221542) · `ta`
+
+ஜூலை மாத நடுப்பகுதியில் பொதுமக்களை போராளிகளுடன் வித்தியாசப்படுத்தி பார்க்காத காசாவின் சுகாதார அமைச்சு யுத்தத்தின் போது கொல்லப்பட்டவர்களின் பெயர்களையும் வயதினையும் வெளியிட்டது.
+
+மிக நீண்ட இந்த ஆவணத்தில் சிறுவர்களின் பெயர்கள் தொடர்ந்து வந்துகொண்டிருந்தன.900க்கும் அதிகமானவர்கள் தங்கள் முதலாவது பிறந்த நாளிற்கு முன்னர் கொல்லப்பட்டவர்கள்.
+
+ஹமாசின் உறுப்பினர்கள் பொதுமக்கள் வசிக்கும் பகுதிகளில் செயற்படுகின்றனர் என இஸ்ரேல் தெரிவிக்கின்றது, மருத்துவமனைகள், வீடுகள், பாடசாலைகள் இடம்பெயர்ந்தவர்களிற்கான முகாம்களை இலக்குவைப்பதை நியாப்படுத்துவதற்கு இஸ்ரேல் கூறும் காரணம்.
+
+பொதுமக்கள் வசிக்கும் பகுதிகளில் ஹமாசின் பிரசன்னத்தை காரணம் காட்டி  பொதுமக்களை பெருமளவில் கொல்லும் இஸ்ரேலின் நடவடிக்கைகளை நியாயப்படுத்த முடியாது என ஐக்கிய நாடுகளும் ஐரோப்பிய ஒன்றிய நாடுகளும் மனித உரிமை அமைப்புகளும் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/b5c19717.json)
+
+---
 
 ### රට පුරා සිදුකළ විශේෂ සෝදිසි මෙහෙයුම්වලින් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
@@ -52,6 +70,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பல மாகாணங்களுக்கு கடும் மின்னல் தாக்கம் தொடர்பில் எச்சரிக்கை
+
+*2025-08-01 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221543) · `ta`
+
+வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அம்பாந்தோட்டை மாவட்டத்திலும் இன்று வெள்ளிக்கிழமை கடும் மின்னல் தாக்கம் தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+அதன்படி,  இன்றைய தினம்  இரவு 11.00 மணி வரை அமுலில் உள்ள வானிலை முன்னறிவிப்பின்படி, மேற்படி மாகாணங்களிலும் மாவட்டத்திலும் பல இடங்களில் கடும் மின்னல் தாக்கம்  இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளது என  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் பொதுமக்கள் பின்வரும் அறிவுரைகளைப் பின்பற்றுமாறு வளிமண்டலவியல் திணைக்களம் ஆலோசனை வழங்குகின்றது.
+
+• திறந்தவெளிகளில் நடமாடுவதை குறைத்துக் கொள்ளவும். மரங்களின் கீழ் ஒருபோதும் நிற்க வேண்டாம்.
+
+• இடி முழக்கத்தின் போது நெல்வயல்கள், தேயிலைத் தோட்டங்கள், திறந்த நீர்நிலைகள் போன்றவற்றைத் தவிர்த்துக் கொள்ளவும்.
+
+...
+
+[Data](articles/333c10e5.json)
+
+---
+
 ### ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රශංසා
 
 *2025-08-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212904) · `si`
@@ -67,6 +107,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f50f8808.json)
+
+---
+
+### இரண்டு பாரிய போதைப்பொருள் கடத்தல் முயற்சிகள் முறியடிப்பு ; விமான நிலையம் மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலைய சுங்கத் திணைக்கள அதிகாரிகளுக்கு அமெரிக்க தூதுவர் பாராட்டு
+
+*2025-08-01 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221539) · `ta`
+
+இரண்டு பாரிய போதைப்பொருள் கடத்தல் முயற்சிகளை முறியடித்த விமான நிலையம் மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலையத்தில் உள்ள சுங்கத்திணைக்கள அதிகாரிகளுக்கு பாராட்டுகளை இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தெரிவித்துள்ளார்.
+
+விமான நிலையத்தில் முதன்முறையாக கொக்கெயின் படிகம் கடத்தல் முயற்சியை தடுத்தமை உட்பட 17.5 கிலோ ஹஷிஷ் மற்றும் கொக்கெயின் மற்றும் தபால் பொதிகளில் மறைத்து வைக்கப்பட்டிருந்த 4.2 கிலோ  சிந்தடிக் போதைப்  பொருட்கள் ஆகியவை கைப்பற்றப்பட்டமைக்கு விமானநிலையம்  மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலையத்தில் உள்ள இலங்கை சுங்கத்திணைக்கள அதிகாரிகளுக்கு பாராட்டுகள்.
+
+கைப்பற்றப்பட்ட போதைப் பொருட்களின் மொத்த பெறுமதி 1.6 மில்லியன் அமெரிக்க டொலர்கள் ஆகும்.
+
+...
+
+[Data](articles/3beedd68.json)
 
 ---
 
@@ -89,6 +145,22 @@ The opposition leader also called for the establishment of a dedicated team comp
 ...
 
 [Data](articles/ababbca2.json)
+
+---
+
+### புதிய கல்விச் சீர்திருத்தத்தில் புத்தியும் இதயமும் கொண்ட பிள்ளைகளை உருவாக்க கவனம் செலுத்துங்கள் – அஸ்கிரி, மல்வத்து அனுநாயக்க தேரர்கள் பிரதமருக்கு வேண்டுகோள்
+
+*2025-08-01 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221532) · `ta`
+
+புத்தியை மட்டும் விருத்தி செய்யும் கல்வி முறைக்குப் பதிலாக, இதயத்தையும் விருத்தி செய்து, கருணையுடன் கூடிய போதிசத்துவ குணங்கள் கொண்ட குழந்தைகளை உருவாக்குவதற்குப் புதிய கல்விச் சீர்திருத்தத்தில் கவனம் செலுத்துமாறு அஸ்கிரி, மல்வத்து ஆகிய இரு மகா விகாரைகளின் அனுநாயக்க தேரர்கள் பிரதமர் கலாநிதி ஹரினி அமரசூரியவிடம் கேட்டுக்கொண்டனர்.
+
+புதிய கல்விச் சீர்திருத்தம் தொடர்பாக அஸ்கிரி மற்றும் மல்வத்து பீடங்களின் அனுநாயக்க தேரர்கள் மற்றும் காரக சங்க சபையின் துறவிகளுக்கு தெளிவூட்டுவதற்காக, கண்டியில் உள்ள தலதா மாளிகை வளாகத்தில் பிரதமர் கலாநிதி ஹரினி அமரசூரியாவின் பங்கேற்புடன் வியாழக்கிழமை (31) நடைபெற்ற கலந்துரையாடலின் போதே அனுநாயக்க தேரர்கள் இதனைத் தெரிவித்தனர்.
+
+புதிய கல்விச் சீர்திருத்தம் குறித்துச் சமூகத்தில் எழுந்துள்ள தவறான கருத்துக்கள், அதன் தற்போதைய நிலை மற்றும் அதன் உண்மையான தன்மை குறித்து பிரதமர் மற்றும் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவவினால் அஸ்கிரி, மல்வத்து இரு பீடங்களின் துறவிகளுக்கு இங்கு விளக்கமளிக்கப்பட்டது.
+
+...
+
+[Data](articles/f5b9dd27.json)
 
 ---
 
@@ -1761,71 +1833,5 @@ But Trump said Thursday morning that he would postpone any tariff changes, as a 
 ...
 
 [Data](articles/dae67c3e.json)
-
----
-
-### Indo-Sri Lanka Accord: 38 Years Since We Missed The Bus
-
-*2025-07-31 21:30:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indo-sri-lanka-accord-38-years-since-we-missed-the-bus/) · `en`
-
-Even after thirty-eight years, the Indo-Lanka Accord, signed on July 29, 1987, stands out as a remarkable event in Sri Lanka’s history. After much struggle, the accord led to the 13th Amendment to the constitution, which introduced a provincial council structure in an attempt to resolve the island’s protracted ethnic conflict. From the outset, hardliners on both sides rejected the 13th Amendment as a comprehensive solution: Tamil hardliners argued it was insufficient, while some Sinhalese hardliners believed it gave too much to the Tamils.
-
-To this day, Sri Lanka’s ethnic question remains unresolved, stubbornly echoing those same old arguments—even though the bloody civil war ended with the loss of thousands of lives. History remains our only teacher, reminding us of what we failed to understand in the past. Despite India’s hard-footed Cold War approach, she put her best efforts into helping Sri Lanka move forward, but both factions failed to engage constructively.
-
-...
-
-[Data](articles/dbb7206a.json)
-
----
-
-### අමෙරිකානු බදු අඩුකරගැනීමේ සාකච්ඡාවල නවතම තත්ත්වය ගැන කියන හඳුන්නෙත්ති
-
-*2025-07-31 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212883) · `si`
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ තීරුබදු ප්‍රතිපත්තිය හෙට සිට ක්‍රියාත්මක වීමට නියමිතව තිබෙන අතර එම තීරුබදු අඩුකරගැනීම සඳහා අමෙරිකාව සමග සිදුකරමින් පවතින සාකච්ඡා මෙතෙක් සාර්ථක වී නොමැති බව කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
-
-එහිදී වැඩිදුරටත් ඔහු සඳහන් කර සිටියේ එම සාකච්ඡා සුබවාදීව අවසන් වේයැයි අපේක්ෂා කරන බවයි.
-
-''ඇමරිකා එක්සත් ජනපදය වුණත් ඉතාම හොඳ මට්ටමකට සාකච්ඡා සම්පූර්ණ වෙලා නැහැ. අපි බලාපොරොත්තු වෙනවා සුබවාදීව ඉවර වෙයි කියලා. ඒ වගේම අපි රජය හදන ආර්ථික ඉලක්ක ජනතාව අතර බෙදා හදාගෙන ජන සහභාගීත්වයෙන් ඒ ඉලක්ක සම්පූර්ණ කරගැනීම තමයි අපේ අරමුණ''
-
-ලොව රටවල් 100කට ආසන්න සංඛ්‍යාවක් ඉලක්ක කරගනිමින් අමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පසුගිය පසුගිය අප්‍රේල් දෙවැනිදා අන්‍යෝන්‍ය තීරුබදු හඳුන්වාදෙනු ලැබුවේය.
-
-මෙහිදී දෙරට අතර සියයට 88ක වෙළෙඳ හිඟයක් පවතින බවට සඳහන් කරමින් ශ්‍රී ලංකාවට සියයට 44ක් තීරුබදු පැනවූයේ ඉහළ තීරුබදුවලට ලක්වූ මුල් රටවල් 10 අතරට ශ්‍රී ලංකාව ද ඇතුළත් කරමිනි.
-
-...
-
-[Data](articles/9b6d6788.json)
-
----
-
-### 300 police officers suspended since January: Public Security Minister
-
-*2025-07-31 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111057/300-police-officers-suspended-since-january-public-security-minister-) · `en`
-
-Around 300 police officers have been suspended owing to various offenses since January, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has revealed.
-
-Although around 200 police personnel were suspended in 2024, the numbers have increased significantly this year, the Public Security Minister noted.
-
-The Minister said due to the actions of certain government employees, the image of the entire state service has been tarnished.
-
-He said some workers even have lost their monthly pension payments despite working for 25 years in the state service after being found guilty of committing various offenses.
-
-Minister of Public Security and Parliamentary Affairs Ananda Wijepala said it is unfortunate that at present, the Inspector General of Police, the Controller General of Immigration and Emigration and the Commissioner General of Prison are all held by individuals who are in acting capacity.
-
-...
-
-[Data](articles/4e88a99e.json)
-
----
-
-### Reframing Education Reform In Sri Lanka: Aligning Human Capital With Inclusive Growth & Sustainable Development
-
-*2025-07-31 21:06:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reframing-education-reform-in-sri-lanka-aligning-human-capital-with-inclusive-growth-sustainable-development/) · `en`
-
-Prime Minister Dr. Harini Amarasuriya, as the Minister of Education, has presented an array of education reform measures along with her expertise, deep knowledge, and experience, and her utmost commitment and dedication to the subject matter. It is indeed highly commendable and valued. President Anura Kumara Dissanayake, in his versatile speech in the Parliament, clearly and extensively explained that reforms will not be confined to revising the curriculum. But a fundamental transformation of our entire society, the economic body, and the country. What we have seen via social media is a Power Point presentation (PPT) as a draft of the reform measures, which may be the tip of the iceberg.
-
-...
-
-[Data](articles/991578e3.json)
 
 ---

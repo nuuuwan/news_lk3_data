@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 21:07:06**
+As of **2025-08-01 21:21:02**
 
 ## Newspaper Stats
 
-*Scraped **68,159** Articles*
+*Scraped **68,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,556
 adaderanalk | 8,431
 tamilmirrorlk | 9,888
 virakesarilk | 11,353
-adaderanasinhalalk | 11,729
+adaderanasinhalalk | 11,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,159 articles have been extended.
+61,973 (90.9%) of 68,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### සයිබර් වංචාවලින් ඉන්දියාවට 2024දී රුපියල් කෝටි 23,000ක් අහිමි වෙලා
+
+*2025-08-01 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212916) · `si`
+
+පසුගිය 2024 වසරේදී සයිබර් අපරාධකරුවන්ට සහ වංචාකරුවන්ට හසුවී ඉන්දියාව රුපියල් කෝටි 22,842ක් අහිමි කර ගෙන ඇතැයි දිල්ලිය පදනම් කරගත් මාධ්‍ය සහ තාක්ෂණික සමාගමක් වන DataLEADS වාර්තා කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+එම සමාගම විසින් ඩිජිටල් මූල්‍ය වංචා පිළිබඳ සිය වාර්තාවේ මේ සම්බන්ධව දීර්ඝ ලෙස සඳහන් කර ඇතැයිද එම මාධ්‍ය වාර්තා කර තිබේ.
+
+එමෙන්ම ප්‍රාන්ත සහ මධ්‍යම නීතිය ක්‍රියාත්මක කරන්නන් අතර සම්බන්ධීකරණ කටයුතු කරන ෆෙඩරල් ආයතනයක් වන  I4C නම් ඉන්දියානු සයිබර් අපරාධ සම්බන්ධීකරණ මධ්‍යස්ථානය මෙම වසරේදී ඉන්දියානුවන්ට රුපියල් ලක්ෂ 1.2කට වඩා අහිමි වනු ඇතැයිද පුරෝකථනය කර ඇත.
+
+පසුගිය වසරේදී ඩිජිටල් අපරාධකරුවන් සහ වංචාකරුවන් විසින් සොරකම් කරන ලද මුදල 2023 වසරේදී රුපියල් කෝටි 7,465කට වඩා තුන් ගුණයකින් පමණ වැඩි බවත් 2022 වසරේදී රුපියල් කෝටි 2,306 ට වඩා 10 ගුණයකින් පමණ වැඩි බවත් DataLEADS සිය වාර්තාවේ  සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/6fbdea25.json)
+
+---
 
 ### දුම්රිය මැදිරියක වැසිකිළියක තිබී බිළි﻿ඳියකගේ මළ සිරුරක් හමුවෙයි
 
@@ -1891,17 +1909,5 @@ A series of African nations and tiny island states have got 15.
 ...
 
 [Data](articles/e15d066a.json)
-
----
-
-### Do leopards and people actually share the same world?
-
-*2025-08-01 05:47:01* · [`dailyftlk`](https://www.ft.lk/columns/Do-leopards-and-people-actually-share-the-same-world/4-779763) · `en`
-
-Neluma of Wilpattu in his prime, 2023, Photograph by Rukshan Jayewardene
-
-...
-
-[Data](articles/f1865de9.json)
 
 ---

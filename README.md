@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 00:40:37**
+As of **2025-08-02 00:51:36**
 
 ## Newspaper Stats
 
-*Scraped **68,176** Articles*
+*Scraped **68,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 699
 islandlk | 4,159
 economynextcom | 4,168
 dailymirrorlk | 4,733
-dailyftlk | 4,815
+dailyftlk | 4,817
 adalk | 6,557
 adaderanalk | 8,433
 tamilmirrorlk | 9,889
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,176 articles have been extended.
+61,973 (90.9%) of 68,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### Why deportations, border and immigration controls in Global North?
+
+*2025-08-02 00:16:02* · [`dailyftlk`](https://www.ft.lk/columns/Why-deportations-border-and-immigration-controls-in-Global-North/4-779798) · `en`
+
+Deportations, border and immigration controls are other instruments helping the enterprise of an international division of humanity
+
+Trump’s deportation orders, EU’s temporary border controls beginning with the Schengen area and UK’s White Paper on immigration all reflect an underlying fear that the metaphorical wall built by imperialism and globalisation separating those living in zones of conflict and tragedy from those living in relative peace and prosperity, which in other words is the international division of humanity is beginning to crack
+
+...
+
+[Data](articles/d5143aea.json)
+
+---
+
+### Ramani, the woman soldier who picked up the pen
+
+*2025-08-02 00:13:21* · [`dailyftlk`](https://www.ft.lk/opinion/Ramani-the-woman-soldier-who-picked-up-the-pen/14-779797) · `en`
+
+Ramani Lalithangani Bandara, one of the pioneering young women to join the Sri Lanka Army Women’s Corps in November 1979 passed away last week. She was 66.
+
+An old girl of Kegalle Balika Vidyalaya, her prowess as an athlete, especially netball, led to her selection to the second intake of the first batch of six young women officers to be trained in the United Kingdom.
+
+Upon her return, Ramani held several senior roles in the fledgling organisation including that of the Adjutant, Training Officer of new women recruits and logistics officer. Promoted Major, she served as a Staff Officer of Legal Affairs and held the post of the 2nd in Command of the 1st Women’s Corps Regiment prior to leaving the army.
+
+Her brother Senani Bandara who also joined the army was captured and killed during the Eelam conflict.
+
+...
+
+[Data](articles/def0a432.json)
+
+---
 
 ### Sri Lanka’s tariff triumph: Cool President in hot crisis
 
@@ -1829,51 +1861,5 @@ He also thanked the United States for recognizing the challenges faced by Sri La
 ...
 
 [Data](articles/fa70eac6.json)
-
----
-
-### 2028 ඔලිම්පික් ක්‍රිකට් සිහිනය ශ්‍රී ලංකාවට බොඳවෙයි?
-
-*2025-08-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212891) · `si`
-
-2028 ලොස් ඇන්ජලීස් ඔලිම්පික් උළෙලේ ක්‍රිකට් ක්‍රීඩාව ශ්‍රී ලංකාව ඇතුළු ICC පූර්ණ සමාජික රටවල් කිහිපයකටම අහිමි වනු ඇතැයි වාර්තා වේ.
-
-එළැඹෙන ඔලිම්පික් උළෙලට ක්‍රිකට් ක්‍රීඩාවෙන් කණ්ඩායම් 6කට අවස්ථාව ලබාදීමට ජාත්‍යන්තර ඔලිම්පික් කමිටුව තීරණය කර තිබේ.
-
-ඒ අනුව මහාද්වීපික සුදුසුකම් ක්‍රමයක් මත එක් එක් කලාපයේ ඉහළම ශ්‍රේණිගත කිරිමේ හි සිටින කණ්ඩායමට එම අවස්ථාව ලබාදීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණයක් ගෙන ඇති බව වාර්තා වේ.
-
-එසේ වුවහොත් ආසියාවෙන් ඉන්දියාව, ඕෂනියාවෙන් ඔස්ට්‍රේලියාව, යුරෝපයෙන් එංගලන්තය, අප්‍රිකාවෙන් දකුණු අප්‍රිකාවට එම අවස්ථාව හිමිවනු ඇත.
-
-ඉතිරි කණ්ඩායම් ද්විත්වයෙන් එකක් සත්කාරක අමෙරිකාවට හෝ කැරිබියන් දූපත්වලින් එක් රටකට හිමිවනු ඇත.
-
-මේ හේතුවෙන් සියවසකට වැඩි කාලයකට පසු ඔලිම්පික් උළෙලට පැමිණෙන ක්‍රිකට් ක්‍රීඩාව" ශ්‍රී ලංකාව, පාකිස්තානය, නවසීලන්තය වැනි පූර්ණ සාමාජිකයින්ට අහිමි වනු ඇති බව වාර්තා වේ.
-
-අවසන් වරට ඔලිම්පික් උළෙලකට ක්‍රිකට් ක්‍රීඩාව ඇතුළත් වී තිබුණේ 1900 පැරිස් ඔලිම්පික් උළෙලටය.
-
-2028 ඔලිම්පික් උළෙලේ ක්‍රිකට් තරග එම වසරේ ජූලි 12 සහ 29 කාලසීමාවේ පැවැත්වීමට කටයුතු යොදා තිබේ.
-
-...
-
-[Data](articles/efef6761.json)
-
----
-
-### மாணவிக்கு ஆபாச வீடியோ அனுப்பிய ஆசிரியையின் கணவரை கைது செய்ய நீதிமன்றம் உத்தரவு
-
-*2025-08-01 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/221507) · `ta`
-
-மாணவிக்கு ஆபாச வீடியோ அனுப்பியதாகக் குற்றம் சாட்டப்பட்ட ஆசிரியையின் கணவரை உடனடியாகக் கைது செய்து நீதிமன்றில் ஆஜர்படுத்துமாறு கொழும்பு மேலதிக நீதவான் கசுன் காஞ்சன திசாநாயக்க வியாழக்கிழமை (31) உத்தரவிட்டுள்ளார்.
-
-ஆசிரியர் அளித்த முறைப்பாடு தொடர்பாக நீதிமன்றத்தில் ஆஜரானபோது, பொலிஸ் சிறுவர்கள் மற்றும் மகளிர் பணியக அதிகாரிகள் அளித்த அறிக்கைகளை தொடர்ந்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-ஆபாசப் படங்களுக்கு அடிமையானதாகக் கூறப்படும் சந்தேகநபர், தனது மனைவியுடன் உடலுறவில் இருந்த தருணங்களை இரகசியமாகப் பதிவு செய்துள்ளார்.
-
-இந்நிலையில், குடும்ப தகராறில் மனைவியிடம் கல்வி கற்கும் மாணவிக்கு அந்த வீடியோவை பகிர்ந்துள்ளார் என விசாரணையில் தெரிய வந்துள்ளது.
-
-முறைப்பாடு அளித்த ஆசிரியையான மனைவிக்கும்  அவரது கணவருக்கும் இடையில் அண்மையில் தகராறினால் ஆபாசப் படங்களை பகிர்ந்து சந்தேகநபர் பழிவாங்க எண்ணியதாக நீதிமன்றத்தில் மேலும் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/16c3c700.json)
 
 ---

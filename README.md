@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 20:34:16**
+As of **2025-08-01 20:48:55**
 
 ## Newspaper Stats
 
-*Scraped **68,157** Articles*
+*Scraped **68,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 4,159
 economynextcom | 4,168
 dailymirrorlk | 4,733
 dailyftlk | 4,811
-adalk | 6,555
+adalk | 6,556
 adaderanalk | 8,431
 tamilmirrorlk | 9,888
 virakesarilk | 11,353
-adaderanasinhalalk | 11,728
+adaderanasinhalalk | 11,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,157 articles have been extended.
+61,973 (90.9%) of 68,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### දුම්රිය මැදිරියක වැසිකිළියක තිබී බිළි﻿ඳියකගේ මළ සිරුරක් හමුවෙයි
+
+*2025-08-01 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212915) · `si`
+
+මාලිගාවත්ත දුම්රිය අංගණයේ ගාල්කර තිබූ දුම්රියක තුන්වන මැදිරියේ වැසිකිළියකින් බිළි﻿ඳියකගේ මළ සිරුරක් අද (01) හමුවී තිබේ.
+
+පුත්තලමේ සිට අද උදෑසන ගල්කිස්ස බලා පැමිණි අංක 8346 දරණ දුම්රිය, ගමන නිමාකිරීමෙන් පසු මාලිගාවත්ත දුම්රිය අංගණයේ ගාල්කර තිබේ.
+
+එහිදී දුම්රිය පිරිසිදු කිරීමට එක්වූ සේවයන් පිරිසකට දුම්රියේ තුන්වන පන්තියේ මැදිරියක් දෙසින් දැඩි දුර්ගන්ධයක් දැනී ඇති අතර ඒ අනුව කළ පරික්ෂාවේදී ඔවුන් දැක ඇත්තේ හිත් කම්පා කරවන දසුනකි.
+
+ඒ කුඩා බිළිඳියක් මල්ලක දමා වැසිකිළියේ අතැර ගොස් තිබූ අයුරුය.
+
+මියගිය බිළිඳිය පිළිබඳ මෙම සේවකයන් වහාම දෙමටගොඩ පොලිසිය දැනුම්වත් කළ අතර ඒ අනුව විමර්ශන ආරම්භ කෙරිණි.
+
+මූලික විමර්ශන අනුව හෙළිවී ඇත්තේ ඇය දින තුනක් පමණ වයසැති බිළිඳියක් බවය.
+
+සිරුරේ පෙකණි වැලේ කොටසක් ද ඇති බව පොලිසිය නිරීක්ෂණය කර තිබුණි.
+
+දරුවා බහා තිබූ මල්ල විනිවිද පෙනෙන එකක් වූ අතර එය තීරු බදු රහිත හෙවත් DUTY FREE වෙළෙඳසැලකින් ලබාගත් බෑගයක් බවට හඳුනාගෙන තිබේ.
+
+එහි තිබූ QR කේතයක් ස්කෑන්කර බැලීමේදී එය ඩුබායි රාජ්‍යයට අයත් DUTY FREE බෑගයක් බව තහවුරු කරගත් බව පොලිසිය පැවසුවේය.
+
+...
+
+[Data](articles/50a504a2.json)
+
+---
 
 ### එල් සැල්වදෝර් ජනාධිපතිට නැවත තරග කරන්න පාර්ලිමේන්තුවෙන් අනුමැතිය
 
@@ -241,6 +269,22 @@ Although his 90-day detention period was scheduled to end on August 4, the inves
 ...
 
 [Data](articles/26eee815.json)
+
+---
+
+### ලොකු ලුණු ගොවියාගෙන් ආණ්ඩුවට දෝස්මුරයක්
+
+*2025-08-01 18:54:51* · [`adalk`](https://www.ada.lk/picture_story/ලොකු-ලුණු-ගොවියාගෙන්-ආණ්ඩුවට-දෝස්මුරයක්/10-417659) · `si`
+
+දේශීය ලොකු ලූණු අස්වනු නෙලීමට ආසන්නව තිබියදී විදේශ රටවලින් අඩු මුදලට ගෙන්වූ ලොකු ලූණු තොග  රට පුරා ගබඩා කොට දේශීය ලොකු ලූණු ගොවියාට මිලක් අහිමි කිරීමේ ක්‍රියාවලියක් රට තුළ ක්‍රියාත්මක වන බව දේශීය ලොකු ලුණු ගොවීහු චෝදනා කරති.
+
+ලොකු ලූණු වගාවෙන් ගොවීන් සුගිය කාලයේ ඉවත්ව සිටියේ නිසි  මිලක් නොමැති නිසාවෙනි , පසුව කෘෂිකර්ම අමාත්‍යාංශය මැදිහත්වී පසුගිය කන්නේ සහ මෙම කන්නයේ   ගෙන් ගෙට ගොස් වගාව අතහැර දැමූ ගොවීන් දැනුවත් කරමින් නැවත වගාව ආරම්භ කරන ලෙස   දැනුම් දීමත් සමඟ මෙවර මාතලේ දිස්ත්‍රික්කයේ පමණක්  හෙට්ටයාර දෙදහසක් පමණ ගොවීන් ලොකු ලුණු වගාකොට තිබේ
+
+තවත් දින දහයක් පහළොවක් පමණ ගතවෙද්දී දේශීය ලොකු ලුණු අස්වැන්න ලැබීමට නියමිත බව ගොවීන් පෙන්වා දෙති,  එහෙත් මේ වන විට දේශීය වෙළඳපොලේ පාකිස්තානයෙන් සහ ඉන්දියාවෙන් ගෙන්වන ලද ලොකු ලූණු කිලෝවක් රුපියල් 80 සිට 100  දක්වා වූ මිල ගණන් යටතේ අලෙවි වීම නිසා තම නිෂ්පාදනවලට මිලක් අහිමිවීමේ අවදානමක් පවතින බව දේශීය ලොකුළුණු ගොවීහු පෙන්වා දෙති.
+
+...
+
+[Data](articles/32404323.json)
 
 ---
 
@@ -1861,35 +1905,5 @@ Neluma of Wilpattu in his prime, 2023, Photograph by Rukshan Jayewardene
 ...
 
 [Data](articles/f1865de9.json)
-
----
-
-### AI at work: Why CEOs  and HR must lead the charge
-
-*2025-08-01 05:42:05* · [`dailyftlk`](https://www.ft.lk/opinion/AI-at-work-Why-CEOs-and-HR-must-lead-the-charge/14-779762) · `en`
-
-The father of modern HR, renowned HR guru Prof. Dave Ulrich, states in this interview that AI is no longer a distant disruption—it is already reshaping how we work, lead, and make decisions. His insights provide a clear roadmap for HR leaders and CEOs to not only adapt, but also shape the future of work with clarity, courage, and compassion
-
-Prof. Ulrich, how can HR align their workforce strategy with AI-driven business models?
-
-...
-
-[Data](articles/18f3631d.json)
-
----
-
-### Letter to President to revoke free visas for Israeli nationals
-
-*2025-08-01 05:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/Letter-to-President-to-revoke-free-visas-for-Israeli-nationals/14-779761) · `en`
-
-Following is a letter written to President Anura Kumara Disanayake by Socialist People’s Forum General Secretary Dharmasiri Lankapeli, demanding that his Government’s policy to issue free visas to Israeli tourists be revoked, given the ongoing genocide in Palestine
-
-This letter is to demand that you revoke the Government’s recently announced policy of waiving visa fees to Israeli tourists entering Sri Lanka.
-
-In December 2024, a group of activists including members of the Socialist People’s Forum wrote to the Inspector General of Police (IGP) asking for an explanation as to how Gal Ferenbook, a member of the Israeli Defence Force (IDF), alleged to have violated international humanitarian laws in Gaza, was allowed to enter Sri Lanka. To date, the IGP has not acknowledged this letter nor made public any investigations he may have carried out in response.
-
-...
-
-[Data](articles/af202f3f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 14:25:16**
+As of **2025-08-01 14:38:32**
 
 ## Newspaper Stats
 
-*Scraped **68,113** Articles*
+*Scraped **68,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 4,811
 adalk | 6,551
 adaderanalk | 8,421
 tamilmirrorlk | 9,884
-virakesarilk | 11,339
+virakesarilk | 11,340
 adaderanasinhalalk | 11,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (91.0%) of 68,113 articles have been extended.
+61,973 (91.0%) of 68,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### வியட்நாமில் வெள்ளப்பெருக்கு ;  14 பேர் உயிரிழப்பு
+
+*2025-08-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221534) · `ta`
+
+வியட்நாமின் வடக்கு மாகாணமான டியென் பியெனில் பெய்த கடும் மழையினால் ஏற்பட்ட வெள்ளப்பெருக்கில் சிக்கி 14 பேர் உயிரிழந்துள்ளதாக அந்நாட்டு  ஊடகங்கள் வெள்ளிக்கிழமை செய்தி வெளியிட்டுள்ளன.
+
+வியாழக்கிழமை (31) இரவு பல மணி நேரம் பெய்த கடும் மழையினால் வெள்ளப்பெருக்கு வேகமாக அதிகரித்துள்ளது.
+
+தாழ்வான பகுதிகளில் உள்ள வீடுகளை வெள்ளநீர் சூழ்ந்துள்ளது, அத்தோடு,   மாகாணத்தின் மலைப்பாங்கான  பகுதிகளில் திடீர் வெள்ளப்பெருக்கு மற்றும் மண்சரிவுகளை ஏற்படுத்தியதாக டியென் போங் பத்திரிகை  செய்தி  வெளியிட்டுள்ளது.
+
+ஹாங் பு ஷி கிராமத்தில் இரண்டு சிறுவர்கள் மண்சரிவில் புதையுண்டுள்ளனர். மீட்புப் பணியாளர்கள் அவர்களின் உடல்களைக் கண்டுபிடிக்கவில்லை.
+
+மாகாணத்தில் தொடர்ந்து பெய்து வரும் கடும் மழை காணாமல் போனவர்களைத் தேடும் பணியில் இடையூறை ஏற்படுத்தியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/835e8aaa.json)
+
+---
 
 ### ලොකු පැටී එළැඹෙන 04 වනදා දක්වා යළි රිමාන්ඩ්
 
@@ -84,7 +104,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මේ සම්බන්ධයෙන් කරුණු පැහැදිලි කළ මුදල් අමාත්‍යාංශ ලේකම්  ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සඳහන් කළේ,
 
-"මේ අභියෝගත් එක්කම අලුත් අවස්ථාත් ලැබී තිබෙනවා. ඒකෙන් පෙනෙන්නේ රටවල් දෙකටම.. අන්‍යොන්‍ය වශයෙන් අවශ්‍ය කරන ප්‍රතිලාභ මේ තුළින් ඉදිරියේදී අපිට උදාවෙන්නට නියමිතයි. මේක විශාල ජයග්‍රහණයක් විදියට තමයි රටක් ලෙස අපි දකින්නේ. මෙම සාකච්ඡා අපි ඉදිරියට කරගෙන යන්න බලාපොරොත්තු වෙනවා."
+"මේ අභියෝගත් එක්කම අලුත් අවස්ථාත් ලැබී තිබෙනවා. ඒකෙන් පෙනෙන්නේ රටවල් දෙකටම.. අන්‍යේන්‍ය වශයෙන් අවශ්‍ය කරන ප්‍රතිලාභ මේ තුළින් ඉදිරියේදී අපිට උදාවෙන්නට නියමිතයි. මේක විශාල ජයග්‍රහණයක් විදියට තමයි රටක් ලෙස අපි දකින්නේ. මෙම සාකච්ඡා අපි ඉදිරියට කරගෙන යන්න බලාපොරොත්තු වෙනවා."
 
 මේ අතර අමෙරිකාව මෙරටට පැනවූ තීරු බදු අනුපාතය 20% දක්වා අඩුකිරීම ගැන සතුට පළකරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් X පණිවුඩයක් තබා තිබුණි.
 
@@ -1771,23 +1791,5 @@ Accordingly, all fuel prices will remain unchanged for August, it said.
 ...
 
 [Data](articles/8f699220.json)
-
----
-
-### Sri Lanka-China defence ties reaffirmed at PLA 98th anniversary celebrations
-
-*2025-07-31 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111054/sri-lanka-china-defence-ties-reaffirmed-at-pla-98th-anniversary-celebrations) · `en`
-
-Deputy Minister of Defence, Major General (Retd) Aruna Jayasekara has highlighted the deep-rooted friendship between Sri Lanka and China, forged through centuries of cultural exchange and strengthened over 68 years of formal diplomatic relations.
-
-The Deputy Minister of Defence made these remarks while addressing the event held to mark the 98th Anniversary of the founding of the Chinese People’s Liberation Army (PLA).
-
-Addressing the event, the Deputy Minister commended the PLA’s 98 years of remarkable history, resilience, and evolution in overcoming the diverse challenges of modern warfare and security.
-
-He also recalled the landmark state visit of the President to China in January this year. The Deputy Minister stated that the visit reaffirmed the shared values of independence, self-reliance, solidarity, and mutual assistance as enshrined in the historic Rubber-Rice Pact, while paving the way to further deepen the Strategic Cooperative Partnership between the two nations.
-
-...
-
-[Data](articles/5af8fda5.json)
 
 ---

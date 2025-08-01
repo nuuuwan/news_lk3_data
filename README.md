@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-01 19:26:54**
+As of **2025-08-01 19:52:56**
 
 ## Newspaper Stats
 
-*Scraped **68,144** Articles*
+*Scraped **68,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 4,811
 adalk | 6,555
 adaderanalk | 8,428
-tamilmirrorlk | 9,884
-virakesarilk | 11,348
+tamilmirrorlk | 9,886
+virakesarilk | 11,353
 adaderanasinhalalk | 11,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,144 articles have been extended.
+61,973 (90.9%) of 68,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-01 (Friday)
+
+### பியூமி, தம்புகல குறித்து வெளியான விஷேட செய்தி
+
+*2025-08-01 19:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-தம்புகல-குறித்து-வெளியான-விஷேட-செய்தி/175-362169) · `ta`
+
+பிரபல மொடல் அழகியான பியூமி ஹன்சமாலிக்கு எதிராக 289 மில்லியன் ரூபாய்க்கும் அதிகமான வருமான வரி செலுத்தாததற்காக மேல் நீதிமன்றத்தில் வழக்குத் தொடரப்போவதாக உள்நாட்டு இறைவரித் திணைக்களம் கொழும்பு நீதவான் நீதிமன்றத்திற்கு அறிவித்துள்ளது.
+
+அவர் 2022 மற்றும் 2023 ஆம் ஆண்டுகளுக்கான வருமான வரி செலுத்துவதைத் தவிர்த்துள்ளதாகக் கூறப்படுகிறது.
+
+அத்துடன் விராஞ்சித் தம்புகல என்ற பிரபல தொழிலதிபரும் அந்த இரண்டு ஆண்டுகளுக்கு வருமான வரி செலுத்தத் தவறிவிட்டார் என்றும் அந்த திணைக்களம் நீதிமன்றத்தில் தெரிவித்துள்ளது.
+
+வரி குற்றங்கள் தொடர்பான விசாரணைகளின் முன்னேற்ற அறிக்கைகள் நேற்று (01) கொழும்பு மேலதிக நீதவான் பசன் அமரசேன முன்னிலையில் அழைக்கப்பட்டது.
+
+அரசாங்கத்திற்கு வரி ஏய்ப்பு செய்ததற்காக பியுமி ஹன்சமாலி மற்றும் அவுரா லங்கா தலைவர் விராஞ்சித் தம்புகல ஆகியோருக்கு எதிராக எதிர்காலத்தில் கொழும்பு மேல் நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்ய நடவடிக்கை எடுப்பதாக உள்நாட்டு இறைவரித் திணைக்களம் கொழும்பு நீதவான் நீதிமன்றத்திற்குத் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/ba55b1bf.json)
+
+---
+
+### புதிதாக 4 எலும்புக் கூட்டு தொகுதிகள் அடையாளம்
+
+*2025-08-01 19:19:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/புதிதாக-4-எலும்புக்-கூட்டு-தொகுதிகள்-அடையாளம்/71-362168) · `ta`
+
+யாழ்ப்பாணம் - செம்மணி பகுதியில் உள்ள 2 மனிதப் புதைகுழிகளில் மேற்கொள்ளப்படும் அகழ்வுப் பணிகளின் போது, இன்று புதிதாக 4 எலும்புக் கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+மேலும், ஏற்கனவே அடையாளம் காணப்பட்ட மனித எலும்புக் கூட்டுத் தொகுதிகளில் 7 முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+கடந்த 12 நாட்களாக முன்னெடுக்கப்பட்ட இரண்டாம் கட்ட அகழ்வுப் பணிகளில், மொத்தமாக 47 எலும்புக் கூட்டுத் தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+செம்மணி பகுதியில், "தடயவியல் அகழ்வாய்வுத் தளம் இல-01" மற்றும் "தடயவியல் அகழ்வாய்வுத் தளம் இல-02" என யாழ் நீதவான் நீதிமன்றத்தால் அடையாளப்படுத்தப்பட்ட புதைகுழிகளில் இந்தப் பணிகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+இரண்டாம் கட்டப் பணிகளுக்கு 45 நாட்கள் நீதிமன்ற அனுமதி வழங்கப்பட்டுள்ள நிலையில், இன்று 27ஆவது நாளாக அகழ்வு முன்னெடுக்கப்பட்டது.
+
+இன்றைய அகழ்வின்போது மீட்கப்பட்ட 7 எலும்புக் கூட்டுத் தொகுதிகளுடன் சேர்த்து, மொத்தமாக 112 எலும்புக் கூட்டுத் தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/16eb9225.json)
+
+---
 
 ### වසරේ මේ දක්වා කාලය තුළ විදේශ රැකියා පැමිණිලි 2620ක්
 
@@ -72,6 +114,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### செம்மணி மனிதப் புதைகுழி அகழ்வுப் பணிகள்: இரண்டாம் கட்டம் 27வது நாளாக தொடர்கிறது
+
+*2025-08-01 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221583) · `ta`
+
+செம்மணி - சித்துப்பாத்தி மனிதப் புதைகுழி அகழ்வுப் பணிகளானது இரண்டாவது கட்டத்தின் 27வது நாள் ஆகிய வெள்ளிக்கிழமை (01) நீதிவான் ஏ.ஈ.ஆனந்தராஜா முன்னிலையில் இடம்பெற்றது.
+
+வெள்ளிக்கிழமை (01) புதிதாக நான்கு மனித எலும்பு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. மொத்தமாக இதுவரை 122 மனித எலும்பு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+இன்றையதினம் 7 எலும்பு தொகுதிகள் முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. இந்நிலையில் இதுவரை மொத்தமாக 112 மனித எலும்பு தொகுதிகள் முழுமையாக அகழ்ந்த எடுக்கப்பட்டு நீதிமன்ற கட்டுக்காவலினுள் வைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/1a1e0274.json)
+
+---
+
 ### ජපානය, කොරියාව හා ඊශ්‍රායලය ඇතුළු රටවලින් ලංකාවට රැකියා අවස්ථා රැසක්
 
 *2025-08-01 19:01:46* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය--කොරියාව-හා-ඊශ්‍රායලය-ඇතුළු-රටවලින්-ලංකාවට-රැකියා-අවස්ථා-රැසක්/11-417660) · `si`
@@ -85,6 +143,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/26eee815.json)
+
+---
+
+### ரி20 உலகக் கிண்ணத்துக்கு வீர்களைத் தெரிவுசெய்யும் SLC ரி20 லீக்
+
+*2025-08-01 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221581) · `ta`
+
+இந்தியாவிலும் இலங்கையிலும் அடுத்த வருடம் கூட்டாக நடத்தப்படவுள்ள ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியை முன்னிட்டு இலங்கை அணிக்கு அதிசிறந்த வீரர்களைத் தெரிவு செய்யும் முகமாக ஸ்ரீலங்கா கிரிக்கெட் ரி20 லீக் தொடர் ஒன்றை ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் நடத்த உள்ளது.
+
+இம் மாதம் 7ஆம் திகதியிலிருந்து ஆகஸ்ட் 16 வரை நடைபெறவுள்ள இப் போட்டியில் பச்சை, நீலம், சாம்பல் ஆகிய மூன்று அணிகள் பங்குபற்றும்.
+
+இந்த மூன்று அணிகளிலும் இலங்கையின் தேசிய மற்றும் ஏ அணி வீரர்கள் இடம்பெறுவர். ஒவ்வொரு அணியும் ஒன்றையொன்று 4 தடவைகள் எதிர்த்தாடும். இதற்கு அமைய மொத்தமாக 12 போட்டிகள் நடைபெறும்.
+
+12 போட்டிகள் நிறைவில் முதல் இரண்டு இடங்களைப் பெறும் அணிகள் ஆகஸ்ட் 16ஆம் திகதி நடைபெறும் இறுதிப் போட்டியில் விளையாடும்.
+
+◼️
+
+[Data](articles/21d4e57f.json)
+
+---
+
+### சபாநாயகரின் உத்தியோகபூர்வ இல்லம் பாராளுமன்றக் கற்கை மற்றும் ஆய்வு மையமாக மாற்றப்படும்
+
+*2025-08-01 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221580) · `ta`
+
+சபாநாயகரின் உத்தியோகபூர்வ இல்லத்தை "பாராளுமன்றக் கற்கைகள் மற்றும் ஆய்வு மையமாக” மாற்றுவது தொடர்பான முன்மொழிவுக்கு பாராளுமன்ற பணியாட்தொகுதி ஆலோசனைக் குழுவில் கொள்கை ரீதியாக இணக்கம் தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்கு அமைய ஆறு மாத ஆரம்ப காலத்திற்குள் குறித்த மையத்திற்கான அடிப்படைக் கட்டமைப்பைத் தயாரிப்பதற்கும், அதற்குத் தேவையான இணைப்புப் பணிகளை முன்னெடுப்பதற்கும், ஆலோசனை வழங்கவும் ஏனைய பணிகளை வழிநடத்துவதற்கும் ஓய்வுபெற்ற சிரேஷ்ட அரசாங்க அதிகாரி ஒருவரை திட்ட முகாமையாளராக நியமிப்பதற்கும் குழுவில் அனுமதி வழங்கப்பட்டது.
+
+சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்ன அவர்களின் தலைமையில் 24.07.2025ஆம் திகதி நடைபெற்ற பாராளுமன்ற பணியாட்தொகுதி ஆலோசனைக் குழுக் கூட்டத்திலேயே இந்த முன்மொழிவு குறித்து ஆராயப்பட்டது.
+
+அரசாங்கத்தின் அனைத்துத் துறைகளிலும் சட்டமன்ற மற்றும் நிர்வாகத் திறன்களை வலுப்படுத்துவதை முதன்மையான குறிக்கோளாகக் கொண்டு, சிறந்த ஆய்வு வசதிகள், சிறப்புப் பயிற்சிகள் மற்றும் கொள்கைப் பகுப்பாய்வுகளை இந்த மையத்தின் ஊடாகப் பெற்றுக்கொடுக்க எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/8f89b81f.json)
+
+---
+
+### நுவரெலியா - பதுளை வீதியில் வெள்ளத்தால்  போக்குவரத்து தடைப்பட்டது
+
+*2025-08-01 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/221579) · `ta`
+
+சீரற்ற வானிலையால் நுவரெலியாவில் வெள்ளிக்கிழமை (01) பிற்பகல் பெய்த இடியுடன் கூடிய பலத்த மழை காரணமாக போக்குவரத்துக்கு இடையூறு ஏற்பட்டது.
+
+இதன் படி நுவரெலியா - பதுளை பிரதான வீதியில் சிபெட்கோ எரிபொருள் நிலையத்திற்கு முன்பாக வீதிகளை ஊடறுத்து வெள்ள நீர் பாய்ந்ததால்  அவ்வீதியைப் பயன்படுத்துவோர் பலத்த சிரமத்தை எதிர்கொண்டு வருகின்றனர்.
+
+மேலும் வீதி வெள்ளத்தில் மூழ்கியதால் குறித்த வீதியில் போக்குவரத்து பாதிக்கப்பட்டு வாகனங்கள் சிறிது நேரம் நீண்ட வரிசையில் தரித்து நின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9ccf5b7d.json)
 
 ---
 
@@ -155,6 +265,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ddb0f4af.json)
+
+---
+
+### தீர்வை வரி நாட்டின் வெற்றி ஹர்ஷ டி சில்வா தெரிவிப்பு : இந்தியாவுடனான பொருளாதார உறவுகளை வலுப்படுத்தவும் வலியுறுத்து
+
+*2025-08-01 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221573) · `ta`
+
+இலங்கைக்கான பரஸ்பர தீர்வை  வரியை அமெரிக்க ஜனாதிபதி 20 சதவீதமாக குறைத்துள்ளதையிட்டு மகிழ்ச்சியடைகிறோம். 20 சதவீத தீர்வை வரி என்பது அரசியல் வெற்றியல்ல, நாட்டின் வெற்றி, நாடு என்ற அடிப்படையில் முன்னோக்கிச் செல்வதற்கான ஒரு வழியாகும் என ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+இந்தியாவுடன் இலங்கை வர்த்தக தொடர்பினை வலுப்படுத்திக் கொள்ள வேண்டும். இரு நாடுகளுக்கும் இடையிலான பொருளாதார கொடுக்கல் வாங்கல்களை வலுப்படுத்திக் கொண்டு, பொருளாதார பரிமாற்றத்தின் உச்சபயனை இருதரப்பும் பெற்றுக்கொள்ள வேண்டும்.இந்தியாவுடனான பொருளாதார தொடர்பு குறித்து அரசாங்கம் விசேட கவனம் செலுத்த வேண்டும் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/ee10e615.json)
 
 ---
 
@@ -1739,125 +1863,5 @@ X-Press Pearl, the pearl of contention (https://www.ft.lk/columns/Our-X-Press-Pe
 ...
 
 [Data](articles/8e798e05.json)
-
----
-
-### COYLE and JETRO sign landmark MoU to champion health and productivity
-
-*2025-08-01 04:40:15* · [`dailyftlk`](https://www.ft.lk/business/COYLE-and-JETRO-sign-landmark-MoU-to-champion-health-and-productivity/34-779743) · `en`
-
-From left: COYLE CEO Indunil Ukwatte, Past Chairmen Aminda Rodrigo and Dinuk Hettiarachchi, Chairman Manjula Wijesundera, JETRO Colombo Resident Representative Hiroki Oi, SLCHPA Organising Committee Chairman Mihiru Perera, JETRO Colombo Senior Research Executive Lakna Ayeshmanthi and COYLE Senior Vice Chairman Suren Chandraratna
-
-The Chamber of Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) has signed a Memorandum of Understanding (MoU), a significant step toward strengthening international collaboration and fostering workplace well-being.
-
-The partnership is aimed at fostering mutual development and promoting a culture of “Health and Productivity Management” across Sri Lanka’s corporate sector.
-
-The signing ceremony on 4 July marked the beginning of a strategic cooperation between two forward-thinking organisations committed to shaping a healthier, more resilient workforce and business ecosystem.
-
-...
-
-[Data](articles/e6a373ef.json)
-
----
-
-### Sarrah Sammoon becomes first Lankan to receive prestigious Certification in Investment Migration
-
-*2025-08-01 04:34:22* · [`dailyftlk`](https://www.ft.lk/business/Sarrah-Sammoon-becomes-first-Lankan-to-receive-prestigious-Certification-in-Investment-Migration/34-779742) · `en`
-
-Sarrah Sammoon, widely recognised as a pioneer of the global mobility industry in Sri Lanka, has once again made history by becoming the first Sri Lankan to receive the Certification in Investment Migration from the Investment Migration Council (IMC) of Switzerland, the global governing body for the investment migration profession.
-
-With over 30 years of leadership in the field, Sarrah Sammoon is a regulated global mobility specialist and the Founder and CEO of Magellan Champlain. Her firm serves multinational corporations, high-net-worth individuals, and globally mobile families across over 25 destinations. Her latest accomplishment underscores her commitment to professional excellence and responsible advisory practices in a rapidly evolving industry.
-
-...
-
-[Data](articles/b329fe02.json)
-
----
-
-### Govt. holds high-level talks on implementing National Anti-Corruption Action Plan 2025-2029
-
-*2025-08-01 04:32:06* · [`dailyftlk`](https://www.ft.lk/news/Govt-holds-high-level-talks-on-implementing-National-Anti-Corruption-Action-Plan-2025-2029/56-779741) · `en`
-
-CIABOC Director General Ranga Dissanayake (left) and Secretary to the President Dr. Nandika Sanath Kumanayake
-
-A high-level meeting to review the implementation of Sri Lanka’s National Anti-Corruption Action Plan 2025-2029 was held on Wednesday (30 July) at the Presidential Secretariat.
-
-The discussion brought together the Heads of the National Steering Committee and key representatives from both State and private sector institutions involved in executing the strategy. The session was chaired by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-The National Anti-Corruption Action Plan, launched on 9 April 2025 under the theme “Towards a Country of Integrity,” is an initiative based on the vision of President Anura Kumara Disanayake. It is scheduled to be implemented over a five-year period from 2025 onwards.
-
-...
-
-[Data](articles/151b2063.json)
-
----
-
-### Online facility for land maps available from today: Survey Department
-
-*2025-08-01 04:30:08* · [`dailyftlk`](https://www.ft.lk/news/Online-facility-for-land-maps-available-from-today-Survey-Department/56-779740) · `en`
-
-The Survey Department yesterday announced that land maps will be available online from today (1), marking a major step towards digital public services.
-
-Surveyor General Y.G. Gnanathilaka made this announcement during a media briefing yesterday, held coinciding with the Department’s 225th anniversary celebrations which falls today, and the Department also plans to issue a commemorative stamp to mark the occasion.
-
-“Till Thursday (31 July), the public could obtain survey maps only through Departmental offices. With the new system, individuals can now purchase maps via online payment through the Department’s website,” he said.
-
-Gnanathilaka also said that the land information database of the Survey Department is linked with the Land Registry Department, enabling the public to access land-related data.
-
-According to the Surveyor General, all maps and plans have now been digitised, and nearly 2.4 million land plots have been archived in the Department’s data repository.
-
-...
-
-[Data](articles/8f98e96f.json)
-
----
-
-### Chief Justice pledges to fast-track Court digitalisation
-
-*2025-08-01 04:29:02* · [`dailyftlk`](https://www.ft.lk/news/Chief-Justice-pledges-to-fast-track-Court-digitalisation/56-779739) · `en`
-
-Says several discussions already held with BASL President regarding proposed digitalisation initiative
-
-Newly appointed Chief Justice Preethi Padman Surasena yesterday assured that he intends to fast-track the digitalisation of the Court system across the country, noting that the time has come to adopt technologically advanced methods in the administration of justice.
-
-Chief Justice Surasena made these remarks while addressing the ceremonial sitting held at the Supreme Court to formally welcome him as the 49th Chief Justice of Sri Lanka. The Chief Justice further noted that he has already held several discussions with the President of the Bar Association of Sri Lanka (BASL) regarding the proposed digitalisation initiative.
-
-...
-
-[Data](articles/1371d390.json)
-
----
-
-### Story of Wa’el Zuaiter comes alive in Colombo today
-
-*2025-08-01 04:26:01* · [`dailyftlk`](https://www.ft.lk/news/Story-of-Wa-el-Zuaiter-comes-alive-in-Colombo-today/56-779738) · `en`
-
-A compelling one-person theatrical performance, ‘For a Palestinian,’ is set to grace the stage of the Namel Malini Punchi Theatre in Colombo today (1) at 7:30 p.m.
-
-This timely production offers a moving exploration of the life and legacy of Wa’el Zuaiter, a Palestinian intellectual and activist whose story remains largely obscured in mainstream historical narratives.
-
-Set in Rome during the 1960s, Zuaiter’s life becomes a lens through which the audience is invited to examine themes of identity, exile, heritage, and the enduring human need for connection and justice. His narrative, one of quiet resistance, cultural preservation, and personal longing, is rendered with powerful intimacy by performer Murthaaz Abdul Barry.
-
-...
-
-[Data](articles/7bc6c3f4.json)
-
----
-
-### President pledges reforms, economic revival in address to Sri Lankans in Maldives
-
-*2025-08-01 04:23:45* · [`dailyftlk`](https://www.ft.lk/news/President-pledges-reforms-economic-revival-in-address-to-Sri-Lankans-in-Maldives/56-779737) · `en`
-
-President Anura Kumara Disanayake on Tuesday (29 July) reaffirmed his administration’s commitment to building a prosperous and law-abiding Sri Lanka, during a meeting with the expatriate Sri Lankan community at the Maldives National University.
-
-Speaking at the Maldives National University Auditorium, the President outlined the Government’s key priorities—restoring rule of law, revitalising the economy, eradicating corruption, and establishing a new political culture.
-
-Organised by the Sri Lanka High Commission in the Maldives, the event drew a large audience of Sri Lankan professionals, students, and workers. It marked the President’s first official engagement with Sri Lankans overseas since assuming office.
-
-Disanayake stated that the overwhelming mandate his Government received in the last elections reflected the people’s call for a political transformation. “We were chosen to replace a corrupt, privileged system with one that is accountable, transparent, and people-centred,” he said.
-
-...
-
-[Data](articles/83ff63c8.json)
 
 ---

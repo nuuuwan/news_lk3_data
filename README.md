@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 16:47:44**
+As of **2025-08-02 17:05:58**
 
 ## Newspaper Stats
 
-*Scraped **68,256** Articles*
+*Scraped **68,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,561
 adaderanalk | 8,443
 tamilmirrorlk | 9,899
 virakesarilk | 11,366
-adaderanasinhalalk | 11,754
+adaderanasinhalalk | 11,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,256 articles have been extended.
+61,973 (90.8%) of 68,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### තමන්ම හැදූ හෙලිකොප්ටරය කඩා වැටී පුද්ගලයෙකු මරුට
+
+*2025-08-02 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212945) · `si`
+
+රුසියාවේ 88 හැවිරිදි පුද්ගලයෙක් ඔහු විසින්ම තැනූ හෙලිකොප්ටරයකින් ගුවන් ගත වීමට උත්සාහ කිරීමේදී එය කඩා වැටීම හේතුවෙන් මිය ගොස් තිබේ.
+
+අදාළ පුද්ගලයා තමා විසින් සකසන ලද මෙම හෙලිකොප්ටර් යන්ත්‍රයක් පරීක්ෂා කිරීම සඳහා ගුවන්ගත වීමට උත්සහා කිරීමේ දී එය කඩා වැටී තිබේ.
+
+එහිදී ඔහු බරපතල තුවාල ලබා ඇති අතර රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+කෙසේ වෙතත් මෙම ගුවන් යානය ලියාපදිංචි කර නොමැති අතර සිද්ධිය පිළිබඳව පරීක්ෂණයක් දැනටමත් සිදුවෙමින් පවතින බවද සඳහන් වේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ ව්ලැඩිමීර් ට්‍රැපෙස්නිකොව් නම් පුද්ගලයෙක් වන අතර ඔහු ළමා වියේදී ගුවන් නියමුවෙකු වීමට සිහින මැවූ නව නිපැයුම්කරුවෙකි.
+
+1985දී ඔහුට, ඔහු විසින්ම සෑදූ ගුවන් යානයකින් සාර්ථක ගුවන් ගමනක් සිදු කිරීමට හැකියාව ලැබී ඇති අතර ඒ පිළිබඳව කෙටි චිත්‍රපටයක් ද නිර්මාණය වී ඇත.
+
+ඔහු පියාසර යන්ත්‍ර පහක් නිර්මාණය කර ඇති අතර අවාසනාවකට මෙන්, ඔහුගේ නව නිපැයුම දියත් කිරීමට උත්සාහ කිරීමේදී මෙසේ මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
+
+◼️
+
+[Data](articles/738fc949.json)
+
+---
 
 ### පොතුපිටියේදී ධීවරයින් තිදෙනෙකු සමඟ යාත්‍රාවක් අනතුරක
 
@@ -1813,23 +1837,5 @@ JAAF said it appreciated the efforts of President Anura Kumara Dissanayake and n
 ...
 
 [Data](articles/fcef152b.json)
-
----
-
-### Ceylon Chamber commends Sri Lanka negotiators after tariff reduction
-
-*2025-08-01 18:55:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-commends-sri-lanka-negotiators-after-tariff-reduction-234207/) · `en`
-
-ECONOMYNEXT – Ceylon Chamber of Commerce has commended the Sri Lanka negotiating team for reducing a Trump tariff to 20 percent.
-
-“While this is clear progress reflecting the value of sustained engagement and strategic diplomacy, it is now important to use this window of opportunity to work towards a long-term arrangement that ensures more stable and competitive market access for our exporters”, Krishan Balendra, Chairman said in a statement
-
-“We appreciate the efforts of the officials involved for their proactive and strategic efforts, particularly in engaging with the U.S. Government and the Office of the United States Trade Representative (USTR) to secure this positive result.”
-
-The Ceylon Chamber of Commerce commends the Government of Sri Lanka and the national negotiation team on the successful outcome of recent discussions with the United States, which led to a further reduction in the reciprocal tariff rate – from 30% to 20% – on Sri Lankan exports.
-
-...
-
-[Data](articles/04a1067e.json)
 
 ---

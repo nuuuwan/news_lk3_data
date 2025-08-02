@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 18:56:30**
+As of **2025-08-02 19:13:07**
 
 ## Newspaper Stats
 
-*Scraped **68,266** Articles*
+*Scraped **68,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,561
 adaderanalk | 8,446
 tamilmirrorlk | 9,899
 virakesarilk | 11,370
-adaderanasinhalalk | 11,757
+adaderanasinhalalk | 11,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,266 articles have been extended.
+61,973 (90.8%) of 68,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ පහසුකම එළැඹෙන වසරේ සිට
+
+*2025-08-02 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212948) · `si`
+
+ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව විසින්  (TRCSL) දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ ( Number Portability -NP) සේවාව ලබන වසරේ සිට ක්‍රියාත්මක කරන බව එම කොමිෂන් සභාව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ  සේවාව ක්‍රියාත්මක කිරීම පිණිස පියවර කිහිපයක් ගෙන ඇති බවය.
+
+ඒ අනුව පළමුව කොමිෂන් සභාව විසින් දුරකථන ක්‍රියාකරු සමාගම්  සමඟ සාකච්ඡා පවත්වා දුරකථන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ සේවාව ක්‍රියාත්මක කිරීම සඳහා සැලැස්මක් සකස් කර තිබේ.
+
+2021  වසරේ දී මහජන උපදේශන පත්‍රිකාවක් ප්‍රකාශයට පත් කරන ලද අතර, අදාළ සියලුම පාර්ශ්වකරුවන්ගේ අදහස් මේ සඳහා ලබා ගෙන ඇත.
+
+පසුව විදුලි සංදේශ ක්‍රියාකරුවන් සමඟ සාකච්ඡා කර සුදුසු තාක්ෂණික ආකෘතිය තීරණය කරන ලද අතර  දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ  සේවාව ක්‍රියාත්මක කිරීම සහ පරිපාලනය කිරීම පිණිස සියලුම ස්ථාවර සහ ජංගම දුරකථන ක්‍රියාකරුවන්ගේ සහභාගීත්වයෙන් ලංකා  නම්බර් පෝර්ටබිලිටි සර්විසස් (ගැරන්ටි‍) ලිමිටඩ් නමින් සමාගමක් ස්ථාපනය කර තිබේ.
+
+...
+
+[Data](articles/aceb3910.json)
+
+---
 
 ### මූල්‍ය අර්බුදයක් නොමැති බවට ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් නිවේදනයක්
 
@@ -1813,21 +1833,5 @@ Competing in the Extra-Large category for enterprises with annual revenue exceed
 ◼️
 
 [Data](articles/a57f142e.json)
-
----
-
-### Tuition classes for scholarship exam banned from Aug 6 midnight
-
-*2025-08-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111079/tuition-classes-for-scholarship-exam-banned-from-aug-6-midnight) · `en`
-
-The Commissioner General of Examinations announced that the conducting of tuition classes, seminars, workshops, etc. related to the Grade 5 Scholarship Examination is prohibited from midnight on August 06 (Wednesday) until the end of the exam.
-
-Issuing a statement, the Examinations Department said that organising and conducting tuition classes, specialized lectures, seminars, workshops for Grade 5 Scholarship examination candidates, printing and distributing question papers containing guess questions for the said examination, publishing posters, banners, handouts, promoting such events for candidates through electronic or printed media or social media, or possessing such items, is strictly prohibited.
-
-This year’s scholarship examination is scheduled to be held at 2,787 examination centres across the island on August 10, 2025.
-
-◼️
-
-[Data](articles/3006bb28.json)
 
 ---

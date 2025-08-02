@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 22:47:28**
+As of **2025-08-02 23:05:55**
 
 ## Newspaper Stats
 
-*Scraped **68,285** Articles*
+*Scraped **68,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
-adaderanalk | 8,451
+adaderanalk | 8,452
 tamilmirrorlk | 9,901
 virakesarilk | 11,376
 adaderanasinhalalk | 11,762
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,285 articles have been extended.
+61,973 (90.8%) of 68,286 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0c6695af.json)
+
+---
+
+### Hamas says it won’t disarm unless independent Palestinian state established
+
+*2025-08-02 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111104/hamas-says-it-wont-disarm-unless-independent-palestinian-state-established) · `en`
+
+Hamas said on Saturday that it would not disarm unless an independent Palestinian state is established - a fresh rebuke to a key Israeli demand to end the war in Gaza.
+
+Indirect negotiations between Hamas and Israel aimed at securing a 60-day ceasefire in the Gaza war and deal for the release of hostages ended last week in deadlock.
+
+On Tuesday, Qatar and Egypt, who are mediating ceasefire efforts, endorsed a declaration by France and Saudi Arabia outlining steps toward a two-state solution to the Israeli-Palestinian conflict and saying that as part of this Hamas must hand over its arms to the Western-backed Palestinian Authority.
+
+In its statement, Hamas - which has dominated Gaza since 2007 but has been militarily battered by Israel in the war - said it could not yield its right to “armed resistance” unless an “independent, fully sovereign Palestinian state with Jerusalem as its capital” is established.
+
+...
+
+[Data](articles/63106757.json)
 
 ---
 
@@ -1831,21 +1849,5 @@ The sacred tooth relic of the Buddha which is believed to have been brought to S
 ...
 
 [Data](articles/a52b7e40.json)
-
----
-
-### Sri Lanka’s exporters and apparel sector welcome revised US tariffs
-
-*2025-08-01 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111081/sri-lankas-exporters-and-apparel-sector-welcome-revised-us-tariffs) · `en`
-
-The Exporters’ Association of Sri Lanka and the Joint Apparel Association Forum (JAAF) today welcomed and commended the significant progress achieved in the trade negotiations between Sri Lanka and the United States, which have led to a reduction in tariffs on Sri Lankan exports to the U.S. market—now lowered to 20%.
-
-“We express our sincere appreciation to the Government of Sri Lanka and, in particular, the dedicated efforts of the negotiation team led by Dr. Harshana Suriyapperuma,” the Exporters’ Association said in a statement.
-
-It said this achievement reflects the strategic foresight, persistence, and professionalism of the team in navigating a complex international trade environment to secure more favorable terms for Sri Lankan exporters.
-
-...
-
-[Data](articles/6702e5b4.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 20:48:04**
+As of **2025-08-02 21:06:18**
 
 ## Newspaper Stats
 
-*Scraped **68,277** Articles*
+*Scraped **68,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 6,562
 adaderanalk | 8,448
 tamilmirrorlk | 9,899
 virakesarilk | 11,375
-adaderanasinhalalk | 11,760
+adaderanasinhalalk | 11,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,277 articles have been extended.
+61,973 (90.8%) of 68,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### අරුගම්බේ සංචාරක කර්මාන්තයට ඊශ්‍රායල් ජාතිකයින්ගෙන් දැඩි බලපෑම්
+
+*2025-08-02 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212951) · `si`
+
+සංචාරක වීසා මත පැමිණි ඊශ්‍රායල් ජාතිකයින් අරුගම්බේ ප්‍රදේශයේ සංචාරක කර්මාන්තයට දැඩි බලපෑම් එල්ලකරන බව එම ප්‍රදේශයේ සංචාරක කර්මාන්තයේ නිරත ව්‍යාපාරිකයින් පවසයි.
+
+සංචාරක සංවර්ධන අධිකාරියේ සභාපති බුද්ධික හේවාවසම් මහතා පවසන්නේ, සංචාරක වීසා මත පැමිණ මෙරට ව්‍යාපාර කළ විදේශිකයින් රැසකට එරෙහිව මේ වන විටත් නීතිමය පියවර ගෙන ඇති බවය.
+
+මෙම ප්‍රදේශයේ සංචාරක කර්මාන්තයට ඊශ්‍රායල් ජාතිකයින්ගෙන් සිදුවන බලපෑම පිළිබඳව අන්තර්ජාතික ඩී.ජේ ශිල්පියෙකු ද සමාජ මාධ්‍ය ඔස්සේ අදහස් පළකර තිබුණි.
+
+මේ චෝදනාව එල්ල වන්නේ මෙරට සංචාරයකට පැමිණි අන්තර්ජාතික DJ ශිල්පියෙක් වූ ටොම් මොනගල්ගෙන්.
+
+ඔහු සඳහන් කරන්නේ, ආරුගම්බේ ප්‍රදේශයේ සංචාරය කළ තමාට ඊශ්‍රායයේ ටෙල්අවිව් අගනුවරට පැමිණියා හා සමාන අත්දැකීමක් ලැබූ බවය.
+
+ආරුගම්බේ ප්‍රදේශය පුරා ඊශ්‍රායල් ජාතිකයින් සිය අණසක පතුරවා ඇති බවට තමාට සිතෙන බව ඔහු මෙහිදී සඳහන් කර තිබේ.
+
+ඊට ප්‍රධානම හේතුව වන්නේ, සර්ෆින් ක්‍රීඩාව සඳහා ආරුගම්බේ මුහුදු ප්‍රදේශය වඩාත් යෝග්‍ය වීමයි.
+
+මේ පිළිබඳ අද දෙරණ කළ සොයාබැලීමකදී අනාවරණ වූයේ, සංචාරක වීසා මත පැමිණෙන ඊශ්‍රායල් ජාතිකයන් ව්‍යාපාරවල යෙදෙන බවය.
+
+◼️
+
+[Data](articles/ac0e61be.json)
+
+---
 
 ### ගල්කිස්ස ඝාතනයේ සැකකරුවන් ප්‍රදේශයෙන් පළායයි
 
@@ -1821,25 +1847,5 @@ The first paragraph of a news report in the prestigious British newspaper ‘Gua
 ◼️
 
 [Data](articles/e36a7081.json)
-
----
-
-### Hatton National Bank and Nucleus Software collaborate to enhance transaction banking experience with FinnAxia®
-
-*2025-08-01 20:35:00* · [`islandlk`](http://island.lk/hatton-national-bank-and-nucleus-software-collaborate-to-enhance-transaction-banking-experience-with-finnaxia/) · `en`
-
-HNB PLC, one of Sri Lanka’s leading and most forward-looking financial institutions, has implemented FinnAxia®, the advanced Transaction Banking Suite from Nucleus Software, as part of a strategic initiative to strengthen its leadership in digital banking and meet the growing needs of its corporate and SME clients across Sri Lanka and around the globe.
-
-In a highly competitive market where customer expectations are evolving rapidly, HNB recognized the need for a robust, scalable and integrated platform to deliver world-class, transaction banking services. The rollout of FinnAxia® marks a decisive move to future-proof HNB’s cash management business, deepen client relationships, and enhance revenue streams.
-
-Expand its transaction banking offerings through a seamlessly integrated global-standard suite.
-
-Gain competitive edge without prolonged implementation cycles for corporate clients.
-
-Attract and retain high-value clients by delivering personalized digital solutions.
-
-...
-
-[Data](articles/c669d249.json)
 
 ---

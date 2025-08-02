@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 08:10:52**
+As of **2025-08-02 08:50:55**
 
 ## Newspaper Stats
 
-*Scraped **68,208** Articles*
+*Scraped **68,214** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 593
+dbsjeyarajcom | 594
 bbccomsinhala | 677
 colombotelegraphcom | 699
 islandlk | 4,167
 economynextcom | 4,176
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,557
-adaderanalk | 8,433
-tamilmirrorlk | 9,891
+adalk | 6,558
+adaderanalk | 8,435
+tamilmirrorlk | 9,893
 virakesarilk | 11,363
 adaderanasinhalalk | 11,735
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 11,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,208 articles have been extended.
+61,973 (90.9%) of 68,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### பல பகுதிகளில் இன்று மழை
+
+*2025-08-02 07:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இன்று-மழை/175-362177) · `ta`
+
+நாட்டின் வடக்கு, வடமத்திய, ஊவா, கிழக்கு, மத்திய மற்றும் சப்ரகமுவ மாகாணங்களிலும், குருநாகல் மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் இன்று பிற்பகல் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இந்தப் பகுதிகளில்  சுமார் 75 மில்லி மீற்றர் வரையிலான பலத்த மழை பெய்யக்கூடும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+மேல் மாகாணம் மற்றும் காலி, மாத்தறை மற்றும் புத்தளம் மாவட்டங்களிலும் பலத்த மழை பெய்யும் என்றும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/48a90e6e.json)
+
+---
+
+### செம்மணி செல்லும் மனித உரிமை ஆணைக்குழு
+
+*2025-08-02 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-செல்லும்-மனித-உரிமை-ஆணைக்குழு/175-362176) · `ta`
+
+இலங்கை மனித உரிமைகள் ஆணைக்குழு நாளை மறுதினம் (04) யாழ். செம்மணி - சித்துப்பாத்தி மனிதப் புதைகுழிப் பிரதேசத்தைப் பார்வையிடுவதற்குப் தீர்மானித்துள்ளது.
+
+இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் மூன்று ஆணையாளர்கள் மற்றும் இரண்டு பணிப்பாளர்களுடன் யாழ்ப்பாணம் பிராந்திய அலுவலர்கள் அடங்கிய குழுவினர் குறித்த பிரதேசத்துக்கு விஜயம் மேற்கொள்ளவுள்ளனர் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+குறித்த குழுவினர் செம்மணி மனிதப் புதைகுழி அகழ்வு நடவடிக்கைகளில் ஈடுபட்டுள்ள தரப்பினருடனும் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளனர் எனவும் தெரிவிக்கப்பட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/cbe023c8.json)
+
+---
+
+### Trump orders nuclear submarines moved after Russian ‘provocative statements’
+
+*2025-08-02 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111083/trump-orders-nuclear-submarines-moved-after-russian-provocative-statements) · `en`
+
+U.S. President Donald Trump on Friday said he had ordered two nuclear submarines to be positioned in “the appropriate regions” in response to remarks from former Russian President Dmitry Medvedev about the risk of war between the nuclear-armed adversaries.
+
+Security analysts called Trump’s move a rhetorical escalation with Moscow, but not necessarily a military one, given that the United States already has nuclear-powered submarines that are deployed and capable of striking Russia.
+
+Medvedev on Thursday said Trump should remember that Moscow possessed Soviet-era nuclear strike capabilities of last resort, after Trump had told Medvedev to “watch his words.”
+
+“Based on the highly provocative statements of the Former President of Russia, Dmitry Medvedev ... I have ordered two Nuclear Submarines to be positioned in the appropriate regions, just in case these foolish and inflammatory statements are more than just that,” Trump said in Friday’s social media post.
+
+...
+
+[Data](articles/9b228936.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island
+
+*2025-08-02 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111082/fairly-heavy-rainfall-expected-in-parts-of-the-island-) · `en`
+
+The Meteorology Department states that showers or thundershowers will occur at several places in the Northern, North-Central, Uva, Eastern, Central, and Sabaragamuwa provinces, and in the Kurunegala and Hambantota districts after 1:00 p.m.
+
+Fairly heavy falls above 75 mm are likely at some places in these areas, the statement said.
+
+Several spells of showers will occur in the Western Province and in the Galle, Matara, and Puttalam districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b66d9dcb.json)
+
+---
 
 ### වෙරළ ආශ්‍රිත අනවසර ඉදිකිරීම් සඳහා වාර්ෂිකව අධික දඩ මුදලක් පැනවීමට සැරසෙයි
 
@@ -419,6 +487,20 @@ The sacred tooth relic of the Buddha which is believed to have been brought to S
 ◼️
 
 [Data](articles/46dc725b.json)
+
+---
+
+### PHI රාජකාරී වේලාව සංශෝධනයට විශේෂ කමිටුවක්
+
+*2025-08-01 22:07:54* · [`adalk`](https://www.ada.lk/breaking_news/PHI-රාජකාරී-වේලාව-සංශෝධනයට-විශේෂ-කමිටුවක්/11-417662) · `si`
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරික්ෂකවරුන්ගේ සංගමය, සමස්ත ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය සහ ශ්‍රී ලංකා  ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමය යන සංගම් වල නියෝජිතයින් සමඟ සාකච්ඡාවක් අද (01) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී පවත්වනු ලැබීය.
+
+මෙහි දී වෘත්තීය සමිති නියෝජිතයින් ඉදිරිපත් කළ වෘත්තීය ගැටළු අතර, ප්‍රධාන මහජන සෞඛ්‍ය පරීක්ෂක තනතුර පිරවීම, යතුරු පැදි ලබා ගැනීම, පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක පුහුණුව කඩිනම් කිරීම, පුහුණුව සඳහා අලුතින් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් බඳවා ගැනීම, සේවාස්ථ පුහුණු පාඨමාලාවන් ආරම්භ කිරීම, රාජකාරී වේලාව සංශෝධනය කිරීම, ඩිජිටල් සෞඛ්‍ය පද්ධතියක් සකස් කිරීම, මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සියලු ශ්‍රේණි සඳහා වෙන වෙනම රාජකාරී ලැයිස්තු සකස් කිරීම, මහජන සෞඛ්‍ය උපාධි පාඨමාලාවන් කඩිනම් කිරීම, ආහාර සාම්පල පරීක්ෂණ රසායනාගාර පළාත් මට්ටමින් ස්ථාපිත කිරීම, ප්‍රාථමික වෛද්‍ය ප්‍රතිකාර ඒකක වලින් සිදුවන සේවාව ශක්තිමත් කිරීම සඳහා දායකත්වය ලබා දීම වැනි කරුණු පිළිබඳව දීර්ඝ ලෙස අවධානය යොමු කරමින් මෙහි දී සාකච්ජා කරන ලදී.
+
+...
+
+[Data](articles/a52b7e40.json)
 
 ---
 
@@ -1063,6 +1145,22 @@ Referring to the modification of the U.S. tariff rates earlier today, the parlia
 ...
 
 [Data](articles/735b8a23.json)
+
+---
+
+### Instead of  44% , Sri Lanka today faces a US 20% tariff! President Disanayake has proved that he  can actually get into the ring and win!
+
+*2025-08-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86217) · `en`
+
+Donald Trump’s tariffs shook the world. Financial markets around the world plunged. The US stock market registered its largest two-day loss in history. Businesses and politicians were in panic.
+
+Sri Lanka was one of the worst affected. The Trump tariffs would have increased the cost of Sri Lankan exports to the US by 44% overnight. Equally catastrophically, the tariffs imposed on other countries were lower. Our exports would have faced the sixth highest tariff in the world. India was at 27%, Bangladesh 37% and Pakistan 30%. Sri Lanka’s hard earned recovery was about to be reversed. Tens of thousands of jobs were in jeopardy.
+
+Sri Lanka’s cards were weak, very weak. We export far more to the US than we import. We have some of the highest effective tariff rates in the world. Unlike China we do not have rare earths. Unlike the EU we do not have a large market to threaten retaliation.
+
+...
+
+[Data](articles/b9c20a9e.json)
 
 ---
 
@@ -1731,121 +1829,5 @@ Senior Counsel Dinesh Perera, appearing on behalf of the Commissioner General of
 ◼️
 
 [Data](articles/4c36c749.json)
-
----
-
-### Flooding leaves 14 dead, missing in Vietnam’s Dien Bien
-
-*2025-08-01 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111068/flooding-leaves-14-dead-missing-in-vietnams-dien-bien) · `en`
-
-Flooding triggered by heavy rain has left at least 14 people dead or missing in Vietnam’s northern province of Dien Bien, state media reported on Friday.
-
-Floodwater rose quickly on Thursday night after hours of heavy rain, inundating houses in low-lying areas and causing flash floods and mudslides in mountainous parts of the province, Tien Phong newspaper reported.
-
-Traffic and power lines to several parts of the province have been cut off due to the floods, according to a statement from the provincial People’s Committee.
-
-Two children in Hang Pu Xi village have been buried in mudslides and rescuers are yet to find their bodies, according to the statement.
-
-Media reports said ongoing heavy rain in the province is hindering the search for the missing.
-
-◼️
-
-[Data](articles/c847d085.json)
-
----
-
-### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
-
-*2025-08-01 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212898) · `si`
-
-මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.
-
-ඒ අනුව අගෝස්තු මාසයට අදාළව ලාෆ්ස් ගෑස් මිලේ කිසිදු වෙනසක් සිදු නොවන බව එහි අධ්‍යක්ෂ ආචාර්ය නිරෝෂන් ජේ.පීරිස් මහතා පවසයි.
-
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 4100ක් වන අතර කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 1,645 කි.
-
-◼️
-
-[Data](articles/533ebf18.json)
-
----
-
-### No Laugfs Gas price revision in August
-
-*2025-08-01 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111067/no-laugfs-gas-price-revision-in-august) · `en`
-
-LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of August, 2025.
-
-This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
-
-◼️
-
-[Data](articles/f8197c6b.json)
-
----
-
-### நிலத்தை பாதுகாக்க மன்னார் இளையோர் விழிப்புணர்வு போராட்டத்துக்கு அழைப்பு!
-
-*2025-08-01 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221529) · `ta`
-
-பல்தேசிய கம்பனிகளின் கனியவளச் சுரண்டலால் பாதிக்கப்படும் மன்னார் மாவட்டத்தின் மக்கள் இருப்பையும் பூர்வீக நிலத்ததையும் பாதுகாக்க மன்னார் மாவட்ட இளையோர் ஒன்றிணைந்து எதிர்வரும் 6 மற்றும் 7 ஆம் திகதிகளில் அடையாள விழிப்புணர்வு போராட்டம் ஒன்றை முன்னெடுக்க ஏற்படு செய்துள்ளதாக அறிவித்துள்ளனர்.
-
-யாழ். ஊடக அமையத்தில் ஊடக சந்திப்பொன்றை முன்னெடுத்த குறித்த ஏற்பாடு குழுவினர் இது குறித்து மேலும் கூறுகையில்,
-
-மன்னார் மாவட்டத்தின் இயற்கை வழங்களில் ஒன்றாக மணல் இருக்கின்றது. இந்த மணல் விசேடமக இல்மனைற் கனிமத்தை கொண்டதாக இருப்பதனால் அதற்கு உலகளவில் பரந்துபட்ட கேள்வி இருந்து வருகின்றது.
-
-இந்நிலையில்  கடந்த 10 ஆண்டுகளுக்கு மேலாக ஆஸ்திரேலிய பல்தேசிய நிறுவனம் ஒன்று குறித்த இல்மனைற் மணலை அகழ்ந்து எடுக்க முயற்சித்து வருகின்றது.
-
-ஆனாலும் அதற்காக அனுமதிகள் இழுபறியில் இருந்து வந்த நிலையில் இந்த அரசாங்கத்தினால் அது வழங்கப்படுவதற்கான சுழல் உருவாகியுள்ளது.
-
-...
-
-[Data](articles/3ab5137e.json)
-
----
-
-### Sri Lanka construction expands in June 2025: PMI
-
-*2025-08-01 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-june-2025-pmi-234096/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s construction sector expanded 58.6 in June 2025, compared to 59.7 in May 2025, according to a Purchasing Managers Index compiled by the central bank.
-
-“Many firms attributed this growth to favourable industry conditions, particularly exhibited by the steady increase in project work and stable price levels,” the central bank statement said.
-
-The New Orders Index increased during the month as respondents observed more construction projects being granted, particularly in road infrastructure.
-
-Several firms had reported that negotiations are underway to recommence some of the temporarily halted construction projects.
-
-The Employment Index turned positive and the Quantity of Purchases Index further expanded in June, with the continuous increase in construction work.
-
-The Employment index rose in May, recording 51.4 in June compared to 45.7 in May.
-
-The Quantity of Purchases Index recorded 57.1 in June, compared to 56.9 in May.
-
-...
-
-[Data](articles/7b321497.json)
-
----
-
-### ஜாம்பவான்கள் உலக சம்பியன்ஷிப் அரை இறுதியில் பாகிஸ்தான் சம்பியன்களை எதிர்த்தாட இந்தியா சம்பியன்கள் மறுப்பு: இறுதிப் போட்டியில் பாகிஸ்தான் - தென் ஆபிரிக்கா
-
-*2025-08-01 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/221522) · `ta`
-
-இங்கிலாந்தில் நடைபெற்றுவரும் ஆறு நாடுகளுக்கு இடையிலான ஜாம்பவான்கள் உலக சம்பியன்ஷிப் (World Championship of Legends) அரை இறுதிப் போட்டியில் பாகிஸ்தான் சம்பியன்ஸ் அணியை எதிர்த்தாட இந்திய சம்பியன்ஸ் அணி மறுத்ததால் பாகிஸ்தான் சம்பியன்ஸ் அணி இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
-
-இந்த இரண்டு அணிகளுக்கும் இடையில் கடந்த 20ஆம் திகதி நடைபெறவிருந்த லீக் போட்டியிலும் விளையாட இந்தியா மறுத்திருந்தது.
-
-ஆனால், லீக் போட்டி கைவிடப்பட்டதாக ஏற்பாட்டாளர்கள் தீர்மானித்து இரண்டு அணிளுக்கும் தலா ஒரு புள்ளியை வழங்கியிருந்தனர்.
-
-லீக் சுற்று முடிவில் பாகிஸ்தான் 9 புள்ளிகளுடன் முதலாம் இடத்திலும் இந்தியா 3 புள்ளிகளுடன் 4ஆம் இடத்திலும் இருந்தன.
-
-ஆனால், இரண்டு நாடுகளுக்கும் இடையிலான அரசியல் உறவுகள் மோசமடைந்துள்ளதால் ஜாம்பவான்கள் உலக சம்பியன்ஷிப் அரை இறுதிப் போட்டியில் பாகிஸ்தான் சம்பியன்ஸ் அணியுடன் விளையாட இந்திய சம்பியன்ஸ் அணி மறுத்துவிட்டது.
-
-இதன் காரணமாக ஷொயெப் தலைமையிலான பாகிஸ்தான் சம்பியன்ஸ் அணி இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
-
-...
-
-[Data](articles/f3d4c0f4.json)
 
 ---

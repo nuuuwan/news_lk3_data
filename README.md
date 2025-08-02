@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 12:07:35**
+As of **2025-08-02 12:25:14**
 
 ## Newspaper Stats
 
-*Scraped **68,232** Articles*
+*Scraped **68,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 594
 bbccomsinhala | 677
 colombotelegraphcom | 699
 islandlk | 4,167
-economynextcom | 4,176
+economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,560
 adaderanalk | 8,440
 tamilmirrorlk | 9,897
 virakesarilk | 11,363
-adaderanasinhalalk | 11,742
+adaderanasinhalalk | 11,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,232 articles have been extended.
+61,973 (90.8%) of 68,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### සිව්වන කුඹල් පෙරහැර වෙනුවෙන් මහනුවර රථ වාහන සැලැස්ම
+
+*2025-08-02 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212932) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහැරේ සිව්වන කුඹල් පෙරහැර අද (02) දින වීථී සංචාරය කරනු ලබයි.
+
+එම කාලය තුළ ක්‍රියාත්මක රථ වාහන සැලැස්ම හා විකල්ප මාර්ග පිළිබවඳ පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+කටුගස්තොට සිට මහනුවර නගරයට පැමිණෙන සියළුම බර වාහන මහයියාව හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ පොලිසිය හන්දියෙන් මහනුවර නගරය වෙත ගමන් කළ හැකිය.
+
+කටුගස්තොට දෙසින් පැමිණෙන සැහැල්ලු වාහන ඩී.එස්. සේනානයක වීදිය ඔස්සේ පැමිණ හරස් වීදිය ඔස්සේ යටිනුවර වීදියට පැමිණ දකුණට හැරී මීරමක්කම් පල්ලිය අසලින් වමට ධාවනය කර තිලක් රත්නායක මාවත ඔස්සේ ගමන් කළ හැකිය.
+
+කටුගස්තොට දෙසට පිටවන වාහන පොලිසිය හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ මහයියාව දෙසට ගමන් කළ හැකිය.
+
+තැන්නේකුඹුර හා අම්පිටිය දෙසින් පැමිණෙන වාහන සංඝරාජ මාවත ඔස්සේ වේල්ස් පාර්ක් හන්දියට පැමිණ ඇහැලේපොළ කුමාරිහාමි මාවතෙන් දකුණට හැරී බෝගම්බර, දුම්රියපොළ අසලින්ද කොළඹ දෙසට ගමන් කරන වාහන වම් පසටද, නගරය දෙසට ගමන් කරන වාහන දකුණු පසටද ගමන් කළ හැක.
+
+එසේම රජපිහිල්ල මාවත හන්දියෙන් පල්ලිය පාර ඔස්සේ මහනුවර නගරයට ඇතුළු විය හැකිය.
+
+...
+
+[Data](articles/e5844f4b.json)
+
+---
+
+### Sri Lanka tourist arrivals rise 6.6-pct in July, with Europeans picking up
+
+*2025-08-02 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-6-6-pct-in-july-with-europeans-picking-up-234089/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 6.6 percent from a year ago to 200,244 in July 2025, with visitors coming in mostly from India and the UK, data from the island’s tourism promotion office showed.
+
+There were 37,128 visitors from India in July 2025, making up 18.5 percent of total arrivals, followed by the UK with 23,475 which made up 11.7 percent of arrivals.
+
+There were 15,556 visitors (7.8%) from the Netherlands, 12,982 from China (6.5%), and 11,059 from France (5.5%).
+
+Visitors from other European countries, as well as Canada and the USA, picked up as the summer season progresses. (Colombo/Aug1/2025)
+
+◼️
+
+[Data](articles/577d9084.json)
+
+---
 
 ### ඇෆ්ගන් - පාකිස්තාන - UAE තුන්කොන් සටනක්
 
@@ -255,6 +297,26 @@ Uribe, whose legal team has said it will appeal, is to report to authorities in 
 ◼️
 
 [Data](articles/42be5ddc.json)
+
+---
+
+### Sri Lanka faces external triple whammy from Trump regime uncertainty
+
+*2025-08-02 08:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-faces-external-triple-whammy-from-trump-regime-uncertainty-234239/) · `en`
+
+ECONOMYNEXT –  Sri Lanka, the world and US and the world is suddenly facing a triple whammy from the nationalist and interventionist actions of President Donald Trump that as well as the effects of the Fed’s inflationism via the excess liquidity driven single policy rate (ample reserves regime).
+
+The Dow Jones index tumbled 1.23-pct (542 points) on Friday as the Trump tariffs went into effect, albeit at a lower than initially expected rate.
+
+The Euro Stoxx 50 Index fell 154 points or 2.9 percent, with the FTSE 100 falling 0.7 percent, and the Nikkei falling 270 points, or 0.66 percent.
+
+Trump’s actions where the government changes the expected rule of the game is called regime uncertainty.
+
+Regime uncertainty which is an undermining of established rules governing, reduces the confidence of doing business and creates uncertainty and distrust of the system.
+
+...
+
+[Data](articles/e1c921c0.json)
 
 ---
 
@@ -1759,57 +1821,5 @@ COLOMBO, 1 August 2025 – Sri Lanka’s 100 Most Valuable Brands have increased
 ...
 
 [Data](articles/f920033b.json)
-
----
-
-### காசாவில் 60000 பேர் கொல்லப்பட்டுள்ளனர் - அவர்களில் 18500 பேர் சிறுவர்கள் - பெயர் விபரங்களை வெளியிட்டது வோசிங்டன் போஸ்ட்
-
-*2025-08-01 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/221542) · `ta`
-
-ஜூலை மாத நடுப்பகுதியில் பொதுமக்களை போராளிகளுடன் வித்தியாசப்படுத்தி பார்க்காத காசாவின் சுகாதார அமைச்சு யுத்தத்தின் போது கொல்லப்பட்டவர்களின் பெயர்களையும் வயதினையும் வெளியிட்டது.
-
-மிக நீண்ட இந்த ஆவணத்தில் சிறுவர்களின் பெயர்கள் தொடர்ந்து வந்துகொண்டிருந்தன.900க்கும் அதிகமானவர்கள் தங்கள் முதலாவது பிறந்த நாளிற்கு முன்னர் கொல்லப்பட்டவர்கள்.
-
-ஹமாசின் உறுப்பினர்கள் பொதுமக்கள் வசிக்கும் பகுதிகளில் செயற்படுகின்றனர் என இஸ்ரேல் தெரிவிக்கின்றது, மருத்துவமனைகள், வீடுகள், பாடசாலைகள் இடம்பெயர்ந்தவர்களிற்கான முகாம்களை இலக்குவைப்பதை நியாப்படுத்துவதற்கு இஸ்ரேல் கூறும் காரணம்.
-
-பொதுமக்கள் வசிக்கும் பகுதிகளில் ஹமாசின் பிரசன்னத்தை காரணம் காட்டி  பொதுமக்களை பெருமளவில் கொல்லும் இஸ்ரேலின் நடவடிக்கைகளை நியாயப்படுத்த முடியாது என ஐக்கிய நாடுகளும் ஐரோப்பிய ஒன்றிய நாடுகளும் மனித உரிமை அமைப்புகளும் தெரிவிக்கின்றன.
-
-...
-
-[Data](articles/b5c19717.json)
-
----
-
-### Sri Lanka’s Costly Misstep In U.S. Tariff Negotiations
-
-*2025-08-01 15:57:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-costly-misstep-in-u-s-tariff-negotiations/) · `en`
-
-Just days ago, we were told by Sri Lankan officials that trade discussions with the United States were “progressing well” and all “under control.” Now, we face the reality: a 30% U.S. tariff on Sri Lankan goods, effective August 1st. What happened in between? The U.S. reduced it from the potential 44% to 30%, without serious negotiations.
-
-As Sri Lanka grapples with its fragile economic recovery, the latest outcome of U.S. tariff negotiations casts a long shadow over its ability to negotiate effectively and its exports to the USA in the future. Effective August 1st, 2025, Sri Lanka finds itself lumped with Algeria, Iraq, and Libya—each now subject to a staggering 30% tariff under the revised U.S. trade policy.
-
-...
-
-[Data](articles/b7c76cc1.json)
-
----
-
-### රට පුරා සිදුකළ විශේෂ සෝදිසි මෙහෙයුම්වලින් පුද්ගලයින් රැසක් අත්අඩංගුවට
-
-*2025-08-01 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212905) · `si`
-
-රටතුළ ව්‍යාප්තව ඇති විෂ මත්ද්‍රව්‍ය මර්දනය කිරීම සඳහා මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතාගේ සෘජු අධීක්ෂණය සහ වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ මෙහෙයවීමෙන් ක්‍රියාත්මක කරන සෝදිසි මෙහෙයුමේ තවත් අදියරක් ඊයේ (31) පැවැත්විණි.
-
-මේ සඳහා ශ්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය හා ත්‍රිවිධ හමුදාවේ සාමාජිකයින් 5,866ක ප්‍රමාණයක් සහභාගී විය.
-
-ඒ අනුව පුද්ගලයින් 23,321ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කර ඇති අතර වාහන 9,682ක ප්‍රමාණයක් ද යතුරුපැදි 6,661 ප්‍රමාණයක්ද පරීක්ෂාවට ලක් කර තිබේ.
-
-මෙම විශේෂ සෝදිසි මෙහෙයුම් තුළදී විෂ මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් පුද්ගලයින් 1,107ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇති අතර පරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයින් 12 දෙනෙකුද අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම මෙම මෙහෙයුම් අතරතුරදී නීති විරෝධී ගිනි අවි 02ක් සහ විවිධ වැරදි සම්බන්දව වරෙන්තුකරුවන් 423 දෙනෙකුද අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/802f0592.json)
 
 ---

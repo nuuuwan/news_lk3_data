@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 06:35:16**
+As of **2025-08-02 07:16:59**
 
 ## Newspaper Stats
 
-*Scraped **68,203** Articles*
+*Scraped **68,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,557
 adaderanalk | 8,433
-tamilmirrorlk | 9,889
+tamilmirrorlk | 9,890
 virakesarilk | 11,363
 adaderanasinhalalk | 11,732
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,203 articles have been extended.
+61,973 (90.9%) of 68,204 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,24 @@ South Asia’s annual textiles sourcing show, Intex Sri Lanka 2025, will be held
 ...
 
 [Data](articles/f74dd7e0.json)
+
+---
+
+### யாழில் தேரர் சடலமாக மீட்பு
+
+*2025-08-02 00:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-தேரர்-சடலமாக-மீட்பு/175-362174) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள  ஆலயங்களை பார்ப்பதற்காக வருகை தந்த தேரர் ஒருவர் யாழில் உள்ள விகாரையில் உயிரிழந்த நிலையில் நேற்று வெள்ளிக்கிழமை காலை சடலமாக மீட்க்கப்பட்டுள்ளார்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் பதுளை வீதி, பசறையைச் சேர்ந்த வனபதுளே சரணதர தேரர் (வயது 72) என்பவராவார்.
+
+மேற்படி தேரர் யாழில் உள்ள ஆலயங்களை பார்ப்பதற்காக யாழ்ப்பாணம் வந்துள்ளார். நேற்று முன்தினம் வியாழக்கிழமை இரவு விகாரையில் தங்கி இருந்த நிலையில், நேற்று காலை சடலமாக கண்டுபிடிக்கப்பட்டார்.
+
+இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டு உடற்கூற்று பரிசோதனைக்கு உத்தரவிட்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர். (a)
+
+◼️
+
+[Data](articles/fa15c15e.json)
 
 ---
 
@@ -1835,25 +1853,5 @@ Sri Lanka got a 20 percent tariff in a slew of revised rates announced by Presid
 ◼️
 
 [Data](articles/e6d76c87.json)
-
----
-
-### Rohitha Abeygunawardena’s son-in-law granted bail
-
-*2025-08-01 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111066/rohitha-abeygunawardenas-son-in-law-granted-bail) · `en`
-
-Dhanushka Weerakkody, the son-in-law of Member of Parliament Rohitha Abeygunawardena, has been granted bail after being produced before the Matugama Magistrate’s Court.
-
-Weerakkody was arrested in connection with an incident involving the seizure of an illegally assembled vehicle in the Matugama area recently.
-
-He was remanded on July 24 after surrendering to the Matugama Magistrate’s Court and was held in Malwatte Prison, Kalutara, until being brought back to court today for further proceedings in the same case.
-
-Upon consideration of the facts presented, the court ordered that Dhanushka Weerakkody be released on bail under two surety bonds of Rs. 2 million each.
-
-Meanwhile, Rasika Buddhika Withana, the son of Parliamentarian Jagath Withana, also appeared before the Matugama Magistrate’s Court today in connection with the same case. He had earlier been granted bail through a motion submitted to the court.
-
-◼️
-
-[Data](articles/c7b5905a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 00:07:45**
+As of **2025-08-03 00:25:04**
 
 ## Newspaper Stats
 
-*Scraped **68,286** Articles*
+*Scraped **68,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 595
 bbccomsinhala | 677
 colombotelegraphcom | 699
 islandlk | 4,167
-economynextcom | 4,178
+economynextcom | 4,179
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,286 articles have been extended.
+61,973 (90.8%) of 68,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,26 @@ Pakistan said in June that it would recommend Trump for the Nobel Peace Prize fo
 ...
 
 [Data](articles/27f80881.json)
+
+---
+
+### City of Dreams casino and luxury hotels aim to up Sri Lanka’s tourism game
+
+*2025-08-02 21:13:00* · [`economynextcom`](https://economynext.com/city-of-dreams-casino-and-luxury-hotels-aim-to-up-sri-lankas-tourism-game-234306/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s City of Dreams integrated resort, built by John Keells Holdings, with a casino and Nuwa hotel by its partner Melco Resorts and Entertainment, expects to reposition Colombo to the top end of the tourism market, officials said.
+
+The 1.2 billion Us dollar integrated resort was conceptualized in 2010-2011, after a 30-year war and John Keells was looking for ways to strengthen Sri Lanka’s tourism potential.
+
+“We were also conscious that we were next door to India, which was growing at a rapid pace, and is continuing to grow even today, 11 years later,” JKH Chairman Krishan Balendra said.
+
+“And we could see the potential for having that outbound Indian tourist market. But not just India.
+
+“We are four hours away from the Middle East and other parts of South Asia, and very close even to Southeast Asia, so we have very big tourist arrivals from India, China, other Southeast Asian countries, the Middle East.”
+
+...
+
+[Data](articles/d6ceb8a9.json)
 
 ---
 
@@ -1835,19 +1855,5 @@ The sacred tooth relic of the Buddha which is believed to have been brought to S
 ◼️
 
 [Data](articles/46dc725b.json)
-
----
-
-### PHI රාජකාරී වේලාව සංශෝධනයට විශේෂ කමිටුවක්
-
-*2025-08-01 22:07:54* · [`adalk`](https://www.ada.lk/breaking_news/PHI-රාජකාරී-වේලාව-සංශෝධනයට-විශේෂ-කමිටුවක්/11-417662) · `si`
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරික්ෂකවරුන්ගේ සංගමය, සමස්ත ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය සහ ශ්‍රී ලංකා  ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමය යන සංගම් වල නියෝජිතයින් සමඟ සාකච්ඡාවක් අද (01) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී පවත්වනු ලැබීය.
-
-මෙහි දී වෘත්තීය සමිති නියෝජිතයින් ඉදිරිපත් කළ වෘත්තීය ගැටළු අතර, ප්‍රධාන මහජන සෞඛ්‍ය පරීක්ෂක තනතුර පිරවීම, යතුරු පැදි ලබා ගැනීම, පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක පුහුණුව කඩිනම් කිරීම, පුහුණුව සඳහා අලුතින් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් බඳවා ගැනීම, සේවාස්ථ පුහුණු පාඨමාලාවන් ආරම්භ කිරීම, රාජකාරී වේලාව සංශෝධනය කිරීම, ඩිජිටල් සෞඛ්‍ය පද්ධතියක් සකස් කිරීම, මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සියලු ශ්‍රේණි සඳහා වෙන වෙනම රාජකාරී ලැයිස්තු සකස් කිරීම, මහජන සෞඛ්‍ය උපාධි පාඨමාලාවන් කඩිනම් කිරීම, ආහාර සාම්පල පරීක්ෂණ රසායනාගාර පළාත් මට්ටමින් ස්ථාපිත කිරීම, ප්‍රාථමික වෛද්‍ය ප්‍රතිකාර ඒකක වලින් සිදුවන සේවාව ශක්තිමත් කිරීම සඳහා දායකත්වය ලබා දීම වැනි කරුණු පිළිබඳව දීර්ඝ ලෙස අවධානය යොමු කරමින් මෙහි දී සාකච්ජා කරන ලදී.
-
-...
-
-[Data](articles/a52b7e40.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 12:49:02**
+As of **2025-08-02 13:06:10**
 
 ## Newspaper Stats
 
-*Scraped **68,235** Articles*
+*Scraped **68,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,560
-adaderanalk | 8,440
+adaderanalk | 8,441
 tamilmirrorlk | 9,897
-virakesarilk | 11,363
-adaderanasinhalalk | 11,743
+virakesarilk | 11,365
+adaderanasinhalalk | 11,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,235 articles have been extended.
+61,973 (90.8%) of 68,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### ශාරුක් හා රාණිට පළමුවරට ලැබෙන සම්මාන
+
+*2025-08-02 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212934) · `si`
+
+දශක 3කට අධික රංගන දිවියේ පළමුවරට ඉන්දීය ජාතික චිත්‍රපට සම්මාන උළෙලක හොඳම නළුවාට හිමි සම්මානය දිනාගැනීමට සුපිරි බොලිවුඩ් නළු ශාරුක් ඛාන්ට හැකිව තිබේ.
+
+ඉන්දීය ජාතික චිත්‍රපට සංවර්ධන සංස්ථාව විසින් ඊයේ (1) ප්‍රකාශයට පත්කළ '71 වන ජාතික චිත්‍රපට සම්මාන උළෙලේ' ජයග්‍රාහී සම්මාන ලැයිස්තුවේ මෙලෙස ශාරුක්ව නම්කර ඇත.
+
+2023 වසරේ තිරගත වූ චිත්‍රපට වෙනුවෙන් මෙම සම්මාන උළෙල පැවැත්වෙන අතර, ඒ අනුව එම වසරේ තිරගත වූ 'ජවාන්' චිත්‍රපටයේ ශාරුක් දැක් වූ විශිෂ්ට රංගනය වෙනුවෙන් මෙම සම්මානයට ඔහු නම්කර ඇත.
+
+ජවාන් චිත්‍රපටයට ඉන්දීය රුපියල් කෝටි 1,148කට අධික  ආදායමක් උපයාගැනීමට හැකි වූ අතර, එය එම වසරේ වැඩිම ආදායමක් උපයාගත් ඉන්දියානු චිත්‍රපටය විය.
+
+එමෙන්ම ඉන්දීය චිත්‍රපට ඉතිහාසයේ දෙවන වැඩිම ආදායමක් උපයාගත් හින්දි චිත්‍රපටය මෙන්ම හයවන වැඩිම ආදායමක් උපයාගත් ඉන්දියානු චිත්‍රපටය ද එය වේ.
+
+මේ අතර මෙම සම්මාන උළෙලේ හොඳම නිළියට හිමි සම්මානයට රාණි මුකර්ජි නම්කර ඇත.
+
+ඇය රංගනයෙන් දායක වූ 'Mrs. Chatterjee vs Norway' නම් චිත්‍රපයට වෙනුවෙන් මෙම සම්මානය හිමිවේ.
+
+...
+
+[Data](articles/77d977a2.json)
+
+---
+
+### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
+
+*2025-08-02 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212933) · `si`
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත් සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, එම නිවේදනය අද (02) රාත්‍රී 11 දක්වා බලපැවැත්වෙන බවය.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත් සහ හම්බන්තොට දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බැවින් මෙම ප්‍රදේශවල ජනතාවට සැලකිලිමත් වෙන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකියි.
+
+අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/ca8872f6.json)
+
+---
+
+### செயற்கை நுண்ணறிவு (AI) : 'உலகளாவிய ஆளுகை செயற்றிட்டம் பற்றிய ஒரு பார்வை'
+
+*2025-08-02 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221599) · `ta`
+
+செயற்கை நுண்ணறிவு என்பது அண்மைக்காலத்தில் நடைபெற்றுக்கொண்டிருக்கும் அறிவியல் மற்றும் தொழில்நுட்பப்புரட்சியின்  முக்கியமான மைல்கல்லாகும். அத்துடன் மனிதகுலத்திற்குப் பயனளிக்கும் சர்வதேச பொது நன்மையான விடயமாகுமாக பார்க்கப்படுவதோடு அதன் வளர்ச்சியில் முன்னெப்போதும் இல்லாத வாய்ப்புகள் கிடைப்பதாகவும் கொள்ளப்படுகின்றது.
+
+◼️
+
+[Data](articles/cb1a4334.json)
+
+---
 
 ### සිව්වන කුඹල් පෙරහැර වෙනුවෙන් මහනුවර රථ වාහන සැලැස්ම
 
@@ -71,6 +127,24 @@ Visitors from other European countries, as well as Canada and the USA, picked up
 ◼️
 
 [Data](articles/577d9084.json)
+
+---
+
+### ‘Release US trade deal details & terms to public’ – Namal urges govt
+
+*2025-08-02 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111089/release-us-trade-deal-details-terms-to-public-namal-urges-govt) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Namal Rajapaksa has welcomed the recent reduction in U.S. reciprocal tariff rates on Sri Lankan goods, while urging the Government to disclose full details of the trade and security agreements reached with the United States.
+
+In a post on ‘X’ (formerly Twitter), Rajapaksa stated, “Encouraging to see the United States tariff rates cut down to 20%, which now puts us with Vietnam and Bangladesh, and I congratulate the NPP Government for being persistent in its discussions with the U.S. trade representatives.”
+
+However, he stressed the importance of transparency surrounding the negotiations that led to the tariff concession.
+
+“I call on the Government to be transparent on the ‘meaningful trade and security agreements’ reached with the U.S. Government in order to get the tariff reductions,” he said.
+
+...
+
+[Data](articles/99959472.json)
 
 ---
 
@@ -132,6 +206,26 @@ Visitors from other European countries, as well as Canada and the USA, picked up
 
 ---
 
+### இன்றைய சமூகத்திற்கு அத்தியாவசியமான இளம் தலைவிகளை உருவாக்கும் ஆற்றல் இலங்கை பெண் வழிகாட்டிச் சங்கத்திற்கு உள்ளது -  ஹரினி அமரசூரிய
+
+*2025-08-02 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221603) · `ta`
+
+இன்றைய சமூகத்தில் பெண்கள் வகிக்கின்ற முக்கியப் பங்கு மற்றும் அவர்களின் தலைமைத்துவத்தை ஊக்குவிக்கும் நோக்குடன், இலங்கை பிரதமர் கலாநிதி ஹரினி அமரசூரிய , பெண் தலைமைத்துவத்தின் அவசியத்தை வலியுறுத்தியதோடு, அதனை நிறைவேற்றும் திறன் இலங்கை பெண் வழிகாட்டிச் சங்கத்திடம் உள்ளதென தெரிவித்துள்ளார்.
+
+உலகின் மிகப்பெரிய பெண்களுக்கான தன்னார்வ அமைப்பின் ஓர் அங்கமான இலங்கை பெண் வழிகாட்டிச் சங்கத்தால், வெள்ளிக்கிழமை (01) அலரி மாளிகையில் ஏற்பாடு செய்யப்பட்ட 'ஜனாதிபதி பெண் வழிகாட்டி விருது' வழங்கும் விழாவில் உரையாற்றும் போதே பிரதமர் இந்தக் கருத்துக்களைத் தெரிவித்தார்.
+
+இவ்விழாவில், ஒரு பெண் வழிகாட்டி பெறக்கூடிய மிக உயர்ந்த கௌரவ விருதான 'ஜனாதிபதி பெண் வழிகாட்டி விருது' 306 பெண் வழிகாட்டிகளுக்கு வழங்கப்பட்டது.
+
+"இலங்கை பெண் வழிகாட்டிச் சங்கத்தால் வழங்கப்படும் ஜனாதிபதி மற்றும் பிரதமர் விருது வழங்கும் விழாவில் பங்கேற்பதில் நான் மகிழ்ச்சி அடைகிறேன்.
+
+1917 ஆம் ஆண்டில் கண்டியில் உள்ள மகளிர் உயர்தரப் பாடசாலையில் தொடங்கிய இந்த இயக்கம், இப்போது நாடு முழுவதும் பரவியுள்ளது.
+
+...
+
+[Data](articles/041c9f10.json)
+
+---
+
 ### නීති විරෝධී ධීවර කටයුතුවල යෙදුණු 22ක් නාවික හමුදා භාරයට
 
 *2025-08-02 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212929) · `si`
@@ -147,6 +241,24 @@ Visitors from other European countries, as well as Canada and the USA, picked up
 ◼️
 
 [Data](articles/3e366cc6.json)
+
+---
+
+### காசாவில் 60000 பேர் கொல்லப்பட்டுள்ளனர் - அவர்களில் 18500 பேர் சிறுவர்கள் - பெயர் விபரங்களை வெளியிட்டது வோசிங்டன் போஸ்ட்
+
+*2025-08-02 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221542) · `ta`
+
+ஜூலை மாத நடுப்பகுதியில் பொதுமக்களை போராளிகளுடன் வித்தியாசப்படுத்தி பார்க்காத காசாவின் சுகாதார அமைச்சு யுத்தத்தின் போது கொல்லப்பட்டவர்களின் பெயர்களையும் வயதினையும் வெளியிட்டது.
+
+மிக நீண்ட இந்த ஆவணத்தில் சிறுவர்களின் பெயர்கள் தொடர்ந்து வந்துகொண்டிருந்தன.900க்கும் அதிகமானவர்கள் தங்கள் முதலாவது பிறந்த நாளிற்கு முன்னர் கொல்லப்பட்டவர்கள்.
+
+ஹமாசின் உறுப்பினர்கள் பொதுமக்கள் வசிக்கும் பகுதிகளில் செயற்படுகின்றனர் என இஸ்ரேல் தெரிவிக்கின்றது, மருத்துவமனைகள், வீடுகள், பாடசாலைகள் இடம்பெயர்ந்தவர்களிற்கான முகாம்களை இலக்குவைப்பதை நியாப்படுத்துவதற்கு இஸ்ரேல் கூறும் காரணம்.
+
+பொதுமக்கள் வசிக்கும் பகுதிகளில் ஹமாசின் பிரசன்னத்தை காரணம் காட்டி  பொதுமக்களை பெருமளவில் கொல்லும் இஸ்ரேலின் நடவடிக்கைகளை நியாயப்படுத்த முடியாது என ஐக்கிய நாடுகளும் ஐரோப்பிய ஒன்றிய நாடுகளும் மனித உரிமை அமைப்புகளும் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/b5c19717.json)
 
 ---
 
@@ -1709,117 +1821,5 @@ Thus, members of the public are advised to stay hydrated, take breaks in the sha
 ...
 
 [Data](articles/e459c647.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds steady after initial run
-
-*2025-08-01 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-after-initial-run-234195/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.20/30 to the US dollar in the spot market Thursday, stronger from 302.10/20 the previous day, while bond yields held broadly steady after the initial run, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.00/10percent, down from 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.40/45 percent, down from 8.45/55 percent.
-
-A bond maturing on 15.10.2028 closed at 8.75/85 percent, down from 8.97/9.02 percent.
-
-A bond maturing on 15.12.2029 closed at 9.35/40 percent, down from 9.50/54 percent.
-
-A bond maturing on 15.12.2032 closed at 10.23/26 percent, down from 10.38/42 percent.
-
-A bond maturing on 01.11.2033 closed at 10.62/65 percent, down from 10.75/82 percent. (Colombo/Aug1/2025)
-
-◼️
-
-[Data](articles/18ff7518.json)
-
----
-
-### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා සහ බලශක්ති අමාත්‍යවරයා අතර හමුවක්
-
-*2025-08-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212907) · `si`
-
-ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘ පැට්‍ර්ක් (Andrew Patrick) මහතා සහ බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි අතර හමුවක් අද (01) පෙරවරුවේ බලශක්ති අමාත්‍යාංශයේදී පැවැත්වුණි.
-
-දෙරට අතර බලශක්ති ක්ෂේත්‍රයේ සබඳතා වර්ධනය කරගැනීමේ අරමුණින් පැවැති එම හමුවේදී විශේෂයෙන් මෙරට විදුලිබල ක්ෂේත්‍රයට අදාළ තොරුතුරු, සැළසුම් සහ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව සාකච්ජා කෙරිණි.
-
-සුළං විදුලිබලය ඇතුළු විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රවනතා පිළිබඳව මෙහිදී සැළකිල්ලට ලක්වුණු අතර අවශ්‍යතාවය අනුව අන්තර්ජාතික සහයෝගීතා ආයතන හරහා මෙරටට අවශ්‍යය සහයෝගය ලබාදීම සඳහා බ්‍රිතාන්‍ය මහකොමසාරිස්වරයා මෙහිදී එකඟ වී ඇත.
-
-එමෙන්ම මෙරට පුනර්ජනනීය බලශක්ති නිෂ්පාදනයේ විශාල දායකත්වයක් ලබා දෙන ජල විදුලිබලාගාර පද්ධතිය පිළිබඳවද සාකච්ජා වුනු අතර එහිදී මෙරට විශාලතම ජල විදුලි බලාගාරය වන වික්ටෝරියා ජල විදුලිබලාගාරය බ්‍රිතාන්‍ය රජයේ ප්‍රදානයක් බව කෘතවේදීව සිහිපත් කරන බව අමාත්‍යවරයා ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/4bc3900e.json)
-
----
-
-### සෞඛ්‍ය පරීක්ෂකවරුන්ගේ රාජකාරි වේලාවන් සංශෝධනය කිරීමට කමිටුවක්
-
-*2025-08-01 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212906) · `si`
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය, සමස්ත ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය සහ ශ්‍රී ලංකා ආහාර හා ඖෂධ පරීක්ෂකවරුන්ගේ සංගමය යන සංගම්වල නියෝජිතයින් සමග සාකච්ඡාවක් අද (01) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේදී පවත්වනු ලැබීය.
-
-මෙහිදී වෘත්තිය සමිති නියෝජිතයින් ඉදිරිපත් කළ වෘත්තිය ගැටළු අතර ප්‍රධාන මහජන සෞඛ්‍ය පරීක්ෂක තනතුර පිරවීම, යතුරු පැදි ලබා ගැනීම, පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක පුහුණුව කඩිනම් කිරීම, පුහුණුව සඳහා අලුතින් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් බඳවා ගැනීම, සේවාස්ථ පුහුණු පාඨමාලාවන් ආරම්භ කිරීම, රාජකාරි වේලාවන් සංශෝධනය කිරීම, ඩිජිටල් සෞඛ්‍ය පද්ධතියක් සකස් කිරීම ඇතුළු කරුණු ගණනාවක් සම්බන්ධව සාකච්ඡාවට ලක් කෙරිණි.
-
-එහිදී එම කාලීන ගැටලු පිළිබඳව විශේෂ අවධානය යොමු කරමින් අමාත්‍යවරයා අමාත්‍යංශ නිලධාරීන් සමග එම අවස්ථාවේදීම සාකච්ඡා කර එම ගැටළු කිහිපයක් සඳහා විසඳුම් ලබා දීමටද පියවර ගත් අතර අනෙකුත් ගැටළු සඳහා ඉදිරියේදී මධ්‍ය කාලීන හා දීර්ඝ කාලීන ලෙස විසඳුම් ලබා දීමට කටයුතු කරන බවද පැවසීය.
-
-...
-
-[Data](articles/61475495.json)
-
----
-
-### அமெரிக்கா முன்வைத்த திருத்தப்பட்ட பரஸ்பர புதிய வர்த்தக வரி குறித்து ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் மகிழ்ச்சி
-
-*2025-08-01 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221555) · `ta`
-
-ஆகஸ்ட் முதலாம் திகதி முதல் நடைமுறைப்படுத்தப்படும் அமெரிக்காவின் திருத்தப்பட்ட பரஸ்பர ஒத்துப்போகும் வரி கட்டமைப்பின்படி, இலங்கைக்கு விதிக்கப்பட்ட 20% வரி விகிதம் தொடர்பாக, ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் (JAAF) தனது மகிழ்ச்சியை வெளிப்படுத்தியுள்ளது.
-
-இந்த வரி விகிதத்தை மாற்றுவதற்காக, அமெரிக்க வணிக பிரதிநிதிகளுடன் வெற்றிகரமான பேச்சுவார்த்தைகளை நடத்திய ஜனாதிபதி அனுர குமார திசாநாயக்க, நிதி அமைச்சக செயலாளர் கலாநிதி ஹர்ஷன சூரியப்பெரும உள்ளிட்ட அனைத்து அரச அதிகாரிகளுக்கும் JAAF தனது நன்றி மற்றும் பாராட்டுகளை இந்த அறிக்கை மூலம் தெரிவித்துள்ளது.
-
-வொஷிங்டனில் உள்ள இராஜதந்திர குழுவுடன் நடைபெற்ற பேச்சுவார்த்தைகளில் இலங்கைக்கான அமெரிக்கத் தூதுவர் மஹிந்த சமரசிங்க அவர்களின் பங்களிப்புக்கு JAAF சிறப்பு நன்றி தெரிவிக்கிறது.
-
-...
-
-[Data](articles/7035c8b6.json)
-
----
-
-### UNP commends govt for tariff negotiations, seeks details on US trade deal
-
-*2025-08-01 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111074/unp-commends-govt-for-tariff-negotiations-seeks-details-on-us-trade-deal) · `en`
-
-The United National Party (UNP) has welcomed the recent executive order issued by U.S. President Donald Trump, which further reduces the reciprocal tariff rates on Sri Lankan exports.
-
-In a statement, the UNP commended the Sri Lankan Government and its negotiating team for successfully concluding the relevant negotiations.
-
-“We commend the Government and the negotiating team for successfully concluding the negotiations,” the party said.
-
-The new Executive Order states that “some trading partners have agreed to, or are on the verge of agreeing to, meaningful trade and security commitments with the United States.”
-
-...
-
-[Data](articles/8507a14b.json)
-
----
-
-### Sri Lanka’s top 100 brands increased in value to Rs559.4bn: Brand Finance
-
-*2025-08-01 16:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-100-brands-increased-in-value-to-rs559-4bn-brand-finance-234164/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 100 most valuable brands have increased in value and now hold a combined brand value of 559.4 billion rupees, according to a ranking by Brand Finance.
-
-“The upward trend signals that confidence is returning, and market activity is normalising, underpinned by stronger macro fundamentals and the acceleration of digital transformation across leading corporates,” the brand valuation consultancy said.
-
-Banking has emerged as the best performing sector this year with Bank of Ceylon crowned Sri Lanka’s most valuable brand in 2025.
-
-Commercial Bank and Dialog secured second and third most valuable brand positions.
-
-COLOMBO, 1 August 2025 – Sri Lanka’s 100 Most Valuable Brands have increased in value and now holds a combined brand value of LKR559.4 billion in 2025, according to the Sri Lanka 100 2025 ranking by Brand Finance, the world’s leading brand valuation consultancy.
-
-...
-
-[Data](articles/f920033b.json)
 
 ---

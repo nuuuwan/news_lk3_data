@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 13:17:46**
+As of **2025-08-02 13:30:56**
 
 ## Newspaper Stats
 
-*Scraped **68,240** Articles*
+*Scraped **68,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,560
 adaderanalk | 8,441
 tamilmirrorlk | 9,897
 virakesarilk | 11,365
-adaderanasinhalalk | 11,745
+adaderanasinhalalk | 11,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,240 articles have been extended.
+61,973 (90.8%) of 68,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### ඩිජිටල් ගනුදෙනු ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
+
+*2025-08-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212935) · `si`
+
+ඩිජිටල් ගනුදෙනු ප්‍රවර්ධනය කරනවා හා සමානවම බැංකු හා මූල්‍ය ආයතන ඊට අදාළ යටිතල පහසුකම් ගමේ සිටින ජනතාව දක්වාම රැගෙන යා යුතු බව මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+ශ්‍රී ලංකා මහබැංකුව සංවිධාන කරන ඩිජිටල් ගනුදෙනු ප්‍රවර්ධන වැඩසටහනක් මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතාගේ ප්‍රධානත්වයෙන් දඹුල්ල ආර්ථික මධ්‍යස්ථානය කේන්ද්‍ර කරගනිමින් ඊයේ පැවැත් වුණි.
+
+එහිදී අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+
+...
+
+[Data](articles/16e8fbe1.json)
+
+---
 
 ### ශාරුක් හා රාණිට පළමුවරට ලැබෙන සම්මාන
 
@@ -1803,23 +1819,5 @@ The Chamber extended its appreciation to the officials involved for their proact
 ...
 
 [Data](articles/8f43c48f.json)
-
----
-
-### Heat advisory issued for several areas
-
-*2025-08-01 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111075/heat-advisory-issued-for-severalareas) · `en`
-
-The Meteorology Department has issued a Warm Weather Advisory for the North-Central and Eastern provinces, and the Monaragala and Hambantota districts.
-
-It states that the heat index — the temperature felt by the human body — is likely to increase to the ‘Caution level’ in some areas of the North-Central and Eastern provinces, and the Monaragala and Hambantota districts.
-
-As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
-
-Thus, members of the public are advised to stay hydrated, take breaks in the shade as often as possible, and limit strenuous outdoor activities. They are also requested to check on the elderly and the sick, never leave children unattended inside vehicles, and wear lightweight, white or light-colored clothing.
-
-...
-
-[Data](articles/e459c647.json)
 
 ---

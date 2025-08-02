@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 10:50:45**
+As of **2025-08-02 11:06:53**
 
 ## Newspaper Stats
 
-*Scraped **68,224** Articles*
+*Scraped **68,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,176
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,560
-adaderanalk | 8,435
+adaderanalk | 8,440
 tamilmirrorlk | 9,896
 virakesarilk | 11,363
 adaderanasinhalalk | 11,740
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,224 articles have been extended.
+61,973 (90.8%) of 68,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3e366cc6.json)
+
+---
+
+### Speaker’s residence to be converted into Parliamentary Studies and Research Center
+
+*2025-08-02 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111088/speakers-residence-to-be-converted-into-parliamentary-studies-and-research-center) · `en`
+
+Policy agreement was reached at the Parliamentary Staff Advisory Committee regarding the proposal to transform the Speaker’s official residence into a dedicated “Center for Parliamentary Studies and Research,” intended as an exclusive hub for Members of Parliament, Provincial Council members, and Local Government representatives.
+
+Accordingly, the committee approved the appointment of a Project Manager, preferably a retired senior government officer, to coordinate, advise, and lead the planning and structuring of the foundational framework of the Center for an initial period of six months.
+
+These matters were discussed at the Parliamentary Staff Advisory Committee meeting held on 24th July 2025, chaired by Speaker Dr. Jagath Wikramaratne, according to a statement issued by the Department of Communication of Parliament.
+
+...
+
+[Data](articles/197c5228.json)
 
 ---
 
@@ -130,6 +146,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Bus transporting garment workers topples in Dehiowita; all 41 hospitalized
+
+*2025-08-02 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111087/bus-transporting-garment-workers-topples-in-dehiowita-all-41-hospitalized) · `en`
+
+A bus transporting garment factory workers veered off the road and toppled down a precipice in Dehiowita, along the Kegalle–Avissawella main road, early this morning (02), said Ada Derana reporter.
+
+A total of 41 employees from a garment factory were on board the bus at the time of the accident.
+
+All 41 passengers have been admitted to the District General Hospital in Avissawella for treatment, said Ada Derana reporter.
+
+The bus was en route from Deraniyagala to the Avissawella Industrial Estate at the time of the incident, which occurred around 6:30 a.m.
+
+◼️
+
+[Data](articles/ff595df1.json)
+
+---
+
+### Colombia ex-president Uribe sentenced to 12 years of house arrest, will appeal
+
+*2025-08-02 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111086/colombia-ex-president-uribe-sentenced-to-12-years-of-house-arrest-will-appeal) · `en`
+
+Former Colombian President Alvaro Uribe was sentenced by a judge on Friday to 12 years of house arrest for abuse of process and bribery of a public official, in a long-running case over connections to former right-wing paramilitaries.
+
+Uribe was convicted of the two charges on Monday by Judge Sandra Liliana Heredia in a witness-tampering case that has run for about 13 years. He has always maintained his innocence.
+
+Heredia read the sentence to the court in an afternoon hearing on Friday. Uribe will be fined $578,000, Heredia’s ruling said, and barred from public office for more than eight years.
+
+Uribe, whose legal team has said it will appeal, is to report to authorities in Rionegro, in Antioquia province, where he resides, and then “proceed immediately to his residence where he will comply with house arrest,” the ruling said.
+
+...
+
+[Data](articles/114eae08.json)
+
+---
+
 ### දෙහිඕවිටදී බස් රථයක් ප්‍රපාතයකට පෙරළෙයි
 
 *2025-08-02 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212927) · `si`
@@ -145,6 +197,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/42be5ddc.json)
+
+---
+
+### One dead, one injured following clash between two groups in Mount Lavinia
+
+*2025-08-02 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111085/one-dead-one-injured-following-clash-between-two-groups-in-mount-lavinia) · `en`
+
+Two individuals were seriously injured in a clash between two groups in the Araliya Housing area under the jurisdiction of the Mount Lavinia Police Division.
+
+One of the injured has since succumbed to his injuries while undergoing treatment, said police.
+
+The incident occurred last evening (01), resulting in both victims being admitted to Lunawa Hospital with serious wounds caused by sharp weapons.
+
+According to the Mount Lavinia Police, one of the injured, a 28-year-old resident of the Angulana area, died during treatment at Lunawa Hospital. The other injured person was transferred to the Colombo South Teaching Hospital in Kalubowila for further medical treatment.
+
+Preliminary investigations indicate that the fatal attack was the outcome of a dispute between two parties, involving the use of sharp weapons, said police.
+
+The suspects responsible for the attack have been identified, and the Mount Lavinia Police are conducting further investigations to apprehend those who have fled the scene.
+
+◼️
+
+[Data](articles/d49fb78e.json)
 
 ---
 
@@ -169,6 +243,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4559c255.json)
+
+---
+
+### Plans underway to levy hefty annual fines on illegal coastal constructions
+
+*2025-08-02 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111084/plans-underway-to-levy-hefty-annual-fines-on-illegal-coastal-constructions) · `en`
+
+The Department of Coast Conservation and Coastal Resource Management has announced plans to introduce new legislation that would impose annual fines on unauthorized structures built in coastal areas across Sri Lanka.
+
+According to the Department’s Director General, Professor Terney Pradeep Kumara, more than 2,500 such unauthorized constructions have been identified island wide.
+
+“Over the past 10 to 15 years, a significant number of unauthorized structures have been erected within designated coastal zones,” he stated.
+
+“We are in the process of demolishing some of these buildings, while others will be subject to hefty annual fines. Legal measures are being taken to address and regularize these irregularities,” he added.
+
+◼️
+
+[Data](articles/e0f8b98b.json)
 
 ---
 
@@ -1721,99 +1813,5 @@ This is not the end of the story, Stephen Brown of Capital Economics said in a c
 ...
 
 [Data](articles/55595bf1.json)
-
----
-
-### Sri Lanka stocks boosted by tariff reduction, banks and financials draw investors
-
-*2025-08-01 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-boosted-by-tariff-reduction-banks-and-financials-draw-investors-234170/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday after US President Donald Trump announced a reduction in the applicable tariff rate for exports.
-
-The ASPI rose 1.38 percent, or 271.77 points, to 19,914.25, and the S&P SL20 rose 2.34 percent, or 134.92 points, to 5,897.09.
-
-“Market rose on the news of the tariffs,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-“There was investor confidence coming from that, but the market moved primarily on banks and diversified financials stocks.”
-
-There was a lot of interest in export stocks too, especially Dipped Products, which closed 2.90 rupees up at 63.90.
-
-Stocks that saw the most active volumes traded were Hayleys Fabric which was up 2.60 rupees at 48.00, Hayleys which was up 6.50 rupees at 194.00, Hela Apparel which was up 20 cents at 3.70 rupees, and Teejay which was up 50 cents at 48.60 rupees.
-
-...
-
-[Data](articles/e7fb01e6.json)
-
----
-
-### ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රශංසා
-
-*2025-08-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212904) · `si`
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් පනවන ලද නව අන්‍යෝන්‍ය තීරුබදු අනුපාත තවදුරටත් වෙනස් කිරීම සම්බන්ධව එක්සත් ජාතික පක්ෂය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-එහි සඳහන්ව ඇත්තේ මෙම තීරුබදු අනුපාත තවදුරටත් වෙනස් කිරීම පක්ෂයක් ලෙස එක්සත් ජාතික පක්ෂය පිළිගන්නා බවය.
-
-ඊට අදාළ සාකච්ඡා සාර්ථකව අවසන් කිරීම සම්බන්ධව රජයට සහ සාකච්ඡා කණ්ඩායමට ප්‍රසංශා කරන බවත් එම පක්ෂය නිකුත් කළ නිවේදනයේ සඳහන්ව තිබේ.
-
-ට්‍රම්ප්ගේ තීරුබදු අනුපාත වෙනස් කිරීම සම්බන්ධව එජාපයෙන් රජයට ප්‍රසංශා by poornima on Scribd
-
-◼️
-
-[Data](articles/f50f8808.json)
-
----
-
-### இரண்டு பாரிய போதைப்பொருள் கடத்தல் முயற்சிகள் முறியடிப்பு ; விமான நிலையம் மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலைய சுங்கத் திணைக்கள அதிகாரிகளுக்கு அமெரிக்க தூதுவர் பாராட்டு
-
-*2025-08-01 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221539) · `ta`
-
-இரண்டு பாரிய போதைப்பொருள் கடத்தல் முயற்சிகளை முறியடித்த விமான நிலையம் மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலையத்தில் உள்ள சுங்கத்திணைக்கள அதிகாரிகளுக்கு பாராட்டுகளை இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தெரிவித்துள்ளார்.
-
-விமான நிலையத்தில் முதன்முறையாக கொக்கெயின் படிகம் கடத்தல் முயற்சியை தடுத்தமை உட்பட 17.5 கிலோ ஹஷிஷ் மற்றும் கொக்கெயின் மற்றும் தபால் பொதிகளில் மறைத்து வைக்கப்பட்டிருந்த 4.2 கிலோ  சிந்தடிக் போதைப்  பொருட்கள் ஆகியவை கைப்பற்றப்பட்டமைக்கு விமானநிலையம்  மற்றும் கொழும்பு மத்திய தபால் பரிமாற்ற நிலையத்தில் உள்ள இலங்கை சுங்கத்திணைக்கள அதிகாரிகளுக்கு பாராட்டுகள்.
-
-கைப்பற்றப்பட்ட போதைப் பொருட்களின் மொத்த பெறுமதி 1.6 மில்லியன் அமெரிக்க டொலர்கள் ஆகும்.
-
-...
-
-[Data](articles/3beedd68.json)
-
----
-
-### Sri Lanka should aim for under 15% - Sajith says after US tariff cut
-
-*2025-08-01 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111071/sri-lanka-should-aim-for-under-15-sajith-says-after-us-tariff-cut-) · `en`
-
-Leader of the Opposition Sajith Premadasa, Sajith Premadasa, has welcomed the recent decision by the United States to reduce the trade tariff imposed on Sri Lankan exports to 20 percent.
-
-In a post on ‘X’ (formerly Twitter), the SJB leader highlighted that this reduction places Sri Lanka on a competitive footing alongside countries like Vietnam and Bangladesh, while noting that India’s tariff rate remains at 25 percent.
-
-“Glad the U.S. cut tariffs to 20% for Sri Lankan goods. This puts us alongside Vietnam and Bangladesh, while India pays 25%,” he said.
-
-Premadasa further emphasized the need for Sri Lanka to aim for tariff rates below 15 percent to provide a substantial boost to the country’s exporters.
-
-“We should aim under 15% to give our exporters a real lift,” he stated.
-
-The opposition leader also called for the establishment of a dedicated team comprising trade economists and lead negotiators to proactively engage in ongoing trade discussions and ensure continued progress.
-
-...
-
-[Data](articles/ababbca2.json)
-
----
-
-### புதிய கல்விச் சீர்திருத்தத்தில் புத்தியும் இதயமும் கொண்ட பிள்ளைகளை உருவாக்க கவனம் செலுத்துங்கள் – அஸ்கிரி, மல்வத்து அனுநாயக்க தேரர்கள் பிரதமருக்கு வேண்டுகோள்
-
-*2025-08-01 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221532) · `ta`
-
-புத்தியை மட்டும் விருத்தி செய்யும் கல்வி முறைக்குப் பதிலாக, இதயத்தையும் விருத்தி செய்து, கருணையுடன் கூடிய போதிசத்துவ குணங்கள் கொண்ட குழந்தைகளை உருவாக்குவதற்குப் புதிய கல்விச் சீர்திருத்தத்தில் கவனம் செலுத்துமாறு அஸ்கிரி, மல்வத்து ஆகிய இரு மகா விகாரைகளின் அனுநாயக்க தேரர்கள் பிரதமர் கலாநிதி ஹரினி அமரசூரியவிடம் கேட்டுக்கொண்டனர்.
-
-புதிய கல்விச் சீர்திருத்தம் தொடர்பாக அஸ்கிரி மற்றும் மல்வத்து பீடங்களின் அனுநாயக்க தேரர்கள் மற்றும் காரக சங்க சபையின் துறவிகளுக்கு தெளிவூட்டுவதற்காக, கண்டியில் உள்ள தலதா மாளிகை வளாகத்தில் பிரதமர் கலாநிதி ஹரினி அமரசூரியாவின் பங்கேற்புடன் வியாழக்கிழமை (31) நடைபெற்ற கலந்துரையாடலின் போதே அனுநாயக்க தேரர்கள் இதனைத் தெரிவித்தனர்.
-
-புதிய கல்விச் சீர்திருத்தம் குறித்துச் சமூகத்தில் எழுந்துள்ள தவறான கருத்துக்கள், அதன் தற்போதைய நிலை மற்றும் அதன் உண்மையான தன்மை குறித்து பிரதமர் மற்றும் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவவினால் அஸ்கிரி, மல்வத்து இரு பீடங்களின் துறவிகளுக்கு இங்கு விளக்கமளிக்கப்பட்டது.
-
-...
-
-[Data](articles/f5b9dd27.json)
 
 ---

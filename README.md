@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 15:32:13**
+As of **2025-08-02 15:48:37**
 
 ## Newspaper Stats
 
-*Scraped **68,249** Articles*
+*Scraped **68,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,561
 adaderanalk | 8,443
 tamilmirrorlk | 9,898
 virakesarilk | 11,366
-adaderanasinhalalk | 11,749
+adaderanasinhalalk | 11,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,249 articles have been extended.
+61,973 (90.8%) of 68,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### දොඩංගොඩ ප්‍රාදේශීය සභාවේ සභපති ගමන්ගත් රථය අනතුරක
+
+*2025-08-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212940) · `si`
+
+දොඩංගොඩ ප්‍රාදේශීය සභාවේ සභාපතිවරයා ගමන්කළ රථය අද (02) උදෑසන 09.00ට පමණ අනතුරට ලක්ව තිබේ.
+
+අදාළ කැබ් රථය නෑබඩ ප්‍රදේශයේ සිට ගොවින්න ප්‍රදේශය දක්වා ගමන් කරමින් තිබියදී ඉදිරිපසින් පැමිණි ටිපර් රථයක පිටුපස කෙළවරේ ගැටී මාර්ගයෙන් ඉවතට පැන මෙම අනතුර සිදුව තිබු‍ණි.
+
+අනතුරෙන් කිසිදු පුද්ගලයෙකුට තුවාල සිදුව නොමැති අතර කැබ් රථයට සුළු හානි සිදුවී ඇත.
+
+අනතුරු සිදුවන අවස්ථාවේදී අදාළ කැබ් රථය සභාපතිවරයා විසින් පදවාගෙන ගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/80b88a89.json)
+
+---
 
 ### පොලීසියේ විශේෂ සෝදිසි මෙහෙයුම් ඊයේත්
 
@@ -1809,21 +1827,5 @@ Referring to the modification of the U.S. tariff rates earlier today, the parlia
 ...
 
 [Data](articles/735b8a23.json)
-
----
-
-### Instead of  44% , Sri Lanka today faces a US 20% tariff! President Disanayake has proved that he  can actually get into the ring and win!
-
-*2025-08-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86217) · `en`
-
-Donald Trump’s tariffs shook the world. Financial markets around the world plunged. The US stock market registered its largest two-day loss in history. Businesses and politicians were in panic.
-
-Sri Lanka was one of the worst affected. The Trump tariffs would have increased the cost of Sri Lankan exports to the US by 44% overnight. Equally catastrophically, the tariffs imposed on other countries were lower. Our exports would have faced the sixth highest tariff in the world. India was at 27%, Bangladesh 37% and Pakistan 30%. Sri Lanka’s hard earned recovery was about to be reversed. Tens of thousands of jobs were in jeopardy.
-
-Sri Lanka’s cards were weak, very weak. We export far more to the US than we import. We have some of the highest effective tariff rates in the world. Unlike China we do not have rare earths. Unlike the EU we do not have a large market to threaten retaliation.
-
-...
-
-[Data](articles/b9c20a9e.json)
 
 ---

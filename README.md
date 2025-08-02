@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 11:22:26**
+As of **2025-08-02 11:34:18**
 
 ## Newspaper Stats
 
-*Scraped **68,229** Articles*
+*Scraped **68,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,560
 adaderanalk | 8,440
-tamilmirrorlk | 9,896
+tamilmirrorlk | 9,897
 virakesarilk | 11,363
-adaderanasinhalalk | 11,740
+adaderanasinhalalk | 11,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,229 articles have been extended.
+61,973 (90.8%) of 68,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### ඇෆ්ගන් - පාකිස්තාන - UAE තුන්කොන් සටනක්
+
+*2025-08-02 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212931) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියට පෙර සූදානමක් ලෙස පාකිස්තානය, ඇෆ්ගනිස්තානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය අතර තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියක් පැවැත්වීමට නියමිතව ඇත.
+
+එක්සත් අරාබි එමීර් රාජ්‍ය ක්‍රිකට් ආයතනය තරගාවලියට සත්කාරකත්වය ලබාදෙන අතර, සියලුම තරග සාජාහිදී පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+තරගාවලිය ආරම්භ කරමින් පළමු තරගය අගෝස්තු 29වනදා පාකිස්තානය හා ඇෆ්ගනිස්තානය අතර පැවැත්වේ.
+
+පළමු වටයේදී සෑම කණ්ඩායමකටම තරග 2 බැගින් හිමිවන අතර, එහිදී ඉහළම ප්‍රසාද ලකුණු හිමිකරගන්නා කණ්ඩායම් දෙකට අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට හැකිය.
+
+මෙවර ආසියානු කුසලාන තරගාය සැප්තැම්බර් 9 සිට 28 දක්වා එක්සත් අරාබි එමීර් රාජ්‍යයේ දී පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/986342c3.json)
+
+---
+
+### செம்மணி பொருட்களை அடையாளங்காண பொதுமக்களுக்கு அழைப்பு
+
+*2025-08-02 11:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/செம்மணி-பொருட்களை-அடையாளங்காண-பொதுமக்களுக்கு-அழைப்பு/71-362181) · `ta`
+
+யாழில் மீட்கப்பட்ட மனித என்புக்கூட்டுத் தொகுதிகளுடன் கண்டெடுக்கப்பட்ட உடைகள் மற்றும் பிறபொருட்கள் என்பனவற்றை பொதுமக்களுக்கு காண்பித்து, அதன் மூலம் விசாரணை நடவடிக்கைகளுக்கு ஒத்துழைப்பை பெற்றுக்கொள்வதற்கு யாழ்ப்பாண நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+இதற்காக குற்றப்புலனாய்வு திணைக்களத்தின் மனிதக்கொலை விசாரணைப் பிரிவின் நிலையப் பொறுப்பதிகாரி நீதிமன்றுக்குச் செய்த விண்ணப்பத்துக்கு, யாழ்ப்பாணம் நீதவான் நீதிமன்றம் அனுமதியை வழங்கியுள்ளது.
+
+அதற்கமைய, செம்மணிப் பிரதேசத்தில் அமைந்துள்ள அரியாலை சித்துப்பாத்தி இந்து மயானத்தில் 2025 ஆகஸ்ட் 05ஆம் திகதி பிற்பகல் 1:30 முதல் மாலை 5 மணிவரை குறித்த உடைகள் மற்றும் பிறபொருட்கள் காட்சிப்படுத்தப்படவுள்ளன.
+
+அவற்றைப் பார்வையிட்டு, அதிலுள்ள பொருட்களை அடையாளம் காணும்பட்சத்தில், நீதிமன்றுக்கு அல்லது குற்றப்புலனாய்வுப் பிரிவினருக்கு, அறிவித்து, விசாரணைக்கு ஒத்துழைப்பு வழங்குமாறு பொது மக்களிடம் கோரப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/1a7bc2cd.json)
+
+---
+
+### සැකකාර කාන්තාවකගේ කෝටි 03ක වත්කම් තහනම් කෙරේ
+
+*2025-08-02 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212930) · `si`
+
+පිළියන්දල, බෝකුන්දර ප්‍රදේශයේ පදිංචි කාන්තාවක් මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගන්නා ලද මුදලින් දේපොළ හා වත්කම් මිලදී ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 29 වනදා මෙම සැකකාරිය නීතිවිරෝධි වත්කම් විමර්ශන කොට්ඨාසයට ලද පැමිණිල්ලක් මත මුදල් විශුද්ධිකරණ පනත යටතේ අත්අඩංගුවට ගෙන ඇත.
+
+එලෙස අත්අඩංගුවට ගත් සැකකාරිය බෝකුන්දර, පිළියන්දල ප්‍රදේශයේ වයස 36 හැවිරිදි කාන්තාවකි.
+
+විමර්ශනයට අදාළව සැකකාරියගේ පෙර වැරදි සම්බන්ධව විමර්ශනයේදී හෙරොයින් මත්ද්‍රව්‍ය සමඟ පොලිස් අත්අඩංගුවට පත්වී අධිකරණයේ නඩු පවරා ඇති බවට අනාවරණය වී ඇතැයි පොලීසිය.
+
+තවද සැකකාරිය නීතිවිරෝධී ආකාරයට උපයා ගන්නා ලද රුපියල් කෝටි 03ක පමණ මුදලින් මිලට ගත් පිලියන්දල ප්‍රදේශයේ පිහිටි ඉඩමක් පසුගිය 09 වනදා සිට දින 07ක කාලයක් මුදල් විශුද්ධිකරණ පනත ප්‍රකාරව ක්‍රියා විරහිත කර තිබූ අතර මේ සම්බන්ධව හෝමාගම මහාධිකරණය වෙත කරුණු වාර්තා කිරීමෙන් පසු එම ක්‍රියා විරහිත කිරීමේ නියෝගය 2025.10.15 වන දින දක්වා දීර්ඝ කර බලාත්මක කර තිබේ.
+
+...
+
+[Data](articles/c6011903.json)
+
+---
 
 ### නීති විරෝධී ධීවර කටයුතුවල යෙදුණු 22ක් නාවික හමුදා භාරයට
 
@@ -1753,65 +1811,5 @@ As Sri Lanka grapples with its fragile economic recovery, the latest outcome of 
 ◼️
 
 [Data](articles/802f0592.json)
-
----
-
-### Sri Lanka court extends block on winding up SriLankan Airlines till Sept 03
-
-*2025-08-01 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-court-extends-block-on-winding-up-srilankan-airlines-till-sept-03-234180/) · `en`
-
-ECONOMYNEXT – A Sri Lanka court has extended an enjoining order preventing SriLankan Airlines being wound up over a bond default till September 03.
-
-Representatives acting for the Trustees of the bond had earlier demanded full payment of 209 million dollars on defaulted 175 million dollar bond and interest and indicated that they would seek to wind up SriLankan Airlines.
-
-Lawyers for SriLankan Arilines told court that under Sri Lanka company law, the representatives acting for bondholders have no standing to wind up the airline, and the government was in negotiations with the bondholders.
-
-Romesh de Silva, President counsel with manjuka Fernandopulle and Niran Anketell  instructed by Sanath Wijewardena appeared for Sri Lankan Airlines. (Colombo/Aug01/2025)
-
-◼️
-
-[Data](articles/c9389019.json)
-
----
-
-### பல மாகாணங்களுக்கு கடும் மின்னல் தாக்கம் தொடர்பில் எச்சரிக்கை
-
-*2025-08-01 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221543) · `ta`
-
-வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அம்பாந்தோட்டை மாவட்டத்திலும் இன்று வெள்ளிக்கிழமை கடும் மின்னல் தாக்கம் தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
-
-அதன்படி,  இன்றைய தினம்  இரவு 11.00 மணி வரை அமுலில் உள்ள வானிலை முன்னறிவிப்பின்படி, மேற்படி மாகாணங்களிலும் மாவட்டத்திலும் பல இடங்களில் கடும் மின்னல் தாக்கம்  இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளது என  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
-
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் பொதுமக்கள் பின்வரும் அறிவுரைகளைப் பின்பற்றுமாறு வளிமண்டலவியல் திணைக்களம் ஆலோசனை வழங்குகின்றது.
-
-• திறந்தவெளிகளில் நடமாடுவதை குறைத்துக் கொள்ளவும். மரங்களின் கீழ் ஒருபோதும் நிற்க வேண்டாம்.
-
-• இடி முழக்கத்தின் போது நெல்வயல்கள், தேயிலைத் தோட்டங்கள், திறந்த நீர்நிலைகள் போன்றவற்றைத் தவிர்த்துக் கொள்ளவும்.
-
-...
-
-[Data](articles/333c10e5.json)
-
----
-
-### World shares retreat after Trump’s order imposing new tariffs on 68 countries and EU
-
-*2025-08-01 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111072/world-shares-retreat-after-trumps-order-imposing-new-tariffs-on-68-countries-and-eu) · `en`
-
-World shares retreated Friday after President Donald Trump issued a new set of import duties that will apply to dozens of countries as of Aug. 7.
-
-U.S. futures fell 0.9% after Trump announced tariff rates of up to 41% for imports from 68 countries and the European Union. He also said the tariff for products from Canada would rise to 35%, effective Friday.
-
-Investors were looking ahead to U.S. payrolls data due out later in the day.
-
-The order pushed back the tariff deadline earlier set for Aug. 1 and injected a new dose of uncertainty in an already unpredictable process that has been rattling markets since Trump returned to the White House in January.
-
-This is not the end of the story, Stephen Brown of Capital Economics said in a commentary, adding that “this is unlikely to be the final word, as it still seems likely that some other countries will reach their own deals with the U.S., while there is a chance that the U.S. courts will eventually strike down these tariffs.
-
-...
-
-[Data](articles/55595bf1.json)
 
 ---

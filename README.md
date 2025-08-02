@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 21:31:40**
+As of **2025-08-02 21:48:59**
 
 ## Newspaper Stats
 
-*Scraped **68,279** Articles*
+*Scraped **68,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
 adaderanalk | 8,448
-tamilmirrorlk | 9,900
+tamilmirrorlk | 9,901
 virakesarilk | 11,375
 adaderanasinhalalk | 11,761
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,279 articles have been extended.
+61,973 (90.8%) of 68,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### துப்பாக்கிச்சூட்டில் ஒருவர் மரணம் : சுட்டவர் சரண்
+
+*2025-08-02 21:22:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்-சுட்டவர்-சரண்/175-362186) · `ta`
+
+அம்பலாந்தோட்டை, ஹூங்கம, பிங்கம பகுதியில் இன்று (2) இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+தனிப்பட்ட தகராறு காரணமாக இந்த துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+துப்பாக்கிச் சூடு நடத்திய நபர் பின்னர் துப்பாக்கியுடன் ஹூங்கம பொலிஸ் நிலையத்தில் சரணடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/fce2e266.json)
+
+---
 
 ### பிரபல நடிகர் மதன் பாபு காலமானார்
 
@@ -1835,19 +1851,5 @@ The Minister made these remarks during the meeting of the Ministerial Consultati
 ...
 
 [Data](articles/6fbdea25.json)
-
----
-
-### Sirimavo Bandaranaike: The “Weeping Widow”  who Became the World’s First Woman Prime Minister 65 Years ago.
-
-*2025-08-01 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86212) · `en`
-
-History was made 65 years ago in   July 1960 when 44 year old  Sirimavo Bandaranaike assumed office as the prime minister of Sri Lanka known then as Ceylon. Sirimavo shattered a glass ceiling by becoming the world’s first elected  woman Prime minister. It is said that the British press coined a new word “stateswoman” after Sirimavo became PM.
-
-The first paragraph of a news report in the prestigious British newspaper ‘Guardian’ dated 22 July 1960 stated as follows: “Mrs. Sirima Bandaranaike, Leader of the Sri Lanka Freedom Party, made history today when she became the world’s only woman Prime Minister. She is the sixth Prime Minister of Ceylon since independence in 1947. Her party secured 75 of the 151 elected seats and will be supported by eight other elected members and six appointed members. This will give her an absolute majority in the House of Representatives.”
-
-...
-
-[Data](articles/1c19e838.json)
 
 ---

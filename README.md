@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 14:49:32**
+As of **2025-08-02 15:06:59**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-02 (Saturday)
 
-### මත්ද්‍රව්‍ය ජාවාරමේ නිතර චීන ජාතිකයෙකු අත්අඩංගුවට
+### මත්ද්‍රව්‍ය ජාවාරමේ නිරත චීන ජාතිකයෙකු අත්අඩංගුවට
 
 *2025-08-02 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212937) · `si`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 10:28:25**
+As of **2025-08-02 10:50:45**
 
 ## Newspaper Stats
 
-*Scraped **68,223** Articles*
+*Scraped **68,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,560
 adaderanalk | 8,435
 tamilmirrorlk | 9,896
 virakesarilk | 11,363
-adaderanasinhalalk | 11,739
+adaderanasinhalalk | 11,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,223 articles have been extended.
+61,973 (90.8%) of 68,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### නීති විරෝධී ධීවර කටයුතුවල යෙදුණු 22ක් නාවික හමුදා භාරයට
+
+*2025-08-02 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212929) · `si`
+
+තහනම් ධීවර දැල්, පුපුරණ ද්‍රව්‍ය, කිමිදුම් උපකරණ සහ නීති විරෝධි පන්නාක්‍රම භාවිතයෙන් ධීවර කර්මාන්තයේ යෙදුණු  පුද්ගලයන් 22ක් සමග ඩිංගි යාත්‍රා 5ක් නාවික හමුදාව විසින් සිය භාරයට ගෙන ඇත.
+
+නාවික හමුදාව, පොලීසිය සහ ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පසුගිය ජූලි 23 - 31 කාලය තුළ මෙරට මුහුදු සීමාව ආවරණය වන පරිදි මෙම වැටලීම් සිදුකර තිබේ.
+
+මෙම වැටලීම්වලදී අලෙවි කිරීමට සූදානම් කළ තහනම් ධීවර දැල් 210ක් සමග තවත් පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන ඇත.
+
+ත්‍රිකුණාමලය කොඩ්බේ, කුඹුරුපිඩ්ඩි, කින්නියා, මූතූර් සහ මන්නාරම කකරතිව් යන වෙරළ හා මුහුදු ප්‍රදේශ ආවරණය වන පරිදි මෙම මෙහෙයුම් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/3e366cc6.json)
+
+---
 
 ### ගිලන් රථයක් ත්‍රීරෝද රියක ගැටීමෙන් 11ට තුවාල
 
@@ -1797,25 +1815,5 @@ The opposition leader also called for the establishment of a dedicated team comp
 ...
 
 [Data](articles/f5b9dd27.json)
-
----
-
-### Sri Lanka to continue trade discussions with US after tariff relief – Finance Secretary
-
-*2025-08-01 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111070/sri-lanka-to-continue-trade-discussions-with-us-after-tariff-relief-finance-secretary) · `en`
-
-The United States has announced a reduction in the reciprocal tariff rate imposed on goods imported from Sri Lanka, lowering it from 30 percent to 20 percent.
-
-According to a statement issued by the White House, the revised tariff rate will come into effect on August 7.
-
-Commenting on the development, the Secretary to Sri Lanka’s Ministry of Finance, Dr. Harshana Suriyapperuma, stated:
-
-“Along with the challenges we face, new opportunities have also emerged. This development reflects a mutual willingness by both countries to pursue shared benefits.”
-
-“We view this as a significant achievement for Sri Lanka, and we intend to continue these discussions going forward,” he added.
-
-◼️
-
-[Data](articles/15f68552.json)
 
 ---

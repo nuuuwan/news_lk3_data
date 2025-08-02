@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 10:09:03**
+As of **2025-08-02 10:28:25**
 
 ## Newspaper Stats
 
-*Scraped **68,221** Articles*
+*Scraped **68,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,167
 economynextcom | 4,176
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,558
+adalk | 6,560
 adaderanalk | 8,435
 tamilmirrorlk | 9,896
 virakesarilk | 11,363
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,221 articles have been extended.
+61,973 (90.8%) of 68,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### ගිලන් රථයක් ත්‍රීරෝද රියක ගැටීමෙන් 11ට තුවාල
+
+*2025-08-02 10:02:10* · [`adalk`](https://www.ada.lk/breaking_news/ගිලන්-රථයක්-ත්‍රීරෝද-රියක-ගැටීමෙන්-11ට-තුවාල/11-417664) · `si`
+
+දිවුලපැලැස්ස  මහියංගන ප්‍රධාන මාර්ගයේ හෙබරව ප්‍රදේශයේ  දී අද (1) රාත්‍රි රෝගින් පිරිසක් රැගෙන යමින් තිබු ගිලන් රථයක් ත්‍රිරෝද රථයක ගැටීමෙන් 11 දෙනෙකු තුවාල ලබා මහියංගන රෝහලට ඇතුලත් කල බව දිවුලපැලස්ස පොලිසිය පවසයි .
+
+අනතුරින් ත්‍රිරෝද රථයේ ගමන් ගත් අවුරුදු එකහමාරක් සහ දෙකහමාරක් වයස කුඩා දරුවන් දෙදෙනකු සමග ගිලන් රථයේ රියසහයක සහ හෙද නිළධාරිනියක තුවාල නොලබා බේරී ඇතයි පොලිසිය කීය .
+
+විල්ගමුව ප්‍රාදේශීය රෝහලට අයත් මෙම ගිලන් රථයේන් රෝගින් පිරිසක්  විල්ගමුව රෝහලේ සිට මහියංගන රෝහලට රැගෙන යමින් සිටියදී නාවල තැලිගම ප්‍රදේශයේ සිට රොටලවෙල නෑදෑ ගෙදරක යමින් සිටි එකම පවුලේ පිරිසක් ගමන් ගත් ත්‍රිරෝද රථයක් ගැටිමෙන් මෙම අනතුර සිදුව ඇති බවත් පොලිසිය සදහන් කලේය .
+
+අනතුරින් ගිලන් රථ රියදුරු , හෙද නිළධාරිනියක,රෝගින් හයදෙනෙකු ද ත්‍රිරෝද රථය පදවාගෙන ගිය 62 හැවිරිදි පියෙකු සමග අවුරුදු 28, 32 වයසේ පසුවන දියණියන් දෙදෙනකු තුවාල ලබා  ඇතයි පොලිසිය පැවසීය .
+
+ගිලන් රථයට සහ ත්‍රිරෝද රථය ට අනතුරින් දැඩි ලෙස අලාභහානි වී තිබේ.
+
+◼️
+
+[Data](articles/0d29b9bd.json)
+
+---
 
 ### ICE போதைப்பொருளுடன் வெளிநாட்டவர் கைது
 
@@ -48,11 +68,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-02 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212928) · `si`
 
-රුසියානු හිටපු ජනාධිපති දිමිත්‍රි මෙද්වෙදෙව් සිදුකළ ප්‍රකෝපකාරී ප්‍රකාශයකට ප්‍රතිචාර වශයෙන් න්‍යෂ්ටික සබ්මැරීන දෙකක්, සුදුසු ස්ථානයක ස්ථානගත කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් නියෝග කර තිබේ.
+න්‍යෂ්ටික සබ්මැරීන දෙකක් රුසියානු සීමාව තුළ ස්ථානගත කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් නියෝග කර තිබේ.
 
-මොස්කව්හි අවසාන විසඳුම සෝවියට් යුගයේ න්‍යෂ්ටික ප්‍රහාරක හැකියාවන් බව ට්‍රම්ප් මතක තබා ගත යුතු යැයි මෙද්වෙදෙව් ඉකුත් බ්‍රහස්පතින්දා පැවසීය.
+රුසියානු හිටපු ජනාධිපති දිමිත්‍රි මෙද්වෙදෙව් සිදුකළ ප්‍රකෝපකාරී ප්‍රකාශයන්ට ප්‍රතිචාර වශයෙන් මෙම තීරණය ගෙන ඇත.
 
-එම ප්‍රකාශයට ප්‍රතිචාර ලෙස අමෙරිකාවේ ආරක්ෂාව උදෙසා මෙලෙස න්‍යෂ්ටික සබ්මැරීන දෙක ස්ථානගත කිරීමට ට්‍රම්ප් ජනාධිපතිවරයාගෙන් උපදෙස් ලැබී තිබේ.
+රුසියානු හිටපු ජනාධිපති දිමිත්‍රි මෙද්වෙදෙව් පසුගියදා ප්‍රකාශ කර ඇත්තේ, මොස්කව්හි අවසාන විසඳුම සෝවියට් දේශයේ න්‍යෂ්ටික ප්‍රහාරක හැකියාවන් බව ට්‍රම්ප් මතක තබා ගත යුතු බවය.
+
+එම ප්‍රකාශයට ප්‍රතිචාර ලෙස ආරක්ෂිත පියවරක් ලෙස මෙලෙස අමෙරිකාවේ ආරක්ෂාව උදෙසා මෙලෙස න්‍යෂ්ටික සබ්මැරීන දෙකක් රුසියානු සීමාව තුළ ස්ථානගත කර තිබේ.
 
 ◼️
 
@@ -183,6 +205,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cbe023c8.json)
+
+---
+
+### කථානායක නිල නිවස පර්යේෂණ මධ්‍යස්ථානයක්  කිරීමට යයි
+
+*2025-08-02 07:29:37* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-නිල-නිවස-පර්යේෂණ-මධ්‍යස්ථානයක්--කිරීමට-යයි/11-417663) · `si`
+
+කථානායකවරයාගේ නිල නිවස  "පාර්ලිමේන්තු අධ්‍යයන සහ පර්යේෂණ මධ්‍යස්ථානයක්"  බවට  පරිවර්තනය කිරීම පිළිබඳව  යෝජිත වැඩපිළිවෙළට පාර්ලිමේන්තු  කාර්ය මණ්ඩල උපදේශක කාරක සභාවේ ප්‍රතිපත්තිමය එකඟතාව හිමි විය.
+
+ඒ අනුව මාස හයක ආරම්භක කාලයක් සඳහා මධ්‍යස්ථානයේ පදනම් රාමුව සැලසුම් කිරීම සහ ව්‍යුහගත කිරීම සම්බන්ධීකරණය, උපදෙස් දීම සහ මෙහෙයවීම සඳහා විශ්‍රාමික ජ්‍යෙෂ්ඨ රජයේ නිලධාරියෙකු ව්‍යාපෘති කළමනාකරුවෙකු ලෙස  පත්කිරීමටද  කාරක සභාවේ අනුමතිය හිමිවිය.
+
+මෙම කරුණු සාකච්ඡා වුයේ  2025.07.24 දින කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේදී එම යෝජනාව  සළකාබැලූ  අවස්ථාවේදීය.
+
+රජයේ සියලු අංශ ඔස්සේ  ව්‍යවස්ථාදායක සහ ආණ්ඩුකරණ හැකියාවන් ශක්තිමත් කිරීමේ මූලික ඉලක්කය ඇතිව මෙම  යෝජිත මධ්‍යස්ථානය මගින් ,  උසස් පර්යේෂණ පහසුකම්, විශේෂිත පුහුණුව සහ ප්‍රතිපත්ති විශ්ලේෂණයන් සඳහා ප්‍රවේශය සැපයීම සිදු කිරීමට අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/7cc21af6.json)
 
 ---
 
@@ -1777,41 +1817,5 @@ Commenting on the development, the Secretary to Sri Lanka’s Ministry of Financ
 ◼️
 
 [Data](articles/15f68552.json)
-
----
-
-### සවස් කාලයේ දී ප්‍රදේශ කිහිපයකට තද වැසි
-
-*2025-08-01 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212903) · `si`
-
-උතුරු, උතුරු - මැද, ඌව, නැගෙනහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් කුරුණෑගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මි. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව වාර්තා වේ.
-
-එමෙන්ම බස්නාහිර පළාතේත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකියි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර ඇත.
-
-◼️
-
-[Data](articles/89ec3b51.json)
-
----
-
-### Piumi Hansamali & Viranjith Thambugala to be indicted for tax evasion
-
-*2025-08-01 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111069/piumi-hansamali-viranjith-thambugala-to-be-indicted-for-tax-evasion) · `en`
-
-The Inland Revenue Department (IRD) has informed the Colombo Magistrate’s Court that it intends to file a case before the Colombo High Court against well-known model Piumi Hansamali and prominent businessman Viranjith Thambugala, for alleged non-payment of income taxes amounting to over Rs. 400 million.
-
-According to the IRD, both individuals are accused of evading income tax payments for the financial years 2022 and 2023.
-
-The case was taken up yesterday (01) before Colombo Additional Magistrate Pasan Amarasena, during which progress reports on the ongoing investigations into tax-related offences were presented.
-
-Senior Counsel Dinesh Perera, appearing on behalf of the Commissioner General of Inland Revenue, informed the court that investigation reports concerning the alleged tax evasion by Hansamali and Thambugala had been submitted to the Attorney General, and that the department intends to proceed with filing indictments before the Colombo High Court.
-
-...
-
-[Data](articles/e6ed3b52.json)
 
 ---

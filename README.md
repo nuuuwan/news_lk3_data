@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 20:32:08**
+As of **2025-08-02 20:48:04**
 
 ## Newspaper Stats
 
-*Scraped **68,274** Articles*
+*Scraped **68,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
-adaderanalk | 8,447
+adaderanalk | 8,448
 tamilmirrorlk | 9,899
-virakesarilk | 11,373
+virakesarilk | 11,375
 adaderanasinhalalk | 11,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,274 articles have been extended.
+61,973 (90.8%) of 68,277 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a5df7f8a.json)
+
+---
+
+### One dead, five trapped in Chile copper mine collapse
+
+*2025-08-02 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111100/one-dead-five-trapped-in-chile-copper-mine-collapse) · `en`
+
+A collapse at a copper mine in Chile has killed one worker and left five trapped underground, forcing the country’s state mining company to suspend operations in affected areas of the world’s largest underground copper deposit.
+
+Nine other mine workers suffered injuries, said Chile’s National Copper Corp., known as Codelco, describing the incident as the result of “a seismic event.”
+
+The US Geological Survey reported a magnitude 5.0 earthquake in an area of central Chile where Codelco’s El Teniente mine is located, at 5.34pm local time on Thursday. Codelco reported the tremor had a magnitude of 4.2.
+
+Authorities were still investigating whether it was a naturally occurring earthquake or whether mining activity at Codelco’s flagship El Teniente mine caused the quake. Chilean prosecutors also launched a criminal investigation to determine whether any safety standards were violated.
+
+...
+
+[Data](articles/142a853a.json)
 
 ---
 
@@ -176,6 +194,28 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 
 ---
 
+### விசுவமடு பகுதியில் சட்டவிரோத கசிப்பு விற்பனை நிலையம் ; மோட்டார் சைக்கிளுடன் இருவர் கைது
+
+*2025-08-02 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221636) · `ta`
+
+விசுவமடு மாணிக்கபுரம் பகுதியில் உள்ள சட்டவிரோத கசிப்பு விற்பனை நிலையம் மீது நடத்திய திடீர் சோதனையில், கசிப்புடன் இரண்டு பேர் சனின்கிழமை (02) கைது செய்யப்பட்டுள்ளனர்.
+
+புதுக்குடியிருப்பு பொலிஸ் நிலைய பொறுப்பதிகாரி எம்.பி.ஆர். ஹேரத்திற்குக் கிடைத்த தகவலையடுத்து, மேற்கொண்ட நடவடிக்கையின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்களிடம் இருந்து,மாணிக்கபுரத்தில் விற்பனைக்காக தயாராக இருந்த 30 லீற்றர் கசிப்பு, அதற்காக பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள், மற்றும் ஆவணங்கள் இன்றி இருந்த மற்றொரு மோட்டார் சைக்கிள் ஆகியவை கைப்பற்றப்பட்டன.
+
+கைது செய்யப்பட்டவர்கள் விசுவமடு ரெட்பானா பகுதியைச் சேர்ந்த 51 மற்றும் 56 வயதுடையவர்கள் ஆவர்.
+
+கைது செய்யப்பட்டவர்கள் மீது விசாரணைகள் நடைபெற்று வரும் நிலையில், அவர்கள் நாளைய தினம் (03)  முல்லைத்தீவு நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளனர்.
+
+மேலும், குறித்த கிராமத்தில் இளைஞர்கள் , விளையாட்டு கழகங்கள், கிராம மக்கள் இணைந்து சட்டவிரோத சகிப்பு உற்பத்தியை ஒழிப்பதற்கு ஆர்வமாக இருப்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b8a38dc4.json)
+
+---
+
 ### අගමැතිනිය යාපනයේ සංචාරයක
 
 *2025-08-02 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212946) · `si`
@@ -189,6 +229,22 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 ...
 
 [Data](articles/ff85e96e.json)
+
+---
+
+### சுங்கத் திணைக்களத்துக்கு 7 மாதங்களில் 1200 பில்லியன் ரூபா வருமானம் - சுங்க பேச்சாளர் சீவலி அருங்கொட
+
+*2025-08-02 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221622) · `ta`
+
+சுங்கத் திணைக்களம் 7 மாதங்களில் 1200 பில்லியன் ரூபாவுக்கும் அதிக வருமானத்தைப் பெற்றுள்ளது. குறிப்பாக ஜூலை மாதத்தில் மாத்திரம் 231 பில்லியன் ரூபா அதிகூடிய வருமானம் கிடைத்துள்ளது. அந்த வகையில் இவ்வாண்டு சுங்கத் திணைக்களத்துக்கான வருமான இலக்கை இலகுவாக அடைய முடியும் என சுங்க பேச்சாளர் சீவலி அருங்கொட தெரிவித்தார்.
+
+கொழும்பில் சனிக்கிழமை (02) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+2025 ஆகஸ்ட் முதலாம் திகதி வரை 1227 பில்லியன் ரூபா வருமானத்தை இலங்கை சுங்க திணைக்களம் வருமானமாகப் பெற்றுள்ளது. கடந்த ஜூலை வரலாற்றில் முதன் முறையாக ஒரே மாதத்தில் அதிக வருமானமாக 231 பில்லியன் ரூபா சுங்கத் திணைக்களத்துக்கு கிடைக்கப் பெற்றுள்ளது. இதற்கு முன்னர் எந்தவொரு சந்தர்ப்பத்திலும் ஒரே மாதத்தில் இவ்வாறு அதிகூடிய கிடைக்கப் பெற்றதில்லை. இவ்வாண்டு எமது வருமான இலக்கு 2115 பில்லியன் ரூபாவாகும்.
+
+...
+
+[Data](articles/1704a4f7.json)
 
 ---
 
@@ -1785,63 +1841,5 @@ Attract and retain high-value clients by delivering personalized digital solutio
 ...
 
 [Data](articles/c669d249.json)
-
----
-
-### Siyapatha Finance opens 54th branch in Kaduwela
-
-*2025-08-01 20:33:00* · [`islandlk`](http://island.lk/siyapatha-finance-opens-54th-branch-in-kaduwela/) · `en`
-
-Premier finance company Siyapatha Finance PLC recently opened its newest branch in Kaduwela, expanding its islandwide network to 54 branches. Situated in the heart of a progressive suburb of Colombo, the Kaduwela branch offers Siyapatha’s customer-centric financial solutions ranging from leasing, fixed deposits, savings, gold financing, business loans, personal loans, fast draft, and factoring to Smart Pay and bill payment facility.
-
-The opening ceremony was graced by Siyapatha Finance PLC Managing Director, Ananda Seneviratne, Director, Jayanath Gunawardena, Director, Ms. Sriyani Ranathunga, Chief Operating Officer, Rajeev De Silva, Senior Management and staff as well as Kaduwela government officials including ASP S.A.R Samaranayake, Kaduwela Police OIC , Kaan Weerasinghe, Trade Association President, Nishantha Guruge, along with officials from government and private banks and insurance companies.
-
-...
-
-[Data](articles/d1da5a3a.json)
-
----
-
-### පොලිසියේ පුරප්පාඩු  28000ක් 5000ක් කඩිනමින් පුරවයි
-
-*2025-08-01 20:31:53* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-පුරප්පාඩු--28000ක්-5000ක්-කඩිනමින්-පුරවයි/11-417661) · `si`
-
-ශ්‍රී ලංකා පොලිසියේ මේවන විට පුරප්පාඩු 28000කට ආසන්න ප්‍රමාණයක් පවතින බවත් ඉන් පුරප්පාඩු 5000ක් කඩිනමින් පිරවීමට පියවර ගෙන ඇති බවත් මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා  පසුගියදා  පැවසීය.
-
-මේ වන විට ඒ සඳහා අමාත්‍ය මණ්ඩල අනුමතිය ලැබී අදාළ කටයුතු ආරම්භ කොට ඇති බවත් මේ වසර තුළ මෙම පිරිස බඳවා ගැනීම සිදු කරන බවත් අමාත්‍යවරයා පැවසීය. එසේම සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවේ සේවය කරන අය අතුරින් 10,000ක පිරිසක් පොලිස් සේවයට අනුයුක්ත කිරීමට අපේක්ෂා කරන බවත් ඒ මහතා සඳහන් කළේය.
-
-අමාත්‍යවරයා මේ බව පවසා සිටියේ ඒ මහතා‍ගේ සභාපතීත්වයෙන් සහ නියෝජ්‍ය අමාත්‍ය නීතීඥ සුනිල් වටගල මහතාගේ සභභාගීත්වයෙන් පසුගියදා (25) පාර්ලිමේන්තුවේ පැවති මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේදී ය.
-
-පොලිස් සේවයේ පවතින ගැටලු සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් කාරක සභාවේදී ඉදිරිපත් කළ විමසීම්වලට පිළිතුරු ලබා දෙමින් විජේපාල මහතා මේ බව සඳහන් කළේය.
-
-...
-
-[Data](articles/988e8b08.json)
-
----
-
-### දුම්රිය මැදිරියක වැසිකිළියක තිබී බිළි﻿ඳියකගේ මළ සිරුරක් හමුවෙයි
-
-*2025-08-01 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212915) · `si`
-
-මාලිගාවත්ත දුම්රිය අංගණයේ ගාල්කර තිබූ දුම්රියක තුන්වන මැදිරියේ වැසිකිළියකින් බිළි﻿ඳියකගේ මළ සිරුරක් අද (01) හමුවී තිබේ.
-
-පුත්තලමේ සිට අද උදෑසන ගල්කිස්ස බලා පැමිණි අංක 8346 දරණ දුම්රිය, ගමන නිමාකිරීමෙන් පසු මාලිගාවත්ත දුම්රිය අංගණයේ ගාල්කර තිබේ.
-
-එහිදී දුම්රිය පිරිසිදු කිරීමට එක්වූ සේවයන් පිරිසකට දුම්රියේ තුන්වන පන්තියේ මැදිරියක් දෙසින් දැඩි දුර්ගන්ධයක් දැනී ඇති අතර ඒ අනුව කළ පරික්ෂාවේදී ඔවුන් දැක ඇත්තේ කුඩා බිළිඳියක් මල්ලක දමා වැසිකිළියේ අතැර ගොස් තිබූ අයුරුය.
-
-මියගිය බිළිඳිය පිළිබඳ මෙම සේවකයන් වහාම දෙමටගොඩ පොලිසිය දැනුම්වත් කළ අතර ඒ අනුව විමර්ශන ආරම්භ කෙරිණි.
-
-මූලික විමර්ශන අනුව හෙළිවී ඇත්තේ ඇය දින තුනක් පමණ වයසැති බිළිඳියක් බවය.
-
-සිරුරේ පෙකණි වැලේ කොටසක් ද ඇති බව පොලිසිය නිරීක්ෂණය කර තිබුණි.
-
-දරුවා බහා තිබූ මල්ල විනිවිද පෙනෙන එකක් වූ අතර එය තීරු බදු රහිත හෙවත් DUTY FREE වෙළෙඳසැලකින් ලබාගත් බෑගයක් බවට හඳුනාගෙන තිබේ.
-
-එහි තිබූ QR කේතයක් ස්කෑන්කර බැලීමේදී එය ඩුබායි රාජ්‍යයට අයත් DUTY FREE බෑගයක් බව තහවුරු කරගත් බව පොලිසිය පැවසුවේය.
-
-...
-
-[Data](articles/50a504a2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 19:47:51**
+As of **2025-08-02 20:06:00**
 
 ## Newspaper Stats
 
-*Scraped **68,272** Articles*
+*Scraped **68,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 4,167
 economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,561
+adalk | 6,562
 adaderanalk | 8,447
 tamilmirrorlk | 9,899
 virakesarilk | 11,373
-adaderanasinhalalk | 11,759
+adaderanasinhalalk | 11,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,272 articles have been extended.
+61,973 (90.8%) of 68,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### ගල්කිස්ස ඝාතනයේ සැකකරුවන් ප්‍රදේශයෙන් පළායයි
+
+*2025-08-02 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212950) · `si`
+
+ගල්කිස්ස පොලිස් වසමේ අරලිය නිවාස ප්‍රදේශයේදී දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් පුද්ගලයෙකු මියයාමේ සිද්ධියට අදාළ සැකකරුවන් ප්‍රදේශයෙන් පළා ගොස් ඇති බව පොලීසිය පවසයි.
+
+ඝාතනයට සම්බන්ධ සැකකරුවන් පස්දෙනෙක් හඳුනාගෙන ඇති අතර ඒ අතර කාන්තාවන් දෙදෙනෙකු ද වන බව පොලිසිය සඳහන් කළේය.
+
+මේ වන විට ප්‍රදේශයෙන් පලාගොස් ඇති සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+ඊයේ (01) සවස් කාලයේදී මෙම සිදුවීම සිදුව ඇති අතර තියුණු ආයුධවලින් පහරදීම හේතුවෙන් අදාළ පුද්ගලයින් දෙදෙනා බරපතළ තුවාල සහිතව ලුනාව රෝහලට ඇතුලත් කර තිබුණි.
+
+ගල්කිස්ස පොලීසිය සඳහන් කළේ, තුවාලකරුවන්ගෙන් එක් පුද්ගලයෙකු ලුනාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බවත් තුවාල ලැබූ අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුලත් කෙරුණු බවත් ය.
+
+මෙසේ පහර කෑමට ලක්ව ඇත්තේ එකම පවුලේ සහෝදරයින් දෙදෙනෙක් වන අතර එහිදී මිය ගොස් ඇත්තේ 28 හැවිරිදි වැඩිමහල් සොහොයුරා ය.
+
+එම පහරදීමෙන් තුවාල ලැබූ පහලොස් හැවිරිදි පාසල් සිසුවාද මේ වන විට රෝහල්ගතව ප්‍රතිකාර ලබන බව සඳහන් වේ.
+
+...
+
+[Data](articles/e03d0f73.json)
+
+---
 
 ### වසර 38කට පසු අන්තර් පාසල් ලීග් රග්බි ශූරතාව මහනුවර ත්‍රිත්ව විදුහලට
 
@@ -415,6 +439,24 @@ Police further confirmed that the suspect had initially arrived in Sri Lanka in 
 ◼️
 
 [Data](articles/80b88a89.json)
+
+---
+
+### එල්.පී.එල්. නොවැම්බරයේදී
+
+*2025-08-02 15:12:30* · [`adalk`](https://www.ada.lk/sports/එල්-පී-එල්--නොවැම්බරයේදී/9-417666) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් (LPL) හි 6වන අදියර  නොවැම්බර් 27 සිට දෙසැම්බර් 23 දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+
+තරගාවලියේ තරග කොළඹ ආර් ප්‍රේමදාස පිටිය, පල්ලෙකැල් ක්‍රීඩාංගණය හා දඹුල්ලේදී මෙම තරගාවලියේ තරග පැවත්වෙයි.
+
+2026 T20 ලෝක කුසලානය අරමුණුකර ගනිමින් මෙවර තරගාවලිය සංවිධානය කර තිබේ. ජාත්‍යන්තර ආකර්ෂණයක්  සහිත ශ්‍රී ලංකාවේ ප්‍රමුඛතම දේශීය T20 තරඟාවලිය වන LPL, රටේ ඉහළම පළමු පෙළ ක්‍රිකට් ක්‍රීඩකයින්ට ජාත්‍යන්තර තරු සමඟ තරඟ කිරීමට සහ ඔවුන්ට එරෙහිව තරඟ කිරීමට වේදිකාවක් ලෙස කටයුතු කරයි.
+
+2020 දී සමාරම්භක සංස්කරණයේ සිට, ලංකා ප්‍රිමියර් ලීගය වාර්ෂිකව පවත්වනු ලබන අතර එය ශ්‍රී ලංකාවේ ක්‍රිකට් දින දර්ශනයේ වැදගත් අංගයක් බවට පත්ව ඇත.
+
+◼️
+
+[Data](articles/32c3ce0b.json)
 
 ---
 
@@ -1801,35 +1843,5 @@ The opening ceremony was graced by Siyapatha Finance PLC Managing Director, Anan
 ...
 
 [Data](articles/50a504a2.json)
-
----
-
-### Pan Asia Bank posts strong performance with PAT of over Rs. 2.1 billion for 1H2025; increase of 110%
-
-*2025-08-01 20:26:00* · [`islandlk`](http://island.lk/pan-asia-bank-posts-strong-performance-with-pat-of-over-rs-2-1-billion-for-1h2025-increase-of-110/) · `en`
-
-Pan Asia Banking Corporation PLC reported an impressive financial performance for 1H 2025 amidst diverse challenges emerging from the gradually reviving but challenging macro-economic environment. In financial terms, the Bank witnessed yet another period of growth and profitability, with an increase in Profit After Tax (PAT) of 110%. This growth is reflective of the robust portfolio management, effective cost management and commitment to generating sustainable profits. As a result, the Bank ended 1H 2025 with a PAT of Rs. 2.15 billion to more than double Earnings Per Share (EPS) from the previous year to reach Rs. 4.86.
-
-...
-
-[Data](articles/4e9a9e5b.json)
-
----
-
-### Uptick in stock market’s fortunes following US import tariff reduction
-
-*2025-08-01 20:26:00* · [`islandlk`](http://island.lk/uptick-in-stock-markets-fortunes-following-us-import-tariff-reduction/) · `en`
-
-The CSE was trading up yesterday following US President Donald Trump’s announcement of a reduced tariff rate of 20 percent on goods exports, market analysts said.
-
-Initially, Sri Lanka was slapped with a 44 percent tariff, which was then reduced to 30 percent. The reduced tariff came into effect yesterday.
-
-Sri Lanka’s rate is the same or similar to that of Bangladesh, Vietnam, Malaysia (19), Indonesia (19), Thailand (19), Pakistan (19) and lower to that of India (25).
-
-Amid those developments both indices moved upwards. The ASPI stood at 217.7 points, while the S&P SL20 was up by 135 points.
-
-...
-
-[Data](articles/f80dd11a.json)
 
 ---

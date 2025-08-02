@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 05:19:50**
+As of **2025-08-02 05:31:36**
 
 ## Newspaper Stats
 
-*Scraped **68,195** Articles*
+*Scraped **68,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 593
 bbccomsinhala | 677
 colombotelegraphcom | 699
-islandlk | 4,159
+islandlk | 4,167
 economynextcom | 4,176
 dailymirrorlk | 4,733
 dailyftlk | 4,821
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.9%) of 68,195 articles have been extended.
+61,973 (90.9%) of 68,203 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -452,6 +452,40 @@ The Minister made these remarks during the meeting of the Ministerial Consultati
 
 ---
 
+### Hatton National Bank and Nucleus Software collaborate to enhance transaction banking experience with FinnAxia®
+
+*2025-08-01 20:35:00* · [`islandlk`](http://island.lk/hatton-national-bank-and-nucleus-software-collaborate-to-enhance-transaction-banking-experience-with-finnaxia/) · `en`
+
+HNB PLC, one of Sri Lanka’s leading and most forward-looking financial institutions, has implemented FinnAxia®, the advanced Transaction Banking Suite from Nucleus Software, as part of a strategic initiative to strengthen its leadership in digital banking and meet the growing needs of its corporate and SME clients across Sri Lanka and around the globe.
+
+In a highly competitive market where customer expectations are evolving rapidly, HNB recognized the need for a robust, scalable and integrated platform to deliver world-class, transaction banking services. The rollout of FinnAxia® marks a decisive move to future-proof HNB’s cash management business, deepen client relationships, and enhance revenue streams.
+
+Expand its transaction banking offerings through a seamlessly integrated global-standard suite.
+
+Gain competitive edge without prolonged implementation cycles for corporate clients.
+
+Attract and retain high-value clients by delivering personalized digital solutions.
+
+...
+
+[Data](articles/c669d249.json)
+
+---
+
+### Siyapatha Finance opens 54th branch in Kaduwela
+
+*2025-08-01 20:33:00* · [`islandlk`](http://island.lk/siyapatha-finance-opens-54th-branch-in-kaduwela/) · `en`
+
+Premier finance company Siyapatha Finance PLC recently opened its newest branch in Kaduwela, expanding its islandwide network to 54 branches. Situated in the heart of a progressive suburb of Colombo, the Kaduwela branch offers Siyapatha’s customer-centric financial solutions ranging from leasing, fixed deposits, savings, gold financing, business loans, personal loans, fast draft, and factoring to Smart Pay and bill payment facility.
+
+The opening ceremony was graced by Siyapatha Finance PLC Managing Director, Ananda Seneviratne, Director, Jayanath Gunawardena, Director, Ms. Sriyani Ranathunga, Chief Operating Officer, Rajeev De Silva, Senior Management and staff as well as Kaduwela government officials including ASP S.A.R Samaranayake, Kaduwela Police OIC , Kaan Weerasinghe, Trade Association President, Nishantha Guruge, along with officials from government and private banks and insurance companies.
+
+...
+
+[Data](articles/d1da5a3a.json)
+
+---
+
 ### පොලිසියේ පුරප්පාඩු  28000ක් 5000ක් කඩිනමින් පුරවයි
 
 *2025-08-01 20:31:53* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-පුරප්පාඩු--28000ක්-5000ක්-කඩිනමින්-පුරවයි/11-417661) · `si`
@@ -493,6 +527,50 @@ The Minister made these remarks during the meeting of the Ministerial Consultati
 ...
 
 [Data](articles/50a504a2.json)
+
+---
+
+### Pan Asia Bank posts strong performance with PAT of over Rs. 2.1 billion for 1H2025; increase of 110%
+
+*2025-08-01 20:26:00* · [`islandlk`](http://island.lk/pan-asia-bank-posts-strong-performance-with-pat-of-over-rs-2-1-billion-for-1h2025-increase-of-110/) · `en`
+
+Pan Asia Banking Corporation PLC reported an impressive financial performance for 1H 2025 amidst diverse challenges emerging from the gradually reviving but challenging macro-economic environment. In financial terms, the Bank witnessed yet another period of growth and profitability, with an increase in Profit After Tax (PAT) of 110%. This growth is reflective of the robust portfolio management, effective cost management and commitment to generating sustainable profits. As a result, the Bank ended 1H 2025 with a PAT of Rs. 2.15 billion to more than double Earnings Per Share (EPS) from the previous year to reach Rs. 4.86.
+
+...
+
+[Data](articles/4e9a9e5b.json)
+
+---
+
+### Uptick in stock market’s fortunes following US import tariff reduction
+
+*2025-08-01 20:26:00* · [`islandlk`](http://island.lk/uptick-in-stock-markets-fortunes-following-us-import-tariff-reduction/) · `en`
+
+The CSE was trading up yesterday following US President Donald Trump’s announcement of a reduced tariff rate of 20 percent on goods exports, market analysts said.
+
+Initially, Sri Lanka was slapped with a 44 percent tariff, which was then reduced to 30 percent. The reduced tariff came into effect yesterday.
+
+Sri Lanka’s rate is the same or similar to that of Bangladesh, Vietnam, Malaysia (19), Indonesia (19), Thailand (19), Pakistan (19) and lower to that of India (25).
+
+Amid those developments both indices moved upwards. The ASPI stood at 217.7 points, while the S&P SL20 was up by 135 points.
+
+...
+
+[Data](articles/f80dd11a.json)
+
+---
+
+### CEAT Kelani recognised once again at National Business Excellence Awards 2025
+
+*2025-08-01 20:25:00* · [`islandlk`](http://island.lk/ceat-kelani-recognised-once-again-at-national-business-excellence-awards-2025/) · `en`
+
+CEAT Kelani Holdings, Sri Lanka’s leading manufacturer of pneumatic tyres and the company behind the country’s highest-selling tyre brand CEAT, has once again been recognised for business excellence, emerging as Joint Runner-Up in the ‘Manufacturing – Other Sector’ category at the National Business Excellence Awards (NBEA) 2025.
+
+Competing in the Extra-Large category for enterprises with annual revenue exceeding Rs 10 billion, CEAT Kelani’s performance at this year’s competition reaffirms its standing as one of Sri Lanka’s most professionally and efficiently managed businesses.
+
+...
+
+[Data](articles/ae9f2e7b.json)
 
 ---
 
@@ -1777,83 +1855,5 @@ Meanwhile, Rasika Buddhika Withana, the son of Parliamentarian Jagath Withana, a
 ◼️
 
 [Data](articles/c7b5905a.json)
-
----
-
-### 2025 මේ දක්වා පොලීසියේ 300කගේ වැඩ තහනම්
-
-*2025-08-01 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212895) · `si`
-
-2025 ජනවාරි සිට මේ දක්වා කාලය තුළ පොලිස් දෙපාර්තමේන්තුවේ පොලිස් නිලධාරීන් 300ක් වැඩ තහනමට ලක්වී ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-ඊයේ (31) පැවති වැඩසටහනකට එක්වෙමින් අමාත්‍යවරයා සඳහන් කළේ, කුමන තරාතිරමක නිලධාරියෙකු වුවද වරදක් කර ඇත්නම් ඔවුන්ට එරෙහිව නීතිය එකලෙස ක්‍රියාත්මක කරන බවය.
-
-ආගමන විගමන දෙපාර්තමේන්තුවේ මෙහෙයුම් සහකාර තනතුර සඳහා බඳවාගත් 50 දෙනෙකුට පත්වීම් ලිපි ප්‍රදානය කිරීම ඊයේ මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල හා නියෝජ්‍ය අමාත්‍ය සුනිල් වටගල මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරුණි.
-
-"ජනවාරි සිට මේ දක්වා පොලිස් නිලධාරීන් 300කගේ වැඩ තහනම්. ගිය වසරේ මුළු වසරටම 200කගේ වැඩ තහනම් කරලා. එහෙම වැඩ තහනමට ලක්වෙන්නේ රැකියාව ගැන හැඟීමක් නැති නිසයි. සමහර අය අවුරුදු 25ක් සේවය කරලා. අන්තිමට විශ්‍රාම වැටුපත් අහිමි කරගෙන සිරගත වෙලා. ආගමන විගමන පාලක ජනරාල්වරයා සිරගත වෙලා. පොලිස්පති ඇප මත ඉන්නවා. විමර්ශන කරනවා. බන්ධනාගාර කොමසාරිස් ඇප මත ඉන්නවා. තරාතිරම කුමක් වුණත් නීතිය ක්‍රියාත්මක කරනවා."
-
-◼️
-
-[Data](articles/c67cbfc7.json)
-
----
-
-### ඉම්රාන් ඛාන්ගේ පක්ෂයේ සාමාජිකයින් 108 දෙනෙකු සිරගත කෙරේ
-
-*2025-08-01 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212894) · `si`
-
-2023 වර්ෂයේ දී හමුදාවට එරෙහි විරෝධතාවලට සම්බන්ධ වීම හේතුවෙන් සිරගත කරන ලද හිටපු අගමැති ඉම්රාන් ඛාන්ගේ පක්ෂයේ සාමාජිකයින් 108 දෙනෙකුට පාකිස්තාන රජය සිර දඬුවම් නියම කර තිබේ.
-
-ගෙවුණු වසර දෙක තුළ පාකිස්තානයේ දේශපාලන ක්‍රියාකාරකම්වලට  සම්බන්ධ බොහෝ පිරිසකට දඬුවම් ලබා දී  ඇත.
-
-ත්‍රස්තවාදය මෙන්ම රාජ්‍ය රහස් හෙළි කිරීම වැනි චෝදනා 150 කට වැඩි ගණනක් ඉම්රාන් ඛාන්ට එල්ල විය.
-
-තවද ඊයේ (31) පාකිස්තානයේ  විපක්ෂ නායක ඕමාර් අයුබ්ඛාන්ට වසර 10 ක සිර දඬුවමක් ද හිමිව තිබේ.
-
-පාකිස්තාන අධිකරණ ඉතිහාසයේ පළමු වතාවට පාර්ලිමේන්තුවේ මන්ත්‍රී මණ්ඩල දෙකෙහිම විපක්ෂ නායකයින්ට දඬුවම් නියම වූ පළමු අවස්ථාව මෙය බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/944011e5.json)
-
----
-
-### ஜனாதிபதி அதிரடி 7 பேரை தூக்கினார்
-
-*2025-08-01 12:10:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-7-பேரை-தூக்கினார்/175-362167) · `ta`
-
-பாதுகாப்புப் பணிகளில் ஈடுபட ,  ஜனாதிபதி அனுரகுமார திசாநாயக்கவுடன் மாலைதீவு சென்று திரும்பும்போது கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் டியூட்டிப்ரீ வணிக நிலையங்களில் சட்டவிரோதமான முறையில் பொருட்களை கொள்வனவு செய்த ஜனாதிபதி பாதுகாப்பு பிரிவின் 7 பொலிஸ் உத்தியோகத்தர்கள் சேவையிலிருந்து இடைநிறுத்தம்
-
-◼️
-
-[Data](articles/312ed3ce.json)
-
----
-
-### எரிபொருள் விலையில் மாற்றம்?
-
-*2025-08-01 12:02:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-மாற்றம்/175-362166) · `ta`
-
-இலங்கை பெற்றோலிய கூட்டுத்தாபனத்தின் மாதாந்த விலைச் சூத்திரத்தின்படி எதிர்வரும் ஒகஸ்ட் மாதத்திற்கான எரிபொருள் விலைத் திருத்தத்தில் எவ்வித மாற்றமும் மேற்கொள்ளப்படவில்லை என இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/e11ed325.json)
-
----
-
-### ඇමෙරිකානු බද්ද අඩු කර ගැනීම ජයක්, ඒ ගැන හදවතින්ම සතුටුයි
-
-*2025-08-01 11:50:29* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකානු-බද්ද-අඩු-කර-ගැනීම-ජයක්--ඒ-ගැන-හදවතින්ම-සතුටුයි/11-417656) · `si`
-
-ඇමරිකාව විසින් මෙරට භාණ්ඩ සඳහා අයකරන තීරු බදු අනුපාතය 20% ක් දක්වා අඩුකිරීම ජයග්‍රහණයක් බවත් ඒ තුළින් අපගේ අපනයනවල කලාපීය තරගකාරීත්වය තවදුරටත් පවත්වාගෙන යෑමට හැකිවනු ඇතැයි පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් ඔහු පවසන්නෙ ඒ පිළිබඳව තමන් හදවතින්ම සතුටුවන බවත් මේ වෙනුවෙන් කැපවී කටයුතු කළ (තිරය ඉදිරිපස හා පිටුපස) සියල්ලන්ටත් කුඩා රටක් ලෙස රට හමුවේ ඇති අභියෝග තේරුම් ගනිමින් එම සහනය ලබාදුන් ඇමරිකාවටත් ස්තූතිවන්ත වන බවයි.
-
-මෙවැනි තත්ත්වයන් තේරුම් ගනිමින් ශ්‍රී ලංකාවේ තිබෙන වෙළෙඳ සීමා මායිම් ලිහිල් කරමින් ලංකාව ලෝකය සමග එකතු කිරීමට කටයුතු කිරීම තුළින් තවත් ජයග්‍රහණ රැසක් අත්පත් කරගැනීමට හැකිවනු ඇතැයි අවධාරණය කරන බවද මන්ත්‍රීවරයා පවසයි.
-
-◼️
-
-[Data](articles/33bf1d66.json)
 
 ---

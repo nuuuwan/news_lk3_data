@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 13:50:12**
+As of **2025-08-02 14:07:16**
 
 ## Newspaper Stats
 
-*Scraped **68,242** Articles*
+*Scraped **68,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,560
-adaderanalk | 8,441
+adaderanalk | 8,443
 tamilmirrorlk | 9,898
-virakesarilk | 11,365
+virakesarilk | 11,366
 adaderanasinhalalk | 11,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,242 articles have been extended.
+61,973 (90.8%) of 68,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-02 (Saturday)
+
+### யாழ்ப்பாணத்திற்கு சுற்றுலா சென்றிருந்த தேரர் சடலமாக மீட்பு!
+
+*2025-08-02 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221604) · `ta`
+
+யாழ்ப்பாணத்திற்கு சுற்றுலா சென்றிருந்த தேரர் ஒருவர், நேற்று வெள்ளிக்கிழமை (01) சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பதுளை வீதி, பசற பகுதியைச் சேர்ந்த வனபதுலே சரணஹர என்ற தேரர் ஒருவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+கடந்த சில தினங்களுக்கு முன்னர் யாழ்ப்பாணம் வந்திருந்த தேரர், வியாழக்கிழமை (31) அன்று யாழ்ப்பாணத்தில் உள்ள சில இடங்களை சுற்றிப் பார்த்த பின்னர், நாக விகாரைக்கு சென்று அங்கு இரவு தங்கியிருந்தார்.
+
+அடுத்த நாள் வெள்ளிக்கிழமை, அவர் சடலமாகக் காணப்பட்டதாக பொலிஸாருக்கு தகவல் வழங்கப்பட்டதையடுத்து, சடலத்தை மீட்டு, யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு உடற்கூற்று பரிசோதனைக்காக அனுப்பப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/861fcd16.json)
+
+---
 
 ### வலிமையான எதிர்கால தலைமுறையே நாட்டிற்கு தேவை
 
@@ -52,6 +70,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Indonesia’s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away
+
+*2025-08-02 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111092/indonesias-mount-lewotobi-laki-laki-erupts-again-spewing-giant-ash-plumes-miles-away) · `en`
+
+Mount Lewotobi Laki Laki, one of Indonesia’s most active volcanoes, erupted for a second straight day, sending a column of volcanic materials and ash up to 18 kilometers (11 miles) into the sky early Saturday and blanketing villages with debris. No casualties were immediately reported.
+
+Another eruption Friday evening had sent clouds of ash up to 10 kilometers (6.2 miles) high and had lit up the night sky with glowing lava and bolts of lightning. The two eruptions happened in a span of less than five hours.
+
+Indonesia’s Geology Agency recorded an avalanche of searing gas clouds mixed with rocks and lava traveling up to 5 kilometers (3 miles) down the slopes of the mountain. Drone observations showed deep movement of magma, setting off tremors that registered on seismic monitors.
+
+...
+
+[Data](articles/5663cb7c.json)
+
+---
+
 ### ඩිජිටල් ගනුදෙනු ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
 
 *2025-08-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212935) · `si`
@@ -65,6 +99,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/16e8fbe1.json)
+
+---
+
+### PM reveals what govt aims to achieve through ongoing education reforms
+
+*2025-08-02 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111091/pm-reveals-what-govt-aims-to-achieve-through-ongoing-education-reforms) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya emphasized the importance of building female leadership in today’s society, stating that the Sri Lanka Girl Guides Association possesses the ability to fulfill this need.
+
+The Prime Minister made these remarks while addressing the Presidential Girl Guide Awards Ceremony, organized yesterday at the Temple Trees by the Sri Lanka Girl Guides Association, which is part of the world’s largest voluntary organization for women, according to the Prime Minister’s Media Division.
+
+At the ceremony, the Presidential Girl Guide Award, the highest honoring award a Girl Guide can receive, was presented to 301 girl guides, while the Prime Minister’s Girl Guide Award was presented to 23 individuals, the statement said.
+
+Delivering the keynote address, Prime Minister Dr. Harini Amarasuriya stated:
+
+...
+
+[Data](articles/83ac474d.json)
 
 ---
 
@@ -1765,59 +1817,5 @@ Sri Lanka’s cards were weak, very weak. We export far more to the US than we i
 ...
 
 [Data](articles/ee10e615.json)
-
----
-
-### சிவகார்த்திகேயன் நடிக்கும் ' மதராஸி' திரைப்படத்தின் முதல் பாடல் வெளியீடு
-
-*2025-08-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/221570) · `ta`
-
-'அமரன் 'படத்தின் பிரம்மாண்டமான வெற்றியைத் தொடர்ந்து நடிகர் சிவகார்த்திகேயன் நடிப்பில் உருவாகி வரும் ' மதராஸி'  எனும் திரைப்படத்தில் இடம்பெற்ற 'சலம்பல..' எனும் முதல் பாடலும் , பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் ஏ. ஆர். முருகதாஸ் இயக்கத்தில் உருவாகி வரும்' மதராஸி' திரைப்படத்தில் சிவகார்த்திகேயன் , ருக்மணி வசந்த் , வித்யுத் ஜம்ப்வால் , பிஜு மேனன், சபீர் , விக்ராந்த் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-சுதீப் இலாமோன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்ரீ லட்சுமி மூவிஸ் நிறுவனம் தயாரித்திருக்கிறது.
-
-எதிர்வரும் செப்டம்பர் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தில் இடம்பெற்ற ' சலம்பல சலம்பல அடியே கண்ணம்மா.. 'எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-...
-
-[Data](articles/f24b25bf.json)
-
----
-
-### Ceylon Chamber commends tariff reduction, urges long-term trade strategy with US
-
-*2025-08-01 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111076/ceylon-chamber-commends-tariff-reduction-urges-long-term-trade-strategy-with-us) · `en`
-
-The Ceylon Chamber of Commerce (CCC) has commended the Government of Sri Lanka and the national negotiation team for securing a further reduction in the reciprocal tariff rate imposed by the United States on Sri Lankan exports—from 30% to 20%.
-
-In a statement issued by the Chamber, Chairperson Krishan Balendra described the development as a positive outcome of sustained diplomatic engagement.
-
-“While this is clear progress reflecting the value of sustained engagement and strategic diplomacy, it is now important to use this window of opportunity to work towards a long-term arrangement that ensures more stable and competitive market access for our exporters”, Balendra stated.
-
-The Chamber extended its appreciation to the officials involved for their proactive and strategic efforts, particularly in engaging with the U.S. Government and the Office of the United States Trade Representative (USTR) to secure this outcome.
-
-...
-
-[Data](articles/acb8080e.json)
-
----
-
-### ජපානය, කොරියාව ඇතුළු රටවල් රැසකට ශ්‍රි ලාංකිකයින්ට රැකියා අවස්ථා
-
-*2025-08-01 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212908) · `si`
-
-ජපානය, දකුණු කොරියාව හා ඊශ්‍රායලය යන රටවල රැකියා අවස්ථා වැඩි වශයෙන් ශ්‍රි ලාංකිකයින්ට ලබාගැනීම සඳහා දැනටමත් අවශ්‍ය පියවර රැසක් ගෙන ඇති බවත් විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා ප්‍රකාශ කළේය.
-
-එසේම නව රජය පත්වීමත් සමග විවිධ ක්ෂේත්‍රවලට දේශපාලනමය මැදිහත්වීමක් සිදුනොවන නිසා පැහැදීමට ලක්වූ දියුණු රටවල් ශ්‍රි ලාංකික ශ්‍රමිකයින්ට නව රැකියා අවස්ථා විවර කරමින් සිටින බවද නියෝජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
-
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අංශ කිහිපයක් නව කාර්යාල පරිශ්‍රයක ස්ථාපිත කිරීම නිමිත්තෙන් පැවති උත්සවයකට බත්තරමුල්ලේදී එක්වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය.
-
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අංශ කිහිපයක් නාරාහෙන්පිට, මෙහෙවර පියස කාර්යාලයේ පවත්වාගෙන ගිය අතර, විගමණික ප්‍රජාවට සිදුවන අපහසුතා සලකා බලා එම අංශ බත්තරමුල්ල, ප්‍රධාන කාර්යාලය ආසන්නයේ පිහිටි ගොඩනැගිල්ලක ස්ථාපිත කරන ලදී.
-
-...
-
-[Data](articles/a78a4f3c.json)
 
 ---

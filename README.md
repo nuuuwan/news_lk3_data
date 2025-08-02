@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-02 22:23:30**
+As of **2025-08-02 22:35:37**
 
 ## Newspaper Stats
 
-*Scraped **68,281** Articles*
+*Scraped **68,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 4,178
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
-adaderanalk | 8,448
+adaderanalk | 8,451
 tamilmirrorlk | 9,901
-virakesarilk | 11,375
+virakesarilk | 11,376
 adaderanasinhalalk | 11,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,281 articles have been extended.
+61,973 (90.8%) of 68,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### No restrictions on protests or student politics, but violence and ragging will not be tolerated: PM
+
+*2025-08-02 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111103/no-restrictions-on-protests-or-student-politics-but-violence-and-ragging-will-not-be-tolerated-pm) · `en`
+
+Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that there will be no obstruction whatsoever to university students engaging in protests, struggles, or student politics.
+
+However, there will be no forgiveness for those involved in violence or ragging.
+
+The Prime Minister made these remarks during a discussion held with the academic staff, administrative officers, and students following the ceremonial opening of the newly constructed library building at the University of Vavuniya, according to the Prime Minister’s Media Division.
+
+The Prime Minister unveiled the commemorative plaque to mark the opening of the new library and also participated in an inspection tour of the new library premises. Special attention was then drawn to issues concerning university students.
+
+...
+
+[Data](articles/0c658f2c.json)
+
+---
+
+### Cambodia to nominate Donald Trump for Nobel Peace Prize, says deputy PM
+
+*2025-08-02 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111102/cambodia-to-nominate-donald-trump-for-nobel-peace-prize-says-deputy-pm) · `en`
+
+Cambodia will nominate U.S. President Donald Trump for the Nobel Peace Prize, its deputy prime minister said on Friday, following his direct intervention in halting the Southeast Asian country’s recent border conflict with Thailand.
+
+Asked via text message to confirm Cambodia’s plan to nominate Trump for the prize, Chanthol responded, “yes.”
+
+Speaking to reporters earlier in the capital, Phnom Penh, Chanthol thanked Trump for bringing peace and said he deserved to be nominated for the prize, the highest-profile international award given to an individual or organisation deemed to have done the most to “advance fellowship between nations”.
+
+Pakistan said in June that it would recommend Trump for the Nobel Peace Prize for his work in helping to resolve a conflict with India, and Israeli Prime Minister Benjamin Netanyahu said last month he had nominated Trump for the award.
+
+...
+
+[Data](articles/473cfefa.json)
+
+---
+
 ### துப்பாக்கிச்சூட்டில் ஒருவர் மரணம் : சுட்டவர் சரண்
 
 *2025-08-02 21:22:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்-சுட்டவர்-சரண்/175-362186) · `ta`
@@ -63,6 +99,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fce2e266.json)
+
+---
+
+### நடிகர் டி எஸ் கே நடிக்கும் 'டியர் ஜீவா' படத்தின் முன்னோட்டம் வெளியீடு
+
+*2025-08-02 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/221641) · `ta`
+
+'லப்பர் பந்து' படத்தின் மூலம் ரசிகர்களின் கவனத்தை கவர்ந்த நடிகர் டி எஸ் கே கதையின் நாயகனாக நடித்திருக்கும் 'டியர் ஜீவா' படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+பிரகாஷ் வி. பாஸ்கர் இயக்கத்தில் உருவாகி வரும் 'டியர் ஜீவா' எனும் திரைப்படத்தில் டி எஸ் கே, தீப்ஷிகா, மனிஷா ,கே பி வை யோகி, லொள்ளு சபா உதயா, பிரியதர்ஷினி ராஜ்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+அரவிந்த் செல்வராஜ் மற்றும் சஞ்சீவ் கண்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஷாந்த் அர்வின் இசையமைத்திருக்கிறார். காதலர்களின் ஆதிக்க உணர்வை விவரிக்கும் இந்த திரைப்படத்தை செல் வைட்லி நிறுவனம் சார்பில் தயாரிப்பாளர் சகாயா சதீஷ் மற்றும் உமர் முக்தார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/27f80881.json)
 
 ---
 
@@ -81,6 +133,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e2a9fdc9.json)
+
+---
+
+### Sri Lanka sees rise in garment exports led by UK, EU
+
+*2025-08-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111101/sri-lanka-sees-rise-in-garment-exports-led-by-uk-eu) · `en`
+
+Exports from Sri Lanka’s garment sector increased 5.2% year over year in June 2025, hitting US $ 439.39 million from US $ 417.71 million in June 2024.
+
+The expansion is credited by the Joint Apparel Association Forum (JAAF) to strong results in the UK and the EU.
+
+The UK saw a 20.4% increase in exports to US $ 67.33 million, while exports to the EU (without the UK) increased by 23.1% to US $ 142.92 million. These advances successfully countered lower exports in other markets, which decreased 9.3% to US $ 64.75 million, and the United States, where exports fell 5.7% to US $ 164.39 million.
+
+...
+
+[Data](articles/ef656dfa.json)
 
 ---
 
@@ -1779,77 +1847,5 @@ It said this achievement reflects the strategic foresight, persistence, and prof
 ...
 
 [Data](articles/6702e5b4.json)
-
----
-
-### மாளிகாவத்தை ரயில் நிலையத்தில் ரயில் கழிப்பறையில் பெண் சிசுவின் சடலம் கண்டெடுப்பு
-
-*2025-08-01 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221588) · `ta`
-
-மாளிகாவத்தை ரயில் நிலையத்தில் நிறுத்தப்பட்டிருந்த 8346ஆம் எண் ரயிலின் மூன்றாம் வகுப்பு பெட்டியின் கழிப்பறையில் பெண் சிசுவின் சடலம் வெள்ளிக்கிழமை (01) கண்டுபிடிக்கப்பட்டுள்ளது.
-
-சடலமாக கண்டுபிடிக்கப்பட்ட அந்த சிசுவுக்கு சுமார் 3 நாட்கள் வயதாகும் என அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-இரவு பயணத்தை முடித்து புத்தளத்திலிருந்து கல்கிசை நோக்கி வந்த ரயில் மாளிகாவத்தை நிலையத்தில் நிறுத்தப்பட்டிருந்தது. அதைப் பராமரிக்கச் சென்ற தொழிலாளர்கள் குழுவினர், மூன்றாம் வகுப்பு பெட்டியிலிருந்து கடும் துர்நாற்றம் வீசுவதை உணர்ந்து சோதனை செய்தபோது, ஒரு பையில் சுற்றப்பட்ட நிலையில் சிசுவின் சடலத்தைக் கண்டுபிடித்துள்ளனர்.
-
-தெமட்டகொட பொலிஸார் உடனடியாக சம்பவ இடத்திற்கு வருகை தந்து விசாரணைகளை ஆரம்பித்தனர். அளுத்கம நீதவானும் பின்னர் சம்பவ இடத்திற்கு வந்து சடலத்தையும் ரயில் பெட்டியையும் பார்வையிட்டார்.
-
-சிசுவின் சடலம் பிரேத பரிசோதனைக்காக அழைத்துச் செல்லப்பட்டுள்ளதுடன், சம்பவத்திற்கான காரணம் மற்றும் குற்றவாளியை கண்டறிய விசாரணைகள் தொடர்ந்து நடைபெற்று வருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/8e0c6a34.json)
-
----
-
-### කථානායක නිල නිවස  සම්බන්ධයෙන් ගත් තීරණය
-
-*2025-08-01 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212917) · `si`
-
-කථානායකවරයාගේ නිල නිවස "පාර්ලිමේන්තු අධ්‍යයන සහ පර්යේෂණ මධ්‍යස්ථානයක්" බවට  පරිවර්තනය කිරීම පිළිබඳව යෝජිත වැඩපිළිවෙළට පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේ ප්‍රතිපත්තිමය එකඟතාව හිමිව තිබේ.
-
-ඒ අනුව මාස හයක ආරම්භක කාලයක් සඳහා මධ්‍යස්ථානයේ පදනම් රාමුව සැලසුම් කිරීම සහ ව්‍යුහගත කිරීම සම්බන්ධීකරණය, උපදෙස් දීම සහ මෙහෙයවීම සඳහා විශ්‍රාමික ජ්‍යෙෂ්ඨ රජයේ නිලධාරියෙකු ව්‍යාපෘති කළමනාකරුවෙකු ලෙස පත්කිරීමටද කාරක සභාවේ අනුමතිය හිමිව ඇත.
-
-පසුගිය 24 වැනිදා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේදී එම යෝජනාව සළකා බැලූ අවස්ථාවේදී මේ පිළිබද සාකච්ඡා කෙරිණි.
-
-රජයේ සියලු අංශ ඔස්සේ ව්‍යවස්ථාදායක සහ ආණ්ඩුකරණ හැකියාවන් ශක්තිමත් කිරීමේ මූලික ඉලක්කය ඇතිව මෙම  යෝජිත මධ්‍යස්ථානය මගින්, උසස් පර්යේෂණ පහසුකම්, විශේෂිත පුහුණුව සහ ප්‍රතිපත්ති විශ්ලේෂණයන් සඳහා ප්‍රවේශය සැපයීම සිදු කිරීමට අපේක්ෂා කෙරේ.
-
-◼️
-
-[Data](articles/45118efd.json)
-
----
-
-### Immediate steps to fill 5,000 police vacancies – Public Security Minister
-
-*2025-08-01 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111080/immediate-steps-to-fill-5000-police-vacancies-public-security-minister) · `en`
-
-Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, stated that while there are approximately 28,000 vacancies in Sri Lanka Police at present, steps have already been taken to urgently fill 5,000 of those vacancies.
-
-He further stated that Cabinet approval has been obtained for this purpose and that the relevant processes have already commenced, with recruitment to be completed within this year.
-
-He also pointed out that 10,000 personnel currently serving in the Civil Security Department are expected to be attached to the police service.
-
-The Minister made these remarks during the meeting of the Ministerial Consultative Committee on Public Security and Parliamentary Affairs, held recently, chaired by him and attended by Deputy Minister Sunil Watagala, Attorney-at-Law.
-
-...
-
-[Data](articles/277c2ce5.json)
-
----
-
-### தரம் 05 புலமைப்பரிசில் பரீட்சைக்கான மேலதிக வகுப்புக்களுக்கு தடை?
-
-*2025-08-01 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221587) · `ta`
-
-தரம் 5 புலமைப்பரிசில் பரீட்சையை இலக்காகக் கொண்டு நடத்தப்படும் அனைத்து மேலதிக வகுப்புகள், விரிவுரைகள், கருத்தரங்குகள் மற்றும் செயலமர்வுகள் எதிர்வரும் ஆகஸ்ட் 6ஆம் திகதி நள்ளிரவு முதல் தடை செய்யப்படும் என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
-
-இந்த தடையை மீறும் ஆசிரியர்கள், பாடசாலைகள் அல்லது நிறுவனங்களுக்கு எதிராக கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர எச்சரித்துள்ளார்.
-
-இந்நிலையில், தரம் 5 புலமைப்பரிசில் பரீட்சை ஆகஸ்ட் 10ஆம் திகதி நடைபெற உள்ளது. இந்தப் பரீட்சை நாடளாவிய ரீதியில் 2,787 பரீட்சை நிலையங்களில் இடம்பெறும் என தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/d2694147.json)
 
 ---

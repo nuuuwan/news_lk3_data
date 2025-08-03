@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 05:07:01**
+As of **2025-08-04 05:19:10**
 
 ## Newspaper Stats
 
-*Scraped **68,469** Articles*
+*Scraped **68,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 703
 islandlk | 4,180
 economynextcom | 4,182
 dailymirrorlk | 4,733
-dailyftlk | 4,823
+dailyftlk | 4,834
 adalk | 6,588
 adaderanalk | 8,481
 tamilmirrorlk | 9,934
@@ -26,11 +26,191 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,469 articles have been extended.
+61,973 (90.5%) of 68,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### Kasun Wellahewa appointed Acting Commissioner General of Buddhist Affairs
+
+*2025-08-04 05:06:55* · [`dailyftlk`](https://www.ft.lk/news/Kasun-Wellahewa-appointed-Acting-Commissioner-General-of-Buddhist-Affairs/56-779856) · `en`
+
+Kasun Wellahewa has been appointed as the Acting Commissioner General of Buddhist Affairs with immediate effect.
+
+According to the Buddhasasana, Religious and Cultural Affairs Ministry, the appointment follows the removal of Commissioner General of Buddhist Affairs Premasiri Rathnayake from the position.
+
+The Cabinet has decided to remove Rathnayake from his position as Commissioner General of Buddhist Affairs due to allegations that he failed to properly fulfil his duties.
+
+The Buddhasasana and Religious Affairs Ministry accused the Commissioner General of not effectively carrying out the responsibilities of the Department of Buddhist Affairs.
+
+Accordingly, the Ministry stated that the relevant charge sheet was submitted to the previous Cabinet, and the Cabinet therefore decided to remove him from his position.
+
+◼️
+
+[Data](articles/bb2599c4.json)
+
+---
+
+### Sunshine Holdings ups top-line growth by 11.6% in 1Q
+
+*2025-08-04 05:05:30* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-ups-top-line-growth-by-11-6-in-1Q/34-779855) · `en`
+
+Core operational improvements drive performance across Healthcare, Consumer, and Agribusiness sectors
+
+Diversified conglomerate Sunshine Holdings PLC has delivered a resilient start to FY26, reporting strong top and bottom line growth.
+
+The Group recorded a consolidated revenue of Rs. 15.9 billion during the first quarter of the current financial year (1QFY26), up by 11.6% YoY, with Profit after tax (PAT) up by 20.6% YoY to Rs. 1.7 billion. The Group sustained this positive momentum across its core sectors—Healthcare, Consumer and Agribusiness, supported by improving economic conditions and a pickup in consumer activity.
+
+...
+
+[Data](articles/60495d17.json)
+
+---
+
+### Indrajit Wickramasinghe appointed to DIMO Board
+
+*2025-08-04 05:02:42* · [`dailyftlk`](https://www.ft.lk/business/Indrajit-Wickramasinghe-appointed-to-DIMO-Board/34-779854) · `en`
+
+Ex-banker Indrajit Wickramasinghe has been appointed to the Board of Diesel and Motor Engineering Company PLC as an Independent Non-Executive Director.
+
+Wickramasinghe was the Director/Chief Executive Officer of Union Bank for over nine years up to his retirement on 15 August 2024. He counts over 36 years of management experience having worked in both the financial services and FMCG sectors in local and multinational companies. He holds an MBA from the Post Graduate Institute of Management, University of Sri Jayewardenepura, and is a Fellow of the Chartered Institute of Marketing UK. He has been exposed to Executive Education Programs at the National University of Singapore, The Said Business School of the University of Oxford UK and INCEAD (France). He is a member of the Oxford Business Alumni, University of Oxford UK.
+
+...
+
+[Data](articles/7cd016d1.json)
+
+---
+
+### Teejay Group Q1 profits up 31% despite industry challenges
+
+*2025-08-04 05:00:32* · [`dailyftlk`](https://www.ft.lk/business/Teejay-Group-Q1-profits-up-31-despite-industry-challenges/34-779853) · `en`
+
+The Teejay Group, a leading South Asian multinational textile manufacturer, has reported a resilient performance for the first quarter of the 2025/26 financial year, demonstrating its operational strength and strategic agility in the face of continued global market headwinds.
+
+The Group recorded a Profit After Tax (PAT) of Rs. 0.21 billion for the quarter ended 30 June 2025, reflecting a notable 31% year-on-year growth. This achievement, amid subdued global demand and currency headwinds, underscores Teejay’s ongoing focus on operational excellence and prudent financial management.
+
+...
+
+[Data](articles/1f005ca4.json)
+
+---
+
+### Peter Kuruvita joins hands with Home Lands as Brand Ambassador
+
+*2025-08-04 04:58:56* · [`dailyftlk`](https://www.ft.lk/business/Peter-Kuruvita-joins-hands-with-Home-Lands-as-Brand-Ambassador/34-779852) · `en`
+
+Home Lands Group Chairman Nalin Herath (fourth from left) conferring the Brand Ambassadorship to Peter Kuruvita in the presence of key executives
+
+Home Lands has announced the appointment of internationally renowned chef and restaurateur Peter Kuruvita as an official brand ambassador.
+
+Home Lands is a Sri Lankan real estate brand that has reached the global stage, and partnering with Peter Kuruvita, who has carried Sri Lankan culture and cuisine to the global stage through his culinary artistry and storytelling, reflects Home Lands’ commitment to sharing Sri Lankan identity with the world.
+
+Home Lands Group Chairman Nalin Herath, said: “Peter Kuruvita is more than a culinary icon — he is a storyteller, a bridge between cultures, and a true ambassador of Sri Lankan heritage. His global journey and deep connection to Sri Lanka make him an ideal representative of what we stand for at Home Lands. We are honoured to welcome him to the Home Lands family.”
+
+...
+
+[Data](articles/373721c5.json)
+
+---
+
+### PRISL announces two landmark events to elevate polymer sector
+
+*2025-08-04 04:56:58* · [`dailyftlk`](https://www.ft.lk/business/PRISL-announces-two-landmark-events-to-elevate-polymer-sector/34-779851) · `en`
+
+Sri Lanka’s premier industrial exhibition COMPLAST-RUBEXPO-COMXPO 2025 from 29 to 31 August
+
+The Plastics and Rubber Institute of Sri Lanka (PRISL), the nation’s apex body for the development of the plastics and rubber sectors, has announced two high-impact industry events for 2025 that promise to drive innovation, sustainability and excellence across the polymer value chain.
+
+PRISL will also host the eighth edition of COMPLAST-RUBEXPO-COMXPO at BMICH, Colombo from 29 to 31 August. It will feature over 500 booths from more than 300 global and regional companies, making it the country’s most comprehensive industrial platform for the polymer sector.
+
+PRISL Director General Chaminda Perera said: “COMPLAST-RUBEXPO-COMXPO 2025 is the epicentre where opportunity meets innovation and talent, whether you’re a start-up or a global manufacturer, this platform offers the connections, insights and exposure needed to thrive in today’s fast-evolving industrial landscape.”
+
+...
+
+[Data](articles/16dbf7f7.json)
+
+---
+
+### Senaka Alawattegama new Executive Director/CEO at Kelani Valley Plantations
+
+*2025-08-04 04:53:51* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-new-Executive-Director-CEO-at-Kelani-Valley-Plantations/34-779850) · `en`
+
+Senaka Bandara Alawattegama has been appointed as the new Executive Director/CEO at Kelani Valley Plantations PLC.
+
+Alawattegama has over 40 years of experience in the plantation sector. He joined Sri Lanka State Plantations Corporation as an Assistant Superintendent, and after privatisation of the estates, has been with Talawakelle Tea Estates PLC. He has held the positions of Group Manager, Visiting Agent, Deputy General Manager, Senior Regional General Manager, General Manager-Plantations Director and Director/CEO of TPL.
+
+He holds an MBA from the London Metropolitan University, UK and is a Fellow Member of the National Institute of Plantation Management.
+
+...
+
+[Data](articles/02e727e3.json)
+
+---
+
+### Plastics and Rubber Institute of Sri Lanka welcomes US tariff reduction on Sri Lankan exports
+
+*2025-08-04 04:52:07* · [`dailyftlk`](https://www.ft.lk/business/Plastics-and-Rubber-Institute-of-Sri-Lanka-welcomes-US-tariff-reduction-on-Sri-Lankan-exports/34-779849) · `en`
+
+The Plastics and Rubber Institute of Sri Lanka (PRISL) has extended its appreciation for the recent decision by US President Donald Trump to reduce and finalise the tariff rate to 20% on Sri Lankan exports to the United States. This strategic policy move marks a pivotal milestone for Sri Lanka’s manufacturing and export sectors, particularly the rubber and plastics industries, which have long been key contributors to the national economy.
+
+This significant tariff reduction comes at a critical juncture as Sri Lanka continues its recovery from a severe economic downturn, still navigating through an International Monetary Fund (IMF) bailout program. The lowered tariff rate offers a much-needed boost to the country’s export competitiveness, especially in light of the intense regional competition faced by Sri Lankan manufacturers in South and Southeast Asia.
+
+...
+
+[Data](articles/045e9e8d.json)
+
+---
+
+### Nishantha Abeysinghe new CEO/Director at Talawakelle Tea Estates
+
+*2025-08-04 04:51:34* · [`dailyftlk`](https://www.ft.lk/business/Nishantha-Abeysinghe-new-CEO-Director-at-Talawakelle-Tea-Estates/34-779848) · `en`
+
+Nishantha Abeysinghe has been appointed to the Board of Talawakelle Tea Estates PLC as the Executive Director/CEO.
+
+He succeeds Senaka Alawattegama who has moved to become Executive Director/CEO at Kelani Valley Plantations PLC.
+
+Abeysinghe counts over 36 years of experience in the plantation sector, having joined as an Assistant Manager under the Sri Lanka State Plantations Corporation in 1988. With the privatisation of the Estates in 1992, he joined Talawakelle Tea Estates PLC of the Hayleys Group. He currently holds the position of Director – Plantations of the company. He holds a Master of Business Administration from the University of Southern Queensland (USQ), Australia.
+
+◼️
+
+[Data](articles/96851711.json)
+
+---
+
+### AHRP soars to 25th year taking HR to the forefront
+
+*2025-08-04 04:50:28* · [`dailyftlk`](https://www.ft.lk/business/AHRP-soars-to-25th-year-taking-HR-to-the-forefront/34-779847) · `en`
+
+The Association of HR Professionals, the conclave of discerning human resource practitioners in the country, celebrates 25 years of shaping the profession’s onward march this year.
+
+Having established in the year 2000 by a futuristic group of practitioners and academics the association has been the catalyst in opening boardroom echelons to the discipline as a business driver and enabler.
+
+At the annual general meeting held on 1 August the new Executive Committee led by South Asia Gateway Terminals Chief HR Officer Thushara Jayawardene unrolled their futuristic strategic canvas for this year and beyond.
+
+...
+
+[Data](articles/2d9af4d3.json)
+
+---
+
+### CTTA bestows Honorary Membership on Asia Siyaka Commodities’ Anil Randolph Cooke
+
+*2025-08-04 04:49:08* · [`dailyftlk`](https://www.ft.lk/business/CTTA-bestows-Honorary-Membership-on-Asia-Siyaka-Commodities-Anil-Randolph-Cooke/34-779846) · `en`
+
+In recognition of a remarkable career characterised by vision, leadership, and dedication, Anil Cooke was honoured as an Honorary Member of the Colombo Tea Traders’ Association at its 131st Annual General Meeting on 25 July, making him the 29th member to receive this honour in the modern history of the association.
+
+This distinguished accolade reflects Cooke’s invaluable contributions over the years and enduring commitment to the growth and progress of the tea industry.
+
+Cooke started his career in 1978 as a Trainee Tea Taster/Broker at Forbes and Walker. Due to his outstanding contributions in 1996, he was appointed to the company’s Board of Directors.
+
+In 1998, together with a team of colleagues, he co-founded Asia Siyaka Commodities. He currently serves as the Managing Director of Asia Siyaka Commodities PLC, which has grown into a leading broking and logistics company in Sri Lanka and recently acquired AgriOne Solutions, an agri input specialist.
+
+...
+
+[Data](articles/f639bdf6.json)
+
+---
 
 ### Environment and how its issues should be tackled through public policy
 
@@ -1551,195 +1731,5 @@ The IRD PIN is a unique identification number issued to individuals to access ac
 ◼️
 
 [Data](articles/56c6bf18.json)
-
----
-
-### 11-year-old schoolgirl dies after fainting; cause of death under investigation
-
-*2025-08-03 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111121/11-year-old-schoolgirl-dies-after-fainting-cause-of-death-under-investigation) · `en`
-
-An 11-year-old schoolgirl from Kekirawa has died after collapsing due to a sudden fainting, police stated.
-
-The incident occurred after-school when the girl boarded the school bus and suddenly collapsed.
-
-She was immediately taken to the Kekirawa Hospital after the incident, however passed away while receiving treatment.
-
-The body of the girl has been placed at the morgue of the Anuradhapura Teaching Hospital for the conduct of the post-mortem examination.
-
-Although the Judicial Medical Officer (JMO) attached to the Anuradhapura Hospital had conducted a post-mortem examination, the exact cause of death could not be determined.
-
-As a result, body specimens have been sent to a medical examiner for further analysis, and an open verdict has been issued.
-
-Subsequently, the body of the girl has been released to her guardians, according to police.
-
-◼️
-
-[Data](articles/2f6c2819.json)
-
----
-
-### Close associate of Kehelbaddara Padme, ‘Gampaha Deva’ nabbed at BIA
-
-*2025-08-03 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111120/close-associate-of-kehelbaddara-padme-gampaha-deva-nabbed-at-bia-) · `en`
-
-A close associate of the notorious underworld criminal gang leader “Kehelbaddara Padme” has been arrested at Bandaranaike International Airport (BIA) in Katunayake this morning (03).
-
-The arrested suspect has been identified as Dissanayake’s Devanmini Dissanayake, alias ‘Gampaha Deva.’
-
-He was taken into custody by the Criminal Investigation Department (CID) at around 8.10 a.m. while attempting to depart for Thailand.
-
-Police stated that the suspect is a 39-year-old resident of Gampaha and is connected to multiple murders and other criminal activities reported across the region.
-
-Steps have been taken to hand over the suspect to the Western Province North Crime Division for further investigation.
-
-◼️
-
-[Data](articles/f8be00fe.json)
-
----
-
-### වසරේ මේ දක්වා වෙඩි තැබීමේ සිද්ධීන් 76ක්
-
-*2025-08-03 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212966) · `si`
-
-2025 වසරේ මේ දක්වා දිවයින පුරා සිදුව ඇති වෙඩි තැබීමේ සිද්ධීන් ගණන 76ක් දක්වා ඉහළ ගොස් තිබේ.
-
-ඒ අද (03) උදෑසන මාතර කපුගොඩ ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමේ සිද්ධියත් සමගිනි.
-
-මෙම වෙඩි තැබීමේ සිදුවීම්වලින් මේ දක්වා පුද්ගලයින් 41 දෙනෙකු ඝාතනයට ලක්ව ඇති අතර තවත් පුද්ගලයින් 43 දෙනෙකු තුවාල ලබා තිබේ.
-
-මේ අතර ත්‍රිකුණාමලය තුනේ කණුව ප්‍රදේශයේදී අද අලුයම 03ට පමණ පුද්ගලයින් දෙදෙනෙකු අතර ගැටුමක් හටගෙන තිබේ. එහිදී එක් අයෙකු විසින් අනෙකාට ගලකින් පහරදීම හේතුවෙන් අයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-පහරදීමෙන් මියගොස් ඇත්තේ ත්‍රිකුණාමල ප්‍රදේශයේ පදිංචි 33 හැවිරිදි පුද්ගලයෙක් වන අතර පහරදීමට සම්බන්ධ පුද්ගලයා පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/e87edd5f.json)
-
----
-
-### ’’இனி மரணத்தையும் வெல்லலாம்”:  இதோ புதிய கண்டுபிடிப்பு
-
-*2025-08-03 13:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இனி-மரணத்தையும்-வெல்லலாம்-இதோ-புதிய-கண்டுபிடிப்பு/57-362206) · `ta`
-
-சாகாமல் உயிர் வாழ்ந்து கொண்டே இருக்க வேண்டும் என்ற ஆசை பலருக்கும் இருக்கும். இது தொடர்பான ஆய்வுகளும் கூட உலகெங்கும் நடந்தே வருகிறது.
-
-இதற்கிடையே பிரபல ஐரோப்பிய நிறுவனம் ஒன்று, உயிரிழந்தோரை மீண்டும் உயிருடன் கொண்டு வர எதிர்காலத்தில்  புதிய திட்டத்தை அறிமுகப்படுத்தியுள்ளது. இதற்காக அவர்கள் உடலை உறைய வைத்து விடுவார்களாம். இது குறித்து நாம் விரிவாகப் பார்க்கலாம்.
-
-வாழ்வில் பிறப்பு என்று ஒன்று இருந்தால் நிச்சயம் இறப்பு இருக்கும். ஆனால், இந்த இயற்கை விதியை மாற்றவே உலகெங்கும் ஆய்வுகள் நடந்து வருகிறது. இதுவரை உயிரிழந்தோரை வெற்றிகரமாக மீட்க முடியவில்லை என்றாலும் கூட இது குறித்த ஆய்வுகள் தொடர்ந்தே வருகிறது. இதற்கிடையே ஜெர்மனியைச் சேர்ந்த ஸ்டார்ட்அப் நிறுவனமான டுமாரோ பயோ வினோதமான ஒரு அறிவிப்பை வெளியிட்டுள்ளது.
-
-அதாவது ஒருவர் உயிரிழந்த பிறகு அவர்களின் உடல்களைப் பாதுகாப்பதாக அறிவித்துள்ளனர். எதிர்காலத்தில் மனித அறிவியல் வளர்ச்சியால் உயிரிழந்தோரை மீண்டும் உயிருடன் கொண்டு வர முடிந்தால் இது அவர்கள் மீண்டும் உயிர் பெற வாய்ப்பு தருவதாக இருக்கும்.
-
-...
-
-[Data](articles/4053aa0d.json)
-
----
-
-### அட்மிரலை சிக்க வைத்த கடிதம்
-
-*2025-08-03 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221670) · `ta`
-
-‘அரகலய’ போராட்டம் தீவிரமடைந்து, ஜனாதிபதி மாளிகையை போராட்டக்காரர்கள் சுற்றிவளைத்த போது, கோட்டாபய ராஜபக்ஷவை, பாதுகாப்பாக அங்கிருந்து வெளியேற்றியவர்,  அட்மிரல் நிஷாந்த உலுகேதென்ன தான்.
-
-◼️
-
-[Data](articles/d28c8281.json)
-
----
-
-### බීමත්ව රිය ධාවනය කළ ලංගම රියදුරා අත්අඩංගුවට
-
-*2025-08-03 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212965) · `si`
-
-බීමත්ව රිය ධාවනය කළ ලංගම බස් රථයේ රියදුරු නුවරඑළිය පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම බස් රථය වැලිමඩ සිට නුවරඑලිය හරහා ධාවනය වී ඇති අතර පොලිස් නිලධාරීන් විසින් නවතා පරීක්ෂා කිරීමේ දී රියදුරු අධික ලෙස බීමත්ව සිට ඇති බවට තහවුරු වී ඇත.
-
-ඒ අනුව මොහුව අත්අඩංගුවට ගෙන ඇති අතර ඒ වන විටත් බස් රථයේ විශාල මගීන් ප්‍රමාණයක් සිටි බව පොලීසිය සඳහන් කළේය.
-
-අදාල බස් රථය නුවරඑලිය පොලිසිය වෙත රැගෙනවිත් පරික්ෂා කර ඇති අතර එහිදී රියදුරු අසුන පිටුපස තිබී නීතිවිරෝධි මත්පැන් සහිත කෑන් එකක් ද පොලිස් නිලධාරින් විසින් සොයා ගෙන ඇත.
-
-පොලිසිය සැකපල කරන්නේ මෙම රියදුරා බස් රථය ධාවනය කරන අවස්ථාවේ වතුර බොන මුවාවෙන් මෙලෙස මත්පැන් පානය කර ඇති බවය.
-
-කෙසේ වෙතත් වෙනත් රියදුරෙකු කැදවා බස් රථයේ සිටින මගීන්ව ගමනාන්තය දක්වා රැගෙන යන ලෙසට නුවරඑළිය පොලිසියේ රථවාහන අංශයේ නිලධාරින් විසින් බස් රථයේ කොන්දොස්තරවරයාට උපදෙස් ලබා දී තිබේ.
-
-අත්අඩංගුවට ගත් රියදුරා නුවරඑළිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිමට නියමිතය.
-
-◼️
-
-[Data](articles/f879c7d9.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේගේ සමීපතමයෙකු වූ ගම්පහ දේවා අත්අඩංගුවට
-
-*2025-08-03 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212964) · `si`
-
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වූ කෙහෙල්බද්දර පද්මේ නැමැත්තාගේ සමීපතමයෙකු වන බව කියන දිසානායකගේ දේවාන්මිණි දිසානායක නොහොත් ගම්පහ දේවා නැමැත්තා අත්අඩංගුවට ගෙන තිබේ.
-
-අද උදෑසන 81.10ට පමණ තායිලන්තය බලා පිටත්ව යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ ඒකකය විසින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරු අවුදු 39ක් වූ ගම්පහ ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර ප්‍රදේශය පුරා සිදුවූ මිනීමැරුම් සහ අපරාධ රැසකට මොහු සම්බන්ධ අයෙකු බවද පොලීසිය පැවසීය.
-
-සැකකරු වැඩිදුර විමර්ශන සඳහා කොළඹ උතුරු අපරාධ කොට්ඨාසය වෙත භාර දීමට පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/abbd81aa.json)
-
----
-
-### 2025 ஜூலை இல் 200,244 சுற்றுலாப் பயணிகள் வருகை
-
-*2025-08-03 12:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஜூலை-இல்-200-244-சுற்றுலாப்-பயணிகள்-வருகை/175-362205) · `ta`
-
-ஜூலை 2025 இல் இலங்கை 200,244 சுற்றுலாப் பயணிகளை வரவேற்றது, இது கடந்த ஆண்டு இதே மாதத்துடன் ஒப்பிடும்போது 6.6% அதிகரிப்பைக் குறிக்கிறது. நான்கு மாதங்களில் மாதாந்திர வருகை 200,000 ஐத் தாண்டியது இதுவே முதல் முறை, கடைசியாக மார்ச் 2025 இல் 229,298 ஆக பதிவு செய்யப்பட்டது.
-
-ஜூலை மாதத்தின் வலுவான செயல்திறன் 2025 ஆம் ஆண்டின் முதல் ஏழு மாதங்களுக்கான ஒட்டுமொத்த வருகையை 1.37 மில்லியனாக உயர்த்தியுள்ளது, இது 2018 ஆம் ஆண்டில் பதிவு செய்யப்பட்ட 2.33 மில்லியன் வருகையை ஈடுசெய்ய அல்லது விஞ்சும் பாதையில் நாட்டை உறுதியாக வைத்துள்ளது – 2018 , ஈஸ்டர் ஞாயிறு தாக்குதல்கள் மற்றும் கொவிட்-19 தொற்றுநோய் சுற்றுலாத் துறையை சீர்குலைப்பதற்கு முந்தைய முழு ஆண்டாகும்.
-
-தற்போதைய போக்குகள் தொடர்ந்தால், மேம்பட்ட இணைப்பு, உலகளாவிய சந்தைப்படுத்தல் பிரச்சாரங்கள் மற்றும் வளர்ந்து வரும் பயணிகளின் நம்பிக்கை ஆகியவற்றால் இலங்கை நெருக்கடிக்கு முந்தைய வேகத்தை மீண்டும் பெறத் தயாராக இருக்கலாம்.
-
-◼️
-
-[Data](articles/97d9de1d.json)
-
----
-
-### கட்சிசார் நலன்களும் தமிழ் தேசிய அரசியலும்
-
-*2025-08-03 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221667) · `ta`
-
-வெறும் உணர்ச்சி கோஷங்களுக்கும் அரசியல் இலா­பங்களுக்கும் இடையில் தமிழ்த் தேசிய அரசியல் சிக்கியிருக்கிறது. இது  இனத்தின் எதிர்காலத்தை சூனிய­மாக்கி விடும்.
-
-◼️
-
-[Data](articles/b4656b49.json)
-
----
-
-### பலஸ்தீன தேசத்தை அங்கீகரிக்கும் உலக நாடுகளின் முடிவு களத்தில் மாற்றத்தை ஏற்படுத்துமா?
-
-*2025-08-03 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221684) · `ta`
-
-ஐ.நா. பாதுகாப்புச் சபையில் நிரந்தர உறுப்பு நாடான பிரித்தானியாவும் பலஸ்தீன தேசத்தை அங்கீகரிக்க முன்வந்துள்ள நிலையில் 5 நிரந்தர உறுப்பு நாடுகளுள் அமெரிக்கா மாத்திரம் தனித்து விடப்பட்டுள்ளது.ஓர் அணுவாயுத வல்லரசு, ஐ.நா. பாதுகாப்புச் சபையில் நிரந்தர அங்கத்துவத்தைக் கொண்ட ஒரு நாடு, பொருளாதாரத்தில் பலமிக்க நாடுகளின் ஜி-7 அமைப்பில் இடம்பிடித்துள்ள ஒரு நாடு, அது மாத்திரமன்றி ஐரோப்பாவில் உள்ள பலமிக்க நாடுகளுள் ஒன்று என்ற வகையில் பிரான்ஸின் அறிவிப்பு கவனத்தில் கொள்ளத்தக்கதே.
-
-◼️
-
-[Data](articles/ec556cb7.json)
-
----
-
-### රුසියාවේ ගිනිකන්දක් වසර 600කට පසු සක්‍රීය වෙයි
-
-*2025-08-03 12:34:11* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-ගිනිකන්දක්-වසර-600කට-පසු-සක්‍රීය-වෙයි/11-417682) · `si`
-
-පසුගියදා ඇති බූ දැවැන්ත භූකම්පනයේ බලපෑම හේතුවෙන් මෙම ගිනිකන්ද සක්‍රීය වන්නට ඇති බව රුසියානු මාධ්‍ය වාර්තා කර ඇත.
-
-මීටර් 1,856ක් උස මෙම ගිනිකන්ද පුපුරා යාමෙන් පසු මීටර් 6,000ක්(සැතපුම් 3.7ක්) දක්වා අළු දුමාරය ඉහළ ගොස් තිබේ.
-
-◼️
-
-[Data](articles/29237c81.json)
 
 ---

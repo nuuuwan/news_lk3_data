@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 00:25:14**
+As of **2025-08-04 00:37:35**
 
 ## Newspaper Stats
 
-*Scraped **68,452** Articles*
+*Scraped **68,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
 colombotelegraphcom | 700
-economynextcom | 4,180
 islandlk | 4,180
+economynextcom | 4,182
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,588
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,452 articles have been extended.
+61,973 (90.5%) of 68,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/099ffa8c.json)
+
+---
+
+### Sri Lanka fabric maker Teejay says global demand softened in the quarter
+
+*2025-08-03 23:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-fabric-maker-teejay-says-global-demand-softened-in-the-quarter-234373/) · `en`
+
+ECONOMYNEXT – Teejay Lanka Plc, a fabric maker which has operations in Sri Lanka and India said global demand ‘softened’ and volumes fell in the June 2025, though the firm still grew net profits.
+
+“This growth was recorded despite facing challenging global market conditions, including a slowdown in demand and shifting price sentiments across key export markets,” Teejay Lanka told shareholders in interim accounts.
+
+Cost of sales fell 3 percent to 14.5 billion and gross profits fell 3 percent to 1.25 billion rupees which the firm said was “largely due to lower production volumes during the quarter, as global demand softened across the industry.”
+
+Group administrative expenses grew 37 percent to 957 million rupees, while there was financial gain of 250 million rupees, compared to a 114 million rupees last year.
+
+Finance expense was down 21 percent to 86 million and pre-tax profits were up 33 percent to 364 million rupees.
+
+...
+
+[Data](articles/61bc2df1.json)
 
 ---
 
@@ -1156,6 +1176,28 @@ The volcano has been assigned an “orange” aviation hazard code, the ministry
 
 ---
 
+### Sri Lanka current forex earnings US$2.28bn in June, vehicles LCs $1.2bn since Feb
+
+*2025-08-03 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-forex-earnings-us2-28bn-in-june-vehicles-lcs-1-2bn-since-feb-234365/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current foreign exchange earning in June 2025 was 2.28 billion US dollar made up of goods, exports, remittances, service exports including tourism, which was 604 million dollars above goods imports, official data showed.
+
+Goods exports were 1.14 billion US dollars, up 6 percent, remittances were 635 million dollars up 22 percent, and other services were 508 million dollars.
+
+In services tourism earnings were 169.5 million US dollars, IT/BPO services were 508 million US dollars, up 16.6 percent.
+
+Imports were 1,682 million US dollars, up from 1507 million dollars last month, of which investment goods and base metals were 378 million dollars, up from 344 million last month.
+
+Current inflows exceeded imports by 604 million dollars in June.
+
+The balance must finance services outflows, which was 264 million dollars, interest and dividend payments and any debt repayments.
+
+...
+
+[Data](articles/55a71f6d.json)
+
+---
+
 ### Number of shootings in 2025 increases to 76
 
 *2025-08-03 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111123/number-of-shootings-in-2025-increases-to-76) · `en`
@@ -1711,39 +1753,5 @@ Some locals accuse Paetongtarn and her family of allowing the conflict — which
 ◼️
 
 [Data](articles/42ceb7ea.json)
-
----
-
-### ’’குஷூடன்’’ இந்தியர்கள் இருவர் கைது
-
-*2025-08-03 11:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷூடன்-இந்தியர்கள்-இருவர்-கைது/175-362199) · `ta`
-
-100 மில்லியன் ரூபாய் மதிப்புள்ள "குஷ்" போதைப்பொருளை கட்டுநாயக்க விமான நிலையத்திற்கு  வெளியே கொண்டு சென்றபோது, ஒரு வெளிநாட்டு பெண் பயணி மற்றும் ஒரு ஆண் பயணி விமான நிலைய பொலிஸ்  போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
-
-அவர்கள் இந்தியர்கள், அந்த ஆணுக்கு 37 வயது. அந்தப் பெண்ணுக்கு 47 வயது.
-
-இருவரும் தாய்லாந்தின் பாங்காக்கில் இருந்து இந்த "குஷ்" போதைப்பொருளை வாங்கி, இந்தியாவின் சென்னைக்கு வந்து, அங்கிருந்து இண்டிகோ ஏர்லைன்ஸ் விமானத்தில் கட்டுநாயக்க விமான நிலையத்திற்கு வந்தனர்.
-
-இருவரும் தங்கள் பயணப்பொதிகளில் 08 கிலோகிராம் 220 கிராம் "குஷ்" போதைப்பொருளை எடுத்துச் சென்றபோது கைது செய்யப்பட்டனர்.
-
-◼️
-
-[Data](articles/0d79fb17.json)
-
----
-
-### මධ්‍යමට තද වැසි
-
-*2025-08-03 11:23:47* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යමට-තද-වැසි/11-417677) · `si`
-
-මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවලට (02) දින රාත්‍රියේ සිට තද වැසි ලැබෙමින් පවති.පවතින වර්ෂාවත් සමග ජන ජීවිතයට ගැටළු රැසක් මතු වී ඇති අතර, මධ්‍යම කදුකරය් රථාවාහන ගමනා ගමනයටද පවතින අයහපත් කාළගුණය හමුවේ බාධා පැමිණ ඇත.
-
-පවතින අයහපත් කාලගුණයත් සමග හැටන් නුවරඑලිය සහ හැටන් කොළඹ ප්‍රධාන මාර්ගවල රථවාහන ධාවනය කිරිමේදි සැලකිලිමත්ව රිය ධාවනය කරන ලෙස හැටන් පොලිසිය රියදුරන්ගෙන් ඉල්ලා සිටියි.
-
-මේ අතර, නුවරඑලිය ප්‍රදේශයට (02) දින රාත්‍රියේ සිට ඇදහැලෙන අධික වර්ෂාව හේතුවෙන් නුවරඑලිය මහ දිස්ත්‍රික් මහ රෝහලට පිවිසනෙ මාර්ගයේ මංසන්ධිය සහ නුවරඑලිය උඩුපුස්සැල්ලාව මාර්ගය (03) දින උදැසන ජලයෙන් යට වීම නිසා රථවාහන ගමනා ගමනයට බාධා පැමිණ තිබුණි.
-
-◼️
-
-[Data](articles/81bfa2d4.json)
 
 ---

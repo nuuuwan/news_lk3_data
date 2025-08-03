@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 22:47:52**
+As of **2025-08-03 23:06:03**
 
 ## Newspaper Stats
 
-*Scraped **68,448** Articles*
+*Scraped **68,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 6,588
 adaderanalk | 8,481
 tamilmirrorlk | 9,933
 virakesarilk | 11,403
-adaderanasinhalalk | 11,793
+adaderanasinhalalk | 11,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,448 articles have been extended.
+61,973 (90.5%) of 68,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -145,6 +145,24 @@ Hamas called it “a deepening of the ongoing aggressions against our Palestinia
 ...
 
 [Data](articles/15fd35b8.json)
+
+---
+
+### රුසියාවේ තෙල් පිරිපහදු සංකීර්ණයකට යුක්‍රේන ප්‍රහාරයක්
+
+*2025-08-03 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212982) · `si`
+
+යුක්‍රේන හමුදා රුසියාවේ නොවොකුයිබයිෂෙව්ස්ක් ප්‍රදේශයේ පිහිටි තෙල් පිරිපහදු සහ ගබඩා සංකීර්ණයක් ඉලක්ක කර ප්‍රහාර එල්ල කර තිබේ.
+
+ඩ්‍රෝන යානා යොදාගෙන සිදුකළ මෙම ප්‍රහාරයෙන් එම සංකීර්ණයට දැඩි හානි සිදුවී ඇති බව සඳහන් වේ.
+
+මේ අතර රුසියාව ද යුක්‍රේනයේ ප්‍රහාරක ඩ්‍රෝන යානා නිපදවන කර්මාන්තශාලාවක් සහ දිගු දුර ඩ්‍රෝන පාලන මධ්‍යස්ථානයක් ඉලක්ක කර ඊයේ ප්‍රහාර එල්ලකර තිබුණි.
+
+එමෙන්ම යුක්‍රේනය තුළ තවත් එක් ප්‍රදේශයක් අල්ලා ගැනීමට ද රුසියානු හමුදාව සමත්ව ඇත.
+
+◼️
+
+[Data](articles/149ed844.json)
 
 ---
 
@@ -1729,21 +1747,5 @@ Some locals accuse Paetongtarn and her family of allowing the conflict — which
 ◼️
 
 [Data](articles/399b310e.json)
-
----
-
-### மைத்துனர் செலுத்திய டிப்பரில் நசுங்கி மைத்துனர் பலி
-
-*2025-08-03 11:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்துனர்-செலுத்திய-டிப்பரில்-நசுங்கி-மைத்துனர்-பலி/175-362198) · `ta`
-
-வவுனியா, நெடுங்கேணியில் உள்ள தனது வீட்டில் ஒரு கொட்டகையில் தூங்கிக் கொண்டிருந்த ஒருவர், டிப்பர் லாரியில் நசுங்கி உயிரிழந்ததாக நெடுங்கேணி பொலிஸார் தெரிவித்தனர்.
-
-வீட்டின் முன் உள்ள ஒரு கொட்டகையில் தூங்கிக் கொண்டிருந்தபோது, அவரது மைத்துனர் ஓட்டிச் சென்ற டிப்பர் லாரியில் அவர் நசுங்கி உயிரிழந்ததாகக் கூறப்படுகிறது.
-
-விபத்து நடந்த மறுநாள் காலை, டிப்பர் லாரியில் நசுங்கி இறந்த நபரை அப்பகுதி மக்கள் பார்த்தனர். அதன்படி, டிப்பர் லாரியை ஓட்டிச் சென்ற மைத்துனர் நெடுங்கேணி பொலிஸில் சரணடைந்துள்ளார்.
-
-◼️
-
-[Data](articles/0abf0d01.json)
 
 ---

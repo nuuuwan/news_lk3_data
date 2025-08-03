@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 12:07:39**
+As of **2025-08-03 12:26:01**
 
 ## Newspaper Stats
 
-*Scraped **68,349** Articles*
+*Scraped **68,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 595
 bbccomsinhala | 677
 colombotelegraphcom | 699
-economynextcom | 4,179
+economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,570
 adaderanalk | 8,466
-tamilmirrorlk | 9,913
+tamilmirrorlk | 9,914
 virakesarilk | 11,382
 adaderanasinhalalk | 11,771
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 11,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,349 articles have been extended.
+61,973 (90.7%) of 68,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### அந்தோனியார் ஆலயத்திற்கு அருகாமையில் ஆணின் சடலம் மீட்பு
+
+*2025-08-03 11:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/அந்தோனியார்-ஆலயத்திற்கு-அருகாமையில்-ஆணின்-சடலம்-மீட்பு/73-362202) · `ta`
+
+◼️
+
+[Data](articles/144d50d4.json)
+
+---
 
 ### துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயம்
 
@@ -389,6 +399,26 @@ Iran initially closed its airspace on June 13 following Israeli airstrikes on Te
 ◼️
 
 [Data](articles/8cb384b6.json)
+
+---
+
+### US tariff cut vote of confidence on Sri Lanka governance reforms, economy: EDB chief
+
+*2025-08-03 08:45:00* · [`economynextcom`](https://economynext.com/us-tariff-cut-vote-of-confidence-on-sri-lanka-governance-reforms-economy-edb-chief-234355/) · `en`
+
+ECONOMYNEXT – The reduction of a tariff by US President Donald Trump to 20 percent in a vote of confidence on Sri Lanka’s governance reforms and economy, Chairman of Sri Lanka’s Export Development Board, Mangala Wijesinghe said.
+
+“..[I]t is a powerful vote of confidence in Sri Lanka’s economic trajectory, our commitment to governance reforms, and the quality of our exports,” Wijesinghe said.
+
+“This outcome is a testament to the power of sustained diplomacy, mutual respect, and strategic collaboration.”
+
+The government’s consistent efforts led by President Anura Kumara Dissanayake towards fiscal stability, governance reforms, and anti-corruption measures laid the critical groundwork for the result he said.
+
+The the national negotiating team, which, with its expert skills and fact-based approach, successfully navigated this challenging situation he said, thanking diplomatic teams, private sector stakeholders, chambers and associations, and our international partners.
+
+...
+
+[Data](articles/88979a06.json)
 
 ---
 
@@ -1779,37 +1809,5 @@ Speaking at the event, Dr. Weerasinghe noted that while the infrastructure requi
 ...
 
 [Data](articles/f1451c36.json)
-
----
-
-### Indonesia’s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away
-
-*2025-08-02 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111092/indonesias-mount-lewotobi-laki-laki-erupts-again-spewing-giant-ash-plumes-miles-away) · `en`
-
-Mount Lewotobi Laki Laki, one of Indonesia’s most active volcanoes, erupted for a second straight day, sending a column of volcanic materials and ash up to 18 kilometers (11 miles) into the sky early Saturday and blanketing villages with debris. No casualties were immediately reported.
-
-Another eruption Friday evening had sent clouds of ash up to 10 kilometers (6.2 miles) high and had lit up the night sky with glowing lava and bolts of lightning. The two eruptions happened in a span of less than five hours.
-
-Indonesia’s Geology Agency recorded an avalanche of searing gas clouds mixed with rocks and lava traveling up to 5 kilometers (3 miles) down the slopes of the mountain. Drone observations showed deep movement of magma, setting off tremors that registered on seismic monitors.
-
-...
-
-[Data](articles/5663cb7c.json)
-
----
-
-### ඩිජිටල් ගනුදෙනු ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
-
-*2025-08-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212935) · `si`
-
-ඩිජිටල් ගනුදෙනු ප්‍රවර්ධනය කරනවා හා සමානවම බැංකු හා මූල්‍ය ආයතන ඊට අදාළ යටිතල පහසුකම් ගමේ සිටින ජනතාව දක්වාම රැගෙන යා යුතු බව මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
-
-ශ්‍රී ලංකා මහබැංකුව සංවිධාන කරන ඩිජිටල් ගනුදෙනු ප්‍රවර්ධන වැඩසටහනක් මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතාගේ ප්‍රධානත්වයෙන් දඹුල්ල ආර්ථික මධ්‍යස්ථානය කේන්ද්‍ර කරගනිමින් ඊයේ පැවැත් වුණි.
-
-එහිදී අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
-
-...
-
-[Data](articles/16e8fbe1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 15:31:40**
+As of **2025-08-03 15:48:20**
 
 ## Newspaper Stats
 
-*Scraped **68,402** Articles*
+*Scraped **68,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,577
 adaderanalk | 8,474
 tamilmirrorlk | 9,927
 virakesarilk | 11,392
-adaderanasinhalalk | 11,782
+adaderanasinhalalk | 11,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,402 articles have been extended.
+61,973 (90.6%) of 68,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### රුසියාවට අදත් භූමිකම්පාවක්
+
+*2025-08-03 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212974) · `si`
+
+රුසියාවේ කුරිල් දූපත් ආසන්නයේ අද (3) රික්ටර් මාපකයේ 7.0ක භූමිකම්පාවක් සිදුව ඇති බව විදෙස් මධ්‍ය සඳහන් කළේය.
+
+මේ හේතුවෙන් කම්චැට්කා අර්ධද්වීපයට සුනාමි අනතුරු ඇඟවීමක් ද රුසියානු හදිසි සේවා අමාත්‍යාංශය විසින් සිදුකර ඇත.
+
+කෙසේ වෙතත් අපේක්ෂා මට්මට මුහුදු රළ පැමිණ නොමැති අතර, ඒ හේතුවෙන් පසුව එම අනතුරු ඇඟවීම් ඉවත්කර තිබේ.
+
+◼️
+
+[Data](articles/45bd5aa0.json)
+
+---
 
 ### බෞද්ධ කටයුතු කොමසාර්ස් ජනරාල් ධුරයෙන් ඉවත් කරයි
 
@@ -1737,19 +1753,5 @@ Among actresses in Tamil movies , Saroja Devi has been a favourite of mine since
 ...
 
 [Data](articles/ddb35f66.json)
-
----
-
-### இலங்கை வந்தார் ஹிருத்திக் ரோஷன்
-
-*2025-08-03 01:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தார்-ஹிருத்திக்-ரோஷன்/175-362187) · `ta`
-
-சிட்டி ஒப் ட்ரீம்ஸ் நட்சத்திர விடுதியின் திறப்பு விழாவில் கலந்து கொள்வதற்காக அவர் இலங்கை வந்துள்ளார்.
-
-முன்னதாக இந்நிகழ்வுக்கு பொலிவுட் நட்சத்திரமான ஷாருக்கான் வருகை தரவிருந்த நிலையில், படப்பிடிப்பின் போது ஏற்பட்ட காயத்துக்கு அமெரிக்காவில் சிகிச்சை பெறுவதால் அவரது வருகை ரத்து செய்யப்பட்டிருந்தது. (a)
-
-◼️
-
-[Data](articles/37ad549c.json)
 
 ---

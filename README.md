@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 16:47:47**
+As of **2025-08-03 17:06:13**
 
 ## Newspaper Stats
 
-*Scraped **68,414** Articles*
+*Scraped **68,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,578
+adalk | 6,580
 adaderanalk | 8,475
 tamilmirrorlk | 9,929
 virakesarilk | 11,396
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,414 articles have been extended.
+61,973 (90.6%) of 68,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -119,6 +119,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5aaa8dc6.json)
+
+---
+
+### කෙහෙල්බද්දර පද්මෙගේ ගෝලයෙක් අල්ලයි
+
+*2025-08-03 15:39:34* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මෙගේ-ගෝලයෙක්-අල්ලයි/11-417684) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන කෙහෙල්බද්දර පද්මෙ ගේ සමීපතම ගෝලයෙකු වන ගම්පහ දේවා නැමැත්තා 08/03 දින උදෑසන තායිලන්තය වෙත පළා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+දිසානායකගේ දේවාන්මිණි දිසානායක නැමති මොහු 39 හැවිරිදි ගම්පහ ප්‍රදේශයේ මිනීමැරුම් , මත්ද්‍රව්‍ය ජාවාරම් ඇතුළු අපරාධ රාශියකටම චෝදනා ලබා ඇති පුද්ගලයෙකි.
+
+කෙහෙල්බද්දර පද්මෙ ඩුබායි හි සැගවී සිට පසුව තායිලන්තය වෙත පළා ගොස් සිටියදී , එරට ආරක්ෂක අංශ විසින් අත් අඩංගුවට ගෙන සිටියදී , එයින් මිදී අතුරුදන් වී සිටින්නෙකි.
+
+ගම්පහ දේවා නැමති අය 08/03 දින උදෑසන 08.10 ට තායිලන්තයේ බැංකොක් නුවර බලා ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 406 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී මෙම අත් අඩංගුවට ගැනීම සිදු වී තිබේ.
+
+මොහු මේ වනවිට වැඩිදුර විමර්ශන කටයුතු සදහා පෑලියගොඩ කොළඹ උතුර අපරාධ කොට්ඨාශය වෙත භාර දීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/abfcc55f.json)
 
 ---
 
@@ -1717,15 +1737,5 @@ It is rare that a person with such an influential political background gets puni
 ◼️
 
 [Data](articles/2efddcff.json)
-
----
-
-### Amarasuriya’s Education Reforms: Between Continuity, Contestation & Change
-
-*2025-08-03 07:04:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/amarasuriyas-education-reforms-between-continuity-contestation-change/) · `en`
-
-...
-
-[Data](articles/86b5c523.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 07:39:07**
+As of **2025-08-03 08:36:40**
 
 ## Newspaper Stats
 
-*Scraped **68,305** Articles*
+*Scraped **68,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,22 +17,108 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
-adaderanalk | 8,452
-tamilmirrorlk | 9,902
+adaderanalk | 8,458
+tamilmirrorlk | 9,905
 virakesarilk | 11,377
-adaderanasinhalalk | 11,765
+adaderanasinhalalk | 11,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,305 articles have been extended.
+61,973 (90.7%) of 68,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
 
-### කුෂ් කිලෝ 8ක් ගුවන් තොටේ දී අල්ලයි - ඉන්දීය ජාතිකයින් දෙදෙනක් අත්අඩංගුවට
+### ’செம்மணி தடயப்பொருட்களை அடையாளம் காட்டுங்கள்’
+
+*2025-08-03 07:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-தடயப்பொருட்களை-அடையாளம்-காட்டுங்கள்/175-362190) · `ta`
+
+செம்மணி - சித்துப்பாத்தி இந்துமயானத்தில் இனங்காணப்பட்ட மனிதப் புதைகுழியின் அகழ்வுப் பணிகளில் இதுவரை மீட்கப்பட்டுள்ள தடயப்பொருட்கள் பொதுமக்களால் அடையாளப்படுத்தப்படுமாக இருந்தால், அவற்றை அடிப்படையாகக்கொண்டு உண்மைகளைக் கண்டறிவதற்கான விசாரணைகளைக் கோர முடியும் என இலங்கைத் தமிழரசுக் கட்சியின் எம்.பி. சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+
+இது தொடர்பில் யாழ்ப்பாணம் நீதிவான் நீதிமன்றினால் விடுக்கப்பட்டுள்ள கட்டளையை மேற்கோள் காட்டி கருத்து தெரிவிக்கும் போது அவர் மேலும் குறிப்பிடுகையில்,
+
+செம்மணியில் மீட்கப்பட்ட என்புத்தொகுதிகளின் பின்னணியிலுள்ள இனப்படுகொலைச் சம்பவங்களை எண்பிப்பதற்கு, அங்கு நடைபெற்றுவரும் அகழ்வுப் பணிகளில் மீட்கப்பட்ட தடயப்பொருட்கள் உரியவர்களின் உறவினர்களால் அடையாளம் காட்டப்பட வேண்டும்.
+
+...
+
+[Data](articles/f4eec436.json)
+
+---
+
+### දළදා මංගල්‍යයේ අවසන් කුඹල් පෙරහැර අද
+
+*2025-08-03 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212956) · `si`
+
+ශ්‍රී ලාංකේය සංස්කෘතියේ අභිමානය ලොවට පෙන්වන මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍යයේ අවසන් කුඹල් පෙරහැර අද (03) වීථී සංචාරය කිරීමට නියමිතය.
+
+කෝට්ටේරාජා, පුලතිසිරාජා දෑල පිරිවරා ඉන්දිරාජා මංගල හස්තියා විසින් සධාතුක පෙරහැර කරඬුව වැඩම කළේය.
+
+අවසන් මහා පෙරහැර අගෝස්තු 08 දින වීථි සංචාරය කිරීමට නියමිතව ඇති අතර අගෝස්තු 09 වැනිදා පවත්වනු ලබන දහවල් පෙරහැරින් පසුව මහනුවර ඇසළ පෙරහැර මංගල්‍යය නිමාවට පත් වේ.
+
+◼️
+
+[Data](articles/3c7cb251.json)
+
+---
+
+### Grandson of former Indian PM gets life sentence for rape
+
+*2025-08-03 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111110/grandson-of-former-indian-pm-gets-life-sentence-for-rape) · `en`
+
+A court in southern India has sentenced a prominent politician in the state of Karnataka to life in prison after being found guilty of raping one of his domestic staff.
+
+The sentencing of Prajwal Revanna, who is from an influential political family in the state, took place on Saturday - a day after he was convicted of sexually assaulting his former employee.
+
+The allegations against the 34-year-old former Indian MP first came to light in 2023 after hundreds of explicit videos featuring him started circulating on social media, causing outrage across the country.
+
+Revanna had denied the charges. On Friday, he broke down and pleaded for a lesser punishment when he was found guilty.
+
+Revanna is a grandson of former Indian Prime Minister, H D Deve Gowda, whose Janata Dal (Secular) party is allied with current Prime Minister Narendra Modi’s BJP.
+
+It is rare that a person with such an influential political background gets punished in a case like this in India.
+
+...
+
+[Data](articles/55ee4c06.json)
+
+---
+
+### மூன்று நாள் காய்ச்சலால் இளைஞர் உயிரிழப்பு
+
+*2025-08-03 07:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-நாள்-காய்ச்சலால்-இளைஞர்-உயிரிழப்பு/175-362189) · `ta`
+
+இவ்வாறு உயிரிழந்தவர் யாழ்ப்பாணம், நாவற்குழி  தெற்கு, கைதடியைச்  சேர்ந்த சுந்தரலிங்கம் தேனுசன் (வயது 29) என்பவராவார்.
+
+மேற்படி இளைஞருக்கு கடந்த 29, 30, 31 ஆம் திகதி ஆகிய மூன்று நாள்கள் காய்ச்சல் ஏற்பட்டதால் தனியார் மருத்துவமனையில் சிகிச்சை பெற்றுள்ளார். பின்னர் நேற்றுமுன்தினம் வெள்ளிக்கிழமை நெஞ்சுக் குத்து ஏற்பட்டதைத் தொடர்ந்து சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில் நேற்று சனிக்கிழமை பிற்பகல் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இந்த மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டு பிரேத பரிசோதனைக்கு உத்தரவிட்டார். சாட்சிகளை சாவகச்சேரிப் பொலிஸார் நெறிப்படுத்தினர். (a)
+
+◼️
+
+[Data](articles/d6a5f429.json)
+
+---
+
+### செம்மணியில் நேற்றும் 4 எலும்புக்கூட்டுகள் அடையாளம்
+
+*2025-08-03 07:08:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்றும்-4-எலும்புக்கூட்டுகள்-அடையாளம்/175-362188) · `ta`
+
+யாழ்ப்பாணம், செம்மணிப் பகுதியில் உள்ள இரண்டு மனிதப் புதைகுழிகளில் இருந்தும் நேற்று சனிக்கிழமை இரண்டு சிறுவர்களின் எலும்புக்கூட்டுத் தொகுதிகள் உட்பட புதிதாக 4 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+அதேவேளை, ஏற்கனவே அடையாளம் காணப்பட்ட மனித எலும்புக்கூட்டுக் தொகுதிகளில் நேற்று 5 முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+இந்த மனிதப் புதைகுழிகளில் அகழ்வுப் பணிகள் இதுவரையில் கட்டம் கட்டமாக 37 நாட்கள் முன்னெடுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/9772c182.json)
+
+---
+
+### කුෂ් කිලෝ 8ක් ගුවන් තොටේ දී අල්ලයි
 
 *2025-08-03 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212955) · `si`
 
@@ -51,6 +137,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/df9b555d.json)
+
+---
+
+### Two Indians arrested with 8kg of ‘Kush’ cannabis at BIA
+
+*2025-08-03 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111109/two-indians-arrested-with-8kg-of-kush-cannabis-at-bia) · `en`
+
+Two Indian nationals have been arrested by Sri Lanka Customs at the Bandaranaike International Airport (BIA) for attempting to smuggle around 8 kilograms of ‘Kush’ cannabis into the country.
+
+◼️
+
+[Data](articles/2c8acaf9.json)
 
 ---
 
@@ -74,6 +172,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### India on path to becoming third-largest economy, says Modi
+
+*2025-08-03 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111108/india-on-path-to-becoming-third-largest-economy-says-modi) · `en`
+
+Asserting that India is on the path to becoming the world’s third-largest economy, Prime Minister Narendra Modi has said that the country must remain alert to its own economic priorities amid the instability and uncertainty facing the world economy.
+
+Modi’s remarks came just days after US President Donald Trump called India a “dead economy” after announcing a 25% tariff on the import of Indian goods along with an unspecified “penalty” for buying Russian military equipment and crude oil.
+
+Addressing a public meeting in his parliamentary constituency Varanasi on Saturday, Modi said, “As we talk about economic progress, I want to draw your attention to the current global scenario. The world economy is facing instability and uncertainty. In such times, countries are focusing solely on their own interests. India, too, is on the path to becoming the world’s third-largest economy and must remain alert to its own economic priorities.”
+
+...
+
+[Data](articles/968e2a0f.json)
+
+---
+
 ### තැන් කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
 
 *2025-08-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212953) · `si`
@@ -91,6 +205,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/772d3d84.json)
+
+---
+
+### Temporary driving licenses for tourists to be issued at BIA from today
+
+*2025-08-03 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111107/temporary-driving-licenses-for-tourists-to-be-issued-at-bia-from-today) · `en`
+
+A new service counter for the issuance of necessary driving licenses to foreign nationals visiting Sri Lanka for travel will be launched today (03) at the Bandaranaike International Airport (BIA) premises in Katunayake, Commissioner General of Motor Traffic Kamal Amarasinghe, stated.
+
+◼️
+
+[Data](articles/a9fce9f9.json)
+
+---
+
+### Final Kumbal Perahera of Kandy Esala Festival to take to the streets tonight
+
+*2025-08-03 05:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111106/final-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
+
+The fifth and final Kumbal Perahera of the Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (03).
+
+◼️
+
+[Data](articles/30f82dfd.json)
+
+---
+
+### Cloudy skies, heavy showers expected in several areas today
+
+*2025-08-03 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111105/cloudy-skies-heavy-showers-expected-in-several-areas-today-) · `en`
+
+Cloudy skies can be expected over most parts of the island today (3), the Department of Meteorology said.
+
+Meanwhile, showers or thundershowers will occur at several places in the Northern, North-Central, Eastern Central, and Uva provinces and in the Hambantota and Kurunegala districts after 1.00 p.m, the Met. Department added.
+
+Fairly heavy falls above 75 mm are likely at some places in these areas.
+
+Furthermore, several spells of showers will occur in the Western and Sabaragamuwa provinces and in the Galle, Matara and Puttalam districts.
+
+The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/da3c1a1e.json)
 
 ---
 
@@ -1667,183 +1825,5 @@ Medvedev on Thursday said Trump should remember that Moscow possessed Soviet-era
 ...
 
 [Data](articles/9b228936.json)
-
----
-
-### Fairly heavy rainfall expected in parts of the island
-
-*2025-08-02 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111082/fairly-heavy-rainfall-expected-in-parts-of-the-island-) · `en`
-
-The Meteorology Department states that showers or thundershowers will occur at several places in the Northern, North-Central, Uva, Eastern, Central, and Sabaragamuwa provinces, and in the Kurunegala and Hambantota districts after 1:00 p.m.
-
-Fairly heavy falls above 75 mm are likely at some places in these areas, the statement said.
-
-Several spells of showers will occur in the Western Province and in the Galle, Matara, and Puttalam districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b66d9dcb.json)
-
----
-
-### වෙරළ ආශ්‍රිත අනවසර ඉදිකිරීම් සඳහා වාර්ෂිකව අධික දඩ මුදලක් පැනවීමට සැරසෙයි
-
-*2025-08-02 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212922) · `si`
-
-මෙරට වෙරළ ආශ්‍රිත ප්‍රදේශවල ඉදිකර ඇති අනවසර ගොඩනැගිලි සඳහා වාර්ෂික දඩ මුදලක් අය කිරීමට නීති සකස්කරමින් පවතින බව වෙරළ සංරක්ෂණ හා වෙරළ කළමනාකරණ දෙපාර්තමේන්තුව පවසයි.
-
-එහි අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ටර්නි ප්‍රදීප් කුමාර මහතා පැවසුවේ දිවයින පුරා මෙවැනි අනවසර ඉදිකිරීම් 2500 කට අධික ප්‍රමාණයක් පවතින බවට හඳුනාගෙන ඇති බවය.
-
-"පසුගිය වසර 10ක් හෝ 15ක් තුළ විශාල වශයෙන් වෙරළ කලාප තුළ අනවසර ඉදිකිරීම් සිදුකරලා තියෙනවා. අපි සමහර ඒවා කඩා දමනවා. ඇතැම් ඒවාට වාර්ෂිකව ඉතා වැඩි දඩයකට යටත් කරනවා. මේ අවිධිමත්භාවය විධිමත් භාවයට පත් කිරීමට අවශ්‍ය නීතිමය කටයුතු කරනවා."
-
-◼️
-
-[Data](articles/564354e3.json)
-
----
-
-### ගල්කිස්සේ ගැටුමකින් එක් අයෙකු මරුට
-
-*2025-08-02 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212921) · `si`
-
-ගල්කිස්ස පොලිස් වසමේ අරලිය නිවාස ප්‍රදේශයේදී දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් පුද්ගලයින් දෙදෙනෙකු බරපතළ තුවාල ලබා රෝහල්ගත කිරීමෙන් පසු එක් අයෙකු මියගොස් තිබේ.
-
-ඊයේ (01) සවස් කාලයේදී මෙම සිදුවීම ඇතිවී තිබෙන අතර තියුණු ආයුධවලින් පහරදීම හේතුවෙන් අදාළ පුද්ගලයින් දෙදෙනා බරපතළ තුවාල සහිතව ලුනාව රෝහලට ඇතුලත්  කර තිබුණි.
-
-ගල්කිස්ස පොලීසිය සඳහන් කළේ, තුවාලකරුවන්ගෙන් එක් පුද්ගලයෙකු ලුනාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බවත් තුවාල ලැබූ අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුලත් කෙරුණු බවත් ය.
-
-මියගොස් ඇත්තේ වයස අවුරුදු 28 ක් වූ අඟුලාන ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-දෙපාර්ශවයක් අතර ඇති වූ ආරවුලක් හේතුවෙන් තියුණු ආයුධවලින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
-
-මෙම ඝාතනය සිදුකළ සැකකරුවන් හඳුනාගෙන ඇති අතර ප්‍රදේශයෙන් පලාගොස් සිටින එම සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/188d30f6.json)
-
----
-
-### අද ප්‍රදේශ කිහිපයකට තද වැසි
-
-*2025-08-02 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212919) · `si`
-
-උතුරු, උතුරු-මැද, ඌව, නැගෙනහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් කුරුණෑගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් අද (2) ප.ව. 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-එමෙන්ම එම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් එහි දැක්වේ.
-
-ඊට අමතරව බස්නාහිර පළාතේත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/d5b97c7d.json)
-
----
-
-### மட்டு லயன்ஸ் கிளப் வீதியில் நிலத்தில் புதைக்கப்பட்டிருந்த நிலையில் ரி.56 துப்பாக்கி ரவைகள் மகசீன்கள் மீட்பு
-
-*2025-08-02 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221594) · `ta`
-
-மட்டக்களப்பு நகர் பிரதேசத்தில் நிலத்தில் புதைக்கப்பட்டிருந்த நிலையில் ரி.56 ரக துப்பாக்கி ஒன்று மற்றும் ரவைகள், மகசீன் என்பவற்றை  வெள்ளிக்கிழமை (01) இரவு விசேட அதிரடிப்படையினர் மீட்டு ஒப்படைத்துள்ளதாக மட்டு தலைமையக பொலிஸ் நிலைய பொறுப்பதிகாரி பிரியந்த பண்டார தெரிவித்தார்.
-
-லயன்ஸ் கிளப் வீதியில் உள்ள காணி ஒன்றில் புதிதாக வீடு கட்டுமானப்பணி இடம்பெற்று வருகின்ற நிலையில் சம்பவ தினமான இன்று வெள்ளிக்கிழமை (01) இரவு 10.00 மணியளவில் அங்கு மலசல கூடத்திற்கு குளி அமைப்பதற்கான நிலத்தை தோண்டும் போது புதைத்து வைக்கப்பட்டிருந்த நிலையில் பொலித்தீன் பையில் சுற்றப்பட்ட நிலையில் துப்பாக்கி இருப்பதை கண்டு விசேட அதிரடிப்படையினருக்கு அறிவித்தனர்.
-
-இதனையடுத்து சம்பவ இடத்திற்கு சென்ற விசேட அதிரடிப்படையினர் ரி 56 ரக துப்பாக்கி ஒன்றும் 50 துப்பாக்கி ரவைகள், 2 மகசீன்களை மீட்டனர். இவ்வாறு மீட்கப்பட்ட ஆயுதங்களை ஒப்படைத்து உள்ளதாக  அவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/00b605d6.json)
-
----
-
-### சுன்னாகத்தில் இடம்பெற்ற வாள்வெட்டு சம்பவத்தில் ஒருவர் படுகாயம்!
-
-*2025-08-02 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221593) · `ta`
-
-1ஆம் திகதி வெள்ளிக்கிழமை சுன்னாகம் பொலிஸ் பிரிவிற்குட்பட்ட சபாபதிப்பிள்ளை வீதியில் இடம்பெற்ற வாள்வெட்டு சம்பவத்தில் ஒருவர் படுகாயமடைந்த நிலையில் சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-தனியாக சென்ற ஒருவர் மீது, முச்சக்கர வண்டியில் வந்த மூவர் அடங்கிய குழுவினர் இந்த வாள்வெட்டு தாக்குதலை நடாத்திவிட்டு தப்பிச் சென்றனர்.
-
-இந்நிலையில் படுகாயமடைந்த நபர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சேர்ப்பிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார். சுன்னாகம் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/a1a6eb30.json)
-
----
-
-### அமெரிக்க தீர்வை வரி 20% ஆக குறைப்பு : மேலும் 15% இலக்காக நடவடிக்கை எடுக்க வேண்டும்: சஜித் பிரேமதாச
-
-*2025-08-02 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221592) · `ta`
-
-அமெரிக்காவுக்கு ஏற்றுமதி செய்யும் பொருட்களுக்காக அமெரிக்காவின் தீர்வை வரி 20 வீதமாக குறைத்திருப்பது குறித்து  மகிழ்ச்சியடைவதுடன் அதனை மேலும் 15 வீதத்துக்கும் குறைவான இலக்காக வைத்துக்கொள்ள நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
-
-அமெரிக்காவின் தீர்வை வரி வீதம் 20வீதம் வரை குறைத்திருப்பதாக அமெரிக்கா அறிவித்துள்ளமை தொடர்பில் அவர் தனது எக்ஸ் தளத்தில் இவ்வாறு பதிவிட்டுள்ளார்.
-
-இலங்கை பொருட்களுக்கான  தீர்வை வரியை ஐக்கிய அமெரிக்கா  20 வீதமாக குறைத்திருப்பதில் மகிழ்ச்சியடைக்கிறோம். இந்தியாவுக்கு 25 வீதம் செலுத்தியுள்ள நிலையில் எங்களை, வியட்நாம் மற்றும் பங்களாதேஷுடன் இணைத்திருக்கிறது.
-
-எமது ஏற்றுமதியாளர்களுக்கு உண்மையான ஊக்குவிப்பை வழங்குவதற்காக நாம் 15வீதத்துக்கும் குறைவான இலக்கை வைத்துக்கொள்ள வேண்டும். அதுதொடர்பில் பேச்சுவாரத்தை நடத்துவதற்கு எமக்கு வர்த்தக பொருளாதார வல்லுநர்கள் குழுவொன்று இருக்கவேண்டும்.
-
-◼️
-
-[Data](articles/eedff4bf.json)
-
----
-
-### நடிகை பியுமி ஹங்சமாலிக்கு எதிராக 289 மில்லியன் வருமானவரி தவிர்ப்பு வழக்கு
-
-*2025-08-02 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221591) · `ta`
-
-289 மில்லியன் ரூபாவுக்கும் அதிகமான வருமான வரியை செலுத்தாமை தொடர்பில் நடிகையும் பிரபல மொடல் அழகியுமான பியுமி ஹங்சமாலிக்கு எதிராக கொழும்பு மேல் நீதிமன்றத்தில் வழக்கு தொடரவுள்ளதாக உள்நாட்டு இறைவரித் திணைக்களம் கொழும்பு நீதவான் நீதிமன்றத்துக்கு அறிவித்துள்ளது.
-
-வரிச் சட்டத்தின் விரிவிதானங்களுக்கு அமைய கடந்த 2022 மற்றும் 2023 ஆம் ஆண்டுக்கான செலுத்தாது விடப்பட்ட 289 மில்லியன் ரூபா தொடர்பில் பியுமி ஹங்சமாலிக்கு எதிராக இந்த வழக்கு தொடரப்பட்டுள்ளது.
-
-வருமான வரியை செலுத்தாமை தொடர்பில் வழக்கு தாக்கல் செய்யவுள்ளதாக உள்நாட்டு இறைவரித் திணைக்களம் நீதிமன்றத்துக்கு அறிவித்தது.
-
-வருமான வரி குற்றங்கள் தொடர்பில் முன்னெடுக்கப்படும் விசாரணைகளுக்கு அமைய அதன் முன்னேற்ற அறிக்கைகள் தொடர்பிலான பரிசீலனை கொழும்பு மேலதிக நீதவான் பஷன் அமரசேன முன்னிலையில் நேற்றுமுன்தினம் அழைக்கப்பட்டது.
-
-...
-
-[Data](articles/c4454aae.json)
-
----
-
-### யாழ். செம்மணி மயானத்திற்கு அருகாமையில் விபத்தில் சிக்கிய நபர் உயிரிழப்பு!
-
-*2025-08-02 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/221590) · `ta`
-
-யாழ். செம்மணி மயானத்திற்கு அண்மையில் இடம்பெற்ற விபத்தில் படுகாயமடைந்த நபர் வியாழக்கிழமை (31) உயிரிழந்துள்ளார். மீசாலை கிழக்கு மீசாலை பகுதியை சேர்ந்த கோபாலகிருஷ்ணசாமி லிங்கேஸ்வரன் (வயது 62) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-இவர் கடந்த 28ஆம் திகதி மோட்டார் சைக்கிளில் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு வந்துகொண்டிருந்தார்.
-
-இதன்போது செம்மணி மயானத்திற்கு அருகாமையில் வீதியால் சென்ற துவிச்சக்கர வண்டியை முந்துவதற்கு முயற்சித்தவேளை துவிச்சக்கர வண்டியுடன் மோதி விபத்து சம்பவித்துள்ளது.
-
-இந்நிலையில் படுகாயமடைந்த இருவரும் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக சேர்ப்பிக்கப்பட்டனர். துவிச்சக்கர வண்டியில் சென்றவர் சிகிச்சையின் பின்னர் வீடு திரும்பியுள்ளார். இருப்பினும் குறித்த நபர் சிகிச்சை பலனின்றி வியாழக்கிழமை (31) இரவு உயிரிழந்தார்.
-
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
-
-◼️
-
-[Data](articles/5159c434.json)
-
----
-
-### Sajith and Harsha weigh in on US tariff reduction
-
-*2025-08-02 00:47:57* · [`dailyftlk`](https://www.ft.lk/news/Sajith-and-Harsha-weigh-in-on-US-tariff-reduction/56-779808) · `en`
-
-Opposition leader Sajith Premadasa urges Government to field team of trade economists and experienced negotiators to bring tariff down to 15%
-
-SJB MP Dr. Harsha de Silva glad US tariff is down to 20%, calls for serious work to build bridges with the world
-
-Main Opposition party Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa yesterday welcomed the United States’ decision to reduce tariffs on Sri Lankan exports to 20%. In a message posted on X, he argued that Sri Lanka should push for a further reduction to 15% to boost its export competitiveness. “This puts us on par with Vietnam and Bangladesh, while India pays 25%,” he said. “A rate under 15% would give our exporters a real lift. We should field a team of trade economists and experienced negotiators to keep pressing forward.”
-
-...
-
-[Data](articles/d70bf6dc.json)
 
 ---

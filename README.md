@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 12:50:03**
+As of **2025-08-03 13:06:02**
 
 ## Newspaper Stats
 
-*Scraped **68,358** Articles*
+*Scraped **68,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,570
-adaderanalk | 8,466
+adalk | 6,572
+adaderanalk | 8,467
 tamilmirrorlk | 9,916
 virakesarilk | 11,385
 adaderanasinhalalk | 11,772
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,358 articles have been extended.
+61,973 (90.7%) of 68,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### රුසියාවේ ගිනිකන්දක් වසර 600කට පසු සක්‍රීය වෙයි
+
+*2025-08-03 12:34:11* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-ගිනිකන්දක්-වසර-600කට-පසු-සක්‍රීය-වෙයි/11-417682) · `si`
+
+පසුගියදා ඇති බූ දැවැන්ත භූකම්පනයේ බලපෑම හේතුවෙන් මෙම ගිනිකන්ද සක්‍රීය වන්නට ඇති බව රුසියානු මාධ්‍ය වාර්තා කර ඇත.
+
+මීටර් 1,856ක් උස මෙම ගිනිකන්ද පුපුරා යාමෙන් පසු මීටර් 6,000ක්(සැතපුම් 3.7ක්) දක්වා අළු දුමාරය ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/29237c81.json)
+
+---
 
 ### செம்மணி மனித புதைகுழி நீதிக்கான பயணத்தில் புதிய கதவுகளை திறந்துவிடும் ; அது மனிதபடுகொலை, யுத்த குற்றம் இடம்பெற்ற இடம் , இராணுவத்தினரே செய்தார்கள் என்பதற்கான ஆதாரங்கள் உள்ளன- சிரேஸ்ட சட்டத்தரணி கே.எஸ் இரத்தினவேல்
 
@@ -139,6 +153,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/144d50d4.json)
+
+---
+
+### Associate of ‘Dubai Sudda’ arrested in Panadura
+
+*2025-08-03 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111119/associate-of-dubai-sudda-arrested-in-panadura) · `en`
+
+A close associate of Prasad Chathuranga Kodagoda, also known as “Dubai Sudda” has been arrested by the Panadura Division Crime Investigation Unit.
+
+Police have also taken into custody 4,665 milligrams of ICE (crystal meth) found in his possession.
+
+According to information revealed during an investigation into two stolen motorcycles, the suspect was apprehended, police said.
+
+Police also suspect that the individual is connected to the drug network operated by “Dubai Sudda” through the ‘eZ Cash’ system via WhatsApp.
+
+◼️
+
+[Data](articles/5650f232.json)
 
 ---
 
@@ -603,6 +635,20 @@ A recent investigation by Ada Derana revealed that Israeli nationals arriving on
 ...
 
 [Data](articles/f4eec436.json)
+
+---
+
+### දළඳා පෙරහර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩසටහනක්
+
+*2025-08-03 07:42:43* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-පෙරහර-වෙනුවෙන්-විශේෂ-ආරක්ෂක-වැඩසටහනක්/11-417673) · `si`
+
+අගෝස්තු 08 දා තෙක් පැවැත්වෙන මහනුවර ඇසළ පෙරහර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක් හා රථවාහන
+
+මේ වෙනුවෙන් මාර්ග බාධක, ආරක්ෂක රාජකාරී, රථ වාහන හා පුද්ගලයන් පරීක්ෂා කිරීම, සංචාරකයින්ට මග පෙන්වීම හා රථ වාහන ගාල් කිරීම් ඇතුළු විශේෂ වැඩපිළිවෙලක් දියත් කර ඇති බව පොලිස් මූලස්ථානය කියයි.
+
+◼️
+
+[Data](articles/75418265.json)
 
 ---
 
@@ -1743,55 +1789,5 @@ Know Your Neethi ( ඔබේ නීතිය හඳුනා ගන්න) ත�
 ◼️
 
 [Data](articles/951583a2.json)
-
----
-
-### Chinese national arrested for distributing ‘ICE’ to casino, nightclub patrons
-
-*2025-08-02 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111096/chinese-national-arrested-for-distributing-ice-to-casino-nightclub-patrons) · `en`
-
-The Colombo South Divisional Crime Investigation Bureau has arrested a key suspect allegedly involved in a racket of selling crystal methamphetamine (commonly known as ‘ICE’) to Chinese nationals at nightclubs and casinos in Colombo.
-
-The suspect, a Chinese national illegally residing in the country, was apprehended in Bambalapitiya based on intelligence received regarding a drug trafficking operation catering to Chinese nationals in Sri Lanka.
-
-At the time of the arrest, police officers recovered over 50 grams of crystal methamphetamine found in his possession.
-
-Preliminary investigations revealed that the suspect had been sourcing the narcotics from a Maldivian national and a Sri Lankan associate and was selling them to Chinese nationals who frequent nightclubs and casinos in Colombo.
-
-Police further confirmed that the suspect had initially arrived in Sri Lanka in 2019 and has since overstayed his visa, remaining in the country illegally.
-
-...
-
-[Data](articles/bd17c07a.json)
-
----
-
-### The Rise of the Most Powerful Woman in North Korea
-
-*2025-08-02 15:38:00* · [`islandlk`](http://island.lk/the-rise-of-the-most-powerful-woman-in-north-korea/) · `en`
-
-When the most powerful woman in North Korea declared earlier this week, with surgical clarity, that her nation would not return to dialogue with South Korea and would now only engage the United States on the basis of recognition as a de facto nuclear power, the geopolitical reverberations were profound. On the surface, it was a defiant reaffirmation of Pyongyang’s traditional posture. But beneath the steel language lay a significant ideological repositioning — not only in military terms, but in the very architecture of power within the Democratic People’s Republic of Korea.
-
-...
-
-[Data](articles/f9e22645.json)
-
----
-
-### දොඩංගොඩ ප්‍රාදේශීය සභාවේ සභාපති ගමන්ගත් රථය අනතුරක
-
-*2025-08-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212940) · `si`
-
-දොඩංගොඩ ප්‍රාදේශීය සභාවේ සභාපතිවරයා ගමන්කළ රථය අද (02) උදෑසන 09.00ට පමණ අනතුරට ලක්ව තිබේ.
-
-අදාළ කැබ් රථය නෑබඩ ප්‍රදේශයේ සිට ගොවින්න ප්‍රදේශය දක්වා ගමන් කරමින් තිබියදී ඉදිරිපසින් පැමිණි ටිපර් රථයක පිටුපස කෙළවරේ ගැටී මාර්ගයෙන් ඉවතට පැන මෙම අනතුර සිදුව තිබු‍ණි.
-
-අනතුරෙන් කිසිදු පුද්ගලයෙකුට තුවාල සිදුව නොමැති අතර කැබ් රථයට සුළු හානි සිදුවී ඇත.
-
-අනතුරු සිදුවන අවස්ථාවේදී අදාළ කැබ් රථය සභාපතිවරයා විසින් පදවාගෙන ගොස් ඇති බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/80b88a89.json)
 
 ---

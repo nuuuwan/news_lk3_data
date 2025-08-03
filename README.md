@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 09:52:16**
+As of **2025-08-03 10:17:36**
 
 ## Newspaper Stats
 
-*Scraped **68,322** Articles*
+*Scraped **68,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,179
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,564
+adalk | 6,566
 adaderanalk | 8,460
-tamilmirrorlk | 9,906
+tamilmirrorlk | 9,907
 virakesarilk | 11,377
 adaderanasinhalalk | 11,768
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 11,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,322 articles have been extended.
+61,973 (90.7%) of 68,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### நல்லூர் கந்தனை தரிசித்தார் பிரதமர்
+
+*2025-08-03 09:50:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தனை-தரிசித்தார்-பிரதமர்/175-362192) · `ta`
+
+◼️
+
+[Data](articles/38de315c.json)
+
+---
 
 ### ’’வடக்கில் 70 பாடசாலைகளுக்கு மேல் மூடவேண்டியுள்ளது’’
 
@@ -198,6 +208,24 @@ It is rare that a person with such an influential political background gets puni
 
 ---
 
+### දොඩංගොඩ සභාපති පැදවූ නිල කැබ් රිය අනතුරක
+
+*2025-08-03 07:15:56* · [`adalk`](https://www.ada.lk/breaking_news/දොඩංගොඩ-සභාපති-පැදවූ-නිල-කැබ්-රිය-අනතුරක/11-417670) · `si`
+
+දොඩන්ගොඩ ප්‍රාදේශීය සභාවේ සභාපතිවරයා පදවාගෙන ගිය නිළ කැබ් රථය පසුගිය 02 වනදා උදැසන වරකාගොඩ පොලිස් වසමේ ඉහල කරන්නාගොඩ ප්‍රදේශයේදී අනතුරකට භාජනය වී ඇති බව වරකාගොඩ පොලිසිය පැවසීය.
+
+දොඩන්ගොඩ ප්‍රාදේශීය සභාවේ සභාපති නිලූෂ කවිරත්න මහතා පසුගිය 02 වනදා උදැසන කිසියම් කටයුත්තක් සඳහා තම බල ප්‍රදේශයෙන් පිට වරකාගොඩ දෙස සිට ගෝවින්න දෙසට දොඩන්ගොඩ ප්‍රාදේශීය සභාව සතු නිළ කැබ් රථයෙන් ගමන් කරමින් සිටියදී කරන්නාගොඩ සංස්කෘතික මධ්‍යස්ථානය ආසන්නයේ පිහිටි වංගුවේදී ඉදිරිපසින් පැමිණි වැලිලොරියක වැදී කැබ් රථය පාරෙන් ඉවතට පැන කාණුවට වැටී මෙම අනතුර සිදුවී ඇත.
+
+අනතුර සිදුවන අවස්ථාවේ එම කැබ් රථය පදවා ඇත්තේ සභාපතිවරයා බවට මුලික පොලිස් පරීක්ෂණ වලදී හෙළිවී ඇත.
+
+අනතුරෙන් සභාපතිවරයාට හානියක් සිදුවී නොමැති අතර කැබ් රථයේ වම්පස ඉදිරි කොටස සහ ලොරි රථයේ වැදුණු බඳ ප්‍රදේශය ට හානි සිදුවී ඇත.වරකාගොඩ පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/ceb0462f.json)
+
+---
+
 ### செம்மணியில் நேற்றும் 4 எலும்புக்கூட்டுகள் அடையாளம்
 
 *2025-08-03 07:08:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்றும்-4-எலும்புக்கூட்டுகள்-அடையாளம்/175-362188) · `ta`
@@ -211,6 +239,22 @@ It is rare that a person with such an influential political background gets puni
 ◼️
 
 [Data](articles/9772c182.json)
+
+---
+
+### අද මි.මී. 75 ඉක්මවා වහින පැති මෙන්න
+
+*2025-08-03 07:07:50* · [`adalk`](https://www.ada.lk/breaking_news/අද-මි-මී--75-ඉක්මවා-වහින-පැති-මෙන්න/11-417669) · `si`
+
+අද දිනයේදී දිවයිනේ බොහෝ ප්‍රදේශවල අහස වළාකුලින් බරව පවතිනූ  ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරු-මැද, නැහෙනහිර, මධ්‍යම හා ඌව පළාත්වලත් හම්බන්තොට හා කුරුණෑගල දිස්ත්‍රි්ත්‍රික්ක ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවද එම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසිඇතිවන බවද එම දෙපාර්තමේන්තුව කියයි.
+
+බස්නාහිර, සබරගමුව පළාත්වලත් ගාල්ල, මාතර හා පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/2efddcff.json)
 
 ---
 
@@ -1773,65 +1817,5 @@ Uribe, whose legal team has said it will appeal, is to report to authorities in 
 ...
 
 [Data](articles/114eae08.json)
-
----
-
-### දෙහිඕවිටදී බස් රථයක් ප්‍රපාතයකට පෙරළෙයි
-
-*2025-08-02 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212927) · `si`
-
-කෑගල්ල - අවිස්සාවේල්ල මාර්ගයේ දෙහිඕවිට තැඹිලියාන ප්‍රදේශයේදී බස් රථයක් ප්‍රපාතයකට පෙරළී තිබේ.
-
-අදාළ බස් රථයේ ඇගලුම් කර්මාන්ත ශාලාවක සේවක සේවිකාවන් පිරිසක් ගමන්කර තිබූ බවද වාර්තා වෙයි.
-
-බස් රථයේ 41 දෙනෙකු පමණ ගමන් කර තිබෙන අතර ඔවුන් සියලුදෙනාම අවිස්සාවේල්ල මූලික රෝහලට ඇතුළත් කර තිබෙන බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-දැරණියගල සිට අවිස්සාවේල්ල කර්මාන්ත පුරය දක්වා ධාවනය කරමින් තිබියදී බස් රථය අනතුරට ලක්වී තිබේ.
-
-◼️
-
-[Data](articles/42be5ddc.json)
-
----
-
-### Sri Lanka faces external triple whammy from Trump regime uncertainty
-
-*2025-08-02 08:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-faces-external-triple-whammy-from-trump-regime-uncertainty-234239/) · `en`
-
-ECONOMYNEXT –  Sri Lanka, the world and US and the world is suddenly facing a triple whammy from the nationalist and interventionist actions of President Donald Trump that as well as the effects of the Fed’s inflationism via the excess liquidity driven single policy rate (ample reserves regime).
-
-The Dow Jones index tumbled 1.23-pct (542 points) on Friday as the Trump tariffs went into effect, albeit at a lower than initially expected rate.
-
-The Euro Stoxx 50 Index fell 154 points or 2.9 percent, with the FTSE 100 falling 0.7 percent, and the Nikkei falling 270 points, or 0.66 percent.
-
-Trump’s actions where the government changes the expected rule of the game is called regime uncertainty.
-
-Regime uncertainty which is an undermining of established rules governing, reduces the confidence of doing business and creates uncertainty and distrust of the system.
-
-...
-
-[Data](articles/e1c921c0.json)
-
----
-
-### One dead, one injured following clash between two groups in Mount Lavinia
-
-*2025-08-02 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111085/one-dead-one-injured-following-clash-between-two-groups-in-mount-lavinia) · `en`
-
-Two individuals were seriously injured in a clash between two groups in the Araliya Housing area under the jurisdiction of the Mount Lavinia Police Division.
-
-One of the injured has since succumbed to his injuries while undergoing treatment, said police.
-
-The incident occurred last evening (01), resulting in both victims being admitted to Lunawa Hospital with serious wounds caused by sharp weapons.
-
-According to the Mount Lavinia Police, one of the injured, a 28-year-old resident of the Angulana area, died during treatment at Lunawa Hospital. The other injured person was transferred to the Colombo South Teaching Hospital in Kalubowila for further medical treatment.
-
-Preliminary investigations indicate that the fatal attack was the outcome of a dispute between two parties, involving the use of sharp weapons, said police.
-
-The suspects responsible for the attack have been identified, and the Mount Lavinia Police are conducting further investigations to apprehend those who have fled the scene.
-
-◼️
-
-[Data](articles/d49fb78e.json)
 
 ---

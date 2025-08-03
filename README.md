@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 01:48:53**
+As of **2025-08-04 02:06:49**
 
 ## Newspaper Stats
 
-*Scraped **68,456** Articles*
+*Scraped **68,458** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
-colombotelegraphcom | 700
+colombotelegraphcom | 702
 islandlk | 4,180
 economynextcom | 4,182
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,456 articles have been extended.
+61,973 (90.5%) of 68,458 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -223,6 +223,20 @@ Hamas called it “a deepening of the ongoing aggressions against our Palestinia
 ◼️
 
 [Data](articles/f37b9116.json)
+
+---
+
+### Broad, Inclusive Consultation Essential For Consensual Educational Reforms
+
+*2025-08-03 20:03:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/broad-inclusive-consultation-essential-for-consensual-educational-reforms/) · `en`
+
+Sri Lanka’s education system, once a beacon of progress in South Asia with its high literacy rate, now faces pressing challenges. Disparities in quality of education —particularly between urban and rural areas—are widening due to outdated curricula, insufficient resources, and a shortage of qualified teachers. Socio-economic barriers contribute to higher dropout rates and unequal access to quality education, threatening upward social mobility.
+
+Globally, the 20th century witnessed a rapid expansion of public education, with curriculum development evolving in tandem with theories of social change. In Sri Lanka, education was instrumental in promoting national unity in the early post-independence period. Today, however, it faces growing demands for financial resources and accountability. Neo-liberal, market-driven reforms are reshaping education worldwide, placing further strain on systems already struggling to balance equity and quality.
+
+...
+
+[Data](articles/10bc0cff.json)
 
 ---
 
@@ -447,6 +461,20 @@ During the event, the Minister presented the first driver’s license to an Indi
 ...
 
 [Data](articles/4dcd65e4.json)
+
+---
+
+### The Kattankudy Mosque Massacre: A Day Of Bloodshed Sri Lankan Muslims Cannot Forget
+
+*2025-08-03 17:42:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-kattankudy-mosque-massacre-a-day-of-bloodshed-sri-lankan-muslims-cannot-forget/) · `en`
+
+On August 3, 1990, one of the darkest chapters in Sri Lanka’s ethnic conflict unfolded when the Liberation Tigers of Tamil Eelam (LTTE) carried out a brutal massacre at the Kattankudy Mosque in Eastern Province. Over 147 Muslim worshipperswere mercilessly gunned down while offering their prayers in what remains one of the most horrific attacks against the Muslim community in Sri Lanka.
+
+That evening, as devout Muslims gathered for Isha prayers, LTTE militants stormed the mosque and opened fire indiscriminately. The attackers showed no mercy—men, elderly worshippers, and even young boys were slaughtered in cold blood. Survivors recounted scenes of unimaginable terror as the militants ensured no one escaped alive. The massacre was part of a broader campaign of ethnic cleansing by the LTTE, which sought to expel Muslims from areas they claimed as part of a Tamil homeland.
+
+...
+
+[Data](articles/fec0fc8c.json)
 
 ---
 
@@ -1725,39 +1753,5 @@ Police also suspect that the individual is connected to the drug network operate
 ◼️
 
 [Data](articles/5650f232.json)
-
----
-
-### සෙවනගල හා පැල්වත්ත ගැටලුවට වහාම රජය මැදිහත්වන්න
-
-*2025-08-03 11:42:07* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-හා-පැල්වත්ත-ගැටලුවට-වහාම-රජය-මැදිහත්වන්න/11-417679) · `si`
-
-“ලංකා සීනි සමාගමට අයත් සෙවනගල සහ පැල්වත්ත කර්මාන්ත ණය බරින් මිරිකළා.වහාම රජය මැදිහත්වී එම අර්බුදයෙන් ආයතන ගොඩගෙන සේවකයින්ගේ සහ ගොවීන්ගේ අනාගත සුරක්ෂිත කරන්න” යැයි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-ඒ මහතා එසේ පැවසුවේ (02) වෙනිදා බුත්තල ශ්‍රී චන්ද්‍ර මදුරාරාමයේ පැවති උක් ගොවීන්ගේ සහ සේවකයින්ගේ හමුවක් අමතමිනි.විපක්ෂ නායකවරයා මෙසේද පැවසීය,
-
-"පැල්වත්ත සහ සෙවනගල ගොවීන්ට උක් ගස් සඳහා ගෙවිය යුතු මුදල් සහ උක් ගස් ප්‍රවාහනය කරන ලොරි රථ වලට ගෙවිය යුතු මුදල් මාස ගණනකින් ගෙවා නැහැ.උක් ගස් භාර ගැනීම සීමා කරලා.මෙම තත්වය මත සෙවනගල සහ පැල්වත්ත සීනි කර්මාන්ත ශාලා වැසී යාමේ තත්වයක පත් වෙලා.
-
-අප කිසිසේත් මෙම ආයතන දෙක වැසී යන තෙක් බලා සිටින්නේ නෑ.රජයට සහ විෂය භාර ඇමතිවරයාට අපි බල කර සිටිනවා වහාම මැදිහත්ව මෙම ආයතන සුරැකීමට පියවර ගන්නා ලෙස.ජේ.ආර් ජයවර්ධන රජය යටතේ ආරම්භ කළ මෙම කර්මාන්ත ශාලා වලින් දහස් සංඛ්‍යාත පවුල් ජීවත් වෙනවා. විශේෂයෙන් හය දහසකට අධික පිරිසක් මේවගේ සේවය කරනවා.ඊට අමතරව විශාල පිරිසක් කම්කරුවන් ලෙස සේවය කරනවා.
-
-...
-
-[Data](articles/57369370.json)
-
----
-
-### துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயம்
-
-*2025-08-03 11:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டு-சம்பவத்தில்-ஒருவர்-காயம்/175-362200) · `ta`
-
-மாத்தறை கப்புகம பகுதியில் இன்று (ஓகஸ்ட் 3) காலை நடந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாகப் பொலிஸார் தெரிவித்தனர்.
-
-முதற்கட்ட தகவல்களின்படி, மோட்டார் சைக்கிளில் வந்த இரண்டு அடையாளம் தெரியாத நபர்கள், பாதிக்கப்பட்டவர் தனது வீட்டில் இருந்தபோது அவர் மீது துப்பாக்கிச் சூடு நடத்தியதாகத் தெரிகிறது.
-
-காயமடைந்த 48 வயதுடைய நபர் மருத்துவமனையில் அனுமதிக்கப்பட்டு தற்போது சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/60bf8776.json)
 
 ---

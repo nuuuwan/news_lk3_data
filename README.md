@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 15:48:20**
+As of **2025-08-03 16:06:29**
 
 ## Newspaper Stats
 
-*Scraped **68,403** Articles*
+*Scraped **68,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,577
 adaderanalk | 8,474
 tamilmirrorlk | 9,927
 virakesarilk | 11,392
-adaderanasinhalalk | 11,783
+adaderanasinhalalk | 11,784
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,403 articles have been extended.
+61,973 (90.6%) of 68,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### පාකිස්තාන - අයර්ලන්ත ක්‍රිකට් තරගාවලිය වසර 2කට කල්යයි
+
+*2025-08-03 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212975) · `si`
+
+පාකිස්තානයේ දී පැවැත්වීමට නියමිතව තිබූ පාකිස්තාන - අයර්ලන්ත ක්‍රිකට් තරගාවලිය 2027 වසර දක්වා කල් දැමීමට සිදුව තිබේ.
+
+තරග කාලසටහන්වල ගැටලුවක් හේතුවෙන් මෙම පියවර ගැනීමට සිදුව ඇති බව වාර්තා වේ.
+
+විස්සයි විස්ස තරග තුනකින් සහ එක්දින තරග තුනකින් සමන්විත තරගාවලිය සැප්තැම්බර් - ඔක්තෝබර් මාසවලදී පැවැත්වීමට නියමිතව තිබුණි.
+
+අයර්ලන්ත කණ්ඩායමේ පළමු පාකිස්තා තරග සංචාරය ලෙස පැවැත්වීමට නියමිතව තිබූ මෙම තරගාවලියට අදාළ සැලසුම් 2024 වසරේ දී ප්‍රකාශයට පත් කර තිබූ බව විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/df02e259.json)
+
+---
 
 ### රුසියාවට අදත් භූමිකම්පාවක්
 
@@ -1739,19 +1757,5 @@ The general public has also been requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/da3c1a1e.json)
-
----
-
-### B.Saroja Devi: Sparkling Actress  Hailed as the “Kannadathup Painkili” (Kannada Parrot)  was also  Praised as  the “Abhinaya  Saeaswathi” (Goddess of Expression)
-
-*2025-08-03 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86228) · `en`
-
-Tamil cinema fans like this writer who grew up on a diet of Tamil movies  were deeply saddened when veteran South Indian actress B. Saroja Devi passed away  some days ago on 14 July 2025.  The octogenarian  Saroja Devi  after performing her daily  30 minute pooja in the mornings  was seated on a sofa watching TV  when she collapsed suddenly with a groan.The unconscious Saroja Devi was taken by ambulance to hospital where she was pronounced dead upon arrival. She was 87 years old.
-
-Among actresses in Tamil movies , Saroja Devi has been a favourite of mine since boyhood. In a screen career spanning more than five decades, Saroja Devi has acted in 209 films. Of these she played the heroine or leading lady in 161 films.  She  was cast in supportive actress roles  or character actor roles in the other movies. In the early stages of her career, Saroja  made brief appearances as a dancer too.
-
-...
-
-[Data](articles/ddb35f66.json)
 
 ---

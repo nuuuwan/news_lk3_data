@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 11:24:16**
+As of **2025-08-03 11:36:06**
 
 ## Newspaper Stats
 
-*Scraped **68,332** Articles*
+*Scraped **68,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,179
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,567
+adalk | 6,568
 adaderanalk | 8,462
-tamilmirrorlk | 9,910
+tamilmirrorlk | 9,911
 virakesarilk | 11,377
 adaderanasinhalalk | 11,769
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,332 articles have been extended.
+61,973 (90.7%) of 68,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### மைத்துனர் செலுத்திய டிப்பரில் நசுங்கி மைத்துனர் பலி
+
+*2025-08-03 11:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்துனர்-செலுத்திய-டிப்பரில்-நசுங்கி-மைத்துனர்-பலி/175-362198) · `ta`
+
+வவுனியா, நெடுங்கேணியில் உள்ள தனது வீட்டில் ஒரு கொட்டகையில் தூங்கிக் கொண்டிருந்த ஒருவர், டிப்பர் லாரியில் நசுங்கி உயிரிழந்ததாக நெடுங்கேணி பொலிஸார் தெரிவித்தனர்.
+
+வீட்டின் முன் உள்ள ஒரு கொட்டகையில் தூங்கிக் கொண்டிருந்தபோது, அவரது மைத்துனர் ஓட்டிச் சென்ற டிப்பர் லாரியில் அவர் நசுங்கி உயிரிழந்ததாகக் கூறப்படுகிறது.
+
+விபத்து நடந்த மறுநாள் காலை, டிப்பர் லாரியில் நசுங்கி இறந்த நபரை அப்பகுதி மக்கள் பார்த்தனர். அதன்படி, டிப்பர் லாரியை ஓட்டிச் சென்ற மைத்துனர் நெடுங்கேணி பொலிஸில் சரணடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/0abf0d01.json)
+
+---
 
 ### 2026 பட்ஜெட் தொடர்பில் தகவல்
 
@@ -186,7 +202,13 @@ Iran initially closed its airspace on June 13 following Israeli airstrikes on Te
 
 පොලීසිය පැවසුවේ නාඳුනන පුද්ගලයින් දෙදෙනෙකු යතුරුපැදියකින් පැමිණ ටී 56 ගිනි අවියක් භාවිත කරමින් නිවසක සිටි පුද්ගලයෙකු ඉලක්ක කර මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
 
-වෙඩි වැදීමෙන් 48 හැවිරිදි පුද්ගලයෙකු තුවාල ලබා ඇති අතර තුවාලකරු රෝහල් ගත කර ඇතැයිද වාර්තා වේ.
+වෙඩි වැදීමෙන් 48 හැවිරිදි පුද්ගලයෙකු තුවාල ලබා ඇති අතර වෙඩි වැදීමෙන් ඔහුගේ පාදයකට සුළු තුවාල සිදුව තිබේ
+
+තුවාලකරු බස් රථ හිමිකරුවෙක් සහ බහුදින ධීවර යාත්‍රා හිමි ව්‍යාපාරිකයෙක් බවද පොලීසිය පැවසීය.
+
+පසුගිය මාර්තු 21 දින දෙවිනුවර ශ්‍රී විෂ්ණු දේවාලයේ දකුණු වාහල්කඩ අසල සිදුවූ වෙඩි තැබීමෙන් ඝාතනයට ලක්වූ පසිඳු තාරක සහ යොමේස් නදීෂාන් දෙදෙනාගේ පවුලේ පුද්ගලයින් සහ වෙඩි තැබීමෙන් තුවාල ලැබූ පුද්ගලයා අතර ඇති හිතවත්කම හේතුවෙන් සංවිධානාත්මක හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන දැනට ඩුබායි රාජ්‍යයේ සිටින ෂෙහාන් සත්සර නොහොත් දෙහිබාල මල්ලීගේ මෙහෙයවීමෙන් මෙම වෙඩි තැබීම සිදුකර ඇතැයි පොලීසිය සැකපළ කරයි.
+
+වෙඩි තැබීම සිදුව ඇති ස්ථානයේ තිබී ටී 56 උණ්ඩ 03ක්ද පොලීසිය විසින් සොයාගෙන තිබේ.
 
 ◼️
 
@@ -265,6 +287,24 @@ As a result, there are now problems concerning the transfers of around 23,000 do
 ...
 
 [Data](articles/ce4a7db4.json)
+
+---
+
+### විශ්වාසය කඩන්නේ නෑ, තව ටිකක් ඉවසන්න
+
+*2025-08-03 07:33:34* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වාසය-කඩන්නේ-නෑ--තව-ටිකක්-ඉවසන්න/11-417672) · `si`
+
+වී වගා කරන කන්න දෙක අතර මුං වගා කිරීම ගොවි මහතුන්ට ඉතා ලාභදායී ක්‍රමයක් වන බවත් ඒ හරහා කුඹුරේ අමතර තෙතමනය හා ඉතිරි වන පොහොර ප්‍රයෝජනයට ගෙන වගාව සිදු  කර ගත හැකි බවත්  කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පැවැසීය.
+
+"පුනරුදයට අරුණලු" අතරමැදි කන්නයේ මුං වගා කිරීමේ ප්‍රවර්ධන ජාතික වැඩසටහනේ  සමාරම්භක උළෙලට බදගිරිය කෑලියවැලානේදී එක්වෙමින් අමාත්‍යවරයා මේ බව පැවැසීය.
+
+“මුං රනිල බෝගයක් නිසා බෝග අවශේෂ තුලින් පසේ කාබනික හා නයිට්‍රජන් ද්‍රව්‍ය ප්‍රමාණය වැඩි වෙනවා. එම නිසාම ඊළග වී වගා කන්නයේ අස්වැන්න වැඩි වෙනවා. වැඩි අස්වැන්නක් ලබා දෙන බෝග ප්‍රභේදයන් මෙහි වගා කරනයා. බීජ සිටුවා දින 55-60 ත් අතර කාලයේදී අස්වැන්න නෙලා ගත හැකි වනවා සේම මෙය ගොවි ජනතාවට ඉතා යහපත් වැඩසටහනක්” යැයි අමාත්‍යවරයා පැවැසීය.
+
+දීප ව්‍යාප්තව පවත්වාගෙන යාමට අදහස් කරන මෙම වැඩසටහන සදහා එක්ව කටයුතු කළ යුතු බව අමාත්‍ය වරයා පෙන්වා දුන් අතර ගොවි ජනතාව තම රජය පත් කර ගත්තේ ඉතා විශ්වාසයෙන් බවත් කිසිදු ලෙසක එම විශ්වාසය කඩ නොකොට ක්‍රියා කරන බවත් අමාත්‍යවරයා පෙන්වා දුන්නේය‍ ඒ සදහා තව කෙටි කාලයක් ඉවසා සිටිය යුතු බවත් අමාත්‍යවරයා ප්‍රකාශ කලේය.
+
+◼️
+
+[Data](articles/1c955047.json)
 
 ---
 
@@ -1817,35 +1857,5 @@ However, he stressed the importance of transparency surrounding the negotiations
 ...
 
 [Data](articles/b5c19717.json)
-
----
-
-### Speaker’s residence to be converted into Parliamentary Studies and Research Center
-
-*2025-08-02 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111088/speakers-residence-to-be-converted-into-parliamentary-studies-and-research-center) · `en`
-
-Policy agreement was reached at the Parliamentary Staff Advisory Committee regarding the proposal to transform the Speaker’s official residence into a dedicated “Center for Parliamentary Studies and Research,” intended as an exclusive hub for Members of Parliament, Provincial Council members, and Local Government representatives.
-
-Accordingly, the committee approved the appointment of a Project Manager, preferably a retired senior government officer, to coordinate, advise, and lead the planning and structuring of the foundational framework of the Center for an initial period of six months.
-
-These matters were discussed at the Parliamentary Staff Advisory Committee meeting held on 24th July 2025, chaired by Speaker Dr. Jagath Wikramaratne, according to a statement issued by the Department of Communication of Parliament.
-
-...
-
-[Data](articles/197c5228.json)
-
----
-
-### ත්‍රිකුණාමලය වරාය කාර්මික වරායක් ලෙස සංවර්ධනයට පියවර
-
-*2025-08-02 10:09:10* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-වරාය-කාර්මික-වරායක්-ලෙස-සංවර්ධනයට-පියවර/11-417665) · `si`
-
-1979 ශ්‍රී ලංකා වරාය අධිකාරිය පිහිටුවීමේ දී වරාය කොමසාරිස් භාරයේ තිබූ සියලු ඉඩම් ශ්‍රී ලංකා වරාය අධිකාරිය වෙත නීතිය ක්‍රියාත්මක වීම මගින් පැවරී ඇත. කෙසේ වෙතත් ත්‍රිකුණාමලය වරාය අවට වරාය කොමසාරිස්වරයා භාරයේ තිබූ ඉඩම් ඉතා සීමිත වූ බැවින් හා පනතේ ප්‍රතිපාදන ප්‍රකාරව වරාය විෂය භාර අමාත්‍යවරයාට පැවරී ඇති බලතල අනුව වරායේ කටයුතු සඳහා අවශ්‍ය වූ රජයේ ඉඩම්, ඉඩම් අමාත්‍යවරයාගේ එකඟත්වය ඇතිව 1984 වර්ෂයේ  දී විශේෂ ගැසට් පත්‍රයක් මගින් වරාය අධිකාරිය සතු කරගෙන ඇත. එම භූමි ප්‍රමාණය හොක්ටයාර 2255 ක් පමණ වේ.
-
-මේ වනවිට ත්‍රිකුණාමලය වරාය කාර්මික වරායක් ලෙස සංවර්ධනය කිරීමේ දැඩි අවශ්‍යතාවක් පවතී. එම හඳුනාගත් භූමි ප්‍රමාණයට ශ්‍රී ලංකා වරාය අධිකාරියට අයත් ඉඩම් ප්‍රශස්ත ලෙස භාවිතා කිරීමේ සැලැස්මක් (Land use master plan) හඳුන්වා දී ඇති අතර එම සැලසුම ත්‍රිකුණාමල දිස්ත්‍රික් සංවර්ධන සැලසුමට සහ Sabana Jurong සංවර්ධන සැලසුමට, ජාතික වරාය සංවර්ධන සැලසුමට අනුකූලව සකස් කර ඇත.
-
-...
-
-[Data](articles/fe0a40af.json)
 
 ---

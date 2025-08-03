@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 06:54:09**
+As of **2025-08-03 07:39:07**
 
 ## Newspaper Stats
 
-*Scraped **68,303** Articles*
+*Scraped **68,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adalk | 6,562
 adaderanalk | 8,452
 tamilmirrorlk | 9,902
 virakesarilk | 11,377
-adaderanasinhalalk | 11,763
+adaderanasinhalalk | 11,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,303 articles have been extended.
+61,973 (90.7%) of 68,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### කුෂ් කිලෝ 8ක් ගුවන් තොටේ දී අල්ලයි - ඉන්දීය ජාතිකයින් දෙදෙනක් අත්අඩංගුවට
+
+*2025-08-03 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212955) · `si`
+
+කුෂ් මත්ද්‍රව්‍ය කිලෝ 8යි ග්‍රෑම් 220ක් සමග ඉන්දීය ජාතික සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (02) රාත්‍රී කාලයේදී මෙම සැකකරුවන් ගුවන්තොටුපොළේ පැමිණීමේ පර්යන්තයේදී අත්අඩංගුවට ගෙන තිබුණි.
+
+පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන්ට විසින් මෙම සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත්තේ, ඔවුන්ට ලද තොරතුරක් මත සිදුකළ  වැටලීම් දෙකකදීය.
+
+එහිදී කුෂ් මත්ද්‍රව්‍ය කිලෝ 04 ග්‍රෑම් 112ක් සහග එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති අතර අනෙක් සැකකරු කුෂ් මත්ද්‍රව්‍ය කිලෝ 04 ග්‍රෑම් 108ක් සමඟ අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+සැකකරුවන් අවුරුදු 38 සහ 47 වයස්වල පසුවන ඉන්දියන් ජාතිකයන් බව වාර්තා වෙයි.
+
+පොලිස් මත්ද්‍රව්‍ය කාර්යංශය ගුවන්තොටුපොළ ඒකකය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/df9b555d.json)
+
+---
+
+### වෛද්‍ය ස්ථාන මාරු සිදු නොවීමෙන් ගැටලු රැසක්
+
+*2025-08-03 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212954) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශයේ වෛද්‍ය ඒකකයේ ක්‍රියා හේතුවෙන් මෙරට විසිතුන් දහසකට අධික වෛද්‍යවරුන් පිරිසකගේ ස්ථාන මාරුවල මුළුමනින්ම ගැටළු මතුවී ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේසිංහ මහතා පැවසුවේ ශ්‍රේණි වෛද්‍යවරුන්ගේ වාර්ෂික ස්ථාන මාරු සම්බන්ධව බරපතළ ගැටලු ගණනාවක් මතුව ඇති බවත් ඒ අනුව සෞඛ්‍ය පද්ධතිය තුළ අනවශ්‍ය ගැටළුවක් නිර්මාණය වෙමින් පවතින බවත්ය.
+
+මෙම ස්ථන මාරු ක්‍රියාපටිපාටීන් ආයතන සංග්‍රහයේ පැහැදිළිව දක්වා ඇතැයිද පැවසූ වෛද්‍ය චමිල් විජේසිංහ මහතා පැවසුවේ සෞඛ්‍ය අමාත්‍යාංශයේ වෛද්‍ය සේවා ඒකකය විසින් අත්තනෝමතික ලෙස මෙම කටයුතු සිදු කිරීම හේතුවෙන් මෙම ගැටලු මේ වන විට මතුව ඇති බවය.
+
+මේ හේතුවෙන් මෙරට වෛද්‍යවරුන් 23,000කගේ පමණ ස්ථාන මාරුවීම් සම්බන්ධව ගැටලු මතුව ඇති බවත් ශ්‍රේණි වෛද්‍යවරුන් 10,000කට අධික ප්‍රමාණයකගේ ස්ථාන මාරුවීම් ක්‍රියාත්මක වී නොමැති බවත් වෛද්‍යවරයා පැවසීය.
+
+එමෙන්ම මෙරට 50%කට ආසන්න වෛද්‍යවරුන් ප්‍රමාණයක් මේ වන විට රැ﻿ඳි සිටිනුයේ ඔවුන්ට අදාළ රෝහල්වල නොවන බවත් වෛද්‍ය චමිල් විජේසිංහ මහතා මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/b55b1b42.json)
+
+---
 
 ### තැන් කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
 
@@ -1803,33 +1845,5 @@ Main Opposition party Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa yeste
 ...
 
 [Data](articles/d70bf6dc.json)
-
----
-
-### BASL flags delay in appointing RTI Commission Chair
-
-*2025-08-02 00:45:29* · [`dailyftlk`](https://www.ft.lk/news/BASL-flags-delay-in-appointing-RTI-Commission-Chair/56-779807) · `en`
-
-The Bar Association of Sri Lanka (BASL) yesterday sent a reminder to the Speaker of Parliament, who also serves as the Chairman of the Constitutional Council, regarding the long-pending appointment of the Chairman of the Right to Information (RTI) Commission.
-
-The BASL highlighted that the position has remained vacant for a considerable period and urged the Speaker to take serious cognisance of the matter and nominate the remaining member needed to fully constitute the RTI Commission.
-
-...
-
-[Data](articles/c3b729ac.json)
-
----
-
-### UNP seeks clarity on US trade commitments
-
-*2025-08-02 00:45:14* · [`dailyftlk`](https://www.ft.lk/news/UNP-seeks-clarity-on-US-trade-commitments/56-779806) · `en`
-
-The United National Party (UNP) welcomed the recent Executive Order by US President Donald Trump that further reduces reciprocal tariffs on Sri Lankan goods. In a statement, the party commended the Sri Lankan Government and its negotiating team for concluding the discussions successfully.
-
-It pointed out that the order states that some trading partners “have agreed to, or are on the verge of agreeing to, meaningful trade and security commitments with the United States.” Section 2(b) specifies that the countries listed in Annex 1 will continue to face additional duties until formal agreements are signed and further orders are issued. In light of this, the UNP has called on the Government to clarify the nature of the commitments made. It urged officials to publish a detailed explanation of the agreements referenced in the order, including their scope and implications for Sri Lanka’s trade and security relationship with the United States.
-
-◼️
-
-[Data](articles/f312df5f.json)
 
 ---

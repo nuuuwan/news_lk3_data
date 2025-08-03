@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 15:06:24**
+As of **2025-08-03 15:19:40**
 
 ## Newspaper Stats
 
-*Scraped **68,395** Articles*
+*Scraped **68,400** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 595
+dbsjeyarajcom | 596
 bbccomsinhala | 677
 colombotelegraphcom | 700
 economynextcom | 4,180
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,575
 adaderanalk | 8,474
-tamilmirrorlk | 9,924
+tamilmirrorlk | 9,927
 virakesarilk | 11,392
-adaderanasinhalalk | 11,781
+adaderanasinhalalk | 11,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,395 articles have been extended.
+61,973 (90.6%) of 68,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### கத்தியால் குத்தி: தலையில் கல்லால் தாக்கியதில் இளைஞன் பலி
+
+*2025-08-03 15:06:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்தியால்-குத்தி-தலையில்-கல்லால்-தாக்கியதில்-இளைஞன்-பலி/175-362215) · `ta`
+
+திருகோணமலை அலஸ்வத்த பகுதியில் உள்ள சுற்றுலா விடுதியில் ஞாயிற்றுக்கிழமை (03) நடைபெற்ற விருந்தில் கலந்து கொண்டு திரும்பிக் கொண்டிருந்த இரு குழுக்களிடையே ஏற்பட்ட மோதலில் ஒரு இளைஞர் கத்தியால் குத்தப்பட்டு கொல்லப்பட்டதாக திருகோணமலை தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கொல்லப்பட்ட நபர் திருகோணமலை கிருஷ்ணா லேனைச் சேர்ந்த டி.எச். வினோத் (வயது 33) என அடையாளம் காணப்பட்டுள்ளார்.
+
+விருந்து நடைபெற்ற ஹோட்டலில் ஏற்பட்ட கருத்து மோதலே கொலைக்கு வழிவகுத்ததாக பொலிஸார் தெரிவிக்கின்றனர். கொலை தொடர்பாக  சந்தேக நபர்கள் அறுவரை  கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+இறந்த இளைஞருக்கும் தாக்குதல் நடத்தியவர்களுக்கும் இடையிலான பழைய தகராறு மோதலுக்கு வழிவகுத்ததாக நம்பப்படுகிறது. கத்தியால் குத்தப்பட்டு தரையில் விழுந்த இறந்தவரின் தலையில் கல்லால் தாக்கப்பட்டதாகவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/8df218b9.json)
+
+---
+
+### 2025 වසරට අදාළ වත්කම් බැරකම් ප්‍රකාශ ලබා නොදෙන අයට නඩු
+
+*2025-08-03 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212973) · `si`
+
+2025 වර්ෂයට අදාළව ප්‍රමාද වූ වත්කම් සහ බැරකම් ප්‍රකාශ ලබා දිය යුතු නිලධාරීන් විසින් එකී ප්‍රකාශ ලබා නොදෙන්නේ නම් ඔවුන්ට විරුද්ධව නඩු පැවරීමට කටයුතු කරන බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ පසුගිය මාර්තු 31 වැනි දිනට වත්කම් සහ බැරකම් ප්‍රකාශ ලබා දිය යුතු නිලධාරීන් විසින් අදාළ වත්කම් සහ බැරකම් ප්‍රකාශ අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂන සභාවට භාර දීම සඳහා ආයතන ප්‍රධානියා වෙත භාරදිය යුතු අවසාන දිනය පසුගිය ජුනි මස 30 වැනි දින වන බවය.
+
+කෙසේ නමුත් මේ මස 31 දින වන විටත් වත්කම් සහ බැරකම් ප්‍රකාශ ආයතන ප්‍රධානියා වෙත භාර දීමට අපොහොසත් වන නිලධාරීන් හට 2023 අංක 09 දරන දූෂණ විරෝධී පනතේ 90 වැනි වගන්තිය ප්‍රකාරව නඩු පැවරීමට කටයුතු කරන බව එම කොමිෂන් සභාව පවසයි.
+
+...
+
+[Data](articles/14ec9aba.json)
+
+---
 
 ### 2029 ஜனாதிபதி தேர்தலில் பொதுவேட்பாளராக மிலிந்த?
 
@@ -85,6 +119,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/336fe0cd.json)
+
+---
+
+### இ.தொ.கா பிரதிநிதிகளை  நூரளையில் சந்தித்த இந்திய உயர்ஸ்தானிகர்
+
+*2025-08-03 14:35:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-கா-பிரதிநிதிகளை-நூரளையில்-சந்தித்த-இந்திய-உயர்ஸ்தானிகர்/76-362213) · `ta`
+
+நுவரெலியாவுக்கு வருகை தந்த இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவை  இலங்கை தொழிலாளர் காங்கிரஸின் பிரதிநிதிகள் வரவேற்றனர். அத்துடன், இருதரபினருக்கும் இடையில் விசேட சந்திப்பு இடம்பெற்றது.
+
+சந்திப்பில், இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான், பொதுச் செயலாளரும், நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான்,  தவிசாளரும், நிதிச் செயலாளருமான மருதபாண்டி ராமேஸ்வரன், பிரதி தவிசாளர்  ராஜதுரை,  இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+இதன் போது இ.தொ.காவின் உள்ளூராட்சி மன்றத் தலைவர்கள் மற்றும் பிரதி தலைவர்களை இந்திய உயர்ஸ்தானிகருக்கு அறிமுகப்படுத்தி  வைக்கப்பட்டது.
+
+மலையகத்தில் இந்திய அரசாங்கத்தால் முன்னெடுக்கப்படும் வேலை திட்டங்கள் குறித்தும் அவற்றின்  முன்னேற்றம் குறித்தும் இதன் போது கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/f1163b6c.json)
 
 ---
 
@@ -605,6 +657,22 @@ Steps have been taken to hand over the suspect to the Western Province North Cri
 ◼️
 
 [Data](articles/7fe6e91a.json)
+
+---
+
+### இந்திய ஆன்மீக குழு வந்தடைந்தது
+
+*2025-08-03 12:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/இந்திய-ஆன்மீக-குழு-வந்தடைந்தது/46-362204) · `ta`
+
+நுவரெலியாவின் சீதாஎலிய பகுதியில் அமைந்துள்ள "சீதை அம்மான்" தியான மையத்தின் திறப்பு விழாவில் பங்கேற்க இந்திய ஆன்மீகத் தலைவர் சுபா சந்தீப் உட்பட 100 பேர் கொண்ட கட்டுநாயக்க விமான நிலையத்தை சனிக்கிழமை (02)  வந்தது.
+
+இந்தியாவின் சென்னையிலிருந்து இலங்கை ஏர்லைன்ஸ் விமானம் UL-122 மூலம் கட்டுநாயக்க விமான நிலையத்திற்கு சனிக்கிழமை (02)  காலை 11.20 மணிக்கு வந்தனர்.
+
+இலங்கை சுற்றுலா மேம்பாட்டு பணியகத்தின் விமான நிலைய மேலாளர் திருமதி வாசனா குமாரி மற்றும் அதிகாரிகள் குழு அவர்களை வரவேற்றனர்.
+
+◼️
+
+[Data](articles/11cdac44.json)
 
 ---
 
@@ -1626,6 +1694,20 @@ The general public has also been requested to take adequate precautions to minim
 
 ---
 
+### B.Saroja Devi: Sparkling Actress  Hailed as the “Kannadathup Painkili” (Kannada Parrot)  was also  Praised as  the “Abhinaya  Saeaswathi” (Goddess of Expression)
+
+*2025-08-03 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86228) · `en`
+
+Tamil cinema fans like this writer who grew up on a diet of Tamil movies  were deeply saddened when veteran South Indian actress B. Saroja Devi passed away  some days ago on 14 July 2025.  The octogenarian  Saroja Devi  after performing her daily  30 minute pooja in the mornings  was seated on a sofa watching TV  when she collapsed suddenly with a groan.The unconscious Saroja Devi was taken by ambulance to hospital where she was pronounced dead upon arrival. She was 87 years old.
+
+Among actresses in Tamil movies , Saroja Devi has been a favourite of mine since boyhood. In a screen career spanning more than five decades, Saroja Devi has acted in 209 films. Of these she played the heroine or leading lady in 161 films.  She  was cast in supportive actress roles  or character actor roles in the other movies. In the early stages of her career, Saroja  made brief appearances as a dancer too.
+
+...
+
+[Data](articles/ddb35f66.json)
+
+---
+
 ### இலங்கை வந்தார் ஹிருத்திக் ரோஷன்
 
 *2025-08-03 01:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தார்-ஹிருத்திக்-ரோஷன்/175-362187) · `ta`
@@ -1675,91 +1757,5 @@ The general public has also been requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/0c6695af.json)
-
----
-
-### Hamas says it won’t disarm unless independent Palestinian state established
-
-*2025-08-02 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111104/hamas-says-it-wont-disarm-unless-independent-palestinian-state-established) · `en`
-
-Hamas said on Saturday that it would not disarm unless an independent Palestinian state is established - a fresh rebuke to a key Israeli demand to end the war in Gaza.
-
-Indirect negotiations between Hamas and Israel aimed at securing a 60-day ceasefire in the Gaza war and deal for the release of hostages ended last week in deadlock.
-
-On Tuesday, Qatar and Egypt, who are mediating ceasefire efforts, endorsed a declaration by France and Saudi Arabia outlining steps toward a two-state solution to the Israeli-Palestinian conflict and saying that as part of this Hamas must hand over its arms to the Western-backed Palestinian Authority.
-
-In its statement, Hamas - which has dominated Gaza since 2007 but has been militarily battered by Israel in the war - said it could not yield its right to “armed resistance” unless an “independent, fully sovereign Palestinian state with Jerusalem as its capital” is established.
-
-...
-
-[Data](articles/63106757.json)
-
----
-
-### No restrictions on protests or student politics, but violence and ragging will not be tolerated: PM
-
-*2025-08-02 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111103/no-restrictions-on-protests-or-student-politics-but-violence-and-ragging-will-not-be-tolerated-pm) · `en`
-
-Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that there will be no obstruction whatsoever to university students engaging in protests, struggles, or student politics.
-
-However, there will be no forgiveness for those involved in violence or ragging.
-
-The Prime Minister made these remarks during a discussion held with the academic staff, administrative officers, and students following the ceremonial opening of the newly constructed library building at the University of Vavuniya, according to the Prime Minister’s Media Division.
-
-The Prime Minister unveiled the commemorative plaque to mark the opening of the new library and also participated in an inspection tour of the new library premises. Special attention was then drawn to issues concerning university students.
-
-...
-
-[Data](articles/0c658f2c.json)
-
----
-
-### Cambodia to nominate Donald Trump for Nobel Peace Prize, says deputy PM
-
-*2025-08-02 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111102/cambodia-to-nominate-donald-trump-for-nobel-peace-prize-says-deputy-pm) · `en`
-
-Cambodia will nominate U.S. President Donald Trump for the Nobel Peace Prize, its deputy prime minister said on Friday, following his direct intervention in halting the Southeast Asian country’s recent border conflict with Thailand.
-
-Asked via text message to confirm Cambodia’s plan to nominate Trump for the prize, Chanthol responded, “yes.”
-
-Speaking to reporters earlier in the capital, Phnom Penh, Chanthol thanked Trump for bringing peace and said he deserved to be nominated for the prize, the highest-profile international award given to an individual or organisation deemed to have done the most to “advance fellowship between nations”.
-
-Pakistan said in June that it would recommend Trump for the Nobel Peace Prize for his work in helping to resolve a conflict with India, and Israeli Prime Minister Benjamin Netanyahu said last month he had nominated Trump for the award.
-
-...
-
-[Data](articles/473cfefa.json)
-
----
-
-### துப்பாக்கிச்சூட்டில் ஒருவர் மரணம் : சுட்டவர் சரண்
-
-*2025-08-02 21:22:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்-சுட்டவர்-சரண்/175-362186) · `ta`
-
-அம்பலாந்தோட்டை, ஹூங்கம, பிங்கம பகுதியில் இன்று (2) இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார்.
-
-தனிப்பட்ட தகராறு காரணமாக இந்த துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-துப்பாக்கிச் சூடு நடத்திய நபர் பின்னர் துப்பாக்கியுடன் ஹூங்கம பொலிஸ் நிலையத்தில் சரணடைந்துள்ளார்.
-
-◼️
-
-[Data](articles/fce2e266.json)
-
----
-
-### நடிகர் டி எஸ் கே நடிக்கும் 'டியர் ஜீவா' படத்தின் முன்னோட்டம் வெளியீடு
-
-*2025-08-02 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/221641) · `ta`
-
-'லப்பர் பந்து' படத்தின் மூலம் ரசிகர்களின் கவனத்தை கவர்ந்த நடிகர் டி எஸ் கே கதையின் நாயகனாக நடித்திருக்கும் 'டியர் ஜீவா' படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
-
-பிரகாஷ் வி. பாஸ்கர் இயக்கத்தில் உருவாகி வரும் 'டியர் ஜீவா' எனும் திரைப்படத்தில் டி எஸ் கே, தீப்ஷிகா, மனிஷா ,கே பி வை யோகி, லொள்ளு சபா உதயா, பிரியதர்ஷினி ராஜ்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-அரவிந்த் செல்வராஜ் மற்றும் சஞ்சீவ் கண்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஷாந்த் அர்வின் இசையமைத்திருக்கிறார். காதலர்களின் ஆதிக்க உணர்வை விவரிக்கும் இந்த திரைப்படத்தை செல் வைட்லி நிறுவனம் சார்பில் தயாரிப்பாளர் சகாயா சதீஷ் மற்றும் உமர் முக்தார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
-
-...
-
-[Data](articles/27f80881.json)
 
 ---

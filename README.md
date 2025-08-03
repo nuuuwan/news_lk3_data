@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 21:06:24**
+As of **2025-08-03 21:19:53**
 
 ## Newspaper Stats
 
-*Scraped **68,438** Articles*
+*Scraped **68,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,585
-adaderanalk | 8,478
+adaderanalk | 8,480
 tamilmirrorlk | 9,933
-virakesarilk | 11,401
+virakesarilk | 11,403
 adaderanasinhalalk | 11,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,438 articles have been extended.
+61,973 (90.5%) of 68,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### சோமரத்ன ராஜபக்ஷ கருத்து: "அதிஷ்டலாபச்சீட்டு விழுந்தது போலவே" – காணாமலாக்கப்பட்டோர் உறவுகள் வலியுறுத்தல்
+
+*2025-08-03 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221727) · `ta`
+
+லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷவின் கருத்து தமக்கு அதிஷ்டலாபச்சீட்டு விழுந்ததைப்போன்று இருப்பதாகத் தெரிவித்துள்ள வட, கிழக்கு வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகள், சர்வதேச விசாரணை முன்னெடுக்கப்படுவதற்கு அவசியமான அழுத்தத்தை வழங்குவதற்கு பாதிக்கப்பட்ட தரப்பினர், தமிழ்த்தேசிய அரசியல் கட்சிகள், சிவில் சமூகம், புலம்பெயர் தமிழர்கள் என சகல தரப்பினரும் இச்சந்தர்ப்பத்தை சரியாகப் பயன்படுத்திக்கொள்ளவேண்டும் என வலியுறுத்தியுள்ளனர்.
+
+யாழ் செம்மணி மனிதப்புதைகுழி விவகாரம் தொடர்பில் சர்வதேச விசாரணையொன்று முன்னெடுக்கப்படும் பட்சத்தில், அதில் சாட்சியமளிப்பதற்குத் தயாராக இருப்பதாக கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் பிரதான குற்றவாளியாக நீதிமன்றத்தினால் தீர்ப்பளிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ தெரிவித்திருப்பதாகக் குறிப்பிட்டு அவரது மனைவி ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்குக் கடிதமொன்றை அனுப்பிவைத்துள்ளார்.
+
+...
+
+[Data](articles/3cd6a363.json)
+
+---
 
 ### ලෙජන්ඩ්ස් ශූරතාව දකුණු අප්‍රිකා චැම්පියන්ස්ට
 
@@ -76,6 +90,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### No child will fail under the new education reforms - PM Harini
+
+*2025-08-03 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111131/no-child-will-fail-under-the-new-education-reforms-pm-harini) · `en`
+
+The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that under the new education reforms, no child will fail, and all children will have the opportunity to continue their education toward higher studies through both academic and vocational streams.
+
+The Prime Minister made these remarks on Saturday (August 02), while addressing a gathering of intellectual professionals from the Northern Province, held at the Jaffna Young Men’s Catholic Association hall, the Prime Minister’s Media Division said in a statement.
+
+Dr. Amarasuriya also added that certain groups are spreading false information claiming that History, Religion, and Aesthetics have been removed from the curriculum. She confirmed that these claims are baseless and that none of these subjects have been removed.
+
+...
+
+[Data](articles/5df4e7d2.json)
+
+---
+
+### புதிய கல்வி சீர்திருத்தம்: மாணவர்கள் தோல்வியடைய வாய்ப்பு இல்லை – அமைச்சர் ஹரிணி
+
+*2025-08-03 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221726) · `ta`
+
+யாழ்ப்பாண கிறிஸ்தவ இளைஞர் சங்க மண்டபத்தில் சனிக்கிழமை (02) நடைபெற்ற வட மாகாண கற்றறிவாளர்கள் மற்றும் தொழில் வல்லுநர்களுடனான சந்திப்பில் கலந்துகொண்டு உரையாற்றும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
+
+இங்கு மேலும் உரையாற்றிய  கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், பிரதமர் கலாநிதி ஹரிணி அமரசூரிய,
+
+பாரம்பரிய கல்வி முறைக்குப் பதிலாக, பிள்ளைகள் கல்வி மற்றும் தொழிற் துறைகள் ஆகிய இரண்டு துறைகளிலும் உயர் கல்வியைத் தொடர உதவும் வகையில் புதிய கல்வி சீர்திருத்தங்கள் மூலம் நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+முன்மொழியப்பட்டுள்ள சீர்திருத்தங்கள் மூலம் வரலாறு, சமயம் மற்றும் அழகியல் ஆகிய பாடங்கள் பாடத்திட்டத்திலிருந்து நீக்கப்பட்டுள்ளதாக சிலர் இன்னும் தவறான கருத்துக்களைப் பரப்பி வருகின்றனர். இந்த தவறான கூற்றுகளுக்கு எந்த அடிப்படையும் இல்லை. வரலாறு, அழகியல் அல்லது சமயம் ஆகிய பாடங்கள் எந்த வகையிலும் பாடத்திட்டத்திலிருந்து நீக்கப்படவில்லை.
+
+...
+
+[Data](articles/2b2eca69.json)
+
+---
+
 ### வரி செலுத்துவோரின் PIN செல்லுபடியாகும் காலம் நீட்டிப்பு
 
 *2025-08-03 19:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துவோரின்-PIN-செல்லுபடியாகும்-காலம்-நீட்டிப்பு/175-362220) · `ta`
@@ -107,6 +155,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/60a85d17.json)
+
+---
+
+### DMT launches new service counter at BIA for foreign tourists
+
+*2025-08-03 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111130/dmt-launches-new-service-counter-at-bia-for-foreign-tourists) · `en`
+
+A new branch office of the Department of Motor Traffic (DMT) has been launched today (03) at the arrivals terminal of Bandaranaike International Airport (BIA) in Katunayake, providing foreign nationals visiting Sri Lanka with the facility to obtain driving licenses valid in the country within a short period, depending on their visa duration.
+
+The opening ceremony was led by the Minister of Transport, Highways, Ports, and Civil Aviation and Leader of the House of Parliament, Bimal Rathnayake.
+
+The event was attended by several senior officials, including Commissioner General of Motor Traffic Kamal Amarasinghe, Chairman of Airport & Aviation Services Sri Lanka (Private) Ltd. (Retired) Harsha Abeywickrama, and Chairman of the Civil Aviation Authority of Sri Lanka, Sunil Jayaratne.
+
+During the event, the Minister presented the first driver’s license to an Indian national and the second to an Italian national.
+
+◼️
+
+[Data](articles/55d315ed.json)
 
 ---
 
@@ -1667,73 +1733,5 @@ Some locals accuse Paetongtarn and her family of allowing the conflict — which
 ◼️
 
 [Data](articles/5b4498cc.json)
-
----
-
-### மாகாண சபைகளை ஒழிக்க சதியா?
-
-*2025-08-03 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221659) · `ta`
-
-மாகாண சபை­களை இல்­லாமல் ஒழிப்­ப­தற்­கா­கவே அவற்­றுக்குத் தேர்­தலை நடத்­து­வதை, அர­சாங்­கங்கள்  தவிர்த்து வந்­தி­ருக்­கின்­றன என்­பது இப்­பொ­ழுது தெளி­வாகத் தெரி­கி­றது.
-
-◼️
-
-[Data](articles/8b070432.json)
-
----
-
-### மாற்றும் அதிகாரம், மாறும் அரசாங்கம்
-
-*2025-08-03 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/221657) · `ta`
-
-ஊழல், மோச­டிக்கு எதி­ரான தலை­வ­ராக தன்னை அறி­மு­கப்­ப­டுத்திக் கொண்ட மைத்­தி­ரி­பால சிறி­சே­னவும், நாட்டை முழு­மை­யாக மாற்­றி­ய­மைக்கப் போவ­தாக வாக்­கு­றுதி கொடுத்த கோட்­டா­பய ராஜபக்ஷவும், அதி­காரம் பெற்ற பின்னர் எப்­படி மாறி­னார்கள் என்­பதும் தெரிந்­தது தான்.
-
-◼️
-
-[Data](articles/d6e03b82.json)
-
----
-
-### ජූලි මාසයේ සංචාරක පැමිණීම ලක්ෂ 2 ඉක්මවයි
-
-*2025-08-03 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212959) · `si`
-
-ජූලි මාසය තුළ දී මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව ලක්ෂ 2 ඉක්මවා ගොස් තිබේ.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ දත්තවලට අනුව ජූලි මාසයේදී සංචාරකයින් 200,244 ක් මෙරටට පැමිණ ඇති බවය.
-
-මෙය  පසුගිය වසරේ ජූලි මාසයේදී පැමිණි සංඛ්‍යාවට සාපේක්ෂව 6.6%ක වැඩිවීමකි.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය විසින් නිකුත් කරන ලද නවතම දත්තවලට අනුව, ජූලි මාසයේදී ඉන්දියාවෙන් සංචාරකයින් 37,128ක් පැමිණ ඇති අතර එය 18.5% කි.
-
-තවද, එක්සත් රාජධානියෙන් 23,475ක්, නෙදර්ලන්තයෙන් 15,556 ක්, චීනයෙන් 12,982ක් සහ ප්‍රංශ ජාතිකයින් 11,059ක් ද ජූලි මාසයේදී ශ්‍රී ලංකාවට පැමිණ ඇත.
-
-ඒ අනුව, 2025 වසරේ ජනවාරි 01 වනදා සිට ජුලි 31 දක්වා සංචාරක පැමිණීම් සංඛ්‍යාව 1,368,288කි.
-
-ඒ අතරින් සංචාරකයින් 279,122ක් ඉන්දියාවෙන්, 131,377ක් රුසියාවෙන් සහ 115,470ක් එක්සත් රාජධානියෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/25f2db8f.json)
-
----
-
-### Over 200,000 tourist arrivals recorded in July
-
-*2025-08-03 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111116/over-200000-tourist-arrivals-recorded-in-july) · `en`
-
-A total of 200,244 tourists arrived in the country in July 2025, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-This is an increase of 6.6% in comparison to the numbers arrived in July 2024.
-
-According to the latest data released by the SLTDA, a total of 37,128 tourists arrived from India in July which accounts to 18.5%. Furthermore, 23,475 persons from the United Kingdom, 15,556 from the Netherlands, 12,982 from China and 11,059 French nationals have also visited Sri Lanka in the month of July.
-
-Accordingly, the total number of tourist arrivals in the first seven months of 2025 stands at 1,368,288.
-
-Among them, 279,122 individuals are from India, 131,377 from Russia and 115,470 are from the UK, the SLTDA noted.
-
-◼️
-
-[Data](articles/b820acef.json)
 
 ---

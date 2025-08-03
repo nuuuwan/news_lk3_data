@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 10:17:36**
+As of **2025-08-03 10:42:14**
 
 ## Newspaper Stats
 
-*Scraped **68,325** Articles*
+*Scraped **68,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,566
-adaderanalk | 8,460
-tamilmirrorlk | 9,907
+adaderanalk | 8,462
+tamilmirrorlk | 9,908
 virakesarilk | 11,377
 adaderanasinhalalk | 11,768
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,325 articles have been extended.
+61,973 (90.7%) of 68,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### இந்திய உயர்ஸ்தானிகரை சந்தித்த இ.தொ.கா
+
+*2025-08-03 10:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இந்திய-உயர்ஸ்தானிகரை-சந்தித்த-இ-தொ-கா/76-362194) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவை, இலங்கை தொழிலாளர் காங்கிரஸ் பிரதிநிதிகள், சனிக்கிழமை (02) சந்தித்து கலந்துரையாடலில் ஈடுபட்டனர்
+
+நுவரெலியாவில் நடைபெற்ற இச்சந்திப்பில் இ.தொ.கா வின் பொதுச் செயலாளரும், நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், தலைவர் செந்தில் தொண்டமான், தவிசாளரும், நிதிச் செயலாளருமான மருதபாண்டி ராமேஸ்வரன், பிரதி தவிசாளர் பெருமாள் ராஜதுரை, இ.தொ.காவின் உள்ளூராட்சி மன்றத் தலைவர்கள் மற்றும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலய குழுவினர் ஆகியோர் இச்சந்திப்பில் கலந்து கொண்டார்கள்
+
+குறிப்பாக இச் சந்திப்பின் போது பல்வேறு முக்கிய விடயங்கள் தொடர்பில் இருதரப்பினர்களுக்கும் இடையில் கலந்துரையாடப்பட்டது.
+
+அதாவது மலையக மக்களுக்கான காணி உரிமை தொடர்பிலும், இந்திய அரசாங்கத்தின் நிதி உதவியின் கீழ் நிர்மாணிக்கப்படுகின்ற வீடுகளுக்கான காணி உரித்தைபெற்றுக் கொடுப்பது தொடர்பான விடயங்கள் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/a7689aa7.json)
+
+---
 
 ### நல்லூர் கந்தனை தரிசித்தார் பிரதமர்
 
@@ -39,6 +57,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/38de315c.json)
+
+---
+
+### Iran fully reopens airspace after ceasefire with Israel
+
+*2025-08-03 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111115/iran-fully-reopens-airspace-after-ceasefire-with-israel) · `en`
+
+Iran has lifted all remaining restrictions on its airspace that were imposed at the onset of its 12-day conflict with Israel, the country’s Civil Aviation Organization (CAO) has announced.
+
+In a statement posted on its website, the CAO said that both domestic and international flight operations have returned to pre-war levels. It also confirmed that Tehran’s Mehrabad International Airport has resumed round-the-clock operations.
+
+“From now on, all airlines and travel agencies can once again offer 24-hour flight services and ticket sales,” the statement added.
+
+Iran initially closed its airspace on June 13 following Israeli airstrikes on Tehran and other areas. The 12-day conflict ended with a ceasefire on June 24.
+
+...
+
+[Data](articles/c7a963e1.json)
 
 ---
 
@@ -93,6 +129,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b69db38e.json)
+
+---
+
+### One person injured in shooting incident reported in Matara
+
+*2025-08-03 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111113/one-person-injured-in-shooting-incident-reported-in-matara-) · `en`
+
+An individual has sustained injuries in a shooting incident reported in Kapugama, Matara this morning (03), police stated.
+
+Two individuals who arrived on a motorcycle had opened fire at the injured person who was at his residence, police noted.
+
+A 48-year-old individual, who has sustained injuries, has been hospitalized.
+
+◼️
+
+[Data](articles/e6154c9f.json)
 
 ---
 
@@ -302,7 +354,17 @@ It is rare that a person with such an influential political background gets puni
 
 *2025-08-03 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111109/two-indians-arrested-with-8kg-of-kush-cannabis-at-bia) · `en`
 
-Two Indian nationals have been arrested by Sri Lanka Customs at the Bandaranaike International Airport (BIA) for attempting to smuggle around 8 kilograms of ‘Kush’ cannabis into the country.
+Two Indian nationals have been arrested at the Bandaranaike International Airport (BIA) for attempting to smuggle around 8 kilograms and 220 grams of ‘Kush’ cannabis into the country.
+
+The suspects were arrested last night (02) at the arrival terminal of the BIA, Ada Derana reporter said.
+
+Officials of the Airport Unit of the Police Narcotics Bureau apprehended the suspects during two separate raids based on received intelligence.
+
+During the operations, one suspect was arrested with 4 kilograms and 112 grams of Kush, while the other was apprehended with 4 kilograms and 108 grams, according to police.
+
+The suspects are reported to be Indian nationals aged 38 and 47.
+
+The Airport Unit of the Police Narcotics Bureau is conducting further investigations.
 
 ◼️
 
@@ -366,13 +428,17 @@ Addressing a public meeting in his parliamentary constituency Varanasi on Saturd
 
 ---
 
-### Temporary driving licenses for tourists to be issued at BIA from today
+### Temporary driving licenses for tourists at BIA but no Tuk licenses, says DMT
 
 *2025-08-03 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111107/temporary-driving-licenses-for-tourists-to-be-issued-at-bia-from-today) · `en`
 
 A new service counter for the issuance of necessary driving licenses to foreign nationals visiting Sri Lanka for travel will be launched today (03) at the Bandaranaike International Airport (BIA) premises in Katunayake, Commissioner General of Motor Traffic Kamal Amarasinghe, stated.
 
-◼️
+The Commissioner General of Motor Traffic noted that up until now, the service was provided only at the Department of Motor Traffic office located in Werahera, but from today, for the convenience of tourists, the same services will be initiated at the airport premises.
+
+The Commissioner added that many foreign visitors to Sri Lanka often rent vehicles near the Katunayake airport or nearby locations and drive themselves during their travels. It has been observed that these tourists use motorcycles, three-wheelers, and light vehicles.
+
+...
 
 [Data](articles/a9fce9f9.json)
 
@@ -1763,59 +1829,5 @@ These matters were discussed at the Parliamentary Staff Advisory Committee meeti
 ◼️
 
 [Data](articles/4fb27b8a.json)
-
----
-
-### கல்கிசை குழு மோதலில் ஒருவர் பலி - மற்றொருவர் படுகாயம்
-
-*2025-08-02 09:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்கிசை-குழு-மோதலில்-ஒருவர்-பலி-மற்றொருவர்-படுகாயம்/175-362178) · `ta`
-
-கல்கிசை - அரலிய வீட்டுவசதிப் பகுதியில் நேற்று இரு குழுக்களுக்கிடையே ஏற்பட்ட மோதலில் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
-
-காயமடைந்தவர்களில் ஒருவர் லுனாவ வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்ததாகவும், மற்றொருவர் மேலதிக சிகிச்சைக்காக களுபோவில வைத்தியசாலைக்கு மாற்றப்பட்டதாகவும் கல்கிசை பொலிஸார் கூறினர்.
-
-இரு தரப்பினருக்கிடையே ஏற்பட்ட தகராறைத் தொடர்ந்து கூர்மையான ஆயுதங்களால் தாக்கப்பட்டதால் இந்தக் கொலை நிகழ்ந்ததாக ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-கொலையைச் செய்த சந்தேக நபர்கள் பிரதேசத்திலிருந்து தப்பிச் சென்ற நிலையில், அவர்களைக் கைது செய்ய கல்கிவை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
-
-◼️
-
-[Data](articles/4e2b48c7.json)
-
----
-
-### Bus transporting garment workers topples in Dehiowita; all 41 hospitalized
-
-*2025-08-02 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111087/bus-transporting-garment-workers-topples-in-dehiowita-all-41-hospitalized) · `en`
-
-A bus transporting garment factory workers veered off the road and toppled down a precipice in Dehiowita, along the Kegalle–Avissawella main road, early this morning (02), said Ada Derana reporter.
-
-A total of 41 employees from a garment factory were on board the bus at the time of the accident.
-
-All 41 passengers have been admitted to the District General Hospital in Avissawella for treatment, said Ada Derana reporter.
-
-The bus was en route from Deraniyagala to the Avissawella Industrial Estate at the time of the incident, which occurred around 6:30 a.m.
-
-◼️
-
-[Data](articles/ff595df1.json)
-
----
-
-### Colombia ex-president Uribe sentenced to 12 years of house arrest, will appeal
-
-*2025-08-02 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111086/colombia-ex-president-uribe-sentenced-to-12-years-of-house-arrest-will-appeal) · `en`
-
-Former Colombian President Alvaro Uribe was sentenced by a judge on Friday to 12 years of house arrest for abuse of process and bribery of a public official, in a long-running case over connections to former right-wing paramilitaries.
-
-Uribe was convicted of the two charges on Monday by Judge Sandra Liliana Heredia in a witness-tampering case that has run for about 13 years. He has always maintained his innocence.
-
-Heredia read the sentence to the court in an afternoon hearing on Friday. Uribe will be fined $578,000, Heredia’s ruling said, and barred from public office for more than eight years.
-
-Uribe, whose legal team has said it will appeal, is to report to authorities in Rionegro, in Antioquia province, where he resides, and then “proceed immediately to his residence where he will comply with house arrest,” the ruling said.
-
-...
-
-[Data](articles/114eae08.json)
 
 ---

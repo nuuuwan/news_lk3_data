@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 04:21:02**
+As of **2025-08-04 04:32:55**
 
 ## Newspaper Stats
 
-*Scraped **68,462** Articles*
+*Scraped **68,463** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
-colombotelegraphcom | 702
+colombotelegraphcom | 703
 islandlk | 4,180
 economynextcom | 4,182
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,462 articles have been extended.
+61,973 (90.5%) of 68,463 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,18 @@ Finance expense was down 21 percent to 86 million and pre-tax profits were up 33
 ...
 
 [Data](articles/61bc2df1.json)
+
+---
+
+### Environment & How Its Issues Should Be Tackled Through Public Policy
+
+*2025-08-03 22:36:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/environment-how-its-issues-should-be-tackled-through-public-policy/) · `en`
+
+Environment consists of all endowments which nature has bequeathed to organisms so that they could arise, co-exist and, eventually as Nature has dictated, decay into oblivion. These endowments cover a wide range of natural phenomena such as different organisms themselves, atmosphere, hydrosphere, earth including its minerals, sunlight, etc. Man, like other organisms, has been liberally using the environment for his living, ever since he came into existence on the earth. Yet, the very same man has been expressing concern about the degradation of the quality of the environment, sometimes actual and sometimes imagined, threatening, in his view, the sustainability and continuity of the living on the earth. Environmental degradation has no territory and, therefore, spills over the entire globe.[1]
+
+...
+
+[Data](articles/0d24dc56.json)
 
 ---
 
@@ -1729,29 +1741,5 @@ Steps have been taken to hand over the suspect to the Western Province North Cri
 ◼️
 
 [Data](articles/7abcdffa.json)
-
----
-
-### සිහිසුන් වී බිම ඇද වැටුණු දැරිය ජීවිතක්ෂයට
-
-*2025-08-03 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212963) · `si`
-
-හදිසියේ ඇති වූ ක්ලාන්තයක් හේතුවෙන් සිහිසුන් වී බිම ඇද වැටුණු දැරිය ජිවීතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ කැකිරාව ප්‍රදේශයේ පදිංචි එකළොස් හැවිරිදි පාසල් සිසුවියෙකි.
-
-අදාල සිසුවිය පාසල නිම වී බස් රථය වෙත පැමිණ ඇති අතර එහිදී ඇති වූ හදිසි ක්ලාන්තයක් හේතුවෙන් ඇය බිම ඇද වැටී ඇත.
-
-එහිදී පාසල් බස් රථයේ සේවකයන් විසින් ඇයව කඩිනමින් කැකිරාව රෝහලට ඇතුළත් කිරීමට පියවර ගෙන ඇති අතර ප්‍රතිකාර ලබමින් සිටියදී ඇය මෙසේ මිය ගොස් තිබේ.
-
-පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය අනුරාධපුර මහ රෝහල වෙත රැගෙන ගොස් තිබුණි.
-
-කෙසේ වෙතත් අනුරාධපුර රෝහලේ අධිකරණ වෛද්‍ය නිලධාරිවරයා මරණ පරීක්ෂණය පැවැත්වුවද මරණයට හේතුව  අනාවරණය කර ගැනීමට නොහැකි වී ඇත.
-
-ඒ අනුව සිරුරේ කොටස් රස පරීක්ෂකවරයා වෙත යවා මරණයට හේතුවක් සොයා ගැනීමට තීරණය කර විවෘත තීන්දුවක් ලබාදෙමින් දියණියගේ දේහය භාරකරුවන්ට ලබා දී තිබේ.
-
-◼️
-
-[Data](articles/664fbb32.json)
 
 ---

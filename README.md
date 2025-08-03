@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 14:48:38**
+As of **2025-08-03 15:06:24**
 
 ## Newspaper Stats
 
-*Scraped **68,384** Articles*
+*Scraped **68,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,139 @@ economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,574
-adaderanalk | 8,470
+adalk | 6,575
+adaderanalk | 8,474
 tamilmirrorlk | 9,924
-virakesarilk | 11,389
-adaderanasinhalalk | 11,778
+virakesarilk | 11,392
+adaderanasinhalalk | 11,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,384 articles have been extended.
+61,973 (90.6%) of 68,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### 2029 ஜனாதிபதி தேர்தலில் பொதுவேட்பாளராக மிலிந்த?
+
+*2025-08-03 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221674) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் சிரேஷ்ட பாராளுமன்ற உறுப்பினரான கலாநிதி ஹர்ஷ டி சில்வா சம்பந்தமாகவும், ஐக்கிய மக்கள் குடியரசுக்கட்சியின் தலைவர் சம்பிக்க ரணவக்க சம்பந்தமாகவும், தயாசிறி ஜயசேகர சம்பந்தமாகவும் பரிசீலனைகள் செய்யப்பட்டது. அவை இன்னமும் முடிவெடுக்கப்பட்டாத உரையாடல்களாகவே நீடிக்கின்ற நிலையில், தற்போது மிலிந்த மொரகொட நோக்கிய உரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/a8374c40.json)
+
+---
+
+### தகவலறியும் உரிமைக்கான ஆணைக்குழுவை இயற்கையாக மரணிக்கச் செய்ய முயற்சியா?
+
+*2025-08-03 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/221693) · `ta`
+
+இலங்­கையில் தக­வ­ல­றியும் உரி­மைக்­கான போராட்டம் தசாப்­தங்கள் கடந்­தது. 1990இல் ஆரம்­பிக்­கப்­பட்ட தக­வ­ல­றியும் உரி­மைக்­கான போராட்டம் 2015ஆம் ஆண்டு ஆட்­சிக்கு வந்த மைத்­தி­ரி-ரணில் கூட்­டாட்­சியில் தான் நடை­மு­றையில் கொண்­டு­வ­ரு­வ­தற்கு சாத்­தி­ய­மா­னது.
+
+◼️
+
+[Data](articles/2313010d.json)
+
+---
+
+### கறுப்பு ஜுலையை கடந்து சென்ற அநுர அரசாங்கம்
+
+*2025-08-03 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/221695) · `ta`
+
+கறுப்பு ஜூலையின் போது இடம்பெற்ற  குற்றங்கள் விசாரிக்கப்பட்டு, அதன் பின்னணியில் உள்ளவர்கள் அம்பலப்படுத்தப்படும் வரை இங்கு ஒன்றாய் இணைந்து பறந்திடும் செயற்பாடுகளும் சகோதரத்துவ தினமும் அனுஷ்டிக்கப்படுவதில் எந்த அர்த்தங்களும் இல்லை.
+
+◼️
+
+[Data](articles/d7f6aa01.json)
+
+---
+
+### බෞද්ධ කටයුතු කොමසාරිස් ජනරාල්වරයා ධුරයෙන් ඉවත් කරයි
+
+*2025-08-03 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212972) · `si`
+
+වැඩබලන බෞද්ධ කටයුතු කොමසාරිස් ජනරාල්වරයා ලෙස එම දෙපාර්තමේන්තුවේ අතිරේක කොමසාරිස්වරයා ලෙස කටයුතු කළ කසුන් වැල්ලහේවා මහතා පත් කර තිබේ.
+
+බුද්ධශාසන හා ආගමික කටයුතු අමාත්‍යංශය සඳහන් කළේ බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් ප්‍රේමසිරි රත්නායක මහතා ඉවත් කිරීමෙන් පුරප්පාඩු වූ ධුරය සඳහා මෙම පත් කිරීම සිදුකර ඇති බවය.
+
+රාජකාරී නිසි පරිදි ඉටු නොකිරීමේ චෝදනාව මත ප්‍රේමසිරි රත්නායක මහතා ධුරයෙන් ඉවත් කිරීමට කැබිනට් මණ්ඩලය තීරණය කර තිබුණි.
+
+බෞද්ධ කටයුතු දෙපාර්තමේන්තුවේ  කටයුතු නිසි පරිදි සිදු නොකිරීම සම්බන්ධයෙන් බුද්ධශාසන හා ආගමික කටයුතු අමාත්‍යංශය විසින් බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් ප්‍රේමසිරි රත්නායක මහතාට එරෙහිව චෝදනා එල්ල කර තිබුණි.
+
+අදාළ චෝදනා පත්‍රය පසුගිය කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇති අතර එහිදී ඔහු ධුරයෙන් ඉවත් කිරීමට කැබිනට් මණ්ඩලය තීරණය කර ඇති බවයි බුද්ධශාසන හා ආගමික කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/336fe0cd.json)
+
+---
+
+### මිල කළ නොහැකි ප්‍රතිමාවක් ලංකාවට ගෙන ඒමට සැලසුම් කළ ඉන්දියානුවන් දෙදෙනෙක් කොටුවෙයි
+
+*2025-08-03 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212971) · `si`
+
+ඉන්දියාවේ තමිල්නාඩු ප්‍රදේශයේ සිට ශ්‍රී ලංකාවට නීති විරෝධීව ගෙන ඒමට තැත් කළ දේව ප්‍රතිමාවක් ඉන්දීය පොලිස් භාරයට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+ඒ සමග සැකකරුවන් දෙදෙනෙකුද එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
+
+තමිල්නාඩුවේ තුතුකුඩි සිට මෙම දේව ප්‍රතිමාව මෙරටට රැගෙන ඒමට සැලසුම් කර ඇතැයි එරට අපරාධ විමර්ශන දෙපාර්තමේන්තුවේ නිලධාරියෙකුට ලැබුණු රහසිගත තොරතුරක් මත ඊයේ (02) සවස එරට ත්‍රේස්පුරම් හී ඇනා ජනපදයේ සෝදිසි මෙහෙයුමක් දියත් කර තිබේ.
+
+එහිදී අදාළ පුද්ගලයින් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් අවුරුදු 52 සහ 35 හැවිරිදි වියේ පසුවන්නන් බවද ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
+
+ඔවුන් දෙදෙනා සතුව තිබූ ප්‍රතිමාවේ වටිනාකම කෝටි ගණනක් බවත් මෙම දේව ප්‍රතිමාව රන්, රිදී, ඊයම්, යකඩ ඇතුළුව ලෝහ පහක් එකතුවෙන් නිර්මාණය කළ පෞරාණික ප්‍රතිමාවක් බවද විමර්ෂන නිලධාරීන් අනාවරණය කර ගෙන තිබේ.
+
+සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ මෙම ප්‍රතිමාව මෙරටට ගෙන ගොස් පසුව යුරෝපීය රටකට ගෙන යාමට සැලසුම් කර තිබූ බවය.
+
+◼️
+
+[Data](articles/51c9f362.json)
+
+---
+
+### රුසියාවේ රැෂෙනිනිකොව් ගිනි කන්ද සක්‍රීය වෙයි
+
+*2025-08-03 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212970) · `si`
+
+රුසියාවේ කම්චැට්කා අර්ධද්වීපයේ පිහිටි ක්‍රැෂෙනිනිකොව් ගිනි කන්ද ඊයේ සක්‍රීය වී තිබේ.
+
+ඒ වසර 600කට ආසන්න නිහඬතාවයකින් පසුව බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+රුසියාවේ කම්චැට්කා අර්ධද්වීපයට ආසන්න පැසිෆික් සාගරයේ සුනාමි තත්ත්වයක් ද ඇති කරමින් පසුගිය දා හටගත් රික්ටර් මාපකයේ ඒකක 8.8ක ප්‍රබලත්වයෙන් යුත් භූකම්පාවේ බලපෑම හේතුවෙන් මෙම ගිනි කන්ද සක්‍රිය වන්නට ඇති බවට විශේෂඥයින් මත පල කර ඇත.
+
+◼️
+
+[Data](articles/25718cbd.json)
+
+---
+
+### SLTB bus driver arrested in Nuwara Eliya while driving under the influence of alcohol
+
+*2025-08-03 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111125/sltb-bus-driver-arrested-in-nuwara-eliya-while-driving-under-the-influence-of-alcohol) · `en`
+
+A Sri Lanka Transport Board (SLTB) bus driver has been arrested by the Nuwara Eliya police for driving under the influence of alcohol.
+
+The bus was operating from Welimada through Nuwara Eliya when it was stopped and inspected by police officers, who confirmed that the driver was heavily intoxicated.
+
+According to police, the driver was taken into custody while a large number of passengers were on board at the time of the arrest.
+
+The bus was taken to the Nuwara Eliya Police Station for inspection, during which the officers discovered a can containing illicit alcohol behind the driver’s seat.
+
+Police suspect that the driver had been consuming alcohol during the journey under the pretext of drinking water.
+
+Meanwhile, the service of another driver was obtained to ensure the passengers could continue to their destination safely, according to police.
+
+The arrested driver is scheduled to be produced before the Nuwara Eliya Magistrate’s Court.
+
+◼️
+
+[Data](articles/4dfdfb14.json)
+
+---
 
 ### ஐஸூடன் எழுவர் காத்தான்குடியில் கைது
 
@@ -92,6 +210,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Dormant Russia volcano erupts for first time in 475 years
+
+*2025-08-03 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111124/dormant-russia-volcano-erupts-for-first-time-in-475-years) · `en`
+
+A volcano erupted for the first time in 475 years in Russia’s eastern Kamchatka region, the nation’s emergency authority said on Sunday (Aug 3), days after one of the strongest earthquakes on record hit the region.
+
+Pictures released by Russian state media show a towering plume of ash spewing from the Krasheninnikov volcano, which last erupted in 1550, according to the Smithsonian Institution’s Global Volcanism Program.
+
+The plume is estimated to have reached an altitude of 6,000m, Kamchatka’s Ministry of Emergency Situations said in a post on Telegram.
+
+“The plume is spreading eastward from the volcano toward the Pacific Ocean. There are no populated areas along its path, and no ashfall has been recorded in inhabited localities,” the ministry said.
+
+The volcano has been assigned an “orange” aviation hazard code, the ministry added, meaning flights in the area may be disrupted.
+
+...
+
+[Data](articles/a971f981.json)
+
+---
+
 ### ஹட்டனில் நெக்லஸை திருடிய கொழும்பு பெண் கைது
 
 *2025-08-03 14:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-நெக்லஸை-திருடிய-கொழும்பு-பெண்-கைது/76-362210) · `ta`
@@ -107,6 +245,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/02fcebfe.json)
+
+---
+
+### Number of shootings in 2025 increases to 76
+
+*2025-08-03 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111123/number-of-shootings-in-2025-increases-to-76) · `en`
+
+The number of shooting incidents reported across the country in 2025 has risen to 76.
+
+This includes the shooting incident reported in Kapugoda, Matara this morning.
+
+Shootings in 2025 have resulted in the deaths of 41 individuals, while 43 others have also sustained injuries, police stated.
+
+◼️
+
+[Data](articles/09344e93.json)
 
 ---
 
@@ -537,6 +691,24 @@ Police also suspect that the individual is connected to the drug network operate
 ◼️
 
 [Data](articles/5650f232.json)
+
+---
+
+### සෙවනගල හා පැල්වත්ත ගැටලුවට වහාම රජය මැදිහත්වන්න
+
+*2025-08-03 11:42:07* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-හා-පැල්වත්ත-ගැටලුවට-වහාම-රජය-මැදිහත්වන්න/11-417679) · `si`
+
+“ලංකා සීනි සමාගමට අයත් සෙවනගල සහ පැල්වත්ත කර්මාන්ත ණය බරින් මිරිකළා.වහාම රජය මැදිහත්වී එම අර්බුදයෙන් ආයතන ගොඩගෙන සේවකයින්ගේ සහ ගොවීන්ගේ අනාගත සුරක්ෂිත කරන්න” යැයි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+ඒ මහතා එසේ පැවසුවේ (02) වෙනිදා බුත්තල ශ්‍රී චන්ද්‍ර මදුරාරාමයේ පැවති උක් ගොවීන්ගේ සහ සේවකයින්ගේ හමුවක් අමතමිනි.විපක්ෂ නායකවරයා මෙසේද පැවසීය,
+
+"පැල්වත්ත සහ සෙවනගල ගොවීන්ට උක් ගස් සඳහා ගෙවිය යුතු මුදල් සහ උක් ගස් ප්‍රවාහනය කරන ලොරි රථ වලට ගෙවිය යුතු මුදල් මාස ගණනකින් ගෙවා නැහැ.උක් ගස් භාර ගැනීම සීමා කරලා.මෙම තත්වය මත සෙවනගල සහ පැල්වත්ත සීනි කර්මාන්ත ශාලා වැසී යාමේ තත්වයක පත් වෙලා.
+
+අප කිසිසේත් මෙම ආයතන දෙක වැසී යන තෙක් බලා සිටින්නේ නෑ.රජයට සහ විෂය භාර ඇමතිවරයාට අපි බල කර සිටිනවා වහාම මැදිහත්ව මෙම ආයතන සුරැකීමට පියවර ගන්නා ලෙස.ජේ.ආර් ජයවර්ධන රජය යටතේ ආරම්භ කළ මෙම කර්මාන්ත ශාලා වලින් දහස් සංඛ්‍යාත පවුල් ජීවත් වෙනවා. විශේෂයෙන් හය දහසකට අධික පිරිසක් මේවගේ සේවය කරනවා.ඊට අමතරව විශාල පිරිසක් කම්කරුවන් ලෙස සේවය කරනවා.
+
+...
+
+[Data](articles/57369370.json)
 
 ---
 
@@ -975,6 +1147,28 @@ The the national negotiating team, which, with its expert skills and fact-based 
 ◼️
 
 [Data](articles/b69db38e.json)
+
+---
+
+### One person injured in shooting incident in Matara
+
+*2025-08-03 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111113/one-person-injured-in-shooting-incident-in-matara-) · `en`
+
+An individual has sustained injuries in a shooting incident reported in Kapugama, Matara at around 6:35a.m. today (03), police stated.
+
+According to police, two unidentified individuals arrived on a motorcycle and carried out the shooting using a T-56 assault rifle, targeting a person who was at a house.
+
+A 48-year-old man was injured in the shooting, sustaining a minor wound to his leg.
+
+Police said the injured person is a bus owner and also a businessman who owns multiple fishing vessels.
+
+Police suspect that the shooting was orchestrated by Shehan Sathsara, also known as ‘Dehibala Malli’, a known organized criminal and drug trafficker currently residing in Dubai.
+
+This act is believed to be motivated by a personal connection between the injured man and the families of Pasindu Tharaka and Yomesh Nadishan, who were shot dead near the southern entrance of the Sri Vishnu Temple in Dondra on March 21, as well as with an individual injured in that same incident.
+
+...
+
+[Data](articles/b3d4f7c2.json)
 
 ---
 
@@ -1567,221 +1761,5 @@ Pakistan said in June that it would recommend Trump for the Nobel Peace Prize fo
 ...
 
 [Data](articles/27f80881.json)
-
----
-
-### City of Dreams casino and luxury hotels aim to up Sri Lanka’s tourism game
-
-*2025-08-02 21:13:00* · [`economynextcom`](https://economynext.com/city-of-dreams-casino-and-luxury-hotels-aim-to-up-sri-lankas-tourism-game-234306/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s City of Dreams integrated resort, built by John Keells Holdings, with a casino and Nuwa hotel by its partner Melco Resorts and Entertainment, expects to reposition Colombo to the top end of the tourism market, officials said.
-
-The 1.2 billion Us dollar integrated resort was conceptualized in 2010-2011, after a 30-year war and John Keells was looking for ways to strengthen Sri Lanka’s tourism potential.
-
-“We were also conscious that we were next door to India, which was growing at a rapid pace, and is continuing to grow even today, 11 years later,” JKH Chairman Krishan Balendra said.
-
-“And we could see the potential for having that outbound Indian tourist market. But not just India.
-
-“We are four hours away from the Middle East and other parts of South Asia, and very close even to Southeast Asia, so we have very big tourist arrivals from India, China, other Southeast Asian countries, the Middle East.”
-
-...
-
-[Data](articles/d6ceb8a9.json)
-
----
-
-### பிரபல நடிகர் மதன் பாபு காலமானார்
-
-*2025-08-02 21:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-நடிகர்-மதன்-பாபு-காலமானார்/175-362185) · `ta`
-
-பிரபல குணச்சித்திர நடிகர் மதன் பாபு காலமானார். சென்னை அடையாறில் உள்ள இல்லத்தில் தனது 71 வயதில் அவர் காலமானதாக தெரிவிக்கப்படுகிறது.
-
-குணச்சித்திர வேடங்களில் நடித்த நடிகர் மதன் பாபு, தனது தனித்துவமான சிரிப்பால், ரசிகர்களை கவர்ந்தவர்.
-
-புற்று நோயால் பாதிக்கப்பட்டிருந்த மதன் பாபு, அதற்காக சிகிச்சை பெற்று மீண்டதாக கூறப்படும் நிலையில், இன்று மாலை 5 மணியளவில் காலமானதாக தெரிவிக்கப்படுகிறது.
-
-மதன் பாபுவின் உடல், சென்னை அடையாறில் உள்ள அவரது இல்லத்தில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/e2a9fdc9.json)
-
----
-
-### Sri Lanka sees rise in garment exports led by UK, EU
-
-*2025-08-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111101/sri-lanka-sees-rise-in-garment-exports-led-by-uk-eu) · `en`
-
-Exports from Sri Lanka’s garment sector increased 5.2% year over year in June 2025, hitting US $ 439.39 million from US $ 417.71 million in June 2024.
-
-The expansion is credited by the Joint Apparel Association Forum (JAAF) to strong results in the UK and the EU.
-
-The UK saw a 20.4% increase in exports to US $ 67.33 million, while exports to the EU (without the UK) increased by 23.1% to US $ 142.92 million. These advances successfully countered lower exports in other markets, which decreased 9.3% to US $ 64.75 million, and the United States, where exports fell 5.7% to US $ 164.39 million.
-
-...
-
-[Data](articles/ef656dfa.json)
-
----
-
-### අරුගම්බේ සංචාරක කර්මාන්තයට ඊශ්‍රායල් ජාතිකයින්ගෙන් දැඩි බලපෑම්
-
-*2025-08-02 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212951) · `si`
-
-සංචාරක වීසා මත පැමිණි ඊශ්‍රායල් ජාතිකයින් අරුගම්බේ ප්‍රදේශයේ සංචාරක කර්මාන්තයට දැඩි බලපෑම් එල්ලකරන බව එම ප්‍රදේශයේ සංචාරක කර්මාන්තයේ නිරත ව්‍යාපාරිකයින් පවසයි.
-
-සංචාරක සංවර්ධන අධිකාරියේ සභාපති බුද්ධික හේවාවසම් මහතා පවසන්නේ, සංචාරක වීසා මත පැමිණ මෙරට ව්‍යාපාර කළ විදේශිකයින් රැසකට එරෙහිව මේ වන විටත් නීතිමය පියවර ගෙන ඇති බවය.
-
-මෙම ප්‍රදේශයේ සංචාරක කර්මාන්තයට ඊශ්‍රායල් ජාතිකයින්ගෙන් සිදුවන බලපෑම පිළිබඳව අන්තර්ජාතික ඩී.ජේ ශිල්පියෙකු ද සමාජ මාධ්‍ය ඔස්සේ අදහස් පළකර තිබුණි.
-
-මේ චෝදනාව එල්ල වන්නේ මෙරට සංචාරයකට පැමිණි අන්තර්ජාතික DJ ශිල්පියෙක් වූ ටොම් මොනගල්ගෙන්.
-
-ඔහු සඳහන් කරන්නේ, ආරුගම්බේ ප්‍රදේශයේ සංචාරය කළ තමාට ඊශ්‍රායයේ ටෙල්අවිව් අගනුවරට පැමිණියා හා සමාන අත්දැකීමක් ලැබූ බවය.
-
-ආරුගම්බේ ප්‍රදේශය පුරා ඊශ්‍රායල් ජාතිකයින් සිය අණසක පතුරවා ඇති බවට තමාට සිතෙන බව ඔහු මෙහිදී සඳහන් කර තිබේ.
-
-ඊට ප්‍රධානම හේතුව වන්නේ, සර්ෆින් ක්‍රීඩාව සඳහා ආරුගම්බේ මුහුදු ප්‍රදේශය වඩාත් යෝග්‍ය වීමයි.
-
-මේ පිළිබඳ අද දෙරණ කළ සොයාබැලීමකදී අනාවරණ වූයේ, සංචාරක වීසා මත පැමිණෙන ඊශ්‍රායල් ජාතිකයන් ව්‍යාපාරවල යෙදෙන බවය.
-
-◼️
-
-[Data](articles/ac0e61be.json)
-
----
-
-### ගල්කිස්ස ඝාතනයේ සැකකරුවන් ප්‍රදේශයෙන් පළායයි
-
-*2025-08-02 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212950) · `si`
-
-ගල්කිස්ස පොලිස් වසමේ අරලිය නිවාස ප්‍රදේශයේදී දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් පුද්ගලයෙකු මියයාමේ සිද්ධියට අදාළ සැකකරුවන් ප්‍රදේශයෙන් පළා ගොස් ඇති බව පොලීසිය පවසයි.
-
-ඝාතනයට සම්බන්ධ සැකකරුවන් පස්දෙනෙක් හඳුනාගෙන ඇති අතර ඒ අතර කාන්තාවන් දෙදෙනෙකු ද වන බව පොලිසිය සඳහන් කළේය.
-
-මේ වන විට ප්‍රදේශයෙන් පලාගොස් ඇති සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-ඊයේ (01) සවස් කාලයේදී මෙම සිදුවීම සිදුව ඇති අතර තියුණු ආයුධවලින් පහරදීම හේතුවෙන් අදාළ පුද්ගලයින් දෙදෙනා බරපතළ තුවාල සහිතව ලුනාව රෝහලට ඇතුලත් කර තිබුණි.
-
-ගල්කිස්ස පොලීසිය සඳහන් කළේ, තුවාලකරුවන්ගෙන් එක් පුද්ගලයෙකු ලුනාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බවත් තුවාල ලැබූ අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුලත් කෙරුණු බවත් ය.
-
-මෙසේ පහර කෑමට ලක්ව ඇත්තේ එකම පවුලේ සහෝදරයින් දෙදෙනෙක් වන අතර එහිදී මිය ගොස් ඇත්තේ 28 හැවිරිදි වැඩිමහල් සොහොයුරා ය.
-
-එම පහරදීමෙන් තුවාල ලැබූ පහලොස් හැවිරිදි පාසල් සිසුවාද මේ වන විට රෝහල්ගතව ප්‍රතිකාර ලබන බව සඳහන් වේ.
-
-...
-
-[Data](articles/e03d0f73.json)
-
----
-
-### පිංගම දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කෙරේ
-
-*2025-08-02 19:40:20* · [`adalk`](https://www.ada.lk/breaking_news/පිංගම-දී-වෙඩි-තබා-පුද්ගලයෙකු-ඝාතනය-කෙරේ/11-417667) · `si`
-
-අම්බලන්තොට  හුංගම පොලිස් වසමේ , පිංගම ප්‍රදේශයේ  02 දා  පස්වරු 03ට පමණ සිදුකළ වෙඩි තැබීමකින් එක් පුද්ගලයෙකු මියගොස් තිබේ.
-
-මෙසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි දිසානායක මුදියන්සේලාගේ දිනේෂ් කැලුම් කුමාර නමැති වයස අවුරුදු 32ක පමණ එක්දරු පියෙකු වේ.
-
-මියගිය පුද්ගලයාගේ බිරිද විදේශ ගතව ඇති අතර මේ මස 10 වනදා තම දියණියගේ මල්වර වීමේ උත්සවය සම්බන්ධයෙන් වෙඩි තැබීම සිදුවූ වෙළඳ ස්ථානයේ හිමුකරුට ආරාධනා කිරීමට හා භාණ්ඩ මිලදී ගැනීම වෙනුවෙන් ගිය අවස්ථාවේ තම පුතාට මේ ආකාරයෙන් වෙඩි තබා ඇතිබව  මියගිය අයගේ පියා  වන දිසානායක මුදියන්සේලාගේ මහින්ද මහතා කියා සිටියේය.
-
-කෙසේ නමුත් පුද්ගලික  ආරවුලක් මත අදාළ වෙඩි තැබීම සිදුව ඇති බව පොලිසිය සනදහන් කරයි. එමෙන්ම  බලපත්‍ර සහිත ගිනි අවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවත්  වෙඩි වැදුණු පුද්ගලයා එම ස්ථානයේදීම ජීවිතක්ෂයට පත්ව තිබේන බවත් පසුව වෙඩි තැබීම සිදුකළ පුද්ගලයා ගිනි අවිය සමග හුංගම පොලිසියට භාර වී ඇතිබවද පොලිසිය පවසා සිටියේය.
-
-මේ සම්බන්දැන් වැඩිදුර විමරශන කටයුතු  තංගල්ල කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී උපුල සෙනෙවිරත්න මහතාගේ උපදෙස් මත හුංගම පොලීසිය  සිදුකරයි.
-
-◼️
-
-[Data](articles/06823049.json)
-
----
-
-### වසර 38කට පසු අන්තර් පාසල් ලීග් රග්බි ශූරතාව මහනුවර ත්‍රිත්ව විදුහලට
-
-*2025-08-02 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212949) · `si`
-
-අන්තර් පාසල් ලීග් රග්බි තරගාවලියේ ශූරතාව දිනාගැනීමට මහනුවර ත්‍රිත්ව විදුහල අද (02) සමත්විය.
-
-ඒ අවසන් මහා තරගයේදී කොළඹ වෙස්ලි විදුහලට එරෙහිව ලකුණු 23 -21ක් ලෙස තියුණු ජයක් ලබමින්ය.
-
-ත්‍රිත්ව විදුහල උත්සාහක දිණුම් 3ක්, එක් ප්‍රවර්ථනයක්, දඬුවම් පහරක් හා ඩ්‍රොප් ගෝලයක් වාර්තා කරමින් ලකුණු රැස්කළේය.
-
-එමෙන්ම තියුණු සටනක් දුන් වෙස්ලි විදුහලද උත්සාහක දිණුම් 3ක් හා ප්‍රවර්ථන 3ක් සාර්ථක කරගැනීමට සමත් විය.
-
-ත්‍රිත්ව විදුහල මෙලෙස අන්තර් පාසල් ලීග් රග්බි තරගාවලියක ශූරතාව දිනාගත්තේ වසර 38කට පසුව වීම විශේෂත්වයක්ය.
-
-◼️
-
-[Data](articles/e81688be.json)
-
----
-
-### ஹட்டனில் தங்கச் சங்கிலி திருட முயன்ற யுவதியை சமயோசிதமாக பிடித்த நகை கடை  உரிமையாளர்!
-
-*2025-08-02 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/221612) · `ta`
-
-வலி நிவாரணி திரவத்தை பயன்படுத்தி தங்கச் சங்கிலி ஒன்றை திருட முயன்ற 26 வயதுடைய யுவதி ஒருவர், ஹட்டன் நகரில் உள்ள நகை கடையில் வைத்து சமயோசிதமாக பிடித்து பொலிசாரிடம் ஒப்படைத்துள்ளார்.
-
-வெள்ளிக்கிழமை (01) இரவு, ஹட்டன் இரண்டாம் பிரதான வீதியில் அமைந்துள்ள நகை கடையில், கணக்கு விவரங்களை பரிசீலித்துக் கொண்டிருந்த உரிமையாளரிடம் ஒரு யுவதி வந்து தங்கச் சங்கிலி ஒன்றைக் காண்பிக்க கேட்டுள்ளார்.
-
-சங்கிலியை காண்பித்து கொண்டிருந்த நிலையில், யுவதி ஒரே நேரத்தில் தனது கைப்பையில் இருந்து வலி நிவாரணி திரவ போத்தலை எடுத்துக் கொண்டு உரிமையாளரின் முகத்தில்  வீச முயன்றுள்ளார்.
-
-ஆனால், உரிமையாளர் அதனை சரியாக கவனித்து கைகளைப் பயன்படுத்தி தடுத்து, யுவதியின் கைகளைப் பிடித்துக் கொண்டுள்ளார்.
-
-உடனடியாக வீதியோரத்தினரை உதவிக்கு அழைத்த நகை கடை  உரிமையாளர், யுவதியை ஹட்டன் பொலிஸாரிடம் ஒப்படைத்தார்.
-
-பின்னர் யுவதி கைது செய்யப்பட்டதுடன், அவரது கைப்பையில் இருந்து கவரிங் நகைகள் மற்றும் பணத் தொகையும் கைப்பற்றப்பட்டுள்ளது.
-
-...
-
-[Data](articles/a5df7f8a.json)
-
----
-
-### One dead, five trapped in Chile copper mine collapse
-
-*2025-08-02 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111100/one-dead-five-trapped-in-chile-copper-mine-collapse) · `en`
-
-A collapse at a copper mine in Chile has killed one worker and left five trapped underground, forcing the country’s state mining company to suspend operations in affected areas of the world’s largest underground copper deposit.
-
-Nine other mine workers suffered injuries, said Chile’s National Copper Corp., known as Codelco, describing the incident as the result of “a seismic event.”
-
-The US Geological Survey reported a magnitude 5.0 earthquake in an area of central Chile where Codelco’s El Teniente mine is located, at 5.34pm local time on Thursday. Codelco reported the tremor had a magnitude of 4.2.
-
-Authorities were still investigating whether it was a naturally occurring earthquake or whether mining activity at Codelco’s flagship El Teniente mine caused the quake. Chilean prosecutors also launched a criminal investigation to determine whether any safety standards were violated.
-
-...
-
-[Data](articles/142a853a.json)
-
----
-
-### දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ පහසුකම එළැඹෙන වසරේ සිට
-
-*2025-08-02 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212948) · `si`
-
-ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව විසින්  (TRCSL) දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ ( Number Portability -NP) සේවාව ලබන වසරේ සිට ක්‍රියාත්මක කරන බව එම කොමිෂන් සභාව පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ  සේවාව ක්‍රියාත්මක කිරීම පිණිස පියවර කිහිපයක් ගෙන ඇති බවය.
-
-ඒ අනුව පළමුව කොමිෂන් සභාව විසින් දුරකථන ක්‍රියාකරු සමාගම්  සමඟ සාකච්ඡා පවත්වා දුරකථන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ සේවාව ක්‍රියාත්මක කිරීම සඳහා සැලැස්මක් සකස් කර තිබේ.
-
-2021  වසරේ දී මහජන උපදේශන පත්‍රිකාවක් ප්‍රකාශයට පත් කරන ලද අතර, අදාළ සියලුම පාර්ශ්වකරුවන්ගේ අදහස් මේ සඳහා ලබා ගෙන ඇත.
-
-පසුව විදුලි සංදේශ ක්‍රියාකරුවන් සමඟ සාකච්ඡා කර සුදුසු තාක්ෂණික ආකෘතිය තීරණය කරන ලද අතර  දුරකතන අංකය වෙනස් නොවී ජාල අතර මාරුවීමේ  සේවාව ක්‍රියාත්මක කිරීම සහ පරිපාලනය කිරීම පිණිස සියලුම ස්ථාවර සහ ජංගම දුරකථන ක්‍රියාකරුවන්ගේ සහභාගීත්වයෙන් ලංකා  නම්බර් පෝර්ටබිලිටි සර්විසස් (ගැරන්ටි‍) ලිමිටඩ් නමින් සමාගමක් ස්ථාපනය කර තිබේ.
-
-...
-
-[Data](articles/aceb3910.json)
-
----
-
-### Remembering Mr. M.T. Thambapillai – A Pillar of Royal Rugby
-
-*2025-08-02 18:41:00* · [`islandlk`](http://island.lk/remembering-mr-m-t-thambapillai-a-pillar-of-royal-rugby/) · `en`
-
-As Royal College and S. Thomas’ College meet once again on Saturday, 2nd August, to contest the Michael Gunaratne Trophy, the spotlight also shines on the next generation as the Under-16 teams (earlier 2nd XV then Under 18) compete for the M.T. Thambapillai Trophy. This is an ideal moment to remember and honour the legacy of the late Mr. M.T. Thambapillai, a name deeply etched in the history of Royal rugby. Although not a rugby player or a coach in the conventional sense, Mr. Thambapillai played a foundational role in shaping Royal College’s rugby journey. Generations of Royalists who played between 1947 and 1970 fondly recall his influence—with immense respect, admiration, and gratitude.
-
-...
-
-[Data](articles/6b0e448d.json)
 
 ---

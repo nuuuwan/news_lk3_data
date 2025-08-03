@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 21:49:18**
+As of **2025-08-03 22:07:05**
 
 ## Newspaper Stats
 
-*Scraped **68,443** Articles*
+*Scraped **68,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,586
-adaderanalk | 8,480
+adaderanalk | 8,481
 tamilmirrorlk | 9,933
 virakesarilk | 11,403
 adaderanasinhalalk | 11,791
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,443 articles have been extended.
+61,973 (90.5%) of 68,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3cd6a363.json)
+
+---
+
+### Israeli minister sparks anger by praying at sensitive Jerusalem holy site
+
+*2025-08-03 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111132/israeli-minister-sparks-anger-by-praying-at-sensitive-jerusalem-holy-site) · `en`
+
+Israel’s far-right National Security Minister Itamar Ben-Gvir has visited the al-Aqsa Mosque compound in Jerusalem and prayed there, violating a decades-old arrangement covering one of the most sensitive sites in the Middle East.
+
+Photos and videos of his visit show Ben-Gvir leading Jewish prayers at the compound, which is known by Jews as the Temple Mount, in occupied East Jerusalem.
+
+Praying at the site breaks a long-time arrangement that allows Jews to visit the site but not pray.
+
+The Israeli prime minister’s office released a statement saying there had been no change to Israel’s policy of maintaining the status quo agreement that allows only Muslim worship there.
+
+Jordan, custodian of the site, called Ben-Gvir’s latest visit “an unacceptable provocation”.
+
+Hamas called it “a deepening of the ongoing aggressions against our Palestinian people”, while a spokesperson for Palestinian Authority President Mahmoud Abbas said the visit “crossed all red lines”.
+
+...
+
+[Data](articles/1ff4d693.json)
 
 ---
 
@@ -1721,25 +1743,5 @@ Some locals accuse Paetongtarn and her family of allowing the conflict — which
 ...
 
 [Data](articles/c85362d3.json)
-
----
-
-### மாகாண சபைத் தேர்தல் தொடர்பில் விவாதம்
-
-*2025-08-03 10:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்-தொடர்பில்-விவாதம்/175-362195) · `ta`
-
-மாகாண சபைத் தேர்தல்களில் பின்பற்ற வேண்டிய நடைமுறை குறித்து பொது நிர்வாகம், மாகாண சபைகள் மற்றும்  உள்ளூராட்சி மன்றங்கள், பொது நிர்வாக அமைச்சகம் பல சுற்று விவாதங்களை நடத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-அத்துடன், எல்லை நிர்ணய பிரச்சினைகள் குறித்து விரிவான விவாதங்கள் நடைபெறும் என்றும் ஊடகம் ஒன்றுக்கு அளித்துள்ள செவ்வியின்போது பொது நிர்வாக குழு கூறியுள்ளது.
-
-இது குறித்து மாகாண சபைகள் மற்றும்  உள்ளூராட்சி மன்றங்கள், பொது நிர்வாக அமைச்சர் சந்தன அபேரத்ன கூறியுள்ளதாவது,
-
-“மாகாண சபைத் தேர்தலை பழைய விகிதாசார பிரதிநிதித்துவ முறையின் கீழ் நடத்த முடியாது.புதிய தேர்தல் முறை இன்னும் வகுக்கப்படவில்லை. எனவே, இப்போது என்ன விவாதிக்கப்படுகிறது?”
-
-ஆலோசனைக் குழுவிலும் இதைப் பற்றி விவாதித்தோம். நிலைமையை நாங்கள் கண்காணித்து வருகிறோம். இறுதி முடிவுக்கு நாங்கள் இன்னும் வரவில்லை. புதிய எல்லை நிர்ணய நடவடிக்கைகள் மேற்கொள்ளப்படுமா என்பது குறித்து எந்த குறிப்பிட்ட யோசனையும் இல்லை.
-
-...
-
-[Data](articles/295a61f6.json)
 
 ---

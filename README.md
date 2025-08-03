@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 13:50:06**
+As of **2025-08-03 14:07:08**
 
 ## Newspaper Stats
 
-*Scraped **68,367** Articles*
+*Scraped **68,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,160 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,573
-adaderanalk | 8,467
-tamilmirrorlk | 9,918
+adaderanalk | 8,470
+tamilmirrorlk | 9,921
 virakesarilk | 11,385
-adaderanasinhalalk | 11,775
+adaderanasinhalalk | 11,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,367 articles have been extended.
+61,973 (90.6%) of 68,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### සාගතයෙන් මිය යන ගාසාහී දරුවන් ගණන ඉහළට
+
+*2025-08-03 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212968) · `si`
+
+ගාසා තීරය තුළ පවතින ආහාර හිඟය සහ ඒ හේතුවෙන් ඇතිවී තිබෙන සාගත තත්ත්වය හේතුවෙන් මීට පෙර සිදු නොවූ ප්‍රමාණයකින් කුඩා දරුවන් මිය යමින් සිටින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+
+එක්සත් ජාතීන්ගේ ළමා අරමුදලේ නියෝජ්‍ය විධායක අධ්‍යක්ෂ ටෙඩ් චයිබන් පැවසුවේ ගාසා තීරය තුළ පුළුල්ව ව්‍යාප්තව පවතින මෙම සාගත තත්ත්වය අවසන් කිරීම සඳහා ජාත්‍යන්තර ප්‍රජාව කඩිනම් පියවර ගත යුතුව ඇති බවය.
+
+ගාසා තීරයේ සහ ඊශ්‍රායලයේ සංචාරයකින් අනතුරුව අමෙරිකාවේ නිව්යෝක් නගරයේ පිහිටා ඇති එක්සත් ජාතීන්ගේ මූලස්ථානයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ප්‍රකාශ කර තිබුණේ ආහාර ද්‍රව්‍ය, කිරිපිටි සහ සනීපාරක්ෂ ද්‍රව්‍ය රැගත් ට්‍රක් රථ 1,500කට ආසන්න සංඛ්‍යාවක් ගාසා තීරය වෙත යැවීමට එක්සත් ජාතීන්ගේ ළමා අරමුදල මේ වන විට සූදානම් කර ඇති නමුත් එම කළාපයට ඇතුලු වීමට අවසර ලැබී ඇත්තේ සීමිත ට්‍රක් රථ සංඛ්‍යාවකට පමණක් බවය.
+
+එය පවතින ඉල්ලුමට කිසිසේත් ප්‍රමාණවත් නොවන බව ද නියෝජ්‍ය විධායක අධ්‍යක්ෂවරයා පවසුවේය.
+
+◼️
+
+[Data](articles/07fe3ebe.json)
+
+---
+
+### பல மில்லியன்களை சுருட்டிய ஓய்வுபெற்ற பேராசிரியர் கைது
+
+*2025-08-03 13:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மில்லியன்களை-சுருட்டிய-ஓய்வுபெற்ற-பேராசிரியர்-கைது/175-362209) · `ta`
+
+ஸ்ரீ ஜெயவர்தனபுர பல்கலைக்கழகத்தின் ஓய்வுபெற்ற மூத்த பேராசிரியர், முதுகலை மேலாண்மை நிறுவனத்தின் டுபாய் கிளையின் நிர்வாக இயக்குநராக இருந்தவர், பல மில்லியன் ரூபாய் மோசடி தொடர்பாக கைது செய்யப்பட்டதாக குற்றப் புலனாய்வுத் துறை (CID) தெரிவித்துள்ளது.
+
+சந்தேக நபரினால் அந்த நிறுவனத்தில் ரூ. 58.2 மில்லியன் மோசடி செய்துள்ளதாக  குற்றப் புலனாய்வுத் துறை தெரிவித்துள்ளது.
+
+சந்தேக நபர் சட்டமா அதிபரின் ஆலோசனையின் பேரில் குற்றப் புலனாய்வுத் துறையின் வணிகக் குற்றப் புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டார், மேலும் வாக்குமூலம் பதிவு செய்யப்பட்ட பின்னர் கைது செய்யப்படுவார்.
+
+◼️
+
+[Data](articles/c879ad39.json)
+
+---
+
+### காட்டு யானை தாக்கியதில் சிறுமி பலி
+
+*2025-08-03 13:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானை-தாக்கியதில்-சிறுமி-பலி/175-362208) · `ta`
+
+ஹம்பாந்தோட்டை சீனிக்கு கால பகுதியில் ஞாயிற்றுக்கிழமை (03) காட்டு யானை தாக்கியதில் எட்டு வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+காட்டு யானை தாக்குதலுக்கு உள்ளான சிறுமியின் தந்தை பலத்த காயங்களுடன் ஹம்பாந்தோட்டை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+
+சிறுமியின் தந்தை தனது தோட்டத்தில் வேலை செய்து கொண்டிருந்தபோது, அருகில் வந்த யானை அவரைத் தாக்க முயன்றது. காட்டு யானையிடமிருந்து தப்பிக்க தந்தை வீட்டை நோக்கி ஓடினார், தந்தையைப் பின்தொடர்ந்து வந்த காட்டு யானை சிறுமியைத் தாக்கியதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/1649cb14.json)
+
+---
+
+### முன்னாள் எம்.பிக்களுக்கு அஸ்வெசும
+
+*2025-08-03 13:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பிக்களுக்கு-அஸ்வெசும/175-362207) · `ta`
+
+" முன்னாள் எம்.பிக்களின் ஓய்வூதியக் கொடுப்பனவு நிச்சயம் இரத்து செய்யப்படும். என தெரிவித்த  அமைச்சர் வசந்த சமரசிங்க  ஓய்வூதியத்தை இரத்து செய்த பின்னர் வாழ்வதற்கு சிரமமெனில் அஸ்வெசுமவுக்கு விண்ணப்பிக்கலாம். அதனை பெற்றுக்கொடுக்க நடவடிக்கை எடுக்கப்படும்” என்றும் தெரிவித்தார்
+
+◼️
+
+[Data](articles/744dc88b.json)
+
+---
+
+### 2024/2025 ආදායම් වාර්තා ලබා දීමට තිබූ PIN අංකයේ කාලය දීර්ඝ කෙරේ
+
+*2025-08-03 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212967) · `si`
+
+2024/2025 තක්සේරු වර්ෂය සඳහා ආදායම් වාර්තා ඉදිරිපත් කිරීම සඳහා දැනටමත් නිකුත් කර ඇති පුද්ගලික හඳුනාගැනීම් අංකය (PIN) වලංගු කාලය දීර්ඝ කිරීමට දේශීය ආදායම් බදු දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+ඒ අනුව එහි වලංගු කාලය එළැඹෙන නොවැම්බර් මස 30 වැනිදා දක්වා දීර්ඝ කිරීමට එම දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/acc0d97a.json)
+
+---
+
+### Validity period of PIN issued for submission of tax returns for 2024/2025 extended
+
+*2025-08-03 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111122/validity-period-of-pin-issued-for-submission-of-tax-returns-for-20242025-extended) · `en`
+
+The validity of the Personal Identification Number (PIN) issued by the Inland Revenue Department for the submission of income tax returns for the year of assessment 2024/2025 has been extended.
+
+The validity period has been extended until November 30, 2025, the Inland Revenue Department noted.
+
+The extension will be applicable to all categories including corporate taxpayers.
+
+The tax returns for the 2024/2025 assessment year must be filed online, according to new regulation.
+
+The IRD PIN is a unique identification number issued to individuals to access accounts via the Revenue Administration Management Information System (RAMIS) of the Inland Revenue Department.
+
+◼️
+
+[Data](articles/56c6bf18.json)
+
+---
+
+### 11-year-old schoolgirl dies after fainting; cause of death under investigation
+
+*2025-08-03 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111121/11-year-old-schoolgirl-dies-after-fainting-cause-of-death-under-investigation) · `en`
+
+An 11-year-old schoolgirl from Kekirawa has died after collapsing due to a sudden fainting, police stated.
+
+The incident occurred after-school when the girl boarded the school bus and suddenly collapsed.
+
+She was immediately taken to the Kekirawa Hospital after the incident, however passed away while receiving treatment.
+
+The body of the girl has been placed at the morgue of the Anuradhapura Teaching Hospital for the conduct of the post-mortem examination.
+
+Although the Judicial Medical Officer (JMO) attached to the Anuradhapura Hospital had conducted a post-mortem examination, the exact cause of death could not be determined.
+
+As a result, body specimens have been sent to a medical examiner for further analysis, and an open verdict has been issued.
+
+Subsequently, the body of the girl has been released to her guardians, according to police.
+
+◼️
+
+[Data](articles/2f6c2819.json)
+
+---
+
+### Close associate of Kehelbaddara Padme, ‘Gampaha Deva’ nabbed at BIA
+
+*2025-08-03 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111120/close-associate-of-kehelbaddara-padme-gampaha-deva-nabbed-at-bia-) · `en`
+
+A close associate of the notorious underworld criminal gang leader “Kehelbaddara Padme” has been arrested at Bandaranaike International Airport (BIA) in Katunayake this morning (03).
+
+The arrested suspect has been identified as Dissanayake’s Devanmini Dissanayake, alias ‘Gampaha Deva.’
+
+He was taken into custody by the Criminal Investigation Department (CID) at around 8.10 a.m. while attempting to depart for Thailand.
+
+Police stated that the suspect is a 39-year-old resident of Gampaha and is connected to multiple murders and other criminal activities reported across the region.
+
+Steps have been taken to hand over the suspect to the Western Province North Crime Division for further investigation.
+
+◼️
+
+[Data](articles/f8be00fe.json)
+
+---
 
 ### වසරේ මේ දක්වා වෙඩි තැබීමේ සිද්ධීන් 76ක්
 
@@ -1651,145 +1791,5 @@ With over 858 hectares of cultivated land, a resident population of more than 7,
 ...
 
 [Data](articles/5938fe2e.json)
-
----
-
-### HNB Assurance Emerges Insurance Sector Winner at the National Business Excellence Awards 2025
-
-*2025-08-02 16:56:00* · [`islandlk`](http://island.lk/hnb-assurance-emerges-insurance-sector-winner-at-the-national-business-excellence-awards-2025/) · `en`
-
-HNB Assurance PLC was recognized with two significant accolades at the National Business Excellence Awards 2025, hosted by the National Chamber of Commerce of Sri Lanka. HNB Assurance was crowned Winner in the Insurance Sector, while also being awarded Runner-Up in Excellence in Local Market Reach, a prestigious national-level award, affirming the company’s strong performance, both in terms of delivering business excellence within the insurance industry and deepening its presence across diverse local markets through impactful customer engagement and service delivery.
-
-...
-
-[Data](articles/8fd472b2.json)
-
----
-
-### Seylan Bank Posts 20% Surge in 1H 2025 Profit After Tax
-
-*2025-08-02 16:56:00* · [`islandlk`](http://island.lk/seylan-bank-posts-20-surge-in-1h-2025-profit-after-tax/) · `en`
-
-Seylan Bank PLC has reported a robust performance for the first half of 2025, recording a Profit Before Tax (PBT) of LKR 8.4 billion—an increase of 15.18% from LKR 7.3 billion in the same period last year. Profit After Tax (PAT) rose by 20.41% to LKR 5.49 billion, compared to LKR 4.56 billion in 1H 2024.
-
-Despite a 4.45% dip in net interest income—down to LKR 17.76 billion due to falling market rates and loan repricing—the bank’s fee-based income rose 15.43% to LKR 4.3 billion, driven by growth in cards, remittances, and trade services.
-
-Operating income dipped slightly by 0.71% to LKR 23.1 billion, but strong gains from trading activities and other income helped cushion the impact. Total operating expenses increased by 8.37% to LKR 11.26 billion, mainly due to higher personnel costs and inflation-driven service expenses.
-
-...
-
-[Data](articles/a87d38ab.json)
-
----
-
-### ICC unveils suspended beam slab system to Revolutionise Lankan construction
-
-*2025-08-02 16:55:00* · [`islandlk`](http://island.lk/icc-unveils-suspended-beam-slab-system-to-revolutionise-lankan-construction/) · `en`
-
-In an era where speed, sustainability, and efficiency define the future of construction, International Construction Consortium (Pvt) Limited (ICC), one of Sri Lanka’s most innovative and forward-thinking construction companies, is poised to reshape the nation’s building landscape. The company has unveiled its groundbreaking Suspended Beam Slab (SBS) system, powered by advanced precast slab technology, promising to deliver stronger structures, faster timelines, and greener processes.
-
-As urban landscapes expand and project deadlines tighten, traditional construction methods, reliant on labour-intensive, on-site concrete casting, are proving increasingly outdated. ICC’s SBS system eliminates the need for on-site slab casting by utilising precast concrete slabs manufactured in a controlled factory setting. These slabs are placed on strategically positioned beams, distributing the load to supporting columns or walls.
-
-...
-
-[Data](articles/d72b6b46.json)
-
----
-
-### තමන්ම හැදූ හෙලිකොප්ටරය කඩා වැටී පුද්ගලයෙකු මරුට
-
-*2025-08-02 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212945) · `si`
-
-රුසියාවේ 88 හැවිරිදි පුද්ගලයෙක් ඔහු විසින්ම තැනූ හෙලිකොප්ටරයකින් ගුවන් ගත වීමට උත්සාහ කිරීමේදී එය කඩා වැටීම හේතුවෙන් මිය ගොස් තිබේ.
-
-අදාළ පුද්ගලයා තමා විසින් සකසන ලද මෙම හෙලිකොප්ටර් යන්ත්‍රයක් පරීක්ෂා කිරීම සඳහා ගුවන්ගත වීමට උත්සහා කිරීමේ දී එය කඩා වැටී තිබේ.
-
-එහිදී ඔහු බරපතල තුවාල ලබා ඇති අතර රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-කෙසේ වෙතත් මෙම ගුවන් යානය ලියාපදිංචි කර නොමැති අතර සිද්ධිය පිළිබඳව පරීක්ෂණයක් දැනටමත් සිදුවෙමින් පවතින බවද සඳහන් වේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ ව්ලැඩිමීර් ට්‍රැපෙස්නිකොව් නම් පුද්ගලයෙක් වන අතර ඔහු ළමා වියේදී ගුවන් නියමුවෙකු වීමට සිහින මැවූ නව නිපැයුම්කරුවෙකි.
-
-1985දී ඔහුට, ඔහු විසින්ම සෑදූ ගුවන් යානයකින් සාර්ථක ගුවන් ගමනක් සිදු කිරීමට හැකියාව ලැබී ඇති අතර ඒ පිළිබඳව කෙටි චිත්‍රපටයක් ද නිර්මාණය වී ඇත.
-
-ඔහු පියාසර යන්ත්‍ර පහක් නිර්මාණය කර ඇති අතර අවාසනාවකට මෙන්, ඔහුගේ නව නිපැයුම දියත් කිරීමට උත්සාහ කිරීමේදී මෙසේ මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
-
-◼️
-
-[Data](articles/738fc949.json)
-
----
-
-### Beginning my stint at Employees’ Trust Fund (ETF)
-
-*2025-08-02 16:38:00* · [`islandlk`](http://island.lk/beginning-my-stint-at-employees-trust-fund-etf/) · `en`
-
-Lessons from my career: synthesising management theory with practice – Part 17
-
-My journey at the Employees’ Trust Fund (ETF) marked a significant chapter in my career. It began with a unique opportunity, as I was interviewed by the President and offered the position of Chairman, ETF Board following my successful tenure at the Ceylon Ceramic Corporation.
-
-Arriving at the ETF was very low-key, unlike the current practice of a ceremony with friends and family, garlands and speeches. I was told to come to the board room where Mr Justin Dias, Secretary of the Labour Ministry, was meeting the senior staff. I went there and, after introductions, assumed office. From the moment I entered the premises, I observed the activities and behaviour of the staff. I had to navigate through the clerical staff tables to reach my office.
-
-...
-
-[Data](articles/e943d476.json)
-
----
-
-### உலக பணக்காரர்கள் பட்டியலில் தொடர்ந்தும் முதலிடத்தில் எலான் மஸ்க்
-
-*2025-08-02 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221629) · `ta`
-
-உலகின் முதல் 10 பணக்காரர்கள் பட்டியலை போர்ப்ஸ் பத்திரிகை வெளியிட்டுள்ளது, அதன்படி, எலான் மஸ்க் 401 பில்லியன் அமெரிக்க டொலர்களுடன் தொடர்ந்தும் முதலிடத்தில் உள்ளார்.
-
-அமெரிக்க பங்குச்சந்தை குறியீடுகளை மிகப்பெரிய தொழில்நுட்ப நிறுவனங்கள் புதிய உச்சங்களுக்கு கொண்டு சென்றுள்ளன. இதன் அடிப்படையில் உலகின் முதல் 10 பணக்காரர்கள் பட்டியலை போர்ப்ஸ் பத்திரிகை வெளியிட்டுள்ளது.
-
-இதில் எலான் மஸ்க் 401 பில்லியன் அமெரிக்க டொலர்களுடன் முதலிடத்தில் உள்ளார். 2 ஆவது இடத்தில் லாரி எலிசனும், 3 ஆவது இடத்தில் மார்க் ஜுக்கர்பெர்க்கும் உள்ளனர். ஜெப் பெசோஸ், லாரி பேஜ், ஜென்சன் ஹுவாங், செர்ஜி பிரின், ஸ்டீவ் பால்மர், வாரன் பபெட், பெர்னார்ட் அர்னால்ட் ஆகியோர் முறையே 4 முதல் 10 இடங்களில் உள்ளனர்.
-
-வெளியிடப்பட்ட உலகின் முதல் 10 பெரும் பணக்காரர்கள் பட்டியலில் 9 பேர் அமெரிக்கர்கள் ஆவர். பெர்னார்ட் அர்னால்ட் பிரான்சை சேர்ந்தவர்.
-
-◼️
-
-[Data](articles/b4f4e210.json)
-
----
-
-### ரஷ்யாவை நோக்கி இரு அணுசக்தி நீர்மூழ்கி கப்பல்களை நிறுத்துமாறு அமெரிக்க ஜனாதிபதி டிரம்ப் உத்தரவு
-
-*2025-08-02 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221627) · `ta`
-
-ரஷ்யாவிற்கு அருகே இரு அணுஆயுத நீர் மூழ்கி கப்பல்களை நிலைநிறுத்துமாறு அதிகாரிகளுக்கு அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் உத்தரவு பிறப்பித்துள்ளார்.
-
-அணு ஆயுதம் குறித்து அச்சுறுத்தும் வகையில் பேசிய ரஷ்யாவின் முன்னாள் ஜனாதிபதி டிமித்ரி மெட்வெடேவின் கருத்துக்கு பதிலடி கொடுக்கும் வகையில் இந்த நடவடிக்கையை அமெரிக்க ஜனாதிபத டொனால்ட் டிரம்ப் எடுத்துள்ளார்.
-
-உக்ரைன் - ரஷ்யாவுக்கிடையிலான போர் 3 ஆண்டுகளாக நீடித்து வருகின்ற நிலையில், டிரம்ப் உக்ரைனில் போரை நிறுத்த ரஷ்ய ஜனாதிபதி புட்டினுக்கு வழங்கிய 50 நாள் காலக்கெடுவை 10 முதல் 12 நாட்களாக குறைத்தார்.
-
-ஆகஸ்ட் 7-9க்குள் அமைதிப் பேச்சுவார்த்தையில் முன்னேற்றம் காணப்பட வேண்டும் என டிரம்ப் நிபந்தனை விதித்துள்ளார். இல்லையெனில் ரஷ்யா மீது வர்த்தக கட்டுப்பாடுகளும் 100 சதவீத வரியும் விதிக்கப்படும் என டிரம்ப் தெரிவித்தார்.
-
-இதனிடையே, டிரம்பின் கருத்துக்கு ரஷ்ய முன்னாள் ஜனாதிபதியும் ரஷ்ய பாதுகாப்பு கவுன்சில் துணைத்தலைவருமான டிமித்ரி மெட்வதேவ் தனது எக்ஸ் தளத்தில்,
-
-...
-
-[Data](articles/16100566.json)
-
----
-
-### Person shot and killed in Hungama
-
-*2025-08-02 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111097/person-shot-and-killed-in-hungama-) · `en`
-
-A shooting incident has been reported this afternoon (02) in the Pittaniyaya area of Pingama in the Hungama police division in Ambalanthota.
-
-Police said that the shooting occurred over a personal dispute pertaining to a paddy field, police said.
-
-The shooting was reportedly carried out using a licensed 12-bore firearm, and the victim, a 32-year-old resident of Pittaniyaya, was killed on the spot.
-
-The suspect who carried out the shooting, a 41-year-old from Pingama, has subsequently surrendered to the Hungama Police Station along with the firearm.
-
-Hungama Police are conducting further investigations on the instructions of the SSP in charge of the Tangalle Division.
-
-◼️
-
-[Data](articles/baa6a627.json)
 
 ---

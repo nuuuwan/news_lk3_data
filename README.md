@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 16:06:29**
+As of **2025-08-03 16:21:39**
 
 ## Newspaper Stats
 
-*Scraped **68,404** Articles*
+*Scraped **68,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,577
-adaderanalk | 8,474
+adaderanalk | 8,475
 tamilmirrorlk | 9,927
-virakesarilk | 11,392
-adaderanasinhalalk | 11,784
+virakesarilk | 11,396
+adaderanasinhalalk | 11,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,404 articles have been extended.
+61,973 (90.6%) of 68,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### වනඅලි ප්‍රහාරයකින් කුඩා දියණියක් මරුට
+
+*2025-08-03 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212976) · `si`
+
+හම්බන්තොට සිනුක්කුගල ප්‍රදේශයේ දී වනඅලියෙකුගේ ප්‍රහාරයට ලක්ව කුඩා දියණියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ පාසලේ 2 ශ්‍රේණියේ ඉගෙනුම ලබන වයස අවුරුදු 07ක දියණියෙකි.
+
+එමෙන්ම ඇයගේ පියාද වනඅලියාගේ පහර කෑම හේතුවෙන් බරපතළ තුවාල ලබා හම්බන්තොට මහරෝහලට ඇතුළත් කර ඇත.
+
+තම පියා සමඟ අද (03) උදැසන 6.00ට පමණ හේනට ගොස් සිටින අතරතුර මෙම වනඅලි ප්‍රහාරයට ලක්ව තිබේ.
+
+පාසල් නිවාඩු දිනයක් බැවින් මෙම දියණිය, සිය පියා සමඟ වගා කටයුතුවල නියැලෙමින් සිටින අතරතුර හේනට පැමිණි වන අලියෙකු විසින් දෙදෙනාටම පහර දී ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/4bbb17e5.json)
+
+---
+
+### சர்வதேச தலைமைத்துவமும் நாற்கர நாடுகளும்
+
+*2025-08-03 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221706) · `ta`
+
+‘குவாட்’ அமைப்பின் ஊடாக வொஷிங்டன் தனது தலைமைத்துவத்தை  தக்க வைத்துக் கொள்ளலாம் என்ற எண்ணம், இந்தியாவின் சுதந்திரமான வெளியுறவுக் கொள்கையால் அதிகளவில் பின் தங்கி நிற்கிறது
+
+◼️
+
+[Data](articles/80ec7a0a.json)
+
+---
+
+### அரபு சர்வாதிகாரிகளின் துரோகத்தை அம்பலப்படுத்தி வரும் பலஸ்தீனர்கள் மீதான இனப்படுகொலை
+
+*2025-08-03 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221703) · `ta`
+
+காஸாவில் அமெ­ரிக்­க-­ இஸ்­ரே­லிய இனப்­ப­டு­கொ­லையின் வர­லாறு எழு­தப்­படும் ஒரு நாள் வரும் போது அன்று அரபு சர்­வா­தி­கா­ரி­களின் பங்கு மிக மோச­மான துரோ­க­மாக எழு­தப்­படும்.  இன்­றைய  காலத்தின் தேவை ஜெரு­ச­லேமைக் கைப்­பற்ற ஒட்­ட­கத்தில் தனது பணி­யா­ள­னுடன் சென்ற உமர் போன்ற ஒரு கலீ­பாவின் தலை­மைத்­து­வமே அன்றி,  தமது சுய இருப்­புக்­காக முஸ்­லிம்­க­ளுக்கு எதி­ரான தீய நிகழ்ச்சி நிரல்­க­ளுடன் உள்ள அமெ­ரிக்­கா­வையும் இஸ்­ரே­லையும் நம்­பி­யி­ருக்கும் மற்றும் அவர்­க­ளோடு கை கோர்க்கும் ஆட்­சி­யா­ளர்கள் அல்ல.
+
+◼️
+
+[Data](articles/5aaa8dc6.json)
+
+---
 
 ### පාකිස්තාන - අයර්ලන්ත ක්‍රිකට් තරගාවලිය වසර 2කට කල්යයි
 
@@ -63,6 +107,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/45bd5aa0.json)
+
+---
+
+### நுவரெலியா சீதை அம்மன் ஆலயத்தில் தியான மண்டபம்  திறந்து வைக்கப்பட்டது
+
+*2025-08-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221700) · `ta`
+
+நுவரெலியா, சீத்தா எலிய பகுதியிலுள்ள சீதை அம்மன் ஆலயத்தில் அசோக வனம் அனுஸ்ரீ  தியான மண்டபம் இன்று ஞாயிற்றுக்கிழமை (03) வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் மற்றும் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோரால் திறந்து வைக்கப்பட்டது.
+
+இந்நிகழ்வில், சிறப்பு விருந்தினர் இந்தியாவின் ஆன்மீகத் தலைவர் குபா தீதி, சுற்றுலாத்துறை பிரதி அமைச்சர் ருவன் ரணசிங்க, கல்வி மற்றும் உயர்கல்வி பிரதி அமைச்சர் மதுர செனவிரத்ன, பாராளுமன்ற உறுப்பினர் வி.எஸ். இராதாகிருஷ்ணன், இலங்கை தொழிலாளர் காங்கிரசின் தலைவர் செந்தில் தொண்டமான், சமூக தலைவர்கள் மற்றும் இந்தியா மற்றும் உள்ளூரைச் சேர்ந்த நூற்றுக்கணக்கான பக்தர்கள் கலந்து கொண்டனர்.
+
+தியானம் மற்றும் ஆன்மீக நல்வாழ்வுக்காக அர்ப்பணிக்கப்பட்ட இடமான அசோக வனம் அனுஸ்ரீ  தியான மண்டபத்திற்கு இந்தியாவின் புது டில்லியைச் சேர்ந்த பக்தர்களால் வழங்கப்படும் தனியார் நன்கொடைகள் மூலம் நிதியளிக்கப்படுகிறது.
+
+...
+
+[Data](articles/05b5b350.json)
+
+---
+
+### Legal action against top public officials who fail to submit asset declarations: CIABOC
+
+*2025-08-03 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111126/legal-action-against-top-public-officials-who-fail-to-submit-asset-declarations-ciaboc) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has announced that legal action will be taken against any Executive Grade state officials who fail to submit their assets and liabilities declarations by 31 August 2025.
+
+Issuing a statement in this regard, the Commission noted that officials who were required to submit their declarations by 31 March should have submitted their asset and liability declarations to the respective heads of their institutions by 30 June, in order for them to be forwarded to CIABOC.
+
+However, the Commission added that legal action will be taken under Section 90 of the Anti-Corruption Act, No. 9 of 2023, against officials who fail to submit their asset and liability declarations to their heads of institutions by August 31.
+
+Furthermore, the Commission announced that a fine will be imposed in accordance with the provisions of the Act for late declarations submitted between 30 June 2025 and 31 August 2025.
+
+...
+
+[Data](articles/8aa20762.json)
+
+---
+
+### மூதூர் பெரியபாலத்தில் மோட்டார் குண்டு கைப்பற்றல்
+
+*2025-08-03 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221698) · `ta`
+
+திருகோணமலை - மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட பெரியபாலம் பகுதியில் இன்று ஞாயிற்றுக்கிழமை (03) மோட்டார் குண்டொன்று மீட்கப்பட்டுள்ளது.
+
+மட்டக்களப்பு பிரதான வீதி, பெரியபாலம் மூதூர் பகுதியில் வசித்து வரும் என்.எம்.எம். நிமாஸ் அஹமட் என்பவரின் காணியில் மழை காரணமாக , குறித்த மோட்டார் குண்டு வெளிப்பட்டதாகத் தெரியவந்துள்ளது.
+
+இதனை அடுத்து, சம்பவம் குறித்து மூதூர் பொலிஸாருக்கு தகவல் வழங்கப்பட்டதாகவும், அவர்கள் சம்பவ இடத்திற்கு வருகை தந்து மேலதிக விசாரணைகளை ஆரம்பித்துள்ளதாகவும் பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/af70c1b1.json)
 
 ---
 
@@ -1651,111 +1745,5 @@ The Airport Unit of the Police Narcotics Bureau is conducting further investigat
 ◼️
 
 [Data](articles/b55b1b42.json)
-
----
-
-### India on path to becoming third-largest economy, says Modi
-
-*2025-08-03 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111108/india-on-path-to-becoming-third-largest-economy-says-modi) · `en`
-
-Asserting that India is on the path to becoming the world’s third-largest economy, Prime Minister Narendra Modi has said that the country must remain alert to its own economic priorities amid the instability and uncertainty facing the world economy.
-
-Modi’s remarks came just days after US President Donald Trump called India a “dead economy” after announcing a 25% tariff on the import of Indian goods along with an unspecified “penalty” for buying Russian military equipment and crude oil.
-
-Addressing a public meeting in his parliamentary constituency Varanasi on Saturday, Modi said, “As we talk about economic progress, I want to draw your attention to the current global scenario. The world economy is facing instability and uncertainty. In such times, countries are focusing solely on their own interests. India, too, is on the path to becoming the world’s third-largest economy and must remain alert to its own economic priorities.”
-
-...
-
-[Data](articles/968e2a0f.json)
-
----
-
-### තැන් කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
-
-*2025-08-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212953) · `si`
-
-දිවයිනේ බොහෝ ප්‍රදේශවල අද (03) අහස වළාකුලින් බරව පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට සහ කුරුණෑගල දිස්ත්‍රික්කවලත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකියි.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/772d3d84.json)
-
----
-
-### Temporary driving licenses for tourists at BIA but no Tuk licenses, says DMT
-
-*2025-08-03 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111107/temporary-driving-licenses-for-tourists-at-bia-but-no-tuk-licenses-says-dmt) · `en`
-
-A new service counter for the issuance of necessary driving licenses to foreign nationals visiting Sri Lanka for travel will be launched today (03) at the Bandaranaike International Airport (BIA) premises in Katunayake, Commissioner General of Motor Traffic Kamal Amarasinghe, stated.
-
-The Commissioner General of Motor Traffic noted that up until now, the service was provided only at the Department of Motor Traffic office located in Werahera, but from today, for the convenience of tourists, the same services will be initiated at the airport premises.
-
-The Commissioner added that many foreign visitors to Sri Lanka often rent vehicles near the Katunayake airport or nearby locations and drive themselves during their travels. It has been observed that these tourists use motorcycles, three-wheelers, and light vehicles.
-
-...
-
-[Data](articles/0a49c4e3.json)
-
----
-
-### Temporary driving licenses for tourists at BIA but no Tuk licenses, says DMT
-
-*2025-08-03 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111107/temporary-driving-licenses-for-tourists-to-be-issued-at-bia-from-today) · `en`
-
-A new service counter for the issuance of necessary driving licenses to foreign nationals visiting Sri Lanka for travel will be launched today (03) at the Bandaranaike International Airport (BIA) premises in Katunayake, Commissioner General of Motor Traffic Kamal Amarasinghe, stated.
-
-The Commissioner General of Motor Traffic noted that up until now, the service was provided only at the Department of Motor Traffic office located in Werahera, but from today, for the convenience of tourists, the same services will be initiated at the airport premises.
-
-The Commissioner added that many foreign visitors to Sri Lanka often rent vehicles near the Katunayake airport or nearby locations and drive themselves during their travels. It has been observed that these tourists use motorcycles, three-wheelers, and light vehicles.
-
-...
-
-[Data](articles/a9fce9f9.json)
-
----
-
-### Final Kumbal Perahera of Kandy Esala Festival to take to the streets tonight
-
-*2025-08-03 05:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111106/final-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
-
-The fifth and final Kumbal Perahera of this year’s Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (03).
-
-Meanwhile, the fourth Kumbal Perahera paraded the streets of Kandy last night.
-
-The sacred relic casket was carried by the majestic tusker Indiraja while being accompanied by Kottaraja and Pulathisiraja tuskers.
-
-The final Randoli Perahera is scheduled to parade the streets on August 8, and the Kandy Esala Perahera Festival will conclude with the Day Perahera scheduled for August 9.
-
-◼️
-
-[Data](articles/30f82dfd.json)
-
----
-
-### Cloudy skies, heavy showers expected in several areas today
-
-*2025-08-03 05:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111105/cloudy-skies-heavy-showers-expected-in-several-areas-today-) · `en`
-
-Cloudy skies can be expected over most parts of the island today (3), the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers will occur at several places in the Northern, North-Central, Eastern Central, and Uva provinces and in the Hambantota and Kurunegala districts after 1.00 p.m, the Met. Department added.
-
-Fairly heavy falls above 75 mm are likely at some places in these areas.
-
-Furthermore, several spells of showers will occur in the Western and Sabaragamuwa provinces and in the Galle, Matara and Puttalam districts.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/da3c1a1e.json)
 
 ---

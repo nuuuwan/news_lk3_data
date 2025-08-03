@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 06:14:50**
+As of **2025-08-03 06:54:09**
 
 ## Newspaper Stats
 
-*Scraped **68,302** Articles*
+*Scraped **68,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,562
 adaderanalk | 8,452
 tamilmirrorlk | 9,902
 virakesarilk | 11,377
-adaderanasinhalalk | 11,762
+adaderanasinhalalk | 11,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,302 articles have been extended.
+61,973 (90.7%) of 68,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### තැන් කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+
+*2025-08-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212953) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල අද (03) අහස වළාකුලින් බරව පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට සහ කුරුණෑගල දිස්ත්‍රික්කවලත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකියි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/772d3d84.json)
+
+---
 
 ### இலங்கை வந்தார் ஹிருத்திக் ரோஷன்
 
@@ -1811,21 +1831,5 @@ It pointed out that the order states that some trading partners “have agreed t
 ◼️
 
 [Data](articles/f312df5f.json)
-
----
-
-### Intex Sri Lanka 2025 showcases  South Asian textile and apparel industry
-
-*2025-08-02 00:44:25* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2025-showcases-South-Asian-textile-and-apparel-industry/34-779805) · `en`
-
-It will also attract participants from ASEAN, MENA, and Europe
-
-AI, digital tech and other innovations for a greener industry to be showcased at the expo
-
-South Asia’s annual textiles sourcing show, Intex Sri Lanka 2025, will be held from 6-8 August in Colombo. This is the 17th edition of the yearly event that bridges Sri Lanka’s world-renowned manufacturing strength with global textile producers and technology leaders. Since its debut in 2015, the show has become a strategic sourcing calendar event for buyers and industry leaders from across South Asia, ASEAN, MENA, and Europe. From fibres to fashion, processing to packaging, Intex delivers the full textile value chain, and this year, it’s taking it all a notch higher, the organisers of the event said in a statement.
-
-...
-
-[Data](articles/f74dd7e0.json)
 
 ---

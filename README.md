@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 03:31:19**
+As of **2025-08-04 03:48:28**
 
 ## Newspaper Stats
 
-*Scraped **68,460** Articles*
+*Scraped **68,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 702
 islandlk | 4,180
 economynextcom | 4,182
 dailymirrorlk | 4,733
-dailyftlk | 4,821
+dailyftlk | 4,823
 adalk | 6,588
 adaderanalk | 8,481
 tamilmirrorlk | 9,934
@@ -26,11 +26,37 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,460 articles have been extended.
+61,973 (90.5%) of 68,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### Environment and how its issues should be tackled through public policy
+
+*2025-08-04 03:29:43* · [`dailyftlk`](https://www.ft.lk/columns/Environment-and-how-its-issues-should-be-tackled-through-public-policy/4-779827) · `en`
+
+Man’s own unplanned way of disposing of waste matter in selected areas will over-stretch the natural assimilative capacity leading to an excessive accumulation
+
+A pertinent question at this stage is why man, having learned of the adverse impact it would make to his own survival, does not volunteer to economise on the use of environment or discharge waste-matter in a planned manner. This happens because of the externality involved in the discharge of the waste matter into the environment. Though the dumping of waste-matter over and above the assimilative capacity leads to pollution, its cost is being born by others and not by the perpetrator alone. Hence, the polluter exerts an external cost on the rest of society. If this externality is present, he has no incentive to curtail his activities voluntarily
+
+...
+
+[Data](articles/5dc88a26.json)
+
+---
+
+### Financing Sri Lanka’s electricity sector growth and transition
+
+*2025-08-04 03:17:30* · [`dailyftlk`](https://www.ft.lk/columns/Financing-Sri-Lanka-s-electricity-sector-growth-and-transition/4-779825) · `en`
+
+From the simple standpoint of prudent State financial solvency and security, it is important that these investments are funded either directly (or indirectly through the local banking system), with new and additional foreign exchange inflows. Even through the local banking system, given capital allocation requirements of banks, single borrower limitations, prudent sectoral limitations, high effective tax rates, etc., direct project financing from overseas would end up being the cheapest source of funding. The caveat being that the sector needs to be suitably structured with strong independent regulatory oversight, to reduce the risks and attract private capital on attractive terms
+
+...
+
+[Data](articles/7e9d608a.json)
+
+---
 
 ### யாழ். பருத்தித்துறையில் கடற்படை புலனாய்வு பிரிவு பின் தொடர்வதாக சிஜடி யினர் நீதிமன்றில் தெரிவிப்பு
 
@@ -1727,33 +1753,5 @@ Steps have been taken to hand over the suspect to the Western Province North Cri
 ◼️
 
 [Data](articles/664fbb32.json)
-
----
-
-### බීමත්ව රිය ධාවනය කළ ලංගම රියදුරු අල්ලයි, රියදුරු අසුන පසුපස කසිප්පු කෑන් එකක්
-
-*2025-08-03 12:15:16* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රිය-ධාවනය-කළ-ලංගම-රියදුරු-අල්ලයි--රියදුරු-අසුන-පසුපස-කසිප්පු-කෑන්-එකක්/11-417681) · `si`
-
-වැලිමඩ සිට නුවරඑලිය හරහා ධාවනය කල ලංගම බස් රථයේ රියදුරු නුවරඑලිය පොලිසියේ රථවාහන අංශයේ නිලධාරින් විසින් (03) දින අත්අඩංගුවට ගෙන ඇත.
-
-දිවුලපිටිය ඩිපෝවට අයත් එම ලංගම බස් රථය ධාවනය කරවන අවස්ථාවේ නුවරඑලිය බදුල්ල ප්‍රධාන මාර්ගයේ සීතා ඇලිය ප්‍රදේශයේ රාජකාරියේ නිරතව සිටි නුවරඑලිය පොලිසියේ රථා වාහන අංශයේ නිළධාරින් බස් රථය නතර කර පරික්ෂා කිරිමේදි රියදුරා අධික ලෙස බීමත්ව සිටින බවට තහවුරු වූ නිසා බස් රථයේ රියදුරා සැකපිට අත්අඩංගුවට ගෙන ඇත.
-
-බස් රථයේ රියදුරා අත්අඩංගුවට ගන්නා අවස්ථාවේ විශාල මගීන් සංඛ්‍යාවක් ගමන් කර ඇති අතර, පසුව නුවරඑලිය පොලිසියේ නිළධාරියෙකු විසින් මගීන් සමග බස් රථය නුවරඑලිය පොලිසිය වෙත රැගෙනවිත් පරික්ෂා කිරිමේදි බස් රථ රියදුරාගේ අසුන පිටුපස නීතිවිරෝධි මත් පැන් (කසිප්පු) සහිත කෑන් එකක් තිබි පොලිස් නිළධාරින් විසින් සොයා ගෙන ඇත.
-
-බස් රථය ධාවනය කරවන අවස්ථාවේ වතුර බොන මුවාවෙන් රියදුරා මත් පැන් පානය කරමින් බස් රථය ධාවනය කරවන බවට පොලිසිය සැකකරයි.
-
-...
-
-[Data](articles/ce3b0d8b.json)
-
----
-
-### அந்தோனியார் ஆலயத்திற்கு அருகாமையில் ஆணின் சடலம் மீட்பு
-
-*2025-08-03 11:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/அந்தோனியார்-ஆலயத்திற்கு-அருகாமையில்-ஆணின்-சடலம்-மீட்பு/73-362202) · `ta`
-
-◼️
-
-[Data](articles/144d50d4.json)
 
 ---

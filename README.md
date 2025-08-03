@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 09:21:09**
+As of **2025-08-03 09:52:16**
 
 ## Newspaper Stats
 
-*Scraped **68,318** Articles*
+*Scraped **68,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,564
-adaderanalk | 8,458
-tamilmirrorlk | 9,905
+adaderanalk | 8,460
+tamilmirrorlk | 9,906
 virakesarilk | 11,377
-adaderanasinhalalk | 11,767
+adaderanasinhalalk | 11,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,318 articles have been extended.
+61,973 (90.7%) of 68,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### ’’வடக்கில் 70 பாடசாலைகளுக்கு மேல் மூடவேண்டியுள்ளது’’
+
+*2025-08-03 09:19:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-70-பாடசாலைகளுக்கு-மேல்-மூடவேண்டியுள்ளது/175-362191) · `ta`
+
+வட மாகாணத்தில் 982 பாடசாலைகள் காணப்படும் நிலையில் அவற்றில் 70க்கும் மேற்பட்ட பாடசாலைகள் மூட வேண்டிய நிலைக்குத் தள்ளப்பட்டுள்ளது என அமைச்சர் இராமலிங்கம் சந்திரசேகரன் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0de46682.json)
+
+---
+
+### රිය අනතුරු දෙකක් - තරුණියකට සහ තරුණයෙකුට දිවි අහිමිවෙයි
+
+*2025-08-03 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212958) · `si`
+
+ප්‍රදේශ දෙකක සිදුවූ රිය අනතුරු දෙකකින් තරුණියක් සහ තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (02) මෙම අනතුරු සිදුව තිබුණේ පොළොන්නරුව සහ කළුතර දකුණ පොලිස් වසම්වලදීය.
+
+පොළොන්නරුව - හබරණ  මාර්ගයේ 63 වන සහ 64 කිලොමිටර් කනුව අතර ප්‍රදේශයේදී යතුරුපැදියක්  ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ටිපර් රථයක ගැටී පසුපැදිකාරිය ටිපර් රථයට යටවී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පසුපැදිකාරිය පොළොන්නරුව රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ, ජයන්තිපුර ප්‍රදේශයේ පදිංචිව සිටි 25 හැවිරිදි තරුණියෙකි.
+
+මේ අතර කාලයේ කළුතර දකුණ පොලිස් වසමේ පලාතොට - නාගොඩ මාර්ගයේ ඇටවිල ප්‍රදේශයේදී යතුරුපැදි දෙකක් එම දිශාවටම ඉදිරියෙන් ධාවනය වූ මෝටර් රථයක් යතුරුපැදි දෙකම එකවර ඉස්සර කිරීමට යාමේදී යතුරුපැදි දෙක එකිනෙක ගැටී මාර්ගයේ පෙරළී ගොස් අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරුවන් හා පසුපැදිකරුවන් නාගොඩ රෝහලට ඇතුළත් කිරීමෙන් පසු පසුපැදිකරුවෙකු මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ, වැලිපැන්න ප්‍රදේශයේ පදිංචිව සිටි 20 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/8cb384b6.json)
+
+---
 
 ### මාතර කපුගම ප්‍රදේශයේ වෙඩි තැබීමක්
 
@@ -48,6 +86,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Authorities urged to take action against foreigners engaged in business activities in Arugam Bay
+
+*2025-08-03 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111112/authorities-urged-to-take-action-against-foreigners-engaged-in-business-activities-in-arugam-bay-) · `en`
+
+Israeli nationals arriving on tourist visas are having a significant impact on the tourism industry in the Arugam Bay area, according to local business owners.
+
+Meanwhile, the Chairman of the Sri Lanka Tourism Development Authority, Buddhika Hewawasam stated that legal action has already been taken against a number of foreign nationals who came to the country on tourist visas and engaged in business activities.
+
+Arugam Bay is one of the leading destinations in Sri Lanka’s tourism industry.
+
+The primary reason for this is that the Arugam Bay coastline is highly suitable for surfing, according to the SLTDA.
+
+Meanwhile, local business owners in the area claim that the majority of tourists arriving in the area at present are Israeli nationals.
+
+This is mainly because many of the tourism services are being provided by Israeli nationals.
+
+A recent investigation by Ada Derana revealed that Israeli nationals arriving on tourist visas are engaging in business activities.
+
+...
+
+[Data](articles/86992cf6.json)
+
+---
+
 ### ’செம்மணி தடயப்பொருட்களை அடையாளம் காட்டுங்கள்’
 
 *2025-08-03 07:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-தடயப்பொருட்களை-அடையாளம்-காட்டுங்கள்/175-362190) · `ta`
@@ -61,6 +123,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f4eec436.json)
+
+---
+
+### Numerous issues have arisen due to delays in doctors’ transfers: GMOA
+
+*2025-08-03 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111111/numerous-issues-have-arisen-due-to-delays-in-doctors-transfers-gmoa) · `en`
+
+Due to the actions of the Medical Services Unit of the Ministry of Health, serious issues have arisen concerning the transfers of over 23,000 doctors in Sri Lanka, the Government Medical Officers’ Association (GMOA) has stated.
+
+Dr. Chamil Wijesinghe, the spokesperson for the GMOA, stated that numerous serious problems have emerged regarding the annual transfers of medical officers in various grades, creating unnecessary complications within the health system.
+
+He added that although the procedures for these transfers are clearly outlined in the institutional guidelines, the Medical Services Unit of the Health Ministry has acted unilaterally, which has led to these issues.
+
+As a result, there are now problems concerning the transfers of around 23,000 doctors in the country, and more than 10,000 doctors have not yet had their transfers implemented, Dr. Wijesinghe further stated.
+
+...
+
+[Data](articles/ce4a7db4.json)
 
 ---
 
@@ -258,7 +338,13 @@ A new service counter for the issuance of necessary driving licenses to foreign 
 
 *2025-08-03 05:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111106/final-kumbal-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
 
-The fifth and final Kumbal Perahera of the Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (03).
+The fifth and final Kumbal Perahera of this year’s Kandy Esala Festival is scheduled to parade the streets of Kandy tonight (03).
+
+Meanwhile, the fourth Kumbal Perahera paraded the streets of Kandy last night.
+
+The sacred relic casket was carried by the majestic tusker Indiraja while being accompanied by Kottaraja and Pulathisiraja tuskers.
+
+The final Randoli Perahera is scheduled to parade the streets on August 8, and the Kandy Esala Perahera Festival will conclude with the Day Perahera scheduled for August 9.
 
 ◼️
 
@@ -1747,85 +1833,5 @@ The suspects responsible for the attack have been identified, and the Mount Lavi
 ◼️
 
 [Data](articles/d49fb78e.json)
-
----
-
-### ඉන්දුනීසියාවේ ගිනි කන්දක් පුපුරා යයි
-
-*2025-08-02 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212926) · `si`
-
-ලොව වඩාත් ක්‍රියාකාරීම ගිනි කන්දක් ලෙස සැලකෙන ඉන්දුනීසියාවේ ලෙවෝටෝබි ගිනි කන්ද පුපුරා ගොස් තිබේ.
-
-නිවුන් කඳු මුදුන් දෙකකින් සමන්වත මෙම කන්දේ ලාකී-ලාකී කොටස මෙලෙස සක්‍රිය වී ඇත.
-
-ඉන්දුනීසියානු මාධ්‍ය වාර්තා කර සිටියේ, එරට වේලාවෙන් ඊයේ (1) රාත්‍රී 8:48ට පමණ ගිනිකන්ද පුපුරා ගිය බවය.
-
-ඉන්දුනීසියානු ගිනිකඳු ඒජන්සියට අනුව සක්‍රිය වූ ගිනි කන්දේ අළු දුමාරය කිලෝමීටර 10ක උසක් පුරා අහසේ විසිරී ඇත.
-
-මේ අතර මෙම කාලයේ අධික වර්ෂාවක් ඇති වුවහොත් ගිනි කන්දෙන් පිටවූ ලවා නායයෑමකට ලක්විය ඇතිවිය බැවින්, ගිනි කන්දේ ආවාටයෙන් කිලෝමීටර් 6-7ක ප්‍රදේශයක සිටින ජනතාවට අවධානයේ සිටින ලෙසට උපදෙස් ලැබී තිබේ.
-
-මෙම ගිනි කන්දේ පිපිරීම මෑත කාලයේ අවස්ථා කිහිපයකදීම වාර්තා වූ අතර, ඉකුත් ජූලි මාසයේ සිදුවූ පිපිරීම් හේතුවෙන් බාලි දූපත වෙත ගමන්ගත් ජාත්‍යන්තර ගුවන් ගමන් රැසක්ම ප්‍රමාද කිරීමට හෝ අවලංගු කිරීමට සිදුවිය.
-
-විශාල දූපත් සමූහයකින් සමන්විත ඉන්දුනීසියාව, පැසිෆික් 'ගිනි වළල්ල' මත පිහිටා තිබීම හේතුවෙන් ඔවුන්ට නිතර භූකම්පන සහ ගිනිකඳු පිපිරීම්වලට මුහුණදීමට සිදුව තිබේ.
-
-◼️
-
-[Data](articles/4559c255.json)
-
----
-
-### Plans underway to levy hefty annual fines on illegal coastal constructions
-
-*2025-08-02 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111084/plans-underway-to-levy-hefty-annual-fines-on-illegal-coastal-constructions) · `en`
-
-The Department of Coast Conservation and Coastal Resource Management has announced plans to introduce new legislation that would impose annual fines on unauthorized structures built in coastal areas across Sri Lanka.
-
-According to the Department’s Director General, Professor Terney Pradeep Kumara, more than 2,500 such unauthorized constructions have been identified island wide.
-
-“Over the past 10 to 15 years, a significant number of unauthorized structures have been erected within designated coastal zones,” he stated.
-
-“We are in the process of demolishing some of these buildings, while others will be subject to hefty annual fines. Legal measures are being taken to address and regularize these irregularities,” he added.
-
-◼️
-
-[Data](articles/e0f8b98b.json)
-
----
-
-### බිත්තර සෝදා ගබඩාකිරීම සෞඛ්‍යයට අහිත කරයි
-
-*2025-08-02 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212925) · `si`
-
-බිත්තර සේදීමෙන් පසු ගබඩාකර තබාගැනීම පාරිභෝජනයට අහිතකර බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
-
-එම සංගමයේ සභාපති පුලින රණසිංහ මහතා පෙන්වා දෙන්නේ, බිත්තර සේදීමෙන් බිත්තර මතුපිට තිබෙන විෂබීජ බිත්තර තුළට ගමන් කිරීමේ හැකියාව පවතින බවය.
-
-"බිත්තර කටුව සම්පූර්ණයෙන්ම ආවරණය වූ එකක් නෙමෙයි. ඉතා සියුම් සිදුරු සහිතව තිබෙන්නේ. මේ නිසා බිත්තර සෝදනවිට ඒ මතුපිට තිබෙන කුණු, දූවිලි සහ සතුන්ගේ අසූචි ජලයේ දියවෙලා බිත්තරය ඇතුළට ගමන්කරන්න පුළුවන්.
-
-බිත්තරය ඇතුලේ ප්‍රෝටීන් බහුල මාධ්‍යක් තියෙන්නේ. ඒකට ක්ෂුද්‍ර ජීවීන් වැටුණොත්, කඩිනමින් ඒක වර්ධනය වෙලා විෂ සහිත තත්ත්වයන් ඇති වෙන්න පුළුවන්. ඒ නිසා බිත්තර සේදුවාට පසු ගබඩාකර තබාගන්න බෑ.
-
-මම හිතන්නේ නෑ සෝදපු බිත්තර වෙළෙඳපොළේ ඇසුරුම්කර තිබෙනවා කියලා. බිත්තර නිෂ්පාදන ක්‍රියාවලියේදීම කුණු, දූවිලි, අසූචි තැවරෙන එක සීමා කරලා හොද තත්ත්ව කලමණාකරන ක්‍රමවේද අනුගමනය කරලා නිෂ්පාදනය කරන බිත්තර තිබෙනවා.
-
-ලෝකයේ සාමාන්‍යයෙන් බිත්තර ඇසුම්කරන විට පිරිසිදු කරන්නේ යන්ත්‍රානුසාරයෙන් පිස දැමීම. එහෙම නැතුව සෝදන එක නෙමෙයි " යනුවෙන් පැවසීය.
-
-◼️
-
-[Data](articles/2a9f4b16.json)
-
----
-
-### பல பகுதிகளில் இன்று மழை
-
-*2025-08-02 07:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இன்று-மழை/175-362177) · `ta`
-
-நாட்டின் வடக்கு, வடமத்திய, ஊவா, கிழக்கு, மத்திய மற்றும் சப்ரகமுவ மாகாணங்களிலும், குருநாகல் மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் இன்று பிற்பகல் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-இந்தப் பகுதிகளில்  சுமார் 75 மில்லி மீற்றர் வரையிலான பலத்த மழை பெய்யக்கூடும் என்றும் தெரிவிக்கப்பட்டுள்ளது.
-
-மேல் மாகாணம் மற்றும் காலி, மாத்தறை மற்றும் புத்தளம் மாவட்டங்களிலும் பலத்த மழை பெய்யும் என்றும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/48a90e6e.json)
 
 ---

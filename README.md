@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 12:38:01**
+As of **2025-08-03 12:50:03**
 
 ## Newspaper Stats
 
-*Scraped **68,354** Articles*
+*Scraped **68,358** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 595
 bbccomsinhala | 677
-colombotelegraphcom | 699
+colombotelegraphcom | 700
 economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
@@ -19,18 +19,60 @@ dailyftlk | 4,821
 adalk | 6,570
 adaderanalk | 8,466
 tamilmirrorlk | 9,916
-virakesarilk | 11,382
+virakesarilk | 11,385
 adaderanasinhalalk | 11,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,354 articles have been extended.
+61,973 (90.7%) of 68,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### செம்மணி மனித புதைகுழி நீதிக்கான பயணத்தில் புதிய கதவுகளை திறந்துவிடும் ; அது மனிதபடுகொலை, யுத்த குற்றம் இடம்பெற்ற இடம் , இராணுவத்தினரே செய்தார்கள் என்பதற்கான ஆதாரங்கள் உள்ளன- சிரேஸ்ட சட்டத்தரணி கே.எஸ் இரத்தினவேல்
+
+*2025-08-03 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221677) · `ta`
+
+நீதிக்கான  பயணத்தில் செம்மணி மனித புதைகுழி புதிய கதவுகளை திறந்துவிடும்.இவை பெரியளவில் மக்கள் கொன்று புதைக்கப்பட்டபுதைகுழிகள்- இது மனிதபடுகொலை யுத்த குற்றம் இடம்பெற்ற இடம் -இராணுவத்தினரே செய்தார்கள் என்பதற்கான ஆதாரங்கள் உள்ளன. என தெரிவித்துள்ள சிரேஸ்ட சட்டத்தரணி கேஎஸ் இரத்தினவேல் கடந்தகால அரசாங்கங்களை போலவே தற்போதைய அரசாங்கமும் செயற்படுவதாக தெரிவித்துள்ளார்.
+
+கொழும்பு தமிழ் சங்கத்தில் இடம்பெற்ற 'வன்மம்" கிருஷாந்தி குமாரசுவாமி கொலை வழக்கு நூல் அறிமுகநிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே அவர் இதனை தெரிவித்தார்.
+
+சோமரத்ன ராஜபக்ச தனது வாக்குமூலத்தின்போது ' நான் மாத்திரம் இதில் தொடர்புபட்டிருக்கவில்லை, ஜெனரல்கள் தர அதிகாரிகள் கூட இதில் தொடர்புபட்டிருக்கின்றனர், அவர்கள் வழங்கும் உடல்களை நாங்கள் செம்மணியில் புதைப்போம் " என தெரிவித்திருந்தார்.
+
+செம்மணி புதைகுழிகளில் 500க்கும் மேற்பட்ட உடல்கள் புதைக்கப்பட்ட என அவர் வாக்குமூலம் வழங்கியதை தொடர்ந்து  இடம்பெற்ற அகழ்வுகளின் போது 1999 இல்  15 உடல்களை மீட்டார்கள்.
+
+...
+
+[Data](articles/d625231a.json)
+
+---
+
+### காத்தான்குடி பள்ளிவாசல் படுகொலைகளும் தமிழ் – முஸ்லிம் நல்லிணக்கமும்
+
+*2025-08-03 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221683) · `ta`
+
+காத்­தான்­குடி பள்­ளி­வாசல் படு­கொ­லை­களின் 35 ஆவது வருட நினை­வு­தினம் இன்று. இப்­ப­டு­கொ­லைகள் தொடர்பில், எவரும் பொறுப்­பா­ளி­யாக்­கப்­ப­ட­வில்லை. பத­வி­யி­லி­ருந்த அர­சாங்­கங்கள் விசா­ர­ணைகள் நடத்­து­வ­தாக உறு­தி­ய­ளித்த போதிலும் அது நடை­பெ­ற­வில்லை, பாதிக்­கப்­பட்­டோ­ருக்­கான இழப்­பீ­டு­களும் வழங்­கப்­ப­ட­வில்லை என்ற ஆதங்கம் பாதிக்­கப்­பட்ட மக்­க­ளுக்கு உள்­ளது.
+
+◼️
+
+[Data](articles/7061fe5b.json)
+
+---
+
+### மிலிந்த மொரகொட, 2029 பொது வேட்பாளரா?
+
+*2025-08-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221680) · `ta`
+
+மிலிந்த மொரகொட அடுத்த ஜனாதிபதித் தேர்தலில் பொது வேட்பாளராகப் போட்டியிடத் தயாராகி வருகிறார் என்றும் கூறப்படுகிறது.  பெரும்பாலும் அடுத்த ஜனாதிபதித் தேர்தலில் சர்வதேசத் தொடர்புகள் உள்ள ஒருவருக்கு அதிக தேவை ஏற்படும் சூழல் காணப்படுவதால், ரணில் - மஹிந்த ஆசீர்வாதத்துடன் மிலிந்த ஜனாதிபதித் தேர்தலில் போட்டியிடத் தயாராகி வருவதாக கூறப்படுகிறது. எவ்வாறாயினும், இந்த தகவல்களின் உண்மைத்தன்மை என்ன என்பது தெளிவாகத் தெரியாவிட்டாலும், ஒரு பாரிய அரசியல் கூட்டணியை உருவாக்கும் நோக்கில் பேச்சுவார்த்தைகள் நடைபெறுகின்றமை  குறிப்பிடத்தக்க விடயமாகும்.
+
+◼️
+
+[Data](articles/7fe6e91a.json)
+
+---
 
 ### இந்திய ஆன்மீக குழு வந்தடைந்தது
 
@@ -506,13 +548,19 @@ The the national negotiating team, which, with its expert skills and fact-based 
 
 *2025-08-03 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111113/one-person-injured-in-shooting-incident-reported-in-matara-) · `en`
 
-An individual has sustained injuries in a shooting incident reported in Kapugama, Matara this morning (03), police stated.
+An individual has sustained injuries in a shooting incident reported in Kapugama, Matara at around 6:35a.m. today (03), police stated.
 
-Two individuals who arrived on a motorcycle had opened fire at the injured person who was at his residence, police noted.
+According to police, two unidentified individuals arrived on a motorcycle and carried out the shooting using a T-56 assault rifle, targeting a person who was at a house.
 
-A 48-year-old individual, who has sustained injuries, has been hospitalized.
+A 48-year-old man was injured in the shooting, sustaining a minor wound to his leg.
 
-◼️
+Police said the injured person is a bus owner and also a businessman who owns multiple fishing vessels.
+
+Police suspect that the shooting was orchestrated by Shehan Sathsara, also known as ‘Dehibala Malli’, a known organized criminal and drug trafficker currently residing in Dubai.
+
+This act is believed to be motivated by a personal connection between the injured man and the families of Pasindu Tharaka and Yomesh Nadishan, who were shot dead near the southern entrance of the Sri Vishnu Temple in Dondra on March 21, as well as with an individual injured in that same incident.
+
+...
 
 [Data](articles/e6154c9f.json)
 
@@ -735,6 +783,16 @@ It is rare that a person with such an influential political background gets puni
 ◼️
 
 [Data](articles/2efddcff.json)
+
+---
+
+### Amarasuriya’s Education Reforms: Between Continuity, Contestation & Change
+
+*2025-08-03 07:04:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/amarasuriyas-education-reforms-between-continuity-contestation-change/) · `en`
+
+...
+
+[Data](articles/86b5c523.json)
 
 ---
 
@@ -1735,81 +1793,5 @@ When the most powerful woman in North Korea declared earlier this week, with sur
 ◼️
 
 [Data](articles/80b88a89.json)
-
----
-
-### එල්.පී.එල්. නොවැම්බරයේදී
-
-*2025-08-02 15:12:30* · [`adalk`](https://www.ada.lk/sports/එල්-පී-එල්--නොවැම්බරයේදී/9-417666) · `si`
-
-ලංකා ප්‍රිමියර් ලීග් (LPL) හි 6වන අදියර  නොවැම්බර් 27 සිට දෙසැම්බර් 23 දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
-
-තරගාවලියේ තරග කොළඹ ආර් ප්‍රේමදාස පිටිය, පල්ලෙකැල් ක්‍රීඩාංගණය හා දඹුල්ලේදී මෙම තරගාවලියේ තරග පැවත්වෙයි.
-
-2026 T20 ලෝක කුසලානය අරමුණුකර ගනිමින් මෙවර තරගාවලිය සංවිධානය කර තිබේ. ජාත්‍යන්තර ආකර්ෂණයක්  සහිත ශ්‍රී ලංකාවේ ප්‍රමුඛතම දේශීය T20 තරඟාවලිය වන LPL, රටේ ඉහළම පළමු පෙළ ක්‍රිකට් ක්‍රීඩකයින්ට ජාත්‍යන්තර තරු සමඟ තරඟ කිරීමට සහ ඔවුන්ට එරෙහිව තරඟ කිරීමට වේදිකාවක් ලෙස කටයුතු කරයි.
-
-2020 දී සමාරම්භක සංස්කරණයේ සිට, ලංකා ප්‍රිමියර් ලීගය වාර්ෂිකව පවත්වනු ලබන අතර එය ශ්‍රී ලංකාවේ ක්‍රිකට් දින දර්ශනයේ වැදගත් අංගයක් බවට පත්ව ඇත.
-
-◼️
-
-[Data](articles/32c3ce0b.json)
-
----
-
-### පොලීසියේ විශේෂ සෝදිසි මෙහෙයුම් ඊයේත්
-
-*2025-08-02 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212939) · `si`
-
-අපරාද, මත්ද්‍රව්‍ය, නීති විරෝධී ගිනි අවි හා සැකකටයුතු පුද්ගලයන් හා රථවාහන අත්අඩංගුවට ගැනීමේ විශේෂ සෝදිසි මෙහෙයුමේ තවත් අධියරක් ඊයේ (01) දිනයේදීද පැවැත්විණි.
-
-රටතුළ  ව්‍යාප්තව ඇති විෂ මත්ද්‍රව්‍ය මර්දනය කිරීම සදහා මෙහෙයුම් මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතාගේ සෘජු අධීක්ෂණයත් වැඩබලන පොලිස්පති ප‍්‍රියන්ත වීරසූරිය මහතාගේ මෙහෙයවීමත් මත ශ‍්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බලකාය හා ත‍්‍රිිවිධ හමුදාවත් එක්ව දෛනිකව සිදු කෙරෙමින් පවතී.
-
-ඒ අනුව ඊයේ දිනය පුරා ශ්‍රී ලංකා පොලීසියත්, පොලිස් විශේෂ කාර්ය බළකායත් ත්‍රිවිධ හමුදාවත් එක්ව සිදුකළ විශේෂ වැටලීම්වලදී හෙරොයින් සම්බන්ධව පුද්ගලයින් 161 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම අයිස් සම්බන්ධව පුද්ගලයින් 161 දෙනෙකුද ඇතුළත්ව නොයෙකුත් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව පුද්ගලයින් 488 දෙනෙකු පොලීසිය විසින් මෙහිදී අත්අඩංගුවට ගෙන ඇත.
-
-...
-
-[Data](articles/6a7f0793.json)
-
----
-
-### Digital transaction systems need to reach the villages to build public trust - CBSL Governor
-
-*2025-08-02 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111095/digital-transaction-systems-need-to-reach-the-villages-to-build-public-trust-cbsl-governor-) · `en`
-
-The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe, has emphasized the importance of extending digital transaction infrastructure to rural communities and actively promoting its usage among the general public.
-
-He made these remarks while addressing a digital transaction promotion event organized by the CBSL, held at the Dambulla Economic Center yesterday (01 August).
-
-Speaking at the event, Dr. Weerasinghe noted that while the infrastructure required for digital transactions—such as online banking, QR code payments, and platforms like GovPay for government services—is already in place, actual usage remains significantly low, especially outside the Western Province.
-
-“Many people, particularly in rural areas, continue to rely on cash transactions—notes and coins—which they perceive as more convenient. However, when examined closely, cash transactions entail additional time and costs for both businesses and consumers,” the Governor said.
-
-...
-
-[Data](articles/49f6f1bc.json)
-
----
-
-### මත්ද්‍රව්‍ය ජාවාරමේ නිරත චීන ජාතිකයෙකු අත්අඩංගුවට
-
-*2025-08-02 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212937) · `si`
-
-මෙරට සිටින චීන ජාතිකයන්ට රාත්‍රී සමාජ ශාලාවල හා කැසිනෝ ශාලාවල අයිස් මත්ද්‍රව්‍ය අලෙවි කරන ප්‍රධාන පෙළේ ජාවරම්කරු කොළඹ දකුණ කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-බම්බලපිටියේදී අත්අඩංගුවට ගනු ලැබූ මෙම පුද්ගලයා දිගු කලක සිට මෙරට නීතිවිරෝධීව රැඳී සිටින චීන ජාතිකයෙකු බව පොලීසිය පැවසීය.
-
-චීන ජාතිකයන්ට අයිස් මත්ද්‍රව්‍ය අලෙවි කිරීමේ ජාවාරමක් පිළිබඳ කොළඹ දකණ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයට ලද තොරතුරක් අනුව සිදුකළ විමර්ෂනයේදී මෙම අත්අඩංගුවට ගැනීම සිදුකිරීමට හැකිව තිබේ.
-
-සැකකරු අත්අඩංගුවට ගන්නා විටත් ඔහු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50කට අධික ප්‍රමාණයක් ද පොලිසිය විසින් සොයාගෙන ඇත.
-
-මාලදිවයින් ජාතිකයෙකුගෙන් හා ලාංකිකයෙකුගෙන් තමා  මත්ද්‍රව්‍ය ලබාගන්නා බවත්, ඒවා රාත්‍රී සමාජශාලාවලට හා කැසිනෝ ශාලාවලට පැමිණෙන චීන ජාතිකයන්ට අලෙවිකරන බවත් ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී තිබේ.
-
-2019 වසරේ දී මෙරටට පැමිණ ඇති මෙම චීන ජාතිකයා මේ දක්වා මෙරට තුළ රැඳී සිට ඇත්තේ ද නීතිවිරෝධීවය.
-
-◼️
-
-[Data](articles/9bada377.json)
 
 ---

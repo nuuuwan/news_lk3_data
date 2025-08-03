@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 18:31:15**
+As of **2025-08-03 18:57:55**
 
 ## Newspaper Stats
 
-*Scraped **68,428** Articles*
+*Scraped **68,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,581
+adalk | 6,582
 adaderanalk | 8,477
 tamilmirrorlk | 9,930
 virakesarilk | 11,401
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,428 articles have been extended.
+61,973 (90.6%) of 68,429 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -289,6 +289,22 @@ The United States Geological Survey said the earthquake was at a magnitude of 7.
 ...
 
 [Data](articles/629bc92f.json)
+
+---
+
+### විදුලි බලාගාර ජලාශවල ජල මට්ටම් ඉහළට
+
+*2025-08-03 16:01:01* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බලාගාර-ජලාශවල-ජල-මට්ටම්-ඉහළට/11-417686) · `si`
+
+ඉහල කොත්මලේ ජල පෝෂක ප්‍ර දේශවලට ඇද හැලෙන අධික වර්ෂාවත් සමග එමඑ ජලාශයේ වාන් දොරටු දෙකක් (03) දින පස්වරුවේ විවෘත කර ඇති බව නුවරඑලිය දිස්ත්‍රික් ආපදා කලමණාකරණ ඒකකය පැවසිය.
+
+එම ජල පෝෂක ප්‍රදේශවලට තවදුරටත්  අධික වැසි පතිත වුවහොත් එම ජලාශයේ සෙසු වාන් දොරටු ස්වයංක්‍රියව විවෘත වන බැවින් ජලාශ වේල්ලට පහලින් කොත්මලාඔයේ දෙපස පදිංචිකරුවන් සැලකිලිමත් ලෙස සිටින ලෙසයි නුවරඑලිය දිස්ත්‍රික් ආපදා කලමණාකරණ ඒකකය ඉල්ලා සිටියි.
+
+කාසල්රි සහ මාවුස්සාකැලේ ජල පෝෂක ප්‍රදේශවලට ඇද හැලෙන අධික වර්ෂාව සමග එම ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වී ඇති බවත්, ජලාශවල ජල මට්ටම ඉහළ යෑමත් සමග ලක්ෂපාන, නව ලක්ෂපාන, කැනියොන්, පොල්පිටිය සහ විමලසුරේන්ද්‍ර යන ජල විදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බවත්, එම නිසා කැනියොන් සහ ලක්ෂපාන ජලාශවල වාන් දොරටු විවෘත කර තිබිම නිසා කැළණි ගගේ ජල මට්ටම තරමක් ඉහළ ගොස් ඇති බවයි එම ජලාශභාර ඉංජිනේරුවරුන් කියා සිටියේ.
+
+◼️
+
+[Data](articles/c2e35562.json)
 
 ---
 
@@ -1715,29 +1731,5 @@ This act is believed to be motivated by a personal connection between the injure
 ...
 
 [Data](articles/e6154c9f.json)
-
----
-
-### Authorities urged to take action against foreigners engaged in business activities in Arugam Bay
-
-*2025-08-03 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111112/authorities-urged-to-take-action-against-foreigners-engaged-in-business-activities-in-arugam-bay-) · `en`
-
-Israeli nationals arriving on tourist visas are having a significant impact on the tourism industry in the Arugam Bay area, according to local business owners.
-
-Meanwhile, the Chairman of the Sri Lanka Tourism Development Authority, Buddhika Hewawasam stated that legal action has already been taken against a number of foreign nationals who came to the country on tourist visas and engaged in business activities.
-
-Arugam Bay is one of the leading destinations in Sri Lanka’s tourism industry.
-
-The primary reason for this is that the Arugam Bay coastline is highly suitable for surfing, according to the SLTDA.
-
-Meanwhile, local business owners in the area claim that the majority of tourists arriving in the area at present are Israeli nationals.
-
-This is mainly because many of the tourism services are being provided by Israeli nationals.
-
-A recent investigation by Ada Derana revealed that Israeli nationals arriving on tourist visas are engaging in business activities.
-
-...
-
-[Data](articles/86992cf6.json)
 
 ---

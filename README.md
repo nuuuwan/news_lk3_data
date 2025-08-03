@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 00:48:05**
+As of **2025-08-04 01:05:22**
 
 ## Newspaper Stats
 
-*Scraped **68,454** Articles*
+*Scraped **68,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,588
 adaderanalk | 8,481
-tamilmirrorlk | 9,933
+tamilmirrorlk | 9,934
 virakesarilk | 11,406
 adaderanasinhalalk | 11,794
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,454 articles have been extended.
+61,973 (90.5%) of 68,455 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-04 (Monday)
+
+### கழிவுநீர் குழியில் விழுந்து சிறுவன் உயிரிழப்பு
+
+*2025-08-04 00:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிவுநீர்-குழியில்-விழுந்து-சிறுவன்-உயிரிழப்பு/175-362235) · `ta`
+
+பொகவந்தலாவ பொலிஸ் பிரிவில் உள்ள கிவ் தோட்ட கீழ் பிரிவில் 8 வயது உடைய சிறுவன் கழிவுநீர் நீர் குழியில் விழுந்து உயிரிழந்துள்ளார்.
+
+இந்தச் சம்பவம் நேற்று (03) மாலை 7 மணிக்கு இடம் பெற்று உள்ளது என பொகவந்தலாவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/01e1ab49.json)
+
+---
 
 ### 2025-08-03 (Sunday)
 
@@ -1741,17 +1757,5 @@ Some locals accuse Paetongtarn and her family of allowing the conflict — which
 ...
 
 [Data](articles/0a2f4b0f.json)
-
----
-
-### கலைக்கப்பட வேண்டிய மௌனம்
-
-*2025-08-03 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221663) · `ta`
-
-செம்மணிப் புதைகுழி கிட்டத்தட்ட இரண்டரை தசாப்தங்களுக்கு மேலாக மறைக்கப்பட்டு அது மறக்கப்­பட்டுப் போயிருந்த நிலையில் தான்,  மீண்டும் வெளிக் கிளம்பி இருக்கிறது.மீண்டும் ஒருமுறை அது புதைக்கப்பட்டு விடாமல் போவதற்காக தான், சர்வதேச மேற்பார்வையுடன் கூடிய, அகழ்வும் விசாரணைகளும் முன்னெடுக்கப்பட வேண்டும் என்ற கோரிக்கை வலுப்பெற்றிருக்கிறது ஆனால், இந்த விடயத்தில் அவசரமாகவும் காத்திரமாகவும் செயற்பட வேண்டிய தரப்புகளான  அரசாங்கமும் சரி, சர்வதேச சமூகமும் சரி, இன்னமும் மௌனமாகவே இருக்கின்றன.
-
-◼️
-
-[Data](articles/42ceb7ea.json)
 
 ---

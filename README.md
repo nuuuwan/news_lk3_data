@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 17:31:03**
+As of **2025-08-03 17:52:17**
 
 ## Newspaper Stats
 
-*Scraped **68,418** Articles*
+*Scraped **68,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,580
-adaderanalk | 8,475
+adaderanalk | 8,477
 tamilmirrorlk | 9,930
-virakesarilk | 11,396
+virakesarilk | 11,401
 adaderanasinhalalk | 11,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,418 articles have been extended.
+61,973 (90.6%) of 68,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### காசாவில் செம்பிறை சமூகத்தின் தலைமையகம் மீது இஸ்ரேல் தாக்குதல் -  ஒருவர் பலி
+
+*2025-08-03 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/221717) · `ta`
+
+காசாவில் உள்ள பாலஸ்தீன செம்பிறை சமூகத்தின் தலைமையகம் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் தனது பணியாளர் ஒருவர் கொல்லப்பட்டுள்ளார் பலர் காயமடைந்துள்ளனர் என செம்பிறை சமூகம் தெரிவித்துள்ளது.
+
+இஸ்ரேலின் தாக்குதலால் கட்டிடத்தில் தீ மூண்டுள்ளது என தெரிவித்துள்ள செம்பிறை சமூகம் கான் யூனிசில் உள்ள தனது கட்டிடத்தை இஸ்ரேல் வேண்டுமென்றே தாக்கியதாக தெரிவித்துள்ளது.
+
+எங்கள் தலைமையகம் என்பது இஸ்ரேலிற்கு நன்கு தெரியும் என பாலஸ்தீன செம்பிறை சங்கம் தெரிவித்துள்ளது.
+
+கட்டிடம் தீப்பிடித்து எரிவதையும் புகைமண்டலம் காணப்படுவதையும் வெளியிட்டுள்ள செம்பிறை சங்கம்கட்டிடத்திற்கு பெரும் சேதம் ஏற்பட்டுள்ளதையும் இரத்;தக்கறை காணப்படுவதையும் காண்பிக்கும் படங்களையும் வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/de955479.json)
+
+---
+
+### சுற்றுலாப் பயணிகள் சாரதி அனுமதி பத்திரத்தை விமான நிலையத்திலேயே பெற்றுக்கொள்ளலாம்
+
+*2025-08-03 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221714) · `ta`
+
+நாட்டுக்கு வருகை தரும் வெளிநாட்டு சுற்றுலா பயணிகள் இன்று ஞாயிற்றுக்கிழமை (03) முதல் கட்டுநாயக்க, பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் நேரடியாக தற்காலிக சாரதி அனுமதி பத்திரத்தை பெற்றுகொள்ளலாம்.
+
+சுற்றுலா பயணிகளின் வசதியை மேம்படுத்துவதை நோக்கமாகக் கொண்டு குறிப்பாக விமான நிலையத்திற்கு அருகில் வாகனங்களை வாடகைக்கு எடுத்து தங்கியிருக்கும் போது வாகனம் ஓட்ட விரும்பும் பயணிகளின் வசதியை மேம்படுத்துவதை நோக்கமாகக் கொண்டு on-arrival சேவை மையத்தால் இன்றையதினம் முதல் ஆரம்பிக்கப்பட்டுள்ளது.
+
+இதற்கு முன்னர், சுற்றுலாப் பயணிகள் வெரஹெரவில் உள்ள மோட்டார் போக்குவரத்துத் திணைக்களத்திலேயே நேரடியாக தற்காலிக சாரதி அனுமதி பெற்றுகொள்ளக் கூடியதாக இருந்தது.
+
+தற்போது, பெரும்பாலான சுற்றுலாப் பயணிகள் நாடு முழுவதும் பயணிக்க மோட்டார் சைக்கிள்கள், முச்சக்கர வண்டிகள் மற்றும் இலகுரக வாகனங்களைப் பயன்படுத்துகின்றனர்.
+
+...
+
+[Data](articles/31d36604.json)
+
+---
 
 ### SLC T20 ලීගයේ සංචිත ප්‍රකාෂ කෙරේ
 
@@ -40,7 +76,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 නිල්, කොළ සහ අළු ලෙස කණ්ඩායම් තුනක සහභාගිත්වයෙන් පැවැත්වෙන එම තරගාවලියේ අළු කණ්ඩායමේ නායකත්වය ශ්‍රී ලංකා නිත්‍ය එක්දින හා විස්සයි20 නායක චරිත් අසලංකට හිමිව ඇත.
 
-ඊට අමතරව නිල් කණ්ඩායමේ නායකත්වයට යොවුන් ක්‍රීඩක දුනිත් වෙල්ලාලගේ ද, කොළ කණ්ඩායමේ නායකත්වයට කුසල් මෙන්ඩිස් ද නම්කර තිබේ.
+ඊට අමතරව නිල් කණ්ඩායමේ නායකත්වයට යොවුන් ක්‍රීඩක දුනිත් වෙල්ලාලගේ ද, කොළ කණ්ඩායමේ නායකත්වයට කමිඳු මෙන්ඩිස් ද නම්කර තිබේ.
 
 මෙම තරගාවලිය එළැඹෙන 7වනදා ආරම්භ වන අතර, අවසන් මහා තරගය අගෝස්තු 16 වනදා පැවැත්වීමට නියමිතය.
 
@@ -72,6 +108,38 @@ Media Release - SLCM202571 - SLC T20 League Squads by poornima on Scribd
 
 ---
 
+### மாற்றமடையும் வர்த்தக உலகில் இலங்கையின் நுண்பாக, சிறு, நடுத்தர தொழில்களுக்கு வாழ்க்கை வழிகாட்டி என்ன?
+
+*2025-08-03 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/221711) · `ta`
+
+நாட்டின் நம்பிக்கையைத் தாங்கும் MSMEக்களை பாதுகாத்தல் என்பது, தேசிய பொருளாதார வளர்ச்சிக்கான அடித்தளமாக இருக்கின்றது. சுதந்திரமான வணிக சூழல், சமவாய்ப்பு கொண்ட கடன் வாய்ப்பு மற்றும் அரசாங்கத்தின் தொடர் ஒத்துழைப்பு ஆகியவை மட்டுமே MSMEக்களுக்கு வாழ்க்கை வழிகாட்டியாக அமைய முடியும்.
+
+◼️
+
+[Data](articles/9823fb38.json)
+
+---
+
+### Acting Commissioner General of Buddhist Affairs appointed
+
+*2025-08-03 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111128/acting-commissioner-general-of-buddhist-affairs-appointed) · `en`
+
+Kasun Wellahewa, who served as the Additional Commissioner of the Department of Buddhist Affairs, has been appointed as the Acting Commissioner General of Buddhist Affairs with immediate effect.
+
+According to the Ministry of Buddhasasana, Religious and Cultural Affairs, the appointment follows the removal of Commissioner General of Buddhist Affairs, Premasiri Rathnayake from the position.
+
+The Cabinet has decided to remove Premasiri Rathnayake from his position as Commissioner General of Buddhist Affairs due to allegations that he failed to properly fulfill his duties.
+
+The Ministry of Buddhasasana and Religious Affairs had accused the Commissioner General of not effectively carrying out the responsibilities of the Department of Buddhist Affairs.
+
+Accordingly, the ministry stated that the relevant charge sheet was submitted to the previous Cabinet, and the Cabinet therefore decided to remove him from his position.
+
+◼️
+
+[Data](articles/4f4d0212.json)
+
+---
+
 ### கடத்தி காணாமல் ஆக்கப்பட்ட  முஸ்லிம்களுக்கு   நீதி கோரி பேரணி
 
 *2025-08-03 16:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கடத்தி-காணாமல்-ஆக்கப்பட்ட-முஸ்லிம்களுக்கு-நீதி-கோரி-பேரணி/46-362217) · `ta`
@@ -85,6 +153,34 @@ Media Release - SLCM202571 - SLC T20 League Squads by poornima on Scribd
 ...
 
 [Data](articles/37d6da30.json)
+
+---
+
+### அமெரிக்காவின் ட்ரம்ப் வரி: அதனால் உலகிற்கு என்ன பயன்?
+
+*2025-08-03 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221705) · `ta`
+
+வெறுமனே பொருளாதார நலன்கருதி மாத்திரம் ட்ரம்ப் தீர்வைகளை விதிக்கவில்லை. மாறாக, பேரம் பேசும் அரசியல் ஆயுதங்களாகவும் தீர்வைகளை பயன்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/2360e54d.json)
+
+---
+
+### டுபாய் சுத்தாவின் நெருங்கிய நண்பன் கைது
+
+*2025-08-03 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/221708) · `ta`
+
+டுபாய் சுத்தா என அழைக்கப்படும் பாதாள கும்பலைச் சேர்ந்த பிரசாத் சதுரங்க கோத்தாகொடவின் நெருங்கிய நண்பன் ஒருவர் பாணந்துறை குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+திருடப்பட்ட இரண்டு மோட்டார் சைக்கிள்கள் குறித்து நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து, சந்தேக நபர் கைது செய்யப்பட்டதாக புலனாய்வாளர்கள் தெரிவித்தனர்.
+
+டுபாய் சுத்தாவால் வட்ஸ்அப் ஊடாக 'ஈஸி கேஷ்' (Easy Cash) முறையில் இயக்கப்படும் போதைப்பொருள் வலையமைப்புடன் தொடர்புடையவராக இருக்கலாம் என பொலிஸார் சந்தேகம் வௌியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/cd7fa626.json)
 
 ---
 
@@ -135,6 +231,24 @@ Media Release - SLCM202571 - SLC T20 League Squads by poornima on Scribd
 ◼️
 
 [Data](articles/4bbb17e5.json)
+
+---
+
+### New tsunami warning from Russia after Kuril Islands quake
+
+*2025-08-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111127/new-tsunami-warning-from-russia-after-kuril-islands-quake) · `en`
+
+Russian officials warned that a tsunami wave of up to 19 centimeters (7.5 inches) could affect a section of the Kamchatka coast following a strong tremor on Sunday morning.
+
+“As a result of the earthquake that occurred in the Pacific Ocean, a tsunami wave no more than 19 centimeters high may reach the Aleutian municipal district, no more than 15 centimeters high may reach the Ust-Kamchatsky municipal district, and no more than 3 centimeters high may reach the Petropavlovsk-Kamchatsky urban district,” a report by Kamchatka Tsunami Warning and Monitoring Center said.
+
+“The expected wave heights are low, but you must still move away from the shore,” Russia’s Ministry for Emergency Services said on the Telegram messaging app.
+
+The United States Geological Survey said the earthquake was at a magnitude of 7.0, while German Research Center for Geosciences labeled the tremor a 6.8.
+
+...
+
+[Data](articles/629bc92f.json)
 
 ---
 
@@ -1615,135 +1729,5 @@ As a result, there are now problems concerning the transfers of around 23,000 do
 ...
 
 [Data](articles/ce4a7db4.json)
-
----
-
-### විශ්වාසය කඩන්නේ නෑ, තව ටිකක් ඉවසන්න
-
-*2025-08-03 07:33:34* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වාසය-කඩන්නේ-නෑ--තව-ටිකක්-ඉවසන්න/11-417672) · `si`
-
-වී වගා කරන කන්න දෙක අතර මුං වගා කිරීම ගොවි මහතුන්ට ඉතා ලාභදායී ක්‍රමයක් වන බවත් ඒ හරහා කුඹුරේ අමතර තෙතමනය හා ඉතිරි වන පොහොර ප්‍රයෝජනයට ගෙන වගාව සිදු  කර ගත හැකි බවත්  කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පැවැසීය.
-
-"පුනරුදයට අරුණලු" අතරමැදි කන්නයේ මුං වගා කිරීමේ ප්‍රවර්ධන ජාතික වැඩසටහනේ  සමාරම්භක උළෙලට බදගිරිය කෑලියවැලානේදී එක්වෙමින් අමාත්‍යවරයා මේ බව පැවැසීය.
-
-“මුං රනිල බෝගයක් නිසා බෝග අවශේෂ තුලින් පසේ කාබනික හා නයිට්‍රජන් ද්‍රව්‍ය ප්‍රමාණය වැඩි වෙනවා. එම නිසාම ඊළග වී වගා කන්නයේ අස්වැන්න වැඩි වෙනවා. වැඩි අස්වැන්නක් ලබා දෙන බෝග ප්‍රභේදයන් මෙහි වගා කරනයා. බීජ සිටුවා දින 55-60 ත් අතර කාලයේදී අස්වැන්න නෙලා ගත හැකි වනවා සේම මෙය ගොවි ජනතාවට ඉතා යහපත් වැඩසටහනක්” යැයි අමාත්‍යවරයා පැවැසීය.
-
-දීප ව්‍යාප්තව පවත්වාගෙන යාමට අදහස් කරන මෙම වැඩසටහන සදහා එක්ව කටයුතු කළ යුතු බව අමාත්‍ය වරයා පෙන්වා දුන් අතර ගොවි ජනතාව තම රජය පත් කර ගත්තේ ඉතා විශ්වාසයෙන් බවත් කිසිදු ලෙසක එම විශ්වාසය කඩ නොකොට ක්‍රියා කරන බවත් අමාත්‍යවරයා පෙන්වා දුන්නේය‍ ඒ සදහා තව කෙටි කාලයක් ඉවසා සිටිය යුතු බවත් අමාත්‍යවරයා ප්‍රකාශ කලේය.
-
-◼️
-
-[Data](articles/1c955047.json)
-
----
-
-### දළදා මංගල්‍යයේ අවසන් කුඹල් පෙරහැර අද
-
-*2025-08-03 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212956) · `si`
-
-ශ්‍රී ලාංකේය සංස්කෘතියේ අභිමානය ලොවට පෙන්වන මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍යයේ අවසන් කුඹල් පෙරහැර අද (03) වීථී සංචාරය කිරීමට නියමිතය.
-
-කෝට්ටේරාජා, පුලතිසිරාජා දෑල පිරිවරා ඉන්දිරාජා මංගල හස්තියා විසින් සධාතුක පෙරහැර කරඬුව වැඩම කළේය.
-
-අවසන් මහා පෙරහැර අගෝස්තු 08 දින වීථි සංචාරය කිරීමට නියමිතව ඇති අතර අගෝස්තු 09 වැනිදා පවත්වනු ලබන දහවල් පෙරහැරින් පසුව මහනුවර ඇසළ පෙරහැර මංගල්‍යය නිමාවට පත් වේ.
-
-◼️
-
-[Data](articles/3c7cb251.json)
-
----
-
-### Grandson of former Indian PM gets life sentence for rape
-
-*2025-08-03 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111110/grandson-of-former-indian-pm-gets-life-sentence-for-rape) · `en`
-
-A court in southern India has sentenced a prominent politician in the state of Karnataka to life in prison after being found guilty of raping one of his domestic staff.
-
-The sentencing of Prajwal Revanna, who is from an influential political family in the state, took place on Saturday - a day after he was convicted of sexually assaulting his former employee.
-
-The allegations against the 34-year-old former Indian MP first came to light in 2023 after hundreds of explicit videos featuring him started circulating on social media, causing outrage across the country.
-
-Revanna had denied the charges. On Friday, he broke down and pleaded for a lesser punishment when he was found guilty.
-
-Revanna is a grandson of former Indian Prime Minister, H D Deve Gowda, whose Janata Dal (Secular) party is allied with current Prime Minister Narendra Modi’s BJP.
-
-It is rare that a person with such an influential political background gets punished in a case like this in India.
-
-...
-
-[Data](articles/55ee4c06.json)
-
----
-
-### Grandson of former Indian PM Deve Gowda gets life sentence for rape
-
-*2025-08-03 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111110/grandson-of-former-indian-pm-deve-gowda-gets-life-sentence-for-rape) · `en`
-
-A court in southern India has sentenced a prominent politician in the state of Karnataka to life in prison after being found guilty of raping one of his domestic staff.
-
-The sentencing of Prajwal Revanna, who is from an influential political family in the state, took place on Saturday - a day after he was convicted of sexually assaulting his former employee.
-
-The allegations against the 34-year-old former Indian MP first came to light in 2023 after hundreds of explicit videos featuring him started circulating on social media, causing outrage across the country.
-
-Revanna had denied the charges. On Friday, he broke down and pleaded for a lesser punishment when he was found guilty.
-
-Revanna is a grandson of former Indian Prime Minister, H D Deve Gowda, whose Janata Dal (Secular) party is allied with current Prime Minister Narendra Modi’s BJP.
-
-It is rare that a person with such an influential political background gets punished in a case like this in India.
-
-...
-
-[Data](articles/f9027679.json)
-
----
-
-### හොර දොස්තරට රුපියල් 30000ක දඩයක්
-
-*2025-08-03 07:22:57* · [`adalk`](https://www.ada.lk/breaking_news/හොර-දොස්තරට-රුපියල්-30000ක-දඩයක්/11-417671) · `si`
-
-වෛද්‍යවරයෙකු ලෙස ව්‍යාජව පෙනි සිටිමින් මාටුවාගල, එල්ලාවල ප්‍රදේශයේ රෝගීන්ට ප්‍රකාර කළ බවට වර දපිළිගත් තැනැත්තෙකුට රත්නපුර ප්‍රධාන මහේස්ත්‍රාත් සමන් ඩී.කේ. පරණලියනගේ මහතා රුපියල් 30000ක දඩයක් නියම කළේය.
-
-මෙසේ දඩ නියම වුයේ ඇල්ලගාව, උමංගෙදර, කැටේපොළ ලිපිනයේ පදිංචි විජේරත්න වික්‍රමසිංහ සුනිල් යන අයටයි.
-
-යතුරු පැදියකින් පැමිණෙන වෛද්‍යවරයෙකු යැයි කියාගත් පුද්ගලයෙක් මාටුවාගල, එල්ලාවල ප්‍රදේශයේ  රෝගී ජනතාවට ප්‍රතිකාර කරමින් ඖෂධ වර්ග ද ලාබදෙන බවට කිරිඇල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරි කාර්යාලයට තොරතුරක් ලැබී  තිබුණි.
-
-කිරිඇල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරී අසේල එදිරිසිංහ සහ පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂක ජනක වීරසේකර මහත්වරුන්ගේ මෙහෙයවීම මත එල්ලාවල සහ දොඩම්පේ මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ව ඒ.එම්.බී. ජාලිය මඩුගල්ල, යූ.පි. සංජීව යන නිලධාරින් විසින් කිරිඇල්ල පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සී. දිසානායක මහතාගේ ද සහාය ඇතිව පසුගිය සැකකරු අත්අංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
-
-...
-
-[Data](articles/876458cb.json)
-
----
-
-### மூன்று நாள் காய்ச்சலால் இளைஞர் உயிரிழப்பு
-
-*2025-08-03 07:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-நாள்-காய்ச்சலால்-இளைஞர்-உயிரிழப்பு/175-362189) · `ta`
-
-இவ்வாறு உயிரிழந்தவர் யாழ்ப்பாணம், நாவற்குழி  தெற்கு, கைதடியைச்  சேர்ந்த சுந்தரலிங்கம் தேனுசன் (வயது 29) என்பவராவார்.
-
-மேற்படி இளைஞருக்கு கடந்த 29, 30, 31 ஆம் திகதி ஆகிய மூன்று நாள்கள் காய்ச்சல் ஏற்பட்டதால் தனியார் மருத்துவமனையில் சிகிச்சை பெற்றுள்ளார். பின்னர் நேற்றுமுன்தினம் வெள்ளிக்கிழமை நெஞ்சுக் குத்து ஏற்பட்டதைத் தொடர்ந்து சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில் நேற்று சனிக்கிழமை பிற்பகல் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-இந்த மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டு பிரேத பரிசோதனைக்கு உத்தரவிட்டார். சாட்சிகளை சாவகச்சேரிப் பொலிஸார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/d6a5f429.json)
-
----
-
-### දොඩංගොඩ සභාපති පැදවූ නිල කැබ් රිය අනතුරක
-
-*2025-08-03 07:15:56* · [`adalk`](https://www.ada.lk/breaking_news/දොඩංගොඩ-සභාපති-පැදවූ-නිල-කැබ්-රිය-අනතුරක/11-417670) · `si`
-
-දොඩන්ගොඩ ප්‍රාදේශීය සභාවේ සභාපතිවරයා පදවාගෙන ගිය නිළ කැබ් රථය පසුගිය 02 වනදා උදැසන වරකාගොඩ පොලිස් වසමේ ඉහල කරන්නාගොඩ ප්‍රදේශයේදී අනතුරකට භාජනය වී ඇති බව වරකාගොඩ පොලිසිය පැවසීය.
-
-දොඩන්ගොඩ ප්‍රාදේශීය සභාවේ සභාපති නිලූෂ කවිරත්න මහතා පසුගිය 02 වනදා උදැසන කිසියම් කටයුත්තක් සඳහා තම බල ප්‍රදේශයෙන් පිට වරකාගොඩ දෙස සිට ගෝවින්න දෙසට දොඩන්ගොඩ ප්‍රාදේශීය සභාව සතු නිළ කැබ් රථයෙන් ගමන් කරමින් සිටියදී කරන්නාගොඩ සංස්කෘතික මධ්‍යස්ථානය ආසන්නයේ පිහිටි වංගුවේදී ඉදිරිපසින් පැමිණි වැලිලොරියක වැදී කැබ් රථය පාරෙන් ඉවතට පැන කාණුවට වැටී මෙම අනතුර සිදුවී ඇත.
-
-අනතුර සිදුවන අවස්ථාවේ එම කැබ් රථය පදවා ඇත්තේ සභාපතිවරයා බවට මුලික පොලිස් පරීක්ෂණ වලදී හෙළිවී ඇත.
-
-අනතුරෙන් සභාපතිවරයාට හානියක් සිදුවී නොමැති අතර කැබ් රථයේ වම්පස ඉදිරි කොටස සහ ලොරි රථයේ වැදුණු බඳ ප්‍රදේශය ට හානි සිදුවී ඇත.වරකාගොඩ පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/ceb0462f.json)
 
 ---

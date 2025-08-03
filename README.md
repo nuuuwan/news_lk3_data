@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 08:36:40**
+As of **2025-08-03 09:21:09**
 
 ## Newspaper Stats
 
-*Scraped **68,315** Articles*
+*Scraped **68,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,179
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,562
+adalk | 6,564
 adaderanalk | 8,458
 tamilmirrorlk | 9,905
 virakesarilk | 11,377
-adaderanasinhalalk | 11,766
+adaderanasinhalalk | 11,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,315 articles have been extended.
+61,973 (90.7%) of 68,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### මාතර කපුගම ප්‍රදේශයේ වෙඩි තැබීමක්
+
+*2025-08-03 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212957) · `si`
+
+මාතර කපුගම ප්‍රදේශයේ අද (03) උදෑසන 6.35ට පමණ වෙඩි තැබීමක් සිදුව තිබේ.
+
+පොලීසිය පැවසුවේ නාඳුනන පුද්ගලයින් දෙදෙනෙකු යතුරුපැදියකින් පැමිණ ටී 56 ගිනි අවියක් භාවිත කරමින් නිවසක සිටි පුද්ගලයෙකු ඉලක්ක කර මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+
+වෙඩි වැදීමෙන් 48 හැවිරිදි පුද්ගලයෙකු තුවාල ලබා ඇති අතර තුවාලකරු රෝහල් ගත කර ඇතැයිද වාර්තා වේ.
+
+◼️
+
+[Data](articles/b69db38e.json)
+
+---
 
 ### ’செம்மணி தடயப்பொருட்களை அடையாளம் காட்டுங்கள்’
 
@@ -137,6 +153,24 @@ It is rare that a person with such an influential political background gets puni
 ◼️
 
 [Data](articles/df9b555d.json)
+
+---
+
+### සිගිරි ලදුන්ද හඩවා ’’කෞෂි ’’ රෝස මල  අකලට පරවිය
+
+*2025-08-03 07:01:13* · [`adalk`](https://www.ada.lk/breaking_news/සිගිරි-ලදුන්ද-හඩවා-’’කෞෂි-’’-රෝස-මල--අකලට-පරවිය/11-417668) · `si`
+
+"අම්මටයි තාත්තටයි වැඳලා තාත්තගෙන් දෙපාරක් හාදු අරගෙන ඉස්කෝලෙට ගිය දුව මේ විදිහට පෙට්ටියකින් එයි කියලා කවුද හිතුවේ, මේ වගේ  දුකක් අම්මා කෙනෙකුට ඉවසන්න පුළුවන්ද ."
+
+"කිසිම ලෙඩක් දුකක් නැතිව  හොඳට ඉගෙන ගන්න පුළුවන් දක්ෂ දරුවට මොකද වුනේ දෙයියනේ,  මගේ රෝස මල මේ විදිහට පර වුණේ ඇයි දෙවියනේ."
+
+මෙවැනි වදන් කියමින් 02 දින  රාත්‍රියේ  හඬා වැටෙන්නට වූයේ   කැකිරාව මධ්‍ය මහා විද්‍යාලයේ හය වැනි වසරේ ඉගෙනුම ලබමින් සිටියදී  හදිසියේම මියැදෙන්නට වූ කෞෂි රස්මිකා අබේරත්න   එකොළොස් හැවිරිදි දියණියගේ දේහය  නිවසට ගෙන එන අවස්ථාවේදී ඇයගේ මව වූ රුවනි කාංචනා මහත්මියයි
+
+කැකිරාව මධ්‍ය මහා විද්‍යාලයේ හය වැනි වසරේ ඉගෙනුම ලබමින් සිටි  කෞෂි රස්මිකා   දියණිය පසුගිය සිකුරාදා සුපුරුදු පරිදි පාසැලට ගොස් පාසල නිමවී නැවතත් නිවසට පැමිණීම සඳහා පාසල ඉදිරිපිට නවතා තිබූ බස් රථය අසලට පැමිණෙද්දී ක්ලාන්තය හැදී  බස් රථයේ සේවකයන් ඇයව කැකිරාව රෝහලට   රැගෙන ගොස් තිබේ
+
+...
+
+[Data](articles/08257ca2.json)
 
 ---
 
@@ -491,6 +525,26 @@ The UK saw a 20.4% increase in exports to US $ 67.33 million, while exports to t
 ...
 
 [Data](articles/e03d0f73.json)
+
+---
+
+### පිංගම දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කෙරේ
+
+*2025-08-02 19:40:20* · [`adalk`](https://www.ada.lk/breaking_news/පිංගම-දී-වෙඩි-තබා-පුද්ගලයෙකු-ඝාතනය-කෙරේ/11-417667) · `si`
+
+අම්බලන්තොට  හුංගම පොලිස් වසමේ , පිංගම ප්‍රදේශයේ  02 දා  පස්වරු 03ට පමණ සිදුකළ වෙඩි තැබීමකින් එක් පුද්ගලයෙකු මියගොස් තිබේ.
+
+මෙසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි දිසානායක මුදියන්සේලාගේ දිනේෂ් කැලුම් කුමාර නමැති වයස අවුරුදු 32ක පමණ එක්දරු පියෙකු වේ.
+
+මියගිය පුද්ගලයාගේ බිරිද විදේශ ගතව ඇති අතර මේ මස 10 වනදා තම දියණියගේ මල්වර වීමේ උත්සවය සම්බන්ධයෙන් වෙඩි තැබීම සිදුවූ වෙළඳ ස්ථානයේ හිමුකරුට ආරාධනා කිරීමට හා භාණ්ඩ මිලදී ගැනීම වෙනුවෙන් ගිය අවස්ථාවේ තම පුතාට මේ ආකාරයෙන් වෙඩි තබා ඇතිබව  මියගිය අයගේ පියා  වන දිසානායක මුදියන්සේලාගේ මහින්ද මහතා කියා සිටියේය.
+
+කෙසේ නමුත් පුද්ගලික  ආරවුලක් මත අදාළ වෙඩි තැබීම සිදුව ඇති බව පොලිසිය සනදහන් කරයි. එමෙන්ම  බලපත්‍ර සහිත ගිනි අවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවත්  වෙඩි වැදුණු පුද්ගලයා එම ස්ථානයේදීම ජීවිතක්ෂයට පත්ව තිබේන බවත් පසුව වෙඩි තැබීම සිදුකළ පුද්ගලයා ගිනි අවිය සමග හුංගම පොලිසියට භාර වී ඇතිබවද පොලිසිය පවසා සිටියේය.
+
+මේ සම්බන්දැන් වැඩිදුර විමරශන කටයුතු  තංගල්ල කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී උපුල සෙනෙවිරත්න මහතාගේ උපදෙස් මත හුංගම පොලීසිය  සිදුකරයි.
+
+◼️
+
+[Data](articles/06823049.json)
 
 ---
 
@@ -1773,57 +1827,5 @@ According to the Department’s Director General, Professor Terney Pradeep Kumar
 ◼️
 
 [Data](articles/48a90e6e.json)
-
----
-
-### செம்மணி செல்லும் மனித உரிமை ஆணைக்குழு
-
-*2025-08-02 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-செல்லும்-மனித-உரிமை-ஆணைக்குழு/175-362176) · `ta`
-
-இலங்கை மனித உரிமைகள் ஆணைக்குழு நாளை மறுதினம் (04) யாழ். செம்மணி - சித்துப்பாத்தி மனிதப் புதைகுழிப் பிரதேசத்தைப் பார்வையிடுவதற்குப் தீர்மானித்துள்ளது.
-
-இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் மூன்று ஆணையாளர்கள் மற்றும் இரண்டு பணிப்பாளர்களுடன் யாழ்ப்பாணம் பிராந்திய அலுவலர்கள் அடங்கிய குழுவினர் குறித்த பிரதேசத்துக்கு விஜயம் மேற்கொள்ளவுள்ளனர் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-குறித்த குழுவினர் செம்மணி மனிதப் புதைகுழி அகழ்வு நடவடிக்கைகளில் ஈடுபட்டுள்ள தரப்பினருடனும் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளனர் எனவும் தெரிவிக்கப்பட்டுள்ளது.  (a)
-
-◼️
-
-[Data](articles/cbe023c8.json)
-
----
-
-### කථානායක නිල නිවස පර්යේෂණ මධ්‍යස්ථානයක්  කිරීමට යයි
-
-*2025-08-02 07:29:37* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-නිල-නිවස-පර්යේෂණ-මධ්‍යස්ථානයක්--කිරීමට-යයි/11-417663) · `si`
-
-කථානායකවරයාගේ නිල නිවස  "පාර්ලිමේන්තු අධ්‍යයන සහ පර්යේෂණ මධ්‍යස්ථානයක්"  බවට  පරිවර්තනය කිරීම පිළිබඳව  යෝජිත වැඩපිළිවෙළට පාර්ලිමේන්තු  කාර්ය මණ්ඩල උපදේශක කාරක සභාවේ ප්‍රතිපත්තිමය එකඟතාව හිමි විය.
-
-ඒ අනුව මාස හයක ආරම්භක කාලයක් සඳහා මධ්‍යස්ථානයේ පදනම් රාමුව සැලසුම් කිරීම සහ ව්‍යුහගත කිරීම සම්බන්ධීකරණය, උපදෙස් දීම සහ මෙහෙයවීම සඳහා විශ්‍රාමික ජ්‍යෙෂ්ඨ රජයේ නිලධාරියෙකු ව්‍යාපෘති කළමනාකරුවෙකු ලෙස  පත්කිරීමටද  කාරක සභාවේ අනුමතිය හිමිවිය.
-
-මෙම කරුණු සාකච්ඡා වුයේ  2025.07.24 දින කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ පාර්ලිමේන්තු කාර්ය මණ්ඩල උපදේශක කාරක සභාවේදී එම යෝජනාව  සළකාබැලූ  අවස්ථාවේදීය.
-
-රජයේ සියලු අංශ ඔස්සේ  ව්‍යවස්ථාදායක සහ ආණ්ඩුකරණ හැකියාවන් ශක්තිමත් කිරීමේ මූලික ඉලක්කය ඇතිව මෙම  යෝජිත මධ්‍යස්ථානය මගින් ,  උසස් පර්යේෂණ පහසුකම්, විශේෂිත පුහුණුව සහ ප්‍රතිපත්ති විශ්ලේෂණයන් සඳහා ප්‍රවේශය සැපයීම සිදු කිරීමට අපේක්ෂා කෙරේ.
-
-...
-
-[Data](articles/7cc21af6.json)
-
----
-
-### Trump orders nuclear submarines moved after Russian ‘provocative statements’
-
-*2025-08-02 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111083/trump-orders-nuclear-submarines-moved-after-russian-provocative-statements) · `en`
-
-U.S. President Donald Trump on Friday said he had ordered two nuclear submarines to be positioned in “the appropriate regions” in response to remarks from former Russian President Dmitry Medvedev about the risk of war between the nuclear-armed adversaries.
-
-Security analysts called Trump’s move a rhetorical escalation with Moscow, but not necessarily a military one, given that the United States already has nuclear-powered submarines that are deployed and capable of striking Russia.
-
-Medvedev on Thursday said Trump should remember that Moscow possessed Soviet-era nuclear strike capabilities of last resort, after Trump had told Medvedev to “watch his words.”
-
-“Based on the highly provocative statements of the Former President of Russia, Dmitry Medvedev ... I have ordered two Nuclear Submarines to be positioned in the appropriate regions, just in case these foolish and inflammatory statements are more than just that,” Trump said in Friday’s social media post.
-
-...
-
-[Data](articles/9b228936.json)
 
 ---

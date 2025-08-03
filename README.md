@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 11:50:51**
+As of **2025-08-03 12:07:39**
 
 ## Newspaper Stats
 
-*Scraped **68,339** Articles*
+*Scraped **68,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 4,179
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,569
-adaderanalk | 8,462
+adalk | 6,570
+adaderanalk | 8,466
 tamilmirrorlk | 9,913
-virakesarilk | 11,377
+virakesarilk | 11,382
 adaderanasinhalalk | 11,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.7%) of 68,339 articles have been extended.
+61,973 (90.7%) of 68,349 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,34 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Protesters in Bangkok demand resignation of court-suspended prime minister following deadly conflict
+
+*2025-08-03 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111118/protesters-in-bangkok-demand-resignation-of-court-suspended-prime-minister-following-deadly-conflict) · `en`
+
+Protesters rallied Saturday in the Thai capital to demand the resignation of court-suspended Prime Minister Paetongtarn Shinawatra and in support of the armed forces following a violent border dispute with Cambodia that killed more than three dozen people and displaced over 260,000.
+
+Gathered at Bangkok’s Victory Monument despite soaring temperatures, many sang patriotic songs and listened to speeches denouncing Paetongtarn and her father, Thaksin Shinawatra, a former prime minister, and voiced their backing of the country’s army, which has always retained substantial power in the Southeast Asian country. Police said there were about 2,000 protesters by mid-afternoon, though more were expected to join as the temperature cooled.
+
+Some locals accuse Paetongtarn and her family of allowing the conflict — which stretches back decades with both sides claiming pockets of land near the shared border — to escalate due to their close ties with Cambodia’s former prime minister, Hun Sen.
+
+...
+
+[Data](articles/0a2f4b0f.json)
+
+---
+
+### கலைக்கப்பட வேண்டிய மௌனம்
+
+*2025-08-03 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221663) · `ta`
+
+செம்மணிப் புதைகுழி கிட்டத்தட்ட இரண்டரை தசாப்தங்களுக்கு மேலாக மறைக்கப்பட்டு அது மறக்கப்­பட்டுப் போயிருந்த நிலையில் தான்,  மீண்டும் வெளிக் கிளம்பி இருக்கிறது.மீண்டும் ஒருமுறை அது புதைக்கப்பட்டு விடாமல் போவதற்காக தான், சர்வதேச மேற்பார்வையுடன் கூடிய, அகழ்வும் விசாரணைகளும் முன்னெடுக்கப்பட வேண்டும் என்ற கோரிக்கை வலுப்பெற்றிருக்கிறது ஆனால், இந்த விடயத்தில் அவசரமாகவும் காத்திரமாகவும் செயற்பட வேண்டிய தரப்புகளான  அரசாங்கமும் சரி, சர்வதேச சமூகமும் சரி, இன்னமும் மௌனமாகவே இருக்கின்றன.
+
+◼️
+
+[Data](articles/42ceb7ea.json)
+
+---
+
 ### ’’குஷூடன்’’ இந்தியர்கள் இருவர் கைது
 
 *2025-08-03 11:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷூடன்-இந்தியர்கள்-இருவர்-கைது/175-362199) · `ta`
@@ -66,11 +94,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### මධ්‍යමට තද වැසි
+
+*2025-08-03 11:23:47* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යමට-තද-වැසි/11-417677) · `si`
+
+මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවලට (02) දින රාත්‍රියේ සිට තද වැසි ලැබෙමින් පවති.පවතින වර්ෂාවත් සමග ජන ජීවිතයට ගැටළු රැසක් මතු වී ඇති අතර, මධ්‍යම කදුකරය් රථාවාහන ගමනා ගමනයටද පවතින අයහපත් කාළගුණය හමුවේ බාධා පැමිණ ඇත.
+
+පවතින අයහපත් කාලගුණයත් සමග හැටන් නුවරඑලිය සහ හැටන් කොළඹ ප්‍රධාන මාර්ගවල රථවාහන ධාවනය කිරිමේදි සැලකිලිමත්ව රිය ධාවනය කරන ලෙස හැටන් පොලිසිය රියදුරන්ගෙන් ඉල්ලා සිටියි.
+
+මේ අතර, නුවරඑලිය ප්‍රදේශයට (02) දින රාත්‍රියේ සිට ඇදහැලෙන අධික වර්ෂාව හේතුවෙන් නුවරඑලිය මහ දිස්ත්‍රික් මහ රෝහලට පිවිසනෙ මාර්ගයේ මංසන්ධිය සහ නුවරඑලිය උඩුපුස්සැල්ලාව මාර්ගය (03) දින උදැසන ජලයෙන් යට වීම නිසා රථවාහන ගමනා ගමනයට බාධා පැමිණ තිබුණි.
+
+◼️
+
+[Data](articles/81bfa2d4.json)
+
+---
+
 ### ඩුබායි සුද්දාගේ ගෝලයකු අත්අඩංගුවට
 
 *2025-08-03 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212961) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු සහ සංවිධානාත්මක අපරාධකරුවෙකු වන ප්‍රසාද් චතුරංග කෝදාගොඩ නොහොත් ඩුබායි සුද්දාගේ සමීපතම ගෝලයකු පානදුර කොට්ඨාෂ අපරාධ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන ඇත.
+ප්‍රසාද් චතුරංග කෝදාගොඩ නොහොත් ඩුබායි සුද්දාගේ සමීපතම ගෝලයකු පානදුර කොට්ඨාෂ අපරාධ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන ඇත.
 
 ඔහු සන්තකයේ තිබී අයිස් මිලිග්‍රෑම් 4,665ක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
 
@@ -148,6 +192,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ‘கன்சைட்’ சித்திரவதை சிறைக் கூண்டுகளில் வெளிநாட்டவர்கள் உட்பட 60 பேர் தடுத்து வைக்கப்பட்டிருந்தமை அம்பலம் ;  முன்னாள் கடற்படை தளபதி உலுகேதென்னவின் வாக்கு மூலத்தால் விரிவடையும் விசாரணைகள்
+
+*2025-08-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/221661) · `ta`
+
+திருகோணமலை கடற்படை முகாமுக்குள் இருக்கும் ‘கன்சைட்’ எனும் சட்ட விரோத நிலத்தடி சித்திரவதை முகாம் சட்ட விரோத சிறைக் கூண்டு என்று முன்னாள் கடற்படை தளபதி நிஷாந்த உலுகேதென்ன சி.ஐ.டி. விசாரணையில் ஏற்றுக்கொண்டுள்ளார்.
+
+இந்நிலையில், அவரிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் படியும் மேலும் பல சாட்சிகளின் பிரகாரமும் குறித்த சட்ட விரோத சிறையில் இரு வெளிநாட்டவர்கள் உள்ளிட்ட 60 பேர் வரையில் தடுத்து வைக்கப்பட்டிருந்தததாக சி.ஐ.டி. யினர் விசாரணையில் தகவல்களை வெளிப்படுத்தியுள்ளனர்.
+
+இந்நிலையில், சி.ஐ.டி. அதிகாரிகள் குறித்த 60 பேரும் யாரென அடையாளம் காண்பதற்கு, கடற்படை தளபதியிடம் தடுத்து வைக்கப்பட்டிருந்தவர்களின் பெயர் பட்டியலை பொல்க‌ஹகவல நீதிவானின் உத்தரவூடாக கோரியுள்ளனர். எனினும் அந்த தகவல்கலை கடற்படை தளபதி வைஸ் அட்மிரல் காஞ்சன பனாகொட இதுவரை வழங்கவில்லையென சி.ஐ.டி.யினர் தெரிவித்தனர்.
+
+...
+
+[Data](articles/055478d9.json)
+
+---
+
 ### மாகாண சபைத் தேர்தல் தொடர்பில் விவாதம்
 
 *2025-08-03 10:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்-தொடர்பில்-விவாதம்/175-362195) · `ta`
@@ -165,6 +225,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/295a61f6.json)
+
+---
+
+### வெறுமனே முஸ்லிம்களின் தலைவர்கள் என்பதில் அர்த்தமில்லை
+
+*2025-08-03 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221660) · `ta`
+
+ஆட்சியாளர்கள் கொண்டு வரவுள்ள மாற்றங்கள் குறித்து முஸ்லிம் தலைவர்கள் கலந்துரையாடல்களை மேற்கொள்ள வேண்டும். அவற்றில் உள்ள நன்மைகளை பாராட்ட வேண்டும். தீமைகளை சுட்டிக்காட்ட வேண்டும்.
+
+◼️
+
+[Data](articles/5b4498cc.json)
+
+---
+
+### மாகாண சபைகளை ஒழிக்க சதியா?
+
+*2025-08-03 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221659) · `ta`
+
+மாகாண சபை­களை இல்­லாமல் ஒழிப்­ப­தற்­கா­கவே அவற்­றுக்குத் தேர்­தலை நடத்­து­வதை, அர­சாங்­கங்கள்  தவிர்த்து வந்­தி­ருக்­கின்­றன என்­பது இப்­பொ­ழுது தெளி­வாகத் தெரி­கி­றது.
+
+◼️
+
+[Data](articles/8b070432.json)
+
+---
+
+### மாற்றும் அதிகாரம், மாறும் அரசாங்கம்
+
+*2025-08-03 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/221657) · `ta`
+
+ஊழல், மோச­டிக்கு எதி­ரான தலை­வ­ராக தன்னை அறி­மு­கப்­ப­டுத்திக் கொண்ட மைத்­தி­ரி­பால சிறி­சே­னவும், நாட்டை முழு­மை­யாக மாற்­றி­ய­மைக்கப் போவ­தாக வாக்­கு­றுதி கொடுத்த கோட்­டா­பய ராஜபக்ஷவும், அதி­காரம் பெற்ற பின்னர் எப்­படி மாறி­னார்கள் என்­பதும் தெரிந்­தது தான்.
+
+◼️
+
+[Data](articles/d6e03b82.json)
 
 ---
 
@@ -189,6 +285,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/25f2db8f.json)
+
+---
+
+### Over 200,000 tourist arrivals recorded in July
+
+*2025-08-03 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111116/over-200000-tourist-arrivals-recorded-in-july) · `en`
+
+A total of 200,244 tourists arrived in the country in July 2025, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+This is an increase of 6.6% in comparison to the numbers arrived in July 2024.
+
+According to the latest data released by the SLTDA, a total of 37,128 tourists arrived from India in July which accounts to 18.5%. Furthermore, 23,475 persons from the United Kingdom, 15,556 from the Netherlands, 12,982 from China and 11,059 French nationals have also visited Sri Lanka in the month of July.
+
+Accordingly, the total number of tourist arrivals in the first seven months of 2025 stands at 1,368,288.
+
+Among them, 279,122 individuals are from India, 131,377 from Russia and 115,470 are from the UK, the SLTDA noted.
+
+◼️
+
+[Data](articles/b820acef.json)
 
 ---
 
@@ -428,6 +544,28 @@ It is rare that a person with such an influential political background gets puni
 
 ---
 
+### Grandson of former Indian PM Deve Gowda gets life sentence for rape
+
+*2025-08-03 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111110/grandson-of-former-indian-pm-deve-gowda-gets-life-sentence-for-rape) · `en`
+
+A court in southern India has sentenced a prominent politician in the state of Karnataka to life in prison after being found guilty of raping one of his domestic staff.
+
+The sentencing of Prajwal Revanna, who is from an influential political family in the state, took place on Saturday - a day after he was convicted of sexually assaulting his former employee.
+
+The allegations against the 34-year-old former Indian MP first came to light in 2023 after hundreds of explicit videos featuring him started circulating on social media, causing outrage across the country.
+
+Revanna had denied the charges. On Friday, he broke down and pleaded for a lesser punishment when he was found guilty.
+
+Revanna is a grandson of former Indian Prime Minister, H D Deve Gowda, whose Janata Dal (Secular) party is allied with current Prime Minister Narendra Modi’s BJP.
+
+It is rare that a person with such an influential political background gets punished in a case like this in India.
+
+...
+
+[Data](articles/f9027679.json)
+
+---
+
 ### හොර දොස්තරට රුපියල් 30000ක දඩයක්
 
 *2025-08-03 07:22:57* · [`adalk`](https://www.ada.lk/breaking_news/හොර-දොස්තරට-රුපියල්-30000ක-දඩයක්/11-417671) · `si`
@@ -627,6 +765,22 @@ Addressing a public meeting in his parliamentary constituency Varanasi on Saturd
 ◼️
 
 [Data](articles/772d3d84.json)
+
+---
+
+### Temporary driving licenses for tourists at BIA but no Tuk licenses, says DMT
+
+*2025-08-03 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111107/temporary-driving-licenses-for-tourists-at-bia-but-no-tuk-licenses-says-dmt) · `en`
+
+A new service counter for the issuance of necessary driving licenses to foreign nationals visiting Sri Lanka for travel will be launched today (03) at the Bandaranaike International Airport (BIA) premises in Katunayake, Commissioner General of Motor Traffic Kamal Amarasinghe, stated.
+
+The Commissioner General of Motor Traffic noted that up until now, the service was provided only at the Department of Motor Traffic office located in Werahera, but from today, for the convenience of tourists, the same services will be initiated at the airport premises.
+
+The Commissioner added that many foreign visitors to Sri Lanka often rent vehicles near the Katunayake airport or nearby locations and drive themselves during their travels. It has been observed that these tourists use motorcycles, three-wheelers, and light vehicles.
+
+...
+
+[Data](articles/0a49c4e3.json)
 
 ---
 
@@ -1657,193 +1811,5 @@ Indonesia’s Geology Agency recorded an avalanche of searing gas clouds mixed w
 ...
 
 [Data](articles/16e8fbe1.json)
-
----
-
-### PM reveals what govt aims to achieve through ongoing education reforms
-
-*2025-08-02 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111091/pm-reveals-what-govt-aims-to-achieve-through-ongoing-education-reforms) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya emphasized the importance of building female leadership in today’s society, stating that the Sri Lanka Girl Guides Association possesses the ability to fulfill this need.
-
-The Prime Minister made these remarks while addressing the Presidential Girl Guide Awards Ceremony, organized yesterday at the Temple Trees by the Sri Lanka Girl Guides Association, which is part of the world’s largest voluntary organization for women, according to the Prime Minister’s Media Division.
-
-At the ceremony, the Presidential Girl Guide Award, the highest honoring award a Girl Guide can receive, was presented to 301 girl guides, while the Prime Minister’s Girl Guide Award was presented to 23 individuals, the statement said.
-
-Delivering the keynote address, Prime Minister Dr. Harini Amarasuriya stated:
-
-...
-
-[Data](articles/83ac474d.json)
-
----
-
-### ශාරුක් හා රාණිට පළමුවරට ලැබෙන සම්මාන
-
-*2025-08-02 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212934) · `si`
-
-දශක 3කට අධික රංගන දිවියේ පළමුවරට ඉන්දීය ජාතික චිත්‍රපට සම්මාන උළෙලක හොඳම නළුවාට හිමි සම්මානය දිනාගැනීමට සුපිරි බොලිවුඩ් නළු ශාරුක් ඛාන්ට හැකිව තිබේ.
-
-ඉන්දීය ජාතික චිත්‍රපට සංවර්ධන සංස්ථාව විසින් ඊයේ (1) ප්‍රකාශයට පත්කළ '71 වන ජාතික චිත්‍රපට සම්මාන උළෙලේ' ජයග්‍රාහී සම්මාන ලැයිස්තුවේ මෙලෙස ශාරුක්ව නම්කර ඇත.
-
-2023 වසරේ තිරගත වූ චිත්‍රපට වෙනුවෙන් මෙම සම්මාන උළෙල පැවැත්වෙන අතර, ඒ අනුව එම වසරේ තිරගත වූ 'ජවාන්' චිත්‍රපටයේ ශාරුක් දැක් වූ විශිෂ්ට රංගනය වෙනුවෙන් මෙම සම්මානයට ඔහු නම්කර ඇත.
-
-ජවාන් චිත්‍රපටයට ඉන්දීය රුපියල් කෝටි 1,148කට අධික  ආදායමක් උපයාගැනීමට හැකි වූ අතර, එය එම වසරේ වැඩිම ආදායමක් උපයාගත් ඉන්දියානු චිත්‍රපටය විය.
-
-එමෙන්ම ඉන්දීය චිත්‍රපට ඉතිහාසයේ දෙවන වැඩිම ආදායමක් උපයාගත් හින්දි චිත්‍රපටය මෙන්ම හයවන වැඩිම ආදායමක් උපයාගත් ඉන්දියානු චිත්‍රපටය ද එය වේ.
-
-මේ අතර මෙම සම්මාන උළෙලේ හොඳම නිළියට හිමි සම්මානයට රාණි මුකර්ජි නම්කර ඇත.
-
-ඇය රංගනයෙන් දායක වූ 'Mrs. Chatterjee vs Norway' නම් චිත්‍රපයට වෙනුවෙන් මෙම සම්මානය හිමිවේ.
-
-...
-
-[Data](articles/77d977a2.json)
-
----
-
-### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
-
-*2025-08-02 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212933) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත් සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, එම නිවේදනය අද (02) රාත්‍රී 11 දක්වා බලපැවැත්වෙන බවය.
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත් සහ හම්බන්තොට දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බැවින් මෙම ප්‍රදේශවල ජනතාවට සැලකිලිමත් වෙන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකියි.
-
-අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/ca8872f6.json)
-
----
-
-### செயற்கை நுண்ணறிவு (AI) : 'உலகளாவிய ஆளுகை செயற்றிட்டம் பற்றிய ஒரு பார்வை'
-
-*2025-08-02 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221599) · `ta`
-
-செயற்கை நுண்ணறிவு என்பது அண்மைக்காலத்தில் நடைபெற்றுக்கொண்டிருக்கும் அறிவியல் மற்றும் தொழில்நுட்பப்புரட்சியின்  முக்கியமான மைல்கல்லாகும். அத்துடன் மனிதகுலத்திற்குப் பயனளிக்கும் சர்வதேச பொது நன்மையான விடயமாகுமாக பார்க்கப்படுவதோடு அதன் வளர்ச்சியில் முன்னெப்போதும் இல்லாத வாய்ப்புகள் கிடைப்பதாகவும் கொள்ளப்படுகின்றது.
-
-◼️
-
-[Data](articles/cb1a4334.json)
-
----
-
-### அனுமதியின்றி குழாய்க் கிணறு அமைத்தால் சட்ட நடவடிக்கை - வேலணை பிரதேச சபை அறிவிப்பு!
-
-*2025-08-02 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221609) · `ta`
-
-வேலணை பிரதேச சபையின் ஆளுகைக்குள் முறையான அனுமதி பெறாது குழாய்க் கிணறுகள் அமைப்பது முற்றக தடைசெய்யப்பட்டுள்ளதாகவும்,  நடைமுறைகளை மீறி செயற்படுபவர்களுக்கு எதிராக மட்டுமல்லாது இயந்திரங்கள் மீதும் கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் வேலணை பிரதேச சபை அறிவித்துள்ளது.
-
-இது குறித்து பிரதேச சபையின் தவிசாளர் அசோக்குமாரின் கையொப்பத்துடன் விடுக்கப்பட்டுள்ள சுற்றறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதவது,
-
-வேலணை பிரதேச சபைக்குட்பட்ட இடங்களில் அண்மைக்காலமாக எந்தவிதமான அனுமதியும் பெறப்படாது அதிகளவான குழாய்க்கிணறுகள் அமைக்கப்பட்டு வருகின்றமையை  அவதானிக்க முடிகின்றது.
-
-அத்துடன் அமைக்கப்படும் குழாய்க்கிணறுகளை எந்தவிதமான கட்டுப்பாடுகள் மற்றும் போதிய வழிகாட்டுதல்களுமின்றி தான்தோன்றித்தனமாக அமைப்பதானது எமது பிரதேசத்தில் காணப்படுகின்ற மிக சொற்பமான நன்னீர்க் கிணறுகளையும் வெகுவிரைவில் பாதிப்படையச் செய்யும் ஒரு செயற்பாடாகவே இருக்கின்றது.
-
-...
-
-[Data](articles/d8d10bea.json)
-
----
-
-### සිව්වන කුඹල් පෙරහැර වෙනුවෙන් මහනුවර රථ වාහන සැලැස්ම
-
-*2025-08-02 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212932) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහැරේ සිව්වන කුඹල් පෙරහැර අද (02) දින වීථී සංචාරය කරනු ලබයි.
-
-එම කාලය තුළ ක්‍රියාත්මක රථ වාහන සැලැස්ම හා විකල්ප මාර්ග පිළිබවඳ පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-කටුගස්තොට සිට මහනුවර නගරයට පැමිණෙන සියළුම බර වාහන මහයියාව හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ පොලිසිය හන්දියෙන් මහනුවර නගරය වෙත ගමන් කළ හැකිය.
-
-කටුගස්තොට දෙසින් පැමිණෙන සැහැල්ලු වාහන ඩී.එස්. සේනානයක වීදිය ඔස්සේ පැමිණ හරස් වීදිය ඔස්සේ යටිනුවර වීදියට පැමිණ දකුණට හැරී මීරමක්කම් පල්ලිය අසලින් වමට ධාවනය කර තිලක් රත්නායක මාවත ඔස්සේ ගමන් කළ හැකිය.
-
-කටුගස්තොට දෙසට පිටවන වාහන පොලිසිය හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ මහයියාව දෙසට ගමන් කළ හැකිය.
-
-තැන්නේකුඹුර හා අම්පිටිය දෙසින් පැමිණෙන වාහන සංඝරාජ මාවත ඔස්සේ වේල්ස් පාර්ක් හන්දියට පැමිණ ඇහැලේපොළ කුමාරිහාමි මාවතෙන් දකුණට හැරී බෝගම්බර, දුම්රියපොළ අසලින්ද කොළඹ දෙසට ගමන් කරන වාහන වම් පසටද, නගරය දෙසට ගමන් කරන වාහන දකුණු පසටද ගමන් කළ හැක.
-
-එසේම රජපිහිල්ල මාවත හන්දියෙන් පල්ලිය පාර ඔස්සේ මහනුවර නගරයට ඇතුළු විය හැකිය.
-
-...
-
-[Data](articles/e5844f4b.json)
-
----
-
-### Sri Lanka tourist arrivals rise 6.6-pct in July, with Europeans picking up
-
-*2025-08-02 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-6-6-pct-in-july-with-europeans-picking-up-234089/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 6.6 percent from a year ago to 200,244 in July 2025, with visitors coming in mostly from India and the UK, data from the island’s tourism promotion office showed.
-
-There were 37,128 visitors from India in July 2025, making up 18.5 percent of total arrivals, followed by the UK with 23,475 which made up 11.7 percent of arrivals.
-
-There were 15,556 visitors (7.8%) from the Netherlands, 12,982 from China (6.5%), and 11,059 from France (5.5%).
-
-Visitors from other European countries, as well as Canada and the USA, picked up as the summer season progresses. (Colombo/Aug1/2025)
-
-◼️
-
-[Data](articles/577d9084.json)
-
----
-
-### Attempt to impeach President Premadasa
-
-*2025-08-02 11:45:00* · [`islandlk`](http://island.lk/attempt-to-impeach-president-premadasa/) · `en`
-
-I was privy to an attempt that was being made by a visiting US Congressman, Stephen Solari, the chairman of an important congressional committee with a reputation for tough talk, to browbeat Premadasa after his direction to the US ambassador that the Israeli interests section should be promptly closed.
-
-The brush-off which the congressman received was, to say the least, not courteous. Premadasa had his way and the section stopped functioning. His attitude towards Israel and conversely his support
-
-for the Arab cause did not stop there. Later there was an important vote at the UN on ‘Zionism being equated with Racism’ and on that occasion Sri Lanka was singular in being one of the few countries to vote in support of the resolution which was lost by a large majority.
-
-...
-
-[Data](articles/8a2e6eb5.json)
-
----
-
-### ‘Release US trade deal details & terms to public’ – Namal urges govt
-
-*2025-08-02 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111089/release-us-trade-deal-details-terms-to-public-namal-urges-govt) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Namal Rajapaksa has welcomed the recent reduction in U.S. reciprocal tariff rates on Sri Lankan goods, while urging the Government to disclose full details of the trade and security agreements reached with the United States.
-
-In a post on ‘X’ (formerly Twitter), Rajapaksa stated, “Encouraging to see the United States tariff rates cut down to 20%, which now puts us with Vietnam and Bangladesh, and I congratulate the NPP Government for being persistent in its discussions with the U.S. trade representatives.”
-
-However, he stressed the importance of transparency surrounding the negotiations that led to the tariff concession.
-
-“I call on the Government to be transparent on the ‘meaningful trade and security agreements’ reached with the U.S. Government in order to get the tariff reductions,” he said.
-
-...
-
-[Data](articles/99959472.json)
-
----
-
-### ඇෆ්ගන් - පාකිස්තාන - UAE තුන්කොන් සටනක්
-
-*2025-08-02 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212931) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියට පෙර සූදානමක් ලෙස පාකිස්තානය, ඇෆ්ගනිස්තානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය අතර තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියක් පැවැත්වීමට නියමිතව ඇත.
-
-එක්සත් අරාබි එමීර් රාජ්‍ය ක්‍රිකට් ආයතනය තරගාවලියට සත්කාරකත්වය ලබාදෙන අතර, සියලුම තරග සාජාහිදී පැවැත්වීමට කටයුතු යොදා තිබේ.
-
-තරගාවලිය ආරම්භ කරමින් පළමු තරගය අගෝස්තු 29වනදා පාකිස්තානය හා ඇෆ්ගනිස්තානය අතර පැවැත්වේ.
-
-පළමු වටයේදී සෑම කණ්ඩායමකටම තරග 2 බැගින් හිමිවන අතර, එහිදී ඉහළම ප්‍රසාද ලකුණු හිමිකරගන්නා කණ්ඩායම් දෙකට අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට හැකිය.
-
-මෙවර ආසියානු කුසලාන තරගාය සැප්තැම්බර් 9 සිට 28 දක්වා එක්සත් අරාබි එමීර් රාජ්‍යයේ දී පැවැත්වීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/986342c3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 19:34:46**
+As of **2025-08-03 19:47:38**
 
 ## Newspaper Stats
 
-*Scraped **68,432** Articles*
+*Scraped **68,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,583
 adaderanalk | 8,478
-tamilmirrorlk | 9,931
+tamilmirrorlk | 9,932
 virakesarilk | 11,401
 adaderanasinhalalk | 11,789
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,432 articles have been extended.
+61,973 (90.6%) of 68,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### வரி செலுத்துவோரின் PIN செல்லுபடியாகும் காலம் நீட்டிப்பு
+
+*2025-08-03 19:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துவோரின்-PIN-செல்லுபடியாகும்-காலம்-நீட்டிப்பு/175-362220) · `ta`
+
+வரி செலுத்துவோருக்கு வழங்கப்படும் தனிப்பட்ட அடையாள எண்ணின் (PIN) செல்லுபடியாகும் காலம் நவம்பர் 30 வரை நீட்டிக்கப்பட்டுள்ளதாக உள்நாட்டு இறைவரித் திணைக்களம் (IRD) அறிவித்துள்ளது.
+
+இந்த நீட்டிப்பு தனிநபர்கள், கூட்டு நிறுவனங்கள் மற்றும் பெருநிறுவனங்கள் உட்பட அனைத்து வகை வரி செலுத்துவோருக்கும் பொருந்தும்.
+
+வருவாய் நிர்வாக முகாமைத்துவ தகவல் அமைப்பு (RAMIS) மூலம் வரி செலுத்துவோர் கணக்குகளை அணுகுவதற்கு PIN அவசியம்.
+
+2024/2025 மதிப்பீட்டு ஆண்டிற்கான வரி வருமானத்தை தாக்கல் செய்வது கட்டாயம் என்றும், RAMIS தளம் வழியாக நிகழ்நிலையில் செய்யப்பட வேண்டும் என்றும் திணைக்களம் நினைவூட்டியது.
+
+◼️
+
+[Data](articles/8c162a07.json)
+
+---
 
 ### ”ஜனாதிபதிக்கு பாதுகாப்பும் கொஞ்சம் பொழுதுபோக்கும் தேவை”
 
@@ -1701,25 +1719,5 @@ Iran initially closed its airspace on June 13 following Israeli airstrikes on Te
 ◼️
 
 [Data](articles/8cb384b6.json)
-
----
-
-### US tariff cut vote of confidence on Sri Lanka governance reforms, economy: EDB chief
-
-*2025-08-03 08:45:00* · [`economynextcom`](https://economynext.com/us-tariff-cut-vote-of-confidence-on-sri-lanka-governance-reforms-economy-edb-chief-234355/) · `en`
-
-ECONOMYNEXT – The reduction of a tariff by US President Donald Trump to 20 percent in a vote of confidence on Sri Lanka’s governance reforms and economy, Chairman of Sri Lanka’s Export Development Board, Mangala Wijesinghe said.
-
-“..[I]t is a powerful vote of confidence in Sri Lanka’s economic trajectory, our commitment to governance reforms, and the quality of our exports,” Wijesinghe said.
-
-“This outcome is a testament to the power of sustained diplomacy, mutual respect, and strategic collaboration.”
-
-The government’s consistent efforts led by President Anura Kumara Dissanayake towards fiscal stability, governance reforms, and anti-corruption measures laid the critical groundwork for the result he said.
-
-The the national negotiating team, which, with its expert skills and fact-based approach, successfully navigated this challenging situation he said, thanking diplomatic teams, private sector stakeholders, chambers and associations, and our international partners.
-
-...
-
-[Data](articles/88979a06.json)
 
 ---

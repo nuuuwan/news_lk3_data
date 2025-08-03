@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 05:32:50**
+As of **2025-08-03 06:14:50**
 
 ## Newspaper Stats
 
-*Scraped **68,289** Articles*
+*Scraped **68,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 595
 bbccomsinhala | 677
 colombotelegraphcom | 699
-islandlk | 4,167
 economynextcom | 4,179
+islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
 adalk | 6,562
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.8%) of 68,289 articles have been extended.
+61,973 (90.7%) of 68,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -354,6 +354,18 @@ Authorities were still investigating whether it was a naturally occurring earthq
 
 ---
 
+### Remembering Mr. M.T. Thambapillai – A Pillar of Royal Rugby
+
+*2025-08-02 18:41:00* · [`islandlk`](http://island.lk/remembering-mr-m-t-thambapillai-a-pillar-of-royal-rugby/) · `en`
+
+As Royal College and S. Thomas’ College meet once again on Saturday, 2nd August, to contest the Michael Gunaratne Trophy, the spotlight also shines on the next generation as the Under-16 teams (earlier 2nd XV then Under 18) compete for the M.T. Thambapillai Trophy. This is an ideal moment to remember and honour the legacy of the late Mr. M.T. Thambapillai, a name deeply etched in the history of Royal rugby. Although not a rugby player or a coach in the conventional sense, Mr. Thambapillai played a foundational role in shaping Royal College’s rugby journey. Generations of Royalists who played between 1947 and 1970 fondly recall his influence—with immense respect, admiration, and gratitude.
+
+...
+
+[Data](articles/6b0e448d.json)
+
+---
+
 ### Sri Lanka can be India’s Macau – casino tycoon Lawrence Ho
 
 *2025-08-02 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111099/sri-lanka-can-be-indias-macau-casino-tycoon-lawrence-ho) · `en`
@@ -434,6 +446,18 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 
 ---
 
+### Kailash:The Mountain at the Centre of the World
+
+*2025-08-02 17:41:00* · [`islandlk`](http://island.lk/kailashthe-mountain-at-the-centre-of-the-world/) · `en`
+
+After Mt. Everest, Mt. Kailash is the most celebrated mountain in the Himalayas. The name Kailash is derived from the Sanskrit kailasa meaning ‘crystal.’ It is 6,714 meters above sea level and some 2.000 meters above the surrounding plain. Despite its fame it is by no means the highest mountain in the Himalayas, not even the highest in the region. However, the absence of any high mountains in Kailash’s immediate vicinity gives it the impression of tremendous height and its unusually semi-symmetrically-shaped peak attracts and holds the attention.
+
+...
+
+[Data](articles/6d31bf16.json)
+
+---
+
 ### අගමැතිනිය යාපනයේ සංචාරයක
 
 *2025-08-02 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212946) · `si`
@@ -447,6 +471,20 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 ...
 
 [Data](articles/ff85e96e.json)
+
+---
+
+### Diyagama West Estate and its timeless legacy of tea innovation and sustainability
+
+*2025-08-02 17:30:00* · [`islandlk`](http://island.lk/diyagama-west-estate-and-its-timeless-legacy-of-tea-innovation-and-sustainability/) · `en`
+
+Set amidst the vibrant, emerald hills of Sri Lanka’s central highlands, where waterfalls cascade down cliffs and clouds brush against towering peaks, Diyagama West stands as a tea estate so expansive, rich in history and self-sustaining that it functions more like a hidden kingdom than a plantation where only a few places in the country so seamlessly blend colonial legacy, ecological richness and cutting-edge sustainability.
+
+With over 858 hectares of cultivated land, a resident population of more than 7,000 and tea bushes that date back over 125 years, Diyagama West stands as a timeless giant in Sri Lanka’s central hills, a place where history, community and innovation come together to create some of the finest tea the island has ever known.
+
+...
+
+[Data](articles/aa4b436d.json)
 
 ---
 
@@ -484,6 +522,48 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 
 ---
 
+### HNB Assurance Emerges Insurance Sector Winner at the National Business Excellence Awards 2025
+
+*2025-08-02 16:56:00* · [`islandlk`](http://island.lk/hnb-assurance-emerges-insurance-sector-winner-at-the-national-business-excellence-awards-2025/) · `en`
+
+HNB Assurance PLC was recognized with two significant accolades at the National Business Excellence Awards 2025, hosted by the National Chamber of Commerce of Sri Lanka. HNB Assurance was crowned Winner in the Insurance Sector, while also being awarded Runner-Up in Excellence in Local Market Reach, a prestigious national-level award, affirming the company’s strong performance, both in terms of delivering business excellence within the insurance industry and deepening its presence across diverse local markets through impactful customer engagement and service delivery.
+
+...
+
+[Data](articles/8fd472b2.json)
+
+---
+
+### Seylan Bank Posts 20% Surge in 1H 2025 Profit After Tax
+
+*2025-08-02 16:56:00* · [`islandlk`](http://island.lk/seylan-bank-posts-20-surge-in-1h-2025-profit-after-tax/) · `en`
+
+Seylan Bank PLC has reported a robust performance for the first half of 2025, recording a Profit Before Tax (PBT) of LKR 8.4 billion—an increase of 15.18% from LKR 7.3 billion in the same period last year. Profit After Tax (PAT) rose by 20.41% to LKR 5.49 billion, compared to LKR 4.56 billion in 1H 2024.
+
+Despite a 4.45% dip in net interest income—down to LKR 17.76 billion due to falling market rates and loan repricing—the bank’s fee-based income rose 15.43% to LKR 4.3 billion, driven by growth in cards, remittances, and trade services.
+
+Operating income dipped slightly by 0.71% to LKR 23.1 billion, but strong gains from trading activities and other income helped cushion the impact. Total operating expenses increased by 8.37% to LKR 11.26 billion, mainly due to higher personnel costs and inflation-driven service expenses.
+
+...
+
+[Data](articles/a87d38ab.json)
+
+---
+
+### ICC unveils suspended beam slab system to Revolutionise Lankan construction
+
+*2025-08-02 16:55:00* · [`islandlk`](http://island.lk/icc-unveils-suspended-beam-slab-system-to-revolutionise-lankan-construction/) · `en`
+
+In an era where speed, sustainability, and efficiency define the future of construction, International Construction Consortium (Pvt) Limited (ICC), one of Sri Lanka’s most innovative and forward-thinking construction companies, is poised to reshape the nation’s building landscape. The company has unveiled its groundbreaking Suspended Beam Slab (SBS) system, powered by advanced precast slab technology, promising to deliver stronger structures, faster timelines, and greener processes.
+
+As urban landscapes expand and project deadlines tighten, traditional construction methods, reliant on labour-intensive, on-site concrete casting, are proving increasingly outdated. ICC’s SBS system eliminates the need for on-site slab casting by utilising precast concrete slabs manufactured in a controlled factory setting. These slabs are placed on strategically positioned beams, distributing the load to supporting columns or walls.
+
+...
+
+[Data](articles/d72b6b46.json)
+
+---
+
 ### තමන්ම හැදූ හෙලිකොප්ටරය කඩා වැටී පුද්ගලයෙකු මරුට
 
 *2025-08-02 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212945) · `si`
@@ -505,6 +585,22 @@ A star-studded launch event is scheduled for tonight, with Bollywood actor Hrith
 ◼️
 
 [Data](articles/738fc949.json)
+
+---
+
+### Beginning my stint at Employees’ Trust Fund (ETF)
+
+*2025-08-02 16:38:00* · [`islandlk`](http://island.lk/beginning-my-stint-at-employees-trust-fund-etf/) · `en`
+
+Lessons from my career: synthesising management theory with practice – Part 17
+
+My journey at the Employees’ Trust Fund (ETF) marked a significant chapter in my career. It began with a unique opportunity, as I was interviewed by the President and offered the position of Chairman, ETF Board following my successful tenure at the Ceylon Ceramic Corporation.
+
+Arriving at the ETF was very low-key, unlike the current practice of a ceremony with friends and family, garlands and speeches. I was told to come to the board room where Mr Justin Dias, Secretary of the Labour Ministry, was meeting the senior staff. I went there and, after introductions, assumed office. From the moment I entered the premises, I observed the activities and behaviour of the staff. I had to navigate through the clerical staff tables to reach my office.
+
+...
+
+[Data](articles/e943d476.json)
 
 ---
 
@@ -695,6 +791,18 @@ Police further confirmed that the suspect had initially arrived in Sri Lanka in 
 ...
 
 [Data](articles/bd17c07a.json)
+
+---
+
+### The Rise of the Most Powerful Woman in North Korea
+
+*2025-08-02 15:38:00* · [`islandlk`](http://island.lk/the-rise-of-the-most-powerful-woman-in-north-korea/) · `en`
+
+When the most powerful woman in North Korea declared earlier this week, with surgical clarity, that her nation would not return to dialogue with South Korea and would now only engage the United States on the basis of recognition as a de facto nuclear power, the geopolitical reverberations were profound. On the surface, it was a defiant reaffirmation of Pyongyang’s traditional posture. But beneath the steel language lay a significant ideological repositioning — not only in military terms, but in the very architecture of power within the Democratic People’s Republic of Korea.
+
+...
+
+[Data](articles/f9e22645.json)
 
 ---
 
@@ -1011,6 +1119,22 @@ Visitors from other European countries, as well as Canada and the USA, picked up
 ◼️
 
 [Data](articles/577d9084.json)
+
+---
+
+### Attempt to impeach President Premadasa
+
+*2025-08-02 11:45:00* · [`islandlk`](http://island.lk/attempt-to-impeach-president-premadasa/) · `en`
+
+I was privy to an attempt that was being made by a visiting US Congressman, Stephen Solari, the chairman of an important congressional committee with a reputation for tough talk, to browbeat Premadasa after his direction to the US ambassador that the Israeli interests section should be promptly closed.
+
+The brush-off which the congressman received was, to say the least, not courteous. Premadasa had his way and the section stopped functioning. His attitude towards Israel and conversely his support
+
+for the Arab cause did not stop there. Later there was an important vote at the UN on ‘Zionism being equated with Racism’ and on that occasion Sri Lanka was singular in being one of the few countries to vote in support of the resolution which was lost by a large majority.
+
+...
+
+[Data](articles/8a2e6eb5.json)
 
 ---
 
@@ -1703,155 +1827,5 @@ South Asia’s annual textiles sourcing show, Intex Sri Lanka 2025, will be held
 ...
 
 [Data](articles/f74dd7e0.json)
-
----
-
-### மியன்மாரில் இராணுவ ஆட்சிக்கு முடிவு
-
-*2025-08-02 00:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மியன்மாரில்-இராணுவ-ஆட்சிக்கு-முடிவு/50-362175) · `ta`
-
-மியன்மாரில் 4 ஆண்டுகளாக  உள்ள இராணுவ அவசர நிலை முடிவுக்கு கொண்டு வரப்பட்டு அடுத்த 6 மாதங்களுக்குள் நாடாளுமன்ற தேர்தலை நடத்தப்படும் என இராணுவ அரசாங்கம் அறிவித்துள்ளது.
-
-இராணுவ ஆட்சித்தலைவர் மின் ஆங் ஹிலியாங் செய்தியாளர் சந்திப்பில் கருத்து தெரிவித்த போதே இவ்வாறு குறிப்பிட்டுள்ளார்.
-
-எனவே நேர்மையான முறையில் தேர்தல் நடத்தி மக்களால் தேர்ந்தெடுக்கப்படும் தலைவரிடம் அதிகாரங்கள் ஒப்படைக்கப்படும்.
-
-இதனால் அடுத்த 6 மாதங்களுக்குள் நாடாளுமன்ற தேர்தலை நடத்த அரசாங்கம் திட்டமிட்டுள்ளது. இதற்காக 4 ஆண்டாக உள்ள இராணுவ அவசர நிலை முடிவுக்கு கொண்டு வரப்பட்டுள்ளது என தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/7ba5f3e8.json)
-
----
-
-### யாழில் தேரர் சடலமாக மீட்பு
-
-*2025-08-02 00:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-தேரர்-சடலமாக-மீட்பு/175-362174) · `ta`
-
-யாழ்ப்பாணத்தில் உள்ள  ஆலயங்களை பார்ப்பதற்காக வருகை தந்த தேரர் ஒருவர் யாழில் உள்ள விகாரையில் உயிரிழந்த நிலையில் நேற்று வெள்ளிக்கிழமை காலை சடலமாக மீட்க்கப்பட்டுள்ளார்.
-
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் பதுளை வீதி, பசறையைச் சேர்ந்த வனபதுளே சரணதர தேரர் (வயது 72) என்பவராவார்.
-
-மேற்படி தேரர் யாழில் உள்ள ஆலயங்களை பார்ப்பதற்காக யாழ்ப்பாணம் வந்துள்ளார். நேற்று முன்தினம் வியாழக்கிழமை இரவு விகாரையில் தங்கி இருந்த நிலையில், நேற்று காலை சடலமாக கண்டுபிடிக்கப்பட்டார்.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டு உடற்கூற்று பரிசோதனைக்கு உத்தரவிட்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/fa15c15e.json)
-
----
-
-### Why deportations, border and immigration controls in Global North?
-
-*2025-08-02 00:16:02* · [`dailyftlk`](https://www.ft.lk/columns/Why-deportations-border-and-immigration-controls-in-Global-North/4-779798) · `en`
-
-Deportations, border and immigration controls are other instruments helping the enterprise of an international division of humanity
-
-Trump’s deportation orders, EU’s temporary border controls beginning with the Schengen area and UK’s White Paper on immigration all reflect an underlying fear that the metaphorical wall built by imperialism and globalisation separating those living in zones of conflict and tragedy from those living in relative peace and prosperity, which in other words is the international division of humanity is beginning to crack
-
-...
-
-[Data](articles/d5143aea.json)
-
----
-
-### Ramani, the woman soldier who picked up the pen
-
-*2025-08-02 00:13:21* · [`dailyftlk`](https://www.ft.lk/opinion/Ramani-the-woman-soldier-who-picked-up-the-pen/14-779797) · `en`
-
-Ramani Lalithangani Bandara, one of the pioneering young women to join the Sri Lanka Army Women’s Corps in November 1979 passed away last week. She was 66.
-
-An old girl of Kegalle Balika Vidyalaya, her prowess as an athlete, especially netball, led to her selection to the second intake of the first batch of six young women officers to be trained in the United Kingdom.
-
-Upon her return, Ramani held several senior roles in the fledgling organisation including that of the Adjutant, Training Officer of new women recruits and logistics officer. Promoted Major, she served as a Staff Officer of Legal Affairs and held the post of the 2nd in Command of the 1st Women’s Corps Regiment prior to leaving the army.
-
-Her brother Senani Bandara who also joined the army was captured and killed during the Eelam conflict.
-
-...
-
-[Data](articles/def0a432.json)
-
----
-
-### Sri Lanka’s tariff triumph: Cool President in hot crisis
-
-*2025-08-02 00:05:47* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-tariff-triumph-Cool-President-in-hot-crisis/4-779786) · `en`
-
-How did he do it? Amidst the chaos and confusion he did not panic. Nor did he flounder. He did not shout in the press or scurry in panic. He focussed on what was in his control: understanding what we could do and putting in place the best negotiating team for Sri Lanka
-
-Donald Trump’s tariffs shook the world. Financial markets around the world plunged. The US stock market registered its largest two-day loss in history. Businesses and politicians were in panic.
-
-Sri Lanka was one of the worst affected. The Trump tariffs would have increased the cost of Sri Lankan exports to the US by 44% overnight. Equally catastrophically, the tariffs imposed on other countries were lower. Our exports would have faced the sixth highest tariff in the world. India was at 27%, Bangladesh 37% and Pakistan 30%. Sri Lanka’s hard earned recovery was about to be reversed. Tens of thousands of jobs were in jeopardy.
-
-...
-
-[Data](articles/b65efdcb.json)
-
----
-
-### Three years after Aragalaya: bring on the next revolution
-
-*2025-08-02 00:03:45* · [`dailyftlk`](https://www.ft.lk/columns/Three-years-after-Aragalaya-bring-on-the-next-revolution/4-779785) · `en`
-
-If a people’s movement such as the Aragalaya is to actualise ALL of its ambitions, it must be a perpetual revolution
-
-The closing of ranks by a widely despised regime in the aftermath of July 2022 served Sri Lanka in at least one sterling sense. In that those who stepped up to the plate, or into the breach caused by the ignominious exit of a discredited president, steadied the ship of state through the direst of the straits we have sailed to date. One can but hope that in similar vein, even the ranks of Tuscany, who despise the incumbent administration – in city, chamber, council, cabal, coffee-morning and cocktail circuits – would come to see and lever the power of the people made manifest to effect what is best for nation, state, country, the spirit of governance and the soul of Sri Lanka. That would be a revolution in itself: a consummation devoutly to be wished
-
-...
-
-[Data](articles/79cd01a9.json)
-
----
-
-### “Bait of ruble and shadow  of war: Sri Lanka’s mercenary scandal” – A response
-
-*2025-08-02 00:01:29* · [`dailyftlk`](https://www.ft.lk/opinion/Bait-of-ruble-and-shadow-of-war-Sri-Lanka-s-mercenary-scandal-A-response/14-779784) · `en`
-
-In connection with the “Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal” publication by Roy Denish in the “Weekend Financial Times” on 26 July 2025, the Russian Embassy would like to point out the following.
-
-The said article is evidently of a contract nature and is likely to be lavishly remunerated by foreign donors. It includes a number of false statements. Sri Lankan volunteers taking part in the Russian Special Military Operation were informed on all terms, conditions and privileges of the service while signing contracts with the Armed Forces of the Russian Federation.
-
-The Russian Federation treats with deep respect the heroic feat of Sri Lankan citizens fighting against the Nazism supported by the West. Our country completely fulfils and will continue to fulfil its commitments in relation to the military men and their families.
-
-...
-
-[Data](articles/14937973.json)
-
----
-
-### Historic pageant of the hill capital
-
-*2025-08-02 00:01:10* · [`dailyftlk`](https://www.ft.lk/columns/Historic-pageant-of-the-hill-capital/4-779783) · `en`
-
-The performances of the ‘Kandyan Dancers’ in their traditional costumes are an eye catching item in the Kandy Esala Perahera
-
-The ‘Esala Maha Perahera’ of Kandy – the historic pageant of the hill country has once again commenced parading the streets, bringing much joy, veneration and enthusiasm among the Buddhists as well as many non-Buddhists in Sri Lanka.
-
-This historic annual pageant is held as homage to the sacred tooth relic of the Buddha in keeping with the age-old traditions. The annual Esala Maha Perahera of Kandy has many facets in it being a religious, cultural as well as a historical event in Sri Lanka.
-
-The sacred tooth relic of the Buddha which is believed to have been brought to Sri Lanka by Prince Dantha and Princes Hemamala from India during the reign of Keerthi Sri Meghawarna (303—331 AD) had gradually become a great religious object in Sri Lanka and also a personal property of the King which symbolised the kingship of the country.
-
-...
-
-[Data](articles/c1614b7e.json)
-
----
-
-### 2025-08-01 (Friday)
-
-### 71 ஆவது தேசிய திரைப்பட விருதுகள் அறிவிப்பு
-
-*2025-08-01 23:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/71-ஆவது-தேசிய-திரைப்பட-விருதுகள்-அறிவிப்பு/175-362173) · `ta`
-
-71 ஆவது தேசிய திரைப்பட விருதுகள் அறிவிக்கப்பட்டுள்ளன. அதன்படி, 2023 ஆம் ஆண்டுக்கான இந்த விருதுகள் பட்டியலில், சிறந்த தமிழ்த் திரைப்படத்துக்கான தேசிய விருது ‘பார்க்கிங்’ திரைப்படத்துக்கு அறிவிக்கப்பட்டுள்ளது.
-
-அதேபோல் இந்தப் படத்தில் நடித்த எம்.எஸ். பாஸ்கருக்கு சிறந்த உறுதுணை நடிகர் விருதும், இப்படத்துக்கு சிறந்த திரைக்கதைக்கான விருதும் அறிவிக்கப்பட்டுள்ளது.
-
-‘பார்க்கிங்’ திரைப்படத்தை ராம்குமார் பாலகிருஷ்ணன் இயக்கியிருந்தார். இப்படத்தை ஃபேஷன் ஸ்டுடியோஸ் நிறுவனம் தயாரித்தது. ஹரிஷ் கல்யாண், எம்.எஸ்.பாஸ்கர், இந்துஜா, ராமா ராஜேந்திரா, இளவரசு உள்ளிட்ட பலர் நடித்துள்ளனர். சாம் சி.எஸ். இசையமைத்திருந்தார். விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் இந்தப் படம் மிகுந்த வரவேற்பைப் பெற்றிருந்தது குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/5e4ad695.json)
 
 ---

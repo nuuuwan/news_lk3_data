@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-03 18:57:55**
+As of **2025-08-03 19:24:22**
 
 ## Newspaper Stats
 
-*Scraped **68,429** Articles*
+*Scraped **68,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,180
 islandlk | 4,180
 dailymirrorlk | 4,733
 dailyftlk | 4,821
-adalk | 6,582
-adaderanalk | 8,477
-tamilmirrorlk | 9,930
+adalk | 6,583
+adaderanalk | 8,478
+tamilmirrorlk | 9,931
 virakesarilk | 11,401
 adaderanasinhalalk | 11,789
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.6%) of 68,429 articles have been extended.
+61,973 (90.6%) of 68,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-03 (Sunday)
+
+### ”ஜனாதிபதிக்கு பாதுகாப்பும் கொஞ்சம் பொழுதுபோக்கும் தேவை”
+
+*2025-08-03 18:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-பாதுகாப்பும்-கொஞ்சம்-பொழுதுபோக்கும்-தேவை/175-362219) · `ta`
+
+ஜனாதிபதிக்கு பாதுகாப்பு தேவை, அதே நேரத்தில் அவர் பொழுதுபோக்கை அனுபவிக்க வேண்டும் என்று ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் எஸ்.எம். மரிக்கார் இன்று தெரிவித்தார்.
+
+"ஜனாதிபதிக்கு போதுமான பாதுகாப்பு தேவை, அதே நேரத்தில் சில நேரங்களில் அவருக்கு பொழுதுபோக்கு தேவை. ஒரு ஜனாதிபதி தனது பணியைச் செய்யும்போது மன அழுத்தத்திற்கு ஆளாகிறார். எனவே, எப்போதும் மன அழுத்தத்தில் வேலை செய்யக்கூடாது என்பதால் அவருக்கு பொழுதுபோக்கு தேவை" என்று எம்.பி. கூறினார்.
+
+முன்னாள் ஜனாதிபதிகளுக்கும் போதுமான பாதுகாப்பு வழங்கப்பட வேண்டும் என்று அவர் கூறினார். முன்னாள் ஜனாதிபதிகள் கடந்த காலத்தில் தேசத்திற்கு சேவை செய்தவர்கள். எனவே, அவர்களுக்கு பாதுகாப்பு வழங்குவதில் எந்தத் தவறும் இல்லை. இருப்பினும், அவர்களுக்கு ஊழியர்கள் மற்றும் அலுவலகங்கள் போன்ற கூடுதல் ஆடம்பரங்களை வழங்கக்கூடாது, ”என்று எம்.பி. மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/60a85d17.json)
+
+---
 
 ### විදෙස් සංචාරකයින්ට අද සිට කටුනායකින්ම රියදුරු බලපත්‍ර
 
@@ -39,8 +55,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ශ්‍රී ලංකාවට පැමිණෙන විදේශීය සංචාරකයන්ට, වීසා කාලය අනුව මෙරටට වලංගු වන රියදුරු බලපත්‍ර සුළු කාලයකින් ලබා ගැනීමේ පහසුකම සහිත මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නව ශාඛා කාර්යාලයක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අද (03) විවෘත විය.
 
 ඒ ප්‍රවාහන මහාමාර්ග, සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතාගේ ප්‍රධානත්වයෙනි.
-
-වසරකට වඩා වැඩි කාලයක් මෙරට රැදී සිටින විදේශීය සංචාරකයන්ට, බර වාහන සදහා රියැදුරු බලපත්‍ර තිබේ නම් ඔවුන් සදහා ද, ත්‍රිරෝද රථ පැදවීම සදහා ඉන්දියාව වැනි රටවල සිට මෙරටට පැමිණෙන සංචාරකයන් සදහා ද මෙම ශාඛා කාර්යාලයෙන් රියැදුරු බලපත්‍ර ලබා ගත හැකියි.
 
 මෙම අවස්ථාවට මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් කමල් අමරසිංහ, සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති විශ්‍රාමික හර්ෂ අබේවික්‍රම, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ සභාපති සුනිල් ජයරත්න යන මහත්වරුන් ඇතුළු විශාල පිරිසක් සහභාගී වී සිටියහ.
 
@@ -69,6 +83,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4dcd65e4.json)
+
+---
+
+### 7-year-old girl killed in wild elephant attack in Hambantota
+
+*2025-08-03 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111129/7-year-old-girl-killed-in-wild-elephant-attack-in-hambantota) · `en`
+
+A 7-year-old child has died after being attacked by a wild elephant in the Sinukkugala area of Hambantota.
+
+The deceased was a 7-year-old girl who was in Grade 2 at school.
+
+Her father, who also sustained critical injuries in the elephant attack, has been admitted to the District General Hospital in Hambantota.
+
+The incident occurred at around 6.00 a.m. today (03), while the girl was accompanied her father to the cultivation land.
+
+The girl had reportedly been helping her father with farming activities, as it was a school holiday, when the wild elephant had attacked both of them.
+
+◼️
+
+[Data](articles/13135805.json)
 
 ---
 
@@ -177,6 +211,28 @@ Accordingly, the ministry stated that the relevant charge sheet was submitted to
 ◼️
 
 [Data](articles/4f4d0212.json)
+
+---
+
+### ගන්දර වෙඩි තැබීමත් දෙවිනුවර තරුණයන්ගේ වෙඩි තැබීමට සම්බන්ධද? සී.සී.ටී.වී. දර්ශනත් එයි
+
+*2025-08-03 16:41:09* · [`adalk`](https://www.ada.lk/picture_story/ගන්දර-වෙඩි-තැබීමත්-දෙවිනුවර-තරුණයන්ගේ-වෙඩි-තැබීමට-සම්බන්ධද--සී-සී-ටී-වී--දර්ශනත්-එයි/10-417687) · `si`
+
+දෙවිනුවර දේවාලය ඉදිරිපිට දී වෙඩි තබා ඝාතනය කළ තරුණයින් දෙදෙනාගේ ළගම මිතුරෙකුගේ පියා ඉලක්ක කර ගෙන ගන්දර කපුගම දී අද (03) උදෑසන වෙඩි ප්‍රහාරයක් එල්ල කර ඇති බව ගන්දර පොලීසිය පවසයි.
+
+දැනට විදෙස්ගතව සිටින එම මිතුරා ඝාතනයට ලක්වු තරුණයින් දෙදෙනාගේ තුන් මාසයේ පිංකම වෙනුවෙන් අයිස් ක්‍රීම් දන්සැලක් දීමට මූලිකත්වය ගෙන කටයුතු කිරීම හා ඔවුන්ගේ රුව සහිතව ශරීරයේ ටැටූ කොටා එහි ඡායාරූපයක් සමාජ මාධ්‍යයට දැමීම පිළිබඳව උරණ වී ඔහුගේ පියාට වෙඩි තබන්නට ඇති බවට පොලීසිය සැක කරයි.
+
+තවද මෙම වෙඩි තැබීම ඩුබායි හී සැගවී සිටින දෙවිනුවර දෙහි බාලේ මල්ලී නැමැත්තා විසින් මෙහෙයවන්නට ඇති බවට ද පොලිස් පරීක්ෂණ වලදී අනාවරණය වී ඇත.
+
+වෙඩි වැදීමෙන් සුලු තුවාල ලබා ඇත්තේ හේවා පාතගේ ප්‍රසාද් නිශාන්ත (48) නැමැති තිදරු පියෙකි.
+
+ගන්දර මාතර මාර්ගයේ පෞද්ගලික බසයක හා බහු දින යාත්‍රා දෙකක හිමිකරුවෙකු වු ඔහු වෛද්‍ය ප්‍රතිකාර සදහා මාතර මහ රෝහල වෙත ඇතුළත් කර සිටී.
+
+ස්කූටි වර්ගයේ යතුරුපැදියකින් මාතර දෙස සිට පැමිණි නාදුනන පුද්ගලයින් දෙදෙනෙකු එම නිවස ඉදිරිපිට ගේට්ටුව ලග සිට නිවස දෙසට ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි ප්‍රහාරය එල්ල කර තිබේ.
+
+...
+
+[Data](articles/b7f9536e.json)
 
 ---
 
@@ -1665,71 +1721,5 @@ The the national negotiating team, which, with its expert skills and fact-based 
 ...
 
 [Data](articles/88979a06.json)
-
----
-
-### මාතර කපුගම ප්‍රදේශයේ වෙඩි තැබීමක්
-
-*2025-08-03 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212957) · `si`
-
-මාතර කපුගම ප්‍රදේශයේ අද (03) උදෑසන 6.35ට පමණ වෙඩි තැබීමක් සිදුව තිබේ.
-
-පොලීසිය පැවසුවේ නාඳුනන පුද්ගලයින් දෙදෙනෙකු යතුරුපැදියකින් පැමිණ ටී 56 ගිනි අවියක් භාවිත කරමින් නිවසක සිටි පුද්ගලයෙකු ඉලක්ක කර මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
-
-වෙඩි වැදීමෙන් 48 හැවිරිදි පුද්ගලයෙකු තුවාල ලබා ඇති අතර වෙඩි වැදීමෙන් ඔහුගේ පාදයකට සුළු තුවාල සිදුව තිබේ
-
-තුවාලකරු බස් රථ හිමිකරුවෙක් සහ බහුදින ධීවර යාත්‍රා හිමි ව්‍යාපාරිකයෙක් බවද පොලීසිය පැවසීය.
-
-පසුගිය මාර්තු 21 දින දෙවිනුවර ශ්‍රී විෂ්ණු දේවාලයේ දකුණු වාහල්කඩ අසල සිදුවූ වෙඩි තැබීමෙන් ඝාතනයට ලක්වූ පසිඳු තාරක සහ යොමේස් නදීෂාන් දෙදෙනාගේ පවුලේ පුද්ගලයින් සහ වෙඩි තැබීමෙන් තුවාල ලැබූ පුද්ගලයා අතර ඇති හිතවත්කම හේතුවෙන් සංවිධානාත්මක හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන දැනට ඩුබායි රාජ්‍යයේ සිටින ෂෙහාන් සත්සර නොහොත් දෙහිබාල මල්ලීගේ මෙහෙයවීමෙන් මෙම වෙඩි තැබීම සිදුකර ඇතැයි පොලීසිය සැකපළ කරයි.
-
-වෙඩි තැබීම සිදුව ඇති ස්ථානයේ තිබී ටී 56 උණ්ඩ 03ක්ද පොලීසිය විසින් සොයාගෙන තිබේ.
-
-◼️
-
-[Data](articles/b69db38e.json)
-
----
-
-### One person injured in shooting incident in Matara
-
-*2025-08-03 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111113/one-person-injured-in-shooting-incident-in-matara-) · `en`
-
-An individual has sustained injuries in a shooting incident reported in Kapugama, Matara at around 6:35a.m. today (03), police stated.
-
-According to police, two unidentified individuals arrived on a motorcycle and carried out the shooting using a T-56 assault rifle, targeting a person who was at a house.
-
-A 48-year-old man was injured in the shooting, sustaining a minor wound to his leg.
-
-Police said the injured person is a bus owner and also a businessman who owns multiple fishing vessels.
-
-Police suspect that the shooting was orchestrated by Shehan Sathsara, also known as ‘Dehibala Malli’, a known organized criminal and drug trafficker currently residing in Dubai.
-
-This act is believed to be motivated by a personal connection between the injured man and the families of Pasindu Tharaka and Yomesh Nadishan, who were shot dead near the southern entrance of the Sri Vishnu Temple in Dondra on March 21, as well as with an individual injured in that same incident.
-
-...
-
-[Data](articles/b3d4f7c2.json)
-
----
-
-### One person injured in shooting incident reported in Matara
-
-*2025-08-03 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111113/one-person-injured-in-shooting-incident-reported-in-matara-) · `en`
-
-An individual has sustained injuries in a shooting incident reported in Kapugama, Matara at around 6:35a.m. today (03), police stated.
-
-According to police, two unidentified individuals arrived on a motorcycle and carried out the shooting using a T-56 assault rifle, targeting a person who was at a house.
-
-A 48-year-old man was injured in the shooting, sustaining a minor wound to his leg.
-
-Police said the injured person is a bus owner and also a businessman who owns multiple fishing vessels.
-
-Police suspect that the shooting was orchestrated by Shehan Sathsara, also known as ‘Dehibala Malli’, a known organized criminal and drug trafficker currently residing in Dubai.
-
-This act is believed to be motivated by a personal connection between the injured man and the families of Pasindu Tharaka and Yomesh Nadishan, who were shot dead near the southern entrance of the Sri Vishnu Temple in Dondra on March 21, as well as with an individual injured in that same incident.
-
-...
-
-[Data](articles/e6154c9f.json)
 
 ---

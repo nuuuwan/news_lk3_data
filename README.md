@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 01:16:49**
+As of **2025-08-04 01:30:56**
 
 ## Newspaper Stats
 
-*Scraped **68,455** Articles*
+*Scraped **68,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 4,821
 adalk | 6,588
 adaderanalk | 8,481
 tamilmirrorlk | 9,934
-virakesarilk | 11,406
+virakesarilk | 11,407
 adaderanasinhalalk | 11,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,455 articles have been extended.
+61,973 (90.5%) of 68,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/01e1ab49.json)
+
+---
+
+### அண்டர்சன் - டெண்டுல்கர் தொடரை கைப்பற்ற இங்கிலாந்துக்கு 35 ஓட்டங்களும் சமப்படுத்த இந்தியாவுக்கு 4 விக்கெட்களும் தேவை
+
+*2025-08-04 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221731) · `ta`
+
+இங்கிலாந்துக்கும் இந்தியாவுக்கும் இடையில் நடைபெற்றுவரும் அங்குரார்ப்பண அண்டர்சன் - டெண்டுல்கர் டெஸ்ட் தொடரைக் கைபற்ற கடைசி டெஸ்டில் இங்கிலாந்துக்கு 35 ஓட்டங்களும் சமப்படுத்த இந்தியாவுக்கு 4 விக்கெட்களும் தேவைப்படுகிறது.
+
+கெனிங்டன் ஓவல் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐந்தாவதும் கடைசியுமான இந்த டெஸ்ட் போட்டியில் 374 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடிவரும் இங்கிலாந்து 6 விக்கெட்களை இழந்து 339 ஓட்டங்களைப் பெற்றிருந்தபோது நான்காம் நாள் ஆட்டம் போதிய வெளிச்சமின்மை காரணமாக நிறுத்தப்பட்டது.
+
+இங்கிலாந்து அதன் இரண்டாவது இன்னிங்ஸில் ஒரு கட்டத்தில் 3 விக்கெட்களை இழந்து 301 ஓட்டங்களைப் பெற்று மிகவும் பலமான நிலையில் இருந்ததுடன் நான்காம் நாளன்றே வெற்றி பெற்று தொடரைக் கைப்பற்றி விடும் என எதிர்பார்க்கப்பட்டது.
+
+ஆனால், இங்கிலாந்தின் அடுத்த 3 விக்கெட்களை 36 ஓட்டங்கள் வித்தியாசத்தில் இந்தியா வீழ்த்தியதால் போட்டியில் எந்த அணியும் வெற்றி பெறலாம் என்ற நிலை உருவாகியுள்ளது.
+
+...
+
+[Data](articles/651a1396.json)
 
 ---
 
@@ -1741,21 +1759,5 @@ Police also suspect that the individual is connected to the drug network operate
 ◼️
 
 [Data](articles/60bf8776.json)
-
----
-
-### Protesters in Bangkok demand resignation of court-suspended prime minister following deadly conflict
-
-*2025-08-03 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111118/protesters-in-bangkok-demand-resignation-of-court-suspended-prime-minister-following-deadly-conflict) · `en`
-
-Protesters rallied Saturday in the Thai capital to demand the resignation of court-suspended Prime Minister Paetongtarn Shinawatra and in support of the armed forces following a violent border dispute with Cambodia that killed more than three dozen people and displaced over 260,000.
-
-Gathered at Bangkok’s Victory Monument despite soaring temperatures, many sang patriotic songs and listened to speeches denouncing Paetongtarn and her father, Thaksin Shinawatra, a former prime minister, and voiced their backing of the country’s army, which has always retained substantial power in the Southeast Asian country. Police said there were about 2,000 protesters by mid-afternoon, though more were expected to join as the temperature cooled.
-
-Some locals accuse Paetongtarn and her family of allowing the conflict — which stretches back decades with both sides claiming pockets of land near the shared border — to escalate due to their close ties with Cambodia’s former prime minister, Hun Sen.
-
-...
-
-[Data](articles/0a2f4b0f.json)
 
 ---

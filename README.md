@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 11:30:32**
+As of **2025-08-04 11:55:15**
 
 ## Newspaper Stats
 
-*Scraped **68,537** Articles*
+*Scraped **68,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,594
-adaderanalk | 8,489
+adaderanalk | 8,491
 tamilmirrorlk | 9,952
 virakesarilk | 11,418
-adaderanasinhalalk | 11,804
+adaderanasinhalalk | 11,805
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,537 articles have been extended.
+61,973 (90.4%) of 68,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධියේ  සැකකරුවෙකුගේ ඇප ඉල්ලීම ගැන නියෝගය කල්යයි
+
+*2025-08-04 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212997) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් රෝහල්වලට සැපයීමේ සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු පිරිසකට එරෙහිව ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ ගොනු කර ඇති නඩුවේ විත්තිකරුවකු වූ මේ වන විට රක්ෂිත බන්ධනාගාර ගත කර සිටින අදාළ ඖෂධ සමාගමේ හිමිකරු වන සුදත් ජානක ප්‍රනාන්දු නමැත්තා විසින් ගොනු කරනු ලැබූ ඇප ඉල්ලීම පිළිබඳ නියෝගය අගෝස්තු මස 07 වනදා ප්‍රකාශයට පත්කරන බව කොළඹ මහාධිකරණය අද (04) නියෝග කළේය.
+
+මෙම ඇප ඉල්ලීම පිළිබඳ නියෝගය අද දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණි.
+
+එහෙත් කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංගවංශ මහත්මිය දැනුම් දුන්නේ එම නියෝගය මේ මස 07 වනදා ප්‍රකාශයට පත් කරන බවය.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මෙරට රෝහල් පද්ධතිය තුළ බෙදා හැරීමේ සිද්ධියේ පළමු සැකකරු ලෙස පෙත්සම්කාර ඖෂධ සමාගමේ හිමිකරු වන සුදත් ජානක ප්‍රනාන්දු නම් කර ඇත.
+
+වසර එකහමාරකට ආසන්න කාලයක් රක්ෂිත බන්ධනාගාර ගත කර සිටින තමන්ව ඇප මත මුදා හැරීම මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය විසින් ප්‍රතික්ෂේප කර තිබෙන බව සැකකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/c5f245ab.json)
+
+---
 
 ### யானையை வைத்திருந்த நீதிபதிக்கு சிக்கல்
 
@@ -398,6 +418,26 @@ At the time the ASPI crossed this significant threshold, today’s turnover was 
 
 ### Sri Lanka earned $3.7 bln from tourist arrivals in six months - Foreign Minister
 
+*2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months-foreign-minister) · `en`
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath stated that an income of $3.7 billion has been generated from tourist arrivals over the past six months.
+
+He added that another $3.7 billion in revenue is expected by the end of the year.
+
+Minister Herath made these remarks while attending an event at the Seeta Amman Kovil in Nuwara Eliya.
+
+He explained that Indians are the largest group of tourists arriving in Sri Lanka, with many coming for religious purposes, and added that religious sites such as Koneswaram Temple and Kataragama are particularly popular among them.
+
+Commenting further, he said, “That is a major strength for us. As you know, we were economically bankrupt. To recover from that situation, we need to rapidly develop the tourism industry. We are working toward that goal. So far, 1.3 million tourists have arrived, and we have earned $3.7 billion in revenue in the past six months.
+
+...
+
+[Data](articles/2f458031.json)
+
+---
+
+### Sri Lanka earned $3.7 bln from tourist arrivals in six months - Foreign Minister
+
 *2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months) · `en`
 
 Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath stated that an income of $3.7 billion has been generated from tourist arrivals over the past six months.
@@ -443,6 +483,18 @@ Commenting further, he said, “That is a major strength for us. As you know, we
 ...
 
 [Data](articles/00db2a8d.json)
+
+---
+
+### Gampaha-Colombo private bus owners suspend services
+
+*2025-08-04 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111137/gampaha-colombo-private-bus-owners-suspendservices) · `en`
+
+Private bus services operating from Gampaha to Colombo and several other destinations have been suspended in protest over restrictions on stopping at certain locations, the Gampaha Private Bus Owners’ Association announced.
+
+◼️
+
+[Data](articles/26f642a1.json)
 
 ---
 
@@ -1661,57 +1713,5 @@ During the event, the Minister presented the first driver’s license to an Indi
 ◼️
 
 [Data](articles/0ce6eb3f.json)
-
----
-
-### විදෙස් සංචාරකයින්ට අද සිට කටුනායකින්ම රියදුරු බලපත්‍ර
-
-*2025-08-03 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212980) · `si`
-
-ශ්‍රී ලංකාවට පැමිණෙන විදේශීය සංචාරකයන්ට, වීසා කාලය අනුව මෙරටට වලංගු වන රියදුරු බලපත්‍ර සුළු කාලයකින් ලබා ගැනීමේ පහසුකම සහිත මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නව ශාඛා කාර්යාලයක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අද (03) විවෘත විය.
-
-ඒ ප්‍රවාහන මහාමාර්ග, සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතාගේ ප්‍රධානත්වයෙනි.
-
-මෙම අවස්ථාවට මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් කමල් අමරසිංහ, සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති විශ්‍රාමික හර්ෂ අබේවික්‍රම, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ සභාපති සුනිල් ජයරත්න යන මහත්වරුන් ඇතුළු විශාල පිරිසක් සහභාගී වී සිටියහ.
-
-මෙහි ප්‍රථම රියැදුරු බලපත්‍රය ඉන්දියානු ජාතිකයෙකුටත්, දෙවැන්න ඉතාලි ජාතිකයෙකුටත් අමාත්‍යවරයා විසින් පිරිනැමීම සිදු කෙරුණි.
-
-◼️
-
-[Data](articles/5457d55a.json)
-
----
-
-### නව අධ්‍යාපන ප්‍රතිසංස්කරණය තුළ කිසිදු දරුවෙක් අසමත් වෙන්නේ නෑ - අගමැති හරිනි
-
-*2025-08-03 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212979) · `si`
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණය තුළ කිසිදු දරුවෙක් අසමත් නොවන බවත්,  ශාස්ත්‍රීය සහ වෘත්තීය දෙඅංශයෙන්ම දරුවන්ට උසස් අධ්‍යාපනය දක්වා හදාරන්න දරුවන්ට අවස්ථාව ලැබෙන බවත් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවා ය.
-
-යාපනය තරුණ ක්‍රිස්තියානි සංගම් ශාලාවේ ඊයේ (02) පැවති උතුරු පළාත් විද්වත් වෘත්තීකයින්ගේ හමුව අමතමින් අග්‍රාමාත්‍යවරිය මේ බව පැවසීය.
-
-මෙහිදී වැඩිදුරටත් අදහස් දැක් වූ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය, ආචාර්ය හරිනි අමරසූරිය,
-
-"සාම්ප්‍රදායික් අධ්‍යාපන ක්‍රමය වෙනුවට ශ්‍රාස්ත්‍රිය සහ වෘත්තීය යන දෙඅංශයෙන්ම දරුවන්න උසස් අධ්‍යාපනය දක්වා හදාරන්න නව අධ්‍යාපන ප්‍රතිසංස්කරණය තුලින් කටයුතු කරනවා.
-
-තවමත් සමහර පිරිස් වැරදි මතවාද අරගෙන යනවා ඉතිහාසය හා ආගම සහ සෞන්දර්යය විෂයන් යෝජිත ප්‍රතිසංස්කරණ මගින් විෂයමාලාවෙන් ඉවත්කර ඇති බවට, ඒ  සාවද්‍ය ප්‍රකාශවල කිසිඳු පදනමක් නැහැ. ඉතිහාසය සෛෟන්දර්ය හෝ ආගම යන විෂයන් කිසිම ලෙසකින් විෂය මාලාවෙන් ඉවත් කර නැහැ.
-
-...
-
-[Data](articles/4dcd65e4.json)
-
----
-
-### The Kattankudy Mosque Massacre: A Day Of Bloodshed Sri Lankan Muslims Cannot Forget
-
-*2025-08-03 17:42:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-kattankudy-mosque-massacre-a-day-of-bloodshed-sri-lankan-muslims-cannot-forget/) · `en`
-
-On August 3, 1990, one of the darkest chapters in Sri Lanka’s ethnic conflict unfolded when the Liberation Tigers of Tamil Eelam (LTTE) carried out a brutal massacre at the Kattankudy Mosque in Eastern Province. Over 147 Muslim worshipperswere mercilessly gunned down while offering their prayers in what remains one of the most horrific attacks against the Muslim community in Sri Lanka.
-
-That evening, as devout Muslims gathered for Isha prayers, LTTE militants stormed the mosque and opened fire indiscriminately. The attackers showed no mercy—men, elderly worshippers, and even young boys were slaughtered in cold blood. Survivors recounted scenes of unimaginable terror as the militants ensured no one escaped alive. The massacre was part of a broader campaign of ethnic cleansing by the LTTE, which sought to expel Muslims from areas they claimed as part of a Tamil homeland.
-
-...
-
-[Data](articles/fec0fc8c.json)
 
 ---

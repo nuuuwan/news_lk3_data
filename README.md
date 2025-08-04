@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 00:49:34**
+As of **2025-08-05 01:06:29**
 
 ## Newspaper Stats
 
-*Scraped **68,669** Articles*
+*Scraped **68,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 703
 economynextcom | 4,186
 islandlk | 4,190
 dailymirrorlk | 4,733
-dailyftlk | 4,837
+dailyftlk | 4,838
 adalk | 6,616
 adaderanalk | 8,514
 tamilmirrorlk | 9,984
@@ -26,9 +26,27 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,669 articles have been extended.
+61,973 (90.2%) of 68,670 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-05 (Tuesday)
+
+### Sri Lankan design talent  makes global mark at  Graduate Fashion Week London
+
+*2025-08-05 00:38:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-design-talent-makes-global-mark-at-Graduate-Fashion-Week-London/34-779881) · `en`
+
+When Sri Lankan design talent takes the stage at events like London’s Graduate Fashion Week, it signals more than individual success, it proves that creative youth from our island can compete globally and highlights the untapped potential of our creative industries.
+
+This year, that promise was brought to life by Nethangi Fernando, an emerging designer from AOD, who presented her final-year collection at the world’s largest platform for new fashion talent. Her work, developed in collaboration with Inqube — a Brandix innovation arm showcased how local education, combined with strong industry partnerships, can deliver global impact.
+
+Following her showcase, Nethangi joined Inqube’s design team, marking a smooth transition from student to professional. Her journey is a powerful example of AOD’s international curriculum and industry-integrated model working together to launch creative careers that reach far beyond Sri Lanka.
+
+...
+
+[Data](articles/331fad5b.json)
+
+---
 
 ### 2025-08-04 (Monday)
 
@@ -1861,23 +1879,5 @@ Singer (Sri Lanka) PLC is a publicly listed company owned by Hayleys PLC, which 
 ...
 
 [Data](articles/59c76a06.json)
-
----
-
-### Substandard drug imports case: Ruling on Sudath Janaka’s bail application on Friday
-
-*2025-08-04 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111146/substandard-drug-imports-case-ruling-on-sudath-janakas-bail-application-on-friday) · `en`
-
-The Colombo High Court today (04) announced that the order regarding the bail application filed by Sudath Janaka Fernando, the owner of the company that supplied substandard drugs and who is currently in remand custody, will be delivered on August 7.
-
-The bail application is filed in relation to the case being heard before a Trial-at-Bar bench of the High Court against former Minister of Health Keheliya Rambukwella and several others, over the alleged import of substandard human immunoglobulin vials.
-
-The order on the bail application was initially scheduled to be pronounced today (04). However, Colombo High Court Judge Indrika Kalingawansa stated that the decision will now be delivered on August 7.
-
-Sudath Janaka Fernando, named as the first suspect in the case concerning the distribution of substandard human immunoglobulin vials within the local hospital system, has been in custody for nearly a year and a half.
-
-...
-
-[Data](articles/2b6e76e3.json)
 
 ---

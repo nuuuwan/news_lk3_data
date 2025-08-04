@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 03:06:36**
+As of **2025-08-05 03:19:57**
 
 ## Newspaper Stats
 
-*Scraped **68,677** Articles*
+*Scraped **68,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
-economynextcom | 4,186
 islandlk | 4,190
+economynextcom | 4,191
 dailymirrorlk | 4,733
 dailyftlk | 4,838
 adalk | 6,616
 adaderanalk | 8,514
-tamilmirrorlk | 9,984
+tamilmirrorlk | 9,985
 virakesarilk | 11,446
 adaderanasinhalalk | 11,829
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,677 articles have been extended.
+61,973 (90.2%) of 68,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### அத்துமீறிய மீன்பிடிப் படகு கைப்பற்றப்பட்டது
+
+*2025-08-05 03:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துமீறிய-மீன்பிடிப்-படகு-கைப்பற்றப்பட்டது/175-362311) · `ta`
+
+இலங்கை கடல் பரப்பில் அத்துமீறிய இந்திய மீன்பிடி படகு ஒன்று மன்னார் வடக்கு கடற்பரப்பில் கடற்படையினரால் கைப்பற்றப்பட்டது.
+
+இலங்கை கடற்படையினர், நேற்று முன்தினம் இரவு யாழ்ப்பாணம் நெடுந்தீவிற்கு அன்மித்த கடல் பரப்பில் சட்டவிரோதமாக நுழைந்த சந்தேகத்திற்கிடமான இந்திய மீன்பிடிப் படகை கடற்படையினர் கைப்பற்றினர்.
+
+அதன்படி வடக்கு கடற்படை கட்டளையினால் யாழ்ப்பாணம் நெடுந்தீவுக்கு அருகில் இலங்கை கடல் எல்லைக்குள் நுழைந்த பல இந்திய மீன்பிடி படகுகளை அவதானித்ததுடன், மேலும் அந்த மீன்பிடி படகுகளை இலங்கை கடல் எல்லையிலிருந்து அகற்ற வடக்கு கடற்படை கட்டளையுடன் இணைக்கப்பட்ட கடலோர படகுகளால் ஒரு சிறப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+அங்கு, இலங்கை கடற்படையினர் உள்ளூர் கடல் எல்லையில்  ஒரு இந்திய மீன்பிடி படகில் சட்டப்பூர்வமாக ஏறி ஆய்வு செய்து, எல்லைச் சட்டங்களை மீறி இலங்கை கடல் எல்லையில் சட்டவிரோதமாக பயணித்த அந்த இந்திய மீன்பிடி படகுடன் நான்கு இந்திய மீனவர்களும் கைது செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/31c92747.json)
+
+---
 
 ### பாலஸ்தீனம் தொடர்பில் ஐக்கிய இராச்சியத்தின் நிலைப்பாடு ஏன் முக்கியத்துவம் வாய்ந்ததாக இருக்கிறது?
 
@@ -368,6 +386,24 @@ Asked about plans to widen the military campaign, Israeli Foreign Minister Gideo
 
 ---
 
+### Sri Lanka’s Top 100 Most Valuable Brands by BrandFinance
+
+*2025-08-04 19:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-100-most-valuable-brands-by-brandfinance-234554/) · `en`
+
+ECONOMYNEXT – Brand Finance’s Sri Lanka 100 Most Valuable Brands enables a ranked company to measure its brand value alongside peers both within and outside its industry.
+
+Rankings, alongside Brand Finance’s insights, offer a look at the relative strength of a brand with respect to its financial performance and stability, credibility, and market recognition, the firm says.
+
+A ranking is also indicative of strong consumer and stakeholder trust in a brand.
+
+Internationally, the listing represents a rigorous valuation process that can open doors to new markets and business opportunities, Brand Finance says.
+
+◼️
+
+[Data](articles/a3b8feec.json)
+
+---
+
 ### මෙරට විශාලම හස්තියා 'කාවන්තිස්ස'ට ජීවිත අවදානමක්?
 
 *2025-08-04 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213018) · `si`
@@ -665,6 +701,46 @@ The row between Medvedev and Trump erupted against the backdrop of the US leader
 ...
 
 [Data](articles/aaf2bacc.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-08-04 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-234536/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.00/03 to the US dollar in the spot market Monday, stronger from 301.20/30 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.05/15 percent, up from 8.00/10 percent.
+
+A bond maturing on 15.09.2027 closed at 8.40/50 percent, up from 8.40/45 percent.
+
+A bond maturing on 15.12.2029 closed at 9.38/40 percent, up from 9.35/40 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/30 percent, up from 10.23/26 percent. (Colombo/Aug4/2025)
+
+◼️
+
+[Data](articles/6a3b1695.json)
+
+---
+
+### Gaza clinics overflowing with starving kids, mothers as Israel blocks food: MSF
+
+*2025-08-04 17:47:00* · [`economynextcom`](https://economynext.com/gaza-clinics-overflowing-with-starving-kids-mothers-as-israel-blocks-food-msf-234553/) · `en`
+
+ECONOMYENXT – Clinics run by Médecins Sans Frontières in Gaza are beginning to overflow with malnourished kids and pregnant mothers who are severely as Israel food blockade starve the population, the medical charity said.
+
+At MSF clinics, injured patients beg for food instead of medicine – their wounds failing to heal because of protein deficiency, the charity said calling for urgent unrestricted humanitarian access, a sustained flow of food and medical aid into Gaza, and the protection of civilians.
+
+More than 700 pregnant and breastfeeding women, and nearly 500 children with severe and moderate malnutrition are currently enrolled in ambulatory therapeutic feeding centres in two clinics in Gaza, the charity said.
+
+“Patient enrolment in the MSF Gaza City clinic almost quadrupled in under two months, from 293 cases in May, up to 983 cases at the beginning of July,” MSF said.
+
+Critics have accused the government of Benjamin Nethaniyahu of carrying out systematic genocide of the Gaza population.
+
+...
+
+[Data](articles/4ae5f6fd.json)
 
 ---
 
@@ -1166,6 +1242,30 @@ Under the new framework, the investment limit for listed companies has been rais
 
 ---
 
+### Sri Lanka stocks dip 0.64-pct after ASPI crosses 20,000 mark
+
+*2025-08-04 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-64-pct-after-aspi-crosses-20000-mark-234511/) · `en`
+
+ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) fell 0.64 percent after reaching an all time high in early morning trade, brokers said.
+
+The index crossed the psychological 20,000 mark. However, the market deescalated due to selling pressure.
+
+“Market was volatile today. Selling pressure was there as soon as the 20,000 mark was crossed,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI dipped 128.02 points from Friday to 19,786.23; while the S&P SL20 index ended 0.63 percent, or 37.14
+
+“Reversal of the market to close below the 20,000 mark shows that there is a psychological barrier,” Mathew said.
+
+Turnover steeply declined to 4.5 billion rupees from 7.3 billion rupees; while the share volume was 157,477,342.
+
+“Banking sector counters traded positive – mostly the small banks while there was a bit of profit taking in big banks.”
+
+...
+
+[Data](articles/9444c9d8.json)
+
+---
+
 ### போதையில் இருந்த சாரதிக்கு விளக்கமறியல்
 
 *2025-08-04 16:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போதையில்-இருந்த-சாரதிக்கு-விளக்கமறியல்/76-362283) · `ta`
@@ -1223,6 +1323,22 @@ Under the new framework, the investment limit for listed companies has been rais
 ◼️
 
 [Data](articles/7bb43344.json)
+
+---
+
+### US effective tariff rate settles at 17-pct with July 31 duties: Fitch
+
+*2025-08-04 15:56:00* · [`economynextcom`](https://economynext.com/us-effective-tariff-rate-settles-at-17-pct-with-july-31-duties-fitch-234513/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has updated the US Effective Tariff Rate (ETR) Monitor, its interactive tariff tool, reflecting the July 27 and July 31 announcements that set new reciprocal tariff rates for most trading partners.
+
+“The US effective tariff rate is now 17% — about 8 percentage points lower than our April 3, 2025, estimate when higher reciprocal tariffs were originally announced, but around 3 percentage points higher than our estimate at the end of June 2025,” Fitch said.
+
+Fitch Ratings-New York-01 August 2025: Fitch Ratings has updated the U.S. Effective Tariff Rate (ETR) Monitor, its interactive tariff tool, reflecting the July 27 and July 31 announcements that set new reciprocal tariff rates for most trading partners. The U.S. effective tariff rate is now 17% — about 8 percentage points lower than our April 3, 2025, estimate when higher reciprocal tariffs were originally announced, but around 3 percentage points higher than our estimate at the end of June 2025.
+
+...
+
+[Data](articles/5a3a3e20.json)
 
 ---
 
@@ -1715,135 +1831,5 @@ Meanwhile, for emergency assistance the public should contact the local disaster
 ◼️
 
 [Data](articles/3ff96bd0.json)
-
----
-
-### ප්‍රථම රන්දෝලි පෙරහර වෙනුවෙන් ක්‍රියාත්මක රථවාහන සැලැස්ම
-
-*2025-08-04 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213001) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහරේ ප්‍රථම රන්දෝලි පෙරහර අද (04) දින වීථී සංචාරය කරනු ලබයි.
-
-එම කාලය තුළ ක්‍රියාත්මක රථ වාහන සැලැස්ම හා විකල්ප මාර්ග සම්බන්ධයෙන් රියදුන් සහ ජනතාව දැනුම්වත් කරමින් ශ්‍රී ලංකා පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව, පෙරහර කාලසීමාවන් තුළ ක්‍රියාත්මක රථවාහන සැලැස්ම හා දෛනික රථවාහන සැලැස්ම පහත පරිදි වේ.
-
-• කටුගස්තොට සිට මහනුවර නගරයට පැමිණෙන සියළුම බර වාහන මහයියාව හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ පොලිසිය හන්දියෙන් මහනුවර නගරය වෙත ගමන් කළ හැක.
-
-• කටුගස්තොට දෙසින් පැමිණෙන සැහැල්ලු වාහන ඩී.එස්. සේනානායක වීදිය ඔස්සේ පැමිණ කන්දේ වීදිය ඔස්සේ මීරමක්කම් පල්ලිය අසලින් ඉදිරියට ගමන් කර තිලක් රත්නායක මාවත ඔස්සේ ගමන් කළ හැක.
-
-• කටුගස්තොට දෙසට පිටවන වාහන දළඳා වීදීය, යටිනුවර වීදීය, කන්දේ වීදීය, ඩී.එස්. සේනානායක වීදීය ඔස්සේ ගමන් කළ හැක.
-
-...
-
-[Data](articles/7fc9fc4a.json)
-
----
-
-### Air India Express flight forced to return to Bengaluru after mid-air hydraulic failure
-
-*2025-08-04 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111150/air-india-express-flight-forced-to-return-to-bengaluru-after-mid-air-hydraulic-failure) · `en`
-
-A Kolkata-bound Air India Express plane has returned to Bengaluru due to a technical issue.
-
-The flight IX2718, operated with an Airbus A320 aircraft, returned after being airborne for over two hours, according to information available on flight tracking website Flightradar24.com.
-
-“One of our flights from Bengaluru returned to the airport following a technical issue. The aircraft circled to reduce fuel and weight before executing a safe, precautionary landing,” an Air India Express spokesperson said in a statement on Monday.
-
-An alternate aircraft was arranged to ferry the passengers to Kolkata.
-
-The airline is investigating the technical snag in the aircraft.
-
-Details about the number of passengers onboard the flight were not disclosed.
-
-◼️
-
-[Data](articles/b89aa46f.json)
-
----
-
-### Okkampitiya Police OIC further remanded
-
-*2025-08-04 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111149/okkampitiya-police-oic-further-remanded) · `en`
-
-The Officer-in-Charge (OIC) of the Okkampitiya Police Station, who was arrested in connection with a bribery incident, has been further remanded until August 18, Ada Derana reporter said.
-
-The order was issued when the case was taken up today (04) before Colombo Chief Magistrate Thanuja Lakmali Jayatunga.
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had informed court that the suspect was arrested based on a complaint made by a businessman from Okkampitiya.
-
-According to the complaint, the suspect had allegedly demanded a monthly bribe of Rs. 50,000 to allow a sand mining business to continue without interference in Okkampitiya. The suspect was arrested while accepting Rs. 47,000 as part of the bribe.
-
-The Bribery Commission also informed court that investigations into the incident are still ongoing.
-
-Accordingly, the Magistrate ordered that the suspect be further remanded until August 18.
-
-◼️
-
-[Data](articles/f75f8592.json)
-
----
-
-### அரச ஊழியர்களுக்கு நற்செய்தி
-
-*2025-08-04 13:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-நற்செய்தி/175-362271) · `ta`
-
-இலங்கையில் வீட்டுவசதி பிரச்சினையை அடுத்த 05 முதல் 10 ஆண்டுகளுக்குள் தீர்க்க அரசாங்கம் பாடுபடுவதாக அமைச்சர் வசந்த சமரசிங்க கூறுகிறார்.
-
-அரசு ஊழியர்களுக்கு புதிய வீடு கட்ட அல்லது வீடுகளைப் புதுப்பிக்க நிதிக் கடன்கள் வழங்கப்படும் என்று அமைச்சர் சமரசிங்க தெரிவித்தார்.
-
-முந்தைய நிர்வாகங்களைப் போலல்லாமல், சரியான அமைப்பின் மூலம் பொருத்தமான நபர்கள் மட்டுமே இதற்கு தேர்ந்தெடுக்கப்படுவார்கள் என்று அவர் மேலும் கூறினார்.
-
-"முன்னாள் அரசாங்கம் வீட்டுவசதி விளம்பர பிரச்சாரங்களுக்காக மட்டும் 520 மில்லியன் ரூபாய்களை செலவிட்டது. இதுவும் பொதுமக்களின் பணம்தான்," என்று அவர் கூறினார்.
-
-இருப்பினும், தற்போதைய அரசாங்கம் 140 பேருக்கு உதவி வழங்கி வருவதாகவும், 100க்கும் மேற்பட்டவர்களுக்கு குறைந்த வட்டி விகிதத்தில் நிதிக் கடன்கள் கிடைக்கும் என்றும், 80க்கும் மேற்பட்ட அரசு ஊழியர்களுக்கு ரூ. 01 மில்லியன் கடன்கள் வழங்கப்படுவதாகவும் அமைச்சர் தெரிவித்தார், ”என்று அவர் கூறினார்.
-
-நேற்று (03) அனுராதபுரத்தில் வீட்டுவசதி உதவி வழங்கும் நிகழ்ச்சியில் பங்கேற்றபோது அமைச்சர் வசந்த சமரசிங்க இவ்வாறு தெரிவித்தார்.
-
-◼️
-
-[Data](articles/04cdb14f.json)
-
----
-
-### Sri Lanka offers driving license for tourists on arrival at Rs2,000
-
-*2025-08-04 13:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-driving-license-for-tourists-on-arrival-at-rs2000-234479/) · `en`
-
-ECONOMYNEXT – Tourists arriving at Sri Lanka’s Bandaranaike International Airport can now obtain a license for 2,000 rupees, roughly 6.73 dollars, to drive in the island, Minister Bimal Rathnayake said.
-
-“Tourists with a valid driving license can now obtain a short term license to drive in Sri Lanka on arrival, within minutes,” he told reporters at the launch of the DMV counter at the airport.
-
-“A significant number of tourists obtain licenses, and they previously had to go to the Department of Motor Traffic in Werahera, which takes about six hours to a day.”
-
-A one-month license costs 2,000 rupees. A two-month validity costs 4,000 rupees, a three-month 6,000 and five-month 10,000.
-
-The fist license was issued to an Indian national, he said, and the process took 8 minutes.
-
-The second foreigner was issued a license in 7 minutes, and the aim is to issue it in 5 minutes as staff become more adept he said.
-
-...
-
-[Data](articles/8fc46ba9.json)
-
----
-
-### ඔක්කම්පිටිය පොලිස් OIC රිමාන්ඩ්
-
-*2025-08-04 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213000) · `si`
-
-අල්ලස් ලබා ගැනීමේ සිද්ධියක් අත්අඩංගුවට ගත් ඔක්කම්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා අගෝස්තු මස 18 වෙනිදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-මෙම පැමිණිල්ල අද (04) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
-
-අල්ලස් කොමිසම අධිකරණය හමුවේ සඳහන් කළේ ඔක්කම්පිටිය, ගාමිණීපුර ප්‍රදේශයේ වැලි ව්‍යාපාරිකයකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව අදාළ සැකකාර පොලීස් ස්ථානාධිපතිවරයා අත්අඩංගුවට ගත් බවය.
-
-පැමිණිලිකරු විසින් ඔක්කම්පිටිය ප්‍රදේශයේ පවත්වා ගෙන යනු ලබන වැලි ව්‍යාපාරය බාධාවකින් තොරව පවත්වා ගෙන යාමට මාසිකව රුපියල් 50,000ක මුදලක් බැගින් ඉල්ලා ඇති බවත් ඉන් රුපියල්  47,000ක මුදලක් ලබාගත් අවස්ථාවේදී ඔහු අත්අඩංගුවට ගත් බවත් අල්ලස් කොමිසම අධිකරණය හමුවේ සඳහන් කළේය.
-
-සිද්ධියට අදාළ විමර්ශන කටයුතු අවසන් නොමැති බවට අල්ලස් කොමිසම කළ දැනුම්දීම පිළිගත් මහෙස්ත්‍රාත්වරිය සැකකරු තවදුරටත් ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියම කළාය.
-
-◼️
-
-[Data](articles/7efd09d0.json)
 
 ---

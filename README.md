@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 03:48:39**
+As of **2025-08-05 04:06:39**
 
 ## Newspaper Stats
 
-*Scraped **68,692** Articles*
+*Scraped **68,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 704
 islandlk | 4,190
 economynextcom | 4,191
 dailymirrorlk | 4,733
-dailyftlk | 4,846
+dailyftlk | 4,849
 adalk | 6,616
 adaderanalk | 8,514
 tamilmirrorlk | 9,986
@@ -26,11 +26,57 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,692 articles have been extended.
+61,973 (90.2%) of 68,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### Dialog MAS Enabler Program champions workplace inclusion for differently-abled
+
+*2025-08-05 03:33:50* · [`dailyftlk`](https://www.ft.lk/business/Dialog-MAS-Enabler-Program-champions-workplace-inclusion-for-differently-abled/34-779923) · `en`
+
+Representatives from Dialog Axiata and MAS Holdings together with the participants of the Enabler Program 2025
+
+Telco giant Dialog Axiata PLC together with MAS Holdings, an apparel manufacturing and technology conglomerate, have successfully concluded the third consecutive Dialog MAS Enabler Program, reaffirming their shared commitment to workplace inclusivity and the empowerment of persons with disabilities through targeted exposure to real-world corporate, manufacturing, and service environments.
+
+Held from 23 June to 7 July, the two-week program enabled selected undergraduates and young professionals with disabilities to spend time at Dialog and MAS. Participants engaged across corporate offices, customer-facing service centres, and manufacturing facilities, receiving guided briefings on corporate culture and gaining hands-on exposure to the operations of both organisations.
+
+...
+
+[Data](articles/e3a036cd.json)
+
+---
+
+### Empire Teas to celebrate 25 years with global business partners
+
+*2025-08-05 03:32:02* · [`dailyftlk`](https://www.ft.lk/business/Empire-Teas-to-celebrate-25-years-with-global-business-partners/34-779922) · `en`
+
+Empire Teas Managing Director Lushantha de Silva (left) and Director – Operations Sajeev de Silva
+
+This August, tea export company Empire Teas will celebrate 25 years by inviting business partners from across the world for a heartfelt celebration in Sri Lanka. From 7-9 August, guests will enjoy a curated tea journey from behind-the-scenes tours to lush plantations and a grand Gala Dinner to honour the friendships that have powered the company’s success.
+
+From modest beginnings to becoming one of Sri Lanka’s top five tea exporters, Empire Teas now delivers over 14 million kilos of premium Ceylon tea to more than 70 countries annually. Behind this growth is a story of vision and heart, led by the founder, a third-generation tea master, Lushantha de Silva, and a team dedicated to doing things the right way, always. “This isn’t just our celebration,” says Lushantha. “It’s a thank you to our business partners who believed in us, walked with us, and helped us grow.”
+
+...
+
+[Data](articles/6694f2df.json)
+
+---
+
+### AliExpress, Temu e-commerce tax dispute resolved, officials tell CoPF
+
+*2025-08-05 03:30:48* · [`dailyftlk`](https://www.ft.lk/business/AliExpress-Temu-e-commerce-tax-dispute-resolved-officials-tell-CoPF/34-779921) · `en`
+
+The Committee on Public Finance (CoPF) has been informed that the recent issues surrounding the taxation of e-commerce goods have now been resolved. Officials told the committee that operations are proceeding without disruptions following earlier delays caused by the reintroduction of Harmonised System (HS) code-based taxation, according to a statement from the Parliament’s Department of Communication yesterday.
+
+Previously, Sri Lanka Customs cleared low-value imports from platforms such as AliExpress and Temu based on weight. However, a policy shift to charge taxes based on HS codes resulted in a bottleneck at Customs and disrupted service flows. AliExpress subsequently withdrew its low-cost shipping options to Sri Lanka, citing unclear tax rules and regulatory unpredictability.
+
+...
+
+[Data](articles/6bf5ee81.json)
+
+---
 
 ### Alumex advances trade compliance and global supply chain excellence with AEO Tier I certification
 
@@ -1749,61 +1795,5 @@ Jaffna District Member of Parliament Ramanathan Archchuna has arrived at the Cri
 ...
 
 [Data](articles/f6abf022.json)
-
----
-
-### 12-hour water cut in several areas of Kalutara tomorrow
-
-*2025-08-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111153/12-hour-water-cut-in-several-areas-of-kalutara-tomorrow) · `en`
-
-A 12-hour water cut will be in place in several areas of Kalutara tomorrow (05 August), the National Water Supply and Drainage Board (NWSDB) has announced.
-
-Accordingly, the water supply will be suspended from 10:00 a.m. to 10:00 p.m. due to essential maintenance work on the Kalutara water supply system.
-
-A statement issued by the NWSDB said, the water cut will affect residents of Kalutara South, Kalutara North, Nagoda, Waskaduwa, Pothupitiya, and Wadduwa.
-
-The NWSDB while expressing regret for the inconvenience caused to the public and requested residents in the affected areas to use water sparingly during this period.
-
-◼️
-
-[Data](articles/fd06bdd2.json)
-
----
-
-### Issues related to imports through Temu and other e–commerce sites solved, officials
-
-*2025-08-04 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111152/issues-related-to-imports-through-temu-and-other-ecommerce-sites-solved-officials-) · `en`
-
-Concerns pertaining to e-commerce platform taxation that affected products that were purchased through websites such as AliExpress, Amazon and Temu have been resolved, according to officials who were present during a meeting of the Committee on Public Finance in Parliament.
-
-According officials, operations are now flowing smoothly following earlier delays caused by the switch back to HS code-based taxation, the Department of Communication of Parliament said in a statement.
-
-Following a decision by local officials to impose taxes based on HS codes on products purchased through e–commerce sites, several delays occurred during the clearing of such items through Customs.
-
-Furthermore, owing to the increase in costs, it was reported that global websites were hesitant to sell products to local customers.
-
-...
-
-[Data](articles/76ed59f7.json)
-
----
-
-### පද්මේගෙන් ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වාට  මරණ තර්ජන
-
-*2025-08-04 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213004) · `si`
-
-තම සගයෙකු අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන කෙහෙල්බද්දර පද්මේ නැමැත්තා බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ ස්ථානාධිපති, ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට දුරකථනයෙන් මරණ තර්ජන එල්ල කර තිබේ.
-
-ඊයේ (03) රාත්‍රී8.45ට පමණ කෙහෙල්බද්ද පද්මේ විසින් මෙම ඇමතුම ලබාදී තිබුණි.
-
-කෙහෙල්බද්දර පද්මේගේ සමීපතමයෙක් වන 39 හැවිරිදි ගම්පහ දේවා නැමැත්තා ඊයේ (03) ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ ඒකකය මඟින් අත්අඩංගුවට ගනු ලැබීය.
-
-සැකකරු අවස්ථා කිහිපයකදී කෙහෙල්බද්දර පද්මේ නැමැත්තාව රුසියාවේදී හා තායිලන්තයේදී හමු වී ඇති අතර, මෙවරද ඔහු තායිලන්තයට යාමට සූදානම් වී ඇත්තේ පද්මේ හමුවීම සඳහා බවට පොලීසිය සැකපළ කළේය.
-
-අදාළ සැකකරු මනුෂ්‍ය ඝාතන ඇතුළු අපරාධ රැසකට සම්බන්ධ බවට චෝදනා එල්ල වන අතර, ඔහු සම්බන්ධයෙන් වැඩිදුර විමර්ශන බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරි රොහාන් ඕලුගල මහතා සහ ස්ථානාධිපති ලින්ටන් සිල්වා මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරෙමින් පවතී.
-
-...
-
-[Data](articles/4ad101cf.json)
 
 ---

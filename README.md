@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 00:08:12**
+As of **2025-08-05 00:28:23**
 
 ## Newspaper Stats
 
-*Scraped **68,668** Articles*
+*Scraped **68,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 703
 economynextcom | 4,186
 islandlk | 4,190
 dailymirrorlk | 4,733
-dailyftlk | 4,836
+dailyftlk | 4,837
 adalk | 6,616
 adaderanalk | 8,514
 tamilmirrorlk | 9,984
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,668 articles have been extended.
+61,973 (90.2%) of 68,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### IMF debt trap in Sri Lanka:  How conditionalities stifle investment and growth
+
+*2025-08-04 23:37:52* · [`dailyftlk`](https://www.ft.lk/columns/IMF-debt-trap-in-Sri-Lanka-How-conditionalities-stifle-investment-and-growth/4-779870) · `en`
+
+To escape the debt trap, the country must be allowed to offer competitive tax incentives, just like its regional peers
+
+Sri Lanka’s economic crisis has been exacerbated by its reliance on International Monetary Fund (IMF) bailout packages, which come with stringent conditions that often undermine long-term growth. One of the most damaging aspects of IMF-imposed austerity is the restriction on tax incentives, including tax holidays for foreign and local investors. By preventing the Government from offering competitive tax breaks, the IMF effectively discourages investment in export-oriented industries—precisely the sectors Sri Lanka needs to generate foreign exchange and repay its debts. This creates a vicious cycle: without investment, the economy stagnates, debt becomes unsustainable, and the country remains trapped in perpetual dependency on IMF loans.
+
+...
+
+[Data](articles/2a473ffa.json)
+
+---
 
 ### ගැබ්බර මුවදෙනක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය - පොලීසියෙන් පැහැදිලි කිරීමක්
 
@@ -1865,21 +1879,5 @@ Sudath Janaka Fernando, named as the first suspect in the case concerning the di
 ...
 
 [Data](articles/2b6e76e3.json)
-
----
-
-### 214 நாட்களில் 76 ’’டமால் டுமீல்’’  : 41 பேர் பலி
-
-*2025-08-04 12:30:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/214-நாட்களில்-76-டமால்-டுமீல்-41-பேர்-பலி/175-362269) · `ta`
-
-2025  ஆம்  ஆண்டு ஜனவரி 1 ஆம் திகதி முதல் ஓகஸ்ட் 03 ஆம் திகதி வரை   76 துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-இந்த துப்பாக்கிச் சூடு சம்பவங்களில் 41 பேர் உயிரிழந்துள்ளதாகவும்,   43 பேர் காயமடைந்துள்ளதாகவும் அது சுட்டிக்காட்டியுள்ளது.
-
-மாத்தறை கபுகொட பகுதியில் ஞாயிற்றுக்கிழமை (03) நடந்த துப்பாக்கிச் சூடு சம்பவத்திலும், அம்பலாந்தோட்டை ஹங்காம, பிங்கம பகுதியில் சனிக்கிழமை (02) நடந்த துப்பாக்கிச் சூடு சம்பவத்திலும் ஒருவர் காயமடைந்தார்.
-
-◼️
-
-[Data](articles/8b2cbcd1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 12:33:55**
+As of **2025-08-04 12:55:18**
 
 ## Newspaper Stats
 
-*Scraped **68,561** Articles*
+*Scraped **68,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,598
 adaderanalk | 8,493
-tamilmirrorlk | 9,960
+tamilmirrorlk | 9,961
 virakesarilk | 11,422
-adaderanasinhalalk | 11,805
+adaderanasinhalalk | 11,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,561 articles have been extended.
+61,973 (90.4%) of 68,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### 214 நாட்களில் 76 ’’டமால் டுமீல்’’  : 41 பேர் பலி
+
+*2025-08-04 12:30:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/214-நாட்களில்-76-டமால்-டுமீல்-41-பேர்-பலி/175-362269) · `ta`
+
+2025  ஆம்  ஆண்டு ஜனவரி 1 ஆம் திகதி முதல் ஓகஸ்ட் 03 ஆம் திகதி வரை   76 துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த துப்பாக்கிச் சூடு சம்பவங்களில் 41 பேர் உயிரிழந்துள்ளதாகவும்,   43 பேர் காயமடைந்துள்ளதாகவும் அது சுட்டிக்காட்டியுள்ளது.
+
+மாத்தறை கபுகொட பகுதியில் ஞாயிற்றுக்கிழமை (03) நடந்த துப்பாக்கிச் சூடு சம்பவத்திலும், அம்பலாந்தோட்டை ஹங்காம, பிங்கம பகுதியில் சனிக்கிழமை (02) நடந்த துப்பாக்கிச் சூடு சம்பவத்திலும் ஒருவர் காயமடைந்தார்.
+
+◼️
+
+[Data](articles/8b2cbcd1.json)
+
+---
+
+### ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක්
+
+*2025-08-04 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212998) · `si`
+
+උතුරු, උතුරු - මැද සහ නැගෙනහිර පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවද එම නිවේදනයේ සඳහන් වේ.
+
+ඒ අනුව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
+
+◼️
+
+[Data](articles/37e74ab9.json)
+
+---
 
 ### வர்ணனையாளராக மாறிய கூகுள் CEO சுந்தர் பிச்சை
 
@@ -1677,41 +1709,5 @@ CSE Clear (Pvt) Limited, a fully owned subsidiary of the Colombo Stock Exchange,
 ...
 
 [Data](articles/ff740c57.json)
-
----
-
-### சொத்து மற்றும் பொறுப்பு விபரங்களை இம்மாதத்துக்குள் சமர்ப்பிக்காவிடின் வழக்குத் தாக்கல் செய்யப்படும் - இலஞ்ச ஊழல் ஆணைக்குழு
-
-*2025-08-03 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221728) · `ta`
-
-சொத்து மற்றும் பொறுப்பு தொடர்பான விபரங்களை நிறுவனத்தின் பிரதானிக்கு 2025.08.31 ஆம் திகதிவரையான காலப்பகுதிக்குள் தமது சமர்ப்பிக்கத்தவறும் உத்தியோகத்தர்களுக்கு 2023 ஆம் ஆண்டின் 9 ஆம் இலக்க ஊழல் எதிர்ப்பு சட்டத்தின் 90 ஆவது பிரிவின் பிரகாரம் வழக்குத் தாக்கல் செய்வதற்கு உரிய நடவடிக்கை எடுக்கப்படும். தாமதமாக சமர்ப்பிக்கப்படும் விபரங்களுக்கு தண்டப்பணம் அறவிடப்படும் என இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அறிவித்துள்ளது.
-
-லஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு  வெளியிட்டுள்ள அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
-
-2025.03.31 ஆம் திகதியன்று சொத்து மற்றும் பொறுப்பு தொடர்பான கூற்று விபரங்களை சமர்ப்பிக்க வேண்டிய உத்தியோகத்தர்கள் இலஞ்சம் மற்றும் ஊழல் ஆணைக்குழுவுக்கு குறித்த ஆவணங்களை தமது நிறுவனத்தின் பிரதான ஊடாக சமர்ப்பிக்க வேண்டும் என்றும், அந்த ஆவணங்களை நிறுவனத்தின் பிரதானிக்கு சமர்ப்பிக்க வேண்டும் என்று குறிப்பிடப்பட்டு அதற்கு 2025.06.30 ஆம் திகதி வரை காலவகாசம் வழங்கப்பட்டது.
-
-...
-
-[Data](articles/099ffa8c.json)
-
----
-
-### Sri Lanka fabric maker Teejay says global demand softened in the quarter
-
-*2025-08-03 23:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-fabric-maker-teejay-says-global-demand-softened-in-the-quarter-234373/) · `en`
-
-ECONOMYNEXT – Teejay Lanka Plc, a fabric maker which has operations in Sri Lanka and India said global demand ‘softened’ and volumes fell in the June 2025, though the firm still grew net profits.
-
-“This growth was recorded despite facing challenging global market conditions, including a slowdown in demand and shifting price sentiments across key export markets,” Teejay Lanka told shareholders in interim accounts.
-
-Cost of sales fell 3 percent to 14.5 billion and gross profits fell 3 percent to 1.25 billion rupees which the firm said was “largely due to lower production volumes during the quarter, as global demand softened across the industry.”
-
-Group administrative expenses grew 37 percent to 957 million rupees, while there was financial gain of 250 million rupees, compared to a 114 million rupees last year.
-
-Finance expense was down 21 percent to 86 million and pre-tax profits were up 33 percent to 364 million rupees.
-
-...
-
-[Data](articles/61bc2df1.json)
 
 ---

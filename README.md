@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 05:32:19**
+As of **2025-08-04 06:14:02**
 
 ## Newspaper Stats
 
-*Scraped **68,482** Articles*
+*Scraped **68,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
 colombotelegraphcom | 703
-islandlk | 4,180
 economynextcom | 4,182
+islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,588
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,482 articles have been extended.
+61,973 (90.5%) of 68,492 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -435,6 +435,116 @@ From the simple standpoint of prudent State financial solvency and security, it 
 ---
 
 ### 2025-08-03 (Sunday)
+
+### Sarrah Sammoon, first Sri Lankan to receive certification in investment migration
+
+*2025-08-03 23:42:00* · [`islandlk`](http://island.lk/sarrah-sammoon-first-sri-lankan-to-receive-certification-in-investment-migration/) · `en`
+
+Sarrah Sammoon has become the first Sri Lankan to receive the Certification in Investment Migration from the Investment Migration Council (IMC) of Switzerland, the global governing body for the investment migration profession.
+
+With over 30 years of leadership in the field, Sarrah Sammoon is a regulated global mobility specialist and the Founder & CEO of Magellan Champlain. Her firm serves multinational corporations, high-net-worth individuals, and globally mobile families across 25+ destinations. Her latest accomplishment underscores her commitment to professional excellence and responsible advisory practices in a rapidly evolving industry.
+
+“I’ve always believed that global mobility must be built on trust, transparency, and ethical practice,” said Sammoon. “This certification affirms our continued dedication to offering clients the highest standard of integrity when navigating citizenship and residency options worldwide.”
+
+...
+
+[Data](articles/1090d216.json)
+
+---
+
+### Sunshine Holdings reports strong Q1 FY26 performance with 11.6% revenue growth
+
+*2025-08-03 23:41:00* · [`islandlk`](http://island.lk/sunshine-holdings-reports-strong-q1-fy26-performance-with-11-6-revenue-growth/) · `en`
+
+Sunshine Holdings PLC posted robust financial results for Q1 FY26, with revenue rising 11.6% YoY to LKR 15.9 billion and profit after tax (PAT) growing 20.6% YoY to LKR 1.7 billion.
+
+The growth was driven by improved economic conditions and strong performance across its Healthcare, Consumer, and Agribusiness sectors.
+
+Healthcare remained the largest revenue contributor (54.2%), recording 14% YoY growth (LKR 8.6 billion) due to expansion in pharmaceuticals, medical devices, and retail. The pharmaceutical agency business surged 26.7%, while Healthguard Pharmacy and Distribution saw 17.4% and 44.5% growth, respectively. However, Lina Manufacturing’s revenue declined 19.6% due to delayed government deliveries.
+
+The Consumer segment reported 3.7% revenue growth (LKR 4.8 billion), supported by domestic and export markets. The confectionery segment grew 19.9%, while branded tea saw marginal gains. Exports rose 7.2%, reflecting sustained demand.
+
+...
+
+[Data](articles/18339a6a.json)
+
+---
+
+### Exterminators PLC expands digital pest management franchise across Sri Lanka
+
+*2025-08-03 23:40:00* · [`islandlk`](http://island.lk/exterminators-plc-expands-digital-pest-management-franchise-across-sri-lanka/) · `en`
+
+Exterminators PLC, a pioneer in digital pest management, is expanding its innovative franchise system across 14 districts in Sri Lanka, including Northern, Eastern, North Central, and Uva provinces, as well as Ratnapura and Puttalam. Partnering with Sentario UK, Pest Scan BV (Netherlands), and Futura GMBH (Germany), the company aims to revolutionize pest control through AI-driven, eco-friendly solutions, reducing reliance on harmful chemicals while restoring ecosystems by encouraging natural predators like dragonflies and bats.
+
+Chairman Dr. Kishu Gomes highlighted the expansion’s timing with Sri Lanka’s economic recovery, particularly in SME-driven sectors like tourism and manufacturing. Managing Director Marlon Ferreira noted the untapped potential in these regions, where only 5% of current revenue originates, presenting a major growth opportunity amidst 150 competitors concentrated in Colombo and Gampaha.
+
+...
+
+[Data](articles/549193b7.json)
+
+---
+
+### Network In Action launches Sri Lanka Chapter with vision for high-trust business community
+
+*2025-08-03 23:39:00* · [`islandlk`](http://island.lk/network-in-action-launches-sri-lanka-chapter-with-vision-for-high-trust-business-community/) · `en`
+
+Network In Action (NIA), a global business networking platform, marked its Sri Lankan debut with a launch event at Cinnamon Grand, Colombo.
+
+Hosted by Regional Partners Jayathas Kamalanathan and Pamatheesan Kopalapillai, the gathering introduced entrepreneurs and professionals to NIA’s unique model, blending structured in-person meetings with digital tools for tracking referrals and ROI.
+
+The hosts emphasized their vision of fostering a high-trust business community in Sri Lanka, offering structure, accountability, and global standards. Unlike conventional networking, NIA focuses on long-term relationships, warm referrals, and shared learning rather than self-promotion. With over 200 chapters worldwide, NIA Colombo will provide monthly curated meetings and performance analytics to help members grow sustainably.
+
+...
+
+[Data](articles/3b58777d.json)
+
+---
+
+### Japan to help Sri Lanka build healthier, happier workplaces under new COYLE-JETRO pact
+
+*2025-08-03 23:38:00* · [`islandlk`](http://island.lk/japan-to-help-sri-lanka-build-healthier-happier-workplaces-under-new-coyle-jetro-pact/) · `en`
+
+Japan to share its insights and support Sri Lankan businesses to building happier, more productive teams
+
+In a landmark move to enhance employee wellbeing and corporate excellence, the Chamber of Young Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) signed an MoU recently, paving the way for stronger Sri Lanka-Japan collaboration in fostering healthier, more productive workplaces.
+
+This partnership is set to revolutionize Sri Lanka’s corporate sector by integrating Japan’s globally acclaimed Health and Productivity Management practices with local business strategies. The collaboration will focus on advancing workplace sustainability, employee wellness, and long-term business resilience which are key priorities for Sri Lanka’s evolving economy.
+
+...
+
+[Data](articles/fd9396d6.json)
+
+---
+
+### BOC marks 86 years of banking leadership and national service
+
+*2025-08-03 23:37:00* · [`islandlk`](http://island.lk/boc-marks-86-years-of-banking-leadership-and-national-service/) · `en`
+
+Bank of Ceylon, Sri Lanka’s premier state-owned commercial bank, marked its 86th anniversary, marking a legacy that began on 1 August 1939 and has since evolved into an institution that is deeply interwoven with the country’s economic and social fabric.
+
+Over the past eight decades, Bank of Ceylon has grown from a single branch in Fort to become the largest and most trusted financial services provider in Sri Lanka, with a strong international presence and a wide network serving millions of customers across the country.
+
+The Bank enters its 86th year on the back of its strongest-ever financial performance. For 2024, BOC reported a profit of Rs. 106.9 billion – the highest in the Bank’s history. That momentum has continued into 2025, with the first quarter delivering a profit before tax of Rs. 30 billion.
+
+...
+
+[Data](articles/32ee8a38.json)
+
+---
+
+### Colombo Stock Exchange launches CCP system
+
+*2025-08-03 23:36:00* · [`islandlk`](http://island.lk/colombo-stock-exchange-launches-ccp-system/) · `en`
+
+The Colombo Stock Exchange (CSE) marked a historic milestone in Sri Lanka’s capital market with the launch of a Central Counterparty (CCP) framework for equity transactions, a transformative development that significantly enhances the safety, efficiency, and global competitiveness of the domestic capital market. To commemorate this milestone achievement a special Market Opening Ceremony was held on 1st August 2025 at the iconic trading floor at the CSE.
+
+CSE Clear (Pvt) Limited, a fully owned subsidiary of the Colombo Stock Exchange, will serve as the Central Counterparty (CCP) for all equity transactions executed on the CSE and is the licensed clearing house regulated by the Securities and Exchange Commission of Sri Lanka (SEC). The CCP enhances efficiency and trust as investors will have the comfort of finality of settlement and minimising the counterparty risk through the CCP mechanism.
+
+...
+
+[Data](articles/b012691f.json)
+
+---
 
 ### முன்னாள் ஜனாதிபதிகளின் தேவையற்ற வரப்பிரசாதங்களை இரத்து செய்யலாம்; பாதுகாப்பு வழங்கப்பட வேண்டும் - எஸ்.எம்.மரிக்கார்
 
@@ -1617,121 +1727,5 @@ The volcano has been assigned an “orange” aviation hazard code, the ministry
 ...
 
 [Data](articles/02fcebfe.json)
-
----
-
-### Sri Lanka current forex earnings US$2.28bn in June, vehicles LCs $1.2bn since Feb
-
-*2025-08-03 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-forex-earnings-us2-28bn-in-june-vehicles-lcs-1-2bn-since-feb-234365/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current foreign exchange earning in June 2025 was 2.28 billion US dollar made up of goods, exports, remittances, service exports including tourism, which was 604 million dollars above goods imports, official data showed.
-
-Goods exports were 1.14 billion US dollars, up 6 percent, remittances were 635 million dollars up 22 percent, and other services were 508 million dollars.
-
-In services tourism earnings were 169.5 million US dollars, IT/BPO services were 508 million US dollars, up 16.6 percent.
-
-Imports were 1,682 million US dollars, up from 1507 million dollars last month, of which investment goods and base metals were 378 million dollars, up from 344 million last month.
-
-Current inflows exceeded imports by 604 million dollars in June.
-
-The balance must finance services outflows, which was 264 million dollars, interest and dividend payments and any debt repayments.
-
-...
-
-[Data](articles/55a71f6d.json)
-
----
-
-### Number of shootings in 2025 increases to 76
-
-*2025-08-03 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111123/number-of-shootings-in-2025-increases-to-76) · `en`
-
-The number of shooting incidents reported across the country in 2025 has risen to 76.
-
-This includes the shooting incident reported in Kapugoda, Matara this morning.
-
-Shootings in 2025 have resulted in the deaths of 41 individuals, while 43 others have also sustained injuries, police stated.
-
-◼️
-
-[Data](articles/09344e93.json)
-
----
-
-### සාගතයෙන් මිය යන ගාසාහී දරුවන් ගණන ඉහළට
-
-*2025-08-03 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212968) · `si`
-
-ගාසා තීරය තුළ පවතින ආහාර හිඟය සහ ඒ හේතුවෙන් ඇතිවී තිබෙන සාගත තත්ත්වය හේතුවෙන් මීට පෙර සිදු නොවූ ප්‍රමාණයකින් කුඩා දරුවන් මිය යමින් සිටින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
-
-එක්සත් ජාතීන්ගේ ළමා අරමුදලේ නියෝජ්‍ය විධායක අධ්‍යක්ෂ ටෙඩ් චයිබන් පැවසුවේ ගාසා තීරය තුළ පුළුල්ව ව්‍යාප්තව පවතින මෙම සාගත තත්ත්වය අවසන් කිරීම සඳහා ජාත්‍යන්තර ප්‍රජාව කඩිනම් පියවර ගත යුතුව ඇති බවය.
-
-ගාසා තීරයේ සහ ඊශ්‍රායලයේ සංචාරයකින් අනතුරුව අමෙරිකාවේ නිව්යෝක් නගරයේ පිහිටා ඇති එක්සත් ජාතීන්ගේ මූලස්ථානයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ප්‍රකාශ කර තිබුණේ ආහාර ද්‍රව්‍ය, කිරිපිටි සහ සනීපාරක්ෂ ද්‍රව්‍ය රැගත් ට්‍රක් රථ 1,500කට ආසන්න සංඛ්‍යාවක් ගාසා තීරය වෙත යැවීමට එක්සත් ජාතීන්ගේ ළමා අරමුදල මේ වන විට සූදානම් කර ඇති නමුත් එම කළාපයට ඇතුලු වීමට අවසර ලැබී ඇත්තේ සීමිත ට්‍රක් රථ සංඛ්‍යාවකට පමණක් බවය.
-
-එය පවතින ඉල්ලුමට කිසිසේත් ප්‍රමාණවත් නොවන බව ද නියෝජ්‍ය විධායක අධ්‍යක්ෂවරයා පවසුවේය.
-
-◼️
-
-[Data](articles/07fe3ebe.json)
-
----
-
-### பல மில்லியன்களை சுருட்டிய ஓய்வுபெற்ற பேராசிரியர் கைது
-
-*2025-08-03 13:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மில்லியன்களை-சுருட்டிய-ஓய்வுபெற்ற-பேராசிரியர்-கைது/175-362209) · `ta`
-
-ஸ்ரீ ஜெயவர்தனபுர பல்கலைக்கழகத்தின் ஓய்வுபெற்ற மூத்த பேராசிரியர், முதுகலை மேலாண்மை நிறுவனத்தின் டுபாய் கிளையின் நிர்வாக இயக்குநராக இருந்தவர், பல மில்லியன் ரூபாய் மோசடி தொடர்பாக கைது செய்யப்பட்டதாக குற்றப் புலனாய்வுத் துறை (CID) தெரிவித்துள்ளது.
-
-சந்தேக நபரினால் அந்த நிறுவனத்தில் ரூ. 58.2 மில்லியன் மோசடி செய்துள்ளதாக  குற்றப் புலனாய்வுத் துறை தெரிவித்துள்ளது.
-
-சந்தேக நபர் சட்டமா அதிபரின் ஆலோசனையின் பேரில் குற்றப் புலனாய்வுத் துறையின் வணிகக் குற்றப் புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டார், மேலும் வாக்குமூலம் பதிவு செய்யப்பட்ட பின்னர் கைது செய்யப்படுவார்.
-
-◼️
-
-[Data](articles/c879ad39.json)
-
----
-
-### காட்டு யானை தாக்கியதில் சிறுமி பலி
-
-*2025-08-03 13:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானை-தாக்கியதில்-சிறுமி-பலி/175-362208) · `ta`
-
-ஹம்பாந்தோட்டை சீனிக்கு கால பகுதியில் ஞாயிற்றுக்கிழமை (03) காட்டு யானை தாக்கியதில் எட்டு வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-காட்டு யானை தாக்குதலுக்கு உள்ளான சிறுமியின் தந்தை பலத்த காயங்களுடன் ஹம்பாந்தோட்டை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
-
-சிறுமியின் தந்தை தனது தோட்டத்தில் வேலை செய்து கொண்டிருந்தபோது, அருகில் வந்த யானை அவரைத் தாக்க முயன்றது. காட்டு யானையிடமிருந்து தப்பிக்க தந்தை வீட்டை நோக்கி ஓடினார், தந்தையைப் பின்தொடர்ந்து வந்த காட்டு யானை சிறுமியைத் தாக்கியதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/1649cb14.json)
-
----
-
-### மாத்தறையில் துப்பாக்கிச் சூடு ; ஒருவர் காயம்
-
-*2025-08-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221689) · `ta`
-
-மாத்தறை, கபுகம பகுதியில் இன்று ஞாயிற்றுக்கிழமை (03) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மோட்டார் சைக்கிளில் சென்ற இரண்டு அடையாளம் தெரியாத நபர்களே வீடொன்டறின் மீது துப்பாக்கிச் சூட்டை மேற்கொண்டுள்ளனர்.
-
-துப்பாக்கிச் சூட்டில் காயமடைந்த 48 வயதுடைய நபர் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு தற்போது சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/5c09edde.json)
-
----
-
-### முன்னாள் எம்.பிக்களுக்கு அஸ்வெசும
-
-*2025-08-03 13:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பிக்களுக்கு-அஸ்வெசும/175-362207) · `ta`
-
-" முன்னாள் எம்.பிக்களின் ஓய்வூதியக் கொடுப்பனவு நிச்சயம் இரத்து செய்யப்படும். என தெரிவித்த  அமைச்சர் வசந்த சமரசிங்க  ஓய்வூதியத்தை இரத்து செய்த பின்னர் வாழ்வதற்கு சிரமமெனில் அஸ்வெசுமவுக்கு விண்ணப்பிக்கலாம். அதனை பெற்றுக்கொடுக்க நடவடிக்கை எடுக்கப்படும்” என்றும் தெரிவித்தார்
-
-◼️
-
-[Data](articles/744dc88b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 16:49:07**
+As of **2025-08-04 17:06:12**
 
 ## Newspaper Stats
 
-*Scraped **68,617** Articles*
+*Scraped **68,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,607
-adaderanalk | 8,504
-tamilmirrorlk | 9,973
-virakesarilk | 11,431
-adaderanasinhalalk | 11,818
+adaderanalk | 8,506
+tamilmirrorlk | 9,974
+virakesarilk | 11,433
+adaderanasinhalalk | 11,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,617 articles have been extended.
+61,973 (90.3%) of 68,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### දිවයිනම ආවරණය කරමින් පොලීසියෙන් විශේෂ සොදිසි මෙහෙයුමක්
+
+*2025-08-04 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213012) · `si`
+
+අපරාධ, මත්ද්‍රව්‍ය, නීති විරෝධී ගිනි අවි හා සැක කටයුතු පුද්ගලයින් හා රථවාහන සම්බන්ධව සිදුකරන විශේෂ මෙහෙයුම් මාලාවේ තවත් එක් අදියරක් ඊයේ (03) දිනයේද පැවැත්විණි.
+
+රට තුළ ව්‍යාප්තව ඇති විෂ මත්ද්‍රව්‍ය මර්දනය කිරීම මෙන්ම සංවිධානාත්මක අපරාධකරුවන් අත්අඩංගුවට ගැනීම සඳහා මෙම මෙහෙයුම් ශ්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය හා ත්‍රිවිධ හමුදාව එක්ව දෛනිකව සිදුකරමින් පවතී.
+
+ඒ අනුව ඊයේ දිනය පුරාවට සිදුකරන ලද මෙහෙයුම් තුළින් පුද්ගලයින් 25,870, වාහන 10,423ක් යතුරුපැදි 7,846ක ප්‍රමාණක් පරීක්ෂාවට ලක් කර තිබේ.
+
+එහිදී මත්ද්‍රව්‍ය සම්බන්ධයෙන් පුද්ගලයින් 968 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර අපරාධවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයින් 23 දෙනෙකු මෙන්ම වරෙන්තුකරුවන් 371ක් දෙනෙකු ද පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+එමෙන්ම මෙම මෙහෙයුම් තුළදී දේශීව නිෂ්පාදනය කළ නීති විරෝධී ගිනි අවි 03ක් ද පොලිස් භාරයට ගෙන තිබේ.
+
+තවද මෙහෙයුම් අතරතුරදී බීමත් රියදුරන් 110ක්ද පොලිස් අත්අඩංගුවට ගෙන ඇති අතර එමෙන්ම අපරීක්ෂාකාරි රිය ධාවනය ඇතුළු රථ වාහන වැරදි සම්බන්ධයෙන් පුද්ගලයින් 3,202කටද නීතිමය පියවර ගැනීමටද පොලීසිය කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/c767c13f.json)
+
+---
+
+### MP Chamara Sampath lodges complaint with Bribery Commission
+
+*2025-08-04 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111159/mp-chamara-sampath-lodges-complaint-with-bribery-commission) · `en`
+
+Member of Parliament Chamara Sampath Dassanayake has lodged a complaint with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The complaint has been lodged over alleged irregularities in the recruitment of police inspectors in the year 2024.
+
+Expressing his views on the matter, MP Chamara Sampath Dassanayake stated that a gazette notification had been issued in 2024 for the recruitment of police officers.
+
+Following the aptitude tests conducted according to that gazette, appointments had been planned for 100 qualified individuals in November 2024.
+
+However, MP Dassanayake alleged that these planned appointments were not granted to the 100 qualified individuals and that the government is now preparing to reissue the gazette and grant new recruitments instead.
+
+He further stated that this situation points to possible corruption, and he has submitted a complaint against the Minister in charge of the Police Department and police officials.
+
+◼️
+
+[Data](articles/4b9525af.json)
+
+---
+
+### 5වන ටෙස්ට් තරගයෙන් ඉන්දියාවට තියුණු ජයක්
+
+*2025-08-04 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213011) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව 5වන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගයෙන් ලකුණු  6ක ජයක් ලැබීමට ඉන්දීය කණ්ඩායම අද (4) සමත් විය.
+
+මෙහිදී ආබාධයකට ලක්ව සිටින ක්‍රිස් වෝක්ස් පන්දුවට පහරදීම සඳහා පැමිණීම අද තරගයේ විශේෂ සිදුවීමක් විය.
+
+ලන්ඩන්හි ඕවල් ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ ඉන්දීය කණ්ඩායමෙන් හිමි වූ ලකුණු 374ක ඉලක්කය එංගලන්ත කණ්ඩායමේ සියලුදෙනා දැවී රැස්කර ගත හැකි වූයේ ලකුණු 367ක් පමණි.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දියාව ලකුණු 224/10ක් රැස්කළ අතර, ඊට පිළිතුරු ලෙස එංගලන්තය ලකුණු 247/10කට දැවී ගියේය.
+
+ඒ අනුව ලකුණු 23ක් පසුපසින් දෙවන ඉනිම ඇරඹූ ඉන්දියාව එවර ලකුණු 396කට දැවීගියේය.
+
+කෙසේ නමුත් මෙහිදී ඔවුන්ට එංගලන්තයට ලබාදීමට හැකිවූයේ ලකුණු 374ක ඉලක්කයක් පමණි.
+
+එංගලන්ත දෙවන ඉනිම වෙනුවෙන් හැරී බෘෘක්  ලකුණු 111ක් රැස්කළ අතර ජෝ රූට්  ලකුණු 105ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/d66d4b31.json)
+
+---
+
+### கண்டி எசல பெரஹராவை முன்னிட்டு விசேட சோதனை நடவடிக்கை ; போலி அடையாள அட்டைகளுடன் ஒருவர் கைது!
+
+*2025-08-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221794) · `ta`
+
+கண்டி எசல பெரஹராவை முன்னிட்டு மேற்கொள்ளப்பட்ட விசேட சோதனை நடவடிக்கையின் போது, போலியாக தயாரிக்கப்பட்ட 08 தேசிய அடையாள அட்டைகளுடன் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கண்டி மாவட்ட பொலிஸ் அத்தியட்சகர் அனுருத்த பண்டாரநாயக்க தெரிவித்துள்ளார்.
+
+இன்று (04) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் உரையாற்றிய போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+இந்த ஆண்டு ரந்தோலி பெரஹராவை காண அதிகமான பக்தர்கள் வருவார்கள் என எதிர்பார்க்கப்படுவதால், பாதுகாப்பை உறுதி செய்ய பொலிஸ் அதிகாரிகள் பணிகளில் ஈடுபடுத்தப்படுவார்கள்.
+
+பெரஹராவை பார்ப்பது போன்ற போலிக்காரணத்தில் பல்வேறு குற்றச் செயல்களில் ஈடுபடக்கூடிய நபர்கள் பொதுமக்களிடையே இருப்பதால், சந்தேகத்திற்கிடமான நபர்களைக் கண்டால் உடனடியாக அருகிலுள்ள பொலிஸ் அதிகாரிக்கு தெரிவிக்குமாறு கண்டி மாவட்ட பொலிஸ் அத்தியட்சகர் அனுருத்த பண்டாரநாயக்க பொதுமக்களிடம் கேட்டுக்கொண்டார்.
+
+மேலும்,  கண்டி நகரம் வழியாக மஹியங்கனை, மாத்தளை போன்ற பகுதிகளுக்கு செல்லும் மக்கள், மாற்று பாதைகளை பயன்படுத்த வேண்டும் எனவும் அவர் அறிவுறுத்தினார்.
+
+...
+
+[Data](articles/81b27f28.json)
+
+---
 
 ### 8 ​NICயுடன் கண்டியில் ஒருவர் கைது
 
@@ -66,6 +154,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### செம்மணியில் ஸ்கேன் நடவடிக்கை
+
+*2025-08-04 16:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/செம்மணியில்-ஸ்கேன்-நடவடிக்கை/150-362285) · `ta`
+
+செம்மணி பகுதியில் தற்போது அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வரும் இரண்டு மனித புதைகுழிகளுக்கு மேலதிகமாக அப்பகுதியில் வேறு மனித புதைகுழிகளும் காணப்படுகின்றனவா என்பதனை கண்டறியும் நோக்குடன் ஸ்கான் நடவடிக்கைகள் திங்கட்கிழமை (04) அன்று முன்னெடுக்கப்பட்டது.
+
+ஜி.பி.ஆர். ஸ்கானர் (தரையை ஊடுருவும் ராடர்) மூலம், பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க பாதுகாப்பு அமைச்சின் அனுமதிகள் கிடைக்கப்பெறவில்லை
+
+அந்நிலையில், ஶ்ரீஜெயவர்வத்தன புர பல்கலைக்கழகத்தில் உள்ள ஸ்கானர் கருவியை யாழ் பல்கலைகழகம் ஊடாக பெற்று அதனை பயன்படுத்த நடவடிக்கை எடுக்கப்பட்டது.
+
+அந்த நடவடிக்கையை அடுத்து , திங்கட்கிழமை குறித்த ஸ்கானரை பயன்படுத்தி ஆய்வு நடவடிக்கைகள் முன்னெடுக்கப்பட்டது.
+
+அதேவேளை செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களான ஆடைகள் மற்றும் பிற பொருட்களை பொதுமக்கள் அடையாளம் காட்டும் வகையில்  நாளைய தினம் செவ்வாய்க்கிழமை செம்மணி சிந்துபாத்தி இந்து மயானத்தில் மதியம் 1.30 மணி முதல் , மாலை 5 மணி வரையில் காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/818326ce.json)
+
+---
+
 ### செம்மணியில் ஸ்கான் நடவடிக்கை
 
 *2025-08-04 16:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-ஸ்கான்-நடவடிக்கை/175-362285) · `ta`
@@ -83,6 +191,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/86e3bae9.json)
+
+---
+
+### கந்தானையில் நிர்வாணமாக சைக்கிளில் சென்ற  நபர்
+
+*2025-08-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221796) · `ta`
+
+கந்தானை நகரில் நிர்வாண கோலத்தில் சைக்கிளில் நபரொருவர் சென்ற சம்பவம் வாகனம் ஒன்றின் முன்பக்க கமராவில் பதிவாகியுள்ளது.
+
+அதில் நபரொருவர் அமைதியாக சைக்கிளை மிதித்து, சைக்கிளின் கைப்பிடியின் இருபுறமும் தனது ஆடைகளைப் பிடித்துக் கொண்டு செல்லும் காட்சி பதிவாகியுள்ளது.
+
+பட்டப்பகலில் நடந்த இந்த சம்பவம் பிரதேச மக்கள் மற்றும் அதிகாரிகளின் கவனத்தை ஈர்த்துள்ளது.
+
+அந்த நபரை அடையாளம் காணவும், ஏதேனும் சட்ட நடவடிக்கை எடுக்கப்பட வேண்டுமா என்பதைத் தீர்மானிக்கவும் பொலிஸார் தற்போது காட்சிகளை பரிசீலனை செய்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/f307ed18.json)
 
 ---
 
@@ -227,6 +353,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9829b92d.json)
+
+---
+
+### ‘You have a child, right?’ – Kehelbaddara Padme threatens OIC Linton Silva
+
+*2025-08-04 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111156/you-have-a-child-right-kehelbaddara-padme-threatens-oic-linton-silva) · `en`
+
+A notorious Sri Lankan underworld figure known as “Kehelbaddara Padme” has allegedly issued a death threat to Chief Inspector Linton Silva, the Officer-in-Charge (OIC) of the Western Province North Crimes Division, following the arrest of one of his close associates.
+
+The threat was reportedly made via a phone call at around 8:45 p.m. yesterday (03 August).
+
+The incident follows the arrest of a 39-year-old suspect known as “Gampaha Deva,” a close associate of Kehelbaddara Padme, by officers of the Airport Criminal Investigation Unit on the same day.
+
+According to police, the suspect has previously met ‘Padme’ in both Russia and Thailand and is believed to have been planning another visit to Thailand to meet him.
+
+The arrested individual is allegedly linked to multiple criminal activities, including murder, said police.
+
+Further investigations are being carried out under the supervision of Assistant Superintendent of Police Rohan Olugala and Chief Inspector Linton Silva.
+
+...
+
+[Data](articles/0e3f202e.json)
 
 ---
 
@@ -1701,133 +1849,5 @@ At the time the ASPI crossed this significant threshold, today’s turnover was 
 ◼️
 
 [Data](articles/5b96e15e.json)
-
----
-
-### யானை தாக்கி 7 வயது சிறுமி உயிரிழப்பு
-
-*2025-08-04 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221747) · `ta`
-
-இதேவேளை,  யானை தாக்குதலில் படுகாயமடைந்த அவரது தந்தை அம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-சம்பவத்தன்று பாடசாலை விடுமுறை என்பதால் சிறுமி தனது தந்தைக்கு விவசாய நடவடிக்கைகளில் உதவி செய்து கொண்டிருந்த வேளை காட்டு யானை இருவரையும் தாக்கியுள்ளது.
-
-◼️
-
-[Data](articles/33a3f215.json)
-
----
-
-### තවත් මියගිය වනඅලියෙකුගේ සිරුරක් සොයාගනී
-
-*2025-08-04 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212993) · `si`
-
-තණමල්විල, හම්බෙගමුව පොලිස් බලප්‍රදේශයට අයත් දහයියාගල කරමැටිය වැව ආසන්නයේ වගුරු බිමක තිබී මියගිය වනඅලියෙකුගේ සිරුරක් සොයාගෙන තිබේ.
-
-මෙම වනඅලියාට වනජීවි නිලධාරීන් විසින් අවස්ථා රැසක දී ප්‍රතිකාර කටයුතු ද සිදුකර ඇති අතර නමුත් පසුව එම අලියා මියගොස් ඇත.
-
-මරණයට නිශ්චිත හේතුවක් අනාවරණය වී නොමැති අතර මළසිරුර සම්බන්ධයෙන් පශ්චාත් මරන පරීක්ෂණය සිදුකිරීමට නියමිතව තිබේ.
-
-සිද්ධිය සම්බන්ධයෙන් හම්බෙගමුව පොලිස් ස්ථානයේ නිලධාරීන් සහ වනජීවි නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/2c0459bb.json)
-
----
-
-### அகதிகள் சென்ற படகு கடலில் கவிழ்ந்து விபத்து ; 68 பேர் உயிரிழப்பு
-
-*2025-08-04 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221746) · `ta`
-
-ஏமன் கடற்பகுதியில் அகதிகள் படகு கவிழ்ந்ததில் 12 அகதிகள் உயிருடன் மீட்கப்பட்டுள்ளதோடு, 68 பேர் உயிரிழந்துள்ளனர்.
-
-74 பேர் கடலில் மாயமான நிலையில் அவர்களை தேடும் பணி கடல் கொந்தளிப்புக்கு மத்தியில் தீவிரமாக நடைபெற்று வருகிறது.
-
-ஆபிரிக்காவின் எத்தியோப்பியாவில் இருந்து 154 பேர் மத்திய தரைக்கடல் வழியாக ஐரோப்பிய நாடுகளுக்குள் சட்டவிரோத அகதிகளாக நுழையும் ஆபத்தான பயணத்தை மேற்கொண்டுள்ளனர்.
-
-மத்திய தரைக்கடலில் ஏமன் கடற்பகுதியில் சென்றுகொண்டிருந்தபோது அகதிகளின் படகு கடலில் கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
-
-◼️
-
-[Data](articles/5828976b.json)
-
----
-
-### Sri Lanka earned $3.7 bln from tourist arrivals in six months - Foreign Minister
-
-*2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months-foreign-minister) · `en`
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath stated that an income of $3.7 billion has been generated from tourist arrivals over the past six months.
-
-He added that another $3.7 billion in revenue is expected by the end of the year.
-
-Minister Herath made these remarks while attending an event at the Seeta Amman Kovil in Nuwara Eliya.
-
-He explained that Indians are the largest group of tourists arriving in Sri Lanka, with many coming for religious purposes, and added that religious sites such as Koneswaram Temple and Kataragama are particularly popular among them.
-
-Commenting further, he said, “That is a major strength for us. As you know, we were economically bankrupt. To recover from that situation, we need to rapidly develop the tourism industry. We are working toward that goal. So far, 1.3 million tourists have arrived, and we have earned $3.7 billion in revenue in the past six months.
-
-...
-
-[Data](articles/2f458031.json)
-
----
-
-### Sri Lanka earned $3.7 bln from tourist arrivals in six months - Foreign Minister
-
-*2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months) · `en`
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath stated that an income of $3.7 billion has been generated from tourist arrivals over the past six months.
-
-He added that another $3.7 billion in revenue is expected by the end of the year.
-
-Minister Herath made these remarks while attending an event at the Seeta Amman Kovil in Nuwara Eliya.
-
-He explained that Indians are the largest group of tourists arriving in Sri Lanka, with many coming for religious purposes, and added that religious sites such as Koneswaram Temple and Kataragama are particularly popular among them.
-
-Commenting further, he said, “That is a major strength for us. As you know, we were economically bankrupt. To recover from that situation, we need to rapidly develop the tourism industry. We are working toward that goal. So far, 1.3 million tourists have arrived, and we have earned $3.7 billion in revenue in the past six months.
-
-...
-
-[Data](articles/67c92d07.json)
-
----
-
-### Sri Lanka stock index tops 20,000 points, rupee steady
-
-*2025-08-04 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stock-index-tops-20000-points-rupee-steady-234430/) · `en`
-
-ECONOMYNEXT – Sri Lanka benchmark Colombo All Share Index topped, 20,000 points, rising 99 points in early trade, provisional stock exchange data showed, and the rupee was flat, dealers said.
-
-Sri Lanka’s rupee opened at 301.10/22 to the US dollar in the spot market Monday, relatively flat from 301.20/30 the previous day, while bond yields held broadly steady, dealers said.
-
-The telegraphic transfer rates were: euro buying 342.332 selling 353.5380, British pound buying 394.2796 selling 405.6214, American dollar buying 297.7500 selling 304.7500.
-
-A bond maturing on 15.10.2028 was quoted at 8.85/90 percent, up from 8.75/85 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.40/43 percent, up rom 9.35/40 percent.
-
-A bond maturing on 15.03.2031 was quoted at 9.85/95 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.25/30 percent, from 10.23/26 percent. (Colombo/Aug4/2025)
-
-◼️
-
-[Data](articles/59fd60af.json)
-
----
-
-### கம்பஹா - கொழும்பு தனியார் பஸ் சேவைகள் இடைநிறுத்தம்
-
-*2025-08-04 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221743) · `ta`
-
-கம்பஹாவிலிருந்து கொழும்பு மற்றும் பல இடங்களுக்கு இயக்கப்படும் தனியார் பஸ் சேவைகள் இன்று திங்கட்கிழமை (04) இடைநிறுத்தப்பட்டுள்ளன.
-
-கம்பஹா - கொழும்பு வழிதடங்களில் சில இடங்களில் தனியார் பஸ்களை நிறுத்துவதற்கு விதிக்கப்பட்ட கட்டுப்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து சேவைகள் இடைநிறுத்தப்பட்டுள்ளதாக கம்பஹா தனியார் பஸ்  உரிமையாளர்கள் சங்கம் அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/89238d58.json)
 
 ---

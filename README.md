@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 05:19:10**
+As of **2025-08-04 05:32:19**
 
 ## Newspaper Stats
 
-*Scraped **68,480** Articles*
+*Scraped **68,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 703
 islandlk | 4,180
 economynextcom | 4,182
 dailymirrorlk | 4,733
-dailyftlk | 4,834
+dailyftlk | 4,836
 adalk | 6,588
 adaderanalk | 8,481
 tamilmirrorlk | 9,934
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,480 articles have been extended.
+61,973 (90.5%) of 68,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### CIABOC to take legal action against top public officials who fail to submit asset declarations
+
+*2025-08-04 05:10:05* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-to-take-legal-action-against-top-public-officials-who-fail-to-submit-asset-declarations/56-779858) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has announced that legal action will be taken against any Executive Grade State officials who fail to submit their assets and liabilities declarations by 31 August 2025.
+
+Issuing a statement in this regard, the Commission noted that officials who were required to submit their declarations by 31 March should have submitted their assets and liabilities declarations to the respective heads of their institutions by 30 June, in order for them to be forwarded to the CIABOC.
+
+However, the Commission added that legal action will be taken under Section 90 of the Anti-Corruption Act, No. 9 of 2023 against officials who fail to submit their assets and liabilitie declarations to their heads of institutions by 31 August.
+
+In addition, the Commission announced that a fine will be imposed in accordance with the provisions of the Act for late declarations submitted between 30 June and 31 August 2025.
+
+...
+
+[Data](articles/1737cf65.json)
+
+---
+
+### Prime Minister vows no obstruction to student protests
+
+*2025-08-04 05:09:28* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-vows-no-obstruction-to-student-protests/56-779857) · `en`
+
+Prime Minister Dr. Harini Amarasuriya engaging in a cordial conversation with the students of the University of Vavuniya following the event
+
+Opines University system has expanded over the years but quality has not kept pace
+
+Prime Minister Dr. Harini Amarasuriya, who also serves as the Education, Higher Education, and Vocational Education Minister, said that the Government will not obstruct student protests, struggles, or political activity within universities.
+
+However, she made it clear where the line would be drawn. “There will be no tolerance for violence, ragging, or any act that harms the peaceful student community within universities. We are not prepared to offer forgiveness for such acts,” she said.
+
+...
+
+[Data](articles/0eddad35.json)
+
+---
 
 ### Kasun Wellahewa appointed Acting Commissioner General of Buddhist Affairs
 
@@ -1697,39 +1733,5 @@ Shootings in 2025 have resulted in the deaths of 41 individuals, while 43 others
 ◼️
 
 [Data](articles/744dc88b.json)
-
----
-
-### 2024/2025 ආදායම් වාර්තා ලබා දීමට තිබූ PIN අංකයේ කාලය දීර්ඝ කෙරේ
-
-*2025-08-03 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212967) · `si`
-
-2024/2025 තක්සේරු වර්ෂය සඳහා ආදායම් වාර්තා ඉදිරිපත් කිරීම සඳහා දැනටමත් නිකුත් කර ඇති පුද්ගලික හඳුනාගැනීම් අංකය (PIN) වලංගු කාලය දීර්ඝ කිරීමට දේශීය ආදායම් බදු දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
-
-ඒ අනුව එහි වලංගු කාලය එළැඹෙන නොවැම්බර් මස 30 වැනිදා දක්වා දීර්ඝ කිරීමට එම දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
-
-◼️
-
-[Data](articles/acc0d97a.json)
-
----
-
-### Validity period of PIN issued for submission of tax returns for 2024/2025 extended
-
-*2025-08-03 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111122/validity-period-of-pin-issued-for-submission-of-tax-returns-for-20242025-extended) · `en`
-
-The validity of the Personal Identification Number (PIN) issued by the Inland Revenue Department for the submission of income tax returns for the year of assessment 2024/2025 has been extended.
-
-The validity period has been extended until November 30, 2025, the Inland Revenue Department noted.
-
-The extension will be applicable to all categories including corporate taxpayers.
-
-The tax returns for the 2024/2025 assessment year must be filed online, according to new regulation.
-
-The IRD PIN is a unique identification number issued to individuals to access accounts via the Revenue Administration Management Information System (RAMIS) of the Inland Revenue Department.
-
-◼️
-
-[Data](articles/56c6bf18.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 11:10:21**
+As of **2025-08-04 11:30:32**
 
 ## Newspaper Stats
 
-*Scraped **68,533** Articles*
+*Scraped **68,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,66 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,594
-adaderanalk | 8,487
-tamilmirrorlk | 9,951
+adaderanalk | 8,489
+tamilmirrorlk | 9,952
 virakesarilk | 11,418
-adaderanasinhalalk | 11,803
+adaderanasinhalalk | 11,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,533 articles have been extended.
+61,973 (90.4%) of 68,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
 
+### யானையை வைத்திருந்த நீதிபதிக்கு சிக்கல்
+
+*2025-08-04 11:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையை-வைத்திருந்த-நீதிபதிக்கு-சிக்கல்/175-362260) · `ta`
+
+மொரட்டுவ நீதிபதி திலின கமகேயின் சேவைகளை இடைநிறுத்த நீதிச்சேவை ஆணைக்குழுச் செயலகம் நடவடிக்கை எடுத்துள்ளது.
+
+சட்டவிரோதமாக ஒரு கன்று யானையை வைத்திருந்தது உள்ளிட்ட குற்றச்சாட்டுகள் தொடர்பாக நீதிச்சேவை ஆணைக்குழுச் செயலகத்தால் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து இந்த இடைநீக்கம் விதிக்கப்பட்டுள்ளது.
+
+கன்று யானையை சட்டவிரோதமாக வாங்கியது தொடர்பான வழக்கு தொடர்பாக 2015இல் அவர் இடைநீக்கம் செய்யப்பட்டார்.
+
+அவர் நீதித்துறை சேவைக்கு தகுதியானவரா? இல்லையா? என்பதை தீர்மானிக்க விசாரணை நடத்தப்பட இருந்தது.
+
+◼️
+
+[Data](articles/e0bee95a.json)
+
+---
+
+### පියා කැපූ වැසිකිළි වළට වැටී කුඩා හෙලෝන් දිවි හැරයයි
+
+*2025-08-04 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212996) · `si`
+
+පියා විසින් කපා තිබූ වැසිකිළි වළට වැටී ඔහුගේ බාල පුත්‍රයා ජීවිතක්ෂයට පත්ය ඇති පුවතක් බගවන්තලාව ප්‍රදේශයෙන් අද දෙරණට වාර්තා විය.
+
+මෙලෙස අවාසනාවන්ත ලෙස ජීවිතය හැරගොස් ඇත්තේ බගවන්තලාව කිව් වතුයායේ ඉහළ කොටසේ පදිංචිව සිටි එම වතුයායේම 3 වන වසරේ අධ්‍යාපනය ලබමින් සිටි හෙලෝන් සසාන් නැමති 08 හැවිරිදි සිසුවාය.
+
+එම වතුයායේ ඉහළ කොටසේ වතුකම්කරුවෙකු විසින් අලුතින් ඉදිකරමින් පවතින නිවසට වැසිකිළියක් ඉදි කිරීම සඳහා අඩි 06ක පමණ ගැඹුරකින් යුත් වළක් මෙම පියා විසින් කපා තිබී ඇත.
+
+මෙම කුඩා දරුවා වැසි ජලය පිරී තිබූ එම වළ අසළින් ඊයේ (03) ගමන් කරමින් සිටි අවස්ථාවක ඔහු එම වළට වැටෙන්නට ඇති බවට සිද්ධිය සම්බන්ධයෙන් පරික්ෂණ පවත්වන පොලිස් නිලධාරීන් සැකපල කරයි.
+
+මද වෙලාවක සිට සිය බාල පුත්‍රයා නිවසේ නොමැතිවීමත් හේතුවෙන් පියා විසින් ඒ පිලිබඳව සොයා බලා තිබේ.
+
+පසුව ඇති වූ සැකයක් මත වැසිකිළි වළ අසල පරීක්ෂා කිරීමේ දී එම ස්ථානයේ තිබී දරුවාගේ පාවහන් යුගළ දැක ඇත.
+
+...
+
+[Data](articles/f774619b.json)
+
+---
+
 ### சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் மீட்பு
 
 *2025-08-04 10:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/சதுப்பு-நிலத்தில்-காட்டு-யானையின்-சடலம்-மீட்பு/52-362259) · `ta`
 
-தனமல்வில ஹம்பேகமுவ பகுதியில் உள்ள ஏரிக்கு அருகிலுள்ள சதுப்பு நிலத்தில் இறந்த காட்டு யானையின் உடல் மீட்பு
-
-தனமல்வில ஹம்பேகமுவ பகுதியில் உள்ள கரமெட்டிய குளத்துக்கு அருகிலுள்ள சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் மீட்கப்பட்டுள்ளது.
+தனமல்வில அம்பேகமுவ பகுதியில் உள்ள கரமெட்டிய குளத்துக்கு அருகிலுள்ள சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் மீட்கப்பட்டுள்ளது.
 
 இந்த யானை இறப்பதற்கு முன்னர் பல சந்தர்ப்பங்களில் சிகிச்சை பெற்று வந்ததாகவும்,  மரணத்திற்கான சரியான காரணம் இன்னும் கண்டறியப்படவில்லை என, வனவிலங்கு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
 
@@ -216,6 +254,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Another wild elephant found dead in Thanamalwila
+
+*2025-08-04 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111140/another-wild-elephant-found-dead-in-thanamalwila) · `en`
+
+The carcass of a wild elephant has been discovered in a swamp near the Karametiya Tank, within the Dahaiyagala area of the Hambegamuwa Police Division in Thanamalwila.
+
+According to wildlife officials, the elephant had been under treatment on several occasions prior to its death. However, the exact cause of death has not yet been determined.
+
+A post-mortem examination is scheduled to be conducted to ascertain the cause of death.
+
+Further investigations into the incident are being carried out by officers from the Hambegamuwa Police Station in coordination with wildlife authorities.
+
+◼️
+
+[Data](articles/261d608d.json)
+
+---
+
 ### வரியை குறைத்த டிரம்ப்...
 
 *2025-08-04 10:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரியை-குறைத்த-டிரம்ப்/62-362246) · `ta`
@@ -223,6 +279,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a571a4da.json)
+
+---
+
+### ASPI surpasses 20,000 points for the first time in history
+
+*2025-08-04 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111139/aspi-surpasses-20000-points-for-the-first-time-in-history) · `en`
+
+The Colombo Stock Exchange (CSE) reached a historic milestone today (04), as the All Share Price Index (ASPI) surpassed the 20,000 mark for the first time during morning trading.
+
+At the time the ASPI crossed this significant threshold, today’s turnover was recorded as over Rs. 432 million.
+
+◼️
+
+[Data](articles/97686aa2.json)
 
 ---
 
@@ -326,7 +396,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Sri Lanka earned $3.7 bln from tourist arrivals in six months
+### Sri Lanka earned $3.7 bln from tourist arrivals in six months - Foreign Minister
 
 *2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months) · `en`
 
@@ -376,7 +446,7 @@ Commenting further, he said, “That is a major strength for us. As you know, we
 
 ---
 
-### Gampaha-Colombo private buses suspend services
+### Gampaha-Colombo private bus owners suspend services
 
 *2025-08-04 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111137/gampaha-colombo-private-buses-suspend-services) · `en`
 
@@ -394,7 +464,7 @@ Private bus services operating from Gampaha to Colombo and several other destina
 
 ගම්පහ සිට කොළඹ දක්වා සහ තවත් ගමනාන්ත කිහිපයක් දක්වා පෞද්ගලික බස් ධාවනය නවතා දැමීමට තීරණය කර තිබේ.
 
-ඇතැම් ස්ථානවල බස් රථ නතර කිරීමට ඉඩ ලබානොදීමට විරෝධය පළ කරමින් මෙලෙස සිය සේවා නවතා දැමීමට කටයුතු කළ බව ගම්පහ පෞද්ගලික බස් හිමියන්ගේ සංගමය වැඩිදුරටත් පවසයි.
+ඇතැම් ස්ථානවල බස්රථ නතර කිරීමට ඉඩ ලබානොදීමට විරෝධය පළ කරමින් මෙලෙස සිය සේවා නවතා දැමීමට කටයුතු කළ බව ගම්පහ පෞද්ගලික බස් හිමියන්ගේ සංගමය වැඩිදුරටත් පවසයි.
 
 ◼️
 
@@ -1643,81 +1713,5 @@ That evening, as devout Muslims gathered for Isha prayers, LTTE militants storme
 ...
 
 [Data](articles/fec0fc8c.json)
-
----
-
-### 7-year-old girl killed in wild elephant attack in Hambantota
-
-*2025-08-03 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111129/7-year-old-girl-killed-in-wild-elephant-attack-in-hambantota) · `en`
-
-A 7-year-old child has died after being attacked by a wild elephant in the Sinukkugala area of Hambantota.
-
-The deceased was a 7-year-old girl who was in Grade 2 at school.
-
-Her father, who also sustained critical injuries in the elephant attack, has been admitted to the District General Hospital in Hambantota.
-
-The incident occurred at around 6.00 a.m. today (03), while the girl was accompanied her father to the cultivation land.
-
-The girl had reportedly been helping her father with farming activities, as it was a school holiday, when the wild elephant had attacked both of them.
-
-◼️
-
-[Data](articles/13135805.json)
-
----
-
-### උණවටුනට එන බස්වලින් අධික ශබ්ද‍යෙන් සංගීතවාදන පැවැත්වීම තහනම්
-
-*2025-08-03 17:30:05* · [`adalk`](https://www.ada.lk/breaking_news/උණවටුනට-එන-බස්වලින්-අධික-ශබ්ද‍යෙන්-සංගීතවාදන-පැවැත්වීම-තහනම්/11-417690) · `si`
-
-පාසල් සිසුන් ඇතුළු, චාරිකා සඳහා පැමිණෙන පුද්ගලයන් රැගත් බස් රථ උණවටුන වෙරළ ආසන්න ප්‍රදේශයේ නවත්වාගෙන අධික ශබ්දයෙන් සංගීත වාදන පැවැත්වීම නතර කරන ලෙස ගාල්ල දිස්ත්‍රික් ලේකම් හබරාදුව පොලිස් ස්ථානයට පසුගිය  දා දැනුම් දුන්නේ ය.
-
-දිස්ත්‍රික් ලේකම් කාර්යාලයේ දී පසුගිය 31 වැනි දා පැවැති දිස්ත්‍රික් පරිසර කමිටු රැස්වීමේ දී මෙම කරුණ සාකච්ඡාවට ලක් වූ අතර එහි දී දිස්ත්‍රික් ලේකම් ඩබ්ලිව්.ඒ.ධර්මසිරි මහතා කියා සිටියේ මෙම ගෝෂාකාරී ශබ්දය පිළිබඳ දිගින් දිගටම පැමිණිලි ලැබෙන බවයි.
-
-ශබ්ද විකාශන භාවිතා කිරීමේ දී රටේ නීතියක් තිබෙන බවත්, විනෝද චාරිකා පැමිණෙන බස්රථවල ශබ්ද විකාශන උපකරණ සවිකරගෙන ඒවා ඝෝෂාකාරී ලෙස ක්‍රියාත්මක කිරීම පදිංචිකරුවන්ට බලවත් පීඩාවක් බව ද දිසාපතිවරයා පෙන්වා දුන්නේය.
-
-ඇතැම් බස් රථ මධ්‍යම රාත්‍රිය වනතුරුම එලෙස ඝෝෂාකාරී ශබ්ද විසුරුවාහරින බව ද දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ දී අනාවරණය විය.
-
-මෙය නවතා දැමීමට කටයුතු කරන බව හබරාදුව පොලිසිය දිස්ත්‍රික් පරිසර කමිටුවේ දී එකඟ විය.
-
-◼️
-
-[Data](articles/e39f8cc6.json)
-
----
-
-### காசாவில் செம்பிறை சமூகத்தின் தலைமையகம் மீது இஸ்ரேல் தாக்குதல் -  ஒருவர் பலி
-
-*2025-08-03 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/221717) · `ta`
-
-காசாவில் உள்ள பாலஸ்தீன செம்பிறை சமூகத்தின் தலைமையகம் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் தனது பணியாளர் ஒருவர் கொல்லப்பட்டுள்ளார் பலர் காயமடைந்துள்ளனர் என செம்பிறை சமூகம் தெரிவித்துள்ளது.
-
-இஸ்ரேலின் தாக்குதலால் கட்டிடத்தில் தீ மூண்டுள்ளது என தெரிவித்துள்ள செம்பிறை சமூகம் கான் யூனிசில் உள்ள தனது கட்டிடத்தை இஸ்ரேல் வேண்டுமென்றே தாக்கியதாக தெரிவித்துள்ளது.
-
-எங்கள் தலைமையகம் என்பது இஸ்ரேலிற்கு நன்கு தெரியும் என பாலஸ்தீன செம்பிறை சங்கம் தெரிவித்துள்ளது.
-
-கட்டிடம் தீப்பிடித்து எரிவதையும் புகைமண்டலம் காணப்படுவதையும் வெளியிட்டுள்ள செம்பிறை சங்கம்கட்டிடத்திற்கு பெரும் சேதம் ஏற்பட்டுள்ளதையும் இரத்;தக்கறை காணப்படுவதையும் காண்பிக்கும் படங்களையும் வெளியிட்டுள்ளது.
-
-◼️
-
-[Data](articles/de955479.json)
-
----
-
-### சுற்றுலாப் பயணிகள் சாரதி அனுமதி பத்திரத்தை விமான நிலையத்திலேயே பெற்றுக்கொள்ளலாம்
-
-*2025-08-03 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221714) · `ta`
-
-நாட்டுக்கு வருகை தரும் வெளிநாட்டு சுற்றுலா பயணிகள் இன்று ஞாயிற்றுக்கிழமை (03) முதல் கட்டுநாயக்க, பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் நேரடியாக தற்காலிக சாரதி அனுமதி பத்திரத்தை பெற்றுகொள்ளலாம்.
-
-சுற்றுலா பயணிகளின் வசதியை மேம்படுத்துவதை நோக்கமாகக் கொண்டு குறிப்பாக விமான நிலையத்திற்கு அருகில் வாகனங்களை வாடகைக்கு எடுத்து தங்கியிருக்கும் போது வாகனம் ஓட்ட விரும்பும் பயணிகளின் வசதியை மேம்படுத்துவதை நோக்கமாகக் கொண்டு on-arrival சேவை மையத்தால் இன்றையதினம் முதல் ஆரம்பிக்கப்பட்டுள்ளது.
-
-இதற்கு முன்னர், சுற்றுலாப் பயணிகள் வெரஹெரவில் உள்ள மோட்டார் போக்குவரத்துத் திணைக்களத்திலேயே நேரடியாக தற்காலிக சாரதி அனுமதி பெற்றுகொள்ளக் கூடியதாக இருந்தது.
-
-தற்போது, பெரும்பாலான சுற்றுலாப் பயணிகள் நாடு முழுவதும் பயணிக்க மோட்டார் சைக்கிள்கள், முச்சக்கர வண்டிகள் மற்றும் இலகுரக வாகனங்களைப் பயன்படுத்துகின்றனர்.
-
-...
-
-[Data](articles/31d36604.json)
 
 ---

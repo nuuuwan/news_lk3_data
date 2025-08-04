@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 12:12:13**
+As of **2025-08-04 12:33:55**
 
 ## Newspaper Stats
 
-*Scraped **68,548** Articles*
+*Scraped **68,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
 colombotelegraphcom | 703
-economynextcom | 4,182
+economynextcom | 4,185
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,596
+adalk | 6,598
 adaderanalk | 8,493
-tamilmirrorlk | 9,952
+tamilmirrorlk | 9,960
 virakesarilk | 11,422
 adaderanasinhalalk | 11,805
 
@@ -26,11 +26,115 @@ adaderanasinhalalk | 11,805
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,548 articles have been extended.
+61,973 (90.4%) of 68,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### வர்ணனையாளராக மாறிய கூகுள் CEO சுந்தர் பிச்சை
+
+*2025-08-04 12:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/வர்ணனையாளராக-மாறிய-கூகுள்-CEO-சுந்தர்-பிச்சை/44-362267) · `ta`
+
+இந்திய கிரிக்கெட் அணி இங்கிலாந்தில் சுற்றுப்பயணம் மேற்கொண்டு 5 போட்டிகள் கொண்ட டெஸ்ட் தொடரில் விளையாடியது.
+
+4 போட்டிகளின் முடிவில் இங்கிலாந்து 2-1 என்ற கணக்கில் முன்னிலையில் இருந்த நிலையில், இரு அணிகளுக்கும் இடையேயான 5-வது மற்றும் கடைசி போட்டி லண்டன் ஓவலில் நடைபெற்று வருகிறது.
+
+இந்நிலையில், இந்தியா - இங்கிலாந்து அணிகளுக்கு இடையேயான கிரிக்கெட் போட்டியில் கூகுள் நிறுவனத்தின் தலைமை நிர்வாக அதிகாரி சுந்தர் பிச்சை கலந்து கொண்டது அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியது.
+
+பொதுவாக தொழில்நுட்ப துறையில் காணப்படும் இவர், கிரிக்கெட் ரசிகராகவும் உள்ளார். இந்தியாவின் இரண்டாம் இன்னிங்ஸில், வாஷிங்டன் சுந்தர் அசத்தல் ஆட்டம் காட்டிய போது, சுந்தர் பிச்சை கமெண்டரியில் இருந்துள்ளார்.
+
+...
+
+[Data](articles/c8ae3b1e.json)
+
+---
+
+### பொலிஸ் நிலைய மரணங்கள்;IGPக்கு விசேட உத்தரவு
+
+*2025-08-04 11:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-நிலைய-மரணங்கள்-IGPக்கு-விசேட-உத்தரவு/175-362266) · `ta`
+
+இலங்கை மனித உரிமைகள் ஆணைக்குழு (HRCSL), வெள்ளிக்கிழமை (01) பொலிஸ் நிலையத்தில் இறந்த தனிநபர்களின் மரணம் தொடர்பான வழிகாட்டுதல்களின் அடிப்படையில் எடுக்கப்பட்ட நடவடிக்கைகளை மேற்பார்வையிட ஒரு அதிகாரியை நியமிக்கவும், ஓகஸ்ட் 28 அன்று இது தொடர்பாக அறிக்கை சமர்ப்பிக்கவும் பொலிஸ்மா அதிபருக்கு (IGP) உத்தரவிட்டது.
+
+பொலிஸ் போதைப்பொருள் தடுப்புப் பணியகத்தின் காவலில் இருந்தபோது இறந்த இலங்கை தொழிற்பயிற்சி ஆணைக்குழுவின் முகாமைத்துவ உதவியாளர் சமந்த பிரீத்தி குமாரவின் குடும்பத்திற்கு ஒன்பது பொலிஸ் அதிகாரிகள் ரூ. 2.5 மில்லியன் இழப்பீடு வழங்க ஆணைக்குழு உத்தரவிட்டது.
+
+ஹிக்கடுவ, தல்வட்டாவைச் சேர்ந்த இறந்தவரின் மனைவி டி.பி.தில்ருக்ஷி தாக்கல் செய்த மனுவை உறுதி செய்த மனித உரிமைகள் ஆணைக்குழு இந்த உத்தரவை பிறப்பித்தது.
+
+சமீபத்திய மாதங்களில் தொடர்ச்சியான பொலிஸ் நிலைய மரணங்களைத் தொடர்ந்து பொலிஸ் நிலைய மரணங்களைத் தடுப்பது குறித்து மே மாதம் பொலிஸ் திணைக்களத்திற்கு HRCSL 119 வழிகாட்டுதல்களை வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/415cfa29.json)
+
+---
+
+### போதையில் இருந்த சாரதியின் இருக்கையில் கசிப்பு கேன்
+
+*2025-08-04 11:53:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போதையில்-இருந்த-சாரதியின்-இருக்கையில்-கசிப்பு-கேன்/76-362265) · `ta`
+
+இலங்கை போக்குவரத்து சபையின் (SLTB) ஓட்டுநர் ஒருவர்  மதுபோதையில் பயணிகள் பேருந்தை ஓட்டியதற்காக நுவரெலியா பொலிஸாரால் ஞாயிற்றுக்கிழமை (03)  கைது செய்யப்பட்டார்.
+
+வெலிமடை-நுவரெலியா வழித்தடத்தில் இயக்கப்படும் பேருந்து, திவுலபிட்டிய டிப்போவைச் சேர்ந்தது என்றும், சீதா எலியாவில் உள்ள ஒரு பொலிஸ் சோதனைச் சாவடியில் நிறுத்தப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+பேருந்தை இயக்கும்போது ஓட்டுநர் குடிபோதையில் இருந்ததை பணியில் இருந்த அதிகாரிகள்,  கண்டறிந்தனர், அந்த நேரத்தில் அந்தப் பேருந்து நிறைய பயணிகளை ஏற்றிச் சென்றது.
+
+மேலும் சோதனை செய்ததில், ஓட்டுநர் இருக்கைக்குப் பின்னால் பல கசிப்பு கேன்கள் இருப்பது தெரியவந்தது. மேலும் விசாரணைக்காக பேருந்து உடனடியாக பொலிஸ்  நிலையத்திற்கு கொண்டு செல்லப்பட்டது.
+
+பின்னர் அதிகாரிகள் நுவரெலியா டிப்போவைச் சேர்ந்த மற்றொரு ஓட்டுநரும் நடத்துனரும் பேருந்தை தங்கள் கட்டுப்பாட்டில் எடுத்துக்கொண்டு பயணத்தைத் தொடர ஏற்பாடு செய்தனர்.
+
+◼️
+
+[Data](articles/b8aa4b1e.json)
+
+---
+
+### கண்டிக்கு விசேட ரயில் சேவை
+
+*2025-08-04 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டிக்கு-விசேட-ரயில்-சேவை/175-362264) · `ta`
+
+கண்டி நடைபெறவுள்ள எசல பெரஹராவை காண செல்பவர்களுக்கு இன்று திங்கட்கிழமை (04) முதல் எதிர்வரும் 08ஆம் திகதி வரை விசேட ரயில் சேவைகள் ஆரம்பிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+கொழும்பு கோட்டை, பொல்கஹவெல, மாத்தளை மற்றும் நாவலப்பிட்டியவிலிருந்து இந்த ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளதாகவும் திணைக்களம் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/28d46471.json)
+
+---
+
+### யோஷித, டெய்சியின் வழக்கு ஒத்திவைப்பு
+
+*2025-08-04 11:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யோஷித-டெய்சியின்-வழக்கு-ஒத்திவைப்பு/175-362263) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்‌ஷவின் மகன் யோஷித ராஜபக்‌ஷ மற்றும் அவரது பாட்டி டெய்சி ஃபாரஸ்ட் ஆகியோருக்கு எதிராக பணமோசடி தடுப்புச் சட்டத்தின் கீழ் தாக்கல் செய்யப்பட்ட வழக்கின் விசாரணையை கொழும்பு உயர் நீதிமன்றம் அக்டோபர் 29ஆம் திகதிக்கு ஒத்திவைத்துள்ளது.
+
+இவ்வழக்கு இன்று திங்கட்கிழமை (04)  கொழும்பு உயர் நீதிமன்றத்தில் அழைக்கப்பட்ட வேளையில், குற்றச்சாட்டாளர்கள் நீதிமன்றத்தில் முன்னிலையிலிருந்தனர்.
+
+ஆயினும், வழக்கை விசாரிக்கும் நீதிபதி பிரதீப் அபேரத்ன இன்று (04) விடுமுறையில் இருந்ததால், வழக்கு மீண்டும் ஒக்டோபர் 29ஆம் திகதிக்கு அழைக்கப்படுமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+கடந்த 2009ஆம் மார்ச் 31 முதல் 2013 டிசெம்பர் 12 வரையான காலப்பகுதியில், சட்டவிரோதமாக ஈட்டப்பட்ட ரூ.59 மில்லியனுக்கு மேற்பட்ட தொகையை மூன்று தனியார் வங்கிக் கணக்குகளில் நிலையான வைப்புகளாக வைத்ததன் மூலம், பணம் சுத்திகரிப்பு தடுப்பு சட்டத்திற்கு உட்பட்ட குற்றங்களைச் செய்துள்ளதாக சட்டப்பரிபாலகர் சார்பில் மூன்று குற்றச்சாட்டுகளின் கீழ் இவர்கள் மீது வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/32068380.json)
+
+---
+
+### ”எனது ஓய்வூதியத்தில் கைவைத்தால் நான் இறப்பேன்”
+
+*2025-08-04 11:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-ஓய்வூதியத்தில்-கைவைத்தால்-நான்-இறப்பேன்/175-362262) · `ta`
+
+"நான் இறப்பேன், ஆனால் தனியாக இல்லை, நான் ஒரு கொரில்லா போராளியாக இருந்தேன்" என்று முன்னாள் ஜேவிபி பாராளுமன்ற உறுப்பினரும் 1999 ஜனாதிபதித் தேர்தலுக்கான வேட்பாளருமான நந்தன குணதிலகே தனது பேஸ்புக் பதிவில் எச்சரித்துள்ளார். அரசாங்கம் முன்னாள் பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தை பறித்தால் தனக்கு ஏற்படக்கூடிய இக்கட்டான நிலையை மேற்கோள் காட்டி அவர் இவ்வாறு எச்சரித்துள்ளார்.
+
+முன்னாள் எம்.பி.யாக தனக்கு மாதந்தோறும் ரூ.68,000 ஓய்வூதியம் மட்டுமே கிடைப்பதாக அவர் கூறுகிறார். அதில் அவர் வசிக்கும் வீட்டின் வாடகை, பிற பயன்பாட்டுக் கட்டணங்கள் மற்றும் அவரது மருந்துகளுக்கான செலவுகள் ஆகியவற்றைச் செலுத்திய பிறகு, மாதாந்திர உணவுக்கு சுமார் ரூ.800 மட்டுமே மிச்சமாகும்.
+
+"ஐ.தே.க., ஸ்ரீ.ல.சு.க., ஜே.வி.பி. மற்றும் தமிழ் கட்சிகளை பிரதிநிதித்துவப்படுத்தும் 200க்கும் மேற்பட்ட முன்னாள் எம்.பி.க்கள் பாராளுமன்றத்தில் உள்ளனர்" என்று குணதிலகே கூறினார்.
+
+...
+
+[Data](articles/659727ae.json)
+
+---
 
 ### 25,000 individuals inspected during special police operation
 
@@ -49,6 +153,24 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/9a66fb89.json)
+
+---
+
+### அரச அதிகாரிகளுக்கு முக்கிய அறிவிப்பு
+
+*2025-08-04 11:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அதிகாரிகளுக்கு-முக்கிய-அறிவிப்பு/175-362261) · `ta`
+
+ஆகஸ்ட் 31க்குள் சொத்துக்கள் மற்றும் பொறுப்புகள் பற்றிய அறிவிப்புகளைச் சமர்ப்பிக்கத் தவறும் எந்தவொரு அரச அதிகாரிகளுக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என்று இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணையம் வெளியிட்டுள்ள அறிக்கையில் (CIABOC) தெரிவிக்கப்பட்டுள்ளது.
+
+2023ஆம் ஆண்டு 9ஆம் எண் ஊழல் தடுப்புச் சட்டத்தின் பிரிவு 90இன் கீழ் சட்ட நடவடிக்கை எடுக்கப்படும் என்று CIABOC கூறுகிறது.
+
+மார்ச் 31 திகதியிட்ட தங்கள் சொத்துக்கள் மற்றும் பொறுப்புகள் பற்றிய அறிவிப்புகளைச் சமர்ப்பிக்க வேண்டிய அதிகாரிகள் ஜூன் 30ஆம் திகதிக்குள் அவற்றை இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணையத்திக்கு அனுப்புவதற்காக அந்தந்த நிறுவனத் தலைவர்களிடம் ஒப்படைக்க வேண்டும் என்றும் அறிக்கையில் குறிப்பிடுகிறது.
+
+கூடுதலாக, ஜூன் 30 முதல் ஆகஸ்ட் 31, 2025 வரை தாமதமாக சமர்ப்பிக்கப்படும் அறிவிப்புகளுக்கு சட்டத்தின் விதிகளின்படி அபராதம் விதிக்கப்படும் என்று ஆணையம் அறிவித்துள்ளது.
+
+...
+
+[Data](articles/28d54301.json)
 
 ---
 
@@ -78,9 +200,9 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 மொரட்டுவ நீதிபதி திலின கமகேயின் சேவைகளை இடைநிறுத்த நீதிச்சேவை ஆணைக்குழுச் செயலகம் நடவடிக்கை எடுத்துள்ளது.
 
-சட்டவிரோதமாக ஒரு கன்று யானையை வைத்திருந்தது உள்ளிட்ட குற்றச்சாட்டுகள் தொடர்பாக நீதிச்சேவை ஆணைக்குழுச் செயலகத்தால் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து இந்த இடைநீக்கம் விதிக்கப்பட்டுள்ளது.
+சட்டவிரோதமாக ஒரு குட்டி யானையை வைத்திருந்தது உள்ளிட்ட குற்றச்சாட்டுகள் தொடர்பாக நீதிச்சேவை ஆணைக்குழுச் செயலகத்தால் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து இந்த இடைநீக்கம் விதிக்கப்பட்டுள்ளது.
 
-கன்று யானையை சட்டவிரோதமாக வாங்கியது தொடர்பான வழக்கு தொடர்பாக 2015இல் அவர் இடைநீக்கம் செய்யப்பட்டார்.
+குட்டி யானையை சட்டவிரோதமாக வாங்கியது தொடர்பான வழக்கு தொடர்பாக 2015இல் அவர் இடைநீக்கம் செய்யப்பட்டார்.
 
 அவர் நீதித்துறை சேவைக்கு தகுதியானவரா? இல்லையா? என்பதை தீர்மானிக்க விசாரணை நடத்தப்பட இருந்தது.
 
@@ -109,6 +231,26 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ...
 
 [Data](articles/f774619b.json)
+
+---
+
+### European automakers’ margins stressed by tariffs, Chinese competition: Fitch
+
+*2025-08-04 11:04:00* · [`economynextcom`](https://economynext.com/european-automakers-margins-stressed-by-tariffs-chinese-competition-fitch-234462/) · `en`
+
+ECONOMYNEXT – European automakers, including Volkswagen and Mercedes-Benz, will see their profitability decline this year because of US tariff-related disruptions and challenging conditions in China, Fitch Ratings says.
+
+“Tariffs pose a significant risk for automakers exporting vehicles manufactured at facilities in Japan, Korea and Germany to the US,” Fitch said.
+
+“Fitch expects the US tariff announcements to have negative implications for automotive production and sales, prompting automakers to rapidly restructure their manufacturing footprints and optimise fixed costs.”
+
+German automakers have continued to cede market share in China to domestic competitors and have faced heightened pricing pressures, Fitch said.
+
+The ratings agency also said it expects a decline in sales in Europe.
+
+...
+
+[Data](articles/21c122f2.json)
 
 ---
 
@@ -400,6 +542,22 @@ The Attorney General has filed the case under three charges, alleging that the d
 
 ---
 
+### பிஸ்கட்டுகளுடன் காட்டுக்குள் ஓடிய லொறி
+
+*2025-08-04 10:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிஸ்கட்டுகளுடன்-காட்டுக்குள்-ஓடிய-லொறி/76-362247) · `ta`
+
+கொழும்பு-கண்டி சாலையில் மாவனெல்ல உடுவான்கந்த பகுதியில் பிஸ்கட்களை ஏற்றிச் சென்ற ஒரு சிறிய லொறி சாலையை விட்டு விலகி, ஞாயிற்றுக்கிழமை (03) கவிழ்ந்தது,
+
+அதன் ஓட்டுநர் சிறு காயங்களுடன் மாவனெல்ல மருத்துவமனையில் அனுமதிக்கப்பட்டதாக மாவனெல்ல பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் சாரதிக்கு எந்த காயமும் ஏற்படவில்லை என்றும், மாவனெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0622c110.json)
+
+---
+
 ### பிஸ்கட்டுகளுடன் காட்டுக்குள் ஓடிய பிஸ்கட் லொறி
 
 *2025-08-04 10:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிஸ்கட்டுகளுடன்-காட்டுக்குள்-ஓடிய-பிஸ்கட்-லொறி/76-362247) · `ta`
@@ -598,6 +756,30 @@ Commenting further, he said, “That is a major strength for us. As you know, we
 
 ---
 
+### Sri Lanka stock index tops 20,000 points, rupee steady
+
+*2025-08-04 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stock-index-tops-20000-points-rupee-steady-234430/) · `en`
+
+ECONOMYNEXT – Sri Lanka benchmark Colombo All Share Index topped, 20,000 points, rising 99 points in early trade, provisional stock exchange data showed, and the rupee was flat, dealers said.
+
+Sri Lanka’s rupee opened at 301.10/22 to the US dollar in the spot market Monday, relatively flat from 301.20/30 the previous day, while bond yields held broadly steady, dealers said.
+
+The telegraphic transfer rates were: euro buying 342.332 selling 353.5380, British pound buying 394.2796 selling 405.6214, American dollar buying 297.7500 selling 304.7500.
+
+A bond maturing on 15.10.2028 was quoted at 8.85/90 percent, up from 8.75/85 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.40/43 percent, up rom 9.35/40 percent.
+
+A bond maturing on 15.03.2031 was quoted at 9.85/95 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/30 percent, from 10.23/26 percent. (Colombo/Aug4/2025)
+
+◼️
+
+[Data](articles/59fd60af.json)
+
+---
+
 ### கம்பஹா - கொழும்பு தனியார் பஸ் சேவைகள் இடைநிறுத்தம்
 
 *2025-08-04 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221743) · `ta`
@@ -732,6 +914,24 @@ Rescue teams have recovered 68 bodies throughout the day along the coastline of 
 
 ---
 
+### ශිෂ්‍යත්වයේ ප්‍රවර්ධන වැඩ හෙටින් අවසන්
+
+*2025-08-04 07:54:19* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-ප්‍රවර්ධන-වැඩ-හෙටින්-අවසන්/11-417700) · `si`
+
+මේ මස 10 වැනි දින පැවැත්වෙන පහ ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගයේ සියලුම ප්‍රවර්ධන කටයුතු හෙට(06දා)  මධ්‍යම රාත්‍රී 12.00 සිට  විභාගය අවසන් වන තෙක්, තහනම් බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ශිෂ්‍යත්ව විභාගය මේ  මස 10 වැනි දින දිවයින පුරා විභාග මධ්‍යස්ථාන 2787 කදී පැවැත්වීමට කටයුතු සංවිධානය කර ඇති බවද විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ අනුව හෙට රාත්‍රී 12.00 සිට විභාග අපේක්ෂකයන් සඳහා උපකාරක පන්ති සංවිධානය කිරීම සහ පන්ති මෙහෙය වීම,විෂයානුබද්ධ දේශන, සම්මන්ත්‍රණ, වැඩමුළු පැවැත්වීම,උක්ත විභාගය සඳහා අනුමාන ප්‍රශ්න ඇතුළත් ප්‍රශ්න පත්‍ර මුද්‍රණය කීරීම සහ ඒවා බෙදා හැරීම, විභාග ප්‍රශ්න පත්‍රවල ප්‍රශ්න ලබා දෙන බවට හෝ ඒ හා සමාන ප්‍රශ්න ලබා දෙන බවට පෝස්ටර්, බැනර්, අත්පත්‍රිකා විද්‍යුත් හෝ මුද්‍රිත මාධ්‍ය මගින් හෝ සමාජ මාධ්‍ය මගින් ප්‍රසිද්ධ කිරීම හෝ එවැනි දෑ ළඟ තබා ගැනීම තහනම් බවද දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+යම් අයෙකු, ආයතනයක් හෝ වෙනත් පාර්ශ්වයක් මෙකී නියෝග නොසලකා ක්‍රියා කරනු ලැබුව හොත් ඒ තැනැත්තා, ආයතනය හෝ එම පාර්ශ්වය විභාග පනත යටතේ වරදකරුවකු වන බවද සඳහන් කරයි.
+
+...
+
+[Data](articles/bb1f6b2d.json)
+
+---
+
 ### Island-wide fishing vessel census to commence today
 
 *2025-08-04 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111135/island-wide-fishing-vessel-census-to-commence-today) · `en`
@@ -751,6 +951,38 @@ During the census, officers from the Department of Fisheries and Aquatic Resourc
 ...
 
 [Data](articles/b493f733.json)
+
+---
+
+### යාලෙන් රු.මි. 2160ක ආදායමක්
+
+*2025-08-04 07:47:16* · [`adalk`](https://www.ada.lk/breaking_news/යාලෙන්-රු-මි--2160ක-ආදායමක්/11-417699) · `si`
+
+යාල ජාතික උද්‍යානයේ මේ වසරේ දි මේ වන විට රුපියල් මිලියන 2160 ක් ඉක්ම වූ ආදායමක් ලැබි ඇති බව ඌව කළාපය භාර සහකාර වනජීවී අධ්‍යක්ෂ ඩබ්.ඒ.ඒ ඩී.යූ ඉන්ද්‍රජිත් මහතා කියයි. දෛනිකව දළ වශයෙන් වාහන 500 ක් පමන යාල ජාතික උද්‍යානයට ඇතුල්වීම සිදුවන බවද හෙතෙම සඳහන් කලේය.
+
+"දෙස් විදෙස් සංචාරකයින් යාල ජාතික උද්‍යානය නැරඹිමට පැමිනිමේ කාලය දැන් එළඹ වී තිබෙනව.  සංචාරකයින් රැගත් ජිප් රථ යාල ජාතික උද්‍යානයට පැමිනෙන විට සෑම වසරකම විවිධ ගැටළු මතුවෙනව. එම හේතුව නිසාම මීට සති දෙකකට  පමන කලින් පරිසර ඇමැතිතුමා සමඟ සාකච්ඡා  කරල ගත්ත තිරණයක්  මත  ලියාපදිංචි සහ පෞද්ගලික ජීප් රථ පමනක් යාල ජාතික උද්‍යානයට  ඇතුල් කරන්න තීරණය කලා. දිනකට වාහන 500 ක් පමණ දළවශයෙන් යාල ජාතික උද්‍යානයට ඇතුල්වෙනව.
+
+...
+
+[Data](articles/a219458d.json)
+
+---
+
+### Sri Lanka central bank makes over $750mn unsterilized forex sales to govt
+
+*2025-08-04 07:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-makes-over-750mn-unsterilized-forex-sales-to-govt-234375/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has made 231.9 billion rupees (about 770 million dollars) worth unsterilized foreign exchange sales to the government in the first half of 2025, reducing excess liquidity in the banking system, official data shows.
+
+From January to June 2025, the central bank had created 299.4 billion rupees with outright dollar purchases from banks (1,014 million), 2.1 billion rupees from miscellaneous injections, the central bank’s Market Operations Report said.
+
+The central bank has also injected 109.3 billion rupees by engaging in rupee generating dollar swaps, without buying reserves outright for its own securities.
+
+In the first six months of 2025 a total of 410.8 billion rupees of inflationary operations (that expands reserve money) has been conducted.
+
+...
+
+[Data](articles/ddb7262d.json)
 
 ---
 
@@ -1481,233 +1713,5 @@ Finance expense was down 21 percent to 86 million and pre-tax profits were up 33
 ...
 
 [Data](articles/61bc2df1.json)
-
----
-
-### Environment & How Its Issues Should Be Tackled Through Public Policy
-
-*2025-08-03 22:36:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/environment-how-its-issues-should-be-tackled-through-public-policy/) · `en`
-
-Environment consists of all endowments which nature has bequeathed to organisms so that they could arise, co-exist and, eventually as Nature has dictated, decay into oblivion. These endowments cover a wide range of natural phenomena such as different organisms themselves, atmosphere, hydrosphere, earth including its minerals, sunlight, etc. Man, like other organisms, has been liberally using the environment for his living, ever since he came into existence on the earth. Yet, the very same man has been expressing concern about the degradation of the quality of the environment, sometimes actual and sometimes imagined, threatening, in his view, the sustainability and continuity of the living on the earth. Environmental degradation has no territory and, therefore, spills over the entire globe.[1]
-
-...
-
-[Data](articles/0d24dc56.json)
-
----
-
-### සිසුන්ගේ ආරක්ෂාව පිළිබඳව විශ්වවිද්‍යාල වගකීමෙන් කටයුතු කළයුතුයි - අගමැති හරිනි
-
-*2025-08-03 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212985) · `si`
-
-විශ්වවිද්‍යාලවලට ඇතුලත් වන දරුවන්ගේ ආරක්ෂාව, සුබ සාධන පහසුකම් සැපයීම සහ ඉගෙනුම් පහසුකම් පිලිබඳ විශ්වවිද්‍යාල වගකීමෙන් කටයුතු කළ යුතු බව අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවා ය.
-
-යාපනය විශ්වවිද්‍යාලයේ උපකුලපති අතුළු අධ්‍යයන, අනධ්‍යය සේවකයින් අචාර්ය මණ්ඩලය සහ සිසුන් සමග අද (03) යාපනය විශ්වවිද්‍යාලයේ කිලිනොච්චි මණ්ඩපයේ පැවති සාකච්ඡාවකදී අග්‍රාමාත්‍යවරිය මේ බව පැවසීය.
-
-විශ්වවිද්‍යාලයේ සිසුන් මුහුණ දෙන නේවාසික පහසුකම්, ජලය, විදුලිය ඇතුළු සුභසාධන පහසුකම් පිලිබඳ මෙහිදී අග්‍රාමාත්‍යතුමියගේ අවධානය යොමු වූ අතර මෙතෙක් විසඳා ගැනීමට කටයුතු නොකළ සිසුන්ගේ පානිය ජල ගැටලුව මසක් ඇතුළත විසඳීමට කටයුතු කරන ලෙස දිස්ත්‍රික් සංවර්ධන කමිටුවේ නිරන්තර අධික්ෂණය ඒ වෙනුවෙන් යොමු කරන ලෙසත් අග්‍රාමාත්‍යවරිය මෙහිදී පැවසීය.
-
-වැඩිදුරටත් අදහස් දැක් වූ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය අග්‍රාමාත්‍ය හරිනි අමරසූරිය,
-
-...
-
-[Data](articles/17e5e15c.json)
-
----
-
-### අවසන් කුඹල් පෙරහැර වීථි සංචාරය කෙරේ
-
-*2025-08-03 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212984) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහැරේ 5වන කුඹල් පෙරහර හෙවත් අවසන් කුඹල් පෙරහර අද (3) පස්වරු 6.43ට යෙදුණු සුබ මොහොතින් වීථි සංචාරය කළේය.
-
-අද පෙරහරේ මගුලැතු වශයෙන් දළදා කරඬුව වැඩම කරවීමේ භාග්‍ය කතරගම වාසනා හස්තියා හිමිවිය.
-
-එමෙන්ම දෑලේ ගමන්කිරීමට වරම් හිමිවූයේ පුලතිසි රාජා සහ සිංහ රාජා හස්තීන්ටය.
-
-මේ අතර ඇසළ පෙරහරේ පළමු රන්දෝලි පෙරහර හෙට (4) රාත්‍රියේ වීථි සංචාරය කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/6f4436e7.json)
-
----
-
-### சோமரத்ன ராஜபக்ஷ கருத்து: "அதிஷ்டலாபச்சீட்டு விழுந்தது போலவே" – காணாமலாக்கப்பட்டோர் உறவுகள் வலியுறுத்தல்
-
-*2025-08-03 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221727) · `ta`
-
-லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷவின் கருத்து தமக்கு அதிஷ்டலாபச்சீட்டு விழுந்ததைப்போன்று இருப்பதாகத் தெரிவித்துள்ள வட, கிழக்கு வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகள், சர்வதேச விசாரணை முன்னெடுக்கப்படுவதற்கு அவசியமான அழுத்தத்தை வழங்குவதற்கு பாதிக்கப்பட்ட தரப்பினர், தமிழ்த்தேசிய அரசியல் கட்சிகள், சிவில் சமூகம், புலம்பெயர் தமிழர்கள் என சகல தரப்பினரும் இச்சந்தர்ப்பத்தை சரியாகப் பயன்படுத்திக்கொள்ளவேண்டும் என வலியுறுத்தியுள்ளனர்.
-
-யாழ் செம்மணி மனிதப்புதைகுழி விவகாரம் தொடர்பில் சர்வதேச விசாரணையொன்று முன்னெடுக்கப்படும் பட்சத்தில், அதில் சாட்சியமளிப்பதற்குத் தயாராக இருப்பதாக கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் பிரதான குற்றவாளியாக நீதிமன்றத்தினால் தீர்ப்பளிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ தெரிவித்திருப்பதாகக் குறிப்பிட்டு அவரது மனைவி ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்குக் கடிதமொன்றை அனுப்பிவைத்துள்ளார்.
-
-...
-
-[Data](articles/3cd6a363.json)
-
----
-
-### Israeli minister sparks anger by praying at sensitive Jerusalem holy site
-
-*2025-08-03 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111132/israeli-minister-sparks-anger-by-praying-at-sensitive-jerusalem-holy-site) · `en`
-
-Israel’s far-right National Security Minister Itamar Ben-Gvir has visited the al-Aqsa Mosque compound in Jerusalem and prayed there, violating a decades-old arrangement covering one of the most sensitive sites in the Middle East.
-
-Photos and videos of his visit show Ben-Gvir leading Jewish prayers at the compound, which is known by Jews as the Temple Mount, in occupied East Jerusalem.
-
-Praying at the site breaks a long-time arrangement that allows Jews to visit the site but not pray.
-
-The Israeli prime minister’s office released a statement saying there had been no change to Israel’s policy of maintaining the status quo agreement that allows only Muslim worship there.
-
-Jordan, custodian of the site, called Ben-Gvir’s latest visit “an unacceptable provocation”.
-
-Hamas called it “a deepening of the ongoing aggressions against our Palestinian people”, while a spokesperson for Palestinian Authority President Mahmoud Abbas said the visit “crossed all red lines”.
-
-...
-
-[Data](articles/1ff4d693.json)
-
----
-
-### ලෙජන්ඩ්ස් ශූරතාව දකුණු අප්‍රිකා චැම්පියන්ස්ට
-
-*2025-08-03 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212983) · `si`
-
-'වර්ල්ඩ් චැම්පියන්ෂිප් ඔෆ් ලෙජන්ඩ්ස්' විස්සයි20 ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට ඒ.බී. ඩිවිලියර්ස් ප්‍රමුඛ දකුණු අප්‍රිකා චැම්පියන්ස් කණ්ඩායම සමත් විය.
-
-ඒ අවසන් මහා තරගයේදී පාකිස්තාන චැම්පියන්ස් කණ්ඩායම කඩුලු 9කින් පරාජය කරමින්ය.
-
-බර්මින්හැම් හි පැවති අවසන් තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් පාකිස්තාන චැම්පියන්ස් කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 195ක් රැස්කිරීමට සමත් විය.
-
-එහිදී ෂර්ජීල් ඛාන් ලකුණු 76ක් රැස්කළ අතර, දකුණු අප්‍රිකාව වෙනුවෙන් පන්දු යැවීමේ දී හාර්ඩස් විල්ජෝන් සහ වේන් පාර්නිල් කඩුලු 2 බැගින් දවාගත්හ.
-
-පිළිතුරු ඉනිම ක්‍රීඩාකළ දකුණු අප්‍රිකා චැම්පියන්ස් කණ්ඩායම පන්දුවාර 16.5ක් අවසානයේ එක් කඩුල්ලක් පමණක් දැවී සිය ඉලක්කය පසුකර ගියේය.
-
-දකුණු අප්‍රිකා චැම්පියන්ස් ජයග්‍රහණය කරා රැගෙන ගිය AB ඩිවිලියර්ස් සුපිරි ඉනිමක් ක්‍රීඩාකරමින් නොදැවී ලකුණු120ක් ලබා ගත්තේය.
-
-◼️
-
-[Data](articles/f37b9116.json)
-
----
-
-### Broad, Inclusive Consultation Essential For Consensual Educational Reforms
-
-*2025-08-03 20:03:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/broad-inclusive-consultation-essential-for-consensual-educational-reforms/) · `en`
-
-Sri Lanka’s education system, once a beacon of progress in South Asia with its high literacy rate, now faces pressing challenges. Disparities in quality of education —particularly between urban and rural areas—are widening due to outdated curricula, insufficient resources, and a shortage of qualified teachers. Socio-economic barriers contribute to higher dropout rates and unequal access to quality education, threatening upward social mobility.
-
-Globally, the 20th century witnessed a rapid expansion of public education, with curriculum development evolving in tandem with theories of social change. In Sri Lanka, education was instrumental in promoting national unity in the early post-independence period. Today, however, it faces growing demands for financial resources and accountability. Neo-liberal, market-driven reforms are reshaping education worldwide, placing further strain on systems already struggling to balance equity and quality.
-
-...
-
-[Data](articles/10bc0cff.json)
-
----
-
-### 9ஆவது பணக்காரருக்கு குறிவைத்த கல்யாண ராணியின் நிலை
-
-*2025-08-03 19:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9ஆவது-பணக்காரருக்கு-குறிவைத்த-கல்யாண-ராணியின்-நிலை/175-362221) · `ta`
-
-ஆடம்பர வாழ்க்கை வாழ வேண்டும் என்ற ஆசையில் ஆசிரியர் ஒருவர் செய்த செயல் முகம் சுளிக்க செய்துள்ளது. ஒருவர், இருவரை அல்ல மொத்தம் 8 பேரை திருமணம் செய்துவிட்டு அவர்களிடம் இருந்து பணத்தை பறித்துள்ளார்.
-
-ஒரே ஒருவரிடம் மட்டும் ரூ.50 லட்சம் பறித்துள்ளார். 9-வதாக ஒருவரை ஏமாற்ற நினைத்தபோது போலீசிடம் சிக்கியுள்ளார் இந்த கல்யாண ராணி.
-
-இவர் இதுவரை 8 பேரை மட்டும் தான் அவர் ஏமாற்றினாரா? என்ற கோணத்திலும் போலீசார் விசாரணை நடத்தி வருகிறார்கள்.
-
-மகாராஷ்டிரா மாநிலம் நாக்பூரை சேர்ந்தவர் சமீரா பாத்திமா. ஆசிரியையான இவருக்கு கடந்த 2010 ஆண்டு திருமணம் ஆனது.
-
-நாக்பூரில் உள்ள பள்ளி ஒன்றில் ஆசிரியையாக வேலை பார்த்து வந்தார். அவர் தன்னை அழகாக இருக்கிறோம் என்று மனதில் நினைத்து பலமுறை அதனை கணவனிடன் சொல்லி காண்பிப்பாராம்.
-
-இதனாலேயே அவருக்கு சொகுசாக வாழ வேண்டும் என்ற ஆசை வந்துள்ளது. இதனால் கணவரை விவாகரத்து செய்யும் முடிவுக்கு வந்தார். அதன்படி கணவரை விவாகரத்து செய்த அவர் 2வது திருமணம் செய்வதற்காக சமூக வலைத்தளங்களில் விளம்பரம் செய்துள்ளார்.
-
-...
-
-[Data](articles/15fd35b8.json)
-
----
-
-### රුසියාවේ තෙල් පිරිපහදු සංකීර්ණයකට යුක්‍රේන ප්‍රහාරයක්
-
-*2025-08-03 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212982) · `si`
-
-යුක්‍රේන හමුදා රුසියාවේ නොවොකුයිබයිෂෙව්ස්ක් ප්‍රදේශයේ පිහිටි තෙල් පිරිපහදු සහ ගබඩා සංකීර්ණයක් ඉලක්ක කර ප්‍රහාර එල්ල කර තිබේ.
-
-ඩ්‍රෝන යානා යොදාගෙන සිදුකළ මෙම ප්‍රහාරයෙන් එම සංකීර්ණයට දැඩි හානි සිදුවී ඇති බව සඳහන් වේ.
-
-මේ අතර රුසියාව ද යුක්‍රේනයේ ප්‍රහාරක ඩ්‍රෝන යානා නිපදවන කර්මාන්තශාලාවක් සහ දිගු දුර ඩ්‍රෝන පාලන මධ්‍යස්ථානයක් ඉලක්ක කර ඊයේ ප්‍රහාර එල්ලකර තිබුණි.
-
-එමෙන්ම යුක්‍රේනය තුළ තවත් එක් ප්‍රදේශයක් අල්ලා ගැනීමට ද රුසියානු හමුදාව සමත්ව ඇත.
-
-◼️
-
-[Data](articles/149ed844.json)
-
----
-
-### No child will fail under the new education reforms - PM Harini
-
-*2025-08-03 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111131/no-child-will-fail-under-the-new-education-reforms-pm-harini) · `en`
-
-The Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that under the new education reforms, no child will fail, and all children will have the opportunity to continue their education toward higher studies through both academic and vocational streams.
-
-The Prime Minister made these remarks on Saturday (August 02), while addressing a gathering of intellectual professionals from the Northern Province, held at the Jaffna Young Men’s Catholic Association hall, the Prime Minister’s Media Division said in a statement.
-
-Dr. Amarasuriya also added that certain groups are spreading false information claiming that History, Religion, and Aesthetics have been removed from the curriculum. She confirmed that these claims are baseless and that none of these subjects have been removed.
-
-...
-
-[Data](articles/5df4e7d2.json)
-
----
-
-### புதிய கல்வி சீர்திருத்தம்: மாணவர்கள் தோல்வியடைய வாய்ப்பு இல்லை – அமைச்சர் ஹரிணி
-
-*2025-08-03 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/221726) · `ta`
-
-யாழ்ப்பாண கிறிஸ்தவ இளைஞர் சங்க மண்டபத்தில் சனிக்கிழமை (02) நடைபெற்ற வட மாகாண கற்றறிவாளர்கள் மற்றும் தொழில் வல்லுநர்களுடனான சந்திப்பில் கலந்துகொண்டு உரையாற்றும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
-
-இங்கு மேலும் உரையாற்றிய  கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், பிரதமர் கலாநிதி ஹரிணி அமரசூரிய,
-
-பாரம்பரிய கல்வி முறைக்குப் பதிலாக, பிள்ளைகள் கல்வி மற்றும் தொழிற் துறைகள் ஆகிய இரண்டு துறைகளிலும் உயர் கல்வியைத் தொடர உதவும் வகையில் புதிய கல்வி சீர்திருத்தங்கள் மூலம் நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-முன்மொழியப்பட்டுள்ள சீர்திருத்தங்கள் மூலம் வரலாறு, சமயம் மற்றும் அழகியல் ஆகிய பாடங்கள் பாடத்திட்டத்திலிருந்து நீக்கப்பட்டுள்ளதாக சிலர் இன்னும் தவறான கருத்துக்களைப் பரப்பி வருகின்றனர். இந்த தவறான கூற்றுகளுக்கு எந்த அடிப்படையும் இல்லை. வரலாறு, அழகியல் அல்லது சமயம் ஆகிய பாடங்கள் எந்த வகையிலும் பாடத்திட்டத்திலிருந்து நீக்கப்படவில்லை.
-
-...
-
-[Data](articles/2b2eca69.json)
-
----
-
-### வரி செலுத்துவோரின் PIN செல்லுபடியாகும் காலம் நீட்டிப்பு
-
-*2025-08-03 19:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துவோரின்-PIN-செல்லுபடியாகும்-காலம்-நீட்டிப்பு/175-362220) · `ta`
-
-வரி செலுத்துவோருக்கு வழங்கப்படும் தனிப்பட்ட அடையாள எண்ணின் (PIN) செல்லுபடியாகும் காலம் நவம்பர் 30 வரை நீட்டிக்கப்பட்டுள்ளதாக உள்நாட்டு இறைவரித் திணைக்களம் (IRD) அறிவித்துள்ளது.
-
-இந்த நீட்டிப்பு தனிநபர்கள், கூட்டு நிறுவனங்கள் மற்றும் பெருநிறுவனங்கள் உட்பட அனைத்து வகை வரி செலுத்துவோருக்கும் பொருந்தும்.
-
-வருவாய் நிர்வாக முகாமைத்துவ தகவல் அமைப்பு (RAMIS) மூலம் வரி செலுத்துவோர் கணக்குகளை அணுகுவதற்கு PIN அவசியம்.
-
-2024/2025 மதிப்பீட்டு ஆண்டிற்கான வரி வருமானத்தை தாக்கல் செய்வது கட்டாயம் என்றும், RAMIS தளம் வழியாக நிகழ்நிலையில் செய்யப்பட வேண்டும் என்றும் திணைக்களம் நினைவூட்டியது.
-
-◼️
-
-[Data](articles/8c162a07.json)
-
----
-
-### මේ වසරේ වෙඩි තැබීම් 76ක්, 41ක් මරුට
-
-*2025-08-03 19:06:55* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-වෙඩි-තැබීම්-76ක්--41ක්-මරුට/11-417697) · `si`
-
-මේ වසරේ ජනවාරි 01 වන දින සිට ඊයේ (03) දිනය දක්වා කාලය තුලදි වෙඩි තැබීමේ සිද්ධීන්  76ක් වාර්තා වි තිබෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය සදහන් කරයි.
-
-මෙම වෙඩි තැබීමේ සිදුවීම්වලින්  පුද්ගලයින් 41 දෙනෙකු මිය ගොස් තිබෙන බවද පෙන්වා මිට  අමතරව  පුද්ගලයින් 43 දෙනෙකු තුවාල ලබා තිබේ.
-
-ඊයේ (03) මාතර කපුගොඩ ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමේ සිද්ධියකදි  පුද්ගලයෙකු තුවාල ලැබු අතර පෙරේදා (02) අම්බලන්තොට හුංගම, පිංගම ප්‍රදේශයේ  පස්වරුවේ වෙඩි තැබීමක් සිදුව තිබේණි.
-
-◼️
-
-[Data](articles/4e429827.json)
 
 ---

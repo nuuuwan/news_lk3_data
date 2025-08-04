@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 21:08:09**
+As of **2025-08-04 21:22:11**
 
 ## Newspaper Stats
 
-*Scraped **68,657** Articles*
+*Scraped **68,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,613
-adaderanalk | 8,512
+adaderanalk | 8,513
 tamilmirrorlk | 9,983
-virakesarilk | 11,438
+virakesarilk | 11,440
 adaderanasinhalalk | 11,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,657 articles have been extended.
+61,973 (90.3%) of 68,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### Israel considers expanding Gaza war as ceasefire talks reach an impasse
+
+*2025-08-04 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111166/israel-considers-expanding-gaza-war-as-ceasefire-talks-reach-an-impasse) · `en`
+
+Negotiations on a hostage and ceasefire deal in Gaza appear to be at an impasse, with Israeli Prime Minister Benjamin Netanyahu leaning towards expanded military operations and Hamas demanding the humanitarian situation be addressed before it returns to talks.
+
+An Israeli official said Sunday that Netanyahu is “pushing for the freeing of the hostages through military defeat (of Hamas),” while accusing the militant group of refusing to engage in meaningful negotiations.
+
+The official said that Netanyahu wanted to combine the freeing of the hostages “with the entry of humanitarian aid into areas outside the combat zones and, as much as possible, into areas not under Hamas control.”
+
+Asked about plans to widen the military campaign, Israeli Foreign Minister Gideon Sa’ar said Monday it reflected “a wish to see all the hostages come back, and the wish to see the end of this war after the talks for a partial deal was not successful.”
+
+...
+
+[Data](articles/a6966cc7.json)
+
+---
+
+### ACF நிறுவனத் தொண்டர்களின் 19ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு
+
+*2025-08-04 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221826) · `ta`
+
+திருகோணமலை மூதூர் பகுதியில் படுகொலை செய்யப்பட்ட அக்ஷன் பாம் (ACF) என்ற நிறுவனத்தில் பணியாற்றிய 17 தொண்டர்களின் 19ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு  திங்கட்சிழமை (04) திருகோணமலை மட்டிக்களி லகூன் பூங்காவில் இடம்பெற்றது. குறித்த நிகழ்வில் படுகொலை செய்யப்பட்டவர்களின் உறவினர்கள், மனித உரிமைச் செயற்பாட்டாளர்கள் உள்ளிட்ட பலர் கலந்து கொண்டு படுகொலை செய்யப்பட்டவர்களுக்கு விளக்கேற்றி அஞ்சலி செலுத்தினார்கள்.
+
+இதன்போது படுகொலை செய்யப்பட்டவர்களுக்கு 19 ஆண்டுகளாகியும் நீதி கிடைக்கவில்லை எனவும் புதிய அரசாங்கத்தின் ஆட்சியிலாவது நீதி கிடைக்க வேண்டும் எனவும் படுகொலை செய்யப்பட்டவர்களின் உறவினர்கள் கோரிக்கை விடுத்தனர்.
+
+...
+
+[Data](articles/c1202293.json)
+
+---
+
+### செம்மணி மனிதப் புதைகுழி: மேலும் 5 எலும்புக்கூடுகள் கண்டெடுப்பு
+
+*2025-08-04 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221825) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் திங்கட்கிழமை (4) மேலும் 05 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 135 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 126 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+யாழ்ப்பாணம் - செம்மணி  சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 30வது நாளாக இன்று யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில், தொல்லியல் துறை பேராசிரியர் ராஜ்சோமதேவா தலைமையிலான குழுவினர், சட்டவைத்திய அதிகாரி செல்லையா பிரணவன் ஆகியோரின் பங்கேற்போடு முன்னெடுக்கப்பட்டது.
+
+அத்தோடு திங்கட்கிழமை (4) இடம்பெற்ற அகழ்வு பணிகளை ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் பார்வையிட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/666a8e93.json)
+
+---
 
 ### පොලිස් නිලධාරියෙකුට පහරදීමක්
 
@@ -1829,57 +1879,5 @@ National Weather Service Lead Forecaster Bob Oravec told NPR that the current wi
 ...
 
 [Data](articles/d5de86b4.json)
-
----
-
-### கண்டிக்கு விசேட ரயில் சேவை
-
-*2025-08-04 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டிக்கு-விசேட-ரயில்-சேவை/175-362264) · `ta`
-
-கண்டி நடைபெறவுள்ள எசல பெரஹராவை காண செல்பவர்களுக்கு இன்று திங்கட்கிழமை (04) முதல் எதிர்வரும் 08ஆம் திகதி வரை விசேட ரயில் சேவைகள் ஆரம்பிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
-
-கொழும்பு கோட்டை, பொல்கஹவெல, மாத்தளை மற்றும் நாவலப்பிட்டியவிலிருந்து இந்த ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளதாகவும் திணைக்களம் கூறியுள்ளது.
-
-◼️
-
-[Data](articles/28d46471.json)
-
----
-
-### First Randoli Perahera of Kandy Esala Festival to take to the streets tonight
-
-*2025-08-04 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111143/first-randoli-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
-
-The first Randoli Perahera of this year’s Kandy Esala Festival is scheduled to take to the streets tonight (04), as part of the historic annual procession, one of the oldest and grandest festivals in Sri Lanka.
-
-The Randoli Perahera will parade the streets for five days until August 8.
-
-The Sri Dalada Esala Perahera of the Sacred Temple of the Tooth Relic (Sri Dalada Maligawa) in Kandy commenced with the first Kumbal Perahera parading the streets on July 30. The Kumbal Perahera was held for five days until yesterday (03).
-
-The Kandy Esala festival will draw to a close following the water-cutting ceremony at the Mahaweli River in Getambe on August 9.
-
-This year’s Esala Festival will officially come to an end after the Nilames of the Satara Maha Dewalayas together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela present the Sannasa (Scroll) to the President.
-
-...
-
-[Data](articles/89a06ca6.json)
-
----
-
-### யோஷித, டெய்சியின் வழக்கு ஒத்திவைப்பு
-
-*2025-08-04 11:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யோஷித-டெய்சியின்-வழக்கு-ஒத்திவைப்பு/175-362263) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்‌ஷவின் மகன் யோஷித ராஜபக்‌ஷ மற்றும் அவரது பாட்டி டெய்சி ஃபாரஸ்ட் ஆகியோருக்கு எதிராக பணமோசடி தடுப்புச் சட்டத்தின் கீழ் தாக்கல் செய்யப்பட்ட வழக்கின் விசாரணையை கொழும்பு மேல் நீதிமன்றம் அக்டோபர் 29ஆம் திகதிக்கு ஒத்திவைத்துள்ளது.
-
-இவ்வழக்கு இன்று திங்கட்கிழமை (04)  கொழும்பு மேல் நீதிமன்றத்தில் அழைக்கப்பட்ட வேளையில், குற்றச்சாட்டாளர்கள் நீதிமன்றத்தில் முன்னிலையிலிருந்தனர்.
-
-ஆயினும், வழக்கை விசாரிக்கும் நீதிபதி பிரதீப் அபேரத்ன இன்று (04) விடுமுறையில் இருந்ததால், வழக்கு மீண்டும் ஒக்டோபர் 29ஆம் திகதிக்கு அழைக்கப்படுமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-கடந்த 2009ஆம் மார்ச் 31 முதல் 2013 டிசெம்பர் 12 வரையான காலப்பகுதியில், சட்டவிரோதமாக ஈட்டப்பட்ட ரூ.59 மில்லியனுக்கு மேற்பட்ட தொகையை மூன்று தனியார் வங்கிக் கணக்குகளில் நிலையான வைப்புகளாக வைத்ததன் மூலம், பணம் சுத்திகரிப்பு தடுப்பு சட்டத்திற்கு உட்பட்ட குற்றங்களைச் செய்துள்ளதாக சட்டப்பரிபாலகர் சார்பில் மூன்று குற்றச்சாட்டுகளின் கீழ் இவர்கள் மீது வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/32068380.json)
 
 ---

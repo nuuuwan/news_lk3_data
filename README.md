@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 14:58:00**
+As of **2025-08-04 15:53:05**
 
 ## Newspaper Stats
 
-*Scraped **68,587** Articles*
+*Scraped **68,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,153 @@ newsfirstlk | 363
 dbsjeyarajcom | 596
 bbccomsinhala | 677
 colombotelegraphcom | 703
-economynextcom | 4,185
+economynextcom | 4,186
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,602
-adaderanalk | 8,499
-tamilmirrorlk | 9,964
+adalk | 6,605
+adaderanalk | 8,502
+tamilmirrorlk | 9,967
 virakesarilk | 11,427
-adaderanasinhalalk | 11,812
+adaderanasinhalalk | 11,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,587 articles have been extended.
+61,973 (90.3%) of 68,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### தலைமை ஆசிரியரை மாற்ற  தண்ணீர் தொட்டியில் விஷம் கலந்த சம்பவம்
+
+*2025-08-04 15:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைமை-ஆசிரியரை-மாற்ற-தண்ணீர்-தொட்டியில்-விஷம்-கலந்த-சம்பவம்/175-362280) · `ta`
+
+பெங்களூர்: கர்நாடகாவில் பள்ளி தண்ணீர் தொட்டியில் விஷம் கலந்து சம்பவம் அதிர்வலைகளை ஏற்படுத்தியுள்ளது. பள்ளி தலைமை ஆசிரியராக பணியாற்றி வரும் சுலைமான் என்கிற இஸ்லாமியரை பணியிடம் மாற்றம் செய்வதற்காக, அங்குள்ள இந்து இயக்கத்தைச் சேர்ந்தவர்கள் தண்ணீர் தொட்டியில் பூச்சி மருந்து கலந்துள்ளனர். இதில் 11 மாணவர்கள் உடல்நலம் பாதிக்கப்பட்ட நிலையில், 3 பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+கர்நாடகா மாநிலம் பெலகாவி மாவட்டம், ஹூள்ளிக்கட்டி பகுதியில் அரசுப்பள்ளி இயங்கி வருகிறது. அங்கு சுலைமான் கொரிநாயக் என்பவர் தலைமை ஆசிரியராக உள்ளார். கிட்டத்தட்ட 13 வருடங்களாக அவர் அங்கு பணியாற்றி வருகிறார். உள்ளூர் கிராம மக்களிடம் அவர் மிகவும் நல்ல உறவில் இருக்கிறார்.
+
+அதேநேரத்தில் அவர் முஸ்லிம் என்பதால், இந்து மற்றும் வலதுசாரி இயக்கங்களைச் சேர்ந்தவர்கள் அவருக்கு எதிராக இருந்துள்ளனர். அதனால் தலைமை ஆசிரியர் சுலைமானை இடமாற்றம் செய்ய வேண்டும் என்று இந்து இயக்கங்கள் கூறி வந்துள்ளனர். ஆனால், அவரின் சிறப்பான சேவை காரணமாக பணியிடமாற்றம் செய்யவில்லை.
+
+...
+
+[Data](articles/c7e51668.json)
+
+---
+
+### අත්සන් කළ ඉන්දු - ලංකා අවබෝධතා ගිවිසුම් 07 බල රහිත කරන්නැයි ඉල්ලූ පෙත්සම නිෂ්ප්‍රභ කෙරේ
+
+*2025-08-04 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213006) · `si`
+
+ශ්‍රී ලංකා රජය සහ ඉන්දියානු රජය අතර අත්සන් කෙරුණු අවබෝධතා ගිවිසුම් 07 ක් බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කරන ලද මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළේය.
+
+දොස්තර ගුණදාස අමරසේකර ඇතුළු පිරිසක් සහ විනිවිද පෙරමුණ විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/ab7ef538.json)
+
+---
+
+### අර්ච්චුනා CIDයට
+
+*2025-08-04 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213005) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/4cd312ea.json)
+
+---
+
+### முழு நிர்வாணமாக சைக்கிள் ஓட்டிய நபர் (வீடியோ இணைப்பு)
+
+*2025-08-04 14:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முழு-நிர்வாணமாக-சைக்கிள்-ஓட்டிய-நபர்-வீடியோ-இணைப்பு/175-362277) · `ta`
+
+பிரதான வீதியின் நடுவில் முற்றிலும் நிர்வாணமாக சைக்கிளில் செல்லும் ஒரு நபர் தொடர்பிலான காட்சிகள் கந்தானை நகரில் பதிலாகியுள்ளது.
+
+சமூக ஊடகங்களில் பரவலாகப் பரவி வரும் இந்த காட்சியில், அந்த நபர் தனது மிதிவண்டியின் கைப்பிடியின் இருபுறமும் தனது ஆடைகளைப் பிடித்துக்கொண்டு அமைதியாக தனது மிதிவண்டியை மிதிப்பது காட்டப்பட்டுள்ளது.
+
+பட்டப்பகலில் நடந்த இந்த சம்பவம், குடியிருப்பாளர்கள் மற்றும் அதிகாரிகளின் கவனத்தை ஈர்த்துள்ளது. அந்த நபரை அடையாளம் காணவும், ஏதேனும் சட்ட நடவடிக்கை எடுக்கப்பட வேண்டுமா என்பதைத் தீர்மானிக்கவும் பொலிஸார் தற்போது காட்சிகளை மதிப்பாய்வு செய்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/c1af7efd.json)
+
+---
+
+### වසරේ ගත වූ මාස 07ට සංචාරක කර්මාන්තයෙන් ඩොලර් බිලියන 3.7ක්
+
+*2025-08-04 14:45:00* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-ගත-වූ-මාස-07ට-සංචාරක-කර්මාන්තයෙන්-ඩොලර්-බිලියන-3-7ක්/11-417710) · `si`
+
+මෙම වසරේ ගතවූ මාස 07ක කාලය තුළ සංචාරක කර්මාන්තයෙන් ඇමරිකානු ඩොලර් බිලියන 3.7ක ආදායමක් උපයා ඇති බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+“මේ අවුරුද්දේ දැනටමත් සංචාරකයින් මිලිය 1.3ක් ඇවිල්ලා තියෙනවා. ඉන් වැඩි ප්‍රමාණයක් ඉන්නේ ඉන්දියාවෙන් ආපු අය. අපි ආදායම් විදියට ඩොලර් බිලියන 3.7ක් අපිය උපයලා තියෙනවා මාස 07ට. මේ අවුරුද්දේ සංචාරකයන් ලක්ෂ 30 ක ඉලක්කයක් බලාපොරොත්තු වෙනවා. ”
+
+◼️
+
+[Data](articles/214ba97b.json)
+
+---
+
+### 15 முறை பறக்கும் பலே கிள்ளாடி 35 கடவுச்சீட்டுகளுடன் சிக்கினார்
+
+*2025-08-04 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-முறை-பறக்கும்-பலே-கிள்ளாடி-35-கடவுச்சீட்டுகளுடன்-சிக்கினார்/175-362275) · `ta`
+
+கட்டுநாயக்க சர்வதேச விமான நிலையத்திலிருந்து ஐந்து லட்சம் ரூபாய் மதிப்புள்ள வெளிநாட்டு மதுபான போத்தல்களை கொண்டு சென்ற இரண்டு கடத்தல்காரர்களை, திங்கட்கிழமை (04) அதிகாலை  கைது செய்த கட்டுநாயக்க பொலிஸ் அதிகாரிகள் குழு, வானில் இருந்து 35 வெளிநாட்டு கடவுச்சீட்டுகளையும் மீட்டுள்ளனர்.
+
+இந்தக் கடத்தல் நடவடிக்கையின் முக்கிய சந்தேக நபர் தியாத்தலாவைச் சேர்ந்த 22 வயதுடையவர். அவர் இருபது ஆண்டுகளாக இந்த வகை விமானப் பயணத்தில் ஈடுபட்டுள்ளவர், மாதத்திற்கு 15 முறை பறந்து வருகிறார்.
+
+இறந்த பெண்கள், துறவிகள், மாணவர்கள் ஆகியோரின் கடவுச்சீட்டுகள் மற்றும் காலாவதியான மற்றும் செல்லாத கடவுச்சீட்டுகள் அவரிடம் இருந்தன. அவற்றில், இந்த பிரதான கடத்தல்காரருக்குச் சொந்தமான 06 கடவுச்சீட்டுகள் இருந்தன என்பது குறிப்பிடத்தக்கது.
+
+கட்டுநாயக்க விமான நிலைய வரி இல்லாத ஷாப்பிங் வளாகத்தில் இருந்து இந்த வெளிநாட்டு மதுபான இருப்பைப் பெற அவர் இந்த கடவுச்சீட்டுக்களை பயன்படுத்தி, அதன் ஒரு பகுதியை கட்டுநாயக்க விமான நிலையத்திலிருந்து மற்றொரு வாகனத்தில் எடுத்துச் சென்றுள்ளார்.
+
+...
+
+[Data](articles/e9130d94.json)
+
+---
+
+### 12-hour water cut in several areas of Kalutara tomorrow
+
+*2025-08-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111153/12-hour-water-cut-in-several-areas-of-kalutara-tomorrow) · `en`
+
+A 12-hour water cut will be in place in several areas of Kalutara tomorrow (05 August), the National Water Supply and Drainage Board (NWSDB) has announced.
+
+Accordingly, the water supply will be suspended from 10:00 a.m. to 10:00 p.m. due to essential maintenance work on the Kalutara water supply system.
+
+A statement issued by the NWSDB said, the water cut will affect residents of Kalutara South, Kalutara North, Nagoda, Waskaduwa, Pothupitiya, and Wadduwa.
+
+The NWSDB while expressing regret for the inconvenience caused to the public and requested residents in the affected areas to use water sparingly during this period.
+
+◼️
+
+[Data](articles/fd06bdd2.json)
+
+---
+
+### Issues related to imports through Temu and other e–commerce sites solved, officials
+
+*2025-08-04 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111152/issues-related-to-imports-through-temu-and-other-ecommerce-sites-solved-officials-) · `en`
+
+Concerns pertaining to e-commerce platform taxation that affected products that were purchased through websites such as AliExpress, Amazon and Temu have been resolved, according to officials who were present during a meeting of the Committee on Public Finance in Parliament.
+
+According officials, operations are now flowing smoothly following earlier delays caused by the switch back to HS code-based taxation, the Department of Communication of Parliament said in a statement.
+
+Following a decision by local officials to impose taxes based on HS codes on products purchased through e–commerce sites, several delays occurred during the clearing of such items through Customs.
+
+Furthermore, owing to the increase in costs, it was reported that global websites were hesitant to sell products to local customers.
+
+...
+
+[Data](articles/76ed59f7.json)
+
+---
 
 ### පද්මේගෙන් ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වාට  මරණ තර්ජන
 
@@ -76,13 +204,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 செம்மணி மனித புதைகுழி பிரதேசத்தை இலங்கை மனித உரிமைகள் ஆணைக்குழுவினர்,  திங்கட்கிழமை (04) பார்வையிட்டனர்.
 
-மனித உரிமை ஆணைக்குழுவின் ஆணையாளர்களான கலாநிதி ஜகன் குணத்திலக்க, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோருடன் மனித உரிமை ஆணைக்குழுவின் யாழ். பிராந்திய இணைப்பாளர் த, கனகராஜ் உள்ளிட்ட குழுவினரே நேரில் பார்வையிட்டனர்.
+மனித உரிமை ஆணைக்குழுவின் ஆணையாளர்களான கலாநிதி கெஹான் தினுக் குணதிலக்க, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோருடன் மனித உரிமை ஆணைக்குழுவின் யாழ். பிராந்திய இணைப்பாளர் த, கனகராஜ் உள்ளிட்ட குழுவினரே நேரில் பார்வையிட்டனர்.
 
 அதன்போது புதைகுழி அகழ்வு பணிகளில் ஈடுபட்டுள்ளவர்கள் மற்றும் அங்கிருந்த துறைசார் நிபுணர்களுடன் கலந்துரையாடலிலும் ஈடுபட்டனர்.
 
 ◼️
 
 [Data](articles/6b768ee5.json)
+
+---
+
+### යේමනයේ සංක්‍රමනිකයන් රැගත් බෝට්ටුවක් පෙරලෙයි - 68ක් මරුට
+
+*2025-08-04 14:24:14* · [`adalk`](https://www.ada.lk/breaking_news/යේමනයේ-සංක්‍රමනිකයන්-රැගත්-බෝට්ටුවක්-පෙරලෙයි---68ක්-මරුට/11-417709) · `si`
+
+යේමනයේ සංක්‍රමනිකයන් රැගත් බෝට්ටුවක් පෙරලී යාමෙන් පුදග්ලයන් 68 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+​අනතුර සිදුවන අවස්ථාවේ බෝට්ටුව තුළ පුද්ගලයන් 157 දෙනෙකු සිටු ඇති බව විදෙස් මාධ්‍යා වාර්තා කර ඇත.
+
+අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම අනතුරු සිදුව ඇති අතර, පුද්ගලයන් විශාල පිරිසක් අතුරුදන්ව තිබේ.
+
+◼️
+
+[Data](articles/5b4af9e3.json)
 
 ---
 
@@ -121,6 +265,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0a3f587a.json)
+
+---
+
+### Advisory issued for severe lightning
+
+*2025-08-04 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111151/advisory-issued-for-severe-lightning) · `en`
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central and Eastern provinces, the Department of Meteorology warns.
+
+There may be temporary localized strong winds during thundershowers, the Met. Department added.
+
+Therefore, the general public has been urged to take adequate precautions to minimize damages caused by lightning activity.
+
+The Met Department urged the public to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
+
+The public has also been advised not to use wired telephones and connected electric appliances during thunderstorms.
+
+Meanwhile, for emergency assistance the public should contact the local disaster management authorities.
+
+◼️
+
+[Data](articles/0758c0bd.json)
 
 ---
 
@@ -248,6 +414,28 @@ Accordingly, the Magistrate ordered that the suspect be further remanded until A
 
 ---
 
+### Sri Lanka offers driving license for tourists on arrival at Rs2,000
+
+*2025-08-04 13:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-driving-license-for-tourists-on-arrival-at-rs2000-234479/) · `en`
+
+ECONOMYNEXT – Tourists arriving at Sri Lanka’s Bandaranaike International Airport can now obtain a license for 2,000 rupees, roughly 6.73 dollars, to drive in the island, Minister Bimal Rathnayake said.
+
+“Tourists with a valid driving license can now obtain a short term license to drive in Sri Lanka on arrival, within minutes,” he told reporters at the launch of the DMV counter at the airport.
+
+“A significant number of tourists obtain licenses, and they previously had to go to the Department of Motor Traffic in Werahera, which takes about six hours to a day.”
+
+A one-month license costs 2,000 rupees. A two-month validity costs 4,000 rupees, a three-month 6,000 and five-month 10,000.
+
+The fist license was issued to an Indian national, he said, and the process took 8 minutes.
+
+The second foreigner was issued a license in 7 minutes, and the aim is to issue it in 5 minutes as staff become more adept he said.
+
+...
+
+[Data](articles/8fc46ba9.json)
+
+---
+
 ### ඔක්කම්පිටිය පොලිස් OIC රිමාන්ඩ්
 
 *2025-08-04 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213000) · `si`
@@ -323,6 +511,26 @@ Singer (Sri Lanka) PLC is a publicly listed company owned by Hayleys PLC, which 
 ◼️
 
 [Data](articles/d5198a50.json)
+
+---
+
+### බෝට්ටුවට ජී.පී.එස්. සවිකරේ තවත් ඝාතන උත්සාහයකටද?
+
+*2025-08-04 12:49:05* · [`adalk`](https://www.ada.lk/breaking_news/බෝට්ටුවට-ජී-පී-එස්--සවිකරේ-තවත්-ඝාතන-උත්සාහයකටද-/11-417706) · `si`
+
+දෙවිනුවර දේවාලය ඉදිරිපිට දී මීට මාස හතරක පෙර වෙඩි තබා ඝාතනය කල යොමේෂ් නදීෂාන් තරුණයාගේ පියා හා සහෝදරයෙකු මහ මුහුද මැදදී ඝාතනය කිරීම සදහා ඔවුන්ගේ බෝට්ටුවේ රහසිගතව ජී.පී.එස් උපකරණය සවි කර තැබීම පිළිබඳව පරික්ෂණයක් පවත්වන බව ගන්දර පොලීසිය පවසයි.
+
+අදාල විද්‍යුත් තාක්ෂණික උපකරණය සවි කිරීම තුලින් ඔවුන් මුහුදේ සිටින ස්ථානය පහසුවෙන් හදුනා ගැනීමට සැකකරුවන් උත්සාහ කර තිබෙන බව පොලිස් පරීක්ෂණ වලදී අනාවරණය වී ඇත.
+
+එම බෝට්ටුවේ එන්ජිම අසල යට ඉතා රහසිගතව සවි කර තිබු ජී පී එස් තාක්ෂණිය උපකරණය හා සිම් පත යොමේෂ් නදීෂාන් තරුණයාගේ පියා හා සහෝදරයා දැක පොලීසිය වෙත දැනුම් දී තිබේ.
+
+ඒ අනුව උපකරණය පොලීසිය භාරයට ගෙන සිද්ධිය සම්බන්ධව අධිකරණය වෙත කරුණු වාර්තා කර ඇත. කෙසේ වෙතත් මෙම සිද්ධියත් සමග ඔවුන් රැකියාව සදහා මුහුදු යාම නතර කොට නිවසට වී සිටී.එම පවුලේ ආරක්ෂාව සදහා පොලිස් ආරක්ෂාවක් ද යොදවා තිබේ.
+
+ඉකුත් මාර්තු මස 21 වැනි දින රාත්‍රි යොමේෂ් නදීෂාන් හා ඔහුගේ මිතුරකු වු පසිදු තාරුක යන දෙදෙනා දෙවිනුවර දේවාලය ඉදිරිපිට දී වෙඩි තබා ඝාතනය කර තිබුණි.
+
+...
+
+[Data](articles/a79e963c.json)
 
 ---
 
@@ -1591,211 +1799,5 @@ On Saturday, Hamas released its second video in two days of Israeli hostage Evya
 ...
 
 [Data](articles/69bf0461.json)
-
----
-
-### Afternoon showers expected in several areas
-
-*2025-08-04 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111133/afternoon-showers-expected-in-several-areas) · `en`
-
-The Department of Meteorology says several spells of showers will occur in Western, Sabaragamuwa, Central and North-Western provinces and in Galle and Matara districts.
-
-Cloudy skies can be expected over Northern and North-Central provinces.
-
-Showers or thundershowers will occur at several places in Northern, North-Central and Eastern provinces after 1.00 p.m., the department noted.
-
-Fairly heavy falls above 50 mm are likely at some places in Northern, North-Central, Eastern and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1c00fb7b.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට සවසට තද වැසි
-
-*2025-08-04 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212986) · `si`
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු සහ උතුරු-මැද පළාත්වල අහස වළාකුලින් බරව පවතින බවය.
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වල ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/f04c9e80.json)
-
----
-
-### CIABOC to take legal action against top public officials who fail to submit asset declarations
-
-*2025-08-04 05:10:05* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-to-take-legal-action-against-top-public-officials-who-fail-to-submit-asset-declarations/56-779858) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has announced that legal action will be taken against any Executive Grade State officials who fail to submit their assets and liabilities declarations by 31 August 2025.
-
-Issuing a statement in this regard, the Commission noted that officials who were required to submit their declarations by 31 March should have submitted their assets and liabilities declarations to the respective heads of their institutions by 30 June, in order for them to be forwarded to the CIABOC.
-
-However, the Commission added that legal action will be taken under Section 90 of the Anti-Corruption Act, No. 9 of 2023 against officials who fail to submit their assets and liabilitie declarations to their heads of institutions by 31 August.
-
-In addition, the Commission announced that a fine will be imposed in accordance with the provisions of the Act for late declarations submitted between 30 June and 31 August 2025.
-
-...
-
-[Data](articles/1737cf65.json)
-
----
-
-### Prime Minister vows no obstruction to student protests
-
-*2025-08-04 05:09:28* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-vows-no-obstruction-to-student-protests/56-779857) · `en`
-
-Prime Minister Dr. Harini Amarasuriya engaging in a cordial conversation with the students of the University of Vavuniya following the event
-
-Opines University system has expanded over the years but quality has not kept pace
-
-Prime Minister Dr. Harini Amarasuriya, who also serves as the Education, Higher Education, and Vocational Education Minister, said that the Government will not obstruct student protests, struggles, or political activity within universities.
-
-However, she made it clear where the line would be drawn. “There will be no tolerance for violence, ragging, or any act that harms the peaceful student community within universities. We are not prepared to offer forgiveness for such acts,” she said.
-
-...
-
-[Data](articles/0eddad35.json)
-
----
-
-### Kasun Wellahewa appointed Acting Commissioner General of Buddhist Affairs
-
-*2025-08-04 05:06:55* · [`dailyftlk`](https://www.ft.lk/news/Kasun-Wellahewa-appointed-Acting-Commissioner-General-of-Buddhist-Affairs/56-779856) · `en`
-
-Kasun Wellahewa has been appointed as the Acting Commissioner General of Buddhist Affairs with immediate effect.
-
-According to the Buddhasasana, Religious and Cultural Affairs Ministry, the appointment follows the removal of Commissioner General of Buddhist Affairs Premasiri Rathnayake from the position.
-
-The Cabinet has decided to remove Rathnayake from his position as Commissioner General of Buddhist Affairs due to allegations that he failed to properly fulfil his duties.
-
-The Buddhasasana and Religious Affairs Ministry accused the Commissioner General of not effectively carrying out the responsibilities of the Department of Buddhist Affairs.
-
-Accordingly, the Ministry stated that the relevant charge sheet was submitted to the previous Cabinet, and the Cabinet therefore decided to remove him from his position.
-
-◼️
-
-[Data](articles/bb2599c4.json)
-
----
-
-### Sunshine Holdings ups top-line growth by 11.6% in 1Q
-
-*2025-08-04 05:05:30* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-ups-top-line-growth-by-11-6-in-1Q/34-779855) · `en`
-
-Core operational improvements drive performance across Healthcare, Consumer, and Agribusiness sectors
-
-Diversified conglomerate Sunshine Holdings PLC has delivered a resilient start to FY26, reporting strong top and bottom line growth.
-
-The Group recorded a consolidated revenue of Rs. 15.9 billion during the first quarter of the current financial year (1QFY26), up by 11.6% YoY, with Profit after tax (PAT) up by 20.6% YoY to Rs. 1.7 billion. The Group sustained this positive momentum across its core sectors—Healthcare, Consumer and Agribusiness, supported by improving economic conditions and a pickup in consumer activity.
-
-...
-
-[Data](articles/60495d17.json)
-
----
-
-### Indrajit Wickramasinghe appointed to DIMO Board
-
-*2025-08-04 05:02:42* · [`dailyftlk`](https://www.ft.lk/business/Indrajit-Wickramasinghe-appointed-to-DIMO-Board/34-779854) · `en`
-
-Ex-banker Indrajit Wickramasinghe has been appointed to the Board of Diesel and Motor Engineering Company PLC as an Independent Non-Executive Director.
-
-Wickramasinghe was the Director/Chief Executive Officer of Union Bank for over nine years up to his retirement on 15 August 2024. He counts over 36 years of management experience having worked in both the financial services and FMCG sectors in local and multinational companies. He holds an MBA from the Post Graduate Institute of Management, University of Sri Jayewardenepura, and is a Fellow of the Chartered Institute of Marketing UK. He has been exposed to Executive Education Programs at the National University of Singapore, The Said Business School of the University of Oxford UK and INCEAD (France). He is a member of the Oxford Business Alumni, University of Oxford UK.
-
-...
-
-[Data](articles/7cd016d1.json)
-
----
-
-### Teejay Group Q1 profits up 31% despite industry challenges
-
-*2025-08-04 05:00:32* · [`dailyftlk`](https://www.ft.lk/business/Teejay-Group-Q1-profits-up-31-despite-industry-challenges/34-779853) · `en`
-
-The Teejay Group, a leading South Asian multinational textile manufacturer, has reported a resilient performance for the first quarter of the 2025/26 financial year, demonstrating its operational strength and strategic agility in the face of continued global market headwinds.
-
-The Group recorded a Profit After Tax (PAT) of Rs. 0.21 billion for the quarter ended 30 June 2025, reflecting a notable 31% year-on-year growth. This achievement, amid subdued global demand and currency headwinds, underscores Teejay’s ongoing focus on operational excellence and prudent financial management.
-
-...
-
-[Data](articles/1f005ca4.json)
-
----
-
-### Peter Kuruvita joins hands with Home Lands as Brand Ambassador
-
-*2025-08-04 04:58:56* · [`dailyftlk`](https://www.ft.lk/business/Peter-Kuruvita-joins-hands-with-Home-Lands-as-Brand-Ambassador/34-779852) · `en`
-
-Home Lands Group Chairman Nalin Herath (fourth from left) conferring the Brand Ambassadorship to Peter Kuruvita in the presence of key executives
-
-Home Lands has announced the appointment of internationally renowned chef and restaurateur Peter Kuruvita as an official brand ambassador.
-
-Home Lands is a Sri Lankan real estate brand that has reached the global stage, and partnering with Peter Kuruvita, who has carried Sri Lankan culture and cuisine to the global stage through his culinary artistry and storytelling, reflects Home Lands’ commitment to sharing Sri Lankan identity with the world.
-
-Home Lands Group Chairman Nalin Herath, said: “Peter Kuruvita is more than a culinary icon — he is a storyteller, a bridge between cultures, and a true ambassador of Sri Lankan heritage. His global journey and deep connection to Sri Lanka make him an ideal representative of what we stand for at Home Lands. We are honoured to welcome him to the Home Lands family.”
-
-...
-
-[Data](articles/373721c5.json)
-
----
-
-### PRISL announces two landmark events to elevate polymer sector
-
-*2025-08-04 04:56:58* · [`dailyftlk`](https://www.ft.lk/business/PRISL-announces-two-landmark-events-to-elevate-polymer-sector/34-779851) · `en`
-
-Sri Lanka’s premier industrial exhibition COMPLAST-RUBEXPO-COMXPO 2025 from 29 to 31 August
-
-The Plastics and Rubber Institute of Sri Lanka (PRISL), the nation’s apex body for the development of the plastics and rubber sectors, has announced two high-impact industry events for 2025 that promise to drive innovation, sustainability and excellence across the polymer value chain.
-
-PRISL will also host the eighth edition of COMPLAST-RUBEXPO-COMXPO at BMICH, Colombo from 29 to 31 August. It will feature over 500 booths from more than 300 global and regional companies, making it the country’s most comprehensive industrial platform for the polymer sector.
-
-PRISL Director General Chaminda Perera said: “COMPLAST-RUBEXPO-COMXPO 2025 is the epicentre where opportunity meets innovation and talent, whether you’re a start-up or a global manufacturer, this platform offers the connections, insights and exposure needed to thrive in today’s fast-evolving industrial landscape.”
-
-...
-
-[Data](articles/16dbf7f7.json)
-
----
-
-### Senaka Alawattegama new Executive Director/CEO at Kelani Valley Plantations
-
-*2025-08-04 04:53:51* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-new-Executive-Director-CEO-at-Kelani-Valley-Plantations/34-779850) · `en`
-
-Senaka Bandara Alawattegama has been appointed as the new Executive Director/CEO at Kelani Valley Plantations PLC.
-
-Alawattegama has over 40 years of experience in the plantation sector. He joined Sri Lanka State Plantations Corporation as an Assistant Superintendent, and after privatisation of the estates, has been with Talawakelle Tea Estates PLC. He has held the positions of Group Manager, Visiting Agent, Deputy General Manager, Senior Regional General Manager, General Manager-Plantations Director and Director/CEO of TPL.
-
-He holds an MBA from the London Metropolitan University, UK and is a Fellow Member of the National Institute of Plantation Management.
-
-...
-
-[Data](articles/02e727e3.json)
-
----
-
-### Plastics and Rubber Institute of Sri Lanka welcomes US tariff reduction on Sri Lankan exports
-
-*2025-08-04 04:52:07* · [`dailyftlk`](https://www.ft.lk/business/Plastics-and-Rubber-Institute-of-Sri-Lanka-welcomes-US-tariff-reduction-on-Sri-Lankan-exports/34-779849) · `en`
-
-The Plastics and Rubber Institute of Sri Lanka (PRISL) has extended its appreciation for the recent decision by US President Donald Trump to reduce and finalise the tariff rate to 20% on Sri Lankan exports to the United States. This strategic policy move marks a pivotal milestone for Sri Lanka’s manufacturing and export sectors, particularly the rubber and plastics industries, which have long been key contributors to the national economy.
-
-This significant tariff reduction comes at a critical juncture as Sri Lanka continues its recovery from a severe economic downturn, still navigating through an International Monetary Fund (IMF) bailout program. The lowered tariff rate offers a much-needed boost to the country’s export competitiveness, especially in light of the intense regional competition faced by Sri Lankan manufacturers in South and Southeast Asia.
-
-...
-
-[Data](articles/045e9e8d.json)
 
 ---

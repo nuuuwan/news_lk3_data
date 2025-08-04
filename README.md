@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 13:11:34**
+As of **2025-08-04 13:26:13**
 
 ## Newspaper Stats
 
-*Scraped **68,564** Articles*
+*Scraped **68,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 4,185
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,598
+adalk | 6,599
 adaderanalk | 8,493
 tamilmirrorlk | 9,961
-virakesarilk | 11,422
+virakesarilk | 11,425
 adaderanasinhalalk | 11,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,564 articles have been extended.
+61,973 (90.4%) of 68,568 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d5198a50.json)
+
+---
+
+### பொகவந்தலாவையில் கழிப்பறை குழியில் விழுந்து சிறுவன் உயிரிழப்பு
+
+*2025-08-04 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/221768) · `ta`
+
+பொகவந்தலாவை கிவ் தோட்டபகுதியில் வீடொன்றின் அருகில் இருந்த ஆறு அடி ஆழமுள்ள கழிப்பறை குழியில் விழுந்து எட்டு வயது சிறுவன் ஞாயிற்றுக்கிழமை (03) உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த சிறுவன் தரம்  3ல் கல்வி கற்கும் ஹெலோன் சாசன் என அடையாளம் காணப்பட்டுள்ளார்.
+
+புதிதாக கட்டப்பட்ட வீட்டுக்கு கழிப்பறை ஒன்றை கட்டுவதற்காக அவரது தந்தையால் குழி ஒன்று தோண்டப்பட்டுள்ளது. இந்நிலையில், மழைநீர் தேங்கி இருந்த அந்த குழியில் சிறுவன் வழுக்கி விழுந்துள்ளார்.
+
+சிறுவனை நீண்ட நேரம் காணாத தந்தை கவலையடைந்து அவனைத் தேட  ஆரம்பித்துள்ளார். இதன்போது, மாலை 5:00 மணியளவில், குழிக்கு அருகில் தனது மகனின் காலணிகள் இருப்பதைக் கண்டுள்ளார். குழியில் பார்த்தபோது, தனது மகன் நீரில் மூழ்கி இருப்பதைக் கண்டு உடனடியாக அக்கம்பக்கத்தினரின் உதவியை நாடி சிறுவனை வெளியே எடுத்துள்ளார்.
+
+சிறுவனை உடனடியாக டிக்கோயா ஆதார வைத்தியசாலைக்கு கொண்டு சென்ற போது,  சிறுவன் கொண்டு வரும் வழியிலேயே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/93aa2ebe.json)
 
 ---
 
@@ -82,6 +102,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ජාලිය ඕපාත මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කරයි
+
+*2025-08-04 12:18:46* · [`adalk`](https://www.ada.lk/breaking_news/ජාලිය-ඕපාත-මන්ත්‍රී-ධුරයෙන්-ඉල්ලා-අස්වීමට-තීරණය-කරයි/11-417703) · `si`
+
+දඹුල්ල මහනගර සභාවේ  ලංකා පොදු ජන පෙරමුණ  නාගරික මන්ත්‍රී  ජාලිය ඕපාත මහතා සිය මන්ත්‍රී ධූරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/52082f49.json)
+
+---
+
 ### வர்ணனையாளராக மாறிய கூகுள் CEO சுந்தர் பிச்சை
 
 *2025-08-04 12:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/வர்ணனையாளராக-மாறிய-கூகுள்-CEO-சுந்தர்-பிச்சை/44-362267) · `ta`
@@ -97,6 +129,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c8ae3b1e.json)
+
+---
+
+### ரஷ்யாவில் 475 ஆண்டுகளுக்குப் பின்னர் குமுறியது எரிமலை
+
+*2025-08-04 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221761) · `ta`
+
+ரஷ்யாவின் கிழக்கு பகுதியில் கம்சட்கா தீபகற்பத்தில் 475 ஆண்டுகளுக்கு பின்னர் முதல் முறையாக எரிமலை ஒன்று குமுறத் தொடங்கியுள்ளதாக ஞாயிற்றுக்கிழமை தெரிவிக்கப்பட்டுள்ளது.
+
+கடந்த சில நாட்களுக்கு முன்னர் ரஷ்யாவின் கம்சட்கா தீபகற்பத்தில் உள்ள பெட்ரோபாவ்லோவ்ஸ்கில் 8.8 ரிச்டர் அளவிலான சக்தி வாய்ந்த பூகம்பம் ஏற்பட்டதை தொடர்ந்தது செயலற்று இருந்த எரிமலை குமுறத் தொடங்கியுள்ளது.
+
+ஸ்மித்சோனியன் எரிமலை தரவுத்தளத்தின்படி, கடைசியாக 1550 ஆம் ஆண்டு குமுறியதாக கூறப்படும் க்ராஷென்னினிகோவ் என்றழைக்கப்படும் இந்த எரிமலையில் இருந்து சாம்பல் புகை வெளியேறும் படங்களை ரஷ்ய அரசு ஊடகங்கள் வெளியிட்டுள்ளன.
+
+இந்த புகை 6,000 மீட்டர் உயரத்தை எட்டியதாக கம்சட்காவின் அவசரகால சூழ்நிலைகள் அமைச்சு டெலிகிராமில் பதிவிட்டுள்ளது.
+
+“எரிமலையிலிருந்து கிழக்கு பசிபிக் பெருங்கடலை நோக்கி புகை மூட்டம் பரவி வருகிறது. அந்த பகுதிகளில் மக்கள் வசிக்கும் பகுதிகள் எதுவும் இல்லை, மேலும் மக்கள் வசிக்கும் பகுதிகளில் சாம்பல் விழுந்ததாக பதிவு செய்யப்படவில்லை,” என அமைச்சு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/05f4129d.json)
+
+---
+
+### சிட்னியில் பாலஸ்தீன ஆதரவு பேராட்டம் - பாலத்தின்  ஊடாக பேரணியாக சென்ற ஒரு இலட்சத்திற்கும் மேற்பட்ட மக்கள் - அவுஸ்திரேலியா ஏன் இதுவரை இஸ்ரேலிற்கு எதிராக தடைகளை விதிக்கவில்லை என கேள்வி?
+
+*2025-08-04 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221762) · `ta`
+
+அவுஸ்திரேலியாவில் ஞாயிற்றுக்கிழமை இடம்பெற்ற பாலஸ்தீன ஆதரவு ஆர்ப்பாட்டத்தின் போது ஆயிரக்கணக்கானவர்கள் சிட்னி துறைமுகத்தின் பாலத்தின் ஊடாக பேரணியாக சென்றனர்.
+
+அவுஸ்திரேலியாவின் உச்சநீதிமன்றம் அனுமதி வழங்கிய நிலையிலேயே இந்த ஆர்ப்பாட்ட பேரணி இடம்பெற்றது. .இந்த ஆர்ப்பாட்டத்தை ஏற்பாடு செய்தவர்கள் நீதிமன்றத்தின் தீர்ப்பை வரலாற்று முக்கியத்துவம் வாய்ந்தது என வர்ணித்துள்ளனர்.
+
+காசா யுத்தத்தை நிறுத்துமாறு அரசியல்வாதிகளை கோரும் செய்திகளுடன்  ஆயிரக்கணக்கானவர்கள் கொட்டும் மழையிலும் இந்த ஆர்ப்பாட்ட பேரணியில் கலந்துகொண்டனர்.
+
+வெட்கம் வெட்கம் இஸ்ரேல் வெட்கம் வெட்கம் அமெரிக்கா என ஆர்ப்பாட்டத்தில் கலந்துகொண்டவர்கள் கோசமிட்டனர்? எங்களிற்கு  என்ன வேண்டும் யுத்த நிறுத்தம் எப்போது வேண்டும தற்போது எனவும் அவர்கள் கோஷமிட்டனர்.
+
+ஆர்ப்பாட்ட பேரணியில் கலந்துகொண்டவர்களிற்கு ஆதரவாக பல பெண்கள் தங்கள் குழந்தைகளுடன் பாலத்தின் இருபக்கத்திலும் திரண்டிருந்தனர்.
+
+...
+
+[Data](articles/09678171.json)
 
 ---
 
@@ -1655,67 +1727,5 @@ The hosts emphasized their vision of fostering a high-trust business community i
 ...
 
 [Data](articles/3b58777d.json)
-
----
-
-### Japan to help Sri Lanka build healthier, happier workplaces under new COYLE-JETRO pact
-
-*2025-08-03 23:38:00* · [`islandlk`](http://island.lk/japan-to-help-sri-lanka-build-healthier-happier-workplaces-under-new-coyle-jetro-pact/) · `en`
-
-Japan to share its insights and support Sri Lankan businesses to building happier, more productive teams
-
-In a landmark move to enhance employee wellbeing and corporate excellence, the Chamber of Young Lankan Entrepreneurs (COYLE) and the Japan External Trade Organization (JETRO) signed an MoU recently, paving the way for stronger Sri Lanka-Japan collaboration in fostering healthier, more productive workplaces.
-
-This partnership is set to revolutionize Sri Lanka’s corporate sector by integrating Japan’s globally acclaimed Health and Productivity Management practices with local business strategies. The collaboration will focus on advancing workplace sustainability, employee wellness, and long-term business resilience which are key priorities for Sri Lanka’s evolving economy.
-
-...
-
-[Data](articles/fd9396d6.json)
-
----
-
-### BOC marks 86 years of banking leadership and national service
-
-*2025-08-03 23:37:00* · [`islandlk`](http://island.lk/boc-marks-86-years-of-banking-leadership-and-national-service/) · `en`
-
-Bank of Ceylon, Sri Lanka’s premier state-owned commercial bank, marked its 86th anniversary, marking a legacy that began on 1 August 1939 and has since evolved into an institution that is deeply interwoven with the country’s economic and social fabric.
-
-Over the past eight decades, Bank of Ceylon has grown from a single branch in Fort to become the largest and most trusted financial services provider in Sri Lanka, with a strong international presence and a wide network serving millions of customers across the country.
-
-The Bank enters its 86th year on the back of its strongest-ever financial performance. For 2024, BOC reported a profit of Rs. 106.9 billion – the highest in the Bank’s history. That momentum has continued into 2025, with the first quarter delivering a profit before tax of Rs. 30 billion.
-
-...
-
-[Data](articles/32ee8a38.json)
-
----
-
-### Colombo Stock Exchange launches CCP system
-
-*2025-08-03 23:36:00* · [`islandlk`](http://island.lk/colombo-stock-exchange-launches-ccp-system/) · `en`
-
-The Colombo Stock Exchange (CSE) marked a historic milestone in Sri Lanka’s capital market with the launch of a Central Counterparty (CCP) framework for equity transactions, a transformative development that significantly enhances the safety, efficiency, and global competitiveness of the domestic capital market. To commemorate this milestone achievement a special Market Opening Ceremony was held on 1st August 2025 at the iconic trading floor at the CSE.
-
-CSE Clear (Pvt) Limited, a fully owned subsidiary of the Colombo Stock Exchange, will serve as the Central Counterparty (CCP) for all equity transactions executed on the CSE and is the licensed clearing house regulated by the Securities and Exchange Commission of Sri Lanka (SEC). The CCP enhances efficiency and trust as investors will have the comfort of finality of settlement and minimising the counterparty risk through the CCP mechanism.
-
-...
-
-[Data](articles/b012691f.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளின் தேவையற்ற வரப்பிரசாதங்களை இரத்து செய்யலாம்; பாதுகாப்பு வழங்கப்பட வேண்டும் - எஸ்.எம்.மரிக்கார்
-
-*2025-08-03 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/221730) · `ta`
-
-முன்னாள் ஜனாதிபதிகளின் தேவையற்ற வரப்பிரசாதங்களை இரத்துச்செய்வதில் எந்த பிரச்சினையும் இல்லை. ஆனால் அவர்களுக்கு தேவையான பாதுகாப்பு தொடர்ந்து வழங்கப்பட வேண்டும் என்பதே எமது நிலைப்பாடாகும் என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
-
-ஐக்கிய மக்கள் சக்தி கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை (3) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்துச்செய்வதற்காக அரசாங்கம் வர்த்தமானி ஒன்றை வெளியிட்டிருக்கிறது. ஆனால்  நீண்டகாலமாக மக்களின் வரி பணத்தில் முன்னாள் ஜனாதிபதிகள் சுகபோகம் அனுபவித்து வருவது  நியாயம் இல்லை. ஆனால் இந்த ஜனாதிபதிகள் நாட்டுக்கு செய்த சேவைகள் மற்றும் அவர்களின் அர்ப்பணிப்புக்காக அவர்களுக்கு வழங்கப்பட்டிருக்கும் பாதுகாப்பு இல்லாமலாக்கக்கூடாது என்பதே எமது நிலைப்பாடு.
-
-...
-
-[Data](articles/3482c527.json)
 
 ---

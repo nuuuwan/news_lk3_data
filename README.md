@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 15:53:05**
+As of **2025-08-04 16:08:08**
 
 ## Newspaper Stats
 
-*Scraped **68,599** Articles*
+*Scraped **68,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,605
 adaderanalk | 8,502
-tamilmirrorlk | 9,967
+tamilmirrorlk | 9,969
 virakesarilk | 11,427
 adaderanasinhalalk | 11,814
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,599 articles have been extended.
+61,973 (90.3%) of 68,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### இலங்கை- இந்தியா 7 ஒப்பந்தங்களுக்கு எதிரான மனுக்கள் தள்ளுபடி
+
+*2025-08-04 15:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தியா-7-ஒப்பந்தங்களுக்கு-எதிரான-மனுக்கள்-தள்ளுபடி/175-362282) · `ta`
+
+இலங்கைக்கும் இந்தியாவுக்கும் இடையில் சமீபத்தில் கையெழுத்தான புரிந்துணர்வு ஒப்பந்தத்தை (MoU) செல்லாததாக்க உத்தரவிடக் கோரி தாக்கல் செய்யப்பட்ட இரண்டு அடிப்படை உரிமைகள் மனுக்கள் உயர் நீதிமன்றத்தால் திங்கட்கிழமை (04) தள்ளுபடி செய்யப்பட்டன.
+
+உயர்நீதிமன்ற நீதியரசர்  அச்சலா வெங்கப்புலி மற்றும் நீதியரசர் பிரியந்த பெர்னாண்டோ ஆகியோர் அடங்கிய உயர் நீதிமன்ற இரு நீதியரசர்கள் கொண்ட அமர்வு, விண்ணப்பங்களை தொடர எந்த முதன்மையான காரணங்களும் இல்லை என்று கூறி இரண்டு மனுக்களையும் தள்ளுபடி செய்ய முடிவு செய்தது.
+
+பாதுகாப்பு ஒத்துழைப்பு, வெற்றிகரமான டிஜிட்டல் தீர்வுகளைப் பகிர்ந்து கொள்வது மற்றும் கிழக்கு மாகாணத்திற்கான பல்துறை மானிய உதவி குறித்த புரிந்துணர்வு ஒப்பந்தம் உள்ளிட்ட இந்தியாவிற்கும் இலங்கைக்கும் இடையிலான ஏழு புரிந்துணர்வு ஒப்பந்தங்கள் ஏப்ரல் 5 ஆம் திகதி ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திசாநாயக்க மற்றும் இந்தியப் பிரதமர் நரேந்திர மோடி முன்னிலையில் பரிமாறப்பட்டன.
+
+...
+
+[Data](articles/abc8a0a5.json)
+
+---
 
 ### தலைமை ஆசிரியரை மாற்ற  தண்ணீர் தொட்டியில் விஷம் கலந்த சம்பவம்
 
@@ -121,6 +137,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e9130d94.json)
+
+---
+
+### 15 முறை பறக்கும் பலே கில்லாடி 35 கடவுச்சீட்டுகளுடன் சிக்கினார்
+
+*2025-08-04 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-முறை-பறக்கும்-பலே-கில்லாடி-35-கடவுச்சீட்டுகளுடன்-சிக்கினார்/175-362275) · `ta`
+
+கட்டுநாயக்க சர்வதேச விமான நிலையத்திலிருந்து ஐந்து லட்சம் ரூபாய் மதிப்புள்ள வெளிநாட்டு மதுபான போத்தல்களை கொண்டு சென்ற இரண்டு கடத்தல்காரர்களை, திங்கட்கிழமை (04) அதிகாலை  கைது செய்த கட்டுநாயக்க பொலிஸ் அதிகாரிகள் குழு, வானில் இருந்து 35 வெளிநாட்டு கடவுச்சீட்டுகளையும் மீட்டுள்ளனர்.
+
+இந்தக் கடத்தல் நடவடிக்கையின் முக்கிய சந்தேக நபர் தியாத்தலாவைச் சேர்ந்த 22 வயதுடையவர். மாதத்திற்கு 15 முறை பறந்து வருகிறார். வத்தளையைச் சேர்ந்த 40 வயதானவர் கடந்த இருபது ஆண்டுகளாக இந்த வர்த்தகத்தில் ஈடுபடுபவர் என்பது தெரியவந்துள்ளது.
+
+இறந்த பெண்கள், துறவிகள், மாணவர்கள் ஆகியோரின் கடவுச்சீட்டுகள் மற்றும் காலாவதியான மற்றும் செல்லாத கடவுச்சீட்டுகள் அவரிடம் இருந்தன. அவற்றில், இந்த பிரதான கடத்தல்காரருக்குச் சொந்தமான 06 கடவுச்சீட்டுகள் இருந்தன என்பது குறிப்பிடத்தக்கது.
+
+கட்டுநாயக்க விமான நிலைய வரி இல்லாத ஷொப்பிங் வளாகத்தில் இருந்து இந்த வெளிநாட்டு மதுபான இருப்பைப் பெற அவர் இந்த கடவுச்சீட்டுக்களை பயன்படுத்தி, அதன் ஒரு பகுதியை கட்டுநாயக்க விமான நிலையத்திலிருந்து மற்றொரு வாகனத்தில் எடுத்துச் சென்றுள்ளார்.
+
+...
+
+[Data](articles/f6abf022.json)
 
 ---
 
@@ -1767,37 +1801,5 @@ In the first six months of 2025 a total of 410.8 billion rupees of inflationary 
 ...
 
 [Data](articles/8ccbef61.json)
-
----
-
-### දුරදිග ගිය ආරවුල පුද්ගලයෙකුට දිවි අහිමිකරයි
-
-*2025-08-04 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212988) · `si`
-
-මාරවිල, මුදුකටුව වෙරල තීරයේදී දෙපාර්ශවයක් අතර ඇතිවූ ආරවුලක් දුරදිග ගොස් තියුණු ආයුධයකින් සිදුකළ පහරදීමක් හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මාරව්ල රෝහලට ඇතුලත් කිරිමේදී එක් පුද්ගලයෙකු මියගොස් තිබේ.
-
-ඝාතනය සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මාරවිල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/da5ea959.json)
-
----
-
-### Hamas says it will allow aid for hostages if Israel halts airstrikes, opens permanent humanitarian corridors
-
-*2025-08-04 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111134/hamas-says-it-will-allow-aid-for-hostages-if-israel-halts-airstrikes-opens-permanent-humanitarian-corridors) · `en`
-
-Hamas said on Sunday it was prepared to coordinate with the Red Cross to deliver aid to hostages it holds in Gaza, if Israel meets certain conditions, after a video it released showing an emaciated captive drew sharp criticism from Western powers.
-
-Hamas said any coordination with the Red Cross is contingent upon Israel permanently opening humanitarian corridors and halting airstrikes during the distribution of aid.
-
-According to Israeli officials, 50 hostages now remain in Gaza, only 20 of whom are believed to be alive. Hamas, thus far, has barred humanitarian organizations from having any kind of access to the hostages and families have little or no details of their conditions.
-
-On Saturday, Hamas released its second video in two days of Israeli hostage Evyatar David. In it, David, skeletally thin, is shown digging a hole that, he says in the video, is for his own grave. The arm of the individual holding the camera, which can be seen in the frame, is a regular width.
-
-...
-
-[Data](articles/69bf0461.json)
 
 ---

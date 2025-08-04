@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 03:19:57**
+As of **2025-08-05 03:32:17**
 
 ## Newspaper Stats
 
-*Scraped **68,683** Articles*
+*Scraped **68,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 704
 islandlk | 4,190
 economynextcom | 4,191
 dailymirrorlk | 4,733
-dailyftlk | 4,838
+dailyftlk | 4,843
 adalk | 6,616
 adaderanalk | 8,514
 tamilmirrorlk | 9,985
@@ -26,11 +26,85 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,683 articles have been extended.
+61,973 (90.2%) of 68,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### Speaker endorses certificate on Companies (Amendment) Bill
+
+*2025-08-05 03:18:37* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-Companies-Amendment-Bill/56-779917) · `en`
+
+Speaker of Parliament Dr. Jagath Wickramaratne yesterday endorsed the certificate on the Companies (Amendment) Bill, which was passed in Parliament with amendments on 23 July.
+
+Accordingly, the amended Act introduces several provisions, including allowing the incorporation of a company with a single shareholder, extending the notice period for the public when changing a company’s name to 20 working days, prohibiting the issuance of bearer shares or bearer share warrants, requiring notification to the company regarding the issuance of bearer shares or bearer share warrants, and mandating the disclosure of the bearer’s details to the company registrar within 60 days, requiring companies to divide shares within 20 days from the date of incorporation.
+
+...
+
+[Data](articles/4bd3e4dd.json)
+
+---
+
+### Supreme Court dismisses petitions challenging Sri Lanka-India MoUs
+
+*2025-08-05 03:17:39* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-dismisses-petitions-challenging-Sri-Lanka-India-MoUs/56-779916) · `en`
+
+The Supreme Court yesterday dismissed two Fundamental Rights petitions that sought to invalidate the recent Memoranda of Understanding (MoUs) signed between Sri Lanka and India.
+
+A two-judge bench comprising Justice Achala Wengappuli and Justice Priyantha Fernando ruled that there was no prima facie case to proceed with the applications. As a result, the petitions were dismissed without further hearing.
+
+The petitions had challenged the legality of seven MoUs exchanged on 5 April at the Presidential Secretariat. These agreements, signed in the presence of President Anura Kumara Disanayake and Indian Prime Minister Narendra Modi, cover areas including defence cooperation, digital solutions, and a multi-sectoral grant assistance initiative for the Eastern Province.
+
+President’s Counsel Manohara de Silva and Senior Counsel Canishka Witharana appeared for the petitioners. Deputy Solicitor General Nirmalan Wigneswaran represented the Attorney General.
+
+◼️
+
+[Data](articles/64aa991b.json)
+
+---
+
+### Sri Lanka signs landmark agreement with ESCAP-CSAM to enhance agricultural machinery standards
+
+*2025-08-05 03:13:30* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-signs-landmark-agreement-with-ESCAP-CSAM-to-enhance-agricultural-machinery-standards/34-779915) · `en`
+
+The Sri Lanka Standards Institution (SLSI) and the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP), through its Centre for Sustainable Agricultural Mechanisation (CSAM), signed a landmark Memorandum of Agreement (MoA) during a special ceremony held at CIAME Asia 2025 – Thailand International Agricultural Machinery Exhibition on 23 July, in Bangkok.
+
+Ambassador of Sri Lanka to the Kingdom of Thailand and Permanent Representative to UNESCAP Wijayanthi Edirisinghe, witnessed the signing of the MoA.
+
+Sri Lanka Standards Institution (SLSI) Director General Dr. Siddhika G. Senaratne, signed the Memorandum of Agreement (MoA) on behalf of the Government of Sri Lanka, and ESCAP Director of Strategy and Program Management Division Adnan Aliani, signed on behalf of the United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP).
+
+...
+
+[Data](articles/da1be540.json)
+
+---
+
+### Anverally and Sons earns prestigious ISO/IEC 17025 international certification for in-house laboratory
+
+*2025-08-05 03:12:12* · [`dailyftlk`](https://www.ft.lk/business/Anverally-and-Sons-earns-prestigious-ISO-IEC-17025-international-certification-for-in-house-laboratory/34-779914) · `en`
+
+Anverally and Sons General Manager Process Control Lasantha De Silva and Sri Lanka Accreditation Board (SLAB) Chairman Air Vice Marshal (Retd.) Prasanna Ranasinghe (third and fourth from right) at the presentation of the ISO 17025 certification. Also in the picture are (from left): Anverally and Sons Senior Executive – Quality Assurance Nuwanthika Rathnayake and Junior Analyst Supuni Rathugamage, SLAB Deputy Director – Accreditation Mithila Gunesekara, and Anverally and Sons Chemist cum R&D Executive Anjali Randeniya and Quality Assurance Assistant Ishara Chathurangi
+
+Anverally and Sons Ltd., one of Sri Lanka’s foremost exporters of Ceylon Tea, has strengthened its reputation for uncompromising quality and global trust by securing ISO/IEC 17025 accreditation for its state-of-the-art in-house laboratory.
+
+...
+
+[Data](articles/0ea3d73c.json)
+
+---
+
+### BNI National Conference engages over 400+ local and international members
+
+*2025-08-05 03:10:47* · [`dailyftlk`](https://www.ft.lk/business/BNI-National-Conference-engages-over-400-local-and-international-members/34-779913) · `en`
+
+BNI Sri Lanka’s flagship event – The BNI National Conference 2025 – which was held on 18 June at the Cinnamon Grand, Colombo concluded successfully with the active and enthusiastic participation of 250 members representing the 16 chapters in Sri Lanka and 160 foreign participants representing overseas BNI chapters from India, Japan, Bahrain, and Taiwan, The participants were hosted to an engaging full-day conference followed by a networking and fellowship session. The conference aimed to connect the 400+ entrepreneurs, professionals, and industry leaders for targeted networking and referral opportunities. Attendees participated in high-speed meetings, learned from expert speakers on business trends and leadership, and explored collaborations and joint ventures. The event also recognised outstanding performance, offered regional and international exposure, and fostered cross-chapter business relationships among BNI members.
+
+...
+
+[Data](articles/50b7d55e.json)
+
+---
 
 ### அத்துமீறிய மீன்பிடிப் படகு கைப்பற்றப்பட்டது
 
@@ -1735,101 +1809,5 @@ Furthermore, owing to the increase in costs, it was reported that global website
 ◼️
 
 [Data](articles/97d45043.json)
-
----
-
-### ஒக்கம்பிட்டி ஓஐசிக்கு விளக்கமறியல் நீடிப்பு
-
-*2025-08-04 14:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்கம்பிட்டி-ஓஐசிக்கு-விளக்கமறியல்-நீடிப்பு/175-362272) · `ta`
-
-லஞ்சம் கேட்டு பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்ட ஒக்கம்பிட்டி காவல் நிலைய பொறுப்பதிகாரி (OIC) ஐ,  ஆகஸ்ட் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க, திங்கட்கிழமை (04)  உத்தரவிட்டார்.
-
-ஒக்கம்பிட்டி காமினியபுர பகுதியில் மணல் வர்த்தகத்தில் ஈடுபட்டுள்ள தொழிலதிபர் ஒருவர் அளித்த புகாரின் அடிப்படையில் இந்த கைது நடந்ததாக விசாரணை அதிகாரிகள் தெரிவித்தனர். மணல் வியாபாரத்தை எந்தவித இடையூறும் இல்லாமல் மேற்கொள்ள மாதத்திற்கு   50,000  ரூபாவை சந்தேக நபர் தன்னிடம் கேட்டதாக முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-முறைப்பாட்டாளரிடம் இருந்து ரூ 47,000  ரூபாயை சந்தேக நபர்   பல சந்தர்ப்பங்களில் லஞ்சமாக பெற்றதாக விசாரணைகளில் மேலும் தெரியவந்துள்ளது.
-
-விசாரணைகள் இன்னும் தொடர்வதால்,  சந்தேக நபரை மேலும் விளக்கமறியலில் வைக்குமாறு  நீதிமன்றத்தில் அதிகாரிகள் கோரி நின்றனர்.
-
-...
-
-[Data](articles/61f521bc.json)
-
----
-
-### දකුණු කොරියාවේ ජල ගැලීම් ආපදා රැසක්
-
-*2025-08-04 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213003) · `si`
-
-දකුණු කොරියාවේ ග්වන්ජු සහ දකුණු ජෙඕලා ප්‍රාන්තවලට මේ දිනවල අධික වැසි ඇද හැලෙමින් පවතියි.
-
-මේ හේතුවෙන් එම කලාපවල ජලගැලීම් ආපදා රැසක් වාර්තා වෙමින් පවතින බව කොරියානු මාධ්‍ය වාර්තා කර තිබුණි.
-
-ග්වන්ජු කලාපයෙන් පමණක් ජලගැලීමේ සිදුවීම් 172ක් වාර්තා වී ඇති අතර, එහිදී අයෙක් මියගොස් බරපතළ දේපළ හානි සිදුව තිබේ.
-
-දකුණු ජෙඕලා හි මුආන් වෙත ඊයේ ඇදහැලුණු මිලිමීටර් 289 ඉක්මවූ වර්ෂාපතනය හේතුවෙන් එම කලාපයෙන් ද ජලගැලීම් වාර්තා විය.
-
-එහිදී පැයක් තුළ මිලිමීටර් 142 ඉක්මවූ වර්ෂාපතනයක් මුආන් වෙත ඇදහැලී තිබුණේ වසර 200ක් තුළ එම කලාපයෙන් වාර්තාවූ උපරිම වර්ෂාපතනය සටහන් කරමිනි.
-
-◼️
-
-[Data](articles/0a3f587a.json)
-
----
-
-### Advisory issued for severe lightning
-
-*2025-08-04 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111151/advisory-issued-for-severe-lightning) · `en`
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central and Eastern provinces, the Department of Meteorology warns.
-
-There may be temporary localized strong winds during thundershowers, the Met. Department added.
-
-Therefore, the general public has been urged to take adequate precautions to minimize damages caused by lightning activity.
-
-The Met Department urged the public to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
-
-The public has also been advised not to use wired telephones and connected electric appliances during thunderstorms.
-
-Meanwhile, for emergency assistance the public should contact the local disaster management authorities.
-
-◼️
-
-[Data](articles/0758c0bd.json)
-
----
-
-### ඔක්කම්පිටිය OIC යළි රිමාන්ඩ්
-
-*2025-08-04 13:51:27* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්කම්පිටිය-OIC-යළි-රිමාන්ඩ්/11-417707) · `si`
-
-ඔක්කම්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා ලබන 18 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-අදාළ නඩුව අද (04දා) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය ලබා දෙනු ලැබිණි.
-
-අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන්  ඔහුව පසුගියදා අත්අඩංගුවට ගනු ලැබිණි.
-
-◼️
-
-[Data](articles/0a329bc1.json)
-
----
-
-### කළුතර ප්‍රදේශ රැසකට පැය 12ක ජල කප්පාදුවක්
-
-*2025-08-04 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213002) · `si`
-
-කළුතර ප්‍රදේශ රැසකට හෙට (05) දිනයේ පැය 12ක ජල කප්පාදුවක් සිදුකරන බව ජාතික ජල සම්පාදන සහ ජලාපවහන මණ්ඩලය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ හෙට පෙරවරු 10.00 සිට රාත්‍රී 10.00 දක්වා වූ කාලය තුළ මෙලෙස ජල සැපයුම අත්හිටුවීමට නියමිත බවය.
-
-කළුතර ජල සම්පාදන ක්‍රමයේ අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් මෙලෙස ජල කප්පාදුව සිදු කිරීමට සිදුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
-
-ඒ අනුව කළුතර දකුණ, කළුතර උතුර, නාගොඩ, වස්කඩුව, පොතුපිටිය, වාද්දූව යන ප්‍රදේශයේ සඳහා ජල සැපයුම අත්හිටුවීමට නියමිතය.
-
-ජල සැපයුම අත්හිටුවීමෙන් ජනතාවට සිදුවන අපහසුතාවය පිළිබඳව කණගාටුව පළකරන බවත් අරපිරිමැස්මෙන් ජලය පරිභෝජනය කරන ලෙසත් ජාතික ජල සම්පාදන සහ ජලාපවහන මණ්ඩලය ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/3ff96bd0.json)
 
 ---

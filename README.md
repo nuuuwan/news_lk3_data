@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 06:53:59**
+As of **2025-08-04 07:39:37**
 
 ## Newspaper Stats
 
-*Scraped **68,492** Articles*
+*Scraped **68,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,588
-adaderanalk | 8,481
+adaderanalk | 8,482
 tamilmirrorlk | 9,934
 virakesarilk | 11,415
-adaderanasinhalalk | 11,794
+adaderanasinhalalk | 11,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,492 articles have been extended.
+61,973 (90.5%) of 68,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### වසර 10කට පසු ජාතික ධීවර යාත්‍රා සංගණනය අද ඇරඹෙයි
+
+*2025-08-04 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212989) · `si`
+
+එහි පළමු අදියර අද පානදුර ධීවර වරායෙන් ආරම්භ වන අතර එය ලබන 20 වනදා දක්වා දිවයින පුරා ක්‍රියාත්මක කරන බව ධීවර, ජලජ හා සාගර සම්පත් අමාත්‍යාංශය සඳහන් කළේය.
+
+වසර 10කට පමණ පසු, මුළු දිවයිනම ආවරණය වන පරිදි මෙම ධීවර යාත්‍රා සංගණනය පවත්වන බව සඳහන්ය.
+
+මෙරට වෙරළ තීරයේ පවතින 50,000ක් පමණ වන ධීවර යාත්‍රා පිළිබඳව යාවත්කාලීන දත්ත පද්ධතියක් නිර්මාණය කිරීම මෙම සංගණනයේ  ප්‍රධාන අරමුණක් බව එම අමාත්‍යංශය සඳහන් කළේය.
+
+එහිදී සක්‍රීය ධීවර යාත්‍රා හඳුනාගැනීම, භාවිතයේ නොයෙදෙන සහ අබලන් වූ යාත්‍රා වෙරළ තීරයෙන් ඉවත් කර "ක්ලීන් ශ්‍රී ලංකා" වැඩසටහනට සහාය වීම, සංචාරක කර්මාන්තය ප්‍රවර්ධනයට දායකවීම සහ ධීවර මෙහෙයුම් බලපත්‍ර ක්‍රමවත් කිරීම මෙම ධීවර යාත්‍රා සංගණනයේ දී සිදුකිරීමට නියමිතය.
+
+ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් සෑම ධීවර තොටුපළකටම පැමිණ, යාත්‍රා පරීක්ෂා කර විශේෂ ස්ටිකරයක් ඇලවීම ද මෙම සංගණනය කාලයේ දී සිදුකරනු ඇත.
+
+සංගණනයෙන් රැස්කරගන්නා තොරතුරු මත ලබන වසරේ සිට, ධීවර යාත්‍රා මෙහෙයුම් බලපත්‍ර සහ අනෙකුත් සියලුම සහන සේවා කටයුතු සිදුකිරීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/8ccbef61.json)
+
+---
+
+### දුරදිග ගිය ආරවුල පුද්ගලයෙකුට දිවි අහිමිකරයි
+
+*2025-08-04 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212988) · `si`
+
+මාරවිල, මුදුකටුව වෙරල තීරයේදී දෙපාර්ශවයක් අතර ඇතිවූ ආරවුලක් දුරදිග ගොස් තියුණු ආයුධයකින් සිදුකළ පහරදීමක් හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මාරව්ල රෝහලට ඇතුලත් කිරිමේදී එක් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඝාතනය සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මාරවිල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/da5ea959.json)
+
+---
+
+### Afternoon showers expected in several areas
+
+*2025-08-04 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111133/afternoon-showers-expected-in-several-areas) · `en`
+
+The Department of Meteorology says several spells of showers will occur in Western, Sabaragamuwa, Central and North-Western provinces and in Galle and Matara districts.
+
+Cloudy skies can be expected over Northern and North-Central provinces.
+
+Showers or thundershowers will occur at several places in Northern, North-Central and Eastern provinces after 1.00 p.m., the department noted.
+
+Fairly heavy falls above 50 mm are likely at some places in Northern, North-Central, Eastern and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1c00fb7b.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට සවසට තද වැසි
+
+*2025-08-04 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212986) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු සහ උතුරු-මැද පළාත්වල අහස වළාකුලින් බරව පවතින බවය.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වල ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f04c9e80.json)
+
+---
 
 ### CIABOC to take legal action against top public officials who fail to submit asset declarations
 
@@ -624,7 +700,7 @@ Environment consists of all endowments which nature has bequeathed to organisms 
 
 ---
 
-### සිසුන්ගේ ආරක්ෂාව පිලිබඳව විශ්වවිද්‍යාල වගකීමෙන් කටයුතු කළයුතුයි - අගමැති හරිනි
+### සිසුන්ගේ ආරක්ෂාව පිළිබඳව විශ්වවිද්‍යාල වගකීමෙන් කටයුතු කළයුතුයි - අගමැති හරිනි
 
 *2025-08-03 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212985) · `si`
 
@@ -1649,83 +1725,5 @@ The arrested driver is scheduled to be produced before the Nuwara Eliya Magistra
 ◼️
 
 [Data](articles/0685f54d.json)
-
----
-
-### ‘கம்பஹா தேவா’ கைது
-
-*2025-08-03 14:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-தேவா-கைது/175-362211) · `ta`
-
-ஒழுங்கமைக்கப்பட்ட குற்றத் தலைவர் கெஹல்பத்தர பத்மேவின் நெருங்கிய உதவியாளரான கம்பஹா தேவா, தாய்லாந்திற்கு தப்பிச் செல்ல கட்டுநாயக்க விமான நிலையத்திற்கு வந்தபோது விமான நிலைய குற்றப் புலனாய்வுத் துறை அதிகாரிகளால் ஞாயிற்றுக்கிழமை (03) காலை கைது செய்யப்பட்டார்.
-
-39 வயதான திசாநாயக்க தேவன்மினி திசாநாயக்க, கம்பஹா பகுதியில் கொலை மற்றும் போதைப்பொருள் கடத்தல் உள்ளிட்ட பல குற்றங்களில் குற்றம் சாட்டப்பட்டவர்.
-
-கெஹல்பத்தர பத்மே டுபாயில் மறைந்திருந்து பின்னர் தாய்லாந்திற்கு தப்பிச் சென்றார், அங்கு அவர் நாட்டின் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டார், ஆனால் தப்பிச் சென்று காணாமல் போனார்.
-
-கம்பஹா தேவா என்ற நபர் ஞாயிற்றுக்கிழமை (03) காலை 08.10 மணிக்கு தாய்லாந்தின் பாங்காக்கிற்குச் செல்லும் இலங்கை ஏர்லைன்ஸ் விமானத்தில் ஏறுவதற்காக கட்டுநாயக்க விமான நிலையத்திற்கு வந்தபோது கைது செய்யப்பட்டார்.
-
-மேலதிக விசாரணைக்காக அவரை பேலியகொட கொழும்பு வடக்கு குற்றப்பிரிவிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/4f123fd6.json)
-
----
-
-### සාදයේ ආරවුල මරණයෙන් කෙළවර වෙයි
-
-*2025-08-03 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212969) · `si`
-
-ත්‍රිකුණාමලය උතුරු වෙරළ මාර්ගයේදී පිරිසක් විසින් සිදු කළ පහරදීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-පහර කෑමෙන් බරපතළ තුවාල ලැබූ පුද්ගලයා ත්‍රිකුණාමලය රෝහලට ඇතුළත් කර ඇති අතර එහිදී ඔහු මිය ගොස් ඇති බව පොලීසිය සඳහන් කළේය.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 32ක් ත්‍රිකුණාමලය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-සාදයක් අතරතුර ඇති වූ බහින් බස් වීමක් දුරදිග යාම හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බවට මූලික පොලිස් පරීක්ෂණවලදී අනාවරණය වී ඇත.
-
-මෘත ශරීරය ත්‍රිකුණාමලය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ත්‍රිකුණාමලය පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/356d5ee0.json)
-
----
-
-### Dormant Russia volcano erupts for first time in 475 years
-
-*2025-08-03 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111124/dormant-russia-volcano-erupts-for-first-time-in-475-years) · `en`
-
-A volcano erupted for the first time in 475 years in Russia’s eastern Kamchatka region, the nation’s emergency authority said on Sunday (Aug 3), days after one of the strongest earthquakes on record hit the region.
-
-Pictures released by Russian state media show a towering plume of ash spewing from the Krasheninnikov volcano, which last erupted in 1550, according to the Smithsonian Institution’s Global Volcanism Program.
-
-The plume is estimated to have reached an altitude of 6,000m, Kamchatka’s Ministry of Emergency Situations said in a post on Telegram.
-
-“The plume is spreading eastward from the volcano toward the Pacific Ocean. There are no populated areas along its path, and no ashfall has been recorded in inhabited localities,” the ministry said.
-
-The volcano has been assigned an “orange” aviation hazard code, the ministry added, meaning flights in the area may be disrupted.
-
-...
-
-[Data](articles/a971f981.json)
-
----
-
-### ஹட்டனில் நெக்லஸை திருடிய கொழும்பு பெண் கைது
-
-*2025-08-03 14:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-நெக்லஸை-திருடிய-கொழும்பு-பெண்-கைது/76-362210) · `ta`
-
-ஹட்டன் நகரின் குறுக்குத் தெருவில் உள்ள ஒரு நகைக் கடையில் இருந்து ரூ.275,000 மதிப்புள்ள தங்க நெக்லஸை எடுத்துக்கொண்டு தப்பிச் சென்றதாகக் கூறப்படும் ஒரு பெண்ணை ஹட்டன் பொலிஸார் சந்தேகத்தின் பேரில் கைது செய்தனர்.
-
-அந்த பெண்ணை, ஹட்டன் பதில் நீதவான் எஸ். பார்த்தீபன் முன்னிலையில் வௌ்ளிக்கிழமை (01) ஆஜர்படுத்தினர். சந்தேக நபர் குற்றத்தை ஒப்புக்கொண்டதால், குற்றம் சாட்டப்பட்ட பெண்ணை ரூ.500,000 தனிப்பட்ட பிணையில்  விடுவிக்கவும், வழக்கை ஜூலை 05 அன்று மீண்டும் விசாரிக்கவும் நீ பதில் நீதவான் உத்தரவிட்டார்.
-
-பிணையில் விடுவிக்கப்பட்ட பெண் கொழும்பு பகுதியைச் சேர்ந்த ஒரு குழந்தையின் தயாரான ரோஷனாத சில்வா (26) ஆவார்.
-
-ஹட்டன் பொலிஸார் நடத்திய ஆரம்ப விசாரணையில், குற்றம் சாட்டப்பட்ட பெண் சிறிது காலமாக மஸ்கெலியா சாமிமலை  பகுதியில் வசித்து வருவதாகவும், தற்போது கொழும்பு பகுதியில் வசித்து வருவதாகவும், ஒரு ஆடைத் தொழிற்சாலையில் பணிபுரிந்து வருவதாகவும், அவர் தனது கணவரிடமிருந்து பிரிந்து இருப்பதாகவும் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/02fcebfe.json)
 
 ---

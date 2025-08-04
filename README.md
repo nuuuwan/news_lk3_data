@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 14:27:05**
+As of **2025-08-04 14:40:52**
 
 ## Newspaper Stats
 
-*Scraped **68,578** Articles*
+*Scraped **68,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,185
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,601
+adalk | 6,602
 adaderanalk | 8,495
 tamilmirrorlk | 9,963
 virakesarilk | 11,425
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,578 articles have been extended.
+61,973 (90.4%) of 68,579 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0a3f587a.json)
+
+---
+
+### ඔක්කම්පිටිය OIC යළි රිමාන්ඩ්
+
+*2025-08-04 13:51:27* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්කම්පිටිය-OIC-යළි-රිමාන්ඩ්/11-417707) · `si`
+
+ඔක්කම්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා ලබන 18 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+අදාළ නඩුව අද (04දා) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය ලබා දෙනු ලැබිණි.
+
+අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන්  ඔහුව පසුගියදා අත්අඩංගුවට ගනු ලැබිණි.
+
+◼️
+
+[Data](articles/0a329bc1.json)
 
 ---
 
@@ -1747,19 +1763,5 @@ From the simple standpoint of prudent State financial solvency and security, it 
 ...
 
 [Data](articles/f3dd2925.json)
-
----
-
-### சேகுவேரா படையணியாக்கம்: கிராம இளைஞர்கள் மீது அரசின் நடவடிக்கையை வன்மையாக கண்டிக்கிறோம் - எஸ்.எம். மரிக்கார்
-
-*2025-08-04 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/221736) · `ta`
-
-கிராமங்களில் இருக்கும் இளைஞர்  சமூக சம்மேளனங்களை மக்கள் விடுதலை முன்னணியின் சேகுவேரா படையணியாக்க அரசாங்கம் எடு்துவரும் நடவடிக்கையை வன்மையாக கண்டிக்கிறோம். இந்த விடயத்தில் ஜனாதிபதி தலையிட்டு இந்த நடவடிக்கையை நிறுத்த வேண்டும் என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
-
-ஐக்கிய மக்கள் சக்தி கட்சி காரியாலயத்தில் 03ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/26e489ac.json)
 
 ---

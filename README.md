@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 02:48:38**
+As of **2025-08-05 03:06:36**
 
 ## Newspaper Stats
 
-*Scraped **68,675** Articles*
+*Scraped **68,677** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
-colombotelegraphcom | 703
+colombotelegraphcom | 704
 economynextcom | 4,186
 islandlk | 4,190
 dailymirrorlk | 4,733
@@ -19,18 +19,30 @@ dailyftlk | 4,838
 adalk | 6,616
 adaderanalk | 8,514
 tamilmirrorlk | 9,984
-virakesarilk | 11,445
+virakesarilk | 11,446
 adaderanasinhalalk | 11,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,675 articles have been extended.
+61,973 (90.2%) of 68,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### பாலஸ்தீனம் தொடர்பில் ஐக்கிய இராச்சியத்தின் நிலைப்பாடு ஏன் முக்கியத்துவம் வாய்ந்ததாக இருக்கிறது?
+
+*2025-08-05 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221832) · `ta`
+
+இஸ்ரேல் காசாவில் போர்நிறுத்தம் ஒன்றுக்கு இணக்கி, பெருமளவு மனிதாபிமான உதவிகள் செல்வதற்கு அனுமதிக்காவிட்டால்,  இரு அரசுகள் விதிமுறையின் அடிப்படையில் நீண்டகால சமாதானம் நோக்கிச் செயற்படுவதில் உறுதிப்பாட்டை காண்பிக்காவிட்டால், எதிர்வரும் செப்டெம்பரில் ஐக்கிய நாடுகள் பொதுச்சபை கூட்டத்தொடரில் தனது அரசாங்கம் பாலஸ்தீனத்தை அங்கீகரிக்கும் என்று பிரிட்டிஷ் பிரதமர் கெய்ர் ஸ்ராமெர் கடந்தவாரம் அறிவித்தார்....
+
+◼️
+
+[Data](articles/532e5aa8.json)
+
+---
 
 ### மாகாணசபை முறையை பாதுகாக்க மக்கள் இயக்கத்தை கட்டியெழுப்பும் முயற்சிகளில்  வரதராஜப் பெருமாள்
 
@@ -233,6 +245,20 @@ At present, Kavantissa roams mainly around Galgamuwa and Ambanpola regions, acco
 ...
 
 [Data](articles/5751f768.json)
+
+---
+
+### Unfinished History Of July
+
+*2025-08-04 21:00:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unfinished-history-of-july/) · `en`
+
+The month of July is remembered in Sri Lanka for many eventful things that changed the course of history. But two events – the Black July Pogrom carried out on July 23, 1983 and the Indo-Sri Lanka Accord (ISLA) signed between President JR Jayawardane and Indian Prime Minister Rajiv Gandhi on July 29, 1987, stand out among them. Both the events have a ‘Cause and Effect’ relationship as Tamil refugees fleeing the Black July Pogrom in thousands to Tamil Nadu resulted in India taking serious interest in Sri Lanka Tamils identity struggle that led to ISLA. Their quest to save Tamil identity, language and traditional habitation, resulted in ISLA. It still continues to be the core of Tami politics in Sri Lanka.
+
+Sri Lanka Tamil refugee’s plight also gained the Tamil cause a perpetual place in Tamil Nadu politics, till the LTTE mindlessly assassinated former prime minister Rajiv Gandhi four years later. Now, it has been reduced to influence only around ten percent of the voters in Tamil Nadu.
+
+...
+
+[Data](articles/9b1105d3.json)
 
 ---
 
@@ -1819,45 +1845,5 @@ The second foreigner was issued a license in 7 minutes, and the aim is to issue 
 ◼️
 
 [Data](articles/7efd09d0.json)
-
----
-
-### Dhammika Perera’s Singer partners with Starlink to expand satellite internet access in Sri Lanka
-
-*2025-08-04 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111147/dhammika-pereras-singer-partners-with-starlink-to-expand-satellite-internet-access-in-sri-lanka) · `en`
-
-Singer (Sri Lanka) PLC has reportedly been appointed as the official distributor in Sri Lanka for Starlink satellite internet service equipment, which has recently gained regulatory access to the country.
-
-A post on the official Facebook page of Singer (Sri Lanka) has indicated the development, while internal sources expect a formal announcement shortly.
-
-Meanwhile, the official Facebook page of Starlink Sri Lanka has published a statement confirming this.
-
-“We’re proud to announce that Singer Sri Lanka is now the official distributor of Starlink – the world’s leading satellite internet provider. Whether you’re in the city or the most remote village, reliable high-speed internet is now within your reach,” the statement added.
-
-Singer (Sri Lanka) PLC is a publicly listed company owned by Hayleys PLC, which is controlled by prominent Sri Lankan entrepreneur Dhammika Perera. Hayleys PLC holds a 67.13% stake in Singer (Sri Lanka), while Dhammika Perera owns 51.01% of Hayleys.
-
-...
-
-[Data](articles/3a5926fd.json)
-
----
-
-### சட்டவிரோதமாக கொண்டுவரப்பட்ட 63 இலட்சம் ரூபா பெறுமதியான பொருட்களை லொறியில் கடத்திச் சென்றவர் கைது!
-
-*2025-08-04 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221765) · `ta`
-
-இந்தியாவில் இருந்து கடல் வழியாக சட்டவிரோதமாக கொண்டுவரப்பட்ட 63 இலட்சம் ரூபா பெறுமதியான பொருட்களை லொறியில் கடத்திச் சென்ற சந்தேக நபர் நுரைச்சோலை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-நுரைச்சோலை பொலிஸ் நிலைய பொறுப்பதிகாரிக்குக் கிடைத்த இரகசியத் தகவலின் அடிப்படையில், ஆலங்குடா கடற்கரையிலிருந்து கரம்பை பகுதி ஊடாக சென்றுகொண்டிருந்த லொறி ஒன்றில் மேற்கொள்ளப்பட்ட சோதனையில்   சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-குறித்த லொறியிலிருந்த 16 பைகளில் இருந்து 537 கிலோ உலர்ந்த இஞ்சி, 2 பைகளில் 65 கிலோ உலர்ந்த மஞ்சள் மற்றும் 9 பைகளில் 309 கிலோ பீடி இலைகள் என்பன கைப்பற்றப்பட்டன.
-
-இந்த பீடி இலைகளின் பெறுமதி சுமார் 40 இலட்சம் என்றும், உலர்ந்த இஞ்சியின் பெறுமதி  20 இலட்சம் என்றும், உலர்ந்த மஞ்சளின் மபெறுமதி 3 இலட்சம் என்றும் பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கைப்பற்றப்பட்ட பொருட்களுடன் மேலதிக விசாரணைகளுக்காக நுரைச்சோலை  பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/4d1e5f0d.json)
 
 ---

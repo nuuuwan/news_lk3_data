@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 07:39:37**
+As of **2025-08-04 08:38:04**
 
 ## Newspaper Stats
 
-*Scraped **68,496** Articles*
+*Scraped **68,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,182
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,588
-adaderanalk | 8,482
+adalk | 6,589
+adaderanalk | 8,483
 tamilmirrorlk | 9,934
 virakesarilk | 11,415
-adaderanasinhalalk | 11,797
+adaderanasinhalalk | 11,798
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,496 articles have been extended.
+61,973 (90.5%) of 68,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### බෝට්ටුවක් පෙරළීමෙන් සංක්‍රමණිකයන් 65කට වැඩි පිරිසක් මරුට
+
+*2025-08-04 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212990) · `si`
+
+යේමනයේ වෙරළට ඔබ්බෙන් 150 දෙනෙකු පමණ රැගත් බෝට්ටුවක් පෙරළී ගොස් ගිලී යාමෙන් සංක්‍රමණිකයන් 65 කට වැඩි පිරිසක් මියගොස් තිබේ.
+
+මෙම පිරිසෙන් පුද්ගලයින් 10 දෙනෙකුගේ පමණ දිවි බේරාගෙන ඇති අතර අනෙක් පිරිස තවමත් අතුරුදහන් වී ඇති බව වාර්තා වේ.
+
+මොවුන්ගෙන් බොහෝ දෙනෙක් ඉතියෝපියානු ජාතිකයන් යැයි විශ්වාස කරන බව ජාත්‍යන්තර සංක්‍රමණ සංවිධානය (IOM) වාර්තා කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+අයහපත් කාලගුණය හේතුවෙන් ඊයේ (03) මෙම අනතුර සිදුව ඇති බව සඳහන් වේ.
+
+අප්‍රිකාවේ සිට රැකියා සොයමින් ගල්ෆ් අරාබි රාජ්‍යයන් වෙත ගමන් කරන සංක්‍රමණිකයින් සඳහා යේමනය තවමත් ප්‍රධාන මාර්ගයක් වන අතර, IOM සංවිධානය විසින් සිදුකළ සමීක්ෂණයකට අනුව එම මුහුදු කළාපයේ තිබූ නැව් සුන්බුන් අනුව ඇස්තමේන්තු ගත කර ඇත්තේ පසුගිය මාස කිහිපය තුළදී සිය ගණනක් මෙලෙස මිය ගොස් හෝ අතුරුදහන් වී ඇති බවටය.
+
+◼️
+
+[Data](articles/6b719bb7.json)
+
+---
 
 ### වසර 10කට පසු ජාතික ධීවර යාත්‍රා සංගණනය අද ඇරඹෙයි
 
@@ -65,6 +85,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/da5ea959.json)
+
+---
+
+### Hamas says it will allow aid for hostages if Israel halts airstrikes, opens permanent humanitarian corridors
+
+*2025-08-04 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111134/hamas-says-it-will-allow-aid-for-hostages-if-israel-halts-airstrikes-opens-permanent-humanitarian-corridors) · `en`
+
+Hamas said on Sunday it was prepared to coordinate with the Red Cross to deliver aid to hostages it holds in Gaza, if Israel meets certain conditions, after a video it released showing an emaciated captive drew sharp criticism from Western powers.
+
+Hamas said any coordination with the Red Cross is contingent upon Israel permanently opening humanitarian corridors and halting airstrikes during the distribution of aid.
+
+According to Israeli officials, 50 hostages now remain in Gaza, only 20 of whom are believed to be alive. Hamas, thus far, has barred humanitarian organizations from having any kind of access to the hostages and families have little or no details of their conditions.
+
+On Saturday, Hamas released its second video in two days of Israeli hostage Evyatar David. In it, David, skeletally thin, is shown digging a hole that, he says in the video, is for his own grave. The arm of the individual holding the camera, which can be seen in the frame, is a regular width.
+
+...
+
+[Data](articles/69bf0461.json)
 
 ---
 
@@ -916,6 +954,22 @@ Dr. Amarasuriya also added that certain groups are spreading false information c
 
 ---
 
+### හිටපු ජනපතිවරුන්ට ප්‍රමාණවත් ආරක්ෂාවක් ලබා දිය යුතුයි
+
+*2025-08-03 18:56:22* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ට-ප්‍රමාණවත්-ආරක්ෂාවක්-ලබා-දිය-යුතුයි/11-417696) · `si`
+
+හිටපු ජනාධිපතිවරුන් ජනතා බදු මුදලින් සුරසැප විඳීම නතර කරනවා සේම ඔවුන් රටට කළ සේවය සලකා ප්‍රමාණවත් ආරක්ෂාවක් ලබා දීමට කටයුතු කළ යුතු බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+
+එමෙන්ම වර්තමාන ජනාධිපති අනුර කුමාර දිසානායක මහතාටද ප්‍රමාණවත් ආරක්ෂාවක් ලබා දිය යුතු බව අද (03දා) සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම  සඳහන් කළේය. එහිදී වැඩිදුරටත්  පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“හිටපු ජනාධිපතිවරුන්ගේ අයිතිවාසිකම් අහෝස් කරන්න ගැසට් එකක් ගහලා තියෙනවා. අපි පැහැදිලිව කියන්න කැමතියි දීර්ඝ කාලයක් තිස්සේ ජනතා බදු මුදල් වලින් සුරසැප විඳින එක යුක්ති සහගත නෑ කියලා. ඒත් මේ ජනාධිපතිවරුන් රටට කරපු සේවාවන් එක්ක අඩුම තරමේ ඔවුන්ගේ ආරක්ෂාව ඉවත් නොකර තියන්න ඕනී කියන එක තමයි අපේ මතය.
+
+...
+
+[Data](articles/71074530.json)
+
+---
+
 ### DMT launches new service counter at BIA for foreign tourists
 
 *2025-08-03 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111130/dmt-launches-new-service-counter-at-bia-for-foreign-tourists) · `en`
@@ -1665,65 +1719,5 @@ Furthermore, the Commission announced that a fine will be imposed in accordance 
 ◼️
 
 [Data](articles/51c9f362.json)
-
----
-
-### රුසියාවේ රැෂෙනිනිකොව් ගිනි කන්ද  සක්‍රිය  වෙයි
-
-*2025-08-03 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212970) · `si`
-
-රුසියාවේ කම්චැට්කා අර්ධද්වීපයේ පිහිටි ක්‍රැෂෙනිනිකොව් ගිනි කන්ද ඊයේ සක්‍රීය වී තිබේ.
-
-ඒ වසර 600කට ආසන්න නිහඬතාවයකින් පසුව බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-රුසියාවේ කම්චැට්කා අර්ධද්වීපයට ආසන්න පැසිෆික් සාගරයේ සුනාමි තත්ත්වයක් ද ඇති කරමින් පසුගිය දා හටගත් රික්ටර් මාපකයේ ඒකක 8.8ක ප්‍රබලත්වයෙන් යුත් භූකම්පාවේ බලපෑම හේතුවෙන් මෙම ගිනි කන්ද සක්‍රිය වන්නට ඇති බවට විශේෂඥයින් මත පල කර ඇත.
-
-◼️
-
-[Data](articles/25718cbd.json)
-
----
-
-### SLTB bus driver arrested in Nuwara Eliya while driving under the influence of alcohol
-
-*2025-08-03 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111125/sltb-bus-driver-arrested-in-nuwara-eliya-while-driving-under-the-influence-of-alcohol) · `en`
-
-A Sri Lanka Transport Board (SLTB) bus driver has been arrested by the Nuwara Eliya police for driving under the influence of alcohol.
-
-The bus was operating from Welimada through Nuwara Eliya when it was stopped and inspected by police officers, who confirmed that the driver was heavily intoxicated.
-
-According to police, the driver was taken into custody while a large number of passengers were on board at the time of the arrest.
-
-The bus was taken to the Nuwara Eliya Police Station for inspection, during which the officers discovered a can containing illicit alcohol behind the driver’s seat.
-
-Police suspect that the driver had been consuming alcohol during the journey under the pretext of drinking water.
-
-Meanwhile, the service of another driver was obtained to ensure the passengers could continue to their destination safely, according to police.
-
-The arrested driver is scheduled to be produced before the Nuwara Eliya Magistrate’s Court.
-
-◼️
-
-[Data](articles/4dfdfb14.json)
-
----
-
-### ஐஸூடன் எழுவர் காத்தான்குடியில் கைது
-
-*2025-08-03 14:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-எழுவர்-காத்தான்குடியில்-கைது/175-362212) · `ta`
-
-ஐஸ் போதை பொருட்களுடன் ஏழு சந்தேக நபர்கள் காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பல்வேறு பிரதேசங்களில்  கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய குற்ற தடுப்பு பிரிவு பொறுப்பதிகாரி எஸ். நந்தன தெரிவித்தார்
-
-மட்டக்களப்பு காத்தான்குடி பொலிஸ்  பிரிவிற்குட்பட்ட காத்தான்குடி, புதிய காத்தான்குடி, பாலமுனை ,பூநொச்சிமுனை போன்ற பிரதேசங்களில் வைத்து ஐஸ் போதை பொருட்களுடன் மேற்படி நபர்கள் கைது செய்யப்பட்டுள்ளனர் .
-
-பொலிஸார் நடத்திய திடீர் சுற்றிவளைப்பின் போதே ஐஸ் போதை பொருளுடன் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட நபர்களிடமிருந்து 2,520 மில்லி கிராம் ஐஸ் போதை பொருள் கைப்பற்றப்பட்டுள்ளது .
-
-சந்தேக நபர்கள் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஞாயிற்றுக்கிழமை (03) காலை ஆஜர் படுத்தப்பட்ட நிலையில் எதிர்வரும் ஐந்தாம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதிமன்ற நீதிபதி உத்தரவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/0685f54d.json)
 
 ---

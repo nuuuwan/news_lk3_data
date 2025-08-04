@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 21:22:11**
+As of **2025-08-04 21:34:23**
 
 ## Newspaper Stats
 
-*Scraped **68,660** Articles*
+*Scraped **68,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,613
 adaderanalk | 8,513
 tamilmirrorlk | 9,983
 virakesarilk | 11,440
-adaderanasinhalalk | 11,826
+adaderanasinhalalk | 11,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,660 articles have been extended.
+61,973 (90.3%) of 68,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### ඇමති විජිතගේ සංචාරක ආදායම ගැන නියෝජ්‍ය ඇමති කියූ කතාව
+
+*2025-08-04 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213020) · `si`
+
+පසුගිය මාස හයක කාලයක් තුළ සංචාරකයින් පැමිණීමෙන් ඩොලර් බිලියන 3.7ක ආදායමක් උපයා ඇති බව විදේශ කටයුතු විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සිදුකළ ප්‍රකාශය සම්බන්ධව සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා අද (04) පැහැදිළි කිරීමක් සිදු කළේය.
+
+එහිදී නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ මහ බැංකු වාර්තාවට ජූනි මාසය අවසාන වන විට සංචාරක පැමිණීමෙන් ඉපයූ ආදායම මහ බැංකු වාර්තාවට අනුව සඳහන් වී ඇත්තේ ඩොලර් බිලියන 1.7ක් ලෙස බවය.
+
+කෙසේ නමුත් ජූලි මාසයේ දත්ත මීට ඇතුළත්ව නැති බවත් පැවසූ නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ජූලි මාසයේ ගත්තාද එවැනි ආදායමක් ලැබෙනු ඇති බව තමන් නොසිතන බවය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහාචාර්ය සංචාරක නියෝජ්‍ය අමාත්‍ය රුවන් රණසිංහ මහතා,
+
+...
+
+[Data](articles/5751f768.json)
+
+---
 
 ### Israel considers expanding Gaza war as ceasefire talks reach an impasse
 
@@ -1859,25 +1877,5 @@ Sudath Janaka Fernando, named as the first suspect in the case concerning the di
 ◼️
 
 [Data](articles/b8aa4b1e.json)
-
----
-
-### Canada wildfires cause poor air quality in the midwest and northeast US
-
-*2025-08-04 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111144/canada-wildfires-cause-poor-air-quality-in-the-midwest-and-northeast-us) · `en`
-
-Hazy skies hung over parts of the midwest and northeastern U.S. on Sunday, caused by smoke drifting across the border from hundreds of wildfires in Canada.
-
-Canada is experiencing its second worst wildfire season on record, according to government data, with almost 4,000 fires recorded already this calendar year.
-
-Smoke coming across the border has affected air quality in several U.S. states.
-
-This weekend, air quality reached concerning levels across Wisconsin, Michigan, and Minnesota. Parts of Illinois and Indiana are also under air quality alerts. People in New York, Vermont, New Hampshire, and Maine are also being advised to limit outdoor activity due to pollution from the smoke.
-
-National Weather Service Lead Forecaster Bob Oravec told NPR that the current wind patterns are once again driving the spread of polluted air into the U.S. from Canada.
-
-...
-
-[Data](articles/d5de86b4.json)
 
 ---

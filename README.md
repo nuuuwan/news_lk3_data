@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 23:10:07**
+As of **2025-08-04 23:24:35**
 
 ## Newspaper Stats
 
-*Scraped **68,667** Articles*
+*Scraped **68,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,616
-adaderanalk | 8,513
+adaderanalk | 8,514
 tamilmirrorlk | 9,984
 virakesarilk | 11,440
 adaderanasinhalalk | 11,829
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,667 articles have been extended.
+61,973 (90.3%) of 68,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5bb5a0cb.json)
+
+---
+
+### Sri Lanka’s largest living tusker ‘Kavantissa’ facing serious threat to his life?
+
+*2025-08-04 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111167/sri-lankas-largest-living-tusker-kavantissa-facing-serious-threat-to-his-life) · `en`
+
+“Kavantissa”, the largest living tusker which symbolizes the pride of the Sri Lankan elephant lineage, is reportedly facing a serious threat to his life.
+
+‘Kavantissa’ came into the spotlight in 2012 following the tragic death of ‘Siyambalangamuwa Tusker’, which had been the most majestic wild elephant in Sri Lanka until then.
+
+However, due to human activities in recent decades, Kavantissa’s traditional annual migratory route—from the Kala Wewa and Balau Wewa through Galgamuwa, Thabbowa, and Wilpattu—is now completely inaccessible.
+
+Similarly, water reserves such as Palukadawala, Mahagalgamuwa, and Iginimitiya, which were once part of the tusker’s habitat, are increasingly being cleared by humans for cultivation and other purposes. As a result, Kavantissa has now lost much of its natural living habitat.
+
+At present, Kavantissa roams mainly around Galgamuwa and Ambanpola regions, according to environmentalists.
+
+...
+
+[Data](articles/fe76b3e6.json)
 
 ---
 
@@ -1861,21 +1881,5 @@ Sudath Janaka Fernando, named as the first suspect in the case concerning the di
 ◼️
 
 [Data](articles/8b2cbcd1.json)
-
----
-
-### ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක්
-
-*2025-08-04 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212998) · `si`
-
-උතුරු, උතුරු - මැද සහ නැගෙනහිර පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
-
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවද එම නිවේදනයේ සඳහන් වේ.
-
-ඒ අනුව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
-
-◼️
-
-[Data](articles/37e74ab9.json)
 
 ---

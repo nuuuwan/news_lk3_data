@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 13:26:13**
+As of **2025-08-04 13:37:21**
 
 ## Newspaper Stats
 
-*Scraped **68,568** Articles*
+*Scraped **68,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,599
-adaderanalk | 8,493
-tamilmirrorlk | 9,961
+adaderanalk | 8,495
+tamilmirrorlk | 9,962
 virakesarilk | 11,425
-adaderanasinhalalk | 11,807
+adaderanasinhalalk | 11,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,568 articles have been extended.
+61,973 (90.4%) of 68,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### அரச ஊழியர்களுக்கு நற்செய்தி
+
+*2025-08-04 13:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-நற்செய்தி/175-362271) · `ta`
+
+இலங்கையில் வீட்டுவசதி பிரச்சினையை அடுத்த 05 முதல் 10 ஆண்டுகளுக்குள் தீர்க்க அரசாங்கம் பாடுபடுவதாக அமைச்சர் வசந்த சமரசிங்க கூறுகிறார்.
+
+அரசு ஊழியர்களுக்கு புதிய வீடு கட்ட அல்லது வீடுகளைப் புதுப்பிக்க நிதிக் கடன்கள் வழங்கப்படும் என்று அமைச்சர் சமரசிங்க தெரிவித்தார்.
+
+முந்தைய நிர்வாகங்களைப் போலல்லாமல், சரியான அமைப்பின் மூலம் பொருத்தமான நபர்கள் மட்டுமே இதற்கு தேர்ந்தெடுக்கப்படுவார்கள் என்று அவர் மேலும் கூறினார்.
+
+"முன்னாள் அரசாங்கம் வீட்டுவசதி விளம்பர பிரச்சாரங்களுக்காக மட்டும் 520 மில்லியன் ரூபாய்களை செலவிட்டது. இதுவும் பொதுமக்களின் பணம்தான்," என்று அவர் கூறினார்.
+
+இருப்பினும், தற்போதைய அரசாங்கம் 140 பேருக்கு உதவி வழங்கி வருவதாகவும், 100க்கும் மேற்பட்டவர்களுக்கு குறைந்த வட்டி விகிதத்தில் நிதிக் கடன்கள் கிடைக்கும் என்றும், 80க்கும் மேற்பட்ட அரசு ஊழியர்களுக்கு ரூ. 01 மில்லியன் கடன்கள் வழங்கப்படுவதாகவும் அமைச்சர் தெரிவித்தார், ”என்று அவர் கூறினார்.
+
+நேற்று (03) அனுராதபுரத்தில் வீட்டுவசதி உதவி வழங்கும் நிகழ்ச்சியில் பங்கேற்றபோது அமைச்சர் வசந்த சமரசிங்க இவ்வாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/04cdb14f.json)
+
+---
+
+### ඔක්කම්පිටිය පොලිස් OIC රිමාන්ඩ්
+
+*2025-08-04 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213000) · `si`
+
+අල්ලස් ලබා ගැනීමේ සිද්ධියක් අත්අඩංගුවට ගත් ඔක්කම්පිටිය පොලීසියේ ස්ථානාධිපතිවරයා අගෝස්තු මස 18 වෙනිදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+මෙම පැමිණිල්ල අද (04) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/7efd09d0.json)
+
+---
 
 ### ගාසා වැසියන් වෙනුවෙන් වැසුණු සිඩ්නි පාලම
 
@@ -210,6 +246,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Canada wildfires cause poor air quality in the midwest and northeast US
+
+*2025-08-04 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111144/canada-wildfires-cause-poor-air-quality-in-the-midwest-and-northeast-us) · `en`
+
+Hazy skies hung over parts of the midwest and northeastern U.S. on Sunday, caused by smoke drifting across the border from hundreds of wildfires in Canada.
+
+Canada is experiencing its second worst wildfire season on record, according to government data, with almost 4,000 fires recorded already this calendar year.
+
+Smoke coming across the border has affected air quality in several U.S. states.
+
+This weekend, air quality reached concerning levels across Wisconsin, Michigan, and Minnesota. Parts of Illinois and Indiana are also under air quality alerts. People in New York, Vermont, New Hampshire, and Maine are also being advised to limit outdoor activity due to pollution from the smoke.
+
+National Weather Service Lead Forecaster Bob Oravec told NPR that the current wind patterns are once again driving the spread of polluted air into the U.S. from Canada.
+
+...
+
+[Data](articles/d5de86b4.json)
+
+---
+
 ### கண்டிக்கு விசேட ரயில் சேவை
 
 *2025-08-04 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டிக்கு-விசேட-ரயில்-சேவை/175-362264) · `ta`
@@ -221,6 +277,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/28d46471.json)
+
+---
+
+### First Randoli Perahera of Kandy Esala Festival to take to the streets tonight
+
+*2025-08-04 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111143/first-randoli-perahera-of-kandy-esala-festival-to-take-to-the-streets-tonight) · `en`
+
+The first Randoli Perahera of this year’s Kandy Esala Festival is scheduled to take to the streets tonight (04), as part of the historic annual procession, one of the oldest and grandest festivals in Sri Lanka.
+
+The Randoli Perahera will parade the streets for five days until August 8.
+
+The Sri Dalada Esala Perahera of the Sacred Temple of the Tooth Relic (Sri Dalada Maligawa) in Kandy commenced with the first Kumbal Perahera parading the streets on July 30. The Kumbal Perahera was held for five days until yesterday (03).
+
+The Kandy Esala festival will draw to a close following the water-cutting ceremony at the Mahaweli River in Getambe on August 9.
+
+This year’s Esala Festival will officially come to an end after the Nilames of the Satara Maha Dewalayas together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela present the Sannasa (Scroll) to the President.
+
+...
+
+[Data](articles/89a06ca6.json)
 
 ---
 
@@ -1661,71 +1737,5 @@ From the simple standpoint of prudent State financial solvency and security, it 
 ...
 
 [Data](articles/651a1396.json)
-
----
-
-### 2025-08-03 (Sunday)
-
-### Sarrah Sammoon, first Sri Lankan to receive certification in investment migration
-
-*2025-08-03 23:42:00* · [`islandlk`](http://island.lk/sarrah-sammoon-first-sri-lankan-to-receive-certification-in-investment-migration/) · `en`
-
-Sarrah Sammoon has become the first Sri Lankan to receive the Certification in Investment Migration from the Investment Migration Council (IMC) of Switzerland, the global governing body for the investment migration profession.
-
-With over 30 years of leadership in the field, Sarrah Sammoon is a regulated global mobility specialist and the Founder & CEO of Magellan Champlain. Her firm serves multinational corporations, high-net-worth individuals, and globally mobile families across 25+ destinations. Her latest accomplishment underscores her commitment to professional excellence and responsible advisory practices in a rapidly evolving industry.
-
-“I’ve always believed that global mobility must be built on trust, transparency, and ethical practice,” said Sammoon. “This certification affirms our continued dedication to offering clients the highest standard of integrity when navigating citizenship and residency options worldwide.”
-
-...
-
-[Data](articles/1090d216.json)
-
----
-
-### Sunshine Holdings reports strong Q1 FY26 performance with 11.6% revenue growth
-
-*2025-08-03 23:41:00* · [`islandlk`](http://island.lk/sunshine-holdings-reports-strong-q1-fy26-performance-with-11-6-revenue-growth/) · `en`
-
-Sunshine Holdings PLC posted robust financial results for Q1 FY26, with revenue rising 11.6% YoY to LKR 15.9 billion and profit after tax (PAT) growing 20.6% YoY to LKR 1.7 billion.
-
-The growth was driven by improved economic conditions and strong performance across its Healthcare, Consumer, and Agribusiness sectors.
-
-Healthcare remained the largest revenue contributor (54.2%), recording 14% YoY growth (LKR 8.6 billion) due to expansion in pharmaceuticals, medical devices, and retail. The pharmaceutical agency business surged 26.7%, while Healthguard Pharmacy and Distribution saw 17.4% and 44.5% growth, respectively. However, Lina Manufacturing’s revenue declined 19.6% due to delayed government deliveries.
-
-The Consumer segment reported 3.7% revenue growth (LKR 4.8 billion), supported by domestic and export markets. The confectionery segment grew 19.9%, while branded tea saw marginal gains. Exports rose 7.2%, reflecting sustained demand.
-
-...
-
-[Data](articles/18339a6a.json)
-
----
-
-### Exterminators PLC expands digital pest management franchise across Sri Lanka
-
-*2025-08-03 23:40:00* · [`islandlk`](http://island.lk/exterminators-plc-expands-digital-pest-management-franchise-across-sri-lanka/) · `en`
-
-Exterminators PLC, a pioneer in digital pest management, is expanding its innovative franchise system across 14 districts in Sri Lanka, including Northern, Eastern, North Central, and Uva provinces, as well as Ratnapura and Puttalam. Partnering with Sentario UK, Pest Scan BV (Netherlands), and Futura GMBH (Germany), the company aims to revolutionize pest control through AI-driven, eco-friendly solutions, reducing reliance on harmful chemicals while restoring ecosystems by encouraging natural predators like dragonflies and bats.
-
-Chairman Dr. Kishu Gomes highlighted the expansion’s timing with Sri Lanka’s economic recovery, particularly in SME-driven sectors like tourism and manufacturing. Managing Director Marlon Ferreira noted the untapped potential in these regions, where only 5% of current revenue originates, presenting a major growth opportunity amidst 150 competitors concentrated in Colombo and Gampaha.
-
-...
-
-[Data](articles/549193b7.json)
-
----
-
-### Network In Action launches Sri Lanka Chapter with vision for high-trust business community
-
-*2025-08-03 23:39:00* · [`islandlk`](http://island.lk/network-in-action-launches-sri-lanka-chapter-with-vision-for-high-trust-business-community/) · `en`
-
-Network In Action (NIA), a global business networking platform, marked its Sri Lankan debut with a launch event at Cinnamon Grand, Colombo.
-
-Hosted by Regional Partners Jayathas Kamalanathan and Pamatheesan Kopalapillai, the gathering introduced entrepreneurs and professionals to NIA’s unique model, blending structured in-person meetings with digital tools for tracking referrals and ROI.
-
-The hosts emphasized their vision of fostering a high-trust business community in Sri Lanka, offering structure, accountability, and global standards. Unlike conventional networking, NIA focuses on long-term relationships, warm referrals, and shared learning rather than self-promotion. With over 200 chapters worldwide, NIA Colombo will provide monthly curated meetings and performance analytics to help members grow sustainably.
-
-...
-
-[Data](articles/3b58777d.json)
 
 ---

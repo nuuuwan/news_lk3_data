@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 03:32:17**
+As of **2025-08-05 03:48:39**
 
 ## Newspaper Stats
 
-*Scraped **68,688** Articles*
+*Scraped **68,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 704
 islandlk | 4,190
 economynextcom | 4,191
 dailymirrorlk | 4,733
-dailyftlk | 4,843
+dailyftlk | 4,846
 adalk | 6,616
 adaderanalk | 8,514
-tamilmirrorlk | 9,985
+tamilmirrorlk | 9,986
 virakesarilk | 11,446
 adaderanasinhalalk | 11,829
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,688 articles have been extended.
+61,973 (90.2%) of 68,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### Alumex advances trade compliance and global supply chain excellence with AEO Tier I certification
+
+*2025-08-05 03:30:19* · [`dailyftlk`](https://www.ft.lk/business/Alumex-advances-trade-compliance-and-global-supply-chain-excellence-with-AEO-Tier-I-certification/34-779920) · `en`
+
+Alumex Managing Director Pramuk Dediwela (left) receives the AEO Tier I Certification from a senior official of Sri Lanka Customs
+
+Alumex PLC, an aluminium extrusion manufacturer and member of the Hayleys Group has earned the ‘Authorised Economic Operator (AEO) Tier I’ certification from Sri Lanka Customs, placing Alumex among a select group of importers and exporters who uphold the highest standards in Customs procedures and trade integrity, the company said in a statement.
+
+The certification follows a rigorous validation by Sri Lanka Customs, affirming Alumex’s full compliance with all legal, operational, and security benchmarks.
+
+...
+
+[Data](articles/ec87402d.json)
+
+---
+
+### Swisstek Aluminium pledges to deliver  Sri Lanka’s most reliable solar mounting systems
+
+*2025-08-05 03:28:57* · [`dailyftlk`](https://www.ft.lk/business/Swisstek-Aluminium-pledges-to-deliver-Sri-Lanka-s-most-reliable-solar-mounting-systems/34-779919) · `en`
+
+Solar mounting systems by Swisstek Aluminium designed to securely hold solar panels
+
+Swisstek Aluminium pledges to assist Sri Lanka in turning its renewable energy goals for 2030 into reality with its cutting-edge solar mounting systems. As the country aims to create a clean energy future, Swisstek Aluminium provides solutions with modular, prefabricated mounting systems engineered to withstand the island’s challenging weather conditions, from coastal humidity to high wind zones, the company said in a statement.
+
+...
+
+[Data](articles/2db6253e.json)
+
+---
+
+### குளத்திலிருந்து இளைஞன் சடலமாக மீட்பு
+
+*2025-08-05 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளத்திலிருந்து-இளைஞன்-சடலமாக-மீட்பு/175-362312) · `ta`
+
+உடப்புசலாவ பகுதியில் இருந்து தொழிலுக்காக தலவாக்கலை நகருக்கு வந்திருந்த இளைஞன் ஒருவன் நேற்று (04) லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட லோகி தோட்டத்தின் குளத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+
+குறித்த இளைஞன் தனது நண்பருடன் குளிப்பதற்காக அங்கு சென்ற சமயம் குளத்தில் தவறி விழுந்ததன் காரணமாக உயிரிழந்துள்ளார் என விசாரணைகளில் இருந்து தெரிய வந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+சடலம் மீட்கப்பட்டுள்ளதுடன், நீதவானின் விசாரணைகளைத்தொடர்ந்து பிரேத பரிசோதனைகளுக்காக சடலம் நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்வதற்கான ஏற்பாடுகள் செய்யப்படும் என லிந்துலை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த இளைஞன் லிந்துலை பெல்கிரேவியா தோட்டப்பகுதியில் தனது உறவினர் வீட்டில் தங்கி இருந்து வேலைக்கு சென்றதாகவும் விசாரணைகள் இருந்து தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/dc38e60b.json)
+
+---
+
+### Trump tariff concessions advantageous but challenges formidable, warns Karu Jayasuriya
+
+*2025-08-05 03:19:55* · [`dailyftlk`](https://www.ft.lk/news/Trump-tariff-concessions-advantageous-but-challenges-formidable-warns-Karu-Jayasuriya/56-779918) · `en`
+
+NMSJ Leader Karu Jayasuriya says Sri Lanka’s manufacturing sector is one of least productive sectors
+
+Asserts manufacturing sector is beset by high electricity tariffs, too many holidays and strikes
+
+National Movement for Social Justice (NMSJ) Leader Karu Jayasuriya in a statement said that the fact that US President Donald Trump has reduced the export tariff rate on Sri Lanka from 44% to 20% can be considered a form of concession given the challenges the country faced. However, Jayasuriya emphasised the need for Sri Lanka to act collectively and wisely, given the competitive situation arising from Asian countries in the future export of goods from Sri Lanka to the US.
+
+“As the NMSJ, we request the Government led by the President, especially the institutions that plan policies related to the country’s economy, as well as private entrepreneurs and professional organisations, to come together and prepare future plans regarding the challenges that may arise,” Jayasuriya said.
+
+...
+
+[Data](articles/9c1cff26.json)
+
+---
 
 ### Speaker endorses certificate on Companies (Amendment) Bill
 
@@ -1739,75 +1805,5 @@ Furthermore, owing to the increase in costs, it was reported that global website
 ...
 
 [Data](articles/4ad101cf.json)
-
----
-
-### செம்மணிக்கு மனித உரிமை ஆணைக்குழு ஆணையாளர்கள் விஜயம்
-
-*2025-08-04 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221779) · `ta`
-
-செம்மணி மனித புதைகுழிகள் அகழ்வு பணிகளை மனித உரிமை ஆணைக்குழு ஆணையாளர்கள் நேரில் பார்வையிட்டனர் மற்றும் மனித புதைகுழிகள் தொடர்பிலான  சாட்சிகளுக்கு பாதுகாப்பு வழங்க நடவடிக்கை எடுப்பதற்கு ஆணைக்குழு தயார் என்று தெரிவித்துள்ளனர்.
-
-மனித உரிமை ஆணைக்குழுவின் கலாநிதி ஜகன் குணத்திலாக, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோர் யாழ்ப்பாண பிராந்திய இணைப்பாளர் கனகராஜ் உட்பட குழுவினர் சமீபத்தில் செம்மணி பகுதியில் அகழ்வு பணிகளை ஆய்வு செய்தனர்.
-
-புதைகுழிகளை நேரில் பார்வையிட்டு ஊடகவியலர்களிடம் கருத்து தெரிவித்த ஆணையாளர்கள், அகழ்வு பணிகள் தொடர்பிலும் விசாரணைகள் தொடர்பிலும் தகவல் பெற்றுள்ளோம் என்று கூறினர்.
-
-கிருஷாந்தி கொலை வழக்கில் சிறையில் உள்ள ராஜபக்சே செம்மணி புதைகுழிகள் தொடர்பான சாட்சியங்களை வழங்க தயாராக இருப்பதாக கூறியுள்ளார் என்ற கேள்விக்கு, சிறையில் அவனுக்கு அச்சுறுத்தல் ஏற்பட்டால் மனித உரிமை ஆணைக்குழு உடனடியாக நடவடிக்கை எடுக்கும் என உறுதி தெரிவித்தனர்.
-
-...
-
-[Data](articles/0ccce8c6.json)
-
----
-
-### இ.ம. உ ஆணைக்குழுவினர்  செம்மணியை பார்வையிட்டனர்
-
-*2025-08-04 14:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-ம-உ-ஆணைக்குழுவினர்-செம்மணியை-பார்வையிட்டனர்/175-362274) · `ta`
-
-செம்மணி மனித புதைகுழி பிரதேசத்தை இலங்கை மனித உரிமைகள் ஆணைக்குழுவினர்,  திங்கட்கிழமை (04) பார்வையிட்டனர்.
-
-மனித உரிமை ஆணைக்குழுவின் ஆணையாளர்களான கலாநிதி கெஹான் தினுக் குணதிலக்க, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோருடன் மனித உரிமை ஆணைக்குழுவின் யாழ். பிராந்திய இணைப்பாளர் த, கனகராஜ் உள்ளிட்ட குழுவினரே நேரில் பார்வையிட்டனர்.
-
-அதன்போது புதைகுழி அகழ்வு பணிகளில் ஈடுபட்டுள்ளவர்கள் மற்றும் அங்கிருந்த துறைசார் நிபுணர்களுடன் கலந்துரையாடலிலும் ஈடுபட்டனர்.
-
-◼️
-
-[Data](articles/6b768ee5.json)
-
----
-
-### යේමනයේ සංක්‍රමනිකයන් රැගත් බෝට්ටුවක් පෙරලෙයි - 68ක් මරුට
-
-*2025-08-04 14:24:14* · [`adalk`](https://www.ada.lk/breaking_news/යේමනයේ-සංක්‍රමනිකයන්-රැගත්-බෝට්ටුවක්-පෙරලෙයි---68ක්-මරුට/11-417709) · `si`
-
-යේමනයේ සංක්‍රමනිකයන් රැගත් බෝට්ටුවක් පෙරලී යාමෙන් පුදග්ලයන් 68 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-​අනතුර සිදුවන අවස්ථාවේ බෝට්ටුව තුළ පුද්ගලයන් 157 දෙනෙකු සිටු ඇති බව විදෙස් මාධ්‍යා වාර්තා කර ඇත.
-
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම අනතුරු සිදුව ඇති අතර, පුද්ගලයන් විශාල පිරිසක් අතුරුදන්ව තිබේ.
-
-◼️
-
-[Data](articles/5b4af9e3.json)
-
----
-
-### ඉන්දීය - එංගලන්ත පස්වන ටෙස්ට් තරගයේ තීරණාත්මක අවසන් දිනය අද
-
-*2025-08-04 14:03:44* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය---එංගලන්ත-පස්වන-ටෙස්ට්-තරගයේ-තීරණාත්මක-අවසන්-දිනය-අද/9-417708) · `si`
-
-සංචාරක ඉන්දීය කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පසවන හා අවසන් ටෙස්ට් තරගයේ අවසන් දිනය සඳහා වන තරගය අද (04දා) පැවැත්වේ.
-
-සිව්වන දිනය සඳහා තරගය නතර කරන විට ජයග්‍රාහී ලකුණු 374ක ඉලක්කයක් හඹා යමින් සිටි එංගලන්ත කණ්ඩායම සිය දෙවන ඉනිමට පන්දුවාර 76යි පන්දු 2ක් අවසානයේ කඩුලු 06ක් දැවී ලකුණු 339ක් ලබා සිටියේය.
-
-ඒ අනුව තරගය ජය ගැනීමට නම් එංගලන්ත කණ්ඩායම තවත් ලකුණු 35ක් රැස් කරගත යුතු අතර, ඉන්දීය කණ්ඩායම තරගය ජයග්‍රහනය කිරීමට නම් තවත් කඩුලු 4ක් අද දිනයේදී දවා ගත යුතුවේ.
-
-මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 224ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම එංගලන්ත කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 247ක් රැස් කළේය.
-
-අනතුරුව දෙවන ඉනිම ක්‍රීඩා කළ ඉන්දීය කණ්ඩායම සියලු දෙනා දැවී ලකුණු 396ක් රැස් කළ අතර, ඒ අනුව එංගලන්තයට ජයග්‍රහණය සඳහා ලකුණු 374ක ඉලක්කයක් හිමිවිය.
-
-◼️
-
-[Data](articles/97d45043.json)
 
 ---

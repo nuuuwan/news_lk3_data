@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 20:37:47**
+As of **2025-08-04 20:49:20**
 
 ## Newspaper Stats
 
-*Scraped **68,655** Articles*
+*Scraped **68,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,612
-adaderanalk | 8,511
+adaderanalk | 8,512
 tamilmirrorlk | 9,983
 virakesarilk | 11,438
 adaderanasinhalalk | 11,826
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,826
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,655 articles have been extended.
+61,973 (90.3%) of 68,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2ce24350.json)
+
+---
+
+### Companies (Amendment) Bill endorsed by Speaker
+
+*2025-08-04 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111165/companies-amendment-bill-endorsed-by-speaker) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne has endorsed the certificate on the Companies (Amendment) Bill today (04), the Department of Communication of Parliament said.
+
+The Companies (Amendment) Bill was passed in Parliament with amendments on July 23.
+
+Accordingly, the amended Act introduces several provisions, including allowing the incorporation of a company with a single shareholder, extending the notice period for the public when changing a company’s name to 20 working days, prohibiting the issuance of bearer shares or bearer share warrants, requiring notification to the company regarding the issuance of bearer shares or bearer share warrants and mandating the disclosure of the bearer’s details to the company registrar within 60 days, requiring companies to divide shares within 20 days from the date of incorporation.
+
+...
+
+[Data](articles/9af9267a.json)
 
 ---
 
@@ -1861,25 +1877,5 @@ This year’s Esala Festival will officially come to an end after the Nilames of
 ...
 
 [Data](articles/659727ae.json)
-
----
-
-### 25,000 individuals inspected during special police operation
-
-*2025-08-04 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111142/25000-individuals-inspected-during-special-police-operation) · `en`
-
-A total of 748 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (03).
-
-As part of the operation, 25,870 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 23 individuals directly linked to criminal activities while 371 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 110 drunk drivers were apprehended while a further 25 reckless drivers and 3,202 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/9a66fb89.json)
 
 ---

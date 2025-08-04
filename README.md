@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 14:40:52**
+As of **2025-08-04 14:58:00**
 
 ## Newspaper Stats
 
-*Scraped **68,579** Articles*
+*Scraped **68,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,602
-adaderanalk | 8,495
-tamilmirrorlk | 9,963
-virakesarilk | 11,425
-adaderanasinhalalk | 11,811
+adaderanalk | 8,499
+tamilmirrorlk | 9,964
+virakesarilk | 11,427
+adaderanasinhalalk | 11,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.4%) of 68,579 articles have been extended.
+61,973 (90.4%) of 68,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### පද්මේගෙන් ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වාට  මරණ තර්ජන
+
+*2025-08-04 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213004) · `si`
+
+තම සගයෙකු අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන කෙහෙල්බද්දර පද්මේ නැමැත්තා බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ ස්ථානාධිපති, ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට දුරකථනයෙන් මරණ තර්ජන එල්ල කර තිබේ.
+
+ඊයේ (03) රාත්‍රී8.45ට පමණ කෙහෙල්බද්ද පද්මේ විසින් මෙම ඇමතුම ලබාදී තිබුණි.
+
+කෙහෙල්බද්දර පද්මේගේ සමීපතමයෙක් වන 39 හැවිරිදි ගම්පහ දේවා නැමැත්තා ඊයේ (03) ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ ඒකකය මඟින් අත්අඩංගුවට ගනු ලැබීය.
+
+සැකකරු අවස්ථා කිහිපයකදී කෙහෙල්බද්දර පද්මේ නැමැත්තාව රුසියාවේදී හා තායිලන්තයේදී හමු වී ඇති අතර, මෙවරද ඔහු තායිලන්තයට යාමට සූදානම් වී ඇත්තේ පද්මේ හමුවීම සඳහා බවට පොලීසිය සැකපළ කළේය.
+
+අදාළ සැකකරු මනුෂ්‍ය ඝාතන ඇතුළු අපරාධ රැසකට සම්බන්ධ බවට චෝදනා එල්ල වන අතර, ඔහු සම්බන්ධයෙන් වැඩිදුර විමර්ශන බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරි රොහාන් ඕලුගල මහතා සහ ස්ථානාධිපති ලින්ටන් සිල්වා මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරෙමින් පවතී.
+
+...
+
+[Data](articles/4ad101cf.json)
+
+---
+
+### செம்மணிக்கு மனித உரிமை ஆணைக்குழு ஆணையாளர்கள் விஜயம்
+
+*2025-08-04 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221779) · `ta`
+
+செம்மணி மனித புதைகுழிகள் அகழ்வு பணிகளை மனித உரிமை ஆணைக்குழு ஆணையாளர்கள் நேரில் பார்வையிட்டனர் மற்றும் மனித புதைகுழிகள் தொடர்பிலான  சாட்சிகளுக்கு பாதுகாப்பு வழங்க நடவடிக்கை எடுப்பதற்கு ஆணைக்குழு தயார் என்று தெரிவித்துள்ளனர்.
+
+மனித உரிமை ஆணைக்குழுவின் கலாநிதி ஜகன் குணத்திலாக, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோர் யாழ்ப்பாண பிராந்திய இணைப்பாளர் கனகராஜ் உட்பட குழுவினர் சமீபத்தில் செம்மணி பகுதியில் அகழ்வு பணிகளை ஆய்வு செய்தனர்.
+
+புதைகுழிகளை நேரில் பார்வையிட்டு ஊடகவியலர்களிடம் கருத்து தெரிவித்த ஆணையாளர்கள், அகழ்வு பணிகள் தொடர்பிலும் விசாரணைகள் தொடர்பிலும் தகவல் பெற்றுள்ளோம் என்று கூறினர்.
+
+கிருஷாந்தி கொலை வழக்கில் சிறையில் உள்ள ராஜபக்சே செம்மணி புதைகுழிகள் தொடர்பான சாட்சியங்களை வழங்க தயாராக இருப்பதாக கூறியுள்ளார் என்ற கேள்விக்கு, சிறையில் அவனுக்கு அச்சுறுத்தல் ஏற்பட்டால் மனித உரிமை ஆணைக்குழு உடனடியாக நடவடிக்கை எடுக்கும் என உறுதி தெரிவித்தனர்.
+
+...
+
+[Data](articles/0ccce8c6.json)
+
+---
+
+### இ.ம. உ ஆணைக்குழுவினர்  செம்மணியை பார்வையிட்டனர்
+
+*2025-08-04 14:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-ம-உ-ஆணைக்குழுவினர்-செம்மணியை-பார்வையிட்டனர்/175-362274) · `ta`
+
+செம்மணி மனித புதைகுழி பிரதேசத்தை இலங்கை மனித உரிமைகள் ஆணைக்குழுவினர்,  திங்கட்கிழமை (04) பார்வையிட்டனர்.
+
+மனித உரிமை ஆணைக்குழுவின் ஆணையாளர்களான கலாநிதி ஜகன் குணத்திலக்க, பேராசிரியர் தை. தனராஜ் மற்றும் பேராசியர் பாத்திமா பர்ஷான ஹனீபா ஆகியோருடன் மனித உரிமை ஆணைக்குழுவின் யாழ். பிராந்திய இணைப்பாளர் த, கனகராஜ் உள்ளிட்ட குழுவினரே நேரில் பார்வையிட்டனர்.
+
+அதன்போது புதைகுழி அகழ்வு பணிகளில் ஈடுபட்டுள்ளவர்கள் மற்றும் அங்கிருந்த துறைசார் நிபுணர்களுடன் கலந்துரையாடலிலும் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/6b768ee5.json)
+
+---
 
 ### ஒக்கம்பிட்டி ஓஐசிக்கு விளக்கமறியல் நீடிப்பு
 
@@ -128,6 +182,50 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Air India Express flight forced to return to Bengaluru after mid-air hydraulic failure
+
+*2025-08-04 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111150/air-india-express-flight-forced-to-return-to-bengaluru-after-mid-air-hydraulic-failure) · `en`
+
+A Kolkata-bound Air India Express plane has returned to Bengaluru due to a technical issue.
+
+The flight IX2718, operated with an Airbus A320 aircraft, returned after being airborne for over two hours, according to information available on flight tracking website Flightradar24.com.
+
+“One of our flights from Bengaluru returned to the airport following a technical issue. The aircraft circled to reduce fuel and weight before executing a safe, precautionary landing,” an Air India Express spokesperson said in a statement on Monday.
+
+An alternate aircraft was arranged to ferry the passengers to Kolkata.
+
+The airline is investigating the technical snag in the aircraft.
+
+Details about the number of passengers onboard the flight were not disclosed.
+
+◼️
+
+[Data](articles/b89aa46f.json)
+
+---
+
+### Okkampitiya Police OIC further remanded
+
+*2025-08-04 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111149/okkampitiya-police-oic-further-remanded) · `en`
+
+The Officer-in-Charge (OIC) of the Okkampitiya Police Station, who was arrested in connection with a bribery incident, has been further remanded until August 18, Ada Derana reporter said.
+
+The order was issued when the case was taken up today (04) before Colombo Chief Magistrate Thanuja Lakmali Jayatunga.
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had informed court that the suspect was arrested based on a complaint made by a businessman from Okkampitiya.
+
+According to the complaint, the suspect had allegedly demanded a monthly bribe of Rs. 50,000 to allow a sand mining business to continue without interference in Okkampitiya. The suspect was arrested while accepting Rs. 47,000 as part of the bribe.
+
+The Bribery Commission also informed court that investigations into the incident are still ongoing.
+
+Accordingly, the Magistrate ordered that the suspect be further remanded until August 18.
+
+◼️
+
+[Data](articles/f75f8592.json)
+
+---
+
 ### அரச ஊழியர்களுக்கு நற்செய்தி
 
 *2025-08-04 13:22:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-நற்செய்தி/175-362271) · `ta`
@@ -167,6 +265,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7efd09d0.json)
+
+---
+
+### Dhammika Perera’s Singer partners with Starlink to expand satellite internet access in Sri Lanka
+
+*2025-08-04 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111147/dhammika-pereras-singer-partners-with-starlink-to-expand-satellite-internet-access-in-sri-lanka) · `en`
+
+Singer (Sri Lanka) PLC has reportedly been appointed as the official distributor in Sri Lanka for Starlink satellite internet service equipment, which has recently gained regulatory access to the country.
+
+A post on the official Facebook page of Singer (Sri Lanka) has indicated the development, while internal sources expect a formal announcement shortly.
+
+Meanwhile, the official Facebook page of Starlink Sri Lanka has published a statement confirming this.
+
+“We’re proud to announce that Singer Sri Lanka is now the official distributor of Starlink – the world’s leading satellite internet provider. Whether you’re in the city or the most remote village, reliable high-speed internet is now within your reach,” the statement added.
+
+Singer (Sri Lanka) PLC is a publicly listed company owned by Hayleys PLC, which is controlled by prominent Sri Lankan entrepreneur Dhammika Perera. Hayleys PLC holds a 67.13% stake in Singer (Sri Lanka), while Dhammika Perera owns 51.01% of Hayleys.
+
+...
+
+[Data](articles/3a5926fd.json)
+
+---
+
+### சட்டவிரோதமாக கொண்டுவரப்பட்ட 63 இலட்சம் ரூபா பெறுமதியான பொருட்களை லொறியில் கடத்திச் சென்றவர் கைது!
+
+*2025-08-04 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221765) · `ta`
+
+இந்தியாவில் இருந்து கடல் வழியாக சட்டவிரோதமாக கொண்டுவரப்பட்ட 63 இலட்சம் ரூபா பெறுமதியான பொருட்களை லொறியில் கடத்திச் சென்ற சந்தேக நபர் நுரைச்சோலை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+நுரைச்சோலை பொலிஸ் நிலைய பொறுப்பதிகாரிக்குக் கிடைத்த இரகசியத் தகவலின் அடிப்படையில், ஆலங்குடா கடற்கரையிலிருந்து கரம்பை பகுதி ஊடாக சென்றுகொண்டிருந்த லொறி ஒன்றில் மேற்கொள்ளப்பட்ட சோதனையில்   சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த லொறியிலிருந்த 16 பைகளில் இருந்து 537 கிலோ உலர்ந்த இஞ்சி, 2 பைகளில் 65 கிலோ உலர்ந்த மஞ்சள் மற்றும் 9 பைகளில் 309 கிலோ பீடி இலைகள் என்பன கைப்பற்றப்பட்டன.
+
+இந்த பீடி இலைகளின் பெறுமதி சுமார் 40 இலட்சம் என்றும், உலர்ந்த இஞ்சியின் பெறுமதி  20 இலட்சம் என்றும், உலர்ந்த மஞ்சளின் மபெறுமதி 3 இலட்சம் என்றும் பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கைப்பற்றப்பட்ட பொருட்களுடன் மேலதிக விசாரணைகளுக்காக நுரைச்சோலை  பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4d1e5f0d.json)
 
 ---
 
@@ -243,6 +381,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/59c76a06.json)
+
+---
+
+### Substandard drug imports case: Ruling on Sudath Janaka’s bail application on Friday
+
+*2025-08-04 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111146/substandard-drug-imports-case-ruling-on-sudath-janakas-bail-application-on-friday) · `en`
+
+The Colombo High Court today (04) announced that the order regarding the bail application filed by Sudath Janaka Fernando, the owner of the company that supplied substandard drugs and who is currently in remand custody, will be delivered on August 7.
+
+The bail application is filed in relation to the case being heard before a Trial-at-Bar bench of the High Court against former Minister of Health Keheliya Rambukwella and several others, over the alleged import of substandard human immunoglobulin vials.
+
+The order on the bail application was initially scheduled to be pronounced today (04). However, Colombo High Court Judge Indrika Kalingawansa stated that the decision will now be delivered on August 7.
+
+Sudath Janaka Fernando, named as the first suspect in the case concerning the distribution of substandard human immunoglobulin vials within the local hospital system, has been in custody for nearly a year and a half.
+
+...
+
+[Data](articles/2b6e76e3.json)
 
 ---
 
@@ -1641,127 +1797,5 @@ This significant tariff reduction comes at a critical juncture as Sri Lanka cont
 ...
 
 [Data](articles/045e9e8d.json)
-
----
-
-### Nishantha Abeysinghe new CEO/Director at Talawakelle Tea Estates
-
-*2025-08-04 04:51:34* · [`dailyftlk`](https://www.ft.lk/business/Nishantha-Abeysinghe-new-CEO-Director-at-Talawakelle-Tea-Estates/34-779848) · `en`
-
-Nishantha Abeysinghe has been appointed to the Board of Talawakelle Tea Estates PLC as the Executive Director/CEO.
-
-He succeeds Senaka Alawattegama who has moved to become Executive Director/CEO at Kelani Valley Plantations PLC.
-
-Abeysinghe counts over 36 years of experience in the plantation sector, having joined as an Assistant Manager under the Sri Lanka State Plantations Corporation in 1988. With the privatisation of the Estates in 1992, he joined Talawakelle Tea Estates PLC of the Hayleys Group. He currently holds the position of Director – Plantations of the company. He holds a Master of Business Administration from the University of Southern Queensland (USQ), Australia.
-
-◼️
-
-[Data](articles/96851711.json)
-
----
-
-### AHRP soars to 25th year taking HR to the forefront
-
-*2025-08-04 04:50:28* · [`dailyftlk`](https://www.ft.lk/business/AHRP-soars-to-25th-year-taking-HR-to-the-forefront/34-779847) · `en`
-
-The Association of HR Professionals, the conclave of discerning human resource practitioners in the country, celebrates 25 years of shaping the profession’s onward march this year.
-
-Having established in the year 2000 by a futuristic group of practitioners and academics the association has been the catalyst in opening boardroom echelons to the discipline as a business driver and enabler.
-
-At the annual general meeting held on 1 August the new Executive Committee led by South Asia Gateway Terminals Chief HR Officer Thushara Jayawardene unrolled their futuristic strategic canvas for this year and beyond.
-
-...
-
-[Data](articles/2d9af4d3.json)
-
----
-
-### CTTA bestows Honorary Membership on Asia Siyaka Commodities’ Anil Randolph Cooke
-
-*2025-08-04 04:49:08* · [`dailyftlk`](https://www.ft.lk/business/CTTA-bestows-Honorary-Membership-on-Asia-Siyaka-Commodities-Anil-Randolph-Cooke/34-779846) · `en`
-
-In recognition of a remarkable career characterised by vision, leadership, and dedication, Anil Cooke was honoured as an Honorary Member of the Colombo Tea Traders’ Association at its 131st Annual General Meeting on 25 July, making him the 29th member to receive this honour in the modern history of the association.
-
-This distinguished accolade reflects Cooke’s invaluable contributions over the years and enduring commitment to the growth and progress of the tea industry.
-
-Cooke started his career in 1978 as a Trainee Tea Taster/Broker at Forbes and Walker. Due to his outstanding contributions in 1996, he was appointed to the company’s Board of Directors.
-
-In 1998, together with a team of colleagues, he co-founded Asia Siyaka Commodities. He currently serves as the Managing Director of Asia Siyaka Commodities PLC, which has grown into a leading broking and logistics company in Sri Lanka and recently acquired AgriOne Solutions, an agri input specialist.
-
-...
-
-[Data](articles/f639bdf6.json)
-
----
-
-### Environment and how its issues should be tackled through public policy
-
-*2025-08-04 03:29:43* · [`dailyftlk`](https://www.ft.lk/columns/Environment-and-how-its-issues-should-be-tackled-through-public-policy/4-779827) · `en`
-
-Man’s own unplanned way of disposing of waste matter in selected areas will over-stretch the natural assimilative capacity leading to an excessive accumulation
-
-A pertinent question at this stage is why man, having learned of the adverse impact it would make to his own survival, does not volunteer to economise on the use of environment or discharge waste-matter in a planned manner. This happens because of the externality involved in the discharge of the waste matter into the environment. Though the dumping of waste-matter over and above the assimilative capacity leads to pollution, its cost is being born by others and not by the perpetrator alone. Hence, the polluter exerts an external cost on the rest of society. If this externality is present, he has no incentive to curtail his activities voluntarily
-
-...
-
-[Data](articles/5dc88a26.json)
-
----
-
-### திருகோணமலை கல்தீவில் யானை தாக்குதல்: ஒருவர் உயிரிழப்பு
-
-*2025-08-04 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/221739) · `ta`
-
-திருகோணமலை -ஈச்சிலம்பற்று பொலிஸ் பிரிவிலுள்ள கல்தீவு காட்டுப்பகுதியில் வைத்து ஒருவர் யானை தாக்குதலுக்குள்ளாகி  உயிரிழந்துள்ளதாக ஈச்சிலம்பற்று பொலிஸார் தெரிவித்தனர். இச்சம்பவம் இன்று ஞாயிற்றுக்கிழமை (03) காலை இடம்பெற்றுள்ளது.
-
-குறித்த சம்பவத்தில் உயிரிழந்தவர் வெருகல் -சேனையூர் கிராமத்தைச் சேர்ந்த 6 பிள்ளைகளின் தந்தையான கதிர்காமத்தம்பி கனகராசா (வயது 69) என பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்தவரின் சடலம் அவரின் வீட்டில் வைக்கப்பட்டுள்ளதுடன் சடலத்தை மூதூர் நீதிவான் நீதிமன்ற நீதிவான் தஸ்னீம் பௌஸான் பார்வையிட்டு விசாரணைகளை மேற்கொண்ட பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/44862fea.json)
-
----
-
-### Financing Sri Lanka’s electricity sector growth and transition
-
-*2025-08-04 03:17:30* · [`dailyftlk`](https://www.ft.lk/columns/Financing-Sri-Lanka-s-electricity-sector-growth-and-transition/4-779825) · `en`
-
-From the simple standpoint of prudent State financial solvency and security, it is important that these investments are funded either directly (or indirectly through the local banking system), with new and additional foreign exchange inflows. Even through the local banking system, given capital allocation requirements of banks, single borrower limitations, prudent sectoral limitations, high effective tax rates, etc., direct project financing from overseas would end up being the cheapest source of funding. The caveat being that the sector needs to be suitably structured with strong independent regulatory oversight, to reduce the risks and attract private capital on attractive terms
-
-...
-
-[Data](articles/7e9d608a.json)
-
----
-
-### யாழ்ப்பாணம் நல்லூர் கோயில், நாகவிகாரை மற்றும் யாழ். நூலகத்திற்கு பிரதமர் விஜயம்
-
-*2025-08-04 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/221738) · `ta`
-
-புதிய கல்விச் சீர்திருத்தம் தொடர்பாக வடமாகாண அதிகாரிகளுக்கு விளக்கமளிக்கும் நிகழ்வில் கலந்துகொள்வதற்காக யாழ்ப்பாணத்திற்கு விஜயம் செய்த பிரதமர் கலாநிதி ஹரிணி அமரசூரிய, ஞாயிற்றுக்கிழமை (03) முற்பகல் நல்லூர் கந்தசுவாமி கோயில், யாழ். ஸ்ரீ நாகவிகாரை மற்றும் யாழ். நூலகம் ஆகிய இடங்களுக்கும் விஜயம் செய்தார்.
-
-யாழ்ப்பாணம் நல்லூர் கந்தசுவாமி கோயிலுக்கு இன்று காலை சென்ற பிரதமர், அங்கு ஆசி பெற்றார். வருடாந்தத் திருவிழா நடைபெறும் காலப்பகுதியில் யாழ்ப்பாணம் நல்லூர் கோயிலுக்குச் சென்று ஆசி பெறுவது ஒரு பாக்கியம் என்று பிரதமர் குறிப்பிட்டார்.
-
-மேலும், யாழ்ப்பாணம் நாக விகாரை சர்வதேச பௌத்த மையத்திற்குச் சென்று சமய வழிபாடுகளில் ஈடுபட்ட பின்னர், விகாராதிபதி சங்கைக்குரிய மீகஹஜந்துரே சிறிவிமல நாயக்க தேரரைச் சந்தித்து, புதிய கல்விச் சீர்திருத்தம் குறித்து அவருக்கு விளக்கமளித்தார். வட மாகாணத்தில் சமய மற்றும் தேசிய நல்லிணக்கத்திற்காக நாக விகாரை முன்னெடுத்து வரும் செயற்றிட்டங்களைப் பாராட்டிய பிரதமர்,
-
-...
-
-[Data](articles/e33b00bf.json)
-
----
-
-### இலங்கையின் சட்டத்தை இந்திய தேவைக்கேற்ப திருத்த முடியுமா? – விமல் வீரவன்ச கேள்வி
-
-*2025-08-04 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/221737) · `ta`
-
-இலங்கைக்கு டிஜிட்டல் அடையாள அட்டையை விநியோகிக்கும் கருத்திட்டத்துக்கு தரவு பாதுகாப்பு சட்டம் தடையாக இருப்பதாக இந்திய நிறுவனம் குறிப்பிட்டதை தொடர்ந்து அந்த சட்டத்தை திருத்தம் செய்யும் யோசனையை இன்றும் ஒருமாத காலத்துக்கு கொண்டு வருவதாக டிஜிட்டல் பொருளாதார அமைச்சு இந்திய நிறுவனத்துக்கு வாக்குறுதியளித்துள்ளது. இந்தியாவின் தேவைக்கமைய நாட்டின் சட்டத்தை எவ்வாறு திருத்தம் செய்ய முடியும். இந்த திருத்த யோசனைக்கு எத்தனை பேர் ஆதரவளிப்பார்கள் என்பதை பார்த்துக் கொண்டிருக்கிறோம் என தேசிய சுதந்திர முன்னணியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
-
-கொழும்பில் உள்ள தேசிய சுதந்திர முன்னணியின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (3) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/f3dd2925.json)
 
 ---

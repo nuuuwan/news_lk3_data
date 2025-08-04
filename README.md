@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 19:28:39**
+As of **2025-08-04 19:51:24**
 
 ## Newspaper Stats
 
-*Scraped **68,640** Articles*
+*Scraped **68,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
 adalk | 6,611
-adaderanalk | 8,506
-tamilmirrorlk | 9,980
-virakesarilk | 11,434
-adaderanasinhalalk | 11,824
+adaderanalk | 8,511
+tamilmirrorlk | 9,981
+virakesarilk | 11,438
+adaderanasinhalalk | 11,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.3%) of 68,640 articles have been extended.
+61,973 (90.3%) of 68,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### මෙරට විශාලතම හස්තිරාජයා වන කාවන්තිස්සට ජීවිත අවදානමක්
+
+*2025-08-04 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213018) · `si`
+
+අලි ඇතුන් ශ්‍රී ලංකාවේ අභිමානය සහ ප්‍රෞඩත්වය ලොවට කියාපාන සංකේතයකි.
+
+එහෙත් අලිමිනිස් ගැටුම හේතුවෙන් මෑතකාලයේ මෙරටට අහිමි වූ අලි ඇතුන් සංඛ්‍යාව අති මහත්ය.
+
+ශ්‍රී ලංකීය හස්තිරාජ පරපුරේ ප්‍රෞඩත්වය ලොවට කියාපාන වත්මන් විශාලතම සද්ධන්තයා වන කාවන්තිස්ස  මුල්වරට හඳුනාගැනුණේ 2012 වසරේදීය.
+
+එතෙක් මෙරට වනාන්තර ආශ්‍රීතව සිටි තේජාන්විතම හස්තියා වූ සියඹලන්ගමුවේ හස්තියාගේ ඛේදනීය මරණයත් සමඟ කාවන්තිස්ස කරළියට පැමිණියේය.
+
+කෙසේවෙතත් පසුගිය දශක කිහිපය තුළ සිදුවූ මිනිස් ක්‍රියාකාරකම් හේතුවෙන් කලාවැව, බල්ලුවැව ප්‍රදේශයේ සිට ගල්ගමුව, තබ්බෝව හා විල්පත්තුව දක්වා වූ කාවන්තිස්සගේ වාර්ෂික ගමන් මාර්ගය මේ වනවිට අහිමි වී අවසන්ය.
+
+එමෙන්ම පාලුකඩවල, මහගල්ගමුව, ඉගිනිමිටිය වැනි වැව් රක්ෂිත දිනෙන් දින මිනිසුන් විසින් වගාවන් සහ වෙනත් කටයුතු සඳහා එළිපෙහෙළි කිරීම හේතුවෙන් කාවන්තිස්සට සිය වාසභූමියද මේ වනවිට අහිමි වී තිබේ.
+
+මෙම ප්‍රදේශවලදී මෑතකදී භාතිය සහ අස්ථික කියන්නාවු ඇතුන් දෙදෙනාම ඝාතනයට ලක්වුණි.
+
+වඩාත්ම බරපතළ කාරණාව වන්නේ මේ වෙද්දි කාවන්තිස්සගේ ශරීරයේ වම් පසද මෑතකදී සිදුවූ වෙඩි පහර යැයි සැකකළ හැකි තුවාල කිහිපයක් දක්නට ලැබීමයි.
+
+...
+
+[Data](articles/17fe7327.json)
+
+---
+
+### சஜித் அணியின் சூதாட்ட கூடம் சிக்கியது
+
+*2025-08-04 19:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அணியின்-சூதாட்ட-கூடம்-சிக்கியது/175-362294) · `ta`
+
+இபலோகம பிரதேச சபை உறுப்பினர் ஒருவர் நடத்தி வந்த சூதாட்டக் கூடத்தை பொலிஸார் சுற்றி வளைத்து, பிரதேச சபை உறுப்பினர் ஒருவர் உட்பட 15 பேரை கைது செய்தனர்.
+
+இபலோகம, குஞ்சிக்குளத்தில் உள்ள ஒரு வீட்டில் சூதாட்டக் கூடம் நடத்தப்படுவதாக கிடைத்த ரகசிய தகவலைத் தொடர்ந்து, உஷார் நிலையில் இருந்த இபலோகம காவல்துறையினர், இன்று (04) நடத்திய சோதனையில் அந்தக் குழுவைக் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர், எஸ்.ஜே.பி பிரதேச சபை உறுப்பினர், சூதாட்டக் கூடத்தை நடத்தி வந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+சூதாட்டக் கூடத்தில் கைது செய்யப்பட்ட சந்தேகநபர்கள் குஞ்சிக்குளம், மடடுகம, கெகிராவ, எப்பாவல, கட்டியாவ, கரம்பேவ, தனவா மற்றும் கல்னேவ உள்ளிட்ட பல பகுதிகளைச் சேர்ந்தவர்கள் என்று பொலிஸார் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/2ce24350.json)
+
+---
 
 ### ජංගම දුරකථන 26ක් සිරුරෙහි  සඟවාගෙන සිටි තරුණිය මරුට
 
@@ -51,6 +95,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9b1d94b9.json)
+
+---
+
+### பாலஸ்தீனத்தை பாதுகாப்பதற்கான தேசிய இயக்கம் இஸ்தாபனம்
+
+*2025-08-04 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/221822) · `ta`
+
+இரு அரசு தீர்வை செயல்படுத்துவது உட்பட, பாலஸ்தீனியர்களைப் பாதுகாக்க உள்நாட்டிலும் சர்வதேச அளவிலும் அர்த்தமுள்ள நடவடிக்கைகளை அரசாங்கம் மேற்கொள்ள வேண்டும் பாலஸ்தீனத்தைப் பாதுகாப்பதற்கான தேசிய இயக்கம் கோரிக்கை விடுத்துள்ளது.
+
+பல அரசியல் கட்சிகள், தொழிற்சங்கங்கள், சிவில் சமூக அமைப்புகள் மற்றும் தனிநபர்கள் கடந்த 29ஆம் திகதி கொழும்பில் கூடி, பாலஸ்தீனத்தை பாதுகாப்பதற்கான தேசிய இயக்கத்தை நிறுவினர். பாலஸ்தீன மக்களுக்கு எதிராக நடத்தப்படும் இனப்படுகொலைக்கு எதிராக இலங்கை அரசாங்கம் எந்த தீர்க்கமான வழியிலும் செயல்பட முடியாத நிலையில், அவர்கள் அவ்வாறு செய்ய உந்துதல் பெற்றனர்.
+
+...
+
+[Data](articles/c50f2c3d.json)
 
 ---
 
@@ -131,6 +189,92 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/284800e7.json)
+
+---
+
+### முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமை இரத்து சட்டமூலத்துக்கு எதிராக சட்டநடவடிக்கை எடுப்போம் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+
+*2025-08-04 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/221819) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்துச் செய்யும் வகையில் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்பட்டுள்ள சட்டமூலத்துக்கு எதிராக உரிய சட்டநடவடிக்கை எடுப்போம்.2029 ஆம் ஆண்டு நாங்கள் தான் ஆட்சிக்கு வருவோம். தற்போதைய செயற்பாடுகளுக்கு அரசாங்கம் பதிலளிக்க நேரிடும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் திங்கட்கிழமை (04) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்துச் செய்யும் சட்டமூலம் பிரசுரிக்கப்பட்டுள்ளது.யுத்தத்தை முடிவுக்கு கொண்டு வந்த முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை இலக்காகக் கொண்டு விடுதலை புலிகள் அமைப்பை மகிழ்விப்பதற்காக இந்த சட்டமூலம் கொண்டு வரப்பட்டுள்ளது.
+
+...
+
+[Data](articles/09553f91.json)
+
+---
+
+### Russia urges caution in nuclear ‘rhetoric’ after Donald Trump comments
+
+*2025-08-04 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111163/russia-urges-caution-in-nuclear-rhetoric-after-donald-trump-comments) · `en`
+
+Russia urged caution on Monday (Aug 4) after US President Donald Trump said he would deploy two nuclear submarines following an online row with former Russian president Dmitry Medvedev.
+
+Trump said he had ordered the deployment in response to what he alleged were highly provocative comments by Medvedev, saying the submarines would be positioned in “appropriate regions”.
+
+Trump did not say whether he meant nuclear-powered or nuclear-armed submarines.
+
+He also did not elaborate on the locations, which are kept secret by the US military.
+
+“Russia is very attentive to the topic of nuclear non-proliferation. And we believe that everyone should be very, very cautious with nuclear rhetoric,” Kremlin spokesman Dmitry Peskov told reporters, including from AFP, on Monday.
+
+The row between Medvedev and Trump erupted against the backdrop of the US leader’s ultimatum for Russia to end its military offensive in Ukraine or face fresh economic sanctions, including on its remaining trading partners.
+
+...
+
+[Data](articles/f8d597bb.json)
+
+---
+
+### சொட்டை தலையர்களை போற்றும் இசைக் கலைஞர் ரைசிங் றாப்பர்
+
+*2025-08-04 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/221814) · `ta`
+
+இன்றைய சூழலில் நீர் மேலாண்மை காரணமாக இளம் வயதிலேயே ஆண்களும், பெண்களும் தலை முடி உதிர்வு பாதிப்பை எதிர்கொள்கிறார்கள். இளம் பருவத்தில் இத்தகைய பாதிப்பிற்கு ஆளாகும் ஆண்களுக்கும் , பெண்களுக்கும் உளவியல் ரீதியாக பாரிய அழுத்தத்தை எதிர்கொள்கிறார்கள்.
+
+இதனை முதன்மையான உள்ளடக்கமாக கொண்டு வெளியாக இருக்கும் 'சொட்ட சொட்ட நனையுது 'என்ற திரைப்படத்தில் ' சொட்ட ஆந்தம் ' என்ற பெயரில் சுயாதீன இசைக்கலைஞர் ரைசிங் றாப்பரின் இசையில் பாடல் ஒன்று வெளியிடப்பட்டுள்ளது.
+
+இயக்குநர் நவீத் எஸ். ஃபரீத் இயக்கத்தில் உருவாகி வரும் 'சொட்ட சொட்ட நனையுது' என்ற படத்தில் நிஷாந்த் ரூசோ, ராஜா இளங்கோவன் , வர்ஷினி வெங்கட் , ஷாலினி,  ஆனந்த் பாண்டி, ரோபோ சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரயீஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஞ்சித் உன்னி இசையமைத்திருக்கிறார் இந்த படத்தை அட்லர் என்டர்டெய்ன்மென்ட் நிறுவனம் தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/aaf2bacc.json)
+
+---
+
+### Four Indian fishermen arrested for poaching in Sri Lankan waters off Delft
+
+*2025-08-04 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111162/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters-off-delft-) · `en`
+
+A fishing boat has been seized while four Indian fishermen have been apprehended for poaching in Sri Lankan waters off the Delft Island, Jaffna.
+
+The Northern Naval Command deployed its Inshore Patrol Craft to seize the fishing boat after it infiltrated Sri Lankan waters, the Sri Lanka Navy said.
+
+The seized boat and the four Indian fishermen have been handed over to the Fisheries Inspector of Mailadi for onward legal proceedings, the Navy added.
+
+◼️
+
+[Data](articles/32f74812.json)
+
+---
+
+### பின்னணி பாடகராக அறிமுகமாகும் நடிகர் புகழ்
+
+*2025-08-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221813) · `ta`
+
+சின்னத்திரை ரசிகர்களிடம் பிரபலமான நடிகரும், 'மிஸ்டர் ஜு கீப்பர்' படத்தின் மூலம் கதையின் நாயகனாகவும் உயர்ந்த நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கும் பெயரிடப்படாத திரைப்படத்தில் இடம் பெறும் பாடல் ஒன்றை பாடி பின்னாடி பாடகராகவும் அறிமுகமாகிறார்.
+
+இயக்குநர் எம் சாஜோ சுந்தர் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கிறார். லட்சுமி மூவி மேக்கர்ஸ் நிறுவனத்தின் சார்பில் தயாரிப்பாளர்கள் டொக்டர் எம். ஸ்ரீ வக்சன் மற்றும் எம்.கோகுல் கிருஷ்ணன் ஆகியோர் இணைந்து தயாரிக்கும் இந்த திரைப்படத்திற்கு சுபாஷ் முனிரத்னம் இசையமைத்துள்ளார்.
+
+இந்த படத்திற்காக பிரபல பாடலாசிரியர் கலைக்குமார் எழுதிய பாடலை சுபாஷ் முனிரத்னம் இசையில் நடிகர் புகழ்-  பின்னணி பாடகி விருஷா பாலு-  பின்னணி பாடகர் ஜெகதீஷ் குமார் ஆகியோர் இணைந்து பாடியிருக்கிறார்கள். இந்தப் பாடலைப் பாடியிருப்பதன் மூலம் நடிகர் புகழ் பாடகராகவும் அறிமுகமாகிறார். துள்ளலிசை பாணியிலான இந்தப் பாடல் சிறப்பாக வந்துள்ளதாக படக் குழுவினர் நம்பிக்கையுடன் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a7ecb21c.json)
 
 ---
 
@@ -217,6 +361,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/17dc1b35.json)
+
+---
+
+### MP Ramanathan Archchuna leaves CID after recording a statement
+
+*2025-08-04 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111161/mp-ramanathan-archchuna-leaves-cid-after-recording-a-statement-) · `en`
+
+Jaffna District Member of Parliament Ramanathan Archchuna has left the Criminal Investigation Department (CID) after recording a statement.
+
+◼️
+
+[Data](articles/d214fa5a.json)
+
+---
+
+### Former Bangladesh PM Sheikh Hasina’s Dhaka home to turn into museum
+
+*2025-08-04 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111160/former-bangladesh-pm-sheikh-hasinas-dhaka-home-to-turn-into-museum) · `en`
+
+The former residence of Bangladesh’s ousted Prime Minister Sheikh Hasina is set to be transformed into museum. The place will serve as a reminder for her autocratic regime.
+
+The decision comes in the wake of Hasina departure from power under student-led protest that culminated on August 5, 2024. The jubilant crowd took the rooftop of Dhaka palace after Hasina left for India in helicopter.
+
+One year later, with the South Asian nation of around 170 million people still in political turmoil, the authorities hope the sprawling Ganabhaban palace offers a message to the future. Graffiti daubed on the walls condemning her regime remains untouched. “Freedom”, one message reads. “We want justice.”
+
+Hasina’s rule was known for human rights abuses, including the mass detention and extrajudicial killings of her political opponents. The United Nations reported, approximately 1400 people were killed during her failed attempt to maintain the power in mid-2024.
+
+...
+
+[Data](articles/9212c37b.json)
 
 ---
 
@@ -409,6 +583,22 @@ He further stated that this situation points to possible corruption, and he has 
 ◼️
 
 [Data](articles/5769e99b.json)
+
+---
+
+### Gazette issued to raise USD 500,000 threshold for local companies to invest overseas gets green light from CoPF
+
+*2025-08-04 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111158/gazette-issued-to-raise-usd-500000-threshold-for-local-companies-to-invest-overseas-gets-green-light-from-copf-) · `en`
+
+The gazette notification issued to increase the thresholds for local companies to invest overseas and streamlining processes to facilitate cross-border expansion has been approved by the Committee on Public Finance.
+
+The said Order under Section 22 of the Foreign Exchange Act, No. 12 of 2017 Published in the Gazette Extraordinary No. 2441/14 of 18.06.2025 has accordingly been approved during a CoPF meeting chaired by Member of Parliament (Dr.) Harsha de Silva, the Department of Communication of Parliament stated.
+
+Under the new framework, the investment limit for listed companies has been raised from USD 500,000 to USD 750,000 and the limit for unlisted companies has been increased from USD 150,000 to USD 200,000. Companies seeking to invest beyond these limits can now borrow from foreign sources up to USD 2 million, with Central Bank of Sri Lanka oversight and any investment exceeding USD 2 million will require special approval, the statement added further.
+
+...
+
+[Data](articles/193b5e62.json)
 
 ---
 
@@ -1699,191 +1889,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ...
 
 [Data](articles/f774619b.json)
-
----
-
-### European automakers’ margins stressed by tariffs, Chinese competition: Fitch
-
-*2025-08-04 11:04:00* · [`economynextcom`](https://economynext.com/european-automakers-margins-stressed-by-tariffs-chinese-competition-fitch-234462/) · `en`
-
-ECONOMYNEXT – European automakers, including Volkswagen and Mercedes-Benz, will see their profitability decline this year because of US tariff-related disruptions and challenging conditions in China, Fitch Ratings says.
-
-“Tariffs pose a significant risk for automakers exporting vehicles manufactured at facilities in Japan, Korea and Germany to the US,” Fitch said.
-
-“Fitch expects the US tariff announcements to have negative implications for automotive production and sales, prompting automakers to rapidly restructure their manufacturing footprints and optimise fixed costs.”
-
-German automakers have continued to cede market share in China to domestic competitors and have faced heightened pricing pressures, Fitch said.
-
-The ratings agency also said it expects a decline in sales in Europe.
-
-...
-
-[Data](articles/21c122f2.json)
-
----
-
-### යෝෂිතගේ සහ ඩේසි ෆොරස්ට්ගේ නඩුව කල් යයි
-
-*2025-08-04 11:00:37* · [`adalk`](https://www.ada.lk/breaking_news/යෝෂිතගේ-සහ-ඩේසි-ෆොරස්ට්ගේ-නඩුව-කල්-යයි/11-417702) · `si`
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පුත් යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් යන අයට එරෙහිව මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ ගොනුකර ඇති නඩුව ඔක්තෝබර් මස 29 වන දක්වා කල්තැබීමට කොළඹ මහාධිකරණය නියෝග කර තිබේ.
-
-අදාළ නඩුව අද (04දා) කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබා දුන් අතර, අද දිනයේදී විත්තිකරුවන් අධිකරණය හමුවේ පෙනී සිටියහ.
-
-◼️
-
-[Data](articles/46f5a78a.json)
-
----
-
-### தனமல்வில பகுதியில் உயிரிழந்த நிலையில் யானை கண்டுப்பிடிப்பு
-
-*2025-08-04 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/221756) · `ta`
-
-தனமல்வில, ஹம்பேகமுவ பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் கரமெட்டிய குளத்திற்கு அருகிலுள்ள சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் ஒன்று கண்டெடுக்கப்பட்டுள்ளது.
-
-குறித்த யானை இறப்பதற்கு முன்னர் பல சந்தர்ப்பங்களில் சிகிச்சை பெற்று வந்தள்ளதாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
-
-எனினும், யானை இறந்தமைக்கான காரணம் இன்னும் கண்டறிப்படவில்லை. இறப்புக்கான காரணத்தைக் கண்டறிய பிரேத பரிசோதனை நடத்த திட்டமிடப்பட்டுள்ளது.
-
-இது தொடர்பில் மேலதிக விசாரணைகளை ஹம்பேகமுவ பொலிஸ் நிலைய அதிகாரிகள் வனஜீவராசிகள் பாதுகாப்பு திணைக்கள அதிகாரிகளுடன் இணைந்து மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/08d325df.json)
-
----
-
-### சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் மீட்பு
-
-*2025-08-04 10:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/சதுப்பு-நிலத்தில்-காட்டு-யானையின்-சடலம்-மீட்பு/52-362259) · `ta`
-
-தனமல்வில அம்பேகமுவ பகுதியில் உள்ள கரமெட்டிய குளத்துக்கு அருகிலுள்ள சதுப்பு நிலத்தில் காட்டு யானையின் சடலம் மீட்கப்பட்டுள்ளது.
-
-இந்த யானை இறப்பதற்கு முன்னர் பல சந்தர்ப்பங்களில் சிகிச்சை பெற்று வந்ததாகவும்,  மரணத்திற்கான சரியான காரணம் இன்னும் கண்டறியப்படவில்லை என, வனவிலங்கு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-சம்பவம் தொடர்பான மேலதிக விசாரணைகளை ஹம்பேகமுவ காவல் பொலிஸ் அதிகாரிகள் வனவிலங்கு திணைக்கள அதிகாரிகளுடன் இணைந்து மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/2c7ea482.json)
-
----
-
-### பிரித்தானியாவில் பாதுகாக்கப்படும் நூல்கள் வன்பிரதியாக யாழ். நூலகத்திற்கு பெற நடவடிக்கை!
-
-*2025-08-04 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221755) · `ta`
-
-1981ஆம் ஆண்டு யாழ்ப்பாண பொது நூலகம் எரிக்கப்பட்டபோது அழிந்த அரிய நூல்கள் மற்றும் ஆவணங்களை மீண்டும் பெறுவதற்கான முயற்சிகள் மேற்கொள்ளப்படுகின்றன. குறிப்பாக, பிரித்தானிய நூலகத்தில் பாதுகாக்கப்பட்டிருக்கும் யாழ்ப்பாணம் மற்றும் ஏனைய பிராந்தியங்கள் சார்ந்த வரலாற்று நூல்களை வன்பிரதியாகப் பெறவும், அவற்றை இணையத்தின் மூலம் அணுகவும் நடவடிக்கை எடுக்கப்படும் என யாழ். மாநகர சபை உறுப்பினர் சு. கபிலன் தெரிவித்தார்.
-
-யாழ்ப்பாணத்திற்கு வருகை தந்திருந்த பிரதமர் ஹரினி அமரசூரியாவிடம், நூலகம் தொடர்பான தனது கோரிக்கைகளை முன்வைத்ததாகவும், அதற்கு பிரதமர் முழுமையான ஆதரவு வழங்க உறுதியளித்ததாகவும் கபிலன் கூறினார்.
-
-1800கள் முதல் 1950கள் வரையிலான காலகட்டத்தில் யாழ்ப்பாணம் மற்றும் பிற பகுதிகள் குறித்த நூல்கள், பிரித்தானிய நூலகத்தில் இலத்திரனியல் வடிவத்தில் பாதுகாத்து வைக்கப்பட்டுள்ளன. அவற்றை யாழ்ப்பாண நூலகத்தில் இருந்து இணையவழியில் அணுகும் வசதியை ஏற்படுத்துதல்.
-
-அதே காலகட்டத்தைச் சேர்ந்த நூல்களை வன்பிரதியாக அச்சிட்டு யாழ்ப்பாண நூலகத்திற்கு கொண்டு வருதல்.
-
-...
-
-[Data](articles/2a4c59e1.json)
-
----
-
-### හිටපු ජනපති රනිල්ගේ පෞද්ගලික ලේකම්වරිය සී.අයි.ඩී.ය හමුවට
-
-*2025-08-04 10:50:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්ගේ-පෞද්ගලික-ලේකම්වරිය-සී-අයි-ඩී-ය-හමුවට/11-417701) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පෞද්ගලික ලේකම් සැන්ඩ්‍රා පෙරේරා මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණ තිබේ.
-
-2023 වසරේ සිදු කළ විදේශ සංචාරයක් සම්බන්ධයෙන් සිදු කරනු ලබන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබා දීම සඳහා ඇය කැඳවා තිබූ අතර, ඒ අනුව අද(04දා) පෙරවරුවේ ඇය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/f2f2e7e1.json)
-
----
-
-### Hearing of case against Yoshitha and his grandmother postponed to October
-
-*2025-08-04 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111141/hearing-of-case-against-yoshitha-and-his-grandmother-postponed-to-october-) · `en`
-
-The Colombo High Court has postponed the hearing of the case filed against Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, and his grandmother Daisy Forest, under the Prevention of Money Laundering Act, until October 29.
-
-The defendants appeared before the court when the case was called today, said Ada Derana reporter.
-
-However, the hearing was adjourned as Colombo High Court Judge Pradeep Abeyratne, who is presiding over the case, was on leave.
-
-The Attorney General has filed the case under three charges, alleging that the defendants violated the Prevention of Money Laundering Act by depositing over Rs. 59 million—believed to be illegally earned—into three fixed deposit accounts at private banks between March 31, 2009, and December 12, 2013.
-
-◼️
-
-[Data](articles/49d0751e.json)
-
----
-
-### යෝෂිතට සහ ඩේසි ආච්චිට එරෙහි නඩුවක් කල්යයි
-
-*2025-08-04 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212995) · `si`
-
-මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පුත් යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් යන අයට එරෙහිව ගොනුකර ඇති නඩුව ඔක්තෝබර් මස 29 වන දක්වා කල්තැබීමට කොළඹ මහාධිකරණය නියම කළේය.
-
-මෙම නඩුව අද (04) කැඳවූ අවස්ථාවේදී විත්තිකරුවන් අධිකරණය හමුවේ පෙනී සිටියේය.
-
-එහෙත් එම නඩුව විභාග කරන කොළඹ මහාධිකරණ විනිසුරු ප්‍රදීප් අබේරත්න මහතා අද දින රාජකාරි නිවාඩු ලබා සිටීම හේතුවෙන් එම නඩුව යළි ඔක්තෝබර් මස 29 වනදා කැඳවන ලෙස එම අධිකරණය විසින් නියම කරනු ලැබීය.
-
-2009 වසරේ මාර්තු මස 31 වනදා සහ 2013 වසරේ දෙසැම්බර් මස 12 වන දා අතර කාලසීමාව තුළ නීතිවිරෝධී ලෙස උපයාගත් රුපියල් මිලියන 59කට අධික මුදලක් පෞද්ගලික බැංකු ගිණුම් තුනක ස්ථාවර තැන්පතු ගිණුම්වල තැන්පත් කිරීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යයි චෝදනා කරමින් නීතිපතිවරයා විසින් මෙම විත්තිකරුවන්ට එරෙහිව චෝදනා තුනක් යටතේ මෙම නඩුව ගොනුකර තිබුණි.
-
-◼️
-
-[Data](articles/9a248c36.json)
-
----
-
-### “இதை மறைக்கத் தான் அந்த சிரிப்பு”
-
-*2025-08-04 10:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இதை-மறைக்கத்-தான்-அந்த-சிரிப்பு/54-362256) · `ta`
-
-தமிழ் சினிமா ரசிகர்களை நெடுங்காலமாகச் சிரிக்க வைத்த நகைச்சுவை நடிகர் மதன் பாபு சனிக்கிழமை (02)  மாலை 5 மணியளவில் சென்னையில் காலமானார்.
-
-கடந்த சில மாதங்களாக புற்றுநோயால் பாதிக்கப்பட்டிருந்த அவர், சிகிச்சை பலனளிக்காத நிலையில் உயிரிழந்துள்ளார். வயது 71.
-
-1953-ஆம் ஆண்டு சென்னை நகரில் பிறந்த மதன் பாபு, திரையுலகில் தனது பயணத்தை இசை துறையில் தொடங்கியவர். ஆரம்பத்தில் நாடகங்களுக்கு இசை அமைப்பதிலும், ஆர்கெஸ்ட்ரா நிகழ்ச்சிகளில் பங்கேற்பதிலும் ஈடுபட்டிருந்த அவர், பின்னர் ‘ஆல் இந்தியா ரேடியோ’ மற்றும் பல தொலைக்காட்சி நிகழ்ச்சிகளில் இசை நிகழ்த்தினார். அவருக்கு இயற்கையாகவே இருந்த சிறிய ஸ்டாமரிங் பிரச்சனையை மறைப்பதற்காக அவர் தன் சிரிப்பை ஒரு குறியாக மாற்றிக் கொண்டார். அந்த சிரிப்பே அவரை ஒரு தனித்துவ நடிகராக தமிழ்ப் பட உலகில் நிலைநிறுத்தியது.
-
-...
-
-[Data](articles/cef87bf1.json)
-
----
-
-### சீதை அம்மன் ஆலய மண்டப திறப்பு விழா
-
-*2025-08-04 10:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சீதை-அம்மன்-ஆலய-மண்டப-திறப்பு-விழா/76-362255) · `ta`
-
-நுவரெலியாவில் உள்ள சீதை அம்மன் ஆலயத்தில் புதிதாக கட்டப்பட்ட அன்னதான மண்டபம் ஞாயிற்றுக்கிழமை (03) அன்று திறந்து வைக்கப்பட்டது.
-
-இந்திய அரசின் நிதி உதவியுடன் கட்டப்பட்ட சீதை அம்மன் ஆலயத்தில் அன்னதான மண்டபத்தை வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் மற்றும் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோர் திறந்து வைத்தனர்.
-
-சீதை அம்மன் ஆலயத்தின் அறங்காவலர் குழுவின் தலைவர் வி. ராதா கிருஷ்ணன், திறப்பு விழாவில் கலந்து கொண்ட அமைச்சர் விஜித ஹேரத் மற்றும் இந்திய உயர் ஸ்தானிகர் ஆகியோரை வரவேற்றார்.
-
-சீதை அம்மன் கோவிலில் புதிதாக கட்டப்பட்ட அன்னதான மண்டபத்தின் திறப்பு விழாவில் பல உள்ளூர் மற்றும் வெளிநாட்டு விருந்தினர்கள் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/51ba1354.json)
-
----
-
-### ரணிலின் தனிப்பட்ட செயலாளர் CID-க்கு அழைப்பு
-
-*2025-08-04 10:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தனிப்பட்ட-செயலாளர்-CID-க்கு-அழைப்பு/175-362254) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தனிப்பட்ட செயலாளர் சாண்ட்ரா பெரேரா குற்றப் புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டுள்ளார்.
-
-ஜனாதிபதி செயலகத்தின் நிதியைப் பயன்படுத்தி மேற்கொள்ளப்பட்ட வெளிநாட்டுப் பயணம் தொடர்பாக குற்றப் புலனாய்வு திணைக்களத்தின் அதிகாரிகள் சாண்ட்ரா பெரேராவிடம் வாக்குமூலம் பதிவு செய்யவுள்ளனர்.
-
-இது தொடர்பாக முன்னாள் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவும் நாளை குற்றப் புலனாய்வுப் பிரிவுக்கு அழைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/639d0c06.json)
 
 ---

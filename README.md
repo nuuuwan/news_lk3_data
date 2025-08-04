@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-04 09:57:22**
+As of **2025-08-04 10:25:54**
 
 ## Newspaper Stats
 
-*Scraped **68,507** Articles*
+*Scraped **68,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,165 @@ economynextcom | 4,182
 islandlk | 4,190
 dailymirrorlk | 4,733
 dailyftlk | 4,836
-adalk | 6,591
-adaderanalk | 8,483
-tamilmirrorlk | 9,938
-virakesarilk | 11,415
-adaderanasinhalalk | 11,800
+adalk | 6,592
+adaderanalk | 8,487
+tamilmirrorlk | 9,941
+virakesarilk | 11,418
+adaderanasinhalalk | 11,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.5%) of 68,507 articles have been extended.
+61,973 (90.4%) of 68,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-04 (Monday)
+
+### வரியை குறைத்த டிரம்ப்...
+
+*2025-08-04 10:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரியை-குறைத்த-டிரம்ப்/62-362246) · `ta`
+
+◼️
+
+[Data](articles/a571a4da.json)
+
+---
+
+### சிறையில் முதல் நாளில் கதறி அழுத பிரஜ்வல்
+
+*2025-08-04 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-முதல்-நாளில்-கதறி-அழுத-பிரஜ்வல்/175-362244) · `ta`
+
+வீட்டு பணிப்​பெண்ணை பாலியல் வன்​கொடுமை செய்த வழக்​கில் முன்​னாள் பிரதமர் தேவக​வு​டா​வின் பேரனும், கர்​நாடக முன்​னாள் எம்​.பி.​யு​மான பிரஜ்வல் ரேவண்​ணாவுக்கு (வயது 34) சாகும் வரை சிறை தண்​டனை விதிக்​கப்​பட்ட நிலை​யில், சிறையில் அவர் கண்ணீர் விட்டு அழுதார்.
+
+இதுகுறித்து சிறைத் துறை அதி​காரி​கள் கூறிய​தாவது: பிரஜ்வல் ரேவண்​ணாவுக்கு பாலியல் வன்​கொடுமை வழக்​கில் சாகும் வரை ஆயுள் தண்​டனை விதிக்​கப்​பட்​டுள்ளது. இதை தொடர்ந்து, அவர் பரப்பன அக்​ரஹாரா மத்​திய சிறை​யில் அடைக்​கப்​பட்​டுள்​ளார்.
+
+கடந்த 2-ம் திகதி தீர்ப்பு வழங்​கப்​பட்ட நிலை​யில், தண்​டனைக்​கான முதல் இரவை அவர் சிறை​யில் கழித்​தார். கண்​ணீர் விட்டு அழுததுடன், மிகுந்த மன உளைச்​சலுடன் காணப்​பட்​டார். அவரது உடல்​நிலை சீராக இருப்​பதை உறுதி செய்​வதற்​காக சிறை மருத்​து​வர்​கள் அன்று இரவு அவரது உடல்​நிலையை பரிசோ​தித்​தனர். அப்போது, தனது வேதனை​களை மருத்துவர்களிடம் அவர் வெளிப்​படுத்​தி​யுள்​ளார். இந்த தண்​டனையை எதிர்த்து உயர் நீதி​மன்​றத்தை அணுகி​யுள்​ள​தாக​வும் பிரஜ்வல் ரேவண்ணா கூறி​யுள்​ளார்.
+
+...
+
+[Data](articles/091c5d26.json)
+
+---
+
+### ඉතිහාසයේ ප්‍රථමවරට ASPI ඒකක 20000 ඉක්මවයි
+
+*2025-08-04 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212994) · `si`
+
+අද (04) කොළඹ කොටස් වෙළෙඳපොළ ගනුදෙනු ආරම්භ වී විනාඩි 10ක් වැනි කාලයක් තුළ සියලු කොටස් මිල දර්ශකයේ අගය ඉතිහාසයේ ප්‍රථම වරට ඒකක 20,000 සීමාව ඉක්ම වීමට සමත් විය.
+
+ඒ වන විට රු. මිලියන 432 ඉක්මවූ ගනුදෙනු පිරිවැටුමක් වාර්තා වී තිබුණි.
+
+◼️
+
+[Data](articles/ae1b24c7.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலை விபத்தில்  சாரதி பலி: சாரதி கைது
+
+*2025-08-04 09:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-சாரதி-பலி-சாரதி-கைது/175-362242) · `ta`
+
+கொழும்பு வெளிவட்டச் சாலையில், அதிவேகப் பாதையில் ஏற்பட்ட விபத்தில், கொள்கலன் லாரி ஓட்டுநர் ஒருவர் உயிரிழந்ததாக அத்துருகிரிய அதிவேகப் பாதை கட்டுப்பாட்டு மையம் தெரிவித்துள்ளது.
+
+விபத்தில் உயிரிழந்தவர் அலவதுகொட, சிஸ்டன் பிளேஸைச் சேர்ந்த டபிள்யூ.கே.ஏ. பி. வர்ணசிறி (49) என அடையாளம் காணப்பட்டுள்ளார்.
+
+கடவத்தை நுழைவாயிலில் இருந்து மாத்தறை நோக்கி ஓடுகளுடன்  கொள்கலன் லாரி ஓட்டுநர் ஓட்டிச் சென்றபோது, ஓடுகளை மூடியிருந்த கூடாரத் துணியில் கட்டப்பட்டிருந்த கயிறுகள் அறுந்து போயின. கொழும்பு வெளிவட்டச் சாலையில் இருந்து 5.8 கிலோமீட்டர் தொலைவில், கொள்கலன் லாரி நின்று, கயிறுகளை மீண்டும் கட்ட அதன் பின்னால் சாரதி வந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அந்த நேரத்தில், கம்பங்க​ளை ஏற்றிக்கொண்டு கடுவெலவிலிருந்து ஹொரணைக்குச் சென்ற லாரி கொள்கலனின் ஓட்டுநர் மீது மோதியதில் அவர் படுகாயமடைந்து, தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டதன் பின்னர் இறந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தை ஏற்படுத்திய பஹல கிரிபாவைச் சேர்ந்த 49 வயது லாரி ஓட்டுநர், பொலிஸாரால்  கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5b96e15e.json)
+
+---
+
+### யானை தாக்கி 7 வயது சிறுமி உயிரிழப்பு
+
+*2025-08-04 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221747) · `ta`
+
+இதேவேளை,  யானை தாக்குதலில் படுகாயமடைந்த அவரது தந்தை அம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+சம்பவத்தன்று பாடசாலை விடுமுறை என்பதால் சிறுமி தனது தந்தைக்கு விவசாய நடவடிக்கைகளில் உதவி செய்து கொண்டிருந்த வேளை காட்டு யானை இருவரையும் தாக்கியுள்ளது.
+
+◼️
+
+[Data](articles/33a3f215.json)
+
+---
+
+### තවත් මියගිය වනඅලියෙකුගේ සිරුරක් සොයාගනී
+
+*2025-08-04 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212993) · `si`
+
+තණමල්විල, හම්බෙගමුව පොලිස් බලප්‍රදේශයට අයත් දහයියාගල කරමැටිය වැව ආසන්නයේ වගුරු බිමක තිබී මියගිය වනඅලියෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+
+මෙම වනඅලියාට වනජීවි නිලධාරීන් විසින් අවස්ථා රැසක දී ප්‍රතිකාර කටයුතු ද සිදුකර ඇති අතර නමුත් පසුව එම අලියා මියගොස් ඇත.
+
+මරණයට නිශ්චිත හේතුවක් අනාවරණය වී නොමැති අතර මළසිරුර සම්බන්ධයෙන් පශ්චාත් මරන පරීක්ෂණය සිදුකිරීමට නියමිතව තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් හම්බෙගමුව පොලිස් ස්ථානයේ නිලධාරීන් සහ වනජීවි නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/2c0459bb.json)
+
+---
+
+### அகதிகள் சென்ற படகு கடலில் கவிழ்ந்து விபத்து ; 68 பேர் உயிரிழப்பு
+
+*2025-08-04 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221746) · `ta`
+
+ஏமன் கடற்பகுதியில் அகதிகள் படகு கவிழ்ந்ததில் 12 அகதிகள் உயிருடன் மீட்கப்பட்டுள்ளதோடு, 68 பேர் உயிரிழந்துள்ளனர்.
+
+74 பேர் கடலில் மாயமான நிலையில் அவர்களை தேடும் பணி கடல் கொந்தளிப்புக்கு மத்தியில் தீவிரமாக நடைபெற்று வருகிறது.
+
+ஆபிரிக்காவின் எத்தியோப்பியாவில் இருந்து 154 பேர் மத்திய தரைக்கடல் வழியாக ஐரோப்பிய நாடுகளுக்குள் சட்டவிரோத அகதிகளாக நுழையும் ஆபத்தான பயணத்தை மேற்கொண்டுள்ளனர்.
+
+மத்திய தரைக்கடலில் ஏமன் கடற்பகுதியில் சென்றுகொண்டிருந்தபோது அகதிகளின் படகு கடலில் கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/5828976b.json)
+
+---
+
+### Sri Lanka earned $3.7 bln from tourist arrivals in six months
+
+*2025-08-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111138/sri-lanka-earned-37-bln-from-tourist-arrivals-in-six-months) · `en`
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath stated that an income of $3.7 billion has been generated from tourist arrivals over the past six months.
+
+He added that another $3.7 billion in revenue is expected by the end of the year.
+
+Minister Herath made these remarks while attending an event at the Seeta Amman Kovil in Nuwara Eliya.
+
+He explained that Indians are the largest group of tourists arriving in Sri Lanka, with many coming for religious purposes, and added that religious sites such as Koneswaram Temple and Kataragama are particularly popular among them.
+
+Commenting further, he said, “That is a major strength for us. As you know, we were economically bankrupt. To recover from that situation, we need to rapidly develop the tourism industry. We are working toward that goal. So far, 1.3 million tourists have arrived, and we have earned $3.7 billion in revenue in the past six months.
+
+...
+
+[Data](articles/67c92d07.json)
+
+---
+
+### கம்பஹா - கொழும்பு தனியார் பஸ் சேவைகள் இடைநிறுத்தம்
+
+*2025-08-04 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/221743) · `ta`
+
+கம்பஹாவிலிருந்து கொழும்பு மற்றும் பல இடங்களுக்கு இயக்கப்படும் தனியார் பஸ் சேவைகள் இன்று திங்கட்கிழமை (04) இடைநிறுத்தப்பட்டுள்ளன.
+
+கம்பஹா - கொழும்பு வழிதடங்களில் சில இடங்களில் தனியார் பஸ்களை நிறுத்துவதற்கு விதிக்கப்பட்ட கட்டுப்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து சேவைகள் இடைநிறுத்தப்பட்டுள்ளதாக கம்பஹா தனியார் பஸ்  உரிமையாளர்கள் சங்கம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/89238d58.json)
+
+---
 
 ### தமிழகத்திலும் இனப் படுகொலை: சீமான் தெரிவிப்பு
 
@@ -45,6 +189,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/00db2a8d.json)
+
+---
+
+### Gampaha-Colombo private buses suspend services
+
+*2025-08-04 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111137/gampaha-colombo-private-buses-suspend-services) · `en`
+
+Private bus services operating from Gampaha to Colombo and several other destinations have been suspended in protest over restrictions on stopping at certain locations, the Gampaha Private Bus Owners’ Association announced.
+
+◼️
+
+[Data](articles/4934da93.json)
 
 ---
 
@@ -111,6 +267,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/114e8a67.json)
+
+---
+
+### 68 dead 74 missing after migrant boat capsizes off Yemen coast
+
+*2025-08-04 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111136/68-dead-74-missing-after-migrant-boat-capsizes-off-yemen-coast) · `en`
+
+The death toll from a migrant boat capsizing off Yemen’s coast has risen to 68, with 74 others still missing, as search and rescue operations continue amid rough seas, local officials said.
+
+Rescue teams have recovered 68 bodies throughout the day along the coastline of southern Abyan province, while 12 survivors were pulled from the water earlier in the morning, according to Abdul Qader Bajamil, director of the health office in Abyan province.
+
+◼️
+
+[Data](articles/9438c861.json)
+
+---
+
+### Island-wide fishing vessel census to commence today
+
+*2025-08-04 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111135/island-wide-fishing-vessel-census-to-commence-today) · `en`
+
+The National Fishing Vessel Census is scheduled to begin today (04).
+
+The Ministry of Fisheries and Aquatic Resources announced that the first phase will commence today at the Panadura Fisheries Harbor and will be implemented island-wide until August 20.
+
+This fishing vessel census is being conducted for the first time in approximately 10 years and will cover the entire island.
+
+According to the ministry, one of the main objectives of the census is to create an updated database of the approximately 50,000 fishing vessels operating along the country’s coastline.
+
+The purpose of the census is to identify active fishing vessels, remove unused and dilapidated ones from the coastline, support the “Clean Sri Lanka” program, contribute to the promotion of the tourism industry, and regularize fishing operation licenses.
+
+During the census, officers from the Department of Fisheries and Aquatic Resources (DFAR) will visit each fishing harbor, inspect the vessels, and affix a special sticker.
+
+...
+
+[Data](articles/b493f733.json)
 
 ---
 
@@ -1132,6 +1324,26 @@ During the event, the Minister presented the first driver’s license to an Indi
 
 ---
 
+### අධිවේගී මාර්ගවල ගමන් ගන්නා සියලු වාහනවල සෑම මගියෙකුටම ආසන පටි අනිවාර්යයි
+
+*2025-08-03 18:45:11* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගවල-ගමන්-ගන්නා-සියලු-වාහනවල-සෑම-මගියෙකුටම-ආසන-පටි-අනිවාර්යයි/11-417694) · `si`
+
+එළැඹෙන සැප්තැම්බර් 01 වැනිදා සිට බලපැවැත්වෙන පරිදි  අධීවේගී මාර්ගවල ගමන් ගන්නා සියලු වාහනවල සිටින සෑම මගියෙකුම ආසන බඳ පටි පැළඳීම අනිවාර්ය කර ඇතැයි ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යංශය ප්‍රකාශ කරයි.
+
+අමාත්‍යංශය සදහන් කර සිටියේ 'මාර්ග ආරක්‍ෂණ ක්‍රියාකාරී සැලැස්ම’ ප්‍රකාරව වසර දෙකක ක්‍රියාකාරී සැලැස්මෙහි තෙවැනි අදියර ලෙස මෙම ජාතික වැඩසටහන ක්‍රියාත්මක කෙරෙන බවයි.
+
+ආසන බඳ පටි පැළඳීමේ කාර්යයේ දී පසුගිය ජූලි 01 වැනිදා සිට සියලු මාර්ගවල ගමන් ගන්නා සියලු බස් රථ රියැදුරන් ආසන පටි පැළඳීම අනිවාර්ය කෙරිණ.
+
+එසේම අධිවේගී මාර්ගවල ගමන් ගන්නා සියලු සැහැල්ලු වාහනවල පසුපස ආසනවල සිටින මගීන් ද ආසන පටි පැළඳීම අනිවාර්ය කිරීම මේ මස 01 වැනිදා සිට ක්‍රියාත්ම කිරීමට අමාත්‍යංශය කටයුතු කරන ලදී.
+
+මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින්   මාර්ග ආරක්‍ෂාව පිළිබඳ ජාතික සභාවේ සභාපති මංජුල කුලරත්න මහතා පෙන්වා දුන්නේ බඳ පටි පැළඳීම තුළිත් අනතුරු හානි 40%-45% සංඛ්‍යාවකින් අවම කරගැනීමේ හැකියාව පවතින බවට ලොවපුරා සිදු කර ඇති අධ්‍යයන මගින් අනාවරණය වී ඇති බවයි.
+
+...
+
+[Data](articles/2429398c.json)
+
+---
+
 ### දැඩි සත්කාර ඒකක ප්‍රධාන රෝහල්වලට පමණක් සීමා නොවිය යුතුයි
 
 *2025-08-03 18:24:01* · [`adalk`](https://www.ada.lk/breaking_news/දැඩි-සත්කාර-ඒකක-ප්‍රධාන-රෝහල්වලට-පමණක්-සීමා-නොවිය-යුතුයි/11-417692) · `si`
@@ -1509,219 +1721,5 @@ Accordingly, the ministry stated that the relevant charge sheet was submitted to
 ◼️
 
 [Data](articles/4bbb17e5.json)
-
----
-
-### New tsunami warning from Russia after Kuril Islands quake
-
-*2025-08-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111127/new-tsunami-warning-from-russia-after-kuril-islands-quake) · `en`
-
-Russian officials warned that a tsunami wave of up to 19 centimeters (7.5 inches) could affect a section of the Kamchatka coast following a strong tremor on Sunday morning.
-
-“As a result of the earthquake that occurred in the Pacific Ocean, a tsunami wave no more than 19 centimeters high may reach the Aleutian municipal district, no more than 15 centimeters high may reach the Ust-Kamchatsky municipal district, and no more than 3 centimeters high may reach the Petropavlovsk-Kamchatsky urban district,” a report by Kamchatka Tsunami Warning and Monitoring Center said.
-
-“The expected wave heights are low, but you must still move away from the shore,” Russia’s Ministry for Emergency Services said on the Telegram messaging app.
-
-The United States Geological Survey said the earthquake was at a magnitude of 7.0, while German Research Center for Geosciences labeled the tremor a 6.8.
-
-...
-
-[Data](articles/629bc92f.json)
-
----
-
-### විදුලි බලාගාර ජලාශවල ජල මට්ටම් ඉහළට
-
-*2025-08-03 16:01:01* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බලාගාර-ජලාශවල-ජල-මට්ටම්-ඉහළට/11-417686) · `si`
-
-ඉහල කොත්මලේ ජල පෝෂක ප්‍ර දේශවලට ඇද හැලෙන අධික වර්ෂාවත් සමග එමඑ ජලාශයේ වාන් දොරටු දෙකක් (03) දින පස්වරුවේ විවෘත කර ඇති බව නුවරඑලිය දිස්ත්‍රික් ආපදා කලමණාකරණ ඒකකය පැවසිය.
-
-එම ජල පෝෂක ප්‍රදේශවලට තවදුරටත්  අධික වැසි පතිත වුවහොත් එම ජලාශයේ සෙසු වාන් දොරටු ස්වයංක්‍රියව විවෘත වන බැවින් ජලාශ වේල්ලට පහලින් කොත්මලාඔයේ දෙපස පදිංචිකරුවන් සැලකිලිමත් ලෙස සිටින ලෙසයි නුවරඑලිය දිස්ත්‍රික් ආපදා කලමණාකරණ ඒකකය ඉල්ලා සිටියි.
-
-කාසල්රි සහ මාවුස්සාකැලේ ජල පෝෂක ප්‍රදේශවලට ඇද හැලෙන අධික වර්ෂාව සමග එම ජලාශවල ජල මට්ටම පිටාර මට්ටමට ආසන්න වී ඇති බවත්, ජලාශවල ජල මට්ටම ඉහළ යෑමත් සමග ලක්ෂපාන, නව ලක්ෂපාන, කැනියොන්, පොල්පිටිය සහ විමලසුරේන්ද්‍ර යන ජල විදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බවත්, එම නිසා කැනියොන් සහ ලක්ෂපාන ජලාශවල වාන් දොරටු විවෘත කර තිබිම නිසා කැළණි ගගේ ජල මට්ටම තරමක් ඉහළ ගොස් ඇති බවයි එම ජලාශභාර ඉංජිනේරුවරුන් කියා සිටියේ.
-
-◼️
-
-[Data](articles/c2e35562.json)
-
----
-
-### சர்வதேச தலைமைத்துவமும் நாற்கர நாடுகளும்
-
-*2025-08-03 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221706) · `ta`
-
-‘குவாட்’ அமைப்பின் ஊடாக வொஷிங்டன் தனது தலைமைத்துவத்தை  தக்க வைத்துக் கொள்ளலாம் என்ற எண்ணம், இந்தியாவின் சுதந்திரமான வெளியுறவுக் கொள்கையால் அதிகளவில் பின் தங்கி நிற்கிறது
-
-◼️
-
-[Data](articles/80ec7a0a.json)
-
----
-
-### දහයියාගල රක්ෂිතයේ මිය ගිය වන අලි සිරුරක් හමුවෙයි
-
-*2025-08-03 15:50:32* · [`adalk`](https://www.ada.lk/breaking_news/දහයියාගල-රක්ෂිතයේ-මිය-ගිය-වන-අලි-සිරුරක්-හමුවෙයි/11-417685) · `si`
-
-හම්බේගමුව පොලිස් වසමට අයත්, දහයියාගල රක්ෂිතයේ, කරමැටිය වැව් බැම්ම අසල ඇති වගුරු බිමක, මියගොස් සිටි වනඅලියකු ඊයේ ( 02 ) සොයාගත් බව හම්බෙිගමුව පොලිසිය පවසයි.
-
-මියගොස් ඇති වනඅලියා වයස අවුරැදු 35ක පමන පිරිමි සතෙකු බවත්, එම අලියාගේ උස අඩි 09ක් පමන වනබවත්, පොලිසිය පවසයි.
-
-වනඅලියා මිය යාමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, මේ සමිබන්ධ පශ්චාත් මරණ පරික්ෂණය ඌව හා දකුණු පලාත් වනජිවි පශු වෛද්‍ය ආනන්ද ධර්මකිර්ති මහතා විසින් සිදුකිරිමට නියමිතව තිබුනි.
-
-කල්තොට වනජිවි අඩවි කාර්යාලය හා හම්බේගමුව පොලිසිය මෙි සම්බන්ධයෙන් වෙන වෙනම විමර්ශණ කටයුතු සිදුකරයි.
-
-◼️
-
-[Data](articles/af438094.json)
-
----
-
-### அரபு சர்வாதிகாரிகளின் துரோகத்தை அம்பலப்படுத்தி வரும் பலஸ்தீனர்கள் மீதான இனப்படுகொலை
-
-*2025-08-03 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221703) · `ta`
-
-காஸாவில் அமெ­ரிக்­க-­ இஸ்­ரே­லிய இனப்­ப­டு­கொ­லையின் வர­லாறு எழு­தப்­படும் ஒரு நாள் வரும் போது அன்று அரபு சர்­வா­தி­கா­ரி­களின் பங்கு மிக மோச­மான துரோ­க­மாக எழு­தப்­படும்.  இன்­றைய  காலத்தின் தேவை ஜெரு­ச­லேமைக் கைப்­பற்ற ஒட்­ட­கத்தில் தனது பணி­யா­ள­னுடன் சென்ற உமர் போன்ற ஒரு கலீ­பாவின் தலை­மைத்­து­வமே அன்றி,  தமது சுய இருப்­புக்­காக முஸ்­லிம்­க­ளுக்கு எதி­ரான தீய நிகழ்ச்சி நிரல்­க­ளுடன் உள்ள அமெ­ரிக்­கா­வையும் இஸ்­ரே­லையும் நம்­பி­யி­ருக்கும் மற்றும் அவர்­க­ளோடு கை கோர்க்கும் ஆட்­சி­யா­ளர்கள் அல்ல.
-
-◼️
-
-[Data](articles/5aaa8dc6.json)
-
----
-
-### කෙහෙල්බද්දර පද්මෙගේ ගෝලයෙක් අල්ලයි
-
-*2025-08-03 15:39:34* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මෙගේ-ගෝලයෙක්-අල්ලයි/11-417684) · `si`
-
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන කෙහෙල්බද්දර පද්මෙ ගේ සමීපතම ගෝලයෙකු වන ගම්පහ දේවා නැමැත්තා 08/03 දින උදෑසන තායිලන්තය වෙත පළා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
-
-දිසානායකගේ දේවාන්මිණි දිසානායක නැමති මොහු 39 හැවිරිදි ගම්පහ ප්‍රදේශයේ මිනීමැරුම් , මත්ද්‍රව්‍ය ජාවාරම් ඇතුළු අපරාධ රාශියකටම චෝදනා ලබා ඇති පුද්ගලයෙකි.
-
-කෙහෙල්බද්දර පද්මෙ ඩුබායි හි සැගවී සිට පසුව තායිලන්තය වෙත පළා ගොස් සිටියදී , එරට ආරක්ෂක අංශ විසින් අත් අඩංගුවට ගෙන සිටියදී , එයින් මිදී අතුරුදන් වී සිටින්නෙකි.
-
-ගම්පහ දේවා නැමති අය 08/03 දින උදෑසන 08.10 ට තායිලන්තයේ බැංකොක් නුවර බලා ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 406 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී මෙම අත් අඩංගුවට ගැනීම සිදු වී තිබේ.
-
-මොහු මේ වනවිට වැඩිදුර විමර්ශන කටයුතු සදහා පෑලියගොඩ කොළඹ උතුර අපරාධ කොට්ඨාශය වෙත භාර දීමට පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/abfcc55f.json)
-
----
-
-### පාකිස්තාන - අයර්ලන්ත ක්‍රිකට් තරගාවලිය වසර 2කට කල්යයි
-
-*2025-08-03 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212975) · `si`
-
-පාකිස්තානයේ දී පැවැත්වීමට නියමිතව තිබූ පාකිස්තාන - අයර්ලන්ත ක්‍රිකට් තරගාවලිය 2027 වසර දක්වා කල් දැමීමට සිදුව තිබේ.
-
-තරග කාලසටහන්වල ගැටලුවක් හේතුවෙන් මෙම පියවර ගැනීමට සිදුව ඇති බව වාර්තා වේ.
-
-විස්සයි විස්ස තරග තුනකින් සහ එක්දින තරග තුනකින් සමන්විත තරගාවලිය සැප්තැම්බර් - ඔක්තෝබර් මාසවලදී පැවැත්වීමට නියමිතව තිබුණි.
-
-අයර්ලන්ත කණ්ඩායමේ පළමු පාකිස්තා තරග සංචාරය ලෙස පැවැත්වීමට නියමිතව තිබූ මෙම තරගාවලියට අදාළ සැලසුම් 2024 වසරේ දී ප්‍රකාශයට පත් කර තිබූ බව විදෙස් වාර්තා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/df02e259.json)
-
----
-
-### රුසියාවට අදත් භූමිකම්පාවක්
-
-*2025-08-03 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/212974) · `si`
-
-රුසියාවේ කුරිල් දූපත් ආසන්නයේ අද (3) රික්ටර් මාපකයේ 7.0ක භූමිකම්පාවක් සිදුව ඇති බව විදෙස් මධ්‍ය සඳහන් කළේය.
-
-මේ හේතුවෙන් කම්චැට්කා අර්ධද්වීපයට සුනාමි අනතුරු ඇඟවීමක් ද රුසියානු හදිසි සේවා අමාත්‍යාංශය විසින් සිදුකර ඇත.
-
-කෙසේ වෙතත් අපේක්ෂා මට්මට මුහුදු රළ පැමිණ නොමැති අතර, ඒ හේතුවෙන් පසුව එම අනතුරු ඇඟවීම් ඉවත්කර තිබේ.
-
-◼️
-
-[Data](articles/45bd5aa0.json)
-
----
-
-### நுவரெலியா சீதை அம்மன் ஆலயத்தில் தியான மண்டபம்  திறந்து வைக்கப்பட்டது
-
-*2025-08-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221700) · `ta`
-
-நுவரெலியா, சீத்தா எலிய பகுதியிலுள்ள சீதை அம்மன் ஆலயத்தில் அசோக வனம் அனுஸ்ரீ  தியான மண்டபம் இன்று ஞாயிற்றுக்கிழமை (03) வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் மற்றும் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோரால் திறந்து வைக்கப்பட்டது.
-
-இந்நிகழ்வில், சிறப்பு விருந்தினர் இந்தியாவின் ஆன்மீகத் தலைவர் குபா தீதி, சுற்றுலாத்துறை பிரதி அமைச்சர் ருவன் ரணசிங்க, கல்வி மற்றும் உயர்கல்வி பிரதி அமைச்சர் மதுர செனவிரத்ன, பாராளுமன்ற உறுப்பினர் வி.எஸ். இராதாகிருஷ்ணன், இலங்கை தொழிலாளர் காங்கிரசின் தலைவர் செந்தில் தொண்டமான், சமூக தலைவர்கள் மற்றும் இந்தியா மற்றும் உள்ளூரைச் சேர்ந்த நூற்றுக்கணக்கான பக்தர்கள் கலந்து கொண்டனர்.
-
-தியானம் மற்றும் ஆன்மீக நல்வாழ்வுக்காக அர்ப்பணிக்கப்பட்ட இடமான அசோக வனம் அனுஸ்ரீ  தியான மண்டபத்திற்கு இந்தியாவின் புது டில்லியைச் சேர்ந்த பக்தர்களால் வழங்கப்படும் தனியார் நன்கொடைகள் மூலம் நிதியளிக்கப்படுகிறது.
-
-...
-
-[Data](articles/05b5b350.json)
-
----
-
-### Legal action against top public officials who fail to submit asset declarations: CIABOC
-
-*2025-08-03 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111126/legal-action-against-top-public-officials-who-fail-to-submit-asset-declarations-ciaboc) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has announced that legal action will be taken against any Executive Grade state officials who fail to submit their assets and liabilities declarations by 31 August 2025.
-
-Issuing a statement in this regard, the Commission noted that officials who were required to submit their declarations by 31 March should have submitted their asset and liability declarations to the respective heads of their institutions by 30 June, in order for them to be forwarded to CIABOC.
-
-However, the Commission added that legal action will be taken under Section 90 of the Anti-Corruption Act, No. 9 of 2023, against officials who fail to submit their asset and liability declarations to their heads of institutions by August 31.
-
-Furthermore, the Commission announced that a fine will be imposed in accordance with the provisions of the Act for late declarations submitted between 30 June 2025 and 31 August 2025.
-
-...
-
-[Data](articles/8aa20762.json)
-
----
-
-### மூதூர் பெரியபாலத்தில் மோட்டார் குண்டு கைப்பற்றல்
-
-*2025-08-03 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/221698) · `ta`
-
-திருகோணமலை - மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட பெரியபாலம் பகுதியில் இன்று ஞாயிற்றுக்கிழமை (03) மோட்டார் குண்டொன்று மீட்கப்பட்டுள்ளது.
-
-மட்டக்களப்பு பிரதான வீதி, பெரியபாலம் மூதூர் பகுதியில் வசித்து வரும் என்.எம்.எம். நிமாஸ் அஹமட் என்பவரின் காணியில் மழை காரணமாக , குறித்த மோட்டார் குண்டு வெளிப்பட்டதாகத் தெரியவந்துள்ளது.
-
-இதனை அடுத்து, சம்பவம் குறித்து மூதூர் பொலிஸாருக்கு தகவல் வழங்கப்பட்டதாகவும், அவர்கள் சம்பவ இடத்திற்கு வருகை தந்து மேலதிக விசாரணைகளை ஆரம்பித்துள்ளதாகவும் பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/af70c1b1.json)
-
----
-
-### බෞද්ධ කටයුතු කොමසාර්ස් ජනරාල් ධුරයෙන් ඉවත් කරයි
-
-*2025-08-03 15:12:41* · [`adalk`](https://www.ada.lk/breaking_news/බෞද්ධ-කටයුතු-කොමසාර්ස්-ජනරාල්-ධුරයෙන්-ඉවත්-කරයි/11-417683) · `si`
-
-බෞද්ධ කටයුතු කොමසාර්ස් ජනරාල් ප්‍රේමසිරි රත්නායක මහතා එම ධුරයෙන් ඉවත් කිරීමට කටයුතු කර තිබේ.
-
-රාජකාරිය නිසි පරිදි ඉටු නොකිරීමේ චෝදනා මත කැබිනට් මණ්ඩලය ගත් තීරණයකට අනුව  මෙලෙස ඔහුව ධුරයෙන් ඉවත් කිරීමට​ කටයුතු කර ඇත.
-
-දෙපාර්තමේන්තුවේ අතිරේක කොමසාරිස්වරයා ලෙස කටයුතු කළ කසුන් වැල්ලහේවා මහතා එම ධුරයේ වැඩ බැලීම සඳහා පත් කර තිබේ.
-
-◼️
-
-[Data](articles/eb744189.json)
-
----
-
-### கத்தியால் குத்தி: தலையில் கல்லால் தாக்கியதில் இளைஞன் பலி
-
-*2025-08-03 15:06:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்தியால்-குத்தி-தலையில்-கல்லால்-தாக்கியதில்-இளைஞன்-பலி/175-362215) · `ta`
-
-திருகோணமலை அலஸ்வத்த பகுதியில் உள்ள சுற்றுலா விடுதியில் ஞாயிற்றுக்கிழமை (03) நடைபெற்ற விருந்தில் கலந்து கொண்டு திரும்பிக் கொண்டிருந்த இரு குழுக்களிடையே ஏற்பட்ட மோதலில் ஒரு இளைஞர் கத்தியால் குத்தப்பட்டு கொல்லப்பட்டதாக திருகோணமலை தலைமையக பொலிஸார் தெரிவித்துள்ளனர்.
-
-கொல்லப்பட்ட நபர் திருகோணமலை கிருஷ்ணா லேனைச் சேர்ந்த டி.எச். வினோத் (வயது 33) என அடையாளம் காணப்பட்டுள்ளார்.
-
-விருந்து நடைபெற்ற ஹோட்டலில் ஏற்பட்ட கருத்து மோதலே கொலைக்கு வழிவகுத்ததாக பொலிஸார் தெரிவிக்கின்றனர். கொலை தொடர்பாக  சந்தேக நபர்கள் அறுவரை  கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-இறந்த இளைஞருக்கும் தாக்குதல் நடத்தியவர்களுக்கும் இடையிலான பழைய தகராறு மோதலுக்கு வழிவகுத்ததாக நம்பப்படுகிறது. கத்தியால் குத்தப்பட்டு தரையில் விழுந்த இறந்தவரின் தலையில் கல்லால் தாக்கப்பட்டதாகவும் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/8df218b9.json)
 
 ---

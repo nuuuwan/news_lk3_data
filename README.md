@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 21:49:01**
+As of **2025-08-05 22:14:36**
 
 ## Newspaper Stats
 
-*Scraped **68,887** Articles*
+*Scraped **68,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,198
 islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,636
+adalk | 6,637
 adaderanalk | 8,553
-tamilmirrorlk | 10,034
+tamilmirrorlk | 10,035
 virakesarilk | 11,477
-adaderanasinhalalk | 11,861
+adaderanasinhalalk | 11,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,887 articles have been extended.
+61,973 (90.0%) of 68,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ආණ්ඩුව පළිගන්න වැඩකරනවා - මහින්ද
+
+*2025-08-05 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213060) · `si`
+
+වත්මන් ආණ්ඩුව හිටපු ජනාධිපතිවරුන්ගේ වරප්‍රසාද ඉවත්කරන්නේ පළිගැනීමේ චේතනාවෙන් බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+අද (05) පස්වරුවේ කොළඹ පැවති වැඩසටහනකින් අනතුරුව මාධ්‍යවේදීන් නැඟූ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+"අපිට තිබුණේ ජනතාව දුන්න වරප්‍රසාද ඊට වඩා ලොකු දෙයක් නැහැ අපිට. ඒක තිබෙන තාක්කල් ඕනේ වරප්‍රසාදයක් ඉවත් කළාට ප්‍රශ්නයක් නැහැ."
+
+ප්‍රශනය - දැන් මෙහෙම වුණොත් විජේරාමේ අත්හැරලා ඔබතුමාට මැදමුලනට යන්න වෙයිද ?
+
+ප්‍රශනය - ඔබ හිතන විදිහට ආණ්ඩුව එහෙම දෙයක් කරන්නේ මොනවගේ පරමාර්ථයකින්ද ?
+
+◼️
+
+[Data](articles/566b5634.json)
+
+---
 
 ### செம்மணி மனிதப் புதைகுழி: மேலும் 6 எலும்புக்கூட்டு தொகுதிகள் கண்டுபிடிப்பு
 
@@ -67,6 +87,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ab9fc8d1.json)
+
+---
+
+### இன்றும் புதிதாக 6 என்புக்கூட்டு தொகுதிகள் அடையாளம்
+
+*2025-08-05 21:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-புதிதாக-6-என்புக்கூட்டு-தொகுதிகள்-அடையாளம்/175-362367) · `ta`
+
+செம்மணி - சித்துப்பாத்தி மனித புதைகுழி வளாகத்தில் இரண்டாவது நாளாக இன்றைய தினமும் முன்னெடுக்கப்பட்ட ஸ்கேன் ஆய்வுகளில் புதிதாக 6 என்புக்கூட்டு தொகுதிகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+அதன் அடிப்படையில் கடந்த 16 நாட்களாக முன்னெடுக்கப்பட்ட அகழ்வு பணியில், 65 என்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+இரண்டாம் கட்ட பணிகளுக்காக 45 நாட்கள் நீதிமன்றினால் அனுமதிக்கப்பட்டுள்ள நிலையில், இன்றைய தினம் 31 ஆவது நாளாக அகழ்வுப்பணிகள் முன்னெடுக்கப்பட்டன.
+
+இந்த நிலையில் இன்று அகழ்ந்து எடுக்கப்பட்ட 04 என்புக்கூட்டு தொகுதியுடன் சேர்த்து, இதுவரை 130 என்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளதுடன், இதுவரையில் 141 என்புக்கூட்டு தொகுதிகள் வெளிப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/5b58aa65.json)
 
 ---
 
@@ -321,6 +359,24 @@ Therefore, the renovation and development of the Pettah Central Bus Stand, appro
 ...
 
 [Data](articles/5fc8350b.json)
+
+---
+
+### රු. 10000ක අල්ලස් ගත් පොලිස් සැරයන් අත්අඩංගුවට
+
+*2025-08-05 18:48:27* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලස්-ගත්-පොලිස්-සැරයන්-අත්අඩංගුවට/11-417751) · `si`
+
+රු.10000ක අල්ලස් මුදලක් ලබා ගත් පොලිස් සැරයන්වරයෙකු අත් අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ  පසු මේ මස 18 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කළ බව අල්ලස් කොමිසම සඳහන් කරයි.
+
+කන්දකැටිය ප්‍රදේශයේ ව්‍යාපාරිකයකු විසින් සිදු කළ පැමිණිල්ලක් අනුව කීර්ති බණ්ඩාරපුර පොලිස් ස්ථානයේ සැරයන්වරයෙකු රු. 10,000/- අල්ලස් ඉල්ලා ලබා ගැනීමේදී කීර්ති බණ්ඩාරපුර හෝටලයකදී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අද (05දා)  අත්අඩංගුවට ගෙන තිබේ.
+
+පැමිණිලිකරුට අයත් වැලි ප්‍රවාහනය කරනු ලබන ලොරි රථයක් නවතා එහි වැලි ප්‍රවාහන බලපත්‍රය අත්සන් නොකර සිටීමටත්, වැලි ප්‍රවාහන කටයුතු බාධාවකින් තොරව කරගෙන යාමටත් රු. 10,000/- ක අල්ලස් ඉල්ලා ලබා ගැනීමේදී සැකකරු අත්අඩංගුවට ගත්  බව අල්ලස් කොමිසම සඳහන් කරයි.
+
+අත්අඩංගුවට ගත් සැකකරු වලපනේ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මේ මස.18 දින දක්වා රක්ෂිත බන්ධනාගාරගත කළ බවද අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ මාධ්‍ය ඒකකය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/0ff290a4.json)
 
 ---
 
@@ -1763,61 +1819,5 @@ The Cabinet of Ministers has granted approval to appoint a new Delimitation Comm
 ◼️
 
 [Data](articles/277f1650.json)
-
----
-
-### MPs’ Rs. 1 million insurance coverage to be slashed
-
-*2025-08-05 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111190/mps-rs-1-million-insurance-coverage-to-be-reduced) · `en`
-
-The Cabinet of Ministers has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
-
-At the Cabinet meeting held on 15-05-2023, approval was granted to implement a group insurance policy subject to a maximum insurance coverage of Rs. 1 million per parliamentary year.
-
-Accordingly, relevant insurance policies have been provided over the past period.
-
-During the 2025 Budget Speech, President Anura Kumara Dissanayake proposed reducing the insurance cover limit of Rs. 1,000,000 to Rs. 250,000.
-
-Following this, the Cabinet of Ministers has approved the revised insurance limit of Rs. 250,000 for a Member of Parliament from the insurance year scheduled to commence on October 09, 2025.
-
-◼️
-
-[Data](articles/6c853ff7.json)
-
----
-
-### MPs’ Rs. 1 million insurance coverage to be slashed
-
-*2025-08-05 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111190/mps-rs-1-million-insurance-coverage-to-be-slashed) · `en`
-
-The Cabinet of Ministers has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
-
-At the Cabinet meeting held on 15-05-2023, approval was granted to implement a group insurance policy subject to a maximum insurance coverage of Rs. 1 million per parliamentary year.
-
-Accordingly, relevant insurance policies have been provided over the past period.
-
-During the 2025 Budget Speech, President Anura Kumara Dissanayake proposed reducing the insurance cover limit of Rs. 1,000,000 to Rs. 250,000.
-
-Following this, the Cabinet of Ministers has approved the revised insurance limit of Rs. 250,000 for a Member of Parliament from the insurance year scheduled to commence on October 09, 2025.
-
-◼️
-
-[Data](articles/ce892f69.json)
-
----
-
-### குடும்பத்தினர் சம்மதிக்காத காதல் திருமணங்களுக்கு தடை
-
-*2025-08-05 12:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தினர்-சம்மதிக்காத-காதல்-திருமணங்களுக்கு-தடை/175-362338) · `ta`
-
-குடும்பத்தினரின் சம்மதம் இல்லாத காதல் திருமணங்களுக்கு தடை விதிக்கப்பட்டுள்ளது. இது தொடர்பாக கிராம சபையில் ஊர் மக்கள் ஒன்றுகூடி தீர்மானம் போட்டு, அதை நிறைவேற்றி உள்ளனர். இது இப்போது சர்ச்சையாகி உள்ளது. பஞ்சாப் மாநிலம் மொஹாலி மாவட்டத்தில் அமைந்துள்ள கிராமம் ஒன்றிலேயே இவ்வாறு இடம்பெற்றுள்ளது.
-
-சண்டிகரில் இருந்து 10 கிலோமீட்டர் தொலைவில் அமைந்துள்ள மனக்பூர் ஷெரீஃப் கிராமத்தில்தான் இந்த தீர்மானம் கடந்த மாதம் 31-ம் திகதி நிறைவேற்றப்பட்டுள்ளது. இது குறித்து கிராம பஞ்சாயத்து நிர்வாகிளில் ஒருவரான தல்வீர் சிங் கூறியதாவது:
-
-“இது தண்டனை அல்ல. எங்களது பாரம்பரிய மரபு மற்றும் மதிப்புகளைப் பாதுகாப்பதற்கான நடவடிக்கை இது. நாங்கள் காதல் திருமணம் அல்லது சட்டத்துக்கு எதிரானவர்கள் அல்ல. அதை எங்கள் பஞ்சாயத்தில் நாங்கள் அனுமதிக்கவில்லை” என அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/14008fba.json)
 
 ---

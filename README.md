@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 15:26:15**
+As of **2025-08-05 15:37:26**
 
 ## Newspaper Stats
 
-*Scraped **68,811** Articles*
+*Scraped **68,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,123 @@ dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,625
 adaderanalk | 8,541
-tamilmirrorlk | 10,013
+tamilmirrorlk | 10,019
 virakesarilk | 11,461
-adaderanasinhalalk | 11,847
+adaderanasinhalalk | 11,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,811 articles have been extended.
+61,973 (90.1%) of 68,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### 'கிங்டம்' படத்தை எதிர்த்து திரையரங்கு முற்றுகை
+
+*2025-08-05 15:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிங்டம்-படத்தை-எதிர்த்து-திரையரங்கு-முற்றுகை/175-362349) · `ta`
+
+ராமநாதபுரத்தில் ’கிங்டம்’ படத்தை திரையிட நாம் தமிழர் கட்சியினர் எதிர்ப்பு தெரிவித்து, திரையரங்கை முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனர். இதனால் பொலிஸாக்கும், நாம் தமிழர் கட்சியினருக்கும் இடையே தள்ளுமுள்ளு ஏற்பட்டது.
+
+அதேபோல் கோயம்புத்தூரில் கிங்டம் படம் திரையிடப்பட்ட திரையரங்கை நாம் தமிழர் கட்சியினர் முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனர்.
+
+நாம் தமிழர் கட்சியின் கோவை மண்டல செயலாளர் அப்துல் வகாப் தலைமையில் இந்த முற்றுகை போராட்டம் நடைபெற்றது.
+
+இதனையடுத்து, முற்றுகையில் ஈடுபட்ட நாம் தமிழர் கட்சியினர் 16 பேரை பொலிஸார் கைது செய்தனர்.
+
+இதேபோல் நாம் தமிழர் கட்சி ஒருங்கிணைப்பாளர் சீமான் கிங்டம் படத்திற்கு தடை விதிக்க வேண்டும் என அறிக்கை வெளியிட்டுள்ளார்
+
+அவரது அறிக்கையில், ”கிங்டம் திரைப்படம் ஈழ சொந்தங்களை குற்றப்பரம்பரை போல, மிகத் தவறான சித்தரிக்கும் காட்சிகள் இடம்பெற்றுள்ளன.
+
+...
+
+[Data](articles/c6bc5305.json)
+
+---
+
+### அவுஸ்திரேலிய உயர் ஸ்தானிகர் பிரதமரைச் சந்தித்தார்
+
+*2025-08-05 15:24:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-உயர்-ஸ்தானிகர்-பிரதமரைச்-சந்தித்தார்/175-362348) · `ta`
+
+பதவிக்காலம் முடிந்து நாட்டிலிருந்து விடைபெற்றுச் செல்லும் இலங்கைக்கான அவுஸ்திரேலிய உயர் ஸ்தானிகர் போல் ஸ்டீவன்ஸ், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை ஞாயிற்றுக்கிழமை 4 அன்று பிரதமர் அலுவலகத்தில் சந்தித்தார்.
+
+உயர் ஸ்தானிகரை வரவேற்ற பிரதமர், தனது பதவிக் காலத்தில் இருதரப்பு உறவுகளை வலுப்படுத்த அவர் ஆற்றிய பங்களிப்பிற்காக நன்றி தெரிவித்தார்.
+
+இலங்கையில் அண்மைக்காலமாக முன்னெடுக்கப்பட்ட நடவடிக்கைகளைப் பாராட்டிய உயர் ஸ்தானிகர், இலங்கையின் வளர்ச்சி முயற்சிகளுக்கு அவுஸ்திரேலியாவின் தொடர்ச்சியான ஒத்துழைப்பு கிடைக்கும் என்று உறுதியளித்தார்.
+
+இந்தக் கலந்துரையாடலின் போது, நிறுவன ஒழுங்குகளை வலுப்படுத்துதல், முன்பு நிறுத்தப்பட்டிருந்த திட்டங்களை மீண்டும் தொடங்குதல் மற்றும் கல்விச் சீர்திருத்தங்கள் உட்பட அரசாங்கத்தின் முன்னுரிமைகளை பிரதமர் விளக்கினார். இத்தகைய திட்டங்களின் முக்கியத்துவத்தை ஏற்றுக்கொண்ட உயர் ஸ்தானிகர், கல்விச் சீர்திருத்தங்கள் உட்பட இலங்கையின் பல திட்டங்களுக்கு அவுஸ்திரேலிய அரசாங்கத்தின் தொடர்ச்சியான ஆதரவு கிடைக்கும் என்று மீண்டும் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/944aaf82.json)
+
+---
+
+### ஈழத் தமிழர்களை மோசமாக சித்தரிக்கும் ’கிங்டம்’க்கு தடை விதிக்கவும் : வைகோ
+
+*2025-08-05 15:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஈழத்-தமிழர்களை-மோசமாக-சித்தரிக்கும்-கிங்டம்-க்கு-தடை-விதிக்கவும்-வைகோ/54-362347) · `ta`
+
+ஈழத் தமிழர்களை மிக மோசமாக சித்தரிக்கும் கிங்டம் படத்திற்கு தடை விதிக்க வேண்டும் என வைகோ தெரிவித்துள்ளார்.
+
+கௌதம் தின்னனுரி இயக்கத்தில் விஜய் தேவரகொண்டா, பாக்யஸ்ரீ போர்சே உள்ளிட்ட பலர் நடித்துள்ள திரைப்படம் "கிங்டம்" (kingdom). இப்படம் கடந்த ஜூலை 31ஆம் திகதி தமிழ், தெலுங்கு ஆகிய மொழிகளில் வெளியானது.
+
+இந்நிலையில் கிங்டம் திரைப்படம் குறித்து மதிமுக பொதுச்செயலாளர் வைகோ வெளியிட்டுள்ள அறிக்கையில், “நடிகர் விஜய் தேவரகொண்டா நடிப்பில் வெளியான தெலுங்கு திரைப்படமான கிங்டம், ஈழத்தமிழர்களை மிக மோசமாக சித்தரித்து காட்டுகிறது. இந்தியாவிலிருந்து இலங்கைக்கு குடிபெயர்ந்து சென்ற ஈழத்தமிழர்களை அடிமைகள் போலவும், தீண்ட தகாதவர்களை நடத்துவது போன்று இத்திரைப்படத்தில் காட்சிகள் இடம் பெற்றுள்ளன.
+
+...
+
+[Data](articles/562c67b6.json)
+
+---
+
+### සමන් ඒකනායක CID යෙන් පිටව යයි
+
+*2025-08-05 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213044) · `si`
+
+හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පිටව ගොස් තිබේ.
+
+අද (05) උදෑසන 9.30ට පමණ ප්‍රකාශයක් ලබා දීම සඳහා ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබුණි.
+
+ඒ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් එවකට සිදුකළ සංචාරයක් සම්බන්ධයෙන් කරනු ලබන විමර්ශනයකට අනුවය.
+
+◼️
+
+[Data](articles/22a19e45.json)
+
+---
+
+### AEGIS LEXICON 2025 - பாதுகாப்பு சைபர் கண்காட்சி
+
+*2025-08-05 15:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AEGIS-LEXICON-2025-பாதுகாப்பு-சைபர்-கண்காட்சி/175-362346) · `ta`
+
+பாதுகாப்பு அமைச்சசின் கீழ் செயல்படும் பாதுகாப்பு சைபர் கட்டளை (DCC),சமீபத்தில் அமைச்சு  வளாகத்தில் AEGIS LEXICON 2025 -பாதுகாப்பு சைபர் கண்காட்சியை வெற்றிகரமாக நடத்தியது.
+
+ஞாயிற்றுக்கிழமை (03) அன்று நிறுவப்பட்ட DCC யின் இரண்டாம் ஆண்டு நிறைவைக் குறிக்கும் வகையில் இந்த வருடாந்த நிகழ்வு நடத்தப்பட்டது. இது டிஜிட்டல் பாதுகாப்பு மற்றும் சைபர் பாதுகாப்பு திறன்களில் இலங்கையின் வளர்ந்து வரும் நிலையை எடுத்துக்காட்டுகிறது.
+
+இந்நிகழ்வில் பிரதான உரை நிகழ்த்திய பாதுகாப்பு செயலாளர் எயார்  வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு), DCC ஒரு முழுமையான சைபர் படையணியாக பரிணமிக்க வேண்டியதன் வளர்ந்து வரும் அவசியத்தை எடுத்துரைத்தார்.
+
+அமைச்சின் பரந்த பாதுகாப்பு நோக்கங்களுடன் இணைந்து, சைபர் தளத்தில் விரிவான தேசிய பாதுகாப்பை உறுதி செய்வதற்காக DCC மூலோபாய, செயல்பாட்டு மற்றும் தந்திரோபாய மட்டங்களில் செயல்படக்கூடியதாக இருக்க வேண்டும் என்று அவர் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/a2767190.json)
+
+---
+
+### ‘The First Fools’ who saw Singapore through to independence
+
+*2025-08-05 15:03:00* · [`islandlk`](http://island.lk/the-first-fools-who-saw-singapore-through-to-independence/) · `en`
+
+In a bold and timely release marking Singapore’s 60th year of independence, a new book is shaking up the familiar narrative of nation-building by offering a surprising and deeply human portrait of the men behind the republic’s birth. ‘The First Fools: B-Sides of Lee Kuan Yew’s A-Team’ is a literary excavation of the 10 men who signed the 1965 Separation Agreement, offering fresh insight into their lives beyond the headlines and history books.
+
+Published by The Nutgraf — a boutique editorial studio run largely by former journalists — the anthology is not a typical commemorative volume. Instead of celebrating political milestones and statecraft, it uncovers the untold personal stories of Singapore’s founding fathers: their hobbies, love lives, eccentricities, and even secret pasts.
+
+...
+
+[Data](articles/292744d6.json)
+
+---
 
 ### ரஷ்யாவின் பெட்ரோபாவ்லோவ்ஸ்க் பகுதியில் மீண்டும் பூகம்பம்
 
@@ -51,6 +155,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/69b45b5c.json)
+
+---
+
+### ’’யவ்ம்-இ-இஸ்தெஹ்சால்’’  தினம் நினைவூட்டல்
+
+*2025-08-05 14:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/யவ்ம்-இ-இஸ்தெஹ்சால்-தினம்-நினைவூட்டல்/46-362345) · `ta`
+
+இந்திய சட்டவிரோத ஆக்கிரமிப்பு ஜம்மு மற்றும் காஷ்மீரில் ஆகஸ்ட் 5, 2019ல் இந்தியா மேற்கொண்ட சட்டவிரோத மற்றும் ஒரு தலைப்பட்ச நடவடிக்கைகளை நினைவூட்டும் வகையில் "யவ்ம்-இ-இஸ்தெஹ்சால்" தினம் பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் செவ்வாய்கிழமை (05) அன்று அனுஷ்டிக்கப்பட்டது.
+
+முக்கியப் பேச்சாளர்கள் காஷ்மீரிகளின் அவல நிலையைப் சுட்டிக் காட்டியதோடு இந்த சர்ச்சையானது ஐ.நா பாதுகாப்பு கவுன்சிலின் நிகழ்ச்சி நிரலில் உள்ள பழமையான விஷயங்களில் ஒன்று என்றும் அவர்கள் தெரிவித்தனர்.
+
+துரதிர்ஷ்டவசமாக, இந்தியா தனது உறுதி மொழிகளை மதிக்க மறுப்பதாலும், அடிப்படை மனித உரிமைகள் மற்றும் சர்வதேச சட்டங்களை மதிக்காததாலும் இந்த சர்ச்சை இன்னும் தீர்க்கப்படாமல் உள்ளது.
+
+மனிதாபிமான மற்ற இராணுவ முற்றுகை, தகவல் தொடர்பு முற்றுகை, சுற்றி வளைப்பு மற்றும் தேடுதல் நடவடிக்கைகள், போலி என் கவுன்டர்கள் மூலம் அப்பாவி காஷ்மீரிகள் மீதான அடக்கு முறை மற்றும் மிருகத்தனமான தாக்குதலை உயர்ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வுநிலை) ஃபஹீம்உல்அஸீஸ் தனது உரையில் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/2489e082.json)
 
 ---
 
@@ -166,6 +288,22 @@ The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is locate
 
 ### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
 
+*2025-08-05 14:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேசபந்துவை-நீக்கும்-முடிவை-நாங்கள்-ஆதரிக்கிறோம்/150-362341) · `ta`
+
+பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பதவி நீக்கம் செய்யும் தீர்மானத்தை ஐக்கிய மக்கள் சக்தி (SJB) ஆதரிப்பதாக எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரகுமான் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்," என்று சபை விவாதத்தின் போது ரகுமான் கூறினார், மாலை 4 மணிக்கு திட்டமிடப்பட்ட வாக்கெடுப்புக்கு முன்னதாக அவர் கட்சியின் நிலைப்பாட்டை உறுதிப்படுத்தினார்.
+
+2002 ஆம் ஆண்டு 5 ஆம் இலக்க அதிகாரிகளை நீக்குதல் சட்டத்தின் கீழ் கொண்டுவரப்பட்ட இந்த பிரேரணை, கடுமையான தவறான நடத்தை, அதிகார துஷ்பிரயோகம் மற்றும் குற்றவியல் உடந்தையாக இருந்ததற்கான கண்டுபிடிப்புகளின் அடிப்படையில் தென்னக்கோனை பணிநீக்கம் செய்ய முயல்கிறது. அரசியலமைப்பு சபையால் நியமிக்கப்பட்ட சிறப்புக் குழு, தென்னக்கோன் பொலிஸ் திணைக்களத்தில் எந்தப் பதவியையும் வகிக்கத் தகுதியற்றவர் என்று முன்னர் முடிவு செய்திருந்தது.
+
+...
+
+[Data](articles/407da8ae.json)
+
+---
+
+### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
+
 *2025-08-05 14:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவை-நீக்கும்-முடிவை-நாங்கள்-ஆதரிக்கிறோம்/175-362341) · `ta`
 
 பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பதவி நீக்கம் செய்யும் தீர்மானத்தை ஐக்கிய மக்கள் சக்தி (SJB) ஆதரிப்பதாக எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரகுமான் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் தெரிவித்தார்.
@@ -184,7 +322,7 @@ The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is locate
 
 *2025-08-05 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213042) · `si`
 
-ඊශ්‍රායල ජාතිකයින්ට ෆී විසා ලබාදීම පිටුපස විදේශ කටයුතු අමාත්‍යාංශයේ ඉහළ පුටුවල සිටින පුද්ගලයින්ගෙන් රජයට බලපෑම් එල්ල වූ බවට මේ දිනවල පුවතක් වාර්තා වුණි.
+ඊශ්‍රායල ජාතිකයින්ට free Visa ලබාදීම පිටුපස විදේශ කටයුතු අමාත්‍යාංශයේ ඉහළ පුටුවල සිටින පුද්ගලයින්ගෙන් රජයට බලපෑම් එල්ල වූ බවට මේ දිනවල පුවතක් වාර්තා වුණි.
 
 ඒ සම්බන්ධයෙන් අද (05) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසා සිටියේ, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය මැදිහත් වීමෙන් අදාළ රටවල් ලැයිස්තුව සකස් කරනු ලැබුවේ, සංචාරක පැමිණීම සහ ඔවුන් මෙරටට ගෙන එනු ලබන ඩොලර් ආදායම අනුව බවය.
 
@@ -1683,147 +1821,5 @@ The female suspects are aged 22, 30, and 43, while the male suspects are Indian 
 ◼️
 
 [Data](articles/0e177391.json)
-
----
-
-### අදත් හවසට තැනින් තැන වැසි
-
-*2025-08-05 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213023) · `si`
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු, උතුරු-මැද, ඌව සහ නැගෙනහිර පළාත්වල ප.ව. 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තු ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/9ad9e47c.json)
-
----
-
-### Tourism Dy Minister clarifies Minister Vijitha Herath’s statement on tourism earnings
-
-*2025-08-05 05:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111170/tourism-dy-minister-clarifies-minister-vijitha-heraths-statement-on-tourism-earnings) · `en`
-
-Deputy Minister of Tourism Ruwan Ranasingha has provided clarification regarding a statement made by the Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath who claimed that an income of USD 3.7 billion had been earned from tourist arrivals since January 1, 2025.
-
-Deputy Minister Ranasingha stated that, according to the report issued by the Central Bank of Sri Lanka (CBSL), the income earned from tourism as of the end of June has been recorded as USD 1.7 billion.
-
-However, he noted that the data for July is not yet included, and added that he does not believe such a high income as claimed by the Subject Minister would have been generated in the month of July alone.
-
-...
-
-[Data](articles/3d29069b.json)
-
----
-
-### Trump threatens India with ‘substantial’ tariff hike for buying Russian oil
-
-*2025-08-05 05:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111169/trump-threatens-india-with-substantial-tariff-hike-for-buying-russian-oil) · `en`
-
-Donald Trump has threatened to “substantially” raise tariffs against India over its purchase of oil from Russia.
-
-“They [India] don’t care how many people in Ukraine are being killed by the Russian War Machine,” the US president wrote on his online platform, Truth Social, on Monday.
-
-India is currently among the largest buyers of Russian oil. It has become an important export market for Moscow after several European countries cut trade when Russia launched its full-scale invasion of Ukraine in 2022.
-
-Trump did not specify what the new tariff would be, but it comes just days after he unveiled a hefty 25% levy on India.
-
-In a statement, a spokesman for India’s foreign ministry, Randhir Jaiswal, said the US had encouraged India to import Russian gas at the start of the conflict, “for strengthening global energy markets stability”.
-
-He said India “began importing from Russia because traditional supplies were diverted to Europe after the outbreak of the conflict”.
-
-...
-
-[Data](articles/5f4aed60.json)
-
----
-
-### Fairly heavy rainfall above 50mm expected today
-
-*2025-08-05 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111168/fairly-heavy-rainfall-above-50mm-expected-today) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa, Central and North-Western provinces and in the Galle and Matara districts today (05), the Department of Meteorology said.
-
-Showers or thundershowers will occur at several places in the Northern, North-Central, Uva and Eastern provinces after 1.00 p.m., the Met. Department.
-
-Fairly heavy falls of above 50 mm are likely at some places in the Uva province and in the Ampara and Batticaloa districts.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ffadb336.json)
-
----
-
-### திடீர் மின்தடை: இன்று பகிரங்க விசாரணை
-
-*2025-08-05 03:40:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-மின்தடை-இன்று-பகிரங்க-விசாரணை/175-362314) · `ta`
-
-நாடு முழுவதும் கடந்த பெப்ரவரி 9 ஆம் திகதியன்று ஏற்பட்ட திடீர் மின் தடை குறித்து இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு இன்று பகிரங்க விசாரணையொன்றை முன்னெடுக்கவுள்ளது.
-
-கொழும்பிலுள்ள பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் இன்று காலை 8:30 மணி முதல் மாலை 6:00 மணி வரை விசாரணைகள் முன்னெடுக்கப்படவுள்ளன.
-
-மின்சாரத் துறையில் வெளிப்படைத்தன்மையை உறுதி செய்வதையும் மின்வெட்டுக்கான மூல காரணங்களை அடையாளம் காண்பதையும் இந்த அமர்வு நோக்கமாகக் கொண்டுள்ளதாக அந்த ஆணைக்குழு தெரிவித்துள்ளது.
-
-இதில் பகேற்பதற்காக பொதுமக்களுக்கும் தொடர்புடைய தரப்பினருக்கும் அழைப்பு விடுக்கப்பட்டுள்ளதாக இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/2adf7925.json)
-
----
-
-### செம்மணியில் நேற்று 5 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-08-05 03:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-5-எலும்புக்கூடுகள்-அடையாளம்/175-362313) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில்  நேற்று இடம்பெற்ற அகழ்வின் போது புதிதாக ஐந்து மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-ஏற்கனவே அடையாளம் காணப்பட்ட ஆறு மனித என்புத் தொகுதிகள் நேற்று முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-இதன்மூலம் செம்மணி மனிதப் புதைகுழியில் 135 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டு சுத்தப்படுத்தப்பட்டு இலக்கமிடப்பட்டுள்ளன.
-
-மேலும் இதுவரை அடையாளம் காணப்பட்ட  மனித என்புத் தொகுதிகளில் இருந்து 126 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/05eae231.json)
-
----
-
-### Dialog MAS Enabler Program champions workplace inclusion for differently-abled
-
-*2025-08-05 03:33:50* · [`dailyftlk`](https://www.ft.lk/business/Dialog-MAS-Enabler-Program-champions-workplace-inclusion-for-differently-abled/34-779923) · `en`
-
-Representatives from Dialog Axiata and MAS Holdings together with the participants of the Enabler Program 2025
-
-Telco giant Dialog Axiata PLC together with MAS Holdings, an apparel manufacturing and technology conglomerate, have successfully concluded the third consecutive Dialog MAS Enabler Program, reaffirming their shared commitment to workplace inclusivity and the empowerment of persons with disabilities through targeted exposure to real-world corporate, manufacturing, and service environments.
-
-Held from 23 June to 7 July, the two-week program enabled selected undergraduates and young professionals with disabilities to spend time at Dialog and MAS. Participants engaged across corporate offices, customer-facing service centres, and manufacturing facilities, receiving guided briefings on corporate culture and gaining hands-on exposure to the operations of both organisations.
-
-...
-
-[Data](articles/e3a036cd.json)
-
----
-
-### Empire Teas to celebrate 25 years with global business partners
-
-*2025-08-05 03:32:02* · [`dailyftlk`](https://www.ft.lk/business/Empire-Teas-to-celebrate-25-years-with-global-business-partners/34-779922) · `en`
-
-Empire Teas Managing Director Lushantha de Silva (left) and Director – Operations Sajeev de Silva
-
-This August, tea export company Empire Teas will celebrate 25 years by inviting business partners from across the world for a heartfelt celebration in Sri Lanka. From 7-9 August, guests will enjoy a curated tea journey from behind-the-scenes tours to lush plantations and a grand Gala Dinner to honour the friendships that have powered the company’s success.
-
-From modest beginnings to becoming one of Sri Lanka’s top five tea exporters, Empire Teas now delivers over 14 million kilos of premium Ceylon tea to more than 70 countries annually. Behind this growth is a story of vision and heart, led by the founder, a third-generation tea master, Lushantha de Silva, and a team dedicated to doing things the right way, always. “This isn’t just our celebration,” says Lushantha. “It’s a thank you to our business partners who believed in us, walked with us, and helped us grow.”
-
-...
-
-[Data](articles/6694f2df.json)
 
 ---

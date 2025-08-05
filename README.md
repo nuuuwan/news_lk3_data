@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 14:26:36**
+As of **2025-08-05 14:40:21**
 
 ## Newspaper Stats
 
-*Scraped **68,789** Articles*
+*Scraped **68,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,625
 adaderanalk | 8,537
-tamilmirrorlk | 10,011
+tamilmirrorlk | 10,012
 virakesarilk | 11,451
 adaderanasinhalalk | 11,847
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,789 articles have been extended.
+61,973 (90.1%) of 68,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ’இறப்புச் சான்றிதழைத் தயாரா?’: பத்மே கர்ஜனை
+
+*2025-08-05 14:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறப்புச்-சான்றிதழைத்-தயாரா-பத்மே-கர்ஜனை/175-362343) · `ta`
+
+“நாங்கள் ஒரு விளையாட்டு விளையாடுகிறோம். நீங்களும் ஒரு விளையாட்டு விளையாடுகிறீர்கள். உங்களுக்கு ஒரு குடும்பம் மற்றும் ஒரு குழந்தை இருக்க வேண்டும்… நாங்கள் மரணச் சான்றிதழை எங்கள் கைகளில் வைத்திருக்கிறோம். நாங்கள் இறப்பதற்கு பயப்படவில்லை. எங்களை தொந்தரவு செய்ய வந்தவர்களை நன்றாக வாழக் கூட நாங்கள் அனுமதிக்கவில்லை,” என்று வெளிநாட்டில் இருக்கும் பாதாள உலகத் தலைவரான கெஹல்பத்தர பத்மே கூறினார்,
+
+அவர் பேலியகொட குற்றப்பிரிவு தலைமை ஆய்வாளர் லிண்டன் சில்வாவை கொலை செய்வதாக தொலைபேசியில் மிரட்டியுள்ளார்.
+
+தலைமை ஆய்வாளர் லிண்டன் சில்வா உள்ளிட்ட காவல்துறை அதிகாரிகள் குழு மற்றும் காவல்துறை அதிகாரிகள் குழு ஞாயிற்றுக்கிழமை (03) இரவு உடுகம்பொலவின் கெஹல்பத்தர பகுதியில் உள்ள ஒரு ஹோட்டலில் மறைத்து வைக்கப்பட்டிருந்த சுமார் 5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெராயின் மற்றும் 09 வெடிமருந்துகளை கைப்பற்றியதை அடுத்தே  இந்த மிரட்டல் விடுக்கப்பட்டது.
+
+வெளிநாட்டில் தலைமறைவாக இருக்கும் கெஹல்பத்தர பத்மே எனப்படும் மண்டினு பத்மசிறி பெரேரா, தலைமை ஆய்வாளர் லிண்டன் சில்வாவின் அலைபேசிக்கு அழைப்பை எடுத்து  பின்வருமாறு மிரட்டினார்.
+
+...
+
+[Data](articles/11ad3588.json)
+
+---
 
 ### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
 
@@ -1755,21 +1773,5 @@ Published by The Nutgraf — a boutique editorial studio run largely by former j
 ...
 
 [Data](articles/292744d6.json)
-
----
-
-### Bank of Ceylon crowned Sri Lanka’s Most Valuable Brand in 2025
-
-*2025-08-04 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-crowned-sri-lankas-most-valuable-brand-in-2025/) · `en`
-
-The Bank of Ceylon (BOC) has been named Sri Lanka’s Most Valuable Brand for 2025 by Brand Finance Lanka, with a brand value of Rs. 57.4 billion reflecting a 14.3% increase compared to the previous year, marking yet another significant achievement in its storied legacy.
-
-Brand Finance Lanka is a subsidiary of Brand Finance UK, the world’s leading independent brand valuation and strategy consultancy. It evaluates top brands annually through a comprehensive methodology built on three core pillars: Brand Investment, Brand Equity and Brand Performance. Its rankings are backed by detailed financial analysis and an independent consumer survey, offering a transparent, evidence-based assessment of brand value and reputation.
-
-Becoming Sri Lanka’s Most Valuable Brand is a result of far more than revenue generation alone. Bank of Ceylon’s success is driven by its strategic focus on impactful customer promotion campaigns, strong social media engagement,
-
-...
-
-[Data](articles/1b870ee3.json)
 
 ---

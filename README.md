@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 08:16:53**
+As of **2025-08-05 09:06:55**
 
 ## Newspaper Stats
 
-*Scraped **68,717** Articles*
+*Scraped **68,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,616
-adaderanalk | 8,517
-tamilmirrorlk | 9,987
+adaderanalk | 8,520
+tamilmirrorlk | 9,988
 virakesarilk | 11,447
-adaderanasinhalalk | 11,832
+adaderanasinhalalk | 11,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,717 articles have been extended.
+61,973 (90.2%) of 68,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### බ්‍රසීලයේ හිටපු ජනාධිපති නිවාස අඩස්සියට
+
+*2025-08-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213029) · `si`
+
+බ්‍රසීලයේ හිටපු ජනාධිපති ජෙයාර් බොල්සොනාරෝ නිවාස අඩස්සියේ තැබීමට එරට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+
+කුමන්ත්‍රණයක් සිදුකිරීමේ චෝදනාවක් මත හිටපු ජනාධිපතිවරයාට එරෙහිව සිදුකරන නඩු විභාගයේ දී මෙම නියෝගය ලබාදී ඇති බව වාර්තා වේ.
+
+පසුගිය මාසයේ දී හිටපු ජනාධිපති බොල්සනාරෝ ඔහුට එරෙහිව පනවා තිබු තහනම් නියෝග කඩකිරීම හේතුවෙන් මෙලෙස නිවාස අඩස්සියේ තැබීමට නියෝග කර ඇති බව සඳහන් වේ.
+
+එම නියෝගයට අනුව හිටපු ජනාධිපතිවරයාට අධිකරණය මගින් බලය පවරන පුද්ගලයින් හැර වෙනත් කිසිවෙකු හමුවීමට අවස්ථාව නොමැති අතර දුරකථන භාවිතය ද තහනම් කර ඇත.
+
+බ්‍රසීලයේ හිටපු ජනාධිපතිවරයා සම්බන්ධයෙන් සිදුකරන මෙම අධිකරණ ක්‍රියාමාර්ගය හේතුවෙන් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් බ්‍රසීලයට එරෙහිව සියයට 50ක තීරුබදු පැනවීමක් සිදුකිරීමට ද පියවර ගනු ලැබීය.
+
+◼️
+
+[Data](articles/f90e37fe.json)
+
+---
+
+### අවුරුදු 18ට අඩු ළමුන්ට සංස්කෘතික උරුමයන් නොමිලේ නැරඹීමට අවස්ථාව
+
+*2025-08-05 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213028) · `si`
+
+සංස්කෘතික අරමුදලට අයත් ව්‍යාපෘති වයස අවුරුදු 18ට අඩු දරුවන්ට නොමිලේ නැරඹීමේ අවස්ථාව ලබාදීමට රජය තීරණය කර තිබේ.
+
+මධ්‍යම සංස්කෘතික අරමුදලේ පාලක මණ්ඩලය විසින් අදාළ යෝජනාවට අනුමැතිය ලබාදී ඇති බව වාර්තා වේ.
+
+දේශීය දරුවන් අතර සංස්කෘතික උරුමයන් පිළිබඳ ඇගයීමක් ඇති කිරීම සහ ජාතික උරුමයන් සහ ස්ථාන පිළිබඳ දැනුවත්භාවය වර්ධනය කිරීම මෙහි මූලික අරමුණ වී තිබේ.
+
+ඒ අනුව සීගිරිය, යාපහුව, දඹුල්ල ඇතුළු මධ්‍යම සංස්කෘතික අරමුදලට අයත් පුරාවිද්‍යාත්මක වටිනාකමකින් යුත් ස්ථාන 26ක් ප්‍රවේශ පත්‍ර රහිතව ළමුන්ට නැරඹීමේ අවස්ථාව හිමිවේ.
+
+මෙයට සමගාමීව විදේශීය ළමුන් සඳහා ද සීමිත කොන්දේසී යටතේ අදාළ ස්ථාන සඳහා ඇතුළු වීමේ අවසර පත්‍ර නිකුත් කිරීමට තීරණය කර ඇති බව බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d486c2f5.json)
+
+---
+
+### දේශබන්දු පොලිස්පති ධුරයෙන් නෙරපීමේ යෝජනාව අද විවාදයට
+
+*2025-08-05 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213027) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනාව අද (05) පාර්ලිමේන්තුවේ දී විවාදයට ගැනීමට නියමිතව තිබේ.
+
+මෙම සතිය සඳහා පාර්ලිමේන්තුව අද පෙරවරු 9.30ට රැස්වීමට නියමිත අතර පෙරවරු 11.30 සිට පස්වරු 4 දක්වා අදාළ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
+
+යෝජනාව සම්බන්ධයෙන් වන ඡන්ද විමසීම පස්වරු 4ට පැවැත්වීමට නියමිත අතර එම ඡන්ද විමසීම සඳහා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ට සහභාගී වන ලෙස දැනුම් දී ඇත.
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් හරි අඩක් එනම් මන්ත්‍රීවරුන් 113ක් ඡන්දය ප්‍රකාශ කිරීම මගින් මෙම යෝජනාව  සම්මත කර ගැනීමට හැකියාව හිමි වේ.
+
+යෝජනාව සම්මත වූ බවට කථානායකවරයා සිදුකරන දැනුම්දීමෙන් පසු  ජනාධිපතිවරයා විසින් පොලිස්පති ධුරය සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට නමක් නිර්දේශ කිරීමට නියමිතය.
+
+මේ අතර හෙට (06) දිනයේ ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය පැවැත්වීමට නියමිතව තිබේ.
+
+ඊට අමතරව දුම්කොළ බදු පනත යටතේ නියෝග විවාදයට ගැනීමට ද නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/bd3e8705.json)
+
+---
+
+### Several senior police officers transferred due to service requirement
+
+*2025-08-05 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111173/several-senior-police-officers-transferred-due-to-service-requirement) · `en`
+
+Transfers have been granted to a group of senior police officers with the approval of the National Police Commission.
+
+According to the Office of the Police Media Spokesman, transfers were made based on service requirements by Acting Inspector General of Police (IGP) Priyantha Weerasooriya.
+
+Among those transfers issued are four Superintendents of Police (SSPs), four Superintendents of Police (SPs), and 25 Assistant Superintendents of Police (ASPs), the Office of the Police Media Spokesman stated.
+
+◼️
+
+[Data](articles/61f6fe06.json)
+
+---
+
+### US condemns house arrest of Brazil’s ex-president Jair Bolsonaro
+
+*2025-08-05 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111172/us-condemns-house-arrest-of-brazils-ex-president-jair-bolsonaro) · `en`
+
+Brazil’s Supreme Court has ordered that the former right-wing President Jair Bolsonaro be put under house arrest.
+
+He is standing trial over allegations he plotted a coup, which he denies.
+
+The judge in charge of investigating Bolsonaro, Alexandre de Moraes, said the decision was because Bolsonaro hadn’t complied with restraining orders put on him last month.
+
+In response to the order, Bolsonaro’s legal team denied breaching any restraining order and said they would appeal the ruling, according to Reuters news agency.
+
+In a statement on X, the US state department said it “condemns” the court order and “will hold accountable all those aiding and abetting sanctioned conduct”.
+
+Donald Trump has used Bolsonaro’s trial, which he calls a “witch-hunt”, as a justification for imposing 50% tariffs on some Brazilian goods despite the US having a trade surplus with Brazil.
+
+...
+
+[Data](articles/5ca137c7.json)
+
+---
 
 ### ඉහළ පොලිස් නිලධාරීන් පිරිසකට ස්ථාන මාරුවීම්
 
@@ -63,6 +165,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e37b202a.json)
+
+---
+
+### 11 Indian nationals arrested in Thalangama over online gambling racket
+
+*2025-08-05 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111171/11-indian-nationals-arrested-in-thalangama-over-online-gambling-racket) · `en`
+
+A total of 11 Indian nationals have been arrested by the Thalangama Police for allegedly engaging in online gambling activities.
+
+Based on a tip-off, a team of officers from the Thalangama Police Station carried out a raid last night (04) in Akuregoda, Thalangama.
+
+During the raid, eight males and three females were arrested for engaging in gambling activities using computers and mobile phones.
+
+Officers also seized 20 mobile phones, three laptop computers, and a tablet device.
+
+The female suspects are aged 22, 30, and 43, while the male suspects are Indian nationals aged 25, 26, 27, and 29.
+
+◼️
+
+[Data](articles/0e177391.json)
 
 ---
 
@@ -137,6 +259,24 @@ Meanwhile, the general public has been requested to take adequate precautions to
 ◼️
 
 [Data](articles/ffadb336.json)
+
+---
+
+### திடீர் மின்தடை: இன்று பகிரங்க விசாரணை
+
+*2025-08-05 03:40:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-மின்தடை-இன்று-பகிரங்க-விசாரணை/175-362314) · `ta`
+
+நாடு முழுவதும் கடந்த பெப்ரவரி 9 ஆம் திகதியன்று ஏற்பட்ட திடீர் மின் தடை குறித்து இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு இன்று பகிரங்க விசாரணையொன்றை முன்னெடுக்கவுள்ளது.
+
+கொழும்பிலுள்ள பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் இன்று காலை 8:30 மணி முதல் மாலை 6:00 மணி வரை விசாரணைகள் முன்னெடுக்கப்படவுள்ளன.
+
+மின்சாரத் துறையில் வெளிப்படைத்தன்மையை உறுதி செய்வதையும் மின்வெட்டுக்கான மூல காரணங்களை அடையாளம் காண்பதையும் இந்த அமர்வு நோக்கமாகக் கொண்டுள்ளதாக அந்த ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதில் பகேற்பதற்காக பொதுமக்களுக்கும் தொடர்புடைய தரப்பினருக்கும் அழைப்பு விடுக்கப்பட்டுள்ளதாக இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/2adf7925.json)
 
 ---
 
@@ -1659,139 +1799,5 @@ Under the new framework, the investment limit for listed companies has been rais
 ◼️
 
 [Data](articles/3fec48db.json)
-
----
-
-### චාමරගෙන් අල්ලස් කොමිසමට පැමිණිල්ලක්
-
-*2025-08-04 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213009) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී චාමර සම්පත් දසනායක මහතා විසින් අද (04) අල්ලස් කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කරනු ලැබීය.
-
-ඒ  2024 වසරේ පොලිස් පරීක්ෂකවරු බඳවා ගැනීමේදි සිදුව ඇතැයි කියන අක්‍රමිකතාවක් පිළිබඳව පැමිණිලි කිරීම සඳහාය.
-
-එහිදී අදහස් දක්වමින් චාමර සම්පත් මහතා පැවසුවේ පසුගිය 2024 වසරේදී ගැසට් නිවේදනයක් මගින් පොලිස් සේවය සඳහා බඳවා ගැනීම වෙනුවෙන් ගැසට් නිවේදනයක් නිකුත් කළ බවත් ඒ අනුව සිදුකළ යෝග්‍යතා පරීක්ෂණවලින් පසුව ඒ සඳහා සුදුසුකම් ලැබූ 100 දෙනෙක් සඳහා පත්වීම් ලබා දීමට පසුගිය වසරේ නොවැම්බර් මස සැලසුම් කර තිබූ බවය.
-
-නමුත් එම සැලසුම් කර තිබූ පත්වීම් අදාළ සුදුසුකම් ලැබූ පුද්ගලයින් 100 දෙනා වෙත ලබා නොදී මේ වන විට නැවත ගැසට් කරමින් බඳවා ගැනීමට ආණ්ඩුව සූදානම් වන බවද මන්ත්‍රීවරයා මෙහිදී චෝදනා කළේය.
-
-ඒ අනුව මේ තුළින් දූෂණයක් සිදුව ඇතැයිද ඒ සම්බන්දව පොලිසිය භාර අමාත්‍යවරයාට සහ පොලිස් දෙපාර්තමේන්තුවේ නිලධාරීන්ට එරෙහිව තමන් පැමිණිල්ලක් ඉදිරිපත් කරන බවද අමාත්‍යවරයා මෙහිදී පැවසීය.
-
-...
-
-[Data](articles/6804099a.json)
-
----
-
-### ඉන්දු- ශ්‍රී ලංක අවබෝධතා ගිවිසුම් වලට එරෙහි පෙත්සම් නිෂ්ප්‍රභ කෙරේ
-
-*2025-08-04 16:15:07* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු--ශ්‍රී-ලංක-අවබෝධතා-ගිවිසුම්-වලට-එරෙහි-පෙත්සම්-නිෂ්ප්‍රභ-කෙරේ/11-417711) · `si`
-
-ශ්‍රී ලංකා රජය සහ ඉන්දියානු රජය අතර අත්සන් කළ අවබෝධතා ගිවිසුම් 07 ක් බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කරන ලද මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය  අද(04දා) තීන්දු කළේය.
-
-දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළේය.
-
-◼️
-
-[Data](articles/673d715b.json)
-
----
-
-### Sri Lanka stocks dip 0.64-pct after ASPI crosses 20,000 mark
-
-*2025-08-04 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-64-pct-after-aspi-crosses-20000-mark-234511/) · `en`
-
-ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) fell 0.64 percent after reaching an all time high in early morning trade, brokers said.
-
-The index crossed the psychological 20,000 mark. However, the market deescalated due to selling pressure.
-
-“Market was volatile today. Selling pressure was there as soon as the 20,000 mark was crossed,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-The ASPI dipped 128.02 points from Friday to 19,786.23; while the S&P SL20 index ended 0.63 percent, or 37.14
-
-“Reversal of the market to close below the 20,000 mark shows that there is a psychological barrier,” Mathew said.
-
-Turnover steeply declined to 4.5 billion rupees from 7.3 billion rupees; while the share volume was 157,477,342.
-
-“Banking sector counters traded positive – mostly the small banks while there was a bit of profit taking in big banks.”
-
-...
-
-[Data](articles/9444c9d8.json)
-
----
-
-### போதையில் இருந்த சாரதிக்கு விளக்கமறியல்
-
-*2025-08-04 16:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போதையில்-இருந்த-சாரதிக்கு-விளக்கமறியல்/76-362283) · `ta`
-
-வெலிமடையிலிருந்து நுவரெலியா வழியாக நீர்கொழும்புக்கு பயணித்த இலங்கை போக்குவரத்து சபை பேருந்தின் சாரதி, நுவரெலியா பொலிஸ் போக்குவரத்துப் பிரிவின் அதிகாரிகளால் ஞாயிற்றுக்கிழமை (03) அன்று மதுபோதையில் வாகனம் ஓட்டியதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு,
-
-நுவரெலியா நீதவான் திருமதி லங்காகனி பிரபுத்திகா முன்னிலையில் திங்கட்கிழமை (04) அன்று ஆஜர்படுத்தப்பட்டார். அதன் பின்னர், சந்தேக நபரான சாரதியை எதிர்வரும் 18 வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/1b8a04d2.json)
-
----
-
-### බීමත්ව රිය පැදවූ ලංගම බස් රියදුරා රිමාන්ඩ්
-
-*2025-08-04 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213008) · `si`
-
-බීමත්ව රිය පැදවීම හේතුවෙන් ඊයේ නුවරඑළිය පොලීසිය විසින් අත්අඩංගුවට ගත් ලංගම බස් රථ රියදුරා එළැඹෙන 18 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-නුවරඑළිය මහේස්ත්‍රාත් ලංකාගනී ප්‍රබුද්දිකා මෙනවිය විසින් මෙම නියෝගය ලබා දී ඇත.
-
-මෙලෙස බන්ධනාගාර ගත කර ඇත්තේ වයස අවුරුදු 47ක් වන දිවුලපිටිය මැදගම්පිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මෙම පුද්ගලයා විශාල මගීන් ප්‍රමාණයක් ද රැගෙන අධික ලෙස බීමතින් බස් රථය ධාවනය කර තිබුණි.
-
-අදාල බස් රථය ගමනාන්තය ලෙස මීගමුව දක්වා යාමට නියමිතව තිබූ අතර නුවරඑළියේදී පොලීසිය විසින් පරීක්ෂා කිරීමේ දී රියදුරා බීමත්ව සිට ඇති බව තහවුරු වී ඇත.
-
-එමෙන්ම රියදුරු ආසනයට පිටුපස තිබී මිලි ලීටර් 750ක නීති විරෝධී මත්පැන් කෑන් එකක් ද සොයා ගැනීමට පොලීසියට හැකියාව ලැබුණි.
-
-ඒ අනුව අදාල රියදුරු අත්අඩංගුවට ගත් අතර බීමත්ව රිය පැදවීම සහ නීති විරෝධී මත්පැන් සන්තකයේ තබා ගැනීම යන චෝදනා යටතේ රියදුරුට එරෙහිව අධිකරණයට කරුණු වාර්තා කර තිබුණි.
-
-පොලිසිය සැක පල කරන්නේ බස් රථය ධාවනය කර විවේක ගැනීමට නතර කරන අවස්ථාවේ ජලය පානය කරන මුවාවෙන් සැකකර රියදුරා මත්පැන් පානය කරන්නට ඇති බවය.
-
-◼️
-
-[Data](articles/d1f0f3e7.json)
-
----
-
-### ප්‍රතිමුඛ ආයෝජන සඳහා ශ්‍රී ලංකාවේ සමාගම් වෙත තිබූ සීමා ලිහිල්වෙයි
-
-*2025-08-04 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213007) · `si`
-
-දේශිය සමාගම් සඳහා විදේශයන්හි ආයෝජන කිරීමට වන සීමාවන් වැඩිකරමින් ප්‍රකාශයට පත් කර ඇති ගැසට් නිවේදනය සඳහා රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමැතිය හිමිව තිබේ.
-
-පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් මුදල් කාරක සභාව රැස්වූ අවස්ථාවේ විදේශ විනිමය පනතේ 22වන වගන්තිය යටතේ පසුගිය ජුනි මස 18 වනදා ප්‍රකාශයට පත් කරන ලද අතිවිශේෂ ගැසට් පත්‍රයේ නියෝග සඳහා මෙලෙස අනුමැතිය හිමිවු බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-ඒ අනුව කොටස් වෙළෙඳපොළ ලැයිස්තුගත සමාගම් සඳහා ශ්‍රී ලංකාවෙන් පිටත ආයෝජන සීමාව අමෙරිකානු ඩොලර් ලක්ෂ 05 සිට 750,000 දක්වා ඉහළ නැංවීම සිදුවනු ඇත.
-
-ලැයිස්තුගත නොකළ සමාගම් සඳහා අමෙරිකානු ඩොලර් එක් ලක්ෂ 50,000ක් වූ ආයෝජන සීමාව ලක්ෂ 02 දක්වා වැඩිකර ඇති බව සඳහන්ය.
-
-මෙම සීමාවන් ඉක්මවා ආයෝජන සිදුකිරීමට අපේක්ෂා කරන කණ්ඩායම්වලට විදේශ මූලාශ්‍රවලින් අමෙරිකානු ඩොලර් මිලියන 02ක් දක්වා ණය ලබා ගත හැකි අතර එවැනි ඕනෑම ආයෝජනයක් සඳහා ශ්‍රී ලංකා මහ බැංකුවේ විශේෂ අනුමැතියක් අවශ්‍ය වන බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/7bb43344.json)
-
----
-
-### US effective tariff rate settles at 17-pct with July 31 duties: Fitch
-
-*2025-08-04 15:56:00* · [`economynextcom`](https://economynext.com/us-effective-tariff-rate-settles-at-17-pct-with-july-31-duties-fitch-234513/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has updated the US Effective Tariff Rate (ETR) Monitor, its interactive tariff tool, reflecting the July 27 and July 31 announcements that set new reciprocal tariff rates for most trading partners.
-
-“The US effective tariff rate is now 17% — about 8 percentage points lower than our April 3, 2025, estimate when higher reciprocal tariffs were originally announced, but around 3 percentage points higher than our estimate at the end of June 2025,” Fitch said.
-
-Fitch Ratings-New York-01 August 2025: Fitch Ratings has updated the U.S. Effective Tariff Rate (ETR) Monitor, its interactive tariff tool, reflecting the July 27 and July 31 announcements that set new reciprocal tariff rates for most trading partners. The U.S. effective tariff rate is now 17% — about 8 percentage points lower than our April 3, 2025, estimate when higher reciprocal tariffs were originally announced, but around 3 percentage points higher than our estimate at the end of June 2025.
-
-...
-
-[Data](articles/5a3a3e20.json)
 
 ---

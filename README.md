@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 16:23:57**
+As of **2025-08-05 16:36:19**
 
 ## Newspaper Stats
 
-*Scraped **68,830** Articles*
+*Scraped **68,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ economynextcom | 4,198
 islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,626
+adalk | 6,627
 adaderanalk | 8,543
-tamilmirrorlk | 10,021
+tamilmirrorlk | 10,022
 virakesarilk | 11,464
-adaderanasinhalalk | 11,851
+adaderanasinhalalk | 11,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,830 articles have been extended.
+61,973 (90.0%) of 68,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### தென்னக்கோனை நீக்க: 177 பேர் ஆதரவு
+
+*2025-08-05 16:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்க-177-பேர்-ஆதரவு/175-362352) · `ta`
+
+பொலிஸ்மா அதிபர் டீ.எம்.டபிள்யூ.தேசபந்து தென்னக்கோனை    2002ஆம் ஆண்டின் 5ஆம்இலக்க அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17ஆம் வாசகத்தின் பிரகாரம் அப்பதவியிலிருந்து அகற்றுவதற்கான தீர்மானம் 177 மேலதிக வாக்குகளை பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (05) நிறைவேற்றப்பட்டது. இந்த பிரேரணை எதிர்த்து எவரும் வாக்களிக்கவில்லை. அத்துடன், வாக்களிப்பில் இருந்து ஒரு உறுப்பினர் விலகியிருந்தார்
+
+◼️
+
+[Data](articles/038b9301.json)
+
+---
+
+### දේශබන්දු පොලිස්පති ධුරයෙන් ඉවත් කිරීමට පක්ෂව ඡන්ද 177ක්
+
+*2025-08-05 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213048) · `si`
+
+දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා පැවැති ඡන්ද විමසීමේදී යෝජනාවට පක්ෂව ඡන්ද 177ක් සහ විරුද්ධව කිසිඳු ඡන්දයක් ලැබී නොතිබුණි.
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් හරි අඩක් එනම් මන්ත්‍රීවරුන් 113ක් ඡන්දය ප්‍රකාශ කිරීම මගින් මෙම යෝජනාව සම්මත කර ගැනීමට හැකියාව පවතී.
+
+යෝජනාව සම්මත වූ බවට කථානායකවරයා සිදුකරන දැනුම්දීමෙන් පසු  ජනාධිපතිවරයා විසින් පොලිස්පති ධුරය සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට නමක් නිර්දේශ කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/ce8a025c.json)
+
+---
 
 ### லிந்துலையில் நீரில் மூழ்கி இளைஞன் உயிரிழப்பு
 
@@ -275,6 +303,20 @@ Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.
 ◼️
 
 [Data](articles/22a19e45.json)
+
+---
+
+### ජනාධිපති අරමුදලින් මුදල් ලබා ගත් තවත් පිරිසක් ගැන අනාවරණයක්
+
+*2025-08-05 15:17:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලින්-මුදල්-ලබා-ගත්-තවත්-පිරිසක්-ගැන-අනාවරණයක්/11-417732) · `si`
+
+2005 සිට 2014 දක්වා කාලය තුඝ දේශපාලඥයන්ගේ දරුවන් , ඥාතීන් සහ හිතවතුන් ජනාධිපති අරමුදලින් මුදල් ලබාදී අධ්‍යාපන කටයුතු සඳහා මුදල් ලබා ගෙන ඇති බව අද (05දා) පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍ය අනුර කරුණාතිලක මහතා  මේ පිළිබඳ අනාවරණය කළේය.
+
+◼️
+
+[Data](articles/e393e6de.json)
 
 ---
 
@@ -1741,65 +1783,5 @@ The seized stock of Kerala cannabis has been handed over to the Maradankerni Pol
 ◼️
 
 [Data](articles/3fa1312a.json)
-
----
-
-### Govt to grant free access to 26 archaeological sites for children under 18
-
-*2025-08-05 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111176/govt-to-grant-free-access-to-26-archaeological-sites-for-children-under-18) · `en`
-
-The government has decided to grant free admission to children under the age of 18 to sites managed by the Central Cultural Fund (CCF).
-
-This proposal has reportedly been approved by the Board of Governors of the Central Cultural Fund.
-
-The primary objective of this initiative is to foster an appreciation of cultural heritage among children and to enhance awareness of the nation’s historical and cultural sites.
-
-Accordingly, children will be granted free access to 26 archaeological sites under the purview of the Central Cultural Fund, including Sigiriya, Yapahuwa, and Dambulla.
-
-It has also been decided to issue entry permits to foreign children under specified conditions, according to Deputy Minister of Buddhasasana, Religious and Cultural Affairs, Gamagedara Dissanayake.
-
-◼️
-
-[Data](articles/0b6c86f7.json)
-
----
-
-### බ්‍රසීලයේ හිටපු ජනාධිපති නිවාස අඩස්සියට
-
-*2025-08-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213029) · `si`
-
-බ්‍රසීලයේ හිටපු ජනාධිපති ජෙයාර් බොල්සොනාරෝ නිවාස අඩස්සියේ තැබීමට එරට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
-
-කුමන්ත්‍රණයක් සිදුකිරීමේ චෝදනාවක් මත හිටපු ජනාධිපතිවරයාට එරෙහිව සිදුකරන නඩු විභාගයේ දී මෙම නියෝගය ලබාදී ඇති බව වාර්තා වේ.
-
-පසුගිය මාසයේ දී හිටපු ජනාධිපති බොල්සනාරෝ ඔහුට එරෙහිව පනවා තිබු තහනම් නියෝග කඩකිරීම හේතුවෙන් මෙලෙස නිවාස අඩස්සියේ තැබීමට නියෝග කර ඇති බව සඳහන් වේ.
-
-එම නියෝගයට අනුව හිටපු ජනාධිපතිවරයාට අධිකරණය මගින් බලය පවරන පුද්ගලයින් හැර වෙනත් කිසිවෙකු හමුවීමට අවස්ථාව නොමැති අතර දුරකථන භාවිතය ද තහනම් කර ඇත.
-
-බ්‍රසීලයේ හිටපු ජනාධිපතිවරයා සම්බන්ධයෙන් සිදුකරන මෙම අධිකරණ ක්‍රියාමාර්ගය හේතුවෙන් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් බ්‍රසීලයට එරෙහිව සියයට 50ක තීරුබදු පැනවීමක් සිදුකිරීමට ද පියවර ගනු ලැබීය.
-
-◼️
-
-[Data](articles/f90e37fe.json)
-
----
-
-### Visa applicants may be required to post bond of up to 15,000 USD to enter U.S.
-
-*2025-08-05 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111175/visa-applicants-may-be-required-to-post-bond-of-up-to-15000-usd-to-enter-us) · `en`
-
-The U.S. State Department is set to roll out a pilot program that may require foreign nationals seeking business or tourism visas to post a bond of up to 15,000 U.S. dollars to enter the United States, according to a preview of a bond notice posted on the Federal Register website on Monday.
-
-Under the 12-month “visa bond pilot program,” consular officers could require certain business and tourist visa applicants to post guarantee bonds of 5,000 U.S. dollars, 10,000 dollars or 15,000 dollars, according to the notice set to be officially published on Tuesday.
-
-The program will take effect 15 days after the notice is officially published.
-
-The bonds may be required for travelers from countries that the State Department identifies as having high rates of visa overstays, or deficient screening and vetting information, said the notice.
-
-The notice did not name the countries affected, but said the list will be released online at least 15 days before it takes effect.
-
-...
-
-[Data](articles/2f3fae5e.json)
 
 ---

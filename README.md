@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 06:12:03**
+As of **2025-08-05 06:38:35**
 
 ## Newspaper Stats
 
-*Scraped **68,702** Articles*
+*Scraped **68,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
 economynextcom | 4,191
-islandlk | 4,196
+islandlk | 4,201
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,616
 adaderanalk | 8,514
-tamilmirrorlk | 9,986
+tamilmirrorlk | 9,987
 virakesarilk | 11,447
 adaderanasinhalalk | 11,829
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,702 articles have been extended.
+61,973 (90.2%) of 68,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### செம்மணியில் நேற்று 5 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-08-05 03:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-5-எலும்புக்கூடுகள்-அடையாளம்/175-362313) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில்  நேற்று இடம்பெற்ற அகழ்வின் போது புதிதாக ஐந்து மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+ஏற்கனவே அடையாளம் காணப்பட்ட ஆறு மனித என்புத் தொகுதிகள் நேற்று முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+இதன்மூலம் செம்மணி மனிதப் புதைகுழியில் 135 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டு சுத்தப்படுத்தப்பட்டு இலக்கமிடப்பட்டுள்ளன.
+
+மேலும் இதுவரை அடையாளம் காணப்பட்ட  மனித என்புத் தொகுதிகளில் இருந்து 126 மனித என்புத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/05eae231.json)
+
+---
 
 ### Dialog MAS Enabler Program champions workplace inclusion for differently-abled
 
@@ -337,6 +355,58 @@ Sri Lanka’s economic crisis has been exacerbated by its reliance on Internatio
 ...
 
 [Data](articles/2a473ffa.json)
+
+---
+
+### Big scene for JAYASRI TWINS… Reggae festival in Colombo
+
+*2025-08-04 23:26:00* · [`islandlk`](http://island.lk/big-scene-for-jayasri-twins-reggae-festival-in-colombo/) · `en`
+
+JAYASRI Twins, Rohitha and Rohan, continue to create great vibes in the scene in Europe, and they are doing it big time!
+
+Rohitha and Rohan were in Sri Lanka, as well, and went back to Austria, where they are based, at the end of May, 2025, for their summer commitments in Europe.
+
+They teamed up with the MEMBERS band to commence their tour of Europe, with performances in Vienna (Austria), Bucharest (Romania), and Milano and Naples, in Italy, with several open air and indoor concerts.
+
+“It was awesome to see the Sri Lankan crowd enjoying our music and we had a superb time entertaining them,” says Rohitha.
+
+They also did a gig in the UK, for the Sri Lankan community in that part of the world, which also turned out to be mind-blowing.
+
+Says Rohitha: “We did our thing at the Festival of Cricket (FOC) event in London, and it was their 35th Anniversary, as well.
+
+“The atmosphere was terrific and we did a great show with the EXCEED band from London.
+
+...
+
+[Data](articles/39078e06.json)
+
+---
+
+### Birthday celebrations …
+
+*2025-08-04 23:24:00* · [`islandlk`](http://island.lk/birthday-celebrations/) · `en`
+
+Thursday, 24th July, was a special day for the incomparable bassist Benjy Ranabahu.
+
+Yes, it was his birthday but the real celebrations took place a day later, at The Hut, Mount Lavinia.
+
+It was a musical evening, with Benjy’s group, Inner Vision, in action, and the party went on till 1 am.
+
+The highlight of the evening was, undoubtedly, the guest appearance of veteran singer Manilal Perera and Rodney Rabot, with Judy de Silva turning up later.
+
+Both Manilal and Rodney were outstanding and those present appreciated their vibrant personality, and vocals.
+
+Rodney, incidentally, was a member of the original Amazing Grace, in 1974.
+
+It was around midnight that the cake cutting ceremony took place, and with the baila taking over for the final session.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/464c8383.json)
 
 ---
 
@@ -1741,45 +1811,5 @@ They allege that the public has not been informed about the contents of the MoUs
 ...
 
 [Data](articles/ab7ef538.json)
-
----
-
-### MP Ramanathan Archchuna arrives at CID
-
-*2025-08-04 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111154/mp-ramanathan-archchuna-arrives-at-cid) · `en`
-
-Jaffna District Member of Parliament Ramanathan Archchuna has arrived at the Criminal Investigation Department (CID).
-
-◼️
-
-[Data](articles/ae8ac779.json)
-
----
-
-### අර්ච්චුනා CIDයට
-
-*2025-08-04 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213005) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/4cd312ea.json)
-
----
-
-### முழு நிர்வாணமாக சைக்கிள் ஓட்டிய நபர் (வீடியோ இணைப்பு)
-
-*2025-08-04 14:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முழு-நிர்வாணமாக-சைக்கிள்-ஓட்டிய-நபர்-வீடியோ-இணைப்பு/175-362277) · `ta`
-
-பிரதான வீதியின் நடுவில் முற்றிலும் நிர்வாணமாக சைக்கிளில் செல்லும் ஒரு நபர் தொடர்பிலான காட்சிகள் கந்தானை நகரில் பதிலாகியுள்ளது.
-
-சமூக ஊடகங்களில் பரவலாகப் பரவி வரும் இந்த காட்சியில், அந்த நபர் தனது மிதிவண்டியின் கைப்பிடியின் இருபுறமும் தனது ஆடைகளைப் பிடித்துக்கொண்டு அமைதியாக தனது மிதிவண்டியை மிதிப்பது காட்டப்பட்டுள்ளது.
-
-பட்டப்பகலில் நடந்த இந்த சம்பவம், குடியிருப்பாளர்கள் மற்றும் அதிகாரிகளின் கவனத்தை ஈர்த்துள்ளது. அந்த நபரை அடையாளம் காணவும், ஏதேனும் சட்ட நடவடிக்கை எடுக்கப்பட வேண்டுமா என்பதைத் தீர்மானிக்கவும் பொலிஸார் தற்போது காட்சிகளை மதிப்பாய்வு செய்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/c1af7efd.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 20:07:18**
+As of **2025-08-05 20:24:37**
 
 ## Newspaper Stats
 
-*Scraped **68,874** Articles*
+*Scraped **68,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,635
-adaderanalk | 8,551
-tamilmirrorlk | 10,033
+adaderanalk | 8,553
+tamilmirrorlk | 10,034
 virakesarilk | 11,470
 adaderanasinhalalk | 11,859
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,874 articles have been extended.
+61,973 (90.0%) of 68,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### பிரபல நடிகையுடன் தனுஷ் காதல்? பாலிவுட்டில் பரபரப்பு
+
+*2025-08-05 20:02:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகையுடன்-தனுஷ்-காதல்-பாலிவுட்டில்-பரபரப்பு/54-362366) · `ta`
+
+சூப்பர் ஸ்டார் ரஜினிகாந்தின் மூத்த மகள் ஐஸ்வர்யா ரஜினிகாந்தை திருமணம் செய்த நடிகர் தனுஷ் அவரை பிரிந்து வாழ்கின்றார்.
+
+நடிகர் தனுஷ் நடிகராகவும் இயக்குநராகவும் தொடர்ந்து பிசியாக இருக்கிறார். தமிழில் மட்டுமின்றி தெலுங்கு மற்றும் இந்தி படங்களிலும் படு பிசியாக நடித்து வருகிறார். சேகர் கம்முலா இயக்கத்தில் சமீபத்தில் வெளியான குபேரா திரைப்படம் அவருக்கு தெலுங்கில் பாக்ஸ் ஆபீஸ் ஹிட் கொடுத்தது. ஆனால், தமிழில் பெரிதாக ஓடவில்லை.
+
+அடுத்ததாக இட்லி கடை படம் அக்டோபர் மாதம் வெளியாக காத்திருக்கிறது. சமீபத்தில், ஏகப்பட்ட நடிகைகளுடன் தனுஷ் பார்ட்டி ஒன்றில் தென்பட்ட போது நடிகை மிருணாள் தாகூர் உடனிருந்தார்.
+
+இந்நிலையில், தனுஷ் மற்றும் மிருணாள் தாகூர் டேட்டிங் செல்வதாக ஹாட் தகவல்கள் வெளியாகி உள்ளன.
+
+தனுஷ் உடன் இதுவரை ஒரு படத்தில் கூட மிருணாள் தாகூர் இணைந்து நடிக்காத நிலையில், தற்போது தொடர்ந்து தனுஷ் உடன் மும்பையில் அடிக்கடி மிருணாள் தாகூர் சந்திப்பு நடத்தி வருகிறார் என்றும் இருவரும் ஒன்றாக சுற்றி வருகின்றனர் என பாலிவுட் மீடியாக்கள் போட்டோக்களுடன் கிசுகிசுக்களை எழுத ஆரம்பித்துள்ளன.
+
+...
+
+[Data](articles/568bab81.json)
+
+---
 
 ### ශ්‍රී ලාංකීය ගායක-ගායිකා සංගමය සහ ජනපති අතර සාකච්ඡාවක්
 
@@ -49,6 +69,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5e49d4fe.json)
+
+---
+
+### Mudslide engulfs Indian village, at least four dead, over 50 missing
+
+*2025-08-05 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111206/mudslide-engulfs-indian-village-at-least-four-dead-over-50-missing) · `en`
+
+Surging floodwaters and a torrent of mud swept through a village in the northern Indian Himalayan state of Uttarakhand, killing at least four people while more than 50 others were missing, authorities and local TV channels said on Tuesday.
+
+Teams from army and disaster response forces had reached the area, local authorities said, with workers trying to rescue people trapped under debris and sludge.
+
+TV news channels showed floodwaters and mud surging down a mountain and crashing into the village, sweeping away houses and roads as people ran for their lives.
+
+The mudslide cleaved through Dharali village, burying some houses, according to a video update shared by the state chief minister’s office.
+
+Four people were killed and many more had been rescued so far, Uttarkashi district administrator Prashant Arya told local media.
+
+...
+
+[Data](articles/941c413a.json)
 
 ---
 
@@ -119,6 +159,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/75aa98b2.json)
+
+---
+
+### Pettah Central Bus Stand to be renovated under ‘Clean Sri Lanka’ program
+
+*2025-08-05 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111204/pettah-central-bus-stand-to-be-renovated-under-clean-sri-lanka-program) · `en`
+
+The Cabinet of Ministers has granted approval for the proposal presented by the Minister of Transport, Highways, Ports, and Civil Aviation to renovate and develop the Pettah Central Bus Stand by utilizing the provisions allocated for the “Clean Sri Lanka” program.
+
+The access roads, bus yards, passenger stands, driver and conductor restrooms, administrative buildings, and sanitation and drainage systems of the Pettah Central Bus Stand have been in a dilapidated condition due to a lack of repairs and maintenance.
+
+As a consequence, the passengers, along with drivers, conductors, and operational staff who use the Pettah Central Bus Stand, have encountered immense difficulties, the Cabinet Spokesman Minister Dr. Nalinda Jayatissa said.
+
+Therefore, the renovation and development of the Pettah Central Bus Stand, appropriate to the present condition, have been identified as essential requirements.
+
+...
+
+[Data](articles/5fc8350b.json)
 
 ---
 
@@ -1767,57 +1825,5 @@ If a simple majority of Members of Parliament — that is, 113 MPs — vote in f
 ◼️
 
 [Data](articles/cb4950da.json)
-
----
-
-### 18 வயதுக்குட்பட்டவர்களுக்கு  இலவச அனுமதி
-
-*2025-08-05 11:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-வயதுக்குட்பட்டவர்களுக்கு-இலவச-அனுமதி/175-362332) · `ta`
-
-மத்திய கலாசார நிதியத்தால் (CCF) நிர்வகிக்கப்படும் சிகிரியா, யாபஹுவா மற்றும் தம்புள்ளை போன்ற கலாசார பாரம்பரிய இடங்களை நுழைவு கட்டணம் செலுத்தாமல் 18 வயதுக்குட்பட்டவர்கள் இலவச அனுமதி வழங்கப்படும் என்று அரசாங்கம் அறிவித்துள்ளது.
-
-உள்ளூர் இளைஞர்களிடையே தேசிய பாரம்பரியம் குறித்த விழிப்புணர்வையும் பாராட்டையும் ஊக்குவிப்பதை நோக்கமாகக் கொண்டதாக புத்தசாசன, மத மற்றும் கலாச்சார விவகார துணை அமைச்சர் கமகெதர திசாநாயக்க தெரிவித்துள்ளார்.
-
-குறிப்பிட்ட நிபந்தனைகளின் கீழ் வெளிநாட்டு குழந்தைகளுக்கும் நுழைவு அனுமதி வழங்கப்படும் என்று துணை அமைச்சர் மேலும் கூறியுள்ளார்.
-
-◼️
-
-[Data](articles/7499e08a.json)
-
----
-
-### Another earthquake hits Russia’s Petropavlovsk region; back-to-back tremors raise alarm
-
-*2025-08-05 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111186/another-earthquake-hits-russias-petropavlovsk-region-back-to-back-tremors-raise-alarm) · `en`
-
-Fresh tremor of magnitude 5.1 struck far-east in Petropavlovsk-Kamchatsky, Russia today, reported the US Geological Survey (USGS).
-
-The tremor was recorded at 07:17:36 (UTC+05:30), with its epicentre located 144 km southeast of the Kamchatsky region at a depth of 25 km.
-
-Tremor follows a powerful 8.8-magnitude earthquake that struck near Russia’s Kamchatka Peninsula earlier in the week.
-
-According to experts, the quake was caused by intense tectonic activity along a major subduction zone where the Pacific Plate slides beneath the Okhotsk Plate. This zone lies within the Pacific “Ring of Fire,” a seismically active belt notorious for frequent earthquakes and volcanic eruptions.
-
-The vertical displacement of the seafloor during the 8.7-magnitude quake triggered a tsunami, leading to wave alerts in multiple Pacific nations, including Russia, Japan, and the United States.
-
-...
-
-[Data](articles/c459fda2.json)
-
----
-
-### கற்பிட்டியில் சட்டவிரோதமாக கொண்டுவரப்பட்ட மருந்துகள்,தடுப்பூசிகள் கைப்பற்றல்!
-
-*2025-08-05 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221852) · `ta`
-
-சட்டவிரோதமாக நாட்டுக்கு கொண்டுவரப்பட்ட மருந்துகள் மற்றும் தடுப்பூசிகள் கற்பிட்டி பொலிஸாரால் நேற்று திங்கட்கிழமை (4) கைப்பற்றப்பட்டுள்ளன.
-
-கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி லக்ஷ்மன் ரங்வல ஆராச்சிக்கு கிடைத்த தகவலின் அடிப்படையில் புத்தளம் - கற்பிட்டி, குலியமுனை தீவில் உள்ள குடிசை ஒன்றில் மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போதே இந்த பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
-
-இந்தியாவில் தயாரிக்கப்பட்ட இரண்டு ஆண்டுகள் காலத்திற்கு செல்லுபடியாகும் அதிக பெறுமதியான மருந்துகள் மற்றும் தடுப்பூசிகள் அடங்கிய 16 பொதிகளே இந்த குடிசையில் இருந்து கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/0351e370.json)
 
 ---

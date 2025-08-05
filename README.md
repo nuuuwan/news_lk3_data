@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 06:38:35**
+As of **2025-08-05 07:20:33**
 
 ## Newspaper Stats
 
-*Scraped **68,708** Articles*
+*Scraped **68,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
 economynextcom | 4,191
-islandlk | 4,201
+islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,616
-adaderanalk | 8,514
+adaderanalk | 8,516
 tamilmirrorlk | 9,987
 virakesarilk | 11,447
-adaderanasinhalalk | 11,829
+adaderanasinhalalk | 11,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,708 articles have been extended.
+61,973 (90.2%) of 68,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### අදත් හවසට තැනින් තැන වැසි
+
+*2025-08-05 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213023) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු, උතුරු-මැද, ඌව සහ නැගෙනහිර පළාත්වල ප.ව. 1න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තු ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/9ad9e47c.json)
+
+---
+
+### Trump threatens India with ‘substantial’ tariff hike for buying Russian oil
+
+*2025-08-05 05:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111169/trump-threatens-india-with-substantial-tariff-hike-for-buying-russian-oil) · `en`
+
+Donald Trump has threatened to “substantially” raise tariffs against India over its purchase of oil from Russia.
+
+“They [India] don’t care how many people in Ukraine are being killed by the Russian War Machine,” the US president wrote on his online platform, Truth Social, on Monday.
+
+India is currently among the largest buyers of Russian oil. It has become an important export market for Moscow after several European countries cut trade when Russia launched its full-scale invasion of Ukraine in 2022.
+
+Trump did not specify what the new tariff would be, but it comes just days after he unveiled a hefty 25% levy on India.
+
+In a statement, a spokesman for India’s foreign ministry, Randhir Jaiswal, said the US had encouraged India to import Russian gas at the start of the conflict, “for strengthening global energy markets stability”.
+
+He said India “began importing from Russia because traditional supplies were diverted to Europe after the outbreak of the conflict”.
+
+...
+
+[Data](articles/5f4aed60.json)
+
+---
+
+### Fairly heavy rainfall above 50mm expected today
+
+*2025-08-05 05:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111168/fairly-heavy-rainfall-above-50mm-expected-today) · `en`
+
+Several spells of showers will occur in the Western, Sabaragamuwa, Central and North-Western provinces and in the Galle and Matara districts today (05), the Department of Meteorology said.
+
+Showers or thundershowers will occur at several places in the Northern, North-Central, Uva and Eastern provinces after 1.00 p.m., the Met. Department.
+
+Fairly heavy falls of above 50 mm are likely at some places in the Uva province and in the Ampara and Batticaloa districts.
+
+Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ffadb336.json)
+
+---
 
 ### செம்மணியில் நேற்று 5 எலும்புக்கூடுகள் அடையாளம்
 
@@ -407,6 +465,36 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/464c8383.json)
+
+---
+
+### ‘The First Fools’ who saw Singapore through to independence
+
+*2025-08-04 23:15:00* · [`islandlk`](http://island.lk/the-first-fools-who-saw-singapore-through-to-independence/) · `en`
+
+In a bold and timely release marking Singapore’s 60th year of independence, a new book is shaking up the familiar narrative of nation-building by offering a surprising and deeply human portrait of the men behind the republic’s birth. ‘The First Fools: B-Sides of Lee Kuan Yew’s A-Team’ is a literary excavation of the 10 men who signed the 1965 Separation Agreement, offering fresh insight into their lives beyond the headlines and history books.
+
+Published by The Nutgraf — a boutique editorial studio run largely by former journalists — the anthology is not a typical commemorative volume. Instead of celebrating political milestones and statecraft, it uncovers the untold personal stories of Singapore’s founding fathers: their hobbies, love lives, eccentricities, and even secret pasts.
+
+...
+
+[Data](articles/292744d6.json)
+
+---
+
+### Bank of Ceylon crowned Sri Lanka’s Most Valuable Brand in 2025
+
+*2025-08-04 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-crowned-sri-lankas-most-valuable-brand-in-2025/) · `en`
+
+The Bank of Ceylon (BOC) has been named Sri Lanka’s Most Valuable Brand for 2025 by Brand Finance Lanka, with a brand value of Rs. 57.4 billion reflecting a 14.3% increase compared to the previous year, marking yet another significant achievement in its storied legacy.
+
+Brand Finance Lanka is a subsidiary of Brand Finance UK, the world’s leading independent brand valuation and strategy consultancy. It evaluates top brands annually through a comprehensive methodology built on three core pillars: Brand Investment, Brand Equity and Brand Performance. Its rankings are backed by detailed financial analysis and an independent consumer survey, offering a transparent, evidence-based assessment of brand value and reputation.
+
+Becoming Sri Lanka’s Most Valuable Brand is a result of far more than revenue generation alone. Bank of Ceylon’s success is driven by its strategic focus on impactful customer promotion campaigns, strong social media engagement,
+
+...
+
+[Data](articles/1b870ee3.json)
 
 ---
 
@@ -1711,105 +1799,5 @@ Further investigations are being carried out under the supervision of Assistant 
 ...
 
 [Data](articles/0e3f202e.json)
-
----
-
-### 19 வருடங்களிற்கு முன்னர் அலுவலகத்தில் படுகொலை செய்யப்பட்ட மனிதாபிமான பணியாளர்கள் ; மூதூர் செல்வதற்கு மேற்கொள்ளப்பட்ட முயற்சியை தடுத்த இராணுவத்தினர் ; வீதியை மறித்த கும்பல் ; ஆதாரங்களை சேகரிப்பதில் ஆர்வம் காட்டாத பொலிஸார்
-
-*2025-08-04 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/221786) · `ta`
-
-ஜூலை 31 ஆகஸ்ட் முதலாம் திகதி காலை பட்டினிக்கு எதிரான அமைப்பின் 17 பணியாளர்கள் மூதூர் நகரிலும் அதனை  சுற்றியுள்ள பகுதிகளிலும் தங்கள் திட்டங்களை முன்னெடுப்பதற்காக புறப்பட்டு சென்றனர்.
-
-பட்டினிக்கு எதிரான அமைப்பின் செயற்பாடுகளை முன்னெடுப்பதற்காகவும் தேவையற்ற பயணங்களை மட்டுப்படுத்துவதற்காகவும் மூதூரில் ஒரு அலுவலகத்தை கொண்டிருந்தது.
-
-ஆகஸ்ட் முதலாம் திகதி அவர்கள் கடல்வழியாக மீண்டும் திருகோணமலை திரும்புவதற்கு திட்டமிட்டிருந்தனர்,ஆனால் அவர்கள் அங்கிருந்து புறப்படுவதற்கு முன்னர் கிளர்;ச்சி படையினர் மூதூரை இலக்குவைத்து தாக்குதலொன்றை மேற்கொண்டிருந்தனர்.
-
-இலங்கை இராணுவத்திற்கும் விடுதலைப்புலிகளிற்கும் இடையில் மூண்ட மோதல்காரணமாக மூதூரை சுற்றியுள்ள வீதிகள் பயணம் செய்வதற்கு பாதுகாப்பற்றவையாக மாறியதால் படகு போக்குவரத்து இடைநிறுத்தப்பட்டது.
-
-இதனை தொடர்ந்து கொழும்பிலும் பிரான்ஸ் தலைநகரிலும் இடம்பெற்ற கலந்துரையாடலின் பின்னர் 17 பணியாளர்களையும் மோதல்கள் முடிவிற்கு வரும்வரை மூதூர் அலுவலகத்திலேயே தங்கியிருக்குமாறு கேட்டுக்கொள்வது என தீர்மானம் எடுக்கப்;பட்டது.
-
-...
-
-[Data](articles/5c6214ec.json)
-
----
-
-### தலைமை ஆசிரியரை மாற்ற  தண்ணீர் தொட்டியில் விஷம் கலந்த சம்பவம்
-
-*2025-08-04 15:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைமை-ஆசிரியரை-மாற்ற-தண்ணீர்-தொட்டியில்-விஷம்-கலந்த-சம்பவம்/175-362280) · `ta`
-
-பெங்களூர்: கர்நாடகாவில் பள்ளி தண்ணீர் தொட்டியில் விஷம் கலந்து சம்பவம் அதிர்வலைகளை ஏற்படுத்தியுள்ளது. பள்ளி தலைமை ஆசிரியராக பணியாற்றி வரும் சுலைமான் என்கிற இஸ்லாமியரை பணியிடம் மாற்றம் செய்வதற்காக, அங்குள்ள இந்து இயக்கத்தைச் சேர்ந்தவர்கள் தண்ணீர் தொட்டியில் பூச்சி மருந்து கலந்துள்ளனர். இதில் 11 மாணவர்கள் உடல்நலம் பாதிக்கப்பட்ட நிலையில், 3 பேர் கைது செய்யப்பட்டுள்ளனர்.
-
-கர்நாடகா மாநிலம் பெலகாவி மாவட்டம், ஹூள்ளிக்கட்டி பகுதியில் அரசுப்பள்ளி இயங்கி வருகிறது. அங்கு சுலைமான் கொரிநாயக் என்பவர் தலைமை ஆசிரியராக உள்ளார். கிட்டத்தட்ட 13 வருடங்களாக அவர் அங்கு பணியாற்றி வருகிறார். உள்ளூர் கிராம மக்களிடம் அவர் மிகவும் நல்ல உறவில் இருக்கிறார்.
-
-அதேநேரத்தில் அவர் முஸ்லிம் என்பதால், இந்து மற்றும் வலதுசாரி இயக்கங்களைச் சேர்ந்தவர்கள் அவருக்கு எதிராக இருந்துள்ளனர். அதனால் தலைமை ஆசிரியர் சுலைமானை இடமாற்றம் செய்ய வேண்டும் என்று இந்து இயக்கங்கள் கூறி வந்துள்ளனர். ஆனால், அவரின் சிறப்பான சேவை காரணமாக பணியிடமாற்றம் செய்யவில்லை.
-
-...
-
-[Data](articles/c7e51668.json)
-
----
-
-### உக்ரைன் தொடர்பில் ரஸ்யாவுடன் மிக கடுமையான பேச்சுவார்த்தைகளிற்கு தயாராகின்றது அமெரிக்கா
-
-*2025-08-04 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221778) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்பின் விசேட பிரதிநிதி வியாழக்கிழமை ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டினை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொள்ளவுள்ளார்.
-
-ஸ்டீவ்விட்கொவ் பொதுமக்கள் கொல்லப்படுவதை நிறுத்துவதற்கான உடன்பாட்டினை சாத்தியமாக்கும் நடவடிக்கைகளில் ஈடுபடுவார் என அமெரிக்க ஜனாதிபதி தெரிவித்துள்ளார்.
-
-சமாதான உடன்பாட்டை சாத்தியமாக்குவதற்காக விட்கொவ் நான்கு தடவை ஏற்கனவே ரஸ்ய ஜனாதிபதியை சந்தித்துள்ளார்.
-
-எனினும் புட்டின் சமாதான  உக்ரைன் குறித்த சமாதான உடன்பாட்டிற்கு வரவேண்டும் இல்லையேல் தடைகளை எதிர்கொள்ளவேண்டும் என அமெரிக்க ஜனாதிபதி நிபந்தனை விதித்துள்ள சூழலில் இந்த சந்திப்பு நிகழவுள்ளமை குறிப்பிடத்தக்கது.
-
-ரஸ்யாவின் எஞ்சியுள்ள வர்த்தக சகாக்களான சீனா இந்தியாவை இலக்குவைத்து அமெரிக்கா தடைகளை விதிக்கலாம் என டொனால்ட் டிரம்ப் தெரிவித்துள்ளார்.
-
-தடைகள் விதிக்கப்படும் ஆனால் அவர்கள் தடைகளை தவிர்ப்பதில் வல்லவர்கள் என டிரம்ப் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/1a529cef.json)
-
----
-
-### FRs filed seeking to annul recently signed MoUs between Sri Lanka and India dismissed
-
-*2025-08-04 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111155/frs-filed-seeking-to-annul-recently-signed-mous-between-sri-lanka-and-india-dismissed) · `en`
-
-The Supreme Court today (04) dismissed without examination two fundamental rights (FR) petitions filed requesting the issuance of an order to annul seven Memoranda of Understanding signed between the Government of Sri Lanka and the Government of India recently.
-
-After a lengthy consideration, a Supreme Court bench comprising Justices Achala Wengappuli and Priyantha Fernando issued this order.
-
-The petitions had been filed by a group including President of the Patriotic National Movement Dr. Gunadasa Amarasekara.
-
-The Attorney General, Prime Minister Dr. Harini Amarasuriya and the Cabinet of Ministers have been named as respondents.
-
-The petitioners argue that MoUs go against Sri Lanka’s Constitution and international law.
-
-They allege that the public has not been informed about the contents of the MoUs, which violates their rights ensured through the Constitution.
-
-...
-
-[Data](articles/387f7b5c.json)
-
----
-
-### අත්සන් කළ ඉන්දු - ලංකා අවබෝධතා ගිවිසුම් 07 බල රහිත කරන්නැයි ඉල්ලූ පෙත්සම නිෂ්ප්‍රභ කෙරේ
-
-*2025-08-04 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213006) · `si`
-
-ශ්‍රී ලංකා රජය සහ ඉන්දියානු රජය අතර අත්සන් කෙරුණු අවබෝධතා ගිවිසුම් 07 ක් බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කරන ලද මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (04) තීන්දු කළේය.
-
-දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළේය.
-
-වෛද්‍ය ගුණදාස අමරසේකර ඇතුළු පිරිසක් සහ විනිවිද පෙරමුණ විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
-
-මෙම පෙත්සම සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම්වලට අදාළව මූලික විරෝධතා ඉදිරිපත් කරන බව සඳහන් කළේය.
-
-ඉන් අනතුරුව පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මනෝහර ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් ඉන්දීය රජය සමග ශ්‍රී ලංකා රජය ඇතිකර ගෙන තිබෙන අවබෝධතා ගිවිසුම් 07 ක් මෙම නඩූකරය තුළින් අභියෝගයට ලක් කර ඇති බව සඳහන් කළේය.
-
-...
-
-[Data](articles/ab7ef538.json)
 
 ---

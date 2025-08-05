@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 22:48:44**
+As of **2025-08-05 23:06:39**
 
 ## Newspaper Stats
 
-*Scraped **68,893** Articles*
+*Scraped **68,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,638
-adaderanalk | 8,553
+adaderanalk | 8,555
 tamilmirrorlk | 10,036
 virakesarilk | 11,477
-adaderanasinhalalk | 11,863
+adaderanasinhalalk | 11,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,893 articles have been extended.
+61,973 (90.0%) of 68,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### දොස්තර මහේෂිගේ දුව සමාව ගන්න සූදානම්
+
+*2025-08-05 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213062) · `si`
+
+අල්ලස් කොමිසමේ නිලධාරීන්ට මරණීය තර්ජන එල්ල කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් කොන්දේසි විරහිතව සමාව ඉල්ලා සිටීමට සූදානම් බව පසුගියදා අල්ලස් සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇප මත මුදාහැරි ශ්‍රී ජයවර්ධනපුර රෝහලේ විශේෂඥ වෛද්‍ය මහේෂි විජේරත්නගේ දියණිය වන හේමාලි විජේරත්න විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබේ.
+
+සමාව ඉල්ලා සිටීමෙන් නොනැවතී එසේ සමාව ගත් බවට දැන්වීම් පළ කිරීමට සූදානම් බව එම සැකකාරිය විසින් සිය නීතිඥවරයා මාර්ගයෙන් අධිකරණයට දැනුම් දුන් අතර තමන්ට එරෙහිව පවතින විමර්ශනය සමථයට පත් කොට සිය අනාගතය සකස් කරගැනීමට ඉඩ දෙන ලෙසත් අධිකරණයෙන් ඉල්ලා ඇත.
+
+අල්ලස් කොමිසමේ නිලධාරීන්ට මරණීය තර්ජන එල්ල කළේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින සැකකාර හේමාලී විජේරත්න තමන් වෙනුවෙන් පෙනී සිටින ජනාධිපති නීතිඥ උපුල් කුමරප්පෙරුම මහතා මාර්ගයෙන් මෙම කරුණු අධිකරණයට ඉදිරිපත් කළා තිබුණි.
+
+...
+
+[Data](articles/76f66f58.json)
+
+---
+
+### Eight-year-old dies after falling into Z-D Canal
+
+*2025-08-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111208/eight-year-old-dies-after-falling-into-z-d-canal) · `en`
+
+An eight-year-old child has died after falling into the Z-D Canal in Polonnaruwa, this evening (05).
+
+The child, who had gone to herd the goats in the Nagasthenna area of Welikanda, Polonnaruwa, met with this unfortunate incident.
+
+Welikanda Police stated that the child had told his mother he was going to herd the goats this evening and had left accordingly, but had failed to return.
+
+◼️
+
+[Data](articles/3dc188c4.json)
+
+---
 
 ### කෙහෙල්බද්දර පද්මේ සිදුකළ තර්ජන ගැන විමර්ශන ඇරඹෙයි
 
@@ -127,6 +159,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ab9fc8d1.json)
+
+---
+
+### Trump again threatens ‘very substantial’ tariff hikes for India over Russian oil
+
+*2025-08-05 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111207/trump-again-threatens-very-substantial-tariff-hikes-for-india-over-russian-oil) · `en`
+
+U.S. President Donald Trump said on Tuesday he would increase the tariff charged on imports from India from the current rate of 25% “very substantially” over the next 24 hours, in view of New Delhi’s continued purchases of Russian oil.
+
+He also said a “zero tariff” offer for imports of U.S. goods into India was not good enough, alleging that India was “fuelling the war” in Ukraine.
+
+Trump’s threat to India over its purchases of Russian oil started on July 31, when he announced a 25% tariff for Indian goods, along with an unspecified penalty.
+
+“They’re fuelling the war machine, and if they’re going to do that, then I’m not going to be happy,” Trump told CNBC in an interview on Tuesday, adding that the main sticking point with India was that its tariffs were too high.
+
+“Now, I will say this, India went from the highest tariffs ever. They will give us zero tariffs, and they’re going to let us go in. But that’s not good enough, because of what they’re doing with oil, not good.”
+
+...
+
+[Data](articles/8e72fa89.json)
 
 ---
 
@@ -1767,67 +1819,5 @@ However, the PUCSL decided to recommence investigation after expressing dissatis
 ◼️
 
 [Data](articles/eae2d17c.json)
-
----
-
-### වඳුරෙක් නිසා සිදු වූ විදුලි බිඳවැටීම ගැන PUCSL ප්‍රසිද්ධ විභාගයක්
-
-*2025-08-05 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213040) · `si`
-
-ලංකා විදුලිබල මණ්ඩලයේ පානදුර ග්‍රිඩ් උපපොළේ සම්ප්‍රේෂණ පද්ධතියේ වඳුරෙකු ගැටීම හේතුවෙන් දිවයිනටම විදුලිය විසන්ධි වූ බව කියන සිද්ධියට අදාළව මහජන උපයෝගීතා කොමිසම සිදුකරන ප්‍රසිද්ධ විභාගය අද (05) පෙරවරුවේ ආරම්භ කෙරුණි.
-
-කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ පැවැත්වෙන මෙම විභාගය සඳහා අද පෙරවරුවේ ප්‍රකාශ ලබාදුන්නේ ලංකා විදුලිබල මණ්ඩලයේ වැඩබලන සාමාන්‍යාධිකාරී ප්‍රමුඛ ජ්‍යෙෂ්ඨ නිලධාරීන්ය.
-
-ලංකා විදුලිබල මණ්ඩලයේ පානදුර ග්‍රිඩ් උපපොළේ සම්ප්‍රේෂණ පද්ධතියේ ඇතිවූ හදිසි තත්ත්වයක් හේතුවෙන් පසුගිය පෙබරවාරි 09 වනදා දිවයින පුරා හදිසි විදුලි බිඳවැටීමක් සිදුවිය.
-
-එම අවස්ථාවේදී බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා ප්‍රකාශ කළේ සම්ප්‍රේෂණ පද්ධතියේ වඳුරෙකු ගැටීම හේතුවෙන් විදුලි බිඳවැටීම සිදුවූ බවය.
-
-අමාත්‍යවරයාගේ මෙම ප්‍රකාශයට එවක විදෙස් මාධ්‍ය පවා පුළුල් ප්‍රචාරයක් ද ලබා දී තිබුණි.
-
-කෙසේවෙතත් විදුලිබල මණ්ඩලය මේ සම්බන්ධයෙන් ලබා දී තිබෙන වාර්තා පිළිබඳව සෑහීමකට පත් විය නොහැකි බැවින් නැවත විමර්ශනයක් පැවැත්වීමට මහජන උපයෝගිතා කොමිසම තීරණය කළේය.
-
-...
-
-[Data](articles/1b32c954.json)
-
----
-
-### Governor General of Australia Samantha Joy Mostyn to visit Sri Lanka
-
-*2025-08-05 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111192/governor-general-of-australia-samantha-joy-mostyn-to-visit-sri-lanka-) · `en`
-
-The Governor General of Australia Samantha Joy Mostyn is scheduled to undertake an official visit to Sri Lanka tomorrow.
-
-The Governor General will remain in the country until August 10, according to a statement issued by the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-During the visit, Governor General Samantha Joy Mostyn is expected to hold bilateral discussions with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
-
-The Governor General will also visit several projects supported by Australia in Bandaragama, Mirissa and Weligama.
-
-The visit aims to further strengthen bilateral cooperation and explore opportunities to expand existing areas of collaboration for the mutual benefit of both countries, the Foreign Ministry added further.
-
-◼️
-
-[Data](articles/0081267e.json)
-
----
-
-### இலங்கையில் நிலத்துக்கீழ் தான் பல உண்மைகள் புதைக்கப்பட்டுள்ளன – செம்மணி அகழ்விடம் குறித்து எம்.ஏ. சுமந்திரன் கருத்து!
-
-*2025-08-05 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221867) · `ta`
-
-இலங்கையிலே நிலத்திற்கு கீழ் தான் உண்மைகள் பலவும் புதைக்கப்பட்டு இருக்கின்றன என ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
-
-யாழ்ப்பாணம் செம்மணி மனிதப் புதைகுழியில் அகழ்வு இடம்பெறுவதை திங்கட்கிழமை (04) நேரில் சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-செம்மணி மனிதப் புதைகுழி ஆய்வு நடைபெறுகிற இடத்திலே ஸ்கேனர் கருவி இன்றைக்கு பாவிக்கப்பட்டிருக்கிறது. அதனை பாவிப்பதன் மூலமாக நிலத்திற்கு அடியிலே ஏதாவது அசாதாரணமான விடயங்கள் காணப்பட்டால் அல்லது அசைவுகள் இருந்தால் இந்த இயந்திரம் அதனை வெளிக்கொண்டு வரும் எனச் சொல்கிறார்கள்.
-
-இந்த மனிதப் புதைகுழியில் இப்பொழுது 130 இற்கும் மேற்பட்ட எலும்புத் தொகுதிகள் கண்டெடுக்கப்பட்டு இருக்கின்றன. இவ்வாறு ஒவ்வொருநாளும் இங்கு எலும்புக் கூடுகள் கண்டெடுக்கப்படுகின்றன.
-
-இதனுடைய பின்னணியை நாங்கள் பார்ப்போமாக இருந்தால் 1999 ஆம் ஆண்டு சோமரட்ன ராஜபக்ஷ நீதிமன்றத்தில் சொன்ன கூற்றின் பிரகாரம் அக்கால பகுதியில் 15 எலும்புக் கூட்டுத் தொகுதிகள் கண்டெடுக்கப்பட்டன.
-
-...
-
-[Data](articles/ce3c84be.json)
 
 ---

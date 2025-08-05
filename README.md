@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 13:07:28**
+As of **2025-08-05 13:21:54**
 
 ## Newspaper Stats
 
@@ -274,7 +274,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### சேவலை கொன்ற பெண் நாய் சுட்டுக்கொலை
+### சேவலை கொன்ற பெண் நாய்; சுட்டுக்கொலை
 
 *2025-08-05 11:23:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவலை-கொன்ற-பெண்-நாய்-சுட்டுக்கொலை/175-362329) · `ta`
 

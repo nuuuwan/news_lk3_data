@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 18:11:24**
+As of **2025-08-05 18:35:46**
 
 ## Newspaper Stats
 
-*Scraped **68,853** Articles*
+*Scraped **68,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,198
 islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,631
-adaderanalk | 8,547
-tamilmirrorlk | 10,024
+adalk | 6,632
+adaderanalk | 8,550
+tamilmirrorlk | 10,025
 virakesarilk | 11,470
 adaderanasinhalalk | 11,855
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,853 articles have been extended.
+61,973 (90.0%) of 68,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### காணாமல் போயுள்ளவர் தொடர்பில் தகவல் தெரிந்தால் அறிவிக்கவும்
+
+*2025-08-05 17:56:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போயுள்ளவர்-தொடர்பில்-தகவல்-தெரிந்தால்-அறிவிக்கவும்/175-362357) · `ta`
+
+மட்டக்களப்பு புதூரைச் சேர்ந்த 56 வயதுடைய குடும்பஸ்தர் ஒருவர் கடந்த 26ம் திகதியில் இருந்து காணாமல் போயுள்ளதாக உறவினர்கள் முறைப்பாடு தெரிவித்துள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவித்தனர்
+
+நகரிலுள்ள உணவகத்தில் வேலை செய்து வந்த புதூரைச் சேர்ந்த 56 வயதுடைய கணேஷ் விக்கினேஸ்வரன் கடந்த மாதம் 19ம் திகதி வழமைபோல வீட்டில் இருந்து உணவகத்திற்கு வேலைக்கு சென்றவர் அன்று வீடு திரும்பாத நிலையில்  அவரை உறவினர்கள் தொடர்பு கொண்ட போது மாமாங்க கோவில் உற்றவத்தையிட்டு அங்கு  தான் வேலை செய்யும் முதலாளி உணவு கடை அமைத்துள்ளதாகவும் அங்கு நிற்பதாக தெரிவித்துள்ளார்.
+
+இதன் பின்னர் கடந்த மாதம் 26 ஆம் திகதி முதலாளி சம்பளம் தரவில்லை தந்ததும் வருவதாக தொலைபேசி ஊடாக தெரிவித்து கொண்டார் அதன் பின்னர் கோவில் உற்சவம் முடிவுற்ற பின்னர் அவரின் தொலைபேசி செயலிழந்துள்ளது அடுத்து அவர் வீடு திரும்பியதையடுத்து அவரை உறவினர்கள் தேடியும் அவரை காணவில்லை என முறைப்பாட்டில் தெரிவித்துள்ளார்
+
+...
+
+[Data](articles/3ab3497e.json)
+
+---
 
 ### வாக்களிப்பை தவிர்த்த எம்.பி யார் தெரியுமா?
 
@@ -49,6 +65,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e342e5ec.json)
+
+---
+
+### Kandy to be developed as a Virtual City under ‘Clean Sri Lanka’ project
+
+*2025-08-05 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111202/kandy-to-be-developed-as-a-virtual-city-under-clean-sri-lanka-project) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to commence the production of the Virtual City Project by Sri Lanka Telecom, using the funds allocated for the “Clean Sri Lanka” project.
+
+The city of Kandy, which includes the historical Temple of the Tooth Relic, a UNESCO World Heritage site, has been identified to be developed as the Virtual City in Kandy, serving as a pilot project for the creation of a Virtual City.
+
+It has been planned to create 58 places identified on a priority basis as tourist attractions and places with tourism potential, centered primarily in Kandy town, as stage one of the pilot project.
+
+As a second stage of the project, it has been planned to create technologically the premises of the historical Temple of the Tooth Relic and 20 places surrounding it that are historic and vitally important for tourism.
+
+...
+
+[Data](articles/059446eb.json)
 
 ---
 
@@ -107,6 +141,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1f77979b.json)
+
+---
+
+### උළුගෙතැන්න අත්අඩංගුවට ගත්තේ බොරු සාක්ෂි මතයි
+
+*2025-08-05 17:10:05* · [`adalk`](https://www.ada.lk/breaking_news/උළුගෙතැන්න-අත්අඩංගුවට-ගත්තේ-බොරු-සාක්ෂි-මතයි/11-417738) · `si`
+
+හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න මහතා අත්අඩංගුවට ගත්තේ කොටිකොටි නායකයෙකු ලබා දුන් බොරු සාක්ෂි මත යන්න බව පැහැදිලිවම තහවුරු ව ඇති බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය  ගම්මන්පිල මහතා පැවැස‍ිය. අද කොළඹදී පැවැති මාධ්‍ය හමුවකදී ඔහු මේ බව පැවැසීය.
+
+"හිටපු නාවික හමුදාපතිවරයා රක්ෂිත බන්ධනාගාර ගත කරලා ඉන්න නිසා තමන් ප්‍රකාශයක් කලොත් අධිකරණයට අපහාසයක් වේවි කියලා බයයි.  ඒ නිසා කතා කරන්නේ නෑ.  අධිකරණය ඉදිරියේ විනිශ්චය භාජනය වුණු කාරණයක් පිළිබඳ ප්‍රසිද්ධියේ අදහස් දක්වන්න බෑ.  ඒක ඇත්ත.  නමුත් චෝදනා ගොනු කරලා නඩු විභාගයක් ආරම්භ වුණාට පස්සේ තමයි අධිකරණයේ විනිශ්චයට භාජනය වුණු කරුණක් වෙන්නේ.  තවමත් මේ නඩුවේ චෝදනා ගොනු කරලා නෑ.  තවමත් තිබෙන්නේ අධිකරණයේ සහයෙන් අධිකරණයේ අධීක්ෂණය යටතේ කරගෙන යන පොලිස් විමර්ශනයක් පමණයි. ඒ නිසා මේ ගැන ප්‍රසිද්ධියේ කතා කරන්න කවුරුවත් පැකිලෙන්න එපා.
+
+...
+
+[Data](articles/a20a72c1.json)
+
+---
+
+### Cabinet approves amendment of Child Protection Authority Act
+
+*2025-08-05 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111201/cabinet-approves-amendment-of-child-protection-authority-act) · `en`
+
+The Cabinet of Ministers has granted approval to amend the Child Protection Authority Act No. 50 of 1998.
+
+The Cabinet Spokesman said it has been around 25 years after passing the Child Protection Authority Act No. 50 of 1998. Due to the socio – economic, political and cultural changes, the exploitation and harassments against children have become complex, he said.
+
+Therefore, it has been identified that of the requirement of making amendments to the laws in effect at present to prevent all abuses against children and response to them, Cabinet Spokesman Minister Dr. Nalinda Jayatissa said.
+
+Accordingly, the Cabinet of Ministers has granted approval to the proposal furnished by the Minister of Women’s and Child Affairs to instruct the Legal Draftsman to prepare a draft bill to amend the aforementioned act including the revisions recognized for performing activities of the Child Protection Authority Act No. 50 of 1998 broader, meaningfully and efficiently.
+
+◼️
+
+[Data](articles/002bf2a1.json)
 
 ---
 
@@ -1194,6 +1260,26 @@ Following this, the Cabinet of Ministers has approved the revised insurance limi
 
 ---
 
+### MPs’ Rs. 1 million insurance coverage to be slashed
+
+*2025-08-05 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111190/mps-rs-1-million-insurance-coverage-to-be-slashed) · `en`
+
+The Cabinet of Ministers has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
+
+At the Cabinet meeting held on 15-05-2023, approval was granted to implement a group insurance policy subject to a maximum insurance coverage of Rs. 1 million per parliamentary year.
+
+Accordingly, relevant insurance policies have been provided over the past period.
+
+During the 2025 Budget Speech, President Anura Kumara Dissanayake proposed reducing the insurance cover limit of Rs. 1,000,000 to Rs. 250,000.
+
+Following this, the Cabinet of Ministers has approved the revised insurance limit of Rs. 250,000 for a Member of Parliament from the insurance year scheduled to commence on October 09, 2025.
+
+◼️
+
+[Data](articles/ce892f69.json)
+
+---
+
 ### குடும்பத்தினர் சம்மதிக்காத காதல் திருமணங்களுக்கு தடை
 
 *2025-08-05 12:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தினர்-சம்மதிக்காத-காதல்-திருமணங்களுக்கு-தடை/175-362338) · `ta`
@@ -1719,91 +1805,5 @@ Subsequent to the conclusion of the amnesty period, operations were launched fro
 ...
 
 [Data](articles/8fd02c8b.json)
-
----
-
-### කල්පිටියේ එකම සක්‍රීය වැවත් අනවසර ඉදිකිරීම්වලට බිලි
-
-*2025-08-05 10:40:26* · [`adalk`](https://www.ada.lk/uncategorized/කල්පිටියේ-එකම-සක්‍රීය-වැවත්-අනවසර-ඉදිකිරීම්වලට-බිලි/1-417728) · `si`
-
-කල්පිටිය ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අයත් එකම සක්‍රීය වැව වන ඒත්තාල ග්‍රාම නිළධාරී කොට්ඨාසයට අයත් තඹර වැව හෙවත් නෙලුම් වැවේ අනවසර ඉදිකිරීම් සිදු වෙමින් පවතින බවට ප්‍රදේශවාසී ජනතාව චෝදනා කර සිටිති.
-
-දැනටමත් බලධාරීන්ගේ අවධානයෙන් ගිලිහී,ඇති තඹර වැව හෙට අනිද්දා වන විට තව බොහෝ අනවසර ඉදිකිරීම් වලට තෝතැන්නක් වනු ඇතැ යි ජනතාව බිය පල කර සිටිති.
-
-වසර සියයක වැඩි දිගු ඉතිහාසයක් සහිත මෙම වැව,අක්කර 13 කුත් පර්චස් 21 කින් යුතු බව ඒත්තාල ප්‍රදේශයේ පදිංචි සමාජ සේවකයෙකු මෙන්ම සිවිල් ආරක්ෂක කමිටුවේ හිටපු සභාපති ජේ.එස්.ඊ.මහින්ද ලාල් මහතා පැවැසුවේ ය.
-
-"මේ වැවෙන් වාරකන් කාලයේ බොහෝ දෙනෙකු ධීවර කර්මාණ්තයේ යෙදිලා බඩ වියත රැක ගන්නවා. මිනිසුන්ට,  සත්තුන්ට දිය නාන්න ප්‍රයෝජනවත් වුනා." ප්‍රදේශවාසී ජනතාව අපට පැවසුවේ ය.
-
-◼️
-
-[Data](articles/d807ee28.json)
-
----
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-05 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221846) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (05) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/3ab8c403.json)
-
----
-
-### Sri Lanka sees influx of Israeli tourists in July amid local concerns
-
-*2025-08-05 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-influx-of-israeli-tourists-in-july-amid-local-concerns-234518/) · `en`
-
-ECONOMYNEXT – Sri Lanka has seen a sharp rise in Israeli tourists in July 2025, though local residents and some foreign activists are also raising concerns amid the genocidal actions of Benjamin Netanyahu’s nationalist administration undermining the image of the Jewish nation.
-
-Tourist arrivals from Israel were 1,966 in July 2025, compared to 573 in the previous month. However, July arrivals were 33.6 percent lower than in the same month last year.
-
-An Instagram video by a foreign tourist, showing a building with Hebrew markings in Arugam Bay, which went viral last week has re-ignited concerns over Israeli-run tourist businesses.
-
-The tourist pointed to what he said were stickers on a wall supporting Israel Defence Forces. The IDF is accused of killing hungry Gazans coming to get food aid.
-
-Israel military kills 1,054 starving Gazans, 764 baited with GHF food
-
-...
-
-[Data](articles/a9ed7e1c.json)
-
----
-
-### தென்னக்கோனை   நீக்கும் பிரேரணை மீது   இன்று வாக்கெடுப்பு
-
-*2025-08-05 10:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்கும்-பிரேரணை-மீது-இன்று-வாக்கெடுப்பு/175-362326) · `ta`
-
-பொலிஸ்மா அதிபர் டீ.எம்.டபிள்யூ.தேசபந்து தென்னக்கோனை    2002ஆம் ஆண்டின் 5ஆம்இலக்க அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17ஆம் வாசகத்தின் பிரகாரம் அப்பதவியிலிருந்து அகற்றுவதற்கான தீர்மானத்தை நிறைவேற்றுவது தொடர்பான விவாதத்தை ஓகஸ்ட் மாதம்  5ஆம் திகதி நடத்துவதற்கு பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் தீர்மானிக்கப்பட்டிருக்கிறது.
-
-சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில்  கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இத்தீர்மானம் எடுக்கப்பட்டது. இதற்கமைய ஓகஸ்ட் மாதம்  5, 6 மற்றும்  7ஆம் திகதிகளில் பாராளுமன்றம் கூடவுள்ளது. ஓகஸ்ட் 8ஆம் திகதி வெள்ளிக்கிழமை போயாதினம் என்பதால் அன்று பாராளுமன்றம் கூடாது.
-
-...
-
-[Data](articles/556a092b.json)
-
----
-
-### Thebuwana Bindu arrested with ‘Ice’ worth Rs. 5 million
-
-*2025-08-05 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111180/thebuwana-bindu-arrested-with-ice-worth-rs-5-million) · `en`
-
-An individual known as “Thebuwana Bindu,” who had been operating a drug trafficking network via the “eZ Cash” system, has been arrested by the Thebuwana Police.
-
-This drug trafficking operation had been carried out in a discreet manner targeting areas such as Thebuwana, Horana, Matugama, and Anguruwatota. The raid was conducted based on a tip-off received by police.
-
-Accordingly, a special police team was deployed for surveillance in the area. During the operation, two suspects involved in drug trafficking had been taken into custody.
-
-Meanwhile, further investigation led to the arrest of the main suspect near the Delgoda temple with 15 grams of Ice in his possession.
-
-Police obtained permission to detain and question the suspect for seven days, after reporting facts to the Matugama Magistrate’s Court.
-
-Subsequent investigations revealed information of a stock of 310 grams of ice, worth approximately Rs. 5 million, hidden at an unoccupied house in Kirimatiya, Thebuwana.
-
-...
-
-[Data](articles/2e2dc82d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 14:55:12**
+As of **2025-08-05 15:11:25**
 
 ## Newspaper Stats
 
-*Scraped **68,790** Articles*
+*Scraped **68,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
-economynextcom | 4,191
+economynextcom | 4,197
 islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
@@ -26,11 +26,33 @@ adaderanasinhalalk | 11,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,790 articles have been extended.
+61,973 (90.1%) of 68,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### Sri Lanka to resume Narahenpita, Torrington housing projects
+
+*2025-08-05 14:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-narahenpita-torrington-housing-projects-234712/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to resume halted housing projects at Colombage Mawatha in Narahenpita and Torrington, minister Nalinda Jayatissa said.
+
+“The estimated cost for the implementation of these projects is 7.48 billion rupees,” Jayatissa told reporters.
+
+The Narahenpita Colombage Mawatha scheme was supposed to have 615 units, while the Torrington Mawatha scheme was to have 115 housing units.
+
+“It is expected that it will take about 2 years to complete the construction work.”
+
+The proposal to allocate the necessary provisions for the implementation of these projects from 2026 to 2028 was approved by the cabinet, Jayatissa said.
+
+The two housing projects which were commenced under the urban revitalization project were stopped halfway when the country faced an economic crisis. (Colombo/Aug5/2025)
+
+◼️
+
+[Data](articles/6e07dfb1.json)
+
+---
 
 ### ’இறப்புச் சான்றிதழைத் தயாரா?’: பத்மே கர்ஜனை
 
@@ -47,6 +69,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/11ad3588.json)
+
+---
+
+### Sri Lanka seeks investors for Charmers Granaries Fort land
+
+*2025-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-for-charmers-granaries-fort-land-234705/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call for investment proposals for the Charmers Granaries land at Colombo Fort beloging to the Urban Development Authority, Minister Nalinda Jayatissa said.
+
+The cabinet had approved the proposal to lease the land at Olcott Mawatha on a 99-year lease basis at the latest valuation by the Chief Valuer of the Government, Jayatissa told reporters.
+
+“Cabinet approved the proposal to invite investments from interested investors to dispose of the said land on a lease basis for implementation of a mixed development of a financial, environmental and social nature.”
+
+The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is located in a mixed development zone of a development plan prepared for the Colombo Municipal Council area for the period 2022-2031.
+
+...
+
+[Data](articles/cd1fd688.json)
 
 ---
 
@@ -698,6 +738,26 @@ Subsequent to the conclusion of the amnesty period, operations were launched fro
 
 ---
 
+### Sri Lanka sees influx of Israeli tourists in July amid local concerns
+
+*2025-08-05 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-influx-of-israeli-tourists-in-july-amid-local-concerns-234518/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen a sharp rise in Israeli tourists in July 2025, though local residents and some foreign activists are also raising concerns amid the genocidal actions of Benjamin Netanyahu’s nationalist administration undermining the image of the Jewish nation.
+
+Tourist arrivals from Israel were 1,966 in July 2025, compared to 573 in the previous month. However, July arrivals were 33.6 percent lower than in the same month last year.
+
+An Instagram video by a foreign tourist, showing a building with Hebrew markings in Arugam Bay, which went viral last week has re-ignited concerns over Israeli-run tourist businesses.
+
+The tourist pointed to what he said were stickers on a wall supporting Israel Defence Forces. The IDF is accused of killing hungry Gazans coming to get food aid.
+
+Israel military kills 1,054 starving Gazans, 764 baited with GHF food
+
+...
+
+[Data](articles/a9ed7e1c.json)
+
+---
+
 ### தென்னக்கோனை   நீக்கும் பிரேரணை மீது   இன்று வாக்கெடுப்பு
 
 *2025-08-05 10:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்கும்-பிரேரணை-மீது-இன்று-வாக்கெடுப்பு/175-362326) · `ta`
@@ -789,6 +849,30 @@ Subsequent investigations revealed information of a stock of 310 grams of ice, w
 ...
 
 [Data](articles/01e287ae.json)
+
+---
+
+### Sri Lanka is clearing AliExpres, Temu goods with border taxes, no de minimis
+
+*2025-08-05 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-is-clearing-aliexpres-temu-goods-with-border-taxes-no-de-minimis-234668/) · `en`
+
+ECONOMYNEXT – Sri Lanka is now charging all taxes on foreign parcels coming from online platforms and backlogs have also been cleared, without any de minimis exemptions being given Customs officials said.
+
+“We have cleared all the backlogs,” Additional Customs Director General, Seevali Arukgoda told the parliament’s Committee on Public Finance.
+
+“At the moment individual items are charged on the HS Code. We gave technical advice to the companies that are importing. Now they are being cleared daily.
+
+Before the crisis about 1 to 2 billion rupees of revenues was earned and about 4 to 5 tonnes arrived daily, another customs official said.
+
+Daily shipments have stopped and now shipments are coming weekly about three times, he said.
+
+“They have minimized costs and changed their strategies,” the person said.
+
+He said there the backlog was partly due to a delay in the relevant companies getting approval from their platforms to pay the higher taxes.
+
+...
+
+[Data](articles/6a3c407c.json)
 
 ---
 
@@ -901,6 +985,24 @@ At 39 per cent, the levy exceeds the 31 per cent proposed by Trump on “liberat
 ...
 
 [Data](articles/92eb5b11.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-08-05 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-234664/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/95 to the US dollar in the spot market Tuesday, stronger from 301.00/03 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2028 was quoted flat at 8.85/90 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.35/37 percent, down from 9.38/40 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.25/30 percent. (Colombo/Aug5/2025)
+
+◼️
+
+[Data](articles/b8067dfc.json)
 
 ---
 
@@ -1069,6 +1171,30 @@ The notice did not name the countries affected, but said the list will be releas
 ...
 
 [Data](articles/2f3fae5e.json)
+
+---
+
+### Sri Lanka budget revenues up 25-pct in June 2025
+
+*2025-08-05 08:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-revenues-up-25-pct-in-june-2025-234652/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenues grew 25 percent in the six months to June 2025 to 2,231 billion rupees, while current spending grew 13 percent to 2,506.8 billion rupees, provisional official data show.
+
+The capital expenditure was 223.9 billion rupees, down 9 percent from a year earlier, and up from 175 billion rupees in May, provisional Finance Ministry data show.
+
+The current account deficit, a key fiscal metric which is total revenues less current spending was down 48 percent to 185 billion rupees.
+
+In good budgeting, in the so-called golden rule of budgeting is to maintain a surplus in the current spending, which Sri Lanka has not been able to do from the late 1980s.
+
+Within the 15 percent rise in current spending to 2,506 billion rupees, Interest costs grew 10.7 percent to 1,264.6 billion rupees.
+
+Non-interest current spending grew 15 percent to 1,242 billion rupees.
+
+Sri Lanka’s state salaries were increased in April and current spending is starting to pick up.
+
+...
+
+[Data](articles/6a0862bb.json)
 
 ---
 
@@ -1663,115 +1789,5 @@ BNI Sri Lanka’s flagship event – The BNI National Conference 2025 – which 
 ◼️
 
 [Data](articles/f3147a39.json)
-
----
-
-### செம்மணி சித்துபாத்தி புதைகுழி: சர்வதேச பொறிமுறைகள் தேவை ; ஐ.நா உயர்ஸ்தானிகருக்கு அரசியல் கட்சிகள், சிவில் அமைப்புகள் கடிதம்
-
-*2025-08-05 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/221829) · `ta`
-
-தற்போது முன்னெடுக்கப்பட்டுவரும் செம்மணி மனிதப்புதைகுழி அகழ்வுப்பணிகள் உரிய சர்வதேச நியமங்களுக்கு அமைவாக முன்னெடுக்கப்படுவதையும், அங்கு கண்டறியப்படும் மனித எச்சங்களின் பாதுகாப்பையும் உறுதிப்படுத்துவதற்கு ஏதுவான வகையில் அகழ்வுப்பணிகளின்போது சர்வதேச கண்காணிப்பு மற்றும் தொழில்நுட்ப உதவிகள் என்பன வழங்கப்படவேண்டும். அதன்படி வட, கிழக்கு மாகாணங்களில் உள்ள மனிதப்புதைகுழிகளை மீள் அடையாளப்படுத்துவற்கும், முறையான கண்காணிப்பை உறுதிசெய்வதற்கான சர்வதேசப்பொறிமுறையொன்றை நடைமுறைப்படுத்துவதற்கும் மனித உரிமைகள் உயர்ஸ்தானிகர் அலுவலகம் அதிமுன்னுரிமை வழங்கவேண்டும் என வட, கிழக்கு மாகாணங்களில் இயங்கிவரும் தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக அமைப்புக்கள் இணைந்து ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கும், மனித உரிமைகள் பேரவையின் அங்கம் வகிக்கும் உறுப்புநாடுகளின் பிரதிநிதிகளுக்கும் அனுப்பிவைத்துள்ள கடிதத்தில் வலியுறுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/a28e3e71.json)
-
----
-
-### Sri Lankan design talent  makes global mark at  Graduate Fashion Week London
-
-*2025-08-05 00:38:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-design-talent-makes-global-mark-at-Graduate-Fashion-Week-London/34-779881) · `en`
-
-When Sri Lankan design talent takes the stage at events like London’s Graduate Fashion Week, it signals more than individual success, it proves that creative youth from our island can compete globally and highlights the untapped potential of our creative industries.
-
-This year, that promise was brought to life by Nethangi Fernando, an emerging designer from AOD, who presented her final-year collection at the world’s largest platform for new fashion talent. Her work, developed in collaboration with Inqube — a Brandix innovation arm showcased how local education, combined with strong industry partnerships, can deliver global impact.
-
-Following her showcase, Nethangi joined Inqube’s design team, marking a smooth transition from student to professional. Her journey is a powerful example of AOD’s international curriculum and industry-integrated model working together to launch creative careers that reach far beyond Sri Lanka.
-
-...
-
-[Data](articles/331fad5b.json)
-
----
-
-### 2025-08-04 (Monday)
-
-### IMF debt trap in Sri Lanka:  How conditionalities stifle investment and growth
-
-*2025-08-04 23:37:52* · [`dailyftlk`](https://www.ft.lk/columns/IMF-debt-trap-in-Sri-Lanka-How-conditionalities-stifle-investment-and-growth/4-779870) · `en`
-
-To escape the debt trap, the country must be allowed to offer competitive tax incentives, just like its regional peers
-
-Sri Lanka’s economic crisis has been exacerbated by its reliance on International Monetary Fund (IMF) bailout packages, which come with stringent conditions that often undermine long-term growth. One of the most damaging aspects of IMF-imposed austerity is the restriction on tax incentives, including tax holidays for foreign and local investors. By preventing the Government from offering competitive tax breaks, the IMF effectively discourages investment in export-oriented industries—precisely the sectors Sri Lanka needs to generate foreign exchange and repay its debts. This creates a vicious cycle: without investment, the economy stagnates, debt becomes unsustainable, and the country remains trapped in perpetual dependency on IMF loans.
-
-...
-
-[Data](articles/2a473ffa.json)
-
----
-
-### Big scene for JAYASRI TWINS… Reggae festival in Colombo
-
-*2025-08-04 23:26:00* · [`islandlk`](http://island.lk/big-scene-for-jayasri-twins-reggae-festival-in-colombo/) · `en`
-
-JAYASRI Twins, Rohitha and Rohan, continue to create great vibes in the scene in Europe, and they are doing it big time!
-
-Rohitha and Rohan were in Sri Lanka, as well, and went back to Austria, where they are based, at the end of May, 2025, for their summer commitments in Europe.
-
-They teamed up with the MEMBERS band to commence their tour of Europe, with performances in Vienna (Austria), Bucharest (Romania), and Milano and Naples, in Italy, with several open air and indoor concerts.
-
-“It was awesome to see the Sri Lankan crowd enjoying our music and we had a superb time entertaining them,” says Rohitha.
-
-They also did a gig in the UK, for the Sri Lankan community in that part of the world, which also turned out to be mind-blowing.
-
-Says Rohitha: “We did our thing at the Festival of Cricket (FOC) event in London, and it was their 35th Anniversary, as well.
-
-“The atmosphere was terrific and we did a great show with the EXCEED band from London.
-
-...
-
-[Data](articles/39078e06.json)
-
----
-
-### Birthday celebrations …
-
-*2025-08-04 23:24:00* · [`islandlk`](http://island.lk/birthday-celebrations/) · `en`
-
-Thursday, 24th July, was a special day for the incomparable bassist Benjy Ranabahu.
-
-Yes, it was his birthday but the real celebrations took place a day later, at The Hut, Mount Lavinia.
-
-It was a musical evening, with Benjy’s group, Inner Vision, in action, and the party went on till 1 am.
-
-The highlight of the evening was, undoubtedly, the guest appearance of veteran singer Manilal Perera and Rodney Rabot, with Judy de Silva turning up later.
-
-Both Manilal and Rodney were outstanding and those present appreciated their vibrant personality, and vocals.
-
-Rodney, incidentally, was a member of the original Amazing Grace, in 1974.
-
-It was around midnight that the cake cutting ceremony took place, and with the baila taking over for the final session.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/464c8383.json)
-
----
-
-### ‘The First Fools’ who saw Singapore through to independence
-
-*2025-08-04 23:15:00* · [`islandlk`](http://island.lk/the-first-fools-who-saw-singapore-through-to-independence/) · `en`
-
-In a bold and timely release marking Singapore’s 60th year of independence, a new book is shaking up the familiar narrative of nation-building by offering a surprising and deeply human portrait of the men behind the republic’s birth. ‘The First Fools: B-Sides of Lee Kuan Yew’s A-Team’ is a literary excavation of the 10 men who signed the 1965 Separation Agreement, offering fresh insight into their lives beyond the headlines and history books.
-
-Published by The Nutgraf — a boutique editorial studio run largely by former journalists — the anthology is not a typical commemorative volume. Instead of celebrating political milestones and statecraft, it uncovers the untold personal stories of Singapore’s founding fathers: their hobbies, love lives, eccentricities, and even secret pasts.
-
-...
-
-[Data](articles/292744d6.json)
 
 ---

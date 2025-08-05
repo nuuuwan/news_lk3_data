@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 04:22:00**
+As of **2025-08-06 04:33:43**
 
 ## Newspaper Stats
 
-*Scraped **68,912** Articles*
+*Scraped **68,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,639
 adaderanalk | 8,555
-tamilmirrorlk | 10,038
+tamilmirrorlk | 10,039
 virakesarilk | 11,482
 adaderanasinhalalk | 11,864
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,912 articles have been extended.
+61,973 (89.9%) of 68,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### புதிய எல்லை நிர்ணயக் குழு
+
+*2025-08-06 04:05:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எல்லை-நிர்ணயக்-குழு/175-362383) · `ta`
+
+புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (04) அன்று அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+இதற்கான யோசனையை பொது நிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சமர்ப்பித்தார்.
+
+பிரதேச செயலகப் பிரிவுகள் மற்றும் கிராம உத்தியோகத்தர் பிரிவுகளை நிறுவுதல் மற்றும் மீளாய்வு செய்வதற்காக 2012ஆம் ஆண்டு எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் ஒருசில விதந்துரைகள் மாத்திரம் அமுல்படுத்துவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+பின்னர் 2021ஆம் ஆண்டில் மீண்டும் எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் விதந்துரைகள் தொடர்பாக இதுவரைக்கும் எவ்வித நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை.
+
+...
+
+[Data](articles/92a162cb.json)
+
+---
 
 ### ’தென்னக்கோனை நீக்குவது சிறந்த எடுத்துக்காட்டு’
 
@@ -714,22 +732,6 @@ Therefore, the renovation and development of the Pettah Central Bus Stand, appro
 
 ---
 
-### 
-
-*2025-08-05 18:39:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86242) · `en`
-
-மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரே முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.
-
-1988 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்பட்ட மாகாணசபைகள் முறை,  பல வருடங்களாக வெவ்வேறு மாகாண சபைகளுக்கு மக்களால் தெரிவுசெயயப்பட்ட பல முதலமைச்சர்களை கண்டுவந்திருக்கிறது. ஒவ்வொரு மாகாணத்துக்கும் தனியொரு முதலமைச்சர் என்பதே நியமமாக இருந்த போதிலும், கடந்த காலத்தில் ஒரு குறிப்பிடத்தக்க விதிவிலக்கும் இருந்தது.
-
-தற்காலிகமாக இணைக்கப்பட்ட வடக்கு, கிழக்கு மாகாணங்களுக்கு 1988 நவம்பரில் தேர்தல் நடத்தப்பட்டது. வடக்கு — கிழக்கு மாகாணசபை என்று அன்று அழைக்கப்பட்ட சபையின் முதலாவது முதலமைச்சராக ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியைச் சேர்ந்த அண்ணாமலை வரதராஜப் பெருமாள் தெரிவு செய்யப்பட்டார்.
-
-...
-
-[Data](articles/37869b53.json)
-
----
-
 ### தென்னகோனை நீக்கும் விவகாரம்;நாமல் அதிருப்தி
 
 *2025-08-05 18:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனை-நீக்கும்-விவகாரம்-நாமல்-அதிருப்தி/175-362360) · `ta`
@@ -834,6 +836,20 @@ The donation comes at a critical time as Sri Lanka continues to face frequent na
 
 ---
 
+### Sri Lanka’s  first,last and only North -Eastern  Province Chief Minister A. Varatharaja Perumal Embarks on Political Project to Boost Provincial Councils.
+
+*2025-08-05 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86235) · `en`
+
+The provincial councils  scheme ,   implemented since  1988,  has seen a number of chief ministers being elected by  the various provincial councils over the years. Although the norm has been for each province to have a single chief minister, there has been a notable exception in the past.
+
+In  November 1988, elections were held together for  the temporarily merged Northern and Eastern Provinces. Annamalai Varatharaja Perumal of the Eelam Peoples Revolutionary Liberation Front(EPRLF) was elected as the first chief minister of what was then called the North -Eastern Provincial Council.
+
+...
+
+[Data](articles/80afc03f.json)
+
+---
+
 ### ඕස්ට්‍රේලියානු ආණ්ඩුකාර ජෙනරාල්වරිය හෙට දිවයිනට
 
 *2025-08-05 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213052) · `si`
@@ -851,6 +867,20 @@ The donation comes at a critical time as Sri Lanka continues to face frequent na
 ◼️
 
 [Data](articles/2b02fa93.json)
+
+---
+
+### மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரேயொரு  முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.
+
+*2025-08-05 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86242) · `en`
+
+1988 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்பட்ட மாகாணசபைகள் முறை,  பல வருடங்களாக வெவ்வேறு மாகாண சபைகளுக்கு மக்களால் தெரிவுசெயயப்பட்ட பல முதலமைச்சர்களை கண்டுவந்திருக்கிறது. ஒவ்வொரு மாகாணத்துக்கும் தனியொரு முதலமைச்சர் என்பதே நியமமாக இருந்த போதிலும், கடந்த காலத்தில் ஒரு குறிப்பிடத்தக்க விதிவிலக்கும் இருந்தது.
+
+தற்காலிகமாக இணைக்கப்பட்ட வடக்கு, கிழக்கு மாகாணங்களுக்கு 1988 நவம்பரில் தேர்தல் நடத்தப்பட்டது. வடக்கு — கிழக்கு மாகாணசபை என்று அன்று அழைக்கப்பட்ட சபையின் முதலாவது முதலமைச்சராக ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியைச் சேர்ந்த அண்ணாமலை வரதராஜப் பெருமாள் தெரிவு செய்யப்பட்டார்.
+
+...
+
+[Data](articles/37869b53.json)
 
 ---
 
@@ -1793,37 +1823,5 @@ Published by The Nutgraf — a boutique editorial studio run largely by former j
 ...
 
 [Data](articles/b6589925.json)
-
----
-
-### மேல் நிலை அதிகாரிகளால் பழிவாங்கப்படும் மனைவியான கிராம அலுவலர் ; நீதியை பெற்று தருமாறு கணவன் கோரிக்கை!
-
-*2025-08-05 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221871) · `ta`
-
-கிராம அலுவலராக கடமையாற்றி வரும் தனது மனைவி பழிவாங்கப்பட்டு கட்டாய பணியிடம் மாற்றப்பட்ட நிலையில் குறித்த பணியிட மாற்றமானது நீதி அற்ற நியாயமற்ற முறையில் வழங்கப்பட்டுள்ளதாக கிராம அலுவலரின் கணவரான செல்வரத்தினம் கிருஸ்ணரூபன் தெரிவித்துள்ளார்.
-
-கடந்த 2017ஆம் ஆண்டு வழங்கப்பட்ட வரட்சி நிவாரண தெரிவு பட்டியிலில் இடம்பெற்ற முறைகேடான தெரிவு எனும் அடிப்படையிலேயே குறித்த பணியிட மாற்றம் வழங்கப்பட்டுள்ளதாகவும் , தனது மனைவியான கிராம அலுவலர் சுற்றுநிருப விதி முறைகளுக்கு அமைவாகவே குறித்த தெரிவு பட்டியலை வழங்கியுள்ளார் என்றும் ஆனால் ஒருசில அதிகாரிகளை  திருப்தி படுத்துவதற்காக  தனது மனைவிக்கு கட்டாய பணியிட மாற்றம் வழங்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
-
-முல்லைத்தீவு மாவட்டம் துணுக்காய் பிரதேச செயலக பிரிவுக்குற்பட்ட ஆலங்குளம் கிராம சேவகராக கடமையாற்றி வந்த கிராம அலுவலரே இவ்வாறு மாற்றப்பட்டுள்ளதாகவும் குறித்த சம்பவம் கடந்த 2019ல் இடம்பெற்றுள்ளதாகவும் அவரது கணவரான செல்வரத்தினம் கிருஸ்ணரூபன் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/e63cb0a0.json)
-
----
-
-### No special security for Israeli nationals in Sri Lanka – Cabinet Spokesman
-
-*2025-08-05 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111196/no-special-security-for-israeli-nationals-in-sri-lanka-cabinet-spokesman) · `en`
-
-No special security has been given to Israeli nationals currently in Sri Lanka as tourists, according to Cabinet Spokesman Minister Dr. Nalinda Jayatissa.
-
-Speaking at the weekly Cabinet press briefing held today (05), Minister Dr. Nalinda Jayatissa said security is being provided to Israelis in the Arugam Bay area solely because they are tourists, and that police and tri-forces personnel have been deployed for this purpose.
-
-The Cabinet Spokesman emphasized that if there are places where Israeli nationals congregate, the government will provide standard security, as they are considered common tourists, and that this is not any form of special security.
-
-...
-
-[Data](articles/060fc3fd.json)
 
 ---

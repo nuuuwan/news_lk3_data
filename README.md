@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 10:10:29**
+As of **2025-08-05 10:33:41**
 
 ## Newspaper Stats
 
-*Scraped **68,729** Articles*
+*Scraped **68,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,618
-adaderanalk | 8,522
+adaderanalk | 8,524
 tamilmirrorlk | 9,988
-virakesarilk | 11,447
-adaderanasinhalalk | 11,836
+virakesarilk | 11,448
+adaderanasinhalalk | 11,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,729 articles have been extended.
+61,973 (90.2%) of 68,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### மாதுரு ஓயா தேசிய பூங்காவில் தோல் உரிக்கப்பட்ட சிறுத்தையின் சடலம் மீட்பு
+
+*2025-08-05 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221838) · `ta`
+
+மாதுரு ஓயா தேசிய பூங்காவில் தோல் உரிக்கப்பட்ட சிறுத்தையின் சடலம் ஒன்றை திங்கட்கிழமை (04) வனஜீவராசிகள் பாதுகாப்புத் திணைக்கள அதிகாரிகள் மீட்டுள்ளனர்.
+
+லியோபோகான் (LEOPOCON Sri Lanka) எனப்படும் இலாப நோக்கற்ற அமைப்பு எக்ஸ் தளத்தில் பதிவிட்ட பதிவின் அடிப்படையிலேயே சிறுத்தையின் சடலம் மீட்கப்பட்டுள்ளது.
+
+மாதுரு ஓயா தேசிய பூங்காவில் இந்த சிறுத்தையின் சடலம் கிடந்ததாகவும், இவ் வருடத்தின் நடுப்பகுதி வரை 14 சிறுத்தைகள் வேட்டையாடப்பட்டுள்ளது என லியோபோகான் என தெரிவித்துள்ளது.
+
+சில தினங்களுக்கு முன்பு கொத்மலை, கட்டுகித்துல பகுதியில் ஒரு வயதான ஆண் சிறுத்தை இறந்து கிடந்த நிலையில் கண்டுபிடிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/38e28620.json)
+
+---
+
+### 'තෙබුවන බිංදු' ලක්ෂ 50ක අයිස් මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට
+
+*2025-08-05 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213031) · `si`
+
+ඊසි කෑෂ් ක්‍රමයට අයිස් මත්ද්‍රව්‍ය ජාවාරමක් පවත්වාගෙන ගිය 'තෙබුවන බිංදු' නැමති පුද්ගලයාව තෙබුවන පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4bd95320.json)
+
+---
+
+### Kerala cannabis valued over Rs. 23 million seized in Jaffna
+
+*2025-08-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111178/kerala-cannabis-valued-over-rs-23-million-seized-in-jaffna) · `en`
+
+A stock of 102 kilograms and 700 grams of Kerala cannabis has been seized by the Sri Lanka Navy during a search operation conducted in Kadeikadu, Jaffna.
+
+The gross street value of the stock of Kerala cannabis is believed to exceed Rs. 23 million, the Navy stated.
+
+The seized stock of Kerala cannabis has been handed over to the Maradankerni Police for onward legal action.
+
+◼️
+
+[Data](articles/45ce9407.json)
+
+---
 
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
@@ -41,6 +87,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/686f4008.json)
+
+---
+
+### Govt to grant free access to 26 archaeological sites for children under 18
+
+*2025-08-05 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111176/govt-to-grant-free-access-to-26-archaeological-sites-for-children-under-18) · `en`
+
+The government has decided to grant free admission to children under the age of 18 to sites managed by the Central Cultural Fund (CCF).
+
+This proposal has reportedly been approved by the Board of Governors of the Central Cultural Fund.
+
+The primary objective of this initiative is to foster an appreciation of cultural heritage among children and to enhance awareness of the nation’s historical and cultural sites.
+
+Accordingly, children will be granted free access to 26 archaeological sites under the purview of the Central Cultural Fund, including Sigiriya, Yapahuwa, and Dambulla.
+
+It has also been decided to issue entry permits to foreign children under specified conditions, according to Deputy Minister of Buddhasasana, Religious and Cultural Affairs, Gamagedara Dissanayake.
+
+◼️
+
+[Data](articles/0b6c86f7.json)
 
 ---
 
@@ -1733,73 +1799,5 @@ He further stated that this situation points to possible corruption, and he has 
 ...
 
 [Data](articles/81b27f28.json)
-
----
-
-### 8 ​NICயுடன் கண்டியில் ஒருவர் கைது
-
-*2025-08-04 16:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/8-NICயுடன்-கண்டியில்-ஒருவர்-கைது/76-362286) · `ta`
-
-கண்டி எசல பெரஹெராவை ஒட்டி நடத்தப்பட்ட சிறப்பு சோதனை நடவடிக்கையின் போது, 08 தேசிய அடையாள அட்டைகளை (National Identity Card) வைத்திருந்த ஒருவர் உட்பட பலர் கைது செய்யப்பட்டதாக மூத்த  பொலிஸ் கண்காணிப்பாளர் அனுருத்த பண்டாரநாயக்க தெரிவித்தார்.
-
-இந்த முறை ரந்தோலி பெரஹெராவைக் காண ஏராளமான பக்தர்கள் வருவார்கள் என்று எதிர்பார்க்கப்படுவதால், பணியில் உள்ள பொலிஸ் அதிகாரிகளுக்கு கூடுதலாக பொலிஸ் குழுக்கள் நிறுத்தப்படும் என்று எதிர்பார்க்கப்படுவதாக மூத்த பொலிஸ் கண்காணிப்பாளர் தெரிவித்தார்.
-
-பொலிஸ் கண்காணிப்பாளர் அலுவலகத்தில், திங்கட்கிழமை (04)  நடைபெற்ற ஊடக சந்திப்பில் மூத்த காவல்துறை கண்காணிப்பாளர் அனுருத்த பண்டாரநாயக்க இவ்வாறு தெரிவித்தார்.
-
-பெரஹெராவைப் பார்ப்பது என்ற போலிக்காரணத்தின் கீழ் பல்வேறு குற்றச் செயல்களில் ஈடுபடக்கூடிய நபர்கள் பொதுமக்களிடையே இருப்பதால், சந்தேகத்திற்கிடமான நபர்களை அடையாளம் கண்டால் உடனடியாக அருகிலுள்ள பொலிஸ்  அதிகாரிக்கு அறிவிக்குமாறும் மூத்த பொலிஸ்  கண்காணிப்பாளர் பொதுமக்களுக்குத் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/d40c435f.json)
-
----
-
-### සමාගම් (සංශෝධන) පනත් කෙටුම්පතට කථානායකගේ සහතිකය
-
-*2025-08-04 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213010) · `si`
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (04) සිය සහතිකය සටහන් කළේය.
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත පසුගිය 23 වැනිදා පාර්ලිමේන්තුවේදී සංශෝධන සහිතව සම්මත විය.
-
-ඒ අනුව මෙම පනත සංශෝධනය මගින් තනි කොටස් හිමියෙකු සමඟ සමාගමක් සංස්ථාගත කිරීමට ඉඩ සලසාදීම සමාගමක නම වෙනස් කරන විට මහජනයාට දැනුම් දීමේ කාල සීමාව වැඩ කරන දින 20ක් දක්වා දීර්ඝ කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම තහනම් කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම පිළිබඳ සමාගම වෙත දැනුම් දීම හා බලපත්‍ර දරන්නාගේ තොරතුරු සමාගම් ලේකම් වෙත පනතේ දින සිට දින 60 ක් ඇතුළත හෙළිදරව් කිරීමේ වගකීම එම බලපත්‍ර දරන්නා වෙත පැවරීම, ප්‍රතිෂ්ඨාව ලැබීමෙන් පසු සමාගමක් විසින් ප්‍රතිෂ්ඨාව ලද දින සිට දින 20ක් ඇතුළත කොටස් විභජනය කළ යුතු වීම මෙම පනතේ විධිවිධානවල ඇතුළත්  වේ.
-
-...
-
-[Data](articles/09091ea7.json)
-
----
-
-### අත කඩාගෙනත් ක්‍රිස් වෝක්ස් පන්දුවට පහරදීමට එයි
-
-*2025-08-04 16:32:51* · [`adalk`](https://www.ada.lk/sports/අත-කඩාගෙනත්-ක්‍රිස්-වෝක්ස්-පන්දුවට-පහරදීමට-එයි/9-417712) · `si`
-
-සංචාරක ඉන්දීය කණ්ඩායම හා එංගලන්ත කණ්ඩායම අතර ද ඕවල් පිටියේ පැවැත්වෙන පස්වැනි ටෙස්ට් තරගයේ අවසන් දිනයේදී එංගලන්තය ජයග්‍රහණය කරවීම වෙනුවෙන් සිය අත ආබාධයකට ලක්ව තිබියදීත් පන්දුවට පහරදීමට පිටියට පිවිසීමට ක්‍රිස් වොකස්ට සිදුවිය.
-
-ලකුණු 374ක ජයග්‍රාහී ඉලක්කයක් හඹා යමින් සිටින එංගලන්තය කණ්ඩායමට සියලු දෙනා දැවී රැස්කර ගත හැකිවූයේ ලකුණු 367ක් පමණි.
-
-එංගලන්තයේ 9 වැනි කඩුල්ල ලකුණු 357දී දැවී යාම නිසාවෙන් ඒ වන විටත් වම් අත ආබාධයකට ලක්ව සිටි ක්‍රිස් වෝක්ස්ට පන්දුවට පහරදීමට පිටියට පිවිසීමට සිදුවිය.
-
-කෙසේ වෙතත් ගට් එයිට්කින්සන් සිය අන්තය රැකගෙන අවසන් ලකුණු 17 ලබා ගැනීමට ක්‍රිස් වෝක්ස් සමග තියුණු සටනක යෙදුණත් මොහොමඩ් සිරාජ්ගේ පන්දුවක් කඩුල්ලේ වැදීමෙන් ඔහු දැවී ගියේය. ඒ අනුව ඉන්දියාව ලකුණු 6නින් තරගය ජය ගත්තේය.
-
-◼️
-
-[Data](articles/5769e99b.json)
-
----
-
-### Gazette issued to raise USD 500,000 threshold for local companies to invest overseas gets green light from CoPF
-
-*2025-08-04 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111158/gazette-issued-to-raise-usd-500000-threshold-for-local-companies-to-invest-overseas-gets-green-light-from-copf-) · `en`
-
-The gazette notification issued to increase the thresholds for local companies to invest overseas and streamlining processes to facilitate cross-border expansion has been approved by the Committee on Public Finance.
-
-The said Order under Section 22 of the Foreign Exchange Act, No. 12 of 2017 Published in the Gazette Extraordinary No. 2441/14 of 18.06.2025 has accordingly been approved during a CoPF meeting chaired by Member of Parliament (Dr.) Harsha de Silva, the Department of Communication of Parliament stated.
-
-Under the new framework, the investment limit for listed companies has been raised from USD 500,000 to USD 750,000 and the limit for unlisted companies has been increased from USD 150,000 to USD 200,000. Companies seeking to invest beyond these limits can now borrow from foreign sources up to USD 2 million, with Central Bank of Sri Lanka oversight and any investment exceeding USD 2 million will require special approval, the statement added further.
-
-...
-
-[Data](articles/193b5e62.json)
 
 ---

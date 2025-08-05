@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 22:21:26**
+As of **2025-08-05 22:34:39**
 
 ## Newspaper Stats
 
-*Scraped **68,890** Articles*
+*Scraped **68,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,637
 adaderanalk | 8,553
-tamilmirrorlk | 10,035
+tamilmirrorlk | 10,036
 virakesarilk | 11,477
-adaderanasinhalalk | 11,862
+adaderanasinhalalk | 11,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,890 articles have been extended.
+61,973 (90.0%) of 68,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### කෙහෙල්බද්දර පද්මේ සිදුකළ තර්ජන ගැන විමර්ශන ඇරඹෙයි
+
+*2025-08-05 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213061) · `si`
+
+විදේශගතව සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන කෙහෙල්බද්දර පද්මේ විසින් බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ මැඩලීමේ ඒකකයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් ද සිල්වා මහතාට මරණීය තර්ජන එල්ල කලේ යැයි කියන සිද්ධිය පිළිබඳව විමර්ශන ආරම්භ කර ඇතැයි  පොලීසිය අද (05) කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම්දුනි.
+
+එහිදී පොලිසිය කළ ඉල්ලීමක් පිළිගත් අධිකරණය කෙහෙල්බද්දර පද්මේ ඇතුළු පුද්ගලයින් තුන්දෙනෙකුගේ දුරකථන විස්තර වාර්තා කැඳවන ලෙස නියම කළේය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකරන බස්නාහිර උතුර කොට්ඨාශයේ නිලධාරීන් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරාජ මහත්මිය මෙම නියෝගය නිකුත් කළාය.
+
+එම පොලිස් නිලධාරීන් විසින් මෙම සිද්ධියට අදාළව සිදුකළ විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක්ද අධිකරණයට ඉදිරිපත් කෙරුණි.
+
+...
+
+[Data](articles/62106ec7.json)
+
+---
+
+### செம்மணி சான்றுப்பொருட்களை மக்கள் அடையாளம் காட்டினார்களா?
+
+*2025-08-05 22:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/செம்மணி-சான்றுப்பொருட்களை-மக்கள்-அடையாளம்-காட்டினார்களா/71-362368) · `ta`
+
+செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர். எனினும் எவரும் எதனையும் அடையாளம் காட்டவில்லை என சட்டத்தரணி ரனித்தா ஞானராஜா தெரிவித்தார்.
+
+செம்மணி அகழ்வுப்பணிகள் இரண்டாம் கட்டத்தின் 31 ஆவது நாள் யாழ்ப்பாணம் நீதிவான் ஏ.ஏ.ஆனந்தராஜாவின் மேற்பார்வையில் செவ்வாயக்கிழமை (5) முன்னெடுக்கப்பட்டது.
+
+அகழ்வு பணிக்கு பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த போதே சட்டத்தரணி ரனித்தா ஞானராஜா இதனை தெரிவித்தார்.
+
+செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்றுப் பொருட்களை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர்.
+
+புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்றுப் பொருட்கள் இன்றைய தினம் செவ்வாய்க்கிழமை மதியம் 1.30 மணி முதல் மாலை 05 மணி வரையில் மக்கள் பார்வைக்கு வைக்கப்பட்டிருந்தன.
+
+அவற்றை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர். எவரும் அவற்றை அடையாளம் காட்டவில்லை.
+
+...
+
+[Data](articles/ea76ca7d.json)
+
+---
 
 ### ආණ්ඩුව පළිගන්න වැඩකරනවා - මහින්ද
 
@@ -1791,33 +1831,5 @@ The visit aims to further strengthen bilateral cooperation and explore opportuni
 ◼️
 
 [Data](articles/69fad74e.json)
-
----
-
-### Cabinet approves proposal to appoint new Delimitation Committee
-
-*2025-08-05 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111191/cabinet-approves-proposal-to-appoint-new-delimitation-committee) · `en`
-
-The Cabinet of Ministers has granted approval to the proposal to appoint a new delimitation committee to review the recommendations made by the committees appointed in 2012 and 2021 and to provide further recommendations.
-
-A delimitation committee was appointed in 2012 to establish and revise Divisional Secretariat divisions and Grama Niladhari divisions in the country, and steps have been taken to implement only some of the recommendations made by the said committee.
-
-Subsequently, another delimitation committee was appointed in 2021. However, according to the statement issued by the Government Information Department, no action has been taken thus far regarding the recommendations of the committee.
-
-...
-
-[Data](articles/152fc8d1.json)
-
----
-
-### Cabinet approves proposal to appoint new Delimitation Committee to review previous recommendations
-
-*2025-08-05 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111191/cabinet-approves-proposal-to-appoint-new-delimitation-committee-to-review-previous-recommendations) · `en`
-
-The Cabinet of Ministers has granted approval to appoint a new Delimitation Committee to review recommendations of the committees appointed in 2012 and 2021 and to provide further recommendations.
-
-◼️
-
-[Data](articles/277f1650.json)
 
 ---

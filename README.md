@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 13:51:24**
+As of **2025-08-05 14:07:54**
 
 ## Newspaper Stats
 
-*Scraped **68,772** Articles*
+*Scraped **68,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,624
-adaderanalk | 8,525
+adaderanalk | 8,537
 tamilmirrorlk | 10,008
 virakesarilk | 11,451
 adaderanasinhalalk | 11,846
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,846
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,772 articles have been extended.
+61,973 (90.1%) of 68,784 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Governor General of Australia Samantha Joy Mostyn to visit Sri Lanka
+
+*2025-08-05 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111192/governor-general-of-australia-samantha-joy-mostyn-to-visit-sri-lanka-) · `en`
+
+The Governor General of Australia Samantha Joy Mostyn is scheduled to undertake an official visit to Sri Lanka tomorrow.
+
+The Governor General will remain in the country until August 10, according to a statement issued by the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+During the visit, Governor General Samantha Joy Mostyn is expected to hold bilateral discussions with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
+
+The Governor General will also visit several projects supported by Australia in Bandaragama, Mirissa and Weligama.
+
+The visit aims to further strengthen bilateral cooperation and explore opportunities to expand existing areas of collaboration for the mutual benefit of both countries, the Foreign Ministry added further.
+
+◼️
+
+[Data](articles/0081267e.json)
+
+---
+
 ### නව සීමා නිර්ණ කමිටුවක් පත්කිරීමේ යෝජනාවට කැබිනට් අනුමැතිය
 
 *2025-08-05 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213039) · `si`
@@ -87,6 +107,32 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69fad74e.json)
+
+---
+
+### Cabinet approves proposal to appoint new Delimitation Committee to review previous recommendations
+
+*2025-08-05 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111191/cabinet-approves-proposal-to-appoint-new-delimitation-committee-to-review-previous-recommendations) · `en`
+
+The Cabinet of Ministers has granted approval to appoint a new Delimitation Committee to review recommendations of the committees appointed in 2012 and 2021 and to provide further recommendations.
+
+◼️
+
+[Data](articles/277f1650.json)
+
+---
+
+### MPs Rs. 1 million insurance coverage to be reduced
+
+*2025-08-05 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111190/mps-rs-1-million-insurance-coverage-to-be-reduced) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal presented to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
+
+The Cabinet paper in this regard has been presented by the Minister of Public Security and Parliamentary Affairs.
+
+◼️
+
+[Data](articles/6c853ff7.json)
 
 ---
 
@@ -160,6 +206,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Indictments served on ‘Harak Kata’ and four others in new case at Colombo HC
+
+*2025-08-05 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111189/indictments-served-on-harak-kata-and-four-others-in-new-case-at-colombo-hc) · `en`
+
+The Attorney General has filed a new case before the Colombo High Court against five individuals, including Nadun Chinthaka Wickramaratne, alias “Harak Kata,” on 50 charges, including conspiracy to escape from the custody of the Criminal Investigation Department (CID) while in detention.
+
+The case was taken up today (August 5) before Colombo High Court Judge Sujeewa Nissanka.
+
+The indictments were formally served to all accused during today’s court proceedings, said Ada Derana reporter.
+
+•          Ravindu Sandipa Gunasekara, a former constable of the CID
+
+After indictments were served, court ordered that the fingerprints of the accused be recorded.
+
+Judge Sujeewa Nissanka further ordered that Harak Kata be remanded following the expiry of his current detention order. The remaining four accused were also ordered to be remanded.
+
+Accordingly, the case has been scheduled to be taken up again on September 24.
+
+...
+
+[Data](articles/b3055886.json)
+
+---
+
 ### “சோமரட்ன ராஜபக்‌ஷக்கு அரசாங்கம் வழி கொடுக்க வேண்டும்“
 
 *2025-08-05 12:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோமரட்ன-ராஜபக்-ஷக்கு-அரசாங்கம்-வழி-கொடுக்க-வேண்டும்/175-362333) · `ta`
@@ -189,6 +259,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a25f33c5.json)
+
+---
+
+### Debate on motion to remove Deshabandu Tennakoon from IGP post commences in Parliament
+
+*2025-08-05 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111187/debate-on-motion-to-remove-deshabandu-tennakoon-from-igp-post-commences-in-parliament) · `en`
+
+The debate on the motion presented to remove Deshabandu Tennakoon from the post of Inspector General of Police, in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, commenced in Parliament a short while ago.
+
+The debate commenced following the presentation of the motion by Speaker of House Dr. Jagath Wickramaratne in Parliament.
+
+Accordingly, Minister of Public Security and Parliamentary Affairs Ananda Wijepala commenced the debate on behalf of the government.
+
+Parliament is scheduled to debate on the resolution until 4:00 p.m.
+
+A vote on the resolution is scheduled to be held at 4:00 p.m., and it is reported all ruling party Members of Parliament have been instructed to participate in the vote.
+
+If a simple majority of Members of Parliament — that is, 113 MPs — vote in favor, the resolution can be passed.
+
+...
+
+[Data](articles/185f9d74.json)
 
 ---
 
@@ -223,6 +315,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7499e08a.json)
+
+---
+
+### Another earthquake hits Russia’s Petropavlovsk region; back-to-back tremors raise alarm
+
+*2025-08-05 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111186/another-earthquake-hits-russias-petropavlovsk-region-back-to-back-tremors-raise-alarm) · `en`
+
+Fresh tremor of magnitude 5.1 struck far-east in Petropavlovsk-Kamchatsky, Russia today, reported the US Geological Survey (USGS).
+
+The tremor was recorded at 07:17:36 (UTC+05:30), with its epicentre located 144 km southeast of the Kamchatsky region at a depth of 25 km.
+
+Tremor follows a powerful 8.8-magnitude earthquake that struck near Russia’s Kamchatka Peninsula earlier in the week.
+
+According to experts, the quake was caused by intense tectonic activity along a major subduction zone where the Pacific Plate slides beneath the Okhotsk Plate. This zone lies within the Pacific “Ring of Fire,” a seismically active belt notorious for frequent earthquakes and volcanic eruptions.
+
+The vertical displacement of the seafloor during the 8.7-magnitude quake triggered a tsunami, leading to wave alerts in multiple Pacific nations, including Russia, Japan, and the United States.
+
+...
+
+[Data](articles/c459fda2.json)
+
+---
+
+### Keerthibandarapura Traffic OIC arrested for soliciting bribe
+
+*2025-08-05 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111184/keerthibandarapura-traffic-oic-arrested-for-soliciting-bribe-) · `en`
+
+The Officer-in-Charge of the Keerthibandarapura Traffic Division has been taken into custody by officials of the Commission to Investigate Allegations of Bribery or Corruption.
+
+The OIC was arrested by Bribery Commission officials while allegedly accepting a bribe of Rs. 10,000 from a lorry driver.
+
+The arrested officer is scheduled to be presented before the Walapane Magistrate’s Court.
+
+◼️
+
+[Data](articles/e164d468.json)
 
 ---
 
@@ -332,6 +460,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### South Korea pledges to help companies cope with higher US tariffs
+
+*2025-08-05 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111183/south-korea-pledges-to-help-companies-cope-with-higher-us-tariffs) · `en`
+
+South Korea will prepare measures to help companies cope with higher U.S. tariffs and expand into new markets, the Finance Ministry said on Tuesday, as it kicked off a task force to prepare the new administration’s economic policy plans.
+
+On the domestic front, the government will come up with measures to boost short-term demand, as well as financial support for mid- to long-term technology development to enhance market competitiveness, it said in a statement.
+
+South Korea reached a trade deal with the U.S. last week, just days before President Donald Trump’s threatened 25% tariff rate was due to come in on its exports to the United States.
+
+The trade deal set tariffs on exports from the Asian country at 15%, still higher than a baseline 10% rate and the near zero tariffs for exports under a Korea-U.S. free trade agreement.
+
+...
+
+[Data](articles/a43460e8.json)
+
+---
+
 ### மருத்துவரின் பையில் தோட்டாக்கள் துள்ளின
 
 *2025-08-05 11:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவரின்-பையில்-தோட்டாக்கள்-துள்ளின/175-362328) · `ta`
@@ -365,6 +511,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d295445a.json)
+
+---
+
+### “No threat to National Security”: Defence Secretary
+
+*2025-08-05 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111182/no-threat-to-national-security-defence-secretary) · `en`
+
+There is currently no threat to national security, says the Secretary of the Ministry of Defence Air Vice Marshal Sampath Thuyacontha (Retd).
+
+The Defence Secretary made this statement while attending an event in Colombo.
+
+He further stated that underworld activities are not directly related to national security, and that such matters are being handled by the Ministry of Public Security.
+
+...
+
+[Data](articles/28dbfa52.json)
+
+---
+
+### Over 3,500 armed forces deserters arrested, says Defense Ministry
+
+*2025-08-05 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111181/over-3500-armed-forces-deserters-arrested-says-defense-ministry) · `en`
+
+More than 3,500 tri-forces personnel who had abandoned the service without obtaining legal discharge have been apprehended, the Ministry of Defense has announced.
+
+According to the Ministry, a total of 3,504 personnel from the Sri Lanka Army, Sri Lanka Navy, and Sri Lanka Air Force were arrested in operations conducted between February 22 and August 3.
+
+Of those arrested, 2,937 were from the Sri Lanka Army, 289 from the Navy, and 278 from the Air Force, the Defense Ministry noted.
+
+The Ministry further stated that these arrests follow a general amnesty period declared last year, which allowed absconding service members to voluntarily surrender.
+
+Subsequent to the conclusion of the amnesty period, operations were launched from February 22 to apprehend individuals who failed to surrender within the stipulated time frame.
+
+◼️
+
+[Data](articles/b47b49ff.json)
 
 ---
 
@@ -427,6 +609,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/556a092b.json)
+
+---
+
+### Thebuwana Bindu arrested with ‘Ice’ worth Rs. 5 million
+
+*2025-08-05 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111180/thebuwana-bindu-arrested-with-ice-worth-rs-5-million) · `en`
+
+An individual known as “Thebuwana Bindu,” who had been operating a drug trafficking network via the “eZ Cash” system, has been arrested by the Thebuwana Police.
+
+This drug trafficking operation had been carried out in a discreet manner targeting areas such as Thebuwana, Horana, Matugama, and Anguruwatota. The raid was conducted based on a tip-off received by police.
+
+Accordingly, a special police team was deployed for surveillance in the area. During the operation, two suspects involved in drug trafficking had been taken into custody.
+
+Meanwhile, further investigation led to the arrest of the main suspect near the Delgoda temple with 15 grams of Ice in his possession.
+
+Police obtained permission to detain and question the suspect for seven days, after reporting facts to the Matugama Magistrate’s Court.
+
+Subsequent investigations revealed information of a stock of 310 grams of ice, worth approximately Rs. 5 million, hidden at an unoccupied house in Kirimatiya, Thebuwana.
+
+...
+
+[Data](articles/2e2dc82d.json)
 
 ---
 
@@ -785,6 +989,26 @@ The notice did not name the countries affected, but said the list will be releas
 ◼️
 
 [Data](articles/d486c2f5.json)
+
+---
+
+### Resolution to remove Deshabandu Tennakoon from office to be debated in Parliament today
+
+*2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
+
+The resolution to remove Inspector General of Police Deshabandu Tennakoon from office in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, will be taken up for debate in Parliament today.
+
+Parliament is scheduled to convene today at 9:30 a.m., and the debate on the resolution is expected to take place from 11:30 a.m. to 4:00 p.m., according to the Office of the Secretary-General of Parliament.
+
+A vote on the resolution is scheduled to be held at 4:00 p.m., and it is reported all ruling party Members of Parliament have been instructed to participate in the vote.
+
+If a simple majority of Members of Parliament — that is, 113 MPs — vote in favor, the resolution can be passed.
+
+Following the announcement by the Speaker of House that the resolution has been passed, the President is expected to nominate a new candidate for the position of IGP to the Constitutional Council.
+
+...
+
+[Data](articles/8535e146.json)
 
 ---
 
@@ -1545,217 +1769,5 @@ In celebration of one of Sri Lanka’s most revered cultural festivals, the Esal
 ...
 
 [Data](articles/5bb5a0cb.json)
-
----
-
-### ரணில் விக்கிரமசிங்கவின் வெளிநாட்டு விஜயங்கள் தொடர்பான விசாரணை: முன்னாள் செயலாளர் சமன் ஏக்கநாயக்க, குற்றப்புலனாய்வுத் திணைக்களத்துக்கு அழைப்பு
-
-*2025-08-04 22:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221827) · `ta`
-
-ரணில் விக்கிரமசிங்க ஜனாதிபதியாக பதவி வகித்த காலப்பகுதியில் முன்னெடுக்கப்பட்ட வெளிநாட்டு விஜயங்கள் தொடர்பில் முன்னெடுக்கப்படும் விசாரணைகளுக்கு அமைய முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் செயலாளர் சமன் ஏக்கநாயக்க விடம்  வாக்குமூலம் பதிவு செய்வதற்காக திங்கட்கிழமை (4) அவர் குற்றப்புலனாய்வுத் திணைக்களத்துக்கு அழைக்கப்பட்டுள்ளார்.
-
-இதனிடையே இந்த விவகாரம் தொடர்பில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பிரத்தியேக செயலாளர் சென்ட்ரோ பெரேராவிடம்  குற்றப்புலனாய்வுத் திணைக்களம்  நேற்று 6 மணித்தியாலங்கள்  வாக்குமூலம் பதிவு செய்திருந்தது.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க 2022 முதல் 2024 ஆம் ஆண்டு வரையான காலப்பகுதியில் 23  வெளிநாட்டு விஜயங்களை மேற்கொண்டுள்ளதாகவும் இதற்காக சுமார் 1 பில்லியன் ரூபா வரையில் அரச நிதி செலவிடப்பட்டுள்ளதாகவும் அண்மையில் பாராளுமன்றத்தில் அமைச்சர்  நளிந்த ஜயதிஸ்ஸ தகவல்களை வெளிப்படுத்தியிருந்தார்.
-
-...
-
-[Data](articles/7d0a9284.json)
-
----
-
-### Sri Lanka’s largest living tusker ‘Kavantissa’ facing serious threat to his life?
-
-*2025-08-04 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111167/sri-lankas-largest-living-tusker-kavantissa-facing-serious-threat-to-his-life) · `en`
-
-“Kavantissa”, the largest living tusker which symbolizes the pride of the Sri Lankan elephant lineage, is reportedly facing a serious threat to his life.
-
-‘Kavantissa’ came into the spotlight in 2012 following the tragic death of ‘Siyambalangamuwa Tusker’, which had been the most majestic wild elephant in Sri Lanka until then.
-
-However, due to human activities in recent decades, Kavantissa’s traditional annual migratory route—from the Kala Wewa and Balau Wewa through Galgamuwa, Thabbowa, and Wilpattu—is now completely inaccessible.
-
-Similarly, water reserves such as Palukadawala, Mahagalgamuwa, and Iginimitiya, which were once part of the tusker’s habitat, are increasingly being cleared by humans for cultivation and other purposes. As a result, Kavantissa has now lost much of its natural living habitat.
-
-At present, Kavantissa roams mainly around Galgamuwa and Ambanpola regions, according to environmentalists.
-
-...
-
-[Data](articles/fe76b3e6.json)
-
----
-
-### ට්‍රම්ප්ගෙන් ඉන්දියාවට නැවතත් තර්ජන
-
-*2025-08-04 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213021) · `si`
-
-රුසියානු තෙල් මිලදී ගැනීම සම්බන්ධව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නැවතත් ඉන්දියාවට තර්ජනය කර තිබේ.
-
-සිය Truth Social හී සටහනක් තබමින් අමෙරිකානු ජනාධිපතිවරයා අද (04) සඳහන් කර ඇත්තේ ඉන්දියාව රුසියානු තෙල් විශාල වශයෙන් මිලදී ගැනීම් සිදුකිරීමෙන් පමණක් නොනැවතී විවෘත වෙළෙඳපොළේ විශාල ලාභ සඳහාද එය විකුණන බවය.
-
-එමෙන්ම රුසියානු යුද තන්ත්‍රය මගින් යුක්‍රේනයේ කොපමණ පිරිසක් මිය යන්නේද යන්න ඔවුන්ට ප්‍රශ්නයක් නොවන බවත් මේ හේතුවෙන් ඉන්දියාව විසින් අමෙරිකා එක්සත් ජනපදයට ගෙවන තීරු බදු සැලකිය යුතු ලෙස වැඩි කිරීමට කටයුතු කරන බවත් ට්‍රම්ප් සිය සටහනේ සඳහන් කර තිබේ.
-
-අමෙරිකානු ජනාධිපතිවරයාගේ මෙම තර්ජනය එල්ල වී ඇත්තේ ඉන්දියාවෙන් ආනයනය කරන භාණ්ඩ සඳහා 25%ක තීරු බදු පනවන බවට ඔහු කළ නිවේදනයෙන් දින කිහිපයකට පසුවය.
-
-කෙසේ වෙතත් ඉන්දීය මාධ්‍ය මේ සම්බන්ධව වාර්තා කර ඇත්තේ ඉන්දීය තෙල් සමාගම් රුසියානු ආනයන නතර කිරීමට සූදානම් නොවන බවය.
-
-ඒ අනුව ට්‍රම්ප්ගේ තර්ජනය නොතකා ඉන්දියාව අඛණ්ඩව රුසියානු තෙල් මිලදී ගැනීමට කටයුතු කරන බවද මේ වන විට ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/c2a95f7f.json)
-
----
-
-### வீட்டில் இருந்த பொலிஸ் அதிகாரி மீது கொலைவெறித் தாக்குதல்
-
-*2025-08-04 21:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டில்-இருந்த-பொலிஸ்-அதிகாரி-மீது-கொலைவெறித்-தாக்குதல்/175-362298) · `ta`
-
-களுத்துறை, எகொட உயன பொலிஸ் நிலையத்தில் பணியாற்றும் பொலிஸ் அதிகாரி மீது இன்று (04) ஆயுதமேந்திய குழுவொன்று தாக்குதல் நடத்தியுள்ளது.
-
-களுத்துறை, நாகொட, வெனிவெல்கொட பகுதியில் உள்ள தனது வீட்டில் இருந்தபோது, வாள்கள் மற்றும் தடிகளுடன் ஆயுதமேந்திய பத்து பேர் கொண்ட குழு அந்தப் பொலிஸ் அதிகாரியைத் தாக்கியதாக தெரிவிக்கப்படுகின்றது.
-
-அப்பகுதியில் போதைப்பொருள் கடத்தல்காரர்களுக்கு எதிராக சுவரொட்டிகள் ஒட்டுவதற்கு நடவடிக்கை எடுத்திருந்ததால் ஆத்திரமடைந்த குழுவினர் இந்தத் தாக்குதலை நடத்தியதாகத் தெரிகிறது. R
-
-◼️
-
-[Data](articles/65a93bfb.json)
-
----
-
-### ඇමති විජිතගේ සංචාරක ආදායම ගැන නියෝජ්‍ය ඇමති කියූ කතාව
-
-*2025-08-04 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213020) · `si`
-
-පසුගිය මාස හයක කාලයක් තුළ සංචාරකයින් පැමිණීමෙන් ඩොලර් බිලියන 3.7ක ආදායමක් උපයා ඇති බව විදේශ කටයුතු විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සිදුකළ ප්‍රකාශය සම්බන්ධව සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා අද (04) පැහැදිළි කිරීමක් සිදු කළේය.
-
-එහිදී නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ මහ බැංකු වාර්තාවට ජූනි මාසය අවසාන වන විට සංචාරක පැමිණීමෙන් ඉපයූ ආදායම මහ බැංකු වාර්තාවට අනුව සඳහන් වී ඇත්තේ ඩොලර් බිලියන 1.7ක් ලෙස බවය.
-
-කෙසේ නමුත් ජූලි මාසයේ දත්ත මීට ඇතුළත්ව නැති බවත් පැවසූ නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ජූලි මාසයේ ගත්තාද එවැනි ආදායමක් ලැබෙනු ඇති බව තමන් නොසිතන බවය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහාචාර්ය සංචාරක නියෝජ්‍ය අමාත්‍ය රුවන් රණසිංහ මහතා,
-
-...
-
-[Data](articles/5751f768.json)
-
----
-
-### Unfinished History Of July
-
-*2025-08-04 21:00:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unfinished-history-of-july/) · `en`
-
-The month of July is remembered in Sri Lanka for many eventful things that changed the course of history. But two events – the Black July Pogrom carried out on July 23, 1983 and the Indo-Sri Lanka Accord (ISLA) signed between President JR Jayawardane and Indian Prime Minister Rajiv Gandhi on July 29, 1987, stand out among them. Both the events have a ‘Cause and Effect’ relationship as Tamil refugees fleeing the Black July Pogrom in thousands to Tamil Nadu resulted in India taking serious interest in Sri Lanka Tamils identity struggle that led to ISLA. Their quest to save Tamil identity, language and traditional habitation, resulted in ISLA. It still continues to be the core of Tami politics in Sri Lanka.
-
-Sri Lanka Tamil refugee’s plight also gained the Tamil cause a perpetual place in Tamil Nadu politics, till the LTTE mindlessly assassinated former prime minister Rajiv Gandhi four years later. Now, it has been reduced to influence only around ten percent of the voters in Tamil Nadu.
-
-...
-
-[Data](articles/9b1105d3.json)
-
----
-
-### Israel considers expanding Gaza war as ceasefire talks reach an impasse
-
-*2025-08-04 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111166/israel-considers-expanding-gaza-war-as-ceasefire-talks-reach-an-impasse) · `en`
-
-Negotiations on a hostage and ceasefire deal in Gaza appear to be at an impasse, with Israeli Prime Minister Benjamin Netanyahu leaning towards expanded military operations and Hamas demanding the humanitarian situation be addressed before it returns to talks.
-
-An Israeli official said Sunday that Netanyahu is “pushing for the freeing of the hostages through military defeat (of Hamas),” while accusing the militant group of refusing to engage in meaningful negotiations.
-
-The official said that Netanyahu wanted to combine the freeing of the hostages “with the entry of humanitarian aid into areas outside the combat zones and, as much as possible, into areas not under Hamas control.”
-
-Asked about plans to widen the military campaign, Israeli Foreign Minister Gideon Sa’ar said Monday it reflected “a wish to see all the hostages come back, and the wish to see the end of this war after the talks for a partial deal was not successful.”
-
-...
-
-[Data](articles/a6966cc7.json)
-
----
-
-### ACF நிறுவனத் தொண்டர்களின் 19ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு
-
-*2025-08-04 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221826) · `ta`
-
-திருகோணமலை மூதூர் பகுதியில் படுகொலை செய்யப்பட்ட அக்ஷன் பாம் (ACF) என்ற நிறுவனத்தில் பணியாற்றிய 17 தொண்டர்களின் 19ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு  திங்கட்சிழமை (04) திருகோணமலை மட்டிக்களி லகூன் பூங்காவில் இடம்பெற்றது. குறித்த நிகழ்வில் படுகொலை செய்யப்பட்டவர்களின் உறவினர்கள், மனித உரிமைச் செயற்பாட்டாளர்கள் உள்ளிட்ட பலர் கலந்து கொண்டு படுகொலை செய்யப்பட்டவர்களுக்கு விளக்கேற்றி அஞ்சலி செலுத்தினார்கள்.
-
-இதன்போது படுகொலை செய்யப்பட்டவர்களுக்கு 19 ஆண்டுகளாகியும் நீதி கிடைக்கவில்லை எனவும் புதிய அரசாங்கத்தின் ஆட்சியிலாவது நீதி கிடைக்க வேண்டும் எனவும் படுகொலை செய்யப்பட்டவர்களின் உறவினர்கள் கோரிக்கை விடுத்தனர்.
-
-...
-
-[Data](articles/c1202293.json)
-
----
-
-### செம்மணி மனிதப் புதைகுழி: மேலும் 5 எலும்புக்கூடுகள் கண்டெடுப்பு
-
-*2025-08-04 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/221825) · `ta`
-
-செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் திங்கட்கிழமை (4) மேலும் 05 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
-
-இதன் அடிப்படையில் இதுவரை 135 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 126 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன.
-
-யாழ்ப்பாணம் - செம்மணி  சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 30வது நாளாக இன்று யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில், தொல்லியல் துறை பேராசிரியர் ராஜ்சோமதேவா தலைமையிலான குழுவினர், சட்டவைத்திய அதிகாரி செல்லையா பிரணவன் ஆகியோரின் பங்கேற்போடு முன்னெடுக்கப்பட்டது.
-
-அத்தோடு திங்கட்கிழமை (4) இடம்பெற்ற அகழ்வு பணிகளை ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் பார்வையிட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/666a8e93.json)
-
----
-
-### පොලිස් නිලධාරියෙකුට පහරදීමක්
-
-*2025-08-04 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213019) · `si`
-
-කළුතර එගොඩ උයන පොලිසියේ නිලධාරියෙකුට පිරිසක් අද (04) පහරදීමක් සිදුකර තිබේ.
-
-අද දෙරණ වාර්තාකරු පැවසුවේ කළුතර නාගොඩ වෙනිවැල්කැටිය ප්‍රදේශයේ සිය නිවෙසේ රැඳීසිටින අවස්ථාවේ කඩු, පොලු සහිතව පැමිණි දස දෙනෙකුගෙන් යුත් පිරිසක් මෙලෙස පොලිස් නිලධාරියාට පහරදී ඇති බවය.
-
-පහරකෑමෙන් තුවාල ලද පොලිස් නිලධාරියා කළුතර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
-
-ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ට එරෙහිව පෝස්ටර් ප්‍රදර්ශනය කිරීමට අදාළ නිලධාරියා කටයුතු කර ඇති අතර ඉන් කෝපයට පත් පිරිසක් මෙලෙස පහරදී ඇති බව පවසයි.
-
-◼️
-
-[Data](articles/487021b7.json)
-
----
-
-### புகையிரதத்தில் சிசுவின் சடலம்: CCTV காட்சிகள் மூலம் பரிசோதனை
-
-*2025-08-04 20:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-சிசுவின்-சடலம்-CCTV-காட்சிகள்-மூலம்-பரிசோதனை/175-362296) · `ta`
-
-மாளிகாவத்தை புகையிரத முனையத்தில் நிறுத்தப்பட்டிருந்த புகையிரத கழிப்பறையிலிருந்து சிசுவொன்றின் சடலம் கண்டெடுக்கப்பட்டமை தொடர்பாக மகளிர் விவகாரம் மற்றும் சிறுவர் பாதுகாப்பு அமைச்சர் சரோஜா சாவித்திரி போல்ராஜினால் அறிக்கை கோரப்பட்டுள்ளது.
-
-தெமட்டகொடை பொலிஸ் நிலைய சிறுவர் மற்றும் மகளிர் பணியகம் இந்த விவகாரம் குறித்து தற்சமயம் விசாரணைகளை முன்னெடுத்து வருகிறது.
-
-புத்தளத்தில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த குறித்த புகையிரதத்தின்  கழிப்பறையில் இருந்து கடந்த வாரம் தூய்மை பணியாளர் ஒருவரால் சிசுவின் சடலம் கண்டுபிடிக்கப்பட்டது.
-
-இந்த நிலையில் புத்தளம் முதல் கொழும்பு - கோட்டை வரையிலான அனைத்து தொடருந்து நிலையங்களில் இருந்தும் சிசிடிவி காட்சிகளைக் விசாரணைக்காக கோரியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
-
-◼️
-
-[Data](articles/049135c0.json)
-
----
-
-### ஸ்கேன் ஆய்வில் மேலும் பல மனித எச்சங்கள் கண்டுபிடிப்பு
-
-*2025-08-04 19:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்கேன்-ஆய்வில்-மேலும்-பல-மனித-எச்சங்கள்-கண்டுபிடிப்பு/175-362295) · `ta`
-
-யாழ்ப்பாணம் - செம்மணி, சித்துப்பாத்தி மனித புதைகுழி வளாகத்தில் மேலும் பல இடங்களிலும் மனித எச்சங்கள் இருப்பது ஸ்கேன் ஆய்வின் மூலம் கண்டறியப்பட்டுள்ளது.
-
-ஏற்கனவே இரண்டு புதைகுழிகள் அடையாளப்படுத்தப்பட்டு அந்த இடங்களில் அகழ்வுப் பணிகள் முன்னெடுக்கப்பட்டு வருகின்றன.
-
-இந்நிலையில், ஜீ.பி.ஆர் ரக அதி நவீன தொழில்நுட்பத்தை பயன்படுத்துவதற்கு முன்னதாக பாதுகாப்பு அமைச்சிடம் அனுமதி கோரப்பட்டது. எனினும் அதற்கான அனுமதி இதுவரை கிடைக்கவில்லை.
-
-இதனையடுத்து, ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகத்திலிருந்த ஸ்கேன் இயந்திரத்தை பெற்று ஆய்வுப் பணிகள் நடத்தப்பட்டன.
-
-இதன்போதே, பல இடங்களிலும் மனித எச்சங்கள் காணப்படுவதை ஸ்கேன் இயந்திரம் அடையாளப்படுத்தியுள்ளதாக பாதிக்கப்பட்டவர்கள் தரப்பில் முன்னிலையாகும் சட்டத்தரணி வீ.எஸ் நிரஞ்சன் தெரிவித்துள்ளார். R
-
-◼️
-
-[Data](articles/b97142b5.json)
 
 ---

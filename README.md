@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 03:32:21**
+As of **2025-08-06 03:52:45**
 
 ## Newspaper Stats
 
-*Scraped **68,901** Articles*
+*Scraped **68,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
-economynextcom | 4,198
+economynextcom | 4,205
 islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,901 articles have been extended.
+61,973 (89.9%) of 68,908 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ---
 
 ### 2025-08-05 (Tuesday)
+
+### Sri Lanka anti-dumping law to protect tile, bathware and shoe industries: Minister
+
+*2025-08-05 23:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-anti-dumping-law-to-protect-tile-bathware-and-shoe-industries-minister-234808/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s anti-dumping and countervailing duties will give more protection to domestic producers like tiles, shoes and sanitary clothes, Industries Minister Sunil Handunetti said.
+
+“In the recent past the biggest complaint is that Sri Lanka’s open economy has put domestic industries in danger,” Industries Minister Suni Handunetti told parliament shortly before rules under the law were approved.
+
+“The industries that will be most protected – I am thankful for the Trade Minister for bringing this law to parliament – are sanitary clothes, bathroom and bathware, the tile industry and leather products, shoes and shoe related industries.”
+
+Tiles, sanitary ware and shoes are among the worst protectionist industries that has exploited helpless consumers for years by lobbying especially the ousted Rajapaksa administrations for ever higher taxes.
+
+...
+
+[Data](articles/68624820.json)
+
+---
+
+### Japan national cricket team visits Sri Lanka
+
+*2025-08-05 23:15:00* · [`economynextcom`](https://economynext.com/japan-national-cricket-team-visits-sri-lanka-234792/) · `en`
+
+ECONOMYNEXT – The Japan National Cricket Team visited Sri Lanka on a practice tour in preparation for qualification in the upcoming ICC T20 World Cup from the Asia-Pacific region.
+
+The cricket exchange adds a new layer to the bilateral relations between Japan and Sri Lanka, Japanese Ambassador Akio Isomata said, and celebrated the beginning of cricket diplomacy.
+
+Sri Lanka Cricket has arranged a series of seven T20 practice matches against four Under-19 squads from Sri Lanka.
+
+The initiative aims to strengthen cricket-ties and nurture young talent, mutual respect, and deep understanding between the two nations, the Japanese Embassy said in a statement.
+
+The ambassador hosted a reception which was attended by cricket personalities, Sri Lanka Cricket President Shammi Silva, Japan Cricket Association CEO Alex Miyaji, SLC CEO Ashley De Silva, JCA Goodwill Ambassador Priyantha Kariyapperuma, and cricketers Sanath Jayasuriya, Chaminda Vass, Angelo Mathews, Bhanuka Rajapaksa and Charith Asalanka.
+
+◼️
+
+[Data](articles/e0b3f8e5.json)
+
+---
 
 ### දොස්තර මහේෂිගේ දුව සමාව ගන්න සූදානම්
 
@@ -684,6 +722,34 @@ Therefore, the renovation and development of the Pettah Central Bus Stand, appro
 
 ---
 
+### SriLankan Airlines bond first restructure talks fail
+
+*2025-08-05 18:33:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-bond-first-restructure-talks-fail-234863/) · `en`
+
+ECONOMYNEXT – The first talks to restructure 175 million dollars in guaranteed bonds of SriLankan airlines have failed, a statement by the airline and the government said.
+
+“Despite constructive discussions, the Parties did not come to an agreement on restructuring terms,” the statement filed in the Singapore Stock Exchange, said.
+
+SriLankan had proposed to exchange the bonds for 60 million dollars in cash and the rest in Sri Lanka government 4 percent bonds due in 2029 with a 20 cent haircut for a dollar.
+
+The bondholders had proposed repayment of principle (1 dollar) and accrued interest.
+
+Appendix 1: Indicative Restructuring Proposal from the Company and the Government
+
+The proposed liability management transaction involves an offer to noteholders to
+
+participate in: (i) a cash tender offer, and/or (ii) an exchange offer for notes issued under
+
+a tap of the Sri Lankan Government 2028 USD 1.20 billion 4.00% bond1.
+
+– Under the tender offer, SLA and the Government will allocate up to USD 60
+
+...
+
+[Data](articles/f2c1529f.json)
+
+---
+
 ### கண்டியை மெய்நிகர் நகரமாக மேம்படுத்த திட்டம்
 
 *2025-08-05 18:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியை-மெய்நிகர்-நகரமாக-மேம்படுத்த-திட்டம்/175-362359) · `ta`
@@ -938,6 +1004,26 @@ As a second stage of the project, it has been planned to create technologically 
 
 ---
 
+### Sri Lanka collects Rs129bn in excise duties from vehicles
+
+*2025-08-05 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-collects-rs129bn-in-excise-duties-from-vehicles-234777/) · `en`
+
+ECONOMYNEXT – Sri Lanka has collected 129 billion rupees from excise duties from vehicles in the first half of 2025, after imports were liberalized, up from 29.6 billion rupees last year, a Finance Ministry report showed.
+
+Imported cars also have a 20 percent duty, which the government loses if the vehicle is locally assembled as well as value added tax.
+
+Excise duty from cigarettes fell 17.9 percent to 44 billion rupees, amid high excise driven price hikes which has promoted smuggling and a shift to beedi which is cheaper but has no filter.
+
+Excise duty from petroleum increased by 15.5 percent to 112 billion rupees up to June from 97 billion rupees last year.
+
+Excise duty from alcohol increased by 9.2 percent to 108.2 billion rupees up to June from 99.1 billion rupees last year. (Colombo/Aug05/2025)
+
+◼️
+
+[Data](articles/81ea07f1.json)
+
+---
+
 ### Cabinet approves amendment of Child Protection Authority Act
 
 *2025-08-05 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111201/cabinet-approves-amendment-of-child-protection-authority-act) · `en`
@@ -953,6 +1039,26 @@ Accordingly, the Cabinet of Ministers has granted approval to the proposal furni
 ◼️
 
 [Data](articles/002bf2a1.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-08-05 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-234772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.99/301.05 to the US dollar in the spot market Tuesday, flat from 301.00/03 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.40/50 percent.
+
+A bond maturing on 15.12.2028 closed at 8.80/85 percent, down from 8.85/90 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.25/30 percent. (Colombo/Aug5/2025)
+
+◼️
+
+[Data](articles/256218c7.json)
 
 ---
 
@@ -1017,6 +1123,26 @@ Accordingly, the Cabinet of Ministers has granted approval to the proposal furni
 ...
 
 [Data](articles/f4130e70.json)
+
+---
+
+### Sri Lanka parliament removes police chief
+
+*2025-08-05 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-removes-police-chief-234771/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament removed Inspector General of Police Deshabandu Tennakoon from his post through voting after he was found guilty of several allegations levelled against him.
+
+The ruling National People’s Power (NPP) brought a resolution to remove him through the parliament vote. The resolution saw 177 legislators backing with only one abstaining from voting in the 225 member parliament.
+
+Sri Lanka government cannot remove a serving police chief through executive powers.
+
+The move comes after a Committee of Inquiry appointed to investigate and report its findings on Police Chief Tennakoon  in respect of acts of gross abuse of power.
+
+The inquiry panel has found him guilty of mos allegations levelled against Tennakoon. (A Colombo/August 5/2025)
+
+◼️
+
+[Data](articles/5377395c.json)
 
 ---
 
@@ -1700,7 +1826,7 @@ The two housing projects which were commenced under the urban revitalization pro
 
 ### Sri Lanka seeks investors to develop 10-acre Colombo Fort land
 
-*2025-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-for-charmers-granaries-fort-land-234705/) · `en`
+*2025-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-to-develop-10-acre-colombo-fort-land-234705/) · `en`
 
 ECONOMYNEXT – Sri Lanka will call for investment proposals for the Charmers Granaries land at Colombo Fort beloging to the Urban Development Authority, Minister Nalinda Jayatissa said.
 
@@ -1712,110 +1838,6 @@ The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is locate
 
 ...
 
-[Data](articles/cd1fd688.json)
-
----
-
-### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
-
-*2025-08-05 14:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேசபந்துவை-நீக்கும்-முடிவை-நாங்கள்-ஆதரிக்கிறோம்/150-362341) · `ta`
-
-பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பதவி நீக்கம் செய்யும் தீர்மானத்தை ஐக்கிய மக்கள் சக்தி (SJB) ஆதரிப்பதாக எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரகுமான் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் தெரிவித்தார்.
-
-"தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்," என்று சபை விவாதத்தின் போது ரகுமான் கூறினார், மாலை 4 மணிக்கு திட்டமிடப்பட்ட வாக்கெடுப்புக்கு முன்னதாக அவர் கட்சியின் நிலைப்பாட்டை உறுதிப்படுத்தினார்.
-
-2002 ஆம் ஆண்டு 5 ஆம் இலக்க அதிகாரிகளை நீக்குதல் சட்டத்தின் கீழ் கொண்டுவரப்பட்ட இந்த பிரேரணை, கடுமையான தவறான நடத்தை, அதிகார துஷ்பிரயோகம் மற்றும் குற்றவியல் உடந்தையாக இருந்ததற்கான கண்டுபிடிப்புகளின் அடிப்படையில் தென்னக்கோனை பணிநீக்கம் செய்ய முயல்கிறது. அரசியலமைப்பு சபையால் நியமிக்கப்பட்ட சிறப்புக் குழு, தென்னக்கோன் பொலிஸ் திணைக்களத்தில் எந்தப் பதவியையும் வகிக்கத் தகுதியற்றவர் என்று முன்னர் முடிவு செய்திருந்தது.
-
-...
-
-[Data](articles/407da8ae.json)
-
----
-
-### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
-
-*2025-08-05 14:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவை-நீக்கும்-முடிவை-நாங்கள்-ஆதரிக்கிறோம்/175-362341) · `ta`
-
-பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பதவி நீக்கம் செய்யும் தீர்மானத்தை ஐக்கிய மக்கள் சக்தி (SJB) ஆதரிப்பதாக எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரகுமான் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் தெரிவித்தார்.
-
-"தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்," என்று சபை விவாதத்தின் போது ரகுமான் கூறினார், மாலை 4 மணிக்கு திட்டமிடப்பட்ட வாக்கெடுப்புக்கு முன்னதாக அவர் கட்சியின் நிலைப்பாட்டை உறுதிப்படுத்தினார்.
-
-2002 ஆம் ஆண்டு 5 ஆம் இலக்க அதிகாரிகளை நீக்குதல் சட்டத்தின் கீழ் கொண்டுவரப்பட்ட இந்த பிரேரணை, கடுமையான தவறான நடத்தை, அதிகார துஷ்பிரயோகம் மற்றும் குற்றவியல் உடந்தையாக இருந்ததற்கான கண்டுபிடிப்புகளின் அடிப்படையில் தென்னக்கோனை பணிநீக்கம் செய்ய முயல்கிறது. அரசியலமைப்பு சபையால் நியமிக்கப்பட்ட சிறப்புக் குழு, தென்னக்கோன் பொலிஸ் திணைக்களத்தில் எந்தப் பதவியையும் வகிக்கத் தகுதியற்றவர் என்று முன்னர் முடிவு செய்திருந்தது.
-
-...
-
-[Data](articles/9aea7dfe.json)
-
----
-
-### මෙරට සිටින ඊශ්‍රායල ජාතිකයින් ගැන ප්‍රශ්නයෙන් කැබිනෙට්ටුවත් කැලඹෙයි
-
-*2025-08-05 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213042) · `si`
-
-ඊශ්‍රායල ජාතිකයින්ට free Visa ලබාදීම පිටුපස විදේශ කටයුතු අමාත්‍යාංශයේ ඉහළ පුටුවල සිටින පුද්ගලයින්ගෙන් රජයට බලපෑම් එල්ල වූ බවට මේ දිනවල පුවතක් වාර්තා වුණි.
-
-ඒ සම්බන්ධයෙන් අද (05) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසා සිටියේ, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය මැදිහත් වීමෙන් අදාළ රටවල් ලැයිස්තුව සකස් කරනු ලැබුවේ, සංචාරක පැමිණීම සහ ඔවුන් මෙරටට ගෙන එනු ලබන ඩොලර් ආදායම අනුව බවය.
-
-"කිසිම රටක් ගැන වෙන කෝණයකින් බලලා නෑ. ඔබ දැක්කොත් මේ අතර විවිධ රටවල් තියෙනවා. මේ රටවල් තෝරාගැනීමේ පදනම වුණේ අපිට ලැබෙන ඩොලර් ආදායමත් එන සංචාරකයින් ප්‍රමාණයත්. බොහොම පැහැදිලියි ඒ ලැයිස්තුවේ රටවල් සම්බන්ධයෙන්."
-
-මේ අතර ඊශ්‍රායලයෙන් පැමිණෙන ගුවන්යානාවලට ආරක්ෂාව සැපයීමට හිටපු අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ කාලවකවාණුවේ දී තීරණ ගෙන තිබූ බවත්, පසුගිය වසරේ මැයි මාසයෙන් පසුව ඊශ්‍රායල ගුවන්යානා මෙරටට නොපැමිණි බවත් සඳහන් කළ අමාත්‍යවරයා, ඇතැම් විට මේ වසරේ අග දී යළි ඊශ්‍රායල ගුවන්යානා මෙරටට පැමිණීමට ඇති ඉඩකඩ සම්බන්ධයෙන් සාකච්ඡා සිදුකරමින් පවතින බවත් පැවසීය.
-
-...
-
-[Data](articles/cc0ba55a.json)
-
----
-
-### மன்னாரில் 2 ஆம் கட்ட காற்றாலை மின் திட்டம் தொடர்பாக 7ஆம் திகதி விசேட கலந்துரையாடல் : ஜனாதிபதி பங்கேற்கும் சந்தர்ப்பம் - அடைக்கலநாதன்
-
-*2025-08-05 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221875) · `ta`
-
-மன்னாரில் இரண்டாம் கட்ட காற்றாலை மின் உற்பத்தி வேலைத்திட்டம் தொடர்பில் எதிர்வரும் வியாழக்கிழமை (7) பாராளுமன்ற வளாகத்தில் அமைச்சர்கள் தலைமையில் விசேட கலந்துரையாடல் ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர்  செல்வம் அடைக்கலநாதன்  தெரிவித்துள்ளார்.
-
-செவ்வாய்க்கிழமை (5) பாராளுமன்ற அமர்வின் போது அமைச்சர் விமல் ரத்நாயக்க விடம் கேள்வி ஒன்றை எழுப்பி இருந்தேன்.காற்றாலை மின் கோபுரங்கள் அமைப்பது குறித்து மன்னார் மாவட்டத்தில் தற்போது போராட்டங்கள் முன்னெடுக்கப்பட்டு வருகின்றது.
-
-எனவே மன்னாரில் முன்னெடுக்கப்பட்டு வரும் காற்றாலை மின் உற்பத்தி தொடர்பாக விசேட கலந்துரையாடல் ஒன்றை நடாத்துவதற்கும் ஜனாதிபதியை சந்தித்து குறித்த விடயம் தொடர்பாக கலந்துரையாட வாய்ப்பை ஏற்படுத்தி தருமாறு அவரிடம் கோரி இருந்தேன்.
-
-என்னுடன் பாராளுமன்ற உறுப்பினர் காதர் மஸ்தான் ,பிரதி அமைச்சர் உபாலி சமரசிங்க அவர்களும் இணைந்து இதற்கு பொறுப்பான அமைச்சரை சந்தித்து உரையாடினோம்.
-
-...
-
-[Data](articles/3172c4fd.json)
-
----
-
-### US DOJ to open grand jury to investigate Obama officials, source says
-
-*2025-08-05 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111195/us-doj-to-open-grand-jury-to-investigate-obama-officials-source-says) · `en`
-
-U.S. Attorney General Pam Bondi has directed federal prosecutors to launch a grand jury investigation into allegations that members of Democratic former President Barack Obama’s administration manufactured intelligence on Russia’s interference in the 2016 elections, a source familiar with the matter said on Monday.
-
-The Justice Department said late last month it was forming a strike force to assess claims made by Director of National Intelligence Tulsi Gabbard about “alleged weaponization of the U.S. intelligence community.”
-
-Republican U.S. President Donald Trump has leaped on comments from Gabbard in which she threatened to refer Obama administration officials to the Justice Department for prosecution over an intelligence assessment of Russian interference.
-
-...
-
-[Data](articles/b9c691fd.json)
-
----
-
-### மன்னாரில் காற்றாலை கோபுரங்களுக்கு எதிர்ப்பு :  இரண்டாவது நாளாக தொடரும் கடையடைப்பு போராட்டம்
-
-*2025-08-05 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/221874) · `ta`
-
-மன்னார் தீவுப் பகுதியில் புதிதாக நிறுவப்படவுள்ள இரண்டாம் கட்ட காற்றாலை மின் உற்பத்தி கோபுரங்களுக்கு எதிர்ப்பு தெரிவித்து, இன்று செவ்வாய்க்கிழமை (05) இரண்டாவது நாளாக முழு கடையடைப்பு போராட்டம் முன்னெடுக்கப்பட்டு வருகிறது.
-
-மன்னார் - மதவாச்சி பிரதான வீதியூடாக காற்றாலை கோபுரங்களுக்கான பொருட்களை மன்னார் நகருக்குள் கொண்டு வருவதற்கும், இரண்டாம் கட்ட காற்றாலை திட்டங்களை மன்னாரில்  நிறுவுவதற்கும் எதிர்ப்பு தெரிவித்தே இந்தப் போராட்டம் நடைபெற்று வருகிறது.
-
-இந்தத் திட்டங்களால் சுற்றுச்சூழல் பாதிக்கப்படும் எனவும், மக்களின் வாழ்வாதாரம் பாதிக்கப்படும் எனவும் மக்கள் அச்சம் தெரிவிக்கின்றனர்.
-
-மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை மாக்கஸ் அடிகளாரின் தலைமையில் இந்த அமைதியான போராட்டம் முன்னெடுக்கப்பட்டு வருகிறது.
-
-இந்தப் போராட்டத்திற்கு ஆதரவு தெரிவித்து, மன்னார் நகரில் உள்ள ஒரு சில உணவகங்களைத் தவிர அனைத்து வர்த்தக நிலையங்களும் மூடப்பட்டுள்ளன. மீனவர்களும் கடலுக்குச் செல்லாமல் இந்தப் போராட்டத்திற்கு ஆதரவு அளித்து வருகின்றனர்.
-
-...
-
-[Data](articles/f60acb44.json)
+[Data](articles/5fcb49ad.json)
 
 ---

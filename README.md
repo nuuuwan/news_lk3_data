@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 01:49:22**
+As of **2025-08-06 02:06:52**
 
 ## Newspaper Stats
 
-*Scraped **68,899** Articles*
+*Scraped **68,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ dailyftlk | 4,849
 adalk | 6,638
 adaderanalk | 8,555
 tamilmirrorlk | 10,036
-virakesarilk | 11,480
+virakesarilk | 11,482
 adaderanasinhalalk | 11,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,899 articles have been extended.
+61,973 (89.9%) of 68,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ஜனாதிபதிக்கும் இலங்கை பாடகர்கள் சங்கத்திற்கும் இடையிலான கலந்துரையாடல்
+
+*2025-08-06 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/221924) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கை பாடகர்கள் சங்கத்திற்கும் இடையிலான சந்திப்பு செவ்வாய்க்கிழமை (05) பிற்பகல் ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+ஒரு பாடலின் முழுமையான மற்றும் சட்டபூர்வ உரிமைகளை பாடலாசிரியருக்கு, இசையமைப்பாளர்களுக்கு, அதே போல் பாடகர்களுக்கும் வழங்க சட்டங்களைத் திருத்துமாறு பாடகர்கள் சங்கம் இதன்போது ஜனாதிபதியிடம் கோரிக்கை விடுத்தது.
+
+புலமைச்சொத்துச் சட்டத்தின் கீழ் ஒரு பாடலுக்கு முழுமையான உரிமையை பாடலாசிரியர் மற்றும் இசையமைப்பாளர் கொண்டிருப்பதால், பல பிரபல பாடகர்கள் நெருக்கடியில் உள்ளனர் என்றும் தங்களின் சமூக ஊடகங்களில்  பாடல்களைப் பதிவேற்ற முடியாமல் இருப்பதாகவும் இங்கு  வலியுறுத்தப்பட்டது.
+
+இதன் காரணமாக, தொழில் ரீதியாக இசைத் துறையில் ஈடுபட்டுள்ள பல ஆண் மற்றும் பெண் பாடகர்கள் அநீதிக்கு ஆளாகியுள்ளனர். இந்தப் பிரச்சினைகள் அனைத்தையும் பரிசீலித்து தேவையான சட்டத் திருத்தங்களைச் செய்வதற்கு ஒரு சுயாதீனக் குழுவை நியமிக்குமாறு பாடகர்கள் சங்கம் ஜனாதிபதியிடம் கோரிக்கை விடுத்தது.
+
+...
+
+[Data](articles/d0590385.json)
+
+---
+
+### அரச சேவையை நவீனத்துவ கலாச்சாரத்திற்கு இட்டுச்செல்ல அனைவரும் ஒன்றுபடுவோம்! - ஜனாதிபதி
+
+*2025-08-06 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221923) · `ta`
+
+பௌதீக  ரீதியாகவும், ஆன்மீக ரீதியாகவும் சிதைந்துபோன அரச கட்டமைப்பு தொடர்பில் சுயவிமர்சனம் செய்து, நவீன அரச சேவையை உருவாக்க அடுத்த ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் நிதிஒதுக்கீடு செய்யப்படும் என ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+அரச சேவையை நவீனத்துவ கலாச்சாரத்திற்கு கொண்டு செல்ல வேண்டும் என்றும், அதைப் பாதுகாக்க அனைத்து சாத்தியமான நடவடிக்கைகளும் எடுக்கப்படும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க மேலும் குறிப்பிட்டார்.
+
+அடுத்த ஆண்டுக்கான வரவு செலவுத் திட்டத்தில், அதன் பௌதீக வசதிகளை மேம்படுத்துவதன் மூலம் சிதைந்துபோன அரச சேவையை நவீனமயமாக்குவதற்கு முன்னுரிமை அளிக்கப்பட்டுள்ளதாக ஜனாதிபதி தெரிவித்தார்.
+
+அலரி மாளிகையில் செவ்வாய்க்கிழமை (05)  நடைபெற்ற இலங்கை நிர்வாக சேவை சங்கத்தின் (SASA) 41 ஆவது வருடாந்த மாநாட்டில் பிரதம விருந்தினராக கலந்து கொண்டு உரையாற்றும் போது ஜனாதிபதி அநுரகுமார திசாநாயக்க இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/883ed07c.json)
+
+---
 
 ### முன்னாள் பிரதம நீதியரசரை சட்டவிரோதமாக பதவி நீக்கியவர்கள் எம்மை விமர்சிப்பது வேடிக்கையானது- அருண்  ஹேமச்சந்திரா
 
@@ -1781,43 +1817,5 @@ Republican U.S. President Donald Trump has leaped on comments from Gabbard in wh
 ...
 
 [Data](articles/f60acb44.json)
-
----
-
-### புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க அங்கிகாரம்
-
-*2025-08-05 13:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எல்லை-நிர்ணயக்-குழுவை-நியமிக்க-அங்கிகாரம்/175-362340) · `ta`
-
-புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க  ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (04)  அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
-
-இதற்கான யோசனையை பொது நிர்வாக, மாகாண சபைகள் மற்றும் உள்ளுராட்சி அமைச்சர் சமர்ப்பித்தார்.
-
-பிரதேச செயலகப் பிரிவுகள் மற்றும் கிராம உத்தியோகத்தர் பிரிவுகளை நிறுவுதல் மற்றும் மீளாய்வு செய்வதற்காக 2012 ஆம் ஆண்டு எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் ஒருசில விதந்துரைகள் மாத்திரம் அமுல்படுத்துவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
-
-பின்னர் 2021 ஆம் ஆண்டில் மீண்டும் எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் விதந்துரைகள் தொடர்பாக இதுவரைக்கும் எவ்வித நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை.
-
-...
-
-[Data](articles/42fd1fab.json)
-
----
-
-### 703 individuals arrested during special island-wide police raids
-
-*2025-08-05 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111194/703-individuals-arrested-during-special-island-wide-police-raids) · `en`
-
-A total of 703 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (04).
-
-As part of the operation, 23,321 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 22 individuals directly linked to criminal activities while 389 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 97 drunk drivers were apprehended while a further 18 reckless drivers and 3,314 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/4477676f.json)
 
 ---

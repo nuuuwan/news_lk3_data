@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 04:06:44**
+As of **2025-08-06 04:22:00**
 
 ## Newspaper Stats
 
-*Scraped **68,908** Articles*
+*Scraped **68,912** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 597
+dbsjeyarajcom | 598
 bbccomsinhala | 677
 colombotelegraphcom | 704
 economynextcom | 4,205
 islandlk | 4,205
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,638
+adalk | 6,639
 adaderanalk | 8,555
-tamilmirrorlk | 10,036
+tamilmirrorlk | 10,038
 virakesarilk | 11,482
 adaderanasinhalalk | 11,864
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,908 articles have been extended.
+61,973 (89.9%) of 68,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ’தென்னக்கோனை நீக்குவது சிறந்த எடுத்துக்காட்டு’
+
+*2025-08-06 03:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்குவது-சிறந்த-எடுத்துக்காட்டு/175-362382) · `ta`
+
+ஆட்கடத்தல் மற்றும் மனித சித்திரவதை உள்ளிட்ட பல குற்றச்சாட்டுக்கள் சுமத்தப்பட்டுள்ளவரும் அடிப்படை மனித உரிமை மீறல் குற்றவாளி என்று உயர்நீதிமன்றத்தால் தீர்ப்பளிக்கப்பட்டவருமான பொலிஸ்மா அதிபரான  தேசபந்து தென்னக்கோனை  பதவி நீக்குவது எதிர்காலத்துக்கு சிறந்த எடுத்துக்காட்டு  என  பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தை பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று  ஆரம்பித்து வைத்து  உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்
+
+...
+
+[Data](articles/03b435fc.json)
+
+---
+
+### ’கூட்டாளிகளுக்கு அதிக நன்மை’
+
+*2025-08-06 03:54:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டாளிகளுக்கு-அதிக-நன்மை/175-362381) · `ta`
+
+சகல இளைஞர் கழகங்களின் சட்டப்பூர்வத்தன்மையையும் இரத்துச் செய்து, புதிய இளைஞர் கழகங்களை தாபித்தல் அல்லது மறுசீரமைத்தல் செயல்முறை இளைஞர் கழக அமைப்பினது இறையாண்மை ,ஜனநாயக செயல்பாட்டை ஆபத்தில் ஆழ்த்தி, புதிய கட்டளைகள் மூலம் தமது அரசியல் கூட்டாளிகளுக்கு அரசு நன்மையைப் பெற்றுக் கொடுக்கும் முயற்சியாக தெரிவதாக எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று நிலையியற் கட்டளை 27/ 2  இன் கீழ்  விசேட கூற்றை முன்வைத்தே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+தேசிய இளைஞர் சேவைகள் மன்றத்தால் அண்மையில் வெளியிடப்பட்ட சுற்றறிக்கை இலக்கம் 2-11/25/01 மூலம், 2025 மே 23க்கு முன்பு தாபிக்கப்பட்ட சகல இளைஞர் கழகங்களின் சட்டப்பூர்வத்தன்மையையும் இரத்துச் செய்து, புதிய இளைஞர் கழகங்களைத் தாபித்தல் அல்லது மறுசீரமைத்தல் செயல்முறை ஆரம்பிக்கப்பட்டுள்ளன. இது சகல இளைஞர் கழகங்களும் அரசியல் மயமாக்கலுக்கு ஆளாக்கப்பட்டுள்ளது என்று அரசாங்கத்தின் மீது பல குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
+
+...
+
+[Data](articles/be0cdb7c.json)
+
+---
 
 ### ஜனாதிபதிக்கும் இலங்கை பாடகர்கள் சங்கத்திற்கும் இடையிலான கலந்துரையாடல்
 
@@ -684,6 +714,22 @@ Therefore, the renovation and development of the Pettah Central Bus Stand, appro
 
 ---
 
+### 
+
+*2025-08-05 18:39:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86242) · `en`
+
+மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரே முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.
+
+1988 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்பட்ட மாகாணசபைகள் முறை,  பல வருடங்களாக வெவ்வேறு மாகாண சபைகளுக்கு மக்களால் தெரிவுசெயயப்பட்ட பல முதலமைச்சர்களை கண்டுவந்திருக்கிறது. ஒவ்வொரு மாகாணத்துக்கும் தனியொரு முதலமைச்சர் என்பதே நியமமாக இருந்த போதிலும், கடந்த காலத்தில் ஒரு குறிப்பிடத்தக்க விதிவிலக்கும் இருந்தது.
+
+தற்காலிகமாக இணைக்கப்பட்ட வடக்கு, கிழக்கு மாகாணங்களுக்கு 1988 நவம்பரில் தேர்தல் நடத்தப்பட்டது. வடக்கு — கிழக்கு மாகாணசபை என்று அன்று அழைக்கப்பட்ட சபையின் முதலாவது முதலமைச்சராக ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியைச் சேர்ந்த அண்ணாமலை வரதராஜப் பெருமாள் தெரிவு செய்யப்பட்டார்.
+
+...
+
+[Data](articles/37869b53.json)
+
+---
+
 ### தென்னகோனை நீக்கும் விவகாரம்;நாமல் அதிருப்தி
 
 *2025-08-05 18:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனை-நீக்கும்-விவகாரம்-நாமல்-அதிருப்தி/175-362360) · `ta`
@@ -1143,6 +1189,22 @@ The inquiry panel has found him guilty of mos allegations levelled against Tenna
 ◼️
 
 [Data](articles/5377395c.json)
+
+---
+
+### මහවිලච්චිය ගොවීන්ගේ වට්ටක්කා අස්වැන්න රජයේ ඉල්ලීමකට කාගීල්ස් මිලට ගනියි
+
+*2025-08-05 16:55:41* · [`adalk`](https://www.ada.lk/breaking_news/මහවිලච්චිය-ගොවීන්ගේ-වට්ටක්කා-අස්වැන්න-රජයේ-ඉල්ලීමකට-කාගීල්ස්-මිලට-ගනියි/11-417737) · `si`
+
+නිසි මිලක් නොමැතිකම හේතුවෙන් තම අස්වැන්න  විකුණා ගැනීමට නොහැකිව සිටි  මහවිලච්චිය ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ වට්ටක්කා  ගොවීන්ගේ  එම අස්වැන්න අතර මැදියන්ගෙන් තොරව, සෘජුවම සාධාරණ මිලකට මිලදී ගැනීමේ වැඩ සටහනක් අද (5දා)  කාගිල්ස් ආයතනය මගින් මහවිලච්චියේදී සිදු කෙරිණි.
+
+අස්වැන්න නෙලන තෙක්  වගාව සඳහා වැය වූ මුදල් හෝ , කිසිඳු ආදායමක් නොලැබුණු තමන්ට  මෙය ඉමහත්  සහනයක් වූ බව එම ගොවීහු පැවසූහ.
+
+අස්වැන්න විකුණා ගැනීමට නොහැකි වීම හේතුවෙන්  අනුරාධපුර මහවිලච්චිය ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ වට්ටක්කා වගා කරන ගොවීන් දැඩි ආර්ථික අර්බුදයකට මුහුණ දී සිටියහ. තමන්ගේ අස්වැන්නට සාධාරණ මිලක් නොලැබීම හේතුවෙන් බොහෝ දෙනෙකු අස්වැන්න නෙලීම නතර කළ අතර ඒ හේතුවෙන්  වගා කළ වට්ටක්කා වගා භූමියේම කුණු වී ඇති  ආකාරයද දැක ගත හැකි විය. සමහර අවස්ථාවල ගම් වදින වනඅලින්  විසින් වට්ටක්කා වගාව විනාස කර තිබෙන අයුරුද දැක ගත හැකි විය.
+
+...
+
+[Data](articles/bd6f1b0e.json)
 
 ---
 
@@ -1763,81 +1825,5 @@ The Cabinet Spokesman emphasized that if there are places where Israeli national
 ...
 
 [Data](articles/060fc3fd.json)
-
----
-
-### Sri Lanka to resume Narahenpita, Torrington housing projects
-
-*2025-08-05 14:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-narahenpita-torrington-housing-projects-234712/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to resume halted housing projects at Colombage Mawatha in Narahenpita and Torrington, minister Nalinda Jayatissa said.
-
-“The estimated cost for the implementation of these projects is 7.48 billion rupees,” Jayatissa told reporters.
-
-The Narahenpita Colombage Mawatha scheme was supposed to have 615 units, while the Torrington Mawatha scheme was to have 115 housing units.
-
-“It is expected that it will take about 2 years to complete the construction work.”
-
-The proposal to allocate the necessary provisions for the implementation of these projects from 2026 to 2028 was approved by the cabinet, Jayatissa said.
-
-The two housing projects which were commenced under the urban revitalization project were stopped halfway when the country faced an economic crisis. (Colombo/Aug5/2025)
-
-◼️
-
-[Data](articles/6e07dfb1.json)
-
----
-
-### 3,500க்கும் மேற்பட்ட முப்படை வீரர்கள் கைது - பாதுகாப்பு அமைச்சு
-
-*2025-08-05 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221877) · `ta`
-
-கடந்த பெப்ரவரி மாதம் 22 முதல் ஆகஸ்ட் 3 வரை மேற்கொள்ளப்பட்ட நடவடிக்கைகளில், சட்டவிரோதமாக சேவையை விட்டு வெளியேறிய 3,504 முப்படை வீரர்கள் கைது செய்யப்பட்டதாக இலங்கை பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-கைது செய்யப்பட்டவர்களில் 2,937 இராணுவ வீரர்கள், 289 கடற்படை வீரர்கள், மற்றும் 278 விமானப்படை வீரர்கள் உள்ளடங்குவதாக அமைச்சு குறிப்பிட்டுள்ளது.
-
-2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 20 ஆம் திகதி முதல் மே மாதம் 20 ஆம் திகதி வரை அறிவிக்கப்பட்ட பொது மன்னிப்பு காலத்தில் சரணடையாத முப்படை வீரர்களைக் கைது செய்ய, பாதுகாப்பு அமைச்சின் உத்தரவின் பேரில் 2025ஆம் ஆண்டு பெப்ரவரி மாதம் 22ஆம் திகதி முதல் விசேட நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
-
-கைது செய்யப்பட்ட வீரர்கள் தொடர்பாக மேலதிக விசாரணைகள் நடைபெற்று வருவதாகவும், இவர்களுக்கு எதிராக சட்டரீதியான நடவடிக்கைகள் மேற்கொள்ளப்படும் என்றும் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/dcb6f97e.json)
-
----
-
-### ’இறப்புச் சான்றிதழைத் தயாரா?’: பத்மே கர்ஜனை
-
-*2025-08-05 14:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறப்புச்-சான்றிதழைத்-தயாரா-பத்மே-கர்ஜனை/175-362343) · `ta`
-
-“நாங்கள் ஒரு விளையாட்டு விளையாடுகிறோம். நீங்களும் ஒரு விளையாட்டு விளையாடுகிறீர்கள். உங்களுக்கு ஒரு குடும்பம் மற்றும் ஒரு குழந்தை இருக்க வேண்டும்… நாங்கள் மரணச் சான்றிதழை எங்கள் கைகளில் வைத்திருக்கிறோம். நாங்கள் இறப்பதற்கு பயப்படவில்லை. எங்களை தொந்தரவு செய்ய வந்தவர்களை நன்றாக வாழக் கூட நாங்கள் அனுமதிக்கவில்லை,” என்று வெளிநாட்டில் இருக்கும் பாதாள உலகத் தலைவரான கெஹல்பத்தர பத்மே கூறினார்,
-
-அவர் பேலியகொட குற்றப்பிரிவு தலைமை ஆய்வாளர் லிண்டன் சில்வாவை கொலை செய்வதாக தொலைபேசியில் மிரட்டியுள்ளார்.
-
-தலைமை ஆய்வாளர் லிண்டன் சில்வா உள்ளிட்ட காவல்துறை அதிகாரிகள் குழு மற்றும் காவல்துறை அதிகாரிகள் குழு ஞாயிற்றுக்கிழமை (03) இரவு உடுகம்பொலவின் கெஹல்பத்தர பகுதியில் உள்ள ஒரு ஹோட்டலில் மறைத்து வைக்கப்பட்டிருந்த சுமார் 5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெராயின் மற்றும் 09 வெடிமருந்துகளை கைப்பற்றியதை அடுத்தே  இந்த மிரட்டல் விடுக்கப்பட்டது.
-
-வெளிநாட்டில் தலைமறைவாக இருக்கும் கெஹல்பத்தர பத்மே எனப்படும் மண்டினு பத்மசிறி பெரேரா, தலைமை ஆய்வாளர் லிண்டன் சில்வாவின் அலைபேசிக்கு அழைப்பை எடுத்து  பின்வருமாறு மிரட்டினார்.
-
-...
-
-[Data](articles/11ad3588.json)
-
----
-
-### Sri Lanka seeks investors to develop 10-acre Colombo Fort land
-
-*2025-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-to-develop-10-acre-colombo-fort-land-234705/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call for investment proposals for the Charmers Granaries land at Colombo Fort beloging to the Urban Development Authority, Minister Nalinda Jayatissa said.
-
-The cabinet had approved the proposal to lease the land at Olcott Mawatha on a 99-year lease basis at the latest valuation by the Chief Valuer of the Government, Jayatissa told reporters.
-
-“Cabinet approved the proposal to invite investments from interested investors to dispose of the said land on a lease basis for implementation of a mixed development of a financial, environmental and social nature.”
-
-The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is located in a mixed development zone of a development plan prepared for the Colombo Municipal Council area for the period 2022-2031.
-
-...
-
-[Data](articles/5fcb49ad.json)
 
 ---

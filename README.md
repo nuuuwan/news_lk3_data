@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 05:19:10**
+As of **2025-08-05 06:12:03**
 
 ## Newspaper Stats
 
-*Scraped **68,696** Articles*
+*Scraped **68,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
-islandlk | 4,190
 economynextcom | 4,191
+islandlk | 4,196
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,616
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,696 articles have been extended.
+61,973 (90.2%) of 68,702 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -337,6 +337,48 @@ Sri Lanka’s economic crisis has been exacerbated by its reliance on Internatio
 ...
 
 [Data](articles/2a473ffa.json)
+
+---
+
+### ASPI hits record 20,000 points but profit-takings emerge latterly
+
+*2025-08-04 23:14:00* · [`islandlk`](http://island.lk/aspi-hits-record-20000-points-but-profit-takings-emerge-latterly/) · `en`
+
+CSE recorded a positive market trend for the 11th consecutive day yesterday and the All Share Price Index topped 20,000 points, rising 99 points in early trading. Subsequently heavy profit- takings were noted which pushed the market to a negative mood, market analysts said.
+
+Turnover stood at Rs 4.52 billion with 11 crossings. Those crossings were reported in JKH, whose share price traded at Rs 24.70, CT Lands one million shares crossed to the tune of Rs 33 million; its shares traded at Rs 33, Ceylon Cold Stores 200,000 shares crossed for Rs 22.4 million; its shares traded at Rs 112, Royal Ceramic 500,000 shares crossed for Rs 22 million; its shares traded at Rs 44, Commercial Bank 120,000 shares crossed for Rs 21 million; its shares traded at Rs 174.75 and HNB 55000 shares crossed for Rs 20.6 million; its shares fetched Rs 374.
+
+...
+
+[Data](articles/7a05b454.json)
+
+---
+
+### Aligning private capital with public purpose: The role of banks in driving a true Sri Lankan revival
+
+*2025-08-04 23:10:00* · [`islandlk`](http://island.lk/aligning-private-capital-with-public-purpose-the-role-of-banks-in-driving-a-true-sri-lankan-revival/) · `en`
+
+Sri Lanka stands at crossroads. After five years of multiple crises and many hardfought reforms, our economy made its first tentative steps back to growth in 2025. Following successive contractions, GDP growth has reached a commendable 4.8 percent in 1Q25.
+
+Deflation early in the year offered consumers welcome relief, while an 800basispoint policyrate reduction since 2023 has reignited private credit growth. This monetary easing is expected to nudge inflation back into positive territory—an outcome that, if kept moderate, will support business investment and planning and underpin sustainable economic expansion.
+
+The steady resumption of infrastructure spending, robust remittance inflows and prudent management of foreignexchange reserves have quietly restored confidence that a genuine revival is within reach.
+
+...
+
+[Data](articles/6d7a9f24.json)
+
+---
+
+### HUTCH engages Esala Perahera 2025 with cared community-focused services
+
+*2025-08-04 23:10:00* · [`islandlk`](http://island.lk/hutch-engages-esala-perahera-2025-with-cared-community-focused-services/) · `en`
+
+In celebration of one of Sri Lanka’s most revered cultural festivals, the Esala Perahera Mangalyaya in Kandy, HUTCH is proud to step forward once again in service of tradition, community, and connectivity. Beginning July 30th and continuing throughout the Perahera season, HUTCH will roll out a series of community-focused initiatives to support the thousands of pilgrims and families who come together to experience this sacred cultural celebration.
+
+...
+
+[Data](articles/d1deb8f1.json)
 
 ---
 
@@ -1739,61 +1781,5 @@ Jaffna District Member of Parliament Ramanathan Archchuna has arrived at the Cri
 ◼️
 
 [Data](articles/c1af7efd.json)
-
----
-
-### கடும் மின்னல் தாக்கம் தொடர்பில் எச்சரிக்கை
-
-*2025-08-04 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/221782) · `ta`
-
-வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் பல இடங்களில் இடியுடன் கூடிய மழையுடன் பலத்த மின்னல் தாக்கம் ஏற்பட வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
-
-இந்த எச்சரிக்கை இன்று திங்கட்கிழமை (04) இரவு 11.00 மணி வரை அமுலில் இருக்கும் என அறிவிக்கப்பட்டுள்ளது.
-
-இடியுடன் கூடிய மழை பெய்யும் போது தற்காலிகமாக பலத்த காற்று வீசக்கூடும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-எனவே, மின்னல் தாக்கத்தால் ஏற்படும் சேதங்களைக் குறைக்க போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்பட்டுள்ளனர்.
-
-இடியுடன் கூடிய மழை பெய்யும் போது வயல் வெளிகள், தேயிலைத் தோட்டங்கள் மற்றும் திறந்த நீர்நிலைகள் போன்ற திறந்தவெளிப் பகுதிகளுக்கு செல்வதை தவிர்க்க வேண்டும்.
-
-இடி முழக்கத்தின் போது கம்பித்தொடர்புள்ள தொலைபேசி மற்றும் மின்னிணைப்பிலுள்ள மின் உபகரணங்களைப் பயன்படுத்துவதைத் தவிர்த்துக் கொள்ளவும்.
-
-துவிச்சக்கர வண்டிகள், உழவியந்திரங்கள், படகுகள் போன்ற திறந்த வாகனங்களைப் பயன்படுத்துவதைத் தவிர்த்துக் கொள்ளவும்.
-
-...
-
-[Data](articles/4d1cf8b6.json)
-
----
-
-### වසරේ ගත වූ මාස 07ට සංචාරක කර්මාන්තයෙන් ඩොලර් බිලියන 3.7ක්
-
-*2025-08-04 14:45:00* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-ගත-වූ-මාස-07ට-සංචාරක-කර්මාන්තයෙන්-ඩොලර්-බිලියන-3-7ක්/11-417710) · `si`
-
-මෙම වසරේ ගතවූ මාස 07ක කාලය තුළ සංචාරක කර්මාන්තයෙන් ඇමරිකානු ඩොලර් බිලියන 3.7ක ආදායමක් උපයා ඇති බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
-
-“මේ අවුරුද්දේ දැනටමත් සංචාරකයින් මිලිය 1.3ක් ඇවිල්ලා තියෙනවා. ඉන් වැඩි ප්‍රමාණයක් ඉන්නේ ඉන්දියාවෙන් ආපු අය. අපි ආදායම් විදියට ඩොලර් බිලියන 3.7ක් අපිය උපයලා තියෙනවා මාස 07ට. මේ අවුරුද්දේ සංචාරකයන් ලක්ෂ 30 ක ඉලක්කයක් බලාපොරොත්තු වෙනවා. ”
-
-◼️
-
-[Data](articles/214ba97b.json)
-
----
-
-### 15 முறை பறக்கும் பலே கிள்ளாடி 35 கடவுச்சீட்டுகளுடன் சிக்கினார்
-
-*2025-08-04 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-முறை-பறக்கும்-பலே-கிள்ளாடி-35-கடவுச்சீட்டுகளுடன்-சிக்கினார்/175-362275) · `ta`
-
-கட்டுநாயக்க சர்வதேச விமான நிலையத்திலிருந்து ஐந்து லட்சம் ரூபாய் மதிப்புள்ள வெளிநாட்டு மதுபான போத்தல்களை கொண்டு சென்ற இரண்டு கடத்தல்காரர்களை, திங்கட்கிழமை (04) அதிகாலை  கைது செய்த கட்டுநாயக்க பொலிஸ் அதிகாரிகள் குழு, வானில் இருந்து 35 வெளிநாட்டு கடவுச்சீட்டுகளையும் மீட்டுள்ளனர்.
-
-இந்தக் கடத்தல் நடவடிக்கையின் முக்கிய சந்தேக நபர் தியாத்தலாவைச் சேர்ந்த 22 வயதுடையவர். அவர் இருபது ஆண்டுகளாக இந்த வகை விமானப் பயணத்தில் ஈடுபட்டுள்ளவர், மாதத்திற்கு 15 முறை பறந்து வருகிறார்.
-
-இறந்த பெண்கள், துறவிகள், மாணவர்கள் ஆகியோரின் கடவுச்சீட்டுகள் மற்றும் காலாவதியான மற்றும் செல்லாத கடவுச்சீட்டுகள் அவரிடம் இருந்தன. அவற்றில், இந்த பிரதான கடத்தல்காரருக்குச் சொந்தமான 06 கடவுச்சீட்டுகள் இருந்தன என்பது குறிப்பிடத்தக்கது.
-
-கட்டுநாயக்க விமான நிலைய வரி இல்லாத ஷாப்பிங் வளாகத்தில் இருந்து இந்த வெளிநாட்டு மதுபான இருப்பைப் பெற அவர் இந்த கடவுச்சீட்டுக்களை பயன்படுத்தி, அதன் ஒரு பகுதியை கட்டுநாயக்க விமான நிலையத்திலிருந்து மற்றொரு வாகனத்தில் எடுத்துச் சென்றுள்ளார்.
-
-...
-
-[Data](articles/e9130d94.json)
 
 ---

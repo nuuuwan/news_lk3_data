@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 11:12:44**
+As of **2025-08-05 11:52:56**
 
 ## Newspaper Stats
 
-*Scraped **68,746** Articles*
+*Scraped **68,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,142 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,620
-adaderanalk | 8,524
-tamilmirrorlk | 9,995
-virakesarilk | 11,450
-adaderanasinhalalk | 11,839
+adaderanalk | 8,525
+tamilmirrorlk | 10,001
+virakesarilk | 11,451
+adaderanasinhalalk | 11,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,746 articles have been extended.
+61,973 (90.1%) of 68,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
 
+### ”எம்.பிக்களின் உறவினர்களுக்காக ஜனாதிபதி நிதி பயன்படுத்தப்பட்டுள்ளது”
+
+*2025-08-05 11:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களின்-உறவினர்களுக்காக-ஜனாதிபதி-நிதி-பயன்படுத்தப்பட்டுள்ளது/175-362330) · `ta`
+
+கடந்த காலங்களில் அரசியல்வாதிகளின் உறவினர்களுக்கு உதவ ஜனாதிபதி நிதி பயன்படுத்தப்பட்டுள்ளது என்று பிரதி அமைச்சர் அனுர கருணாதிலக்க இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+அதன்படி, மறைந்த பாராளுமன்ற உறுப்பினர் சரத்சந்திர ராஜகருணா தனது மகன் ஹர்ஷன ராஜகருணாவின் உயர்கல்விக்காக உதவி கோரியதாகவும், பாராளுமன்ற உறுப்பினர்
+
+வீ. ராதாகிருஷ்ணன் தனது உறவினர் ஒருவருக்கு உதவி கோரியதாகவும் துணை அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/3a4b0c35.json)
+
+---
+
+### හරක් කටාට එරෙහිව අලුත් නඩුවක්
+
+*2025-08-05 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213036) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටියදී ඉන් පලා යාමට කුමන්ත්‍රණය කිරීම ඇතුළු චෝදනා 50 ක් යටතේ නඳුන් චින්තක වික්‍රමරත්න හෙවත් "හරක් කටා" ඇතුළු විත්තිකරුවන් පස්දෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් කොළඹ මහාධිකරණය හමුවේ අලුත් නඩුවක් ගොනු කර තිබේ.
+
+කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ මෙම නඩුව අද (05) කැඳවනු ලැබීය.
+
+ඉන් අනතුරුව එම නඩුවට අදාළව විත්තිකරුවන්ට අධිචෝදනා භාරදීම සිදුකර ඇත.
+
+අදාළ නඩුවේ විත්තිකරුවන් ලෙස නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු කොස්තාපල්වරයකු වන රවිඳු සන්ධිප ගුණසේකර, දිනේෂ් තරංග, රුවන් චාමර හෙවත් මිදිගම රුවන් සහ සංජීව අබේසිංහ යන විත්තිකරුවන් නම් කර තිබේ.
+
+මෙම නඩුව අද කැඳවූ අවස්ථාවේදී දැඩි ආරක්ෂක විධිවිධාන මැද අදාළ විත්තිකරුවන් අධිකරණයට ඉදිරිපත් කර තිබූණි.
+
+අධිචෝදනා පත්‍ර භාරදීමෙන් පසුව විත්තිකරුවන්ගේ ඇඟිලි සලකනු ලබාගෙන වාර්තා කැඳවීමට ද අධිකරණය නියම කළේය.
+
+ඒ අනුව හරක් කටා නමැති විත්තිකරු රඳවාගෙන සිටින රැඳවුම් නියෝගය අවසන් වීමෙන් පසුව ඔහුව රක්ෂිත බන්ධනාගාර ගත කරන ලෙස විනිසුරුවරයා නියම කර ඇත.
+
+...
+
+[Data](articles/8263b455.json)
+
+---
+
+### කීර්තිබණ්ඩාරපුර ට්‍රැෆික් OIC අල්ලස් කොමිසමෙන් අත්අඩංගුවට
+
+*2025-08-05 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213035) · `si`
+
+කීර්තිබණ්ඩාරපුර රථවහන අංශයේ ස්ථානාධිපතිවරයා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ස්ථානාධිපතිවරයා ලොරි රථයකින් රුපියල් 10,000ක මුදලක් අල්ලස් වශයෙන් ලබාගැනීමේ දී අල්ලස් කොමිසමේ නිලධාරීන් විසින් අද (05) දහවල් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/1be84887.json)
+
+---
+
+### சேவலை கொன்ற பெண் நாய் சுட்டுக்கொலை
+
+*2025-08-05 11:23:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவலை-கொன்ற-பெண்-நாய்-சுட்டுக்கொலை/175-362329) · `ta`
+
+தனது சேவல்களில் ஒன்றை கவ்விச் சென்று கடித்துக் கொன்ற ஒரு பெண் நாயை, கோழி உரிமையாளர் துப்பாக்கியால் சுட்டுக் கொன்ற சம்பவம், மொனராகலை படல்கும்புர பொலிஸ் பிரிவுக்குட்பட்ட மாலிகத்தென்ன பகுதியில் ஞாயிற்றுக்கிழமை (03) இடம் பெற்றுள்ளது.
+
+கொல்லப்பட்ட வீட்டின் அருகே காணப்பட்ட பெண் நாய்க்கு, 4 குட்டிகள் உள்ளன. சந்தேக நபரின் காணியில் சுற்றித் திரிந்த ஒரு சேவலை அந்த நாய் பிடித்து, அதைக் கொன்று குட்டிகளுக்கு எடுத்துச் சென்றுள்ளது.
+
+சந்தேக நபர் சேவலை காணாமல் அந்தப் பகுதியில் நடத்தப்பட்ட தேடுதலின் போது கொல்லப்பட்ட சே​வல் கண்டுபிடிக்கப்பட்டது. இதனால் கோபமடைந்த கூலித்தொழிலாளியான 42 வயதான நபர், வீட்டுக்குள் சென்று, துப்பாக்கியை எடுத்து வந்து, பெண் நாயை சுட்டுக் கொன்றுள்ளார்.
+
+இந்தச் சம்பவம் குறித்து பொலிஸூக்கு தகவல் தெரிவிக்கப்பட்டதைத் தொடர்ந்து, கொல்லப்பட்ட பெண் நாயின் உடல் படல்கும்புர கால்நடை மருத்துவ அதிகாரியிடம் ஒப்படைக்கப்பட்டு பிரேத பரிசோதனை நடத்தப்பட்டது. பெண் நாயின் உடலில் மூன்று சன்னங்கள் காணப்பட்டன.
+
+...
+
+[Data](articles/95b9e61e.json)
+
+---
+
+### மருத்துவரின் பையில் தோட்டாக்கள் துள்ளின
+
+*2025-08-05 11:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவரின்-பையில்-தோட்டாக்கள்-துள்ளின/175-362328) · `ta`
+
+விமான நிலைய மருத்துவப் பிரிவில் உள்ள ஒரு மருத்துவரின் பையில் எட்டு 9மிமீ  தோட்டாக்கள் கொண்ட ஒரு உறை, கண்டுபிடிக்கப்பட்டதாக விமான நிலைய பொலிஸ் தெரிவித்துள்ளது.
+
+விமான நிலைய ஊழியர்கள் பயன்படுத்தும் விமான நிலைய நுழைவாயில்களில் உள்ள ஸ்கேனர் மூலம் இவை கண்டறியப்பட்டதாக பொலிஸ் கூறுகிறது.
+
+இருப்பினும், பொலிஸ் நடத்திய விசாரணையில், கடந்த ஆண்டு டிசம்பர் மாதம் முதல் துப்பாக்கி மற்றும் 15 தோட்டாக்களுக்கான உரிமத்தை பாதுகாப்பு அமைச்சகம் மருத்துவருக்கு வழங்கியது தெரியவந்தது.
+
+◼️
+
+[Data](articles/99da8e67.json)
+
+---
+
+### ஏஐ தொழில்நுட்பத்தால் ராஞ்சனாவின் கிளைமாக்ஸ் காட்சி மாற்றம் - நடிகர் தனுஷ் அதிருப்தி
+
+*2025-08-05 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221849) · `ta`
+
+செயற்கை நுண்ணறிவு எனப்படும் ஏஐ தொழில்நுட்பத்தால் ராஞ்சனா படத்தின் ஆன்மாவே போச்சு என நடிகர் தனுஷ் தனது அதிருப்தியை தெரிவித்துள்ளார்.
+
+ராஞ்சனா படத்தின் கிளைமாக்ஸ் காட்சி ஏஐ தொழில்நுட்பம் மூலம் மாற்றப்பட்டது. இதனால் தனுஷ் தனது அதிருப்தியை வெளிப்படுத்தியுள்ளார்.
+
+நடிகர் தனுஷ், கடந்த 2013 ஆம் ஆண்டு இந்தியில் அறிமுகமான படம் ராஞ்சனா. இதில் தனுஷ், சோனம் கபூர் ஆகியோர் நடித்திருந்தனர். இந்த திரைப்படம் வெற்றி பெற்று பலரது பாராட்டுகளை பெற்றது.
+
+இதே படம் தமிழில் அம்பிகாபதி என்ற பெயரில் வெளியானது. இயக்குநர் ஆனந்த் எல் ராய் இயக்கிய இந்த படம் ஒரு கல்ட் கிளாசிக் அந்தஸ்தை பெற்றது. இந்த படத்தில் காதல், துரோகம், வலிகள் உள்ளிட்ட உணர்ச்சிகரமான காட்சிகள் உள்ளன.
+
+இந்த படத்தின் கிளைமாக்ஸ் சோகத்தில் முடிந்து ரசிகர்கள் மனதில் நீங்கா இடம் பிடித்திருந்தது. இந்த நிலையில் கில்லி, பாட்ஷா உள்ளிட்ட படங்களை போல் இந்த படமும் ரீ ரிலீஸ் செய்யப்படுகிறது.
+
+...
+
+[Data](articles/d295445a.json)
+
+---
+
 ### ජාතික ආරක්ෂාව ප්‍රශ්නයක් නෑ - ආරක්ෂක ලේකම්
 
 *2025-08-05 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213033) · `si`
 
-ජාතික ආරක්ෂාවට මේ වනවිට කිසිදු ප්‍රශ්නයක් එල්ල වී නොමැති බව ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) මහතා පවසයි.
+ජාතික ආරක්ෂාවට මේ වනවිට කිසිදු ප්‍රශ්නයක් එල්ල වී නොමැති බව ආරක්‍ෂක ලේකම්, එයාර් වයිස් මාර්ෂල් (විශ්‍රාමික) සම්පත් තුයියකොන්තා මහතා පවසයි.
 
 චීනය විසින් ආපදා කළමනාකරණ මධ්‍යස්ථානයට ආධාර පිරිනැමීමේ නිල උත්සවයට එක්වෙමින් ආරක්ෂක ලේකම්වරයා මේ බව කියා සිටියේය.
 
 පාතාලය කිසිවිටෙකත් ජාතික ආරක්ෂාවට ඍජුව සම්බන්ධ නොවන දෙයක් බවත් එය මහජන ආරක්ෂක අමාත්‍යාංශයෙන් පාලනය කරමින් තිබෙන බවත් ආරක්ෂක ලේකම්වරයා මෙහිදී වැඩිදුරටත් පැවසීය.
 
-◼️
+"ජාතික ආරක්ෂාව ප්‍රශ්නයක් නෑ. ඔයාට අද මෙතෙනට එන්න පුළුවන් වුණානේ කිසිම කරදයක් නැතුව. පාතාලය කියන්නේ, ජාතික ආරක්ෂාවට කෙලින්ම සම්බන්ධ දෙයක් නෙමෙයි නේ. ඒක මහජන ආරක්ෂක අමාත්‍යාංශයෙන් පාලනය කරනවා. ජාතික ආරක්ෂාවට අවශ්‍ය කරන, පොලීසියට අවශ්‍ය කරන සහයෝගය සීමාවන් ඇතුළත අපි ලබාදෙනවා. ජාතික ආරක්ෂාවට අනතුරක් නෑ. පාතාලය කැලඹිලා තියෙනවා. පාතාලය කැලඹෙන්න ඕනේ. මොකද පාතාලයට දේශපාලන රැකවරණයක් නැති වෙලා තියෙනවා. ඒ නිසා පාතාලය කැලඹිලා. පාතාල ක්‍රියාකාරකම්වල නියැලෙන අය අත්අඩංගුවට පත්වෙනවා. මහජන ආරක්ෂක අමාත්‍යාංශයෙන් වැඩපිළිවෙලක් ක්‍රියාත්මක කරනවා. ඊට නීතිමය රාමුව තුළ සීමාවන් තුළ අපි ලබාදෙනවා."
+
+...
 
 [Data](articles/8fd02c8b.json)
 
@@ -57,6 +167,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3ab8c403.json)
+
+---
+
+### தென்னக்கோனை   நீக்கும் பிரேரணை மீது   இன்று வாக்கெடுப்பு
+
+*2025-08-05 10:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்கும்-பிரேரணை-மீது-இன்று-வாக்கெடுப்பு/175-362326) · `ta`
+
+பொலிஸ்மா அதிபர் டீ.எம்.டபிள்யூ.தேசபந்து தென்னக்கோனை    2002ஆம் ஆண்டின் 5ஆம்இலக்க அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17ஆம் வாசகத்தின் பிரகாரம் அப்பதவியிலிருந்து அகற்றுவதற்கான தீர்மானத்தை நிறைவேற்றுவது தொடர்பான விவாதத்தை ஓகஸ்ட் மாதம்  5ஆம் திகதி நடத்துவதற்கு பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் தீர்மானிக்கப்பட்டிருக்கிறது.
+
+சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில்  கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இத்தீர்மானம் எடுக்கப்பட்டது. இதற்கமைய ஓகஸ்ட் மாதம்  5, 6 மற்றும்  7ஆம் திகதிகளில் பாராளுமன்றம் கூடவுள்ளது. ஓகஸ்ட் 8ஆம் திகதி வெள்ளிக்கிழமை போயாதினம் என்பதால் அன்று பாராளுமன்றம் கூடாது.
+
+...
+
+[Data](articles/556a092b.json)
 
 ---
 
@@ -144,6 +268,38 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### யானை தாக்குதலில் இளம் தாய் பலி: குழந்தை தப்பியது
+
+*2025-08-05 10:14:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்குதலில்-இளம்-தாய்-பலி-குழந்தை-தப்பியது/175-362321) · `ta`
+
+யானை தாக்குதலில் இளம் தாயார் ஒருவர் உயிரிழந்ததுடன் 3 வயது குழந்தை தெய்வாதீனமாக உயிர் தப்பிய சம்பவம் மட்டக்களப்பு ஆயித்தியமலை பொலிஸ் பிரிவிலுள்ள மகிழவெட்டுவான் பகுதியில் திங்கட்கிழமை (04) அன்று இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மகிழவெட்டுவானை சேர்ந்த 35 வயதுடைய ரவிச்சந்திரன் பசுபதி என்பவரே இவ்வாறு பரிதாபகரமாக உயிரிழந்துள்ளார்.
+
+குறித்த பிரதேசத்தில் வீட்டின் முற்றத்தில் சம்பவதினமான திங்கட்கிழமை (04) அன்று இரவு 7.00 மணியளவில் தனது 3 வயது பெண் குழந்தையுடன் தாய் இருந்துள்ள நிலையில்  குடிமனைக்குள் உட்புகுந்த யானை அவர்கள் மீது தாக்கியதில் தாயார் சம்பவ இடத்திலே உயிரிழந்ததுடன் குழந்தை தெய்வாதீனமாக உயிர் தப்பினார்.
+
+இதையடுத்து உயிர் தப்பிய குழந்தையை மீட்டதுடன் உயிரிழந்தவரின் சடலத்தை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b1ac4d1c.json)
+
+---
+
+### யாழில் 23 மில்லியன் மதிப்புள்ள ஈரமான  கஞ்சா மீட்பு
+
+*2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-ஈரமான-கஞ்சா-மீட்பு/175-362318) · `ta`
+
+யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்பு அருகே இலங்கை கடற்படை நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, சுமார் நூற்று இரண்டு (102) கிலோ கிராம் மற்றும்  350) கிராம்  ஈரமான எடை ) கேரள கஞ்சா, இருபத்தி மூன்று (23) மில்லியன் ரூபாயை விட அதிகமான தெரு மதிப்புள்ள ஒரு தொகையை கடற்படையனர் திங்கட்கிழமை (04) அன்று கைப்பற்றினர்.
+
+அதன்படி, யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்புக்கு அருகிலுள்ள பகுதியில் வடக்கு கடற்படை கட்டளையின் வெத்தலக்கேணி கடற்படை நிலையம் நடத்திய இந்த சிறப்பு தேடுதல் நடவடிக்கையின் போது, அப்பகுதியில் உள்ள ஒரு புதரில் வைக்கப்பட்டிருந்த இரண்டு (02) சந்தேகத்திற்கிடமான பொதிகள் அவதானிக்கப்பட்டு ஆய்வு செய்யப்பட்டன. அப்போது,பொதிகளில் அடைக்கப்பட்டிருந்த நூற்று இரண்டு (102) கிலோகிராம் முந்நூற்று ஐம்பது (350) கிராம் (ஈரமான எடை) கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டது.
+
+...
+
+[Data](articles/00d7fd97.json)
+
+---
+
 ### யாழில் 23 மில்லியன் மதிப்புள்ள கேரள கஞ்சா மீட்பு
 
 *2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-கேரள-கஞ்சா-மீட்பு/175-362318) · `ta`
@@ -155,6 +311,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2da4ba92.json)
+
+---
+
+### Prices of luxury watches in US rise after Trump’s Swiss tariffs
+
+*2025-08-05 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111179/prices-of-luxury-watches-in-us-rise-after-trumps-swiss-tariffs) · `en`
+
+Switzerland’s watch industry is facing a threat to sales after Donald Trump said he would impose 39 per cent tariffs on the country, raising the prospect of significantly higher prices in one of its biggest markets.
+
+The elevated levy will push prices up for US consumers and hit volumes at some brands, analysts warned. The US accounted for 16.8 per cent of Swiss watch exports in 2024, worth roughly SFr4.4bn (US$5.4 billion, S$6.96 billion).
+
+Swiss manufacturers The Swatch Group and Richemont, as well as London-listed Watches of Switzerland, a big Rolex and Patek Philippe dealer, all face “pain” if tariffs kick in next week as planned, Jefferies said.
+
+At 39 per cent, the levy exceeds the 31 per cent proposed by Trump on “liberation day” in April, and far outstrips the 15 per cent facing Switzerland’s EU neighbours. Even at the lower rate, some retailers previously said they would need price rises “in the mid to high teens” to preserve US gross profit, according to Jefferies.
+
+...
+
+[Data](articles/92eb5b11.json)
 
 ---
 
@@ -346,7 +520,7 @@ The notice did not name the countries affected, but said the list will be releas
 
 ---
 
-### Resolution to remove IGP Deshabandu Tennakoon from office to be debated in Parliament today
+### Resolution to remove Deshabandu Tennakoon from office to be debated in Parliament today
 
 *2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-igp-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
 
@@ -1597,179 +1771,5 @@ Accordingly, the amended Act introduces several provisions, including allowing t
 ...
 
 [Data](articles/09553f91.json)
-
----
-
-### මන්ත්‍රි 159ගේ මාසික වැටුප ලක්ෂ 477 ක්  පැලවත්තේ කාර්යාලයේ ගීණුමට යනවා
-
-*2025-08-04 18:13:44* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-159ගේ-මාසික-වැටුප-ලක්ෂ-477-ක්--පැලවත්තේ-කාර්යාලයේ-ගීණුමට-යනවා/11-417719) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රිවරුන් 159 දෙනෙකුගේ  මාසික වැටුප වන ලක්ෂ 477 ක් මාසිකව  පැලවත්තේ කාර්යාලයේ ගීණුමට බැර වන බවත් එය වාර්ෂිකව  ලක්ෂ 5727 ක් බව  නීතිඥ ශිරාල් ලක්තිලක මහතා පැවසීය.
-
-ඒ මහතා එසේ පැවසුවේ ගාල්ලේ පැවැති දිනන දකුණ සංවාදශීලී ජන හමුවේදීය.  දකුණෙන් දකුණට කල යුත්තේ කුමක්ද?, සංවාදශීලී හමුව පසුගිය  (03)  ගාල්ල වාණිජ හා කාර්මාන්ත මණ්ඩල ශ්‍රවණාගාරයේදී  පැවැත්විණි.
-
-...
-
-[Data](articles/8c96e061.json)
-
----
-
-### Russia urges caution in nuclear ‘rhetoric’ after Donald Trump comments
-
-*2025-08-04 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111163/russia-urges-caution-in-nuclear-rhetoric-after-donald-trump-comments) · `en`
-
-Russia urged caution on Monday (Aug 4) after US President Donald Trump said he would deploy two nuclear submarines following an online row with former Russian president Dmitry Medvedev.
-
-Trump said he had ordered the deployment in response to what he alleged were highly provocative comments by Medvedev, saying the submarines would be positioned in “appropriate regions”.
-
-Trump did not say whether he meant nuclear-powered or nuclear-armed submarines.
-
-He also did not elaborate on the locations, which are kept secret by the US military.
-
-“Russia is very attentive to the topic of nuclear non-proliferation. And we believe that everyone should be very, very cautious with nuclear rhetoric,” Kremlin spokesman Dmitry Peskov told reporters, including from AFP, on Monday.
-
-The row between Medvedev and Trump erupted against the backdrop of the US leader’s ultimatum for Russia to end its military offensive in Ukraine or face fresh economic sanctions, including on its remaining trading partners.
-
-...
-
-[Data](articles/f8d597bb.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයා ගොඩ ගන්න වෙහෙසෙන හැටි
-
-*2025-08-04 18:04:23* · [`adalk`](https://www.ada.lk/breaking_news/කණ්ඩලමේ-හැඩකාරයා-ගොඩ-ගන්න-වෙහෙසෙන-හැටි/11-417718) · `si`
-
-කණ්ඩලම ජලාශයේ අසාධ්‍ය තත්ත්වයේ ජලය මත   සිටි කණ්ඩලමේ හැඩකාරයා නමින් හඳුන්වන  වන අලියා සුව කර ගැනීම සඳහා වනජීවී පශු  වෛද්‍යවරුන් කණ්ඩායමක් දැඩි වෙහෙසක් දරමින් සිටියි.
-
-ගීරිතලේ වනජීවී කාර්යාලයේ  පශු වෛද්‍ය කණ්ඩායම සහ වනජීවීන් නිලධාරීන් කණ්ඩායම පසුගිය තුන්වැනි දා සිදුකරන ලද ප්‍රතිකාර  සමග වන අලියා කණ්ඩලම වැව් දියෙන්   ගොඩට ගැනීම සඳහා ඔවුහු දැඩි වෙහෙසක් සහ උපක්‍රමශීලීව පියවර ගැනීම විශේෂත්වයකි.
-
-ඒ අනුව පශු  වෛද්‍ය කණ්ඩායම සහ වනජීවී නිලධාරීන් දැඩි උත්සාහයක් දරමින් ජලයේ සිටි වන අලියා සිටුවා කොස් කැබලි පෝලිමට තබා ජලයෙන්  ගොඩට ගෙන  ප්‍රතිකාර කිරීම් සිදු කරන්නට වූහ.
-
-වෛද්‍ය කණ්ඩායමක් මෙන්ම වනජීවී නිලධාරීන් සඳහන් කළේ මෙම කණ්ඩලමේ හැඩකාරයා නැමැති වන අලියාට දිගින් දිගටම ප්‍රතිකාර  කළ ද ඔහුගේ පාදවලට දැඩි ලෙස තුවාල සිදුවී ඇති බවය.
-
-ඉදිරි පාද දෙකේම මේ වන විට තුවාල සිදුවී තිබෙන බවත් සිරුරේ ස්ථාන කිහිපයකම තුවාල දැක ගැනීමට කි වී තිබේ  එම තුවාලවලට වෙනමම ප්‍රතිකාර කටයුතු සිදුකළ බවද වෛද්‍යවරුන් සඳහන් කරන්නට විය.
-
-...
-
-[Data](articles/2f20b26b.json)
-
----
-
-### சொட்டை தலையர்களை போற்றும் இசைக் கலைஞர் ரைசிங் றாப்பர்
-
-*2025-08-04 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/221814) · `ta`
-
-இன்றைய சூழலில் நீர் மேலாண்மை காரணமாக இளம் வயதிலேயே ஆண்களும், பெண்களும் தலை முடி உதிர்வு பாதிப்பை எதிர்கொள்கிறார்கள். இளம் பருவத்தில் இத்தகைய பாதிப்பிற்கு ஆளாகும் ஆண்களுக்கும் , பெண்களுக்கும் உளவியல் ரீதியாக பாரிய அழுத்தத்தை எதிர்கொள்கிறார்கள்.
-
-இதனை முதன்மையான உள்ளடக்கமாக கொண்டு வெளியாக இருக்கும் 'சொட்ட சொட்ட நனையுது 'என்ற திரைப்படத்தில் ' சொட்ட ஆந்தம் ' என்ற பெயரில் சுயாதீன இசைக்கலைஞர் ரைசிங் றாப்பரின் இசையில் பாடல் ஒன்று வெளியிடப்பட்டுள்ளது.
-
-இயக்குநர் நவீத் எஸ். ஃபரீத் இயக்கத்தில் உருவாகி வரும் 'சொட்ட சொட்ட நனையுது' என்ற படத்தில் நிஷாந்த் ரூசோ, ராஜா இளங்கோவன் , வர்ஷினி வெங்கட் , ஷாலினி,  ஆனந்த் பாண்டி, ரோபோ சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரயீஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரஞ்சித் உன்னி இசையமைத்திருக்கிறார் இந்த படத்தை அட்லர் என்டர்டெய்ன்மென்ட் நிறுவனம் தயாரித்திருக்கிறது.
-
-...
-
-[Data](articles/aaf2bacc.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds steady
-
-*2025-08-04 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-234536/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.00/03 to the US dollar in the spot market Monday, stronger from 301.20/30 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.05/15 percent, up from 8.00/10 percent.
-
-A bond maturing on 15.09.2027 closed at 8.40/50 percent, up from 8.40/45 percent.
-
-A bond maturing on 15.12.2029 closed at 9.38/40 percent, up from 9.35/40 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/30 percent, up from 10.23/26 percent. (Colombo/Aug4/2025)
-
-◼️
-
-[Data](articles/6a3b1695.json)
-
----
-
-### Gaza clinics overflowing with starving kids, mothers as Israel blocks food: MSF
-
-*2025-08-04 17:47:00* · [`economynextcom`](https://economynext.com/gaza-clinics-overflowing-with-starving-kids-mothers-as-israel-blocks-food-msf-234553/) · `en`
-
-ECONOMYENXT – Clinics run by Médecins Sans Frontières in Gaza are beginning to overflow with malnourished kids and pregnant mothers who are severely as Israel food blockade starve the population, the medical charity said.
-
-At MSF clinics, injured patients beg for food instead of medicine – their wounds failing to heal because of protein deficiency, the charity said calling for urgent unrestricted humanitarian access, a sustained flow of food and medical aid into Gaza, and the protection of civilians.
-
-More than 700 pregnant and breastfeeding women, and nearly 500 children with severe and moderate malnutrition are currently enrolled in ambulatory therapeutic feeding centres in two clinics in Gaza, the charity said.
-
-“Patient enrolment in the MSF Gaza City clinic almost quadrupled in under two months, from 293 cases in May, up to 983 cases at the beginning of July,” MSF said.
-
-Critics have accused the government of Benjamin Nethaniyahu of carrying out systematic genocide of the Gaza population.
-
-...
-
-[Data](articles/4ae5f6fd.json)
-
----
-
-### සමාගම් පනතට කථානායක සහතිකය
-
-*2025-08-04 17:34:35* · [`adalk`](https://www.ada.lk/breaking_news/සමාගම්-පනතට-කථානායක-සහතිකය/11-417716) · `si`
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (04) සිය සහතිකය සටහන් කළේය.
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත පසුගිය 23 වැනිදා පාර්ලිමේන්තුවේදී සංශෝධන සහිතව සම්මත විය.  ඒ අනුව මෙම පනත සංශෝධනය මගින් තනි කොටස් හිමියෙකු සමඟ සමාගමක් සංස්ථාගත කිරීමට ඉඩ  සලසාදීම සමාගමක නම වෙනස් කරන විට මහජනයාට දැනුම් දීමේ කාල සීමාව වැඩ කරන දින 20ක් දක්වා දීර්ඝ කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම තහනම් කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම පිළිබඳ සමාගම වෙත දැනුම් දීම හා බලපත්‍ර දරන්නාගේ තොරතුරු සමාගම් ලේකම් වෙත පනතේ දින සිට දින 60 ක් ඇතුළත හෙළිදරව් කිරීමේ වගකීම එම බලපත්‍ර දරන්නා වෙත පැවරීම,ප්‍රතිෂ්ඨාව ලැබීමෙන් පසු සමාගමක් විසින් ප්‍රතිෂ්ඨාව ලද දින සිට දින 20ක් ඇතුළත කොටස් විභජනය කළ යුතු වීම මෙම පනතේ විධිවිධානවල ඇතුළත්  වේ.
-
-...
-
-[Data](articles/fb1514e0.json)
-
----
-
-### Four Indian fishermen arrested for poaching in Sri Lankan waters off Delft
-
-*2025-08-04 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111162/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters-off-delft-) · `en`
-
-A fishing boat has been seized while four Indian fishermen have been apprehended for poaching in Sri Lankan waters off the Delft Island, Jaffna.
-
-The Northern Naval Command deployed its Inshore Patrol Craft to seize the fishing boat after it infiltrated Sri Lankan waters, the Sri Lanka Navy said.
-
-The seized boat and the four Indian fishermen have been handed over to the Fisheries Inspector of Mailadi for onward legal proceedings, the Navy added.
-
-◼️
-
-[Data](articles/32f74812.json)
-
----
-
-### பின்னணி பாடகராக அறிமுகமாகும் நடிகர் புகழ்
-
-*2025-08-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221813) · `ta`
-
-சின்னத்திரை ரசிகர்களிடம் பிரபலமான நடிகரும், 'மிஸ்டர் ஜு கீப்பர்' படத்தின் மூலம் கதையின் நாயகனாகவும் உயர்ந்த நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கும் பெயரிடப்படாத திரைப்படத்தில் இடம் பெறும் பாடல் ஒன்றை பாடி பின்னாடி பாடகராகவும் அறிமுகமாகிறார்.
-
-இயக்குநர் எம் சாஜோ சுந்தர் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கிறார். லட்சுமி மூவி மேக்கர்ஸ் நிறுவனத்தின் சார்பில் தயாரிப்பாளர்கள் டொக்டர் எம். ஸ்ரீ வக்சன் மற்றும் எம்.கோகுல் கிருஷ்ணன் ஆகியோர் இணைந்து தயாரிக்கும் இந்த திரைப்படத்திற்கு சுபாஷ் முனிரத்னம் இசையமைத்துள்ளார்.
-
-இந்த படத்திற்காக பிரபல பாடலாசிரியர் கலைக்குமார் எழுதிய பாடலை சுபாஷ் முனிரத்னம் இசையில் நடிகர் புகழ்-  பின்னணி பாடகி விருஷா பாலு-  பின்னணி பாடகர் ஜெகதீஷ் குமார் ஆகியோர் இணைந்து பாடியிருக்கிறார்கள். இந்தப் பாடலைப் பாடியிருப்பதன் மூலம் நடிகர் புகழ் பாடகராகவும் அறிமுகமாகிறார். துள்ளலிசை பாணியிலான இந்தப் பாடல் சிறப்பாக வந்துள்ளதாக படக் குழுவினர் நம்பிக்கையுடன் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/a7ecb21c.json)
-
----
-
-### அர்ச்சுனா ராமநாதன் CID யில் ஆஜர்
-
-*2025-08-04 17:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனா-ராமநாதன்-CID-யில்-ஆஜர்/175-362290) · `ta`
-
-யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் அர்ச்சுனா ராமநாதன் இன்று குற்றப் புலனாய்வுத் திணைக்களத்தில் (CID) ஆஜரானார்.
-
-குற்றப் புலனாய்வுத் திணைக்கள வளாகத்திற்குள் நுழைவதற்கு முன்பு ஊடகங்களுக்கு கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் அர்ச்சுனா, இன்று வாக்குமூலம் அளிக்க அழைக்கப்பட்டதாகக் கூறினார்.
-
-மேலும் விசாரித்ததில், பேஸ்புக்கில் இட்ட ஒரு பதிவையடுத்து வாக்குமூலம் பதிவு செய்யப்படவுள்ளதாக அவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/dbc826aa.json)
 
 ---

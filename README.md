@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 11:12:44**
+As of **2025-08-05 11:36:20**
 
 ## Newspaper Stats
 
-*Scraped **68,746** Articles*
+*Scraped **68,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,70 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,620
-adaderanalk | 8,524
-tamilmirrorlk | 9,995
-virakesarilk | 11,450
+adaderanalk | 8,525
+tamilmirrorlk | 9,998
+virakesarilk | 11,451
 adaderanasinhalalk | 11,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,746 articles have been extended.
+61,973 (90.1%) of 68,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
 
+### மருத்துவரின் பையில் தோட்டாக்கள் துள்ளின
+
+*2025-08-05 11:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவரின்-பையில்-தோட்டாக்கள்-துள்ளின/175-362328) · `ta`
+
+விமான நிலைய மருத்துவப் பிரிவில் உள்ள ஒரு மருத்துவரின் பையில் எட்டு 9மிமீ  தோட்டாக்கள் கொண்ட ஒரு உறை, கண்டுபிடிக்கப்பட்டதாக விமான நிலைய பொலிஸ் தெரிவித்துள்ளது.
+
+விமான நிலைய ஊழியர்கள் பயன்படுத்தும் விமான நிலைய நுழைவாயில்களில் உள்ள ஸ்கேனர் மூலம் இவை கண்டறியப்பட்டதாக பொலிஸ் கூறுகிறது.
+
+இருப்பினும், பொலிஸ் நடத்திய விசாரணையில், கடந்த ஆண்டு டிசம்பர் மாதம் முதல் துப்பாக்கி மற்றும் 15 தோட்டாக்களுக்கான உரிமத்தை பாதுகாப்பு அமைச்சகம் மருத்துவருக்கு வழங்கியது தெரியவந்தது.
+
+◼️
+
+[Data](articles/99da8e67.json)
+
+---
+
+### ஏஐ தொழில்நுட்பத்தால் ராஞ்சனாவின் கிளைமாக்ஸ் காட்சி மாற்றம் - நடிகர் தனுஷ் அதிருப்தி
+
+*2025-08-05 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221849) · `ta`
+
+செயற்கை நுண்ணறிவு எனப்படும் ஏஐ தொழில்நுட்பத்தால் ராஞ்சனா படத்தின் ஆன்மாவே போச்சு என நடிகர் தனுஷ் தனது அதிருப்தியை தெரிவித்துள்ளார்.
+
+ராஞ்சனா படத்தின் கிளைமாக்ஸ் காட்சி ஏஐ தொழில்நுட்பம் மூலம் மாற்றப்பட்டது. இதனால் தனுஷ் தனது அதிருப்தியை வெளிப்படுத்தியுள்ளார்.
+
+நடிகர் தனுஷ், கடந்த 2013 ஆம் ஆண்டு இந்தியில் அறிமுகமான படம் ராஞ்சனா. இதில் தனுஷ், சோனம் கபூர் ஆகியோர் நடித்திருந்தனர். இந்த திரைப்படம் வெற்றி பெற்று பலரது பாராட்டுகளை பெற்றது.
+
+இதே படம் தமிழில் அம்பிகாபதி என்ற பெயரில் வெளியானது. இயக்குநர் ஆனந்த் எல் ராய் இயக்கிய இந்த படம் ஒரு கல்ட் கிளாசிக் அந்தஸ்தை பெற்றது. இந்த படத்தில் காதல், துரோகம், வலிகள் உள்ளிட்ட உணர்ச்சிகரமான காட்சிகள் உள்ளன.
+
+இந்த படத்தின் கிளைமாக்ஸ் சோகத்தில் முடிந்து ரசிகர்கள் மனதில் நீங்கா இடம் பிடித்திருந்தது. இந்த நிலையில் கில்லி, பாட்ஷா உள்ளிட்ட படங்களை போல் இந்த படமும் ரீ ரிலீஸ் செய்யப்படுகிறது.
+
+...
+
+[Data](articles/d295445a.json)
+
+---
+
 ### ජාතික ආරක්ෂාව ප්‍රශ්නයක් නෑ - ආරක්ෂක ලේකම්
 
 *2025-08-05 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213033) · `si`
 
-ජාතික ආරක්ෂාවට මේ වනවිට කිසිදු ප්‍රශ්නයක් එල්ල වී නොමැති බව ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) මහතා පවසයි.
+ජාතික ආරක්ෂාවට මේ වනවිට කිසිදු ප්‍රශ්නයක් එල්ල වී නොමැති බව ආරක්‍ෂක ලේකම්, එයාර් වයිස් මාර්ෂල් (විශ්‍රාමික) සම්පත් තුයියකොන්තා මහතා පවසයි.
 
 චීනය විසින් ආපදා කළමනාකරණ මධ්‍යස්ථානයට ආධාර පිරිනැමීමේ නිල උත්සවයට එක්වෙමින් ආරක්ෂක ලේකම්වරයා මේ බව කියා සිටියේය.
 
 පාතාලය කිසිවිටෙකත් ජාතික ආරක්ෂාවට ඍජුව සම්බන්ධ නොවන දෙයක් බවත් එය මහජන ආරක්ෂක අමාත්‍යාංශයෙන් පාලනය කරමින් තිබෙන බවත් ආරක්ෂක ලේකම්වරයා මෙහිදී වැඩිදුරටත් පැවසීය.
 
-◼️
+"ජාතික ආරක්ෂාව ප්‍රශ්නයක් නෑ. ඔයාට අද මෙතෙනට එන්න පුළුවන් වුණානේ කිසිම කරදයක් නැතුව. පාතාලය කියන්නේ, ජාතික ආරක්ෂාවට කෙලින්ම සම්බන්ධ දෙයක් නෙමෙයි නේ. ඒක මහජන ආරක්ෂක අමාත්‍යාංශයෙන් පාලනය කරනවා. ජාතික ආරක්ෂාවට අවශ්‍ය කරන, පොලීසියට අවශ්‍ය කරන සහයෝගය සීමාවන් ඇතුළත අපි ලබාදෙනවා. ජාතික ආරක්ෂාවට අනතුරක් නෑ. පාතාලය කැලඹිලා තියෙනවා. පාතාලය කැලඹෙන්න ඕනේ. මොකද පාතාලයට දේශපාලන රැකවරණයක් නැති වෙලා තියෙනවා. ඒ නිසා පාතාලය කැලඹිලා. පාතාල ක්‍රියාකාරකම්වල නියැලෙන අය අත්අඩංගුවට පත්වෙනවා. මහජන ආරක්ෂක අමාත්‍යාංශයෙන් වැඩපිළිවෙලක් ක්‍රියාත්මක කරනවා. ඊට නීතිමය රාමුව තුළ සීමාවන් තුළ අපි ලබාදෙනවා."
+
+...
 
 [Data](articles/8fd02c8b.json)
 
@@ -57,6 +95,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3ab8c403.json)
+
+---
+
+### தென்னக்கோனை   நீக்கும் பிரேரணை மீது   இன்று வாக்கெடுப்பு
+
+*2025-08-05 10:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்கும்-பிரேரணை-மீது-இன்று-வாக்கெடுப்பு/175-362326) · `ta`
+
+பொலிஸ்மா அதிபர் டீ.எம்.டபிள்யூ.தேசபந்து தென்னக்கோனை    2002ஆம் ஆண்டின் 5ஆம்இலக்க அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17ஆம் வாசகத்தின் பிரகாரம் அப்பதவியிலிருந்து அகற்றுவதற்கான தீர்மானத்தை நிறைவேற்றுவது தொடர்பான விவாதத்தை ஓகஸ்ட் மாதம்  5ஆம் திகதி நடத்துவதற்கு பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் தீர்மானிக்கப்பட்டிருக்கிறது.
+
+சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில்  கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இத்தீர்மானம் எடுக்கப்பட்டது. இதற்கமைய ஓகஸ்ட் மாதம்  5, 6 மற்றும்  7ஆம் திகதிகளில் பாராளுமன்றம் கூடவுள்ளது. ஓகஸ்ட் 8ஆம் திகதி வெள்ளிக்கிழமை போயாதினம் என்பதால் அன்று பாராளுமன்றம் கூடாது.
+
+...
+
+[Data](articles/556a092b.json)
 
 ---
 
@@ -144,6 +196,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### யாழில் 23 மில்லியன் மதிப்புள்ள ஈரமான  கஞ்சா மீட்பு
+
+*2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-ஈரமான-கஞ்சா-மீட்பு/175-362318) · `ta`
+
+யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்பு அருகே இலங்கை கடற்படை நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, சுமார் நூற்று இரண்டு (102) கிலோ கிராம் மற்றும்  350) கிராம்  ஈரமான எடை ) கேரள கஞ்சா, இருபத்தி மூன்று (23) மில்லியன் ரூபாயை விட அதிகமான தெரு மதிப்புள்ள ஒரு தொகையை கடற்படையனர் திங்கட்கிழமை (04) அன்று கைப்பற்றினர்.
+
+அதன்படி, யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்புக்கு அருகிலுள்ள பகுதியில் வடக்கு கடற்படை கட்டளையின் வெத்தலக்கேணி கடற்படை நிலையம் நடத்திய இந்த சிறப்பு தேடுதல் நடவடிக்கையின் போது, அப்பகுதியில் உள்ள ஒரு புதரில் வைக்கப்பட்டிருந்த இரண்டு (02) சந்தேகத்திற்கிடமான பொதிகள் அவதானிக்கப்பட்டு ஆய்வு செய்யப்பட்டன. அப்போது,பொதிகளில் அடைக்கப்பட்டிருந்த நூற்று இரண்டு (102) கிலோகிராம் முந்நூற்று ஐம்பது (350) கிராம் (ஈரமான எடை) கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டது.
+
+...
+
+[Data](articles/00d7fd97.json)
+
+---
+
 ### யாழில் 23 மில்லியன் மதிப்புள்ள கேரள கஞ்சா மீட்பு
 
 *2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-கேரள-கஞ்சா-மீட்பு/175-362318) · `ta`
@@ -155,6 +221,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2da4ba92.json)
+
+---
+
+### Prices of luxury watches in US rise after Trump’s Swiss tariffs
+
+*2025-08-05 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111179/prices-of-luxury-watches-in-us-rise-after-trumps-swiss-tariffs) · `en`
+
+Switzerland’s watch industry is facing a threat to sales after Donald Trump said he would impose 39 per cent tariffs on the country, raising the prospect of significantly higher prices in one of its biggest markets.
+
+The elevated levy will push prices up for US consumers and hit volumes at some brands, analysts warned. The US accounted for 16.8 per cent of Swiss watch exports in 2024, worth roughly SFr4.4bn (US$5.4 billion, S$6.96 billion).
+
+Swiss manufacturers The Swatch Group and Richemont, as well as London-listed Watches of Switzerland, a big Rolex and Patek Philippe dealer, all face “pain” if tariffs kick in next week as planned, Jefferies said.
+
+At 39 per cent, the levy exceeds the 31 per cent proposed by Trump on “liberation day” in April, and far outstrips the 15 per cent facing Switzerland’s EU neighbours. Even at the lower rate, some retailers previously said they would need price rises “in the mid to high teens” to preserve US gross profit, according to Jefferies.
+
+...
+
+[Data](articles/92eb5b11.json)
 
 ---
 
@@ -346,7 +430,7 @@ The notice did not name the countries affected, but said the list will be releas
 
 ---
 
-### Resolution to remove IGP Deshabandu Tennakoon from office to be debated in Parliament today
+### Resolution to remove Deshabandu Tennakoon from office to be debated in Parliament today
 
 *2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-igp-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
 
@@ -1689,87 +1773,5 @@ A bond maturing on 15.12.2032 closed at 10.25/30 percent, up from 10.23/26 perce
 ◼️
 
 [Data](articles/6a3b1695.json)
-
----
-
-### Gaza clinics overflowing with starving kids, mothers as Israel blocks food: MSF
-
-*2025-08-04 17:47:00* · [`economynextcom`](https://economynext.com/gaza-clinics-overflowing-with-starving-kids-mothers-as-israel-blocks-food-msf-234553/) · `en`
-
-ECONOMYENXT – Clinics run by Médecins Sans Frontières in Gaza are beginning to overflow with malnourished kids and pregnant mothers who are severely as Israel food blockade starve the population, the medical charity said.
-
-At MSF clinics, injured patients beg for food instead of medicine – their wounds failing to heal because of protein deficiency, the charity said calling for urgent unrestricted humanitarian access, a sustained flow of food and medical aid into Gaza, and the protection of civilians.
-
-More than 700 pregnant and breastfeeding women, and nearly 500 children with severe and moderate malnutrition are currently enrolled in ambulatory therapeutic feeding centres in two clinics in Gaza, the charity said.
-
-“Patient enrolment in the MSF Gaza City clinic almost quadrupled in under two months, from 293 cases in May, up to 983 cases at the beginning of July,” MSF said.
-
-Critics have accused the government of Benjamin Nethaniyahu of carrying out systematic genocide of the Gaza population.
-
-...
-
-[Data](articles/4ae5f6fd.json)
-
----
-
-### සමාගම් පනතට කථානායක සහතිකය
-
-*2025-08-04 17:34:35* · [`adalk`](https://www.ada.lk/breaking_news/සමාගම්-පනතට-කථානායක-සහතිකය/11-417716) · `si`
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (04) සිය සහතිකය සටහන් කළේය.
-
-සමාගම් (සංශෝධන) පනත් කෙටුම්පත පසුගිය 23 වැනිදා පාර්ලිමේන්තුවේදී සංශෝධන සහිතව සම්මත විය.  ඒ අනුව මෙම පනත සංශෝධනය මගින් තනි කොටස් හිමියෙකු සමඟ සමාගමක් සංස්ථාගත කිරීමට ඉඩ  සලසාදීම සමාගමක නම වෙනස් කරන විට මහජනයාට දැනුම් දීමේ කාල සීමාව වැඩ කරන දින 20ක් දක්වා දීර්ඝ කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම තහනම් කිරීම, හාරක සඳහා වූ කොටස් බලපත්‍රයක් හෝ හාරක කොටස් බලපත්‍රයක් නිකුත් කිරීම පිළිබඳ සමාගම වෙත දැනුම් දීම හා බලපත්‍ර දරන්නාගේ තොරතුරු සමාගම් ලේකම් වෙත පනතේ දින සිට දින 60 ක් ඇතුළත හෙළිදරව් කිරීමේ වගකීම එම බලපත්‍ර දරන්නා වෙත පැවරීම,ප්‍රතිෂ්ඨාව ලැබීමෙන් පසු සමාගමක් විසින් ප්‍රතිෂ්ඨාව ලද දින සිට දින 20ක් ඇතුළත කොටස් විභජනය කළ යුතු වීම මෙම පනතේ විධිවිධානවල ඇතුළත්  වේ.
-
-...
-
-[Data](articles/fb1514e0.json)
-
----
-
-### Four Indian fishermen arrested for poaching in Sri Lankan waters off Delft
-
-*2025-08-04 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111162/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters-off-delft-) · `en`
-
-A fishing boat has been seized while four Indian fishermen have been apprehended for poaching in Sri Lankan waters off the Delft Island, Jaffna.
-
-The Northern Naval Command deployed its Inshore Patrol Craft to seize the fishing boat after it infiltrated Sri Lankan waters, the Sri Lanka Navy said.
-
-The seized boat and the four Indian fishermen have been handed over to the Fisheries Inspector of Mailadi for onward legal proceedings, the Navy added.
-
-◼️
-
-[Data](articles/32f74812.json)
-
----
-
-### பின்னணி பாடகராக அறிமுகமாகும் நடிகர் புகழ்
-
-*2025-08-04 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221813) · `ta`
-
-சின்னத்திரை ரசிகர்களிடம் பிரபலமான நடிகரும், 'மிஸ்டர் ஜு கீப்பர்' படத்தின் மூலம் கதையின் நாயகனாகவும் உயர்ந்த நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கும் பெயரிடப்படாத திரைப்படத்தில் இடம் பெறும் பாடல் ஒன்றை பாடி பின்னாடி பாடகராகவும் அறிமுகமாகிறார்.
-
-இயக்குநர் எம் சாஜோ சுந்தர் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் நடிகர் புகழ் முதன்மையான வேடத்தில் நடிக்கிறார். லட்சுமி மூவி மேக்கர்ஸ் நிறுவனத்தின் சார்பில் தயாரிப்பாளர்கள் டொக்டர் எம். ஸ்ரீ வக்சன் மற்றும் எம்.கோகுல் கிருஷ்ணன் ஆகியோர் இணைந்து தயாரிக்கும் இந்த திரைப்படத்திற்கு சுபாஷ் முனிரத்னம் இசையமைத்துள்ளார்.
-
-இந்த படத்திற்காக பிரபல பாடலாசிரியர் கலைக்குமார் எழுதிய பாடலை சுபாஷ் முனிரத்னம் இசையில் நடிகர் புகழ்-  பின்னணி பாடகி விருஷா பாலு-  பின்னணி பாடகர் ஜெகதீஷ் குமார் ஆகியோர் இணைந்து பாடியிருக்கிறார்கள். இந்தப் பாடலைப் பாடியிருப்பதன் மூலம் நடிகர் புகழ் பாடகராகவும் அறிமுகமாகிறார். துள்ளலிசை பாணியிலான இந்தப் பாடல் சிறப்பாக வந்துள்ளதாக படக் குழுவினர் நம்பிக்கையுடன் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/a7ecb21c.json)
-
----
-
-### அர்ச்சுனா ராமநாதன் CID யில் ஆஜர்
-
-*2025-08-04 17:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனா-ராமநாதன்-CID-யில்-ஆஜர்/175-362290) · `ta`
-
-யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் அர்ச்சுனா ராமநாதன் இன்று குற்றப் புலனாய்வுத் திணைக்களத்தில் (CID) ஆஜரானார்.
-
-குற்றப் புலனாய்வுத் திணைக்கள வளாகத்திற்குள் நுழைவதற்கு முன்பு ஊடகங்களுக்கு கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் அர்ச்சுனா, இன்று வாக்குமூலம் அளிக்க அழைக்கப்பட்டதாகக் கூறினார்.
-
-மேலும் விசாரித்ததில், பேஸ்புக்கில் இட்ட ஒரு பதிவையடுத்து வாக்குமூலம் பதிவு செய்யப்படவுள்ளதாக அவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/dbc826aa.json)
 
 ---

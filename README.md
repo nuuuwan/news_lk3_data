@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 14:07:54**
+As of **2025-08-05 14:26:36**
 
 ## Newspaper Stats
 
-*Scraped **68,784** Articles*
+*Scraped **68,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,191
 islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,624
+adalk | 6,625
 adaderanalk | 8,537
-tamilmirrorlk | 10,008
+tamilmirrorlk | 10,011
 virakesarilk | 11,451
-adaderanasinhalalk | 11,846
+adaderanasinhalalk | 11,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,784 articles have been extended.
+61,973 (90.1%) of 68,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ’’தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்’’
+
+*2025-08-05 14:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவை-நீக்கும்-முடிவை-நாங்கள்-ஆதரிக்கிறோம்/175-362341) · `ta`
+
+பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பதவி நீக்கம் செய்யும் தீர்மானத்தை ஐக்கிய மக்கள் சக்தி (SJB) ஆதரிப்பதாக எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரகுமான் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"தேசபந்துவை நீக்கும் முடிவை நாங்கள் ஆதரிக்கிறோம்," என்று சபை விவாதத்தின் போது ரகுமான் கூறினார், மாலை 4 மணிக்கு திட்டமிடப்பட்ட வாக்கெடுப்புக்கு முன்னதாக அவர் கட்சியின் நிலைப்பாட்டை உறுதிப்படுத்தினார்.
+
+2002 ஆம் ஆண்டு 5 ஆம் இலக்க அதிகாரிகளை நீக்குதல் சட்டத்தின் கீழ் கொண்டுவரப்பட்ட இந்த பிரேரணை, கடுமையான தவறான நடத்தை, அதிகார துஷ்பிரயோகம் மற்றும் குற்றவியல் உடந்தையாக இருந்ததற்கான கண்டுபிடிப்புகளின் அடிப்படையில் தென்னக்கோனை பணிநீக்கம் செய்ய முயல்கிறது. அரசியலமைப்பு சபையால் நியமிக்கப்பட்ட சிறப்புக் குழு, தென்னக்கோன் பொலிஸ் திணைக்களத்தில் எந்தப் பதவியையும் வகிக்கத் தகுதியற்றவர் என்று முன்னர் முடிவு செய்திருந்தது.
+
+...
+
+[Data](articles/9aea7dfe.json)
+
+---
+
+### මෙරට සිටින ඊශ්‍රායල ජාතිකයින් ගැන ප්‍රශ්නයෙන් කැබිනෙට්ටුවත් කැලඹෙයි
+
+*2025-08-05 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213042) · `si`
+
+ඊශ්‍රායල ජාතිකයින්ට ෆී විසා ලබාදීම පිටුපස විදේශ කටයුතු අමාත්‍යාංශයේ ඉහළ පුටුවල සිටින පුද්ගලයින්ගෙන් රජයට බලපෑම් එල්ල වූ බවට මේ දිනවල පුවතක් වාර්තා වුණි.
+
+ඒ සම්බන්ධයෙන් අද (05) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසා සිටියේ, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය මැදිහත් වීමෙන් අදාළ රටවල් ලැයිස්තුව සකස් කරනු ලැබුවේ, සංචාරක පැමිණීම සහ ඔවුන් මෙරටට ගෙන එනු ලබන ඩොලර් ආදායම අනුව බවය.
+
+"කිසිම රටක් ගැන වෙන කෝණයකින් බලලා නෑ. ඔබ දැක්කොත් මේ අතර විවිධ රටවල් තියෙනවා. මේ රටවල් තෝරාගැනීමේ පදනම වුණේ අපිට ලැබෙන ඩොලර් ආදායමත් එන සංචාරකයින් ප්‍රමාණයත්. බොහොම පැහැදිලියි ඒ ලැයිස්තුවේ රටවල් සම්බන්ධයෙන්."
+
+මේ අතර ඊශ්‍රායලයෙන් පැමිණෙන ගුවන්යානාවලට ආරක්ෂාව සැපයීමට හිටපු අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ කාලවකවාණුවේ දී තීරණ ගෙන තිබූ බවත්, පසුගිය වසරේ මැයි මාසයෙන් පසුව ඊශ්‍රායල ගුවන්යානා මෙරටට නොපැමිණි බවත් සඳහන් කළ අමාත්‍යවරයා, ඇතැම් විට මේ වසරේ අග දී යළි ඊශ්‍රායල ගුවන්යානා මෙරටට පැමිණීමට ඇති ඉඩකඩ සම්බන්ධයෙන් සාකච්ඡා සිදුකරමින් පවතින බවත් පැවසීය.
+
+...
+
+[Data](articles/cc0ba55a.json)
+
+---
+
+### புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க அங்கிகாரம்
+
+*2025-08-05 13:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எல்லை-நிர்ணயக்-குழுவை-நியமிக்க-அங்கிகாரம்/175-362340) · `ta`
+
+புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க  ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (04)  அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+இதற்கான யோசனையை பொது நிர்வாக, மாகாண சபைகள் மற்றும் உள்ளுராட்சி அமைச்சர் சமர்ப்பித்தார்.
+
+பிரதேச செயலகப் பிரிவுகள் மற்றும் கிராம உத்தியோகத்தர் பிரிவுகளை நிறுவுதல் மற்றும் மீளாய்வு செய்வதற்காக 2012 ஆம் ஆண்டு எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் ஒருசில விதந்துரைகள் மாத்திரம் அமுல்படுத்துவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+பின்னர் 2021 ஆம் ஆண்டில் மீண்டும் எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் விதந்துரைகள் தொடர்பாக இதுவரைக்கும் எவ்வித நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை.
+
+...
+
+[Data](articles/42fd1fab.json)
+
+---
+
+### மசாலா மீள் ஏற்றுமதி, இறக்குமதிக்கு 4 கம்பனிகளுக்கு  அங்கீகாரம்
+
+*2025-08-05 13:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாலா-மீள்-ஏற்றுமதி-இறக்குமதிக்கு-4-கம்பனிகளுக்கு-அங்கீகாரம்/175-362339) · `ta`
+
+வடிகட்டுதல், ஒலியொரெசின் மற்றும் ஒதுக்கியவாறான மீள் ஏற்றுமதிகளுக்காக தேர்ந்தெடுக்கப்பட்ட மசாலாப் பொருட்கள் ஏற்றுமதி செய்தல் மற்றும் தயாரித்தலுக்கான நடபடிமுறைகளுக்கு 2023.12.18 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+குறித்த கருமங்களுக்காக 2024 ஆம் ஆண்டு 10ஆம் இலக்க ஏற்றுமதி மற்றும் இறக்குமதி (கட்டுப்பாட்டு) ஒழுங்குவிதிகள் வெளியிடப்பட்டுள்ளன.
+
+ஒழுங்குவிதிகளுக்கமைய தேர்ந்தெடுக்கப்பட்ட மசாலாப் பொருட்கள் இறக்குமதி செய்தல் மற்றும் பதனிடல் தொழில்முயற்சிகள் சில தற்போதும் இலங்கை முதலீட்டுச் சபையுடன் துணை ஒப்பந்தமொன்றில் கையொப்பமிட்டுள்ளன.
+
+...
+
+[Data](articles/b9c84bd7.json)
+
+---
 
 ### ළමා ආරක්ෂක අධිකාරි පනත සංශෝධනයට කැබිනට් අනුමැතිය
 
@@ -491,6 +559,20 @@ The trade deal set tariffs on exports from the Asian country at 15%, still highe
 ◼️
 
 [Data](articles/99da8e67.json)
+
+---
+
+### පල්ලවංක කුලම ගවේෂණ කටයුතු අරඹයි
+
+*2025-08-05 11:00:07* · [`adalk`](https://www.ada.lk/uncategorized/පල්ලවංක-කුලම-ගවේෂණ-කටයුතු-අරඹයි/1-417729) · `si`
+
+පැරණි මානව ජනාවාසකරණය පිළිබඳ මෙතෙක් ගවේෂණය නොවූ අද්විතීය පුරාවිද්‍යා ස්ථානයක් ලෙස සැලකෙන ත්‍රිකුණාමලය පුරාවිද්‍යා කලාප අංක එකට අයත් රිදී කන්ද පුරාවිද්‍යා කලාපයේ කුච්චවේලි ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ පිහිටි පල්ලවංක කුලම ඉපැරණි ජනාවාස සහිත පැරැණි වරායේ ගවේෂණ කටයුතු ආරම්භ කළ බව පුරාවිද්‍යා දෙපාර්තමේන්තුව කියයි .
+
+පුරාවිද්‍යා රක්ෂිතයක් ලෙස ගැසට් කිරීම මගින් ප්‍රකාශයට පත් කිරීමට හඳුනාගෙන ඇති මෙම යෝජිත වපසරිය තුළ පූර්ව ඓතිහාසික යුගයට අයත් බවට සැලකෙන (ක්‍රිස්තු පූර්ව දහස හා ක්‍රිස්තු පූර්ව හය වන සියවස දක්වා) වලං කැබලි, මැටි හා ඛනීජ වලින් සාදන ලද පබලු, යබොර (යකඩ) මෙහි දක්නට ඇති බව පුරාවිද්‍යා දෙපාර්තමේන්තුවේ ත්‍රිකුණාමල දිස්ත්‍රික් සහකාර අධ්‍යක්ෂ ඩබ්.යූ. සුරංග පෙරේරා මහතා පැවසීය .
+
+...
+
+[Data](articles/1aa229a4.json)
 
 ---
 
@@ -1689,85 +1771,5 @@ Becoming Sri Lanka’s Most Valuable Brand is a result of far more than revenue 
 ...
 
 [Data](articles/1b870ee3.json)
-
----
-
-### ASPI hits record 20,000 points but profit-takings emerge latterly
-
-*2025-08-04 23:14:00* · [`islandlk`](http://island.lk/aspi-hits-record-20000-points-but-profit-takings-emerge-latterly/) · `en`
-
-CSE recorded a positive market trend for the 11th consecutive day yesterday and the All Share Price Index topped 20,000 points, rising 99 points in early trading. Subsequently heavy profit- takings were noted which pushed the market to a negative mood, market analysts said.
-
-Turnover stood at Rs 4.52 billion with 11 crossings. Those crossings were reported in JKH, whose share price traded at Rs 24.70, CT Lands one million shares crossed to the tune of Rs 33 million; its shares traded at Rs 33, Ceylon Cold Stores 200,000 shares crossed for Rs 22.4 million; its shares traded at Rs 112, Royal Ceramic 500,000 shares crossed for Rs 22 million; its shares traded at Rs 44, Commercial Bank 120,000 shares crossed for Rs 21 million; its shares traded at Rs 174.75 and HNB 55000 shares crossed for Rs 20.6 million; its shares fetched Rs 374.
-
-...
-
-[Data](articles/7a05b454.json)
-
----
-
-### Aligning private capital with public purpose: The role of banks in driving a true Sri Lankan revival
-
-*2025-08-04 23:10:00* · [`islandlk`](http://island.lk/aligning-private-capital-with-public-purpose-the-role-of-banks-in-driving-a-true-sri-lankan-revival/) · `en`
-
-Sri Lanka stands at crossroads. After five years of multiple crises and many hardfought reforms, our economy made its first tentative steps back to growth in 2025. Following successive contractions, GDP growth has reached a commendable 4.8 percent in 1Q25.
-
-Deflation early in the year offered consumers welcome relief, while an 800basispoint policyrate reduction since 2023 has reignited private credit growth. This monetary easing is expected to nudge inflation back into positive territory—an outcome that, if kept moderate, will support business investment and planning and underpin sustainable economic expansion.
-
-The steady resumption of infrastructure spending, robust remittance inflows and prudent management of foreignexchange reserves have quietly restored confidence that a genuine revival is within reach.
-
-...
-
-[Data](articles/6d7a9f24.json)
-
----
-
-### HUTCH engages Esala Perahera 2025 with cared community-focused services
-
-*2025-08-04 23:10:00* · [`islandlk`](http://island.lk/hutch-engages-esala-perahera-2025-with-cared-community-focused-services/) · `en`
-
-In celebration of one of Sri Lanka’s most revered cultural festivals, the Esala Perahera Mangalyaya in Kandy, HUTCH is proud to step forward once again in service of tradition, community, and connectivity. Beginning July 30th and continuing throughout the Perahera season, HUTCH will roll out a series of community-focused initiatives to support the thousands of pilgrims and families who come together to experience this sacred cultural celebration.
-
-...
-
-[Data](articles/d1deb8f1.json)
-
----
-
-### லிந்துலையில் குளத்திலிருந்து இளைஞனின் சடலம் மீட்பு
-
-*2025-08-04 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/221828) · `ta`
-
-லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட லோகி தோட்டத்தின் குளத்தில் இருந்து இளைஞன் ஒருவனின் சடலம் சற்று முன் மீட்கப்பட்டுள்ளது. உடப்புசலாவ பகுதியில் இருந்து வேலைக்காக தலவாக்கலைக்கு வந்த இளைஞனின் சடலமே மீட்கப்பட்டுள்ளது.
-
-குறித்த இளைஞன் குளிப்பதற்காக தனது நண்பனுடன் லிந்துலை - லோகி தோட்ட குலத்திற்கு திங்கட்கிழமை (04) மாலை சென்றுள்ளான். அதன் போது தவறி விழுந்ததன் காரணமாக இளைஞன் சடலமாக மீட்கப்பட்டுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
-
-இளைஞன் லிந்துலை பெல்கிரேவியா தோட்டத்தில் தனது உறவினர் வீடு ஒன்றில் தங்கியிருந்து தொழிலுக்கு சென்று வந்துள்ளதாகவும் இன்று மாலை தனது நண்பருடன் குளிக்க சென்ற போது இச்சம்பவம் நிகழ்ந்துள்ளதாக ஆரம்ப கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளதாக லிந்துலை பொலிசார் தெரிவித்தனர். அதனைத் தொடர்ந்து சடலம் மீட்கப்பட்டு கரை ஒதுக்கி வைக்கப்பட்டுள்ளது.
-
-மாவட்ட நீதவான் வருகை தந்து விசாரணைகளை முன்னெடுத்ததன் பிறகு பிரேத பரிசோதனைகளுக்காக சடலம் நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்லப்படும் என பொலிசார் தெரிவித்தனர் . சம்பவம் தொடர்பான மேலதிக விசாரணைகளை லிந்துலை போலீசார் முன்னெடுத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/2114afb8.json)
-
----
-
-### ගැබ්බර මුවදෙනක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය - පොලීසියෙන් පැහැදිලි කිරීමක්
-
-*2025-08-04 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213022) · `si`
-
-ගලේවෙල මකුළුගස්වැව, හීනුගල රක්ෂිතයේ ගැබ්බර මුවදෙනකු ඝාතනය කළ සිද්ධිය සම්බන්ධයෙන් පොලීසිය විසින් පැහැදිලි කිරීමක් සිදුකර තිබේ.
-
-පසුගිය 25 වන දින අළුයම් කාලයේදී මකුළුගස්වැව පොලිස් වසමේ වැටකොළුවැව ප්‍රදේශයේදී තිත් මුවෙකු වෙඩි තබා මරණයට පත් කිරීම සම්බන්ධව ගම්වාසීන් විසින් පුද්ගලයින් තිදෙනෙකු අල්ලාගෙන සිටින බවට මකුළුගස්වැව පොලිස් ස්ථානයට ලද පණිවිඩයකට අනුව නිලධාරීන් කණ්ඩායමක් විමර්ශන ආරම්භ කරන ලදි.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කර සැකකරුවන් සිව් දෙනෙකු අත්අඩංගුවට ගෙන ජුලි 26 වන දින දඹුල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු අගෝස්තු 01 දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලදි.
-
-අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් දෙදෙනෙකු ගිරානේගම පොලිස් ස්ථානයට හා මඩාටුගම පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී යෙදී සිටි පොලිස් සැරයන්වරු දෙදෙනෙකි.
-
-අධිකරණය මඟින් මෙම සැකකරුවන් දෙදෙනා රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප හා රුපියල් 5,000/- බැගින් වූ මුදල් ඇප මත මුදා හැර ඇති අතර 2025.12.05 වන දින නඩුව නැවත කැඳවීමට නියමිතව ඇති බව පොලීසිය පවසයි.
-
-...
-
-[Data](articles/5bb5a0cb.json)
 
 ---

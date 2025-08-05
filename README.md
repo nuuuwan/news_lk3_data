@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 15:11:25**
+As of **2025-08-05 15:26:15**
 
 ## Newspaper Stats
 
-*Scraped **68,796** Articles*
+*Scraped **68,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,625
-adaderanalk | 8,537
-tamilmirrorlk | 10,012
-virakesarilk | 11,451
+adaderanalk | 8,541
+tamilmirrorlk | 10,013
+virakesarilk | 11,461
 adaderanasinhalalk | 11,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,796 articles have been extended.
+61,973 (90.1%) of 68,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ரஷ்யாவின் பெட்ரோபாவ்லோவ்ஸ்க் பகுதியில் மீண்டும் பூகம்பம்
+
+*2025-08-05 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221878) · `ta`
+
+ரஷ்யாவின் பெட்ரோபாவ்லோவ்ஸ்க் - கம்சாட்ஸ்கி  5.1 ரிச்டர் அளவில் மீண்டும் பூகம்பம் ஏற்பட்டதாக அமெரிக்க புவியியல் ஆய்வு மையம் (USGS) தெரிவித்துள்ளது.
+
+இந்த பூகம்பம் அந்நாட்டு நேரப்படி காலை 07.17 மணிக்கும் பதிவாகியுள்ளது. அதன் மையப்பகுதி கம்சாட்ஸ்கி பகுதியிலிருந்து தென்கிழக்கே 144 கிலோ மீற்றர் தொலைவில் 25 கிலோ மீற்றர் ஆழத்தில் நிலைக்கொண்டுள்ளது.
+
+கடந்த புதன்கிழமை (29) ரஷ்யாவின் கம்சட்கா தீபகற்பத்திற்கு அருகில் 8.8 ரிச்டர் அளவில் பூகம்பம்  பதிவானது.
+
+பசுபிக் தகடு ஓகோட்ஸ்க் தகடுக்கு அடியில் சரியும் பாரிய துணை மண்டலத்தில் டெக்டோனிக் தகடு நகர்ந்தமையினால் இந்த பூகம்பம் ஏற்பட்டுள்ளது.
+
+இந்த மண்டலம் பசிபிக் எரிமலை வளையத்தின் ஒரு முக்கியப் பகுதியாகும்.  பூகம்பங்கள் மற்றும் எரிமலைச் செயல்பாடுகளுக்கு ஒரு மையமாக உள்ளது.
+
+8.8 ரிச்டர் அளவிலான பூகம்பத்தின் போது கடற்பரப்பின் செங்குத்தான இடம்பெயர்ந்ததால் சுனாமி அலை தாக்கியது. இதனால், ரஷ்யா, ஜப்பான் மற்றும் அமெரிக்கா உள்ளிட்ட பல பசிபிக் நாடுகளில் சுனாமி எச்சரிக்கைகளை ஏற்படுத்தியது.
+
+...
+
+[Data](articles/69b45b5c.json)
+
+---
+
+### ’’யவ்ம்-இ-இஸ்தெஹ்சால்’’  தினம் நினைவூட்டல்
+
+*2025-08-05 14:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யவ்ம்-இ-இஸ்தெஹ்சால்-தினம்-நினைவூட்டல்/175-362345) · `ta`
+
+இந்திய சட்டவிரோத ஆக்கிரமிப்பு ஜம்மு மற்றும் காஷ்மீரில் ஆகஸ்ட் 5, 2019ல் இந்தியா மேற்கொண்ட சட்டவிரோத மற்றும் ஒரு தலைப்பட்ச நடவடிக்கைகளை நினைவூட்டும் வகையில் "யவ்ம்-இ-இஸ்தெஹ்சால்" தினம் பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் செவ்வாய்கிழமை (05) அன்று அனுஷ்டிக்கப்பட்டது.
+
+முக்கியப் பேச்சாளர்கள் காஷ்மீரிகளின் அவல நிலையைப் சுட்டிக் காட்டியதோடு இந்த சர்ச்சையானது ஐ.நா பாதுகாப்பு கவுன்சிலின் நிகழ்ச்சி நிரலில் உள்ள பழமையான விஷயங்களில் ஒன்று என்றும் அவர்கள் தெரிவித்தனர்.
+
+துரதிர்ஷ்டவசமாக, இந்தியா தனது உறுதி மொழிகளை மதிக்க மறுப்பதாலும், அடிப்படை மனித உரிமைகள் மற்றும் சர்வதேச சட்டங்களை மதிக்காததாலும் இந்த சர்ச்சை இன்னும் தீர்க்கப்படாமல் உள்ளது.
+
+மனிதாபிமான மற்ற இராணுவ முற்றுகை, தகவல் தொடர்பு முற்றுகை, சுற்றி வளைப்பு மற்றும் தேடுதல் நடவடிக்கைகள், போலி என் கவுன்டர்கள் மூலம் அப்பாவி காஷ்மீரிகள் மீதான அடக்கு முறை மற்றும் மிருகத்தனமான தாக்குதலை உயர்ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வுநிலை) ஃபஹீம்உல்அஸீஸ் தனது உரையில் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/b6589925.json)
+
+---
+
+### மேல் நிலை அதிகாரிகளால் பழிவாங்கப்படும் மனைவியான கிராம அலுவலர் ; நீதியை பெற்று தருமாறு கணவன் கோரிக்கை!
+
+*2025-08-05 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221871) · `ta`
+
+கிராம அலுவலராக கடமையாற்றி வரும் தனது மனைவி பழிவாங்கப்பட்டு கட்டாய பணியிடம் மாற்றப்பட்ட நிலையில் குறித்த பணியிட மாற்றமானது நீதி அற்ற நியாயமற்ற முறையில் வழங்கப்பட்டுள்ளதாக கிராம அலுவலரின் கணவரான செல்வரத்தினம் கிருஸ்ணரூபன் தெரிவித்துள்ளார்.
+
+கடந்த 2017ஆம் ஆண்டு வழங்கப்பட்ட வரட்சி நிவாரண தெரிவு பட்டியிலில் இடம்பெற்ற முறைகேடான தெரிவு எனும் அடிப்படையிலேயே குறித்த பணியிட மாற்றம் வழங்கப்பட்டுள்ளதாகவும் , தனது மனைவியான கிராம அலுவலர் சுற்றுநிருப விதி முறைகளுக்கு அமைவாகவே குறித்த தெரிவு பட்டியலை வழங்கியுள்ளார் என்றும் ஆனால் ஒருசில அதிகாரிகளை  திருப்தி படுத்துவதற்காக  தனது மனைவிக்கு கட்டாய பணியிட மாற்றம் வழங்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+முல்லைத்தீவு மாவட்டம் துணுக்காய் பிரதேச செயலக பிரிவுக்குற்பட்ட ஆலங்குளம் கிராம சேவகராக கடமையாற்றி வந்த கிராம அலுவலரே இவ்வாறு மாற்றப்பட்டுள்ளதாகவும் குறித்த சம்பவம் கடந்த 2019ல் இடம்பெற்றுள்ளதாகவும் அவரது கணவரான செல்வரத்தினம் கிருஸ்ணரூபன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e63cb0a0.json)
+
+---
 
 ### Sri Lanka to resume Narahenpita, Torrington housing projects
 
@@ -51,6 +107,24 @@ The two housing projects which were commenced under the urban revitalization pro
 ◼️
 
 [Data](articles/6e07dfb1.json)
+
+---
+
+### 3,500க்கும் மேற்பட்ட முப்படை வீரர்கள் கைது - பாதுகாப்பு அமைச்சு
+
+*2025-08-05 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/221877) · `ta`
+
+கடந்த பெப்ரவரி மாதம் 22 முதல் ஆகஸ்ட் 3 வரை மேற்கொள்ளப்பட்ட நடவடிக்கைகளில், சட்டவிரோதமாக சேவையை விட்டு வெளியேறிய 3,504 முப்படை வீரர்கள் கைது செய்யப்பட்டதாக இலங்கை பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்டவர்களில் 2,937 இராணுவ வீரர்கள், 289 கடற்படை வீரர்கள், மற்றும் 278 விமானப்படை வீரர்கள் உள்ளடங்குவதாக அமைச்சு குறிப்பிட்டுள்ளது.
+
+2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 20 ஆம் திகதி முதல் மே மாதம் 20 ஆம் திகதி வரை அறிவிக்கப்பட்ட பொது மன்னிப்பு காலத்தில் சரணடையாத முப்படை வீரர்களைக் கைது செய்ய, பாதுகாப்பு அமைச்சின் உத்தரவின் பேரில் 2025ஆம் ஆண்டு பெப்ரவரி மாதம் 22ஆம் திகதி முதல் விசேட நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+கைது செய்யப்பட்ட வீரர்கள் தொடர்பாக மேலதிக விசாரணைகள் நடைபெற்று வருவதாகவும், இவர்களுக்கு எதிராக சட்டரீதியான நடவடிக்கைகள் மேற்கொள்ளப்படும் என்றும் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/dcb6f97e.json)
 
 ---
 
@@ -124,6 +198,60 @@ The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is locate
 
 ---
 
+### மன்னாரில் 2 ஆம் கட்ட காற்றாலை மின் திட்டம் தொடர்பாக 7ஆம் திகதி விசேட கலந்துரையாடல் : ஜனாதிபதி பங்கேற்கும் சந்தர்ப்பம் - அடைக்கலநாதன்
+
+*2025-08-05 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/221875) · `ta`
+
+மன்னாரில் இரண்டாம் கட்ட காற்றாலை மின் உற்பத்தி வேலைத்திட்டம் தொடர்பில் எதிர்வரும் வியாழக்கிழமை (7) பாராளுமன்ற வளாகத்தில் அமைச்சர்கள் தலைமையில் விசேட கலந்துரையாடல் ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர்  செல்வம் அடைக்கலநாதன்  தெரிவித்துள்ளார்.
+
+செவ்வாய்க்கிழமை (5) பாராளுமன்ற அமர்வின் போது அமைச்சர் விமல் ரத்நாயக்க விடம் கேள்வி ஒன்றை எழுப்பி இருந்தேன்.காற்றாலை மின் கோபுரங்கள் அமைப்பது குறித்து மன்னார் மாவட்டத்தில் தற்போது போராட்டங்கள் முன்னெடுக்கப்பட்டு வருகின்றது.
+
+எனவே மன்னாரில் முன்னெடுக்கப்பட்டு வரும் காற்றாலை மின் உற்பத்தி தொடர்பாக விசேட கலந்துரையாடல் ஒன்றை நடாத்துவதற்கும் ஜனாதிபதியை சந்தித்து குறித்த விடயம் தொடர்பாக கலந்துரையாட வாய்ப்பை ஏற்படுத்தி தருமாறு அவரிடம் கோரி இருந்தேன்.
+
+என்னுடன் பாராளுமன்ற உறுப்பினர் காதர் மஸ்தான் ,பிரதி அமைச்சர் உபாலி சமரசிங்க அவர்களும் இணைந்து இதற்கு பொறுப்பான அமைச்சரை சந்தித்து உரையாடினோம்.
+
+...
+
+[Data](articles/3172c4fd.json)
+
+---
+
+### US DOJ to open grand jury to investigate Obama officials, source says
+
+*2025-08-05 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111195/us-doj-to-open-grand-jury-to-investigate-obama-officials-source-says) · `en`
+
+U.S. Attorney General Pam Bondi has directed federal prosecutors to launch a grand jury investigation into allegations that members of Democratic former President Barack Obama’s administration manufactured intelligence on Russia’s interference in the 2016 elections, a source familiar with the matter said on Monday.
+
+The Justice Department said late last month it was forming a strike force to assess claims made by Director of National Intelligence Tulsi Gabbard about “alleged weaponization of the U.S. intelligence community.”
+
+Republican U.S. President Donald Trump has leaped on comments from Gabbard in which she threatened to refer Obama administration officials to the Justice Department for prosecution over an intelligence assessment of Russian interference.
+
+...
+
+[Data](articles/b9c691fd.json)
+
+---
+
+### மன்னாரில் காற்றாலை கோபுரங்களுக்கு எதிர்ப்பு :  இரண்டாவது நாளாக தொடரும் கடையடைப்பு போராட்டம்
+
+*2025-08-05 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/221874) · `ta`
+
+மன்னார் தீவுப் பகுதியில் புதிதாக நிறுவப்படவுள்ள இரண்டாம் கட்ட காற்றாலை மின் உற்பத்தி கோபுரங்களுக்கு எதிர்ப்பு தெரிவித்து, இன்று செவ்வாய்க்கிழமை (05) இரண்டாவது நாளாக முழு கடையடைப்பு போராட்டம் முன்னெடுக்கப்பட்டு வருகிறது.
+
+மன்னார் - மதவாச்சி பிரதான வீதியூடாக காற்றாலை கோபுரங்களுக்கான பொருட்களை மன்னார் நகருக்குள் கொண்டு வருவதற்கும், இரண்டாம் கட்ட காற்றாலை திட்டங்களை மன்னாரில்  நிறுவுவதற்கும் எதிர்ப்பு தெரிவித்தே இந்தப் போராட்டம் நடைபெற்று வருகிறது.
+
+இந்தத் திட்டங்களால் சுற்றுச்சூழல் பாதிக்கப்படும் எனவும், மக்களின் வாழ்வாதாரம் பாதிக்கப்படும் எனவும் மக்கள் அச்சம் தெரிவிக்கின்றனர்.
+
+மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை மாக்கஸ் அடிகளாரின் தலைமையில் இந்த அமைதியான போராட்டம் முன்னெடுக்கப்பட்டு வருகிறது.
+
+இந்தப் போராட்டத்திற்கு ஆதரவு தெரிவித்து, மன்னார் நகரில் உள்ள ஒரு சில உணவகங்களைத் தவிர அனைத்து வர்த்தக நிலையங்களும் மூடப்பட்டுள்ளன. மீனவர்களும் கடலுக்குச் செல்லாமல் இந்தப் போராட்டத்திற்கு ஆதரவு அளித்து வருகின்றனர்.
+
+...
+
+[Data](articles/f60acb44.json)
+
+---
+
 ### புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க அங்கிகாரம்
 
 *2025-08-05 13:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எல்லை-நிர்ணயக்-குழுவை-நியமிக்க-அங்கிகாரம்/175-362340) · `ta`
@@ -139,6 +267,46 @@ The land measuring 9 acres, 2 roods, and 31.75 perches (3.92 hectares) is locate
 ...
 
 [Data](articles/42fd1fab.json)
+
+---
+
+### 703 individuals arrested during special island-wide police raids
+
+*2025-08-05 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111194/703-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 703 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (04).
+
+As part of the operation, 23,321 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 22 individuals directly linked to criminal activities while 389 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 97 drunk drivers were apprehended while a further 18 reckless drivers and 3,314 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/4477676f.json)
+
+---
+
+### PUCSL conducts public hearing into nationwide power outage
+
+*2025-08-05 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111193/pucsl-conducts-public-hearing-into-nationwide-power-outage) · `en`
+
+The public hearing conducted by the Public Utilities Commission of Sri Lanka (PUCSL) regarding the nationwide power outage that occurred on February 9, 2025, commenced this morning (05).
+
+Senior officials, including the Acting General Manager of the Ceylon Electricity Board recorded statements during the hearing, which is being held at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo.
+
+An island-wide power outage occurred on February 9 due to an issue in the transmission system at the Panadura Grid Substation of the CEB.
+
+At the time, the Minister of Power and Energy, Eng. Kumara Jayakody stated that the outage was caused by a monkey falling onto the power lines at the Panadura grid substation. This statement received wide coverage through both local and international media.
+
+However, the PUCSL decided to recommence investigation after expressing dissatisfaction with the reports submitted by the Electricity Board.
+
+...
+
+[Data](articles/f697ef50.json)
 
 ---
 
@@ -218,6 +386,26 @@ The visit aims to further strengthen bilateral cooperation and explore opportuni
 
 ---
 
+### இலங்கையில் நிலத்துக்கீழ் தான் பல உண்மைகள் புதைக்கப்பட்டுள்ளன – செம்மணி அகழ்விடம் குறித்து எம்.ஏ. சுமந்திரன் கருத்து!
+
+*2025-08-05 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221867) · `ta`
+
+இலங்கையிலே நிலத்திற்கு கீழ் தான் உண்மைகள் பலவும் புதைக்கப்பட்டு இருக்கின்றன என ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம் செம்மணி மனிதப் புதைகுழியில் அகழ்வு இடம்பெறுவதை திங்கட்கிழமை (04) நேரில் சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+செம்மணி மனிதப் புதைகுழி ஆய்வு நடைபெறுகிற இடத்திலே ஸ்கேனர் கருவி இன்றைக்கு பாவிக்கப்பட்டிருக்கிறது. அதனை பாவிப்பதன் மூலமாக நிலத்திற்கு அடியிலே ஏதாவது அசாதாரணமான விடயங்கள் காணப்பட்டால் அல்லது அசைவுகள் இருந்தால் இந்த இயந்திரம் அதனை வெளிக்கொண்டு வரும் எனச் சொல்கிறார்கள்.
+
+இந்த மனிதப் புதைகுழியில் இப்பொழுது 130 இற்கும் மேற்பட்ட எலும்புத் தொகுதிகள் கண்டெடுக்கப்பட்டு இருக்கின்றன. இவ்வாறு ஒவ்வொருநாளும் இங்கு எலும்புக் கூடுகள் கண்டெடுக்கப்படுகின்றன.
+
+இதனுடைய பின்னணியை நாங்கள் பார்ப்போமாக இருந்தால் 1999 ஆம் ஆண்டு சோமரட்ன ராஜபக்ஷ நீதிமன்றத்தில் சொன்ன கூற்றின் பிரகாரம் அக்கால பகுதியில் 15 எலும்புக் கூட்டுத் தொகுதிகள் கண்டெடுக்கப்பட்டன.
+
+...
+
+[Data](articles/ce3c84be.json)
+
+---
+
 ### නව සීමා නිර්ණ කමිටුවක් පත්කිරීමේ යෝජනාවට කැබිනට් අනුමැතිය
 
 *2025-08-05 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213039) · `si`
@@ -233,6 +421,22 @@ The visit aims to further strengthen bilateral cooperation and explore opportuni
 ◼️
 
 [Data](articles/69fad74e.json)
+
+---
+
+### Cabinet approves proposal to appoint new Delimitation Committee
+
+*2025-08-05 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111191/cabinet-approves-proposal-to-appoint-new-delimitation-committee) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to appoint a new delimitation committee to review the recommendations made by the committees appointed in 2012 and 2021 and to provide further recommendations.
+
+A delimitation committee was appointed in 2012 to establish and revise Divisional Secretariat divisions and Grama Niladhari divisions in the country, and steps have been taken to implement only some of the recommendations made by the said committee.
+
+Subsequently, another delimitation committee was appointed in 2021. However, according to the statement issued by the Government Information Department, no action has been taken thus far regarding the recommendations of the committee.
+
+...
+
+[Data](articles/152fc8d1.json)
 
 ---
 
@@ -309,6 +513,38 @@ The Cabinet paper in this regard has been presented by the Minister of Public Se
 ...
 
 [Data](articles/c1312d2c.json)
+
+---
+
+### இலங்கை சட்டக் கல்லூரி மாணவர்களுக்கு சட்டவாக்க நடைமுறையிலான விழிப்புணர்வு நிகழ்ச்சி!
+
+*2025-08-05 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221862) · `ta`
+
+இலங்கை சட்டக் கல்லூரி ‘சட்ட மாணவர்களின் மனித உரிமைகள் இயக்க’ பயிலுனர்களுக்கு பாராளுமன்றத்தின் சட்டவாக்க நடைமுறை தொடர்பில் விழிப்புணர்வூட்டும் நிகழ்ச்சி  திங்கட்கிழமை (04) பாராளுமன்றத்தில் இடம்பெற்றது.
+
+பாராளுமன்ற தொடர்பாடல் திணைக்களத்தின் பொதுமக்கள் சேவைகள் பிரிவினால் இந்த நிகழ்ச்சி ஏற்பாடு செய்யப்பட்டிருந்ததுடன், இதில் பிரதான உரையை பாராளுமன்ற சட்டவாக்க சேவைகள் திணைக்களத்தின் பணிப்பாளரும் தொடர்பாடல் திணைக்களத்தின் பதில் பணிப்பாளருமான எம். ஜயலத் பெரேரா 'பாராளுமன்றத்தில் சட்டவாக்க செயன்முறை' எனும் தலைப்பில்  நிகழ்தினார்.
+
+அதனையடுத்து கேள்வி, பதில் அமர்வு இடம்பெற்றதுடன், இதில் பாராளுமன்ற உதவிச் செயலாளர் நாயகம் ஹன்ஸ அபேரத்ன, பாராளுமன்ற சபை ஆவண அலுவலகத்தின் உதவிப் பணிப்பாளர் காஞ்சன ஹேரத் மற்றும் பாராளுமன்ற சட்டமூல அலுவலகத்தின் உதவிப் பணிப்பாளர் சாந்த பர்னாந்து ஆகியோரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/c1258314.json)
+
+---
+
+### தெவிநுவர பெரஹராவில் பாகனை தாக்கியது யானை
+
+*2025-08-05 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/221864) · `ta`
+
+தெவிநுவர எசல பெரஹரா ஊர்வலத்தில் திடீரென யானை குழப்பமடைந்து பாகனை தாக்கியதால் பதற்றமான சூழ்நிலை நேற்று திங்கட்கிழமை (04) இரவு ஏற்பட்டுள்ளது.
+
+யானை திடீரென குழப்பமடைந்து பாகனை தாக்கிவிட்டு செல்கிறது. குழப்பமடைந்த யானையை ஏனைய பாகன்கள் அமைதிப்படுத்தி நிலைமையை கட்டுப்படுத்த முயற்சிக்கின்றன.
+
+அத்துடன்,  பெரஹராவைப் பார்வையிட நடைபாதைகளில் அமர்ந்திருந்த பொதுமக்கள் பீதியடைந்து பாதுகாப்பான இடங்களுக்கு ஓடிச் செல்லும் காட்சியும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/1b8a6b03.json)
 
 ---
 
@@ -464,6 +700,22 @@ The vertical displacement of the seafloor during the 8.7-magnitude quake trigger
 
 ---
 
+### கற்பிட்டியில் சட்டவிரோதமாக கொண்டுவரப்பட்ட மருந்துகள்,தடுப்பூசிகள் கைப்பற்றல்!
+
+*2025-08-05 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/221852) · `ta`
+
+சட்டவிரோதமாக நாட்டுக்கு கொண்டுவரப்பட்ட மருந்துகள் மற்றும் தடுப்பூசிகள் கற்பிட்டி பொலிஸாரால் நேற்று திங்கட்கிழமை (4) கைப்பற்றப்பட்டுள்ளன.
+
+கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி லக்ஷ்மன் ரங்வல ஆராச்சிக்கு கிடைத்த தகவலின் அடிப்படையில் புத்தளம் - கற்பிட்டி, குலியமுனை தீவில் உள்ள குடிசை ஒன்றில் மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போதே இந்த பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+இந்தியாவில் தயாரிக்கப்பட்ட இரண்டு ஆண்டுகள் காலத்திற்கு செல்லுபடியாகும் அதிக பெறுமதியான மருந்துகள் மற்றும் தடுப்பூசிகள் அடங்கிய 16 பொதிகளே இந்த குடிசையில் இருந்து கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0351e370.json)
+
+---
+
 ### Keerthibandarapura Traffic OIC arrested for soliciting bribe
 
 *2025-08-05 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111184/keerthibandarapura-traffic-oic-arrested-for-soliciting-bribe-) · `en`
@@ -583,6 +835,22 @@ The arrested officer is scheduled to be presented before the Walapane Magistrate
 ...
 
 [Data](articles/95b9e61e.json)
+
+---
+
+### காசாவை முழுமையாக கைப்பற்றுமாறு பெஞ்சமின் நெட்டன்யாகு இஸ்ரேலிய படையினருக்கு உத்தரவிடவுள்ளார் - சிஎன்என்
+
+*2025-08-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221853) · `ta`
+
+காசாவை முழுமையாக கைப்பற்றுமாறு இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு தனது படையினருக்கு உத்தரவிடவுள்ளார் என சிஎன்என் தெரிவித்துள்ளது.
+
+இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு இராணுவநடவடிக்கைகளை விரிவுபடுத்துவது குறித்து தீவிர ஆர்வத்துடன் உள்ளதாலும்,பேச்சுவார்த்தைகளிற்கு முன்னர் மனிதாபிமான நெருக்கடிக்கு தீர்வை காணவேண்டும் என ஹமாஸ்  வேண்டுகோள் விடுத்துவருவதாலும்,காசாவில் யுத்த நிறுத்தம் குறித்த பேச்சுவார்த்தைகள் முட்டுகட்டைநிலைக்குள் சிக்குண்டுள்ளன.
+
+இன்று செவ்வாய்கிழமை இடம்பெறவுள்ள பாதுகாப்பு அமைச்சரவையின் கூட்டத்தில் இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு காசாவை முழுமையாக கைப்பற்றுமாறு உத்தரவிடுவார் என இந்த விடயம் குறித்து நன்கறிந்த தரப்புகள் தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/34c1b16a.json)
 
 ---
 
@@ -1557,237 +1825,5 @@ From modest beginnings to becoming one of Sri Lanka’s top five tea exporters, 
 ...
 
 [Data](articles/6694f2df.json)
-
----
-
-### AliExpress, Temu e-commerce tax dispute resolved, officials tell CoPF
-
-*2025-08-05 03:30:48* · [`dailyftlk`](https://www.ft.lk/business/AliExpress-Temu-e-commerce-tax-dispute-resolved-officials-tell-CoPF/34-779921) · `en`
-
-The Committee on Public Finance (CoPF) has been informed that the recent issues surrounding the taxation of e-commerce goods have now been resolved. Officials told the committee that operations are proceeding without disruptions following earlier delays caused by the reintroduction of Harmonised System (HS) code-based taxation, according to a statement from the Parliament’s Department of Communication yesterday.
-
-Previously, Sri Lanka Customs cleared low-value imports from platforms such as AliExpress and Temu based on weight. However, a policy shift to charge taxes based on HS codes resulted in a bottleneck at Customs and disrupted service flows. AliExpress subsequently withdrew its low-cost shipping options to Sri Lanka, citing unclear tax rules and regulatory unpredictability.
-
-...
-
-[Data](articles/6bf5ee81.json)
-
----
-
-### Alumex advances trade compliance and global supply chain excellence with AEO Tier I certification
-
-*2025-08-05 03:30:19* · [`dailyftlk`](https://www.ft.lk/business/Alumex-advances-trade-compliance-and-global-supply-chain-excellence-with-AEO-Tier-I-certification/34-779920) · `en`
-
-Alumex Managing Director Pramuk Dediwela (left) receives the AEO Tier I Certification from a senior official of Sri Lanka Customs
-
-Alumex PLC, an aluminium extrusion manufacturer and member of the Hayleys Group has earned the ‘Authorised Economic Operator (AEO) Tier I’ certification from Sri Lanka Customs, placing Alumex among a select group of importers and exporters who uphold the highest standards in Customs procedures and trade integrity, the company said in a statement.
-
-The certification follows a rigorous validation by Sri Lanka Customs, affirming Alumex’s full compliance with all legal, operational, and security benchmarks.
-
-...
-
-[Data](articles/ec87402d.json)
-
----
-
-### Swisstek Aluminium pledges to deliver  Sri Lanka’s most reliable solar mounting systems
-
-*2025-08-05 03:28:57* · [`dailyftlk`](https://www.ft.lk/business/Swisstek-Aluminium-pledges-to-deliver-Sri-Lanka-s-most-reliable-solar-mounting-systems/34-779919) · `en`
-
-Solar mounting systems by Swisstek Aluminium designed to securely hold solar panels
-
-Swisstek Aluminium pledges to assist Sri Lanka in turning its renewable energy goals for 2030 into reality with its cutting-edge solar mounting systems. As the country aims to create a clean energy future, Swisstek Aluminium provides solutions with modular, prefabricated mounting systems engineered to withstand the island’s challenging weather conditions, from coastal humidity to high wind zones, the company said in a statement.
-
-...
-
-[Data](articles/2db6253e.json)
-
----
-
-### குளத்திலிருந்து இளைஞன் சடலமாக மீட்பு
-
-*2025-08-05 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளத்திலிருந்து-இளைஞன்-சடலமாக-மீட்பு/175-362312) · `ta`
-
-உடபுஸ்ஸலாவ பகுதியில் இருந்து தொழிலுக்காக தலவாக்கலை நகருக்கு வந்திருந்த இளைஞன் ஒருவன் நேற்று (04) லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட லோகி தோட்டத்தின் குளத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
-
-குறித்த இளைஞன் தனது நண்பருடன் குளிப்பதற்காக அங்கு சென்ற சமயம் குளத்தில் தவறி விழுந்ததன் காரணமாக உயிரிழந்துள்ளார் என விசாரணைகளில் இருந்து தெரிய வந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-சடலம் மீட்கப்பட்டுள்ளதுடன், நீதவானின் விசாரணைகளைத்தொடர்ந்து பிரேத பரிசோதனைகளுக்காக சடலம் நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்வதற்கான ஏற்பாடுகள் செய்யப்படும் என லிந்துலை பொலிஸார் தெரிவித்தனர்.
-
-குறித்த இளைஞன் லிந்துலை பெல்கிரேவியா தோட்டப்பகுதியில் தனது உறவினர் வீட்டில் தங்கி இருந்து வேலைக்கு சென்றதாகவும் விசாரணைகள் இருந்து தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/dc38e60b.json)
-
----
-
-### Trump tariff concessions advantageous but challenges formidable, warns Karu Jayasuriya
-
-*2025-08-05 03:19:55* · [`dailyftlk`](https://www.ft.lk/news/Trump-tariff-concessions-advantageous-but-challenges-formidable-warns-Karu-Jayasuriya/56-779918) · `en`
-
-NMSJ Leader Karu Jayasuriya says Sri Lanka’s manufacturing sector is one of least productive sectors
-
-Asserts manufacturing sector is beset by high electricity tariffs, too many holidays and strikes
-
-National Movement for Social Justice (NMSJ) Leader Karu Jayasuriya in a statement said that the fact that US President Donald Trump has reduced the export tariff rate on Sri Lanka from 44% to 20% can be considered a form of concession given the challenges the country faced. However, Jayasuriya emphasised the need for Sri Lanka to act collectively and wisely, given the competitive situation arising from Asian countries in the future export of goods from Sri Lanka to the US.
-
-“As the NMSJ, we request the Government led by the President, especially the institutions that plan policies related to the country’s economy, as well as private entrepreneurs and professional organisations, to come together and prepare future plans regarding the challenges that may arise,” Jayasuriya said.
-
-...
-
-[Data](articles/9c1cff26.json)
-
----
-
-### Speaker endorses certificate on Companies (Amendment) Bill
-
-*2025-08-05 03:18:37* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-Companies-Amendment-Bill/56-779917) · `en`
-
-Speaker of Parliament Dr. Jagath Wickramaratne yesterday endorsed the certificate on the Companies (Amendment) Bill, which was passed in Parliament with amendments on 23 July.
-
-Accordingly, the amended Act introduces several provisions, including allowing the incorporation of a company with a single shareholder, extending the notice period for the public when changing a company’s name to 20 working days, prohibiting the issuance of bearer shares or bearer share warrants, requiring notification to the company regarding the issuance of bearer shares or bearer share warrants, and mandating the disclosure of the bearer’s details to the company registrar within 60 days, requiring companies to divide shares within 20 days from the date of incorporation.
-
-...
-
-[Data](articles/4bd3e4dd.json)
-
----
-
-### Supreme Court dismisses petitions challenging Sri Lanka-India MoUs
-
-*2025-08-05 03:17:39* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-dismisses-petitions-challenging-Sri-Lanka-India-MoUs/56-779916) · `en`
-
-The Supreme Court yesterday dismissed two Fundamental Rights petitions that sought to invalidate the recent Memoranda of Understanding (MoUs) signed between Sri Lanka and India.
-
-A two-judge bench comprising Justice Achala Wengappuli and Justice Priyantha Fernando ruled that there was no prima facie case to proceed with the applications. As a result, the petitions were dismissed without further hearing.
-
-The petitions had challenged the legality of seven MoUs exchanged on 5 April at the Presidential Secretariat. These agreements, signed in the presence of President Anura Kumara Disanayake and Indian Prime Minister Narendra Modi, cover areas including defence cooperation, digital solutions, and a multi-sectoral grant assistance initiative for the Eastern Province.
-
-President’s Counsel Manohara de Silva and Senior Counsel Canishka Witharana appeared for the petitioners. Deputy Solicitor General Nirmalan Wigneswaran represented the Attorney General.
-
-◼️
-
-[Data](articles/64aa991b.json)
-
----
-
-### Sri Lanka signs landmark agreement with ESCAP-CSAM to enhance agricultural machinery standards
-
-*2025-08-05 03:13:30* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-signs-landmark-agreement-with-ESCAP-CSAM-to-enhance-agricultural-machinery-standards/34-779915) · `en`
-
-The Sri Lanka Standards Institution (SLSI) and the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP), through its Centre for Sustainable Agricultural Mechanisation (CSAM), signed a landmark Memorandum of Agreement (MoA) during a special ceremony held at CIAME Asia 2025 – Thailand International Agricultural Machinery Exhibition on 23 July, in Bangkok.
-
-Ambassador of Sri Lanka to the Kingdom of Thailand and Permanent Representative to UNESCAP Wijayanthi Edirisinghe, witnessed the signing of the MoA.
-
-Sri Lanka Standards Institution (SLSI) Director General Dr. Siddhika G. Senaratne, signed the Memorandum of Agreement (MoA) on behalf of the Government of Sri Lanka, and ESCAP Director of Strategy and Program Management Division Adnan Aliani, signed on behalf of the United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP).
-
-...
-
-[Data](articles/da1be540.json)
-
----
-
-### Anverally and Sons earns prestigious ISO/IEC 17025 international certification for in-house laboratory
-
-*2025-08-05 03:12:12* · [`dailyftlk`](https://www.ft.lk/business/Anverally-and-Sons-earns-prestigious-ISO-IEC-17025-international-certification-for-in-house-laboratory/34-779914) · `en`
-
-Anverally and Sons General Manager Process Control Lasantha De Silva and Sri Lanka Accreditation Board (SLAB) Chairman Air Vice Marshal (Retd.) Prasanna Ranasinghe (third and fourth from right) at the presentation of the ISO 17025 certification. Also in the picture are (from left): Anverally and Sons Senior Executive – Quality Assurance Nuwanthika Rathnayake and Junior Analyst Supuni Rathugamage, SLAB Deputy Director – Accreditation Mithila Gunesekara, and Anverally and Sons Chemist cum R&D Executive Anjali Randeniya and Quality Assurance Assistant Ishara Chathurangi
-
-Anverally and Sons Ltd., one of Sri Lanka’s foremost exporters of Ceylon Tea, has strengthened its reputation for uncompromising quality and global trust by securing ISO/IEC 17025 accreditation for its state-of-the-art in-house laboratory.
-
-...
-
-[Data](articles/0ea3d73c.json)
-
----
-
-### BNI National Conference engages over 400+ local and international members
-
-*2025-08-05 03:10:47* · [`dailyftlk`](https://www.ft.lk/business/BNI-National-Conference-engages-over-400-local-and-international-members/34-779913) · `en`
-
-BNI Sri Lanka’s flagship event – The BNI National Conference 2025 – which was held on 18 June at the Cinnamon Grand, Colombo concluded successfully with the active and enthusiastic participation of 250 members representing the 16 chapters in Sri Lanka and 160 foreign participants representing overseas BNI chapters from India, Japan, Bahrain, and Taiwan, The participants were hosted to an engaging full-day conference followed by a networking and fellowship session. The conference aimed to connect the 400+ entrepreneurs, professionals, and industry leaders for targeted networking and referral opportunities. Attendees participated in high-speed meetings, learned from expert speakers on business trends and leadership, and explored collaborations and joint ventures. The event also recognised outstanding performance, offered regional and international exposure, and fostered cross-chapter business relationships among BNI members.
-
-...
-
-[Data](articles/50b7d55e.json)
-
----
-
-### அத்துமீறிய மீன்பிடிப் படகு கைப்பற்றப்பட்டது
-
-*2025-08-05 03:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துமீறிய-மீன்பிடிப்-படகு-கைப்பற்றப்பட்டது/175-362311) · `ta`
-
-இலங்கை கடல் பரப்பில் அத்துமீறிய இந்திய மீன்பிடி படகு ஒன்று மன்னார் வடக்கு கடற்பரப்பில் கடற்படையினரால் கைப்பற்றப்பட்டது.
-
-இலங்கை கடற்படையினர், நேற்று முன்தினம் இரவு யாழ்ப்பாணம் நெடுந்தீவிற்கு அன்மித்த கடல் பரப்பில் சட்டவிரோதமாக நுழைந்த சந்தேகத்திற்கிடமான இந்திய மீன்பிடிப் படகை கடற்படையினர் கைப்பற்றினர்.
-
-அதன்படி வடக்கு கடற்படை கட்டளையினால் யாழ்ப்பாணம் நெடுந்தீவுக்கு அருகில் இலங்கை கடல் எல்லைக்குள் நுழைந்த பல இந்திய மீன்பிடி படகுகளை அவதானித்ததுடன், மேலும் அந்த மீன்பிடி படகுகளை இலங்கை கடல் எல்லையிலிருந்து அகற்ற வடக்கு கடற்படை கட்டளையுடன் இணைக்கப்பட்ட கடலோர படகுகளால் ஒரு சிறப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
-
-அங்கு, இலங்கை கடற்படையினர் உள்ளூர் கடல் எல்லையில்  ஒரு இந்திய மீன்பிடி படகில் சட்டப்பூர்வமாக ஏறி ஆய்வு செய்து, எல்லைச் சட்டங்களை மீறி இலங்கை கடல் எல்லையில் சட்டவிரோதமாக பயணித்த அந்த இந்திய மீன்பிடி படகுடன் நான்கு இந்திய மீனவர்களும் கைது செய்யப்பட்டனர்.
-
-...
-
-[Data](articles/31c92747.json)
-
----
-
-### யாழ்ப்பாணம் அருகே சட்டவிரோதமாக மீன்பிடித்த இந்திய மீனவர்கள் நால்வர் கைது
-
-*2025-08-05 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221833) · `ta`
-
-யாழ்ப்பாணம் நெடுந்தீவுக்கு அருகிலுள்ள இலங்கை கடற்பகுதியில், சட்டவிரோதமாக மீன்பிடியில் ஈடுபட்ட இந்திய மீன்பிடி படகொன்றை இலங்கை கடற்படையினர் கைப்பற்றினர்.
-
-குறித்த படகைச் சோதனையிட்ட கடற்படையினர், அதில் இருந்த நான்கு இந்திய மீனவர்களையும் கைது செய்தனர்.
-
-கைது செய்யப்பட்ட மீனவர்கள் மற்றும் அவர்களின் படகு, மேலதிக விசாரணைகளுக்காக காங்கேசன்துறை துறைமுகத்திற்கு கொண்டுவரப்பட்டுள்ளனர்.
-
-பின்னர், சட்ட நடவடிக்கைகள் மேற்கொள்ளும் நோக்கில் அவர்கள் யாழ்ப்பாணம் மயிலிட்டி மீன்வள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/2da89de3.json)
-
----
-
-### மாகாணசபை முறையை பாதுகாக்க மக்கள் இயக்கத்தை கட்டியெழுப்பும் முயற்சிகளில்  வரதராஜப் பெருமாள்
-
-*2025-08-05 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221831) · `ta`
-
-1988 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்பட்ட மாகாணசபைகள் முறை,  பல வருடங்களாக வெவ்வேறு மாகாண சபைகளுக்கு மக்களால் தெரிவுசெயயப்பட்ட பல முதலமைச்சர்களை கண்டுவந்திருக்கிறது. ஒவ்வொரு மாகாணத்துக்கும் தனியொரு முதலமைச்சர் என்பதே நியமமாக இருந்த போதிலும், கடந்த காலத்தில் ஒரு குறிப்பிடத்தக்க விதிவிலக்கும் இருந்தது...
-
-◼️
-
-[Data](articles/ae2c4839.json)
-
----
-
-### பாலஸ்தீனம் தொடர்பில் ஐக்கிய இராச்சியத்தின் நிலைப்பாடு ஏன் முக்கியத்துவம் வாய்ந்ததாக இருக்கிறது?
-
-*2025-08-05 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/221832) · `ta`
-
-இஸ்ரேல் காசாவில் போர்நிறுத்தம் ஒன்றுக்கு இணக்கி, பெருமளவு மனிதாபிமான உதவிகள் செல்வதற்கு அனுமதிக்காவிட்டால்,  இரு அரசுகள் விதிமுறையின் அடிப்படையில் நீண்டகால சமாதானம் நோக்கிச் செயற்படுவதில் உறுதிப்பாட்டை காண்பிக்காவிட்டால், எதிர்வரும் செப்டெம்பரில் ஐக்கிய நாடுகள் பொதுச்சபை கூட்டத்தொடரில் தனது அரசாங்கம் பாலஸ்தீனத்தை அங்கீகரிக்கும் என்று பிரிட்டிஷ் பிரதமர் கெய்ர் ஸ்ராமெர் கடந்தவாரம் அறிவித்தார்....
-
-◼️
-
-[Data](articles/532e5aa8.json)
-
----
-
-### மட்டு மகிழவெட்டுவானில் யானை தாக்குதலில்; இளம் தாயார் உயிரிழப்பு 3 வயது குழந்தை தெய்வாதீனமாக உயிர்பிழைப்பு
-
-*2025-08-05 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221830) · `ta`
-
-மட்டக்களப்பு ஆயித்தியமலை பொலிஸ் பிரிவிலுள்ள மகிழவெட்டுவான் பகுதியில் யானை தாக்குதலில் இளம் தாயார் ஒருவர் உயிரிழந்ததுடன் 3 வயது குழந்தை தெய்வாதீனமாக உயிர் தப்பிய சம்பவம் திங்கட்கிழமை (04) இரவு இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
-
-மகிழவெட்டுவானை சேர்ந்த 35 வயதுடைய ரவிச்சந்திரன் பசுபதி என்பவரே இவ்வாறு பரிதாபகரமாக உயிரிழந்துள்ளார்.
-
-குறித்த பிரதேசத்தில் வீட்டின் முற்றத்தில் சம்பவதினமான சனிக்கிழமை இரவு7.00 மணியளவில் தனது 3 வயது பெண் குழந்தையுடன் தாய் இருந்துள்ள நிலையில்  குடிமனைக்குள் உட்புகுந்த யானை அவர்கள் மீது தாக்கியதில் தாயார் ஸ்தலத்திலே உயிரிழந்ததுடன் குழந்தை தெய்வாதீனமாக உயிர் தப்பினார்.
-
-இதனையடுத்து உயிர் தப்பிய குழந்தையை மீட்டதுடன் உயிரிழந்தவரின் சடலத்தையும் மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிசார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/f3147a39.json)
 
 ---

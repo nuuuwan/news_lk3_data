@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 07:20:33**
+As of **2025-08-05 08:16:53**
 
 ## Newspaper Stats
 
-*Scraped **68,714** Articles*
+*Scraped **68,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,616
-adaderanalk | 8,516
+adaderanalk | 8,517
 tamilmirrorlk | 9,987
 virakesarilk | 11,447
-adaderanasinhalalk | 11,830
+adaderanasinhalalk | 11,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,714 articles have been extended.
+61,973 (90.2%) of 68,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ඉහළ පොලිස් නිලධාරීන් පිරිසකට ස්ථාන මාරුවීම්
+
+*2025-08-05 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213026) · `si`
+
+ජාතික පොලිස් කොමිශන් සභාවේ අනුමැතියට අනුව ඉහළ පොලිස් නිලධාරීන් පිරිසකට ස්ථාන මාරුවීම් ලබා දී තිබේ.
+
+වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් සේවා අවශ්‍යතා මත මෙම ස්ථාන මාරුවීම් ලබාදී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී උදයකුමාර වුට්ලර් මහතා සඳහන් කළේය.
+
+ඒ අනුව ජ්‍යෙෂ්ඨ පොලිස් අධීකාරීවරුන්, පොලිස් අධිකාරීවරුන් සහ සහකාර පොලිස් අධිකාරීවරුන් පිරිසකට මෙලෙස ස්ථාන මාරුවීම් ලබා දී ඇත.
+
+◼️
+
+[Data](articles/a0c52772.json)
+
+---
+
+### අන්තර්ජාලයෙන් සූදු සෙල්ලම් කළ විදෙස් ජාතිකයින් 11ක් මාට්ටු
+
+*2025-08-05 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213025) · `si`
+
+අන්තර්ජාලය ඔස්සේ මුදල් ඔට්ටුවට සූදු සෙල්ලම් කළ විදේශ ජාතික සැකකරුවන් 08ක් හා සැකකාරියන් 03ක් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (04) රාත්‍රී කාලයේ තලංගම, අකුරේගොඩ ප්‍රදේශයේදී තලංගම පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීමක් සිදුකර තිබුණි.
+
+එහිදී පරිගණක හා ජංගම දුරකථන උපයෝගී කර ගනිමින් අන්තර්ජාලය ඔස්සේ මුදල් ඔට්ටුවට සූදු සෙල්ලම් කළ විදේශ ජාතික සැකකරුවන් 08 දෙනෙකු හා සැකකාරියන් තිදෙනෙකු ජංගම දුරකථන 20ක්, ලැප්ටොප් පරිගණක 03ක් හා ටැබ් යන්ත්‍රයක් සමග අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරියන් අවුරුදු 22, 30 හා 43 යන වයස්වල හා සැකකරුවන් අවුරුදු     25, 26, 27 හා 29 වයස්වල පසුවන ඉන්දීය ජාතිකයින් වේ.
+
+◼️
+
+[Data](articles/e37b202a.json)
+
+---
 
 ### අදත් හවසට තැනින් තැන වැසි
 
@@ -47,6 +81,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9ad9e47c.json)
+
+---
+
+### Tourism Dy Minister clarifies Minister Vijitha Herath’s statement on tourism earnings
+
+*2025-08-05 05:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111170/tourism-dy-minister-clarifies-minister-vijitha-heraths-statement-on-tourism-earnings) · `en`
+
+Deputy Minister of Tourism Ruwan Ranasingha has provided clarification regarding a statement made by the Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath who claimed that an income of USD 3.7 billion had been earned from tourist arrivals since January 1, 2025.
+
+Deputy Minister Ranasingha stated that, according to the report issued by the Central Bank of Sri Lanka (CBSL), the income earned from tourism as of the end of June has been recorded as USD 1.7 billion.
+
+However, he noted that the data for July is not yet included, and added that he does not believe such a high income as claimed by the Subject Minister would have been generated in the month of July alone.
+
+...
+
+[Data](articles/3d29069b.json)
 
 ---
 
@@ -1743,61 +1793,5 @@ Fitch Ratings-New York-01 August 2025: Fitch Ratings has updated the U.S. Effect
 ...
 
 [Data](articles/5a3a3e20.json)
-
----
-
-### இலங்கை- இந்தியா 7 ஒப்பந்தங்களுக்கு எதிரான மனுக்கள் தள்ளுபடி
-
-*2025-08-04 15:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்தியா-7-ஒப்பந்தங்களுக்கு-எதிரான-மனுக்கள்-தள்ளுபடி/175-362282) · `ta`
-
-இலங்கைக்கும் இந்தியாவுக்கும் இடையில் சமீபத்தில் கையெழுத்தான புரிந்துணர்வு ஒப்பந்தத்தை (MoU) செல்லாததாக்க உத்தரவிடக் கோரி தாக்கல் செய்யப்பட்ட இரண்டு அடிப்படை உரிமைகள் மனுக்கள் உயர் நீதிமன்றத்தால் திங்கட்கிழமை (04) தள்ளுபடி செய்யப்பட்டன.
-
-உயர்நீதிமன்ற நீதியரசர்  அச்சலா வெங்கப்புலி மற்றும் நீதியரசர் பிரியந்த பெர்னாண்டோ ஆகியோர் அடங்கிய உயர் நீதிமன்ற இரு நீதியரசர்கள் கொண்ட அமர்வு, விண்ணப்பங்களை தொடர எந்த முதன்மையான காரணங்களும் இல்லை என்று கூறி இரண்டு மனுக்களையும் தள்ளுபடி செய்ய முடிவு செய்தது.
-
-பாதுகாப்பு ஒத்துழைப்பு, வெற்றிகரமான டிஜிட்டல் தீர்வுகளைப் பகிர்ந்து கொள்வது மற்றும் கிழக்கு மாகாணத்திற்கான பல்துறை மானிய உதவி குறித்த புரிந்துணர்வு ஒப்பந்தம் உள்ளிட்ட இந்தியாவிற்கும் இலங்கைக்கும் இடையிலான ஏழு புரிந்துணர்வு ஒப்பந்தங்கள் ஏப்ரல் 5 ஆம் திகதி ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திசாநாயக்க மற்றும் இந்தியப் பிரதமர் நரேந்திர மோடி முன்னிலையில் பரிமாறப்பட்டன.
-
-...
-
-[Data](articles/abc8a0a5.json)
-
----
-
-### அட்டனில் தங்க நெக்லஸை கொள்ளையடிக்க முயன்ற பெண் பிணையில் விடுவிப்பு
-
-*2025-08-04 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221788) · `ta`
-
-அட்டன் நகரின் குறுக்குத் தெருவில் உள்ள ஒரு நகைக் கடையில் இருந்து ரூ.275,000 மதிப்புள்ள தங்க நெக்லஸை எடுத்துக்கொண்டு தப்பிச் சென்றதாகக் கூறப்படும் பெண்ணை அட்டன் பொலிஸார் சந்தேகத்தின் பேரில் கைது செய்தனர்.
-
-அந்த பெண்ணை, ஹட்டன் பதில் நீதவான் எஸ். பார்த்தீபன் முன்னிலையில் ஆஜர்படுத்தினர். சந்தேக நபர் குற்றத்தை ஒப்புக்கொண்டதால், குற்றம் சாட்டப்பட்ட பெண்ணை ரூ.500,000 தனிப்பட்ட பிணையில்  விடுவிக்கவும், வழக்கை இம்மாதம் 05 ஆம் திகதி அன்று மீண்டும் விசாரிக்கவும் பதில் நீதவான் உத்தரவிட்டார்.
-
-பிணையில் விடுவிக்கப்பட்ட பெண் கொழும்பு பகுதியைச் சேர்ந்த ஒரு குழந்தையின் தாய் (வயது 26) ஆவார்.
-
-ஹட்டன் பொலிஸார் நடத்திய ஆரம்ப விசாரணையில், குற்றம் சாட்டப்பட்ட பெண் சிறிது காலமாக மஸ்கெலியா சாமிமலை பகுதியில் வசித்து வருவதாகவும், தற்போது கொழும்பு பகுதியில் வசித்து வருவதாகவும், ஒரு ஆடைத் தொழிற்சாலையில் பணிபுரிந்து வருவதாகவும், அவர் தனது கணவரிடமிருந்து பிரிந்து இருப்பதாகவும் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/9829b92d.json)
-
----
-
-### ‘You have a child, right?’ – Kehelbaddara Padme threatens OIC Linton Silva
-
-*2025-08-04 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111156/you-have-a-child-right-kehelbaddara-padme-threatens-oic-linton-silva) · `en`
-
-A notorious Sri Lankan underworld figure known as “Kehelbaddara Padme” has allegedly issued a death threat to Chief Inspector Linton Silva, the Officer-in-Charge (OIC) of the Western Province North Crimes Division, following the arrest of one of his close associates.
-
-The threat was reportedly made via a phone call at around 8:45 p.m. yesterday (03 August).
-
-The incident follows the arrest of a 39-year-old suspect known as “Gampaha Deva,” a close associate of Kehelbaddara Padme, by officers of the Airport Criminal Investigation Unit on the same day.
-
-According to police, the suspect has previously met ‘Padme’ in both Russia and Thailand and is believed to have been planning another visit to Thailand to meet him.
-
-The arrested individual is allegedly linked to multiple criminal activities, including murder, said police.
-
-Further investigations are being carried out under the supervision of Assistant Superintendent of Police Rohan Olugala and Chief Inspector Linton Silva.
-
-...
-
-[Data](articles/0e3f202e.json)
 
 ---

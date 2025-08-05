@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 15:51:28**
+As of **2025-08-05 16:07:14**
 
 ## Newspaper Stats
 
-*Scraped **68,821** Articles*
+*Scraped **68,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,626
 adaderanalk | 8,541
-tamilmirrorlk | 10,020
+tamilmirrorlk | 10,021
 virakesarilk | 11,461
-adaderanasinhalalk | 11,848
+adaderanasinhalalk | 11,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,821 articles have been extended.
+61,973 (90.0%) of 68,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியது (வீடியோ)
+
+*2025-08-05 15:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேக-வெடிப்பால்-ஒரு-கிராமமே-மூழ்கியது-வீடியோ/175-362351) · `ta`
+
+திடீரென ஏற்பட்ட பெரும் மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியதால், பலர் காணாமல் போயுள்ளனர் இந்த சம்பவம் உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் செவ்வாய்க்கிழமை (04) அன்று இடம்பெற்றுள்ளது.
+
+இந்த திடீர் வெள்ளப்பெருக்கில் அங்குள்ள கட்டிடங்கள், அந்த பகுதியில் வசிக்கும் பொதுமக்கள் பலர் அடித்துச் செல்லப்பட்டுள்ளதாக அஞ்சப்படுகிறது.
+
+உள்ளூர் பொலிஸார், எஸ்.டி.ஆர்.எப், இராணுவம் மற்றும் தீயணைப்புப் படைகளின் மீட்புக் குழுக்கள் சம்பவ இடத்திற்கு சென்று தேடுதல் மற்றும் மீட்புப் பணிகளில் தீவிரமாக ஈடுபட்டுள்ளன.
+
+இந்த வெள்ளம் தொடர்பான நெஞ்சை பதைபதைக்க வைக்கும் வீடியோ காட்சிகள் வெளியாகி உள்ளது. அதில் பாய்ந்து வரும் வெள்ளத்தில் சிக்கி குடியிருப்புகள் அடித்துச் செல்லப்படும் காட்சிகள் பெரும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.
+
+முன்னதாக உத்தரகாண்ட் மாநிலம் முழுவதும் பல இடங்களில் இன்று மிக கனமழை பெய்யும் என்று ஏற்கெனவே இந்திய வானிலை ஆய்வு மையம் (IMD) எச்சரிக்கை விடுத்திருந்தது.
+
+...
+
+[Data](articles/4d4ad1bb.json)
+
+---
+
+### චීන තානාපති කාර්යාලයෙන් බවට හඟවමින් සංසරණය වෙන ලිපිය ව්‍යාජ එකක්
+
+*2025-08-05 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213045) · `si`
+
+චීනයේ ව්‍යාපාරික ආයතන සම්බන්ධයෙන් ශ්‍රී ලාංකීය මාධ්‍ය වෙත කිසිදු බලපෑමක් සිදුකර නොමැති බව මෙරට පිහිටි චීන තානාපති කාර්යාලය පවසයි.
+
+චීන ව්‍යාපාරික ආයතන සම්බන්ධයෙන් තොරතුරු වාර්තා කිරීමේදී ඊට බලපෑම් එල්ලවන ආකාරයෙන් එම ආයතන පුවත් වාර්තා කර ඇති බවට සඳහන් කරමින් චීන තානාපති කාර්යාලය මගින් නිකුත් කර ඇති බවට හැඟවෙන පරිදි ලිපියක් සමාජ මාධ්‍ය ඔස්සේ පසුගිය දින කිහිපය තුළ ලිපියක් සංසරණය විය.
+
+මේ සම්බන්ධයෙන් අද දෙරණ මෙරට පිහිටි චීන තානාපති කාර්යාලයෙන් විමසීමක් සිදුකළ අතර ඊට ප්‍රතිචාර දක්වමින් ඔවුන් සඳහන් කළේ අදාළ ලිපිය ව්‍යාජ එකක් බවය.
+
+◼️
+
+[Data](articles/9490ff98.json)
+
+---
 
 ### ஆக்‌ஷன் அவதாரத்தில் விஜயகாந்த் கலக்கிய ’கேப்டன் பிரபாகரன்’ ரீ-ரிலீஸ்
 
@@ -1787,43 +1823,5 @@ Following the announcement by the Speaker of House that the resolution has been 
 ...
 
 [Data](articles/37de7773.json)
-
----
-
-### Several senior police officers transferred due to service requirement
-
-*2025-08-05 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111173/several-senior-police-officers-transferred-due-to-service-requirement) · `en`
-
-Transfers have been granted to a group of senior police officers with the approval of the National Police Commission.
-
-According to the Office of the Police Media Spokesman, transfers were made based on service requirements by Acting Inspector General of Police (IGP) Priyantha Weerasooriya.
-
-Among those transfers issued are four Superintendents of Police (SSPs), four Superintendents of Police (SPs), and 25 Assistant Superintendents of Police (ASPs), the Office of the Police Media Spokesman stated.
-
-◼️
-
-[Data](articles/61f6fe06.json)
-
----
-
-### US condemns house arrest of Brazil’s ex-president Jair Bolsonaro
-
-*2025-08-05 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111172/us-condemns-house-arrest-of-brazils-ex-president-jair-bolsonaro) · `en`
-
-Brazil’s Supreme Court has ordered that the former right-wing President Jair Bolsonaro be put under house arrest.
-
-He is standing trial over allegations he plotted a coup, which he denies.
-
-The judge in charge of investigating Bolsonaro, Alexandre de Moraes, said the decision was because Bolsonaro hadn’t complied with restraining orders put on him last month.
-
-In response to the order, Bolsonaro’s legal team denied breaching any restraining order and said they would appeal the ruling, according to Reuters news agency.
-
-In a statement on X, the US state department said it “condemns” the court order and “will hold accountable all those aiding and abetting sanctioned conduct”.
-
-Donald Trump has used Bolsonaro’s trial, which he calls a “witch-hunt”, as a justification for imposing 50% tariffs on some Brazilian goods despite the US having a trade surplus with Brazil.
-
-...
-
-[Data](articles/5ca137c7.json)
 
 ---

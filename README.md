@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 00:50:33**
+As of **2025-08-06 01:06:35**
 
 ## Newspaper Stats
 
-*Scraped **68,898** Articles*
+*Scraped **68,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ dailyftlk | 4,849
 adalk | 6,638
 adaderanalk | 8,555
 tamilmirrorlk | 10,036
-virakesarilk | 11,479
+virakesarilk | 11,480
 adaderanasinhalalk | 11,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,898 articles have been extended.
+61,973 (89.9%) of 68,899 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-06 (Wednesday)
+
+### முன்னாள் பிரதம நீதியரசரை சட்டவிரோதமாக பதவி நீக்கியவர்கள் எம்மை விமர்சிப்பது வேடிக்கையானது- அருண்  ஹேமச்சந்திரா
+
+*2025-08-06 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221922) · `ta`
+
+முறைகேடான, மோசடியான மற்றும் மிலேட்சத்தனமாக  பொலிஸ்மா அதிபரை பாதுகாப்பதற்கு முயற்சிப்பவர்களின்  பின்னணியை நாங்கள் நன்கு அறிவோம். இதற்குரிய பதில் இவர்களுக்கு எதிர்வரும் காலங்களில் கிடைக்கப்பெறும். முன்னாள் பிரதம நீதியரசரை சட்டவிரோதமான முறையில் பதவி நீக்கியவர்கள் எம்மை விமர்சிப்பது வேடிக்கையாகவுள்ளது. சட்டத்தின் பிரகாரமே தேசபந்து தென்னக்கோன் பதவி நீக்கப்படுவார் என்று வெளிவிவகாரத்துறை பிரதி அமைச்சர் அருண்  ஹேமச்சந்திரா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (6) நடைபெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டில் அரசியலமைப்பால் ஏற்றுக்கொள்ளப்பட்ட சட்டத்தின் பிரகாரமே பொலிஸ்மா அதிபரை பதவி நீக்குவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டன. முன்னாள் பிரதம நீதியரசரை பாராளுமன்றத்துக்கு அழைத்து வந்து முறையற்ற வகையில் சட்டத்துக்கு விரோதமான முறையில் அவரை பதவி நீக்கியவர்கள் இன்று எம்மை நோக்கி குற்றச்சாட்டுக்களை முன்வைப்பது ஆச்சரியமாகவுள்ளது.
+
+...
+
+[Data](articles/b2fd09f6.json)
+
+---
 
 ### 2025-08-05 (Tuesday)
 
@@ -1801,25 +1819,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/4477676f.json)
-
----
-
-### PUCSL conducts public hearing into nationwide power outage
-
-*2025-08-05 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111193/pucsl-conducts-public-hearing-into-nationwide-power-outage) · `en`
-
-The public hearing conducted by the Public Utilities Commission of Sri Lanka (PUCSL) regarding the nationwide power outage that occurred on February 9, 2025, commenced this morning (05).
-
-Senior officials, including the Acting General Manager of the Ceylon Electricity Board recorded statements during the hearing, which is being held at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo.
-
-An island-wide power outage occurred on February 9 due to an issue in the transmission system at the Panadura Grid Substation of the CEB.
-
-At the time, the Minister of Power and Energy, Eng. Kumara Jayakody stated that the outage was caused by a monkey falling onto the power lines at the Panadura grid substation. This statement received wide coverage through both local and international media.
-
-However, the PUCSL decided to recommence investigation after expressing dissatisfaction with the reports submitted by the Electricity Board.
-
-...
-
-[Data](articles/f697ef50.json)
 
 ---

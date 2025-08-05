@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 16:07:14**
+As of **2025-08-05 16:23:57**
 
 ## Newspaper Stats
 
-*Scraped **68,823** Articles*
+*Scraped **68,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,26 +17,124 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,626
-adaderanalk | 8,541
+adaderanalk | 8,543
 tamilmirrorlk | 10,021
-virakesarilk | 11,461
-adaderanasinhalalk | 11,849
+virakesarilk | 11,464
+adaderanasinhalalk | 11,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,823 articles have been extended.
+61,973 (90.0%) of 68,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
 
+### லிந்துலையில் நீரில் மூழ்கி இளைஞன் உயிரிழப்பு
+
+*2025-08-05 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221888) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவிற்குட்பட்ட லிந்துலை லோகி தோட்டத்தில் உள்ள குளத்தில் நண்பர்களுடன் குளிக்கச் சென்ற இளைஞன் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+உடப்புசல்லாவ எனிக் தோட்டத்தைச் சேர்ந்த 20 வயதான அருமைவாசகம் கமலராஜா என்பவரே உயிரிழந்தவராவாரென அடையாளம் காணப்பட்டுள்ளது.
+
+குறித்த இளைஞன் உடப்புசல்லாவ பகுதியில் இருந்து தலவாக்கலை பகுதியில் உள்ள ஒரு கடையில் தொழில் புரிந்து வந்தவர் எனவும் நேற்றையதினம் லிந்துலை லோகி தோட்டத்தில் உள்ள நான்கு நண்பர்களுடன் குளிக்க வருகை தந்த இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+நண்பர்களுடன் நீராடிக்கொண்டிருந்த போதே குறித்த நபர் நீரில் மூழ்கிக் காணாமல் போயிருந்த நிலையில் குறித்த இளைஞனை ஏனையவர்கள் காப்பாற்ற முயற்சித்த போதும் முயற்சி பயனளிக்காத நிலையில் மேற்படி இளைஞன் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+இதனையடுத்து நேற்று மாலை வேளையில் லிந்துலை பொலிஸாரும், பிரதேச மக்களும் இணைந்து குறித்த இளைஞனின் சடலத்தை குளத்தில் இருந்து மீட்டுள்ளனர்.
+
+...
+
+[Data](articles/79c31fc9.json)
+
+---
+
+### සංචාරක වීසා මත පැමිණ සූදු කෙළිය ඉන්දීය ජාතිකයින් රිමාන්ඩ්
+
+*2025-08-05 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213047) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණ අන්තර්ජාලය ඔස්සේ සූදු ක්‍රීඩාවේ නිරත ව සිටියදී තලංගම පොලීසිය මගින් අත්අඩංගුවට ගත් ඉන්දීය ජාතිකයින් 11 දෙනා අද (05) කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට හමුවට ඉදිරිපත් කර තිබේ.
+
+එහිදී කඩුවෙල මහෙස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා අදාළ සැකකරුවන් 11 දෙනා එළැඹෙන 07 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
+
+පැලවත්ත අකුරේගොඩ ප්‍රදේශයේ කුලී පදනම මත ලබා ගත් නිවසක සිට මෙම පිරිස සූදු ක්‍රීඩාවේ යෙදී ඇති අතර ලද තොරතුරක් මත තලංගම පොලීසිය මගින් වැටලීම සිදුකර සැකකරුවන් අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගත් මෙම පිරිස අතරට සැකකාරියන් තිදෙනෙකු සහ සැකකරුවන් අට දෙනෙකුද විය.
+
+සැකකරුවන් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී ඔවුන් වැලිසර රැඳවුම් මධ්‍යස්ථානයේ රඳවා තබා වැඩිදුර විමර්ශන කටයුතු සිදුකරන ලෙසත් මහෙස්ත්‍රාත්වරයා පොලීසිය නියෝග කළේය.
+
+◼️
+
+[Data](articles/3d4c6f42.json)
+
+---
+
+### තෙවන රන්දෝලි පෙරහැර වෙනුවෙන් ක්‍රියාත්මක රථවාහන සැලැස්ම
+
+*2025-08-05 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213046) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහැරේ තෙවන රන්දෝලි පෙරහැර හෙට (06) දින වීථී සංචාරය කරනු ලබයි.
+
+එම කාලය තුළ ක්‍රියාත්මක රථ වාහන සැලැස්ම හා විකල්ප මාර්ග සම්බන්ධයෙන් රියදුන් සහ ජනතාව දැනුම්වත් කරමින් ශ්‍රී ලංකා පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව, පෙරහැර කාලසීමාවන් තුළ ක්‍රියාත්මක රථවාහන සැලැස්ම හා දෛනික රථවාහන සැලැස්ම පහත පරිදි වේ.
+
+කටුගස්තොට සිට මහනුවර නගරයට පැමිණෙන සියළුම බර වාහන මහයියාව හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ පොලිසිය හන්දියෙන් මහනුවර නගරය වෙත ගමන් කළ හැක.
+
+කටුගස්තොට දෙසින් පැමිණෙන සැහැල්ලු වාහන ඩී.එස් සේනානායක වීදිය ඔස්සේ පැමිණ කන්දේ වීදිය මීරමක්කම් පල්ලිය අසලින් ඉදිරියට ගමන් කර තිලක් රත්නායක මාවත ඔස්සේ ගමන්කළ හැක.
+
+කටුගස්තොට දෙසට පිටවන වාහන පොලිසිය අසලින් තිලක් රත්නායක මාවත ඔස්සේ මහයියාව දෙසට ගමන්කළ හැක.
+
+...
+
+[Data](articles/c825cde6.json)
+
+---
+
+### பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் "யவ்ம்-இ-இஸ்தெஹ்சால்"  தினம் கொழும்பில் அனுஷ்டிப்பு
+
+*2025-08-05 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221885) · `ta`
+
+இந்திய சட்டவிரோத ஆக்கிரமிப்பு ஜம்மு மற்றும் காஷ்மீரில் ஆகஸ்ட் 5, 2019 ல் இந்தியா மேற்கொண்ட சட்டவிரோத மற்றும் ஒரு தலைபட்ச நடவடிக்கைகளை  நினைவூட்டும் வகையில் "யவ்ம்-இ-இஸ்தெஹ்சால்" தினம் பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் செவ்வாய்க்கிழமை (05) அனுஷ்டிக்கப்பட்டது.
+
+முக்கியப் பேச்சாளர்கள் காஷ்மீரிகளின் அவல நிலையைப் சுட்டிக்காட்டியதோடு இந்த சர்ச்சையானது ஐ.நா பாதுகாப்பு கவுன்சிலின் நிகழ்ச்சி நிரலில் உள்ள பழமையான விஷயங்களில் ஒன்று என்றும் அவர்கள் தெரிவித்தனர். துரதிர்ஷ்டவசமாக, இந்தியா தனது உறுதிமொழிகளை மதிக்க மறுப்பதாலும், அடிப்படை மனித உரிமைகள் மற்றும் சர்வதேச சட்டங்களை மதிக்காததாலும் இந்த சர்ச்சை இன்னும்  தீர்க்கப்படாமல் உள்ளது.
+
+மனிதாபிமானமற்ற இராணுவ முற்றுகை, தகவல் தொடர்பு முற்றுகை, சுற்றிவளைப்பு மற்றும் தேடுதல் நடவடிக்கைகள், போலி என்கவுன்டர்கள் மூலம் அப்பாவி காஷ்மீரிகள் மீதான அடக்குமுறை மற்றும் மிருகத்தனமான தாக்குதலை உயர் ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வு நிலை) ஃபஹீம் உல் அஸீஸ் தனது உரையில் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/7ed36e96.json)
+
+---
+
+### இலங்கை வருகிறார் அவுஸ்திரேலிய ஆளுநர் நாயகம்
+
+*2025-08-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221882) · `ta`
+
+அவுஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜாய் மோஸ்டின் உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு இலங்கைக்கு வருகை தரவுள்ளதாக வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சகம் அறிவித்துள்ளது.
+
+அதன்படி, நாளை புதன்கிழமை (06) வருகை தரும், சமந்தா ஜாய் மோஸ்டின் எதிர்வரும் 10 ஆம் திகதி வரை நாட்டில் தங்கியிருப்பார் என அமைச்சு குறிப்பிட்டுள்ளது.
+
+இந்த விஜயத்தின் போது ஜனாதிபதி மற்றும் பிரதமரை சந்தித்து இருதரப்பு கலந்துரையாடல்களில் ஈடுபடுவார் என எதிர்பார்க்கப்படுகிறது.
+
+பண்டாரகம, மிரிஸ்ஸ மற்றும் வெலிகம ஆகிய இடங்களில் உள்ள அவுஸ்திரேலிய ஆதரவுடன் இயங்கும் திட்டங்களையும் அவர் பார்வையிடவுள்ளார்.
+
+அத்துடன், இந்த விஜயம் இலங்கை - அவுஸ்திரேலிய உறவுகளை மேலும் வலுப்படுத்துவதையும், இரு நாடுகளின் பரஸ்பர நன்மைக்காக ஒத்துழைப்பை விரிவுபடுத்துவதற்கான வழிகளை ஆராய்வதையும் நோக்கமாகக் கொண்டது.
+
+◼️
+
+[Data](articles/5e4b78f9.json)
+
+---
+
 ### மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியது (வீடியோ)
 
 *2025-08-05 15:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேக-வெடிப்பால்-ஒரு-கிராமமே-மூழ்கியது-வீடியோ/175-362351) · `ta`
 
-திடீரென ஏற்பட்ட பெரும் மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியதால், பலர் காணாமல் போயுள்ளனர் இந்த சம்பவம் உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் செவ்வாய்க்கிழமை (04) அன்று இடம்பெற்றுள்ளது.
+திடீரென ஏற்பட்ட பெரும் மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியதால், பலர் காணாமல் போயுள்ளனர் இந்த சம்பவம் உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் இன்று செவ்வாய்க்கிழமை (05)  இடம்பெற்றுள்ளது.
 
 இந்த திடீர் வெள்ளப்பெருக்கில் அங்குள்ள கட்டிடங்கள், அந்த பகுதியில் வசிக்கும் பொதுமக்கள் பலர் அடித்துச் செல்லப்பட்டுள்ளதாக அஞ்சப்படுகிறது.
 
@@ -198,6 +296,22 @@ Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.
 
 ---
 
+### PM briefs Chief Prelates of Amarapura and Ramanna chapters on education reforms
+
+*2025-08-05 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111197/chief-prelates-of-amarapura-and-ramanna-chapters-briefed-on-proposed-education-reforms-) · `en`
+
+The Chief Prelates of the Sri Lanka Amarapura and the Ramanna chapters have emphasized to the Prime Minister Dr. Harini Amarasuriya that contributing to the new education reforms is not merely a change confined to the education sector, but one that can bring about a constructive transformation for the entire nation, making it a national responsibility of the Maha Sangha.
+
+A special discussion to brief the Chief Prelates of the Amarapura and Ramanna chapters about the new education reforms was held at the headquarters of the Sri Lanka Ramanna Maha Nikaya, with the participation of the Prime Minister, according to the Prime Minister’s Media Division.
+
+During the event, the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kaluwewa, presented a comprehensive explanation to the Chief Prelates on the national significance of the new education reforms, the curriculum structure, assessment procedures, and the intended objectives of the reforms.
+
+...
+
+[Data](articles/fa288ca0.json)
+
+---
+
 ### ‘The First Fools’ who saw Singapore through to independence
 
 *2025-08-05 15:03:00* · [`islandlk`](http://island.lk/the-first-fools-who-saw-singapore-through-to-independence/) · `en`
@@ -283,6 +397,22 @@ Published by The Nutgraf — a boutique editorial studio run largely by former j
 ...
 
 [Data](articles/e63cb0a0.json)
+
+---
+
+### No special security for Israeli nationals in Sri Lanka – Cabinet Spokesman
+
+*2025-08-05 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111196/no-special-security-for-israeli-nationals-in-sri-lanka-cabinet-spokesman) · `en`
+
+No special security has been given to Israeli nationals currently in Sri Lanka as tourists, according to Cabinet Spokesman Minister Dr. Nalinda Jayatissa.
+
+Speaking at the weekly Cabinet press briefing held today (05), Minister Dr. Nalinda Jayatissa said security is being provided to Israelis in the Arugam Bay area solely because they are tourists, and that police and tri-forces personnel have been deployed for this purpose.
+
+The Cabinet Spokesman emphasized that if there are places where Israeli nationals congregate, the government will provide standard security, as they are considered common tourists, and that this is not any form of special security.
+
+...
+
+[Data](articles/060fc3fd.json)
 
 ---
 
@@ -1671,157 +1801,5 @@ The notice did not name the countries affected, but said the list will be releas
 ...
 
 [Data](articles/2f3fae5e.json)
-
----
-
-### Sri Lanka budget revenues up 25-pct in June 2025
-
-*2025-08-05 08:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-revenues-up-25-pct-in-june-2025-234652/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax revenues grew 25 percent in the six months to June 2025 to 2,231 billion rupees, while current spending grew 13 percent to 2,506.8 billion rupees, provisional official data show.
-
-The capital expenditure was 223.9 billion rupees, down 9 percent from a year earlier, and up from 175 billion rupees in May, provisional Finance Ministry data show.
-
-The current account deficit, a key fiscal metric which is total revenues less current spending was down 48 percent to 185 billion rupees.
-
-In good budgeting, in the so-called golden rule of budgeting is to maintain a surplus in the current spending, which Sri Lanka has not been able to do from the late 1980s.
-
-Within the 15 percent rise in current spending to 2,506 billion rupees, Interest costs grew 10.7 percent to 1,264.6 billion rupees.
-
-Non-interest current spending grew 15 percent to 1,242 billion rupees.
-
-Sri Lanka’s state salaries were increased in April and current spending is starting to pick up.
-
-...
-
-[Data](articles/6a0862bb.json)
-
----
-
-### අවුරුදු 18ට අඩු ළමුන්ට සංස්කෘතික උරුමයන් නොමිලේ නැරඹීමට අවස්ථාව
-
-*2025-08-05 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213028) · `si`
-
-සංස්කෘතික අරමුදලට අයත් ව්‍යාපෘති වයස අවුරුදු 18ට අඩු දරුවන්ට නොමිලේ නැරඹීමේ අවස්ථාව ලබාදීමට රජය තීරණය කර තිබේ.
-
-මධ්‍යම සංස්කෘතික අරමුදලේ පාලක මණ්ඩලය විසින් අදාළ යෝජනාවට අනුමැතිය ලබාදී ඇති බව වාර්තා වේ.
-
-දේශීය දරුවන් අතර සංස්කෘතික උරුමයන් පිළිබඳ ඇගයීමක් ඇති කිරීම සහ ජාතික උරුමයන් සහ ස්ථාන පිළිබඳ දැනුවත්භාවය වර්ධනය කිරීම මෙහි මූලික අරමුණ වී තිබේ.
-
-ඒ අනුව සීගිරිය, යාපහුව, දඹුල්ල ඇතුළු මධ්‍යම සංස්කෘතික අරමුදලට අයත් පුරාවිද්‍යාත්මක වටිනාකමකින් යුත් ස්ථාන 26ක් ප්‍රවේශ පත්‍ර රහිතව ළමුන්ට නැරඹීමේ අවස්ථාව හිමිවේ.
-
-මෙයට සමගාමීව විදේශීය ළමුන් සඳහා ද සීමිත කොන්දේසී යටතේ අදාළ ස්ථාන සඳහා ඇතුළු වීමේ අවසර පත්‍ර නිකුත් කිරීමට තීරණය කර ඇති බව බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/d486c2f5.json)
-
----
-
-### Resolution to remove Deshabandu Tennakoon from office to be debated in Parliament today
-
-*2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
-
-The resolution to remove Inspector General of Police Deshabandu Tennakoon from office in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, will be taken up for debate in Parliament today.
-
-Parliament is scheduled to convene today at 9:30 a.m., and the debate on the resolution is expected to take place from 11:30 a.m. to 4:00 p.m., according to the Office of the Secretary-General of Parliament.
-
-A vote on the resolution is scheduled to be held at 4:00 p.m., and it is reported all ruling party Members of Parliament have been instructed to participate in the vote.
-
-If a simple majority of Members of Parliament — that is, 113 MPs — vote in favor, the resolution can be passed.
-
-Following the announcement by the Speaker of House that the resolution has been passed, the President is expected to nominate a new candidate for the position of IGP to the Constitutional Council.
-
-...
-
-[Data](articles/8535e146.json)
-
----
-
-### Resolution to remove Deshabandu Tennakoon from office to be debated in Parliament today
-
-*2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-igp-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
-
-The resolution to remove Inspector General of Police Deshabandu Tennakoon from office in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, will be taken up for debate in Parliament today.
-
-Parliament is scheduled to convene today at 9:30 a.m., and the debate on the resolution is expected to take place from 11:30 a.m. to 4:00 p.m., according to the Office of the Secretary-General of Parliament.
-
-A vote on the resolution is scheduled to be held at 4:00 p.m., and it is reported all ruling party Members of Parliament have been instructed to participate in the vote.
-
-If a simple majority of Members of Parliament — that is, 113 MPs — vote in favor, the resolution can be passed.
-
-Following the announcement by the Speaker of House that the resolution has been passed, the President is expected to nominate a new candidate for the position of IGP to the Constitutional Council.
-
-...
-
-[Data](articles/b8d3fd21.json)
-
----
-
-### ඝාතන තුනකට අදාළ සැකකරුවන් අල්ලයි
-
-*2025-08-05 07:42:39* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතන-තුනකට-අදාළ-සැකකරුවන්-අල්ලයි/11-417726) · `si`
-
-මනුෂ්‍ය ඝාතන තුනකට සම්බන්ධ සැකකරුවන් හා සැකකාරියන් කිහිප දෙනෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
-
-මේ අනුව 2025.08.01 වන දින සවස් කාලයේ ගල්කිස්ස පොලිස් වසමේ අරලිය නිවාස ප්‍රදේශයේදී පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධ වලින් පහරදී එක් පුද්ගලයෙකු ඝාතනය කර අනෙක් පුද්ගලයාට බරපතල තුවාල සිදු කිරීමේ  අපරාධය සම්බන්ධයෙන් ගල්කිස්ස පොලිසිය මගින් විමර්ශනයක් ආරම්භ කරන ලදී.
-
-ඒ අනුව 2025.08.04 වන දින රාත්‍රී කාලයේදී මොරටුව දුම්රියපොල අසලදී මෙම අපරාධයට සම්බන්ධ සැකකාරියන් දෙදෙනෙකු හා සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
-
-සැකකාරියන් අවුරුදු 46 හා 47 වයස්වල පසුවන හා සැකකරුවන් අවුරුදු 16 හා 30 වයස්වල පසුවන රත්මලාන ප්‍රදේශයේ පදිංචිකරුවන් වේ.
-
-2025.07.24 වන දින දෙමටගොඩ පොලිස් වසමේ ධර්මාරාම පාර ප්‍රදේශයේදී පුද්ගලයෙකුගේ හිසට මොට ආයුධයකින් පහරදී තියුණු ආයුධයකින් ගෙල කපා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ අපරාධය සම්බන්ධයෙන් දෙමටගොඩ පොලිස් ස්ථානය විමර්ශන ආරම්භ කරන ලදී.
-
-...
-
-[Data](articles/211b9e49.json)
-
----
-
-### දේශබන්දු පොලිස්පති ධුරයෙන් නෙරපීමේ යෝජනාව අද විවාදයට
-
-*2025-08-05 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213027) · `si`
-
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනාව අද (05) පාර්ලිමේන්තුවේ දී විවාදයට ගැනීමට නියමිතව තිබේ.
-
-මෙම සතිය සඳහා පාර්ලිමේන්තුව අද පෙරවරු 9.30ට රැස්වීමට නියමිත අතර පෙරවරු 11.30 සිට පස්වරු 4 දක්වා අදාළ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-යෝජනාව සම්බන්ධයෙන් වන ඡන්ද විමසීම පස්වරු 4ට පැවැත්වීමට නියමිත අතර එම ඡන්ද විමසීම සඳහා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ට සහභාගී වන ලෙස දැනුම් දී ඇත.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් හරි අඩක් එනම් මන්ත්‍රීවරුන් 113ක් ඡන්දය ප්‍රකාශ කිරීම මගින් මෙම යෝජනාව  සම්මත කර ගැනීමට හැකියාව හිමි වේ.
-
-යෝජනාව සම්මත වූ බවට කථානායකවරයා සිදුකරන දැනුම්දීමෙන් පසු  ජනාධිපතිවරයා විසින් පොලිස්පති ධුරය සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට නමක් නිර්දේශ කිරීමට නියමිතය.
-
-මේ අතර හෙට (06) දිනයේ ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය පැවැත්වීමට නියමිතව තිබේ.
-
-ඊට අමතරව දුම්කොළ බදු පනත යටතේ නියෝග විවාදයට ගැනීමට ද නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/bd3e8705.json)
-
----
-
-### දෙවිනුවර පෙරහැරේ  “භානුක”  කුලප්පු වෙයි
-
-*2025-08-05 07:29:32* · [`adalk`](https://www.ada.lk/breaking_news/දෙවිනුවර-පෙරහැරේ--“භානුක”--කුලප්පු-වෙයි/11-417725) · `si`
-
-දෙවිනුවර උත්පලවර්ණ ශ්‍රී වීෂ්ණු දේවාලයේ තෙවැනි පේලි පෙරහැරේ ගමන් කල “භානුක” නැමැති අලියෙකු ඊයේ (04) රාත්‍රි හදීසියේ කුලප්පු වීමෙන් දැඩි කලබලකාරී තත්වයක් ඇති විය.
-
-කුලප්පු අලියා පහර දීමෙන් ඇත් ගොව්වෙකු තුවාල ලබා ඇති අතර ඔහු වෛද්‍ය ප්‍රතිකාර සදහා මාතර මහ රෝහල වෙත ඇතුළත් කර සිටී.
-
-ඉකුත් මාර්තු මස 21 වැනි දින දෙවීනුවර දේවාලය ඉදිරිපිට දී තරුණයින් දෙදෙනෙකු වෙඩි තබා ඝාතනය කල ස්ථානයේ දී මෙම අලියා කුලප්පු වීම වීශේෂත්වයක් විය.
-
-කෙසේ වෙතත් ඒ සමග පෙරහැර නැරඹීමට පැමීණි පිරීස හිස් ලූලු අත දිව ගිය අතර එම නිසා දැඩි කලබලකාරී තත්වයක් ඇති වී තිබුණි.
-
-පෙලහැර ගමන් කිරීමද ටික වේලාවකට අඩාල විය.පසුව අලි ඇතුන් ඉවත් කොට පෙරහැර ගමන් කිරීමට සංවිධායක මණ්ඩලය පියවර ගන්නා ලදි.
-
-කතරගම සිට රැගෙවිත් තිබු “භානුක” නැමැති අලියෙකු එසේ කුලප්පු වී තිබුණි.මැදමුලන පදිංචි තුවාල ලැබු ඇත් ගොව්වාගේ තත්වය බරපතල නොවන බව මාතර මහ රෝහලේ ප්‍රකාශකයෙකු පැවසීය.
-
-කෙසේ වෙතත් සෙසු ඇත් ගොව්වන් හා වන ජීවී නිලධාරීන් එක්ව කුලප්පු වු අලියා දැඩි පරිශ්‍රමයක් යොදා මෙල්ල කර ගන්නා ලදි.
-
-...
-
-[Data](articles/37de7773.json)
 
 ---

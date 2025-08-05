@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 09:41:34**
+As of **2025-08-05 10:10:29**
 
 ## Newspaper Stats
 
-*Scraped **68,726** Articles*
+*Scraped **68,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,618
-adaderanalk | 8,520
+adaderanalk | 8,522
 tamilmirrorlk | 9,988
 virakesarilk | 11,447
-adaderanasinhalalk | 11,835
+adaderanasinhalalk | 11,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.2%) of 68,726 articles have been extended.
+61,973 (90.2%) of 68,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+
+*2025-08-05 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213030) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා වන යෝජනාව අද (05) පාර්ලිමේන්තුවේ දී විවාදයට ගැනීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/686f4008.json)
+
+---
 
 ### බ්‍රසීලයේ හිටපු ජනාධිපති නිවාස අඩස්සියට
 
@@ -52,6 +64,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Visa applicants may be required to post bond of up to 15,000 USD to enter U.S.
+
+*2025-08-05 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111175/visa-applicants-may-be-required-to-post-bond-of-up-to-15000-usd-to-enter-us) · `en`
+
+The U.S. State Department is set to roll out a pilot program that may require foreign nationals seeking business or tourism visas to post a bond of up to 15,000 U.S. dollars to enter the United States, according to a preview of a bond notice posted on the Federal Register website on Monday.
+
+Under the 12-month “visa bond pilot program,” consular officers could require certain business and tourist visa applicants to post guarantee bonds of 5,000 U.S. dollars, 10,000 dollars or 15,000 dollars, according to the notice set to be officially published on Tuesday.
+
+The program will take effect 15 days after the notice is officially published.
+
+The bonds may be required for travelers from countries that the State Department identifies as having high rates of visa overstays, or deficient screening and vetting information, said the notice.
+
+The notice did not name the countries affected, but said the list will be released online at least 15 days before it takes effect.
+
+...
+
+[Data](articles/2f3fae5e.json)
+
+---
+
 ### අවුරුදු 18ට අඩු ළමුන්ට සංස්කෘතික උරුමයන් නොමිලේ නැරඹීමට අවස්ථාව
 
 *2025-08-05 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213028) · `si`
@@ -69,6 +101,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d486c2f5.json)
+
+---
+
+### Resolution to remove IGP Deshabandu Tennakoon from office to be debated in Parliament today
+
+*2025-08-05 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111174/resolution-to-remove-igp-deshabandu-tennakoon-from-office-to-be-debated-in-parliament-today-) · `en`
+
+The resolution to remove Inspector General of Police Deshabandu Tennakoon from office in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, will be taken up for debate in Parliament today.
+
+Parliament is scheduled to convene today at 9:30 a.m., and the debate on the resolution is expected to take place from 11:30 a.m. to 4:00 p.m., according to the Office of the Secretary-General of Parliament.
+
+A vote on the resolution is scheduled to be held at 4:00 p.m., and it is reported all ruling party Members of Parliament have been instructed to participate in the vote.
+
+If a simple majority of Members of Parliament — that is, 113 MPs — vote in favor, the resolution can be passed.
+
+Following the announcement by the Speaker of House that the resolution has been passed, the President is expected to nominate a new candidate for the position of IGP to the Constitutional Council.
+
+...
+
+[Data](articles/b8d3fd21.json)
 
 ---
 
@@ -1749,65 +1801,5 @@ Under the new framework, the investment limit for listed companies has been rais
 ...
 
 [Data](articles/193b5e62.json)
-
----
-
-### செம்மணியில் ஸ்கேன் நடவடிக்கை
-
-*2025-08-04 16:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/செம்மணியில்-ஸ்கேன்-நடவடிக்கை/150-362285) · `ta`
-
-செம்மணி பகுதியில் தற்போது அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வரும் இரண்டு மனித புதைகுழிகளுக்கு மேலதிகமாக அப்பகுதியில் வேறு மனித புதைகுழிகளும் காணப்படுகின்றனவா என்பதனை கண்டறியும் நோக்குடன் ஸ்கான் நடவடிக்கைகள் திங்கட்கிழமை (04) அன்று முன்னெடுக்கப்பட்டது.
-
-ஜி.பி.ஆர். ஸ்கானர் (தரையை ஊடுருவும் ராடர்) மூலம், பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க பாதுகாப்பு அமைச்சின் அனுமதிகள் கிடைக்கப்பெறவில்லை
-
-அந்நிலையில், ஶ்ரீஜெயவர்வத்தன புர பல்கலைக்கழகத்தில் உள்ள ஸ்கானர் கருவியை யாழ் பல்கலைகழகம் ஊடாக பெற்று அதனை பயன்படுத்த நடவடிக்கை எடுக்கப்பட்டது.
-
-அந்த நடவடிக்கையை அடுத்து , திங்கட்கிழமை குறித்த ஸ்கானரை பயன்படுத்தி ஆய்வு நடவடிக்கைகள் முன்னெடுக்கப்பட்டது.
-
-அதேவேளை செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களான ஆடைகள் மற்றும் பிற பொருட்களை பொதுமக்கள் அடையாளம் காட்டும் வகையில்  நாளைய தினம் செவ்வாய்க்கிழமை செம்மணி சிந்துபாத்தி இந்து மயானத்தில் மதியம் 1.30 மணி முதல் , மாலை 5 மணி வரையில் காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/818326ce.json)
-
----
-
-### செம்மணியில் ஸ்கான் நடவடிக்கை
-
-*2025-08-04 16:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-ஸ்கான்-நடவடிக்கை/175-362285) · `ta`
-
-செம்மணி பகுதியில் தற்போது அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வரும் இரண்டு மனித புதைகுழிகளுக்கு மேலதிகமாக அப்பகுதியில் வேறு மனித புதைகுழிகளும் காணப்படுகின்றனவா என்பதனை கண்டறியும் நோக்குடன் ஸ்கான் நடவடிக்கைகள் திங்கட்கிழமை (04) அன்று முன்னெடுக்கப்பட்டது.
-
-ஜி.பி.ஆர். ஸ்கானர் (தரையை ஊடுருவும் ராடர்) மூலம், பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க பாதுகாப்பு அமைச்சின் அனுமதிகள் கிடைக்கப்பெறவில்லை
-
-அந்நிலையில், ஶ்ரீஜெயவர்வத்தன புர பல்கலைக்கழகத்தில் உள்ள ஸ்கானர் கருவியை யாழ் பல்கலைகழகம் ஊடாக பெற்று அதனை பயன்படுத்த நடவடிக்கை எடுக்கப்பட்டது.
-
-அந்த நடவடிக்கையை அடுத்து , திங்கட்கிழமை குறித்த ஸ்கானரை பயன்படுத்தி ஆய்வு நடவடிக்கைகள் முன்னெடுக்கப்பட்டது.
-
-அதேவேளை செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களான ஆடைகள் மற்றும் பிற பொருட்களை பொதுமக்கள் அடையாளம் காட்டும் வகையில்  நாளைய தினம் செவ்வாய்க்கிழமை செம்மணி சிந்துபாத்தி இந்து மயானத்தில் மதியம் 1.30 மணி முதல் , மாலை 5 மணி வரையில் காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/86e3bae9.json)
-
----
-
-### செம்மணியில் தரையை ஊடுருவி ஸ்கேன் செய்ய அனுமதி கிடைக்கவில்லை
-
-*2025-08-04 16:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/செம்மணியில்-தரையை-ஊடுருவி-ஸ்கேன்-செய்ய-அனுமதி-கிடைக்கவில்லை/150-362285) · `ta`
-
-செம்மணி பகுதியில் தற்போது அகழ்வு பணிகள் முன்னெடுக்கப்பட்டு வரும் இரண்டு மனித புதைகுழிகளுக்கு மேலதிகமாக அப்பகுதியில் வேறு மனித புதைகுழிகளும் காணப்படுகின்றனவா என்பதனை கண்டறியும் நோக்குடன் ஸ்கான் நடவடிக்கைகள் திங்கட்கிழமை (04) அன்று முன்னெடுக்கப்பட்டது.
-
-ஜி.பி.ஆர். ஸ்கானர் (தரையை ஊடுருவும் ராடர்) மூலம், பரந்துபட்ட ஸ்கான் நடவடிக்கைகளை முன்னெடுக்க பாதுகாப்பு அமைச்சின் அனுமதிகள் கிடைக்கப்பெறவில்லை
-
-அந்நிலையில், ஶ்ரீஜெயவர்வத்தன புர பல்கலைக்கழகத்தில் உள்ள ஸ்கானர் கருவியை யாழ் பல்கலைகழகம் ஊடாக பெற்று அதனை பயன்படுத்த நடவடிக்கை எடுக்கப்பட்டது.
-
-அந்த நடவடிக்கையை அடுத்து , திங்கட்கிழமை குறித்த ஸ்கானரை பயன்படுத்தி ஆய்வு நடவடிக்கைகள் முன்னெடுக்கப்பட்டது.
-
-அதேவேளை செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களான ஆடைகள் மற்றும் பிற பொருட்களை பொதுமக்கள் அடையாளம் காட்டும் வகையில்  நாளைய தினம் செவ்வாய்க்கிழமை செம்மணி சிந்துபாத்தி இந்து மயானத்தில் மதியம் 1.30 மணி முதல் , மாலை 5 மணி வரையில் காட்சிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/d0c2e22d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 17:18:38**
+As of **2025-08-05 17:32:02**
 
 ## Newspaper Stats
 
-*Scraped **68,837** Articles*
+*Scraped **68,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
 adalk | 6,630
-adaderanalk | 8,543
-tamilmirrorlk | 10,022
-virakesarilk | 11,464
-adaderanasinhalalk | 11,853
+adaderanalk | 8,547
+tamilmirrorlk | 10,023
+virakesarilk | 11,470
+adaderanasinhalalk | 11,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.0%) of 68,837 articles have been extended.
+61,973 (90.0%) of 68,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### රේගුවේ රඳවා ඇති BYD ගැන පෙත්සම 7 වනදා කැඳවයි
+
+*2025-08-05 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213050) · `si`
+
+ශ්‍රී ලංකා රේගුව මගින් රඳවාගෙන සිටින BYD විද්‍යුත් මෝටර් රථ මුදාහරින්නැයි නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් වැඩිදුර කරුණු තහවුරු කිරීම සඳහා මේ මස 07 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (05) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆර්සානා ජමීල් මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් අදාළ ආනයනික වාහන රේගුව විසින් රඳවා ගැනීමට ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බව සඳහන් කළාය.
+
+අදාළ වාහන බැංකු බැඳුම්කරයක් මත මුදාහැරීමට රේගුවට හැකියාවක් තිබෙන බවත් ඇය අධිකරණය හමුවේ පෙන්වා දුනි.
+
+මෙහිදී ශ්‍රී ලංකා රේගුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසියට ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මේ ආකාරයෙන් ආනයනය කළ වාහන 997ක් රේගුව භාරයේ පවතින බව සඳහන් කළේය.
+
+...
+
+[Data](articles/401f0087.json)
+
+---
+
+### 12 மாவட்டங்களுக்கு இந்தியா உதவி செய்ய வேண்டும்: பிரதியமைச்சர் பிரதீப்
+
+*2025-08-05 17:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/12-மாவட்டங்களுக்கு-இந்தியா-உதவி-செய்ய-வேண்டும்-பிரதியமைச்சர்-பிரதீப்/76-362354) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர்  சந்தோஷ் ஜா மற்றும்  பெருந்தோட்ட , சமூக உட்கட்டமைப்பு வசதிகள் பிரதியமைச்சர் சுந்தரலிங்கம் பிரதீப் ஆகியோருக்கிடையிலான  விசேட கலந்துரையாடல்   கொழும்பு இந்திய தூதரகத்தில், செவ்வாய்க்கிழமை (05)  இடம்பெற்றது.
+
+இதன்போது  மலையக மக்களுக்கான உதவித்திட்டங்களை ஒரு மாவட்டத்திற்கு மாத்திரம் மட்டுப்படுத்தாது மலையக மக்கள் செறிந்து வாழும் 12 மாவட்டங்களுக்கும்  வழங்குவது தொடர்பாக கலந்துரையாடப்பட்டது.
+
+இந்திய அரசாங்கம் இதுவரையில்  இலங்கைக்கு வழங்கிக் கொண்டிருக்கும் உதவிகளுக்கும் ஒத்துழைப்புகளுக்கும்  நன்றி தெரிவித்த பிரதியமைச்சர் பிரதீப், கடந்த காலங்களிலும் அவ்வாறே, நிகழ்காலத்திலும்  முன்னெடுக்கப்படுகின்ற அனைத்து வேலைத்திட்டங்களுக்கு  பெருமனம் கொண்டு வாழ்த்துவதாக இந்திய உயர்ஸ்தானிகரிடம்  தெரிவித்தார்.
+
+...
+
+[Data](articles/1f77979b.json)
+
+---
+
+### பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்யும் யோசனை நிறைவேற்றம்
+
+*2025-08-05 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/221895) · `ta`
+
+2002 ஆம் ஆண்டின் 5 ஆம் இலக்க, அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17 ஆம் பிரிவின் பிரகாரம் ரி.எம்.டபிள்யூ. தேசபந்து தென்னகோன் அவர்களைப் பொலிஸ்மா அதிபர் பதவியிலிருந்து நீக்குவதற்காக முன்வைக்கப்பட்ட தீர்மானம் இன்று செவ்வாய்க்கிழமை (05) பாராளுமன்றத்தில் பெரும்பான்மையான வாக்குகளால் நிறைவேற்றப்பட்டது.
+
+தேசபந்து தென்னக்கோனை பொலிஸ்மா அதிபர் பதவியிலிருந்து நீக்குவதற்கான தீர்மானம் மு.ப 11.30 மணி முதல் பி.ப 4.00 மணிவரை விவாதத்திற்கு எடுத்துக் கொள்ளப்பட்டது. இதனைத் தொடர்ந்து பி.ப 4.10 மணிக்கு நடத்தப்பட்ட வாக்கெடுப்பில் பாராளுமன்றத்தில் (வருகைதராத உறுப்பினர்கள் உள்ளடங்கலாக) முழு உறுப்பினர்களின் எண்ணிக்கையில் பெரும்பான்மையானவர்கள், அதாவது 177 உறுப்பினர்கள் தீர்மானத்திற்கு ஆதரவாக வாக்களித்திருந்தனர். இதற்கு அமைய பெரும்பான்மையான வாக்குகளால் இத்தீர்மானம் நிறைவேற்றப்பட்டது. வாக்கெடுப்பில் தீர்மானத்திற்கு எதிராக எந்த வாக்கும் பதிவாகவில்லை. ஒரு உறுப்பினர் வாக்களிப்பிலிருந்து தவிர்ந்துகொண்டிருந்தார்.
+
+...
+
+[Data](articles/5d35b97d.json)
+
+---
+
+### சபாநாயகருக்கும் நாமல் ராஜபக்ஷவுக்கும் இடையில் கடும் தர்க்கம்
+
+*2025-08-05 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221903) · `ta`
+
+நிலையியற் கட்டளை 98  இன்  பிரகாரம் நீதிமன்றத்தில் விவாதிக்கப்படும் வழக்கு தொடர்பான ஒரு விடயத்தை பாராளுமன்றத்தில்  விவாதத்திற்கு எடுத்துக்கொள்ள முடியாது என்று பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ குறிப்பிட்டதை தொடர்ந்து சபாநாயகருக்கும், நாமல் ராஜபக்ஷவுக்கும் இடையில் கடும்  தர்க்கம் ஏற்பட்டது.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) நடைபெற்ற அமர்வின் போது ஒழுங்கு பிரச்சினையை முன்வைத்த நாமல் ராஜபக்ஷ,
+
+நிலையியற் கட்டளை 98 எப்பின்  கீழ், நீதிமன்றத்தில் விவாதிக்கப்படும் வழக்கு தொடர்பான ஒரு விடயத்தை பாராளுமன்றத்தில் விவாதத்திற்கு எடுத்துக்கொள்ள முடியாது .
+
+தேசபந்து  விவகாரம் தொடர்பாக உயர் நீதிமன்றத்தில் 9 வழக்குகள் பரிசீலிக்கப்பட்டு வருகின்றன. எனவே நீதிமன்ற வழக்கின் முடிவு பாராளுமன்ற விவாதத்தால் பாதிக்கப்படாது என்பதை சபாநாயகர்  உறுதிபடுத்த  வேண்டும்.
+
+இதற்கு பதிலளித்த சபாநாயகர் ஜகத் விக்ரமரத்ன, தொடர்புடைய விதிகளை ஆராய்ந்த பின்னரே, பாராளுமன்றத்தில்  விவாதம் நடத்த நாள் ஒதுக்கப்பட்டது.  இதனால் பிரேரணையை விவாதத்திற்கு எடுத்துக்கொள்ள முடியும்  என்றார்.
+
+...
+
+[Data](articles/8e0c555f.json)
+
+---
+
+### சட்ட சிக்கல் நீக்கும் வரை மாகாணசபை தேர்தலை நடாத்த முடியாது - தேர்தல் ஆணைக்குழு பணிப்பாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க
+
+*2025-08-05 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/221898) · `ta`
+
+மாகாணசபை தேர்தல்கள் தொடர்பாக அரசியல் அமைப்பு ரீதியில் ஏற்பாடு காணப்பட்டு இருப்பினும் எல்லை நிர்ணயம் தொடர்பாக பிரேரணை பாராளுமன்றத்தில் சமர்ப்பித்தபோதும் அதற்கு இன்றுவரை பாராளுமன்றத்தின் அனுமதி கிடைக்காததால்   மாகாணசபை தேர்தல்களை நடாத்துவதில் சட்ட சிக்கல் காணப்படுகின்றது. எனவே அந்த சட்ட சிக்கல் நீக்கப்படும் போது தேர்தல் ஆணைக்குழுவானது மாகாண சபை தேர்தலை நடாத்த எந்த சந்தர்ப்பத்திலும் தயாராக இருக்கின்றது தேர்தல் ஆணைக்குழு பணிப்பாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+மட்டக்களப்பு மாவட்ட தேர்தல்கள் அலுவலக மாநாட்டு மண்டபத்தில் மாவட்ட உதவி தேர்தல் ஆணையாளர் சட்டத்தரணி எம்.பி.எம் சுபியான் தலைமையில் தேர்தல்கள்  ஆணைக்குழுவின் பங்களிப்பு மூலோபாயத் திட்டம் (2026-2029) தொடர்பான கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (05) இடம்பெற்றது அதன் போது கலந்து கொண்ட தேர்தல் ஆணைக்குழு பணிப்பாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/ac5a36b9.json)
+
+---
+
+### போரால் உருக்குலைந்த எமது சமூகக் கட்டமைப்பின் காரணமாக முதியோர் காப்பங்கள் தேவையாகவுள்ளன - வட மாகாண ஆளுநர் தெரிவிப்பு!
+
+*2025-08-05 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/221900) · `ta`
+
+போரால் உருக்குலைந்த எமது சமூகக் கட்டமைப்பின் காரணமாக முதியோர் நலக் காப்பங்கள் காலத்தின் தேவையாகவுள்ளன. உயிர் தந்த பெற்றோரை பராமரிப்பது பிள்ளைகளின் பொறுப்பாகவுள்ளபோதும் அது இன்றைய சூழலில் சாத்தியம் குறைந்த ஒன்றாக மாறிச் செல்கின்றது. இவ்வாறு வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் தெரிவித்தார்.
+
+பூந்தோட்டம், கோவிற்கடவை, துன்னாலை மத்தியில் 'கரவை நலவாழ்வு காப்பகம்' வடக்கு மாகாண ஆளுநரால் இன்று செவ்வாய்க்கிழமை காலை (05) திறந்து வைக்கப்பட்டது.இதன் போது உரையாற்றுகையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+புலம்பெயர் தமிழர்களில் பலர் இங்கு முதலிடுகின்றார்கள். அவர்களில் சிலர் முதலீடு செய்வதன் ஊடாக உழைத்துச் செல்ல விரும்புகின்றார்கள். பலர் அந்த முதலீடுகள் ஊடாக கிடைக்கும் உழைப்பையும் இங்கேயே திரும்பவும் முதலீடு செய்கின்றார்கள். இவ்வாறான சமூகத்துக்குத் தேவையான காப்பகங்களுக்கு முதலீடு செய்பவர்களும் இருக்கத்தான் செய்கின்றார்கள். இதைச் செய்த கதிரவேலு மனோகரன் அவர்களுக்கு வடக்கு மக்கள் சார்பில் பாராட்டுக்களைத் தெரிவித்துக்கொள்கின்றேன்.
+
+...
+
+[Data](articles/f4130e70.json)
+
+---
 
 ### කහවත්ත ඝාතන සිද්ධියේ පෙරට්ටුවට ඉදිරිපත් කළ සැකකරුවන් දෙදෙනාම හඳුනා ගනියි
 
@@ -51,6 +151,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f550ae96.json)
+
+---
+
+### சீன தூதரகத்தின் அதிகாரபூர்வ கடிதமென சமூக ஊடகங்களில் பரவுவது போலியானது - சீனதூதரகம்
+
+*2025-08-05 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/221897) · `ta`
+
+சீன தயாரிப்பு இலத்திரனியல் வாகனம் தொடர்பில் இலங்கையில் வெளியாகும் பத்திரிகைகள் மற்றும் டிஜிட்டல் ஊடகங்களில் வெளியான செய்திகள் குறித்து சீன தூதரகத்தால் கவலை வெளியிடப்பட்டதாக தெரிவித்து கடிதமொன்று  சமூக ஊடகங்களில் பகிரப்பட்டு வருகின்றது.
+
+இலங்கையிலுள்ள சீன மக்கள் குடியரசின் தூதரகத்தினால் ஆகஸ்ட் முதலாம் 2025 அன்று திகதியிடப்பட்டு கடிதம் வெளியிடப்பட்டுள்ளது.
+
+அனைத்து பிரதான ஆசிரியர்கள், டிஜிட்டல் ஊடக நிறுவனங்களின் ஆசிரியர்களுக்கு பெயரிடப்பட்டு ஊடக அமைச்சர் ஊடாக அனுப்பப்பட்டுள்ளது.
+
+அந்தக் கடிதத்தில், BYD Auto Co., Ltd., என்ற உலகளாவிய சீன நிறுவனத்தால் தயாரிக்கப்பட்ட மின்சார வாகனங்களின் இறக்குமதி மற்றும் சுங்க செயற்பாடுகள் குறித்து இலங்கையின் ஊடகங்களில் வெளியான அறிக்கைகள் குறித்து தூதரகம் தனது கடுமையான கவலையை வெளிப்படுத்துகிறது என்றும் ஊடகங்களில் வெளியான பல செய்திக் கட்டுரைகள் தொழில்நுட்ப பிழைகள், சுங்க முறைகேடுகள் மற்றும் வரி ஏய்ப்பு குறித்த ஆதாரமற்ற மற்றும் அவதூறான குற்றச்சாட்டுகளைக் கொண்டிருப்பதாக அந்தக் கடிதத்தில் மேலும் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/52abacb8.json)
+
+---
+
+### யாழ். சேந்தாங்குளம் பகுதியில் கடற்றொழிலுக்கு சென்ற இருவரை காணவில்லை!
+
+*2025-08-05 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/221891) · `ta`
+
+யாழ்ப்பாணம்  - சேந்தாங்குளம் பகுதியில் இருந்து கடற்றொழிலுக்கு சென்ற இருவர் காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நேற்று திங்கட்கிழமை (05) படகில் கடற்றொழிலுக்காக சென்ற இருவரும் இதுவரை வீடு திரும்பவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+இது தொடர்பாக காணாமல் போனவர்களை தேடும் நடவடிக்கைகள் தற்போது முன்னெடுக்கப்பட்டு வருகின்றன. இதில் மேற்கண்ட பகுதியில் உள்ள மீனவர்கள் மற்றும் கடற்படையினர் இணைந்து தேடுதல் பணியில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e91d8ea6.json)
 
 ---
 
@@ -77,6 +211,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5e2c48e9.json)
+
+---
+
+### Resolution for removal of Deshabandu from IGP post passed in Parliament
+
+*2025-08-05 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111200/resolution-for-removal-of-deshabandu-from-igp-post-passed-in-parliament) · `en`
+
+The Resolution for the removal of Mr. Deshabandu Tennakoon from the office of the Inspector-General of Police (IGP) has been passes in the Parliament.
+
+A total of 177 members voted in favour of the motion while there were no votes against it. A single Member of Parliament had abstained from voting.
+
+The vote was taken this evening after the Resolution for the removal of Deshabandu Tennakoon from the office of the IGP, in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, was taken up for debate today (5).
+
+The debate commenced this morning following the presentation of the motion by Speaker Dr. Jagath Wickramaratne to the House.
+
+Accordingly, Minister of Public Security and Parliamentary Affairs Ananda Wijepala commenced the debate on behalf of the government.
+
+Parliament continued the debate on the resolution until 4.00 p.m. followed by a vote on the resolution which required a simple majority of votes in favour — that is 113 MPs —  for passage.
+
+...
+
+[Data](articles/8f2a82a3.json)
 
 ---
 
@@ -130,6 +286,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 11 Indians remanded over alleged online gambling racket
+
+*2025-08-05 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111199/11-indians-remanded-over-alleged-online-gambling-racket) · `en`
+
+Eleven Indian nationals who were arrested by Thalangama Police for allegedly engaging in illegal online gambling activities in the country have been remanded until August 07 by the Kaduwela Magistrate’s Court.
+
+Acting on a tip-off, a team of officers from the Thalangama Police Station conducted a raid last night (04) in the Akuregoda area of Thalangama.
+
+During the operation, eight males and three females, all Indian nationals, were apprehended for allegedly engaging in illegal online gambling using computers and mobile devises.
+
+Police also seized 20 mobile phones, three laptop computers, and one tablet device as evidence.
+
+The female suspects are aged 22, 30, and 43, while the male suspects are Indian nationals aged 25, 26, 27, and 29.
+
+◼️
+
+[Data](articles/d404da25.json)
+
+---
+
 ### හරක් කටා, මිදිගම රුවන් ඇතුළු පහකට අධි චෝදනා
 
 *2025-08-05 16:08:52* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටා--මිදිගම-රුවන්-ඇතුළු-පහකට-අධි-චෝදනා/11-417733) · `si`
@@ -165,6 +341,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3d4c6f42.json)
+
+---
+
+### Chinese Embassy says letter to Sri Lankan media heads is ‘fake’
+
+*2025-08-05 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111198/chinese-embassy-says-letter-to-sri-lankan-media-heads-is-fake-) · `en`
+
+The Embassy of China in Sri Lanka has confirmed that the letter circulating on social media, with the embassy’ letterhead and with the signature of the Chinese Ambassador, allegedly addressed to heads of local media organisations is a fake letter.
+
+A letter dated August 01, 2025 and addressed to all Editors-in-Chief of national and digital media institutions with the title “Serious Concerns Over Misleading Media Coverage of Chinese Enterprises” has been widely circulated on social media.
+
+The letter, which also displays the Chinese Ambassador’s signature and the embassy seal, expresses “serious concern regarding a recent spate of media reports surrounding the importation and customs processing of electric vehicles” manufactured by a Chinese enterprise.
+
+However, when inquired by Ada Derana regarding the veracity of the letter, the Chinese Embassy in Colombo confirmed that the letter in question is fake.
+
+◼️
+
+[Data](articles/d062f136.json)
 
 ---
 
@@ -403,6 +597,22 @@ Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.
 ...
 
 [Data](articles/a2767190.json)
+
+---
+
+### PM briefs Chief Prelates of Amarapura and Ramanna chapters on education reforms
+
+*2025-08-05 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111197/pm-briefs-chief-prelates-of-amarapura-and-ramanna-chapters-on-educationreforms) · `en`
+
+The Chief Prelates of the Sri Lanka Amarapura and the Ramanna chapters have emphasized to the Prime Minister Dr. Harini Amarasuriya that contributing to the new education reforms is not merely a change confined to the education sector, but one that can bring about a constructive transformation for the entire nation, making it a national responsibility of the Maha Sangha.
+
+A special discussion to brief the Chief Prelates of the Amarapura and Ramanna chapters about the new education reforms was held at the headquarters of the Sri Lanka Ramanna Maha Nikaya, with the participation of the Prime Minister, according to the Prime Minister’s Media Division.
+
+During the event, the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kaluwewa, presented a comprehensive explanation to the Chief Prelates on the national significance of the new education reforms, the curriculum structure, assessment procedures, and the intended objectives of the reforms.
+
+...
+
+[Data](articles/39ca005d.json)
 
 ---
 
@@ -906,13 +1116,19 @@ The Cabinet of Ministers has granted approval to appoint a new Delimitation Comm
 
 ---
 
-### MPs Rs. 1 million insurance coverage to be reduced
+### MPs’ Rs. 1 million insurance coverage to be slashed
 
 *2025-08-05 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111190/mps-rs-1-million-insurance-coverage-to-be-reduced) · `en`
 
-The Cabinet of Ministers has granted approval to the proposal presented to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
+The Cabinet of Ministers has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to reduce the insurance coverage limit granted for Members of Parliament from Rs. 1 million to Rs. 250,000.
 
-The Cabinet paper in this regard has been presented by the Minister of Public Security and Parliamentary Affairs.
+At the Cabinet meeting held on 15-05-2023, approval was granted to implement a group insurance policy subject to a maximum insurance coverage of Rs. 1 million per parliamentary year.
+
+Accordingly, relevant insurance policies have been provided over the past period.
+
+During the 2025 Budget Speech, President Anura Kumara Dissanayake proposed reducing the insurance cover limit of Rs. 1,000,000 to Rs. 250,000.
+
+Following this, the Cabinet of Ministers has approved the revised insurance limit of Rs. 250,000 for a Member of Parliament from the insurance year scheduled to commence on October 09, 2025.
 
 ◼️
 
@@ -1589,211 +1805,5 @@ Subsequent investigations revealed information of a stock of 310 grams of ice, w
 ...
 
 [Data](articles/01e287ae.json)
-
----
-
-### Sri Lanka is clearing AliExpres, Temu goods with border taxes, no de minimis
-
-*2025-08-05 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-is-clearing-aliexpres-temu-goods-with-border-taxes-no-de-minimis-234668/) · `en`
-
-ECONOMYNEXT – Sri Lanka is now charging all taxes on foreign parcels coming from online platforms and backlogs have also been cleared, without any de minimis exemptions being given Customs officials said.
-
-“We have cleared all the backlogs,” Additional Customs Director General, Seevali Arukgoda told the parliament’s Committee on Public Finance.
-
-“At the moment individual items are charged on the HS Code. We gave technical advice to the companies that are importing. Now they are being cleared daily.
-
-Before the crisis about 1 to 2 billion rupees of revenues was earned and about 4 to 5 tonnes arrived daily, another customs official said.
-
-Daily shipments have stopped and now shipments are coming weekly about three times, he said.
-
-“They have minimized costs and changed their strategies,” the person said.
-
-He said there the backlog was partly due to a delay in the relevant companies getting approval from their platforms to pay the higher taxes.
-
-...
-
-[Data](articles/6a3c407c.json)
-
----
-
-### ’’டமால் டுமீல்’’
-
-*2025-08-05 10:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/டமால்-டுமீல்/62-362322) · `ta`
-
-◼️
-
-[Data](articles/56c9dadd.json)
-
----
-
-### නිත්‍යානුකූලව ඉවත් නොවූ ත්‍රිවිධ හමුදාවේ 3500කට වැඩි පිරිසක් අත්අඩංගුවට
-
-*2025-08-05 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213032) · `si`
-
-නීත්‍යානුකූල නොවන ආකාරයෙන් සේවය හැරගොස් සිටි ත්‍රිවිද හමුදා සමාජිකයින් 3,500කට වැඩි පිරිසක් අත්අඩංගුවට ගෙන ඇති බව ආරක්ෂක අමාත්‍යංශය පවසයි.
-
-එම අමාත්‍යංශය පෙන්වා දෙන්නේ පසුගිය පෙබරවාරි මස 22 වන සිට අගෝස්තු මස 3 වන දින දක්වා කාලය තුළ සිදුකළ මෙහෙයුම්වල දී සේවය හැරගොස් සිටි ත්‍රිවිද හමුදා සාමජිකයින් 3,504 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බවය.
-
-අත්අඩංගුවට ගත් පිරිස අතර යුද හමුදා සෙබලුන් 2,937 දෙනෙකු වන බව සඳහන් වේ.
-
-ඊට අමතරව නාවික හමුදා සෙබලුන් 289 දෙනෙකු සහ ගුවන් හමුදා සෙබලුන් 278 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව ආරක්ෂක අමාත්‍යංහය සඳහන් කළේය.
-
-නීත්‍යානුකූලව සේවයෙන් ඉවත් නොවු ත්‍රිවිද හමුදාව හැරගොස් සිටින සාමාජිකයින් සඳහා හමුදාවට භාරවීමට පසුගිය වසරේ පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබු අතර එම කාලය තුළ භාර නොවු පිරිස් අත්අඩංගුවට ගැනීම සඳහා පසුගිය පෙබරවාරි මස 22 වන දින සිට මෙහෙයුම් ක්‍රියාත්මක කරනු ලබයි.
-
-◼️
-
-[Data](articles/a9435d2f.json)
-
----
-
-### மட்டு. யானை தாக்குதலில் இளம் தாய் பலி
-
-*2025-08-05 10:14:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-யானை-தாக்குதலில்-இளம்-தாய்-பலி/175-362321) · `ta`
-
-மட்டக்களப்பு ஆயித்தியமலை பொலிஸ் பிரிவிலுள்ள மகிழவெட்டுவான் பகுதியில் யானை தாக்குதலில் இளம் தாயார் ஒருவர் உயிரிழந்ததுடன் 3 வயது குழந்தை தெய்வாதீனமாக உயிர் தப்பிய சம்பவம் திங்கட்கிழமை (04) அன்று இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மகிழவெட்டுவானை சேர்ந்த 35 வயதுடைய ரவிச்சந்திரன் பசுபதி என்பவரே இவ்வாறு பரிதாபகரமாக உயிரிழந்துள்ளார்.
-
-குறித்த பிரதேசத்தில் வீட்டின் முற்றத்தில் சம்பவதினமான திங்கட்கிழமை (04) அன்று இரவு 7.00 மணியளவில் தனது 3 வயது பெண் குழந்தையுடன் தாய் இருந்துள்ள நிலையில்  குடிமனைக்குள் உட்புகுந்த யானை அவர்கள் மீது தாக்கியதில் தாயார் சம்பவ இடத்திலே உயிரிழந்ததுடன் குழந்தை தெய்வாதீனமாக உயிர் தப்பினார்.
-
-இதையடுத்து உயிர் தப்பிய குழந்தையை மீட்டதுடன் உயிரிழந்தவரின் சடலத்தை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/432757c3.json)
-
----
-
-### யானை தாக்குதலில் இளம் தாய் பலி: குழந்தை தப்பியது
-
-*2025-08-05 10:14:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்குதலில்-இளம்-தாய்-பலி-குழந்தை-தப்பியது/175-362321) · `ta`
-
-யானை தாக்குதலில் இளம் தாயார் ஒருவர் உயிரிழந்ததுடன் 3 வயது குழந்தை தெய்வாதீனமாக உயிர் தப்பிய சம்பவம் மட்டக்களப்பு ஆயித்தியமலை பொலிஸ் பிரிவிலுள்ள மகிழவெட்டுவான் பகுதியில் திங்கட்கிழமை (04) அன்று இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மகிழவெட்டுவானை சேர்ந்த 35 வயதுடைய ரவிச்சந்திரன் பசுபதி என்பவரே இவ்வாறு பரிதாபகரமாக உயிரிழந்துள்ளார்.
-
-குறித்த பிரதேசத்தில் வீட்டின் முற்றத்தில் சம்பவதினமான திங்கட்கிழமை (04) அன்று இரவு 7.00 மணியளவில் தனது 3 வயது பெண் குழந்தையுடன் தாய் இருந்துள்ள நிலையில்  குடிமனைக்குள் உட்புகுந்த யானை அவர்கள் மீது தாக்கியதில் தாயார் சம்பவ இடத்திலே உயிரிழந்ததுடன் குழந்தை தெய்வாதீனமாக உயிர் தப்பினார்.
-
-இதையடுத்து உயிர் தப்பிய குழந்தையை மீட்டதுடன் உயிரிழந்தவரின் சடலத்தை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/b1ac4d1c.json)
-
----
-
-### யாழில் 23 மில்லியன் மதிப்புள்ள ஈரமான  கஞ்சா மீட்பு
-
-*2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-ஈரமான-கஞ்சா-மீட்பு/175-362318) · `ta`
-
-யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்பு அருகே இலங்கை கடற்படை நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, சுமார் நூற்று இரண்டு (102) கிலோ கிராம் மற்றும்  350) கிராம்  ஈரமான எடை ) கேரள கஞ்சா, இருபத்தி மூன்று (23) மில்லியன் ரூபாயை விட அதிகமான தெரு மதிப்புள்ள ஒரு தொகையை கடற்படையனர் திங்கட்கிழமை (04) அன்று கைப்பற்றினர்.
-
-அதன்படி, யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி களப்புக்கு அருகிலுள்ள பகுதியில் வடக்கு கடற்படை கட்டளையின் வெத்தலக்கேணி கடற்படை நிலையம் நடத்திய இந்த சிறப்பு தேடுதல் நடவடிக்கையின் போது, அப்பகுதியில் உள்ள ஒரு புதரில் வைக்கப்பட்டிருந்த இரண்டு (02) சந்தேகத்திற்கிடமான பொதிகள் அவதானிக்கப்பட்டு ஆய்வு செய்யப்பட்டன. அப்போது,பொதிகளில் அடைக்கப்பட்டிருந்த நூற்று இரண்டு (102) கிலோகிராம் முந்நூற்று ஐம்பது (350) கிராம் (ஈரமான எடை) கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டது.
-
-...
-
-[Data](articles/00d7fd97.json)
-
----
-
-### யாழில் 23 மில்லியன் மதிப்புள்ள கேரள கஞ்சா மீட்பு
-
-*2025-08-05 09:59:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-23-மில்லியன்-மதிப்புள்ள-கேரள-கஞ்சா-மீட்பு/175-362318) · `ta`
-
-யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி கழப்பு அருகே இலங்கை கடற்படை நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, சுமார் நூற்று இரண்டு (102) கிலோகிராம் மற்றும் முந்நூற்று ஐம்பது (350) கிராம் (ஈரமான எடை) கேரள கஞ்சா, இருபத்தி மூன்று (23) மில்லியன் ரூபாயை விட அதிகமான தெரு மதிப்புள்ள ஒரு தொகையை கடற்படையனர் திங்கட்கிழமை 04 அன்று கைப்பற்றினர்.
-
-அதன்படி, யாழ்ப்பாணம், கடைக்காடு, அலியாவேலி கழப்புக்கு அருகிலுள்ள பகுதியில் வடக்கு கடற்படை கட்டளையின் வெத்தலக்கேணி கடற்படை நிலையம் நடத்திய இந்த சிறப்பு தேடுதல் நடவடிக்கையின் போது, அப்பகுதியில் உள்ள ஒரு புதரில் வைக்கப்பட்டிருந்த இரண்டு (02) சந்தேகத்திற்கிடமான பொதிகள் அவதானிக்கப்பட்டு ஆய்வு செய்யப்பட்டன. அப்போது,பொதிகளில் அடைக்கப்பட்டிருந்த நூற்று இரண்டு (102) கிலோகிராம் முந்நூற்று ஐம்பது (350) கிராம் (ஈரமான எடை) கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டது.
-
-...
-
-[Data](articles/2da4ba92.json)
-
----
-
-### Prices of luxury watches in US rise after Trump’s Swiss tariffs
-
-*2025-08-05 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111179/prices-of-luxury-watches-in-us-rise-after-trumps-swiss-tariffs) · `en`
-
-Switzerland’s watch industry is facing a threat to sales after Donald Trump said he would impose 39 per cent tariffs on the country, raising the prospect of significantly higher prices in one of its biggest markets.
-
-The elevated levy will push prices up for US consumers and hit volumes at some brands, analysts warned. The US accounted for 16.8 per cent of Swiss watch exports in 2024, worth roughly SFr4.4bn (US$5.4 billion, S$6.96 billion).
-
-Swiss manufacturers The Swatch Group and Richemont, as well as London-listed Watches of Switzerland, a big Rolex and Patek Philippe dealer, all face “pain” if tariffs kick in next week as planned, Jefferies said.
-
-At 39 per cent, the levy exceeds the 31 per cent proposed by Trump on “liberation day” in April, and far outstrips the 15 per cent facing Switzerland’s EU neighbours. Even at the lower rate, some retailers previously said they would need price rises “in the mid to high teens” to preserve US gross profit, according to Jefferies.
-
-...
-
-[Data](articles/92eb5b11.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds steady
-
-*2025-08-05 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-234664/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/95 to the US dollar in the spot market Tuesday, stronger from 301.00/03 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2028 was quoted flat at 8.85/90 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.35/37 percent, down from 9.38/40 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.25/30 percent. (Colombo/Aug5/2025)
-
-◼️
-
-[Data](articles/b8067dfc.json)
-
----
-
-### மாதுரு ஓயா தேசிய பூங்காவில் தோல் உரிக்கப்பட்ட சிறுத்தையின் சடலம் மீட்பு
-
-*2025-08-05 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221838) · `ta`
-
-மாதுரு ஓயா தேசிய பூங்காவில் தோல் உரிக்கப்பட்ட சிறுத்தையின் சடலம் ஒன்றை திங்கட்கிழமை (04) வனஜீவராசிகள் பாதுகாப்புத் திணைக்கள அதிகாரிகள் மீட்டுள்ளனர்.
-
-லியோபோகான் (LEOPOCON Sri Lanka) எனப்படும் இலாப நோக்கற்ற அமைப்பு எக்ஸ் தளத்தில் பதிவிட்ட பதிவின் அடிப்படையிலேயே சிறுத்தையின் சடலம் மீட்கப்பட்டுள்ளது.
-
-மாதுரு ஓயா தேசிய பூங்காவில் இந்த சிறுத்தையின் சடலம் கிடந்ததாகவும், இவ் வருடத்தின் நடுப்பகுதி வரை 14 சிறுத்தைகள் வேட்டையாடப்பட்டுள்ளது என லியோபோகான் என தெரிவித்துள்ளது.
-
-சில தினங்களுக்கு முன்பு கொத்மலை, கட்டுகித்துல பகுதியில் ஒரு வயதான ஆண் சிறுத்தை இறந்து கிடந்த நிலையில் கண்டுபிடிக்கப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/38e28620.json)
-
----
-
-### 'තෙබුවන බිංදු' ලක්ෂ 50ක අයිස් මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට
-
-*2025-08-05 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213031) · `si`
-
-ඊසි කෑෂ් ක්‍රමයට අයිස් මත්ද්‍රව්‍ය ජාවාරමක් පවත්වාගෙන ගිය 'තෙබුවන බිංදු' නැමති පුද්ගලයාව තෙබුවන පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
-
-තෙබුවන, හොරණ, මතුගම, අඟුරුවාතොට ප්‍රදේශ ඉලක්ක කර ගනිමින් ඉතා සූක්ෂම ලෙස මෙම ජාවාරම සිදුකර ඇති අතර, පොලීසියට ලද තොරතුරක් මත මෙම වැටලීම සිදුකර තිබුණි.
-
-තෙබුවන පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සේනාධිරගේ දර්ශන මහතාගේ උපදෙස් පරිදි විශේෂ පොලිස්‌ කණ්‌ඩායමක් ප්‍රදේශයේ ආවේක්ෂණ රාජකාරී සඳහා යොදවා සිටියදී මෙම අයිස් ද්‍රව්‍ය ජාවාරමට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමෙන් පසුව සිදුකළ විමර්ශනයේ දී මෙම සැකකරුව දෙල්ගොඩ පන්සල අසලදී අයිස් ග්‍රෑම් 15ක් සමග අත්අඩංගුවට ගෙන ඇත.
-
-මෙම සැකකරු සම්බන්ධයෙන් මතුගම මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කිරීමෙන් අනතුරුව මතුගම මහෙස්ත්‍රාත්වරයාගේ උපදෙස් මත දින හතක් රඳවාගෙන ප්‍රශ්න කිරීමට තෙබුවන පොලීසියට අවසර ලබාදී තිබුණි.
-
-...
-
-[Data](articles/4bd95320.json)
-
----
-
-### Kerala cannabis valued over Rs. 23 million seized in Jaffna
-
-*2025-08-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111178/kerala-cannabis-valued-over-rs-23-million-seized-in-jaffna) · `en`
-
-A stock of 102 kilograms and 700 grams of Kerala cannabis has been seized by the Sri Lanka Navy during a search operation conducted in Kadeikadu, Jaffna.
-
-The gross street value of the stock of Kerala cannabis is believed to exceed Rs. 23 million, the Navy stated.
-
-The seized stock of Kerala cannabis has been handed over to the Maradankerni Police for onward legal action.
-
-◼️
-
-[Data](articles/45ce9407.json)
 
 ---

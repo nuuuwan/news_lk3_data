@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-05 15:37:26**
+As of **2025-08-05 15:51:28**
 
 ## Newspaper Stats
 
-*Scraped **68,818** Articles*
+*Scraped **68,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 597
 bbccomsinhala | 677
 colombotelegraphcom | 704
-economynextcom | 4,197
+economynextcom | 4,198
 islandlk | 4,204
 dailymirrorlk | 4,733
 dailyftlk | 4,849
-adalk | 6,625
+adalk | 6,626
 adaderanalk | 8,541
-tamilmirrorlk | 10,019
+tamilmirrorlk | 10,020
 virakesarilk | 11,461
 adaderanasinhalalk | 11,848
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 11,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (90.1%) of 68,818 articles have been extended.
+61,973 (90.0%) of 68,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-05 (Tuesday)
+
+### ஆக்‌ஷன் அவதாரத்தில் விஜயகாந்த் கலக்கிய ’கேப்டன் பிரபாகரன்’ ரீ-ரிலீஸ்
+
+*2025-08-05 15:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆக்-ஷன்-அவதாரத்தில்-விஜயகாந்த்-கலக்கிய-கேப்டன்-பிரபாகரன்-ரீ-ரிலீஸ்/54-362350) · `ta`
+
+கடந்த 1991-ல் கேப்டன் பிரபாகரன் 120 திரையரங்குகளில் வெளியான நிலையில், தற்போது 500 திரையரங்குகளில் 4K தொழில்நுட்பத்தில் ரீ-ரிலீஸ் செய்யப்படுகிறது
+
+நடிகர் விஜயகாந்தை இன்றளவும் அவரது ரசிகர்களும், தொண்டர்களும் கேப்டன் என்று அழைப்பதற்கு மிகவும் முக்கிய காரணம் 1991-ல் வெளியான ’கேப்டன் பிரபாகரன்’ திரைப்படம் ஆகும்.
+
+அந்த வகையில் இன்றைய தலைமுறையினர் கொண்டாடும் வகையில் வரும் ஆகஸ்ட் 22 ஆம் திகதி ரீ-ரிலீஸ் செய்யப்படவுள்ளது கேப்டன் பிரபாகரன் திரைப்படம். அதிநவீன தொழில்நுட்பத்தில் புத்தம் புது திரைப்படத்திற்கு இணையாக புதுப்பிக்கப்பட்டு, 4K தரத்தில் திரையிடப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+தமிழ் சினிமாவில் நடிகர்களுக்கு நூறாவது படம் என்பது ஒரு மைல்கல்லாக பார்க்கப்படுகிறது. ஆனால் உச்ச நடிகர்களுக்கு அவர்களது 100-வது படம் வசூல் ரீதியாக தோல்வி படமாக அமைந்த வரலாறு உள்ளது. ரஜினிகாந்தின் நூறாவது திரைப்படமானது ராகவேந்திரா (1985) விமர்சனரீதியாக நல்ல வரவேற்பை பெற்றது. இருந்தாலும் கமர்ஷியல் ஹீரோவாக ரஜினிக்கு வசூல் ரீதியாக சறுக்கலை சந்தித்தது.
+
+...
+
+[Data](articles/65a6081b.json)
+
+---
+
+### Sri Lanka stocks close down amidst selling pressure, profit taking
+
+*2025-08-05 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-selling-pressure-profit-taking-234740/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange was weighed down on Tuesday by selling pressure on John Keells Holdings and profit taking in diversified financials, brokers said.
+
+“There was profit taking in specific counters that moved up significantly in the last few days, particularly in the diversified financials such as Commercial Credit,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+Selling pressure in John Keells Holdings also dragged the market down, he said.
+
+The ASPI closed down 0.34 percent, or 68.23 points, at 19,718.
+
+The S&P SL20 closed down 0.21 percent, or 12.34 points, at 5,845.27.
+
+Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.50 rupees, Melstacorp which closed down 1.50 rupees at 155.00, DFCC Bank which closed down 1.50 rupees at 153.75, Vallibel One which closed down 2.10 rupees at 90.70, and Commercial Bank which closed down 0.75 rupees at 173.25.
+
+...
+
+[Data](articles/de3108a5.json)
+
+---
 
 ### 'கிங்டம்' படத்தை எதிர்த்து திரையரங்கு முற்றுகை
 
@@ -976,6 +1016,24 @@ The arrested officer is scheduled to be presented before the Walapane Magistrate
 
 ---
 
+### මගේ මේ රටයි සුන්දර බලනු මැන සකී.....
+
+*2025-08-05 11:16:12* · [`adalk`](https://www.ada.lk/picture_story/මගේ-මේ-රටයි-සුන්දර-බලනු-මැන-සකී-----/10-417730) · `si`
+
+මේ දිනවල පවතින වැසි රහිත කාලගුණික තත්ත්වය නිසාවෙන් කලා බළලු වැවේ ජලය විශාල වශයෙන්ම සිඳී ගොස් තිබේ ,සිදී ගිය වැව් තාවුල්ලේ සරුසාරව බෙරු තණ වැඩීමත් සමඟ අලි ඇතුන් තුන් සියයකට අධික පිරිසක් මේ දිනවල කලා බළලු වැවේ තෘණ උලා කෑම දැකගැනීමට හැකි වී තිබේ.
+
+උදෑසන දහයට පමණ ස්ථාන කිහිපයකින් කලා බලලු වැවට ඇතුළුවන ලොකු කුඩා මහලු  වන අලින් සහ ඇතුන් දවස පුරා වැව් පිට්ටනියේ ඇවිදිමින් තම පාදයෙන් බෙරු තන ගලවාගෙන වැලි ඉවත් කොට ආහාරයට ගනී , සවස් වන විට මෙම කණ්ඩායම් කලා බලලු වැවේ වතුර බීපු නැවතත් ස්ථාන මාරු කර ගනිමින් ආහාර ගැනීම සිදුකරති.
+
+මෙම අලි ඇතුන් වැව් පිටියේ ඉතා සතුටින් සිටින දසුන් ද දැකගැනීමට හැකිය
+
+බෝව තැන්න ජලාශ භාර ඉංජිනේරු බුද්ධික මහේෂ් නවරත්න මහතා සඳහන් කළේ මේ දිනවලින් කලා වැවේ බළලු වැවේ මෙන්ම කණ්ඩලම ජලාශය ද ජලය සීඝ්රයෙන් අඩුවෙමින් පවතින බවය.
+
+...
+
+[Data](articles/e8947a08.json)
+
+---
+
 ### காசாவை முழுமையாக கைப்பற்றுமாறு பெஞ்சமின் நெட்டன்யாகு இஸ்ரேலிய படையினருக்கு உத்தரவிடவுள்ளார் - சிஎன்என்
 
 *2025-08-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/221853) · `ta`
@@ -1767,59 +1825,5 @@ Donald Trump has used Bolsonaro’s trial, which he calls a “witch-hunt”, as
 ...
 
 [Data](articles/5ca137c7.json)
-
----
-
-### ඉහළ පොලිස් නිලධාරීන් පිරිසකට ස්ථාන මාරුවීම්
-
-*2025-08-05 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213026) · `si`
-
-ජාතික පොලිස් කොමිශන් සභාවේ අනුමැතියට අනුව ඉහළ පොලිස් නිලධාරීන් පිරිසකට ස්ථාන මාරුවීම් ලබා දී තිබේ.
-
-වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් සේවා අවශ්‍යතා මත මෙම ස්ථාන මාරුවීම් ලබාදී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී උදයකුමාර වුට්ලර් මහතා සඳහන් කළේය.
-
-ඒ අනුව ජ්‍යෙෂ්ඨ පොලිස් අධීකාරීවරුන්, පොලිස් අධිකාරීවරුන් සහ සහකාර පොලිස් අධිකාරීවරුන් පිරිසකට මෙලෙස ස්ථාන මාරුවීම් ලබා දී ඇත.
-
-◼️
-
-[Data](articles/a0c52772.json)
-
----
-
-### අන්තර්ජාලයෙන් සූදු සෙල්ලම් කළ විදෙස් ජාතිකයින් 11ක් මාට්ටු
-
-*2025-08-05 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213025) · `si`
-
-අන්තර්ජාලය ඔස්සේ මුදල් ඔට්ටුවට සූදු සෙල්ලම් කළ විදේශ ජාතික සැකකරුවන් 08ක් හා සැකකාරියන් 03ක් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (04) රාත්‍රී කාලයේ තලංගම, අකුරේගොඩ ප්‍රදේශයේදී තලංගම පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීමක් සිදුකර තිබුණි.
-
-එහිදී පරිගණක හා ජංගම දුරකථන උපයෝගී කර ගනිමින් අන්තර්ජාලය ඔස්සේ මුදල් ඔට්ටුවට සූදු සෙල්ලම් කළ විදේශ ජාතික සැකකරුවන් 08 දෙනෙකු හා සැකකාරියන් තිදෙනෙකු ජංගම දුරකථන 20ක්, ලැප්ටොප් පරිගණක 03ක් හා ටැබ් යන්ත්‍රයක් සමග අත්අඩංගුවට ගෙන ඇත.
-
-සැකකාරියන් අවුරුදු 22, 30 හා 43 යන වයස්වල හා සැකකරුවන් අවුරුදු     25, 26, 27 හා 29 වයස්වල පසුවන ඉන්දීය ජාතිකයින් වේ.
-
-◼️
-
-[Data](articles/e37b202a.json)
-
----
-
-### 11 Indian nationals arrested in Thalangama over online gambling racket
-
-*2025-08-05 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111171/11-indian-nationals-arrested-in-thalangama-over-online-gambling-racket) · `en`
-
-A total of 11 Indian nationals have been arrested by the Thalangama Police for allegedly engaging in online gambling activities.
-
-Based on a tip-off, a team of officers from the Thalangama Police Station carried out a raid last night (04) in Akuregoda, Thalangama.
-
-During the raid, eight males and three females were arrested for engaging in gambling activities using computers and mobile phones.
-
-Officers also seized 20 mobile phones, three laptop computers, and a tablet device.
-
-The female suspects are aged 22, 30, and 43, while the male suspects are Indian nationals aged 25, 26, 27, and 29.
-
-◼️
-
-[Data](articles/0e177391.json)
 
 ---

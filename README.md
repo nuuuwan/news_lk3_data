@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 17:54:31**
+As of **2025-08-06 18:11:24**
 
 ## Newspaper Stats
 
-*Scraped **69,087** Articles*
+*Scraped **69,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,28 +13,102 @@ dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
 islandlk | 4,215
-economynextcom | 4,218
+economynextcom | 4,219
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,653
-adaderanalk | 8,583
+adaderanalk | 8,584
 tamilmirrorlk | 10,087
-virakesarilk | 11,500
-adaderanasinhalalk | 11,889
+virakesarilk | 11,501
+adaderanasinhalalk | 11,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,087 articles have been extended.
+61,973 (89.7%) of 69,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
 
-### நிசாந்தஉலுகேதன்ன கடற்படை புலனாய்வு பிரிவிற்கு பொறுப்பாகயிருந்த காலத்தில்  திருகோணமலை தளத்திற்குள் சுதந்திரமாக நடமாடிய வெள்ளை வான்கள் - சித்திரவதைகள் ,  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம்
+### ගණේමුල්ලෙන් සැක සහිත සුපිරි ජීප් රථයක් සොයාගනී
 
-*2025-08-06 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221977) · `ta`
+*2025-08-06 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213097) · `si`
+
+නීතිවිරෝධි ලෙස එකලස් කරන ලද රුපියල් කෝටි 03ක පමණ වටිනාකමකින් යුත් සුඛෝපභෝගි ජීප් රථයක් ගණේමුල්ල ප්‍රදේශයේ දී සොයාගෙන තිබේ.
+
+වලාන මධ්‍යම දුෂණ මර්දන ප්‍රහාරක බළකායට ලද තොරතුරක් මත සිදුකළ වැටලීමකදී මෙම ජීප් රථය සොයාගෙන ඇති බව සඳහන් වේ.
+
+සොයාගත් ජීප් රථය එම ප්‍රදේශයේ පිහිටි ප්‍රසිද්ධ ගරාජ් හිමිකරුවෙකු සතුව තිබී සොයාගෙන ඇති බව වාර්තා වෙයි.
+
+සොයාගත් ජීප් රථය වැඩිදුර විමර්ශන කටයුතු සඳහා ගණේමුල්ල පොලීසිය වෙත භාරදී ඇත.
+
+◼️
+
+[Data](articles/d7b1f816.json)
+
+---
+
+### Sri Lanka’s Senkadagala Finance retains ‘BBB(lka)’ rating from Fitch
+
+*2025-08-06 17:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-senkadagala-finance-retains-bbblka-rating-from-fitch-235074/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has affirmed Sri Lanka finance company Senkadagala Finance’s National Long-Term Rating of ‘BBB(lka)’ based on its ‘adequate’ capitalisation, diversified funding base, and improving asset quality, but added risk from increasing exposure to riskier customer segments and vehicle classes.
+
+“We expect Senka to maintain focus on vehicle financing, which accounted for over 85% of total loans at the end of the financial year to March 2025 (FY25).”
+
+However, the mix within this segment is shifting towards two- and three-wheeler financing introducing greater asset quality risk, the ratings agency noted.
+
+Margin lending in the non-vehicle financing portfolio rose to around 6 percent of total loans by FYE25, which exposes Senka to increased market risks due to equity price volatility, Fitch said.
+
+Fitch Ratings – Colombo – 05 Aug 2025: Fitch Ratings has affirmed Sri Lanka-based Senkadagala Finance PLC’s (Senka) National Long-Term Rating at ‘BBB(lka)’ with a Stable Outlook. ‘.
+
+...
+
+[Data](articles/bbcf598e.json)
+
+---
+
+### විදුලිබල සංශෝධන පනත් කෙටුම්පත සම්මත කරයි
+
+*2025-08-06 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213095) · `si`
+
+ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත තෙවන වර කියවා සංශෝධන සහිතව අද (06) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
+
+පනත් කෙටුම්පත දෙවනවර කියවීමේ ඡන්ද විමසීමේදී පක්ෂව ඡන්ද 121ක් සහ විරුද්ධව ඡන්ද 25ක් ලැබී තිබුණි. ඒ අනුව පනත් කෙටුම්පත දෙවනවර කියවීම වැඩි ඡන්ද 96කින් සම්මත විය.
+
+◼️
+
+[Data](articles/be104436.json)
+
+---
+
+### Third Reading of Sri Lanka Electricity (Amendment) Bill passed in Parliament
+
+*2025-08-06 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111241/second-reading-of-sri-lanka-electricity-amendment-bill-passed-in-parliament) · `en`
+
+The Third Reading of the Sri Lanka Electricity (Amendment) Bill, was passed in Parliament, with a majority of 96 votes this evening (6).
+
+A total of 121 MPs voted in favour of the bill while 25 voted against it.
+
+The third reading of the Sri Lanka Electricity (Amendment) Bill is currently underway and will be followed by the third reading vote.
+
+The Bill, which was presented in Parliament earlier this year by the government, was also challenged in the Supreme Court following petitions filed by several parties including the Ceylon Electricity Board Engineers’ Union.
+
+Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
+
+On June 30, the Deputy Speaker Dr. Rizvie Salih informed the parliament that several clauses in the proposed legislation have been found to be inconsistent with the Constitution.
+
+...
+
+[Data](articles/124da75e.json)
+
+---
+
+### நிசாந்தஉலுகேதன்ன கடற்படை புலனாய்வு பிரிவிற்கு பொறுப்பாகயிருந்த காலத்தில்  திருகோணமலை தளத்திற்குள் சுதந்திரமாக நடமாடிய வெள்ளை வான்கள் - சித்திரவதைகள் -  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம்
+
+*2025-08-06 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221977) · `ta`
 
 லங்கையின் நீதிமன்ற ஆவணங்களுடன் வெளிநாடுகளில் உயிர்பிழைத்து வாழும் தமிழர்களின் வாக்குமூலங்களையும் கன்சைட்டில் பணியாற்றிய சிங்கள படையினரினதும்( கடற்படையினரும் ஆதாரங்களையும் கண்ணால் பார்த்தவர்களின் தகவல்களையும்  அடிப்படையாக வைத்து இலங்கையில் சிஐடியினரால் கைதுசெய்யப்பட்டுள்ள முன்னாள் கடற்படை தளபதி நிசாந்த உலுகேதன்னஇலங்கையில் தமிழர்கள் சிங்களவர்கள் முஸ்லீம்களிற்கு எதிராக இழைக்கப்பட்ட பாரிய மனித உரிமை மீறல்களிற்கு காரணமாவர்களில்  ஒருவர் என்ற முடிவிற்கு நாங்கள் வந்தோம்.என சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் தெரிவித்துள்ளது.
 
@@ -47,6 +121,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/44ebf891.json)
+
+---
+
+### இந்தியாவுக்கு வர்த்தக அழுத்தம் கொடுக்கும் அமெரிக்காவுக்கு ரஷ்யா கடும் எதிர்ப்பு
+
+*2025-08-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221973) · `ta`
+
+இந்தியாவுக்கு அமெரிக்கா கொடுக்கும் வர்த்தக அழுத்தத்தை சட்டப்பூர்வமானது என தாங்கள் கருதவில்லை என்று ரஷ்ய அதிபர் மாளிகையின் செய்தித் தொடர்பாளர் திமித்ரி பெஸ்கோவ் தெரிவித்துள்ளார்.
+
+ரஷ்யா, உக்ரைன் இடையே மூன்றரை ஆண்டுகளுக்கும் மேலாக போர் நீடித்து வருகிறது. இந்த போர் காரணமாக ரஷ்யா மீது அமெரிக்கா பொருளாதார தடைகளை விதித்துள்ளது. இதன் காரணமாக, தான் சந்திக்கும் பொருளாதார இழப்புகளை ஈடுகட்டும் நோக்கில் தன்னிடம் உள்ள கச்சா எண்ணெயை ரஷ்யா குறைந்த விலைக்கு விற்கிறது.
+
+ஐரோப்பிய நாடுகள், அரபு நாடுகளிடம் கூடுதல் கச்சா எண்ணெயை வாங்கி வருவதால், சர்வதேச சந்தையில் கச்சா எண்ணெயின் விலையை கட்டுப்படுத்தும் நோக்கிலும், உள்நாட்டில் பெட்ரோலியப் பொருட்களின் விலை உயர்வை கட்டுப்படுத்தும் நோக்கிலும் இந்தியா, ரஷ்யாவிடம் இருந்து குறைந்த விலையில் கச்சா எண்ணெயை இறக்குமதி செய்து வருகிறது. தற்போது இந்தியாவின் கச்சா எண்ணெய் தேவையில் 40 சதவீதத்தை ரஷ்யா பூர்த்தி செய்து வருகிறது.
+
+...
+
+[Data](articles/5db3afc3.json)
 
 ---
 
@@ -1751,75 +1841,5 @@ Several properties, including a building that had been illegally constructed on 
 ...
 
 [Data](articles/24c20cf9.json)
-
----
-
-### ஆடுகளைப் பார்க்கச் சென்ற சிறுவன் சடலமாக மீட்பு
-
-*2025-08-06 09:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடுகளைப்-பார்க்கச்-சென்ற-சிறுவன்-சடலமாக-மீட்பு/175-362395) · `ta`
-
-பொலன்னறுவை, வெலிகந்த, நாகஸ்தென்ன பகுதியில் உள்ள இசட்.டி. பிரதான கால்வாயில் விழுந்து எட்டு வயதுச் சிறுவன் உயிரிழந்துள்ளதாக வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
-
-வெலிகந்த, நாகஸ்தென்ன பகுதியைச் சேர்ந்த எம்.பி. லஷ்மிக ஹேஷான் என்ற சிறுவனே இவ்வாறு  உயிரிழந்துள்ளார்.
-
-குறித்த சிறுவன் தனது தாயுடன் ஆடுகளைப் பார்க்கச் சென்றிருந்த நிலையில் மகன் திடீரென காணாமல் போனதை அடுத்து  அவர் வீட்டிற்குச் சென்றிருக்கலாம் என சந்தேகித்து தாய் வீட்டுக்குச் சென்றுள்ளார்.
-
-வீட்டிலும் தனது மகன் இல்லாததால் அயலவர்களுடன் இணைந்து இசட்.டி. கால்வாய்  பகுதியில் மகனை தேடியுள்ளார்.
-
-இரண்டு மணி நேர தேடுதலின் பின்னர் குறித்த கால்வாய்க்குள் இருந்து சிறுவனின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளது. இது தொடர்பான மேலதிக விசாரணைகளை  வெலிகந்த பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/e0218d01.json)
-
----
-
-### என்னடா இங்க நடக்குது
-
-*2025-08-06 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னடா-இங்க-நடக்குது/62-362394) · `ta`
-
-◼️
-
-[Data](articles/638e12d2.json)
-
----
-
-### Sagala Ratnayaka arrives at FCID
-
-*2025-08-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111222/sagala-ratnayaka-arrives-at-fcid) · `en`
-
-Former Chief of Staff of former President Ranil Wickremesinghe Sagala Ratnayaka has arrived at the Financial Crimes Investigation Division (FCID).
-
-Earlier this week, Sandra Perera, the personal secretary of former President Ranil Wickremesinghe and former Secretary to the President Saman Ekanayake were summoned to the Criminal Investigation Department (CID) to record statements in connection with an investigation into foreign trips allegedly funded using allocations from the Presidential Secretariat.
-
-Earlier, the CID launched investigations into foreign trips undertaken by Ranil Wickremesinghe during his tenure as President.
-
-◼️
-
-[Data](articles/1411e02b.json)
-
----
-
-### සාගල නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට
-
-*2025-08-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213073) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කාර්ය මණ්ඩල ප්‍රධානී, හිටපු අමාත්‍ය සාගල රත්නායක මහතා අද (06) පෙරවරුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය වෙත පැමිණියේය.
-
-◼️
-
-[Data](articles/7b417f54.json)
-
----
-
-### පාර්ලිමේන්තු සභා වාරය ඇරඹේ
-
-*2025-08-06 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213072) · `si`
-
-අද (06) දිනට නියමිත පාර්ලිමේනතු කටයුතු මේ වන විට ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/5ccc5df5.json)
 
 ---

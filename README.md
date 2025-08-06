@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 01:18:36**
+As of **2025-08-07 01:31:24**
 
 ## Newspaper Stats
 
-*Scraped **69,143** Articles*
+*Scraped **69,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
-dailyftlk | 4,866
+dailyftlk | 4,867
 adalk | 6,660
 adaderanalk | 8,591
 tamilmirrorlk | 10,099
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,143 articles have been extended.
+61,973 (89.6%) of 69,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### Uva Highlands Estate achieves all-time record price of Rs. 3,700 per kg for BOP Grade
+
+*2025-08-07 01:14:37* · [`dailyftlk`](https://www.ft.lk/business/Uva-Highlands-Estate-achieves-all-time-record-price-of-Rs-3-700-per-kg-for-BOP-Grade/34-779995) · `en`
+
+Uva Highlands Estate uniquely and picturesquely located in the agro-climatic district of Malwatte Valley in the Eastern Highlands of the Uva district is famed for its high-quality teas, especially the exquisite distinctive seasonal flavour.
+
+Grown 3,000 to 5,000 feet up on the eastern slopes of Sri Lanka’s central mountains, teas from the Malwatte Valley region within the Uva district do have a distinct flavour and pungency during the period July-September each year following the extreme dry weather conditions accompanied by the desiccating winds.
+
+This estate is ISO 22000:2018, HACCP and Rainforest Alliance certified.
+
+Uva Highlands Estate is managed by Malwatte Valley Plantations PLC under the stewardship of Group Manager Daminda Wanigasekara.
+
+This line of tea was sold and marketed by Forbes & Walker at the tea auctions held on 4 and 5 August.
+
+◼️
+
+[Data](articles/7b36ed37.json)
+
+---
 
 ### இஸ்ரேலின் கொலனியாக இலங்கை மாறியுள்ளது - மரிக்கார்
 
@@ -1801,27 +1821,5 @@ The arrest of Indian fishermen by the Sri Lankan Navy on charges of straying int
 ◼️
 
 [Data](articles/c89bc1f7.json)
-
----
-
-### Some businesses allegedly run by tourists owned by Sri Lankans: Police
-
-*2025-08-06 13:30:00* · [`economynextcom`](https://economynext.com/some-businesses-allegedly-by-foreigners-owned-by-sri-lankans-police-234993/) · `en`
-
-ECONOMYNEXT – Some businesses which are alleged to be run by foreigners, particularly Israelis, are actually owned by Sri Lankans when investigations are made, Assistant Superintendent of Police and Acting Director of Tourist Police Division Prabath Widanamagama said.
-
-Opposition politicians have pointed out that foreigners on tourist visas run businesses illegally in tourist hotspots such as Arugam Bay and Weligama.
-
-“Yes, we have received reports, we took legal action against some such places, but when we go there to investigate it is Sri Lankans who show up as owners.”
-
-“It is everyone’s responsibility; people engaged in the tourist trade must decide whether they are going to be bought over for money to allow other people to operate under their names.”
-
-“You can’t come to Sri Lanka and do business on a tourist visa, that’s illegal, we take action against that.”
-
-Legal action was taken against two British nationals recently, he said.
-
-...
-
-[Data](articles/474e4ba9.json)
 
 ---

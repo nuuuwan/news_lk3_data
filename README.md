@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 20:07:51**
+As of **2025-08-06 20:24:15**
 
 ## Newspaper Stats
 
-*Scraped **69,108** Articles*
+*Scraped **69,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,654
 adaderanalk | 8,587
-tamilmirrorlk | 10,093
+tamilmirrorlk | 10,094
 virakesarilk | 11,503
 adaderanasinhalalk | 11,894
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,108 articles have been extended.
+61,973 (89.7%) of 69,109 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/62b35e92.json)
+
+---
+
+### தென்னகோனை நீக்கும் கடிதத்திற்கு ஜனாதிபதி ஒப்புதல்
+
+*2025-08-06 19:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனை-நீக்கும்-கடிதத்திற்கு-ஜனாதிபதி-ஒப்புதல்/175-362456) · `ta`
+
+தேசபந்து தென்னகோனை பொலிஸ்மா அதிபர் (ஐ.ஜி.பி) பதவியில் இருந்து நீக்கும் கடிதத்திற்கு ஜனாதிபதி அனுர குமார திசாநாயக்க ஒப்புதல் அளித்துள்ளார்.
+
+தேசபந்து தென்னகோன் பதவியில் இருந்து நீக்கப்பட்டது தொடர்பாக நேற்று பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட தீர்மானத்தின்படி சபாநாயகர் ஜகத் விக்ரமரத்ன இந்தக் கடிதத்தை சமர்ப்பித்தார்.
+
+அரசியலமைப்பு சபையிடம் ஐஜிபி பதவிக்கு ஒரு வேட்பாளரை ஜனாதிபதி பரிந்துரைத்ததைத் தொடர்ந்து, பெரும்பான்மை ஒப்புதலின் அடிப்படையில் புதிய இன்ஸ்பெக்டர் ஜெனரல் நியமிக்கப்படுவார்.
+
+தேசபந்து தென்னகோனை பதவியில் இருந்து நீக்கும் முன்மொழிவு மீது நேற்று பாராளுமன்றத்தில் நடைபெற்ற வாக்கெடுப்பில், தீர்மானத்திற்கு ஆதரவாக 177 வாக்குகள் அளிக்கப்பட்டன, எதிராக எதுவும் அளிக்கப்படவில்லை. ஒரு பாராளுமன்ற உறுப்பினர் வாக்களிப்பில் இருந்து விலகி இருந்தார்.
+
+ஜூலை 22 ஆம் திகதி, தேசபந்து தென்னகோன் மீதான குற்றச்சாட்டுகளுக்கு அவர் குற்றவாளி என பாராளுமன்றத்தில் தெரியவந்தது.
+
+தென்னக்கோனை விசாரித்த பாராளுமன்றக் குழுவின் அறிக்கையை சபாநாயகர் ஜகத் விக்ரமரத்ன சமர்ப்பித்தபோது இதை அறிவித்தார்.
+
+...
+
+[Data](articles/721c7420.json)
 
 ---
 
@@ -1817,27 +1839,5 @@ The change was prompted by the Companies Act (Section 203, sub-section 3), which
 ...
 
 [Data](articles/d84272fb.json)
-
----
-
-### UN official says Israel expanding Gaza operations would risk ‘catastrophic consequences’
-
-*2025-08-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111225/un-official-says-israel-expanding-gaza-operations-would-risk-catastrophic-consequences) · `en`
-
-A top UN official has warned there would be “catastrophic consequences” if Israel expands its military operations in Gaza, after reports Israel’s Prime Minister, Benjamin Netanyahu, is pushing for a total reoccupation of the strip.
-
-Assistant Secretary General Miroslav Jenča told a meeting of the UN Security Council such a move would be “deeply alarming” if true, and could endanger the lives of more Palestinians, as well as Israeli hostages held by Hamas.
-
-Israeli media reported that Netanyahu plans to meet with his security cabinet this week.
-
-“The die has been cast. We’re going for the full conquest of the Gaza Strip - and defeating Hamas,” a senior Israeli official was quoted as saying.
-
-The security cabinet, which is due to meet on Thursday, would need to approve such an action.
-
-It has been suggested that the plan could be a negotiating tactic to pressure Hamas after a recent breakdown of ceasefire talks or an attempt to shore up support from Netanyahu’s far-right coalition partners.
-
-...
-
-[Data](articles/e20248bc.json)
 
 ---

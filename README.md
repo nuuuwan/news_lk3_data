@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 15:27:35**
+As of **2025-08-06 15:40:15**
 
 ## Newspaper Stats
 
-*Scraped **69,060** Articles*
+*Scraped **69,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,651
 adaderanalk | 8,579
 tamilmirrorlk | 10,079
 virakesarilk | 11,495
-adaderanasinhalalk | 11,885
+adaderanasinhalalk | 11,886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,060 articles have been extended.
+61,973 (89.7%) of 69,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### පාස්කු ප්‍රහාර නඩුව කල්යයි
+
+*2025-08-06 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213088) · `si`
+
+පාස්කු ඉරිදා ත්‍රස්ත ප්‍රහාරය කුමන්ත්‍රණය කිරීම, ආධාර අනුබලදීම ඇතුළු චෝදනා යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහිව ගොනු කර තිබෙන නඩුව අද (06) කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල හමුවේ කැඳවනු ලැබීය.
+
+ඒ අනුව අදාළ නඩුව නවරත්න මාරසිංහ, ප්‍රදීප් අබේරත්න සහ සූජීව නිශ්ශංක යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී විත්තිකරුවන් දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+මෙම නඩුකරයට අදාළව විත්තිකරුවකු ශ්‍රේෂ්ඨාධිකරණයට අභියාචනයක් ඉදිරිපත් කර ඇති බැවින් මෙම නඩුවේ සාක්ෂි විභාගය වෙනත් දිනයකට කැඳවීමට නියම විය.
+
+ඒ අනුව මෙම නඩුවේ සාක්ෂි විභාගය සැප්තැම්බර් මස 11 වන දා දක්වා කල් තිබුණි.
+
+මෙම නඩුවට අදාළව නව්ෆර් මව්ලවි ඇතුළු විත්තිකරුවන් 24කට එරෙහිව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ නීතිපතිවරයා විසින් මෙම නඩුව ගොනු කර තිබුණි.
+
+මෙම නඩුවේ විත්තිකරුවන් සියලුදෙනා අධිකරණය මගින් රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+◼️
+
+[Data](articles/08bedbe5.json)
+
+---
 
 ### வௌ்ளை மாளிகையின் கூரையின் மீதேறிய ட்ரம்ப் (வீடியோ இணைப்பு)
 
@@ -264,7 +288,15 @@ The arrest of Indian fishermen by the Sri Lankan Navy on charges of straying int
 
 *2025-08-06 13:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்-மேட்டுக்குள்-சிக்கிய-அறுவர்-பத்திரமாக-மீட்பு/76-362427) · `ta`
 
-மஸ்கெலியா - சாமிமலை வீதியில் உள்ள பனியன் பாலத்திற்கு அருகில் சரிந்த மண் மேட்டை அகற்றும் பணியில் ஈடுபட்டிருந்த 6 தொழிலாளர்கள் மீது மற்றொரு மண் மேடு சரிந்து விழுந்துள்ளது.
+மஸ்கெலியா பிரதேச சபைக்குட்பட்ட ராணி தோட்டத்தில் இல்லம் அமைக்க தளம் வெட்டி கொண்டிருந்த  ஆறு தொழிலாளர்கள் மீது புதன்கிழமை (06) காலை 11.45 மணி அளவில் திடீரென மண் மேடு சரிந்து விழுந்துள்ளது.
+
+சம்பவத்தை கண்ட அயல் வீட்டார் உடன் மஸ்கெலியா பிரதேச சபை தவிசாளருக்கு அறிவித்ததையடுத்து உடனடியாக மேலதிக தகவல்கள் மேற்கொள்ளப்பட்டு ஆறுவரையும் காப்பாற்ற நடவடிக்கை எடுத்துள்ளனர்.
+
+சரிந்த மண் திட்டுகள் அகற்றப்பட்டு ஆறு பேரையும் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+
+இதில் 28 வயதுடைய யதுர்ஷன், 45 வயதுடைய  யோகேஸ்வரன், 38 வயதுடைய ராஜேஸ்வரன், 45 வயதுடைய விஜயலிங்கம், 43 வயதுடைய விஜயகுமார் , 45 வயதுடைய  ஆறுமுகம் ஆகியவர்களே இவ்வாறு சிறு காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சம்பவம் நடந்த இடத்திற்கு மஸ்கெலியா வைத்தியசாலையில் உள்ள ஆம்புலன்ஸ் மற்றும் மஸ்கெலியா பொலிஸார்  ராணி தோட்டத்தில் உள்ள தொழிலாளர்கள் சென்று இவர்களின் உயிர் காப்பாற்ற நடவடிக்கை எடுத்துள்ளனர்.
 
 ◼️
 
@@ -1228,17 +1260,19 @@ Several properties, including a building that had been illegally constructed on 
 
 ---
 
-### ශෂීන්ද්‍ර රාජපක්ෂ අල්ලස් කොමිසමෙන් අත්අඩංගුවට
+### ශෂීන්ද්‍ර රාජපක්ෂ අධිකරණයට රැගෙන එයි
 
 *2025-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213074) · `si`
+
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසමේ නිලධාරීන් විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
+
+ප්‍රකාශයක් සටහන් කරගැනීමෙන් පසුව ඒ මහතා අද (06) පෙරවරුවේ අත්අඩංගුවට ගැනුණි.
 
 හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
 
 මහවැලි අධිකාරියට අයත් සෙවනගල, කිරිඉබ්බන් වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවරසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ල ඇතුළු දේපොළ කිහිපයක් 2022.05.09 වන දින පැවති ජනතා අරගලයේ දී හානියට පත්ව ඇත.
 
 එම දේපොළ සඳහා වන්දි ගෙවීමේ දී එය ශ්‍රී ලංකා මහවැලි අධිකාරිය සතු දේපොළක් බවට හඳුනාගෙන අදාළ වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබිය දී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ සමහර රජයේ නිලධාරීන්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර ඇතැයි ශෂීන්ද්‍ර රාජපක්ෂ මහතාට චෝදනා එල්ල වී තිබේ.
-
-එමෙන්ම එම වන්දි ලබාගැනීමෙන් දූෂණය නැමති වරද සිදුකිරීම සහ කුමන්ත්‍රණය කිරීම මෙන්ම මෙම දේපොළ මහවැලි අධිකාරිය සතු ඉඩමක පැවති බැවින් මහවැලි අධිකාරිය සතු දේපොළක් සාපරාධී සාවද්‍ය පරිහරණය තුළින් 1999 අංක 28 දරණ පනතින් සංශෝධිත 1982 අංක 12 දරන පොදු දේපොළ විෂයෙහි සිදුකරනු ලබන වැරදි පිළිබඳ 5(1) වගන්තිය යටතේ දඬුවම් ලැබිය හැකි වරදක් සම්බන්ධයෙන් ශෂීන්ද්‍ර රාජපක්ෂ මහතාව එලෙස අත්අඩංගුවට ගෙන ඇත.
 
 ...
 
@@ -1789,21 +1823,5 @@ Sanken Overseas is a stalwart in the construction and real estate sectors, and t
 ...
 
 [Data](articles/6dd6f652.json)
-
----
-
-### Confederation of MSMI welcomes ‘bold export tax reform’
-
-*2025-08-06 05:44:39* · [`dailyftlk`](https://www.ft.lk/business/Confederation-of-MSMI-welcomes-bold-export-tax-reform/34-779946) · `en`
-
-The Confederation of Micro, Small and Medium Industries (MSMI) has extended its congratulations to the Government for the successful introduction of the 20% export tax policy.
-
-It said this important fiscal reform demonstrates strong leadership and a pragmatic approach to strengthening national revenue and achieving long-term economic stability. The move is especially commendable at a time when Sri Lanka is striving to regain economic resilience through sound financial management and equitable contributions across sectors.
-
-Confederation of MSMI Founder President Nawaz Rajabdeen said: “We welcome this decision as a step in the right direction to ensure a more balanced distribution of national wealth, and to support sustainable growth. The export sector has grown substantially, and this reform ensures that its success contributes meaningfully to the national economy.”
-
-...
-
-[Data](articles/193e4883.json)
 
 ---

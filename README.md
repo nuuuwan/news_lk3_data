@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 05:32:26**
+As of **2025-08-06 06:11:43**
 
 ## Newspaper Stats
 
-*Scraped **68,922** Articles*
+*Scraped **68,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 598
 bbccomsinhala | 677
 colombotelegraphcom | 704
 economynextcom | 4,205
-islandlk | 4,205
+islandlk | 4,215
 dailymirrorlk | 4,733
-dailyftlk | 4,854
+dailyftlk | 4,859
 adalk | 6,639
 adaderanalk | 8,555
-tamilmirrorlk | 10,043
+tamilmirrorlk | 10,044
 virakesarilk | 11,482
 adaderanasinhalalk | 11,864
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 11,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,922 articles have been extended.
+61,973 (89.9%) of 68,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### Marine pollution issues relating to nurdles spill in Sri Lanka
+
+*2025-08-06 05:36:13* · [`dailyftlk`](https://www.ft.lk/opinion/Marine-pollution-issues-relating-to-nurdles-spill-in-Sri-Lanka/14-779944) · `en`
+
+During the 32nd volunteer mobilisation, 27 dedicated volunteers from The Pearl Protectors collected 15 kg of nurdles from
+
+the Mount Lavinia shoreline, continuing efforts to protect Sri Lanka’s marine ecosystems
+
+Between May and June 2021, the MV X-Press Pearl incident released over 1,680 tons of nurdles into Sri Lanka’s marine environment. This event is regarded as the largest single incident of marine plastic pollution in history, with severe and long-lasting consequences for ecosystems, fishing industries, and coastal communities.
+
+Sri Lanka has national environmental laws administered by the Central Environmental Authority (CEA) under the Ministry of Environment. These laws are based on the “Polluter Pays Principle”, which has been applied in past environmental cases. Public interest organisations, such as the Environmental Foundation Ltd. (EFL) and the Centre for Environmental Justice (CEJ), have filed lawsuits to protect affected communities and ecosystems.
+
+...
+
+[Data](articles/07b181ce.json)
+
+---
+
+### Delusion of fund raising: How a group of electrical engineers is starving power sector of investment
+
+*2025-08-06 05:31:35* · [`dailyftlk`](https://www.ft.lk/columns/Delusion-of-fund-raising-How-a-group-of-electrical-engineers-is-starving-power-sector-of-investment/4-779941) · `en`
+
+Generation and transmission must grow to support a growing economy and energy transition
+
+The amendments to the Electricity Act No. 36 of 2024 will be debated in Parliament today (6 August) and will likely pass with a majority of votes, due to the NPP voting block. During the run-up to the parliamentary debate, the amendments, and its custodian, Pubudu Niroshan, the Director General of the Power Sector Reform Secretariat (PSRS), has managed to unify almost all the sector participants in opposition.
+
+...
+
+[Data](articles/7d6a916e.json)
+
+---
+
+### From toe-hold to freehold: Zionist occupation strategies-unlimited
+
+*2025-08-06 05:26:31* · [`dailyftlk`](https://www.ft.lk/columns/From-toe-hold-to-freehold-Zionist-occupation-strategies-unlimited/4-779940) · `en`
+
+It demolishes Palestinian homes and occupies their lands, detains and kills, as it pleases; and then along with its allies, accuses those who object, of anti-Semitism
+
+When Trump arrogantly suggested that the neighbouring Arab States should absorb the Gaza population as a solution to Israel’s decimation of Gaza, he announced what discerning persons the world over, had already perceived. The earliest Zionist Israeli arrivals, courtesy Lord Balfour, had come to take it all.
+
+From a toehold then, to a freehold today, Israel has turned international law, UN mechanisms for a safer world and street ethics, on its head. It demolishes Palestinian homes and occupies their lands, detains and kills, as it pleases; and then along with its allies, accuses those who object, of anti-Semitism.
+
+...
+
+[Data](articles/0afc5e31.json)
+
+---
+
+### Defence Ministry has its say over remanding of former Navy Commander Ulugetenne
+
+*2025-08-06 05:23:05* · [`dailyftlk`](https://www.ft.lk/opinion/Defence-Ministry-has-its-say-over-remanding-of-former-Navy-Commander-Ulugetenne/14-779939) · `en`
+
+With reference to the article titled “Letter of concern to Defence Secretary over arrest of former navy Chief” published on 31 July in the Daily FT (https://www.ft.lk/opinion/Letter-of concern-to-Defence-Secretary-over arrest-of-former-navy-Chief/14-779697), the Legal Division of the Defence Ministry has issued the following statement.
+
+Admiral (Rtd) D.N.S. Ulugetenne was arrested by the Criminal Investigation Department (CID) on 28 July 2025 in connection with the alleged disappearance of a civilian from Pothuhera during his tenure as Director of Naval Intelligence. He was produced before the Magistrate’s Court of Polgahawela and has since been remanded until 13 August 2025.
+
+It has been observed that said article cites Sections 109 to 120 of the Navy Act, which are entirely irrelevant to the matter at hand. This reflects a significant oversight and demonstrates a lack of understanding of the legal framework governing Sri Lanka Navy.
+
+...
+
+[Data](articles/b6976733.json)
+
+---
+
+### The history debate: Which history?
+
+*2025-08-06 05:20:59* · [`dailyftlk`](https://www.ft.lk/columns/The-history-debate-Which-history/4-779938) · `en`
+
+If our future is to be different from that bloody past, one obvious starting point is how that past is interpreted and narrated
+
+“The story you tell eventually, as a professional historian, is not just what you find in the documents. It is not just the facts. It has a lot to do with your moral positions, your ideological orientation, the time in which you write, and your personality. They are all factors that influence the story you finally tell.”
+
+Ilan Pappé (History is relevant: The Israeli New History and its legacy)
+
+It took almost four decades and tens of thousands of deaths for Sri Lanka to adopt a language policy matching national and international realities. Sinhala and Tamil are official languages, English the link language. There’s political and societal consensus that the Sinhala Only policy of 1956, which relegated Tamil to secondary status and turned English into the preserve of a privileged few, was a pivotal error.
+
+...
+
+[Data](articles/53d2157d.json)
+
+---
 
 ### Minister reveals President’s Fund scholarships went to children and relatives of politicians
 
@@ -117,6 +199,22 @@ Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr
 ...
 
 [Data](articles/1e25a202.json)
+
+---
+
+### ’பாதுகாக்க முயற்சிப்போரின் பின்னணியை அறிவோம்’
+
+*2025-08-06 04:21:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாக்க-முயற்சிப்போரின்-பின்னணியை-அறிவோம்/175-362388) · `ta`
+
+மனித உரிமைகள் மீறல் குற்றவாளியான பொலிஸ்மா அதிபரை பாதுகாப்பதற்கு முயற்சிப்பவர்களின்  பின்னணியை நாம்  அறிவோம். இதற்குரிய பதில் இவர்களுக்கு எதிர்வரும் காலங்களில் கிடைக்கும் என்று வெளிவிவகாரத்துறை பிரதி அமைச்சர் அருண் ஹேமச்சந்திர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் பேசுகையில்,
+
+முன்னாள் பிரதம நீதியரசரைப் பாராளுமன்றத்துக்கு அழைத்து வந்து முறையற்ற வகையில் சட்டத்துக்கு விரோதமான முறையில் அவரை பதவி நீக்கியவர்கள் இன்று எம்மை நோக்கிக் குற்றச்சாட்டுக்களை முன்வைப்பது ஆச்சரியமாகவுள்ளது. நாட்டில் அரசியலமைப்பால் ஏற்றுக்கொள்ளப்பட்ட சட்டத்தின் பிரகாரமே பொலிஸ்மா அதிபரைப் பதவி நீக்குவதற்கான நடவடிக்கைகள் எம்மால் எடுக்கப்பட்டன.
+
+...
+
+[Data](articles/2a03efa5.json)
 
 ---
 
@@ -285,6 +383,80 @@ Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr
 ---
 
 ### 2025-08-05 (Tuesday)
+
+### Fairfirst celebrates landmark 560th road safety session in Matara
+
+*2025-08-05 23:38:00* · [`islandlk`](http://island.lk/fairfirst-celebrates-landmark-560th-road-safety-session-in-matara/) · `en`
+
+Fairfirst Insurance recently conducted a landmark road safety awareness programme in Matara, reinforcing its long-standing commitment to promoting responsible road behaviour among schoolchildren and the public.
+
+Held on 26th June 2025 at the Rabindranath Tagore Memorial Auditorium of the University of Ruhuna and the nearby Matara Beach Park, the session brought together more than 1,300 students from across the Matara Education Zone.
+
+Organised in collaboration with the Sri Lanka Traffic Police, the Insurance Regulatory Commission of Sri Lanka (IRCSL), and other state partners, the event focused on building awareness around safer road habits and encouraging mindful behaviour on the roads to help reduce accidents.
+
+...
+
+[Data](articles/3a95bd63.json)
+
+---
+
+### Swisstek Aluminium delivers Sri Lanka’s most reliable solar mounting systems
+
+*2025-08-05 23:38:00* · [`islandlk`](http://island.lk/swisstek-aluminium-delivers-sri-lankas-most-reliable-solar-mounting-systems/) · `en`
+
+Swisstek Aluminium pledges to assist Sri Lanka in turning its renewable energy goals for 2030 into reality with its cutting-edge solar mounting systems. As the country aims to create a clean energy future, Swisstek Aluminium provides solutions with modular, prefabricated mounting systems engineered to withstand the island’s challenging weather conditions, from coastal humidity to high wind zones
+
+Swisstek Aluminium mounting systems are manufactured using high-grade corrosion-resistant aluminium, making them suitable for both residential and commercial applications across a variety of roofing types, including asbestos/cement sheets, corrugated steel sheets, and clay or concrete roof tiles. Designed to be lightweight without compromising strength, these systems allow for fast, straightforward on-site assembly and full compatibility with earthing and lightning protection features.
+
+...
+
+[Data](articles/5b29101c.json)
+
+---
+
+### Intex Sri Lanka 2025 set to ignite the textile & apparel world – A decade of impact, innovation & industry leadership
+
+*2025-08-05 23:37:00* · [`islandlk`](http://island.lk/intex-sri-lanka-2025-set-to-ignite-the-textile-apparel-world-a-decade-of-impact-innovation-industry-leadership/) · `en`
+
+The energy is rising, the industry is watching, and the countdown has officially begun. From 6–8 August 2025, Colombo will once again become the epicentre of South Asia’s textile and apparel universe as Intex Sri Lanka returns with its most powerful edition yet. Celebrating a decade of innovation, trust, and transformation, the 17th edition of Intex Sri Lanka is more than an exhibition — it’s a movement that has shaped the sourcing future of the region.
+
+Since its debut in 2015, Intex Sri Lanka has been a game-changer — bridging Sri Lanka’s world-renowned manufacturing strength with global textile producers and technology leaders.
+
+Over the years, the show has become a strategic sourcing calendar event for buyers and industry leaders from across South Asia, ASEAN, MENA, and Europe. From fibres to fashion, processing to packaging, Intex delivers the full textile value chain — and this year, it’s taking it all a notch higher.
+
+...
+
+[Data](articles/bb984637.json)
+
+---
+
+### ComBank’s Rs. 15 billion Green Bond issue oversubscribed on opening day
+
+*2025-08-05 23:37:00* · [`islandlk`](http://island.lk/combanks-rs-15-billion-green-bond-issue-oversubscribed-on-opening-day/) · `en`
+
+Investors demonstrated overwhelming support for the green lending aspirations of the Commercial Bank of Ceylon, leading to the oversubscription of the Bank’s Rs. 15 billion Green Bond on its opening day, Monday 4th August 2025.
+
+The Green Bond Issue comprised of an initial issue of 100 million Basel III Compliant – Tier 2 Listed Rated Unsecured Subordinated Redeemable Green Bonds with a Non-Viability Conversion feature, at the par value of Rs. 100/= each, to raise a sum of Rupees 10 billion; and an option to issue up to a further 50 million Green Bonds at the discretion of the Bank, in the event of an oversubscription of the initial issue.
+
+...
+
+[Data](articles/e151caa5.json)
+
+---
+
+### CSE’s 12-day record breaking performance arrested; profit-takings bust bullishness
+
+*2025-08-05 23:34:00* · [`islandlk`](http://island.lk/cses-12-day-record-breaking-performance-arrested-profit-takings-bust-bullishness/) · `en`
+
+The CSE yesterday reported a downward trend due to profit- takings among some stocks, thus breaking a psychological barrier after witnessing a 12- day record breaking performance over the preceding days, market analysts said.
+
+Both indices moved downwards. The All Share Price Index went down by 58.23 points, while the S and P SL20 declined by 12.34 points. Turnover stood at Rs 3.3 billion with seven crossings.
+
+...
+
+[Data](articles/bd1ecef4.json)
+
+---
 
 ### Sri Lanka anti-dumping law to protect tile, bathware and shoe industries: Minister
 
@@ -1617,211 +1789,5 @@ The female suspects are aged 22, 30, and 43, while the male suspects are Indian 
 ◼️
 
 [Data](articles/3d4c6f42.json)
-
----
-
-### Chinese Embassy says letter to Sri Lankan media heads is ‘fake’
-
-*2025-08-05 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111198/chinese-embassy-says-letter-to-sri-lankan-media-heads-is-fake-) · `en`
-
-The Embassy of China in Sri Lanka has confirmed that the letter circulating on social media, with the embassy’ letterhead and with the signature of the Chinese Ambassador, allegedly addressed to heads of local media organisations is a fake letter.
-
-A letter dated August 01, 2025 and addressed to all Editors-in-Chief of national and digital media institutions with the title “Serious Concerns Over Misleading Media Coverage of Chinese Enterprises” has been widely circulated on social media.
-
-The letter, which also displays the Chinese Ambassador’s signature and the embassy seal, expresses “serious concern regarding a recent spate of media reports surrounding the importation and customs processing of electric vehicles” manufactured by a Chinese enterprise.
-
-However, when inquired by Ada Derana regarding the veracity of the letter, the Chinese Embassy in Colombo confirmed that the letter in question is fake.
-
-◼️
-
-[Data](articles/d062f136.json)
-
----
-
-### තෙවන රන්දෝලි පෙරහැර වෙනුවෙන් ක්‍රියාත්මක රථවාහන සැලැස්ම
-
-*2025-08-05 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213046) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහැරේ තෙවන රන්දෝලි පෙරහැර හෙට (06) දින වීථී සංචාරය කරනු ලබයි.
-
-එම කාලය තුළ ක්‍රියාත්මක රථ වාහන සැලැස්ම හා විකල්ප මාර්ග සම්බන්ධයෙන් රියදුන් සහ ජනතාව දැනුම්වත් කරමින් ශ්‍රී ලංකා පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව, පෙරහැර කාලසීමාවන් තුළ ක්‍රියාත්මක රථවාහන සැලැස්ම හා දෛනික රථවාහන සැලැස්ම පහත පරිදි වේ.
-
-කටුගස්තොට සිට මහනුවර නගරයට පැමිණෙන සියළුම බර වාහන මහයියාව හන්දියෙන් තිලක් රත්නායක මාවත ඔස්සේ පොලිසිය හන්දියෙන් මහනුවර නගරය වෙත ගමන් කළ හැක.
-
-කටුගස්තොට දෙසින් පැමිණෙන සැහැල්ලු වාහන ඩී.එස් සේනානායක වීදිය ඔස්සේ පැමිණ කන්දේ වීදිය මීරමක්කම් පල්ලිය අසලින් ඉදිරියට ගමන් කර තිලක් රත්නායක මාවත ඔස්සේ ගමන්කළ හැක.
-
-කටුගස්තොට දෙසට පිටවන වාහන පොලිසිය අසලින් තිලක් රත්නායක මාවත ඔස්සේ මහයියාව දෙසට ගමන්කළ හැක.
-
-...
-
-[Data](articles/c825cde6.json)
-
----
-
-### பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் "யவ்ம்-இ-இஸ்தெஹ்சால்"  தினம் கொழும்பில் அனுஷ்டிப்பு
-
-*2025-08-05 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/221885) · `ta`
-
-இந்திய சட்டவிரோத ஆக்கிரமிப்பு ஜம்மு மற்றும் காஷ்மீரில் ஆகஸ்ட் 5, 2019 ல் இந்தியா மேற்கொண்ட சட்டவிரோத மற்றும் ஒரு தலைபட்ச நடவடிக்கைகளை  நினைவூட்டும் வகையில் "யவ்ம்-இ-இஸ்தெஹ்சால்" தினம் பாகிஸ்தான் உயர்ஸ்தானிகராலயத்தினால் செவ்வாய்க்கிழமை (05) அனுஷ்டிக்கப்பட்டது.
-
-முக்கியப் பேச்சாளர்கள் காஷ்மீரிகளின் அவல நிலையைப் சுட்டிக்காட்டியதோடு இந்த சர்ச்சையானது ஐ.நா பாதுகாப்பு கவுன்சிலின் நிகழ்ச்சி நிரலில் உள்ள பழமையான விஷயங்களில் ஒன்று என்றும் அவர்கள் தெரிவித்தனர். துரதிர்ஷ்டவசமாக, இந்தியா தனது உறுதிமொழிகளை மதிக்க மறுப்பதாலும், அடிப்படை மனித உரிமைகள் மற்றும் சர்வதேச சட்டங்களை மதிக்காததாலும் இந்த சர்ச்சை இன்னும்  தீர்க்கப்படாமல் உள்ளது.
-
-மனிதாபிமானமற்ற இராணுவ முற்றுகை, தகவல் தொடர்பு முற்றுகை, சுற்றிவளைப்பு மற்றும் தேடுதல் நடவடிக்கைகள், போலி என்கவுன்டர்கள் மூலம் அப்பாவி காஷ்மீரிகள் மீதான அடக்குமுறை மற்றும் மிருகத்தனமான தாக்குதலை உயர் ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வு நிலை) ஃபஹீம் உல் அஸீஸ் தனது உரையில் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/7ed36e96.json)
-
----
-
-### இலங்கை வருகிறார் அவுஸ்திரேலிய ஆளுநர் நாயகம்
-
-*2025-08-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/221882) · `ta`
-
-அவுஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜாய் மோஸ்டின் உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு இலங்கைக்கு வருகை தரவுள்ளதாக வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சகம் அறிவித்துள்ளது.
-
-அதன்படி, நாளை புதன்கிழமை (06) வருகை தரும், சமந்தா ஜாய் மோஸ்டின் எதிர்வரும் 10 ஆம் திகதி வரை நாட்டில் தங்கியிருப்பார் என அமைச்சு குறிப்பிட்டுள்ளது.
-
-இந்த விஜயத்தின் போது ஜனாதிபதி மற்றும் பிரதமரை சந்தித்து இருதரப்பு கலந்துரையாடல்களில் ஈடுபடுவார் என எதிர்பார்க்கப்படுகிறது.
-
-பண்டாரகம, மிரிஸ்ஸ மற்றும் வெலிகம ஆகிய இடங்களில் உள்ள அவுஸ்திரேலிய ஆதரவுடன் இயங்கும் திட்டங்களையும் அவர் பார்வையிடவுள்ளார்.
-
-அத்துடன், இந்த விஜயம் இலங்கை - அவுஸ்திரேலிய உறவுகளை மேலும் வலுப்படுத்துவதையும், இரு நாடுகளின் பரஸ்பர நன்மைக்காக ஒத்துழைப்பை விரிவுபடுத்துவதற்கான வழிகளை ஆராய்வதையும் நோக்கமாகக் கொண்டது.
-
-◼️
-
-[Data](articles/5e4b78f9.json)
-
----
-
-### மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியது (வீடியோ)
-
-*2025-08-05 15:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேக-வெடிப்பால்-ஒரு-கிராமமே-மூழ்கியது-வீடியோ/175-362351) · `ta`
-
-பெரும் மேக வெடிப்பால் ஒரு கிராமமே மூழ்கிய சம்பவத்தில் இதுவரை 4 பேர் பலியாகி உள்ளதாக முதற்கட்ட தகவல் வெளியாகி உள்ளது. காட்டாற்று வெள்ளத்தில் சிக்கிய 20க்கும் மேற்பட்ட மக்கள் உயிருடன் மீட்கப்பட்டநிலையில், 60க்கும் மேற்பட்டோர் வெள்ளத்தில் அடித்துச் செல்லப்பட்டு மாயமாகி இருப்பதால் உயிரிழப்பு அதிகரிக்கும் என்று அஞ்சப்படுகிறது.
-
-திடீரென ஏற்பட்ட பெரும் மேக வெடிப்பால் ஒரு கிராமமே மூழ்கியதால், பலர் காணாமல் போயுள்ளனர் இந்த சம்பவம் உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் இன்று செவ்வாய்க்கிழமை (05)  இடம்பெற்றுள்ளது.
-
-இந்த திடீர் வெள்ளப்பெருக்கில் அங்குள்ள கட்டிடங்கள், அந்த பகுதியில் வசிக்கும் பொதுமக்கள் பலர் அடித்துச் செல்லப்பட்டுள்ளதாக அஞ்சப்படுகிறது.
-
-உள்ளூர் பொலிஸார், எஸ்.டி.ஆர்.எப், இராணுவம் மற்றும் தீயணைப்புப் படைகளின் மீட்புக் குழுக்கள் சம்பவ இடத்திற்கு சென்று தேடுதல் மற்றும் மீட்புப் பணிகளில் தீவிரமாக ஈடுபட்டுள்ளன.
-
-...
-
-[Data](articles/4d4ad1bb.json)
-
----
-
-### චීන තානාපති කාර්යාලයෙන් බවට හඟවමින් සංසරණය වෙන ලිපිය ව්‍යාජ එකක්
-
-*2025-08-05 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213045) · `si`
-
-චීනයේ ව්‍යාපාරික ආයතන සම්බන්ධයෙන් ශ්‍රී ලාංකීය මාධ්‍ය වෙත කිසිදු බලපෑමක් සිදුකර නොමැති බව මෙරට පිහිටි චීන තානාපති කාර්යාලය පවසයි.
-
-චීන ව්‍යාපාරික ආයතන සම්බන්ධයෙන් තොරතුරු වාර්තා කිරීමේදී ඊට බලපෑම් එල්ලවන ආකාරයෙන් එම ආයතන පුවත් වාර්තා කර ඇති බවට සඳහන් කරමින් චීන තානාපති කාර්යාලය මගින් නිකුත් කර ඇති බවට හැඟවෙන පරිදි ලිපියක් සමාජ මාධ්‍ය ඔස්සේ පසුගිය දින කිහිපය තුළ ලිපියක් සංසරණය විය.
-
-මේ සම්බන්ධයෙන් අද දෙරණ මෙරට පිහිටි චීන තානාපති කාර්යාලයෙන් විමසීමක් සිදුකළ අතර ඊට ප්‍රතිචාර දක්වමින් ඔවුන් සඳහන් කළේ අදාළ ලිපිය ව්‍යාජ එකක් බවය.
-
-◼️
-
-[Data](articles/9490ff98.json)
-
----
-
-### ஆக்‌ஷன் அவதாரத்தில் விஜயகாந்த் கலக்கிய ’கேப்டன் பிரபாகரன்’ ரீ-ரிலீஸ்
-
-*2025-08-05 15:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆக்-ஷன்-அவதாரத்தில்-விஜயகாந்த்-கலக்கிய-கேப்டன்-பிரபாகரன்-ரீ-ரிலீஸ்/54-362350) · `ta`
-
-கடந்த 1991-ல் கேப்டன் பிரபாகரன் 120 திரையரங்குகளில் வெளியான நிலையில், தற்போது 500 திரையரங்குகளில் 4K தொழில்நுட்பத்தில் ரீ-ரிலீஸ் செய்யப்படுகிறது
-
-நடிகர் விஜயகாந்தை இன்றளவும் அவரது ரசிகர்களும், தொண்டர்களும் கேப்டன் என்று அழைப்பதற்கு மிகவும் முக்கிய காரணம் 1991-ல் வெளியான ’கேப்டன் பிரபாகரன்’ திரைப்படம் ஆகும்.
-
-அந்த வகையில் இன்றைய தலைமுறையினர் கொண்டாடும் வகையில் வரும் ஆகஸ்ட் 22 ஆம் திகதி ரீ-ரிலீஸ் செய்யப்படவுள்ளது கேப்டன் பிரபாகரன் திரைப்படம். அதிநவீன தொழில்நுட்பத்தில் புத்தம் புது திரைப்படத்திற்கு இணையாக புதுப்பிக்கப்பட்டு, 4K தரத்தில் திரையிடப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
-
-தமிழ் சினிமாவில் நடிகர்களுக்கு நூறாவது படம் என்பது ஒரு மைல்கல்லாக பார்க்கப்படுகிறது. ஆனால் உச்ச நடிகர்களுக்கு அவர்களது 100-வது படம் வசூல் ரீதியாக தோல்வி படமாக அமைந்த வரலாறு உள்ளது. ரஜினிகாந்தின் நூறாவது திரைப்படமானது ராகவேந்திரா (1985) விமர்சனரீதியாக நல்ல வரவேற்பை பெற்றது. இருந்தாலும் கமர்ஷியல் ஹீரோவாக ரஜினிக்கு வசூல் ரீதியாக சறுக்கலை சந்தித்தது.
-
-...
-
-[Data](articles/65a6081b.json)
-
----
-
-### Sri Lanka stocks close down amidst selling pressure, profit taking
-
-*2025-08-05 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-selling-pressure-profit-taking-234740/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange was weighed down on Tuesday by selling pressure on John Keells Holdings and profit taking in diversified financials, brokers said.
-
-“There was profit taking in specific counters that moved up significantly in the last few days, particularly in the diversified financials such as Commercial Credit,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-Selling pressure in John Keells Holdings also dragged the market down, he said.
-
-The ASPI closed down 0.34 percent, or 68.23 points, at 19,718.
-
-The S&P SL20 closed down 0.21 percent, or 12.34 points, at 5,845.27.
-
-Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.50 rupees, Melstacorp which closed down 1.50 rupees at 155.00, DFCC Bank which closed down 1.50 rupees at 153.75, Vallibel One which closed down 2.10 rupees at 90.70, and Commercial Bank which closed down 0.75 rupees at 173.25.
-
-...
-
-[Data](articles/de3108a5.json)
-
----
-
-### 'கிங்டம்' படத்தை எதிர்த்து திரையரங்கு முற்றுகை
-
-*2025-08-05 15:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிங்டம்-படத்தை-எதிர்த்து-திரையரங்கு-முற்றுகை/175-362349) · `ta`
-
-ராமநாதபுரத்தில் ’கிங்டம்’ படத்தை திரையிட நாம் தமிழர் கட்சியினர் எதிர்ப்பு தெரிவித்து, திரையரங்கை முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனர். இதனால் பொலிஸாக்கும், நாம் தமிழர் கட்சியினருக்கும் இடையே தள்ளுமுள்ளு ஏற்பட்டது.
-
-அதேபோல் கோயம்புத்தூரில் கிங்டம் படம் திரையிடப்பட்ட திரையரங்கை நாம் தமிழர் கட்சியினர் முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனர்.
-
-நாம் தமிழர் கட்சியின் கோவை மண்டல செயலாளர் அப்துல் வகாப் தலைமையில் இந்த முற்றுகை போராட்டம் நடைபெற்றது.
-
-இதனையடுத்து, முற்றுகையில் ஈடுபட்ட நாம் தமிழர் கட்சியினர் 16 பேரை பொலிஸார் கைது செய்தனர்.
-
-இதேபோல் நாம் தமிழர் கட்சி ஒருங்கிணைப்பாளர் சீமான் கிங்டம் படத்திற்கு தடை விதிக்க வேண்டும் என அறிக்கை வெளியிட்டுள்ளார்
-
-அவரது அறிக்கையில், ”கிங்டம் திரைப்படம் ஈழ சொந்தங்களை குற்றப்பரம்பரை போல, மிகத் தவறான சித்தரிக்கும் காட்சிகள் இடம்பெற்றுள்ளன.
-
-...
-
-[Data](articles/c6bc5305.json)
-
----
-
-### அவுஸ்திரேலிய உயர் ஸ்தானிகர் பிரதமரைச் சந்தித்தார்
-
-*2025-08-05 15:24:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-உயர்-ஸ்தானிகர்-பிரதமரைச்-சந்தித்தார்/175-362348) · `ta`
-
-பதவிக்காலம் முடிந்து நாட்டிலிருந்து விடைபெற்றுச் செல்லும் இலங்கைக்கான அவுஸ்திரேலிய உயர் ஸ்தானிகர் போல் ஸ்டீவன்ஸ், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை ஞாயிற்றுக்கிழமை 4 அன்று பிரதமர் அலுவலகத்தில் சந்தித்தார்.
-
-உயர் ஸ்தானிகரை வரவேற்ற பிரதமர், தனது பதவிக் காலத்தில் இருதரப்பு உறவுகளை வலுப்படுத்த அவர் ஆற்றிய பங்களிப்பிற்காக நன்றி தெரிவித்தார்.
-
-இலங்கையில் அண்மைக்காலமாக முன்னெடுக்கப்பட்ட நடவடிக்கைகளைப் பாராட்டிய உயர் ஸ்தானிகர், இலங்கையின் வளர்ச்சி முயற்சிகளுக்கு அவுஸ்திரேலியாவின் தொடர்ச்சியான ஒத்துழைப்பு கிடைக்கும் என்று உறுதியளித்தார்.
-
-இந்தக் கலந்துரையாடலின் போது, நிறுவன ஒழுங்குகளை வலுப்படுத்துதல், முன்பு நிறுத்தப்பட்டிருந்த திட்டங்களை மீண்டும் தொடங்குதல் மற்றும் கல்விச் சீர்திருத்தங்கள் உட்பட அரசாங்கத்தின் முன்னுரிமைகளை பிரதமர் விளக்கினார். இத்தகைய திட்டங்களின் முக்கியத்துவத்தை ஏற்றுக்கொண்ட உயர் ஸ்தானிகர், கல்விச் சீர்திருத்தங்கள் உட்பட இலங்கையின் பல திட்டங்களுக்கு அவுஸ்திரேலிய அரசாங்கத்தின் தொடர்ச்சியான ஆதரவு கிடைக்கும் என்று மீண்டும் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/944aaf82.json)
-
----
-
-### ஈழத் தமிழர்களை மோசமாக சித்தரிக்கும் ’கிங்டம்’க்கு தடை விதிக்கவும் : வைகோ
-
-*2025-08-05 15:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஈழத்-தமிழர்களை-மோசமாக-சித்தரிக்கும்-கிங்டம்-க்கு-தடை-விதிக்கவும்-வைகோ/54-362347) · `ta`
-
-ஈழத் தமிழர்களை மிக மோசமாக சித்தரிக்கும் கிங்டம் படத்திற்கு தடை விதிக்க வேண்டும் என வைகோ தெரிவித்துள்ளார்.
-
-கௌதம் தின்னனுரி இயக்கத்தில் விஜய் தேவரகொண்டா, பாக்யஸ்ரீ போர்சே உள்ளிட்ட பலர் நடித்துள்ள திரைப்படம் "கிங்டம்" (kingdom). இப்படம் கடந்த ஜூலை 31ஆம் திகதி தமிழ், தெலுங்கு ஆகிய மொழிகளில் வெளியானது.
-
-இந்நிலையில் கிங்டம் திரைப்படம் குறித்து மதிமுக பொதுச்செயலாளர் வைகோ வெளியிட்டுள்ள அறிக்கையில், “நடிகர் விஜய் தேவரகொண்டா நடிப்பில் வெளியான தெலுங்கு திரைப்படமான கிங்டம், ஈழத்தமிழர்களை மிக மோசமாக சித்தரித்து காட்டுகிறது. இந்தியாவிலிருந்து இலங்கைக்கு குடிபெயர்ந்து சென்ற ஈழத்தமிழர்களை அடிமைகள் போலவும், தீண்ட தகாதவர்களை நடத்துவது போன்று இத்திரைப்படத்தில் காட்சிகள் இடம் பெற்றுள்ளன.
-
-...
-
-[Data](articles/562c67b6.json)
 
 ---

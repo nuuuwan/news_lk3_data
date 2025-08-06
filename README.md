@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 21:50:30**
+As of **2025-08-06 22:07:58**
 
 ## Newspaper Stats
 
-*Scraped **69,120** Articles*
+*Scraped **69,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,656
+adalk | 6,658
 adaderanalk | 8,588
 tamilmirrorlk | 10,094
 virakesarilk | 11,508
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,897
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,120 articles have been extended.
+61,973 (89.7%) of 69,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ඇමෙරිකාව සමග ඇතිකරගත් එකඟතා රටට හෙළි කරන්න
+
+*2025-08-06 21:42:37* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාව-සමග-ඇතිකරගත්-එකඟතා-රටට-හෙළි-කරන්න/11-417765) · `si`
+
+ඇමරිකාව සමග ඇති කරගත් එකඟතාව කුමක්ද යන්න වහාම රටට හෙළි කරන ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ ආණ්ඩුවට අවධාරණය කර සිටී.
+
+එහි මාධ්‍ය ප්‍රකාශක සංජීව එදිරිමාන්න මහතා පෙන්වා දුන්නේ ඇමරිකාව බදු පනවා පසුව අඩුකිරීමට හේතුව ඇමරිකානු අභිලාෂයන්ට එකඟතාව පළකර තිබෙන පදනම මත වන බවත් එසේම එය ධවල මන්දිර ප්‍රකාශනයෙන් පෙන්නුම් කරන බවත්ය.
+
+ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂ මූලස්ථානයේ දි අද (06දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මෙසේද පැවසීය.
+
+“ ලෝකයේ හැම රටක්ම ඇමරිකාව විසින් තමන් වෙත පනවපු මේ අන්‍යෝන්‍ය තීරු බද්ද පහත දමාගැනීම වෙනුවෙන් ඇතිකර ගත් එකඟතා සහ සාකච්ඡාවේ අන්තර්ගතය විවෘතව තමන්ගේ රට ඇතුළේ කතා කරමින් සිටිනවා. ලංකාවේ මේ තීරු බද්ද සියයට හතළිස් ගණන සියයට තිස් ගණනට ඇවිත් එතනින් සියයට විස්ස දක්වා අඩුවීමට අදාළ එකඟතාව සහ සාකච්ඡාව කුමක්ද කියලා තවම ප්‍රකාශ කර නැහැ. මේ ආණ්ඩුව පිළිබඳව  සැක සිතෙන්න සාධාරණ හේතු අපිට තිබෙනවා.
+
+...
+
+[Data](articles/2facd777.json)
+
+---
 
 ### පද්මේගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවන වලස්කටා අත්අඩංගුවට
 
@@ -95,6 +113,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/778c204d.json)
+
+---
+
+### විදුලි බල පනත සම්මතයි
+
+*2025-08-06 21:26:53* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනත-සම්මතයි/11-417763) · `si`
+
+ශ්‍රී ලංකා විදුලි බල (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (06) පාර්ලිමේන්තුවේදී සම්මත විය.
+
+අද පෙ.ව. 11.30 සිට ප.ව. 5.00 ශ්‍රී ලංකා විදුලි බල (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය පැවැත්වුණු අතර ඉන් අනතුරුව පැවති දෙවැනිවර කියවීමේ ඡන්ද විමසීමේදී ඊට පක්ෂව ඡන්ද 121 ක් ද විපක්ෂව ඡන්ද 25 ක් හිමි විය. පසුව පැවති කාරක සභා අවස්ථාවේදි පනත් කෙටුම්පතට සංශෝධන එක් කිරීම සිදු විය.
+
+එසේම තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය. මේ අනුව, ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත පාර්ලිමේන්තුවේ දී වැඩි ඡන්ද 96 කින් සම්මත විය.
+
+◼️
+
+[Data](articles/758cf71d.json)
 
 ---
 
@@ -1811,39 +1845,5 @@ During the raid, authorities recovered nearly 3 kilograms of cordite, over 9 kil
 ...
 
 [Data](articles/f62ca562.json)
-
----
-
-### Aravinda Senarath steps down as COPA Chairman
-
-*2025-08-06 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111229/aravinda-senarath-steps-down-as-copa-chairman) · `en`
-
-National People’s Power (NPP) Member of Parliament Aravinda Senarath has announced that he is stepping down as the Chairman of the Committee on Public Accounts (COPA).
-
-Speaking in Parliament, MP Senarath said he decided to step down as COPA Chair after a decision was taken to grant the post to a member of the opposition.
-
-Accordingly, he stated that he will continue to function as a member of the committee and discharge his duties.
-
-◼️
-
-[Data](articles/da7fbecd.json)
-
----
-
-### Tuition classes targeting 2025 Grade 5 Scholarship exam banned from midnight
-
-*2025-08-06 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111227/tuition-classes-targeting-2025-grade-5-scholarship-exam-banned-from-midnight) · `en`
-
-The conduct of tuition classes, seminars, and other workshops targeting the 2025 Grade Five Scholarship Examination is banned from midnight today (Aug 06) until the conclusion of the exam.
-
-Issuing a statement, the Department of Examinations stated that the printing and distribution of model question papers related to the Grade 5 Scholarship Examination are also prohibited.
-
-Additionally, it is strictly prohibited to publish or distribute posters, banners, handouts, or promotions via electronic, print, or social media that suggest exam questions or similar content will be provided to students.
-
-The Department further emphasized that any individual, institution, or party found violating these directives may be reported to the nearest police station, police headquarters, or the Examination Department’s hotline (1911), or via 0112 784208 or 0112 784537.
-
-...
-
-[Data](articles/84c331c3.json)
 
 ---

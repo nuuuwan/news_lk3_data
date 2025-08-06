@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 14:55:53**
+As of **2025-08-06 15:11:41**
 
 ## Newspaper Stats
 
-*Scraped **69,050** Articles*
+*Scraped **69,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,81 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,212
+economynextcom | 4,214
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,650
+adalk | 6,651
 adaderanalk | 8,578
 tamilmirrorlk | 10,076
 virakesarilk | 11,495
-adaderanasinhalalk | 11,882
+adaderanasinhalalk | 11,884
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 69,050 articles have been extended.
+61,973 (89.7%) of 69,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### නිවසක් මතට වැටුණු පස් කන්දක් ඉවත් කරමින් සිටි පිරිසක් මතට තවත් පස් කන්දක් කඩා වැටෙයි
+
+*2025-08-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213085) · `si`
+
+නිවසක් මතට කඩා වැටුණු පස් කන්ද ඉවත් කරමින් සිටි පුද්ගලයින් පස්දෙනෙකු මතට තවත් පස් කන්දක් කඩා වැටී අනතුරක් සිදුව තිබේ.
+
+ප්‍රදේශවාසීන් මස්කෙළිය රෝහලේ වෛද්‍යවරුන්ගේ සහයෝගය ඇතිව පස් කන්දට යට වී සිටි පුද්ගලයින් 5දෙනා ගොඩට ගෙන මස්කෙළිය ප්‍රාදේශීය රෝහල වෙත ඇතුළත් කර ඇත.
+
+රෝහල් ගත කළ පුද්ගලයන්ගේ තත්ත්වය බරපතළ නොවන බව මස්කෙළිය ප්‍රාදේශීය රෝහලේ වෛද්‍යවරුන් පැවසීය.
+
+◼️
+
+[Data](articles/cb549e14.json)
+
+---
+
+### ඉන්දියාවට එල්ලවිය හැකි ත්‍රස්ත තර්ජනයක් ගැන බුද්ධි අංශ අනතුරු අඟවයි
+
+*2025-08-06 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213084) · `si`
+
+සැප්තැම්බර් 22 සහ ඔක්තෝබර් 02 දින අතර ඉන්දියාව තුළ ත්‍රස්ත තර්ජනයක් එල්ලවිය හැකි බවට ඉන්දීය බුද්ධි අංශ වෙත තොරතුරු අනාවරණය වී තිබේ.
+
+එම තොරතුරු මත සියලු ඉන්දීය ගුවන්තොටුපොළ තුළ ආරක්ෂාව උපරිම ලෙස තර කරන ලෙසට එරට සිවිල් ගුවන් සේවා කාර්යාංශය අදාළ අංශ වෙත උපදෙස් ලබාදී ඇත.
+
+සමාජ විරෝධි කණ්ඩායම් හෝ ත්‍රස්තවාදී ක්‍රියාකාරකම් මත මෙම තර්ජනය එල්ලවිය හැකි බවද ඉන්දීය බුද්ධි අංශ අනතුරු අඟවා ඇති බව වැඩිදුරටත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/eefe58f1.json)
+
+---
+
+### BYD leads Sri Lanka brand new car sales, Yadea top EV bike
+
+*2025-08-06 14:45:00* · [`economynextcom`](https://economynext.com/byd-leads-sri-lanka-brand-new-car-sales-yadea-top-ev-bike-235012/) · `en`
+
+ECONOMYNEXT  – China’s BYD leads brand new car and crossover sales in Sri Lanka, with 3,419 sold so far in 2025, though sales dropped in July, after Customs detained Atto 3 units, over a controversy involving motor size, vehicle registration day showed.
+
+In July EV registrations rose to 4,292 units up from 3,400 in June, an analysis of vehicle registry data by JB Securities, a Colombo-based brokerage, showed.
+
+Motor cars accounted for 264 units, SUVs 107 units, while the majority were two-wheelers, which recorded 3,802 units.
+
+Out of 35,232 vehicles registered in July, 26,171 were motor cycles.
+
+The majority of mobikes had internal combustion engines. Bajaj was the top brand with 10,178 and TVS followed with 7,563 followed by Yamaha at 3,378.
+
+Among electric 2-wheelers, Yadea was the top brand with 2,473. Nwow was 191.
+
+Registered BYD’s in July fell to 787 units, from 1,254 in June. In June six used BYDs were registered.
+
+...
+
+[Data](articles/e1cc920f.json)
+
+---
 
 ### "உங்கள் கரிசனைகளை மனித உரிமை பேரவைக்கான எனது அறிக்கை பிரதிபலிக்கும் ; மனித புதைகுழிகள் மூலம் வெளிவரும் ஆதாரங்களை பாதுகாக்கவேண்டிய அவசிய தேவை உள்ளது" - தமிழ் அரசியல்வாதிகள் சிவில் சமூகத்தினரின் கடிதத்திற்கு ஐநா மனித உரிமை ஆணையாளர் பதில் கடிதம்
 
@@ -189,6 +245,28 @@ Legal action was taken against two British nationals recently, he said.
 ...
 
 [Data](articles/474e4ba9.json)
+
+---
+
+### Businesses allegedly run by tourists owned by Sri Lankans: Police
+
+*2025-08-06 13:30:00* · [`economynextcom`](https://economynext.com/businesses-allegedly-run-by-tourists-owned-by-sri-lankans-police-234993/) · `en`
+
+ECONOMYNEXT – Some businesses which are alleged to be run by foreigners, particularly Israelis, are actually owned by Sri Lankans when investigations are made, Assistant Superintendent of Police and Acting Director of Tourist Police Division Prabath Widanamagama said.
+
+Opposition politicians have pointed out that foreigners on tourist visas run businesses illegally in tourist hotspots such as Arugam Bay and Weligama.
+
+“Yes, we have received reports, we took legal action against some such places, but when we go there to investigate it is Sri Lankans who show up as owners.”
+
+“It is everyone’s responsibility; people engaged in the tourist trade must decide whether they are going to be bought over for money to allow other people to operate under their names.”
+
+“You can’t come to Sri Lanka and do business on a tourist visa, that’s illegal, we take action against that.”
+
+Legal action was taken against two British nationals recently, he said.
+
+...
+
+[Data](articles/6cad1b22.json)
 
 ---
 
@@ -879,6 +957,22 @@ Cars and crossovers together are also now at around pre-crisis levels.
 ...
 
 [Data](articles/1c08e40e.json)
+
+---
+
+### ගීයක පරම අයිතිය ගැන නීති සම්පාදනය කරන්නැයි ජනපතිට ඉල්ලීමක්
+
+*2025-08-06 10:34:14* · [`adalk`](https://www.ada.lk/breaking_news/ගීයක-පරම-අයිතිය-ගැන-නීති-සම්පාදනය-කරන්නැයි-ජනපතිට-ඉල්ලීමක්/11-417754) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලාංකීය ගායක-ගායිකා සංගමය අතර හමුවක් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (05) පස්වරුවේ පැවැත්විණි.
+
+ගීතයක පරම සහ නෛතික අයිතිවාසිකම පද රචකයාට, තනු නිර්මාපකයින්ට මෙන්ම ගායක ගායිකාවන්ටද ලබා දීමට අවශ්‍ය නීති සංශෝධනය කරන ලෙස ශ්‍රී ලාංකීය ගායක-ගායිකා සංගමය මෙහිදී ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කළේය.
+
+බුද්ධිමය දේපළ පනත යටතේ ගීතයක පරම අයිතිය පද රචකයාට හා තනු නිර්මාපකයාට තිබෙන නිසා ජනප්‍රිය ගායක-ගායිකාවන් රැසක් අර්බුදයකට පත් ව ඇති අතර, තමන්ගේ සමාජ මාධ්‍යක ගීතයක් පළ කිරීමටද හැකියාවක් නැති බවද මෙහිදී අවධාරණය කෙරිණි. මේ හේතුවෙන් වෘත්තීය වශයෙන් ගායන ක්ෂේත්‍රයේ නියුතු බොහෝ ගායක-ගායිකාවන් අසාධාරණයට ලක් ව ඇත. මේ සියලු කරුණු පිළිබඳව සලකා බලා ස්වාධීන කමිටුවක් පත් කර අවශ්‍ය නීතී සංශෝධනය කර දෙන ලෙස ගායක-ගායිකා සංගමය විසින් ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කරන ලදී.
+
+...
+
+[Data](articles/d95ecd3a.json)
 
 ---
 
@@ -1701,93 +1795,5 @@ It took almost four decades and tens of thousands of deaths for Sri Lanka to ado
 ...
 
 [Data](articles/53d2157d.json)
-
----
-
-### Minister reveals President’s Fund scholarships went to children and relatives of politicians
-
-*2025-08-06 05:16:03* · [`dailyftlk`](https://www.ft.lk/news/Minister-reveals-President-s-Fund-scholarships-went-to-children-and-relatives-of-politicians/56-779937) · `en`
-
-Urban Development, Construction and Housing Minister Anura Karunathilaka yesterday told Parliament that children and relatives of Presidents, Ministers and Parliamentarians had benefited from the President’s Fund scholarships between 2005 and 2014.
-
-Addressing the House, the Minister said records show that funds meant for scholarships had been allocated to family members of senior political figures during the period.
-
-Among the recipients named were: Harshana Rajakaruna, son of former Gampaha District MP Sarath Chandra Rajapakaruna, I.N. Kodituwakku, relative of former Colombo District MP Karunasena Kodituwakku (2006), V. Radhakrishnan, relative of former National List MP V. Radhakrishnan (2006), Dinesh Dodangoda, through political affiliations in 2006 and K.K. Paranavithane (2006).
-
-...
-
-[Data](articles/fc4bbfcc.json)
-
----
-
-### Governor General of Australia Samantha Joy Mostyn arrives today
-
-*2025-08-06 05:15:01* · [`dailyftlk`](https://www.ft.lk/news/Governor-General-of-Australia-Samantha-Joy-Mostyn-arrives-today/56-779936) · `en`
-
-The Governor General of Australia Samantha Joy Mostyn is scheduled to undertake an official visit to Sri Lanka today.
-
-The Governor General will remain in the country till 10 August, according to a statement issued by the Foreign Affairs, Foreign Employment, and Tourism Ministry.
-
-During the visit, Governor General Mostyn is expected to hold bilateral discussions with President Anura Kumara Disanayake and Prime Minister Dr. Harini Amarasuriya.
-
-The Governor General will also visit several projects supported by Australia in Bandaragama, Mirissa, and Weligama.
-
-The visit aims to further strengthen bilateral cooperation and explore opportunities to expand existing areas of collaboration for the mutual benefit of both countries, the statement added.
-
-◼️
-
-[Data](articles/9a5d5c30.json)
-
----
-
-### Cabinet cuts MPs’ insurance cover to Rs. 250,000
-
-*2025-08-06 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-cuts-MPs-insurance-cover-to-Rs-250-000/56-779935) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved reducing the group insurance cover for Members of Parliament from Rs. 1 million to Rs. 250,000 per Parliamentary year, effective from the next insurance year starting 9 October 2025.
-
-The decision follows a recommendation by President Anura Kumara Disanayake in the 2025 Budget speech, in which he proposed cutting the existing limit by 75% as part of broader cost-rationalisation measures.
-
-“A group insurance policy for MPs was first approved on 15 May 2023, with a maximum coverage of Rs. 1 million annually. The policy has been in effect since then, providing coverage for MPs during their term in office,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
-
-The move is aimed at aligning Parliamentary benefits with the country’s current fiscal constraints, as it continues efforts to streamline public expenditure.
-
-...
-
-[Data](articles/407b93b5.json)
-
----
-
-### New delimitation committee appointed to update administrative divisions
-
-*2025-08-06 05:13:51* · [`dailyftlk`](https://www.ft.lk/news/New-delimitation-committee-appointed-to-update-administrative-divisions/56-779934) · `en`
-
-The Cabinet of Ministers on Monday approved the appointment of a new delimitation committee to review and update administrative boundaries for Divisional Secretariat (DS) divisions and Grama Niladhari (GN) divisions.
-
-The decision comes after limited progress on the work of two earlier committees. The first, appointed in 2012, made several recommendations, but only some were implemented. A second committee, reappointed in 2021, saw none of its proposals acted upon.
-
-“Under the new mandate, the committee will seek feedback on both previous reports from Divisional Coordination Committees and District Coordination Committees,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the post-Cabinet meeting media briefing yesterday.
-
-He said after reviewing this input, the Committee will prepare a fresh set of recommendations for the Government.
-
-...
-
-[Data](articles/8448b419.json)
-
----
-
-### Urban regeneration housing projects to resume with over Rs. 7 b  investment
-
-*2025-08-06 05:13:33* · [`dailyftlk`](https://www.ft.lk/news/Urban-regeneration-housing-projects-to-resume-with-over-Rs-7-b-investment/56-779933) · `en`
-
-The Cabinet of Ministers has approved the resumption of two long-delayed housing developments in Colombage Mawatha Housing Project and the Torrington Mawatha Housing Project under the Urban Regeneration Project with an investment of Rs. 7.48 billion.
-
-The 11-storey housing complex situated on Colombage Mawatha, Narahenpita is part of the Government’s long-term Urban Regeneration Project. The projects, which had been halted for several years, were first cleared for reactivation at the Cabinet meeting on 30 December 2024.
-
-Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said Colombage Mawatha project will see 615 housing units, while Torrington Mawatha will add 115 units, bringing the total to 730 new homes.
-
-...
-
-[Data](articles/1e25a202.json)
 
 ---

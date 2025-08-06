@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 00:08:04**
+As of **2025-08-07 00:27:26**
 
 ## Newspaper Stats
 
-*Scraped **69,132** Articles*
+*Scraped **69,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 705
 islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
-dailyftlk | 4,864
+dailyftlk | 4,866
 adalk | 6,660
 adaderanalk | 8,588
-tamilmirrorlk | 10,098
+tamilmirrorlk | 10,099
 virakesarilk | 11,508
 adaderanasinhalalk | 11,901
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,132 articles have been extended.
+61,973 (89.6%) of 69,135 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-08-07 (Thursday)
+
+### Rule of law in taxation: Rights before revenue – Part 1
+
+*2025-08-07 00:04:11* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-1/4-779983) · `en`
+
+In building a fair and sustainable tax system, the State must remember: power to tax is not the power to oppress
+
+Two important pillars are essential for a fair and transparent tax system. They are: a well-informed public and an accountable tax authority. A weakness or strength of either pillar determines the level of the integrity of the entire system. The strength creates a conducive environment where mutual respect among tax payers and officials, increased tax compliance and friendly culture prevail. The weakness leads to mutual mistrust, increased tax evasion and avoidance and ultimately a deterioration in the quality of national life—not only economically, but socially and culturally as well.
+
+...
+
+[Data](articles/58702792.json)
+
+---
+
 ### 2025-08-06 (Wednesday)
+
+### ’படுகொலை வழக்குகளின் தரவுகள் கிடையாது’
+
+*2025-08-06 23:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படுகொலை-வழக்குகளின்-தரவுகள்-கிடையாது/175-362475) · `ta`
+
+2015  முதல் 2019ஆம் ஆண்டு வரையிலான காலப்பகுதியில் இடம்பெற்றுள்ள ஊழல் மோசடிகள் மற்றும் படு கொலைகள் தொடர்பில் அரசியல்வாதிகள், அரச அலுவலர்களுக்கு எதிராக சட்டமா அதிபர் திணைக்களத்தால் 2022-2024 காலப்பகுதியில் தாக்கல் செய்யப்பட்ட வழக்குகளின் எண்ணிக்கை தொடர்பில் எவ்வித தரவுகளும் கிடையாது என்று நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (06)  அன்று இடம்பெற்ற வாய்மூல விடைக்கான வினா நேரத்தில்  ஐக்கிய மக்கள் சக்தியின் எம்.பி.முஜிபுர் ரஹ்மான், மேலே குறிப்பிட்ட காரணங்களுக்காக 2022-2024 காலப்பகுதியில் தாக்கல் செய்யப்பட்ட வழக்குகளின் எண்ணிக்கை? அவற்றில் இன்றளவில் நிறைவடைந்துள்ள வழக்கு விசாரணைகளின்  எண்ணிக்கை?, அவ்வழக்குகள் யாவை/ வழக்குகளில் சட்டத்துறை தலைமையதிபதியினால் மீளப்பெறப்பட்ட வழக்குகளின் எண்ணிக்கை எத்தனை என்பது தொடர்பில் கேள்வியெழுப்பினார்.
+
+...
+
+[Data](articles/96bfe68b.json)
+
+---
 
 ### ’ட்ரம்பின் வழியில் செல்கிறது ஜே.வி.பி.’
 
@@ -47,6 +77,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6a6e2a8a.json)
+
+---
+
+### Evicting Mahinda, arresting Ulugetenne, becoming India’s Macau: Anura as Yeltsin
+
+*2025-08-06 23:48:30* · [`dailyftlk`](https://www.ft.lk/columns/Evicting-Mahinda-arresting-Ulugetenne-becoming-India-s-Macau-Anura-as-Yeltsin/4-779981) · `en`
+
+An authentically non-elitist leader who broke the caste-class barrier in 1988, President Ranasinghe Premadasa, (AKD doesn’t meet the first criterion), together with his elitist minister Ranjan Wijeratne, literally smashed the Colombo empire of casino king Joe Sim. Now, under Anura Dissanayake’s presidency and in his presence, Lawrence Ho, a Hong Kong born Canadian and CEO of Melco, recommends that Sri Lanka be to India what Macau is to China, and indicates that is our goal and trajectory. (https://www.dailymirror.lk/business-news/SL-poised-to-become-Indias-Macau-says-Melco-chief-at-JKHs-City-of-Dreams-launch/273-315867)
+
+...
+
+[Data](articles/4c17c379.json)
 
 ---
 
@@ -1795,49 +1837,5 @@ The civil aviation ministry’s security wing issued the advisory on August 4, d
 ...
 
 [Data](articles/4c9d02d4.json)
-
----
-
-### මහින්දානන්දට සහ නලින් ප්‍රනාන්දුට එරෙහි නඩුවේ ලේඛන කැඳවීමට නියෝගයක්
-
-*2025-08-06 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213081) · `si`
-
-සිර දඬුවම් ලබාසිටින මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන අයට එරෙහිව නීතිපතිවරයා ගොනුකර ඇති නඩුවේ ලේඛන කැඳවීමට කොළඹ මහාධිකරණය අද (06) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියම කළේය.
-
-2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ කැරම්  බෝඩ් 14,000ක් සහ දාම් ලෑලි 11,000 ක් සතොස ආයතනය හරහා ආනයනය කර  එවක ජනාධිපති අපේක්ෂක මහින්ද රාජපක්ෂ මහතාගේ දේශපාලන කාර්යාලවලට බෙදා හැරීම තුළින් රජයට පාඩුවක් සිදු කළේ යැයි චෝදනා කරමින් මේ වනවිට සිර දඬුවම් ලබා සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත් ගමගේ, නලින් ප්‍රනාන්දු සහ ඇප මත මුදාහැර සිටින ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට එරෙහිව ගොනු කර ඇති නඩුව අද කැඳවු අවස්ථාවේදිය.
-
-ලැයිස්තුගත කර තිබෙන ලේඛන හෝ ඒවායේ මුල් පිටපත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තිබේ නම් ඒවා අද සිට සතියක් තුළ තම අධිකරණයේ රෙජිස්ට්‍රාර්වරයා වෙත ඉදිරිපත් කරන ලෙස එහිදි කොළඹ මහාධිකරණය  අද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියෝග කළේය.
-
-◼️
-
-[Data](articles/7628c19e.json)
-
----
-
-### තෙල් සංස්ථාවේ බස් එකක 50ක් අරන් යනවා මහරගම උද්ඝෝෂණයට ගහන්න
-
-*2025-08-06 12:32:05* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-සංස්ථාවේ-බස්-එකක-50ක්-අරන්-යනවා-මහරගම-උද්ඝෝෂණයට-ගහන්න/11-417757) · `si`
-
-තෙල් සංස්ථාවට අයත් බස් රථයක 50 දෙනෙකුගෙන් සමන්විත පිරිසක් මහරගම අද(06දා) පැවැත්වෙන උද්ඝෝෂණයට පහරදීමට යමින් සිටින බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තුවේදී පැවසීය.
-
-‘මේ වන විට තෙල් සංස්ථාවේ බස් එකක් 50දෙනෙක්ගෙන් පුරවගෙන මහරගම තිබෙන උද්ඝෝෂණයට පහරදීම සඳහා අරගෙන යනවා. ඒ බස් එකේ අංකෙත් එක්කම දෙන්නම්. අද ඒක තමයි ඔබතුමන්ලාට සිදුවෙලා තිබෙන්නේ. ‘
-
-◼️
-
-[Data](articles/5768eba5.json)
-
----
-
-### கோபா தவிசாளர்  இராஜினாமா
-
-*2025-08-06 12:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-தவிசாளர்-இராஜினாமா/175-362420) · `ta`
-
-தேசிய மக்கள் சக்தி (NPP) கட்சியின் பாராளுமன்ற உறுப்பினர் அரவிந்த சேனாரத்ன, பொதுக் கணக்குகள் குழுவின் (COPA) தவிசாளர் பதவியில் இருந்து விலகியுள்ளார்.
-
-கோபா தலைவர் பதவியை எதிர்க்கட்சியிடம் ஒப்படைக்க அரசாங்கம் ஒப்புக்கொண்டதைத் தொடர்ந்து தனது முடிவு எடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சேனாரத்ன ஒரு அறிக்கையை வெளியிட்டார். அந்த செயல்முறை நடைபெற அனுமதிக்கவே தான் பதவி விலகுவதாக அவர் கூறினார்.
-
-◼️
-
-[Data](articles/46035342.json)
 
 ---

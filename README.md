@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 17:31:48**
+As of **2025-08-06 17:54:31**
 
 ## Newspaper Stats
 
-*Scraped **69,076** Articles*
+*Scraped **69,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,86 @@ dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
 islandlk | 4,215
-economynextcom | 4,216
+economynextcom | 4,218
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,652
-adaderanalk | 8,580
+adalk | 6,653
+adaderanalk | 8,583
 tamilmirrorlk | 10,087
-virakesarilk | 11,495
+virakesarilk | 11,500
 adaderanasinhalalk | 11,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,076 articles have been extended.
+61,973 (89.7%) of 69,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### நிசாந்தஉலுகேதன்ன கடற்படை புலனாய்வு பிரிவிற்கு பொறுப்பாகயிருந்த காலத்தில்  திருகோணமலை தளத்திற்குள் சுதந்திரமாக நடமாடிய வெள்ளை வான்கள் - சித்திரவதைகள் ,  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம்
+
+*2025-08-06 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221977) · `ta`
+
+லங்கையின் நீதிமன்ற ஆவணங்களுடன் வெளிநாடுகளில் உயிர்பிழைத்து வாழும் தமிழர்களின் வாக்குமூலங்களையும் கன்சைட்டில் பணியாற்றிய சிங்கள படையினரினதும்( கடற்படையினரும் ஆதாரங்களையும் கண்ணால் பார்த்தவர்களின் தகவல்களையும்  அடிப்படையாக வைத்து இலங்கையில் சிஐடியினரால் கைதுசெய்யப்பட்டுள்ள முன்னாள் கடற்படை தளபதி நிசாந்த உலுகேதன்னஇலங்கையில் தமிழர்கள் சிங்களவர்கள் முஸ்லீம்களிற்கு எதிராக இழைக்கப்பட்ட பாரிய மனித உரிமை மீறல்களிற்கு காரணமாவர்களில்  ஒருவர் என்ற முடிவிற்கு நாங்கள் வந்தோம்.என சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் தெரிவித்துள்ளது.
+
+நிசாந்த உலுகேதென்ன 2010 ஒக்டோபர் மாதம் முதல் டிசம்பர் 2013 வரை கடற்படையின் புலனாய்வு பிரிவின் தலைவராக பணியாற்றினார்.
+
+2025 ஜூலை மாதம்  இலங்கை கடற்படையின் முன்னாள் தளபதி நிசாந்த உலுகேதென்ன இலங்கையின் குற்றப்புலனாய்வு பிரிவினரால்  கைதுசெய்யப்பட்டார்.
+
+ஆள்கடத்தல் சித்திரவதைபலவந்தமாக காணாமல்போகச்செய்தல்மற்றும் நாட்டின் மிக பாதுகாப்பான கடற்படை தளமான திருகோணமலை கடற்படை தளத்தில் சட்டவிரோத படுகொலைகள் ஆகியவை தொடர்பான விசாரணைகளை தொடர்ந்து இவர் கைதுசெய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/44ebf891.json)
+
+---
+
+### Sri Lanka stocks recover 0.44-pct after two-day slide
+
+*2025-08-06 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-recover-0-44-pct-after-two-day-slide-235036/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks recovered following a two-day slide as buying interest returned to the market, pushing the All Share Price Index (ASPI) 0.44 percent higher on Wednesday, brokers said.
+
+“We saw a bit of recovery in the market after sliding for the last couple of days,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI climbed 86.80 points higher from Tuesday to 19,804.80; while the S&P SL20 index ended 0.44 percent, or 2.44 points weaker, to close at 5,827.85.
+
+The index dropped for two consecutive sessions after crossing the psychological 20,000 mark on Monday.
+
+“There was buying interest in John Keells Holdings and the largest shareholder of JKH; CIC Joldings,” Mathew said.
+
+John Keells Holdings closed flat at 23.50 rupees, and CIC Holdings closed up 9.25 rupees at 142.50.
+
+“There was also selected buying in the diversified finance sector. Some consumer stocks like Singer Sri Lanka also saw buying interest.”
+
+...
+
+[Data](articles/5e8f5b8e.json)
+
+---
+
+### Sri Lanka sells Rs82bn treasury bills, yields flat
+
+*2025-08-06 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs82bn-treasury-bills-yields-flat-235049/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 82 billion rupees of Treasury bills, with yields mostly flat across maturities, data from the state debt office showed.
+
+The 3-month yield was down 1 basis point at 7.61 percent, with 25 billion rupees offered and 28.3 billion sold.
+
+The 6-month yield was unchanged at 7.91 percent, with 30 billion rupees offered and 33.93 billion sold.
+
+The 12-month yield was unchanged at 8.03 percent with 27 billion rupees of bills offered and 19.75 billion rupees bills sold.
+
+All 3 bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/c1eb10f1.json)
+
+---
 
 ### Sri Lanka rupee stronger against dollar, bonds flat
 
@@ -71,6 +133,22 @@ A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
 ◼️
 
 [Data](articles/d1e484c9.json)
+
+---
+
+### நாட்டை வந்தடைந்தார் அவுஸ்திரேலிய ஆளுநர் நாயகம்
+
+*2025-08-06 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/221968) · `ta`
+
+அவுஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜோய் மோஸ்டின் உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டு இன்று புதன்கிழமை (06) இலங்கைக்கு வருகை தந்துள்ளார்.
+
+சமந்தா ஜோய் மோஸ்டினை  விமான நிலையத்தில் வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் வரவேற்றுள்ளார்.
+
+அவரது வருகை அவுஸ்திரேலியா -  இலங்கை உறவுகளில் புதிய அத்தியாயத்தைக் குறிப்பதோடு,  அவுஸ்திரேலிய ஆளுநர் நாயகம் ஒருவர் இலங்கைக்கு மேற்கொண்ட முதலாவது அதிகாரப்பூர்வ விஜயம் இதுவாகும்.
+
+◼️
+
+[Data](articles/a044244b.json)
 
 ---
 
@@ -128,6 +206,24 @@ A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
 
 ---
 
+### Former State Minister Shasheendra Rajapaksa remanded
+
+*2025-08-06 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111239/former-state-minister-shasheendra-rajapaksa-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa has been remanded until August 19 after being produced before the Colombo Magistrate’s Court.
+
+Rajapaksa was arrested by Bribery Commission officers at his residence in Nugegoda this morning (06).
+
+It was reported that he was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
+
+...
+
+[Data](articles/57e10000.json)
+
+---
+
 ### சஷீந்திர ராஜபக்ஷவுக்கு விளக்கமறியல்
 
 *2025-08-06 16:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-விளக்கமறியல்/175-362441) · `ta`
@@ -156,6 +252,18 @@ A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
 
 ---
 
+### අත්අඩංගුවට ගත් ශෂීන්ද්‍ර රාජපක්ෂට අධිකරණයෙන් ලැබුණු නියෝගය මෙන්න
+
+*2025-08-06 16:05:23* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-ශෂීන්ද්‍ර-රාජපක්ෂට-අධිකරණයෙන්-ලැබුණු-නියෝගය-මෙන්න/11-417762) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ලබන 19  වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට  කොළඹ  මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/f517ac7e.json)
+
+---
+
 ### ශෂීන්ද්‍ර රාජපක්ෂ රිමාන්ඩ්
 
 *2025-08-06 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213092) · `si`
@@ -171,6 +279,48 @@ A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
 ...
 
 [Data](articles/9040f445.json)
+
+---
+
+### Easter Sunday attacks trial: Hearing of evidence adjourned
+
+*2025-08-06 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111238/easter-sunday-attacks-trial-hearing-of-evidence-adjourned) · `en`
+
+The case filed against 24 defendants, including Naufer Maulavi, on charges of conspiring to commit and aiding and abetting the Easter Sunday terror attacks, was taken up today (06) before a three-judge bench of the Colombo High Court.
+
+The case was heard before Justices Navaratne Marasinghe, Pradeep Abeyratne, and Sujeewa Nissanka.
+
+The defendants were produced in court under tight security, said Ada Derana reporter.
+
+However, as one of the defendants has filed an appeal before the Supreme Court, the High Court ordered that the hearing of evidence be postponed.
+
+Accordingly, the next date for the hearing of evidence has been scheduled for September 11.
+
+The Attorney General filed the case under the Prevention of Terrorism Act (PTA), naming 24 individuals, including Naufer Maulavi, as accused in connection with the 2019 Easter Sunday bombings.
+
+All defendants remain in remand custody as per court orders.
+
+◼️
+
+[Data](articles/51cf2bec.json)
+
+---
+
+### Former State Minister Shasheendra Rajapaksa produced before court
+
+*2025-08-06 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111237/former-state-minister-shasheendra-rajapaksa-produced-before-court) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), has been produced before the Colombo Magistrate’s Court a short while ago.
+
+Rajapaksa was arrested by Bribery Commission officers at his residence in Nugegoda this morning (06).
+
+It was reported that he was taken into custody in connection with an incident where compensation was obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
+
+...
+
+[Data](articles/fc541160.json)
 
 ---
 
@@ -264,6 +414,48 @@ The biggest fine was handed to National Savings Bank (NSB), which was ordered to
 
 ---
 
+### ஆடை ஏற்றுமதி செயல்பாடுகள் குறித்த ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் வெளியிட்டுள்ள அறிக்கை
+
+*2025-08-06 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221961) · `ta`
+
+இலங்கையின் ஆடை ஏற்றுமதிகள், 2025 ஜூன் மாதத்தில் கடந்த ஆண்டின் இதே காலப்பகுதியுடன் ஒப்பிடுகையில் 5.2 % வளர்ச்சியடைந்துள்ளதாக ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் தெரிவித்துள்ளது.
+
+2025 ஜூன் மாதத்தில் கடந்த ஆண்டின் இதே காலப்பகுதியுடன் ஒப்பிடுகையில் இலங்கையின் ஆடை ஏற்றுமதிகள் 5.2 வீதம் வளர்ச்சியடைந்துள்ளது.
+
+ஐரோப்பிய ஒன்றியம் (+23.1%) மற்றும் இங்கிலாந்து (+20.4%) சந்தைகளில் குறிப்பிடத்தக்க வளர்ச்சி காணப்பட்ட போதிலும், அமெரிக்கா (-5.7%) மற்றும் பிற பிராந்தியங்களில் (-9.3%) ஏற்பட்ட வீழ்ச்சியை இது ஈடுசெய்துள்ளது.
+
+2025 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் (ஜனவரி- ஜூன்), ஒட்டுமொத்த ஏற்றுமதி ஆண்டுக்கு ஆண்டு 8.95 வீதமாக அதிகரித்துள்ளது. ஐரோப்பிய ஒன்றியம் (+16.7%), அமெரிக்கா (+4.1%), இங்கிலாந்து (+6.4%) மற்றும் பிற சந்தைகள் (+8.9%) ஆகியவற்றின் வலுவான செயல்திறன் காரணமாக இந்த வளர்ச்சி ஏற்பட்டது.
+
+ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் (JAAF) இந்த புள்ளிவிவரங்கள் ஐரோப்பிய ஒன்றியம் மற்றும் இங்கிலாந்து போன்ற முக்கிய சந்தைகளில் ஊக்கமளிக்கும் வேகத்தைக் காட்டுவதாகத் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/5f4a9ede.json)
+
+---
+
+### ஜப்பானின் ஹிரோசிமா மீது அமெரிக்கா அணுகுண்டை வீசி இன்றுடன் 80 வருடங்கள் -'உக்ரைன் மத்திய கிழக்கு மோதல்கள் அணுகுண்டினால் ஏற்படக்கூடிய பெரும் துன்பியல் நிகழ்வுகளை உலகம் புறக்கணிப்பதை காண்பிக்கின்றது"
+
+*2025-08-06 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221960) · `ta`
+
+உக்ரைன் மத்திய கிழக்கு நெருக்கடிகள் உலகம் அணுவாயுதத்தினால் ஏற்படக்கூடிய பெரும் துன்பியல் நிகழ்வுகளை புறக்கணிக்கின்றது என்பதை வெளிப்படுத்தியுள்ளது என அமெரிக்காவின் அணுகுண்டுவீச்சிற்கு உள்ளான ஹிரோசிமாவின் மேயர் தெரிவித்துள்ளார்.
+
+ஹிரோசிமா மீது அமெரிக்கா அணுகுண்டுவீச்சினை மேற்கொண்டு இன்றுடன் 80 வருடங்களாகின்ற நிலையில் அது தொடர்பான நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+ஹிரோசிமாவின் அமைதிப்பூங்காவில் இடம்பெற்ற நிகழ்வில் பொதுமக்கள் உயிர் பிழைத்தவர்கள்  மற்றும் 120 நாடுகளின் பிரதிநிதிகள் கலந்துகொண்டனர்.
+
+இந்த நிகழ்வில் உரையாற்றிய ஹிரோசிமாவின் மேயர்  கசுமீ மட்சுய் உக்ரைனிலும் மத்தியகிழக்கிலும் இடம்பெற்ற மோதல்கள் அணுவாயுதங்களை ஏற்றுக்கொள்ளும் மனோநிலையை ஏற்படுத்தியுள்ளது என தெரிவித்துள்ளார்.
+
+இந்த மோதல்கள் வரலாற்றின் துயரங்களில் இருந்து சர்வதேச சமூகம் கற்றுக்கொள்ளவேண்டிய பாடங்களை புறக்கணிக்கின்றன என ஹிரோசிமா மேயர் தெரிவித்துள்ளார்.
+
+பலர் மிகவும் கடினமாக உழைத்து உருவாக்கிய அமைதி கட்டமைப்பை கவிழ்த்துவிடுவோம் என  அவர்கள் அச்சுறுத்துகின்றனர் என மேயர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/78a0a547.json)
+
+---
+
 ### පාස්කු ප්‍රහාර නඩුව කල්යයි
 
 *2025-08-06 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213088) · `si`
@@ -285,6 +477,26 @@ The biggest fine was handed to National Savings Bank (NSB), which was ordered to
 ◼️
 
 [Data](articles/08bedbe5.json)
+
+---
+
+### மோசடிகளுடன் தொடர்புடைய 6.8 மில்லியன் கணக்குகள் நீக்கம் - வட்ஸ் அப்
+
+*2025-08-06 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221957) · `ta`
+
+இவ்வருடத்தின் முதல்  பாதியில் உலகெங்கிலும் உள்ள மக்களை குறிவைத்து மோசடி செய்ய பயன்படுத்தப்பட்ட 6.8 மில்லியன் கணக்குகளை வட்ஸ்அப் நீக்கியுள்ளதாக தெரிவித்துள்ளது.
+
+தென்கிழக்கு ஆசியாவில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களில் ஈடுப்படும் மோசடி மையங்களுடன் பலர் பிணைக்கப்பட்டுள்ளனர். அவர்கள் பெரும்பாலும் தங்கள் செயல்பாடுகளில் கட்டாயப்படுத்தி உழைப்பை பெற்றுள்ளதாக மெட்டாவுக்குச் சொந்தமான செய்தியிடல் தளம் தெரிவித்துள்ளது.
+
+பயனர்களை அவர்களின் தொடர்பு பட்டியலில் இல்லாத நபர் குழு ஒன்றில் இணைக்கும் போது ஏற்படும் மோசடி நடவடிக்கைகள் தொடர்பில் எச்சரிக்கை விடுக்கும் வகையில் புதிய மோசடி எதிர்ப்பு நடவடிக்கைகளை வட்ஸ்அப் அறிமுகப்படுத்திய நிலையில் இந்த அறிவிப்பை வெளியிட்டுள்ளது.
+
+இந்த நடவடிக்கை, குற்றவாளிகள் வட்ஸ்அப் கணக்குகளை அபகரிப்பது அல்லது போலி முதலீட்டுத் திட்டங்கள் மற்றும் பிற மோசடிகளை ஊக்குவிக்கும் குழு அரட்டைகளில் பயனர்களைச் சேர்ப்பது அதிகரித்து வரும் பொதுவான தந்திரத்தை இலக்காகக் கொண்டுள்ளது.
+
+மோசடி மையங்கள் அவற்றைச் செயல்படுத்துவதற்கு முன்பே கணக்குகளை கண்டறிந்து அவற்றை நீக்கியதாக வட்ஸ்அப் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/edd613c2.json)
 
 ---
 
@@ -1609,207 +1821,5 @@ Earlier, the CID launched investigations into foreign trips undertaken by Ranil 
 ◼️
 
 [Data](articles/5ccc5df5.json)
-
----
-
-### 120 foreigners obtain temporary driving licenses at BIA service counter
-
-*2025-08-06 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111221/120-foreigners-obtain-temporary-driving-licenses-at-bia-service-counter) · `en`
-
-A total of 120 foreign nationals have been issued temporary driving licenses through the newly established service counter at the Bandaranaike International Airport (BIA) in Katunayake since its launch on August 3, the Commissioner General of Motor Traffic, Kamal Amarasinghe states.
-
-This initiative was introduced to promote tourism and minimize inconvenience to foreign visitors.
-
-The service counter, which operates around the clock, facilitates the issuance of temporary driving licenses to eligible foreigners based on the validity period of their visas and existing driving licenses. The validity of the temporary license ranges from two to five months, he noted.
-
-However, Amarasinghe emphasized that licenses for heavy vehicles and three-wheelers will not be issued through this service. He noted that there is significant demand from foreigners seeking heavy vehicle licenses, but such requests are not entertained through this system.
-
-...
-
-[Data](articles/7aa1d96c.json)
-
----
-
-### Trump administration terminates mRNA vaccine contracts, casting safety doubts
-
-*2025-08-06 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111220/trump-administration-terminates-mrna-vaccine-contracts-casting-safety-doubts) · `en`
-
-President Donald Trump’s administration on Tuesday (Aug 5) announced it would terminate 22 federal contracts for mRNA-based vaccines, questioning the safety of a technology credited with helping end the COVID-19 pandemic and saving millions of lives.
-
-The announcement, made by Health Secretary Robert F Kennedy Jr, marks his latest effort to weave vaccine skepticism into the core of US government policy.
-
-“We reviewed the science, listened to the experts, and acted,” Kennedy said in a statement.
-
-The health department’s Biomedical Advanced Research and Development Authority (BARDA) is “terminating 22 mRNA vaccine development investments because the data show these vaccines fail to protect effectively against upper respiratory infections like COVID and flu”, he added.
-
-“We’re shifting that funding toward safer, broader vaccine platforms that remain effective even as viruses mutate.”
-
-...
-
-[Data](articles/5f4fa011.json)
-
----
-
-### பொலிஸாரின் பாதுகாப்புடன் மன்னாரை சென்றடைந்தது காற்றாலை மின் கோபுரங்களின் பாகங்கள்
-
-*2025-08-06 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221932) · `ta`
-
-மன்னார் - மதவாச்சி பிரதான வீதி,முருங்கன் பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த காற்றாலை மின் கோபுர பாகங்களுடன் காணப்பட்ட பாரிய வாகனங்கள் இன்று புதன்கிழமை (06) அதிகாலை 2.30 மணியளவில் மக்களின் பாரிய எதிர்ப்புகளுக்கு மத்தியில் நூற்றுக்கணக்கான பொலிஸாரின் பாதுகாப்புடன் மன்னார் நகரை சென்றடைந்துள்ளது.
-
-குறித்த காற்றாலை மின் கோபுரங்களுக்கான பாகங்களை மன்னார் நகருக்குள் எடுத்து வரக்கூடாது என்ற கோரிக்கையை முன் வைத்து கடந்த ஞாயிற்றுக்கிழமை (03) இரவு மன்னார் தள்ளாடி சந்தியில் மக்கள் போராட்டத்தை முன்னெடுத்தனர்.
-
-அதனைத்தொடர்ந்து மறு நாள் திங்கள் மற்றும் செவ்வாய் ஆகிய தினங்களில் மன்னார் பிரஜைகள் குழுவின் ஏற்பாட்டில் மக்கள் போராட்டத்தை முன்னெடுத்து வந்த நிலையில் நேற்று செவ்வாய்க்கிழமை (05) காலை மன்னார் பஜார் பகுதியில் உள்ள வர்த்தக நிலையங்களை மூடி மன்னாரில் முன்னெடுக்கப்படவுள்ள 2 ஆம் கட்ட காற்றாலை மின் உற்பத்தி வேலைத்திட்டம் மற்றும்,மன்னார் நகருக்குள் கொண்டு வரப்படவுள்ள காற்றாலை மின் கோபுரங்களை கொண்டு வர வேண்டாம் என்ற கோரிக்கையை முன் வைத்து போராட்டம் ஒன்றை முன்னெடுத்தனர்.
-
-...
-
-[Data](articles/31fbfb53.json)
-
----
-
-### ඝාතනයක්- තරුණයෙකු මරුට
-
-*2025-08-06 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213071) · `si`
-
-නාවුල පොලිස් වසමේ නිකුල ප්‍රදේශයේදී ඊයේ (05) මෙම පහරදීම සිදුව ඇත.
-
-පහර දීමෙන් තුවාල ලැබූ තරුණයා නාලන්ද රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
-
-විමර්ශනයේදී අනාවරණය වී ඇත්තේ මුදල් ආරවුලක් මත මෙම ඝාතනය සිදුකර ඇති බවයි.
-
-﻿මේ සම්බන්ධයෙන් අවුරුදු 41ක් වන නිකුල ප්‍රදේශයේ පදිංචි සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/0ec3aaaf.json)
-
----
-
-### Second reading debate of Electricity (Amendment) Bill in Parliament today
-
-*2025-08-06 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111218/second-reading-of-sri-lanka-electricity-amendment-bill-in-parliament-today) · `en`
-
-The second reading of the Sri Lanka Electricity (Amendment) Bill is scheduled to take place in Parliament today.
-
-The Electricity (Amendment) Bill, which was presented in Parliament earlier this year by the government was also challenged in the Supreme Court.
-
-Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
-
-Following the commencement of today’s sitting, Minister of Energy Kumara Jayakody is scheduled to table the bill for second reading debate.
-
-◼️
-
-[Data](articles/3fc1126e.json)
-
----
-
-### Second reading debate of Electricity (Amendment) Bill in Parliament today
-
-*2025-08-06 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111218/second-reading-debate-of-electricity-amendment-bill-in-parliament-today) · `en`
-
-The second reading of the Sri Lanka Electricity (Amendment) Bill is scheduled to take place in Parliament today.
-
-The Electricity (Amendment) Bill, which was presented in Parliament earlier this year by the government was also challenged in the Supreme Court.
-
-Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
-
-Following the commencement of today’s sitting, Minister of Energy Kumara Jayakody is scheduled to table the bill for second reading debate.
-
-◼️
-
-[Data](articles/ad27f114.json)
-
----
-
-### විදේශිකයින්ට තාවකාලික රියදුරු බලපත්‍ර ලබාදීම ගැන අනාවරණයක්
-
-*2025-08-06 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213070) · `si`
-
-අගෝස්තු මස 3 වනදා සිට විදේශිකයින්ට තවකාලික රියදුරු බලපත්‍ර ලබාදීම සඳහා කටුනායක ගුවන්තොටුපොළ පරිශ්‍රයේ ආරම්භ කළ කවුළුව මඟින් මේවන විට විදේශිකයින් 120 දෙනෙකුට බලපත්‍ර ලබා දී ඇති බව මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් කමල් අමරසිංහ මහතා පවසයි.
-
-ඔහු පැවසුවේ බර වාහන රියදුරු බලපත්‍ර ලබා ගැනීම සඳහා විදේශිකයින්ගෙන් දැඩි ඉල්ලුමක් පැවතින අතර එලෙස එම බලපත්‍ර නිකුත් කිරීමක් සිදුනොවන බවය.
-
-"අපි සංචාරක ප්‍රවාර්ධනය සඳහා සහ සංචාරකයින් අපහසුතාවයට පත්වීම වැළැක්වීමට වෙනත් රටවල තියෙනවා වගේම ලංකාවේත් කටුනායක ගුවන්තොටුපොළේ කවුළුවක් විවෘත කරා අගෝස්තු මාසයේ 3 වෙනිදා සිට තාවකාලික බලපත්‍ර ලබාදීම සඳහා. එය පැය 24 පුරාම විවෘතයි. සමහර බලපත්‍ර ඉල්ලුවට අපිට ලබාදෙන්න බෑ. විශේෂයෙන්ම ත්‍රිවිල් සහ බර වාහන ධාවනයට අපි අවසර ලබාදෙන්නේ නෑ. එවැනි ඉල්ලීම් ප්‍රතික්ෂේප කරනවා. විදේශිකයින්ගේ වීසා කාලය අනුව මාස 2 සිට මාස 5 දක්වා වීසා බලපත්‍රයේ සහ රියදුරු බලපත්‍රයේ වලංගුතාවය මත තාවකාලික බලපත්‍රයක් ලබාදෙනවා. ඊට අමතරව අපි ස්ථීර බලපත්‍රයක් ලබාදෙනවා. ඒක අපි ගුවන්තොටුපොළේ සිදුකරන්නේ නෑ. සුපුරුදු පරිදි ඒක වේරහැර කාර්යාලයෙන් සිදුකරනවා."
-
-...
-
-[Data](articles/23fa4de6.json)
-
----
-
-### GMOA threatens to strike next week
-
-*2025-08-06 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111217/gmoa-threatens-to-strike-next-week) · `en`
-
-The Central Committee of the Government Medical Officers’ Association has decided to launch an island-wide strike based on several demands, including the implementation of doctors’ transfers, Dr. Hansamal Weerasuriya, the Assistant Secretary of the GMOA stated.
-
-Speaking during a media briefing, Dr. Weerasuriya said if solutions are not provided for their issues by 8:00 a.m. on August 11, members of the GMOA will stage an island-wide strike.
-
-He said adequate time has been given to the Ministry of Health to provide solutions to their issues.
-
-Dr. Hansamal Weerasuriya stated, “If there is no proper intervention from the Ministry of Health to address the issues related to the transfer lists, the Central Committee of the Government Medical Officers’ Association has decided to go for a countrywide strike demanding a solution to this problem.”
-
-...
-
-[Data](articles/7c1a326e.json)
-
----
-
-### ’அரச ஊழியர் சம்பளத்தை உயர்த்த விசேட திட்டம்’
-
-*2025-08-06 08:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்-சம்பளத்தை-உயர்த்த-விசேட-திட்டம்/175-362393) · `ta`
-
-அரச சேவையை நவீனத்துவ கலாச்சாரத்திற்குக் கொண்டு செல்ல வேண்டும் எனவும் அதனைப் பாதுகாப்பதற்கு அனைத்து சாத்தியமான நடவடிக்கைகளும் முன்னெடுக்கப்படும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்துள்ளார்.
-
-அலரி மாளிகையில் நடைபெற்ற இலங்கை நிர்வாக சேவை சங்கத்தின் 41 ஆவது வருடாந்த மாநாட்டில் கலந்துகொண்டு கருத்துரைக்கும் போது, அவர் இவ்வாறு குறிப்பிட்டுள்ளார்.
-
-அத்துடன், அடுத்த ஆண்டுக்கான வரவு செலவு திட்டத்தில், பௌதீக வசதிகளை மேம்படுத்துவதன் மூலம் சிதைந்துபோன அரச சேவையை நவீனமயமாக்குவதற்கு முன்னுரிமை அளிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
-
-அரச சேவையை வலுப்படுத்தும் வகையில், 2027ஆம் ஆண்டுக்கான அரச ஊழியர்களின் சம்பள உயர்வுக்காக 11 ஆயிரம் கோடி ரூபாயை ஒதுக்குவதற்கு அரசாங்கம் திட்டமிட்டுள்ளதாகவும் ஜனாதிபதி குறிப்பிட்டுள்ளார். (a)
-
-◼️
-
-[Data](articles/7b3b4f70.json)
-
----
-
-### වත්තල ඝාතනයේ සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට
-
-*2025-08-06 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213068) · `si`
-
-වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී සිදුකළ මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (05) දහවල් කාලයේ මෝදර හා වත්තල ප්‍රදේශවලදී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් දෙදෙනෙකු මනුෂ්‍ය ඝාතනය සිදු කිරීම සම්බන්ධයෙන් සහ එක් සැකකරුවෙකු මනුෂ්‍ය ඝාතනයට අධාර අනුබල දීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
-
-මෙලෙස අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 17, 25 හා 27 වයස්වල පසුවන කොළඹ 15 හා වත්තල ප්‍රදේශවල පදිංචිකරුවන්ය.
-
-මෙහිදී සැකකරුවන් සතුව තිබී අපරාධයට යොදා ගත් ජංගම දුරකථන දෙකක්ද පොලිස් භාරයට ගෙන ඇත.
-
-පසුගිය ජුලි 19 වනදා වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර දී ඝාතනය කර තිබුණි.
-
-මුහුණු ආවරණය කරගත් පුද්ගලයින් සිව්දෙනෙකු විසින් ත්‍රිරෝද රථයකින් අදාළ පුද්ගලයාගේ නිවසට පැමිණ තියුණු ආයුධවලින් පහර දී මෙම ඝාතනය සිදුකර තිබුණි.
-
-මියගිය පුද්ගලයා 2023 වර්ෂයේ මහබාගේ ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන් පුද්ගලයෙකු බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-◼️
-
-[Data](articles/b45a1e75.json)
-
----
-
-### වෛද්‍යවරු රට පුරා වර්ජනයකට සැරසෙයි
-
-*2025-08-06 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213067) · `si`
-
-වෛද්‍යවරුන්ගේ ස්ථාන මාරුවීම් ක්‍රියාත්මක කිරීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දීප ව්‍යාප්ත වැඩවර්ජනයක නිරත වීමට තීරණය කර ඇති බව රජයේ වෛද්‍ය නිධාරීන්ගේ සංගමයේ සහකාර ලේකම් වෛද්‍ය හංසමාල් විජේසූරිය මහතා පවසයි.
-
-ඔහු සඳහන් කළේ ලබන 11 වෙනිද පෙරවරු 8 ට පෙර සිය ගැටලුවලට විසඳුම් ලබා නොදෙන්නේ නම් දීප ව්‍යාප්ත වැඩවර්ජනයක් ක්‍රියාත්මක කරන බවය.
-
-"ස්ථානමාරු ලැයිස්තුවල ගැටලු සඳහා නිසි මැදිහත් වීමක් සෞඛ්‍ය අමාත්‍යාංශ පාර්ශවයෙන් සිදුවෙන්නේ නැත්නම්, රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ මධ්‍යම කාරක සභාව විදියට අපි තීරණය කරලා තියෙනවා දිවයින පුරා දීප ව්‍යාප්තව වැඩවර්ජනයකට යන්න මෙම ප්‍රශ්නයට විසඳුම් ඉල්ලලා. අපි කල්දුන්නා සෞඛ්‍ය අමාත්‍යාංශයට. අපි දිගින් දිගටම සාකච්ඡා කරලා තියෙනවා. නමුත් මේ නිලධාරීන් ඇස්කන් පියාගෙන ඉන්නේ. යම් හෙයකින් ලබන11 වෙනිදා උදේ 8 වෙද්දි සෞඛ්‍ය අමාත්‍යාංශය සුදානම් නැත්නම් මේ සම්බන්ධයෙන් සාධනීය මැදිහත්වීමක් කරන්න අපි ඒක මතිකව තීරණය කළා දීප ව්‍යාප්ත වැඩවර්ජනයකට යන්න."
-
-◼️
-
-[Data](articles/4faf7ba7.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 09:39:42**
+As of **2025-08-06 10:08:07**
 
 ## Newspaper Stats
 
-*Scraped **68,973** Articles*
+*Scraped **68,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,205
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,641
+adalk | 6,642
 adaderanalk | 8,563
-tamilmirrorlk | 10,048
+tamilmirrorlk | 10,049
 virakesarilk | 11,490
-adaderanasinhalalk | 11,870
+adaderanasinhalalk | 11,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,973 articles have been extended.
+61,973 (89.8%) of 68,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### என்னடா இங்க நடக்குது
+
+*2025-08-06 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னடா-இங்க-நடக்குது/62-362394) · `ta`
+
+◼️
+
+[Data](articles/638e12d2.json)
+
+---
+
+### සාගල FCIDයට
+
+*2025-08-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213073) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කාර්යමණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා අද (06) පෙරවරුවේ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/7b417f54.json)
+
+---
+
+### පාර්ලිමේන්තු සභා වාරය ඇරඹේ
+
+*2025-08-06 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213072) · `si`
+
+අද (06) දිනට නියමිත පාර්ලිමේනතු කටයුතු මේ වන විට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/5ccc5df5.json)
+
+---
 
 ### பொலிஸாரின் பாதுகாப்புடன் மன்னாரை சென்றடைந்தது காற்றாலை மின் கோபுரங்களின் பாகங்கள்
 
@@ -45,6 +79,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/31fbfb53.json)
+
+---
+
+### ඝාතනයක්- තරුණයෙකු මරුට
+
+*2025-08-06 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213071) · `si`
+
+නාවුල පොලිස් වසමේ නිකුල ප්‍රදේශයේදී ඊයේ (05) මෙම පහරදීම සිදුව ඇත.
+
+පහර දීමෙන් තුවාල ලැබූ තරුණයා නාලන්ද රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+විමර්ශනයේදී අනාවරණය වී ඇත්තේ මුදල් ආරවුලක් මත මෙම ඝාතනය සිදුකර ඇති බවයි.
+
+﻿මේ සම්බන්ධයෙන් අවුරුදු 41ක් වන නිකුල ප්‍රදේශයේ පදිංචි සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/0ec3aaaf.json)
 
 ---
 
@@ -1008,7 +1060,7 @@ ECONOMYNEXT – Sri Lanka’s anti-dumping and countervailing duties will give m
 
 “In the recent past the biggest complaint is that Sri Lanka’s open economy has put domestic industries in danger,” Industries Minister Suni Handunetti told parliament shortly before rules under the law were approved.
 
-“The industries that will be most protected – I am thankful for the Trade Minister for bringing this law to parliament – are sanitary clothes, bathroom and bathware, the tile industry and leather products, shoes and shoe related industries.”
+“The industries that will be most protected – I am thankful for the Trade Minister for bringing this regulation to parliament – are sanitary clothes, bathroom and bathware, the tile industry and leather products, shoes and shoe related industries.”
 
 Tiles, sanitary ware and shoes are among the worst protectionist industries that has exploited helpless consumers for years by lobbying especially the ousted Rajapaksa administrations for ever higher taxes.
 
@@ -1018,7 +1070,7 @@ Tiles, sanitary ware and shoes are among the worst protectionist industries that
 
 ---
 
-### Japan national cricket team visits Sri Lanka
+### Japan and Sri Lanka begins cricket diplomacy
 
 *2025-08-05 23:15:00* · [`economynextcom`](https://economynext.com/japan-national-cricket-team-visits-sri-lanka-234792/) · `en`
 
@@ -1656,6 +1708,24 @@ Therefore, the renovation and development of the Pettah Central Bus Stand, appro
 
 ---
 
+### විදුලි බල පනත අද විවාදයට
+
+*2025-08-05 18:33:57* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනත-අද-විවාදයට/11-417748) · `si`
+
+ශ්‍රී ලංකා විදුලි බල (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය අද (06දා) පැවැත්වීමට නියමිතව තිබේ.
+
+මෙම විවාදය පසුගිය 24 වැනිදා විවාදයට ගැනීමට නියමිතව තිබුණද පනත් කෙටුම්පත සම්බන්ධ තාක්ෂණික කාරණා හේතුවෙන් එදින විවාදයට නොගෙන කල් දැමීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කළේය.
+
+ඒ අනුව අද දිනයේදී මෙම විවාදය පෙරවරු 11.30 සිට පස්වර් 05 දක්වා පැවැත්වීමට කටයුතු යොදා ඇති අතර, විවාදය අවසනායේදී පනත් කෙටුම්පතට අදාළව ඡන්ද විමසීම සිදුකිරීමට නියමිතව ඇත.
+
+මෙම පනත් කෙටුම්පත ශ්‍රේෂ්ඨාධිකරණය හමුවේ අභියෝග කළ අතර, එහිදී ශ්‍රී ලංකා විදුලිබල (සංශෝධන) නැමැති පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය කරන අතර, ඒ සඳහා පාර්ලිමේන්තුවේ විශේෂ බහුතරයක් සහ ජනමත විචාරණයක් අවශ්‍ය බවත්, කෙසේ වෙතත් එම වගන්ති ශ්‍රේෂ්ඨාධිකරණ තීරණය ප්‍රකාරව සංශෝධනය කරන්නේ නම් එම උල්ලංඝණය කිරීම් මග හැරී යන බවත් නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි මහතා ශ්‍රේෂ්ඨාධිකරණයේ තීරණය පාර්ලිමේන්තුවට දැනුම් දෙමින් පැවසීය.
+
+...
+
+[Data](articles/34eba256.json)
+
+---
+
 ### SriLankan Airlines bond first restructure talks fail
 
 *2025-08-05 18:33:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-bond-first-restructure-talks-fail-234863/) · `en`
@@ -1664,7 +1734,7 @@ ECONOMYNEXT – The first talks to restructure 175 million dollars in guaranteed
 
 “Despite constructive discussions, the Parties did not come to an agreement on restructuring terms,” the statement filed in the Singapore Stock Exchange, said.
 
-SriLankan had proposed to exchange the bonds for 60 million dollars in cash and the rest in Sri Lanka government 4 percent bonds due in 2029 with a 20 cent haircut for a dollar.
+SriLankan had proposed to exchange the bonds for 60 million dollars in cash and the rest in Sri Lanka government 4 percent bonds due in 2028 with a 20 cent haircut for a dollar.
 
 The bondholders had proposed repayment of principle (1 dollar) and accrued interest.
 
@@ -1701,87 +1771,5 @@ a tap of the Sri Lankan Government 2028 USD 1.20 billion 4.00% bond1.
 ...
 
 [Data](articles/96883f27.json)
-
----
-
-### China donates Rs. 400 mln in disaster relief equipment to Sri Lanka
-
-*2025-08-05 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111203/china-donates-rs-400-mln-in-disaster-relief-equipment-to-sri-lanka-) · `en`
-
-The People’s Republic of China has donated a consignment of disaster relief equipment worth over Rs. 400 million to Sri Lanka at a formal handover ceremony held today (August 5) at the Disaster Management Division in Colombo.
-
-Chinese Ambassador Qi Zhenhong officially handed over the humanitarian aid to Defence Secretary Air Vice Marshal (Retd) Sampatha Thuyacontha at the ceremony held this morning.
-
-The Defence Secretary, speaking at the ceremony, expressed deep appreciation for China’s continued support to Sri Lanka, the Ministry of Defence said in a statement.
-
-The donation comes at a critical time as Sri Lanka continues to face frequent natural disasters, particularly floods worsened by climate change, he said. He noted that the equipment will be managed by the National Disaster Relief Services Centre and distributed through district administrations to ensure timely assistance for affected communities.
-
-...
-
-[Data](articles/3f31b0f6.json)
-
----
-
-### Sri Lanka’s  first,last and only North -Eastern  Province Chief Minister A. Varatharaja Perumal Embarks on Political Project to Boost Provincial Councils.
-
-*2025-08-05 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86235) · `en`
-
-The provincial councils  scheme ,   implemented since  1988,  has seen a number of chief ministers being elected by  the various provincial councils over the years. Although the norm has been for each province to have a single chief minister, there has been a notable exception in the past.
-
-In  November 1988, elections were held together for  the temporarily merged Northern and Eastern Provinces. Annamalai Varatharaja Perumal of the Eelam Peoples Revolutionary Liberation Front(EPRLF) was elected as the first chief minister of what was then called the North -Eastern Provincial Council.
-
-...
-
-[Data](articles/80afc03f.json)
-
----
-
-### ඕස්ට්‍රේලියානු ආණ්ඩුකාර ජෙනරාල්වරිය හෙට දිවයිනට
-
-*2025-08-05 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213052) · `si`
-
-ඕස්ට්‍රේලියානු ආණ්ඩුකාර ජෙනරාල් සමන්තා ජෝයි මොස්ටින් හෙට (06) ශ්‍රී ලංකාවේ නිල සංචාරයක නිරත වීමට නියමිතය.
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය නිකුත් කළ නිවේදනයකට අනුව, ආණ්ඩුකාරවරිය අගෝස්තු 6 සිට 10 වැනි දින දක්වා මෙරට තුළ රැඳී සිටිනු ඇත.
-
-මෙම සංචාරය අතරතුර, ආණ්ඩුකාර ජෙනරාල්වරිය ජනාධිපති අනුර කුමාර දිසානායක සහ අගමැතිනි ආචාර්ය හරිනි අමරසූරිය සමඟ ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
-
-බණ්ඩාරගම, මිරිස්ස සහ වැලිගම යන ප්‍රදේශවල ඔස්ට්‍රේලියාව විසින් සහාය දක්වන ව්‍යාපෘති කිහිපයක්ද ආණ්ඩුකාරවරිය විසින් මෙම සංචාරය අතරවාරයේදී නැරඹීමට නියමිතය.
-
-මෙම සංචාරයේ අරමුණ වන්නේ ද්විපාර්ශ්වික සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සහ දෙරටේම අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා පවතින සහයෝගීතා ක්ෂේත්‍ර පුළුල් කිරීමේ අවස්ථා පිළිබඳ සොයා බැලීම බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය පවසයි.
-
-◼️
-
-[Data](articles/2b02fa93.json)
-
----
-
-### மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரேயொரு  முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.
-
-*2025-08-05 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86242) · `en`
-
-1988 ஆம் ஆண்டு முதல் நடைமுறைப்படுத்தப்பட்ட மாகாணசபைகள் முறை,  பல வருடங்களாக வெவ்வேறு மாகாண சபைகளுக்கு மக்களால் தெரிவுசெயயப்பட்ட பல முதலமைச்சர்களை கண்டுவந்திருக்கிறது. ஒவ்வொரு மாகாணத்துக்கும் தனியொரு முதலமைச்சர் என்பதே நியமமாக இருந்த போதிலும், கடந்த காலத்தில் ஒரு குறிப்பிடத்தக்க விதிவிலக்கும் இருந்தது.
-
-தற்காலிகமாக இணைக்கப்பட்ட வடக்கு, கிழக்கு மாகாணங்களுக்கு 1988 நவம்பரில் தேர்தல் நடத்தப்பட்டது. வடக்கு — கிழக்கு மாகாணசபை என்று அன்று அழைக்கப்பட்ட சபையின் முதலாவது முதலமைச்சராக ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியைச் சேர்ந்த அண்ணாமலை வரதராஜப் பெருமாள் தெரிவு செய்யப்பட்டார்.
-
-...
-
-[Data](articles/37869b53.json)
-
----
-
-### காணாமல் போயுள்ளவர் தொடர்பில் தகவல் தெரிந்தால் அறிவிக்கவும்
-
-*2025-08-05 17:56:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போயுள்ளவர்-தொடர்பில்-தகவல்-தெரிந்தால்-அறிவிக்கவும்/175-362357) · `ta`
-
-மட்டக்களப்பு புதூரைச் சேர்ந்த 56 வயதுடைய குடும்பஸ்தர் ஒருவர் கடந்த 26ம் திகதியில் இருந்து காணாமல் போயுள்ளதாக உறவினர்கள் முறைப்பாடு தெரிவித்துள்ளதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவித்தனர்
-
-நகரிலுள்ள உணவகத்தில் வேலை செய்து வந்த புதூரைச் சேர்ந்த 56 வயதுடைய கணேஷ் விக்கினேஸ்வரன் கடந்த மாதம் 19ம் திகதி வழமைபோல வீட்டில் இருந்து உணவகத்திற்கு வேலைக்கு சென்றவர் அன்று வீடு திரும்பாத நிலையில்  அவரை உறவினர்கள் தொடர்பு கொண்ட போது மாமாங்க கோவில் உற்றவத்தையிட்டு அங்கு  தான் வேலை செய்யும் முதலாளி உணவு கடை அமைத்துள்ளதாகவும் அங்கு நிற்பதாக தெரிவித்துள்ளார்.
-
-இதன் பின்னர் கடந்த மாதம் 26 ஆம் திகதி முதலாளி சம்பளம் தரவில்லை தந்ததும் வருவதாக தொலைபேசி ஊடாக தெரிவித்து கொண்டார் அதன் பின்னர் கோவில் உற்சவம் முடிவுற்ற பின்னர் அவரின் தொலைபேசி செயலிழந்துள்ளது அடுத்து அவர் வீடு திரும்பியதையடுத்து அவரை உறவினர்கள் தேடியும் அவரை காணவில்லை என முறைப்பாட்டில் தெரிவித்துள்ளார்
-
-...
-
-[Data](articles/3ab3497e.json)
 
 ---

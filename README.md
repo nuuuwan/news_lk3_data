@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 17:06:17**
+As of **2025-08-06 17:18:50**
 
 ## Newspaper Stats
 
-*Scraped **69,073** Articles*
+*Scraped **69,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,214
+economynextcom | 4,215
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,652
 adaderanalk | 8,580
-tamilmirrorlk | 10,086
+tamilmirrorlk | 10,087
 virakesarilk | 11,495
 adaderanasinhalalk | 11,889
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,073 articles have been extended.
+61,973 (89.7%) of 69,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ஆஸ்திரேலிய ஆளுநர், குழுவுடன் வந்தடைந்தார்
+
+*2025-08-06 17:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆஸ்திரேலிய-ஆளுநர்-குழுவுடன்-வந்தடைந்தார்/175-362448) · `ta`
+
+ஆஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜாய் மோஸ்டின் ட்டு கட்டுநாயக்க விமான நிலையத்தை புதன்கிழமை (06) பிற்பகல் வந்தடைந்தார். அவருடன் அவரது தூதுக்குழுவில் 12 பேர் கலந்து கொண்டனர். ​அக்குழுவினர் நான்கு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ளனர்.
+
+ராயல் ஆஸ்திரேலிய விமானப்படைக்கு சொந்தமான ASY-319 என்ற சிறப்பு விமானத்தில் கட்டுநாயக்க விமான நிலையத்தை மதியம் 01.54 மணிக்கு வந்தடைந்தனர்.
+
+வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா ஊக்குவிப்பு அமைச்சர்   விஜித ஹேரத், அவர்களை வரவேற்க கட்டுநாயக்க விமான நிலையத்தில் உள்ள சிறப்பு விருந்தினர்கள் ஓய்வறையில் இருந்தார்.
+
+ஆஸ்திரேலிய ஆளுநர் மற்றும் அவரது குழுவினர் ஜனாதிபதி, பிரதமர் மற்றும் நாட்டின் உயர்மட்ட இராஜதந்திரிகளை சந்தித்து கலந்துரையாட உள்ளனர்,
+
+மேலும் ஆஸ்திரேலிய அரசாங்கத்தின் உதவியுடன் நாட்டின் பண்டாரகம, மிரிஸ்ஸ மற்றும் வெலிகம பகுதிகளில் செயல்படுத்தப்பட்டு வரும் அபிவிருத்தி திட்டங்களைக் கண்காணிக்கும் சுற்றுப்பயணத்திலும் ஈடுபட உள்ளனர்.
+
+◼️
+
+[Data](articles/d1e484c9.json)
+
+---
 
 ### பொத்துவில் -பொலிகண்டி  வழக்கு ஒத்திவைப்பு
 
@@ -201,6 +221,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bf942d4a.json)
+
+---
+
+### Sri Lanka’s FIU fines bank, casinos for violating Anti-Money Laundering rules
+
+*2025-08-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-fiu-fines-bank-casinos-for-violating-anti-money-laundering-rules-235039/) · `en`
+
+ECONOMYNEXT – The Financial Intelligence Unit (FIU) at the Central Bank of Sri Lanka has taken fined three institutions including two involved with casinos for failing to follow the country’s Anti-Money Laundering and Counter-Terrorism Financing laws.
+
+Between January and June 2025, the FIU imposed a total of Rs. 6.5 million in penalties under the powers given to it by the Financial Transactions Reporting Act (FTRA(, the Central Bank said in a statement.
+
+“….financial penalties are imposed on institutions for non-compliance with the provisions of the FTRA,” the Central Bank said.
+
+The biggest fine was handed to National Savings Bank (NSB), which was ordered to pay Rs. 3.5 million on April 16, 2025.
+
+...
+
+[Data](articles/da709115.json)
 
 ---
 
@@ -1765,43 +1803,5 @@ These accidents occurred yesterday (05) in Galenbindunuwewa, Nalla, Dompe, Pugod
 ◼️
 
 [Data](articles/d9a9d836.json)
-
----
-
-### China reports 7,000 Chikungunya cases
-
-*2025-08-06 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111214/china-reports-7000-chikungunya-cases) · `en`
-
-China is a facing a major chikungunya outbreak with over 7,000 cases of the mosquito-borne virus reported in the Guangdong province.
-
-The outbreak has prompted the authorities to trigger actions similar to the COVID-19 outbreak. Among the worst-affected regions in the country is the city of Foshan, where chikungunya patients have been ordered to stay in the hospital until they test negative.
-
-In a public notice issued, the retail pharmacies have been ordered to start real-name registration and to keep records when selling medications to treat symptoms of chikungunya, including fever, rashes and joint pain.
-
-People who have travelled from chikungunya-affected cities in Guangdong have been told to self-monitor for symptoms, according to a report in South China Morning Post.
-
-...
-
-[Data](articles/7b20f056.json)
-
----
-
-### Governor General of Australia Samantha Joy Mostyn to arrive in Sri Lanka today
-
-*2025-08-06 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111213/governor-general-of-australia-samantha-joy-mostyn-to-arrive-in-sri-lanka-today) · `en`
-
-The Governor General of Australia Samantha Joy Mostyn is scheduled to arrive in Sri Lanka today on an official visit.
-
-The Governor General will remain in Sri Lanka until August 10, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-During the visit, Governor General Samantha Joy Mostyn is expected to hold bilateral discussions with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
-
-The Governor General will also visit several projects supported by Australia in Bandaragama, Mirissa and Weligama.
-
-The visit aims to further strengthen bilateral cooperation and explore opportunities to expand existing areas of collaboration for the mutual benefit of both countries, the Foreign Ministry noted.
-
-◼️
-
-[Data](articles/b3b0aea0.json)
 
 ---

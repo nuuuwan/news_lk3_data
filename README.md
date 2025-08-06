@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 10:56:17**
+As of **2025-08-06 11:12:59**
 
 ## Newspaper Stats
 
-*Scraped **68,987** Articles*
+*Scraped **68,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,205
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,643
-adaderanalk | 8,563
-tamilmirrorlk | 10,054
+adalk | 6,644
+adaderanalk | 8,569
+tamilmirrorlk | 10,055
 virakesarilk | 11,490
 adaderanasinhalalk | 11,875
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 68,987 articles have been extended.
+61,973 (89.8%) of 68,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### வீட்டின் பின்புறத்தில் புதைக்கப்பட்ட குழந்தையின் சடலம் மீட்பு
+
+*2025-08-06 10:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டின்-பின்புறத்தில்-புதைக்கப்பட்ட-குழந்தையின்-சடலம்-மீட்பு/76-362404) · `ta`
+
+ஒரு வீட்டின் பின்புறத்தில் இருந்து  ஒரு பெண் குழந்தையின் சடலம் செவ்வாய்க்கிழமை (05) மீட்கப்பட்டதாக மாவனெல்ல பொலிஸார் தெரிவித்தனர். கண்டி, டங்கொல்ல பகுதியில் ஒருவரின் ரகசிய தகவலைத் தொடர்ந்து இந்த சடலம் கண்டெடுக்கப்பட்டது.
+
+மாவனெல்லையில் உள்ள உறவினர் ஒருவரின் வீட்டில்  ஜூலை 31 ஆம் திகதி குழந்தை பிறந்திருந்தாலும், அந்த நேரத்தில் குழந்தை ஏற்கனவே இறந்துவிட்டதாகவும், எனவே அவரது தந்தை மற்றும் பாட்டி அதை ஒரு வெள்ளைத் துணியில் சுற்றி மத சடங்குகளைச் செய்த பின்னர் வீட்டின் முற்றத்தில் புதைத்ததாகவும் கர்ப்பிணிப் பெண் தெரிவித்துள்ளார்.
+
+மாவனெல்ல பதில் நீதவான் திருமதி எரங்கிகா வீரசிங்க முன்னிலையில் குழந்தையின் சடலம் மீட்கப்பட்டது. பின்னர் உடலை மாவனெல்ல மருத்துவமனைக்கு அனுப்ப உத்தரவிட்டார். சந்தேக நபர் தற்போது கண்டி மருத்துவமனையின்   சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/53d727df.json)
+
+---
 
 ### மனைவிக்காக நிதியை பெற்ற மலையக எம்.பி
 
@@ -90,6 +106,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 133,000 new vehicles registered in Sri Lanka since January
+
+*2025-08-06 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111224/133000-new-vehicles-registered-in-sri-lanka-since-january-) · `en`
+
+A total of 133,678 new vehicles have been registered in Sri Lanka since January, according to the Commissioner General of Motor Traffic, Kamal Amarasinghe, who was commenting on recent trends in vehicle registration in the country.
+
+The Commissioner General of Motor Traffic noted that a total of 100,451 new motorcycles have been registered thus far in 2025.
+
+He said 20,535 cars have also been registered since January while the remaining registrations include dual-purpose vehicles, lorries, and three-wheelers.
+
+“We are observing a steady increase in the number of vehicle registrations day by day,” Commissioner General of Motor Traffic Kamal Amarasinghe added.
+
+The government earlier this year lifted the import restrictions on motor vehicles which was imposed due to the depletion of foreign reserves in the country.
+
+◼️
+
+[Data](articles/eb364672.json)
+
+---
+
 ### සඳ මත න්‍යෂ්ටික ප්‍රතික්‍රියාකාරකයක් ඉදිකිරීමේ සූදානමක්
 
 *2025-08-06 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213075) · `si`
@@ -111,6 +147,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1b29a524.json)
+
+---
+
+### Former State Minister Shasheendra Rajapaksa arrested
+
+*2025-08-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111223/former-state-minister-shasheendra-rajapaksa-arrested) · `en`
+
+Former State Minister Shasheendra Rajapaksa has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), a short while ago.
+
+Former State Minister Rajapaksa was arrested by officers of the Bribery Commission at his residence.
+
+◼️
+
+[Data](articles/b06d31fc.json)
 
 ---
 
@@ -156,6 +206,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sagala Ratnayaka arrives at FCID
+
+*2025-08-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111222/sagala-ratnayaka-arrives-at-fcid) · `en`
+
+Former Chief of Staff of former President Ranil Wickremesinghe Sagala Ratnayaka has arrived at the Financial Crimes Investigation Division (FCID).
+
+◼️
+
+[Data](articles/1411e02b.json)
+
+---
+
 ### සාගල FCIDයට
 
 *2025-08-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213073) · `si`
@@ -177,6 +239,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5ccc5df5.json)
+
+---
+
+### 120 foreigners obtain temporary driving licenses at BIA service counter
+
+*2025-08-06 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111221/120-foreigners-obtain-temporary-driving-licenses-at-bia-service-counter) · `en`
+
+A total of 120 foreign nationals have been issued temporary driving licenses through the newly established service counter at the Bandaranaike International Airport (BIA) in Katunayake since its launch on August 3, the Commissioner General of Motor Traffic, Kamal Amarasinghe states.
+
+This initiative was introduced to promote tourism and minimize inconvenience to foreign visitors.
+
+The service counter, which operates around the clock, facilitates the issuance of temporary driving licenses to eligible foreigners based on the validity period of their visas and existing driving licenses. The validity of the temporary license ranges from two to five months, he noted.
+
+However, Amarasinghe emphasized that licenses for heavy vehicles and three-wheelers will not be issued through this service. He noted that there is significant demand from foreigners seeking heavy vehicle licenses, but such requests are not entertained through this system.
+
+...
+
+[Data](articles/7aa1d96c.json)
+
+---
+
+### Trump administration terminates mRNA vaccine contracts, casting safety doubts
+
+*2025-08-06 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111220/trump-administration-terminates-mrna-vaccine-contracts-casting-safety-doubts) · `en`
+
+President Donald Trump’s administration on Tuesday (Aug 5) announced it would terminate 22 federal contracts for mRNA-based vaccines, questioning the safety of a technology credited with helping end the COVID-19 pandemic and saving millions of lives.
+
+The announcement, made by Health Secretary Robert F Kennedy Jr, marks his latest effort to weave vaccine skepticism into the core of US government policy.
+
+“We reviewed the science, listened to the experts, and acted,” Kennedy said in a statement.
+
+The health department’s Biomedical Advanced Research and Development Authority (BARDA) is “terminating 22 mRNA vaccine development investments because the data show these vaccines fail to protect effectively against upper respiratory infections like COVID and flu”, he added.
+
+“We’re shifting that funding toward safer, broader vaccine platforms that remain effective even as viruses mutate.”
+
+...
+
+[Data](articles/5f4fa011.json)
 
 ---
 
@@ -211,6 +311,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0ec3aaaf.json)
+
+---
+
+### Second reading of Sri Lanka Electricity (Amendment) Bill in Parliament today
+
+*2025-08-06 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111218/second-reading-of-sri-lanka-electricity-amendment-bill-in-parliament-today) · `en`
+
+The second reading of the Sri Lanka Electricity (Amendment) Bill is scheduled to take place in Parliament today.
+
+◼️
+
+[Data](articles/3fc1126e.json)
 
 ---
 
@@ -1623,121 +1735,5 @@ Four people were killed and many more had been rescued so far, Uttarkashi distri
 ◼️
 
 [Data](articles/75aa98b2.json)
-
----
-
-### துல்கர் சல்மான் நடிக்கும் புதிய படத்தின் படப்பிடிப்பு தொடக்கம்
-
-*2025-08-05 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221906) · `ta`
-
-தென்னிந்திய திரையுலகில் முன்னணி நட்சத்திர நடிகராகவும் , பான் இந்திய நடிகராகவும் புகழ்பெற்றிருக்கும் துல்கர் சல்மான் நடிப்பில் தயாராகும் பெயரிடப்படாத திரைப்படத்தின் படப்பிடிப்பு தொடங்கி இருக்கிறது.
-
-அறிமுக இயக்குநர் ரவி நெலகுடிடி  இயக்கத்தில் உருவாகும்' #DQ 41 ' என தற்காலிகமாக பெயரிடப்பட்டிருக்கும் இந்த திரைப்படத்தில் துல்கர் சல்மான் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடிக்கிறார். அனய் ஓம் கோஸ்சுவாமி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைக்கிறார். இளமை ததும்பும் காதல் கதையாக தயாராகும் இந்த திரைப்படத்தை எஸ் எல் வி சினிமாஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் சுதாகர் செருகுரி தயாரிக்கிறார்.
-
-ஹைதராபாத்தில் பிரம்மாண்டமாக நடைபெற்ற இப்படத்தின் தொடக்க விழாவில் 'நேச்சுரல் ஸ்டார்' நானி சிறப்பு அதிதியாக பங்கு பற்றி படப்பிடிப்பினை தொடங்கி வைத்தார். இவருடன் இயக்குநர்கள் ஸ்ரீகாந்த் ஒதெலா - புஜ்ஜி பாபு சனா ஆகியோரும் பங்கு பற்றி படக்குழுவினருக்கு வாழ்த்து தெரிவித்தனர்.
-
-...
-
-[Data](articles/ce80d6b7.json)
-
----
-
-### தேசபந்து தென்னகோனுக்கு மட்டுமல்லாது தமிழினவழிப்புகளுக்கும்  நீதி விசாரணை வேண்டும் - சிறிதரன்
-
-*2025-08-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/221913) · `ta`
-
-பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனுக்கு எதிராக  அரசாங்கம் கொண்டுவரவுள்ள நீதியை தமிழர்களுக்கு எதிராக செயற்பட்டவர்களுக்கு கொண்டுவர நீங்கள் தயார் இல்லை. அந்த தெளிவான மனநிலை உங்களிடம் இல்லை.தேசபந்து தென்னகோனுக்கு  மட்டுமல்ல. இங்கு நடந்த தமிழினப் படுகொலைகள். கட்டமைக்கப்பட்ட இனவழிப்புகளுக்கும்  நீதி விசாரணை வேண்டும் என  இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் வலியுறுத்தினார்.
-
-செம்மணி  தொடர்பில் சர்வதேச விசாரணை ஒன்றை முன்னெடுக்க வேண்டும்.அதில் நான் சாட்சியமளிக்க  தயார் என மரண தண்டனை கைதியான சோமரத்ன ராஜபக்ஷ தெரிவித்துள்ளார். ஆகவே சர்வதேச விசாரணைக்கு  சோமரத்ன  ராஜபக்சவை  தயார்படுத்துங்கள். உண்மைகள் வெளியே வரட்டும். செம்மணி குறித்து  சோமரத்ன ராஜபக்ஷவின் மனைவி ஜனாதிபதிக்கு அனுப்பிய கடிதம் தொடர்பில் அரசாங்கத்தின் நிலைப்பாடு என்னவென்று கேள்வியெழுப்பினார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (5) நடைபெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/d7bd845b.json)
-
----
-
-### මාවනැල්ලේ මිඳුලක වළ දැමූ බිළිඳු මළ සිරුරක් හමුවෙයි
-
-*2025-08-05 18:58:10* · [`adalk`](https://www.ada.lk/breaking_news/මාවනැල්ලේ-මිඳුලක-වළ-දැමූ-බිළිඳු-මළ-සිරුරක්-හමුවෙයි/11-417752) · `si`
-
-මාවනැල්ල නගරයේ නිවසක පිටු පස වළලා තිබූ බිලිු  මල සිරුරක් අද (5) ගොඩගත් බව මාවනැල්ල පොලීසිය පවසයි. මහනුවර දංගොල්ල ප්‍රදේශයේ අයෙකු විසින් පොලීසියට ලබාදුන් තොරතුරක් අනුව මෙම මළ සිරුර සොයාගෙන තිබේ.
-
-මහනුවර පොලීසියේ කණ්ඩායමක් මේ පිලිබදව පරික්ෂළුණ ආරම්භ කර ඇති අතර එහි දී ගර්භණී තත්වයෙන් සිටි කාන්තාව ප්‍රකාශය කර ඇත්තේ ජූලි මස 31 වන දින  මාවනැල්ල  තම ඥාති නිවසක දී දරුවා බිහි වුවත් ඒ වනවිටත් දරුවා මියගොස් සිටි බැවින් තම පියා හා ආච්චි විසින් ආගමානුකූලව කටයුතු කිරීමන් පසුව  සුදු රෙදි කඩකින් ඔතා  නිවසේ මිදුලේ වල දමා ඇති බවයි.
-
-අදාළ බිලිදු මළ සිරරු මාවනැල් වැඩ බලන මහේස්ත්ත්‍රාත් එරංගිකා වි්‍රාමසිංහ මහත්මිය ඉදිරියේ ගොඩ ගන්නා ලදී. පසුව සිරුර මාවනැල්ල රෝහල වෙත යැවීමට නියෝග කළාය. අදාල සැකකර කාන්තාව මේ වනවිට  මහනුවර රෝහලේ වාට්ටු අංක 5 හි ප්‍රතිකාර ලබයි.
-
-◼️
-
-[Data](articles/42b03513.json)
-
----
-
-### Pettah Central Bus Stand to be renovated under ‘Clean Sri Lanka’ program
-
-*2025-08-05 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111204/pettah-central-bus-stand-to-be-renovated-under-clean-sri-lanka-program) · `en`
-
-The Cabinet of Ministers has granted approval for the proposal presented by the Minister of Transport, Highways, Ports, and Civil Aviation to renovate and develop the Pettah Central Bus Stand by utilizing the provisions allocated for the “Clean Sri Lanka” program.
-
-The access roads, bus yards, passenger stands, driver and conductor restrooms, administrative buildings, and sanitation and drainage systems of the Pettah Central Bus Stand have been in a dilapidated condition due to a lack of repairs and maintenance.
-
-As a consequence, the passengers, along with drivers, conductors, and operational staff who use the Pettah Central Bus Stand, have encountered immense difficulties, the Cabinet Spokesman Minister Dr. Nalinda Jayatissa said.
-
-Therefore, the renovation and development of the Pettah Central Bus Stand, appropriate to the present condition, have been identified as essential requirements.
-
-...
-
-[Data](articles/5fc8350b.json)
-
----
-
-### රු. 10000ක අල්ලස් ගත් පොලිස් සැරයන් අත්අඩංගුවට
-
-*2025-08-05 18:48:27* · [`adalk`](https://www.ada.lk/breaking_news/රු--10000ක-අල්ලස්-ගත්-පොලිස්-සැරයන්-අත්අඩංගුවට/11-417751) · `si`
-
-රු.10000ක අල්ලස් මුදලක් ලබා ගත් පොලිස් සැරයන්වරයෙකු අත් අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ  පසු මේ මස 18 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කළ බව අල්ලස් කොමිසම සඳහන් කරයි.
-
-කන්දකැටිය ප්‍රදේශයේ ව්‍යාපාරිකයකු විසින් සිදු කළ පැමිණිල්ලක් අනුව කීර්ති බණ්ඩාරපුර පොලිස් ස්ථානයේ සැරයන්වරයෙකු රු. 10,000/- අල්ලස් ඉල්ලා ලබා ගැනීමේදී කීර්ති බණ්ඩාරපුර හෝටලයකදී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අද (05දා)  අත්අඩංගුවට ගෙන තිබේ.
-
-පැමිණිලිකරුට අයත් වැලි ප්‍රවාහනය කරනු ලබන ලොරි රථයක් නවතා එහි වැලි ප්‍රවාහන බලපත්‍රය අත්සන් නොකර සිටීමටත්, වැලි ප්‍රවාහන කටයුතු බාධාවකින් තොරව කරගෙන යාමටත් රු. 10,000/- ක අල්ලස් ඉල්ලා ලබා ගැනීමේදී සැකකරු අත්අඩංගුවට ගත්  බව අල්ලස් කොමිසම සඳහන් කරයි.
-
-අත්අඩංගුවට ගත් සැකකරු වලපනේ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මේ මස.18 දින දක්වා රක්ෂිත බන්ධනාගාරගත කළ බවද අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ මාධ්‍ය ඒකකය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/0ff290a4.json)
-
----
-
-### செம்மணி மனிதப் புதைகுழி: நீதி அமைச்சின் அரசியல் தலையீடும் அச்சுறுத்தலும் அதிகரித்து வருகிறது -  கஜேந்திரகுமார் பொன்னம்பலம்
-
-*2025-08-05 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/221912) · `ta`
-
-செம்மணி மனிதப் புதைகுழி அகழ்வில் நீதி அமைச்சு கடுமையான முறையில் அரசியல் ரீதியாக தலையீடு செய்கின்றது. நீதி அமைச்சின் செயலாளர் அகழ்வில் ஈடுபடுவோருடன் நேரடித்தொடர்பில் இருக்கின்றார். தடயப்பொருட்கள் அடையாளப்படுத்தப்படும் இடத்தின் வாசலில்  சி.ஐ.டி.யினர் அமர்ந்திருந்த மக்களை அச்சுறுத்தும் வகையில் செயற்படுகின்றனர். இந்த அரசாங்கத்திற்கும்  மற்றவர்களுக்குமிடையில் இனம் சார்ந்த விடயங்களில் ஒரு வித்தியாசமும் கிடையாது. இது தமிழனுக்கு நடக்கின்றது, அதனால் இது அரசியல் தலையீடு அல்ல. என்பதே  இந்த அரசாங்கத்தின் நிலைப்பாடு என தமிழ்த் தேசிய  மக்கள் முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம்  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (5) நடைபெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/6c8db5b5.json)
-
----
-
-### රු. ලක්ෂ 4250කින් මධ්‍යම බස් නැවතුම නවීකරණය කරයි
-
-*2025-08-05 18:44:54* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ 4250කින්-මධ්‍යම-බස්-නැවතුම-නවීකරණය-කරයි/11-417750) · `si`
-
-රුපියල් මිලියන 425 ක් පමණ වැය  කර “Clean Sri Lanka ” වැඩසටහන යටතේ පිටකොටුව මධ්‍යම බස් රථ නැවතුම්පොළ සංවර්ධනය කිරීමට රජය තීරණය කර තිබේ.
-
-දශක ගණනාවක් තිස්සේ අලුත්වැඩියා හා යාවත්කාලීන කිරීම් සිදු නොකිරීම හේතුවෙන් පිටකොටුව මධ්‍යම බස් රථ නැවතුම්පොළෙහි ප්‍රවේශ මාර්ග, බස් රථ අංගන, මගී නැවතුම්, රියදුරු - කොන්දොස්තර විවේකාගාර, පරිපාලන ගොඩනැගිලි, සනීපාරක්ෂක හා ජලාපවහන පද්ධති මේ වන විට ඉතා අබලන් තත්ත්වයකට පත්ව ඇත.
-
-එම තත්ත්වය හේතුවෙන් පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ භාවිත කරනු ලබන මගී ජනතාවට මෙන්ම රියදුරු හා කොන්දොස්තර මහත්වරුන්ට සහ  මෙහෙයුම් කාර්ය මණ්ඩලයට දැඩි අපහසුතාවන්ට මුහුණ දීමට සිදුව තිබේ. එබැවින්, පිටකොටුව මධ්‍යම බස්රථ නැවතුම්පොළ ප්‍රතිසංස්කරණය කිරීම හා වර්තමානයට ගැලපෙන ලෙස සංවර්ධනය කිරීම දැඩි කාලීන අවශ්‍යතාවක් ලෙස හඳුනාගනු ලැබ ඇත.
-
-අදාළ නවීකරණ කටයුතු හා සංවර්ධනය සඳහා රුපියල් මිලියන 425 ක් පමණ වැය වනු ඇතැයි ඇස්තමේන්තු කර තිබේ.
-
-...
-
-[Data](articles/99ed0440.json)
 
 ---

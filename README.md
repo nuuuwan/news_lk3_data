@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 20:24:15**
+As of **2025-08-06 20:36:53**
 
 ## Newspaper Stats
 
-*Scraped **69,109** Articles*
+*Scraped **69,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,654
+adalk | 6,655
 adaderanalk | 8,587
 tamilmirrorlk | 10,094
 virakesarilk | 11,503
-adaderanasinhalalk | 11,894
+adaderanasinhalalk | 11,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,109 articles have been extended.
+61,973 (89.7%) of 69,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ට්‍රම්ප්ගෙන් ඉන්දියාවට සියයට 25ක තවත් තීරු බද්දක්
+
+*2025-08-06 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213101) · `si`
+
+රුසියානු බොරතෙල් අඛණ්ඩව ආනයනය කිරීමට 'දඬුවමක්' අමෙරිකානු ජනාධිපති ඩොනල්ට් ට්‍රම්ප් අද (6) ඉන්දියාවට 25%ක අතිරේක තීරු බද්දක් පනවා තිබේ.
+
+ඒ අනුව අමෙරිකාව විසින් ඉන්දියාවට පැන වූ සමස්ත බදු ප්‍රතිශතය 50%ක් දක්වා ඉහළ ගියේය.
+
+◼️
+
+[Data](articles/03650020.json)
+
+---
 
 ### 96ஆவது அகவையில் தடம் பதிக்கிறது வீரகேசரி! : நூற்றாண்டை நோக்கி வீறுநடை!
 
@@ -1198,6 +1212,20 @@ The arrest of Indian fishermen by the Sri Lankan Navy on charges of straying int
 
 ---
 
+### විගණන පනතට එරෙහි පෙත්සම් ඉවත් කර ගනියි
+
+*2025-08-06 13:35:50* · [`adalk`](https://www.ada.lk/breaking_news/විගණන-පනතට-එරෙහි-පෙත්සම්-ඉවත්-කර-ගනියි/11-417759) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණය හමුවේ අභියෝගයට ලක් කරන ලද “ජාතික විගණන (සංශෝධන)” නමැති පනත් කෙටුම්පත සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණ තීරණය තමා වෙත ලැබී ඇති බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (06) පාර්ලිමේන්තුවේදී නිවේදනය කළේය.
+
+කාරක සභා අවස්ථාවේ දී ඉදිරිපත් කිරීමට යෝජිත සංශෝධන සම්බන්ධයෙන් සෑහීමට පත්වන බැවින්, S.C. (SD) 21/2025 යන පෙත්සම ඉදිරිපත් කරන ලද පෙත්සම්කරුවන් විසින් එම පෙත්සම ඉල්ලා අස් කර ගත් බව ශ්‍රේෂ්ඨාධිකරණය විසින් දැනුම් දී තිබෙන බවද කථානායකවරයා නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/62f2608e.json)
+
+---
+
 ### ඉන්දියාවේ ජල ගැලීම්වලින් 100කට අධික පිරිසක් අතුරුදන්
 
 *2025-08-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213082) · `si`
@@ -1803,41 +1831,5 @@ GMOA எழுப்பிய கவலைகளை சுகாதார அத
 ...
 
 [Data](articles/c806e3f7.json)
-
----
-
-### மேகவெடிப்பால் பெருவெள்ளம்; 100க்கும் மேற்பட்டோர் மாயம்
-
-*2025-08-06 11:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-பெருவெள்ளம்-100க்கும்-மேற்பட்டோர்-மாயம்/175-362406) · `ta`
-
-உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் செவ்வாய்க்கிழமை (05)  அன்று  மேகவெடிப்பால் பெருவெள்ளம் ஏற்பட்டு 5 பேர் உயிரிழந்த நிலையில், 100க்கும் மேற்பட்டோரைக் காணவில்லை. மேலும், ஏராளமானோர் படுகாயமடைந்துள்ளதாக இந்திய அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-இந்நிலையில், கங்கோத்ரி பகுதியில் செவ்வாய்க்கிழமை (05) பிற்பகலில் மேகவெடிப்பு ஏற்பட்டது. இதனால் கீர் கங்கா நதியில் திடீரென பெருவெள்ளம் ஏற்பட்டு தரளி கிராமத்தை நோக்கி சீறிப் பாய்ந்துள்ளது.
-
-இதில் ஒட்டுமொத்த கிராமமும் பெருவெள்ளத்தில் அடித்துச் செல்லப்பட்டது. இராணுவம், விமானப்படை, தேசிய பேரிடர் மீட்புப் படை, மாநில பேரிடர் மீட்புப் படை, தீயணைப்பு படை மற்றும் பொலிஸ் துறையை சேர்ந்த நூற்றுக்கணக்கான வீரர்கள் மீட்புப் பணியில் ஈடுபட்டுள்ளனர்.
-
-இதுவரை 5 பேரின் சடலங்கள் கண்டுபிடிக்கப்பட்டுள்ளன. ஏராளமானோர் படுகாயங்களுடன் மீட்கப்பட்டுள்ளனர். மேலும், 100-க்கும் மேற்பட்டோரைக் காணவில்லை எனவும் தெரிவிக்கப்படுகின்றது.
-
-...
-
-[Data](articles/b464f77b.json)
-
----
-
-### Gautam Adani steps down from executive role at ports unit
-
-*2025-08-06 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111226/gautam-adani-steps-down-from-executive-role-at-ports-unit) · `en`
-
-India’s infrastructure tycoon Gautam Adani has stepped down from his executive position at his group’s most valuable company, Adani Ports and Special Economic Zone, no longer serving as a key managerial figure.
-
-He has transitioned to the role of non-executive chairman, with his older son Karan Adani (38) already managing the port operations. Following Tuesday’s development, Gautam (63) is now the non-executive chairman of seven group companies including Ambuja Cements, Adani Green Energy, Adani Green Solutions, Adani Power, Adani Total Gas, and Adani Infra (India).
-
-He remains the executive chairman of only one company, Adani Enterprises, known as the incubator of new businesses such as airports, data centres and copper metals.
-
-The change was prompted by the Companies Act (Section 203, sub-section 3), which restricts a key managerial person (KMP) or a whole-time director (WTD) from holding executive positions in more than one company simultaneously.
-
-...
-
-[Data](articles/d84272fb.json)
 
 ---

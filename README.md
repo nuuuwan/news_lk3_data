@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 16:24:09**
+As of **2025-08-06 16:37:05**
 
 ## Newspaper Stats
 
-*Scraped **69,068** Articles*
+*Scraped **69,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,652
-adaderanalk | 8,579
+adaderanalk | 8,580
 tamilmirrorlk | 10,083
 virakesarilk | 11,495
-adaderanasinhalalk | 11,888
+adaderanasinhalalk | 11,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,068 articles have been extended.
+61,973 (89.7%) of 69,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### නොකඩවා සිව්වන වරටත් කරාතේ ශූරතාව යුද හමුදාවට
+
+*2025-08-06 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213094) · `si`
+
+13 වන ආරක්ෂක සේවා, කරාතේ තරගාවලිය මෙම මස 04 සහ 05 යන දෙදින තුළ පනාගොඩ යුද හමුදා ශාරීරික අභ්‍යාස පුහුණු පාසල් ගෘහස්ථ ක්‍රීඩාංගණයේදී පැවැත්වුණි.
+
+මෙම අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස සහභාගී වූයේ යුද හමුදා කරාතේ ක්‍රීඩා කමිටුවේ සභාපති මේජර් ජෙනරල් ආර්. ඩී. සලේ මහතාය.
+
+එම තරගාවලිය තුළදී යුද හමුදා ක්‍රීඩකයින් අතිවිශිෂ්ඨ දක්ෂතාවයන් දක්වමින් පිරිමි අංශයෙහි රන් පදක්කම් 06ක් රිදී පදක්කම් 08ක් සහ ලෝකඩ පදක්කම් 02ක් දිනා ගත්තේය.
+
+පිරිමි බර පන්ති 07න් බර පන්ති 06ක ජයග්‍රහණය සහ මුළු ලකුණු 58ක් ලබා ගනිමින් නොකඩවා සිව්වන වරටත් තරගාවලියේ ජයග්‍රහණය යුද හමුදාව වෙත හිමිවිය.
+
+කිලෝග්‍රෑම් 50ට අඩු කුම්තේ රන් පදක්කම 19 වන ශ්‍රී ලංකා ආරක්ෂක බලමුළුවේ ලාන්ස් කෝප්‍රල් ප්‍රියර්දශන විසින්ද, කිලෝග්‍රෑම් 55ට අඩු කුම්තේ රන් පදක්කම 19 වන ශ්‍රී ලංකා ආරක්ෂක බලමුළුවේ මාණ්ඩලික සැරයන් බණ්ඩාර විසින් ද, කිලෝග්‍රෑම් 60ට අඩු කුම්තේ රන් පදක්කම 8වන ශ්‍රී ලංකා පාබල හමුදාවේ කෝප්‍රල් ඩයස් විසින් හිමි කරගත්තේය.
+
+...
+
+[Data](articles/95c1b815.json)
+
+---
 
 ### சஷீந்திர ராஜபக்ஷவுக்கு விளக்கமறியல்
 
@@ -62,7 +82,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### කොළඹ-කතරගම ප්‍රධාන මාර්ගය භාවිතා කරන රියදුරන් නිවේදනයක්
+### කොළඹ-කතරගම ප්‍රධාන මාර්ගය භාවිතා කරන රියදුරන්ට නිවේදනයක්
 
 *2025-08-06 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213090) · `si`
 
@@ -177,6 +197,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a225474c.json)
+
+---
+
+### China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill
+
+*2025-08-06 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111236/china-tackles-chikungunya-virus-outbreak-with-wide-range-of-measures-as-thousands-fall-ill) · `en`
+
+An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures from mosquito nets and clouds of disinfectant, threatening fines for people who fail to disperse standing water and even deploying drones to hunt down insect breeding grounds.
+
+More than 7,000 cases of the disease have been reported as of Wednesday, focused largely on the manufacturing hub of Foshan near Hong Kong. Numbers of new cases appear to be dropping slowly, according to authorities.
+
+Chikungunya is spread by mosquitoes and causes fever and joint pain, similar to dengue fever, with the young, older people and those with pre-existing medical conditions most at risk.
+
+Chinese state television has shown workers spraying clouds of disinfectant around city streets, residential areas, construction sites and other areas where people may come into contact with virus-bearing mosquitos that are born in standing water.
+
+...
+
+[Data](articles/035e09de.json)
 
 ---
 
@@ -1773,43 +1811,5 @@ The visit aims to further strengthen bilateral cooperation and explore opportuni
 ...
 
 [Data](articles/62b35e92.json)
-
----
-
-### Revoking privileges of Ex- Presidents, more about political revenge than policy: MR
-
-*2025-08-06 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111212/revoking-privileges-of-ex-presidents-more-about-political-revenge-than-policy-mr) · `en`
-
-The present government is revoking the privileges of former presidents out of a sense of revenge rather than real policy, according to former President Mahinda Rajapaksa.
-
-The former President made this statement in response to a question posed by journalists after attending an event held in Colombo.
-
-“The greatest privilege we had was what the people gave us. As long as that exists, there’s no issue if any official privilege is taken away.”
-
-When asked about his preferred choice, former President Rajapaksa said he will pick Medamulana over Wijerama any day.
-
-On July 31, the Presidents’ Entitlements (Repeal) Bill was gazetted.
-
-The Bill has been drafted to revoke special privileges extended to former Presidents and their widows.
-
-...
-
-[Data](articles/bd4965d0.json)
-
----
-
-### අද කාලගුණය
-
-*2025-08-06 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213064) · `si`
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (06) දිනයේ වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/a87ab56d.json)
 
 ---

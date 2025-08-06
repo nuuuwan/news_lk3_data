@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 06:11:43**
+As of **2025-08-06 06:38:21**
 
 ## Newspaper Stats
 
-*Scraped **68,938** Articles*
+*Scraped **68,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,128 @@ colombotelegraphcom | 704
 economynextcom | 4,205
 islandlk | 4,215
 dailymirrorlk | 4,733
-dailyftlk | 4,859
+dailyftlk | 4,864
 adalk | 6,639
 adaderanalk | 8,555
-tamilmirrorlk | 10,044
+tamilmirrorlk | 10,046
 virakesarilk | 11,482
-adaderanasinhalalk | 11,864
+adaderanasinhalalk | 11,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,938 articles have been extended.
+61,973 (89.9%) of 68,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### අද කාලගුණය
+
+*2025-08-06 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213064) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (06) දිනයේ වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/a87ab56d.json)
+
+---
+
+### Julie Chung urges bold reforms at 9th AGM of SL-USA Business Council
+
+*2025-08-06 05:50:50* · [`dailyftlk`](https://www.ft.lk/business/Julie-Chung-urges-bold-reforms-at-9th-AGM-of-SL-USA-Business-Council/34-779950) · `en`
+
+Sri Lanka - USA Business Council Committee for 2025/26 with US Ambassador Julie Chung
+
+US Ambassador Julie Chung last week cautioned Sri Lanka risked falling behind without bold reforms and structural change as the global economy is becoming increasingly competitive.
+
+She made this observation as the Chief Guest at the ninth Annual General Meeting of the Sri Lanka-USA Business Council of the Ceylon Chamber of Commerce. MAC Holdings CFO Tilak Gunawardena was appointed as the President of the committee for 2025/26.
+
+Emphasising that growth depended on more than just recovery, Chung also said, “Structural reforms, market diversification, reducing non-tariff barriers, inefficiencies in state-owned enterprises, and investing more in human capital and productivity: all of these things will be imperative for Sri Lanka to compete and thrive in the decade ahead.”
+
+...
+
+[Data](articles/697ecf20.json)
+
+---
+
+### EDB hosts SFA delegation  to advance poultry exports from Sri Lanka to Singapore
+
+*2025-08-06 05:47:19* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-SFA-delegation-to-advance-poultry-exports-from-Sri-Lanka-to-Singapore/34-779949) · `en`
+
+Emphasises Sri Lanka’s potential to supply high-quality poultry products, backed by its disease-free status, strategic geographic position and competitive product offerings
+
+EDB and DAPH shortlists several local companies for potential export to Singapore; applications already been submitted to the SFA
+
+The Sri Lanka Export Development Board (EDB) last week (1 August) hosted a high-level meeting with a delegation from the Singapore Food Agency (SFA) to discuss the progress of audit of poultry slaughterhouses and further discussions on enabling Sri Lankan poultry exports to Singapore.
+
+The discussions built on two recent SFA inspection missions to Sri Lanka. The first visit, conducted in March 2024, covered New Anthony’s Farm, NELNA Farm, and Ceylon Grain Elevators. The second visit, held from 28 July to 1 August, included audits of DAPH, Pussella Farm, Jaya Farm, and Bairaha Farms PLC.
+
+...
+
+[Data](articles/2eb40f20.json)
+
+---
+
+### India hits back at US, EU duplicity over its Russian oil imports
+
+*2025-08-06 05:46:10* · [`dailyftlk`](https://www.ft.lk/business/India-hits-back-at-US-EU-duplicity-over-its-Russian-oil-imports/34-779948) · `en`
+
+Government of India says targeting of India is unjustified and unreasonable
+
+Says India will take all necessary measures to safeguard its national interests and economic security
+
+Points to how both US and EU continue to maintain extensive trade relations with Russia
+
+Asserts that US and EU continue to import energy, metals, fertilisers, uranium and other chemicals and high-value industrial goods from Russia
+
+The Government of India has strongly rebutted criticism from the United States and the European Union over its continued imports of Russian oil, calling the stance unjustified and marked by double standards.
+
+...
+
+[Data](articles/967e59b3.json)
+
+---
+
+### Sanken Overseas makes strategic investment in CL Synergy Group
+
+*2025-08-06 05:45:40* · [`dailyftlk`](https://www.ft.lk/business/Sanken-Overseas-makes-strategic-investment-in-CL-Synergy-Group/34-779947) · `en`
+
+Sanken Overseas Managing Director/CEO Mevan Gunathilake (left) and CL Synergy Co-Funder/Managing Director Roshan Silva exchanging signed agreements dossiers
+
+Sanken Overseas yesterday announced that it has made inroads into the freight and logistics sector through an investment in CL Synergy.
+
+The statement however didn’t disclose the value of investment or the percentage of equity stake.
+
+Sanken Overseas is a stalwart in the construction and real estate sectors, and the penning of an agreement from their end reaffirms the importance of the logistics sector to the economy. CL Synergy is a homegrown Logistics brand that is welcoming a new shareholder for the first time since its inception 21 years ago, which indicates its resolve to scale and grow beyond boundaries.
+
+...
+
+[Data](articles/6dd6f652.json)
+
+---
+
+### Confederation of MSMI welcomes ‘bold export tax reform’
+
+*2025-08-06 05:44:39* · [`dailyftlk`](https://www.ft.lk/business/Confederation-of-MSMI-welcomes-bold-export-tax-reform/34-779946) · `en`
+
+The Confederation of Micro, Small and Medium Industries (MSMI) has extended its congratulations to the Government for the successful introduction of the 20% export tax policy.
+
+It said this important fiscal reform demonstrates strong leadership and a pragmatic approach to strengthening national revenue and achieving long-term economic stability. The move is especially commendable at a time when Sri Lanka is striving to regain economic resilience through sound financial management and equitable contributions across sectors.
+
+Confederation of MSMI Founder President Nawaz Rajabdeen said: “We welcome this decision as a step in the right direction to ensure a more balanced distribution of national wealth, and to support sustainable growth. The export sector has grown substantially, and this reform ensures that its success contributes meaningfully to the national economy.”
+
+...
+
+[Data](articles/193e4883.json)
+
+---
 
 ### Marine pollution issues relating to nurdles spill in Sri Lanka
 
@@ -199,6 +305,40 @@ Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr
 ...
 
 [Data](articles/1e25a202.json)
+
+---
+
+### ’சித் ரூ-2025’ நிகழ்ச்சியை ஜனாதிபதி பார்வையிட்டார்
+
+*2025-08-06 04:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சித்-ரூ-2025-நிகழ்ச்சியை-ஜனாதிபதி-பார்வையிட்டார்/175-362390) · `ta`
+
+மாற்றுத்திறனாளிகளின் அழகியல் திறமைகளை தேசிய மட்டத்திற்கு கொண்டு செல்வதற்காக சமூக சேவைகள் திணைக்களத்தால் ஏற்பாடு செய்யப்பட்ட 'சித் ரூ-2025' கலை நிகழ்ச்சி நேற்று (05) பிற்பகல் கொழும்பு தாமரைத் தடாக அரங்கில் ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+இலங்கை முழுவதும் உள்ள மாற்றுத்திறனாளிகளுக்காக அரசாங்கத்தினால் நடைமுறைப்படுத்தப்படும் 'ஒன்றாக - கைவிடாத' என்ற தேசிய கொள்கைக்கு இணங்க, அவர்களின் உரிமைகளைப் பாதுகாத்து  சமூகமயப்படுத்தல், வலுப்படுத்தல், புனர்வாழ்வு மற்றும் நாட்டின் பொருளாதார செயற்பாட்டில் பங்கேற்பவர்களாகவும் பெருமைமிக்க பிரஜைகளாகவும், வாழ்வதற்கான உரிமையை உறுதிப்படுத்த சமூக சேவைகள் திணைக்களம் அதன் ஒரு மூலோபாயங்களில் ஒன்றாக 'சித் ரூ' கலை நிகழ்ச்சியை ஏற்பாடு செய்கிறது. 06 ஆண்டுகளுக்குப் பிறகு இந்த முறை இது ஏற்பாடு செய்யப்பட்டுள்ளமை  குறிப்பிடத்தக்கது.
+
+மாற்றுத்திறனாளிகளின் புனர்வாழ்வு, வலுப்படுத்தல் மற்றும்  பாதுகாப்புக்காக சமூக சேவைகள் திணைக்களத்திற்கு இந்த ஆண்டு வரவு செலவுத் திட்டத்தில் 632 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/2bec9ec0.json)
+
+---
+
+### ’நாமலுக்கு சட்டத்தில் தெளிவு இல்லை’
+
+*2025-08-06 04:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-சட்டத்தில்-தெளிவு-இல்லை/175-362389) · `ta`
+
+தனியறையில் இருந்து சட்டக்கல்லூரி இறுதி பரீட்சையை எழுதிய நாமல் ராஜபக்ச  முதலில் சட்ட ஏற்பாடுகளைத் தெளிவாகக் கற்றுக்கொள்ள வேண்டும் அதன் பின்னர் சட்ட ரீதியிலான தர்க்கங்களை முன்வைக்க வேண்டும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள்  பிரதி அமைச்சர்  சுனில் வட்டகல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) அன்று இடம்பெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+குற்றவாளியான பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்குவதற்கு 2002ஆம் ஆண்டு 05ஆம் இலக்க  அலுவலர்களை அகற்றும் சட்டத்தின் பிரகாரம் நடவடிக்கை எடுக்கப்பட்டுள்ள நிலையில் அது சட்டவிரோதமானது, பாராளுமன்ற நிலையியல் கட்டளை மீறப்பட்டுள்ளது என்று  நாமல் ராஜபக்‌ஷ எம்.பி. வாதிடுகின்றார்.
+
+தந்தைக்கும், சித்தப்பாவுக்கும் ஏற்றாற்போல்  தீர்ப்பளிக்காத காரணத்தால் முன்னாள் பிரதம நீதியரசர்   சிரானி பண்டாரநாயக்க  சட்டவிரோதமான முறையில்  பதவி நீக்கப்பட்டதை நாமல் ராஜபக்‌ஷ அறியாமலிருப்பது வேடிக்கையாகவுள்ளது.
+
+...
+
+[Data](articles/b82a1817.json)
 
 ---
 
@@ -1645,149 +1785,5 @@ The inquiry panel has found him guilty of mos allegations levelled against Tenna
 ◼️
 
 [Data](articles/b342c10e.json)
-
----
-
-### දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයෙන් නෙරපීමේ යෝජනාව සම්මතයි
-
-*2025-08-05 16:27:31* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-පොලිස්පති-ධුරයෙන්-නෙරපීමේ-යෝජනාව-සම්මතයි/11-417734) · `si`
-
-පොලිස්පති දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා පැවැති ඡන්ද විමසීමේදී යෝජනාවට පක්ෂව ඡන්ද 177ක් ලැබුණ අතර ඒ අනුව එම යෝජනාව තුනෙන් දෙකකටත් වඩා වැඩි බහුතරයකින් සම්මත විය. විරුද්ධව කිසිම ඡන්දයක් නොලැබුණ අතර පාර්ලිමේන්තු මන්ත්‍රීවයෙකු ඡන්දය දීමෙන් වැළැකී සිටියේය.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් අඩක් එනම් මන්ත්‍රීවරුන් 113ක් ඡන්දය ප්‍රකාශ කිරීම මගින් මෙම යෝජනාව සම්මත කර ගැනීමට හැකියාව පැවැතුණි. කෙසේ වෙතත් ආණ්ඩු පක්ෂයේ මෙන්ම සමගි ජන බලවේගයේ මන්ත්‍රීවරුන්ද යෝජනාවට පක්ෂව ඡන්දය දුන්නේය.
-
-◼️
-
-[Data](articles/5e2c48e9.json)
-
----
-
-### Resolution for removal of Deshabandu from IGP post passed in Parliament
-
-*2025-08-05 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111200/resolution-for-removal-of-deshabandu-from-igp-post-passed-in-parliament) · `en`
-
-The Resolution for the removal of Mr. Deshabandu Tennakoon from the office of the Inspector-General of Police (IGP) has been passes in the Parliament.
-
-A total of 177 members voted in favour of the motion while there were no votes against it. A single Member of Parliament had abstained from voting.
-
-The vote was taken this evening after the Resolution for the removal of Deshabandu Tennakoon from the office of the IGP, in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, was taken up for debate today (5).
-
-The debate commenced this morning following the presentation of the motion by Speaker Dr. Jagath Wickramaratne to the House.
-
-Accordingly, Minister of Public Security and Parliamentary Affairs Ananda Wijepala commenced the debate on behalf of the government.
-
-Parliament continued the debate on the resolution until 4.00 p.m. followed by a vote on the resolution which required a simple majority of votes in favour — that is 113 MPs —  for passage.
-
-...
-
-[Data](articles/8f2a82a3.json)
-
----
-
-### தென்னக்கோனை நீக்க: 177 பேர் ஆதரவு
-
-*2025-08-05 16:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்க-177-பேர்-ஆதரவு/175-362352) · `ta`
-
-பொலிஸ்மா அதிபர் டீ.எம்.டபிள்யூ.தேசபந்து தென்னக்கோனை    2002ஆம் ஆண்டின் 5ஆம்இலக்க அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சட்டத்தின் 17ஆம் வாசகத்தின் பிரகாரம் அப்பதவியிலிருந்து அகற்றுவதற்கான தீர்மானம் 177 மேலதிக வாக்குகளை பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (05) நிறைவேற்றப்பட்டது. இந்த பிரேரணை எதிர்த்து எவரும் வாக்களிக்கவில்லை. அத்துடன், வாக்களிப்பில் இருந்து ஒரு உறுப்பினர் விலகியிருந்தார்
-
-◼️
-
-[Data](articles/038b9301.json)
-
----
-
-### දේශබන්දු පොලිස්පති ධුරයෙන් ඉවත් කිරීමට පක්ෂව ඡන්ද 177ක්
-
-*2025-08-05 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213048) · `si`
-
-දේශබන්දු තෙන්නකෝන් පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා අද (05) පාර්ලිමේන්තුවේ පැවැති ඡන්ද විමසීමේදී යෝජනාවට පක්ෂව ඡන්ද 177ක් හිමිවිය.
-
-ඒ අනුව කථානායකවරයා සභාවට දැනුම්දුන්නේ 2002 අංක 5 දරන නිලධරයන් ඉවත් කිරීමේ කාර්ය පටිපාටිය පනතේ 17 වන වගන්තිය ප්‍රකාරව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම පිණිස වූ යෝජනා සම්මතය වැඩි ඡන්ද 177කින් එනම් නොපැමිණි මන්ත්‍රීවරුන්ද ඇතුළුව මුළු මන්ත්‍රීවරුන් සංඛ්‍යාවෙන් බහුතරයක් මන්ත්‍රීවරුන්ගේ ඡන්දයෙන් සම්මත වූ බවය.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් හරි අඩක් එනම් මන්ත්‍රීවරුන් 113ක් ඡන්දය ප්‍රකාශ කිරීම මගින් මෙම යෝජනාව සම්මත කර ගැනීමට හැකියාව පවතී.
-
-යෝජනාව සම්මත වූ බවට කථානායකවරයා සිදුකරන දැනුම්දීමෙන් පසු  ජනාධිපතිවරයා විසින් පොලිස්පති ධුරය සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට නමක් නිර්දේශ කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/ce8a025c.json)
-
----
-
-### லிந்துலையில் நீரில் மூழ்கி இளைஞன் உயிரிழப்பு
-
-*2025-08-05 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/221888) · `ta`
-
-லிந்துலை பொலிஸ் பிரிவிற்குட்பட்ட லிந்துலை லோகி தோட்டத்தில் உள்ள குளத்தில் நண்பர்களுடன் குளிக்கச் சென்ற இளைஞன் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
-
-உடப்புசல்லாவ எனிக் தோட்டத்தைச் சேர்ந்த 20 வயதான அருமைவாசகம் கமலராஜா என்பவரே உயிரிழந்தவராவாரென அடையாளம் காணப்பட்டுள்ளது.
-
-குறித்த இளைஞன் உடப்புசல்லாவ பகுதியில் இருந்து தலவாக்கலை பகுதியில் உள்ள ஒரு கடையில் தொழில் புரிந்து வந்தவர் எனவும் நேற்றையதினம் லிந்துலை லோகி தோட்டத்தில் உள்ள நான்கு நண்பர்களுடன் குளிக்க வருகை தந்த இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-நண்பர்களுடன் நீராடிக்கொண்டிருந்த போதே குறித்த நபர் நீரில் மூழ்கிக் காணாமல் போயிருந்த நிலையில் குறித்த இளைஞனை ஏனையவர்கள் காப்பாற்ற முயற்சித்த போதும் முயற்சி பயனளிக்காத நிலையில் மேற்படி இளைஞன் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
-
-இதனையடுத்து நேற்று மாலை வேளையில் லிந்துலை பொலிஸாரும், பிரதேச மக்களும் இணைந்து குறித்த இளைஞனின் சடலத்தை குளத்தில் இருந்து மீட்டுள்ளனர்.
-
-...
-
-[Data](articles/79c31fc9.json)
-
----
-
-### 11 Indians remanded over alleged online gambling racket
-
-*2025-08-05 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111199/11-indians-remanded-over-alleged-online-gambling-racket) · `en`
-
-Eleven Indian nationals who were arrested by Thalangama Police for allegedly engaging in illegal online gambling activities in the country have been remanded until August 07 by the Kaduwela Magistrate’s Court.
-
-Acting on a tip-off, a team of officers from the Thalangama Police Station conducted a raid last night (04) in the Akuregoda area of Thalangama.
-
-During the operation, eight males and three females, all Indian nationals, were apprehended for allegedly engaging in illegal online gambling using computers and mobile devises.
-
-Police also seized 20 mobile phones, three laptop computers, and one tablet device as evidence.
-
-The female suspects are aged 22, 30, and 43, while the male suspects are Indian nationals aged 25, 26, 27, and 29.
-
-◼️
-
-[Data](articles/d404da25.json)
-
----
-
-### හරක් කටා, මිදිගම රුවන් ඇතුළු පහකට අධි චෝදනා
-
-*2025-08-05 16:08:52* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටා--මිදිගම-රුවන්-ඇතුළු-පහකට-අධි-චෝදනා/11-417733) · `si`
-
-රහස් පොලිස් අත්අඩංගුවෙන් පළායෑමට කුමන්ත්‍රණය කිරීම ඇතුළු චෝදනා යටතේ පාතාල අපරාධකරුවන් වන නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා මිදිගම රුවන් සහ රහස් පොලිස් කොස්තාපල්වරයකු ඇතුළු විත්තිකරුවන් පස්දෙනෙකුට එරෙහිව පවරා ඇති නඩුවේ අධිචෝදනා පත්‍ර කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා හමුවේ අද (05) බාර දුන්නේය.
-
-විත්තිකරුවන් පස්දෙනාට එරෙහිව නීතිපතිවරයා විසින් පැවරූ අදාළ නඩුව කැඳවු අවස්ථාවේදී විත්තිකරුවන්ට එරෙහි අධිචෝදනාපත්‍ර එලෙස බාර දුන්නේය.
-
-නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තාට අමතරව මෙලෙස චෝදනා පත්‍ර බාර දෙනු ලැබුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු කොස්තාපල්වරයකු වන රවිදු සන්ධිප ගුණසේකර, දිනේෂ් තරංග, රුවන් චාමර හෙවත් මිදිගම රුවන් සහ සංජීව අබේසිංහ නමැත්තන්ටය.
-
-2023 සැප්තැම්බර් 10 වැනිදා හෝ ඊට ආසන්න දිනයක කොළඹදී ආරක්ෂාවට යොදවා සිටි පොලිස් පොලිස් විශේෂ කාර්යය බලකා නිළධාරියකුට පහර දී පලා යෑමට කුමන්ත්‍රණය කීරීම, ඒ අනුව පළා යෑමට තැත් කිරීම සහ ඊට අධාර අනුබල දීම ඇතුළු චෝදනා යටතේ විත්තිකරුවන්ට එරෙහිව නීතීපතිවරයා නඩු පවරා ඇත.
-
-...
-
-[Data](articles/808969b0.json)
-
----
-
-### සංචාරක වීසා මත පැමිණ සූදු කෙළිය ඉන්දීය ජාතිකයින් රිමාන්ඩ්
-
-*2025-08-05 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213047) · `si`
-
-සංචාරක වීසා මත මෙරටට පැමිණ අන්තර්ජාලය ඔස්සේ සූදු ක්‍රීඩාවේ නිරත ව සිටියදී තලංගම පොලීසිය මගින් අත්අඩංගුවට ගත් ඉන්දීය ජාතිකයින් 11 දෙනා අද (05) කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට හමුවට ඉදිරිපත් කර තිබේ.
-
-එහිදී කඩුවෙල මහෙස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා අදාළ සැකකරුවන් 11 දෙනා එළැඹෙන 07 වැනි දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
-
-පැලවත්ත අකුරේගොඩ ප්‍රදේශයේ කුලී පදනම මත ලබා ගත් නිවසක සිට මෙම පිරිස සූදු ක්‍රීඩාවේ යෙදී ඇති අතර ලද තොරතුරක් මත තලංගම පොලීසිය මගින් වැටලීම සිදුකර සැකකරුවන් අත්අඩංගුවට ගෙන තිබුණි.
-
-අත්අඩංගුවට ගත් මෙම පිරිස අතරට සැකකාරියන් තිදෙනෙකු සහ සැකකරුවන් අට දෙනෙකුද විය.
-
-සැකකරුවන් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී ඔවුන් වැලිසර රැඳවුම් මධ්‍යස්ථානයේ රඳවා තබා වැඩිදුර විමර්ශන කටයුතු සිදුකරන ලෙසත් මහෙස්ත්‍රාත්වරයා පොලීසිය නියෝග කළේය.
-
-◼️
-
-[Data](articles/3d4c6f42.json)
 
 ---

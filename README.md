@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 00:27:26**
+As of **2025-08-07 00:40:51**
 
 ## Newspaper Stats
 
-*Scraped **69,135** Articles*
+*Scraped **69,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,866
 adalk | 6,660
-adaderanalk | 8,588
+adaderanalk | 8,591
 tamilmirrorlk | 10,099
-virakesarilk | 11,508
+virakesarilk | 11,513
 adaderanasinhalalk | 11,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,135 articles have been extended.
+61,973 (89.6%) of 69,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### இஸ்ரேலின் கொலனியாக இலங்கை மாறியுள்ளது - மரிக்கார்
+
+*2025-08-07 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/222005) · `ta`
+
+பொத்துவில் அருகம்பை பிரதேசத்தில் இருக்கும் காணிகள் இஸ்ரேலுக்கு உரித்தாகி வருவதன் மூலம் இலங்கை இஸ்ரேலின் கொலணியாகியுள்ளது. இஸ்ரேல் இராணுவத்தில் இருக்கும் கொலை குற்றவாளிகள் மன ஆறுதல் பெறுவதற்கு இலங்கைக்கு வருகிறார்கள். இவர்களுக்கு அரசாங்கம் தற்போது  இலவச விசா வழங்குகிறது என எஸ்.எம். மரிக்கார் குற்றம்சாட்டினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற இலங்கை மின்சாரம்(திருத்தம்) சட்டமூலத்தின் இரண்டாம் மதிப்பீடு மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மக்கள் விடுதலை முன்னணி எதிர்க்கட்சியில் இருக்கும்போது பலஸ்தீனுக்கு ஆதரவு தெரிவித்து, இஸ்ரேலுக்கு எதிராக அமெரிக்க தூதரகத்துக்கு முன்னாலும் வேறு இடங்களிலும் போராட்டங்களை முன்னெடுத்து வந்தது. ஆனால்  இன்று  இரண்டு மூன்று கொள்கைகளை கடைப்பிடித்த வருகிறது.
+
+...
+
+[Data](articles/635cec95.json)
+
+---
 
 ### Rule of law in taxation: Rights before revenue – Part 1
 
@@ -108,6 +124,24 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 
 ---
 
+### "தரமான செய்திக்கு இடமுண்டு; அச்சு ஊடகத்துக்கு மதிப்பு குறையாது" - வீரகேசரி நிறுவன முகாமைத்துவ பணிப்பாளர் குமார் நடேசன்
+
+*2025-08-06 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222004) · `ta`
+
+பத்திரிகை மற்றும் ஊடக துறையில் புதிய வடிவங்கள் உருவாகலாம், ஆனால் தரமான உள்ளடக்கம் ஒருபோதும் மக்களுக்கு பிடித்த பாணியிலிருந்து விலகாது. சரியான நேரத்தில் மற்றும் நம்பகமான அறிக்கைகள் ஒரு தவிர்க்க முடியாத செய்தியாக  தொடரும் என்று வீரகேசரி பத்திரிகையை வெளியிடும் எக்ஸ்பிரஸ் நியூஸ்பேப்பர்ஸ் நிறுவனத்தின் முகாமைத்துவ பணிப்பாளரும் இலங்கை பத்திரிகை ஸ்தாபனத்தின் தலைவருமான குமார் நடேசன் தெரிவித்தார்.
+
+வீரகேசரி பத்திரிகை நேற்று தனது 95 ஆவது ஆண்டு நிறைவை கொண்டாடியது. இதனை முன்னிட்டு கிராண்ட்பாஸில் அமைந்துள்ள வீரகேசரி அலுவலகத்தில் நடைபெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே குமார் நடேசன் இவ்வாறு குறிப்பிட்டார்.
+
+‘‘நாம் உருவாக்கும் ஒவ்வொரு படைப்பும் மிக உயர்ந்த தரம் வாய்ந்ததாகவும், நுண்ணறிவுள்ளதாகவும், கவனமாக வடிவமைக்கப்பட்டதாகவும் இருப்பதை உறுதிசெய்து, பத்திரிகைத் துறையில் சிறந்து விளங்க வேண்டும்’’ என்றும் குறிப்பிட்டார் குமார் நடேசன்.
+
+1930 ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட வீரகேசரி பத்திரிகை 95 வருட காலமாக பல சவால்களுக்கு மத்தியில் வெற்றிநடை போட்டு வருவதுடன் நூற்றாண்டை நோக்கி சாதனை பயணத்தை முன்னெடுக்கிறது.
+
+...
+
+[Data](articles/b0895c24.json)
+
+---
+
 ### ட்ரம்பின் வரி விதிப்பு நியாயமற்றது
 
 *2025-08-06 22:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்பின்-வரி-விதிப்பு-நியாயமற்றது/50-362473) · `ta`
@@ -180,6 +214,36 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 
 ---
 
+### மின்சாரசபை கூறுபடுவதை தடுக்கவே புதிய சட்டமூலம் - மஹிந்த ஜயசிங்க
+
+*2025-08-06 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222003) · `ta`
+
+முன்னாள் மின்சாரத்துறை அமைச்சர் காஞ்சன விஜேசேகர  கொண்டு வந்த மின்சார சட்டத்தை செயற்படுத்தினால் இலங்கை மின்சார சபையின் தனியுரிமை  எதிர்வரும் ஒக்டோபர் மாதம் பல்வேறு பகுதியாக கூறுபடுத்தப்படும். இதனை தடுக்கும் வகையில் தான் புதிய திருத்தச் சட்டமூலம் கொண்டு வரப்பட்டுள்ளது. மின்சார சபையின் 23 ஆயிரம் சேவையாளர்களின் எண்ணிக்கையை 12 ஆயிரமாக குறைக்கும் சூழலே காணப்பட்டது. புதிய சட்டமூலத்தில் மின்சார சபையின் சகல ஊழியர்களின்  தொழில் உ ரிமைகள் பாதுகாக்கப்படுமென தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) நடைபெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்சாரத்துறை  தொடர்பில் கடந்த காலங்களில் கொண்டு வந்த சட்டங்களுக்கு மக்கள் விடுதலை முன்னணி  எதிர்ப்பு தெரிவித்தது என்று குறிப்பிடுவதை ஏற்க முடியாது. 2002 ஆம் ஆண்டு மற்றும் 2024 ஆம் ஆண்டு கொண்டு வரப்பட்ட மின்சாரத்துறை தொடர்பான சட்டமூலங்களை எதிர்த்ததால் தான் மின்சார சபையின் தனியுரிமை பாதுகாக்கப்பட்டது.
+
+...
+
+[Data](articles/1a691ce5.json)
+
+---
+
+### One person injured in shooting incident in Maharagama
+
+*2025-08-06 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111248/one-person-injured-in-shooting-incident-in-maharagama) · `en`
+
+An individual has sustained injuries in a shooting incident reported in Navinna, Maharagama today (06), the Police Media Division said.
+
+According to police, an unidentified individual who arrived on a scooter has carried out the shooting.
+
+◼️
+
+[Data](articles/16f687ce.json)
+
+---
+
 ### නාවින්නේ වෙඩිතැබීමක්
 
 *2025-08-06 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213105) · `si`
@@ -205,6 +269,24 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 ...
 
 [Data](articles/c44eedfb.json)
+
+---
+
+### Heat advisory issued for several areas
+
+*2025-08-06 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111247/heat-advisory-issued-for-several-areas) · `en`
+
+The Meteorology Department has issued a Warm Weather Advisory for North-central and Eastern provinces, Jaffna, Kilinochchi, Mullaitivu, Vavuniya, Monaragala and Hambantota districts.
+
+It states that the heat index — the temperature felt by the human body — is likely to increase to the ‘Caution level’ at some places in North-central and Eastern provinces, and in Jaffna, Kilinochchi, Mullaitivu, Vavuniya, Monaragala and Hambantota districts.
+
+As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
+
+Thus, members of the public are advised to stay hydrated, take breaks in the shade as often as possible, and limit strenuous outdoor activities. They are also requested to check on the elderly and the sick, never leave children unattended inside vehicles, and wear lightweight, white or light-colored clothing.
+
+...
+
+[Data](articles/0e6dce3e.json)
 
 ---
 
@@ -239,6 +321,24 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 ◼️
 
 [Data](articles/de1bdfde.json)
+
+---
+
+### கெஹலியவின் கும்பத்தார் மீது பண மோசடி வழக்கு ; வங்கி ஆவணங்களில் இடப்பட்டுள்ள 1,000 கையொப்பம் தொடர்பில் இலஞ்சம் மற்றும் ஒழிப்பு ஆணைக்குழு விசாரணை
+
+*2025-08-06 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/221978) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் குடும்பத்தார் மீது பண மோசடி வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் கும்பத்தாரின் பண மோசடி தொடர்பான வங்கி ஆவணங்களில் போடப்பட்டுள்ள சுமார் 1,000 கையொப்பம் தொடர்பில் இலஞ்சம் மற்றும் ஒழிப்பு ஆணைக்குழு விசாரணை நடத்தி வருகிறது.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சுமார்  98 மில்லியன் ரூபாய் பணத்தை சட்டவிரோதமாக வருமானமாக  ஈட்டியதாக குற்றம் சாட்டப்பட்டுள்ளது. இந்த செயல் பணமோசடி  தடுப்பு சட்டத்தை மீறியதாக கூறப்படுகிறது.
+
+இதேவேளை, நேற்றைய தினம் சமர்ப்பிக்கப்பட்ட வாதங்களை தொடர்ந்து முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் குடும்ப உறுப்பினர்கள்  பலருக்கு எதிராக தாக்கல் செய்யப்பட்ட பண மோசடி வழக்கை எதிர்வரும் செம்டெம்பர் மாதம் 10 ஆம் திகதிக்கு ஒத்திவைக்க  உயர் நீதிமன்ற நீதிபதி லங்கா ஜெயரத்ன உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/34775e10.json)
 
 ---
 
@@ -279,6 +379,36 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 ...
 
 [Data](articles/de181d78.json)
+
+---
+
+### India calls additional US tariff ‘unfair, unjustified and unreasonable’, vows to protect national interests
+
+*2025-08-06 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111246/india-calls-additional-us-tariff-unfair-unjustified-and-unreasonable-vows-to-protect-national-interests) · `en`
+
+India Wednesday responded to US President Donald Trump’s decision to ratchet up tariff on India to 50%, with the Ministry of External Affairs (MEA) declaring that New Delhi will take “all actions necessary to protect its national interests.”
+
+The statement came after Trump signed an executive order penalising India for continuing oil trade with Russia by slapping New Delhi with 25% additional tariff. The MEA criticised the move as “unfair, unjustified and unreasonable.”
+
+...
+
+[Data](articles/e0348c8e.json)
+
+---
+
+### விஜேவீரவை கொலைசெய்வதற்கு பயன்படுத்திய பயங்கரவாத சட்டத்தை அநுர தொடரக்கூடாது - கவீந்திரன்  கோடிஸ்வரன்
+
+*2025-08-06 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222002) · `ta`
+
+தமிழின அழிப்புக்கு ஆயுதமாகவிருந்த பயங்கரவாத தடைச்சட்டம் முழுமையாக நீக்கப்பட வேண்டும்.இந்தச் சட்டத்துக்கு மாறாக பிறிதொரு சட்டம் இயற்றப்பட கூடாது. மக்கள் விடுதலை முன்னணியின் முன்னாள்  தலைவர் ரோஹன விஜேவீரவை கொலை செய்ய பயன்படுத்திய இந்த சட்டத்தை இந்நாள் தலைவர் ஜனாதிபதி அநுரகுமார திசாநாயக்க நீக்க வேண்டுமென அம்பாறை மாவட்ட  இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் கவீந்திரன் கோடிஸ்வரன்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) நடைபெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பயங்கரவாத தடைச்சட்டத்தை முழுமையாக நீக்க  வேண்டும். கடந்த அரசாங்கங்கள் அனைத்தும் பயங்கரவாத  தடைச்சட்டத்தை நீக்குவதாக குறிப்பிட்டுக் கொண்டு அச்சட்டத்தையே செயற்படுத்தின.இதனால் பாரிய விளைவுகள் நாட்டுக்கு ஏற்பட்டது.
+
+...
+
+[Data](articles/67fa7a7d.json)
 
 ---
 
@@ -1693,149 +1823,5 @@ Legal action was taken against two British nationals recently, he said.
 ...
 
 [Data](articles/474e4ba9.json)
-
----
-
-### Businesses allegedly run by tourists owned by Sri Lankans: Police
-
-*2025-08-06 13:30:00* · [`economynextcom`](https://economynext.com/businesses-allegedly-run-by-tourists-owned-by-sri-lankans-police-234993/) · `en`
-
-ECONOMYNEXT – Some businesses which are alleged to be run by foreigners, particularly Israelis, are actually owned by Sri Lankans when investigations are made, Assistant Superintendent of Police and Acting Director of Tourist Police Division Prabath Widanamagama said.
-
-Opposition politicians have pointed out that foreigners on tourist visas run businesses illegally in tourist hotspots such as Arugam Bay and Weligama.
-
-“Yes, we have received reports, we took legal action against some such places, but when we go there to investigate it is Sri Lankans who show up as owners.”
-
-“It is everyone’s responsibility; people engaged in the tourist trade must decide whether they are going to be bought over for money to allow other people to operate under their names.”
-
-“You can’t come to Sri Lanka and do business on a tourist visa, that’s illegal, we take action against that.”
-
-Legal action was taken against two British nationals recently, he said.
-
-...
-
-[Data](articles/6cad1b22.json)
-
----
-
-### පස් කන්දකට යටවූ පහකගේ දිවි බේරා ගනියි
-
-*2025-08-06 13:26:56* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දකට-යටවූ-පහකගේ-දිවි-බේරා-ගනියි/11-417758) · `si`
-
-නිවසකට කඩා වැටුණු පස් කන්දක් ඉවත් කරමින් සිටි කම්කරුවන් 5  දෙනෙකු පස් කන්දකට යට වෙයි.
-
-මස්කෙළිය සාමි‍මලේ මාර්ගයේ බනියම් පාලම අසල නිවසකට කඩා වැටුණු පස් කන්ද ඉවත් කරමින් සිටි කම්කරුවන් මතට තවත් පස් කනද්ක් කඩා වැටීමෙන් යට වී සිටි පිරිස මුදා ගෙන රෝහල් ගත කිරිමට අවට පදිංචිකරුවන් (06) දින සමත් වී ඇත.
-
-මස්කෙළිය ප්‍රදේශයට ඇදහැලුණු අධික වර්ෂාවත් සමග (05) දින පස් කන්දක් කඩා වැටුණු බවත්, එම පස් කන්ද (06) දින ඉවත් කරමින් සිටියදී දහවල් 12:00ට පමණ තවත් පස් කන්දක් කඩා වැටුණු බවත්, පසුව ප්‍රදේශවාසීන් මස්කෙළිය රෝහලේ වෛද්‍යවරුගේ සහයෝගය ඇතිව පස් කන්දට යට වී සිටි පුද්ගලයින් 5 දෙනා ගොඩට ගෙන මස්කෙළිය ප්‍රාදේශීය රෝහල වෙත ඇතුලත් කර ඇත.
-
-රෝහල් ගත කල පුද්ගලයන්ගේ තත්වය බරපතල නොවන බවයි මස්කෙළිය ප්‍රාදේශිය රෝහලේ වෛද්‍යවරුන් කියා සිටියේ.
-
-◼️
-
-[Data](articles/15a1d7f6.json)
-
----
-
-### 1.9 பில்லியன் சாதனை படைத்த தீபிகா படுகோன்
-
-*2025-08-06 13:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/1-9-பில்லியன்-சாதனை-படைத்த-தீபிகா-படுகோன்/54-362422) · `ta`
-
-நடிகை தீபிகா படுகோனின் இன்ஸ்டாகிராமில் வெளியான ஒரு விளம்பர வீடியோ, 1.9 பில்லியன் பார்வைகளைப் பெற்று இன்ஸ்டாகிராமில் அதிகம் பார்க்கப்பட்ட வீடியோவாக புதிய சாதனை படைத்துள்ளது.
-
-ஹில்டன் ஹோட்டல் நிறுவனத்துடனான கோலப் விளம்பரத்தில் தோன்றிய தீபிகா படுகோன் ரீல், இன்ஸ்டாகிராமில் முந்தைய அனைத்து பார்வை சாதனைகளையும் முறியடித்துள்ளது.
-
-ஜூன் 9 ஆம் திகதி வெளியான இந்த ரீல், ஹர்திக் பாண்ட்யா மற்றும் கிறிஸ்டியானோ ரொனால்டோ போன்ற முன்னணி பிரபலங்களின் வீடியோக்களின் பார்வைகளை பின்னுக்கு தள்ளியுள்ளது.
-
-இதற்கு முன், பாண்ட்யாவின் BGMI வீடியோ 1.6 பில்லியன் பார்வைகளையும், ஒரு ஸ்மார்ட்போன் விளம்பர வீடியோ 1.4 பில்லியன் பார்வைகளையும் பெற்றிருந்தன. இதனை தீபிகா படுகோன் ரீல் அதிக பார்வைகளைப் பெற்று முறியடித்துள்ளது.
-
-தீபிகா கடைசியாக “சிங்கம் அகெய்ன்” திரைப்படத்தில் நடித்திருந்தார். அடுத்து அட்லி இயக்கத்தில் உருவாகும் “AA22xA6” என்ற பான்-இந்திய படத்தில் நடிக்க உள்ளார் என்பதும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/9c4debe6.json)
-
----
-
-### தவறுதலாக CIDக்கு சென்ற சாகல ரத்நாயக்க
-
-*2025-08-06 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறுதலாக-CIDக்கு-சென்ற-சாகல-ரத்நாயக்க/175-362421) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிக்குழாமின் பிரதானி சாகல ரத்நாயக்க, தவறுதலாக குற்றப்புலனாய்வு திணைக்களத்துக்கு இன்று 06) காலை சென்றுள்ளார்.
-
-நிதி குற்றப் புலனாய்வுப் பிரிவில் முன்னிலையாகுமாறு அவருக்கு அறிவிக்கப்பட்ட நிலையில்,  தவறுதலாக குற்றப்புலனாய்வு திணைக்களத்துக்கு சென்றுள்ளார்.
-
-◼️
-
-[Data](articles/3bb22ce0.json)
-
----
-
-### Colombo HC orders CID Director to produce documents related to separate carrom board case
-
-*2025-08-06 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111232/colombo-hc-orders-cid-director-to-produce-documents-related-to-separate-carrom-board-case) · `en`
-
-The Colombo High Court today (06) ordered the Director of the Criminal Investigation Department (CID) to produce documents related to the case filed by the Attorney General against former Ministers Mahindananda Aluthgamage and Nalin Fernando, who are currently serving prison sentences.
-
-The case has been filed alleging that two Ministers and another individual caused a substantial loss to the government by importing 14,000 carrom boards and 11,000 checkers boards through Lanka Sathosa and districting to political offices of then-presidential candidate Mahinda Rajapaksa, during the 2015 presidential election period.
-
-The accused in the case are former ministers Mahindananda Aluthgamage and Nalin Fernando who are both currently serving prison sentences, along with former Secretary to the Ministry of Sports, retired Major General Nanda Mallawarachchi, who is currently out on bail.
-
-...
-
-[Data](articles/7f16a465.json)
-
----
-
-### Sri Lanka’s former minister Rajapaksa arrested by CIABOC over abuse of power, corruption
-
-*2025-08-06 12:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-minister-rajapaksa-arrested-by-ciaboc-over-abuse-of-power-corruption-234991/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former State Agriculture Minister Shasheendra Rajapaksa was arrested by the Commission to Investigate Allegations of Bribery and Corruption over abuse of power in claiming compensation for a damaged property in 2022 and corruption accusation.
-
-He is accused of using his official power to influence government officials to obtain compensation for a building built in a land owned by state-owned Mahaweli Authority, the CIABOC said in a statement.
-
-Rajapaksa has abused his powers to influence the government officials to obtain the compensation for the building damaged by mob on May 9, 2022 following then Prime Minister Mahinda Rajapaksa’s supporters in Colombo attacked unarmed protesters, who had been demanding Both President Gotabaya Rajapaksa and Prime Minister Rajapaksa to resign.
-
-Originally, the compensation claim was rejected due to the land not owned by then minister Rajapaksa.
-
-He is also accused of illegal occupation in state-owned land, the CIABOC said.
-
-...
-
-[Data](articles/4f92c77f.json)
-
----
-
-### Sri Lanka’s Fintrex Finance retains ‘BB(lka)’ Fitch rating
-
-*2025-08-06 12:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-fintrex-finance-retains-bblka-fitch-rating-234983/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has reaffirmed the National Long-Term Rating of Sri Lanka’s Fintrex Finance at ‘BB(lka)’ with a stable outlook. The rating agency also maintained the ‘B+(lka)’ rating on the company’s subordinated debentures.
-
-Fintrex’s rating reflects its “expansion into riskier mobile financing, higher leverage and more volatile earnings” Fitch said.
-
-“These weaknesses are balanced by acceptable asset quality and improved funding diversity.”
-
-Fintrex’s business profile remains constrained by higher concentration risks relative to peers, Fitch said, reflecting its more limited franchise as one of Sri Lanka’s smaller finance and leasing companies.
-
-Fitch Ratings – Singapore/Colombo – 05 Aug 2025: Fitch Ratings has affirmed Sri Lanka-based Fintrex Finance PLC’s National Long-Term Rating at ‘BB(lka)’ with a Stable Outlook. Fitch has also affirmed the ‘B+(lka)’ National Long-Term Rating on the company’s subordinated debentures.
-
-...
-
-[Data](articles/2cdbe3f1.json)
-
----
-
-### Indian airports on high alert over possible terror threat
-
-*2025-08-06 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111231/indian-airports-on-high-alert-over-possible-terror-threat) · `en`
-
-The Bureau of Civil Aviation Security has placed all Indian airports on maximum alert following intelligence inputs warning of potential threats from terrorists or “anti-social elements” between September 22 and October 2, 2025.
-
-The civil aviation ministry’s security wing issued the advisory on August 4, directing immediate enhanced surveillance measures across all aviation installations including airports, airstrips, helipads, flying schools and training institutes. “Recent inputs from the central security agency indicate a potential threat from anti-social elements or terrorist groups,” the BCAS advisory stated, calling for heightened security to “avoid any untoward incident.”
-
-...
-
-[Data](articles/4c9d02d4.json)
 
 ---

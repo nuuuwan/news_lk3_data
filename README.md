@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 12:29:41**
+As of **2025-08-06 12:52:41**
 
 ## Newspaper Stats
 
-*Scraped **69,013** Articles*
+*Scraped **69,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,141 @@ economynextcom | 4,205
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,647
-adaderanalk | 8,569
-tamilmirrorlk | 10,065
-virakesarilk | 11,491
-adaderanasinhalalk | 11,879
+adalk | 6,648
+adaderanalk | 8,571
+tamilmirrorlk | 10,069
+virakesarilk | 11,493
+adaderanasinhalalk | 11,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 69,013 articles have been extended.
+61,973 (89.8%) of 69,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### මහින්දානන්දට සහ නලින් ප්‍රනාන්දුට එරෙහි නඩුවේ ලේඛන කැඳවීමට නියෝගයක්
+
+*2025-08-06 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213081) · `si`
+
+සිර දඬුවම් ලබාසිටින මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන අයට එරෙහිව නීතිපතිවරයා ගොනුකර ඇති නඩුවේ ලේඛන කැඳවීමට කොළඹ මහාධිකරණය අද (06) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියම කළේය.
+
+2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ කැරම්  බෝඩ් 14,000ක් සහ දාම් ලෑලි 11,000 ක් සතොස ආයතනය හරහා ආනයනය කර  එවක ජනාධිපති අපේක්ෂක මහින්ද රාජපක්ෂ මහතාගේ දේශපාලන කාර්යාලවලට බෙදා හැරීම තුළින් රජයට පාඩුවක් සිදු කළේ යැයි චෝදනා කරමින් මේ වනවිට සිර දඬුවම් ලබා සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත් ගමගේ, නලින් ප්‍රනාන්දු සහ ඇප මත මුදාහැර සිටින ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට එරෙහිව ගොනු කර ඇති නඩුව අද කැඳවු අවස්ථාවේදිය.
+
+ලැයිස්තුගත කර තිබෙන ලේඛන හෝ ඒවායේ මුල් පිටපත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තිබේ නම් ඒවා අද සිට සතියක් තුළ තම අධිකරණයේ රෙජිස්ට්‍රාර්වරයා වෙත ඉදිරිපත් කරන ලෙස එහිදි කොළඹ මහාධිකරණය  අද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියෝග කළේය.
+
+◼️
+
+[Data](articles/7628c19e.json)
+
+---
+
+### 'உங்கள் கரிசனைகளை  மனித உரிமை பேரவைக்கான எனது  அறிக்கை  பிரதிபலிக்கும் " - தமிழ் அரசியல்வாதிகள் சிவில் சமூகத்தினரின் கடிதத்திற்கு  ஐநா மனித உரிமை ஆணையாளர் பதில் கடிதம்
+
+*2025-08-06 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221941) · `ta`
+
+தமிழ் அரசியல் கட்சிகளும் தமிழ் சிவில்சமூகத்தினரும் மதத்தலைவர்களும் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளருக்கும்,மனித உரிமை பேரவையின் உறுப்பு நாடுகளிற்கும் ஐக்கிய நாடுகள் செயலாளர் நாயகத்திற்கும் அனுப்பிவைத்த கடிதத்திற்கு பதில் கடிதத்தை எழுதியுள்ள ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் வோல்க்கெர் டேர்க் தனக்கு அனுப்பப்பட்ட கடிதத்தில் முன்வைக்கப்பட்டுள்ள கரிசனைகளை பிரதிபலிக்கும் விதத்தில்  ஐக்கிய நாடுகள் மனித உரிமை பேரவைக்கான தனது அறிக்கை இடம்பெற்றிருக்கும் என தெரிவித்துள்ளார்.
+
+இலங்கைக்கான தனது விஜயத்தின் போது பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் பலருடனான தனது சந்திப்பு மிகவும் உணர்வூர்வமானதாக காணப்பட்டது என தெரிவித்துள்ள ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் செம்மணி மனித புதைகுழிக்கான எனது விஜயமும் பாதிக்கப்பட்டவர்கள் சட்டத்தரணிகளை சந்தித்தமை அந்த பகுதியில் இடம்பெற்ற பெரும் நினைவுகூரலை பார்வையிட்டமையும்  மிகவும் உணர்வுபூர்வமானதாக காணப்பட்டது என  தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7624f240.json)
+
+---
+
+### அரவிந்த சேனாரத்ன கோபா தவிசாளர் பதவியிலிருந்து இராஜினாமா
+
+*2025-08-06 12:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரவிந்த-சேனாரத்ன-கோபா-தவிசாளர்-பதவியிலிருந்து-இராஜினாமா/175-362420) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) கட்சியின் பாராளுமன்ற உறுப்பினர் அரவிந்த சேனாரத்ன, பொதுக் கணக்குகள் குழுவின் (COPA) தவிசாளர் பதவியில் இருந்து விலகியுள்ளார்.
+
+கோபா தலைவர் பதவியை எதிர்க்கட்சியிடம் ஒப்படைக்க அரசாங்கம் ஒப்புக்கொண்டதைத் தொடர்ந்து தனது முடிவு எடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சேனாரத்ன ஒரு அறிக்கையை வெளியிட்டார். அந்த செயல்முறை நடைபெற அனுமதிக்கவே தான் பதவி விலகுவதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/9bef4aa6.json)
+
+---
+
+### மதுபானங்களில் அதை கலந்த வியாபாரி சிக்கினார்
+
+*2025-08-06 12:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மதுபானங்களில்-அதை-கலந்த-வியாபாரி-சிக்கினார்/76-362419) · `ta`
+
+மதுபானம் வழங்கி பணம் மற்றும் நகைகளை அபகரித்த போதைப்பொருள் வியாபாரி ஒருவர் நாவலப்பிட்டி பொலிஸாரால் செவ்வாய்க்கிழமை (05) அன்று   கைது செய்யப்பட்டு நாவலப்பிட்டி நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட போது எதிர்வரும் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதவான்  உத்தரவிட்டுள்ளார்.
+
+சந்தேக நபர் பிலிமத்தலாவை பகுதியைச் சேர்ந்த  50 வயதுடைய அஜித் கீர்த்தி லால் என தெரியவந்துள்ளது.
+
+சந்தேக நபர் நாட்டின் பல்வேறு பகுதிகளில் உள்ள மதுபான கடைகளுக்கு சென்று, அங்கு  வருபவர்களுடன் நட்பு கொண்டு, சந்தேக நபரின் செலவில் அவர்களுக்கு மதுபானங்களை வாங்கி அதில் போதைப்பொருள் மற்றும் மாத்திரைகள் கலந்து கொடுத்துள்ளார்.
+
+அதைக் குடித்த நபர்கள் சுயநினைவை இழந்த பிறகு, அவர்கள் வசம் இருந்த பணம் மற்றும் தங்க நகைகளை அபகரித்துக்கொண்டு சந்தேக நபர் தப்பிச் சென்றுள்ளார்.
+
+இது தொடர்பாக நாவலப்பிட்டி மற்றும் கம்பளை பொலிஸார் நடத்திய முதற்கட்ட விசாரணைகளில், சந்தேக நபர் பிலிமத்தலாவ பகுதியில் தங்கியிருந்து குளிர்சாதன பெட்டிகள் பழுதுபார்க்கும் போர்வையில் நாட்டின் பல்வேறு பகுதிகளில் போதைப்பொருள் விற்பனை செய்து வந்ததாக தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/5ca68db9.json)
+
+---
+
+### අමෙරිකාව නොතකා, ඉන්දීය ආරක්ෂක උපදේශක රුසියාවට
+
+*2025-08-06 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213080) · `si`
+
+ඉන්දියාව, රුසියානු ඉන්ධන මිලදී ගනිමින් එරට ධනවත් කරමින් සිටින බව පවසමින් ඉන්දියාවට එරෙහිව දැඩි තීරුබදු පනවන බවට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අවධාරණය කළේ පසුගිය සතියේදීය.
+
+කෙසේ නමුත් එම අනතුරු ඇඟවීම් නොතකා රුසියානු ඉන්ධන අඛණ්ඩව මිලදී ගැනීමට ඉන්දියාව කටයුතු කළේය.
+
+එවන් පසුබිමක ඉන්දීය ජාතික ආරක්ෂක උපදේශක අජිත් දෝවාල් රුසියාවේ නිල සංචාරයක් ආරම්භ කර තිබේ.
+
+ඉන්දීය විදෙස් කටයුතු ඇමති එස් ජයශංකර් ද ලබන මාසයේදී රුසියාවේ සංචාරය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/be8d81d1.json)
+
+---
+
+### சஷீந்திர ராஜபக்ஷ கைது செய்யப்பட்டது ஏன்?
+
+*2025-08-06 12:18:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷ-கைது-செய்யப்பட்டது-ஏன்/175-362418) · `ta`
+
+இலங்கை மகாவலி அதிகாரசபைக்குச் சொந்தமான சொத்தை ஊழல் மற்றும் துஷ்பிரயோகம் செய்தமை குறித்த விசாரணை தொடர்பாக முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ இன்று கைது செய்யப்பட்டதாக இலஞ்சம் மற்றும் ஊழல் சாத்துதல்களைப் புலனாய்வு செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஆணைக்குழுவின் கூற்றுப்படி, செவனகலவில் உள்ள கிரிப்பன்வெவ நீர்த்தேக்கத்திற்கு அருகில் அமைந்துள்ள இலங்கை மகாவலி அதிகாரசபைக்குச் சொந்தமான நிலத்தில் சட்டவிரோதமாக பண்ணை கட்டிடம் கட்டியதாக சஷீந்திர ராஜபக்ஷ மீது குற்றம் சாட்டப்பட்டுள்ளது.
+
+மே 09, 2022 அன்று 'அரகலய' பொதுப் போராட்டத்தின் போது இந்தக் கட்டிடம் அழிக்கப்பட்டதைத் தொடர்ந்து, அந்தக் காணி இலங்கை மகாவலி அதிகாரசபைக்குச் சொந்தமானது என்பது பின்னர் உறுதிப்படுத்தப்பட்டது.
+
+இருந்தபோதும், கட்டிடத்தின் புனரமைப்புக்கான ஒப்புதலைப் பெறுவதற்காக, தனது அதிகாரத்தை தவறாகப் பயன்படுத்தி, சம்பந்தப்பட்ட அதிகாரிகளுக்கு ராஜபக்ச அழுத்தம் கொடுத்ததாகக் கூறப்படுகிறது.
+
+இந்த நடவடிக்கைகள் ஊழல், சதித்திட்டம் மற்றும் அரசு சொத்துக்களை சட்டவிரோதமாக ஆக்கிரமித்தல் ஆகிய குற்றச்சாட்டுகளை உள்ளடக்கியதாக ஆணைக்குழு கூறுகிறது.
+
+...
+
+[Data](articles/6d785083.json)
+
+---
+
+### முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ கைது
+
+*2025-08-06 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221937) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரணைக்கும் ஆணைக்குழுவால் (CIABOC) கைது செய்யப்பட்டுள்ளார்.
+
+முன்னாள் இராஜாங்க அமைச்சர் ராஜபக்ஷ இன்று புதன்கிழமை (06) காலை நுகேகொடையில் உள்ள அவரது இல்லத்தில் இலஞ்ச ஒழிப்பு ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+2022 ஆம் ஆண்டு நாடளாவிய போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பாக அவர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+அதனை தொடர்ந்து, முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ இலஞ்ச ஒழிப்பு ஆணைக்குழுவில் முன்னிலைப்படுத்தப்பட்டுள்ளார். தற்போது அவரிடம் வாக்குமூலம் பதிவு செய்யப்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1189d41f.json)
+
+---
 
 ### කෝපා කමිටුවේ සභාපති ධුරයෙන් අරවින්ද සෙනරත් ඉල්ලා අස්වෙයි
 
@@ -288,6 +408,46 @@ GMOA எழுப்பிய கவலைகளை சுகாதார அத
 
 ---
 
+### Gautam Adani steps down from executive role at ports unit
+
+*2025-08-06 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111226/gautam-adani-steps-down-from-executive-role-at-ports-unit) · `en`
+
+India’s infrastructure tycoon Gautam Adani has stepped down from his executive position at his group’s most valuable company, Adani Ports and Special Economic Zone, no longer serving as a key managerial figure.
+
+He has transitioned to the role of non-executive chairman, with his older son Karan Adani (38) already managing the port operations. Following Tuesday’s development, Gautam (63) is now the non-executive chairman of seven group companies including Ambuja Cements, Adani Green Energy, Adani Green Solutions, Adani Power, Adani Total Gas, and Adani Infra (India).
+
+He remains the executive chairman of only one company, Adani Enterprises, known as the incubator of new businesses such as airports, data centres and copper metals.
+
+The change was prompted by the Companies Act (Section 203, sub-section 3), which restricts a key managerial person (KMP) or a whole-time director (WTD) from holding executive positions in more than one company simultaneously.
+
+...
+
+[Data](articles/d84272fb.json)
+
+---
+
+### UN official says Israel expanding Gaza operations would risk ‘catastrophic consequences’
+
+*2025-08-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111225/un-official-says-israel-expanding-gaza-operations-would-risk-catastrophic-consequences) · `en`
+
+A top UN official has warned there would be “catastrophic consequences” if Israel expands its military operations in Gaza, after reports Israel’s Prime Minister, Benjamin Netanyahu, is pushing for a total reoccupation of the strip.
+
+Assistant Secretary General Miroslav Jenča told a meeting of the UN Security Council such a move would be “deeply alarming” if true, and could endanger the lives of more Palestinians, as well as Israeli hostages held by Hamas.
+
+Israeli media reported that Netanyahu plans to meet with his security cabinet this week.
+
+“The die has been cast. We’re going for the full conquest of the Gaza Strip - and defeating Hamas,” a senior Israeli official was quoted as saying.
+
+The security cabinet, which is due to meet on Thursday, would need to approve such an action.
+
+It has been suggested that the plan could be a negotiating tactic to pressure Hamas after a recent breakdown of ceasefire talks or an attempt to shore up support from Netanyahu’s far-right coalition partners.
+
+...
+
+[Data](articles/e20248bc.json)
+
+---
+
 ### ශෂීන්ද්‍ර රාජපක්ෂ අල්ලස් කොමිසමේ අත්අඩංගුවට
 
 *2025-08-06 10:47:50* · [`adalk`](https://www.ada.lk/breaking_news/ශෂීන්ද්‍ර-රාජපක්ෂ-අල්ලස්-කොමිසමේ-අත්අඩංගුවට/11-417755) · `si`
@@ -357,6 +517,18 @@ GMOA எழுப்பிய கவலைகளை சுகாதார அத
 ◼️
 
 [Data](articles/68489f1f.json)
+
+---
+
+### சஷீந்திர ராஜபக்ஷ சற்றுமுன் கைது
+
+*2025-08-06 10:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சஷீந்திர-ராஜபக்ஷ-சற்றுமுன்-கைது/150-362400) · `ta`
+
+முன்னாள் விவசாய இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ, இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகளால் இன்று காலை கைது செய்யப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/04aad3b2.json)
 
 ---
 
@@ -444,11 +616,11 @@ Former State Minister Shasheendra Rajapaksa has been arrested by the Commission 
 
 Former State Minister Rajapaksa was arrested by officers of the Bribery Commission at his residence in Nugegoda this morning (06).
 
-It has been reported that he was taken into custody in connection with an incident where compensation was obtained through another individual for a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+It has been reported that he was taken into custody in connection with an incident where compensation was obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
 
-Subsequently, former State Minister Shasheendra Rajapaksa has been brought before the Bribery Commission, and it is reported that his statement is currently being recorded.
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
 
-◼️
+...
 
 [Data](articles/b06d31fc.json)
 
@@ -507,6 +679,10 @@ Subsequently, former State Minister Shasheendra Rajapaksa has been brought befor
 *2025-08-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111222/sagala-ratnayaka-arrives-at-fcid) · `en`
 
 Former Chief of Staff of former President Ranil Wickremesinghe Sagala Ratnayaka has arrived at the Financial Crimes Investigation Division (FCID).
+
+Earlier this week, Sandra Perera, the personal secretary of former President Ranil Wickremesinghe and former Secretary to the President Saman Ekanayake were summoned to the Criminal Investigation Department (CID) to record statements in connection with an investigation into foreign trips allegedly funded using allocations from the Presidential Secretariat.
+
+Earlier, the CID launched investigations into foreign trips undertaken by Ranil Wickremesinghe during his tenure as President.
 
 ◼️
 
@@ -610,11 +786,17 @@ The health department’s Biomedical Advanced Research and Development Authority
 
 ---
 
-### Second reading of Sri Lanka Electricity (Amendment) Bill in Parliament today
+### Second reading debate of Electricity (Amendment) Bill in Parliament today
 
 *2025-08-06 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111218/second-reading-of-sri-lanka-electricity-amendment-bill-in-parliament-today) · `en`
 
 The second reading of the Sri Lanka Electricity (Amendment) Bill is scheduled to take place in Parliament today.
+
+The Electricity (Amendment) Bill, which was presented in Parliament earlier this year by the government was also challenged in the Supreme Court.
+
+Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
+
+Following the commencement of today’s sitting, Minister of Energy Kumara Jayakody is scheduled to table the bill for second reading debate.
 
 ◼️
 
@@ -1557,175 +1739,5 @@ Swisstek Aluminium mounting systems are manufactured using high-grade corrosion-
 ...
 
 [Data](articles/5b29101c.json)
-
----
-
-### Intex Sri Lanka 2025 set to ignite the textile & apparel world – A decade of impact, innovation & industry leadership
-
-*2025-08-05 23:37:00* · [`islandlk`](http://island.lk/intex-sri-lanka-2025-set-to-ignite-the-textile-apparel-world-a-decade-of-impact-innovation-industry-leadership/) · `en`
-
-The energy is rising, the industry is watching, and the countdown has officially begun. From 6–8 August 2025, Colombo will once again become the epicentre of South Asia’s textile and apparel universe as Intex Sri Lanka returns with its most powerful edition yet. Celebrating a decade of innovation, trust, and transformation, the 17th edition of Intex Sri Lanka is more than an exhibition — it’s a movement that has shaped the sourcing future of the region.
-
-Since its debut in 2015, Intex Sri Lanka has been a game-changer — bridging Sri Lanka’s world-renowned manufacturing strength with global textile producers and technology leaders.
-
-Over the years, the show has become a strategic sourcing calendar event for buyers and industry leaders from across South Asia, ASEAN, MENA, and Europe. From fibres to fashion, processing to packaging, Intex delivers the full textile value chain — and this year, it’s taking it all a notch higher.
-
-...
-
-[Data](articles/bb984637.json)
-
----
-
-### ComBank’s Rs. 15 billion Green Bond issue oversubscribed on opening day
-
-*2025-08-05 23:37:00* · [`islandlk`](http://island.lk/combanks-rs-15-billion-green-bond-issue-oversubscribed-on-opening-day/) · `en`
-
-Investors demonstrated overwhelming support for the green lending aspirations of the Commercial Bank of Ceylon, leading to the oversubscription of the Bank’s Rs. 15 billion Green Bond on its opening day, Monday 4th August 2025.
-
-The Green Bond Issue comprised of an initial issue of 100 million Basel III Compliant – Tier 2 Listed Rated Unsecured Subordinated Redeemable Green Bonds with a Non-Viability Conversion feature, at the par value of Rs. 100/= each, to raise a sum of Rupees 10 billion; and an option to issue up to a further 50 million Green Bonds at the discretion of the Bank, in the event of an oversubscription of the initial issue.
-
-...
-
-[Data](articles/e151caa5.json)
-
----
-
-### CSE’s 12-day record breaking performance arrested; profit-takings bust bullishness
-
-*2025-08-05 23:34:00* · [`islandlk`](http://island.lk/cses-12-day-record-breaking-performance-arrested-profit-takings-bust-bullishness/) · `en`
-
-The CSE yesterday reported a downward trend due to profit- takings among some stocks, thus breaking a psychological barrier after witnessing a 12- day record breaking performance over the preceding days, market analysts said.
-
-Both indices moved downwards. The All Share Price Index went down by 58.23 points, while the S and P SL20 declined by 12.34 points. Turnover stood at Rs 3.3 billion with seven crossings.
-
-...
-
-[Data](articles/bd1ecef4.json)
-
----
-
-### Sri Lanka anti-dumping law to protect tile, bathware and shoe industries: Minister
-
-*2025-08-05 23:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-anti-dumping-law-to-protect-tile-bathware-and-shoe-industries-minister-234808/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s anti-dumping and countervailing duties will give more protection to domestic producers like tiles, shoes and sanitary clothes, Industries Minister Sunil Handunetti said, naming businesses which have lobbied for the heaviest protection and do not have to be export competitive as a result.
-
-“In the recent past the biggest complaint is that Sri Lanka’s open economy has put domestic industries in danger,” Industries Minister Suni Handunetti told parliament shortly before rules under the law were approved.
-
-“The industries that will be most protected – I am thankful for the Trade Minister for bringing this regulation to parliament – are sanitary clothes, bathroom and bathware, the tile industry and leather products, shoes and shoe related industries.”
-
-Tiles, sanitary ware and shoes are among the worst protectionist industries that has exploited helpless consumers for years by lobbying especially the ousted Rajapaksa administrations for ever higher taxes.
-
-...
-
-[Data](articles/68624820.json)
-
----
-
-### Japan and Sri Lanka begins cricket diplomacy
-
-*2025-08-05 23:15:00* · [`economynextcom`](https://economynext.com/japan-national-cricket-team-visits-sri-lanka-234792/) · `en`
-
-ECONOMYNEXT – The Japan National Cricket Team visited Sri Lanka on a practice tour in preparation for qualification in the upcoming ICC T20 World Cup from the Asia-Pacific region.
-
-The cricket exchange adds a new layer to the bilateral relations between Japan and Sri Lanka, Japanese Ambassador Akio Isomata said, and celebrated the beginning of cricket diplomacy.
-
-Sri Lanka Cricket has arranged a series of seven T20 practice matches against four Under-19 squads from Sri Lanka.
-
-The initiative aims to strengthen cricket-ties and nurture young talent, mutual respect, and deep understanding between the two nations, the Japanese Embassy said in a statement.
-
-The ambassador hosted a reception which was attended by cricket personalities, Sri Lanka Cricket President Shammi Silva, Japan Cricket Association CEO Alex Miyaji, SLC CEO Ashley De Silva, JCA Goodwill Ambassador Priyantha Kariyapperuma, and cricketers Sanath Jayasuriya, Chaminda Vass, Angelo Mathews, Bhanuka Rajapaksa and Charith Asalanka.
-
-◼️
-
-[Data](articles/e0b3f8e5.json)
-
----
-
-### දොස්තර මහේෂිගේ දුව සමාව ගන්න සූදානම්
-
-*2025-08-05 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213062) · `si`
-
-අල්ලස් කොමිසමේ නිලධාරීන්ට මරණීය තර්ජන එල්ල කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් කොන්දේසි විරහිතව සමාව ඉල්ලා සිටීමට සූදානම් බව පසුගියදා අල්ලස් සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇප මත මුදාහැරි ශ්‍රී ජයවර්ධනපුර රෝහලේ විශේෂඥ වෛද්‍ය මහේෂි විජේරත්නගේ දියණිය වන හේමාලි විජේරත්න විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබේ.
-
-සමාව ඉල්ලා සිටීමෙන් නොනැවතී එසේ සමාව ගත් බවට දැන්වීම් පළ කිරීමට සූදානම් බව එම සැකකාරිය විසින් සිය නීතිඥවරයා මාර්ගයෙන් අධිකරණයට දැනුම් දුන් අතර තමන්ට එරෙහිව පවතින විමර්ශනය සමථයට පත් කොට සිය අනාගතය සකස් කරගැනීමට ඉඩ දෙන ලෙසත් අධිකරණයෙන් ඉල්ලා ඇත.
-
-අල්ලස් කොමිසමේ නිලධාරීන්ට මරණීය තර්ජන එල්ල කළේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින සැකකාර හේමාලී විජේරත්න තමන් වෙනුවෙන් පෙනී සිටින ජනාධිපති නීතිඥ උපුල් කුමරප්පෙරුම මහතා මාර්ගයෙන් මෙම කරුණු අධිකරණයට ඉදිරිපත් කළා තිබුණි.
-
-...
-
-[Data](articles/76f66f58.json)
-
----
-
-### மனிதப்புதைகுழியிலிருந்து மீட்கப்பட்ட பொருட்களை அடையாளம் காண்பதில் பொதுமக்களின் ஒத்துழைப்பு: உண்மை, நீதியை நோக்கிய நடவடிக்கை என ஐ.நா பாராட்டு
-
-*2025-08-05 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221921) · `ta`
-
-செம்மணி மற்றும் கொக்குத்தொடுவாய் மனிதப்புதைகுழிகளில் இருந்து மீட்கப்பட்ட உடைமைகளை அடையாளம் காண்பதில் பொதுமக்களின் உதவியை நாடுவதற்கான தீர்மானம் உண்மை, நீதி மற்றும் நல்லிணக்கத்தை நோக்கிய, நீண்டகாலமாக எதிர்பார்க்கப்பட்டதோர் நடவடிக்கை ஆகும் என இலங்கையிலுள்ள ஐக்கிய நாடுகள் அலுவலகம் தெரிவித்துள்ளது.
-
-செம்மணி சித்துபாத்தி மற்றும் கொக்குத்தொடுவாய் கூட்டுப்புதைகுழி தளங்களில் இருந்து மீட்கப்பட்ட தனிப்பட்ட உடைமைகளை அடையாளம் காண்பதில் பொதுமக்களின் உதவியை நாடும் தீர்மானம், இலங்கையில் உண்மை, நீதி மற்றும் நல்லிணக்கத்தை நோக்கிய ஒரு குறிப்பிடத்தக்க மற்றும் நீண்டகாலமாக எதிர்பார்க்கப்பட்டதோர் நடவடிக்கையாகும்.
-
-பல தசாப்தகாலமாக தமது அன்புக்குரியவர்களின் நிலை குறித்து அயராது, திடமாக பதில்களைத் தேடிவரும் காணாமல்போனோரின் குடும்பங்களுடன் இலங்கையிலுள்ள ஐக்கிய நாடுகள் அலுவலகம் உறுதியாக நிற்கிறது. உண்மை மற்றும் நீதியைப் பின்தொடர்வதில் அவர்களது தாங்கும் வல்லமை ஒரு தார்மீக வழிகாட்டியாகத் தொடர்கிறது.
-
-...
-
-[Data](articles/3b5e3d42.json)
-
----
-
-### Eight-year-old dies after falling into Z-D Canal
-
-*2025-08-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111208/eight-year-old-dies-after-falling-into-z-d-canal) · `en`
-
-An eight-year-old child has died after falling into the Z-D Canal in Polonnaruwa, this evening (05).
-
-The child, who had gone to herd the goats in the Nagasthenna area of Welikanda, Polonnaruwa, met with this unfortunate incident.
-
-Welikanda Police stated that the child had told his mother he was going to herd the goats this evening and had left accordingly, but had failed to return.
-
-◼️
-
-[Data](articles/3dc188c4.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේ සිදුකළ තර්ජන ගැන විමර්ශන ඇරඹෙයි
-
-*2025-08-05 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213061) · `si`
-
-විදේශගතව සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන කෙහෙල්බද්දර පද්මේ විසින් බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ මැඩලීමේ ඒකකයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් ද සිල්වා මහතාට මරණීය තර්ජන එල්ල කලේ යැයි කියන සිද්ධිය පිළිබඳව විමර්ශන ආරම්භ කර ඇතැයි  පොලීසිය අද (05) කොළඹ මහේස්ත්‍රාත් අධිකරණයට දැනුම්දුනි.
-
-එහිදී පොලිසිය කළ ඉල්ලීමක් පිළිගත් අධිකරණය කෙහෙල්බද්දර පද්මේ ඇතුළු පුද්ගලයින් තුන්දෙනෙකුගේ දුරකථන විස්තර වාර්තා කැඳවන ලෙස නියම කළේය.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකරන බස්නාහිර උතුර කොට්ඨාශයේ නිලධාරීන් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරාජ මහත්මිය මෙම නියෝගය නිකුත් කළාය.
-
-එම පොලිස් නිලධාරීන් විසින් මෙම සිද්ධියට අදාළව සිදුකළ විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක්ද අධිකරණයට ඉදිරිපත් කෙරුණි.
-
-...
-
-[Data](articles/62106ec7.json)
-
----
-
-### செம்மணி சான்றுப்பொருட்களை மக்கள் அடையாளம் காட்டினார்களா?
-
-*2025-08-05 22:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/செம்மணி-சான்றுப்பொருட்களை-மக்கள்-அடையாளம்-காட்டினார்களா/71-362368) · `ta`
-
-செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்று பொருட்களை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர். எனினும் எவரும் எதனையும் அடையாளம் காட்டவில்லை என சட்டத்தரணி ரனித்தா ஞானராஜா தெரிவித்தார்.
-
-செம்மணி அகழ்வுப்பணிகள் இரண்டாம் கட்டத்தின் 31 ஆவது நாள் யாழ்ப்பாணம் நீதிவான் ஏ.ஏ.ஆனந்தராஜாவின் மேற்பார்வையில் செவ்வாயக்கிழமை (5) முன்னெடுக்கப்பட்டது.
-
-அகழ்வு பணிக்கு பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த போதே சட்டத்தரணி ரனித்தா ஞானராஜா இதனை தெரிவித்தார்.
-
-செம்மணி மனித புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்றுப் பொருட்களை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர்.
-
-புதைகுழிகளில் இருந்து மீட்கப்பட்ட சான்றுப் பொருட்கள் இன்றைய தினம் செவ்வாய்க்கிழமை மதியம் 1.30 மணி முதல் மாலை 05 மணி வரையில் மக்கள் பார்வைக்கு வைக்கப்பட்டிருந்தன.
-
-அவற்றை சுமார் 200 பேர் வரையில் பார்வையிட்டிருந்தனர். எவரும் அவற்றை அடையாளம் காட்டவில்லை.
-
-...
-
-[Data](articles/ea76ca7d.json)
 
 ---

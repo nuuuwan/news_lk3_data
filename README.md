@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 14:40:36**
+As of **2025-08-06 14:55:53**
 
 ## Newspaper Stats
 
-*Scraped **69,049** Articles*
+*Scraped **69,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ dailyftlk | 4,864
 adalk | 6,650
 adaderanalk | 8,578
 tamilmirrorlk | 10,076
-virakesarilk | 11,494
+virakesarilk | 11,495
 adaderanasinhalalk | 11,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 69,049 articles have been extended.
+61,973 (89.8%) of 69,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### "உங்கள் கரிசனைகளை மனித உரிமை பேரவைக்கான எனது அறிக்கை பிரதிபலிக்கும் ; மனித புதைகுழிகள் மூலம் வெளிவரும் ஆதாரங்களை பாதுகாக்கவேண்டிய அவசிய தேவை உள்ளது" - தமிழ் அரசியல்வாதிகள் சிவில் சமூகத்தினரின் கடிதத்திற்கு ஐநா மனித உரிமை ஆணையாளர் பதில் கடிதம்
+
+*2025-08-06 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/221941) · `ta`
+
+தமிழ் அரசியல் கட்சிகளும் தமிழ் சிவில்சமூகத்தினரும் மதத்தலைவர்களும் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளருக்கும்,மனித உரிமை பேரவையின் உறுப்பு நாடுகளிற்கும் ஐக்கிய நாடுகள் செயலாளர் நாயகத்திற்கும் அனுப்பிவைத்த கடிதத்திற்கு பதில் கடிதத்தை எழுதியுள்ள ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் வோல்க்கெர் டேர்க் தனக்கு அனுப்பப்பட்ட கடிதத்தில் முன்வைக்கப்பட்டுள்ள கரிசனைகளை பிரதிபலிக்கும் விதத்தில்  ஐக்கிய நாடுகள் மனித உரிமை பேரவைக்கான தனது அறிக்கை இடம்பெற்றிருக்கும் என தெரிவித்துள்ளார்.
+
+இலங்கைக்கான தனது விஜயத்தின் போது பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் பலருடனான தனது சந்திப்பு மிகவும் உணர்வூர்வமானதாக காணப்பட்டது என தெரிவித்துள்ள ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் செம்மணி மனித புதைகுழிக்கான எனது விஜயமும் பாதிக்கப்பட்டவர்கள் சட்டத்தரணிகளை சந்தித்தமை அந்த பகுதியில் இடம்பெற்ற பெரும் நினைவுகூரலை பார்வையிட்டமையும்  மிகவும் உணர்வுபூர்வமானதாக காணப்பட்டது என  தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7624f240.json)
+
+---
 
 ### ஹன்சிகா விவாகரத்தா ?
 
@@ -50,17 +64,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### உங்கள் கரிசனைகளை மனித உரிமை பேரவைக்கான எனது அறிக்கை பிரதிபலிக்கும் -   மனித மனித புதைகுழிகள்  மூலம் வெளிவரும் ஆதாரங்களை பாதுகாக்கவேண்டிய அவசிய தேவை உள்ளது"  - தமிழ் அரசியல்வாதிகள் சிவில் சமூகத்தினரின் கடிதத்திற்கு ஐநா மனித உரிமை ஆணையாளர் பதில் கடிதம்
+### மண்ணுக்குள் புதைந்து போன ஐவர் காயங்களுடன் மீட்பு
 
-*2025-08-06 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/221941) · `ta`
+*2025-08-06 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221950) · `ta`
 
-தமிழ் அரசியல் கட்சிகளும் தமிழ் சிவில்சமூகத்தினரும் மதத்தலைவர்களும் ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளருக்கும்,மனித உரிமை பேரவையின் உறுப்பு நாடுகளிற்கும் ஐக்கிய நாடுகள் செயலாளர் நாயகத்திற்கும் அனுப்பிவைத்த கடிதத்திற்கு பதில் கடிதத்தை எழுதியுள்ள ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் வோல்க்கெர் டேர்க் தனக்கு அனுப்பப்பட்ட கடிதத்தில் முன்வைக்கப்பட்டுள்ள கரிசனைகளை பிரதிபலிக்கும் விதத்தில்  ஐக்கிய நாடுகள் மனித உரிமை பேரவைக்கான தனது அறிக்கை இடம்பெற்றிருக்கும் என தெரிவித்துள்ளார்.
+மஸ்கெலியாவில் மண்மேடொன்று சரிந்து விழுந்ததில் புதையுண்ட ஐவர் காயங்களுடன் மீட்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-இலங்கைக்கான தனது விஜயத்தின் போது பாதிக்கப்பட்டவர்கள் உயிர்பிழைத்தவர்கள் பலருடனான தனது சந்திப்பு மிகவும் உணர்வூர்வமானதாக காணப்பட்டது என தெரிவித்துள்ள ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் செம்மணி மனித புதைகுழிக்கான எனது விஜயமும் பாதிக்கப்பட்டவர்கள் சட்டத்தரணிகளை சந்தித்தமை அந்த பகுதியில் இடம்பெற்ற பெரும் நினைவுகூரலை பார்வையிட்டமையும்  மிகவும் உணர்வுபூர்வமானதாக காணப்பட்டது என  தெரிவித்துள்ளார்.
+மஸ்கெலியா சாமிமலை பிரதான வீதியில் பனியன் பலத்திற்கு அருகில்  உள்ள  வீடு ஒன்றின் மீது இடிந்து விழுந்த மண் மேட்டின் கீழ் புதைந்திருந்த ஐந்து பேரை அப்பகுதி மக்கள் மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளனர்.
 
-...
+நாட்டில் நிலவும் சீரற்ற வானிலையால் நேற்று செவ்வாய்க்கிழமை (05) மஸ்கெலியா பகுதியில் பெய்த கடும் மழையினால் வீடொன்றின் மீது பாரிய மண் திட்டு சரிந்து வீழ்ந்துள்ளது.
 
-[Data](articles/7624f240.json)
+இன்று புதன்கிழமை (06) மதியம் 12:00 மணியளவில் அந்த மண் மேட்டை அகற்றும் பணியில் ஈடுபட்டிருந்த ஐவர் மீது  மற்றொரு மண் மேடு சரிந்து விழுந்துள்ளது.
+
+பொது மக்கள் இணைந்து மண் மேட்டின் கீழ் புதையுண்டிருந்த ஐவரையும் மீட்டு மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3efd3bf7.json)
 
 ---
 
@@ -1769,19 +1789,5 @@ Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr
 ...
 
 [Data](articles/1e25a202.json)
-
----
-
-### Criticism, Accountability & The Ocean Economy: A Call For Strategic Clarity
-
-*2025-08-06 05:01:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/criticism-accountability-the-ocean-economy-a-call-for-strategic-clarity/) · `en`
-
-In recent times, journalist Uvindu Kurukulasuriya has become a subject of intense public debate, primarily due to his vocal criticisms of the current government and the President’s certain policies on social media. Many have accused him of being politically biased or aligned with the National People’s Power (NPP). As someone who has followed Uvindu’s work for years, I felt compelled to reflect on this discourse — not to defend or attack, but to explore the deeper implications for media responsibility and national dialogue.
-
-Before the last election, I too found myself questioning Uvindu’s apparent transformation. For a long time, he maintained a reputation as a media professional who observed political developments from a distance, seemingly without any allegiance or influence. His sudden shift toward strong political commentary in favor of NPP was difficult to reconcile with the personaI had come to recognize.
-
-...
-
-[Data](articles/7fcb3486.json)
 
 ---

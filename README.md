@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 17:18:50**
+As of **2025-08-06 17:31:48**
 
 ## Newspaper Stats
 
-*Scraped **69,075** Articles*
+*Scraped **69,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,215
 islandlk | 4,215
+economynextcom | 4,216
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,652
@@ -26,11 +26,33 @@ adaderanasinhalalk | 11,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,075 articles have been extended.
+61,973 (89.7%) of 69,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### Sri Lanka rupee stronger against dollar, bonds flat
+
+*2025-08-06 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-flat-235047/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.85/90 to the US dollar in the spot market Wednesday, stronger from 300.99/301.05 the previous day, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.40/50 percent.
+
+A bond maturing on 15.12.2028 closed at 8.87/92 percent, up from 8.80/85 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.25/30 percent.
+
+A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
+
+◼️
+
+[Data](articles/4f38c7e6.json)
+
+---
 
 ### ஆஸ்திரேலிய ஆளுநர், குழுவுடன் வந்தடைந்தார்
 
@@ -1789,19 +1811,5 @@ Dr. Hansamal Weerasuriya stated, “If there is no proper intervention from the 
 ◼️
 
 [Data](articles/4faf7ba7.json)
-
----
-
-### Six dead in five separate road accidents across Sri Lanka
-
-*2025-08-06 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111215/six-dead-in-five-separate-road-accidents-across-sri-lanka) · `en`
-
-Six individuals, including four youth, have died in five separate road accidents reported from various parts of the island.
-
-These accidents occurred yesterday (05) in Galenbindunuwewa, Nalla, Dompe, Pugoda, Kilinochchi, and Ingiriya, police stated.
-
-◼️
-
-[Data](articles/d9a9d836.json)
 
 ---

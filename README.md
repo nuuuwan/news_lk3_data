@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 19:29:02**
+As of **2025-08-06 19:51:40**
 
 ## Newspaper Stats
 
-*Scraped **69,105** Articles*
+*Scraped **69,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,654
 adaderanalk | 8,585
-tamilmirrorlk | 10,092
+tamilmirrorlk | 10,093
 virakesarilk | 11,503
 adaderanasinhalalk | 11,894
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,105 articles have been extended.
+61,973 (89.7%) of 69,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### 1,408 வைத்தியர்களை நியமிக்க விண்ணப்பங்கள் கோரப்படுகின்றன
+
+*2025-08-06 19:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-408-வைத்தியர்களை-நியமிக்க-விண்ணப்பங்கள்-கோரப்படுகின்றன/175-362455) · `ta`
+
+பயிற்சி முடித்த 1,408 மருத்துவர்களை முதன்மை தர மருத்துவ அதிகாரிகளாக நியமிக்க சுகாதார அமைச்சகம் விண்ணப்பங்களை கோரியுள்ளது.
+
+ஒக்டோபர் 29, 2024 அன்று அல்லது அதற்கு முன்னர் தங்கள் பயிற்சியை முடித்து, தேவையான தகுதிகளைப் பூர்த்தி செய்யும் மருத்துவர்கள், அமைச்சகத்தின் மனிதவள முகாமைத்துவ மற்றும் தகவல் அமைப்பு (HRMIS) மூலம் விண்ணப்பிக்கத் தகுதியுடையவர்கள் என்று பிரதிப் பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) II, வைத்தியர் எச்.எம். அர்ஜுன திலகரத்ன ஒரு அறிக்கையில் அறிவித்தார்.
+
+விண்ணப்பதாரர்கள் தங்கள் விண்ணப்பங்களை ஓகஸ்ட் 11, 2025 அன்று மதியம் 12:00 மணிக்குள் நிகழ்நிலையில் சமர்ப்பிக்க வேண்டும்.
+
+◼️
+
+[Data](articles/2931b36a.json)
+
+---
 
 ### නඩු ගොනුවක පිටු ඉරූ නීතිඥවරයෙකුගේ නීතිඥභාවය අහෝසි කෙරේ
 
@@ -1815,27 +1831,5 @@ It has been suggested that the plan could be a negotiating tactic to pressure Ha
 ◼️
 
 [Data](articles/53d727df.json)
-
----
-
-### Fitch affirms Sri Lanka’s Mercantile Investments at BBB
-
-*2025-08-06 10:42:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-mercantile-investments-at-bbb-234976/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Mercantile Investments and Finance’s National Long-Term Rating has been affirmed at BBB-(lka) by Fitch Ratings based on its moderate but rising market share. The outlook remains stable.
-
-“The rating reflects MIF’s moderate but rising market share, at 3%-4% by sector loans and deposits, and improving asset quality,” the ratings agency said.
-
-This is counterbalanced by a stronger growth appetite, weaker core capital ratio and a higher operating cost structure compared with Fitch-rated mid-sized peers, Fitch said.
-
-Mercantile Investments and Finance has also expanded its gold-backed loan portfolio ‘rapidly’ since it introduced the product three years ago, despite being a vehicle financier traditionally.
-
-Fitch Affirms Mercantile Investments and Finance at ‘BBB-(lka)’; Outlook Stable
-
-Fitch Ratings – Colombo – 05 Aug 2025: Fitch Ratings has affirmed Mercantile Investments and Finance PLC’s (MIF) National Long-Term Rating at ‘BBB-(lka)’. The Outlook is Stable.
-
-...
-
-[Data](articles/87dbe8ae.json)
 
 ---

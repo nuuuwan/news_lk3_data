@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 18:11:24**
+As of **2025-08-06 18:35:06**
 
 ## Newspaper Stats
 
-*Scraped **69,092** Articles*
+*Scraped **69,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
 islandlk | 4,215
-economynextcom | 4,219
+economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,653
 adaderanalk | 8,584
-tamilmirrorlk | 10,087
-virakesarilk | 11,501
+tamilmirrorlk | 10,090
+virakesarilk | 11,502
 adaderanasinhalalk | 11,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,092 articles have been extended.
+61,973 (89.7%) of 69,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### Sri Lanka sees foreign buying in rupee bonds amid certainty over Trump tariff
+
+*2025-08-06 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-amid-certainty-over-trump-tariff-235037/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities after selling in the previous week, the Central Bank data showed, as the week ended on July 31 saw some certainty over U.S. President Donald Trump’s tariff, analysts said.
+
+Foreign investors bought 1,664 million rupee ($5.55 million) worth of government securities in the week ended on July 31, after suffering a 1.4 million dollars outflow in the previous week.
+
+Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and the week saw Trump’s administration announcing the tariff for many countries including 20 percent for Sri Lanka.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+...
+
+[Data](articles/7cb00792.json)
+
+---
+
+### ’கிங்டம்’ ஈழத் தமிழர்களுக்கு எதிரான படமா? தயாரிப்பு நிறுவனம் விளக்கம்
+
+*2025-08-06 17:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கிங்டம்-ஈழத்-தமிழர்களுக்கு-எதிரான-படமா-தயாரிப்பு-நிறுவனம்-விளக்கம்/54-362452) · `ta`
+
+நடிகர் விஜய் தேவரகொண்டா நடிப்பில் கடந்த வெள்ளிக்கிழமை வெளியான திரைப்படம் கிங்டம். இப்படத்தில் இந்தியாவிலிருந்து அகதிகளாக இலங்கை செல்பவர்களை அங்கிருக்கும் இலங்கைத் தமிழர்கள் அடிமைகளாக மாற்றுவது போன்ற காட்சிகள் இடம்பெற்றிருந்தன.
+
+இதனால், ஒரு தெலுங்கு திரைப்படம் தமிழர்களை மோசமாக சித்திரித்துவிட்டதாகப் படத்திற்குக் கடுமையான கண்டனங்கள் எழுந்ததுடன் திரையிடப்பட்ட பல திரையரங்குகளில் கிங்டம் போஸ்டர்கள் கிழிக்கப்பட்டன.
+
+இந்த நிலையில், இப்பிரச்னை தீவிரமடைந்துள்ளதால் படத்தின் தயாரிப்பு நிறுவனமான சித்தாரா எண்டர்டெயின்மெண்ட்ஸ் நிறுவனம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+அதில், “சித்தாரா எண்டர்டெயின்மெண்ட்ஸ் என்ற எங்கள் நிறுவனத்தின் சார்பில் தயாரித்து வெளியாகியிருக்கும் திரைப்படம் 'கிங்டம்'. இப்படத்தின் சில காட்சி அமைப்புகள் தமிழ் மக்களின் உணர்வுகளை காயப்படுத்தியதாக கேள்விப்பட்டோம்.
+
+தமிழ் மக்களின் உணர்வுகளை நாங்கள் மிகவும் மதிக்கிறோம். இந்தக் கதை முற்றிலும் கற்பனையானது என படத்தின் மறுப்புப் பகுதியில் (disclaimer portion) குறிப்பிட்டுள்ளோம் என்பதை நாங்கள் உறுதியளிக்கிறோம்.
+
+...
+
+[Data](articles/d98c423d.json)
+
+---
 
 ### ගණේමුල්ලෙන් සැක සහිත සුපිරි ජීප් රථයක් සොයාගනී
 
@@ -47,6 +85,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d7b1f816.json)
+
+---
+
+### புதையுண்டவரை மீட்க வீட்டை இடிக்க இடம் கொடுத்த பெண்
+
+*2025-08-06 17:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையுண்டவரை-மீட்க-வீட்டை-இடிக்க-இடம்-கொடுத்த-பெண்/76-362451) · `ta`
+
+தொழிலாளர்கள் சிலர் மண்மேட்டை வெட்டிக்கொண்டிருந்த போது திடீரென மண் சரிந்து வீழ்ந்ததால் 6 பேர் மண்ணில் புதையுண்டனர்.
+
+இந்த அனர்த்தம், மஸ்கெலியா - சாமிமலை குயின்ஸ்லண்ட் தோட்டத்தில் புதன்கிழமை (06) முற்பகல் 11.45 அளவில் இடம்பெற்றுள்ளது
+
+மண்ணில் புதைந்தவர்களை மீட்கும் நடவடிக்கையின் போது ஒருவர் மண்ணின் ஆழத்தில் சிக்கிக்கொண்டதால் அவரை மீட்க அருகிலிருந்த வீட்டை உடைகக்கவேண்டிய நிலை ஏற்பட்டுள்ளது.
+
+எவ்வாறாயினும் குறித்த வீட்டின் உரிமையாளரான பெண் மனிதாபிமானத்துடன் அதற்கு இடமளித்து பாதிக்கப்பட்டவரை உயிருடன் மீட்டெடுக்க உதவினார்
+
+◼️
+
+[Data](articles/3ed350cf.json)
+
+---
+
+### சம்பூரில் அகழ்வதற்கு நீதிமன்றம் உத்தரவு
+
+*2025-08-06 17:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பூரில்-அகழ்வதற்கு-நீதிமன்றம்-உத்தரவு/175-362450) · `ta`
+
+சம்பூரில் மனித எலும்பு எச்சங்கள் கண்டுபிடிக்கப்பட்ட காணியில் தொடர்ந்து அகழ்வு மேற்கொள்ளப்பட வேண்டும்- மூதூர் நீதிவான் நீதிமன்றம்  புதன்கிழமை(06) உத்தரவிட்டுள்ளது.
+
+மனித எலும்பு எச்சங்கள் காணப்பட்ட சம்பூர் காணியில் மேலும் மனித எலும்புக்கூடுகள், மற்றும் எச்சங்கள் உள்ளனவா என்பதை அறிய அகழ்வுகள் கிழக்கு பிராந்திய இராணுவ கட்டளைத்தளபதியின் ஆலோசனையை பெற்று இராணுவ பாதுகாப்பு ஆளணியின் உதவியுடன் முறைப்படி நடத்தப்பட வேண்டும் என்றும் மூதூர் நீதிவான் திருமதி.தஸ்னீம் பெளஸான் உத்தரவிட்டுள்ளார்.
+
+மேலும் இவ்வழக்கு விசாரணையை எதிர்வரும் 26 ந் திகதி தொடர்ந்தும் நடத்துவது என்றும் நீதிமன்று தீர்மானித்தது.
+
+இதுவரை இங்கு கண்டெடுக்கப்பட்ட மூன்று எலும்புக்கூடுகளில் ஒன்று 25 வயதிற்கு குறைந்த ஆண் ஒருவருடையது என்றும் மற்றையது 25 இற்கும் 40 வயதிற்கும் இடைப்பட்டவருடையது,அடுத்தது 40 இற்கும் 60 வயதிற்கும் இடைப்பட்ட ஒருவருடையது என்றும் இன்று வழக்கின்போது மாவட்ட சட்ட வைத்திய அதிகாரி அறிக்கை முன்வைத்தார்.
+
+...
+
+[Data](articles/49e953ca.json)
+
+---
+
+### பொலிஸ் நிலைய ஆயுதக் கிடங்கிலிருந்து துப்பாக்கி, தோட்டாக்களை திருடிய பொலிஸ் சார்ஜென்ட் கைது!
+
+*2025-08-06 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221958) · `ta`
+
+கொழும்பு - கொம்பனி வீதி பொலிஸ் நிலையத்தின் ஆயுதக் கிடங்கில் இருந்து துப்பாக்கி மற்றும் தோட்டாக்களை  திருடிய குற்றச்சாட்டில் பொலிஸ் சார்ஜென்ட் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கொம்பனி வீதி பொலிஸ் நிலையத்தின் ஆயுதக் கிடங்கில் இருந்து துப்பாக்கி மற்றும் தோட்டாக்கள் காணாமல்போனமை தொடர்பில் பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, அதே பொலிஸ்  நிலையத்தில் கடமையாற்றும்  பொலிஸ் சார்ஜென்ட் ஒருவர் துப்பாக்கி மற்றும் தோட்டாக்களை திருடிச் செல்லும் காட்சிகள் சிசிரிவி கமராவில் பதிவாகியுள்ளன.
+
+சந்தேக நபரான பொலிஸ் சார்ஜென்டிடம் நடத்தப்பட்ட விசாரணைகளில், திருடப்பட்ட துப்பாக்கி மற்றும் 20 தோட்டாக்கள் மாவத்தகம பகுதியில் உள்ள நபர் ஒருவரிடம் வழங்கப்பட்டதாக தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/2027e404.json)
 
 ---
 
@@ -1731,115 +1821,5 @@ Cars and crossovers together are also now at around pre-crisis levels.
 ◼️
 
 [Data](articles/c7025b9f.json)
-
----
-
-### 133,000 new vehicles registered in Sri Lanka since January
-
-*2025-08-06 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111224/133000-new-vehicles-registered-in-sri-lanka-since-january-) · `en`
-
-A total of 133,678 new vehicles have been registered in Sri Lanka since January, according to the Commissioner General of Motor Traffic, Kamal Amarasinghe, who was commenting on recent trends in vehicle registration in the country.
-
-The Commissioner General of Motor Traffic noted that a total of 100,451 new motorcycles have been registered thus far in 2025.
-
-He said 20,535 cars have also been registered since January while the remaining registrations include dual-purpose vehicles, lorries, and three-wheelers.
-
-“We are observing a steady increase in the number of vehicle registrations day by day,” Commissioner General of Motor Traffic Kamal Amarasinghe added.
-
-The government earlier this year lifted the import restrictions on motor vehicles which was imposed due to the depletion of foreign reserves in the country.
-
-◼️
-
-[Data](articles/eb364672.json)
-
----
-
-### සඳ මත න්‍යෂ්ටික ප්‍රතික්‍රියාකාරකයක් ඉදිකිරීමේ සූදානමක්
-
-*2025-08-06 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213075) · `si`
-
-2030 වන විට සඳ මත න්‍යෂ්ටික ප්‍රතික්‍රියාකාරකයක් ඉදිකිරීමේ සැලසුම් කඩිනම් කිරීමට අමෙරිකානු අභ්‍යවකාශ ඒජන්සිය වන නාසා ආයතනය කටයුතු කරන බව අමෙරිකානු මාධ්‍ය වාර්තා කර තිබේ.
-
-චන්ද්‍ර පෘෂ්ඨයේ මිනිසුන්ට ජීවත් වීම සඳහා ස්ථිර කඳවුරක් ගොඩනැගීම එක්සත් ජනපද අභිලාෂයන්ගේ කොටසකි.
-
-නාසා හි වැඩබලන ප්‍රධානියා චීනය සහ රුසියාව විසින් සිදු කරන ලද සමාන සැලසුම් ගැන සඳහන් කළ අතර එම රටවල් දෙකටම සඳ මත "නිරෝධායන කලාපයක් ප්‍රකාශයට පත් කළ හැකි" බව පැවසීය.
-
-නමුත් නාසා ආයතනයේ මෑත කාලීන සහ දැඩි අයවැය කප්පාදුව සැලකිල්ලට ගත් විට, ඉලක්කය සහ කාල රාමුව කෙතරම් යථාර්ථවාදීද යන්න පිළිබඳව ප්‍රශ්න තවමත් පවතින බව වාර්තා වෙයි.
-
-අමෙරිකා එක්සත් ජනපදය, චීනය, රුසියාව, ඉන්දියාව සහ ජපානය ඇතුළු රටවල් සඳ මතුපිට ගවේෂණය කිරීමට ඉක්මන් වෙමින් සිටින අතර සමහරු ස්ථිර මිනිස් ජනාවාසද සැලසුම් කරති.
-
-2022 දී නාසා ආයතනය ප්‍රතික්‍රියාකාරකයක් සැලසුම් කිරීම සඳහා සමාගම්වලට ඩොලර් මිලියන 5 ක කොන්ත්‍රාත්තු තුනක් නිකුත් කළේය.
-
-මේ වසරේ මැයි මාසයේදී චීනය සහ රුසියාව 2035 වන විට සඳ මත ස්වයංක්‍රීය න්‍යෂ්ටික බලාගාරයක් ඉදිකිරීමට සැලසුම් කරන බව නිවේදනය කළහ.‍
-
-...
-
-[Data](articles/1b29a524.json)
-
----
-
-### Sri Lanka rupee strengthens against dollar, bonds steady
-
-*2025-08-06 10:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-strengthens-against-dollar-bonds-steady-234964/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.60/70 to the US dollar in the spot market Wednesday, stronger from 300.99/301.05 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.40/50 percent.
-
-A bond maturing on 15.10.2028 was quoted at 8.85/95 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.38/40 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.42/48 percent, down from 9.45/52 percent.
-
-A bond maturing on 15.12.2032 was quoted flat at 10.25/30 percent.
-
-An auction of Rs. 82,000 million Treasury bills was ongoing.
-
-The Colombo Stock Exchange opened up; the ASPI was up 0.49 percent, or 95.93 points, at 19,813.93. The S&P SL20 was up 0.41 percent, or 24.04 points, at 5,854.33.
-
-...
-
-[Data](articles/5ec76b76.json)
-
----
-
-### Former State Minister Shasheendra Rajapaksa arrested
-
-*2025-08-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111223/former-state-minister-shasheendra-rajapaksa-arrested) · `en`
-
-Former State Minister Shasheendra Rajapaksa has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Former State Minister Rajapaksa was arrested by officers of the Bribery Commission at his residence in Nugegoda this morning (06).
-
-It has been reported that he was taken into custody in connection with an incident where compensation was obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
-
-Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
-
-...
-
-[Data](articles/b06d31fc.json)
-
----
-
-### ශෂීන්ද්‍ර රාජපක්ෂ අධිකරණයට රැගෙන එයි
-
-*2025-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213074) · `si`
-
-අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසමේ නිලධාරීන් විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
-
-ප්‍රකාශයක් සටහන් කරගැනීමෙන් පසුව ඒ මහතා අද (06) පෙරවරුවේ අත්අඩංගුවට ගැනුණි.
-
-හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මහවැලි අධිකාරියට අයත් සෙවනගල, කිරිඉබ්බන් වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවරසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ල ඇතුළු දේපොළ කිහිපයක් 2022.05.09 වන දින පැවති ජනතා අරගලයේ දී හානියට පත්ව ඇත.
-
-එම දේපොළ සඳහා වන්දි ගෙවීමේ දී එය ශ්‍රී ලංකා මහවැලි අධිකාරිය සතු දේපොළක් බවට හඳුනාගෙන අදාළ වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබිය දී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ සමහර රජයේ නිලධාරීන්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර ඇතැයි ශෂීන්ද්‍ර රාජපක්ෂ මහතාට චෝදනා එල්ල වී තිබේ.
-
-...
-
-[Data](articles/24c20cf9.json)
 
 ---

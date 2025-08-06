@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 13:33:22**
+As of **2025-08-06 13:51:07**
 
 ## Newspaper Stats
 
-*Scraped **69,032** Articles*
+*Scraped **69,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,93 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,205
+economynextcom | 4,212
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,649
 adaderanalk | 8,577
-tamilmirrorlk | 10,070
+tamilmirrorlk | 10,072
 virakesarilk | 11,493
-adaderanasinhalalk | 11,881
+adaderanasinhalalk | 11,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 69,032 articles have been extended.
+61,973 (89.8%) of 69,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ඉන්දියාවේ ජල ගැලීම්වලින් 100කට අධික පිරිසක් අතුරුදන්
+
+*2025-08-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213082) · `si`
+
+උතුරු ඉන්දියාවේ උත්තරාකන්ද් ප්‍රාන්තයේ කඳුකර කලාපයක ඇතිවූ වැසි කුණාටුවක් සමඟ හටගත් හදිසි ජලගැලීමකින් පහත්බීම්වල පිහිටි නිවාස රැසක් විනාශ වී තිබේ.
+
+හානියට පත් ධරාලි ගම්මානයේ පුද්ගලයින් 100කට වැඩි පිරිසක් අතුරුදන්වූ අතර, සුන්බුන් අතර සිරවූ පිරිස් සෙවීමේ මෙහෙයුම් අඛණ්ඩව ක්‍රියාත්මකව පවතී.
+
+මෙම අනතුරින් එහි පිහිටි හමුදා කඳවුරක් ද වැනසී ඇති අතර, එහි සිටි හමුදා නිලධාරීන් නව දෙනෙක් ද අතුරුදන් පිරිස අතරට අයත්ය.
+
+ඊයේ (05) ධරාලි ගම්මානයට දැවැන්ත ජල ප්‍රහාරයක් ගලා ඒමෙන් පසු උත්තර්කාෂි දිස්ත්‍රික්කයේ ගමන් මාර්ග සහ ගොඩනැගිලි ජලයෙන් යට වී ඇත.
+
+අධික වර්ෂාපතනය හේතුවෙන් හානි වූ මාර්ග සහ දිස්ත්‍රික්ක වෙත නිලධාරීන්ට ප්‍රදේශය වීමට නොහැකි වී තිබේ.
+
+පසුගිය සති කිහිපය තුළ හිමාලයානු ප්‍රාන්තයේ උත්තරාකන්ඩ් අධික වර්ෂාව ඇද හැලෙමින් පවතී.
+
+ධරාලි ගම්මානය පිහිටා ඇති උත්තර්කාෂි නගරය විශේෂයෙන් බලපෑමට ලක්ව ඇති අතර, බොහෝ ස්ථානවල ගංවතුර වාර්තා වී ඇත.
+
+ඉදිරි දින කිහිපය තුළ ද කලාපයේ අධික වර්ෂාපතනයක් ඇති වනු ඇතැයි ඉන්දියාවේ කාලගුණ දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c89bc1f7.json)
+
+---
+
+### Some businesses allegedly by foreigners owned by Sri Lankans: Police
+
+*2025-08-06 13:30:00* · [`economynextcom`](https://economynext.com/some-businesses-allegedly-by-foreigners-owned-by-sri-lankans-police-234993/) · `en`
+
+ECONOMYNEXT – Some businesses which are alleged to be run by foreigners, particularly Israelis, are actually owned by Sri Lankans when investigations are made, Assistant Superintendent of Police and Acting Director of Tourist Police Division Prabath Widanamagama said.
+
+Opposition politicians have pointed out that foreigners on tourist visas run businesses illegally in tourist hotspots such as Arugam Bay and Weligama.
+
+“Yes, we have received reports, we took legal action against some such places, but when we go there to investigate it is Sri Lankans who show up as owners.”
+
+“It is everyone’s responsibility; people engaged in the tourist trade must decide whether they are going to be bought over for money to allow other people to operate under their names.”
+
+“You can’t come to Sri Lanka and do business on a tourist visa, that’s illegal, we take action against that.”
+
+Legal action was taken against two British nationals recently, he said.
+
+...
+
+[Data](articles/474e4ba9.json)
+
+---
+
+### 1.9 பில்லியன் சாதனை படைத்த தீபிகா படுகோன்
+
+*2025-08-06 13:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/1-9-பில்லியன்-சாதனை-படைத்த-தீபிகா-படுகோன்/54-362422) · `ta`
+
+நடிகை தீபிகா படுகோனின் இன்ஸ்டாகிராமில் வெளியான ஒரு விளம்பர வீடியோ, 1.9 பில்லியன் பார்வைகளைப் பெற்று இன்ஸ்டாகிராமில் அதிகம் பார்க்கப்பட்ட வீடியோவாக புதிய சாதனை படைத்துள்ளது.
+
+ஹில்டன் ஹோட்டல் நிறுவனத்துடனான கோலப் விளம்பரத்தில் தோன்றிய தீபிகா படுகோன் ரீல், இன்ஸ்டாகிராமில் முந்தைய அனைத்து பார்வை சாதனைகளையும் முறியடித்துள்ளது.
+
+ஜூன் 9 ஆம் திகதி வெளியான இந்த ரீல், ஹர்திக் பாண்ட்யா மற்றும் கிறிஸ்டியானோ ரொனால்டோ போன்ற முன்னணி பிரபலங்களின் வீடியோக்களின் பார்வைகளை பின்னுக்கு தள்ளியுள்ளது.
+
+இதற்கு முன், பாண்ட்யாவின் BGMI வீடியோ 1.6 பில்லியன் பார்வைகளையும், ஒரு ஸ்மார்ட்போன் விளம்பர வீடியோ 1.4 பில்லியன் பார்வைகளையும் பெற்றிருந்தன. இதனை தீபிகா படுகோன் ரீல் அதிக பார்வைகளைப் பெற்று முறியடித்துள்ளது.
+
+தீபிகா கடைசியாக “சிங்கம் அகெய்ன்” திரைப்படத்தில் நடித்திருந்தார். அடுத்து அட்லி இயக்கத்தில் உருவாகும் “AA22xA6” என்ற பான்-இந்திய படத்தில் நடிக்க உள்ளார் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9c4debe6.json)
+
+---
 
 ### தவறுதலாக CIDக்கு சென்ற சாகல ரத்நாயக்க
 
@@ -43,6 +111,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3bb22ce0.json)
+
+---
+
+### Sri Lanka’s former minister Rajapaksa arrested by CIABOC over abuse of power, corruption
+
+*2025-08-06 12:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-minister-rajapaksa-arrested-by-ciaboc-over-abuse-of-power-corruption-234991/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former State Agriculture Minister Shasheendra Rajapaksa was arrested by the Commission to Investigate Allegations of Bribery and Corruption over abuse of power in claiming compensation for a damaged property in 2022 and corruption accusation.
+
+He is accused of using his official power to influence government officials to obtain compensation for a building built in a land owned by state-owned Mahaweli Authority, the CIABOC said in a statement.
+
+Rajapaksa has abused his powers to influence the government officials to obtain the compensation for the building damaged by mob on May 9, 2022 following then Prime Minister Mahinda Rajapaksa’s supporters in Colombo attacked unarmed protesters, who had been demanding Both President Gotabaya Rajapaksa and Prime Minister Rajapaksa to resign.
+
+Originally, the compensation claim was rejected due to the land not owned by then minister Rajapaksa.
+
+He is also accused of illegal occupation in state-owned land, the CIABOC said.
+
+...
+
+[Data](articles/4f92c77f.json)
+
+---
+
+### Sri Lanka’s Fintrex Finance retains ‘BB(lka)’ Fitch rating
+
+*2025-08-06 12:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-fintrex-finance-retains-bblka-fitch-rating-234983/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has reaffirmed the National Long-Term Rating of Sri Lanka’s Fintrex Finance at ‘BB(lka)’ with a stable outlook. The rating agency also maintained the ‘B+(lka)’ rating on the company’s subordinated debentures.
+
+Fintrex’s rating reflects its “expansion into riskier mobile financing, higher leverage and more volatile earnings” Fitch said.
+
+“These weaknesses are balanced by acceptable asset quality and improved funding diversity.”
+
+Fintrex’s business profile remains constrained by higher concentration risks relative to peers, Fitch said, reflecting its more limited franchise as one of Sri Lanka’s smaller finance and leasing companies.
+
+Fitch Ratings – Singapore/Colombo – 05 Aug 2025: Fitch Ratings has affirmed Sri Lanka-based Fintrex Finance PLC’s National Long-Term Rating at ‘BB(lka)’ with a Stable Outlook. Fitch has also affirmed the ‘B+(lka)’ National Long-Term Rating on the company’s subordinated debentures.
+
+...
+
+[Data](articles/2cdbe3f1.json)
 
 ---
 
@@ -101,6 +209,20 @@ The civil aviation ministry’s security wing issued the advisory on August 4, d
 ...
 
 [Data](articles/7624f240.json)
+
+---
+
+### கோபா தவிசாளர்  இராஜினாமா
+
+*2025-08-06 12:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-தவிசாளர்-இராஜினாமா/175-362420) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) கட்சியின் பாராளுமன்ற உறுப்பினர் அரவிந்த சேனாரத்ன, பொதுக் கணக்குகள் குழுவின் (COPA) தவிசாளர் பதவியில் இருந்து விலகியுள்ளார்.
+
+கோபா தலைவர் பதவியை எதிர்க்கட்சியிடம் ஒப்படைக்க அரசாங்கம் ஒப்புக்கொண்டதைத் தொடர்ந்து தனது முடிவு எடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சேனாரத்ன ஒரு அறிக்கையை வெளியிட்டார். அந்த செயல்முறை நடைபெற அனுமதிக்கவே தான் பதவி விலகுவதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/46035342.json)
 
 ---
 
@@ -498,17 +620,13 @@ GMOA எழுப்பிய கவலைகளை சுகாதார அத
 
 *2025-08-06 11:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-பெருவெள்ளம்-100க்கும்-மேற்பட்டோர்-மாயம்/175-362406) · `ta`
 
-உத்தராகண்டில் மேகவெடிப்பால் பெருவெள்ளம் ஏற்பட்டு 5 பேர் உயிரிழந்த நிலையில், 100க்கும் மேற்பட்டோரைக் காணவில்லை. மேலும், ஏராளமானோர் படுகாயம் அடைந்துள்ளனர்.
+உத்தரகாண்ட் மாநிலம் உத்தரகாஷி மாவட்டத்தில் செவ்வாய்க்கிழமை (05)  அன்று  மேகவெடிப்பால் பெருவெள்ளம் ஏற்பட்டு 5 பேர் உயிரிழந்த நிலையில், 100க்கும் மேற்பட்டோரைக் காணவில்லை. மேலும், ஏராளமானோர் படுகாயமடைந்துள்ளதாக இந்திய அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-உத்தராகண்டில் சார்தாம் என்று அழைக்கப்படும் பத்ரிநாத், கேதார்நாத், கங்கோத்ரி, யமுனோத்ரி புனித தலங்கள் அமைந்துள்ளன. கங்கோத்ரி கோயிலுக்கு அருகே 8 கி.மீ. தொலைவில் தரளி என்ற கிராமம் உள்ளது.
+இந்நிலையில், கங்கோத்ரி பகுதியில் செவ்வாய்க்கிழமை (05) பிற்பகலில் மேகவெடிப்பு ஏற்பட்டது. இதனால் கீர் கங்கா நதியில் திடீரென பெருவெள்ளம் ஏற்பட்டு தரளி கிராமத்தை நோக்கி சீறிப் பாய்ந்துள்ளது.
 
-இமயமலையில் 10,200 அடி உயரத்தில் உள்ள இந்த கிராமம் வழியாகவே கங்கோத்ரி கோயிலுக்கு செல்ல முடியும்.
+இதில் ஒட்டுமொத்த கிராமமும் பெருவெள்ளத்தில் அடித்துச் செல்லப்பட்டது. இராணுவம், விமானப்படை, தேசிய பேரிடர் மீட்புப் படை, மாநில பேரிடர் மீட்புப் படை, தீயணைப்பு படை மற்றும் பொலிஸ் துறையை சேர்ந்த நூற்றுக்கணக்கான வீரர்கள் மீட்புப் பணியில் ஈடுபட்டுள்ளனர்.
 
-இதனால் தரளி கிராமத்தில் 25 ஓட்டல்கள், தங்கும் விடுதிகள் செயல்பட்டு வந்தன. 2,000-க்கும் மேற்பட்ட மக்கள் கிராமத்தில் வசித்து வந்தனர்.
-
-இதனால் கீர் கங்கா நதியில் திடீரென பெருவெள்ளம் ஏற்பட்டு தரளி கிராமத்தை நோக்கி சீறிப் பாய்ந்தது.
-
-இதில் ஒட்டுமொத்த கிராமமும் பெருவெள்ளத்தில் அடித்துச் செல்லப்பட்டது. ராணுவம், விமானப்படை, தேசிய பேரிடர் மீட்புப் படை, மாநில பேரிடர் மீட்புப் படை, தீயணைப்பு படை மற்றும் பொலிஸ் துறையை சேர்ந்த நூற்றுக்கணக்கான வீரர்கள் மீட்புப் பணியில் ஈடுபட்டு உள்ளனர்.
+இதுவரை 5 பேரின் சடலங்கள் கண்டுபிடிக்கப்பட்டுள்ளன. ஏராளமானோர் படுகாயங்களுடன் மீட்கப்பட்டுள்ளனர். மேலும், 100-க்கும் மேற்பட்டோரைக் காணவில்லை எனவும் தெரிவிக்கப்படுகின்றது.
 
 ...
 
@@ -584,6 +702,28 @@ It has been suggested that the plan could be a negotiating tactic to pressure Ha
 
 ---
 
+### Fitch affirms Sri Lanka’s Mercantile Investments at BBB
+
+*2025-08-06 10:42:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-mercantile-investments-at-bbb-234976/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Mercantile Investments and Finance’s National Long-Term Rating has been affirmed at BBB-(lka) by Fitch Ratings based on its moderate but rising market share. The outlook remains stable.
+
+“The rating reflects MIF’s moderate but rising market share, at 3%-4% by sector loans and deposits, and improving asset quality,” the ratings agency said.
+
+This is counterbalanced by a stronger growth appetite, weaker core capital ratio and a higher operating cost structure compared with Fitch-rated mid-sized peers, Fitch said.
+
+Mercantile Investments and Finance has also expanded its gold-backed loan portfolio ‘rapidly’ since it introduced the product three years ago, despite being a vehicle financier traditionally.
+
+Fitch Affirms Mercantile Investments and Finance at ‘BBB-(lka)’; Outlook Stable
+
+Fitch Ratings – Colombo – 05 Aug 2025: Fitch Ratings has affirmed Mercantile Investments and Finance PLC’s (MIF) National Long-Term Rating at ‘BBB-(lka)’. The Outlook is Stable.
+
+...
+
+[Data](articles/87dbe8ae.json)
+
+---
+
 ### ශිෂ්‍යත්ව උපකාර පන්ති අද මැදියම් රැයෙන් තහනම්
 
 *2025-08-06 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213076) · `si`
@@ -599,6 +739,32 @@ It has been suggested that the plan could be a negotiating tactic to pressure Ha
 ...
 
 [Data](articles/de20b014.json)
+
+---
+
+### Sri Lanka vehicle registration rise to 35,000 in July, mobikes almost at pre-crisis levels
+
+*2025-08-06 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-registration-rise-to-35000-in-july-mobikes-almost-at-pre-crisis-levels-234977/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s vehicle registrations rose to 35,232 in July 2025, from 22,340 in June with motorcycles doubling to 26,171, which is around pre-crisis levels, an analysis of data by JB Securities, a Colombo-based brokerage shows.
+
+Sri Lanka cut rates in 2020 with aggressive open market operations and banned over 3,000 imported goods as forex shortages emerged.
+
+Two wheelers included a snumber assembled locally, with the sector operating before vehicle imports were allowed in February 2025.
+
+Petrol engines accounted for 22,369, led by Bajaj with a 39 percent share, followed by TVS at 29 percent.
+
+Electric two-wheeler sales totaled 3,802 units, with Yadea having the highest share of 2,473.
+
+Motor car registrations were 2,748 in July, up from 51 in February.
+
+SUVs crossovers, which have become popular over the years, were 3,299, up from 51 in February.
+
+Cars and crossovers together are also now at around pre-crisis levels.
+
+...
+
+[Data](articles/1c08e40e.json)
 
 ---
 
@@ -716,6 +882,34 @@ The government earlier this year lifted the import restrictions on motor vehicle
 
 ---
 
+### Sri Lanka rupee strengthens against dollar, bonds steady
+
+*2025-08-06 10:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-strengthens-against-dollar-bonds-steady-234964/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.60/70 to the US dollar in the spot market Wednesday, stronger from 300.99/301.05 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.40/50 percent.
+
+A bond maturing on 15.10.2028 was quoted at 8.85/95 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.38/40 percent.
+
+A bond maturing on 15.05.2030 was quoted at 9.42/48 percent, down from 9.45/52 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.25/30 percent.
+
+An auction of Rs. 82,000 million Treasury bills was ongoing.
+
+The Colombo Stock Exchange opened up; the ASPI was up 0.49 percent, or 95.93 points, at 19,813.93. The S&P SL20 was up 0.41 percent, or 24.04 points, at 5,854.33.
+
+...
+
+[Data](articles/5ec76b76.json)
+
+---
+
 ### Former State Minister Shasheendra Rajapaksa arrested
 
 *2025-08-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111223/former-state-minister-shasheendra-rajapaksa-arrested) · `en`
@@ -798,11 +992,11 @@ Earlier, the CID launched investigations into foreign trips undertaken by Ranil 
 
 ---
 
-### සාගල FCIDයට
+### සාගල නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට
 
 *2025-08-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213073) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කාර්යමණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා අද (06) පෙරවරුවේ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත පැමිණ තිබේ.
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කාර්ය මණ්ඩල ප්‍රධානී, හිටපු අමාත්‍ය සාගල රත්නායක මහතා අද (06) පෙරවරුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය වෙත පැමිණියේය.
 
 ◼️
 
@@ -1595,147 +1789,5 @@ Before the last election, I too found myself questioning Uvindu’s apparent tra
 ...
 
 [Data](articles/a9a80976.json)
-
----
-
-### ’சர்வதேச விசாரணைக்கு கோப்ரல் ராஜபக்ஷவை தயார்படுத்துங்கள்’
-
-*2025-08-06 04:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சர்வதேச-விசாரணைக்கு-கோப்ரல்-ராஜபக்ஷவை-தயார்படுத்துங்கள்/150-362386) · `ta`
-
-தேசபந்து தென்னகோனுக்கு எதிராக நீங்கள் கொண்டுவரவுள்ள நீதியைத் தமிழர்களுக்கு எதிராக செயற்பட்டவர்களுக்கு கொண்டுவர நீங்கள் தயார் இல்லை என தெரிவித்த தமிழரசுக் கட்சியின் பாராளுமன்றக் குழுத் தலைவரும் யாழ் மாவட்ட எம்.பியுமான சிவஞானம் சிறீதரன் இந்த செம்மணி விவகாரத்தில் கோப்ரல் சோமரத்ன  ராஜபக்‌ஷவை நீங்கள் சர்வதேச விசாரணைக்கு தயார்ப்படுத்த வேண்டும் என வலியுறுத்தினார்.
-
-தெளிவான மனநிலை உங்களிடம் இல்லை.தேசபந்து தென்னகோனுக்கு  மட்டுமல்ல, இங்கு நடந்த தமிழினப் படுகொலைகள் .கட்டமைக்கப்பட்ட இன அழிப்புகளுக்கும்  நீதி விசாரணை வேண்டும் என்றும் அவர் வலியுறுத்தினார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று இடம்பெற்ற பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் கலந்து கொண்டு உரையாற்றுகையிலேயே  இவ்வாறு குற்றம்சாட்டிய   அவர் மேலும்  பேசுகையில்,
-
-...
-
-[Data](articles/c1abeb64.json)
-
----
-
-### எம்.பிகளின் காப்புறுதி 75% குறைப்பு
-
-*2025-08-06 04:13:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிகளின்-காப்புறுதி-75-குறைப்பு/175-362385) · `ta`
-
-பாராளுமன்ற உறுப்பினர் ஒருவருக்கான காப்புறுதிக் காப்பீட்டு அனுகூலத்தை ரூபாய் 250000  ஆக மட்டுப்படுத்தி பாராளுமன்ற உறுப்பினர்களுக்கான கூட்டுக் காப்புறுதிக் காப்பீட்டை வழங்குவதற்கு பொது மக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-இந்த திட்டம்,  2025.10.19ஆம் திகதி ஆரம்பிக்கின்ற காப்புறுதி ஆண்டிலிருந்து ஆரம்பமாகும். பாராளுமன்ற உறுப்பினர் ஒருவருக்கு வருடமொன்றுக்கு ஒரு மில்லியன் ரூபாய்  உயர்ந்த பட்ச காப்புறுதிக் காப்பீட்டின் கீழ் கூட்டுக் காப்புறுதி முறையை நடைமுறைப்படுத்துவதற்கு 2023.05.15 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
-
-அதற்கமைய,கடந்த காலப்பகுதியில் குறித்த காப்புறுதிக் காப்பீடுகள் வழங்கப்பட்டுள்ளன. 2025ஆம் ஆண்டு வரவு -செலவுத் திட்டத்தைச் சமர்ப்பிக்கின்ற போது   பாராளுமன்ற உறுப்பினர்களுக்காக வழங்கப்படுகின்ற ரூபாய் 1000,000  காப்புறுதிக்காப்பீட்டு எல்லையை ரூபாய் 250,000ஆகக் குறைப்பதற்கு ஜனாதிபதி முன்மொழிந்துள்ளார்.
-
-...
-
-[Data](articles/94b8237d.json)
-
----
-
-### ’முன்னாள் கடற்படை தளபதி புலிகளின் பிரதானி அல்ல’
-
-*2025-08-06 04:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-தளபதி-புலிகளின்-பிரதானி-அல்ல/175-362384) · `ta`
-
-முன்னாள் கடற்படை தளபதி கைது செய்யப்பட்டு அடையாள அணிவகுப்புக்கு உட்படுத்தப்பட்டுள்ளார். இவரை அடையாளம் காட்ட   விடுதலைப் புலிகள் அமைப்பின் புலனாய்வு பிரிவின்  பிரதானி அழைக்கப்பட்டுள்ளார்.இது முற்றிலும் தவறானது.அரச அதிகாரிகளை மலினப்படுத்தும் வகையில் இந்த அரசாங்கம் செயற்படுகிறது. என ஸ்ரீ லங்கா பொதுஜன பெரமுன எம்.பி. நாமல் ராஜபக்‌ஷ குற்றம்சாட்டினார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று  இடம்பெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையிலேயே அவர்  இவ்வாறு குற்றம்சாட்டினார்
-
-மேலும் அவர் பேசுகையில், பொலிஸ்மா அதிபரை பதவி நீக்கம் செய்வதற்கான விவாதம்,நபர் பற்றி எமக்கு பிரச்சினையில்லை. ஆனால், அந்த உயரிய பதவி  பிரச்சினைக்குரியதாக உள்ளது.  இந்த அரசாங்கம் அரச அதிகாரிகளை மலினப்படுத்தும் வகையில் செயற்படுகிறது. முன்னாள் கடற்படை தளபதி கைது செய்யப்பட்டு அடையாள  அணிவகுப்புக்கு உட்படுத்தப்பட்டுள்ளார். இவரை அடையாளம் காட்ட  விடுதலைப் புலிகள் அமைப்பின் புலனாய்வு பிரிவின்  பிரதானி அழைக்கப்பட்டுள்ளார்.இது முற்றிலும் தவறானது.
-
-...
-
-[Data](articles/8440e23a.json)
-
----
-
-### புதிய எல்லை நிர்ணயக் குழு
-
-*2025-08-06 04:05:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எல்லை-நிர்ணயக்-குழு/175-362383) · `ta`
-
-புதிய எல்லை நிர்ணயக் குழுவை நியமிக்க ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (04) அன்று அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
-
-இதற்கான யோசனையை பொது நிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சமர்ப்பித்தார்.
-
-பிரதேச செயலகப் பிரிவுகள் மற்றும் கிராம உத்தியோகத்தர் பிரிவுகளை நிறுவுதல் மற்றும் மீளாய்வு செய்வதற்காக 2012ஆம் ஆண்டு எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் ஒருசில விதந்துரைகள் மாத்திரம் அமுல்படுத்துவதற்கு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
-
-பின்னர் 2021ஆம் ஆண்டில் மீண்டும் எல்லை நிர்ணயக் குழுவொன்று நியமிக்கப்பட்டுள்ளதுடன், குறித்த குழுவின் விதந்துரைகள் தொடர்பாக இதுவரைக்கும் எவ்வித நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை.
-
-...
-
-[Data](articles/92a162cb.json)
-
----
-
-### ’தென்னக்கோனை நீக்குவது சிறந்த எடுத்துக்காட்டு’
-
-*2025-08-06 03:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னக்கோனை-நீக்குவது-சிறந்த-எடுத்துக்காட்டு/175-362382) · `ta`
-
-ஆட்கடத்தல் மற்றும் மனித சித்திரவதை உள்ளிட்ட பல குற்றச்சாட்டுக்கள் சுமத்தப்பட்டுள்ளவரும் அடிப்படை மனித உரிமை மீறல் குற்றவாளி என்று உயர்நீதிமன்றத்தால் தீர்ப்பளிக்கப்பட்டவருமான பொலிஸ்மா அதிபரான  தேசபந்து தென்னக்கோனை  பதவி நீக்குவது எதிர்காலத்துக்கு சிறந்த எடுத்துக்காட்டு  என  பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
-
-பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தை பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று  ஆரம்பித்து வைத்து  உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்
-
-...
-
-[Data](articles/03b435fc.json)
-
----
-
-### ’கூட்டாளிகளுக்கு அதிக நன்மை’
-
-*2025-08-06 03:54:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டாளிகளுக்கு-அதிக-நன்மை/175-362381) · `ta`
-
-சகல இளைஞர் கழகங்களின் சட்டப்பூர்வத்தன்மையையும் இரத்துச் செய்து, புதிய இளைஞர் கழகங்களை தாபித்தல் அல்லது மறுசீரமைத்தல் செயல்முறை இளைஞர் கழக அமைப்பினது இறையாண்மை ,ஜனநாயக செயல்பாட்டை ஆபத்தில் ஆழ்த்தி, புதிய கட்டளைகள் மூலம் தமது அரசியல் கூட்டாளிகளுக்கு அரசு நன்மையைப் பெற்றுக் கொடுக்கும் முயற்சியாக தெரிவதாக எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (05) அன்று நிலையியற் கட்டளை 27/ 2  இன் கீழ்  விசேட கூற்றை முன்வைத்தே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-தேசிய இளைஞர் சேவைகள் மன்றத்தால் அண்மையில் வெளியிடப்பட்ட சுற்றறிக்கை இலக்கம் 2-11/25/01 மூலம், 2025 மே 23க்கு முன்பு தாபிக்கப்பட்ட சகல இளைஞர் கழகங்களின் சட்டப்பூர்வத்தன்மையையும் இரத்துச் செய்து, புதிய இளைஞர் கழகங்களைத் தாபித்தல் அல்லது மறுசீரமைத்தல் செயல்முறை ஆரம்பிக்கப்பட்டுள்ளன. இது சகல இளைஞர் கழகங்களும் அரசியல் மயமாக்கலுக்கு ஆளாக்கப்பட்டுள்ளது என்று அரசாங்கத்தின் மீது பல குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
-
-...
-
-[Data](articles/be0cdb7c.json)
-
----
-
-### கால்வாயில் தவறி விழுந்த 8 வயது சிறுவன் உயிரிழப்பு
-
-*2025-08-06 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/221930) · `ta`
-
-பொலன்னறுவை, வெலிகந்த – நாகஸ்தென்ன பகுதியில், செவ்வாய்க்கிழமை (5) மாலை, ஆடுகளை மேய்க்கச் சென்ற 8 வயது சிறுவன்  கால்வாயில் விழுந்து உயிரிழந்துள்ளார்.
-
-வீட்டிலிருந்து “ஆடுகளைப் பார்க்கப் போகிறேன்” என தாயிடம் கூறிவிட்டு சென்ற சிறுவன், வெலிகந்த பகுதியில் உள்ள கால்வாயில் தவறி விழுந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இந்த துயர சம்பவம் தொடர்பாக வெலிகந்த பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/a66ab580.json)
-
----
-
-### அறுகம்பே, வெலிகம பகுதிகளில் இஸ்ரேலியர்களின் சட்டவிரோத வணிகங்களுக்கு எதிராக நடவடிக்கை - அரசாங்கம் உறுதி
-
-*2025-08-06 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/221929) · `ta`
-
-அறுகம்பே மற்றும் வெலிகம உள்ளிட்ட பகுதிகளில் இஸ்ரேலியர்கள் உள்ளடங்கலாக வெளிநாட்டவர்களால் சட்டவிரோதமாக நடாத்தப்பட்டுவரும் வணிகங்களுக்கு எதிராக உரிய நடவடிக்கை எடுக்கப்படும் என அமைச்சரவைப் பேச்சாளரும் சுகாதாரம் மற்றும் வெகுசன ஊடக அமைச்சருமான நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
-
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு செவ்வாய்க்கிழமை (5) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் நடைபெற்றது. அதன்போது இலங்கையில் அறுகம்பே, வெலிகம மற்றும் உனவட்டுன போன்ற பகுதிகளில் அதிகரித்துவரும் இஸ்ரேலியப்பிரஜைகளின் ஆதிக்கம் குறித்து எழுப்பப்பட்ட கேள்விக்குப் பதிலளிக்கையிலேயே அமைச்சர் நளிந்த ஜயதிஸ்ஸ மேற்கண்டவாறு தெரிவித்தார்.
-
-அதேபோன்று வாராந்தம் ஒருமுறை இஸ்ரேலியர்கள் கூடும் இடத்துக்கு அவ்வேளையில் பாதுகாப்பு வழங்கப்படுவதற்குக் காரணம் சுற்றுலாப்பயணிகளுக்கு உரிய பாதுகாப்பை அளிக்கவேண்டிய கடப்பாடு அரசாங்கத்துக்கு இருப்பதனாலேயே தவிர, வேறெந்த விசேட பாதுகாப்பும் வழங்கப்படவில்லை எனவும் அவர் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/83b7d3d2.json)
-
----
-
-### கல்வி மறுசீரமைப்பு தொடர்பில் மாற்றுக்கருத்துடையவர்கள் எம்முடன் பேசலாம்- நளிந்த ஜயதிஸ்ஸ
-
-*2025-08-06 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/221928) · `ta`
-
-நாட்டின் கல்வி முறைமை மறுசீரமைக்கப்படவேண்டிய அவசியமில்லை எனக் கூறுபவர்களுடன் நாம் பேசப்போவதில்லை. மாறாக கல்வி மறுசீரமைப்பு அவசியம் என்ற நிலைப்பாட்டில் இருந்தவாறு மாற்றுக்கருத்துக்கள் மற்றும் யோசனைகளை முன்வைப்போருடன் பேசுவதற்குத் தயாராக இருக்கிறோம் என அமைச்சரவைப் பேச்சாளரும், சுகாதாரம் மற்றும் வெகுசன ஊடக அமைச்சருமான நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
-
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு செவ்வாய்க்கிழமை (5) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் நடைபெற்றது. அதன்போது அரசாங்கத்தினள் கல்வி மறுசீரமைப்பு செயன்முறை தொடர்பில் வெளியிடப்பட்டுவரும் விமர்சனங்கள் குறித்து எழுப்பப்பட்ட கேள்விக்குப் பதிலளிக்கையிலேயே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/aee780a1.json)
 
 ---

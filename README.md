@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 20:50:27**
+As of **2025-08-06 21:07:42**
 
 ## Newspaper Stats
 
-*Scraped **69,114** Articles*
+*Scraped **69,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,655
-adaderanalk | 8,587
+adaderanalk | 8,588
 tamilmirrorlk | 10,094
 virakesarilk | 11,506
 adaderanasinhalalk | 11,895
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,114 articles have been extended.
+61,973 (89.7%) of 69,115 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/105e7ca9.json)
+
+---
+
+### Trump order imposes additional 25% tariff on goods from India
+
+*2025-08-06 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111245/trump-order-imposes-additional-25-tariff-on-goods-from-india) · `en`
+
+U.S. President Donald Trump issued an executive order on Wednesday imposing an additional 25% tariff on goods from India, saying the country directly or indirectly imported Russian oil, adding to 25% tariffs already announced.
+
+The move threatens to further complicate U.S.-Indian relations and comes shortly after a Indian government source said Indian Prime Minister Narendra Modi would visit China for the first time in over seven years later this month.
+
+U.S.-India ties are facing their most serious crisis in years after talks with India failed to produce a trade agreement.
+
+The White House move, first signaled by Trump on Monday, follows meetings by Trump’s top diplomatic envoy Steve Witkoff in Moscow aimed at pushing Russia to agree to peace in Ukraine.
+
+Trump has threatened higher tariffs on Russia and secondary sanctions on its allies, if Russian President Vladimir Putin does not move to end the war in Ukraine.
+
+◼️
+
+[Data](articles/457d38aa.json)
 
 ---
 
@@ -1821,23 +1841,5 @@ The airline schedules one weekly flight for the remainder of summer season. Sche
 ◼️
 
 [Data](articles/797a2042.json)
-
----
-
-### நாடு தழுவிய தொழிற்சங்க நடவடிக்கையில் ஈடுபட முடிவு
-
-*2025-08-06 11:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-தழுவிய-தொழிற்சங்க-நடவடிக்கையில்-ஈடுபட-முடிவு/175-362410) · `ta`
-
-அண்மையில் வெளியிடப்பட்ட மருத்துவர்களின் இடமாற்றப் பட்டியல் தொடர்பான பிரச்சினைகள் உள்ளிட்ட தனது கோரிக்கைகள் சுகாதார அமைச்சினால் தீர்க்கப்படாவிட்டால், நாடு தழுவிய வேலைநிறுத்தத்தைத் தொடங்கப் போவதாக அரச வைத்திய அதிகாரிகள் சங்கம் (GMOA) அறிவித்துள்ளது.
-
-ஓகஸ்ட் 11 ஆம் திகதி காலை 8:00 மணிக்குள் திருப்திகரமான தீர்வுகள் வழங்கப்படாவிட்டால், தொழிற்சங்க நடவடிக்கையில் ஈடுபட தொழிற்சங்கம் முடிவு செய்துள்ளதாக, ஊடகங்களுக்குப் பேசிய GMOA உதவிச் செயலாளர் வைத்தியர் ஹன்சமல் விஜேசூரிய தெரிவித்தார்.
-
-"நாங்கள் சுகாதார அமைச்சகத்துடன் தொடர்ந்து கலந்துரையாடல்களில் ஈடுபட்டு வருகிறோம், ஆனால் இடமாற்றப் பட்டியலில் உள்ள சிக்கல்கள் குறித்து எந்த அர்த்தமுள்ள தலையீடும் இல்லை. காலக்கெடுவிற்குள் அமைச்சகம் சரியான நடவடிக்கை எடுக்கத் தவறினால், நாங்கள் நாடு தழுவிய வேலைநிறுத்தத்தைத் தொடங்குவோம்," என்று அவர் கூறினார்.
-
-GMOA எழுப்பிய கவலைகளை சுகாதார அதிகாரிகள் புறக்கணிப்பதாக வைத்தியர் விஜேசூரிய குற்றம் சாட்டினார், மேலும் தொழிற்சங்கத்தின் மத்திய குழு வேலைநிறுத்தத்தை கடைசி முயற்சியாக ஒருமனதாக முடிவு செய்துள்ளதாகவும் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/9153d7ef.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 12:52:41**
+As of **2025-08-06 13:07:39**
 
 ## Newspaper Stats
 
-*Scraped **69,024** Articles*
+*Scraped **69,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,648
-adaderanalk | 8,571
+adaderanalk | 8,577
 tamilmirrorlk | 10,069
 virakesarilk | 11,493
 adaderanasinhalalk | 11,881
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.8%) of 69,024 articles have been extended.
+61,973 (89.8%) of 69,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### Indian airports on high alert over possible terror threat
+
+*2025-08-06 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111231/indian-airports-on-high-alert-over-possible-terror-threat) · `en`
+
+The Bureau of Civil Aviation Security has placed all Indian airports on maximum alert following intelligence inputs warning of potential threats from terrorists or “anti-social elements” between September 22 and October 2, 2025.
+
+The civil aviation ministry’s security wing issued the advisory on August 4, directing immediate enhanced surveillance measures across all aviation installations including airports, airstrips, helipads, flying schools and training institutes. “Recent inputs from the central security agency indicate a potential threat from anti-social elements or terrorist groups,” the BCAS advisory stated, calling for heightened security to “avoid any untoward incident.”
+
+...
+
+[Data](articles/4c9d02d4.json)
+
+---
 
 ### මහින්දානන්දට සහ නලින් ප්‍රනාන්දුට එරෙහි නඩුවේ ලේඛන කැඳවීමට නියෝගයක්
 
@@ -200,6 +214,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 78-year-old arrested with stock of explosives in Rakwana
+
+*2025-08-06 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111230/78-year-old-arrested-with-stock-of-explosives-in-rakwana) · `en`
+
+A 78-year-old individual, a resident of Rakwana has been arrested in Medagangoda for the illegal possession of a large quantity of commercial explosives.
+
+According to police, the arrest was made following a raid carried out based on a tip-off received by officers attached to the Special Task Force (STF) camp in Udawalawe.
+
+During the raid, authorities recovered nearly 3 kilograms of cordite, over 9 kilograms of ammonia, 15 water gel sticks and 28 detonators from the suspect’s possession.
+
+◼️
+
+[Data](articles/d742ae1a.json)
+
+---
+
 ### 7,000 பேருக்கு சிக்குன்குனியா; அமெரிக்கா எச்சரிக்கை
 
 *2025-08-06 11:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/7-000-பேருக்கு-சிக்குன்குனியா-அமெரிக்கா-எச்சரிக்கை/50-362414) · `ta`
@@ -217,6 +247,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f62ca562.json)
+
+---
+
+### Aravinda Senarath steps down as COPA Chairman
+
+*2025-08-06 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111229/aravinda-senarath-steps-down-as-copa-chairman) · `en`
+
+National People’s Power (NPP) Member of Parliament Aravinda Senarath has announced that he is stepping down as the Chairman of the Committee on Public Accounts (COPA).
+
+Speaking in Parliament, MP Senarath said he decided to step down as COPA Chair after a decision was taken to grant the post to a member of the opposition.
+
+Accordingly, he stated that he will continue to function as a member of the committee and discharge his duties.
+
+◼️
+
+[Data](articles/da7fbecd.json)
+
+---
+
+### Tuition classes targeting 2025 Grade 5 Scholarship exam banned from midnight
+
+*2025-08-06 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111227/tuition-classes-targeting-2025-grade-5-scholarship-exam-banned-from-midnight) · `en`
+
+The conduct of tuition classes, seminars, and other workshops targeting the 2025 Grade Five Scholarship Examination is banned from midnight today (Aug 06) until the conclusion of the exam.
+
+Issuing a statement, the Department of Examinations stated that the printing and distribution of model question papers related to the Grade 5 Scholarship Examination are also prohibited.
+
+Additionally, it is strictly prohibited to publish or distribute posters, banners, handouts, or promotions via electronic, print, or social media that suggest exam questions or similar content will be provided to students.
+
+The Department further emphasized that any individual, institution, or party found violating these directives may be reported to the nearest police station, police headquarters, or the Examination Department’s hotline (1911), or via 0112 784208 or 0112 784537.
+
+...
+
+[Data](articles/84c331c3.json)
+
+---
+
+### Arkia – Israeli Airline to resume Tel Aviv-Colombo flights in Sep. 2025
+
+*2025-08-06 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111228/arkia-israeli-airline-to-resume-tel-aviv-colombo-flights-in-sep-2025) · `en`
+
+Arkia – Israeli Airlines from September 2025 plans to resume service to Sri Lanka, last served until May 2024.
+
+Upon service resumption on 23SEP25, the airline’s Tel Aviv – Colombo route to be operated by Gullivair Airbus A330-200 aircraft.
+
+The airline schedules one weekly flight for the remainder of summer season. Schedule below focuses on the month of October 2025.
+
+◼️
+
+[Data](articles/90efb9ce.json)
 
 ---
 
@@ -801,6 +881,24 @@ Following the commencement of today’s sitting, Minister of Energy Kumara Jayak
 ◼️
 
 [Data](articles/3fc1126e.json)
+
+---
+
+### Second reading debate of Electricity (Amendment) Bill in Parliament today
+
+*2025-08-06 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111218/second-reading-debate-of-electricity-amendment-bill-in-parliament-today) · `en`
+
+The second reading of the Sri Lanka Electricity (Amendment) Bill is scheduled to take place in Parliament today.
+
+The Electricity (Amendment) Bill, which was presented in Parliament earlier this year by the government was also challenged in the Supreme Court.
+
+Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
+
+Following the commencement of today’s sitting, Minister of Energy Kumara Jayakody is scheduled to table the bill for second reading debate.
+
+◼️
+
+[Data](articles/ad27f114.json)
 
 ---
 
@@ -1641,103 +1739,5 @@ Before the last election, I too found myself questioning Uvindu’s apparent tra
 ...
 
 [Data](articles/e3a9d1cd.json)
-
----
-
-### தேசபந்து தென்னக்கோன் பதவியை துஷ்பிரயோகம் செய்ய காரணமாக இருந்த அரசியல்வாதிகளை அரசாங்கம் பாதுகாத்து வருகிறது - முஜிபுர் ரஹ்மான்
-
-*2025-08-06 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221925) · `ta`
-
-பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் பதவியை துஷ்பிரயோகம் செய்த காரணத்தினால் அவரை பதவியில் இருந்து நீக்குவதற்கு நடவடிக்கை எடுத்திருக்கும் அரசாங்கம், அவர் அவ்வாறு செயற்பட காரணமாக இருந்த அரசியல்வாதிகளை அரசாங்கம் பாதுகாத்து வருகிறது. என ஐக்கிய மக்கள் சக்தி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (5) இடம்பெற்ற அலுவலர்களை அகற்றுதல் (நடவடிக்கைமுறை) சடத்தின் 17ஆம் பிரிவின் பிரகாரம், பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனை பொலிஸ் மா அதிபர் பதவியில் இருந்து அகற்றுவதற்கான பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/83580f4e.json)
-
----
-
-### ஜனாதிபதிக்கும் இலங்கை பாடகர்கள் சங்கத்திற்கும் இடையிலான கலந்துரையாடல்
-
-*2025-08-06 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/221924) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கை பாடகர்கள் சங்கத்திற்கும் இடையிலான சந்திப்பு செவ்வாய்க்கிழமை (05) பிற்பகல் ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
-
-ஒரு பாடலின் முழுமையான மற்றும் சட்டபூர்வ உரிமைகளை பாடலாசிரியருக்கு, இசையமைப்பாளர்களுக்கு, அதே போல் பாடகர்களுக்கும் வழங்க சட்டங்களைத் திருத்துமாறு பாடகர்கள் சங்கம் இதன்போது ஜனாதிபதியிடம் கோரிக்கை விடுத்தது.
-
-புலமைச்சொத்துச் சட்டத்தின் கீழ் ஒரு பாடலுக்கு முழுமையான உரிமையை பாடலாசிரியர் மற்றும் இசையமைப்பாளர் கொண்டிருப்பதால், பல பிரபல பாடகர்கள் நெருக்கடியில் உள்ளனர் என்றும் தங்களின் சமூக ஊடகங்களில்  பாடல்களைப் பதிவேற்ற முடியாமல் இருப்பதாகவும் இங்கு  வலியுறுத்தப்பட்டது.
-
-இதன் காரணமாக, தொழில் ரீதியாக இசைத் துறையில் ஈடுபட்டுள்ள பல ஆண் மற்றும் பெண் பாடகர்கள் அநீதிக்கு ஆளாகியுள்ளனர். இந்தப் பிரச்சினைகள் அனைத்தையும் பரிசீலித்து தேவையான சட்டத் திருத்தங்களைச் செய்வதற்கு ஒரு சுயாதீனக் குழுவை நியமிக்குமாறு பாடகர்கள் சங்கம் ஜனாதிபதியிடம் கோரிக்கை விடுத்தது.
-
-...
-
-[Data](articles/d0590385.json)
-
----
-
-### அரச சேவையை நவீனத்துவ கலாச்சாரத்திற்கு இட்டுச்செல்ல அனைவரும் ஒன்றுபடுவோம்! - ஜனாதிபதி
-
-*2025-08-06 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/221923) · `ta`
-
-பௌதீக  ரீதியாகவும், ஆன்மீக ரீதியாகவும் சிதைந்துபோன அரச கட்டமைப்பு தொடர்பில் சுயவிமர்சனம் செய்து, நவீன அரச சேவையை உருவாக்க அடுத்த ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் நிதிஒதுக்கீடு செய்யப்படும் என ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-அரச சேவையை நவீனத்துவ கலாச்சாரத்திற்கு கொண்டு செல்ல வேண்டும் என்றும், அதைப் பாதுகாக்க அனைத்து சாத்தியமான நடவடிக்கைகளும் எடுக்கப்படும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க மேலும் குறிப்பிட்டார்.
-
-அடுத்த ஆண்டுக்கான வரவு செலவுத் திட்டத்தில், அதன் பௌதீக வசதிகளை மேம்படுத்துவதன் மூலம் சிதைந்துபோன அரச சேவையை நவீனமயமாக்குவதற்கு முன்னுரிமை அளிக்கப்பட்டுள்ளதாக ஜனாதிபதி தெரிவித்தார்.
-
-அலரி மாளிகையில் செவ்வாய்க்கிழமை (05)  நடைபெற்ற இலங்கை நிர்வாக சேவை சங்கத்தின் (SASA) 41 ஆவது வருடாந்த மாநாட்டில் பிரதம விருந்தினராக கலந்து கொண்டு உரையாற்றும் போது ஜனாதிபதி அநுரகுமார திசாநாயக்க இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/883ed07c.json)
-
----
-
-### முன்னாள் பிரதம நீதியரசரை சட்டவிரோதமாக பதவி நீக்கியவர்கள் எம்மை விமர்சிப்பது வேடிக்கையானது- அருண்  ஹேமச்சந்திரா
-
-*2025-08-06 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/221922) · `ta`
-
-முறைகேடான, மோசடியான மற்றும் மிலேட்சத்தனமாக  பொலிஸ்மா அதிபரை பாதுகாப்பதற்கு முயற்சிப்பவர்களின்  பின்னணியை நாங்கள் நன்கு அறிவோம். இதற்குரிய பதில் இவர்களுக்கு எதிர்வரும் காலங்களில் கிடைக்கப்பெறும். முன்னாள் பிரதம நீதியரசரை சட்டவிரோதமான முறையில் பதவி நீக்கியவர்கள் எம்மை விமர்சிப்பது வேடிக்கையாகவுள்ளது. சட்டத்தின் பிரகாரமே தேசபந்து தென்னக்கோன் பதவி நீக்கப்படுவார் என்று வெளிவிவகாரத்துறை பிரதி அமைச்சர் அருண்  ஹேமச்சந்திரா தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (6) நடைபெற்ற பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோனை பதவி நீக்கம் செய்வது  தொடர்பான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-நாட்டில் அரசியலமைப்பால் ஏற்றுக்கொள்ளப்பட்ட சட்டத்தின் பிரகாரமே பொலிஸ்மா அதிபரை பதவி நீக்குவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டன. முன்னாள் பிரதம நீதியரசரை பாராளுமன்றத்துக்கு அழைத்து வந்து முறையற்ற வகையில் சட்டத்துக்கு விரோதமான முறையில் அவரை பதவி நீக்கியவர்கள் இன்று எம்மை நோக்கி குற்றச்சாட்டுக்களை முன்வைப்பது ஆச்சரியமாகவுள்ளது.
-
-...
-
-[Data](articles/b2fd09f6.json)
-
----
-
-### 2025-08-05 (Tuesday)
-
-### Fairfirst celebrates landmark 560th road safety session in Matara
-
-*2025-08-05 23:38:00* · [`islandlk`](http://island.lk/fairfirst-celebrates-landmark-560th-road-safety-session-in-matara/) · `en`
-
-Fairfirst Insurance recently conducted a landmark road safety awareness programme in Matara, reinforcing its long-standing commitment to promoting responsible road behaviour among schoolchildren and the public.
-
-Held on 26th June 2025 at the Rabindranath Tagore Memorial Auditorium of the University of Ruhuna and the nearby Matara Beach Park, the session brought together more than 1,300 students from across the Matara Education Zone.
-
-Organised in collaboration with the Sri Lanka Traffic Police, the Insurance Regulatory Commission of Sri Lanka (IRCSL), and other state partners, the event focused on building awareness around safer road habits and encouraging mindful behaviour on the roads to help reduce accidents.
-
-...
-
-[Data](articles/3a95bd63.json)
-
----
-
-### Swisstek Aluminium delivers Sri Lanka’s most reliable solar mounting systems
-
-*2025-08-05 23:38:00* · [`islandlk`](http://island.lk/swisstek-aluminium-delivers-sri-lankas-most-reliable-solar-mounting-systems/) · `en`
-
-Swisstek Aluminium pledges to assist Sri Lanka in turning its renewable energy goals for 2030 into reality with its cutting-edge solar mounting systems. As the country aims to create a clean energy future, Swisstek Aluminium provides solutions with modular, prefabricated mounting systems engineered to withstand the island’s challenging weather conditions, from coastal humidity to high wind zones
-
-Swisstek Aluminium mounting systems are manufactured using high-grade corrosion-resistant aluminium, making them suitable for both residential and commercial applications across a variety of roofing types, including asbestos/cement sheets, corrugated steel sheets, and clay or concrete roof tiles. Designed to be lightweight without compromising strength, these systems allow for fast, straightforward on-site assembly and full compatibility with earthing and lightning protection features.
-
-...
-
-[Data](articles/5b29101c.json)
 
 ---

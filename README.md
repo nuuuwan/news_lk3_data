@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 22:39:19**
+As of **2025-08-06 22:52:42**
 
 ## Newspaper Stats
 
-*Scraped **69,126** Articles*
+*Scraped **69,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,659
 adaderanalk | 8,588
-tamilmirrorlk | 10,095
+tamilmirrorlk | 10,096
 virakesarilk | 11,508
-adaderanasinhalalk | 11,899
+adaderanasinhalalk | 11,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,126 articles have been extended.
+61,973 (89.6%) of 69,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### செம்மணியில் சிசுவின் எலும்பு கூட்டு தொகுதி - அகழ்வு பணிகள் நிறுத்தம்
+
+*2025-08-06 22:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-சிசுவின்-எலும்பு-கூட்டு-தொகுதி-அகழ்வு-பணிகள்-நிறுத்தம்/175-362471) · `ta`
+
+செம்மணி மனித புதைகுழியில் இருந்து சிசு ஒன்றின் எலும்பு கூட்டு தொகுதி இன்று (6) யாழ். நீதவான் நீதிமன்ற நீதவான் ஏ.ஏ. ஆனந்தராசா முன்னிலையில் அகழ்ந்து எடுக்கப்பட்டது.
+
+செம்மணியில் இதுவரை கட்டம் கட்டமாக 41 நாட்கள் முன்னெடுக்கப்பட்டுள்ள அகழ்வுப்பணிகளில் சிறுவர்கள், சிசுக்கள் உள்ளிட்ட 133 எலும்பு கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளதுடன், இதுவரையில் 147 எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+அதேவேளை, கடந்த 16 நாட்களாக முன்னெடுக்கப்பட்ட இரண்டாம் கட்டத்தின் இரண்டாம் பகுதி அகழ்வு பணிகள் இன்றுடன் தற்காலிகமாக நிறுத்தப்பட்டு, எதிர்வரும் 21ஆம் திகதியளவில் மீள ஆரம்பிக்கப்படவுள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/d97a59a3.json)
+
+---
+
+### වසර 80කට පසු ප්‍රංශයට දරුණු ලැව්ගිනි තත්ත්වයක්
+
+*2025-08-06 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213106) · `si`
+
+විදෙස් වාර්තා පෙන්වා දෙන්නේ වසර 80කට ආසන්න කාලයකට පසු එරට තුළ ඇති වූ විශාලතම ලැව් ගින්න මෙය බවයි.
+
+ගින්න පාලනය කිරීම සඳහා ප්‍රංශ ගිනි නිවන භටයින් දැඩි සටනක් දුන්නද, දැනටමත් දකුණුදිග ඕඩ් කලාපයේ විශාල ගින්නක් පැතිරගොස් තිබේ.
+
+වනාන්තර සහ ගම්මාන හරහා ගින්න ඉතා වේගයෙන් පැතිර යන අතර, අවම වශයෙන් නිවාස 25ක් ගිනිබත් වන්නට ඇති බවට ප්‍රංශ බලධාරින් විශ්වාසය පළකරයි.
+
+මේ අතර Perpignan නගරයට කිලෝමීටර් 30ක් පමණ දුරින් පිහිටි ශාන්ත ලෝරන්ට් ඩි ලා කැබ්‍රෙරිස් ගම්මානයේ එක් පුද්ගලයෙකු ජීවතක්ෂයට පත් පත්ව තිබේ.
+
+මේ වනවිටත් ගින්න පැරිසියට වඩා විශාල ප්‍රදේශයක් පුරා පැතිර ගොස් ඇතැයි විදෙස් වාර්තාවන්හි දැක්වේ.
+
+ඒ හේතුවෙන් පදිංචිකරුවන්ට සහ සංචාරකයින්ට හැකි ඉක්මනින් ප්‍රදේශයෙන් ඉවත්ව යන ලෙස උපදෙස් දී ඇත.
+
+◼️
+
+[Data](articles/fefb3c11.json)
+
+---
 
 ### நாவின்னவில் துப்பாக்கிச் சூடு
 
@@ -1084,11 +1122,11 @@ Several properties, including a building that had been illegally constructed on 
 
 ---
 
-### Sri Lanka’s FIU fines bank, casinos for violating Anti-Money Laundering rules
+### Sri Lanka’s FIU fines Bally’s, Belagio casino’s under anti-money laundering laws
 
 *2025-08-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-fiu-fines-bank-casinos-for-violating-anti-money-laundering-rules-235039/) · `en`
 
-ECONOMYNEXT – The Financial Intelligence Unit (FIU) at the Central Bank of Sri Lanka has taken fined three institutions including two involved with casinos for failing to follow the country’s Anti-Money Laundering and Counter-Terrorism Financing laws.
+ECONOMYNEXT – The Financial Intelligence Unit (FIU) at the Central Bank of Sri Lanka has taken fined a bank and two casinos, Bellagio and Bally’s, for failing to follow the country’s Anti-Money Laundering and Counter-Terrorism Financing laws.
 
 Between January and June 2025, the FIU imposed a total of Rs. 6.5 million in penalties under the powers given to it by the Financial Transactions Reporting Act (FTRA(, the Central Bank said in a statement.
 
@@ -1805,35 +1843,5 @@ The civil aviation ministry’s security wing issued the advisory on August 4, d
 ...
 
 [Data](articles/6d785083.json)
-
----
-
-### முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ கைது
-
-*2025-08-06 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/221937) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரணைக்கும் ஆணைக்குழுவால் (CIABOC) கைது செய்யப்பட்டுள்ளார்.
-
-முன்னாள் இராஜாங்க அமைச்சர் ராஜபக்ஷ இன்று புதன்கிழமை (06) காலை நுகேகொடையில் உள்ள அவரது இல்லத்தில் இலஞ்ச ஒழிப்பு ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-2022 ஆம் ஆண்டு நாடளாவிய போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பாக அவர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகிறது.
-
-அதனை தொடர்ந்து, முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ இலஞ்ச ஒழிப்பு ஆணைக்குழுவில் முன்னிலைப்படுத்தப்பட்டுள்ளார். தற்போது அவரிடம் வாக்குமூலம் பதிவு செய்யப்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/1189d41f.json)
-
----
-
-### කෝපා කමිටුවේ සභාපති ධුරයෙන් අරවින්ද සෙනරත් ඉල්ලා අස්වෙයි
-
-*2025-08-06 11:56:45* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-කමිටුවේ-සභාපති-ධුරයෙන්-අරවින්ද-සෙනරත්-ඉල්ලා-අස්වෙයි/11-417756) · `si`
-
-රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ(කෝපා) සභාපති ධුරයෙන් තමා ඉල්ලා අස්වන බව අරවින්ද සෙනරත් මහතා පැවසීය.
-
-◼️
-
-[Data](articles/3da89257.json)
 
 ---

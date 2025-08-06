@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 05:19:30**
+As of **2025-08-06 05:32:26**
 
 ## Newspaper Stats
 
-*Scraped **68,916** Articles*
+*Scraped **68,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 704
 economynextcom | 4,205
 islandlk | 4,205
 dailymirrorlk | 4,733
-dailyftlk | 4,849
+dailyftlk | 4,854
 adalk | 6,639
 adaderanalk | 8,555
-tamilmirrorlk | 10,042
+tamilmirrorlk | 10,043
 virakesarilk | 11,482
 adaderanasinhalalk | 11,864
 
@@ -26,11 +26,115 @@ adaderanasinhalalk | 11,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.9%) of 68,916 articles have been extended.
+61,973 (89.9%) of 68,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### Minister reveals President’s Fund scholarships went to children and relatives of politicians
+
+*2025-08-06 05:16:03* · [`dailyftlk`](https://www.ft.lk/news/Minister-reveals-President-s-Fund-scholarships-went-to-children-and-relatives-of-politicians/56-779937) · `en`
+
+Urban Development, Construction and Housing Minister Anura Karunathilaka yesterday told Parliament that children and relatives of Presidents, Ministers and Parliamentarians had benefited from the President’s Fund scholarships between 2005 and 2014.
+
+Addressing the House, the Minister said records show that funds meant for scholarships had been allocated to family members of senior political figures during the period.
+
+Among the recipients named were: Harshana Rajakaruna, son of former Gampaha District MP Sarath Chandra Rajapakaruna, I.N. Kodituwakku, relative of former Colombo District MP Karunasena Kodituwakku (2006), V. Radhakrishnan, relative of former National List MP V. Radhakrishnan (2006), Dinesh Dodangoda, through political affiliations in 2006 and K.K. Paranavithane (2006).
+
+...
+
+[Data](articles/fc4bbfcc.json)
+
+---
+
+### Governor General of Australia Samantha Joy Mostyn arrives today
+
+*2025-08-06 05:15:01* · [`dailyftlk`](https://www.ft.lk/news/Governor-General-of-Australia-Samantha-Joy-Mostyn-arrives-today/56-779936) · `en`
+
+The Governor General of Australia Samantha Joy Mostyn is scheduled to undertake an official visit to Sri Lanka today.
+
+The Governor General will remain in the country till 10 August, according to a statement issued by the Foreign Affairs, Foreign Employment, and Tourism Ministry.
+
+During the visit, Governor General Mostyn is expected to hold bilateral discussions with President Anura Kumara Disanayake and Prime Minister Dr. Harini Amarasuriya.
+
+The Governor General will also visit several projects supported by Australia in Bandaragama, Mirissa, and Weligama.
+
+The visit aims to further strengthen bilateral cooperation and explore opportunities to expand existing areas of collaboration for the mutual benefit of both countries, the statement added.
+
+◼️
+
+[Data](articles/9a5d5c30.json)
+
+---
+
+### Cabinet cuts MPs’ insurance cover to Rs. 250,000
+
+*2025-08-06 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-cuts-MPs-insurance-cover-to-Rs-250-000/56-779935) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved reducing the group insurance cover for Members of Parliament from Rs. 1 million to Rs. 250,000 per Parliamentary year, effective from the next insurance year starting 9 October 2025.
+
+The decision follows a recommendation by President Anura Kumara Disanayake in the 2025 Budget speech, in which he proposed cutting the existing limit by 75% as part of broader cost-rationalisation measures.
+
+“A group insurance policy for MPs was first approved on 15 May 2023, with a maximum coverage of Rs. 1 million annually. The policy has been in effect since then, providing coverage for MPs during their term in office,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The move is aimed at aligning Parliamentary benefits with the country’s current fiscal constraints, as it continues efforts to streamline public expenditure.
+
+...
+
+[Data](articles/407b93b5.json)
+
+---
+
+### New delimitation committee appointed to update administrative divisions
+
+*2025-08-06 05:13:51* · [`dailyftlk`](https://www.ft.lk/news/New-delimitation-committee-appointed-to-update-administrative-divisions/56-779934) · `en`
+
+The Cabinet of Ministers on Monday approved the appointment of a new delimitation committee to review and update administrative boundaries for Divisional Secretariat (DS) divisions and Grama Niladhari (GN) divisions.
+
+The decision comes after limited progress on the work of two earlier committees. The first, appointed in 2012, made several recommendations, but only some were implemented. A second committee, reappointed in 2021, saw none of its proposals acted upon.
+
+“Under the new mandate, the committee will seek feedback on both previous reports from Divisional Coordination Committees and District Coordination Committees,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the post-Cabinet meeting media briefing yesterday.
+
+He said after reviewing this input, the Committee will prepare a fresh set of recommendations for the Government.
+
+...
+
+[Data](articles/8448b419.json)
+
+---
+
+### Urban regeneration housing projects to resume with over Rs. 7 b  investment
+
+*2025-08-06 05:13:33* · [`dailyftlk`](https://www.ft.lk/news/Urban-regeneration-housing-projects-to-resume-with-over-Rs-7-b-investment/56-779933) · `en`
+
+The Cabinet of Ministers has approved the resumption of two long-delayed housing developments in Colombage Mawatha Housing Project and the Torrington Mawatha Housing Project under the Urban Regeneration Project with an investment of Rs. 7.48 billion.
+
+The 11-storey housing complex situated on Colombage Mawatha, Narahenpita is part of the Government’s long-term Urban Regeneration Project. The projects, which had been halted for several years, were first cleared for reactivation at the Cabinet meeting on 30 December 2024.
+
+Speaking at the weekly post-Cabinet yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said Colombage Mawatha project will see 615 housing units, while Torrington Mawatha will add 115 units, bringing the total to 730 new homes.
+
+...
+
+[Data](articles/1e25a202.json)
+
+---
+
+### மொத்தமாக 425 பேர் கைது
+
+*2025-08-06 04:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொத்தமாக-425-பேர்-கைது/175-362387) · `ta`
+
+மனித படுகொலைகள் தொடர்பில் கைது 241 , காயங்களை ஏற்படுத்தியோர்  தொடர்பான விசாரணைகளில் 180 பேர், தடை செய்யப்பட்ட விலங்குகளை வேட்டையாடிய குற்றம் தொடர்பில் 4 பேர் என மொத்தமாக 425 பேர் கைது செய்யப்பட்டுள்ளதுடன் விசா காலம் முடிந்த பின்னரும்  நாட்டில் தங்கியிருப்போர் மற்றும் கடவுச்சீட்டு ஆவண மோசடி தொடர்பில் இதுவரை 219 வெளிநாட்டுப் பிரஜைகளை  குடிவரவு மற்றும் குடியகல்வு திணைக்களம்   கைது செய்துள்ளதாகப் பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) வாய்மூல விடை க்கான வினா நேரத்தில் , சுசந்த குமார நவரத்ன எம்.பி. எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே  அவர் இவ்வாறு குறிப்பிட்டார்.
+
+தமது விசா காலம் முடிவடைந்துள்ள நிலையிலும் நாட்டில் தங்கியுள்ள நபர்கள் தொடர்பில்   சட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.குடிவரவு-குடியகல்வு  சட்டத்தின்படி, அவ்வாறு தங்கியுள்ளவர்கள் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதுடன் அவர்களைக் கைது செய்வதற்கான நடவடிக்கைகளும் முன்னெடுக்கப்பட்டுள்ளன  அதற்கான பணிப்புரைகள் மேற்படி திணைக்களத்துக்கு வழங்கப்பட்டுள்ளன
+
+...
+
+[Data](articles/bc298a31.json)
+
+---
 
 ### ’சர்வதேச விசாரணைக்கு கோப்ரலை தயார்படுத்துங்கள்’
 
@@ -1719,99 +1823,5 @@ Top negative contributors to the ASPI were JKH which closed down 40 cents at 23.
 ...
 
 [Data](articles/562c67b6.json)
-
----
-
-### සමන් ඒකනායක CID යෙන් පිටව යයි
-
-*2025-08-05 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213044) · `si`
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පිටව ගොස් තිබේ.
-
-අද (05) උදෑසන 9.30ට පමණ ප්‍රකාශයක් ලබා දීම සඳහා ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබුණි.
-
-ඒ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ජනාධිපති ලෙස කටයුතු කළ සමයේ සිදුකළ සංචාරයක් සම්බන්ධයෙන් කරනු ලබන විමර්ශනයකට අනුවය.
-
-◼️
-
-[Data](articles/22a19e45.json)
-
----
-
-### ජනාධිපති අරමුදලින් මුදල් ලබා ගත් තවත් පිරිසක් ගැන අනාවරණයක්
-
-*2025-08-05 15:17:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලින්-මුදල්-ලබා-ගත්-තවත්-පිරිසක්-ගැන-අනාවරණයක්/11-417732) · `si`
-
-2005 සිට 2014 දක්වා කාලය තුඝ දේශපාලඥයන්ගේ දරුවන් , ඥාතීන් සහ හිතවතුන් ජනාධිපති අරමුදලින් මුදල් ලබාදී අධ්‍යාපන කටයුතු සඳහා මුදල් ලබා ගෙන ඇති බව අද (05දා) පාර්ලිමේන්තුවේදී අනාවරණය විය.
-
-නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍ය අනුර කරුණාතිලක මහතා  මේ පිළිබඳ අනාවරණය කළේය.
-
-◼️
-
-[Data](articles/e393e6de.json)
-
----
-
-### AEGIS LEXICON 2025 - பாதுகாப்பு சைபர் கண்காட்சி
-
-*2025-08-05 15:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AEGIS-LEXICON-2025-பாதுகாப்பு-சைபர்-கண்காட்சி/175-362346) · `ta`
-
-பாதுகாப்பு அமைச்சசின் கீழ் செயல்படும் பாதுகாப்பு சைபர் கட்டளை (DCC),சமீபத்தில் அமைச்சு  வளாகத்தில் AEGIS LEXICON 2025 -பாதுகாப்பு சைபர் கண்காட்சியை வெற்றிகரமாக நடத்தியது.
-
-ஞாயிற்றுக்கிழமை (03) அன்று நிறுவப்பட்ட DCC யின் இரண்டாம் ஆண்டு நிறைவைக் குறிக்கும் வகையில் இந்த வருடாந்த நிகழ்வு நடத்தப்பட்டது. இது டிஜிட்டல் பாதுகாப்பு மற்றும் சைபர் பாதுகாப்பு திறன்களில் இலங்கையின் வளர்ந்து வரும் நிலையை எடுத்துக்காட்டுகிறது.
-
-இந்நிகழ்வில் பிரதான உரை நிகழ்த்திய பாதுகாப்பு செயலாளர் எயார்  வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு), DCC ஒரு முழுமையான சைபர் படையணியாக பரிணமிக்க வேண்டியதன் வளர்ந்து வரும் அவசியத்தை எடுத்துரைத்தார்.
-
-அமைச்சின் பரந்த பாதுகாப்பு நோக்கங்களுடன் இணைந்து, சைபர் தளத்தில் விரிவான தேசிய பாதுகாப்பை உறுதி செய்வதற்காக DCC மூலோபாய, செயல்பாட்டு மற்றும் தந்திரோபாய மட்டங்களில் செயல்படக்கூடியதாக இருக்க வேண்டும் என்று அவர் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/a2767190.json)
-
----
-
-### PM briefs Chief Prelates of Amarapura and Ramanna chapters on education reforms
-
-*2025-08-05 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111197/pm-briefs-chief-prelates-of-amarapura-and-ramanna-chapters-on-educationreforms) · `en`
-
-The Chief Prelates of the Sri Lanka Amarapura and the Ramanna chapters have emphasized to the Prime Minister Dr. Harini Amarasuriya that contributing to the new education reforms is not merely a change confined to the education sector, but one that can bring about a constructive transformation for the entire nation, making it a national responsibility of the Maha Sangha.
-
-A special discussion to brief the Chief Prelates of the Amarapura and Ramanna chapters about the new education reforms was held at the headquarters of the Sri Lanka Ramanna Maha Nikaya, with the participation of the Prime Minister, according to the Prime Minister’s Media Division.
-
-During the event, the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kaluwewa, presented a comprehensive explanation to the Chief Prelates on the national significance of the new education reforms, the curriculum structure, assessment procedures, and the intended objectives of the reforms.
-
-...
-
-[Data](articles/39ca005d.json)
-
----
-
-### PM briefs Chief Prelates of Amarapura and Ramanna chapters on education reforms
-
-*2025-08-05 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111197/chief-prelates-of-amarapura-and-ramanna-chapters-briefed-on-proposed-education-reforms-) · `en`
-
-The Chief Prelates of the Sri Lanka Amarapura and the Ramanna chapters have emphasized to the Prime Minister Dr. Harini Amarasuriya that contributing to the new education reforms is not merely a change confined to the education sector, but one that can bring about a constructive transformation for the entire nation, making it a national responsibility of the Maha Sangha.
-
-A special discussion to brief the Chief Prelates of the Amarapura and Ramanna chapters about the new education reforms was held at the headquarters of the Sri Lanka Ramanna Maha Nikaya, with the participation of the Prime Minister, according to the Prime Minister’s Media Division.
-
-During the event, the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kaluwewa, presented a comprehensive explanation to the Chief Prelates on the national significance of the new education reforms, the curriculum structure, assessment procedures, and the intended objectives of the reforms.
-
-...
-
-[Data](articles/fa288ca0.json)
-
----
-
-### ‘The First Fools’ who saw Singapore through to independence
-
-*2025-08-05 15:03:00* · [`islandlk`](http://island.lk/the-first-fools-who-saw-singapore-through-to-independence/) · `en`
-
-In a bold and timely release marking Singapore’s 60th year of independence, a new book is shaking up the familiar narrative of nation-building by offering a surprising and deeply human portrait of the men behind the republic’s birth. ‘The First Fools: B-Sides of Lee Kuan Yew’s A-Team’ is a literary excavation of the 10 men who signed the 1965 Separation Agreement, offering fresh insight into their lives beyond the headlines and history books.
-
-Published by The Nutgraf — a boutique editorial studio run largely by former journalists — the anthology is not a typical commemorative volume. Instead of celebrating political milestones and statecraft, it uncovers the untold personal stories of Singapore’s founding fathers: their hobbies, love lives, eccentricities, and even secret pasts.
-
-...
-
-[Data](articles/292744d6.json)
 
 ---

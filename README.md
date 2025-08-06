@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 03:48:41**
+As of **2025-08-07 04:06:51**
 
 ## Newspaper Stats
 
-*Scraped **69,157** Articles*
+*Scraped **69,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
-dailyftlk | 4,870
+dailyftlk | 4,873
 adalk | 6,660
 adaderanalk | 8,591
 tamilmirrorlk | 10,099
@@ -26,11 +26,65 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,157 articles have been extended.
+61,973 (89.6%) of 69,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### Cabinet approves multiple medical procurement contracts worth over $ 5.6 m
+
+*2025-08-07 03:50:05* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-multiple-medical-procurement-contracts-worth-over-5-6-m/56-780028) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved a series of international medical procurement contracts valued at over $ 5.6 million to strengthen the supply of essential drugs and surgical equipment in the country’s healthcare system.
+
+Among the approvals was the purchase of 900,000 pre-filled syringes/vials (0.4 ml, 4,000 IU) of Enoxaparin Sodium, a critical anticoagulant used in treating heart patients. The contract, valued at $ 1.143 million, was awarded to M/s Gland Pharma Ltd., of India, which submitted the lowest responsive bid through international competitive tendering.
+
+Similarly, a separate tender for 450,000 pre-filled syringes/vials (0.6 ml, 6,000 IU) of Enoxaparin Sodium was awarded to M/s Emcure Pharmaceuticals Ltd., of India for $ 751,500, also based on the recommendation of the Standing High-Level Procurement Committee.
+
+...
+
+[Data](articles/b8979fd1.json)
+
+---
+
+### Governor-General of Australia Samantha Joy Mostyn arrives in Sri Lanka
+
+*2025-08-07 03:48:56* · [`dailyftlk`](https://www.ft.lk/news/Governor-General-of-Australia-Samantha-Joy-Mostyn-arrives-in-Sri-Lanka/56-780027) · `en`
+
+At the invitation of President Anura Kumara Disanayake, Governor-General of Australia Samantha Joy Mostyn arrived in Sri Lanka yesterday for a three-day official visit.
+
+The delegation, headed by the Governor-General, was welcomed at the Bandaranaike International Airport in Katunayake by Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath.
+
+During her visit, Governor-General Mostyn is scheduled to hold bilateral discussions with President Disanayake and Prime Minister Dr. Harini Amarasuriya. The discussions will focus on further strengthening bilateral cooperation between Australia and Sri Lanka and exploring new opportunities to expand partnerships for the mutual benefit of both countries.
+
+During her stay in Sri Lanka, the Governor-General is also expected to tour several parts of the country, including visits to Bandaragama, Mirissa, and Weligama, where she will observe several projects supported by the Australian Government.
+
+...
+
+[Data](articles/9132d0c3.json)
+
+---
+
+### Colombo Magistrate’s Court orders to remand Shasheendra till 19 Aug.
+
+*2025-08-07 03:48:15* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Magistrate-s-Court-orders-to-remand-Shasheendra-till-19-Aug/56-780026) · `en`
+
+The Colombo Magistrate’s Court yesterday ordered to remand former State Minister Shasheendra Rajapaksa till 19 August.
+
+The order was issued by Colombo Chief Magistrate Thanuja Lakmali Jayathunga, after being arrested on charges of corruption and conspiracy.
+
+Rajapaksa was arrested by Commission to Investigate Allegations of Bribery or Corruption (CIABOC) officers at his residence in Nugegoda yesterday morning.
+
+It was reported that he was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of Government land in the Sevanagala-Kiriibban Wewa area, which was set on fire during the 2022 islandwide protests.
+
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on 9 May 2022, the Bribery Commission stated.
+
+...
+
+[Data](articles/9c2a629d.json)
+
+---
 
 ### INSEE Cement and SLINTEC forge partnership for sustainable construction innovation
 
@@ -1749,55 +1803,5 @@ Chinese state television has shown workers spraying clouds of disinfectant aroun
 ...
 
 [Data](articles/5a8ece9c.json)
-
----
-
-### தினமும் 2 முட்டைகள் இட்ட கோழியின் சோகக் கதை
-
-*2025-08-06 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தினமும்-2-முட்டைகள்-இட்ட-கோழியின்-சோகக்-கதை/73-362433) · `ta`
-
-"தங்க முட்டையிடும் வாத்து" என்பது ஒரு பிரபலமான நீதிக்கதை ஆகும், இதில் ஒரு வாத்து தினமும் தங்க முட்டை இடும். அதை விற்று அந்த மனிதன் பணக்காரனாகிறான். அவனுக்கு பேராசை வந்து, வாத்தின் வயிற்றில் எல்லா முட்டைகளையும் ஒரே நேரத்தில் எடுக்க முயற்சி செய்து, அதனால் வாத்தை கொன்றுவிடுகிறான். இறுதியில், அவனுக்கு தங்க முட்டைகள் கிடைக்காமல் ஏமாற்றமே மிஞ்சியது.
-
-அவ்வாறான சம்பவமொன்றே மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி பிரதேச செயலாளர் பிரிவிலுள்ள பாலமுனை பிரதேசத்தில்  இடம்பெற்றுள்ளது.
-
-பாலமுனை கூட்டுறவு சங்கத்திற்கு முன்பாக உள்ள கோழி இறைச்சி விற்பனை செய்யும் கடையில் கோழி ஒன்று தினமும் இரண்டு முட்டைகளை இட்டுள்ளது.
-
-குருநாகல் பிரதேசத்திலிருந்து  அண்மையில் கொள்வனவு செய்யப்பட்ட சிவப்பு நிறக் கோழியே 6 நாட்களும் 12 முட்டைகளை தொடர்ச்சியாக இட்டுள்ளது.
-
-...
-
-[Data](articles/d83965fe.json)
-
----
-
-### නිවසක් මතට වැටුණු පස් කන්දක් ඉවත් කරමින් සිටි පිරිසක් මතට තවත් පස් කන්දක් කඩා වැටෙයි
-
-*2025-08-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213085) · `si`
-
-නිවසක් මතට කඩා වැටුණු පස් කන්ද ඉවත් කරමින් සිටි පුද්ගලයින් පස්දෙනෙකු මතට තවත් පස් කන්දක් කඩා වැටී අනතුරක් සිදුව තිබේ.
-
-ප්‍රදේශවාසීන් මස්කෙළිය රෝහලේ වෛද්‍යවරුන්ගේ සහයෝගය ඇතිව පස් කන්දට යට වී සිටි පුද්ගලයින් 5දෙනා ගොඩට ගෙන මස්කෙළිය ප්‍රාදේශීය රෝහල වෙත ඇතුළත් කර ඇත.
-
-රෝහල් ගත කළ පුද්ගලයන්ගේ තත්ත්වය බරපතළ නොවන බව මස්කෙළිය ප්‍රාදේශීය රෝහලේ වෛද්‍යවරුන් පැවසීය.
-
-◼️
-
-[Data](articles/cb549e14.json)
-
----
-
-### ඉන්දියාවට එල්ලවිය හැකි ත්‍රස්ත තර්ජනයක් ගැන බුද්ධි අංශ අනතුරු අඟවයි
-
-*2025-08-06 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213084) · `si`
-
-සැප්තැම්බර් 22 සහ ඔක්තෝබර් 02 දින අතර ඉන්දියාව තුළ ත්‍රස්ත තර්ජනයක් එල්ලවිය හැකි බවට ඉන්දීය බුද්ධි අංශ වෙත තොරතුරු අනාවරණය වී තිබේ.
-
-එම තොරතුරු මත සියලු ඉන්දීය ගුවන්තොටුපොළ තුළ ආරක්ෂාව උපරිම ලෙස තර කරන ලෙසට එරට සිවිල් ගුවන් සේවා කාර්යාංශය අදාළ අංශ වෙත උපදෙස් ලබාදී ඇත.
-
-සමාජ විරෝධි කණ්ඩායම් හෝ ත්‍රස්තවාදී ක්‍රියාකාරකම් මත මෙම තර්ජනය එල්ලවිය හැකි බවද ඉන්දීය බුද්ධි අංශ අනතුරු අඟවා ඇති බව වැඩිදුරටත් වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/eefe58f1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 01:31:24**
+As of **2025-08-07 01:49:55**
 
 ## Newspaper Stats
 
-*Scraped **69,144** Articles*
+*Scraped **69,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
-dailyftlk | 4,867
+dailyftlk | 4,868
 adalk | 6,660
 adaderanalk | 8,591
 tamilmirrorlk | 10,099
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,144 articles have been extended.
+61,973 (89.6%) of 69,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### Intex Sri Lanka 2025 opens at BMICH
+
+*2025-08-07 01:16:54* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2025-opens-at-BMICH/34-779996) · `en`
+
+Worldex India Chairman and Managing Director Rajesh Bhagat, JAAF Chairman Saifuddin Jafferjee,  Worldex India Executive Director Arti Bhagat
+
+In a milestone moment for South Asia’s textile and apparel industry, Intex Sri Lanka 2025 officially commenced its 10th edition yesterday at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo.
+
+Celebrating a decade of industry impact and partnership-building, this year’s edition is larger, more global, and more future-forward than ever before.
+
+Worldex India Executive Director Arti Bhagat said: “As we celebrate 10 years of Intex Sri Lanka, this milestone is not just a reflection of the show’s growth—but of the region’s rising importance in global textile sourcing.”
+
+...
+
+[Data](articles/4bf996d0.json)
+
+---
 
 ### Uva Highlands Estate achieves all-time record price of Rs. 3,700 per kg for BOP Grade
 
@@ -1795,31 +1813,5 @@ The arrest of Indian fishermen by the Sri Lankan Navy on charges of straying int
 ◼️
 
 [Data](articles/62f2608e.json)
-
----
-
-### ඉන්දියාවේ ජල ගැලීම්වලින් 100කට අධික පිරිසක් අතුරුදන්
-
-*2025-08-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213082) · `si`
-
-උතුරු ඉන්දියාවේ උත්තරාකන්ද් ප්‍රාන්තයේ කඳුකර කලාපයක ඇතිවූ වැසි කුණාටුවක් සමඟ හටගත් හදිසි ජලගැලීමකින් පහත්බීම්වල පිහිටි නිවාස රැසක් විනාශ වී තිබේ.
-
-හානියට පත් ධරාලි ගම්මානයේ පුද්ගලයින් 100කට වැඩි පිරිසක් අතුරුදන්වූ අතර, සුන්බුන් අතර සිරවූ පිරිස් සෙවීමේ මෙහෙයුම් අඛණ්ඩව ක්‍රියාත්මකව පවතී.
-
-මෙම අනතුරින් එහි පිහිටි හමුදා කඳවුරක් ද වැනසී ඇති අතර, එහි සිටි හමුදා නිලධාරීන් නව දෙනෙක් ද අතුරුදන් පිරිස අතරට අයත්ය.
-
-ඊයේ (05) ධරාලි ගම්මානයට දැවැන්ත ජල ප්‍රහාරයක් ගලා ඒමෙන් පසු උත්තර්කාෂි දිස්ත්‍රික්කයේ ගමන් මාර්ග සහ ගොඩනැගිලි ජලයෙන් යට වී ඇත.
-
-අධික වර්ෂාපතනය හේතුවෙන් හානි වූ මාර්ග සහ දිස්ත්‍රික්ක වෙත නිලධාරීන්ට ප්‍රදේශය වීමට නොහැකි වී තිබේ.
-
-පසුගිය සති කිහිපය තුළ හිමාලයානු ප්‍රාන්තයේ උත්තරාකන්ඩ් අධික වර්ෂාව ඇද හැලෙමින් පවතී.
-
-ධරාලි ගම්මානය පිහිටා ඇති උත්තර්කාෂි නගරය විශේෂයෙන් බලපෑමට ලක්ව ඇති අතර, බොහෝ ස්ථානවල ගංවතුර වාර්තා වී ඇත.
-
-ඉදිරි දින කිහිපය තුළ ද කලාපයේ අධික වර්ෂාපතනයක් ඇති වනු ඇතැයි ඉන්දියාවේ කාලගුණ දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-◼️
-
-[Data](articles/c89bc1f7.json)
 
 ---

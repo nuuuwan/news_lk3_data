@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 16:07:05**
+As of **2025-08-06 16:24:09**
 
 ## Newspaper Stats
 
-*Scraped **69,063** Articles*
+*Scraped **69,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,214
 islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
-adalk | 6,651
+adalk | 6,652
 adaderanalk | 8,579
-tamilmirrorlk | 10,081
+tamilmirrorlk | 10,083
 virakesarilk | 11,495
-adaderanasinhalalk | 11,886
+adaderanasinhalalk | 11,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,063 articles have been extended.
+61,973 (89.7%) of 69,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### சஷீந்திர ராஜபக்ஷவுக்கு விளக்கமறியல்
+
+*2025-08-06 16:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-விளக்கமறியல்/175-362441) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகளால் இன்று காலை கைது செய்யப்பட்ட முன்னாள் விவசாய இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ, எதிர்வரும் 18 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/06097aeb.json)
+
+---
+
+### ශෂීන්ද්‍ර රාජපක්ෂ රිමාන්ඩ්
+
+*2025-08-06 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213092) · `si`
+
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කර තිබුණි.
+
+මහවැලි අධිකාරියට අයත් සෙවනගල, කිරිඉබ්බන් වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවරසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ල ඇතුළු දේපොළ කිහිපයක් 2022.05.09 වන දින පැවති ජනතා අරගලයේ දී හානියට පත්ව ඇත.
+
+එම දේපොළ සඳහා වන්දි ගෙවීමේ දී එය ශ්‍රී ලංකා මහවැලි අධිකාරිය සතු දේපොළක් බවට හඳුනාගෙන අදාළ වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබිය දී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ සමහර රජයේ නිලධාරීන්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර ඇතැයි ශෂීන්ද්‍ර රාජපක්ෂ මහතාට චෝදනා එල්ල වී තිබේ.
+
+...
+
+[Data](articles/9040f445.json)
+
+---
+
+### කොළඹ-කතරගම ප්‍රධාන මාර්ගය භාවිතා කරන රියදුරන් නිවේදනයක්
+
+*2025-08-06 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213090) · `si`
+
+ගන්දර පොලිස් වසමේ දෙවිනුවර උත්පලවන්න ශ්‍රී විෂ්ණු දේවාලයේ වාර්ෂික ඇසළ පෙරහර මංගල්‍යයේ කාවඩි පෙරහර හෙට දින (07) සවස 04.00 සිට රාත්‍රී 09.00 දක්වා හා අවසන් රන්දෝලි පෙරහර අනිද්දා දින (08) සවස 04.00 සිට රාත්‍රී 09.00 දක්වා වීථී සංචාරය කිරීමට නියමිතය.
+
+පෙරහර ගමන් ගන්නා කාලය තුළ කොළඹ කතරගම ප්‍රධාන මාර්ගය වසා තැබෙන බැවින් මෙම කාලය තුළ මෙම මාර්ගය භාවිතා කරන රථ වාහන රියදුරන් හට ඇති වන අපහසුතාවය අවම කිරීම සඳහා පහත විකල්ප මාර්ග භාවිතා කරන ලෙස පොලීසිය එම රියදුරන්ගෙන් ඉල්ලා සිටියි.
+
+• මාතර දෙස සිට තංගල්ල දෙසට ගමන් කරන රථ වාහන මැද්දවත්ත කාර්මික විද්‍යාලය අසලින් මාතර යටියන මාර්ගයට හරවා කැකණදුර හන්දියෙන් වේහැල්ල මාර්ගය ඔස්සේ දික්වැල්ල දක්වා ගමන් කළ හැකිය.
+
+• තංගල්ල දෙස සිට මාතර දෙසට ගමන් කරන රථ වාහන තලල්ල කාර්මික විද්‍යාලය අසලින් හරවා නාඔටුන්න මාර්ගය ඔස්සේ වියන්නරුව හන්දිය දක්වා ගොස් දික්වැල්ල වේහැල්ල මාර්ගය ඔස්සේ කැකණදුර හන්දියට පැමිණ කැකණදුර මාතර පාර ඔස්සේ මාතර දක්වා ගමන් කළ හැකිය.
+
+◼️
+
+[Data](articles/6bffa102.json)
+
+---
 
 ### ஜனாதிபதி நிதி முறைகேடு;சபையில் குழப்பம்(காணொளி)
 
@@ -47,6 +95,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/93dc0658.json)
+
+---
+
+### கசிப்பு மாமியார், மருமகள் கைது
+
+*2025-08-06 15:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கசிப்பு-மாமியார்-மருமகள்-கைது/76-362439) · `ta`
+
+தனமல்வில பொலிஸ் பிரிவுக்குட்பட்ட  கித்துல்கோட்டே பகுதியில், தனமல்வில பொலிஸாரால் செவ்வாய்க்கிழமை (05) அன்று மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  கசிப்பு விற்பனையில் ஈடுபட்டிருந்த பெண் ஒருவர் மற்றும் அவரது மருமகள் கைது செய்யப்பட்டுள்ளனர்.
+
+தனமல்வில, கித்துள் கோட்டை பகுதியைச் சேர்ந்த 53  மற்றும் 24 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளதுடன்  இதன்போது, கசிப்பு பாட்டில்கள் 46 மற்றும் கசிப்பு பாக்கெட்டுகள் 13 கைப்பற்றப்பட்டது.
+
+இக் கைது நடவடிக்கையின் போது 24 வயதுடைய பெண் பொலிஸ்  அதிகாரிகளின் கடமைகளுக்கு எதிர்ப்பு தெரிவித்து கடுமையாக இடையூறு செய்துள்ளதாக தெரிவிக்கப்படுகிறதுடன் இருவரையும் வெல்லவாய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/52714cfb.json)
 
 ---
 
@@ -207,6 +273,22 @@ Registered BYD’s in July fell to 787 units, from 1,254 in June. In June six us
 ...
 
 [Data](articles/e1cc920f.json)
+
+---
+
+### දයාසිරිගේ චෝදනාවට ආණ්ඩුවෙන් පිළිතුරු
+
+*2025-08-06 14:38:18* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගේ-චෝදනාවට-ආණ්ඩුවෙන්-පිළිතුරු/11-417761) · `si`
+
+තෙල් සංස්ථාවේ පිරිසක් දයාසිරි ජයසේකර මන්ත්‍රීවරයා සඳහන් කළ ආකාරයෙන් උද්ඝෝෂණයකට පහරදීමට නොගිය බවත්, ඔවුන් කොලොන්නාවේ සිට සාකච්ඡාවකට දෙමටගොඩට යෑම  පහරදීමකට යෑමක් ලෙස දයාසිරි මන්ත්‍රීවරයා හුවා දැක්වූ බවත් අමාත්‍ය අනුර කරුණාතිලක මහතා පැසීය.
+
+දයාසිරි ජයසේකර මහතා කළ ප්‍රකාශයට පාර්ලිමේන්තුවේදී අද (06දා) ප්‍රතිචාර දක්වමින් හෙතෙම සඳහන් කළේය.
+
+මහරගම පැවැත්වෙන උද්ඝෝෂණයක් සඳහා ලංකා තෙල් සංස්ථාවේ සේවකයන් පිරිසක් එන්.බී.6640 කියන වාහනයේ නැගලා යනවා කියලා. ඇත්තටම මෙතන සිද්ද වෙලා තියෙන්නේ තෙල් සංස්ථාවේ ඉන්න දෛනික වැටුප් ලබන සේවකයන් සහ සාමාන්‍යාධිකාරීවරයා සමග සාකච්ඡාවක් නියමිත වෙලා තිබුණා. ඒ සාකච්ඡාව සඳහා කොලොන්නාව සිට දෙමටගොඩට මේ වාහනයෙන් සේවකයන් ඇවිත් තිබෙනවා. දයාසිරි මන්ත්‍රීතුමා ඒ සාකච්ඡාවට යෑම තමයි උද්ඝෝෂණයකට පහරදීමක් ලෙස හුවා දැක්වමින් කටයුතු කළේ.
+
+◼️
+
+[Data](articles/ab0f4947.json)
 
 ---
 
@@ -1300,7 +1382,7 @@ Several properties, including a building that had been illegally constructed on 
 
 *2025-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213074) · `si`
 
-අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසමේ නිලධාරීන් විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසමේ නිලධාරීන් විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
 
 ප්‍රකාශයක් සටහන් කරගැනීමෙන් පසුව ඒ මහතා අද (06) පෙරවරුවේ අත්අඩංගුවට ගැනුණි.
 
@@ -1729,97 +1811,5 @@ The Bill has been drafted to revoke special privileges extended to former Presid
 ◼️
 
 [Data](articles/a87ab56d.json)
-
----
-
-### Bangladesh announces election as country marks year since ex-PM fled
-
-*2025-08-06 05:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111211/bangladesh-announces-election-as-country-marks-year-since-ex-pm-fled) · `en`
-
-Bangladesh will hold its first elections since protests toppled its former prime minister next February, the country’s interim leader said on the anniversary of her overthrow.
-
-Muhammad Yunus made the announcement at the end of a day of celebrations for what some have called the country’s “second liberation”.
-
-Sheikh Hasina fled to India on 5 August last year, following weeks of student-led protests, bringing an end to 15 years of increasingly authoritarian rule.
-
-Nobel laureate Yunus was brought in to head a caretaker government days later, promising reforms which some say he has struggled to deliver amid continuing political turmoil and a struggle to maintain law and order.
-
-Among the issues dividing the country’s politicians has been the date of the election. Yunus initially suggested June 2026 as a potential date.
-
-...
-
-[Data](articles/78d1bc0e.json)
-
----
-
-### Julie Chung urges bold reforms at 9th AGM of SL-USA Business Council
-
-*2025-08-06 05:50:50* · [`dailyftlk`](https://www.ft.lk/business/Julie-Chung-urges-bold-reforms-at-9th-AGM-of-SL-USA-Business-Council/34-779950) · `en`
-
-Sri Lanka - USA Business Council Committee for 2025/26 with US Ambassador Julie Chung
-
-US Ambassador Julie Chung last week cautioned Sri Lanka risked falling behind without bold reforms and structural change as the global economy is becoming increasingly competitive.
-
-She made this observation as the Chief Guest at the ninth Annual General Meeting of the Sri Lanka-USA Business Council of the Ceylon Chamber of Commerce. MAC Holdings CFO Tilak Gunawardena was appointed as the President of the committee for 2025/26.
-
-Emphasising that growth depended on more than just recovery, Chung also said, “Structural reforms, market diversification, reducing non-tariff barriers, inefficiencies in state-owned enterprises, and investing more in human capital and productivity: all of these things will be imperative for Sri Lanka to compete and thrive in the decade ahead.”
-
-...
-
-[Data](articles/697ecf20.json)
-
----
-
-### Resolution passed in Parliament to remove Deshabandu Tennakoon from IGP post forwarded to President
-
-*2025-08-06 05:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111210/resolution-passed-in-parliament-to-remove-deshabandu-tennakoon-from-igp-post-forwarded-to-president) · `en`
-
-The resolution which was passed in Parliament yesterday, to remove Deshabandu Tennakoon from the post of Inspector General of Police (IGP) has been forwarded to President Anura Kumara Dissanayake by Dr. Jagath Wickramaratne, the Office of the Secretary-General of Parliament said.
-
-The resolution for the removal of Deshabandu Tennakoon from the office of the IGP was passed in Parliament yesterday (05).
-
-A total of 177 Members of Parliament voted in favour of the motion while no MP voted against the resolution. Member of Parliament Ramanathan Archchuna abstained from voting.
-
-The vote was taken last evening after the resolution for the removal of Deshabandu Tennakoon from the office of the IGP, in terms of Section 17 of the Removal of Officers (Procedure) Act, No. 5 of 2002, was taken up for debate.
-
-The debate commenced following the presentation of the motion by Speaker Dr. Jagath Wickramaratne to the House.
-
-...
-
-[Data](articles/ad849ab4.json)
-
----
-
-### Several spells of light showers expected today
-
-*2025-08-06 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111209/several-spells-of-light-showers-expected-today) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa, Central and North-Western provinces and in the Galle and Matara districts today (06), the Department of Meteorology said.
-
-Showers or thundershowers will occur at a few places in the Uva and Eastern provinces and in the Mullaitivu district after 1.00 p.m., the Met. Department added.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/9ca7856d.json)
-
----
-
-### EDB hosts SFA delegation  to advance poultry exports from Sri Lanka to Singapore
-
-*2025-08-06 05:47:19* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-SFA-delegation-to-advance-poultry-exports-from-Sri-Lanka-to-Singapore/34-779949) · `en`
-
-Emphasises Sri Lanka’s potential to supply high-quality poultry products, backed by its disease-free status, strategic geographic position and competitive product offerings
-
-EDB and DAPH shortlists several local companies for potential export to Singapore; applications already been submitted to the SFA
-
-The Sri Lanka Export Development Board (EDB) last week (1 August) hosted a high-level meeting with a delegation from the Singapore Food Agency (SFA) to discuss the progress of audit of poultry slaughterhouses and further discussions on enabling Sri Lankan poultry exports to Singapore.
-
-The discussions built on two recent SFA inspection missions to Sri Lanka. The first visit, conducted in March 2024, covered New Anthony’s Farm, NELNA Farm, and Ceylon Grain Elevators. The second visit, held from 28 July to 1 August, included audits of DAPH, Pussella Farm, Jaya Farm, and Bairaha Farms PLC.
-
-...
-
-[Data](articles/2eb40f20.json)
 
 ---

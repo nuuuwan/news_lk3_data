@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 03:31:33**
+As of **2025-08-07 03:48:41**
 
 ## Newspaper Stats
 
-*Scraped **69,155** Articles*
+*Scraped **69,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,215
 economynextcom | 4,220
 dailymirrorlk | 4,733
-dailyftlk | 4,868
+dailyftlk | 4,870
 adalk | 6,660
 adaderanalk | 8,591
 tamilmirrorlk | 10,099
@@ -26,11 +26,39 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,155 articles have been extended.
+61,973 (89.6%) of 69,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### INSEE Cement and SLINTEC forge partnership for sustainable construction innovation
+
+*2025-08-07 03:30:22* · [`dailyftlk`](https://www.ft.lk/business/INSEE-Cement-and-SLINTEC-forge-partnership-for-sustainable-constructioninnovation/34-780025) · `en`
+
+From left: SLINTEC Research Scientist Nadun Ranepura, Executive Business Development Sewmini Yapa, Principal Scientist Dr. Sanjeewa Wijesinghe, Chief Executive Officer (Acting) Prof. Saman Seneweera, INSEE Cement Chief Operating Officer Thusith Gunawarnasuriya, Manufacturing Director Sushil Rathore, Director – Products and Solutions Portfolio Dr. Moussa Baalbaki, and General Manager – Quality and Technology Kalinda Dasanayaka
+
+INSEE Cement, Sri Lanka’s number one cement company with flagship brands INSEE Sanstha and Mahaveli Marine Plus representing over 55 years of trust, in a strategic move, has partnered the Sri Lanka Institute of Nanotechnology (SLINTEC), the nation’s premier research institution in advanced technologies, to launch a collaborative research program focused on driving innovation and sustainability in Sri Lanka’s construction sector.
+
+...
+
+[Data](articles/5441a582.json)
+
+---
+
+### DBL Night 2024: Honouring excellence in sales across Sri Lanka
+
+*2025-08-07 03:29:20* · [`dailyftlk`](https://www.ft.lk/business/DBL-Night-2024-Honouring-excellence-in-sales-across-Sri-Lanka/34-780024) · `en`
+
+Deen Brothers Imports (DBL) successfully hosted DBL Night 2024 at the Cinnamon Life Hotel, Colombo. The event celebrated and recognised the dedication and outstanding performance of DBL’s sales agents from across the island. As the largest recognition event organised by DBL since 2006, the night brought together over 500 sales agents. The ceremony was graced by prominent guests including Sri Lanka National Cricket Team Head Coach Sanath Jayasuriya and Dongcheng Senior Sales Manager Joe Chen.
+
+Top-performing sales agents across several categories including DBL machinery, Dongcheng power tools, spare parts, and accessories were honoured with exclusive gifts and vouchers. The highlight of the evening was the awarding of an all-expenses-paid five-day trip to Shanghai, China, for 30 outstanding agents in the Dongcheng category. This exclusive trip includes a visit to Dongcheng’s state-of-the-art manufacturing facility.
+
+...
+
+[Data](articles/cb348f35.json)
+
+---
 
 ### கானாவில் ஹெலிகாப்டர் விபத்து ; 2 அமைச்சர்கள் உட்பட 8 பேர் பலி!
 
@@ -1771,45 +1799,5 @@ Chinese state television has shown workers spraying clouds of disinfectant aroun
 ◼️
 
 [Data](articles/eefe58f1.json)
-
----
-
-### BYD leads Sri Lanka brand new car sales, Yadea top EV bike
-
-*2025-08-06 14:45:00* · [`economynextcom`](https://economynext.com/byd-leads-sri-lanka-brand-new-car-sales-yadea-top-ev-bike-235012/) · `en`
-
-ECONOMYNEXT  – China’s BYD leads brand new car and crossover sales in Sri Lanka, with 3,419 sold so far in 2025, though sales dropped in July, after Customs detained Atto 3 units, over a controversy involving motor size, vehicle registration day showed.
-
-In July EV registrations rose to 4,292 units up from 3,400 in June, an analysis of vehicle registry data by JB Securities, a Colombo-based brokerage, showed.
-
-Motor cars accounted for 264 units, SUVs 107 units, while the majority were two-wheelers, which recorded 3,802 units.
-
-Out of 35,232 vehicles registered in July, 26,171 were motor cycles.
-
-The majority of mobikes had internal combustion engines. Bajaj was the top brand with 10,178 and TVS followed with 7,563 followed by Yamaha at 3,378.
-
-Among electric 2-wheelers, Yadea was the top brand with 2,473. Nwow was 191.
-
-Registered BYD’s in July fell to 787 units, from 1,254 in June. In June six used BYDs were registered.
-
-...
-
-[Data](articles/e1cc920f.json)
-
----
-
-### දයාසිරිගේ චෝදනාවට ආණ්ඩුවෙන් පිළිතුරු
-
-*2025-08-06 14:38:18* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගේ-චෝදනාවට-ආණ්ඩුවෙන්-පිළිතුරු/11-417761) · `si`
-
-තෙල් සංස්ථාවේ පිරිසක් දයාසිරි ජයසේකර මන්ත්‍රීවරයා සඳහන් කළ ආකාරයෙන් උද්ඝෝෂණයකට පහරදීමට නොගිය බවත්, ඔවුන් කොලොන්නාවේ සිට සාකච්ඡාවකට දෙමටගොඩට යෑම  පහරදීමකට යෑමක් ලෙස දයාසිරි මන්ත්‍රීවරයා හුවා දැක්වූ බවත් අමාත්‍ය අනුර කරුණාතිලක මහතා පැසීය.
-
-දයාසිරි ජයසේකර මහතා කළ ප්‍රකාශයට පාර්ලිමේන්තුවේදී අද (06දා) ප්‍රතිචාර දක්වමින් හෙතෙම සඳහන් කළේය.
-
-මහරගම පැවැත්වෙන උද්ඝෝෂණයක් සඳහා ලංකා තෙල් සංස්ථාවේ සේවකයන් පිරිසක් එන්.බී.6640 කියන වාහනයේ නැගලා යනවා කියලා. ඇත්තටම මෙතන සිද්ද වෙලා තියෙන්නේ තෙල් සංස්ථාවේ ඉන්න දෛනික වැටුප් ලබන සේවකයන් සහ සාමාන්‍යාධිකාරීවරයා සමග සාකච්ඡාවක් නියමිත වෙලා තිබුණා. ඒ සාකච්ඡාව සඳහා කොලොන්නාව සිට දෙමටගොඩට මේ වාහනයෙන් සේවකයන් ඇවිත් තිබෙනවා. දයාසිරි මන්ත්‍රීතුමා ඒ සාකච්ඡාවට යෑම තමයි උද්ඝෝෂණයකට පහරදීමක් ලෙස හුවා දැක්වමින් කටයුතු කළේ.
-
-◼️
-
-[Data](articles/ab0f4947.json)
 
 ---

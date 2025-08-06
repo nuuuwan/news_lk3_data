@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 15:50:23**
+As of **2025-08-06 16:07:05**
 
 ## Newspaper Stats
 
-*Scraped **69,061** Articles*
+*Scraped **69,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,651
 adaderanalk | 8,579
-tamilmirrorlk | 10,079
+tamilmirrorlk | 10,081
 virakesarilk | 11,495
 adaderanasinhalalk | 11,886
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,061 articles have been extended.
+61,973 (89.7%) of 69,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### ஜனாதிபதி நிதி முறைகேடு;சபையில் குழப்பம்(காணொளி)
+
+*2025-08-06 15:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதி-முறைகேடு-சபையில்-குழப்பம்-காணொளி/175-362440) · `ta`
+
+ஜனாதிபதி நிதியத்திலிருந்து உதவி கோரியதாக எழுந்த குற்றச்சாட்டுக்கு எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா பதிலளித்தபோது பாராளுமன்றம் அமைதியிழந்தது.
+
+"எனது முதுகலை படிப்புக்காக ஜனாதிபதி நிதியிலிருந்து உதவி பெற விண்ணப்பித்தோம். அதில் சட்டவிரோதமானது எதுவும் இல்லை. என்னை ஒரு நேர்காணலுக்கு உட்படுத்திய பிறகு நான் ஒரு பெறுநராகத் தேர்ந்தெடுக்கப்பட்டேன்," என்று ராஜகருணா கூறினார்.
+
+"ஜேவிபி நிறுவனர் ரோஹண விஜேவீரவுக்கும் உதவித்தொகை வழங்கப்பட்டது, அதே நேரத்தில் மறைந்த அமைச்சர் லலித் அதுலத்முதலிக்கும் வெளிநாட்டில் படிக்க உதவித்தொகை வழங்கப்பட்டது," என்று அவர் மேலும் கூறினார்.
+
+எதிர்க்கட்சி உறுப்பினர்கள் தங்கள் செயல்களால் தங்கள் சொந்த நற்பெயருக்கு களங்கம் விளைவித்தால் அரசாங்கத்தால் உதவ முடியாது என்று சபைத் தலைவர் பிமல் ரத்நாயக்க கூறினார்.
+
+...
+
+[Data](articles/93dc0658.json)
+
+---
+
+### கசிப்புடன் மாமியார், மருமகள் கைது
+
+*2025-08-06 15:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கசிப்புடன்-மாமியார்-மருமகள்-கைது/76-362439) · `ta`
+
+தனமல்வில பொலிஸ் பிரிவுக்குட்பட்ட  கித்துல்கோட்டே பகுதியில், தனமல்வில பொலிஸாரால் செவ்வாய்க்கிழமை (05) அன்று மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  கசிப்பு விற்பனையில் ஈடுபட்டிருந்த பெண் ஒருவர் மற்றும் அவரது மருமகள் கைது செய்யப்பட்டுள்ளனர்.
+
+தனமல்வில, கித்துள் கோட்டை பகுதியைச் சேர்ந்த 53  மற்றும் 24 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளதுடன்  இதன்போது, கசிப்பு பாட்டில்கள் 46 மற்றும் கசிப்பு பாக்கெட்டுகள் 13 கைப்பற்றப்பட்டது.
+
+இக் கைது நடவடிக்கையின் போது 24 வயதுடைய பெண் பொலிஸ்  அதிகாரிகளின் கடமைகளுக்கு எதிர்ப்பு தெரிவித்து கடுமையாக இடையூறு செய்துள்ளதாக தெரிவிக்கப்படுகிறதுடன் இருவரையும் வெல்லவாய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/bf942d4a.json)
+
+---
 
 ### පාස්කු ප්‍රහාර නඩුව කල්යයි
 
@@ -1785,43 +1821,5 @@ The discussions built on two recent SFA inspection missions to Sri Lanka. The fi
 ...
 
 [Data](articles/2eb40f20.json)
-
----
-
-### India hits back at US, EU duplicity over its Russian oil imports
-
-*2025-08-06 05:46:10* · [`dailyftlk`](https://www.ft.lk/business/India-hits-back-at-US-EU-duplicity-over-its-Russian-oil-imports/34-779948) · `en`
-
-Government of India says targeting of India is unjustified and unreasonable
-
-Says India will take all necessary measures to safeguard its national interests and economic security
-
-Points to how both US and EU continue to maintain extensive trade relations with Russia
-
-Asserts that US and EU continue to import energy, metals, fertilisers, uranium and other chemicals and high-value industrial goods from Russia
-
-The Government of India has strongly rebutted criticism from the United States and the European Union over its continued imports of Russian oil, calling the stance unjustified and marked by double standards.
-
-...
-
-[Data](articles/967e59b3.json)
-
----
-
-### Sanken Overseas makes strategic investment in CL Synergy Group
-
-*2025-08-06 05:45:40* · [`dailyftlk`](https://www.ft.lk/business/Sanken-Overseas-makes-strategic-investment-in-CL-Synergy-Group/34-779947) · `en`
-
-Sanken Overseas Managing Director/CEO Mevan Gunathilake (left) and CL Synergy Co-Funder/Managing Director Roshan Silva exchanging signed agreements dossiers
-
-Sanken Overseas yesterday announced that it has made inroads into the freight and logistics sector through an investment in CL Synergy.
-
-The statement however didn’t disclose the value of investment or the percentage of equity stake.
-
-Sanken Overseas is a stalwart in the construction and real estate sectors, and the penning of an agreement from their end reaffirms the importance of the logistics sector to the economy. CL Synergy is a homegrown Logistics brand that is welcoming a new shareholder for the first time since its inception 21 years ago, which indicates its resolve to scale and grow beyond boundaries.
-
-...
-
-[Data](articles/6dd6f652.json)
 
 ---

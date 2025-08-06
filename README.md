@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 15:11:41**
+As of **2025-08-06 15:27:35**
 
 ## Newspaper Stats
 
-*Scraped **69,055** Articles*
+*Scraped **69,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,215
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,651
-adaderanalk | 8,578
-tamilmirrorlk | 10,076
+adaderanalk | 8,579
+tamilmirrorlk | 10,079
 virakesarilk | 11,495
-adaderanasinhalalk | 11,884
+adaderanasinhalalk | 11,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,055 articles have been extended.
+61,973 (89.7%) of 69,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### வௌ்ளை மாளிகையின் கூரையின் மீதேறிய ட்ரம்ப் (வீடியோ இணைப்பு)
+
+*2025-08-06 15:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வௌ்ளை-மாளிகையின்-கூரையின்-மீதேறிய-ட்ரம்ப்-வீடியோ-இணைப்பு/50-362434) · `ta`
+
+வெள்ளை மாளிகையின் கூரையில் ஒரு அசாதாரண இடத்திலிருந்து  செய்தியாளர்களின் கேள்விகளுக்கு ஜனாதிபதி டொனால்ட் டிரம்ப் பதிலளித்தார்.
+
+79 வயதான அவர் அங்கு 'அணு ஏவுகணைகளை உருவாக்குவதாக' குறிப்பிட்டார். அவர் ஒரு ஏவுகணையைக் காட்டி ஒரு சைகையையும் செய்தார்.
+
+ஒரு நிருபர், 'ஐயா, நீங்கள் ஏன் கூரையில் ஏறுகிறீர்கள்?' என்று கேட்டபோது, டிரம்ப் 'கொஞ்சம் நடந்து செல்கிறேன்' என்று நையாண்டி செய்தார்.
+
+200 மில்லியன் டாலர் மதிப்புள்ள கிழக்குப் பகுதியின் 'மறுபுறம் பால்ரூம்' பற்றியும் அவர் குறிப்பிட்டார்.
+
+வெள்ளை மாளிகையின் கூரையில் ஜனாதிபதி டிரம்ப் அமர்ந்திருக்கும் வீடியோக்கள் சமூக ஊடகங்களில் வைரலானன.
+
+காலை 9:40 மணிக்கு டிரம்ப் தோன்றினார், ரகசிய சேவை உறுப்பினர்கள் மேற்குப் பகுதியின் மேல் எதிர்-ஸ்னைப்பர்களை வைப்பது உட்பட பல்வேறு முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்ததைக் காண ஒரு மணி நேரத்திற்குப் பிறகு. காலை 10:45 மணிக்கு மாநில சாப்பாட்டு அறையிலிருந்து விளக்க அறையின் கூரைக்கு செல்லும் ஒரு கதவிலிருந்து ஜனாதிபதி வெளியேறினார்.
+
+...
+
+[Data](articles/a225474c.json)
+
+---
+
+### පුපුරා ගිය ටයිටන් සබ්මැරීන අනතුරේ අවසන් වාර්තාව එළියට
+
+*2025-08-06 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213086) · `si`
+
+ලොවක් බලා සිටි ටයිටන් සබ්මැරීනය පුපුරායාමට හේතුව වසර දෙකකට පසුව අමෙරිකා එක්සත් ජනපදයේ වෙරළාරක්ෂක සමුද්‍ර විමර්ශන මණ්ඩලය වාර්තාවක් මඟින් හෙළිකර තිබේ.
+
+වාර්තාවේ දැක්වෙන පරිදි ටයිටන් සබ්මැරීනය පුපුරායාමට ප්‍රධාන හේතුව වූයේ ටයිටන් සබ්මැරීනයේ ප්‍රධාන කොටස ප්‍රමාණවත් සැලසුම්, ඉදිකිරීම් සහ පරීක්ෂණ නොමැති වීම බවය.
+
+ඒ අනුව පුද්ගලයින් පස් දෙනෙකුට මරු කැඳවූ ව්‍යසනයට ටයිටන් සබ්මැරීනය හිමි සමාගම වන "ඕෂන්ගේට්" සමාගම වගකිව යුතු බව එම වාර්තාවේ සඳහන්ය.
+
+එමෙන්ම එම වාර්තාව මඟින් දැක්වෙන්නේ ටයිටන් සබ්මැරීනය පුපුරායාම වළක්වා ගැනීමට ඉඩකඩ තිබූ බවය.
+
+2021, 2022 සහ 2023 ආරම්භය පුරා පරීක්ෂණ සිදුකළ සහ කිමිදුම් අතරතුර ටයිටන්හි බොහෝ තාක්ෂණික ගැටලු, අලුත්වැඩියාවන් සහ නඩත්තු ගැටලු වාර්තාවේ විස්තර කර ඇත.
+
+අවසාන වශයෙන් එක්සත් ජනපදයේ සියලුම ගිල්විය හැකි ද්‍රව්‍ය ඒකාකාර ප්‍රමිතීන් යටතේ ඉදිකර නඩත්තු කළ යුතු බවට නව රෙගුලාසියක් අනුගමනය කරන ලෙස වෙරළාරක්ෂක බළකායෙන් ඉල්ලා සිටින ලෙසට ද අදාළ වාර්තාව තුළ වැඩිදුර සඳහන්ය.
+
+...
+
+[Data](articles/5a8ece9c.json)
+
+---
+
+### தினமும் 2 முட்டைகள் இட்ட கோழியின் சோகக் கதை
+
+*2025-08-06 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தினமும்-2-முட்டைகள்-இட்ட-கோழியின்-சோகக்-கதை/73-362433) · `ta`
+
+"தங்க முட்டையிடும் வாத்து" என்பது ஒரு பிரபலமான நீதிக்கதை ஆகும், இதில் ஒரு வாத்து தினமும் தங்க முட்டை இடும். அதை விற்று அந்த மனிதன் பணக்காரனாகிறான். அவனுக்கு பேராசை வந்து, வாத்தின் வயிற்றில் எல்லா முட்டைகளையும் ஒரே நேரத்தில் எடுக்க முயற்சி செய்து, அதனால் வாத்தை கொன்றுவிடுகிறான். இறுதியில், அவனுக்கு தங்க முட்டைகள் கிடைக்காமல் ஏமாற்றமே மிஞ்சியது.
+
+அவ்வாறான சம்பவமொன்றே மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி பிரதேச செயலாளர் பிரிவிலுள்ள பாலமுனை பிரதேசத்தில்  இடம்பெற்றுள்ளது.
+
+பாலமுனை கூட்டுறவு சங்கத்திற்கு முன்பாக உள்ள கோழி இறைச்சி விற்பனை செய்யும் கடையில் கோழி ஒன்று தினமும் இரண்டு முட்டைகளை இட்டுள்ளது.
+
+குருநாகல் பிரதேசத்திலிருந்து  அண்மையில் கொள்வனவு செய்யப்பட்ட சிவப்பு நிறக் கோழியே 6 நாட்களும் 12 முட்டைகளை தொடர்ச்சியாக இட்டுள்ளது.
+
+...
+
+[Data](articles/d83965fe.json)
+
+---
 
 ### නිවසක් මතට වැටුණු පස් කන්දක් ඉවත් කරමින් සිටි පිරිසක් මතට තවත් පස් කන්දක් කඩා වැටෙයි
 
@@ -168,6 +230,24 @@ Registered BYD’s in July fell to 787 units, from 1,254 in June. In June six us
 
 ---
 
+### Sri Lankan Navy arrests 14 fishermen from Rameshwaram for cross-border fishing
+
+*2025-08-06 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111233/sri-lankan-navy-arrests-14-fishermen-from-rameshwaram-for-cross-border-fishing) · `en`
+
+The Sri Lankan Navy has arrested 14 fishermen from Rameswaram of Tamil Nadu on charges of fishing across the border.
+
+Ten fishermen went fishing in a motorboat of one Maran from the Pamban South Fishing Port. They were apprehended near the Kalpitiya sea area and were taken to the Puttalam Naval Base.
+
+The Sri Lankan Navy has informed that after initial questioning of the fishermen, they have been handed over to the Puttalam Fisheries Department. Similarly, four fishermen from Thiruppalaikudi who went fishing have also been arrested by the Sri Lankan Navy and taken to Kankesan Port in Sri Lanka. They will be produced in court soon, officials have said.
+
+The arrest of Indian fishermen by the Sri Lankan Navy on charges of straying into their waters is becoming a recurring story. The Tamil Nadu government has been continuously pressuring the Central government on the issue.
+
+...
+
+[Data](articles/49f49a80.json)
+
+---
+
 ### மண் மேட்டுக்குள் சிக்கிய ஐவர் பத்திரமாக மீட்பு
 
 *2025-08-06 13:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்-மேட்டுக்குள்-சிக்கிய-ஐவர்-பத்திரமாக-மீட்பு/76-362427) · `ta`
@@ -177,6 +257,18 @@ Registered BYD’s in July fell to 787 units, from 1,254 in June. In June six us
 ◼️
 
 [Data](articles/274aa983.json)
+
+---
+
+### மண் மேட்டுக்குள் சிக்கிய அறுவர் பத்திரமாக மீட்பு
+
+*2025-08-06 13:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்-மேட்டுக்குள்-சிக்கிய-அறுவர்-பத்திரமாக-மீட்பு/76-362427) · `ta`
+
+மஸ்கெலியா - சாமிமலை வீதியில் உள்ள பனியன் பாலத்திற்கு அருகில் சரிந்த மண் மேட்டை அகற்றும் பணியில் ஈடுபட்டிருந்த 6 தொழிலாளர்கள் மீது மற்றொரு மண் மேடு சரிந்து விழுந்துள்ளது.
+
+◼️
+
+[Data](articles/a49d6975.json)
 
 ---
 
@@ -1713,87 +1805,5 @@ Confederation of MSMI Founder President Nawaz Rajabdeen said: “We welcome this
 ...
 
 [Data](articles/193e4883.json)
-
----
-
-### Marine pollution issues relating to nurdles spill in Sri Lanka
-
-*2025-08-06 05:36:13* · [`dailyftlk`](https://www.ft.lk/opinion/Marine-pollution-issues-relating-to-nurdles-spill-in-Sri-Lanka/14-779944) · `en`
-
-During the 32nd volunteer mobilisation, 27 dedicated volunteers from The Pearl Protectors collected 15 kg of nurdles from
-
-the Mount Lavinia shoreline, continuing efforts to protect Sri Lanka’s marine ecosystems
-
-Between May and June 2021, the MV X-Press Pearl incident released over 1,680 tons of nurdles into Sri Lanka’s marine environment. This event is regarded as the largest single incident of marine plastic pollution in history, with severe and long-lasting consequences for ecosystems, fishing industries, and coastal communities.
-
-Sri Lanka has national environmental laws administered by the Central Environmental Authority (CEA) under the Ministry of Environment. These laws are based on the “Polluter Pays Principle”, which has been applied in past environmental cases. Public interest organisations, such as the Environmental Foundation Ltd. (EFL) and the Centre for Environmental Justice (CEJ), have filed lawsuits to protect affected communities and ecosystems.
-
-...
-
-[Data](articles/07b181ce.json)
-
----
-
-### Delusion of fund raising: How a group of electrical engineers is starving power sector of investment
-
-*2025-08-06 05:31:35* · [`dailyftlk`](https://www.ft.lk/columns/Delusion-of-fund-raising-How-a-group-of-electrical-engineers-is-starving-power-sector-of-investment/4-779941) · `en`
-
-Generation and transmission must grow to support a growing economy and energy transition
-
-The amendments to the Electricity Act No. 36 of 2024 will be debated in Parliament today (6 August) and will likely pass with a majority of votes, due to the NPP voting block. During the run-up to the parliamentary debate, the amendments, and its custodian, Pubudu Niroshan, the Director General of the Power Sector Reform Secretariat (PSRS), has managed to unify almost all the sector participants in opposition.
-
-...
-
-[Data](articles/7d6a916e.json)
-
----
-
-### From toe-hold to freehold: Zionist occupation strategies-unlimited
-
-*2025-08-06 05:26:31* · [`dailyftlk`](https://www.ft.lk/columns/From-toe-hold-to-freehold-Zionist-occupation-strategies-unlimited/4-779940) · `en`
-
-It demolishes Palestinian homes and occupies their lands, detains and kills, as it pleases; and then along with its allies, accuses those who object, of anti-Semitism
-
-When Trump arrogantly suggested that the neighbouring Arab States should absorb the Gaza population as a solution to Israel’s decimation of Gaza, he announced what discerning persons the world over, had already perceived. The earliest Zionist Israeli arrivals, courtesy Lord Balfour, had come to take it all.
-
-From a toehold then, to a freehold today, Israel has turned international law, UN mechanisms for a safer world and street ethics, on its head. It demolishes Palestinian homes and occupies their lands, detains and kills, as it pleases; and then along with its allies, accuses those who object, of anti-Semitism.
-
-...
-
-[Data](articles/0afc5e31.json)
-
----
-
-### Defence Ministry has its say over remanding of former Navy Commander Ulugetenne
-
-*2025-08-06 05:23:05* · [`dailyftlk`](https://www.ft.lk/opinion/Defence-Ministry-has-its-say-over-remanding-of-former-Navy-Commander-Ulugetenne/14-779939) · `en`
-
-With reference to the article titled “Letter of concern to Defence Secretary over arrest of former navy Chief” published on 31 July in the Daily FT (https://www.ft.lk/opinion/Letter-of concern-to-Defence-Secretary-over arrest-of-former-navy-Chief/14-779697), the Legal Division of the Defence Ministry has issued the following statement.
-
-Admiral (Rtd) D.N.S. Ulugetenne was arrested by the Criminal Investigation Department (CID) on 28 July 2025 in connection with the alleged disappearance of a civilian from Pothuhera during his tenure as Director of Naval Intelligence. He was produced before the Magistrate’s Court of Polgahawela and has since been remanded until 13 August 2025.
-
-It has been observed that said article cites Sections 109 to 120 of the Navy Act, which are entirely irrelevant to the matter at hand. This reflects a significant oversight and demonstrates a lack of understanding of the legal framework governing Sri Lanka Navy.
-
-...
-
-[Data](articles/b6976733.json)
-
----
-
-### The history debate: Which history?
-
-*2025-08-06 05:20:59* · [`dailyftlk`](https://www.ft.lk/columns/The-history-debate-Which-history/4-779938) · `en`
-
-If our future is to be different from that bloody past, one obvious starting point is how that past is interpreted and narrated
-
-“The story you tell eventually, as a professional historian, is not just what you find in the documents. It is not just the facts. It has a lot to do with your moral positions, your ideological orientation, the time in which you write, and your personality. They are all factors that influence the story you finally tell.”
-
-Ilan Pappé (History is relevant: The Israeli New History and its legacy)
-
-It took almost four decades and tens of thousands of deaths for Sri Lanka to adopt a language policy matching national and international realities. Sinhala and Tamil are official languages, English the link language. There’s political and societal consensus that the Sinhala Only policy of 1956, which relegated Tamil to secondary status and turned English into the preserve of a privileged few, was a pivotal error.
-
-...
-
-[Data](articles/53d2157d.json)
 
 ---

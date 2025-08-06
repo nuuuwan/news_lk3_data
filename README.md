@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-06 19:51:40**
+As of **2025-08-06 20:07:51**
 
 ## Newspaper Stats
 
-*Scraped **69,106** Articles*
+*Scraped **69,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,220
 dailymirrorlk | 4,733
 dailyftlk | 4,864
 adalk | 6,654
-adaderanalk | 8,585
+adaderanalk | 8,587
 tamilmirrorlk | 10,093
 virakesarilk | 11,503
 adaderanasinhalalk | 11,894
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.7%) of 69,106 articles have been extended.
+61,973 (89.7%) of 69,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-06 (Wednesday)
+
+### 96ஆவது அகவையில் தடம் பதிக்கிறது வீரகேசரி! : நூற்றாண்டை நோக்கி வீறுநடை!
+
+*2025-08-06 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221915) · `ta`
+
+வரலாற்றில் இன்று, அதிசிறப்பான ஒரு நாள். ஒரு தமிழ்ப் பத்திரிகைப் பரம்பரையின் முதல் தலைமுறை, முதல் முறையாகக் கண்டு, கைகளில் தாங்கி, முகர்ந்து, அறிவாலும் உணர்வுகளாலும் அனுபவித்துக் கொண்டாடிய, ஒரு நாளேட்டின் உதயம், இதே புதன்கிழமையில், இதே திகதியில், 95 ஆண்டுகளுக்கு முன் நிகழ்ந்தது.
+
+“இலங்கைவாழ் தமிழ் மக்கள் பேராவலோடு எதிர்நோக்கியிருந்த சீரிய, தேசீய, செந்தமிழ்த் தேன்பிலிற்றும், தினசரி ‘வீரகேசரி’ என்ற இன்னுரைக் களஞ்சியம் வெளிவந்துவிட்டது!” என்ற பேரறிவிப்போடு, 1930ஆம் ஆண்டு ஆகஸ்ட் மாதம் 6ஆம் திகதி நிகழ்ந்த, அந்த அற்புதமான, அதி உன்னதமான தொடக்கத்தையும், இன்றைய தினம், 95ஆவது அகவையை நிறைவு செய்து, 96ஆவது அகவையில் தடம் பதித்திருக்கும் ‘வீரகேசரி’யையும், சிரேஷ்ட மற்றும் புதிய தலைமுறை ஊழியர்கள், வாசகர்கள் என அனைவரும் ஆத்மார்த்தமாக மகிழ்ந்து வரவேற்கின்றனர் என்பதை இக்கணம் உணர முடிகிறது.
+
+...
+
+[Data](articles/62b35e92.json)
+
+---
 
 ### 1,408 வைத்தியர்களை நியமிக்க விண்ணப்பங்கள் கோரப்படுகின்றன
 
@@ -45,6 +59,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2931b36a.json)
+
+---
+
+### Governor-General of Australia arrives in Sri Lanka on three-day visit
+
+*2025-08-06 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111244/governor-general-of-australia-arrives-in-sri-lanka-on-three-day-visit) · `en`
+
+At the invitation of President Anura Kumara Dissanayake, the Governor-General of Australia, Samantha Joy Mostyn, arrived in Sri Lanka this afternoon (06) for a three-day official visit.
+
+The delegation headed by the Governor-General was welcomed at the Bandaranaike International Airport in Katunayake by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, the President’s Media Division (PMD) said.
+
+During her visit, Governor-General Mostyn is scheduled to hold bilateral discussions with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
+
+The discussions will focus on further strengthening bilateral cooperation between Australia and Sri Lanka and exploring new opportunities to expand partnerships for the mutual benefit of both countries, the PMD added.
+
+...
+
+[Data](articles/11e89b43.json)
 
 ---
 
@@ -98,17 +130,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 96ஆவது அகவையில் தடம் பதிக்கிறது வீரகேசரி! : நூற்றாண்டை நோக்கி வீறுநடை!
+### Illegally assembled luxury vehicle seized in Ganemulla
 
-*2025-08-06 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/221915) · `ta`
+*2025-08-06 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111243/illegally-assembled-luxury-vehicle-seized-in-ganemulla) · `en`
 
-வரலாற்றில் இன்று, அதிசிறப்பான ஒரு நாள். ஒரு தமிழ்ப் பத்திரிகைப் பரம்பரையின் முதல் தலைமுறை, முதல் முறையாகக் கண்டு, கைகளில் தாங்கி, முகர்ந்து, அறிவாலும் உணர்வுகளாலும் அனுபவித்துக் கொண்டாடிய, ஒரு நாளேட்டின் உதயம், இதே புதன்கிழமையில், இதே திகதியில், 95 ஆண்டுகளுக்கு முன் நிகழ்ந்தது.
+A luxury vehicle estimated to be valued at around Rs. 30 million and suspected to have been illegally assembled has been discovered in the Ganemulla area.
 
-“இலங்கைவாழ் தமிழ் மக்கள் பேராவலோடு எதிர்நோக்கியிருந்த சீரிய, தேசீய, செந்தமிழ்த் தேன்பிலிற்றும், தினசரி ‘வீரகேசரி’ என்ற இன்னுரைக் களஞ்சியம் வெளிவந்துவிட்டது!” என்ற பேரறிவிப்போடு, 1930ஆம் ஆண்டு ஆகஸ்ட் மாதம் 6ஆம் திகதி நிகழ்ந்த, அந்த அற்புதமான, அதி உன்னதமான தொடக்கத்தையும், இன்றைய தினம், 95ஆவது அகவையை நிறைவு செய்து, 96ஆவது அகவையில் தடம் பதித்திருக்கும் ‘வீரகேசரி’யையும், சிரேஷ்ட மற்றும் புதிய தலைமுறை ஊழியர்கள், வாசகர்கள் என அனைவரும் ஆத்மார்த்தமாக மகிழ்ந்து வரவேற்கின்றனர் என்பதை இக்கணம் உணர முடிகிறது.
+The vehicle was found following a raid carried out based on a tip-off received by officers attached to the Walana Central Anti-Corruption Unit.
 
-...
+It is reported that the vehicle was found while in the possession of a well-known garage owner in the area.
 
-[Data](articles/62b35e92.json)
+The seized vehicle has been handed over to the Ganemulla Police for further investigations.
+
+◼️
+
+[Data](articles/d85da96e.json)
 
 ---
 
@@ -1803,33 +1839,5 @@ It has been suggested that the plan could be a negotiating tactic to pressure Ha
 ...
 
 [Data](articles/e20248bc.json)
-
----
-
-### ශෂීන්ද්‍ර රාජපක්ෂ අල්ලස් කොමිසමේ අත්අඩංගුවට
-
-*2025-08-06 10:47:50* · [`adalk`](https://www.ada.lk/breaking_news/ශෂීන්ද්‍ර-රාජපක්ෂ-අල්ලස්-කොමිසමේ-අත්අඩංගුවට/11-417755) · `si`
-
-හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අද(06දා) අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/42f473ef.json)
-
----
-
-### வீட்டின் பின்புறத்தில் புதைக்கப்பட்ட குழந்தையின் சடலம் மீட்பு
-
-*2025-08-06 10:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டின்-பின்புறத்தில்-புதைக்கப்பட்ட-குழந்தையின்-சடலம்-மீட்பு/76-362404) · `ta`
-
-ஒரு வீட்டின் பின்புறத்தில் இருந்து  ஒரு பெண் குழந்தையின் சடலம் செவ்வாய்க்கிழமை (05) மீட்கப்பட்டதாக மாவனெல்ல பொலிஸார் தெரிவித்தனர். கண்டி, டங்கொல்ல பகுதியில் ஒருவரின் ரகசிய தகவலைத் தொடர்ந்து இந்த சடலம் கண்டெடுக்கப்பட்டது.
-
-மாவனெல்லையில் உள்ள உறவினர் ஒருவரின் வீட்டில்  ஜூலை 31 ஆம் திகதி குழந்தை பிறந்திருந்தாலும், அந்த நேரத்தில் குழந்தை ஏற்கனவே இறந்துவிட்டதாகவும், எனவே அவரது தந்தை மற்றும் பாட்டி அதை ஒரு வெள்ளைத் துணியில் சுற்றி மத சடங்குகளைச் செய்த பின்னர் வீட்டின் முற்றத்தில் புதைத்ததாகவும் கர்ப்பிணிப் பெண் தெரிவித்துள்ளார்.
-
-மாவனெல்ல பதில் நீதவான் திருமதி எரங்கிகா வீரசிங்க முன்னிலையில் குழந்தையின் சடலம் மீட்கப்பட்டது. பின்னர் உடலை மாவனெல்ல மருத்துவமனைக்கு அனுப்ப உத்தரவிட்டார். சந்தேக நபர் தற்போது கண்டி மருத்துவமனையின்   சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/53d727df.json)
 
 ---

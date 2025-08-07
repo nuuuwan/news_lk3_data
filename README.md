@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 21:21:33**
+As of **2025-08-07 21:32:59**
 
 ## Newspaper Stats
 
-*Scraped **69,324** Articles*
+*Scraped **69,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,679
 adaderanalk | 8,613
 tamilmirrorlk | 10,143
 virakesarilk | 11,538
-adaderanasinhalalk | 11,936
+adaderanasinhalalk | 11,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,324 articles have been extended.
+61,973 (89.4%) of 69,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### බො‍රැල්ලේ වෙඩි තැබීමක්
+
+*2025-08-07 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213147) · `si`
+
+බො‍රැල්ල සහස් පුර ප්‍රදේශයේ අද (07) වෙඩි තැබීමක් සිදු ව තිබේ.
+
+මෙම වෙඩි තැබීම හේතුවෙන් පුද්ගලයින් 05 දෙනෙකු තුවාල ලබා ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/71afa4cd.json)
+
+---
 
 ### ගම්බිම් බලායන මගීන්ගෙන් මාකුඹුර පිරෙයි
 
@@ -1793,25 +1807,5 @@ Strategies for market diversification, product innovation, improving operational
 ◼️
 
 [Data](articles/bdbff10b.json)
-
----
-
-### CCTV footage of Navinna shooting
-
-*2025-08-07 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111257/cctv-footage-of-navinna-shooting) · `en`
-
-CCTV camera footage of the shooting incident that took place last night (06) in the Navinna area of Maharagama has been received by ‘Ada Derana’.
-
-According to the Police Media Division, two unidentified gunmen arrived on a scooter, opened fire targeting another person at around 9.20 p.m. yesterday, and subsequently fled the scene.
-
-The 28-year-old individual who sustained injuries in the incident has been admitted to the Kalubowila Hospital for further treatment.
-
-The shooting was reportedly carried out using a pistol-type firearm.
-
-However, the motive behind the shooting has not yet been revealed, police said.
-
-◼️
-
-[Data](articles/febcc1ca.json)
 
 ---

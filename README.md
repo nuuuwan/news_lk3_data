@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 14:26:13**
+As of **2025-08-07 14:40:08**
 
 ## Newspaper Stats
 
-*Scraped **69,250** Articles*
+*Scraped **69,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,667
-adaderanalk | 8,599
+adaderanalk | 8,604
 tamilmirrorlk | 10,133
 virakesarilk | 11,526
 adaderanasinhalalk | 11,921
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,921
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,250 articles have been extended.
+61,973 (89.5%) of 69,255 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ac531654.json)
+
+---
+
+### Myanmar’s figurehead president Myint Swe dies
+
+*2025-08-07 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111262/myanmars-figurehead-president-myint-swe-dies) · `en`
+
+Myint Swe, who became Myanmar’s president during a 2021 coup against an elected civilian government and immediately handed power to the military, has died a year after going on medical leave, a junta statement said on Thursday (Aug 7).
+
+“President U Myint Swe passed away at 8.28 am this morning,” said the junta, adding the 74-year-old had died in a hospital in the capital Naypyidaw.
+
+“It is hereby announced that the funeral of Pro Tem President U Myint Swe will be held as a state funeral.”
+
+State media said on Wednesday he was experiencing “weight loss, loss of appetite, fever and a decline in cognitive function” and had been admitted to intensive care.
+
+He became nominal president after the incumbent Win Myint was arrested during the coup alongside Nobel laureate and de facto leader, Aung San Suu Kyi. They have been detained ever since.
+
+...
+
+[Data](articles/b597472f.json)
 
 ---
 
@@ -113,6 +133,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0d14f346.json)
+
+---
+
+### No agreement finalized to reduce US tariff on Sri Lanka – President
+
+*2025-08-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111261/no-agreement-finalized-to-reduce-us-tariff-on-sri-lanka-president) · `en`
+
+President Anura Kumara Dissanayake says that no agreement has been finalized or signed to reduce the reciprocal tariff imposed by the United States on Sri Lankan exports to 20%.
+
+Speaking in Parliament today (7), he further said that discussions have already commenced with the US to try to further reduce the tariff rate.
+
+Meanwhile, the President also refuted rumours of restrictions on vehicle imports, assuring that there will be no change in the importation policy.
+
+He also stated that there will be no tax increases in the immediate future.
+
+◼️
+
+[Data](articles/9e893dd2.json)
+
+---
+
+### President arrives in Parliament
+
+*2025-08-07 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111260/president-arrives-in-parliament) · `en`
+
+President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
+
+◼️
+
+[Data](articles/56347116.json)
 
 ---
 
@@ -208,6 +258,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Presidents’ Entitlements (Repeal) Bill presented to parliament
+
+*2025-08-07 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111259/presidents-entitlements-repeal-bill-presented-to-parliament) · `en`
+
+The Presidents’ Entitlements (Repeal) Bill, which seeks to repeal the Presidents’ Entitlements Act, has been presented to the Parliament by the Minister of Justice Harshana Nanayakkara a short while ago.
+
+However, a heated argument arose in Parliament when the opposition pointed out that the bill could not be presented today (August 7) because the required number of days before presentation had not been completed.
+
+On July 31, the Presidents’ Entitlements (Repeal) Bill was gazetted. The bill was drafted to revoke special privileges extended to former Presidents and their widows.
+
+Earlier in July, the Cabinet of Minister granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986).
+
+...
+
+[Data](articles/10f7a31c.json)
+
+---
+
 ### சீனி மாபியாவை விசாரிக்க குழு நியமனம்
 
 *2025-08-07 11:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனி-மாபியாவை-விசாரிக்க-குழு-நியமனம்/175-362503) · `ta`
@@ -223,6 +291,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cf278fb1.json)
+
+---
+
+### Case against Namal Rajapaksa to be taken up in January
+
+*2025-08-07 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111258/case-against-namal-rajapaksa-to-be-taken-up-in-january) · `en`
+
+The Colombo Magistrate’s Court today (07) ordered that the case filed against Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa and several other suspects in connection with allegations that Rajapaksa committed an offence under the Prevention of Money Laundering Act by investing in NR Consultancy (Pvt.) Ltd. an amount of Rs. 15 million, allegedly earned through illegal means while serving as a Member of Parliament, be recalled on January 29.
+
+The complaint was taken up today before Colombo Chief Magistrate Thanuja Lakmali.
+
+During the trial, MP Namal Rajapaksa and the other suspects were present in the court.
+
+The Criminal Investigation Department (CID) informed the court that the Attorney General’s advice on the case has not yet been received.
+
+Accordingly, the Colombo Chief Magistrate Thanuja Lakmali ordered the case to be recalled on January 29 and instructed that reminders be sent regarding the Attorney General’s directions.
+
+...
+
+[Data](articles/d54c6b38.json)
 
 ---
 
@@ -1685,81 +1773,5 @@ The first session brought together women business owners already working within 
 ...
 
 [Data](articles/c1d40e5a.json)
-
----
-
-### Aligning private capital with public purpose: The role of banks in driving a true Sri Lankan revival-part II
-
-*2025-08-06 23:32:00* · [`islandlk`](http://island.lk/aligning-private-capital-with-public-purpose-the-role-of-banks-in-driving-a-true-sri-lankan-revival-part-ii/) · `en`
-
-Across Sri Lanka, we meet many other spirited entrepreneurs—from spice farms, and fisheries to young designers, software engineers, and even creative professionals – who each possess the drive and local insight to build vibrant businesses that can empower themselves financially, and create quality employment for others.
-
-Our role as a bank is to spot these visionaries early, to tailor financing and advisory support to their specific needs, and to partner with them as they scale. By doing so, we rebuild livelihoods and catalyse a new wave of valueadded enterprises that can compete nationally and even internationally.
-
-At its core, Sarusara seeks to help Sri Lankan farmers understand, integrate and adapt to technology in their work. Confronted with yields well below global benchmarks, rural communities remain tethered to traditional practices not out of preference but because of entrenched knowledge and resource gaps.
-
-...
-
-[Data](articles/893d6129.json)
-
----
-
-### nVentures emerges as Sri Lanka’s first MAS-licensed foreign VC, investing over US$1.5 million in Sri Lankan startups
-
-*2025-08-06 23:31:00* · [`islandlk`](http://island.lk/nventures-emerges-as-sri-lankas-first-mas-licensed-foreign-vc-investing-over-us1-5-million-in-sri-lankan-startups/) · `en`
-
-In a major milestone for Sri Lanka’s startup ecosystem, nVentures has emerged as the country’s first foreign venture capital firm to be licensed by Singapore’s Monetary Authority (MAS) and actively invest in local startups.
-
-In just three years, the firm has backed six Sri Lankan ventures, delivered a portfolio exit, and, together with its regional investor community, channelled over USD 1.5 million into Sri Lankan startups through capital and commercial partnerships. This includes investments in MintPay, Nanosoft, SimpleBooks, Shopbook, Dossiers, Kaiju Labs, and WealthOS, a UK fintech with its entire engineering team based in Sri Lanka.
-
-...
-
-[Data](articles/2b5ce834.json)
-
----
-
-### AIA Sri Lanka rises from Silver to Gold at Hashtag Asia Awards 2025
-
-*2025-08-06 23:30:00* · [`islandlk`](http://island.lk/aia-sri-lanka-rises-from-silver-to-gold-at-hashtag-asia-awards-2025/) · `en`
-
-AIA Sri Lanka has elevated its standing on the regional stage, winning Gold in the ‘Best Social Media Campaign: Facebook’ category at the Hashtag Asia Awards 2025. This marks a proud progression from last year’s Silver accolade, reinforcing the brand’s commitment to innovation and impact in digital storytelling. With this win, AIA becomes the first Sri Lankan brand to secure top honours at the Hashtag Asia Awards for two consecutive years.
-
-This year’s recognition celebrates AIA Sri Lanka’s pioneering initiative, AIA Suwa Walan, a culturally resonant campaign designed to raise awareness about breast cancer among Sri Lankan women. The campaign stood out among hundreds of entries from across Asia-Pacific, showcasing the power of creativity and digital engagement in driving meaningful social change.
-
-...
-
-[Data](articles/8d50ad85.json)
-
----
-
-### Low interest rates take bourse along revival track
-
-*2025-08-06 23:29:00* · [`islandlk`](http://island.lk/low-interest-rates-take-bourse-along-revival-track/) · `en`
-
-The CSE bounced back yesterday after two days due to the existence of conducive market conditions stemming from low interest rates. Accordingly, the market moved to green territory with all the macro- economic conditions in place for the market to grow, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 86.8 points while S and P SL20 rose by 11.3 points. Turnover stood at Rs 4.4 billion with nine crossings.
-
-Those crossings were reported in E B Creasy where 3.6 million shares crossed to the tune of Rs 218 million and its shares traded at Rs 60, NDB 500,000 shares crossed to the tune of Rs 70 million; its shares traded at Rs 140, Colombo Fort Land 750,000 shares crossed for Rs 59.2 million; its shares traded at Rs 79, VallibelOne 560,000 shares crossed to the tune of Rs 51.2 million; its shares sold at Rs 91.5, CIC Holdings 200,000 shares crossed for Rs 29 million; its shares traded at Rs 145.
-
-...
-
-[Data](articles/b36b1044.json)
-
----
-
-### ඝානා රාජ්‍යයේ හෙලිකොප්ටර් අනතුරක්
-
-*2025-08-06 23:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213107) · `si`
-
-අප්‍රිකානු රාජ්‍යක්වන ඝානාවේ අද (6) සිදු වූ හෙලිකොප්ටර් අනතුරකින් එරට අමාත්‍යවරු දෙදෙනෙකු ඇතුළු 8 දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මියගොස් ඇත්තේ එරට ආරක්ෂක අමාත්‍ය එඩ්වඩ් ඕමානේ බෝමා සහ පරිසර, විද්‍යා හා තාක්ෂණ අමාත්‍ය ඊබ්‍රහිම් මුර්තලා මුහම්මද් යන අමාත්‍යවරුන් බව සඳහන්.
-
-ඝානා රාජ්‍යයේ සිදුවන නීති විරෝධී පතල් කැණීම් මැඩපැවැත්වීම සඳහා ඔබුආසි නගරයට යමින් සිටියදී මෙම අනතුර සිදුව ඇත.
-
-◼️
-
-[Data](articles/7957c8a8.json)
 
 ---

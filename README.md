@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 14:54:51**
+As of **2025-08-07 15:10:53**
 
 ## Newspaper Stats
 
-*Scraped **69,255** Articles*
+*Scraped **69,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,226
 islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,667
+adalk | 6,668
 adaderanalk | 8,604
-tamilmirrorlk | 10,133
+tamilmirrorlk | 10,134
 virakesarilk | 11,526
-adaderanasinhalalk | 11,921
+adaderanasinhalalk | 11,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,255 articles have been extended.
+61,973 (89.5%) of 69,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### ගම්පහ ප්‍රදේශ කිහිපයකට පැය 10ක ජල කප්පාදුවක්
+
+*2025-08-07 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213130) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට එළැඹෙන සෙනසුරාදා (09) ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලප්‍රවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව උදෑසන 10.00 සිට පස්වරු 08.00 දක්වා පැය 10ක කාලයක් මෙලෙස ජල සැපයුම අත්හිටුවන බව සඳහන්ය.
+
+නිට්ටඹුව, කන්දහේන, මාපගොල්ල, කෝංගස්දෙනිය, පින්නගොල්ලවත්ත, කෝලවත්ත, ගොරකදෙනිය, රණ්පොකුණුගම නිවාස යෝජනා ක්‍රමය, බටලීය, අත්තනගල්ල, පස්යාල, ඌරාපොල, දික්කන්ද, මීවිටිගම්මානය, මාඉඹුල, මාතලාන, හග්ගල්ල, අලවන, කලල්පිටිය, ඇලමුල්ල යන ප්‍රදේශවලට මෙසේ ජල සැපයුම අත්හිටුවනු ඇත.
+
+එබැවින් එම ප්‍රදේශවල පාරිභෝගිකයින්ට අවශ්‍ය ජලය ගබඩා කර තබා ගැනීමට කටයුතු කරන ලෙස දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/68dd1ab3.json)
+
+---
 
 ### “கதவு சத்தமும் பேரே சத்தமும்”:ஜனாதிபதி விளக்கம்
 
@@ -330,6 +348,22 @@ Accordingly, the Colombo Chief Magistrate Thanuja Lakmali ordered the case to be
 
 ---
 
+### 49   பொருட்களால் பெண்களுக்கு ஆபத்து
+
+*2025-08-07 11:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-பொருட்களால்-பெண்களுக்கு-ஆபத்து/175-362502) · `ta`
+
+இலங்கையில் சந்தையில் விற்கப்படும் 49 வகையான அழகுசாதனப் பொருட்களில்,  அதிக அளவுகளில் கன உலோகங்கள் இருப்பதாக நுகர்வோர் விவகார ஆணைக்குழு தெரிவித்துள்ளது.
+
+அவற்றில், சருமத்தை வெண்மையாக்கப் பயன்படுத்தப்படும் அழகுசாதனப் பொருட்கள் மிக முக்கியமானவை என்று அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இதேவேளை, பொருத்தமற்ற அழகுசாதனப் பொருட்கள் இணையத்தின் ஊடாக விற்பனை செய்யப்படுவதை தடுக்க நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக அதிகாரிகள் கூறினர்.
+
+◼️
+
+[Data](articles/78819953.json)
+
+---
+
 ### கலியுக வரதன் வலம்…
 
 *2025-08-07 11:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலியுக-வரதன்-வலம்/175-362501) · `ta`
@@ -463,6 +497,24 @@ Accordingly, the Colombo Chief Magistrate Thanuja Lakmali ordered the case to be
 ◼️
 
 [Data](articles/fd97f109.json)
+
+---
+
+### අපුර වන්දනා නඩයක් ගමන්ගත් වෑන් රථයක් පෙරළෙයි
+
+*2025-08-07 11:33:05* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වන්දනා-නඩයක්-ගමන්ගත්-වෑන්-රථයක්-පෙරළෙයි/11-417775) · `si`
+
+මහනුවර–යාපනය ඒ 9 ප්‍රධාන මාර්ගයේ ගමන් කරමින් තිබූ  වෑන් රථයක්, අද (7දා) උදෑසන අනුරාධපුර ගල්කුලම ගල්වඩුවාගම ප්‍රදේශයේදී අනතුරකට ලක්ව, එම වෑන් රථයේ ගමන් කරමින් සිටි පුද්ගලයන් හයදෙනෙකු තුවාල ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව ති‍රප්පනේ පොලිසිය පවසයි.
+
+අදාළ පිරිස මතුගම සිට අනුරාධපුරයේ වන්දනාවක් සඳහා පැමිණෙමින් සිටි අතරතුර මෙම අනතුර සිදුවී ඇත. අනතුර සිදුවන අවස්ථාවේදී වෑන් රථයේ පුද්ගලයන් අටදෙනෙකු ගමන් කරමින් සිට ඇති අතර, රියදුරු ඇතුළු හයදෙනෙකු මෙලෙස  තුවාල ලබා රෝහල්ගත කර තිබේ.
+
+වෑන් රථයේ පිටුපස රෝදයක ඇතිවූ  දෝෂයක් හේතුවෙන් එම වාහනය මාර්ගයේ විරුද්ධ දිශාවට ඇදී ගොස්   පෙරළීයාමෙන් මෙම  අනතුර සිදුව ඇති බවද පොලිසිය සඳහන් කළේය.
+
+මෙම අනතුර සම්බන්ධයෙන් ති‍රප්පනේ පොලිසියේ රථ වාහන අංශයේ නිලධාරින්ගේ පිරිසක් වැඩිදුර විමර්ශන සිදු කරමින් පවතින බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/b4d1bfa3.json)
 
 ---
 
@@ -1727,51 +1779,5 @@ Two important pillars are essential for a fair and transparent tax system. They 
 ...
 
 [Data](articles/96bfe68b.json)
-
----
-
-### ’ட்ரம்பின் வழியில் செல்கிறது ஜே.வி.பி.’
-
-*2025-08-06 23:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்பின்-வழியில்-செல்கிறது-ஜே-வி-பி/175-362474) · `ta`
-
-ஜே.வி.பி. தமது தலைவரான ரோஹன விஜேவீரவின் கொள்கையை மாற்றி, அமெரிக்க ஜனாதிபதி ட்ரம்பை தமது தலைவராக   ஏற்றுக்கொண்டு அவரது கொள்கையை  முழுமையாகப் பின்பற்றுவதாக ஐக்கிய மக்கள் சக்தியின் எம்.பி. கபீர் ஹாசிம் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (06)  அன்ற இடம்பெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே  அவர் இவ்வாறு குறிப்பிட்டார்.
-
-அத்துடன்,  ட்ரம்பின் வழியிலேயே இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் தயாரிக்கப்பட்டுள்ளது என்றும் இந்த சட்ட மூலம் ஊழல் மோசடிக்கு வழிவகுக்கும்.என்பதனால் இந்த சட்டமூலத்தை ஏற்கமுடியாது என்றும் கூறினார்.
-
-மேலும், அரசாங்கம் தற்போது சமர்ப்பித்துள்ள இலங்கை மின்சார (திருத்தச்) சட்டமூலத்தில் இலங்கை மின்சார சபையின் தனியுரிமை முழுமையாகத் தனியார் நிறுவனங்களுக்கு வழங்கப் பரிந்துரைக்கப்பட்டுள்ளது. அத்துடன், தீர்மானம் எடுக்கும் உரிமை தெரிவு செய்யப்பட்ட அதிகாரிகளுக்கு வழங்கப்படவுள்ளது. எனவே, இது ஊழல் மோசடிக்கு வழிவகுக்கும். ஆகவே, இந்த சட்டமூலத்துக்கு எதிராகவே நாம்  வாக்களிப்போம்
-
-...
-
-[Data](articles/6a6e2a8a.json)
-
----
-
-### Evicting Mahinda, arresting Ulugetenne, becoming India’s Macau: Anura as Yeltsin
-
-*2025-08-06 23:48:30* · [`dailyftlk`](https://www.ft.lk/columns/Evicting-Mahinda-arresting-Ulugetenne-becoming-India-s-Macau-Anura-as-Yeltsin/4-779981) · `en`
-
-An authentically non-elitist leader who broke the caste-class barrier in 1988, President Ranasinghe Premadasa, (AKD doesn’t meet the first criterion), together with his elitist minister Ranjan Wijeratne, literally smashed the Colombo empire of casino king Joe Sim. Now, under Anura Dissanayake’s presidency and in his presence, Lawrence Ho, a Hong Kong born Canadian and CEO of Melco, recommends that Sri Lanka be to India what Macau is to China, and indicates that is our goal and trajectory. (https://www.dailymirror.lk/business-news/SL-poised-to-become-Indias-Macau-says-Melco-chief-at-JKHs-City-of-Dreams-launch/273-315867)
-
-...
-
-[Data](articles/4c17c379.json)
-
----
-
-### Intrepid together with MDF and SLTDA conducts empowering women in tourism capacity-building sessions in Bandarawela
-
-*2025-08-06 23:33:00* · [`islandlk`](http://island.lk/intrepid-together-with-mdf-and-sltda-conducts-empowering-women-in-tourism-capacity-building-sessions-in-bandarawela/) · `en`
-
-Intrepid Colombo has successfully concluded the third chapter of its transformative “Women in Tourism” initiative, expanding its reach to the Uva Province with two impactful capacity-building sessions held recently in Bandarawela.
-
-Conducted in partnership with Australia’s Market Development Facility (MDF) and the Sri Lanka Tourism Development Authority (SLTDA), the session welcomed a group of enthusiastic participants across two specialized workshops designed to empower women at different stages of their tourism careers.
-
-The first session brought together women business owners already working within the tourism industry, while the second welcomed aspiring and current female tour leaders, creating a comprehensive approach to women’s empowerment across the tourism value chain. Since its inception in September 2024, the program has seen a remarkable success.
-
-...
-
-[Data](articles/c1d40e5a.json)
 
 ---

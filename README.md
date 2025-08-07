@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 04:06:37**
+As of **2025-08-08 04:22:09**
 
 ## Newspaper Stats
 
-*Scraped **69,351** Articles*
+*Scraped **69,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
-dailyftlk | 4,883
+dailyftlk | 4,884
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,351 articles have been extended.
+61,973 (89.4%) of 69,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### Has Israel become a pariah State of the world?
+
+*2025-08-08 04:06:30* · [`dailyftlk`](https://www.ft.lk/columns/Has-Israel-become-a-pariah-State-of-the-world/4-780041) · `en`
+
+The direction being taken now by Israel is to totally disregard the status, wishes and above all the dignity and self-respect of the Palestinians, and usher a one-sided “Jewish” solution
+
+On 21 November 1938, Hitler met with the South African defence minister Oswald Pirow and told him that the Jews would be killed if war broke out. The same month, an official of Hitler’s chancellery told a British diplomat of German plans “to get rid of [German] Jews, either by emigration or if necessary, by starving or killing them” to avoid “having such a hostile minority in the country in the event of war” – Wikipedia
+
+“We can’t finish the war without eliminating Hamas leadership” – Prime Minister Netanyahu (https://www.i24news.tv/en/news/israel/ politics/ 1707129128-gantz-denies-plan-to-replace-netanyahu-through-likud-report)
+
+...
+
+[Data](articles/739ad892.json)
+
+---
 
 ### Wake-up call on human-elephant conflict and animal cruelty
 
@@ -1755,27 +1771,5 @@ President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
 ◼️
 
 [Data](articles/ec71cb15.json)
-
----
-
-### நாட்டில் தினமும் 8 உயிர்மாய்ப்பு சம்பவங்கள்
-
-*2025-08-07 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-தினமும்-8-உயிர்மாய்ப்பு-சம்பவங்கள்/175-362505) · `ta`
-
-சமூகத்தில் பல்வேறு காரணங்களால், பாடசாலை மாணவர்கள் தற்போது மன அழுத்தங்களுக்கு ஆளாகியுள்ளனர் என்று சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-கடந்த ஆண்டு நடத்தப்பட்ட ஒரு கணக்கெடுப்பில் இது தெரியவந்ததாக  சுகாதார அமைச்சின் விசேட வைத்திய நிபுணர் லக்மினி நயனா மகோதரத்ன தெரிவித்தார்.
-
-சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு அவர் இதனைக் கூறியுள்ளார்.
-
-“2024 ஆம் ஆண்டில், இலங்கையில் ஒரு பாடசாலை சுகாதார கணக்கெடுப்பு நடத்தப்பட்டது, தரவுகளைப் பார்த்தபோது, 22.4% மாணவர்கள் தனிமையால் பாதிக்கப்பட்டுள்ளனர்.
-
-13-17 வயதுடைய இந்த பாடசாலை செல்லும் மாணவர்களில் 11.9% பேர், ஏதோவொன்றைப் பற்றி கவலைப்படுவதால் இரவில் தூங்குவதில் சிரமப்படுவதாகக் கூறினர்.
-
-சுமார் 18% பேர் மனச்சோர்வின் அறிகுறிகளைக் கொண்டிருந்தனர். 7.5% பேருக்கு நெருங்கிய நண்பர்கள் இல்லை. 25% மாணவர்கள் தங்கள் மனதில் உள்ள ஒரு பிரச்சினையைப் பற்றி பேச யாராவது இருப்பதாகக் கூறினர்.
-
-...
-
-[Data](articles/e2fac4da.json)
 
 ---

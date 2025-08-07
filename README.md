@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 19:51:20**
+As of **2025-08-07 20:23:26**
 
 ## Newspaper Stats
 
-*Scraped **69,314** Articles*
+*Scraped **69,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 4,237
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,677
-adaderanalk | 8,611
-tamilmirrorlk | 10,140
+adaderanalk | 8,613
+tamilmirrorlk | 10,141
 virakesarilk | 11,538
-adaderanasinhalalk | 11,933
+adaderanasinhalalk | 11,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,314 articles have been extended.
+61,973 (89.4%) of 69,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### උසස් පෙළ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කෙරේ
+
+*2025-08-07 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213144) · `si`
+
+2024 අ.පො.ස. (උ/පෙළ) විභාගයෙහි නැවත සමීක්ෂණ ප්‍රතිඵල අද (07) නිකුත් කර තිබේ.
+
+එම ප්‍රතිඵල ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුවේ නිල වෙඩි අඩවි වන www.doenets.lk හෝ www.results.exams.gov.lk වෙත පිවිස විභාග අංකය හෝ ජාතික හැඳුනුම්පත් අංකය ඇතුළත් කිරීමෙන් ලබාගත හැකියි.
+
+මෙම නැවත සමීක්ෂණ ප්‍රතිඵල මත 2025 අ.පො.ස.(උ. පෙළ) විභාගය සඳහා අයදුම් කිරීමට බලාපොරොත්තු වන හා 2025 අ.පො.ස.(උ.පෙළ) විභාගය සඳහා අයදුම් කිරීමට ලබා දී තිබූ කාල සීමාව තුල අයදුම් කිරීමට නොහැකි වූ අයදුම්කරුවන්ට අද සිට 12 වැනිදා මධ්‍යම රාත්‍රී 12.00 දක්වා මාර්ගගත ක්‍රමය ඔස්සේ අයදුම්පත් ඉදිරිපත් කිරීමේ අවස්ථාව සලසා දී ඇත.
+
+◼️
+
+[Data](articles/e17a4eb9.json)
+
+---
+
+### சில மாவட்டங்களில் பல தடவைகள் மழை பெய்யும்
+
+*2025-08-07 19:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-362531) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடக்கு மாகாணங்களிலும் நுவரெலியா, கண்டி, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும், ஊவா மாகாணத்திலும், மட்டக்களப்பு மற்றும் அம்பாறை மாவட்டங்களிலும் பிற்பகல் 1.00 மணிக்குப் பிறகு சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிகமாக வீசும் பலத்த காற்று மற்றும் மின்னல் தாக்கத்தினால் ஏற்படும் ஆபத்துகளைக் குறைப்பதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களைக் கேட்டுக்கொண்டுள்ளது. R
+
+◼️
+
+[Data](articles/ae506faa.json)
+
+---
+
+### 3 charged with arranging to smuggle Sri Lankan national to Malaysia
+
+*2025-08-07 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111271/3-charged-with-arranging-to-smuggle-sri-lankan-national-to-malaysia) · `en`
+
+A woman and a Sri Lankan national are among three people charged in the sessions court in Klang, Malaysia, today with arranging the smuggling of another Sri Lankan national last month.
+
+G Santhiya Darshini, 27, and Janarthanan Appupillai, 46, both Malaysians, along with Vtheewaran Palani, 48, a Sri Lankan national, nodded to indicate they understood the charge after it was read to them in Tamil before judge Mohd Sabri Ismail.
+
+No plea was recorded as the case falls under the jurisdiction of the High Court.
+
+The trio is accused of jointly arranging the smuggling of a Sri Lankan migrant at Kuala Lumpur International Airport (KLIA) Terminal 1 on July 10.
+
+They were charged under Section 26C of the Anti-Trafficking in Persons and Anti-Smuggling of Migrants (Atipsom) Act 2007, read together with Section 34 of the Penal Code, which carries a maximum sentence of 15 years’ imprisonment and a fine, or both, upon conviction.
+
+...
+
+[Data](articles/646d1629.json)
+
+---
+
+### Sri Lanka’s official reserve up by 1% in July 2025
+
+*2025-08-07 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111270/sri-lankas-official-reserve-up-by-1-in-july-2025) · `en`
+
+Sri Lanka’s official reserve assets increased by 1% to USD 6.14 billion in July 2025, compared to USD 6.08 billion in June 2025, according to the Central Bank of Sri Lanka (CBSL).
+
+However, this figure includes proceeds from the swap arrangement with the People’s Bank of China (PBOC), which are subject to conditionalities on usability.
+
+◼️
+
+[Data](articles/9c0d4a29.json)
+
+---
 
 ### විදෙස් සංචිතය සියයට 1කින් ඉහළට
 
@@ -1729,81 +1795,5 @@ However, the motive behind the shooting has not yet been revealed, police said.
 ◼️
 
 [Data](articles/6e8bf005.json)
-
----
-
-### ’’அழுது கவலைகளை போக்க இங்க வாங்க ’’
-
-*2025-08-07 10:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழுது-கவலைகளை-போக்க-இங்க-வாங்க/175-362489) · `ta`
-
-"அழுது கவலைகளை போக்க இங்க வாங்க!"  அதற்காக  "Crying Club '' என்ற புதிய இடம் ஒன்று  இந்தியாவின் மும்பையில் உருவாக்கப்பட்டுள்ளது.
-
-மன உளைச்சலில் இருப்பவர்கள் தயக்கமின்றி அழுவதற்காக இந்த இடம் உருவாக்கப்பட்டுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-குறித்த இடத்திற்கு செல்பவர்களுக்கு tissue paper, தேநீர் , கட்டிப்பித்தல் ஆகியவை மூலம், ஆறுதல் வழங்கப்படும் என தெரிவிக்கப்படுகின்றது.
-
-எனினும், அதற்கான கட்டணம் தொடர்பாக விபரங்கள் எதுவும் இதுவரை குறிப்பிடப்படவில்லை என இந்திய ஊடகங்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/a5e3ebd9.json)
-
----
-
-### Sri Lanka parliamentarians’ views sought on education reforms
-
-*2025-08-07 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentarians-views-sought-on-education-reforms-235216/) · `en`
-
-ECONOMYNEXT – A parliamentary committee on education reforms has called for all members of Parliament to submit ideas and proposals.
-
-After the Sub-Committee on Education Reforms discusses the report being prepared by the ministry, the general public will be given an opportunity to submit their views and suggestions, a Parliament statement said.
-
-Prime minister/Education minister Harini Amarasuriya told the committee a public awareness campaign has been planned to provide the public with a clear understanding of the reforms.
-
-Education officials in 8 provinces have been briefed, except in the Uva Province.
-
-During the sub-committee meeting, discussions were also held on teacher training programs aligned with the new curriculum, teacher deployment plans for schools, and the approach to school infrastructure development. (Colombo/Aug7/2025)
-
-◼️
-
-[Data](articles/04f63682.json)
-
----
-
-### Three Indians arrested with 12kg of ‘Kush’ cannabis at BIA
-
-*2025-08-07 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111256/three-indians-arrested-with-12kg-of-kush-cannabis-at-bia) · `en`
-
-Three foreign nationals, one male and two females, have been arrested at the Bandaranaike International Airport (BIA) for attempting to smuggle 12 kilograms and 160 grams of ‘Kush’ cannabis into the country.
-
-According to the police, the suspects were apprehended this morning (07) at the arrival terminal of the BIA.
-
-The arrests followed a search carried out based on a tip-off received by officials of the Airport Unit of the Police Narcotics Bureau (PNB).
-
-The suspects are reported to be Indian nationals. The male suspect is 42 years old, while the female suspects are aged 22 and 43 while they are reportedly from the same family.
-
-The Airport Unit of the Police Narcotics Bureau is conducting further investigations.
-
-◼️
-
-[Data](articles/d02569d9.json)
-
----
-
-### பிரதான வீதியில் குளம் போல் தேங்கியுள்ள மழை நீர்
-
-*2025-08-07 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222022) · `ta`
-
-நானுஓயா டெஸ்போட் சந்தியிலிருந்து டயகாமம் செல்லும் பிரதான வீதி பல வருடகாலமாக புனரமைக்கப்படாமல் மிகவும் மோசமான நிலையில் காணப்படுகிறது. இந்நிலையில், வீதி எது குழி எது என்று தெரியாத அளவிற்கு பாதை குன்றும் குழியுமாக பயணிக்க முடியாத நிலைமை ஏற்பட்டுள்ளதாக பொதுமக்கள் குற்றஞ்சாட்டியுள்ளனர்.
-
-இந்த வீதிகளில் உள்ள குழிகள் நுவரெலியா வீதி அபிவிருத்தி சபையினால் தற்காலிகமாக நிரப்பப்படுவதும், அவை மழை பெய்யும் போது மீண்டும் உடைந்து குழியாகுவதும் தொடர் கதையாக உள்ளது என தெரிவிக்கின்றனர்.
-
-குறிப்பாக மெரயா மற்றும் கேம்ரி பகுதிகளில் ஆரம்பிக்கும் இடத்தில் வீதி எது குழி எது என்று தெரியாத அளவிற்கு பாதை குன்றும் குழியுமாக காணப்படுகின்றது. மேலும் வீதியில் நடுவில் உள்ள பாரிய குழிகளில் மழை நீர் குளம் போல் தேங்கி வீதியில் செல்ல முடியாத நிலையும் ஏற்பட்டுள்ளது.
-
-மேலும் வீதியில் இரண்டு புறமும் உள்ள  வடிகான்களில் உள்ள அடைப்புகளை சரி செய்யாததால் தற்போது தேங்கியுள்ள நீர் விரைவில் வடிவதற்கு எவ்வகையிலும் வழிவகை இல்லை எனவும் இவ்வாறு தேங்கியுள்ள நீரால் விஷ பூச்சிகள், நுளம்புகள் ஆகியவை அதிக அளவில் உள்ளது எனவும் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/374fe1d6.json)
 
 ---

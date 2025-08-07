@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 01:31:04**
+As of **2025-08-08 01:49:42**
 
 ## Newspaper Stats
 
-*Scraped **69,341** Articles*
+*Scraped **69,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
-dailyftlk | 4,873
+dailyftlk | 4,880
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,121 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,341 articles have been extended.
+61,973 (89.4%) of 69,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### SLT-Mobitel extends decade-long ICT partnership with Sri Dalada Maligawa
+
+*2025-08-08 01:29:35* · [`dailyftlk`](https://www.ft.lk/news/SLT-Mobitel-extends-decade-long-ICT-partnership-with-Sri-Dalada-Maligawa/56-780036) · `en`
+
+Preserving Sri Lanka’s cultural heritage and advancing digital transformation, SLT-Mobitel, the National ICT solutions provider, has extended its partnership with the Kandy Sri Dalada Maligawa, as the official ICT Service Provider for the 10th consecutive year.
+
+Consistently supporting the Sri Dalada Maligawa throughout the decade, the enduring partnership, highlights SLT-Mobitel’s deep-rooted commitment to delivering seamless cutting-edge technology to one of Sri Lanka’s most revered religious and cultural institutions.
+
+As part of the ongoing collaboration, SLT-Mobitel will provide the Sacred Temple with free, fibre-powered high-speed internet, PEO TV, and voice services powered by SLT-Mobitel’s advanced fibre network, completely free of charge.
+
+These state-of-the-art services empower and equip the Temple’s media centre to broadcast sacred religious ceremonies and cultural content seamlessly to devotees across the globe.
+
+...
+
+[Data](articles/4c90b080.json)
+
+---
+
+### Pakistan High Commission Colombo observes  Kashmir Youm-e-Istehsal Day
+
+*2025-08-08 01:28:32* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-Colombo-observes-Kashmir-Youm-e-Istehsal-Day/56-780035) · `en`
+
+The Pakistan High Commission, friends of Pakistan, diplomatic community and Pakistani diaspora jointly commemorated Kashmir Youm-e-Istehsal day. Six years have passed since 5 August 2019 when India took unilateral and illegal actions aimed at altering the internationally recognised disputed status of IIOJK and changing the demographic structure of the occupied territory.
+
+...
+
+[Data](articles/b6b7b6ad.json)
+
+---
+
+### Nations Trust WNPS lecture on care and release of orphaned elephants
+
+*2025-08-08 01:27:14* · [`dailyftlk`](https://www.ft.lk/news/Nations-Trust-WNPS-lecture-on-care-and-release-of-orphaned-elephants/56-780034) · `en`
+
+The next Nations Trust WNPS monthly lecture series will host Elephant Transit Home, Udawalawe Head Veterinarian Dr. Malaka Abeywardana on 14 August at 6 p.m. at the Jasmine Hall, BMICH.
+
+The lecture is themed ‘Bringing them Back: Inside the Care and Release of Orphaned Elephants.’
+
+In a nation famed for its elephants but scarred by rising human-elephant conflict, a sanctuary tucked into the edge of the Udawalawe National Park is quietly changing the future of elephant conservation — one calf at a time.
+
+The Elephant Transit Home (ETH), established in 1995 by Sri Lanka’s Department of Wildlife Conservation, is today recognised as the world’s most successful elephant rehabilitation and rewilding program. Its mission is bold but clear: rescue orphaned elephants, raise them wild, and return them to their natural home — the wild.
+
+...
+
+[Data](articles/5c68c715.json)
+
+---
+
+### Unseen Expressions: night of music, drama and dance
+
+*2025-08-08 01:25:34* · [`dailyftlk`](https://www.ft.lk/news/Unseen-Expressions-night-of-music-drama-and-dance/56-780033) · `en`
+
+The School for the Blind, Ratmalana will present “Ape Dekma – Unseen Expressions: a night of music, theatre, and dance” on 15 August, at 7 p.m. at the Methodist College Auditorium.
+
+The concert will feature the talents of over 75 visually impaired students from grades 1-11. A special guest performance by the Nuffield School for the Deaf and Blind, Kaithady will also be featured at the event.
+
+Tickets, priced Rs. 2,000, Rs. 1,500 and Rs. 1,000 (Balcony) will be available on weekdays (except on holidays) between 9 a.m.-2 p.m. at The School for the Blind, Ratmalana and Methodist College, Kollupitiya. The event is free-seating and guests are encouraged to arrive at least 15 minutes prior to the event to obtain their preferred seats.
+
+◼️
+
+[Data](articles/bc602bcd.json)
+
+---
+
+### SDF and partners launch regional AquaLivelihood Project to empower small-scale fish farmers and bolster nutrition security in South Asia
+
+*2025-08-08 01:24:13* · [`dailyftlk`](https://www.ft.lk/business/SDF-and-partners-launch-regional-AquaLivelihood-Project-to-empower-small-scale-fish-farmers-and-bolster-nutrition-security-in-South-Asia/34-780032) · `en`
+
+The SAARC Development Fund (SDF), in partnership with leading national institutions and technical government agencies of the five SAARC member countries, officially launched the AquaLivelihood Project in Colombo, Sri Lanka.
+
+Graced by Fisheries Minister Ramalingam Chandrasekar as the Chief Guest, the launch marks a pivotal regional effort to uplift smallholder fish farmers and improve nutrition security across the region.
+
+The three-year regional initiative represents a total investment of $ 3.97 million, including a $ 3.23 million grant from the SDF and $ 739,109 in in-kind co-financing. The project will directly benefit over 120,000 rural households, 30% of whom are women, across Bangladesh, Bhutan, India, Nepal, and Sri Lanka.
+
+...
+
+[Data](articles/ff8433db.json)
+
+---
+
+### Daraz Sri Lanka accelerates savings with the 8.8 Brand Prix Sale
+
+*2025-08-08 01:22:56* · [`dailyftlk`](https://www.ft.lk/business/Daraz-Sri-Lanka-accelerates-savings-with-the-8-8-Brand-Prix-Sale/34-780031) · `en`
+
+Daraz Sri Lanka is launching its 8.8 Brand Prix Sale this month, a week-long shopping festival, “packed with unbeatable discounts, massive voucher giveaways, and exclusive brand deals. Running from 8 to 15 August, this sale promises to be one of the most exciting events of the year for value-driven Sri Lankan consumers,” the company said.
+
+The Brand Prix campaign is offering over 18,000 deals across top categories. “Whether you are looking for a new mobile phone, kitchen appliances, fashion finds, or beauty essentials, Daraz is offering prices that start as low as Rs. 88, Rs. 888, and Rs. 8,888. These limited-time offers include everything from air fryers and gas cookers to branded watches, wireless headphones, and TVs,” the company said in a statement.
+
+...
+
+[Data](articles/b89bf85e.json)
+
+---
+
+### Fonterra Brands Lanka pioneers first National Competency Standard for dairy industry machine operators
+
+*2025-08-08 01:22:15* · [`dailyftlk`](https://www.ft.lk/business/Fonterra-Brands-Lanka-pioneers-first-National-Competency-Standard-for-dairy-industry-machine-operators/34-780030) · `en`
+
+Vocational Education Deputy Minister Nalin Hewage (left) accepts the National Competency Standard for machine operators in the dairy industry from Fonterra Brands Lanka General Manager – Sri Lanka and Local Emerging Markets Fazlan Faizal
+
+Fonterra Brands Lanka, in collaboration with the Tertiary and Vocational Education Commission (TVEC), the National Apprentice and Industrial Training Authority (NAITA), the Department of Labour and eight other dairy industry peers, introduced Sri Lanka’s first National Competency Standard tailored for dairy machine operators.
+
+The eight industry participants include Milco Ltd., Maliban Milk Products Ltd., Richlife Dairies Ltd., Ceylon Cold Stores PLC, Chello Dairy Products Ltd., Nestlé Lanka Ltd., Pelwatte Dairy Industries Ltd., and Lion Brewery (Ceylon) PLC.
+
+...
+
+[Data](articles/b6cae674.json)
+
+---
 
 ### ’அவுஸ்திரேலியா தொடர்ந்தும் இலங்கைக்கு ஆதரவளிக்ககும்’
 
@@ -1677,121 +1787,5 @@ Earlier in July, the Cabinet of Minister granted approval to the proposal to gaz
 ...
 
 [Data](articles/cf278fb1.json)
-
----
-
-### Case against Namal Rajapaksa to be taken up in January
-
-*2025-08-07 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111258/case-against-namal-rajapaksa-to-be-taken-up-in-january) · `en`
-
-The Colombo Magistrate’s Court today (07) ordered that the case filed against Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa and several other suspects in connection with allegations that Rajapaksa committed an offence under the Prevention of Money Laundering Act by investing in NR Consultancy (Pvt.) Ltd. an amount of Rs. 15 million, allegedly earned through illegal means while serving as a Member of Parliament, be recalled on January 29.
-
-The complaint was taken up today before Colombo Chief Magistrate Thanuja Lakmali.
-
-During the trial, MP Namal Rajapaksa and the other suspects were present in the court.
-
-The Criminal Investigation Department (CID) informed the court that the Attorney General’s advice on the case has not yet been received.
-
-Accordingly, the Colombo Chief Magistrate Thanuja Lakmali ordered the case to be recalled on January 29 and instructed that reminders be sent regarding the Attorney General’s directions.
-
-...
-
-[Data](articles/d54c6b38.json)
-
----
-
-### Sri Lanka officials, exporters discuss how to tackle 20-pct US tariff
-
-*2025-08-07 11:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-officials-exporters-discuss-how-to-tackle-20-pct-us-tariff-235219/) · `en`
-
-ECONOMYNEXT – Sri Lankan officials and export sector representatives have met to discuss the 20 percent US tariff impact on goods exported to America and the actions to be taken.
-
-The Sri Lanka Export Development Board (EDB), which organized the meet, raised the importance of a unified program in the export industry to face the tariff challenge.
-
-The potential for Sri Lankan exporters to diversify their exports to find new market segments, develop alternative trade strategies, and reduce dependence on American markets, was outlined by Acting Director of Market Development Division, Saumya Kannangara.
-
-Strategies for market diversification, product innovation, improving operational efficiency, and adding value to maintain competitiveness were discussed, as well as using emerging opportunities in European, Asian, and other international markets while minimizing the immediate impact of tariff restrictions.
-
-...
-
-[Data](articles/5ea3a4eb.json)
-
----
-
-### 49 அழகுசாதனப் பொருட்களால் பெண்களுக்கு ஆபத்து
-
-*2025-08-07 11:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-அழகுசாதனப்-பொருட்களால்-பெண்களுக்கு-ஆபத்து/175-362502) · `ta`
-
-இலங்கையில் சந்தையில் விற்கப்படும் 49 வகையான அழகுசாதனப் பொருட்களில்,  அதிக அளவுகளில் கன உலோகங்கள் இருப்பதாக நுகர்வோர் விவகார ஆணைக்குழு தெரிவித்துள்ளது.
-
-அவற்றில், சருமத்தை வெண்மையாக்கப் பயன்படுத்தப்படும் அழகுசாதனப் பொருட்கள் மிக முக்கியமானவை என்று அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-இதேவேளை, பொருத்தமற்ற அழகுசாதனப் பொருட்கள் இணையத்தின் ஊடாக விற்பனை செய்யப்படுவதை தடுக்க நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக அதிகாரிகள் கூறினர்.
-
-◼️
-
-[Data](articles/331d0981.json)
-
----
-
-### 49   பொருட்களால் பெண்களுக்கு ஆபத்து
-
-*2025-08-07 11:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-பொருட்களால்-பெண்களுக்கு-ஆபத்து/175-362502) · `ta`
-
-இலங்கையில் சந்தையில் விற்கப்படும் 49 வகையான அழகுசாதனப் பொருட்களில்,  அதிக அளவுகளில் கன உலோகங்கள் இருப்பதாக நுகர்வோர் விவகார ஆணைக்குழு தெரிவித்துள்ளது.
-
-அவற்றில், சருமத்தை வெண்மையாக்கப் பயன்படுத்தப்படும் அழகுசாதனப் பொருட்கள் மிக முக்கியமானவை என்று அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-இதேவேளை, பொருத்தமற்ற அழகுசாதனப் பொருட்கள் இணையத்தின் ஊடாக விற்பனை செய்யப்படுவதை தடுக்க நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக அதிகாரிகள் கூறினர்.
-
-◼️
-
-[Data](articles/78819953.json)
-
----
-
-### கலியுக வரதன் வலம்…
-
-*2025-08-07 11:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலியுக-வரதன்-வலம்/175-362501) · `ta`
-
-2025 ஆம் ஆண்டு நல்லூர் ஸ்ரீ கந்தசுவாமி ஆலய வருடாந்த தேர் திருவிழாவின் ஒன்பதாம் நாள், புதன்கிழமை (07) மாலை நேர பூஜையின் போது கரு நிற வண்ணத்தில் கரியில் கலியுக வரதன் ஏறி வலம் வந்தது.
-
-◼️
-
-[Data](articles/bd0e0a0b.json)
-
----
-
-### 80 மீனவர்கள், 237 மீன்பிடிப் படகுகளை விடுவிக்குக:   ஸ்டாலின் கடிதம்
-
-*2025-08-07 11:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-மீனவர்கள்-237-மீன்பிடிப்-படகுகளை-விடுவிக்குக-ஸ்டாலின்-கடிதம்/175-362500) · `ta`
-
-இலங்கைக் காவலில் உள்ள அனைத்து தமிழக மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் உடனடியாக விடுவிப்பதற்கு உரிய நடவடிக்கைகளை எடுத்திட வேண்டுமென்று வலியுறுத்தி தமிழக முதல்வர் மு.க.ஸ்டாலின், வெளியுறவு அமைச்சர் ஜெய்சங்கருக்கு  (புதன்கிழமை) கடிதம் எழுதியுள்ளார்.
-
-அந்தக் கடிதத்தின் விவரம் வருமாறு: இலங்கைக் கடற்படையினரால் தமிழ்நாட்டு மீனவர்கள் தொடர்ந்து கைது செய்யப்படுவதை முடிவுக்குக் கொண்டுவர ஒன்றிய அரசு தூதரக ரீதியாக தலையிட வேண்டும் என்று தான் பலமுறை வேண்டுகோள் விடுத்த போதிலும், இதுபோன்ற கைது சம்பவங்கள் தொடர்வது மிகவும் . 2025 ஆம் ஆண்டில் மட்டும் நடைபெற்ற கைது சம்பவங்களில், இது 17-வது சம்பவம் .
-
-தற்போது, 237 மீன்பிடிப் படகுகளும், 80 மீனவர்களும் இலங்கை அதிகாரிகளின் காவலில் இருப்பதாகவும், மீனவர்கள், அவர்களின் ஒரே வாழ்வாதாரமான பாரம்பரிய நீர்நிலைகளில் மீன்பிடிக்கும் உரிமையை இழந்துள்ளனர் என்பதை வேதனையுடன் சுட்டிக் காட்டுகிறேன்.
-
-...
-
-[Data](articles/97ebb913.json)
-
----
-
-### වෛද්‍ය වැඩවර්ජනය ගැන දැනුම්දීමක්
-
-*2025-08-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213124) · `si`
-
-පවතින ගැටලුකාරී තත්ත්වයක් හේතුවෙන් ග්‍රාමීය හා දිස්ත්‍රික් රෝහල් විශාල ප්‍රමාණයක් වැසී යාමට ලක්වෙමින් පවතින බවත් ජනතාවට අත්‍යවශ්‍ය සෞඛ්‍ය සේවාවන් ලබාදීම අභියෝගයකට පත් වී ඇති බවත් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
-
-වෛද්‍ය සේවයේ සහ ක්ෂේත්‍රයේ පවතින තවත් ගැටලු කිහිපයක් සම්බන්ධයෙන් කරුණු දක්වමින් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසා ඇත්තේ මෙම ගැටලු සඳහා නිසි විසඳුමක් නොලැබුණහොත් ඉදිරියේ දී වෘත්තීය ක්‍රියාමාර්ග ගන්නා බවය.
-
-වෛද්‍යවරුන් හා වෘත්තිය සමිති මේ සම්බන්ධයෙන් විරෝධතාවයක් පවත්වාගෙන යන අතර, පසුගියදා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය විසින් දිවයින පුරා ව්‍යාප්ත වැඩවර්ජනයක් ආරම්භ කිරීමේ තීරණයක් ගත් බව එම නිවේදනයේ සඳහන් වේ.
-
-මෙම වර්ජනය එළඹෙන සඳුදා (11) උදෑසන 8ට ආරම්භ විය හැකි බවත්, හදිසි ප්‍රතිකාර සේවාවන් පවත්වාගෙන යාමට සැලසුම් කර ඇති බවත් ඔවුන් පවසති.
-
-...
-
-[Data](articles/fb358237.json)
 
 ---

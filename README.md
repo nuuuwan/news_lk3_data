@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 16:48:54**
+As of **2025-08-07 17:06:38**
 
 ## Newspaper Stats
 
-*Scraped **69,281** Articles*
+*Scraped **69,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,226
 islandlk | 4,227
+economynextcom | 4,234
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,670
+adalk | 6,672
 adaderanalk | 8,606
 tamilmirrorlk | 10,139
 virakesarilk | 11,535
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,281 articles have been extended.
+61,973 (89.4%) of 69,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### නුවරඑලියේ අයාලයේ යන පෝනියන් ගාල් කරයි, වෙන්දේසි කිරිමටත් සුදානම්
+
+*2025-08-07 16:37:57* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑලියේ-අයාලයේ-යන-පෝනියන්-ගාල්-කරයි--වෙන්දේසි-කිරිමටත්-සුදානම්/10-417779) · `si`
+
+නුවරඑළිය නගරයට පැමිණෙන දෙස් විදෙස් සංචාරකයන්ට සහ නගරයට පැමිණෙන වාහනවලට අවහිරවන සේ අයාලේ සැරි සරණ පෝනියන් අල්ලා ගාල් කිරිමට පියවර ගත් බව නුවරඑලිය මහ නගර සභාවේ නගරාධිපති උපාලි වනිගසේකර මහතා පැවසීය.
+
+නුවරඑලිය තුරග තරග පිටිය අවට සහ දෙස් විදෙස් සංචාරකයන් ගැවසෙන ස්ථානවල පෝනියන්ගේ අයිතිකරුවන් සිටින බවත්, එම පෝනියන්ගේ පිට මත සංචාරකයන් රැගෙන ගොස් අයිතිකරුවන් ආදායමක් පමණක් ලබා ගෙන සතුන්ට රැකලබා ගැනීමක් සිදු නොකරන බවයි නගරාධිපතිවරයා කියා සිටියේ.
+
+පෝනියන් නගරය පුරා සැරිසරමින් ආපනශාලාවලින් සහ සංචාරකයින් විසින් ලබා දෙන ආහාර අනුභව කරන බවත්, ඊට අමතරව එම සතුන් තුරග  තරග පිටිය සහ නගර සභාව අවට නිදැල්ලෙ සැරි සරමින් තෘණ ආහාරයට ගන්නා බවයි නගරාධිපතිවරයා කියා සිටින්නේ.
+
+ඇතැම් පෝනියන් රෝගාතුරව සිටින බවත්, එම සතුන් සුවපත් කිරිමට අයිතිකරුවන් කිසිදු පියවරක් නොගන්නා බවත්, නිදැල්ලේ සැරි සරන ඇතැම් පෝනියන් සංචාරකයින්ව සපා කෑම්ද සිදු වී ඇති බවයි නගරාධිපතිවරයා කියා සිටින්නේ.
+
+...
+
+[Data](articles/a152482c.json)
+
+---
 
 ### රේගු භාරයේ තිබූ BYD වාහන 991ක් මුදා හැරීමට එකඟතාවයක්
 
@@ -47,6 +65,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4f7aa2ff.json)
+
+---
+
+### වාහන ආනයනය සීමා කරන්නෙත් නෑ, වාහන බදු වැඩි කරන්නෙත් නෑ
+
+*2025-08-07 16:29:08* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-සීමා-කරන්නෙත්-නෑ--වාහන-බදු-වැඩි-කරන්නෙත්-නෑ/11-417778) · `si`
+
+වාහන වෙනුවෙන් මේ වන විට පවතින බද්ද විශාල බවත් තවදුරටත් වාහන බදු ඉහළ නොදමන බවත් ජනපති අනුර කුමාර දිසානායක මහතා පාර්ලිමේන්තුවේදී පැවැසීය.
+
+ඊයේ දිනය වන විට වාහන වෙනුවෙන් ඩොලර් මිලියන 1260ක ණයවර ලිපි නිකුත් කර ඇති බවත් දෙසැම්බර් වන විට එම අගය ඩොලර් මිලියන 1600ක් 1800ක් පමණ වනු ඇති බවත් ජනපතිවරයා පැවැසීය.
+
+වාහන ආනයන සීමා නොකරන බවද ජනපතිවරයා පැවැසීය. මේ වසර අවසන් වන විට ඩොලර් බිලියන 7ක විදේශ සංචිතයක් නිර්මාණය කරන බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/950002b8.json)
 
 ---
 
@@ -236,6 +270,24 @@ Media on 2025.08.07  at 1505  දළදා පෙරහර සිව්වන �
 
 ---
 
+### Sri Lanka likely to exceed 2025 revenue target of Rs.4.5 trillion: President
+
+*2025-08-07 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-likely-to-exceed-2025-revenue-target-of-rs-4-5-trillion-president-235270/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2025 government revenue is likely to exceed the target 4.5 trillion rupees as the state income across the board has signaled more than expected performance, President Anura Kumara Dissanayake told the parliament.
+
+“I can tell you that for the first time in the history we might be able to exceed the revenue targets for this year, as per the signs we have as of now,” President Dissanayake told when he addressed the parliament.
+
+“The target of Inland Revenue Department has increased by 101 percent. We gave a target to the Customs. They exceeded the target and reached 115 percent of the target and Excise Department has exceeded the target and reached 105 percent and in the first seven months,” he said.
+
+Sri Lanka’s tax revenue has risen mainly due to expanding the tax nets and addressing the leakages in the tax income, experts say. (Colombo/August 7/2025)
+
+◼️
+
+[Data](articles/6cd33303.json)
+
+---
+
 ### Trump to meet Putin in coming days with venue to be announced later, Kremlin says
 
 *2025-08-07 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111264/trump-to-meet-putin-in-coming-days-with-venue-to-be-announced-later-kremlin-says) · `en`
@@ -274,6 +326,30 @@ John Ronald Reuel Tolkien විසින් රචිත මෙම නවකත
 
 ---
 
+### Sri Lanka expects vehicle import LCs to reach USD1,500-1,800mn in 2025: President
+
+*2025-08-07 14:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-vehicle-import-lcs-to-reach-usd1500-1800mn-in-2025-president-235246/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen 1,260 million dollars in letters of credit opened to buy vehicles so far this year, President Anura Dissanayake told parliament, adding that the government expects this to increase to 1,500 and 1,800 million dollars by the end of the year.
+
+“Since we resumed imports, letters of credit have been opened to the value of 1,260 million dollars,” Dissanayake said.
+
+“We expect this to be between 1,500 and 1,800 million dollars by December.”
+
+But saboteurs were spreading rumors that vehicle imports will cease to manipulate the rupee, he said.
+
+“Then people who plan to buy a vehicle next year will also rush to buy this year.
+
+This would cost the government an additional 1,800 million dollars, which the government would have to find ways to finance, he said.
+
+The government expects to grow reserves to 7 billion dollars by the end of this year, he said. (Colombo/Aug7/2025)
+
+◼️
+
+[Data](articles/b1ae1cb0.json)
+
+---
+
 ### ගම්පහ ප්‍රදේශ කිහිපයකට පැය 10ක ජල කප්පාදුවක්
 
 *2025-08-07 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213130) · `si`
@@ -289,6 +365,22 @@ John Ronald Reuel Tolkien විසින් රචිත මෙම නවකත
 ◼️
 
 [Data](articles/68dd1ab3.json)
+
+---
+
+### Sri Lanka yet to finalize US tariff deal: President
+
+*2025-08-07 14:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-yet-to-finalize-us-tariff-deal-president-235251/) · `en`
+
+ECONOMYNEXT – Sri Lanka has yet to finalize the tariff deal with the United States and the government is making all the efforts to reduce the 20 percent tariff declared by the Donald Trump Administration, President Anura Kumara Dissanayake told the parliament.
+
+“We are still in the process of finalizing the U.S. tariff deal. We are trying to reduce it further from the current 20 percent,” President Dissanayake said when he addressed the parliament on the U.S tariff deal.
+
+Sri Lanka has been able to reduce the tariff from 44 percent announced by President Donald Trump on April 2. Later it was reduced to 30 percent before it was slashed to 20 percent last week. (Colombo/August 7/2025)
+
+◼️
+
+[Data](articles/86dd2085.json)
 
 ---
 
@@ -341,6 +433,24 @@ The President also noted that the opposition later expected an economic downfall
 ...
 
 [Data](articles/fb145813.json)
+
+---
+
+### Y A Jayathilaka appointed Bank of Ceylon acting CEO
+
+*2025-08-07 13:58:00* · [`economynextcom`](https://economynext.com/y-a-jayathilaka-appointed-bank-of-ceylon-acting-ceo-235237/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Bank of Ceylon has appointed Y A Jayathilaka as the Acting General Manager/Acting Chief Executive Officer with effect from August 6, the bank said in a stock exchange filing.
+
+Jayathilaka was appointed to the corporate management of the bank in February 2020 and has since held several key positions.
+
+He has over 28 years of experience in the banking sector, with exposure across a range of banking operations including branch credit, development banking, and recovery; treasury operations such as foreign exchange trading, money markets, capital markets, and investment management; and overseas operations through his tenure at BOG UK Limited.
+
+He has led project implementations in core banking systems, trade finance platforms, workflow automation, and mobile banking applications, and has played a role in product development, digital transformation, and innovation.
+
+...
+
+[Data](articles/3a915af3.json)
 
 ---
 
@@ -697,6 +807,24 @@ Accordingly, the Colombo Chief Magistrate Thanuja Lakmali ordered the case to be
 ...
 
 [Data](articles/d54c6b38.json)
+
+---
+
+### Sri Lanka officials, exporters discuss how to tackle 20-pct US tariff
+
+*2025-08-07 11:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-officials-exporters-discuss-how-to-tackle-20-pct-us-tariff-235219/) · `en`
+
+ECONOMYNEXT – Sri Lankan officials and export sector representatives have met to discuss the 20 percent US tariff impact on goods exported to America and the actions to be taken.
+
+The Sri Lanka Export Development Board (EDB), which organized the meet, raised the importance of a unified program in the export industry to face the tariff challenge.
+
+The potential for Sri Lankan exporters to diversify their exports to find new market segments, develop alternative trade strategies, and reduce dependence on American markets, was outlined by Acting Director of Market Development Division, Saumya Kannangara.
+
+Strategies for market diversification, product innovation, improving operational efficiency, and adding value to maintain competitiveness were discussed, as well as using emerging opportunities in European, Asian, and other international markets while minimizing the immediate impact of tariff restrictions.
+
+...
+
+[Data](articles/5ea3a4eb.json)
 
 ---
 
@@ -1208,6 +1336,26 @@ However, the motive behind the shooting has not yet been revealed, police said.
 
 ---
 
+### Sri Lanka parliamentarians’ views sought on education reforms
+
+*2025-08-07 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentarians-views-sought-on-education-reforms-235216/) · `en`
+
+ECONOMYNEXT – A parliamentary committee on education reforms has called for all members of Parliament to submit ideas and proposals.
+
+After the Sub-Committee on Education Reforms discusses the report being prepared by the ministry, the general public will be given an opportunity to submit their views and suggestions, a Parliament statement said.
+
+Prime minister/Education minister Harini Amarasuriya told the committee a public awareness campaign has been planned to provide the public with a clear understanding of the reforms.
+
+Education officials in 8 provinces have been briefed, except in the Uva Province.
+
+During the sub-committee meeting, discussions were also held on teacher training programs aligned with the new curriculum, teacher deployment plans for schools, and the approach to school infrastructure development. (Colombo/Aug7/2025)
+
+◼️
+
+[Data](articles/04f63682.json)
+
+---
+
 ### Three Indians arrested with 12kg of ‘Kush’ cannabis at BIA
 
 *2025-08-07 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111256/three-indians-arrested-with-12kg-of-kush-cannabis-at-bia) · `en`
@@ -1325,6 +1473,30 @@ The Airport Unit of the Police Narcotics Bureau is conducting further investigat
 ◼️
 
 [Data](articles/3eba6ca2.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-08-07 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-235196/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.75/85 to the US dollar in the spot market Thursday, flat from 300.85/90 the previous day, while bond yields were steady, dealers said.
+
+Of the actively quoted bonds; a bond maturing on 15.10.2028 was quoted at 8.80/90 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.35/37 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.38/41 percent from 9.39/40 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/33 percent, from 10.25/30 percent.
+
+The Colombo Stock Exchange was trading in green: the ASPI was up 0.32 percent, or 62.68 points, at 19,867.48, while the S&P SL20 was up 0.36 percent, or 20.81 points, at 5,848.66.
+
+The telegraphic transfer rate for the American dollar buying was 297.0000 selling was 304.0000, for the British pound 395.6145 and 406.9563, and for the euro 344.0265 and 355.2317. (Colombo/Aug7/2025)
+
+◼️
+
+[Data](articles/5d984946.json)
 
 ---
 
@@ -1522,6 +1694,24 @@ Speaking at a press conference held at the Health Promotion Bureau, Dr. Magodara
 
 ---
 
+### Sri Lanka consumer goods firm sees strong demand as prices deflate
+
+*2025-08-07 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-goods-firm-sees-strong-demand-as-prices-deflate-235168/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hemas Holdings said it saw volume grow in its consumer goods division and profits rise in the June 2025 quarter, even as total revenues fell amid previous price cuts amid deflationary conditions.
+
+Sri Lanka’s central bank has missed its 5 percent inflation target (which can go up to 7 percent) in recent months, giving unusual East Asian style currency stability helped by broadly deflationary monetary policy including unsterilized dollar sales in the first half 2025.
+
+“The Sector continued to strengthen its market presence through focused sales and promotional initiatives, which supported volume recovery across key categories,” Hemas Holdings told shareholders in interim accounts.
+
+“Despite a marginal 2.6 percent year-on-year decline in revenue primarily due to price adjustments taken previously that were driven by input cost deflation, the sector maintained its profitability through a combination of portfolio mix optimisation and sustained process improvements.
+
+...
+
+[Data](articles/ae23bd1a.json)
+
+---
+
 ### Constitutional Council to convene today
 
 *2025-08-07 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111254/constitutional-council-to-convene-today) · `en`
@@ -1609,199 +1799,5 @@ The most favored nation principle is a cornerstone of Geneva-based WTO, whose ai
 ...
 
 [Data](articles/7babab73.json)
-
----
-
-### ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව අද රැස්වෙයි
-
-*2025-08-07 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213111) · `si`
-
-කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පස්වරු 1.30ට ව්‍යවස්ථාදායක සභාව රැස්වීමට නියමිතයි.
-
-මේ අතර පොලිස්පති ධුරයෙන් දේශබන්දු තෙන්නකෝන් මහතා ඉවත් කිරීමේ ලිපිය ඊයේ (06) දිනයේ ඒ මහතා වෙත භාරදෙනු ලැබීය.
-
-මහජන ආරක්ෂක අමාත්‍යාංශයේ නිලධාරින් විසින් අදාළ ලිපිය ඔහුගේ නිවස වෙත ගොස් එම භාරදුන් බව මහජන ආරක්ෂක අමාත්‍යාංශයේ නිලධාරියෙකු සඳහන් කළේය.
-
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයෙන් ඉවත් කිරීම සඳහා වු යෝජනාව පසුගියදා පාර්ලිමේන්තුවේ දී වැඩි ඡන්දයෙන් සම්මත වුණා.
-
-එම යෝජනාවට පක්ෂව ඡන්ද 177ක් ලැබුණු අතර විපක්ෂව කිසිදු ඡන්දයක් හිමි වුයේ නැත.
-
-කෙසේවෙතත් රාමනාදන් අර්චුනා මන්ත්‍රීවරයා පමණක් යෝජනාවට ඡන්දය ලබාදීමෙන් වැළකි සිටියේය.
-
-ඒ අනුව කතානායකවරයා වෙත යොමුකළ අතර ඊට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ඊයේ දින අත්සන් කරනු ලැබීය.
-
-අනතුරුව ජනාධිපතිවරයා විසින් දේශබන්දු තෙන්නකෝන් මහතා ඉවත් කිරීමේ ලිපිය මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම්වරයා වෙත යොමු කර ඇත.
-
-ඒ අනුව අදාළ මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම්වරයා විසින් ඊයේ දිනයේ එම ලිපිය දේශබන්දු තෙන්නකෝන් මහතා වෙත භාරදීම සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/93ac08fb.json)
-
----
-
-### Ghana defence minister among eight killed in helicopter crash
-
-*2025-08-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111251/ghana-defence-minister-among-eight-killed-in-helicopter-crash) · `en`
-
-Ghana’s Defence Minister Edward Omane Boamah died in a military helicopter crash on Wednesday along with four other officials and three airforce crew, the government said.
-
-Julius Debrah, President John Mahama’s chief of staff, told a press conference that the crash in which Boamah, Environment, Science and Technology Minister Ibrahim Murtala Muhammed and others were killed was a national tragedy.
-
-“The president and government extend our condolences and sympathies to the families of our comrades and the servicemen who died in service to the country,” Debrah said.
-
-Authorities did not immediately give an explanation for what might have caused the crash.
-
-Earlier Ghana’s armed forces said radar contact had been lost with a Z9 airforce helicopter.
-
-Boamah, a former communications minister, was tapped to serve as defence minister in January after Mahama returned to power.
-
-His replacement will take on a complex security file that includes both external and internal threats.
-
-...
-
-[Data](articles/95003989.json)
-
----
-
-### இந்தியாவுக்கு எதிராக போரை தொடங்கிய அமெரிக்கா
-
-*2025-08-07 06:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியாவுக்கு-எதிராக-போரை-தொடங்கிய-அமெரிக்கா/50-362480) · `ta`
-
-சீனாவும், அமெரிக்காவும் பரம எதிரிகளாக உள்ளன. இதனால் சீனாவை சமாளிக்க அதன் அண்டை நாடாக உள்ள இந்தியாவை ட்ரம்ப் ஆதரிப்பார் என்று எதிர்பார்க்கப்பட்டது.
-
-ஆனால் யாரும் எதிர்பாராத வகையில் சீனாவை விட அதிகமாக இந்தியாவுக்கு  50 சதவீதம் வரை வரி விதித்துள்ளார். இதன்மூலம் ஜனநாயக நாடுகளான இந்தியாவுக்கும் , அமெரிக்காவுக்கும் இடையே மோதல் உள்ளது. இதற்கிடையே தான் ட்ரம்பின் இந்த வரி விதிப்பை இந்தியா மீதான போராக வர்ணித்து அமெரிக்காவின் பிரபல ஊடகமான ‛தி நியூயார்க் டைம்ஸ்' வெளியிட்டுள்ளது.
-
-ரஷ்யாவிடம் இருந்து கச்சா எண்ணெய் வாங்குவதால் நம் நாட்டுக்கு ஏற்கனவே டொனால்ட் ட்ரம்ப் 25 சதவீத வரியை கடந்த 1 ஆம் திகதி விதித்தார். தொடர்ந்து ரஷ்யாவிடம் கச்சா எண்ணெய் வாங்குவதாக நேற்று 2 ஆவது கட்டமாக 25 சதவீத விதித்தார் ட்ரம்ப். இதனால் இந்தியா மீது மொத்தம் 50 சதவீத வரியை அமெரிக்கா விதித்துள்ளது.
-
-...
-
-[Data](articles/7ec75503.json)
-
----
-
-### Few showers expected in parts of the island
-
-*2025-08-07 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111250/few-showers-expected-in-parts-of-the-island) · `en`
-
-A few showers will occur in the Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts, the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Batticaloa, Ampara and Mullaittivu districts after 1.00 p.m.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, the Met. Department added
-
-◼️
-
-[Data](articles/e093cad0.json)
-
----
-
-### Former Senior DIG Priyantha Jayakody granted bail
-
-*2025-08-07 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111249/former-senior-dig-priyantha-jayakody-granted-bail) · `en`
-
-The Kandy Magistrate’s Court has ordered retired Senior DIG Priyantha Jayakody to be released on bail.
-
-Former Senior DIG Priyantha Jayakody, who was arrested by the Criminal Investigation Department (CID) for allegedly lodging a false complaint, was previously ordered remanded by the Mahara Magistrate’s Court.
-
-This order was issued after the retired police officer, who was receiving treatment at a private hospital in Ragama, was examined by the Mahara Magistrate.
-
-On July 28, former Senior DIG Priyantha Jayakody was arrested in connection with an incident of allegedly lodging a false complaint claiming that he had received death threats from notorious underworld figure Koralagamage Mandinu Padmasiri, alias ‘Kehelbaddara Padme’.
-
-However, the investigations conducted by the CID have revealed that the act was carried out by Jayakody with the intention of ensuring his personal safety.
-
-◼️
-
-[Data](articles/837e8e58.json)
-
----
-
-### இம்மாத இறுதியில் சீனா செல்கிறார் மோடி
-
-*2025-08-07 06:30:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாத-இறுதியில்-சீனா-செல்கிறார்-மோடி/175-362479) · `ta`
-
-இந்திய பிரதமர் நரேந்திர மோடி ஓகஸ்ட் 31 முதல் செப்டம்பர் 1 வரை சீனாவில் உள்ள தியான்ஜினுக்குப் பயணம் மேற்கொள்ளவுள்ளார். இந்த பயணத்தின் போது ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டில் அவர் பங்கேற்கிறார்.
-
-கடந்த 2019 ஆம் லடாக்கில் கால்வான் பள்ளத்தாக்கில் இந்தியா-சீனா ராணுவ வீரர்கள் மோதிக்கொண்டனர். இதில் இரு தரப்பிலும் உயிரிழப்பு ஏற்பட்டது. இதனால் இரு நாடுகளுக்கு இடையேயான உறவில் விரிசல் ஏற்பட்டிருந்தது. தற்போது விரிசல் கொஞ்சம் கொஞ்சமாக சரியாகி வரும் நிலையில், பிரதமர் மோடி சீனா செல்வதாக அறிவிப்பு வெளியாகியுள்ளது.
-
-இந்த பயணம் வேறு ஒரு வகையிலும் முக்கியத்துவம் பெற உள்ளதாக பார்க்கப்படுகிறது. அதாவது வரி விஷயத்தில் அமெரிக்காவின் நெருக்கடி இந்தியாவுக்கு அதிகமாக இருக்கிறது. இதனை சமாளிக்க மத்திய அரசு, சீனாவுடன் நெருக்கமான வர்த்தக உறவுகளை ஏற்படுத்த முயற்சிக்கலாம் என பேசப்பட்டு வருகிறது.
-
-எனவே இந்த சந்திப்பில் இது தொடர்பாக பேச்சுவார்த்தை நடக்கலாம். அந்த வகையில் இந்த பயணம் முக்கியத்துவம் பெற்றிருக்கிறது. (a)
-
-◼️
-
-[Data](articles/95e139e2.json)
-
----
-
-### සවස 1න් පස්සේ තද වැසි
-
-*2025-08-07 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213110) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති වේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් මඩකලපුව, අම්පාර සහ මුලතිව් දිස්ත්‍රික්කවලත් ප.ව. 1න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/bf2b3aa7.json)
-
----
-
-### Sri Lanka electricity law amended amid opposition concerns
-
-*2025-08-07 06:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-law-amended-amid-opposition-concerns-235129/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament passed an amendment to the island’s new electricity law that was expected to break up the sector in line with a plan supported by multilateral lenders which would also attract new private investment.
-
-The changes will keep parts of the existing system 100 percent under Government ownership permanently, Energy Minister Kumara Jayakody said.
-
-The National People’s Power administration had a plan for the sector before they were elected, and there were eight months of discussions, after which some changes had been made, but some suggestions the government could not agree to, due to a ‘covenant’ with the people he said.
-
-Sri Lanka had ‘missed buses’ in the past where low cost generating plants in the CEB, long term generation plan had been systematically sabotaged by various parties forcing the entity to buy high-cost liquid fuel plants by the 1990s, including gas turbines, he said.
-
-...
-
-[Data](articles/3078c41c.json)
-
----
-
-### හිටපු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩිට ඇප
-
-*2025-08-07 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213108) · `si`
-
-අසත්‍ය පැමිණිල්ලක් සිදුකිරීමේ චෝදනාවකට අදාළව රක්ෂිත බන්ධනාගාර ගත කර සිටි විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා ඇප මත මුදාහැර තිබේ.
-
-ඒ අනුව මහනුවර මහෙස්ත්‍රාත් අධිකරණය මඟින් ඔහු ඇප මත මුදාහැර ඇති බව වාර්තා වේ.
-
-සංවිධානාත්මක අපරාධකරුවෙකු මරණ තර්ජනය කළ බවට අසත්‍ය පැමිණිල්ලක් සිදුකිරීමේ චෝදනාවක් සම්බන්ධයෙන් රාගම ප්‍රදේශයේ පුද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී ප්‍රියන්ත ජයකොඩි මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් පසුගිය ජුලි 28 වන දින අත්අඩංගුවට ගනු ලැබීය.
-
-ඒ අනුව අදාළ රෝහල වෙත පැමිණි මහර මහෙස්ත්‍රාත්වරයා සැකකරු ඊයේ (06) දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
-
-විදේශ රටක සිටින ප්‍රබල සංවිධානාත්මක අපරාධකරුවෙකු වන කෙහෙල්බද්දර පද්මේ නැමැත්තා තමාට මරණ තර්ජන කළ බවට විශ්‍රාමික ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා පොලීසියට පැමිණිල්ලක් සිදුකර තිබුණි.
-
-අදාළ පැමිණිල්ලට අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විමර්ශන ආරම්භ කළ අතර එහිදී අනාවරණය වී ඇත්තේ එම පැමිණිල්ල ව්‍යාජ පැමිණිල්ලක් බවය.
-
-◼️
-
-[Data](articles/a2665f17.json)
-
----
-
-### ’மின்சார சட்டம் வந்திருந்தால் ஊழியர்களுக்கு ஷொக் அடித்திருக்கும்’
-
-*2025-08-07 06:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சட்டம்-வந்திருந்தால்-ஊழியர்களுக்கு-ஷொக்-அடித்திருக்கும்/175-362478) · `ta`
-
-முன்னாள் மின்சாரத்துறை அமைச்சர் காஞ்சன விஜேசேகர  கொண்டு வந்த மின்சார சட்டத்தை செயற்படுத்தினால்  மின்சார சபையின் 23,000  சேவையாளர்களின் எண்ணிக்கையை 12 000ஆக குறைக்கும் சூழலே காணப்பட்டது. புதிய சட்டமூலத்தில் மின்சார சபையின் சகல ஊழியர்களின்  தொழில் உரிமைகள் பாதுகாக்கப்படும் என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  புதன்கிழமை (06)  அன்று இடம்பெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே  அவர் இவ்வாறு  குறிப்பிட்டார்.
-
-மின்சாரத்துறை  தொடர்பில் கடந்த காலங்களில் கொண்டு வந்த சட்டங்களுக்கு ஜே .வி.பி.  எதிர்ப்பு தெரிவித்தது என்று கூறுவதனை  ஏற்க முடியாது. 2002ஆம் ஆண்டு மற்றும் 2024ஆம் ஆண்டு கொண்டு வரப்பட்ட மின்சாரத்துறை தொடர்பான சட்டமூலங்களை எதிர்த்ததால் தான் மின்சார சபையின் தனியுரிமை பாதுகாக்கப்பட்டது.
-
-...
-
-[Data](articles/93ee8083.json)
 
 ---

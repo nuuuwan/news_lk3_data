@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 21:07:14**
+As of **2025-08-07 21:21:33**
 
 ## Newspaper Stats
 
-*Scraped **69,323** Articles*
+*Scraped **69,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,678
+adalk | 6,679
 adaderanalk | 8,613
 tamilmirrorlk | 10,143
 virakesarilk | 11,538
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,323 articles have been extended.
+61,973 (89.4%) of 69,324 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,28 @@ They were charged under Section 26C of the Anti-Trafficking in Persons and Anti-
 ...
 
 [Data](articles/646d1629.json)
+
+---
+
+### සබරගමු හිටපු මහ ඇමති මහීපාල මාසිකව ඉන්ධන ලීටර් 4700ක් අරන්
+
+*2025-08-07 18:40:31* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමු-හිටපු-මහ-ඇමති-මහීපාල-මාසිකව-ඉන්ධන-ලීටර්-4700ක්-අරන්/11-417788) · `si`
+
+2014 හා 2017 වසරවලදී සබරගමු පළාත් මහ ඇමති ලෙස කටයුතු කළ මහීපාල හේරත් මහතා මාසිකව තමන්ට හිමි ඉන්ධන
+
+දීමනාවටට අමතරව තවත් ඉන්ධන ලීටර් 3000ක් ලබාගෙන ඇති බව කෝපා කමිටුවේදී අණාවරණය විය.
+
+ඔහුට පළාත් ප්‍රධාන අමාත්‍යාංශයෙන් ඉන්ධන ලීටර් 1700ක් හිමිව තිබි ඇත. කෙසේ වෙතත් එවක මහ ඇමති ලෙස කටයුතු කළ
+
+මහීපාල හේරත් මහතා සංවර්ධන නිර්මාණ හා යන්ත්‍රෝපකරණ අධිකාරියෙන් මෙන්ම මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියෙන් පිළිවෙළින්
+
+ඉන්ධන ලීටර් 1500 බැගින් ඉන්ධන ලීටර් 3000ක් ලබාගෙන ඇති බව කෝපා කමිටුවේදී අණාවරණය විය.‍
+
+මේ අනුව සබරගමුව මහ ඇමති වශයෙන් කටයුතු කළ මහ ඇමති මහිපාල ‍හේරත් මහතා ඉන්ධන ලීටර් 4700ක් මාසිකව ලබාගෙන ඇති බවට අණාවරණය විය.
+
+◼️
+
+[Data](articles/efab2d47.json)
 
 ---
 
@@ -1791,19 +1813,5 @@ However, the motive behind the shooting has not yet been revealed, police said.
 ◼️
 
 [Data](articles/febcc1ca.json)
-
----
-
-### 11 நாள் பாடசாலைகளுக்கு விடுமுறை
-
-*2025-08-07 10:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-நாள்-பாடசாலைகளுக்கு-விடுமுறை/175-362491) · `ta`
-
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற  பாடசாலைகளின்  இரண்டாம் தவணை கல்வி நடவடிக்கைகள்   வியாழக்கிழமையுடன் (07)  நிறைவடைந்தன.
-
-மூன்றாம் தவணை எதிர்வரும் 18ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகும் என்று  கல்வி அமைச்சு அறிவித்துள்ளது
-
-◼️
-
-[Data](articles/84038ecb.json)
 
 ---

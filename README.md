@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 17:06:38**
+As of **2025-08-07 17:18:36**
 
 ## Newspaper Stats
 
-*Scraped **69,291** Articles*
+*Scraped **69,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ islandlk | 4,227
 economynextcom | 4,234
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,672
-adaderanalk | 8,606
+adalk | 6,673
+adaderanalk | 8,607
 tamilmirrorlk | 10,139
-virakesarilk | 11,535
-adaderanasinhalalk | 11,927
+virakesarilk | 11,538
+adaderanasinhalalk | 11,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,291 articles have been extended.
+61,973 (89.4%) of 69,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### දිවයින පුරා විශේෂ මෙහෙයුමක්
+
+*2025-08-07 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213138) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 838 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එමෙන්ම අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 20 දෙනෙකු හා වරෙන්තකරුවන් 675 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+මත්ද්‍රව්‍ය හා පාතාල ක‍්‍රියාකාරකම් මර්ධනය කිරීම අරමුණු කර ගනිමින් ආරක්ෂක නිලධාරීන් 6,129කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර තිබේ.
+
+එහිදී පුද්ගලයන් 25,755 දෙනෙක්ද වාහන 10,602ක්ද යතුරු පැදි 7,998ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර ඇත.
+
+එමෙන්ම මෙම මෙහෙයුම් හරහා නීති විරෝධී ගිනි අවි 4ක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+බීමත් රියදුරන් 86ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය ඇතුළු රථවාහන වෙනත් වැරදි සම්බන්දයෙන් පුද්ගලයන් 3,828ක් සදහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/46612893.json)
+
+---
+
+### අරුණ ජයසේකර ධුරයෙන් ඉවත්කරන්නැයි සජබයෙන් කරුණු 15ක්
+
+*2025-08-07 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213137) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා ධුරයෙන් ඉවත් කරන්නැයි ඉල්ලා සමගි ජන බලවේගය විසින් ගෙනඑන විශ්වාසභංග යෝජනාව කථානායක ජගත් වික්‍රමරත්න මහතා වෙත අද (7) භාරදී තිබේ.
+
+අරුණ ජයසේකර මහතා ආරක්ෂක නියෝජ්‍ය අමාත්‍ය ධුරය දරන රජයක, මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශය මගින් පාස්කු ඉරුදින ප්‍රහාරයේ විමර්ශන සිදුකිරීම මත, බලපෑම් සහ ළබැඳියාවන් අතර ගැටීමක් ඇතිවන බව අදාළ යෝජනාවන්හි දැක්වේ.
+
+ඒ හේතුවෙන් පාස්කු ඉරුදින ප්‍රහාරයේ විමර්ශන අපක්ෂපාතීව හා ස්වාධීනව සිදුවන්නේදැයි පාස්කු ඉරුදින ප්‍රහාරයේ වින්දිතයන්ගේත්, කතෝලික සභාවේත්, පොදු මහජනතාවගේත්, විශ්වාසය බිඳවැටී ඇති හෙයින් ඔහු ධුරයේ සිටියදී පාස්කු විමර්ශන සිදුකිරීමෙන් ගරු සභාවේ විශ්වාසය කඩව ඇති බව පවසමින් යෝජනා සම්මත කර ඇත.
+
+ගරු පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා වන චර්යාධර්ම සංග්‍රහය - III කොටස, 6 වන වගන්තියෙහි,
+
+“මන්ත්‍රීවරුන් සෑම අවස්ථාවක දී ම ඔවුන් වෙත තබා ඇති මහජන විශ්වාසයට අනුව ක්‍රියා කළ යුතු අතර, සෑම විටම යම් පොදු සම්පත් භාවිතය ද ඇතුළු ඔවුන්ගේ හැසිරීම අවංකභාවයකින් එ්කාග්‍රතාවකින් විය යුතුය.”
+
+...
+
+[Data](articles/3eee3aca.json)
+
+---
+
+### ராஜபக்ச - நல்லாட்சி காலத்தை போல தொடர்ந்தும் செயற்படும் பாதுகாப்பு எந்திரம் - ஊடகவியலாளர்கள் சிவில் செயற்பாட்டாளர்களை விசாரணைக்கு அழைப்பதை நிறுத்துமாறு அரசாங்கம் உத்தரவு பிறப்பிக்கவேண்டும் - அம்பிகா சற்குணநாதன்
+
+*2025-08-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222069) · `ta`
+
+மகிந்த ராஜபக்ச காலத்தில் ராஜபக்ச அரசாங்கத்தின் ஆட்சிக்காலத்தில் பாதுகாப்பு எந்திரம் முறையான மற்றும் முறைசாரற்ற வழிகளில் வளர்ந்ததை நல்லாட்சி காலத்தில் அகற்றவில்லை இதன் காரணமாகவே ஊடகவியலாளர்கள் சிவில் சமூகத்தினர் உட்பட பலரை பயங்கரவாத விசாரணை பிரிவினரும் குற்றப்புலனாய்வு பிரிவினரும் தொடர்ந்தும் விசாரணைக்கு அழைக்கின்றனர் கண்காணிக்கின்றனர் அச்சுறுத்துகின்றனர் என தெரிவித்துள்ள இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் அரசாங்கம் விசேட உத்தரவொன்றை பிறப்பிக்காவிட்டால் இது தொடரும் என எச்சரித்துள்ளார்.
+
+ஊடகவியலாளர்குமணனை பயங்கரவாத விசாரணை பிரிவினர் விசாரணைக்காக அழைத்துள்ளமை பல வருடங்களாக இடம்பெறும் துன்புறுத்தல்கள் அச்சுறுத்தல்களின் சமீபத்தைய சம்பவமாகும்.
+
+பயங்கரவாத விசாரணை பிரிவினர் குற்றப்புலனாய்வு பிரிவினர்தகவல் வழங்க கோரி அவரை பலமுறை விசாரணைக்காக அழைத்துள்ளனர்இஅவரை அச்சுறுத்தியுள்ளனர்விசாரணைக்காக அழைத்துள்ளனர்அவரது வீட்டிற்கு சென்றுள்ளனர்  அவரை பின்தொடர்ந்துள்ளனர்.
+
+...
+
+[Data](articles/fb30df33.json)
+
+---
+
+### මාදුරුඔය රක්ෂිතයෙන් මිය ගිය වන අලි සිරුරක් හමුවෙයි
+
+*2025-08-07 16:45:05* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-රක්ෂිතයෙන්-මිය-ගිය-වන-අලි-සිරුරක්-හමුවෙයි/11-417780) · `si`
+
+මාදුරුඔය රක්ෂිතයේ ඇබලවත්ත ප්‍රදේශයේ තිබී  වන අලි සිරුරක් අද 07 උදෑසන හමු වූ බව මහියංගණය පොලිසිය පැවසීය.
+
+වන අලියා මිය යාමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බවද හෙට අට දින මෙම අලි මරණය සම්බන්ධයෙන් මරණ පරීක්ෂණයක් පැවැත්වෙන බවද පොලිසිය පැවසීය.
+
+මහියංගණය මාදුරුඔය   රක්ෂිතයේ ඇබලවත්ත  ප්‍රදේශයේ පෞද්ගලික වගා භූමියකට මීටර් 300ක් පමණ නුදුරින් මෙම වන අලි සිරුර හමු වූ බවද පොලිසිය පැවසීය. මහියංගනය පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/53e234ac.json)
+
+---
+
+### மன்னார் காற்றாலை மின்திட்ட பணிகளை இடைநிறுத்துவதற்கு தீர்மானம்
+
+*2025-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222060) · `ta`
+
+மன்னார் காற்றாலை மின்திட்டம் தொடர்பில் எழுந்துள்ள பிரச்சினைகளுக்கு  சகல தரப்பினருடன் கலந்துரையாடி தீர்வு காண்பதற்கு தீர்மானிக்கப்பட்டுள்ள நிலையில் அபிவிருத்தி திட்ட பணிகளை இடைநிறுத்துவதற்கு மின்சாரத்துறை அமைச்சர் தலைமையில் நடைபெற்ற  குழு கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+காற்றாலை மின்திட்ட விவகாரம் தொடர்பில் இன்னும் இரண்டு வாரங்களுக்கு பின்னர் ஜனாதிபதி தலைமையில் விசேட பேச்சுவார்த்தையில் ஈடுபடுபதற்கும் இக்கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+மன்னார் காற்றாலை திட்டம் மற்றும் இல்மனைட் கனிய வளம் தொடர்பில் எழுந்துள்ள பிரச்சினை குறித்து பாராளுமன்ற கட்டிடத் தொகுதியில் வியாழக்கிழமை (07) விசேட கலந்துரையாடல் மின்சாரத்துறை அமைச்சர் அருண கருணாதிலக தலைமையில் இடம்பெற்றது.
+
+இந்த கலந்துரையாடலில் வன்னி மாவட்ட பிரதிநிதிகள், சிவில் சமூக பிரதிநிதிகள் மற்றும் மன்னார் மாவட்ட பிரஜைகள் குழு உட்பட பல்வேறு தரப்பினர்கள் கலந்துக்கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/4aa79ab5.json)
+
+---
 
 ### නුවරඑලියේ අයාලයේ යන පෝනියන් ගාල් කරයි, වෙන්දේසි කිරිමටත් සුදානම්
 
@@ -47,6 +139,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a152482c.json)
+
+---
+
+### இலங்கையின் அஞ்சல் சேவைக்கு ஆசிய பசிபிக் அஞ்சல் ஒன்றியம் ஆதரவு
+
+*2025-08-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222056) · `ta`
+
+இலங்கையின் அஞ்சல் சேவையின் எதிர்கால வளர்ச்சிக்குத் தேவையான அனைத்து ஆதரவும் வழங்கப்படும் என்று ஆசிய பசிபிக் அஞ்சல் ஒன்றியத்தின் (APPU) பொதுச் செயலாளர் டாக்டர் வினய பிரகாஷ் சிங் உறுதியளித்துள்ளார். அஞ்சல் சேவையை மேம்படுத்தும் நோக்கில் திறன் மேம்பாட்டுப் பயிற்சித் திட்டங்களைச் செயல்படுத்தவும், தொழில்நுட்பத்தைப் பயன்படுத்தவும் தங்கள் அமைப்பு ஆதரவு அளிக்கும் என்றும் அவர் தெரிவித்தார்.
+
+சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சரான டாக்டர் நளிந்த ஜயதிஸ்ஸவுடன் அண்மையில் நடைபெற்ற சந்திப்பின்போதே டாக்டர் வினய பிரகாஷ் சிங் இவ்வாறு தெரிவித்தார்.
+
+இலங்கையின் அஞ்சல் துறை, ஆசிய பசிபிக் அஞ்சல் ஒன்றியத்துடன் இணைந்து அஞ்சல் ஊழியர்களுக்கான மூன்று நாள் திறன் மேம்பாட்டுப் பயிற்சி திட்டத்தை ஏற்பாடு செய்திருந்தது. இதற்காகவே அவர் இலங்கைக்கு வருகை தந்திருந்தார்.
+
+...
+
+[Data](articles/770bb1fe.json)
 
 ---
 
@@ -183,6 +291,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cf903551.json)
+
+---
+
+### Parliament to meet from August 19 to 22
+
+*2025-08-07 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111265/parliament-to-meet-from-august-19-to-22) · `en`
+
+Parliamentary business for the second Parliamentary week of August 2025 was decided yesterday (06) at the Committee on Parliamentary Business, the Secretary General of Parliament Kushani Rohanadeera said.
+
+Accordingly, Parliament is scheduled to meet from August 19th to 22nd.
+
+Accordingly, time from 9.30 a.m. to 10.00 a.m. on each sitting day has been allotted for Business of Parliament as per Standing Order 22(1) to (6) of the Parliament. Time from 10.00 a.m. to 11.00 a.m. has been allocated for Questions for Oral Answers, while time from 11.00 a.m. to 11.30 a.m. has been reserved for Questions under Standing Order 27(2).
+
+Accordingly, on Tuesday, August 19th, 2025, from 11.30 a.m. to 5.00 p.m., the Second Reading of the Gambling Regulatory Authority Bill, Regulations under the Public Debt Management Act published in Extraordinary Gazette No. 2443/14, and an Order under the Foreign Exchange Act published in Extraordinary Gazette No. 2441/14 are scheduled to be taken up for debate.
+
+...
+
+[Data](articles/18721aaf.json)
 
 ---
 
@@ -1671,133 +1797,5 @@ Speaking at a press conference held at the Health Promotion Bureau, Dr. Magodara
 ...
 
 [Data](articles/2c3f0da8.json)
-
----
-
-### ඔස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය තෙදින නිල සංචාරයකට දිවයිනට
-
-*2025-08-07 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213114) · `si`
-
-තෙදින නිල සංචාරයක් සඳහා ඔස්ට්‍රේලියානු අග්‍රාණ්ඩුකාර සමන්තා ජෝයි මොස්ටින් මහත්මිය දිවයිනට පැමිණ තිබේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ආරාධනයකට අනුව ඔඕස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය ඊයේ (06) දිනයේ දිවයිනට පැමිණි බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
-
-දිවයිනට පැමිණි අග්‍රාණ්ඩුකාර සමන්තා ජෝයි මොස්ටින් ඇතුළු දූත පිරිස අමාත්‍ය විජිත හේරත් මහතා විසින් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළෙහිදී පිළිගනු ලැබීය.
-
-මෙම සංචාරයේදී සමන්තා ජෝයි මොස්ටින් මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය හමුවී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට ද නියමිතය.
-
-එහිදී ඔස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර ද්විපාර්ශ්වික සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සහ දෙරටේම අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා පවතින සහයෝගීතා ක්ෂේත්‍ර පුළුල් කිරීමේ අවස්ථා පිළිබඳ සාකච්ඡා කෙරෙනු ඇති.
-
-...
-
-[Data](articles/88ee1175.json)
-
----
-
-### Sri Lanka consumer goods firm sees strong demand as prices deflate
-
-*2025-08-07 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-goods-firm-sees-strong-demand-as-prices-deflate-235168/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hemas Holdings said it saw volume grow in its consumer goods division and profits rise in the June 2025 quarter, even as total revenues fell amid previous price cuts amid deflationary conditions.
-
-Sri Lanka’s central bank has missed its 5 percent inflation target (which can go up to 7 percent) in recent months, giving unusual East Asian style currency stability helped by broadly deflationary monetary policy including unsterilized dollar sales in the first half 2025.
-
-“The Sector continued to strengthen its market presence through focused sales and promotional initiatives, which supported volume recovery across key categories,” Hemas Holdings told shareholders in interim accounts.
-
-“Despite a marginal 2.6 percent year-on-year decline in revenue primarily due to price adjustments taken previously that were driven by input cost deflation, the sector maintained its profitability through a combination of portfolio mix optimisation and sustained process improvements.
-
-...
-
-[Data](articles/ae23bd1a.json)
-
----
-
-### Constitutional Council to convene today
-
-*2025-08-07 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111254/constitutional-council-to-convene-today) · `en`
-
-The Constitutional Council (CC) is scheduled to meet at 1.30 p.m. today (07) at the Parliament complex, chaired by Speaker Dr. Jagath Wickramaratne.
-
-Meanwhile, the letter removing Deshabandu Tennakoon from the post of Inspector General of Police (IGP) was handed over to him yesterday (06) at his residence by officials from the Ministry of Public Security.
-
-The resolution for his removal from the office of IGP was passed in Parliament on August 05.
-
-A total of 177 Members of Parliament voted in favor of the motion, while no MP voted against it. Member of Parliament Ramanathan Archchuna abstained from voting.
-
-Following this, it was forwarded to Speaker Dr. Jagath Wickramaratne and was signed by President Anura Kumara Dissanayake yesterday.
-
-President Dissanayake then approved the removal, and the letter was subsequently directed to the Secretary of the Ministry of Public Security.
-
-...
-
-[Data](articles/ab540762.json)
-
----
-
-### මෙරටින් දෛනිකව සියදිවි නසාගැනීම් 8ක් - පාසල් සිසුන් ගැනත් බය හිතෙන කතාවක්
-
-*2025-08-07 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213113) · `si`
-
-සමාජයේ විවිධ හේතූන් වර්තමානයේ පාසල් සිසුන් යම් මානසික පීඩනයන්ට ගොදුරු වී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
-
-එහි මානසික සෞඛ්‍ය අධ්‍යක්ෂ කාර්යාලයේ වැඩබලන අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ලක්මිනි මාගොඩරත්න මහත්මිය සඳහන් කළේ, පසුගිය වසරේ සිදුකළ සමීක්ෂණයකින් මේ බව අනාවරණය වී ඇති බවය.
-
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය ලක්මිනි මාගොඩරත්න මහත්මිය සඳහන් කළාය.
-
-"2024 වර්ෂයේ ශ්‍රී ලංකාවේ පාසල් සෞඛ්‍ය සමීක්ෂණයක් තිබ්බා එතනදී අපේ දරුවන්ගේ දත්ත බැලුවහම 22.4% දරුවෝ තනිකමින් පෙළෙනවා. මේ පාසල් යන අවුරුදු 13 - 17 වයස්වල ළමයි 11.9%ක් කිව්වා රෑට නිදාගන්න අමාරුයි එයාලා මොනවාහරි දේකට කනස්සල්ලට පත්වෙන නිසා කියලා. 18%ක් විතර විශාදය ලක්ෂණ පෙන්නුම් කරලා තිබුණා. 7.5%කට සමීප මිතුරෝ නෑ. 25%ක් ළමයි කියලා තිබුණා ඒ අයට ඉන්නවා හිතේ තියෙන ගැටලුවක් කතා කරන්න කෙනෙක් කියලා. ඒ කියන්නේ 75%ක දරුවන්ට සමීප කෙනෙක් නෑ. ඉතින් මේ ලංකාවේ මෙහෙම වෙන්න පුළුවන් ද කියලා හිතෙනවා. දැන් දරුවන් ලොකු පීඩනයකින් ඉන්න පුළුවන්. ඒ එක්කම වැඩිහිටියොත් පීඩනයකින් ඉන්න පුළුවන්. එයට නොයෙකුත් සමාජ කාරණා සහ ආතතිය බලපාන්න පුළුවන්."
-
-...
-
-[Data](articles/970feb7a.json)
-
----
-
-### இரவோடு இரவாக ரஷ்யா பறந்த இந்தியாவின் ஜேம்ஸ் பாண்ட்
-
-*2025-08-07 08:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இரவோடு-இரவாக-ரஷ்யா-பறந்த-இந்தியாவின்-ஜேம்ஸ்-பாண்ட்/50-362481) · `ta`
-
-தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவல் ரஷ்ய அதிகாரிகளை சந்திக்க மாஸ்கோ சென்றுள்ளார்.
-
-அமெரிக்கா-இந்தியா உறவுகளில் பதற்றம் அதிகரித்துள்ளது. இந்தியப் பொருட்களுக்கு அமெரிக்கா வரி விதிக்க அச்சுறுத்துகிறது. இந்தியா ரஷ்ய எண்ணெய் கொள்முதலை உடனே நிறுத்த வேண்டும் என்றும் ட்ரம்ப் எச்சரிக்கை விடுத்து வருகிறார்.
-
-அடுத்த 24 மணி நேரத்தில் இந்திய பொருட்களுக்கு கூடுதல் வரி விதிக்கப்படும், வர்த்தகத்தில் அமெரிக்காவுடன் இந்தியா சிறந்த நண்பராக இல்லை என அமெரிக்க ஜனாதிபதி ட்ரம்ப் மீண்டும் குற்றச்சாட்டு வைத்துள்ளார். இந்த நிலையில்தான் தேசிய பாதுகாப்பு ஆலோசகர் தோவல் செவ்வாய்க்கிழமை மாஸ்கோ சென்றடைந்தார்.
-
-இந்திய ரஷ்ய எண்ணெயை வாங்குவதை நிறுத்த மறுக்கிறது. இதனால், செவ்வாய்க்கிழமை ட்ரம்ப் வரி உயர்வை அச்சுறுத்தினார். ஏற்கனவே 25 சதவீத வரி இந்தியாவில் விதிக்கப்பட்டுள்ளது. அதை கணிசமாக அதிகரிக்கப் போவதாக அவர் கூறினார். இந்தியா அதிக அளவில் ரஷ்ய எண்ணெயை வாங்குகிறது. அதை அதிக லாபத்திற்கு வெளிச்சந்தையில் விற்கிறது. இதனால் வரி கணிசமாக அதிகரிக்கும் என அவர் தெரிவித்தார்.
-
-...
-
-[Data](articles/7e3b5926.json)
-
----
-
-### බ්‍රසීලය ලෝක වෙළෙඳ සංවිධානයේ උපදේශන සහාය පතයි
-
-*2025-08-07 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213112) · `si`
-
-එක්සත් ජනපදය විසින් පනවා ඇති 50% තීරුබදු සම්බන්ධයෙන් බ්‍රසීලය ලෝක වෙළෙඳ සංවිධානයේ උපදේශන සහාය ඉල්ලා තිබේ.
-
-සාමාන්‍යයෙන් ලෝක වෙළඳ සංවිධානයෙන් මෙලෙස උපදේශන සඳහා ඉල්ලීමක් සිදු කිරීම වෙළෙඳ ආරවුල් ක්‍රියාවලියක පළමු පියවර බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/f433e721.json)
-
----
-
-### Brazil requests consultations at World Trade Organization over Trump’s tariffs
-
-*2025-08-07 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111252/brazil-requests-consultations-at-world-trade-organization-over-trumps-tariffs) · `en`
-
-Brazil requested consultations at the World Trade Organization over tariffs imposed by U.S. President Donald Trump against the South American nation that went into effect on Wednesday.
-
-Trump has directly tied the 50% tariff on many imported Brazilian goods to the judicial situation of his embattled ally, former President Jair Bolsonaro, who is currently under house arrest.
-
-“The United States has flagrantly violated key commitments the country has agreed upon at the WTO, such as the principle of the most favored nation and tariff ceilings negotiated at that organization,” Brazil’s foreign ministry said in a statement.
-
-The most favored nation principle is a cornerstone of Geneva-based WTO, whose aim is to get countries to respect trade agreements. The principle directs its members to treat each other equally in trade. WTO panels are set if no agreement is reached in disputes between members.
-
-...
-
-[Data](articles/7babab73.json)
 
 ---

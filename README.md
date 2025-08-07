@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 04:49:02**
+As of **2025-08-08 05:06:40**
 
 ## Newspaper Stats
 
-*Scraped **69,352** Articles*
+*Scraped **69,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
-dailyftlk | 4,884
+dailyftlk | 4,886
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,39 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,352 articles have been extended.
+61,973 (89.4%) of 69,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### A time to put off  times of trouble
+
+*2025-08-08 04:38:47* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-put-off-times-of-trouble/4-780043) · `en`
+
+As economy watchers warned only recently, Sri Lanka by dint of its Central Bank’s defence of the latest rate cut is skating on thin ice vis-à-vis a second default
+
+Time is a funny thing that way. To a sad and lonely old man, sitting on a park bench next to a pretty energetic girl is but a few achingly fleeting moments. But to the lass it may seem like an unbearable lifetime. No less a savant than lateral thinker and theoretical physicist Albert Einstein discovered the truth about this for himself.
+
+One doesn’t have to be a genius such as the genial giant of quantum physics to figure out the chemistry of such attraction and attrition. But the object lesson here is more about the flexibility of time as it seems to pass that is the point.
+
+...
+
+[Data](articles/fe111202.json)
+
+---
+
+### Why Sri Lanka should be ready for “B-READY”
+
+*2025-08-08 04:32:13* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-should-be-ready-for-B-READY/4-780042) · `en`
+
+In 2024, the global approach to measuring business climate saw a major transformation. The World Bank Group introduced the Business Ready (B-READY) Index, its new flagship report aimed at assessing the business and investment environment across countries. This index replaces the discontinued Ease of Doing Business (EoDB) report and brings with it a more robust, implementation-focused, and reform-oriented methodology. While the inaugural edition of the B-READY Index covered 50 countries, Sri Lanka was not included. However, the World Bank has indicated its intention to expand the coverage globally by 2026. This gives Sri Lanka a valuable window of opportunity to get ready and initiate key reforms.
+
+...
+
+[Data](articles/fe1101bc.json)
+
+---
 
 ### Has Israel become a pariah State of the world?
 
@@ -1741,35 +1769,5 @@ President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
 ◼️
 
 [Data](articles/3b65b76f.json)
-
----
-
-### අධ්‍යාපන අමාත්‍යංශයේ විමර්ශන කඩිනම් කරන්න - අගමැති හරිනි
-
-*2025-08-07 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213126) · `si`
-
-පාසල් සමබන්ධව ලැබෙන පැමිණිලි නිවැරදිව හා කාර්යක්ෂමව විමර්ශනය කිරීම සඳහා අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තිය අධ්‍යාපන අමාත්‍යංශයේ විමර්ශන අංශය අවශ්‍ය නිලධාරීන්ගේ පුරප්පාඩු සම්පූර්ණ කර ශක්තිමත් කරන ලෙසත්, පවතින විමර්ශන කඩිනම් කරන ලෙසත් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
-
-පාර්ලිමේන්තුවේ කමිටු කාමර අංක එකෙහි ඊයේ (06) පැවති අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යංශයේ පාර්ලිමේන්තු උපදේශන කාරක සභාවේ සභාපතිනිය ලෙස මතු වූ ගැටලුවලට පිළිතුරු ලබා දෙමින් අග්‍රාමාත්‍යතුමිය මේ බව පැවසීය.
-
-දසවැනි පාර්ලිමේන්තුව විසින් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යංශය වෙනුවෙන් පත් කළ පාර්ලිමේන්තු උපදේශන කාරක සභාවේ තෙවන වර රැස්වීම පාර්ලිමේන්තුවේදී ඊයේ පැවත්විණි.
-
-...
-
-[Data](articles/e0cadd30.json)
-
----
-
-### ජනපතිවරුන්ගේ හිමිකම් ඉවත්කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවට
-
-*2025-08-07 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213125) · `si`
-
-ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පත අද (07) පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබේ.
-
-කෙසේ වෙතත් පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කළ යුතු දින ගණන සම්පූර්ණ නොවීම හේතුවෙන් අද (07) දිනයේදි මෙය ඉදිරිපත් කළ නොහැකි බවට විපක්ෂයෙන් පෙන්වා දීමත් සමඟ විවාදාත්මක තත්ත්වයක් හටගත්තේය.
-
-◼️
-
-[Data](articles/ec71cb15.json)
 
 ---

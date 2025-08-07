@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 12:29:20**
+As of **2025-08-07 12:52:48**
 
 ## Newspaper Stats
 
-*Scraped **69,239** Articles*
+*Scraped **69,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,665
 adaderanalk | 8,599
-tamilmirrorlk | 10,127
+tamilmirrorlk | 10,130
 virakesarilk | 11,526
-adaderanasinhalalk | 11,918
+adaderanasinhalalk | 11,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,239 articles have been extended.
+61,973 (89.5%) of 69,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### පාර්ලිමේන්තු ආ ජනපතිගෙන් විපක්ෂයට සැර ප්‍රකාශයක්
+
+*2025-08-07 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213127) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණියේය.
+
+මෙහිදී අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ, විපක්ෂය විසින් ආර්ථිකයේ බිඳ වැටීම සම්බන්ධයෙන් ව්‍යවසනකාරී සිහිනයක් දකින බවත් එම විනාශකාරී සිහිනය කිසිදු දිනක ඉටුනොවන බවත්ය.
+
+"මේ බිඳ වැටීම අපේක්ෂා කළා ඉන්දියාව සහ පාකිස්තානය අතර යුද ගැටුම් ඇති වුණාට පස්සේ නිරන්තර මාධ්‍ය සාකච්ඡා පවත්වන මහත්වරු කොළඹට බෝම්බ දායි කියලා අපේක්ෂා කළා. ඒ වෙලාවේත් අපේ හමුදාපතිවරු හිටියේ පාකිස්තානයේ. නමුත් මෙහෙ විපක්ෂය අපේක්ෂා කළා කොළඹට බෝම්බ දායි කියලා. ඒක ප්‍රාර්ථනාවක්. ඊට පස්සේ ඊශ්‍රායලය සහ ඉරානය අතර ජාත්‍යන්තර මට්ටමේ යුද්ධයක් පටන් ගත්තාට පස්සේ දැන් බිඳවැටෙයි කියලා. ඒක වුණේ නෑ. ඊළඟ විශාලම අපේක්ෂාව වුණේ අමෙරිකානු බදු ප්‍රතිපත්තිය මඟින් අපේ ආර්ථිකය බිඳ වැටේවි කියලා.
+
+ඒ නිසා තමුන්නාන්සේලා අපේ ආර්ථිකයේ ව්‍යසනයක් ඇති වේවි කියා කුරිරු සිහිනයක් දකිනවා. ඒ විනාශකාරී සිහිනය සැබෑ වෙන්නේ නෑ. ඒක විතරක් තියලා තියා ගන්න. දේශපාලනය වෙන රාමුවකින් කරන්න පටන් ගන්න. ඔය රාමුව වැරදියි. අගෝස්තු ජනාධිපති කෙනෙක් හිටියා නේද පාර්ලිමේන්තුවේත් නෑ..."
+
+◼️
+
+[Data](articles/3b65b76f.json)
+
+---
 
 ### අධ්‍යාපන අමාත්‍යංශයේ විමර්ශන කඩිනම් කරන්න - අගමැති හරිනි
 
@@ -59,6 +77,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ec71cb15.json)
+
+---
+
+### நாட்டில் தினமும் 8 உயிர்மாய்ப்பு சம்பவங்கள்
+
+*2025-08-07 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-தினமும்-8-உயிர்மாய்ப்பு-சம்பவங்கள்/175-362505) · `ta`
+
+சமூகத்தில் பல்வேறு காரணங்களால், பாடசாலை மாணவர்கள் தற்போது மன அழுத்தங்களுக்கு ஆளாகியுள்ளனர் என்று சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+கடந்த ஆண்டு நடத்தப்பட்ட ஒரு கணக்கெடுப்பில் இது தெரியவந்ததாக  சுகாதார அமைச்சின் விசேட வைத்திய நிபுணர் லக்மினி நயனா மகோதரத்ன தெரிவித்தார்.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு அவர் இதனைக் கூறியுள்ளார்.
+
+“2024 ஆம் ஆண்டில், இலங்கையில் ஒரு பாடசாலை சுகாதார கணக்கெடுப்பு நடத்தப்பட்டது, தரவுகளைப் பார்த்தபோது, 22.4% மாணவர்கள் தனிமையால் பாதிக்கப்பட்டுள்ளனர்.
+
+13-17 வயதுடைய இந்த பாடசாலை செல்லும் மாணவர்களில் 11.9% பேர், ஏதோவொன்றைப் பற்றி கவலைப்படுவதால் இரவில் தூங்குவதில் சிரமப்படுவதாகக் கூறினர்.
+
+சுமார் 18% பேர் மனச்சோர்வின் அறிகுறிகளைக் கொண்டிருந்தனர். 7.5% பேருக்கு நெருங்கிய நண்பர்கள் இல்லை. 25% மாணவர்கள் தங்கள் மனதில் உள்ள ஒரு பிரச்சினையைப் பற்றி பேச யாராவது இருப்பதாகக் கூறினர்.
+
+...
+
+[Data](articles/e2fac4da.json)
+
+---
+
+### நாட்டில் தினமும் 8 உயிர்மாய்ப்பு சம்பவங்கள்
+
+*2025-08-07 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டில்-தினமும்-8-உயிர்மாய்ப்பு-சம்பவங்கள்/150-362505) · `ta`
+
+சமூகத்தில் பல்வேறு காரணங்களால், பாடசாலை மாணவர்கள் தற்போது மன அழுத்தங்களுக்கு ஆளாகியுள்ளனர் என்று சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+கடந்த ஆண்டு நடத்தப்பட்ட ஒரு கணக்கெடுப்பில் இது தெரியவந்ததாக  சுகாதார அமைச்சின் விசேட வைத்திய நிபுணர் லக்மினி நயனா மகோதரத்ன தெரிவித்தார்.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு அவர் இதனைக் கூறியுள்ளார்.
+
+“2024 ஆம் ஆண்டில், இலங்கையில் ஒரு பாடசாலை சுகாதார கணக்கெடுப்பு நடத்தப்பட்டது, தரவுகளைப் பார்த்தபோது, 22.4% மாணவர்கள் தனிமையால் பாதிக்கப்பட்டுள்ளனர்.
+
+13-17 வயதுடைய இந்த பாடசாலை செல்லும் மாணவர்களில் 11.9% பேர், ஏதோவொன்றைப் பற்றி கவலைப்படுவதால் இரவில் தூங்குவதில் சிரமப்படுவதாகக் கூறினர்.
+
+சுமார் 18% பேர் மனச்சோர்வின் அறிகுறிகளைக் கொண்டிருந்தனர். 7.5% பேருக்கு நெருங்கிய நண்பர்கள் இல்லை. 25% மாணவர்கள் தங்கள் மனதில் உள்ள ஒரு பிரச்சினையைப் பற்றி பேச யாராவது இருப்பதாகக் கூறினர்.
+
+...
+
+[Data](articles/f2c7ba1f.json)
 
 ---
 
@@ -100,7 +162,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-07 11:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலியுக-வரதன்-வலம்/175-362501) · `ta`
 
-2025 ஆம் ஆண்டு நல்லுர்  ஸ்ரீ கந்தசுவாமி ஆலய வருடாந்த தேர் திருவிழாவின் ஒன்பதாம் நாள், புதன்கிழமை (07) மாலை நேர பூஜையின் போது கரு நிற வண்ணத்தில் கரியில் கலியுக வரதன் ஏறி வலம் வந்தது.
+2025 ஆம் ஆண்டு நல்லூர் ஸ்ரீ கந்தசுவாமி ஆலய வருடாந்த தேர் திருவிழாவின் ஒன்பதாம் நாள், புதன்கிழமை (07) மாலை நேர பூஜையின் போது கரு நிற வண்ணத்தில் கரியில் கலியுக வரதன் ஏறி வலம் வந்தது.
 
 ◼️
 
@@ -449,6 +511,24 @@ However, the motive behind the shooting has not yet been revealed, police said.
 ◼️
 
 [Data](articles/0aba470a.json)
+
+---
+
+### ’’அழுது கவலைகளை போக்க இங்க வாங்க ’’
+
+*2025-08-07 10:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/அழுது-கவலைகளை-போக்க-இங்க-வாங்க/53-362489) · `ta`
+
+"அழுது கவலைகளை போக்க இங்க வாங்க!"  அதற்காக  "Crying Club '' என்ற புதிய இடம் ஒன்று  இந்தியாவின் மும்பையில் உருவாக்கப்பட்டுள்ளது.
+
+மன உளைச்சலில் இருப்பவர்கள் தயக்கமின்றி அழுவதற்காக இந்த இடம் உருவாக்கப்பட்டுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+குறித்த இடத்திற்கு செல்பவர்களுக்கு tissue paper, தேநீர் , கட்டிப்பித்தல் ஆகியவை மூலம், ஆறுதல் வழங்கப்படும் என தெரிவிக்கப்படுகின்றது.
+
+எனினும், அதற்கான கட்டணம் தொடர்பாக விபரங்கள் எதுவும் இதுவரை குறிப்பிடப்படவில்லை என இந்திய ஊடகங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/6e8bf005.json)
 
 ---
 
@@ -1681,65 +1761,5 @@ Those crossings were reported in E B Creasy where 3.6 million shares crossed to 
 ...
 
 [Data](articles/1a691ce5.json)
-
----
-
-### One person injured in shooting incident in Maharagama
-
-*2025-08-06 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111248/one-person-injured-in-shooting-incident-in-maharagama) · `en`
-
-An individual has sustained injuries in a shooting incident reported in Navinna, Maharagama today (06), the Police Media Division said.
-
-According to police, an unidentified individual who arrived on a scooter has carried out the shooting.
-
-◼️
-
-[Data](articles/16f687ce.json)
-
----
-
-### නාවින්නේ වෙඩිතැබීමක්
-
-*2025-08-06 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213105) · `si`
-
-ස්කූටරයකින් පැමිණි පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති අතර, තුවාල ලැබූ පුද්ගලයෙකු රෝහල්ගත කර ඇත.
-
-◼️
-
-[Data](articles/e08f3eea.json)
-
----
-
-### චිචීගේ රොකට් එකට රජයෙන් කිසිම ආයෝජනයක් කර නෑ
-
-*2025-08-06 22:03:24* · [`adalk`](https://www.ada.lk/breaking_news/චිචීගේ-රොකට්-එකට-රජයෙන්-කිසිම-ආයෝජනයක්-කර-නෑ/11-417768) · `si`
-
-2011-12 කාලයේදී සුප්‍රිම් ග්ලෝබල් හෝල්ඩින්ග්ස් ආයතනයට අනුබද්ධිත සුප්‍රිම් සැට් සමාගම විසින් දියත් කළ සන්නිවේදන චන්ද්‍රිකාව සඳහා ශ්‍රී ලංකා රජය විසින් කිසිදු ආයෝජනයක් සිදු කර නොමැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ඩී.වී.චානක මහතා යොමු කළ ප්‍රශ්නයකට පාර්ලිමේන්තුවේදී පිළිතුරු ලබා දෙමින් අග්‍රාමාත්‍යවරිය මේ බව සඳහන් කළාය.
-
-“චිචීගේ රොකට් එක” යනුවෙන් රටම දන්න මේ චන්ද්‍රිකාව හරහා මෙරට මුදල් ඩොලර් මිලියන 300ක් ආයෝජනය කර අතුරුදන්ව නොමැති බව මෙයින් පැහැදිලි වන බවත්, අදළ ව්‍යාපෘතිය හරහා වාර්ෂිකව මිලයන 20,000ක් ලෙස රටට අදායමක් ලැබී ඇතැයි පිළිතුර අනුව පැහැදිලි වන බවත් ඊට ප්‍රතිචාර දක්වමින් චානක මන්ත්‍රීවරයා පැවසීය.
-
-...
-
-[Data](articles/c44eedfb.json)
-
----
-
-### Heat advisory issued for several areas
-
-*2025-08-06 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111247/heat-advisory-issued-for-several-areas) · `en`
-
-The Meteorology Department has issued a Warm Weather Advisory for North-central and Eastern provinces, Jaffna, Kilinochchi, Mullaitivu, Vavuniya, Monaragala and Hambantota districts.
-
-It states that the heat index — the temperature felt by the human body — is likely to increase to the ‘Caution level’ at some places in North-central and Eastern provinces, and in Jaffna, Kilinochchi, Mullaitivu, Vavuniya, Monaragala and Hambantota districts.
-
-As per the advisory, under the ‘Caution’ level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
-
-Thus, members of the public are advised to stay hydrated, take breaks in the shade as often as possible, and limit strenuous outdoor activities. They are also requested to check on the elderly and the sick, never leave children unattended inside vehicles, and wear lightweight, white or light-colored clothing.
-
-...
-
-[Data](articles/0e6dce3e.json)
 
 ---

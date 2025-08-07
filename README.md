@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 05:32:42**
+As of **2025-08-07 06:11:51**
 
 ## Newspaper Stats
 
-*Scraped **69,161** Articles*
+*Scraped **69,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-islandlk | 4,216
 economynextcom | 4,220
+islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,660
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,161 articles have been extended.
+61,973 (89.6%) of 69,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### Apple to invest $100bn after pressure from Trump
+
+*2025-08-07 04:53:00* · [`islandlk`](http://island.lk/apple-to-invest-100bn-after-pressure-from-trump/) · `en`
+
+Apple plans to boost investment in the US by another $100bn (£75bn) as the tech giant comes under pressure from President Donald Trump.
+
+The White House said the money would be used to encourage firms to make more Apple parts in the US and would add to the company’s previous pledge to spend $500bn in the US over four years.
+
+It comes after Trump singled out Apple by name earlier this year, threatening to raise tariffs on its products if it did not move iPhone manufacturing to the US.
+
+Apple chief executive Tim Cook last week referenced the company’s earlier commitment and said it was looking to “do more” as it tries to avoid a wave of tariffs poised to hit its products.
+
+...
+
+[Data](articles/4fdfb516.json)
+
+---
 
 ### Cabinet approves multiple medical procurement contracts worth over $ 5.6 m
 
@@ -383,6 +401,82 @@ An authentically non-elitist leader who broke the caste-class barrier in 1988, P
 ...
 
 [Data](articles/4c17c379.json)
+
+---
+
+### Intrepid together with MDF and SLTDA conducts empowering women in tourism capacity-building sessions in Bandarawela
+
+*2025-08-06 23:33:00* · [`islandlk`](http://island.lk/intrepid-together-with-mdf-and-sltda-conducts-empowering-women-in-tourism-capacity-building-sessions-in-bandarawela/) · `en`
+
+Intrepid Colombo has successfully concluded the third chapter of its transformative “Women in Tourism” initiative, expanding its reach to the Uva Province with two impactful capacity-building sessions held recently in Bandarawela.
+
+Conducted in partnership with Australia’s Market Development Facility (MDF) and the Sri Lanka Tourism Development Authority (SLTDA), the session welcomed a group of enthusiastic participants across two specialized workshops designed to empower women at different stages of their tourism careers.
+
+The first session brought together women business owners already working within the tourism industry, while the second welcomed aspiring and current female tour leaders, creating a comprehensive approach to women’s empowerment across the tourism value chain. Since its inception in September 2024, the program has seen a remarkable success.
+
+...
+
+[Data](articles/c1d40e5a.json)
+
+---
+
+### Aligning private capital with public purpose: The role of banks in driving a true Sri Lankan revival-part II
+
+*2025-08-06 23:32:00* · [`islandlk`](http://island.lk/aligning-private-capital-with-public-purpose-the-role-of-banks-in-driving-a-true-sri-lankan-revival-part-ii/) · `en`
+
+Across Sri Lanka, we meet many other spirited entrepreneurs—from spice farms, and fisheries to young designers, software engineers, and even creative professionals – who each possess the drive and local insight to build vibrant businesses that can empower themselves financially, and create quality employment for others.
+
+Our role as a bank is to spot these visionaries early, to tailor financing and advisory support to their specific needs, and to partner with them as they scale. By doing so, we rebuild livelihoods and catalyse a new wave of valueadded enterprises that can compete nationally and even internationally.
+
+At its core, Sarusara seeks to help Sri Lankan farmers understand, integrate and adapt to technology in their work. Confronted with yields well below global benchmarks, rural communities remain tethered to traditional practices not out of preference but because of entrenched knowledge and resource gaps.
+
+...
+
+[Data](articles/893d6129.json)
+
+---
+
+### nVentures emerges as Sri Lanka’s first MAS-licensed foreign VC, investing over US$1.5 million in Sri Lankan startups
+
+*2025-08-06 23:31:00* · [`islandlk`](http://island.lk/nventures-emerges-as-sri-lankas-first-mas-licensed-foreign-vc-investing-over-us1-5-million-in-sri-lankan-startups/) · `en`
+
+In a major milestone for Sri Lanka’s startup ecosystem, nVentures has emerged as the country’s first foreign venture capital firm to be licensed by Singapore’s Monetary Authority (MAS) and actively invest in local startups.
+
+In just three years, the firm has backed six Sri Lankan ventures, delivered a portfolio exit, and, together with its regional investor community, channelled over USD 1.5 million into Sri Lankan startups through capital and commercial partnerships. This includes investments in MintPay, Nanosoft, SimpleBooks, Shopbook, Dossiers, Kaiju Labs, and WealthOS, a UK fintech with its entire engineering team based in Sri Lanka.
+
+...
+
+[Data](articles/2b5ce834.json)
+
+---
+
+### AIA Sri Lanka rises from Silver to Gold at Hashtag Asia Awards 2025
+
+*2025-08-06 23:30:00* · [`islandlk`](http://island.lk/aia-sri-lanka-rises-from-silver-to-gold-at-hashtag-asia-awards-2025/) · `en`
+
+AIA Sri Lanka has elevated its standing on the regional stage, winning Gold in the ‘Best Social Media Campaign: Facebook’ category at the Hashtag Asia Awards 2025. This marks a proud progression from last year’s Silver accolade, reinforcing the brand’s commitment to innovation and impact in digital storytelling. With this win, AIA becomes the first Sri Lankan brand to secure top honours at the Hashtag Asia Awards for two consecutive years.
+
+This year’s recognition celebrates AIA Sri Lanka’s pioneering initiative, AIA Suwa Walan, a culturally resonant campaign designed to raise awareness about breast cancer among Sri Lankan women. The campaign stood out among hundreds of entries from across Asia-Pacific, showcasing the power of creativity and digital engagement in driving meaningful social change.
+
+...
+
+[Data](articles/8d50ad85.json)
+
+---
+
+### Low interest rates take bourse along revival track
+
+*2025-08-06 23:29:00* · [`islandlk`](http://island.lk/low-interest-rates-take-bourse-along-revival-track/) · `en`
+
+The CSE bounced back yesterday after two days due to the existence of conducive market conditions stemming from low interest rates. Accordingly, the market moved to green territory with all the macro- economic conditions in place for the market to grow, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 86.8 points while S and P SL20 rose by 11.3 points. Turnover stood at Rs 4.4 billion with nine crossings.
+
+Those crossings were reported in E B Creasy where 3.6 million shares crossed to the tune of Rs 218 million and its shares traded at Rs 60, NDB 500,000 shares crossed to the tune of Rs 70 million; its shares traded at Rs 140, Colombo Fort Land 750,000 shares crossed for Rs 59.2 million; its shares traded at Rs 79, VallibelOne 560,000 shares crossed to the tune of Rs 51.2 million; its shares sold at Rs 91.5, CIC Holdings 200,000 shares crossed for Rs 29 million; its shares traded at Rs 145.
+
+...
+
+[Data](articles/b36b1044.json)
 
 ---
 
@@ -1675,133 +1769,5 @@ The biggest fine was handed to National Savings Bank (NSB), which was ordered to
 ...
 
 [Data](articles/5f4a9ede.json)
-
----
-
-### ஜப்பானின் ஹிரோசிமா மீது அமெரிக்கா அணுகுண்டை வீசி இன்றுடன் 80 வருடங்கள் -'உக்ரைன் மத்திய கிழக்கு மோதல்கள் அணுகுண்டினால் ஏற்படக்கூடிய பெரும் துன்பியல் நிகழ்வுகளை உலகம் புறக்கணிப்பதை காண்பிக்கின்றது"
-
-*2025-08-06 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/221960) · `ta`
-
-உக்ரைன் மத்திய கிழக்கு நெருக்கடிகள் உலகம் அணுவாயுதத்தினால் ஏற்படக்கூடிய பெரும் துன்பியல் நிகழ்வுகளை புறக்கணிக்கின்றது என்பதை வெளிப்படுத்தியுள்ளது என அமெரிக்காவின் அணுகுண்டுவீச்சிற்கு உள்ளான ஹிரோசிமாவின் மேயர் தெரிவித்துள்ளார்.
-
-ஹிரோசிமா மீது அமெரிக்கா அணுகுண்டுவீச்சினை மேற்கொண்டு இன்றுடன் 80 வருடங்களாகின்ற நிலையில் அது தொடர்பான நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
-
-ஹிரோசிமாவின் அமைதிப்பூங்காவில் இடம்பெற்ற நிகழ்வில் பொதுமக்கள் உயிர் பிழைத்தவர்கள்  மற்றும் 120 நாடுகளின் பிரதிநிதிகள் கலந்துகொண்டனர்.
-
-இந்த நிகழ்வில் உரையாற்றிய ஹிரோசிமாவின் மேயர்  கசுமீ மட்சுய் உக்ரைனிலும் மத்தியகிழக்கிலும் இடம்பெற்ற மோதல்கள் அணுவாயுதங்களை ஏற்றுக்கொள்ளும் மனோநிலையை ஏற்படுத்தியுள்ளது என தெரிவித்துள்ளார்.
-
-இந்த மோதல்கள் வரலாற்றின் துயரங்களில் இருந்து சர்வதேச சமூகம் கற்றுக்கொள்ளவேண்டிய பாடங்களை புறக்கணிக்கின்றன என ஹிரோசிமா மேயர் தெரிவித்துள்ளார்.
-
-பலர் மிகவும் கடினமாக உழைத்து உருவாக்கிய அமைதி கட்டமைப்பை கவிழ்த்துவிடுவோம் என  அவர்கள் அச்சுறுத்துகின்றனர் என மேயர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/78a0a547.json)
-
----
-
-### පාස්කු ප්‍රහාර නඩුව කල්යයි
-
-*2025-08-06 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213088) · `si`
-
-පාස්කු ඉරිදා ත්‍රස්ත ප්‍රහාරය කුමන්ත්‍රණය කිරීම, ආධාර අනුබලදීම ඇතුළු චෝදනා යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහිව ගොනු කර තිබෙන නඩුව අද (06) කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල හමුවේ කැඳවනු ලැබීය.
-
-ඒ අනුව අදාළ නඩුව නවරත්න මාරසිංහ, ප්‍රදීප් අබේරත්න සහ සූජීව නිශ්ශංක යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී විත්තිකරුවන් දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-මෙම නඩුකරයට අදාළව විත්තිකරුවකු ශ්‍රේෂ්ඨාධිකරණයට අභියාචනයක් ඉදිරිපත් කර ඇති බැවින් මෙම නඩුවේ සාක්ෂි විභාගය වෙනත් දිනයකට කැඳවීමට නියම විය.
-
-ඒ අනුව මෙම නඩුවේ සාක්ෂි විභාගය සැප්තැම්බර් මස 11 වන දා දක්වා කල් තිබුණි.
-
-මෙම නඩුවට අදාළව නව්ෆර් මව්ලවි ඇතුළු විත්තිකරුවන් 24කට එරෙහිව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ නීතිපතිවරයා විසින් මෙම නඩුව ගොනු කර තිබුණි.
-
-මෙම නඩුවේ විත්තිකරුවන් සියලුදෙනා අධිකරණය මගින් රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-◼️
-
-[Data](articles/08bedbe5.json)
-
----
-
-### மோசடிகளுடன் தொடர்புடைய 6.8 மில்லியன் கணக்குகள் நீக்கம் - வட்ஸ் அப்
-
-*2025-08-06 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/221957) · `ta`
-
-இவ்வருடத்தின் முதல்  பாதியில் உலகெங்கிலும் உள்ள மக்களை குறிவைத்து மோசடி செய்ய பயன்படுத்தப்பட்ட 6.8 மில்லியன் கணக்குகளை வட்ஸ்அப் நீக்கியுள்ளதாக தெரிவித்துள்ளது.
-
-தென்கிழக்கு ஆசியாவில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களில் ஈடுப்படும் மோசடி மையங்களுடன் பலர் பிணைக்கப்பட்டுள்ளனர். அவர்கள் பெரும்பாலும் தங்கள் செயல்பாடுகளில் கட்டாயப்படுத்தி உழைப்பை பெற்றுள்ளதாக மெட்டாவுக்குச் சொந்தமான செய்தியிடல் தளம் தெரிவித்துள்ளது.
-
-பயனர்களை அவர்களின் தொடர்பு பட்டியலில் இல்லாத நபர் குழு ஒன்றில் இணைக்கும் போது ஏற்படும் மோசடி நடவடிக்கைகள் தொடர்பில் எச்சரிக்கை விடுக்கும் வகையில் புதிய மோசடி எதிர்ப்பு நடவடிக்கைகளை வட்ஸ்அப் அறிமுகப்படுத்திய நிலையில் இந்த அறிவிப்பை வெளியிட்டுள்ளது.
-
-இந்த நடவடிக்கை, குற்றவாளிகள் வட்ஸ்அப் கணக்குகளை அபகரிப்பது அல்லது போலி முதலீட்டுத் திட்டங்கள் மற்றும் பிற மோசடிகளை ஊக்குவிக்கும் குழு அரட்டைகளில் பயனர்களைச் சேர்ப்பது அதிகரித்து வரும் பொதுவான தந்திரத்தை இலக்காகக் கொண்டுள்ளது.
-
-மோசடி மையங்கள் அவற்றைச் செயல்படுத்துவதற்கு முன்பே கணக்குகளை கண்டறிந்து அவற்றை நீக்கியதாக வட்ஸ்அப் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/edd613c2.json)
-
----
-
-### வௌ்ளை மாளிகையின் கூரையின் மீதேறிய ட்ரம்ப் (வீடியோ இணைப்பு)
-
-*2025-08-06 15:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வௌ்ளை-மாளிகையின்-கூரையின்-மீதேறிய-ட்ரம்ப்-வீடியோ-இணைப்பு/50-362434) · `ta`
-
-வெள்ளை மாளிகையின் கூரையில் ஒரு அசாதாரண இடத்திலிருந்து  செய்தியாளர்களின் கேள்விகளுக்கு ஜனாதிபதி டொனால்ட் டிரம்ப் பதிலளித்தார்.
-
-79 வயதான அவர் அங்கு 'அணு ஏவுகணைகளை உருவாக்குவதாக' குறிப்பிட்டார். அவர் ஒரு ஏவுகணையைக் காட்டி ஒரு சைகையையும் செய்தார்.
-
-ஒரு நிருபர், 'ஐயா, நீங்கள் ஏன் கூரையில் ஏறுகிறீர்கள்?' என்று கேட்டபோது, டிரம்ப் 'கொஞ்சம் நடந்து செல்கிறேன்' என்று நையாண்டி செய்தார்.
-
-200 மில்லியன் டாலர் மதிப்புள்ள கிழக்குப் பகுதியின் 'மறுபுறம் பால்ரூம்' பற்றியும் அவர் குறிப்பிட்டார்.
-
-வெள்ளை மாளிகையின் கூரையில் ஜனாதிபதி டிரம்ப் அமர்ந்திருக்கும் வீடியோக்கள் சமூக ஊடகங்களில் வைரலானன.
-
-காலை 9:40 மணிக்கு டிரம்ப் தோன்றினார், ரகசிய சேவை உறுப்பினர்கள் மேற்குப் பகுதியின் மேல் எதிர்-ஸ்னைப்பர்களை வைப்பது உட்பட பல்வேறு முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்ததைக் காண ஒரு மணி நேரத்திற்குப் பிறகு. காலை 10:45 மணிக்கு மாநில சாப்பாட்டு அறையிலிருந்து விளக்க அறையின் கூரைக்கு செல்லும் ஒரு கதவிலிருந்து ஜனாதிபதி வெளியேறினார்.
-
-...
-
-[Data](articles/a225474c.json)
-
----
-
-### China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill
-
-*2025-08-06 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111236/china-tackles-chikungunya-virus-outbreak-with-wide-range-of-measures-as-thousands-fall-ill) · `en`
-
-An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures from mosquito nets and clouds of disinfectant, threatening fines for people who fail to disperse standing water and even deploying drones to hunt down insect breeding grounds.
-
-More than 7,000 cases of the disease have been reported as of Wednesday, focused largely on the manufacturing hub of Foshan near Hong Kong. Numbers of new cases appear to be dropping slowly, according to authorities.
-
-Chikungunya is spread by mosquitoes and causes fever and joint pain, similar to dengue fever, with the young, older people and those with pre-existing medical conditions most at risk.
-
-Chinese state television has shown workers spraying clouds of disinfectant around city streets, residential areas, construction sites and other areas where people may come into contact with virus-bearing mosquitos that are born in standing water.
-
-...
-
-[Data](articles/035e09de.json)
-
----
-
-### පුපුරා ගිය ටයිටන් සබ්මැරීන අනතුරේ අවසන් වාර්තාව එළියට
-
-*2025-08-06 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213086) · `si`
-
-ලොවක් බලා සිටි ටයිටන් සබ්මැරීනය පුපුරායාමට හේතුව වසර දෙකකට පසුව අමෙරිකා එක්සත් ජනපදයේ වෙරළාරක්ෂක සමුද්‍ර විමර්ශන මණ්ඩලය වාර්තාවක් මඟින් හෙළිකර තිබේ.
-
-වාර්තාවේ දැක්වෙන පරිදි ටයිටන් සබ්මැරීනය පුපුරායාමට ප්‍රධාන හේතුව වූයේ ටයිටන් සබ්මැරීනයේ ප්‍රධාන කොටස ප්‍රමාණවත් සැලසුම්, ඉදිකිරීම් සහ පරීක්ෂණ නොමැති වීම බවය.
-
-ඒ අනුව පුද්ගලයින් පස් දෙනෙකුට මරු කැඳවූ ව්‍යසනයට ටයිටන් සබ්මැරීනය හිමි සමාගම වන "ඕෂන්ගේට්" සමාගම වගකිව යුතු බව එම වාර්තාවේ සඳහන්ය.
-
-එමෙන්ම එම වාර්තාව මඟින් දැක්වෙන්නේ ටයිටන් සබ්මැරීනය පුපුරායාම වළක්වා ගැනීමට ඉඩකඩ තිබූ බවය.
-
-2021, 2022 සහ 2023 ආරම්භය පුරා පරීක්ෂණ සිදුකළ සහ කිමිදුම් අතරතුර ටයිටන්හි බොහෝ තාක්ෂණික ගැටලු, අලුත්වැඩියාවන් සහ නඩත්තු ගැටලු වාර්තාවේ විස්තර කර ඇත.
-
-අවසාන වශයෙන් එක්සත් ජනපදයේ සියලුම ගිල්විය හැකි ද්‍රව්‍ය ඒකාකාර ප්‍රමිතීන් යටතේ ඉදිකර නඩත්තු කළ යුතු බවට නව රෙගුලාසියක් අනුගමනය කරන ලෙස වෙරළාරක්ෂක බළකායෙන් ඉල්ලා සිටින ලෙසට ද අදාළ වාර්තාව තුළ වැඩිදුර සඳහන්ය.
-
-...
-
-[Data](articles/5a8ece9c.json)
 
 ---

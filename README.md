@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 15:36:58**
+As of **2025-08-07 15:49:26**
 
 ## Newspaper Stats
 
-*Scraped **69,259** Articles*
+*Scraped **69,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,668
-adaderanalk | 8,604
+adaderanalk | 8,605
 tamilmirrorlk | 10,134
-virakesarilk | 11,526
+virakesarilk | 11,534
 adaderanasinhalalk | 11,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,259 articles have been extended.
+61,973 (89.5%) of 69,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### ஊடகவியலாளர் குமணனை பயங்கரவாத தடுப்புப் பிரிவு விசாரணைக்காக அழைப்பு
+
+*2025-08-07 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222054) · `ta`
+
+ஊடகவியலாளர் குமணன் காணாமல்போனோரின் உறவுகளின் போராட்டங்கள், நில அபகரிப்பு மற்றும் செம்மணி மனிதப் புதைகுழி போன்ற செய்திகளை தொடர்ச்சியாக களத்தில் நின்று வெளியிட்டு வருபவர் என்பது குறிப்பிடத்தக்கது.
+
+வாக்குமூலமொன்றை பதிவுசெய்வதற்காக ஆகஸ்ட் மாதம் 17 ஆம் திகதி காலை 10 மணிக்கு முல்லைத்தீவு, அளம்பில் பொலிஸ் நிலையத்தில் அமைந்துள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவிற்கு வருமாறு குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e083572f.json)
+
+---
 
 ### 'The Hobbit ' පොතේ පිටපතක් වාර්තාගත මුදලකට අලෙවි වෙයි
 
@@ -70,6 +84,58 @@ John Ronald Reuel Tolkien විසින් රචිත මෙම නවකත
 
 ---
 
+### மியன்மார் ஜனாதிபதி மைன்ட் ஸ்வே காலமானார்
+
+*2025-08-07 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/222048) · `ta`
+
+2021 ஆம் ஆண்டு ஆட்சிக் கவிழ்ப்புக்குப் பின்னர் பதவிக்கு வந்த மியன்மாரின் ஜனாதிபதியான மைன்ட் ஸ்வே காலமானார் என அந்நாட்டு இராணுவம் அறிவித்துள்ளது.
+
+உடல்நல குறைவால் மருத்துவ ஓய்வில் ஒரு வருடம் காலம் இருந்த நிலையில் அவர் உயிரிழந்துள்ளார் என அறிக்கை ஒன்றில் இராணுவம் தெரிவித்துள்ளது.
+
+“ஜனாதிபதி யு மியிண்ட் ஸ்வே இன்று காலை 8.28 மணிக்கு காலமானார்.  74 வயதான மியின்ட் ஸ்வே தலைநகர் நேபிடாவில் உள்ள வைத்தியசாலை ஒன்றில் உயிரிழந்தார். போர் டெம் ஜனாதிபதி யு மியிண்ட் ஸ்வேவின் இறுதிச் சடங்கு அரசு மரியாதையுடன் நடைபெறும்“ என இராணுவம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/025c8918.json)
+
+---
+
+### Opposition’s ‘disastrous dream’ for economic collapse will never come true - President
+
+*2025-08-07 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111263/oppositions-disastrous-dream-for-economic-collapse-will-never-come-true-president) · `en`
+
+President Anura Kumara Dissanayake accused the opposition of hoping for an economic collapse in the country, saying such hopes are nothing more than a “disastrous dream” that will never come true.
+
+President Dissanayake made this statement while addressing the Parliament today (07).
+
+Speaking further, he said the opposition expected the economy to collapse after the conflict situation between India and Pakistan, with some even predicting that Colombo would be bombed.
+
+“At that time, our military commanders were in Pakistan. But the opposition here expected Colombo to be bombed. That was wishful thinking,” President Dissanayake said.
+
+The President also noted that the opposition later expected an economic downfall due to the conflict between Israel and Iran, but that prediction did not come true either. He further added that the opposition’s next major expectation was that the economy would collapse due to US tax policy.
+
+...
+
+[Data](articles/3e9f9651.json)
+
+---
+
+### இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச் சங்கத்தின் தலைவராக அமைச்சர் அனுர கருணாதிலக்க தெரிவு
+
+*2025-08-07 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222046) · `ta`
+
+நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் வீடமைப்பு அமைச்சர் அனுர கருணாதிலக்க, பத்தாவது பாராளுமன்றத்தின் இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச் சங்கத்தின் தலைவராக தெரிவு செய்யப்பட்டுள்ளார்.
+
+இலங்கைக்கும் பாகிஸ்தானுக்கும் இடையிலான உறவுகளை வலுப்படுத்தும் நோக்குடன், நட்புறவுச் சங்கத்தை மீண்டும் ஸ்தாபிப்பதற்கான கூட்டம் அண்மையில் பாராளுமன்றத்தில் நடைபெற்றது. சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் நடைபெற்ற இந்தக் கூட்டத்தின்போதே இந்தத் தெரிவு இடம்பெற்றது. இதன்போது, பாராளுமன்ற உறுப்பினர் ரியாஸ் பாரூக் நட்புறவுச் சங்கத்தின் செயலாளராகத் தெரிவு செய்யப்பட்டார்.
+
+கூட்டத்தில் உரையாற்றிய சபாநாயகர் ஜகத் விக்கிரமரத்ன, இரு நாடுகளுக்கும் இடையிலான நீண்டகால வர்த்தகம், கல்வி, பாதுகாப்பு மற்றும் மக்களுக்கிடையிலான தொடர்புகள் குறித்து எடுத்துரைத்தார். இலங்கைக்கு பாகிஸ்தான் தொடர்ந்து வழங்கி வரும் ஆதரவுக்கு நன்றி தெரிவித்த அவர், இந்த நட்புறவுச் சங்கத்தின் மீள் ஸ்தாபிப்பு இரு நாடுகளின் உறவை மேலும் பலப்படுத்தும் என்றார்.
+
+...
+
+[Data](articles/fb145813.json)
+
+---
+
 ### “கதவு சத்தமும் பேரே சத்தமும்”:ஜனாதிபதி விளக்கம்
 
 *2025-08-07 13:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதவு-சத்தமும்-பேரே-சத்தமும்-ஜனாதிபதி-விளக்கம்/175-362514) · `ta`
@@ -81,6 +147,28 @@ John Ronald Reuel Tolkien විසින් රචිත මෙම නවකත
 ◼️
 
 [Data](articles/ac531654.json)
+
+---
+
+### பாடசாலை மாணவர்களிடையே உளவியல் ரீதியான பாதிப்பு அதிகரிப்பு
+
+*2025-08-07 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222035) · `ta`
+
+பல்வேறு சமூக காரணிகளால் பாடசாலை மாணவர்கள் தற்போது குறிப்பிடத்தக்களவு உளவியல் ரீதியான பாதிப்புக்கு உள்ளாவதாக தெரியவந்துள்ளது.
+
+2024 ஆம் ஆண்டு நடத்தப்பட்ட பாடசாலை சுகாதாரக் கணக்கெடுப்பின் இந்த வியடம் தெரியவந்துள்ளதாக சுகாதார அமைச்சின் உளவியல் செயற்பாட்டு பணியகத்தின் பிரதி பணிப்பாளரும் விசேட வைத்திய நிபுணருமான லக்மினி மகோதரத்ன தெரிவித்துள்ளார்.
+
+75 சதவீதமான மாணவர்கள் உளநலப் பிரச்சனைகளைப் பகிர்வதற்காக நெருங்கிய நபர்கள் இல்லையென தெரிவித்துள்ளனர்.
+
+இலங்கையில் ஏன் இவ்வாறான நிலைமை ஏற்படுகிறது என  எனக்கு ஆச்சரியமாக உள்ளது. இன்றைய காலகட்டத்தில் சிறுவர்கள் அதிக மன அழுத்தத்தில் உள்ளனர்.
+
+அதேவேளை, பெரியோரும் மன அழுத்தத்தை எதிர்கொள்கிறார்கள். பல்வேறு சமூக காரணிகள் மற்றும் அழுத்தங்கள் இந்த நிலைமைக்கு பங்களிக்கின்றன என தெரிவித்துள்ளார்.
+
+தேசிய மனநல சுகாதார நிறுவனத்தின் உளவியலாளர் வைத்திய நிபுணர் சஜீவன அமரசிங்க தெரிவிக்கையில்,
+
+...
+
+[Data](articles/6f4a7a6d.json)
 
 ---
 
@@ -101,6 +189,22 @@ He became nominal president after the incumbent Win Myint was arrested during th
 ...
 
 [Data](articles/b597472f.json)
+
+---
+
+### பாரிய கண்டன பேரணியினை எதிர்வரும் 30 ஆம் திகதி நடாத்த உள்ளோம் - வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் செயலாளர்
+
+*2025-08-07 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222044) · `ta`
+
+செம்மணி மனித புதைகுழி அகழ்வில் கண்டெடுக்கப்படும் உடல்கள் தொடர்பாக சர்வதேச விசாரணை வேண்டும் என நாம் கோரும் அதேவேளை, உள்ளக விசாரணையை திணிக்கும் அரச தலைவரைக் கண்டித்தும் பாரிய கண்டன பேரணியினை எதிர்வரும் 30 ஆம் திகதி நடாத்த உள்ளோம் என்று வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் சங்கத்தின் செயலாளர் சிவானந்தன் ஜெனிற்றா தெரிவித்தார்.
+
+சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டோர் தினம் தொடர்பாக யாழ். ஊடக அமையத்தில் இன்று வியாழக்கிழமை (07)  இடம்பெற்ற ஊடக சந்திப்பில் கருத்து தெரிவித்த போதே இதனை தெரிவித்தார்.
+
+எதிர்வரும் 30ம் திகதி ஆகஸ்ட் மாதம் 2025 ஆம் ஆண்டு சர்வதேச வலிந்து காணாமலாக்கப்பட்டவர்கள் தினமாகும். இத்தினத்தில் வடக்கு மாகாணத்தில் யாழ்ப்பாணத்திலும் கிழக்கு மாகாணத்தில் மட்டக்களப்பிலும் மாபெரும் கவனயீர்ப்பு பேரணியை நடாத்த உள்ளோம்.
+
+...
+
+[Data](articles/97b9c7e3.json)
 
 ---
 
@@ -178,17 +282,69 @@ He became nominal president after the incumbent Win Myint was arrested during th
 
 *2025-08-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111261/no-agreement-finalized-to-reduce-us-tariff-on-sri-lanka-president) · `en`
 
-President Anura Kumara Dissanayake says that no agreement has been finalized or signed to reduce the reciprocal tariff imposed by the United States on Sri Lankan exports to 20%.
+The President made this statement while addressing Parliament during a parliamentary debate on the country’s economic situation.
 
-Speaking in Parliament today (7), he further said that discussions have already commenced with the US to try to further reduce the tariff rate.
+He further stated that certain agreements had been reached during the discussions held so far, and as a result, the tariff rate has been reduced to 20%.
+
+“We get 44% based on our Trade deficit. That is their principle. We consider reducing it from 44% to 20% as an important outcome of the discussions and the agreement between them and us,” President Dissanayake noted.
+
+He also added, “if you were expecting a collapse of the economy based on the U.S. tax policy that is over now. There is still no final agreement. We had 20%. We are still trying, and we have started discussions, to see if we can reduce that 20%. That is the decision we have to make as a country.”
 
 Meanwhile, the President also refuted rumours of restrictions on vehicle imports, assuring that there will be no change in the importation policy.
 
-He also stated that there will be no tax increases in the immediate future.
+...
+
+[Data](articles/9e893dd2.json)
+
+---
+
+### அமெரிக்க வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் கைச்சாத்திடப்படவில்லை : பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம் என்கிறார் ஜனாதிபதி
+
+*2025-08-07 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/222037) · `ta`
+
+அமெரிக்க பரஸ்பர தீர்வை வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் இதுவரையில் கைச்சாத்திடப்படவில்லை எனவும் இது தொடர்பில் விரிவான பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோமென ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+பாராளுமன்ற அமர்வில் இன்று வியாழக்கிழமை (07) கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+பொருளாதாரம் பாதிக்கப்படும் மீண்டும் நெருக்கடி ஏற்படும் என்ற கனவை மறந்து விடுங்கள். இடைக்கால ஜனாதிபதி என்பதொன்று ஏற்படாது. மாற்று வழியில் அரசியல் செய்யுங்கள் என்பதை எதிர்க்கட்சிகளுக்கு குறிப்பிட்டுக் கொள்கிறேன்.
+
+சர்வதேச நாணய நிதியத்தின் வரைபுக்கமைய பொருளாதார மீட்சிக்கான நடவடிக்கைகள் செயற்படுத்தப்படும். அத்துடன் அமெரிக்க பரஸ்பர தீர்வை வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் இதுவரையில் கைச்சாத்திப்படவில்லை என்பதுடன் இது தொடர்பில் விரிவான பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம்.
 
 ◼️
 
-[Data](articles/9e893dd2.json)
+[Data](articles/b5880d00.json)
+
+---
+
+### இன்றைய தங்கவிலை நிலைவரம் !
+
+*2025-08-07 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222039) · `ta`
+
+இன்று வியாழக்கிழமை (07) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
+
+◼️
+
+[Data](articles/d009a74d.json)
+
+---
+
+### கிரிபத்கொடையில் குஷ், ஹேஷ் போதைப்பொருட்களுடன் இருவர் கைது!
+
+*2025-08-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/222034) · `ta`
+
+கிரிபத்கொடை பொலிஸ் பிரிவில் குஷ் மற்றும் ஹேஷ் போதைப்பொருட்களுடன் இளைஞர்கள் இருவர் புதன்கிழமை (6) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கிரிபத்கொடையில் பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட இரு சுற்றிவளைப்பு நடவடிக்கைகளின் போதே இளைஞர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள், களனி மற்றும் கடவத்தை பகுதிகளைச் சேர்ந்த 24 வயதுடையவர்கள் ஆவர்.
+
+சந்தேக நபர்களிடம் இருந்து, 528 கிராம் 710 மில்லிகிராம் குஷ் போதைப்பொருள்,   01 கிலோகிராம் 141 கிராம் 12 மில்லிகிராம் ஹேஷ் போதைப்பொருன் மற்றும் ரூபா.1,250,000 பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக கிரிபத்கொடை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/ef9adb4f.json)
 
 ---
 
@@ -1633,155 +1789,5 @@ Top-performing sales agents across several categories including DBL machinery, D
 ...
 
 [Data](articles/d2f5af61.json)
-
----
-
-### செம்மணி அகழ்வுக்கு அரசாங்கமும் ஒத்துழைப்பு - இளங்குமரன் எம்.பி தெரிவிப்பு
-
-*2025-08-07 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/222010) · `ta`
-
-செம்மணி விவகாரம் தொடர்பில் ஒருசில பிரதிநிதிகள் பாராளுமன்றத்தில் பொய்யுரைத்து மக்களுக்கு தவறான செய்தியை கொண்டு செல்கிறார்கள்.  செம்மணி மனிதப்புதைக்குழி அகழ்வுக்கு எமது அரசாங்கம் முழுமையான ஒத்துழைப்பு வழங்கி நிதி விடுவித்துள்ளது. மக்கள் உண்மையை விளங்கிக் கொள்வார்க ளென தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் இளங்குமரன் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (6) நடைபெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-செம்மணி மனிதப் புதைகுழி  விடயத்தை நீதியமைச்சர் காது வழி செய்து என்று குறிப்பிட்டதாக நேற்று (நேற்று முன்தினம்) பாராளுமன்ற உறுப்பினர் ஒருவர் சபையில் குறிப்பிட்டார்.இது முற்றிலும் தவறானது. நீதியமைச்சர் குறிப்பிட்ட விடயத்தை நான் தெளிவாக கேட்டிருந்தேன்.
-
-செம்மணி மனிதப்புதைக்குழி தொடர்பில் பாராளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் சபையில் உரையாற்றுகையில்  திருகோணமலை, மண்டைத்தீவு பகுதியில் உள்ள மனிதப்புதைக்குழிகள் பற்றி குறிப்பிட்டார்.இதற்கு பதிலளித்த நீதியமைச்சர் அனுமானத்தின் அடிப்படையில்  நடவடிக்கைகளை எடுக்க முடியாது.
-
-...
-
-[Data](articles/06c84d81.json)
-
----
-
-### சிறப்புரிமை பிரச்சினையால் சபாநாயகருடன் முரண்பாடு ; கூச்சல்குழப்பம் தொடர்ந்ததால் சபையிலிருந்து வெளியேறினார் சபாநாயகர்
-
-*2025-08-07 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/222009) · `ta`
-
-சிறப்புரிமை பிரச்சினையால் சபாநாயகருக்கும் எதிர்க்கட்சி உறுப்பினர்களுக்குமிடையில் சபையில் கடும் வாக்குவாதம் இடம்பெற்றுவந்ததுடன் சபையை கட்டுப்படுத்த முடியாமல் கூச்சல் குழப்பத்துக்கு மத்தியில் சபை நடடிக்கையை தொடர்ந்து கொண்டுசெல்வதற்கு சபாநாயகர் நடவடிக்கை எடுத்தபோதும் அவரால் சபையை கட்டுப்படுத்த முடியாமல் பிரதி சபாநாகருக்கு சபையை வழிநடத்த அழைப்பு விடுத்து சபையில் இருந்து வெளியேறிச்சென்றார்.
-
-பாராளுமன்றம் புதன்கிழமை (6) சபாநாயகர் ஜகத் விக்ரமரத்ன தலைமையில் கூடியது. பிரதான நடவடிக்கைகள் இடம்பெற்ற நிலையில், சிறப்புரிமை பிரச்சினை ஒன்றை முன்வைப்பதற்கு ஐக்கிய மக்கள் சக்தி உறுப்பினர் ஹர்ஷன ராஜகருணாவுக்கு சந்தர்ப்பம் வழங்கப்பட்டது. அதன்போது அவர், ஜனாதிபதி நிதியத்தில் இருந்து பாராளுமன்ற உறுப்பினர்கள் அமைச்சர்களின் பிள்ளைகளுக்கு கலாநிதி பட்டம் அல்லது வேறு உயர் கல்வியை பெறுவதற்கு பணம் பெற்றுக்கொண்டவர்களின் பெயர் விபரங்கள் இந்த சபையில் தெரிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/64ae7965.json)
-
----
-
-### பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் சுயாதீனத்தன்மையை உறுதிப்படுத்த முடியுமா? - நாமல் ராஜபக்ஷ
-
-*2025-08-07 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222008) · `ta`
-
-இலங்கை  மின்சார (திருத்தச்) சட்டமூலத்தில்  சுயாதீன இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு நிதியமைச்சின் ஆலோசனையை கோர வேண்டும் என்று குறிப்பிடப்பட்டுள்ளது. சுயாதீன ஆணைக்குழு, பிறிதொரு அமைச்சின் ஆலோசனை கோரும் போது அங்கு சுயாதீனத்தன்மை எவ்வாறு பேணப்படும் என்பதை நன்கு விளங்கிக்கொள்ள முடியும். தேசிய மக்கள் சக்தியின் அரசியல்வாதிதான் நிதியமைச்சின் செயலாளராக தற்போது பதவி வகிக்கிறார். இவர் அரசாங்கத்துக்கு சார்பாகவே செயற்படுவார். இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் சுயாதீனத்தன்மைக்கு எவ்வித பாதிப்பும் வராது என்று அரசாங்கத்தால் உத்தரவாதமளிக்க முடியுமா என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின்  பாராளுமன்ற உறுப்பினர்  நாமல் ராஜபக்ஷ  கேள்வியெழுப்பினார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (6) நடைபெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/b67a7bc7.json)
-
----
-
-### மன்னார் காற்றாலை கனிய வளம் தொடர்பில் இன்று கலந்துரையாடல்
-
-*2025-08-07 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222007) · `ta`
-
-மன்னார் காற்றாலை திட்டம் மற்றும் இல்மனைட் கனிய வளம் தொடர்பில் எழுந்துள்ள பிரச்சினை குறித்து பாராளுமன்ற கட்டிடத் தொகுதியில் வியாழக்கிழமை (7) விசேட கலந்துரையாடல் இடம்பெறவுள்ளது.
-
-இந்த கலந்துரையாடலில் வன்னி மாவட்ட பிரதிநிதிகள்,சிவில் சமூக பிரதிநிதிகள் மற்றும் மன்னார் மாவட்ட பிரஜைகள் குழு உட்பட பல்வேறு தரப்பினர்கள் கலந்துக் கொள்ளவுள்ளனர்.
-
-இந்த பிரச்சினைக்கு சிறந்த தீர்வை மக்களின் அபிலாஷைக்கு அமைய செயற்படுத்துவோம் என தேசிய மக்கள் சக்தியின் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் எம். ஜெகதீஸ்வரன்  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (6) நடைபெற்ற இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-மன்னார் மாவட்டத்தில் தற்போது காற்றாலை மின்திட்டம் மற்றும் இல்மனைட் விவகாரம் பிரதான பேசுபொருளாக காணப்பட்டு  மிக மோசமான  நிலைக்கு இந்த பிரச்சினை இன்று தள்ளப்பட்டுள்ளது. மன்னார் மாவட்டத்தில் காற்றாலை அமைக்கும் திட்டத்தை எமது அரசாங்கம் எந்த நிறுவனத்துக்கும் வழங்கவில்லை.
-
-...
-
-[Data](articles/53f729c4.json)
-
----
-
-### இஸ்ரேலின் கொலனியாக இலங்கை மாறியுள்ளது - மரிக்கார்
-
-*2025-08-07 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222005) · `ta`
-
-பொத்துவில் அருகம்பை பிரதேசத்தில் இருக்கும் காணிகள் இஸ்ரேலுக்கு உரித்தாகி வருவதன் மூலம் இலங்கை இஸ்ரேலின் கொலணியாகியுள்ளது. இஸ்ரேல் இராணுவத்தில் இருக்கும் கொலை குற்றவாளிகள் மன ஆறுதல் பெறுவதற்கு இலங்கைக்கு வருகிறார்கள். இவர்களுக்கு அரசாங்கம் தற்போது  இலவச விசா வழங்குகிறது என எஸ்.எம். மரிக்கார் குற்றம்சாட்டினார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற இலங்கை மின்சாரம்(திருத்தம்) சட்டமூலத்தின் இரண்டாம் மதிப்பீடு மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-மக்கள் விடுதலை முன்னணி எதிர்க்கட்சியில் இருக்கும்போது பலஸ்தீனுக்கு ஆதரவு தெரிவித்து, இஸ்ரேலுக்கு எதிராக அமெரிக்க தூதரகத்துக்கு முன்னாலும் வேறு இடங்களிலும் போராட்டங்களை முன்னெடுத்து வந்தது. ஆனால்  இன்று  இரண்டு மூன்று கொள்கைகளை கடைப்பிடித்த வருகிறது.
-
-...
-
-[Data](articles/635cec95.json)
-
----
-
-### பிமல் ரத்நாயக்கவிடம் விளக்கம் கோருங்கள் ; கத்தோலிக்க சபைக்கு விமல் வீரவன்ச பதில்
-
-*2025-08-07 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/222006) · `ta`
-
-உயிர்த்த ஞாயிறு தாக்குதல்கள் இடம்பெற்ற போது, அந்த ஆராதனைகளில் பேராயர் மெல்கம் கர்தினால் ரஞ்சித் ஆண்டகை அவற்றில் பங்கேற்றிருக்கவில்லை என்று அமைச்சர் பிமல் ரத்நாயக்க பாராளுமன்றத்தில் தெரிவித்ததையே தானும் தெரிவித்தாகவும், எனவே கத்தோலிக்க சபை விளக்கம் கோருவதாயின் அவரிடமே கோர வேண்டும் என்றும் தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச தெரிவித்தார்.
-
-கொழும்பில் புதன்கிழமை (6) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-பிமல் ரத்நாயக்க பாராளுமன்றத்தில் கூறியதையே நானும் கூறினேன். அதற்கு அப்பால் எந்தவொரு கருத்தையும் நான் தெரிவிக்கவில்லை. எனவே நான் கூறியது தவறென்றால் பிமல் ரத்நாயக்க கூறியது தவறாக இருக்க வேண்டும். எனவே அவர் கூறிய கருத்துக்கள் உண்மையானவையா பொய்யானவையா என்பதை ஆராய வேண்டும். அவர் தெரிவித்த கருத்தை நான் கூறியதி;ல் என்ன தவறு?
-
-...
-
-[Data](articles/67a648a3.json)
-
----
-
-### Intex Sri Lanka 2025 opens at BMICH
-
-*2025-08-07 01:16:54* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2025-opens-at-BMICH/34-779996) · `en`
-
-Worldex India Chairman and Managing Director Rajesh Bhagat, JAAF Chairman Saifuddin Jafferjee,  Worldex India Executive Director Arti Bhagat
-
-In a milestone moment for South Asia’s textile and apparel industry, Intex Sri Lanka 2025 officially commenced its 10th edition yesterday at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo.
-
-Celebrating a decade of industry impact and partnership-building, this year’s edition is larger, more global, and more future-forward than ever before.
-
-Worldex India Executive Director Arti Bhagat said: “As we celebrate 10 years of Intex Sri Lanka, this milestone is not just a reflection of the show’s growth—but of the region’s rising importance in global textile sourcing.”
-
-...
-
-[Data](articles/4bf996d0.json)
-
----
-
-### Uva Highlands Estate achieves all-time record price of Rs. 3,700 per kg for BOP Grade
-
-*2025-08-07 01:14:37* · [`dailyftlk`](https://www.ft.lk/business/Uva-Highlands-Estate-achieves-all-time-record-price-of-Rs-3-700-per-kg-for-BOP-Grade/34-779995) · `en`
-
-Uva Highlands Estate uniquely and picturesquely located in the agro-climatic district of Malwatte Valley in the Eastern Highlands of the Uva district is famed for its high-quality teas, especially the exquisite distinctive seasonal flavour.
-
-Grown 3,000 to 5,000 feet up on the eastern slopes of Sri Lanka’s central mountains, teas from the Malwatte Valley region within the Uva district do have a distinct flavour and pungency during the period July-September each year following the extreme dry weather conditions accompanied by the desiccating winds.
-
-This estate is ISO 22000:2018, HACCP and Rainforest Alliance certified.
-
-Uva Highlands Estate is managed by Malwatte Valley Plantations PLC under the stewardship of Group Manager Daminda Wanigasekara.
-
-This line of tea was sold and marketed by Forbes & Walker at the tea auctions held on 4 and 5 August.
-
-◼️
-
-[Data](articles/7b36ed37.json)
-
----
-
-### Rule of law in taxation: Rights before revenue – Part 1
-
-*2025-08-07 00:04:11* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-1/4-779983) · `en`
-
-In building a fair and sustainable tax system, the State must remember: power to tax is not the power to oppress
-
-Two important pillars are essential for a fair and transparent tax system. They are: a well-informed public and an accountable tax authority. A weakness or strength of either pillar determines the level of the integrity of the entire system. The strength creates a conducive environment where mutual respect among tax payers and officials, increased tax compliance and friendly culture prevail. The weakness leads to mutual mistrust, increased tax evasion and avoidance and ultimately a deterioration in the quality of national life—not only economically, but socially and culturally as well.
-
-...
-
-[Data](articles/58702792.json)
 
 ---

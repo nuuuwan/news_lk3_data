@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 09:06:24**
+As of **2025-08-07 10:08:08**
 
 ## Newspaper Stats
 
-*Scraped **69,190** Articles*
+*Scraped **69,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,33 +12,141 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,224
+economynextcom | 4,226
 islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,661
-adaderanalk | 8,595
-tamilmirrorlk | 10,104
+adaderanalk | 8,596
+tamilmirrorlk | 10,106
 virakesarilk | 11,523
-adaderanasinhalalk | 11,905
+adaderanasinhalalk | 11,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,190 articles have been extended.
+61,973 (89.6%) of 69,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
 
-### බ්‍රසීලය ලෝක වෙළඳ සංවිධානයේ උපදේශන සහාය පතයි
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+
+*2025-08-07 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213116) · `si`
+
+අද (07) දිනට නියමිත පාර්ලිමේනතු කටයුතු මේ වන විට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/a75ac54e.json)
+
+---
+
+### 8 மணிநேரம் தான் ஆகிறது... மீண்டும் எச்சரித்த ட்ரம்ப்
+
+*2025-08-07 08:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8-மணிநேரம்-தான்-ஆகிறது-மீண்டும்-எச்சரித்த-ட்ரம்ப்/50-362482) · `ta`
+
+அமெரிக்க அதிபர் டொனால்ட் டிரம்ப், இந்தியாவின் மீது மேலும் 25% கூடுதல் வரிகளை விதிப்பதாக அறிவித்த சில மணிநேரங்களிலேயே, கூடுதலாக இரண்டாம் நிலைத் தடைகள் விதிக்கப்படலாம் என்று சூசகமாகத் தெரிவித்து உள்ளார்.
+
+ரஷ்ய எண்ணெயை வாங்கும் பிற நாடுகள் பல உள்ளன அந்த நாடுகள் மீது ஆக்சன் எடுக்காமல் இந்தியா மட்டுமே ஏன் தனியாக குறிவைக்கப்படுகிறது என்று செய்தியாளர்கள் கேட்டபோது, டிரம்ப்,
+
+"நான் அறிவித்து 8 மணிநேரம் தான் ஆகிறது. என்ன நடக்கிறது என்று பார்ப்போம். இன்னும் நிறைய பார்க்கப் போகிறீர்கள் இரண்டாம் நிலைத் தடைகள் அதிகம் வரப்போகின்றன" என்று வெள்ளை மாளிகையில் செய்தியாளர்களிடம் தெரிவித்தார்.
+
+சீனா மீதும் இதே போன்ற கூடுதல் தடைகள் விதிக்கப்படலாம் என்று அமெரிக்க நிர்வாகம் யோசிப்பதாகவும் அவர் கோடிட்டுக் காட்டினார். இந்தியாவிற்கு விதிக்கப்பட்ட அபராதங்களைப் போலவே சீனா மீது கூடுதல் வரிகளை விதிக்க திட்டமிட்டுள்ளீர்களா என்ற கேள்விக்கு, "நடக்கலாம். நாம் எப்படிச் செயல்படுகிறோம் என்பதைப் பொறுத்தது. நடக்கலாம்" என்று பதிலளித்தார்.
+
+...
+
+[Data](articles/2c3f0da8.json)
+
+---
+
+### ඔස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය තෙදින නිල සංචාරයකට දිවයිනට
+
+*2025-08-07 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213114) · `si`
+
+තෙදින නිල සංචාරයක් සඳහා ඔස්ට්‍රේලියානු අග්‍රාණ්ඩුකාර සමන්තා ජෝයි මොස්ටින් මහත්මිය දිවයිනට පැමිණ තිබේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ආරාධනයකට අනුව ඔඕස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය ඊයේ (06) දිනයේ දිවයිනට පැමිණි බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+දිවයිනට පැමිණි අග්‍රාණ්ඩුකාර සමන්තා ජෝයි මොස්ටින් ඇතුළු දූත පිරිස අමාත්‍ය විජිත හේරත් මහතා විසින් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළෙහිදී පිළිගනු ලැබීය.
+
+මෙම සංචාරයේදී සමන්තා ජෝයි මොස්ටින් මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය හමුවී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට ද නියමිතය.
+
+එහිදී ඔස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර ද්විපාර්ශ්වික සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සහ දෙරටේම අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා පවතින සහයෝගීතා ක්ෂේත්‍ර පුළුල් කිරීමේ අවස්ථා පිළිබඳ සාකච්ඡා කෙරෙනු ඇති.
+
+...
+
+[Data](articles/88ee1175.json)
+
+---
+
+### Constitutional Council to convene today
+
+*2025-08-07 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111254/constitutional-council-to-convene-today) · `en`
+
+The Constitutional Council (CC) is scheduled to meet at 1.30 p.m. today (07) at the Parliament complex, chaired by Speaker Dr. Jagath Wickramaratne.
+
+Meanwhile, the letter removing Deshabandu Tennakoon from the post of Inspector General of Police (IGP) was handed over to him yesterday (06) at his residence by officials from the Ministry of Public Security.
+
+The resolution for his removal from the office of IGP was passed in Parliament on August 05.
+
+A total of 177 Members of Parliament voted in favor of the motion, while no MP voted against it. Member of Parliament Ramanathan Archchuna abstained from voting.
+
+Following this, it was forwarded to Speaker Dr. Jagath Wickramaratne and was signed by President Anura Kumara Dissanayake yesterday.
+
+President Dissanayake then approved the removal, and the letter was subsequently directed to the Secretary of the Ministry of Public Security.
+
+...
+
+[Data](articles/ab540762.json)
+
+---
+
+### මෙරටින් දෛනිකව සියදිවි නසාගැනීම් 8ක් - පාසල් සිසුන් ගැනත් බය හිතෙන කතාවක්
+
+*2025-08-07 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213113) · `si`
+
+සමාජයේ විවිධ හේතූන් වර්තමානයේ පාසල් සිසුන් යම් මානසික පීඩනයන්ට ගොදුරු වී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+එහි මානසික සෞඛ්‍ය අධ්‍යක්ෂ කාර්යාලයේ වැඩබලන අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ලක්මිනි මාගොඩරත්න මහත්මිය සඳහන් කළේ, පසුගිය වසරේ සිදුකළ සමීක්ෂණයකින් මේ බව අනාවරණය වී ඇති බවය.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය ලක්මිනි මාගොඩරත්න මහත්මිය සඳහන් කළාය.
+
+"2024 වර්ෂයේ ශ්‍රී ලංකාවේ පාසල් සෞඛ්‍ය සමීක්ෂණයක් තිබ්බා එතනදී අපේ දරුවන්ගේ දත්ත බැලුවහම 22.4% දරුවෝ තනිකමින් පෙළෙනවා. මේ පාසල් යන අවුරුදු 13 - 17 වයස්වල ළමයි 11.9%ක් කිව්වා රෑට නිදාගන්න අමාරුයි එයාලා මොනවාහරි දේකට කනස්සල්ලට පත්වෙන නිසා කියලා. 18%ක් විතර විශාදය ලක්ෂණ පෙන්නුම් කරලා තිබුණා. 7.5%කට සමීප මිතුරෝ නෑ. 25%ක් ළමයි කියලා තිබුණා ඒ අයට ඉන්නවා හිතේ තියෙන ගැටලුවක් කතා කරන්න කෙනෙක් කියලා. ඒ කියන්නේ 75%ක දරුවන්ට සමීප කෙනෙක් නෑ. ඉතින් මේ ලංකාවේ මෙහෙම වෙන්න පුළුවන් ද කියලා හිතෙනවා. දැන් දරුවන් ලොකු පීඩනයකින් ඉන්න පුළුවන්. ඒ එක්කම වැඩිහිටියොත් පීඩනයකින් ඉන්න පුළුවන්. එයට නොයෙකුත් සමාජ කාරණා සහ ආතතිය බලපාන්න පුළුවන්."
+
+...
+
+[Data](articles/970feb7a.json)
+
+---
+
+### இரவோடு இரவாக ரஷ்யா பறந்த இந்தியாவின் ஜேம்ஸ் பாண்ட்
+
+*2025-08-07 08:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இரவோடு-இரவாக-ரஷ்யா-பறந்த-இந்தியாவின்-ஜேம்ஸ்-பாண்ட்/50-362481) · `ta`
+
+தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவல் ரஷ்ய அதிகாரிகளை சந்திக்க மாஸ்கோ சென்றுள்ளார்.
+
+அமெரிக்கா-இந்தியா உறவுகளில் பதற்றம் அதிகரித்துள்ளது. இந்தியப் பொருட்களுக்கு அமெரிக்கா வரி விதிக்க அச்சுறுத்துகிறது. இந்தியா ரஷ்ய எண்ணெய் கொள்முதலை உடனே நிறுத்த வேண்டும் என்றும் ட்ரம்ப் எச்சரிக்கை விடுத்து வருகிறார்.
+
+அடுத்த 24 மணி நேரத்தில் இந்திய பொருட்களுக்கு கூடுதல் வரி விதிக்கப்படும், வர்த்தகத்தில் அமெரிக்காவுடன் இந்தியா சிறந்த நண்பராக இல்லை என அமெரிக்க ஜனாதிபதி ட்ரம்ப் மீண்டும் குற்றச்சாட்டு வைத்துள்ளார். இந்த நிலையில்தான் தேசிய பாதுகாப்பு ஆலோசகர் தோவல் செவ்வாய்க்கிழமை மாஸ்கோ சென்றடைந்தார்.
+
+இந்திய ரஷ்ய எண்ணெயை வாங்குவதை நிறுத்த மறுக்கிறது. இதனால், செவ்வாய்க்கிழமை ட்ரம்ப் வரி உயர்வை அச்சுறுத்தினார். ஏற்கனவே 25 சதவீத வரி இந்தியாவில் விதிக்கப்பட்டுள்ளது. அதை கணிசமாக அதிகரிக்கப் போவதாக அவர் கூறினார். இந்தியா அதிக அளவில் ரஷ்ய எண்ணெயை வாங்குகிறது. அதை அதிக லாபத்திற்கு வெளிச்சந்தையில் விற்கிறது. இதனால் வரி கணிசமாக அதிகரிக்கும் என அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/7e3b5926.json)
+
+---
+
+### බ්‍රසීලය ලෝක වෙළෙඳ සංවිධානයේ උපදේශන සහාය පතයි
 
 *2025-08-07 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213112) · `si`
 
-එක්සත් ජනපදය විසින් පනවා ඇති 50% තීරුබදු සම්බන්ධයෙන් බ්‍රසීලය ලෝක වෙළඳ සංවිධානයේ උපදේශන සහාය ඉල්ලා තිබේ.
+එක්සත් ජනපදය විසින් පනවා ඇති 50% තීරුබදු සම්බන්ධයෙන් බ්‍රසීලය ලෝක වෙළෙඳ සංවිධානයේ උපදේශන සහාය ඉල්ලා තිබේ.
 
-සාමාන්‍යයෙන් ලෝක වෙළඳ සංවිධානයෙන් මෙලෙස උපදේශන සඳහා ඉල්ලීමක් සිදු කිරීම වෙළඳ ආරවුල් ක්‍රියාවලියක පළමු පියවර බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
+සාමාන්‍යයෙන් ලෝක වෙළඳ සංවිධානයෙන් මෙලෙස උපදේශන සඳහා ඉල්ලීමක් සිදු කිරීම වෙළෙඳ ආරවුල් ක්‍රියාවලියක පළමු පියවර බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
 
 ◼️
 
@@ -199,6 +307,24 @@ However, the investigations conducted by the CID have revealed that the act was 
 ◼️
 
 [Data](articles/bf2b3aa7.json)
+
+---
+
+### Sri Lanka electricity law amended amid opposition concerns
+
+*2025-08-07 06:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-law-amended-amid-opposition-concerns-235129/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament passed an amendment to the island’s new electricity law that was expected to break up the sector in line with a plan supported by multilateral lenders which would also attract new private investment.
+
+The changes will keep parts of the existing system 100 percent under Government ownership permanently, Energy Minister Kumara Jayakody said.
+
+The National People’s Power administration had a plan for the sector before they were elected, and there were eight months of discussions, after which some changes had been made, but some suggestions the government could not agree to, due to a ‘covenant’ with the people he said.
+
+Sri Lanka had ‘missed buses’ in the past where low cost generating plants in the CEB, long term generation plan had been systematically sabotaged by various parties forcing the entity to buy high-cost liquid fuel plants by the 1990s, including gas turbines, he said.
+
+...
+
+[Data](articles/3078c41c.json)
 
 ---
 
@@ -1498,6 +1624,24 @@ Sri Lanka Cricket is seeking interest for a global market agent, territory-based
 
 ---
 
+### Sri Lanka sees foreign buying in rupee bonds amid greater clarity on Trump tariff
+
+*2025-08-06 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-amid-greater-clarity-on-trump-tariff-235037/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities after selling in the previous week, the Central Bank data showed, as the week ended on July 31 saw some certainty over U.S. President Donald Trump’s tariff, analysts said.
+
+Foreign investors bought 1,664 million rupee ($5.55 million) worth of government securities in the week ended on July 31, after suffering a 1.4 million dollars outflow in the previous week.
+
+Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and the week saw Trump’s administration announcing the tariff for many countries including 20 percent for Sri Lanka.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+...
+
+[Data](articles/399ec2ad.json)
+
+---
+
 ### Sri Lanka sees foreign buying in rupee bonds amid certainty over Trump tariff
 
 *2025-08-06 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-amid-certainty-over-trump-tariff-235037/) · `en`
@@ -1623,163 +1767,5 @@ Fitch Ratings – Colombo – 05 Aug 2025: Fitch Ratings has affirmed Sri Lanka-
 ...
 
 [Data](articles/bbcf598e.json)
-
----
-
-### විදුලිබල සංශෝධන පනත් කෙටුම්පත සම්මත කරයි
-
-*2025-08-06 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213095) · `si`
-
-ශ්‍රී ලංකා විදුලිබල සංශෝධන පනත් කෙටුම්පත තෙවන වර කියවා සංශෝධන සහිතව අද (06) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
-
-පනත් කෙටුම්පත දෙවනවර කියවීමේ ඡන්ද විමසීමේදී පක්ෂව ඡන්ද 121ක් සහ විරුද්ධව ඡන්ද 25ක් ලැබී තිබුණි. ඒ අනුව පනත් කෙටුම්පත දෙවනවර කියවීම වැඩි ඡන්ද 96කින් සම්මත විය.
-
-◼️
-
-[Data](articles/be104436.json)
-
----
-
-### Third Reading of Sri Lanka Electricity (Amendment) Bill passed in Parliament
-
-*2025-08-06 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111241/second-reading-of-sri-lanka-electricity-amendment-bill-passed-in-parliament) · `en`
-
-The Third Reading of the Sri Lanka Electricity (Amendment) Bill, was passed in Parliament, with a majority of 96 votes this evening (6).
-
-A total of 121 MPs voted in favour of the bill while 25 voted against it.
-
-The third reading of the Sri Lanka Electricity (Amendment) Bill is currently underway and will be followed by the third reading vote.
-
-The Bill, which was presented in Parliament earlier this year by the government, was also challenged in the Supreme Court following petitions filed by several parties including the Ceylon Electricity Board Engineers’ Union.
-
-Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
-
-On June 30, the Deputy Speaker Dr. Rizvie Salih informed the parliament that several clauses in the proposed legislation have been found to be inconsistent with the Constitution.
-
-...
-
-[Data](articles/124da75e.json)
-
----
-
-### நிசாந்தஉலுகேதன்ன கடற்படை புலனாய்வு பிரிவிற்கு பொறுப்பாகயிருந்த காலத்தில்  திருகோணமலை தளத்திற்குள் சுதந்திரமாக நடமாடிய வெள்ளை வான்கள் - சித்திரவதைகள் -  சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம்
-
-*2025-08-06 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/221977) · `ta`
-
-லங்கையின் நீதிமன்ற ஆவணங்களுடன் வெளிநாடுகளில் உயிர்பிழைத்து வாழும் தமிழர்களின் வாக்குமூலங்களையும் கன்சைட்டில் பணியாற்றிய சிங்கள படையினரினதும்( கடற்படையினரும் ஆதாரங்களையும் கண்ணால் பார்த்தவர்களின் தகவல்களையும்  அடிப்படையாக வைத்து இலங்கையில் சிஐடியினரால் கைதுசெய்யப்பட்டுள்ள முன்னாள் கடற்படை தளபதி நிசாந்த உலுகேதன்னஇலங்கையில் தமிழர்கள் சிங்களவர்கள் முஸ்லீம்களிற்கு எதிராக இழைக்கப்பட்ட பாரிய மனித உரிமை மீறல்களிற்கு காரணமாவர்களில்  ஒருவர் என்ற முடிவிற்கு நாங்கள் வந்தோம்.என சர்வதேச உண்மை மற்றும் நீதிக்கான திட்டம் தெரிவித்துள்ளது.
-
-நிசாந்த உலுகேதென்ன 2010 ஒக்டோபர் மாதம் முதல் டிசம்பர் 2013 வரை கடற்படையின் புலனாய்வு பிரிவின் தலைவராக பணியாற்றினார்.
-
-2025 ஜூலை மாதம்  இலங்கை கடற்படையின் முன்னாள் தளபதி நிசாந்த உலுகேதென்ன இலங்கையின் குற்றப்புலனாய்வு பிரிவினரால்  கைதுசெய்யப்பட்டார்.
-
-ஆள்கடத்தல் சித்திரவதைபலவந்தமாக காணாமல்போகச்செய்தல்மற்றும் நாட்டின் மிக பாதுகாப்பான கடற்படை தளமான திருகோணமலை கடற்படை தளத்தில் சட்டவிரோத படுகொலைகள் ஆகியவை தொடர்பான விசாரணைகளை தொடர்ந்து இவர் கைதுசெய்யப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/44ebf891.json)
-
----
-
-### Sri Lanka Electricity (Amendment) Bill passed in Parliament
-
-*2025-08-06 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111241/sri-lanka-electricity-amendment-bill-passed-in-parliament) · `en`
-
-The Third Reading of the Sri Lanka Electricity (Amendment) Bill was passed in Parliament with amendments by a majority of 96 votes this evening (06).
-
-The Second Reading of the bill was also passed with the same majority earlier today.
-
-During the Second Reading of the Bill, a total of 121 MPs voted in favour, while 25 voted against it.
-
-The Bill, which was presented in Parliament earlier this year by the government, was also challenged in the Supreme Court following petitions filed by several parties including the Ceylon Electricity Board Engineers’ Union.
-
-Accordingly, following the hearing of the petitions filed against the Bill, the determination of the Supreme Court was forwarded to the Speaker of House.
-
-On June 30, the Deputy Speaker Dr. Rizvie Salih informed the parliament that several clauses in the proposed legislation have been found to be inconsistent with the Constitution.
-
-...
-
-[Data](articles/7fa4bf1c.json)
-
----
-
-### இந்தியாவுக்கு வர்த்தக அழுத்தம் கொடுக்கும் அமெரிக்காவுக்கு ரஷ்யா கடும் எதிர்ப்பு
-
-*2025-08-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/221973) · `ta`
-
-இந்தியாவுக்கு அமெரிக்கா கொடுக்கும் வர்த்தக அழுத்தத்தை சட்டப்பூர்வமானது என தாங்கள் கருதவில்லை என்று ரஷ்ய அதிபர் மாளிகையின் செய்தித் தொடர்பாளர் திமித்ரி பெஸ்கோவ் தெரிவித்துள்ளார்.
-
-ரஷ்யா, உக்ரைன் இடையே மூன்றரை ஆண்டுகளுக்கும் மேலாக போர் நீடித்து வருகிறது. இந்த போர் காரணமாக ரஷ்யா மீது அமெரிக்கா பொருளாதார தடைகளை விதித்துள்ளது. இதன் காரணமாக, தான் சந்திக்கும் பொருளாதார இழப்புகளை ஈடுகட்டும் நோக்கில் தன்னிடம் உள்ள கச்சா எண்ணெயை ரஷ்யா குறைந்த விலைக்கு விற்கிறது.
-
-ஐரோப்பிய நாடுகள், அரபு நாடுகளிடம் கூடுதல் கச்சா எண்ணெயை வாங்கி வருவதால், சர்வதேச சந்தையில் கச்சா எண்ணெயின் விலையை கட்டுப்படுத்தும் நோக்கிலும், உள்நாட்டில் பெட்ரோலியப் பொருட்களின் விலை உயர்வை கட்டுப்படுத்தும் நோக்கிலும் இந்தியா, ரஷ்யாவிடம் இருந்து குறைந்த விலையில் கச்சா எண்ணெயை இறக்குமதி செய்து வருகிறது. தற்போது இந்தியாவின் கச்சா எண்ணெய் தேவையில் 40 சதவீதத்தை ரஷ்யா பூர்த்தி செய்து வருகிறது.
-
-...
-
-[Data](articles/5db3afc3.json)
-
----
-
-### Sri Lanka stocks recover 0.44-pct after two-day slide
-
-*2025-08-06 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-recover-0-44-pct-after-two-day-slide-235036/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks recovered following a two-day slide as buying interest returned to the market, pushing the All Share Price Index (ASPI) 0.44 percent higher on Wednesday, brokers said.
-
-“We saw a bit of recovery in the market after sliding for the last couple of days,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-The ASPI climbed 86.80 points higher from Tuesday to 19,804.80; while the S&P SL20 index ended 0.44 percent, or 2.44 points weaker, to close at 5,827.85.
-
-The index dropped for two consecutive sessions after crossing the psychological 20,000 mark on Monday.
-
-“There was buying interest in John Keells Holdings and the largest shareholder of JKH; CIC Joldings,” Mathew said.
-
-John Keells Holdings closed flat at 23.50 rupees, and CIC Holdings closed up 9.25 rupees at 142.50.
-
-“There was also selected buying in the diversified finance sector. Some consumer stocks like Singer Sri Lanka also saw buying interest.”
-
-...
-
-[Data](articles/5e8f5b8e.json)
-
----
-
-### Sri Lanka sells Rs82bn treasury bills, yields flat
-
-*2025-08-06 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs82bn-treasury-bills-yields-flat-235049/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 82 billion rupees of Treasury bills, with yields mostly flat across maturities, data from the state debt office showed.
-
-The 3-month yield was down 1 basis point at 7.61 percent, with 25 billion rupees offered and 28.3 billion sold.
-
-The 6-month yield was unchanged at 7.91 percent, with 30 billion rupees offered and 33.93 billion sold.
-
-The 12-month yield was unchanged at 8.03 percent with 27 billion rupees of bills offered and 19.75 billion rupees bills sold.
-
-All 3 bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/c1eb10f1.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds flat
-
-*2025-08-06 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-flat-235047/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 300.85/90 to the US dollar in the spot market Wednesday, stronger from 300.99/301.05 the previous day, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.40/50 percent.
-
-A bond maturing on 15.12.2028 closed at 8.87/92 percent, up from 8.80/85 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.25/30 percent.
-
-A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
-
-◼️
-
-[Data](articles/4f38c7e6.json)
 
 ---

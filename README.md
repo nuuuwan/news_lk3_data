@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 17:18:36**
+As of **2025-08-07 17:31:58**
 
 ## Newspaper Stats
 
-*Scraped **69,298** Articles*
+*Scraped **69,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
 islandlk | 4,227
-economynextcom | 4,234
+economynextcom | 4,237
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,673
-adaderanalk | 8,607
+adaderanalk | 8,608
 tamilmirrorlk | 10,139
 virakesarilk | 11,538
 adaderanasinhalalk | 11,929
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,298 articles have been extended.
+61,973 (89.4%) of 69,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### Sri Lanka sells extra Rs8.2bn Treasury bills after auction
+
+*2025-08-07 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs8-2bn-treasury-bills-after-auction-235284/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 8,200 million rupees of treasury bills offered on tap at an average rate of 7.61 percent, 7.91 percent and 8.03 percent, the state debt office said.
+
+A total of 90.2 billion rupees in treasury bills was sold this week.
+
+On Wednesday (6) the debt office raised 82 billion rupees of 3, 6 and 12 month bills.
+
+◼️
+
+[Data](articles/51d8a2be.json)
+
+---
 
 ### දිවයින පුරා විශේෂ මෙහෙයුමක්
 
@@ -54,6 +70,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka rupee flat against dollar, bonds steady
+
+*2025-08-07 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bonds-steady-235280/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.70/78 to the US dollar in the spot market Thursday, relatively flat from 300.85/90 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.40/50 percent.
+
+A bond maturing on 15.12.2028 closed at 8.85/9.92 percent, down from 8.87/92 percent.
+
+A bond maturing on 15.12.2029 closed at 9.38/40 percent, down from 9.39/40 percent.
+
+A bond maturing on 15.12.2032 closed at 10.27/33 percent, up from 10.25/30 percent.
+
+A bond maturing on 01.06.2033 closed at 10.63/70 percent, up from 10.65/71 percent. (Colombo/Aug7/2025)
+
+◼️
+
+[Data](articles/4f19e754.json)
+
+---
+
+### ராஜபக்ச - நல்லாட்சி காலத்தை போல தொடர்ந்தும் செயற்படும் பாதுகாப்பு எந்திரம் ; ஊடகவியலாளர்கள், சிவில் செயற்பாட்டாளர்களை விசாரணைக்கு அழைப்பதை நிறுத்துமாறு அரசாங்கம் உத்தரவு பிறப்பிக்கவேண்டும் - அம்பிகா சற்குணநாதன்
+
+*2025-08-07 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222069) · `ta`
+
+மகிந்த ராஜபக்ச காலத்தில் ராஜபக்ச அரசாங்கத்தின் ஆட்சிக்காலத்தில் பாதுகாப்பு எந்திரம் முறையான மற்றும் முறைசாரற்ற வழிகளில் வளர்ந்ததை நல்லாட்சி காலத்தில் அகற்றவில்லை இதன் காரணமாகவே ஊடகவியலாளர்கள் சிவில் சமூகத்தினர் உட்பட பலரை பயங்கரவாத விசாரணை பிரிவினரும் குற்றப்புலனாய்வு பிரிவினரும் தொடர்ந்தும் விசாரணைக்கு அழைக்கின்றனர் கண்காணிக்கின்றனர் அச்சுறுத்துகின்றனர் என தெரிவித்துள்ள இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் அரசாங்கம் விசேட உத்தரவொன்றை பிறப்பிக்காவிட்டால் இது தொடரும் என எச்சரித்துள்ளார்.
+
+ஊடகவியலாளர்குமணனை பயங்கரவாத விசாரணை பிரிவினர் விசாரணைக்காக அழைத்துள்ளமை பல வருடங்களாக இடம்பெறும் துன்புறுத்தல்கள் அச்சுறுத்தல்களின் சமீபத்தைய சம்பவமாகும்.
+
+பயங்கரவாத விசாரணை பிரிவினர் குற்றப்புலனாய்வு பிரிவினர்தகவல் வழங்க கோரி அவரை பலமுறை விசாரணைக்காக அழைத்துள்ளனர்இஅவரை அச்சுறுத்தியுள்ளனர்விசாரணைக்காக அழைத்துள்ளனர்அவரது வீட்டிற்கு சென்றுள்ளனர்  அவரை பின்தொடர்ந்துள்ளனர்.
+
+...
+
+[Data](articles/fb30df33.json)
+
+---
+
 ### අරුණ ජයසේකර ධුරයෙන් ඉවත්කරන්නැයි සජබයෙන් කරුණු 15ක්
 
 *2025-08-07 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213137) · `si`
@@ -71,22 +127,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3eee3aca.json)
-
----
-
-### ராஜபக்ச - நல்லாட்சி காலத்தை போல தொடர்ந்தும் செயற்படும் பாதுகாப்பு எந்திரம் - ஊடகவியலாளர்கள் சிவில் செயற்பாட்டாளர்களை விசாரணைக்கு அழைப்பதை நிறுத்துமாறு அரசாங்கம் உத்தரவு பிறப்பிக்கவேண்டும் - அம்பிகா சற்குணநாதன்
-
-*2025-08-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222069) · `ta`
-
-மகிந்த ராஜபக்ச காலத்தில் ராஜபக்ச அரசாங்கத்தின் ஆட்சிக்காலத்தில் பாதுகாப்பு எந்திரம் முறையான மற்றும் முறைசாரற்ற வழிகளில் வளர்ந்ததை நல்லாட்சி காலத்தில் அகற்றவில்லை இதன் காரணமாகவே ஊடகவியலாளர்கள் சிவில் சமூகத்தினர் உட்பட பலரை பயங்கரவாத விசாரணை பிரிவினரும் குற்றப்புலனாய்வு பிரிவினரும் தொடர்ந்தும் விசாரணைக்கு அழைக்கின்றனர் கண்காணிக்கின்றனர் அச்சுறுத்துகின்றனர் என தெரிவித்துள்ள இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் அரசாங்கம் விசேட உத்தரவொன்றை பிறப்பிக்காவிட்டால் இது தொடரும் என எச்சரித்துள்ளார்.
-
-ஊடகவியலாளர்குமணனை பயங்கரவாத விசாரணை பிரிவினர் விசாரணைக்காக அழைத்துள்ளமை பல வருடங்களாக இடம்பெறும் துன்புறுத்தல்கள் அச்சுறுத்தல்களின் சமீபத்தைய சம்பவமாகும்.
-
-பயங்கரவாத விசாரணை பிரிவினர் குற்றப்புலனாய்வு பிரிவினர்தகவல் வழங்க கோரி அவரை பலமுறை விசாரணைக்காக அழைத்துள்ளனர்இஅவரை அச்சுறுத்தியுள்ளனர்விசாரணைக்காக அழைத்துள்ளனர்அவரது வீட்டிற்கு சென்றுள்ளனர்  அவரை பின்தொடர்ந்துள்ளனர்.
-
-...
-
-[Data](articles/fb30df33.json)
 
 ---
 
@@ -142,6 +182,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Announcement on commencement of third school term
+
+*2025-08-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111266/announcement-commencement-of-third-school-term-) · `en`
+
+The second school term of the 2025 academic year for Sinhala and Tamil government schools ended today (07), and the third term will commence on August 18 (Monday), according to the Ministry of Education.
+
+However, for Muslim schools, the second term will end on August 19 (Tuesday) and the third term will begin on August 25 (Monday), it said.
+
+◼️
+
+[Data](articles/ccc14a5b.json)
+
+---
+
+### Sri Lanka stocks rise 0.11-pct, led by financials
+
+*2025-08-07 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-0-11-pct-led-by-financials-235272/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The ASPI was up 0.11 percent, or 21.77 points, at 19,826.57. But the S&P SL20 was down 0.04 percent, or 2.46 points, at 5,825.39.
+
+Market turnover was 3.2 billion rupees. Most of this came from diversified financials stocks (762 million rupees).
+
+Top contributors to the ASPI were The Colombo Fort Land & Building which was up 8.20 rupees at 90.60, Vallibel Once which was up 2.20 rupees at 94.20, Melstacorp which was up 1.00 rupee at 158.00, Agarapatana Plantations which was up 2.50 rupees at 22.40, and Hatton National Bank which was up 1.50 at 375.25 rupees.
+
+President Anura Dissanayake told parliament that a tariff deal with the USA was still not finalised.
+
+...
+
+[Data](articles/0e97c07e.json)
+
+---
+
 ### இலங்கையின் அஞ்சல் சேவைக்கு ஆசிய பசிபிக் அஞ்சல் ஒன்றியம் ஆதரவு
 
 *2025-08-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222056) · `ta`
@@ -164,7 +238,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මේ වනවිට ශ්‍රී ලංකා රේගුව භාරයේ රඳවාගෙන සිටින BYD වාහන 991ක් කොන්දේසි කිහිපයකට යටත්ව මුදා හැරීමට රේගු අධ්‍යක්ෂ ජනරාල්වරයා අද(08) අභියාචනාධිකරණය හමුවේ එකගතාවය පළ කර තිබේ.
 
-අදාල වාහන රදවා ගැනීමට එරෙහිව ජෝන් කීල්ස් සී ජී සමාගම විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව මෙම එකගතාවය පළ කර ඇත.
+අදාල වාහන රදවා ගැනීමට එරෙහිව ජෝන් කීල්ස් සී ජී ඔටෝ සමාගම විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව මෙම එකගතාවය පළ කර ඇත.
 
 ඒ අනුව අදාළ වාහනවල බදු අතර පවතින පරතරය ලෙස ගණනය කර තිබෙන රුපියල් බිලියන 3.6කට ආසන්න මුදල රාජ්‍ය බැංකුවක ඇපකරයක් වශයෙන් ඉදිරිපත් කළ යුතු අතර එම ඇපකරය සඳහා අදාල වන පොලිය පෙත්සම්කාර සමාගම විසින් ගෙවීමට එකඟ විය යුතු බවත් එම කොන්දේසිවල සඳහන් විය.
 
@@ -340,7 +414,7 @@ Accordingly, on Tuesday, August 19th, 2025, from 11.30 a.m. to 5.00 p.m., the Se
 
 ඒ අනුව මාර්ග බාධක, ආරක්ෂක රාජකාරි, රථ වාහන හා පුද්ගලයින් පරීක්ෂා කිරීම, සංචාරයිකයින්ට මග පෙන්වීම හා රථ වාහන ගාල් කිරීම් ඇතුළු විශේෂ වැඩපිළිවෙලක් මේ යටතේ දියත් කර ඇත.
 
-Media on 2025.08.07  at 1505  දළදා පෙරහර සිව්වන රන්දෝලි පෙරහර by poornima on Scribd
+Media on 2025.08.07 at 1505 දළදා පෙරහර සිව්වන රන්දෝලි පෙරහර by poornima on Scribd
 
 ◼️
 
@@ -1735,67 +1809,5 @@ The telegraphic transfer rate for the American dollar buying was 297.0000 sellin
 ◼️
 
 [Data](articles/998b6cb9.json)
-
----
-
-### මී මුරේ මාර්ගය සැහැල්ලු වාහන වලට ඇරෙයි
-
-*2025-08-07 09:45:21* · [`adalk`](https://www.ada.lk/breaking_news/මී-මුරේ-මාර්ගය-සැහැල්ලු-වාහන-වලට-ඇරෙයි/11-417770) · `si`
-
-හදිසි නඩත්තු කටයුත්තක් හේතුවෙන් වසා දමා තිබුන මීමුරේ මාර්ගය නැවත විවෘත කළ බව මහනුවර දිස්ත්‍රික් ලේකම් ඉන්දික උඩවත්ත මහතා කියයි.
-
-එම මාර්ගයේ කයිකාවල පාලමේ ඇතිව තිබූ අවදානම් තත්ත්වයක් හේතුවෙන් එය නැවත අලුත් වැඩියා කරන තුරු මසකට ආසන්න කාලයක් මාර්ගය වසා තැබීම හේතුවෙන් මීමුරේ ජනතාවට දැඩි ආර්ථික බලපෑමක් ද එල්ල විය.
-
-කෙසේ නමුත් දැනට සැහැල්ලු වාහන වලට පමණක් මාර්ගය විවෘත කොට ඇතිි අතර පාලම මතින් බර වාහන ගමන් කිරීම සඳහා අවසර නොලැබෙන බවද බලධාරිහු කියති.
-
-◼️
-
-[Data](articles/cae3f877.json)
-
----
-
-### Mental health concerns rise among schoolchildren, health officials warn
-
-*2025-08-07 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111255/mental-health-concerns-rise-among-schoolchildren-health-officials-warn) · `en`
-
-The Ministry of Health states that school students are currently experiencing some degree of mental stress due to various social factors.
-
-Acting Director of the Directorate of Mental Health and Consultant Community Physician, Dr. Lakmini Nayana Magodaratne, stated that this was revealed in a survey conducted last year.
-
-Speaking at a press conference held at the Health Promotion Bureau, Dr. Magodaratne said, “In 2024, there was a school health survey in Sri Lanka, and when we looked at the data on our children, 22.4% were suffering from loneliness.11.9% of schoolchildren aged 13–17 said they had difficulty sleeping at night because they were worried about something. About 18% showed symptoms of depression.7.5% did not have close friends. Only 25% of children said they had someone to talk to about their problems which means 75% do not have anyone close to them.
-
-...
-
-[Data](articles/d41c3bc9.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
-
-*2025-08-07 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213116) · `si`
-
-අද (07) දිනට නියමිත පාර්ලිමේනතු කටයුතු මේ වන විට ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/a75ac54e.json)
-
----
-
-### 8 மணிநேரம் தான் ஆகிறது... மீண்டும் எச்சரித்த ட்ரம்ப்
-
-*2025-08-07 08:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8-மணிநேரம்-தான்-ஆகிறது-மீண்டும்-எச்சரித்த-ட்ரம்ப்/50-362482) · `ta`
-
-அமெரிக்க அதிபர் டொனால்ட் டிரம்ப், இந்தியாவின் மீது மேலும் 25% கூடுதல் வரிகளை விதிப்பதாக அறிவித்த சில மணிநேரங்களிலேயே, கூடுதலாக இரண்டாம் நிலைத் தடைகள் விதிக்கப்படலாம் என்று சூசகமாகத் தெரிவித்து உள்ளார்.
-
-ரஷ்ய எண்ணெயை வாங்கும் பிற நாடுகள் பல உள்ளன அந்த நாடுகள் மீது ஆக்சன் எடுக்காமல் இந்தியா மட்டுமே ஏன் தனியாக குறிவைக்கப்படுகிறது என்று செய்தியாளர்கள் கேட்டபோது, டிரம்ப்,
-
-"நான் அறிவித்து 8 மணிநேரம் தான் ஆகிறது. என்ன நடக்கிறது என்று பார்ப்போம். இன்னும் நிறைய பார்க்கப் போகிறீர்கள் இரண்டாம் நிலைத் தடைகள் அதிகம் வரப்போகின்றன" என்று வெள்ளை மாளிகையில் செய்தியாளர்களிடம் தெரிவித்தார்.
-
-சீனா மீதும் இதே போன்ற கூடுதல் தடைகள் விதிக்கப்படலாம் என்று அமெரிக்க நிர்வாகம் யோசிப்பதாகவும் அவர் கோடிட்டுக் காட்டினார். இந்தியாவிற்கு விதிக்கப்பட்ட அபராதங்களைப் போலவே சீனா மீது கூடுதல் வரிகளை விதிக்க திட்டமிட்டுள்ளீர்களா என்ற கேள்விக்கு, "நடக்கலாம். நாம் எப்படிச் செயல்படுகிறோம் என்பதைப் பொறுத்தது. நடக்கலாம்" என்று பதிலளித்தார்.
-
-...
-
-[Data](articles/2c3f0da8.json)
 
 ---

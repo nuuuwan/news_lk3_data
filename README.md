@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 06:11:51**
+As of **2025-08-07 06:38:28**
 
 ## Newspaper Stats
 
-*Scraped **69,172** Articles*
+*Scraped **69,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-economynextcom | 4,220
+economynextcom | 4,224
 islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,660
 adaderanalk | 8,591
-tamilmirrorlk | 10,099
+tamilmirrorlk | 10,100
 virakesarilk | 11,523
 adaderanasinhalalk | 11,901
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,172 articles have been extended.
+61,973 (89.6%) of 69,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### ’மோசடி உறுதியானால்  விசாரணை நடக்கும்’
+
+*2025-08-07 06:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசடி-உறுதியானால்-விசாரணை-நடக்கும்/175-362476) · `ta`
+
+எமது அரசாங்கத்தில் யாராவது ஊழல் மோசடியுடன் தொடர்புபட்டிருப்பது உறுதிப்படுத்தப்பட்டால், அவர்களுக்கு எதிராகவும் சட்ட நடவடிக்கை எடுக்கப்படும் என   என பிரதமர்  ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (06) அன்று பிரதமரிடமான கேள்வி நேரத்தில் ஐக்கிய மக்கள் சக்தி எம்.பி.  சமிந்த விஜேசிறி எழுப்பிய கேள்விக்குப் பதிலளிக்கையிலேயே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+
+கடந்த காலத்தில் இடம்பெற்ற  வெள்ளைப்பூண்டு மோசடி, சீனி மோசடி மற்றும் தேங்காய் எண்ணெய் மோசடி தொடர்பில் நடவடிக்கை எடுப்பதற்கு  அரசாங்கம் நடவடிக்கை எடுப்பதாகத் தெரிவித்தபோதும் இதுவரை அதுதொடர்பில் எந்த நடவடிக்கையும் எடுக்கவில்லை. அதேநேரம், அரசாங்கம் கடந்த காலங்களில் இடம்பெற்ற ஊழல் மோசடிகள் தொடர்பில்  விசாரணை மேற்கொள்வதுபோன்று, இந்த அரசாங்கத்தில் இடம்பெற்ற மோசடிகள் தொடர்பில் உண்மையாக விசாரணை மேற்கொள்ளுமா?
+
+...
+
+[Data](articles/cec6cd75.json)
+
+---
 
 ### Apple to invest $100bn after pressure from Trump
 
@@ -732,6 +748,46 @@ Thus, members of the public are advised to stay hydrated, take breaks in the sha
 
 ---
 
+### Trump slams new 25-pct tax on India for importing Russian oil
+
+*2025-08-06 21:42:00* · [`economynextcom`](https://economynext.com/trump-slams-new-25-pct-tax-on-india-for-importing-russian-oil-235107/) · `en`
+
+ECONOMYNEXT – President Donald Trump has imposed an additional 25 percent tax on India for importing Russian oil after earlier slamming a 25 percent tariff on the country saying he will take similar actions on others.
+
+“I find that the Government of India is currently directly or indirectly importing Russian Federation oil,” Trump said in an executive order which also detailed some exemptions.
+
+“Accordingly, and as consistent with applicable law, articles of India imported into the customs territory of the United States shall be subject to an additional ad valorem rate of duty of 25 percent.”
+
+Trump’s friendship with Vladimir Putin has broken down over the Russian leaders refusal to end the war with Ukraine and his insistence on occupying several border territories after failing to annex the entire country.
+
+Trump said other countries that import from Russia may also face tariffs.
+
+...
+
+[Data](articles/ccb5e1ee.json)
+
+---
+
+### Governor-General of Australia Samantha Joy Mostyn Arrives in Sri Lanka
+
+*2025-08-06 21:41:00* · [`economynextcom`](https://economynext.com/governor-general-of-australia-samantha-joy-mostyn-arrives-in-sri-lanka-235117/) · `en`
+
+ECONOMYNEXT- Samantha Joy, Australia’s Governor General has arrived in Sri Lanka on a three-day official visit at invitation of President Anura Kumara Dissanayake, a statement said.
+
+The delegation headed by the Governor – General was welcomed at the Bandaranaike International Airport in Katunayake by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath.
+
+During her visit, Governor-General Mostyn is scheduled to hold bilateral discussions with President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
+
+“The discussions will focus on further strengthening bilateral cooperation between Australia and Sri Lanka and exploring new opportunities to expand partnerships for the mutual benefit of both countries,” the statement
+
+Governor-General Mostyn is also expected visit Bandaragama, Mirissa and Weligama, where she will observe several projects supported by the Australian Government.
+
+...
+
+[Data](articles/8c6784b7.json)
+
+---
+
 ### පද්මේගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවන වලස්කටා අත්අඩංගුවට
 
 *2025-08-06 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213103) · `si`
@@ -1141,6 +1197,26 @@ The seized vehicle has been handed over to the Ganemulla Police for further inve
 ◼️
 
 [Data](articles/33550cde.json)
+
+---
+
+### Sri Lanka cricket seeks agents for global merchandising program
+
+*2025-08-06 18:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cricket-seeks-agents-for-global-merchandising-program-235094/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cricket said it is seeking expressions of interest from sports brand licensing agents to start a merchandise program through officially licensed products.
+
+The selected Licensing Agents will be responsible for identifying recognized companies to design, develop, distribute, and sell a wide range of SLC branded or co-branded products, covering apparel, accessories, collectibles or suitable products and services.
+
+The selected partner appointed through a competitive tender process, will manage the Sri Lanka Cricket Merchandising Licensing Program from 2026 to 2032, SLC said.
+
+The licensing agent or agents have to advise SLC on the licensing business model, find potential vendors who produce goods and monitor and manage vendor relationships and performance, track royalties and collect revenues.
+
+Sri Lanka Cricket is seeking interest for a global market agent, territory-based agent or category-based agent, such as for apparel, accessories and collectibles.
+
+...
+
+[Data](articles/0b695653.json)
 
 ---
 
@@ -1695,79 +1771,5 @@ Several properties, including a building that had been illegally constructed on 
 ...
 
 [Data](articles/93dc0658.json)
-
----
-
-### கசிப்பு மாமியார், மருமகள் கைது
-
-*2025-08-06 15:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கசிப்பு-மாமியார்-மருமகள்-கைது/76-362439) · `ta`
-
-தனமல்வில பொலிஸ் பிரிவுக்குட்பட்ட  கித்துல்கோட்டே பகுதியில், தனமல்வில பொலிஸாரால் செவ்வாய்க்கிழமை (05) அன்று மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  கசிப்பு விற்பனையில் ஈடுபட்டிருந்த பெண் ஒருவர் மற்றும் அவரது மருமகள் கைது செய்யப்பட்டுள்ளனர்.
-
-தனமல்வில, கித்துள் கோட்டை பகுதியைச் சேர்ந்த 53  மற்றும் 24 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
-
-பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளதுடன்  இதன்போது, கசிப்பு பாட்டில்கள் 46 மற்றும் கசிப்பு பாக்கெட்டுகள் 13 கைப்பற்றப்பட்டது.
-
-இக் கைது நடவடிக்கையின் போது 24 வயதுடைய பெண் பொலிஸ்  அதிகாரிகளின் கடமைகளுக்கு எதிர்ப்பு தெரிவித்து கடுமையாக இடையூறு செய்துள்ளதாக தெரிவிக்கப்படுகிறதுடன் இருவரையும் வெல்லவாய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/52714cfb.json)
-
----
-
-### கசிப்புடன் மாமியார், மருமகள் கைது
-
-*2025-08-06 15:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கசிப்புடன்-மாமியார்-மருமகள்-கைது/76-362439) · `ta`
-
-தனமல்வில பொலிஸ் பிரிவுக்குட்பட்ட  கித்துல்கோட்டே பகுதியில், தனமல்வில பொலிஸாரால் செவ்வாய்க்கிழமை (05) அன்று மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  கசிப்பு விற்பனையில் ஈடுபட்டிருந்த பெண் ஒருவர் மற்றும் அவரது மருமகள் கைது செய்யப்பட்டுள்ளனர்.
-
-தனமல்வில, கித்துள் கோட்டை பகுதியைச் சேர்ந்த 53  மற்றும் 24 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
-
-பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய குறித்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளதுடன்  இதன்போது, கசிப்பு பாட்டில்கள் 46 மற்றும் கசிப்பு பாக்கெட்டுகள் 13 கைப்பற்றப்பட்டது.
-
-இக் கைது நடவடிக்கையின் போது 24 வயதுடைய பெண் பொலிஸ்  அதிகாரிகளின் கடமைகளுக்கு எதிர்ப்பு தெரிவித்து கடுமையாக இடையூறு செய்துள்ளதாக தெரிவிக்கப்படுகிறதுடன் இருவரையும் வெல்லவாய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/bf942d4a.json)
-
----
-
-### Sri Lanka’s FIU fines Bally’s, Belagio casino’s under anti-money laundering laws
-
-*2025-08-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-fiu-fines-bank-casinos-for-violating-anti-money-laundering-rules-235039/) · `en`
-
-ECONOMYNEXT – The Financial Intelligence Unit (FIU) at the Central Bank of Sri Lanka has taken fined a bank and two casinos, Bellagio and Bally’s, for failing to follow the country’s Anti-Money Laundering and Counter-Terrorism Financing laws.
-
-Between January and June 2025, the FIU imposed a total of Rs. 6.5 million in penalties under the powers given to it by the Financial Transactions Reporting Act (FTRA(, the Central Bank said in a statement.
-
-“….financial penalties are imposed on institutions for non-compliance with the provisions of the FTRA,” the Central Bank said.
-
-The biggest fine was handed to National Savings Bank (NSB), which was ordered to pay Rs. 3.5 million on April 16, 2025.
-
-...
-
-[Data](articles/da709115.json)
-
----
-
-### ஆடை ஏற்றுமதி செயல்பாடுகள் குறித்த ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் வெளியிட்டுள்ள அறிக்கை
-
-*2025-08-06 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/221961) · `ta`
-
-இலங்கையின் ஆடை ஏற்றுமதிகள், 2025 ஜூன் மாதத்தில் கடந்த ஆண்டின் இதே காலப்பகுதியுடன் ஒப்பிடுகையில் 5.2 % வளர்ச்சியடைந்துள்ளதாக ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் தெரிவித்துள்ளது.
-
-2025 ஜூன் மாதத்தில் கடந்த ஆண்டின் இதே காலப்பகுதியுடன் ஒப்பிடுகையில் இலங்கையின் ஆடை ஏற்றுமதிகள் 5.2 வீதம் வளர்ச்சியடைந்துள்ளது.
-
-ஐரோப்பிய ஒன்றியம் (+23.1%) மற்றும் இங்கிலாந்து (+20.4%) சந்தைகளில் குறிப்பிடத்தக்க வளர்ச்சி காணப்பட்ட போதிலும், அமெரிக்கா (-5.7%) மற்றும் பிற பிராந்தியங்களில் (-9.3%) ஏற்பட்ட வீழ்ச்சியை இது ஈடுசெய்துள்ளது.
-
-2025 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் (ஜனவரி- ஜூன்), ஒட்டுமொத்த ஏற்றுமதி ஆண்டுக்கு ஆண்டு 8.95 வீதமாக அதிகரித்துள்ளது. ஐரோப்பிய ஒன்றியம் (+16.7%), அமெரிக்கா (+4.1%), இங்கிலாந்து (+6.4%) மற்றும் பிற சந்தைகள் (+8.9%) ஆகியவற்றின் வலுவான செயல்திறன் காரணமாக இந்த வளர்ச்சி ஏற்பட்டது.
-
-ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் (JAAF) இந்த புள்ளிவிவரங்கள் ஐரோப்பிய ஒன்றியம் மற்றும் இங்கிலாந்து போன்ற முக்கிய சந்தைகளில் ஊக்கமளிக்கும் வேகத்தைக் காட்டுவதாகத் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/5f4a9ede.json)
 
 ---

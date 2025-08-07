@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 19:02:14**
+As of **2025-08-07 19:28:23**
 
 ## Newspaper Stats
 
-*Scraped **69,309** Articles*
+*Scraped **69,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,675
-adaderanalk | 8,608
+adalk | 6,676
+adaderanalk | 8,611
 tamilmirrorlk | 10,140
 virakesarilk | 11,538
 adaderanasinhalalk | 11,933
@@ -26,13 +26,13 @@ adaderanasinhalalk | 11,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,309 articles have been extended.
+61,973 (89.4%) of 69,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
 
-### විදෙස් සංචිතය 1%කින් ඉහළට
+### විදෙස් සංචිතය සියයට 1කින් ඉහළට
 
 *2025-08-07 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213143) · `si`
 
@@ -45,6 +45,32 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/060da8ca.json)
+
+---
+
+### Thailand and Cambodia extend ceasefire amid border tensions
+
+*2025-08-07 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111269/thailand-and-cambodia-extend-ceasefire-amid-border-tensions) · `en`
+
+Thailand and Cambodia have agreed to extend a fragile ceasefire following recent deadly border clashes.
+
+The conflict, which erupted last month over disputed temple territories, left at least 43 dead before a truce was brokered.
+
+Malaysian Prime Minister Anwar Ibrahim, as ASEAN chair, facilitated the ceasefire with backing from US and Chinese mediators.
+
+The agreement mandates a halt to all hostilities, including attacks on civilians and military targets.
+
+“Both sides agree to a ceasefire involving all types of weapons, including attacks on civilians and civilian objects and military objectives of either side, in all cases and all areas,” the joint statement read.
+
+Initial breaches were reported, but clashes subsided as both sides adhered to the truce.
+
+Thai and Cambodian defence officials signed the extension, freezing troop movements and patrols along the 800-kilometre border.
+
+Cambodian Defence Minister Tea Seiha emphasised the need to prevent further bloodshed.
+
+...
+
+[Data](articles/7a302295.json)
 
 ---
 
@@ -81,6 +107,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b2a625e9.json)
+
+---
+
+### දෙවැනි පාසල් වාරය අදින් අවසන්
+
+*2025-08-07 17:45:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-පාසල්-වාරය-අදින්-අවසන්/11-417785) · `si`
+
+සිංහල හා දෙමළ පාසල් සඳහා තෙවැනි පාසල් වාරය මේ මස 18 වැනි සඳුදා ආරම්භ වන බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+
+මුස්ලිම් පාසල් සඳහා දෙවැනි පාසල් වාරය මේ මස.19 වැනි අඟහරුවාදා අවසන් වන අතර තෙවැනි පාසල් වාරය මේ මස 25 වැනිදා සඳුදා  ආරම්භ වේ.
+
+මේ  වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා දෙවැනි පාසල් වාරය අද (07දා) අවසන් විය.
+
+◼️
+
+[Data](articles/e04de146.json)
 
 ---
 
@@ -214,6 +256,24 @@ A bond maturing on 01.06.2033 closed at 10.63/70 percent, up from 10.65/71 perce
 
 ---
 
+### Customs agrees to release 991 detained BYD vehicles subject to conditions
+
+*2025-08-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111267/customs-agrees-to-release-991-detained-byd-vehicles-subject-to-conditions) · `en`
+
+The Director General of Sri Lanka Customs agreed before the Court of Appeal today to release 991 vehicles of the ‘BYD’ brand that are currently detained by customs, subject to certain conditions.
+
+This agreement was expressed after considering a petition filed by John Keells CG Auto, the authorised distributor for BYD vehicles in Sri Lanka, against the detention of the relevant vehicles and seeking their release.
+
+The petition was taken up before the Court of Appeal bench comprising the Chairman of the Appeals Court, Justice Rohantha Abeysuriya and Justice Priyantha Fernando today (7).
+
+Presenting a letter from the Director General of Sri Lanka Customs before the court, Additional Solicitor General Sumathi Dharmawardena stated that the release of these 991 detained vehicles could be considered under several conditions.
+
+...
+
+[Data](articles/bf73013c.json)
+
+---
+
 ### ට්‍රම්ප් හා පුටින් අතර හමුවක්
 
 *2025-08-07 16:56:46* · [`adalk`](https://www.ada.lk/international/ට්‍රම්ප්-හා-පුටින්-අතර-හමුවක්/3-417781) · `si`
@@ -299,6 +359,20 @@ A bond maturing on 01.06.2033 closed at 10.63/70 percent, up from 10.65/71 perce
 ...
 
 [Data](articles/a152482c.json)
+
+---
+
+### Announcement on commencement of third school term
+
+*2025-08-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111266/announcement-on-commencement-of-third-school-term) · `en`
+
+The second school term of the 2025 academic year for Sinhala and Tamil government schools ended today (07), and the third term will commence on August 18 (Monday), according to the Ministry of Education.
+
+However, for Muslim schools, the second term will end on August 19 (Tuesday) and the third term will begin on August 25 (Monday), it said.
+
+◼️
+
+[Data](articles/a3c23bdd.json)
 
 ---
 
@@ -1731,69 +1805,5 @@ The Airport Unit of the Police Narcotics Bureau is conducting further investigat
 ...
 
 [Data](articles/e1026bb5.json)
-
----
-
-### COPA සභාපති ධුරය කාට ද?
-
-*2025-08-07 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213120) · `si`
-
-රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (COPA) සභාපති ධුරය මේ වනවිට පුරප්පාඩු වී තිබේ.
-
-ඒ අනුව පාර්ලිමේන්තු ස්ථාවර නියෝග මත නව සභාපතිවරයෙකු තෝරාපත් කරගැනීම එළැඹෙන සැප්තැම්බර් මස 12 වන දින සිදුකිරීමට නියමිත බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා පැවසීය.
-
-පාර්ලිමේන්තු මන්ත්‍රී අරවින්ද සෙනරත් මහතා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (COPA) සභාපති ධුරයෙන් ඊයේ (06) ඉල්ලා අස්වුණි.
-
-පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරමින් ඒ මහතා සඳහන් කළේ, ආණ්ඩුව විසින් කෝපා කමිටුවේ සභාපති ධුරය විපක්ෂයට ලබාදීම එකඟතාවය පළ කර ඇති බැවින් ඒ සඳහා ඉඩ සලසාදීමට තමා මෙම තීරණය ගත් බවය.
-
-◼️
-
-[Data](articles/5e1cad7a.json)
-
----
-
-### தந்தையும் மகளும் எசல  பெரஹராவில் கைது
-
-*2025-08-07 10:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தந்தையும்-மகளும்-எசல-பெரஹராவில்-கைது/73-362487) · `ta`
-
-கண்டியில் வரலாற்று சிறப்புமிக்க எசல  பெரஹரா வளாகத்திற்குள் ஆசிட் போத்தல், கத்தி மற்றும் கராத்தே சங்கிலியுடன் நுழைய முயன்ற தந்தையும் அவருடைய மகளும் புதன்கிழமை (06) கைது செய்யப்பட்டனர்.
-
-கண்டி யட்டிநுவர சந்திப்பில்  பெரஹரா பாதையில் நுழைந்தவர்களை உடல் சோதனை செய்து கொண்டிருந்த பொலிஸ் அதிகாரிகள் சந்தேக நபர் கைது செய்யப்பட்டார்
-
-விசாரணையின் போது, அவருடன் வந்த தனது மகள் அச்சுறுத்தப்பட்டதால் அவர் பொருட்களை கொண்டு வந்ததாக பொலிஸார் தெரிவித்தனர். சந்தேக நபரும் அவரது மகளும்பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/bfbcdb78.json)
-
----
-
-### சட்டம் மற்றும் ஒழுங்குக்குள் பல ஓட்டைகள்
-
-*2025-08-07 10:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சட்டம்-மற்றும்-ஒழுங்குக்குள்-பல-ஓட்டைகள்/62-362486) · `ta`
-
-◼️
-
-[Data](articles/defe2b73.json)
-
----
-
-### නාවින්න වෙඩිතැබීමේ CCTV දර්ශන එළියට
-
-*2025-08-07 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213119) · `si`
-
-මහරගම නාවින්න ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ CCTV දර්ශන පෙළක් 'අද දෙරණ'ට ලැබී තිබේ.
-
-ඊයේ (06) රාත්‍රී 9.20ට පමණ යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් තවත් පුද්ගලයෙකු ඉලක්ක කරගනිමින් මෙම වෙඩි තැබීම සිදුකර පළගොස් ඇති බව පොලීසිය පැවසුවේය.
-
-වෙඩි වැදීමෙන් තුවාල ලැබු 28 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුළත් කර තිබුණි.
-
-පිස්තෝල වර්ගයේ ගිනිඅවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බව සඳහන්ය.
-
-කෙසේවෙතත් කුමන හේතුවක් මත මෙම වෙඩි තැබීම සිදුකර ඇත්ත ද යන්න සම්බන්ධයෙන් මේ වන විට තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය පැවසුවේය.
-
-◼️
-
-[Data](articles/3eba6ca2.json)
 
 ---

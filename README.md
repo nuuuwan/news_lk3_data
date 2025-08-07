@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 01:49:42**
+As of **2025-08-08 02:07:35**
 
 ## Newspaper Stats
 
-*Scraped **69,348** Articles*
+*Scraped **69,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
-dailyftlk | 4,880
+dailyftlk | 4,883
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,348 articles have been extended.
+61,973 (89.4%) of 69,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### Wake-up call on human-elephant conflict and animal cruelty
+
+*2025-08-08 01:48:41* · [`dailyftlk`](https://www.ft.lk/columns/Wake-up-call-on-human-elephant-conflict-and-animal-cruelty/4-780039) · `en`
+
+Poor elephants in the end have become ultimate victims of human greed and arrogance
+
+It’s indeed heart-breaking to learn the plight of wild elephants in Sri Lanka and the extent of horror and cruelty unleashed upon them that continue to go unabated over the years. The spate of recent cold-blooded, indiscriminate and brutal killing of elephants has set off alarm bells in the highest echelon of the NPP Government with a clarion call to investigate such dastardly acts and bring perpetrators to book. So much so, the deputy minister in charge of wildlife conservation last week had to face a barrage of questions and concerns on the subject with no clear answers given as yet.
+
+...
+
+[Data](articles/7c10e85f.json)
+
+---
+
+### Vanishing giants: Why Sri Lanka must protect its last wild tuskers — before it’s too late
+
+*2025-08-08 01:41:19* · [`dailyftlk`](https://www.ft.lk/columns/Vanishing-giants-Why-Sri-Lanka-must-protect-its-last-wild-tuskers-before-it-s-too-late/4-780038) · `en`
+
+Sri Lanka’s last wild tuskers — majestic, rare, and silently disappearing — are on the brink of vanishing forever. These giants once roamed in strength and abundance across the island, but now, only a handful remain in the wild. Their disappearance is not only a visual and cultural loss — it marks the impending extinction of the tusk gene from Sri Lanka’s wild elephant population. If that happens, it will be an irreversible blow to the nation’s biodiversity.
+
+Current data shows that fewer than 7–8% of wild male elephants in Sri Lanka have tusks, a drastic decline when compared to other Asian elephant populations such as those in India or Sumatra, where tusks are still common among mature bulls. In our case, centuries of human activity — including selective hunting, capture, ivory trade, and habitat restriction — have driven tuskers to near-extinction. Today, the few that remain are genetic outliers, and without focused protection, their legacy may soon be lost.
+
+...
+
+[Data](articles/f09eefed.json)
+
+---
+
+### Over thousand visitors access ‘Know Your Neethi’ Legal Aid and Awareness Camp in Badulla
+
+*2025-08-08 01:34:42* · [`dailyftlk`](https://www.ft.lk/news/Over-thousand-visitors-access-Know-Your-Neethi-Legal-Aid-and-Awareness-Camp-in-Badulla/56-780037) · `en`
+
+High-level attendees touring the Know Your Neethi Legal Aid Camp in Badulla
+
+President’s Counsel and Secretary to the Ministry of Justice Ayesha Jinasena along with legal experts on an engaging and interactive discussion panel
+
+Key dignitaries at the legal aid and awareness camp which served as a dynamic, community-focused platform to promote legal literacy and access to justice
+
+The ‘Know Your Neethi’ Legal Aid and Awareness Camp held on 1-2 August 2025 at the Badulla Cricket Stadium, successfully brought together over a thousand community members for two days of legal education, support, and empowerment.
+
+The program was carried out by the Support to Justice Sector Project (JURE), funded by the European Union, jointly implemented by the United Nations Development Program (UNDP) and the United Nations Children’s Fund (UNICEF) Sri Lanka, and facilitated by the Ministry of Justice.
+
+...
+
+[Data](articles/dfe7965c.json)
+
+---
 
 ### SLT-Mobitel extends decade-long ICT partnership with Sri Dalada Maligawa
 
@@ -1729,63 +1777,5 @@ President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
 ...
 
 [Data](articles/e2fac4da.json)
-
----
-
-### நாட்டில் தினமும் 8 உயிர்மாய்ப்பு சம்பவங்கள்
-
-*2025-08-07 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டில்-தினமும்-8-உயிர்மாய்ப்பு-சம்பவங்கள்/150-362505) · `ta`
-
-சமூகத்தில் பல்வேறு காரணங்களால், பாடசாலை மாணவர்கள் தற்போது மன அழுத்தங்களுக்கு ஆளாகியுள்ளனர் என்று சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-கடந்த ஆண்டு நடத்தப்பட்ட ஒரு கணக்கெடுப்பில் இது தெரியவந்ததாக  சுகாதார அமைச்சின் விசேட வைத்திய நிபுணர் லக்மினி நயனா மகோதரத்ன தெரிவித்தார்.
-
-சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு அவர் இதனைக் கூறியுள்ளார்.
-
-“2024 ஆம் ஆண்டில், இலங்கையில் ஒரு பாடசாலை சுகாதார கணக்கெடுப்பு நடத்தப்பட்டது, தரவுகளைப் பார்த்தபோது, 22.4% மாணவர்கள் தனிமையால் பாதிக்கப்பட்டுள்ளனர்.
-
-13-17 வயதுடைய இந்த பாடசாலை செல்லும் மாணவர்களில் 11.9% பேர், ஏதோவொன்றைப் பற்றி கவலைப்படுவதால் இரவில் தூங்குவதில் சிரமப்படுவதாகக் கூறினர்.
-
-சுமார் 18% பேர் மனச்சோர்வின் அறிகுறிகளைக் கொண்டிருந்தனர். 7.5% பேருக்கு நெருங்கிய நண்பர்கள் இல்லை. 25% மாணவர்கள் தங்கள் மனதில் உள்ள ஒரு பிரச்சினையைப் பற்றி பேச யாராவது இருப்பதாகக் கூறினர்.
-
-...
-
-[Data](articles/f2c7ba1f.json)
-
----
-
-### Presidents’ Entitlements (Repeal) Bill presented to parliament
-
-*2025-08-07 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111259/presidents-entitlements-repeal-bill-presented-to-parliament) · `en`
-
-The Presidents’ Entitlements (Repeal) Bill, which seeks to repeal the Presidents’ Entitlements Act, has been presented to the Parliament by the Minister of Justice Harshana Nanayakkara a short while ago.
-
-However, a heated argument arose in Parliament when the opposition pointed out that the bill could not be presented today (August 7) because the required number of days before presentation had not been completed.
-
-On July 31, the Presidents’ Entitlements (Repeal) Bill was gazetted. The bill was drafted to revoke special privileges extended to former Presidents and their widows.
-
-Earlier in July, the Cabinet of Minister granted approval to the proposal to gazette and present in Parliament the draft bill formulated to amend the Presidents Entitlements Act (No. 4 of 1986).
-
-...
-
-[Data](articles/10f7a31c.json)
-
----
-
-### சீனி மாபியாவை விசாரிக்க குழு நியமனம்
-
-*2025-08-07 11:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனி-மாபியாவை-விசாரிக்க-குழு-நியமனம்/175-362503) · `ta`
-
-நான்கு உள்ளூர் தொழிற்சாலைகளில் உற்பத்தி செய்யப்படும் சிவப்பு சீனியை விற்க முடியாமல் திணறி வரும் அரசாங்கம், பதுக்கி வைக்கப்பட்டுள்ள பங்குகளை சந்தைக்கு ரகசியமாக வெளியிடுவதில் ஒரு மாஃபியா ஈடுபட்டுள்ளதா என்பதை விசாரிக்க ஒரு குழுவை நியமித்துள்ளதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
-
-மொத்த சீனித் தேவையில் 11 சதவீதம் மட்டுமே பெல்வத்த, செவனகல, எதிமல மற்றும் கல்ஓயா ஆகிய இடங்களில் உள்ள தொழிற்சாலைகளில் உள்நாட்டில் உற்பத்தி செய்யப்படுகிறது.
-
-வர்த்தக துணை அமைச்சர் ஆர்.எம்.ஜெயவர்தன டெய்லி மிரருக்கு அளித்த பேட்டியில், 20 சதவீத நுகர்வோர் மட்டுமே நாட்டில் முழுமையாக தயாரிக்கப்பட்ட சிகப்பு சீனியைப் பயன்படுத்துகின்றனர் என்று கூறினார்.
-
-"மீதமுள்ள இருப்புகளை ஏன் விற்க முடியவில்லை என்பது குறித்து நாங்கள் ஆய்வு செய்து வருகிறோம். சீனி இறக்குமதியை நாங்கள் நிறுத்தியுள்ளோம். உரிமம் பெற்ற இறக்குமதியாளர்கள் மூலம் சிகப்பு சீனி இப்போது இறக்குமதி செய்யப்படவில்லை.
-
-...
-
-[Data](articles/cf278fb1.json)
 
 ---

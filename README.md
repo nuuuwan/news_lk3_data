@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 08:16:07**
+As of **2025-08-07 09:06:24**
 
 ## Newspaper Stats
 
-*Scraped **69,185** Articles*
+*Scraped **69,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,661
-adaderanalk | 8,591
+adaderanalk | 8,595
 tamilmirrorlk | 10,104
 virakesarilk | 11,523
-adaderanasinhalalk | 11,904
+adaderanasinhalalk | 11,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,185 articles have been extended.
+61,973 (89.6%) of 69,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### බ්‍රසීලය ලෝක වෙළඳ සංවිධානයේ උපදේශන සහාය පතයි
+
+*2025-08-07 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213112) · `si`
+
+එක්සත් ජනපදය විසින් පනවා ඇති 50% තීරුබදු සම්බන්ධයෙන් බ්‍රසීලය ලෝක වෙළඳ සංවිධානයේ උපදේශන සහාය ඉල්ලා තිබේ.
+
+සාමාන්‍යයෙන් ලෝක වෙළඳ සංවිධානයෙන් මෙලෙස උපදේශන සඳහා ඉල්ලීමක් සිදු කිරීම වෙළඳ ආරවුල් ක්‍රියාවලියක පළමු පියවර බව විදේශ මාධ්‍ය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/f433e721.json)
+
+---
+
+### Brazil requests consultations at World Trade Organization over Trump’s tariffs
+
+*2025-08-07 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111252/brazil-requests-consultations-at-world-trade-organization-over-trumps-tariffs) · `en`
+
+Brazil requested consultations at the World Trade Organization over tariffs imposed by U.S. President Donald Trump against the South American nation that went into effect on Wednesday.
+
+Trump has directly tied the 50% tariff on many imported Brazilian goods to the judicial situation of his embattled ally, former President Jair Bolsonaro, who is currently under house arrest.
+
+“The United States has flagrantly violated key commitments the country has agreed upon at the WTO, such as the principle of the most favored nation and tariff ceilings negotiated at that organization,” Brazil’s foreign ministry said in a statement.
+
+The most favored nation principle is a cornerstone of Geneva-based WTO, whose aim is to get countries to respect trade agreements. The principle directs its members to treat each other equally in trade. WTO panels are set if no agreement is reached in disputes between members.
+
+...
+
+[Data](articles/7babab73.json)
+
+---
 
 ### ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව අද රැස්වෙයි
 
@@ -60,6 +92,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ghana defence minister among eight killed in helicopter crash
+
+*2025-08-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111251/ghana-defence-minister-among-eight-killed-in-helicopter-crash) · `en`
+
+Ghana’s Defence Minister Edward Omane Boamah died in a military helicopter crash on Wednesday along with four other officials and three airforce crew, the government said.
+
+Julius Debrah, President John Mahama’s chief of staff, told a press conference that the crash in which Boamah, Environment, Science and Technology Minister Ibrahim Murtala Muhammed and others were killed was a national tragedy.
+
+“The president and government extend our condolences and sympathies to the families of our comrades and the servicemen who died in service to the country,” Debrah said.
+
+Authorities did not immediately give an explanation for what might have caused the crash.
+
+Earlier Ghana’s armed forces said radar contact had been lost with a Z9 airforce helicopter.
+
+Boamah, a former communications minister, was tapped to serve as defence minister in January after Mahama returned to power.
+
+His replacement will take on a complex security file that includes both external and internal threats.
+
+...
+
+[Data](articles/95003989.json)
+
+---
+
 ### இந்தியாவுக்கு எதிராக போரை தொடங்கிய அமெரிக்கா
 
 *2025-08-07 06:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியாவுக்கு-எதிராக-போரை-தொடங்கிய-அமெரிக்கா/50-362480) · `ta`
@@ -73,6 +129,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7ec75503.json)
+
+---
+
+### Few showers expected in parts of the island
+
+*2025-08-07 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111250/few-showers-expected-in-parts-of-the-island) · `en`
+
+A few showers will occur in the Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts, the Department of Meteorology said.
+
+Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Batticaloa, Ampara and Mullaittivu districts after 1.00 p.m.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, the Met. Department added
+
+◼️
+
+[Data](articles/e093cad0.json)
+
+---
+
+### Former Senior DIG Priyantha Jayakody granted bail
+
+*2025-08-07 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111249/former-senior-dig-priyantha-jayakody-granted-bail) · `en`
+
+The Kandy Magistrate’s Court has ordered retired Senior DIG Priyantha Jayakody to be released on bail.
+
+Former Senior DIG Priyantha Jayakody, who was arrested by the Criminal Investigation Department (CID) for allegedly lodging a false complaint, was previously ordered remanded by the Mahara Magistrate’s Court.
+
+This order was issued after the retired police officer, who was receiving treatment at a private hospital in Ragama, was examined by the Mahara Magistrate.
+
+On July 28, former Senior DIG Priyantha Jayakody was arrested in connection with an incident of allegedly lodging a false complaint claiming that he had received death threats from notorious underworld figure Koralagamage Mandinu Padmasiri, alias ‘Kehelbaddara Padme’.
+
+However, the investigations conducted by the CID have revealed that the act was carried out by Jayakody with the intention of ensuring his personal safety.
+
+◼️
+
+[Data](articles/837e8e58.json)
 
 ---
 
@@ -1689,97 +1781,5 @@ A bond maturing on 01.06.2033 closed at 10.65/71 percent. (Colombo/Aug6/2025)
 ◼️
 
 [Data](articles/4f38c7e6.json)
-
----
-
-### ஆஸ்திரேலிய ஆளுநர், குழுவுடன் வந்தடைந்தார்
-
-*2025-08-06 17:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆஸ்திரேலிய-ஆளுநர்-குழுவுடன்-வந்தடைந்தார்/175-362448) · `ta`
-
-ஆஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜாய் மோஸ்டின் ட்டு கட்டுநாயக்க விமான நிலையத்தை புதன்கிழமை (06) பிற்பகல் வந்தடைந்தார். அவருடன் அவரது தூதுக்குழுவில் 12 பேர் கலந்து கொண்டனர். ​அக்குழுவினர் நான்கு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ளனர்.
-
-ராயல் ஆஸ்திரேலிய விமானப்படைக்கு சொந்தமான ASY-319 என்ற சிறப்பு விமானத்தில் கட்டுநாயக்க விமான நிலையத்தை மதியம் 01.54 மணிக்கு வந்தடைந்தனர்.
-
-வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா ஊக்குவிப்பு அமைச்சர்   விஜித ஹேரத், அவர்களை வரவேற்க கட்டுநாயக்க விமான நிலையத்தில் உள்ள சிறப்பு விருந்தினர்கள் ஓய்வறையில் இருந்தார்.
-
-ஆஸ்திரேலிய ஆளுநர் மற்றும் அவரது குழுவினர் ஜனாதிபதி, பிரதமர் மற்றும் நாட்டின் உயர்மட்ட இராஜதந்திரிகளை சந்தித்து கலந்துரையாட உள்ளனர்,
-
-மேலும் ஆஸ்திரேலிய அரசாங்கத்தின் உதவியுடன் நாட்டின் பண்டாரகம, மிரிஸ்ஸ மற்றும் வெலிகம பகுதிகளில் செயல்படுத்தப்பட்டு வரும் அபிவிருத்தி திட்டங்களைக் கண்காணிக்கும் சுற்றுப்பயணத்திலும் ஈடுபட உள்ளனர்.
-
-◼️
-
-[Data](articles/d1e484c9.json)
-
----
-
-### பொத்துவில் -பொலிகண்டி  வழக்கு ஒத்திவைப்பு
-
-*2025-08-06 16:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவில்-பொலிகண்டி-வழக்கு-ஒத்திவைப்பு/175-362446) · `ta`
-
-பொத்துவில் தொடக்கம் பொலிகண்டி வரை போராட்டத்தில் கலந்து கொண்டவர்கள் 19 பேருக்கு எதிரான  வழக்கு விசாரணை 2025 அக்டோபர் 29 ஆம் திகதிக்கு,  தவணை இடப்பட்டுள்ளது
-
-பொத்துவில் தொடக்கம் பொலிகண்டி வரையிலான நடைபயணி போராட்டத்தில் கலந்து கொண்ட  மல்லாவி வர்த்தகர்கள் , மல்லாவி இளைஞர்கள் உள்ளிட்ட 19 பேருக்கு மாங்குளம்  நீதிமன்றினால்  அழைப்பாணை வழங்கப்பட்ட நிலையில் குறித்த வழக்கு விசாரணைகள் மாங்குளம் நீதவான் நீதிமன்றில் புதன்கிழமை (06)  இடம்பெற்றது
-
-கிழக்கு மாகாணம் அம்பாறை மாவட்டம் பொத்துவில் இருந்து யாழ்ப்பாணம் மாவட்டம் பொலிகண்டி நோக்கிய பேரணி  2021 பிப்ரவரி 3ஆம் திகதி அன்று ஏற்பாடு செய்யப்பட்டது,
-
-குறித்த பேரணி மல்லாவி பகுதியில் வருகை தரும் பொழுது மல்லாவி பகுதியில் உள்ள வர்த்தகர்கள் சமூக செயற்பாட்டாளர்கள் , இளைஞர்கள் முதலானவர்கள் போராட்டத்தில் கலந்து கொண்டிருந்தனர்
-
-குறித்த போராட்டத்தில் கலந்து கொண்டிருந்த 19 நபர்கள்  மீது மல்லாவி பொலிஸாரால்   மாங்குளம் நீதவான் நீதிமன்றில்  வழக்கு தாக்கல் செய்யப்பட்டிருந்தது
-
-...
-
-[Data](articles/2cc951a0.json)
-
----
-
-### නොකඩවා සිව්වන වරටත් කරාතේ ශූරතාව යුද හමුදාවට
-
-*2025-08-06 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213094) · `si`
-
-13 වන ආරක්ෂක සේවා, කරාතේ තරගාවලිය මෙම මස 04 සහ 05 යන දෙදින තුළ පනාගොඩ යුද හමුදා ශාරීරික අභ්‍යාස පුහුණු පාසල් ගෘහස්ථ ක්‍රීඩාංගණයේදී පැවැත්වුණි.
-
-මෙම අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස සහභාගී වූයේ යුද හමුදා කරාතේ ක්‍රීඩා කමිටුවේ සභාපති මේජර් ජෙනරල් ආර්. ඩී. සලේ මහතාය.
-
-එම තරගාවලිය තුළදී යුද හමුදා ක්‍රීඩකයින් අතිවිශිෂ්ඨ දක්ෂතාවයන් දක්වමින් පිරිමි අංශයෙහි රන් පදක්කම් 06ක් රිදී පදක්කම් 08ක් සහ ලෝකඩ පදක්කම් 02ක් දිනා ගත්තේය.
-
-පිරිමි බර පන්ති 07න් බර පන්ති 06ක ජයග්‍රහණය සහ මුළු ලකුණු 58ක් ලබා ගනිමින් නොකඩවා සිව්වන වරටත් තරගාවලියේ ජයග්‍රහණය යුද හමුදාව වෙත හිමිවිය.
-
-කිලෝග්‍රෑම් 50ට අඩු කුම්තේ රන් පදක්කම 19 වන ශ්‍රී ලංකා ආරක්ෂක බලමුළුවේ ලාන්ස් කෝප්‍රල් ප්‍රියර්දශන විසින්ද, කිලෝග්‍රෑම් 55ට අඩු කුම්තේ රන් පදක්කම 19 වන ශ්‍රී ලංකා ආරක්ෂක බලමුළුවේ මාණ්ඩලික සැරයන් බණ්ඩාර විසින් ද, කිලෝග්‍රෑම් 60ට අඩු කුම්තේ රන් පදක්කම 8වන ශ්‍රී ලංකා පාබල හමුදාවේ කෝප්‍රල් ඩයස් විසින් හිමි කරගත්තේය.
-
-...
-
-[Data](articles/95c1b815.json)
-
----
-
-### காதலை சொல்ல போனபோது கரண்ட் கட்; இல்லனா இவர் தான்  மனைவி
-
-*2025-08-06 16:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/காதலை-சொல்ல-போனபோது-கரண்ட்-கட்-இல்லனா-இவர்-தான்-மனைவி/54-362442) · `ta`
-
-இந்திய சினிமாவில் தவிர்க்க முடியாத பெரிய நட்சத்திரங்களின் பட்டியலை எடுத்துக்கொண்டால் அதில் ரஜினிகாந்த், ஸ்ரீதேவிக்கு முக்கிய இடம் இருக்கும். இவர்கள் இருவரும் இணைந்து தமிழ் சினிமாவில் பல வெற்றிப்படங்களை கொடுத்துள்ளனர். கே.பாலச்சந்தர் இயக்கத்தில் 'மூன்று முடிச்சு' படத்தில் ரஜினிக்கு ஜோடியாக அறிமுகமான ஸ்ரீதேவி, பின்னாளில் இந்தியாவின் முன்னணி நடிகையாக வளர்ந்தார்.
-
-ரஜினிகாந்த் – ஸ்ரீதேவி ஜோடி இணைந்து ராணுவ வீரன், போக்கிரி ராஜா, சால்பாஸ் என்ற இந்தி படம் உட்பட மொத்தம் 18 படங்களில் நடித்திருக்கிறார்கள். இந்த காலக்கட்டங்களில் இவர்களின் பழக்கம் நட்பை தாண்டி அடுத்த கட்டத்திற்கு சென்றுள்ளது. ரஜினிகாந்த் மெல்ல மெல்ல ஸ்ரீதேவி மீது காதல் வயப்பட்டுள்ளார். அவர் ஸ்ரீதேவியின் குடும்பத்தினருடன் நெருங்கிப் பழகியதோடு, ஸ்ரீதேவிக்கு 16 வயதான போது, அவரைத் திருமணம் செய்து கொள்ள விரும்புவதாகவும் அவரது தாயாரிடம் தெரிவித்திருக்கிறார்.
-
-...
-
-[Data](articles/d03b5b91.json)
-
----
-
-### Former State Minister Shasheendra Rajapaksa remanded
-
-*2025-08-06 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111239/former-state-minister-shasheendra-rajapaksa-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa has been remanded until August 19 after being produced before the Colombo Magistrate’s Court.
-
-Rajapaksa was arrested by Bribery Commission officers at his residence in Nugegoda this morning (06).
-
-It was reported that he was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
-
-Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
-
-...
-
-[Data](articles/57e10000.json)
 
 ---

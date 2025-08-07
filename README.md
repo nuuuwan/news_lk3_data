@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 16:07:23**
+As of **2025-08-07 16:24:00**
 
 ## Newspaper Stats
 
-*Scraped **69,270** Articles*
+*Scraped **69,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
 adalk | 6,668
-adaderanalk | 8,605
-tamilmirrorlk | 10,135
+adaderanalk | 8,606
+tamilmirrorlk | 10,136
 virakesarilk | 11,534
-adaderanasinhalalk | 11,924
+adaderanasinhalalk | 11,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.5%) of 69,270 articles have been extended.
+61,973 (89.5%) of 69,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### வாகன இறக்குமதி குறித்து ஜனாதிபதி விளக்கம்
+
+*2025-08-07 16:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-ஜனாதிபதி-விளக்கம்/175-362519) · `ta`
+
+நாட்டிற்குள் வாகனங்களை இறக்குமதி செய்வது எந்தவித இடையூறும் இல்லாமல் தொடரும் என்று ஜனாதிபதி அனுர குமார திசாநாயக்க இன்று மீண்டும் உறுதிப்படுத்தினார்.
+
+சமீபத்திய வதந்திகளுக்கு பதிலளித்த ஜனாதிபதி, வாகன இறக்குமதி நிறுத்தப்படும் என்ற கூற்றுக்களில் எந்த உண்மையும் இல்லை என்று கூறினார்.
+
+"இந்த வருடம் ஒரு வாகனம் வாங்க முடியவில்லையென்றால் அதை அடுதடத வருடம் வாங்கலாம்,- எதுவும் மாறாது," என்று அவர் கூறினார்.
+
+வாகன இறக்குமதிக்கு கூடுதல் வரிகளை விதிக்கும் திட்டம் எதுவும் இல்லை என்று அவர் வலியுறுத்தினார், தற்போதுள்ள கொள்கையே அமலில் இருக்கும் என்று பொதுமக்களுக்கு உறுதியளித்தார்.
+
+பொதுமக்களை தவறாக வழிநடத்தவும் தேவையற்ற பீதியை ஏற்படுத்தவும் சிலர் வேண்டுமென்றே தவறான தகவல்களைப் பரப்புவதாக ஜனாதிபதி திசாநாயக்க குற்றம் சாட்டினார்.
+
+◼️
+
+[Data](articles/7eb3e35c.json)
+
+---
+
+### අවසන් රන්දෝලි පෙරහර වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක්
+
+*2025-08-07 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213133) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහර පැවැත්වෙන හෙට (08) දිනය වෙනුවෙන්  වෙනුවෙන් ශ්‍රී ලංකා පොලීසිය විසින් විශේෂ ආරක්ෂක වැඩපිළිවෙල සහ රථවාහන සැලැස්ම ක්‍රියාත්මක කර තිබේ.
+
+ඒ අනුව මාර්ග බාධක, ආරක්ෂක රාජකාරි, රථ වාහන හා පුද්ගලයින් පරීක්ෂා කිරීම, සංචාරයිකයින්ට මග පෙන්වීම හා රථ වාහන ගාල් කිරීම් ඇතුළු විශේෂ වැඩපිළිවෙලක් මේ යටතේ දියත් කර ඇත.
+
+Media on 2025.08.07  at 1505  දළදා පෙරහර සිව්වන රන්දෝලි පෙරහර by poornima on Scribd
+
+◼️
+
+[Data](articles/b36c23a7.json)
+
+---
 
 ### දැව පටවාගත් ලොරි දෙකක් පොලිස් භාරයට
 
@@ -61,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e083572f.json)
+
+---
+
+### Trump to meet Putin in coming days with venue to be announced later, Kremlin says
+
+*2025-08-07 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111264/trump-to-meet-putin-in-coming-days-with-venue-to-be-announced-later-kremlin-says) · `en`
+
+A meeting between Russian President Vladimir Putin and U.S. President Donald Trump has been agreed, a Kremlin official said Thursday, and it could possibly take place next week at a venue that has been decided “in principle.”
+
+“At the suggestion of the American side, it has been agreed in principle to hold a bilateral meeting at the highest level in the coming days, Putin’s foreign affairs adviser Yuri Ushakov told reporters.
+
+Next week is the target date for a summit, Ushakov said, while noting that such events take time to organize and no date is confirmed. The possible venue will be announced “a little later,” he said.
+
+He also played down the possibility of Ukraine President Volodymyr Zelenskyy joining the summit meeting to discuss ending Russia’s 3-year-old invasion of its neighbor, which the White House said Trump is ready to consider.
+
+...
+
+[Data](articles/2b036866.json)
 
 ---
 
@@ -1745,49 +1799,5 @@ Top-performing sales agents across several categories including DBL machinery, D
 ...
 
 [Data](articles/cb348f35.json)
-
----
-
-### கானாவில் ஹெலிகாப்டர் விபத்து ; 2 அமைச்சர்கள் உட்பட 8 பேர் பலி!
-
-*2025-08-07 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222015) · `ta`
-
-ஆப்பிரிக்க நாடான கானாவில் 6ஆம் திகதி புதன்கிழமை நடந்த ஹெலிகாப்டர் விபத்தில் இரண்டு அமைச்சர்கள் உட்பட எட்டு பேர்  பலியாகியுள்ளனர்.
-
-இறந்தவர்கள் பாதுகாப்பு அமைச்சர் எட்வர்ட் ஓமனே போமா மற்றும் சுற்றுச்சூழல், அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சர் இப்ராஹிம் முர்தலா முஹம்மது என அடையாளம் காணப்பட்டுள்ளனர்.
-
-நாட்டில் சட்டவிரோத சுரங்கத் தொழிலை ஒடுக்குவதற்காக ஒபுவாசி நகரத்திற்குச் சென்று கொண்டிருந்தபோது குறித்த விபத்து நிகழ்ந்ததுள்ளதாக தெரிவிக்கப்படுக்கின்றது.
-
-◼️
-
-[Data](articles/a6f27a1d.json)
-
----
-
-### தேசபந்துவை பொலிஸ் மா அதிபர் பதவியிலிருந்து நீக்குவதற்கான சபாநாயகரின் கடிதத்திற்கு ஜனாதிபதி ஒப்புதல்
-
-*2025-08-07 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222014) · `ta`
-
-பாராளுமன்றத்தின் தீர்மானத்தின் பிரகாரம் தேசபந்து தென்னகோனை பொலிஸ் மா அதிபர் பதவியில் இருந்து நீக்குமாறு சபாநாயகர் அனுப்பிய கடிதத்திற்கு ஜனாதிபதியின் அங்கீகாரம்!
-
-05ஆம் திகதி செவ்வாயக்கிழமை பாராளுமன்றத்தில் 177 வாக்குகள் ஆதரவாகவும், எதிராக எந்த வாக்குகளும் இன்றி, தேசபந்து தென்னகோனை பதவியிலிருந்து நீக்குவதற்கான தீர்மானம் நிறைவேற்றப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/1618d355.json)
-
----
-
-### நாவின்னவில் துப்பாக்கிச் சூடு - ஒருவர் காயம்
-
-*2025-08-07 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222013) · `ta`
-
-மஹரகம, நாவின்ன பகுதியில் துப்பாக்கிச் சூட்டு சம்பவம் ஒன்று செவ்வாய்க்கிழமை (6) இடம்பெற்றது.
-
-மோட்டார் சைக்கிளில் வந்த ஒருவர், திடீரென துப்பாக்கி பிரயோகத்தில் ஈடுபட்டுள்ளார். இதில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/7ed040b6.json)
 
 ---

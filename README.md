@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-07 10:30:15**
+As of **2025-08-07 10:55:42**
 
 ## Newspaper Stats
 
-*Scraped **69,202** Articles*
+*Scraped **69,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,119 @@ economynextcom | 4,226
 islandlk | 4,227
 dailymirrorlk | 4,733
 dailyftlk | 4,873
-adalk | 6,662
-adaderanalk | 8,596
-tamilmirrorlk | 10,107
-virakesarilk | 11,523
-adaderanasinhalalk | 11,910
+adalk | 6,663
+adaderanalk | 8,597
+tamilmirrorlk | 10,110
+virakesarilk | 11,524
+adaderanasinhalalk | 11,912
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.6%) of 69,202 articles have been extended.
+61,973 (89.5%) of 69,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-07 (Thursday)
+
+### COPA සභාපති ධුරය කාට ද?
+
+*2025-08-07 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213120) · `si`
+
+රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (COPA) සභාපති ධුරය මේ වනවිට පුරප්පාඩු වී තිබේ.
+
+ඒ අනුව පාර්ලිමේන්තු ස්ථාවර නියෝග මත නව සභාපතිවරයෙකු තෝරාපත් කරගැනීම එළැඹෙන සැප්තැම්බර් මස 12 වන දින සිදුකිරීමට නියමිත බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා පැවසීය.
+
+පාර්ලිමේන්තු මන්ත්‍රී අරවින්ද සෙනරත් මහතා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (COPA) සභාපති ධුරයෙන් ඊයේ (06) ඉල්ලා අස්වුණි.
+
+පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරමින් ඒ මහතා සඳහන් කළේ, ආණ්ඩුව විසින් කෝපා කමිටුවේ සභාපති ධුරය විපක්ෂයට ලබාදීම එකඟතාවය පළ කර ඇති බැවින් ඒ සඳහා ඉඩ සලසාදීමට තමා මෙම තීරණය ගත් බවය.
+
+◼️
+
+[Data](articles/5e1cad7a.json)
+
+---
+
+### தந்தையும் மகளும் எசல  பெரஹராவில் கைது
+
+*2025-08-07 10:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தந்தையும்-மகளும்-எசல-பெரஹராவில்-கைது/73-362487) · `ta`
+
+கண்டியில் வரலாற்று சிறப்புமிக்க எசல  பெரஹரா வளாகத்திற்குள் ஆசிட் போத்தல், கத்தி மற்றும் கராத்தே சங்கிலியுடன் நுழைய முயன்ற தந்தையும் அவருடைய மகளும் புதன்கிழமை (06) கைது செய்யப்பட்டனர்.
+
+கண்டி யட்டிநுவர சந்திப்பில்  பெரஹரா பாதையில் நுழைந்தவர்களை உடல் சோதனை செய்து கொண்டிருந்த பொலிஸ் அதிகாரிகள் சந்தேக நபர் கைது செய்யப்பட்டார்
+
+விசாரணையின் போது, அவருடன் வந்த தனது மகள் அச்சுறுத்தப்பட்டதால் அவர் பொருட்களை கொண்டு வந்ததாக பொலிஸார் தெரிவித்தனர். சந்தேக நபரும் அவரது மகளும்பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/bfbcdb78.json)
+
+---
+
+### சட்டம் மற்றும் ஒழுங்குக்குள் பல ஓட்டைகள்
+
+*2025-08-07 10:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சட்டம்-மற்றும்-ஒழுங்குக்குள்-பல-ஓட்டைகள்/62-362486) · `ta`
+
+◼️
+
+[Data](articles/defe2b73.json)
+
+---
+
+### නාවින්න වෙඩිතැබීමේ CCTV දර්ශන එළියට
+
+*2025-08-07 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213119) · `si`
+
+මහරගම නාවින්න ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ CCTV දර්ශන පෙළක් 'අද දෙරණ'ට ලැබී තිබේ.
+
+ඊයේ (06) රාත්‍රී 9.20ට පමණ යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් තවත් පුද්ගලයෙකු ඉලක්ක කරගනිමින් මෙම වෙඩි තැබීම සිදුකර පළගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු 28 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුළත් කර තිබුණි.
+
+පිස්තෝල වර්ගයේ ගිනිඅවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් කුමන හේතුවක් මත මෙම වෙඩි තැබීම සිදුකර ඇත්ත ද යන්න සම්බන්ධයෙන් මේ වන විට තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/3eba6ca2.json)
+
+---
+
+### ரூ.12.16 மில். மதிப்புள்ள ’’குஷ்’’:  இந்தியர்கள் மூவர் கைது
+
+*2025-08-07 10:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-12-16-மில்-மதிப்புள்ள-குஷ்-இந்தியர்கள்-மூவர்-கைது/175-362485) · `ta`
+
+12.16 மில்லியன் ரூபாய் மதிப்புள்ள "குஷ்" போதைப்பொருளை  கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியே கொண்டு சென்ற வெளிநாட்டு பயணிகள் மூன்று விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகள் குழுவால், வியாழக்கிழமை (07) காலை கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்ட அனைத்து பயணிகளும் இந்திய தொழிலதிபர்கள், அவர்களில் ஒருவர் 42 வயதுடைய ஆண், மற்ற இருவர் 43 மற்றும் 22 வயதுடைய பெண்கள்.
+
+அவர்கள் கொண்டு வந்த பொதிகளில் 12 கிலோகிராம் 160 கிராம் "குஷ்" பாக்கெட்டுகளில் இருந்தது, அவை விமான நிலைய ஸ்கேனர்களால் சரிபார்க்கப்படுவதைத் தவிர்க்க கார்பன் கடதாசியால் மூடப்பட்டிருந்தன என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b5a20507.json)
+
+---
+
+### முன்னாள் சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர் பிரியந்த ஜெயக்கொடிக்கு பிணை
+
+*2025-08-07 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222019) · `ta`
+
+ஓய்வுபெற்ற முன்னாள் சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர் பிரியந்த ஜெயக்கொடியை பிணையில் விடுவிக்க மஹர நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+பாதாள உலக கும்பலைச் சேர்ந்த ‘கெஹெல்பத்தர பத்மே’ என்பவரிடமிருந்து தனக்கு கொலை மிரட்டல் வந்ததாக பொய்யான முறைப்பாடு அளித்தமைக்காக பிரியந்த ஜெயக்கொடி கடந்த 28 ஆம் திகதி கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட பிரியந்த ஜெயக்கொடியை நீதிமன்றில் ஆஜர்ப்படுத்திய போது 6ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்றம் உத்தரவிட்டிருந்தது.
+
+குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் நடத்திய விசாரணையில்  பிரியந்த ஜெயக்கொடி தனது தனிப்பட்ட பாதுகாப்பை உறுதி செய்யும் நோக்கத்துடன் பொய்யாக முறைப்பாடு அளித்துள்ளமை தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/a5b83260.json)
+
+---
 
 ### ஆகஸ்ட்டில் உலகையே அச்சுறுத்தும் பேரழிவு : பாபா வாங்கா
 
@@ -91,6 +189,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/998b6cb9.json)
+
+---
+
+### මී මුරේ මාර්ගය සැහැල්ලු වාහන වලට ඇරෙයි
+
+*2025-08-07 09:45:21* · [`adalk`](https://www.ada.lk/breaking_news/මී-මුරේ-මාර්ගය-සැහැල්ලු-වාහන-වලට-ඇරෙයි/11-417770) · `si`
+
+හදිසි නඩත්තු කටයුත්තක් හේතුවෙන් වසා දමා තිබුන මීමුරේ මාර්ගය නැවත විවෘත කළ බව මහනුවර දිස්ත්‍රික් ලේකම් ඉන්දික උඩවත්ත මහතා කියයි.
+
+එම මාර්ගයේ කයිකාවල පාලමේ ඇතිව තිබූ අවදානම් තත්ත්වයක් හේතුවෙන් එය නැවත අලුත් වැඩියා කරන තුරු මසකට ආසන්න කාලයක් මාර්ගය වසා තැබීම හේතුවෙන් මීමුරේ ජනතාවට දැඩි ආර්ථික බලපෑමක් ද එල්ල විය.
+
+කෙසේ නමුත් දැනට සැහැල්ලු වාහන වලට පමණක් මාර්ගය විවෘත කොට ඇතිි අතර පාලම මතින් බර වාහන ගමන් කිරීම සඳහා අවසර නොලැබෙන බවද බලධාරිහු කියති.
+
+◼️
+
+[Data](articles/cae3f877.json)
+
+---
+
+### Mental health concerns rise among schoolchildren, health officials warn
+
+*2025-08-07 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111255/mental-health-concerns-rise-among-schoolchildren-health-officials-warn) · `en`
+
+The Ministry of Health states that school students are currently experiencing some degree of mental stress due to various social factors.
+
+Acting Director of the Directorate of Mental Health and Consultant Community Physician, Dr. Lakmini Nayana Magodaratne, stated that this was revealed in a survey conducted last year.
+
+Speaking at a press conference held at the Health Promotion Bureau, Dr. Magodaratne said, “In 2024, there was a school health survey in Sri Lanka, and when we looked at the data on our children, 22.4% were suffering from loneliness.11.9% of schoolchildren aged 13–17 said they had difficulty sleeping at night because they were worried about something. About 18% showed symptoms of depression.7.5% did not have close friends. Only 25% of children said they had someone to talk to about their problems which means 75% do not have anyone close to them.
+
+...
+
+[Data](articles/d41c3bc9.json)
 
 ---
 
@@ -1623,157 +1753,5 @@ The seized vehicle has been handed over to the Ganemulla Police for further inve
 ...
 
 [Data](articles/a044244b.json)
-
----
-
-### විමසිලිමත්වන ලෙස දන්වා කාලගුණයෙන් නිවේදනයක්
-
-*2025-08-06 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213099) · `si`
-
-උතුරු-මැද, නැගෙනහිර පළාත් සහ යාපනය, කිලිනොච්චි, මුලතිව්, වවුනියාව, මොණරාගල සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව  එම දිස්ත්‍රික්කවල ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බව දැනුම් දී ඇත.
-
-ඉහත උණුසුම් දර්ශකය (Heat Index) කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ගෝලීය ගණිතමය කාලගුණ අනාවැකි ආකෘති දත්ත විශ්ලේෂණ මගින් ලබාගත් වායුගෝලීය ආර්ද්‍රතාවය සහ උපරිම උෂ්ණත්ව අගයයන් යොදා ගනිමින් හෙට (07) දිනය සඳහා ගණනය කර ඇති දර්ශකයක් වන අතර මෙය ශරීරයට දැනෙන තත්වයකි.
-
-එමෙන්ම මෙය විය හැකි උපරිම වායුගෝලීය උෂ්ණත්වය නොවන බවද එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/33550cde.json)
-
----
-
-### Sri Lanka cricket seeks agents for global merchandising program
-
-*2025-08-06 18:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cricket-seeks-agents-for-global-merchandising-program-235094/) · `en`
-
-ECONOMYNEXT – Sri Lanka Cricket said it is seeking expressions of interest from sports brand licensing agents to start a merchandise program through officially licensed products.
-
-The selected Licensing Agents will be responsible for identifying recognized companies to design, develop, distribute, and sell a wide range of SLC branded or co-branded products, covering apparel, accessories, collectibles or suitable products and services.
-
-The selected partner appointed through a competitive tender process, will manage the Sri Lanka Cricket Merchandising Licensing Program from 2026 to 2032, SLC said.
-
-The licensing agent or agents have to advise SLC on the licensing business model, find potential vendors who produce goods and monitor and manage vendor relationships and performance, track royalties and collect revenues.
-
-Sri Lanka Cricket is seeking interest for a global market agent, territory-based agent or category-based agent, such as for apparel, accessories and collectibles.
-
-...
-
-[Data](articles/0b695653.json)
-
----
-
-### இலங்கை ரி20 அணிக்கு அதிசிறந்த வீரர்களைத் தெரிவு செய்யும் ஸ்ரீலங்கா கிரிக்கெட் மும்முனை ரி20 தொடர் நாளை ஆரம்பம்
-
-*2025-08-06 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/221990) · `ta`
-
-ஸிம்பாப்வேக்கு எதிராக இந்த மாத இறுதியில் நடைபெறவுள்ள சர்வதேச ரி20 கிரிக்கெட் தொடர், அடுத்த மாதம் நடைபெறவுள்ள ஆசிய கிண்ண கிரிக்கெட் (ரி20)  தொடர் ஆகியவற்றுக்கு  சிறந்த வீரர்களைத் தேர்ந்தெடுக்கும் முகமாக ஸ்ரீலங்கா கிரிக்கெட் ஏற்பாடு செய்துள்ள உள்ளூர் ரி20 மும்முனை கிரிக்கெட் தொடர் எஸ்.எஸ்.சி. மைதானத்தில் 07ஆம் திகதி வியாழக்கிழமை ஆரம்பமாகவுள்ளது.
-
-இந்த மாதம் நடைபெறவிருந்த லங்கா பிறீமியர் லீக் டிசம்பர் மாதம் வரை பிற்போடப்பட்டதால் இலங்கையின் பிரதான கிரிக்கெட் அட்டவணையில் ஏற்பட்ட இடைவெளியைப் பயன்படுத்தி ரி20 உள்ளூர் மும்முனைப் போட்டியை ஸ்ரீலங்கா கிரிக்கெட் நடத்த தீர்மானித்தது.
-
-இதற்கு அமைய நிறங்களின் பெயர்களில் 3 வீரர்களின் தலைமையில் 3 அணிகளை ஸ்ரீலங்கா கிரிக்கெட் தெரிவுசெய்துள்ளது.
-
-சரித் அசலன்க, கமிந்து மெண்டிஸ், துனித் வெல்லாலகே ஆகியோரைத் தலைவர்களாகக் கொண்ட இந்த மூன்று அணிகளில் இடம்பெறும் தேசிய வீரர்கள், வளர்ந்துவரும் இலங்கை ஏ அணி வீரர்கள் ஆகியோரின் திறமைகள் உள்ளூர் ரி20 மும்முனை தொடரில் பரீட்சிக்கப்படவுள்ளது.
-
-...
-
-[Data](articles/ef8ac71c.json)
-
----
-
-### චිචීගේ රොකට් එක ගැන අගමැතිනියගේ හෙළිදරව්ව
-
-*2025-08-06 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213098) · `si`
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂගේ පුත් රෝහිත රාජපක්ෂගේ අධීක්ෂණය යටතේ ක්‍රියාත්මක වූ බව කියන 'සුප්‍රීම් සැට් සන්නිවේදන චන්ද්‍රිකා ව්‍යාපෘතිය' සඳහා ශ්‍රී ලංකා රජයේ කිසිදු මුදලක් වැයකර නොමැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
-
-එමෙන්ම එම ව්‍යාපෘතියෙන් ශ්‍රී ලංකාවට රුපියල් මිලියන දහස් ගණනක ආදායමක් ලැබී ඇති බව ද අග්‍රාමාත්‍යවරිය අද (6) පාර්ලිමේන්තුවට දැනුම් දුන්නා ය.
-
-ඇය මෙම අදහස් පළකළේ පාර්ලිමේන්තු මන්ත්‍රී ඩී.වී චානක මහතා ඒ සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
-
-"2011/2012 කාලයේදී Supreme Global ආයතනයට අනුබද්ධිත Supreme Sat සමාගම විසින් දියත්කළ සන්නිවේදන චන්ද්‍රිකාව සඳහා ආයෝජනය කර ඇති මුදල පිළිබඳව අහල තියෙන ප්‍රශ්නය අනුව Supreme Sat සමාගම ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සමග ගිවිසුම්ගත වී තිබෙන්නේ 2012.05.23 දින.
-
-2013/2014 කාලය තුළ මෙම ආයතනය රුපියල් දොළොස් මිලියන එක් ලක්ෂ හාර දහස් නවසිය තිස් හයක මුදලක් සන්නිවේදන චන්ද්‍රිකාව සඳහා යොදවල තියෙනවා.
-
-සමාගම ඉදිරිපත් කළ ආයෝජන අයැදුම් පතෙහි තොරතුරු අනුව ශ්‍රී ලංකා රජය මුදල් ආයෝජනය කර නොමැත" යනුවෙන් ඇය පැවසීය.
-
-◼️
-
-[Data](articles/95ead529.json)
-
----
-
-### Sri Lanka sees foreign buying in rupee bonds amid greater clarity on Trump tariff
-
-*2025-08-06 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-amid-greater-clarity-on-trump-tariff-235037/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities after selling in the previous week, the Central Bank data showed, as the week ended on July 31 saw some certainty over U.S. President Donald Trump’s tariff, analysts said.
-
-Foreign investors bought 1,664 million rupee ($5.55 million) worth of government securities in the week ended on July 31, after suffering a 1.4 million dollars outflow in the previous week.
-
-Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and the week saw Trump’s administration announcing the tariff for many countries including 20 percent for Sri Lanka.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-...
-
-[Data](articles/399ec2ad.json)
-
----
-
-### Sri Lanka sees foreign buying in rupee bonds amid certainty over Trump tariff
-
-*2025-08-06 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-buying-in-rupee-bonds-amid-certainty-over-trump-tariff-235037/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities after selling in the previous week, the Central Bank data showed, as the week ended on July 31 saw some certainty over U.S. President Donald Trump’s tariff, analysts said.
-
-Foreign investors bought 1,664 million rupee ($5.55 million) worth of government securities in the week ended on July 31, after suffering a 1.4 million dollars outflow in the previous week.
-
-Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and the week saw Trump’s administration announcing the tariff for many countries including 20 percent for Sri Lanka.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-...
-
-[Data](articles/7cb00792.json)
-
----
-
-### ’கிங்டம்’ ஈழத் தமிழர்களுக்கு எதிரான படமா? தயாரிப்பு நிறுவனம் விளக்கம்
-
-*2025-08-06 17:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கிங்டம்-ஈழத்-தமிழர்களுக்கு-எதிரான-படமா-தயாரிப்பு-நிறுவனம்-விளக்கம்/54-362452) · `ta`
-
-நடிகர் விஜய் தேவரகொண்டா நடிப்பில் கடந்த வெள்ளிக்கிழமை வெளியான திரைப்படம் கிங்டம். இப்படத்தில் இந்தியாவிலிருந்து அகதிகளாக இலங்கை செல்பவர்களை அங்கிருக்கும் இலங்கைத் தமிழர்கள் அடிமைகளாக மாற்றுவது போன்ற காட்சிகள் இடம்பெற்றிருந்தன.
-
-இதனால், ஒரு தெலுங்கு திரைப்படம் தமிழர்களை மோசமாக சித்திரித்துவிட்டதாகப் படத்திற்குக் கடுமையான கண்டனங்கள் எழுந்ததுடன் திரையிடப்பட்ட பல திரையரங்குகளில் கிங்டம் போஸ்டர்கள் கிழிக்கப்பட்டன.
-
-இந்த நிலையில், இப்பிரச்னை தீவிரமடைந்துள்ளதால் படத்தின் தயாரிப்பு நிறுவனமான சித்தாரா எண்டர்டெயின்மெண்ட்ஸ் நிறுவனம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
-
-அதில், “சித்தாரா எண்டர்டெயின்மெண்ட்ஸ் என்ற எங்கள் நிறுவனத்தின் சார்பில் தயாரித்து வெளியாகியிருக்கும் திரைப்படம் 'கிங்டம்'. இப்படத்தின் சில காட்சி அமைப்புகள் தமிழ் மக்களின் உணர்வுகளை காயப்படுத்தியதாக கேள்விப்பட்டோம்.
-
-தமிழ் மக்களின் உணர்வுகளை நாங்கள் மிகவும் மதிக்கிறோம். இந்தக் கதை முற்றிலும் கற்பனையானது என படத்தின் மறுப்புப் பகுதியில் (disclaimer portion) குறிப்பிட்டுள்ளோம் என்பதை நாங்கள் உறுதியளிக்கிறோம்.
-
-...
-
-[Data](articles/d98c423d.json)
-
----
-
-### ගණේමුල්ලෙන් සැක සහිත සුපිරි ජීප් රථයක් සොයාගනී
-
-*2025-08-06 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213097) · `si`
-
-නීතිවිරෝධි ලෙස එකලස් කරන ලද රුපියල් කෝටි 03ක පමණ වටිනාකමකින් යුත් සුඛෝපභෝගි ජීප් රථයක් ගණේමුල්ල ප්‍රදේශයේ දී සොයාගෙන තිබේ.
-
-වලාන මධ්‍යම දුෂණ මර්දන ප්‍රහාරක බළකායට ලද තොරතුරක් මත සිදුකළ වැටලීමකදී මෙම ජීප් රථය සොයාගෙන ඇති බව සඳහන් වේ.
-
-සොයාගත් ජීප් රථය එම ප්‍රදේශයේ පිහිටි ප්‍රසිද්ධ ගරාජ් හිමිකරුවෙකු සතුව තිබී සොයාගෙන ඇති බව වාර්තා වෙයි.
-
-සොයාගත් ජීප් රථය වැඩිදුර විමර්ශන කටයුතු සඳහා ගණේමුල්ල පොලීසිය වෙත භාරදී ඇත.
-
-◼️
-
-[Data](articles/d7b1f816.json)
 
 ---

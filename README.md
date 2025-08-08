@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 20:49:15**
+As of **2025-08-08 21:07:06**
 
 ## Newspaper Stats
 
-*Scraped **69,453** Articles*
+*Scraped **69,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,690
-adaderanalk | 8,632
-tamilmirrorlk | 10,156
+adaderanalk | 8,633
+tamilmirrorlk | 10,158
 virakesarilk | 11,557
 adaderanasinhalalk | 11,967
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,967
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,453 articles have been extended.
+61,973 (89.2%) of 69,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### தற்பாதுகாப்புக்காக பொலிஸார் நடத்திய துப்பாக்கிச் சூடு
+
+*2025-08-08 20:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்பாதுகாப்புக்காக-பொலிஸார்-நடத்திய-துப்பாக்கிச்-சூடு/175-362563) · `ta`
+
+கடுவெல, கொத்தலாவல, கெக்கிலிவெல வீதிப் பகுதியில் இன்று பொலிஸாரால் நடத்தப்பட்ட துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து முல்லேரியாவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பொலிஸார் சந்தேகநபரை கைது செய்ய முயன்றபோது, அவர் வாளால் பொலிஸாரை தாக்க முயற்சித்ததாக தெரிவிக்கப்படுகிறது.
+
+இதனையடுத்து, தற்காப்புக்காக பொலிஸார் சந்தேகநபரை நோக்கி துப்பாக்கியால் சுட்டதாகவும், இதில் அவர் காயமடைந்ததாகவும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/be7e4025.json)
+
+---
+
+### சிறையில் இருந்து பிள்ளையான் அனுப்பிய கடிதத்தால் சர்ச்சை
+
+*2025-08-08 20:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இருந்து-பிள்ளையான்-அனுப்பிய-கடிதத்தால்-சர்ச்சை/175-362562) · `ta`
+
+மட்டக்களப்பு மாநகர சபை முதல்வருக்கு புனர் நிர்மானிக்கப்பட்ட பொது நூலகத்தை திறந்து மக்கள் பாவனைக்கு விடுமாறு சிறையில் இருக்கும் பிள்ளையான்  ஆனுப்பிய கடிதம் தொடர்பாக மாநகர சபை முதல்வர் சிவம் பாக்கியநாதனிடம்  சிஜடி யினர் நேற்று (07) விசாரணை ஒன்றை மேற்கொண்டுள்ளனர்.
+
+முன்னாள் இராஜாங்க அமைச்சரும் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சி தலைவருமான பிள்ளையான் என்றழைக்கப்படும் சி.சந்திரகாந்தன் முன்னாள் கிழக்கு பல்கலைக்கழக உப வேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத்  கடத்தப்பட்டு காணாமல் போயுள்ள சம்பவம் தொடர்பாக கடந்த ஏப்பிரல் 6ம் திகதி சந்தேகத்தில் சிஜடி யினரால் கைது செய்யப்பட்டு பயங்கரவாத தடுப்பு காவலில் வைக்கப்பட்டுள்ளார்
+
+இந்த நிலையில் கடந்த 30 ம் திகதி பிள்ளையான் கிழக்கு மாகாண ஆளுநர் மற்றும் மட்டு மாநகர முதல்வருக்கு  மட்டக்களப்பு மாநகர சபை எல்லைக்குள் புதிதாக அமைக்கப்பட்ட நூலகத்தை மக்கள் பாவனைக்கு கையளிப்பது தொடர்பாக என தலைப்பிடப்பட்டு அதில் கையொப்பம் இட்டு கடிதம் ஒன்றை கட்சி உறுப்பினர்  ஒருவர் மாநகரசபை முதல்வரிடம் ஒப்படைத்துள்ளார்.
+
+...
+
+[Data](articles/480d618e.json)
+
+---
 
 ### උකුස්සාට හෙළි වූ කුළුබඩු ජාවාරම
 
@@ -81,6 +113,24 @@ A shooting incident has been reported in the Kothalawala area in Kaduwela, a sho
 ◼️
 
 [Data](articles/a36aeed8.json)
+
+---
+
+### Suspect injured as police open fire during arrest attempt in Kaduwela
+
+*2025-08-08 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111291/suspect-injured-as-police-open-fire-during-arrest-attempt-in-kaduwela) · `en`
+
+A shooting incident has been reported in the Kothalawala area in Kaduwela, a short while ago.
+
+It is reported that police officers opened fire while attempting to apprehend a suspect.
+
+The suspect reportedly attempted to attack the officers with a sword during the arrest attempt, prompting the police to respond with gunfire in self-defense.
+
+The suspect sustained injuries in the incident and has been admitted to the Mulleriyawa Hospital for treatment.
+
+◼️
+
+[Data](articles/f03510d6.json)
 
 ---
 
@@ -1779,51 +1829,5 @@ Both indices pointed to mixed reactions. The All Share Price Index went up by 24
 ...
 
 [Data](articles/8af91d84.json)
-
----
-
-### End of ex-Presidential perks; Trump continues political gymnastics
-
-*2025-08-07 22:58:00* · [`islandlk`](http://island.lk/end-of-ex-presidential-perks-trump-continues-political-gymnastics/) · `en`
-
-We pensioners particularly are resentful of Parliamentarians getting pensions for life after warming the seats of the House by the Diyawanna for a mere five years. Many of them hardly contributed to on-going debates, and many have been more absent than present in Parliament. Some have been caught on camera snoozing while sessions were on. And then after being paid for each session attended and a salary and free petrol and heavily subsidised meals, they lose their seats at an election and are gifted a pension.
-
-How was it with us who are entitled to pensions and get a certain amount each month which hardly keeps us medically secure, leave along paying for our food. However, we are grateful for the amount that comes to us as recompense for work well done at least for 20 years, paltry though it be. And, how did we work then? Most were highly dedicated, competent, took pleasure and pride in our work, and actually earned our salaries and later, pensions. Not to mention honesty.
-
-...
-
-[Data](articles/fee79aa5.json)
-
----
-
-### ඌවට බරක් වූ සුපිරි වාහන වෙන්දේසියේ විකුණන්න යයි
-
-*2025-08-07 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213148) · `si`
-
-ඌව පළාත් සභාවට දැරිය නොහැකි අධික වියදමක් ඇති සියලුම වාහන ප්‍රසිද්ධ වෙන්දේසියේ විකිණීමට තීරණය කර තිබේ.
-
-එම පළාත් සභාවේ හිටපු අමාත්‍යවරුන්, ආණ්ඩුකාරවරුන් පරිහරණය කළ අධි සුඛෝපභෝගි වාහන මෙලෙස විකිණිම සදහා මිල ගණන් කැඳවා ඇති බව බදුල්ල නියෝජ්‍ය ප්‍රධාන ලේකම් මුල්‍ය
-
-◼️
-
-[Data](articles/86130ce0.json)
-
----
-
-### தொழிலில்லா பிரச்சினை தீவிரம் : அரச கடன்கள், வாக்குறுதிகள் குறித்து ஜனாதிபதி விளக்கம் தர வேண்டும்: சஜித் பிரேமதாச
-
-*2025-08-07 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222089) · `ta`
-
-நாட்டில் தீவிரமடைந்துள்ள தொழின்மை  பிரச்சினைக்கு தீர்வு காணாமல் 2028 ஆண்டு முதல்  எவ்வாறு அரசமுறை கடன்களை மீள செலுத்துவது. மக்களுக்கு வழங்கிய  செல்வந்த நாடு - அழகிய வாழ்க்கை  வாக்குறுதி  திட்டம் எப்போது அமுல்படுத்தப்படும். ஜனாதிபதி உண்மையை வெளிப்படுத்த வேண்டும் என்று எதிர்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  வியாழக்கிழமை (7) இடம்பெற்ற  நாட்டின் தற்போதைய பொருளாதாரம் மீதான ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்
-
-அரசாங்கத்தை நெருக்கடிக்குள்ளாக்க பல்வேறு தரப்பினர் முயற்சிப்பதாக ஜனாதிபதி குறிப்பிடுகிறார். நாட்டு மக்களை நெருக்கடிக்குள்ளாக்க வேண்டிய அவசியம் எதிர்க்கட்சிகளுக்கு கிடையாது. அரசாங்கத்தின் பலவீனத்தை வெளிப்படுத்தும் போது அதனை அரசாங்கம் ஏற்றுக்கொள்ள வேண்டும்.
-
-பிரதமர் பதவியை ஏற்றுக்கொள்ளுமாறு என்னிடம் 61 முறை குறிப்பிட்டார்கள். மக்களாணையுடன் ஆட்சிக்கு வர வேண்டும் என்ற நிலைப்பாட்டில் நான் என்றும் உறுதியாகவுள்ளேன்.சூழ்ச்சியின் ஊடாக அதிகாரத்தை கைப்பற்ற வேண்டிய தேவை எமக்கு கிடையாது. ஜனநாயக ரீதியாகவே ஆட்சிக்கு வர முயற்சிப்போம்.
-
-...
-
-[Data](articles/d5ad073d.json)
 
 ---

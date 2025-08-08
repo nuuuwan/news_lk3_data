@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 11:52:39**
+As of **2025-08-08 12:08:16**
 
 ## Newspaper Stats
 
-*Scraped **69,400** Articles*
+*Scraped **69,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,240
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,685
-adaderanalk | 8,622
+adaderanalk | 8,623
 tamilmirrorlk | 10,150
 virakesarilk | 11,549
 adaderanasinhalalk | 11,948
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,400 articles have been extended.
+61,973 (89.3%) of 69,401 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/44b0cab6.json)
+
+---
+
+### Borella shooting: Three victims remain in critical condition
+
+*2025-08-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111281/borella-shooting-three-victims-remain-in-critical-condition) · `en`
+
+Three of the youths admitted to the Colombo National Hospital after being shot while at the Sirisara Uyana Stadium in Sahaspura, Borella, are reported to be in critical condition.
+
+Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, stated that one of the youths had sustained severe gunshot wounds and had undergone surgery.
+
+He added that all three of the critically injured are currently receiving treatment in the hospital’s Intensive Care Unit (ICU).
+
+Dr. Bellana further said that the condition of one other person injured in the incident is not serious. He noted that the three ICU patients will require further surgeries in the future and that it is not possible at present to provide a definite assessment of their health conditions.
+
+Police reported that one of the five hospitalised as a result of the shooting, which occurred last night (07) near the Sahaspura Sirisara Housing Complex in Borella, had succumbed to injuries today (08).
+
+...
+
+[Data](articles/bc7cf1cd.json)
 
 ---
 
@@ -1755,25 +1775,5 @@ However, for Muslim schools, the second term will end on August 19 (Tuesday) and
 ◼️
 
 [Data](articles/ccc14a5b.json)
-
----
-
-### Sri Lanka stocks rise 0.11-pct, led by financials
-
-*2025-08-07 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-0-11-pct-led-by-financials-235272/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The ASPI was up 0.11 percent, or 21.77 points, at 19,826.57. But the S&P SL20 was down 0.04 percent, or 2.46 points, at 5,825.39.
-
-Market turnover was 3.2 billion rupees. Most of this came from diversified financials stocks (762 million rupees).
-
-Top contributors to the ASPI were The Colombo Fort Land & Building which was up 8.20 rupees at 90.60, Vallibel Once which was up 2.20 rupees at 94.20, Melstacorp which was up 1.00 rupee at 158.00, Agarapatana Plantations which was up 2.50 rupees at 22.40, and Hatton National Bank which was up 1.50 at 375.25 rupees.
-
-President Anura Dissanayake told parliament that a tariff deal with the USA was still not finalised.
-
-...
-
-[Data](articles/0e97c07e.json)
 
 ---

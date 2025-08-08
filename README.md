@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 16:07:03**
+As of **2025-08-08 16:23:39**
 
 ## Newspaper Stats
 
-*Scraped **69,425** Articles*
+*Scraped **69,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,686
-adaderanalk | 8,627
-tamilmirrorlk | 10,152
+adaderanalk | 8,628
+tamilmirrorlk | 10,153
 virakesarilk | 11,551
-adaderanasinhalalk | 11,958
+adaderanasinhalalk | 11,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,425 articles have been extended.
+61,973 (89.3%) of 69,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### අපරාධ සඳහා යොමු නොවූ තරුණ පිරිස් අපරාධවලට නැඹුරු වීමේ ප්‍රවණතාවයක්
+
+*2025-08-08 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213170) · `si`
+
+මෙතෙක් අපරාධ සදහා යොමු නොවූ තරුණ පිරිස් එවැනි ක්‍රියා සදහා යොමු වීමේ ප්‍රවණතාවක් වර්තමානයේ නිරීක්ෂණය වන බව ශ්‍රී ලංකා පොලිස් අභ්‍යාස විද්‍යාලයේ බාහිර කථිකාචාර්යය, අපරාධ විද්‍යා විශේෂඥ D.M.S ධම්මික බණ්ඩාර මහතා පවසයි.
+
+පසුගිය කාලය තුළ සිදුවූ වෙඩි තැබීම් හා මත්ද්‍රව්‍ය ආශ්‍රිත වැරදි සම්බන්ධයෙන් සිදුකළ පර්යේෂණවලදී මේ පිලිබදව අනාරණයවී ඇති අතර මසකට තරුණයින් 40දෙනෙකු පමණ අළුතින්ම අපරාධ සදහා යොමුවන බව ධම්මික බණ්ඩාර මහතා පැවසීය.
+
+එමෙන්ම රට තුළ සිදුවන අපරාධ පිළිබදව ජාත්‍යන්තරය සමඟ සැසදීමේදී එය යම් මට්ටමක ඉහළ යාමක් පෙන්නුම් කරන බවද අපරාධ විද්‍යා විශේෂඥ D.M.S ධම්මික බණ්ඩාර මහතා වැඩිදුරටත් සදහන් කළේය.
+
+...
+
+[Data](articles/6784d58f.json)
+
+---
+
+### உ/த பரீட்சைக்கான விண்ணப்ப திகதி நீடிப்பு
+
+*2025-08-08 15:55:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சைக்கான-விண்ணப்ப-திகதி-நீடிப்பு/175-362558) · `ta`
+
+2025 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தர உயர்தரத் தேர்வுகளுக்கு விண்ணப்பிப்பதற்கான கடைசி திகதி 2025 ஆகஸ்ட் 12, அன்று நள்ளிரவு வரை நீட்டிக்கப்பட்டுள்ளதாக கல்வி அமைச்சகம் இன்று அறிவித்துள்ளது.
+
+குறிப்பிட்ட காலகட்டத்தில் விண்ணப்பிக்க முடியாதவர்களும், 2024 ஆம் ஆண்டுக்கான தேர்வுகளின் மறுமதிப்பீடு முடிவுகளின் அடிப்படையில் விண்ணப்பிக்கும் மற்றவர்களும் ஆகஸ்ட் 7 முதல் ஆகஸ்ட் 12 நள்ளிரவு வரை விண்ணப்பிக்கலாம் என்று அமைச்சகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5d2a026b.json)
+
+---
 
 ### ජපාන ජාතිකයන්ගේ පැවැත්ම බරපතළ ඛේදවාචකයක
 
@@ -38,7 +68,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ජපානයේ වාර්ෂික ජනගහන සමීක්ෂණයට අනුව 2024 වසරේ දී එරට මව් ජාතිකයන්ගේ උපත්වලට වඩා මිලියනයකට ආසන්න මරණ සංඛ්‍යාවක් වාර්තා වී තිබේ.
 
-එරට සංගණන ක්‍රියාවලිය ආරම්භ කළ 1968 වසරේ සිට මේ දක්වා කාලය තුළ වාර්ෂික ජනගහනය හැකිලීමේ පහළම අගය ලෙස සැලකෙයි.
+එරට සංගණන ක්‍රියාවලිය ආරම්භ කළ 1968 වසරේ සිට මේ දක්වා කාලය තුළ වාර්ෂික ජනගහනය හැකිලීමේ පහළම අගය මෙය ලෙස සැලකෙයි.
 
 දරු උපත් වැඩිකර ගැනීම සඳහා ජපාන කාන්තාවන් උනන්දු කරවීමේ වැඩසටහන් මාලාවක් එරට තුළ කලක සිට දියත්කර තිබියදීත් මෙලෙස උපත් අනුපාත පහළගොස් ඇති බව විදෙස් වාර්තාවන්හි දැක්වේ.
 
@@ -48,9 +78,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව ජපානයේ සැබෑ ජපන් වැසියන් දාව උපත ලබන සෑම ළදරුවෙකුටම සාපේක්ෂව දෙදෙනෙකු මියගොස් ඇත.
 
-මේ අතර මෙලෙස ජපානයේ දේශීය ජනතාවගේ ජනගහනය පහත වැටී ඇත්තේ අඛණ්ඩ 16 වන වසර බව සමීක්ෂණ වාර්තාවේ වැඩිදුරටත් දැක්වේ.
-
-කෙසේ වෙතත් මෙම වසරේ ජනවාරි 1 වනදා වනවිට ජපානයේ සිටින විදේශීය පදිංචිකරුවන්ගේ සංඛ්‍යාව මිලියන 3.6ක් දක්වා වාර්තාගත ඉහළම අගයකට ළඟා වී තිබේ.
+මේ අතර මෙලෙස ජපානයේ දේශීය ජනතාවගේ ජනගහනය පහත වැටී ඇත්තේ අඛණ්ඩ 16 වන වසරට බව සමීක්ෂණ වාර්තාවේ වැඩිදුරටත් දැක්වේ.
 
 ...
 
@@ -93,6 +121,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/66db6261.json)
+
+---
+
+### SLAF helicopter deployed to combat Raththanagolla forest fire
+
+*2025-08-08 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111286/slaf-helicopter-deployed-to-combat-raththanagolla-forest-fire) · `en`
+
+A Sri Lanka Air Force (SLAF) Bell 412 helicopter was deployed today (08 Aug) to help contain a forest fire in the Raththanagolla–Imbulpe area of Balangoda, in a coordinated response under the direction of the Ministry of Defence.
+
+Acting swiftly, the Sri Lanka Air Force deployed a Bell 412 helicopter to conduct Bumbi bucket operations to assist in fire suppression efforts from the air.
+
+The aerial firefighting operation was launched in close coordination with the Disaster Management Centre (DMC), aiming to prevent further spread and damage to the forest cover, the Defence Ministry said.
+
+The timely intervention underscores the Ministry’s ongoing commitment to rapid disaster response and environmental protection, the Ministry said.
+
+Further operations will continue as necessary in collaboration with local authorities and emergency services, it added.
+
+◼️
+
+[Data](articles/94fd87c2.json)
 
 ---
 
@@ -1753,63 +1801,5 @@ However, this figure includes proceeds from the swap arrangement with the People
 ◼️
 
 [Data](articles/9c0d4a29.json)
-
----
-
-### විදෙස් සංචිතය සියයට 1කින් ඉහළට
-
-*2025-08-07 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213143) · `si`
-
-2025 ජූලි මාසයේ දී ශ්‍රී ලංකා මහ බැංකුව සතු නිල සංචිත වත්කම් ප්‍රමාණය එක්සත් ජනපද ඩොලර් බිලියන 6.14 ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මෙය 2025 ජූනි මාසය අවසානයේ දී සටහන්ව තිබූ ඩොලර් බිලියන 6.08ක සංචිත වත්කම් ප්‍රමාණය හා සැසඳීමේ දී 1%ක වර්ධනයකි.
-
-මෙම නිල සංචිත වත්කම් තුළ එක්සත් ජනපද ඩොලර් බිලියන 1.4කට පමණ සමාන වූ චීන මහජන බැංකුවෙන් ලද විදේශ විනිමය හුවමාරු පහසුකමෙහි ලැබීම් අන්තර්ගත වන අතර, එය භාවිතා කිරීමේ දී කොන්දේසිවලට යටත් වන බව ශ්‍රී ලංකා මහ බැංකුව වැඩිදුරටත් සඳහන් කරයි.
-
-◼️
-
-[Data](articles/060da8ca.json)
-
----
-
-### Thailand and Cambodia extend ceasefire amid border tensions
-
-*2025-08-07 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111269/thailand-and-cambodia-extend-ceasefire-amid-border-tensions) · `en`
-
-Thailand and Cambodia have agreed to extend a fragile ceasefire following recent deadly border clashes.
-
-The conflict, which erupted last month over disputed temple territories, left at least 43 dead before a truce was brokered.
-
-Malaysian Prime Minister Anwar Ibrahim, as ASEAN chair, facilitated the ceasefire with backing from US and Chinese mediators.
-
-The agreement mandates a halt to all hostilities, including attacks on civilians and military targets.
-
-“Both sides agree to a ceasefire involving all types of weapons, including attacks on civilians and civilian objects and military objectives of either side, in all cases and all areas,” the joint statement read.
-
-Initial breaches were reported, but clashes subsided as both sides adhered to the truce.
-
-Thai and Cambodian defence officials signed the extension, freezing troop movements and patrols along the 800-kilometre border.
-
-Cambodian Defence Minister Tea Seiha emphasised the need to prevent further bloodshed.
-
-...
-
-[Data](articles/7a302295.json)
-
----
-
-### ஜனாதிபதியின் உரையை கடுமையாக சாடினார் சஜித்
-
-*2025-08-07 18:20:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-உரையை-கடுமையாக-சாடினார்-சஜித்/175-362529) · `ta`
-
-நாட்டின் முக்கிய பொருளாதார சவால்களை எதிர்கொள்ளத் தவறிய "ஒரு கெட்ட கனவின் எதிர்வினை" என்று ஜனாதிபதி அனுர குமார திசாநாயக்கவின் பாராளுமன்ற உரையை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று விமர்சித்தார்.
-
-பாராளுமன்றத்தில் பேசிய பிரேமதாச, ஜனாதிபதியின் கருத்துக்கள் ஒரு கட்டமைக்கப்பட்ட பொருளாதார வரைபடத்தை முன்வைப்பதற்குப் பதிலாக டிசம்பர் அரசியல் சதித்திட்டங்களை மையமாகக் கொண்டிருந்தன என்றார். "இது அழுத்தத்தின் கீழ் உருவாக்கப்பட்ட உரை, நெருக்கடியின் போது ஒரு அரச தலைவரிடமிருந்து எதிர்பார்க்கப்பட்ட உரை அல்ல," என்று அவர் கூறினார்.
-
-அமெரிக்கா வரிகளை 44% லிருந்து 20% ஆகக் குறைத்த போதிலும், அதை வரவேற்ற போதிலும், ஏற்றுமதி மற்றும் பொருளாதார வளர்ச்சியை அதிகரிப்பதற்கான உறுதியான திட்டம் அரசாங்கத்திடம் இல்லை என்று பிரேமதாச குறிப்பிட்டார். உண்மையான "சதி" என்பது அரசாங்கம் தனது சொந்த வாக்குறுதிகளை செயல்படுத்தத் தவறியது தான் என்று அவர் வாதிட்டார்.
-
-...
-
-[Data](articles/0284c82e.json)
 
 ---

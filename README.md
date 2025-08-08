@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 19:00:42**
+As of **2025-08-08 19:27:42**
 
 ## Newspaper Stats
 
-*Scraped **69,444** Articles*
+*Scraped **69,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 4,240
 economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,689
-adaderanalk | 8,629
+adalk | 6,690
+adaderanalk | 8,630
 tamilmirrorlk | 10,156
-virakesarilk | 11,555
-adaderanasinhalalk | 11,964
+virakesarilk | 11,557
+adaderanasinhalalk | 11,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,444 articles have been extended.
+61,973 (89.2%) of 69,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### சிறையில் இருந்து பிள்ளையான் அனுப்பிய கடிதம் தொடர்பாக மட்டு மாநகர சபை முதல்வரிடம் சிஜடி விசாரணை
+
+*2025-08-08 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222129) · `ta`
+
+மட்டக்களப்பு மாநகர சபை முதல்வருக்கு புனர் நிர்மானிக்கப்பட்ட பொது நூலகத்தை திறந்து மக்கள் பாவனைக்கு விடுமாறு சிறையில் இருக்கும் பிள்ளையான்  ஆனுப்பிய கடிதம் தொடர்பாக மாநகர சபை முதல்வர் சிவம் பாக்கியநாதனிடம்  சிஜடி யினர் வியாழக்கிழமை (07) விசாரணை ஒன்றை மேற்கொண்டுள்ளனர்.
+
+முன்னாள் இராஜாங்க அமைச்சரும் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சி தலைவருமான பிள்ளையான் என்றழைக்கப்படும் சி.சந்திரகாந்தன் முன்னாள் கிழக்கு பல்கலைக்கழக உப வேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத்  கடத்தப்பட்டு காணாமல் போயுள்ள சம்பவம் தொடர்பாக கடந்த ஏப்பிரல் 6ம் திகதி சந்தேகத்தில் சிஜடி யினரால் கைது செய்யப்பட்டு பயங்கரவாத தடுப்பு காவலில் வைக்கப்பட்டுள்ளார்
+
+இந்த நிலையில் கடந்த 30 ம் திகதி பிள்ளையான் கிழக்கு மாகாண ஆளுநர் மற்றும் மட்டு மாநகர முதல்வருக்கு  மட்டக்களப்பு மாநகர சபை எல்லைக்குள் புதிதாக அமைக்கப்பட்ட நூலகத்தை மக்கள் பாவனைக்கு கையளிப்பது தொடர்பாக என தலைப்பிடப்பட்டு அதில் கையொப்பம் இட்டு கடிதம் ஒன்றை கட்சி உறுப்பினர்  ஒருவர் மாநகரசபை முதல்வரிடம் ஒப்படைத்துள்ளார்.
+
+...
+
+[Data](articles/7fcf2532.json)
+
+---
+
+### වසර 28කට පෙර අතුරුදන් වූ පුද්ගලයෙකුගේ මළ සිරුරක් හමුවෙයි
+
+*2025-08-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213176) · `si`
+
+වසර 28කට පෙර අතුරුදන් වූ පුද්ගලයෙකුගේ මළ සිරුරක් පකිස්ථානයේ ග්ලැසියරයක් තුළ තිබී සොයා ගෙන තිබේ.
+
+මෙම පුද්ගලයා 1997 ජුනි මාසයේදී හිම කුණාටුවක් අතරතුර ග්ලැසියර කුහරයකට වැටී අතුරුදන්ව තිබිණි.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ සිය සොහොයුරා සමඟ ඔහු මෙම ප්‍රදේශයේ අශ්වයෙකු පිට ගමන් කරමින් සිටියදී මෙම අනතුරට ලක්ව ඇති බවය.
+
+ඔහුව සොයා මෙහෙයුම් දියත් කළත් මළ සිරුර හෝ සොයා ගැනීමට නොහැකි වූ බව මිය ගිය පුද්ගලයාගේ සොහොයුරා මාධ්‍ය වෙත අදහස් දක්වමින් පැවසුවේය.
+
+කෙසේ වෙතත් මෙම පුද්ගලයාගේ මළසිරුරට හෝ ඇඳුම්වලට කිසිඳු හානියක් නොවී නොවෙනස්ව තිබීමත් විශේෂත්වයකි.
+
+මේ පිළිබඳව අදහස් දැක්වූ ඉස්ලාමාබාද්හි කොම්සැට්ස් විශ්ව විද්‍යාලයේ මහාචාර්යවරයෙකු සඳහන් කළේ ශරීරයක් ග්ලැසියරයකට වැටෙන විට, අධික සීතල එය වේගයෙන් කැටි කර, දිරාපත්වීමේ ක්‍රියාවලිය නතර කරන බවයි.
+
+◼️
+
+[Data](articles/5bd957cc.json)
+
+---
+
+### කඩුවෙල වෙඩි තැබීමක්
+
+*2025-08-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213177) · `si`
+
+◼️
+
+[Data](articles/8af7fa0f.json)
+
+---
+
+### யாழ். வடமராட்சி கட்டைக்காட்டில் நூற்றுக்கணக்கான பனைகளுக்கு தீ வைப்பு !
+
+*2025-08-08 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222126) · `ta`
+
+யாழ்ப்பாணம், வடமராட்சி கிழக்கு கட்டைக்காடு பகுதியில் விஷமிகளால் தீ வைக்கப்பட்டதில் நூற்றுக்கணக்கான பனை மரங்கள் எரிந்து நாசமாகியுள்ளன.
+
+நேற்று மாலை சுமார் 5.30 மணியளவில் கட்டைக்காடு இராணுவ முகாமிற்கு முன்னால் உள்ள பனைகள் திடீரென தீப்பற்றி எரிந்துள்ளன.
+
+இதனை அவதானித்த இராணுவத்தினர், தீயை அணைப்பதற்காக தீயணைப்பு வாகனம் மற்றும் மருதங்கேணி இராணுவ முகாமிலிருந்து 200க்கும் மேற்பட்ட இராணுவத்தினரை வரவழைத்து தீயை அணைக்கும் முயற்சியில் ஈடுபட்டனர்.
+
+விஷமிகளால் வைக்கப்பட்ட தீ வேகமாகப் பரவியதால், அருகில் இருந்த ஏனைய பனை மரங்களும் தீக்கிரையாகின. சுமார் இரண்டு மணிநேர கடும் போராட்டத்திற்குப் பின்னரே தீ கட்டுப்பாட்டிற்குள் கொண்டுவரப்பட்டது.
+
+தற்போது பனம் பழ சீசன் என்பதால், பனைகளை நம்பி வாழும் மக்கள் இந்தச் சம்பவத்திற்கு கடும் கண்டனத்தை வெளியிட்டுள்ளனர். இச்சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/98e9cb97.json)
+
+---
 
 ### ඊශ්‍රායලයට ආයුධ සැපයීම ජර්මනිය අත්හිටුවයි
 
@@ -49,6 +117,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/200fe685.json)
+
+---
+
+### Israeli plan for Gaza takeover must be halted immediately, UN rights chief says
+
+*2025-08-08 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111289/israeli-plan-for-gaza-takeover-must-be-halted-immediately-un-rights-chief-says) · `en`
+
+The Israeli government’s plan for a full-scale military takeover of Gaza will cause more deaths and suffering and must be halted immediately, the United Nations Human Rights Chief Volker Turk said on Friday.
+
+The plan runs contrary to the ruling of the International Court of Justice that Israel must bring its occupation to an end as soon as possible, to the realisation of the agreed two-state solution and to the right of Palestinians to self-determination, Turk said in a statement.
+
+Israel’s political-security cabinet approved a plan early on Friday to take control of Gaza City, as the country expands its military operations despite intensifying criticism at home and abroad over the devastating almost two-year-old war.
+
+Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel intended to take military control of the entire Gaza Strip.
+
+...
+
+[Data](articles/210e818d.json)
 
 ---
 
@@ -121,6 +207,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/00962e38.json)
+
+---
+
+### පිනිබෙරලිය සංරක්ෂණය වලල්ලාවිටින් ඇරඹෙයි
+
+*2025-08-08 17:09:27* · [`adalk`](https://www.ada.lk/breaking_news/පිනිබෙරලිය-සංරක්ෂණය-වලල්ලාවිටින්-ඇරඹෙයි/11-417796) · `si`
+
+ශ්‍රී ලංකාවට ආවේණික, ස්භාවික පරිසරයෙන් වඳවී ඇතැයි සලකා නැවත වාර්තා කිරීමට සමත්වූ ශාක විශේෂයක්‌ වන පිනිබෙරලිය(Doona ovalifolia) ශාක විශේෂය සංරක්ෂණය කිරීම සඳහා බස්නාහිර පළාතේ කළුතර දිස්ත්‍රික්කයෙහි වලල්ලාවිට ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ මණ්ඩගල ග්‍රාමසේවා වසමේ වෑවැල්ල ‍දොළ දෙපස පිණි බෙරලිය පැල රෝපණය කිරීමේ වැඩසටහනක් 2025.08.07 වන දින ක්‍රියාත්මක කරනලදී.
+
+හෙල බසින් පිනිබෙරලිය සහ Doona ovalifolia යන විද්‍යාත්මක නාමය යටතේ හඳුන්වන මෙම ශාක විශේෂය  1864 වර්ෂයේදී මුල්වරට ලොවට හඳුන්වා දී ඇත්තේ පේරාදෙණිය ජාතික උද්භිද උද්‍යානයේ උද්‍යාන අධිකාරීවරයෙක් ලෙස සේවය කල බ්‍රිත්‍යාන ජාතික ශාක විද්‍යාඥයෙකු වූ හෙන්රි ත්වේට්ස් මහතා විසිනි . ඉන්පසු 1887 වර්ෂයේදී වලල්ලාවිට, හෙවෙස්ස ප්‍රදේශයෙන් සහ තවලම, හිනිදුම ප්‍රදේශයෙන් මෙම ශාක විශේෂය වාර්තා වී ඇති අතර එහිදි සජීවී නිදර්ශක රැගෙන ගොස් පේරාදෙණිය උද්භිද උද්‍යානයේ සහ ගම්පහ හෙනරත්ගොඩ උද්භිද උද්‍යානයේ රෝපණය කර ඇත.
+
+...
+
+[Data](articles/8236e259.json)
 
 ---
 
@@ -1713,101 +1813,5 @@ How was it with us who are entitled to pensions and get a certain amount each mo
 ...
 
 [Data](articles/0b497547.json)
-
----
-
-### 2024 உயர் தர மீள்மதிப்பீட்டு பெறுபேறுகள் வெளியீடு
-
-*2025-08-07 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222085) · `ta`
-
-2024ஆம் ஆண்டு கல்விப் பொதுத் தராதர உயர் தரப் பரீட்சையின் மீள்மதிப்பீட்டு பெறுபேறுகள் வியாழக்கிழமை (7) வெளியிடப்பட்டுள்ளன.
-
-பரீட்சையில் தோற்றியவர்கள், தங்கள் பரீட்சை எண் அல்லது தேசிய அடையாள அட்டை எண்ணை உள்ளீடு செய்து பெறுபேறுகளைப் பெற்றுக்கொள்ளலாம்.
-
-2025 உயர்தர பரீட்சை விண்ணப்பம் இந்த மீள்மதிப்பீட்டு பெறுபேறுகளின் அடிப்படையில், 2025 ஆம் ஆண்டு உயர் தர பரீட்சைக்கு விண்ணப்பிக்க விரும்பும் மாணவர்கள், அல்லது முந்தைய காலக்கெடுவுக்குள் விண்ணப்பிக்க முடியாதவர்கள் ஆகஸ்ட் 7 முதல் 12 ஆம் திகதி நள்ளிரவு 12.00 மணி வரை, இணையம் வாயிலாக (online) விண்ணப்பிக்கலாம்.
-
-இது தொடர்பாக பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ் இந்திகா குமார லியனகே அறிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/180e6b66.json)
-
----
-
-### Australia pledges continued support for Sri Lanka’s economic development
-
-*2025-08-07 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111274/australia-pledges-continued-support-for-sri-lankas-economic-development) · `en`
-
-Australia’s Governor-General, Samantha Joy Mostyn, met with President Anura Kumara Dissanayake this afternoon (08) at the Presidential Secretariat in Colombo, where the two countries held bilateral discussions.
-
-During the meeting, lengthy discussions were held on strengthening the more than 75-year-old friendship between Australia and Sri Lanka and expanding areas of cooperation for the mutual benefit of both countries, according to the President’s Media Division (PMD).
-
-Governor-General Mostyn emphasised that Australia is prepared to provide the continued support necessary for a successful journey under President Anura Kumara Dissanayake’s clear and decisive leadership, the statement said.
-
-She particularly noted Australia’s willingness to extend its support towards strengthening Sri Lanka’s economy.
-
-President Dissanayake remarked that this visit would further strengthen the longstanding friendship between Australia and Sri Lanka, the PMD said.
-
-...
-
-[Data](articles/2278d5b0.json)
-
----
-
-### பொரளையில் மீண்டும் துப்பாக்கிச் சூடு : ஐவர் படுகாயம்
-
-*2025-08-07 22:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளையில்-மீண்டும்-துப்பாக்கிச்-சூடு-ஐவர்-படுகாயம்/175-362547) · `ta`
-
-பொரளை - சஹஸ்ரபுரவில் உள்ள சிறிசர உயன அடுக்குமாடி குடியிருப்பு வளாகத்திற்கு அருகில் இன்று இரவு துப்பாக்கிச் சூட்டு சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் 5 பேர் காயமடைந்து தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-மோட்டார் சைக்கிளில் வந்த இருவர் டி56 ரக துப்பாக்கியில் துப்பாக்கிப் பிரயோகம் மேற்கொண்டு தப்பிச் சென்றுள்ளதாக ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/817635a7.json)
-
----
-
-### Neuroscience of Core Buddhist Philosophy
-
-*2025-08-07 21:52:00* · [`islandlk`](http://island.lk/neuroscience-of-core-buddhist-philosophy/) · `en`
-
-...
-
-[Data](articles/2e470128.json)
-
----
-
-### Five injured in shooting incident at Borella
-
-*2025-08-07 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111273/five-injured-in-shooting-incident-at-borella) · `en`
-
-At least five individuals have been injured and admitted to the National Hospital in Colombo following a shooting incident that occurred at Sahasrapura in Borella.
-
-The incident occurred around 8:40 p.m. today (07), near the Sirisara Uyana apartment complex in Sahasrapura.
-
-According to police, two unidentified individuals arrived on a scooter and opened fire using a T-56 assault rifle before fleeing the area.
-
-◼️
-
-[Data](articles/8deebead.json)
-
----
-
-### බො‍රැල්ලේ වෙඩිතැබීමක්
-
-*2025-08-07 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213147) · `si`
-
-බො‍රැල්ල සහස්පුර සිරිසරඋයන මහල් නිවාස සංකීර්ණය ආසන්නයේ අද (07) පස්වරු 8.40ට පමණ වෙඩි තැබීමක් සිදු ව තිබේ.
-
-මෙම වෙඩි තැබීම හේතුවෙන් පුද්ගලයින් 05 දෙනෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
-
-ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ටී 56යේ ගිනි අවියකින් මෙම වෙඩි තැබීම සිදු කර පළාගොස් ඇති බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/71afa4cd.json)
 
 ---

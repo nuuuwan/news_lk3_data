@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 22:07:44**
+As of **2025-08-08 21:48:40**
 
 ## Newspaper Stats
 
-*Scraped **69,466** Articles*
+*Scraped **69,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,18 @@ dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,633
 tamilmirrorlk | 10,159
-virakesarilk | 11,563
-adaderanasinhalalk | 11,969
+virakesarilk | 11,557
+adaderanasinhalalk | 11,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,466 articles have been extended.
+61,973 (89.2%) of 69,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
-
-### අගමැතිනිය කාදිනල් හිමි හමුවෙයි
-
-*2025-08-08 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213180) · `si`
-
-ආචාර්ය හරිනි අමරසූරිය මෙනවිය සහ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් අතර සාකච්ඡාවක් අගරදගුරු නිල නිවසේ දී පැවැත්විණි.
-
-අධ්‍යාපන ප්‍රතිසංස්කරණයන් පිළිබඳව මෙහිදී අග්‍රාමාත්‍යවරිය විසින් කාදිනල් හිමිපාණන් දැනුවත් කර ඇත.
-
-ඊයේ පස්වරුවේ පැවති එම හමුවට අධ්‍යාපන අමාත්‍යාංශයේ ලේකම්, නාලක කලුවැව මහතා ඇතුළු පිරිසක් ද එක්ව සිටියහ.
-
-කෘෂිකර්මාන්තය, ධීවර කර්මාන්තය, විදුලි කාර්මික ක්ෂේත්‍රය, වාහන අලුත් වැඩියාව වැනි වෘත්තීය අධ්‍යාපන ක්ෂේත්‍රවල වටිනාකම පැහැදිලි කරමින් එම ක්ෂේත්‍රවල විශේෂඥයින් බිහිකිරීමේ අඩිතාලම නව ප්‍රතිසංස්කරණ යටතේ  පාසල තුළම නිර්මාණය කරන ආකාරය පිළිබඳව මෙහිදී අගරදගුරුතුමන් සිය විශේෂ අවධානය යොමු කර තිබේ.
-
-...
-
-[Data](articles/9204ba2c.json)
-
----
 
 ### குளவி தாக்குதலில் தொழிலாளி உயிரிழப்பு
 
@@ -63,24 +45,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a91c9458.json)
-
----
-
-### கொழும்பு ஜெயந்தி நகர் ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயில் ஆடி முருகவேல் விழா
-
-*2025-08-08 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222133) · `ta`
-
-கொழும்பு ஜெயந்தி நகர் ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயில் ஆடி முருகவேல் விழா வெள்ளிக்கிழமை (8) மாலை 4 மணிக்கு மஹா கணபதி ஹோமம் மற்றுமு் மாலை 6 மணிக்கு வரலக்ஷி திருவிளக்குப் பூஜையுடன் ஆரம்பமாகியது.
-
-சனிக்கிழமை (9) காலை 7 மணிக்கு பன்னீர்காவடி, கட்டி முத்திரை திரித்து, அபிஷேகத்திற்குரிய பால்குடம் எடுத்து, வீதிவலம் வந்து மூலவருக்கும், ஸ்ரீ சண்முகப்பெருமானுக்கும் விஷேட ஸ்நபனாபிஷேகமும், விசேட அலங்கார சிறப்பு பூஜையும் நடைபெற்று அதனைத் தொடர்ந்து உச்சிகால பூஜை, மகேஸ்வர பூஜையும் நடைபெறும்.
-
-அன்றையதினம் மாலை 6.30 மணிக்கு வசந்த மண்டபத்தில் ஸ்ரீ வள்ளி தெய்வானை சமேத ஸ்ரீ சண்முகப்பெருமானுக்கு விசேட சண்முகார்ச்சனை நடைபெறும்.
-
-ஞாயிற்றுக்கிழமை (10) காலை 6 மணிக்கு தேர்த்திருவிழா இடம்பெறவுள்ள நிலையில், காலை 4 மணிக்கு மூலவருக்கு  ஸ்நபனாபிஷேகம் இடம்பெற்று காலை 6 மணிக்கு வசந்த மண்டபத்தில் ஸ்ரீ வள்ளி தேவசேனா சமேத ஸ்ரீ சிவசுப்பிரமணிய சுவாமிக்கு சிறப்பு பூஜை நடைபெற்று,சுவாமி கோலாகலமாய் சித்திர இரதத்தில் எழுந்தருளி, வெளி வீதி உலா வந்து பக்தர்களுக்கு காட்சி கொடுத்து இன்னருள் புரிவார்.
-
-...
-
-[Data](articles/f23f792b.json)
 
 ---
 
@@ -122,20 +86,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### அரசாங்கத்துக்குள் சதித்திட்டங்கள் – பிரதமருக்கு எதிரான விமர்சனம் பாரதூரம்: சமன் ரத்னப்பிரிய
-
-*2025-08-08 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222132) · `ta`
-
-அரசாங்கத்துக்கு எதிராக  எதிர்க்கட்சிகள் சதித்திட்டம் மேற்கொள்வதாக தெரிவிப்பதில் எந்த அடிப்படையும் இல்லை. அரசாங்கத்துக்குள்ளேயே சதித்திட்டங்கள் இடம்பெறுகின்றன. அமைச்சர் வசந்த சமரசிங்க பிரதமருக்கு எதிராக தெரிவித்திருந்த கருத்து பாரதூரமானதாகுமென ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் சமன் ரத்னப்பிரிய தெரிவி்த்தார்.
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க வியாழக்கிழமை (7) பாராளுமன்றத்தில் ஆற்றிய உரைதொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/c8a7f3d3.json)
-
----
-
 ### சிறையில் இருந்து பிள்ளையான் அனுப்பிய கடிதத்தால் சர்ச்சை
 
 *2025-08-08 20:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையில்-இருந்து-பிள்ளையான்-அனுப்பிய-கடிதத்தால்-சர்ச்சை/175-362562) · `ta`
@@ -173,102 +123,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/71e24ab3.json)
-
----
-
-### யாழ். நல்லூருக்கு செல்வோருக்கு பொலிஸார் விடுத்துள்ள அறிவிப்பு
-
-*2025-08-08 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222119) · `ta`
-
-யாழ். நல்லூர் திருவிழாவில் நகைகளை களவாட இலங்கையின் பல பாகங்களில் இருந்தும் திருடர்கள் நல்லூர் ஆலயத்திற்கு வருகை தந்துள்ளமையால், ஆலயத்திற்கு செல்லும் பக்தர்கள் அவதானமாக செல்லுமாறு யாழ்ப்பாண பொலிஸார் அறிவுறுத்தியுள்ளனர்.
-
-ஆலய சூழலில் திருடர்களின் நடமாட்டம் காணப்படுவதால், ஆலயத்திற்கு தங்க நகைகளை அணிந்து வருவதை தவிர்க்குமாறும் , அணிந்துள்ள தங்க நகைகளில் கவனம் செலுத்துமாறும் பொலிஸார் கோரியுள்ளனர்.
-
-அத்துடன், பொலிஸ் சீருடை மற்றும் சிவில் உடைகளில் பொலிஸார் ஆலய சூழல்களில் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர் எனவும், அருகில் உள்ளவர்கள் தொடர்பில் சந்தேகங்கள் எழுந்தால், பொலிஸாருக்கு உடன் அறிவிக்குமாறும் பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
-
-அதேவேளை ஆலய சூழல்களில் கண்காணிப்பு கமராக்கள் பொருத்தப்பட்டு , அனைவரும் கண்காணிக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/bda4af54.json)
-
----
-
-### 309 கொள்கலன்கள் உரிமையாளர்களின் பெயர் பட்டியலை வெளியிட வேண்டும் - ஜனாதிபதியிடம் முஜிபுர் எம்.பி கோரிக்கை
-
-*2025-08-08 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/222123) · `ta`
-
-அரசாங்கம் வெளிப்படைத்தன்மையுடன் ஆட்சி செய்வதாக இருந்தால், சுங்கத்தில் இருந்து விடுவிக்கப்பட்டிருந்த 309 கொள்கலன்கள் உரிமையாளர்களின் பெயர் பட்டியலை ஜனாதிபதி வெளியிட வேண்டும். ஆனால் அரசாங்கம் வெளிப்படைத்தன்மையை கைவிட்டே ஆட்சி செய்துவருகிறதென ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்றத்தில் ஆற்றிய உரைதொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்ற தெரிவித்த கருத்துக்கள், அவர் எதிர்க்கட்சியில் இருக்கும்போது தெரிவித்த கருத்துக்களுக்கு முற்றிலும் மாற்றமான விடயங்களையே தெரிவித்திருந்தார்.
-
-நாங்கள் அன்று  கதைத்த திறந்த பொருளாதார கொள்கையை ஜனாதிபதி தற்போது அதனை ஏற்றுக்கொண்டுள்ளார். அதனை நாங்கள் வரவேற்கிறோம்.
-
-ஆனால் அவரிடம் ஏற்பட வேண்டிய மாற்றம், பொய்சொல்வதை நிறுத்தி உண்மை பேசவேண்டும். பாராளுமன்றத்தில் அவர் தெரிவித்த விடயங்களில் அதிகமான பொய்யாகும்.
-
-...
-
-[Data](articles/8a21e2b3.json)
-
----
-
-### திரியாய் பகுதியில் ஆணொருவனின் சடலம் மீட்பு!
-
-*2025-08-08 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/222131) · `ta`
-
-திருகோணமலை குச்சவெளி பொலிஸ் பிரிவுக்குட்பட்ட திரியாய் 05ம் வட்டாரத்தில் ஆணொருவனின் சடலமொன்று வௌ்ளிக்கிழமை (08) மீட்கப்பட்டுள்ளது.
-
-சடலம் யாருடையது என்பது பற்றி இன்னும் இனம் காணப்படவில்லை எனவும் சடலம் இனம் காண முடியாத நிலையில் இருப்பதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-குறித்த சடலத்தை பிரேத பரிசோதனைக்காக திருகோணமலை பொது  வைத்தியசாலைக்கு கொண்டு செல்லப்படவுள்ளதாகவும் நாளைய தினம் பிரேத பரிசோதனைக்கு உட்படுத்த உள்ளதாகவும் விசாரணைகளை மேற்கொண்டு வருவதாகவும் குச்சவெளி பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/5fffef27.json)
-
----
-
-### ரூ.500 மில்லியனுக்கு இரத்தினக் கல்லை விற்பனை செய்ய முயன்ற பிரதேச சபை உறுப்பினர் கைது
-
-*2025-08-08 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222109) · `ta`
-
-அனுமதியின்றி ரூ.500 மில்லியனுக்கு இரத்தினக் கல் ஒன்றை விற்பனை செய்ய முயன்ற குண்டசாலை பிரதேச சபையின் ஐக்கிய மக்கள் சக்தி உறுப்பினர் உட்பட மூவர் நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்டனர்.
-
-லபுக்கலை பகுதியில் உள்ள விடுதி ஒன்றில் தங்கி இருந்த மூன்று சந்தேக நபர்கள், உரிமையாளருக்கு செழிப்பைத் தரும் என கூறி, இரத்தினக் கல்லை விற்பனை செய்ய திட்டமிட்டிருந்தனர்.
-
-எனினும், பொலிஸாருக்கு கிடைத்த இரகசிய தகவலை அடுத்து இரத்தினக் கல்லை வாங்குபவர் போன்று ஒருவரை அனுப்பி, அவர் பேரம் பேசி, இரத்தினத்தின் விலையை ரூ.500 மில்லியனில் இருந்து ரூ.01 மில்லியனாகக் குறைத்துள்ளர்.
-
-இந்த இரத்தினம் உண்மையான விலையுயர்ந்த கல்லா அல்லது போலியானதா என்பது குறித்த அறிக்கைக்காக தேசிய இரத்தினக் கற்கள் மற்றும் நகைகள் அதிகாரசபையிடம் அனுப்பப்படும் என பொலிஸார் தெரிவித்தனர்.
-
-40 முதல் 50 வயதுக்குட்பட்ட சந்தேகநபர்கள் வத்தேகம மற்றும் மடவல பகுதிகளில் வசிப்பவர்கள் ஆவார்கள்.
-
-...
-
-[Data](articles/4d4972b1.json)
-
----
-
-### நுவனிது, அசலன்க துடுப்பாட்டத்திலும் ஏஷான், பினுர பந்துவீச்சிலும் அபாரம்; ப்ளூஸை வீழ்த்தியது க்றேஸ்
-
-*2025-08-08 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222130) · `ta`
-
-கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் வெள்ளிக்கிழமை (08) நடைபெற்ற இரண்டாவது எஸ்எல்சி ரீ20 லீக் (SLC T20 League) உள்ளூர் மும்முனை கிரிக்கெட் போட்டியில் டீம் ப்ளூஸ் அணியை 24 ஓட்டங்களால் டீம் க்றேஸ் அணி வெற்றிகொண்டது.
-
-ஆரம்ப நாளான நேற்றைய தினம் க்றீன்ஸ் அணியிடம் தோல்வி அடைந்த ப்ளூஸ் அணி, இரண்டாவது தொடர்ச்சியான தடவையாக ஏமாற்றம் அடைந்துள்ளது.
-
-இன்றைய போட்டியில் நுவனிது பெர்னாண்டோ குவித்த ஆட்டம் இழக்காத அரைச் சதம், அணித் தலைவர்  சரித் அசலன்க  குவித்த அரைச் சதம், ஏஷான் மாலிங்க, பினுர பெர்னாண்டோ ஆகியோரின் சிறப்பான பந்துவீச்சு என்பன க்றேஸ் அணியை வெற்றி அடையச் செய்தன.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட டீம் க்றேஸ் 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 192 ஓட்டங்களைப் பெற்றது.
-
-இப் போட்டியில் ஆரம்ப வீரராக களம் இறங்கிய தினேஷ் சந்திமால் தான் எதிர்கொண்ட முதல் பந்திலேயே ஆட்டம் இழந்தார். நிரோஷன் திக்வெல்ல 11 ஓட்டங்களுடன் வெளியேறினார். (15 - 2 விக்)
-
-ஆனால், திறமையாகத் துடுப்பெடுத்தாடிய நுவனிது பெர்னாண்டோ, இரண்டு இணைப்பாட்டங்களில் மொத்தமாக 172 ஓட்டங்களைப் பகிர்ந்து அணியை பலமான நிலையில் இட்டார்.
-
-...
-
-[Data](articles/7bd1f3d2.json)
 
 ---
 
@@ -531,6 +385,26 @@ Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel 
 ...
 
 [Data](articles/8236e259.json)
+
+---
+
+### ரூ.500 மில்லியனுக்கு இரத்தினக் கல்லை விற்பனை செய்ய முயன்ற பிரசேத சபை உறுப்பினர் கைது
+
+*2025-08-08 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/222109) · `ta`
+
+அனுமதியின்றி ரூ.500 மில்லியனுக்கு இரத்தினக் கல் ஒன்றை விற்பனை செய்ய முயன்ற குண்டசாலை பிரதேச சபையின் ஐக்கிய மக்கள் சக்தி உறுப்பினர் உட்பட மூவர் நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+லபுக்கலை பகுதியில் உள்ள விடுதி ஒன்றில் தங்கி இருந்த மூன்று சந்தேக நபர்கள், உரிமையாளருக்கு செழிப்பைத் தரும் என கூறி, இரத்தினக் கல்லை விற்பனை செய்ய திட்டமிட்டிருந்தனர்.
+
+எனினும், பொலிஸாருக்கு கிடைத்த இரகசிய தகவலை அடுத்து இரத்தினக் கல்லை வாங்குபவர் போன்று ஒருவரை அனுப்பி, அவர் பேரம் பேசி, இரத்தினத்தின் விலையை ரூ.500 மில்லியனில் இருந்து ரூ.01 மில்லியனாகக் குறைத்துள்ளர்.
+
+இந்த இரத்தினம் உண்மையான விலையுயர்ந்த கல்லா அல்லது போலியானதா என்பது குறித்த அறிக்கைக்காக தேசிய இரத்தினக் கற்கள் மற்றும் நகைகள் அதிகாரசபையிடம் அனுப்பப்படும் என பொலிஸார் தெரிவித்தனர்.
+
+40 முதல் 50 வயதுக்குட்பட்ட சந்தேகநபர்கள் வத்தேகம மற்றும் மடவல பகுதிகளில் வசிப்பவர்கள் ஆவார்கள்.
+
+...
+
+[Data](articles/4d4972b1.json)
 
 ---
 
@@ -1845,5 +1719,121 @@ The Pakistan High Commission, friends of Pakistan, diplomatic community and Paki
 ...
 
 [Data](articles/b6b7b6ad.json)
+
+---
+
+### Nations Trust WNPS lecture on care and release of orphaned elephants
+
+*2025-08-08 01:27:14* · [`dailyftlk`](https://www.ft.lk/news/Nations-Trust-WNPS-lecture-on-care-and-release-of-orphaned-elephants/56-780034) · `en`
+
+The next Nations Trust WNPS monthly lecture series will host Elephant Transit Home, Udawalawe Head Veterinarian Dr. Malaka Abeywardana on 14 August at 6 p.m. at the Jasmine Hall, BMICH.
+
+The lecture is themed ‘Bringing them Back: Inside the Care and Release of Orphaned Elephants.’
+
+In a nation famed for its elephants but scarred by rising human-elephant conflict, a sanctuary tucked into the edge of the Udawalawe National Park is quietly changing the future of elephant conservation — one calf at a time.
+
+The Elephant Transit Home (ETH), established in 1995 by Sri Lanka’s Department of Wildlife Conservation, is today recognised as the world’s most successful elephant rehabilitation and rewilding program. Its mission is bold but clear: rescue orphaned elephants, raise them wild, and return them to their natural home — the wild.
+
+...
+
+[Data](articles/5c68c715.json)
+
+---
+
+### Unseen Expressions: night of music, drama and dance
+
+*2025-08-08 01:25:34* · [`dailyftlk`](https://www.ft.lk/news/Unseen-Expressions-night-of-music-drama-and-dance/56-780033) · `en`
+
+The School for the Blind, Ratmalana will present “Ape Dekma – Unseen Expressions: a night of music, theatre, and dance” on 15 August, at 7 p.m. at the Methodist College Auditorium.
+
+The concert will feature the talents of over 75 visually impaired students from grades 1-11. A special guest performance by the Nuffield School for the Deaf and Blind, Kaithady will also be featured at the event.
+
+Tickets, priced Rs. 2,000, Rs. 1,500 and Rs. 1,000 (Balcony) will be available on weekdays (except on holidays) between 9 a.m.-2 p.m. at The School for the Blind, Ratmalana and Methodist College, Kollupitiya. The event is free-seating and guests are encouraged to arrive at least 15 minutes prior to the event to obtain their preferred seats.
+
+◼️
+
+[Data](articles/bc602bcd.json)
+
+---
+
+### SDF and partners launch regional AquaLivelihood Project to empower small-scale fish farmers and bolster nutrition security in South Asia
+
+*2025-08-08 01:24:13* · [`dailyftlk`](https://www.ft.lk/business/SDF-and-partners-launch-regional-AquaLivelihood-Project-to-empower-small-scale-fish-farmers-and-bolster-nutrition-security-in-South-Asia/34-780032) · `en`
+
+The SAARC Development Fund (SDF), in partnership with leading national institutions and technical government agencies of the five SAARC member countries, officially launched the AquaLivelihood Project in Colombo, Sri Lanka.
+
+Graced by Fisheries Minister Ramalingam Chandrasekar as the Chief Guest, the launch marks a pivotal regional effort to uplift smallholder fish farmers and improve nutrition security across the region.
+
+The three-year regional initiative represents a total investment of $ 3.97 million, including a $ 3.23 million grant from the SDF and $ 739,109 in in-kind co-financing. The project will directly benefit over 120,000 rural households, 30% of whom are women, across Bangladesh, Bhutan, India, Nepal, and Sri Lanka.
+
+...
+
+[Data](articles/ff8433db.json)
+
+---
+
+### Daraz Sri Lanka accelerates savings with the 8.8 Brand Prix Sale
+
+*2025-08-08 01:22:56* · [`dailyftlk`](https://www.ft.lk/business/Daraz-Sri-Lanka-accelerates-savings-with-the-8-8-Brand-Prix-Sale/34-780031) · `en`
+
+Daraz Sri Lanka is launching its 8.8 Brand Prix Sale this month, a week-long shopping festival, “packed with unbeatable discounts, massive voucher giveaways, and exclusive brand deals. Running from 8 to 15 August, this sale promises to be one of the most exciting events of the year for value-driven Sri Lankan consumers,” the company said.
+
+The Brand Prix campaign is offering over 18,000 deals across top categories. “Whether you are looking for a new mobile phone, kitchen appliances, fashion finds, or beauty essentials, Daraz is offering prices that start as low as Rs. 88, Rs. 888, and Rs. 8,888. These limited-time offers include everything from air fryers and gas cookers to branded watches, wireless headphones, and TVs,” the company said in a statement.
+
+...
+
+[Data](articles/b89bf85e.json)
+
+---
+
+### Fonterra Brands Lanka pioneers first National Competency Standard for dairy industry machine operators
+
+*2025-08-08 01:22:15* · [`dailyftlk`](https://www.ft.lk/business/Fonterra-Brands-Lanka-pioneers-first-National-Competency-Standard-for-dairy-industry-machine-operators/34-780030) · `en`
+
+Vocational Education Deputy Minister Nalin Hewage (left) accepts the National Competency Standard for machine operators in the dairy industry from Fonterra Brands Lanka General Manager – Sri Lanka and Local Emerging Markets Fazlan Faizal
+
+Fonterra Brands Lanka, in collaboration with the Tertiary and Vocational Education Commission (TVEC), the National Apprentice and Industrial Training Authority (NAITA), the Department of Labour and eight other dairy industry peers, introduced Sri Lanka’s first National Competency Standard tailored for dairy machine operators.
+
+The eight industry participants include Milco Ltd., Maliban Milk Products Ltd., Richlife Dairies Ltd., Ceylon Cold Stores PLC, Chello Dairy Products Ltd., Nestlé Lanka Ltd., Pelwatte Dairy Industries Ltd., and Lion Brewery (Ceylon) PLC.
+
+...
+
+[Data](articles/b6cae674.json)
+
+---
+
+### ’அவுஸ்திரேலியா தொடர்ந்தும் இலங்கைக்கு ஆதரவளிக்ககும்’
+
+*2025-08-08 00:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-தொடர்ந்தும்-இலங்கைக்கு-ஆதரவளிக்ககும்/175-362548) · `ta`
+
+அவுஸ்திரேலிய ஆளுநர்  நாயகம் சமந்தா ஜோய் மோஸ்டின் நேற்று பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்து இருதரப்பு கலந்துரையாடல்களை நடத்தினார்.
+
+அவுஸ்திரேலியாவிற்கும் இலங்கைக்கும் இடையிலான 75 ஆண்டுகளுக்கும் மேலான நட்பை மேலும் வலுப்படுத்துவது குறித்தும், இரு நாடுகளின் பரஸ்பர நன்மைக்காக தற்போதுள்ள ஒத்துழைப்புத் துறைகளை விரிவுபடுத்துவதற்கான வாய்ப்புகள் குறித்தும் இங்கு விரிவாக  கலந்துரையாடப்பட்டன.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் தெளிவான தலைமையின் கீழ் வெற்றிகரமான பயணத்திற்கு அவுஸ்திரேலியா தொடர்ந்து ஆதரவை வழங்க தயாராக உள்ளது என்று அவுஸ்திரேலிய ஆளுநர்  நாயகம் சமந்தா ஜோய் மோஸ்டின் வலியுறுத்தினார்.
+
+குறிப்பாக இலங்கையின் பொருளாதாரத்தை வலுப்படுத்த தேவையான ஆதரவை வழங்க அவுஸ்திரேலியா தயாராக உள்ளது என்று ஆளுநர் நாயகம் வலியுறுத்தினார். (a)
+
+◼️
+
+[Data](articles/0fe4d8c8.json)
+
+---
+
+### 2025-08-07 (Thursday)
+
+### ICMA Australia hosts insightful session on bridging generational divide in the workplace
+
+*2025-08-07 23:39:00* · [`islandlk`](http://island.lk/icma-australia-hosts-insightful-session-on-bridging-generational-divide-in-the-workplace/) · `en`
+
+The Institute of Certified Management Accountants (ICMA) of Australia hosted a thought-provoking evening themed ‘The Gen Z Equation: What Every Leader Needs to Know,’ designed to address one of today’s most pressing workplace challenges of understanding and effectively managing generational differences.
+
+Current workplaces have become increasingly multifaceted across generations, harnessing the strengths of each generation while addressing their unique needs has become critical for organizational success. Through the event, ICMA sought to provide attendees with practical tools and insights to transform these differences from workplace challenges into competitive advantages.
+
+The session united seasoned leadership expertise with authentic Gen Z perspectives to help leaders build stronger, more collaborative workplaces, unpacking intergenerational dynamics, challenging common myths, and sharing research-backed insights.
+
+...
+
+[Data](articles/62a103b1.json)
 
 ---

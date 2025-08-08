@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 09:39:03**
+As of **2025-08-08 10:07:50**
 
 ## Newspaper Stats
 
-*Scraped **69,388** Articles*
+*Scraped **69,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,684
 adaderanalk | 8,620
 tamilmirrorlk | 10,148
 virakesarilk | 11,546
-adaderanasinhalalk | 11,945
+adaderanasinhalalk | 11,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,388 articles have been extended.
+61,973 (89.3%) of 69,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### පාකිස්තාන පිතිකරු හයිඩර් අලි අත්අඩංගුවට
+
+*2025-08-08 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213157) · `si`
+
+පාකිස්තාන යොවුන් පිතිකරු හයිඩර් අලි එංගලන්තයේ දී අත්අඩංගුවට පත්ව තිබේ.
+
+මේ බව තහවුරු කරමින් පාකිස්තාන ක්‍රිකට් ආයතනය සඳහන් කළේ, එංගලන්තයේ අපරාධ පරීක්ෂණයකට අදාළව ඔහුව මැන්චෙස්ටර් පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/4601165d.json)
+
+---
+
+### මාරක අනතුරක් - දෙදරු පියා මරුට
+
+*2025-08-08 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213156) · `si`
+
+අද (08) උදෑසන 6ට පමණ හොරණ රෝහල හන්දිය අසලදී වෑන් රථයක් හා යතුරුපැදියක් මුහුණ ගැටී සිදුවු අනතුරකින් දෙදරු පියෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් තුවාල ලැබු කාන්තාව මේ වනවිට හොරණ දිස්ත්‍රික් රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+අනතුරින් මියගොස් ඇත්තේ, බැල්ලපිටිය ප්‍රදේශයේ පදිංචිව සිටි ඔල්වින් ඉංද්‍රසිරි නමැති 75 හැවිරිදි වියේ පසුවූ දෙදරු පියෙකි.
+
+මොරගහේන ප්‍රදේශයේ කර්මාන්තශාලාවක සේවකයින් ප්‍රවාහනය කරන වෑන් රථයක් හොරණ ප්‍රදේශයේ සිට අඟුරුවාතොට ප්‍රදේශයට ගමන් කරමින් සිටියදී අඟුරුවාතොට දෙස සිට සිල් සමාදන්වීම සඳහා ප්‍රදේශයේ විහාරස්ථානයකට යතුරුපැදියකින් ගමන් කරමින් සිටි අඹුසැමි යුවළක් හොරණ රෝහල මංසන්ධියෙන් දකුණු පසට හැරීවීමට යාමේදී මෙම අනතුර සිදුව තිබුණි.
+
+අනතුරින් තුවාල ඇති අතර සිද්ධියෙන් පසු තුවාල ලැබු අඹුසැමි යුවළ හොරණ දිස්ත්‍රික් රෝහලට ඇතුළත් කිරීමෙන් පසු පිරිමි පුද්ගලයා මියගොස් ඇති බව පොලීසිය පැවසීය.
+
+අනතුර සිදුවු මොහොතේ වෑන් රථය මියගිය පුද්ගලයා සමග මීටර් 32ක් පමණ ඉදිරියට ඇදී ගොස් ඇති අතර, අනතුරට හේතුව වෑන් රථයේ අධික වේගය බව පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/45508cea.json)
+
+---
 
 ### 'ගාසා සිටි' අත්පත් කරගැනීමේ නෙතන්යාහුගේ සැලැස්මට අනුමැතිය
 
@@ -1725,35 +1761,5 @@ President Anura Dissanayake told parliament that a tariff deal with the USA was 
 ...
 
 [Data](articles/b5ff7533.json)
-
----
-
-### ”சுப்ரீம்சட் லிமிடெட்டின் வருமான தகவல்களில் தவறுள்ளது”
-
-*2025-08-07 16:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுப்ரீம்சட்-லிமிடெட்டின்-வருமான-தகவல்களில்-தவறுள்ளது/175-362520) · `ta`
-
-சுப்ரீம்சட் லிமிடெட் ஈட்டிய வருமானம் தொடர்பான புள்ளிவிவரங்களை வழங்குவதில் முதலீட்டு சபை (BOI) தவறு செய்துள்ளது என்று அமைச்சர் வசந்த சமரசிங்க இன்று தெரிவித்தார்.
-
-◼️
-
-[Data](articles/cf903551.json)
-
----
-
-### Parliament to meet from August 19 to 22
-
-*2025-08-07 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111265/parliament-to-meet-from-august-19-to-22) · `en`
-
-Parliamentary business for the second Parliamentary week of August 2025 was decided yesterday (06) at the Committee on Parliamentary Business, the Secretary General of Parliament Kushani Rohanadeera said.
-
-Accordingly, Parliament is scheduled to meet from August 19th to 22nd.
-
-Accordingly, time from 9.30 a.m. to 10.00 a.m. on each sitting day has been allotted for Business of Parliament as per Standing Order 22(1) to (6) of the Parliament. Time from 10.00 a.m. to 11.00 a.m. has been allocated for Questions for Oral Answers, while time from 11.00 a.m. to 11.30 a.m. has been reserved for Questions under Standing Order 27(2).
-
-Accordingly, on Tuesday, August 19th, 2025, from 11.30 a.m. to 5.00 p.m., the Second Reading of the Gambling Regulatory Authority Bill, Regulations under the Public Debt Management Act published in Extraordinary Gazette No. 2443/14, and an Order under the Foreign Exchange Act published in Extraordinary Gazette No. 2441/14 are scheduled to be taken up for debate.
-
-...
-
-[Data](articles/18721aaf.json)
 
 ---

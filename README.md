@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 06:11:28**
+As of **2025-08-08 06:37:55**
 
 ## Newspaper Stats
 
-*Scraped **69,371** Articles*
+*Scraped **69,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
 virakesarilk | 11,546
-adaderanasinhalalk | 11,938
+adaderanasinhalalk | 11,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,371 articles have been extended.
+61,973 (89.3%) of 69,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### අදත් හවසට තද වැසි
+
+*2025-08-08 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213149) · `si`
+
+බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් නුවරඑළිය, මහනුවර, පුත්තලම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+◼️
+
+[Data](articles/afa05571.json)
+
+---
 
 ### ‘Unsilenced’: Neelan Tiruchelvam revisited
 
@@ -1725,25 +1737,5 @@ He has led project implementations in core banking systems, trade finance platfo
 ...
 
 [Data](articles/6f4a7a6d.json)
-
----
-
-### Myanmar’s figurehead president Myint Swe dies
-
-*2025-08-07 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111262/myanmars-figurehead-president-myint-swe-dies) · `en`
-
-Myint Swe, who became Myanmar’s president during a 2021 coup against an elected civilian government and immediately handed power to the military, has died a year after going on medical leave, a junta statement said on Thursday (Aug 7).
-
-“President U Myint Swe passed away at 8.28 am this morning,” said the junta, adding the 74-year-old had died in a hospital in the capital Naypyidaw.
-
-“It is hereby announced that the funeral of Pro Tem President U Myint Swe will be held as a state funeral.”
-
-State media said on Wednesday he was experiencing “weight loss, loss of appetite, fever and a decline in cognitive function” and had been admitted to intensive care.
-
-He became nominal president after the incumbent Win Myint was arrested during the coup alongside Nobel laureate and de facto leader, Aung San Suu Kyi. They have been detained ever since.
-
-...
-
-[Data](articles/b597472f.json)
 
 ---

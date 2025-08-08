@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 22:48:12**
+As of **2025-08-08 23:06:10**
 
 ## Newspaper Stats
 
-*Scraped **69,473** Articles*
+*Scraped **69,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,691
-adaderanalk | 8,633
+adaderanalk | 8,635
 tamilmirrorlk | 10,159
-virakesarilk | 11,569
+virakesarilk | 11,571
 adaderanasinhalalk | 11,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,473 articles have been extended.
+61,973 (89.2%) of 69,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### எதிர்கால சந்ததியினரை இயந்திரமயப்படுத்தும் வகையில்  சீர்திருத்தங்கள் சிறந்தவையல்ல - திஸ்ஸ அத்தநாயக்க
+
+*2025-08-08 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222139) · `ta`
+
+கல்வி சீர்திருத்தத்தினை நிகழ்காலத்துக்கு தேவையான வகையில் முன்னெடுப்பதில் தவறில்லை. ஆனால் அந்த சீர்திருத்தங்கள் எவ்வாறு இடம்பெற வேண்டும் என்பது தொடர்பில் நாம் அவதானம் செலுத்த வேண்டும். எதிர்கால சந்ததியினரை இயந்திரமயப்படுத்தும் வகையிலான கல்வி சீர்திருத்தங்கள் சிறந்தவையல்ல என ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+கண்டியில் வெள்ளிக்கிழமை (8) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கல்வி சீர்திருத்தத்தினை நிகழ்காலத்துக்கு தேவையான வகையில் முன்னெடுப்பதில் தவறில்லை. ஆனால் அந்த சீர்திருத்தங்கள் எவ்வாறு இடம்பெற வேண்டும் என்பது தொடர்பில் நாம் அவதானம் செலுத்த வேண்டும். கல்வி சீர்திருத்தம் என்ற பெயரில் நாட்டில் மாணவர்களின் மனநிலையை மாற்றுவதற்கான முயற்சிகள் இடம்பெறுவதாகவே தற்போது குற்றச்சாட்டுக்கள் முன்வைக்கப்படுகின்றன.
+
+...
+
+[Data](articles/394703fd.json)
+
+---
+
+### பெரும்போக செய்கை பாதிப்பு 1484 மில்லியன் ரூபா நட்டஈடு; கமத்தொழில் மற்றும் கமநலக் காப்புறுதி சபை தகவல்
+
+*2025-08-08 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/222138) · `ta`
+
+2024 மற்றும் 2025 ஆம் ஆண்டு பெரும்போக விவசாயத்தில்  நெல், சோளம், பெரிய வெங்காயம், மிளகாய்,சோயா, உருளைக்கிழங்கு ஆகிய பயிர்ச்செய்கைகளுக்கு ஏற்பட்ட பாதிப்புகளுக்கு இந்த ஆண்டு 1484 மில்லியன் ரூபாய் நட்டஈடு வழங்கப்பட்டுள்ளதாக கமத்தொழில் மற்றும் கமநலக் காப்புறுதி சபை குறிப்பிட்டுள்ளது.
+
+கமத்தொழில் மற்றும் கமநலக் காப்புறுதி சபை வெளியிட்டுள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+
+விவசாயிகள் பயிர்ச்செய்கை நடவடிக்கைகளில் ஈடுபடுவதை ஊக்கப்படுத்தும் நோக்கில் இலவசமாக இந்த பயிர்ச்செய்கை காப்புறுதி திட்டத்தின் கீழ் விவசாயிகளுக்கு நட்டஈடு வழங்கப்பட்டுள்ளது.
+
+இத்திட்டத்தின் கீழ்  நெல், சோளம், பெரிய வெங்காயம், உருளைக்கிழங்கு, மிளகாய், சோயா உள்ளிட்ட பயிர்ச்செய்கைகள் 87690 ஏக்கர் நிலப்பரப்பில் மேற்கொள்ளப்பட்டுள்ளது. இந்த பயிர்ச்செய்கையில் ஈடுபட்ட 74958 விவசாயிகளுக்கு நட்டஈடு வழங்க 1484 மில்லியன் ரூபாய் செலவிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/27c807b2.json)
+
+---
 
 ### பொறுப்புக்கூறலில் ஐ.நா.வின் அணுகுமுறை அதிருப்தி ; ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு பாக்கியசெல்வம் அரியநேத்திரன் கடிதம்
 
@@ -70,11 +104,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-08 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213181) · `si`
 
-ජාත්‍යන්තර මෝටර් රථ සම්මේලනය (FIA) විසින් සංවිධානය කරන ෆෝමියුලා තරගාවලියක තෙවන අදියරක් (Formula 3) නියෝජනය කරන පළමු ශ්‍රී ලාංකික රියදුරා බවට පත්වීමට 18 හැවිරිදි යෙවන් ඩේවිඩ්ට හැකිව තිබේ.
+ජාත්‍යන්තර මෝටර් රථ සම්මේලනය (FIA) විසින් සංවිධානය කරන ෆෝමියුලා තරගාවලියක තෙවන අදියරක් (Formula 3) නියෝජනය කිරීමට සුදුසුකම් පළමු ශ්‍රී ලාංකික රියදුරා බවට 18 හැවිරිදි යෙවාන් ඩේවිඩ් පත්ව  තිබේ.
+
+ඔහු මේ වනවිට යුරෝෆෝමියුලා විවෘත ශූරතාවලියට තරගවදින අතර, එහිදී මේ දක්වා ජයග්‍රහණ හතරකට හිමිකම් කියයි.
+
+එමෙන්ම 2024 දී යුරෝකප්-3, ස්පාඤ්ඤ F4 සහ UAE F4 ශූරතාවලි සඳහා ද තරග වැදී තිබේ.
+
+F3 අදියරට උසස්වීම පිළිබඳ අදහස් දක්වමින් ඔහු පැවසුවේ, තම රටෙන් ශූරතාවලියට තරග කරන පළමු රියදුරු වීම ගැන ආඩම්බර වන බවත්, අවස්ථාව ලැබීම ගැන කෘතඥ වන බවත්ය.
+
+2026 වාරය සඳහා AIX රේසිං සමග අත්සන් කිරීමට ලැබීම හේතුවෙන් යොවාන්ට මෙලෙස FIA ෆෝමියුලා 3 තරගාවලියට සහභාගිවීමට අවස්ථාව උදාවී තිබේ.
 
 ◼️
 
 [Data](articles/f3543bc9.json)
+
+---
+
+### Yevan David set to become first Sri Lankan driver in Formula 3
+
+*2025-08-08 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111293/yevan-david-set-to-become-first-sri-lankan-driver-in-formula-3) · `en`
+
+Eighteen-year-old Yevan David has created another bit of history by becoming the first-ever Sri Lankan driver to compete in the FIA Formula 3 Championship.
+
+He signed with AIX Racing for the 2026 season, marking a significant milestone in Sri Lanka’s motorsport journey.
+
+The 18-year-old Sri Lankan is currently fighting for the Euroformula title, and has four victories, five other podiums and a pole so far this season in the F3-level series while driving for the dominant Motopark team. He took two wins and a third place from his debut in the final round of 2024.
+
+Prior to that, David competed in the Eurocup-3, Spanish F4 and UAE F4 Championships in 2024 in what was his first full season of single-seater racing after graduating from karts.
+
+...
+
+[Data](articles/576a4a3a.json)
 
 ---
 
@@ -109,6 +169,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/06ffc83e.json)
+
+---
+
+### PM highlights role of schools in developing future sector specialists under new reforms
+
+*2025-08-08 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111292/pm-highlights-role-of-schools-in-developing-future-sector-specialists-under-new-reforms) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that the objectives of the educational reforms include fostering moral values in children, guiding those who deviate from school education towards vocational training, and thereby ensuring their contribution to the country’s economic development.
+
+A special discussion to raise awareness about the educational reforms scheduled to be implemented from 2026 was held on July 07 at the Archbishop’s official residence in Colombo, with the participation of His Eminence Malcolm Cardinal Ranjith, senior bishops, and Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya.
+
+During the meeting, a comprehensive explanation of the educational reforms was presented by the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kalubewa, according to the Prime Minister’s Media Division.
+
+...
+
+[Data](articles/73c61ef9.json)
 
 ---
 
@@ -1789,67 +1865,5 @@ A controversial debate is currently underway about a serious reform that is goin
 ...
 
 [Data](articles/88049066.json)
-
----
-
-### COPA finds former Provincial Council Chief received Rs. 7.7 m above fuel allowance limit
-
-*2025-08-08 05:35:53* · [`dailyftlk`](https://www.ft.lk/news/COPA-finds-former-Provincial-Council-Chief-received-Rs-7-7-m-above-fuel-allowance-limit/56-780057) · `en`
-
-Reveals Governor’s Personal Secretary obtained fuel allowance when Governor was overseas
-
-COPA also calls for report on rent collection of Provincial Council land
-
-Discloses supplier provided 30-watt street lamps claiming to be 90-watt street lamps
-
-The Committee on Public Accounts (COPA) yesterday (7) disclosed that during the period 2014-2017, an overpayment of Rs. 7,730,262 in excess of the approved fuel limit had been made to the former Sabaragamuwa Provincial Council Chief Minister.
-
-This disclosure was made at the COPA convening held recently in Parliament, chaired by MP Aravinda Senarath, to discuss the Auditor General’s Reports of 2022 and 2023 and the current performance of the Sabaragamuwa Provincial Council.
-
-...
-
-[Data](articles/cfc8c83f.json)
-
----
-
-### Multi-faceted personality Lakshman Kadirgamar’s spiritual side
-
-*2025-08-08 04:57:42* · [`dailyftlk`](https://www.ft.lk/columns/Multi-faceted-personality-Lakshman-Kadirgamar-s-spiritual-side/4-780044) · `en`
-
-Former Sri Lankan Foreign Minister Lakshman Kadirgamar was killed on 12 August 2005 by a sniper of the Liberation Tigers of Tamil Eelam (LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar had just completed his customary 1,000 metre swim at the pool in his residence, when the assassin struck. Two decades have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar’s 20th death anniversary draws near.
-
-...
-
-[Data](articles/aaddaecb.json)
-
----
-
-### A time to put off  times of trouble
-
-*2025-08-08 04:38:47* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-put-off-times-of-trouble/4-780043) · `en`
-
-As economy watchers warned only recently, Sri Lanka by dint of its Central Bank’s defence of the latest rate cut is skating on thin ice vis-à-vis a second default
-
-Time is a funny thing that way. To a sad and lonely old man, sitting on a park bench next to a pretty energetic girl is but a few achingly fleeting moments. But to the lass it may seem like an unbearable lifetime. No less a savant than lateral thinker and theoretical physicist Albert Einstein discovered the truth about this for himself.
-
-One doesn’t have to be a genius such as the genial giant of quantum physics to figure out the chemistry of such attraction and attrition. But the object lesson here is more about the flexibility of time as it seems to pass that is the point.
-
-...
-
-[Data](articles/fe111202.json)
-
----
-
-### Sri Lanka’s Billion-Dollar X-Press Pearl Judgment Faces Uphill Legal Battle In Singapore
-
-*2025-08-08 04:35:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-billion-dollar-x-press-pearl-judgment-faces-uphill-legal-battle-in-singapore/) · `en`
-
-In what has been hailed as a landmark environmental ruling, Sri Lanka’s Supreme Court recently ordered the operators of the MV X-Press Pearl to pay USD 1 billion in compensation for the catastrophic 2021 maritime disaster that ravaged the nation’s coastline. However, as the Sri Lankan government prepares to enforce this judgment against the vessel’s Singapore-based operators, it faces a formidable array of legal and practical obstacles that cast serious doubt on whether the historic award will ever be collected in full.
-
-The core of the challenge lies in the complex interplay between Sri Lankan constitutional law, Singaporean enforcement statutes, and entrenched principles of international maritime law. Legal experts suggest that while the judgment is a significant moral and legal victory for Sri Lanka, its journey through the Singaporean courts is likely to be fraught with difficulty, potentially rendering the billion-dollar award a pyrrhic victory.
-
-...
-
-[Data](articles/e05a1144.json)
 
 ---

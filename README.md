@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 12:08:16**
+As of **2025-08-08 12:29:12**
 
 ## Newspaper Stats
 
-*Scraped **69,401** Articles*
+*Scraped **69,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,77 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 706
-economynextcom | 4,237
 islandlk | 4,240
+economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,685
 adaderanalk | 8,623
 tamilmirrorlk | 10,150
 virakesarilk | 11,549
-adaderanasinhalalk | 11,948
+adaderanasinhalalk | 11,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,401 articles have been extended.
+61,973 (89.3%) of 69,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### කටකතා වෙනුවට සත්‍ය අනාවරණය වීම ජයග්‍රහණයක් - සුප්‍රීම් සැට් විශේෂ නිවේදනයක්
+
+*2025-08-08 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213160) · `si`
+
+වසර 13ක් පුරා රටේ ජනතාව නොමඟ යවමින් පටු දේශපාලන වාසි තකා පැතිරුණු කටකතා වෙනුවට සත්‍ය අනාවරණය වී තම සමාගම ලැබූ ජයග්‍රහණයක් බව සුප්‍රීම් සැට් පෞද්ගලික සමාගම පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එහි සභාපති ආර්.එම්. මනිවන්නන් මහතා වැඩිදුරටත් සඳහන් කර ඇත්තේ, නිරන්තරයෙන් සුප්‍රීම් සැට් රටේ ප්‍රගමනය වෙනුවෙන්, නවෝත්පාදන ක්ෂේත්‍රයට දායකත්වය දක්වමින් තවදුරටත් සමාගමේ කීර්ති නාමය තව දුරටත් ප්‍රවර්ධනය කරමින් ජාත්‍යන්තර ප්‍රමිතියේ වාණිජ අභ්‍යවකාශ ක්ෂේත්‍රයේ කොටස්කරුවෙකු ලෙස ඉදිරියටත් කටයුතු කරන බවය.
+
+එමෙන්ම නිසි දැනුමක් හෝ අවබෝධයක් නොමැතිව ජනතාව නොමඟ යවමින් සිය දේශපාලනය කිරීමට වෙර දරන පිරිස් හා ඔවුනගේ පදනම් විරහිත හිස් ප්‍රකාශ සම්බන්ධයෙන් තම සමාගම දැඩිව කනගාටුව ප්‍රකාශ කරන බවද අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/3eee45c8.json)
+
+---
+
+### Weakening global growth to raise credit risks for emerging market issuers: Fitch
+
+*2025-08-08 12:00:00* · [`economynextcom`](https://economynext.com/weakening-global-growth-to-raise-credit-risks-for-emerging-market-issuers-fitch-235291/) · `en`
+
+ECONOMYNEXT – US tariff implementation and weakening global demand is likely to cause tougher credit conditions for emerging markets in the second half of this year, Fitch Ratings has said, despite the resilience seen in the global economy and capital markets during the first half.
+
+“We have revised our 2025 sector outlooks for Asia-Pacific, Eastern Europe and Sub-Saharan Africa sovereigns to ‘deteriorating’, from ‘neutral’, to reflect the tougher conditions,” the ratings agency said.
+
+Weaker prospects for bank loan growth, asset quality and profitability amid exposure to US trade policies led Fitch to adjust to some emerging market banking sector outlooks it said.
+
+Weakening Global Growth to Raise Credit Risks for Emerging Market Issuers
+
+...
+
+[Data](articles/233bc1a6.json)
+
+---
+
+### 2025 උ.පෙළ විභාගයට අයදුම් කිරීමට ලබා දී තිබූ කාලය දීර්ඝ කෙරේ
+
+*2025-08-08 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213159) · `si`
+
+එළැඹෙන අ.පො.ස. (උ.පෙළ) විභාගය සඳහා අයදුම් කිරීමට ලබා දී තිබූ කාල සීමාව දීර්ඝ කර ඇත.
+
+ඒ අනුව එළැඹෙන 12 වනදා මධ්‍යම රාත්‍රී 12 දක්වා මාර්ගගත ක්‍රමය ඔස්සේ අයදුම්පත් ඉදිරිපත් කිරීමට අවස්ථාව සලසා දී තිබේ.
+
+2024  නැවත සමීක්ෂණ ප්‍රතිඵල මත 2025 උ.පෙළ විභාගයට අයදුම් කිරීමට බලාපොරොත්තු වන හා ඒ සඳහා අයදුම් කිරීමට ලබා දී තිබූ කාල සීමාව තුළ අයදුම් කිරීමට නොහැකි වූ අයදුම්කරුවන්ට මෙම අයදුම්පත් ඉදිරිපත් කිරීමේ අවස්ථාව සලසා දී ඇත.
+
+ඒ අනුව මෙම සහන කාල සීමාව කිසිදු හේතුවක් මත තව දුරටත් දීර්ඝ නොකරන බව නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/848a1747.json)
+
+---
 
 ### ஓடும் ரயிலில் ஏற முயன்ற பெண் : கால் முற்றாக சிதைவு
 
@@ -288,6 +340,24 @@ The official, speaking on condition of anonymity pending a formal decision, said
 
 ---
 
+### Sri Lanka foreign reserves marginally up in July to US$6.1bn
+
+*2025-08-08 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-marginally-up-in-july-to-us6-1bn-235304/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross foreign reserves edged up by 64 million US dollars in July 2025 to 6,144 million US dollars, official data showed, amid concerns over the impact of recent rate cuts on the ability to collect reserves and repay debt.
+
+Sri Lanka’s central bank has not been able to grow its gross reserves for nine months, and the July Number is below the 6,472 million dollars reached in October 2025.
+
+In the last quarter of 2024, money printed to target a mid-corridor or ‘single’ policy rate which tends to cripple the workings of the interbank money market and eventually trigger forex shortages.
+
+At the current interest rates, the central bank is still able to collect some amount of dollars from the banking system as it has stopped inflationary open market operations.
+
+...
+
+[Data](articles/3ee413fa.json)
+
+---
+
 ### மன்னார் காற்றாலை திட்டத்தை இடைநிறுத்த தீர்மானம்
 
 *2025-08-08 07:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-காற்றாலை-திட்டத்தை-இடைநிறுத்த-தீர்மானம்/175-362550) · `ta`
@@ -317,6 +387,24 @@ The official, speaking on condition of anonymity pending a formal decision, said
 ◼️
 
 [Data](articles/17d415f8.json)
+
+---
+
+### Sri Lanka BYD agents say Customs to release detained cars on bank guarantee
+
+*2025-08-08 07:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-byd-agents-say-customs-to-release-detained-cars-on-bank-guarantee-235324/) · `en`
+
+ECONOMYNEXT – Sri Lanka agents for BYD, John Keells CG Auto, says about 1,000 Atto 3 units detained by Customs over a dispute on its motor, has been released subject to a bank guarantee, after the firm went to the Court of Appeal.
+
+“Pursuant to the submissions made in the Court of Appeal on behalf of JKCG today, Sri Lanka Customs agreed to the immediate release of the vehicles, subject to the provision of security in the form of a Bank Guarantee,” the firm said in statement.
+
+The vehicles were detained by Customs after a complaint that it had the same physical motor as in a 150kW model and questions whether the output of the motor rated at 100kW will be accepted by authorities in Sri Lanka.
+
+JKCG said BYD makes 100kW models for Singapore, Nepal and Sri Lanka and 150kW for countries like Thailand and Singapore.
+
+...
+
+[Data](articles/200cd7cd.json)
 
 ---
 
@@ -1534,6 +1622,24 @@ On Wednesday (6) the debt office raised 82 billion rupees of 3, 6 and 12 month b
 
 ### Sri Lanka likely to exceed 2025 revenue target of Rs4.5 trillion: President
 
+*2025-08-07 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-likely-to-exceed-2025-revenue-target-of-rs4-5-trillion-president-235270/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2025 government revenue is likely to exceed the target 4.5 trillion rupees as the state income across the board has signaled more than expected performance, President Anura Kumara Dissanayake told the parliament.
+
+“I can tell you that for the first time in the history we might be able to exceed the revenue targets for this year, as per the signs we have as of now,” President Dissanayake told when he addressed the parliament.
+
+“The target of Inland Revenue Department has increased by 101 percent. We gave a target to the Customs. They exceeded the target and reached 115 percent of the target and Excise Department has exceeded the target and reached 105 percent and in the first seven months,” he said.
+
+Sri Lanka’s tax revenue has risen mainly due to expanding the tax nets and addressing the leakages in the tax income, experts say. (Colombo/August 7/2025)
+
+◼️
+
+[Data](articles/0d7e3e24.json)
+
+---
+
+### Sri Lanka likely to exceed 2025 revenue target of Rs4.5 trillion: President
+
 *2025-08-07 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-likely-to-exceed-2025-revenue-target-of-rs-4-5-trillion-president-235270/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s 2025 government revenue is likely to exceed the target 4.5 trillion rupees as the state income across the board has signaled more than expected performance, President Anura Kumara Dissanayake told the parliament.
@@ -1681,99 +1787,5 @@ Presenting a letter from the Director General of Sri Lanka Customs before the co
 ...
 
 [Data](articles/3eee3aca.json)
-
----
-
-### இலங்கைக்கு போட்டியான நாடுகளுக்கான வரி திருத்தங்கள் தொடர்பிலும் நாம் பேச்சுவார்த்தைகளை முன்னெடுக்க வேண்டும் - பொருளாதார நிபுணர் தனநாத் பெர்னாண்டோ
-
-*2025-08-07 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/222068) · `ta`
-
-இலங்கைக்கு விதிக்கப்பட்டுள்ள தீர்வை வரி தொடர்பில் மாத்திரம் பேச்சுவார்த்தைகளை முன்னெடுக்காமல், எம்முடன் போட்டியிடும் நாடுகளுக்கான வரிகள் கூடிக் குறையும் போதும் நாம் பேச்சுவார்த்தைகளை முன்னெடுக்க வேண்டியது அவசியமாகும். காரணம் அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப மீண்டும் மீண்டும் வரி திருத்தங்களை மேற்கொள்ளக் கூடும் என்று எதிர்பார்க்கப்படுவதால் அது எமது ஏற்றுமதித்துறையிலும் தாக்கத்தை ஏற்படுத்தும் என பொருளாதார நிபுணர் தனநாத் பெர்னாண்டோ தெரிவித்தார்.
-
-கொழும்பில் வியாழக்கிழமை (07) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/bd98436d.json)
-
----
-
-### මාදුරුඔය රක්ෂිතයෙන් මිය ගිය වන අලි සිරුරක් හමුවෙයි
-
-*2025-08-07 16:45:05* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-රක්ෂිතයෙන්-මිය-ගිය-වන-අලි-සිරුරක්-හමුවෙයි/11-417780) · `si`
-
-මාදුරුඔය රක්ෂිතයේ ඇබලවත්ත ප්‍රදේශයේ තිබී  වන අලි සිරුරක් අද 07 උදෑසන හමු වූ බව මහියංගණය පොලිසිය පැවසීය.
-
-වන අලියා මිය යාමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බවද හෙට අට දින මෙම අලි මරණය සම්බන්ධයෙන් මරණ පරීක්ෂණයක් පැවැත්වෙන බවද පොලිසිය පැවසීය.
-
-මහියංගණය මාදුරුඔය   රක්ෂිතයේ ඇබලවත්ත  ප්‍රදේශයේ පෞද්ගලික වගා භූමියකට මීටර් 300ක් පමණ නුදුරින් මෙම වන අලි සිරුර හමු වූ බවද පොලිසිය පැවසීය. මහියංගනය පොලිසිය පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/53e234ac.json)
-
----
-
-### மன்னார் காற்றாலை மின்திட்ட பணிகளை இடைநிறுத்துவதற்கு தீர்மானம்
-
-*2025-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222060) · `ta`
-
-மன்னார் காற்றாலை மின்திட்டம் தொடர்பில் எழுந்துள்ள பிரச்சினைகளுக்கு  சகல தரப்பினருடன் கலந்துரையாடி தீர்வு காண்பதற்கு தீர்மானிக்கப்பட்டுள்ள நிலையில் அபிவிருத்தி திட்ட பணிகளை இடைநிறுத்துவதற்கு மின்சாரத்துறை அமைச்சர் தலைமையில் நடைபெற்ற  குழு கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
-
-காற்றாலை மின்திட்ட விவகாரம் தொடர்பில் இன்னும் இரண்டு வாரங்களுக்கு பின்னர் ஜனாதிபதி தலைமையில் விசேட பேச்சுவார்த்தையில் ஈடுபடுபதற்கும் இக்கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
-
-மன்னார் காற்றாலை திட்டம் மற்றும் இல்மனைட் கனிய வளம் தொடர்பில் எழுந்துள்ள பிரச்சினை குறித்து பாராளுமன்ற கட்டிடத் தொகுதியில் வியாழக்கிழமை (07) விசேட கலந்துரையாடல் மின்சாரத்துறை அமைச்சர் அருண கருணாதிலக தலைமையில் இடம்பெற்றது.
-
-இந்த கலந்துரையாடலில் வன்னி மாவட்ட பிரதிநிதிகள், சிவில் சமூக பிரதிநிதிகள் மற்றும் மன்னார் மாவட்ட பிரஜைகள் குழு உட்பட பல்வேறு தரப்பினர்கள் கலந்துக்கொண்டுள்ளனர்.
-
-...
-
-[Data](articles/4aa79ab5.json)
-
----
-
-### නුවරඑලියේ අයාලයේ යන පෝනියන් ගාල් කරයි, වෙන්දේසි කිරිමටත් සුදානම්
-
-*2025-08-07 16:37:57* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑලියේ-අයාලයේ-යන-පෝනියන්-ගාල්-කරයි--වෙන්දේසි-කිරිමටත්-සුදානම්/10-417779) · `si`
-
-නුවරඑළිය නගරයට පැමිණෙන දෙස් විදෙස් සංචාරකයන්ට සහ නගරයට පැමිණෙන වාහනවලට අවහිරවන සේ අයාලේ සැරි සරණ පෝනියන් අල්ලා ගාල් කිරිමට පියවර ගත් බව නුවරඑලිය මහ නගර සභාවේ නගරාධිපති උපාලි වනිගසේකර මහතා පැවසීය.
-
-නුවරඑලිය තුරග තරග පිටිය අවට සහ දෙස් විදෙස් සංචාරකයන් ගැවසෙන ස්ථානවල පෝනියන්ගේ අයිතිකරුවන් සිටින බවත්, එම පෝනියන්ගේ පිට මත සංචාරකයන් රැගෙන ගොස් අයිතිකරුවන් ආදායමක් පමණක් ලබා ගෙන සතුන්ට රැකලබා ගැනීමක් සිදු නොකරන බවයි නගරාධිපතිවරයා කියා සිටියේ.
-
-පෝනියන් නගරය පුරා සැරිසරමින් ආපනශාලාවලින් සහ සංචාරකයින් විසින් ලබා දෙන ආහාර අනුභව කරන බවත්, ඊට අමතරව එම සතුන් තුරග  තරග පිටිය සහ නගර සභාව අවට නිදැල්ලෙ සැරි සරමින් තෘණ ආහාරයට ගන්නා බවයි නගරාධිපතිවරයා කියා සිටින්නේ.
-
-ඇතැම් පෝනියන් රෝගාතුරව සිටින බවත්, එම සතුන් සුවපත් කිරිමට අයිතිකරුවන් කිසිදු පියවරක් නොගන්නා බවත්, නිදැල්ලේ සැරි සරන ඇතැම් පෝනියන් සංචාරකයින්ව සපා කෑම්ද සිදු වී ඇති බවයි නගරාධිපතිවරයා කියා සිටින්නේ.
-
-...
-
-[Data](articles/a152482c.json)
-
----
-
-### Announcement on commencement of third school term
-
-*2025-08-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111266/announcement-on-commencement-of-third-school-term) · `en`
-
-The second school term of the 2025 academic year for Sinhala and Tamil government schools ended today (07), and the third term will commence on August 18 (Monday), according to the Ministry of Education.
-
-However, for Muslim schools, the second term will end on August 19 (Tuesday) and the third term will begin on August 25 (Monday), it said.
-
-◼️
-
-[Data](articles/a3c23bdd.json)
-
----
-
-### Announcement on commencement of third school term
-
-*2025-08-07 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111266/announcement-commencement-of-third-school-term-) · `en`
-
-The second school term of the 2025 academic year for Sinhala and Tamil government schools ended today (07), and the third term will commence on August 18 (Monday), according to the Ministry of Education.
-
-However, for Muslim schools, the second term will end on August 19 (Tuesday) and the third term will begin on August 25 (Monday), it said.
-
-◼️
-
-[Data](articles/ccc14a5b.json)
 
 ---

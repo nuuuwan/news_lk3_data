@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 17:53:44**
+As of **2025-08-08 18:10:33**
 
 ## Newspaper Stats
 
-*Scraped **69,438** Articles*
+*Scraped **69,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,689
 adaderanalk | 8,629
 tamilmirrorlk | 10,156
 virakesarilk | 11,551
-adaderanasinhalalk | 11,962
+adaderanasinhalalk | 11,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,438 articles have been extended.
+61,973 (89.2%) of 69,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### කෝටි ගාණක් වංචා කළ කළුතර ප්‍රා. සභාවේ හිටපු නිලධාරිනියක් සහ රියදුරෙකු අත්අඩංගුවට
+
+*2025-08-08 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213174) · `si`
+
+කළුතර ප්‍රාදේශීය සභාවේ සේවකයන්ගේ වැටුප්වලින් වසර හතරකට ආසන්න කාලයක් තිස්සේ රුපියල් එක්කෝටි විසි ලක්ෂයකට අධික මුදලක් වංචා කළ බව කියන එම ප්‍රාදේශීය සභාවේ හිටපු කාර්ය භාර නිලධාරිනිය සහ රියදුරකු අත්අඩංගුවට ගත් බව කළුතර විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකාරිය කළුතර බෝමුවල ප්‍රදේශයේ පදිංචි 45 හැවිරිදි කාන්තාවක් වන අතර සැකකාර රියදුරු වයස අවුරුදු 54ක් වන වාද්දුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+කළුතර ප්‍රාදේශීය සභාවේ ලේකම්වරයා විසින් කළ පැමිණිල්ලක් මත  සිදු කළ දීර්ඝ විමර්ශනයකින් පසුව මෙම සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+මෙම වංචාව සම්බන්ධයෙන් අනාවරණය වීමෙන් පසු ඔවුන්ගේ වැඩ තහනමකට ලක් කර තිබූ අතර සැකකරුවන් කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/7e9841f6.json)
+
+---
 
 ### රත්තනගොල්ල ලැව් ගින්න මැඩපැවැත්වීමට ගුවන් හමුදා හෙලිකොප්ටරයක් යොදවයි
 
@@ -1795,27 +1813,5 @@ According to police, two unidentified individuals arrived on a scooter and opene
 ◼️
 
 [Data](articles/a11534ab.json)
-
----
-
-### Re-scrutinized results of 2024 A/L exam released
-
-*2025-08-07 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111272/re-scrutinized-results-of-2024-al-exam-released) · `en`
-
-The re-scrutinized results of the GCE Advanced Level Examinations 2024, have been released online, according to the Department of Examinations.
-
-The results can be obtained by entering the correct index number after logging on to the official websites of the Department of Examinations (www.doenets.lk and www.results.exams.gov.lk), the department said.
-
-Based on the re-scrutinized results, candidates who wish to apply for the 2025 G.C.E. Advanced Level Examination — and who were unable to do so during the previously allocated application period — are now granted the opportunity to submit their applications online.
-
-This facility will be available from today (07 August) until 12:00 midnight on August 12, it said.
-
-The A/L exam was worked-off at 2,312 centers across the country from 25 November to 31 December, 2024.
-
-A total of 222,774 school applicants and 51,587 private applicants sat for the 2024 Advanced Level examination.
-
-◼️
-
-[Data](articles/18c39a86.json)
 
 ---

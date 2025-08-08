@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 05:32:43**
+As of **2025-08-08 06:11:28**
 
 ## Newspaper Stats
 
-*Scraped **69,355** Articles*
+*Scraped **69,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 705
-islandlk | 4,227
 economynextcom | 4,237
+islandlk | 4,240
 dailymirrorlk | 4,733
-dailyftlk | 4,887
+dailyftlk | 4,890
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,355 articles have been extended.
+61,973 (89.3%) of 69,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### ‘Unsilenced’: Neelan Tiruchelvam revisited
+
+*2025-08-08 05:42:27* · [`dailyftlk`](https://www.ft.lk/columns/Unsilenced-Neelan-Tiruchelvam-revisited/4-780059) · `en`
+
+The life, and violent death, of Neelan Tiruchelvam is the subject of a new documentary by young Canadian Tamil director Pitasanna Shanmugathas. Its title is apt. In life Tiruchelvam was silenced in July 1999 by the LTTE suicide bomber who threw himself onto the eminent Sri Lankan Tamil lawyer turned politician’s car close to his Colombo office.
+
+Both before and since that grimly characteristic Tiger response to opponents, real and imagined, Shanmugathan suggests, there have been other silences around Tiruchelvam. During his life, resolute espousal of a pluralistic, equity-based approach to resolving Sri Lanka’s ethnic conflict won Tiruchelvam’s many friends but also plenty of enemies, and on both sides of the ethnic divide.
+
+...
+
+[Data](articles/9eef14b3.json)
+
+---
+
+### Need for clear official document to public on new educational reforms
+
+*2025-08-08 05:38:04* · [`dailyftlk`](https://www.ft.lk/opinion/Need-for-clear-official-document-to-public-on-new-educational-reforms/14-780058) · `en`
+
+This is the full text of a letter sent to Education Minister Dr. Harini Amarasuriya by the National Executive Committee of the People’s Struggle Alliance on the need for a clear official document to the public on the new educational reforms
+
+A controversial debate is currently underway about a serious reform that is going to be implemented in the school education system in Sri Lanka. The debate about these new reforms has arisen in a backdrop where the current NPP Government has not presented a proper clear official document on the matter. Such reforms have been presented from time to time over the past few decades, and no matter how regressive they were, there was always a document that could be subjected to a clear constructive debate.
+
+...
+
+[Data](articles/88049066.json)
+
+---
+
+### COPA finds former Provincial Council Chief received Rs. 7.7 m above fuel allowance limit
+
+*2025-08-08 05:35:53* · [`dailyftlk`](https://www.ft.lk/news/COPA-finds-former-Provincial-Council-Chief-received-Rs-7-7-m-above-fuel-allowance-limit/56-780057) · `en`
+
+Reveals Governor’s Personal Secretary obtained fuel allowance when Governor was overseas
+
+COPA also calls for report on rent collection of Provincial Council land
+
+Discloses supplier provided 30-watt street lamps claiming to be 90-watt street lamps
+
+The Committee on Public Accounts (COPA) yesterday (7) disclosed that during the period 2014-2017, an overpayment of Rs. 7,730,262 in excess of the approved fuel limit had been made to the former Sabaragamuwa Provincial Council Chief Minister.
+
+This disclosure was made at the COPA convening held recently in Parliament, chaired by MP Aravinda Senarath, to discuss the Auditor General’s Reports of 2022 and 2023 and the current performance of the Sabaragamuwa Provincial Council.
+
+...
+
+[Data](articles/cfc8c83f.json)
+
+---
 
 ### Multi-faceted personality Lakshman Kadirgamar’s spiritual side
 
@@ -266,6 +314,82 @@ The eight industry participants include Milco Ltd., Maliban Milk Products Ltd., 
 
 ### 2025-08-07 (Thursday)
 
+### ICMA Australia hosts insightful session on bridging generational divide in the workplace
+
+*2025-08-07 23:39:00* · [`islandlk`](http://island.lk/icma-australia-hosts-insightful-session-on-bridging-generational-divide-in-the-workplace/) · `en`
+
+The Institute of Certified Management Accountants (ICMA) of Australia hosted a thought-provoking evening themed ‘The Gen Z Equation: What Every Leader Needs to Know,’ designed to address one of today’s most pressing workplace challenges of understanding and effectively managing generational differences.
+
+Current workplaces have become increasingly multifaceted across generations, harnessing the strengths of each generation while addressing their unique needs has become critical for organizational success. Through the event, ICMA sought to provide attendees with practical tools and insights to transform these differences from workplace challenges into competitive advantages.
+
+The session united seasoned leadership expertise with authentic Gen Z perspectives to help leaders build stronger, more collaborative workplaces, unpacking intergenerational dynamics, challenging common myths, and sharing research-backed insights.
+
+...
+
+[Data](articles/62a103b1.json)
+
+---
+
+### CameraLK expands to the Eastern Province with the grand opening of its latest showroom in Batticaloa
+
+*2025-08-07 23:38:00* · [`islandlk`](http://island.lk/cameralk-expands-to-the-eastern-province-with-the-grand-opening-of-its-latest-showroom-in-batticaloa/) · `en`
+
+CameraLK, Sri Lanka’s leading camera retail giant, marked another milestone with the grand opening of its newest showroom in Batticaloa, bringing world-class photography and videography gear to the Eastern Province. This expansion underscores CameraLK’s strategic vision to cater to a wider audience of photography enthusiasts and professionals across Sri Lanka.
+
+The opening ceremony was graced by Sony Sri Lanka Country Manager, Thomas Sim, alongside Anushka Gunasinghe, Managing Director of CameraLK, and several staff members and well-wishers.
+
+...
+
+[Data](articles/e93feacb.json)
+
+---
+
+### SLT-MOBITEL renews unwavering devotion to sacred Sri Dalada Maligawa extending decade-long ICT partnership
+
+*2025-08-07 23:34:00* · [`islandlk`](http://island.lk/slt-mobitel-renews-unwavering-devotion-to-sacred-sri-dalada-maligawa-extending-decade-long-ict-partnership/) · `en`
+
+Preserving Sri Lanka’s cultural heritage and advancing digital transformation, SLT-MOBITEL, the National ICT solutions provider, has extended its partnership with the Kandy Sri Dalada Maligawa, as the official ICT Service Provider for the 10th consecutive year.
+
+Consistently supporting the Sri Dalada Maligawa throughout the decade, the enduring partnership, highlights SLT-MOBITEL’s deep-rooted commitment to delivering seamless cutting-edge technology to one of Sri Lanka’s most revered religious and cultural institutions.
+
+As part of the ongoing collaboration, SLT-MOBITEL will provide the Sacred Temple with free, fibre-powered high-speed internet, PEO TV, and voice services powered by SLT-MOBITEL’s advanced fibre network, completely free of charge.
+
+These state-of-the-art services empower and equip the Temple’s media centre to broadcast sacred religious ceremonies and cultural content seamlessly to devotees across the globe.
+
+...
+
+[Data](articles/33fd0f38.json)
+
+---
+
+### Impact of US tariff issue on India beginning to tell on local bourse
+
+*2025-08-07 23:33:00* · [`islandlk`](http://island.lk/impact-of-us-tariff-issue-on-india-beginning-to-tell-on-local-bourse/) · `en`
+
+The CSE kicked off in a positive manner at the outset yesterday but later indicated some sluggishness as investors were cautious over the impact on India of the US tariff issues. This is so because India is one of Sri Lanka’s main trading partners, stock market analysts said.
+
+Both indices pointed to mixed reactions. The All Share Price Index went up by 24.5 points while S and P SL20 declined by 2.6 points. Turnover stood at Rs 3.26 billion with one crossing. The crossing was reported in Prime Lands, which crossed two million shares to the tune of Rs 39 million; its shares traded at Rs 19.50.
+
+...
+
+[Data](articles/8af91d84.json)
+
+---
+
+### End of ex-Presidential perks; Trump continues political gymnastics
+
+*2025-08-07 22:58:00* · [`islandlk`](http://island.lk/end-of-ex-presidential-perks-trump-continues-political-gymnastics/) · `en`
+
+We pensioners particularly are resentful of Parliamentarians getting pensions for life after warming the seats of the House by the Diyawanna for a mere five years. Many of them hardly contributed to on-going debates, and many have been more absent than present in Parliament. Some have been caught on camera snoozing while sessions were on. And then after being paid for each session attended and a salary and free petrol and heavily subsidised meals, they lose their seats at an election and are gifted a pension.
+
+How was it with us who are entitled to pensions and get a certain amount each month which hardly keeps us medically secure, leave along paying for our food. However, we are grateful for the amount that comes to us as recompense for work well done at least for 20 years, paltry though it be. And, how did we work then? Most were highly dedicated, competent, took pleasure and pride in our work, and actually earned our salaries and later, pensions. Not to mention honesty.
+
+...
+
+[Data](articles/fee79aa5.json)
+
+---
+
 ### ඌවට බරක් වූ සුපිරි වාහන වෙන්දේසියේ විකුණන්න යයි
 
 *2025-08-07 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213148) · `si`
@@ -399,6 +523,16 @@ President Dissanayake remarked that this visit would further strengthen the long
 ◼️
 
 [Data](articles/817635a7.json)
+
+---
+
+### Neuroscience of Core Buddhist Philosophy
+
+*2025-08-07 21:52:00* · [`islandlk`](http://island.lk/neuroscience-of-core-buddhist-philosophy/) · `en`
+
+...
+
+[Data](articles/2e470128.json)
 
 ---
 
@@ -1611,157 +1745,5 @@ He became nominal president after the incumbent Win Myint was arrested during th
 ...
 
 [Data](articles/b597472f.json)
-
----
-
-### වාහන ආනයනය ගැන ජනපතිගේ තීරණය
-
-*2025-08-07 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213129) · `si`
-
-වාහන ආනයනය සීමා නොකරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-පාර්ලිමේන්තුවේදී ආර්ථිකය සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් සිදුකරමින් ජනාධිපතිවරයා මේ බව සඳහන් කරයි.
-
-ඊයේ (06) දිනය වනවිට වාහන ආනයනය සඳහා ඩොලර් මිලියන 1,267ක ණයවර ලිපි විවෘත කර ඇතැයි ද එය මේ වසර අවසානය වනවිට ඩොලර් මිලියන 1500 - 1800ත් අතර ප්‍රමාණයකින් ණයවර ලිපි විවෘත කරනු ඇතැයි පුරෝකතනය කරන බවත් ජනාධිපතිවරයා මෙහිදී පැවසීය.
-
-එමෙන්ම වාහන සඳහා කිසිදු ආකාරයකින් බදු වැඩිකිරීමක් ඉදිරියේදී සිදුනොකරන බව ද ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
-
-"ඒක 2022 ආර්ථිකයට තිබූ බලපෑමක් නෙමෙයි. 2023 ඒ බර ආවේ නෑ. 2024 ඒ බර ආවේ නෑ. හැබැයි අපි ඒ බර අරන් තියෙනවා. අපි දන්නවා අපේ රටේ අවුරුදු 15 - 20 පරණ වාහන තියෙනවා. ඒවට දුවන්න බෑ. නඩත්තු වියදම් වැඩියි. වාහන කියන්නෙත් කර්මාන්තයක්. ඒ නිසා රටේ ආර්ථිකයට අපි ඒක සම්බන්ධ කරගන්න ඕනේ. අපිට විශාල ආදායම් ප්‍රබවයක්.
-
-...
-
-[Data](articles/6df90c50.json)
-
----
-
-### கிளிநொச்சியில் தோட்டாக்கள் மீட்பு
-
-*2025-08-07 13:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-தோட்டாக்கள்-மீட்பு/175-362511) · `ta`
-
-கிளிநொச்சி புது முறிப்பு விக்னேஸ்வரா வித்தியாலயம் அருகாமையில் வியாழக்கிழமை (07) அன்று காலை 9 மணியளவில் கிளிநொச்சி பொலிஸாரால் அதிகளவான தோட்டாக்கள் மீட்கப்பட்டுள்ளது.
-
-சந்தேகத்திற்கிடமாக தோட்டாக்கள் அதிகளவு சிதறி காணப்பட்டதுடன் அதனை அவதானித்த பாடசாலை சமூகம்உடனடியாக கிளிநொச்சி பொலிஸார் மற்றும் இராணுவத்தினருக்கு அறிவித்துள்ளனர்.
-
-அதனைதொடர்ந்து சம்பந்தப்பட்ட இடத்திற்கு வருகைதந்தபொலிஸார் இராணுவம் சிதறிகாணப்பட்ட தோட்டாக்களை மீட்கும் பணியினை பாதுகாப்பான முறையில் மேற்கொண்டு உள்ளனர்  தொடர்ந்து 11மணியளவில் 150ற்குமேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டதுடன் இச்சம்பவம் தொடர்பாக மேலதிகவிசாரணைகளை கிளிநொச்சி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/6937e83c.json)
-
----
-
-### அமெரிக்காவுடன்  இறுதி செய்யவில்லை: ஜனாதிபதி
-
-*2025-08-07 13:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அமெரிக்காவுடன்-இறுதி-செய்யவில்லை-ஜனாதிபதி/150-362510) · `ta`
-
-அமெரிக்காவுடன் எந்தவொரு விஷயத்திலும் இலங்கை இறுதி உடன்பாட்டை எட்டவில்லை அல்லது எந்த ஒப்பந்தங்களிலும் கையெழுத்திடவில்லை என்று ஜனாதிபதி அனுரகுமார திசாநாயக்க,  இன்று (07) தெரிவித்தார்.
-
-பாராளுமன்றத்தில் சிறப்பு உரையாற்றிக்கொண்டிருக்கும் ஜனாதிபதி, இரு தரப்பினரும் சில விஷயங்களில் உடன்பாடுகளுக்கு வந்திருந்தாலும், இறுதி உடன்பாடு எட்டப்படவில்லை என்றார்.
-
-இருப்பினும், பேச்சுவார்த்தைகளின் விளைவாக, வரி 44 சதவீதத்திலிருந்து 20 சதவீதமாகக் குறைக்கப்பட்டது என்றும், இது அமெரிக்காவுடன் எட்டப்பட்ட பேச்சுவார்த்தைகளில் ஒரு முக்கிய விளைவாகும் என்றும் ஜனாதிபதி கூறினார்.
-
-◼️
-
-[Data](articles/0202ec51.json)
-
----
-
-### අමෙරිකානු තීරු බදු අඩු කරගැනීම ගැන අවසන් එකඟතාවයක් නෑ -ජනපති
-
-*2025-08-07 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213128) · `si`
-
-අමෙරිකාව සහ ශ්‍රී ලංකාව අතර බදු ප්‍රතිපත්තිය සම්බන්ධයෙන් කිසිදු අවසන් එකඟතාවයක් ගෙන නොමැති බවත් ඒ සඳහා ගිවිසුමකට එළැඹ නොමැති බව ද ජනාධිපතිවරයා සඳහන් කරයි.
-
-එමෙන්ම අමෙරිකාව, ශ්‍රී ලංකාවෙන් ආනයනය කරනු ලබන භාණ්ඩ මත පැනවූ අනෝන්‍ය තීරු බදු ප්‍රතිශතය සියයට 20 දක්වා අඩුකර ගැනීමට සමත් වූ බවත් එය ඉදිරියේදී තවදුරටත් අඩුකරගැනීමට සාකච්ඡා කරමින් සිටින බව ද ජනාධිපතිවරයා අවධාරණය කළේය.
-
-රටේ ආර්ථික තත්ත්වය පිළිබඳ පාර්ලිමේන්තු විවාදය අතරතුර පාර්ලිමේන්තුවට පැමිණි ජනාධිපතිවරයා සභාව අමතමින් මේ බව කියා සිටියේය.
-
-මෙතෙක් පැවති සාච්ඡාවලදී යම් යම් එකඟතාවයන්ට පැමිණ ඇති බවත් එහි ප්‍රතිඵලයක් ලෙස මෙලෙස බදු ප්‍රතිශතය 20% දක්වා අඩුකර ගැනීමට හැකිවූ බවද සඳහන් කළ ජනාධිපතිවරයා වැඩිදුරටත් මෙලෙස අදහස් දැක්වීය.
-
-...
-
-[Data](articles/0d14f346.json)
-
----
-
-### No agreement finalized to reduce US tariff on Sri Lanka – President
-
-*2025-08-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111261/no-agreement-finalized-to-reduce-us-tariff-on-sri-lanka-president) · `en`
-
-The President made this statement while addressing Parliament during a parliamentary debate on the country’s economic situation.
-
-He further stated that certain agreements had been reached during the discussions held so far, and as a result, the tariff rate has been reduced to 20%.
-
-“We get 44% based on our Trade deficit. That is their principle. We consider reducing it from 44% to 20% as an important outcome of the discussions and the agreement between them and us,” President Dissanayake noted.
-
-He also added, “if you were expecting a collapse of the economy based on the U.S. tax policy that is over now. There is still no final agreement. We had 20%. We are still trying, and we have started discussions, to see if we can reduce that 20%. That is the decision we have to make as a country.”
-
-Meanwhile, the President also refuted rumours of restrictions on vehicle imports, assuring that there will be no change in the importation policy.
-
-...
-
-[Data](articles/9e893dd2.json)
-
----
-
-### அமெரிக்க வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் கைச்சாத்திடப்படவில்லை : பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம் என்கிறார் ஜனாதிபதி
-
-*2025-08-07 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/222037) · `ta`
-
-அமெரிக்க பரஸ்பர தீர்வை வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் இதுவரையில் கைச்சாத்திடப்படவில்லை எனவும் இது தொடர்பில் விரிவான பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோமென ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
-
-பாராளுமன்ற அமர்வில் இன்று வியாழக்கிழமை (07) கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
-
-பொருளாதாரம் பாதிக்கப்படும் மீண்டும் நெருக்கடி ஏற்படும் என்ற கனவை மறந்து விடுங்கள். இடைக்கால ஜனாதிபதி என்பதொன்று ஏற்படாது. மாற்று வழியில் அரசியல் செய்யுங்கள் என்பதை எதிர்க்கட்சிகளுக்கு குறிப்பிட்டுக் கொள்கிறேன்.
-
-சர்வதேச நாணய நிதியத்தின் வரைபுக்கமைய பொருளாதார மீட்சிக்கான நடவடிக்கைகள் செயற்படுத்தப்படும். அத்துடன் அமெரிக்க பரஸ்பர தீர்வை வரி விவகாரத்தில் எவ்வித இறுதி ஒப்பந்தங்களும் இதுவரையில் கைச்சாத்திப்படவில்லை என்பதுடன் இது தொடர்பில் விரிவான பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம்.
-
-◼️
-
-[Data](articles/b5880d00.json)
-
----
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-07 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222039) · `ta`
-
-இன்று வியாழக்கிழமை (07) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/d009a74d.json)
-
----
-
-### கிரிபத்கொடையில் குஷ், ஹேஷ் போதைப்பொருட்களுடன் இருவர் கைது!
-
-*2025-08-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/222034) · `ta`
-
-கிரிபத்கொடை பொலிஸ் பிரிவில் குஷ் மற்றும் ஹேஷ் போதைப்பொருட்களுடன் இளைஞர்கள் இருவர் புதன்கிழமை (6) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-கிரிபத்கொடையில் பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட இரு சுற்றிவளைப்பு நடவடிக்கைகளின் போதே இளைஞர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்கள், களனி மற்றும் கடவத்தை பகுதிகளைச் சேர்ந்த 24 வயதுடையவர்கள் ஆவர்.
-
-சந்தேக நபர்களிடம் இருந்து, 528 கிராம் 710 மில்லிகிராம் குஷ் போதைப்பொருள்,   01 கிலோகிராம் 141 கிராம் 12 மில்லிகிராம் ஹேஷ் போதைப்பொருன் மற்றும் ரூபா.1,250,000 பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டன.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக கிரிபத்கொடை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/ef9adb4f.json)
-
----
-
-### President arrives in Parliament
-
-*2025-08-07 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111260/president-arrives-in-parliament) · `en`
-
-President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
-
-◼️
-
-[Data](articles/56347116.json)
 
 ---

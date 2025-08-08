@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 21:07:06**
+As of **2025-08-08 21:21:41**
 
 ## Newspaper Stats
 
-*Scraped **69,456** Articles*
+*Scraped **69,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 4,240
 economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,690
+adalk | 6,691
 adaderanalk | 8,633
 tamilmirrorlk | 10,158
 virakesarilk | 11,557
-adaderanasinhalalk | 11,967
+adaderanasinhalalk | 11,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,456 articles have been extended.
+61,973 (89.2%) of 69,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### ට්‍රම්ප්ගේ තර්ජන මැද්දේ මෝදි සහ පුටින් සාකච්ඡාවක
+
+*2025-08-08 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213179) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහ රුසියානු ජනාධිපති ව්ලැඩ්මීර් පුටින් අතර දුරකථන සාකච්ඡාවක් සිදුව ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ තීරුබදු නිවේදන මගින් ඇතිකරන ලද ගෝලීය වෙළෙඳ අවිනිෂ්චිතතා මධ්‍යයේ මෙම සාකච්ඡා පැවති බවය.
+
+කෙසේ නමුත් අදාළ සාකච්ඡාවෙන් පසු සිය X ගිණුමේ සටහනක් තබමින් ඉන්දීය අග්‍රාමාත්‍යවරයා සඳහන් කර ඇත්තේ තමන් රුසියානු ජනාධිපති ව්ලැඩ්මීර් පුටින් සමග දුරකථන සංවාදයක නිරත වූ බවය.
+
+එමෙන්ම තමන් රුසියානු ජනාධිපතිවරයා සමග සාකච්ඡා කළ බවත් දෙරට අතර ද්විපාර්ශ්වික න්‍යාය පත්‍රයේ ප්‍රගතිය සම්බන්ධව සමාලෝචනයක්ද මෙහිදී සිදුකළ බවත් ඔහු සිය X සටහන මගින් සඳහන් කර තිබේ.
+
+එමෙන්ම ඉන්දු - රුසියා විශේෂ සහ වරප්‍රසාදිත උපායමාර්ගිත හවුල්කාරිත්වය තවදුරටත් ගැඹුරු කිරීමටද මෙමගින් තහවුරු කළ බවත් ඉන්දීය අග්‍රමාත්‍යවරයා සිය X ගිණුමේ වැඩිදුරටත් සටහන් කර ඇත.
+
+තවද යුක්‍රේන - රුසියා ගැටුම සාමකාමීව විසඳා ගැනීම සඳහා ඉන්දියාවේ ස්ථාවරයද මෙහිදි ඉන්දීය අග්‍රාමාත්‍යවරයා විසින් රුසියානු ජනාධිපතිවරයා හමුවේ පවසා තිබේ.
+
+...
+
+[Data](articles/2a43e31b.json)
+
+---
 
 ### தற்பாதுகாப்புக்காக பொலிஸார் நடத்திய துப்பாக்கிச் சூடு
 
@@ -212,6 +234,22 @@ The review covered Sri Lanka’s capacities and progress in cancer management si
 
 ---
 
+### කළුතර ප්‍රා සභාවේ වැටුප් වලින් රු. කෝටි තුනක් වංචා කළ වැටුප් ලිපිකානිය හා රියදුරෙක් අල්ලයි
+
+*2025-08-08 18:57:38* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-ප්‍රා-සභාවේ-වැටුප්-වලින්-රු--කෝටි-තුනක්-වංචා-කළ-වැටුප්-ලිපිකානිය-හා-රියදුරෙක්-අල්ලයි/11-417799) · `si`
+
+කළුතර ප්‍රාදේශීය සභාවේ සේවකයන් ගේ වැටුප් වලින් වසර හතරකට ආසන්න කාලයක් තිස්සේ රුපියල් කෝටි  තුනකට ආසන්න මුදලක් වංචා කළ බව කියන එම ප්‍රාදේශීය සභාවේ හිටපු කාර්ය භාර නිළධාරි මෙන්ම වැටුප් ලිපිකාරිනි ලෙස කටයුතු කළ කාන්තාවක්  සහ ඊට අනුබල දී ඇති බව කියන රියදුරකු අත්අඩංගුවට ගත් බව කළුතර විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකාරිය කළුතර බෝමුවල ප්‍රදේශයේ පදිංචි 45 වියේ සහ සැකකාර රියදුරු වාද්දුව ප්‍රදේශයේ පදිංචි 54 වියේ පසුවන අයෙකු බව පොලිසිය කීය. මෙම සැකකාරිය වසර කීපයක් මුළුල්ලේ මාස් පතා කළුතර ප්‍රාදේශීය සභා කාර්ය මඩුල්ලේ වැටුප් සැකසීමේදී ලක්ෂ තුනක් හතරක් අතරක මුදලක් මෙලෙස ඇයගේ සහ රියදුරකුගේ ගිණුම්වලට ඉතා සූක්ෂම ලෙස ගිණුම් ගත කරගෙන ඇති බව කළ පරීක්‍ෂණවලින් අනාවරණය වී තිබේ. මෙම වංචාව අනාවරණය වීමත් සමඟ ආයතන මට්ටමින් සැකකාර සේවකයන් දෙදෙනාගේ වැඩ තහනම් කර තිබේ.
+
+කළුතර ප්‍රාදේශීය සභාවේ ලේකම් එරංග දේවපුර මහතා විසින් කල පැමිණිල්ලක් මත දීර්ඝ විමර්ශනයකින් පසු සැකකරුවන්  අද අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/029394ef.json)
+
+---
+
 ### ඊශ්‍රායලයට ආයුධ සැපයීම ජර්මනිය අත්හිටුවයි
 
 *2025-08-08 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213175) · `si`
@@ -259,8 +297,6 @@ Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel 
 අත්අඩංගුවට ගත් සැකකාරිය කළුතර බෝමුවල ප්‍රදේශයේ පදිංචි 45 හැවිරිදි කාන්තාවක් වන අතර සැකකාර රියදුරු වයස අවුරුදු 54ක් වන වාද්දුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
 
 කළුතර ප්‍රාදේශීය සභාවේ ලේකම්වරයා විසින් කළ පැමිණිල්ලක් මත  සිදු කළ දීර්ඝ විමර්ශනයකින් පසුව මෙම සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
-
-මෙම වංචාව සම්බන්ධයෙන් අනාවරණය වීමෙන් පසු ඔවුන්ගේ වැඩ තහනමකට ලක් කර තිබූ අතර සැකකරුවන් කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
 
 ◼️
 
@@ -1797,37 +1833,5 @@ The opening ceremony was graced by Sony Sri Lanka Country Manager, Thomas Sim, a
 ...
 
 [Data](articles/e93feacb.json)
-
----
-
-### SLT-MOBITEL renews unwavering devotion to sacred Sri Dalada Maligawa extending decade-long ICT partnership
-
-*2025-08-07 23:34:00* · [`islandlk`](http://island.lk/slt-mobitel-renews-unwavering-devotion-to-sacred-sri-dalada-maligawa-extending-decade-long-ict-partnership/) · `en`
-
-Preserving Sri Lanka’s cultural heritage and advancing digital transformation, SLT-MOBITEL, the National ICT solutions provider, has extended its partnership with the Kandy Sri Dalada Maligawa, as the official ICT Service Provider for the 10th consecutive year.
-
-Consistently supporting the Sri Dalada Maligawa throughout the decade, the enduring partnership, highlights SLT-MOBITEL’s deep-rooted commitment to delivering seamless cutting-edge technology to one of Sri Lanka’s most revered religious and cultural institutions.
-
-As part of the ongoing collaboration, SLT-MOBITEL will provide the Sacred Temple with free, fibre-powered high-speed internet, PEO TV, and voice services powered by SLT-MOBITEL’s advanced fibre network, completely free of charge.
-
-These state-of-the-art services empower and equip the Temple’s media centre to broadcast sacred religious ceremonies and cultural content seamlessly to devotees across the globe.
-
-...
-
-[Data](articles/33fd0f38.json)
-
----
-
-### Impact of US tariff issue on India beginning to tell on local bourse
-
-*2025-08-07 23:33:00* · [`islandlk`](http://island.lk/impact-of-us-tariff-issue-on-india-beginning-to-tell-on-local-bourse/) · `en`
-
-The CSE kicked off in a positive manner at the outset yesterday but later indicated some sluggishness as investors were cautious over the impact on India of the US tariff issues. This is so because India is one of Sri Lanka’s main trading partners, stock market analysts said.
-
-Both indices pointed to mixed reactions. The All Share Price Index went up by 24.5 points while S and P SL20 declined by 2.6 points. Turnover stood at Rs 3.26 billion with one crossing. The crossing was reported in Prime Lands, which crossed two million shares to the tune of Rs 39 million; its shares traded at Rs 19.50.
-
-...
-
-[Data](articles/8af91d84.json)
 
 ---

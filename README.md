@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 21:33:51**
+As of **2025-08-08 21:48:40**
 
 ## Newspaper Stats
 
-*Scraped **69,458** Articles*
+*Scraped **69,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,633
-tamilmirrorlk | 10,158
+tamilmirrorlk | 10,159
 virakesarilk | 11,557
 adaderanasinhalalk | 11,968
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,458 articles have been extended.
+61,973 (89.2%) of 69,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### குளவி தாக்குதலில் தொழிலாளி உயிரிழப்பு
+
+*2025-08-08 21:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-தாக்குதலில்-தொழிலாளி-உயிரிழப்பு/76-362564) · `ta`
+
+நோர்வூட் - ஓல்டன் தேயிலைத் தோட்டத்தின் கிங் கோரா பிரிவில் வசிக்கும் 36 வயதுடைய தோட்டத் தொழிலாளி ஒருவர் குளவி தாக்குதலுக்கு உள்ளாகி உயிரிழந்துள்ளார்.
+
+இவர் தனது வீட்டிற்கு குடிநீர் வழங்கும் உடைந்த குழாயை சரிசெய்யச் சென்றபோது அந்த நபர் குளவி தாக்குதலுக்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+சம்பவத்தை அடுத்து, உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆதார வைத்தியசாலையில் உள்ள மருத்துவ பரிசோதகர் அலுவலகத்திற்கு அனுப்பப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a91c9458.json)
+
+---
 
 ### ට්‍රම්ප්ගේ තර්ජන මැද්දේ මෝදි සහ පුටින් සාකච්ඡාවක
 
@@ -1819,19 +1835,5 @@ The session united seasoned leadership expertise with authentic Gen Z perspectiv
 ...
 
 [Data](articles/62a103b1.json)
-
----
-
-### CameraLK expands to the Eastern Province with the grand opening of its latest showroom in Batticaloa
-
-*2025-08-07 23:38:00* · [`islandlk`](http://island.lk/cameralk-expands-to-the-eastern-province-with-the-grand-opening-of-its-latest-showroom-in-batticaloa/) · `en`
-
-CameraLK, Sri Lanka’s leading camera retail giant, marked another milestone with the grand opening of its newest showroom in Batticaloa, bringing world-class photography and videography gear to the Eastern Province. This expansion underscores CameraLK’s strategic vision to cater to a wider audience of photography enthusiasts and professionals across Sri Lanka.
-
-The opening ceremony was graced by Sony Sri Lanka Country Manager, Thomas Sim, alongside Anushka Gunasinghe, Managing Director of CameraLK, and several staff members and well-wishers.
-
-...
-
-[Data](articles/e93feacb.json)
 
 ---

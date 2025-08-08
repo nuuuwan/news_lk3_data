@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 23:32:13**
+As of **2025-08-08 23:50:05**
 
 ## Newspaper Stats
 
-*Scraped **69,478** Articles*
+*Scraped **69,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,635
 tamilmirrorlk | 10,160
-virakesarilk | 11,571
+virakesarilk | 11,574
 adaderanasinhalalk | 11,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,478 articles have been extended.
+61,973 (89.2%) of 69,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### யாழ். போதனா வைத்தியசாலையில் பரிதாபமாக உயிரிழந்த 16 வயது மாணவி!
+
+*2025-08-08 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222142) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வெள்ளிக்கிழமை (8) அதிகாலை மாணவி ஒருவர் உயிரிழந்துள்ளார்.  அச்சுவேலி சரஸ்வதி மகா வித்தியாலயத்தில் தரம் 11இல் கல்வி பயிலும் சந்திரானந்தன் வர்ணயா (வயது 16) என்ற மாணவியே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த மாணவிக்கு காய்ச்சல் ஏற்பட்ட நிலையில் கடந்த மாதம் 5-ம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக சேர்ப்பித்தனர். வைத்தியசாலையில் சேர்ப்பித்து சில தினங்களில் குறித்த மாணவி மயக்க நிலையை அடைந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். கிருமித் தொற்று காரணமாக மரணம் சம்பவித்துள்ளதாக உடற்கூற்று பரிசோதனைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/ca20d941.json)
+
+---
+
+### யாழில் இடம்பெற்ற கோர விபத்தில் இளைஞர் உயிரிழப்பு!
+
+*2025-08-08 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222141) · `ta`
+
+யாழில் வியாழக்கிழமை (7) இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞர் ஒருவர் உயிரிழந்துள்ளதுடன் அவருடன் சென்ற மற்றொரு இளைஞர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறார். ஆவரங்கால் மேற்கு, புத்தூர் பகுதியைச் சேர்ந்த பரிஷ்ணன் அஜய் (வயது 20) என்ற இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+புத்தூர் கலைமதி விளையாட்டு மைதானத்தில் நடைபெற்ற கரப்பந்தாட்டத்தை பார்த்துவிட்டு குறித்த இரண்டு இளைஞர்களும் மோட்டார் சைக்கிளில் வந்துகொண்டிருந்தனர்.
+
+இதன்போது பருத்தித்துறை வீதி, புத்தூர் சந்திக்கு அருகாமையில் இருந்த மின்கம்பத்துடன் மோட்டார் சைக்கிள் மோதி இந்த விபத்து சம்பவித்துள்ளது.
+
+இதன்போது இருவரையும் அச்சுவேலி வைத்தியசாலைக்கு கொண்டு சென்றவேளை குறித்த இளைஞன் அங்கேயே உயிரிழந்தார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/a457bdb9.json)
+
+---
+
+### யாழில் இனந்தெரியாத நபர் ஒருவரது சடலம் மீட்பு!
+
+*2025-08-08 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/222140) · `ta`
+
+யாழ். இந்திய துணை தூதரகத்திற்கு அண்மையில் வெள்ளிக்கிழமை (8) உள்ள குளத்தில் இருந்து ஆணொருவரது சடலம் ஒன்று மீட்கப்பட்டுள்ளது.
+
+சடலமாக மீட்கப்பட்டவர் யார் என இதுவரை அடையாளம் காணப்படவில்லை. அவர் வெள்ளை, சிவப்பு மற்றும் கறுப்பு ஆகிய வர்ணங்களிலான பெட்டி போட்ட சட்டையை அணிந்திருந்ததாக தெரிவிக்கப்படுகிறது. அத்துடன் அவரது துவிச்சக்கர வண்டி குளத்திற்கு வெளியே காணப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+சடலம் மீட்கப்பட்டு யாழ்ப்பாணம் போதன் வைத்தியசாலையில் வைக்கப்பட்டுள்ளது. மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிரேம்குமார் மேற்கொண்டார்.
+
+சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில் சடலத்தை இனங்காட்டுமாறு கோரிக்கை முன்வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c4a89e8c.json)
+
+---
 
 ### எதிர்கால சந்ததியினரை இயந்திரமயப்படுத்தும் வகையில்  சீர்திருத்தங்கள் சிறந்தவையல்ல - திஸ்ஸ அத்தநாயக்க
 
@@ -1823,51 +1875,5 @@ The Grand Randoli Perahera is scheduled to leave at 1:18 a.m. tomorrow from the 
 ◼️
 
 [Data](articles/a257f2ff.json)
-
----
-
-### අදත් හවසට තද වැසි
-
-*2025-08-08 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213149) · `si`
-
-බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් නුවරඑළිය, මහනුවර, පුත්තලම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් මඩකලපුව සහ අම්පාර දිස්ත්‍රික්කවලත් ප.ව. 1න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/afa05571.json)
-
----
-
-### Several spells of showers expected in various parts of the island today
-
-*2025-08-08 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111275/several-spells-of-showers-expected-in-various-parts-of-the-island-today-) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa and Northern provinces and in the Nuwara-Eliya, Kandy, Puttalam, Galle and Matara districts today (08), the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Batticaloa and Ampara districts after 1.00 p.m., the Met. Department added.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/a161e938.json)
-
----
-
-### ‘Unsilenced’: Neelan Tiruchelvam revisited
-
-*2025-08-08 05:42:27* · [`dailyftlk`](https://www.ft.lk/columns/Unsilenced-Neelan-Tiruchelvam-revisited/4-780059) · `en`
-
-The life, and violent death, of Neelan Tiruchelvam is the subject of a new documentary by young Canadian Tamil director Pitasanna Shanmugathas. Its title is apt. In life Tiruchelvam was silenced in July 1999 by the LTTE suicide bomber who threw himself onto the eminent Sri Lankan Tamil lawyer turned politician’s car close to his Colombo office.
-
-Both before and since that grimly characteristic Tiger response to opponents, real and imagined, Shanmugathan suggests, there have been other silences around Tiruchelvam. During his life, resolute espousal of a pluralistic, equity-based approach to resolving Sri Lanka’s ethnic conflict won Tiruchelvam’s many friends but also plenty of enemies, and on both sides of the ethnic divide.
-
-...
-
-[Data](articles/9eef14b3.json)
 
 ---

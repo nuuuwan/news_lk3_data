@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 20:22:35**
+As of **2025-08-08 20:34:36**
 
 ## Newspaper Stats
 
-*Scraped **69,451** Articles*
+*Scraped **69,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,690
-adaderanalk | 8,630
+adaderanalk | 8,632
 tamilmirrorlk | 10,156
 virakesarilk | 11,557
 adaderanasinhalalk | 11,967
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,967
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,451 articles have been extended.
+61,973 (89.2%) of 69,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,11 +38,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මිරිස් ඇතුළු කල් ඉකුත් වූ කුළුබඩුවල දවටන ඉවත්කර ඒවා නැවත වෙළෙඳපොළට නිකුත් කරන ජාවාරමක් සම්බන්ධයෙන් අද දෙරණ උකුස්සාට තොරතුරු වාර්තා විය.
 
-නමුත් මුදලට ගිජු වී කන බොන ආහාරවලට පවා වස විස එකතු කරන කූඨ ජාවාරම්කරුවන් අද සාමාජය බහුලව පවතියි.
+නමුත් මුදලට ගිජු වී කන බොන ආහාරවලට පවා වස විස එකතු කරන කූඨ ජාවාරම්කරුවන් අද සාමාජය බහුලය.
 
 ඒ ආකාරයෙන් කල් ඉකුත් වූ මිරිස්කුඩු ඇතුළු කුළුබඩුවල දවටන ඉවත් කර ඒවා නැවත වෙළෙඳපොළට නිකුත් කරන ජාවාරමක් සම්බන්ධයෙන් පන්නල ප්‍රදේශයෙන් අද දෙරණ උකුස්සාට තොරතුරු වාර්තා විය.
 
-මෙම ජාවාරම්කරු මෙලෙස කල් ඉකුත් වූ මිරිස් කුඩු නැවත ඇසුරුම් කර තොග වශයෙන් වෙළෙඳුන්ට ලබාදෙන බවට තොරතුරු ලැබුණ හෙයින් අද දෙරණ උකුස්සා උපාය දූතයෙකු මාර්ගයෙන් ජාවාරම්කරු සම්බන්ධ කර ගැණුනි.
+මෙම ජාවාරම්කරු මෙලෙස කල් ඉකුත් වූ මිරිස් කුඩු නැවත ඇසුරුම් කර තොග වශයෙන් වෙළෙඳුන්ට ලබාදෙන බවට තොරතුරු ලැබුණ හෙයින් අද දෙරණ උකුස්සා උපාය දූතයෙකු මාර්ගයෙන් ජාවාරම්කරු සම්බන්ධ කර ගත්තේය.
 
 ඒ අනුව ඔහු සමඟ ඇතිකරගත් එකඟතාව මත අද දෙරණ උකුස්සා එම කුළුබඩු මිලට ගැනීම සඳහා පන්නල බම්මින්න ප්‍රදේශයට ගියේ තොග වෙළෙඳෙකු ලෙස අඟවමිනි.
 
@@ -69,6 +69,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7fcf2532.json)
+
+---
+
+### Shooting incident reported in Kaduwela
+
+*2025-08-08 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111291/shooting-incident-reported-in-kaduwela) · `en`
+
+A shooting incident has been reported in the Kothalawala area in Kaduwela, a short while ago.
+
+◼️
+
+[Data](articles/a36aeed8.json)
 
 ---
 
@@ -129,6 +141,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/98e9cb97.json)
+
+---
+
+### Sri Lanka makes strides in prevention and care of cervical cancer
+
+*2025-08-08 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111290/sri-lanka-makes-strides-in-prevention-and-care-of-cervical-cancer) · `en`
+
+An international review has found that Sri Lanka has made strides in cancer control in the past five years, boosting vaccination against the human papillomavirus (HPV) and cervical cancer screening, and expanding access to treatment services and palliative care.
+
+The country now plans to address a growing burden of oral cancers and to reinforce childhood cancer programmes as part of its upcoming health strategy.
+
+The imPACT review, concluded in March 2025, was carried out jointly by the IAEA, the World Health Organization (WHO) and the International Agency for Research on Cancer (IARC), with technical engagement from St. Jude Children’s Research Hospital and the MD Anderson Cancer Center in the United States of America.
+
+The review covered Sri Lanka’s capacities and progress in cancer management since a previous assessment in 2019, which laid the groundwork for the National Strategic Plan on Prevention and Control of Cancer (2020-2024).
+
+...
+
+[Data](articles/99ebae60.json)
 
 ---
 
@@ -1795,37 +1825,5 @@ How was it with us who are entitled to pensions and get a certain amount each mo
 ...
 
 [Data](articles/d5ad073d.json)
-
----
-
-### ஆழ்கடல் மீன்வளத்தில் உயிரிழக்கும் மீனவர்களுக்கு நட்ட ஈடு ரூ.10 இலட்சமாக அதிகரிக்க நடவடிக்கை – அமைச்சர் சந்திரசேகர்
-
-*2025-08-07 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/222088) · `ta`
-
-இலங்கையிலிருந்து ஆழ் கடலில் மீன் பிடிக்கச் சென்று மரணமடையும் அல்லது பாதிக்கப்படும் மீனவர்களுக்கு நட்ட ஈடு வழங்கப்படும்.  அவ்வாறு மரணிக்கும் மீனவர்களுக்கு இதுவரை காலம் வழங்கப்பட்டு வந்த இரண்டு இலட்சம் ரூபா நட்ட ஈட்டை பத்து இலட்சமாக அதிகரிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது என கடற்றொழில் நீதியல் வள அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (7) வாய்மூல விடைக்கான கேள்விநேரத்தில் எம்.எஸ்.உதுமாலெப்பை எம்பி எழுப்பிய கேள்வியொன்றுக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
-
-அட்டாளைச்சேனை பகுதியிலிருந்து மீன் பிடிக்கச் சென்ற இரண்டு பேர் கடலில் அடித்துச் செல்லப்பட்டு ஒருவர் 130 நாட்களுக்குப் பின்னர் நாட்டுக்கு அழைத்து வரப்பட்டதாகவும் ஒருவர் மரணம டைந்ததாகவும் குறிப்பிட்டு அவர்களுக்கான நட்ட ஈடு தொடர்பில் கேள்வி எழுப்பினார். அவ்வாறு வழங்கப்படும் நட்ட ஈட்டுத் தொகை எவ்வளவு என்பதையும் அவர் வினவினார்.
-
-...
-
-[Data](articles/699edbb2.json)
-
----
-
-### மனிதப்புதைகுழி விவகாரம்: சட்ட மறுசீரமைப்புகளை மேற்கொள்ள நீதியமைச்சரிடம் வலியுறுத்தல்
-
-*2025-08-07 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222087) · `ta`
-
-மனிதப்புதைகுழி விவகாரம் தொடர்பில் சுயாதீனமானதும், பக்கச்சார்பற்றதும், பாதிக்கப்பட்ட தரப்பினரை மையப்படுத்தியதுமான செயன்முறைக்குத் துணையளிக்கக்கூடிய சட்ட மற்றும் கட்டமைப்பு ரீதியான மறுசீரமைப்புக்களை மேற்கொள்ளுமாறும், அவற்றின் இயலுமையை வலுப்படுத்துமாறும் நீதியமைச்சர் ஹர்ஷன நாணயக்காரவிடம் மாற்றுக்கொள்கைகளுக்கான நிலையம் வலியுறுத்தியுள்ளது.
-
-இதுகுறித்து மாற்றுக்கொள்கைகளுக்கான நிலையத்தின் நிறைவேற்றுப்பணிப்பாளர் கலாநிதி பாக்கிசோதி சரவணமுத்துவினால் நீதியமைச்சர் ஹர்ஷன நாணயக்காரவுக்கு அனுப்பிவைக்கப்பட்டுள்ள கடிதத்தில் மேலும் கூறப்பட்டிருப்பதாவது:
-
-இலங்கையில் உண்மை மற்றும் நீதியை உறுதிசெய்வதற்காக மேற்கொள்ளப்படவேண்டிய முக்கிய மறுசீரமைப்புக்கள் தொடர்பில் நாம் பல தசாப்தகாலமாக வலியுறுத்திவருகின்றோம். அந்தவகையில் மனிதப்புதைகுழிகள் தொடர்பில் சமகாலத்தில் முன்னெடுக்கப்பட்டுவரும் நடவடிக்கைகள் மற்றும் இலங்கையின் கடந்தகால வன்முறைகளுடன் தொடர்புடைய விவகாரங்கள் குறித்து விசேட கவனம் செலுத்தப்படவேண்டும்.
-
-...
-
-[Data](articles/750eba73.json)
 
 ---

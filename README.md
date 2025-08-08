@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 16:49:57**
+As of **2025-08-08 17:06:40**
 
 ## Newspaper Stats
 
-*Scraped **69,432** Articles*
+*Scraped **69,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,686
-adaderanalk | 8,628
+adaderanalk | 8,629
 tamilmirrorlk | 10,156
 virakesarilk | 11,551
-adaderanasinhalalk | 11,960
+adaderanasinhalalk | 11,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,432 articles have been extended.
+61,973 (89.3%) of 69,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### බඹර ප්‍රහාරයකින් පුද්ගලයෙකු ජීවිතක්ෂයට
+
+*2025-08-08 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213172) · `si`
+
+නෝර්වුඩ් පොලිස් වසමට අයත් ඕල්ටන් තේ වත්තේ වතු කම්කරුවෙකු බඹර ප්‍රහාරයකට ලක්ව ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙසේ මියගොස් ඇත්තේ නෝර්වුඩ් ඕලිටන් වතුයායේ කිංග් කෝරා කොටසේ පදිංචිව සිටි 36 හැවිරිදි පුද්ගලයෙකි.
+
+නිවසට පානිය ජලය ලබා ගන්නා බට නලයක් තේ වත්තේ කැඩී යාම නිසා එය අලුත්වැඩියා කිරිමට ගිය අවස්ථාවේ අදාළ පුද්ගලයා මෙම ප්‍රහාරයට ලක්ව ඇත.
+
+මළ සිරුර පශ්චාත් මරණ පරික්ෂණය සඳහා දික්ඔය මූලික රෝහලේ අධිකරණ ‍වෛද්‍යවරයා වෙත යාමු කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් නෝර්වුඩ් පොලිසිය පරික්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/2225aca2.json)
+
+---
 
 ### නීතිවිරෝධීව මැණිකක් විකිණීමට ගිය ප්‍රාදේශීය සභා මන්ත්‍රීවරයෙකු අත්අඩංගුවට
 
@@ -73,6 +91,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ffb48efd.json)
+
+---
+
+### Australia’s Governor-General discusses education, gender equality with PM Harini
+
+*2025-08-08 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111288/australias-governor-general-discusses-education-gender-equality-with-pm-harini) · `en`
+
+The Governor General of Australia Samantha Joy Mostyn, has paid a courtesy call on Prime Minister of Sri Lanka, Dr. Harini Amarasuriya at Temple Trees in Colombo.
+
+The meeting on Thursday (7) provided a meaningful opportunity to reaffirm the longstanding and friendly relations between Sri Lanka and Australia, according to the Prime Minister’s Media Division.
+
+The Prime Minister welcomed the Governor-General and highlighted the importance of building stronger cooperation between the two countries, especially in the areas of politics, the economy, and sports.
+
+She also shared an update on the ongoing education reforms in Sri Lanka aimed at improving access and quality.
+
+...
+
+[Data](articles/b990ae1e.json)
 
 ---
 
@@ -1777,41 +1813,5 @@ They were charged under Section 26C of the Anti-Trafficking in Persons and Anti-
 ◼️
 
 [Data](articles/b1959166.json)
-
----
-
-### වගාවන් 06ක් වෙනුවෙන් වගා හානි වන්දි රු.මි.1484ක් ගෙවලා
-
-*2025-08-07 19:02:55* · [`adalk`](https://www.ada.lk/breaking_news/වගාවන්-06ක්-වෙනුවෙන්-වගා-හානි-වන්දි-රු-මි-1484ක්-ගෙවලා/11-417791) · `si`
-
-භෝග වගාවන් 06 කට අදාළව 2024/2025 මහ කන්නයේ වගා හානි වන්දි වශයෙන් මෙම වසරේ රුපියල් මිලියන 1484 ගෙවා අවසන් කර තිබෙන බව කෘෂිකර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය සඳහන් කරයි.
-
-ගොවි ජනතාව වැඩි වශයෙන් වගා කිරීම සඳහා යොමු කිරීමේ පරමාර්ථය මත නොමිලේ වගා රක්ෂණ ක්‍රමවේදය යටතේ මෙම වගා හානි වන්දි පිරිනමා ඇති බවද පෙන්වා දෙයි.
-
-මේ යටතේ වී, බඩ ඉරිඟු, ලොකු ලූනු , අර්තාපල්, මිරිස්, සෝයා  වගාවන් සඳහා අක්කර 87690 වගා කළ ගොවීන් 74958 ක ප්‍රමාණයක් සඳහා අදාළ වන්දි මුදල ලබා දී ඇත.
-
-ඉහත වගාවන් සිදු කරන ගොවීන් හට නියඟය, ගංවතුර සහ වන අලින්ගෙන් සිදුවන හානිවලට ලක්වන අවස්ථා වලදී තම වගා බිම් හෙක්ටයාර් එකකට රු. 100,000/-ක උපරිමයකට යටත්ව වන්දි ගෙවීම සිදු කරනු ලැබේ.
-
-මෙම කෘෂි රක්ෂණ යෝජනා ක්‍රමයේ ඇති විශේෂත්වය වනුයේ කිසිදු වාරික මුදලක් අය කිරීමකින් තොරව ඉහත සඳහන් තත්ත්වයන්වලදී සිදුවන වගා හානිවලට වන්දි ගෙවීම වේ.
-
-◼️
-
-[Data](articles/ed7459f6.json)
-
----
-
-### පොලිස්පති ධුරයට ජනපතිගෙන් වැඩබලන පොලිස්පතිගේ නම
-
-*2025-08-07 18:59:16* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරයට-ජනපතිගෙන්-වැඩබලන-පොලිස්පතිගේ-නම/11-417790) · `si`
-
-නව පොලිස්පතිවරයා පත් කිරීම සම්බන්ධයෙන් තීරණයක් අද (07දා) රැස්වූ ව්‍යවස්ථාදායක සභාව ගෙන නොමැති අතර, ඒ පිළිබඳ තීරණය ලබන අඟහරුවාදා(12දා) ගැනීමට එහිදී තීරණය කර ඇති බව වාර්තාවේ.
-
-අද දිනයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පොලිස්පති ධූරය සඳහා වර්තමාන වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ නම එවා ඇති අතර, එම නම රැස්වීමේ අවසන් අවස්ථාවේ ලැබී ඇති බැවින් ඒ පිළිබඳ සාකච්ඡා කිරීම මීළඟ දිනයට ගැනීමට ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් තීරණය කර  ඇති බවද වාර්තා විය.
-
-කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතගේ ප්‍රධානත්වයෙන් ව්‍යවස්ථාදායක සභාව ඊයේ පාර්ලිමේන්තු සංකීර්ණයේදී රැස් විය.
-
-◼️
-
-[Data](articles/278c0768.json)
 
 ---

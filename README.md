@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 14:39:43**
+As of **2025-08-08 14:54:55**
 
 ## Newspaper Stats
 
-*Scraped **69,418** Articles*
+*Scraped **69,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,686
-adaderanalk | 8,625
+adaderanalk | 8,627
 tamilmirrorlk | 10,151
 virakesarilk | 11,550
 adaderanasinhalalk | 11,955
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,418 articles have been extended.
+61,973 (89.3%) of 69,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b0e6b515.json)
+
+---
+
+### Borella shooting death toll rises to two
+
+*2025-08-08 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111284/borella-shooting-death-toll-rises-to-two) · `en`
+
+Another individual has succumbed to injuries sustained in the shooting that occurred last night (07) near the Sahaspura Sirisara Housing Complex in Borella, police said.
+
+This brings the death toll from the incident to two, as one person had already died earlier this morning (08).
+
+According to police, the shooting was carried out at around 8:40 p.m. by two unidentified assailants who arrived on a motorcycle and opened fire on a group of youths using a T-56 assault rifle. The gunmen fled the area immediately after the attack.
+
+◼️
+
+[Data](articles/9225bac5.json)
 
 ---
 
@@ -195,6 +211,24 @@ For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° 
 ...
 
 [Data](articles/d44fed65.json)
+
+---
+
+### Truth about satellite launch and funding clear after 13 years – SupremeSAT chairman
+
+*2025-08-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111283/truth-about-satellite-launch-and-funding-clear-after-13-years-supremesat-chairman) · `en`
+
+Sri Lankan satellite operator SupremeSAT (Pvt.) Ltd. has welcomed the long-awaited public acknowledgment, after 13 years, confirming that the SupremeSAT satellite was successfully launched and that no government funds were used for the project.
+
+In an official statement, its Chairman R.M. Manivannan emphasized that these facts have been a matter of public record since 2012. However, politically motivated narratives have sought to deny them for over a decade.
+
+Despite this overdue recognition, certain individuals continue to make unfounded claims about the company, focusing particularly on the satellite’s location and SupremeSAT’s corporate accounts, he said.
+
+For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° East, precisely where it was positioned upon launch.
+
+...
+
+[Data](articles/d5ec4314.json)
 
 ---
 
@@ -1765,41 +1799,5 @@ Cambodian Defence Minister Tea Seiha emphasised the need to prevent further bloo
 ◼️
 
 [Data](articles/8794b63f.json)
-
----
-
-### කතරගම වාසනාට දළඳා මාළිගාවෙන් සම්මාන
-
-*2025-08-07 17:33:23* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-වාසනාට-දළඳා-මාළිගාවෙන්-සම්මාන/11-417784) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහර සඳහා දීර්ඝ කාලයක්  දායකත්වය දෙමින් අලංකාර කළ අලි ඇතුන් 27 දෙනෙකුට සම්මාන පළඳනාවන් පිළිගැන්වීමක් දළදා මාලිගා පරිශ්‍රයේදී පැවැත්විණි.
-
-එහිදී වසර 55කට අධික කාලයක් පෙරහර මංගල්‍යයට දායකවූ රුහුණු කතරගම දේවාලයේ වාසනා ඇතා සම්මානයෙන් පුද ලැබූ අතර ඊට සමගාමීව ඉතිරි අලි ඇතුන් සම්මානයට භාජනය විය.
-
-මෙම අවස්ථාවට පරිසර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳි මහතා ද සහභාගි විය.
-
-◼️
-
-[Data](articles/a19a3c6a.json)
-
----
-
-### ඇසළ පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර අද
-
-*2025-08-07 17:22:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇසළ-පෙරහැර-මංගල්‍යයේ-අවසන්-රන්දෝලි-පෙරහැර-අද/11-417783) · `si`
-
-ඓතිහාසික සෙංකඩගලපුර ඇසළ පෙරහැර මංගල්‍යෙයේ අවසන් රන්දෝලි පෙරහැර වීදි සංචාරය කිරීම අද (08) රාත්‍රීයේ යෙදෙන සුබ මොහොතින් සිදුවේ.
-
-රාත්‍රී 6.51 ට උතුරු දිශාභිමුඛව නාථ, විෂ්ණු, කතරගම සහ පත්තිනි යන සිව් මහා දේවාල  පෙරහැර සමඟින් පිටත්ව දළදා පෙරහැර වීදි සංචාරයට එක්වේ.
-
-දළදා වීදිය, යටිනුවර වීදිය, කන්දේ වීදිය, ඩී.එස්.සේනානායක වීදිය ඔස්සේ ගමන් කරන පෙරහැර රජ වීදියෙන් යළි ශ්‍රී දළදා මාලිගාව වෙත ගෙවදීම සිදු කෙරේ.
-
-අවසන් රන්දෝලි පෙරහැර වීදි සංචාරය කිරීමෙන් අනතුරුව පෙරහැර කරඩුව ඓතිහාසික ගෙඩිගේ රජ මහ විහාරයේ තැම්පත් කිරීම සිදුවන අතර අනතුරුව සිව් මහා දේවල ගැටඹේ දිය කපනා ගං තොටට පැමිණ පසුදින (09)  අළුයම දිය කැපීමේ චාරිත්‍රය ඉටු කරයි. පසුව ගණ දෙවි කෝවිලට පැමිණ පුද පූජා ඉටු කිරිම සිදු කරයි.
-
-ඉන් අනතුරුව එදින (09) ගණ දෙවි කෝවිලේ සිට පස්වරු 12.53 ට උතුරු දිශාභිමුඛව පිටත්ව ඓතිහාසික ගෙඩිගේ රජ මහ විහාර දක්වා පැමිණේ.
-
-...
-
-[Data](articles/474b0f67.json)
 
 ---

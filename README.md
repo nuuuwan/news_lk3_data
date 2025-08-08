@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 16:23:39**
+As of **2025-08-08 16:35:15**
 
 ## Newspaper Stats
 
-*Scraped **69,428** Articles*
+*Scraped **69,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,686
 adaderanalk | 8,628
-tamilmirrorlk | 10,153
+tamilmirrorlk | 10,154
 virakesarilk | 11,551
 adaderanasinhalalk | 11,959
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,428 articles have been extended.
+61,973 (89.3%) of 69,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### பம்பர குளவி கொட்டியதில் ஒருவர் மரணம்
+
+*2025-08-08 16:08:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பம்பர-குளவி-கொட்டியதில்-ஒருவர்-மரணம்/76-362559) · `ta`
+
+பம்பர குளவி கொட்டுக்கு இலக்கான நபரொருவர் வைத்திய சாலைக்கு கொண்டு சென்ற வேளையில் மரணமடைந்துள்ளார்
+
+குளவி கொட்டுக்கு இலக்கான மஸ்கெலியா, ஓல்ட்டன் தோட்ட கிங்கோரா பிரிவைச் சேர்ந்த 36 வயதான சிவா கனகரட்ணம் என்பவரே உயிரிழந்துள்ளார்.
+
+தான் வளர்க்கும் பசுவுக்கு புல் அறுத்துக்கொண்டு, குடிநீர் குழாய் செப்பனிட சென்ற வேளையில் அதி விஷமுள்ள பம்பர குளவி கொட்டுக்கு இலக்காகியுள்ளார்.
+
+அவரை,  டிக்கோயா -கிளங்கன் ஆதார வைத்தியசாலைக்கு கொண்டு சென்ற வேளையில் மரணித்துள்ளார்.
+
+இவரது உடலம் டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலையில் உள்ள சவ சாலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4a6e1bbd.json)
+
+---
 
 ### අපරාධ සඳහා යොමු නොවූ තරුණ පිරිස් අපරාධවලට නැඹුරු වීමේ ප්‍රවණතාවයක්
 
@@ -1787,19 +1807,5 @@ They were charged under Section 26C of the Anti-Trafficking in Persons and Anti-
 ...
 
 [Data](articles/3d42a176.json)
-
----
-
-### Sri Lanka’s official reserve up by 1% in July 2025
-
-*2025-08-07 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111270/sri-lankas-official-reserve-up-by-1-in-july-2025) · `en`
-
-Sri Lanka’s official reserve assets increased by 1% to USD 6.14 billion in July 2025, compared to USD 6.08 billion in June 2025, according to the Central Bank of Sri Lanka (CBSL).
-
-However, this figure includes proceeds from the swap arrangement with the People’s Bank of China (PBOC), which are subject to conditionalities on usability.
-
-◼️
-
-[Data](articles/9c0d4a29.json)
 
 ---

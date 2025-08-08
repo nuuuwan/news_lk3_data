@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 14:25:54**
+As of **2025-08-08 14:39:43**
 
 ## Newspaper Stats
 
-*Scraped **69,414** Articles*
+*Scraped **69,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 4,242
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,686
-adaderanalk | 8,623
+adaderanalk | 8,625
 tamilmirrorlk | 10,151
-virakesarilk | 11,549
-adaderanasinhalalk | 11,954
+virakesarilk | 11,550
+adaderanasinhalalk | 11,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,414 articles have been extended.
+61,973 (89.3%) of 69,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### ගාසා නගරය අත්පත් කර ගැනීමේ නෙත්යාහුගේ තීරණයට එරෙහිව රට පුරා විරෝධතා
+
+*2025-08-08 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213165) · `si`
+
+ඊශ්‍රායල ආරක්ෂක කැබිනට් මණ්ඩලය ගාසා නගරයේ පාලනය අත්පත් කර ගැනීමේ සැලැස්මක් අනුමත කර ඇති බව ඊශ්‍රායල අග්‍රාමාත්‍ය කාර්යාලය පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ආරක්ෂක කැබිනට් මණ්ඩලය බහුතර ඡන්දයෙන් මේ සඳහා අනුමැතිය ලැබී ඇති බවය.
+
+වසර දෙකකට ආසන්න කාලයක් ගාසා - ඊශ්‍රායල් යුද ගැටුම් පැවැති අතර මින් පෙර ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසා ඇත්තේ ගාසා තීරය මුළුමනින්ම අත්පත් කර ගැනීමට තමන්ට අවශ්‍ය බවය.
+
+කෙසේ වෙතත් ගාසා නගර අත්පත් කර ගැනීමේ මෙම තීරණයට විරුද්ධව ඊශ්‍රායල ජාතිකයින් රැසක් සිය විරෝධය දක්වා ඇති අතර රට පුරා විරෝධතා රැසක්ද මේ වන විටත් නිර්මාණය වී තිබේ.
+
+එමෙන්ම ලොව පුරා රටවල් රැසක්ද ඊශ්‍රායලයේ මෙම තීරණයට එරෙහිව අදහස් ප්‍රකාශ කර ඇති අතර එමගින් එම රටවල්වල රාජ්‍ය නායකයින් පවසා ඇත්තේ අදාළ තීරණයෙන් තවත් ලේ වැගිරීම් වැඩිවන බවය.
+
+එමෙන්ම හමාස් සංවිධානය විසින් ප්‍රාණ ඇපයට ගෙන ඇති ඊශ්‍රායල ජාතිකයින් අනතුරේ හෙලීමට ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු තීරණය බලපානු ඇති බවත් ප්‍රාණ ඇපකරුවන්ගේ ඥාතීන් රජයට චෝදනා කර තිබේ.
+
+...
+
+[Data](articles/62571e66.json)
+
+---
+
+### பொரளை துப்பாக்கிச் சூடு : காயமடைந்த மூன்று பேர் கவலைக்கிடம்
+
+*2025-08-08 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/222101) · `ta`
+
+பொரளை, சஹஸ்புரவில் உள்ள சிறிசர அடுக்குமாடி குடியிருப்பு வளாகத்திற்கு அருகில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டவர்களில் மூன்று பேரின் நிலை கவலைக்கிடமாக இருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+படுகாயமடைந்த மேலும் மூவர் தற்போது வைத்தியசாலையின் தீவிர சிகிச்சைப் பிரிவில் (ICU) சிகிச்சை பெற்று வருகிறார்கள். இந்த சம்பவத்தில் காயமடைந்த மற்றொரு நபரின் நிலை கவலைக்கிடமாக இல்லை.
+
+தீவிர சிகிச்சைப் பிரிவில் உள்ள மூவருக்கும் எதிர்காலத்தில் மேலதிகமாக அறுவை சிகிச்சைகள் செய்யப்படும் எனவும், அவர்களின் உடல்நிலை குறித்து தற்போது திட்டவட்டமாக எதுவம் கூற முடியாது எனவும் அவர் குறிப்பிட்டார்.
+
+பொரளை, சஹஸ்புர சிறிசர அடுக்குமாடி குடியிருப்பு வளாகத்திற்கு அருகில் நேற்று வியாழக்கிழமை (07) இரவு நடந்த துப்பாக்கிச் சூட்டில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஐந்து பேரில் ஒருவர் இன்று வெள்ளிக்கிழமை (08) உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/3c7ecf1e.json)
+
+---
 
 ### බොරැල්ලේ වෙඩි තැබීමෙන් තවත් පුද්ගලයෙකු මරුට
 
@@ -71,6 +111,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b9cf1a7b.json)
+
+---
+
+### குடும்பத் தகராறு ; மனைவியை கொலை செய்த கணவன்..!
+
+*2025-08-08 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222099) · `ta`
+
+அரலகங்வில, தியபெதும சந்தி பகுதியில் 40 வயதுடைய பெண்ணொருவர் குடும்ப தகராறினால் நேற்று வியாழக்கிழமை (07) இரவு அவரது கணவரால் கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மெதயெல்ல வாவி பகுதியைச் சேர்ந்த பெண்ணே கூர்மையான ஆயுதத்தால் தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
+
+இந்த கொலை சம்பவம்  நீண்டகால குடும்ப தகராறில் நடந்துள்ளதாக ஆரம்ப விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பெண்ணின் கணவர் என அடையாளம் காணப்பட்ட 48 வயதுடைய சந்தேகநபர் கைது செய்யப்பட்டார். அரலகங்வில பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/f750b1e7.json)
 
 ---
 
@@ -122,6 +180,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Truth about satellite launch and funding clear after 13 years – SupremeSAT chairman
+
+*2025-08-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111283/victory-achieved-by-dispelling-13-years-of-political-rumors-supremesat-chairman-) · `en`
+
+Sri Lankan satellite operator SupremeSAT (Pvt.) Ltd. has welcomed the long-awaited public acknowledgment, after 13 years, confirming that the SupremeSAT satellite was successfully launched and that no government funds were used for the project.
+
+In an official statement, its Chairman R.M. Manivannan emphasized that these facts have been a matter of public record since 2012. However, politically motivated narratives have sought to deny them for over a decade.
+
+Despite this overdue recognition, certain individuals continue to make unfounded claims about the company, focusing particularly on the satellite’s location and SupremeSAT’s corporate accounts, he said.
+
+For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° East, precisely where it was positioned upon launch.
+
+...
+
+[Data](articles/d44fed65.json)
+
+---
+
 ### குடும்பத் தகராறு ; மனைவியை கொலை செய்த கணவன்
 
 *2025-08-08 12:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்-தகராறு-மனைவியை-கொலை-செய்த-கணவன்/175-362556) · `ta`
@@ -135,6 +211,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1b8060c7.json)
+
+---
+
+### Deadline extended for 2025 A/L exam applications
+
+*2025-08-08 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111282/deadline-extended-for-2025-al-exam-applications) · `en`
+
+The deadline for submitting applications for the upcoming G.C.E. Advanced Level (A/L) examination has been extended.
+
+Applicants can now submit their applications online until midnight on August 12.
+
+Based on the 2024  re-scrutinized results, candidates who wish to apply for the 2025 G.C.E. Advanced Level Examination — and who were unable to do so during the previously allocated application period — are now granted the opportunity to submit their applications online.
+
+The Ministry of Education has issued a statement confirming that this grace period will not be extended further under any circumstances.
+
+The re-scrutinized results of the G.C.E. Advanced Level Examinations 2024 were released online yesterday (07), according to the Department of Examinations.
+
+◼️
+
+[Data](articles/8a51c484.json)
 
 ---
 
@@ -241,24 +337,6 @@ Police reported that one of the five hospitalised as a result of the shooting, w
 ...
 
 [Data](articles/1aa08e30.json)
-
----
-
-### குடும்பத் தகராறு ; கணவரால் 40 வயது மனைவி கொலை
-
-*2025-08-08 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222099) · `ta`
-
-அரலகங்வில, தியபெதும சந்தி பகுதியில் 40 வயதுடைய பெண்ணொருவர் குடும்ப தகராறினால் ஆகஸ்ட் மாதம் 7 ஆம் திகதி இரவு அவரது கணவரால் கொலை செய்யப்பட்டதாகக் கூறப்படுவதாக பொலிஸார் தெரிவித்தனர்.
-
-மெதயெல்ல வாவி பகுதியைச்  சேர்ந்த பாதிக்கப்பட்ட பெண், கூர்மையான ஆயுதத்தால் தாக்கப்பட்டதாக புலனாய்வாளர்கள் தெரிவித்தனர்.
-
-ஆரம்ப விசாரணையில் இந்த கொலை நீண்டகால குடும்ப தகராறில் நடந்ததாக தெரியவந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-பெண்ணின் கணவர் என அடையாளம் காணப்பட்ட 48 வயதுடைய சந்தேகநபர் கைது செய்யப்பட்டார். அரலகங்வில பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/f750b1e7.json)
 
 ---
 
@@ -1723,79 +1801,5 @@ Cambodian Defence Minister Tea Seiha emphasised the need to prevent further bloo
 ...
 
 [Data](articles/474b0f67.json)
-
----
-
-### Sri Lanka sells extra Rs8.2bn Treasury bills after auction
-
-*2025-08-07 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs8-2bn-treasury-bills-after-auction-235284/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 8,200 million rupees of treasury bills offered on tap at an average rate of 7.61 percent, 7.91 percent and 8.03 percent, the state debt office said.
-
-A total of 90.2 billion rupees in treasury bills was sold this week.
-
-On Wednesday (6) the debt office raised 82 billion rupees of 3, 6 and 12 month bills.
-
-◼️
-
-[Data](articles/51d8a2be.json)
-
----
-
-### Sri Lanka likely to exceed 2025 revenue target of Rs4.5 trillion: President
-
-*2025-08-07 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-likely-to-exceed-2025-revenue-target-of-rs4-5-trillion-president-235270/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2025 government revenue is likely to exceed the target 4.5 trillion rupees as the state income across the board has signaled more than expected performance, President Anura Kumara Dissanayake told the parliament.
-
-“I can tell you that for the first time in the history we might be able to exceed the revenue targets for this year, as per the signs we have as of now,” President Dissanayake told when he addressed the parliament.
-
-“The target of Inland Revenue Department has increased by 101 percent. We gave a target to the Customs. They exceeded the target and reached 115 percent of the target and Excise Department has exceeded the target and reached 105 percent and in the first seven months,” he said.
-
-Sri Lanka’s tax revenue has risen mainly due to expanding the tax nets and addressing the leakages in the tax income, experts say. (Colombo/August 7/2025)
-
-◼️
-
-[Data](articles/0d7e3e24.json)
-
----
-
-### Sri Lanka likely to exceed 2025 revenue target of Rs4.5 trillion: President
-
-*2025-08-07 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-likely-to-exceed-2025-revenue-target-of-rs-4-5-trillion-president-235270/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2025 government revenue is likely to exceed the target 4.5 trillion rupees as the state income across the board has signaled more than expected performance, President Anura Kumara Dissanayake told the parliament.
-
-“I can tell you that for the first time in the history we might be able to exceed the revenue targets for this year, as per the signs we have as of now,” President Dissanayake told when he addressed the parliament.
-
-“The target of Inland Revenue Department has increased by 101 percent. We gave a target to the Customs. They exceeded the target and reached 115 percent of the target and Excise Department has exceeded the target and reached 105 percent and in the first seven months,” he said.
-
-Sri Lanka’s tax revenue has risen mainly due to expanding the tax nets and addressing the leakages in the tax income, experts say. (Colombo/August 7/2025)
-
-◼️
-
-[Data](articles/6cd33303.json)
-
----
-
-### දිවයින පුරා විශේෂ මෙහෙයුමක්
-
-*2025-08-07 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213138) · `si`
-
-මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 838 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 20 දෙනෙකු හා වරෙන්තකරුවන් 675 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
-
-මත්ද්‍රව්‍ය හා පාතාල ක‍්‍රියාකාරකම් මර්ධනය කිරීම අරමුණු කර ගනිමින් ආරක්ෂක නිලධාරීන් 6,129කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර තිබේ.
-
-එහිදී පුද්ගලයන් 25,755 දෙනෙක්ද වාහන 10,602ක්ද යතුරු පැදි 7,998ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර ඇත.
-
-එමෙන්ම මෙම මෙහෙයුම් හරහා නීති විරෝධී ගිනි අවි 4ක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-බීමත් රියදුරන් 86ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය ඇතුළු රථවාහන වැරදි සම්බන්දයෙන් පුද්ගලයන් 3,828ක් සදහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/46612893.json)
 
 ---

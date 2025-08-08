@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 23:06:10**
+As of **2025-08-08 23:19:14**
 
 ## Newspaper Stats
 
-*Scraped **69,477** Articles*
+*Scraped **69,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,635
-tamilmirrorlk | 10,159
+tamilmirrorlk | 10,160
 virakesarilk | 11,571
 adaderanasinhalalk | 11,970
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,477 articles have been extended.
+61,973 (89.2%) of 69,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -849,6 +849,24 @@ She also shared an update on the ongoing education reforms in Sri Lanka aimed at
 ...
 
 [Data](articles/b990ae1e.json)
+
+---
+
+### மாணிக்கக்கல் விற்க முயன்ற பி.ச உறுப்பினர் கைது
+
+*2025-08-08 16:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்கக்கல்-விற்க-முயன்ற-பி-ச-உறுப்பினர்-கைது/76-362560) · `ta`
+
+குண்டசாலை பிரதேச சபையின் சமகி ஜன பலவேகய (SJB) உறுப்பினர் ஒருவரும் மேலும் இருவரும்  ரூ.500 மில்லியன் ரூபாய்க்கு இரத்தினக் கல்லை அனுமதியின்றி விற்க முயன்ற போது  நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+லபுகேலே பகுதியில் உள்ள ஒரு தங்குமிடத்தில் தங்கியிருந்த மூன்று சந்தேக நபர்களும், உரிமையாளருக்கு செழிப்பைத் தரும் என்று கூறி, ரத்தினக் கல்லை விற்கத் திட்டமிட்டிருந்தனர்.
+
+இருப்பினும், பொலிஸாருக்கு கிடைத்த ரகசிய தகவலின் பேரில், வருங்கால வாங்குபவர் போல் நடிக்கும் ஒரு ஏமாற்றுக்காரரை அனுப்பி, அவர் பேரம் பேசி ரத்தினக் கல்லின் விலையை ரூ.500 மில்லியனில் இருந்து ரூ.01 மில்லியனாகக் குறைத்தார்.
+
+ரத்தினக் கல் உண்மையான விலையுயர்ந்த கல்லா அல்லது போலியானதா என்பது குறித்து அறிக்கை பெற தேசிய ரத்தினக் கல் மற்றும் நகைகள் அதிகாரசபையிடம் பரிந்துரைக்கப்படும் என்று பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/9887390c.json)
 
 ---
 
@@ -1851,19 +1869,5 @@ Both before and since that grimly characteristic Tiger response to opponents, re
 ...
 
 [Data](articles/9eef14b3.json)
-
----
-
-### Need for clear official document to public on new educational reforms
-
-*2025-08-08 05:38:04* · [`dailyftlk`](https://www.ft.lk/opinion/Need-for-clear-official-document-to-public-on-new-educational-reforms/14-780058) · `en`
-
-This is the full text of a letter sent to Education Minister Dr. Harini Amarasuriya by the National Executive Committee of the People’s Struggle Alliance on the need for a clear official document to the public on the new educational reforms
-
-A controversial debate is currently underway about a serious reform that is going to be implemented in the school education system in Sri Lanka. The debate about these new reforms has arisen in a backdrop where the current NPP Government has not presented a proper clear official document on the matter. Such reforms have been presented from time to time over the past few decades, and no matter how regressive they were, there was always a document that could be subjected to a clear constructive debate.
-
-...
-
-[Data](articles/88049066.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 10:07:50**
+As of **2025-08-08 10:30:00**
 
 ## Newspaper Stats
 
-*Scraped **69,390** Articles*
+*Scraped **69,391** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
-colombotelegraphcom | 705
+colombotelegraphcom | 706
 economynextcom | 4,237
 islandlk | 4,240
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,390 articles have been extended.
+61,973 (89.3%) of 69,391 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,9 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-08 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213157) · `si`
 
-පාකිස්තාන යොවුන් පිතිකරු හයිඩර් අලි එංගලන්තයේ දී අත්අඩංගුවට පත්ව තිබේ.
+පාකිස්තාන යොවුන් පිතිකරුවෙකු වන 24 හැවිරිදි හයිඩර් අලි ස්ත්‍රී දූෂණ චෝදනාවකට අදාළව එංගලන්තයේ මැන්චෙස්ටර් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-මේ බව තහවුරු කරමින් පාකිස්තාන ක්‍රිකට් ආයතනය සඳහන් කළේ, එංගලන්තයේ අපරාධ පරීක්ෂණයකට අදාළව ඔහුව මැන්චෙස්ටර් පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති බවය.
+පාකිස්තාන 'A' කණ්ඩායම (Pakistan Shaheens’) පසුගිය ජූලි මාසයේ එංගලන්තයේ සිදුකළ සංචාරය අතර තුර ඔහු විසින් මෙය සිදුව ඇති බව සඳහන්.
+
+පාකිස්තාන ක්‍රිකට් ආයතනය මේ පිළිබඳ නිශ්චිතව දක්වා නොමැති වුවත් ඔහුගේ ක්‍රීඩා කටයුතු තාවකාලිකව අත්හිටුවීමට කටයුතු කර තිබේ.
+
+පාකිස්තාන ක්‍රිකට් ආයතනය එක්සත් රාජධානියේ නීතිමය ක්‍රියා පටිපාටි සහ ක්‍රියාවලීන්ට සම්පූර්ණයෙන්ම ගරු කරන බවත්, විමර්ශනය නියමිත වේලාවට ක්‍රියාත්මක වීමට ඉඩදීමේ වැදගත්කම පිළිගන්නා බවත් නිවේදනයක් නිකුත් කරමින් පාකිස්තාන ක්‍රිකට් ආයතනය වැඩිදුරටත් පැවසීය.
+
+ඒ අනුව පවතින විමර්ශනයේ ප්‍රතිඵලය තෙක් අලිට පැනවූ ක්‍රිකට් තහනම බලපැවැත්වෙනු ඇත.
 
 ◼️
 
@@ -50,7 +56,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-08 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213156) · `si`
 
-අද (08) උදෑසන 6ට පමණ හොරණ රෝහල හන්දිය අසලදී වෑන් රථයක් හා යතුරුපැදියක් මුහුණ ගැටී සිදුවු අනතුරකින් දෙදරු පියෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+අද (08) උදෑසන 6ට පමණ හොරණ රෝහල හන්දිය අසලදී වෑන් රථයක් හා යතුරුපැදියක් මුහුණට මුහුණ ගැටී සිදුවු අනතුරකින් දෙදරු පියෙක් ජීවිතක්ෂයට පත්ව තිබේ.
 
 අනතුරින් තුවාල ලැබු කාන්තාව මේ වනවිට හොරණ දිස්ත්‍රික් රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
 
@@ -403,6 +409,20 @@ One doesn’t have to be a genius such as the genial giant of quantum physics to
 ...
 
 [Data](articles/fe111202.json)
+
+---
+
+### Sri Lanka’s Billion-Dollar X-Press Pearl Judgment Faces Uphill Legal Battle In Singapore
+
+*2025-08-08 04:35:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-billion-dollar-x-press-pearl-judgment-faces-uphill-legal-battle-in-singapore/) · `en`
+
+In what has been hailed as a landmark environmental ruling, Sri Lanka’s Supreme Court recently ordered the operators of the MV X-Press Pearl to pay USD 1 billion in compensation for the catastrophic 2021 maritime disaster that ravaged the nation’s coastline. However, as the Sri Lankan government prepares to enforce this judgment against the vessel’s Singapore-based operators, it faces a formidable array of legal and practical obstacles that cast serious doubt on whether the historic award will ever be collected in full.
+
+The core of the challenge lies in the complex interplay between Sri Lankan constitutional law, Singaporean enforcement statutes, and entrenched principles of international maritime law. Legal experts suggest that while the judgment is a significant moral and legal victory for Sri Lanka, its journey through the Singaporean courts is likely to be fraught with difficulty, potentially rendering the billion-dollar award a pyrrhic victory.
+
+...
+
+[Data](articles/e05a1144.json)
 
 ---
 
@@ -1743,23 +1763,5 @@ President Anura Dissanayake told parliament that a tariff deal with the USA was 
 ◼️
 
 [Data](articles/ca8420af.json)
-
----
-
-### பாதுகாப்பு பிரதி அமைச்சருக்கு    எதிராக நம்பிக்கையில்லாப் பிரேரணை
-
-*2025-08-07 16:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பிரதி-அமைச்சருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-362521) · `ta`
-
-பாதுகாப்பு பிரதி அமைச்சர் அருணா ஜெயசேகரவுக்கு எதிராக, எதிர்க்கட்சியினர் நம்பிக்கையில்லாப் பிரேரணையை சபாநாயகரிடம், வியாழக்கிழமை (07) கையளித்துள்ளனர்.
-
-"உறுப்பினர்கள் எல்லா சந்தர்ப்பங்களிலும் தம்மீது மீது ஒப்படைக்கப்பட்டபகிரங்க நம்பிக்கைக்கிணங்க செயலாற்றுதல் வேண்டும் என்பதுடன் எவையேனும்பொது வளங்களை பயன்படுத்துவது உட்பட அவர்களின் நடவடிக்கை எப்போதும் நேர்மையுடனும் ஒருமைப்பாட்டுடனும் இருத்தல் வேண்டும்"
-
-அத்துடன், அரசியலமைப்பின் 28வது உறுப்புரைக்கு ஏற்புடையவாறு அடிப்படைக் கடமைகளை புரிதலிலிருந்து பிரதியமைச்சர் என்றவகையில் தவறியுள்ளதாக அவதானிக்கப்படுவதாலும்,
-
-(1) உயிர்த்த ஞாயிறு தாக்குதலின் சதியின் அடித்தளமாகக் கருதப்படும் 2018 அரசியலமைப்பு விரோத சதியின் போது அதாவது 2018 நவம்பர் மாதத்தில் 17வது பாதுகாப்புப் படைப் பிரிவு (கிழக்கு) கட்டளைத் தளபதியாக [17th Commander of the Security Force (East)] கௌரவ அருண ஜயசேகர அவர்கள் நியமிக்கப்பட்டதால், அதன் பிரகாரம் அவர் பாதுகாப்புப் படைப் பிரிவின் (கிழக்கு) கட்டளைத் தளபதியாக பதவியைப் பொறுப்பேற்றதாலும்;
-
-...
-
-[Data](articles/b5ff7533.json)
 
 ---

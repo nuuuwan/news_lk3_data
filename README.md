@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 12:52:54**
+As of **2025-08-08 13:07:43**
 
 ## Newspaper Stats
 
-*Scraped **69,410** Articles*
+*Scraped **69,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,686
 adaderanalk | 8,623
 tamilmirrorlk | 10,151
 virakesarilk | 11,549
-adaderanasinhalalk | 11,950
+adaderanasinhalalk | 11,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,410 articles have been extended.
+61,973 (89.3%) of 69,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### අල්විස් වත්තේ ඝාතනයට තවත් සැකකරුවන් 4ක් මාට්ටු
+
+*2025-08-08 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213161) · `si`
+
+වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර දී ඝාතනය කිරීමේ සිදුවීමට තවත් සැකකරුවන් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පෑලියගොඩ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් සිදුකළ වැටලීමකදී මෙම සැකකරුවන් සහ අපරාධයට භාවිත කළ බවට සැක කඩු 4ක් ද පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් මේ වනවිට වත්තල පොලීසියට ඉදිරිපත් කර තිබේ.
+
+පසුගිය ජූලි 19 වන දා රාත්‍රීයේ දෙමහල් නිවසක් තුළ දී මෙම ඝාතනය සිදුකර තිබුණි.
+
+ඝාතනය සිදුවන අවස්ථාවේ මියගිය පුද්ගලයාගේ බිරිඳ සහ දරුවන් දෙදෙනා ද නිවසේ සිට තිබේ.
+
+මියගොස් ඇත්තේ කොළඹ 15 ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි අයෙකු වන අතර ඔහු මාස කිහිපයකට පෙර එම ප්‍රදේශයේ නිවසක් කුලී පදනම යටතේ ලබාගෙන බිරිඳ සහ දරුවන් දෙදෙනා සමග ජීවත්ව සිට ඇති බව සඳහන්ය.
+
+මියගිය පුද්ගලයා 2023 වර්ෂයේ මහබාගේ ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන් පුද්ගලයෙකු බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබුණි.
+
+...
+
+[Data](articles/31655c55.json)
+
+---
 
 ### குடும்பத் தகராறு ; மனைவியை கொலை செய்த கணவன்
 
@@ -1765,23 +1789,5 @@ A bond maturing on 01.06.2033 closed at 10.63/70 percent, up from 10.65/71 perce
 ...
 
 [Data](articles/fb30df33.json)
-
----
-
-### Customs agrees to release 991 detained BYD vehicles subject to conditions
-
-*2025-08-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111267/customs-agrees-to-release-991-detained-byd-vehicles-subject-to-conditions) · `en`
-
-The Director General of Sri Lanka Customs agreed before the Court of Appeal today to release 991 vehicles of the ‘BYD’ brand that are currently detained by customs, subject to certain conditions.
-
-This agreement was expressed after considering a petition filed by John Keells CG Auto, the authorised distributor for BYD vehicles in Sri Lanka, against the detention of the relevant vehicles and seeking their release.
-
-The petition was taken up before the Court of Appeal bench comprising the Chairman of the Appeals Court, Justice Rohantha Abeysuriya and Justice Priyantha Fernando today (7).
-
-Presenting a letter from the Director General of Sri Lanka Customs before the court, Additional Solicitor General Sumathi Dharmawardena stated that the release of these 991 detained vehicles could be considered under several conditions.
-
-...
-
-[Data](articles/bf73013c.json)
 
 ---

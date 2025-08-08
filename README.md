@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 22:34:04**
+As of **2025-08-08 22:48:12**
 
 ## Newspaper Stats
 
-*Scraped **69,466** Articles*
+*Scraped **69,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,633
 tamilmirrorlk | 10,159
-virakesarilk | 11,563
-adaderanasinhalalk | 11,969
+virakesarilk | 11,569
+adaderanasinhalalk | 11,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,466 articles have been extended.
+61,973 (89.2%) of 69,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### பொறுப்புக்கூறலில் ஐ.நா.வின் அணுகுமுறை அதிருப்தி ; ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு பாக்கியசெல்வம் அரியநேத்திரன் கடிதம்
+
+*2025-08-08 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/222137) · `ta`
+
+இலங்கையின் பொறுப்புக்கூறல் விடயத்தில் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் அணுகுமுறை தொடர்பில் தீவிர கரிசனையை வெளிப்படுத்தி கடந்த ஆண்டு நடைபெற்ற ஜனாதிபதித்தேர்தலில் வட, கிழக்கு மாகாணங்களைப் பிரதிநிதித்துவப்படுத்தி தமிழ் பொதுவேட்பாளராகப் போட்டியிட்ட பாக்கியசெல்வம் அரியநேத்திரன் ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டேர்க்குக்கு கடிதமொன்றை அனுப்பிவைத்துள்ளார்.
+
+வட, கிழக்கு மாகாணங்களில் இயங்கிவரும் தமிழ்த்தேசிய அரசியல் கட்சிகள் மற்றும் சிவில் அமைப்புக்களின் பிரதிநிதிகள் இணைந்து எதிர்வரும் செப்டெம்பர் மாதம் நடைபெறவிருக்கம் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரில் சமர்ப்பிக்கப்படவிருக்கும் அறிக்கை குறித்த தமது நிலைப்பாட்டைத் தெளிவுபடுத்தி கடந்த வாரம் ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டேர்க் மற்றும் பேரவையில் அங்கம்வகிக்கும் உறுப்புநாடுகளின் பிரதிநிதிகளுக்குக் கடிதமொன்றை அனுப்பிவைத்திருந்தனர்.
+
+...
+
+[Data](articles/37fe1d80.json)
+
+---
+
+### ஆஸி. - இலங்கை வலுவான ஒத்துழைப்பு : ஆளுநர் நாயகத்துடனான சந்திப்பில் பிரதமர் அவதானம்
+
+*2025-08-08 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222136) · `ta`
+
+அனைவராலும் பெற்றுக்கொள்ளக்கூடிய, உயர்தரக் கல்வி முறைமையைக்கொண்டிருப்பதற்காக அமுல்படுத்தப்படவிருக்கும், இலங்கையின் புதிய கல்வி மறுசீரமைப்பு தொடர்பில் அவுஸ்ரேலிய ஆளுநர் நாயகத்திற்கு பிரதமர் விளக்கமளித்தார்.
+
+இலங்கைக்கு வருகைத்தந்துள்ள அவுஸ்திரேலிய ஆளுநர் நாயகம் சமந்தா ஜோய்  மோஸ்டினுக்கும்,பிரதமர்  கலாநிதி ஹரிணி அமரசூரியவுக்கும் இடையிலான சந்திப்பு  வியாழக்கிழமை (7) அலரிமாளிகையில் நடைபெற்றது.
+
+இச்சந்திப்பானது இலங்கைக்கும் அவுஸ்திரேலியாவுக்கும் இடையிலான நீண்டகால நட்புறவை மீண்டும் உறுதிப்படுத்துவதற்கான ஒரு முக்கியமான சந்தர்ப்பமாக அமைந்தது.
+
+பிரதமரால் வரவேற்கப்பட்ட ஆளுநர் நாயகத்துடன் நடைபெற்ற கலந்துரையாடலின்போது, குறிப்பாக அரசியல்,பொருளாதாரம், விளையாட்டு ஆகிய துறைகளில் இரு நாடுகளுக்கும் இடையிலான வலுவான ஒத்துழைப்பை கட்டியெழுப்புவதன் முக்கியத்துவம் வலியுறுத்தப்பட்டது.
+
+அத்தோடு அனைவராலும் பெற்றுக்கொள்ளக்கூடிய, உயர்தரக் கல்வி முறைமையைக் கொண்டிருப்பதற்காக அமுல்படுத்தப்படவிருக்கும், இலங்கையின் புதிய கல்வி மறுசீரமைப்பு தொடர்பில் ஆளுநர் நாயகத்திற்கு பிரதமர் விளக்கமளித்தார்.
+
+...
+
+[Data](articles/6fa91d1a.json)
+
+---
+
+### යෙවාන් ඩේවිඩ් අලුත් ඉතිහාසයක් අරඹයි
+
+*2025-08-08 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213181) · `si`
+
+ජාත්‍යන්තර මෝටර් රථ සම්මේලනය (FIA) විසින් සංවිධානය කරන ෆෝමියුලා තරගාවලියක තෙවන අදියරක් (Formula 3) නියෝජනය කරන පළමු ශ්‍රී ලාංකික රියදුරා බවට පත්වීමට 18 හැවිරිදි යෙවන් ඩේවිඩ්ට හැකිව තිබේ.
+
+◼️
+
+[Data](articles/f3543bc9.json)
+
+---
+
+### கடுவெலவில் காவல்துறையினர் துப்பாக்கிச் சூடு – சந்தேக நபர் உயிரிழப்பு
+
+*2025-08-08 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222135) · `ta`
+
+கடுவெல, கொத்தலாவல – கெக்கிலிவெல சாலைப் பகுதியில் வெள்ளிக்கிழமை (08) காவல்துறையினர் மேற்கொண்ட துப்பாக்கிச் சூட்டில் சந்தேக நபர் ஒருவர் உயிரிழந்தார்.
+
+காவல்துறை தகவலின்படி, சந்தேக நபரை கைது செய்ய முயன்றபோது அவர் வாளால் பொலிசாரைத் தாக்க முயன்றதாக தெரிவிக்கப்படுகிறது. இதையடுத்து, தற்காப்புக்காக பொலிசார் துப்பாக்கி பிரயோகம் மேற்கொண்டனர்.
+
+சுட்டு காயமடைந்த சந்தேக நபர் முல்லேரியா மருத்துவமனைக்கு கொண்டு செல்லப்பட்டபோதும், அவர் உயிரிழந்ததாக மருத்துவமனை அதிகாரிகள் உறுதிப்படுத்தினர்.
+
+◼️
+
+[Data](articles/41001678.json)
+
+---
+
+### அவுஸ்திரேலிய ஆளுநர் நாயகத்துடன் எதிர்க்கட்சித்தலைவர் சந்திப்பு
+
+*2025-08-08 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222134) · `ta`
+
+இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அவுஸ்திரேலிய ஆளுநர்  நாயகம் சமந்தா ஜோய் மோஸ்டின் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோர் இடையிலான விசேட சந்திப்பு வியாழக்கிழமை (7) இடம்பெற்றுள்ளது.
+
+கொழும்பிலுள்ள அவுஸ்திரேலிய உயர்ஸ்தானிகரின் உத்தியோகபூர்வ வாசஸ்தலத்தில் இந்த சந்திப்பு இடம்பெற்றுள்ளது. இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகரின் அழைப்பிற்கமைய இடம்பெற்ற நிகழ்வின் போதே இந்த சந்திப்பும் இடம்பெற்றுள்ளது.
+
+அவுஸ்திரேலியவுக்கும் இலங்கைக்கும் இடையிலே நிலவி வரும் நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவதில் கவனம் செலுத்தி இங்கு சுமுகமான உரையாடலில் ஈடுபட்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, நமது நாடு எதிர்கொள்ளும் பொருளாதார நெருக்கடியைச் சமாளிக்கத் தேவையான ஆதரவைப் பெற்றுத் தருமாறு கோரிக்கை விடுத்துள்ளார்.
+
+மேலும் இலங்கையின் ஏற்றுமதி சார்ந்த பொருட்களுக்கு அவுஸ்திரேலியாவில் அதிக சந்தை வாய்ப்புகளைப் பெற்றுத் தருமாறும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இதன்போது கோரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/06ffc83e.json)
+
+---
 
 ### අගමැතිනිය කාදිනල් හිමි හමුවෙයි
 
@@ -396,6 +476,22 @@ The review covered Sri Lanka’s capacities and progress in cancer management si
 
 ---
 
+### தமிழ் அரசுக்கட்சி விரும்பினால் எதிர்வரும் வாரம் சந்திக்கத் தயார் தமிழ்த்தேசிய மக்கள் முன்னணி அறிவிப்பு
+
+*2025-08-08 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222127) · `ta`
+
+வட, கிழக்கு மாகாணங்களைப் பிரதிநிதித்துவப்படுத்தும் தமிழ்த்தேசிய அரசியல் கட்சிகளும் சிவில் அமைப்புக்களும் இணைந்து ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு அனுப்பிவைத்த கடிதத்தில் இலங்கைத் தமிழ் அரசுக்கட்சி கையெழுத்திடாத நிலையில், அவர்கள் விரும்பும் பட்சத்தில் எதிர்வரும் வாரம் அவர்களைச் சந்தித்துக் கலந்துரையாடுவதற்குத் தயாராக இருப்பதாக தமிழரசுக்கட்சியிடம் தமிழ்த்தேசிய மக்கள் முன்னணி தெரிவித்துள்ளது.
+
+தமிழ்த்தேசிய மக்கள் முன்னணிக்கும் இலங்கைத் தமிழரசுக்கட்சிக்கும் இடையில் கடந்த முதலாம் திகதி கொழும்பிலுள்ள தனியார் ஹோட்டல் ஒன்றில் நடைபெற்ற சந்திப்பின்போது தமிழ்த்தேசிய அரசியல் கட்சிகளும், சிவில் அமைப்புக்களும் இணைந்து ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு அனுப்பிவைக்கவிருந்த (அனுப்பிவைக்கப்பட்டுவிட்டது) கடிதத்தில் தமிழரசுக்கட்சி கையெழுத்திடுவது குறித்துக் கலந்துரையாடப்பட்டது.
+
+அதற்கமைய கடந்த 3 ஆம் திகதி யாழ்ப்பாணத்தில் நடைபெறவிருந்த தமிழரசுக்கட்சியின் அரசியல் குழுக்கூட்டத்தின்போது மேற்படி கடிதத்தில் கையெழுத்திடுவது குறித்துத் தீர்மானிக்கப்படும் என அறிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/97017eb0.json)
+
+---
+
 ### කළුතර ප්‍රා සභාවේ වැටුප් වලින් රු. කෝටි තුනක් වංචා කළ වැටුප් ලිපිකානිය හා රියදුරෙක් අල්ලයි
 
 *2025-08-08 18:57:38* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-ප්‍රා-සභාවේ-වැටුප්-වලින්-රු--කෝටි-තුනක්-වංචා-කළ-වැටුප්-ලිපිකානිය-හා-රියදුරෙක්-අල්ලයි/11-417799) · `si`
@@ -549,6 +645,22 @@ Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel 
 ◼️
 
 [Data](articles/aa638a1c.json)
+
+---
+
+### சபாநாயகருக்கு எதிராக ஜெனீவாவில் முறைப்பாடளிப்பதற்கு  தீர்மானம் ; எதிர்க்கட்சிகள் ஒன்றிணைந்து நடவடிக்கை
+
+*2025-08-08 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222106) · `ta`
+
+எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச உள்ளிட்ட எதிர்க்கட்சிகளின் பாராளுமன்ற உறுப்பினர்களுக்கு பாராளுமன்றத்தில் கருத்துக்களைத் தெரிவிப்பதற்கு சபாநாயகரால் நியாயமான காலம் வழங்கப்படாமை உட்பட முக்கிய காரணிகளை சுட்டிக்காட்டி சுவிஸர்லாந்தின் ஜெனீவா நகரிலுள்ள பாராளுமன்ற குழுக்களுக்கிடையிலான ஒன்றியத்திடம் முறைப்பாடளிப்பதற்கு எதிர்க்கட்சிகள் தீர்மானித்துள்ளன.
+
+எதிர்க்கட்சியின் பிரதம கொறடா கயந்த கருணாதிலக இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் தெரிவிக்கையில்,
+
+எதிர்க்கட்சிகளின் கட்சி தலைவர்கள் கூடிய போது சில விடயங்கள் தொடர்பில் முக்கிய தீர்மானங்கள் எடுக்கப்பட்டன. அவற்றில் ஒன்று பிரதி பாதுகாப்பு அமைச்சருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையில் கையெழுத்திட்டு அதனை சபாநாயகரிடம் கையளிப்பதாகும்.
+
+...
+
+[Data](articles/d91cefcb.json)
 
 ---
 
@@ -1739,111 +1851,5 @@ The core of the challenge lies in the complex interplay between Sri Lankan const
 ...
 
 [Data](articles/e05a1144.json)
-
----
-
-### Why Sri Lanka should be ready for “B-READY”
-
-*2025-08-08 04:32:13* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-should-be-ready-for-B-READY/4-780042) · `en`
-
-In 2024, the global approach to measuring business climate saw a major transformation. The World Bank Group introduced the Business Ready (B-READY) Index, its new flagship report aimed at assessing the business and investment environment across countries. This index replaces the discontinued Ease of Doing Business (EoDB) report and brings with it a more robust, implementation-focused, and reform-oriented methodology. While the inaugural edition of the B-READY Index covered 50 countries, Sri Lanka was not included. However, the World Bank has indicated its intention to expand the coverage globally by 2026. This gives Sri Lanka a valuable window of opportunity to get ready and initiate key reforms.
-
-...
-
-[Data](articles/fe1101bc.json)
-
----
-
-### Has Israel become a pariah State of the world?
-
-*2025-08-08 04:06:30* · [`dailyftlk`](https://www.ft.lk/columns/Has-Israel-become-a-pariah-State-of-the-world/4-780041) · `en`
-
-The direction being taken now by Israel is to totally disregard the status, wishes and above all the dignity and self-respect of the Palestinians, and usher a one-sided “Jewish” solution
-
-On 21 November 1938, Hitler met with the South African defence minister Oswald Pirow and told him that the Jews would be killed if war broke out. The same month, an official of Hitler’s chancellery told a British diplomat of German plans “to get rid of [German] Jews, either by emigration or if necessary, by starving or killing them” to avoid “having such a hostile minority in the country in the event of war” – Wikipedia
-
-“We can’t finish the war without eliminating Hamas leadership” – Prime Minister Netanyahu (https://www.i24news.tv/en/news/israel/ politics/ 1707129128-gantz-denies-plan-to-replace-netanyahu-through-likud-report)
-
-...
-
-[Data](articles/739ad892.json)
-
----
-
-### Wake-up call on human-elephant conflict and animal cruelty
-
-*2025-08-08 01:48:41* · [`dailyftlk`](https://www.ft.lk/columns/Wake-up-call-on-human-elephant-conflict-and-animal-cruelty/4-780039) · `en`
-
-Poor elephants in the end have become ultimate victims of human greed and arrogance
-
-It’s indeed heart-breaking to learn the plight of wild elephants in Sri Lanka and the extent of horror and cruelty unleashed upon them that continue to go unabated over the years. The spate of recent cold-blooded, indiscriminate and brutal killing of elephants has set off alarm bells in the highest echelon of the NPP Government with a clarion call to investigate such dastardly acts and bring perpetrators to book. So much so, the deputy minister in charge of wildlife conservation last week had to face a barrage of questions and concerns on the subject with no clear answers given as yet.
-
-...
-
-[Data](articles/7c10e85f.json)
-
----
-
-### Vanishing giants: Why Sri Lanka must protect its last wild tuskers — before it’s too late
-
-*2025-08-08 01:41:19* · [`dailyftlk`](https://www.ft.lk/columns/Vanishing-giants-Why-Sri-Lanka-must-protect-its-last-wild-tuskers-before-it-s-too-late/4-780038) · `en`
-
-Sri Lanka’s last wild tuskers — majestic, rare, and silently disappearing — are on the brink of vanishing forever. These giants once roamed in strength and abundance across the island, but now, only a handful remain in the wild. Their disappearance is not only a visual and cultural loss — it marks the impending extinction of the tusk gene from Sri Lanka’s wild elephant population. If that happens, it will be an irreversible blow to the nation’s biodiversity.
-
-Current data shows that fewer than 7–8% of wild male elephants in Sri Lanka have tusks, a drastic decline when compared to other Asian elephant populations such as those in India or Sumatra, where tusks are still common among mature bulls. In our case, centuries of human activity — including selective hunting, capture, ivory trade, and habitat restriction — have driven tuskers to near-extinction. Today, the few that remain are genetic outliers, and without focused protection, their legacy may soon be lost.
-
-...
-
-[Data](articles/f09eefed.json)
-
----
-
-### Over thousand visitors access ‘Know Your Neethi’ Legal Aid and Awareness Camp in Badulla
-
-*2025-08-08 01:34:42* · [`dailyftlk`](https://www.ft.lk/news/Over-thousand-visitors-access-Know-Your-Neethi-Legal-Aid-and-Awareness-Camp-in-Badulla/56-780037) · `en`
-
-High-level attendees touring the Know Your Neethi Legal Aid Camp in Badulla
-
-President’s Counsel and Secretary to the Ministry of Justice Ayesha Jinasena along with legal experts on an engaging and interactive discussion panel
-
-Key dignitaries at the legal aid and awareness camp which served as a dynamic, community-focused platform to promote legal literacy and access to justice
-
-The ‘Know Your Neethi’ Legal Aid and Awareness Camp held on 1-2 August 2025 at the Badulla Cricket Stadium, successfully brought together over a thousand community members for two days of legal education, support, and empowerment.
-
-The program was carried out by the Support to Justice Sector Project (JURE), funded by the European Union, jointly implemented by the United Nations Development Program (UNDP) and the United Nations Children’s Fund (UNICEF) Sri Lanka, and facilitated by the Ministry of Justice.
-
-...
-
-[Data](articles/dfe7965c.json)
-
----
-
-### SLT-Mobitel extends decade-long ICT partnership with Sri Dalada Maligawa
-
-*2025-08-08 01:29:35* · [`dailyftlk`](https://www.ft.lk/news/SLT-Mobitel-extends-decade-long-ICT-partnership-with-Sri-Dalada-Maligawa/56-780036) · `en`
-
-Preserving Sri Lanka’s cultural heritage and advancing digital transformation, SLT-Mobitel, the National ICT solutions provider, has extended its partnership with the Kandy Sri Dalada Maligawa, as the official ICT Service Provider for the 10th consecutive year.
-
-Consistently supporting the Sri Dalada Maligawa throughout the decade, the enduring partnership, highlights SLT-Mobitel’s deep-rooted commitment to delivering seamless cutting-edge technology to one of Sri Lanka’s most revered religious and cultural institutions.
-
-As part of the ongoing collaboration, SLT-Mobitel will provide the Sacred Temple with free, fibre-powered high-speed internet, PEO TV, and voice services powered by SLT-Mobitel’s advanced fibre network, completely free of charge.
-
-These state-of-the-art services empower and equip the Temple’s media centre to broadcast sacred religious ceremonies and cultural content seamlessly to devotees across the globe.
-
-...
-
-[Data](articles/4c90b080.json)
-
----
-
-### Pakistan High Commission Colombo observes  Kashmir Youm-e-Istehsal Day
-
-*2025-08-08 01:28:32* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-Colombo-observes-Kashmir-Youm-e-Istehsal-Day/56-780035) · `en`
-
-The Pakistan High Commission, friends of Pakistan, diplomatic community and Pakistani diaspora jointly commemorated Kashmir Youm-e-Istehsal day. Six years have passed since 5 August 2019 when India took unilateral and illegal actions aimed at altering the internationally recognised disputed status of IIOJK and changing the demographic structure of the occupied territory.
-
-...
-
-[Data](articles/b6b7b6ad.json)
 
 ---

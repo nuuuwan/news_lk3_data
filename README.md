@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 11:28:34**
+As of **2025-08-08 11:52:39**
 
 ## Newspaper Stats
 
-*Scraped **69,398** Articles*
+*Scraped **69,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,240
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,685
-adaderanalk | 8,620
+adaderanalk | 8,622
 tamilmirrorlk | 10,150
 virakesarilk | 11,549
 adaderanasinhalalk | 11,948
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.3%) of 69,398 articles have been extended.
+61,973 (89.3%) of 69,400 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,6 +166,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Kush worth Rs. 1 bln seized in Gothatuwa & Kaduwela; 2 arrested
+
+*2025-08-08 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111280/kush-worth-rs-1-bln-seized-in-gothatuwa-kaduwela-2-arrested) · `en`
+
+The Police Special Task Force (STF) has seized 10 kilograms of Kush cannabis valued at around Rs. 1 billion during operations carried out in the Gothatuwa and Kaduwela areas.
+
+Two suspects were also taken into custody in connection with the massive drug bust.
+
+On the evening of August 6, a raid was conducted by officers of the STF Special Operations Unit in the Manigamulla area, within the Gothatuwa Police Division, and near the Kaduwela Southern Expressway entrance, based on received intelligence.
+
+During the operation, a suspect was arrested in possession of 5.154 kilograms of Kush, a mobile phone, and Rs. 100,000 in cash suspected to be proceeds from drug trafficking.
+
+In a separate arrest, another suspect was found with 5.106 kilograms of Kush, a car, and Rs. 150,000 in cash, also suspected to be drug trafficking proceeds. He was handed over to the Gothatuwa Police.
+
+The suspects, aged 35 and 64, are residents of Gothatuwa and Colombo 14, said police.
+
+...
+
+[Data](articles/5b4680e2.json)
+
+---
+
 ### රුපියල් බිලියනයක් වටින කුෂ් කිලෝ 10ක් සමග දෙදෙනෙක් STF අත්අඩංගුවට
 
 *2025-08-08 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213154) · `si`
@@ -183,6 +205,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9597443e.json)
+
+---
+
+### Israeli security cabinet approves Netanyahu’s plan to take control of Gaza City
+
+*2025-08-08 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111279/israeli-security-cabinet-approves-netanyahus-plan-to-take-control-of-gaza-city) · `en`
+
+The Israeli security cabinet has approved Benjamin Netanyahu’s plan to take full military control of Gaza City, the prime minister’s office said.
+
+It comes after Mr Netanyahu had made clear his desire for a full military occupation of Gaza on Thursday, before a cabinet meeting that ran into the night.
+
+The announced plans to take over Gaza City, a city in the north of the Gaza territory, stop short of that.
+
+This perhaps reflect the reservations of Israel’s top general, who reportedly warned that it would endanger the remaining 20 or so living hostages held by Hamas and further strain Israel’s army after nearly two years of regional wars.
+
+An Israeli official had earlier said the security cabinet would discuss plans to conquer all or parts of the Gaza territory not yet under Israeli control.
+
+The official, speaking on condition of anonymity pending a formal decision, said that whatever is approved would be implemented gradually to increase pressure on Hamas.
+
+...
+
+[Data](articles/00471e39.json)
 
 ---
 
@@ -1731,41 +1775,5 @@ President Anura Dissanayake told parliament that a tariff deal with the USA was 
 ...
 
 [Data](articles/0e97c07e.json)
-
----
-
-### இலங்கையின் அஞ்சல் சேவைக்கு ஆசிய பசிபிக் அஞ்சல் ஒன்றியம் ஆதரவு
-
-*2025-08-07 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222056) · `ta`
-
-இலங்கையின் அஞ்சல் சேவையின் எதிர்கால வளர்ச்சிக்குத் தேவையான அனைத்து ஆதரவும் வழங்கப்படும் என்று ஆசிய பசிபிக் அஞ்சல் ஒன்றியத்தின் (APPU) பொதுச் செயலாளர் டாக்டர் வினய பிரகாஷ் சிங் உறுதியளித்துள்ளார். அஞ்சல் சேவையை மேம்படுத்தும் நோக்கில் திறன் மேம்பாட்டுப் பயிற்சித் திட்டங்களைச் செயல்படுத்தவும், தொழில்நுட்பத்தைப் பயன்படுத்தவும் தங்கள் அமைப்பு ஆதரவு அளிக்கும் என்றும் அவர் தெரிவித்தார்.
-
-சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சரான டாக்டர் நளிந்த ஜயதிஸ்ஸவுடன் அண்மையில் நடைபெற்ற சந்திப்பின்போதே டாக்டர் வினய பிரகாஷ் சிங் இவ்வாறு தெரிவித்தார்.
-
-இலங்கையின் அஞ்சல் துறை, ஆசிய பசிபிக் அஞ்சல் ஒன்றியத்துடன் இணைந்து அஞ்சல் ஊழியர்களுக்கான மூன்று நாள் திறன் மேம்பாட்டுப் பயிற்சி திட்டத்தை ஏற்பாடு செய்திருந்தது. இதற்காகவே அவர் இலங்கைக்கு வருகை தந்திருந்தார்.
-
-...
-
-[Data](articles/770bb1fe.json)
-
----
-
-### රේගු භාරයේ තිබූ BYD වාහන 991ක් මුදා හැරීමට එකඟතාවයක්
-
-*2025-08-07 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213135) · `si`
-
-මේ වනවිට ශ්‍රී ලංකා රේගුව භාරයේ රඳවාගෙන සිටින BYD වාහන 991ක් කොන්දේසි කිහිපයකට යටත්ව මුදා හැරීමට රේගු අධ්‍යක්ෂ ජනරාල්වරයා අද(08) අභියාචනාධිකරණය හමුවේ එකගතාවය පළ කර තිබේ.
-
-අදාල වාහන රදවා ගැනීමට එරෙහිව ජෝන් කීල්ස් සී ජී ඔටෝ සමාගම විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව මෙම එකගතාවය පළ කර ඇත.
-
-මෙම පෙත්සම අද අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවීය.
-
-එහිදී ශ්‍රී ලංකා රේගුවේ අධ්‍යක්ෂ ජෙනරාල්වරයාගේ ලිපියක් අධිකරණය හමුවට ඉදිරිපත් කරමින් කරුණු දැක්වූ අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා කොන්දේසි කිහිපයක් යටතේ මෙම රඳවාගෙන සිටින වාහන 991ක් මුදා හැරීම සම්බන්ධයෙන් සලකා බැලිය හැකි බව පැවසුවේය.
-
-ඒ අනුව අදාළ වාහනවල බදු අතර පවතින පරතරය ලෙස ගණනය කර තිබෙන රුපියල් 3,552,909,200/- (රුපියල් බිලියන 3.6 කට ආසන්න) මුදල රාජ්‍ය බැංකුවක ඇපකරයක් වශයෙන් පෙත්සම්කාර සමාගම විසින් ඉදිරිපත් කළ යුතු අතර එම ඇපකරය සඳහා අදාල වන පොලිය පෙත්සම්කාර සමාගම විසින් ගෙවීමට එකඟ විය යුතු බවත් එම කොන්දේසිවල සඳහන් විය.
-
-...
-
-[Data](articles/4f7aa2ff.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-08 05:19:47**
+As of **2025-08-08 05:32:43**
 
 ## Newspaper Stats
 
-*Scraped **69,354** Articles*
+*Scraped **69,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 705
 islandlk | 4,227
 economynextcom | 4,237
 dailymirrorlk | 4,733
-dailyftlk | 4,886
+dailyftlk | 4,887
 adalk | 6,681
 adaderanalk | 8,616
 tamilmirrorlk | 10,145
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.4%) of 69,354 articles have been extended.
+61,973 (89.4%) of 69,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-08 (Friday)
+
+### Multi-faceted personality Lakshman Kadirgamar’s spiritual side
+
+*2025-08-08 04:57:42* · [`dailyftlk`](https://www.ft.lk/columns/Multi-faceted-personality-Lakshman-Kadirgamar-s-spiritual-side/4-780044) · `en`
+
+Former Sri Lankan Foreign Minister Lakshman Kadirgamar was killed on 12 August 2005 by a sniper of the Liberation Tigers of Tamil Eelam (LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar had just completed his customary 1,000 metre swim at the pool in his residence, when the assassin struck. Two decades have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar’s 20th death anniversary draws near.
+
+...
+
+[Data](articles/aaddaecb.json)
+
+---
 
 ### A time to put off  times of trouble
 
@@ -1751,23 +1763,5 @@ President Anura Kumara Dissanayake arrived in Parliament, a short while ago.
 ◼️
 
 [Data](articles/56347116.json)
-
----
-
-### පාර්ලිමේන්තු ආ ජනපතිගෙන් විපක්ෂයට සැර ප්‍රකාශයක්
-
-*2025-08-07 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213127) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (07) දහවල් පාර්ලිමේන්තු සභාගර්භයට පැමිණියේය.
-
-මෙහිදී අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ, විපක්ෂය විසින් ආර්ථිකයේ බිඳ වැටීම සම්බන්ධයෙන් ව්‍යසනකාරී සිහිනයක් දකින බවත් එම විනාශකාරී සිහිනය කිසිදු දිනක ඉටුනොවන බවත්ය.
-
-"මේ බිඳ වැටීම අපේක්ෂා කළා ඉන්දියාව සහ පාකිස්තානය අතර යුද ගැටුම් ඇති වුණාට පස්සේ නිරන්තර මාධ්‍ය සාකච්ඡා පවත්වන මහත්වරු කොළඹට බෝම්බ දායි කියලා අපේක්ෂා කළා. ඒ වෙලාවේත් අපේ හමුදාපතිවරු හිටියේ පාකිස්තානයේ. නමුත් මෙහෙ විපක්ෂය අපේක්ෂා කළා කොළඹට බෝම්බ දායි කියලා. ඒක ප්‍රාර්ථනාවක්. ඊට පස්සේ ඊශ්‍රායලය සහ ඉරානය අතර ජාත්‍යන්තර මට්ටමේ යුද්ධයක් පටන් ගත්තාට පස්සේ දැන් බිඳවැටෙයි කියලා. ඒක වුණේ නෑ. ඊළඟ විශාලම අපේක්ෂාව වුණේ අමෙරිකානු බදු ප්‍රතිපත්තිය මඟින් අපේ ආර්ථිකය බිඳ වැටේවි කියලා.
-
-ඒ නිසා තමුන්නාන්සේලා අපේ ආර්ථිකයේ ව්‍යසනයක් ඇති වේවි කියා කුරිරු සිහිනයක් දකිනවා. ඒ විනාශකාරී සිහිනය සැබෑ වෙන්නේ නෑ. ඒක විතරක් තියලා තියා ගන්න. දේශපාලනය වෙන රාමුවකින් කරන්න පටන් ගන්න. ඔය රාමුව වැරදියි. අගෝස්තු ජනාධිපති කෙනෙක් හිටියා නේද පාර්ලිමේන්තුවේත් නෑ..."
-
-◼️
-
-[Data](articles/3b65b76f.json)
 
 ---

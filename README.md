@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 02:06:50**
+As of **2025-08-10 02:19:33**
 
 ## Newspaper Stats
 
-*Scraped **69,582** Articles*
+*Scraped **69,583** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 600
+dbsjeyarajcom | 601
 bbccomsinhala | 677
 colombotelegraphcom | 709
 economynextcom | 4,246
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,582 articles have been extended.
+61,973 (89.1%) of 69,583 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1656,6 +1656,18 @@ Mainly fair weather will prevail in other areas of the island, the Met. Departme
 
 ---
 
+### Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.
+
+*2025-08-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86258) · `en`
+
+Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2005  by a sniper of the Liberation Tigers of Tamil Eelam(LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar  had just completed his customary 1000 metre swim at the pool in his residence, when the assassin struck. Two decades  have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar.s 20th death anniversary draws near.
+
+...
+
+[Data](articles/35ff2015.json)
+
+---
+
 ### 2025-08-08 (Friday)
 
 ### உருக்குலைந்த நிலையில் ஆணின் சடலம் மீட்பு
@@ -1813,23 +1825,5 @@ F3 අදියරට උසස්වීම පිළිබඳ අදහස් �
 ◼️
 
 [Data](articles/f3543bc9.json)
-
----
-
-### Yevan David set to become first Sri Lankan driver in Formula 3
-
-*2025-08-08 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111293/yevan-david-set-to-become-first-sri-lankan-driver-in-formula-3) · `en`
-
-Eighteen-year-old Yevan David has created another bit of history by becoming the first-ever Sri Lankan driver to compete in the FIA Formula 3 Championship.
-
-He signed with AIX Racing for the 2026 season, marking a significant milestone in Sri Lanka’s motorsport journey.
-
-The 18-year-old Sri Lankan is currently fighting for the Euroformula title, and has four victories, five other podiums and a pole so far this season in the F3-level series while driving for the dominant Motopark team. He took two wins and a third place from his debut in the final round of 2024.
-
-Prior to that, David competed in the Eurocup-3, Spanish F4 and UAE F4 Championships in 2024 in what was his first full season of single-seater racing after graduating from karts.
-
-...
-
-[Data](articles/576a4a3a.json)
 
 ---

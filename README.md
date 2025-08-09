@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 01:30:52**
+As of **2025-08-10 01:48:36**
 
 ## Newspaper Stats
 
-*Scraped **69,581** Articles*
+*Scraped **69,582** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
-colombotelegraphcom | 708
+colombotelegraphcom | 709
 economynextcom | 4,246
 islandlk | 4,249
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,581 articles have been extended.
+61,973 (89.1%) of 69,582 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -223,6 +223,20 @@ Subsequently, the President visited the Asgiri Maha Viharaya, where he met with 
 ...
 
 [Data](articles/b3f898f7.json)
+
+---
+
+### The Deep State Unmasked: Trump’s Battle & Asia’s Geopolitical Crossroads
+
+*2025-08-09 19:58:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-deep-state-unmasked-trumps-battle-asias-geopolitical-crossroads/) · `en`
+
+The term derin devlet—“deep state”—originated in Turkey, but today it finds its most potent expression in Washington, D.C. What was once a whispered suspicion has now become undeniable: unelected officials, career bureaucrats, and ideologically entrenched elites have long directed the trajectory of American policy—often in defiance of the will of the electorate.
+
+Donald J. Trump did not just confront this system; he exposed it. His presidency was a rebellion against a permanent political class that has steered U.S. foreign policy through wars, regime change, and economic coercion, all under the banner of democracy and liberal order. Trump dared to question these assumptions, and the reverberations of his challenge have echoed far beyond the United States—reaching into the capitals of the Global South.
+
+...
+
+[Data](articles/4cfe11bf.json)
 
 ---
 
@@ -1817,21 +1831,5 @@ Prior to that, David competed in the Eurocup-3, Spanish F4 and UAE F4 Championsh
 ...
 
 [Data](articles/576a4a3a.json)
-
----
-
-### கடுவெலவில் காவல்துறையினர் துப்பாக்கிச் சூடு – சந்தேக நபர் உயிரிழப்பு
-
-*2025-08-08 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222135) · `ta`
-
-கடுவெல, கொத்தலாவல – கெக்கிலிவெல சாலைப் பகுதியில் வெள்ளிக்கிழமை (08) காவல்துறையினர் மேற்கொண்ட துப்பாக்கிச் சூட்டில் சந்தேக நபர் ஒருவர் உயிரிழந்தார்.
-
-காவல்துறை தகவலின்படி, சந்தேக நபரை கைது செய்ய முயன்றபோது அவர் வாளால் பொலிசாரைத் தாக்க முயன்றதாக தெரிவிக்கப்படுகிறது. இதையடுத்து, தற்காப்புக்காக பொலிசார் துப்பாக்கி பிரயோகம் மேற்கொண்டனர்.
-
-சுட்டு காயமடைந்த சந்தேக நபர் முல்லேரியா மருத்துவமனைக்கு கொண்டு செல்லப்பட்டபோதும், அவர் உயிரிழந்ததாக மருத்துவமனை அதிகாரிகள் உறுதிப்படுத்தினர்.
-
-◼️
-
-[Data](articles/41001678.json)
 
 ---

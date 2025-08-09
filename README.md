@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 11:20:30**
+As of **2025-08-09 11:32:22**
 
 ## Newspaper Stats
 
-*Scraped **69,517** Articles*
+*Scraped **69,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 706
-economynextcom | 4,242
+economynextcom | 4,245
 islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,517 articles have been extended.
+61,973 (89.1%) of 69,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/385a8037.json)
+
+---
+
+### Sri Lanka July tourism revenue rise 3.1-pct to $328mn
+
+*2025-08-09 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-july-tourism-revenue-rise-3-1-pct-to-328mn-235385/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism in July 2025 rose 3.1 percent from a year ago to 328.3 million US dollars, the central bank said quoting tourism promotion authority data.
+
+Revenue for the first seven months up to July was 2.03 billion US dollars rising 7.8 percent from a year ago.
+
+Sri Lanka’s new government has aimed at an ambitious 5 billion dollar revenue and a 3 million arrival targets this year.
+
+The island nation witnessed 3.17 billion dollar revenue in 2024, with a 53.2 percent jump compared to 2.07 billion dollars in the previous year, the data showed.
+
+The arrivals also have picked up 14.8 percent in the first seven months of 2025 compared to the same period last year with the number of foreign visitors to Sri Lanka rising to 1,368,288 in the period compared to last year’s 1,198,059.
+
+...
+
+[Data](articles/fe3786a7.json)
+
+---
+
+### Sri Lanka deeply concerned over Israel decision to seize Gaza city
+
+*2025-08-09 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-deeply-concerned-over-israel-decision-to-seize-gaza-city-235404/) · `en`
+
+ECONOMYNEXT – Sri Lanka has expressed deep concern over a decision by Israel’s current administration to take-over Gaza city, as global outrage grows over the civillian population is systematically starved, shot at by the Israeli Defence Froces and hospitals destroyed to deny medical care.
+
+“Sri Lanka expresses deep concern over the decision by Israel to seize control of Gaza, which will lead to further escalation of violence and suffering of the people of Gaza,” the Foreign Ministry said in a statement.
+
+“Sri Lanka calls for an immediate ceasefire and urges all parties to resolve differences through diplomatic dialogue in order to establish sustainable peace.”
+
+Israel’s Prime Minister Benjamin Netanyahu in a new interview said they did not want to stay in Gaza city, there is global concerns that it will lead to more elimination of the civillian population and eventual driving out of people from the land.
+
+...
+
+[Data](articles/9538b528.json)
 
 ---
 
@@ -152,7 +190,7 @@ She explained that the second question paper will be administered first, startin
 
 *2025-08-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213188) · `si`
 
-මහනුවර ඓතිහාසික ඇසළ පෙරහරේ නිමාව සනිටුහන් කරමින් සිදු කරන චාරිත්‍රය වන දිය කැපීමේ චාරිත්‍රය අද (9) පෙරවරුවේ සුබ නැකැතින් ගැටඹේ මහවැලි ගංතොටදී සිදු කළේය.
+මහනුවර ඓතිහාසික ඇසළ පෙරහරේ නිමාව සනිටුහන් කරමින් සිදු කරන චාරිත්‍රය වන දිය කැපීමේ මංගල්‍යය අද (9) පෙරවරුවේ සුබ නැකැතින් මහවැලි ගඟේ ගැටඹේ තොටුපොළේදී සිදු කෙරුණි.
 
 අවසන් රන්දෝලි මහා පෙරහර නිමා වී සධාතුක කරඬුව අස්ගිරිය ගෙඩිගේ රජමහා විහාරයේ තැන්පත් කර සිව්මහා දේවාලයන්හි පෙරහර සමග ගැටඹේ මහවැලි ගං තොටදී මෙම දිය කැපීමේ චාරිත්‍රය ඉටුකරනු ලැබීය.
 
@@ -275,6 +313,24 @@ It has been reported that the minivan was driven by a woman, who sustained injur
 ◼️
 
 [Data](articles/4a477399.json)
+
+---
+
+### Sri Lanka private credit hits new historical high of Rs221bn in June
+
+*2025-08-09 07:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-hits-new-historical-high-of-rs221bn-in-june-235347/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit expanded by 221 billion rupees, the highest in history for a single month in June 2025, official data show, driven by recovering private investment, better budgets but also a late-cycle rate cut, where concerns have been raised.
+
+Private credit in June was the highest since 193 billion rupees reached in December 2024, which was also made up of import credit (working capital) which reversed.
+
+However, investment credit drives imports on a permanent basis, making it difficult to build foreign reserves and repay debt, and if they are financed by open market operations, and not real deposits forex shortages emerge.
+
+The central bank itself has given stability by deflationary policy and a stable exchange rate making it easier for the private sector to plan ahead and invest, while prices including in construction material have been stable or fallen.
+
+...
+
+[Data](articles/2eac7fe4.json)
 
 ---
 
@@ -1721,63 +1777,5 @@ T-56 துப்பாக்கியைப் பயன்படுத்த�
 ...
 
 [Data](articles/3c7ecf1e.json)
-
----
-
-### බොරැල්ලේ වෙඩි තැබීමෙන් තවත් පුද්ගලයෙකු මරුට
-
-*2025-08-08 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213164) · `si`
-
-බො‍රැල්ල සහස්පුර සිරිසර උයන මහල් නිවාස සංකීර්ණය ආසන්නයේ ඊයේ (07) රාත්‍රියේ සිදුවූ වෙඩිතැබීමෙන් තුවාල ලබා රෝහල් ගත කර සිටි තවත් එක් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබෙනවා.
-
-මෙම වෙඩි තැබීම හේතුවෙන් පුද්ගලයින් 5 දෙනෙකු තුවාල ලබා රෝහල් ගත කළ අතර අද පෙරවරුවේද එක් තරුණයෙකු ජීවිතක්ෂයට පත් වුණා.
-
-ඊයේ රාත්‍රී 8.40ට පමණ ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් තරුණයින් පස්දෙනෙකු ඉලක්ක කර මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-එහිදී 56 ගිනිඅවියකින් වෙඩි තැබීම සිදුකර ඇති අතර, වෙඩික්කරුවන් පලා ගොස් ඇතැයි පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/b0e6b515.json)
-
----
-
-### Borella shooting death toll rises to two
-
-*2025-08-08 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111284/borella-shooting-death-toll-rises-to-two) · `en`
-
-Another individual has succumbed to injuries sustained in the shooting that occurred last night (07) near the Sahaspura Sirisara Housing Complex in Borella, police said.
-
-This brings the death toll from the incident to two, as one person had already died earlier this morning (08).
-
-According to police, the shooting was carried out at around 8:40 p.m. by two unidentified assailants who arrived on a motorcycle and opened fire on a group of youths using a T-56 assault rifle. The gunmen fled the area immediately after the attack.
-
-◼️
-
-[Data](articles/9225bac5.json)
-
----
-
-### සංජු සැම්සන්ට රාජස්ථාන් එපාවෙයි
-
-*2025-08-08 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213163) · `si`
-
-රාජස්ථාන් රෝයල්ස් කණ්ඩායමේ දීර්ඝ කාලීනම ක්‍රීඩකයෙකු මෙන්ම වත්මන් නායකයාද වන සංජු සැම්සන් එම කණ්ඩායමෙන් ඉවත්වීමට තීරණය කර ඇති බව වාර්තා වේ.
-
-ඔහු සිය යෝජනාව කණ්ඩායම් පාලනාධිකාරියට දැනුම් දී ඇත. කෙසේ වෙතත් ඒ පිළිබඳ අවසන් තීරණය මෙතෙක් ප්‍රකාශ කර නොමැත.
-
-සැම්සන් කණ්ඩායමෙන් නිදහස් කරනවා නම් එළැඹෙන තරගවාරයට අදාළ වෙන්දේසියට පෙර එම තීරණය යුතුව තිබේ.
-
-ඒ අනුව සංජු සැම්සන්ගේ ඉල්ලීම පිළිගෙන ඔහුව නැවත වෙන්දේසි සංචිතයට මුදා හරිනවාද නැතහොත් වෙනත් තීරණයක් ගන්නවාද යන්න පිළිබඳ අවසන් තීරණය ගැනීමේ වගකීම කණ්ඩායම් හිමිකරුවන්ට පැටවී ඇත.
-
-පසුගිය වසරේ පැවැති ක්‍රීඩක වෙන්දේසියට පෙර ඔහුව රඳවා ගත් අතර, ඒ හේතුවෙන් ඉදිරි වාර දෙක සඳහා ද රාජස්ථාන් හිමිකරුවන්ට ඔහුව රඳවා ගත හැකිය.
-
-ඒ අනුව රාජස්ථාන් හිමිකරුවන් සැම්සන්ව නිදහස් කිරීම ප්‍රතික්ෂේප කළහොත්, IPL නීතිරීති අනුව ඔහුට වසර තුනක ගිවිසුම අත්සන් කර ඇති තම කණ්ඩායම සමගම රැඳී සිටීම හැර වෙනත් විකල්පයක් නොමැත.
-
-2013 වසරේ දී IPL වරම් හිමිකරගත් සංජු සැම්සන් මේ වනවිට ඉනිම් 172ක් ක්‍රීඩාකර ලකුණු 3383ක් රැස්කරගෙන සිටියි.
-
-◼️
-
-[Data](articles/b9cf1a7b.json)
 
 ---

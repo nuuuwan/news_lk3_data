@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 15:18:48**
+As of **2025-08-09 15:31:05**
 
 ## Newspaper Stats
 
-*Scraped **69,542** Articles*
+*Scraped **69,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 706
-economynextcom | 4,245
+economynextcom | 4,246
 islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,542 articles have been extended.
+61,973 (89.1%) of 69,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### Sri Lanka’s public debt office to evaluate liability management by January 2026
+
+*2025-08-09 15:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-public-debt-office-to-evaluate-liability-management-by-january-2026-235297/) · `en`
+
+ECONOMYNEXT – A Public Debt Management Office (PDMO) set up by Sri Lanka’s Ministry of Finance in December last year, to oversee the management of the country’s public debt, will become fully operational by next year, the ministry secretary has said.
+
+“Under its mandate, the PDMO will be tasked with carrying out a proactive debt management strategy,” Harshana Suriyapperuma said in the central bank Investor Call – July question and answer session.
+
+“The office is gradually scaling up and is expected to be fully operational by January 2026.”
+
+The PDMO will be evaluating the potential benefits of such operations, as and when appropriate, he said. (Colombo/Aug8/2025)
+
+◼️
+
+[Data](articles/f7666862.json)
+
+---
 
 ### சிவகார்த்திகேயனின் குரலில் வெளியான 'ஓ காட் பியூட்டிஃபுல்' பட பாடல்
 
@@ -1783,25 +1801,5 @@ Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel 
 ◼️
 
 [Data](articles/a33a7149.json)
-
----
-
-### සයිබර් වංචාවලට සම්බන්ධ චීන ජාතිකයෙකු මෙරටට ඇතුළු වීම වළකා පිටුවහල් කරයි
-
-*2025-08-08 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213173) · `si`
-
-පිලිපීනයේ සයිබර් වංචා සමාගමක සේවය කළ චීන ජාතිකයෙකු අද (08) දින උදෑසන කටුනායක ගුවන්තොටුපොළෙන් මෙරටට ඇතුළ්වීමට තැත් කිරීමේදි ඔහුව හඳුනාගනිමින් ආපසු පිටුවහල් කිරීමට ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් පියවර ගෙන තිබේ.
-
-මොහු අද උදෑසන 9.45ට පමණ මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට එයාර් ඒෂියා ගුවන් සේවයේ ගුවන් යානයකින් කටුනායක ගුවන් තොටුපොළට පැමිණ තිබුණි.
-
-ඔහු සංචාරක වීසා අනුකාණ්ඩයක් වන ව්‍යාපාරික කාණ්ඩය යටතේ වීසා ලබාගෙන මෙරට ක්‍රියාත්මක සමාගමක සේවය සඳහා පැමිණෙන බව කටුනායක ආගමන විගමන කවුළුව වෙත ප්‍රකාශ කර තිබුණද එහිදී තමන් දරන තනතුර පිළිබඳව පැහැදිලි සහා නිශ්චිත තොරතුරු ලබා දීමට අපොහොසත් වී තිබේ.
-
-ඒ අනුව අදාල චීන ජාතිකයා ගුවන් තොටුපොළ ප්‍රධාන ආගමන විගමන නිලධාරීවරයා මගින් එම දෙපාර්තමේන්තුවේ දේශසීමා අවේක්ෂණ ඒකකය වෙත යොමු කර ඇත.
-
-එහිදී ඔහු සන්තකයේ තිබී පිලිපීන රජය විසින් නිකුත් කළ හැඳුනුම්පතක් සොයා ගැනීමට හැකිව තිබූ අතර එහි පිලිපීනයේ පැරනාකිව් ප්‍රදේශයේ පිහිටි නම් දැරූ පරිගණක වංචා මෙහෙයවන මධ්‍යස්ථානය මෙහු සේවය කර ඇති බවත් අනාවරණය වී තිබේ.
-
-...
-
-[Data](articles/00962e38.json)
 
 ---

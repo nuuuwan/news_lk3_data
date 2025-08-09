@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 09:21:15**
+As of **2025-08-09 09:42:45**
 
 ## Newspaper Stats
 
-*Scraped **69,504** Articles*
+*Scraped **69,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,693
 adaderanalk | 8,635
 tamilmirrorlk | 10,167
 virakesarilk | 11,574
-adaderanasinhalalk | 11,976
+adaderanasinhalalk | 11,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,504 articles have been extended.
+61,973 (89.2%) of 69,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### ඇසළ පෙරහරේ දිය කැපීමේ චාරිත්‍රය ඉටුකෙරේ
+
+*2025-08-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213188) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහරේ නිමාව සනිටුහන් කරමින් සිදු කරන චාරිත්‍රය වන දිය කැපීමේ චාරිත්‍රය අද (9) පෙරවරුවේ සුබ නැකැතින් ගැටඹේ මහවැලි ගංතොටදී සිදු කළේය.
+
+අවසන් රන්දෝලි මහා පෙරහර නිමා වී සධාතුක කරඬුව අස්ගිරිය ගෙඩිගේ රජමහා විහාරයේ තැන්පත් කර සිව්මහා දේවාලයන්හි පෙරහර සමග ගැටඹේ මහවැලි ගං තොටදී මෙම දිය කැපීමේ චාරිත්‍රය ඉටුකරනු ලැබීය.
+
+දියවඩන නිලමේ ප්‍රධාන සිව්මහා දේවාලයන්හි බස්නායක නිලමේවරුන් විසින් සම්ප්‍රදානුකූලව පෙරහැර සංදේශය ජනාධිපතිවරයාට පිළිගැන්වීමෙන් පසු මෙවර ඇසළ මහ පෙරහර මංගල්‍ය නිල වශයෙන් නිමාවට පත්වේ.
+
+◼️
+
+[Data](articles/9b23958d.json)
+
+---
 
 ### மதுபான ஊழல் மோசடியில் சிக்கிய தமன்னா
 
@@ -1783,25 +1799,5 @@ Weakening Global Growth to Raise Credit Risks for Emerging Market Issuers
 ◼️
 
 [Data](articles/44b0cab6.json)
-
----
-
-### Borella shooting: Three victims remain in critical condition
-
-*2025-08-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111281/borella-shooting-three-victims-remain-in-critical-condition) · `en`
-
-Three of the youths admitted to the Colombo National Hospital after being shot while at the Sirisara Uyana Stadium in Sahaspura, Borella, are reported to be in critical condition.
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, stated that one of the youths had sustained severe gunshot wounds and had undergone surgery.
-
-He added that all three of the critically injured are currently receiving treatment in the hospital’s Intensive Care Unit (ICU).
-
-Dr. Bellana further said that the condition of one other person injured in the incident is not serious. He noted that the three ICU patients will require further surgeries in the future and that it is not possible at present to provide a definite assessment of their health conditions.
-
-Police reported that one of the five hospitalised as a result of the shooting, which occurred last night (07) near the Sahaspura Sirisara Housing Complex in Borella, had succumbed to injuries today (08).
-
-...
-
-[Data](articles/bc7cf1cd.json)
 
 ---

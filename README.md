@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 21:31:59**
+As of **2025-08-09 21:49:10**
 
 ## Newspaper Stats
 
-*Scraped **69,573** Articles*
+*Scraped **69,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,698
 adaderanalk | 8,650
 tamilmirrorlk | 10,178
 virakesarilk | 11,589
-adaderanasinhalalk | 11,994
+adaderanasinhalalk | 11,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,573 articles have been extended.
+61,973 (89.1%) of 69,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### ගාසා තීරයේ මන්දපෝෂණයෙන් මිය ගිය ගණන තවත් ඉහළට
+
+*2025-08-09 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213207) · `si`
+
+ගාසා තීරයේ මන්දපෝෂණයෙන් තවත් 11 දෙනෙකු මියගොස් ඇති බව හමාස් සංවිධානය විසින් මෙහෙයවන සෞඛ්‍ය අමාත්‍යාංශය පවසා තිබේ.
+
+ඒ අනුව මේ දක්වා ගාසා තීරයේ මන්දපෝෂණය ආශ්‍රිතව මරණ සංඛ්‍යාව 212ක් දක්වා ඉහළ ගොස් ඇත.
+
+මේ අතර පසුගිය පැය 24 තුළ ඊශ්‍රායලය විසින් සිදුකරන ලද හමුදා ක්‍රියාකාරකම් හේතුවෙන් අවම වශයෙන් පුද්ගලයින් 38 දෙනෙකු මියගොස් තවත් පුද්ගලයින් 491ක් තුවාල ලබා ඇතැයිද එම සෞඛ්‍ය අමාත්‍යාංශය වාර්තා කර ඇත.
+
+එමෙන්ම මේ වන විට ඊශ්‍රායල ආරක්ෂක කැබිනට් මණ්ඩලය විසින් අනුමත කරන ලද ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා මූලධර්ම 05ක් එළි දක්වා ඇති අතර ඉන් එකක් වනුයේ භූමියෙහි ආරක්ෂක පාලනය අත්පත් කර ගැනීමය.
+
+ඊශ්‍රායල මාධ්‍ය වාර්තා කර ඇත්තේ සැලැස්ම මගින් අවධානය යොමු කරනුයේ ගාසා නගරයේ සම්පූර්ණ පාලනය අත්පත් කර ගැනීම සහ එහි ඇස්තමේන්තුගත මිලියනයක පදිංචිකරුවන් තවත් දකුණට ගෙන යාම බවය.
+
+කෙසේ වෙතත් මෙම සැලැස්මට ලෝක නායකයින්ගේ විවේචනය මෙන්ම ඊශ්‍රායලය තුළ සිටින ඇතැම් පිරිස්ද දැඩි විරෝධයක් එල්ල කර තිබේ.
+
+...
+
+[Data](articles/f1becc20.json)
+
+---
 
 ### மல்வத்து, அஸ்கிரி  மகாநாயக்க தேரர்களை சந்தித்தார் ஜனாதிபதி
 
@@ -1813,19 +1835,5 @@ Sri Lanka is currently aiming for three million tourist arrivals and USD 5 billi
 ...
 
 [Data](articles/51d9e81f.json)
-
----
-
-### LAUGFS Rubber wins Gold Award for Export Excellence in Sri Lanka
-
-*2025-08-08 21:00:00* · [`islandlk`](http://island.lk/laugfs-rubber-wins-gold-award-for-export-excellence-in-sri-lanka/) · `en`
-
-LAUGFS Rubber, a leading name in industrial solid tyre manufacturing, has reaffirmed its position as a benchmark for excellence in Sri Lanka’s corporate landscape by securing multiple recognitions at the recently held National Business Excellence Awards (NBEA) 2025. The company was honoured as the Winner in the Export Sector and named 2nd Joint Runner-Up in the Large Category. These accolades highlight LAUGFS Rubber’s strong global presence, operational excellence, and ongoing leadership in the industrial tyre manufacturing industry.
-
-The National Business Excellence Awards is a premier annual awards programme organised by the National Chamber of Commerce of Sri Lanka, aimed at recognizing organisations that demonstrate outstanding achievements across critical areas of business excellence. Participating companies are assessed through a robust framework that includes leadership, corporate governance, performance management, market reach, sustainability, and capacity building.
-
-...
-
-[Data](articles/b0fdc128.json)
 
 ---

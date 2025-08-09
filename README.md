@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 22:33:46**
+As of **2025-08-09 22:47:23**
 
 ## Newspaper Stats
 
-*Scraped **69,576** Articles*
+*Scraped **69,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,249
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,698
-adaderanalk | 8,650
+adaderanalk | 8,651
 tamilmirrorlk | 10,178
 virakesarilk | 11,589
 adaderanasinhalalk | 11,997
@@ -26,13 +26,13 @@ adaderanasinhalalk | 11,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,576 articles have been extended.
+61,973 (89.1%) of 69,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
 
-### බහුදින ධීවර යාත්‍රාවක මියගිය ධීවරයකුගේ සිරුර ගොඩබිමට
+### මුහුදේදී මියගිය ධීවරයකුගේ සිරුර ගොඩබිමට
 
 *2025-08-09 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213209) · `si`
 
@@ -103,6 +103,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f4b87dc5.json)
+
+---
+
+### President visits the Chief Prelates of Malwathu and Asgiri Chapters
+
+*2025-08-09 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111311/president-visits-the-chief-prelates-of-malwathu-and-asgiri-chapters) · `en`
+
+President Anura Kumara Dissanayake, who is in Kandy to participate in the annual Esala Perahera festival of the historic Sri Dalada Maligawa, visited the Chief Prelates of the Malwathu and Asgiri Chapters this afternoon (09) and received their blessings.
+
+The President first visited the Malwathu Maha Viharaya, where he met with the Chief Prelate of the Malwathu Chapter, the Most Venerable Thibbatuwawe Sri Sumangala Thero, the President’s Media Division (PMD) said.
+
+Subsequently, the President visited the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, the Most Venerable Warakagoda Sri Gnanarathana Thero, and received his blessings.
+
+◼️
+
+[Data](articles/90ea584c.json)
 
 ---
 
@@ -1829,17 +1845,5 @@ During the meeting, a comprehensive explanation of the educational reforms was p
 ◼️
 
 [Data](articles/a91c9458.json)
-
----
-
-### Hafiz Sheriff announces the release of his 2nd book – ‘Character’ by Austin Macaulay Publishers UK
-
-*2025-08-08 21:02:00* · [`islandlk`](http://island.lk/hafiz-sheriff-announces-the-release-of-his-2nd-book-character-by-austin-macaulay-publishers-uk/) · `en`
-
-Chartered accountant-turned- author Hafiz Sheriff announced the launch of his second book, “Character”, which will be released worldwide on the 15th of August 2025 by Austin Macaulay Publishers (U.K). Offering a sharp and thought-provoking exploration of values and how they shape the human experience, the book arrives at a pivotal moment in world history.
-
-...
-
-[Data](articles/4d3d9d6e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 07:16:43**
+As of **2025-08-09 08:07:47**
 
 ## Newspaper Stats
 
-*Scraped **69,492** Articles*
+*Scraped **69,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,691
 adaderanalk | 8,635
-tamilmirrorlk | 10,161
+tamilmirrorlk | 10,163
 virakesarilk | 11,574
-adaderanasinhalalk | 11,972
+adaderanasinhalalk | 11,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,492 articles have been extended.
+61,973 (89.2%) of 69,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### හෙරොයින් කිලෝ 1ක් සහ අයිස් මත්ද්‍රව්‍ය සමග පුද්ගලයෙක් අත්අඩංගුවට
+
+*2025-08-09 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213186) · `si`
+
+මිනුවන්ගොඩ පොලිස් වසමේ උන්නාරුව ප්‍රදේශයේදී හෙරොයින් කිලෝ 01යි ග්‍රෑම් 66ක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 308ක් සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ, ඊයේ (08) සවස් කාලයේදී පොලිස් විශේෂ කාර්ය බළකා ගෝනහේන කඳවුරේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත සිදුකළ වැටලීමකදීය.
+
+මිනුවන්ගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකු වන වයස අවුරුදු 37ක් වන සැකකරු මිනුවන්ගොඩ පොලිස් ස්ථානයට ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/8a6066b0.json)
+
+---
+
+### யாழ்ப்பாணம் நகரப் பகுதியில் ஆணின் சடலம் மீட்பு
+
+*2025-08-09 07:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-நகரப்-பகுதியில்-ஆணின்-சடலம்-மீட்பு/175-362579) · `ta`
+
+யாழ்ப்பாண நகரப் பகுதியில் உள்ள புல்லுகுளத்தில் ஆண் ஒருவரின்  சடலமொன்று நேற்று (08) மாலை இனங்காணப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையத்திற்கு அருகில் உள்ள குளத்தில் சடலமொன்று மிதப்பதாக பொலிஸாருக்குத் தகவல் அளிக்கப்பட்டது.
+
+உயிரிழந்தவர் தொடர்பில் தெரியவராத நிலையில், யாழ்ப்பாணம் பொலிஸார் மற்றும் தடயவியல் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/73247f28.json)
+
+---
+
+### தலதா பெரஹெராவை பார்வையிட்டார் ஜனாதிபதி
+
+*2025-08-09 07:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-பெரஹெராவை-பார்வையிட்டார்-ஜனாதிபதி/175-362578) · `ta`
+
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையின் வருடாந்த எசல பெரஹெராவின் இறுதி ரந்தோலி பெரஹெரா    நேற்று (08) இரவு வீதி வலம் வந்தது. ஜனாதிபதி அநுர குமார திசாநாயக்க பெரஹெரவைப் பார்வையிட ஆயிரக்கணக்கான மக்களுடன் இணைந்தார்.
+
+புத்தசாசன, மத மற்றும் கலாச்சார விவகார அமைச்சர் கலாநிதி ஹினிதும சுனில் செனவி, விவசாயம், கால்நடை, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால்காந்த, மத்திய மாகாண ஆளுநர் பேராசிரியர் சரத் அபேகோன் மற்றும் வெளிநாட்டு தூதுவர்கள் குழுவும் இந்த நிகழ்வில் கலந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/b51270ea.json)
+
+---
+
+### පැටවීමට ගිය බහාලුමක් වැටී බිහිසුණු අනතුරක්
+
+*2025-08-09 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213185) · `si`
+
+කොළඹ වරාය බහාලුම් අංගනයේදී බහාලුමක් ප්‍රයිම් මූවර් රථය මතට වැටීමෙන් සිදුවූ අනතුරකින් ප්‍රයිම් මූවර් රථයේ සිටි රියදුරු මියගොස් තිබේ.
+
+කොළඹ වරාය බහාලුම් අංගනයේදී ප්‍රයිම් මූවර් රථයකට බහාලුමක් පැටවීමට යාමේදී එම බහාලුම තවත් බහාලුමක ගැටී එය මෙලෙස ප්‍රයිම් මූවර් රථය මතට වැටී තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ (08) සිදුවූ මෙම අනතුරින් ප්‍රයිම් මූවර් රථයේ රියදුරු බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇති බවය.
+
+බහාලුම පැටවීම සිදු කරමින් සිටි යන්ත්‍ර ක්‍රියාකරු පොලිස් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/cacf9abf.json)
+
+---
+
+### ට්‍රම්ප් සහ පුටින් හමුවට දින වෙන්වෙයි
+
+*2025-08-09 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213184) · `si`
+
+රුසියා - යුක්රේන යුද්ධය ගැන සාකච්ඡා කිරීම සඳහා තමන් එළැඹෙන අගෝස්තු 15 වනදා රුසියානු ජනාධිපති ව්ලැඩිමියර් පුටින් හමුවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නිල වශයෙන් තහවුරු කර තිබේ.
+
+ඒ අනුව මෙම හමුව ඇලස්කාවේදී සිදුකිරීමට තීරණය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+මෙලෙස ට්‍රම්ප් හා පුටීන් එක්සත් ජනපද භූමියකදී මුහුණට මුහුණ සාකච්ඡාවක් සිදුකරන්නේ වසර 6කට පමණ පසුව වන අතර, අවසන්වරට ඔවුන් 2019 වසරේ දී හමු වී ඇත.
+
+◼️
+
+[Data](articles/1307d90f.json)
+
+---
 
 ### පිහිනුම් තටාකයක ගිලී දරුවෙකු මරුට
 
@@ -1737,103 +1817,5 @@ The suspects, aged 35 and 64, are residents of Gothatuwa and Colombo 14, said po
 ...
 
 [Data](articles/5b4680e2.json)
-
----
-
-### රුපියල් බිලියනයක් වටින කුෂ් කිලෝ 10ක් සමග දෙදෙනෙක් STF අත්අඩංගුවට
-
-*2025-08-08 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213154) · `si`
-
-රුපියල් බිලියනයකට වඩා වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය කිලෝ 10ක් සමඟ පුද්ගලයින් දෙදෙනෙක් පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-පසුගිය 6 වෙනිදා සවස් කාලයේ ගොතටුව පොලිස් වසමේ මානිගමුල්ල ප්‍රදේශයේ දී හා කඩුවෙල දක්ෂිණ අධිවේගී පිවිසුම අසලදී පොලිස් විශේෂ කාර්ය බළකා විශේෂ මෙහෙයුම් ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරු මත වැටලීමක් සිදුකර තිබුණි.
-
-එහෙදී කුෂ් මත්ද්‍රව්‍ය කිලෝ 5යි ග්‍රෑම් 154ක්, ජංගම දුරකථනයක් හා ජාවාරමෙන් උපයාගත් බවට සැකකෙරෙන රුපියල් ලක්ෂයක මුදලක් සමඟ සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-මේ අතර, තවත් සැකකරුවෙක් කුෂ් මත්ද්‍රව්‍ය කිලෝ 5යි ග්‍රෑම් 106ක්, කාර් රථයක් හා ජාවාරමෙන් උපයාගත් බවට සැකකෙරෙන රුපියල් 150,000ක මුදලක් සමග අත්අඩංගුවට ගෙන ගොතටුව පොලීසියට ඉදිරිපත් කර ඇත.
-
-එලෙස අත්අඩංගුවට පත්ව ඇත්තේ අවුරුදු 35ක් හා 64ක් වන ගොතටුව හා කොළඹ 14 යන ප්‍රදේශවල පදිංචිකරුවන්ය.
-
-...
-
-[Data](articles/9597443e.json)
-
----
-
-### Israeli security cabinet approves Netanyahu’s plan to take control of Gaza City
-
-*2025-08-08 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111279/israeli-security-cabinet-approves-netanyahus-plan-to-take-control-of-gaza-city) · `en`
-
-The Israeli security cabinet has approved Benjamin Netanyahu’s plan to take full military control of Gaza City, the prime minister’s office said.
-
-It comes after Mr Netanyahu had made clear his desire for a full military occupation of Gaza on Thursday, before a cabinet meeting that ran into the night.
-
-The announced plans to take over Gaza City, a city in the north of the Gaza territory, stop short of that.
-
-This perhaps reflect the reservations of Israel’s top general, who reportedly warned that it would endanger the remaining 20 or so living hostages held by Hamas and further strain Israel’s army after nearly two years of regional wars.
-
-An Israeli official had earlier said the security cabinet would discuss plans to conquer all or parts of the Gaza territory not yet under Israeli control.
-
-The official, speaking on condition of anonymity pending a formal decision, said that whatever is approved would be implemented gradually to increase pressure on Hamas.
-
-...
-
-[Data](articles/00471e39.json)
-
----
-
-### காசா நகரை முழுமையாக இஸ்ரேலிய படையினரின் கட்டுப்பாட்டின் கீழ் கொண்டுவரும் திட்டம்- இஸ்ரேலிய பாதுகாப்பு அமைச்சரவை அனுமதி
-
-*2025-08-08 08:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222091) · `ta`
-
-காசா நகரை இஸ்ரேலிய இராணுவத்தினரின முழுமையான கட்டுப்பாட்டின் கீழ்கொண்டுவருவதற்கான பிரதமர் பெஞ்சமின் நெட்டன்யாகுவின் திட்டத்திற்கு இஸ்ரேலிய பாதுகாப்பு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
-
-இது குறித்து செய்திக்குறிப்பொன்றை வெளியிட்டுள்ள இஸ்ரேலிய பிரதமர் அலுவலகம் காசா நகரத்தை கைப்பற்றுவதற்கான திட்டம் குறித்தும் யுத்தத்தை முடிவிற்கு கொண்டுவருவதற்கான ஐந்து அம்ச திட்டம் குறித்தும் தெரிவித்துள்ளுத
-
-காசா நகரை கைப்பற்றுவதற்கான திட்டத்தினை இஸ்ரேலிய இராணுவத்தினர் முன்னெடுப்பார்கள் அதேவேளை மோதல் இடம்பெறும் பகுதிக்கு வெளியே உள்ள மக்களிற்கு மனிதாபிமான உதவிகளை வழங்குவதற்கான நடவடிக்கைகள் இடம்பெறும் என இஸ்ரேலிய பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
-
-ஹமாசிடமிருந்து ஆயுதங்களை களைதல்,உயிருடன் உள்ள உயிரிழந்த அனைத்து பணயக்கைதிகளையும் மீட்டுக்கொண்டுவருதல், காசா பள்ளத்தாக்கின் பாதுகாப்பை இஸ்ரேலிய படையினர் பொறுப்பேற்றல்,பாலஸ்தீன அதிகாரசபை அல்லது ஹமாஸ் இல்லாத மாற்று பாலஸ்தீன அரசாங்கத்தை அமைத்தல் ஆகியவை குறித்து இஸ்ரேலிய பிரதமர் அலுவலகம் குறிப்பிட்டுள்ளது.
-
-◼️
-
-[Data](articles/2ba4a6e1.json)
-
----
-
-### மகள் காதலனுடன் சென்றதனால் தாய் தவறான முடிவு
-
-*2025-08-08 08:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகள்-காதலனுடன்-சென்றதனால்-தாய்-தவறான-முடிவு/175-362551) · `ta`
-
-மகள் காதலனுடன் சென்றதனால் மனமுடைந்த இளம் குடும்பப் பெண் ஒருவர் தவறான முடிவெடுத்து உயிரிழந்த நிலையில், அவரது உடலை கூட பெறுவதற்று மகள் முன்வராத சம்பவம் யாழில் இடம் பெற்றுள்ளது.
-
-பருத்தித்துறை வீதி, நல்லூரைச் சேர்ந்த வரதராஜன் கலா (வயது  44) நல்லூர் குறுக்கு வீதியில் சுத்திகரிப்பு நிறுவனம் ஒன்றில் பணியாற்றி வந்துள்ளார்.
-
-இந்நிலையில், அவரது மகள் காதலுடன் சென்ற நிலையில்  தொழில் செய்யும்  இடத்திலேயே தாயார் கடந்த 5 ஆம் திகதி செவ்வாய்க்கிழமை சடலமாக மீட்க்கப்பட்டிருந்தார்.
-
-அவரது உடலைக்கூட மகள் பெறாத நிலையில் சடலம் யாழ். போதனா வைத்தியசாலையில் வைக்கப்பட்டிருந்தது. நேற்று வியாழக்கிழமை (07) உயிரிழந்தவரின் சகோதரர் வருகை தந்ததை அடுத்து  யாழ்.போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி திருமதி அன்ரலா வின்சன்தயான் விசாரணைகளை மேற்கொண்டு பிரேத பரிசோதனைக்கு உத்தரவிட்டார்.
-
-இதில் அவர் அலரி விதை உட்கொண்டதால்  மரணம் சம்பவித்ததாக அறிக்கை யிடப்பட்டுள்ளது. சாட்சிகளை யாழ்ப்பாண பொலிசார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/5cf983c4.json)
-
----
-
-### Sri Lanka foreign reserves marginally up in July to US$6.1bn
-
-*2025-08-08 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-marginally-up-in-july-to-us6-1bn-235304/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross foreign reserves edged up by 64 million US dollars in July 2025 to 6,144 million US dollars, official data showed, amid concerns over the impact of recent rate cuts on the ability to collect reserves and repay debt.
-
-Sri Lanka’s central bank has not been able to grow its gross reserves for nine months, and the July Number is below the 6,472 million dollars reached in October 2025.
-
-In the last quarter of 2024, money printed to target a mid-corridor or ‘single’ policy rate which tends to cripple the workings of the interbank money market and eventually trigger forex shortages.
-
-At the current interest rates, the central bank is still able to collect some amount of dollars from the banking system as it has stopped inflationary open market operations.
-
-...
-
-[Data](articles/3ee413fa.json)
 
 ---

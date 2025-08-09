@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 22:22:03**
+As of **2025-08-09 22:33:46**
 
 ## Newspaper Stats
 
-*Scraped **69,575** Articles*
+*Scraped **69,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,698
 adaderanalk | 8,650
 tamilmirrorlk | 10,178
 virakesarilk | 11,589
-adaderanasinhalalk | 11,996
+adaderanasinhalalk | 11,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,575 articles have been extended.
+61,973 (89.1%) of 69,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### බහුදින ධීවර යාත්‍රාවක මියගිය ධීවරයකුගේ සිරුර ගොඩබිමට
+
+*2025-08-09 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213209) · `si`
+
+ගාල්ල ධීවර වරායේ සිට ධීවර කටයුතු සඳහා පිටත්ව ගිය බහු දින ධීවර යාත්‍රාවක සිටි ධීවරයෙකු මුහුදු සැතපුම් 180ක් පමණ දුරින් වූ ගැඹුරු මුහුදේ දී ඇතිවූ හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ඊයේ (08) පෙරවරුවේ මියගොස් ඇතැයි වරාය පොලිසිය පවසයි.
+
+ධීවරයින් 06 දෙනෙකු සමඟ ධීවර කටයුතු සඳහා පිටත්ව ගිය මෙම බහුදින යාත්‍රාවේ සිටි අයෙක් මෙසේ හදිසියේ ඇති වූ හෘදයාබාධයක් හේතුවෙන් මියගොස් ඇති බවට ගාල්ල රේඩියෝ මධ්‍යස්ථානය අමතා එම යාත්‍රාවේ නියමුවා විසින් දැනුම් දී තිබේ.
+
+මියගිය පුද්ගලයාගේ දේහය රැගෙන මෙම යාත්‍රාව අද (09) රාත්‍රියේ ගාල්ල ධීවර වරාය වෙත පැමිණියේය.
+
+ගාල්ල හදිසි මරණ පරීක්ෂක ගාමිණී කුලසිංහ මහතා විසින් හදිසි මරණ පරීක්ෂණය විසින් සිදු කළ අතර පශ්චාත් මරණ පරීක්ෂණය පැවත්විම සඳහා මෘත දේහය ගාල්ල ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත යවන ලෙසද නියෝග කළේය.
+
+සිද්ධිය සම්බන්ධයෙන් ගාල්ල වරාය පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වාගෙන යනු ලබයි.
+
+◼️
+
+[Data](articles/d410e54c.json)
+
+---
 
 ### නිව්යෝර්ක් හි ටයිම්ස් චතුරශ්‍රයේ වෙඩි තැබීමක්
 
@@ -1821,19 +1841,5 @@ Chartered accountant-turned- author Hafiz Sheriff announced the launch of his se
 ...
 
 [Data](articles/4d3d9d6e.json)
-
----
-
-### NDB Bank joins hands with International Scholar to enhance access to overseas education
-
-*2025-08-08 21:01:00* · [`islandlk`](http://island.lk/ndb-bank-joins-hands-with-international-scholar-to-enhance-access-to-overseas-education/) · `en`
-
-NDB Bank is proud to announce its latest partnership with International Scholar, one of Sri Lanka’s most reputed education consultancy firms, with the aim of making overseas education more financially accessible and stress-free for Sri Lankan students and their families. The Memorandum of Understanding (MOU) was officially signed on July 20, 2025, at the Bank’s Head Office in Colombo.
-
-Signing the MOU on behalf of NDB Bank were Mr. Sanjaya Perera, Senior Vice President – Personal Banking & Customer Experience, and Mr. Zeyan Hameed, Vice President – Retail Banking. Representing International Scholar were Mr. Keerthi Jayasuriya, Chief Executive Officer, and Mrs. Ruckmalie Jayasuriya, Director and Chief Counsellor.
-
-...
-
-[Data](articles/8220cca3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 10:49:01**
+As of **2025-08-09 11:06:32**
 
 ## Newspaper Stats
 
-*Scraped **69,513** Articles*
+*Scraped **69,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,694
 adaderanalk | 8,640
 tamilmirrorlk | 10,167
 virakesarilk | 11,574
-adaderanasinhalalk | 11,979
+adaderanasinhalalk | 11,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,513 articles have been extended.
+61,973 (89.2%) of 69,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### ඊශ්‍රායලයේ තීරණය ගැන ශ්‍රී ලංකාවේ දැඩි කනස්සල්ල
+
+*2025-08-09 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213191) · `si`
+
+ඊශ්‍රායලය විසින් ගාසා තීරයේ පාලනය අත්පත් කරගැනීමට ගත් තීරණය ගැන ශ්‍රී ලංකාව දැඩි කනස්සල්ල පළකරන බව නිවේදනයක් නිකුත් කරමින් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය පවසයි.
+
+එම තීරණය ගාසා තීරයේ තවදුරටත් ප්‍රචණ්ඩත්වය වර්ධනයවීමට සහ එම ප්‍රදේශයේ සිටින ජනතාවගේ දුක් වේදනා තවදුරටත් උග්‍ර කිරීමට හේතු වනු ඇති බව එහි දැක්වේ.
+
+ඒ හේතුවෙන් ශ්‍රී ලංකාව වහාම සටන් විරාමයක් ඉල්ලා සිටින බවත්, රාජ්‍ය තාන්ත්‍රික සංවාදයක් හරහා සියලු පාර්ශවයන්ට සිය මතභේදයන් විසදා ගන්නා ලෙසත්, තිරසාර සාමයක් ස්ථාපිත කිරීම සඳහා යොමුවන ලෙසත්  ද එම නිවේදනයෙන් වැඩිදුරටත් ඉල්ලා සිටියි.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය විසින් නිකුත්කළ නිවේදනය
+
+◼️
+
+[Data](articles/c2b02751.json)
+
+---
 
 ### හොංකොං පරදා ශ්‍රී ලංකාවට තියුණු ජයක්
 
@@ -1773,23 +1791,5 @@ According to police, the shooting was carried out at around 8:40 p.m. by two uni
 ...
 
 [Data](articles/31655c55.json)
-
----
-
-### Truth about satellite launch and funding clear after 13 years – SupremeSAT chairman
-
-*2025-08-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111283/victory-achieved-by-dispelling-13-years-of-political-rumors-supremesat-chairman-) · `en`
-
-Sri Lankan satellite operator SupremeSAT (Pvt.) Ltd. has welcomed the long-awaited public acknowledgment, after 13 years, confirming that the SupremeSAT satellite was successfully launched and that no government funds were used for the project.
-
-In an official statement, its Chairman R.M. Manivannan emphasized that these facts have been a matter of public record since 2012. However, politically motivated narratives have sought to deny them for over a decade.
-
-Despite this overdue recognition, certain individuals continue to make unfounded claims about the company, focusing particularly on the satellite’s location and SupremeSAT’s corporate accounts, he said.
-
-For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° East, precisely where it was positioned upon launch.
-
-...
-
-[Data](articles/d44fed65.json)
 
 ---

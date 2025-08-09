@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 01:16:51**
+As of **2025-08-10 01:30:52**
 
 ## Newspaper Stats
 
-*Scraped **69,579** Articles*
+*Scraped **69,581** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
-colombotelegraphcom | 706
+colombotelegraphcom | 708
 economynextcom | 4,246
 islandlk | 4,249
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,579 articles have been extended.
+61,973 (89.1%) of 69,581 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -241,6 +241,28 @@ Subsequently, the President visited the Asgiri Maha Viharaya, where he met with 
 ◼️
 
 [Data](articles/b823a331.json)
+
+---
+
+### From Success To Starvation: Sri Lanka Abandoned Its Richness For Greed & Political Fantasy
+
+*2025-08-09 19:43:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-success-to-starvation-sri-lanka-abandoned-its-richness-for-greed-political-fantasy/) · `en`
+
+...
+
+[Data](articles/0f1d64c1.json)
+
+---
+
+### Why The Government Cannot Lower The Cost Of Living In Sri Lanka
+
+*2025-08-09 19:26:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-the-government-cannot-lower-the-cost-of-living-in-sri-lanka/) · `en`
+
+This paper, divided into two parts, seeks to answer two questions: (i) why the government cannot lower the cost of living, and (ii) if so, how it might do so.
+
+...
+
+[Data](articles/86a6fa0a.json)
 
 ---
 
@@ -1811,39 +1833,5 @@ Prior to that, David competed in the Eurocup-3, Spanish F4 and UAE F4 Championsh
 ◼️
 
 [Data](articles/41001678.json)
-
----
-
-### அவுஸ்திரேலிய ஆளுநர் நாயகத்துடன் எதிர்க்கட்சித்தலைவர் சந்திப்பு
-
-*2025-08-08 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222134) · `ta`
-
-இலங்கைக்கு விஜயம் மேற்கொண்டுள்ள அவுஸ்திரேலிய ஆளுநர்  நாயகம் சமந்தா ஜோய் மோஸ்டின் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோர் இடையிலான விசேட சந்திப்பு வியாழக்கிழமை (7) இடம்பெற்றுள்ளது.
-
-கொழும்பிலுள்ள அவுஸ்திரேலிய உயர்ஸ்தானிகரின் உத்தியோகபூர்வ வாசஸ்தலத்தில் இந்த சந்திப்பு இடம்பெற்றுள்ளது. இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகரின் அழைப்பிற்கமைய இடம்பெற்ற நிகழ்வின் போதே இந்த சந்திப்பும் இடம்பெற்றுள்ளது.
-
-அவுஸ்திரேலியவுக்கும் இலங்கைக்கும் இடையிலே நிலவி வரும் நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவதில் கவனம் செலுத்தி இங்கு சுமுகமான உரையாடலில் ஈடுபட்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, நமது நாடு எதிர்கொள்ளும் பொருளாதார நெருக்கடியைச் சமாளிக்கத் தேவையான ஆதரவைப் பெற்றுத் தருமாறு கோரிக்கை விடுத்துள்ளார்.
-
-மேலும் இலங்கையின் ஏற்றுமதி சார்ந்த பொருட்களுக்கு அவுஸ்திரேலியாவில் அதிக சந்தை வாய்ப்புகளைப் பெற்றுத் தருமாறும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இதன்போது கோரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/06ffc83e.json)
-
----
-
-### PM highlights role of schools in developing future sector specialists under new reforms
-
-*2025-08-08 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111292/pm-highlights-role-of-schools-in-developing-future-sector-specialists-under-new-reforms) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that the objectives of the educational reforms include fostering moral values in children, guiding those who deviate from school education towards vocational training, and thereby ensuring their contribution to the country’s economic development.
-
-A special discussion to raise awareness about the educational reforms scheduled to be implemented from 2026 was held on July 07 at the Archbishop’s official residence in Colombo, with the participation of His Eminence Malcolm Cardinal Ranjith, senior bishops, and Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya.
-
-During the meeting, a comprehensive explanation of the educational reforms was presented by the Prime Minister and the Secretary to the Ministry of Education, Nalaka Kalubewa, according to the Prime Minister’s Media Division.
-
-...
-
-[Data](articles/73c61ef9.json)
 
 ---

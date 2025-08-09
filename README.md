@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 23:05:48**
+As of **2025-08-09 23:19:05**
 
 ## Newspaper Stats
 
-*Scraped **69,577** Articles*
+*Scraped **69,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,249
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,698
-adaderanalk | 8,651
+adaderanalk | 8,652
 tamilmirrorlk | 10,178
 virakesarilk | 11,589
 adaderanasinhalalk | 11,997
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,577 articles have been extended.
+61,973 (89.1%) of 69,578 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d410e54c.json)
+
+---
+
+### Two Sri Lankans held for attempted ganja smuggling in India
+
+*2025-08-09 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111312/two-sri-lankans-held-for-attempted-ganja-smuggling-in-india) · `en`
+
+The special police team in Karaikal on Thursday arrested two Sri Lankan nationals for allegedly attempting to smuggle ganja by boat.
+
+A fibre boat, ₹50,000 in cash, and mobile phones were seized from them.
+
+Acting on a tip-off that two men from Sri Lanka were arriving by sea to procure ganja from local suppliers, a joint team of the Special Task Force, led by Inspector Praveen Kumar, and Neravy police intensified coastal patrols.
+
+The suspects were intercepted near Karukkalacherie after being spotted in suspicious circumstances.
+
+They were identified as M. Manimaran, 28, and M. Maniarasan, 24, both siblings who are fishermen in Point Pedro from Jaffna in Sri Lanka.
+
+Police said the duo were just transporters who had brought ₹50,000 to purchase ganja for smuggling it back to Sri Lanka. They were arrested, produced in court, and remanded in judicial custody.
+
+...
+
+[Data](articles/93e9e729.json)
 
 ---
 
@@ -1825,21 +1847,5 @@ During the meeting, a comprehensive explanation of the educational reforms was p
 ...
 
 [Data](articles/9204ba2c.json)
-
----
-
-### குளவி தாக்குதலில் தொழிலாளி உயிரிழப்பு
-
-*2025-08-08 21:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-தாக்குதலில்-தொழிலாளி-உயிரிழப்பு/76-362564) · `ta`
-
-நோர்வூட் - ஓல்டன் தேயிலைத் தோட்டத்தின் கிங் கோரா பிரிவில் வசிக்கும் 36 வயதுடைய தோட்டத் தொழிலாளி ஒருவர் குளவி தாக்குதலுக்கு உள்ளாகி உயிரிழந்துள்ளார்.
-
-இவர் தனது வீட்டிற்கு குடிநீர் வழங்கும் உடைந்த குழாயை சரிசெய்யச் சென்றபோது அந்த நபர் குளவி தாக்குதலுக்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-சம்பவத்தை அடுத்து, உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆதார வைத்தியசாலையில் உள்ள மருத்துவ பரிசோதகர் அலுவலகத்திற்கு அனுப்பப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/a91c9458.json)
 
 ---

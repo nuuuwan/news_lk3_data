@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 21:49:10**
+As of **2025-08-09 22:07:27**
 
 ## Newspaper Stats
 
-*Scraped **69,574** Articles*
+*Scraped **69,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,698
 adaderanalk | 8,650
 tamilmirrorlk | 10,178
 virakesarilk | 11,589
-adaderanasinhalalk | 11,995
+adaderanasinhalalk | 11,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,574 articles have been extended.
+61,973 (89.1%) of 69,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### නිව්යෝර්ක් හි ටයිම්ස් චතුරශ්‍රයේ වෙඩි තැබීමක්
+
+*2025-08-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213208) · `si`
+
+නිව්යෝර්ක් නගරයේ සුප්‍රසිද්ධ ටයිම්ස් චතුරශ්‍රයේ සිදු වූ වෙඩි තැබීමකින් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා ඇති බව එරට පොලීසිය පවසයි.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ තුවාල ලැබූවන් රෝහල් ගත කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බවය.
+
+මෙම වෙඩි තැබීම සම්බන්ධයෙන් මේ වන විට එක් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/205c043e.json)
+
+---
 
 ### ගාසා තීරයේ මන්දපෝෂණයෙන් මිය ගිය ගණන තවත් ඉහළට
 
@@ -1819,21 +1835,5 @@ Signing the MOU on behalf of NDB Bank were Mr. Sanjaya Perera, Senior Vice Presi
 ...
 
 [Data](articles/8220cca3.json)
-
----
-
-### Advocata Institute welcomes free visa entry expansion, calls for long-term liberalization and policy stability
-
-*2025-08-08 21:00:00* · [`islandlk`](http://island.lk/advocata-institute-welcomes-free-visa-entry-expansion-calls-for-long-term-liberalization-and-policy-stability/) · `en`
-
-The Advocata Institute, while welcoming the government’s recent decision to waive visa fees for tourists from 40 additional countries, calls for broader liberalisation of the visa regime to fully unlock economic opportunities through tourism.
-
-Sri Lanka is currently aiming for three million tourist arrivals and USD 5 billion in revenue this year. Advocata believes that open, clear, and consistent visa policies—combined with a welcoming environment, investment-friendly regulation, and high-value targeting—will be essential to achieving that goal.
-
-“This is a step in the right direction,” said Dhananath Fernando, CEO of Advocata Institute. “Tourism is one of the few sectors in Sri Lanka with immediate job-creating potential and strong multiplier effects across the economy. Reducing barriers to entry, even something as simple as waiving a fee, can go a long way in making Sri Lanka more attractive as a destination.”
-
-...
-
-[Data](articles/51d9e81f.json)
 
 ---

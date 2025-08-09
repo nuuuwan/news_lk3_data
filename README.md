@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 21:18:49**
+As of **2025-08-09 21:31:59**
 
 ## Newspaper Stats
 
-*Scraped **69,568** Articles*
+*Scraped **69,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,698
 adaderanalk | 8,650
-tamilmirrorlk | 10,177
-virakesarilk | 11,585
+tamilmirrorlk | 10,178
+virakesarilk | 11,589
 adaderanasinhalalk | 11,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,568 articles have been extended.
+61,973 (89.1%) of 69,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### மல்வத்து, அஸ்கிரி  மகாநாயக்க தேரர்களை சந்தித்தார் ஜனாதிபதி
+
+*2025-08-09 21:08:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வத்து-அஸ்கிரி-மகாநாயக்க-தேரர்களை-சந்தித்தார்-ஜனாதிபதி/175-362605) · `ta`
+
+கண்டி வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையில் நடைபெறும் வருடாந்த எசல பெரஹெராவின் நிறைவு நிகழ்வில் கலந்துகொள்ள கண்டிக்குச் சென்ற  ஜனாதிபதி அநுரகுமார திசாநாயக்க, இன்று (09) பிற்பகல் மல்வத்து மற்றும் அஸ்கிரி தரப்பு  மகாநாயக்க தேரர்களைச் சந்தித்து  ஆசிகளைப் பெற்றார்.
+
+முதலில் மல்வத்து மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி, மல்வத்து மாநாயக்க தேரர்  வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல  தேரரைச் சந்தித்து ஆசிர்வாதங்களைப் பெற்றதுடன், சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
+
+பின்னர் அஸ்கிரி மகா விஹாரைக்குச் சென்ற ஜனாதிபதி அநுரகுமார திசாநாயக்க, அஸ்கிரி தரப்பின் மகாநாயக்க  வண, வரகாகொட ஸ்ரீ ஞானரதன தேரரை சந்தித்து நலம்  விசாரித்ததுடன், சிறு உரையாடலிலும் ஈடுபட்டார். R
+
+◼️
+
+[Data](articles/f4b87dc5.json)
+
+---
 
 ### ඊශ්‍රායලයේ තීරණය ගැන ලංකාවේ දැඩි කනස්සල්ල
 
@@ -174,6 +190,26 @@ New York City has seen a remarkable drop in gun violence this year. Through Aug.
 
 ---
 
+### முல்லைத்தீவில் இனப்படுகொலையில் ஈடுபட்ட இராணுவத்தினரே பக்கத்து வீடுகளில் முகாம்களில் தங்கியுள்ளனர்.  இராணுவம் தொடர்ந்தும் அதே இனப்படுகொலை வெறியில் இருக்கின்ற வரைக்கும், எந்தவொரு தமிழ் மக்களிற்கும் பாதுகாப்பு இருக்கப்போவதில்லை- கஜேந்திரகுமார்
+
+*2025-08-09 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222181) · `ta`
+
+இராணுவம் தொடர்ந்தும் அதே இனப்படுகொலை வெறியில் இருக்கின்ற வரைக்கும்,முல்லைத்தீவில் - வடக்குகிழக்கில் இருக்கின்ற எந்தவொரு தமிழ் மக்களிற்கும் பாதுகாப்பு இருக்கப்போவதில்லை என தமிழ்தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் செய்தியாளர் மாநாட்டில் தெரிவித்துள்ளார்
+
+எங்களிற்கு கிடைத்த தகவலின் படி இராணுவத்தால் மேற்கொள்ளப்பட்ட கொலை. அவ்வாறே எங்களிற்கு தகவல் கிடைத்துள்ளது.
+
+அவர் முகாமிற்கு சென்ற பிறகுதான் அவரை கொலை செய்துதான் அவரை கொலை செய்து குளத்தில் போட்டிருக்கின்றார்கள் என அங்கிருக்ககூடியவர்கள் சொல்லியிருக்கின்றார்கள்.
+
+ஆட்சி மாற்றத்தின் பின்னரும் வடக்குகிழக்கில் குறிப்பாக முல்லைத்தீவில்,ஒன்றிற்கு இரண்டு என்ற அடிப்படையில்தான் இராணுவத்தினர் காணப்படுகின்றனர்.
+
+ஒரு இராணுவசிப்பாய் இரண்டு பொதுமக்கள் என்ற அடிப்படையில்தான் இராணுவத்தினர் நிலை கொண்டுள்ளனர்.அங்கு கொலை நடந்தால் கூட இராணுவத்திற்கு தெரியாமல் நடக்க முடியாத நிலைதான் அங்கு காணப்படுகின்றது.
+
+...
+
+[Data](articles/6b5d5a23.json)
+
+---
+
 ### මෙරට පෙනහළු පිළිකා ශීඝ්‍ර වර්ධනයක්
 
 *2025-08-09 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213203) · `si`
@@ -288,6 +324,22 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 
 ---
 
+### ஜனாதிபதி தலைமையில் உலக ஆதிவாசிகள் தின தேசிய கொண்டாட்டம்
+
+*2025-08-09 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222180) · `ta`
+
+உலக ஆதிவாசிகள் தினத்தை முன்னிட்டு  ஏற்பாடு செய்யப்பட்டிருந்த தேசிய வைபவம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் சனிக்கிழமை (09) முற்பகல் தம்பான ஆதிவாசி அருங்காட்சியக வளாகத்தில் இடம்பெற்றது.
+
+இலங்கையின் பிரதான ஆதிவாசியினத் தலைவரான, விஷ்வகீர்த்தி வனஸ்பதி ஊருவரிகே வன்னியலெத்தோ, 1996 ஆம் ஆண்டு ஜெனீவாவில் நடந்த ஆதிவாசிகள் மாநாட்டில் கலந்து கொண்டபோது,  உலக ஆதிவாசிகள் தின வைபவத்தை இலங்கையில் கொண்டாடுவது குறித்த கருத்தாடல் ஆரம்பமாகியதுடன், அதன்படி, இலங்கையின் முதல் தேசிய ஆதிவாசிகள் தின கொண்டாட்டம் 1999 ஆம் ஆண்டு கொழும்பு விஹார மகா தேவி பூங்காவில் நடைபெற்றது.
+
+இந்த முறையும், பல்வேறு அரச மற்றும் தனியார் நிறுவனங்கள் இணைந்து தேசிய ஆதிவாசிகள் தின கொண்டாட்டத்தை சிறப்பான முறையில் ஏற்பாடு செய்திருந்ததுடன், அமைதி மற்றும் சுபீட்சத்திற்காக ஆசீர்வதிக்கப்பட்ட பாரம்பரிய “கிரி கொரஹா” சம்பிரதாயம் உட்பட ஆதிவாசிகளின் தனித்துவமான பல்வேறு கலாசார அம்சங்களுடன் இந்த நிகழ்வு வண்ணமயமாக இருந்தது.
+
+...
+
+[Data](articles/a34d1fbb.json)
+
+---
+
 ### பலஸ்தீன் - இஸ்ரேல் மோதல் மனித பேரழிவு ;  சஜித் பிரேமதாச
 
 *2025-08-09 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222176) · `ta`
@@ -374,6 +426,22 @@ Kenya’s Ministry of Health made a call for an “urgent blood drive” to help
 
 ---
 
+### அரச மருத்துவ அதிகாரிகள் சங்கம் வேலை நிறுத்த போராட்டத்தில் ஈடுபடுவதை தடுக்க முயற்சிக்கின்றோம் - சுகாதார அமைச்சர்
+
+*2025-08-09 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222173) · `ta`
+
+அரச மருத்துவ அதிகாரிகள் சங்கம் நாளை திங்கட்கிழமை முன்னெடுக்கவுள்ளதாக அறிவித்துள்ள வேலை நிறுத்த போராட்டத்தினை தடுப்பதற்கு சுகாதார அமைச்சின் சார்பில் சகல முயற்சிகளும் எடுக்கப்பட்டுள்ளன. இனங்காணப்பட்டுள்ள பிரச்சினைகளுக்கு படிப்படியாக தீர்வு வழங்கப்படும். எனவே பொது மக்களுக்கு தடையற்ற மருத்துவ சேவையை வழங்குவதற்கு அனைவரும் ஒத்துழைக்க வேண்டும் என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+சனிக்கிழமை (09) இடம்பெற்ற இலங்கை அவசர மருத்துவ நிபுணர்கள் கல்லூரியின் வருடாந்த ஆய்வு மாநாட்டில் பங்கேற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+அரச மருத்துவ அதிகாரிகள் சங்கத்துக்கு வேலை நிறுத்த போராட்டத்துக்குச் செல்வதற்கான காரணமொன்று இருக்கும் என நான் நினைக்கவில்லை. அவர்களுடன் நான் கலந்துரையாடினேன். சில இடங்களிலுள்ள பிரச்சினைகள் இனங்காணப்பட்டுள்ளன. தற்போது சேவையாற்றும் வைத்தியர்கள் அவர்கள் பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்களுடன் இணைக்கப்பாட்டுடனேயே பணியாற்றிக் கொண்டிருக்கின்றனர். அதற்கு நாம் நியாயமான தீர்வொன்றை வழங்குவோம்.
+
+...
+
+[Data](articles/7737aa28.json)
+
+---
+
 ### ලෝක ආදිවාසී දින ජාතික සැමරුම් උත්සවය ජනපති ප්‍රධානත්වයෙන්
 
 *2025-08-09 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213198) · `si`
@@ -425,6 +493,24 @@ Kenya’s Ministry of Health made a call for an “urgent blood drive” to help
 ...
 
 [Data](articles/757cb475.json)
+
+---
+
+### அவசர மருத்துவ சேவைகள் மருத்துவமனைக்கு மட்டும் அல்ல : தேவைப்படும் இடங்களிலும் நிறுவப்பட வேண்டும் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+
+*2025-08-09 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222162) · `ta`
+
+"அவசர மருத்துவ சேவைகளை மருத்துவமனைகளோடு மட்டும் மட்டுப்படுத்த முடியாது. அதன் தேவையுடைய அனைத்து இடங்களிலும் இது நிறுவப்பட வேண்டும், மேலும் முழு மக்களையும் மனதில் கொண்டு இந்தச் சேவைகள் செயல்பட வேண்டும்" என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் டாக்டர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+இலங்கை அவசரகால மருத்துவர்கள் கல்லூரியின் (SLCEP) வருடாந்திர மாநாடு - 2025 சனிக்கிழமை (09) கொழும்பில் உள்ள கலதாரி ஹோட்டலில் நடைபெற்றது. அதில் பிரதம அதிதியாகக் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+"வீட்டிலிருந்து மருத்துவமனைக்கு ஒரு வலுவான அவசர சிகிச்சை முறையை உருவாக்குவதே அரசாங்கத்தின் முதன்மை நோக்கம். இது அனைவருக்கும் எளிதில் அணுகக்கூடியதாக இருக்க வேண்டும். இந்த இலக்கை அடைய அரசாங்கம் பல தீர்க்கமான நடவடிக்கைகளை எடுத்து வருகிறது. அவசர சிகிச்சை சேவைகள், மருத்துவமனைகளில் குறிப்பிட்ட பராமரிப்புக்கு தடையின்றி தொடர வேண்டும்.
+
+இந்த ஆண்டு மாநாட்டின் கருப்பொருள் 'இலங்கை முழுவதும் அவசர மருத்துவத்தின் எதிர்காலத்தை இணைத்தல்' என்பதாகும். இது ஒரு பொருத்தமான கருப்பொருள்.
+
+...
+
+[Data](articles/ba706827.json)
 
 ---
 
@@ -1741,83 +1827,5 @@ The National Business Excellence Awards is a premier annual awards programme org
 ...
 
 [Data](articles/b0fdc128.json)
-
----
-
-### Hemas’ performance momentum continues in FY 25/26
-
-*2025-08-08 20:58:00* · [`islandlk`](http://island.lk/hemas-performance-momentum-continues-in-fy-25-26/) · `en`
-
-The Group sustained its positive trajectory from the previous year, delivering a resilient performance for the quarter achieving a cumulative revenue of Rs. 28.5 billion. Operating profit and earnings grew by 6.9 % and 26.1% respectively, reaching Rs. 2.1 billion and Rs. 1.2 billion for the quarter. The year on year improvement in Group earnings was driven by stronger topline growth, improved gross profit margins, and reduced finance costs. Revenue in the Consumer Brands Sector recorded a marginal decline compared to the previous year, primarily due to the impact of prior-year strategic price adjustments.
-
-...
-
-[Data](articles/1137a553.json)
-
----
-
-### Ways of Knowing: New exhibition opening at the Geoffrey Bawa Space
-
-*2025-08-08 20:57:00* · [`islandlk`](http://island.lk/ways-of-knowing-new-exhibition-opening-at-the-geoffrey-bawa-space/) · `en`
-
-How do we know what we know? This is the central question of the latest exhibition by the Geoffrey Bawa Trust. Opening at the Bawa Space gallery on Horton Place in early August, Ways of Knowing uses Geoffrey Bawa’s garden, Lunuganga, to explore different forms of knowledge and the ways we learn, store, and share information.
-
-Looking across seven installations—including virtual reality, film, textiles, oral traditions, maps, seeds, and the human body—the exhibition explores at how intelligence and understanding are gained through different mediums. Designed as a multi-sensory experience, Ways of Knowing emphasises forms of perception in addition to sight, and reflects on the many ways we come to understand the world around us.
-
-NDB Bank joins hands with International Scholar to enhance access to overseas education
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/fa817dec.json)
-
----
-
-### Serendib Flour Mills champions SLIM National Sales Awards 2025 as Official Nutritional Partner
-
-*2025-08-08 20:56:00* · [`islandlk`](http://island.lk/serendib-flour-mills-champions-slim-national-sales-awards-2025-as-official-nutritional-partner/) · `en`
-
-Nourishing and supporting professional sales excellence, Serendib Flour Mills Limited (SFML) is partnering the SLIM National Sales Awards 2025 as the Official Nutritional Partner.
-
-SFML is a wholly owned subsidiary of the Dubai-headquartered Al Ghurair, one of the leading diversified family businesses in the United Arab Emirates (UAE). For the past 16 years, SFML has been a trusted cornerstone of Sri Lanka’s food industry, playing a pivotal role in the food security of the country, driven by the overarching purpose of ‘Nourishing the Nation,’ and
-
-...
-
-[Data](articles/3d815bbb.json)
-
----
-
-### Anverally and Sons earns prestigious ISO/IEC 17025 international certification for in-house laboratory
-
-*2025-08-08 20:56:00* · [`islandlk`](http://island.lk/anverally-and-sons-earns-prestigious-iso-iec-17025-international-certification-for-in-house-laboratory/) · `en`
-
-Anverally and Sons (Pvt) Ltd., one of Sri Lanka’s foremost exporters of Ceylon Tea, has strengthened its reputation for uncompromising quality and global trust by securing ISO/IEC 17025 accreditation for its state-of-the-art in-house laboratory.
-
-This internationally recognised certification, which is valid until March 2029, confirms that Anverally’s laboratory operates competently and produces valid, reliable test results in accordance with rigorous global standards.
-
-The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and is further endorsed by the International Accreditation Forum (IAF) and the International Laboratory Accreditation Cooperation (ILAC), ensuring broad acceptance of the laboratory’s results in international markets.
-
-...
-
-[Data](articles/e5d50606.json)
-
----
-
-### கொழும்பு ஜெயந்தி நகர் ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயில் ஆடி முருகவேல் விழா
-
-*2025-08-08 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222133) · `ta`
-
-கொழும்பு ஜெயந்தி நகர் ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயில் ஆடி முருகவேல் விழா வெள்ளிக்கிழமை (8) மாலை 4 மணிக்கு மஹா கணபதி ஹோமம் மற்றுமு் மாலை 6 மணிக்கு வரலக்ஷி திருவிளக்குப் பூஜையுடன் ஆரம்பமாகியது.
-
-சனிக்கிழமை (9) காலை 7 மணிக்கு பன்னீர்காவடி, கட்டி முத்திரை திரித்து, அபிஷேகத்திற்குரிய பால்குடம் எடுத்து, வீதிவலம் வந்து மூலவருக்கும், ஸ்ரீ சண்முகப்பெருமானுக்கும் விஷேட ஸ்நபனாபிஷேகமும், விசேட அலங்கார சிறப்பு பூஜையும் நடைபெற்று அதனைத் தொடர்ந்து உச்சிகால பூஜை, மகேஸ்வர பூஜையும் நடைபெறும்.
-
-அன்றையதினம் மாலை 6.30 மணிக்கு வசந்த மண்டபத்தில் ஸ்ரீ வள்ளி தெய்வானை சமேத ஸ்ரீ சண்முகப்பெருமானுக்கு விசேட சண்முகார்ச்சனை நடைபெறும்.
-
-ஞாயிற்றுக்கிழமை (10) காலை 6 மணிக்கு தேர்த்திருவிழா இடம்பெறவுள்ள நிலையில், காலை 4 மணிக்கு மூலவருக்கு  ஸ்நபனாபிஷேகம் இடம்பெற்று காலை 6 மணிக்கு வசந்த மண்டபத்தில் ஸ்ரீ வள்ளி தேவசேனா சமேத ஸ்ரீ சிவசுப்பிரமணிய சுவாமிக்கு சிறப்பு பூஜை நடைபெற்று,சுவாமி கோலாகலமாய் சித்திர இரதத்தில் எழுந்தருளி, வெளி வீதி உலா வந்து பக்தர்களுக்கு காட்சி கொடுத்து இன்னருள் புரிவார்.
-
-...
-
-[Data](articles/f23f792b.json)
 
 ---

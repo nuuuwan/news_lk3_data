@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 12:25:24**
+As of **2025-08-09 12:48:46**
 
 ## Newspaper Stats
 
-*Scraped **69,522** Articles*
+*Scraped **69,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,694
-adaderanalk | 8,642
-tamilmirrorlk | 10,170
+adaderanalk | 8,643
+tamilmirrorlk | 10,172
 virakesarilk | 11,574
 adaderanasinhalalk | 11,980
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 11,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,522 articles have been extended.
+61,973 (89.1%) of 69,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### புலமைப்பரிசில் பரீட்சை தொடர்பில் விசேட அறிவிப்பு
+
+*2025-08-09 12:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-விசேட-அறிவிப்பு/175-362588) · `ta`
+
+2025 ஆம் ஆண்டுக்கான ஐந்தாம் தர புலமைப்பரிசில் பரீட்சை நாளை (10) நாடளாவிய ரீதியில் நடைபெறவுள்ளது.
+
+இது குறித்து பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி இன்று (09) காலை விஷேட ஊடகவியலாளர் சந்திப்பொன்றை ஏற்பாடு செய்திருந்தார்.
+
+பரீட்சை நாளை காலை 9.30 மணிக்கு ஆரம்பமாகவுள்ளது. எனினும், அனைத்து மாணவர்களும் காலை 8.30 மணிக்குள் அந்தந்த பரீட்சை நிலையங்களுக்கு சமூகமளிக்க வேண்டும். மாணவர்கள் காலை 9 மணிக்குள் பரீட்சை மண்டபத்தில் அமர வேண்டும்.
+
+இரண்டாம் பகுதி வினாத்தாள் முதலில் மாணவர்களுக்கு வழங்கப்படும். இரண்டாம் பகுதி வினாத்தாள் காலை 9.30 மணிக்கு ஆரம்பமாகி 10.45 மணிக்கு நிறைவடையும்.
+
+முதலாம் பகுதி வினாத்தாள் காலை 11.15 மணிக்கு வழங்கப்படும். இந்த வினாத்தாள் ஒரு மணி நேரம் கொண்டதாகும். குறித்த வினாத்தாள் மதியம் 12.15 மணிக்கு நிறைவடையும்.
+
+பரீட்சை இடம்பெறும் சந்தர்ப்பங்களின் போது ஏதேனும் அவசரநிலைகள் ஏற்பட்டால், 117 என்ற துரித இலக்கத்திற்கு அழைத்து முறைப்பாடு அளிக்கலாம். இதற்காக விசேட திட்டம் செயற்படுத்தப்பட்டுள்ளது என்று பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி தெரிவித்தார். R
+
+◼️
+
+[Data](articles/ba0fe063.json)
+
+---
+
+### மர்மக் காய்ச்சலால் மயக்க நிலைக்குச் சென்ற மாணவி மரணம்
+
+*2025-08-09 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்மக்-காய்ச்சலால்-மயக்க-நிலைக்குச்-சென்ற-மாணவி-மரணம்/71-362587) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் மர்மக் காய்ச்சல் காரணமாக சிகிச்சை பெற்று வந்த மாணவி ஒருவர் உயிரிழந்துள்ளார்.
+
+அச்சுவேலி சரஸ்வதி மகா வித்தியாலயத்தில் தரம் 11 இல் கல்வி பயிலும் சந்திரானந்தன் வர்ணயா என்ற மாணவியே உயிரிழந்துள்ளார்.
+
+குறித்த மாணவிக்கு காய்ச்சல் ஏற்பட்ட நிலையில் கடந்த மாதம் 5ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக குடும்பத்தினர் அனுமதித்துள்ளனர். வைத்தியசாலையில் அனுமதிக்கப்பட்ட சில தினங்களில் குறித்த மாணவி மயக்க நிலையை அடைந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். கிருமித் தொற்று காரணமாக மரணம் சம்பவித்துள்ளதாக பிரேத பரிசோதனைகளில் தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/18ec5e95.json)
+
+---
 
 ### அத்துரலிய தேரரை கைது செய்ய வலை
 
@@ -67,6 +107,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a6566d1d.json)
+
+---
+
+### Trump announces peace deal between Azerbaijan and Armenia at White House
+
+*2025-08-09 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111302/trump-announces-peace-deal-between-azerbaijan-and-armenia-at-white-house) · `en`
+
+Azerbaijan and Armenia signed a US-brokered peace agreement on Friday (Aug 8) during a meeting with President Donald Trump, pledging to boost economic ties after decades of conflict.
+
+The deal between the South Caucasus rivals, if it holds, would be a major accomplishment for the Trump administration and could unsettle Moscow, which considers the region part of its sphere of influence.
+
+“It’s a long time – 35 years – they fought and now they’re friends, and they’re going to be friends for a long time,” Trump said at a White House signing ceremony alongside Azerbaijani President Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan.
+
+Armenia and Azerbaijan have been at odds since the late 1980s when Nagorno-Karabakh, a mountainous Azerbaijani region with a majority ethnic Armenian population, broke away with support from Armenia.
+
+Azerbaijan regained full control of the territory in 2023, prompting almost all of its 100,000 ethnic Armenian residents to flee to Armenia.
+
+...
+
+[Data](articles/8b66de04.json)
 
 ---
 
@@ -217,6 +277,8 @@ She explained that the second question paper will be administered first, startin
 "පළමු ප්‍රශ්න පත්‍රය ආරම්භ වන්නේ පෙරවරු 11:15ට. මේ ප්‍රශ්න පත්‍රයට පැයක කාලයක් තියෙනවා. ඒ අනුව 12:15ට තමයි ඒ ප්‍රශ්න පත්‍රය අවසන් වෙන්නේ. ඒ අනුව සම්පූර්ණ විභාගයම අවසන් වෙන්නේ 12:15ට."
 
 "විභාගය අතරතුර යම් ආපදා තත්ත්වයන් මතු වුවහොත් ක්ෂණික ඇමතුම් 117 අංකය අමතා දැනුම්දෙන්න පුළුවන්. විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කර තිබෙනවා."
+
+දිවයින පුරා මධ්‍යස්ථාන 2,787කදී පැවැත්වෙන මෙවර විභාගය සඳහා සිසුන් තුන් ලක්ෂ 7,951 දෙනෙකු පෙනී සිටීමට නියමිත බව විභාග දෙපාර්තමේන්තුව පැවසීය.
 
 ◼️
 
@@ -1723,63 +1785,5 @@ She also shared an update on the ongoing education reforms in Sri Lanka aimed at
 ◼️
 
 [Data](articles/66db6261.json)
-
----
-
-### SLAF helicopter deployed to combat Raththanagolla forest fire
-
-*2025-08-08 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111286/slaf-helicopter-deployed-to-combat-raththanagolla-forest-fire) · `en`
-
-A Sri Lanka Air Force (SLAF) Bell 412 helicopter was deployed today (08 Aug) to help contain a forest fire in the Raththanagolla–Imbulpe area of Balangoda, in a coordinated response under the direction of the Ministry of Defence.
-
-Acting swiftly, the Sri Lanka Air Force deployed a Bell 412 helicopter to conduct Bumbi bucket operations to assist in fire suppression efforts from the air.
-
-The aerial firefighting operation was launched in close coordination with the Disaster Management Centre (DMC), aiming to prevent further spread and damage to the forest cover, the Defence Ministry said.
-
-The timely intervention underscores the Ministry’s ongoing commitment to rapid disaster response and environmental protection, the Ministry said.
-
-Further operations will continue as necessary in collaboration with local authorities and emergency services, it added.
-
-◼️
-
-[Data](articles/94fd87c2.json)
-
----
-
-### பொரளை துப்பாக்கிச் சூடு : உயிரிழப்பு 2 ஆக அதிகரிப்பு
-
-*2025-08-08 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/222102) · `ta`
-
-பொரளை, சஹஸ்புர சிறிசர வீட்டுத் தொகுதிக்கு அருகில் நேற்று வியாழக்கிழமை (07) இரவு நடந்த துப்பாக்கிச் சூட்டில் காயமடைந்த மேலும் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இதன் மூலம் சம்பவத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை இரண்டாக உயர்ந்துள்ளது. இன்று வெள்ளிக்கிழமை (08) காலை ஒருவர் உயிரிழந்த நிலையிலேயே மற்றையவரும் உயிரிழந்துள்ளார்.
-
-பொரளை, சஹஸ்புர சிறிசர அடுக்குமாடி குடியிருப்பு வளாகத்திற்கு அருகில் நேற்றையதினம் இரவு துப்பாக்கிச் சூடு நடத்தப்பட்டது.
-
-இரவு 8:40 மணியளவில் மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இரண்டு நபர்களால் இளைஞர்கள் குழுவை குறிவைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டது.
-
-T-56 துப்பாக்கியைப் பயன்படுத்தி துப்பாக்கிச் சூட்டை நடத்திவிட்டு சந்தேக நபர்கள்  மோட்டார் சைக்கிளில் சம்பவ இடத்திலிருந்து தப்பிச் சென்றுள்ளனர்.
-
-◼️
-
-[Data](articles/e4605bde.json)
-
----
-
-### රත්තනගොල්ලේ ගින්න මැඩපැවැත්වීමට බෙල් 412 ගුවන් යානයක්
-
-*2025-08-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213166) · `si`
-
-බලන්ගොඩ හල්පෙ රත්තනගොල්ල කන්දේ අද (08) හදිසි ගින්නක් හට ගෙන තිබේ.
-
-පවතින වියළි දේශගුණයත් සමඟ මෙම ගින්න සීඝ්‍රයෙන් ව්‍යාප්ත වන බව වාර්තා වේ.
-
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගින්න මැඩපැවැත්වීම සඳහා යුධ හමුදාව හා ප්‍රදේශවාසීන් එක්ව කටයුතු කරමින් සිටී.
-
-අප ප්‍රාදේශීය වාර්තාකරු සඳහන් කර සිටියේ ගින්න මැඩපැවැත්වීම සඳහා බෙල් 412 ගුවන් යානයක් ද යොදවා ඇති බවය.
-
-◼️
-
-[Data](articles/8feccd5f.json)
 
 ---

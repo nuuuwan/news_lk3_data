@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 16:21:04**
+As of **2025-08-09 16:33:07**
 
 ## Newspaper Stats
 
-*Scraped **69,546** Articles*
+*Scraped **69,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,695
-adaderanalk | 8,645
+adaderanalk | 8,646
 tamilmirrorlk | 10,174
 virakesarilk | 11,583
-adaderanasinhalalk | 11,986
+adaderanasinhalalk | 11,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,546 articles have been extended.
+61,973 (89.1%) of 69,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### දිවයින පුරා විශේෂ මෙහෙයුමක්
+
+*2025-08-09 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213200) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 907 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එමෙන්ම අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 17 දෙනෙකු හා වරෙන්තකරුවන් 343 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+මත්ද්‍රව්‍ය හා පාතාල ක‍්‍රියාකාරකම් මර්ධනය කිරීම අරමුණු කර ගනිමින් ආරක්ෂක නිලධාරීන් 6,129කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර තිබේ.
+
+එහිදී පුද්ගලයන් 27,388 දෙනෙක්ද වාහන 9,758ක්ද යතුරු පැදි 7,509ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර ඇත.
+
+එමෙන්ම මෙම මෙහෙයුම් හරහා නීති විරෝධී ගිනි අවි 02ක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+බීමත් රියදුරන් 58ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය ඇතුළු රථවාහන වැරදි සම්බන්දයෙන් පුද්ගලයන් 2,992ක් සදහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
+
+එමෙන්ම බූස්ස බන්ධනාගාරයේ සිදු කළ විශේෂ සෝදිසි කිරීමකදී හෙරොයින් මිලි ග‍්‍රෑම් 11ක ප‍්‍රමාණයක් අත්අඩංගුවට ගැනීමට සමත්ව ඇත.
+
+...
+
+[Data](articles/3e607133.json)
+
+---
+
+### ප්‍රමිතිය තහවුරු නොකළ ගෑස් උඳුන් තොගයක් තිබූ ආයතනයක් වටලයි
+
+*2025-08-09 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213199) · `si`
+
+ආනයනික ලෙස සදහන් කරමින් මෙරට එකලස් කළ ප්‍රමිතිය තහවරු නොකළ ගෑස් උදුන් තොගයක් පාරිභෝගික අධිකාරිය විසින් සිය භාරයට ගෙන තිබේ.
+
+කොටස් ලෙස ආනයනය කර මෙරටදී එකලස් කර විදේශ රටක නිෂ්පාදිත ලෙස සඳහන් කරමින් මෙම ගැසී උඳුන් තොගය වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර ඇත.
+
+ඒ අනුව පාරිභෝගික අධිකාරියට ලැබුණු තොරතුරක් මත එලෙස වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර තිබූ ගෑස් උඳුන් 3,000ක තොගයක් ඇතුළු භාණ්ඩ රැසක් සමන්විත ආයතනයක් පසුගිය 07 වැනිදා ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේදී වටලා තිබේ.
+
+අදාළ භාණ්ඩ කොටස් ලෙස ආනයනය කර මෙරටදී එකලස් කරන බව හා ඊට අවශ්‍ය තවත් කොටස් කිහිපයක් මෙරට විවිධ පුද්ගලයින්ගෙන් ද මිලදී ගන්නා බව එහිදී පාරිභෝගික අධිකාරියේ නිලධාරීන්ට පවසා තිබුනද එම කරුණු සනාථ කිරීමට කිසිදු ලේඛනයක් අදාළ ආයතනය විසින් එම අවස්ථාවේදී නිලධාරීන්ට ඉදිරිපත් කිරීමට අපොහොසත් වී ඇත.
+
+එමෙන්ම මෙහිදී පාරිභෝගික අධිකාරියේ නිලධාරීන්ට අනාවරණය වී ඇත්තේ අදාළ ගෑස් උඳුන් බහාලන ඇසුරුම් සහ ඊට අදාළ ලේඛනද දේශීයව සකස් කර මුද්‍රණය කරන බවය.
+
+...
+
+[Data](articles/eab93880.json)
+
+---
 
 ### ලෝක ආදිවාසී දින ජාතික සැමරුම් උත්සවය ජනපති ප්‍රධානත්වයෙන්
 
@@ -101,6 +145,26 @@ The PDMO will be evaluating the potential benefits of such operations, as and wh
 ◼️
 
 [Data](articles/f7666862.json)
+
+---
+
+### Would Rajapaksas stay silent for 13 years if SupremeSAT earned millions? – Minister Nalinda
+
+*2025-08-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111306/would-rajapaksas-stay-silent-for-13-years-if-supremesat-earned-millions-minister-nalinda-) · `en`
+
+Minister Dr. Nalinda Jayatissa stated that the true facts regarding the SupremeSAT satellite project will be disclosed upon the conclusion of the ongoing investigation.
+
+He noted that if the project had generated significant income for the country, it would be difficult to believe that the relevant parties would have remained silent until now.
+
+The Minister made these remarks while responding to questions from journalists following a ceremony held in Colombo today (9).
+
+“If such a large income had been generated from SupremeSAT, do you think the Rajapaksas would have remained silent for thirteen years?” he asked.
+
+“If there had been such income, do you think the Rajapaksas would have remained silent? Do you think they would have done something purely for the benefit of the country, without benefit to themselves?”
+
+...
+
+[Data](articles/4d4813e0.json)
 
 ---
 
@@ -1751,59 +1815,5 @@ The review covered Sri Lanka’s capacities and progress in cancer management si
 ...
 
 [Data](articles/97017eb0.json)
-
----
-
-### කළුතර ප්‍රා සභාවේ වැටුප් වලින් රු. කෝටි තුනක් වංචා කළ වැටුප් ලිපිකානිය හා රියදුරෙක් අල්ලයි
-
-*2025-08-08 18:57:38* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-ප්‍රා-සභාවේ-වැටුප්-වලින්-රු--කෝටි-තුනක්-වංචා-කළ-වැටුප්-ලිපිකානිය-හා-රියදුරෙක්-අල්ලයි/11-417799) · `si`
-
-කළුතර ප්‍රාදේශීය සභාවේ සේවකයන් ගේ වැටුප් වලින් වසර හතරකට ආසන්න කාලයක් තිස්සේ රුපියල් කෝටි  තුනකට ආසන්න මුදලක් වංචා කළ බව කියන එම ප්‍රාදේශීය සභාවේ හිටපු කාර්ය භාර නිළධාරි මෙන්ම වැටුප් ලිපිකාරිනි ලෙස කටයුතු කළ කාන්තාවක්  සහ ඊට අනුබල දී ඇති බව කියන රියදුරකු අත්අඩංගුවට ගත් බව කළුතර විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
-
-අත්අඩංගුවට ගත් සැකකාරිය කළුතර බෝමුවල ප්‍රදේශයේ පදිංචි 45 වියේ සහ සැකකාර රියදුරු වාද්දුව ප්‍රදේශයේ පදිංචි 54 වියේ පසුවන අයෙකු බව පොලිසිය කීය. මෙම සැකකාරිය වසර කීපයක් මුළුල්ලේ මාස් පතා කළුතර ප්‍රාදේශීය සභා කාර්ය මඩුල්ලේ වැටුප් සැකසීමේදී ලක්ෂ තුනක් හතරක් අතරක මුදලක් මෙලෙස ඇයගේ සහ රියදුරකුගේ ගිණුම්වලට ඉතා සූක්ෂම ලෙස ගිණුම් ගත කරගෙන ඇති බව කළ පරීක්‍ෂණවලින් අනාවරණය වී තිබේ. මෙම වංචාව අනාවරණය වීමත් සමඟ ආයතන මට්ටමින් සැකකාර සේවකයන් දෙදෙනාගේ වැඩ තහනම් කර තිබේ.
-
-කළුතර ප්‍රාදේශීය සභාවේ ලේකම් එරංග දේවපුර මහතා විසින් කල පැමිණිල්ලක් මත දීර්ඝ විමර්ශනයකින් පසු සැකකරුවන්  අද අත්අඩංගුවට ගෙන තිබේ.
-
-...
-
-[Data](articles/029394ef.json)
-
----
-
-### ඊශ්‍රායලයට ආයුධ සැපයීම ජර්මනිය අත්හිටුවයි
-
-*2025-08-08 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213175) · `si`
-
-ඊශ්‍රායලයට ආයුධ අපනයනය කිරීම ජර්මනිය විසින් අත්හිටුවන බව චාන්සලර් ෆ්‍රෙඩ්රික් මර්ස් පවසා තිබේ.
-
-චාන්සලර්වරයා පවසා ඇත්තේ ඒ අනුව නැවත දැනුම් දෙන තුරු ගාසා තීරයේ භාවිත කළ හැකි කිසිදු හමුදා උපකරණ ඊශ්‍රායලයට අපනයනය කිරීමට තම රජය අනුමැතිය ලබා නොදෙන බවය.
-
-ඊශ්‍රායල හමුදා සැලැස්ම නීත්‍යානුකූල අරමුණු සාක්ෂාත් කර ගැනීම උපකාරි වන්නේ කෙසේද යන්න පැහැදිලි කර ගැනීම මේ වන විටි කෙමෙන් කෙමෙන් දුෂ්කර වන බවත් මෙම තත්ත්වයන් යටතේ නැවත දැනුම් දෙන තුරු ගාසා තීරයේ භාවිත කළ හැකි කිසිදු හමුදා උපකරණයක් ඊශ්‍රායලයට අපනයනය කිරීම ජර්මානු රජය අවසර ලබා නොදෙන බවත් ඔහු පවසා තිබේ.
-
-විදෙස් මාධ්‍ය මේ සම්බන්ධව වාර්තා කර ඇත්තේ ඊශ්‍රායලයට ආයුද සපයන විශාලතම අවි සැපයුම්කරුවන්ගෙන් ජර්මනිය එක් රටක් වන බවත් එක්සත් ජනපදයෙන් පසු දෙවන විශාලතම අවි සපයන්නා ජර්මනිය වන බවත්ය.
-
-ගාසා නගරයේ පාලනය අත්පත් කර ගැනීමේ ඊශ්‍රායල අනුමත සැලැසුම් පිළිබඳව මේ වන විට ලොව රටවල් කිහිපයකින් විරෝධතා මතුව ඇති අතර එරට පුරවැසියන්ද මේ සම්බන්ධව විරෝධය දක්වා තිබුණි.
-
-...
-
-[Data](articles/200fe685.json)
-
----
-
-### Israeli plan for Gaza takeover must be halted immediately, UN rights chief says
-
-*2025-08-08 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111289/israeli-plan-for-gaza-takeover-must-be-halted-immediately-un-rights-chief-says) · `en`
-
-The Israeli government’s plan for a full-scale military takeover of Gaza will cause more deaths and suffering and must be halted immediately, the United Nations Human Rights Chief Volker Turk said on Friday.
-
-The plan runs contrary to the ruling of the International Court of Justice that Israel must bring its occupation to an end as soon as possible, to the realisation of the agreed two-state solution and to the right of Palestinians to self-determination, Turk said in a statement.
-
-Israel’s political-security cabinet approved a plan early on Friday to take control of Gaza City, as the country expands its military operations despite intensifying criticism at home and abroad over the devastating almost two-year-old war.
-
-Earlier, Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel intended to take military control of the entire Gaza Strip.
-
-...
-
-[Data](articles/210e818d.json)
 
 ---

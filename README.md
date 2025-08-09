@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 08:07:47**
+As of **2025-08-09 08:46:22**
 
 ## Newspaper Stats
 
-*Scraped **69,497** Articles*
+*Scraped **69,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,242
 islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,691
+adalk | 6,692
 adaderanalk | 8,635
-tamilmirrorlk | 10,163
+tamilmirrorlk | 10,164
 virakesarilk | 11,574
 adaderanasinhalalk | 11,975
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,497 articles have been extended.
+61,973 (89.2%) of 69,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### இளைஞன் வெட்டிக்கொலை
+
+*2025-08-09 07:26:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞன்-வெட்டிக்கொலை/175-362580) · `ta`
+
+கொக்குத்தொடுவாய் களப்பு கடலிற்கு தொழிலுக்கு சென்ற இளைஞன் இனந்தெரியாதோரால் கொலை செய்யப்பட்டு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+கொக்குத்தொடுவாய் கோட்டைக்கேணி பிள்ளையார் ஆலயத்திற்கு 300 மீற்றர் முன்பாக கொக்குத்தொடுவாய் களப்பு கடலில் நேற்று முன்தினம் (07) இரவு தொழிலுக்கு சென்ற இளைஞன் நேற்று அதிகாலை தொழில் முடித்து மோட்டார் சைக்கிளில் திரும்பிய போது பின்பக்கமாகத் துரத்தி வந்து, கொக்குத்தொடுவாய் களப்பு கடலில் இருந்து 50 மீற்றர் தூரத்தில் கூரிய ஆயுதத்தால் வெட்டிக்கொலை செய்யப்பட்டுள்ளார்.
+
+மோப்ப நாய் சகிதம் பொலிஸார் மற்றும் தடயவியல் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+இந்தச் சம்பவத்தில் கொக்குத்தொடுவாய் வடக்கைச் சேர்ந்த ஜெயராஜ் சுபராஜ் என்ற 21 வயதுடைய இளைஞனே உயிரிழந்தவராவார்.  (a)
+
+◼️
+
+[Data](articles/d72ef448.json)
+
+---
 
 ### හෙරොයින් කිලෝ 1ක් සහ අයිස් මත්ද්‍රව්‍ය සමග පුද්ගලයෙක් අත්අඩංගුවට
 
@@ -102,9 +120,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 රුසියා - යුක්රේන යුද්ධය ගැන සාකච්ඡා කිරීම සඳහා තමන් එළැඹෙන අගෝස්තු 15 වනදා රුසියානු ජනාධිපති ව්ලැඩිමියර් පුටින් හමුවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නිල වශයෙන් තහවුරු කර තිබේ.
 
-ඒ අනුව මෙම හමුව ඇලස්කාවේදී සිදුකිරීමට තීරණය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+මෙම හමුව ඇලස්කාවේදී සිදුකිරීමට තීරණය කර ඇති අතර, දෙරටේ නායකයින් හමුවන ස්ථානය පිළිබඳ මෙතෙක් නිශ්චිතව සඳහන් කරන නොමැති බව විදෙස් මාධ්‍ය පවසයි.
 
 මෙලෙස ට්‍රම්ප් හා පුටීන් එක්සත් ජනපද භූමියකදී මුහුණට මුහුණ සාකච්ඡාවක් සිදුකරන්නේ වසර 6කට පමණ පසුව වන අතර, අවසන්වරට ඔවුන් 2019 වසරේ දී හමු වී ඇත.
+
+යුක්රේනය සමග සටන් විරාමයකට එකඟවීමට වැලැද්මීර් පුටින් පසුගියදා එකඟතාව පලකර තිබුණි.
+
+එමෙන්ම අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා ඇත්තේ දෙරට අතර අත්සන් කිරිමට යෝජිත ගිවිසුමේ භූමි ප්‍රදේශ සම්බන්ධයෙන් අවධානය යොමු කරන බවය.
 
 ◼️
 
@@ -585,6 +607,22 @@ The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and 
 ...
 
 [Data](articles/480d618e.json)
+
+---
+
+### දයාසිරි තෙල් සංස්ථා සේවකයන්ගෙන් සමාව ගත යුතුයි
+
+*2025-08-08 20:34:48* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-තෙල්-සංස්ථා-සේවකයන්ගෙන්-සමාව-ගත-යුතුයි/11-417800) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකරගේ මහතා තෙල් සංස්ථා සේවකයන් මහරගම උද්ඝෝෂණයට පහරදෙන්න ගිය බවට රටේ සමස්ථ ජනතාව නොමග යැවිමේ අරමුණින් කරන ලද සාවද්‍ය ප්‍රකාශය තරයේ ප්‍රතික්ෂේප කරන බවත් සමස්ථ තෙල් සේවකයන්ගෙන් සමාව ඉල්ලා ගතයුතු බවත් ඛණිජ තෙල් පොදු සේවක සංගමයයේ ලේකම් මනෝජ් විජයවීර මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එසේම දයාසිරි ජයසේකර මහතාගේ මෙම ප්‍රකාශය සම්බන්ධව බලවත් අප්‍රසාදය හා විරෝධය පල කරන බවද ලේකම්වරයා පවසයි.
+
+"ඔහුගේ තිඹිරිගෙය වූ එක්සත් ජාතික පක්ෂයේ හැදී වැඩී මජර දේශපාලන සංස්කෘතියෙන් පෝෂණය වී ඇත්තේ ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ පොදු පෙරමුණ ආණ්ඩුවෙත් පසුව පොදුජන පෙරමුණෙත්ය. දයාසිරි ජයසේකර මන්ත්‍රීතුමා කියන ආකාරයට පහර දීමේ මජර දේශපාලන බයිසිකල් චේන් සංස්කෘතිය හදුන්වාදුන්නේ එක්සත් ජාතික පක්ෂය විසිනි. මෙම සංස්කෘතිය රටපුරා සාමකාමී  පුරවැසියන්  මර්දනය කිරීම සඳහා නායකත්වය හා මෙහෙයවිම සිදු කර ඇත්තේ මෙතුමන්ලාගේ හිටපු නායකයින් අතුළු ගෝල බාලයන් විසිනි.
+
+...
+
+[Data](articles/3a44cc2a.json)
 
 ---
 
@@ -1775,47 +1813,5 @@ Police reported that one of the five hospitalised as a result of the shooting, w
 ...
 
 [Data](articles/45508cea.json)
-
----
-
-### 'ගාසා සිටි' අත්පත් කරගැනීමේ නෙතන්යාහුගේ සැලැස්මට අනුමැතිය
-
-*2025-08-08 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213155) · `si`
-
-ගාසා තීරයේ ඊශ්‍රායල පාලනයේ නොමැති ප්‍රදේශයක් වන ගාසා නගරය සම්පූර්ණයෙන්  අත්පත් කරගැනීමේ බෙන්ජමින් නෙතන්යාහුගේ සැලැස්ම ඊශ්‍රායල ආරක්ෂක කැබිනට් මණ්ඩලය විසින් අනුමත කර තිබේ.
-
-ඊශ්‍රායල ආරක්ෂක කැබිනට් මණ්ඩලය ඊයේ (7) රාත්‍රියේ රැස්ව ඇති අතර, එහිදී නෙතන්යාහු විසින් ගාසා නගරය සම්පූර්ණ හමුදා පාලනයකට අත්පත් කරගැනීමේ අවශ්‍යතාව පැහැදිලි කර ඇති බව සඳහන්.
-
-ගාසා භූමියට උතුරින් පිහිටි මෙම ගාසා නගරය හැරෙන්න, ඊශ්‍රායලය දැනටමත් ගාසා තීරයෙන් 75%ක් පමණ පාලනය කරනු ලබයි. ඒ හේතුවෙන් එහි දේශසීමා රැසක් ඔවුන් විසින් මුද්‍රා තබා තිබේ.
-
-ඒ අනුව ගාසා තීරයේ සම්පූර්ණ පාලනය ලබා ගැනීමට නම්, එහි මිලියන දෙකක ජනගහනයෙන් වැඩි කොටසක් රැකවරණය පතා ඇති විනාශ වී නොමැති  ප්‍රදේශවල ද භූමි මෙහෙයුම් දියත් කිරීමට ඊශ්‍රාලයට සිදු වේ.
-
-කෙසේ වෙතත් ඊශ්‍රායලයේ මෙම තීරණය හමාස් විසින් රඳවාගෙන සිටින ඊශ්‍රායල ජීවමාන ප්‍රාණ ඇපකරුවන්ගේ ජීවිතවලට අනතුරක් ඇතිවනු ඇති බව ද සඳහන්.
-
-◼️
-
-[Data](articles/5b788073.json)
-
----
-
-### Kush worth Rs. 1 bln seized in Gothatuwa & Kaduwela; 2 arrested
-
-*2025-08-08 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111280/kush-worth-rs-1-bln-seized-in-gothatuwa-kaduwela-2-arrested) · `en`
-
-The Police Special Task Force (STF) has seized 10 kilograms of Kush cannabis valued at around Rs. 1 billion during operations carried out in the Gothatuwa and Kaduwela areas.
-
-Two suspects were also taken into custody in connection with the massive drug bust.
-
-On the evening of August 6, a raid was conducted by officers of the STF Special Operations Unit in the Manigamulla area, within the Gothatuwa Police Division, and near the Kaduwela Southern Expressway entrance, based on received intelligence.
-
-During the operation, a suspect was arrested in possession of 5.154 kilograms of Kush, a mobile phone, and Rs. 100,000 in cash suspected to be proceeds from drug trafficking.
-
-In a separate arrest, another suspect was found with 5.106 kilograms of Kush, a car, and Rs. 150,000 in cash, also suspected to be drug trafficking proceeds. He was handed over to the Gothatuwa Police.
-
-The suspects, aged 35 and 64, are residents of Gothatuwa and Colombo 14, said police.
-
-...
-
-[Data](articles/5b4680e2.json)
 
 ---

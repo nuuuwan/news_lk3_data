@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 09:59:07**
+As of **2025-08-09 10:24:14**
 
 ## Newspaper Stats
 
-*Scraped **69,506** Articles*
+*Scraped **69,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,26 +17,50 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,693
-adaderanalk | 8,635
+adaderanalk | 8,640
 tamilmirrorlk | 10,167
 virakesarilk | 11,574
-adaderanasinhalalk | 11,978
+adaderanasinhalalk | 11,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,506 articles have been extended.
+61,973 (89.2%) of 69,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
 
+### හොංකොං පරදා ශ්‍රී ලංකාවට තියුණු ජයක්
+
+*2025-08-09 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213190) · `si`
+
+ඉන්දියාවේ දී අද (9) ආරම්භ වූ වයස අවුරුදු 20න් පහළ සත් සාමාජික ආසියානු රග්බි ශූරතාවේ හොංකොං රාජ්‍යයට එරෙහිව පැවති තරගයෙන් ලකුණු 24- 19ක් ලෙස ජය ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+මෙම ජයත් සමග 'A' කාණ්ඩයෙන් තරගවදින ශ්‍රී ලංකාව එහි පෙරමුණට පැමිණියේය.
+
+ශ්‍රී ලංකාව අද දිනයේ දී තවත් තරග දෙකකට ක්‍රීඩාකරන අතර, ඉන් අනෙක් තරගය සත්කාරක ඉන්දියාවට එරෙහිව ප.ව. 12.45 ක්‍රීඩා කිරීමට නියමිතය.
+
+ඉන් අනතුරුව එක්සත් අරාබි එමීර් රාජ්‍යයට එරෙහිව ප.ව. 3.40ට ශ්‍රී ලංකාව ක්‍රීඩා කරනු ඇත.
+
+බිහාර් ප්‍රාන්තයේ රාජ්ගිර් හිදී පැවැත්මෙන මෙම තරගාවලිය හෙටින් (10) අවසන්වීමට නියමිතය.
+
+කාන්තා හා පිරිමි දෙයංශයෙන්ම පැවැත්වෙන මෙම තරගාවලියේ ශ්‍රී ලංකා පිරිමි කණ්ඩායමේ නායක ලෙස ශාහිඩ් සුම්රි කටයුතු කරන අතර, කාන්තා කණ්ඩායමට මිනෝලි ජූඩ් නායකත්වය ලබා දේ.
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායම ක්‍රීඩාකරන පළමු තරගය අද පෙ.ව. 11.05ට ආරම්භ වන අතර, එහිදී ඔවුන් චීනය සමගින් තරගවැදීමට නියමිතය.
+
+◼️
+
+[Data](articles/672f36e7.json)
+
+---
+
 ### හෙට පැවැත්වෙන ශිෂ්‍යත්ව විභාගය ගැන විශේෂ දැනුම්දීමක්
 
 *2025-08-09 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213189) · `si`
 
-ඒ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එම් ඉන්දිකා කුමාරි මහත්මියගේ ප්‍රධානත්වයෙන් අද (09) පෙරවරුවේ ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වුණි.
+ඒ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මියගේ ප්‍රධානත්වයෙන් අද (09) පෙරවරුවේ ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වුණි.
 
 "පෙරවරු 9:30ට තමයි විභාගය ආරම්භ වෙන්නේ. නමුත් සියලුම දරුවන් තමන්ට හිමි විභාග මධ්‍යස්ථානයට පෙරවරු 8:30 වෙනවිට යන්න ඕනේ.  පෙරවරු 9 වනවිට විභාග ශාලාවේ දරුවන් අසුන් ගත යුතුයි."
 
@@ -118,6 +142,52 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Suspect arrested with heroin and ‘Ice’ in Minuwangoda
+
+*2025-08-09 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111298/suspect-arrested-with-heroin-and-ice-in-minuwangoda) · `en`
+
+A 37-year-old suspect has been arrested in the Unnaruwa area of the Minuwangoda Police Division in possession of 1.66 kilograms of heroin and 308 grams of crystal methamphetamine (“ICE”).
+
+The arrest was made during a raid conducted last evening (8), based on a tip-off received by a team of officers from the Gonahena camp of the Police Special Task Force.
+
+The suspect, a resident of the Minuwangoda area, was taken into custody and handed over to the Minuwangoda Police Station for further processing.
+
+◼️
+
+[Data](articles/f776d11e.json)
+
+---
+
+### Grade 5 Scholarship Exam to be held tomorrow
+
+*2025-08-09 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111297/grade-5-scholarship-exam-to-be-held-tomorrow) · `en`
+
+The 2025 Grade Five Scholarship Examination is scheduled to be held tomorrow (10).
+
+The Department of Examinations said accordingly, Paper II of the exam will be held from 9:30 a.m. to 10:45 a.m., and Paper I will be held from 11:15 a.m. to 12:15 p.m.
+
+◼️
+
+[Data](articles/412c3133.json)
+
+---
+
+### Female driver injured as train hits minivan in Aluthgama
+
+*2025-08-09 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111296/female-driver-injured-as-train-hits-minivan-in-aluthgama) · `en`
+
+A train travelling from Maradana to Matara has collided with a minivan at a railway crossing in Aluthgama this morning (9).
+
+The accident occurred at a railway crossing in the Seelananda road, near the Aluthgama Railway Station.
+
+It has been reported that the minivan was driven by a woman, who sustained injuries in the collision and has been admitted to hospital for treatment.
+
+◼️
+
+[Data](articles/32f9b7dc.json)
+
+---
+
 ### අලුත්ගමදී කුඩා වෑන් රථයක් දුම්රියක ගැටෙයි
 
 *2025-08-09 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213187) · `si`
@@ -167,6 +237,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d72ef448.json)
+
+---
+
+### Trump says he will meet Putin next Friday in Alaska to discuss ending the Ukraine war
+
+*2025-08-09 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111295/trump-says-he-will-meet-putin-next-friday-in-alaska-to-discuss-ending-the-ukraine-war) · `en`
+
+President Donald Trump said he will meet with Russian President Vladimir Putin next Friday in Alaska to discuss ending the war in Ukraine, a potential breakthrough after weeks of expressing frustration that more was not being done to quell the fighting.
+
+The Kremlin has not yet confirmed the details, which Trump announced on social media, but both nations had said they expected a meeting could happen as soon as next week.
+
+Such a summit may prove pivotal in a war that began more than three years ago when Russia invaded its western neighbor and has led to tens of thousands of deaths — although there’s no guarantee it will stop the fighting since Moscow and Kyiv remain far apart on their conditions for peace.
+
+...
+
+[Data](articles/feaab8eb.json)
+
+---
+
+### Several spells of light showers are expected today
+
+*2025-08-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111294/several-spells-of-light-showers-are-expected-today) · `en`
+
+The Meteorology Department states that several spells of light showers will occur in the Western, Sabaragamuwa, and Northern provinces, and in the Nuwara-Eliya, Kandy, Galle, and Matara districts.
+
+Mainly fair weather will prevail in other areas of the island, the Met. Department said.
+
+◼️
+
+[Data](articles/8e891295.json)
 
 ---
 
@@ -1695,113 +1795,5 @@ For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° 
 ...
 
 [Data](articles/d5ec4314.json)
-
----
-
-### කණ්ඩලමේ  හැඩකාරයාට සිංහල බෙහෙත් කිරීම ඇරඹේ
-
-*2025-08-08 12:39:29* · [`adalk`](https://www.ada.lk/breaking_news/කණ්ඩලමේ--හැඩකාරයාට-සිංහල-බෙහෙත්-කිරීම-ඇරඹේ/11-417795) · `si`
-
-වෙඩි වැදී කණ්ඩලම ජලාශයේ මාස හතරකට අධික කාලයක්  ප්‍රතිකාර ලබමින් සිටි කණ්ඩලමේ  හැඩකාරයා නම් වූ වන අලියාට සිංහල බෙහෙත් වලින් ප්‍රතිකාර කිරීම 07 දින පස්වරුවේ සිට ආරම්භ කොට තිබේ.
-
-වනජීවී දෙපාර්තමේන්තුවේ අවසරය ලබාගෙන ව් ්‍යාපාරික මහතෙකු විසින් පුද්ගලික ධනය වියදම් කරමින් ගම්පහ දොම්පේ ගිරිදර ප්‍රදේශයේ පාරම්පරික දේශීය වේද   මහතෙකු  වන ගාමිණී කරුණාරත්න මහතා  හා  ස්මින් වහන්සේලා කීප නමක් එක්ව මෙම ප්‍රතිකාර කිරීම ආරම්භ කොට තිබේ.
-
-ඒ  අනුව 7 දින පෙරවරුවේ කැලෑ ඖෂධ සොයාගෙන පැමිණ සිරුරේ  ඇති තුවාල වලට ආලේප කොට   ඉදිරි පාද දෙකේම යට කොටස දැඩි ලෙස තුවාල වී තිබීම නිසා එම ස්ථානවලට බෙහෙත් බැඳීම සිදුකරන්නට වූහ.
-
-පසුගිය දිනවල  වන ජීවී පශු  වෛද්‍ය කණ්ඩායම දැඩි වෙහෙසක් දරමින් මෙම අලියාට ප්‍රතිකාර ලබා දී යම් මට්ටමකින් සුව විය. පසුව ඔහුගේ පාදවල ඇති වූ ආසාදනික තත්ත්වයන් නිසා නැවතත් ජලය මත වැතිරී සිටින්නට විය
-
-වන ජීවී පශු  වෛද්‍ය කණ්ඩායම සහ වනජීවී නිලධාරීන් ප්‍රදේශවාසීන් එක්ව  නැවත වරක් මෙම අලියා නැගිට්ටවා ප්‍රතිකාර කිරීම් ආරම්භ කොට තිබියදී නැවතත් ඔහු ජලය මතට වැටී නැගිට ගැනීමට නොහැකි තත්ත්වයේ පසුවිය
-
-...
-
-[Data](articles/3b921bbf.json)
-
----
-
-### குடும்பத் தகராறு ; மனைவியை கொலை செய்த கணவன்
-
-*2025-08-08 12:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்-தகராறு-மனைவியை-கொலை-செய்த-கணவன்/175-362556) · `ta`
-
-அரலகங்வில - தியபெதும சந்தி பகுதியில் குடும்பத் தகராறினால் பெண்ணொருவர் அவரது கணவரால் கொலை செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-மெதயெல்ல வாவி பகுதியைச்  சேர்ந்த 40 வயதுடைய பாதிக்கப்பட்ட பெண், நேற்று இரவு கூர்மையான ஆயுதத்தால் தாக்கப்பட்டதாகவும் குறிப்பிடப்படுகின்றது.
-
-பெண்ணின் கணவர் என அடையாளம் காணப்பட்ட 48 வயதுடைய சந்தேகநபர் கைது செய்யப்பட்ட நிலையில், மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
-
-◼️
-
-[Data](articles/1b8060c7.json)
-
----
-
-### Deadline extended for 2025 A/L exam applications
-
-*2025-08-08 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111282/deadline-extended-for-2025-al-exam-applications) · `en`
-
-The deadline for submitting applications for the upcoming G.C.E. Advanced Level (A/L) examination has been extended.
-
-Applicants can now submit their applications online until midnight on August 12.
-
-Based on the 2024  re-scrutinized results, candidates who wish to apply for the 2025 G.C.E. Advanced Level Examination — and who were unable to do so during the previously allocated application period — are now granted the opportunity to submit their applications online.
-
-The Ministry of Education has issued a statement confirming that this grace period will not be extended further under any circumstances.
-
-The re-scrutinized results of the G.C.E. Advanced Level Examinations 2024 were released online yesterday (07), according to the Department of Examinations.
-
-◼️
-
-[Data](articles/8a51c484.json)
-
----
-
-### කටකතා වෙනුවට සත්‍ය අනාවරණය වීම ජයග්‍රහණයක් - සුප්‍රීම් සැට් විශේෂ නිවේදනයක්
-
-*2025-08-08 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213160) · `si`
-
-වසර 13ක් පුරා රටේ ජනතාව නොමඟ යවමින් පටු දේශපාලන වාසි තකා පැතිරුණු කටකතා වෙනුවට සත්‍ය අනාවරණය වී තම සමාගම ලැබූ ජයග්‍රහණයක් බව සුප්‍රීම් සැට් පෞද්ගලික සමාගම පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එහි සභාපති ආර්.එම්. මනිවන්නන් මහතා වැඩිදුරටත් සඳහන් කර ඇත්තේ, නිරන්තරයෙන් සුප්‍රීම් සැට් රටේ ප්‍රගමනය වෙනුවෙන්, නවෝත්පාදන ක්ෂේත්‍රයට දායකත්වය දක්වමින් තවදුරටත් සමාගමේ කීර්ති නාමය තව දුරටත් ප්‍රවර්ධනය කරමින් ජාත්‍යන්තර ප්‍රමිතියේ වාණිජ අභ්‍යවකාශ ක්ෂේත්‍රයේ කොටස්කරුවෙකු ලෙස ඉදිරියටත් කටයුතු කරන බවය.
-
-එමෙන්ම නිසි දැනුමක් හෝ අවබෝධයක් නොමැතිව ජනතාව නොමඟ යවමින් සිය දේශපාලනය කිරීමට වෙර දරන පිරිස් හා ඔවුනගේ පදනම් විරහිත හිස් ප්‍රකාශ සම්බන්ධයෙන් තම සමාගම දැඩිව කනගාටුව ප්‍රකාශ කරන බවද අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
-
-◼️
-
-[Data](articles/3eee45c8.json)
-
----
-
-### Weakening global growth to raise credit risks for emerging market issuers: Fitch
-
-*2025-08-08 12:00:00* · [`economynextcom`](https://economynext.com/weakening-global-growth-to-raise-credit-risks-for-emerging-market-issuers-fitch-235291/) · `en`
-
-ECONOMYNEXT – US tariff implementation and weakening global demand is likely to cause tougher credit conditions for emerging markets in the second half of this year, Fitch Ratings has said, despite the resilience seen in the global economy and capital markets during the first half.
-
-“We have revised our 2025 sector outlooks for Asia-Pacific, Eastern Europe and Sub-Saharan Africa sovereigns to ‘deteriorating’, from ‘neutral’, to reflect the tougher conditions,” the ratings agency said.
-
-Weaker prospects for bank loan growth, asset quality and profitability amid exposure to US trade policies led Fitch to adjust to some emerging market banking sector outlooks it said.
-
-Weakening Global Growth to Raise Credit Risks for Emerging Market Issuers
-
-...
-
-[Data](articles/233bc1a6.json)
-
----
-
-### 2025 උ.පෙළ විභාගයට අයදුම් කිරීමට ලබා දී තිබූ කාලය දීර්ඝ කෙරේ
-
-*2025-08-08 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213159) · `si`
-
-එළැඹෙන අ.පො.ස. (උ.පෙළ) විභාගය සඳහා අයදුම් කිරීමට ලබා දී තිබූ කාල සීමාව දීර්ඝ කර ඇත.
-
-ඒ අනුව එළැඹෙන 12 වනදා මධ්‍යම රාත්‍රී 12 දක්වා මාර්ගගත ක්‍රමය ඔස්සේ අයදුම්පත් ඉදිරිපත් කිරීමට අවස්ථාව සලසා දී තිබේ.
-
-2024  නැවත සමීක්ෂණ ප්‍රතිඵල මත 2025 උ.පෙළ විභාගයට අයදුම් කිරීමට බලාපොරොත්තු වන හා ඒ සඳහා අයදුම් කිරීමට ලබා දී තිබූ කාල සීමාව තුළ අයදුම් කිරීමට නොහැකි වූ අයදුම්කරුවන්ට මෙම අයදුම්පත් ඉදිරිපත් කිරීමේ අවස්ථාව සලසා දී ඇත.
-
-ඒ අනුව මෙම සහන කාල සීමාව කිසිදු හේතුවක් මත තව දුරටත් දීර්ඝ නොකරන බව නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
-
-◼️
-
-[Data](articles/848a1747.json)
 
 ---

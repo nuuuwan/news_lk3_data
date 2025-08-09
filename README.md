@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 05:18:27**
+As of **2025-08-09 05:31:20**
 
 ## Newspaper Stats
 
-*Scraped **69,482** Articles*
+*Scraped **69,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 706
-islandlk | 4,240
 economynextcom | 4,242
+islandlk | 4,247
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,691
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,482 articles have been extended.
+61,973 (89.2%) of 69,489 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -289,6 +289,104 @@ During the meeting, a comprehensive explanation of the educational reforms was p
 ◼️
 
 [Data](articles/a91c9458.json)
+
+---
+
+### Hafiz Sheriff announces the release of his 2nd book – ‘Character’ by Austin Macaulay Publishers UK
+
+*2025-08-08 21:02:00* · [`islandlk`](http://island.lk/hafiz-sheriff-announces-the-release-of-his-2nd-book-character-by-austin-macaulay-publishers-uk/) · `en`
+
+Chartered accountant-turned- author Hafiz Sheriff announced the launch of his second book, “Character”, which will be released worldwide on the 15th of August 2025 by Austin Macaulay Publishers (U.K). Offering a sharp and thought-provoking exploration of values and how they shape the human experience, the book arrives at a pivotal moment in world history.
+
+...
+
+[Data](articles/4d3d9d6e.json)
+
+---
+
+### NDB Bank joins hands with International Scholar to enhance access to overseas education
+
+*2025-08-08 21:01:00* · [`islandlk`](http://island.lk/ndb-bank-joins-hands-with-international-scholar-to-enhance-access-to-overseas-education/) · `en`
+
+NDB Bank is proud to announce its latest partnership with International Scholar, one of Sri Lanka’s most reputed education consultancy firms, with the aim of making overseas education more financially accessible and stress-free for Sri Lankan students and their families. The Memorandum of Understanding (MOU) was officially signed on July 20, 2025, at the Bank’s Head Office in Colombo.
+
+Signing the MOU on behalf of NDB Bank were Mr. Sanjaya Perera, Senior Vice President – Personal Banking & Customer Experience, and Mr. Zeyan Hameed, Vice President – Retail Banking. Representing International Scholar were Mr. Keerthi Jayasuriya, Chief Executive Officer, and Mrs. Ruckmalie Jayasuriya, Director and Chief Counsellor.
+
+...
+
+[Data](articles/8220cca3.json)
+
+---
+
+### Advocata Institute welcomes free visa entry expansion, calls for long-term liberalization and policy stability
+
+*2025-08-08 21:00:00* · [`islandlk`](http://island.lk/advocata-institute-welcomes-free-visa-entry-expansion-calls-for-long-term-liberalization-and-policy-stability/) · `en`
+
+The Advocata Institute, while welcoming the government’s recent decision to waive visa fees for tourists from 40 additional countries, calls for broader liberalisation of the visa regime to fully unlock economic opportunities through tourism.
+
+Sri Lanka is currently aiming for three million tourist arrivals and USD 5 billion in revenue this year. Advocata believes that open, clear, and consistent visa policies—combined with a welcoming environment, investment-friendly regulation, and high-value targeting—will be essential to achieving that goal.
+
+“This is a step in the right direction,” said Dhananath Fernando, CEO of Advocata Institute. “Tourism is one of the few sectors in Sri Lanka with immediate job-creating potential and strong multiplier effects across the economy. Reducing barriers to entry, even something as simple as waiving a fee, can go a long way in making Sri Lanka more attractive as a destination.”
+
+...
+
+[Data](articles/51d9e81f.json)
+
+---
+
+### LAUGFS Rubber wins Gold Award for Export Excellence in Sri Lanka
+
+*2025-08-08 21:00:00* · [`islandlk`](http://island.lk/laugfs-rubber-wins-gold-award-for-export-excellence-in-sri-lanka/) · `en`
+
+LAUGFS Rubber, a leading name in industrial solid tyre manufacturing, has reaffirmed its position as a benchmark for excellence in Sri Lanka’s corporate landscape by securing multiple recognitions at the recently held National Business Excellence Awards (NBEA) 2025. The company was honoured as the Winner in the Export Sector and named 2nd Joint Runner-Up in the Large Category. These accolades highlight LAUGFS Rubber’s strong global presence, operational excellence, and ongoing leadership in the industrial tyre manufacturing industry.
+
+The National Business Excellence Awards is a premier annual awards programme organised by the National Chamber of Commerce of Sri Lanka, aimed at recognizing organisations that demonstrate outstanding achievements across critical areas of business excellence. Participating companies are assessed through a robust framework that includes leadership, corporate governance, performance management, market reach, sustainability, and capacity building.
+
+...
+
+[Data](articles/b0fdc128.json)
+
+---
+
+### Hemas’ performance momentum continues in FY 25/26
+
+*2025-08-08 20:58:00* · [`islandlk`](http://island.lk/hemas-performance-momentum-continues-in-fy-25-26/) · `en`
+
+The Group sustained its positive trajectory from the previous year, delivering a resilient performance for the quarter achieving a cumulative revenue of Rs. 28.5 billion. Operating profit and earnings grew by 6.9 % and 26.1% respectively, reaching Rs. 2.1 billion and Rs. 1.2 billion for the quarter. The year on year improvement in Group earnings was driven by stronger topline growth, improved gross profit margins, and reduced finance costs. Revenue in the Consumer Brands Sector recorded a marginal decline compared to the previous year, primarily due to the impact of prior-year strategic price adjustments.
+
+...
+
+[Data](articles/1137a553.json)
+
+---
+
+### Serendib Flour Mills champions SLIM National Sales Awards 2025 as Official Nutritional Partner
+
+*2025-08-08 20:56:00* · [`islandlk`](http://island.lk/serendib-flour-mills-champions-slim-national-sales-awards-2025-as-official-nutritional-partner/) · `en`
+
+Nourishing and supporting professional sales excellence, Serendib Flour Mills Limited (SFML) is partnering the SLIM National Sales Awards 2025 as the Official Nutritional Partner.
+
+SFML is a wholly owned subsidiary of the Dubai-headquartered Al Ghurair, one of the leading diversified family businesses in the United Arab Emirates (UAE). For the past 16 years, SFML has been a trusted cornerstone of Sri Lanka’s food industry, playing a pivotal role in the food security of the country, driven by the overarching purpose of ‘Nourishing the Nation,’ and
+
+...
+
+[Data](articles/3d815bbb.json)
+
+---
+
+### Anverally and Sons earns prestigious ISO/IEC 17025 international certification for in-house laboratory
+
+*2025-08-08 20:56:00* · [`islandlk`](http://island.lk/anverally-and-sons-earns-prestigious-iso-iec-17025-international-certification-for-in-house-laboratory/) · `en`
+
+Anverally and Sons (Pvt) Ltd., one of Sri Lanka’s foremost exporters of Ceylon Tea, has strengthened its reputation for uncompromising quality and global trust by securing ISO/IEC 17025 accreditation for its state-of-the-art in-house laboratory.
+
+This internationally recognised certification, which is valid until March 2029, confirms that Anverally’s laboratory operates competently and produces valid, reliable test results in accordance with rigorous global standards.
+
+The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and is further endorsed by the International Accreditation Forum (IAF) and the International Laboratory Accreditation Cooperation (ILAC), ensuring broad acceptance of the laboratory’s results in international markets.
+
+...
+
+[Data](articles/e5d50606.json)
 
 ---
 
@@ -1737,141 +1835,5 @@ At the current interest rates, the central bank is still able to collect some am
 ◼️
 
 [Data](articles/17d415f8.json)
-
----
-
-### Sri Lanka BYD agents say Customs to release detained cars on bank guarantee
-
-*2025-08-08 07:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-byd-agents-say-customs-to-release-detained-cars-on-bank-guarantee-235324/) · `en`
-
-ECONOMYNEXT – Sri Lanka agents for BYD, John Keells CG Auto, says about 1,000 Atto 3 units detained by Customs over a dispute on its motor, has been released subject to a bank guarantee, after the firm went to the Court of Appeal.
-
-“Pursuant to the submissions made in the Court of Appeal on behalf of JKCG today, Sri Lanka Customs agreed to the immediate release of the vehicles, subject to the provision of security in the form of a Bank Guarantee,” the firm said in statement.
-
-The vehicles were detained by Customs after a complaint that it had the same physical motor as in a 150kW model and questions whether the output of the motor rated at 100kW will be accepted by authorities in Sri Lanka.
-
-JKCG said BYD makes 100kW models for Singapore, Nepal and Sri Lanka and 150kW for countries like Thailand and Singapore.
-
-...
-
-[Data](articles/200cd7cd.json)
-
----
-
-### අවසන් රන්දෝලි පෙරහැර අද රාත්‍රියේ
-
-*2025-08-08 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213153) · `si`
-
-ඓතිහාසික මහනුවර ශ්‍රී දළදා මාලිගාවේ  අවසන් රන්දෝලි පෙරහැර අද (08) රාත්‍රියේ වීථි සංචාරය කිරීමට නියමිතව තිබේ.
-
-ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඔල් පෙරහැර පසුගිය මස 30 වෙනිදා ආරම්භ වු අතර  පුරා දින 9ක් පෙරහැර වීථි සංචාරය කිරීමෙන් අනතුරුව 10 වන දිනය වන අද දින පස්වරුවේ අවසන් රන්දෝලි පෙරහැර වීථි සංචාරය කිරීමට නියමිත බව දියවඩන නිළමේ ප්‍රදීප් නිලංග දැල මහතා පැවසුවේය.
-
-මේ අතර, හෙට (09) දහවල් පෙරහැර සවස 2.16ට අස්ගිරිය ගෙඩිගේ රජමහා විහාරයෙන් ශ්‍රී දන්තධාතු මන්දිරයෙන් පිටත්ව, සතර මහා දේවාල පෙරහැර ද කැටුව, ඩී.එස්. සේනානායක වීථිය හා පන්සල පාරේ ගමන්කර, දේව වීථියෙන් රජ වීථියට හැරී සිරිත් ප්‍රකාරව, ශ්‍රී දළදා මාළිගා චතුරශ්‍රයේ තෙවරක් ප්‍රදක්ෂිණා කොට, සවස 4.42ට උතුරු දිශාභිමුඛව පෙරහැර ගෙවැදීමට නියමිතය.
-
-මේ අතර මහනුවර ඇසළ මංගල්‍යය සඳහා සහභාගී වන බැතිමතුන් වෙනුවෙන් අද දිනයේද විශේෂ දුම්රිය කිහිපයක් ධාවනයට එක්කර ඇතිබව දුම්රිය සාමානය්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා පැවසුවේය.
-
-...
-
-[Data](articles/50dfc336.json)
-
----
-
-### කෙන්යාවේ ගුවන්යානයක් කඩාවැටී 6ක් මරුට
-
-*2025-08-08 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213152) · `si`
-
-කෙන්යාවේ වෛද්‍ය ආධාර සපයන ගුවන් යානයක් (Air Ambulance) කඩාවැටී සිදු වූ අනතුරකින් 6 දෙනෙකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
-
-එරට අගනුවර වන නයිරෝබි අසල නේවාසික ප්‍රදේශයකට මෙම යානය කඩාවැටී තිබේ.
-
-එරට වේලාවෙන් ඊයේ (7) ප.ව. 2:17ට විල්සන් ගුවන්තොටුපොළෙන් පිටත්ව ඇති මධ්‍යම ප්‍රමාණයේ ජෙට් යානයක් වූ මෙය, සෝමාලිලන්තය බලා පියාසර කරමින් තිබිය ප.ව. 3ට පමණ කඩාවැටී ඇත.
-
-අනතුර සිදුවන අවස්ථාවේ නියමුවා ඇතුළුව පුද්ගලයින් සිවුදෙනෙක් යානයේ සිට අතර, ඔවුන් සියලු දෙනාට දිවි අහිමි වී තිබේ.
-
-සෙසු මියගිය දෙදෙනා යානය කඩාවැටෙන අවස්ථාවේ නේවාසික ප්‍රදේශයේ සිටි අය බව සඳහන්.
-
-◼️
-
-[Data](articles/24592698.json)
-
----
-
-### Donald Trump rules out trade talks with India amid tariff dispute
-
-*2025-08-08 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111278/donald-trump-rules-out-trade-talks-with-india-amid-tariff-dispute) · `en`
-
-US President Donald Trump has said there will be no trade negotiations with India until a dispute over tariffs is resolved, following his administration’s decision to double tariffs on Indian imports.
-
-When pressed by ANI at the Oval Office, whether he expected talks to resume in light of the new 50% tariff.
-
-The White House on Wednesday issued an Executive Order imposing an additional 25 percentage points in tariffs on Indian goods, raising the total levy to 50%. The administration cited national security and foreign policy concerns, pointing specifically to India’s ongoing imports of Russian oil.
-
-The order claims that these imports, whether direct or via intermediaries, present an “unusual and extraordinary threat” to the United States and justify emergency economic measures.
-
-...
-
-[Data](articles/c8a7e43d.json)
-
----
-
-### Youth killed in last night’s shooting in Borella
-
-*2025-08-08 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111277/youth-killed-in-last-nights-shooting-in-borella) · `en`
-
-An individual has died in a shooting that occurred last night (07) near the Sahaspura Sirisara Housing Complex in Borella, police stated.
-
-The shooting was carried out by two unidentified individuals who arrived on a motorcycle around 8:40 p.m. yesterday, targeting a group of youth.
-
-The suspects used a T-56 firearm in the attack, and according to police, the shooters have fled the scene.
-
-The deceased has been identified by police as a 23-year-old resident of Kelaniya.
-
-Meanwhile, four others aged 21, 22, and 23, who are residents of Colombo 09, are currently receiving treatment at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/1bce4cca.json)
-
----
-
-### නිකිණි පුර පසළොස්වක පොහොය අදයි
-
-*2025-08-08 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213151) · `si`
-
-ශාසනික වශයෙන් ඓතිහාසික සිදුවීම් ගණනාවක් සිදු වූ නිකිණි පුර පසළොස්වක පෝය දිනය අදට (08) යෙදී තිබේ.
-
-ප්‍රථම ධර්ම සංගායනාව පැවැත්වීම, ආනන්ද හිමි රහත් භාවයට පත්වීම, පෙර වස් මඟහැරි භික්ෂූන් වහන්සේ පසුවස් එළඹීම මෙන්ම බුදුන්වහන්සේගේ ලලාට ධාතු තැන්පත් කරමින් සේරුවිල දා ගැබ තැනීම ආරම්භ කිරීම ඇතුළු කරුණු ගණනාවක් සම්බන්ධයෙන් මෙම පොහොය විශාල වැදගත්කමක් උසුලයි.
-
-එමෙන්ම පන්සල සහ ගිහියන් අතර සබඳතාව වඩාත් තහවුරු කිරීමට ද මෙම පොහොය වැදගත් වේ.
-
-ඒ අනුව අද උදෑසන සිටම සැදැහැවතුන් බොහෝ පිරිසක් වෙහෙර විහාරස්ථාන වෙත ගොස් ආගමික වතාවත්වල නිරත වන බව 'අද දෙරණ' වාරතාකරුවන් සඳහන් කළේය.
-
-මේ අතර මහනුවර ඇසළ පෙරහරේ අවසන් රන්දෝලි පෙරහර අද රාත්‍රියේ වීථී සංචාරය කිරීමට නියමිතය.
-
-සෑම පුර පසළොස්වක පොහෝ දිනකම පවත්වනු ලබන FM දෙරණ අසපුව පෝදා සජීවී විකාශයේ 125 වන වැඩසටහන අද කඩවත ශ්‍රී වර්ධනාරාම මූලගන්ධකුටි විහාරස්ථානයේදී පැවැත්වේ.
-
-◼️
-
-[Data](articles/78d8f1d3.json)
-
----
-
-### Final Randoli Perahera of Kandy Esala Festival to parade the streets tonight
-
-*2025-08-08 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111276/final-randoli-perahera-of-kandy-esala-festival-to-parade-the-streets-tonight) · `en`
-
-The final Randoli Perahera of this year’s Kandy Esala Festival will parade the streets tonight.
-
-The Grand Randoli Perahera is scheduled to commence at the auspicious time of 6:51 p.m. today from the Sri Dalada Maligawa.
-
-Today’s procession will commence from the Temple of the Sacred Tooth Relic heading northwards and continue along the Sri Dalada Veediya, Yatinuwara Veediya, Kande Veediya, and D. S. Senanayake Veediya.
-
-It will return to the Temple of the Sacred Tooth Relic through Raja Veediya.
-
-The Grand Randoli Perahera is scheduled to leave at 1:18 a.m. tomorrow from the Maligawa premises, accompanied by the four Devale processions – Natha, Vishnu, Kataragama, and Pattini – and parade head along the Dalada Veediya and D. S. Senanayake Veediya to the Gedige Rajamaha Viharaya, where the Sacred Relic Casket will be placed ceremonially.
-
-...
-
-[Data](articles/5f53e579.json)
 
 ---

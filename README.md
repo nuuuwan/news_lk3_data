@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 17:31:04**
+As of **2025-08-09 17:52:03**
 
 ## Newspaper Stats
 
-*Scraped **69,549** Articles*
+*Scraped **69,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,695
-adaderanalk | 8,646
+adaderanalk | 8,647
 tamilmirrorlk | 10,174
-virakesarilk | 11,583
-adaderanasinhalalk | 11,988
+virakesarilk | 11,585
+adaderanasinhalalk | 11,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,549 articles have been extended.
+61,973 (89.1%) of 69,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### කැලිෆෝනියාවේ ලැව්ගිනි හේතුවෙන් පදිංචිකරුවන් දහස් ගණනක් ඉවත් කෙරේ
+
+*2025-08-09 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213201) · `si`
+
+එක්සත් ජනපදයේ ලොස් ඇන්ජලීස් හී වයඹ දෙසින් ඇති වී ඇති දරුණු ලැව් ගිනි හේතුවෙන් එම ප්‍රදේශය ආශ්‍රිතව පදිංචිකරුවන් දහස් ගණනක් ඉවත් කිරීමට පියවර ගෙන තිබේ.
+
+කැනියොන් ගින්න ලෙස නම් කරන ලද මෙම ලැව්ගින්න පසුගිය බ්‍රහස්පතින්දා දහවල් එරට වෙන්දුරා සහ ලොස් ඇන්ජලීස් ප්‍රාන්තවල මායිම් ආශ්‍රිතව ඇවිළී ගොස් ඇත.
+
+එම ලැව්ගිනි ඊයේ පස්වරුවන වන විට අක්කර 5,400කට ආසන්න ප්‍රමාණයක් දක්වා ව්‍යාප්ත වී තිබේ.
+
+මේ වන විට අදාළ බලධාරීන් ගින්න මැඩ පැවැත්වීමට පියවර ගනිමින් සිටින අතර විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මේ වන විට ඉන් 28%කට ආසන්න ප්‍රමාණයක් මැඩ පැවැත්වීමට බලධාරීන් පියවර ගෙන ඇති බවය.
+
+අදාළ බලධාරීන් වාර්තා කර ඇත්තේ අධික උණුසුම් සහ වියළි කාලගුණය හේතුවෙන් ගිනි නිවීමේ කටයුතු සංකීර්ණ වී ඇති බවය.
+
+ඊයේ දිනවන විට ගිනි නිවීමේ භටයින් 400ක් පමණ ගින්න නිවා දැමීම සඳහා දැඩි මෙහෙයුම් රැසක්ද දියත් කර තිබුණි.
+
+කෙසේ නමුත් ගින්න තවමත් සක්‍රීයව පවතින අතර ලොස් ඇන්ජලීස් ප්‍රාන්තයේ කැස්ටයික් දෙසට නැගෙනහිරට පැතිර යන බවද බලධාරීන් පවසා තිබේ.
+
+...
+
+[Data](articles/9c4896d1.json)
+
+---
+
+### பலஸ்தீன் - இஸ்ரேல் மோதல் மனித பேரழிவு ;  சஜித் பிரேமதாச
+
+*2025-08-09 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222176) · `ta`
+
+பலஸ்தீனத்திற்கும் இஸ்ரேலுக்கும் இடையிலான அதிகாரப் போர் தற்போது மனித பேரழிவாக உருவெடுத்து வருகிறது. இந்தப் பேரழிவை தடுப்பதற்கு அஹிம்சை மாத்திரமே ஒரே வழியாகும் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+காசாவை இஸ்ரேல் இராணுவத்தின் முழுமையான கட்டுப்பாட்டின் கீழ் கொண்டு வருவது தொடர்பான பிரதமர் பெஞ்சமின்னின் திட்டத்துக்கு இஸ்ரேலிய பாதுகாப்பு அமைச்சரவை அனுமதி வழங்கியுள்ளது. இஸ்ரேலிய பிரதமர் அலுவலகம் அறிக்கையொன்றை வெளியிட்டு இதனைத் தெரிவித்துள்ளது. இது தொடர்பில் தனது எக்ஸ் தளத்தில் செய்துள்ள பதிவிலேயே எதிர்க்கட்சி தலைவர் இதனைத் தெரிவித்துள்ளார்.
+
+பலஸ்தீனத்திற்கும் இஸ்ரேலுக்கும் இடையில் யாருடைய வரலாறு அதிக பலம் கொண்டது என்பது பற்றிய விவாதத்துக்கு அப்பால், இது ஒரு மனித பேரழிவாக மாறிவிட்டது.
+
+இந்தப் பேரழிவைத் தடுப்பதற்கு அகிம்சை மட்டுமே ஒரே வழி, வேறு வழியில்லை. பிரதேசம் அல்லது வளங்களை வெல்வதை விட, நமது மனிதநேயத்தை இழப்பது குறித்து நாம் மிகவும் கவலைப்பட வேண்டும். நாம் அதை இழந்தால், எல்லாவற்றையும் இழந்துவிட்டோம் எனக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0447a5a6.json)
+
+---
 
 ### දිවයින පුරා විශේෂ මෙහෙයුමක්
 
@@ -53,6 +95,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3e607133.json)
+
+---
+
+### Bus crash kills 25 people returning from funeral in Kenya
+
+*2025-08-09 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111307/bus-crash-kills-25-people-returning-from-funeral-in-kenya) · `en`
+
+A bus carrying mourners from a funeral has crashed in western Kenya, killing 25 people, local authorities say.
+
+The driver lost control, veered off the road and overturned into a ditch along the Kisumu-Kakamega Highway on Friday afternoon, a police report seen by the BBC says. This area is notorious for many deadly accidents.
+
+Police said 10 women, 10 men and one girl died at the scene, with 20 passengers injured, five of them seriously. Four people later died in hospital, officials said.
+
+The passengers were returning from a burial ground and are all believed to be from one family.
+
+The vehicle was a secondary school bus, but there were no students on board as it was being used for the funeral transport.
+
+The bus was coming from a burial ceremony at Nyahera and going to Nyakach, a distance of about 62 km (38.5 miles).
+
+Kenya’s Ministry of Health made a call for an “urgent blood drive” to help survivors and extended its “condolences to the bereaved”.
+
+...
+
+[Data](articles/8d4a3a58.json)
 
 ---
 
@@ -317,6 +383,22 @@ Further details and logistics of the meeting are still unclear and remain very f
 ◼️
 
 [Data](articles/01e03240.json)
+
+---
+
+### நுவரெலியாவில் அலைமோதும் சுற்றுலா பயணிகள் கூட்டம்
+
+*2025-08-09 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222159) · `ta`
+
+நாடு முழுவதிலுமிருந்து உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை காரணமாக, இயற்கை எழில் சூழ்ந்த நுவரெலியா நகரம் தற்போது பெரும் பரபரப்புடன் காணப்படுகிறது. விடுமுறைகள் மற்றும் பாடசாலை விடுமுறை காரணமாக இந்த வருகை அதிகரித்துள்ளது.
+
+வார இறுதி மற்றும் பாடசாலை விடுமுறைகளையொட்டி, நுவரெலியாவில் உள்ள பல பிரபலமான சுற்றுலாத் தலங்களை நோக்கிப் படையெடுக்கும் பயணிகளின் எண்ணிக்கை நாளுக்கு நாள் அதிகரித்து வருகிறது. இதன் காரணமாக, நகரில் உள்ள உணவகங்கள் மற்றும் தங்கும் விடுதிகள் அனைத்தும் முழுமையாக நிரம்பியுள்ளன.
+
+நுவரெலியாவுக்கு வரும் சுற்றுலாப் பயணிகளில் பெரும்பாலானோர், கிரிகரி ஏரிக்கரையில் நடைபெறும் களியாட்ட நிகழ்வுகள், சைக்கிள் சவாரி, படகு சவாரி மற்றும் குதிரைச் சவாரி போன்ற பொழுதுபோக்குகளில் ஆர்வம் காட்டுகின்றனர். குறிப்பாக, படகு சவாரியில் அதிக நாட்டம் செலுத்துகின்றனர். ஏரிக்கரையின் அழகிய காட்சிகளை ரசிப்பதற்கான சந்தர்ப்பமும் அவர்களுக்கு வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3cef562c.json)
 
 ---
 
@@ -1743,77 +1825,5 @@ The suspect sustained injuries in the incident and has been admitted to the Mull
 ◼️
 
 [Data](articles/5bd957cc.json)
-
----
-
-### කඩුවෙලදී පොලිස් වෙඩි තැබීමක්
-
-*2025-08-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213177) · `si`
-
-කඩුවෙල කොතලාවල කැකිලිවෙල පාර ප්‍රදේශයේ දී අද (08) පොලීසිය විසින් වෙඩි තැබීමක් සිදු කර තිබේ.
-
-සැකකරුවෙකු අත්අඩංගුවට ගැනීමට යාමේදී අදාළ සැකකරු විසින් පොලීසියට කඩුවකින් පහර දීමට උත්සහා කර ඇත.
-
-එම අවස්ථාවේ දී පොලීසිය විසින් ආත්ම ආරක්ෂාව පිණිස සැකකරුට වෙඩි තබා ඇති බව වාර්තා වේ.
-
-වෙඩි වැදීමෙන් තුවාල ලැබූ සැකකරු මුල්ලේරියාව රෝහලට ඇතුලත් කර තිබේ.
-
-◼️
-
-[Data](articles/8af7fa0f.json)
-
----
-
-### யாழ். வடமராட்சி கட்டைக்காட்டில் நூற்றுக்கணக்கான பனைகளுக்கு தீ வைப்பு !
-
-*2025-08-08 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222126) · `ta`
-
-யாழ்ப்பாணம், வடமராட்சி கிழக்கு கட்டைக்காடு பகுதியில் விஷமிகளால் தீ வைக்கப்பட்டதில் நூற்றுக்கணக்கான பனை மரங்கள் எரிந்து நாசமாகியுள்ளன.
-
-நேற்று மாலை சுமார் 5.30 மணியளவில் கட்டைக்காடு இராணுவ முகாமிற்கு முன்னால் உள்ள பனைகள் திடீரென தீப்பற்றி எரிந்துள்ளன.
-
-இதனை அவதானித்த இராணுவத்தினர், தீயை அணைப்பதற்காக தீயணைப்பு வாகனம் மற்றும் மருதங்கேணி இராணுவ முகாமிலிருந்து 200க்கும் மேற்பட்ட இராணுவத்தினரை வரவழைத்து தீயை அணைக்கும் முயற்சியில் ஈடுபட்டனர்.
-
-விஷமிகளால் வைக்கப்பட்ட தீ வேகமாகப் பரவியதால், அருகில் இருந்த ஏனைய பனை மரங்களும் தீக்கிரையாகின. சுமார் இரண்டு மணிநேர கடும் போராட்டத்திற்குப் பின்னரே தீ கட்டுப்பாட்டிற்குள் கொண்டுவரப்பட்டது.
-
-தற்போது பனம் பழ சீசன் என்பதால், பனைகளை நம்பி வாழும் மக்கள் இந்தச் சம்பவத்திற்கு கடும் கண்டனத்தை வெளியிட்டுள்ளனர். இச்சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/98e9cb97.json)
-
----
-
-### Sri Lanka makes strides in prevention and care of cervical cancer
-
-*2025-08-08 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111290/sri-lanka-makes-strides-in-prevention-and-care-of-cervical-cancer) · `en`
-
-An international review has found that Sri Lanka has made strides in cancer control in the past five years, boosting vaccination against the human papillomavirus (HPV) and cervical cancer screening, and expanding access to treatment services and palliative care.
-
-The country now plans to address a growing burden of oral cancers and to reinforce childhood cancer programmes as part of its upcoming health strategy.
-
-The imPACT review, concluded in March 2025, was carried out jointly by the IAEA, the World Health Organization (WHO) and the International Agency for Research on Cancer (IARC), with technical engagement from St. Jude Children’s Research Hospital and the MD Anderson Cancer Center in the United States of America.
-
-The review covered Sri Lanka’s capacities and progress in cancer management since a previous assessment in 2019, which laid the groundwork for the National Strategic Plan on Prevention and Control of Cancer (2020-2024).
-
-...
-
-[Data](articles/99ebae60.json)
-
----
-
-### தமிழ் அரசுக்கட்சி விரும்பினால் எதிர்வரும் வாரம் சந்திக்கத் தயார் தமிழ்த்தேசிய மக்கள் முன்னணி அறிவிப்பு
-
-*2025-08-08 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222127) · `ta`
-
-வட, கிழக்கு மாகாணங்களைப் பிரதிநிதித்துவப்படுத்தும் தமிழ்த்தேசிய அரசியல் கட்சிகளும் சிவில் அமைப்புக்களும் இணைந்து ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு அனுப்பிவைத்த கடிதத்தில் இலங்கைத் தமிழ் அரசுக்கட்சி கையெழுத்திடாத நிலையில், அவர்கள் விரும்பும் பட்சத்தில் எதிர்வரும் வாரம் அவர்களைச் சந்தித்துக் கலந்துரையாடுவதற்குத் தயாராக இருப்பதாக தமிழரசுக்கட்சியிடம் தமிழ்த்தேசிய மக்கள் முன்னணி தெரிவித்துள்ளது.
-
-தமிழ்த்தேசிய மக்கள் முன்னணிக்கும் இலங்கைத் தமிழரசுக்கட்சிக்கும் இடையில் கடந்த முதலாம் திகதி கொழும்பிலுள்ள தனியார் ஹோட்டல் ஒன்றில் நடைபெற்ற சந்திப்பின்போது தமிழ்த்தேசிய அரசியல் கட்சிகளும், சிவில் அமைப்புக்களும் இணைந்து ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்கு அனுப்பிவைக்கவிருந்த (அனுப்பிவைக்கப்பட்டுவிட்டது) கடிதத்தில் தமிழரசுக்கட்சி கையெழுத்திடுவது குறித்துக் கலந்துரையாடப்பட்டது.
-
-அதற்கமைய கடந்த 3 ஆம் திகதி யாழ்ப்பாணத்தில் நடைபெறவிருந்த தமிழரசுக்கட்சியின் அரசியல் குழுக்கூட்டத்தின்போது மேற்படி கடிதத்தில் கையெழுத்திடுவது குறித்துத் தீர்மானிக்கப்படும் என அறிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/97017eb0.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 10:24:14**
+As of **2025-08-09 10:36:02**
 
 ## Newspaper Stats
 
-*Scraped **69,512** Articles*
+*Scraped **69,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,242
 islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,693
+adalk | 6,694
 adaderanalk | 8,640
 tamilmirrorlk | 10,167
 virakesarilk | 11,574
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,512 articles have been extended.
+61,973 (89.2%) of 69,513 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,20 @@ It has been reported that the minivan was driven by a woman, who sustained injur
 ◼️
 
 [Data](articles/4a477399.json)
+
+---
+
+### අදත් ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක්
+
+*2025-08-09 07:41:41* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-ප්‍රධාන-වශයෙන්-වැසි-රහිත-කාලගුණ-තත්ත්වයක්/11-417802) · `si`
+
+දිවයිනේ බොහෝ පළාත්වල අද දිනයේදී ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+කෙසේ වෙතත් බස්නාහිර, සබරගමුව හා උතුරු පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති වන බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/14622f48.json)
 
 ---
 
@@ -1777,23 +1791,5 @@ For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° 
 ...
 
 [Data](articles/d44fed65.json)
-
----
-
-### Truth about satellite launch and funding clear after 13 years – SupremeSAT chairman
-
-*2025-08-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111283/truth-about-satellite-launch-and-funding-clear-after-13-years-supremesat-chairman) · `en`
-
-Sri Lankan satellite operator SupremeSAT (Pvt.) Ltd. has welcomed the long-awaited public acknowledgment, after 13 years, confirming that the SupremeSAT satellite was successfully launched and that no government funds were used for the project.
-
-In an official statement, its Chairman R.M. Manivannan emphasized that these facts have been a matter of public record since 2012. However, politically motivated narratives have sought to deny them for over a decade.
-
-Despite this overdue recognition, certain individuals continue to make unfounded claims about the company, focusing particularly on the satellite’s location and SupremeSAT’s corporate accounts, he said.
-
-For clarity, SupremeSAT confirmed that the satellite remains in orbit at 87.5° East, precisely where it was positioned upon launch.
-
-...
-
-[Data](articles/d5ec4314.json)
 
 ---

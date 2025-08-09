@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 11:06:32**
+As of **2025-08-09 11:20:30**
 
 ## Newspaper Stats
 
-*Scraped **69,514** Articles*
+*Scraped **69,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,694
-adaderanalk | 8,640
-tamilmirrorlk | 10,167
+adaderanalk | 8,642
+tamilmirrorlk | 10,168
 virakesarilk | 11,574
 adaderanasinhalalk | 11,980
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.2%) of 69,514 articles have been extended.
+61,973 (89.1%) of 69,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### வீட்டில் தீ: 7 வயது சிறுவன் பலி
+
+*2025-08-09 11:05:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டில்-தீ-7-வயது-சிறுவன்-பலி/76-362584) · `ta`
+
+பலாங்கொடை, தெஹிகஸ்தலாவை, மஹவத்த பகுதியில் உள்ள ஒரு வீட்டில் இன்று (09) அதிகாலை ஏற்பட்ட தீ விபத்தில் ஏழு வயது சிறுவன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+வீடு தீப்பிடித்ததில் தீக்காயங்களுடன் பலாங்கொடை ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்ட பின்னர் சிறுவன் உயிரிழந்தான்.
+
+◼️
+
+[Data](articles/385a8037.json)
+
+---
 
 ### ඊශ්‍රායලයේ තීරණය ගැන ශ්‍රී ලංකාවේ දැඩි කනස්සල්ල
 
@@ -47,6 +61,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c2b02751.json)
+
+---
+
+### Sri Lanka expresses deep concern over Israel’s decision on Gaza
+
+*2025-08-09 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111301/sri-lanka-expresses-deep-concern-over-israels-decision-on-gaza) · `en`
+
+Sri Lanka today expressed deep concern over the decision by Israel to seize control of Gaza, which it said will lead to further escalation of violence and suffering for the people of Gaza.
+
+Sri Lanka calls for an immediate ceasefire and urges all parties to resolve their differences through diplomatic dialogue in order to establish sustainable peace, the Ministry of Foreign Affairs said in a brief statement.
+
+Yesterday (8), the Israeli security cabinet approved Prime Minister Benjamin Netanyahu’s plan to take full military control of Gaza City, according to a statement from the Prime Minister’s Office.
+
+This decision follows Netanyahu’s declaration on Thursday of his intention for a full military occupation of Gaza, prior to a cabinet meeting that extended into the night.
+
+The announced plan to take over Gaza City, located in the northern part of the Gaza territory, falls short of a full occupation of the entire Gaza Strip.
+
+...
+
+[Data](articles/6e2e4161.json)
 
 ---
 
@@ -71,6 +105,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/672f36e7.json)
+
+---
+
+### Special announcement on tomorrow’s Grade 5 Scholarship Exam
+
+*2025-08-09 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111299/special-announcement-on-tomorrows-grade-5-scholarship-exam-) · `en`
+
+The 2025 Grade 5 Scholarship Examination is scheduled to be held tomorrow (10), the Department of Examinations announced.
+
+A press conference was held this morning (9) under the patronage of the Commissioner General of Examinations, A.K.S. Indika Kumari, to brief the media on the arrangements for the examination.
+
+Speaking at the event, the Commissioner General stated that the examination will commence at 9:30 a.m., and candidates must arrive at their respective examination centres by 8:30 a.m. All candidates should be seated in the examination hall by 9:00 a.m.
+
+She explained that the second question paper will be administered first, starting at 9:30 a.m. and concluding at 10:45 a.m., followed by a 30-minute break.
+
+“The first question paper will begin at 11:15 a.m. and end at 12:15 p.m., marking the conclusion of the examination,” she noted.
+
+...
+
+[Data](articles/55bbb741.json)
 
 ---
 
@@ -1725,71 +1779,5 @@ According to police, the shooting was carried out at around 8:40 p.m. by two uni
 ◼️
 
 [Data](articles/b9cf1a7b.json)
-
----
-
-### குடும்பத் தகராறு ; மனைவியை கொலை செய்த கணவன்..!
-
-*2025-08-08 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222099) · `ta`
-
-அரலகங்வில, தியபெதும சந்தி பகுதியில் 40 வயதுடைய பெண்ணொருவர் குடும்ப தகராறினால் நேற்று வியாழக்கிழமை (07) இரவு அவரது கணவரால் கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மெதயெல்ல வாவி பகுதியைச் சேர்ந்த பெண்ணே கூர்மையான ஆயுதத்தால் தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
-
-இந்த கொலை சம்பவம்  நீண்டகால குடும்ப தகராறில் நடந்துள்ளதாக ஆரம்ப விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பெண்ணின் கணவர் என அடையாளம் காணப்பட்ட 48 வயதுடைய சந்தேகநபர் கைது செய்யப்பட்டார். அரலகங்வில பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/f750b1e7.json)
-
----
-
-### බොරැල්ල කැලඹූ වෙඩි වරුසාව ගැන තවත් තොරතුරු රැසක්
-
-*2025-08-08 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213162) · `si`
-
-බොරැල්ල සිරිසර උයන ක්‍රීඩාංගණයේදී සිදුවූ වෙඩි තැබීමෙන් මියගිය තරුණයා 'කුඩු චතූ' නැමැත්තාගේ පාර්ශවයේ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු බවට පොලීසියට තොරතුරු අනාවරණය වී තිබේ.
-
-එමෙන්ම වෙඩි ප්‍රහාරය 'කුඩු දුමින්ද'ගේ පාර්ශවයෙන් එල්ල කර ඇතැයි ද පොලීසියට සඳහන් කළේය.
-
-වෙඩි ප්‍රහාරයෙන් ජීවිතක්ෂයට පත් වූ 23න් හැවිරිදි තරුණයා සුරේෂ් මදුෂාන් නොහොත් 'පකඩයා' නම් කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-ඔහු 'කුඩු චතූ' නැමැත්තාගේ මත්කඩු ජාලයේ අයෙක් බවත් මීට දින කිහිපයකට පෙර මත්ද්‍රව්‍ය චෝදනාවකට රක්ෂිත බන්ධනාගාරගතව සිට පැමිණ සිටි බවත් පොලීසිය පැවසීය.
-
-තුවාල ලැබූ සෙසු පිරිස බොරැල්ල, සිරිසර උයන ප්‍රදේශයේ පදිංචිකරුවන් වන අතර වයස අවුරුදු 21ත් 23ත් අතර පසුවන්නන්ය.
-
-විදෙස්ගතව සැඟව සිටින 'කුඩු චතූ' නැමැත්තාගේ සහෝදරයා සිරිසර උයන ක්‍රීඩාංගණයේ අද (08) පැවැත්වීමට නියමිතව තිබූ ක්‍රිකට් තරගයක සංවිධාන කටයුතු සඳහා මෙම තරුණයින් සමඟ ඊයේ රාත්‍රියේ අදාළ ස්ථානයට පැමිණ ඇති බව පොලීසිය පැවසුවේය.
-
-වෙඩිකරු පැමිණි යතුරුපැදිය පැදවූ පුද්ගලයා මේවන විටත් හඳුනාගෙන ඇති බව ද පොලිසිය වැඩිදුරටත් සඳහන් කළේය.
-
-...
-
-[Data](articles/92c064f4.json)
-
----
-
-### අල්විස් වත්තේ ඝාතනයට තවත් සැකකරුවන් 4ක් මාට්ටු
-
-*2025-08-08 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213161) · `si`
-
-වත්තල හේකිත්ත, අල්විස්වත්ත ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර දී ඝාතනය කිරීමේ සිදුවීමට තවත් සැකකරුවන් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-පෑලියගොඩ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් සිදුකළ වැටලීමකදී මෙම සැකකරුවන් සහ අපරාධයට භාවිත කළ බවට සැක කඩු 4ක් ද පොලිස් භාරයට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් මේ වනවිට වත්තල පොලීසියට ඉදිරිපත් කර තිබේ.
-
-පසුගිය ජූලි 19 වන දා රාත්‍රීයේ දෙමහල් නිවසක් තුළ දී මෙම ඝාතනය සිදුකර තිබුණි.
-
-ඝාතනය සිදුවන අවස්ථාවේ මියගිය පුද්ගලයාගේ බිරිඳ සහ දරුවන් දෙදෙනා ද නිවසේ සිට තිබේ.
-
-මියගොස් ඇත්තේ කොළඹ 15 ප්‍රදේශයේ පදිංචිව සිටි 43 හැවිරිදි අයෙකු වන අතර ඔහු මාස කිහිපයකට පෙර එම ප්‍රදේශයේ නිවසක් කුලී පදනම යටතේ ලබාගෙන බිරිඳ සහ දරුවන් දෙදෙනා සමග ජීවත්ව සිට ඇති බව සඳහන්ය.
-
-මියගිය පුද්ගලයා 2023 වර්ෂයේ මහබාගේ ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියකට ආධාර අනුබල දුන් පුද්ගලයෙකු බවට පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබුණි.
-
-...
-
-[Data](articles/31655c55.json)
 
 ---

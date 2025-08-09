@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 19:34:35**
+As of **2025-08-09 19:48:03**
 
 ## Newspaper Stats
 
-*Scraped **69,559** Articles*
+*Scraped **69,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 600
 bbccomsinhala | 677
 colombotelegraphcom | 706
 economynextcom | 4,246
-islandlk | 4,248
+islandlk | 4,249
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,695
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,559 articles have been extended.
+61,973 (89.1%) of 69,560 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1616,6 +1616,24 @@ The Group sustained its positive trajectory from the previous year, delivering a
 
 ---
 
+### Ways of Knowing: New exhibition opening at the Geoffrey Bawa Space
+
+*2025-08-08 20:57:00* · [`islandlk`](http://island.lk/ways-of-knowing-new-exhibition-opening-at-the-geoffrey-bawa-space/) · `en`
+
+How do we know what we know? This is the central question of the latest exhibition by the Geoffrey Bawa Trust. Opening at the Bawa Space gallery on Horton Place in early August, Ways of Knowing uses Geoffrey Bawa’s garden, Lunuganga, to explore different forms of knowledge and the ways we learn, store, and share information.
+
+Looking across seven installations—including virtual reality, film, textiles, oral traditions, maps, seeds, and the human body—the exhibition explores at how intelligence and understanding are gained through different mediums. Designed as a multi-sensory experience, Ways of Knowing emphasises forms of perception in addition to sight, and reflects on the many ways we come to understand the world around us.
+
+NDB Bank joins hands with International Scholar to enhance access to overseas education
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/fa817dec.json)
+
+---
+
 ### Serendib Flour Mills champions SLIM National Sales Awards 2025 as Official Nutritional Partner
 
 *2025-08-08 20:56:00* · [`islandlk`](http://island.lk/serendib-flour-mills-champions-slim-national-sales-awards-2025-as-official-nutritional-partner/) · `en`
@@ -1807,21 +1825,5 @@ The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and 
 ...
 
 [Data](articles/8a21e2b3.json)
-
----
-
-### திரியாய் பகுதியில் ஆணொருவனின் சடலம் மீட்பு!
-
-*2025-08-08 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/222131) · `ta`
-
-திருகோணமலை குச்சவெளி பொலிஸ் பிரிவுக்குட்பட்ட திரியாய் 05ம் வட்டாரத்தில் ஆணொருவனின் சடலமொன்று வௌ்ளிக்கிழமை (08) மீட்கப்பட்டுள்ளது.
-
-சடலம் யாருடையது என்பது பற்றி இன்னும் இனம் காணப்படவில்லை எனவும் சடலம் இனம் காண முடியாத நிலையில் இருப்பதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-குறித்த சடலத்தை பிரேத பரிசோதனைக்காக திருகோணமலை பொது  வைத்தியசாலைக்கு கொண்டு செல்லப்படவுள்ளதாகவும் நாளைய தினம் பிரேத பரிசோதனைக்கு உட்படுத்த உள்ளதாகவும் விசாரணைகளை மேற்கொண்டு வருவதாகவும் குச்சவெளி பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/5fffef27.json)
 
 ---

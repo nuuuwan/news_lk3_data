@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 20:06:16**
+As of **2025-08-09 20:20:10**
 
 ## Newspaper Stats
 
-*Scraped **69,560** Articles*
+*Scraped **69,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,249
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,695
-adaderanalk | 8,648
-tamilmirrorlk | 10,175
+adaderanalk | 8,650
+tamilmirrorlk | 10,176
 virakesarilk | 11,585
 adaderanasinhalalk | 11,993
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 11,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,560 articles have been extended.
+61,973 (89.1%) of 69,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### முத்தையன்கட்டு சம்பவம் - 5 இராணுவத்தினர் கைது
+
+*2025-08-09 19:56:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முத்தையன்கட்டு-சம்பவம்-5-இராணுவத்தினர்-கைது/150-362591) · `ta`
+
+முல்லைத்தீவு - முத்தையன்கட்டு இராணுவ முகாமுக்குள் சென்று காணாமல் போன இளைஞன் முத்தையன் கட்டு குளத்தில் இருந்து சடலமாக மீட்கப்பட்டள்ளார்.
+
+காணாமல் போனவர் தொடர்பில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டதுடன் , ஊரவர்களும் அப்பகுதிகளில் தேடுதல் நடத்தி வந்தனர்.
+
+இந்நிலையில் இன்றைய தினம் சனிக்கிழமை அதிகாலை காணாமல் போன இளைஞன் முத்தையன்கட்டு குளத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+
+இதையடுத்து முல்லைத்தீவு முத்தையன்கட்டு சம்பவம் தொடர்பில் 5 இராணுவத்தினர் முல்லைத்தீவு பொலிஸாரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/b823a331.json)
+
+---
+
+### People panic and flee after 3 people injured in Times Square shooting
+
+*2025-08-09 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111310/people-panic-and-flee-after-3-people-injured-in-times-square-shooting) · `en`
+
+Three people were wounded during a shooting at New York City’s iconic Times Square, the New York Police Department said Saturday.
+
+One person was held in custody and being questioned over the shooting, the police said. No charges have been pressed yet.
+
+Video on social media showed people running away from the scene, police surrounding a vehicle and attending to the wounded lying on the ground. Several have been hospitalized, but their injuries are not life-threatening, the police said.
+
+The shooting took place at 1:20 a.m. No details have been released so far on how it unfolded.
+
+New York City has seen a remarkable drop in gun violence this year. Through Aug. 3, it has seen its fewest shootings in decades, down 23% so far since last year.
+
+◼️
+
+[Data](articles/0263f17f.json)
+
+---
 
 ### ජනපති මල්වතු, අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
 
@@ -83,6 +121,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/033bb575.json)
+
+---
+
+### President joins national celebration of World Indigenous Peoples’ Day in Dambana
+
+*2025-08-09 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111309/president-joins-national-celebration-of-world-indigenous-peoples-day-in-dambana) · `en`
+
+The national celebration to mark the International Day of the World’s Indigenous Peoples was held this morning (09) at the Indigenous Museum premises in Dambana under the patronage of President Anura Kumara Dissanayake.
+
+Sri Lanka’s foremost indigenous leader, Vishwa Keerthi Vanaspathi Uruwarige Vannila Aththo, initiated the tradition of celebrating World Indigenous Peoples’ Day in Sri Lanka following his participation in the Indigenous Summit held in Geneva in 1996. Accordingly, the first national celebration of Indigenous Peoples’ Day in Sri Lanka was held in 1999 at the Viharamahadevi Park in Colombo.
+
+This year’s celebration, jointly organised by various public and private institutions, was marked with vibrant cultural events unique to the indigenous community, including the traditional ‘Kiri Koraha’ ritual performed to invoke blessings for peace and prosperity, the PMD reported.
+
+...
+
+[Data](articles/f790b458.json)
 
 ---
 
@@ -1763,67 +1817,5 @@ The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and 
 ...
 
 [Data](articles/3a44cc2a.json)
-
----
-
-### උකුස්සාට හෙළි වූ කුළුබඩු ජාවාරම
-
-*2025-08-08 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213178) · `si`
-
-මිරිස් ඇතුළු කල් ඉකුත් වූ කුළුබඩුවල දවටන ඉවත්කර ඒවා නැවත වෙළෙඳපොළට නිකුත් කරන ජාවාරමක් සම්බන්ධයෙන් අද දෙරණ උකුස්සාට තොරතුරු වාර්තා විය.
-
-නමුත් මුදලට ගිජු වී කන බොන ආහාරවලට පවා වස විස එකතු කරන කූඨ ජාවාරම්කරුවන් අද සාමාජය බහුලය.
-
-ඒ ආකාරයෙන් කල් ඉකුත් වූ මිරිස්කුඩු ඇතුළු කුළුබඩුවල දවටන ඉවත් කර ඒවා නැවත වෙළෙඳපොළට නිකුත් කරන ජාවාරමක් සම්බන්ධයෙන් පන්නල ප්‍රදේශයෙන් අද දෙරණ උකුස්සාට තොරතුරු වාර්තා විය.
-
-මෙම ජාවාරම්කරු මෙලෙස කල් ඉකුත් වූ මිරිස් කුඩු නැවත ඇසුරුම් කර තොග වශයෙන් වෙළෙඳුන්ට ලබාදෙන බවට තොරතුරු ලැබුණ හෙයින් අද දෙරණ උකුස්සා උපාය දූතයෙකු මාර්ගයෙන් ජාවාරම්කරු සම්බන්ධ කර ගත්තේය.
-
-ඒ අනුව ඔහු සමඟ ඇතිකරගත් එකඟතාව මත අද දෙරණ උකුස්සා එම කුළුබඩු මිලට ගැනීම සඳහා පන්නල බම්මින්න ප්‍රදේශයට ගියේ තොග වෙළෙඳෙකු ලෙස අඟවමිනි.
-
-එම අවස්ථාවේදී ඔහු අප වෙනුවෙන් කුළුබඩු උරයක් සූදානම් කර තිබූ අතර එම ස්ථානයේ තිබූ අපිරිසිඳු බව වටහා ගැනීමට අද දෙරණ උකුස්සාට වැඩි වේලාවක් ගතවූයේ නැත.
-
-එසේම එහි ගබාඩාවක් අගුළුලා වසා ඇති ආකාරයත් අද දෙරණ උකුස්සාට නිරීක්ෂණය විය.
-
-...
-
-[Data](articles/71e24ab3.json)
-
----
-
-### யாழ். நல்லூருக்கு செல்வோருக்கு பொலிஸார் விடுத்துள்ள அறிவிப்பு
-
-*2025-08-08 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222119) · `ta`
-
-யாழ். நல்லூர் திருவிழாவில் நகைகளை களவாட இலங்கையின் பல பாகங்களில் இருந்தும் திருடர்கள் நல்லூர் ஆலயத்திற்கு வருகை தந்துள்ளமையால், ஆலயத்திற்கு செல்லும் பக்தர்கள் அவதானமாக செல்லுமாறு யாழ்ப்பாண பொலிஸார் அறிவுறுத்தியுள்ளனர்.
-
-ஆலய சூழலில் திருடர்களின் நடமாட்டம் காணப்படுவதால், ஆலயத்திற்கு தங்க நகைகளை அணிந்து வருவதை தவிர்க்குமாறும் , அணிந்துள்ள தங்க நகைகளில் கவனம் செலுத்துமாறும் பொலிஸார் கோரியுள்ளனர்.
-
-அத்துடன், பொலிஸ் சீருடை மற்றும் சிவில் உடைகளில் பொலிஸார் ஆலய சூழல்களில் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர் எனவும், அருகில் உள்ளவர்கள் தொடர்பில் சந்தேகங்கள் எழுந்தால், பொலிஸாருக்கு உடன் அறிவிக்குமாறும் பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
-
-அதேவேளை ஆலய சூழல்களில் கண்காணிப்பு கமராக்கள் பொருத்தப்பட்டு , அனைவரும் கண்காணிக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/bda4af54.json)
-
----
-
-### 309 கொள்கலன்கள் உரிமையாளர்களின் பெயர் பட்டியலை வெளியிட வேண்டும் - ஜனாதிபதியிடம் முஜிபுர் எம்.பி கோரிக்கை
-
-*2025-08-08 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/222123) · `ta`
-
-அரசாங்கம் வெளிப்படைத்தன்மையுடன் ஆட்சி செய்வதாக இருந்தால், சுங்கத்தில் இருந்து விடுவிக்கப்பட்டிருந்த 309 கொள்கலன்கள் உரிமையாளர்களின் பெயர் பட்டியலை ஜனாதிபதி வெளியிட வேண்டும். ஆனால் அரசாங்கம் வெளிப்படைத்தன்மையை கைவிட்டே ஆட்சி செய்துவருகிறதென ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்றத்தில் ஆற்றிய உரைதொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க பாராளுமன்ற தெரிவித்த கருத்துக்கள், அவர் எதிர்க்கட்சியில் இருக்கும்போது தெரிவித்த கருத்துக்களுக்கு முற்றிலும் மாற்றமான விடயங்களையே தெரிவித்திருந்தார்.
-
-நாங்கள் அன்று  கதைத்த திறந்த பொருளாதார கொள்கையை ஜனாதிபதி தற்போது அதனை ஏற்றுக்கொண்டுள்ளார். அதனை நாங்கள் வரவேற்கிறோம்.
-
-ஆனால் அவரிடம் ஏற்பட வேண்டிய மாற்றம், பொய்சொல்வதை நிறுத்தி உண்மை பேசவேண்டும். பாராளுமன்றத்தில் அவர் தெரிவித்த விடயங்களில் அதிகமான பொய்யாகும்.
-
-...
-
-[Data](articles/8a21e2b3.json)
 
 ---

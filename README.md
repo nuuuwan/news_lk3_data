@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-09 17:52:03**
+As of **2025-08-09 18:08:45**
 
 ## Newspaper Stats
 
-*Scraped **69,553** Articles*
+*Scraped **69,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,248
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,695
-adaderanalk | 8,647
-tamilmirrorlk | 10,174
+adaderanalk | 8,648
+tamilmirrorlk | 10,175
 virakesarilk | 11,585
-adaderanasinhalalk | 11,989
+adaderanasinhalalk | 11,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,553 articles have been extended.
+61,973 (89.1%) of 69,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-09 (Saturday)
+
+### කෙන්යාවේ බස් රථ අනතුරකින් 25ක් මරුට
+
+*2025-08-09 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213202) · `si`
+
+නිරිතදිග කෙන්යාවේ සිදු වූ බස් රථ අනතුරකින් පුද්ගලයින් 25 දෙනෙකු මිය ගොස් තිබේ.
+
+අවමංගල්‍ය උත්සවයකට සහභාගී වී සිය නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් බස් රථයක් මෙසේ අනතුරට ලක්ව ඇත.
+
+බස් රථය බටහිර නගරයේ කකාමේගා සිට කිසුමු නගරය දක්වා ධාවනය වෙමින් තිබී ඇති අතර රියදුරුට වේගය පාලනය කර ගත නොහැකි ව පෙරළීමෙන් මෙම අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/eec61e9b.json)
+
+---
+
+### Suspect arrested over Borella shooting
+
+*2025-08-09 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111308/suspect-arrested-over-borella-shooting) · `en`
+
+Police have arrested a suspect in connection with the shooting incident in Borella on Thursday night (07), which claimed the life of one person and left 4 others injured.
+
+The suspect who was taken into custody this morning (09) is a 23-year-old resident of Borella, the Police Media Division told Ada Derana.
+
+A total of five youths were injured and hospitalised following a shooting incident near the Sahaspura Sirisara Housing Complex in Borella on Thursday night.
+
+However, one of the injured youths, a 28-year-old from Kelaniya, had succumbed to injuries the following morning, while three of the other injured persons are currently in critical condition.
+
+The shooting was carried out by two unidentified individuals who arrived on a motorcycle around 8:40 p.m. on Thursday (07), targeting a group of youths who were engaged in decoration activities at the sports ground in Sahaspura.
+
+...
+
+[Data](articles/f40c8e72.json)
+
+---
 
 ### කැලිෆෝනියාවේ ලැව්ගිනි හේතුවෙන් පදිංචිකරුවන් දහස් ගණනක් ඉවත් කෙරේ
 
@@ -53,6 +89,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9c4896d1.json)
+
+---
+
+### பொரளை துப்பாக்கிச் சூடு - 23 வயது இளைஞன் கைது
+
+*2025-08-09 17:29:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-துப்பாக்கிச்-சூடு-23-வயது-இளைஞன்-கைது/175-362590) · `ta`
+
+பொரளை துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பாக சந்தேகநபர் ஒருவர் இன்று (09) காலை கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் பொரளை பகுதியில் வசிக்கும் 23 வயதுடைய இளைஞர் என தெரிவிக்கப்படுகிறது.
+
+பொரளை, சஹஸ்புர விளையாட்டு மைதானத்தை அலங்கரிக்கும் பணியில் ஈடுபட்டிருந்த இளைஞர்கள் குழு மீது மோட்டார் சைக்கிளில் வந்த இரண்டு நபர்கள் துப்பாக்கி பிரயோகத்தை மேற்கொண்டுவிட்டு தப்பிச் சென்றனர்.
+
+சம்பவம் தொடர்பில் இளைஞர்கள் ஐவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டதோடு, அவர்களில் ஒருவர் மரணமடைந்தார்.
+
+◼️
+
+[Data](articles/bb10f18c.json)
 
 ---
 
@@ -1773,57 +1827,5 @@ The audit process was conducted by the Sri Lanka Accreditation Board (SLAB) and 
 ...
 
 [Data](articles/7fcf2532.json)
-
----
-
-### Shooting incident reported in Kaduwela
-
-*2025-08-08 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111291/shooting-incident-reported-in-kaduwela) · `en`
-
-A shooting incident has been reported in the Kothalawala area in Kaduwela, a short while ago.
-
-◼️
-
-[Data](articles/a36aeed8.json)
-
----
-
-### Suspect injured as police open fire during arrest attempt in Kaduwela
-
-*2025-08-08 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111291/suspect-injured-as-police-open-fire-during-arrest-attempt-in-kaduwela) · `en`
-
-A shooting incident has been reported in the Kothalawala area in Kaduwela, a short while ago.
-
-It is reported that police officers opened fire while attempting to apprehend a suspect.
-
-The suspect reportedly attempted to attack the officers with a sword during the arrest attempt, prompting the police to respond with gunfire in self-defense.
-
-The suspect sustained injuries in the incident and has been admitted to the Mulleriyawa Hospital for treatment.
-
-◼️
-
-[Data](articles/f03510d6.json)
-
----
-
-### වසර 28කට පෙර අතුරුදන් වූ පුද්ගලයෙකුගේ මළ සිරුරක් හමුවෙයි
-
-*2025-08-08 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213176) · `si`
-
-වසර 28කට පෙර අතුරුදන් වූ පුද්ගලයෙකුගේ මළ සිරුරක් පකිස්ථානයේ ග්ලැසියරයක් තුළ තිබී සොයා ගෙන තිබේ.
-
-මෙම පුද්ගලයා 1997 ජුනි මාසයේදී හිම කුණාටුවක් අතරතුර ග්ලැසියර කුහරයකට වැටී අතුරුදන්ව තිබිණි.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ සිය සොහොයුරා සමඟ ඔහු මෙම ප්‍රදේශයේ අශ්වයෙකු පිට ගමන් කරමින් සිටියදී මෙම අනතුරට ලක්ව ඇති බවය.
-
-ඔහුව සොයා මෙහෙයුම් දියත් කළත් මළ සිරුර හෝ සොයා ගැනීමට නොහැකි වූ බව මිය ගිය පුද්ගලයාගේ සොහොයුරා මාධ්‍ය වෙත අදහස් දක්වමින් පැවසුවේය.
-
-කෙසේ වෙතත් මෙම පුද්ගලයාගේ මළසිරුරට හෝ ඇඳුම්වලට කිසිඳු හානියක් නොවී නොවෙනස්ව තිබීමත් විශේෂත්වයකි.
-
-මේ පිළිබඳව අදහස් දැක්වූ ඉස්ලාමාබාද්හි කොම්සැට්ස් විශ්ව විද්‍යාලයේ මහාචාර්යවරයෙකු සඳහන් කළේ ශරීරයක් ග්ලැසියරයකට වැටෙන විට, අධික සීතල එය වේගයෙන් කැටි කර, දිරාපත්වීමේ ක්‍රියාවලිය නතර කරන බවයි.
-
-◼️
-
-[Data](articles/5bd957cc.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 03:31:08**
+As of **2025-08-11 03:48:14**
 
 ## Newspaper Stats
 
-*Scraped **69,759** Articles*
+*Scraped **69,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 711
 economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
-dailyftlk | 4,891
+dailyftlk | 4,892
 adalk | 6,717
 adaderanalk | 8,680
 tamilmirrorlk | 10,204
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,759 articles have been extended.
+61,973 (88.8%) of 69,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### Arugam Bay: Gentle warning, Mr. President
+
+*2025-08-11 03:30:28* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-Gentle-warning-Mr-President/4-780082) · `en`
+
+“There is a British proverb about the camel and the tent. At first the camel sticks one leg in the tent, and eventually it slips into it. This must be our policy” – Chaim Weizmann the Russian born British Zionist leader when replying to criticisms against the 1917 Balfour Declaration
+
+“I thought I was in Arugam Bay in Sri Lanka, but it looks like Tel Aviv. Was Arugam Bay promised to them 50,000 years ago?” – Tom Monagle, International DJ tourist
+
+“The government hasn’t looked at any country from a different angle. The basis for selecting these countries was the dollar income we receive and the number of tourists arriving”
+
+...
+
+[Data](articles/ff016227.json)
+
+---
 
 ### Environment and how its issues should be tackled through public policy
 
@@ -1695,19 +1711,5 @@ Minister of Science and Technology Chrishantha Abeysena and several officials fr
 ◼️
 
 [Data](articles/055c69b2.json)
-
----
-
-### காலி மீன்பிடித் துறைமுகத்தில் தீ விபத்து
-
-*2025-08-10 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222216) · `ta`
-
-காலி மீன்பிடி துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த பல மீன்பிடி படகுகளில் தீ விபத்து இன்று திங்கட்கிழமை (10) ஏற்பட்டுள்ளது.
-
-காலி மாநகர சபையின் தீயணைப்பு திணைக்களம், இலங்கை கடற்படை மற்றும் அப்பகுதி மீனவ சமூகத்துடன் இணைந்து தீயைக் கட்டுப்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/a3b8814a.json)
 
 ---

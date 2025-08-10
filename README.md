@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 03:17:52**
+As of **2025-08-11 03:31:08**
 
 ## Newspaper Stats
 
-*Scraped **69,758** Articles*
+*Scraped **69,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 711
 economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
-dailyftlk | 4,890
+dailyftlk | 4,891
 adalk | 6,717
 adaderanalk | 8,680
 tamilmirrorlk | 10,204
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,758 articles have been extended.
+61,973 (88.8%) of 69,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### Environment and how its issues should be tackled through public policy
+
+*2025-08-11 03:11:57* · [`dailyftlk`](https://www.ft.lk/columns/Environment-and-how-its-issues-should-be-tackled-through-public-policy/4-780080) · `en`
+
+A fruitful and conducive dialogue with a view to creating proper awareness of the use of environment must be followed on between the action groups and the environmental authorities
+
+It is necessary, first, to recognise and appreciate the role played by action groups, however much such actions represent illogically driven extremist biases, and then move for capacity building in these groups, so that their intervention would be a responsible and informed intervention for the common good of the society. The new challenge faced by public policy authorities on the protection and the development of environment is, thus, the most difficult and complex phase of the evolution of the environmental policy action by them
+
+...
+
+[Data](articles/86a5abb0.json)
+
+---
 
 ### யாழ்ப்பாணத்தில் கத்திக்குத்து தாக்குதல் – ஒருவர் உயிரிழப்பு, நால்வர் காயம்
 
@@ -1695,21 +1709,5 @@ Minister of Science and Technology Chrishantha Abeysena and several officials fr
 ◼️
 
 [Data](articles/a3b8814a.json)
-
----
-
-### இன்று முதல் Online நுழைவுச்சீட்டு விநியோகம்
-
-*2025-08-10 11:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-Online-நுழைவுச்சீட்டு-விநியோகம்/175-362623) · `ta`
-
-கவுடுல்ல தேசிய பூங்காக்களை பார்வையிடுவதற்காக நுழைவுச் சீட்டுகளை இன்று ஞாயிற்றுக்கிழமை (10) முதல் Online ஊடாக  பெற்றுக்கொள்ள முடியுமென வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்தில்  அறிவிக்கப்பட்டுள்ளது.
-
-கவுடுல்ல தேசிய பூங்காவை பார்வையிடுவதற்காக சனிக்கிழமை (09) அன்று நீண்ட வரிசை காணப்பட்டதால் சுற்றுலாப் பயணிகள் அசௌகரிங்களுக்குள்ளானதாக வனஜீவராசிகள் பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
-
-இவ்வாறான பின்னணியில் ஏற்படும் அசௌகரியங்களை குறைத்துக்கொள்ளும் நோக்கில் Online ஊடாக நுழைவுச்சீட்டுகளை விநியோகிக்கும் நடைமுறை ஆரம்பிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/a002f85a.json)
 
 ---

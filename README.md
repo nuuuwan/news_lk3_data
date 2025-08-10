@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 22:34:20**
+As of **2025-08-10 22:47:43**
 
 ## Newspaper Stats
 
-*Scraped **69,744** Articles*
+*Scraped **69,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,717
 adaderanalk | 8,679
-tamilmirrorlk | 10,202
+tamilmirrorlk | 10,203
 virakesarilk | 11,628
 adaderanasinhalalk | 12,029
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,744 articles have been extended.
+61,973 (88.9%) of 69,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### செப்டெம்பர் 20-இல் புலமைப் பரிசில் பரீட்சை முடிவுகள்
+
+*2025-08-10 22:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-20-இல்-புலமைப்-பரிசில்-பரீட்சை-முடிவுகள்/175-362659) · `ta`
+
+இன்று நடைபெற்ற தரம் 5 புலமைப் பரிசில் பரீட்சை முடிவுகள் எதிர்வரும் செப்டெம்பர் 20ஆம் திகதிக்கு முன்னர் வெளியிடப்படுமென எதிர்பார்ப்பதாக பரீட்சைகள் திணைக்களத்தின் ஆணையாளர் நாயகம் ஏ.கே.எஸ் இந்திக குமாரி லியனகே தெரிவித்துள்ளார்.
+
+நாடாளவிய ரீதியில் 2,787 நிலையங்களில் இவ்வாண்டு பரீட்சை நடைபெற்றதாகவும், 307,951 பேர் பரீட்சைக்குத் தோற்றியதாக இந்திக குமாரி லியனகே ஊடகங்களிடம் கருத்துத் தெரிவிக்கும்போது மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6a050638.json)
+
+---
 
 ### GMOA දීප ව්‍යාප්ත වර්ජනය අත්හිටුවයි
 
@@ -1695,21 +1709,5 @@ The suspect is scheduled to be produced before the Kalutara Magistrate’s Court
 ...
 
 [Data](articles/eb09a4df.json)
-
----
-
-### Fire breaks at Galle Fisheries Harbour, four boats destroyed
-
-*2025-08-10 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111327/fire-breaks-at-galle-fisheries-harbour-four-boats-destroyed) · `en`
-
-A fire has broken out on several fishing vessels docked at the Galle Fisheries Harbour.
-
-The Fire Brigade Service Department of the Galle Municipal Council, along with the Sri Lanka Navy and the area fishing community, have now managed to contain the blaze.
-
-As of now, four fishing boats have reportedly been destroyed by the fire.
-
-◼️
-
-[Data](articles/6919ca17.json)
 
 ---

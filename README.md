@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 16:32:24**
+As of **2025-08-10 16:47:39**
 
 ## Newspaper Stats
 
-*Scraped **69,696** Articles*
+*Scraped **69,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,709
 adaderanalk | 8,677
-tamilmirrorlk | 10,194
+tamilmirrorlk | 10,197
 virakesarilk | 11,610
 adaderanasinhalalk | 12,021
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,696 articles have been extended.
+61,973 (88.9%) of 69,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### உயிரை விட்டார் உபபொலிஸ் பரிசோதகர்
+
+*2025-08-10 16:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரை-விட்டார்-உபபொலிஸ்-பரிசோதகர்/175-362645) · `ta`
+
+வீரகுல பொலிஸ் நிலையத்துக்குள் உபபொலிஸ் பரிசோதகர் தனக்கு வழங்கப்பட்ட  துப்பாக்கியால் தன்னை தானே சுட்டு தன்னுயிரை மாய்த்துக்கொண்டுள்ளார்.
+
+ஞாயிற்றுக்கிழமை (10) பிற்பகல் 2 மணிக்கு  இந்த சம்பவம் இடம்பெற்றுள்ளது.  56 வயதுடைய உப- பொலிஸ் பரிசோதகரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/e6335b5a.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி ரணிலின் சிறப்பு அறிக்கை
+
+*2025-08-10 16:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-ரணிலின்-சிறப்பு-அறிக்கை/175-362644) · `ta`
+
+இளைஞர் சங்க இயக்கம் எதிர்கொள்ளும் தற்போதைய பிரச்சினைகள் குறித்து, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இளைஞர் சமூகங்கள் அரசியல் மயமாக்கப்படுவது மற்றும் இளைஞர் சமூகங்களிடையே தோன்றியுள்ள நெருக்கடிகள் குறித்து ஞாயிற்றுக்கிழமை (10) அன்று சிறப்பு அறிக்கை ஒன்றை வெளியிட்டு உரையாற்றும் போதே முன்னாள் ஜனாதிபதி இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+இலங்கை இளைஞர்களின் வேண்டுகோளின் பேரில் சுமார் நாற்பது ஆண்டுகளுக்கு முன்பு நான் ஒரு இளைஞர் சங்கத்தைத் தொடங்கினேன். அந்த இளைஞர் சங்கத்தின் மூலம் இளைஞர்களின் திறமைகளையும் திறன்களையும் வளர்ப்பதே எனது முக்கிய குறிக்கோளாக இருந்தது,
+
+இது கிராமத்தில் உள்ள இளைஞர்கள் பொழுதுபோக்குகள், கலை மற்றும் பிற செயல்பாடுகளுக்காக ஒன்றுகூடுவதற்கு ஒரு இடத்தை வழங்கும். அந்த இலக்கு மிகவும் வெற்றிகரமாக உள்ளது.
+
+இந்த நாற்பது ஆண்டுகளில், இளைஞர் சங்கங்கள் இந்த நாட்டின் முக்கிய இளைஞர் இயக்கமாக மாறிவிட்டன. இளைஞர் சங்கங்களிலிருந்து வந்த சிலர் அரசியலில் நுழைந்துள்ளனர்.
+
+...
+
+[Data](articles/fec8a238.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට හෙට තද වැසි
 
@@ -419,6 +453,24 @@ She emphasized that children should be given the opportunity to enjoy their chil
 ...
 
 [Data](articles/9de6381b.json)
+
+---
+
+### ஜனாதிபதி  செப்டம்பரில் அமெரிக்கா மற்றும் ஜப்பானுக்கு விஜயம்
+
+*2025-08-10 13:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-செப்டம்பரில்-அமெரிக்கா-மற்றும்-ஜப்பானுக்கு-விஜயம்/150-362629) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க செப்டம்பரில் இரண்டு வெளிநாட்டுப் பயணங்களை மேற்கொள்ளவுள்ளார், முதலில் நியூயோர்க்கில் நடைபெறும் ஐ.நா. பொதுச் சபை (UNGA) கூட்டத்திற்காக அமெரிக்காவிற்கும், அதைத் தொடர்ந்து ஜப்பானுக்கும் உத்தியோபூர்வ பயணம் மேற்கொள்ளவுள்ளார்.
+
+வெளியுறவு அமைச்சர் விஜித ஹேரத் ஊடகங்களுக்குத் தெரிவித்ததாவது, ஜனாதிபதி செப்டம்பர் 23 ஆம் திகதி அமெரிக்காவுக்குப் புறப்பட்டு, 24 ஆம் திகதி ஐ.நா. பொதுச் சபையில் உரையாற்றுவார், வெளியுறவுக் கொள்கை உட்பட தனது அரசாங்கத்தின் கொள்கைகளை கோடிட்டுக் காட்டுவார். அமர்வுகளின் போது அவர் பல உலகத் தலைவர்களைச் சந்திக்கவும் திட்டமிடப்பட்டுள்ளது.
+
+நியூயோர்க்கிலிருந்து, ஜனாதிபதி திசாநாயக்க செப்டம்பர் 27 அன்று ஜப்பானின் ஒசாகாவிற்கு எக்ஸ்போ 2025 இல் கலந்து கொள்ளவும், இலங்கை தினத்தில் பங்கேற்கவும் பயணம் செய்வார், அங்கு நாட்டின் கலாச்சாரம், சுற்றுலா, வர்த்தகம் மற்றும் முதலீட்டு வாய்ப்புகளை வெளிப்படுத்துவார்.
+
+பிரதமர் ஷிகெரு இஷிபாவின் அழைப்பின் பேரில், ஜப்பானுக்கான உத்தியோகபூர்வ பயணம் செப்டம்பர் 28 ஆம் திகதி தொடங்கும்.
+
+◼️
+
+[Data](articles/35a05d5c.json)
 
 ---
 
@@ -1715,59 +1767,5 @@ Meanwhile, the general public has been requested to take adequate precautions to
 ...
 
 [Data](articles/8c1eced8.json)
-
----
-
-### මුහුදේදී මියගිය ධීවරයකුගේ සිරුර ගොඩබිමට
-
-*2025-08-09 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213209) · `si`
-
-ගාල්ල ධීවර වරායේ සිට ධීවර කටයුතු සඳහා පිටත්ව ගිය බහු දින ධීවර යාත්‍රාවක සිටි ධීවරයෙකු මුහුදු සැතපුම් 180ක් පමණ දුරින් වූ ගැඹුරු මුහුදේ දී ඇතිවූ හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ඊයේ (08) පෙරවරුවේ මියගොස් ඇතැයි වරාය පොලිසිය පවසයි.
-
-ධීවරයින් 06 දෙනෙකු සමඟ ධීවර කටයුතු සඳහා පිටත්ව ගිය මෙම බහුදින යාත්‍රාවේ සිටි අයෙක් මෙසේ හදිසියේ ඇති වූ හෘදයාබාධයක් හේතුවෙන් මියගොස් ඇති බවට ගාල්ල රේඩියෝ මධ්‍යස්ථානය අමතා එම යාත්‍රාවේ නියමුවා විසින් දැනුම් දී තිබේ.
-
-මියගිය පුද්ගලයාගේ දේහය රැගෙන මෙම යාත්‍රාව අද (09) පස්වරුවේ ගාල්ල ධීවර වරාය වෙත පැමිණියේය.
-
-◼️
-
-[Data](articles/d410e54c.json)
-
----
-
-### Two Sri Lankans held for attempted ganja smuggling in India
-
-*2025-08-09 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111312/two-sri-lankans-held-for-attempted-ganja-smuggling-in-india) · `en`
-
-The special police team in Karaikal on Thursday arrested two Sri Lankan nationals for allegedly attempting to smuggle ganja by boat.
-
-A fibre boat, ₹50,000 in cash, and mobile phones were seized from them.
-
-Acting on a tip-off that two men from Sri Lanka were arriving by sea to procure ganja from local suppliers, a joint team of the Special Task Force, led by Inspector Praveen Kumar, and Neravy police intensified coastal patrols.
-
-The suspects were intercepted near Karukkalacherie after being spotted in suspicious circumstances.
-
-They were identified as M. Manimaran, 28, and M. Maniarasan, 24, both siblings who are fishermen in Point Pedro from Jaffna in Sri Lanka.
-
-Police said the duo were just transporters who had brought ₹50,000 to purchase ganja for smuggling it back to Sri Lanka. They were arrested, produced in court, and remanded in judicial custody.
-
-...
-
-[Data](articles/93e9e729.json)
-
----
-
-### Senaro Motor Company honoured at National Business Excellence Awards 2025
-
-*2025-08-09 21:49:00* · [`islandlk`](http://island.lk/senaro-motor-company-honoured-at-national-business-excellence-awards-2025/) · `en`
-
-Senaro Motor Company (Pvt) Ltd has become the Winner of the National Business Excellence Awards 2025 under the Manufacturing – Non-Traditional Sector. Organised by the National Chamber of Commerce of Sri Lanka, the award ceremony was held recently in Colombo. The National Business Excellence Awards, recognized as one of Sri Lanka’s most esteemed accolades, celebrates organizations that demonstrate exceptional performance, sustainable practices, and strategic vision across various business facets. Being honored with this award underscores Senaro’s dedication to pushing boundaries and setting new benchmarks within the manufacturing sector, particularly in the production of high-quality, “Made in Sri Lanka” motorcycles.
-
-Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/d7232e2b.json)
 
 ---

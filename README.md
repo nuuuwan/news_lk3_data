@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 11:22:09**
+As of **2025-08-10 11:33:27**
 
 ## Newspaper Stats
 
-*Scraped **69,640** Articles*
+*Scraped **69,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,702
+adalk | 6,703
 adaderanalk | 8,664
-tamilmirrorlk | 10,186
+tamilmirrorlk | 10,187
 virakesarilk | 11,597
-adaderanasinhalalk | 12,007
+adaderanasinhalalk | 12,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,640 articles have been extended.
+61,973 (89.0%) of 69,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ශ්‍රී ලංකා රග්බි ⁣යෞවනයෝ අවසන් මහා තරගයට
+
+*2025-08-10 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213220) · `si`
+
+ඉන්දියාවේ පැවැත්වෙන වයස අවුරුදු 20න් පහළ ආසියානු සත් සාමාජික රග්බි තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම අද (10) සමත් විය.
+
+ඒ අද උදෑසන පැවති අවසන් පූර්ව වටයෙන් චීනය ලකුණු 26-17ක් ලෙස පරාජයට පත් කරමින්.
+
+◼️
+
+[Data](articles/5c46d0d0.json)
+
+---
 
 ### கம்பஹாவில் பல பகுதிகளுக்கு நாளை நீர் வெட்டு
 
@@ -67,6 +81,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/12758123.json)
+
+---
+
+### தமன்னாவை படம்பிடிக்க ஊடகங்களுக்கு தடை
+
+*2025-08-10 10:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமன்னாவை-படம்பிடிக்க-ஊடகங்களுக்கு-தடை/175-362619) · `ta`
+
+பிரபல தென்னிந்திய நடிகை தமன்னா பாட்டியா சனிக்கிழமை (09) அன்று மாலை பண்டாரநாயக்க சர்வதேச விமான நிலையத்திற்கு (BIA ) வருகை தந்துள்ளார்.
+
+ஆனால் வருகை முனையத்தில் இருந்து ஊடகங்களை எதிர்கொள்ள மறுத்துவிட்டார். ஊடகங்களின் வரவை கவனித்த நடிகை திரும்பிச் சென்று ஊடகங்கள் முன் தோன்றுவதைத் தவிர்த்தார் என்று தகவல்கள் வெளியாகின்றன.
+
+அந்த நேரத்தில் அவர் எந்த ஒப்பனையும் அணிந்திருக்கவில்லை என்றும், எனவே ஊடகங்கள் அவரைப்படம் பிடிக்க விரும்பவில்லை என்றும் கூறப்பட்டது.
+
+அவர் இந்தியாவின் Big Momma Productions மற்றும் இலங்கையில் வெளிநாட்டு திரைப்படங்கள் மற்றும் பிற தயாரிப்புகளுக்கு சேவைகளை வழங்கும் ‘ASIAN FILM CREW’ Productions இணைந்து தயாரிக்கும் இந்திய விளம்பரப் படப்பிடிப்பிற்காக அவர்  இலங்கைக்கு வருகை தந்துள்ளார்.
+
+படப்பிடிப்பு அனுராதபுரத்தில் நடைபெறவுள்ளது. மேலும் அவர் சில நாட்கள் இலங்கையில் தங்கவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/f9263304.json)
 
 ---
 
@@ -499,6 +533,24 @@ Furthermore, the statement emphasized that the Ministry of Public Security is ac
 ...
 
 [Data](articles/cc35038b.json)
+
+---
+
+### හමාස් පාලනය යටතේ පවතින ගාසා තීරයේ මන්දපෝෂණය නිසා මරණ 212ක්
+
+*2025-08-10 07:14:43* · [`adalk`](https://www.ada.lk/international/හමාස්-පාලනය-යටතේ-පවතින-ගාසා-තීරයේ-මන්දපෝෂණය-නිසා-මරණ 212ක්/3-417811) · `si`
+
+හමාස් පාලනය කරන සෞඛ්‍ය අමාත්‍යාංශයට අනුව, ගාසා තීරයේ මන්දපෝෂණය හේතුවෙන් තවත් මරණ 11 ක් වාර්තා වී තිබේ.
+
+ඒ අනුව,  මන්දපෝෂණයට සම්බන්ධ මුළු මරණ සංඛ්‍යාව 212 දක්වා ඉහළ ගොස් ඇති අතර, ඉන් ළමුන් 98 ක් ද වෙන බව හමාස් සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+මේ අතර  පසුගිය පැය 24 තුළ ඊශ්‍රායල හමුදා ක්‍රියාකාරකම් හේතුවෙන් ද අවම වශයෙන් පුද්ගලයින් 38 දෙනෙකු මිය ගොස් 491 දෙනෙකු තුවාල ලබා ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+ගාසා නගරය පාලනය කිරීමේ මතභේදාත්මක ඊශ්‍රායල සැලැස්මක් ප්‍රකාශයට පත් කිරීමෙන් පසු ගාසා නගරයෙන් ඉවත් වීමට පදිංචිකරුවන්ට ඔක්තෝබර් 7 වන දින අවසන් දිනයක් නියම කර ඇති බවට වාර්තා තිබියදී මරණ සංඛ්‍යාව අඛණ්ඩව ඉහළ යමින් පවතී.
+
+◼️
+
+[Data](articles/b51207de.json)
 
 ---
 
@@ -1735,49 +1787,5 @@ Further details and logistics of the meeting are still unclear and remain very f
 ◼️
 
 [Data](articles/a88f6258.json)
-
----
-
-### චිචීගේ රොකට් එක ගැන ආණ්ඩුවේ අලුත්ම මතය
-
-*2025-08-09 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213194) · `si`
-
-විමර්ශන අවසානයේ දී සුප්‍රීම් සැට් චන්ද්‍රිකාව සම්බන්ධයෙන් සත්‍ය තොරතුරු අනාවරණය වනු ඇති බව අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-අමාත්‍යවරයා පෙන්වාදෙන්නේ එම ව්‍යාපෘතිය හරහා රටට විශාල ආදායමක් ලැබුණේ නම් අදාළ පාර්ශව මෙතෙක් නිහඩව සිටීම විශ්වාස කළ නොහැකි බවය.
-
-අද කොළඹ පැවති උත්සවයකින් අනතුරුව මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් නලින්ද ජයතිස්ස අමාත්‍යවරයා මේ බව සඳහන් කළේය.
-
-...
-
-[Data](articles/f27bbec8.json)
-
----
-
-### Beyond Hiroshima: The Age of Omnicide
-
-*2025-08-09 14:06:00* · [`islandlk`](http://island.lk/beyond-hiroshima-the-age-of-omnicide/) · `en`
-
-Eighty years have passed, and yet no instrument of war has emerged as absolute, as unrelenting, or as exquisitely engineered for annihilation as the nuclear weapon. Its shadow has loomed over international affairs ever since, petrifying geopolitical strategies and freezing conflicts into perennial standoffs. And yet, while the world reminisces annually on the horrors of Hiroshima and Nagasaki, there is a dangerous complacency in the modern imagination. We have failed to reckon with the grotesque escalation of nuclear lethality since 1945, and the global compact once designed to forestall such catastrophe—the Non-Proliferation Treaty (NPT)—has degenerated into ritualistic farce.
-
-...
-
-[Data](articles/168e89d5.json)
-
----
-
-### Israel and Sri Lanka – From DS to Ranil
-
-*2025-08-09 13:59:00* · [`islandlk`](http://island.lk/israel-and-sri-lanka-from-ds-to-ranil/) · `en`
-
-Israel is making headlines with its attacks within West Asian countries not limited to Palestine, and it will be interesting to see how the present government manages it and how Sri Lankan leaders in the past from Prime Minister D.S Senanayake to President Ranil Wickremasinghe handled the issue during their tenure.
-
-D.S Senanayake – first South Asian leader to recognise Israel
-
-Sri Lanka (then Ceylon) and Israel both gained independence from the British in the same year in 1948 and we became the first South Asian country to recognise the state of Israel on September 16, 1950 [Jewish Virtual Library, AICE Project], just a day before India recognised it. This was when D S Senanayake was the prime minister.
-
-...
-
-[Data](articles/c0fada58.json)
 
 ---

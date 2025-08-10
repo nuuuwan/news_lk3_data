@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 04:06:48**
+As of **2025-08-11 04:20:13**
 
 ## Newspaper Stats
 
-*Scraped **69,762** Articles*
+*Scraped **69,763** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 711
+colombotelegraphcom | 712
 economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,762 articles have been extended.
+61,973 (88.8%) of 69,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -307,6 +307,18 @@ It is necessary, first, to recognise and appreciate the role played by action gr
 ◼️
 
 [Data](articles/d9424685.json)
+
+---
+
+### Environment & How Its Issues Should Be Tackled Through Public Policy – Part II
+
+*2025-08-10 22:06:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/environment-how-its-issues-should-be-tackled-through-public-policy-part-ii/) · `en`
+
+In the previous part, we discussed how environment is used by everybody to dump the waste-matter that is essentially produced as a byproduct of all the economic activities, namely, production, distribution, and consumption. This waste-matter is an undesired product called ‘bads’ compared to the desired products called ‘goods’. In this sense, environment is the fifth factor of production because without environment, no economic activity could be undertaken. However, unlike other factors of production, environment is freely available for dumping since there is no one holding property rights over it and impose a price for its use.
+
+...
+
+[Data](articles/6f2d546c.json)
 
 ---
 
@@ -1677,25 +1689,5 @@ Saeed said the government puts a lot of effort into creating an investor-friendl
 ◼️
 
 [Data](articles/e4bbbcc0.json)
-
----
-
-### අතුරුදන්ව සිටි තිදරු පියාගේ මළ සිරුර ජලාශයකින් හමුවෙයි
-
-*2025-08-10 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213224) · `si`
-
-නිවසින් අතුරුදන්ව සිටි පුද්ගලයෙකුගේ මළ සිරුරක් මාවුස්සාකැලේ ජලාශ පත්ලේ සිරවී තිබියදී නාවික හමුදාවේ කිමිදුම්කරුවන් විසින් සොයා ගෙන තිබේ.
-
-මෙලෙස මියගොස් ඇත්තේ මස්කෙළිය, බ්‍රවුන්ලෝ වතුයායේ පදිංචි වයස අවුරුදු 55ක් වන තිදරු පියෙකි.
-
-මෙම පුද්ගලයා පසුගිය 06 වැනිදා සිට අතුරුදන්ව සිට ඇති අතර මාවුස්සාකැලේ ජලාශ ඉවුරේ තිබී ඔහුගේ ඇඳුම්, හිස් වැසුම හා පාවහන් හමුවී තිබුණි.
-
-එම ඇඳුම් තිබුණ ස්ථානය අසල පොළවේ “මගේ මරණයට හේතුව E.P.F” බවට සටහනක්ද තබා ඇති බව මස්කෙළිය පොලීසිය පැවසුවේය.
-
-මියගිය පුද්ගලයාගේ මළ සිරුර දික්ඔය මූලික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මස්කෙළිය පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/38631b8e.json)
 
 ---

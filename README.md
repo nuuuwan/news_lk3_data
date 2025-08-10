@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 16:47:39**
+As of **2025-08-10 17:05:15**
 
 ## Newspaper Stats
 
-*Scraped **69,699** Articles*
+*Scraped **69,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,709
-adaderanalk | 8,677
+adaderanalk | 8,678
 tamilmirrorlk | 10,197
-virakesarilk | 11,610
-adaderanasinhalalk | 12,021
+virakesarilk | 11,620
+adaderanasinhalalk | 12,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,699 articles have been extended.
+61,973 (88.9%) of 69,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### மீண்டும் புதிய அர­சி­ய­ல­மைப்பு
+
+*2025-08-10 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/222258) · `ta`
+
+ஜனா­தி­பதி அநு­ர­கு­மார திசா­நா­யக்க தலை­மை­யி­லான ஜே.வி.பி.அர­சாங்கம் ஆட்­சிக்கு வந்து 10 மாதங்கள் முழுதாய் நிறை­வுக்கு வந்­து­விட்­டன. இந்­நி­லையில் கடந்த மாதத்தின் முத­லா­வது பாரா­ளு­மன்ற அமர்­வுக்­கா­லத்தில் ஐக்­கிய மக்கள் சக்­தியின் களுத்­துறை மாவட்ட பாரா­ளு­மன்ற உறுப்­பினர் அஜித்.பி.பெரேரா புதிய அர­சி­ய­மைப்பு சம்­பந்­த­மாக அர­சாங்கம் முன்­னெ­டுக்­கின்ற, முன்­னெ­டுக்­க­வுள்ள நட­வ­டிக்­கைகள் சம்­பந்­த­மாக கேள்­வி­களை தொடுத்­தி­ருந்தார்.
+
+அந்­தக்­கேள்­வி­க­ளுக்கு பதி­ல­ளித்த பிர­தமர் கலா­நிதி ஹரிணி அம­ர­சூ­ரிய, புதிய அர­சி­ய­ல­மைப்­புக்­கான பூர்­வாங்கப் பணிகள் ஆரம்­பிக்­கப்­பட்­டுள்­ள­தா­கவும், தமது ஆட்சி நிறை­வுக்கு வரு­வ­தற்குள் புதிய அர­சி­ய­ல­மைப்பு சீர்­தி­ருத்தம் கொண்­டு­வ­ரப்­படும் என்றும் உறு­தி­யாக கூறி­யி­ருந்தார்.
+
+...
+
+[Data](articles/6a547b72.json)
+
+---
+
+### கொங்கோ – தொடரும் துயரம்
+
+*2025-08-10 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222255) · `ta`
+
+உலகில் அதிக வளங்களைக் கொண்ட நாடுகளாக ஆபிரிக்க நாடுகள் உள்ள போதிலும், அந்த வளங்கள் மூலம் கிட்டக்கூடிய வருவாயின் பெறுமானத்தை நுகர முடியாத மக்களாகவே ஆபிரிக்க மக்கள் நீண்ட காலமாக இருந்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/41eb17dd.json)
+
+---
+
+### பள்ளிவாசல் படுகொலைகள்
+
+*2025-08-10 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222257) · `ta`
+
+யார் ஒரு குற்றத்தைச் செய்தார்களோ அவர்கள் அதற்கு பொறுப்பேற்க வேண்டும். அவர்களுக்கே தண்டனை வழங்கப்பட வேண்டுமே தவிர, அவர்கள் சார்ந்த சமூகங்களின் அப்பாவி மக்கள் அதற்காக பொறுப்புக்கூற வேண்டியதில்லை.
+
+◼️
+
+[Data](articles/cc3edc50.json)
+
+---
+
+### ප්‍රධාන පෙළේ මත්පැන් බෝතල්වලට වතුර කලවම් කර විකිණීමේ ජාවාරමක් කොටුවෙයි
+
+*2025-08-10 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213234) · `si`
+
+ප්‍රධාන පෙළේ මත්පැන් සමාගමක් මගින් නිකුත් කරන මත්පැන් බෝතල්වලට වතුර කලවම් කර විකිණීමේ ජාවාරමක් නීතියේ රැහැනට හසු කර ගැනීමට සුරාබදු විශේෂ මෙහෙයුම් ඒකකයේ නිලධාරීන් පිරිසක් සමත් වී තිබේ.
+
+මෙම ජාවාරම්කරුවන් පිරිස මත්පැන් බෝතල්වල මූඩි සූක්ෂම ලෙස ගලවා ඊට වතුර කලවම් කර නැවත මූඩි සවිකර විකුණා ඇති බවට අනාවරණය වී ඇත.
+
+එවැනි මත්පැන් බෝතල් 33ක් ද සුරාබදු නිලධාරීන් විසින් සිය භාරයට ගෙන තිබේ.
+
+කෙසේ වෙතත් සුරාබදු කොමසාරිස්ජනරාල්තුමාගේ උපදෙස් පරිදි එම මත්පැන්හලට මුද්‍රා තබා ඇති අතර වැඩිදුර පරීක්ෂණ ක්‍රියාත්මක වේ.
+
+◼️
+
+[Data](articles/138c25d7.json)
+
+---
+
+### கொழும்பில் 155ம் இலக்க பஸ் சேவை நாளை முதல் ஆரம்பம் - மாநகர சபை உறுப்பினர் ஆனந்தகுமார்
+
+*2025-08-10 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/222256) · `ta`
+
+கொழும்பில் நாளை திங்கட்கிழமை முதல் 155ம் இலக்க பஸ் சேவை ஆரம்பிக்கப்படவுள்ளதாக கொழும்பு மாநகர சபை உறுப்பினர் ஆனந்தகுமார் தெரிவித்தார்.
+
+தேசிய போக்குவரத்து ஆணைக்குழுவில் அதன்  தலைவர் ஆலோக கருணாரத்ன தலைமையில் வடகொழும்பு நகர சபை உறுப்பினர்களுடன் விசேட கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+
+இதன்போது நீண்டகால தேவையாகவும் கோரிக்கையாகவும் இருந்து வந்த வடகொழும்பின் பிரதான மார்க்கங்களில் செல்லும் 155ம் இலக்க பஸ் சேவை அதாவது மட்டக்குளி தொடக்கம் சொய்சாபுர வரை செல்லும் குறித்து பஸ்ஸின் சேவை சில ஆண்டுகளுக்கு முன்னர் நிறுத்தப்பட்டது.
+
+பின்னர் வடகொழும்பு நகர சபை உறுப்பினர் பிற நகரசபை உறுப்பினர்களின் தீவிர முயற்சியால் ஒரு சில பஸ்கள் குறித்த பகுதியில் இயக்கப்பட்டது. இருந்தும் குறித்த பகுதியில் வாழும் பொதுமக்கள் இவர்களிடம் விடுத்த கோரிக்கைக்கு அமைய மாநகர சபை அமர்வுகள் மற்றும் பிற அபிவிருத்தி கூட்டங்களின் இவர்கள் தொடர்ச்சியா இந்த பஸ்ஸின் தேவைகள் தொடர்பில் எடுத்து கூறியதுடன் அதன் அவசியத்தையும் தெளிவுபடுத்தி இருந்தனர்.
+
+...
+
+[Data](articles/5ebace50.json)
+
+---
 
 ### உயிரை விட்டார் உபபொலிஸ் பரிசோதகர்
 
@@ -66,6 +140,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Bus collision with truck kills 11, injures 45 in Brazil
+
+*2025-08-10 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111340/bus-collision-with-truck-kills-11-injures-45-in-brazil) · `en`
+
+A crash between a bus and a truck in Brazil’s center-western state of Mato Grosso killed 11 people and injured another 45 late Friday, the toll road operator and Brazil’s federal highway police said on Saturday.
+
+The injured were sent to nearby hospitals, firm Nova Rota do Oeste and the highway police said in separate statements.
+
+Among the injured, 11 were in critical condition, 26 in moderate condition and eight had only minor injuries, they added.
+
+Initial information indicates that a bus collided head-on with a truck transporting cottonseed near the city of Lucas do Rio Verde, according to the firm, which said it had been notified about the crash at 9:40 p.m. local time on Friday (0140 GMT Saturday).
+
+◼️
+
+[Data](articles/4925bc55.json)
+
+---
+
 ### ප්‍රදේශ කිහිපයකට හෙට තද වැසි
 
 *2025-08-10 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213233) · `si`
@@ -86,6 +178,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### தன்னைத்தானே சுட்டுக் கொண்டு உதவி பொலிஸ் பரிசோதகர் உயிர்மாய்ப்பு
+
+*2025-08-10 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222253) · `ta`
+
+வீரகுள பொலிஸ் நிலையத்தில் கடமைப்புரியும் உதவி பொலிஸ் பரிசோதகர் ஒருவர் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+இவர் தனது சேவைத் துப்பாக்கியால் தன்னைத்தானே சுட்டுக் கொண்டு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/37b674b9.json)
+
+---
+
+### எதிர்­பார்ப்­பு­களை ஏற்­ப­டுத்­தும் ட்ரம்ப் -­ புட்டின் சந்­திப்பு
+
+*2025-08-10 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222243) · `ta`
+
+ரஷ்­யா­வுடன் வர்த்­த­கத்தில் ஈடு­படுவதால் அமெ­ரிக்­காவின் அதி­க­ரித்த தீர்வை குறித்து கலக்­க­ம­டைந்­தி­ருந்த பல்வேறு நாடு­களும், ட்ரம்ப் - புட்டின் உச்­சி­மா­நாடு சற்று நிம்­ம­தி­ய­ளிக்­கக்­கூ­டி­ய­தாகும்.
+
+◼️
+
+[Data](articles/2ab5b929.json)
+
+---
+
+### பலஸ்தீனர்கள் பட்டினியால் கொல்லப்படும் நிலையில் 'இரு நாடுகள் தீர்வை'  புதுப்பிப்பதற்கான பிரான்ஸ் - ­சவூதியின் நடவடிக்கை
+
+*2025-08-10 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222241) · `ta`
+
+காஸாவில் பட்­டி­னியால் வாடும் பலஸ்­தீ­னர்கள் இனப்­ப­டு­கொலை செய்­யப்­ப­டு­வதை நிறுத்­து­வதும் யூத குடி­யேற்ற காடை­யர்கள் பலஸ்­தீ­னர்­களை பய­மு­றுத்­து­வ­தையும் மேற்குக் கரையில் உள்ள அவர்­களின் நிலங்­களை கைப்­பற்­று­வ­தையும் தடுக்க உட­னடி நட­வ­டிக்கை எடுப்­பதும் தான் அமெ­ரிக்­காவும் இஸ்­ரேலும் மேற்­கொள்ள வேண்­டிய இன்­றைய கால கட்­டத்தின் அவ­சரத் தேவை­யாகும். இரண்டாம் உலகப் போருக்குப் பின் பிரிட்டன், ஐரோப்பா மற்றும் அரபு சர்­வா­தி­கா­ரி­களின் ஆத­ர­வோடு மேற்­கொள்­ளப்­படும்  மிக   மோச­மான இனப்­ப­டு­கொலை இது­வாகும். இதில் சவூதி அரே­பியா, எகிப்து, ஜோர்டான், ஐக்­கிய அரபு எமிரேட்ஸ் மற்றும் பல அரபு சர்­வா­தி­கா­ரி­களின் ஆத­ரவும் அடங்கும்.
+
+◼️
+
+[Data](articles/ef6b619c.json)
+
+---
+
 ### එස්.අයි. වෙඩි තබාගෙන දිවි හානි කර ගනියි
 
 *2025-08-10 15:26:32* · [`adalk`](https://www.ada.lk/breaking_news/එස්-අයි--වෙඩි-තබාගෙන-දිවි-හානි-කර-ගනියි/11-417818) · `si`
@@ -95,6 +225,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2d07fd33.json)
+
+---
+
+### சுகாதாரத்துறை அபிவிருத்தி நிகழ்ச்சித்திட்டத்தில் பெருந்தோட்டம் குறித்த முக்கிய கவனம் அவசியம்
+
+*2025-08-10 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222238) · `ta`
+
+பெருந்தோட்ட மக்களின் சுகாதார, மருத்துவ நிலைமைகள் இன்னும் பூரண விருத்தி பெறாத நிலையே காணப்படுகின்றது. இங்குள்ள வைத்தியசாலைகள் பல்வேறு சிரமங்களுக்கு மத்தியில் இயங்கிவருகின்றன.  இத்தகைய போக்குகள் தொழிலாளர்களின் சுகாதார நிலைமைகளை கேள்விக்குறியாக்கியுள்ளன.
+
+◼️
+
+[Data](articles/370e2bf9.json)
 
 ---
 
@@ -111,6 +253,26 @@ If you or someone you know is in crisis and needs help, resources are available 
 ◼️
 
 [Data](articles/04511799.json)
+
+---
+
+### நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட சுற்றி வளைப்பில் 704 பேர் கைது
+
+*2025-08-10 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222242) · `ta`
+
+நாடளாவிய ரீதியில் சனிக்கிழமை (09) நடத்தப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது குற்றச் செயல்களில் ஈடுபட்டதாகவும், சட்டவிரோத மதுபானம் மற்றும் போதைப்பொருள் தொடர்பான குற்றங்கள் தொடர்பாகவும் சந்தேகத்தின் பேரில் மொத்தம் 704 பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்த நடவடிக்கையின் ஒரு பகுதியாக, 25,503 பேர் சோதனைக்கு உட்படுத்தப்பட்டதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த நடவடிக்கையின் போது குற்றச் செயல்களுடன் நேரடியாக தொடர்புடைய 29 நபர்களை அடையாளம் காணப்பட்டுள்ளதோடு, மேலும் 203 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மதுபோதையில் வாகனத்தை செல்லுத்திய 100 பேர் கைது செய்யப்பட்டனர். மேலும் பொறுப்பற்ற சாரதிகள் 17 பேரும், பல்வேறு போக்குவரத்து விதி முறைகளை மீறிய 3,369 பேரும் அடையாளம் காணப்பட்டுள்ளனர்.
+
+பொலிஸாரின் கூற்றுப்படி, சிறிய, நடுத்தர மற்றும் பெரிய அளவிலான போதைப்பொருள் கடத்தல்காரர்கள், குற்றச் செயல்களில் ஈடுபடும் நபர்கள் மற்றும் சட்டவிரோத துப்பாக்கிகளை வைத்திருப்பவர்களைக் கைது செய்ய நாடு முழுவதும் நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+
+◼️
+
+[Data](articles/97a34090.json)
 
 ---
 
@@ -153,6 +315,18 @@ Speaking during a media briefing today, the Commissioner General of Examinations
 ◼️
 
 [Data](articles/b257119b.json)
+
+---
+
+### உலகளாவிய பல்கலைக்கழகங்களின் தரவரிசையும் பட்டதாரிகளின் வேலைவாய்ப்பும் - ஒரு பகுப்பாய்வு
+
+*2025-08-10 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/222237) · `ta`
+
+அதிநவீன ஆராய்ச்சி வசதிகள் மற்றும் அதிக தாக்கத்தை ஏற்படுத்தும் தலைப்புகள், வளங்களில் முதலீடு செய்வதன் மூலம் சிறந்த தாக்கத்தை ஏற்படுத்தும் ஆராய்ச்சி கலாசாரத்தை வளர்க்க முடியும்.
+
+◼️
+
+[Data](articles/ab3ed728.json)
 
 ---
 
@@ -1537,235 +1711,5 @@ Authorities did not provide an official estimate for the size of the crowd, thou
 ◼️
 
 [Data](articles/4433f581.json)
-
----
-
-### මහජන ආරක්ෂක ඇමති ලේකම් ලෙස වෙස්ගෙන මහරගම පොලීසියට ඇමතුම් දුන් අයෙක් අල්ලයි
-
-*2025-08-10 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213212) · `si`
-
-මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතාගේ ලේකම්වරයෙකු ලෙස ව්‍යාජ ලෙස පෙනී සිටිමින් මහරගම පොලීසිය වෙත ඇමතුම් ලබා දුන් අයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසිය පැවසුවේ සැකකරු විසින් හොරොයින් මත්ද්‍රව්‍ය සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් මහරගම පොලීසිය විසින් අත්අඩංගුවට ගත් පුද්ගලයෙකු පොලීසියෙන් නිදහස් කර ගැනීම සඳහා මෙලෙස ඇමතුම් ලබා දී ඇති බවය.
-
-අත්අඩංගුවට ගත් සැකකරු සම්බන්ධයෙන් මේ වන විට නීත්‍යානුකූල ක්‍රියාමාර්ග ගෙන ඇති බවත් මේ සම්බන්ධව විශේෂ විමර්ශනයක්ද මේ වන විට ක්‍රියාත්මක කර තිබේ.
-
-මේ සම්බන්ධව නිවේදනයක් නිකුත් කරමින් මහජන ආරක්ෂක අමාත්‍යාංශය පැවසුවේ අමාත්‍යවරයා හෝ අමාත්‍යවරයාගේ කාර්යමණ්ඩලයේ හෝ කිසිදු අයෙක් ශ්‍රී ලංකා පොලීසිය විසින් සිදුකරනු ලබන අත්අඩංගුවට ගැනීම් හෝ කිසිදු ක්‍රියාමාර්ගයක් සම්බන්ධයෙන් අයුතු බලපෑමක් හෝ අයුතු මැදිහත් වීමක් සිදු නොකරන බවය.
-
-එමෙන්ම මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීම සඳහාත් රට තුළ නීතියේ හා විධානයේ ආධිපත්‍ය තහවුරු කිරීම සඳහාත් විශේෂ මැදිහත්වීමක් මහජන ආරක්ෂක අමාත්‍යාංශය විසින් මේ වන විටත් සිදුකරමින් පවතින බවද එම නිවේදනයේ සඳහන් වේ.
-
-...
-
-[Data](articles/331307d4.json)
-
----
-
-### Kandy Esala Perahera Festival draws to a close
-
-*2025-08-10 06:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111316/kandy-esala-perahera-festival-draws-to-a-close-) · `en`
-
-The 2025 historic Kandy Esala Perahera Festival concluded yesterday (09), with the Day Perahera.
-
-The four Devale Peraheras proceeded to the Getambe Diya Kapana Thota to perform the water-cutting ceremony (Diya Kapeema) at dawn yesterday, following traditional ritual practices.
-
-After the ceremony, the Day Perahera paraded the streets of Kandy and in the afternoon concluded its sacred journey for this year.
-
-Meanwhile, the Grand Randoli Perahera of this year’s Kandy Esala Festival paraded the streets on Friday.
-
-The streets of Kandy were illuminated with colour as the final day of the Esala Randoli Perahera concluded on Friday night.
-
-Thousands gathered along the streets to witness the historical procession.
-
-This year’s Esala Festival drew to a close after the Nilames of the Satara Maha Dewalayas together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela presented the Sannasa (Scroll) to the President at the President’s House in Kandy.
-
-...
-
-[Data](articles/a8f3a4ad.json)
-
----
-
-### ශිෂ්‍යත්වය පෙරවරු 9.30ට ඇරඹේ
-
-*2025-08-10 06:43:25* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-පෙරවරු-9-30ට-ඇරඹේ/11-417808) · `si`
-
-2025 පහ ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගය අද (10) අද පෙරවරු 9.30ට දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී ආරම්භවීමට නියමිතය.
-
-මෙවර ශිෂ්‍යත්ව විභාගය සඳහා අයදුම්කරුවන් 307,951 පෙනී සිටීමටද නියමිත අතර විභාගය පස්වරු  12:15ට අවසන් වීමටද නියමිතය.
-
-අද දිනයේදී ආරම්භ වන ශිෂ්‍යත්ව විභාගය අතරතුර යම් කිසි ආපදා තත්ත්වයක් මතු වුවහොත් ක්ෂණික ඇමතුම් 117 අංකය අමතා දැනුවත් කළ හැකි බවවිභාග දෙපාර්තමේන්තුව පවසයි.
-
-◼️
-
-[Data](articles/cbb7a363.json)
-
----
-
-### தரம் 5 புலமைப்பரிசில் பரீட்சை இன்று
-
-*2025-08-10 06:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-புலமைப்பரிசில்-பரீட்சை-இன்று/175-362609) · `ta`
-
-2,787 பரீட்சை மத்திய நிலையங்களில் பரீட்சையை நடத்துவதற்கான அனைத்து ஏற்பாடுகளும் பூர்த்தி செய்யப்பட்டுள்ளன என பரீட்சைகள் ஆணையாளர் நாயகம் இந்திகா குமாரி லியனகே தெரிவித்துள்ளார்.
-
-பரீட்சை தினத்தில் தேவையான பாதுகாப்பு நடவடிக்கைகள் அனைத்தும் முன்னெடுக்கப்பட்டுள்ளதாகவும் திடீர் அனர்த்தங்கள் தொடர்பிலும் கவனம் செலுத்தப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
-
-திடீர் அனர்த்தங்கள் ஏற்படுமாயின் 117 என்ற துரித இலக்கத்திற்கு அழைப்பினை ஏற்படுத்தி தகவல் அளிக்க முடியுமென அவர் தெரிவித்துள்ளார்.
-
-பரீட்சை காலை 9.30 மணிக்கு ஆரம்பமாகவுள்ளதுடன் பரீட்சார்த்திகள் 08.30 மணிக்கு பரீட்சை மத்திய நிலையங்களில் அமர வேண்டியது அவசியமெனவும் அவர் வலியுறுத்தினார்.
-
-பரீட்சைக்கு தேவையான எழுதுகருவிகள் தவிர்ந்து ஏனைய பொருள்களை எடுத்து செல்வதை தவிர்க்குமாறும் பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.  (a)
-
-◼️
-
-[Data](articles/cc02f30e.json)
-
----
-
-### පහේ කඩඉම පසුකරන ශිෂ්‍යත්ව විභාගය අද
-
-*2025-08-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213211) · `si`
-
-2025 පහ ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගය අද (10) ආරම්භ වීමට නියමිතව තිබේ.
-
-ඒ අනුව අද පෙරවරු 9.30ට දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී ශිෂ්‍යත්ව විභාගය පැවැත්වීමට නියමිතව ඇත.
-
-ඒ වෙනුවෙන් විභාග මධ්‍යස්ථාන සූදානම් කිරීම සහ දූමායනය කිරීම ඊයේ (09) දිනයේදී සිදු කෙරිණි.
-
-ශිෂ්‍යත්ව විභාගයේදී දෙවන ප්‍රශ්න පත්‍රය පළමුව ලබා දීමට නියමිත අතර එය 10.45 වන විට අවසන් වීමටද නියමිතව ඇත.
-
-ඉන් අනතුරුව පැය භාගයක විවේක කාලයක් හිමිවන අතර ඉන් අනතුරුව පළමු ප්‍රශ්න පත්‍රය 11.15ට ආරම්භ වේ.
-
-එම ප්‍රශ්න පත්‍රයට පිළිතුරු සැපයීමට පැයක කාලයක් ලබා දෙන අතර ඒ අනුව 12:15ට එම ප්‍රශ්න පත්‍රය අවසන් වීමටද නියමිතය.
-
-ඒ අනුව 09 : 30ට ආරම්භ වන විභාගය පස්වරු  12:15ට අවසන් වීමටද නියමිතය.
-
-මේ අතර ඊයේ ඊයේ ශිෂ්‍යත්ව විභාගය සම්බන්ධව දැනුවත් කිරීමේ ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමින් විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවේ අද දිනයේදී ආරම්භ වන ශිෂ්‍යත්ව විභාගය අතරතුර යම් කිසි ආපදා තත්ත්වයක් මතු වුවහොත් ක්ෂණික ඇමතුම් 117 අංකය අමතා දැනුවත් කළ හැකි බවත් ඒ වෙනුවෙන් වූ විශේෂ වැඩපිළිවෙළක්ද ක්‍රියාත්මක කර ඇති බවය.
-
-...
-
-[Data](articles/330b8326.json)
-
----
-
-### Opportunity In Trump’s Tariff Shock: Diversify Products, Markets & Industrialize
-
-*2025-08-10 06:10:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/opportunity-in-trumps-tariff-shock-diversify-products-markets-industrialize/) · `en`
-
-Real and staged crises present opportunities to reorient, innovate and think outside the box.  Trump’s tariff ‘shock’ presents Sri Lanka’s business sector and national policy makers and an opportunity for short, intermediate and long term economic and industrial policy shift out of the current neocolonial, services heavy, economic model.
-
-At this time, the focus of discussion should be on Development of NEW PRODUCTS and NEW MARKETS by businesses and entrepreneurs in partnership with state agencies in order to grow the economy out of the Eurobond- USD debt trap and International Monetary Fund bailout business.
-
-Sri Lanka has abundant fishery and high value Graphite and Rare Earth Minerals including Zircon, Titanium, phosphates etc. These are low hanging fruit with HUGE POTENTIAL to grow the national economy.
-
-Firstly, it would be important to develop new export products by leveraging existing resources Marine and Mineral resources, industrializing and value adding in these sectors.
-
-...
-
-[Data](articles/18a7613d.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට අද සිහින් වැසි වාර කිහිපයක්
-
-*2025-08-10 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213210) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ උතුරු පළාතෙත් ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක්ද සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/20940486.json)
-
----
-
-### Grade 5 Scholarship Exam to be held today
-
-*2025-08-10 05:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111315/grade-5-scholarship-exam-to-be-held-today) · `en`
-
-The 2025 Grade Five Scholarship Examination is scheduled to be held today (10).
-
-The Department of Examinations noted accordingly, Paper II of the scholarship exam will be held from 9:30 a.m. to 10:45 a.m., and Paper I will be held from 11:15 a.m. to 12:15 p.m.
-
-Meanwhile, the Commissioner General of Examinations, A.K.S. Indika Kumari stated that the examination will commence at 9:30 a.m., and candidates must arrive at their respective examination centres by 8:30 a.m.
-
-All candidates should be seated at respective examination halls by 9:00 a.m.
-
-The Commissioner General of Examination said in the event of any emergencies during the examination, candidates or parents can contact the hotline number 117.
-
-A special program has been implemented to address such situations promptly, she added.
-
-◼️
-
-[Data](articles/e94c65fd.json)
-
----
-
-### Several spells of light showers expected across the country today
-
-*2025-08-10 05:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111314/several-spells-of-light-showers-expected-across-the-country-today-) · `en`
-
-Several spells of light showers will occur in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (10), the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in the Northern province and in the Trincomalee and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/11fd88e9.json)
-
----
-
-### குளத்திலிருந்து சடலமாக மீட்கப்பட்டவர் அடையாளம்
-
-*2025-08-10 03:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளத்திலிருந்து-சடலமாக-மீட்கப்பட்டவர்-அடையாளம்/175-362608) · `ta`
-
-யாழ்ப்பாணம் புல்லுக் குளத்திலிருந்து சடலமாக மீட்கப்பட்டவர் குருநகர், யாழ்ப்பாணத்தைச் சேர்ந்த எட்வேர்ட் எக்மன் ஜெகதீஷ் (வயது 47) என்ற குடும்பஸ்தர் என அடையாளம் காணப்பட்டுள்ளார்.
-
-யாழ்ப்பாணம் புதிய பஸ் நிலையத்துக்கு அருகாமையில் உள்ள புல்லு குளத்தில் நேற்று முன்தினம் வெள்ளிக்கிழமை (08) மாலை ஆண் ஒருவரின் சடலம் மீட்கப்பட்டு அடையாளம் காண்பதற்காக யாழ். போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்டு இருந்தது.
-
-நேற்று சனிக்கிழமை (09) அவருடைய சகோதரர் சடலத்தை அடையாளம் காட்டியுள்ளார்.  இதனைத் தொடர்ந்து யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணை மேற்கொண்டார்.
-
-இதன்போது, குறித்த நபர் கனடா நாட்டில் மனைவியும் மகளும்  வசிக்கும் நிலையில், அவர் இலங்கை வந்திருந்த சமயம் வலிப்பு நோயால் காரணமாக புல்லுக்குள கட்டில் இருந்த போது குளத்தில்  விழுந்துள்ளார் என விசாரணையில் தெரிவிக்கப்பட்டது. இதனைத் அடுத்து சகோதரரிடம் சடலம் கையளிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/1e965780.json)
-
----
-
-### ஓகஸ்ட் 15 இல் ட்ரம்ப் - புடின் சந்திப்பு
-
-*2025-08-10 03:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓகஸ்ட்-15-இல்-ட்ரம்ப்-புடின்-சந்திப்பு/50-362607) · `ta`
-
-ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினை சந்திக்கவுள்ளதாக அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப்  அதிகாரப்பூர்வமாக அறிவித்துள்ளார்.
-
-அமெரிக்காவின் அலாஸ்கா மாநிலத்தில் இந்தச் சந்திப்பு நடைபெறவுள்ளதாக ட்ரம்ப் தனது ட்ரூத் சோஷியல் தளத்தில் உறுதிப்படுத்தியுள்ளார்.
-
-சந்திப்பில், உக்ரைன் மற்றும் ரஷ்யாவுக்கு இடையே பிரதேசங்களை  பரிமாற்றம் செய்வது குறித்து விவாதிக்கப்படலாம் என ட்ரம்ப் குறிப்பிட்டுள்ளார். (a)
-
-◼️
-
-[Data](articles/028091bc.json)
-
----
-
-### 2025-08-09 (Saturday)
-
-### உலக ஆதிவாசிகள் தின தேசிய கொண்டாட்டம்
-
-*2025-08-09 23:42:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-ஆதிவாசிகள்-தின-தேசிய-கொண்டாட்டம்/175-362606) · `ta`
-
-உலக ஆதிவாசிகள் தினத்தை முன்னிட்டு  ஏற்பாடு செய்யப்பட்டிருந்த தேசிய வைபவம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில்  இன்று (09) முற்பகல் தம்பான ஆதிவாசி அருங்காட்சியக வளாகத்தில் இடம்பெற்றது.
-
-இலங்கையின் பிரதான ஆதிவாசியினத் தலைவரான, விஷ்வகீர்த்தி வனஸ்பதி ஊருவரிகே வன்னியலெத்தோ, 1996 ஆம் ஆண்டு ஜெனீவாவில் நடந்த ஆதிவாசிகள் மாநாட்டில் கலந்து கொண்டபோது,  உலக ஆதிவாசிகள் தின வைபவத்தை இலங்கையில் கொண்டாடுவது குறித்த கருத்தாடல் ஆரம்பமாகியதுடன், அதன்படி, இலங்கையின் முதல் தேசிய ஆதிவாசிகள் தின கொண்டாட்டம் 1999 ஆம் ஆண்டு கொழும்பு விஹார மகா தேவி பூங்காவில் நடைபெற்றது.
-
-இந்த முறையும், பல்வேறு அரச மற்றும் தனியார் நிறுவனங்கள் இணைந்து தேசிய ஆதிவாசிகள் தின கொண்டாட்டத்தை சிறப்பான முறையில் ஏற்பாடு செய்திருந்ததுடன், அமைதி மற்றும் சுபீட்சத்திற்காக ஆசீர்வதிக்கப்பட்ட பாரம்பரிய “கிரி கொரஹா” சம்பிரதாயம் உட்பட ஆதிவாசிகளின் தனித்துவமான பல்வேறு கலாசார அம்சங்களுடன் இந்த நிகழ்வு வண்ணமயமாக இருந்தது.
-
-...
-
-[Data](articles/8c1eced8.json)
 
 ---

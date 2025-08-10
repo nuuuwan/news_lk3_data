@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 10:51:19**
+As of **2025-08-10 11:22:09**
 
 ## Newspaper Stats
 
-*Scraped **69,628** Articles*
+*Scraped **69,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,702
-adaderanalk | 8,661
+adaderanalk | 8,664
 tamilmirrorlk | 10,186
-virakesarilk | 11,589
-adaderanasinhalalk | 12,006
+virakesarilk | 11,597
+adaderanasinhalalk | 12,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,628 articles have been extended.
+61,973 (89.0%) of 69,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### கம்பஹாவில் பல பகுதிகளுக்கு நாளை நீர் வெட்டு
+
+*2025-08-10 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222210) · `ta`
+
+கம்பஹா மாவட்டத்தின் பல பகுதிகளுக்கு நாளை (11) காலை 10.00 மணி முதல் இரவு 8.00 மணி வரை 10 மணி நேரம் நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகால் சபை (NWSDB) அறிவித்துள்ளது.
+
+கம்பஹா - அத்தனகல்ல - மினுவங்கொட ஒருங்கிணைந்த நீர் வழங்கல் திட்டத்தின் ஒரு பகுதியாக இருக்கும் நிட்டம்புவவிலிருந்து மினுவங்கொட வரையிலான குழாய் பராமரிப்புப் பணிகள் இடம்பெறவுள்ளமையினால் நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, ரன்பொகுணகம, பட்டலிய, அத்தனகல்ல, பஸ்யால மற்றும் நிட்டம்புவ, அத்துடன் கந்தஹேன, மாபகொல்ல, கொங்கஸ்தெனிய, பின்னகொல்லவத்த, கொலவத்தை, கோரக்கதெனிய, ரன்பொகுணகம வீடமைப்புத் திட்டம், ஊராபொல, திக்கந்த, மீவிதிகம்மன, மைம்புல, மத்தலான, ஹக்கல்ல, அலவல, கலல்பிட்டிய, மற்றும் எல்லமுல்ல ஆகிய பகுதிகளுக்கு நீர் வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+◼️
+
+[Data](articles/d88ef0b1.json)
+
+---
+
+### ඊසි කෑෂ් ක්‍රමයට හෙරොයින් බෙදූ ජාවාරම්කරු කොටුවෙයි
+
+*2025-08-10 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213219) · `si`
+
+ඩුබායි රාජ්‍යයේ සැඟව සිට කළුතර හා අවට ප්‍රදේශ රැසකටම ඊසි කෑෂ් ක්‍රමයට හෙරොයින් ජාවාරම් කළ ප්‍රධාන සංවිධානාත්මක අපරාධ කල්ලියක සාමාජිකයකුගේ ගෝලයෙකු ලක්ෂ 15ක් පමණ වටිනා හෙරොයින් සමග අත්අඩංගුවට ගෙන තිබේ.
+
+කළුතර අපරාධ කොට්ඨාසයට අනුබද්ධ බුද්ධි නිලධාරීන්ගෙන් ලද තොරතුරක් මත මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+
+මොහු ඊසි කෑෂ් ක්‍රමය යොදා ගනිමින් කළුතර, මතුගම ,පානදුර ,පයාගල, බේරුවල, මතුගම ආදි ප්‍රදේශ රැසකටම තොග වශයෙන් හෙරොයින් බෙදා හැරීම සිදු කර ඇති බව මූලික පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 41ක් වන කළුතර පළාතොට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ඔහු ගමන් කළ ත්‍රිරෝද රථයද, එම ජාවාරම මෙහෙයවීම සඳහා භාවිත කළ ජංගම දුරකථනය ද කළුතර අපරාධ කොට්ඨාසය විසින් සිය භාරයට ගෙන ඇත.
+
+සැකකරු අද (10) කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර ඉදිරි විමර්ශන සඳහා රැඳවුම් නියෝග ලබා ගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/12758123.json)
+
+---
+
+### செம்மணி விவகாரத்தில் அரசாங்கம் தலையிடவில்லை- சுயாதீன வழக்குரைஞர் அலுவலகம் மூலம் உள்நாட்டு பொறிமுறையை வலுப்படுத்துவோம் - விஜித ஹேரத்
+
+*2025-08-10 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/222209) · `ta`
+
+ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் 60 வது கூட்டத்தொடரில் இலங்கையை பிரதிநிதித்துவம் செய்யும் குழுவிற்கு தலைமை தாங்கவுள்ள வெளிவிவகார அமைச்சர் விஜித ஹேரத் இலங்கையின் நிலைப்பாட்டை முன்வைத்து உரையாற்றவுள்ளார்.
+
+புதிய அரசாங்கம் பதவியேற்றது முதல் ஐக்கிய நாடுகள் மனித உரிமை பேரவையில் இலங்கை தொடர்பில்  சமர்ப்பிக்கப்படும் தீர்மானங்கள் கடுமையானவையாக காணப்படாத நிலை காணப்படுகின்றது என தெரிவித்துள்ள அவர் பொறுப்புக்கூறலிற்கு தீர்வை காண்பதற்காக உள்நாட்டு பொறிமுறையை வலுப்படுத்துவதற்காக அரசாங்கம் பல நடவடிக்கைகளை எடுத்துள்ளது அரசியல் தலையீடுகளை தவிர்ப்பதற்கான நடவடிக்கைகளையும் எடுத்துள்ளது என தெரிவித்துள்ளார்.
+
+தேசிய மக்கள் சக்தி தனது தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிட்டபடி சுயாதீன வழக்குரைஞர் அலுவலகத்தை ஏற்படுத்துவது உள்நாட்டு பொறிமுறை குறித்து சர்வதேச சமூகத்தின் நம்பிக்கையை மேலும் அதிகரிக்கும் என அவர்  குறிப்பிட்டுள்ளார்.
+
+நாங்கள் சுயாதீன வழக்குரைஞர் அலுவலகத்தை ஏற்படுத்துவது குறித்து அர்ப்பணிப்புடன் உள்ளோம்,எதிர்காலத்தில் இதற்கான சட்ட நடவடிக்கைகள் முன்னெடுக்கப்படும் என அமைச்சர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/eb09a4df.json)
+
+---
+
+### தகர்ந்து போகும் ஜெனிவா திட்டம்
+
+*2025-08-10 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222207) · `ta`
+
+அரசாங்கம் சர்வதேச விசாரணையை அனுமதிக்கப் போவதில்லை என்று கூறுகிறது.ஆனால், தொழில்நுட்ப உதவிகளை தேவைப்பட்டால் பெற்றுக் கொள்வதாகவும் கூறுகிறது.
+
+இவற்றுக்கு அப்பால் இந்த விவகாரம் ஒரு சர்வதேச விசாரணை பொறிமுறையினூடாக கையாளப்பட வேண்டும் என்ற கோரிக்கைகள் வலுப்பெற்று வருகின்றன.இலங்கை அரசாங்கம் ஜெனிவா நெருக்கடியில் இருந்து தப்பிப்பதற்கு போட்ட திட்டங்களைஇ செம்மணி புதைகுழியும்,சோமரத்ன ராஜபக்ஷவின் மனைவியின் கடிதமும் தகர்த்து விடும் போலவே தெரிகிறது.
+
+◼️
+
+[Data](articles/f74846b0.json)
+
+---
 
 ### லொஹான் ரத்வத்த மருத்துவமனையில் அனுமதி
 
@@ -52,11 +122,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ගාල්ල ධීවර වරායේ භාවිතයට නොගන්නා ධීවර යාත්‍රා කිහිපයක ගින්නක් හටගෙන තිබේ.
 
-ගාල්ල මහ නගර සභාවේ ගිනි නිවීමේ ඒකකය, නාවික හමුදාව සහ ධීවර ප්‍රජාව එක්ම මේවන විට ගින්න මැඩ පවත්වා ඇත.
+ගාල්ල මහ නගර සභාවේ ගිනි නිවීමේ ඒකකය, නාවික හමුදාව, ගාල්ල දිස්ත්‍රික් අපදා ඒකකයේ නිලධාරීන් සහ ධීවර ප්‍රජාව එක්ම මේවන විට ගින්න මැඩ පවත්වා ඇත.
 
 ◼️
 
 [Data](articles/f7c58d1c.json)
+
+---
+
+### குற்றப்புலனாய்வுத் திணைக்களத்திடம் உண்மைகளை கூறுவதற்கு சோமரத்ன ராஜபக்ஷ தயாரில்லை ; உள்ளகக் கட்டமைப்புக்களில் நம்பிக்கை இல்லை என சோமரத்னவின் மனைவி, சகோதரி சுட்டிக்காட்டு
+
+*2025-08-10 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/222206) · `ta`
+
+சர்வதேச விசாரணையில் சாட்சியம் அளிப்பதற்குத் தயாராக இருக்கிறேன் என்ற சோமரத்ன ராஜபக்ஷவின் அறிவிப்பை அடுத்து குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகள் அவரிடம் விசாரணைகளை முன்னெடுத்தாலும் அவர் அவ்வதிகாரிகளிடம் எதனையும் கூறமாட்டார் எனவும், ஏனெனில் கடந்தகாலங்களில் உண்மையைக் கூறியபோதிலும் நீதி கிட்டாததன் விளைவாக தாம் அக்கட்டமைப்புக்கள்மீது நம்பிக்கை இழந்திருப்பதாகவும் சோமரத்ன ராஜபக்ஷவின் மனைவி மற்றும் சகோதரி கேசரியிடம் தெரிவித்தனர்.
+
+கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் நீதிமன்றத்தினால் பிரதான குற்றவாளியாகப் பெயரிடப்பட்டு மரணதண்டனை விதிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ, அப்படுகொலை மற்றும் செம்மணி மனிதப்புதைகுழி விவகாரம் என்பன தொடர்பில் தன்னிடம் கூறிய விடயங்களை உள்ளடக்கியும், இவ்விவகாரம் தொடர்பில் மீண்டுமொரு சுயாதீன விசாரணையைக் கோரியும் அவரது மனைவி ஜனாதிபதி, பிரதமர் மற்றும் நீதியமைச்சர் உள்ளிட்டோருக்கு அண்மையில் கடிதமொன்றை அனுப்பிவைத்திருந்தார்.
+
+...
+
+[Data](articles/c5d4a471.json)
 
 ---
 
@@ -73,6 +157,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d1601110.json)
+
+---
+
+### Seven Indian fishermen arrested for poaching in seas off Mannar
+
+*2025-08-10 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111326/seven-indian-fishermen-arrested-for-poaching-is-seas-off-mannar) · `en`
+
+A total of seven Indian fishermen have been arrested for poaching in Sri Lankan waters off Mannar, the Sri Lanka Navy stated.
+
+A boat has also been taken into custody during the operation carried out by the North Central Naval Command.
+
+The seized boat and the Indian fishermen have been brought to the Talaimannar Pier and handed over to the Fisheries Inspector of Mannar to take legal proceedings.
+
+Considering the harmful impacts of illegal fishing practices on the livelihood of local fishermen, the Navy said it continues to conduct regular patrols and operations to curb illegal practices of foreign fishing boats trespassing into Sri Lankan waters.
+
+◼️
+
+[Data](articles/b5e5093e.json)
 
 ---
 
@@ -128,6 +230,52 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### காசாநகரை முழுமையாக ஆக்கிரமிக்கும் திட்டத்திற்கு கடும் எதிர்ப்பு - இஸ்ரேலிய தலைநகரில் ஆயிரக்கணக்கானவர்கள் ஆர்ப்பாட்டம்
+
+*2025-08-10 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222200) · `ta`
+
+காசாவை முழுமையாக ஆக்கிரமிக்கும் இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகுவின் திட்டத்திற்கு எதிராக இஸ்ரேலிய தலைநகர் டெல்அவியில் ஆயிரக்கணக்கான இஸ்ரேலியர்கள் ஆர்ப்பாட்டங்களில் ஈடுபட்டனர்.
+
+இஸ்ரேலிய பிரதமர் இராணுவ நடவடிக்கையை உடனடியாக நிறுத்தவேண்டும்,பணயக்கைதிகளை விடுதலை செய்வதற்கான நடவடிக்கைகளை எடுக்கவேண்டும் என ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் வேண்டுகோள் விடுத்தனர்.
+
+காசாநகரை முழுமையாக கைப்பற்றும் நடவடிக்கை இராணுவரீதியிலான தீர்மானம் இல்லை,இது நாங்கள் மிகவும் நேசிக்கும் மக்களிற்கான மரண தண்டனை என ஹமாசிடம் பணயக்கைதியாக உள்ள ஒம்ரி மிரானின் மனைவி  ஆர்ப்பாட்டத்தில் தெரிவித்தார்.
+
+இந்த அரசாங்கம் இனவெறிபிடித்தது ,அவர்கள் நாட்;டின் நலனிற்கு எதிராக அனைத்தையும் செய்கின்றனர் என 69 வயது ரமி டார் தெரிவித்திருந்தார்.அவரும் டிரம்;ப் பணயக்கைதிகளை விடுதலை செய்வதற்கான முயற்சிகளில் ஈடுபடவேண்டும் என வேண்டுகோள் விடுத்தார்.
+
+...
+
+[Data](articles/356e4558.json)
+
+---
+
+### மஹிந்த அமைதியாக செல்லத் தயாரில்லை
+
+*2025-08-10 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222197) · `ta`
+
+ஜனாதிபதி தனது மாலைத்தீவு பயணத்தை முடித்துக்கொண்டு இலங்கை திரும்பிய சில மணிநேரங்களில், அரசாங்கத்தின் சார்பில் ஒரு சிறப்பு வர்த்தமானி அறிவிப்பு வெளியிடப்பட்டது.
+
+◼️
+
+[Data](articles/e96e0bbf.json)
+
+---
+
+### Europe stresses need to protect Ukrainian interests ahead of Trump-Putin talks
+
+*2025-08-10 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111325/europe-stresses-need-to-protect-ukrainian-interests-ahead-of-trump-putin-talks) · `en`
+
+European leaders on Saturday welcomed U.S. President Donald Trump’s plans to meet Russian President Vladimir Putin on ending the war in Ukraine, while stressing the need to keep pressure on Moscow and protect Ukrainian and European security interests.
+
+Trump plans to meet Putin in Alaska on Friday, saying the parties, including Ukrainian President Volodymyr Zelenskiy, were close to a deal that could resolve the three-and-a-half-year-old conflict.
+
+The U.S. president is open to a trilateral summit with Putin and Zelenskiy, but for now the White House is planning a bilateral meeting as requested by Putin, a White House official said. Russian and Ukrainian officials could not immediately be reached for comment on the prospects of a trilateral meeting.
+
+...
+
+[Data](articles/971c24d2.json)
+
+---
+
 ### ගාසා නගරය අත්පත් කර ගැනීමේ තීරණයට විරෝධය පා ඊශ්‍රායලයේ විරෝධතා
 
 *2025-08-10 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213216) · `si`
@@ -152,6 +300,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இலங்கைக்கான அமெரிக்க வரிச் சலுகை : மறைந்திருக்கும் புவிசார் அரசியல் நெருக்கடிகள்
+
+*2025-08-10 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222193) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் நிர்வாகம், கடந்த வாரம் இலங்கை மீது விதிக்கவிருந்த கடுமையான வரியை 20வீதமாக  குறைத்த முடிவு, அரசாங்கத்தால் ஒரு மாபெரும் வெற்றியாகக் கொண்டாடப்பட்டது. இது முதல் பார்வையில் ஒரு குறிப்பிடத்தக்க இராஜதந்திர வெற்றியாகத் தோன்றினாலும், இந்த ஒப்பந்தத்தின் பின்னணியில் உள்ள நிபந்தனைகளும்,  மாறிவரும் உலகளாவிய அரசியல் சூழலும், இலங்கைக்கு ஒரு சிக்கலான மற்றும் அபாயகரமான பாதையை வகுத்துள்ளன. இந்த வரி குறைப்பு, இரண்டு முக்கிய நிபந்தனைகளின் அடிப்படையில் வழங்கப்பட்டுள்ளதாக கூறப்படுகிறது.  அடுத்த இரண்டு முதல் மூன்று மாதங்களுக்குள் இந்த நிபந்தனைகளை இலங்கை நிறைவேற்றத் தவறினால், தற்போதைய சாதகமான சூழல் தலைகீழாக மாறி மிக மோசமான பொருளாதார விளைவுகளை சந்திக்க நேரிடும் என பொருளாதார ஆய்வாளர்கள் எச்சரிக்கின்றனர்.
+
+...
+
+[Data](articles/a20bd1af.json)
+
+---
+
 ### Ex-President Ranil to make a special statement today
 
 *2025-08-10 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111323/ex-president-ranil-to-make-a-special-statement-today) · `en`
@@ -165,6 +325,22 @@ As a pioneer in establishing the National Youth Services Council, former Preside
 ◼️
 
 [Data](articles/995840b5.json)
+
+---
+
+### காசா குறித்து இஸ்ரேலின் முடிவுக்கு இலங்கை எதிர்ப்பு
+
+*2025-08-10 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/222191) · `ta`
+
+காசா பகுதியை முழுமையாகக் கைப்பற்றுவதற்கான இஸ்ரேலின் முடிவை இலங்கை மிகவும் கவலையுடன் பார்ப்பதாகவும்,  இந்த நடவடிக்கை காசாவில் வன்முறை மற்றும் மக்களின் துன்பத்தை மேலும் அதிகரிக்கும் என்றும் இலங்கை தெரிவித்துள்ளது.
+
+இந்த நிலைமைக்கு இலங்கை உடனடியாக போர் நிறுத்தத்தைக் கோருகிறது. அமைதியான, நீடித்த தீர்வைக் காண்பதற்காக அனைத்து தரப்பினரும் இராஜதந்திர பேச்சுவார்த்தைகள் மூலம் தங்கள் கருத்து வேறுபாடுகளைத் தீர்க்க வேண்டும் என இலங்கை வலியுறுத்தியுள்ளது. இதுவே காசா பிராந்தியத்தில் அமைதியை நிலைநாட்டுவதற்கான ஒரே வழி என அரசாங்கம்  சுட்டிக்காட்டியுள்ளது.
+
+இலங்கை வெளியுறவு அமைச்சு  இதுதொடர்பாக அறிக்கை ஒன்றை வெளியிட்டுள்ளது. இதில், காசாவில் அமைதி நிலவ இலங்கை எதிர்பார்ப்பதாகவும், போரினால் பாதிக்கப்பட்டுள்ள மக்களுக்கு மனிதாபிமான உதவிகள் உடனடியாகச் சென்றடைவதை உறுதிப்படுத்த வேண்டும் எனவும் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/db28e2ac.json)
 
 ---
 
@@ -259,6 +435,26 @@ Naidu said India is moving fast and gaining worldwide recognition, with some cou
 ◼️
 
 [Data](articles/74932d0b.json)
+
+---
+
+### “No staff member would exert undue influence in actions taken by Police”: Public Security Ministry
+
+*2025-08-10 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111319/no-staff-member-would-exert-undue-influence-in-actions-taken-by-police-public-security-ministry) · `en`
+
+An individual who falsely claimed to be the secretary of Minister of Public Security Ananda Wijepala has been arrested by police for making calls to the Maharagama Police.
+
+According to police, the suspect had contacted the Maharagama Police in an attempt to secure the release of an individual who had been arrested for the possession of heroin.
+
+Police stated that legal action has already been taken against the arrested suspect, and a special investigation is currently underway regarding the incident.
+
+Issuing a statement on the matter, the Ministry of Public Security clarified that neither the Minister nor any member of his staff would ever exert undue influence or intervene improperly in any arrests or actions taken by Sri Lanka Police.
+
+Furthermore, the statement emphasized that the Ministry of Public Security is actively engaged in efforts to combat drugs and organized crime, and to uphold law and order throughout the country.
+
+...
+
+[Data](articles/2294be3e.json)
 
 ---
 
@@ -1583,235 +1779,5 @@ Sri Lanka (then Ceylon) and Israel both gained independence from the British in 
 ...
 
 [Data](articles/c0fada58.json)
-
----
-
-### Legacy in Silence: Enduring Influence of Ainslie Joseph (1949-2025)
-
-*2025-08-09 13:59:00* · [`islandlk`](http://island.lk/legacy-in-silence-enduring-influence-of-ainslie-joseph-1949-2025/) · `en`
-
-A little over a month ago, I received a phone call in the early hours of the morning from Ralston Joseph. His voice, though calm, carried the weight of sorrow. He told me his father had passed away. In that moment, a profound sadness settled over me—because Ainslie Joseph was not just someone I admired, he was a mentor, friend and confidante.
-
-“Uncle Ainslie,” as I fondly called him, was a man carved from gentleness and purpose. He was a man for others—selfless, wise, and unwavering in his quiet pursuit of goodness. He was not born into privilege, and yet when he found himself with the opportunity to pursue personal gain, he turned away from it. His wealth was never material. His mission in life was to build something far greater: social and cultural capital, a legacy of service, wisdom, and human connection.
-
-...
-
-[Data](articles/cf972441.json)
-
----
-
-### பேருந்தில் மனைவியின் கழுத்தை வெட்டிய கணவன்
-
-*2025-08-09 13:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்தில்-மனைவியின்-கழுத்தை-வெட்டிய-கணவன்/76-362589) · `ta`
-
-பேருந்து நிலையத்தில் நிறுத்தப்பட்டிருந்த பயணிகள் பேருந்தில், கணவர் ஒருவர் தனது மனைவியின் கழுத்தை கூர்மையான ஆயுதத்தால் வெட்டியதில், அவர் படுகாயமடைந்தார்.
-
-இந்த சம்பவம்,  பண்டாரவளை பிரதான பேருந்து நிலையத்தில் சனிக்கிழமை (09) காலை இடம்பெற்றுள்ளது.
-
-காயமடைந்த மனைவி தியத்தலாவை ஆதார மருத்துவமனையிலும், பின்னர் மேலதிக சிகிச்சைக்காக பதுளை போதனா மருத்துவமனையிலும் அனுமதிக்கப்பட்டதாக பண்டாரவளை தலைமையக பொலிஸார் தெரிவித்தனர்.
-
-இரண்டு குழந்தைகளின் தாயான மனைவிக்கு 32 வயது, அவர்கள் பண்டாரவளையில் உள்ள லியங்கஹவெல பலகல பகுதியைச் சேர்ந்தவர்கள் என்று பொலிஸார் தெரிவித்தனர்.
-
-குடும்ப தகராறு காரணமாக இந்த சம்பவம் நடந்துள்ளது, மேலும் கணவர் பேருந்தின் பின் இருக்கையில் இருந்து தனது மனைவியின் கழுத்தில் கத்தியால் குத்தியுள்ளார்.
-
-கணவர் வேலைக்காக வெளிநாடு சென்றுவிட்டு சமீபத்தில் நாடு திரும்பியதாக பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
-
-◼️
-
-[Data](articles/01e03240.json)
-
----
-
-### நுவரெலியாவில் அலைமோதும் சுற்றுலா பயணிகள் கூட்டம்
-
-*2025-08-09 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222159) · `ta`
-
-நாடு முழுவதிலுமிருந்து உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை காரணமாக, இயற்கை எழில் சூழ்ந்த நுவரெலியா நகரம் தற்போது பெரும் பரபரப்புடன் காணப்படுகிறது. விடுமுறைகள் மற்றும் பாடசாலை விடுமுறை காரணமாக இந்த வருகை அதிகரித்துள்ளது.
-
-வார இறுதி மற்றும் பாடசாலை விடுமுறைகளையொட்டி, நுவரெலியாவில் உள்ள பல பிரபலமான சுற்றுலாத் தலங்களை நோக்கிப் படையெடுக்கும் பயணிகளின் எண்ணிக்கை நாளுக்கு நாள் அதிகரித்து வருகிறது. இதன் காரணமாக, நகரில் உள்ள உணவகங்கள் மற்றும் தங்கும் விடுதிகள் அனைத்தும் முழுமையாக நிரம்பியுள்ளன.
-
-நுவரெலியாவுக்கு வரும் சுற்றுலாப் பயணிகளில் பெரும்பாலானோர், கிரிகரி ஏரிக்கரையில் நடைபெறும் களியாட்ட நிகழ்வுகள், சைக்கிள் சவாரி, படகு சவாரி மற்றும் குதிரைச் சவாரி போன்ற பொழுதுபோக்குகளில் ஆர்வம் காட்டுகின்றனர். குறிப்பாக, படகு சவாரியில் அதிக நாட்டம் செலுத்துகின்றனர். ஏரிக்கரையின் அழகிய காட்சிகளை ரசிப்பதற்கான சந்தர்ப்பமும் அவர்களுக்கு வழங்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3cef562c.json)
-
----
-
-### K H J Wijayadasa: A rare and exemplary public servant
-
-*2025-08-09 13:11:00* · [`islandlk`](http://island.lk/k-h-j-wijayadasa-a-rare-and-exemplary-public-servant/) · `en`
-
-When Charmalee asked me if I could write an appreciation of her father, K H J Wijayadasa, to mark his second death anniversary, I readily agreed, not because I am much of a writer but due to my very  enjoyable and enriching association with him for well over 40 years.
-
-An outstanding product of the then prestigious Ceylon Civil Service, Wijayadasa  was small in size and huge in stature. Although not a flamboyant character in the Civil Service like Shirley Amarasinghe or Sarath Amunugama for that matter, he was an outstanding public servant throughout his career. His razor-sharp mind was remarkable. His wit and sense of humor were irrepressible.
-
-Wijayadasa was indeed an example of super-efficient leadership in public service. He was always prepared and always organized even after taking on far more than others and making it all work efficiently.
-
-...
-
-[Data](articles/275421f3.json)
-
----
-
-### மட்டக்களப்பில் போயா தினத்தில் சட்டவிரோத மதுபான விற்பனை: பெண் கைது
-
-*2025-08-09 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222150) · `ta`
-
-போயா தினத்தில் சட்டவிரோதமாக மதுபானம் விற்பனை செய்த குற்றச்சாட்டில், மட்டக்களப்பு தலைமையகப் பொலிஸ் பிரிவிலுள்ள புன்னைச்சோலை பிரதேசத்தைச் சேர்ந்த பெண் ஒருவர் வெள்ளிக்கிழமை (08) கைது செய்யப்பட்டார்.
-
-புன்னைச்சோலை பகுதியில் சட்டவிரோதமாக மதுபானம் விற்பனை செய்யப்படுவதாக பொலிஸாருக்கு இரகசிய தகவல் கிடைத்துள்ளது.
-
-இதனை அடுத்து, பெரும் குற்றத்தடுப்புப் பிரிவின் பொறுப்பதிகாரி, பொலிஸ் பரிசோதகர் கே.ஜி.எஸ். சஞ்ஜீவ தலைமையிலான பொலிஸ் குழுவினர், குறித்த வீட்டில் திடீர் சுற்றிவளைப்பை மேற்கொண்டனர்.
-
-இதன்போது, அந்த வீட்டில் சட்டவிரோதமாக மதுபானம் விற்பனை செய்து கொண்டிருந்த பெண் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-அவரிடமிருந்து 60 கால் போத்தல்கள் கொண்ட மதுபானங்களும், விற்பனையின் மூலம் பெறப்பட்ட ரூபா 4,490 பணமும் கைப்பற்றப்பட்டன.
-
-கைது செய்யப்பட்ட குறித்த பெண், மட்டக்களப்பு நீதிவான் நீதிமன்றில் ஆஜர்படுத்த நடவக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/bdb8043d.json)
-
----
-
-### Long queues at Kaudulla National Park due to ticketing delays
-
-*2025-08-09 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111303/long-queues-at-kaudulla-national-park-due-to-ticketing-delays) · `en`
-
-Large crowds have been visiting Kaudulla National Park in recent days, which has drawn the attention of both local and foreign tourists.
-
-However, long queues have formed due to the absence of an efficient ticketing system.
-
-Local and foreign visitors have urged the authorities to provide a prompt solution, enabling tourists to enter the park without unnecessary delays.
-
-The influx of visitors, particularly during the August holiday season and the arrival of many foreign tourists, has resulted in congestion at the park.
-
-Tourists and tour guides allege that they have had to wait in queues for hours to purchase tickets, causing them to miss the best opportunities to view wildlife.
-
-The situation has been worsened by the limited number of staff available to issue tickets.
-
-Observers point out that such issues are regrettable in an era of advanced technology, where online ticketing systems could easily be implemented.
-
-...
-
-[Data](articles/66fe8b85.json)
-
----
-
-### வரலாற்று சிறப்புமிக்க தலதா பெரஹெராவை பார்வையிட்டார் ஜனாதிபதி
-
-*2025-08-09 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222154) · `ta`
-
-கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையின் வருடாந்த எசல பெரஹெராவின் இறுதி ரந்தோலி பெரஹெரா வெள்ளிக்கிழமை (08) இரவு பல்லாயிரக்கணக்கான பக்தர்களின் முன்னிலையில் கோலாகலமாக வீதி உலா வந்தது.
-
-இந்த வரலாற்று முக்கியத்துவம் வாய்ந்த நிகழ்வை பார்வையிட ஜனாதிபதி அநுர குமார திசாநாயக்க கலந்துகொண்டார்.
-
-ஜனாதிபதியுடன் இணைந்து புத்தசாசன, மத மற்றும் மற்றும் கலாசார விவகார அமைச்சர் கலாநிதி ஹினிதும சுனில் செனவி, விவசாயம், கால்நடை, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால்காந்த, மத்திய மாகாண ஆளுநர் பேராசிரியர் சரத் அபேகோன் மற்றும் வெளிநாட்டு தூதுவர்கள் குழுவினரும் இந்த நிகழ்வில் கலந்துகொண்டனர்.
-
-◼️
-
-[Data](articles/a7923d2d.json)
-
----
-
-### කවුඩුල්ල ජාතික වනෝද්‍යානයේ ප්‍රවේශපත් කවුළුවේ දිගු පෝලිම්
-
-*2025-08-09 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213193) · `si`
-
-දෙස් විදෙස් සංචාරකයින් විශාල පිරිසකගේ අවධානය දිනාගත් කවුඩුල්ල ජාතික වනෝද්‍යානය නැරඹීමට විශාල පිරිසක් පැමිණියද, එහි ප්‍රවේශපත් නිකුත් කිරීමට නිසි ක්‍රමවේදයක් නොමැතිවීමෙන් එහි දිගු පෝළිම් නිර්මාණය වී තිබේ.
-
-මේ සඳහා කඩිනම් විසඳුමක් ලබාදී අපහසුවකින් තොරව වනෝද්‍යානය නැරඹීමට අවස්ථාව සලසා දෙන ලෙස දෙස් විදෙස් සංචාරකයින් බලධාරින්ගෙන් ඉල්ලා සිටී.
-
-විදෙස් සංචාරකයින් වැඩි වශයෙන් පැමිණීමත්, අගෝස්තු නිවාඩු සමයත් නිසා මෙලෙස මේ දිනවල කවුඩුල්ල වනෝද්‍යානය සංචාරකයින්ගෙන් පිරී ඇත.
-
-ඒ හේතුවෙන් ප්‍රවේශපතක් ලබාගෙන වනෝද්‍යානය නැරඹීමට සංචාරකයින්ට පැය ගණනාවක් දිගු පෝළිම්වල රැඳී සිටීමට සිදුව තිබේ.
-
-මෙම ප්‍රමාදය නිසා සතුන් නැරඹීමට ඇති හොඳම අවස්ථා අතපසුවන බව සංචාරකයින් මෙන්ම සංචාරක මඟ පෙන්වන්නන් චෝදනා කරයි.
-
-ප්‍රවේශපත් ලබාදීම සඳහා සීමිත නිලධාරින් පිරිසක් පමණක් සිටිම මෙම තත්ත්වය උද්ගතවීමට හේතු වී ඇත.
-
-තාක්ෂණය දියුණු, මාර්ගගත ක්‍රමය ඔස්සේ ප්‍රවේශපත් නිකුත් කිරීමේ හැකියාව පවතින කාලසීමාවක මෙවන් තත්ත්වයන් නිර්මාණය වීම සැබැවින්ම කනගාටුදායකය.
-
-...
-
-[Data](articles/936a9a83.json)
-
----
-
-### மன்னாரின் கனிய மணலகழ்வு...எங்கள் மக்களைச் சூழவுள்ள பேராபத்து.-நாகமுத்து பிரதீபராஜா
-
-*2025-08-09 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/222153) · `ta`
-
-மன்னார் மாவட்டம் அண்மைய நாட்களில் பேசு பொருளாக மாறி இருக்கின்றது.  மன்னாரில்  மேற்கொள்ள இருக்கின்ற பல்வேறு செயற்பாடுகள் மன்னார் மக்கள் மத்தியில் கொதிநிலையை ஏற்படுத்தியிருக்கின்றது.
-
-ஏற்கனவே சில பகுதிகளில் அமைக்கப்பட்டு மீளவும் சில இடங்களில் அமைக்கப்பட இருக்கின்ற காற்றாலை மின்சார திட்டமும் எதிர்காலத்தில் மேற்கொள்ள திட்டமிடப்பட்டு இருக்கின்ற கனியமணல் அகழ்வுச் செயற்பாடும் மன்னார் மாவட்ட மக்களிடையே மிகப்பெரிய பீதியை  ஏற்படுத்தியிருக்கின்றது.
-
-இலங்கையினுடைய ஏனைய பிரதேசங்களோடு ஒப்பிடுகின்ற பொழுது மன்னார் தீவு தனித்துவமான புவியியல் அமைப்பை கொண்டிருக்கின்ற பிரதேசமாகும்.
-
-இதிகாச அடிப்படையில் இராமாயணத்தில் கூறப்படுகின்ற ராமர் பாலத்தினுடைய தொடர்ச்சியாக மன்னார் தீவு காணப்படுகின்ற அதே வேளை இராமர் பாலத்தில் ஊடாக இலங்கைக்கு வந்த இராம சேனை மன்னார் தீவினூடாகவே முதன் முதலில் இலங்கைக்கு வந்தது இந்துக்களிடையே உள்ள மிகப்பெரிய நம்பிக்கையாகும்.  புவியியல் அடிப்படையில் மிகவும் தனித்துவமான அமைவிடத்தினை மன்னார் தீவு கொண்டிருக்கின்றது.  இந்தியாவிற்கு மிக அண்மித்து இலங்கையில் உள்ள பகுதியாக மன்னார் காணப்படுகின்றது.
-
-...
-
-[Data](articles/43ea712a.json)
-
----
-
-### புலமைப்பரிசில் பரீட்சை தொடர்பில் விசேட அறிவிப்பு
-
-*2025-08-09 12:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-விசேட-அறிவிப்பு/175-362588) · `ta`
-
-2025 ஆம் ஆண்டுக்கான ஐந்தாம் தர புலமைப்பரிசில் பரீட்சை நாளை (10) நாடளாவிய ரீதியில் நடைபெறவுள்ளது.
-
-இது குறித்து பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி இன்று (09) காலை விஷேட ஊடகவியலாளர் சந்திப்பொன்றை ஏற்பாடு செய்திருந்தார்.
-
-பரீட்சை நாளை காலை 9.30 மணிக்கு ஆரம்பமாகவுள்ளது. எனினும், அனைத்து மாணவர்களும் காலை 8.30 மணிக்குள் அந்தந்த பரீட்சை நிலையங்களுக்கு சமூகமளிக்க வேண்டும். மாணவர்கள் காலை 9 மணிக்குள் பரீட்சை மண்டபத்தில் அமர வேண்டும்.
-
-இரண்டாம் பகுதி வினாத்தாள் முதலில் மாணவர்களுக்கு வழங்கப்படும். இரண்டாம் பகுதி வினாத்தாள் காலை 9.30 மணிக்கு ஆரம்பமாகி 10.45 மணிக்கு நிறைவடையும்.
-
-முதலாம் பகுதி வினாத்தாள் காலை 11.15 மணிக்கு வழங்கப்படும். இந்த வினாத்தாள் ஒரு மணி நேரம் கொண்டதாகும். குறித்த வினாத்தாள் மதியம் 12.15 மணிக்கு நிறைவடையும்.
-
-பரீட்சை இடம்பெறும் சந்தர்ப்பங்களின் போது ஏதேனும் அவசரநிலைகள் ஏற்பட்டால், 117 என்ற துரித இலக்கத்திற்கு அழைத்து முறைப்பாடு அளிக்கலாம். இதற்காக விசேட திட்டம் செயற்படுத்தப்பட்டுள்ளது என்று பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி தெரிவித்தார். R
-
-◼️
-
-[Data](articles/ba0fe063.json)
-
----
-
-### மர்மக் காய்ச்சலால் மயக்க நிலைக்குச் சென்ற மாணவி மரணம்
-
-*2025-08-09 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்மக்-காய்ச்சலால்-மயக்க-நிலைக்குச்-சென்ற-மாணவி-மரணம்/71-362587) · `ta`
-
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் மர்மக் காய்ச்சல் காரணமாக சிகிச்சை பெற்று வந்த மாணவி ஒருவர் உயிரிழந்துள்ளார்.
-
-அச்சுவேலி சரஸ்வதி மகா வித்தியாலயத்தில் தரம் 11 இல் கல்வி பயிலும் சந்திரானந்தன் வர்ணயா என்ற மாணவியே உயிரிழந்துள்ளார்.
-
-குறித்த மாணவிக்கு காய்ச்சல் ஏற்பட்ட நிலையில் கடந்த மாதம் 5ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக குடும்பத்தினர் அனுமதித்துள்ளனர். வைத்தியசாலையில் அனுமதிக்கப்பட்ட சில தினங்களில் குறித்த மாணவி மயக்க நிலையை அடைந்துள்ளார்.
-
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். கிருமித் தொற்று காரணமாக மரணம் சம்பவித்துள்ளதாக பிரேத பரிசோதனைகளில் தெரியவந்துள்ளது. R
-
-◼️
-
-[Data](articles/18ec5e95.json)
-
----
-
-### மர்மக் காய்ச்சலால் மயங்கிய மாணவி மரணம்
-
-*2025-08-09 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்மக்-காய்ச்சலால்-மயங்கிய-மாணவி-மரணம்/71-362587) · `ta`
-
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் மர்மக் காய்ச்சல் காரணமாக சிகிச்சை பெற்று வந்த மாணவி ஒருவர் உயிரிழந்துள்ளார்.
-
-அச்சுவேலி சரஸ்வதி மகா வித்தியாலயத்தில் தரம் 11 இல் கல்வி பயிலும் சந்திரானந்தன் வர்ணயா என்ற மாணவியே உயிரிழந்துள்ளார்.
-
-குறித்த மாணவிக்கு காய்ச்சல் ஏற்பட்ட நிலையில் கடந்த மாதம் 5ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக குடும்பத்தினர் அனுமதித்துள்ளனர். வைத்தியசாலையில் அனுமதிக்கப்பட்ட சில தினங்களில் குறித்த மாணவி மயக்க நிலையை அடைந்துள்ளார்.
-
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். கிருமித் தொற்று காரணமாக மரணம் சம்பவித்துள்ளதாக பிரேத பரிசோதனைகளில் தெரியவந்துள்ளது. R
-
-◼️
-
-[Data](articles/c577bfe3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 17:05:15**
+As of **2025-08-10 17:17:07**
 
 ## Newspaper Stats
 
-*Scraped **69,711** Articles*
+*Scraped **69,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,709
+adalk | 6,710
 adaderanalk | 8,678
-tamilmirrorlk | 10,197
+tamilmirrorlk | 10,198
 virakesarilk | 11,620
 adaderanasinhalalk | 12,022
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,022
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,711 articles have been extended.
+61,973 (88.9%) of 69,713 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/138c25d7.json)
+
+---
+
+### இளைஞர் கழங்கள்;ஜே.வி.பியின் பணயக்கைதி
+
+*2025-08-10 16:36:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்-கழங்கள்-ஜே-வி-பியின்-பணயக்கைதி/175-362646) · `ta`
+
+நீண்ட காலமாக, நமது நாட்டின் இளைஞர் யுவதிகளுக்கு இனம், மதம், சாதி, வர்க்கம் மற்றும் கட்சி ஆகியவற்றைப் பொருட்படுத்தாமல் உரிய பிரதிநிதித்துவத்தைப் பெற்றுத் தந்த இளைஞர் கழங்கள் இப்போது முழுமையாக அரசியல்மயமாக்கப்பட்டு, தற்போதைய அரசாங்கத்தின் பகடைக்காயாக மாற்றப்பட்டு, ஜே.வி.பி.யின் அரசியல் பிடியின் கீழ் கொண்டு வரப்பட்டுள்ளது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+Citizen Voice வேலைத்திட்டத்தின் கீழ் ஞாயிற்றுக்கிழமை (10) அன்று இளைஞர் சம்மேளன உறுப்பினர்களுடன் நடைபெற்ற சந்திப்பின் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+இளைஞர் கழகங்கள் சோசலிச இளைஞர் சங்கம் என்ற அரசியல் அமைப்பின் பணயக்கைதிகளாக மாறிவிட்டது. பிரதேச மட்டம், மாவட்ட மட்டம் மற்றும் தேசிய மட்டம் என்ற அடிப்படையில் செயல்பட்ட இளைஞர் சம்மேளனங்கள், இன்று இளைஞர் யுவதிகளின் ஆற்றல் திறமைக்கு இடம்கொடுக்காமல் ஜேவிபியின் ஆதிக்கத்திற்குட்பட்டுள்ளன. நியமிக்கப்படவுள்ள தேசிய இளைஞர் சம்மேளன தெரிவில் ஆளும் தரப்பினரின் அரசியல் ஆதரவாளர்கள் நியமிக்கப்படவுள்ளனர் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/a348f426.json)
 
 ---
 
@@ -189,6 +205,20 @@ Initial information indicates that a bus collided head-on with a truck transport
 ◼️
 
 [Data](articles/37b674b9.json)
+
+---
+
+### සංචාරක පැමිණීම ලක්ෂ 14 ඉක්මවයි
+
+*2025-08-10 15:35:28* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-14-ඉක්මවයි/11-417819) · `si`
+
+මේ වසරේ ජනවාරි මස පළමුවැනිදා සිට අගෝස්තු මස 05 දා තෙක් ශ්‍රී ලංකාවට පැමිණ ඇති සංචාරකයන්ගේ ප්‍රමාණය 1 408 335 ක් බව සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+එසේම අගෝස්තු මාසයේ පළමු දින පහ තුළ පමණක් ශ්‍රී  ලංකාවට පැමිණ ඇති සංචාරකයන්ගේ ප්‍රමාණය 40 047කි.
+
+◼️
+
+[Data](articles/b310f46c.json)
 
 ---
 
@@ -1679,37 +1709,5 @@ Furthermore, the statement emphasized that the Ministry of Public Security is ac
 ◼️
 
 [Data](articles/9cab1fbd.json)
-
----
-
-### Thousands rally in Tel Aviv against Israeli government’s plan to expand Gaza war
-
-*2025-08-10 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111318/thousands-rally-in-tel-aviv-against-israeli-governments-plan-to-expand-gaza-war) · `en`
-
-Thousands took to the streets in Tel Aviv on Saturday to call for an end to the war in Gaza, a day after the Israeli government vowed to expand the conflict and capture Gaza City.
-
-Demonstrators waved signs and held up pictures of hostages still being held in the Palestinian territory as they called on the government to secure their release.
-
-AFP journalists at the rally estimated the number of attendees to be in the tens of thousands, while a group representing the families of hostages said as many as 100,000 people participated.
-
-Authorities did not provide an official estimate for the size of the crowd, though it dwarfed the ones at other recent anti-war rallies.
-
-“We will end with a direct message to Prime Minister Benjamin Netanyahu: if you invade parts of Gaza and the hostages are murdered, we will pursue you in the town squares, in election campaigns and at every time and place,” Shahar Mor Zahiro, the relative of a slain hostage, told AFP.
-
-...
-
-[Data](articles/345fc341.json)
-
----
-
-### ඌව පළාතට නව අපරාධ කොට්ඨාසයක්
-
-*2025-08-10 06:56:33* · [`adalk`](https://www.ada.lk/breaking_news/ඌව-පළාතට-නව-අපරාධ-කොට්ඨාසයක්/11-417809) · `si`
-
-ඌව පළාතේ අපරාධ මැඩලීම වෙනුවෙන් ස්ථාපිත කරන ලද ඌව පළාත් නව අපරාධ කොට්ඨාසය වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ විවෘත කරන ලදී.  පරණ පොලිසිය, මහියංගනය පාර, බදුල් දරණ ස්ථානයේ මෙම ඒකකය  පිහිටුවා තිබේ. ඌව පළාත් ජ්‍යෙෂ්ඨ නියෝජ්‍ය ‌පොලිස්පතිවරයාගේ සෘජු අධීක්ෂණය යටතේ මෙම ඒකකය ක්‍රියාත්මක වෙයි.
-
-◼️
-
-[Data](articles/4433f581.json)
 
 ---

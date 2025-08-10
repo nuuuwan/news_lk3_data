@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 18:30:50**
+As of **2025-08-10 18:56:07**
 
 ## Newspaper Stats
 
-*Scraped **69,722** Articles*
+*Scraped **69,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,712
 adaderanalk | 8,678
-tamilmirrorlk | 10,198
+tamilmirrorlk | 10,199
 virakesarilk | 11,622
-adaderanasinhalalk | 12,024
+adaderanasinhalalk | 12,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,722 articles have been extended.
+61,973 (88.9%) of 69,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ශ්‍රී ලංකා රග්බි යෞවනයන්ට අනුශූරතාව
+
+*2025-08-10 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213237) · `si`
+
+ඉන්දියාවේ පැවැති වයස අවුරුදු 20න් පහළ ආසියානු සත් සාමාජික රග්බි තරගාවලියේ අනුශූරතාවයෙන් සෑහීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවිය.
+
+ඒ අද (10) පස්වරුවේ පැවති කුසලාන ශූරතා අවසන් මහා තරගයෙන් හොංකොං කණ්ඩායම හමුවේ ලකුණු 33 - 0ක් ලෙස පරාජය වීම හේතුවෙන්.
+
+◼️
+
+[Data](articles/ba1ac0cc.json)
+
+---
+
+### O/L மற்றும் A/L-க்கான திகதிகள் அறிவிப்பு
+
+*2025-08-10 18:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மற்றும்-A-L-க்கான-திகதிகள்-அறிவிப்பு/175-362652) · `ta`
+
+2025 ஆம் ஆண்டுக்கான க.பொ.த உயர்தரப் பரீட்சை நவம்பர் 10 ஆம் தேதி தொடங்கும் என்று தேர்வுகள் ஆணையர் ஜெனரல் ஏ.கே.எஸ். இந்திகா குமாரி தெரிவித்தார்.
+
+தேர்வு நவம்பர் 10 ஆம் திகதி தொடங்கி டிசம்பர் 5 ஆம் திகதி முடிவடையும் என்றும் ஆணையர் ஜெனரல் தெரிவித்தார்.
+
+மேலும், 2025 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப் பரீட்சை பிப்ரவரி 17 ஆம் திகதி முதல் பிப்ரவரி 26, 2026 வரை நடைபெறும் என்று திருமதி இந்திகா குமாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/dfa11f17.json)
+
+---
 
 ### දරුවෙකු පිළිස්සී මියයාමේ සිද්ධියට මව හා පියා රිමාන්ඩ්
 
@@ -1661,45 +1691,5 @@ As a pioneer in establishing the National Youth Services Council, former Preside
 ◼️
 
 [Data](articles/db28e2ac.json)
-
----
-
-### Tourist arrivals to Sri Lanka surpass 1.4 million in 2025
-
-*2025-08-10 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111322/tourist-arrivals-to-sri-lanka-surpass-14-million-in-2025) · `en`
-
-A total of 1,408,335 tourists have arrived in Sri Lanka so far this year, marking a significant increase compared to the same period in 2024, the Sri Lanka Tourism Development Authority (SLTDA) stated.
-
-According to latest SLTDA figures, the highest number of tourists have arrived from India which totals to 286,085.
-
-Moreover, a total of 135,722 individuals from the United Kingdom and 116,257 Russian nationals have also visited the country in 2025.
-
-Meanwhile, 40,047 foreign nationals visited Sri Lanka during the first five days of August.
-
-According to the SLTDA, a total of 6,963 tourists arrived from India in August which accounts to 17.4%.
-
-Furthermore, 4,345 persons from the United Kingdom, 3,090 from China, 3,049 from France and 2,739 Italian nationals have also visited Sri Lanka so far in the month of August.
-
-◼️
-
-[Data](articles/65e75a15.json)
-
----
-
-### 10-hour water cut in several areas of Gampaha tomorrow
-
-*2025-08-10 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111321/10-hour-water-cut-in-several-areas-of-gampaha-tomorrow) · `en`
-
-A 10-hour water cut will be imposed in several areas of the Gampaha District tomorrow (11), the National Water Supply & Drainage Board (NWSDB) announced.
-
-The water cut has been attributed to maintenance activities of the transmission pipeline running from Nittambuwa to Minuwangoda, which is part of the Gampaha–Attanagalla–Minuwangoda Integrated Water Supply Scheme.
-
-Accordingly, the water supply to Ranpokunagama, Bataliya, Attanagalla, Pasyala, and Nittambuwa will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. tomorrow, the NWSDB said.
-
-The statement issued by the NWSDB noted that the water supply will also be suspended to resident of Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla.
-
-◼️
-
-[Data](articles/aa85c49a.json)
 
 ---

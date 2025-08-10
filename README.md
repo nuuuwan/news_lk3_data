@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 21:06:34**
+As of **2025-08-10 21:18:38**
 
 ## Newspaper Stats
 
-*Scraped **69,735** Articles*
+*Scraped **69,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ dailyftlk | 4,890
 adalk | 6,716
 adaderanalk | 8,679
 tamilmirrorlk | 10,201
-virakesarilk | 11,625
-adaderanasinhalalk | 12,026
+virakesarilk | 11,627
+adaderanasinhalalk | 12,027
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,735 articles have been extended.
+61,973 (88.9%) of 69,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### மட்டக்களப்பு கருவப்பங்கேணியில் ரூ.20 இலட்சம் பெறுமதியான போதைப்பொருளுடன் 3 பேர் கைது
+
+*2025-08-10 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222273) · `ta`
+
+மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவிலுள்ள கருவப்பங்கேணி பிரதேசத்தில் போதை பொருள் வியாபாரத்தில் ஈடுபட்ட நிந்தவூரைச் சேர்ந்த பெண் ஒருவர் உட்பட  3 பேரை 20 இலச்சம் ரூபா பெறுமதியான ஒரு கிலோ கேரளா கஞ்சா, 50 கிராம் ஜஸ் போதை பொருள் 25 கிராம் ஹரோயின் போதை பொருட்களுடன் சனிக்கிழமை (9) இரவு கருவப்பங்கேணியில் வைத்து கைது செய்துள்ளதாக பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி.எம். பிரியந்த பண்டார தெரிவித்தார்.
+
+பொலிசாருக்கு கிடைத்த இரகசிய தகவல் ஒன்றினையடுத்து சிரேஸ்ட பொலிஸ் அத்தியட்சகர் லலித் லீலாரத்தினவின் ஆலோசனைக்கமைய பொலிஸ் நிலைய பொறுப்பதிகாரி பரியந்த பண்டாரவின் வழிகாட்டலில் பொலிஸ் பரிசோதகர் எஸ்.சந்திமா தலைமையில் பொலிஸ் கொஸ்தாப்பர்களான ஜெயசிங்க 20637, இகலகம15468, ஜெயரத்தின 53900, கொடிக்கார 40202, டிகாஷான் 90102, தேவராசா 90890; ஆகியேர் கொண்ட  குழுவினர் சம்பவதினமான நேற்று இரவு கருவப்பங்கேணி அம்புறோஸ் வீதியில் மாறுவேடத்தில் கண்காணிப்பில் ஈடுபட்டு வந்தனர்.
+
+...
+
+[Data](articles/f3c85945.json)
+
+---
+
+### இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தின் தலைவராக அமைச்சர் அனுர கருணாதிலக்க தெரிவு
+
+*2025-08-10 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222272) · `ta`
+
+பத்தாவது பாராளுமன்றத்தின் இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தின் தலைவராக  நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் வீடமைப்பு அமைச்சர் அனுர கருணாதிலக்க தெரிவு செய்யப்பட்டார்.
+
+இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தை மீள ஸ்தாபிப்பதற்கான கூட்டம் சபாநாயகர் ஜகத் விக்கிரமரத்ன  தலைமையில் அண்மையில் பாராளுமன்றத்தில் இடம்பெற்ற போதே இந்தத் தெரிவு இடம்பெற்றது.
+
+இதன்போது பாகிஸ்தானின் இலங்கைக்கான உயர்ஸ்தானிகர் ஓய்வு பெற்ற மேஜர் ஜெனரல் பாஹீமுல் அஸீஸ் விருந்தினராகக் கலந்துகொண்டார். அத்துடன்,  பிரதி சபாநாயகர் ரிஸ்வி சாலி மற்றும் அமைச்சர்கள், பிரதியமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் மற்றும் பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரேஹாணதீர உள்ளிட்டோரும் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/ec96b943.json)
+
+---
+
+### වනඅලි රැකගන්න දුම්රිය දෙපාර්තමේන්තුවේ නව තාක්ෂණය
+
+*2025-08-10 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213239) · `si`
+
+වනඅලි දුම්රියේ ගැටීම් බහුලව සිදුවීම හේතුවෙන් එම අනතුරු වළක්වාගැනීමට දුම්රිය දෙපාර්තමේන්තුව විසින් ප්‍රධාන දුම්රිය මාර්ගවල වනඅලි නිතරම ගැවසෙන ස්ථාන ආශ්‍රිතව සවිකළ CCTV කැමරා පද්ධතියේ සොයා බැලීමක් අද (10) සිදුකළේය.
+
+මෙම කැමරා පද්ධතිය අබන්පොළ කාසිකොටේ වනඅලි මාරුවන දුම්රිය උමං මාර්ගය අසල මෙන්ම ගල්ඔය සහ මින්නේරිය ප්‍රදේශයන්හි වනඅලි නිතරම ගැවසෙන ස්ථාන ආශ්‍රිතව මීට මාස 2කට පමණ ඉහතදී ස්ථාපිත කරනු ලැබීය.
+
+පැය 24 පුරා ක්‍රියාත්මක මෙම කැමරා පද්ධතියට 'සෝලාපැනල්' මාර්ගයෙන් විදුලිය ලැබේ.
+
+කැමරාවේ පටිගතවන දර්ශන අනුව වනඅලි දුම්රිය මාර්ගයේ සිටී GPS හරහා සංඥාවක් අනුරාධපුරය ප්‍රධාන දුම්රිය මෙහෙයුම් මධ්‍යස්ථානයට ලැබෙන තාක්ෂණයක් ස්ථාපිත කිරීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු යොදා තිබේ.
+
+එහි දර්ශන අනුව එම අවස්ථාවේ දුම්රිය මාර්ගයේ ගමන්ගන්නා දුම්රියන්හි රියදුරන් දැනුම්වත් කරනු ලබයි.
+
+මෙම නිරික්ෂණ චාරිකාවට දුම්රිය සාමාන්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා ඇතුළු එම දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන් පිරිසක් එක් වූහ.
+
+එහිදී ඔහු සඳහන්කර සිටියේ, මෙවැනි එක් කැමරාවක් සවිකිරීමට දුම්රිය දෙපාර්තමේන්තුවට රුපියල් 20,000ක පමණ මුදලක් වැය වන බවයි.
+
+...
+
+[Data](articles/f49e4a6b.json)
+
+---
 
 ### வினாக்களுக்கு விடையளித்த முறைமை குறித்து பிள்ளைகளிடம் வினவுவதை தவிர்த்துக் கொள்ளுங்கள் - பரீட்சைகள் ஆணையாளர் நாயகம் பெற்றோரிடம் வலியுறுத்தல்
 
@@ -1639,63 +1693,5 @@ As of now, four fishing boats have reportedly been destroyed by the fire.
 ◼️
 
 [Data](articles/d1601110.json)
-
----
-
-### Seven Indian fishermen arrested for poaching in seas off Mannar
-
-*2025-08-10 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111326/seven-indian-fishermen-arrested-for-poaching-in-seas-off-mannar) · `en`
-
-A total of seven Indian fishermen have been arrested for poaching in Sri Lankan waters off Mannar, the Sri Lanka Navy stated.
-
-A boat has also been taken into custody during the operation carried out by the North Central Naval Command.
-
-The seized boat and the Indian fishermen have been brought to the Talaimannar Pier and handed over to the Fisheries Inspector of Mannar to take legal proceedings.
-
-Considering the harmful impacts of illegal fishing practices on the livelihood of local fishermen, the Navy said it continues to conduct regular patrols and operations to curb illegal practices of foreign fishing boats trespassing into Sri Lankan waters.
-
-◼️
-
-[Data](articles/61220433.json)
-
----
-
-### Seven Indian fishermen arrested for poaching in seas off Mannar
-
-*2025-08-10 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111326/seven-indian-fishermen-arrested-for-poaching-is-seas-off-mannar) · `en`
-
-A total of seven Indian fishermen have been arrested for poaching in Sri Lankan waters off Mannar, the Sri Lanka Navy stated.
-
-A boat has also been taken into custody during the operation carried out by the North Central Naval Command.
-
-The seized boat and the Indian fishermen have been brought to the Talaimannar Pier and handed over to the Fisheries Inspector of Mannar to take legal proceedings.
-
-Considering the harmful impacts of illegal fishing practices on the livelihood of local fishermen, the Navy said it continues to conduct regular patrols and operations to curb illegal practices of foreign fishing boats trespassing into Sri Lankan waters.
-
-◼️
-
-[Data](articles/b5e5093e.json)
-
----
-
-### 2025 මේ දක්වා කාලය තුළ සංචාරක පැමිණීම මිලියන 1.4 ඉක්මවයි
-
-*2025-08-10 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213217) · `si`
-
-2025 වසරේ මේ දක්වා සංචාරකයින් 1,408,335ක් ශ්‍රී ලංකාවට පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
-
-එම අධිකාරිය සඳහන් කර ඇත්තේ මෙම සංචාරක පැමිණීම 2024 වසරේ එම කාලයට සාපේක්ෂව සැලකිය යුතු වැඩිවීමක් වන බවය.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය මගින් නිකුත් කර ඇති නවතම සංඛ්‍යා ලේඛණවලට අනුව වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇත්තේ ඉන්දියාවෙන් වන අතර එහි අගය 286,085කි.
-
-එමෙන්ම මෙම වසරේදී එක්සත් රාජධානියෙන් පුද්ගලයින් 135,722 ක් සහ රුසියාවෙන් 116,257 ක්ද මෙරට පැමිණ තිබේ.
-
-සංචාරක සංවර්ධන අධිකාරියේ දත්ත අනුව අගොස්තු 01 වැනි දින සිට 05 වැනි දින දක්වා  සංචාරකයින් 40,047 දෙනෙකු මෙරටට පැමිණ තිබේ.
-
-එමෙන්ම එක්සත් ජනපදයෙන් 4,345ක් සහ චීනයෙන් 3,090ක් ද ප්‍රංශයෙන් 3,049 සහ ඉතාලියෙන් 2,739ක්ද පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/dc9cec4a.json)
 
 ---

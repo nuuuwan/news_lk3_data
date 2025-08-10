@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 20:48:01**
+As of **2025-08-10 21:06:34**
 
 ## Newspaper Stats
 
-*Scraped **69,734** Articles*
+*Scraped **69,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,715
+adalk | 6,716
 adaderanalk | 8,679
 tamilmirrorlk | 10,201
 virakesarilk | 11,625
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,734 articles have been extended.
+61,973 (88.9%) of 69,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -235,6 +235,26 @@ Sri Lanka’s Rumesh Tharanga has set a new national record during the first rou
 ◼️
 
 [Data](articles/1f43dc35.json)
+
+---
+
+### ශිෂ්‍යත්වයට පෙනී සිටි දරුවන් පීඩාවට පත් කරන්න එපා
+
+*2025-08-10 17:15:52* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයට-පෙනී-සිටි-දරුවන්-පීඩාවට-පත්-කරන්න-එපා/11-417827) · `si`
+
+ශිෂ්‍යත්ව විභාගය යනු එක් විභාගයක් පමණක් බවත් මේ  නිසා විභාගයට පෙනී සිටි  දරුවන් පීඩනයට පත් කිරීමෙන් වළකින ලෙස තමන් දෙමාපියන්ගෙන් කාරුණිකව ඉල්ලා සිටින බවත් විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
+
+පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය අද (10දා)  දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී පැවැත්විණ.විභාග අයදුම්කරුවන් 307,951ක් පෙනී සිටියහ.
+
+මෙවර විභාගයේදී විශේෂ අවශ්‍යතා සහිත දරුවන් 901 දෙනෙකුද පෙනී සිටි අතර ඉන් අපේක්ෂකයන් 12 දෙනෙක් බ්‍රේල් මාධ්‍යයෙන් විභාගයට පෙනී සිටියහ.
+
+අද (10දා) පැවැත්වූ මාධ්‍ය සාකච්ඡාවකදී විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කාරුණික ඉල්ලීමක්ද කළාය.
+
+ශිෂ්‍යත්ව විභාගයෙන් පසුව සිසු දරුවන් විසින් විභාග ප්‍රශ්න පත්‍රයට පිළිතුරු දුන් ආකාරය සම්බන්ධව ප්‍රශ්න කිරීමෙන් වළකින ලෙස විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කාරුණික ඉල්ලීමක්ද සිදු කළාය. දරු දැරියන්ගේ ළමා කාලය ගත කිරීමට අවස්ථාව ලබා දෙන ලෙසත් ශිෂ්‍යත්ව විභාගය පදනම් කරගනිමින් දරුවාගේ ළමා කාලය විනාශ නොකරන ලෙසත් ඇය පැවසුවාය.
+
+...
+
+[Data](articles/4612823a.json)
 
 ---
 
@@ -1677,25 +1697,5 @@ Considering the harmful impacts of illegal fishing practices on the livelihood o
 ◼️
 
 [Data](articles/dc9cec4a.json)
-
----
-
-### Sri Lanka beats IMF June fiscal targets with room to spare
-
-*2025-08-10 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-beats-imf-june-fiscal-targets-with-room-to-spare-235428/) · `en`
-
-ECONOMYNEXT – Sri Lanka has beat key fiscal targets set in an International Monetary Fund program for June with room to spare amid strong tax revenues, including from vehicles, official data show.
-
-The primary balance of Sri Lanka’s central government budget was a surplus of 859 billion rupee, sharply higher than the 130 billion rupee target set in the currently applicable IMF program.
-
-The primary balance is revenues minus expenditure before interest costs.
-
-Countries with good non-activist central banks which provide low inflation and low nominal interest rates as a consequence usually have deficits in the primary account of the budget.
-
-A surplus in the primary account indicates that interest costs are so large, that they are bigger than the overall deficit in the budget.
-
-...
-
-[Data](articles/2ed2969b.json)
 
 ---

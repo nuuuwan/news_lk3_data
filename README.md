@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 18:08:49**
+As of **2025-08-10 18:30:50**
 
 ## Newspaper Stats
 
-*Scraped **69,717** Articles*
+*Scraped **69,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,45 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 710
-economynextcom | 4,246
+economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,711
+adalk | 6,712
 adaderanalk | 8,678
 tamilmirrorlk | 10,198
 virakesarilk | 11,622
-adaderanasinhalalk | 12,023
+adaderanasinhalalk | 12,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,717 articles have been extended.
+61,973 (88.9%) of 69,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### දරුවෙකු පිළිස්සී මියයාමේ සිද්ධියට මව හා පියා රිමාන්ඩ්
+
+*2025-08-10 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213236) · `si`
+
+බලන්ගොඩ දෙහිගස්තලාව ප්‍රදේශයේ නිවසක ඇති වූ ගින්නකින් 8 හැවිරිදි දරුවෙකු පිළිස්සී මියයෑම සම්බන්ධයෙන්   අත්අඩංගුවට ගත් එම දරුවාගේ මව, පියා සහ මවගේ අනියම් පෙම්වතා එළැඹෙන 18වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇත.
+
+ඔවුන් අද (10) පෙරවරුවේ බලන්ගොඩ වැඩබලන මහෙස්ත්‍රාත් දේශබන්දු සුරියබටබැදි මහතා හමුවට ඉදිරිපත් කිරිමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+
+නොසැලකිලිමත් ලෙස කටයුතු කර දරුවාට ආරක්ෂාව සහ රැකවරණය ලබා නොදීමේ චෝදනාව මත මෙලෙස මව සහ පියා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+
+එමෙන්ම අනියම් සැමියාටද වරෙන්තු කිහිපයක් ඇති බැවින් ඔහු රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+මේ අතර මියගිය දරුවාගේ පශ්චාත් මරණ පරීක්ෂණය සිරුර බලන්ගොඩ මූලික රෝහලේ දී සිදුකිරිමෙන් අනතුරුව, අවසන් කටයුතු සිදුකිරීම සඳහා සිරැර පවුලේ ඥතින් වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/821ff14f.json)
+
+---
 
 ### වසරක් තුළ මාර්ග අනතුරු මරණ නැති හෙල්සින්කි නගරය
 
@@ -107,6 +127,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cc3edc50.json)
+
+---
+
+### යෞවන සමාජ දේශපාලනය නොකළ යුතුයි
+
+*2025-08-10 16:39:24* · [`adalk`](https://www.ada.lk/breaking_news/යෞවන-සමාජ-දේශපාලනය-නොකළ යුතුයි/11-417823) · `si`
+
+මෙරට තරුණ තරුණියන්ගේ ඉල්ලීමකට අනුව මීට වසර හතළිහකට පමණ පෙර  යෞවන  සමාජ ආරම්භ කළ බව හිටපු ජනාධිපති, යෞවන සමාජ ව්‍යාපාරයේ නිර්මාතෘ රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+
+යෞවන සමාජ ව්‍යාපාරයේ වර්තමානයේ උද්ගතව ඇති ප්‍රශ්න සහගත බව පිළිබඳව අද (10දා) මාධ්‍ය සාකච්ඡාවක් පවත්වමින් මේ බව සඳහන් කළ රනිල් වික්‍රමසිංහ මහතා මෙසේද සඳහන් කළේය.
+
+“ගමේ යෞවන යෞවනියන්ට එක් රැස්වන ස්ථානයක් විනෝදාංශයට, කලාවට, මෙන්ම වෙනත් වැඩ කටයුතු සඳහා  යෞවන සමාජ මාර්ගයෙන් තරුණ දක්ෂතා සහ හැකියා දියුණු කිරීම මා බලාපොරොත්තු වූ මූලික කාරණයයි.ඒ කාරණය බොහෝ සාර්ථක වී තිබෙනවා. මේ වන විට සමාජයේ නොයෙක් ක්ෂේත්‍ර සඳහා තරුණ තරුණියන් සහභාගි වෙනවා.
+
+මේ වසර හතළිහ ඇතුළත යෞවන සමාජ මේ රටේ ප්‍රධාන තරුණ ව්‍යාපාරය බවට පත්ව තිබෙනවා.යෞවන සමාජ වලින් ඉදිරිපත් වූ සමහර අය දේශපාලනයට පැමිණ තිබෙනවා.සමහර අය ව්‍යාපාරවල ඉන්නවා.මේ සියලු දෙනාම ඒ වැඩසටහන ඉදිරියට ගෙන යන්නත් සහාය දෙනවා.
+
+ළඟදී අමාත්‍යවරයා එම ව්‍යවස්ථාවට ඉදිරිපත් කළ සංශෝධන පිළිබඳව විශාල ප්‍රශ්නයක් මතු වී තිබෙනවා.හැම තැනකම උද්ඝෝෂණ පැවැත්වෙනවා.
+
+...
+
+[Data](articles/56fba93b.json)
 
 ---
 
@@ -393,6 +433,26 @@ If you or someone you know is in crisis and needs help, resources are available 
 ◼️
 
 [Data](articles/f705100e.json)
+
+---
+
+### Sri Lanka in talks on a voluntary restructure of some residual 2022 ISBs
+
+*2025-08-10 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-on-a-voluntary-restructure-of-some-residual-2022-isbs-235443/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in talks to restructure some defaulted 2022 bonds which did not participate in the original restructure in December 2024, a Treasury statement issued after an investor call said.
+
+A holdout investor, Hamilton Reserve Bank claimed to hold 25 percent stake and has gone to court seeking full payment of the 2022 bonds, which have a so-called single series collective action clause.
+
+“Certain holders of the 2022 Bonds who did not participate to the Exchange Offer have come forward to achieve a settlement in line with the Exchange Offer’s Most Favored Creditor Clause, and discussions are currently ongoing,” the statement said.
+
+“The Government plans to finalize and implement restructuring agreements with all parties in the coming months, in line with its commitments to the IMF debt sustainability targets and the Comparability of Treatment principles.”
+
+Exchange of the 2022 bond was voluntary and the court case is still ongoing.
+
+...
+
+[Data](articles/5478841d.json)
 
 ---
 
@@ -1426,6 +1486,26 @@ Considering the harmful impacts of illegal fishing practices on the livelihood o
 
 ---
 
+### Sri Lanka beats IMF June fiscal targets with room to spare
+
+*2025-08-10 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-beats-imf-june-fiscal-targets-with-room-to-spare-235428/) · `en`
+
+ECONOMYNEXT – Sri Lanka has beat key fiscal targets set in an International Monetary Fund program for June with room to spare amid strong tax revenues, including from vehicles, official data show.
+
+The primary balance of Sri Lanka’s central government budget was a surplus of 859 billion rupee, sharply higher than the 130 billion rupee target set in the currently applicable IMF program.
+
+The primary balance is revenues minus expenditure before interest costs.
+
+Countries with good non-activist central banks which provide low inflation and low nominal interest rates as a consequence usually have deficits in the primary account of the budget.
+
+A surplus in the primary account indicates that interest costs are so large, that they are bigger than the overall deficit in the budget.
+
+...
+
+[Data](articles/2ed2969b.json)
+
+---
+
 ### சில பகுதிகளில் நீர் விநியோகத்தடை
 
 *2025-08-10 10:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-நீர்-விநியோகத்தடை/175-362612) · `ta`
@@ -1621,79 +1701,5 @@ The statement issued by the NWSDB noted that the water supply will also be suspe
 ◼️
 
 [Data](articles/aa85c49a.json)
-
----
-
-### හිටපු ජනපති රනිල්ගෙන් අද විශේෂ ප්‍රකාශයක්
-
-*2025-08-10 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213215) · `si`
-
-හිටපු ජනාධිපති සහ එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා අද (10) විශේෂ ප්‍රකාශයක් සිදු කිරීමට නියමිතව තිබේ.
-
-වර්තමානයේ යෞවන සමාජ සම්බන්ධයෙන් පැන නැගී ඇති අර්බුධකාරී තත්ත්වයන් පිළිබඳව හිටපු ජනාධිපතිවරයා මෙහිදී අදහස් දැක්වීමට නියමිතය.
-
-ජාතික තරුණ සේවා සභාව පිහිටුවීමේ පුරෝගාමියා ලෙස රනිල් වික්‍රමසිංහ මහතා එහි මුල් කාලීන අරමුණු මෙන්ම තම පාලන සමයන්හි ජාතික තරුණ සේවා සභාව සහ යෞවන සමාජවල කටයුතු සිදුකරනු ලැබූ ආකාරය සම්බන්ධවද අදහස් දැක්වීමට නියමිතය.
-
-◼️
-
-[Data](articles/b114af4e.json)
-
----
-
-### “India won’t yield to threats, US not able to digest our growth”: Venkaiah Naidu
-
-*2025-08-10 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111320/india-wont-yield-to-threats-us-not-able-to-digest-our-growth-venkaiah-naidu) · `en`
-
-India will not compromise on its strategic and national interests and will continue to safeguard its energy security despite external pressure, former Vice-President M Venkaiah Naidu said on Saturday amid escalating US trade tensions.
-
-“We will safeguard energy security and we will stand firm on our strategic and national interest. No question of yielding to any threats. Threats will not work on India...,” Naidu said while addressing the valedictory session of the M S Swaminathan Centenary International Conference here.
-
-He asserted that India is “standing on its own” while remaining committed to cooperation based on “share and care” philosophy.
-
-His remarks came after US President Donald Trump further increased tariffs from 25 per cent to 50 per cent on Indian goods, labelling India as a “dead economy” despite the country’s robust growth trajectory.
-
-Naidu said India is moving fast and gaining worldwide recognition, with some countries being “envious” of the nation’s growth.
-
-...
-
-[Data](articles/acb5ce7b.json)
-
----
-
-### හෙට ප්‍රදේශ කිහිපයකට පැය 10ක ජල කප්පාදුවක්
-
-*2025-08-10 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213214) · `si`
-
-ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයක් සඳහා හෙට (11) දිනයේ පැය 10ක ජල කප්පාදුවක් සිදු කිරීමට නියමිත බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ ගම්පහ, අත්තනගල්ල සහ මිනුවන්ගොඩ ඒකාබද්ධ ජල සම්පාදන ක්‍රමයෙහි නිට්ටඹුව සිට මිනුවන්ගොඩ දක්වා ඇති සම්ප්‍රේශණ නලයේ පිරිසිදු කිරීමේ හා විශබීජහරණය කිරීමේ කටයුතු හේතුවෙන් මෙම ජල කප්පාදුව සිදුකරන බවය.
-
-ඒ අනුව හෙට පෙරවරු 10:00  සිට පස්වරු 08:00 දක්වා වූ පැය 10ක කාලයක් සඳහා රණ්පොකුණගම, බටලිය, අත්තනගල්ල, පස්යාල, නිට්ටඹුව යන කලාප සඳහා ජල සැපයුම මෙලෙස අත්හිටුවීමට නියමිතය.
-
-මේ හේතුවෙන් නිට්ටඹුව කන්දහේන, මාපගොල්ල, කෝංගස්දෙනිය, පින්නගොල්ලවත්ත, කෝලවත්ත, ගොරකදෙනිය, රණ්පොකුණගම, රන්පොකුණගම නිවාස යෝජනා ක්‍රමය, බටලීය, අත්තනගල්ල, පස්යාල, ඌරාපොල, දික්කන්ද, මිවිටිගම්මන, මාඉඹුල, මාතලාන, හග්ගල්ල, අලවල, කලල්පිටිය, ඇල්ලමුල්ල යන ප්‍රදේශ සඳහා ජල සැපයුම විසන්දි වන බවද එම මණ්ඩල නිකුත් කළ නිවේදනයේ සඳහන් වේ.
-
-◼️
-
-[Data](articles/74932d0b.json)
-
----
-
-### “No staff member would exert undue influence in actions taken by Police”: Public Security Ministry
-
-*2025-08-10 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111319/no-staff-member-would-exert-undue-influence-in-actions-taken-by-police-public-security-ministry) · `en`
-
-An individual who falsely claimed to be the secretary of Minister of Public Security Ananda Wijepala has been arrested by police for making calls to the Maharagama Police.
-
-According to police, the suspect had contacted the Maharagama Police in an attempt to secure the release of an individual who had been arrested for the possession of heroin.
-
-Police stated that legal action has already been taken against the arrested suspect, and a special investigation is currently underway regarding the incident.
-
-Issuing a statement on the matter, the Ministry of Public Security clarified that neither the Minister nor any member of his staff would ever exert undue influence or intervene improperly in any arrests or actions taken by Sri Lanka Police.
-
-Furthermore, the statement emphasized that the Ministry of Public Security is actively engaged in efforts to combat drugs and organized crime, and to uphold law and order throughout the country.
-
-...
-
-[Data](articles/2294be3e.json)
 
 ---

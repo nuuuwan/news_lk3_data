@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 21:18:38**
+As of **2025-08-10 21:31:40**
 
 ## Newspaper Stats
 
-*Scraped **69,738** Articles*
+*Scraped **69,740** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 710
+colombotelegraphcom | 711
 economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,716
 adaderanalk | 8,679
-tamilmirrorlk | 10,201
+tamilmirrorlk | 10,202
 virakesarilk | 11,627
 adaderanasinhalalk | 12,027
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,738 articles have been extended.
+61,973 (88.9%) of 69,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### மலேரியா தொற்றால் யாழில் ஒருவர் மரணம்
+
+*2025-08-10 21:05:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மலேரியா-தொற்றால்-யாழில்-ஒருவர்-மரணம்/71-362657) · `ta`
+
+யாழ். போதனா வைத்தியசாலையில் மலேரியா தொற்றால் ஒருவர் உயிரிழந்ததாக, யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், வைத்தியர் ஆறுமுகம் கேதீஸ்வரன் தெரிவித்துள்ளார்.
+
+சில நாட்களுக்கு முன் கொங்கோ நாட்டிலிருந்து நாடு திரும்பியிருந்த நெடுந்தீவை சொந்த இடமாகக் கொண்ட 34 வயதுடைய நபர், கடந்த வாரம் யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+கடுமையான நோய் நிலையுடன் அனுமதிக்கப்பட்ட இவருக்கு, கடந்த 6 நாட்களாக அதி தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை வழங்கப்பட்டது.
+
+இந்த நிலையில் கடுமையான தொற்று மற்றும் பல்வேறு அங்கங்களின் செயற்பாட்டு இழப்பால் நேற்றைய தினம் அவர் உயிரிழந்தார்.
+
+வைத்திய பரிசோதனைகளின் அடிப்படையில், அவர் மலேரியா தொற்றால் பாதிக்கப்பட்டிருந்ததை யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், வைத்தியர் ஆறுமுகம் கேதீஸ்வரன் உறுதிப்படுத்தியுள்ளார். R
+
+◼️
+
+[Data](articles/60700446.json)
+
+---
 
 ### மட்டக்களப்பு கருவப்பங்கேணியில் ரூ.20 இலட்சம் பெறுமதியான போதைப்பொருளுடன் 3 பேர் கைது
 
@@ -571,6 +591,18 @@ Initial information indicates that a bus collided head-on with a truck transport
 ◼️
 
 [Data](articles/37b674b9.json)
+
+---
+
+### Sri Lanka – Israel, Tourism & Impunity
+
+*2025-08-10 15:37:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-israel-tourism-impunity/) · `en`
+
+Reading Dr. Punsara Amarasinghe’s article Creeping Rise of Anti-Semitism is Dangerous for Sri Lanka prompted this response. Dr. Amarasinghe’s central claim is that Sri Lanka is witnessing a dangerous rise in anti-Semitism, driven by pro-Palestinian activism that calls for boycotts of Israeli goods and the shunning of Israeli tourists. He argues that activists refuse to acknowledge the October 7, 2023, Hamas attack as the trigger for the latest Gaza crisis, downplay Israel’s right to secure the release of hostages, and suppress dissenting views. He warns that the Palestinian solidarity movement in Sri Lanka promotes a one-sided narrative and risks radicalising parts of the Muslim community.
+
+...
+
+[Data](articles/9b3db81e.json)
 
 ---
 
@@ -1663,35 +1695,5 @@ As of now, four fishing boats have reportedly been destroyed by the fire.
 ...
 
 [Data](articles/b2d4a529.json)
-
----
-
-### குற்றப்புலனாய்வுத் திணைக்களத்திடம் உண்மைகளை கூறுவதற்கு சோமரத்ன ராஜபக்ஷ தயாரில்லை ; உள்ளகக் கட்டமைப்புக்களில் நம்பிக்கை இல்லை என சோமரத்னவின் மனைவி, சகோதரி சுட்டிக்காட்டு
-
-*2025-08-10 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/222206) · `ta`
-
-சர்வதேச விசாரணையில் சாட்சியம் அளிப்பதற்குத் தயாராக இருக்கிறேன் என்ற சோமரத்ன ராஜபக்ஷவின் அறிவிப்பை அடுத்து குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகள் அவரிடம் விசாரணைகளை முன்னெடுத்தாலும் அவர் அவ்வதிகாரிகளிடம் எதனையும் கூறமாட்டார் எனவும், ஏனெனில் கடந்தகாலங்களில் உண்மையைக் கூறியபோதிலும் நீதி கிட்டாததன் விளைவாக தாம் அக்கட்டமைப்புக்கள்மீது நம்பிக்கை இழந்திருப்பதாகவும் சோமரத்ன ராஜபக்ஷவின் மனைவி மற்றும் சகோதரி கேசரியிடம் தெரிவித்தனர்.
-
-கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் நீதிமன்றத்தினால் பிரதான குற்றவாளியாகப் பெயரிடப்பட்டு மரணதண்டனை விதிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ, அப்படுகொலை மற்றும் செம்மணி மனிதப்புதைகுழி விவகாரம் என்பன தொடர்பில் தன்னிடம் கூறிய விடயங்களை உள்ளடக்கியும், இவ்விவகாரம் தொடர்பில் மீண்டுமொரு சுயாதீன விசாரணையைக் கோரியும் அவரது மனைவி ஜனாதிபதி, பிரதமர் மற்றும் நீதியமைச்சர் உள்ளிட்டோருக்கு அண்மையில் கடிதமொன்றை அனுப்பிவைத்திருந்தார்.
-
-...
-
-[Data](articles/c5d4a471.json)
-
----
-
-### கொழும்பின் ஆபத்தான் பகுதிகள் கண்டுபிடிப்பு
-
-*2025-08-10 10:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-ஆபத்தான்-பகுதிகள்-கண்டுபிடிப்பு/175-362615) · `ta`
-
-கொழும்பில் போதைப்பொருள் பாவனை அதிகமுள்ள இடங்கள் அடையாளம் காணப்பட்டுள்ளதாகத் தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டுச் சபை தெரிவித்துள்ளது.
-
-அதன்படி, இராஜகிரிய - ஒபேசேகரபுர, பண்டாரநாயக்கபுர, வெல்லம்பிட்டி - கொலன்னாவ, பொரளை - வனாத்த முல்ல, மொரட்டுவை - லுனாவ, முகத்துவராம் - மட்டக்குளி ஆகிய பகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-பொலிஸ் துறை, பொலிஸ் விசேட அதிரடிப்படையினர் பல அரச நிறுவனங்கள் மற்றும் கிளீன் ஸ்ரீலங்கா ஆகியவற்றின் பங்களிப்புடன் இந்த நடவடிக்கை முன்னெடுக்கப்படவுள்ளது. R
-
-◼️
-
-[Data](articles/d1601110.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 14:48:33**
+As of **2025-08-10 15:06:47**
 
 ## Newspaper Stats
 
-*Scraped **69,682** Articles*
+*Scraped **69,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,704
-adaderanalk | 8,672
+adalk | 6,706
+adaderanalk | 8,674
 tamilmirrorlk | 10,194
 virakesarilk | 11,610
-adaderanasinhalalk | 12,017
+adaderanasinhalalk | 12,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,682 articles have been extended.
+61,973 (88.9%) of 69,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ශිෂ්‍යත්ව ප්‍රතිඵල සැප්තැම්බර් 20ට පෙර
+
+*2025-08-10 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213230) · `si`
+
+අද (10) පැවැති 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල එළැඹෙන සැප්තැම්බර් 20ට පෙර නිකුත්කිරීමට හැකිවනු ඇති බව විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසීය.
+
+මෙවර ශිෂ්‍යත්ව විභාගය දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී පැවැත් වූ අතර, එහිදී අයදුම්කරුවන් 307,951 දෙනෙකු විභාගයට මුහුණ දුන්හ.
+
+◼️
+
+[Data](articles/420f665e.json)
+
+---
+
+### 704 individuals arrested during special island-wide police raids
+
+*2025-08-10 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111336/704-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 704 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (09).
+
+As part of the operation, 25,503 persons were subjected to inspection, the Police Media Division said.
+
+Police have identified 29 individuals directly linked to criminal activities while 203 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 100 drunk drivers were apprehended while a further 17 reckless drivers and 3,369 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/f3b434e7.json)
+
+---
+
+### ජනපති මල්වතු, අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
+
+*2025-08-10 14:30:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මල්වතු--අස්ගිරි-මහා-නා-හිමිවරුන්-බැහැ-දකී/11-417814) · `si`
+
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ වාර්ෂික ඇසළ පෙරහැර මංගල්‍යයේ කටයුතු සඳහා සහභාගිවීමට මහනුවරට පැමිණ සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (09) පස්වරුවේ මල්වතු සහ අස්ගිරි පාර්ශ්වයේ මහා නා හිමිපාණන් වහන්සේලා බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
+
+පළමුව මල්වතු මහා විහාරය වෙත පැමිණි ජනාධිපතිවරයා මල්වතු මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නා හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගනිමින් කෙටි පිළිසඳරක නිරත විය.
+
+අනතුරුව අස්ගිරි මහා විහාරය වෙත පැමිණි ජනාධිපති අනුර කුමාර දිසානායක මහතා අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නා හිමිපාණන් වහන්සේගේද සුව දුක් විමසමින් කෙටි පිළිසඳරක නිරත විය.
+
+◼️
+
+[Data](articles/f0191140.json)
+
+---
 
 ### විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
@@ -63,6 +113,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2a8f7c99.json)
+
+---
+
+### “Sri Lanka’s youth clubs should not be politicised”: Ex- President Ranil
+
+*2025-08-10 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111335/sri-lankas-youth-clubs-should-not-be-politicised-ex-president-ranil) · `en`
+
+Sri Lanka’s youth clubs should not be drawn into political agendas, former President Ranil Wickremesinghe has stated.
+
+The former President, while addressing concerns about the growing politicisation of youth organizations and on-going unrest among youth clubs, emphasized the importance of resolving issues through dialogue.
+
+Making a special statement, former President Ranil Wickremesinghe proposed the Subject Minister to engage in discussions with both former and current officials of the youth clubs to find a solution that satisfies all parties.
+
+“About 40 years ago, in response to the demands of Sri Lankan youth, I initiated the Youth Society network. My intention was to create a space in villages for young people to come together for recreation, arts, and other activities, while also developing their skills and talents. This initiative was quite successful, and today, young people are contributing in many sectors of society,” he said.
+
+...
+
+[Data](articles/0e5ac4f7.json)
 
 ---
 
@@ -781,6 +849,22 @@ As of now, four fishing boats have reportedly been destroyed by the fire.
 ◼️
 
 [Data](articles/f7c58d1c.json)
+
+---
+
+### දරුවෙකුට අතවර කළ හිමිනමක් අත්අඩංගුවට
+
+*2025-08-10 10:34:24* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙකුට-අතවර-කළ-හිමිනමක්-අත්අඩංගුවට/11-417813) · `si`
+
+නිත්‍යානුකුල බාරකාරත්වයෙන් අපහරනය කර  බාලවයස්කාර ( අවුරුදු 13ක )පිරිමි දරුවෙකුට ලිංගික අතවර සිදුකරන ලද චිවරධාරි හිමිනමක්(අවුරුදු 42)රත්නපුර ළමා හා කාන්තා කාර්යාංශය මගින් අත් අඩංගුවට ගෙන රත්නපුර වැඩ බලන මහේස්ත්‍රාත් වසන්ත විරසිංහ මහතා වෙත ඉදිරිපත් කිරිමෙන් පසුව මෙම මස 18 වන  දිනතෙක් රක්ෂිත බන්ධනාගාර ගත කෙරින.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත වුයේ රත්නපුර කෙම්පනාවත්ත ප්‍රදේශයේ විහාරස්ථානයක සිටි අවුරුදු 42 ක්වු හිමිනමකි. පසුගිය හත්වන දින තම ආච්චි සමඟ සායනයට පැමිණ ඇති දරුවා ආච්චිගේ සායන කටයුතු අවසන් වෙනතෙක් එහි රැඳි සිටි අවස්ථාවේ සැකකාර හිමිනම  මෙම දරුවාට එනලෙස කථාකර ඇති බවත් පසුව රෝහල් භුමියේ ගාල්කර තිබු ත්‍රිවිලයක් ඇතුලත වාඩිවෙන ලෙස කියා ශරිරය අතපත ගෑමට ලක්කර ඇතිබව සිදුකරන ලද විමර්ශණයෙන් අනාවරනයවු බව ළමා හා කාන්තා කාර්යාංශය පවසයි.
+
+සායනය තුල සිටි දරුවා නොමැති බැවින් ආච්චි විසින් ආරක්ෂක අංශවලට දැන්විමෙන් පසුව සොයා බලන අවස්ථාවේ අවුරුදු 13 ක දරුවා හිමිනම සමඟ ත්‍රිවිලය තුල සිටියදි හිමි නම රෝහල්පොලිස් බාරයට ගෙන ඇත.
+
+...
+
+[Data](articles/b2d4a529.json)
 
 ---
 
@@ -1679,91 +1763,5 @@ Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2
 ...
 
 [Data](articles/dc461e82.json)
-
----
-
-### නිවසක ඇතිවූ ගින්නකට දරුවෙක් බිලි, මවට හා පියාට තුවාල නෑ
-
-*2025-08-09 20:32:35* · [`adalk`](https://www.ada.lk/breaking_news/නිවසක-ඇතිවූ-ගින්නකට-දරුවෙක්-බිලි--මවට-හා-පියාට-තුවාල-නෑ/11-417805) · `si`
-
-බළන්ගොඩ දෙහිගස්තලාව ප්‍රදේශයේදී අද(9 දා) අළුයම 3.30 පමණ  නිවසක් තුළ ඇතිවී තිබෙන ගින්නකින් වයස අවුරුදු 7 දරුවෙකු .මියගොස් ඇති බව බලංගොඩ පොලිසි පැවසීය.
-
-මෙම ගින්නෙන් මව පියාට හානියක් නොවීම බවත් මෙම නිවසේ පවුල් ආරවුල් ඇතිවී තිබෙන බව මූලික පරීක්ෂණවලදී හෙළි වූ බව පොලිසිය පැවසීය.
-
-මියගිය දරුවාගේ පශ්චාත් මරණ පරීක්ෂණ සිදු කිරීම සඳහා බළන්ගොඩ මූලික රෝහලට රැගෙන ගොස් තිබේසිද්ධිය සම්බන්ධ වැඩිදුර පරීක්ෂණ බලංගොඩ පොලිසිය සිදු කරයි.
-
-◼️
-
-[Data](articles/095795a6.json)
-
----
-
-### Dipped Products wins overall Gold Award at NBEA 2025
-
-*2025-08-09 20:23:00* · [`islandlk`](http://island.lk/dipped-products-wins-overall-gold-award-at-nbea-2025/) · `en`
-
-Dipped Products PLC (DPL), a member of the Hayleys Group and a global leader in hand protection solutions spanning medical, household, industrial and sports sectors, was honoured with the Overall Gold Award at the National Business Excellence Awards (NBEA) 2025.
-
-The event was held under the patronage of the New Zealand High Commissioner to Sri Lanka as Chief Guest, with the South African High Commissioner to Sri Lanka and the Republic of Maldives serving as Guest of Honour.
-
-In addition to the top accolade, DPL secured five further honours: Winner – ‘Extra Large Category’, Winner ‘Manufacturing (Other Sector)’, ‘Excellence in Environmental, Social and Governance (ESG)’, ‘Excellence in Corporate Governance and Strategy’ and Runner-up – ‘Excellence in Global Market Reach’.
-
-...
-
-[Data](articles/fb89a9be.json)
-
----
-
-### විල්පත්තුවේ නීතිවිරෝධී ඉල්මනයිට් සේදීමේ මහා පරිමාණ ජාවාරමක් වලානෙන් වටලයි
-
-*2025-08-09 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213206) · `si`
-
-විල්පත්තුව ජාතික වනෝද්‍යානය මායිමේ නීතිවිරෝධීව පවත්වාගෙන ගිය ඉල්මනයිට් සේදීමේ මහා පරිමාණ ජාවාරමක් වලාන දූෂණ මර්දන ප්‍රහාරක ඒකකය විසින් අද වටලනු ලැබීය.
-
-පසුගිය ආණ්ඩු සමයේ ප්‍රබල දේශපාලනඥයින් පිරිසක් මේ ජාවාරම පිටුපස සිටියේදැයි සොයා පොලිසිය විමර්ශන ආරම්භ කර තිබේ.
-
-විල්පත්තුව ජාතික වනෝද්‍යානය මායිමේ අරුවක්කාඩුව අධිසංවේදි පරිසර පද්ධතිය තුළ නිසි අවසරයකින් තොරව ඉල්මනයිට් සේදීමේ කටයුතු පවත්වාගෙන ගිය ස්ථානයක් වැටලූ වලාන දූෂණ මර්දන ප්‍රහාරක ඒකකය එම භූමිය සිය භාරයට ගත්තේය.
-
-මෙහිදී එම කටයුතුවලට භාවිත කළ යන්ත්‍ර සූත්‍ර තොගයක් පොලිස් භාරයට ගැනුණු අතර, එහි වටිනාකම රුපියල් කෝටි 200කට අධිකය.
-
-වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ ඍජු අධීකරණය යටතේ මෙම වැටලීම ක්‍රියාත්මක කෙරිණි.
-
-මේ වන විට අනාවරණ වී ඇත්තේ, අක්කර 20ක භූමි ප්‍රදේශයක් පුරා ක්‍රියාත්මක කර තිබූ මෙම නීතිවිරෝධී ජාවාරමේදී වසර සිය ගණනක් පැරණි කළුවර, බුරුත, වීර ඇතුළු දැවැන්ත වෘක්ෂයන් කපා දමා ඇති බවය.
-
-...
-
-[Data](articles/b3f898f7.json)
-
----
-
-### The Deep State Unmasked: Trump’s Battle & Asia’s Geopolitical Crossroads
-
-*2025-08-09 19:58:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-deep-state-unmasked-trumps-battle-asias-geopolitical-crossroads/) · `en`
-
-The term derin devlet—“deep state”—originated in Turkey, but today it finds its most potent expression in Washington, D.C. What was once a whispered suspicion has now become undeniable: unelected officials, career bureaucrats, and ideologically entrenched elites have long directed the trajectory of American policy—often in defiance of the will of the electorate.
-
-Donald J. Trump did not just confront this system; he exposed it. His presidency was a rebellion against a permanent political class that has steered U.S. foreign policy through wars, regime change, and economic coercion, all under the banner of democracy and liberal order. Trump dared to question these assumptions, and the reverberations of his challenge have echoed far beyond the United States—reaching into the capitals of the Global South.
-
-...
-
-[Data](articles/4cfe11bf.json)
-
----
-
-### முத்தையன்கட்டு சம்பவம் - 5 இராணுவத்தினர் கைது
-
-*2025-08-09 19:56:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முத்தையன்கட்டு-சம்பவம்-5-இராணுவத்தினர்-கைது/150-362591) · `ta`
-
-முல்லைத்தீவு - முத்தையன்கட்டு இராணுவ முகாமுக்குள் சென்று காணாமல் போன இளைஞன் முத்தையன் கட்டு குளத்தில் இருந்து சடலமாக மீட்கப்பட்டள்ளார்.
-
-காணாமல் போனவர் தொடர்பில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டதுடன் , ஊரவர்களும் அப்பகுதிகளில் தேடுதல் நடத்தி வந்தனர்.
-
-இந்நிலையில் இன்றைய தினம் சனிக்கிழமை அதிகாலை காணாமல் போன இளைஞன் முத்தையன்கட்டு குளத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
-
-இதையடுத்து முல்லைத்தீவு முத்தையன்கட்டு சம்பவம் தொடர்பில் 5 இராணுவத்தினர் முல்லைத்தீவு பொலிஸாரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
-
-◼️
-
-[Data](articles/b823a331.json)
 
 ---

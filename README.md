@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 03:48:14**
+As of **2025-08-11 04:06:48**
 
 ## Newspaper Stats
 
-*Scraped **69,760** Articles*
+*Scraped **69,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 711
 economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
-dailyftlk | 4,892
+dailyftlk | 4,894
 adalk | 6,717
 adaderanalk | 8,680
 tamilmirrorlk | 10,204
@@ -26,15 +26,43 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,760 articles have been extended.
+61,973 (88.8%) of 69,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
 
+### Is increase in tobacco tax incidence practical policy option in Sri Lanka?
+
+*2025-08-11 03:44:28* · [`dailyftlk`](https://www.ft.lk/opinion/Is-increase-in-tobacco-tax-incidence-practical-policy-option-in-Sri-Lanka/14-780084) · `en`
+
+The recent COPF discussions sparked debate on a push to raise Sri Lanka’s tax on cigarettes to be 75% of the price of the cigarette. This has resurfaced policy discussions, echoing a longstanding recommendation from the World Health Organization (WHO). Their aim is clear: discourage smoking, improve public health, and boost government revenue. But is this a practical target – especially in Sri Lanka’s current economic and enforcement landscape?
+
+At 67%, Sri Lanka already ranks among the highest in Asia in terms of tobacco tax incidence. Moving to 75% would make it a regional outlier – surpassed only by Thailand. But as experiences across the region (and even globally) show, this metric alone doesn’t guarantee success. The practicality of such a move—especially within the region’s economic, social, and enforcement context—warrants a closer look.
+
+...
+
+[Data](articles/4cbd5b7d.json)
+
+---
+
+### Are residential apartments the best asset class in town? Probably
+
+*2025-08-11 03:37:56* · [`dailyftlk`](https://www.ft.lk/opinion/Are-residential-apartments-the-best-asset-class-in-town-Probably/14-780083) · `en`
+
+It was said many years ago that Sri Lankans would never take to apartments because indigenous values demanded dwellings to have gardens, be accommodating to continuous refurbishments and for properties to be transferable from one generation to the next. Over the past two decades, we have witnessed the complete debunking of the myth with the volume of high-end apartments growing exponentially, corelating positively with high growth in GDP, improvements in living standards and a conducive external environment.
+
+...
+
+[Data](articles/0ce2e033.json)
+
+---
+
 ### Arugam Bay: Gentle warning, Mr. President
 
 *2025-08-11 03:30:28* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-Gentle-warning-Mr-President/4-780082) · `en`
+
+Will Arugam Bay eventually develop into a hotspot for the US-India-Israel trio to create trouble for Sri Lanka-China relations?
 
 “There is a British proverb about the camel and the tent. At first the camel sticks one leg in the tent, and eventually it slips into it. This must be our policy” – Chaim Weizmann the Russian born British Zionist leader when replying to criticisms against the 1917 Balfour Declaration
 
@@ -1669,47 +1697,5 @@ Saeed said the government puts a lot of effort into creating an investor-friendl
 ◼️
 
 [Data](articles/38631b8e.json)
-
----
-
-### 05 ශිෂ්‍යත්වයෙන් පසු විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කළ ඉල්ලීම
-
-*2025-08-10 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213223) · `si`
-
-ඒ අනුව දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී විභාග අයදුම්කරුවන් 307,951ක් අද විභාගයට මුහුණ දෙනු ඇත.
-
-එමෙන්ම මෙවර විභාගයේදී විශේෂ අවශ්‍යතා සහිත දරුවන් 901 දෙනෙකුද පෙනී සිටින බවත් ඉන් අපේක්ෂකයින් 12 දෙනෙකු බ්‍රේල් මාධ්‍යයෙන් විභාගයට පෙනී සිටින බව විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
-
-මේ අතර අද පැවැත්වෙන ශිෂ්‍යත්ව විභාගයෙන් පසුව සිසු දරුවන් විසින් විභාග ප්‍රශ්න පත්‍රයට පිළිතුරු දුන් ආකාරය සම්බන්ධව ප්‍රශ්න කිරීමෙන් වළකින ලෙස විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කාරුණික ඉල්ලීමක්ද සිදුකරනු ලැබීය.
-
-එහිදී විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් ඉල්ලා සිටියේ සිසු දරු දැරියන්ගේ ළමා කාලය ගත කිරීමට අවස්ථාව ලබා දෙන ලෙසත් ශිෂ්‍යත්ව විභාගය පදනම් කරගනිමින් දරුවාගේ ළමා කාලය විනාශ නොකරන ලෙසත්ය.
-
-එමෙන්ම ශිෂ්‍යත්ව විභාගය යනු එක් විභාගයක් පමණක් බවත් මේ හේතුව මත දරුවන් පීඩනයට පත් කිරීමෙන් වළකින ලෙස තමන් දෙමාපියන්ගෙන් කාරුණිකව ඉල්ලා සිටින බවද විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය,
-
-...
-
-[Data](articles/a1a9d8b9.json)
-
----
-
-### Governor General of Australia Samantha Mostyn concludes official visit to Sri Lanka
-
-*2025-08-10 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111330/governor-general-of-australia-samantha-mostyn-concludes-official-visit-to-sri-lanka) · `en`
-
-The Governor General of Australia Samantha Joy Mostyn and her delegation who were on an official visit to Sri Lanka, departed the island, from the Bandaranaike International Airport (BIA) in Katunayake, this morning (10).
-
-During the visit, Governor General Mostyn met with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya for bilateral discussions.
-
-These discussions focused on further strengthening bilateral cooperation between Australia and Sri Lanka, and exploring opportunities to expand areas of mutual benefit and collaboration between the two countries.
-
-During her stay, Governor General of Australia Mostyn also toured several areas across the country and observed a number of Australian-supported projects in Bandaragama, Mirissa, and Weligama.
-
-Minister of Science and Technology Chrishantha Abeysena and several officials from the Ministry of Foreign Affairs were present at the airport to see off the delegation.
-
-◼️
-
-[Data](articles/055c69b2.json)
 
 ---

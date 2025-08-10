@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 19:35:14**
+As of **2025-08-10 19:48:00**
 
 ## Newspaper Stats
 
-*Scraped **69,727** Articles*
+*Scraped **69,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,249
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,714
+adalk | 6,715
 adaderanalk | 8,678
-tamilmirrorlk | 10,199
+tamilmirrorlk | 10,200
 virakesarilk | 11,622
 adaderanasinhalalk | 12,026
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,727 articles have been extended.
+61,973 (88.9%) of 69,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### தெற்காசியாவின் பணக்காரர்களின் பட்டியலில் இணைந்தது இலங்கை
+
+*2025-08-10 19:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசியாவின்-பணக்காரர்களின்-பட்டியலில்-இணைந்தது-இலங்கை/175-362655) · `ta`
+
+2025 ஆம் ஆண்டிற்கான தெற்காசியாவின் பணக்காரர்களின் பட்டியலை கல்ஃப் நியூஸ் வெளியிட்டுள்ளது, இதில் இந்தியாவின் முகேஷ் அம்பானியை 118 பில்லியன் அமெரிக்க டொலர் நிகர மதிப்புடன் பிராந்தியத்தின் பணக்காரர்களில் ஒருவராகக் குறிப்பிட்டுள்ளது.
+
+இந்த அறிக்கை அண்டை நாடுகளின் பணக்காரர்களையும் அடையாளம் கண்டுள்ளது: பாகிஸ்தானின் ஷாஹித் கான் (அமெரிக்க டொலர் 13.5 பில்லியன்), பங்களாதேஷின் மோசா பின் ஷம்ஷர் (அமெரிக்க டொலர் 12 பில்லியன்), நேபாளத்தின் பினோத் சவுத்ரி (அமெரிக்க டொலர் 1.6 பில்லியன்) மற்றும் இலங்கையின் இஷாரா நாணயக்கார (அமெரிக்க டொலர் 1.6 பில்லியன்).
+
+கல்ஃப் நியூஸின் கூற்றுப்படி, அம்பானியின் சொத்து மதிப்பு மற்ற தெற்காசிய அதிபர்களை மிகவும் கீழே தள்ளியுள்ளது, அவரது சொத்து மதிப்பு பட்டியலில் இரண்டாவது இடத்தில் உள்ள கானின் சொத்து மதிப்பை விட கிட்டத்தட்ட 10 மடங்கு அதிகம்.
+
+◼️
+
+[Data](articles/80dfcf66.json)
+
+---
 
 ### රුමේෂ් ලෝක මලල ක්‍රීඩා ශූරතාවට ඍජුව සුසුදුකම් ලබයි
 
@@ -43,6 +59,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3645b282.json)
+
+---
+
+### ඕස්ට්‍රේලියාවට ලකුණු 17ක ජයක්
+
+*2025-08-10 18:49:00* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියාවට-ලකුණු-17ක-ජයක්/9-417831) · `si`
+
+සංචාරක දකුණු අප්‍රිකා කණ්ඩායමට එරෙහිව පැවති පළමු විස්සයි 20 ක්‍රිකට් තරගයෙන් ලකුණු 17ක ජයක් වාර්තා කිරීමට ඕස්ට්‍රේලියානු කණ්ඩායම මීට සුළු මොහොතකය පෙර සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 20 අවසානයේ සියල්ලන් දැවී ලකුණු 178ක් රැස් කළහ.
+
+ඒ අනුව 179ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය දකුණු අප්‍රිකා කණ්ඩායමට පන්දුවාර 20 අවසාන​යේ කඩුලු 9ක් දැවී රැස් කරගත හැකි වූයේ ලකුණු 161ක් පමණී.
+
+◼️
+
+[Data](articles/60d9437a.json)
 
 ---
 
@@ -1657,45 +1689,5 @@ A surplus in the primary account indicates that interest costs are so large, tha
 ...
 
 [Data](articles/70f5d050.json)
-
----
-
-### Europe stresses need to protect Ukrainian interests ahead of Trump-Putin talks
-
-*2025-08-10 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111325/europe-stresses-need-to-protect-ukrainian-interests-ahead-of-trump-putin-talks) · `en`
-
-European leaders on Saturday welcomed U.S. President Donald Trump’s plans to meet Russian President Vladimir Putin on ending the war in Ukraine, while stressing the need to keep pressure on Moscow and protect Ukrainian and European security interests.
-
-Trump plans to meet Putin in Alaska on Friday, saying the parties, including Ukrainian President Volodymyr Zelenskiy, were close to a deal that could resolve the three-and-a-half-year-old conflict.
-
-The U.S. president is open to a trilateral summit with Putin and Zelenskiy, but for now the White House is planning a bilateral meeting as requested by Putin, a White House official said. Russian and Ukrainian officials could not immediately be reached for comment on the prospects of a trilateral meeting.
-
-...
-
-[Data](articles/971c24d2.json)
-
----
-
-### ගාසා නගරය අත්පත් කර ගැනීමේ තීරණයට විරෝධය පා ඊශ්‍රායලයේ විරෝධතා
-
-*2025-08-10 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213216) · `si`
-
-ඊශ්‍රායලය ආරක්ෂක මණ්ඩලය විසින් ගාසා නගරයේ පාලනය අත්පත් කර ගැනීමේ සැලැස්මක් අනුමත කිරීමත් සමග එරට ටෙල් අවිව්හි විරෝධතා රැසක් ආරම්භ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-විරෝධතාකරුවන් ඊශ්‍රායල රජයට විරෝධය දක්වමින් සඳහන් කර ඇත්තේ වහාම යුද ගැටුම් නතර කරන ලෙසය.
-
-මෙම විරෝතාවට එක්වූවන් විසින් පලස්තීනයේ රඳවා සිටින ඊශ්‍රායල ප්‍රාණ ඇපකරුවන්ගේ ඡායාරූපද ඔසවා සිය විරෝධතාව ප්‍රකාශය කර තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා සඳහන් කර ඇත්තේ මෙම විරෝධතා රැලිය සඳහා ප්‍රාණ ඇපකරුවන්ගේ පවුල්ද නියෝජනය කරමින් විරෝධතා කරුවන් 100,000කට ආසන්න ප්‍රමාණයක් සහභාගී වී ඇති බවය.
-
-මේ අතර අදාළ විරෝධතාකරුවන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහුගේ නිවස අසලට රැස්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-විරෝධතාකරුවන් ජෙරුසලමේ සිට විරෝධතා පුවරු රැගෙන ඊශ්‍රායල අග්‍රාමාත්‍යවරයාගේ නිවස අසලට ගොස් යුද ගැටුම් නවත්වන ලෙසත්, ප්‍රාණ ඇපකරුවන්ගේ ජීවිත ආරක්ෂා කරන ලෙසත් දක්වමින් විරෝධතාවයේ නිරත වී ඇත.
-
-මේ අතර විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ නෙතන්යාහුගේ මෙම තීරණයට එරෙහි ඊශ්‍රායලයේ ප්‍රදේශ රැසක විරෝධතා සංවිධානය වන බවය.
-
-...
-
-[Data](articles/2ed46304.json)
 
 ---

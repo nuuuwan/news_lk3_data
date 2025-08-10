@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 15:19:09**
+As of **2025-08-10 15:31:34**
 
 ## Newspaper Stats
 
-*Scraped **69,689** Articles*
+*Scraped **69,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,707
 adaderanalk | 8,674
 tamilmirrorlk | 10,194
 virakesarilk | 11,610
-adaderanasinhalalk | 12,019
+adaderanasinhalalk | 12,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,689 articles have been extended.
+61,973 (88.9%) of 69,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### උප පොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගනී
+
+*2025-08-10 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213232) · `si`
+
+වීරගුල පොලිස් ස්ථානයට අනුයුක්තව සේවය කළ උප පොලිස් පරීක්ෂකවරයෙකු සිය දිවි හානි කරගෙන තිබේ.
+
+සිය රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන ඔහු මෙසේ සිය දිවි හානි කරගෙන ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/5e756cfe.json)
+
+---
 
 ### උසස් පෙළ හා සාමාන්‍ය පෙළ විභාග සඳහා දින නියම වෙයි
 
@@ -1749,19 +1763,5 @@ Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2
 ...
 
 [Data](articles/35ff2015.json)
-
----
-
-### ඊශ්‍රායලයේ තීරණය ගැන ලංකාවේ දැඩි කනස්සල්ල
-
-*2025-08-09 20:46:54* · [`adalk`](https://www.ada.lk/international/ඊශ්‍රායලයේ-තීරණය-ගැන-ලංකාවේ-දැඩි-කනස්සල්ල/3-417807) · `si`
-
-ඊශ්‍රායලය විසින් ගාසා තීරයේ පාලනය අත්පත් කර ගැනීමට ගත් තීරණය පිළිබඳව ශ්‍රී ලංකාව දැඩි කනස්සල්ල පළ කරන අතර එමඟින් ගාසා තීරයේ ජනතාවගේ ප්‍රචණ්ඩත්වය සහ දුක් වේදනා තවදුරටත් උග්‍ර වනු ඇතැයි විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-ශ්‍රී ලංකාව වහාම සටන් විරාමයක් ඉල්ලා සිටින අතර තිරසාර සාමයක් ස්ථාපිත කිරීම සඳහා රාජ්‍ය තාන්ත්‍රික සංවාදයක් හරහා වෙනස්කම් විසඳා ගන්නා ලෙස සියලු පාර්ශ්වයන්ගෙන් ඉල්ලා සිටින බවද එම නිවේදනයේ දැක්වෙයි.
-
-◼️
-
-[Data](articles/1b137337.json)
 
 ---

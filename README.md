@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 14:33:47**
+As of **2025-08-10 14:48:33**
 
 ## Newspaper Stats
 
-*Scraped **69,669** Articles*
+*Scraped **69,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,704
-adaderanalk | 8,668
+adaderanalk | 8,672
 tamilmirrorlk | 10,194
-virakesarilk | 11,602
-adaderanasinhalalk | 12,016
+virakesarilk | 11,610
+adaderanasinhalalk | 12,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,669 articles have been extended.
+61,973 (88.9%) of 69,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
+
+*2025-08-10 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213229) · `si`
+
+අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම් සහ අපරාධවලට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සම්බන්ධව ශ්‍රී ලංකා පොලීසිය ඇතුළු ආරක්ෂක අංශ මගින් දිවයින පුරා සිදුකරන ලද විශේෂ සෝදිසි මෙහෙයුම් මාලාවේ තවත් අදියරක් ඊයේ (09) දිනයේදී ද සිදුකර තිබේ.
+
+එහිදී සියලුම ප්‍රාදේශීය පොලිස් ස්ථාන ආවරණය වන පරිදී පොලීසිය විසින් විශේෂ මෙහෙයුම් ක්‍රියාත්මක කර ඇත.
+
+ඒ අනුව ඊයේ දිනයේදී පුද්ගලයින් 25,503 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර එහිදී අපරාධවලට සෘජුව සම්බන්ධ බවට පුද්ගලයින් 29 දෙනෙකු හඳුනාගෙන තිබේ.
+
+තවද සැකපිට පුද්ගලයින් 704 දෙනෙකුද, වරෙන්තුකරුවන් 203 දෙනෙකුද පොලීසිය විසින් මෙහිදී අත්අඩංගුවට ගෙන ඇත.
+
+එමෙන්ම ඊයේ මෙහෙයුම් මාලාව තුළදී බීමත් රියදුරන් 100 දෙනෙකුත් අත්අඩංගුවට ගෙන ඇති අතර වෙනත් රථවාහන වැරදි සම්බන්ධව පුද්ගලයින් 3,369 දෙනෙකුට එරෙහිව නීතිමය ක්‍රියාමාර්ගද ගෙන තිබේ.
+
+විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට by poornima on Scribd
+
+◼️
+
+[Data](articles/6219f13c.json)
+
+---
+
+### அமெரிக்க வரி குறைப்பு - இலங்கை ஏற்றுமதி துறைக்கு நவீன உற்பத்தியின் புதிய வாய்ப்பு
+
+*2025-08-10 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222235) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் வெளியிட்ட நிர்வாக உத்தரவின் அடிப்படையில், இலங்கையின் இறக்குமதி பொருட்களுக்கு விதிக்கப்பட்டிருந்த 44% வரி, 20% ஆகக் குறைக்கப்பட்டுள்ளது. அமெரிக்க வெள்ளை மாளிகை இந்த அறிவிப்பை வெளியிட்டது. புதிய வரிப்பிரசாரம் 2025 ஆம் ஆண்டு ஆகஸ்ட் 7ஆம் திகதி முதல் அமுலுக்கு வரும்.
+
+◼️
+
+[Data](articles/2a8f7c99.json)
+
+---
+
+### இலங்கையின் பொருளாதார மீட்சிக்கான பாதை
+
+*2025-08-10 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222228) · `ta`
+
+இலங்கையின் மீட்சிக்கான பாதை: கடன் மற்றும் ஆளுகை எனும் தொனிப்பொருளில் கடந்த ஜுன் மாதத்தில் இலங்கை மத்திய வங்கி, நிதியமைச்சு மற்றும் சர்வதேச நாணய நிதியம் இணைந்து முக்கியமானதொரு மாநாட்டினை நடத்தியிருந்தன. இதில் பல முக்கிய விடயங்கள் கலந்தாலோசிக்கப்பட்டிருந்தன.
+
+◼️
+
+[Data](articles/1788ba67.json)
+
+---
 
 ### බ්‍රසීලයේ බස් - ට්‍රක් රථ අනතුරකින් 11ක් මරුට
 
@@ -68,6 +114,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Examinations Chief makes special appeal regarding scholarship exam
+
+*2025-08-10 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111333/examinations-chief-makes-special-appeal-regarding-scholarship-exam) · `en`
+
+Commissioner General of Examinations AKS Indika Kumari Liyanage has urged parents to refrain from questioning their children on how they answered the exam papers following the conclusion of today’s Grade Five Scholarship examination.
+
+The 2025 Grade 5 Scholarship Examination was today (10) at 2,787 examination centers across the island.
+
+According to the Commissioner General of Examinations, Indika Kumari Liyanage, a total of 901 students with special needs sat for the exam this year, including 12 candidates using Braille scripts.
+
+Speaking at a media briefing held in Colombo, the Commissioner General made a heartfelt appeal to parents to refrain from discussing the exam paper and how they answered the exam papers.
+
+She emphasized that children should be given the opportunity to enjoy their childhood and urged parents not to place unnecessary pressure on them based on the scholarship exam.
+
+...
+
+[Data](articles/cd5605df.json)
+
+---
+
 ### ஆணின் சடலம் மீட்பு
 
 *2025-08-10 13:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆணின்-சடலம்-மீட்பு/175-362630) · `ta`
@@ -85,6 +151,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/31f4bc54.json)
+
+---
+
+### மன்னார் கடற்பகுதியில் 07 இந்திய மீனவர்கள் கைது
+
+*2025-08-10 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222231) · `ta`
+
+மன்னாரை அண்மித்த கடற்பகுதியில் மீன்பிடித்த 07 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்தது.
+
+கைப்பற்றப்பட்ட படகுடன் இந்திய மீனவர்கள் தலைமன்னார் துறைமுகத்திற்கு அழைத்து செல்லப்பட்டு, சட்ட நடவடிக்கைகளை மேற்கொள்வதற்காக மன்னார் மீன்வள ஆய்வாளரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+சட்டவிரோத மீன்பிடி நடைமுறைகள் உள்ளூர் மீனவர்களின் வாழ்வாதாரத்தில் ஏற்படுத்தும் தீங்கு விளைவிக்கும் தாக்கங்களைக் கருத்தில் கொண்டு, இலங்கை கடற்பரப்புக்குள் வெளிநாட்டு மீன்பிடி படகுகள் அத்துமீறி நுழைவதைத் தடுக்க தொடர்ந்து ரோந்து மற்றும் நடவடிக்கைகளை மேற்கொண்டு வருவதாக கடற்படை தெரிவித்தது.
+
+◼️
+
+[Data](articles/2399644d.json)
+
+---
+
+### தேசிய பாதுகாப்புக்கு அச்சுறுத்தலா?
+
+*2025-08-10 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222227) · `ta`
+
+இதுவரையில், தப்பியோடிய 3,500 இற்கும் மேற்பட்ட முப்படையினர் மற்றும் பொலிஸார் பிடிபட்டிருக்கிறார்கள். இவ்வாறான துப்பாக்கிச் சூட்டு சம்பவங்களுடன், தப்பிச்சென்ற படையினர்  பலர் தொடர்புபட்டிருந்த காரணத்தினாலேயே,  இந்த கைது நடவடிக்கைகள் மேற்கொள்ளப்பட்டன.
+
+◼️
+
+[Data](articles/8aa1bb9a.json)
 
 ---
 
@@ -126,6 +220,34 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ராகுல் காந்தி கிளப்பிய ‘வாக்கு திருட்டு’ விவகாரம்: தேர்தல் ஆணையம், பாஜக எதிர்வினை என்ன?
+
+*2025-08-10 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222229) · `ta`
+
+புதுடெல்லி: கடந்த 2024 மக்களவைத் தேர்தல் முதல் பல்வேறு மாநிலத் தேர்தல்களில் பாஜகவுடன் தேர்தல் ஆணையம் கூட்டு வைத்து மிகப் பெரிய அளவில் வாக்காளர் மோசடி நடந்துள்ளதாக மக்களவை எதிர்க்கட்சித் தலைவர் ராகுல் காந்தி குற்றஞ்சாட்டினார். இது குறித்த தரவுகளை வெளியிட்ட அவர், ஐந்து விதமாக ‘வாக்குகள் திருட்டு’ நடந்துள்ளதாக விவரித்துள்ளார்.
+
+தேர்தல் ஆணையத்தின் மீது ராகுல் காந்தி அணுகுண்டு வீசிவிட்டார் என்று பரபரப்புகள் கூடிய நிலையில், அவரது குற்றச்சாட்டுகளை மறுத்துள்ளது தேர்தல் ஆணையம். கூடவே, ‘இது ராகுலின் உச்சபட்ச விரக்தியின் வெளிப்பாடு மட்டுமே’ என்று அவரை பாஜக கிண்டல் செய்துள்ளது.
+
+தலைநகர் டெல்லியில் காங்கிரஸ் தலைமையகத்தில் செய்தியாளர்களைச் சந்தித்த ராகுல் காந்தி, “தேர்தல் முடிவுகள் முன்கூட்டியே திட்டமிடப்படுகின்றன. இதற்கு, நாடாளுமன்ற மக்களவைத் தேர்தலில் பெங்களூரு மத்திய தொகுதிக்கு கிடைத்த முடிவுகளே சாட்சி.
+
+...
+
+[Data](articles/6144105b.json)
+
+---
+
+### இலங்­கையை வடி­வ­மைக்கும் சீனா
+
+*2025-08-10 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/222222) · `ta`
+
+இப்போதைய தேசிய மக்கள் சக்தி அரசாங்கத்தை பின்னால் இருந்து இயக்குவது ரில்வின் சில்வா என்பது யாவரும் அறிந்த விடயம்.அவரை சீனா பின்னாலிருந்து இயக்குகிறது என்றால், இந்தியா, அமெரிக்கா போன்ற நாடுகள் இந்த விடயம் குறித்து அதிகம் சிந்திக்காமல் இருக்க முடியாது. ஏனென்றால், தெற்காசியாவில்- இந்திய பெருங்கடலின் கேந்திர முக்கியத்துவம் வாய்ந்த இடத்தில்,  சீனாவுக்கு சார்பான,  சீனாவை ஒத்த, ஒரு ஆட்சி உருவாவதை இந்த நாடுகள் நிச்சயம் விரும்பாது.
+
+◼️
+
+[Data](articles/635ba892.json)
+
+---
+
 ### ලන්ඩන් හි රැලියකට සහභාගී වූ 474ක් අත්අඩංගුවට
 
 *2025-08-10 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213226) · `si`
@@ -139,6 +261,54 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/27d0c179.json)
+
+---
+
+### களுத்துறையில் 1.5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெரோயினுடன் ஒருவர் கைது
+
+*2025-08-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222230) · `ta`
+
+களுத்துறை மற்றும் அதனை அண்டிய பகுதிகளில் ஈஸி கேஷ் (eZ Cash) முறை ஊடாக ஹெரோயின் கடத்தல் நடவடிக்கையில் ஈடுபட்டுவந்த ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த உறுப்பினரின் நண்பர் ஒருவர் சுமார் 1.5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெரோயினுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+களுத்துறை வலய குற்றப்பிரிவில் இணைக்கப்பட்ட குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளுக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் இந்த கைது மேற்கொள்ளப்பட்டுள்ளது.
+
+ஆரம்ப கட்ட விசாரணைகளில் அவர் களுத்துறை, பாணந்துறை, பயாகல, பேருவளை, மற்றும் மத்துகம உள்ளிட்ட பல பகுதிகளுக்கு ஹெரோயினை மொத்தமாக கொண்டு சென்று, ஈஸி கேஷ் முறை ஊடாக பணப்பரிவர்த்தனைகளை மேற்கொண்டு வந்துள்ளதாக தெரியவந்துள்ளது.
+
+கைது செய்யப்பட்ட நபர் களுத்துறை, பலதொடாவை பகுதியில் வசிக்கும் 41 வயதுடையவர் ஆவார்.
+
+சந்தேகநபர் ஓட்டி வந்த முச்சக்கர வண்டியையும், மோசடிக்கு பயன்படுத்திய கையடக்கத் தொலைபேசியையும் களுத்துறை குற்றத்தடுப்பு பிரிவு பொலிஸார் கைப்பற்றியுள்ளனர்
+
+...
+
+[Data](articles/33c51e31.json)
+
+---
+
+### Man arrested in Wellawatte with Rs. 3.5 million worth of e-cigarettes
+
+*2025-08-10 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111332/man-arrested-in-wellawatte-with-rs-35-million-worth-of-e-cigarettes) · `en`
+
+An individual has been arrested with a stock of e-cigarettes, valued at approximately Rs. 3.5 million, which are banned for use in the country, according to the Wellawatte Police.
+
+Based on a tip-off received by the Wellawatte Police regarding the secret sale of e-cigarettes at a shop selling perfume and chocolates, the location was raided and the illegal stock was discovered.
+
+Interrogations revealed that the suspect had smuggled the e-cigarettes into the country by concealing them within perfume and chocolate imports. He had then been selling them to individuals at prices ranging from Rs. 8,000 to Rs. 10,000 per unit, police added.
+
+◼️
+
+[Data](articles/1eeea517.json)
+
+---
+
+### வரிக்­கு­றைப்பு வெற்­றியும் சவாலும்
+
+*2025-08-10 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222220) · `ta`
+
+இலங்கைப் பொருட்­க­ளுக்­கான வரியை, 20 சத­வீ­த­மாக குறைப்­ப­தற்கு,  அமெ­ரிக்க ஜனா­தி­பதி டொனால்ட் ட்ரம்ப்  எடுத்­தி­ருக்கும் முடிவு,  ஆச்­ச­ரி­யத்தை ஏற்­ப­டுத்­தி­யி­ருக்­கி­றது.ஏனென்றால்  30 சத­வீத வரியை குறைப்­ப­தற்கு  அமெ­ரிக்க அதி­கா­ரிகள் கடைசி நேரம் வரை, தயா­ராக இருக்­க­வில்லை. கடைசி இரண்டு மணி நேரத்­திற்குள் தான், பேச்­சுக்­களின் போக்கு மாறி­ய­தாக தக­வல்கள் கூறு­கின்­றன.இந்த இணக்­கப்­பாட்டின் மூலம், இலங்கைப் பொருட்கள் தடை­யின்றி அமெ­ரிக்க சந்­தையை அடையும் வாய்ப்பு உரு­வா­கி­யி­ருக்­கி­றது.டொனால்ட் ட்ரம்பின் வரி வீதத்தை விட அது விதிக்­கப்­பட்ட முறையே சிக்­க­லா­னது. அது நாட்­டுக்கு நாடு வேறு­பட்­ட­தாக இருந்­தது.
+
+◼️
+
+[Data](articles/cd840323.json)
 
 ---
 
@@ -179,6 +349,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2aca9a2f.json)
+
+---
+
+### Maldives sees record 108 foreign investments in 1 year: Minister
+
+*2025-08-10 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111331/maldives-sees-record-108-foreign-investments-in-1-year-minister) · `en`
+
+The Maldivian government has attracted 108 foreign investments in about one year, a marked improvement from previous years, state-run PSM News reported on Saturday, quoting a senior minister.
+
+Minister of Economic Development and Trade Mohamed Saeed said that between 2013 and 2018, which was previously considered the best period for investments, there were on average 81 foreign investments per year. However, since President Mohamed Muizzu took office, there have been 108 foreign investments in around one year, he said.
+
+He said the current government has hosted business forums in half a dozen countries. These forums have directly contributed to an uptick of investment queries and registered investments in the Maldives, he said.
+
+Saeed said the government puts a lot of effort into creating an investor-friendly environment. The Foreign Investment Act has been revised after 45 years, putting the investment frameworks in line with international norms.
+
+◼️
+
+[Data](articles/efaa21cd.json)
 
 ---
 
@@ -255,6 +443,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a1a9d8b9.json)
+
+---
+
+### Governor General of Australia Samantha Mostyn concludes official visit to Sri Lanka
+
+*2025-08-10 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111330/governor-general-of-australia-samantha-mostyn-concludes-official-visit-to-sri-lanka) · `en`
+
+The Governor General of Australia Samantha Joy Mostyn and her delegation who were on an official visit to Sri Lanka, departed the island, from the Bandaranaike International Airport (BIA) in Katunayake, this morning (10).
+
+During the visit, Governor General Mostyn met with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya for bilateral discussions.
+
+These discussions focused on further strengthening bilateral cooperation between Australia and Sri Lanka, and exploring opportunities to expand areas of mutual benefit and collaboration between the two countries.
+
+During her stay, Governor General of Australia Mostyn also toured several areas across the country and observed a number of Australian-supported projects in Bandaragama, Mirissa, and Weligama.
+
+Minister of Science and Technology Chrishantha Abeysena and several officials from the Ministry of Foreign Affairs were present at the airport to see off the delegation.
+
+◼️
+
+[Data](articles/055c69b2.json)
 
 ---
 
@@ -1557,221 +1765,5 @@ Donald J. Trump did not just confront this system; he exposed it. His presidency
 ◼️
 
 [Data](articles/b823a331.json)
-
----
-
-### GMOA, Sanasa Insurance renew strategic partnership for third year
-
-*2025-08-09 19:49:00* · [`islandlk`](http://island.lk/gmoa-sanasa-insurance-renew-strategic-partnership-for-third-year/) · `en`
-
-The Government Medical Officers’ Association (GMOA) and Sanasa General Insurance Company PLC (SGIC) have renewed their strategic Memorandum of Understanding (MoU) for the third consecutive year, reaffirming SGIC’s role as the preferred general insurance provider for medical professionals.
-
-The agreement, signed last week by representatives of both organisations, acknowledges SGIC’s consistent service excellence and its commitment to delivering customised insurance solutions for doctors. Over the past two years, SGIC has provided GMOA members with comprehensive coverage and exceptional customer service.
-
-Under the renewed MoU, SGIC continues to offer exclusive motor insurance packages with specially discounted premiums tailored for doctors.
-
-Senaro Motor Company honoured at National Business Excellence Awards 2025
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/3e3bcafc.json)
-
----
-
-### Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
-
-*2025-08-09 19:48:00* · [`islandlk`](http://island.lk/minasro-college-strengthens-global-ties-in-education-principal-attends-special-training-in-malaysia/) · `en`
-
-The Principal of Minasro College, Pushpa Hettiarachchi, recently attended a training programme on Psychology and Counselling held at Binary University and Lincoln University College in Malaysia. The programme took place from 25 to 30 June 2025 and focused on improving practical knowledge in student mental health and counselling approaches in school settings. Hettiarachchi, who holds a Diploma in Psychology and Counselling from LPEC Campus in partnership with Binary University, joined the international training to strengthen her expertise and bring new insights to the school’s approach to student support. The experience is expected to help further develop the school’s efforts in integrating emotional wellbeing into daily and practical everyday education.
-
-Senaro Motor Company honoured at National Business Excellence Awards 2025
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/b5196710.json)
-
----
-
-### Iresha Food Products honoured at SLIM SME Development Awards
-
-*2025-08-09 19:46:00* · [`islandlk`](http://island.lk/iresha-food-products-honoured-at-slim-sme-development-awards/) · `en`
-
-Iresha Food Products Pvt. Ltd. received the Silver Award in the FMCG Category at the SLIM SME Development Awards 2024, organised by the Sri Lanka Institute of Marketing. Chairman Lalith Gamage received the award at a recent ceremony held in Colombo. Founded in 1980, Iresha Food Products has built a solid reputation for producing a wide range of food items trusted by consumers in Sri Lanka and abroad. From processed spices and flour to noodles, papadam, and tea, the company supplies both bulk and value-added products to meet the needs of wholesale buyers and international markets.
-
-Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/105a9004.json)
-
----
-
-### Supreme Entrepreneur Award presented for outstanding leadership in education
-
-*2025-08-09 19:45:00* · [`islandlk`](http://island.lk/supreme-entrepreneur-award-presented-for-outstanding-leadership-in-education/) · `en`
-
-Hansani Nisansala Weerakoon, Managing Director of Nations HR Academy (NHRA) Pvt. Ltd., was recently honoured with the Supreme Entrepreneur Award for Leadership in Advancing Educational and Learning Solutions at the Entro Queen Excellence – Leading Lady in Business Awards 2025. The award ceremony, organised by the LMN Business Solutions Group, took place at the Kingsbury Hotel in Colombo.
-
-Adidas accused of cultural appropriation by Mexico over new footwear design
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6827e8cc.json)
-
----
-
-### From Success To Starvation: Sri Lanka Abandoned Its Richness For Greed & Political Fantasy
-
-*2025-08-09 19:43:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-success-to-starvation-sri-lanka-abandoned-its-richness-for-greed-political-fantasy/) · `en`
-
-...
-
-[Data](articles/0f1d64c1.json)
-
----
-
-### Why The Government Cannot Lower The Cost Of Living In Sri Lanka
-
-*2025-08-09 19:26:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-the-government-cannot-lower-the-cost-of-living-in-sri-lanka/) · `en`
-
-This paper, divided into two parts, seeks to answer two questions: (i) why the government cannot lower the cost of living, and (ii) if so, how it might do so.
-
-...
-
-[Data](articles/86a6fa0a.json)
-
----
-
-### People panic and flee after 3 people injured in Times Square shooting
-
-*2025-08-09 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111310/people-panic-and-flee-after-3-people-injured-in-times-square-shooting) · `en`
-
-Three people were wounded during a shooting at New York City’s iconic Times Square, the New York Police Department said Saturday.
-
-One person was held in custody and being questioned over the shooting, the police said. No charges have been pressed yet.
-
-Video on social media showed people running away from the scene, police surrounding a vehicle and attending to the wounded lying on the ground. Several have been hospitalized, but their injuries are not life-threatening, the police said.
-
-The shooting took place at 1:20 a.m. No details have been released so far on how it unfolded.
-
-New York City has seen a remarkable drop in gun violence this year. Through Aug. 3, it has seen its fewest shootings in decades, down 23% so far since last year.
-
-◼️
-
-[Data](articles/0263f17f.json)
-
----
-
-### ජනපති මල්වතු, අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
-
-*2025-08-09 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213205) · `si`
-
-මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ වාර්ෂික ඇසළ පෙරහැර මංගල්‍යයේ කටයුතු සඳහා සහභාගිවීමට මහනුවරට පැමිණ සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (09) පස්වරුවේ මල්වතු සහ අස්ගිරි පාර්ශ්වයේ මහා නා හිමිපාණන් වහන්සේලා බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
-
-පළමුව මල්වතු මහා විහාරය වෙත පැමිණි ජනාධිපතිවරයා මල්වතු මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නා හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගනිමින් කෙටි පිළිසඳරක නිරත විය.
-
-අනතුරුව අස්ගිරි මහා විහාරය වෙත පැමිණි ජනාධිපති අනුර කුමාර දිසානායක මහතා අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නා හිමිපාණන් වහන්සේගේද සුව දුක් විමසමින් කෙටි පිළිසඳරක නිරත විය.
-
-◼️
-
-[Data](articles/a9693974.json)
-
----
-
-### UAE පරදා ශ්‍රී ලංකා රග්බි යෞවනයන්ට තියුණු ජයක්
-
-*2025-08-09 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213204) · `si`
-
-වයස අවුරුදු 20න් පහළ ආසියානු සත් සාමාජික රග්බි තරගාවලියේ අද (09) පැවැති එක්සත් අරාබි එමීර් (UAE) රාජ්‍යයට එරෙහි තරගයද ලකුණු 26-24ක් ලෙස තියුණු ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
-
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම මූලික වටයේ ක්‍රීඩා කළ සියලුම තරග ජයගෙන අපරාජිතව A කාණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ පෙරමුණ අත්පත් කරගෙන සිටියි.
-
-අද පැවති පළමු තරගයෙන් ශ්‍රී ලංකා කණ්ඩායම හොංකොං ලකුණු 19-24ක් ලෙස පරාජය කළේය.
-
-ඉන් අනතුරුව සත්කාරක ඉන්දීය කණ්ඩායමද ලකුණු 24-05ක් ලෙස පහසුවෙන් පරාජය කළේය.
-
-◼️
-
-[Data](articles/bc3a94fe.json)
-
----
-
-### முல்லைத்தீவில் இனப்படுகொலையில் ஈடுபட்ட இராணுவத்தினரே பக்கத்து வீடுகளில் முகாம்களில் தங்கியுள்ளனர்.  இராணுவம் தொடர்ந்தும் அதே இனப்படுகொலை வெறியில் இருக்கின்ற வரைக்கும், எந்தவொரு தமிழ் மக்களிற்கும் பாதுகாப்பு இருக்கப்போவதில்லை- கஜேந்திரகுமார்
-
-*2025-08-09 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222181) · `ta`
-
-இராணுவம் தொடர்ந்தும் அதே இனப்படுகொலை வெறியில் இருக்கின்ற வரைக்கும்,முல்லைத்தீவில் - வடக்குகிழக்கில் இருக்கின்ற எந்தவொரு தமிழ் மக்களிற்கும் பாதுகாப்பு இருக்கப்போவதில்லை என தமிழ்தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் செய்தியாளர் மாநாட்டில் தெரிவித்துள்ளார்
-
-எங்களிற்கு கிடைத்த தகவலின் படி இராணுவத்தால் மேற்கொள்ளப்பட்ட கொலை. அவ்வாறே எங்களிற்கு தகவல் கிடைத்துள்ளது.
-
-அவர் முகாமிற்கு சென்ற பிறகுதான் அவரை கொலை செய்துதான் அவரை கொலை செய்து குளத்தில் போட்டிருக்கின்றார்கள் என அங்கிருக்ககூடியவர்கள் சொல்லியிருக்கின்றார்கள்.
-
-ஆட்சி மாற்றத்தின் பின்னரும் வடக்குகிழக்கில் குறிப்பாக முல்லைத்தீவில்,ஒன்றிற்கு இரண்டு என்ற அடிப்படையில்தான் இராணுவத்தினர் காணப்படுகின்றனர்.
-
-ஒரு இராணுவசிப்பாய் இரண்டு பொதுமக்கள் என்ற அடிப்படையில்தான் இராணுவத்தினர் நிலை கொண்டுள்ளனர்.அங்கு கொலை நடந்தால் கூட இராணுவத்திற்கு தெரியாமல் நடக்க முடியாத நிலைதான் அங்கு காணப்படுகின்றது.
-
-...
-
-[Data](articles/6b5d5a23.json)
-
----
-
-### මෙරට පෙනහළු පිළිකා ශීඝ්‍ර වර්ධනයක්
-
-*2025-08-09 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213203) · `si`
-
-මෙරට පෙනහළු පිළිකා ශීඝ්‍ර ලෙස වර්ධනය වීමක් පෙන්නුම් කරන බව වැලිසර ජාතික ළය රෝහලෙහි විශේෂඥ වෛද්‍යවරුන් පෙන්වා දී තිබේ.
-
-පසුගියදා පැවැති මාධ්‍ය සාකච්ඡාවකට එක්වෙමින් ඔවුන් සඳහන් කරනුයේ වසරකට පෙනහළු රෝගීන් 2,000 - 3,000ත් අතර ප්‍රමාණයක් වාර්තා වන බවය.
-
-මෙහිදී අදහස් දක්වමින් ශ්වසන රෝග පිළිබඳ විශේෂඥ වෛද්‍ය සමන් ඉද්දමල්ගොඩ මහතා පැවසුවේ පිරිමි පුද්ගලයින් අතරේ ගත් විට දෙවැනි වැඩිම පිළිකාව බවට පත්ව ඇත්තේද මෙම පෙනහළු පිළිකා බවය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ශ්වසන රෝග පිළිබඳ විශේෂඥ වෛද්‍ය සමන් ඉද්දමල්ගොඩ මහතා,
-
-"දැනට ලංකාවේ පිළිකා රෝගීන් ගත්තාම පිරිමි පුද්ගලයින්ගේ දෙවැනියට වැඩිම පිළිකාව පෙනහළු පිළිකාව.  ඒ වගේම 2021 වසරේ සිට දත්ත සලකළා ගත්තාම ඔවුන්ගේ පළවෙනි පිළිකා 10 අතරට පෙනහළු පිළිකාව වාර්තා වෙනවා. පසුගිය දත්ත ගත්තාම කාන්තාවන්ගේ සහ එහි පෙහළු පිළිකා වර්ධනයක් අපි දකිනවා. පසුගිය අවුරුදු 5-10 අතර කාලය තුළ පෙනහළු පිළිකාව ලංකාව තුළ වර්ධනයක් පෙන්නුම් කරනවා. මේ වර්ධනය පිරිමි පුද්ගලයින් සහ කාන්තාවන් දෙපාර්ශ්වයේම වාර්තා වෙනවා.
-
-...
-
-[Data](articles/033bb575.json)
-
----
-
-### “I, as the Acting President,  made the impugned proclamation to uphold the powers and privileges of Parliament to enable the Parliament to sit on July 20, 2022, to permit the election of the President. These facts were known to the entire country.”- Former President Ranil Wickremesinghe
-
-*2025-08-09 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86264) · `en`
-
-In Sathkunanathan v. Attorney General and related cases, the Supreme Court (Fernando CJ and Kodagoda J) held that the Proclamation of Emergency issued on July 17, 2022, by me as Acting President infringed the petitioners’ Fundamental Rights. Concurrently, Obeyesekere J held that the fundamental rights of the petitioners guaranteed by Article 12(1) of the Constitution have not been impugned by the making of the said Proclamation. This judgment raises significant questions on the relationship between emergency powers, fundamental rights and Parliament’s powers (including its privileges). Given the importance of this case and in light of certain observations made by Counsel during the proceedings, it is appropriate to clarify the rationale, context and constitutional basis for a decision taken during a grave period in post-Independent Sri Lanka.
-
-...
-
-[Data](articles/7e22ddea.json)
-
----
-
-### President joins national celebration of World Indigenous Peoples’ Day in Dambana
-
-*2025-08-09 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111309/president-joins-national-celebration-of-world-indigenous-peoples-day-in-dambana) · `en`
-
-The national celebration to mark the International Day of the World’s Indigenous Peoples was held this morning (09) at the Indigenous Museum premises in Dambana under the patronage of President Anura Kumara Dissanayake.
-
-Sri Lanka’s foremost indigenous leader, Vishwa Keerthi Vanaspathi Uruwarige Vannila Aththo, initiated the tradition of celebrating World Indigenous Peoples’ Day in Sri Lanka following his participation in the Indigenous Summit held in Geneva in 1996. Accordingly, the first national celebration of Indigenous Peoples’ Day in Sri Lanka was held in 1999 at the Viharamahadevi Park in Colombo.
-
-This year’s celebration, jointly organised by various public and private institutions, was marked with vibrant cultural events unique to the indigenous community, including the traditional ‘Kiri Koraha’ ritual performed to invoke blessings for peace and prosperity, the PMD reported.
-
-...
-
-[Data](articles/f790b458.json)
 
 ---

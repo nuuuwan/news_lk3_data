@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 12:25:35**
+As of **2025-08-10 12:36:59**
 
 ## Newspaper Stats
 
-*Scraped **69,659** Articles*
+*Scraped **69,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ dailyftlk | 4,890
 adalk | 6,704
 adaderanalk | 8,668
 tamilmirrorlk | 10,190
-virakesarilk | 11,600
+virakesarilk | 11,602
 adaderanasinhalalk | 12,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,659 articles have been extended.
+61,973 (89.0%) of 69,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### தமிழ் அரசு நழுவ விட்ட வாய்ப்பு
+
+*2025-08-10 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/222218) · `ta`
+
+தமிழர்கள் எதிர்பார்க்கின்ற நீதி, பொறுப்புக்கூறல் என்பன உறுதி செய்யப்படும்  தீர்மானம் நிறைவேற்றப்பட்டு, சர்வதேச குற்றவியல் நீதிமன்றத்தில் இலங்கையின் பொறுப்புக்கூறல் விவகாரத்தை பாரப்படுத்தினால் தான் அது முழுமையான வெற்றி.ஜெனிவாவுக்கு அனுப்பப்பட்ட கடிதம் முக்கியமானது, அதன் உள்ளடக்கம் எவராலும் தட்டிக் கழிக்க முடியாதது.  அவ்வாறான ஒரு கடிதத்தில் ஒப்பமிட மறுத்ததன் மூலம், தமிழரசுக் கட்சி தனது சுயநல அரசியலை வெளிப்படுத்தியிருக்கிறது.
+
+◼️
+
+[Data](articles/0ca7b128.json)
+
+---
+
+### தப்பியோட முயன்ற ‘வலஸ் கட்டா’ காயமடைந்து வைத்தியசாலையில் அனுமதி
+
+*2025-08-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222221) · `ta`
+
+போதைப்பொருள் கும்பலைச் சேர்ந்த கெஹல்பத்தர பத்மேவின் நெருங்கிய நண்பரான திலின சம்பத் எனப்படும் 'வலஸ் கட்டா' பொலிஸ் காவலில் இருந்து தப்பியோட முயன்ற போது, இரண்டு கால்களிலும் கை ஒன்றிலும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+அவர் தற்போது 90 நாள் தடுப்புக்காவல் உத்தரவின் கீழ் தடுத்து வைக்கப்பட்டு, மேற்கு மாகாண வடக்கு குற்றப்பிரிவால் விசாரணை செய்யப்பட்டு வருகிறார்.
+
+இந்நிலையில், நேற்று சனிக்கிழமை (09) இரவு 9:15 மணியளவில், சந்தேகநபர் மலசலக்கூடத்தை பயன்படுத்த வேண்டும் என அதிகாரிகளிடம் தெரிவித்துள்ளார். அதன்படி, அவரது கைவிலங்குகளை கழட்டிய பின்னர் நான்கு அதிகாரிகள் அவரை அழைத்துச் சென்றுள்ளனர்.
+
+மலசலக்கூடத்துக்குச் செல்லும் வழியில், வலஸ் கட்டா அதிகாரிகளைத் தாக்கி கட்டிடத்தின் மூன்றாவது மாடியில் இருந்து கீழே குதித்துள்ளார்.
+
+இதன்போது,  அவரது இரண்டு கால்களும் முறிந்துள்ளன, மேலும் அவரது கை ஒன்றின் முழங்கை உடைந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் தற்போது கொழும்பு தேசிய வைத்தியசாலையில் பலத்த பொலிஸ் பாதுகாப்பில் சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/e4bbbcc0.json)
+
+---
 
 ### අතුරුදන්ව සිටි තිදරු පියාගේ මළ සිරුර ජලාශයකින් හමුවෙයි
 
@@ -1739,49 +1773,5 @@ Kordylewski Cloud at the Lagrange point of the Sun-Moon-Earth system
 ...
 
 [Data](articles/3e607133.json)
-
----
-
-### Bus crash kills 25 people returning from funeral in Kenya
-
-*2025-08-09 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111307/bus-crash-kills-25-people-returning-from-funeral-in-kenya) · `en`
-
-A bus carrying mourners from a funeral has crashed in western Kenya, killing 25 people, local authorities say.
-
-The driver lost control, veered off the road and overturned into a ditch along the Kisumu-Kakamega Highway on Friday afternoon, a police report seen by the BBC says. This area is notorious for many deadly accidents.
-
-Police said 10 women, 10 men and one girl died at the scene, with 20 passengers injured, five of them seriously. Four people later died in hospital, officials said.
-
-The passengers were returning from a burial ground and are all believed to be from one family.
-
-The vehicle was a secondary school bus, but there were no students on board as it was being used for the funeral transport.
-
-The bus was coming from a burial ceremony at Nyahera and going to Nyakach, a distance of about 62 km (38.5 miles).
-
-Kenya’s Ministry of Health made a call for an “urgent blood drive” to help survivors and extended its “condolences to the bereaved”.
-
-...
-
-[Data](articles/8d4a3a58.json)
-
----
-
-### ප්‍රමිතිය තහවුරු නොකළ ගෑස් උඳුන් තොගයක් තිබූ ආයතනයක් වටලයි
-
-*2025-08-09 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213199) · `si`
-
-ආනයනික ලෙස සදහන් කරමින් මෙරට එකලස් කළ ප්‍රමිතිය තහවරු නොකළ ගෑස් උදුන් තොගයක් පාරිභෝගික අධිකාරිය විසින් සිය භාරයට ගෙන තිබේ.
-
-කොටස් ලෙස ආනයනය කර මෙරටදී එකලස් කර විදේශ රටක නිෂ්පාදිත ලෙස සඳහන් කරමින් මෙම ගැසී උඳුන් තොගය වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර ඇත.
-
-ඒ අනුව පාරිභෝගික අධිකාරියට ලැබුණු තොරතුරක් මත එලෙස වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර තිබූ ගෑස් උඳුන් 3,000ක තොගයක් ඇතුළු භාණ්ඩ රැසක් සමන්විත ආයතනයක් පසුගිය 07 වැනිදා ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේදී වටලා තිබේ.
-
-අදාළ භාණ්ඩ කොටස් ලෙස ආනයනය කර මෙරටදී එකලස් කරන බව හා ඊට අවශ්‍ය තවත් කොටස් කිහිපයක් මෙරට විවිධ පුද්ගලයින්ගෙන් ද මිලදී ගන්නා බව එහිදී පාරිභෝගික අධිකාරියේ නිලධාරීන්ට පවසා තිබුනද එම කරුණු සනාථ කිරීමට කිසිදු ලේඛනයක් අදාළ ආයතනය විසින් එම අවස්ථාවේදී නිලධාරීන්ට ඉදිරිපත් කිරීමට අපොහොසත් වී ඇත.
-
-එමෙන්ම මෙහිදී පාරිභෝගික අධිකාරියේ නිලධාරීන්ට අනාවරණය වී ඇත්තේ අදාළ ගෑස් උඳුන් බහාලන ඇසුරුම් සහ ඊට අදාළ ලේඛනද දේශීයව සකස් කර මුද්‍රණය කරන බවය.
-
-...
-
-[Data](articles/eab93880.json)
 
 ---

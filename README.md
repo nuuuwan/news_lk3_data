@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 13:06:17**
+As of **2025-08-10 13:17:33**
 
 ## Newspaper Stats
 
-*Scraped **69,663** Articles*
+*Scraped **69,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,704
 adaderanalk | 8,668
 tamilmirrorlk | 10,191
 virakesarilk | 11,602
-adaderanasinhalalk | 12,013
+adaderanasinhalalk | 12,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,663 articles have been extended.
+61,973 (89.0%) of 69,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ලන්ඩන් හි රැලියකට සහභාගී වූ 474ක් අත්අඩංගුවට
+
+*2025-08-10 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213226) · `si`
+
+බ්‍රිතාන්‍ය තුළ තහනම් ත්‍රස්ත සංවිධානයක් ලෙස නම්කර ඇති පැලස්ටයින් ඇක්ෂන් ගෘෘප් නම් කණ්ඩායමට සහාය පලකිරීම සඳහා ලන්ඩන් නුවර පැවති රැලියකට සහභාගී වූ 470කට අධික පිරිසක් එරට පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එරට පවතින නීතිය අනුව එම සංවිධානයේ සාමාජිකත්වය ගැනීම හෝ සහාය පලකිරිම අපරාධමය වරදක් වන අතර නීතිය උල්ලංඝනය කරන්නන්ට වසර 14ක් දක්වා සිර දඬුවම් නියම කිරීමට ද ප්‍රතිපාදන පවතියි.
+
+කෙසේ වෙතත් එරට පොලීසිය පවසන්නේ පසුගිය වසර 10 තුළ ලන්ඩන් පොලිසිය එක් දිනකදී වැඩිම පිරිසක් අත්අඩංගුවට ගත් අවස්ථාව මෙය වන බවය.
+
+◼️
+
+[Data](articles/27d0c179.json)
+
+---
 
 ### நியூசிலாந்தில்  வேலைவாய்ப்புகள்
 
@@ -1757,19 +1773,5 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 ...
 
 [Data](articles/a34d1fbb.json)
-
----
-
-### INTELLIGENT DUST CLOUDS IN THE COSMOS?
-
-*2025-08-09 16:50:00* · [`islandlk`](http://island.lk/intelligent-dust-clouds-in-the-cosmos/) · `en`
-
-Fred Hoyle’s classic science fiction novel “The Black Cloud” is story that is set in the late 1960s and deals with the societal response to the discovery near to our planet of a vast, cloud of gas and dust that seemed to be approaching the Earth. The story is based on the idea that such a cloud of cosmic gas and dust, innocuous as it appears, could be endowed with an intrinsic intelligence that might be capable of threatening our existence and even the existence of all life on the Earth.
-
-Kordylewski Cloud at the Lagrange point of the Sun-Moon-Earth system
-
-...
-
-[Data](articles/b0caffdb.json)
 
 ---

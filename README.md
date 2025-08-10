@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 23:50:01**
+As of **2025-08-11 00:07:59**
 
 ## Newspaper Stats
 
@@ -792,7 +792,7 @@ Initial information indicates that a bus collided head-on with a truck transport
 
 ---
 
-### Sri Lanka – Israel, Tourism & Impunity
+### Sri Lanka – Israel: Tourism & Impunity
 
 *2025-08-10 15:37:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-israel-tourism-impunity/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 10:31:54**
+As of **2025-08-10 10:51:19**
 
 ## Newspaper Stats
 
-*Scraped **69,614** Articles*
+*Scraped **69,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,701
-adaderanalk | 8,652
-tamilmirrorlk | 10,184
+adalk | 6,702
+adaderanalk | 8,661
+tamilmirrorlk | 10,186
 virakesarilk | 11,589
-adaderanasinhalalk | 12,004
+adaderanasinhalalk | 12,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,614 articles have been extended.
+61,973 (89.0%) of 69,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### லொஹான் ரத்வத்த மருத்துவமனையில் அனுமதி
+
+*2025-08-10 10:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-மருத்துவமனையில்-அனுமதி/175-362617) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த, கொழும்பில் உள்ள தனியார் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+
+இதன்படி, அறுவை சிகிச்சைக்குப் பிறகு அவர் தற்போது கொழும்பில் உள்ள ஒரு தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வருவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/39f7b57d.json)
+
+---
+
+### ගාල්ල ධීවර වරායේ ධීවර යාත්‍රා කිහිපයක ගින්නක්
+
+*2025-08-10 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213218) · `si`
+
+ගාල්ල ධීවර වරායේ භාවිතයට නොගන්නා ධීවර යාත්‍රා කිහිපයක ගින්නක් හටගෙන තිබේ.
+
+ගාල්ල මහ නගර සභාවේ ගිනි නිවීමේ ඒකකය, නාවික හමුදාව සහ ධීවර ප්‍රජාව එක්ම මේවන විට ගින්න මැඩ පවත්වා ඇත.
+
+◼️
+
+[Data](articles/f7c58d1c.json)
+
+---
+
+### கொழும்பின் ஆபத்தான் பகுதிகள் கண்டுபிடிப்பு
+
+*2025-08-10 10:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-ஆபத்தான்-பகுதிகள்-கண்டுபிடிப்பு/175-362615) · `ta`
+
+கொழும்பில் போதைப்பொருள் பாவனை அதிகமுள்ள இடங்கள் அடையாளம் காணப்பட்டுள்ளதாகத் தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டுச் சபை தெரிவித்துள்ளது.
+
+அதன்படி, இராஜகிரிய - ஒபேசேகரபுர, பண்டாரநாயக்கபுர, வெல்லம்பிட்டி - கொலன்னாவ, பொரளை - வனாத்த முல்ல, மொரட்டுவை - லுனாவ, முகத்துவராம் - மட்டக்குளி ஆகிய பகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+பொலிஸ் துறை, பொலிஸ் விசேட அதிரடிப்படையினர் பல அரச நிறுவனங்கள் மற்றும் கிளீன் ஸ்ரீலங்கா ஆகியவற்றின் பங்களிப்புடன் இந்த நடவடிக்கை முன்னெடுக்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/d1601110.json)
+
+---
+
+### 2025 මේ දක්වා කාලය තුළ සංචාරක පැමිණීම මිලියන 1.4 ඉක්මවයි
+
+*2025-08-10 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213217) · `si`
+
+2025 වසරේ මේ දක්වා සංචාරකයින් 1,408,335ක් ශ්‍රී ලංකාවට පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+එම අධිකාරිය සඳහන් කර ඇත්තේ මෙම සංචාරක පැමිණීම 2024 වසරේ එම කාලයට සාපේක්ෂව සැලකිය යුතු වැඩිවීමක් වන බවය.
+
+ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය මගින් නිකුත් කර ඇති නවතම සංඛ්‍යා ලේඛණවලට අනුව වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇත්තේ ඉන්දියාවෙන් වන අතර එහි අගය 286,085කි.
+
+එමෙන්ම මෙම වසරේදී එක්සත් රාජධානියෙන් පුද්ගලයින් 135,722 ක් සහ රුසියාවෙන් 116,257 ක්ද මෙරට පැමිණ තිබේ.
+
+සංචාරක සංවර්ධන අධිකාරියේ දත්ත අනුව අගොස්තු 01 වැනි දින සිට 05 වැනි දින දක්වා  සංචාරකයින් 40,047 දෙනෙකු මෙරටට පැමිණ තිබේ.
+
+එමෙන්ම එක්සත් ජනපදයෙන් 4,345ක් සහ චීනයෙන් 3,090ක් ද ප්‍රංශයෙන් 3,049 සහ ඉතාලියෙන් 2,739ක්ද පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/dc9cec4a.json)
+
+---
 
 ### சில பகுதிகளில் நீர் விநியோகத்தடை
 
@@ -62,7 +128,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ගාසා නගරය අත්පත් කර ගැනීමේ තිරණයට විරෝධය පා ඊශ්‍රායලයේ විරෝධතා
+### ගාසා නගරය අත්පත් කර ගැනීමේ තීරණයට විරෝධය පා ඊශ්‍රායලයේ විරෝධතා
 
 *2025-08-10 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213216) · `si`
 
@@ -86,6 +152,62 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ex-President Ranil to make a special statement today
+
+*2025-08-10 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111323/ex-president-ranil-to-make-a-special-statement-today) · `en`
+
+Former President and Leader of the United National Party Ranil Wickremesinghe is scheduled to deliver a special statement today (10).
+
+The former President is expected to express his views on the current crisis that has emerged concerning the youth councils and associations.
+
+As a pioneer in establishing the National Youth Services Council, former President Ranil Wickremesinghe is also expected to comment on its original objectives as well as how the Council and youth-related initiatives were handled during his time in office.
+
+◼️
+
+[Data](articles/995840b5.json)
+
+---
+
+### Tourist arrivals to Sri Lanka surpass 1.4 million in 2025
+
+*2025-08-10 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111322/tourist-arrivals-to-sri-lanka-surpass-14-million-in-2025) · `en`
+
+A total of 1,408,335 tourists have arrived in Sri Lanka so far this year, marking a significant increase compared to the same period in 2024, the Sri Lanka Tourism Development Authority (SLTDA) stated.
+
+According to latest SLTDA figures, the highest number of tourists have arrived from India which totals to 286,085.
+
+Moreover, a total of 135,722 individuals from the United Kingdom and 116,257 Russian nationals have also visited the country in 2025.
+
+Meanwhile, 40,047 foreign nationals visited Sri Lanka during the first five days of August.
+
+According to the SLTDA, a total of 6,963 tourists arrived from India in August which accounts to 17.4%.
+
+Furthermore, 4,345 persons from the United Kingdom, 3,090 from China, 3,049 from France and 2,739 Italian nationals have also visited Sri Lanka so far in the month of August.
+
+◼️
+
+[Data](articles/65e75a15.json)
+
+---
+
+### 10-hour water cut in several areas of Gampaha tomorrow
+
+*2025-08-10 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111321/10-hour-water-cut-in-several-areas-of-gampaha-tomorrow) · `en`
+
+A 10-hour water cut will be imposed in several areas of the Gampaha District tomorrow (11), the National Water Supply & Drainage Board (NWSDB) announced.
+
+The water cut has been attributed to maintenance activities of the transmission pipeline running from Nittambuwa to Minuwangoda, which is part of the Gampaha–Attanagalla–Minuwangoda Integrated Water Supply Scheme.
+
+Accordingly, the water supply to Ranpokunagama, Bataliya, Attanagalla, Pasyala, and Nittambuwa will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. tomorrow, the NWSDB said.
+
+The statement issued by the NWSDB noted that the water supply will also be suspended to resident of Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla.
+
+◼️
+
+[Data](articles/aa85c49a.json)
+
+---
+
 ### හිටපු ජනපති රනිල්ගෙන් අද විශේෂ ප්‍රකාශයක්
 
 *2025-08-10 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213215) · `si`
@@ -99,6 +221,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b114af4e.json)
+
+---
+
+### “India won’t yield to threats, US not able to digest our growth”: Venkaiah Naidu
+
+*2025-08-10 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111320/india-wont-yield-to-threats-us-not-able-to-digest-our-growth-venkaiah-naidu) · `en`
+
+India will not compromise on its strategic and national interests and will continue to safeguard its energy security despite external pressure, former Vice-President M Venkaiah Naidu said on Saturday amid escalating US trade tensions.
+
+“We will safeguard energy security and we will stand firm on our strategic and national interest. No question of yielding to any threats. Threats will not work on India...,” Naidu said while addressing the valedictory session of the M S Swaminathan Centenary International Conference here.
+
+He asserted that India is “standing on its own” while remaining committed to cooperation based on “share and care” philosophy.
+
+His remarks came after US President Donald Trump further increased tariffs from 25 per cent to 50 per cent on Indian goods, labelling India as a “dead economy” despite the country’s robust growth trajectory.
+
+Naidu said India is moving fast and gaining worldwide recognition, with some countries being “envious” of the nation’s growth.
+
+...
+
+[Data](articles/acb5ce7b.json)
 
 ---
 
@@ -117,6 +259,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/74932d0b.json)
+
+---
+
+### “No staff member would exert undue influence in actions taken by Police”: Public Security Ministry
+
+*2025-08-10 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111319/no-staff-member-would-exert-undue-influence-in-any-arrests-or-actions-taken-by-police-public-security-ministry) · `en`
+
+An individual who falsely claimed to be the secretary of Minister of Public Security Ananda Wijepala has been arrested by police for making calls to the Maharagama Police.
+
+According to police, the suspect had contacted the Maharagama Police in an attempt to secure the release of an individual who had been arrested for the possession of heroin.
+
+Police stated that legal action has already been taken against the arrested suspect, and a special investigation is currently underway regarding the incident.
+
+Issuing a statement on the matter, the Ministry of Public Security clarified that neither the Minister nor any member of his staff would ever exert undue influence or intervene improperly in any arrests or actions taken by Sri Lanka Police.
+
+Furthermore, the statement emphasized that the Ministry of Public Security is actively engaged in efforts to combat drugs and organized crime, and to uphold law and order throughout the country.
+
+...
+
+[Data](articles/696016f9.json)
 
 ---
 
@@ -141,6 +303,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cc35038b.json)
+
+---
+
+### අද වහින්නේ මේ විදිහටයි
+
+*2025-08-10 07:09:57* · [`adalk`](https://www.ada.lk/breaking_news/අද-වහින්නේ-මේ-විදිහටයි/11-417810) · `si`
+
+බස්නාහිර හා සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද දිනයේදී සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එසේම උතුරු පළාතේ හා ත්‍රීකුණාමලය හා මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/9cab1fbd.json)
+
+---
+
+### Thousands rally in Tel Aviv against Israeli government’s plan to expand Gaza war
+
+*2025-08-10 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111318/thousands-rally-in-tel-aviv-against-israeli-governments-plan-to-expand-gaza-war) · `en`
+
+Thousands took to the streets in Tel Aviv on Saturday to call for an end to the war in Gaza, a day after the Israeli government vowed to expand the conflict and capture Gaza City.
+
+Demonstrators waved signs and held up pictures of hostages still being held in the Palestinian territory as they called on the government to secure their release.
+
+AFP journalists at the rally estimated the number of attendees to be in the tens of thousands, while a group representing the families of hostages said as many as 100,000 people participated.
+
+Authorities did not provide an official estimate for the size of the crowd, though it dwarfed the ones at other recent anti-war rallies.
+
+“We will end with a direct message to Prime Minister Benjamin Netanyahu: if you invade parts of Gaza and the hostages are murdered, we will pursue you in the town squares, in election campaigns and at every time and place,” Shahar Mor Zahiro, the relative of a slain hostage, told AFP.
+
+...
+
+[Data](articles/345fc341.json)
 
 ---
 
@@ -173,6 +369,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/331307d4.json)
+
+---
+
+### Kandy Esala Perahera Festival draws to a close
+
+*2025-08-10 06:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111316/kandy-esala-perahera-festival-draws-to-a-close-) · `en`
+
+The 2025 historic Kandy Esala Perahera Festival concluded yesterday (09), with the Day Perahera.
+
+The four Devale Peraheras proceeded to the Getambe Diya Kapana Thota to perform the water-cutting ceremony (Diya Kapeema) at dawn yesterday, following traditional ritual practices.
+
+After the ceremony, the Day Perahera paraded the streets of Kandy and in the afternoon concluded its sacred journey for this year.
+
+Meanwhile, the Grand Randoli Perahera of this year’s Kandy Esala Festival paraded the streets on Friday.
+
+The streets of Kandy were illuminated with colour as the final day of the Esala Randoli Perahera concluded on Friday night.
+
+Thousands gathered along the streets to witness the historical procession.
+
+This year’s Esala Festival drew to a close after the Nilames of the Satara Maha Dewalayas together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela presented the Sannasa (Scroll) to the President at the President’s House in Kandy.
+
+...
+
+[Data](articles/a8f3a4ad.json)
 
 ---
 
@@ -251,6 +471,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/20940486.json)
+
+---
+
+### Grade 5 Scholarship Exam to be held today
+
+*2025-08-10 05:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111315/grade-5-scholarship-exam-to-be-held-today) · `en`
+
+The 2025 Grade Five Scholarship Examination is scheduled to be held today (10).
+
+The Department of Examinations noted accordingly, Paper II of the scholarship exam will be held from 9:30 a.m. to 10:45 a.m., and Paper I will be held from 11:15 a.m. to 12:15 p.m.
+
+Meanwhile, the Commissioner General of Examinations, A.K.S. Indika Kumari stated that the examination will commence at 9:30 a.m., and candidates must arrive at their respective examination centres by 8:30 a.m.
+
+All candidates should be seated at respective examination halls by 9:00 a.m.
+
+The Commissioner General of Examination said in the event of any emergencies during the examination, candidates or parents can contact the hotline number 117.
+
+A special program has been implemented to address such situations promptly, she added.
+
+◼️
+
+[Data](articles/e94c65fd.json)
+
+---
+
+### Several spells of light showers expected across the country today
+
+*2025-08-10 05:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111314/several-spells-of-light-showers-expected-across-the-country-today-) · `en`
+
+Several spells of light showers will occur in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (10), the Department of Meteorology said.
+
+Showers or thundershowers may occur at a few places in the Northern province and in the Trincomalee and Batticaloa districts after 2.00 p.m., the Met. Department added.
+
+Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/11fd88e9.json)
 
 ---
 
@@ -1555,277 +1813,5 @@ Observers point out that such issues are regrettable in an era of advanced techn
 ◼️
 
 [Data](articles/c577bfe3.json)
-
----
-
-### வடக்கில் உள்ள இனப்படுகொலை இராணுவத்தை அகற்றவேண்டும் என்ற கோரிக்கையை கணக்கில் எடுக்காமல் இருப்பதன் விளைவுதான் முல்லைத்தீவு முத்தையன்கட்டு சம்பவம்- ரஜீவ்காந்
-
-*2025-08-09 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222148) · `ta`
-
-வடக்கில் உள்ள இனப்படுகொலை இராணுவத்தை அகற்றவேண்டும் என்ற கோரிக்கையை கணக்கில் எடுக்காமல் இருப்பதன் விளைவுதான் முல்லைத்தீவு முத்தையன் கட்டு சம்பவம் என மக்கள் போராட்ட முன்னணியின் ராஜ்குமார் ரஜீவ்காந் தெரிவித்துள்ளார்
-
-முல்லைத்தீவில் உள்ள முத்தையன்கட்டுப் பகுதியில் உள்ள இராணுவ முகாம் ஒன்றிற்கு தகரம் தருவதாக அழைக்கப்பட்ட ஐந்து இளைஞர்கள் நேற்று இராணுவத்தால் தாக்குதலுக்கு உள்ளானதாக செய்திகள் வந்தன. பின்னர் அதில் நால்வர் தப்பியதாகவும் ஒருவரைக் காணவில்லை எனவும் ஊர் மக்கள் தெரிவித்தனர்.
-
-இந்த கொலையை இராணுவம் செய்துள்ளதாக மக்கள் தெரிவிக்கின்றனர். தமிழ் மக்களை ஆண்டாண்டு காலமாக கொன்ற இராணுவத்தின் கொலை வெறி இன்னும் அடங்குவதாகவில்லை.
-
-வடகிழக்கில் இனப்படுகொலை இராணுவத்தை அகற்று என்ற எம் கோரிக்கையை கணக்கில் எடுக்காமல் இருப்பதன் விளைவு தான் இவை. இது ஒரு பாரதூரமான விடயம் , அந்த இடத்து இளைஞர்களுக்கான பாதுகாப்பை உடனடியாக அரசு உறுத்திப்படுத்துவதுடன் கொலைகாரர் எனக் கூறப்படும் இராணுவத்தை உடனடியாக அகற்ற வேண்டும்.
-
-◼️
-
-[Data](articles/254909f7.json)
-
----
-
-### அத்துரலிய தேரரை கைது செய்ய வலை
-
-*2025-08-09 12:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலிய-தேரரை-கைது-செய்ய-வலை/175-362586) · `ta`
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் அதுரலிய ரத்தன தேரர் வசித்து வருவதாகக் கூறப்படும் ஒபேசேகரபுர சதஹம் சேவன விகாரைக்கு அவரைக் கைது செய்வதற்காக பல பொலிஸ் குழுக்கள் சென்றன,
-
-அபே ஜன பல கட்சியின் பொதுச் செயலாளராகப் பணியாற்றிய ஒரு துறவி கடத்தப்பட்டு, தாக்கப்பட்டு, அச்சுறுத்தப்பட்டு, பின்னர் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் பதவியைப் பெற்ற சம்பவம் தொடர்பாக, முன்னாள் பாராளுமன்ற உறுப்பினர் அதுரலிய ரத்தன தேரருக்கு எதிராக கொழும்பு குற்றப்பிரிவில் புகார் அளித்திருந்தார்.
-
-குற்றப் புலனாய்வுத் துறை மற்றும் கொழும்பு குற்றப்பிரிவு உட்பட பல விசாரணைக் குழுக்கள் ஒபேசேகரபுர சதஹம் சேவன விகாரைக்குச் சென்று துறவி அதுரலிய ரத்தன தேரரை தேடியதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன
-
-◼️
-
-[Data](articles/5732da18.json)
-
----
-
-### அடுத்த ஐஜிபி யார்? ;12 கூடுகிறது அரசியலமைப்பு சபை
-
-*2025-08-09 11:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-ஐஜிபி-யார்-12-கூடுகிறது-அரசியலமைப்பு-சபை/175-362585) · `ta`
-
-அடுத்த பொலிஸ்மா அதிபர் (ஐஜிபி )பதவி குறித்து முடிவெடுப்பதற்காக அரசியலமைப்பு சபை 12 ஆம் தேதி மீண்டும் கூட உள்ளது.
-
-ஜனாதிபதி ஏற்கனவே ஐஜிபி பதவிக்கு பதில் ஐஜிபி பிரியந்த வீரசூரியவின் பெயரை அரசியலமைப்பு சபைக்கு பரிந்துரை செய்துள்ளார்.
-
-இந்தப் பெயரை பரிசீலிக்க அரசியலமைப்பு சபை வியாழக்கிழமை, 7 ஆம் திகதி கூடியது, ஆனால் இறுதி முடிவு எடுக்கப்படவில்லை.
-
-இது குறித்து நாம் விசாரித்தபோது, அரசியலமைப்பு பேரவையில்  உறுப்பினர்களின்‌ எண்ணிக்கை குறைவாக  இருந்ததால் முடிவு தாமதமானது என்று பாராளுமன்ற செய்தித் தொடர்பாளர் ஒருவர் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட தீர்மானத்தைத் தொடர்ந்து, ஐஜிபி தேசபந்து தென்னகோன் பதவியில் இருந்து ஜனாதிபதியால்  நீக்கப்பட்டார்.
-
-ஐஜிபி பதவிக்கு பதில் ஐஜிபி பிரியந்த வீரசூரியவின் பெயரை மட்டுமே ஜனாதிபதி அரசியலமைப்பு சபைக்கு முன்மொழிந்துள்ளார்.
-
-◼️
-
-[Data](articles/a6566d1d.json)
-
----
-
-### காசா நகரத்தினை முழுமையாக கைப்பற்றும் திட்டத்திற்கு உலக நாடுகள் கடும் கண்டனம் - இஸ்ரேல் நிராகரிப்பு
-
-*2025-08-09 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222146) · `ta`
-
-காசா நகரத்தினை முழுமையாக கைப்பற்றும் இஸ்ரேலின் திட்டம் உலகம் நாடுகள் வெளியிட்டுள்ள கண்டனத்தை இஸ்ரேல் நிராகரித்துள்ளது.
-
-இஸ்ரேலை கண்டித்து தடைகளை விதிக்கப்போவதாக எச்சரிக்கும் நாடுகளால் எங்கள் உறுதிப்பாட்டை குலைக்க முடியாது என பாதுகாப்பு அமைச்சர் இஸ்ரேல் ஹட்ஸ் தெரிவித்துள்ளார்.
-
-காசாவை முழுமையாக கைப்பற்றும்  இஸ்ரேலின் திட்டத்திற்கு ஐநாவும் உலக நாடுகள் பலவும் தங்கள் கண்டனத்தை வெளியிட்டுள்ளன.
-
-மோதல் மேலும் விரிவடைவது மேலும் பாரிய இடம்பெயர்வை உருவாக்கும்,மேலும் கொலைகளை மேலும் துயரத்தை அர்த்தமற்ற அழிவை இரத்தக்களறியை ஏற்படுத்தும் என ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் வோல்க்கெர் டேர்க் தெரிவித்துள்ளார்.
-
-பிரிட்டிஸ் பிரதமர் கெய்ர் ஸ்டார்மெர் இது தவறான நடவடிக்கை மேலும் இரத்தக்களறியை ஏற்படுத்தும் என குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/e20cdb88.json)
-
----
-
-### Trump announces peace deal between Azerbaijan and Armenia at White House
-
-*2025-08-09 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111302/trump-announces-peace-deal-between-azerbaijan-and-armenia-at-white-house) · `en`
-
-Azerbaijan and Armenia signed a US-brokered peace agreement on Friday (Aug 8) during a meeting with President Donald Trump, pledging to boost economic ties after decades of conflict.
-
-The deal between the South Caucasus rivals, if it holds, would be a major accomplishment for the Trump administration and could unsettle Moscow, which considers the region part of its sphere of influence.
-
-“It’s a long time – 35 years – they fought and now they’re friends, and they’re going to be friends for a long time,” Trump said at a White House signing ceremony alongside Azerbaijani President Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan.
-
-Armenia and Azerbaijan have been at odds since the late 1980s when Nagorno-Karabakh, a mountainous Azerbaijani region with a majority ethnic Armenian population, broke away with support from Armenia.
-
-Azerbaijan regained full control of the territory in 2023, prompting almost all of its 100,000 ethnic Armenian residents to flee to Armenia.
-
-...
-
-[Data](articles/8b66de04.json)
-
----
-
-### வீட்டில் தீ: 7 வயது சிறுவன் பலி
-
-*2025-08-09 11:05:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீட்டில்-தீ-7-வயது-சிறுவன்-பலி/76-362584) · `ta`
-
-பலாங்கொடை, தெஹிகஸ்தலாவை, மஹவத்த பகுதியில் உள்ள ஒரு வீட்டில் இன்று (09) அதிகாலை ஏற்பட்ட தீ விபத்தில் ஏழு வயது சிறுவன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-வீடு தீப்பிடித்ததில் தீக்காயங்களுடன் பலாங்கொடை ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்ட பின்னர் சிறுவன் உயிரிழந்தான்.
-
-◼️
-
-[Data](articles/385a8037.json)
-
----
-
-### Sri Lanka July tourism revenue rise 3.1-pct to $328mn
-
-*2025-08-09 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-july-tourism-revenue-rise-3-1-pct-to-328mn-235385/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism in July 2025 rose 3.1 percent from a year ago to 328.3 million US dollars, the central bank said quoting tourism promotion authority data.
-
-Revenue for the first seven months up to July was 2.03 billion US dollars rising 7.8 percent from a year ago.
-
-Sri Lanka’s new government has aimed at an ambitious 5 billion dollar revenue and a 3 million arrival targets this year.
-
-The island nation witnessed 3.17 billion dollar revenue in 2024, with a 53.2 percent jump compared to 2.07 billion dollars in the previous year, the data showed.
-
-The arrivals also have picked up 14.8 percent in the first seven months of 2025 compared to the same period last year with the number of foreign visitors to Sri Lanka rising to 1,368,288 in the period compared to last year’s 1,198,059.
-
-...
-
-[Data](articles/fe3786a7.json)
-
----
-
-### Sri Lanka deeply concerned over Israel decision to seize Gaza city
-
-*2025-08-09 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-deeply-concerned-over-israel-decision-to-seize-gaza-city-235404/) · `en`
-
-ECONOMYNEXT – Sri Lanka has expressed deep concern over a decision by Israel’s current administration to take-over Gaza city, as global outrage grows over the civillian population is systematically starved, shot at by the Israeli Defence Froces and hospitals destroyed to deny medical care.
-
-“Sri Lanka expresses deep concern over the decision by Israel to seize control of Gaza, which will lead to further escalation of violence and suffering of the people of Gaza,” the Foreign Ministry said in a statement.
-
-“Sri Lanka calls for an immediate ceasefire and urges all parties to resolve differences through diplomatic dialogue in order to establish sustainable peace.”
-
-Israel’s Prime Minister Benjamin Netanyahu in a new interview said they did not want to stay in Gaza city, there is global concerns that it will lead to more elimination of the civillian population and eventual driving out of people from the land.
-
-...
-
-[Data](articles/9538b528.json)
-
----
-
-### ඊශ්‍රායලයේ තීරණය ගැන ශ්‍රී ලංකාවේ දැඩි කනස්සල්ල
-
-*2025-08-09 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213191) · `si`
-
-ඊශ්‍රායලය විසින් ගාසා තීරයේ පාලනය අත්පත් කරගැනීමට ගත් තීරණය ගැන ශ්‍රී ලංකාව දැඩි කනස්සල්ල පළකරන බව නිවේදනයක් නිකුත් කරමින් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය පවසයි.
-
-එම තීරණය ගාසා තීරයේ තවදුරටත් ප්‍රචණ්ඩත්වය වර්ධනයවීමට සහ එම ප්‍රදේශයේ සිටින ජනතාවගේ දුක් වේදනා තවදුරටත් උග්‍ර කිරීමට හේතු වනු ඇති බව එහි දැක්වේ.
-
-ඒ හේතුවෙන් ශ්‍රී ලංකාව වහාම සටන් විරාමයක් ඉල්ලා සිටින බවත්, රාජ්‍ය තාන්ත්‍රික සංවාදයක් හරහා සියලු පාර්ශවයන්ට සිය මතභේදයන් විසදා ගන්නා ලෙසත්, තිරසාර සාමයක් ස්ථාපිත කිරීම සඳහා යොමුවන ලෙසත්  ද එම නිවේදනයෙන් වැඩිදුරටත් ඉල්ලා සිටියි.
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය විසින් නිකුත්කළ නිවේදනය
-
-◼️
-
-[Data](articles/c2b02751.json)
-
----
-
-### Sri Lanka expresses deep concern over Israel’s decision on Gaza
-
-*2025-08-09 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111301/sri-lanka-expresses-deep-concern-over-israels-decision-on-gaza) · `en`
-
-Sri Lanka today expressed deep concern over the decision by Israel to seize control of Gaza, which it said will lead to further escalation of violence and suffering for the people of Gaza.
-
-Sri Lanka calls for an immediate ceasefire and urges all parties to resolve their differences through diplomatic dialogue in order to establish sustainable peace, the Ministry of Foreign Affairs said in a brief statement.
-
-Yesterday (8), the Israeli security cabinet approved Prime Minister Benjamin Netanyahu’s plan to take full military control of Gaza City, according to a statement from the Prime Minister’s Office.
-
-This decision follows Netanyahu’s declaration on Thursday of his intention for a full military occupation of Gaza, prior to a cabinet meeting that extended into the night.
-
-The announced plan to take over Gaza City, located in the northern part of the Gaza territory, falls short of a full occupation of the entire Gaza Strip.
-
-...
-
-[Data](articles/6e2e4161.json)
-
----
-
-### හොංකොං පරදා ශ්‍රී ලංකාවට තියුණු ජයක්
-
-*2025-08-09 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213190) · `si`
-
-ඉන්දියාවේ දී අද (9) ආරම්භ වූ වයස අවුරුදු 20න් පහළ සත් සාමාජික ආසියානු රග්බි ශූරතාවේ හොංකොං රාජ්‍යයට එරෙහිව පැවති තරගයෙන් ලකුණු 24- 19ක් ලෙස ජය ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
-
-මෙම ජයත් සමග 'A' කාණ්ඩයෙන් තරගවදින ශ්‍රී ලංකාව එහි පෙරමුණට පැමිණියේය.
-
-ශ්‍රී ලංකාව අද දිනයේ දී තවත් තරග දෙකකට ක්‍රීඩාකරන අතර, ඉන් අනෙක් තරගය සත්කාරක ඉන්දියාවට එරෙහිව ප.ව. 12.45 ක්‍රීඩා කිරීමට නියමිතය.
-
-ඉන් අනතුරුව එක්සත් අරාබි එමීර් රාජ්‍යයට එරෙහිව ප.ව. 3.40ට ශ්‍රී ලංකාව ක්‍රීඩා කරනු ඇත.
-
-බිහාර් ප්‍රාන්තයේ රාජ්ගිර් හිදී පැවැත්මෙන මෙම තරගාවලිය හෙටින් (10) අවසන්වීමට නියමිතය.
-
-කාන්තා හා පිරිමි දෙයංශයෙන්ම පැවැත්වෙන මෙම තරගාවලියේ ශ්‍රී ලංකා පිරිමි කණ්ඩායමේ නායක ලෙස ශාහිඩ් සුම්රි කටයුතු කරන අතර, කාන්තා කණ්ඩායමට මිනෝලි ජූඩ් නායකත්වය ලබා දේ.
-
-ශ්‍රී ලංකා කාන්තා කණ්ඩායම ක්‍රීඩාකරන පළමු තරගය අද පෙ.ව. 11.05ට ආරම්භ වන අතර, එහිදී ඔවුන් චීනය සමගින් තරගවැදීමට නියමිතය.
-
-◼️
-
-[Data](articles/672f36e7.json)
-
----
-
-### Special announcement on tomorrow’s Grade 5 Scholarship Exam
-
-*2025-08-09 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111299/special-announcement-on-tomorrows-grade-5-scholarship-exam-) · `en`
-
-The 2025 Grade 5 Scholarship Examination is scheduled to be held tomorrow (10), the Department of Examinations announced.
-
-A press conference was held this morning (9) under the patronage of the Commissioner General of Examinations, A.K.S. Indika Kumari, to brief the media on the arrangements for the examination.
-
-Speaking at the event, the Commissioner General stated that the examination will commence at 9:30 a.m., and candidates must arrive at their respective examination centres by 8:30 a.m. All candidates should be seated in the examination hall by 9:00 a.m.
-
-She explained that the second question paper will be administered first, starting at 9:30 a.m. and concluding at 10:45 a.m., followed by a 30-minute break.
-
-“The first question paper will begin at 11:15 a.m. and end at 12:15 p.m., marking the conclusion of the examination,” she noted.
-
-...
-
-[Data](articles/55bbb741.json)
-
----
-
-### හෙට පැවැත්වෙන ශිෂ්‍යත්ව විභාගය ගැන විශේෂ දැනුම්දීමක්
-
-*2025-08-09 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213189) · `si`
-
-ඒ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මියගේ ප්‍රධානත්වයෙන් අද (09) පෙරවරුවේ ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වුණි.
-
-"පෙරවරු 9:30ට තමයි විභාගය ආරම්භ වෙන්නේ. නමුත් සියලුම දරුවන් තමන්ට හිමි විභාග මධ්‍යස්ථානයට පෙරවරු 8:30 වෙනවිට යන්න ඕනේ.  පෙරවරු 9 වනවිට විභාග ශාලාවේ දරුවන් අසුන් ගත යුතුයි."
-
-"දෙවෙනි ප්‍රශ්න පත්‍රය මුලින්ම දරුවන්ට ලබාදෙනවා. දෙවෙනි ප්‍රශ්න පත්‍රය ආරම්භ වන්නේ පෙරවරු 9:30ට. අවසන් වෙන්නේ 10:45ට."
-
-"පළමු ප්‍රශ්න පත්‍රය ආරම්භ වන්නේ පෙරවරු 11:15ට. මේ ප්‍රශ්න පත්‍රයට පැයක කාලයක් තියෙනවා. ඒ අනුව 12:15ට තමයි ඒ ප්‍රශ්න පත්‍රය අවසන් වෙන්නේ. ඒ අනුව සම්පූර්ණ විභාගයම අවසන් වෙන්නේ 12:15ට."
-
-"විභාගය අතරතුර යම් ආපදා තත්ත්වයන් මතු වුවහොත් ක්ෂණික ඇමතුම් 117 අංකය අමතා දැනුම්දෙන්න පුළුවන්. විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කර තිබෙනවා."
-
-දිවයින පුරා මධ්‍යස්ථාන 2,787කදී පැවැත්වෙන මෙවර විභාගය සඳහා සිසුන් තුන් ලක්ෂ 7,951 දෙනෙකු පෙනී සිටීමට නියමිත බව විභාග දෙපාර්තමේන්තුව පැවසීය.
-
-◼️
-
-[Data](articles/e9dabe4f.json)
-
----
-
-### ඇසළ පෙරහරේ දිය කැපීමේ චාරිත්‍රය ඉටුකෙරේ
-
-*2025-08-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213188) · `si`
-
-මහනුවර ඓතිහාසික ඇසළ පෙරහරේ නිමාව සනිටුහන් කරමින් සිදු කරන චාරිත්‍රය වන දිය කැපීමේ මංගල්‍යය අද (9) පෙරවරුවේ සුබ නැකැතින් සිදු කළේය.
-
-අවසන් රන්දෝලි මහා පෙරහර නිමා වී සධාතුක කරඬුව අස්ගිරිය ගෙඩිගේ රජමහා විහාරයේ තැන්පත් කර, සිව්මහා දේවාලයන්හි පෙරහර සමග  මහවැලි ගඟේ ගැටඹේ තොටුපොළේදී මෙම දිය කැපීමේ චාරිත්‍රය ඉටුකරනු ලැබීය.
-
-මෙම දිය කැපීමේ කටයුතු සිදු කරනු ලැබුවේ නාථ, විෂ්ණු, කතරගම හා පත්තිනි යන සිව්මහා දේවාලයන්හි  කපු මහතුන් විසින්ය.
-
-ඒ අනුව පෙර වර්ෂයේ දියකෑපීමේ දී ලබා ගන්නා පැන් හා ඇසළ පෙරහර වෙනුවෙන් උපයෝගී කරගත් පනස වෘක්ෂයේ (කොස් ගස) ශාඛාව මෙන්ම ඒ අවස්ථාවේදී අනෙකුත් ද්‍රව්‍යයද මෙහිදී මහවැලි ගඟේ පාකර හරිනු ලැබීය.
-
-ඉන් අනතුරුව දියවඩන නිලමේ ප්‍රධාන සිව්මහා දේවාලයන්හි බස්නායක නිලමේවරුන් විසින් සම්ප්‍රදානුකූලව පෙරහැර සංදේශය ජනාධිපතිවරයාට පිළිගැන්වීමෙන් පසු මෙවර ඇසළ මහ පෙරහර මංගල්‍ය නිල වශයෙන් නිමාවට පත්වේ.
-
-◼️
-
-[Data](articles/9b23958d.json)
 
 ---

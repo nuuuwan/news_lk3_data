@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 11:33:27**
+As of **2025-08-10 11:51:08**
 
 ## Newspaper Stats
 
-*Scraped **69,643** Articles*
+*Scraped **69,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ dailyftlk | 4,890
 adalk | 6,703
 adaderanalk | 8,664
 tamilmirrorlk | 10,187
-virakesarilk | 11,597
-adaderanasinhalalk | 12,008
+virakesarilk | 11,599
+adaderanasinhalalk | 12,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,643 articles have been extended.
+61,973 (89.0%) of 69,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### තෙදින නිල සංචාරය අවසන් කරමින් ඕස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය දිවයිනෙන් පිටව යයි
+
+*2025-08-10 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213222) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ආරාධනයකට අනුව මෙරට නිල සංචාරයක නිරත වූ සමන්තා ජෝයි මොස්ටින් (Samantha Joy Mostyn) මහත්මිය ඇතුළු දූත පිරිස අද (10) පෙවරුවේ කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් පිටත්ව ගියාය.
+
+මෙම නිල සංචාරයේදී සමන්තා ජෝයි මොස්ටින් මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරය මහත්මිය හමු වී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීය.
+
+මෙහිදී ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර ද්විපාර්ශ්වික සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සහ දෙරටේම අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා පවතින සහයෝගීතා ක්ෂේත්‍ර පුළුල් කිරීමේ අවස්ථා පිළිබඳ අවධානය යොමු විය.
+
+එසේම, සමන්තා ජෝයි මොස්ටින් මහත්මිය, දිවයිනේ රැඳී සිටි කාලය තුළ විවිධ ප්‍රදේශවල සංචාරය කිරීමටත්, බණ්ඩාරගම, මිරිස්ස සහ වැලිගම යන ප්‍රදේශවල ක්‍රියාත්මක ඕස්ට්‍රේලියාව විසින් සහාය දක්වන ව්‍යාපෘති කිහිපයක් නිරීක්ෂණය කිරීමටත් එක් විය.
+
+මෙම පිටත්ව යාමේ අවස්ථාව සඳහා විද්‍යා හා තාක්ෂණ අමාත්‍ය ක්‍රිෂාන්ත අබේසිංහ මහතා සහ විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීහු පිරිසක් සහභාගී වූහ.
+
+◼️
+
+[Data](articles/14023170.json)
+
+---
+
+### වලස් කටා පලා යාමට තැත් කරලා
+
+*2025-08-10 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213221) · `si`
+
+තිළිණ සම්පත් නොහොත් වලස් කටා බස්නාහිර උතුරු අපරාධ කොට්ඨාසයෙන් පළා යාමට උත්සාහ දැරීමේදී ඔහුගේ දෙපාවලට සහ එක් අතකට හානි සිදුව තිබේ.
+
+දින 90ක රැඳවුම් නියෝග මත වලස් කටා මේ වන විට බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ රඳවා තබාගෙන ප්‍රශ්න කිරීම් සිදුකරනු ලබයි.
+
+ඒ අනුව ඊයේ (09) රාත්‍රි 9.15ට පමණ සැකකරුට වැසිකිළි යාමට අවශ්‍ය බව පවසා ඇති අතර එහිදී අත්මාංචු ගලවා නිලධාරීන් සිව් දෙනෙකු සමග ඔහු වැසිකිළියට ගොස් තිබේ.
+
+එහිදී වැසිකිළියට යන අතරතුර වලස් කටා නිලධාරීන්ට පහරදී තුන්වන මහලින් බිමට පැන ඇති බව වාර්තා වේ.
+
+එහිදී මොහුගේ දෙපා කැඩී ගොස් ඇති අතර එක් අතක් වැළමිට ප්‍රදේශයෙන් බිඳී ගොස් ඇති බවද පොලීසිය සඳහන් කළේය.
+
+සැකකරු මේ වන විට දැඩි පොලිස් ආරක්ෂාව මධ්‍යයේ කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබයි.
+
+◼️
+
+[Data](articles/b70aaa68.json)
+
+---
 
 ### ශ්‍රී ලංකා රග්බි ⁣යෞවනයෝ අවසන් මහා තරගයට
 
@@ -46,11 +88,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### முஸ்லிம்களின் நம்பிக்கையை ஆட்சியாளர்கள் தக்கவைப்பார்களா?
+
+*2025-08-10 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222213) · `ta`
+
+முஸ்லிம்களின் காணிப் பிரச்சினைகள் பல இடங்களில் உள்ளன. முஸ்லிம்கள் இழந்த காணிகளை மீண்டும் முஸ்லிம்களிடம் ஒப்படைக்க வேண்டுமென்று கூட வாய்திறக்கவில்லை. முஸ்லிம்களின் தனியார் சட்டத்திலும் மாற்றங்களை ஏற்படுத்துவதற்கும், பிறப்புப் பதிவில் தந்தையின் பெயர் முக்கியமில்லை என்பது குறித்தும், முஸ்லிம் இளைஞர்களின் கைதுகள் குறித்தும் கூட தேசிய மக்கள் சக்தியில் உள்ள முஸ்லிம் பாராளுமன்ற உறுப்பினர்கள் பேசவில்லை.
+
+◼️
+
+[Data](articles/25e78b18.json)
+
+---
+
+### தனக்குத் தானே குழி வெட்­டு­கி­றதா என்.பி.பி?
+
+*2025-08-10 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222211) · `ta`
+
+ஜனா­தி­பதி தேர்­த­லுக்கு முன்­ன­தாக, முன்னாள் ஜனா­தி­ப­திகள், பாரா­ளு­மன்ற உறுப்­பி­னர்­களின் சிறப்­பு­ரி­மைகள், ஓய்­வூ­தி­யத்தை நீக்­கு­வ­தாக தேசிய மக்கள் சக்தி வாக்­கு­றுதி கொடுத்­தி­ருந்­தது.
+
+அதற்­க­மைய இப்­பொ­ழுது முன்னாள் ஜனா­தி­ப­திகள் அல்­லது அவர்­களின் வாழ்க்கைத் துணைக்­கான சிறப்­பு­ரி­மைகள், ஓய்­வூ­தியம் போன்­ற­வற்றை இல்­லாமல் ஒழிப்­ப­தற்­கான சட்­ட­மூலம் ஒன்று அர­சாங்­கத்தால் தயா­ரிக்­கப்­பட்டு வர்த்­த­மா­னியில் பிர­சு­ரிக்­கப்­பட்­டி­ருக்­கி­றது.
+
+◼️
+
+[Data](articles/c1d86b95.json)
+
+---
+
 ### கம்பஹாவில் பல பகுதிகளுக்கு நாளை நீர் வெட்டு
 
-*2025-08-10 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222210) · `ta`
+*2025-08-10 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222210) · `ta`
 
-கம்பஹா மாவட்டத்தின் பல பகுதிகளுக்கு நாளை (11) காலை 10.00 மணி முதல் இரவு 8.00 மணி வரை 10 மணி நேரம் நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகால் சபை (NWSDB) அறிவித்துள்ளது.
+கம்பஹா மாவட்டத்தின் பல பகுதிகளுக்கு நாளை திங்கட்கிழமை (11) காலை 10.00 மணி முதல் இரவு 8.00 மணி வரை 10 மணி நேரம் நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகால் சபை (NWSDB) அறிவித்துள்ளது.
 
 கம்பஹா - அத்தனகல்ல - மினுவங்கொட ஒருங்கிணைந்த நீர் வழங்கல் திட்டத்தின் ஒரு பகுதியாக இருக்கும் நிட்டம்புவவிலிருந்து மினுவங்கொட வரையிலான குழாய் பராமரிப்புப் பணிகள் இடம்பெறவுள்ளமையினால் நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
 
@@ -856,11 +924,11 @@ Police said the duo were just transporters who had brought ₹50,000 to purchase
 
 Senaro Motor Company (Pvt) Ltd has become the Winner of the National Business Excellence Awards 2025 under the Manufacturing – Non-Traditional Sector. Organised by the National Chamber of Commerce of Sri Lanka, the award ceremony was held recently in Colombo. The National Business Excellence Awards, recognized as one of Sri Lanka’s most esteemed accolades, celebrates organizations that demonstrate exceptional performance, sustainable practices, and strategic vision across various business facets. Being honored with this award underscores Senaro’s dedication to pushing boundaries and setting new benchmarks within the manufacturing sector, particularly in the production of high-quality, “Made in Sri Lanka” motorcycles.
 
-Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
-...
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
 
 [Data](articles/d7232e2b.json)
 
@@ -1707,85 +1775,5 @@ The Minister made these remarks while responding to questions from journalists f
 ◼️
 
 [Data](articles/c3a2cf44.json)
-
----
-
-### බලන්ගොඩ නිවසක ගින්නකින් මව පියා බේරී දරුවා මරුට
-
-*2025-08-09 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213196) · `si`
-
-බලන්ගොඩ, දෙහිගස්තලාව ප්‍රදේශයේ නිවසක හටගත් ගින්නකින් 7 හැවිරිදි දරුවෙකු මියගොස් තිබේ.
-
-පොලීසිය සදහන් කළේ අද (9) අලුයම 3.30ට පමණ මෙම ගින්න හටගෙන ඇති බවය.
-
-පොලිස් හදිසි ඇමතුම් අංකයට ලැබුණ තොරතුරකට අනුව බලන්ගොඩ පොලීසිය විසින් දරුවාගේ මළසිරුර සොයාගෙන ඇත.
-
-මියගිය දරුවාගේ මව සහ පියා නිවසේ සිට ඇති අතර, ඔවුන්ට ගින්නෙන් කිසිදු අනතුරක් සිදු නොවීම හේතුවෙන් මෙම මරණය සැකසහිත බව පොලීසිය පැවසීය.
-
-දරුවාගේ පියා මත්ද්‍රව්‍ය භාවිතයට දැඩිව ඇබ්බැහිවූවෙකු බවත්, පවුල් ආරවුල් හේතුවෙන් මව සහ පියා වෙන්ව සිට ඇති බව  සඳහන්.
-
-එමෙන්ම මව වෙනත් පුද්ගලයෙකු සමග අනියම් සබඳතාවක් පවත්වාගෙන ගොස් ඇති බවත් වාර්තා වේ.
-
-කෙසේ වෙතත් ඊයේ (8) රාත්‍රියේ අදාළ කාන්තාව යළි නිවසට පැමිණීමත් සමග කිසියම් ආරවුලක් ඇති වී ඇති බවට පොලීසිය සැකපළ කරයි.
-
-මහෙස්ත්‍රාත් පරීක්ෂණය බලන්ගොඩ වැඩබලන මහෙස්ත්‍රාත්වරයා විසින් සිදුකරන අතර, දරුවාගේ මළසිරුර පිළිබද පශ්චාත් මරණ පරීක්ෂණය බලන්ගොඩ මූලික රෝහලේදී සිදුකිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/ccb55f83.json)
-
----
-
-### Visiting Egypt and France: Some sightseeing
-
-*2025-08-09 14:08:00* · [`islandlk`](http://island.lk/visiting-egypt-and-france-some-sightseeing/) · `en`
-
-In these circumstances, I had an earnest discussion with the Minister. I told him that in my view it would be disastrous to fill vacancies from MP’s lists. I explained that this would have serious and long term repercussions on the public service. I further said that surely any government had to review these dismissals, some of them good officers with long service records, and gradually take most of them back. The government would be completely foreclosing this option if vacancies were hurriedly filled. Given all these circumstances I concluded by telling him that I was going to resist the instant filling of vacancies as best as I can. The Minister, Mr. Herat did not disagree.
-
-...
-
-[Data](articles/11139911.json)
-
----
-
-### Zelenskyy rejects Trump’s proposal that Ukraine could swap territories with Russia
-
-*2025-08-09 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111305/zelenskyy-rejects-trumps-proposal-that-ukraine-could-swap-territories-with-russia) · `en`
-
-Ukraine’s President Volodymyr Zelenskyy defiantly declared Saturday that his countrymen “will not give their land to occupiers,” after President Donald Trump suggested that a peace deal would include some “swapping” of territories with Russia.
-
-“The answer to Ukraine’s territorial question is already in the constitution of Ukraine,” Zelenskyy said in a message on Telegram early Saturday. “No one will and no one can deviate from it. Ukrainians will not give their land to the occupier.”
-
-His comments came after Trump announced on Truth Social that a long-awaited meeting with Russian President Vladimir Putin had been scheduled for next week in Alaska.
-
-Further details and logistics of the meeting are still unclear and remain very fluid, including whether Zelenskyy will be involved. Trump did not mention the Ukrainian President in the post announcing the meeting with Putin.
-
-...
-
-[Data](articles/1560d318.json)
-
----
-
-### බොරැල්ල වෙඩි තැබීමේ සිද්ධියට සැකපිට අයෙක් අත්අඩංගුවට
-
-*2025-08-09 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213195) · `si`
-
-බොරැල්ලේ වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් එක් සැකකරුවෙකු බොරැල්ල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-අද දෙරණ කළ විමසීමකට පිළිතුරු දෙමින් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ අද (09) පෙරවරුවේ මෙම සැකකරු අත්අඩංගුවට ගත් බවය.
-
-අත්අඩංගුවට ගත් සැකකරු බොරැල්ල ප්‍රදේශයේම පදිංචි 23 හැවිරිදි තරුණයෙකු බවද වාර්තා වේ.
-
-බොරැල්ල සහස්පුර ක්‍රීඩාංගණයක සැරසිළි කටයුතු කරමින් සිටි තරුණයින් පිරිසකට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු පසුගියදා වෙඩි තැබීමක් සිදුකර පලා ගොස් තිබුණි.
-
-එහිදී තරුණයින් පස් දෙනෙකු තුවාල ලබා රෝහල් ගත කළ අතර ඉන් එක් අයෙකු ජීවිතක්ෂයට පත් විය.
-
-මෙලෙස මියගොස් ඇත්තේ 28 හැවිරිදි කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර වෙඩි වැදීමෙන් තුවාල ලැබූ තවත් තිදෙනෙකු මේ වන විටත් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන බව රෝහල් ආරංචි මාර්ග සඳහන් කළේය.
-
-අත්අඩංගුවට ගත් සැකකරු අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර අදාළ සිද්ධියේ විමර්ශන කටයුතු කොළඹ අපරාධ කොට්ඨාස විසින් සිදුකරයි.
-
-◼️
-
-[Data](articles/a88f6258.json)
 
 ---

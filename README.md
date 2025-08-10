@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 09:18:24**
+As of **2025-08-10 09:50:29**
 
 ## Newspaper Stats
 
-*Scraped **69,595** Articles*
+*Scraped **69,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,48 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 709
 economynextcom | 4,246
-islandlk | 4,249
+islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,700
 adaderanalk | 8,652
 tamilmirrorlk | 10,182
 virakesarilk | 11,589
-adaderanasinhalalk | 12,003
+adaderanasinhalalk | 12,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,595 articles have been extended.
+61,973 (89.0%) of 69,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ගාසා නගරය අත්පත් කර ගැනීමේ තිරණයට විරෝධය පා ඊශ්‍රායලයේ විරෝධතා
+
+*2025-08-10 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213216) · `si`
+
+ඊශ්‍රායලය ආරක්ෂක මණ්ඩලය විසින් ගාසා නගරයේ පාලනය අත්පත් කර ගැනීමේ සැලැස්මක් අනුමත කිරීමත් සමග එරට ටෙල් අවිව්හි විරෝධතා රැසක් ආරම්භ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විරෝධතාකරුවන් ඊශ්‍රායල රජයට විරෝධය දක්වමින් සඳහන් කර ඇත්තේ වහාම යුද ගැටුම් නතර කරන ලෙසය.
+
+මෙම විරෝතාවට එක්වූවන් විසින් පලස්තීනයේ රඳවා සිටින ඊශ්‍රායල ප්‍රාණ ඇපකරුවන්ගේ ඡායාරූපද ඔසවා සිය විරෝධතාව ප්‍රකාශය කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා සඳහන් කර ඇත්තේ මෙම විරෝධතා රැලිය සඳහා ප්‍රාණ ඇපකරුවන්ගේ පවුල්ද නියෝජනය කරමින් විරෝධතා කරුවන් 100,000කට ආසන්න ප්‍රමාණයක් සහභාගී වී ඇති බවය.
+
+මේ අතර අදාළ විරෝධතාකරුවන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහුගේ නිවස අසලට රැස්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විරෝධතාකරුවන් ජෙරුසලමේ සිට විරෝධතා පුවරු රැගෙන ඊශ්‍රායල අග්‍රාමාත්‍යවරයාගේ නිවස අසලට ගොස් යුද ගැටුම් නවත්වන ලෙසත්, ප්‍රාණ ඇපකරුවන්ගේ ජීවිත ආරක්ෂා කරන ලෙසත් දක්වමින් විරෝධතාවයේ නිරත වී ඇත.
+
+මේ අතර විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ නෙතන්යාහුගේ මෙම තීරණයට එරෙහි ඊශ්‍රායලයේ ප්‍රදේශ රැසක විරෝධතා සංවිධානය වන බවය.
+
+...
+
+[Data](articles/2ed46304.json)
+
+---
 
 ### හිටපු ජනපති රනිල්ගෙන් අද විශේෂ ප්‍රකාශයක්
 
@@ -278,6 +302,38 @@ Police said the duo were just transporters who had brought ₹50,000 to purchase
 
 ---
 
+### Senaro Motor Company honoured at National Business Excellence Awards 2025
+
+*2025-08-09 21:49:00* · [`islandlk`](http://island.lk/senaro-motor-company-honoured-at-national-business-excellence-awards-2025/) · `en`
+
+Senaro Motor Company (Pvt) Ltd has become the Winner of the National Business Excellence Awards 2025 under the Manufacturing – Non-Traditional Sector. Organised by the National Chamber of Commerce of Sri Lanka, the award ceremony was held recently in Colombo. The National Business Excellence Awards, recognized as one of Sri Lanka’s most esteemed accolades, celebrates organizations that demonstrate exceptional performance, sustainable practices, and strategic vision across various business facets. Being honored with this award underscores Senaro’s dedication to pushing boundaries and setting new benchmarks within the manufacturing sector, particularly in the production of high-quality, “Made in Sri Lanka” motorcycles.
+
+Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/d7232e2b.json)
+
+---
+
+### Ceylinco Life named Lanka’s Top Insurance Brand again
+
+*2025-08-09 21:43:00* · [`islandlk`](http://island.lk/ceylinco-life-named-lankas-top-insurance-brand-again/) · `en`
+
+Ceylinco Life has been ranked the most valuable insurance brand in Sri Lanka and the 22nd most valuable brand in the country overall in the 2025 edition of the ‘Sri Lanka 100’ released by Brand Finance, the world’s leading independent brand valuation consultancy.
+
+Brand Finance has assigned the Ceylinco Life corporate brand a value of Rs 6.45 billion and a Brand Rating of AAA-, reaffirming its strength and reputation in the market. The Company has moved up five places in the overall ranking from 27th in 2023, while the value assigned to the brand has grown 84.3 percent, reflecting consistent brand growth, customer trust, and clear leadership in the life insurance sector.
+
+Ceylinco Life continues to retain its status as the top-ranked brand in both the life insurance and overall insurance sectors in Sri Lanka. It held this distinction in the 2023 rankings as well.
+
+...
+
+[Data](articles/6d9b1c96.json)
+
+---
+
 ### නිව්යෝර්ක් හි ටයිම්ස් චතුරශ්‍රයේ වෙඩි තැබීමක්
 
 *2025-08-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213208) · `si`
@@ -424,6 +480,22 @@ Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2
 
 ---
 
+### Dipped Products wins overall Gold Award at NBEA 2025
+
+*2025-08-09 20:23:00* · [`islandlk`](http://island.lk/dipped-products-wins-overall-gold-award-at-nbea-2025/) · `en`
+
+Dipped Products PLC (DPL), a member of the Hayleys Group and a global leader in hand protection solutions spanning medical, household, industrial and sports sectors, was honoured with the Overall Gold Award at the National Business Excellence Awards (NBEA) 2025.
+
+The event was held under the patronage of the New Zealand High Commissioner to Sri Lanka as Chief Guest, with the South African High Commissioner to Sri Lanka and the Republic of Maldives serving as Guest of Honour.
+
+In addition to the top accolade, DPL secured five further honours: Winner – ‘Extra Large Category’, Winner ‘Manufacturing (Other Sector)’, ‘Excellence in Environmental, Social and Governance (ESG)’, ‘Excellence in Corporate Governance and Strategy’ and Runner-up – ‘Excellence in Global Market Reach’.
+
+...
+
+[Data](articles/fb89a9be.json)
+
+---
+
 ### විල්පත්තුවේ නීතිවිරෝධී ඉල්මනයිට් සේදීමේ මහා පරිමාණ ජාවාරමක් වලානෙන් වටලයි
 
 *2025-08-09 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213206) · `si`
@@ -475,6 +547,78 @@ Donald J. Trump did not just confront this system; he exposed it. His presidency
 ◼️
 
 [Data](articles/b823a331.json)
+
+---
+
+### GMOA, Sanasa Insurance renew strategic partnership for third year
+
+*2025-08-09 19:49:00* · [`islandlk`](http://island.lk/gmoa-sanasa-insurance-renew-strategic-partnership-for-third-year/) · `en`
+
+The Government Medical Officers’ Association (GMOA) and Sanasa General Insurance Company PLC (SGIC) have renewed their strategic Memorandum of Understanding (MoU) for the third consecutive year, reaffirming SGIC’s role as the preferred general insurance provider for medical professionals.
+
+The agreement, signed last week by representatives of both organisations, acknowledges SGIC’s consistent service excellence and its commitment to delivering customised insurance solutions for doctors. Over the past two years, SGIC has provided GMOA members with comprehensive coverage and exceptional customer service.
+
+Under the renewed MoU, SGIC continues to offer exclusive motor insurance packages with specially discounted premiums tailored for doctors.
+
+Senaro Motor Company honoured at National Business Excellence Awards 2025
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/3e3bcafc.json)
+
+---
+
+### Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
+
+*2025-08-09 19:48:00* · [`islandlk`](http://island.lk/minasro-college-strengthens-global-ties-in-education-principal-attends-special-training-in-malaysia/) · `en`
+
+The Principal of Minasro College, Pushpa Hettiarachchi, recently attended a training programme on Psychology and Counselling held at Binary University and Lincoln University College in Malaysia. The programme took place from 25 to 30 June 2025 and focused on improving practical knowledge in student mental health and counselling approaches in school settings. Hettiarachchi, who holds a Diploma in Psychology and Counselling from LPEC Campus in partnership with Binary University, joined the international training to strengthen her expertise and bring new insights to the school’s approach to student support. The experience is expected to help further develop the school’s efforts in integrating emotional wellbeing into daily and practical everyday education.
+
+Senaro Motor Company honoured at National Business Excellence Awards 2025
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/b5196710.json)
+
+---
+
+### Iresha Food Products honoured at SLIM SME Development Awards
+
+*2025-08-09 19:46:00* · [`islandlk`](http://island.lk/iresha-food-products-honoured-at-slim-sme-development-awards/) · `en`
+
+Iresha Food Products Pvt. Ltd. received the Silver Award in the FMCG Category at the SLIM SME Development Awards 2024, organised by the Sri Lanka Institute of Marketing. Chairman Lalith Gamage received the award at a recent ceremony held in Colombo. Founded in 1980, Iresha Food Products has built a solid reputation for producing a wide range of food items trusted by consumers in Sri Lanka and abroad. From processed spices and flour to noodles, papadam, and tea, the company supplies both bulk and value-added products to meet the needs of wholesale buyers and international markets.
+
+Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/105a9004.json)
+
+---
+
+### Supreme Entrepreneur Award presented for outstanding leadership in education
+
+*2025-08-09 19:45:00* · [`islandlk`](http://island.lk/supreme-entrepreneur-award-presented-for-outstanding-leadership-in-education/) · `en`
+
+Hansani Nisansala Weerakoon, Managing Director of Nations HR Academy (NHRA) Pvt. Ltd., was recently honoured with the Supreme Entrepreneur Award for Leadership in Advancing Educational and Learning Solutions at the Entro Queen Excellence – Leading Lady in Business Awards 2025. The award ceremony, organised by the LMN Business Solutions Group, took place at the Kingsbury Hotel in Colombo.
+
+Adidas accused of cultural appropriation by Mexico over new footwear design
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6827e8cc.json)
 
 ---
 
@@ -716,6 +860,20 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 
 ---
 
+### INTELLIGENT DUST CLOUDS IN THE COSMOS?
+
+*2025-08-09 16:50:00* · [`islandlk`](http://island.lk/intelligent-dust-clouds-in-the-cosmos/) · `en`
+
+Fred Hoyle’s classic science fiction novel “The Black Cloud” is story that is set in the late 1960s and deals with the societal response to the discovery near to our planet of a vast, cloud of gas and dust that seemed to be approaching the Earth. The story is based on the idea that such a cloud of cosmic gas and dust, innocuous as it appears, could be endowed with an intrinsic intelligence that might be capable of threatening our existence and even the existence of all life on the Earth.
+
+Kordylewski Cloud at the Lagrange point of the Sun-Moon-Earth system
+
+...
+
+[Data](articles/b0caffdb.json)
+
+---
+
 ### பலஸ்தீன் - இஸ்ரேல் மோதல் மனித பேரழிவு ;  சஜித் பிரேமதாச
 
 *2025-08-09 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222176) · `ta`
@@ -815,6 +973,20 @@ Kenya’s Ministry of Health made a call for an “urgent blood drive” to help
 ...
 
 [Data](articles/7737aa28.json)
+
+---
+
+### Kataragama – facts, myths, personal anecdotes
+
+*2025-08-09 16:02:00* · [`islandlk`](http://island.lk/kataragama-facts-myths-personal-anecdotes/) · `en`
+
+Last night I dreamt I went to Kataragama again. It was ablaze with light but not of burning fire like Mandalay was to Daphne du Maurier, but of illumination: large oil lamps, burning copra and electric jets. The Esala festival was on in my dream with the Perahera, dominated by low country dancers, elephants and exotic girls gyrating with jet lit, revolving kavadi held overhead.
+
+I had never been to the sacred site during festival time. In fact, going there was only after marriage to a husband from Ratnapura. They were devout believers in the power of the gods there, while we in Kandy were Dalada Maligawa devotees and hardly went to the devales in Kandy, including the Kataragama kovil.
+
+...
+
+[Data](articles/2eddee42.json)
 
 ---
 
@@ -1016,6 +1188,18 @@ The Minister made these remarks while responding to questions from journalists f
 
 ---
 
+### Visiting Egypt and France: Some sightseeing
+
+*2025-08-09 14:08:00* · [`islandlk`](http://island.lk/visiting-egypt-and-france-some-sightseeing/) · `en`
+
+In these circumstances, I had an earnest discussion with the Minister. I told him that in my view it would be disastrous to fill vacancies from MP’s lists. I explained that this would have serious and long term repercussions on the public service. I further said that surely any government had to review these dismissals, some of them good officers with long service records, and gradually take most of them back. The government would be completely foreclosing this option if vacancies were hurriedly filled. Given all these circumstances I concluded by telling him that I was going to resist the instant filling of vacancies as best as I can. The Minister, Mr. Herat did not disagree.
+
+...
+
+[Data](articles/11139911.json)
+
+---
+
 ### Zelenskyy rejects Trump’s proposal that Ukraine could swap territories with Russia
 
 *2025-08-09 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111305/zelenskyy-rejects-trumps-proposal-that-ukraine-could-swap-territories-with-russia) · `en`
@@ -1074,6 +1258,48 @@ Further details and logistics of the meeting are still unclear and remain very f
 
 ---
 
+### Beyond Hiroshima: The Age of Omnicide
+
+*2025-08-09 14:06:00* · [`islandlk`](http://island.lk/beyond-hiroshima-the-age-of-omnicide/) · `en`
+
+Eighty years have passed, and yet no instrument of war has emerged as absolute, as unrelenting, or as exquisitely engineered for annihilation as the nuclear weapon. Its shadow has loomed over international affairs ever since, petrifying geopolitical strategies and freezing conflicts into perennial standoffs. And yet, while the world reminisces annually on the horrors of Hiroshima and Nagasaki, there is a dangerous complacency in the modern imagination. We have failed to reckon with the grotesque escalation of nuclear lethality since 1945, and the global compact once designed to forestall such catastrophe—the Non-Proliferation Treaty (NPT)—has degenerated into ritualistic farce.
+
+...
+
+[Data](articles/168e89d5.json)
+
+---
+
+### Israel and Sri Lanka – From DS to Ranil
+
+*2025-08-09 13:59:00* · [`islandlk`](http://island.lk/israel-and-sri-lanka-from-ds-to-ranil/) · `en`
+
+Israel is making headlines with its attacks within West Asian countries not limited to Palestine, and it will be interesting to see how the present government manages it and how Sri Lankan leaders in the past from Prime Minister D.S Senanayake to President Ranil Wickremasinghe handled the issue during their tenure.
+
+D.S Senanayake – first South Asian leader to recognise Israel
+
+Sri Lanka (then Ceylon) and Israel both gained independence from the British in the same year in 1948 and we became the first South Asian country to recognise the state of Israel on September 16, 1950 [Jewish Virtual Library, AICE Project], just a day before India recognised it. This was when D S Senanayake was the prime minister.
+
+...
+
+[Data](articles/c0fada58.json)
+
+---
+
+### Legacy in Silence: Enduring Influence of Ainslie Joseph (1949-2025)
+
+*2025-08-09 13:59:00* · [`islandlk`](http://island.lk/legacy-in-silence-enduring-influence-of-ainslie-joseph-1949-2025/) · `en`
+
+A little over a month ago, I received a phone call in the early hours of the morning from Ralston Joseph. His voice, though calm, carried the weight of sorrow. He told me his father had passed away. In that moment, a profound sadness settled over me—because Ainslie Joseph was not just someone I admired, he was a mentor, friend and confidante.
+
+“Uncle Ainslie,” as I fondly called him, was a man carved from gentleness and purpose. He was a man for others—selfless, wise, and unwavering in his quiet pursuit of goodness. He was not born into privilege, and yet when he found himself with the opportunity to pursue personal gain, he turned away from it. His wealth was never material. His mission in life was to build something far greater: social and cultural capital, a legacy of service, wisdom, and human connection.
+
+...
+
+[Data](articles/cf972441.json)
+
+---
+
 ### பேருந்தில் மனைவியின் கழுத்தை வெட்டிய கணவன்
 
 *2025-08-09 13:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்தில்-மனைவியின்-கழுத்தை-வெட்டிய-கணவன்/76-362589) · `ta`
@@ -1109,6 +1335,22 @@ Further details and logistics of the meeting are still unclear and remain very f
 ...
 
 [Data](articles/3cef562c.json)
+
+---
+
+### K H J Wijayadasa: A rare and exemplary public servant
+
+*2025-08-09 13:11:00* · [`islandlk`](http://island.lk/k-h-j-wijayadasa-a-rare-and-exemplary-public-servant/) · `en`
+
+When Charmalee asked me if I could write an appreciation of her father, K H J Wijayadasa, to mark his second death anniversary, I readily agreed, not because I am much of a writer but due to my very  enjoyable and enriching association with him for well over 40 years.
+
+An outstanding product of the then prestigious Ceylon Civil Service, Wijayadasa  was small in size and huge in stature. Although not a flamboyant character in the Civil Service like Shirley Amarasinghe or Sarath Amunugama for that matter, he was an outstanding public servant throughout his career. His razor-sharp mind was remarkable. His wit and sense of humor were irrepressible.
+
+Wijayadasa was indeed an example of super-efficient leadership in public service. He was always prepared and always organized even after taking on far more than others and making it all work efficiently.
+
+...
+
+[Data](articles/275421f3.json)
 
 ---
 
@@ -1593,247 +1835,5 @@ She explained that the second question paper will be administered first, startin
 ◼️
 
 [Data](articles/9ec24288.json)
-
----
-
-### Suspect arrested with heroin and ‘Ice’ in Minuwangoda
-
-*2025-08-09 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111298/suspect-arrested-with-heroin-and-ice-in-minuwangoda) · `en`
-
-A 37-year-old suspect has been arrested in the Unnaruwa area of the Minuwangoda Police Division in possession of 1.66 kilograms of heroin and 308 grams of crystal methamphetamine (“ICE”).
-
-The arrest was made during a raid conducted last evening (8), based on a tip-off received by a team of officers from the Gonahena camp of the Police Special Task Force.
-
-The suspect, a resident of the Minuwangoda area, was taken into custody and handed over to the Minuwangoda Police Station for further processing.
-
-◼️
-
-[Data](articles/f776d11e.json)
-
----
-
-### Grade 5 Scholarship Exam to be held tomorrow
-
-*2025-08-09 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111297/grade-5-scholarship-exam-to-be-held-tomorrow) · `en`
-
-The 2025 Grade Five Scholarship Examination is scheduled to be held tomorrow (10).
-
-The Department of Examinations said accordingly, Paper II of the exam will be held from 9:30 a.m. to 10:45 a.m., and Paper I will be held from 11:15 a.m. to 12:15 p.m.
-
-◼️
-
-[Data](articles/412c3133.json)
-
----
-
-### පිහිනුම් තටායක ගිලී දරුවෙක් මරුට
-
-*2025-08-09 08:17:21* · [`adalk`](https://www.ada.lk/breaking_news/පිහිනුම්-තටායක-ගිලී-දරුවෙක්-මරුට/11-417803) · `si`
-
-ඕපනායක පොලිස් වසමේ පිහිටි හෝටලයක පිහිනුම් තටාකයේ ගිලී දරුවෙක් මියගොස් ඇතැයි පොලීසිය කියයි. ඊයේ දහවල් කාලයේදී මෙම අනතුර සිදුව තිබේ. අවුරුදු 12ක් වන මෙම දරුවා සිය දෙමාපියන් සමග ප්‍රිය සම්භාෂණයකට එකව සිටියදී තම මිතුරන් සමග පිහිනුම් තටාකයේ ක්‍රීඩා කරමින් සිටියදී මෙම අනතුරට මුහුණ දී තිබේ.
-
-ඉඹුල්තැන්න පදිංචිව සිටි පිරිමි දරුවෙක් මෙම අනතුරට මුහුණ පා තිබේ. මෘත ශරීරය කහවත්ත රෝහලේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් ඕපනායක පොලීසිය වැඩිදුර පරීක්ෂණ සිදු කරයි.
-
-◼️
-
-[Data](articles/5938496c.json)
-
----
-
-### Female driver injured as train hits minivan in Aluthgama
-
-*2025-08-09 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111296/female-driver-injured-as-train-hits-minivan-in-aluthgama) · `en`
-
-A train travelling from Maradana to Matara has collided with a minivan at a railway crossing in Aluthgama this morning (9).
-
-The accident occurred at a railway crossing in the Seelananda road, near the Aluthgama Railway Station.
-
-It has been reported that the minivan was driven by a woman, who sustained injuries in the collision and has been admitted to hospital for treatment.
-
-◼️
-
-[Data](articles/32f9b7dc.json)
-
----
-
-### අලුත්ගමදී කුඩා වෑන් රථයක් දුම්රියක ගැටෙයි
-
-*2025-08-09 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213187) · `si`
-
-අලුත්ගම ප්‍රදේශයේදී දුම්රිය හරස් මාර්ගයකදී කුඩා වෑන් රථයක් දුම්රියක ගැටී අද (9) පෙරවරුවේ අනතුරක් සිදුවී තිබේ.
-
-අලුත්ගම දුම්රිය ස්ථානය අසල සීලානන්ද පාර ප්‍රදේශයේ දුම්රිය හරස් මාර්ගයකදී මෙම අනතුර සිදුවී ඇත.
-
-වෑන් රථය පදවා ඇත්තේ කාන්තාවක් වන අතර, ඇය තුවාල ලබා රෝහල්ගත කර තිබේ.
-
-කුඩා වෑන් රථය ගැටී ඇත්තේ මරදානේ සිට මාතර බලා ධාවනය වෙමින් තිබූ දුම්රියක බවද වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/4a477399.json)
-
----
-
-### Sri Lanka private credit hits new historical high of Rs221bn in June
-
-*2025-08-09 07:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-hits-new-historical-high-of-rs221bn-in-june-235347/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit expanded by 221 billion rupees, the highest in history for a single month in June 2025, official data show, driven by recovering private investment, better budgets but also amid a late-cycle rate cut, where concerns have been raised.
-
-Private credit in June was the highest since 193 billion rupees reached in December 2024, which was also made up of import credit (working capital) which reversed.
-
-In June, the government borrowed 98.3 billion rupees from banks after a reversal of 53 billion in May, and state enterprises repaid 1.2 billion rupees on a net basis, data from the central bank show.
-
-Up to June, the government borrowing from the banking sector was 178.4 billion rupees only.
-
-Private sector borrowings surged to 700 billion rupees up to June, outpacing central government borrowings by 521 billion rupees.
-
-...
-
-[Data](articles/2eac7fe4.json)
-
----
-
-### අදත් ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක්
-
-*2025-08-09 07:41:41* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-ප්‍රධාන-වශයෙන්-වැසි-රහිත-කාලගුණ-තත්ත්වයක්/11-417802) · `si`
-
-දිවයිනේ බොහෝ පළාත්වල අද දිනයේදී ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-කෙසේ වෙතත් බස්නාහිර, සබරගමුව හා උතුරු පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති වන බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
-
-◼️
-
-[Data](articles/14622f48.json)
-
----
-
-### ජනපති සිටි ස්ථානයට ඉහළින් ඩ්‍රෝනයක් යැවූ විදේශිකයෙක් අල්ලයි
-
-*2025-08-09 07:35:42* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සිටි-ස්ථානයට-ඉහළින්-ඩ්‍රෝනයක්-යැවූ-විදේශිකයෙක්-අල්ලයි/11-417801) · `si`
-
-කන්ද උඩරට සෙංකඩගල ඓතිහාසික ඇසළ පෙරහරේ අවසන් රන්දෝලි මහා පෙරහර ජනාධිපතිවරයා නරඹෙමින් සිටියදී ඊට ඉහළින් ඩ්‍රෝණ කැමරාවක් ක්‍රියාත්මක කළ විදේශකයකු අත්අඩංගුවට ගෙනන තිබේ.
-
-ජනාධිපතිවරයා මහමළුවේ විවෘත ස්ථානයක සිට ඊයේ (08) රාත්‍රී 9.00 ට පමණ පෙරහර නරඹෙමින් සිටියදී එම ඩ්‍රෝණ කැමරාව එහි ඉහළ අහසේ සැරිසරමින් තිබියදී ගුවන් හමුදාව විසින් එය බිම හෙළීමට පියවර ගෙන තිබේ.
-
-එම ඩ්‍රෝණ කැමරාව ක්‍රියාත්මක කළ බව කියන පෘතුගීසි ජාතිකයෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔහුට එම ඩ්‍රෝණ කැමරාව ක්‍රියාත්මක කිරීම සඳහා ආරක්ෂක අමාත්‍යංශයෙන් අවසර ලැබී ඇත්දැයි පිළිබඳව විමර්ශන සිදු කරමින් පවතී.
-
-◼️
-
-[Data](articles/400e4cb2.json)
-
----
-
-### இளைஞன் வெட்டிக்கொலை
-
-*2025-08-09 07:26:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞன்-வெட்டிக்கொலை/175-362580) · `ta`
-
-கொக்குத்தொடுவாய் களப்பு கடலிற்கு தொழிலுக்கு சென்ற இளைஞன் இனந்தெரியாதோரால் கொலை செய்யப்பட்டு சடலமாக மீட்கப்பட்டுள்ளார்.
-
-கொக்குத்தொடுவாய் கோட்டைக்கேணி பிள்ளையார் ஆலயத்திற்கு 300 மீற்றர் முன்பாக கொக்குத்தொடுவாய் களப்பு கடலில் நேற்று முன்தினம் (07) இரவு தொழிலுக்கு சென்ற இளைஞன் நேற்று அதிகாலை தொழில் முடித்து மோட்டார் சைக்கிளில் திரும்பிய போது பின்பக்கமாகத் துரத்தி வந்து, கொக்குத்தொடுவாய் களப்பு கடலில் இருந்து 50 மீற்றர் தூரத்தில் கூரிய ஆயுதத்தால் வெட்டிக்கொலை செய்யப்பட்டுள்ளார்.
-
-மோப்ப நாய் சகிதம் பொலிஸார் மற்றும் தடயவியல் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-இந்தச் சம்பவத்தில் கொக்குத்தொடுவாய் வடக்கைச் சேர்ந்த ஜெயராஜ் சுபராஜ் என்ற 21 வயதுடைய இளைஞனே உயிரிழந்தவராவார்.  (a)
-
-◼️
-
-[Data](articles/d72ef448.json)
-
----
-
-### Trump says he will meet Putin next Friday in Alaska to discuss ending the Ukraine war
-
-*2025-08-09 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111295/trump-says-he-will-meet-putin-next-friday-in-alaska-to-discuss-ending-the-ukraine-war) · `en`
-
-President Donald Trump said he will meet with Russian President Vladimir Putin next Friday in Alaska to discuss ending the war in Ukraine, a potential breakthrough after weeks of expressing frustration that more was not being done to quell the fighting.
-
-The Kremlin has not yet confirmed the details, which Trump announced on social media, but both nations had said they expected a meeting could happen as soon as next week.
-
-Such a summit may prove pivotal in a war that began more than three years ago when Russia invaded its western neighbor and has led to tens of thousands of deaths — although there’s no guarantee it will stop the fighting since Moscow and Kyiv remain far apart on their conditions for peace.
-
-...
-
-[Data](articles/feaab8eb.json)
-
----
-
-### Several spells of light showers are expected today
-
-*2025-08-09 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111294/several-spells-of-light-showers-are-expected-today) · `en`
-
-The Meteorology Department states that several spells of light showers will occur in the Western, Sabaragamuwa, and Northern provinces, and in the Nuwara-Eliya, Kandy, Galle, and Matara districts.
-
-Mainly fair weather will prevail in other areas of the island, the Met. Department said.
-
-◼️
-
-[Data](articles/8e891295.json)
-
----
-
-### හෙරොයින් කිලෝ 1ක් සහ අයිස් මත්ද්‍රව්‍ය සමග පුද්ගලයෙක් අත්අඩංගුවට
-
-*2025-08-09 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213186) · `si`
-
-මිනුවන්ගොඩ පොලිස් වසමේ උන්නාරුව ප්‍රදේශයේදී හෙරොයින් කිලෝ 01යි ග්‍රෑම් 66ක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 308ක් සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ, ඊයේ (08) සවස් කාලයේදී පොලිස් විශේෂ කාර්ය බළකා ගෝනහේන කඳවුරේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත සිදුකළ වැටලීමකදීය.
-
-මිනුවන්ගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකු වන වයස අවුරුදු 37ක් වන සැකකරු මිනුවන්ගොඩ පොලිස් ස්ථානයට ඉදිරිපත් කර ඇත.
-
-◼️
-
-[Data](articles/8a6066b0.json)
-
----
-
-### யாழ்ப்பாணம் நகரப் பகுதியில் ஆணின் சடலம் மீட்பு
-
-*2025-08-09 07:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-நகரப்-பகுதியில்-ஆணின்-சடலம்-மீட்பு/175-362579) · `ta`
-
-யாழ்ப்பாண நகரப் பகுதியில் உள்ள புல்லுகுளத்தில் ஆண் ஒருவரின்  சடலமொன்று நேற்று (08) மாலை இனங்காணப்பட்டுள்ளது.
-
-யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையத்திற்கு அருகில் உள்ள குளத்தில் சடலமொன்று மிதப்பதாக பொலிஸாருக்குத் தகவல் அளிக்கப்பட்டது.
-
-உயிரிழந்தவர் தொடர்பில் தெரியவராத நிலையில், யாழ்ப்பாணம் பொலிஸார் மற்றும் தடயவியல் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/73247f28.json)
-
----
-
-### தலதா பெரஹெராவை பார்வையிட்டார் ஜனாதிபதி
-
-*2025-08-09 07:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-பெரஹெராவை-பார்வையிட்டார்-ஜனாதிபதி/175-362578) · `ta`
-
-கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையின் வருடாந்த எசல பெரஹெராவின் இறுதி ரந்தோலி பெரஹெரா    நேற்று (08) இரவு வீதி வலம் வந்தது. ஜனாதிபதி அநுர குமார திசாநாயக்க பெரஹெரவைப் பார்வையிட ஆயிரக்கணக்கான மக்களுடன் இணைந்தார்.
-
-புத்தசாசன, மத மற்றும் கலாச்சார விவகார அமைச்சர் கலாநிதி ஹினிதும சுனில் செனவி, விவசாயம், கால்நடை, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால்காந்த, மத்திய மாகாண ஆளுநர் பேராசிரியர் சரத் அபேகோன் மற்றும் வெளிநாட்டு தூதுவர்கள் குழுவும் இந்த நிகழ்வில் கலந்து கொண்டனர். (a)
-
-◼️
-
-[Data](articles/b51270ea.json)
-
----
-
-### පැටවීමට ගිය බහාලුමක් වැටී බිහිසුණු අනතුරක්
-
-*2025-08-09 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213185) · `si`
-
-කොළඹ වරාය බහාලුම් අංගනයේදී බහාලුමක් ප්‍රයිම් මූවර් රථය මතට වැටීමෙන් සිදුවූ අනතුරකින් ප්‍රයිම් මූවර් රථයේ සිටි රියදුරු මියගොස් තිබේ.
-
-කොළඹ වරාය බහාලුම් අංගනයේදී ප්‍රයිම් මූවර් රථයකට බහාලුමක් පැටවීමට යාමේදී එම බහාලුම තවත් බහාලුමක ගැටී එය මෙලෙස ප්‍රයිම් මූවර් රථය මතට වැටී තිබේ.
-
-පොලීසිය සඳහන් කළේ ඊයේ (08) සිදුවූ මෙම අනතුරින් ප්‍රයිම් මූවර් රථයේ රියදුරු බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇති බවය.
-
-බහාලුම පැටවීම සිදු කරමින් සිටි යන්ත්‍ර ක්‍රියාකරු පොලිස් අත්අඩංගුවට ගෙන ඇත.
-
-මේ සම්බන්ධයෙන් පොලිස් මාධ්‍ය කොට්ඨාසය නිකුත් කළ නිවේදනය පහතින් දැක්වෙයි.
-
-◼️
-
-[Data](articles/cacf9abf.json)
 
 ---

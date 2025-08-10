@@ -1,36 +1,60 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 07:39:39**
+As of **2025-08-10 08:34:23**
 
 ## Newspaper Stats
 
-*Scraped **69,590** Articles*
+*Scraped **69,593** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 601
+dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 709
 economynextcom | 4,246
 islandlk | 4,249
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,699
+adalk | 6,700
 adaderanalk | 8,652
 tamilmirrorlk | 10,182
 virakesarilk | 11,589
-adaderanasinhalalk | 12,000
+adaderanasinhalalk | 12,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.1%) of 69,590 articles have been extended.
+61,973 (89.1%) of 69,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### මාරක අනතුරු කිහිපයකින් පුද්ගලයින් තිදෙනෙකු මරුට
+
+*2025-08-10 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213213) · `si`
+
+දිවයින පුරා සිදුවූ මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයින් 03 දෙනෙකු ජීවිතක්ෂයට පත්වූ බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+ඒ අනුව ඊයේ අලුයම් කාලයේදී මැදවච්චිය පොලිස් වසමේ කැබිතිගොල්ලෑව මැදවච්චිය මාර්ගයේ දෙවන කිලෝමීටර් කණුව අසලදී මැදවච්චිය දෙසට ධාවනය වූ රථයක් මාර්ගය අයිනේ ගමන් කළ පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පදිකයා මැදවච්චිය රෝහලට ඇතුළත් කිරීමේදී ජීවිතක්ෂයට පත්ව ඇත.
+
+එමෙන්ම බටපොල පොලිස් වසමේ උඩුවිල ඇත්කඳුර මාර්ගයේ දොරල හන්දිය අසලදී ඇත්කඳුර දෙස සිට දොරල දෙසට ධාවනය වූ පා පැදියක් මාර්ගයේ නඩත්තු කටයුතු කරමින් සිටි ගල් රෝලක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් පා පැදිකරු බරපතළ තුවාල ලබා උඩුවිල රෝහලට ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්ව ඇත.
+
+තවද වරකාපොල පොලිස් වසමේ කොළඹ මහනුවර මාර්ගයේ මාහේනපාත හන්දිය අසලදී කොළඹ දෙසට ධාවනය වූ මෝටර් රථයක් මාර්ගය හරහා ගමන් ගත් පදික පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පදික පුද්ගලයා වරකාපොල රෝහලට ඇතුළත් කිරීමේදී ජීවිතක්ෂයට පත්ව ඇත.
+
+...
+
+[Data](articles/cc35038b.json)
+
+---
 
 ### මහජන ආරක්ෂක ඇමති ලේකම් ලෙස වෙස්ගෙන මහරගම පොලීසියට ඇමතුම් දුන් අයෙක් අල්ලයි
 
@@ -49,6 +73,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/331307d4.json)
+
+---
+
+### ශිෂ්‍යත්වය පෙරවරු 9.30ට ඇරඹේ
+
+*2025-08-10 06:43:25* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වය-පෙරවරු-9-30ට-ඇරඹේ/11-417808) · `si`
+
+2025 පහ ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගය අද (10) අද පෙරවරු 9.30ට දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී ආරම්භවීමට නියමිතය.
+
+මෙවර ශිෂ්‍යත්ව විභාගය සඳහා අයදුම්කරුවන් 307,951 පෙනී සිටීමටද නියමිත අතර විභාගය පස්වරු  12:15ට අවසන් වීමටද නියමිතය.
+
+අද දිනයේදී ආරම්භ වන ශිෂ්‍යත්ව විභාගය අතරතුර යම් කිසි ආපදා තත්ත්වයක් මතු වුවහොත් ක්ෂණික ඇමතුම් 117 අංකය අමතා දැනුවත් කළ හැකි බවවිභාග දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/cbb7a363.json)
 
 ---
 
@@ -271,6 +311,18 @@ Subsequently, the President visited the Asgiri Maha Viharaya, where he met with 
 ◼️
 
 [Data](articles/90ea584c.json)
+
+---
+
+### Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.
+
+*2025-08-09 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86258) · `en`
+
+Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2005  by a sniper of the Liberation Tigers of Tamil Eelam(LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar  had just completed his customary 1000 metre swim at the pool in his residence, when the assassin struck. Two decades  have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar.s 20th death anniversary draws near.
+
+...
+
+[Data](articles/35ff2015.json)
 
 ---
 
@@ -505,6 +557,18 @@ New York City has seen a remarkable drop in gun violence this year. Through Aug.
 ...
 
 [Data](articles/033bb575.json)
+
+---
+
+### “I, as the Acting President,  made the impugned proclamation to uphold the powers and privileges of Parliament to enable the Parliament to sit on July 20, 2022, to permit the election of the President. These facts were known to the entire country.”- Former President Ranil Wickremesinghe
+
+*2025-08-09 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86264) · `en`
+
+In Sathkunanathan v. Attorney General and related cases, the Supreme Court (Fernando CJ and Kodagoda J) held that the Proclamation of Emergency issued on July 17, 2022, by me as Acting President infringed the petitioners’ Fundamental Rights. Concurrently, Obeyesekere J held that the fundamental rights of the petitioners guaranteed by Article 12(1) of the Constitution have not been impugned by the making of the said Proclamation. This judgment raises significant questions on the relationship between emergency powers, fundamental rights and Parliament’s powers (including its privileges). Given the importance of this case and in light of certain observations made by Counsel during the proceedings, it is appropriate to clarify the rationale, context and constitutional basis for a decision taken during a grave period in post-Independent Sri Lanka.
+
+...
+
+[Data](articles/7e22ddea.json)
 
 ---
 
@@ -1773,67 +1837,5 @@ Mainly fair weather will prevail in other areas of the island, the Met. Departme
 ◼️
 
 [Data](articles/3558d65d.json)
-
----
-
-### අද ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-08-09 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213182) · `si`
-
-අද (9) බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඒ හැරෙන්න දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බව ද එම දෙපාර්තමේන්තුව දන්වා සිටී.
-
-◼️
-
-[Data](articles/928f80b9.json)
-
----
-
-### Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.
-
-*2025-08-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86258) · `en`
-
-Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2005  by a sniper of the Liberation Tigers of Tamil Eelam(LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar  had just completed his customary 1000 metre swim at the pool in his residence, when the assassin struck. Two decades  have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar.s 20th death anniversary draws near.
-
-...
-
-[Data](articles/35ff2015.json)
-
----
-
-### 2025-08-08 (Friday)
-
-### உருக்குலைந்த நிலையில் ஆணின் சடலம் மீட்பு
-
-*2025-08-08 23:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருக்குலைந்த-நிலையில்-ஆணின்-சடலம்-மீட்பு/175-362577) · `ta`
-
-உருக்குலைந்த நிலையில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் இன்று (08) பகல் குச்சவெளி பொலிஸ் பிரிவின் திரியாயில் மீட்கப்பட்டுள்ளது.
-
-சம்பவ இடத்திற்கு வருகை தந்து சடலத்தை பார்வையிட்ட திருகோணமலை நீதிவான் நீதிமன்ற பதில் நீதிவான் இச்சடலத்தை பிரேத பரிசோதனைக்காக மூதூர் வைத்தியசாலைக்கு கொண்டு செல்லமாறு பொலிஸாருக்கு உத்தரவிட்டார்.
-
-திரியாயை அண்மித்த கல்லறாவ கடற்கரைப் பகுதியில் வாடி அமைத்து மீன்பிடியில் ஈடுபடும் ஒருவர் சில தினங்களுக்கு முன்னர் வெளியே சென்று இது வரை வாடிக்கு திரும்பவில்லை. அவர் வைத்தியசாலைக்கு செல்வதாக கூறி சென்றார்.
-
-ஆனால் எந்த வைத்தியசாலையிலும் அவர் அனுமதிக்கப்பட்டதாக தகவல் இல்லை எனவும் அவரது உறவினர்கள் கூறுகின்றனர்.எனினும் காணமல் போனவர்தான் இங்கு  சடலமாக காணப்படுகின்றாரா என இதுவரை தகவல் எதுவும் தமக்கு கிடைக்கவில்லை என்று பொலிஸார் கூறினர். (a)
-
-◼️
-
-[Data](articles/f92d8d34.json)
-
----
-
-### யாழ். போதனா வைத்தியசாலையில் பரிதாபமாக உயிரிழந்த 16 வயது மாணவி!
-
-*2025-08-08 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222142) · `ta`
-
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வெள்ளிக்கிழமை (8) அதிகாலை மாணவி ஒருவர் உயிரிழந்துள்ளார்.  அச்சுவேலி சரஸ்வதி மகா வித்தியாலயத்தில் தரம் 11இல் கல்வி பயிலும் சந்திரானந்தன் வர்ணயா (வயது 16) என்ற மாணவியே இவ்வாறு உயிரிழந்துள்ளார்.
-
-குறித்த மாணவிக்கு காய்ச்சல் ஏற்பட்ட நிலையில் கடந்த மாதம் 5-ம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக சேர்ப்பித்தனர். வைத்தியசாலையில் சேர்ப்பித்து சில தினங்களில் குறித்த மாணவி மயக்க நிலையை அடைந்துள்ளார்.
-
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். கிருமித் தொற்று காரணமாக மரணம் சம்பவித்துள்ளதாக உடற்கூற்று பரிசோதனைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/ca20d941.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 15:31:34**
+As of **2025-08-10 15:48:43**
 
 ## Newspaper Stats
 
-*Scraped **69,690** Articles*
+*Scraped **69,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,707
+adalk | 6,708
 adaderanalk | 8,674
 tamilmirrorlk | 10,194
 virakesarilk | 11,610
@@ -26,17 +26,17 @@ adaderanasinhalalk | 12,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,690 articles have been extended.
+61,973 (88.9%) of 69,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
 
-### උප පොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගනී
+### උපපොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගනී
 
 *2025-08-10 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213232) · `si`
 
-වීරගුල පොලිස් ස්ථානයට අනුයුක්තව සේවය කළ උප පොලිස් පරීක්ෂකවරයෙකු සිය දිවි හානි කරගෙන තිබේ.
+වීරගුල පොලිස් ස්ථානයට අනුයුක්තව සේවය කළ උපපොලිස් පරීක්ෂකවරයෙකු සිය දිවි හානි කරගෙන තිබේ.
 
 සිය රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන ඔහු මෙසේ සිය දිවි හානි කරගෙන ඇති බව වාර්තා වේ.
 
@@ -46,17 +46,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### උසස් පෙළ හා සාමාන්‍ය පෙළ විභාග සඳහා දින නියම වෙයි
+### 2025 සා පෙළ විභාගය ලබන වසරේ පෙබරවාරි 17 සිට 26 දක්වා
 
 *2025-08-10 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213231) · `si`
 
-2025 අ.පො.ස. උසස් පෙළ විභාගය 2025 නොවැම්බර් 10 සිට දෙසැම්බර් 5 දක්වා පැවැත්වෙන බව විභාග කොමසාරිස් ජනරාල්වරයා පවසයි.
+2025 අ.පො.ස. උසස් පෙළ විභාගය 2025 නොවැම්බර් 10 සිට දෙසැම්බර් 5 දක්වා පැවැත්වෙන බව විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසීය.
 
 එමෙන්ම 2025 අ.පො.ස. සාමාන්‍ය පෙළ විභාගය 2026 පෙබරවාරි 17 සිට පෙබරවාරි 26 දක්වා පැවැත්වීමට නියමිත බව වැඩිදුරටත් සඳහන් වේ.
 
 ◼️
 
 [Data](articles/f705100e.json)
+
+---
+
+### මිලක් නැතිව නවගත්තේගම වට්ටක්කා අස්වැන්න කුණු වෙයි
+
+*2025-08-10 14:52:11* · [`adalk`](https://www.ada.lk/picture_story/මිලක්-නැතිව-නවගත්තේගම-වට්ටක්කා-අස්වැන්න-කුණු-වෙයි/10-417816) · `si`
+
+නවගත්තේගම ප්‍රාදේශීය ලේකම් කොට්ඨාශයෙ ගම්මාන රැසක වගා කල කිලෝ ලක්ෂ ගනනක වට්ටක්කා අස්වැන්න අලේවි කර ගැනිමට නොහැකිව ගොවින් දැඩි අසරණතාවයට පත්ව ඇති බව කියයි.
+
+මෙවර යල කන්නයෙ නවගත්තේගම, කොන්කඩවල, ගාමිණිපුර, රත්කිරාගම, සේරුගොඩයාය, හමන්ගල්ලපාර, ඉගිණිමිටිය, කැලේවැව, වෙලේවැව, තරණගගහවැව ඇතුළු ගම්මාන රැසක අක්කර දෙසියකට අධික භුමියක සිය ගනනක  ගොවින්  අධික පිරිසක් මෙලෙස වට්ටක්කා වගා කර තිබේ.
+
+එසේ වගා කර ඇති වට්ටක්කා කිලෝ ගනන ලෙස ගත් කල කිලෝ ලක්ෂ පහකට වැඩි විය හැකි බව ගොවින් පවසයි.
+
+ගොවින් පවසන්නේ තමන් වගා ආරම්භ කරන සමයෙ වට්ටක්කා කිලෝව රුපියල් 100 කට වැඩි මිළකට ගොවි බිම් වලින් මිළදි ගැනිම සිදුවු බවයි.
+
+නමුත් මෙවර යල කන්නයෙ  වට්ටක්කා  කිලෝව රුපියල් 25  කටත්  අඩු මුදලකට මිළදී ගැනිම සිදුවිමත් සිදුවු වු බවත් මේ වන විට එම මුදලටද මිලදි ගැනිමට නොපැමිණේන බවයි.
+
+දස අත ණය වී අත කණකර උගසට තබා රුපියල් ලක්ෂ ගනනින් වියදම් කර වගා කල වට්ටක්කා වගාවේ අස්වැන්න මෙලෙස නියමිත මිළට අලේවි කර ගැනිමට නොහැකි විමේන් තමන් අන්ත අසරණ වී ඇති බව මෙම වට්ටක්කා වගා කරුවන් පවසයි.
+
+...
+
+[Data](articles/fecb2dc7.json)
 
 ---
 
@@ -1751,17 +1773,5 @@ Subsequently, the President visited the Asgiri Maha Viharaya, where he met with 
 ◼️
 
 [Data](articles/90ea584c.json)
-
----
-
-### Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.
-
-*2025-08-09 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86258) · `en`
-
-Former Sri Lankan Foreign minister Lakshman Kadirgamar was killed on 12 August 2005  by a sniper of the Liberation Tigers of Tamil Eelam(LTTE) concealed in the house of an unsuspecting neighbour. Kadirgamar  had just completed his customary 1000 metre swim at the pool in his residence, when the assassin struck. Two decades  have passed since that fateful day but the memory of Kadirgamar lingers still in the hearts and minds of the nation. This column focuses on the man regarded by many as Sri Lanka’s finest foreign minister even as Lakshman Kadirgamar.s 20th death anniversary draws near.
-
-...
-
-[Data](articles/35ff2015.json)
 
 ---

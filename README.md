@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 11:51:08**
+As of **2025-08-10 12:07:58**
 
 ## Newspaper Stats
 
-*Scraped **69,647** Articles*
+*Scraped **69,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
 adalk | 6,703
-adaderanalk | 8,664
+adaderanalk | 8,668
 tamilmirrorlk | 10,187
-virakesarilk | 11,599
-adaderanasinhalalk | 12,010
+virakesarilk | 11,600
+adaderanasinhalalk | 12,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,647 articles have been extended.
+61,973 (89.0%) of 69,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### 05 ශිෂ්‍යත්වයෙන් පසු විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කළ ඉල්ලීම
+
+*2025-08-10 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213223) · `si`
+
+ඒ අනුව දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී විභාග අයදුම්කරුවන් 307,951ක් අද විභාගයට මුහුණ දෙනු ඇත.
+
+එමෙන්ම මෙවර විභාගයේදී විශේෂ අවශ්‍යතා සහිත දරුවන් 901 දෙනෙකුද පෙනී සිටින බවත් ඉන් අපේක්ෂකයින් 12 දෙනෙකු බ්‍රේල් මාධ්‍යයෙන් විභාගයට පෙනී සිටින බව විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
+
+මේ අතර අද පැවැත්වෙන ශිෂ්‍යත්ව විභාගයෙන් පසුව සිසු දරුවන් විසින් විභාග ප්‍රශ්න පත්‍රයට පිළිතුරු දුන් ආකාරය සම්බන්ධව ප්‍රශ්න කිරීමෙන් වළකින ලෙස විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් කාරුණික ඉල්ලීමක්ද සිදුකරනු ලැබීය.
+
+එහිදී විභාග කොමසාරිස්වරිය දෙමාපියන්ගෙන් ඉල්ලා සිටියේ සිසු දරු දැරියන්ගේ ළමා කාලය ගත කිරීමට අවස්ථාව ලබා දෙන ලෙසත් ශිෂ්‍යත්ව විභාගය පදනම් කරගනිමින් දරුවාගේ ළමා කාලය විනාශ නොකරන ලෙසත්ය.
+
+එමෙන්ම ශිෂ්‍යත්ව විභාගය යනු එක් විභාගයක් පමණක් බවත් මේ හේතුව මත දරුවන් පීඩනයට පත් කිරීමෙන් වළකින ලෙස තමන් දෙමාපියන්ගෙන් කාරුණිකව ඉල්ලා සිටින බවද විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ විභාග කොමසාරිස් ජනරාල් ඒ.කේ.එස්. ඉන්දිකා කුමාරි මහත්මිය,
+
+...
+
+[Data](articles/a1a9d8b9.json)
+
+---
+
+### காலி மீன்பிடித் துறைமுகத்தில் தீ விபத்து
+
+*2025-08-10 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222216) · `ta`
+
+காலி மீன்பிடி துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருந்த பல மீன்பிடி படகுகளில் தீ விபத்து இன்று திங்கட்கிழமை (10) ஏற்பட்டுள்ளது.
+
+காலி மாநகர சபையின் தீயணைப்பு திணைக்களம், இலங்கை கடற்படை மற்றும் அப்பகுதி மீனவ சமூகத்துடன் இணைந்து தீயைக் கட்டுப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/a3b8814a.json)
+
+---
+
+### ‘Walas Kata’ injured during escape attempt, admitted to National Hospital
+
+*2025-08-10 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111329/walas-kata-injured-during-escape-attempt-admitted-to-national-hospital) · `en`
+
+Thilina Sampath, also known as ‘Walas Kata’, has sustained injuries to both legs and one arm while attempting to escape from the Western Province North Crime Division.
+
+He is currently being detained under a 90-day detention order and is being interrogated by the Western Province North Crime Division, police stated.
+
+According to reports, around 9:15 p.m. yesterday (09), the suspect informed officers that he needed to use the washroom. As per procedure, four officers escorted him after removing his handcuffs.
+
+While on the way to the washroom, ‘Walas Kata’ is reported to have assaulted the officers and jumped from the third floor of the building.
+
+As a result, both his legs were fractured, and one of his arms was broken at the elbow, according to police.
+
+The suspect is currently receiving treatment under heavy police protection at the Colombo National Hospital.
+
+◼️
+
+[Data](articles/5e3f9437.json)
+
+---
 
 ### තෙදින නිල සංචාරය අවසන් කරමින් ඕස්ට්‍රේලියානු අග්‍රාණ්ඩුකාරවරිය දිවයිනෙන් පිටව යයි
 
@@ -49,6 +107,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/14023170.json)
+
+---
+
+### Heroin smuggler nabbed in Kalutara with heroin worth Rs. 1.5 million
+
+*2025-08-10 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111328/heroin-smuggler-nabbed-in-kalutara-with-heroin-worth-rs-15-million) · `en`
+
+An associate of a member of an organized crime group who had been smuggling heroin to Kalutara and surrounding areas using the eZ Cash system has been arrested with heroin worth approximately Rs. 1.5 million, police stated.
+
+The arrest was made based on a tip-off received by CID officers attached to the Kalutara Range Crime Division.
+
+Preliminary investigations have revealed that he has been transporting heroin in bulk to several areas, including Kalutara, Matugama, Panadura, Payagala, Beruwala, and Matugama, and carrying out transactions through the eZ Cash system.
+
+The arrested person is a 41-year-old resident of Palathota, Kalutara.
+
+The Kalutara Range Crime Division has taken into custody the three-wheeler he was driving and the mobile phone he used to conduct the racket.
+
+The suspect is scheduled to be produced before the Kalutara Magistrate’s Court today (10), where a detention order will be sought for further investigations, police added.
+
+◼️
+
+[Data](articles/7744da8d.json)
 
 ---
 
@@ -190,6 +270,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Fire breaks at Galle Fisheries Harbour, four boats destroyed
+
+*2025-08-10 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111327/fire-breaks-at-galle-fisheries-harbour-four-boats-destroyed) · `en`
+
+A fire has broken out on several fishing vessels docked at the Galle Fisheries Harbour.
+
+The Fire Brigade Service Department of the Galle Municipal Council, along with the Sri Lanka Navy and the area fishing community, have now managed to contain the blaze.
+
+As of now, four fishing boats have reportedly been destroyed by the fire.
+
+◼️
+
+[Data](articles/6919ca17.json)
+
+---
+
 ### தகர்ந்து போகும் ஜெனிவா திட்டம்
 
 *2025-08-10 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222207) · `ta`
@@ -259,6 +355,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d1601110.json)
+
+---
+
+### Seven Indian fishermen arrested for poaching in seas off Mannar
+
+*2025-08-10 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111326/seven-indian-fishermen-arrested-for-poaching-in-seas-off-mannar) · `en`
+
+A total of seven Indian fishermen have been arrested for poaching in Sri Lankan waters off Mannar, the Sri Lanka Navy stated.
+
+A boat has also been taken into custody during the operation carried out by the North Central Naval Command.
+
+The seized boat and the Indian fishermen have been brought to the Talaimannar Pier and handed over to the Fisheries Inspector of Mannar to take legal proceedings.
+
+Considering the harmful impacts of illegal fishing practices on the livelihood of local fishermen, the Navy said it continues to conduct regular patrols and operations to curb illegal practices of foreign fishing boats trespassing into Sri Lankan waters.
+
+◼️
+
+[Data](articles/61220433.json)
 
 ---
 
@@ -924,11 +1038,11 @@ Police said the duo were just transporters who had brought ₹50,000 to purchase
 
 Senaro Motor Company (Pvt) Ltd has become the Winner of the National Business Excellence Awards 2025 under the Manufacturing – Non-Traditional Sector. Organised by the National Chamber of Commerce of Sri Lanka, the award ceremony was held recently in Colombo. The National Business Excellence Awards, recognized as one of Sri Lanka’s most esteemed accolades, celebrates organizations that demonstrate exceptional performance, sustainable practices, and strategic vision across various business facets. Being honored with this award underscores Senaro’s dedication to pushing boundaries and setting new benchmarks within the manufacturing sector, particularly in the production of high-quality, “Made in Sri Lanka” motorcycles.
 
+Minasro College strengthens global ties in Education – Principal attends special training in Malaysia
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
+...
 
 [Data](articles/d7232e2b.json)
 
@@ -1675,105 +1789,5 @@ I had never been to the sacred site during festival time. In fact, going there w
 ...
 
 [Data](articles/ba706827.json)
-
----
-
-### Sri Lanka’s public debt office to evaluate liability management by January 2026
-
-*2025-08-09 15:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-public-debt-office-to-evaluate-liability-management-by-january-2026-235297/) · `en`
-
-ECONOMYNEXT – A Public Debt Management Office (PDMO) set up by Sri Lanka’s Ministry of Finance in December last year, to oversee the management of the country’s public debt, will become fully operational by next year, the ministry secretary has said.
-
-“Under its mandate, the PDMO will be tasked with carrying out a proactive debt management strategy,” Harshana Suriyapperuma said in the central bank Investor Call – July question and answer session.
-
-“The office is gradually scaling up and is expected to be fully operational by January 2026.”
-
-The PDMO will be evaluating the potential benefits of such operations, as and when appropriate, he said. (Colombo/Aug8/2025)
-
-◼️
-
-[Data](articles/f7666862.json)
-
----
-
-### Would Rajapaksas stay silent for 13 years if SupremeSAT earned millions? – Minister Nalinda
-
-*2025-08-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111306/would-rajapaksas-stay-silent-for-13-years-if-supremesat-earned-millions-minister-nalinda-) · `en`
-
-Minister Dr. Nalinda Jayatissa stated that the true facts regarding the SupremeSAT satellite project will be disclosed upon the conclusion of the ongoing investigation.
-
-He noted that if the project had generated significant income for the country, it would be difficult to believe that the relevant parties would have remained silent until now.
-
-The Minister made these remarks while responding to questions from journalists following a ceremony held in Colombo today (9).
-
-“If such a large income had been generated from SupremeSAT, do you think the Rajapaksas would have remained silent for thirteen years?” he asked.
-
-“If there had been such income, do you think the Rajapaksas would have remained silent? Do you think they would have done something purely for the benefit of the country, without benefit to themselves?”
-
-...
-
-[Data](articles/4d4813e0.json)
-
----
-
-### சிவகார்த்திகேயனின் குரலில் வெளியான 'ஓ காட் பியூட்டிஃபுல்' பட பாடல்
-
-*2025-08-09 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222169) · `ta`
-
-'பரிதாபங்கள்' புகழ் கோபி- சுதாகர் முதன்மையான வேடத்தில் நடித்திருக்கும் 'ஓ காட் பியூட்டிஃபுல் 'எனும் திரைப்படத்தில் இடம்பெற்ற 'வேணும் மச்சான் பீஸ் ..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் விஷ்ணு விஜயன் இயக்கத்தில் உருவாகி வரும் ' ஓ காட் பியூட்டிஃபுல் ' எனும் திரைப்படத்தில் கோபி, சுதாகர், வின்சு ராம் , வி டி வி கணேஷ், ரமேஷ் கண்ணா, சுரேஷ் சக்கரவர்த்தி, விஜி சந்திரசேகர், சுபத்ரா, முருகானந்தம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சக்திவேல் - கே. பி. ஸ்ரீ கார்த்திக் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜே சி ஜோ இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை பரிதாபங்கள் புரொடக்ஷன்ஸ் நிறுவனம் தயாரித்திருக்கிறது.
-
-...
-
-[Data](articles/ba2d796b.json)
-
----
-
-### நடிகர் வெற்றி நடிக்கும் 'பிளாக் கோல்டு' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
-
-*2025-08-09 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/222168) · `ta`
-
-தமிழ் திரையுலகில் சிறிய முதலீட்டு தயாரிப்பாளர்களுக்கான லாபத்திற்கு உத்தரவாதம் அளிக்கும் நடிகராக உயர்ந்து வரும் நடிகர் வெற்றி கதையின் நாயகனாக நடித்து வரும் 'பிளாக் கோல்டு' படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டுள்ளது.
-
-இயக்குநர் தீரன் அருண்குமார் இயக்கத்தில் உருவாகி வரும் 'பிளாக் கோல்டு' படத்தில் வெற்றி மற்றும் நடிகை பிரியாலயா ஆகியோர் முதன்மையான வேடத்தில் நடித்து வருகிறார்கள்.
-
-இவர்களுடன் லிவிங்ஸ்டன், துளசி, 'பிக் பொஸ்' அபிராமி, இயக்குநர் ஏ. வெங்கடேஷ், விஜய் ரிவி ராமர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சந்தோஷ் குமார் வீரசாமி ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு கவாஸ்கர் அவினாஷ் இசையமைக்கிறார். இந்தத் திரைப்படத்தை எம் எம் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் எம். மூர்த்தி தயாரிக்கிறார்.
-
-இப்படத்தின் படப்பிடிப்பு விறுவிறுப்பாக நடைபெற்று வருகிறது. இத்தருணத்தில் இப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டுள்ளது. இதில் நடிகர் வெற்றியின் எக்சன் அவதாரத் தோற்றம் ரசிகர்களை வெகுவாக கவர்ந்திருக்கிறது.
-
-...
-
-[Data](articles/8f9641a0.json)
-
----
-
-### இயக்குநர் லோகேஷ் கனகராஜ் வெளியிட்ட விக்ரம் பிரபுவின் ' சிறை ' படத்தின் ஃபர்ஸ்ட் லுக்
-
-*2025-08-09 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222167) · `ta`
-
-தமிழ் திரையுலகின் பிரபல நடிகரான விக்ரம் பிரபு - புதுமுக நடிகர் எல் கே அக்சய் குமார் ஆகியோர் இணைந்து கதையின் நாயகர்களாக நடித்திருக்கும் ' சிறை 'எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர இயக்குநரான லோகேஷ் கனகராஜ் அவருடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
-
-அறிமுக இயக்குநர் சுரேஷ் ராஜகுமாரி இயக்கத்தில் உருவாகி வரும் 'சிறை ' எனும் திரைப்படத்தில் விக்ரம் பிரபு , அனந்தா, எல் கே அக்ஷய் குமார் , அனீஸ்மா ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள். மாதேஷ் மாணிக்கம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜஸ்டின் பிரபாகரன் இசையமைத்திருக்கிறார். உண்மை சம்பவத்தை தழுவி தயாராகி இருக்கும் இந்த திரைப்படத்தை செவன் ஸ்கிரீன் ஸ்டுடியோ நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ் எஸ் லலித் குமார் தயாரித்திருக்கிறார்.
-
-...
-
-[Data](articles/e6d912f6.json)
-
----
-
-### අනවසර විදුලි රැහැනකට පුද්ගලයෙක් හා ගවයෙක් බිලි
-
-*2025-08-09 14:24:55* · [`adalk`](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැනකට-පුද්ගලයෙක්-හා-ගවයෙක්-බිලි/11-417804) · `si`
-
-කොස්ලන්ද  කැලිපාණාවල ප්‍රදේශයේ වගා බිමක් තුළ ඇද තිබූ අනවසර විදුලි රැහැන්නක පැටලී අද (09)  පුද්ගලයෙකු සහ මී ගවයකු ජීවිතක්ෂයට පත් වී ඇති බව කොස්ලන්ද පොලීසිය.
-
-මෙසේ  ජීවිතක් සියයට පත් වී ඇත්තේ පැල්පොළ ලොකු ලියනගේ ප්‍රේමදාස නමැති හැට දෙක හැවිරිදි පුද්ගලයෙකි.
-
-වන සතුන්ගෙන් කුඹුර ආරක්ෂා කර ගැනීම සඳහා මෙසේ අනවසර විදුලි රැහැන්  ඇද තිබූ බවත් මීට සම්බන්ධව සැකපිට පුද්ගලයකු මේ වන විට අත්අඩංගුවට ගෙන ඇති බවත් පොලිසිය පැවසීය.
-
-◼️
-
-[Data](articles/c3a2cf44.json)
 
 ---

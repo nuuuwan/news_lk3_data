@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 13:50:18**
+As of **2025-08-10 14:07:38**
 
 ## Newspaper Stats
 
-*Scraped **69,668** Articles*
+*Scraped **69,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,704
 adaderanalk | 8,668
 tamilmirrorlk | 10,194
 virakesarilk | 11,602
-adaderanasinhalalk | 12,015
+adaderanasinhalalk | 12,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (89.0%) of 69,668 articles have been extended.
+61,973 (89.0%) of 69,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### බ්‍රසීලයේ බස් - ට්‍රක් රථ අනතුරකින් 11ක් මරුට
+
+*2025-08-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213228) · `si`
+
+බ්‍රසීලයේ මාතෝ ග්‍රෝසෝ ප්‍රාන්තයේ මහා මාර්ගයකදී සිදු වූ රිය අනතුරකින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තිබේ.
+
+මගී ප්‍රවාහන බස් රථයක් සහ ට්‍රක් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ මෙම අනතුර හේතුවෙන් තවත් පුද්ගලයින් 45ක් පමණ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+
+◼️
+
+[Data](articles/59763fbc.json)
+
+---
 
 ### ஜனாதிபதியிடம் ஆவணம் கையளிப்பு
 
@@ -1757,21 +1773,5 @@ This year’s celebration, jointly organised by various public and private insti
 ...
 
 [Data](articles/f790b458.json)
-
----
-
-### කෙන්යාවේ බස් රථ අනතුරකින් 25ක් මරුට
-
-*2025-08-09 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213202) · `si`
-
-නිරිතදිග කෙන්යාවේ සිදු වූ බස් රථ අනතුරකින් පුද්ගලයින් 25 දෙනෙකු මිය ගොස් තිබේ.
-
-අවමංගල්‍ය උත්සවයකට සහභාගී වී සිය නිවෙස් බලා යමින් සිටි පිරිසක් රැගත් බස් රථයක් මෙසේ අනතුරට ලක්ව ඇත.
-
-බස් රථය බටහිර නගරයේ කකාමේගා සිට කිසුමු නගරය දක්වා ධාවනය වෙමින් තිබී ඇති අතර රියදුරුට වේගය පාලනය කර ගත නොහැකි ව බස් රථය පෙරළීමෙන් මෙම අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය පවසයි.
-
-◼️
-
-[Data](articles/eec61e9b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 16:21:22**
+As of **2025-08-10 16:32:24**
 
 ## Newspaper Stats
 
-*Scraped **69,691** Articles*
+*Scraped **69,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,246
 islandlk | 4,264
 dailymirrorlk | 4,733
 dailyftlk | 4,890
-adalk | 6,708
-adaderanalk | 8,674
+adalk | 6,709
+adaderanalk | 8,677
 tamilmirrorlk | 10,194
 virakesarilk | 11,610
-adaderanasinhalalk | 12,020
+adaderanasinhalalk | 12,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.9%) of 69,691 articles have been extended.
+61,973 (88.9%) of 69,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-10 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට හෙට තද වැසි
+
+*2025-08-10 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213233) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (10) පස්වරුවේ නිකුත්කළ නිවේදනයට අනුව හෙට (11) සවස 2න් පමණ පසු ඌව පළාතේ සහ අම්පාර, මඩකලපුව දිස්ත්‍රික්කවල ස්ථාන ස්වල්පයකට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග තාවකාලික තද සුළං ඇතිවිය හැකි බවත්, අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසත් ඔවුන් ජනතාවගෙන් ඉල්ලා සිටී.
+
+මේ අතර අද අවම උෂ්ණත්වය නුවරඑළියෙන් වාර්තා වී ඇති අතර, එහි අගය සටහන් වී ඇත්තේ සෙල්සියස් අංශක 12.7ක් ලෙසය.
+
+එමෙන්ම උපරිම උෂ්ණත්වය මන්නාරමින් වන අතර, එය සෙල්සියස් අංශක 27.2ක් බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/e98f7054.json)
+
+---
+
+### එස්.අයි. වෙඩි තබාගෙන දිවි හානි කර ගනියි
+
+*2025-08-10 15:26:32* · [`adalk`](https://www.ada.lk/breaking_news/එස්-අයි--වෙඩි-තබාගෙන-දිවි-හානි-කර-ගනියි/11-417818) · `si`
+
+වීරගුල පොලිස්ථානය තුලදී උප පොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගෙන ජීවිතක්ෂයට පත්ව ඇත. අද (10) පස්වරු  2 ට  පමණ පොලිස් පරිශ්‍රය තුලදී වෙඩි තබා ගැනීමෙන් ජීවිතක්ෂයට පත්ව ඇත්තේ 56 හැවිරිදි අයෙකු බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය  සදහන් කළේය. සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණ අරඹා ඇත.
+
+◼️
+
+[Data](articles/2d07fd33.json)
+
+---
+
+### Weeragula Police Sub Inspector dies shooting himself
+
+*2025-08-10 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111339/weeragula-police-sub-inspector-dies-shooting-himself) · `en`
+
+A Sub Inspector attached to the Weeragula Police Station has reportedly died after shooting himself with his service firearm, the Office of the Police Media Spokesman stated.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+- For emergencies, contact the National Mental Health Helpline: 1926
+
+◼️
+
+[Data](articles/04511799.json)
+
+---
 
 ### උපපොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගනී
 
@@ -57,6 +105,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f705100e.json)
+
+---
+
+### A/L Exam to begin on November 10, O/L Exam in February 2026
+
+*2025-08-10 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111338/al-exam-to-begin-on-november-10-ol-exam-in-february-2026) · `en`
+
+The 2025 GCE Advanced Level Examination will be held from November 10 to December 5, 2025, the Commissioner General of Examinations, AKS Indika Kumari Liyanage has announced.
+
+Speaking during a media briefing today, the Commissioner General of Examinations also confirmed that the 2025 GCE Ordinary Level Examination will be held from February 17 to February 26, 2026.
+
+◼️
+
+[Data](articles/b257119b.json)
 
 ---
 
@@ -93,6 +155,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/420f665e.json)
+
+---
+
+### Grade 5 Scholarship exam results to be released before September 20
+
+*2025-08-10 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111337/grade-5-scholarship-exam-results-to-be-released-before-september-20) · `en`
+
+The Commissioner General of Examinations, AKS Indika Kumari Liyanage, says that the results of the Grade 5 Scholarship Examination held today (10), is expected to be released before September 20.
+
+This year’s Grade 5 Scholarship exam was worked-off at 2,787 centers across the country today.
+
+According to the Commissioner General of Examinations, Indika Kumari Liyanage, a total of 901 students with special needs sat for the exam this year, including 12 candidates using Braille scripts.
+
+The Commissioner General of Examinations, AKS Indika Kumari Liyanage noted that the Department will take all steps to release the exam results promptly.
+
+She said it will allow authorities adequate time to process the results to take necessary steps.
+
+◼️
+
+[Data](articles/76080d67.json)
 
 ---
 
@@ -1687,91 +1769,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/d7232e2b.json)
-
----
-
-### Ceylinco Life named Lanka’s Top Insurance Brand again
-
-*2025-08-09 21:43:00* · [`islandlk`](http://island.lk/ceylinco-life-named-lankas-top-insurance-brand-again/) · `en`
-
-Ceylinco Life has been ranked the most valuable insurance brand in Sri Lanka and the 22nd most valuable brand in the country overall in the 2025 edition of the ‘Sri Lanka 100’ released by Brand Finance, the world’s leading independent brand valuation consultancy.
-
-Brand Finance has assigned the Ceylinco Life corporate brand a value of Rs 6.45 billion and a Brand Rating of AAA-, reaffirming its strength and reputation in the market. The Company has moved up five places in the overall ranking from 27th in 2023, while the value assigned to the brand has grown 84.3 percent, reflecting consistent brand growth, customer trust, and clear leadership in the life insurance sector.
-
-Ceylinco Life continues to retain its status as the top-ranked brand in both the life insurance and overall insurance sectors in Sri Lanka. It held this distinction in the 2023 rankings as well.
-
-...
-
-[Data](articles/6d9b1c96.json)
-
----
-
-### නිව්යෝර්ක් හි ටයිම්ස් චතුරශ්‍රයේ වෙඩි තැබීමක්
-
-*2025-08-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213208) · `si`
-
-නිව්යෝර්ක් නගරයේ සුප්‍රසිද්ධ ටයිම්ස් චතුරශ්‍රයේ සිදු වූ වෙඩි තැබීමකින් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා ඇති බව එරට පොලීසිය පවසයි.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ තුවාල ලැබූවන් රෝහල් ගත කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බවය.
-
-මෙම වෙඩි තැබීම සම්බන්ධයෙන් මේ වන විට එක් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/205c043e.json)
-
----
-
-### ගාසා තීරයේ මන්දපෝෂණයෙන් මිය ගිය ගණන තවත් ඉහළට
-
-*2025-08-09 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213207) · `si`
-
-ගාසා තීරයේ මන්දපෝෂණයෙන් තවත් 11 දෙනෙකු මියගොස් ඇති බව හමාස් සංවිධානය විසින් මෙහෙයවන සෞඛ්‍ය අමාත්‍යාංශය පවසා තිබේ.
-
-ඒ අනුව මේ දක්වා ගාසා තීරයේ මන්දපෝෂණය ආශ්‍රිතව මරණ සංඛ්‍යාව 212ක් දක්වා ඉහළ ගොස් ඇත.
-
-මේ අතර පසුගිය පැය 24 තුළ ඊශ්‍රායලය විසින් සිදුකරන ලද හමුදා ක්‍රියාකාරකම් හේතුවෙන් අවම වශයෙන් පුද්ගලයින් 38 දෙනෙකු මියගොස් තවත් පුද්ගලයින් 491ක් තුවාල ලබා ඇතැයිද එම සෞඛ්‍ය අමාත්‍යාංශය වාර්තා කර ඇත.
-
-එමෙන්ම මේ වන විට ඊශ්‍රායල ආරක්ෂක කැබිනට් මණ්ඩලය විසින් අනුමත කරන ලද ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා මූලධර්ම 05ක් එළි දක්වා ඇති අතර ඉන් එකක් වනුයේ භූමියෙහි ආරක්ෂක පාලනය අත්පත් කර ගැනීමය.
-
-ඊශ්‍රායල මාධ්‍ය වාර්තා කර ඇත්තේ සැලැස්ම මගින් අවධානය යොමු කරනුයේ ගාසා නගරයේ සම්පූර්ණ පාලනය අත්පත් කර ගැනීම සහ එහි ඇස්තමේන්තුගත මිලියනයක පදිංචිකරුවන් තවත් දකුණට ගෙන යාම බවය.
-
-කෙසේ වෙතත් මෙම සැලැස්මට ලෝක නායකයින්ගේ විවේචනය මෙන්ම ඊශ්‍රායලය තුළ සිටින ඇතැම් පිරිස්ද දැඩි විරෝධයක් එල්ල කර තිබේ.
-
-...
-
-[Data](articles/f1becc20.json)
-
----
-
-### மல்வத்து, அஸ்கிரி  மகாநாயக்க தேரர்களை சந்தித்தார் ஜனாதிபதி
-
-*2025-08-09 21:08:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வத்து-அஸ்கிரி-மகாநாயக்க-தேரர்களை-சந்தித்தார்-ஜனாதிபதி/175-362605) · `ta`
-
-கண்டி வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையில் நடைபெறும் வருடாந்த எசல பெரஹெராவின் நிறைவு நிகழ்வில் கலந்துகொள்ள கண்டிக்குச் சென்ற  ஜனாதிபதி அநுரகுமார திசாநாயக்க, இன்று (09) பிற்பகல் மல்வத்து மற்றும் அஸ்கிரி தரப்பு  மகாநாயக்க தேரர்களைச் சந்தித்து  ஆசிகளைப் பெற்றார்.
-
-முதலில் மல்வத்து மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி, மல்வத்து மாநாயக்க தேரர்  வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல  தேரரைச் சந்தித்து ஆசிர்வாதங்களைப் பெற்றதுடன், சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
-
-பின்னர் அஸ்கிரி மகா விஹாரைக்குச் சென்ற ஜனாதிபதி அநுரகுமார திசாநாயக்க, அஸ்கிரி தரப்பின் மகாநாயக்க  வண, வரகாகொட ஸ்ரீ ஞானரதன தேரரை சந்தித்து நலம்  விசாரித்ததுடன், சிறு உரையாடலிலும் ஈடுபட்டார். R
-
-◼️
-
-[Data](articles/f4b87dc5.json)
-
----
-
-### President visits the Chief Prelates of Malwathu and Asgiri Chapters
-
-*2025-08-09 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111311/president-visits-the-chief-prelates-of-malwathu-and-asgiri-chapters) · `en`
-
-President Anura Kumara Dissanayake, who is in Kandy to participate in the annual Esala Perahera festival of the historic Sri Dalada Maligawa, visited the Chief Prelates of the Malwathu and Asgiri Chapters this afternoon (09) and received their blessings.
-
-The President first visited the Malwathu Maha Viharaya, where he met with the Chief Prelate of the Malwathu Chapter, the Most Venerable Thibbatuwawe Sri Sumangala Thero, the President’s Media Division (PMD) said.
-
-Subsequently, the President visited the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, the Most Venerable Warakagoda Sri Gnanarathana Thero, and received his blessings.
-
-◼️
-
-[Data](articles/90ea584c.json)
 
 ---

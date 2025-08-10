@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-10 15:48:43**
+As of **2025-08-10 16:07:33**
 
 ## Newspaper Stats
 
@@ -46,7 +46,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 2025 සා පෙළ විභාගය ලබන වසරේ පෙබරවාරි 17 සිට 26 දක්වා
+### 2025 සාමාන්‍ය පෙළ විභාගය ලබන වසරේ පෙබරවාරි 17 සිට 26 දක්වා
 
 *2025-08-10 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213231) · `si`
 

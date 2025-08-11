@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 16:07:15**
+As of **2025-08-11 16:23:19**
 
 ## Newspaper Stats
 
-*Scraped **69,870** Articles*
+*Scraped **69,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,255
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,732
+adalk | 6,734
 adaderanalk | 8,690
 tamilmirrorlk | 10,230
 virakesarilk | 11,645
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,044
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,870 articles have been extended.
+61,973 (88.7%) of 69,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -601,6 +601,22 @@ The unauthorised possession and sale of Ambergris is illegal in Sri Lanka.
 ◼️
 
 [Data](articles/4aea1818.json)
+
+---
+
+### පලස්තීන රාජ්‍ය පිළිගන්නා බව ඔස්ට්‍රේලියාව කියයි
+
+*2025-08-11 11:43:10* · [`adalk`](https://www.ada.lk/international/පලස්තීන-රාජ්‍ය-පිළිගන්නා-බව-ඔස්ට්‍රේලියාව-කියයි/3-417841) · `si`
+
+සැප්තැම්බර් මාසයේ පැවැත්වෙන එක්සත් ජාතීන්ගේ මහා මණ්ඩල සැසිවාරයේදී පලස්තීන රාජ්‍යයක් පිළිගන්නා බව ඔස්ට්‍රේලියානු අගමැති ඇන්තනි ඇල්බනීස් පැවසීය. එක්සත් රාජධානිය, ප්‍රංශය සහ කැනඩාවට පසුව පලස්තීන රාජ්‍ය නිල වශයෙන් පිළිගන්නා බවට නිවේදනය කළ සිව්වැනි ප්‍රධාන පෙලේ රට වන්නේ ඔස්ට්‍රේලියාවයි.
+
+"මැදපෙරදිග ප්‍රචණ්ඩත්වයේ චක්‍රය බිඳ දැමීමට සහ ගාසා තීරයේ ගැටුම, දුක් වේදනා සහ සාගින්න අවසන් කිරීමට මානව වර්ගයාගේ හොඳම බලාපොරොත්තුව ද්වි-රාජ්‍ය විසඳුමක්" බව ඔහු සඳුදා පැවසීය.
+
+ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා වැඩිවන පීඩනයකට ලක්ව සිටින ඊශ්‍රායලය සඳහන් කරන්නේ පලස්තීන රාජ්‍යයෙ පිළිගැනීම ත්‍රස්තවාදයට ආධාර කිරීමක් බවයි.
+
+◼️
+
+[Data](articles/ac7682d0.json)
 
 ---
 
@@ -1781,23 +1797,5 @@ It is necessary, first, to recognise and appreciate the role played by action gr
 ◼️
 
 [Data](articles/a13c1c5a.json)
-
----
-
-### 2025-08-10 (Sunday)
-
-### බොරැල්ලේ වෙඩිතැබීමෙන් තවත් තරුණයෙක් මරුට
-
-*2025-08-10 22:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213242) · `si`
-
-බොරැල්ල සිරිසර උයන ක්‍රීඩාංගණයේදී ඉකුත් 7 වනදා රාත්‍රියේ සිදුවූ වෙඩිතැබීමෙන් තුවාල ලබා සිටි තවත් තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-මියගිය පුද්ගලයා 23 හැවිරිදි වියේ පසුවන අයෙකු බව පොලීසිය පැවසීය.
-
-ඒ අනුව සිද්ධියෙන් මේ වනවිට පුද්ගලයින් දෙදෙනෙකුට දිවි අහිමි වී ඇත.
-
-◼️
-
-[Data](articles/88f40332.json)
 
 ---

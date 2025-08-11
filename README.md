@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 04:06:39**
+As of **2025-08-12 04:20:34**
 
 ## Newspaper Stats
 
-*Scraped **69,972** Articles*
+*Scraped **69,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,920
+dailyftlk | 4,925
 adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
@@ -26,11 +26,97 @@ adaderanasinhalalk | 12,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,972 articles have been extended.
+61,973 (88.6%) of 69,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### 20th International Society for Twin Studies Conference kicks off in Colombo
+
+*2025-08-12 04:03:23* · [`dailyftlk`](https://www.ft.lk/news/20th-International-Society-for-Twin-Studies-Conference-kicks-off-in-Colombo/56-780170) · `en`
+
+International Society for Twin Studies President Prof. David Laszlo Tarnoki (right) officially handed over the 2026-2027 presidency to Secretary General of the Society Prof. Athula Sumathipala at the inauguration of the 20th International Society for Twin Studies held in Colombo yesterday – Pix by Lasantha Kumara
+
+The 20th International Society for Twin Studies (ISTS) Conference and the 8th World Congress on Twin Pregnancy kicked off in Colombo yesterday at the Cinnamon Grand.
+
+The two-day event is a global landmark, bringing together over 250 delegates from over 30 countries, representing top universities and research institutions across the UK, Europe, Australia, Asia and North America.
+
+...
+
+[Data](articles/3993bd85.json)
+
+---
+
+### South Asia Chief Commissioners of  Scout to gather in Colombo for first time
+
+*2025-08-12 04:00:51* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-Chief-Commissioners-of-Scout-to-gather-in-Colombo-for-first-time/56-780169) · `en`
+
+The Sri Lanka Scout Association will host the South Asian Association of National Scout Organisations (SAANSO) Chief Commissioners’ Conference for the first time in the country’s history. The event will take place tomorrow at the National Headquarters of the Sri Lanka Scout Association, Colombo 02.
+
+The conference will be graced by senior officials from the World Scout Bureau and the Asia-Pacific Regional Support Centre of WOSM, alongside the Chief Commissioners of all eight SAANSO member countries.
+
+This landmark gathering aims to strengthen collaboration and engagement among National Scout Organisations (NSOs) in South Asia, fostering shared growth, regional solidarity, and a stronger collective voice in the Asia-Pacific Region and the global Scouting movement. It will also serve as a platform to encourage mutual participation in national programs, promote shared learning, and project a united South Asian Scouting presence.
+
+...
+
+[Data](articles/05897860.json)
+
+---
+
+### Sunil Kumara Gamage elected President of Sri Lanka-Italy Parliamentary Friendship Association
+
+*2025-08-12 04:00:29* · [`dailyftlk`](https://www.ft.lk/news/Sunil-Kumara-Gamage-elected-President-of-Sri-Lanka-Italy-Parliamentary-Friendship-Association/56-780168) · `en`
+
+Youth Affairs and Sports Minister Sunil Kumara Gamage (left) with Italian Ambassador to Sri Lanka Damiano Francovigh
+
+Youth Affairs and Sports Minister Sunil Kumara Gamage has been elected President of the Sri Lanka-Italy Parliamentary Friendship Association for the Tenth Parliament.
+
+The revival meeting of the Association was held last Thursday (7) at Parliament under the patronage of Speaker Dr. Jagath Wickramaratne. Italian Ambassador to Sri Lanka Damiano Francovigh attended the event as the Guest of Honour. MP Hector Appuhamy was elected the Secretary of the Association.
+
+...
+
+[Data](articles/1680a521.json)
+
+---
+
+### Celebrating cultural diversity at Independence Arcade
+
+*2025-08-12 03:58:14* · [`dailyftlk`](https://www.ft.lk/news/Celebrating-cultural-diversity-at-Independence-Arcade/56-780167) · `en`
+
+Colombo’s Independence Arcade turned into a vibrant hub of culture, commerce, and community recently as ‘WINGS: Flight Begins Here’, a two-day diversity market, unfolded on 1 and 2 August, drawing large crowds in celebration of Sri Lanka’s rich pluralistic spirit.
+
+Hosted by Chrysalis, a non-governmental organisation committed to promoting economic independence, dignified work, leadership, and inclusion among underserved communities in Sri Lanka, the event was open to the general public and drew an enthusiastic and diverse crowd.
+
+The market showcased small and medium entrepreneurs from across the country, offering attendees the chance to support local businesses across various sectors — from crafts and food to eco-products and fashion. Beyond shopping, visitors engaged in interactive dialogues exploring the private sector’s role in social cohesion, and experienced Sri Lanka’s pluralistic heritage through dynamic cultural performances and community-driven initiatives.
+
+...
+
+[Data](articles/4e861ae0.json)
+
+---
+
+### Minister Anura Karunathilaka elected President of SL-Pakistan Parliamentary Friendship Association
+
+*2025-08-12 03:56:50* · [`dailyftlk`](https://www.ft.lk/news/Minister-Anura-Karunathilaka-elected-President-of-SL-Pakistan-Parliamentary-Friendship-Association/56-780166) · `en`
+
+Pakistani High Commissioner to Sri Lanka Major General (Retd.) Faheem-Ul-Aziz (left) and Parliament Speaker Dr. Jagath Wickramaratne
+
+Pakistani High Commissioner discusses strengthening bilateral relations with Sri Lanka Parliament Speaker
+
+Talks focus on enhancing cooperation in investment, trade, tourism, and education
+
+Urban Development, Construction and Housing Minister Anura Karunathilaka has been elected President of the Sri Lanka-Pakistan Parliamentary Friendship Association for the Tenth Parliament.
+
+The revival meeting of the Association was held on 5 August at the Parliament premises under the patronage of Parliament Speaker Dr. Jagath Wickramaratne. Pakistani High Commissioner to Sri Lanka Major General (Retd.) Faheem-Ul-Aziz attended the event as Guest of Honour.
+
+Deputy Speaker Dr. Rizvie Salih, several Ministers, Deputy Ministers, MPs, and Secretary General of Parliament Kushani Rohanadeera were also present on this occasion.
+
+...
+
+[Data](articles/7e10e6eb.json)
+
+---
 
 ### Australia to recognise Palestinian State in September
 
@@ -1693,103 +1779,5 @@ Prime Lands was trading 0.10 rupees higher at 19.50 rupees, Colombo City Holding
 ◼️
 
 [Data](articles/6e25995b.json)
-
----
-
-### අනුලා සෑයෙන් හමුවූ පුරාවිද්‍යා වටිනාකමක් සහිත දෑවලට සිදුවූයේ කුමක්ද?
-
-*2025-08-11 16:01:40* · [`adalk`](https://www.ada.lk/picture_story/අනුලා-සෑයෙන්-හමුවූ-පුරාවිද්‍යා-වටිනාකමක්-සහිත-දෑවලට-සිදුවූයේ-කුමක්ද-/10-417844) · `si`
-
-මිහින්තලයේ පිහිටි ඓතිහාසික අනුලා සෑයේ කැණීම් වලදී හමුවූ ගල් පෙට්ටි විවෘත කරන විට, එම පෙට්ටිය තුළින් හමුවූ ගල් මංජුසා ඇතුළු  සහ තවත් පුරාවිද්‍යාත්මක වටිනාකම් සහිත වටිනා වස්තු වලට සිදු වූයේ කුමක්ද?  මෙම පුරාවස්තු වලට  සමනල තටු ආවේ කොහොමද යන්න පිළිබඳව විශේෂ අවධානයක් යොමු කර මේ සම්බන්ධයෙන්  සොයා බලන ලෙස ජනාධිපතිවරයාගේ අවධානයට ලක් කරන බව මිහින්තලා විහාරාධිපති පූජ්‍ය වලවා හැඟුණු වැවේ ධම්මරතන නාහිමියන් ප්‍රකාශ පැවසූහ.
-
-උන්වහන්සේ මේ බව පැවසුවේ ඊයේ (10දා) මිහින්තලේ පිහිටි අනුලා සෑය නිරීක්ෂණය කිරීමට ගොස් මාධ්‍ය වෙත අදහස් දක්වමින්ය.
-
-ක්‍රිස්තු පූර්ව දෙවැනි සියවසේදී පමණ විහාර මහා දේවිය විසින් ඉදි කරන ලද චෛත්‍යයක් බවට මෙම අනුලා දේවී චෛත්‍යය හැඳින්වේ.
-
-මෙම චෛත්‍යය කැණීම් කටයුතු ඉකුත් 2022 වර්ෂයේ සිදු කළ අතර, එම කැණීමේදී එම චෛත්‍යය තුළ තිබී, ගල් මංජුසා සහ තවත් පුරාවිද්‍යාත්මක වටිනාකම් සහිත, වටිනා වස්තු හමුවූ අතර, ඒවා විවෘත කිරීමේදී එම තුළ තිබී හමුවූ ගල් පෙට්ටි තුල තිබී පුරාවස්තු හමු වූ බව උන්වහන්සේ මෙහිදී සඳහන් කළහ.
-
-...
-
-[Data](articles/353d0ee4.json)
-
----
-
-### Three including woman arrested with narcotics worth Rs. 2 million
-
-*2025-08-11 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111355/three-including-woman-arrested-with-narcotics-worth-rs-2-million) · `en`
-
-Three individuals, including a woman have been arrested in Karuvappankerny, Batticaloa with a stock of narcotics valued at around Rs. 2 million, police stated.
-
-Police have seized 1 kilogram of Kerala cannabis, 50 grams of crystal methamphetamine (“ice”), and 25 grams of heroin found in their possession.
-
-The arrested woman is 35 years old, while the two men are aged 24 and 34, according to police.
-
-Preliminary investigations have revealed that the suspects have been involved in drug trafficking for a period of time. It has also been uncovered that the husband of the arrested woman is currently in prison on similar drug-related charges.
-
-The suspects are scheduled to be presented before court, while further investigations are being conducted by the Batticaloa Police.
-
-◼️
-
-[Data](articles/5e5b8b71.json)
-
----
-
-### 2026 වසරට අදාළ පූර්ව අයවැය යෝජනා පිළිබඳ සාකච්ඡාවක්
-
-*2025-08-11 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213257) · `si`
-
-කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය යෝජනා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (11) පෙරවරුවේ පැවැත්විණි.
-
-කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග යන ක්ෂේත්‍ර පිළිබඳව වෙන් වෙන්ව මෙහිදී නිලධාරීන් සමඟ සාකච්ඡා කළ ජනාධිපතිවරයා රජය සතු ඉඩම්වල පවතින ව්‍යාකූලතා කඩිනමින් නිරවුල් කර ගනිමින් දත්ත පද්ධතියක් සකස් කරන ලෙසද නිලධාරීන්ට උපදෙස් දුන්නේය.
-
-ඉදිරි අයවැය සැලසුම් කිරීමේදී පවත්නා තත්වයෙන් රට ඉහළට ඔසවා තැබීම සඳහා වැදගත් වන අංශයන්ට ප්‍රමුඛතාව දීමේ අවශ්‍යතාව මෙහිදී අවධාරණය කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ඒ අනුව, කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග යන ක්ෂේත්‍ර  පුළුල් ලෙස ආර්ථිකයට දායක කර ගැනීමේ ව්‍යාපෘති කෙරෙහි වැඩි අවධානයක් යොමු කරන ලෙසද නිලධාරීන්ට උපදෙස් දුන්නේය.
-
-...
-
-[Data](articles/5051ab2f.json)
-
----
-
-### Fatal ‘rat fever’ cases among children on the rise: Experts
-
-*2025-08-11 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111354/fatal-rat-fever-cases-among-children-on-the-rise-experts) · `en`
-
-The potentially fatal leptospirosis (rat fever) disease is currently on the rise, according to Dr. Deepal Perera, a pediatric specialist at the Lady Ridgeway Children’s Hospital in Colombo.
-
-Dr. Perera noted that leptospirosis is most often contracted through exposure to contaminated and muddy water.
-
-He revealed this during a media briefing held in Colombo today (11).
-
-Dr. Deepal Perera stated that this period coincides with school holidays, during which children often visit paddy fields or open areas to fly kites among other activities— a major contributing factor to the increase in cases.
-
-He added that if a fever lasts for about five to six days, it could be a symptom of leptospirosis.
-
-Other symptoms include redness or yellowing of eyes, abdominal pain, and dark yellow urine, Dr. Deepal Perera stated.
-
-Although there is treatment available for leptospirosis, Dr. Deepal Perera emphasized the need to be cautious.
-
-...
-
-[Data](articles/bc84b0bd.json)
-
----
-
-### ජාත්‍යන්තර අලි ඇතුන්ගේ දිනය හෙට
-
-*2025-08-11 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213256) · `si`
-
-ලොව පුරා අලිඇතුන් සංරක්ෂණය හා ආරක්ෂාව වෙනුවෙන් ප්‍රකාශයට පත්කළ 'ජාත්‍යන්තර අලිඇතුන්ගේ දිනය' හෙටට (අගෝස්තු 12) යෙදී තිබේ.
-
-අප්‍රිකානු සහ ආසියානු වනඅලි සහ හීලෑ අලිඇතුන් රැකබලා ගැනීම, අලි ඇතුන් දඩයම් කිරීම, විකිණීම, අලි වාසස්ථාන ආරක්ෂා කිරීම සහ ගෘහාශ්‍රිත අලිඇතුන්ට නිදහසේ ජීවත්වීමට අවශ්‍ය කටයුතු සඳසා අරමුණ කරගනිමින් 2012 වසරේ දී මෙම දිනය ප්‍රකාශයට පත්කරනු ලැබීය.
-
-එතැන් සිට මේ දක්වා වූ කාලය තුළ ලොව රටවල් 100කට අධික සංඛ්‍යාවක් මෙම දිනය පිළිගෙන සැමරීම කරනු ලබයි.
-
-සොබාදහම සංරක්‍ෂණය සඳහා වූ ජාත්‍යන්තර සංගමයට අනුව (IUCN) අද වනවිට අප්‍රිකානු අලි 'අවදානමට ලක්විය හැකි' ලෙසත් ආසියානු අලි 'වඳවීමේ තර්ජනයට ලක්ව ඇති' ලෙසත් රතු ලැයිස්තුවේ ලැයිස්තුගත කර ඇත.
-
-වර්තමානය වනවිට අප්‍රිකානු අලිඇතුන් ලක්ෂ 4ක් පමණද, ආසියානු අලිඇතුන් 50,000කට ආසන්න සංඛ්‍යාවක්ද සිටින බවටද ඇස්තමේන්තු කර තිබේ.
-
-◼️
-
-[Data](articles/5b5e56dc.json)
 
 ---

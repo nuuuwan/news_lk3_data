@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 07:39:05**
+As of **2025-08-11 08:32:27**
 
 ## Newspaper Stats
 
-*Scraped **69,800** Articles*
+*Scraped **69,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,718
+adalk | 6,719
 adaderanalk | 8,680
 tamilmirrorlk | 10,208
 virakesarilk | 11,638
-adaderanasinhalalk | 12,033
+adaderanasinhalalk | 12,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,800 articles have been extended.
+61,973 (88.8%) of 69,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### A9 මාර්ගයේ මාරක රිය අනතුරක්
+
+*2025-08-11 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213247) · `si`
+
+මහනුවර යාපනය A9 මාර්ගයේ කොඩිකාමම් පොලිස් වසමේ දී ටිපර් රථයක් හා යතුරුපැදියක් ගැටී සිදු වූ රිය අනතුරකින් යතුරුපැදිකරු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (10) රාත්‍රී 7ට පමණ ආසපුල්ලේ ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
+
+මෙහිදී මාර්ගය අයිනේ නවතා තිබූ යතුරුපැදියක් මත එහි පැදිකරු සිටි අවස්ථාවේදී, යාපනය දෙස සිට වව්නියාව දෙසට ධාවනය වූ ටිපර් රථය ගැටී තිබේ.
+
+ටිපර් රථ රියදුරු යතුරුපැදියේ සිට රථය ගැටීම වැළැක්වීමට තිරිංග ක්‍රියාත්මක කරන අවස්ථාවේ, ඊට පිටුපසින් එම දිශාවටම පැමිණි කූලරය සහිත ලොරි රථයක් ටිපර් රථයේ පිටුපස ගැටී ඇත.
+
+ඒ හේතුවෙන් ටිපර් රථය ගොස් නවතා තිබූ යතුරුපැදියේ ගැටී ඇති අතර, කූලරය සහිත ලොර් රථය ද ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කාර් රථයකද ගැටී තිබේ.
+
+යතුරුපැදිකරු බරපතළ තුවාල ලබා චාවකච්චේරිය රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+එමෙන්ම ටිපර් රථයේ රියදුරු, කූලරය සහිත ලොරි රථයේ රියදුරු, එම රථයේ රිය සහායක, කාර් රථයේ රියදුරු සහ ඔහුගේ පුත්‍රයා තුවාල ලබා ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කර තිබේ.
+
+මරණකරු වයස අවුරුදු 37ක් වූ කරම්පහම්, මිරුසුවිල් ප්‍රදේශයේ පදිංචිකරුවෙක් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/32d5f55e.json)
+
+---
 
 ### බොරැල්ලේ වෙඩිතැබීමේ සිද්ධියට තිදෙනෙක් අත්අඩංගුවට
 
@@ -1646,36 +1672,20 @@ If you or someone you know is in crisis and needs help, resources are available 
 
 ---
 
-### Sri Lanka in talks on a voluntary restructure of some residual 2022 ISBs
+### ජනවාරි සිට ජුනි දක්වා ගුවන් යානා ඉන්ධන අලෙවිය  ලීටර් මිලියන 21.5කින් ඉහළට
 
-*2025-08-10 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-on-a-voluntary-restructure-of-some-residual-2022-isbs-235443/) · `en`
+*2025-08-10 15:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-සිට-ජුනි-දක්වා-ගුවන්-යානා-ඉන්ධන-අලෙවිය--ලීටර්-මිලියන-21-5කින්-ඉහළට/11-417817) · `si`
 
-ECONOMYNEXT – Sri Lanka is in talks to restructure some defaulted 2022 bonds which did not participate in the original restructure in December 2024, a Treasury statement issued after an investor call said.
+මෙරට  ගුවන් යානා ඉන්ධන අලෙවිය 2025 වසරේ  ජනවාරි මස 1වැනි දා සිට ජූනි මස 30 වැනිදා  දක්වා කාල සීමාවේ දී ලීටර් මිලියන 21.5 කින් ඉහළ ගොස් ඇති බව  ලංකා ඛණිජ තෙල් සංස්ථාවේ කළමනාකාර අධ්‍යක්ෂ මයුර නෙත්තිකුමාර   මහතාගෙන් 8 වන දින කරන ලද විමසීමකදී ඒ මහතා සඳහන් කළේය.
 
-A holdout investor, Hamilton Reserve Bank claimed to hold 25 percent stake and has gone to court seeking full payment of the 2022 bonds, which have a so-called single series collective action clause.
+ඒ මහතා තවදුරටත් කියා සිටියේ ගුවන් යානාවලට ඉන්ධන ලබා ගැනීමේදී අදාල සමාගම් විසින් සිදුකරන ගෙවීම් සඳහා පහසු මෙන්ම ඉක්මන් ක්‍රමවේ‍දයක් 2025 ජුලි මාසයේ සිට හඳුන්වා දී ඇති බැවින් වැඩි සමාගම් ප්‍රමානයක්  ගුවන් යානා ඉන්ධන ලබා ගැනීම සඳහා පැමිණි බව සඳහන් කළේය
 
-“Certain holders of the 2022 Bonds who did not participate to the Exchange Offer have come forward to achieve a settlement in line with the Exchange Offer’s Most Favored Creditor Clause, and discussions are currently ongoing,” the statement said.
+පසුගිය 2024 වර්ෂයේ මුල් මාස හයක කාලයට සංසන්දනය කර බැලීමේදී මෙම වසර ගුවන් යානා   ඉන්ධන  අලෙවියේ විශාල වර්ධනයක් සිදුවි ඇති බව කළමනාකර අධ්‍යක්ෂවරයා සදහන් කළේය .
 
-“The Government plans to finalize and implement restructuring agreements with all parties in the coming months, in line with its commitments to the IMF debt sustainability targets and the Comparability of Treatment principles.”
-
-Exchange of the 2022 bond was voluntary and the court case is still ongoing.
-
-...
-
-[Data](articles/5478841d.json)
-
----
-
-### A/L Exam to begin on November 10, O/L Exam in February 2026
-
-*2025-08-10 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111338/al-exam-to-begin-on-november-10-ol-exam-in-february-2026) · `en`
-
-The 2025 GCE Advanced Level Examination will be held from November 10 to December 5, 2025, the Commissioner General of Examinations, AKS Indika Kumari Liyanage has announced.
-
-Speaking during a media briefing today, the Commissioner General of Examinations also confirmed that the 2025 GCE Ordinary Level Examination will be held from February 17 to February 26, 2026.
+කලාපයේ අනෙකුත් රටවල් සමඟ තරඟ කාරී මිල  ගණන් පවත්වාගෙන යාමෙන් ඉන්ධන අලෙවිය ඉහළ දැමීමට හැකි වූ බවත් ඔහු වැඩිදුරටත් කීය
 
 ◼️
 
-[Data](articles/b257119b.json)
+[Data](articles/b0c526b5.json)
 
 ---

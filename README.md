@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 01:06:16**
+As of **2025-08-12 01:17:35**
 
 ## Newspaper Stats
 
-*Scraped **69,955** Articles*
+*Scraped **69,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,912
+dailyftlk | 4,913
 adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,955 articles have been extended.
+61,973 (88.6%) of 69,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### Should MEPA be apportioned major part of blame for X-Press Pearl marine environmental disaster?
+
+*2025-08-12 00:56:50* · [`dailyftlk`](https://www.ft.lk/columns/Should-MEPA-be-apportioned-major-part-of-blame-for-X-Press-Pearl-marine-environmental-disaster/4-780131) · `en`
+
+The toxic leak killed a large number of fish, turtles, dolphins, whales and other marine mammals, and caused extensive damages to the coral reefs and pristine beaches
+
+Marine Environment Protection Authority (MEPA) and its former Chairperson were found guilty by the Supreme Court (SC) unanimously in a far-reaching judgment contained in a 361 volume for failures to respond to the X-Press Pearl disaster and for non-compliance with their statutory duties and obligations under the MEPA Act.
+
+The SC also found that the failure of the Chairperson to convene a meeting of the Board of Directors constitutes a glaring dereliction of duty at a time when the world’s worst marine environment disaster affected our marine biodiversity to the highest magnitude in terms of the chemicals and polymers discharged to the marine environment.
+
+...
+
+[Data](articles/9d4f3cd5.json)
+
+---
 
 ### Home Lands betters own record by achieving Rs. 8.8 b sales in July
 
@@ -1787,17 +1803,5 @@ However, police stated that her body has now been recovered and brought ashore a
 ◼️
 
 [Data](articles/5497f9ab.json)
-
----
-
-### ட்ரம்பின் வர்த்தக வரிகளுக்கு எதிரான இந்தியாவின் துணிச்சலை கேலி செய்வதா?
-
-*2025-08-11 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222307) · `ta`
-
-"பாராளுமன்ற உறுப்பினர்  ஹர்ஷ டி சில்வா சுட்டிக்காட்டியது போல், இலங்கை, அமெரிக்காவின் நிபந்தனைகளை நிறைவேற்றும் போது, நெருக்கடியான காலங்களில் உதவிய இந்தியாவின் உணர்வுகளையும் கருத்தில் கொள்ள வேண்டும். அமெரிக்கா, இந்தியா, சீனா போன்ற பெரிய சக்திகளுக்கு இடையே இலங்கை சிக்கியுள்ளது. இந்த நெருக்கடிகளைச் சமாளிக்க இலங்கை ஒரு தெளிவான மற்றும் உறுதியான வெளியுறவுக் கொள்கையை கொண்டிருக்க வேண்டும் "
-
-◼️
-
-[Data](articles/081c5f6b.json)
 
 ---

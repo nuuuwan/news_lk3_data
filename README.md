@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 18:34:06**
+As of **2025-08-11 19:00:33**
 
 ## Newspaper Stats
 
-*Scraped **69,892** Articles*
+*Scraped **69,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,737
 adaderanalk | 8,694
-tamilmirrorlk | 10,234
+tamilmirrorlk | 10,235
 virakesarilk | 11,647
-adaderanasinhalalk | 12,051
+adaderanasinhalalk | 12,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,892 articles have been extended.
+61,973 (88.7%) of 69,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### முன்னாள் ஜனாதிபதிகளின் சலுகை ரத்து சட்டமூலம்;எதிர்ப்பு மனுத் தாக்கல்
+
+*2025-08-11 18:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-சலுகை-ரத்து-சட்டமூலம்-எதிர்ப்பு-மனுத்-தாக்கல்/175-362709) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை ரத்து செய்வதற்காக அரசாங்கம் பாராளுமன்றத்தில் சமர்ப்பித்த சட்டமூலத்தை எதிர்த்து உயர் நீதிமன்றத்தில் மனு ஒன்று தாக்கல் செய்யப்பட்டுள்ளது.
+
+இந்த மனுவை இலங்கை பொதுஜன பெரமுனவின் நிர்வாக செயலாளர் ரேணுகா பெரேரா சமர்ப்பித்தார்.
+
+கடந்த வாரம் (07), நீதி அமைச்சர் ஹர்ஷன நாணயக்கார, 1986 ஆம் ஆண்டின் 4 ஆம் இலக்க ஜனாதிபதி உரிமைச் சட்டத்தை ரத்து செய்யவும், முன்னாள் ஜனாதிபதிகள், அவர்களது மனைவிகள் மற்றும் ஓய்வுபெற்ற பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்ட சிறப்பு சலுகைகளை ரத்து செய்யவும் கோரும் ஜனாதிபதி உரிமைகள் (ரத்து) சட்டமூலத்தை பாராளுமன்றத்தில் சமர்ப்பித்தார்.
+
+ஜூலை 31, 2025 வெளியிடப்பட்ட வர்த்தமானியில் இந்த முன்மொழியப்பட்ட சட்டம், முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது விதவைகளுக்கான உத்தியோகபூர்வ குடியிருப்புகள், மாதாந்திர கொடுப்பனவுகள், செயலக உதவி, போக்குவரத்து வசதிகள் மற்றும் ஓய்வூதியம் உள்ளிட்ட உரிமைகளை முடிவுக்குக் கொண்டுவரும்.
+
+◼️
+
+[Data](articles/e9ba1b67.json)
+
+---
+
+### පිරිවෙන් සාමාන්‍ය පෙළ විභාගයේ නැවත සමීක්‍ෂණ අයදුම්පත්  කැඳවීම හෙට සිට
+
+*2025-08-11 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213265) · `si`
+
+2024 (2025) පිරිවෙන් සාමාන්‍ය පෙළ විභාගයේ උත්තර පත්‍ර නැවත සමීක්ෂණය සඳහා වන අයදුම්පත් මාර්ගගත ක්‍රමයට පමණක් කැඳවන බව විභාග දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+හෙට (12) සිට මේ සඳහා අයඳුම් කිරීමට අවස්ථාව සැලසෙන අතර අගෝස්තු 26 වනදායින් අයදුම්පත් කැඳවීම අවසන් වන බවද එම නිවේදනයේ සඳහන් වේ.
+
+ඒ අනුව විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය වන www.doenets.lk වෙත පිවිස "අපගේ සේවා" (our services) යටතේ ඇති පිරිවෙන් සාමාත්‍ය පෙළ විභාගය - 2024 (2025) - උත්තර පත්‍ර නැවත සමීක්ෂණය [Piriven Oridinary Level Examination-2024 (2025) - Re-scrutiny of Results) වෙත පිවීසීමෙන් මේ සඳහා අයදුම් කළ හැකිය.
+
+එමෙන්ම විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය www.doenets.lk වෙත පිවිස " අපගේ සේවා" (our services) යටතේ ඇති Exam Information Center සබැඳිය හරහාද අයදුම් කිරීමට හැකියාව ඇත.
+
+◼️
+
+[Data](articles/43d485a3.json)
+
+---
 
 ### සහස්පුර වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
 
@@ -1819,37 +1855,5 @@ Advocata Institute CEO Dhananath Fernando recently said small and medium enterpr
 ...
 
 [Data](articles/31de4d45.json)
-
----
-
-### LAUGFS Rubber wins Gold for export excellence
-
-*2025-08-11 05:42:41* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-wins-Gold-for-export-excellence/34-780107) · `en`
-
-Industrial solid tyre manufacturer LAUGFS Rubber secured multiple recognitions at the recently held National Business Excellence Awards (NBEA) 2025.
-
-The company was honoured as the winner in the Export Sector and named second Joint Runner-Up in the Large Category. These accolades highlight LAUGFS Rubber’s strong global presence, operational excellence, and ongoing leadership in the industrial tyre manufacturing industry.
-
-The NBEA is a premier annual awards program organised by the National Chamber of Commerce of Sri Lanka, aimed at recognising organisations that demonstrate outstanding achievements across critical areas of business excellence. Participating companies are assessed through a robust framework that includes leadership, corporate governance, performance management, market reach, sustainability, and capacity building.
-
-...
-
-[Data](articles/c182919d.json)
-
----
-
-### National Council for Disaster Management convenes after seven years
-
-*2025-08-11 05:38:37* · [`dailyftlk`](https://www.ft.lk/news/National-Council-for-Disaster-Management-convenes-after-seven-years/56-780106) · `en`
-
-President AKD instructs officials to amend Disaster Management Act to meet current needs
-
-The 14th session of the National Council for Disaster Management was held last Wednesday (6) at the Presidential Secretariat under the patronage of President Anura Kumara Disanayake. Significantly, this is the first time the Council has convened in seven years, the President’s Media Division said in a statement.
-
-The Council was established under the Disaster Management Act, No. 13 of 2005, following the national need that emerged after the 2004 tsunami. The last meeting was held on 5 April 2018. The Council is responsible for overseeing the duties assigned to all institutions involved in disaster management, minimising disaster risks across the country and making necessary policy decisions to guide those efforts.
-
-...
-
-[Data](articles/9c3c5ae3.json)
 
 ---

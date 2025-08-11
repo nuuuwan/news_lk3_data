@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 18:10:44**
+As of **2025-08-11 18:34:06**
 
 ## Newspaper Stats
 
-*Scraped **69,891** Articles*
+*Scraped **69,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,255
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,736
+adalk | 6,737
 adaderanalk | 8,694
 tamilmirrorlk | 10,234
 virakesarilk | 11,647
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,891 articles have been extended.
+61,973 (88.7%) of 69,892 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,24 @@ President Dissanayake held separate discussions with officials on agriculture, l
 ...
 
 [Data](articles/e5aaed40.json)
+
+---
+
+### යුධ හමුදාවට එරෙහි හර්තාලයට ලංකා කම්කරු කොංග්‍රසයේ සහාය
+
+*2025-08-11 16:34:38* · [`adalk`](https://www.ada.lk/breaking_news/යුධ-හමුදාවට-එරෙහි-හර්තාලයට-ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය/11-417846) · `si`
+
+යුධ හමුදාවට එරෙහිව උතුරු නැගෙනහිර ප්‍රදේශවල මේ මස 15 වන දින සිදු කරන හර්තාල් ව්‍යාපාරායට ලංකා කම්කරු කොංග්‍රසයේ පූර්ණ සහයොගය ලබා දෙන බව එම පක්ෂයේ මහ ලේකම් ජීවන් තොන්ඩමන් මහතා තීර්ණය කල බව එම පක්ෂයේ මාධ්‍ය නිවේදනයක් සිදු නිකුත් කරමින් සදහන් කරයි.
+
+ඉකුත් 7 වන දින මුලතිව් ඔට්ටු සුඩාන් ප්‍රදේශයට අයත් මුත්තු අයන්කට්ටු ප්‍රදේශයේදි හමුදා ප්‍රහාරයක් හේතුවෙන් මියගියේ යැයි කියන අතිරාමන්නසිංහම් කපිල්රාජ් නම් (32) හැවිරිදි තරුණයාගේ සිරුර ඉකුත් 09 වන දින මුත්තු අයන්කට්ටු පොකුණක තිබී සොයා ගත් බවයි එම නිවේදනයේ සදහන් වන්නේ.
+
+යුක්තිය ඉල්ලා සහ හමුදාවේ අසාධාරණ ක්‍රියාවන්ට එරෙහිව පැවැත්වීමට නියමිත එම හර්තාල් ව්‍යාපාරයට ලංකා කම්කරු කොංග්‍රසයේ පුර්ණ සහයෝගයද ලබා දෙන බව එම මාධ්‍ය නිවේදනයේ සදහන් කර ඇත.
+
+තවද යුද්ධය අවසන් වී වසර 16කට පසුවත් මෙවැනි අමානුෂික ක්‍රියා සිදු වන බවත්, එය පිලිගත නොහැකි බවයි එම මාධ්‍ය නිවේදනයේ තව දුරටත් සදහන් වෙන්නේ.
+
+◼️
+
+[Data](articles/52bd8ff9.json)
 
 ---
 
@@ -1833,21 +1851,5 @@ The Council was established under the Disaster Management Act, No. 13 of 2005, f
 ...
 
 [Data](articles/9c3c5ae3.json)
-
----
-
-### Sri Lanka deeply concerned over Israel’s Gaza plans
-
-*2025-08-11 05:36:04* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-deeply-concerned-over-Israel-s-Gaza-plans/56-780105) · `en`
-
-The Foreign Affairs Ministry on Saturday (9) said that Sri Lanka expresses deep concern over the decision by Israel to seize control of Gaza, which will lead to further escalation of violence and suffering of the people of Gaza.
-
-“Sri Lanka calls for an immediate ceasefire and urges all parties to resolve differences through diplomatic dialogue in order to establish sustainable peace,” it said in a statement.
-
-According to the BBC, Israel intends to assume security control of the territory and establish an alternative civil administration. Israeli media reported that the initial phase would involve relocating Gaza city’s residents further south and taking control of refugee camps and areas where hostages may be held, followed by a second offensive alongside increased humanitarian aid.
-
-...
-
-[Data](articles/14052d69.json)
 
 ---

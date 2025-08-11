@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 14:39:36**
+As of **2025-08-11 14:54:34**
 
 ## Newspaper Stats
 
-*Scraped **69,847** Articles*
+*Scraped **69,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,729
+adalk | 6,730
 adaderanalk | 8,687
 tamilmirrorlk | 10,224
 virakesarilk | 11,643
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,041
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,847 articles have been extended.
+61,973 (88.7%) of 69,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -553,6 +553,24 @@ In total, seven people died in the strike, Al Jazeera reports. The broadcaster i
 ◼️
 
 [Data](articles/109ca279.json)
+
+---
+
+### ජාත්‍යන්තර සංචාරක රූ රැජින කිරුළ දිනූ ආදිත්‍යා වැලිවත්ත පැමිණෙයි
+
+*2025-08-11 09:59:31* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-සංචාරක-රූ රැජින-කිරුළ-දිනූ-ආදිත්‍යා-වැලිවත්ත-පැමිණෙයි/11-417839) · `si`
+
+පිලිපීනයේ පැවති "මිස් ටුවරිසම් යුනිවර්ස් - 2025 '' ( Miss Tourism Universe ) තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ ආදිත්‍යා වැලිවත්ත , එහිදී " ජාත්‍යන්තර සංචාරක රූ රැජින ( Qeen of the International Tourism ) ලෙස කිරුළ දිනා ගෙන 08/11 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
+
+මෙම තරගාවලිය ලෝකයේ රටවල් 17 ක රූ රැජිනියන් 17 දෙනෙකුගේ සහභාගීත්වයෙන් ඉකුත් 07/30 දින සිට 08/08 දින දක්වා පිලිපීනයේ මැනිලා නුවර පවත්වා තිබූණි.
+
+ආදිත්‍යා වැලිවත්ත මෙම ජයග්‍රහණයට අමතරව  තරගාවලියේ හොදම ජාතික ඇදුම ( Best National Costume ) සහ Most Beautiful Photogenic  යන සම්මාන ද්විත්වය ද දිනා ගැනීමට සමත් වී සිටියාය .
+
+ආදිත්‍යා වැලිවත්ත ප්‍රකට ගායිකාවකි.  ඇය 08/11 දින අලුයම 12.20 ට තායිලන්තයේ බැංකොක් නුවර සිට තායි ගුවන් සේවයේ ටී.ජී.- 307 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+◼️
+
+[Data](articles/b0ad2b32.json)
 
 ---
 
@@ -1761,19 +1779,5 @@ The role of the Sri Lanka Navy in ending LTTE terrorism often tends to be unders
 ...
 
 [Data](articles/18b6d18d.json)
-
----
-
-### Sri Lanka’s defence policy and shifting balance of power in the Indian Ocean
-
-*2025-08-10 18:55:00* · [`islandlk`](http://island.lk/sri-lankas-defence-policy-and-shifting-balance-of-power-in-the-indian-ocean/) · `en`
-
-(Excerpts of a lecture delivered at the launch of the book  Sri Lanka’s Defence Policy Since Independence and the Shifting Balance of Power in the Indian Ocean, authored by Professor Gamini Keerawella)
-
-The launch of this timely and scholarly work comes at a critical juncture in regional and global geopolitics. As a nation strategically located at the heart of the Indian Ocean, Sri Lanka must continuously evaluate and adapt its defence policy to the evolving security landscape. Professor Keerawella’s book provides a comprehensive and insightful analysis of Sri Lanka’s defence posture, from independence to the present, while also situating the island nation within the broader geopolitical dynamics of the Indian Ocean Region (IOR).
-
-...
-
-[Data](articles/654c19e4.json)
 
 ---

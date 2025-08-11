@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 13:07:28**
+As of **2025-08-11 13:35:08**
 
 ## Newspaper Stats
 
-*Scraped **69,833** Articles*
+*Scraped **69,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,726
-adaderanalk | 8,685
-tamilmirrorlk | 10,219
-virakesarilk | 11,641
+adalk | 6,727
+adaderanalk | 8,687
+tamilmirrorlk | 10,221
+virakesarilk | 11,642
 adaderanasinhalalk | 12,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,833 articles have been extended.
+61,973 (88.7%) of 69,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### ஹர்த்தாலுக்கு ஜீவன் ஆதரவு
+
+*2025-08-11 13:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹர்த்தாலுக்கு-ஜீவன்-ஆதரவு/76-362689) · `ta`
+
+முல்லைத்தீவு, ஒட்டுசுட்டான் – முத்துஐயன்கட்டுப் பகுதியில் இராணுவத்தால் தாக்கப்பட்டு உயிரிழந்தவருக்காக வடக்கு மற்றும் கிழக்கில் ஆகஸ்ட் 15ம் திகதி, வெள்ளிக்கிழமை அனுசரிக்கப்படவுள்ள ‘ஹர்த்தால்’ போராட்டத்திற்கு ஒரு இலங்கையராகவும், மலையக தமிழராகவும், எனது முழுமையான ஆதரவினை வழங்குவதாக தெரிவித்துக்கொள்கின்றேன்.
+
+கடந்த 7 ஆம் திகதியன்று, முல்லைத்தீவு – ஒட்டுசுட்டான் பொலிஸ் பிரிவுக்குட்பட்ட முத்துஐயன்கட்டுப் பகுதியில் 32 வயதான எதிர்மன்னசிங்கம் கபில்ராஜ் என்ற இளம் குடும்பஸ்தர், இராணுவத்தால் தாக்கப்பட்டு காணாமல்போனதாக தேடப்பட்டு வந்தார். பின்னர் கடந்த சனிக்கிழமை (09) அன்று, அவரது சடலம் முத்துஐயன்கட்டுக் குளத்திலிருந்து மீட்கப்பட்டது.
+
+நீதிக்கான கோரிக்கையிலும், இராணுவத்தின் அநீதியான நடவடிக்கைகளுக்கு எதிராகவும் நடைபெறவுள்ள இந்த ஹர்த்தாலுக்கு, எனது ஒற்றுமையையும் உறுதியான ஆதரவையும் வெளிப்படுத்துகின்றேன்.
+
+“யுத்தம் நிறைவடைந்து 16 ஆண்டுகள் கடந்த பின்பும், இவ்வாறான மனிதாபிமானமற்ற செயற்பாடுகள் நிகழ்வது மிகவும் வருத்தமளிப்பதாகவும், இதனை ஏற்றுக்கொள்ள முடியாது” எனவும் வலியுறுத்துகின்றேன்.
+
+◼️
+
+[Data](articles/a58588e6.json)
+
+---
+
+### நீரில் மூழ்கி தாய்லாந்து பெண் பலி
+
+*2025-08-11 13:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-தாய்லாந்து-பெண்-பலி/175-362688) · `ta`
+
+மொரகல்ல கடற்பகுதியில் நீந்திக் கொண்டிருந்த தாய்லாந்து பெண் ஒருவர் நீரில் மூழ்கி உயிரிழந்ததாக அளுத்கம பொலிஸார் தெரிவித்தனர்.
+
+மொரகல்ல பகுதியில் உள்ள ஒரு சுற்றுலா விடுதியில் தங்கியிருந்த அவர் நீரில் மூழ்கி காணாமல் போயிருந்தார்.
+
+உயிர்காப்பாளர்கள் அவரைத் தேடிக்கொண்டிருந்த வேளையில், பெந்தர பகுதியில் அவரின் சடலம் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5efe9e4c.json)
+
+---
+
+### இன்றைய தங்கவிலை நிலைவரம் !
+
+*2025-08-11 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222301) · `ta`
+
+இன்று திங்கட்கிழமை (11) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
+
+◼️
+
+[Data](articles/b2f4305f.json)
+
+---
+
+### Australia to recognise Palestinian state in September
+
+*2025-08-11 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111349/australia-to-recognise-palestinian-state-in-september) · `en`
+
+Australia will recognise a Palestinian state at the UN General Assembly in September, following similar moves by the UK, France and Canada, Prime Minister Anthony Albanese has said.
+
+Albanese said Australia received commitments from the Palestinian Authority (PA) including to demilitarise, hold general elections and continue to recognise Israel’s right to exist.
+
+“A two-state solution is humanity’s best hope to break the cycle of violence in the Middle East and to bring an end to the conflict, suffering and starvation in Gaza,” he said on Monday.
+
+Israel, under increasing pressure to end the war in Gaza, has said recognising a Palestinian state “rewards terrorism”.
+
+Since Saturday, five people have died as a result of starvation and malnutrition in Gaza, bringing the total number to 217 deaths, according to the Hamas-run health ministry.
+
+It also said that in total more than 61,000 people have been killed as a result of Israel’s military campaign since 2023.
+
+...
+
+[Data](articles/49dc12f8.json)
+
+---
 
 ### වසර 6ක් තුළ දකුණු කොරියාවේ හමුදා භට සංඛ්‍යාව සියයට 20කින් අඩුවෙලා
 
@@ -93,6 +161,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a8960d82.json)
+
+---
+
+### Suspect arrested with Ambergris worth over Rs. 5 million
+
+*2025-08-11 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111348/suspect-arrested-with-ambergris-worth-over-rs-5-million) · `en`
+
+A suspect has been arrested by Divulapitiya Police while in possession of a large stock of ‘Ambergris’, estimated to be worth over Rs. 5 million.
+
+The suspect was arrested yesterday (10) in the Bomugammana area on the Divulapitiya-Negombo road based on information received by Divulapitiya Police.
+
+During the operation, police officers had taken into custody 1 kilogram and 200 grams of Ambergris, which the suspect had prepared to sell.
+
+The arrested suspect is a 44-year-old resident of Wathurugama, Kirindiwela.
+
+The seized Ambergris is estimated to be worth over Rs. 5 million.
+
+Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
+
+The unauthorised possession and sale of Ambergris is illegal in Sri Lanka.
+
+◼️
+
+[Data](articles/4aea1818.json)
 
 ---
 
@@ -451,6 +543,24 @@ The GMOA further said it will monitor developments and decide accordingly and ad
 ◼️
 
 [Data](articles/32d5f55e.json)
+
+---
+
+### ඊශ්‍රායෙල ප්‍රහාරයකින් අල් ජසීරා මාධ්‍යවේදින් පහක් මරුට
+
+*2025-08-11 08:08:28* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල-ප්‍රහාරයකින්-අල්-ජසීරා-මාධ්‍යවේදින්-පහක්-මරුට/11-417836) · `si`
+
+ගාසා නගරයේ අල්-ෂිෆා රෝහල ආසන්නයට ඊශ්‍රායෙලය එල්ල කළ ප්‍රහාරයකින් අල් ජසීරා මාධ්‍යවේදීන් පස් දෙනෙකු මිය ගොස් ඇති බව එම පුවත් සේවය  පවසයි.
+
+වාර්තාකරුවන් වන අනස් අල්-ෂරීෆ් සහ මොහොමඩ් ක්‍රෙයිකේ මෙන්ම කැමරා ශිල්පීන් වන ඉබ්‍රාහිම් සහර්, මොහොමඩ් නවුෆාල් සහ මෝමෙන් අලිවා යන අය රෝහලේ ප්‍රධාන ගේට්ටුවේ මාධ්‍යවේදීන් සඳහා වූ කූඩාරමක සිටියදී මෙම ප්‍රහාරයට ලක්ව තිබෙන බව අල් ජසීරා පුවත් සේවය වාර්තා කරයි.
+
+"ඉලක්කගත ඝාතනය" "මාධ්‍ය නිදහසට තවත් පැහැදිලි සහ කලින් සැලසුම් කළ ප්‍රහාරයක්" බව අල් ජීසීරා පුවත් සේවය පවසා සිටියේය.
+
+ප්‍රහාරයෙන් ටික වේලාවකට පසුව ඊශ්‍රායෙල ආරක්ෂක අංශ තහවුරු කළේ හමාස් හි ත්‍රස්තවාදී අංශයක ප්‍රධානියා ලෙස සේවය කළ කලකට අනස් අල්-ෂරීෆ්ට පහර දුන් බවයි.
+
+◼️
+
+[Data](articles/2afe09b1.json)
 
 ---
 
@@ -1651,109 +1761,5 @@ For added convenience, UClean offers free pick-up and drop services, making prof
 ...
 
 [Data](articles/2c58c821.json)
-
----
-
-### Meet Sri Lanka’s new Ambassadors and High Commissioners at National Chamber
-
-*2025-08-10 18:18:00* · [`islandlk`](http://island.lk/meet-sri-lankas-new-ambassadors-and-high-commissioners-at-national-chamber/) · `en`
-
-The National Chamber of Commerce of Sri Lanka, in collaboration with the Ministry of Foreign Affairs, Foreign Employment and Tourism of Sri Lanka, will host an exclusive networking session for Sri Lankan corporates and the business community on Tuesday 12, August 2025, from 2.30 p.m. to 4.30 p.m. at the National Chamber Auditorium.
-
-This distinguished gathering will be graced by eight (08) newly appointed Sri Lankan Ambassadors and High Commissioners designated to key countries (appointed by the president): South Korea, Indonesia, Brazil, Maldives, Turkiye, Nepal, Nairobi (Kenya) and Oman and five (05) Consul Generals (including Actg. posts) appointed to Guangzhou, Shanghai, Milan, Los Angeles Jeddah and Deputy High Commissioner to Chennai.
-
-The session offers a unique platform for businesses to: Engage directly with diplomatic representatives; Explore opportunities for export market access; Discuss investment prospects and Facilitate bilateral trade partnerships.
-
-...
-
-[Data](articles/9ae661d2.json)
-
----
-
-### A strategic partnership to strengthen e-Government Procurement System
-
-*2025-08-10 18:17:00* · [`islandlk`](http://island.lk/a-strategic-partnership-to-strengthen-e-government-procurement-system/) · `en`
-
-The Department of Public Finance of the Ministry of Finance, Planning and Economic Development, Sri Lanka (DPFMoF), and Sri Lanka Telecom (Services) Limited (SLT-SERVICES), a subsidiary of the SLT-MOBITEL Group, have entered into a strategic partnership to enhance Sri Lanka’s e-Government Procurement (e-GP) system through the integration of Promise.lk with RainbowPages.lk.
-
-This collaboration aims to strengthen the overall supplier ecosystem of the government by enhancing supplier availability, expanding and verifying the supplier base, improving data accuracy, for supporting robust governance practices in public procurement ultimately fostering a more transparent, credible, and efficient business environment.
-
-...
-
-[Data](articles/fa8e5a02.json)
-
----
-
-### දරුවෙකු පිළිස්සී මියයාමේ සිද්ධියට මව හා පියා රිමාන්ඩ්
-
-*2025-08-10 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213236) · `si`
-
-බලන්ගොඩ දෙහිගස්තලාව ප්‍රදේශයේ නිවසක ඇති වූ ගින්නකින් 8 හැවිරිදි දරුවෙකු පිළිස්සී මියයෑම සම්බන්ධයෙන්   අත්අඩංගුවට ගත් එම දරුවාගේ මව, පියා සහ මවගේ අනියම් පෙම්වතා එළැඹෙන 18වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇත.
-
-ඔවුන් අද (10) පෙරවරුවේ බලන්ගොඩ වැඩබලන මහෙස්ත්‍රාත් දේශබන්දු සුරියබටබැදි මහතා හමුවට ඉදිරිපත් කිරිමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
-
-නොසැලකිලිමත් ලෙස කටයුතු කර දරුවාට ආරක්ෂාව සහ රැකවරණය ලබා නොදීමේ චෝදනාව මත මෙලෙස මව සහ පියා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
-
-එමෙන්ම අනියම් සැමියාටද වරෙන්තු කිහිපයක් ඇති බැවින් ඔහු රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
-
-මේ අතර මියගිය දරුවාගේ පශ්චාත් මරණ පරීක්ෂණය සිරුර බලන්ගොඩ මූලික රෝහලේ දී සිදුකිරිමෙන් අනතුරුව, අවසන් කටයුතු සිදුකිරීම සඳහා සිරැර පවුලේ ඥතින් වෙත භාර දී ඇත.
-
-◼️
-
-[Data](articles/821ff14f.json)
-
----
-
-### සංවිධානාත්මක අපරාධකරුවන්ට දේශපාලනය රැකවරණය ලැබී තිබුණා
-
-*2025-08-10 17:30:59* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකරුවන්ට-දේශපාලනය-රැකවරණය-ලැබී-තිබුණා/11-417830) · `si`
-
-ට්‍රැෆික් වැරදි පමණක් නොව  පොලීසියේ වෙනත් වැරැදිද වීඩියෝ කර එවිය හැකි බවත් ඒ සඳහා පොලීසිය හඳුන්වා දී ඇති ඇප්  එක  ඉතාම ජනප්‍රිය බවත් මේ සඳහා වට්ස්ඇප් යොදාගැනීමේ පහසුකමද සලසන බවත්  වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා  බදුල්ල පොලිස් පරිශ්‍රයේ  පැවති මාධ්‍යහමුකදී පැවසීය..
-
-“අපරාධ මෙහෙයවන්නේ ජනතාවට විරුද්ධව. එනිසා අවශ්‍ය සම්පත් දායකත්වය දෙන ශ්‍රී ලංකා පොලීසිය ඒ නීතිය ක්‍රියාත්මක කරන්නේ.  වශ්‍ය වියදම් සියල්ල කරල අවශ්‍ය රැකවරණය පොලීසිය විසින් සලස්වා  තියෙනවා. මහජනතාව ලබාදෙන තොරතුරු, ජනතාව ලබාදෙන දායකත්වය පොලිස් අපරාධ විමර්ශන කටයුතු සඳහා අවශ්‍ය වෙනවා.
-
-ඒකට පොලීසිය  සම්බන්ධයෙන් මහජනතාවගේ තියෙන විශ්වාසය තහවුරු කිරීමේ අවශ්‍යතාව තියෙනවා. පොලිස් නිලධාරීන්  වැරදි වැඩ කරනවා නම්, ඔවුන් අපරාධ සම්බන්ධයෙන් නිසි ක්‍රියාමාර්ග ගන්නෙ නැති නම්, අපරාධ කරුවන්වන් සමග සම්බන්ධතා පවත්වනවා නම් මජනතාවගේ විශ්වාසය ගෙඩනැගෙන්නේ නැහැ.මහජන විශ්වාසය ගොඩනැගුණාම අවශ්‍ය දායකත්වය, සහාය ලබාදෙන්න පියවර ගනියි කියා මා සිතනවා.
-
-...
-
-[Data](articles/02a047ae.json)
-
----
-
-### වසරක් තුළ මාර්ග අනතුරු මරණ නැති හෙල්සින්කි නගරය
-
-*2025-08-10 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213235) · `si`
-
-2024 වසරේ ජූලි මාසයේ සිට මේ වසරේ ජූලි මාසය දක්වා වසරක කාලය තුළ මාර්ග අනතුරු හේතුවෙන් කිසිදු මරණයක් සිදුනොවූ නගරය ලෙස වාර්තාවක් තැබීමට ෆින්ලන්තයේ හෙල්සින්කි අගනුවර සමත්ව තිබේ.
-
-එම නගරය තුළ ලක්ෂ 7කට ආසන්න පිරිසක් වාසය කරන අතර මීට පෙර වසර කිහිපයක් පුරාම එම නගරය තුළ මාර්ග අනතුරු හේතුවෙන් සිදුවූ මරණ පැවතියේ 10ට අඩු සංඛ්‍යාවකි.
-
-කෙසේ වෙතත් වාර්තාව පිහිටුවා දින කිහිපයකින් පසු නගර සීමාව තුළ පාපැදි 2ක් ගැටීමෙන් සිදුවූ අනතුරකින් 70 වියැති පුද්ගලයෙකු මිය ගොස් ඇත.
-
-◼️
-
-[Data](articles/36fa0eff.json)
-
----
-
-### පිරිවෙන් විෂය පථය සංශෝධනය කරයි
-
-*2025-08-10 17:24:16* · [`adalk`](https://www.ada.lk/breaking_news/පිරිවෙන්-විෂය-පථය-සංශෝධනය-කරයි/11-417829) · `si`
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණ මඟින් පිරිවෙන් අධ්‍යාපනයට අදාළ විෂය පථය සංශෝධනය කිරීමට තීරණය කර ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
-
-වර්තමානය වන විට ශ්‍රී ලංකාවේ පිරිවෙන් වර්ගීකරණය අනුව මූලික පිරිවෙන්, මහා පිරිවෙන්, පිරිවෙන් විද්‍යායතන , ද්විභාෂා පිරිවෙන්, විශේෂ පිරිවෙන්(විද්‍යෝදය, විද්‍යාලංකාර පිරිවෙන්), සීල මාතා අධ්‍යාපන ආයතන සහ පිරිවෙන් අභ්‍යාස ආයතන ලෙස පවතී.
-
-එම පිරිවෙන්වල මූලික පිරිවෙන් විෂයයන් 14ක්  සහ ප්‍රාචීන විෂයයන් 08 උගන්වනු ලබයි.
-
-එම විෂයන් අතර,අනිවාර්යය විෂයන් - පාලි, සිංහල, සංස්කෘත, ඉංග්‍රීසි, ත්‍රිපිටක ධර්මය,ගණිතය ,
-
-වෛකල්පිත විෂයයන් - ඉතිහාසය, භූගෝල විද්‍යාව, සමාජ විද්‍යාව, සාමාන්‍ය විද්‍යාව, සෞඛ්‍ය විද්‍යාව, හින්දි, දෙමළ හා පිරිවෙන් මණ්ඩලය අනුමත විෂයයන්, පිරිවෙන් - පාසල් විෂයයට අදාළ විෂයයන්, ප්‍රාචීන විභාග අදාළ විෂයයන්,
-
-වර්තමානය වන විට ඉහත පිරිවෙන්වල 69,108ක් සිසුන් සංඛ්‍යාවක් ඉගෙනුම ලබයි.2025 අයවැය මගින් පිරිවෙන් අධ්‍යාපනය සඳහා ප්‍රාග්ධන වියදම් ලෙස රු.මි.210ක් සහ පුනරාවර්තන වියදම් ලෙස රු.මි.7208ක් වශයෙන් රු.මි.7518ක මුදලක් වෙන් කර ඇත.
-
-◼️
-
-[Data](articles/79ba985e.json)
 
 ---

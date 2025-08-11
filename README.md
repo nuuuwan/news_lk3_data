@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 04:20:34**
+As of **2025-08-12 04:32:17**
 
 ## Newspaper Stats
 
-*Scraped **69,977** Articles*
+*Scraped **69,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,925
+dailyftlk | 4,927
 adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
@@ -26,11 +26,37 @@ adaderanasinhalalk | 12,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,977 articles have been extended.
+61,973 (88.6%) of 69,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### DIMO delivers intelligent building solutions to Cinnamon Life
+
+*2025-08-12 04:17:38* · [`dailyftlk`](https://www.ft.lk/business/DIMO-delivers-intelligent-building-solutions-to-Cinnamon-Life/34-780175) · `en`
+
+DIMO together with its partner Siemens, has delivered a suite of cutting-edge Building Services solutions to Cinnamon Life, the country’s most iconic integrated development project. This transformative project, comprising a luxury hotel, residences, commercial spaces, and retail hubs, now benefits from a highly advanced, future-ready infrastructure technology powered by DIMO.
+
+Safeguarding lives and property, DIMO deployed the Siemens Sinteso Fire Detection and Alarm System, a globally recognised system for its reliability and precision. Featuring ASAtechnology, Sinteso offers intelligent, false-alarm-free detection using multi-sensor devices, plus standby and degrade modes to ensure uninterrupted protection. The system is scalable to over 5,000 devices per panel—making it ideal for large-scale developments like Cinnamon Life.
+
+...
+
+[Data](articles/b05a8cd2.json)
+
+---
+
+### Konka introduces ground-breaking Konka V-Max range for first time through FliCo
+
+*2025-08-12 04:16:42* · [`dailyftlk`](https://www.ft.lk/business/Konka-introduces-ground-breaking-Konka-V-Max-range-for-first-time-through-FliCo/34-780174) · `en`
+
+Hong Kong Konka CEO and Konka Overseas Business Division General Manager Kobe Liao (right) presents the Konka Authorised Dealership to Future Life Holdings CEO Danushka Udugama in the presence of Konka and FLiCo officials
+
+...
+
+[Data](articles/32a69d7e.json)
+
+---
 
 ### 20th International Society for Twin Studies Conference kicks off in Colombo
 
@@ -1747,37 +1773,5 @@ Prime Lands was trading 0.10 rupees higher at 19.50 rupees, Colombo City Holding
 ◼️
 
 [Data](articles/a061d98e.json)
-
----
-
-### ජාතික තරුණ සම්මේලනය ජනපතිගේ ප්‍රධානත්වයෙන් හෙට කොළඹදී
-
-*2025-08-11 16:09:04* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-තරුණ-සම්මේලනය-ජනපතිගේ-ප්‍රධානත්වයෙන්-හෙට-කොළඹදී/11-417845) · `si`
-
-ජාත්‍යන්තර තරුණ දිනයට සමගාමීව තරුණ කටයුතු හා ක්‍රීඩා අමාත්‍යංශය, ජාතික තරුණ සේවා සභාව එක්ව සංවිධානය කරනු ලබන 2025 ජාතික තරුණ සම්මේලනය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්, තරුණ තරුණියන් 6000 කගේ සහභාගීත්වයෙන් 2025.08.12 දා පෙ.ව 10.00 ට කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේදී පැවැත්වේ.
-
-දිස්ත්‍රික් මට්ටමින් තෝරාගත් ජාතික මණ්ඩල නියෝජිතයන් පනස් දෙදෙනෙකු පත් කිරීම හා 19 වන ජාතික මණ්ඩලය පත් කිරීමේ ජාතික තරුණ සමුළුව හා ඔවුන් ජාතික නායකයින් ලෙස හඳුන්වාදීම ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන්, තරුණ කටයුතු හා ක්‍රීඩා අමාත්‍ය සුනිල් කුමාර ගමගේ, නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර, ජාතික තරුණ සේවා සභාවේ සභාපති/අධ්‍යක්ෂ ජනරාල් නීතීඥ සුපුන් විජේරත්න යන මහත්වරුන්ගේ හා මැති ඇමතිවරුන්ගේ හා විදේශ තානාපතිවරුන්ගේ සහභාගීත්වයෙන් පැවැත්වේ.
-
-◼️
-
-[Data](articles/658aaefc.json)
-
----
-
-### பொரளை துப்பாக்கிச் சூடு; நீதிமன்றம் அதிரடி அனுமதி
-
-*2025-08-11 16:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-துப்பாக்கிச்-சூடு-நீதிமன்றம்-அதிரடி-அனுமதி/175-362703) · `ta`
-
-பொரளை, சஹஸ்புராவில் உள்ள சிறிசர உயன அடுக்குமாடி குடியிருப்புக்கு அருகில் நடந்த துப்பாக்கிச் சூடு சம்பவத்தில் கைது செய்யப்பட்ட முதல் சந்தேக நபரை 25 ஆம் திகதி வரை விளக்கமறியலில் வைக்க உத்தரவிட்ட கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க, சம்பவத்திற்கு உதவியதாகவும், உடந்தையாக இருந்ததாகவும் கூறப்படும் மேலும் மூன்று சந்தேக நபர்களை 24 மணி நேரம் பொலிஸ் காவலில் வைக்க அனுமதி வழங்கினார்.
-
-சந்தேக நபர்களை நீதிமன்றத்தில் ஆஜர்படுத்துமாறு கொழும்பு குற்றப்பிரிவு விடுத்த கோரிக்கையை பரிசீலித்த பின்னர் இந்த உத்தரவுகள் பிறப்பிக்கப்பட்டன.
-
-மூன்று நாள் தடுப்புக்காவல் உத்தரவு மற்றும் விசாரணைக்குப் பிறகு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் முதல் சந்தேக நபர் விளக்கமறியலில் வைக்கப்பட்டார்.
-
-கடந்த 7 ஆம் திகதி இரவு மோட்டார் சைக்கிளில் வந்த இரண்டு நபர்களால் துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், காயமடைந்த ஐந்து பேர் மருத்துவமனையில் அனுமதிக்கப்பட்டதாகவும், மூன்று பேர் இறந்ததாகவும் கொழும்பு குற்றப்பிரிவு நீதிமன்ற சமர்பணத்தில் தெரிவித்துள்ளது
-
-◼️
-
-[Data](articles/6e25995b.json)
 
 ---

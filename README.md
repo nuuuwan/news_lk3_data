@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 17:18:12**
+As of **2025-08-11 17:31:44**
 
 ## Newspaper Stats
 
-*Scraped **69,886** Articles*
+*Scraped **69,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,735
 adaderanalk | 8,694
-tamilmirrorlk | 10,233
+tamilmirrorlk | 10,234
 virakesarilk | 11,647
 adaderanasinhalalk | 12,048
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,886 articles have been extended.
+61,973 (88.7%) of 69,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### முன்னேஸ்வர ஆலய கொடியேற்றம்
+
+*2025-08-11 17:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேஸ்வர-ஆலய-கொடியேற்றம்/175-362708) · `ta`
+
+வரலாற்று சிறப்பு வாய்ந்த சிலாபம் முன்னேஸ்வரம் ஶ்ரீ வடிவாம்பிகாசமேத ஶ்ரீ முன்னை நாதர் சுவாமி ஆலயத்தின் வருடாந்த மஹோற்சவத்தில் கொடியேற்ற நிகழ்வு திங்கட்கிழமை (11) அன்று இடம்பெற்றது.
+
+பிரதான குருவும், தர்மகர்த்தாவுமாகிய ஆலய குருக்கள் பிரம்மஶ்ரீ ச.பத்மநாப குருக்கள் தலைமையில் இந்த நிகழ்வுகள் இடம்பெற்றன.
+
+கொடி கம்பத்துக்குரிய சீலை யானையில் சுமக்கப்பட்டு உள் வீதி, வெளி வீதி வந்து பின்னர் கொடியேற்றம்இடம்பெற்றது. நாட்டின் பல பகுதிகல் இருந்தும் இன மதம் பாராதுரபல்லாயிரக்கணக்கான பக்தர்கள் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/e48555ba.json)
+
+---
 
 ### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනතට එරෙහිව පෙත්සමක්
 
@@ -40,7 +56,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාලක ලේකම් රේණුක පෙරේරා මහතා විසින් පෙත්සම ඉදිරිපත් කර ඇත.
 
-◼️
+පෙත්සම්කරු කියා සිටින්නේ හිටපු ජනාධිපතිවරුන්ට නීතියෙන් හිමිවී තිබෙන හිමිකම් අවලංගු කිරීම සඳහා රජය විසින් මෙම පනත් කෙටුම්පත ඉකුත් 07 වනදා පාර්ලිමේන්තු න්‍යාය පත්‍රයට ඇතුළත් කළ බවය.
+
+යෝජිත පනත් කෙටුම්පතේ 01 සිට 04 දක්වා වගන්තිවලින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන බලය බෙදීමේ සිද්ධාන්තය උල්ලංඝනය වීමක් සිදුවන බවත් මෙම පෙත්සමෙන් පෙන්වා දී ඇත.
+
+ඊට අමතරව අදාළ පනත් කෙටුම්පතේ අන්තර්ගත වගන්ති එකකින් හෝ කිහිපයකින් රටේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන ස්වෛරීභාවය සහ ජනතා පරමාධිපත්‍යය උල්ලංඝනය කිරීමක් සිදුවන බවත් පෙත්සමෙන් තවත් චෝදනාවක් එල්ල කර තිබේ.
+
+සමස්තයක් වශයෙන් ගත් කළ යෝජිත පනත් කෙටුම්පතේ වගන්තිවලින් සමස්ථ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ සඳහන් මූලික හරයන් උල්ලංඝනය වීමක් සිදුවන බව පෙත්සම්කරු චෝදනා කර සිටී.
+
+...
 
 [Data](articles/cf28af33.json)
 
@@ -1819,19 +1843,5 @@ The Government of Sri Lanka has formally deposited its instrument of acceptance 
 ...
 
 [Data](articles/78a8d0ae.json)
-
----
-
-### SL construction costs better positioned for investments compared to neighbours
-
-*2025-08-11 05:21:34* · [`dailyftlk`](https://www.ft.lk/business/SL-construction-costs-better-positioned-for-investments-compared-to-neighbours/34-780100) · `en`
-
-CIOB develops digital solution for reliable cost and all sourcing information, “BuildMarket.lk”
-
-After several challenging years marked by inflation, supply chain disruptions, and industry uncertainty, construction costs in Sri Lanka have finally begun to show signs of a downward trend (cost reduction). Based on the Construction Industry Development Authority (CIDA) bulletin of construction statistics published in the year 2024, the major materials’ average prices such as reinforcement steel, cement and concrete decreased by 35%, 24%, 15% respectively in 2024 when compared with the year 2022. Whereas the construction labour wages index in the year 2024 increased by 4% when compared with the year 2022. As a result Sri Lanka has reached a more desirable position compared to its neighbouring countries.
-
-...
-
-[Data](articles/c7cc2082.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 13:21:10**
+As of **2025-08-11 13:07:28**
 
 ## Newspaper Stats
 
-*Scraped **69,836** Articles*
+*Scraped **69,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,20 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,726
-adaderanalk | 8,687
+adaderanalk | 8,685
 tamilmirrorlk | 10,219
-virakesarilk | 11,642
+virakesarilk | 11,641
 adaderanasinhalalk | 12,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,836 articles have been extended.
+61,973 (88.7%) of 69,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-11 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222301) · `ta`
-
-இன்று திங்கட்கிழமை (11) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/b2f4305f.json)
-
----
-
-### Australia to recognise Palestinian state in September
-
-*2025-08-11 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111349/australia-to-recognise-palestinian-state-in-september) · `en`
-
-Australia will recognise a Palestinian state at the UN General Assembly in September, following similar moves by the UK, France and Canada, Prime Minister Anthony Albanese has said.
-
-Albanese said Australia received commitments from the Palestinian Authority (PA) including to demilitarise, hold general elections and continue to recognise Israel’s right to exist.
-
-“A two-state solution is humanity’s best hope to break the cycle of violence in the Middle East and to bring an end to the conflict, suffering and starvation in Gaza,” he said on Monday.
-
-Israel, under increasing pressure to end the war in Gaza, has said recognising a Palestinian state “rewards terrorism”.
-
-Since Saturday, five people have died as a result of starvation and malnutrition in Gaza, bringing the total number to 217 deaths, according to the Hamas-run health ministry.
-
-It also said that in total more than 61,000 people have been killed as a result of Israel’s military campaign since 2023.
-
-...
-
-[Data](articles/49dc12f8.json)
-
----
 
 ### වසර 6ක් තුළ දකුණු කොරියාවේ හමුදා භට සංඛ්‍යාව සියයට 20කින් අඩුවෙලා
 
@@ -127,30 +93,6 @@ It also said that in total more than 61,000 people have been killed as a result 
 ...
 
 [Data](articles/a8960d82.json)
-
----
-
-### Suspect arrested with Ambergris worth over Rs. 5 million
-
-*2025-08-11 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111348/suspect-arrested-with-ambergris-worth-over-rs-5-million) · `en`
-
-A suspect has been arrested by Divulapitiya Police while in possession of a large stock of ‘Ambergris’, estimated to be worth over Rs. 5 million.
-
-The suspect was arrested yesterday (10) in the Bomugammana area on the Divulapitiya-Negombo road based on information received by Divulapitiya Police.
-
-During the operation, police officers had taken into custody 1 kilogram and 200 grams of Ambergris, which the suspect had prepared to sell.
-
-The arrested suspect is a 44-year-old resident of Wathurugama, Kirindiwela.
-
-The seized Ambergris is estimated to be worth over Rs. 5 million.
-
-Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
-
-The unauthorised possession and sale of Ambergris is illegal in Sri Lanka.
-
-◼️
-
-[Data](articles/4aea1818.json)
 
 ---
 
@@ -1759,5 +1701,59 @@ This collaboration aims to strengthen the overall supplier ecosystem of the gove
 ◼️
 
 [Data](articles/821ff14f.json)
+
+---
+
+### සංවිධානාත්මක අපරාධකරුවන්ට දේශපාලනය රැකවරණය ලැබී තිබුණා
+
+*2025-08-10 17:30:59* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකරුවන්ට-දේශපාලනය-රැකවරණය-ලැබී-තිබුණා/11-417830) · `si`
+
+ට්‍රැෆික් වැරදි පමණක් නොව  පොලීසියේ වෙනත් වැරැදිද වීඩියෝ කර එවිය හැකි බවත් ඒ සඳහා පොලීසිය හඳුන්වා දී ඇති ඇප්  එක  ඉතාම ජනප්‍රිය බවත් මේ සඳහා වට්ස්ඇප් යොදාගැනීමේ පහසුකමද සලසන බවත්  වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා  බදුල්ල පොලිස් පරිශ්‍රයේ  පැවති මාධ්‍යහමුකදී පැවසීය..
+
+“අපරාධ මෙහෙයවන්නේ ජනතාවට විරුද්ධව. එනිසා අවශ්‍ය සම්පත් දායකත්වය දෙන ශ්‍රී ලංකා පොලීසිය ඒ නීතිය ක්‍රියාත්මක කරන්නේ.  වශ්‍ය වියදම් සියල්ල කරල අවශ්‍ය රැකවරණය පොලීසිය විසින් සලස්වා  තියෙනවා. මහජනතාව ලබාදෙන තොරතුරු, ජනතාව ලබාදෙන දායකත්වය පොලිස් අපරාධ විමර්ශන කටයුතු සඳහා අවශ්‍ය වෙනවා.
+
+ඒකට පොලීසිය  සම්බන්ධයෙන් මහජනතාවගේ තියෙන විශ්වාසය තහවුරු කිරීමේ අවශ්‍යතාව තියෙනවා. පොලිස් නිලධාරීන්  වැරදි වැඩ කරනවා නම්, ඔවුන් අපරාධ සම්බන්ධයෙන් නිසි ක්‍රියාමාර්ග ගන්නෙ නැති නම්, අපරාධ කරුවන්වන් සමග සම්බන්ධතා පවත්වනවා නම් මජනතාවගේ විශ්වාසය ගෙඩනැගෙන්නේ නැහැ.මහජන විශ්වාසය ගොඩනැගුණාම අවශ්‍ය දායකත්වය, සහාය ලබාදෙන්න පියවර ගනියි කියා මා සිතනවා.
+
+...
+
+[Data](articles/02a047ae.json)
+
+---
+
+### වසරක් තුළ මාර්ග අනතුරු මරණ නැති හෙල්සින්කි නගරය
+
+*2025-08-10 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213235) · `si`
+
+2024 වසරේ ජූලි මාසයේ සිට මේ වසරේ ජූලි මාසය දක්වා වසරක කාලය තුළ මාර්ග අනතුරු හේතුවෙන් කිසිදු මරණයක් සිදුනොවූ නගරය ලෙස වාර්තාවක් තැබීමට ෆින්ලන්තයේ හෙල්සින්කි අගනුවර සමත්ව තිබේ.
+
+එම නගරය තුළ ලක්ෂ 7කට ආසන්න පිරිසක් වාසය කරන අතර මීට පෙර වසර කිහිපයක් පුරාම එම නගරය තුළ මාර්ග අනතුරු හේතුවෙන් සිදුවූ මරණ පැවතියේ 10ට අඩු සංඛ්‍යාවකි.
+
+කෙසේ වෙතත් වාර්තාව පිහිටුවා දින කිහිපයකින් පසු නගර සීමාව තුළ පාපැදි 2ක් ගැටීමෙන් සිදුවූ අනතුරකින් 70 වියැති පුද්ගලයෙකු මිය ගොස් ඇත.
+
+◼️
+
+[Data](articles/36fa0eff.json)
+
+---
+
+### පිරිවෙන් විෂය පථය සංශෝධනය කරයි
+
+*2025-08-10 17:24:16* · [`adalk`](https://www.ada.lk/breaking_news/පිරිවෙන්-විෂය-පථය-සංශෝධනය-කරයි/11-417829) · `si`
+
+නව අධ්‍යාපන ප්‍රතිසංස්කරණ මඟින් පිරිවෙන් අධ්‍යාපනයට අදාළ විෂය පථය සංශෝධනය කිරීමට තීරණය කර ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+වර්තමානය වන විට ශ්‍රී ලංකාවේ පිරිවෙන් වර්ගීකරණය අනුව මූලික පිරිවෙන්, මහා පිරිවෙන්, පිරිවෙන් විද්‍යායතන , ද්විභාෂා පිරිවෙන්, විශේෂ පිරිවෙන්(විද්‍යෝදය, විද්‍යාලංකාර පිරිවෙන්), සීල මාතා අධ්‍යාපන ආයතන සහ පිරිවෙන් අභ්‍යාස ආයතන ලෙස පවතී.
+
+එම පිරිවෙන්වල මූලික පිරිවෙන් විෂයයන් 14ක්  සහ ප්‍රාචීන විෂයයන් 08 උගන්වනු ලබයි.
+
+එම විෂයන් අතර,අනිවාර්යය විෂයන් - පාලි, සිංහල, සංස්කෘත, ඉංග්‍රීසි, ත්‍රිපිටක ධර්මය,ගණිතය ,
+
+වෛකල්පිත විෂයයන් - ඉතිහාසය, භූගෝල විද්‍යාව, සමාජ විද්‍යාව, සාමාන්‍ය විද්‍යාව, සෞඛ්‍ය විද්‍යාව, හින්දි, දෙමළ හා පිරිවෙන් මණ්ඩලය අනුමත විෂයයන්, පිරිවෙන් - පාසල් විෂයයට අදාළ විෂයයන්, ප්‍රාචීන විභාග අදාළ විෂයයන්,
+
+වර්තමානය වන විට ඉහත පිරිවෙන්වල 69,108ක් සිසුන් සංඛ්‍යාවක් ඉගෙනුම ලබයි.2025 අයවැය මගින් පිරිවෙන් අධ්‍යාපනය සඳහා ප්‍රාග්ධන වියදම් ලෙස රු.මි.210ක් සහ පුනරාවර්තන වියදම් ලෙස රු.මි.7208ක් වශයෙන් රු.මි.7518ක මුදලක් වෙන් කර ඇත.
+
+◼️
+
+[Data](articles/79ba985e.json)
 
 ---

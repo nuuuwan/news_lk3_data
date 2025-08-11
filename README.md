@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 02:32:11**
+As of **2025-08-12 02:48:52**
 
 ## Newspaper Stats
 
-*Scraped **69,956** Articles*
+*Scraped **69,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,913
+dailyftlk | 4,914
 adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,956 articles have been extended.
+61,973 (88.6%) of 69,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### Senior journalist Daya Lankapura assumes duties as RTI Commission Chairman
+
+*2025-08-12 02:32:30* · [`dailyftlk`](https://www.ft.lk/news/Senior-journalist-Daya-Lankapura-assumes-duties-as-RTI-Commission-Chairman/56-780147) · `en`
+
+Senior journalist Daya Lankapura has been appointed as the new Chairman of the Right to Information (RTI) Commission.
+
+The appointment comes nearly five months after the position fell vacant, during which several civil society groups, media organisations, and activists urged President Anura Kumara Disanayake to make an appointment to ensure the smooth functioning of the Commission.
+
+Lankapura, a veteran in the media industry, has served in various senior editorial roles and has been actively involved in promoting media freedom and the right to information in Sri Lanka.
+
+◼️
+
+[Data](articles/06786e85.json)
+
+---
 
 ### Should MEPA be apportioned major part of blame for X-Press Pearl marine environmental disaster?
 
@@ -1787,21 +1803,5 @@ It also noted that South Korea needed “decisive action at the national level�
 ◼️
 
 [Data](articles/cc9c6f69.json)
-
----
-
-### Vietnamese national drowns in seas off Moragalla
-
-*2025-08-11 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111351/vietnamese-national-drowns-in-seas-off-moragalla) · `en`
-
-A foreign woman who went for a swim at the Moragalla beach in Aluthgama has drowned and died, police noted.
-
-It is reported that the Vietnamese national had been swimming with a group of others when she was caught in a current and dragged away.
-
-However, police stated that her body has now been recovered and brought ashore at the Bentota beach.
-
-◼️
-
-[Data](articles/5497f9ab.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 13:52:13**
+As of **2025-08-11 14:08:19**
 
 ## Newspaper Stats
 
-*Scraped **69,840** Articles*
+*Scraped **69,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,728
 adaderanalk | 8,687
 tamilmirrorlk | 10,221
 virakesarilk | 11,642
-adaderanasinhalalk | 12,039
+adaderanasinhalalk | 12,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,840 articles have been extended.
+61,973 (88.7%) of 69,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### දක්ෂිණ අධිවේගී මාර්ගයේ ලොරියක් ආරක්ෂිත වැටක ගැටී ගිනි ගනියි
+
+*2025-08-11 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213253) · `si`
+
+දක්ෂීණ අධිවේගී මාර්ගයේ කොට්ටාව සිට ධාවනය වූ ලොරියක් කුරුඳුගහහැතැක්ම ප්‍රදේශයේදී ආරක්ෂිත වැටක ගැටී අනතුරකට ලක්ව තිබේ.
+
+තවද අනතුරින් තිදෙනෙකු තුවාල ලබා ඇතැයිද ඔවුන් ඇල්පිටිය මූලික රෝහලට ඇතුළත් කිරීමටත් පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/6f904f4b.json)
+
+---
 
 ### ஹர்த்தாலுக்கு ஜீவன் ஆதரவு
 
@@ -1745,21 +1759,5 @@ The ceremony’s Chief Guest, Professor Terrence Madhujith, Vice Chancellor of t
 ...
 
 [Data](articles/819ff6d9.json)
-
----
-
-### O/L மற்றும் A/L-க்கான திகதிகள் அறிவிப்பு
-
-*2025-08-10 18:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மற்றும்-A-L-க்கான-திகதிகள்-அறிவிப்பு/175-362652) · `ta`
-
-2025 ஆம் ஆண்டுக்கான க.பொ.த உயர்தரப் பரீட்சை நவம்பர் 10 ஆம் தேதி தொடங்கும் என்று தேர்வுகள் ஆணையர் ஜெனரல் ஏ.கே.எஸ். இந்திகா குமாரி தெரிவித்தார்.
-
-தேர்வு நவம்பர் 10 ஆம் திகதி தொடங்கி டிசம்பர் 5 ஆம் திகதி முடிவடையும் என்றும் ஆணையர் ஜெனரல் தெரிவித்தார்.
-
-மேலும், 2025 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப் பரீட்சை பிப்ரவரி 17 ஆம் திகதி முதல் பிப்ரவரி 26, 2026 வரை நடைபெறும் என்று திருமதி இந்திகா குமாரி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/dfa11f17.json)
 
 ---

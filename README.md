@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 19:00:33**
+As of **2025-08-11 19:28:09**
 
 ## Newspaper Stats
 
-*Scraped **69,894** Articles*
+*Scraped **69,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,109 @@ economynextcom | 4,255
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,737
-adaderanalk | 8,694
-tamilmirrorlk | 10,235
-virakesarilk | 11,647
-adaderanasinhalalk | 12,052
+adalk | 6,738
+adaderanalk | 8,699
+tamilmirrorlk | 10,237
+virakesarilk | 11,651
+adaderanasinhalalk | 12,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,894 articles have been extended.
+61,973 (88.6%) of 69,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### ராகுல் காந்தி கைது
+
+*2025-08-11 19:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராகுல்-காந்தி-கைது/175-362711) · `ta`
+
+மகாராஷ்டிரம், கர்நாடகம் உள்ளிட்ட பல்வேறு மாநிலங்களிலும் வாக்காளர் பட்டியலில் இடம்பெற்ற மோசடிகள் குறித்து, கடந்த வாரம் ஊடகவியலாளர்கள் சந்திப்பின்போது எதிர்க்கட்சித் தலைவர் ராகுல் காந்தி உரிய ஆதாரங்களுடன் தகவலை வெளியிட்டிருந்தார்.
+
+பாஜக அரசுடன் சேர்ந்துகொண்டு தேர்தல் ஆணைக்குழு வாக்குத் திருட்டில் ஈடுபடுவதாகவும் அவர் குற்றச்சாட்டுகள் முன்வைத்தார்.
+
+இந்த நிலையில் இன்று காலை ராகுல் காந்தி தலைமையிலான எதிர்க்கட்சி நாடாளுமன்ற உறுப்பினர்கள் தேர்தல் ஆணைக்குழு நோக்கிப் பேரணியாகப் புறப்பட்டனர்.
+
+இதன்போது காவல்துறையினரின் அறிவுறுத்தலை ஏற்காத காரணத்தினால் ராகுல் காந்தி உட்பட சில நாடாளுமன்ற உறுப்பினர்கள் கைது செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. R
+
+◼️
+
+[Data](articles/e96a07c1.json)
+
+---
+
+### තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබද කොමිෂන් සභාවේ සභාපති ධුරය දයා ලංකාපුරට
+
+*2025-08-11 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213267) · `si`
+
+තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබද කොමිෂන් සභාවේ සභාපති ධුරයට ප්‍රකට වෘත්තීය ජනමාධ්‍යවේදියෙකු හා ජනමාධ්‍යවේදීන් පුහුණු කිරීමේ දේශකයෙකු ලෙස ක්‍රියා කළ දයා ලංකාපුර මහතා පත් කර තිබේ.
+
+2016 අංක 12 දරණ තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබඳ පනතේ 12 (1) වගන්තිය ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යස්ථා සභාවේ නිර්දේශය පරිදි ජනාධිපතිවරයා විසින් මෙම පත් කිරීම සිදු කර ඇත.
+
+◼️
+
+[Data](articles/8bcff8fe.json)
+
+---
+
+### ஜே.வி.பி தலைமையகம் முன்‌ பதற்றம்
+
+*2025-08-11 19:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பி-தலைமையகம்-முன்-பதற்றம்/175-362710) · `ta`
+
+வேலையற்ற பட்டதாரிகள் குழுவினர் நடத்திய ஆர்ப்பாட்டம் காரணமாக பெலவத்தையில் உள்ள மக்கள் விடுதலை முன்னணி தலைமையகத்திற்கு முன்பாக பதட்டமான சூழ்நிலை ஏற்பட்டுள்ளது.
+
+போராட்டக்காரர்கள் ஜே.வி.பி தலைமை அலுவலகத்திற்குள் பேச்சுவார்த்தைக்காக நுழைய வலியுறுத்தியதால் நிலைமை மோசமடைந்தது, இதனால் காவல்துறை அதிகாரிகளுடன் கடும் வாக்குவாதங்கள் ஏற்பட்டன.
+
+வேலையற்ற பட்டதாரிகள் சங்கம் தங்கள் பிரச்சினைகளுக்கு தீர்வு காணக் கோரி இந்த போராட்டத்தை ஏற்பாடு செய்தது.
+
+◼️
+
+[Data](articles/8a2e3ca3.json)
+
+---
+
+### ගම්පහ ප්‍රදේශ කිහිපයකට පැය 10ක ජල කප්පාදුවක්
+
+*2025-08-11 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213266) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට එළැඹෙන 14 වැනිදා ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලප්‍රවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව පෙරවරු 10.00 සිට පස්වරු 08.00 දක්වා පැය 10ක කාලයක් මෙලෙස ජල සැපයුම අත්හිටුවන බව සඳහන් වේ.
+
+නිට්ටඹුව කන්ද හේන, මාපගොල්ල, ලෝංගස්දෙනිය, පින්නගොල්ලවත්ත, කෝලවත්ත, ගොරකදෙනිය රණ්පොකුනගම, රණ් පොකුනගම නිවාස යෝජනා ක්‍රමය, බටලීය, අත්තනගල්ල, පස්යාල, ඌරාපොල, දික්කන්ද, මීවිටිගම්මන, මාඉඹුල, මාතලාන, භග්ගල්ල, අලවල, කලල්පිටිය, ඇල්ලමුල්ල. යන ප්‍රදේශවලට මෙසේ ජල සැපයුම අත්හිටුවනු ඇත.
+
+ජල සැපයුම අත්හිටුවීම හේතුවෙන් ජල පාරිභෝගිකයන්ට සිදු වන අපහසුතාවය පිළිබදව මණ්ඩලය සිය කණගාටුව පල කර සිටියි.
+
+◼️
+
+[Data](articles/9aacf220.json)
+
+---
+
+### Elon Musk’s Tesla applies to supply power to UK homes
+
+*2025-08-11 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111364/elon-musks-tesla-applies-to-supply-power-to-uk-homes) · `en`
+
+Elon Musk’s electric car and energy company Tesla has applied for a licence to supply electricity to British homes.
+
+If approved by the energy watchdog Ofgem, it would allow Tesla to take on the big firms that dominate the UK energy market to provide electricity to households and businesses in England, Scotland and Wales as soon as next year.
+
+Tesla, which is best known as one of the world’s biggest makers of electric vehicles (EV), also has a solar energy and battery storage business.
+
+Ofgem can take up to nine months to process applications for energy supply licences.
+
+Tesla Electric already operates a power supplier in Texas that allows owners of its EVs to charge their cars cheaply and pays them for feeding surplus electricity back to the grid.
+
+The application, which was signed by Andrew Payne who runs Tesla’s European energy operations, was filed late last month.
+
+...
+
+[Data](articles/5afd00e6.json)
+
+---
 
 ### முன்னாள் ஜனாதிபதிகளின் சலுகை ரத்து சட்டமூலம்;எதிர்ப்பு மனுத் தாக்கல்
 
@@ -68,6 +156,64 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 20 வயதுக்குட்பட்ட ஆடவர் அணிக்கு எழுவர் ஆசிய றக்பியில் இலங்கை இரண்டாம் இடம்
+
+*2025-08-11 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222347) · `ta`
+
+இந்தியாவின் பிஹாரில் வார இறுதியில் நடைபெற்ற 20 வயதுக்குட்பட்ட ஆடவர் அணிக்கு எழுவர் ஆசிய கிண்ண றக்பி போட்டியில் இலங்கை இரண்டாம் இடத்தைப் பெற்றது.
+
+ஞாயிற்றுக்கிழமை (10) நடைபெற்ற இறுதிப் போட்டியில் ஹொங் கொங் சைனாவை எதிர்கொண்ட இலங்கை, 0 - 33 என்ற புள்ளிகள் கணக்கில் தோல்வி அடைந்து சம்பியன் படத்தைத் தவறவிட்டது.
+
+எட்டு நாடுகள் பங்குபற்றிய இந்த சுற்றுப் போட்டியில் ஏ குழுவில் இடம்பெற்ற இலங்கை, முதல் சுற்றில் சகல போட்டிகளிலும் வெற்றிபெற்று அரை இறுதிக்கு முன்னேறியது.
+
+தனது ஆரம்பப் போட்டியில் ஹொங் கொங் சைனாவிடம் கடும் சவாலை எதிர்கொண்ட இலங்கை 24 - 19 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிபெற்றது.
+
+இரண்டாவது போட்டியில் இந்தியாவை 24 - 5 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிகொண்ட இலங்கை, கடைசிப் போட்டியில் ஐக்கிய அரபு இராச்சியத்தை 26 - 24 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிகொண்டு கிண்ணப் பிரிவுக்கான அரை இறுதியில் விளையாட தகுதிபெற்றது.
+
+சீனாவுடனான அரை இறுதியில் 26 -17 என்ற புள்ளிகள் அடிப்படையில்  வெற்றிபெற்ற  இலங்கை இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+
+...
+
+[Data](articles/5280d50b.json)
+
+---
+
+### Unemployed graduates stage protest opposite JVP Headquarters in Pelawatte
+
+*2025-08-11 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111363/unemployed-graduates-stage-protest-opposite-jvp-headquarters-in-pelawatte-) · `en`
+
+A protest organized by the Combined Association of Unemployed Graduates was held today opposite the Ministry of Education in Pelawatte.
+
+The protesters demonstrated at the location for about half an hour, after which they marched to the headquarters of the JVP located in Pelawatte.
+
+A strong police presence was observed in front of the party office during the protest, Ada Derana reporter said.
+
+The demonstrators pointed out that the present government has broken the promises made in its policy statement prior to coming into power.
+
+They claimed that there are currently around 35,000 unemployed graduates across the country, and accused the government of failing to fulfill its earlier promise of providing employment opportunities to them as outlined in its policy declaration.
+
+◼️
+
+[Data](articles/f6f64721.json)
+
+---
+
+### யாழ்ப்பாணம் சர்வதேச புத்தகத் திருவிழா 2025!
+
+*2025-08-11 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222338) · `ta`
+
+யாழ்ப்பாண வர்த்தகத் தொழிற்துறை மன்றத்தின் ஏற்பாட்டில், இரண்டாவது 'யாழ்ப்பாணம் சர்வதேச புத்தகத் திருவிழா 2025' ஆனது எதிர்வரும் ஆகஸ்ட் மாதம் 15ஆம் திகதி முதல் 17ஆம் திகதி வரை மூன்று தினங்களுக்கு யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையத்தில் நடைபெறவுள்ளது.
+
+இது தொடர்பாக தெளிவுபடுத்தும் ஊடக சந்திப்பு ஒன்று திங்கட்கிழமை (11) யாழ்ப்பாண வர்த்தகத் தொழிற்துறை மன்ற அலுவலகத்தில் இடம்பெற்றது. அப்போது ஏற்பாட்டாளர்கள் இதனைத் தெரிவித்தனர்.
+
+அவர்கள் மேலும் தெரிவிக்கையில், "நமது சமூகத்தில் வாசிப்பு கலாச்சாரத்தை மீட்டெடுக்கும் சமூகப் பொறுப்பு நமக்கு உள்ளது. இதனைக் கருத்தில் கொண்டு, மாணவர்கள், பெற்றோர்கள் மற்றும் பொதுமக்கள் மத்தியில் வாசிப்பை மேம்படுத்தும் நோக்கில், இந்தப் புத்தகத் திருவிழாவை இலாப நோக்கமின்றிக் கடந்த ஆண்டு சிறப்பாக நடத்தினோம். அதற்கு கிடைத்த பெரும் வரவேற்பே இந்த ஆண்டும் சிறப்பாக ஏற்பாடு செய்ய எங்களை ஊக்குவித்தது" என்றனர்.
+
+...
+
+[Data](articles/4e1f1e7c.json)
+
+---
+
 ### සහස්පුර වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
 
 *2025-08-11 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213264) · `si`
@@ -90,6 +236,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### GMOA and Health Ministry continue to clash over doctors’ transfer process
+
+*2025-08-11 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111362/gmoa-and-health-ministry-continue-to-clash-over-doctors-transfer-process) · `en`
+
+The Government Medical Officers’ Association (GMOA) has accused the Ministry of Health of delaying the implementation of agreements reached with the Health Minister regarding the rectification of irregularities in the doctors’ transfer process.
+
+In a statement, the GMOA stated that over the past few months, the preparation of transfer lists, issuance of transfer orders, and the filling of hospital vacancies have not been carried out properly by the Ministry of Health. As a result of the situation that arose, the association was compelled to consider taking trade union action.
+
+However, the GMOA expressed strong dissatisfaction over the failure of senior officials at the Health Ministry to act on verbal assurances given by the Health Minister.
+
+The association further stated that it has already informed the Health Minister of the issue in writing and has brought the matter to the attention of its Executive Committee, particularly regarding the temporarily suspended trade union action.
+
+...
+
+[Data](articles/a8bb9fcf.json)
+
+---
+
 ### රැකියා විරහිත උපාධිධාරීන් පැලවත්ත ජවිපෙ කාර්යාලය ඉදිරිපිට විරෝධතාවක
 
 *2025-08-11 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213263) · `si`
@@ -107,6 +271,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bb32e91f.json)
+
+---
+
+### யாழில் 5 போதை மாத்திரைகளுடன் ஒருவர் கைது
+
+*2025-08-11 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/222332) · `ta`
+
+யாழ்ப்பாணம், ஆனைக்கோட்டைப் பகுதியில் போதை 05 மாத்திரைகளுடன் சந்தேகநபர் ஒருவர் திங்கட்கிழமை (11) கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த இரகசியத் தகவலின் அடிப்படையில், யாழ்ப்பாணம் மாவட்ட போதைப்பொருள் தடுப்புப் பொலிஸார் இந்தக் கைது நடவடிக்கையை மேற்கொண்டனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர், மேலதிக விசாரணைகளுக்காகப் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார். விசாரணைகளின் முடிவில், அவரை நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5191daa8.json)
+
+---
+
+### வேலையற்ற பட்டதாரிகள் அரசாங்கத்தால் ஏமாற்றப்பட்டிருக்கின்றனர் - சஜித் பிரேமதாச
+
+*2025-08-11 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/222330) · `ta`
+
+தேசிய மக்கள் சக்தி ஆட்சியைப் பொறுப்பேற்று ஓராண்டு நிறைவடைகின்ற நிலையிலும், இன்னும் பல்வேறு பிரச்சினைகளுக்கு தீர்வுகள் வழங்கப்படாமலுள்ளன. குறிப்பாக வேலையற்ற பட்டதாரிகளின் விவகாரத்தில் அரசாங்கம் அசமந்த போக்குடனேயே செயற்பட்டு வருகிறது. கடந்த காலங்களைப் போன்று இந்த ஆட்சியிலும் பட்டதாரிகள் ஏமாற்றப்பட்டிருக்கின்றனர் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+திங்கட்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/e3eedfdb.json)
 
 ---
 
@@ -134,6 +328,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### India estimates about 55% of goods exported to US will face Trump tariff
+
+*2025-08-11 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111360/india-estimates-about-55-of-goods-exported-to-us-will-face-trump-tariff) · `en`
+
+About 55 per cent of India’s merchandise exports to the United States will be subject to the tariff imposed by President Donald Trump’s administration, the Indian government said on Monday.
+
+Last week, Trump imposed an additional 25 per cent tariff on Indian goods as punishment for Delhi’s purchases of Russian oil. That raised the total duty on Indian exports to the U.S. to 50 per cent - among the highest on any American trading partner.
+
+The Indian government had taken into account the 25 per cent tariff that Trump initially imposed on goods while providing Monday’s estimate, Pankaj Chaudhary, India’s junior finance minister, said in a written response to a question from a lawmaker.
+
+“The Department of Commerce is engaged with all stakeholders including exporters and industry for taking feedback of their assessment of the situation,” Chaudhary added.
+
+...
+
+[Data](articles/9710684f.json)
+
+---
+
 ### முன்னேஸ்வர ஆலய கொடியேற்றம்
 
 *2025-08-11 17:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேஸ்வர-ஆலய-கொடியேற்றம்/175-362708) · `ta`
@@ -147,6 +359,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e48555ba.json)
+
+---
+
+### Petition challenging Presidents’ Entitlements (Repeal) Bill filed at SC
+
+*2025-08-11 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111359/petition-challenging-presidents-entitlements-repeal-bill-filed-at-sc) · `en`
+
+A petition has been filed before the Supreme Court challenging the bill presented to Parliament by the government seeking to revoke the privileges of former Presidents, Ada Derana reporter said.
+
+The petition has been submitted by Renuka Perera, the Administrative Secretary of the Sri Lanka Podujana Peramuna (SLPP).
+
+The Attorney General has been named as the respondent in the petition.
+
+The petitioner states that the government submitted the proposed bill to Parliament on August 7 with the intention of revoking the privileges legally entitled to former Presidents.
+
+The petition points out that Clauses 1 to 4 of the proposed bill violate the doctrine of separation of powers, which is guaranteed by the Constitution.
+
+Furthermore, it is alleged that several clauses of the bill infringe upon the sovereignty of the people and the independence of the nation, both of which are also protected under the Constitution.
+
+...
+
+[Data](articles/f66676ff.json)
 
 ---
 
@@ -194,6 +428,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### පෙරහර සමයේ මහනුවර කසළ ටොන් 318ක් එකතු වෙලා
+
+*2025-08-11 16:43:58* · [`adalk`](https://www.ada.lk/breaking_news/පෙරහර-සමයේ-මහනුවර-කසළ-ටොන්-318ක්-එකතු-වෙලා/11-417847) · `si`
+
+කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහර මංගල්‍යය පැවති දින 11 තුළදී මහනුවර නගරයට එකතු වූ කසල ටොන් 318 ක් මහනුවර මහණකර සභාව විසින් ගුහාගොඩ කසලසල අංගනය වෙත යොමු කළ බව නගර සභාවේ ඝණ අපද්‍රව්‍ය ඒකකයේ ප්‍රධානි සහ ප්‍රධාන ඉංජිනේරු නාමල් ධම්මික දිසානායක මහතා පවසයි.
+
+එම අපද්‍රව්‍ය අතර පෙරහරට සහභාගිවීම සඳහා පැමිණි අලි ඇතුන්ට සැපයූ කොටන් සහ අතු ටොන් 192 ක් ඇති බව පවසන නගර සභා පරිපාලනය වැලි ඇතුන්ට ආහාර සැපයීම සඳහා ටෙන්ඩර් ලබාගෙන සිටි ටෙන්ඩර් කරුවන් අලි ඇතුන් ආහාරයට නොගන්නා අතු සහ කොටන් විශාල වශයෙන් නගරයට රැගෙන ඒමෙන් එතරම් අපද්‍රව්‍ය තොගයක් එකතු වී ඇති බවද කියයි.
+
+පෙරහර නැරඹීම සඳහා පැමිණ සිටි බැතිමතුන් අතහැර දමා ගොස් තිබූ පොලිතීන් ටොන් 33 ක් සහ ඉඳුල් කිලෝ 5630ක්ද තිබූ බව කියයි.
+
+මෙම කසල තොගය අතර මිශ්‍ර කසල ටොන් 68 ක්ද අඟුරු ටොන් 18 ක්ද ගුහාගොඩ කසල අංගනය වෙත යොමුකොට තිබේ.
+
+මෙවර පෙරහර මංගල්‍යය පැවති කාලය තුළදී නගරයේ පිරිසිදු කටයුතු වලට සහ කසල ප්‍රවාහනය සඳහා මහනුවර මහ නගර සභාව විසින් රුපියල් ලක්ෂ 75 කට ආසන්න මුදලක් වැය කොට ඇතිි බවද මහනුවර මහ නගර සභාවේ ප්‍රධාන ඉංජිනේරු නාමල් ධම්මික දිසානායක මහතා පවසයි.
+
+◼️
+
+[Data](articles/e70ee795.json)
+
+---
+
 ### சிறுவர்களிடையே எலிக்காய்ச்சல் பரவல் அதிகரிப்பு - விசேட வைத்திய நிபுணர்
 
 *2025-08-11 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222323) · `ta`
@@ -218,7 +472,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### President discuss pre-budget proposals for 2026 with officials
+### President discusses pre-budget proposals for 2026 with officials
 
 *2025-08-11 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111357/president-discuss-pre-budget-proposals-for-2026-with-officials-) · `en`
 
@@ -1591,269 +1845,5 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 ...
 
 [Data](articles/6225755e.json)
-
----
-
-### Sri Lanka central bank net foreign reserves fall over US$100mn in June: Analysis
-
-*2025-08-11 07:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-foreign-reserves-fall-over-us100mn-in-june-analysis-235445/) · `en`
-
-ECONOMYNEXT – Net foreign reserves of Sri Lanka’s central bank which have improved steadily for three years amid deflationary policy fell in June 2025, official data show, after a rate cut and strong recovery in private credit.
-
-Net foreign assets of the central bank, which deducts borrowings from India, the International Monetary Fund and also reserves effectively borrowed through buy-sell swaps, fell to 424 billion rupees (about 1,414 million US dollars) in June, from 461 billion rupees (about 1,541 million) in May.
-
-The June drop is the first material net reserve fall seen since deflationary policy led to a recovery in reserves (outflows of foreign exchanges less than inflows) in the second half of 2023.
-
-Net foreign reserves are now around the level seen in March 2025.
-
-Sri Lanka’s gross reserves have not grown for around 9 months after earlier rate cuts and a strong recovery in private credit as well as some inflationary policy in the last quarter of 2024.
-
-...
-
-[Data](articles/21d44396.json)
-
----
-
-### බොරැල්ලේ වෙඩිතැබීමේ සිද්ධියට තිදෙනෙක් අත්අඩංගුවට
-
-*2025-08-11 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213246) · `si`
-
-බොරැල්ල සහස්පුර සිරිසර උයන මහල් නිවාස සංකීර්ණය ආසන්නයේ සිදුවූ වෙඩි තැබීමේ සිද්ධියට ආධාර අනුබල දුන් සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඔවුන් බොරැල්ල සහ දෙමටගොඩ ප්‍රදේශයේ පදිංචි වයස අවුරුදු 24, 25 සහ 40 වියේ පසුවන්නන් බව පොලීසිය පැවසීය.
-
-මෙම වෙඩිතැබීමට ආධාර අනුබල දුන් සැකකරුවකු පොලීසිය විසින් මීට පෙර ද අත්අඩංගුවට ගෙන තිබුණි.
-
-ඔහු මේ වනවිට දින තුනක රැදවුම් නියෝග ගෙන ප්‍රශ්න කරමින් සිටියි.
-
-පසුගිය 7වනදා රාත්‍රියේ යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් තිබූ අතර, එහිදී තුවාල ලැබූ පස් දෙනෙකු රෝහල්ගත කළේය.
-
-කෙසේ නමුත් ඉන් දෙදෙනෙකු මේ වනවිට ජීවිතක්ෂයට පත්ව ඇති අතර, තවත් තිදෙනෙකු කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියි.
-
-සිද්ධිය සම්බන්ධයෙන් මේ වනවිට පුද්ගලයින් 10 දෙනෙකුගෙන් පමණ ප්‍රකාශ සටහන් කර ගෙන ඇත.
-
-◼️
-
-[Data](articles/df7547cd.json)
-
----
-
-### நாட்டில் இன்று இடியுடன் கூடிய மழை
-
-*2025-08-11 07:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்று-இடியுடன்-கூடிய-மழை/175-362665) · `ta`
-
-நாட்டில் இன்று பிற்பகல் 2 மணிக்குப் பின்னர் ஊவா மாகாணத்திலும், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-அத்துடன் மேல் மற்றும் சபரகமுவ மாகாணங்களிலும், நுவரெலியா, கண்டி, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் மழை பெய்ய வாய்ப்புள்ளதாகவும் அந்தத் திணைக்களம் தெரிவித்துள்ளது.
-
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று வீசுவதுடன், மின்னல் தாக்கங்களால் ஏற்படும் அனர்த்தங்களைக் குறைப்பதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறும் அந்தத் திணைக்களம் பொதுமக்களை அறிவுறுத்தியுள்ளது. (a)
-
-◼️
-
-[Data](articles/7b2e51b1.json)
-
----
-
-### Invest Sri Lanka forum to be held in Singapore
-
-*2025-08-11 07:20:00* · [`economynextcom`](https://economynext.com/invest-sri-lanka-forum-to-be-held-in-singapore-235453/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange and the Securities and Exchange Comission of Sri Lanka will hold an investor form in Singapore on August 12 with senior state officials, investors and listed companies participating.
-
-“Building on the momentum of the successful foreign investor forum held in Colombo during March this year, the initiative aims to further engage with global investors and promote Sri Lanka’s capital market as an attractive frontier investment destination,” the Colombo Stock Exchange said in a statement.
-
-The forum will bring together high-level government officials, regulators, listed companies, stock broker firms, and international investors to foster connections and promote long-term capital flows into Sri Lanka. The SEC and CSE have invited Hon. Prof.
-
-...
-
-[Data](articles/c22af1c4.json)
-
----
-
-### ’15 ஆம் திகதி ஹர்த்தால்’
-
-*2025-08-11 07:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-ஹர்த்தால்/175-362664) · `ta`
-
-முல்லைத்தீவு, முத்துஐயன்கட்டுக் குளத்தில் தமிழ் இளைஞரின் சடலம் மீட்கப்பட்டமையை ஒட்டி இலங்கை இராணுவத்தினர் மீது குற்றம் சுமத்தப்படும் நிலையில், தமிழர் தாயகத்தில் இன்று வரைத் தொடரும் இராணுவத்தின் மிருகத்தனத்தை எதிர்த்து, வடக்கு மற்றும் கிழக்கு மாகாணங்கள் முழுவதும் ஓகஸ்ட் 15 ஆம் திகதி வெள்ளிக்கிழமை ஹர்த்தால் நடத்த இலங்கைத் தமிழரசுக் கட்சி அழைப்பு விடுத்துள்ளது.
-
-இது தொடர்பில் இலங்கைத் தமிழரசுக் கட்சியின் தலைவர் சி.வி.கே.சிவஞானம், பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் ஆகியோர் கடிதம் மூலம் ஜனாதிபதி அநுரகுமார திசநாயக்காவுக்கும் அறிவித்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/9a3b51a1.json)
-
----
-
-### One killed, dozens injured, as 6.1 earthquake hits western Turkey
-
-*2025-08-11 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111344/one-killed-dozens-injured-as-61-earthquake-hits-western-turkey) · `en`
-
-A 6.1-magnitude quake struck Sindirgi in western Turkey on Sunday, the Turkish disaster management agency (AFAD) said, killing at least one person and injuring dozens more.
-
-The quake was felt across several cities in the west of the country, including Istanbul and the tourist hotspot of Izmir.
-
-“An 81-year-old person died soon after having been rescued from under the rubble,” Turkish Interior Minister Ali Yerlikaya told journalists at Sindirgi, the epicentre of the quake.
-
-Another 29 people had been injured, but not seriously, he added.
-
-The quake collapsed 16 buildings in Sindirgi and its surroundings, of which four were inhabited, including a three-storey building in the city centre, he said.
-
-Several people were pulled alive from the rubble of the three-storey building, where six people were living. The person who died had also been buried under the rubble there before being freed.
-
-...
-
-[Data](articles/9e3d84dc.json)
-
----
-
-### முத்துஐயன்கட்டுக் கொலை: சுமந்திரன் கண்டனம்
-
-*2025-08-11 06:49:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முத்துஐயன்கட்டுக்-கொலை-சுமந்திரன்-கண்டனம்/175-362663) · `ta`
-
-முல்லைத்தீவு, முத்துஐயன்கட்டுப் பகுதியில் தமிழ் இளைஞர் ஒருவர் இராணுவத்தினரால் தாக்கப்பட்டுக் கொல்லப்பட்ட சம்பவத்தை வன்மையாகக் கண்டிக்கின்றோம் என்றும் இது தொடர்பில் பொலிஸார் எவ்வித தலையீடுகளுமின்றி முறையான விசாரணைகளை மேற்கொள்ள வேண்டும் எனவும்  இலங்கைத் தமிழரசுக் கட்சியின் பொதுச்செயலாளர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-கொழும்பில் நேற்று இடம்பெற்ற ஊடக சந்திப்பொன்றின்போது  அவர் தெரிவித்தார். இதன்போது அங்கு அவர் மேலும் தெரிவிக்கையில்,
-
-முல்லைத்தீவு, முத்துஐயன்கட்டுக் குளத்தில் கடந்த சனிக்கிழமை காலை  தமிழ் இளைஞர் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது. கடந்த வியாழக்கிழமை ஐந்து பேர் முத்துஐயன்கட்டு இராணுவ முகாமுக்கு இராணுவத்தினரால்  அழைத்துச் செல்லப்பட்டுள்ளனர். நால்வர் முகாமில் இருந்து தப்பித்துச் சென்றுள்ளார்கள். ஒருவர் காணாமல்போயிருந்தார். அவரின் சடலம்தான் முத்துஐயன்கட்டுக் குளத்தில் இருந்து பின்னர் மீட்கப்பட்டுள்ளது.
-
-முகாமுக்குள் வைத்து இராணுவத்தினர் தம்மை மிக மோசமாகத் தாக்கினார்கள் என்று தப்பித்து வந்தவர்கள் குறிப்பிட்டுள்ளார்கள்.
-
-...
-
-[Data](articles/caa9116b.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2025-08-11 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111343/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of light showers will occur in the Western, North-western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts today.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m., it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6737ca11.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට අදත් තද වැසි
-
-*2025-08-11 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213245) · `si`
-
-අද (11) බස්නාහිර, වයඹ සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එමෙන්ම ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/0c5f705e.json)
-
----
-
-### තුර්කියේ ප්‍රබල භූමිකම්පාවක්
-
-*2025-08-11 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213243) · `si`
-
-වයඹදිග තුර්කියේ බාලිකෙසීර් පළාතේ රික්ටර් මාපකයේ 6.1ක ප්‍රබල භූමිකම්පාවක් ඇතිව තිබේ.
-
-මෙය එරට විශාලතම නගරය වන ඉස්තාන්බුල් ඇතුළු පළාත් කිහිපයකටම දැනී ඇත.
-
-තුර්කි ආපදා කළමනාකරණ ඒජන්සිය (AFAD) නිකුත්කළ නිවේදනයට අනුව එරට වේලාවන් ඊයේ (10) රාත්‍රී 7:53ට මෙය සිදුව තිබේ.
-
-සිදු වූ හානිය සම්බන්ධයෙන් වැඩිදුර තොරතුරු වාර්තා නොවන අතර, දැනට එක් අයෙකු මියගොස් ඇති බව තුර්කි අභ්‍යන්තර කටයුතු අමාත්‍ය අලි යර්ලිකායා තහවුරු කර ඇත.
-
-එමෙන්ම තවත් 29 දෙනෙකු තුවාල ලබා ඇති අතර, ගොඩනැගිලි 16ක් පමණ කඩාවැටී තිබේ.
-
-ඉකුත් 2023 පෙබරවාරි මාසයේදී එරට ඇති වූ ප්‍රබල භූමිකම්පාවකින් පුද්ගලයින් 53,000ක අධික සංඛ්‍යාවක් මියගිය අතර, පුරාණ අන්තියෝකියා නගරයේ කොටසක් ද විනාශ විය.
-
-◼️
-
-[Data](articles/378fee26.json)
-
----
-
-### Dipped Products wins Overall Gold Award at NBEA 2025
-
-*2025-08-11 05:52:46* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-wins-Overall-Gold-Award-at-NBEA-2025/34-780111) · `en`
-
-DPL Managing Director Pushpika Janadheera (right) receives the Overall Gold Award at NBEA 2025
-
-Dipped Products PLC (DPL), a member of the Hayleys Group and a global leader in hand protection solutions spanning the medical, household, industrial, and sports sectors, was honoured with the Overall Gold Award at the National Business Excellence Awards (NBEA) 2025. The recognition comes as DPL enters its 50th year of global operations.
-
-The event was held under the patronage of New Zealand High Commissioner David Pine as Chief Guest, with South African High Commissioner to Sri Lanka and Maldives Sandile Edwin Schalk serving as Guest of Honour.
-
-In addition to the top accolade, DPL secured five further honours: Winner – ‘Extra Large Category,’ Winner ‘Manufacturing (Other Sector),’ ‘Excellence in Environmental, Social and Governance (ESG),’ ‘Excellence in Corporate Governance and Strategy,’ and Runner-up – ‘Excellence in Global Market Reach.’
-
-...
-
-[Data](articles/1fbd50c5.json)
-
----
-
-### CSF launches new policy brief on Trade Policy Uncertainty and Impacts on Exporters
-
-*2025-08-11 05:51:32* · [`dailyftlk`](https://www.ft.lk/business/CSF-launches-new-policy-brief-on-Trade-Policy-Uncertainty-and-Impacts-on-Exporters/34-780110) · `en`
-
-The Centre for a Smart Future (CSF) has published a new policy brief titled ‘Trade Policy Uncertainty and Impacts on Sri Lankan Exporters.’
-
-The pervasive and unpredictable nature of ongoing trade policy developments and the many dimensions of impacts that the resulting uncertainty causes are important considerations for further exploration in Sri Lanka. This new policy brief by the CSF, authored by Anushka Wijesinha and Senith Abeynayake, takes an early look at the effects of trade policy uncertainty on Sri Lankan export-oriented firms, based on an executive opinion survey and key informant interviews.
-
-There is a wide variation in how, and to what extent, trade policy uncertainty has affected export businesses.
-
-Most export leaders spent a balanced amount of time in ‘immediate crisis management’ and ‘medium-term initiatives.’
-
-Firms experienced mixed impacts on orders to the US, with differences among apparel and non-apparel exporters.
-
-...
-
-[Data](articles/9ac51c66.json)
-
----
-
-### CEAT ranks as Sri Lanka’s Most Valuable Tyre Brand in 2025 Brand Finance report
-
-*2025-08-11 05:48:53* · [`dailyftlk`](https://www.ft.lk/business/CEAT-ranks-as-Sri-Lanka-s-Most-Valuable-Tyre-Brand-in-2025-Brand-Finance-report/34-780109) · `en`
-
-Elevates to sixth strongest consumer brand in country; brand value up 15% YoY
-
-CEAT has once again reaffirmed its leadership in the country’s automotive sector by being ranked the ‘Most Valuable Tyre Brand in Sri Lanka’ for 2025 in the latest edition of the Brand Finance Lanka rankings.
-
-According to the report by Brand Finance – the world’s leading brand valuation consultancy – CEAT has grown its brand value by 15% to Rs. 2.325 billion, securing 44th place overall among Sri Lanka’s 100 most valuable brands.
-
-Notably, CEAT has also been recognised as the sixth strongest consumer brand in the country based on its Brand Strength Index (BSI) score of 83.3/100, and retains its AAA- brand strength rating, a distinction shared by only a handful of top-tier brands in the island.
-
-Globally, CEAT is ranked the eighth strongest tyre brand by Brand Finance.
-
-...
-
-[Data](articles/5ff27ce2.json)
-
----
-
-### Sri Lanka must navigate tariff turbulence with strategy: Expert
-
-*2025-08-11 05:43:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-must-navigate-tariff-turbulence-with-strategy-Expert/34-780108) · `en`
-
-Advocata Institute CEO Dhananath Fernando says if US pushes for zero tariffs on EVs to SL, countries like Japan, China and India will retaliate
-
-Notes small, vulnerable economies like SL are often easiest targets to ‘send a message’
-
-Opines greatest challenge for SMEs not higher tariffs, but uncertainty
-
-Calls on Govt. to strengthen foreign services to manage relations with US, China and India, whilst pushing for better trade terms and boosting domestic reforms
-
-Suggests SL should pivot towards Asian markets as its middle-class is projected to surpass 2 b by 2035, whilst asserting entering markets like China, India and Vietnam is 10-20 year effort
-
-Advocata Institute CEO Dhananath Fernando recently said small and medium enterprises (SMEs) face heightened uncertainty as global trade tensions spill over into supply chains.
-
-...
-
-[Data](articles/31de4d45.json)
 
 ---

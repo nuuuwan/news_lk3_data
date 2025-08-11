@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 22:50:14**
+As of **2025-08-11 23:07:01**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-11 (Monday)
 
-### දුම්රිය දෙපාර්තමේන්තුවේ ටෙන්ඩර් පටිපාටියට පිටින් යන ගනුදෙණුවක් ගැන හෙළිදරව්වක්
+### දුම්රිය දෙපාර්තමේන්තුවේ ටෙන්ඩර් පටිපාටියට පිටින් යන ගනුදෙනුවක් ගැන හෙළිදරව්වක්
 
 *2025-08-11 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213271) · `si`
 

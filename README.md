@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 05:18:27**
+As of **2025-08-11 05:31:41**
 
 ## Newspaper Stats
 
-*Scraped **69,765** Articles*
+*Scraped **69,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 712
 economynextcom | 4,249
-islandlk | 4,266
+islandlk | 4,277
 dailymirrorlk | 4,733
 dailyftlk | 4,894
 adalk | 6,717
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,765 articles have been extended.
+61,973 (88.8%) of 69,776 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -592,6 +592,20 @@ Sri Lanka’s Rumesh Tharanga has set a new national record during the first rou
 
 ---
 
+### Wasantha Karannagoda’s The Turning Point
+
+*2025-08-10 18:56:00* · [`islandlk`](http://island.lk/wasantha-karannagodas-the-turning-point/) · `en`
+
+The Naval Role in Sri Lanka’s War on LTTE Terrorism – Penguin Books India
+
+The role of the Sri Lanka Navy in ending LTTE terrorism often tends to be understated in any discussion of the war. During the war, pitched battles between the Army and the LTTE were far more frequent and, therefore, tended to get more publicity than confrontations between the Navy and the LTTE out at sea. Yet, from the very earliest days of separatist terrorism in the North, the supply of arms by sea, and escape to Tamil Nadu by boat, were crucial to the terrorists. Later, as the LTTE evolved from hit-and-run terrorism to controlling swathes of territory, escape to India by sea became less important, but the supply of arms and ammunition by sea continued to remain their lifeline.
+
+...
+
+[Data](articles/18b6d18d.json)
+
+---
+
 ### ඕස්ට්‍රේලියාවට ලකුණු 17ක ජයක්
 
 *2025-08-10 18:49:00* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියාවට-ලකුණු-17ක-ජයක්/9-417831) · `si`
@@ -622,6 +636,64 @@ Sri Lanka’s Rumesh Tharanga has set a new national record during the first rou
 
 ---
 
+### Peugeot 2025 range hits Sri Lankan roads with Carmart’s exclusive handover event
+
+*2025-08-10 18:31:00* · [`islandlk`](http://island.lk/peugeot-2025-range-hits-sri-lankan-roads-with-carmarts-exclusive-handover-event/) · `en`
+
+In a momentous celebration of French automotive excellence, Carmart (Pvt) Ltd, the sole authorized importer, distributor & repairer for Peugeot in Sri Lanka, proudly handed over the first batch of brand-new Peugeot 2025 models to a select group of discerning customers at a private event held this week. The occasion marked the official arrival of the highly anticipated Peugeot 2008, 3008, and 5008 SUVs, each embodying the brand’s latest design evolution, advanced safety innovations and refined driving dynamics. With bold new styling and cutting-edge features and technology, the 2025 range reaffirms Peugeot’s commitment to premium mobility with an emphasis on enjoyment.
+
+...
+
+[Data](articles/06d3e846.json)
+
+---
+
+### DBL Night 2024 recognizes excellence in sales across Sri Lanka
+
+*2025-08-10 18:31:00* · [`islandlk`](http://island.lk/dbl-night-2024-recognizes-excellence-in-sales-across-sri-lanka/) · `en`
+
+Deen Brothers Imports (DBL) successfully hosted DBL Night 2024 at the prestigious Cinnamon Life Hotel, Colombo. The event celebrated and recognized the dedication and outstanding performance of DBL’s sales agents from across the island. The night brought together over 500 sales agents.
+
+The ceremony was graced by prominent guests including Sri Lanka National Cricket Team Head Coach Sanath Jayasuriya and Dongcheng Senior Sales Manager Joe Chen. Top-performing sales agents across several categories including DBL machinery, Dongcheng power tools, spare parts, and accessories were honored with exclusive gifts and vouchers. The highlight of the evening was the awarding of an all-expenses-paid five-day trip to Shanghai, China, for 30 outstanding agents in the Dongcheng category. This exclusive trip includes a visit to Dongcheng’s state-of-the-art manufacturing facility.
+
+...
+
+[Data](articles/48f3c0fa.json)
+
+---
+
+### ComBank ranked country’s 2nd most valuable brand
+
+*2025-08-10 18:30:00* · [`islandlk`](http://island.lk/combank-ranked-countrys-2nd-most-valuable-brand/) · `en`
+
+The Commercial Bank of Ceylon has been ranked the second most valuable brand in Sri Lanka across all sectors and the most valuable private sector bank brand in the country for 2025 by Brand Finance, the world’s leading brand valuation consultancy.
+
+According to the 2025 edition of Brand Finance’s annual review of Sri Lanka’s 100 most valuable and strongest brands, Commercial Bank has been assigned a brand value of Rs. 46.6 billion – the highest in the private banking sector and the second highest among all brands in the country.
+
+In terms of brand strength, the Bank has also been ranked the third strongest brand in Sri Lanka, with a Brand Strength Index (BSI) score of 86.3 out of 100. Brand Finance has awarded Commercial Bank a prestigious AAA brand strength rating, reflecting the Bank’s robust brand equity and its future value-generating potential.
+
+...
+
+[Data](articles/b81b49b1.json)
+
+---
+
+### American College of Higher Education celebrates Transfer and Graduation Ceremony 2025
+
+*2025-08-10 18:29:00* · [`islandlk`](http://island.lk/american-college-of-higher-education-celebrates-transfer-and-graduation-ceremony-2025/) · `en`
+
+Education (ACHE) proudly held its Transfer and Graduation Ceremony 2025 on July 29, 2025, at the Cinnamon Lakeside Hotel, Colombo, marking another milestone in its 30-year legacy of academic excellence.
+
+ACHE, a pioneering higher education institution in Sri Lanka, serves as an off-campus instructional site of Keiser University, Fort Lauderdale, Florida, USA, offering programs approved by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). Through its 2+2 University Transfer Program, ACHE enables students to complete the first two years of an American degree in Sri Lanka before transferring to over 4,000 universities in the U.S., Canada, and other countries.
+
+The ceremony’s Chief Guest, Professor Terrence Madhujith, Vice Chancellor of the University of Peradeniya, commended ACHE for its role in providing globally recognized education to Sri Lankan students.
+
+...
+
+[Data](articles/819ff6d9.json)
+
+---
+
 ### O/L மற்றும் A/L-க்கான திகதிகள் அறிவிப்பு
 
 *2025-08-10 18:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மற்றும்-A-L-க்கான-திகதிகள்-அறிவிப்பு/175-362652) · `ta`
@@ -635,6 +707,52 @@ Sri Lanka’s Rumesh Tharanga has set a new national record during the first rou
 ◼️
 
 [Data](articles/dfa11f17.json)
+
+---
+
+### UClean launches in Negombo with world-class cleaning services
+
+*2025-08-10 18:18:00* · [`islandlk`](http://island.lk/uclean-launches-in-negombo-with-world-class-cleaning-services/) · `en`
+
+UClean, the world’s largest laundry and dry-cleaning chain, has now opened its doors in Negombo, offering residents a seamless and hassle-free cleaning experience.
+
+The brand provides a comprehensive range of services, including laundry, dry cleaning, shoe cleaning, sofa cleaning, carpet cleaning, and leather care. UClean ensures high-quality results by exclusively using NDHC-certified detergents, guaranteeing zero discharge of hazardous chemicals. From everyday garments to delicate footwear and home furnishings, every item receives expert care and attention.
+
+For added convenience, UClean offers free pick-up and drop services, making professional cleaning more accessible than ever. Services can be easily scheduled through the UClean app with just a few taps, ensuring a fast, simple, and flexible booking process. A trained team employs safe and effective methods to deliver spotless results every time.
+
+...
+
+[Data](articles/2c58c821.json)
+
+---
+
+### Meet Sri Lanka’s new Ambassadors and High Commissioners at National Chamber
+
+*2025-08-10 18:18:00* · [`islandlk`](http://island.lk/meet-sri-lankas-new-ambassadors-and-high-commissioners-at-national-chamber/) · `en`
+
+The National Chamber of Commerce of Sri Lanka, in collaboration with the Ministry of Foreign Affairs, Foreign Employment and Tourism of Sri Lanka, will host an exclusive networking session for Sri Lankan corporates and the business community on Tuesday 12, August 2025, from 2.30 p.m. to 4.30 p.m. at the National Chamber Auditorium.
+
+This distinguished gathering will be graced by eight (08) newly appointed Sri Lankan Ambassadors and High Commissioners designated to key countries (appointed by the president): South Korea, Indonesia, Brazil, Maldives, Turkiye, Nepal, Nairobi (Kenya) and Oman and five (05) Consul Generals (including Actg. posts) appointed to Guangzhou, Shanghai, Milan, Los Angeles Jeddah and Deputy High Commissioner to Chennai.
+
+The session offers a unique platform for businesses to: Engage directly with diplomatic representatives; Explore opportunities for export market access; Discuss investment prospects and Facilitate bilateral trade partnerships.
+
+...
+
+[Data](articles/9ae661d2.json)
+
+---
+
+### A strategic partnership to strengthen e-Government Procurement System
+
+*2025-08-10 18:17:00* · [`islandlk`](http://island.lk/a-strategic-partnership-to-strengthen-e-government-procurement-system/) · `en`
+
+The Department of Public Finance of the Ministry of Finance, Planning and Economic Development, Sri Lanka (DPFMoF), and Sri Lanka Telecom (Services) Limited (SLT-SERVICES), a subsidiary of the SLT-MOBITEL Group, have entered into a strategic partnership to enhance Sri Lanka’s e-Government Procurement (e-GP) system through the integration of Promise.lk with RainbowPages.lk.
+
+This collaboration aims to strengthen the overall supplier ecosystem of the government by enhancing supplier availability, expanding and verifying the supplier base, improving data accuracy, for supporting robust governance practices in public procurement ultimately fostering a more transparent, credible, and efficient business environment.
+
+...
+
+[Data](articles/fa8e5a02.json)
 
 ---
 
@@ -1549,145 +1667,5 @@ She emphasized that children should be given the opportunity to enjoy their chil
 ◼️
 
 [Data](articles/27d0c179.json)
-
----
-
-### களுத்துறையில் 1.5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெரோயினுடன் ஒருவர் கைது
-
-*2025-08-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222230) · `ta`
-
-களுத்துறை மற்றும் அதனை அண்டிய பகுதிகளில் ஈஸி கேஷ் (eZ Cash) முறை ஊடாக ஹெரோயின் கடத்தல் நடவடிக்கையில் ஈடுபட்டுவந்த ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த உறுப்பினரின் நண்பர் ஒருவர் சுமார் 1.5 மில்லியன் ரூபாய் மதிப்புள்ள ஹெரோயினுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-களுத்துறை வலய குற்றப்பிரிவில் இணைக்கப்பட்ட குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளுக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் இந்த கைது மேற்கொள்ளப்பட்டுள்ளது.
-
-ஆரம்ப கட்ட விசாரணைகளில் அவர் களுத்துறை, பாணந்துறை, பயாகல, பேருவளை, மற்றும் மத்துகம உள்ளிட்ட பல பகுதிகளுக்கு ஹெரோயினை மொத்தமாக கொண்டு சென்று, ஈஸி கேஷ் முறை ஊடாக பணப்பரிவர்த்தனைகளை மேற்கொண்டு வந்துள்ளதாக தெரியவந்துள்ளது.
-
-கைது செய்யப்பட்ட நபர் களுத்துறை, பலதொடாவை பகுதியில் வசிக்கும் 41 வயதுடையவர் ஆவார்.
-
-சந்தேகநபர் ஓட்டி வந்த முச்சக்கர வண்டியையும், மோசடிக்கு பயன்படுத்திய கையடக்கத் தொலைபேசியையும் களுத்துறை குற்றத்தடுப்பு பிரிவு பொலிஸார் கைப்பற்றியுள்ளனர்
-
-...
-
-[Data](articles/33c51e31.json)
-
----
-
-### Man arrested in Wellawatte with Rs. 3.5 million worth of e-cigarettes
-
-*2025-08-10 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111332/man-arrested-in-wellawatte-with-rs-35-million-worth-of-e-cigarettes) · `en`
-
-An individual has been arrested with a stock of e-cigarettes, valued at approximately Rs. 3.5 million, which are banned for use in the country, according to the Wellawatte Police.
-
-Based on a tip-off received by the Wellawatte Police regarding the secret sale of e-cigarettes at a shop selling perfume and chocolates, the location was raided and the illegal stock was discovered.
-
-Interrogations revealed that the suspect had smuggled the e-cigarettes into the country by concealing them within perfume and chocolate imports. He had then been selling them to individuals at prices ranging from Rs. 8,000 to Rs. 10,000 per unit, police added.
-
-◼️
-
-[Data](articles/1eeea517.json)
-
----
-
-### வரிக்­கு­றைப்பு வெற்­றியும் சவாலும்
-
-*2025-08-10 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222220) · `ta`
-
-இலங்கைப் பொருட்­க­ளுக்­கான வரியை, 20 சத­வீ­த­மாக குறைப்­ப­தற்கு,  அமெ­ரிக்க ஜனா­தி­பதி டொனால்ட் ட்ரம்ப்  எடுத்­தி­ருக்கும் முடிவு,  ஆச்­ச­ரி­யத்தை ஏற்­ப­டுத்­தி­யி­ருக்­கி­றது.ஏனென்றால்  30 சத­வீத வரியை குறைப்­ப­தற்கு  அமெ­ரிக்க அதி­கா­ரிகள் கடைசி நேரம் வரை, தயா­ராக இருக்­க­வில்லை. கடைசி இரண்டு மணி நேரத்­திற்குள் தான், பேச்­சுக்­களின் போக்கு மாறி­ய­தாக தக­வல்கள் கூறு­கின்­றன.இந்த இணக்­கப்­பாட்டின் மூலம், இலங்கைப் பொருட்கள் தடை­யின்றி அமெ­ரிக்க சந்­தையை அடையும் வாய்ப்பு உரு­வா­கி­யி­ருக்­கி­றது.டொனால்ட் ட்ரம்பின் வரி வீதத்தை விட அது விதிக்­கப்­பட்ட முறையே சிக்­க­லா­னது. அது நாட்­டுக்கு நாடு வேறு­பட்­ட­தாக இருந்­தது.
-
-◼️
-
-[Data](articles/cd840323.json)
-
----
-
-### நியூசிலாந்தில்  வேலைவாய்ப்புகள்
-
-*2025-08-10 12:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியூசிலாந்தில்-வேலைவாய்ப்புகள்/175-362628) · `ta`
-
-விவசாயம், வனவியல் மற்றும் சுற்றுலா போன்ற துறைகளை ஆதரிப்பதற்கான இரண்டு புதிய வேலை வாய்ப்பு விசாக்கள் டிசம்பரில் விண்ணப்பங்களுக்குத் திறக்கப்படும் என்று நியூசிலாந்து அரசு அறிவித்துள்ளது.
-
-கிராமப்புற ஒப்பந்ததாரர்கள், ஒயின் தயாரிக்கும் ஊழியர்கள் மற்றும் சேர்லிஃப்ட் இயக்குனர்கள் போன்றவர்களுக்கு மூன்று ஆண்டு உலகளாவிய பணியாளர் பருவகால விசாவை குடிவரவு அமைச்சர் எரிகா ஸ்டான்ஃபோர்ட் அறிவித்தார்.
-
-இந்த விசா சிறப்பு மற்றும் மிகவும் திறமையான தொழிலாளர்களை ஈர்ப்பதை நோக்கமாகக் கொண்டதாக ஸ்டான்போர்ட் கூறினார்.
-
-"இவை, பொருளாதாரத்தை மேம்படுத்த உதவும் குறுகிய கால உதவிகள்" என்று அமைச்சர் கூறினார்.
-
-இந்த விசா உள்ளவர்கள் மூன்று வருட காலத்திற்குள் எத்தனை முறை வேண்டுமானாலும் நியூசிலாந்திற்குள் நுழைய முடியும்.
-
-◼️
-
-[Data](articles/996dfa50.json)
-
----
-
-### ඊ දුම්වැටි තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
-
-*2025-08-10 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213225) · `si`
-
-මෙරට පරිහරණයට තහනම් වන රුපියල් ලක්ෂ 35ක් පමණ වටිනා " ඊ"  දුම්වැටි තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව වැල්ලවත්ත පොලිසිය පවසයි.
-
-එම සැකකරු ළඟ තිබී ඊ දුම්වැටි 620ක් ද පොලීසිය සිය භාරයට ගෙන ඇත.
-
-වැල්ලවත්ත ස්ටැෆ් පාරේ සුවඳ විලවුන් සහ චොකලට් අලෙවියේ යෙදෙන ස්ථානයක ඊ දුම්වැටි හොර රහසේ අලෙවි කරන බවට වැල්ලවත්ත පොලිසියට ලද තොරතුරකට අනුව අදාල ස්ථානය වටලා මෙම දුම්වැටි තොගය සොයා ගෙන තිබේ.
-
-සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ චොකලට් සහ සුවඳ විලවුන් ආනයනය කරන අතරවාරයේදී ඒවායෙහි සඟවා මෙම ඊ දුම්වැටි ආනයනය කර පුද්ගලයන් වෙත රුපියල් 8000- 10000ත් අතර මිලකට අලෙවි කරන බවය.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 34 හැවිරිදි රාජගිරිය ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
-
-◼️
-
-[Data](articles/2aca9a2f.json)
-
----
-
-### Maldives sees record 108 foreign investments in 1 year: Minister
-
-*2025-08-10 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111331/maldives-sees-record-108-foreign-investments-in-1-year-minister) · `en`
-
-The Maldivian government has attracted 108 foreign investments in about one year, a marked improvement from previous years, state-run PSM News reported on Saturday, quoting a senior minister.
-
-Minister of Economic Development and Trade Mohamed Saeed said that between 2013 and 2018, which was previously considered the best period for investments, there were on average 81 foreign investments per year. However, since President Mohamed Muizzu took office, there have been 108 foreign investments in around one year, he said.
-
-He said the current government has hosted business forums in half a dozen countries. These forums have directly contributed to an uptick of investment queries and registered investments in the Maldives, he said.
-
-Saeed said the government puts a lot of effort into creating an investor-friendly environment. The Foreign Investment Act has been revised after 45 years, putting the investment frameworks in line with international norms.
-
-◼️
-
-[Data](articles/efaa21cd.json)
-
----
-
-### தமிழ் அரசு நழுவ விட்ட வாய்ப்பு
-
-*2025-08-10 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/222218) · `ta`
-
-தமிழர்கள் எதிர்பார்க்கின்ற நீதி, பொறுப்புக்கூறல் என்பன உறுதி செய்யப்படும்  தீர்மானம் நிறைவேற்றப்பட்டு, சர்வதேச குற்றவியல் நீதிமன்றத்தில் இலங்கையின் பொறுப்புக்கூறல் விவகாரத்தை பாரப்படுத்தினால் தான் அது முழுமையான வெற்றி.ஜெனிவாவுக்கு அனுப்பப்பட்ட கடிதம் முக்கியமானது, அதன் உள்ளடக்கம் எவராலும் தட்டிக் கழிக்க முடியாதது.  அவ்வாறான ஒரு கடிதத்தில் ஒப்பமிட மறுத்ததன் மூலம், தமிழரசுக் கட்சி தனது சுயநல அரசியலை வெளிப்படுத்தியிருக்கிறது.
-
-◼️
-
-[Data](articles/0ca7b128.json)
-
----
-
-### தப்பியோட முயன்ற ‘வலஸ் கட்டா’ காயமடைந்து வைத்தியசாலையில் அனுமதி
-
-*2025-08-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222221) · `ta`
-
-போதைப்பொருள் கும்பலைச் சேர்ந்த கெஹல்பத்தர பத்மேவின் நெருங்கிய நண்பரான திலின சம்பத் எனப்படும் 'வலஸ் கட்டா' பொலிஸ் காவலில் இருந்து தப்பியோட முயன்ற போது, இரண்டு கால்களிலும் கை ஒன்றிலும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-அவர் தற்போது 90 நாள் தடுப்புக்காவல் உத்தரவின் கீழ் தடுத்து வைக்கப்பட்டு, மேற்கு மாகாண வடக்கு குற்றப்பிரிவால் விசாரணை செய்யப்பட்டு வருகிறார்.
-
-இந்நிலையில், நேற்று சனிக்கிழமை (09) இரவு 9:15 மணியளவில், சந்தேகநபர் மலசலக்கூடத்தை பயன்படுத்த வேண்டும் என அதிகாரிகளிடம் தெரிவித்துள்ளார். அதன்படி, அவரது கைவிலங்குகளை கழட்டிய பின்னர் நான்கு அதிகாரிகள் அவரை அழைத்துச் சென்றுள்ளனர்.
-
-மலசலக்கூடத்துக்குச் செல்லும் வழியில், வலஸ் கட்டா அதிகாரிகளைத் தாக்கி கட்டிடத்தின் மூன்றாவது மாடியில் இருந்து கீழே குதித்துள்ளார்.
-
-இதன்போது,  அவரது இரண்டு கால்களும் முறிந்துள்ளன, மேலும் அவரது கை ஒன்றின் முழங்கை உடைந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-சந்தேக நபர் தற்போது கொழும்பு தேசிய வைத்தியசாலையில் பலத்த பொலிஸ் பாதுகாப்பில் சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/e4bbbcc0.json)
 
 ---

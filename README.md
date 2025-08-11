@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 17:54:27**
+As of **2025-08-11 18:10:44**
 
 ## Newspaper Stats
 
-*Scraped **69,890** Articles*
+*Scraped **69,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,736
 adaderanalk | 8,694
 tamilmirrorlk | 10,234
 virakesarilk | 11,647
-adaderanasinhalalk | 12,050
+adaderanasinhalalk | 12,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,890 articles have been extended.
+61,973 (88.7%) of 69,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### සහස්පුර වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
+
+*2025-08-11 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213264) · `si`
+
+ඉකුත්දා බොරැල්ල සහස්පුර ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් තුන්දෙනෙකු පැය 24ක කාලයක් පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද කොළඹ අපරාධ කොට්ඨාශයට අවසර ලබා දුන්නා.
+
+එමෙන්ම මෙම සිද්ධියට අදාළව මීට පෙර අත්අඩංගුවට ගත් ෂෙහාන් මධුසංක නමැති සැකකරුවකු ලබන 25 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනුජා ලක්මාලි ජයතුංග මහත්මිය නියම කළාය.
+
+පොලිසිය සැකකරුවන් අධිකරණයට ඉදිරිපත් කරමින් සඳහන් කළේ මෙම සිද්ධියට අදාළව තවදුරටත් විමර්ශන සිදුකරන බවය.
+
+ඒ අනුව වන විට අත්අඩංගුවට ගෙන සිටින සැකකරුවන් තුන්දෙනෙකු පැය විසි හතරක කාලයක් පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට අවසර දෙන ලෙසත් පොලිසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම ඉල්ලීමට අවසර දුන් මහේස්ත්‍රාත්වරිය අදාළ සැකකරුවන් තුන්දෙනා පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට අවසර ලබා දුන්නා.
+
+ඊට අමතරව ෂෙහාන් මධුසංක නමැති සැකකරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයා මෙම සිද්ධියට සම්බන්ධ නොමැති බව පැවසුවේය.
+
+...
+
+[Data](articles/bad92c49.json)
+
+---
 
 ### රැකියා විරහිත උපාධිධාරීන් පැලවත්ත ජවිපෙ කාර්යාලය ඉදිරිපිට විරෝධතාවක
 
@@ -1827,27 +1849,5 @@ According to the BBC, Israel intends to assume security control of the territory
 ...
 
 [Data](articles/14052d69.json)
-
----
-
-### Kandy Esala Perahera concludes successfully
-
-*2025-08-11 05:35:24* · [`dailyftlk`](https://www.ft.lk/news/Kandy-Esala-Perahera-concludes-successfully/56-780104) · `en`
-
-The Sannasa being handed to President Anura Kumara Disanayake by Temple of the Sacred Tooth Relic Chief Custodian Pradeep Nilanga Dela
-
-The traditional ceremony to inform the Head of the State on the successful completion of the historic Kandy Esala Perahera was held on Saturday at the President’s House in Kandy.
-
-This year’s Esala Festival drew to a close after the Sannasa (Scroll of Memorandum) was handed over to President Anura Kumara Disanayake by Temple of the Sacred Tooth Relic Chief Custodian Pradeep Nilanga Dela.
-
-The 2025 historic Kandy Esala Perahera Festival concluded on Saturday (9) with the Day Perahera.
-
-The four Devala Peraheras proceeded to the Getambe Diya Kapana Thota to perform the water-cutting ceremony (Diya Kapeema) at dawn on Saturday, following traditional ritual practices.
-
-After the ceremony, the Day Perahera paraded the streets of Kandy and in the afternoon, concluded its sacred journey for this year.
-
-...
-
-[Data](articles/5f6ddc6a.json)
 
 ---

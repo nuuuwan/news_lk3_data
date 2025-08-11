@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 15:35:27**
+As of **2025-08-11 15:49:37**
 
 ## Newspaper Stats
 
-*Scraped **69,863** Articles*
+*Scraped **69,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,732
-adaderanalk | 8,687
+adaderanalk | 8,690
 tamilmirrorlk | 10,230
-virakesarilk | 11,643
-adaderanasinhalalk | 12,042
+virakesarilk | 11,645
+adaderanasinhalalk | 12,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,863 articles have been extended.
+61,973 (88.7%) of 69,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம் : வடகிழக்கில் இராணுவ பிரசன்னத்தை குறைக்க வேண்டும். - மனோ
+
+*2025-08-11 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222313) · `ta`
+
+ஐந்து தமிழ் இளைஞர்கள், 8 ஆம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர். பின்னர் அவர்கள் அந்த முகாமில் இருந்து தப்பி சென்றதாக கூறப்படுகிறது. தப்பிச் சென்றவர்களில் ஒருவரான, கபில்ராஜ், 9 ஆம் திகதி  முல்லை முத்தையன் கட்டு குளத்தில் சடலமாக மீட்க பட்டுள்ளார். தப்பிச் சென்ற ஏனைய நால்வர், தம்மை இராணுவத்தினர் கடுமையாக தாக்கி சித்திரவதை செய்ததாக குற்றம் சாட்டியுள்ளனர். ஆகவே என்ன நடந்தது என்பதை ஊகிப்பது கடினமானது அல்ல.
+
+இந்த சம்பவத்தை அடிப்படையாக கொண்டு இலங்கை தமிழரசு கட்சி, “நீதியான விசாரணை”, “ வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம் என தெரிவித்து அறிக்யையொன்றை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் மேலும் குறிப்பிட்டுள்ளதாவது,
+
+...
+
+[Data](articles/12181ce8.json)
+
+---
+
+### ජාත්‍යන්තර අලි ඇතුන්ගේ දිනය හෙට
+
+*2025-08-11 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213256) · `si`
+
+ලොව පුරා අලිඇතුන් සංරක්ෂණය හා ආරක්ෂාව වෙනුවෙන් ප්‍රකාශයට පත්කළ 'ජාත්‍යන්තර අලිඇතුන්ගේ දිනය' හෙටට (අගෝස්තු 12) යෙදී තිබේ.
+
+අප්‍රිකානු සහ ආසියානු වනඅලි සහ හීලෑ අලිඇතුන් රැකබලා ගැනීම, අලි ඇතුන් දඩයම් කිරීම, විකිණීම, අලි වාසස්ථාන ආරක්ෂා කිරීම සහ ගෘහාශ්‍රිත අලිඇතුන්ට නිදහසේ ජීවත්වීමට අවශ්‍ය කටයුතු සඳසා අරමුණ කරගනිමින් 2012 වසරේ දී මෙම දිනය ප්‍රකාශයට පත්කරනු ලැබීය.
+
+එතැන් සිට මේ දක්වා වූ කාලය තුළ ලොව රටවල් 100කට අධික සංඛ්‍යාවක් මෙම දිනය පිළිගෙන සැමරීම කරනු ලබයි.
+
+සොබාදහම සංරක්‍ෂණය සඳහා වූ ජාත්‍යන්තර සංගමයට අනුව (IUCN) අද වනවිට අප්‍රිකානු අලි 'අවදානමට ලක්විය හැකි' ලෙසත් ආසියානු අලි 'වඳවීමේ තර්ජනයට ලක්ව ඇති' ලෙසත් රතු ලැයිස්තුවේ ලැයිස්තුගත කර ඇත.
+
+වර්තමානය වනවිට අප්‍රිකානු අලිඇතුන් ලක්ෂ 4ක් පමණද, ආසියානු අලිඇතුන් 50,000කට ආසන්න සංඛ්‍යාවක්ද සිටින බවටද ඇස්තමේන්තු කර තිබේ.
+
+◼️
+
+[Data](articles/5b5e56dc.json)
+
+---
 
 ### முத்தையன்கட்டு இளைஞன் மரணம்:  ஜனாதிபதிக்கு சுமந்திரன் அவசர கடிதம்
 
@@ -118,11 +152,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### South Korea military shrinks by 20% due to low birthrate
+
+*2025-08-11 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111352/south-korea-military-shrinks-by-20-due-to-low-birthrate) · `en`
+
+South Korea’s military has shrunk to about 450,000 people - a decline of 20% over the last six years, according to a defence ministry report released by a ruling party lawmaker on Sunday.
+
+Authorities say the main reason behind the decline is the country’s dismal birth rate, which at 0.75 babies per woman is the world’s lowest.
+
+South Korea retains compulsory military service mainly because the country is still technically at war with its nuclear-armed neighbour North Korea.
+
+A study published by South Korean researchers in July had suggested that the country would need at least 500,000 soldiers to defend against an attack from the North, which is believed to have 1.3 million active-duty members.
+
+The difference in military sizes put South Korea in a “structurally difficult position to succeed in defence”, the study said.
+
+It also noted that South Korea needed “decisive action at the national level” to maintain at least 500,000 troops.
+
+...
+
+[Data](articles/235b53c6.json)
+
+---
+
 ### வெள்ளி ஹர்த்தாலை ஆதரிக்கும் மனோ
 
 *2025-08-11 14:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளி-ஹர்த்தாலை-ஆதரிக்கும்-மனோ/175-362696) · `ta`
 
-வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம்  என தெரிவித்துள்ள தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் ,ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும்ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும் என வலியுறுத்தியுள்ளார்.
+வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம்  என தெரிவித்துள்ள தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் ,ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும் ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும் என வலியுறுத்தியுள்ளார்.
 
 ஐந்து தமிழ் இளைஞர்கள், 8ம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர்.
 
@@ -155,6 +211,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/73d0ecbc.json)
+
+---
+
+### பெரும் விபத்து அபாயத்தில் மருதங்கேணி - புதுக்காடு பிரதான வீதி!
+
+*2025-08-11 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222308) · `ta`
+
+வடமராட்சி கிழக்கு மற்றும் பச்சிலைப்பள்ளி பகுதி மக்களின் பிரதான போக்குவரத்துப் பாதையான மருதங்கேணி - புதுக்காடு வீதி, சட்டவிரோத மண் அகழ்வு மற்றும் அதன் விளைவுகளால் பெரும் விபத்து அபாயத்தை எதிர்கொண்டுள்ளது.
+
+சட்டவிரோத மணல் கடத்தல் கும்பல் ஒன்று, வவுனியா மற்றும் யாழ்ப்பாணம் போன்ற பகுதிகளுக்கு மண்ணை விற்பனை செய்வதற்காக இந்த வீதியையே பிரதானமாகப் பயன்படுத்தி வருகிறது. கடந்த சில நாட்களாக வீதியோரம் அதிகளவில் குவிக்கப்பட்டிருந்த மணல், நேற்றைய தினம் பெய்த கனமழையின் போது மேலும் அதிகரித்துள்ளது.
+
+இதனைக் கண்ட பிரதேச மக்கள் உடனடியாக விசேட அதிரடிப்படையினருக்கு தகவல் அளித்துள்ளனர். பொலிஸார் மற்றும் விசேட அதிரடிப்படையினர் அப்பகுதியை முற்றுகையிட வருவதை அறிந்த மணல் மாஃபியாக்கள், தாம் ஏற்றிச் சென்ற அனுமதியற்ற மண்ணை வீதியோரங்களில் கொட்டிவிட்டுச் சென்றுள்ளனர்.
+
+...
+
+[Data](articles/41cdcfbf.json)
 
 ---
 
@@ -238,6 +310,22 @@ Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
 
 ---
 
+### Vietnamese national drowns in seas off Moragalla
+
+*2025-08-11 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111351/vietnamese-national-drowns-in-seas-off-moragalla) · `en`
+
+A foreign woman who went for a swim at the Moragalla beach in Aluthgama has drowned and died, police noted.
+
+It is reported that the Vietnamese national had been swimming with a group of others when she was caught in a current and dragged away.
+
+However, police stated that her body has now been recovered and brought ashore at the Bentota beach.
+
+◼️
+
+[Data](articles/5497f9ab.json)
+
+---
+
 ### ட்ரம்பின் வர்த்தக வரிகளுக்கு எதிரான இந்தியாவின் துணிச்சலை கேலி செய்வதா?
 
 *2025-08-11 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222307) · `ta`
@@ -295,6 +383,22 @@ Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
 ◼️
 
 [Data](articles/6f904f4b.json)
+
+---
+
+### Three injured after lorry crashes, catches fire on Southern Expressway
+
+*2025-08-11 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111350/three-injured-after-lorry-crashes-catches-fire-on-southern-expressway) · `en`
+
+A lorry traveling along the Southern Expressway from Kottawa has crashed into a safety barrier in Kurundugahahetekma and caught fire, police stated.
+
+Police stated that the lorry immediately caught fire following the accident.
+
+They have been admitted to the Elpitiya Base Hospital for treatment.
+
+◼️
+
+[Data](articles/8934e43d.json)
 
 ---
 
@@ -1693,111 +1797,5 @@ It is necessary, first, to recognise and appreciate the role played by action gr
 ...
 
 [Data](articles/8b317b0c.json)
-
----
-
-### ஈட்டி எறிதலில் தேசிய சாதனை படைத்த ருமேஷ் தரங்க உலக மெய்வல்லுநர் போட்டிக்கு நேரடித் தகுதி
-
-*2025-08-10 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222277) · `ta`
-
-இந்தியாவின் புபணேஸ்வர் சர்வதேச விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (10) நடைபெற்ற இந்திய பகிரங்க உலக மெய்வல்லுநர் வெண்கல முத்திரை சம்பியன்ஷிப் போட்டியில் ஆண்களுக்கான ஈட்டி எறிதலில் தேசிய சாதனை நிலைநாட்டிய ருமேஷ் தரங்க, உலக மெய்வல்லுநர் போட்டியில் பங்குபற்ற நேரடி தகுதிபெற்றார்.
-
-ஆண்களுக்கான ஈட்டி எறிதலில் 86.50 மீற்றர் தூரத்தைப் பதிவு செய்ததன் மூலம் புதிய தேசிய சாதனையை நிலைநாட்டினார்.
-
-இதன் மூலம் தியகமவில் கடந்த மார்ச் மாதம் நடைபெற்ற தேசிய தேர்வு போட்டியில் ஆண்களுக்கான ஈட்டி எறிதலில் சுமேத ரணசிங்க நிலைநாட்டிய 85.78 மீற்றர் என்ற சாதனை முறியடிக்கப்பட்டது.
-
-ஆண்களுக்கான 4 x 400 தொடர் ஓட்டப் போட்டியில் இலங்கை அணியினர் தங்கப் பதக்கத்தை சுவீகரித்தனர்.
-
-அப் போட்யை 3 நிமிடங்கள், 08.22 செக்கன்களில் இலங்கை அணியினர் நிறைவுசெய்து தங்கப் பதக்கத்தை சுவீகரித்தனர்.
-
-தங்கப் பதக்கம் வென்ற இலங்கையின் 4 x 400 மீற்றர் தொடர் அணியில் ஒமெல் டி சில்வா, சதேவ் ராஜகருண, இமேஷ் திஸ்மித்த, கல்ஹார இந்துப்ப சில்வா ஆகியோர் இடம்பெற்றனர்.
-
-◼️
-
-[Data](articles/1f0e384b.json)
-
----
-
-### செப்டெம்பர் 20-இல் புலமைப் பரிசில் பரீட்சை முடிவுகள்
-
-*2025-08-10 22:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-20-இல்-புலமைப்-பரிசில்-பரீட்சை-முடிவுகள்/175-362659) · `ta`
-
-இன்று நடைபெற்ற தரம் 5 புலமைப் பரிசில் பரீட்சை முடிவுகள் எதிர்வரும் செப்டெம்பர் 20ஆம் திகதிக்கு முன்னர் வெளியிடப்படுமென எதிர்பார்ப்பதாக பரீட்சைகள் திணைக்களத்தின் ஆணையாளர் நாயகம் ஏ.கே.எஸ் இந்திக குமாரி லியனகே தெரிவித்துள்ளார்.
-
-நாடாளவிய ரீதியில் 2,787 நிலையங்களில் இவ்வாண்டு பரீட்சை நடைபெற்றதாகவும், 307,951 பேர் பரீட்சைக்குத் தோற்றியதாக இந்திக குமாரி லியனகே ஊடகங்களிடம் கருத்துத் தெரிவிக்கும்போது மேலும் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/6a050638.json)
-
----
-
-### உயிர்த்த ஞாயிறு தாக்குதல்: அருண் ஜயசேகரவை தற்காலிகமாக பதவிநீக்க வேண்டும் – அஜித் பி. பெரேரா
-
-*2025-08-10 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222276) · `ta`
-
-பிரதி பாதுகாப்பு  அமைச்சர் அருண ஜயசேகரவை தற்காலிகமாகவாது பதவிநீக்கம் செய்து உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான  சுயாதீன விசாரணைக்கு இடமளித்து நீதியை நிலைநாட்ட வேண்டிய பொறுப்பு ஜனாதிபதி இருக்கிறது. அதனை மேற்கொள்ளும் என நாங்கள்  நம்புகிறோம்  என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் அஜித் பி பெரோ தெரிவித்தார்.
-
-ஐக்கிய மக்கள் சக்தி கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-உயிர்த்த ஞாயிறு தாக்குதலின் சூத்திரதாரியை கண்டுபிடித்து சட்டத்துக்கு முமன் நிறுத்துவதாகவும்  பாதிக்கப்பட்டவர்களுக்கு நீதியை  நிலைநாட்டுவதாகவும் தேர்தல் காலத்தில் தெரிவிக்கப்பட்ட வாக்குறுதியாகும். இதனை நாங்களும் தெரிவித்தோம்.  தற்போதுள்ள அரசாங்கமும் தெரிவித்திருந்தது. என்றாலும் மக்கள்  இந்த அரசாங்கத்தின் மீது  அதிக நம்பிக்கைவைத்து  ஆட்சியில் அமர்த்தினார்கள்.  அரசாங்கம் ஆட்சிக்கு  வந்து ஒருவருடம் நெருங்கும் நிலையில் இந்த தாக்குதல் தொடர்பான  பாரிய விடயங்கள் எதனையும் இதுவரை வெளிப்படுத்த முடியாமல் போயிருக்கிறது.
-
-...
-
-[Data](articles/f3be8201.json)
-
----
-
-### GMOA දීප ව්‍යාප්ත වර්ජනය අත්හිටුවයි
-
-*2025-08-10 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213241) · `si`
-
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය හෙට (11) සිට ක්‍රියාත්මක කිරීමට තිබූ දීප ව්‍යාප්ත වර්ජනයක අත්හිටුවා තිබේ.
-
-වෛද්‍යවරුන්ගේ ස්ථාන මාරුවීම් ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් මෙම වර්ජනය ක්‍රියාත්මක කිරීමට නියමිතව තිබූ අතර, සිය ඉල්ලීම්වලට හෙට පෙරවරු 8 ට පෙර විසඳුම් ලබා නොදෙන්නේ නම් මෙය ක්‍රියාත්මක කරන බව පවසා තිබුණි.
-
-ඒ අනුව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ විධායක සභාව, සෞඛ්‍ය අමාත්‍යවරයා සමග පැවති සාකච්ඡාවේදී ලැබුණු ධනාත්මක සහ සාධනීය ප්‍රතිචාර සලකාබලමින් මෙලෙස දීප ව්‍යාප්ත වැඩවර්ජනය අත්හිටුවා ඇත.
-
-◼️
-
-[Data](articles/d9424685.json)
-
----
-
-### Environment & How Its Issues Should Be Tackled Through Public Policy – Part II
-
-*2025-08-10 22:06:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/environment-how-its-issues-should-be-tackled-through-public-policy-part-ii/) · `en`
-
-In the previous part, we discussed how environment is used by everybody to dump the waste-matter that is essentially produced as a byproduct of all the economic activities, namely, production, distribution, and consumption. This waste-matter is an undesired product called ‘bads’ compared to the desired products called ‘goods’. In this sense, environment is the fifth factor of production because without environment, no economic activity could be undertaken. However, unlike other factors of production, environment is freely available for dumping since there is no one holding property rights over it and impose a price for its use.
-
-...
-
-[Data](articles/6f2d546c.json)
-
----
-
-### எஸ்எல்சி ரி20 லீக் கிரிக்கெட் மூன்றாவது போட்டியில் க்றேஸ் அணியை 5 விக்கெட்களால் க்றீன்ஸ் அணி வெற்றிகொண்டது
-
-*2025-08-10 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222275) · `ta`
-
-எஸ்எஸ்சி மைதானத்தில் ஞாயிற்றுக்கிழமை (10) நடைபெற்ற எஸ்எல்சி ரி20 லீக் (SLC T20 League) மூன்றாவது போட்டியில் டீம் க்றேஸ் அணியை எதிர்த்தாடிய டீம் க்றீன்ஸ் அணி மிக இலகுவாக 5 விக்கெட்களால் வெற்றியீட்டியது.
-
-ஏற்கனவே ப்ளூஸ் அணியை வெற்றிகொண்ட க்றீன்ஸ் அணிக்கு கிடைத்த இரண்டாவது வெற்றி இதுவாகும்.
-
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாடிய டீம் க்றேஸ் அணி 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 163  ஓட்டங்களைப்   பெற்றது.
-
-நிரோஷன் திக்வெல்ல 52 ஓட்டங்களையும் நுவனிது பெர்னாண்டோ 22 ஓட்டங்களையும் அதிகபட்சமாக பெற்றனர்.
-
-பந்துவீச்சில் கமிந்து மெண்டிஸ் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் நுவன் துஷார 42 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
-
-பதிலுக்கு துடுப்பெடுத்தாடிய டீம் க்றீன்ஸ் அணி 16.4 ஓவர்களில் 5 விக்கெட்களை இழந்து 165 ஓட்டங்களைப் பெற்று இலகுவாக வெற்றியீட்டியது.
-
-துடுப்பாட்டத்தில் காமில் மிஷார 52 ஓட்டங்களையும் பானுக்க ராஜபக்ச 38 ஓட்டங்களையும் சதீர சமரவிக்ரம 36 ஓட்டங்களையும் பெற்றனர்.
-
-நாளைய தினம் டீம் க்றீன்ஸ் அணியும் டீம் ப்ளூஸ் அணியும் ஒன்றையொன்று எதிர்த்தாடவுள்ளன.
-
-◼️
-
-[Data](articles/b19718d7.json)
 
 ---

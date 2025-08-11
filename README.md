@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 09:51:11**
+As of **2025-08-11 10:14:17**
 
 ## Newspaper Stats
 
-*Scraped **69,805** Articles*
+*Scraped **69,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,722
-adaderanalk | 8,680
+adaderanalk | 8,684
 tamilmirrorlk | 10,208
 virakesarilk | 11,638
-adaderanasinhalalk | 12,034
+adaderanasinhalalk | 12,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,805 articles have been extended.
+61,973 (88.8%) of 69,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### පාකින් ටිකට් කැඩූ ජාවාරමක් හසුවෙයි
+
+*2025-08-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213248) · `si`
+
+හබරාදූව, පීල්ලගොඩ වෙරළ උද්‍යානය නැරඹීමට පැමිණෙන දේශීය සංචාරකයින්ගේ රථවාහන ගාල් කිරීම සඳහා මුදල් අයකළ පුද්ගලයින් තිදෙනෙකු උණවටුන සංචාරක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+හබරාදූව ප්‍රාදේශීය සභාවේ නිලධාරීන් ලෙස පෙනී සිටිමින් සැකකරුවන් මෙලෙස වාහනවලින් මුදල් අයකර ඇති බව අනාවරණය වී ඇත.
+
+උණවටුන සංචාරක පොලීසියට ලද තොරතුරක් මත අදාළ වැටලීම සිදුකර මෙම අත්අඩංගුවට ගැනීම් සිදුකර තිබේ.
+
+එහිදී අනාවරණය වී ඇත්තේ බස්‍ රථයක් ගාල් කිරීම සදහා රුපියල් 1,500ක මුදලක් ද, කාර් වෑන් ඇතුළු අනෙකුත් රථවාහන ගාල් කිරීමට රුපියල් 1,000ක් ලෙස අයකර ඇති බවය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 34, 35 සහ 41 යන වයස්වල පසුවන්නන් බව සඳහන්.
+
+සැකකරුවන් හබරාදූව පොලීසිය වෙත භාර දී ඇති අතර, ඔවුන් අද (11) ගාල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a457300b.json)
+
+---
+
+### Doctors call off strike after talks with Health Minister
+
+*2025-08-11 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111346/doctors-call-off-strike-after-talks-with-health-minister) · `en`
+
+The Government Medical Officers’ Association (GMOA) has decided to call off their island-wide strike action which was slated to commence today (11).
+
+The GMOA had threatened to launch the trade union action from 8.00 a.m. this morning based on several demands including issues related to the implementation of doctors’ transfers.
+
+However, the GMOA’s Executive Committee has decided to temporarily suspend today’s trade union action following “positive outcomes” from the meeting with Health Minister Dr. Nalinda Jayatissa.
+
+The GMOA further said it will monitor developments and decide accordingly and advised RHOs (Registered House Officers) not to apply for the current post-intern vacancies as a trade union measure, because the “arbitrarily published” post-intern vacancy list is subjected  to be amended.
+
+◼️
+
+[Data](articles/289c2660.json)
+
+---
 
 ### A9 මාර්ගයේ මාරක රිය අනතුරක්
 
@@ -69,6 +109,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/313ee316.json)
+
+---
+
+### Three arrested for aiding Borella shooting that killed two
+
+*2025-08-11 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111345/three-arrested-for-aiding-borella-shooting-that-killed-two) · `en`
+
+Three suspects have been arrested for allegedly aiding and abetting the shooting incident at Sahaspura in Borella, which claimed the lives of two persons and left 3 others injured.
+
+The arrested suspects are residents of Borella and Dematagoda, aged 24, 25 and 40 years.
+
+This brings the total number of arrests made in connection with the incident to four.
+
+On Saturday (9), another suspect, a 23-year-old resident of Borella, was taken into custody by police also for aiding and abetting the crime.
+
+A total of five youths were injured and hospitalised following a shooting incident near the Sahaspura Sirisara Housing Complex in Borella on Thursday night (07).
+
+The shooting was carried out by two unidentified individuals who arrived on a motorcycle around 8:40 p.m. on Thursday, targeting a group of youths who were engaged in decoration activities at the sports ground in Sahaspura.
+
+...
+
+[Data](articles/6225755e.json)
 
 ---
 
@@ -126,6 +188,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### One killed, dozens injured, as 6.1 earthquake hits western Turkey
+
+*2025-08-11 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111344/one-killed-dozens-injured-as-61-earthquake-hits-western-turkey) · `en`
+
+A 6.1-magnitude quake struck Sindirgi in western Turkey on Sunday, the Turkish disaster management agency (AFAD) said, killing at least one person and injuring dozens more.
+
+The quake was felt across several cities in the west of the country, including Istanbul and the tourist hotspot of Izmir.
+
+“An 81-year-old person died soon after having been rescued from under the rubble,” Turkish Interior Minister Ali Yerlikaya told journalists at Sindirgi, the epicentre of the quake.
+
+Another 29 people had been injured, but not seriously, he added.
+
+The quake collapsed 16 buildings in Sindirgi and its surroundings, of which four were inhabited, including a three-storey building in the city centre, he said.
+
+Several people were pulled alive from the rubble of the three-storey building, where six people were living. The person who died had also been buried under the rubble there before being freed.
+
+...
+
+[Data](articles/9e3d84dc.json)
+
+---
+
 ### முத்துஐயன்கட்டுக் கொலை: சுமந்திரன் கண்டனம்
 
 *2025-08-11 06:49:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முத்துஐயன்கட்டுக்-கொலை-சுமந்திரன்-கண்டனம்/175-362663) · `ta`
@@ -141,6 +225,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/caa9116b.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2025-08-11 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111343/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of light showers will occur in the Western, North-western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts today.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m., it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6737ca11.json)
 
 ---
 
@@ -1617,77 +1717,5 @@ Reading Dr. Punsara Amarasinghe’s article Creeping Rise of Anti-Semitism is Da
 ◼️
 
 [Data](articles/2ab5b929.json)
-
----
-
-### பலஸ்தீனர்கள் பட்டினியால் கொல்லப்படும் நிலையில் 'இரு நாடுகள் தீர்வை'  புதுப்பிப்பதற்கான பிரான்ஸ் - ­சவூதியின் நடவடிக்கை
-
-*2025-08-10 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222241) · `ta`
-
-காஸாவில் பட்­டி­னியால் வாடும் பலஸ்­தீ­னர்கள் இனப்­ப­டு­கொலை செய்­யப்­ப­டு­வதை நிறுத்­து­வதும் யூத குடி­யேற்ற காடை­யர்கள் பலஸ்­தீ­னர்­களை பய­மு­றுத்­து­வ­தையும் மேற்குக் கரையில் உள்ள அவர்­களின் நிலங்­களை கைப்­பற்­று­வ­தையும் தடுக்க உட­னடி நட­வ­டிக்கை எடுப்­பதும் தான் அமெ­ரிக்­காவும் இஸ்­ரேலும் மேற்­கொள்ள வேண்­டிய இன்­றைய கால கட்­டத்தின் அவ­சரத் தேவை­யாகும். இரண்டாம் உலகப் போருக்குப் பின் பிரிட்டன், ஐரோப்பா மற்றும் அரபு சர்­வா­தி­கா­ரி­களின் ஆத­ர­வோடு மேற்­கொள்­ளப்­படும்  மிக   மோச­மான இனப்­ப­டு­கொலை இது­வாகும். இதில் சவூதி அரே­பியா, எகிப்து, ஜோர்டான், ஐக்­கிய அரபு எமிரேட்ஸ் மற்றும் பல அரபு சர்­வா­தி­கா­ரி­களின் ஆத­ரவும் அடங்கும்.
-
-◼️
-
-[Data](articles/ef6b619c.json)
-
----
-
-### එස්.අයි. වෙඩි තබාගෙන දිවි හානි කර ගනියි
-
-*2025-08-10 15:26:32* · [`adalk`](https://www.ada.lk/breaking_news/එස්-අයි--වෙඩි-තබාගෙන-දිවි-හානි-කර-ගනියි/11-417818) · `si`
-
-වීරගුල පොලිස්ථානය තුලදී උප පොලිස් පරීක්ෂකවරයෙකු වෙඩි තබා ගෙන ජීවිතක්ෂයට පත්ව ඇත. අද (10) පස්වරු  2 ට  පමණ පොලිස් පරිශ්‍රය තුලදී වෙඩි තබා ගැනීමෙන් ජීවිතක්ෂයට පත්ව ඇත්තේ 56 හැවිරිදි අයෙකු බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය  සදහන් කළේය. සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණ අරඹා ඇත.
-
-◼️
-
-[Data](articles/2d07fd33.json)
-
----
-
-### சுகாதாரத்துறை அபிவிருத்தி நிகழ்ச்சித்திட்டத்தில் பெருந்தோட்டம் குறித்த முக்கிய கவனம் அவசியம்
-
-*2025-08-10 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222238) · `ta`
-
-பெருந்தோட்ட மக்களின் சுகாதார, மருத்துவ நிலைமைகள் இன்னும் பூரண விருத்தி பெறாத நிலையே காணப்படுகின்றது. இங்குள்ள வைத்தியசாலைகள் பல்வேறு சிரமங்களுக்கு மத்தியில் இயங்கிவருகின்றன.  இத்தகைய போக்குகள் தொழிலாளர்களின் சுகாதார நிலைமைகளை கேள்விக்குறியாக்கியுள்ளன.
-
-◼️
-
-[Data](articles/370e2bf9.json)
-
----
-
-### Weeragula Police Sub Inspector dies shooting himself
-
-*2025-08-10 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111339/weeragula-police-sub-inspector-dies-shooting-himself) · `en`
-
-A Sub Inspector attached to the Weeragula Police Station has reportedly died after shooting himself with his service firearm, the Office of the Police Media Spokesman stated.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-- For emergencies, contact the National Mental Health Helpline: 1926
-
-◼️
-
-[Data](articles/04511799.json)
-
----
-
-### நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட சுற்றி வளைப்பில் 704 பேர் கைது
-
-*2025-08-10 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222242) · `ta`
-
-நாடளாவிய ரீதியில் சனிக்கிழமை (09) நடத்தப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது குற்றச் செயல்களில் ஈடுபட்டதாகவும், சட்டவிரோத மதுபானம் மற்றும் போதைப்பொருள் தொடர்பான குற்றங்கள் தொடர்பாகவும் சந்தேகத்தின் பேரில் மொத்தம் 704 பேர் கைது செய்யப்பட்டுள்ளனர்.
-
-இந்த நடவடிக்கையின் ஒரு பகுதியாக, 25,503 பேர் சோதனைக்கு உட்படுத்தப்பட்டதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-இந்த நடவடிக்கையின் போது குற்றச் செயல்களுடன் நேரடியாக தொடர்புடைய 29 நபர்களை அடையாளம் காணப்பட்டுள்ளதோடு, மேலும் 203 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மதுபோதையில் வாகனத்தை செல்லுத்திய 100 பேர் கைது செய்யப்பட்டனர். மேலும் பொறுப்பற்ற சாரதிகள் 17 பேரும், பல்வேறு போக்குவரத்து விதி முறைகளை மீறிய 3,369 பேரும் அடையாளம் காணப்பட்டுள்ளனர்.
-
-பொலிஸாரின் கூற்றுப்படி, சிறிய, நடுத்தர மற்றும் பெரிய அளவிலான போதைப்பொருள் கடத்தல்காரர்கள், குற்றச் செயல்களில் ஈடுபடும் நபர்கள் மற்றும் சட்டவிரோத துப்பாக்கிகளை வைத்திருப்பவர்களைக் கைது செய்ய நாடு முழுவதும் நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
-
-◼️
-
-[Data](articles/97a34090.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 17:06:29**
+As of **2025-08-11 17:18:12**
 
 ## Newspaper Stats
 
-*Scraped **69,880** Articles*
+*Scraped **69,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,735
-adaderanalk | 8,690
+adaderanalk | 8,694
 tamilmirrorlk | 10,233
-virakesarilk | 11,645
+virakesarilk | 11,647
 adaderanasinhalalk | 12,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,880 articles have been extended.
+61,973 (88.7%) of 69,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,62 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### சிறுவர்களிடையே எலிக்காய்ச்சல் பரவல் அதிகரிப்பு - விசேட வைத்திய நிபுணர்
+
+*2025-08-11 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222323) · `ta`
+
+சிறுவர்களிடையே ஆபத்தான எலிக்காய்ச்சல் நோய் (லெப்டோஸ்பிரோசிஸ்) பரவல் தற்போது அதிகரித்து வருவதாக கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+கொழும்பில் இன்று திங்கட்கிழமை (11) நடைபெற்ற ஊடக சந்திப்பின் போது அவர் இதனை தெரிவித்துள்ளார்.
+
+எலிக்காய்ச்சல் நோய் என்பது  பெரும்பாலும் மாசுபட்ட மற்றும் சேற்று நீரை வெளிப்படுத்துவதன் மூலம் ஏற்படும் பற்றீரியா தொற்று ஆகும்.
+
+பாடசாலை விடுமுறை நாட்களில் இந்த நோய் அதிகரித்து வருகிறது. சிறுவர்கள் பெரும்பாலும் நெல் வயல்கள் அல்லது திறந்தவெளிகளுக்கு காற்றாடியை பறக்க விடுவது போன்ற செயல்பாடுகளால் நிகழ்கின்றன.  இது நோய்கள் அதிகரிப்பதற்கு முக்கிய காரணியாகும்.
+
+காய்ச்சல் சுமார் ஐந்து முதல் ஆறு நாட்கள் வரை நீடித்தால், அது எலிக்காய்ச்சலின் அறிகுறியாக இருக்கலாம்.
+
+கண்கள் சிவத்தல் அல்லது மஞ்சள் நிறமாக மாறுதல், வயிற்று வலி மற்றும் அடர் மஞ்சள் சிறுநீர் ஆகியவை ஏனைய அறிகுறிகளாகும்.
+
+உலகளவில் எலி காய்ச்சல் தொற்றுகள் காணப்பட்டாலும், வெப்பமண்டலப் பகுதிகளில் இது மிகவும் பொதுவான ஒன்றாக காணப்படுகிறது.
+
+...
+
+[Data](articles/e6f625f3.json)
+
+---
+
+### President discuss pre-budget proposals for 2026 with officials
+
+*2025-08-11 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111357/president-discuss-pre-budget-proposals-for-2026-with-officials-) · `en`
+
+President Anura Kumara Dissanayake has chaired a meeting this morning (11) at the Presidential Secretariat to review projects implemented under the 2025 budget allocations for the Ministry of Agriculture, Livestock, Land and Irrigation, and to discuss pre-budget proposals for 2026.
+
+President Dissanayake held separate discussions with officials on agriculture, livestock, land and irrigation, issuing directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system, the President’s Media Division said in a statement.
+
+...
+
+[Data](articles/e5aaed40.json)
+
+---
+
+### ITAK calls for ‘hartal’ in North and East on Friday
+
+*2025-08-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111356/itak-calls-for-hartal-in-north-and-east-on-friday) · `en`
+
+A ‘hartal’ will be observed on Friday (15), in the North and East to protest against the alleged “brutality of the military”, according to the Ilankai Tamil Arasu Kachchi (ITAK).
+
+The ‘hartal’ has been called over the recent death of a 32-year-old man and the alleged brutality of the military in the North and East.
+
+In a letter addressed to President Anura Kumara Dissanayake, the Secretary of the Ilankai Tamil Arasu Kachchi, former Member of Parliament MA Sumanthiran has also called for urgent and impartial investigation into the death of a 32-year-old man, whose body was found in the Muthuiyankaddu Tank on Saturday.
+
+The ITAK Secretary also called for the removal of what it terms the “excessive presence of the military” in the North and East, in the letter addressed to the President.
+
+◼️
+
+[Data](articles/c3a9a1ca.json)
+
+---
+
 ### පුද්ගලයෙකු කපාකොටා ඝාතනය කෙරේ
 
 *2025-08-11 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213259) · `si`
@@ -86,6 +142,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம் : வடகிழக்கில் இராணுவ பிரசன்னத்தை குறைக்க வேண்டும் - மனோ கணேசன்
+
+*2025-08-11 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222313) · `ta`
+
+“நீதியான விசாரணை”, “வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை (15) நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம் என தெரிவித்து அறிக்கையொன்றை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
+
+ஐந்து தமிழ் இளைஞர்கள், 8 ஆம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர். பின்னர் அவர்கள் அந்த முகாமில் இருந்து தப்பி சென்றதாக கூறப்படுகிறது. தப்பிச் சென்றவர்களில் ஒருவரான, கபில்ராஜ், 9 ஆம் திகதி  முல்லை முத்தையன் கட்டு குளத்தில் சடலமாக மீட்கபட்டுள்ளார். தப்பிச் சென்ற ஏனைய நால்வர், தம்மை இராணுவத்தினர் கடுமையாக தாக்கி சித்திரவதை செய்ததாக குற்றம் சாட்டியுள்ளனர். ஆகவே என்ன நடந்தது என்பதை ஊகிப்பது கடினமானது அல்ல.
+
+இந்த சம்பவத்தை அடிப்படையாக கொண்டு இலங்கை தமிழரசு கட்சி, “நீதியான விசாரணை”, “ வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம்.
+
+...
+
+[Data](articles/12181ce8.json)
+
+---
+
 ### සෞඛ්‍ය ඇමති සමග එළැඹි එකඟතා ක්‍රියාත්මක කිරීම ප්‍රමාද කර ඇතැයි GMOA වෙතින් චෝදනා
 
 *2025-08-11 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213258) · `si`
@@ -99,6 +171,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6b758761.json)
+
+---
+
+### மன்னார் காற்றாலை, கனிய மணல் அகழ்வுக்கு எதிராக 9ஆம் நாளாகத் தொடர் போராட்டம்: பல்வேறு கிராம மக்கள் ஆதரவு
+
+*2025-08-11 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222318) · `ta`
+
+மன்னாரில் மக்களின் எதிர்ப்பையும் மீறி முன்னெடுக்கப்பட்டு வரும் 2வது கட்ட காற்றாலை மின் கோபுரங்கள் அமைத்தல் மற்றும் கனிய மணல் அகழ்வு ஆகிய திட்டங்களுக்கு எதிராக, மன்னார் பஜார் பகுதியில் கடந்த ஒன்பது நாட்களாக தொடர் போராட்டம் நடைபெற்று வருகிறது. இன்று திங்கட்கிழமை, இந்தப் போராட்டத்திற்கு ஆதரவு தெரிவித்து பல்வேறு கிராம மக்களும் கலந்துகொண்டனர்.
+
+ஞாயிற்றுக்கிழமை (11) மன்னார் தீவுப் பகுதியில் 2வது கட்ட காற்றாலை மின் கோபுரங்கள் அமைப்பதற்கான பாகங்கள் கனரக வாகனங்களில் கொண்டு வரப்பட்டபோது, தள்ளாடி சந்தியில் மக்கள் ஒன்றுதிரண்டு எதிர்ப்பைத் தெரிவித்தனர். அதிலிருந்து, தள்ளாடி மற்றும் மன்னார் சுற்றுவட்டப் பகுதிகளில் பொது அமைப்புகள் மற்றும் மக்கள் சுழற்சி முறையில் இந்தப் போராட்டத்தை நடத்தி வருகின்றனர்.
+
+மக்களின் கடும் எதிர்ப்பையும் மீறி, காற்றாலை கோபுரங்களுக்கான பாகங்கள் பலத்த பொலிஸ் பாதுகாப்புடன் மன்னார் நகரத்திற்குள் கொண்டு வரப்பட்டபோதும், மக்களின் போராட்டம் வலுவடைந்துள்ளது.
+
+...
+
+[Data](articles/acec85d2.json)
 
 ---
 
@@ -158,6 +246,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Three including woman arrested with narcotics worth Rs. 2 million
+
+*2025-08-11 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111355/three-including-woman-arrested-with-narcotics-worth-rs-2-million) · `en`
+
+Three individuals, including a woman have been arrested in Karuvappankerny, Batticaloa with a stock of narcotics valued at around Rs. 2 million, police stated.
+
+Police have seized 1 kilogram of Kerala cannabis, 50 grams of crystal methamphetamine (“ice”), and 25 grams of heroin found in their possession.
+
+The arrested woman is 35 years old, while the two men are aged 24 and 34, according to police.
+
+Preliminary investigations have revealed that the suspects have been involved in drug trafficking for a period of time. It has also been uncovered that the husband of the arrested woman is currently in prison on similar drug-related charges.
+
+The suspects are scheduled to be presented before court, while further investigations are being conducted by the Batticaloa Police.
+
+◼️
+
+[Data](articles/5e5b8b71.json)
+
+---
+
 ### 2026 වසරට අදාළ පූර්ව අයවැය යෝජනා පිළිබඳ සාකච්ඡාවක්
 
 *2025-08-11 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213257) · `si`
@@ -174,17 +282,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம் : வடகிழக்கில் இராணுவ பிரசன்னத்தை குறைக்க வேண்டும். - மனோ
+### Fatal ‘rat fever’ cases among children on the rise: Experts
 
-*2025-08-11 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222313) · `ta`
+*2025-08-11 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111354/fatal-rat-fever-cases-among-children-on-the-rise-experts) · `en`
 
-ஐந்து தமிழ் இளைஞர்கள், 8 ஆம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர். பின்னர் அவர்கள் அந்த முகாமில் இருந்து தப்பி சென்றதாக கூறப்படுகிறது. தப்பிச் சென்றவர்களில் ஒருவரான, கபில்ராஜ், 9 ஆம் திகதி  முல்லை முத்தையன் கட்டு குளத்தில் சடலமாக மீட்க பட்டுள்ளார். தப்பிச் சென்ற ஏனைய நால்வர், தம்மை இராணுவத்தினர் கடுமையாக தாக்கி சித்திரவதை செய்ததாக குற்றம் சாட்டியுள்ளனர். ஆகவே என்ன நடந்தது என்பதை ஊகிப்பது கடினமானது அல்ல.
+The potentially fatal leptospirosis (rat fever) disease is currently on the rise, according to Dr. Deepal Perera, a pediatric specialist at the Lady Ridgeway Children’s Hospital in Colombo.
 
-இந்த சம்பவத்தை அடிப்படையாக கொண்டு இலங்கை தமிழரசு கட்சி, “நீதியான விசாரணை”, “ வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம் என தெரிவித்து அறிக்யையொன்றை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் மேலும் குறிப்பிட்டுள்ளதாவது,
+Dr. Perera noted that leptospirosis is most often contracted through exposure to contaminated and muddy water.
+
+He revealed this during a media briefing held in Colombo today (11).
+
+Dr. Deepal Perera stated that this period coincides with school holidays, during which children often visit paddy fields or open areas to fly kites among other activities— a major contributing factor to the increase in cases.
+
+He added that if a fever lasts for about five to six days, it could be a symptom of leptospirosis.
+
+Other symptoms include redness or yellowing of eyes, abdominal pain, and dark yellow urine, Dr. Deepal Perera stated.
+
+Although there is treatment available for leptospirosis, Dr. Deepal Perera emphasized the need to be cautious.
 
 ...
 
-[Data](articles/12181ce8.json)
+[Data](articles/bc84b0bd.json)
 
 ---
 
@@ -1715,93 +1833,5 @@ After several challenging years marked by inflation, supply chain disruptions, a
 ...
 
 [Data](articles/c7cc2082.json)
-
----
-
-### Haier by Abans welcomes Tillakaratne Dilshan as Brand Ambassador
-
-*2025-08-11 05:14:34* · [`dailyftlk`](https://www.ft.lk/business/Haier-by-Abans-welcomes-Tillakaratne-Dilshan-as-Brand-Ambassador/34-780099) · `en`
-
-Sri Lankan cricket legend and former Test Captain Tillakaratne Dilshan was appointed as the official brand ambassador of Haier Sri Lanka, brought by Abans PLC.
-
-Founded in 1984, Haier is a leading global provider of better life and digital transformation solutions. Based on the purpose of “More Creation, More Possibilities”, the brand is committed to co-create infinite possibilities for a better life with global users, and to co-create infinite possibilities for industrial development with ecological partners. Recognised for its cutting-edge technology and sustainable practices, Haier has consistently topped global rankings, including being named the No.1 Global Major Appliances Brand for 14 consecutive years by Euromonitor International.
-
-This appointment of a national icon like Dilshan further emphasises Haier’s commitment to integrating with the lifestyles and aspirations of Sri Lankan consumers, becoming the all-around partner for life.
-
-...
-
-[Data](articles/9f852da5.json)
-
----
-
-### Is increase in tobacco tax incidence practical policy option in Sri Lanka?
-
-*2025-08-11 03:44:28* · [`dailyftlk`](https://www.ft.lk/opinion/Is-increase-in-tobacco-tax-incidence-practical-policy-option-in-Sri-Lanka/14-780084) · `en`
-
-The recent COPF discussions sparked debate on a push to raise Sri Lanka’s tax on cigarettes to be 75% of the price of the cigarette. This has resurfaced policy discussions, echoing a longstanding recommendation from the World Health Organization (WHO). Their aim is clear: discourage smoking, improve public health, and boost government revenue. But is this a practical target – especially in Sri Lanka’s current economic and enforcement landscape?
-
-At 67%, Sri Lanka already ranks among the highest in Asia in terms of tobacco tax incidence. Moving to 75% would make it a regional outlier – surpassed only by Thailand. But as experiences across the region (and even globally) show, this metric alone doesn’t guarantee success. The practicality of such a move—especially within the region’s economic, social, and enforcement context—warrants a closer look.
-
-...
-
-[Data](articles/4cbd5b7d.json)
-
----
-
-### Is increase in tobacco tax incidence practical policy option in Sri Lanka?
-
-*2025-08-11 03:44:28* · [`dailyftlk`](https://www.ft.lk/columns/Is-increase-in-tobacco-tax-incidence-practical-policy-option-in-Sri-Lanka/4-780084) · `en`
-
-The recent COPF discussions sparked debate on a push to raise Sri Lanka’s tax on cigarettes to be 75% of the price of the cigarette. This has resurfaced policy discussions, echoing a longstanding recommendation from the World Health Organization (WHO). Their aim is clear: discourage smoking, improve public health, and boost government revenue. But is this a practical target – especially in Sri Lanka’s current economic and enforcement landscape?
-
-At 67%, Sri Lanka already ranks among the highest in Asia in terms of tobacco tax incidence. Moving to 75% would make it a regional outlier – surpassed only by Thailand. But as experiences across the region (and even globally) show, this metric alone doesn’t guarantee success. The practicality of such a move—especially within the region’s economic, social, and enforcement context—warrants a closer look.
-
-...
-
-[Data](articles/58e72024.json)
-
----
-
-### Are residential apartments the best asset class in town? Probably
-
-*2025-08-11 03:37:56* · [`dailyftlk`](https://www.ft.lk/opinion/Are-residential-apartments-the-best-asset-class-in-town-Probably/14-780083) · `en`
-
-It was said many years ago that Sri Lankans would never take to apartments because indigenous values demanded dwellings to have gardens, be accommodating to continuous refurbishments and for properties to be transferable from one generation to the next. Over the past two decades, we have witnessed the complete debunking of the myth with the volume of high-end apartments growing exponentially, corelating positively with high growth in GDP, improvements in living standards and a conducive external environment.
-
-...
-
-[Data](articles/0ce2e033.json)
-
----
-
-### Arugam Bay: Gentle warning, Mr. President
-
-*2025-08-11 03:30:28* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-Gentle-warning-Mr-President/4-780082) · `en`
-
-Will Arugam Bay eventually develop into a hotspot for the US-India-Israel trio to create trouble for Sri Lanka-China relations?
-
-“There is a British proverb about the camel and the tent. At first the camel sticks one leg in the tent, and eventually it slips into it. This must be our policy” – Chaim Weizmann the Russian born British Zionist leader when replying to criticisms against the 1917 Balfour Declaration
-
-“I thought I was in Arugam Bay in Sri Lanka, but it looks like Tel Aviv. Was Arugam Bay promised to them 50,000 years ago?” – Tom Monagle, International DJ tourist
-
-“The government hasn’t looked at any country from a different angle. The basis for selecting these countries was the dollar income we receive and the number of tourists arriving”
-
-...
-
-[Data](articles/ff016227.json)
-
----
-
-### Environment and how its issues should be tackled through public policy
-
-*2025-08-11 03:11:57* · [`dailyftlk`](https://www.ft.lk/columns/Environment-and-how-its-issues-should-be-tackled-through-public-policy/4-780080) · `en`
-
-A fruitful and conducive dialogue with a view to creating proper awareness of the use of environment must be followed on between the action groups and the environmental authorities
-
-It is necessary, first, to recognise and appreciate the role played by action groups, however much such actions represent illogically driven extremist biases, and then move for capacity building in these groups, so that their intervention would be a responsible and informed intervention for the common good of the society. The new challenge faced by public policy authorities on the protection and the development of environment is, thus, the most difficult and complex phase of the evolution of the environmental policy action by them
-
-...
-
-[Data](articles/86a5abb0.json)
 
 ---

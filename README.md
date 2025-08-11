@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 14:08:19**
+As of **2025-08-11 14:26:19**
 
 ## Newspaper Stats
 
-*Scraped **69,841** Articles*
+*Scraped **69,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,728
+adalk | 6,729
 adaderanalk | 8,687
-tamilmirrorlk | 10,221
-virakesarilk | 11,642
+tamilmirrorlk | 10,223
+virakesarilk | 11,643
 adaderanasinhalalk | 12,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,841 articles have been extended.
+61,973 (88.7%) of 69,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### ட்ரம்பின் வர்த்தக வரிகளுக்கு எதிரான இந்தியாவின் துணிச்சலை கேலி செய்வதா?
+
+*2025-08-11 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222307) · `ta`
+
+"பாராளுமன்ற உறுப்பினர்  ஹர்ஷ டி சில்வா சுட்டிக்காட்டியது போல், இலங்கை, அமெரிக்காவின் நிபந்தனைகளை நிறைவேற்றும் போது, நெருக்கடியான காலங்களில் உதவிய இந்தியாவின் உணர்வுகளையும் கருத்தில் கொள்ள வேண்டும். அமெரிக்கா, இந்தியா, சீனா போன்ற பெரிய சக்திகளுக்கு இடையே இலங்கை சிக்கியுள்ளது. இந்த நெருக்கடிகளைச் சமாளிக்க இலங்கை ஒரு தெளிவான மற்றும் உறுதியான வெளியுறவுக் கொள்கையை கொண்டிருக்க வேண்டும் "
+
+◼️
+
+[Data](articles/081c5f6b.json)
+
+---
+
+### நாட்டில் “குற்ற அலை” இல்லை.
+
+*2025-08-11 13:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-குற்ற-அலை-இல்லை/175-362692) · `ta`
+
+சிலர் சித்தரிக்க முயற்சிப்பது போல நாட்டில் “குற்ற அலை” இல்லை என்று பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, நேற்று (11) தெரிவித்தார்.
+
+கடந்த காலங்களில் இடம்பெற்ற குற்றவியல் கும்பல்களுக்கு சில அரசியல்வாதிகளின் ஆதரவு இருந்ததாக அவர் கூறினார்.
+
+ஊவா மாகாண குற்றவிசாரணை பிரிவைத் திறந்து வைக்கும் நிகழ்வில் பங்கேற்ற போது,  பதில் பொலிஸ் மா அதிபர்  இதனைக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b4b535d3.json)
+
+---
+
+### காசா- இஸ்ரேல் தாக்குதலில் 05 ஊடகவியலாளர்கள் கொல்லப்பட்டனர்
+
+*2025-08-11 13:50:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-இஸ்ரேல்-தாக்குதலில்-05-ஊடகவியலாளர்கள்-கொல்லப்பட்டனர்/50-362691) · `ta`
+
+காசா நகரின் அல்-ஷிஃபா மருத்துவமனைக்கு அருகே இஸ்ரேல் நடத்திய தாக்குதலில் பிரபல நிருபர் அனஸ்அல்-ஷெரீப் உட்பட 05 அல் ஜசீரா ஊடகவியலாளர்கள் கொல்லப்பட்டதாக BBC தகவல் தெரிவித்துள்ளது.
+
+அல்-ஷெரிப் மற்றும் மற்றொரு நிருபர் முகமது கிரீக், கேமராமேன்இப்ராஹிம் ஜாஹர், முகமது நௌபால் மற்றும் மோமென் அலிவா ஆகியோருடன் மருத்துவமனையில் பிரதான வாயிலில் ஊடகவியலாளர்களுக்கான கூடாரத்தில் அது தாக்கப்பட்டபோது இருந்ததாக அல் ஜசீரா செய்தி வெளியிட்டுள்ளது.
+
+ஞாயிற்றுக்கிழமை (10) அன்று நடந்த "இலக்கு வைக்கப்பட்ட படுகொலை"பத்திரிகை சுதந்திரத்தின் மீதான மற்றொரு அப்பட்டமான மற்றும் திட்டமிடப்பட்ட தாக்குதல்" என்று அது ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+
+இஸ்ரேல் பாதுகாப்புப் படைகள் (IDF), அனஸ் அல்-ஷெரிப்பை குறி வைத்ததை உறுதிப்படுத்தியது, அவர் "ஹமாஸில் ஒரு பயங்கரவாதப்பிரிவின் தலைவராக பணியாற்றினார்" என்று குற்றம் சாட்டியது.
+
+...
+
+[Data](articles/0586e38f.json)
+
+---
 
 ### දක්ෂිණ අධිවේගී මාර්ගයේ ලොරියක් ආරක්ෂිත වැටක ගැටී ගිනි ගනියි
 
@@ -43,6 +89,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6f904f4b.json)
+
+---
+
+### සරුංගල් යැවීමේදී මේ ගැනත් සැලකිිලිමත් වෙන්න
+
+*2025-08-11 13:30:51* · [`adalk`](https://www.ada.lk/breaking_news/සරුංගල්-යැවීමේදී-මේ-ගැනත්-සැලකිිලිමත්-වෙන්න/11-417842) · `si`
+
+මේ දින වල මී උණ රෝගය පැතිර යන බැවින් ළමුන් කුඹුරු ආශ්‍රිතව සරුංගල් යැවීමේදී සැලකිලිමත් විය යුතු බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පැවසීය.
+
+සරුංගල් යවන කාලයට දකින ලෙඩක් තමයි මී උණ. සාමාන්‍යයෙන් ගමේ දරුවෝ සරුංගල් යවන්නේ කුඹුරු වලනේ. වෙල් යායවල් වලනේ. මඩ  පෑගෙනවා. ඒ සමගම උණ දවස් 4-5ක් තිබුණොත් මේක මී උණ වෙන්න පුළුවන්. ඒක ගැන කල්පනාකාරී වෙන්න. සරුංගලයක් යවද්දි පුළුවන් නම් සෙරප්පු දෙකක් දාගෙන , මඩේ බහින්නේ නැතිව කළොත් හොඳයි. රෝග ලක්ෂණ විදියට උණ දවස් 4-5ක් තියෙන්න පුළුවන්. ඇස් රතු හෝ කහ පාට වෙන්න පුළුවන්. ඒවගේ රෝග ලක්ෂණ එක්ක මේ දරුවෝ වාර්තා වුණොත් මේක මී උණ වෙන්න පුළුවන්.
+
+◼️
+
+[Data](articles/e59e8467.json)
 
 ---
 
@@ -1701,63 +1761,5 @@ The launch of this timely and scholarly work comes at a critical juncture in reg
 ◼️
 
 [Data](articles/ba1ac0cc.json)
-
----
-
-### Peugeot 2025 range hits Sri Lankan roads with Carmart’s exclusive handover event
-
-*2025-08-10 18:31:00* · [`islandlk`](http://island.lk/peugeot-2025-range-hits-sri-lankan-roads-with-carmarts-exclusive-handover-event/) · `en`
-
-In a momentous celebration of French automotive excellence, Carmart (Pvt) Ltd, the sole authorized importer, distributor & repairer for Peugeot in Sri Lanka, proudly handed over the first batch of brand-new Peugeot 2025 models to a select group of discerning customers at a private event held this week. The occasion marked the official arrival of the highly anticipated Peugeot 2008, 3008, and 5008 SUVs, each embodying the brand’s latest design evolution, advanced safety innovations and refined driving dynamics. With bold new styling and cutting-edge features and technology, the 2025 range reaffirms Peugeot’s commitment to premium mobility with an emphasis on enjoyment.
-
-...
-
-[Data](articles/06d3e846.json)
-
----
-
-### DBL Night 2024 recognizes excellence in sales across Sri Lanka
-
-*2025-08-10 18:31:00* · [`islandlk`](http://island.lk/dbl-night-2024-recognizes-excellence-in-sales-across-sri-lanka/) · `en`
-
-Deen Brothers Imports (DBL) successfully hosted DBL Night 2024 at the prestigious Cinnamon Life Hotel, Colombo. The event celebrated and recognized the dedication and outstanding performance of DBL’s sales agents from across the island. The night brought together over 500 sales agents.
-
-The ceremony was graced by prominent guests including Sri Lanka National Cricket Team Head Coach Sanath Jayasuriya and Dongcheng Senior Sales Manager Joe Chen. Top-performing sales agents across several categories including DBL machinery, Dongcheng power tools, spare parts, and accessories were honored with exclusive gifts and vouchers. The highlight of the evening was the awarding of an all-expenses-paid five-day trip to Shanghai, China, for 30 outstanding agents in the Dongcheng category. This exclusive trip includes a visit to Dongcheng’s state-of-the-art manufacturing facility.
-
-...
-
-[Data](articles/48f3c0fa.json)
-
----
-
-### ComBank ranked country’s 2nd most valuable brand
-
-*2025-08-10 18:30:00* · [`islandlk`](http://island.lk/combank-ranked-countrys-2nd-most-valuable-brand/) · `en`
-
-The Commercial Bank of Ceylon has been ranked the second most valuable brand in Sri Lanka across all sectors and the most valuable private sector bank brand in the country for 2025 by Brand Finance, the world’s leading brand valuation consultancy.
-
-According to the 2025 edition of Brand Finance’s annual review of Sri Lanka’s 100 most valuable and strongest brands, Commercial Bank has been assigned a brand value of Rs. 46.6 billion – the highest in the private banking sector and the second highest among all brands in the country.
-
-In terms of brand strength, the Bank has also been ranked the third strongest brand in Sri Lanka, with a Brand Strength Index (BSI) score of 86.3 out of 100. Brand Finance has awarded Commercial Bank a prestigious AAA brand strength rating, reflecting the Bank’s robust brand equity and its future value-generating potential.
-
-...
-
-[Data](articles/b81b49b1.json)
-
----
-
-### American College of Higher Education celebrates Transfer and Graduation Ceremony 2025
-
-*2025-08-10 18:29:00* · [`islandlk`](http://island.lk/american-college-of-higher-education-celebrates-transfer-and-graduation-ceremony-2025/) · `en`
-
-Education (ACHE) proudly held its Transfer and Graduation Ceremony 2025 on July 29, 2025, at the Cinnamon Lakeside Hotel, Colombo, marking another milestone in its 30-year legacy of academic excellence.
-
-ACHE, a pioneering higher education institution in Sri Lanka, serves as an off-campus instructional site of Keiser University, Fort Lauderdale, Florida, USA, offering programs approved by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). Through its 2+2 University Transfer Program, ACHE enables students to complete the first two years of an American degree in Sri Lanka before transferring to over 4,000 universities in the U.S., Canada, and other countries.
-
-The ceremony’s Chief Guest, Professor Terrence Madhujith, Vice Chancellor of the University of Peradeniya, commended ACHE for its role in providing globally recognized education to Sri Lankan students.
-
-...
-
-[Data](articles/819ff6d9.json)
 
 ---

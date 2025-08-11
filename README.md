@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 00:27:16**
+As of **2025-08-12 00:40:15**
 
 ## Newspaper Stats
 
-*Scraped **69,950** Articles*
+*Scraped **69,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,20 +15,96 @@ colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,908
+dailyftlk | 4,912
 adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
-virakesarilk | 11,662
+virakesarilk | 11,663
 adaderanasinhalalk | 12,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,950 articles have been extended.
+61,973 (88.6%) of 69,955 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-12 (Tuesday)
+
+### Home Lands betters own record by achieving Rs. 8.8 b sales in July
+
+*2025-08-12 00:35:21* · [`dailyftlk`](https://www.ft.lk/business/Home-Lands-betters-own-record-by-achieving-Rs-8-8-b-sales-in-July/34-780129) · `en`
+
+Home Lands, said yesterday it has achieved an unprecedented Rs. 8.8 billion in sales in just one month in July 2025, topping the record it set just the previous month by recording Rs. 7.4 billion in sales in June 2025 that saw the highest ever sales figures done by any real estate developer in a month in Sri Lanka.
+
+With year-to-date sales turnover standing at an impressive Rs. 34 billion as of 31st July 2025, Home Lands has already surpassed its total annual sales of Rs. 31 billion in 2024, in just the first seven months of the current fiscal year.
+
+...
+
+[Data](articles/437f67e3.json)
+
+---
+
+### Elephant House Beverages, Reliance Consumer Products launch Campa Beverages in Sri Lanka
+
+*2025-08-12 00:33:54* · [`dailyftlk`](https://www.ft.lk/business/Elephant-House-Beverages-Reliance-Consumer-Products-launch-Campa-Beverages-in-Sri-Lanka/34-780128) · `en`
+
+Ceylon Cold Stores, in collaboration with Reliance Consumer Products Ltd., (RCPL), is introducing the Campa Beverages brand in Sri Lanka.
+
+The partnership marks a new phase in the relationship between the two organisations and builds on their previous collaboration, which successfully launched Elephant House Beverages into the Indian market through the Reliance Group in February last year. With the introduction of Campa, the partnership aims to offer greater choice and innovation to Sri Lankan consumers with high-quality, affordable beverages that cater to evolving tastes and expectations.
+
+...
+
+[Data](articles/ae7728a1.json)
+
+---
+
+### Don’t abandon our war heroes
+
+*2025-08-12 00:27:00* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-abandon-our-war-heroes/4-780127) · `en`
+
+The arrest and pre-trial detention of Admiral (Retired) D.N.S. Ulugetenne, former Commander of the Sri Lanka Navy, marks a troubling chapter in Sri Lanka’s post-war political landscape. The decorated naval chief, who served at the peak of the country’s internal conflict, has been remanded without a conviction, without compelling evidence of absconding, and without clear legal justification, sparking renewed debate over how post-conflict societies should treat their military personnel.
+
+The move has not only raised constitutional and procedural concerns domestically but also casts a harsh spotlight on the global inconsistencies in how nations address allegations of wartime conduct.
+
+...
+
+[Data](articles/69c96d16.json)
+
+---
+
+### முன்னாள் முதலமைச்சர்கள் மூவருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு விசாரணை
+
+*2025-08-12 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/222357) · `ta`
+
+முன்னாள் முதலமைச்சர்கள் மூவருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதற்கமைய சப்ரகமுவ மாகாண முன்னாள் முதலமைச்சர் மஹிபால ஹேரத், மத்திய மாகாண முன்னாள் முதலமைச்சர் சரத் ஏக்கநாயக்க மற்றும் வட மத்திய மாகாண முன்னாள் முதலமைச்சர் பேசல ஜெயரத்ன ஆகியோருக்கு எதிராக இந்த விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+குறித்த முன்னாள் முதலமைச்சர்கள்  சட்டவிரோதமாக  வருமானம் ஈட்டியதாக கூறப்படும் முறைப்பாடுகளைக் கருத்திற் கொண்டு இலஞ்ச ஊழல் ஆணைக்குழு இந்த விசாரணைகளைத் தொடங்கியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/93f8eb02.json)
+
+---
+
+### Sri Lanka: Next frontier for global investors
+
+*2025-08-12 00:17:04* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Next-frontier-for-global-investors/4-780125) · `en`
+
+For international investors, Sri Lanka’s stock market represents more than just another emerging market rally—it’s a rare opportunity to participate in a genuine economic recovery story with multi-year potential
+
+69% market surge creates compelling opportunity for international capital as recovery story gains momentum
+
+After a spectacular 69.69% year-on-year rally that has catapulted the Colombo Stock Exchange All-Share Price Index (ASPI) to 19,532 points, Sri Lanka’s stock market has emerged as one of the world’s most compelling investment destinations for international investors. While developed markets struggle with compressed returns and high valuations, Sri Lanka offers the rare combination of recovery momentum, attractive valuations, and genuine growth potential that sophisticated global investors continuously seek.
+
+...
+
+[Data](articles/e331f4dc.json)
+
+---
 
 ### 2025-08-11 (Monday)
 
@@ -1723,85 +1799,5 @@ However, police stated that her body has now been recovered and brought ashore a
 ◼️
 
 [Data](articles/081c5f6b.json)
-
----
-
-### நாட்டில் “குற்ற அலை” இல்லை.
-
-*2025-08-11 13:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டில்-குற்ற-அலை-இல்லை/150-362692) · `ta`
-
-சிலர் சித்தரிக்க முயற்சிப்பது போல நாட்டில் “குற்ற அலை” இல்லை என்று பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, நேற்று (11) தெரிவித்தார்.
-
-கடந்த காலங்களில் இடம்பெற்ற குற்றவியல் கும்பல்களுக்கு சில அரசியல்வாதிகளின் ஆதரவு இருந்ததாக அவர் கூறினார்.
-
-ஊவா மாகாண குற்றவிசாரணை பிரிவைத் திறந்து வைக்கும் நிகழ்வில் பங்கேற்ற போது,  பதில் பொலிஸ் மா அதிபர்  இதனைக் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/1b5745dc.json)
-
----
-
-### நாட்டில் “குற்ற அலை” இல்லை.
-
-*2025-08-11 13:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-குற்ற-அலை-இல்லை/175-362692) · `ta`
-
-சிலர் சித்தரிக்க முயற்சிப்பது போல நாட்டில் “குற்ற அலை” இல்லை என்று பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, நேற்று (11) தெரிவித்தார்.
-
-கடந்த காலங்களில் இடம்பெற்ற குற்றவியல் கும்பல்களுக்கு சில அரசியல்வாதிகளின் ஆதரவு இருந்ததாக அவர் கூறினார்.
-
-ஊவா மாகாண குற்றவிசாரணை பிரிவைத் திறந்து வைக்கும் நிகழ்வில் பங்கேற்ற போது,  பதில் பொலிஸ் மா அதிபர்  இதனைக் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/b4b535d3.json)
-
----
-
-### காசா- இஸ்ரேல் தாக்குதலில் 05 ஊடகவியலாளர்கள் கொல்லப்பட்டனர்
-
-*2025-08-11 13:50:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-இஸ்ரேல்-தாக்குதலில்-05-ஊடகவியலாளர்கள்-கொல்லப்பட்டனர்/50-362691) · `ta`
-
-காசா நகரின் அல்-ஷிஃபா மருத்துவமனைக்கு அருகே இஸ்ரேல் நடத்திய தாக்குதலில் பிரபல நிருபர் அனஸ்அல்-ஷெரீப் உட்பட 05 அல் ஜசீரா ஊடகவியலாளர்கள் கொல்லப்பட்டதாக BBC தகவல் தெரிவித்துள்ளது.
-
-அல்-ஷெரிப் மற்றும் மற்றொரு நிருபர் முகமது கிரீக், கேமராமேன்இப்ராஹிம் ஜாஹர், முகமது நௌபால் மற்றும் மோமென் அலிவா ஆகியோருடன் மருத்துவமனையில் பிரதான வாயிலில் ஊடகவியலாளர்களுக்கான கூடாரத்தில் அது தாக்கப்பட்டபோது இருந்ததாக அல் ஜசீரா செய்தி வெளியிட்டுள்ளது.
-
-ஞாயிற்றுக்கிழமை (10) அன்று நடந்த "இலக்கு வைக்கப்பட்ட படுகொலை"பத்திரிகை சுதந்திரத்தின் மீதான மற்றொரு அப்பட்டமான மற்றும் திட்டமிடப்பட்ட தாக்குதல்" என்று அது ஒரு அறிக்கையில் தெரிவித்துள்ளது.
-
-இஸ்ரேல் பாதுகாப்புப் படைகள் (IDF), அனஸ் அல்-ஷெரிப்பை குறி வைத்ததை உறுதிப்படுத்தியது, அவர் "ஹமாஸில் ஒரு பயங்கரவாதப்பிரிவின் தலைவராக பணியாற்றினார்" என்று குற்றம் சாட்டியது.
-
-...
-
-[Data](articles/0586e38f.json)
-
----
-
-### දක්ෂිණ අධිවේගී මාර්ගයේ ලොරියක් ආරක්ෂිත වැටක ගැටී ගිනි ගනියි
-
-*2025-08-11 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213253) · `si`
-
-දක්ෂීණ අධිවේගී මාර්ගයේ කොට්ටාව සිට ධාවනය වූ ලොරියක් කුරුඳුගහහැතැක්ම ප්‍රදේශයේදී ආරක්ෂිත වැටක ගැටී අනතුරකට ලක්ව තිබේ.
-
-තවද අනතුරින් තිදෙනෙකු තුවාල ලබා ඇතැයිද ඔවුන් ඇල්පිටිය මූලික රෝහලට ඇතුළත් කිරීමටත් පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/6f904f4b.json)
-
----
-
-### Three injured after lorry crashes, catches fire on Southern Expressway
-
-*2025-08-11 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111350/three-injured-after-lorry-crashes-catches-fire-on-southern-expressway) · `en`
-
-A lorry traveling along the Southern Expressway from Kottawa has crashed into a safety barrier in Kurundugahahetekma and caught fire, police stated.
-
-Police stated that the lorry immediately caught fire following the accident.
-
-They have been admitted to the Elpitiya Base Hospital for treatment.
-
-◼️
-
-[Data](articles/8934e43d.json)
 
 ---

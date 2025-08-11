@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 06:12:55**
+As of **2025-08-11 06:54:03**
 
 ## Newspaper Stats
 
-*Scraped **69,784** Articles*
+*Scraped **69,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ colombotelegraphcom | 712
 economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,900
+dailyftlk | 4,903
 adalk | 6,717
 adaderanalk | 8,680
-tamilmirrorlk | 10,204
+tamilmirrorlk | 10,205
 virakesarilk | 11,638
-adaderanasinhalalk | 12,030
+adaderanasinhalalk | 12,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,784 articles have been extended.
+61,973 (88.8%) of 69,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### ප්‍රදේශ කිහිපයකට අදත් තද වැසි
+
+*2025-08-11 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213245) · `si`
+
+අද (11) බස්නාහිර, වයඹ සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/0c5f705e.json)
+
+---
+
+### තුර්කියේ ප්‍රබල භූමිකම්පාවක්
+
+*2025-08-11 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213243) · `si`
+
+වයඹදිග තුර්කියේ බාලිකෙසීර් පළාතේ රික්ටර් මාපකයේ 6.1ක ප්‍රබල භූමිකම්පාවක් ඇතිව තිබේ.
+
+මෙය එරට විශාලතම නගරය වන ඉස්තාන්බුල් ඇතුළු පළාත් කිහිපයකටම දැනී ඇත.
+
+තුර්කි ආපදා කළමනාකරණ ඒජන්සිය (AFAD) නිකුත්කළ නිවේදනයට අනුව එරට වේලාවන් ඊයේ (10) රාත්‍රී 7:53ට මෙය සිදුව තිබේ.
+
+සිදු වූ හානිය සම්බන්ධයෙන් වැඩිදුර තොරතුරු වාර්තා නොවන අතර, දැනට එක් අයෙකු මියගොස් ඇති බව තුර්කි අභ්‍යන්තර කටයුතු අමාත්‍ය අලි යර්ලිකායා තහවුරු කර ඇත.
+
+එමෙන්ම තවත් 29 දෙනෙකු තුවාල ලබා ඇති අතර, ගොඩනැගිලි 16ක් පමණ කඩාවැටී තිබේ.
+
+ඉකුත් 2023 පෙබරවාරි මාසයේදී එරට ඇති වූ ප්‍රබල භූමිකම්පාවකින් පුද්ගලයින් 53,000ක අධික සංඛ්‍යාවක් මියගිය අතර, පුරාණ අන්තියෝකියා නගරයේ කොටසක් ද විනාශ විය.
+
+◼️
+
+[Data](articles/378fee26.json)
+
+---
+
+### Dipped Products wins Overall Gold Award at NBEA 2025
+
+*2025-08-11 05:52:46* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-wins-Overall-Gold-Award-at-NBEA-2025/34-780111) · `en`
+
+DPL Managing Director Pushpika Janadheera (right) receives the Overall Gold Award at NBEA 2025
+
+Dipped Products PLC (DPL), a member of the Hayleys Group and a global leader in hand protection solutions spanning the medical, household, industrial, and sports sectors, was honoured with the Overall Gold Award at the National Business Excellence Awards (NBEA) 2025. The recognition comes as DPL enters its 50th year of global operations.
+
+The event was held under the patronage of New Zealand High Commissioner David Pine as Chief Guest, with South African High Commissioner to Sri Lanka and Maldives Sandile Edwin Schalk serving as Guest of Honour.
+
+In addition to the top accolade, DPL secured five further honours: Winner – ‘Extra Large Category,’ Winner ‘Manufacturing (Other Sector),’ ‘Excellence in Environmental, Social and Governance (ESG),’ ‘Excellence in Corporate Governance and Strategy,’ and Runner-up – ‘Excellence in Global Market Reach.’
+
+...
+
+[Data](articles/1fbd50c5.json)
+
+---
+
+### CSF launches new policy brief on Trade Policy Uncertainty and Impacts on Exporters
+
+*2025-08-11 05:51:32* · [`dailyftlk`](https://www.ft.lk/business/CSF-launches-new-policy-brief-on-Trade-Policy-Uncertainty-and-Impacts-on-Exporters/34-780110) · `en`
+
+The Centre for a Smart Future (CSF) has published a new policy brief titled ‘Trade Policy Uncertainty and Impacts on Sri Lankan Exporters.’
+
+The pervasive and unpredictable nature of ongoing trade policy developments and the many dimensions of impacts that the resulting uncertainty causes are important considerations for further exploration in Sri Lanka. This new policy brief by the CSF, authored by Anushka Wijesinha and Senith Abeynayake, takes an early look at the effects of trade policy uncertainty on Sri Lankan export-oriented firms, based on an executive opinion survey and key informant interviews.
+
+There is a wide variation in how, and to what extent, trade policy uncertainty has affected export businesses.
+
+Most export leaders spent a balanced amount of time in ‘immediate crisis management’ and ‘medium-term initiatives.’
+
+Firms experienced mixed impacts on orders to the US, with differences among apparel and non-apparel exporters.
+
+...
+
+[Data](articles/9ac51c66.json)
+
+---
+
+### CEAT ranks as Sri Lanka’s Most Valuable Tyre Brand in 2025 Brand Finance report
+
+*2025-08-11 05:48:53* · [`dailyftlk`](https://www.ft.lk/business/CEAT-ranks-as-Sri-Lanka-s-Most-Valuable-Tyre-Brand-in-2025-Brand-Finance-report/34-780109) · `en`
+
+Elevates to sixth strongest consumer brand in country; brand value up 15% YoY
+
+CEAT has once again reaffirmed its leadership in the country’s automotive sector by being ranked the ‘Most Valuable Tyre Brand in Sri Lanka’ for 2025 in the latest edition of the Brand Finance Lanka rankings.
+
+According to the report by Brand Finance – the world’s leading brand valuation consultancy – CEAT has grown its brand value by 15% to Rs. 2.325 billion, securing 44th place overall among Sri Lanka’s 100 most valuable brands.
+
+Notably, CEAT has also been recognised as the sixth strongest consumer brand in the country based on its Brand Strength Index (BSI) score of 83.3/100, and retains its AAA- brand strength rating, a distinction shared by only a handful of top-tier brands in the island.
+
+Globally, CEAT is ranked the eighth strongest tyre brand by Brand Finance.
+
+...
+
+[Data](articles/5ff27ce2.json)
+
+---
 
 ### Sri Lanka must navigate tariff turbulence with strategy: Expert
 
@@ -265,6 +361,22 @@ It is necessary, first, to recognise and appreciate the role played by action gr
 ...
 
 [Data](articles/cfc97e9e.json)
+
+---
+
+### சுரேஷ் கோபியை காணவில்லை
+
+*2025-08-11 01:52:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுரேஷ்-கோபியை-காணவில்லை/175-362661) · `ta`
+
+நடிகரும் மத்திய இணை அமைச்சருமான சுரேஷ் கோபியை காணவில்லை என கேரள பொலிஸில் புகாரளிக்கப்பட்டுள்ளது.
+
+கேரள மாணவர் சங்கத்தின் மாவட்டத் தலைவரான கோகுல் குருவாயூர் என்பவர் திருச்சூர் கிழக்கு பொலிஸ் நிலையத்தில் அளித்த புகாரில், கேரளாவைச் சேர்ந்த கன்னியாஸ்திரிகள் சத்தீஸ்கரில் கைது செய்யப்பட்ட சம்பவத்துக்குப் பிறகு சுரேஷ் கோபியை அந்தப் பகுதியில் காணவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் "கடந்த இரண்டு மாதங்களாக, மத்திய அமைச்சராகவும் திருச்சூர் மக்களவை எம்.பியாகவும் இருக்கும் அவர், தொகுதியில் நடக்கும் எந்த நிகழ்வுகளிலும் கலந்து கொள்ளவில்லை. மேயர் மற்றும் வருவாய்த் துறை அமைச்சரால் கூட அவரை தொடர்பு கொள்ள முடியவில்லை. தொகுதியில் மத்திய அரசின் திட்டம் ஒன்றை தொடங்கி வைக்க சுரேஷ் கோபியை அவர்கள் தொடர்பு கொள்ள முயற்சித்த போது அவரிடம் அவர்களால் பேசமுடியவில்லை. அதுமட்டுமின்றி தொகுதில் யாராலும் அவரை சந்திக்க இயலவில்லை. அவருடைய அலுவலகத்துக்கு சென்றால் அவர் எங்கு இருக்கிறார்? எப்போது வருவார் என்று அங்குள்ள ஊழியர்களுக்கும் தெரியவில்லை.
+
+...
+
+[Data](articles/e4f12194.json)
 
 ---
 
@@ -1575,109 +1687,5 @@ Making a special statement, former President Ranil Wickremesinghe proposed the S
 ...
 
 [Data](articles/0e5ac4f7.json)
-
----
-
-### இலங்கையின் பொருளாதார மீட்சிக்கான பாதை
-
-*2025-08-10 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222228) · `ta`
-
-இலங்கையின் மீட்சிக்கான பாதை: கடன் மற்றும் ஆளுகை எனும் தொனிப்பொருளில் கடந்த ஜுன் மாதத்தில் இலங்கை மத்திய வங்கி, நிதியமைச்சு மற்றும் சர்வதேச நாணய நிதியம் இணைந்து முக்கியமானதொரு மாநாட்டினை நடத்தியிருந்தன. இதில் பல முக்கிய விடயங்கள் கலந்தாலோசிக்கப்பட்டிருந்தன.
-
-◼️
-
-[Data](articles/1788ba67.json)
-
----
-
-### බ්‍රසීලයේ බස් - ට්‍රක් රථ අනතුරකින් 11ක් මරුට
-
-*2025-08-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213228) · `si`
-
-බ්‍රසීලයේ මාතෝ ග්‍රෝසෝ ප්‍රාන්තයේ මහා මාර්ගයකදී සිදු වූ රිය අනතුරකින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තිබේ.
-
-මගී ප්‍රවාහන බස් රථයක් සහ ට්‍රක් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
-
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ මෙම අනතුර හේතුවෙන් තවත් පුද්ගලයින් 45ක් පමණ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
-
-◼️
-
-[Data](articles/59763fbc.json)
-
----
-
-### ஜனாதிபதியிடம் ஆவணம் கையளிப்பு
-
-*2025-08-10 13:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஜனாதிபதியிடம்-ஆவணம்-கையளிப்பு/46-362632) · `ta`
-
-கண்டியில் நடைபெற்ற வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகை பெரஹெரா வெற்றிகரமாக நிறைவடைந்ததை தெரியப்படுத்தும் ஆவணம் ஜனாதிபதியிடம் கையளிப்பு
-
-வரலாற்று பாரம்பரியம் மற்றும் கலாச்சாரத்தை ஒதுக்கி நாட்டின் எதிர்கால வளர்ச்சிப் பாதையைத் தேர்ந்தெடுக்க முடியாது
-
-கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகை மற்றும் நான்கு மகா தேவாலயங்களில் ஆண்டுதோறும் நடைபெறும் எசல மகா பெரஹெரா, பண்டைய சடங்குகளுக்கு முக்கியத்துவம் அளித்து சிறப்பான முறையில் நிறைவடைந்ததாக தெரியப்படுத்தும் ஆவணத்தை, தியவடன நிலமே பிரதீப் நிலங்க தேல சனிக்கிழமை (09) அன்று மாலை கண்டியில் உள்ள ஜனாதிபதி மாளிகையில் ஜனாதிபதி அநுகுமார திசாநாயக்கவிடம் வழங்கினார்.
-
-ஊர்வலமாக ஜனாதிபதி மாளிகைக்கு வருகை தந்த தலதா மாளிகை தியவடன நிலமே பிரதீப் நிலங்க தேல உள்ளிட்ட நான்கு  மகாதேவாலயங்கள் மற்றும் வெளியூர் தேவாலயங்களின் நிலமேகளுடன்  இணைந்து, பாரம்பரியத்தின் படி ஜனாதிபதிக்கு  அந்த ஆவணத்தை கையளித்தனர்.
-
-இந்த நிகழ்வைக் குறிக்கும் வகையில் ஜனாதிபதி மாளிகை வளாகத்தில் ஜனாதிபதி மரக்கன்றொன்றை  நட்டார்.
-
-...
-
-[Data](articles/1fa55cde.json)
-
----
-
-### Examinations Chief makes special appeal regarding scholarship exam
-
-*2025-08-10 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111333/examinations-chief-makes-special-appeal-regarding-scholarship-exam) · `en`
-
-Commissioner General of Examinations AKS Indika Kumari Liyanage has urged parents to refrain from questioning their children on how they answered the exam papers following the conclusion of today’s Grade Five Scholarship examination.
-
-The 2025 Grade 5 Scholarship Examination was today (10) at 2,787 examination centers across the island.
-
-According to the Commissioner General of Examinations, Indika Kumari Liyanage, a total of 901 students with special needs sat for the exam this year, including 12 candidates using Braille scripts.
-
-Speaking at a media briefing held in Colombo, the Commissioner General made a heartfelt appeal to parents to refrain from discussing the exam paper and how they answered the exam papers.
-
-She emphasized that children should be given the opportunity to enjoy their childhood and urged parents not to place unnecessary pressure on them based on the scholarship exam.
-
-...
-
-[Data](articles/cd5605df.json)
-
----
-
-### ஆணின் சடலம் மீட்பு
-
-*2025-08-10 13:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆணின்-சடலம்-மீட்பு/175-362630) · `ta`
-
-புத்தளம் மாவட்டத்தின் முந்தல் பொலிஸ் பிரிவுக்குட்பட்ட தாராக்குடிவில் பகுதியில் உள்ள சிறிய நீரோடைக்குள் இருந்து 48 வயது மதிக்கதக்க ஒருவரின் சடலமொன்று சனிக்கிழமை  (09) அன்று மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-முந்தல் பொலிஸாருக்கு கிடைக்கப் பெற்ற தகவலின் பேரில் அங்கு சென்ற பொலிஸார் ஆரம்ப கட்ட விசாரணைகளை மேற்கொண்டனர்
-
-பசறையைச் சேர்ந்த இவர், முந்தல் - அங்குனவில் பகுதியில் உள்ள தும்பு தொழிற்சாலை ஒன்றில் கடமையாற்றி வந்த வேளையில் நேற்றுமுன்தினம் (08) தனது சம்பளத்தை பெற்றுக் கொண்டு தாராக்குடிவில் உள்ள  சிறிய நீரோடைக்குள்  அருகில் அவரும் மற்றொருவரும் சேர்ந்து மது அருந்தியுள்ளனர் எனத் தெரிவிக்கப்படுகிறது.
-
-இந்த நிலையிலேயே பசறைப் பகுதியைச் சேர்ந்த நபர் நீரோடையில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
-
-நீதிவானின் முன்னிலையில் சடலம்  மீட்கப்பட்டுள்ளதுடன் சடலம் பிரேத பரிசோதனைக்காக புத்தளம் ஆதார வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/31f4bc54.json)
-
----
-
-### மன்னார் கடற்பகுதியில் 07 இந்திய மீனவர்கள் கைது
-
-*2025-08-10 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222231) · `ta`
-
-மன்னாரை அண்மித்த கடற்பகுதியில் மீன்பிடித்த 07 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்தது.
-
-கைப்பற்றப்பட்ட படகுடன் இந்திய மீனவர்கள் தலைமன்னார் துறைமுகத்திற்கு அழைத்து செல்லப்பட்டு, சட்ட நடவடிக்கைகளை மேற்கொள்வதற்காக மன்னார் மீன்வள ஆய்வாளரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
-
-சட்டவிரோத மீன்பிடி நடைமுறைகள் உள்ளூர் மீனவர்களின் வாழ்வாதாரத்தில் ஏற்படுத்தும் தீங்கு விளைவிக்கும் தாக்கங்களைக் கருத்தில் கொண்டு, இலங்கை கடற்பரப்புக்குள் வெளிநாட்டு மீன்பிடி படகுகள் அத்துமீறி நுழைவதைத் தடுக்க தொடர்ந்து ரோந்து மற்றும் நடவடிக்கைகளை மேற்கொண்டு வருவதாக கடற்படை தெரிவித்தது.
-
-◼️
-
-[Data](articles/2399644d.json)
 
 ---

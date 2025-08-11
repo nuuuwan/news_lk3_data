@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 17:31:44**
+As of **2025-08-11 17:54:27**
 
 ## Newspaper Stats
 
-*Scraped **69,887** Articles*
+*Scraped **69,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 4,255
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,735
+adalk | 6,736
 adaderanalk | 8,694
 tamilmirrorlk | 10,234
 virakesarilk | 11,647
-adaderanasinhalalk | 12,048
+adaderanasinhalalk | 12,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,887 articles have been extended.
+61,973 (88.7%) of 69,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### රැකියා විරහිත උපාධිධාරීන් පැලවත්ත ජවිපෙ කාර්යාලය ඉදිරිපිට විරෝධතාවක
+
+*2025-08-11 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213263) · `si`
+
+ඒකාබද්ධ රැකියා විරහිත උපාධිධාරී සංගමය විසින් සංවිධානය කළ විරෝධතාවක් අද පෙරවරුවේ පැලවත්ත අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිටදී පැවැත්විණි.
+
+එහිදී විරෝධතාකරුවන් පැය භාගයක පමණ කාලයක් එම ස්ථානයේ විරොධතාවයේ නිරත වීමෙන් අනතුරුව පැලවත්ත පිහිටි ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලය ඉදිරිපිටට විරෝධතා පාගමනින් පැමිණියේය.
+
+එහිදී එම පක්ෂ කාර්යාලය ඉදිරිපිට දැඩි පොලිස් ආරක්ෂාවක් යොදවා තිබූ අයුරුද දක්නට ලැබුණි.
+
+මෙහිදී විරෝධතාවට එක්වූ විරෝධතාකරුවන් පෙන්වා දෙනුයේ පවතින ආණ්ඩුව බලයට පත්වීමට පෙර ප්‍රතිපත්ති ප්‍රකාශය හරහා ලබා දුන් පොරාන්දු මේ වන විට කඩ කර ඇති බවය.
+
+දැනට රැකියා විරහිත උපාධිධාරීන් 35,000කට ආසන්න ප්‍රමාණයක් දිවයින පුරා සිටින බවත් රජය විසින් එම රැකියා විරහිත උපාධිධාරීන්ට ප්‍රතිපත්ති ප්‍රකාශය හරහා රැකියා ලබා දෙන බව මින් පෙර පැවසූ පොරොන්දු මේ වන විඩ කඩ කර ඇති බවත් විරෝධතාකරුවන් මෙහිදී චෝදනා කළේය.
+
+◼️
+
+[Data](articles/bb32e91f.json)
+
+---
+
+### විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් 975ක් අත්අඩංගුවට
+
+*2025-08-11 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213262) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධයෙන් පුද්ගලයන් 975 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එමෙන්ම අපරාධවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 21 දෙනෙකු හා වරෙන්තකරුවන් 422 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+මත්ද්‍රව්‍ය හා පාතාල ක‍්‍රියාකාරකම් මර්ධනය කිරීම අරමුණු කර ගනිමින් ආරක්ෂක නිලධාරීන් 7,185කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර තිබේ.
+
+එහිදී පුද්ගලයන් 28,858 දෙනෙක්ද වාහන 1,1162ක්ද යතුරු පැදි 9,054ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර ඇත.
+
+එමෙන්ම මෙම මෙහෙයුම් හරහා නීති විරෝධී ගිනි අවි 05ක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+බීමත් රියදුරන් 118ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය ඇතුළු රථවාහන වැරදි සම්බන්දයෙන් පුද්ගලයන් 3,595ක් සදහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
+
+ඒ අනුව වසරේ මේ දක්වා කාලය තුළ සමස්ථයක් වශයෙන් හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 934.55ක ප‍්‍රමාණයක්ද අයිස් මත්ද්‍රව්‍ය කිලෝ 1402.976ක ප‍්‍රමාණයක්ද ගංජා මත්ද්‍රව්‍ය කිලෝ 11620.068ක ප‍්‍රමාණයක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/2e83cbe0.json)
+
+---
 
 ### முன்னேஸ்வர ஆலய கொடியேற்றம்
 
@@ -231,6 +275,20 @@ The ITAK Secretary also called for the removal of what it terms the “excessive
 ◼️
 
 [Data](articles/a061d98e.json)
+
+---
+
+### ජාතික තරුණ සම්මේලනය ජනපතිගේ ප්‍රධානත්වයෙන් හෙට කොළඹදී
+
+*2025-08-11 16:09:04* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-තරුණ-සම්මේලනය-ජනපතිගේ-ප්‍රධානත්වයෙන්-හෙට-කොළඹදී/11-417845) · `si`
+
+ජාත්‍යන්තර තරුණ දිනයට සමගාමීව තරුණ කටයුතු හා ක්‍රීඩා අමාත්‍යංශය, ජාතික තරුණ සේවා සභාව එක්ව සංවිධානය කරනු ලබන 2025 ජාතික තරුණ සම්මේලනය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්, තරුණ තරුණියන් 6000 කගේ සහභාගීත්වයෙන් 2025.08.12 දා පෙ.ව 10.00 ට කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේදී පැවැත්වේ.
+
+දිස්ත්‍රික් මට්ටමින් තෝරාගත් ජාතික මණ්ඩල නියෝජිතයන් පනස් දෙදෙනෙකු පත් කිරීම හා 19 වන ජාතික මණ්ඩලය පත් කිරීමේ ජාතික තරුණ සමුළුව හා ඔවුන් ජාතික නායකයින් ලෙස හඳුන්වාදීම ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන්, තරුණ කටයුතු හා ක්‍රීඩා අමාත්‍ය සුනිල් කුමාර ගමගේ, නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර, ජාතික තරුණ සේවා සභාවේ සභාපති/අධ්‍යක්ෂ ජනරාල් නීතීඥ සුපුන් විජේරත්න යන මහත්වරුන්ගේ හා මැති ඇමතිවරුන්ගේ හා විදේශ තානාපතිවරුන්ගේ සහභාගීත්වයෙන් පැවැත්වේ.
+
+◼️
+
+[Data](articles/658aaefc.json)
 
 ---
 
@@ -1791,57 +1849,5 @@ After the ceremony, the Day Perahera paraded the streets of Kandy and in the aft
 ...
 
 [Data](articles/5f6ddc6a.json)
-
----
-
-### Australia ready to provide continuous support for Sri Lanka: Envoy
-
-*2025-08-11 05:32:27* · [`dailyftlk`](https://www.ft.lk/news/Australia-ready-to-provide-continuous-support-for-Sri-Lanka-Envoy/56-780103) · `en`
-
-Governor-General of Australia Samantha Joy Mostyn last Thursday highlighted Australia’s readiness to provide the necessary assistance to strengthen Sri Lanka’s economy.
-
-She made these remarks during her bilateral discussion with President Anura Kumara Disanayake at the Presidential Secretariat.
-
-The meeting revolved around strengthening the over 75-year long friendship between Australia and Sri Lanka and on opportunities to expand existing areas of cooperation for the mutual benefit of both countries.
-
-Australian Governor-General Mostyn emphasised that Australia is ready to provide continuous support for a successful journey for Sri Lanka under the leadership of President Disanayake.
-
-...
-
-[Data](articles/ae9b0e0d.json)
-
----
-
-### Japan urges action to regain investor confidence at SLJBC AGM
-
-*2025-08-11 05:29:06* · [`dailyftlk`](https://www.ft.lk/business/Japan-urges-action-to-regain-investor-confidence-at-SLJBC-AGM/34-780102) · `en`
-
-From left (seated): Sri Lanka-Japan Business Council Secretariat Kiyara Cletus, Senior Vice President Ruwan Viraj Waidyaratne, Chief Guest Japan Ambassador Akio Isomata, Sri Lanka-Japan Business Council President Athulla Edirisinghe, Immediate Past President Mahen Kariyawasan, Vice President Shamil Mendis, Treasurer H. J. Rohitha Mendis with committee members and office bearers (standing) at the Sri Lanka-Japan Business Council AGM in Colombo​
-
-Hirohama Ceylon Director Athulla Edirisinghe elected as new SLJBC President
-
-Japanese Ambassador Akio Isomata stressed need to actively promote Sri Lanka’s progress and opportunities in Japan
-
-Mega infrastructure delivery, resource development, and policy stability outlined as path forward
-
-As Sri Lanka seeks to reposition itself on the global stage, restoring investor confidence will depend on demonstrating reform progress, delivering key infrastructure projects, and unlocking untapped resources, said Japanese Ambassador Akio Isomata recently.
-
-...
-
-[Data](articles/2abde677.json)
-
----
-
-### Sri Lanka ratifies WTO Agreement on Fisheries Subsidies
-
-*2025-08-11 05:24:09* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-ratifies-WTO-Agreement-on-Fisheries-Subsidies/34-780101) · `en`
-
-Ambassador/Permanent Representative of Sri Lanka to the WTO in Geneva R.G.S Wijesekara (left) handing over the Protocol of Acceptance to WTO Director General Dr. Ngozi Okonjo-Iweala
-
-The Government of Sri Lanka has formally deposited its instrument of acceptance of the World Trade Organization (WTO) Agreement on Fisheries Subsidies, becoming one of the latest WTO members to take this important step towards protecting global marine resources. With this ratification, only four more acceptances are needed for the agreement to enter into force.
-
-...
-
-[Data](articles/78a8d0ae.json)
 
 ---

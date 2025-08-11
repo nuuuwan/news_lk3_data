@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 19:52:51**
+As of **2025-08-11 20:07:03**
 
 ## Newspaper Stats
 
-*Scraped **69,915** Articles*
+*Scraped **69,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,739
-adaderanalk | 8,699
+adaderanalk | 8,704
 tamilmirrorlk | 10,237
 virakesarilk | 11,652
 adaderanasinhalalk | 12,055
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,915 articles have been extended.
+61,973 (88.6%) of 69,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### Another 11 Sri Lankans trapped in cybercrime centres in Myanmar
+
+*2025-08-11 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111368/another-11-sri-lankans-trapped-in-cybercrime-centres-in-myanmar) · `en`
+
+Information received that 11 Sri Lankans have ended up in cybercrime centres in Myanmar during the past several weeks -Defence Ministry.
+
+◼️
+
+[Data](articles/6ba1781f.json)
+
+---
+
+### Chilaw resident held at BIA with Rs. 115 million worth of gold biscuits
+
+*2025-08-11 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111367/chilaw-resident-held-at-bia-with-rs-115-million-worth-of-gold-biscuits) · `en`
+
+An individual has been arrested by officers of the Criminal Investigation Department (CID) at the Bandaranaike International Airport (BIA) with a stock of gold biscuits valued at over Rs. 115 million.
+
+The weight of the seized gold biscuits is reported to be over 1 kilogram.
+
+Investigators stated that the gold had been smuggled into the country from Dubai under the pretext of importing vehicle spare parts.
+
+It is reported that he was arrested by CID officers on suspicion while he was leaving after paying the duty imposed by customs for the vehicle parts.
+
+◼️
+
+[Data](articles/d67d3178.json)
+
+---
 
 ### ப்ளூஸ் அணிக்கு தொடர்ச்சியான 3ஆவது தோல்வி; க்றீன்ஸ் அணியின் வெற்றிக்கு கமிந்து, சாமிக்க வித்திட்டனர்
 
@@ -130,6 +160,18 @@ Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
 
 ---
 
+### Daya Lankapura named Chairman of the Right to Information Commission
+
+*2025-08-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111366/daya-lankapura-named-chairman-of-the-right-to-information-commission) · `en`
+
+Veteran journalist Daya Lankapura has been appointed as the Chairman of the Right to Information Commission by the President.
+
+◼️
+
+[Data](articles/9dd59246.json)
+
+---
+
 ### ஜே.வி.பி தலைமையகம் முன்‌ பதற்றம்
 
 *2025-08-11 19:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பி-தலைமையகம்-முன்-பதற்றம்/175-362710) · `ta`
@@ -143,6 +185,26 @@ Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
 ◼️
 
 [Data](articles/8a2e3ca3.json)
+
+---
+
+### 975 individuals arrested during special island-wide police raids
+
+*2025-08-11 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111365/975-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 975 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (10).
+
+As part of the operation, 28,858 persons were subjected to inspection, the Police Media Division said.
+
+Police have identified 21 individuals directly linked to criminal activities while 422 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 118 drunk drivers were apprehended while 3,595 persons who violated various other traffic offences were also identified, police stated.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/85cbcbc1.json)
 
 ---
 
@@ -595,6 +657,20 @@ A bond maturing on 15.12.2032 closed at 10.25/33 percent, down from 10.27/33 per
 ◼️
 
 [Data](articles/8ed77995.json)
+
+---
+
+### President discusses pre-budget proposals for 2026 with officials
+
+*2025-08-11 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111357/president-discusses-pre-budget-proposals-for-2026-with-officials) · `en`
+
+President Anura Kumara Dissanayake has chaired a meeting this morning (11) at the Presidential Secretariat to review projects implemented under the 2025 budget allocations for the Ministry of Agriculture, Livestock, Land and Irrigation, and to discuss pre-budget proposals for 2026.
+
+President Dissanayake held separate discussions with officials on agriculture, livestock, land and irrigation, issuing directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system, the President’s Media Division said in a statement.
+
+...
+
+[Data](articles/db991bd9.json)
 
 ---
 
@@ -1767,111 +1843,5 @@ In total, seven people died in the strike, Al Jazeera reports. The broadcaster i
 ◼️
 
 [Data](articles/4760e584.json)
-
----
-
-### SriLanka rupee slightly stronger against dollar, bonds steady
-
-*2025-08-11 09:36:00* · [`economynextcom`](https://economynext.com/srilanka-rupee-slightly-stronger-against-dollar-bonds-steady-235474/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 300.60/65 to the US dollar Monday, slightly stronger from Thursday’s close 300.70/78 in the spot market while bonds were steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.05/15 percent Monday from Thursday’s 8.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.45/55 slightly higher from 8.40/50 percent.
-
-A bond maturing on 15.12.2028 was quoted at 9.85/95 from 8.85/9.92 percent
-
-A bond maturing on 15.10.2029 quoted at 9.35/40 from 9.35/38 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.38/42 from 9.38/40 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.25/35 down from 10.27/33 percent
-
-A bond maturing on 01.06.2033 quoted at 10.65/70 up from 10.63/70 percent. (Colombo/Au11/2025)
-
-◼️
-
-[Data](articles/deb04bc5.json)
-
----
-
-### පාකින් ටිකට් කැඩූ ජාවාරමක් හසුවෙයි
-
-*2025-08-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213248) · `si`
-
-හබරාදූව, පීල්ලගොඩ වෙරළ උද්‍යානය නැරඹීමට පැමිණෙන දේශීය සංචාරකයින්ගේ රථවාහන ගාල් කිරීම සඳහා මුදල් අයකළ පුද්ගලයින් තිදෙනෙකු උණවටුන සංචාරක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-හබරාදූව ප්‍රාදේශීය සභාවේ නිලධාරීන් ලෙස පෙනී සිටිමින් සැකකරුවන් මෙලෙස වාහනවලින් මුදල් අයකර ඇති බව අනාවරණය වී ඇත.
-
-උණවටුන සංචාරක පොලීසියට ලද තොරතුරක් මත අදාළ වැටලීම සිදුකර මෙම අත්අඩංගුවට ගැනීම් සිදුකර තිබේ.
-
-එහිදී අනාවරණය වී ඇත්තේ බස්‍ රථයක් ගාල් කිරීම සදහා රුපියල් 1,500ක මුදලක් ද, කාර් වෑන් ඇතුළු අනෙකුත් රථවාහන ගාල් කිරීමට රුපියල් 1,000ක් ලෙස අයකර ඇති බවය.
-
-අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 34, 35 සහ 41 යන වයස්වල පසුවන්නන් බව සඳහන්.
-
-සැකකරුවන් හබරාදූව පොලීසිය වෙත භාර දී ඇති අතර, ඔවුන් අද (11) ගාල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/a457300b.json)
-
----
-
-### බොරැල්ලේ වෙඩි තැබීමට තිදෙනෙක් අත්අඩංගුවට
-
-*2025-08-11 09:30:38* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ලේ-වෙඩි-තැබීමට-තිදෙනෙක්-අත්අඩංගුවට/11-417838) · `si`
-
-බොරැල්ල සහස්පුර සිරිසර උයන මහල් නිවාස සංකීර්ණය ආසන්නයේ සිදු කළ වෙඩි තැබීමේ සිද්ධියට ආධාර අනුබල දුන් සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඔවුන් බොරැල්ල සහ දෙමටගොඩ යන ප්‍රදේශ වල පදිංචි වයස අවුරුදු 24, 25 සහ 40 වියේ පසුවන්නන් බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/b719ab18.json)
-
----
-
-### Doctors call off strike after talks with Health Minister
-
-*2025-08-11 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111346/doctors-call-off-strike-after-talks-with-health-minister) · `en`
-
-The Government Medical Officers’ Association (GMOA) has decided to call off their island-wide strike action which was slated to commence today (11).
-
-The GMOA had threatened to launch the trade union action from 8.00 a.m. this morning based on several demands including issues related to the implementation of doctors’ transfers.
-
-However, the GMOA’s Executive Committee has decided to temporarily suspend today’s trade union action following “positive outcomes” from the meeting with Health Minister Dr. Nalinda Jayatissa.
-
-The GMOA further said it will monitor developments and decide accordingly and advised RHOs (Registered House Officers) not to apply for the current post-intern vacancies as a trade union measure, because the “arbitrarily published” post-intern vacancy list is subjected  to be amended.
-
-◼️
-
-[Data](articles/289c2660.json)
-
----
-
-### A9 මාර්ගයේ මාරක රිය අනතුරක්
-
-*2025-08-11 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213247) · `si`
-
-මහනුවර යාපනය A9 මාර්ගයේ කොඩිකාමම් පොලිස් වසමේ දී ටිපර් රථයක් හා යතුරුපැදියක් ගැටී සිදු වූ රිය අනතුරකින් යතුරුපැදිකරු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (10) රාත්‍රී 7ට පමණ ආසපුල්ලේ ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇත.
-
-මෙහිදී මාර්ගය අයිනේ නවතා තිබූ යතුරුපැදියක් මත එහි පැදිකරු සිටි අවස්ථාවේදී, යාපනය දෙස සිට වව්නියාව දෙසට ධාවනය වූ ටිපර් රථය ගැටී තිබේ.
-
-ටිපර් රථ රියදුරු යතුරුපැදියේ සිය රථය ගැටීම වැළැක්වීමට තිරිංග ක්‍රියාත්මක කරන අවස්ථාවේ, ඊට පිටුපසින් එම දිශාවටම පැමිණි කූලරය සහිත ලොරි රථයක් ටිපර් රථයේ පිටුපස ගැටී ඇත.
-
-ඒ හේතුවෙන් ටිපර් රථය ගොස් නවතා තිබූ යතුරුපැදියේ ගැටී ඇති අතර, කූලරය සහිත ලොර් රථය ද ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කාර් රථයකද ගැටී තිබේ.
-
-යතුරුපැදිකරු බරපතළ තුවාල ලබා චාවකච්චේරිය රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
-
-එමෙන්ම ටිපර් රථයේ රියදුරු, කූලරය සහිත ලොරි රථයේ රියදුරු, එම රථයේ රිය සහායක, කාර් රථයේ රියදුරු සහ ඔහුගේ පුත්‍රයා තුවාල ලබා ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කර තිබේ.
-
-මරණකරු වයස අවුරුදු 37ක් වූ කරම්පහම්, මිරුසුවිල් ප්‍රදේශයේ පදිංචිකරුවෙක් බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/32d5f55e.json)
 
 ---

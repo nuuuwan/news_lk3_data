@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 05:31:41**
+As of **2025-08-11 06:12:55**
 
 ## Newspaper Stats
 
-*Scraped **69,776** Articles*
+*Scraped **69,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 712
 economynextcom | 4,249
-islandlk | 4,277
+islandlk | 4,279
 dailymirrorlk | 4,733
-dailyftlk | 4,894
+dailyftlk | 4,900
 adalk | 6,717
 adaderanalk | 8,680
 tamilmirrorlk | 10,204
@@ -26,11 +26,121 @@ adaderanasinhalalk | 12,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.8%) of 69,776 articles have been extended.
+61,973 (88.8%) of 69,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### Sri Lanka must navigate tariff turbulence with strategy: Expert
+
+*2025-08-11 05:43:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-must-navigate-tariff-turbulence-with-strategy-Expert/34-780108) · `en`
+
+Advocata Institute CEO Dhananath Fernando says if US pushes for zero tariffs on EVs to SL, countries like Japan, China and India will retaliate
+
+Notes small, vulnerable economies like SL are often easiest targets to ‘send a message’
+
+Opines greatest challenge for SMEs not higher tariffs, but uncertainty
+
+Calls on Govt. to strengthen foreign services to manage relations with US, China and India, whilst pushing for better trade terms and boosting domestic reforms
+
+Suggests SL should pivot towards Asian markets as its middle-class is projected to surpass 2 b by 2035, whilst asserting entering markets like China, India and Vietnam is 10-20 year effort
+
+Advocata Institute CEO Dhananath Fernando recently said small and medium enterprises (SMEs) face heightened uncertainty as global trade tensions spill over into supply chains.
+
+...
+
+[Data](articles/31de4d45.json)
+
+---
+
+### LAUGFS Rubber wins Gold for export excellence
+
+*2025-08-11 05:42:41* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-wins-Gold-for-export-excellence/34-780107) · `en`
+
+Industrial solid tyre manufacturer LAUGFS Rubber secured multiple recognitions at the recently held National Business Excellence Awards (NBEA) 2025.
+
+The company was honoured as the winner in the Export Sector and named second Joint Runner-Up in the Large Category. These accolades highlight LAUGFS Rubber’s strong global presence, operational excellence, and ongoing leadership in the industrial tyre manufacturing industry.
+
+The NBEA is a premier annual awards program organised by the National Chamber of Commerce of Sri Lanka, aimed at recognising organisations that demonstrate outstanding achievements across critical areas of business excellence. Participating companies are assessed through a robust framework that includes leadership, corporate governance, performance management, market reach, sustainability, and capacity building.
+
+...
+
+[Data](articles/c182919d.json)
+
+---
+
+### National Council for Disaster Management convenes after seven years
+
+*2025-08-11 05:38:37* · [`dailyftlk`](https://www.ft.lk/news/National-Council-for-Disaster-Management-convenes-after-seven-years/56-780106) · `en`
+
+President AKD instructs officials to amend Disaster Management Act to meet current needs
+
+The 14th session of the National Council for Disaster Management was held last Wednesday (6) at the Presidential Secretariat under the patronage of President Anura Kumara Disanayake. Significantly, this is the first time the Council has convened in seven years, the President’s Media Division said in a statement.
+
+The Council was established under the Disaster Management Act, No. 13 of 2005, following the national need that emerged after the 2004 tsunami. The last meeting was held on 5 April 2018. The Council is responsible for overseeing the duties assigned to all institutions involved in disaster management, minimising disaster risks across the country and making necessary policy decisions to guide those efforts.
+
+...
+
+[Data](articles/9c3c5ae3.json)
+
+---
+
+### Sri Lanka deeply concerned over Israel’s Gaza plans
+
+*2025-08-11 05:36:04* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-deeply-concerned-over-Israel-s-Gaza-plans/56-780105) · `en`
+
+The Foreign Affairs Ministry on Saturday (9) said that Sri Lanka expresses deep concern over the decision by Israel to seize control of Gaza, which will lead to further escalation of violence and suffering of the people of Gaza.
+
+“Sri Lanka calls for an immediate ceasefire and urges all parties to resolve differences through diplomatic dialogue in order to establish sustainable peace,” it said in a statement.
+
+According to the BBC, Israel intends to assume security control of the territory and establish an alternative civil administration. Israeli media reported that the initial phase would involve relocating Gaza city’s residents further south and taking control of refugee camps and areas where hostages may be held, followed by a second offensive alongside increased humanitarian aid.
+
+...
+
+[Data](articles/14052d69.json)
+
+---
+
+### Kandy Esala Perahera concludes successfully
+
+*2025-08-11 05:35:24* · [`dailyftlk`](https://www.ft.lk/news/Kandy-Esala-Perahera-concludes-successfully/56-780104) · `en`
+
+The Sannasa being handed to President Anura Kumara Disanayake by Temple of the Sacred Tooth Relic Chief Custodian Pradeep Nilanga Dela
+
+The traditional ceremony to inform the Head of the State on the successful completion of the historic Kandy Esala Perahera was held on Saturday at the President’s House in Kandy.
+
+This year’s Esala Festival drew to a close after the Sannasa (Scroll of Memorandum) was handed over to President Anura Kumara Disanayake by Temple of the Sacred Tooth Relic Chief Custodian Pradeep Nilanga Dela.
+
+The 2025 historic Kandy Esala Perahera Festival concluded on Saturday (9) with the Day Perahera.
+
+The four Devala Peraheras proceeded to the Getambe Diya Kapana Thota to perform the water-cutting ceremony (Diya Kapeema) at dawn on Saturday, following traditional ritual practices.
+
+After the ceremony, the Day Perahera paraded the streets of Kandy and in the afternoon, concluded its sacred journey for this year.
+
+...
+
+[Data](articles/5f6ddc6a.json)
+
+---
+
+### Australia ready to provide continuous support for Sri Lanka: Envoy
+
+*2025-08-11 05:32:27* · [`dailyftlk`](https://www.ft.lk/news/Australia-ready-to-provide-continuous-support-for-Sri-Lanka-Envoy/56-780103) · `en`
+
+Governor-General of Australia Samantha Joy Mostyn last Thursday highlighted Australia’s readiness to provide the necessary assistance to strengthen Sri Lanka’s economy.
+
+She made these remarks during her bilateral discussion with President Anura Kumara Disanayake at the Presidential Secretariat.
+
+The meeting revolved around strengthening the over 75-year long friendship between Australia and Sri Lanka and on opportunities to expand existing areas of cooperation for the mutual benefit of both countries.
+
+Australian Governor-General Mostyn emphasised that Australia is ready to provide continuous support for a successful journey for Sri Lanka under the leadership of President Disanayake.
+
+...
+
+[Data](articles/ae9b0e0d.json)
+
+---
 
 ### Is increase in tobacco tax incidence practical policy option in Sri Lanka?
 
@@ -603,6 +713,20 @@ The role of the Sri Lanka Navy in ending LTTE terrorism often tends to be unders
 ...
 
 [Data](articles/18b6d18d.json)
+
+---
+
+### Sri Lanka’s defence policy and shifting balance of power in the Indian Ocean
+
+*2025-08-10 18:55:00* · [`islandlk`](http://island.lk/sri-lankas-defence-policy-and-shifting-balance-of-power-in-the-indian-ocean/) · `en`
+
+(Excerpts of a lecture delivered at the launch of the book  Sri Lanka’s Defence Policy Since Independence and the Shifting Balance of Power in the Indian Ocean, authored by Professor Gamini Keerawella)
+
+The launch of this timely and scholarly work comes at a critical juncture in regional and global geopolitics. As a nation strategically located at the heart of the Indian Ocean, Sri Lanka must continuously evaluate and adapt its defence policy to the evolving security landscape. Professor Keerawella’s book provides a comprehensive and insightful analysis of Sri Lanka’s defence posture, from independence to the present, while also situating the island nation within the broader geopolitical dynamics of the Indian Ocean Region (IOR).
+
+...
+
+[Data](articles/654c19e4.json)
 
 ---
 
@@ -1555,117 +1679,5 @@ She emphasized that children should be given the opportunity to enjoy their chil
 ◼️
 
 [Data](articles/2399644d.json)
-
----
-
-### தேசிய பாதுகாப்புக்கு அச்சுறுத்தலா?
-
-*2025-08-10 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222227) · `ta`
-
-இதுவரையில், தப்பியோடிய 3,500 இற்கும் மேற்பட்ட முப்படையினர் மற்றும் பொலிஸார் பிடிபட்டிருக்கிறார்கள். இவ்வாறான துப்பாக்கிச் சூட்டு சம்பவங்களுடன், தப்பிச்சென்ற படையினர்  பலர் தொடர்புபட்டிருந்த காரணத்தினாலேயே,  இந்த கைது நடவடிக்கைகள் மேற்கொள்ளப்பட்டன.
-
-◼️
-
-[Data](articles/8aa1bb9a.json)
-
----
-
-### යෞවන සමාජ දේශපාලනීකරණය වීම ගැන හිටපු ජනපති රනිල්ගෙන් විශේෂ ප්‍රකාශයක්
-
-*2025-08-10 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213227) · `si`
-
-මෙරට ඇති යෞවන සමාජ දේශපාලනයට යෙදා නොගන්නා බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-යෞවන සමාජ දේශපාලනීකරණය වීම සම්බන්ධව සහ යෞවන සමාජ අතර මතුව ඇති අර්බුද සම්බන්ධව අද (10) විශේෂ ප්‍රකාශයක් කරමින් හිටපු ජනාධිපතිවරයා මේ බව පැවසීය.
-
-එහිදී හිටපු ජනාධිපතිවරයා යෝජනා කරනුයේ අමාත්‍යවරයාට හිටපු නිලධාරීන් සමග මෙන්ම දැනට පත්ව ඇති නිලධාරීන් සමගද සාකච්ඡා කර දෙපාර්ශ්වයටම සෑහිමකට පත්විය හැකි විස﻿ඳුමක් ලබා දිය යුතු බවය.
-
-"ශ්‍රී ලංකාවේ තරුණ තරුණියන්ගේ ඉල්ලීමකට අනුව මීට වසර හතළිහකට පමණ පෙර මම යෞවන  සමාජ ආරම්භ කළා. ගමේ යෞවන යෞවනියන්ට එක් රැස්වන ස්ථානයක් විනෝදාංශයට, කලාවට, මෙන්ම වෙනත් වැඩ කටයුතු සඳහා ඒ යෞවන සමාජ මාර්ගයෙන් තරුණ දක්ෂතා සහ හැකියා දියුණු කිරීම මා බලාපොරොත්තු වූ මූලික කාරණයයි. ඒ කාරණය බොහෝ සාර්ථක වී තිබෙනවා. මේ වන විට සමාජයේ නොයෙක් ක්ෂේත්‍ර සඳහා තරුණ තරුණියන් සහභාගී වෙනවා.
-
-මේ වසර හතළිහ ඇතුළත යෞවන සමාජ මේ රටේ ප්‍රධාන තරුණ ව්‍යාපාරය බවට පත්ව තිබෙනවා. යෞවන සමාජ වලින් ඉදිරිපත් වූ සමහර අය දේශපාලනයට පැමිණ තිබෙනවා. සමහර අය ව්‍යාපාරවල ඉන්නවා. මේ සියලු දෙනාම ඒ වැඩසටහන ඉදිරියට ගෙන යන්නත් සහය දෙනවා.
-
-...
-
-[Data](articles/9de6381b.json)
-
----
-
-### ஜனாதிபதி  செப்டம்பரில் அமெரிக்கா மற்றும் ஜப்பானுக்கு விஜயம்
-
-*2025-08-10 13:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-செப்டம்பரில்-அமெரிக்கா-மற்றும்-ஜப்பானுக்கு-விஜயம்/150-362629) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க செப்டம்பரில் இரண்டு வெளிநாட்டுப் பயணங்களை மேற்கொள்ளவுள்ளார், முதலில் நியூயோர்க்கில் நடைபெறும் ஐ.நா. பொதுச் சபை (UNGA) கூட்டத்திற்காக அமெரிக்காவிற்கும், அதைத் தொடர்ந்து ஜப்பானுக்கும் உத்தியோபூர்வ பயணம் மேற்கொள்ளவுள்ளார்.
-
-வெளியுறவு அமைச்சர் விஜித ஹேரத் ஊடகங்களுக்குத் தெரிவித்ததாவது, ஜனாதிபதி செப்டம்பர் 23 ஆம் திகதி அமெரிக்காவுக்குப் புறப்பட்டு, 24 ஆம் திகதி ஐ.நா. பொதுச் சபையில் உரையாற்றுவார், வெளியுறவுக் கொள்கை உட்பட தனது அரசாங்கத்தின் கொள்கைகளை கோடிட்டுக் காட்டுவார். அமர்வுகளின் போது அவர் பல உலகத் தலைவர்களைச் சந்திக்கவும் திட்டமிடப்பட்டுள்ளது.
-
-நியூயோர்க்கிலிருந்து, ஜனாதிபதி திசாநாயக்க செப்டம்பர் 27 அன்று ஜப்பானின் ஒசாகாவிற்கு எக்ஸ்போ 2025 இல் கலந்து கொள்ளவும், இலங்கை தினத்தில் பங்கேற்கவும் பயணம் செய்வார், அங்கு நாட்டின் கலாச்சாரம், சுற்றுலா, வர்த்தகம் மற்றும் முதலீட்டு வாய்ப்புகளை வெளிப்படுத்துவார்.
-
-பிரதமர் ஷிகெரு இஷிபாவின் அழைப்பின் பேரில், ஜப்பானுக்கான உத்தியோகபூர்வ பயணம் செப்டம்பர் 28 ஆம் திகதி தொடங்கும்.
-
-◼️
-
-[Data](articles/35a05d5c.json)
-
----
-
-### ஜனாதிபதி  செப்டம்பரில் அமெரிக்கா மற்றும் ஜப்பானுக்கு விஜயம்
-
-*2025-08-10 13:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செப்டம்பரில்-அமெரிக்கா-மற்றும்-ஜப்பானுக்கு-விஜயம்/175-362629) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க செப்டம்பரில் இரண்டு வெளிநாட்டுப் பயணங்களை மேற்கொள்ளவுள்ளார், முதலில் நியூயோர்க்கில் நடைபெறும் ஐ.நா. பொதுச் சபை (UNGA) கூட்டத்திற்காக அமெரிக்காவிற்கும், அதைத் தொடர்ந்து ஜப்பானுக்கும் உத்தியோபூர்வ பயணம் மேற்கொள்ளவுள்ளார்.
-
-வெளியுறவு அமைச்சர் விஜித ஹேரத் ஊடகங்களுக்குத் தெரிவித்ததாவது, ஜனாதிபதி செப்டம்பர் 23 ஆம் திகதி அமெரிக்காவுக்குப் புறப்பட்டு, 24 ஆம் திகதி ஐ.நா. பொதுச் சபையில் உரையாற்றுவார், வெளியுறவுக் கொள்கை உட்பட தனது அரசாங்கத்தின் கொள்கைகளை கோடிட்டுக் காட்டுவார். அமர்வுகளின் போது அவர் பல உலகத் தலைவர்களைச் சந்திக்கவும் திட்டமிடப்பட்டுள்ளது.
-
-நியூயோர்க்கிலிருந்து, ஜனாதிபதி திசாநாயக்க செப்டம்பர் 27 அன்று ஜப்பானின் ஒசாகாவிற்கு எக்ஸ்போ 2025 இல் கலந்து கொள்ளவும், இலங்கை தினத்தில் பங்கேற்கவும் பயணம் செய்வார், அங்கு நாட்டின் கலாச்சாரம், சுற்றுலா, வர்த்தகம் மற்றும் முதலீட்டு வாய்ப்புகளை வெளிப்படுத்துவார்.
-
-பிரதமர் ஷிகெரு இஷிபாவின் அழைப்பின் பேரில், ஜப்பானுக்கான உத்தியோகபூர்வ பயணம் செப்டம்பர் 28 ஆம் திகதி தொடங்கும்.
-
-◼️
-
-[Data](articles/b23ae4cf.json)
-
----
-
-### ராகுல் காந்தி கிளப்பிய ‘வாக்கு திருட்டு’ விவகாரம்: தேர்தல் ஆணையம், பாஜக எதிர்வினை என்ன?
-
-*2025-08-10 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222229) · `ta`
-
-புதுடெல்லி: கடந்த 2024 மக்களவைத் தேர்தல் முதல் பல்வேறு மாநிலத் தேர்தல்களில் பாஜகவுடன் தேர்தல் ஆணையம் கூட்டு வைத்து மிகப் பெரிய அளவில் வாக்காளர் மோசடி நடந்துள்ளதாக மக்களவை எதிர்க்கட்சித் தலைவர் ராகுல் காந்தி குற்றஞ்சாட்டினார். இது குறித்த தரவுகளை வெளியிட்ட அவர், ஐந்து விதமாக ‘வாக்குகள் திருட்டு’ நடந்துள்ளதாக விவரித்துள்ளார்.
-
-தேர்தல் ஆணையத்தின் மீது ராகுல் காந்தி அணுகுண்டு வீசிவிட்டார் என்று பரபரப்புகள் கூடிய நிலையில், அவரது குற்றச்சாட்டுகளை மறுத்துள்ளது தேர்தல் ஆணையம். கூடவே, ‘இது ராகுலின் உச்சபட்ச விரக்தியின் வெளிப்பாடு மட்டுமே’ என்று அவரை பாஜக கிண்டல் செய்துள்ளது.
-
-தலைநகர் டெல்லியில் காங்கிரஸ் தலைமையகத்தில் செய்தியாளர்களைச் சந்தித்த ராகுல் காந்தி, “தேர்தல் முடிவுகள் முன்கூட்டியே திட்டமிடப்படுகின்றன. இதற்கு, நாடாளுமன்ற மக்களவைத் தேர்தலில் பெங்களூரு மத்திய தொகுதிக்கு கிடைத்த முடிவுகளே சாட்சி.
-
-...
-
-[Data](articles/6144105b.json)
-
----
-
-### இலங்­கையை வடி­வ­மைக்கும் சீனா
-
-*2025-08-10 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/222222) · `ta`
-
-இப்போதைய தேசிய மக்கள் சக்தி அரசாங்கத்தை பின்னால் இருந்து இயக்குவது ரில்வின் சில்வா என்பது யாவரும் அறிந்த விடயம்.அவரை சீனா பின்னாலிருந்து இயக்குகிறது என்றால், இந்தியா, அமெரிக்கா போன்ற நாடுகள் இந்த விடயம் குறித்து அதிகம் சிந்திக்காமல் இருக்க முடியாது. ஏனென்றால், தெற்காசியாவில்- இந்திய பெருங்கடலின் கேந்திர முக்கியத்துவம் வாய்ந்த இடத்தில்,  சீனாவுக்கு சார்பான,  சீனாவை ஒத்த, ஒரு ஆட்சி உருவாவதை இந்த நாடுகள் நிச்சயம் விரும்பாது.
-
-◼️
-
-[Data](articles/635ba892.json)
-
----
-
-### ලන්ඩන් හි රැලියකට සහභාගී වූ 474ක් අත්අඩංගුවට
-
-*2025-08-10 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213226) · `si`
-
-බ්‍රිතාන්‍ය තුළ තහනම් ත්‍රස්ත සංවිධානයක් ලෙස නම්කර ඇති පැලස්ටයින් ඇක්ෂන් ගෘෘප් නම් කණ්ඩායමට සහාය පලකිරීම සඳහා ලන්ඩන් නුවර පැවති රැලියකට සහභාගී වූ 470කට අධික පිරිසක් එරට පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-එරට පවතින නීතිය අනුව එම සංවිධානයේ සාමාජිකත්වය ගැනීම හෝ සහාය පලකිරිම අපරාධමය වරදක් වන අතර නීතිය උල්ලංඝනය කරන්නන්ට වසර 14ක් දක්වා සිර දඬුවම් නියම කිරීමට ද ප්‍රතිපාදන පවතියි.
-
-කෙසේ වෙතත් එරට පොලීසිය පවසන්නේ පසුගිය වසර 10 තුළ ලන්ඩන් පොලිසිය එක් දිනකදී වැඩිම පිරිසක් අත්අඩංගුවට ගත් අවස්ථාව මෙය වන බවය.
-
-◼️
-
-[Data](articles/27d0c179.json)
 
 ---

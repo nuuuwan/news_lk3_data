@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 20:22:47**
+As of **2025-08-11 20:34:39**
 
 ## Newspaper Stats
 
-*Scraped **69,921** Articles*
+*Scraped **69,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,739
+adalk | 6,740
 adaderanalk | 8,704
-tamilmirrorlk | 10,237
+tamilmirrorlk | 10,239
 virakesarilk | 11,652
 adaderanasinhalalk | 12,056
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,921 articles have been extended.
+61,973 (88.6%) of 69,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### படகு கவிழ்ந்ததில் தந்தை - மகன் பலி
+
+*2025-08-11 20:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-தந்தை-மகன்-பலி/175-362713) · `ta`
+
+பொலனறுவை - பராக்கிரம சமுத்திரத்தில் படகொன்று கவிழ்ந்ததில் இருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவத்தில், 72 வயதான தந்தையும் அவரது 38 வயதுடைய மகனுமே உயிரிழந்ததாக தெரியவந்துள்ளது.
+
+அதேநேரம், படகு கவிழ்ந்ததில் நீரில் மூழ்கிய மேலும் எட்டு பேர் பாதுகாப்பாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/ebe05ce1.json)
+
+---
+
+### கூலி திரைப்படத்தை வெளியிட தடை நீதிமன்றம் அதிரடி தடை
+
+*2025-08-11 20:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-திரைப்படத்தை-வெளியிட-தடை-நீதிமன்றம்-அதிரடி-தடை/54-362712) · `ta`
+
+கூலி திரைப்படத்தை திருட்டுத்தனமாக இணையத்தில் பதிவேற்றம் செய்து வெளியிட தடை விதித்து சென்னை உயர் நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
+
+சட்டத்தை மீறும் குறிப்பிட்ட இணையதளங்களில் திருட்டுத்தனமாக கூலி படத்தை வெளியிடுவதற்கு அனுமதியளிக்கக் கூடாது என்று இந்தியா எங்கிலும் 36 இணையதள சேவை வழங்குதளங்களுக்கு கட்டுப்பாடு விதித்துள்ளது.
+
+வரும் ஆகஸ்ட் 14-ஆம் திகதி திரையரங்குகளில் வெளியாகவிருக்கும் கூலி படத்தை இணையத்தில் முறைகேடாக வெளியிடுவதற்கான தடை கோருவது தொடர்பாக, படத்தை தயாரித்துள்ள சன் பிக்சர்ஸ் நிறுவனம் தரப்பிலிருந்து தாக்கல் செய்யப்பட்ட மனு மீதான விசாரணையில் சென்னை உயர்நீதிமன்றம் மேற்கண்ட இடைக்கால உத்தரவைப் பிறப்பித்திருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, தற்போது சட்டத்தை மீறி திரைப்படங்களைப் பதிவேற்றம் செய்வதை வாடிக்கையாக கொண்டு செயல்பட்டு வரும் இணையதளங்களை முடக்குவதுடன், இனி வருங்காலத்தில் இதுபோன்ற இணையதளங்கள் ஏதேனும் வருமாயின் அவற்றையும் முடக்க உத்தரவிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/dc9d251e.json)
+
+---
 
 ### ඉල්මනයිට් සේදීමේ ස්ථානය පොලිස් භාරයේ තැබීමට නියෝග
 
@@ -182,9 +216,17 @@ Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
 
 *2025-08-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111366/daya-lankapura-named-chairman-of-the-right-to-information-commission) · `en`
 
-Veteran journalist Daya Lankapura has been appointed as the Chairman of the Right to Information Commission by the President.
+Daya Lankapura, a veteran journalist and media trainer, has been appointed as the Chairman of the Right to Information (RTI) Commission of Sri Lanka.
 
-◼️
+The appointment has been made by the President, in accordance with the recommendation of the Constitutional Council, under Section 12(1) of the Right to Information Act No. 12 of 2016.
+
+Meanwhile, last month, a Fundamental Rights (FR) petition was filed before the Supreme Court, seeking an order directing the President to appoint a Chairman for the RTI Commission.
+
+The petitioners stated that the post of Chairman of the Right to Information Commission has remained vacant for approximately six months.
+
+They pointed out that the vacancy arose following the resignation of retired Supreme Court Justice Upali Abeyratne, who previously served as the Chairman of the RTI Commission.
+
+...
 
 [Data](articles/9dd59246.json)
 
@@ -341,6 +383,22 @@ They claimed that there are currently around 35,000 unemployed graduates across 
 ◼️
 
 [Data](articles/f6f64721.json)
+
+---
+
+### මූල්‍ය ආයතනයකට රු. කෝටි 2ක පොල්ලක් තැබූ ව්‍යාපාරිකයෙක් අල්ලයි
+
+*2025-08-11 17:50:56* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-ආයතනයකට-රු--කෝටි-2ක-පොල්ලක්-තැබූ-ව්‍යාපාරිකයෙක්-අල්ලයි/11-417849) · `si`
+
+මහනුවර වෙළෙඳ සංගමයක් විසින් පවත්වාගෙන යනු ලබන මූල්‍ය ආයතනයකට කූඨ ලේඛන ලබාදී රුපියල් කෝටි 02 ක මුදලක් ලබාගෙන එම මුදල් නොගෙවා පැහැර හැරිය බව කියන ව්‍යාපාරිකයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+වාහන ආනයනය කිරීමේ ආයතනයකට යැයි පවසමින් එම එම මුදල් සැකකාර ව්‍යාපාරිකයා විසින් ලබා ගෙන ඇති අතර ඒ සඳහා වාහන වලට අදාල ලියකියවිලි කිහිපයක් ඇපයට තබා තිබෙන අතර සැකකරු ණය මුදල ආපසු ගෙවීම පැහැර හැරීම හේතුවෙන් එම ලියකියවිලි පිළිබඳව සොයා බැලීමේදී එම එම ලියකියවිලි ව්‍යාජ ඒවා බවට අනාවරණය වී තිබේ.
+
+එම ලියකියවිලි අදාළ මූල්‍ය ආයතනය විසින් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවට ලබා දී ඇති අතර එහිදී කළ විමර්ශනයේදී අනාවරණය වී ඇත්තේ එම ලියකියවිලි ව්‍යාජ ඒවා බවයි. සැකකරු හෙට (12) මහනුවර අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/ba0de969.json)
 
 ---
 
@@ -1799,49 +1857,5 @@ In total, seven people died in the strike, Al Jazeera reports. The broadcaster i
 ...
 
 [Data](articles/08ef2f85.json)
-
----
-
-### முத்துஐயன்கட்டு சம்பவம் : இராணுவ சிப்பாய்களுக்கு விளக்கமறியல்
-
-*2025-08-11 10:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முத்துஐயன்கட்டு-சம்பவம்-இராணுவ-சிப்பாய்களுக்கு-விளக்கமறியல்/175-362669) · `ta`
-
-முல்லைத்தீவு - ஒட்டுசுட்டான், முத்துஐயன்கட்டு குளத்திலிருந்து இளைஞர் ஒருவரின் சடலம் மீட்கப்பட்ட சம்பவம் தொடர்பில் கைதான மூன்று இராணுவ சிப்பாய்களும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்களை முல்லைத்தீவு நீதவான் நீதிமன்றத்தில் முன்னிலைப்படுத்தியபோது அவர்களை எதிர்வரும் 19ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-முத்துஐயன்கட்டு பகுதியைச் சேர்ந்த ஐந்து இளைஞர்களை இரும்பு சேகரிப்பதற்காக அழைப்பித்த இராணுவ சிப்பாய்கள் அவர்கள் மீது தாக்குதல் நடத்தியாக அப் பகுதி மக்கள் குற்றம் சாட்டுகின்றனர்.
-
-◼️
-
-[Data](articles/109ca279.json)
-
----
-
-### ජාත්‍යන්තර සංචාරක රූ රැජින කිරුළ දිනූ ආදිත්‍යා වැලිවත්ත පැමිණෙයි
-
-*2025-08-11 09:59:31* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-සංචාරක-රූ රැජින-කිරුළ-දිනූ-ආදිත්‍යා-වැලිවත්ත-පැමිණෙයි/11-417839) · `si`
-
-පිලිපීනයේ පැවති "මිස් ටුවරිසම් යුනිවර්ස් - 2025 '' ( Miss Tourism Universe ) තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ ආදිත්‍යා වැලිවත්ත , එහිදී " ජාත්‍යන්තර සංචාරක රූ රැජින ( Qeen of the International Tourism ) ලෙස කිරුළ දිනා ගෙන 08/11 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
-
-මෙම තරගාවලිය ලෝකයේ රටවල් 17 ක රූ රැජිනියන් 17 දෙනෙකුගේ සහභාගීත්වයෙන් ඉකුත් 07/30 දින සිට 08/08 දින දක්වා පිලිපීනයේ මැනිලා නුවර පවත්වා තිබූණි.
-
-ආදිත්‍යා වැලිවත්ත මෙම ජයග්‍රහණයට අමතරව  තරගාවලියේ හොදම ජාතික ඇදුම ( Best National Costume ) සහ Most Beautiful Photogenic  යන සම්මාන ද්විත්වය ද දිනා ගැනීමට සමත් වී සිටියාය .
-
-ආදිත්‍යා වැලිවත්ත ප්‍රකට ගායිකාවකි.  ඇය 08/11 දින අලුයම 12.20 ට තායිලන්තයේ බැංකොක් නුවර සිට තායි ගුවන් සේවයේ ටී.ජී.- 307 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-◼️
-
-[Data](articles/b0ad2b32.json)
-
----
-
-### இன்றைய சிந்தனைக்குரிய சித்திரம்...
-
-*2025-08-11 09:59:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-சித்திரம்/62-362668) · `ta`
-
-◼️
-
-[Data](articles/597d6f01.json)
 
 ---

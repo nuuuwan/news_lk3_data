@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 13:35:08**
+As of **2025-08-11 13:52:13**
 
 ## Newspaper Stats
 
-*Scraped **69,839** Articles*
+*Scraped **69,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,249
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
-adalk | 6,727
+adalk | 6,728
 adaderanalk | 8,687
 tamilmirrorlk | 10,221
 virakesarilk | 11,642
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,839 articles have been extended.
+61,973 (88.7%) of 69,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -543,6 +543,22 @@ The GMOA further said it will monitor developments and decide accordingly and ad
 ◼️
 
 [Data](articles/32d5f55e.json)
+
+---
+
+### අපි ආවේ අවුරුදු පහකින් යන්න නෙමෙයි
+
+*2025-08-11 08:16:25* · [`adalk`](https://www.ada.lk/breaking_news/අපි-ආවේ-අවුරුදු-පහකින්-යන්න-නෙමෙයි/11-417837) · `si`
+
+"කවුරු මොනව කීවත් අපි අවුරුදු පහෙන් යන්න ආව නෙවෙයි. මේ රටේ ජනතාවගේ කැමැත්තෙන් ප්‍රජාතන්ත්‍රවාදීව ඉදිරි අවුරුදු පහ නෙවෙයි ඉදිරි අවුරුදු 10- 15 හෝ ඊටත් වඩා කාලයක් අපි මේ රට පාලනය කරනවා" යැයි නාගරික සංවර්ධන ඉදිකිරීම් හා නිවාස නියෝජ්‍ය අමාත්‍ය ටී.බී. සරත් මහතා බදුල්ලේදී පැවසීය.
+
+ජාතික නිවාස සංවර්ධන අධිකාරියේ ‘සැමට නිවහන්’ නිවාස වැඩසටහන යටතේ බදුල්ල දිස්ත්‍රික්කයේ ප්‍රතිලාභීන් සඳහා නිවාස ආධාර චෙක්පත් ප්‍රදානය කිරීම සඳහා ඉකුත්දා එම අධිකාරියේ බදුල්ල දිස්ත්‍රික් කාර්යාලයේදී පැවැති වැඩසටහනකට එක්වෙමින් නියෝජ්‍ය අමාත්‍යවරයා මෙසේද සඳහන් කළේය.
+
+“ඉදිරියේදී සමාජය තුළ ලොකු වෙනසක් ඇතිවෙනවා. රජයේ ප්‍රධාන වැඩපිළිවෙල තුනක් යටතේ අපි විශාල සමාජ පරිවර්තනයක් කරන්න බලාපොරෙත්තු වෙනවා. ඒ අනුව ක්ලීන් ශ්‍රී ලංකා හරහා අපේ රටේ ජනතාවගේ ආකල්ප වෙනස් කරමින් නව සමාජ පරිවර්තනයක් කරන්න බලාපොරොත්තු වෙනවා.
+
+...
+
+[Data](articles/ae4fad84.json)
 
 ---
 
@@ -1745,21 +1761,5 @@ The ceremony’s Chief Guest, Professor Terrence Madhujith, Vice Chancellor of t
 ◼️
 
 [Data](articles/dfa11f17.json)
-
----
-
-### UClean launches in Negombo with world-class cleaning services
-
-*2025-08-10 18:18:00* · [`islandlk`](http://island.lk/uclean-launches-in-negombo-with-world-class-cleaning-services/) · `en`
-
-UClean, the world’s largest laundry and dry-cleaning chain, has now opened its doors in Negombo, offering residents a seamless and hassle-free cleaning experience.
-
-The brand provides a comprehensive range of services, including laundry, dry cleaning, shoe cleaning, sofa cleaning, carpet cleaning, and leather care. UClean ensures high-quality results by exclusively using NDHC-certified detergents, guaranteeing zero discharge of hazardous chemicals. From everyday garments to delicate footwear and home furnishings, every item receives expert care and attention.
-
-For added convenience, UClean offers free pick-up and drop services, making professional cleaning more accessible than ever. Services can be easily scheduled through the UClean app with just a few taps, ensuring a fast, simple, and flexible booking process. A trained team employs safe and effective methods to deliver spotless results every time.
-
-...
-
-[Data](articles/2c58c821.json)
 
 ---

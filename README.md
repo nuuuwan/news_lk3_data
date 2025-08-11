@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 20:50:01**
+As of **2025-08-11 21:07:19**
 
 ## Newspaper Stats
 
-*Scraped **69,930** Articles*
+*Scraped **69,934** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 712
+colombotelegraphcom | 714
 economynextcom | 4,259
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,740
-adaderanalk | 8,704
+adaderanalk | 8,706
 tamilmirrorlk | 10,239
 virakesarilk | 11,658
 adaderanasinhalalk | 12,056
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,930 articles have been extended.
+61,973 (88.6%) of 69,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### Donald Trump says he will deploy US National Guard in Washington DC
+
+*2025-08-11 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111370/donald-trump-says-he-will-deploy-us-national-guard-in-washington-dc) · `en`
+
+President Donald Trump said on Monday he was putting Washington’s police department under federal control and ordering the National Guard to deploy to the nation’s capital to combat what he said was a wave of lawlessness, despite statistics showing that violent crime hit a 30-year low in 2024.
+
+‘I’m deploying the National Guard to help reestablish law, order and public safety in Washington, D.C.,’ Trump told reporters at the White House, flanked by administration officials including Defense Secretary Pete Hegseth and Attorney General Pam Bondi. ‘Our capital city has been overtaken by violent gangs and bloodthirsty criminals.’
+
+◼️
+
+[Data](articles/978bb5c4.json)
+
+---
 
 ### யாழ். மண்கும்பானில் இனந்தெரியாத ஒருவரின் சடலம் மீட்பு
 
@@ -45,6 +59,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5b416167.json)
+
+---
+
+### Court grants permission to detain and question suspects in Sahaspura shooting incident
+
+*2025-08-11 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111369/court-grants-permission-to-detain-and-question-suspects-in-sahaspura-shooting-incident) · `en`
+
+The Colombo Magistrate’s Court today granted permission to the Colombo Crimes Division to detain and question, for 24 hours, three suspects arrested in connection with the shooting incident that occurred in Borella on August 7.
+
+In addition, a previously arrested suspect, identified as Shehan Madhusanka, has been further remanded until August 25.
+
+The order was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga.
+
+Police informed court that further investigations related to the incident are ongoing.
+
+Accordingly, police requested court approval to detain the three arrested suspects for a 24-hour period for interrogation, which was granted by the Magistrate.
+
+Furthermore, the attorney appearing on behalf of suspect Shehan Madhusanka claimed in court that his client had no involvement in the incident and that he was arrested based solely on a statement provided by another individual.
+
+...
+
+[Data](articles/337a2883.json)
 
 ---
 
@@ -246,7 +282,7 @@ It is reported that he was arrested by CID officers on suspicion while he was le
 
 *2025-08-11 19:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-unemployment-rate-falls-to-3-8-pct-in-1q-2025-235485/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s unemployment rate fell to 3.8 percent in the first quarter of 2025, down from 4.3 percent a year ago and 4.2 percent in the December quarter, data from the state statistics office show.
+ECONOMYNEXT – Sri Lanka’s unemployment rate fell to 3.8 percent in the first quarter of 2025, down from 4.5 percent a year ago and 4.2 percent in the December quarter, data from the state statistics office show.
 
 The total employed population rose to 8.13 million in the first quarter of 2025 from 7.90 last year, indicating the creation of about 237,912 jobs over the past 12 months.
 
@@ -1166,6 +1202,28 @@ Discussions also focused on strengthening bilateral cooperation in the areas of 
 
 ---
 
+### What Did Jesus Mean: “All Who Take The Sword Will Die By The Sword”?
+
+*2025-08-11 15:06:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-did-jesus-mean-all-who-take-the-sword-will-die-by-the-sword/) · `en`
+
+Recently, I heard the presenter of a morning TV program in which the day’s newspapers are read cite Jesus’ famous saying “All Who Take the Sword Will Die by the Sword” in one of its two Sinhalese forms while commenting on a newspaper report he had just read about an underworld character who had been gunned down by a rival underworld gang. These two forms are kadu ganno kaduwen nasithi (literally, “Those who take the sword will die by the sword”) and awi gattho awiyen nasithi (literally, “Those who take up arms will die by arms”).
+
+...
+
+[Data](articles/abce3823.json)
+
+---
+
+### Keeping History Core: A Case Against The New Education Reforms
+
+*2025-08-11 15:06:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/keeping-history-core-a-case-against-the-new-education-reforms/) · `en`
+
+...
+
+[Data](articles/975aa3bc.json)
+
+---
+
 ### சுப்ரீம்சட் சர்ச்சை;தலதா கண்டனம்
 
 *2025-08-11 15:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுப்ரீம்சட்-சர்ச்சை-தலதா-கண்டனம்/175-362699) · `ta`
@@ -1763,83 +1821,5 @@ The unauthorised possession and sale of Ambergris is illegal in Sri Lanka.
 ...
 
 [Data](articles/7df862df.json)
-
----
-
-### Ishara Nanayakkara named Sri Lanka richest person by Gulf-News
-
-*2025-08-11 11:00:00* · [`economynextcom`](https://economynext.com/ishara-nanayakkara-named-sri-lanka-richest-person-by-gulf-news-235476/) · `en`
-
-ECONOMYNEXT – LOLC’s Ishara Nanayakkara, has been named Sri Lanka’s richest person, in a ranking by by Gulf-News, a UAE based publication, with an estimated net worth of 1.6 billion US dollars.
-
-“As of 2025, Ishara Nanayakkara has emerged as Sri Lanka’s wealthiest person, overtaking Dhammika Perera,” the publication said.
-
-His net worth was estimated at 1.6 billion US dollars, the publication said without giving details of the calculation but said LOLC Holdings was a diversified “financial services and investment conglomerate with operations in over 10 countries.”
-
-“Nanayakkara has played a pivotal role in expanding Sri Lanka’s presence in the global microfinance and insurance sectors,” the report said.
-
-CG Corp’s Binod Chaudhary, was named the richest person in Nepal also with 1.6 billion US dollars. In addition to his Wai Wai noodles, the CG group has operations in electronics, hotels and real estate.
-
-...
-
-[Data](articles/40639b22.json)
-
----
-
-### විදෙස් කාන්තාවක් මුහුදේ ගිලී මරුට
-
-*2025-08-11 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213250) · `si`
-
-අලුත්ගම මොරගල්ල වෙරළ තීරයට දිය නෑමට ගිය විදෙස් ජාතික කාන්තාවක් අද (11) දීයේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 48ක් වන වියට්නාම ජාතික කාන්තාවකි.
-
-අදාළ කාන්තාව තවත් පිරිසක් සමඟ මොරගල්ල වෙරළ තීරයේ විනෝද වෙමින් සිට ඇති අතර එහිදී ඇය දිවැලකට හසුව ගසා ගෙන ගොස් ඇති බව වාර්තා වේ.
-
-කෙසේ වෙතත් මේ වන විට ඇයගේ දේහය බෙන්තර වෙරළ තීරයට ගොඩ ගසා ඇති බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/ee5f57df.json)
-
----
-
-### Five Al Jazeera journalists killed in Israeli strike in Gaza
-
-*2025-08-11 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111347/five-al-jazeera-journalists-killed-in-israeli-strike-in-gaza) · `en`
-
-Five Al Jazeera journalists have been killed in an Israeli strike near Gaza City’s Al-Shifa Hospital, the broadcaster has said.
-
-Correspondents Anas al-Sharif and Mohammed Qreiqeh, alongside cameramen Ibrahim Zaher, Mohammed Noufal and Moamen Aliwa were in a tent for journalists at the hospital’s main gate when it was struck, Al Jazeera reported.
-
-The “targeted assassination” on Sunday was “yet another blatant and premeditated attack on press freedom”, it said in a statement.
-
-Shortly after the strike, the Israel Defense Forces (IDF) confirmed that it had targeted Anas al-Sharif, writing in a Telegram post that he had “served as the head of a terrorist cell in Hamas”.
-
-The IDF did not mention any of the other journalists who were killed.
-
-In total, seven people died in the strike, Al Jazeera reports. The broadcaster initially said that four of its staff had been killed, but revised it to five a few hours later.
-
-...
-
-[Data](articles/cecc641a.json)
-
----
-
-### பொரளை துப்பாக்கிச்சூடு; மூன்று பேர் கைது
-
-*2025-08-11 10:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-துப்பாக்கிச்சூடு-மூன்று-பேர்-கைது/175-362678) · `ta`
-
-கொழும்பு, பொரளை சஹஸ்புர வீடமைப்பு தொகுதியில் இடம்பெற்ற துப்பாக்கிச்சூட்டு சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் மூன்று பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தெமட்டக்கொடை மற்றும் பொரளை பகுதிகளை சேர்ந்த 24, 25 மற்றும் 40 வயதுடைய சந்தேக நபர்களே கைது செய்யப்பட்டுள்ளனர்.
-
-முன்னதாக, சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டு 72 மணிநேர தடுப்புக்காவலில் விசாரணை செய்யப்பட்டு வருவதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
-
-கடந்த 7ஆம் திகதி இரவு இடம்பெற்ற இந்த துப்பாக்கிச்சூட்டு சம்பவத்தில் காயமடைந்த ஐந்து பேரில் இருவர் மருத்துவமனையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக பொலிஸார் கூறினர்.
-
-◼️
-
-[Data](articles/e5f54b6a.json)
 
 ---

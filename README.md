@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 14:54:34**
+As of **2025-08-11 15:10:18**
 
 ## Newspaper Stats
 
-*Scraped **69,848** Articles*
+*Scraped **69,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,101 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 712
-economynextcom | 4,249
+economynextcom | 4,255
 islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,730
 adaderanalk | 8,687
-tamilmirrorlk | 10,224
+tamilmirrorlk | 10,227
 virakesarilk | 11,643
-adaderanasinhalalk | 12,041
+adaderanasinhalalk | 12,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.7%) of 69,848 articles have been extended.
+61,973 (88.7%) of 69,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### வெளிநாட்டு சிகரெட்டுகளுடன் ஒருவர் கைது
+
+*2025-08-11 14:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-362697) · `ta`
+
+சுமார் 600,000 ரூபாய் ​பெறுமதியுடைய வெளிநாட்டு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியேற முயன்ற  ஒருவர் திங்கட்கிழமை (11) அன்று கைது செய்யப்பட்டுள்ளார்.
+
+கண்டி, கன்னேபானவில் பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய அவர், துபாய் நாட்டில் வீட்டு வேலை செய்துள்ளதுடன் திங்கட்கிழமை (11) அதிகாலை ஓமானின் மஸ்கட்டிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+அவரின் பயணப் பையில் இருந்து "பிளாட்டினம்" மற்றும் "மான்செஸ்டர்" வகையான 40,000 சிகரெட்டுகள் அடங்கிய 200 சிகரெட் அட்டைப்பெட்டிகள் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4954779b.json)
+
+---
+
+### මාරාන්තික මී උණ දරුවන් අතර වැඩි වීමක්
+
+*2025-08-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213255) · `si`
+
+මාරාන්තික මී උණ රෝගය මේ වනවිට හිස ඔසවමින් තිබෙන බව රිජ්වේ ආර්යා ළමා රෝහලේ ළමා රෝග පිළිබඳ විශේෂඥ වෛද්‍ය දීපල් පෙරේරා මහතා පැවසීය.
+
+අද (11) පෙරවරුවේ මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් ඔහු මේ බව හෙළි කළේය.
+
+එහිදී ඔහු වැඩිදුරත් පවසා සිටියේ, මී උණ රෝගය බොහෝ විට වැළඳෙන්නේ මඩේ බැසීම හේතුවෙන් බවය.
+
+විශේෂයෙන් මෙම කාලසීමාව පාසල් නිවාඩු කාලය බවත්, ළමුන් වැඩි වශයෙන් සරුංගල් යැවීමට වෙල්යායන් කරා යෑම මෙලෙස මී උණ වැඩිවීමට ප්‍රධාන වශයෙන් බලපාන බවහ හෙතෙම සඳහන් කළේය.
+
+වෛද්‍ය දීපල් පෙරේරා මහතා තවදුරත් පවසා සිටියේ, උණ රෝගය පහක් හයක් පමණ පවතී නම් එය මී උණ රෝගය විය හැකි බවය.
+
+ඇස් රතු පාට හෝ කහ පාට වීම, බඩ රිදීම, මුත්‍රා තද කහ පාටට පිටවීම මෙහි රෝග ලක්ෂණ ලෙස ඔහු සඳහන් කළේය.
+
+මෙම මී උණ රෝගී තත්ත්වයට ප්‍රතිකාර තිබුණද, ප්‍රවේශම් විය යුතු බවද ඔහු පැවසීය.
+
+තවද මෙම රෝග තත්ත්වය වකුගඩු රෝග ආසාදනය සිදුවීමට ඉඩකඩ තිබෙන බවද හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/21565979.json)
+
+---
+
+### வெள்ளி ஹர்தாலை ஆதரிக்கும் மனோ
+
+*2025-08-11 14:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளி-ஹர்தாலை-ஆதரிக்கும்-மனோ/175-362696) · `ta`
+
+வெள்ளிக்கிழமை ஹர்தாலை ஆதரிக்கிறோம்.ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும்ஹர்த்தால் சொல்லும் செய்தியை அனுர கவனத்தில் எடுக்க வேண்டும்
+
+ஐந்து தமிழ் இளைஞர்கள், 8ம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர்.
+
+பின்னர் அவர்கள் அந்த முகாமில் இருந்து தப்பி சென்றதாக கூறப்படுகிறது. தப்பி சென்றவர்களில் ஒருவரான, கபில் ராஜ், 9ம் திகதி  முல்லை முத்தையன் கட்டு குளத்தில் சடலமாக மீட்க பட்டுள்ளார்.
+
+தப்பி சென்ற ஏனைய நால்வர், தம்மை இராணுவத்தினர் கடுமையாக தாக்கி சித்திரவதை செய்ததாக குற்றம் சாட்டியுள்ளனர். ஆகவே என்ன நடந்தது என்பதை ஊகிப்பது கடினமானது அல்ல.
+
+இந்த சம்பவத்தை அடிப்படையாக கொண்டு இலங்கை தமிழரசு கட்சி, “நீதியான விசாரணை”, “வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம் என தெரிவித்துள்ள தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் மேலும் கூறி உள்ளதாவது;
+
+...
+
+[Data](articles/73d0ecbc.json)
+
+---
+
+### நெடுஞ்சாலையில்  தீப்பிடித்த லொறி
+
+*2025-08-11 14:28:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுஞ்சாலையில்-தீப்பிடித்த-லொறி/175-362695) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் இருந்து வெளியேறும் குருந்துகஹஹெதெப்ம என்ற இடத்தில் வைத்து லொறியொன்று கவிழ்ந்து தீப்பிடித்துள்ளது.
+
+கொழும்பிலிருந்து உலர் உணவு ஏற்றிச் சென்ற​ லொறி ஒன்றே இவ்வாறு  நெடுஞ்சாலையில் இருந்து வெளியேறும் போது விபத்துக்குள்ளானதுடன் இதில் காயமடைந்தவர்கள் பிரதேசவாசிகளால் மீட்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/fb605a66.json)
+
+---
 
 ### මුත්තියාන්කට්ටු වැවෙහි තිබී හමු වූ පුද්ගල මළ සිරුර ගැන විශේෂ විමර්ශනයක්
 
@@ -73,6 +149,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cc9c6f69.json)
+
+---
+
+### Sri Lanka unemployment rate falls to 3.8-pct in 1Q 2025
+
+*2025-08-11 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-unemployment-rate-falls-to-3-8-pct-in-1q-2025-235485/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s unemployment rate fell to 3.8 percent in the first quarter of 2025, down from 4.3 percent a year ago and 4.2 percent in the December quarter, data from the state statistics office show.
+
+The total employed population rose to 8.13 million in the first quarter of 2025 from 7.90 last year, indicating the creation of about 237,912 jobs over the past 12 months.
+
+Sri Lankas unemployment rate rose to 5.2 percent in the second quarter of 2023, at the height of the island’s stabilization crisis, following the currency crisis and default in 2022.
+
+A currency collapse tends to stop construction, leading to workers going back to villages to farms or other occupations. They will return as construction picks up.
+
+Agricultural workers dropped to 1,906,832 in the first quarter of 2025, from 2,039,572 last year, data from the Department of Census and Statistics said.
+
+Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
+
+...
+
+[Data](articles/7cc38f5a.json)
 
 ---
 
@@ -181,6 +279,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5efe9e4c.json)
+
+---
+
+### Sri Lanka’s Almas increases share in Galle Face Capital Partners to over 10-pct
+
+*2025-08-11 12:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-almas-increases-share-in-galle-face-capital-partners-to-over-10-pct-235479/) · `en`
+
+ECONOMYNEXT – Sri Lanka’a Almas Equities said it has increased its share in listed investment trust Galle Face Capital Partners to over 10 percent of the company’s issued share capital.
+
+Almas bought 1,350,000 shares at 69 rupees, 159 shares at 72.90 rupees, and 8,722 shares at 73 rupees on August 7, according to a stock exchange filing.
+
+Galle Face Capital Partners stock was trading up at 73.40 rupees noon Monday. (Colombo/Aug11/2025)
+
+◼️
+
+[Data](articles/4182c107.json)
 
 ---
 
@@ -369,6 +483,26 @@ The unauthorised possession and sale of Ambergris is illegal in Sri Lanka.
 ...
 
 [Data](articles/7df862df.json)
+
+---
+
+### Ishara Nanayakkara named Sri Lanka richest person by Gulf-News
+
+*2025-08-11 11:00:00* · [`economynextcom`](https://economynext.com/ishara-nanayakkara-named-sri-lanka-richest-person-by-gulf-news-235476/) · `en`
+
+ECONOMYNEXT – LOLC’s Ishara Nanayakkara, has been named Sri Lanka’s richest person, in a ranking by by Gulf-News, a UAE based publication, with an estimated net worth of 1.6 billion US dollars.
+
+“As of 2025, Ishara Nanayakkara has emerged as Sri Lanka’s wealthiest person, overtaking Dhammika Perera,” the publication said.
+
+His net worth was estimated at 1.6 billion US dollars, the publication said without giving details of the calculation but said LOLC Holdings was a diversified “financial services and investment conglomerate with operations in over 10 countries.”
+
+“Nanayakkara has played a pivotal role in expanding Sri Lanka’s presence in the global microfinance and insurance sectors,” the report said.
+
+CG Corp’s Binod Chaudhary, was named the richest person in Nepal also with 1.6 billion US dollars. In addition to his Wai Wai noodles, the CG group has operations in electronics, hotels and real estate.
+
+...
+
+[Data](articles/40639b22.json)
 
 ---
 
@@ -602,6 +736,32 @@ In total, seven people died in the strike, Al Jazeera reports. The broadcaster i
 
 ---
 
+### SriLanka rupee slightly stronger against dollar, bonds steady
+
+*2025-08-11 09:36:00* · [`economynextcom`](https://economynext.com/srilanka-rupee-slightly-stronger-against-dollar-bonds-steady-235474/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 300.60/65 to the US dollar Monday, slightly stronger from Thursday’s close 300.70/78 in the spot market while bonds were steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 8.05/15 percent Monday from Thursday’s 8.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.45/55 slightly higher from 8.40/50 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.85/95 from 8.85/9.92 percent
+
+A bond maturing on 15.10.2029 quoted at 9.35/40 from 9.35/38 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.38/42 from 9.38/40 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/35 down from 10.27/33 percent
+
+A bond maturing on 01.06.2033 quoted at 10.65/70 up from 10.63/70 percent. (Colombo/Au11/2025)
+
+◼️
+
+[Data](articles/deb04bc5.json)
+
+---
+
 ### පාකින් ටිකට් කැඩූ ජාවාරමක් හසුවෙයි
 
 *2025-08-11 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213248) · `si`
@@ -798,6 +958,26 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 
 ---
 
+### Sri Lanka central bank net foreign reserves fall over US$100mn in June: Analysis
+
+*2025-08-11 07:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-foreign-reserves-fall-over-us100mn-in-june-analysis-235445/) · `en`
+
+ECONOMYNEXT – Net foreign reserves of Sri Lanka’s central bank which have improved steadily for three years amid deflationary policy fell in June 2025, official data show, after a rate cut and strong recovery in private credit.
+
+Net foreign assets of the central bank, which deducts borrowings from India, the International Monetary Fund and also reserves effectively borrowed through buy-sell swaps, fell to 424 billion rupees (about 1,414 million US dollars) in June, from 461 billion rupees (about 1,541 million) in May.
+
+The June drop is the first material net reserve fall seen since deflationary policy led to a recovery in reserves (outflows of foreign exchanges less than inflows) in the second half of 2023.
+
+Net foreign reserves are now around the level seen in March 2025.
+
+Sri Lanka’s gross reserves have not grown for around 9 months after earlier rate cuts and a strong recovery in private credit as well as some inflationary policy in the last quarter of 2024.
+
+...
+
+[Data](articles/21d44396.json)
+
+---
+
 ### බොරැල්ලේ වෙඩිතැබීමේ සිද්ධියට තිදෙනෙක් අත්අඩංගුවට
 
 *2025-08-11 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213246) · `si`
@@ -835,6 +1015,22 @@ The shooting was carried out by two unidentified individuals who arrived on a mo
 ◼️
 
 [Data](articles/7b2e51b1.json)
+
+---
+
+### Invest Sri Lanka forum to be held in Singapore
+
+*2025-08-11 07:20:00* · [`economynextcom`](https://economynext.com/invest-sri-lanka-forum-to-be-held-in-singapore-235453/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange and the Securities and Exchange Comission of Sri Lanka will hold an investor form in Singapore on August 12 with senior state officials, investors and listed companies participating.
+
+“Building on the momentum of the successful foreign investor forum held in Colombo during March this year, the initiative aims to further engage with global investors and promote Sri Lanka’s capital market as an attractive frontier investment destination,” the Colombo Stock Exchange said in a statement.
+
+The forum will bring together high-level government officials, regulators, listed companies, stock broker firms, and international investors to foster connections and promote long-term capital flows into Sri Lanka. The SEC and CSE have invited Hon. Prof.
+
+...
+
+[Data](articles/c22af1c4.json)
 
 ---
 
@@ -1613,171 +1809,5 @@ The Indian team interacted with Sri Lankan textile importers, garment manufactur
 ...
 
 [Data](articles/f3c85945.json)
-
----
-
-### இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தின் தலைவராக அமைச்சர் அனுர கருணாதிலக்க தெரிவு
-
-*2025-08-10 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222272) · `ta`
-
-பத்தாவது பாராளுமன்றத்தின் இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தின் தலைவராக  நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் வீடமைப்பு அமைச்சர் அனுர கருணாதிலக்க தெரிவு செய்யப்பட்டார்.
-
-இலங்கை - பாகிஸ்தான் பாராளுமன்ற நட்புறவுச்சங்கத்தை மீள ஸ்தாபிப்பதற்கான கூட்டம் சபாநாயகர் ஜகத் விக்கிரமரத்ன  தலைமையில் அண்மையில் பாராளுமன்றத்தில் இடம்பெற்ற போதே இந்தத் தெரிவு இடம்பெற்றது.
-
-இதன்போது பாகிஸ்தானின் இலங்கைக்கான உயர்ஸ்தானிகர் ஓய்வு பெற்ற மேஜர் ஜெனரல் பாஹீமுல் அஸீஸ் விருந்தினராகக் கலந்துகொண்டார். அத்துடன்,  பிரதி சபாநாயகர் ரிஸ்வி சாலி மற்றும் அமைச்சர்கள், பிரதியமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் மற்றும் பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரேஹாணதீர உள்ளிட்டோரும் கலந்துகொண்டனர்.
-
-...
-
-[Data](articles/ec96b943.json)
-
----
-
-### වනඅලි රැකගන්න දුම්රිය දෙපාර්තමේන්තුවේ නව තාක්ෂණය
-
-*2025-08-10 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213239) · `si`
-
-වනඅලි දුම්රියේ ගැටීම් බහුලව සිදුවීම හේතුවෙන් එම අනතුරු වළක්වාගැනීමට දුම්රිය දෙපාර්තමේන්තුව විසින් ප්‍රධාන දුම්රිය මාර්ගවල වනඅලි නිතරම ගැවසෙන ස්ථාන ආශ්‍රිතව සවිකළ CCTV කැමරා පද්ධතියේ සොයා බැලීමක් අද (10) සිදුකළේය.
-
-මෙම කැමරා පද්ධතිය අබන්පොළ කාසිකොටේ වනඅලි මාරුවන දුම්රිය උමං මාර්ගය අසල මෙන්ම ගල්ඔය සහ මින්නේරිය ප්‍රදේශයන්හි වනඅලි නිතරම ගැවසෙන ස්ථාන ආශ්‍රිතව මීට මාස 2කට පමණ ඉහතදී ස්ථාපිත කරනු ලැබීය.
-
-පැය 24 පුරා ක්‍රියාත්මක මෙම කැමරා පද්ධතියට 'සෝලාපැනල්' මාර්ගයෙන් විදුලිය ලැබේ.
-
-කැමරාවේ පටිගතවන දර්ශන අනුව වනඅලි දුම්රිය මාර්ගයේ සිටී GPS හරහා සංඥාවක් අනුරාධපුරය ප්‍රධාන දුම්රිය මෙහෙයුම් මධ්‍යස්ථානයට ලැබෙන තාක්ෂණයක් ස්ථාපිත කිරීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු යොදා තිබේ.
-
-එහි දර්ශන අනුව එම අවස්ථාවේ දුම්රිය මාර්ගයේ ගමන්ගන්නා දුම්රියන්හි රියදුරන් දැනුම්වත් කරනු ලබයි.
-
-මෙම නිරික්ෂණ චාරිකාවට දුම්රිය සාමාන්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා ඇතුළු එම දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන් පිරිසක් එක් වූහ.
-
-එහිදී ඔහු සඳහන්කර සිටියේ, මෙවැනි එක් කැමරාවක් සවිකිරීමට දුම්රිය දෙපාර්තමේන්තුවට රුපියල් 20,000ක පමණ මුදලක් වැය වන බවයි.
-
-...
-
-[Data](articles/f49e4a6b.json)
-
----
-
-### வினாக்களுக்கு விடையளித்த முறைமை குறித்து பிள்ளைகளிடம் வினவுவதை தவிர்த்துக் கொள்ளுங்கள் - பரீட்சைகள் ஆணையாளர் நாயகம் பெற்றோரிடம் வலியுறுத்தல்
-
-*2025-08-10 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222271) · `ta`
-
-ஐந்தாம் தர புலமைப்பரிசில் ஒரு பரீட்சை மாத்திரமே, பரீட்சையில் கேட்கப்பட்ட வினாக்களை மீண்டும் பிள்ளையிடம் வினவி, பிழையான வகையில் பதிலளித்திருந்தால் பிள்ளையை கண்டிப்பது முறையற்றது. இவ்வாறான வகையில் செயற்படுவதை பெற்றோர் தவிர்த்துக் கொள்ள வேண்டும்.பிள்ளைகளை அழுத்தத்துக்குள்ளாக்கும் வகையில் செயற்பட வேண்டாம் என இலங்கை பரீட்சைகள் திணைக்கள ஆணையாளர் நாயகம் இந்திகா குமாரி பெற்றோரிடம் வலியுறுத்தியுள்ளார்.
-
-பரீட்சைகள் திணைக்களத்தின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-ஐந்தாம்தர புலமைப்பரிசில் பரீட்சை நேற்று நாடளாவிய ரீதியில் 2787 பரீட்சை மத்திய நிலையங்களில் நடைபெற்றது.இம்முறை 307,951 பரீட்சாத்திகள் பரீட்சைக்கு தோற்றியிருந்தனர். இம்முறை 901 விசேட தேவையுடைய மாணவர்கள் பரீட்சைக்கு தோற்றியுள்ளார்கள்.
-
-சிறந்த முறையில் பரீட்சைக்கான பணிகள் நிறைவடைந்தன.ஒத்துழைப்பு வழங்கிய சகலருக்கும், பெற்றோருக்கும் நன்றி தெரிவித்துக்கொள்கிறோம்.
-
-வினாக்களுக்கு விடையளித்த முறைமை குறித்து பிள்ளைகளிடம் வினவுவதை தவிர்த்துக் கொள்ளுமாறு பெற்றோரிடம் கேட்டுக்கொள்கிறேன்.
-
-...
-
-[Data](articles/9e0c47bf.json)
-
----
-
-### “பரீட்சை எழுதிய மாணவர்களிடம் கேள்வி கேட்காதீர்கள்”
-
-*2025-08-10 19:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-எழுதிய-மாணவர்களிடம்-கேள்வி-கேட்காதீர்கள்/175-362656) · `ta`
-
-நடந்து முடிந்த 5ஆம் தர புலமைப்பரிசில் பரீட்சையில் வினாத்தாளுக்கு பதிலளித்த விதம் குறித்து பெற்றோர்கள் மாணவர்களிடம் கேள்வி கேட்பதைத் தவிர்க்க வேண்டும் என்று பரீட்சைகள் ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி கோரியுள்ளார்.
-
-மாணவர்கள் தங்கள் குழந்தைப் பருவத்தைக் கழிக்க வாய்ப்பளிக்குமாறும், புலமைப்பரிசில் பரீட்சையை அடிப்படையாகக் கொண்டு குழந்தைப் பருவத்தை அழிக்க வேண்டாம் என்றும் பெற்றோர்களிடம் அவர் வேண்டுகோள் விடுத்துள்ளார்.
-
-“குறிப்பாக இந்த சிறு பிள்ளைகள் தங்கள் குழந்தைப் பருவத்தை மகிழ்ச்சியாகக் கழிக்க ஒரு வாய்ப்பை வழங்க வேண்டும்.
-
-புலமைப்பரிசில் பரீட்சையை அதிக மன அழுத்தத்திற்கு ஆளாகாமல் தடுப்பது நம் அனைவரின் பொறுப்பாகும்.
-
-பிள்ளைகளின் திறன்கள் வேறுபட்டவை, எனவே பிள்ளைகளை ஒப்பிட்டுப் பார்த்து, இன்று பரீட்சையில் மாணவர்கள் என்ன எழுதினார்கள் என்று கேட்டு? அவர்கள் தவறான பதில் எழுதினால், அவர்களை திட்டவோ தண்டிக்கவோ வேண்டாம்.
-
-அவர்கள் சரியான பதில் எழுதினாலும் சரி, தவறான பதில் எழுதினாலும் சரி, அந்த நேரத்தில் பிள்ளைகள் வினாத்தாளை எவ்வாறு எதிர்கொள்கிறார்கள் என்பதே முக்கியம்.
-
-...
-
-[Data](articles/ecf80987.json)
-
----
-
-### இளைஞர் சங்க பிரச்சினை கலந்துரையாடலால் தீர்க்கப்பட வேண்டும் – ரணில் விக்ரமசிங்க
-
-*2025-08-10 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222270) · `ta`
-
-நாற்பது வருடங்களாக இளைஞர் யுவதிகளுக்கு முன்னுக்குவர கைகொடுத்த இளைஞர் சங்கங்களில் தற்போது தலைதூக்கி இருக்கும் பிரச்சினையை இரண்டு தரப்பும் கலந்துரையாடி தீர்த்துக்கொள்ள வேண்டும். இல்லாவிட்டால் தற்போது இடம்பெறும் போராட்டம் அரசியல் பிரச்சினையாக மாறி, இளைஞர் சங்க அமைப்பு இல்லாமல் போய்விடும் என முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
-
-இளைஞர் சங்க அமைப்பில் தற்போது தலைதூக்கி இருக்கும் பிரச்சினையை விரைவாக தீர்த்துக்கொள்ள வேண்டியதன் முக்கியம் தொடர்பில் அவர் ஞாயிற்றுக்கிழமை (10) ஆற்றிய  விசேட உரையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/221eb2ee.json)
-
----
-
-### Rumesh Tharanga sets new national record in Javelin Throw
-
-*2025-08-10 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111341/rumesh-tharanga-sets-new-national-record-in-javelin-throw) · `en`
-
-Sri Lanka’s Rumesh Tharanga has set a new national record during the first round of the Men’s Javelin Throw event at the World Athletics Continental Tour – Bronze in India, with a distance of 86.50m.
-
-◼️
-
-[Data](articles/b6d17157.json)
-
----
-
-### இளைஞர் கழகங்கள் சோசலிச இளைஞர் சங்கத்தின் பணயக்கைதிகள் - சஜித் பிரேமதாச குற்றச்சாட்டு
-
-*2025-08-10 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222269) · `ta`
-
-நீண்ட காலமாக, நமது நாட்டின் இளைஞர் யுவதிகளுக்கு இனம், மதம், சாதி, வர்க்கம் மற்றும் கட்சி ஆகியவற்றைப் பொருட்படுத்தாமல் உரிய பிரதிநிதித்துவத்தைப் பெற்றுத் தந்த இளைஞர் கழகங்கள் இப்போது முழுமையாக அரசியல்மயமாக்கப்பட்டு, தற்போதைய அரசாங்கத்தின் பகடைக்காயாக மாற்றப்பட்டு, ஜே.வி.பி.யின் அரசியல் பிடியின் கீழ் கொண்டு வரப்பட்டுள்ளன என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-இளைஞர் கழகங்கள் சோசலிச இளைஞர் சங்கம் என்ற அரசியல் அமைப்பின் பணயக்கைதிகளாக மாறிவிட்டன. பிரதேச மட்டம், மாவட்ட மட்டம் மற்றும் தேசிய மட்டம் என்ற அடிப்படையில் செயல்பட்ட இளைஞர் சம்மேளனங்கள், இன்று இளைஞர் யுவதிகளின் ஆற்றல் திறமைக்கு இடம்கொடுக்காமல் ஜேவிபியின் ஆதிக்கத்திற்குட்பட்டுள்ளன. நியமிக்கப்படவுள்ள தேசிய இளைஞர் சம்மேளன தெரிவில் ஆளும் தரப்பினரின் அரசியல் ஆதரவாளர்கள் நியமிக்கப்படவுள்ளனர்.
-
-...
-
-[Data](articles/52381ccb.json)
-
----
-
-### தெற்காசியாவின் பணக்காரர்களின் பட்டியலில் இணைந்தது இலங்கை
-
-*2025-08-10 19:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசியாவின்-பணக்காரர்களின்-பட்டியலில்-இணைந்தது-இலங்கை/175-362655) · `ta`
-
-2025 ஆம் ஆண்டிற்கான தெற்காசியாவின் பணக்காரர்களின் பட்டியலை கல்ஃப் நியூஸ் வெளியிட்டுள்ளது, இதில் இந்தியாவின் முகேஷ் அம்பானியை 118 பில்லியன் அமெரிக்க டொலர் நிகர மதிப்புடன் பிராந்தியத்தின் பணக்காரர்களில் ஒருவராகக் குறிப்பிட்டுள்ளது.
-
-இந்த அறிக்கை அண்டை நாடுகளின் பணக்காரர்களையும் அடையாளம் கண்டுள்ளது: பாகிஸ்தானின் ஷாஹித் கான் (அமெரிக்க டொலர் 13.5 பில்லியன்), பங்களாதேஷின் மோசா பின் ஷம்ஷர் (அமெரிக்க டொலர் 12 பில்லியன்), நேபாளத்தின் பினோத் சவுத்ரி (அமெரிக்க டொலர் 1.6 பில்லியன்) மற்றும் இலங்கையின் இஷாரா நாணயக்கார (அமெரிக்க டொலர் 1.6 பில்லியன்).
-
-கல்ஃப் நியூஸின் கூற்றுப்படி, அம்பானியின் சொத்து மதிப்பு மற்ற தெற்காசிய அதிபர்களை மிகவும் கீழே தள்ளியுள்ளது, அவரது சொத்து மதிப்பு பட்டியலில் இரண்டாவது இடத்தில் உள்ள கானின் சொத்து மதிப்பை விட கிட்டத்தட்ட 10 மடங்கு அதிகம்.
-
-◼️
-
-[Data](articles/80dfcf66.json)
-
----
-
-### රුමේෂ් ලෝක මලල ක්‍රීඩා ශූරතාවට ඍජුව සුසුදුකම් ලබයි
-
-*2025-08-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213238) · `si`
-
-ඉන්දියාවේ පැවැත්වෙන මලල ක්‍රීඩා තරගාවලියකදී (World Athletics Continental Tour – Bronze) හෙල්ල විසිකිරීම ඉසව්වේ ශ්‍රී ලංකා වාර්තාව අලුත් කිරීමට රුමේෂ් තරංග අද (10) පස්වරුවේ සමත් විය.
-
-මෙහිදි ඔහු මීටර 86.50ක දක්ෂතාවක් දැක් වූ අතර, ඒ හේතුවෙන් මෙම වසරේ සැප්තැම්බර් මස ජපානයේ පැවැත්වෙන ලෝක ශූරතා මලල ක්‍රීඩා ශූරතාවලියටද ඔහු ඍජුව සුදුසුකම් ලබාගත්තේය.
-
-◼️
-
-[Data](articles/3645b282.json)
-
----
-
-### Wasantha Karannagoda’s The Turning Point
-
-*2025-08-10 18:56:00* · [`islandlk`](http://island.lk/wasantha-karannagodas-the-turning-point/) · `en`
-
-The Naval Role in Sri Lanka’s War on LTTE Terrorism – Penguin Books India
-
-The role of the Sri Lanka Navy in ending LTTE terrorism often tends to be understated in any discussion of the war. During the war, pitched battles between the Army and the LTTE were far more frequent and, therefore, tended to get more publicity than confrontations between the Navy and the LTTE out at sea. Yet, from the very earliest days of separatist terrorism in the North, the supply of arms by sea, and escape to Tamil Nadu by boat, were crucial to the terrorists. Later, as the LTTE evolved from hit-and-run terrorism to controlling swathes of territory, escape to India by sea became less important, but the supply of arms and ammunition by sea continued to remain their lifeline.
-
-...
-
-[Data](articles/18b6d18d.json)
 
 ---

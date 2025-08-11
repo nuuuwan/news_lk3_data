@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-11 23:33:28**
+As of **2025-08-11 23:51:22**
 
 ## Newspaper Stats
 
-*Scraped **69,944** Articles*
+*Scraped **69,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ islandlk | 4,279
 dailymirrorlk | 4,733
 dailyftlk | 4,908
 adalk | 6,742
-adaderanalk | 8,706
-tamilmirrorlk | 10,242
-virakesarilk | 11,661
+adaderanalk | 8,710
+tamilmirrorlk | 10,243
+virakesarilk | 11,662
 adaderanasinhalalk | 12,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,944 articles have been extended.
+61,973 (88.6%) of 69,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-11 (Monday)
+
+### மீட்கப்படவுள்ள ராவணனுடன் தொடர்புபட்ட விமானங்கள்
+
+*2025-08-11 23:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மீட்கப்படவுள்ள-ராவணனுடன்-தொடர்புபட்ட-விமானங்கள்/53-362734) · `ta`
+
+ராவணனால் 25 இடங்களில் மறைத்து வைக்கப்பட்டதாகக் கூறப்படும் 19 விமானங்களை மீட்க சிவில் விமானப் போக்குவரத்து அதிகார சபையின் ஆராய்ச்சி பிரிவு தயாராகுகிறது.
+
+இந்த விமானங்கள் ராவணனால் தயாரிக்கப்பட்டதாகவும், பாதரசம் மற்றும் வேறு இரசாயனங்களைப் பயன்படுத்தி பறந்ததாகவும் ஆராய்ச்சிகள் வெளிப்படுத்தியுள்ளன.
+
+குருநாகல், வாரியப்பொல, சிகிரியா, தம்புள்ள, மஹியங்கன்னை, பதுளை, அம்பாந்தோட்டை உள்ளடங்கலாக குகைகளிலும் மலைப்பாங்கான பகுதிகளில் நிலக்கீழும் விமானங்கள் ஒழிக்கப்பட்டுள்ளதாக கண்டுபிடிப்புகள் குறிப்பிடுகின்றன.
+
+◼️
+
+[Data](articles/372ad4ba.json)
+
+---
+
+### 'அபிநய சரஸ்வதி' என்று மெச்சப்பட்ட ' கன்னடத்துப் பைங்கிளி ' சரோஜாதேவி
+
+*2025-08-11 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222356) · `ta`
+
+தமிழ் திரைப்படங்களை பார்த்து வளர்ந்த இந்த கட்டுரையாளரைப் போன்ற தமிழ்ச்சினிமா ரசிகர்களுக்கு தென்னிந்தியாவின் பழம்பெரும் நடிகை பி.சரோஜாதேவியின் மரணம் பெரும் கவலையைத் தந்தது. 2025 ஜூலை 14 ஆம் காலையில்  திகதி தனது தினசரி 30 நிமிட பூஜை வழிபாட்டைச் செய்து முடித்துவிட்டு சோபாவில் இருந்து தொலைக்காட்சி பார்த்துக் கொண்டிருந்த வேளையில்  திடீரென்று ஒரு முனகலுடன் மயங்கி விழுந்த அவரை வைத்தியசாலைக்கு கொண்டு சென்றபோது அவர் மரணமடைந்து விட்டதாக அங்கு  அறிவிக்கப்பட்டது. அவருக்கு 87 வயது.
+
+எனது சிறுவயதில் இருந்தே நான் தமிழ்த் திரையுலகின் நடிகைகள் மத்தியில் சரோஜாதேவியின் ஒரு பெரிய ரசிகன். ஐந்து தசாப்தங்களுக்கும் அதிகமான கால திரையுலக வாழ்வைக் கொண்ட அவர் 209 படங்களில் நடித்திருக்கிறார். இவற்றில் 161 படங்களில் அவர் கதாநாயகியாக அல்லது முன்னணி பாத்திரங்களில் நடித்திருக்கிறார். மற்றைய படங்களில் அவர் துணைப் பாத்திரங்களில் அல்லது குணசித்திர பாத்திரங்களில் நடித்தார். திரையுலக வாழ்வின் ஆரம்பக் கட்டங்களில் சரோஜாதேவி நாட்டியக்காரியாகவும் தோன்றினார்.
+
+...
+
+[Data](articles/8924541d.json)
+
+---
+
+### Over 120,000 arrested on drug-related offenses so far this year
+
+*2025-08-11 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111373/over-120000-arrested-on-drug-related-offenses-so-far-this-year) · `en`
+
+More than 120,000 individuals have been arrested in connection with various drug-related offenses so far this year, according to a statement issued by the Ministry of Public Security.
+
+The arrests were made during special operations conducted from the beginning of the year up to today (11).
+
+According to the Ministry, 39,627 individuals have been arrested for the possession of heroin and heroin-related offenses, 47,615 for the possession of crystal methamphetamine (ICE) and 42,620 individuals for cannabis-related offenses.
+
+The operations have also led to the seizure of 934.55 kg of heroin, 1,402.976 kg of ICE and 11,620 kg of cannabis.
+
+Additionally, a total of 118 drunk drivers have been apprehended while legal action has been taken against 3,595 individuals for reckless driving and other violations.
+
+...
+
+[Data](articles/4d3c5138.json)
+
+---
 
 ### දුම්රිය දෙපාර්තමේන්තුවේ ටෙන්ඩර් පටිපාටියට පිටින් යන ගනුදෙනුවක් ගැන හෙළිදරව්වක්
 
@@ -96,6 +146,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Puttalam court orders ilmenite processing site to be placed under police custody
+
+*2025-08-11 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111372/puttalam-court-orders-ilmenite-processing-site-to-be-placed-under-police-custody) · `en`
+
+A court in Puttalam today (11) ordered that the ilmenite processing site located in Aruwakkalu adjacent to the Wilpattu National Park boundary, be placed under police custody until further investigations are completed.
+
+The order was issued by Puttalam District Judge Mihil Chirantha Sathurusinghe following a report presented to court regarding the operation of the site without proper legal authorization within a highly sensitive environmental zone.
+
+The local company operating the site had reportedly been conducting ilmenite processing without valid approval from the Geological Survey and Mines Bureau (GSMB), while also disregarding orders issued by the Department of Archaeology. Based on a complaint received, the site was recently raided by the Walana Anti-Corruption Unit.
+
+...
+
+[Data](articles/1c13453d.json)
+
+---
+
 ### பொலன்னறுவையில் படகு கவிழ்ந்து தந்தை, மகன் பலி - 11 பேர் மீட்பு
 
 *2025-08-11 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222355) · `ta`
@@ -148,15 +214,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 10-hour water cut in several areas of Gampaha on Thursday
+
+*2025-08-11 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111371/10-hour-water-cut-in-several-areas-of-gampaha-on-thursday-) · `en`
+
+A 10-hour water cut will be imposed in several areas of the Gampaha District on Thursday (14), the National Water Supply & Drainage Board (NWSDB) announced.
+
+The water cut has been attributed to maintenance activities of the transmission pipeline running from Nittambuwa to Minuwangoda, which is part of the Gampaha–Attanagalla–Minuwangoda Integrated Water Supply Scheme.
+
+Accordingly, the water supply to Ranpokunagama, Bataliya, Attanagalla, Pasyala, and Nittambuwa will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. on Thursday, the NWSDB said.
+
+The statement issued by the NWSDB noted that the water supply will also be suspended to resident of Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla.
+
+◼️
+
+[Data](articles/d64b8908.json)
+
+---
+
 ### Donald Trump says he will deploy US National Guard in Washington DC
 
 *2025-08-11 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111370/donald-trump-says-he-will-deploy-us-national-guard-in-washington-dc) · `en`
 
-President Donald Trump said on Monday he was putting Washington’s police department under federal control and ordering the National Guard to deploy to the nation’s capital to combat what he said was a wave of lawlessness, despite statistics showing that violent crime hit a 30-year low in 2024.
+US President Donald Trump said on Monday (Aug 11) he was putting Washington’s police department under federal control and ordering the National Guard to deploy to the nation’s capital to combat what he said was a wave of lawlessness, despite statistics showing that violent crime hit a 30-year low in 2024.
 
-‘I’m deploying the National Guard to help reestablish law, order and public safety in Washington, D.C.,’ Trump told reporters at the White House, flanked by administration officials including Defense Secretary Pete Hegseth and Attorney General Pam Bondi. ‘Our capital city has been overtaken by violent gangs and bloodthirsty criminals.’
+‘I’m deploying the National Guard to help re-establish law, order and public safety in Washington, DC,’ Trump told reporters at the White House, flanked by administration officials including Defense Secretary Pete Hegseth and Attorney General Pam Bondi. ‘Our capital city has been overtaken by violent gangs and bloodthirsty criminals.’
 
-◼️
+‘The Metropolitan Police Department and the federal authorities will be supported in the effort, a really big effort, the 800 DC National Guardsmen that we’ll put on. And much more, if necessary, much more,’ Trump said.
+
+Hegseth added that the National Guard units are expected to arrive in the capital within the coming week.
+
+...
 
 [Data](articles/978bb5c4.json)
 
@@ -317,6 +405,24 @@ Information received that 11 Sri Lankans have ended up in cybercrime centres in 
 ◼️
 
 [Data](articles/6ba1781f.json)
+
+---
+
+### Another 11 Sri Lankans trafficked to Myanmar cybercrime centres
+
+*2025-08-11 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111368/another-11-sri-lankans-trafficked-to-myanmar-cybercrime-centres) · `en`
+
+Another 11 Sri Lankans have been trafficked to Myanmar to work at cybercrime centres, according to the Ministry of Defence.
+
+The Defence Ministry stated that it has received information on 11 Sri Lankans who have ended up in cybercrime centres in Myanmar during the past several weeks.
+
+Meanwhile, the National Anti-Human Trafficking Task Force (NAHTTF) has issued a public warning in light of alarming information on a new trend wave of human trafficking activities targeting Sri Lankan nationals.
+
+Reportedly, organized trafficking syndicates operating cyber scam centers in South East Asia have launched a large-scale recruitment drive. Information suggests these networks are attempting to lure and transport over 50,000 individuals to these scam compounds, from all countries and Sri Lankans are among the primary targets, the Defence Ministry stated.
+
+...
+
+[Data](articles/7c5ad24f.json)
 
 ---
 
@@ -1697,103 +1803,5 @@ They have been admitted to the Elpitiya Base Hospital for treatment.
 ◼️
 
 [Data](articles/8934e43d.json)
-
----
-
-### සරුංගල් යැවීමේදී මේ ගැනත් සැලකිිලිමත් වෙන්න
-
-*2025-08-11 13:30:51* · [`adalk`](https://www.ada.lk/breaking_news/සරුංගල්-යැවීමේදී-මේ-ගැනත්-සැලකිිලිමත්-වෙන්න/11-417842) · `si`
-
-මේ දින වල මී උණ රෝගය පැතිර යන බැවින් ළමුන් කුඹුරු ආශ්‍රිතව සරුංගල් යැවීමේදී සැලකිලිමත් විය යුතු බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පැවසීය.
-
-සරුංගල් යවන කාලයට දකින ලෙඩක් තමයි මී උණ. සාමාන්‍යයෙන් ගමේ දරුවෝ සරුංගල් යවන්නේ කුඹුරු වලනේ. වෙල් යායවල් වලනේ. මඩ  පෑගෙනවා. ඒ සමගම උණ දවස් 4-5ක් තිබුණොත් මේක මී උණ වෙන්න පුළුවන්. ඒක ගැන කල්පනාකාරී වෙන්න. සරුංගලයක් යවද්දි පුළුවන් නම් සෙරප්පු දෙකක් දාගෙන , මඩේ බහින්නේ නැතිව කළොත් හොඳයි. රෝග ලක්ෂණ විදියට උණ දවස් 4-5ක් තියෙන්න පුළුවන්. ඇස් රතු හෝ කහ පාට වෙන්න පුළුවන්. ඒවගේ රෝග ලක්ෂණ එක්ක මේ දරුවෝ වාර්තා වුණොත් මේක මී උණ වෙන්න පුළුවන්.
-
-◼️
-
-[Data](articles/e59e8467.json)
-
----
-
-### ஹர்த்தாலுக்கு ஜீவன் ஆதரவு
-
-*2025-08-11 13:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹர்த்தாலுக்கு-ஜீவன்-ஆதரவு/76-362689) · `ta`
-
-முல்லைத்தீவு, ஒட்டுசுட்டான் – முத்துஐயன்கட்டுப் பகுதியில் இராணுவத்தால் தாக்கப்பட்டு உயிரிழந்தவருக்காக வடக்கு மற்றும் கிழக்கில் ஆகஸ்ட் 15ம் திகதி, வெள்ளிக்கிழமை அனுசரிக்கப்படவுள்ள ‘ஹர்த்தால்’ போராட்டத்திற்கு ஒரு இலங்கையராகவும், மலையக தமிழராகவும், எனது முழுமையான ஆதரவினை வழங்குவதாக தெரிவித்துக்கொள்கின்றேன்.
-
-கடந்த 7 ஆம் திகதியன்று, முல்லைத்தீவு – ஒட்டுசுட்டான் பொலிஸ் பிரிவுக்குட்பட்ட முத்துஐயன்கட்டுப் பகுதியில் 32 வயதான எதிர்மன்னசிங்கம் கபில்ராஜ் என்ற இளம் குடும்பஸ்தர், இராணுவத்தால் தாக்கப்பட்டு காணாமல்போனதாக தேடப்பட்டு வந்தார். பின்னர் கடந்த சனிக்கிழமை (09) அன்று, அவரது சடலம் முத்துஐயன்கட்டுக் குளத்திலிருந்து மீட்கப்பட்டது.
-
-நீதிக்கான கோரிக்கையிலும், இராணுவத்தின் அநீதியான நடவடிக்கைகளுக்கு எதிராகவும் நடைபெறவுள்ள இந்த ஹர்த்தாலுக்கு, எனது ஒற்றுமையையும் உறுதியான ஆதரவையும் வெளிப்படுத்துகின்றேன்.
-
-“யுத்தம் நிறைவடைந்து 16 ஆண்டுகள் கடந்த பின்பும், இவ்வாறான மனிதாபிமானமற்ற செயற்பாடுகள் நிகழ்வது மிகவும் வருத்தமளிப்பதாகவும், இதனை ஏற்றுக்கொள்ள முடியாது” எனவும் வலியுறுத்துகின்றேன்.
-
-◼️
-
-[Data](articles/a58588e6.json)
-
----
-
-### நீரில் மூழ்கி தாய்லாந்து பெண் பலி
-
-*2025-08-11 13:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-தாய்லாந்து-பெண்-பலி/175-362688) · `ta`
-
-மொரகல்ல கடற்பகுதியில் நீந்திக் கொண்டிருந்த தாய்லாந்து பெண் ஒருவர் நீரில் மூழ்கி உயிரிழந்ததாக அளுத்கம பொலிஸார் தெரிவித்தனர்.
-
-மொரகல்ல பகுதியில் உள்ள ஒரு சுற்றுலா விடுதியில் தங்கியிருந்த அவர் நீரில் மூழ்கி காணாமல் போயிருந்தார்.
-
-உயிர்காப்பாளர்கள் அவரைத் தேடிக்கொண்டிருந்த வேளையில், பெந்தர பகுதியில் அவரின் சடலம் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/5efe9e4c.json)
-
----
-
-### Sri Lanka’s Almas increases share in Galle Face Capital Partners to over 10-pct
-
-*2025-08-11 12:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-almas-increases-share-in-galle-face-capital-partners-to-over-10-pct-235479/) · `en`
-
-ECONOMYNEXT – Sri Lanka’a Almas Equities said it has increased its share in listed investment trust Galle Face Capital Partners to over 10 percent of the company’s issued share capital.
-
-Almas bought 1,350,000 shares at 69 rupees, 159 shares at 72.90 rupees, and 8,722 shares at 73 rupees on August 7, according to a stock exchange filing.
-
-Galle Face Capital Partners stock was trading up at 73.40 rupees noon Monday. (Colombo/Aug11/2025)
-
-◼️
-
-[Data](articles/4182c107.json)
-
----
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-11 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222301) · `ta`
-
-இன்று திங்கட்கிழமை (11) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/b2f4305f.json)
-
----
-
-### Australia to recognise Palestinian state in September
-
-*2025-08-11 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111349/australia-to-recognise-palestinian-state-in-september) · `en`
-
-Australia will recognise a Palestinian state at the UN General Assembly in September, following similar moves by the UK, France and Canada, Prime Minister Anthony Albanese has said.
-
-Albanese said Australia received commitments from the Palestinian Authority (PA) including to demilitarise, hold general elections and continue to recognise Israel’s right to exist.
-
-“A two-state solution is humanity’s best hope to break the cycle of violence in the Middle East and to bring an end to the conflict, suffering and starvation in Gaza,” he said on Monday.
-
-Israel, under increasing pressure to end the war in Gaza, has said recognising a Palestinian state “rewards terrorism”.
-
-Since Saturday, five people have died as a result of starvation and malnutrition in Gaza, bringing the total number to 217 deaths, according to the Hamas-run health ministry.
-
-It also said that in total more than 61,000 people have been killed as a result of Israel’s military campaign since 2023.
-
-...
-
-[Data](articles/49dc12f8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 01:49:16**
+As of **2025-08-13 02:07:22**
 
 ## Newspaper Stats
 
-*Scraped **70,173** Articles*
+*Scraped **70,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
-economynextcom | 4,268
+economynextcom | 4,276
 islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,173 articles have been extended.
+61,973 (88.3%) of 70,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### Vietnam’s ROX Group seeks assistance to establish industrial zone in Sri Lanka: PMD
+
+*2025-08-12 23:42:00* · [`economynextcom`](https://economynext.com/vietnams-rox-group-seeks-assistance-to-establish-industrial-zone-in-sri-lanka-pmd-235839/) · `en`
+
+ECONOMYNEXT – Representatives of Vietnam’s ROX Group have met Sri Lanka President Anura Dissanayake to ‘express their readiness to make investments’ in the island nation, the president’s media division said.
+
+“They sought government assistance to establish an industrial zone and indicated interest in the renewable energy and real estate sectors,” the PMD said.
+
+The visit, the PMD said, aimed to identify suitable land and secure the necessary institutional support for these ventures.
+
+Dissanayake “affirmed the government’s commitment to providing all necessary institutional backing for foreign investments”.
+
+The delegation was led by Chairman of the Advisory Board of ROX Group and Chairman of the Maritime Commercial Joint Stock Bank (MSB) Tran Anh Tuan.
+
+Also attending the meeting were Chairperson of the ROX Group Nguyen Thi Nguyet Huong, and Chief Officer of the Energy Division Luu Le Chi. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/20254ae3.json)
+
+---
 
 ### வீரமுனை 35 வது படுகொலை தினம் அனுஷ்டிப்பு
 
@@ -494,6 +516,52 @@ However, the statement clarified that this news is false and that she has not jo
 
 ---
 
+### Sri Lanka approves over 62,000 state jobs in last eight months: Minister
+
+*2025-08-12 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-over-62000-state-jobs-in-last-eight-months-minister-235817/) · `en`
+
+ECONOMYNEXT – Sri Lanka has approved 62,314 state sector jobs in the last eight months under the new government, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+“In the last eight months, 62,314 cadre positions have been approved to be recruited to state services,” he told reporters at the weekly Cabinet media briefing in Colombo on Tuesday.
+
+“Some have already been recruited. For some the exams are being held and for some others, the interviews are going on.”
+
+The new government’s recruitment drive comes against the last government’s move to shrink state sector jobs to reduce the budget deficit.
+
+However, Minister Jayatissa justified the move saying that the approval came due to vacancies existing in several ministries.
+
+He said approval had been given for the Defence Ministry to fill 12,433 cadre positions while 11,888 state jobs including government medical officers were approved for Media and Health Ministries. (Colombo/August 12/2025)
+
+◼️
+
+[Data](articles/a1ce4f19.json)
+
+---
+
+### Sri Lanka rupee weak against dollar, bonds steady
+
+*2025-08-12 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weak-against-dollar-bonds-steady-235752/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.95/301.05 to the US dollar in the spot market Tuesday, weaker from 300.85/301.00 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.85/95 percent, down from 8.88/95 percent.
+
+A bond maturing on 15.12.2029 closed at 9.38/40 percent, up from 9.38/41 percent.
+
+A bond maturing on 15.12.2032 closed at 10.22/25 percent, down from 10.25/33 percent.
+
+A bond maturing on 15.09.2032 closed at 10.75/85 percent. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/af32ac23.json)
+
+---
+
 ### දෙස් විදෙස් සංචාරකයින් නොමඟ යවන ආරුක්කු නවය පාලමේ ගැටලුව
 
 *2025-08-12 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213301) · `si`
@@ -588,6 +656,24 @@ The historic tri-party collaboration between the Ministry of Digital Economy, th
 
 ---
 
+### Sri Lanka 2032 bond bids rejected, 2035 bonds undersold
+
+*2025-08-12 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-2032-bond-bids-rejected-2035-bonds-undersold-235801/) · `en`
+
+ECONOMYNEXT – All bids for a 40 billion rupee offer of 2032 January 01 bonds were rejected, and 2035 bonds were undersold at an auction Tuesday, data from the state debt office showed.
+
+The debt office offered 25 billion rupees of 2035 June 15 bonds and 18.53 billion rupees were sold at a weighted average yield of 10.97 percent.
+
+There have been warnings that when private credit picks up, investors would move out of bonds if rates were cut to ‘signal’ rates down and the domestic ‘buffers’ cannot be used to suppress rates unless the money was previously deposited in the central bank as excess liquidity.
+
+But the use of excess liquidity repay bonds would lead to forex reserve losses amid a pick up in private credit. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/155f4859.json)
+
+---
+
 ### ඉන්දුනීසියාවට ප්‍රබල භූ කම්පනයක්
 
 *2025-08-12 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213299) · `si`
@@ -615,6 +701,24 @@ The historic tri-party collaboration between the Ministry of Digital Economy, th
 ...
 
 [Data](articles/159d7b28.json)
+
+---
+
+### India, Sri Lanka to conduct Navy exercise SLINEX-2025
+
+*2025-08-12 16:49:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-to-conduct-navy-exercise-slinex-2025-235798/) · `en`
+
+ECONOMYNEXT – Sri Lanka and India are set to conduct an annual bilateral maritime exercise, SLINEX-2025, in Colombo from August 14-18.
+
+The 12th annual Indian Navy and Sri Lanka Navy (SLN) exercise will be conducted in two phases; a harbour phase and a sea phase, the Indian High Commission said.
+
+“SLINEX-2025 aims to enhance inter-operability, improve mutual understanding and exchange best practices/ procedures in multi-faceted Maritime operations between both Navies.”
+
+The harbour phase would include sports fixtures, yoga session and cultural events which would provide an opportunity for personnel from both navies to learn from each other, re-inforce shared values and build bonds of friendship and camaraderie.
+
+...
+
+[Data](articles/2e1a885a.json)
 
 ---
 
@@ -714,6 +818,28 @@ The historic tri-party collaboration between the Ministry of Digital Economy, th
 
 ---
 
+### Sri Lanka stocks up 0.25-pct, pushed by banks
+
+*2025-08-12 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-0-25-pct-pushed-by-banks-235749/) · `en`
+
+ECONOMYNEXT – The Colombo Stocks Exchange’s All Share Price Index (ASPI) moved 0.25 percent ending a highly volatile day, brokers said.
+
+“We had a bit of selling pressure at the start of the day, but market recovered on buying interest,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI climbed 49.77 points higher from Monday to 19,972.79; while the S&P SL20 index ended 0.03 percent, or 1.65 points weaker, to close at 5,826.56.
+
+The ASPI was pushed higher on NDB which ended 3.50 rupees stronger at 700.50; Dialog Axiata which rose 0.80 rupees to 20.50; Carson Cumberbatch which ended 31.50 rupees up at 637.25; LOLC which moved 9.75 rupees up to 559.75; and Sampath Bank which closed 0.50 rupees higher at 144.75.
+
+“Stakes in NDB changed hands today. This boosted the turnover by around 4.4 billion rupees out of 7.5 billion overall turnover,” Mathew said.
+
+The most active volumes were recorded from banks and diversified financials, he said.
+
+...
+
+[Data](articles/095c5e4c.json)
+
+---
+
 ### மீகொடையில் துப்பாக்கிச் சூடு ; முன்னாள் பிரதேச சபை உறுப்பினர் உயிரிழப்பு
 
 *2025-08-12 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222400) · `ta`
@@ -743,6 +869,26 @@ European leaders and Ukrainian President Volodymyr Zelenskiy plan to speak with 
 ...
 
 [Data](articles/c41a3962.json)
+
+---
+
+### Sri Lanka Cabinet approves to call floating solar power consultancy
+
+*2025-08-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-to-call-floating-solar-power-consultancy-235754/) · `en`
+
+ECONOMYNEXT – Sri Lanka cabinet has approved a proposal for a consultancy firm to develop floating solar power panels in the island nation to reach its 70 percent carbon neutral target by 2030, Cabinet Spokesman Nalinda Jayatissa said.
+
+The ruling National People’s Power government has aimed to be totally carbon neutral in 2050, ten years later than the previous administration’s goal.
+
+Related: Sri Lanka to start flora spatial mapping, eyes carbon credit trading
+
+The government’s Renewable Energy Resources Development Plan 2026 – 2030 has identified promising reservoirs with 3,000 megawatt estimated floating solar power based on the 10% median surface utilization, Cabinet Spokesman and Minister of Health and Media Jayatissa said.
+
+“When you try to build solar panels on land, there is an issue of space because of limited land space. So, as an alternative, the government has focused on floating solar power panels,” he said.
+
+...
+
+[Data](articles/a1a82a1c.json)
 
 ---
 
@@ -839,6 +985,26 @@ He also holds a Bachelor of Business Administration in Human Resource Management
 ...
 
 [Data](articles/d8286e35.json)
+
+---
+
+### Sri Lanka to map its rubber plantations using GIS
+
+*2025-08-12 15:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-map-its-rubber-plantations-using-gis-235747/) · `en`
+
+ECONOMYNEXT – Sri Lanka will geo-locate rubber lands of small estate owners across the country and create a detailed database using Geographic Information System (GIS) technology, Minister Nalinda Jayatissa said.
+
+This is in response to the EU Deforestation Regulation (EUDR) that must be complied with when exporting rubber and rubber-related products to the bloc, a major market for Sri Lankan rubber, he said.
+
+“Sri Lanka will also have to comply with the new regulations after December 31, 2025 to ensure that rubber supply chains do not contribute to deforestation,” he told reporters.
+
+The project to create a digital system for mapping/registering rubber lands was approved by the cabinet.
+
+The EUDR policy is aimed at minimizing deforestation and forest degradation linked to agricultural commodities imported into the EU, and applies to commodities like wood, rubber, cattle, coffee, cocoa, palm oil, and soybean. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/7ea16100.json)
 
 ---
 
@@ -1569,155 +1735,5 @@ Earlier it was announced that the opposition drafted a no-confidence motion cons
 ◼️
 
 [Data](articles/78697a0e.json)
-
----
-
-### රාජ්‍ය සේවයට 62,000ක් කඩිනමින් බඳවා ගන්න කැබිනට් අනුමැතිය
-
-*2025-08-12 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213288) · `si`
-
-ආණ්ඩුව නූතනත්වයට ගෙන ඒම තම අපේක්ෂාව බව ජනාධිපති, අනුර කුමාර දිසානායක මහතා පවසයි.
-
-ජාතික තරුණ සමුළුවට එක්වෙමින් ජනාධිපතිවරයා පවසා සිටියේ, එලෙස නූතනත්වයට පත්කිරීමට දැනටමත් රාජ්‍ය සේවකයින් 62,000කට ආසන්න පිරිසක් කඩිනමින් බඳවා ගැනීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව ඇති බවය.
-
-"අපේ ආණ්ඩුව රැකියා සපයන මධ්‍යස්ථානයක් නොමේ. අපේ ආණ්ඩුව රැකියා උත්පාදනය කරන මධ්‍යස්ථානයක්. එහෙත් අපේ රාජ්‍ය සේවය රැකියා උද්පාදනයකට සමත්වන ආර්ථිකයක් නිර්මාණය කිරීමට, සමාජ සංස්ථාවක් නිර්මාණය කිරීමට සමත් වන ආණ්ඩුවක් අපට අවශ්‍යයි. අද අපේ ආණ්ඩුව ගත්තොත් සුන්බුන් ගොඩක එකතුවක්. අපේ ආණ්ඩුව නූතනත්වයට ගේනවා. ඒ සඳහා දැනටමත් අපි 62,000කට ආසන්න සංඛ්‍යාවක් රාජ්‍ය සේවයට බඳවා ගැනීම සඳහා කැබිනට් මණ්ඩලය විසින් අනුමතය ලබාදී තිබෙනවා."
-
-...
-
-[Data](articles/a7c586ee.json)
-
----
-
-### Largest meteor shower of 2025 visible tonight and tomorrow
-
-*2025-08-12 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111393/largest-meteor-shower-of-2025-visible-tonight-and-tomorrow) · `en`
-
-The largest meteor shower of 2025 will be visible from midnight today (12) and into early hours of tomorrow, according to Astrophysicist and Engineering Lecturer Gihan Weerasekera.
-
-He explained that this meteor shower, known as the Perseids, is named after the Perseus constellation in which it appears.
-
-The phenomenon will be best observed from the northern sky at around 5:00 a.m. tomorrow, according to experts.
-
-“The special feature of this meteor shower is that around 100 meteors can be seen in an hour, which is considered a large number. Such high meteor counts are rare and occur only in a few meteor showers,” Astrophysicist Gihan Weerasekera said.
-
-The Perseus constellation generally becomes visible above the horizon around midnight and rises steadily until dawn.
-
-“Therefore, the optimal viewing time is around 5:00 a.m., when observers looking towards the north will be able to witness up to 100 meteors in an hour,” Weerasekara stated.
-
-...
-
-[Data](articles/faeea4f5.json)
-
----
-
-### මෙරට මානව හිමිකම් තත්ත්වය ගැන වාර්තාවක්
-
-*2025-08-12 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213287) · `si`
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් මහ කොමසාරිස් වොල්කර් ටර්ක්, ස්විට්සර්ලන්තයේ ජිනීවා හි පැවැත්වෙන මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරයේදී “ශ්‍රී ලංකාවේ මානව හිමිකම් තත්ත්වය” යන මාතෘකාව යටතේ තම වාර්තාව ඉදිරිපත් කිරීමට නියමිතය තිබේ.
-
-මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරය සැප්තැම්බර් 8 වන දින ආරම්භ වන අතර එය  ඔක්තෝබර් 8 දක්වා පැවැත්වෙයි.
-
-මානව හිමිකම් පිළිබඳ එක්සත් ජාතීන්ගේ මහ කොමසාරිස් කාර්යාලය විසින් නිකුත් කරන ලද න්‍යාය පත්‍රයට අනුව, සැසිවාරයේ ආරම්භක දිනයේදී මහ කොමසාරිස් වොල්කර් ටර්ක් ශ්‍රී ලංකාව පිළිබඳ වාර්තාව ඉදිරිපත් කරනු ඇත.
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් වොල්කර් ටර්ක් ජුනි මාසයේදී ශ්‍රී ලංකාවේ දින හතරක නිල සංචාරයක නිරත වූ අතර, ඔහු වාර්තාවට එම  නිරීක්ෂණ ඇතුළත් කිරීමට නියමිතව තිබේ.
-
-එමෙන්ම චෙමනි සමූහ මිනීවළ පවතින ප්‍රදේශයේ ඔහු කළ සංචාර සම්බන්ධ තොරතුරු එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයට ඉදිරිපත් කිරීමට නියමිත වාර්තාවේ ප්‍රමුඛ ස්ථානයක් ගනු ඇතැයි ද අපේක්ෂා කෙරේ.
-
-...
-
-[Data](articles/f0b382f3.json)
-
----
-
-### வார இறுதி நாட்களுக்கான எல்ல கடுகதி ரயில் சேவை 16 ஆம் திகதி ஆரம்பம்
-
-*2025-08-12 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222384) · `ta`
-
-சுற்றுலாத்துறையையும் நெடுந்தூர பயண வசதியை மேம்படுத்தவும் கொழும்புக்கும் பதுளைக்கும் இடையில் வார இறுதி நாட்களுக்கான எல்ல விசேட கடுகதி ரயில் சேவை அறிமுகப்படுத்தப்படவுள்ளது.
-
-புதிய ரயில் சேவை எதிர்வரும் சனிக்கிழமை (16) காலை 5:30 மணிக்கு கொழும்பு கோட்டையில் இருந்து புறப்படும் மறுநாள் ஞாயிற்றுக்கிழமை (17) பிற்பகல் 1:45 மணிக்கு பதுளையில் இருந்து புறப்பட்டு, அதே நாளில் கொழும்பு கோட்டையை வந்தடையும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
-
-மிகவும் அழகிய ரயில் பாதைகளில் ஒன்றிற்கு உள்ளூர் மற்றும் வெளிநாட்டு பயணிகளை ஈர்ப்பதை நோக்கமாகக் கொண்டு இந்த சேவை அமைந்துள்ளது என ரயில் திணைக்களம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/6df67005.json)
-
----
-
-### රාජ්‍ය භාරදීමට සුදුසුකම් සහිත තරුණ ව්‍යාපාරයක් අපි ගොඩනගන්න ඕනී
-
-*2025-08-12 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-භාරදීමට-සුදුසුකම්-සහිත-තරුණ-ව්‍යාපාරයක්-අපි-ගොඩනගන්න-ඕනී/11-417864) · `si`
-
-රාජ්‍ය භාරදීමට සුදුසුකම් සහිත තරුණ ව්‍යාපාරයක්  ගොඩනැගිය යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-ජාතික තරුණ සමුළුවේ සමාරම්භක අවස්ථාවට අද (12දා) එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
-
-“අපේ ව්‍යායාමය මේ රාජ්‍ය භාරදීමට සුදුසුකම් සහිත තරුණ ව්‍යාපාරයක් අපි ගොඩනගන්න ඕනී. ඔබ ඊට අවශ්‍ය සුදුසුකම් සපුරා ගන්න තරුණ ව්‍යාපාරයක් බවට පත්වෙන්න කියලා ආරාධනය සහ ඉල්ලීම මම ඔබට කරනවා. ”
-
-◼️
-
-[Data](articles/52dcaf4e.json)
-
----
-
-### City of Dreams Sri Lanka-வில் HNB வங்கியின் புதிய 24 மணி சேவை கிளை திறப்பு
-
-*2025-08-12 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222385) · `ta`
-
-இலங்கையின் முன்னணி தனியார் வங்கி HNB PLC, கொழும்பு மையத்தில் அமைந்துள்ள மிகப்பெரிய ஒருங்கிணைந்த பொழுதுபோக்கு வளாகமான City of Dreams Sri Lankaவில் புதிய 24 மணி சேவை கிளையைத் திறந்து வைத்துள்ளது.
-
-இந்த புதிய கிளை, வாடிக்கையாளர்களுக்கு முழுமையான வங்கிச் சேவைகளை நேரடியாக பெறுவதற்கான வாய்ப்பை வழங்கும் முக்கிய இடமாக அமைகிறது. இதில் ஆலோசனை சேவைகள், தன்னியக்க-சேவை இயந்திரங்கள் உள்ளிட்ட HNBவின் முழுமையான சேவைகள் கிடைக்கும்.
-
-City of Dreams Sri Lanka என்பது 1.2 பில்லியன் அமெரிக்க டொலருக்கு மேலான முதலீட்டில் உருவாக்கப்பட்ட, 800 அறைகள் கொண்ட சொகுசு ஹோட்டல், உணவகங்கள், ஷாப்பிங் மையங்கள், நிகழ்வுகள் மற்றும் விருந்தோம்பல் வசதிகள் போன்றவற்றை உள்ளடக்கிய மிகப்பெரிய சுற்றுலா மற்றும் வணிக வளாகமாகும்.
-
-Melco Resorts and Entertainment Limited (Melco) நிறுவனத்தின் துணை நிறுவனமான City of Dreams Sri Lanka, உலகளாவிய ஒருங்கிணைந்த சுற்றுலா மையமாக செயல்படுகிறது. HNB, Melcoவின் இலங்கை நடவடிக்கைகளுக்கான முக்கிய வங்கிப் பங்காளியாக இருந்து, வங்கி-பொழுதுபோக்கு துறைகளுக்கு இடையேயான உறவுகளை வலுப்படுத்துகிறது.
-
-...
-
-[Data](articles/2a036f00.json)
-
----
-
-### Horana Urban Council sessions postponed for 14 days due to dispute among UNP members
-
-*2025-08-12 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111392/horana-urban-council-sessions-postponed-for-14-days-due-to-dispute-among-unp-members) · `en`
-
-The Horana Urban Council sessions have been postponed for 14 days due to a dispute among United National Party (UNP) members.
-
-It has been reported that the situation arose following a conflict of opinion among UNP councillors.
-
-Previously, a UNP councillor from the council had submitted his resignation on July 1.
-
-Following this, the National Election Commission appointed a new member to fill the vacant position and sent the appointment to the council.
-
-However, during the council session held today (12), both the newly appointed councillor and the previously resigned councillor were present.
-
-During the session, the councillor who had resigned attempted to withdraw his resignation and reclaim his position.
-
-Due to the resulting dispute, the Chairman of the Urban Council decided to postpone the council sessions for a period of 14 days.
-
-◼️
-
-[Data](articles/6e20cd6a.json)
-
----
-
-### திருகோணமலை டச்சுக்குடா கடற்கரையில் சட்டவிரோத கடை அகற்ற அறிவித்தல்
-
-*2025-08-12 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222386) · `ta`
-
-திருகோணமலை மாவட்ட கரையோர பாதுகாப்புத் திணைக்களம், டச்சுக்குடா கடற்கரையில் பெளத்த விகாரைக்கு அண்மையில் சட்டவிரோத முறையில் நிறுவப்பட்ட கடையை உடைத்து அகற்றும் அறிவித்தலை செவ்வாய்க்கிழமை (12) உரிய கடைவாசலில் ஒட்டியுள்ளது.
-
-அறிவித்தலின் படி, இன்று முதல் 14 நாட்களுக்குள் அந்த கடையை அமைத்தவர்கள் தாமாகவே கட்டுமானங்களை உடைத்து அகற்ற வேண்டும் என்று கேட்டுக் கொள்ளப்பட்டுள்ளது.
-
-குறித்த காலக்கெடு முடிந்த பின்னரும் நிர்மாணங்கள் அகற்றப்படாவிட்டால், கரையோர பாதுகாப்பு திணைக்களம் அவற்றை உடைத்து அகற்றும் நடவடிக்கை எடுக்கும் என்று அறிவித்தலில் தெளிவாக குறிப்பிடப்பட்டுள்ளது.
-
-ஏற்கனவே இந்த இடத்தில் தற்காலிக கடை ஒன்றை அமைப்பதற்கு மட்டுமே தமது திணைக்களம் உரிமையாளருக்கு அனுமதி வழங்கி இருந்தது.ஆனால் அந்த அனுமதியை பயன்படுத்தி சட்டத்திற்கு முரணாக இங்கு நிரந்தர கட்டுமாணம் அமைக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/f77c8061.json)
 
 ---

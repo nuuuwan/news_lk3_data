@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 05:31:09**
+As of **2025-08-12 06:09:45**
 
 ## Newspaper Stats
 
-*Scraped **69,979** Articles*
+*Scraped **69,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 714
 economynextcom | 4,259
-islandlk | 4,279
+islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,742
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.6%) of 69,979 articles have been extended.
+61,973 (88.5%) of 69,991 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -532,6 +532,24 @@ After a spectacular 69.69% year-on-year rally that has catapulted the Colombo St
 
 ---
 
+### Life-time experience …
+
+*2025-08-11 22:55:00* · [`islandlk`](http://island.lk/life-time-experience/) · `en`
+
+It certainly would be a life-time experience to be a part of a concert featuring the legendary Stevie Wonder, live in action.The Wonder boy, as you all know, is now totally blind, but he wasn’t born blind.According to Stevie, shortly after his birth he became blind and he often says: “Now, that was a blessing because it allowed me to see the world in the vision of truth, of sight.
+
+“See people in the spirit of them, not how they look, not what colour they are, but what colour is their spirit.”
+
+Inoka De Silva, from Sri Lanka, and now residing in the UK, checked out Stevie Wonder’s performance at Hyde Park, London, on 12 July, 2025, which was a part of his ‘LOVE, LIGHT & SONG’ UK tour, and says it was one of the best shows she has experienced.
+
+Inoka De Silva: Memorable experience seeing Stevie Wonder at ‘LOVE, LIGHT & SONG’ concert
+
+...
+
+[Data](articles/c27a1437.json)
+
+---
+
 ### Over 120,000 arrested on drug-related offenses so far this year
 
 *2025-08-11 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111373/over-120000-arrested-on-drug-related-offenses-so-far-this-year) · `en`
@@ -567,6 +585,22 @@ Additionally, a total of 118 drunk drivers have been apprehended while legal act
 ...
 
 [Data](articles/aaa31fdb.json)
+
+---
+
+### Do they kill elephants using the App? Why that question misses the point entirely
+
+*2025-08-11 21:59:00* · [`islandlk`](http://island.lk/do-they-kill-elephants-using-the-app-why-that-question-misses-the-point-entirely/) · `en`
+
+“Do they use the app to kill elephants?” It’s a question that’s been floating around social media and public discourse lately. But for those involved in the field—people who’ve spent years working to mitigate human-elephant conflict—the question seems not only absurd but dangerously misinformed.
+
+“It’s hard not to laugh,” says Vinura Abeyrathne,the youngster who cereated the Elephant App, with the support of team members who helped craft Sri Lanka’s National Policy for Minimising Human-Elephant Conflict (2020). “Because if that was really the case, what were people using during the past 70 years when elephants were shot? They didn’t have an app then, did they?”
+
+Vinura, along with Wildlife Ranger Saman Hallholuwa, is part of a team behind the Elephant Journey mobile app, a community-based conservation tool aimed at increasing public awareness and real-time reporting of elephant movements to reduce conflict and improve safety for both humans and elephants.
+
+...
+
+[Data](articles/83753bfc.json)
 
 ---
 
@@ -629,6 +663,54 @@ The local company operating the site had reportedly been conducting ilmenite pro
 ...
 
 [Data](articles/1c13453d.json)
+
+---
+
+### HSBC awarded Best International Bank in Sri Lanka by Euromoney for the second consecutive year
+
+*2025-08-11 21:47:00* · [`islandlk`](http://island.lk/hsbc-awarded-best-international-bank-in-sri-lanka-by-euromoney-for-the-second-consecutive-year/) · `en`
+
+HSBC has been recognised as the Best International Bank in Sri Lanka by Euromoney for the second year in a row in their Awards for Excellence 2025.
+
+The award recognises HSBC’s leadership in banking innovation, corporate sustainability, and financial stability, noting that the bank deepened its digital reach, achieving 98% digital penetration in cash‑management and 84% in trade transactions via HSBCNet, and rolled out a fully digital account‑opening process.
+
+...
+
+[Data](articles/c0132eb4.json)
+
+---
+
+### CEAT ranks as Sri Lanka’s Most Valuable Tyre Brand in 2025 Brand Finance Report
+
+*2025-08-11 21:46:00* · [`islandlk`](http://island.lk/ceat-ranks-as-sri-lankas-most-valuable-tyre-brand-in-2025-brand-finance-report/) · `en`
+
+Elevated to 6th strongest consumer brand in the country; brand value up 15% year-on-year
+
+CEAT, Sri Lanka’s highest-selling pneumatic tyre brand, has once again reaffirmed its leadership in the country’s automotive sector by being ranked the ‘Most Valuable Tyre Brand in Sri Lanka’ for 2025 in the latest edition of the Brand Finance Lanka rankings.
+
+According to the report by Brand Finance – the world’s leading brand valuation consultancy – CEAT has grown its brand value by 15% to Rs 2.325 billion, securing 44th place overall among Sri Lanka’s 100 most valuable brands.
+
+Notably, CEAT has also been recognised as the 6th strongest consumer brand in the country based on its Brand Strength Index (BSI) score of 83.3/100, and retains its AAA- brand strength rating, a distinction shared by only a handful of top-tier brands in the island.
+
+Globally, CEAT is ranked the eighth strongest tyre brand by Brand Finance.
+
+...
+
+[Data](articles/d69fdfb2.json)
+
+---
+
+### Dialog sustains growth momentum, delivering strong 1H 2025 performance
+
+*2025-08-11 21:45:00* · [`islandlk`](http://island.lk/dialog-sustains-growth-momentum-delivering-strong-1h-2025-performance/) · `en`
+
+Dialog Axiata PLC announced its consolidated financial results for the six months ended 30th June 2025. Financial results included those of Dialog Axiata PLC (the “Company”) and of Dialog Axiata Group (the “Group”).
+
+The Group delivered robust results across its Mobile, Fixed Line, Digital Pay Television, and Tele-infrastructure businesses, achieving 6% year-to-date (“YTD”) revenue growth to Rs87.4Bn in 1H 2025. This was despite the strategic scaling down of low-margin international wholesale business, amounting to approximately Rs10Bn. On a quarter-on-quarter (“QoQ”) basis, revenue increased 2% to Rs44.1Bn, driven primarily by data revenue expansion. Core revenue for the period reached Rs84.2Bn, up 21% YTD.
+
+...
+
+[Data](articles/345c071e.json)
 
 ---
 
@@ -1683,95 +1765,5 @@ The ITAK Secretary also called for the removal of what it terms the “excessive
 ◼️
 
 [Data](articles/1c01ec6a.json)
-
----
-
-### வெள்ளிக்கிழமை ஹர்த்தாலை ஆதரிக்கிறோம் : வடகிழக்கில் இராணுவ பிரசன்னத்தை குறைக்க வேண்டும் - மனோ கணேசன்
-
-*2025-08-11 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222313) · `ta`
-
-“நீதியான விசாரணை”, “வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை (15) நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம் என தெரிவித்து அறிக்கையொன்றை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
-
-ஐந்து தமிழ் இளைஞர்கள், 8 ஆம் திகதி முத்தையன் கட்டு இராணுவ முகாமுக்கு சிப்பாய்களால் அழைத்து செல்லப்பட்டுள்ளனர். பின்னர் அவர்கள் அந்த முகாமில் இருந்து தப்பி சென்றதாக கூறப்படுகிறது. தப்பிச் சென்றவர்களில் ஒருவரான, கபில்ராஜ், 9 ஆம் திகதி  முல்லை முத்தையன் கட்டு குளத்தில் சடலமாக மீட்கபட்டுள்ளார். தப்பிச் சென்ற ஏனைய நால்வர், தம்மை இராணுவத்தினர் கடுமையாக தாக்கி சித்திரவதை செய்ததாக குற்றம் சாட்டியுள்ளனர். ஆகவே என்ன நடந்தது என்பதை ஊகிப்பது கடினமானது அல்ல.
-
-இந்த சம்பவத்தை அடிப்படையாக கொண்டு இலங்கை தமிழரசு கட்சி, “நீதியான விசாரணை”, “ வடகிழக்கில் இருந்து மேலதிக இராணுவம் குறைப்பு” ஆகிய கோரிக்கைகளை முன்வைத்து வெள்ளிக்கிழமை நடத்தும் முழு அடைப்பு என்ற ஹர்த்தாலை தாம் ஆதரிக்கிறோம்.
-
-...
-
-[Data](articles/12181ce8.json)
-
----
-
-### Sri Lanka stocks rise 0.49-pct on banks, S&P SL20 dips
-
-*2025-08-11 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-rise-0-49-pct-on-banks-sp-sl20-dips-235503/) · `en`
-
-ECONOMYNEXT – Colombo’s All Share Price Index (ASPI) rose 0.49 percent on investor interest in the banking sector, brokers said.
-
-“Today the market was a bit bullish. Market was driven by the banking sector counters – mainly Commercial bank and HNB,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-Investors were anticipating the release of quarterly results from Commercial Bank and HNB next week, he added.
-
-The ASPI climbed 96.45 points higher from Thursday to 19,923.02; while the S&P SL20 index ended 0.01 percent, or 0.48 points weaker, to close at 5,824.91.
-
-Prime Lands was trading 0.10 rupees higher at 19.50 rupees, Colombo City Holdings 0.65 rupees up at 93.00 while Overseas Realty (Ceylon) fell 1.41 rupees to 35.00 rupees.
-
-“There was buying interest in John Keells Holdings shares in the first half of the day but selling pressure came in during the second half,” he said.
-
-...
-
-[Data](articles/ee47ba30.json)
-
----
-
-### සෞඛ්‍ය ඇමති සමග එළැඹි එකඟතා ක්‍රියාත්මක කිරීම ප්‍රමාද කර ඇතැයි GMOA වෙතින් චෝදනා
-
-*2025-08-11 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213258) · `si`
-
-වෛද්‍යවරුන්ගේ ස්ථාන මාරු ක්‍රියාවලියේ සිදුව ඇති අක්‍රමිකතා නිවැරදි කිරීම සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යවරයා සමග එළැඹි එකඟතාවන් ක්‍රියාත්මක කිරීම ප්‍රමාද කර ඇතැයි රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය චෝදනා කරයි.
-
-එම සංගමය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ පසුගිය මාස කිහිපය තුළ සෞඛ්‍ය අමාත්‍යාංශ තුළ ස්ථාන මාරු ලැයිස්තු සකස් කිරීම, ස්ථාන මාරු නියෝග ක්‍රියාත්මක කිරීම, රෝහල්වල පුරප්පාඩු සැපිරීම යන කරුණු නිවැරදිව සිදු නොවූ බවත් ඒ තුළින් උද්ගත වූ තත්ත්වයන් හමුවේ සිය සංගමය වෘත්තිය ක්‍රියාමාර්ග ගැනීම පිළිබඳව සලකා බැලීමට ද සිදුවූ බවය.
-
-කෙසේ වෙතත් මේ වන තුරු සෞඛ්‍ය අමාත්‍යවරයා දුන් වාචික පොරොන්දු ක්‍රියාත්මක කිරීමට සෞඛ්‍ය අමාත්‍යාංශයේ උසස් නිලධාරීන් ක්‍රියාත්මක නොවීම සිය සංගමයයේ දැඩි අප්‍රසාදයට හේතු වී ඇති බවද රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
-
-...
-
-[Data](articles/6b758761.json)
-
----
-
-### மன்னார் காற்றாலை, கனிய மணல் அகழ்வுக்கு எதிராக 9ஆம் நாளாகத் தொடர் போராட்டம்: பல்வேறு கிராம மக்கள் ஆதரவு
-
-*2025-08-11 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222318) · `ta`
-
-மன்னாரில் மக்களின் எதிர்ப்பையும் மீறி முன்னெடுக்கப்பட்டு வரும் 2வது கட்ட காற்றாலை மின் கோபுரங்கள் அமைத்தல் மற்றும் கனிய மணல் அகழ்வு ஆகிய திட்டங்களுக்கு எதிராக, மன்னார் பஜார் பகுதியில் கடந்த ஒன்பது நாட்களாக தொடர் போராட்டம் நடைபெற்று வருகிறது. இன்று திங்கட்கிழமை, இந்தப் போராட்டத்திற்கு ஆதரவு தெரிவித்து பல்வேறு கிராம மக்களும் கலந்துகொண்டனர்.
-
-ஞாயிற்றுக்கிழமை (11) மன்னார் தீவுப் பகுதியில் 2வது கட்ட காற்றாலை மின் கோபுரங்கள் அமைப்பதற்கான பாகங்கள் கனரக வாகனங்களில் கொண்டு வரப்பட்டபோது, தள்ளாடி சந்தியில் மக்கள் ஒன்றுதிரண்டு எதிர்ப்பைத் தெரிவித்தனர். அதிலிருந்து, தள்ளாடி மற்றும் மன்னார் சுற்றுவட்டப் பகுதிகளில் பொது அமைப்புகள் மற்றும் மக்கள் சுழற்சி முறையில் இந்தப் போராட்டத்தை நடத்தி வருகின்றனர்.
-
-மக்களின் கடும் எதிர்ப்பையும் மீறி, காற்றாலை கோபுரங்களுக்கான பாகங்கள் பலத்த பொலிஸ் பாதுகாப்புடன் மன்னார் நகரத்திற்குள் கொண்டு வரப்பட்டபோதும், மக்களின் போராட்டம் வலுவடைந்துள்ளது.
-
-...
-
-[Data](articles/acec85d2.json)
-
----
-
-### மட்டு. ரயில் மோதி இளைஞன் பலி
-
-*2025-08-11 16:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-ரயில்-மோதி-இளைஞன்-பலி/175-362704) · `ta`
-
-மட்டக்களப்பு கொக்குவில் பொலிஸ் பிரிவிலுள்ள சவுக்கடி பிரதேசத்தில் ரயில் தண்டவாளத்தில் நின்று கையடக்கத் தொலைபேசியில் உரையாடிக் கொண்டிருந்த போது ரயில் மோதியதில் 23 வயதுடைய ஆண் ஒருவர் உயிரிழந்த சம்பவம் ஞாயிற்றுக்கிழமை (10) அன்று இரவு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மட்டக்களப்பு ஊறணி யைச் சேர்ந்த 23 வயதுடைய நாகேந்திரன் கரிகரராஜ் என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டார்
-
-குறித்த நபர்  மனைவியுடன் ஏற்பட்ட சண்டையில் அடுத்து சம்பவ தினமான ஞாயிற்றுக்கிழமை (10)  அன்று இரவு தண்டவாளத்தில் நின்று கொண்டு மனைவியிடம் தொலைபேசியில் பேசி சண்டை பிடித்துக் கொண்டுள்ள நிலையில் மட்டக்களப்பில் இருந்து கொழும்பு நோக்கி பிரயாணித்த ரயிலில் மோதியதில் சம்பவ இடத்தில் உயிரிழந்துள்ளார்
-
-இதனையடுத்து குறித்த சடலத்தை மீட்டு ஏறாவூர் புகையிரத நிலையத்தில் ஒப்படைத்து விட்டு ரயில் கொழும்பு நோக்கி பிரயாணித்தது
-
-இது தொடர்பாக ஏறாவூர் மற்றும் கொக்குவில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/a061d98e.json)
 
 ---

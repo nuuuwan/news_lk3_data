@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 17:17:31**
+As of **2025-08-12 17:30:46**
 
 ## Newspaper Stats
 
-*Scraped **70,139** Articles*
+*Scraped **70,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,759
 adaderanalk | 8,740
 tamilmirrorlk | 10,287
 virakesarilk | 11,691
-adaderanasinhalalk | 12,083
+adaderanasinhalalk | 12,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,139 articles have been extended.
+61,973 (88.4%) of 70,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### දෙස් විදෙස් සංචාරකයින් නොමඟ යවන ආරුක්කු නවය පාලමේ ගැටලුව
+
+*2025-08-12 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213301) · `si`
+
+ආරුක්කු නවය පාලම ආලෝකමත් කර ඇති බවට සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන වීඩියෝ දැක එම අත්දැකීම සැබෑ ලෙස විඳගැනීමට පැමිණ අපහසුතාවට පත්වන දෙස් විදෙස් සංචාරකයින් පිළිබඳ පුවතක් වාර්තා වී තිබේ.
+
+කෙසේ වෙතත් එම ප්‍රදේශයේ විශේෂ ආලෝක පද්ධතියක් සැකසෙමින් පැවතුනත් තවමත් එහි වැඩ අවසන්ව නොමැත.
+
+ආරුක්කු නවය පාලම, නයින් ආර්ච් බ්‍රිජ් ඇල්ල සංචාරක කලාපයේ කාගේත් වැඩි අවධානයක් දිනාගත් සංචාරක ගමනාන්තයකි.
+
+විදේශිය සංචාරකයින් පවා විශාල පිරිසක් මෙම ස්ථානයට පැමිණෙන්නේ මෙම නිමැවුමේ ඇති අපූර්වත්වය සියැසින් දැකබලා ගැනීම සඳහාය.
+
+ආරුක්කු නවය පාලමට ඇති සංචාරක ආකර්ෂණය තවත් වැඩි කරගැනීම සඳහා එම පාලම සහ එහි දුම්රිය බිංගෙය ආලෝකමත් කිරීමට රජය සැලසුම් කර ඇත.
+
+ඒ සඳහා විශේෂ අලෝක පද්ධතියක් මේ වන විට ඉදිකෙරෙමින් ඇති අතර එම කටයුතු අවසන් වී නොමැත.
+
+නමුත් ආරුක්කු නවයේ පාලම ආලෝකවත් කර ඇති බව දැක්වෙන, කෘත්‍රිම බුද්ධිය හරහා සකස් කළ නොමඟයවන සුළු වීඩියෝ දර්ශන සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීම නිසා දෙස් විදෙස් සංචාරකයින් එය සත්‍යයක් යැයි සිතා මෙම ස්ථානය පැමිණෙන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/ff0921b3.json)
+
+---
 
 ### மாவட்ட அபிவிருத்திக்கு ரூ. 2,000 மில்லியன் ஒதுக்க அமைச்சரவை ஒப்புதல்
 
@@ -1729,27 +1753,5 @@ ECONOMYNEXT – Sri Lanka’s recent exchange rate stability is providing invest
 ◼️
 
 [Data](articles/78179cf7.json)
-
----
-
-### Sri Lanka rupee weak against dollar, bonds steady
-
-*2025-08-12 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weak-against-dollar-bonds-steady-235632/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.95/301.05 to the US dollar in the spot market Tuesday, weaker from 300.85/301.00 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.06.2029 was quoted at 9.28/30 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.36/38 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.39/40 percent from 9.38/41 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.45/50 percent.
-
-The Colombo Stock Exchange was trading in red; The ASPI was down 0.22 percent, or 43.69 points, at 19,879.33, while the S&P SL20 was down 0.29 percent, or 17.11 points, at 5,807.80. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/e6f28ff7.json)
 
 ---

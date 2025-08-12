@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 07:16:59**
+As of **2025-08-12 08:07:18**
 
 ## Newspaper Stats
 
-*Scraped **69,994** Articles*
+*Scraped **70,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,69 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 714
-economynextcom | 4,259
+economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,742
 adaderanalk | 8,710
-tamilmirrorlk | 10,243
+tamilmirrorlk | 10,245
 virakesarilk | 11,672
-adaderanasinhalalk | 12,061
+adaderanasinhalalk | 12,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 69,994 articles have been extended.
+61,973 (88.5%) of 70,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### ණය ගෙවා අවසන් වනතුරු ඉන්ධන සඳහා බදු අඩු කළ නොහැකියි  බලශක්ති ඇමති
+
+*2025-08-12 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213276) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව විසින් ලබාගෙන ඇති ණය ගෙවා අවසන් කරනතුරු ඉන්ධන සඳහා පනවා ඇති බදු ඉවත් කිරීමට හැකියාවක් නොමැති බව බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ අදාළ බදු ඉවත් කිරීම සිදුකළහොත් ණය ගෙවීමට නොහැකි තත්ත්වයක් උද්ගත වන බවය.
+
+ඊයේ රාත්‍රී (11) ටීවී දෙරණ ඔස්සේ විකාශය වූ 360 කාලීන වැඩසටහන සමග එක්වෙමින් බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා මේ බව සදහන් කළේය.
+
+◼️
+
+[Data](articles/c43fca73.json)
+
+---
+
+### கிளிநொச்சியில் பெண் கொலை
+
+*2025-08-12 06:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-பெண்-கொலை/175-362736) · `ta`
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட ஊற்றுப்புலம் பகுதியில் உள்ள வீடொன்றில் தனிமையில் வசித்து வந்த பெண்ணே படுகொலை செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/62532ee8.json)
+
+---
+
+### மன்னாரில் நேற்று நள்ளிரவில் பதற்ற நிலை
+
+*2025-08-12 06:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-நேற்று-நள்ளிரவில்-பதற்ற-நிலை/175-362735) · `ta`
+
+மன்னாரில் மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்படும் காற்றாலை மின் கோபுரத்தின் பாரிய உதிரிப் பாகங்களை ஏற்றி வந்த வாகனத்தை நேற்று நள்ளிரவு மன்னார் தீவுப் பகுதிக்குள் நுழைய விடாமல் மக்கள் வழிமறித்துப் போராட்டம் நடத்தியமையை அடுத்து அந்தப் பகுதியில் பெரும் பதற்றம் ஏற்பட்டிருக்கின்றது.
+
+காற்றாலை திட்டத்துக்கு எதிராக மக்கள் நடத்தி வரும் போராட்டம் 10 ஆவது  நாளை எட்டும் நிலையில் நேற்று நள்ளிரவு காற்றாலை உபகரணங்களை ஏற்றி வந்த பாரிய வாகனத்தை மன்னார் தீவுக்கு நுழையும் வாசலான மன்னார் நீதிமன்ற மூன்றலில் மக்கள் வழிமறித்துத் தடுத்தனர்.
+
+நேற்று பின்னிரவில் தொடங்கிய இந்த வழிமறிப்பில் நாடாளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன், முன்னாள் நாடாளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன், மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றியத் தலைவர் வி.எஸ்.சிவகரன் மற்றும் மன்னார் பிரஜைகள் குழு, பொது அமைப்புக்கள், சிவில் அமைப்புகள் ஆகியவற்றின் முக்கிய பிரமுகர்கள், பொதுமக்கள் எனப் பெரும் எண்ணிக்கையானோர் அங்கு திரண்டு இருந்தனர். (a)
+
+◼️
+
+[Data](articles/49007c0c.json)
+
+---
 
 ### ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව අද යළි රැස්වෙයි
 
@@ -91,6 +135,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f3c033c5.json)
+
+---
+
+### Sri Lanka 2×50 MW wind power tender in Mullikulam gets 7 bids
+
+*2025-08-12 05:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-2x50-mw-wind-power-tender-in-mullikulam-gets-7-bids-235614/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has received bids from seven companies for a tender to build two 50 MegaWatt wind plants in Mullikulam, Power and Energy Minister Kumara Jayakody said.
+
+“Nineteen parties took documents, seven parties submitted bids,” Minister Jayakody told a talk show by Sri Lanka’s Derana Television.
+
+The financial evaluation of the tender may now be close and technical evaluation was probably finished, he said.
+
+RELATED : Sri Lanka’s Mullikulam 100MW BOO wind farm gets strong investor interest
+
+Sri Lanka’s Mannar coast, where Mullikulam is located has some of the strongest wind systems in the country.
+
+Also in Mannar the last plant was awarded at 4.65 cents a unit.
+
+Under changes passed to Sri Lanka’s Electricity Act, private investments into generation would continue, Minister Jayakody said. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/56a4eaeb.json)
 
 ---
 
@@ -1076,6 +1144,26 @@ It is reported that he was arrested by CID officers on suspicion while he was le
 
 ---
 
+### Sri Lanka President moots transforming dairy and livestock farming in pre-budget discussion
+
+*2025-08-11 19:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-moots-transforming-dairy-and-livestock-farming-in-pre-budget-discussion-235597/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake had met key officials on strategies to improve dairy and livestock farming in a pre-budget discussion, as part of efforts to develop the rural economy, his office said.
+
+“Highlighting the strategic importance of the livestock sector, the President announced that the upcoming budget would place special emphasis on transforming local dairy production and livestock farming into fully-fledged industries,” the statement said.
+
+The President issued directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system.
+
+Financial allocations alone are insufficient, and mechanisms are need ensure that benefits of projects are effectively delivered to the public, he had said.
+
+Sri Lanka has import controls on maize, a key input to animal feed, which is keeping protein prices up in a country where little children suffer malnutrition, analysts have pointed out.
+
+...
+
+[Data](articles/e112330e.json)
+
+---
+
 ### කෝටි ගාණක රත්‍රං බිස්කට් තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
 
 *2025-08-11 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213268) · `si`
@@ -1679,99 +1767,5 @@ Furthermore, it is alleged that several clauses of the bill infringe upon the so
 ◼️
 
 [Data](articles/e70ee795.json)
-
----
-
-### சிறுவர்களிடையே எலிக்காய்ச்சல் பரவல் அதிகரிப்பு - விசேட வைத்திய நிபுணர்
-
-*2025-08-11 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222323) · `ta`
-
-சிறுவர்களிடையே ஆபத்தான எலிக்காய்ச்சல் நோய் (லெப்டோஸ்பிரோசிஸ்) பரவல் தற்போது அதிகரித்து வருவதாக கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
-
-கொழும்பில் இன்று திங்கட்கிழமை (11) நடைபெற்ற ஊடக சந்திப்பின் போது அவர் இதனை தெரிவித்துள்ளார்.
-
-எலிக்காய்ச்சல் நோய் என்பது  பெரும்பாலும் மாசுபட்ட மற்றும் சேற்று நீரை வெளிப்படுத்துவதன் மூலம் ஏற்படும் பற்றீரியா தொற்று ஆகும்.
-
-பாடசாலை விடுமுறை நாட்களில் இந்த நோய் அதிகரித்து வருகிறது. சிறுவர்கள் பெரும்பாலும் நெல் வயல்கள் அல்லது திறந்தவெளிகளுக்கு காற்றாடியை பறக்க விடுவது போன்ற செயல்பாடுகளால் நிகழ்கின்றன.  இது நோய்கள் அதிகரிப்பதற்கு முக்கிய காரணியாகும்.
-
-காய்ச்சல் சுமார் ஐந்து முதல் ஆறு நாட்கள் வரை நீடித்தால், அது எலிக்காய்ச்சலின் அறிகுறியாக இருக்கலாம்.
-
-கண்கள் சிவத்தல் அல்லது மஞ்சள் நிறமாக மாறுதல், வயிற்று வலி மற்றும் அடர் மஞ்சள் சிறுநீர் ஆகியவை ஏனைய அறிகுறிகளாகும்.
-
-உலகளவில் எலி காய்ச்சல் தொற்றுகள் காணப்பட்டாலும், வெப்பமண்டலப் பகுதிகளில் இது மிகவும் பொதுவான ஒன்றாக காணப்படுகிறது.
-
-...
-
-[Data](articles/e6f625f3.json)
-
----
-
-### Israel condemned for assassinating prominent Gaza journalist in latest killings
-
-*2025-08-11 16:41:00* · [`economynextcom`](https://economynext.com/israel-condemned-for-killing-prominent-gaza-journalist-235520/) · `en`
-
-ECONOMYNEXT – Israel’s assassination of five Al Jazeera staff in Gaza, including prominent correspondent Anas al-Sharif, has drawn global condemnation from the UN and its Human Rights Office as well as many international bodies.
-
-Israel hit the tent with journalists positioned outside the main gate of Gaza City’s al-Shifa Hospital on Sunday night in a drone attack, killing seven people.
-
-Al Jazeera correspondent Mohammed Qreiqeh and camera operators Ibrahim Zaher, Moamen Aliwa and Mohammed Noufal were among those killed in the attack.
-
-The Palestinian mission to the United Nations accused Israel of “deliberately assassinating” al-Sharif and Qreiqeh, describing them as among the “last remaining journalists” in Gaza.
-
-“Known for his fearless reporting from northern Gaza, he had become one of the most recognisable voices documenting the ongoing Israeli genocide in the enclave,” Al Jazeera said.
-
-...
-
-[Data](articles/dbb352db.json)
-
----
-
-### Sri Lanka rupee weak against dollar, bonds steady
-
-*2025-08-11 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weak-against-dollar-bonds-steady-235546/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 300.85/301.00 to the US dollar in the spot market Monday, weaker from 300.70/78 Thursday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed at 8.45/55 percent, up from 8.40/50 percent.
-
-A bond maturing on 15.12.2028 closed at 8.88/95 percent, up from 8.85/92 percent.
-
-A bond maturing on 15.12.2029 closed at 9.38/41 percent, up from 9.38/40 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/33 percent, down from 10.27/33 percent. (Colombo/Aug11/2025)
-
-◼️
-
-[Data](articles/8ed77995.json)
-
----
-
-### President discusses pre-budget proposals for 2026 with officials
-
-*2025-08-11 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111357/president-discusses-pre-budget-proposals-for-2026-with-officials) · `en`
-
-President Anura Kumara Dissanayake has chaired a meeting this morning (11) at the Presidential Secretariat to review projects implemented under the 2025 budget allocations for the Ministry of Agriculture, Livestock, Land and Irrigation, and to discuss pre-budget proposals for 2026.
-
-President Dissanayake held separate discussions with officials on agriculture, livestock, land and irrigation, issuing directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system, the President’s Media Division said in a statement.
-
-...
-
-[Data](articles/db991bd9.json)
-
----
-
-### President discusses pre-budget proposals for 2026 with officials
-
-*2025-08-11 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111357/president-discuss-pre-budget-proposals-for-2026-with-officials-) · `en`
-
-President Anura Kumara Dissanayake has chaired a meeting this morning (11) at the Presidential Secretariat to review projects implemented under the 2025 budget allocations for the Ministry of Agriculture, Livestock, Land and Irrigation, and to discuss pre-budget proposals for 2026.
-
-President Dissanayake held separate discussions with officials on agriculture, livestock, land and irrigation, issuing directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system, the President’s Media Division said in a statement.
-
-...
-
-[Data](articles/e5aaed40.json)
 
 ---

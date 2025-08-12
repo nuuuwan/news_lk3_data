@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 13:06:48**
+As of **2025-08-12 13:19:05**
 
 ## Newspaper Stats
 
-*Scraped **70,064** Articles*
+*Scraped **70,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,753
-adaderanalk | 8,725
-tamilmirrorlk | 10,267
-virakesarilk | 11,673
-adaderanasinhalalk | 12,074
+adalk | 6,754
+adaderanalk | 8,729
+tamilmirrorlk | 10,268
+virakesarilk | 11,681
+adaderanasinhalalk | 12,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,064 articles have been extended.
+61,973 (88.4%) of 70,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### கிராண்ட்பாஸ் இளைஞன் படுகொலை: ஒருவர் கைது
+
+*2025-08-12 13:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராண்ட்பாஸ்-இளைஞன்-படுகொலை-ஒருவர்-கைது/175-362760) · `ta`
+
+20 வயது இளைஞனை அரிவாளால் வெட்டிக் கொன்ற சந்தேக நபர் ஞாயிற்றுக்கிழமை (11) கைது செய்யப்பட்டதாக கிராண்ட்பாஸ் பொலிஸார் தெரிவித்தனர்.
+
+கொலை செய்யப்பட்ட நபர் வெல்லம்பிட்டி, வதுல்லவத்தையைச் சேர்ந்தவர். போதைப்பொருள் பணம் கொடுக்காதது தொடர்பான தகராறில் இந்த இளைஞன் படுகொலை செய்யப்பட்டுள்ளார் என விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+இறந்த இளைஞன், இன்றைக்கு  இரண்டு ஆண்டுகளுக்கு முன்பு ஒரு நபர் சம்பந்தப்பட்ட கொலை வழக்கில் தொடர்புடையவர் என்று பொலிஸார் கண்டறியந்துள்ளனர்.
+
+அந்தக் கொலை வழக்கு தொடர்பாக சந்தேக நபருக்கும் இறந்தவருக்கும் இடையே பகைமை இருந்ததாக பொலிஸார்  தெரிவிக்கின்றனர்.
+
+நவலோகபுர பகுதியில் இரு நபர்களுக்கிடையே ஏற்பட்ட வாக்குவாதத்தின் போது இந்தக் கொலை நடந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபரை  நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3f61b9e1.json)
+
+---
+
+### අගමැතිණිය ඉවත් කරනවාද? රජයේ තීරණය මෙන්න
+
+*2025-08-12 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිණිය-ඉවත්-කරනවාද--රජයේ-තීරණය-මෙන්න/11-417865) · `si`
+
+අගමැති ධුරය වෙනස් කිරීමට කිසිදු අදහසක් රජයට නොමැති බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය  අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+මාධ්‍යවේදියෙකු දැන් පැවැත්වෙන කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මෙලෙස රජයේ තීරණය දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/f2eca99e.json)
+
+---
+
+### රාජිතව අත්අඩංගුවට ගැනීමට නියෝගයක්
+
+*2025-08-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213289) · `si`
+
+අල්ලස් කොමිසම විසින් සිදු කරන විමර්ශනයක සැකකරුවකු වශයෙන් නම්කර සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (12) වරෙන්තු නිකුත් කර තිබේ.
+
+සැකකාර හිටපු අමාත්‍යවරයා ප්‍රකාශ ලබාදීම මගහරිමින් විමර්ශනවලට බාධා කරන බවට අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/02aef8d9.json)
+
+---
 
 ### ”எல்ல வீக்கெண்ட் எக்ஸ்பிரஸ்”
 
@@ -56,7 +106,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-12 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213288) · `si`
 
-වත්මන් ආණ්ඩුව සුන්බුන් ගොඩක එකතුවක් බවත්, ආණ්ඩුව නූතනත්වයට ගෙන ඒම තම අපේක්ෂාව බවත් ජනාධිපතිවරයා පැවසීය.
+ආණ්ඩුව නූතනත්වයට ගෙන ඒම තම අපේක්ෂාව බව ජනාධිපති, අනුර කුමාර දිසානායක මහතා පවසයි.
 
 ජාතික තරුණ සමුළුවට එක්වෙමින් ජනාධිපතිවරයා පවසා සිටියේ, එලෙස නූතනත්වයට පත්කිරීමට දැනටමත් රාජ්‍ය සේවකයින් 62,000කට ආසන්න පිරිසක් කඩිනමින් බඳවා ගැනීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව ඇති බවය.
 
@@ -65,6 +115,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a7c586ee.json)
+
+---
+
+### Largest meteor shower of 2025 visible tonight and tomorrow
+
+*2025-08-12 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111393/largest-meteor-shower-of-2025-visible-tonight-and-tomorrow) · `en`
+
+The largest meteor shower of 2025 will be visible from midnight today (12) and into early hours of tomorrow, according to Astrophysicist and Engineering Lecturer Gihan Weerasekera.
+
+He explained that this meteor shower, known as the Perseids, is named after the Perseus constellation in which it appears.
+
+The phenomenon will be best observed from the northern sky at around 5:00 a.m. tomorrow, according to experts.
+
+“The special feature of this meteor shower is that around 100 meteors can be seen in an hour, which is considered a large number. Such high meteor counts are rare and occur only in a few meteor showers,” Astrophysicist Gihan Weerasekera said.
+
+The Perseus constellation generally becomes visible above the horizon around midnight and rises steadily until dawn.
+
+“Therefore, the optimal viewing time is around 5:00 a.m., when observers looking towards the north will be able to witness up to 100 meteors in an hour,” Weerasekara stated.
+
+...
+
+[Data](articles/faeea4f5.json)
 
 ---
 
@@ -88,6 +160,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### வார இறுதி நாட்களுக்கான எல்ல கடுகதி ரயில் சேவை 16 ஆம் திகதி ஆரம்பம்
+
+*2025-08-12 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222384) · `ta`
+
+சுற்றுலாத்துறையையும் நெடுந்தூர பயண வசதியை மேம்படுத்தவும் கொழும்புக்கும் பதுளைக்கும் இடையில் வார இறுதி நாட்களுக்கான எல்ல விசேட கடுகதி ரயில் சேவை அறிமுகப்படுத்தப்படவுள்ளது.
+
+புதிய ரயில் சேவை எதிர்வரும் சனிக்கிழமை (16) காலை 5:30 மணிக்கு கொழும்பு கோட்டையில் இருந்து புறப்படும் மறுநாள் ஞாயிற்றுக்கிழமை (17) பிற்பகல் 1:45 மணிக்கு பதுளையில் இருந்து புறப்பட்டு, அதே நாளில் கொழும்பு கோட்டையை வந்தடையும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+மிகவும் அழகிய ரயில் பாதைகளில் ஒன்றிற்கு உள்ளூர் மற்றும் வெளிநாட்டு பயணிகளை ஈர்ப்பதை நோக்கமாகக் கொண்டு இந்த சேவை அமைந்துள்ளது என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6df67005.json)
+
+---
+
 ### රාජ්‍ය භාරදීමට සුදුසුකම් සහිත තරුණ ව්‍යාපාරයක් අපි ගොඩනගන්න ඕනී
 
 *2025-08-12 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-භාරදීමට-සුදුසුකම්-සහිත-තරුණ-ව්‍යාපාරයක්-අපි-ගොඩනගන්න-ඕනී/11-417864) · `si`
@@ -101,6 +189,124 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/52dcaf4e.json)
+
+---
+
+### City of Dreams Sri Lanka-வில் HNB வங்கியின் புதிய 24 மணி சேவை கிளை திறப்பு
+
+*2025-08-12 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222385) · `ta`
+
+இலங்கையின் முன்னணி தனியார் வங்கி HNB PLC, கொழும்பு மையத்தில் அமைந்துள்ள மிகப்பெரிய ஒருங்கிணைந்த பொழுதுபோக்கு வளாகமான City of Dreams Sri Lankaவில் புதிய 24 மணி சேவை கிளையைத் திறந்து வைத்துள்ளது.
+
+இந்த புதிய கிளை, வாடிக்கையாளர்களுக்கு முழுமையான வங்கிச் சேவைகளை நேரடியாக பெறுவதற்கான வாய்ப்பை வழங்கும் முக்கிய இடமாக அமைகிறது. இதில் ஆலோசனை சேவைகள், தன்னியக்க-சேவை இயந்திரங்கள் உள்ளிட்ட HNBவின் முழுமையான சேவைகள் கிடைக்கும்.
+
+City of Dreams Sri Lanka என்பது 1.2 பில்லியன் அமெரிக்க டொலருக்கு மேலான முதலீட்டில் உருவாக்கப்பட்ட, 800 அறைகள் கொண்ட சொகுசு ஹோட்டல், உணவகங்கள், ஷாப்பிங் மையங்கள், நிகழ்வுகள் மற்றும் விருந்தோம்பல் வசதிகள் போன்றவற்றை உள்ளடக்கிய மிகப்பெரிய சுற்றுலா மற்றும் வணிக வளாகமாகும்.
+
+Melco Resorts and Entertainment Limited (Melco) நிறுவனத்தின் துணை நிறுவனமான City of Dreams Sri Lanka, உலகளாவிய ஒருங்கிணைந்த சுற்றுலா மையமாக செயல்படுகிறது. HNB, Melcoவின் இலங்கை நடவடிக்கைகளுக்கான முக்கிய வங்கிப் பங்காளியாக இருந்து, வங்கி-பொழுதுபோக்கு துறைகளுக்கு இடையேயான உறவுகளை வலுப்படுத்துகிறது.
+
+...
+
+[Data](articles/2a036f00.json)
+
+---
+
+### Horana Urban Council sessions postponed for 14 days due to dispute among UNP members
+
+*2025-08-12 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111392/horana-urban-council-sessions-postponed-for-14-days-due-to-dispute-among-unp-members) · `en`
+
+The Horana Urban Council sessions have been postponed for 14 days due to a dispute among United National Party (UNP) members.
+
+It has been reported that the situation arose following a conflict of opinion among UNP councillors.
+
+Previously, a UNP councillor from the council had submitted his resignation on July 1.
+
+Following this, the National Election Commission appointed a new member to fill the vacant position and sent the appointment to the council.
+
+However, during the council session held today (12), both the newly appointed councillor and the previously resigned councillor were present.
+
+During the session, the councillor who had resigned attempted to withdraw his resignation and reclaim his position.
+
+Due to the resulting dispute, the Chairman of the Urban Council decided to postpone the council sessions for a period of 14 days.
+
+◼️
+
+[Data](articles/6e20cd6a.json)
+
+---
+
+### திருகோணமலை டச்சுக்குடா கடற்கரையில் சட்டவிரோத கடை அகற்ற அறிவித்தல்
+
+*2025-08-12 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222386) · `ta`
+
+திருகோணமலை மாவட்ட கரையோர பாதுகாப்புத் திணைக்களம், டச்சுக்குடா கடற்கரையில் பெளத்த விகாரைக்கு அண்மையில் சட்டவிரோத முறையில் நிறுவப்பட்ட கடையை உடைத்து அகற்றும் அறிவித்தலை செவ்வாய்க்கிழமை (12) உரிய கடைவாசலில் ஒட்டியுள்ளது.
+
+அறிவித்தலின் படி, இன்று முதல் 14 நாட்களுக்குள் அந்த கடையை அமைத்தவர்கள் தாமாகவே கட்டுமானங்களை உடைத்து அகற்ற வேண்டும் என்று கேட்டுக் கொள்ளப்பட்டுள்ளது.
+
+குறித்த காலக்கெடு முடிந்த பின்னரும் நிர்மாணங்கள் அகற்றப்படாவிட்டால், கரையோர பாதுகாப்பு திணைக்களம் அவற்றை உடைத்து அகற்றும் நடவடிக்கை எடுக்கும் என்று அறிவித்தலில் தெளிவாக குறிப்பிடப்பட்டுள்ளது.
+
+ஏற்கனவே இந்த இடத்தில் தற்காலிக கடை ஒன்றை அமைப்பதற்கு மட்டுமே தமது திணைக்களம் உரிமையாளருக்கு அனுமதி வழங்கி இருந்தது.ஆனால் அந்த அனுமதியை பயன்படுத்தி சட்டத்திற்கு முரணாக இங்கு நிரந்தர கட்டுமாணம் அமைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f77c8061.json)
+
+---
+
+### 97 சிகரங்களுக்கு மலையேற்றம் செய்ய இலவச அனுமதி வழங்கும் நேபாளம்
+
+*2025-08-12 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222373) · `ta`
+
+தொலைதூரப் பகுதிகளில் சுற்றுலாவை மேம்படுத்தும் நோக்கில், அடுத்த இரண்டு ஆண்டுகளுக்கு இமயமலையில் 97 சிகரங்களுக்கு மலையேற்றம் செய்ய இலவச அனுமதியை நேபாளம் வழங்கவுள்ளது.
+
+இமயமலைத் தொடரில் அமைந்துள்ள உலகின் மிக உயரமான எவரெஸ்ட் சிகரத்துக்கு மலையேற்றம் செய்வதற்கான அனுமதி கட்டணம் செம்டெம்பர் மாதம் முதல் 15,000 அமெரிக்க டொலர்களாக அதிகரிக்கவுள்ளதால் இந்த திட்டம் அமுல்படுத்தப்படவுள்ளது. இந்த கட்டணம் சுமார் ஒரு தசாப்தம் கடந்து முதல் முறையாக அதிகரிப்படவுள்ளது.
+
+இந்த திட்டத்தின் ஊடாக "வெளிகொணரப்படாத சுற்றுலா தளங்களை" முதன்மைப்படுத்தப்படும் என நேபாள சுற்றுலாத்துறை எதிர்பார்க்கிறது.
+
+உலகின் 10 உயரமான மலைகளைக் கொண்ட நேபாளத்திற்கு மலையேற்றம் ஒரு குறிப்பிடத்தக்க வருமானத்தை ஈட்டி தருகிறது.
+
+கடந்த ஆண்டு மலையேற்றம் கட்டண வருமானம் 5.9 மில்லியன் அமெரிக்க டொலர்களுக்கு அதிகமாகக் கிடைத்துள்ளது. அதில் எவரெஸ்ட் சிகரத்தில் இருந்து முக்கால்வாசிக்கும் அதிகமான வருமானம் கிடைத்துள்ளது.
+
+...
+
+[Data](articles/a34734ec.json)
+
+---
+
+### Body of A/L student found in well near tuition class in Vavuniya
+
+*2025-08-12 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111391/body-of-al-student-found-in-well-near-tuition-class-in-vavuniya) · `en`
+
+The body of a girl studying for the GCE Advanced Level examination was found in a well near a private tuition class in Vairavapuliyankulam, Vavuniya.
+
+The body was found last evening (11), according to police. The deceased, a resident of Vavuniya, was a Commerce stream student preparing for the 2025 GCE Advanced Level examination.
+
+She had attended classes last morning, but failed to return home in the evening.
+
+Subsequently, her school bag and the bicycle she had used were found inside the tuition class, while her shoes were discovered near a well close to the classroom. The Vavuniya Police were informed, and Vavuniya Urban Council employees, together with area residents, inspected the well.
+
+A post-mortem examination is scheduled for today (12), while Vavuniya Police continue investigations to determine whether the death was a suicide or as a result of other causes.
+
+◼️
+
+[Data](articles/c037c551.json)
+
+---
+
+### கருநிலம்’ (கருப்பு மண்) மன்னார் மக்கள் மாற்றத்தின் ‘காற்றை’ தொடர்ந்து எதிர்க்கின்றனர்.
+
+*2025-08-12 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/222383) · `ta`
+
+மன்னாரில் கடந்த மூன்றாம் திகதி ஆரம்பமாகி தொடரும் போராட்டத்திற்கான பெயர் கருநிலம்.சட்டவிரோத கனியவள- இல்மனைட் அகழ்வு - காற்றாலை மின் திட்டம்இறால் பண்ணைகள் போன்ற மன்னார் தீவின் இயற்கை சமநிலையை அழித்துக்கொண்டிருக்கின்ற விடயங்களிற்கு எதிராக இந்த ஆர்ப்பாட்டங்கள் இடம்பெறுகின்றன.
+
+மன்னார் இலங்கையில் அதிகளவு மணல்பரப்பை கொண்ட தீவாக கருதப்படுகின்றது இந்தியாவிற்கு அருகில் உள்ளது.முன்னைய ஆட்சியாளர்களின் தொலைநோக்கற்ற  தீர்மானங்கள் காரணமாக மன்னார் மக்கள் நிலம் நீரை பெறுவதற்கான வழிமுறைகள்உட்பட ஏனைய அடிப்படை உரிமைகளை இழக்கும் ஆபத்தை எதிர்கொண்டுள்ளனர்.
+
+சமீபத்தில் எப்படி காற்றாலையை அமைப்பதற்கான பொருட்கள் மன்னாருக்கு கொண்டு செல்லப்பட்டன என்பதை பொதுமக்கள் பார்வையிட்டனர்.
+
+கடும் பாதுகாப்புடன் ஆறுஏழு வாகனங்களில் கொண்டு செல்லப்பட்ட இந்த இறக்கைகளை  - பொதுமக்கள் மூன்றுநாட்களாக தொடர்ச்சியாக பொதுமக்கள் மறித்தனர் என தெரியவந்துள்ளது.மன்னாரில் ஏற்கனவே உள்ள 30 காற்றுவிசையாழிகளிற்கு அப்பால் இந்த காற்றாலைகளை அமைக்க திட்டமிட்டுள்ளனர்.
+
+...
+
+[Data](articles/50824b11.json)
 
 ---
 
@@ -242,6 +448,26 @@ His visit to the Chemmani mass grave site is also expected to feature prominentl
 
 ---
 
+### UN Rights Chief to present report on “Human Rights situation in Sri Lanka” at next month’s UNHRC session
+
+*2025-08-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111390/un-rights-chief-to-present-report-on-human-rights-situation-in-sri-lanka-at-next-months-unhrc-session) · `en`
+
+United Nations High Commissioner for Human Rights Volker Türk, who visited Sri Lanka in June, is scheduled to present his report titled “Situation of Human Rights in Sri Lanka” at the upcoming 60th session of the Human Rights Council in Geneva, Switzerland.
+
+The 60th session of the Human Rights Council is scheduled to begin on September 8 and will continue until October 8.
+
+According to the agenda released by the Office of the UN High Commissioner for Human Rights, High Commissioner Volker Türk will present the report on Sri Lanka on the opening day of the session.
+
+UN High Commissioner for Human Rights Volker Türk undertook a four-day official visit to Sri Lanka in June, and he is scheduled to include his observations in the report.
+
+His visit to the Chemmani mass grave site is also expected to feature prominently in the report to be submitted to the UN Human Rights Council.
+
+...
+
+[Data](articles/a101d8b2.json)
+
+---
+
 ### හොරණ නගර සභාව දින 14කට කල් තබයි
 
 *2025-08-12 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213285) · `si`
@@ -277,6 +503,44 @@ His visit to the Chemmani mass grave site is also expected to feature prominentl
 ◼️
 
 [Data](articles/4c5e8a6d.json)
+
+---
+
+### அமெரிக்காவில் விமான நிலைய ஓடுபாதையில் இரண்டு விமானங்கள் மோதி பாரிய தீ விபத்து
+
+*2025-08-12 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/222377) · `ta`
+
+அமெரிக்காவின் மொன்டானா மாநிலத்தில் திங்கட்கிழமை விமான நிலையத்தில் தரையிறங்கிய ஒரு சிறிய ரக விமானம் ஓடுபாதையில் நிறுத்தப்பட்டிருந்த மற்றுமொரு விமானத்தின் மீது மோதியதால், பாரிய  தீ விபத்து ஏற்பட்டுள்ளது. ஆனால் ஒருவருக்கும் பெரிய காயங்கள் ஏற்படவில்லை என அதிகாரிகள் தெரிவித்தனர்.
+
+ஒற்றை இயந்திர விமானம்  ஒன்று நான்கு பேருடன் வொஷிங்டனின் புல்மேனில் இருந்த புறப்பட்டு பிற்பகல் 2 மணியளவில் கலிஸ்பெல் நகர விமான நிலையத்தில் தரையிறங்க முயன்றுள்ளது.
+
+இதன்போது, விமானியின் கட்டுப்பாட்டை இழந்து விமானம் ஓடுபாதையிலும், பின்னர் நிறுத்தப்பட்டிருந்த பல விமானங்களை மோதியதில் பாரிய தீ விபத்து ஏற்பட்டுள்ளது. இந்த தீ புல்வெளி பகுதிக்கும்  பரவியதாக கலிஸ்பெல் பொலிஸ் அதிகாரி ஜோர்டான் வெனிசியோ தெரிவித்துள்ளார்.
+
+விபத்தை அடுத்து விமானத்திலிருந்து பயணிகள் தாங்களாகவே வெளியேறியுள்ளனர். இரண்டு பேர் லேசான காயமடைந்து சிகிச்சை பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/f6502441.json)
+
+---
+
+### "கெஹெல்பத்தர பத்மே"வின் போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய 6 பேர் கைது
+
+*2025-08-12 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222378) · `ta`
+
+பாதாள உலகக் கும்பல் தலைவரும்,போதைப்பொருள் கடத்தல்காரருமான "கெஹெல்பத்தர பத்மே" என்று அழைக்கப்படும் மந்தினு பத்மசிறி பெரேரா  என்பவரின் போதைப்பொருள் வலையமைப்புடன்  தொடர்புடைய 6 பேர் சுமார் ரூபாய் ஒரு கோடி மதிப்பிலான ஐஸ் போதைப்பொருளுடன் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+மேற்கு மாகாண வடக்கு குற்றத் தடுப்பு பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்களிடமிருந்து 755 கிராம் 500 மில்லிகிராம் ஐஸ், சிறிய மின் தராசு ஒன்று மற்றும் மூன்று கையடக்கத் தொலைபேசிகள் கைப்பற்றப்பட்டன.
+
+இதற்கிடையில், போதைப்பொருள் விற்பனையில் ஈடுபட்ட வெலிவேரிய பகுதியைச் சேர்ந்த "கிரி கீத்த" என்ற நபர், கம்பஹா பகுதியில் உள்ள விடுதி ஒன்றில் தலைமறைவாக உள்ளதாக பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில், மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் 251 கிராம் “ஐஸ்”, ஒரு மின் தராசு மற்றும் கையடக்கத் தொலைபேசியுடன் "கிரி கீத்த" என்ற நபர் கைதுசெய்யப்பட்டுள்ளார்.
+
+"கிரி கீத்த" என்ற நபரிடம் நடத்தப்பட்ட விசாரணையின் அடிப்படையில், மேலும் இருவர் கைது செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/17b0a378.json)
 
 ---
 
@@ -373,6 +637,24 @@ President Anura Kumara Dissanayake is scheduled to attend the ceremony of the co
 ◼️
 
 [Data](articles/9c2a1171.json)
+
+---
+
+### தமிழ் மக்கள் நேர்மையான அரசியல்தீர்வு அரசியல் போராட்டத்தையும் நம்புகின்றார்கள் என்பதை என்பதை 15 வருடமாக வெளிப்படுத்தியும் கூட ஆயுதமுனைகளில் அவர்களை வைத்திருப்பதற்காக வடகிழக்கில் இராணுவ குவிப்பு இடம்பெற்றுக்கொண்டிருக்கின்றது- ரஜீவ்காந்
+
+*2025-08-12 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222376) · `ta`
+
+தமிழ் மக்கள் நேர்மையான அரசியல்தீர்வு அரசியல் போராட்டத்தையும் நம்புகின்றார்கள் என்பதை; என்பதை 15 வருடமாக வெளிப்படுத்தியும் கூட ஆயுதமுனைகளில் அவர்களை வைத்திருப்பதற்காக வடகிழக்கில் இராணுவ குவிப்பு இடம்பெற்றுக்கொண்டிருக்கின்றது என மக்கள் போராட்ட முன்னணியின் ராஜ்குமார் ரஜீவ்காந்  தெரிவித்துள்ளார்
+
+அதன் பின்னர் அங்கிருந்த ஊர்மக்கள், அந்த இளைஞனின் உறவினர்களின் தகவலின்படி அவர்கள் இராணுவத்தினரால் முத்தையன்கட்டு பிரதேசத்தில் இருக்கின்ற இராணுவமுகாமிற்கு சில விடயங்களிற்காக அழைக்கப்பட்டிருந்ததாகவும் அதன் பின்னர் அவர்கள் அந்த இராணுவமுகாமில் வைத்து கடுமையாக தாக்கப்பட்டு,அங்கு சென்ற ஐவரில் நால்வர் தப்பியோடிவந்த பொழுது,ஒருவர் அன்று மாலையிலிருந்து காணாமல்போயிருந்தார்.
+
+அன்று முழுவதும் அவரை தேடும் நடவடிக்கையில் ஈடுபட்டிருந்தனர் அன்று முழுவதும் அவர் கிடைக்காத காரணத்தினால் அடுத்த நாள் காலைவரை காத்திருந்தார்கள்.
+
+அடுத்த நாள் காலையிலே முத்தையன் குளத்திலே அவர் சடலமாக மிதந்துகொண்டிருந்தார், அந்த சடலத்தின் முகத்தில் பலத்த காயங்கள்,இரத்தம் காணப்பட்டது.
+
+...
+
+[Data](articles/f542d62b.json)
 
 ---
 
@@ -1501,251 +1783,5 @@ Lankapura, a veteran in the media industry, has served in various senior editori
 ...
 
 [Data](articles/653c46b5.json)
-
----
-
-### தீர்வு தாமதம் செய்தால் தொழிற்சங்க போராட்டம் - அரச மருத்துவ அதிகாரிகள் சங்கம் எச்சரிக்கை
-
-*2025-08-12 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/222360) · `ta`
-
-வைத்தியர்களின் இடமாற்ற பட்டியலை சீரமைத்து வெளியிடுவதை சுகாதார அமைச்சின் அதிகாரிகள் தொடர்ந்தும் தாமதப்படுத்தினால், தற்காலிகமாக இடை நிறுத்தப்பட்டுள்ள தொழிற்சங்க நடவடிக்கைகளை மீள ஆரம்பிக்க வேண்டியேற்படும். எனவே உரிய வழிமுறைகளைப் பின்பற்றி இடமாற்ற பட்டியலை வெளியிடுமாறு சுகாதார அமைச்சை வலியுறுத்துவதாக அரச மருத்துவ அதிகாரிகள் சங்கத்தின் நிறைவேற்றுக்குழு மற்றும் ஊடககக் குழு உறுப்பினர் வைத்தியர் வாசன் இரட்ணசிங்கம் தெரிவித்தார்.
-
-கொழும்பிலுள்ள அரச மருத்துவ அதிகாரிகள் சங்கத்தின் தலைமை அலுவலகத்தின் கேட்போர் கூடத்தில் திங்கட்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/4f02e489.json)
-
----
-
-### பிரதமர் பதவியில் மாற்றமில்லை :  ம.வி.முன்னணியின் ஒரு தரப்பினர் பிரதமரை நெருக்கடிக்குள்ளாக்கும் வகையில் செயற்படுகின்றனர் - உதய கம்மன்பில
-
-*2025-08-12 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222359) · `ta`
-
-பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பதவி நீக்காமல் இருப்பதற்குரிய ஆறு காரணிகளை ஜனாதிபதி மக்கள் விடுதலை முன்னணியின் சிரேஷ்ட உறுப்பினர்கள் மத்தியில் குறிப்பிட்டு பிரதமர் பதவியில் மாற்றமில்லை என்பதை உறுதிப்படுத்தியுள்ளார். இதனால் மக்கள் விடுதலை முன்னணியின் ஒரு தரப்பினர் பிரதமரை நெருக்கடிக்குள்ளாக்கும் வகையில் தற்போது செயற்படுகின்றனர் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் திங்கட்கிழமை (12) சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பிரதமர் பாராளுமன்றத்தில் குறிப்பிடும் ஏதேனும் விடயத்தில் தவறு இருந்தால் அதனை ஜனாதிபதி சுட்டிக்காட்டி திருத்தம் செய்ய வேண்டும்.அல்லது பிரதமர் அதனை திருத்திக்கொள்ள வேண்டும். இவ்விருவரையும் தவிர்த்து பிறிதொருவர் பிரதமரின் கருத்தை விமர்சிக்க முடியாது.
-
-அமைச்சர் வசந்த சமரசிங்க பிரதமரை மக்கள் மத்தியில் மலினப்படுத்தியுள்ளார்.பிரதமரின் கருத்தை தெளிவுப்படுத்தும் அளவுக்கு அமைச்சர் வசந்த சமரசிங்க சிரேஷ்டத்துவமிக்கவரல்ல,
-
-...
-
-[Data](articles/85367636.json)
-
----
-
-### துணுக்காய் பிரதேச செயலகம் முன் நபர் ஒருவரின் போராட்டம்
-
-*2025-08-12 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222358) · `ta`
-
-துணுக்காய் பிரதேச செயலகம் தனியார் முதலாளிகளிடம் இருந்து இதுவரை இலஞ்சமாக பெற்ற அனைத்தையும் மீள கையளிக்க வேண்டும்.
-
-2017ம் ஆண்டு வரட்சி நிவாரணம் வழங்கியமை தொடர்பில் அதன் தெரிவு பட்டியல் தொடர்பிலும் அனைத்து கிராம சேவகர் பிரிவிலும் நீதியானதும் நியாயமானதுமான விசாரணை மேற்கொள்ளவேண்டும்.
-
-கிராம அலுவலர் திருமதி கிருஸ்ணரூபன் கலைச்செல்வியின் தண்டனை பணியிட மாற்றம் தொடர்பில் வெளிப்படையான விசாரியும் தீர்வும் வேண்டும் என்று கூறியே அவர் போராட்டத்தில் கலந்து கொண்டுள்ளார்.
-
-போராட்டத்தில் கலந்து கொண்டிருந்தவரை பேச அழைத்த போது அவர் பேசுவதற்கு மறுப்பு தெரிவித்திருந்தார்.
-
-...
-
-[Data](articles/9514b85e.json)
-
----
-
-### Should MEPA be apportioned major part of blame for X-Press Pearl marine environmental disaster?
-
-*2025-08-12 00:56:50* · [`dailyftlk`](https://www.ft.lk/columns/Should-MEPA-be-apportioned-major-part-of-blame-for-X-Press-Pearl-marine-environmental-disaster/4-780131) · `en`
-
-The toxic leak killed a large number of fish, turtles, dolphins, whales and other marine mammals, and caused extensive damages to the coral reefs and pristine beaches
-
-Marine Environment Protection Authority (MEPA) and its former Chairperson were found guilty by the Supreme Court (SC) unanimously in a far-reaching judgment contained in a 361 volume for failures to respond to the X-Press Pearl disaster and for non-compliance with their statutory duties and obligations under the MEPA Act.
-
-The SC also found that the failure of the Chairperson to convene a meeting of the Board of Directors constitutes a glaring dereliction of duty at a time when the world’s worst marine environment disaster affected our marine biodiversity to the highest magnitude in terms of the chemicals and polymers discharged to the marine environment.
-
-...
-
-[Data](articles/9d4f3cd5.json)
-
----
-
-### Home Lands betters own record by achieving Rs. 8.8 b sales in July
-
-*2025-08-12 00:35:21* · [`dailyftlk`](https://www.ft.lk/business/Home-Lands-betters-own-record-by-achieving-Rs-8-8-b-sales-in-July/34-780129) · `en`
-
-Home Lands, said yesterday it has achieved an unprecedented Rs. 8.8 billion in sales in just one month in July 2025, topping the record it set just the previous month by recording Rs. 7.4 billion in sales in June 2025 that saw the highest ever sales figures done by any real estate developer in a month in Sri Lanka.
-
-With year-to-date sales turnover standing at an impressive Rs. 34 billion as of 31st July 2025, Home Lands has already surpassed its total annual sales of Rs. 31 billion in 2024, in just the first seven months of the current fiscal year.
-
-...
-
-[Data](articles/437f67e3.json)
-
----
-
-### Elephant House Beverages, Reliance Consumer Products launch Campa Beverages in Sri Lanka
-
-*2025-08-12 00:33:54* · [`dailyftlk`](https://www.ft.lk/business/Elephant-House-Beverages-Reliance-Consumer-Products-launch-Campa-Beverages-in-Sri-Lanka/34-780128) · `en`
-
-Ceylon Cold Stores, in collaboration with Reliance Consumer Products Ltd., (RCPL), is introducing the Campa Beverages brand in Sri Lanka.
-
-The partnership marks a new phase in the relationship between the two organisations and builds on their previous collaboration, which successfully launched Elephant House Beverages into the Indian market through the Reliance Group in February last year. With the introduction of Campa, the partnership aims to offer greater choice and innovation to Sri Lankan consumers with high-quality, affordable beverages that cater to evolving tastes and expectations.
-
-...
-
-[Data](articles/ae7728a1.json)
-
----
-
-### Don’t abandon our war heroes
-
-*2025-08-12 00:27:00* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-abandon-our-war-heroes/4-780127) · `en`
-
-The arrest and pre-trial detention of Admiral (Retired) D.N.S. Ulugetenne, former Commander of the Sri Lanka Navy, marks a troubling chapter in Sri Lanka’s post-war political landscape. The decorated naval chief, who served at the peak of the country’s internal conflict, has been remanded without a conviction, without compelling evidence of absconding, and without clear legal justification, sparking renewed debate over how post-conflict societies should treat their military personnel.
-
-The move has not only raised constitutional and procedural concerns domestically but also casts a harsh spotlight on the global inconsistencies in how nations address allegations of wartime conduct.
-
-...
-
-[Data](articles/69c96d16.json)
-
----
-
-### முன்னாள் முதலமைச்சர்கள் மூவருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு விசாரணை
-
-*2025-08-12 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/222357) · `ta`
-
-முன்னாள் முதலமைச்சர்கள் மூவருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-அதற்கமைய சப்ரகமுவ மாகாண முன்னாள் முதலமைச்சர் மஹிபால ஹேரத், மத்திய மாகாண முன்னாள் முதலமைச்சர் சரத் ஏக்கநாயக்க மற்றும் வட மத்திய மாகாண முன்னாள் முதலமைச்சர் பேசல ஜெயரத்ன ஆகியோருக்கு எதிராக இந்த விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-குறித்த முன்னாள் முதலமைச்சர்கள்  சட்டவிரோதமாக  வருமானம் ஈட்டியதாக கூறப்படும் முறைப்பாடுகளைக் கருத்திற் கொண்டு இலஞ்ச ஊழல் ஆணைக்குழு இந்த விசாரணைகளைத் தொடங்கியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/93f8eb02.json)
-
----
-
-### Sri Lanka: Next frontier for global investors
-
-*2025-08-12 00:17:04* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Next-frontier-for-global-investors/4-780125) · `en`
-
-For international investors, Sri Lanka’s stock market represents more than just another emerging market rally—it’s a rare opportunity to participate in a genuine economic recovery story with multi-year potential
-
-69% market surge creates compelling opportunity for international capital as recovery story gains momentum
-
-After a spectacular 69.69% year-on-year rally that has catapulted the Colombo Stock Exchange All-Share Price Index (ASPI) to 19,532 points, Sri Lanka’s stock market has emerged as one of the world’s most compelling investment destinations for international investors. While developed markets struggle with compressed returns and high valuations, Sri Lanka offers the rare combination of recovery momentum, attractive valuations, and genuine growth potential that sophisticated global investors continuously seek.
-
-...
-
-[Data](articles/e331f4dc.json)
-
----
-
-### 2025-08-11 (Monday)
-
-### மீட்கப்படவுள்ள ராவணனுடன் தொடர்புபட்ட விமானங்கள்
-
-*2025-08-11 23:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மீட்கப்படவுள்ள-ராவணனுடன்-தொடர்புபட்ட-விமானங்கள்/53-362734) · `ta`
-
-ராவணனால் 25 இடங்களில் மறைத்து வைக்கப்பட்டதாகக் கூறப்படும் 19 விமானங்களை மீட்க சிவில் விமானப் போக்குவரத்து அதிகார சபையின் ஆராய்ச்சி பிரிவு தயாராகுகிறது.
-
-இந்த விமானங்கள் ராவணனால் தயாரிக்கப்பட்டதாகவும், பாதரசம் மற்றும் வேறு இரசாயனங்களைப் பயன்படுத்தி பறந்ததாகவும் ஆராய்ச்சிகள் வெளிப்படுத்தியுள்ளன.
-
-குருநாகல், வாரியப்பொல, சிகிரியா, தம்புள்ள, மஹியங்கன்னை, பதுளை, அம்பாந்தோட்டை உள்ளடங்கலாக குகைகளிலும் மலைப்பாங்கான பகுதிகளில் நிலக்கீழும் விமானங்கள் ஒழிக்கப்பட்டுள்ளதாக கண்டுபிடிப்புகள் குறிப்பிடுகின்றன.
-
-◼️
-
-[Data](articles/372ad4ba.json)
-
----
-
-### Life-time experience …
-
-*2025-08-11 22:55:00* · [`islandlk`](http://island.lk/life-time-experience/) · `en`
-
-It certainly would be a life-time experience to be a part of a concert featuring the legendary Stevie Wonder, live in action.The Wonder boy, as you all know, is now totally blind, but he wasn’t born blind.According to Stevie, shortly after his birth he became blind and he often says: “Now, that was a blessing because it allowed me to see the world in the vision of truth, of sight.
-
-“See people in the spirit of them, not how they look, not what colour they are, but what colour is their spirit.”
-
-Inoka De Silva, from Sri Lanka, and now residing in the UK, checked out Stevie Wonder’s performance at Hyde Park, London, on 12 July, 2025, which was a part of his ‘LOVE, LIGHT & SONG’ UK tour, and says it was one of the best shows she has experienced.
-
-Inoka De Silva: Memorable experience seeing Stevie Wonder at ‘LOVE, LIGHT & SONG’ concert
-
-...
-
-[Data](articles/c27a1437.json)
-
----
-
-### Over 120,000 arrested on drug-related offenses so far this year
-
-*2025-08-11 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111373/over-120000-arrested-on-drug-related-offenses-so-far-this-year) · `en`
-
-More than 120,000 individuals have been arrested in connection with various drug-related offenses so far this year, according to a statement issued by the Ministry of Public Security.
-
-The arrests were made during special operations conducted from the beginning of the year up to today (11).
-
-According to the Ministry, 39,627 individuals have been arrested for the possession of heroin and heroin-related offenses, 47,615 for the possession of crystal methamphetamine (ICE) and 42,620 individuals for cannabis-related offenses.
-
-The operations have also led to the seizure of 934.55 kg of heroin, 1,402.976 kg of ICE and 11,620 kg of cannabis.
-
-Additionally, a total of 118 drunk drivers have been apprehended while legal action has been taken against 3,595 individuals for reckless driving and other violations.
-
-...
-
-[Data](articles/4d3c5138.json)
-
----
-
-### දුම්රිය දෙපාර්තමේන්තුවේ ටෙන්ඩර් පටිපාටියට පිටින් යන ගනුදෙනුවක් ගැන හෙළිදරව්වක්
-
-*2025-08-11 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213271) · `si`
-
-දුම්රිය දෙපාර්තමේන්තුව සතු භාවිතයෙන් ඉවත් කළ දුම්රිය මැදිරි ඇතුළු අබලි යකඩ මෙට්‍රික් ටොන් 6,000ක් පමණ ටෙන්ඩර් පටිපාටියෙන් බැහැරව ප්‍රධාන පෙළේ යකඩ සමාගම් දෙකකට පිරිනැමීමට ඉහළ පෙළේ නිලධාරීන් පිරිසක් උත්සාහ දරන බව දුම්රිය දෙපාර්තමේන්තු ආරංචි මාර්ග පවසයි.
-
-මේ සම්බන්ධව අල්ලස් හෝ දූෂණ විමර්ෂන කොමිෂන් සභාවටද පැමිණිල්ලක් සිදුකර ඇති අතර දුම්රිය දෙපාර්තමේන්තුවේ ඉහළ පෙළේ නිලධාරීන් පිරිසක් සහ ප්‍රසම්පාදන අංශ නිලධාරීන් විසින් මෙම උත්සාහයේ නිරත වන බවත් මේ වන විට වාර්තා වේ.
-
-දුම්රිය දෙපාර්තමේන්තුව සතු අබලි යකඩ පුද්ගලික අංශය වෙත විකිණීමට අදාළ ප්‍රසම්පාදන ක්‍රියාවලිය පසුගිය ජූලි මාසයේදී ප්‍රසිද්ධ පුවත්පත් දැන්වීමක් මගින් ආරම්භ කර ඇති අතර එම ටෙන්ඩරය සඳහා ඉදිරිපත් වූ සමාගම් ඉදිරිපත් කළ ලේඛණද පසුගිය මස 23 වැනි දින සිට විවෘත කර තිබුණි.
-
-දුම්රිය දෙපාර්තමේන්තු ආරංචි මාර්ග පවසනුයේ චෝදනා එල්ලවන එක් සමාගමක් පසුගිය පාලන සමයේදී වංචනික හා අනීතික අන්දමින් දුම්රිය දෙපාර්තමේන්තුව සතු අබලි යකඩ රුපියල් කෝටි ගණනින් පාඩු අගයකට මිලදී ගැනීමටද උත්සාය කළ බවය.
-
-...
-
-[Data](articles/aaa31fdb.json)
-
----
-
-### Do they kill elephants using the App? Why that question misses the point entirely
-
-*2025-08-11 21:59:00* · [`islandlk`](http://island.lk/do-they-kill-elephants-using-the-app-why-that-question-misses-the-point-entirely/) · `en`
-
-“Do they use the app to kill elephants?” It’s a question that’s been floating around social media and public discourse lately. But for those involved in the field—people who’ve spent years working to mitigate human-elephant conflict—the question seems not only absurd but dangerously misinformed.
-
-“It’s hard not to laugh,” says Vinura Abeyrathne,the youngster who cereated the Elephant App, with the support of team members who helped craft Sri Lanka’s National Policy for Minimising Human-Elephant Conflict (2020). “Because if that was really the case, what were people using during the past 70 years when elephants were shot? They didn’t have an app then, did they?”
-
-Vinura, along with Wildlife Ranger Saman Hallholuwa, is part of a team behind the Elephant Journey mobile app, a community-based conservation tool aimed at increasing public awareness and real-time reporting of elephant movements to reduce conflict and improve safety for both humans and elephants.
-
-...
-
-[Data](articles/83753bfc.json)
-
----
-
-### சுற்றுலாப் பயணிகளுக்கு ஓட்டுநர் உரிமம்;நாமல் காட்டம்
-
-*2025-08-11 21:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளுக்கு-ஓட்டுநர்-உரிமம்-நாமல்-காட்டம்/175-362729) · `ta`
-
-சுற்றுலாப் பயணிகள் வந்தவுடன் ஓட்டுநர் உரிமங்களை வழங்கும் அரசாங்கத்தின் முடிவை எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ கேள்வி எழுப்பியுள்ளார், இது சுற்றுலா வழிகாட்டிகள் மற்றும் டக்ஸி ஓட்டுநர்களின் வாழ்வாதாரத்திற்கு தீங்கு விளைவிக்கும் என்று எச்சரித்துள்ளார்.
-
-வழிகாட்டுதல் மற்றும் போக்குவரத்து சேவைகளை நம்பியுள்ள ஆயிரக்கணக்கானோர் பணிபுரியும் சுற்றுலாத் துறையில் முக்கிய பங்குதாரர்களுடன் கலந்தாலோசிக்காமல் இந்தக் கொள்கை அறிவிக்கப்பட்டதாக ராஜபக்ஷ கூறினார். இலங்கை ஏற்கனவே உள்ள ஒப்பந்தங்களின் கீழ் சர்வதேச ஓட்டுநர் உரிமங்களை அங்கீகரித்துள்ளதைக் குறிப்பிட்ட அவர், அத்தகைய உரிமம் வைத்திருப்பவர்களுக்கு மட்டுமே இந்தச் சலுகை வழங்கப்பட வேண்டும் என்றார்.
-
-சுற்றுலாத்துறையில் பாதகமான விளைவுகளை ஏற்படுத்தும் என்று அஞ்சும் ஒரு நடவடிக்கையை செயல்படுத்துவதற்கு முன்பு பரந்த ஆலோசனைகளை நடத்துமாறு அரசாங்கத்தை வலியுறுத்தி தொழில்துறை ஊழியர்களிடமிருந்து ஏராளமான முறைப்பாடுகளை நாடு முழுவதும் சமீபத்தில் மேற்கொண்ட பயணங்களின் போது தாம் பெற்றதாக ராஜபக்ஷ கூறினார்.
-
-◼️
-
-[Data](articles/fef0686f.json)
 
 ---

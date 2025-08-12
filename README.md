@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 11:06:38**
+As of **2025-08-12 11:20:44**
 
 ## Newspaper Stats
 
-*Scraped **70,036** Articles*
+*Scraped **70,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,749
-adaderanalk | 8,719
-tamilmirrorlk | 10,255
+adaderanalk | 8,723
+tamilmirrorlk | 10,259
 virakesarilk | 11,673
-adaderanasinhalalk | 12,069
+adaderanasinhalalk | 12,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,036 articles have been extended.
+61,973 (88.5%) of 70,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### “ஜீவன் தொண்டமான் - சிவகங்கை எம் .பி இடையில் சந்திப்பு ”
+
+*2025-08-12 11:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-தொண்டமான்-சிவகங்கை-எம்-பி-இடையில்-சந்திப்பு/76-362750) · `ta`
+
+பாராளுமன்ற உறுப்பினரும், இலங்கை தொழிலாளர் காங்கிரஸ் பொதுச் செயலாளருமான ஜீவன் தொண்டமான், இந்தியாவின் சிவகங்கை பாராளுமன்ற உறுப்பினர் கார்த்தி பி. சிதம்பரத்தை அண்மையில் சந்தித்து கலந்துரையாடினார்.
+
+இந்தியா பயணத்தின் ஒரு பகுதியாக தமிழ்நாடு விஜயத்தின்போது சிவகங்கை நாடாளுமன்ற உறுப்பினரும், அகில இந்திய காங்கிரஸ் கமிட்டி (AICC) உறுப்பினரும், தமிழ்நாடு டென்னிஸ் சங்கம் (TNTA துணைத் தலைவருமான திருவாளர் கார்த்தி பி. சிதம்பரத்தை சந்தித்துள்ளார்.
+
+சிவகங்கை தொகுதியின் மானகிரியில் இடம்பெற்ற இச்சந்திப்பானது சுருக்கமானதாக இருந்தாலும் மிகவும் அர்த்தமுள்ளதாக அமைந்ததாக கருத்து தெரிவித்த ஜீவன் தொண்டமான் இந்தியா-இலங்கை பரஸ்பர விடயங்கள் குறித்தும், மேலும் பல முக்கிய விஷயங்கள் சார்ந்தும் இருவரும் பயனுள்ள கலந்துரையாடலை மேற்கொண்டதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a7f9529f.json)
+
+---
+
+### ரூ.1.2 கோடி சம்பளத்தை தூக்கி எறிந்த  இளைஞன்:  காரணத்தை கேட்டா ஷாக் ஆயிடுவீங்க
+
+*2025-08-12 11:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-2-கோடி-சம்பளத்தை-தூக்கி-எறிந்த-இளைஞன்-காரணத்தை-கேட்டா-ஷாக்-ஆயிடுவீங்க/175-362749) · `ta`
+
+அதிக வருமானம் ஈட்டும் வேலையை விடுவது ஒருபோதும் எளிதான முடிவல்ல. ஆனால், பெங்களூருவைச் சேர்ந்த ஒரு தொழில்முறை நிபுணருக்கு, தனது மனைவி முதல் குழந்தையை எதிர்பார்த்துக்கொண்டிருந்தபோது, அவரது முடிவு தெளிவாகியது.
+
+வருடத்திற்கு ரூ.1.2 கோடி சம்பளம் உட்பட எந்தவொரு வருமானத்தை விடவும், இந்த முக்கியமான தருணத்தில் தனது மனைவியுடன் இருப்பது மிகவும் மதிப்புமிக்கது என்று அவர் உணர்ந்தார். இதையடுத்து, தனது வெற்றிகரமான தொழிலை விட்டுவிட்டு, முழு நேர இல்லத்தரசியாக மாற முடிவு செய்தார்.
+
+ரெடிட் சமூக வலைத்தளத்தில் தனது அனுபவத்தைப் பகிர்ந்து கொண்ட அந்த நபர், கல்லூரிப் படிப்பை பாதியில் நிறுத்தியவர். கடந்த ஏழு ஆண்டுகளில், பல்வேறு ஸ்டார்ட்அப் நிறுவனங்களில் பணிபுரிந்து, சந்தைக்குச் செல்லும் (Go-to-Market) குழுக்களை உருவாக்கி வழிநடத்தியுள்ளார். இந்தப் பயணத்தில், அவர் மொத்தம் ரூ.7 கோடிக்கு மேல் சம்பாதித்துள்ளார்.
+
+...
+
+[Data](articles/c4d0e791.json)
+
+---
+
+### උසස් පෙළ සිසුවියගේ මළ සිරුර ළිඳකින් හමුවෙයි
+
+*2025-08-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213284) · `si`
+
+වවුනියාව, වෛරවපුලියන්කුලම ප්‍රදේශයේ පෞද්ගලික උපකාර පන්තියක් අසල තිබූ ළිඳක් තුළ තිබී උසස් පෙළ දැරියකගේ මළ සිරුරක් සොයාගෙන තිබේ.
+
+ඊයේ (11) සවස මෙම මළසිරුර සොයාගෙන ඇති අතර, ඇය වවුනියාව ප්‍රදේශයේ පදිංචිව සිටි මේ වසරේ වාණිජ අංශයෙන් උසස් පෙළ සඳහා පෙනී සිටින දැරියකි.
+
+අදාළ දැරියට ඊයේ උදෑසන සිට දහවල් වන තෙක් සිට පන්ති තිබී ඇති අතර, ඇය හවස නිවසට නොපැමිණීම හේතුවෙන් දෙමාපියන් සොයා බලා තිබේ.
+
+එහිදී ඇගේ පොත් බෑගය සහ ඇය පැමිණි පාපැදිය උපකාරක පන්තිය තුළ තිබී සොයා ගෙන ඇත.
+
+තවදුරටත් පරීක්ෂා කිරීමේ දී ඇගේ පාවහන් යුවළ පන්තිය ආසන්නයේ වූ ළිඳක් අසල තිබී සොයා ගෙන ඇති අතර, ඒ අනුව වහාම වවුනියාව පොලීසිය දැනුවත් කර වවුනියාව නගර සභා සේවකයින් හා ප්‍රදේශවාසීන් ළිඳට බැස පරීක්ෂා කර තිබේ.
+
+මළ සිරුර සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ අද (12) පැවැත්වීමට නියමිත අතර, මරණය සියදිවි නසා ගැනීමක්ද, නැතහොත් වෙනත් කාරණයක්ද යන්න සම්බන්ධයෙන් සොයා වවුනියාව පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/5a147652.json)
+
+---
+
+### புதிய ஐஜிபி யார்?  இன்று கூடுகிறது  அரசியலமைப்பு பேரவை
+
+*2025-08-12 10:57:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஐஜிபி-யார்-இன்று-கூடுகிறது-அரசியலமைப்பு-பேரவை/175-362748) · `ta`
+
+புதிய பொலிஸ் மா அதிபர் தொடர்பான முன்மொழிவை ஆராய்வதற்காக அரசியலமைப்பு  பேரவை,  சபாநாயகர் ஜகத் விக்ரமரத்ன தலைமையில்  பிற்பகல் 1:30க்கு கூடவுள்ளது.
+
+முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பதவிநீக்கம் செய்யப்பட்டதையடுத்து பொலிஸ் மா  அதிபருக்கான பதவியில் வெற்றிடம் ஏற்பட்டுள்ளது.
+
+இந்நிலையில், பொலிஸ் மா  அதிபருக்கான பெயரை, ஜனாதிபதி அனுரகுமார திசாநாயக்க   அரசியலமைப்பு பேரவையின் ஒப்புதலுக்காக அனுப்பிவைத்துள்ளார்.
+
+அதன்படி, இன்றைய கூட்டத்தின் போது புதிய பொலிஸ் மா  அதிபரை நியமிப்பது குறித்து அரசியலமைப்பு பேரவை இன்று (12)  இறுதி முடிவை எட்டும் என்று எதிர்பார்க்கப்படுகிறது    .
+
+◼️
+
+[Data](articles/c2787a9a.json)
+
+---
+
+### பட்டம் விட்டுட்டு வரவா
+
+*2025-08-12 10:54:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பட்டம்-விட்டுட்டு-வரவா/62-362747) · `ta`
+
+◼️
+
+[Data](articles/9c2a1171.json)
+
+---
+
+### Another 691 individuals arrested during special police raids yesterday
+
+*2025-08-12 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111387/another-691-individuals-arrested-during-special-police-raids-yesterday) · `en`
+
+A total of 691 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (11).
+
+As part of the operation, 24,175 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 25 individuals directly linked to criminal activities while 375 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 73 drunk drivers were apprehended while a further 17 reckless drivers and 3,427 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/5128e389.json)
+
+---
 
 ### මේ වසරේ දැකගත හැකි විශාලතම උල්කාපාත වර්ෂාව අද
 
@@ -116,6 +218,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Montana plane crash: Two aircraft collide on runway, spark huge fire
+
+*2025-08-12 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111386/montana-plane-crash-two-aircraft-collide-on-runway-spark-huge-fire) · `en`
+
+A small plane landing on Monday at a Montana airport crashed into parked aircraft, triggering a large fire but causing no serious injuries, authorities said.
+
+The single-engine plane carrying four people was attempting to land at about 2 p.m. at the Kalispell City Airport, according to Kalispell Police Chief Jordan Venezio and the Federal Aviation Administration.
+
+A preliminary investigation showed the pilot lost control, crashing onto the runway before the plane struck several parked aircraft, igniting fires on multiple planes, Kalispell police said. The fire spread to a grassy area before it was extinguished, Venezio said.
+
+Witnesses said a plane crash-landed at the end of the runway and careened into another aircraft, Kalispell Fire Chief Jay Hagen said.
+
+The passengers were able to get out on their own after it came to a stop, Hagen said. Two were slightly hurt and treated at the airport, he said.
+
+...
+
+[Data](articles/a19e5f3c.json)
+
+---
+
+### Over 77,000 tourists arrive in first 10 days of August
+
+*2025-08-12 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111385/over-77000-tourists-arrive-in-first-10-days-of-august) · `en`
+
+The number of tourists who arrived in the country in the first 10 days of August stood at 77,482, the Sri Lanka Tourism Development Authority has announced.
+
+According to data released by the SLTDA, a total of 13,511 tourists have arrived from India which accounts to 17.4%. Furthermore, 8,691 persons from the United Kingdom, 6,036 from Italy, 5,659 from China and 5,518 French nationals have also visited Sri Lanka in the month of August.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,445,770 with the release of the latest figures for August. Among them, 292,633 individuals are from India, 140,068 from the UK and 116,895 are from Russia, the SLTDA noted.
+
+A total of 200,244 foreign nationals visited the country in July which was an increase of 6.6% in comparison to data from July 2024.
+
+◼️
+
+[Data](articles/07065370.json)
+
+---
+
 ### சுங்கத்துக்கு டிமிக்கி கொடுத்து தங்கம் கடத்திய ஆசாமி கைது
 
 *2025-08-12 09:38:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்துக்கு-டிமிக்கி-கொடுத்து-தங்கம்-கடத்திய-ஆசாமி-கைது/175-362742) · `ta`
@@ -197,6 +337,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4e6207a6.json)
+
+---
+
+### Nepal offers free climbs to 97 peaks as tourism to Everest surges
+
+*2025-08-12 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111384/nepal-offers-free-climbs-to-97-peaks-as-tourism-to-everest-surges) · `en`
+
+Nepal will make 97 of its Himalayan mountains free to climb for the next two years in a bid to boost tourism in some of its more remote areas.
+
+It comes as permit fees to summit Mount Everest, the world’s highest peak, during peak season will go up to $15,000 (£11,170) from September - the first increase in nearly a decade.
+
+Nepal’s tourism department said it hopes the initiative will highlight the country’s “unexplored tourism products and destinations”.
+
+Mountaineering generates a significant source of revenue for Nepal, which is home to the world’s 10 tallest mountains. Climbing fees brought in $5.9m last year, with Everest accounting for more than three quarters of that.
+
+The peaks for which fees will be waived are located in Nepal’s Karnali and Sudurpaschim provinces, standing between 5,970m (19,590 ft) and 7,132m high.
+
+Both provinces, located in the far-western region of Nepal, are among the country’s poorest and least developed provinces.
+
+...
+
+[Data](articles/d04ba678.json)
 
 ---
 
@@ -1577,171 +1739,5 @@ Furthermore, the attorney appearing on behalf of suspect Shehan Madhusanka claim
 ...
 
 [Data](articles/41196e0b.json)
-
----
-
-### ඉල්මනයිට් සේදීමේ ස්ථානය පොලිස් භාරයේ තැබීමට නියෝග
-
-*2025-08-11 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213269) · `si`
-
-විල්පත්තුව මායිමේ පිහිටි අරුවක්කාඩුවේ ඉල්මනයිට් සේදීමේ ස්ථානයේ ඉදිරි විමර්ශන සිදුවන තුරු එම ස්ථානය පොලිස් භාරයේ තබා ගන්නා ලෙස පුත්තලම දිසා විනිසුරු මිහිල් චිරන්ත සතුරුසිංහ මහතා අද (11) නියෝග කළේය.
-
-එම ප්‍රදේශයේ අධි සංවේදී පරිසර පද්ධතියක් තුළ නිසි නීත්‍යානුකූල අවසරයකින් තොරව පවත්වාගෙන ගිය ඉල්මනයිට් සේදීමේ ස්ථානය සම්බන්ධයෙන් පුත්තලම අධිකරණය හමුවේ කරුණු වාර්ථා කිරීමේන් අනතුරුවය.
-
-අදාළ ඉල්මනයිට් සේදීමේ දේශීය සමාගම විසින් පරිසරය වනසමින් භූ විද්‍යා හා පතල් කැණීමේ කාර්යාංශයේ නිසි අවසරයකින් තොරව මෙන්ම පුරා විද්‍යා දෙපාර්තමේන්තුව ලබා දුන් නියෝගද පැහැර හරිමින් පවත්වාගෙන යාම සම්බන්ධයෙන් ලැබුණු පැමිණිල්ලක් මත වලාන පානදුර  මධ්‍යම දුෂණ ප්‍රහාරක බලකාය විසින් පසුගියදා වටලනු ලැබීය.
-
-මෙහිදී අධිකරණය හමුවේ කරුණු දක්වමින් වලාන පානදුර මධ්‍යම දුෂණ ප්‍රහාරක බළකාය පැවසුවේ ඉල්මනයිට් සේදීම හේතුවෙන් දැවැන්ත පරිසර හානියක් සිදුව ඇති බවය.
-
-...
-
-[Data](articles/28432d9e.json)
-
----
-
-### ப்ளூஸ் அணிக்கு தொடர்ச்சியான 3ஆவது தோல்வி; க்றீன்ஸ் அணியின் வெற்றிக்கு கமிந்து, சாமிக்க வித்திட்டனர்
-
-*2025-08-11 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222350) · `ta`
-
-எஸ்.எஸ்.சி. விளையாட்டரங்கில் நடைபெற்றுவரும் எஸ்.எல்.சி. ரி20 லீக் உள்ளூர் மும்முனை கிரிக்கெட் தொடரில் துனித் வெல்லாகே தலைமையிலான டீம் ப்ளூஸ் அணி தொடர்சசியான மூன்றாவது தோல்வியைத் தழுவியது.
-
-தனது முதல் இரண்டு போட்டிகளில் டீம் க்றீன்ஸ் அணியிடம் 19 ஓட்டங்களாலும் டீம் க்றேஸ் அணியிடம் 24 ஓட்டங்களாலும் தோல்வி அடைந்த டீம் ப்ளூஸ் அணி, இன்று நடைபெற்ற டீம் க்றீன்ஸ் அணியுடனான இரண்டாம் சுற்று போட்டியில் 72 ஓட்டங்களால் மீண்டும் தோல்வி அடைந்தது.
-
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட டீம் க்றீன்ஸ் அணி 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 158 ஓட்டங்களைப் பெற்றது.
-
-அணித் தலைவர் கமிந்து மெண்டிஸ் 50 ஓட்டங்களையும் சாமிக்க கருணாரட்ன ஆட்டம் இழக்காமல் 41 ஓட்டங்களையும் பெற்றனர்.
-
-அவர்கள் இருவரும் 6ஆவது விக்கெட்டில் பெறுமதிமிக்க 82 ஓட்டங்களைப் பகிர்ந்து அணியின் வெற்றிக்கு வித்திட்டனர்.
-
-அவர்களைவிட பானுக்க ராஜபக்ஷ 20 ஓட்டங்களையும் சதீர சமரவிக்ரம 17 ஓட்டங்களையும் பெற்றனர்.
-
-பந்துவீச்சில் அக்கில தனஞ்சய 25 ஓட்டங்களுக்கு 2 விக்கெட்களையும் டில்ஷான் மதுஷன்க 32 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
-
-...
-
-[Data](articles/b808b721.json)
-
----
-
-### Another 11 Sri Lankans trapped in cybercrime centres in Myanmar
-
-*2025-08-11 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111368/another-11-sri-lankans-trapped-in-cybercrime-centres-in-myanmar) · `en`
-
-Information received that 11 Sri Lankans have ended up in cybercrime centres in Myanmar during the past several weeks -Defence Ministry.
-
-◼️
-
-[Data](articles/6ba1781f.json)
-
----
-
-### Another 11 Sri Lankans trafficked to Myanmar cybercrime centres
-
-*2025-08-11 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111368/another-11-sri-lankans-trafficked-to-myanmar-cybercrime-centres) · `en`
-
-Another 11 Sri Lankans have been trafficked to Myanmar to work at cybercrime centres, according to the Ministry of Defence.
-
-The Defence Ministry stated that it has received information on 11 Sri Lankans who have ended up in cybercrime centres in Myanmar during the past several weeks.
-
-Meanwhile, the National Anti-Human Trafficking Task Force (NAHTTF) has issued a public warning in light of alarming information on a new trend wave of human trafficking activities targeting Sri Lankan nationals.
-
-Reportedly, organized trafficking syndicates operating cyber scam centers in South East Asia have launched a large-scale recruitment drive. Information suggests these networks are attempting to lure and transport over 50,000 individuals to these scam compounds, from all countries and Sri Lankans are among the primary targets, the Defence Ministry stated.
-
-...
-
-[Data](articles/7c5ad24f.json)
-
----
-
-### வவுனியாவில் தனியார் கல்வி நிலைய கிணறு ஒன்றில் இருந்து உயர்தர மாணவி சடலமாக மீட்பு
-
-*2025-08-11 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222351) · `ta`
-
-வவுனியாவில் தனியார் கல்வி நிலைய கிணறு ஒன்றில் இருந்து உயர்தர மாணவி ஒருவர் திங்கட்கிழமை (11) சடலமாக மீட்கப்பட்டுள்ளார்.
-
-வவுனியா, வைரவபுளியங்குளம் பகுதியில் உள்ள தனியார் கல்வி நிலையம் ஒன்றில் உயர்தர வர்த்தகப் பிரிவு மாணவர்களுக்கு காலையில் இருந்து மதியம் 12 மணிவரை வகுப்பு நடைபெற்றுள்ளது. குறித்த கல்வி நிலையத்தில் உயர்தர வர்த்தகபிரிவு 2025 இல் கல்வி கற்ற குறித்த மாணவி நீண்ட நேரமாகியும் வீடு வந்து சேராமையால் பெற்றோர் மற்றும் உறவினர்கள் குறித்த மாணவியை தேடியுள்ளனர்.
-
-இதன்போது, குறித்த மாணவியின் புத்தகப்பை, துவிச்சக்கர வண்டி என்பன மாணவி கல்வி பயின்ற தனியார் கல்வி நிலையத்தில் காணப்பட்டதுடன், அக் கல்வி நிலைய வளாகத்தில் இருந்த கிணற்றின் அருகே மாணவியின் செருப்பும் காணப்பட்டுள்ளது.
-
-இதனையடுத்து, பெற்றோர் மற்றும் கல்வி நிலைய நிர்வாகத்தினர் வவுனியா பொலிசாருக்கு தெரியப்படுத்தியதையடுத்து சம்பவ இடத்திற்கு வருகை தந்த பொலிசார், மாநகர சபையினர், கிராம அலுவர், கிராம மக்கள், மாணவர்கள் எனப் பலரும் இணைந்து 40 அடி ஆழமான கிணற்றில் தேடுதல் மேற்கொண்டு குறித்த மாணவியை சடலமாக மாலை மீட்டு எடுத்தனர்.
-
-...
-
-[Data](articles/d4f966e7.json)
-
----
-
-### Chilaw resident held at BIA with Rs. 115 million worth of gold biscuits
-
-*2025-08-11 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111367/chilaw-resident-held-at-bia-with-rs-115-million-worth-of-gold-biscuits) · `en`
-
-An individual has been arrested by officers of the Criminal Investigation Department (CID) at the Bandaranaike International Airport (BIA) with a stock of gold biscuits valued at over Rs. 115 million.
-
-The weight of the seized gold biscuits is reported to be over 1 kilogram.
-
-Investigators stated that the gold had been smuggled into the country from Dubai under the pretext of importing vehicle spare parts.
-
-It is reported that he was arrested by CID officers on suspicion while he was leaving after paying the duty imposed by customs for the vehicle parts.
-
-◼️
-
-[Data](articles/d67d3178.json)
-
----
-
-### Sri Lanka President moots transforming dairy and livestock farming in pre-budget discussion
-
-*2025-08-11 19:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-moots-transforming-dairy-and-livestock-farming-in-pre-budget-discussion-235597/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake had met key officials on strategies to improve dairy and livestock farming in a pre-budget discussion, as part of efforts to develop the rural economy, his office said.
-
-“Highlighting the strategic importance of the livestock sector, the President announced that the upcoming budget would place special emphasis on transforming local dairy production and livestock farming into fully-fledged industries,” the statement said.
-
-The President issued directives to expedite the resolution of state-owned land issues and to establish a comprehensive sector-wide data system.
-
-Financial allocations alone are insufficient, and mechanisms are need ensure that benefits of projects are effectively delivered to the public, he had said.
-
-Sri Lanka has import controls on maize, a key input to animal feed, which is keeping protein prices up in a country where little children suffer malnutrition, analysts have pointed out.
-
-...
-
-[Data](articles/e112330e.json)
-
----
-
-### කෝටි ගාණක රත්‍රං බිස්කට් තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට
-
-*2025-08-11 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213268) · `si`
-
-රුපියල් කෝටි එකොළහමාරකට අධික වටිනාකමින් යුත් රත්‍රං බිස්කට් තොගයක් සමග පුද්ගලයෙකු කටුනායක ගුවන්තොටුපළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-එම රන් බිස්කට් තොගයේ බර කිලෝග්‍රෑම් 1යි ග්‍රෑම් 2.66ක් බව සඳහන් වේ.
-
-විමර්ශන නිලධාරීන් සදහන් කළේ ඩුබායි රාජ්‍යයේ සිට වාහන අමතර කොටස් ගෙන්වන මුවාවෙන් ඒවා මෙරටට ගෙන්වා ඇති බවය.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 58ක් වන හලාවත ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-ඔහු රේගු නිලධාරීන්ට වාහන අමතර කොටස් සදහා පනවා ඇති බදුද ගෙවා පැමිණෙමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන්ට ඇති වූ සැකය මත අත්අඩංගුවට ගෙන ඇති බවද සඳහන් වේ.
-
-◼️
-
-[Data](articles/38b6c7f1.json)
-
----
-
-### ராகுல் காந்தி கைது
-
-*2025-08-11 19:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராகுல்-காந்தி-கைது/175-362711) · `ta`
-
-மகாராஷ்டிரம், கர்நாடகம் உள்ளிட்ட பல்வேறு மாநிலங்களிலும் வாக்காளர் பட்டியலில் இடம்பெற்ற மோசடிகள் குறித்து, கடந்த வாரம் ஊடகவியலாளர்கள் சந்திப்பின்போது எதிர்க்கட்சித் தலைவர் ராகுல் காந்தி உரிய ஆதாரங்களுடன் தகவலை வெளியிட்டிருந்தார்.
-
-பாஜக அரசுடன் சேர்ந்துகொண்டு தேர்தல் ஆணைக்குழு வாக்குத் திருட்டில் ஈடுபடுவதாகவும் அவர் குற்றச்சாட்டுகள் முன்வைத்தார்.
-
-இந்த நிலையில் இன்று காலை ராகுல் காந்தி தலைமையிலான எதிர்க்கட்சி நாடாளுமன்ற உறுப்பினர்கள் தேர்தல் ஆணைக்குழு நோக்கிப் பேரணியாகப் புறப்பட்டனர்.
-
-இதன்போது காவல்துறையினரின் அறிவுறுத்தலை ஏற்காத காரணத்தினால் ராகுல் காந்தி உட்பட சில நாடாளுமன்ற உறுப்பினர்கள் கைது செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. R
-
-◼️
-
-[Data](articles/e96a07c1.json)
 
 ---

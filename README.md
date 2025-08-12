@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 15:07:39**
+As of **2025-08-12 15:20:57**
 
 ## Newspaper Stats
 
-*Scraped **70,108** Articles*
+*Scraped **70,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,757
-adaderanalk | 8,733
-tamilmirrorlk | 10,277
-virakesarilk | 11,685
+adaderanalk | 8,736
+tamilmirrorlk | 10,279
+virakesarilk | 11,686
 adaderanasinhalalk | 12,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,108 articles have been extended.
+61,973 (88.4%) of 70,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### விரிக்கப்பட்டிருந்த மின் கம்பியில் சிக்கி இருவர் பலி
+
+*2025-08-12 15:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரிக்கப்பட்டிருந்த-மின்-கம்பியில்-சிக்கி-இருவர்-பலி/175-362775) · `ta`
+
+ஒரு நெல் வயலில் சட்டவிரோதமாக விரிக்கப்பட்டிருந்த மின்சார கம்பியில் சிக்கி இரண்டு பேர் இறந்த சம்பவம் தொடர்பில் கிடைத்த முறைப்பாட்டின்  பேரில் உரகஸ்மன்ஹந்திய பொலிஸ் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+உரகஸ்மன்ஹந்திய பொலிஸ் பிரிவில் உள்ள அம்பா கஹா சந்திக்கு அருகிலுள்ள வயலில் இந்த சம்பவம், செவ்வாய்க்கிழமை (12) காலை இடம்பெற்றுள்ளது.
+
+அங்கீகரிக்கப்படாத மின்சார கம்பிகளைப் பொருத்தியதாக சந்தேகத்தின் பேரில் இரண்டு பேர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6fdffb7e.json)
+
+---
+
+### மீகொடையில் துப்பாக்கிச் சூடு ; முன்னாள் பிரதேச சபை உறுப்பினர் உயிரிழப்பு
+
+*2025-08-12 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/222400) · `ta`
+
+மீகொடையில் இன்று செவ்வாய்க்கிழமை (12) அதிகாலை துப்பாக்கிச் சூட்டுச் சம்பவம் ஒன்று பதிவாகியுள்ளது.
+
+இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் காயமடைந்த ஹோமாகம பிரதேச சபையின் முன்னாள் உறுப்பினர் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
+
+முன்னாள் பிரதேச சபை உறுப்பினர் அட்டிகல்லே வீதியில் மோட்டார் சைக்கிளில் சென்று கொண்டிருந்த போதே, அவர் மீது காரில் பயணித்த அடையாளம் தெரியாத துப்பாக்கிதாரிகள் துப்பாக்கிச் சூட்டை மேற்கொண்டுள்ளனர்.
+
+இதன்போது, அவர் பல துப்பாக்கிச் சூட்டுக் காயங்களுக்குள்ளாகி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c7f633b0.json)
+
+---
+
+### குன்றத்தூர் அபிராமி மேன்முறையீடு
+
+*2025-08-12 14:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குன்றத்தூர்-அபிராமி-மேன்முறையீடு/175-362773) · `ta`
+
+திருமணத்தை மீறிய உறவு காரணமாக குழந்தைகளை கொலை செய்த வழக்கில் விதிக்கப்பட்ட சாகும் வரை சிறை என்ற தண்டனையை ரத்து செய்யக்கோரி அபிராமி தாக்கல் செய்த மேல்முறையீடு மனு குறித்து காவல்துறை பதிலளிக்க சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+குன்றத்தூர் அருகே உள்ள மூன்றாம் கட்டளைப் பகுதியைச் சேர்ந்தவர் விஜய் (30). இவர் தனியார் வங்கியில் பணி செய்து வருகிறார். இவர், அபிராமி (25) என்ற மனைவி, அஜய் (7) என்ற மகன், கார்னிகா (4) என்ற மகளுடன் வசித்து வந்தார்.
+
+டிக்டாக்கில் பிரபலமாக இருந்த அபிராமிக்கும், அருகில் உள்ள பிரியாணி கடை ஒன்றில் பணி செய்து வந்த மீனாட்சி சுந்தரத்துக்கும் பழக்கம் ஏற்பட்டுள்ளது. இந்தப் பழக்கம் நாளடைவில் முறை தவறிய உறவாக மாறியது. இருவரின் விவாகரம் வெளியில் தெரியவர, அவர்களை வீட்டில் கண்டித்தனர்.
+
+...
+
+[Data](articles/c612b609.json)
+
+---
+
+### Sri Lanka to launch floating solar power projects to achieve zero carbon emissions by 2050
+
+*2025-08-12 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111400/sri-lanka-to-launch-floating-solar-power-projects-to-achieve-zero-carbon-emissions-by-2050) · `en`
+
+The Cabinet of Ministers has granted approval to call for proposals from companies to provide consultancy services to carry-out feasibility studies and environmental impact assessments to launch floating solar power projects.
+
+The government has recognized renewable energy development as a national priority, aiming to accomplish 70% of electricity generation from renewable sources by 2030 and to achieve zero carbon emissions in electricity generation by 2050, Cabinet Spokesman Dr. Nalinda Jayatissa said.
+
+Accordingly, the Renewable Energy Resources Development Plan 2026–2030 has identified promising reservoirs with an estimated 3,000 megawatts of floating solar power potential, based on 10% median surface utilization.
+
+...
+
+[Data](articles/eb5b77d0.json)
+
+---
+
+### செம்மணி மனித புதைகுழியின் கதை சிங்களத்தில் - கொழும்பில் வியாழக்கிழமை நூல் வெளியாகின்றது.
+
+*2025-08-12 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222401) · `ta`
+
+செம்மணி மனித புதைகுழியின் கதையை கேட்டறிந்த பின்னர் சிங்களத்தில் அது குறித்து எழுத தீர்மானித்ததாக தெரிவித்துள்ள ஊடகவியலாளர் தரிந்து ஜெயவர்த்தன கிருஷாந்தி குமாரசுவாமியின் படுகொலைஇசெம்மணி மனித புதைகுழி குறித்த முதற்கட்ட விசாரணைகள்இஇலங்கையில் காணாமல்போதல்இசெம்மணி படுகொலையின் தற்போதைய கதைகோப்ரல் சோமரட்ண ராஜபக்சவின் மனைவி ஜனாதிபதிக்கு எழுதிய கடிதம் ஆகிய விடயங்கள் இந்த நூலில் இடம்பெற்றிருக்கும் என தெரிவித்துள்ளார்
+
+எதிர்வரும் வியாழக்கிழமை செம்மணி என்ற நூல் வெளியிடப்படும்யாழ்;ப்பாணம் செம்மணி மனித புதைகுழியின் கதையை கேட்டபிறகு இந்த நூல் வெளியாகின்றது.கிருஷாந்தி குமாரசுவாமியின் படுகொலைஇசெம்மணி மனித புதைகுழி குறித்த முதற்கட்ட விசாரணைகள்இலங்கையில் காணாமல்போதல்இசெம்மணி படுகொலையின் தற்போதைய கதைகோப்ரல் சோமரட்ண ராஜபக்சவின் மனைவி ஜனாதிபதிக்கு எழுதிய கடிதம் ஆகியன இந்த நூலில் அடங்கியிருக்கும்.
+
+செம்மணிக்கு சென்ற பிறகு நாங்கள் செம்மணி மற்றும் காணாமல்போனவர்கள் குறித்து மேலதிக தகவல்களை பெறுவதற்காக தேசிய நூலகத்திற்கு சென்றோம்.
+
+...
+
+[Data](articles/fc2ec9ce.json)
+
+---
+
+### ‘Ella Weekend Express’ from August 16
+
+*2025-08-12 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111399/ella-weekend-express-from-august-16) · `en`
+
+The Department of Railways has announced the introduction of a new train service between Colombo and Badulla to cater to the high demand from both local and foreign tourists.
+
+According to the department, the ‘Ella Weekend Express’ will operate from Colombo Fort to Badulla every Saturday at 5:30 a.m., commencing on August 16. The return journey from Badulla to Colombo Fort will operate on Sundays, starting on August 17.
+
+◼️
+
+[Data](articles/63a6563d.json)
+
+---
 
 ### වෙඩි වැදීමෙන් බරපතළ තුවාල ලැබූ හිටපු ප්‍රාස මන්ත්‍රී මරුට
 
@@ -47,20 +143,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d24864e9.json)
-
----
-
-### மீகொடையில்  துப்பாக்கிச் சூடு ; முன்னாள் பிரதேச சபை உறுப்பினர் உயிரிழப்பு
-
-*2025-08-12 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222400) · `ta`
-
-மீகொடையில் இன்று செவ்வாய்க்கிழமை (12) அதிகாலை துப்பாக்கிச் சூட்டுச் சம்பவம் ஒன்று பதிவாகியுள்ளது.
-
-இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் காயமடைந்த ஹோமாகம பிரதேச சபையின் முன்னாள் உறுப்பினர் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
-
-◼️
-
-[Data](articles/c7f633b0.json)
 
 ---
 
@@ -203,6 +285,20 @@ A former Homagama Pradeshiya Sabha member has sustained injuries in a shooting i
 ◼️
 
 [Data](articles/62020c13.json)
+
+---
+
+### Former Pradeshiya Sabha member dies in Meegoda shooting
+
+*2025-08-12 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111397/former-pradeshiya-sabha-member-dies-in-meegoda-shooting) · `en`
+
+(UPDATE): The former Homagama Pradeshiya Sabha member, who sustained injuries in a shooting incident in Meegoda earlier today has succumbed to his injuries while receiving treatment at the hospital.
+
+A former Homagama Pradeshiya Sabha member has sustained injuries in a shooting incident in Meegoda, Police stated.
+
+◼️
+
+[Data](articles/68b63538.json)
 
 ---
 
@@ -1655,113 +1751,5 @@ She has reportedly shared an update on the ongoing education reforms in Sri Lank
 ◼️
 
 [Data](articles/e59fb88b.json)
-
----
-
-### ඉන්දීය මහ කොමසාරිස් සහ අගමැති හරිනි අතර හමුවක්
-
-*2025-08-12 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213277) · `si`
-
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනෙවිය සහ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ්-ජා මහතා අතර විශේෂ සාකච්ඡාවක් පවත්වා තිබේ.
-
-අග්‍රාමාත්‍ය කාර්යාලයේ දී ඊයේ (11) දිනයේ මෙම සාකච්ඡාව පවත්වා ඇති බව ඉන්දීය මහ කොමසාරිස් කාර්යාලය සඳහන් කළේය.
-
-නායකත්වය සහ සැලසුම් කිරීම සඳහා වන පුහුණු වැඩසටහන් ඇතුළුව අධ්‍යාපන ක්ෂේත්‍රයේ ද්වීපාර්ශ්වික සහයෝගීතාව ශක්තිමත් කිරීම පිළිබඳ මෙහිදී සාකච්ඡා වී තිබේ.
-
-දෙමළ මාධ්‍ය සඳහා පවතින ගුරු හිඟයට විසඳුම් සෙවීම සහ නව අධ්‍යාපන ප්‍රතිසංස්කරණ අඛණ්ඩව ඉදිරියට ගෙන යාම පිළිබඳව ද මෙහිදී අවධානය යොමුවූ බව අග්‍රාමාත්‍ය කාර්යාලය සඳහන් කළේය.
-
-මෙම සාකච්ඡාව සඳහා අධ්‍යාපන අමාත්‍යංශ ලේකම් නාලක කළුවැව මහතා ද සහභාගී වී තිබේ.
-
-◼️
-
-[Data](articles/a0a22356.json)
-
----
-
-### Fuel taxes cannot be reduced until loans are fully repaid – Energy Minister
-
-*2025-08-12 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111379/fuel-taxes-cannot-be-reduced-until-loans-are-fully-repaid-energy-minister) · `en`
-
-There is no possibility of removing the taxes imposed on fuel until the loans obtained by the Ceylon Petroleum Corporation (CPC) are fully repaid, Minister of Energy Eng. Kumara Jayakody has stated.
-
-Minister Jayakody pointed out that if such tax relief were granted, the government would be unable to meet its loan repayment obligations.
-
-Energy Minister Kumara Jayakody made these remarks while participating in the Ada Derana “360°” current affairs program broadcast last night (11).
-
-◼️
-
-[Data](articles/c7b2c517.json)
-
----
-
-### Gold will be exempted from tariffs, says Donald Trump
-
-*2025-08-12 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111378/gold-will-be-exempted-from-tariffs-says-donald-trump) · `en`
-
-U.S. President Donald Trump said Monday that gold will be exempted from tariffs, leading to a material drop in gold futures prices.
-
-“Gold will not be Tariffed!” said Trump in a brief post on Truth Social.
-
-Gold futures prices, backed by bars shipped from Switzerland and other key trading and refining hubs, moved up notably on Thursday and Friday due to speculation that the U.S. Customs and Border Protection would classify 1-kilo and 100-ounce gold bars under a customs code that subjects them to tariffs.
-
-On Monday, gold futures for August delivery on the New York Mercantile Exchange lost over 2 percent.
-
-The United States recently imposed 39 percent tariffs on goods imported from Switzerland, which holds significant gold reserves and plays a crucial role in the settlement of gold futures on the international market.
-
-◼️
-
-[Data](articles/196971a1.json)
-
----
-
-### ණය ගෙවා අවසන් වනතුරු ඉන්ධන සඳහා බදු අඩු කළ නොහැකියි  බලශක්ති ඇමති
-
-*2025-08-12 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213276) · `si`
-
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව විසින් ලබාගෙන ඇති ණය ගෙවා අවසන් කරනතුරු ඉන්ධන සඳහා පනවා ඇති බදු ඉවත් කිරීමට හැකියාවක් නොමැති බව බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා පවසයි.
-
-ඔහු පෙන්වා දෙන්නේ අදාළ බදු ඉවත් කිරීම සිදුකළහොත් ණය ගෙවීමට නොහැකි තත්ත්වයක් උද්ගත වන බවය.
-
-ඊයේ රාත්‍රී (11) ටීවී දෙරණ ඔස්සේ විකාශය වූ 360 කාලීන වැඩසටහන සමග එක්වෙමින් බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා මේ බව සදහන් කළේය.
-
-◼️
-
-[Data](articles/c43fca73.json)
-
----
-
-### கிளிநொச்சியில் பெண் கொலை
-
-*2025-08-12 06:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-பெண்-கொலை/175-362736) · `ta`
-
-கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட ஊற்றுப்புலம் பகுதியில் உள்ள வீடொன்றில் தனிமையில் வசித்து வந்த பெண்ணே படுகொலை செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/62532ee8.json)
-
----
-
-### Constitutional Council likely to ratify name of new IGP today
-
-*2025-08-12 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111377/constitutional-council-likely-to-ratify-name-of-new-igp-today) · `en`
-
-The council is scheduled to convene under the chairmanship of Speaker of House Dr. Jagath Wickramaratne at 1:30 p.m., according to the Speaker’s Office.
-
-The meeting is expected to focus on the proposal regarding the appointment of a new Inspector General of Police (IGP).
-
-The position of IGP became vacant following the removal of former IGP Deshabandu Tennakoon through a resolution in Parliament.
-
-Subsequently, President Anura Kumara Dissanayake was expected to present a nominee for the post to the Constitutional Council for approval.
-
-Accordingly, reports indicate that the Constitutional Council is expected to reach a final decision on the appointment of the new IGP during today’s meeting.
-
-Meanwhile, Renuka Ekanayake has resigned from her position as a member of the National Police Commission.
-
-It has been reported that the resignation letter has already been submitted to the Constitutional Council.
-
-...
-
-[Data](articles/4f6d35d7.json)
 
 ---

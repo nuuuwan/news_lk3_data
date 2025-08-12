@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 06:09:45**
+As of **2025-08-12 06:34:59**
 
 ## Newspaper Stats
 
-*Scraped **69,991** Articles*
+*Scraped **69,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,742
 adaderanalk | 8,710
 tamilmirrorlk | 10,243
 virakesarilk | 11,672
-adaderanasinhalalk | 12,058
+adaderanasinhalalk | 12,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 69,991 articles have been extended.
+61,973 (88.5%) of 69,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
+
+*2025-08-12 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213273) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ වයඹ සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/42db3c59.json)
+
+---
+
+### මින්නේරිය ප්‍රදේශයේදී බස් රථයක් සහ ලොරි රථයක් ගැටී 26ක් රෝහලට
+
+*2025-08-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213272) · `si`
+
+කොළඹ - මඩකලපුව ප්‍රධාන මාර්ගයේ මින්නේරිය, බටුඔය ප්‍රදේශයේ සිදුවූ රිය අනතුරකින් පුද්ගලයින් 26 දෙනෙකු තුවාල ලබා තිබේ.
+
+අද (12) අලුයම 3ට පමණ මාදුරුඔය  සිට කොළඹ බලා ධාවනය වෙමින් තිබූ බස්රථයක් ඉදිරිපසින් පැමිණි ටිපර් රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සදහන් කළේය.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයින් පොළොන්නරුව, මින්නේරිය සහ හිගුරක්ගොඩ යන රෝහල් වෙත ඇතුලත් කර ඇත.
+
+තුවාල ලැබූ පුද්ගලයින්ගෙන් කිහිපදෙනෙකුගේ තත්ත්වය බරපතල බවද රෝහල් ආරංචි මාර්ග සදහන් කළේය.
+
+◼️
+
+[Data](articles/f3c033c5.json)
+
+---
 
 ### DIMO delivers intelligent building solutions to Cinnamon Life
 
@@ -1729,41 +1765,5 @@ President Dissanayake held separate discussions with officials on agriculture, l
 ◼️
 
 [Data](articles/52bd8ff9.json)
-
----
-
-### ITAK calls for ‘hartal’ in North and East on Friday
-
-*2025-08-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111356/itak-calls-for-hartal-in-north-and-east-on-friday) · `en`
-
-A ‘hartal’ will be observed on Friday (15), in the North and East to protest against the alleged “brutality of the military”, according to the Ilankai Tamil Arasu Kachchi (ITAK).
-
-The ‘hartal’ has been called over the recent death of a 32-year-old man and the alleged brutality of the military in the North and East.
-
-In a letter addressed to President Anura Kumara Dissanayake, the Secretary of the Ilankai Tamil Arasu Kachchi, former Member of Parliament MA Sumanthiran has also called for urgent and impartial investigation into the death of a 32-year-old man, whose body was found in the Muthuiyankaddu Tank on Saturday.
-
-The ITAK Secretary also called for the removal of what it terms the “excessive presence of the military” in the North and East, in the letter addressed to the President.
-
-◼️
-
-[Data](articles/c3a9a1ca.json)
-
----
-
-### පුද්ගලයෙකු කපාකොටා ඝාතනය කෙරේ
-
-*2025-08-11 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213259) · `si`
-
-යාපනය - කයිට්ස් පොලිස් වසමට අයත් පුන්ගුඩුතිව් ප්‍රදේශයේදී පුද්ගලයෙකු කපාකොටා ඝාතනය කර තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 46ක් වන පුන්ගුඩුතිව් ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-එහි සිටි පිරිස ඝාතනයට පැමිණි පුද්ගලයා අල්ලා ගැනීමට උත්සහ දරා ඇති අතර එහිදී ඔහු විසින් එම පිරිසටද පහර දී ඇත.
-
-එම පහරදීම් හේතුවෙන් කාන්තාවන් දෙදෙනෙකු ඇතුළු සිව් දෙනෙකු තුවාල ලබා යාපනය ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/1c01ec6a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 20:21:49**
+As of **2025-08-12 20:33:52**
 
 ## Newspaper Stats
 
-*Scraped **70,159** Articles*
+*Scraped **70,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,762
-adaderanalk | 8,742
+adaderanalk | 8,744
 tamilmirrorlk | 10,291
 virakesarilk | 11,698
 adaderanasinhalalk | 12,087
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,087
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,159 articles have been extended.
+61,973 (88.3%) of 70,161 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/34366ff7.json)
+
+---
+
+### US, China extend tariff truce by 90 days, staving off surge in duties
+
+*2025-08-12 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111409/us-china-extend-tariff-truce-by-90-days-staving-off-surge-in-duties) · `en`
+
+The United States and China have extended a tariff truce for another 90 days, staving off triple-digit duties on each other’s goods as U.S. retailers get ready to ramp up inventories ahead of the critical end-of-year holiday season.
+
+U.S. President Donald Trump announced on his Truth Social platform on Monday that he had signed an executive order suspending the imposition of higher tariffs until 12:01 a.m. EST (0501 GMT) on November 10, with all other elements of the truce to remain in place.
+
+China’s Commerce Ministry issued a parallel pause on extra tariffs early on Tuesday, also postponing for 90 days the addition of U.S. firms it had targeted in April to trade and investment restriction lists.
+
+“The United States continues to have discussions with the PRC to address the lack of trade reciprocity in our economic relationship and our resulting national and economic security concerns,” Trump’s executive order stated, using the acronym for the People’s Republic of China.
+
+...
+
+[Data](articles/19c796d3.json)
 
 ---
 
@@ -115,6 +133,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/65b01b85.json)
+
+---
+
+### Suspected gunman arrested in Meegoda shooting
+
+*2025-08-12 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111408/suspected-gunman-arrested-in-meegoda-shooting) · `en`
+
+The suspected gunman in the shooting incident that took place in Meegoda this afternoon (12) has been arrested, police said.
+
+The former Homagama Pradeshiya Sabha member, Shantha Mudunkotuwa, who sustained injuries in the shooting, later succumbed to his injuries while receiving treatment at the hospital.
+
+The 46-year-old former local councilor was hospitalized following the incident.
+
+◼️
+
+[Data](articles/ff41086e.json)
 
 ---
 
@@ -1697,43 +1731,5 @@ His visit to the Chemmani mass grave site is also expected to feature prominentl
 ...
 
 [Data](articles/3603c5ee.json)
-
----
-
-### UN Rights Chief to present report on “Human Rights situation in Sri Lanka” at next month’s UNHRC session
-
-*2025-08-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111390/un-rights-chief-to-present-report-on-human-rights-situation-in-sri-lanka-at-next-months-unhrc-session) · `en`
-
-United Nations High Commissioner for Human Rights Volker Türk, who visited Sri Lanka in June, is scheduled to present his report titled “Situation of Human Rights in Sri Lanka” at the upcoming 60th session of the Human Rights Council in Geneva, Switzerland.
-
-The 60th session of the Human Rights Council is scheduled to begin on September 8 and will continue until October 8.
-
-According to the agenda released by the Office of the UN High Commissioner for Human Rights, High Commissioner Volker Türk will present the report on Sri Lanka on the opening day of the session.
-
-UN High Commissioner for Human Rights Volker Türk undertook a four-day official visit to Sri Lanka in June, and he is scheduled to include his observations in the report.
-
-His visit to the Chemmani mass grave site is also expected to feature prominently in the report to be submitted to the UN Human Rights Council.
-
-...
-
-[Data](articles/a101d8b2.json)
-
----
-
-### සති අන්තයට කොළඹ කොටුවේ සිට බදුල්ලට අලුත් දුම්රියක්
-
-*2025-08-12 11:27:46* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයට-කොළඹ-කොටුවේ-සිට-බදුල්ලට-අලුත්-දුම්රියක්/11-417862) · `si`
-
-කොළඹ සිට බදුල්ල දක්වා ගමන් කිරීමට දේශීය ජනතාවගේ හා විදෙස් සංචාරකයන්ගේ පවතින අධික ඉල්ලුම හේතුවෙන් සති
-
-අන්තයේ කොළඹ සිට බදුල්ල දක්වා නව දුම්රියක් ධාවනයට ඒක් කරන බව දුම්රිය දෙපාර්තමේන්තුව කියයි.
-
-ELLA WEEKEND EXPRESS නමින් මෙම නව දුම්රිය ධාවනයට ඒක්වෙයි. ලබන 16 වැනි සෙනසුරාදා සිට ධාවනයට එක්කරන මෙම දුම්රිය සෑම සෙනසුරාදා දිනකම පෙ.ව. 5.30ට කොළඹ සිට බදුල්ල දක්වා ධාවනය කරයි.
-
-නැවතත් ඒම දුම්රිය අගෝස්තු 17 දින සිට සෑම ඉරිදා දිනකම ප.ව. 01.45ට බදුල්ලේ සිට කොළඹ කොටුව දක්වා ධාවනය කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/bfff9bee.json)
 
 ---

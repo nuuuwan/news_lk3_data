@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 16:22:44**
+As of **2025-08-12 16:34:10**
 
 ## Newspaper Stats
 
-*Scraped **70,128** Articles*
+*Scraped **70,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,758
-adaderanalk | 8,736
+adaderanalk | 8,739
 tamilmirrorlk | 10,285
 virakesarilk | 11,688
 adaderanasinhalalk | 12,082
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,128 articles have been extended.
+61,973 (88.4%) of 70,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/004dee86.json)
+
+---
+
+### Constitutional Council approves Priyantha Weerasooriya as IGP
+
+*2025-08-12 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111403/constitutional-council-approves-priyantha-weerasooriya-as-igp) · `en`
+
+The Constitutional Council has approved President Anura Kumara Dissanayake’s recommendation to appoint Acting Inspector General of Police (IGP) Priyantha Weerasooriya as the 37th Inspector General of Police of the country.
+
+This decision was made when the Constitutional Council met today (12) under the chairmanship of Speaker Jagath Wickramaratne.
+
+◼️
+
+[Data](articles/ded10b5b.json)
 
 ---
 
@@ -253,6 +267,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c612b609.json)
+
+---
+
+### Gamini Senarathne to be appointed Commissioner General of Buddhist Affairs
+
+*2025-08-12 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111402/gamini-senarathne-to-be-appointed-commissioner-general-of-buddhist-affairs) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal submitted by the Minister of Buddha Shasana, Religious and Cultural Activities to appoint R. M. Gamini Senarathne to the post of Commissioner General of Buddhist Affairs.
+
+He is currently serving as the Secretary to the Provincial Ministry of Agriculture, Agricultural Production Marketing, Livestock and Health, and Fisheries Activities of the North Central Provincial Council.
+
+The post of Commissioner General of Buddhist Affairs currently remains vacant.
+
+Kasun Wellahewa, a Special Grade officer in the Sri Lanka Administrative Service and currently serving as the Additional Commissioner General of the Department of Buddhist Affairs, is acting in this position in addition to duties of his permanent post.
+
+On August 03, Kasun Wellahewa, who served as the Additional Commissioner of the Department of Buddhist Affairs, was appointed as the Acting Commissioner General of Buddhist Affairs.
+
+...
+
+[Data](articles/97cc6e5e.json)
+
+---
+
+### Cabinet approval granted to recruit 62,000 to public service: President
+
+*2025-08-12 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111401/cabinet-approval-granted-to-recruit-62000-to-public-service-president) · `en`
+
+President Anura Kumara Dissanayake says his government’s aspiration is to bring the state into modernity.
+
+Speaking at the 2025 National Youth Conference in Colombo today (12), President Dissanayake noted that Cabinet approval has already been granted to promptly recruit around 62,000 individuals into the public service as part of the modernization effort.
+
+The President said, “Our government is not merely a center that provides jobs. Our government must become a center that creates jobs. But more importantly, we need a government that can build an economy and a social structure capable of sustaining such job creation through the public sector. Right now, our government is a patchwork of bits and pieces. What we are doing is bringing governance into the modern age. That’s why we’ve already identified about 62,000 vacancies that need to be urgently filled in the public service, and Cabinet approval has been granted for this.”
+
+...
+
+[Data](articles/750cd3c1.json)
 
 ---
 
@@ -1701,61 +1751,5 @@ A total of 200,244 foreign nationals visited the country in July which was an in
 ◼️
 
 [Data](articles/4e6207a6.json)
-
----
-
-### Nepal offers free climbs to 97 peaks as tourism to Everest surges
-
-*2025-08-12 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111384/nepal-offers-free-climbs-to-97-peaks-as-tourism-to-everest-surges) · `en`
-
-Nepal will make 97 of its Himalayan mountains free to climb for the next two years in a bid to boost tourism in some of its more remote areas.
-
-It comes as permit fees to summit Mount Everest, the world’s highest peak, during peak season will go up to $15,000 (£11,170) from September - the first increase in nearly a decade.
-
-Nepal’s tourism department said it hopes the initiative will highlight the country’s “unexplored tourism products and destinations”.
-
-Mountaineering generates a significant source of revenue for Nepal, which is home to the world’s 10 tallest mountains. Climbing fees brought in $5.9m last year, with Everest accounting for more than three quarters of that.
-
-The peaks for which fees will be waived are located in Nepal’s Karnali and Sudurpaschim provinces, standing between 5,970m (19,590 ft) and 7,132m high.
-
-Both provinces, located in the far-western region of Nepal, are among the country’s poorest and least developed provinces.
-
-...
-
-[Data](articles/d04ba678.json)
-
----
-
-### ரயில்வே பொது மேலாளரை பதவி நீக்க அமைச்சரவை அனுமதி
-
-*2025-08-12 09:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-பொது-மேலாளரை-பதவி-நீக்க-அமைச்சரவை-அனுமதி/175-362741) · `ta`
-
-ரயில்வே பொது மேலாளர் தம்மிக்க ஜயசுந்தரவை அந்தப் பதவியில் இருந்து நீக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
-
-போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க சமீபத்தில் அமைச்சரவையில் சமர்ப்பித்திருந்த அமைச்சரவை பத்திரத்திற்கு அனுமதி வழங்கப்பட்டுள்ளது.R
-
-◼️
-
-[Data](articles/b8a61580.json)
-
----
-
-### Father and son drown after boat capsizes in Parakrama Samudraya
-
-*2025-08-12 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111383/father-and-son-drown-after-boat-capsizes-in-parakrama-samudraya) · `en`
-
-A father and son have drowned after a boat capsized in the Parakrama Samudraya in Polonnaruwa, police stated.
-
-A group of individuals from Wennappuwa had visited a friend’s house in Polonnaruwa, and during their visit, they had taken a boat ride.
-
-It has been revealed through police investigations that the boat had capsized while carrying nine people at the time of the incident.
-
-The deceased have been identified as a 63-year-old male and his 38-year-old son, both residents of Wennappuwa.
-
-Their bodies have been placed at the morgue of the Polonnaruwa Hospital, and post-mortem examinations are scheduled to be conducted today (12).
-
-◼️
-
-[Data](articles/b66146ae.json)
 
 ---

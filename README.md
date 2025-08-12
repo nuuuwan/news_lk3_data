@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 16:34:10**
+As of **2025-08-12 16:48:33**
 
 ## Newspaper Stats
 
-*Scraped **70,131** Articles*
+*Scraped **70,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,268
 islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,758
+adalk | 6,759
 adaderanalk | 8,739
 tamilmirrorlk | 10,285
 virakesarilk | 11,688
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,131 articles have been extended.
+61,973 (88.4%) of 70,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -183,6 +183,20 @@ This decision was made when the Constitutional Council met today (12) under the 
 ◼️
 
 [Data](articles/975f49a5.json)
+
+---
+
+### මාස 08දී රාජ්‍ය සේවයට 62,000ක් බඳවා ගන්න අනුමැතිය
+
+*2025-08-12 15:22:25* · [`adalk`](https://www.ada.lk/breaking_news/මාස-08දී-රාජ්‍ය-සේවයට-62-000ක්-බඳවා-ගන්න-අනුමැතිය/11-417869) · `si`
+
+මාස 08කට ආසන්න කාලය තුළදී 62,314ක් අලුතින් රාජ්‍ය සේවයට බඳවා ගැනීම සඳහා අනුමැතිය ලබා දී ඇති බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය  අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+අද(12දා) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/bdc00a62.json)
 
 ---
 
@@ -1739,17 +1753,5 @@ A total of 200,244 foreign nationals visited the country in July which was an in
 ◼️
 
 [Data](articles/25de1447.json)
-
----
-
-### ரயில் திணைக்களத்தின் பொது முகாமையாளர் தம்மிக்க ஜெயசுந்தரவை பதவி நீக்க அமைச்சரவை அனுமதி
-
-*2025-08-12 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222371) · `ta`
-
-ரயில் திணைக்களத்தின் பொது முகாமையாளர் தம்மிக்க ஜெயசுந்தரவை பதவி நீக்க முன்மொழிவுக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
-
-◼️
-
-[Data](articles/4e6207a6.json)
 
 ---

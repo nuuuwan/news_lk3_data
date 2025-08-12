@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 23:07:18**
+As of **2025-08-12 23:20:36**
 
 ## Newspaper Stats
 
-*Scraped **70,172** Articles*
+*Scraped **70,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,764
 adaderanalk | 8,746
-tamilmirrorlk | 10,293
+tamilmirrorlk | 10,294
 virakesarilk | 11,699
 adaderanasinhalalk | 12,091
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,172 articles have been extended.
+61,973 (88.3%) of 70,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### வீரமுனை 35 வது படுகொலை தினம் அனுஷ்டிப்பு
+
+*2025-08-12 23:03:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வீரமுனை-35-வது-படுகொலை-தினம்-அனுஷ்டிப்பு/74-362811) · `ta`
+
+அம்பாறை மாவட்டம்  வீரமுனை  கிராமத்தில் 1990.08.12 அன்று 232 இற்கும் அதிகமான தமிழ் மக்கள் கொன்று குவிக்கப்பட்டு   35 ஆண்டுகள் நிறைவடைந்துள்ளன.
+
+1990-இல் நடைபெற்ற இனப்படுகொலையினை நினைவு கூர்ந்து வீரமுனையில்  இன்று அங்கு அமைந்துள்ள நினைவுத்தூபிக்கு முன்னால் அஞ்சலி நிகழ்வுகள் இடம்பெற்றன.
+
+இதன்போது பிள்ளையார் ஆலயத்திற்கு முன்னால் அமைக்கப்பட்டுள்ள நினைவுத்தூபிக்கு மாலை அணிவிக்கப்பட்டு கொலை செய்யப்பட்டவர்களை நினைவு கூர்ந்து, தீபச்சுடர் ஏற்றி ஒரு நிமிட அஞ்சலியுடன் அஞ்சலி வணக்கமும் செலுத்தப்பட்டுள்ளது.
+
+கடந்த யுத்த சூழ்நிலையில் சம்மாந்துறை பிரதேசத்தில் நிகழ்ந்த வன்செயல்கள் காரணமாக வீரமுனையையும் அதன் சுற்றுவட்டக் கிராமங்களான வீரச்சோலை, மல்லிகைத்தீவு, மல்வத்தை, வளத்தாப்பிட்டி, சொறிக்கல்முனை அம்பாறை பகுதிகளைச் சேர்ந்த பல நூற்றுக்கணக்கான மக்கள் தங்கள் வீரமுனை சிந்தா யாத்திரைப் பிள்ளையார் கோயில் வளவினுள்ளும் வீரமுனை இராமகிருஸ்ண மிசன் பாடசாலை வளவினுள்ளும் தஞ்சம் புகுந்திருந்தனர்.
+
+...
+
+[Data](articles/676d11fd.json)
+
+---
 
 ### ஹர்த்தால் போராட்டத்திற்கான திகதியில் மாற்றம்
 
@@ -1701,27 +1719,5 @@ Due to the resulting dispute, the Chairman of the Urban Council decided to postp
 ...
 
 [Data](articles/f77c8061.json)
-
----
-
-### Sri Lanka discussing tax, local market access for Sinopec refinery: Minister
-
-*2025-08-12 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-tax-local-market-access-for-sinopec-refinery-minister-235704/) · `en`
-
-ECONOMYNEXT – Sri Lanka is discussing tax and local market access for a refinery to be built by China’s Sinopec, Deputy Economic Development Minister Anil Jayantha said.
-
-“..[W]hen it comes to tax-related issues and other things, there is a little delay,” Minister Jayantha told an investment forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commission.
-
-“As of now, what I can say, it is in the final stage. There are a few things yet to be agreed upon, but almost it is done.”
-
-Also being discussed is the refinery’s access to local markets. The refinery was supposed to be an export-oriented project approved by the Board of Investment.
-
-“We are talking about market accessibility and the demand for energy,” Minister Jayantha explained.
-
-“As of now, in Sri Lanka, the daily requirement is around 120,000, 140,000 balance per day. This investment has a huge capacity.
-
-...
-
-[Data](articles/57e18603.json)
 
 ---

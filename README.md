@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 22:24:03**
+As of **2025-08-12 22:43:21**
 
 ## Newspaper Stats
 
-*Scraped **70,170** Articles*
+*Scraped **70,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,764
 adaderanalk | 8,745
-tamilmirrorlk | 10,292
+tamilmirrorlk | 10,293
 virakesarilk | 11,699
 adaderanasinhalalk | 12,091
 
@@ -26,25 +26,45 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,170 articles have been extended.
+61,973 (88.3%) of 70,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
 
-### ජනපති සහ කැනේඩියානු මහකොමසාරිස්වරයා අතර හමුවක්
+### ஹர்த்தால் போராட்டத்திற்கான திகதியில் மாற்றம்
+
+*2025-08-12 22:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்த்தால்-போராட்டத்திற்கான-திகதியில்-மாற்றம்/175-362809) · `ta`
+
+வடக்கு, கிழக்கில் எதிர்வரும் 15 ஆம் திகதி நடத்துவதற்குத் திட்டமிடப்பட்ட ஹர்த்தால் போராட்டத்திற்கான திகதி மாற்றப்பட்டுள்ளதாக, இலங்கை தமிழரசுக் கட்சியின் பதில் பொதுச் செயலாளர் எம்.ஏ. சுமந்திரன் தெரிவித்தார்.
+
+இராணுவ பிரசன்னத்தை ஆட்சேபித்தும், முத்தையன்கட்டுக் குளத்தில் தமிழ் இளைஞர் உயிரிழந்த சம்பவத்தைக் கண்டித்தும், இலங்கை தமிழரசு கட்சியினால் ஹர்த்தால் போராட்டத்திற்கு அழைப்பு விடுக்கப்பட்டது.
+
+இந்த நிலையில் மன்னார் மற்றும் யாழ்ப்பாணம் மாவட்டங்களில் இடம்பெறும் வழிபாட்டு நிகழ்வுகளை அடிப்படையாகக் கொண்டு, எதிர்வரும் 18 ஆம் திகதி குறித்த ஹர்த்தால் போராட்டத்தை முன்னெடுக்கத் தீர்மானிக்கப்பட்டதாக, இலங்கை தமிழரசுக் கட்சியின் பதில் பொதுச் செயலாளர் எம்.ஏ. சுமந்திரன் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/056563c1.json)
+
+---
+
+### රාජ්‍ය තාන්ත්‍රිකයින් කිහිපදෙනෙක් ජනපතිව හමුවෙයි
 
 *2025-08-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213310) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ කැනේඩියානු මහ කොමසාරිස් එරික් වොල්ෂ් (Eric Walsh) මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (12) පස්වරුවේ පැවැත්විණ.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ ඔස්ට්‍රේලියානු මහකොමසාරිස්  Paul Stephens අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (12) පස්වරුවේ පැවැත්වුණි.
 
-සිය ධුර කාලය අවසන් කරමින් ශ්‍රී ලංකාවෙන් පිටත්ව යන එරික් වොල්ෂ් මහතාගේ ඉදිරි කටයුතු වෙනුවෙන් ජනාධිපතිවරයා මෙහිදී ඔහුට සුබ පතා තිබේ.
+සිය ධුර කාලය අවසන් කරමින් ශ්‍රී ලංකාවෙන් පිටත්ව යන ඒ මහතාගේ ඉදිරි කටයුතු වෙනුවෙන් ජනාධිපතිවරයා මෙහිදී ඔහුට සුබපැතුම් එක් කළේය.
 
-කැනඩාව යනු ශ්‍රී ලාංකිකයන් විශාල පිරිසක් වාසය කරන රටක් බව සිහිපත් කළ ජනාධිපතිවරයා, ආර්ථික අර්බුදයට සාර්ථකව මුහුණ දීමට මෙන්ම, මෙරට මානව හිමිකම් ප්‍රර්වර්ධනයේදී සහ සංහිඳියා ක්‍රියාවලියේදී කැනඩාව ලබා දුන් සහාය අගය කළ අතර, තවදුරටත් එම සහාය ලබා දෙනු ඇතැයි බලාපොරොත්තු වන බවද සඳහන් කළේය.
+ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදයේදී මෙන්ම, ඉන් පසුවද, ඔස්ට්‍රේලියානු මහකොමසාරිස්වරයා ලබා දුන් සහාය ජනාධිපතිවරයා විසින් ඇගයීමට ලක් කෙරුණි.
 
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක සහ ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රෝෂන් ගමගේ යන මහත්වරුද මෙම අවස්ථාවට සහභාගී වූහ.
+මෙරට සංචාරක, අධ්‍යාපන සහ වෘත්තීය පුහුණු ආදී ක්ෂේත්‍රවල සංවර්ධනය වෙනුවෙන් ඉදිරියටත් ඔස්ට්‍රේලියාව සහාය ලබාදෙනු ඇති බවද ඔස්ට්‍රේලියානු මහකොමසාරිස්වරයා මෙහිදී ජනාධිපතිවරයා හමුවේ පවසා තිබුණි.
 
-◼️
+මේ අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ කැනේඩියානු මහකොමසාරිස් එරික් වොල්ෂ් අතර හමුවක් ද ජනාධිපති කාර්යාලයේදී අද පස්වරුවේ පැවැත්වුණි.
+
+සිය ධුර කාලය අවසන් කරමින් ශ්‍රී ලංකාවෙන් පිටත්ව යන එරික් වොල්ෂ් මහතාගේ ඉදිරි කටයුතු වෙනුවෙන් ජනාධිපතිවරයා මෙහිදී ඔහුට සුබ පැතීය.
+
+...
 
 [Data](articles/a48f5d50.json)
 
@@ -1707,25 +1727,5 @@ Also being discussed is the refinery’s access to local markets. The refinery w
 ...
 
 [Data](articles/a34734ec.json)
-
----
-
-### Body of A/L student found in well near tuition class in Vavuniya
-
-*2025-08-12 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111391/body-of-al-student-found-in-well-near-tuition-class-in-vavuniya) · `en`
-
-The body of a girl studying for the GCE Advanced Level examination was found in a well near a private tuition class in Vairavapuliyankulam, Vavuniya.
-
-The body was found last evening (11), according to police. The deceased, a resident of Vavuniya, was a Commerce stream student preparing for the 2025 GCE Advanced Level examination.
-
-She had attended classes last morning, but failed to return home in the evening.
-
-Subsequently, her school bag and the bicycle she had used were found inside the tuition class, while her shoes were discovered near a well close to the classroom. The Vavuniya Police were informed, and Vavuniya Urban Council employees, together with area residents, inspected the well.
-
-A post-mortem examination is scheduled for today (12), while Vavuniya Police continue investigations to determine whether the death was a suicide or as a result of other causes.
-
-◼️
-
-[Data](articles/c037c551.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 12:27:16**
+As of **2025-08-12 12:39:06**
 
 ## Newspaper Stats
 
-*Scraped **70,058** Articles*
+*Scraped **70,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,751
+adalk | 6,752
 adaderanalk | 8,725
-tamilmirrorlk | 10,265
+tamilmirrorlk | 10,266
 virakesarilk | 11,673
-adaderanasinhalalk | 12,072
+adaderanasinhalalk | 12,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,058 articles have been extended.
+61,973 (88.5%) of 70,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### මෙරට මානව හිමිකම් තත්ත්වය ගැන වාර්තාවක්
+
+*2025-08-12 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213287) · `si`
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් මහ කොමසාරිස් වොල්කර් ටර්ක්, ස්විට්සර්ලන්තයේ ජිනීවා හි පැවැත්වෙන මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරයේදී “ශ්‍රී ලංකාවේ මානව හිමිකම් තත්ත්වය” යන මාතෘකාව යටතේ තම වාර්තාව ඉදිරිපත් කිරීමට නියමිතය තිබේ.
+
+මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරය සැප්තැම්බර් 8 වන දින ආරම්භ වන අතර එය  ඔක්තෝබර් 8 දක්වා පැවැත්වෙයි.
+
+මානව හිමිකම් පිළිබඳ එක්සත් ජාතීන්ගේ මහ කොමසාරිස් කාර්යාලය විසින් නිකුත් කරන ලද න්‍යාය පත්‍රයට අනුව, සැසිවාරයේ ආරම්භක දිනයේදී මහ කොමසාරිස් වොල්කර් ටර්ක් ශ්‍රී ලංකාව පිළිබඳ වාර්තාව ඉදිරිපත් කරනු ඇත.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් වොල්කර් ටර්ක් ජුනි මාසයේදී ශ්‍රී ලංකාවේ දින හතරක නිල සංචාරයක නිරත වූ අතර, ඔහු වාර්තාවට එම  නිරීක්ෂණ ඇතුළත් කිරීමට නියමිතව තිබේ.
+
+එමෙන්ම චෙමනි සමූහ මිනීවළ පවතින ප්‍රදේශයේ ඔහු කළ සංචාර සම්බන්ධ තොරතුරු එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයට ඉදිරිපත් කිරීමට නියමිත වාර්තාවේ ප්‍රමුඛ ස්ථානයක් ගනු ඇතැයි ද අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/f0b382f3.json)
+
+---
 
 ### 97  சிகரங்களில் இலவசமாக ஏற அனுமதி
 
@@ -72,19 +92,47 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-12 11:40:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரொனால்டோ-ஜார்ஜினா-நிச்சதார்த்தம்-கண்களை-கவரும்-மோதிரம்/44-362756) · `ta`
 
-உலக புகழ்பெற்ற கால்பந்து வீரரான கிறிஸ்டியானோ ரொனால்டோ தனது வருங்கால மனைவி ஜார்ஜினா ரோட்ரிகஸின் நிச்சயதார்த்த மோதிரம் கண்ணைக் கவர்ந்துள்ளது.
+நீண்ட கால காதலியான, ஜார்ஜினா ரோட்ரிக்ஸை கரம்பிடிக்க உள்ளார் கால்பந்து ஜாம்பவான் கிறிஸ்டியானோ ரொனால்டோ.
 
-புதிதாக நிச்சயதார்த்தம் செய்து கொண்ட தம்பதியினர் திங்கட்கிழமை (11)  மாலை பதிவில் இன்ஸ்டாகிராம் பதிவில் கிட்டத்தட்ட ஒரு தசாப்தத்திற்குப் பிறகு திருமணம் செய்து கொள்ளப் போவதாக அறிவித்தனர்.
+சர்வதேச கால்பந்து அரங்கில் முன்னணி வீரராக வலம் வருபவர் போர்ச்சுக்கல் கால்பந்து வீரர் கிறிஸ்டியானோ ரொனால்டோ. 37 வயதான இவர் கால்பந்து விளையாட்டில் பல சாதனைகளை படைத்துள்ளார். மேலும், சிறந்த வீரர்களுக்கென வருடாவருடம் வழங்கப்படும் தங்க கால்பந்து கோப்பையை 5 முறை வென்றுள்ளார்
 
-ஆனால் ஜார்ஜினாவின் விரலில் இருந்த திகைப்பூட்டும் மோதிரம் ரசிகர்களின் கண்களை ஈர்த்தது, அவர் தனது   மோதிரத்தை அனைவரும் பார்க்கும் வகையில் பிரகாசித்தார்.
+தற்போது கிறிஸ்டியானோ ரொனால்டோ சவுதி அரேபிய கால்பந்து கிளப் அணியான அல்-நாஸ்ர் எஃப்சி அணியை வழிநடத்தி வருகிறார்.
 
-லோரல் டயமண்ட்ஸின் நிச்சயதார்த்த மோதிர நிபுணர் லாரா டெய்லர் கூறுகையில்,  'கிறிஸ்டியானோ ரொனால்டோவின் ஜார்ஜினா ரோட்ரிக்ஸின் நிச்சயதார்த்த மோதிரம் ஒரு அசாதாரணமான துண்டு, இது 15 முதல் 20 காரட் வரம்பில் ஓவல்-வெட் வைரமாகத் தோன்றும்.
-
-'ஓவல் வெட்டுக்கள் அவற்றின் அற்புதமான முகப்பிற்கு பெயர் பெற்றவை, இது பிரகாசத்தை அதிகரிக்கிறது மற்றும் ஒவ்வொரு கோணத்திலிருந்தும் கல்லுக்கு ஒரு பிரகாசமான, துடிப்பான தோற்றத்தை அளிக்கிறது.
+2024 -25 ஆம் ஆண்டுகளில் அந்த அணிக்காக 30 போட்டிகளில் விளையாடி 25 கோல்களை அடித்து அசத்தி இருக்கிறார். தொழில்முறை கால்பந்து போட்டிகளில் அதிக கோல்கள் (865) அடித்தவர் என்ற சாதனையை ரொனால்டோ படைத்துள்ளார். 2022 ஃபிஃபா உலகக் கோப்பை சாம்பியனான லியோனல் மெஸ்ஸி, 821 கோல்களுடன் எலைட் பட்டியலில் இரண்டாவது இடத்தில் உள்ளார்.
 
 ...
 
 [Data](articles/509c4849.json)
+
+---
+
+### දුම්රිය සාමානාධිකාරී ඉවත් කිරීමට කැබිනට් අනුමැතිය?
+
+*2025-08-12 11:39:25* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සාමානාධිකාරී-ඉවත්-කිරීමට-කැබිනට්-අනුමැතිය-/11-417863) · `si`
+
+දුම්රිය සාමාන්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා එම ධුරයෙන් ඉවත් කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ පැවැති කැබිනට් රැස්වීමේදී මෙම අනුමැතිය හිමිව තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව තුළ දිගින් දිගටම පවතින අකාර්යක්ෂමතාව හේතුවෙන් ඒ මහතා ධුරයෙන් ඉවත් කළ යුතු බවට වන යෝජනාවක් විෂයභාර අමාත්‍ය බිමල් රත්නායක මහතා විසින් කැබිනට් මණ්ඩලයට ඉදිරිපත් කර තිබූ බවට තොරතුරු වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/f95bd7ba.json)
+
+---
+
+### ”ரணிலால் செய்ய முடியாததை அனுர செய்து விட்டார்”
+
+*2025-08-12 11:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலால்-செய்ய-முடியாததை-அனுர-செய்து-விட்டார்/175-362755) · `ta`
+
+இலங்கையின் கடனை ஜனாதிபதி அனுர குமார திசாநாயக்க மறுசீரமைத்ததாகவும், முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவால் கூட இதை செய்ய முடியவில்லை என்றும் காணி மற்றும் நீர்ப்பாசன துணை அமைச்சர் சுசில் ரணசிங்க தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்குப் பேட்டியளித்த துணை அமைச்சர், கடனை மறுசீரமைக்கும் பணிகள் மேற்கொள்ளப்படுவது மட்டுமல்லாமல், 2028 ஆம் ஆண்டுக்குள் கடன்களைத் திருப்பிச் செலுத்தத் தொடங்கும் பொருளாதாரமாகவும் மாற்றப்பட்டு வருவதாகக் கூறினார்.
+
+"எனவே, தயவுசெய்து கிராம மக்களிடையே தேவையற்ற குழப்பத்தை ஏற்படுத்துவதை நிறுத்துங்கள். இந்த 09 மாதங்களுக்குள், ஜனாதிபதி ஒரு நல்ல போட்டியை விளையாடியுள்ளார். SLPP-யின் சிலர் ரொக்கெட் சம்பவத்தைப் பிடித்துக்கொண்டு வேடிக்கை பார்க்கிறார்கள். ஜாக்கிரதை, நீங்கள் அதே வேகத்தில் விழக்கூடும்," என்று அவர் எச்சரித்தார்.
+
+◼️
+
+[Data](articles/749eae65.json)
 
 ---
 
@@ -1693,53 +1741,5 @@ The local company operating the site had reportedly been conducting ilmenite pro
 ...
 
 [Data](articles/1c13453d.json)
-
----
-
-### HSBC awarded Best International Bank in Sri Lanka by Euromoney for the second consecutive year
-
-*2025-08-11 21:47:00* · [`islandlk`](http://island.lk/hsbc-awarded-best-international-bank-in-sri-lanka-by-euromoney-for-the-second-consecutive-year/) · `en`
-
-HSBC has been recognised as the Best International Bank in Sri Lanka by Euromoney for the second year in a row in their Awards for Excellence 2025.
-
-The award recognises HSBC’s leadership in banking innovation, corporate sustainability, and financial stability, noting that the bank deepened its digital reach, achieving 98% digital penetration in cash‑management and 84% in trade transactions via HSBCNet, and rolled out a fully digital account‑opening process.
-
-...
-
-[Data](articles/c0132eb4.json)
-
----
-
-### CEAT ranks as Sri Lanka’s Most Valuable Tyre Brand in 2025 Brand Finance Report
-
-*2025-08-11 21:46:00* · [`islandlk`](http://island.lk/ceat-ranks-as-sri-lankas-most-valuable-tyre-brand-in-2025-brand-finance-report/) · `en`
-
-Elevated to 6th strongest consumer brand in the country; brand value up 15% year-on-year
-
-CEAT, Sri Lanka’s highest-selling pneumatic tyre brand, has once again reaffirmed its leadership in the country’s automotive sector by being ranked the ‘Most Valuable Tyre Brand in Sri Lanka’ for 2025 in the latest edition of the Brand Finance Lanka rankings.
-
-According to the report by Brand Finance – the world’s leading brand valuation consultancy – CEAT has grown its brand value by 15% to Rs 2.325 billion, securing 44th place overall among Sri Lanka’s 100 most valuable brands.
-
-Notably, CEAT has also been recognised as the 6th strongest consumer brand in the country based on its Brand Strength Index (BSI) score of 83.3/100, and retains its AAA- brand strength rating, a distinction shared by only a handful of top-tier brands in the island.
-
-Globally, CEAT is ranked the eighth strongest tyre brand by Brand Finance.
-
-...
-
-[Data](articles/d69fdfb2.json)
-
----
-
-### Dialog sustains growth momentum, delivering strong 1H 2025 performance
-
-*2025-08-11 21:45:00* · [`islandlk`](http://island.lk/dialog-sustains-growth-momentum-delivering-strong-1h-2025-performance/) · `en`
-
-Dialog Axiata PLC announced its consolidated financial results for the six months ended 30th June 2025. Financial results included those of Dialog Axiata PLC (the “Company”) and of Dialog Axiata Group (the “Group”).
-
-The Group delivered robust results across its Mobile, Fixed Line, Digital Pay Television, and Tele-infrastructure businesses, achieving 6% year-to-date (“YTD”) revenue growth to Rs87.4Bn in 1H 2025. This was despite the strategic scaling down of low-margin international wholesale business, amounting to approximately Rs10Bn. On a quarter-on-quarter (“QoQ”) basis, revenue increased 2% to Rs44.1Bn, driven primarily by data revenue expansion. Core revenue for the period reached Rs84.2Bn, up 21% YTD.
-
-...
-
-[Data](articles/345c071e.json)
 
 ---

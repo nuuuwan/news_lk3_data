@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 04:32:45**
+As of **2025-08-13 04:51:04**
 
 ## Newspaper Stats
 
-*Scraped **70,182** Articles*
+*Scraped **70,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 716
 economynextcom | 4,276
 islandlk | 4,293
 dailymirrorlk | 4,733
-dailyftlk | 4,927
+dailyftlk | 4,931
 adalk | 6,764
 adaderanalk | 8,746
 tamilmirrorlk | 10,295
@@ -26,11 +26,91 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,182 articles have been extended.
+61,973 (88.3%) of 70,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### Harsha proposes export-focused diplomacy and SME credit facility using EPF/ETF
+
+*2025-08-13 04:31:54* · [`dailyftlk`](https://www.ft.lk/business/Harsha-proposes-export-focused-diplomacy-and-SME-credit-facility-using-EPF-ETF/34-780193) · `en`
+
+SJB MP Dr. Harsha de Silva addresses SME issues at Ceylon United Business Alliance International launch
+
+Ceylon United Business Alliance President Tania Abeysundara urges policy overhaul to support SMEs
+
+Main opposition party, Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva last week proposed two structural interventions to support Sri Lanka’s small and medium enterprises (SMEs): training diplomatic missions to promote exports and creating a dedicated long-term credit facility by tapping into domestic provident funds.
+
+Delivering an address at the launch of Ceylon United Business Alliance (CUBA) International, an initiative of the Ceylon United Business Alliance, de Silva urged a shift in policy towards SMEs. The alliance is a consortium of small and medium enterprises that was formed during the COVID-19 crisis to deal with challenges they have since faced.
+
+...
+
+[Data](articles/e6af9450.json)
+
+---
+
+### Opposition trying to shield real masterminds of Easter attacks: Cabinet Spokesman
+
+*2025-08-13 04:25:04* · [`dailyftlk`](https://www.ft.lk/news/Opposition-trying-to-shield-real-masterminds-of-Easter-attacks-Cabinet-Spokesman/56-780192) · `en`
+
+Notes Jayasekara’s name never appeared in earlier investigations or inquiries
+
+Claims Opposition now trying to link unrelated incidents to case to divert focus
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday alleged the Opposition was attempting to shield the true masterminds behind the 2019 Easter Sunday terror attacks, a move he claimed mirrored the actions of the previous Rajapaksa administration.
+
+He made these remarks at the weekly post-Cabinet meeting media briefing, when queries were posed on the no-confidence motion against Defence Deputy Minister Major General (Retd.) Aruna Jayasekara.
+
+When asked if the Government would treat Jayasekara in the same manner as other officials under investigation, including former IGP Pujith Jayasundara and former SIS chief Nilantha Jayawardena; Dr. Jayatissa dismissed the suggestion, saying the Government would not be swayed by political manoeuvres.
+
+...
+
+[Data](articles/550c6295.json)
+
+---
+
+### Opposition submits NCM against Deputy Minister of Defence Aruna Jayasekera
+
+*2025-08-13 04:23:57* · [`dailyftlk`](https://www.ft.lk/news/Opposition-submits-NCM-against-Deputy-Minister-of-Defence-Aruna-Jayasekera/56-780191) · `en`
+
+The Opposition parties yesterday submitted a no-confidence motion (NCM) against Deputy Minister of Defence Major General (Retd.) Aruna Jayasekara to the Speaker of the House.
+
+Although the motion was scheduled to be handed over on Monday, it was postponed to yesterday as the Speaker was in Polonnaruwa.
+
+The Opposition cited serious concerns over Jayasekara’s alleged involvement and conflict of interest in the investigations into the 2019 Easter Sunday terror attacks.
+
+The motion raises alarm over Jayasekara’s role as the Commander of the Security Force (East) during key incidents linked to the Easter attacks, including the Vavunathivu police killings and the Sainthamaruthu explosion, both considered pivotal moments in the lead-up to the bombings.
+
+It further states that a potential conflict of interest exists as Jayasekara, now holding a powerful position in the Defence Ministry, may influence subordinates or witnesses involved in the ongoing probes, risking impartiality.
+
+...
+
+[Data](articles/a57c2e91.json)
+
+---
+
+### Constitutional Council approves Priyantha Weerasooriya as 37th IGP
+
+*2025-08-13 04:22:49* · [`dailyftlk`](https://www.ft.lk/news/Constitutional-Council-approves-Priyantha-Weerasooriya-as-37th-IGP/56-780190) · `en`
+
+The Constitutional Council has approved President Anura Kumara Disanayake’s recommendation to appoint Acting Inspector General of Police (IGP) Priyantha Weerasooriya as the 37th IGP of the country.
+
+This decision was made when the Constitutional Council met yesterday under the chairmanship of Speaker Dr. Jagath Wickramaratne.
+
+The position of IGP became vacant following the removal of former IGP Deshabandu Thennakoon through a resolution in Parliament.
+
+Weerasooriya is the first officer in the 158-year history of the Police service to rise from the rank of Police constable to IGP.
+
+A law graduate from the University of Colombo, he became an Assistant Superintendent of Police (ASP) after being sworn in as a lawyer at the Sri Lanka Law College. He also holds a Bachelor of Business Administration in Human Resource Management.
+
+Remarkably, 10 IGPs have issued commendation letters in recognition of Weerasooriya’s 36 years of outstanding service in the Police Department.
+
+...
+
+[Data](articles/95c3f496.json)
+
+---
 
 ### மலேசிய உயர்ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
 
@@ -1669,71 +1749,5 @@ The Bribery Commission had stated that the former Minister has failed to provide
 ◼️
 
 [Data](articles/8ceb32b6.json)
-
----
-
-### අගමැතිණිය ඉවත් කරනවාද? රජයේ තීරණය මෙන්න
-
-*2025-08-12 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිණිය-ඉවත්-කරනවාද--රජයේ-තීරණය-මෙන්න/11-417865) · `si`
-
-අගමැති ධුරය වෙනස් කිරීමට කිසිදු අදහසක් රජයට නොමැති බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය  අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-මාධ්‍යවේදියෙකු දැන් පැවැත්වෙන කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මෙලෙස රජයේ තීරණය දැනුම් දුන්නේය.
-
-◼️
-
-[Data](articles/f2eca99e.json)
-
----
-
-### President calls for responsible youth leadership, rejects dynastic politics
-
-*2025-08-12 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111395/president-calls-for-responsible-youth-leadership-rejects-dynastic-politics) · `en`
-
-President Anura Kumara Dissanayake emphasized the urgent need to foster a new generation of responsible young leaders, rejecting the concept of political dynasties or youth leaders who merely focus on protecting family power.
-
-Speaking at the opening ceremony of the National Youth Conference held at the Sugathadasa Stadium in Colombo today (12), President Dissanayake noted that the youth who step into leadership must be genuine, capable, and ethical — individuals ready to take over the country’s future after the current leadership.
-
-The Head of State further stressed the importance of nurturing a new youth generation that is adaptable, seeks knowledge, and can take charge of the country’s future.
-
-...
-
-[Data](articles/21c29271.json)
-
----
-
-### රාජිතට වරෙන්තු
-
-*2025-08-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213289) · `si`
-
-අල්ලස් කොමිසම විසින් සිදු කරන විමර්ශනයක සැකකරුවෙකු වශයෙන් නම්කර සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (12) වරෙන්තු නිකුත් කළේය.
-
-සැකකාර හිටපු අමාත්‍යවරයා ප්‍රකාශ ලබාදීම මගහරිමින් විමර්ශනවලට බාධා කරන බවට අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා අනතුරුව මෙම නියෝගය නිකුත් කරනු ලැබීය.
-
-අදාළ නඩුව අද (12) මෝසමක් මාර්ගයෙන් කැඳවමින් අල්ලස් කොමිසමේ සහකාර නීති අධ්‍යක්ෂිකා සුලෝචනා හෙට්ටිආරච්චි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් 2012 වසරේ මැයි මස 19 වනදා  "සී වූ ප්‍රයිවට් ලිමිටඩ්" නමැති කොරියානු සමාගමක් ඉදිරිපත් කළ යෝජනාවකට අනුව කිරින්ද ධීවර වරායේ පිරී තිබෙන වැලි ඉවත්කර ඒවා පිරිසිදු කර දේශීය වෙළඳපොළට මුදා හැරීමේ ව්‍යාපෘතියක් ආරම්භ කිරීම සඳහා එවක ධීවර අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් අනුමැතිය ලබාදී තිබෙන බව සඳහන් කළාය.
-
-...
-
-[Data](articles/02aef8d9.json)
-
----
-
-### ”எல்ல வீக்கெண்ட் எக்ஸ்பிரஸ்”
-
-*2025-08-12 12:48:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்ல-வீக்கெண்ட்-எக்ஸ்பிரஸ்/76-362759) · `ta`
-
-வார இறுதி நாட்களில் நுவரெலியா மற்றும் எல்ல பகுதிகளுக்கு வருகை தரும் உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கு வசதியாக, இந்த மாதம் 16 ஆம் திகதி முதல் ஒவ்வொரு வார இறுதியிலும் ‘எல்ல வீக்கெண்ட் எக்ஸ்பிரஸ்’ இயக்கப்படும் என்று ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
-
-இந்த ரயில் ஒவ்வொரு சனிக்கிழமையும் காலை 5.30 மணிக்கு கொழும்பு கோட்டை ரயில் நிலையத்திலிருந்து புறப்பட்டு ஞாயிற்றுக்கிழமை இரவு 7:20 மணிக்கு கொழும்பு கோட்டை ரயில் நிலையத்திற்குத் திரும்பும் என்று திணைக்களம் தெரிவித்துள்ளது.
-
-ஒவ்வொரு சனிக்கிழமையும் காலை 5:30 மணிக்கு கொழும்பு கோட்டையில் இருந்து புறப்பட்டு, மாலை 3:55 மணிக்கு பதுளையை அடையும்.
-
-திரும்பவும் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் மதியம் 1:45 மணிக்கு பதுளையில் இருந்து புறப்பட்டு, அதே நாள் இரவு 7:20 மணிக்கு கொழும்பு கோட்டையை வந்தடையும்.
-
-350 இருக்கைகள் கொண்ட இந்த ரயில், இலங்கையின் மலைநாட்டு பகுதியின் அழகிய பயண அனுபவத்தை வழங்குவதற்காகவும், உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் தேவைகளை பூர்த்தி செய்யவும் அறிமுகப்படுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c164f9b1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 17:53:07**
+As of **2025-08-12 18:09:47**
 
 ## Newspaper Stats
 
-*Scraped **70,141** Articles*
+*Scraped **70,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,759
-adaderanalk | 8,740
+adaderanalk | 8,741
 tamilmirrorlk | 10,288
 virakesarilk | 11,691
-adaderanasinhalalk | 12,084
+adaderanasinhalalk | 12,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,141 articles have been extended.
+61,973 (88.4%) of 70,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### ජනාධිපති හිමිකම් පනත ගැන චන්ද්‍රිකාගේ මතය
+
+*2025-08-12 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213303) · `si`
+
+ජනාධිපති හිමිකම් පනත අහෝසි කිරීමට එරෙහිව හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය අධිකරණ ක්‍රියාමාර්ග ගන්නා බවට ඇතැම් මාධ්‍ය හරහා සංසරණය වෙන පුවත අසත්‍ය බව හිටපු ජනාධිපතිනියගේ මාධ්‍ය ඒකකය පවසයි.
+
+හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සහ හිටපු අනෙක් ජනාධිපතිවරුන් සිව්දෙනා සමග එක්වී ජනාධිපති හිමිකම් පනත අහෝසි කිරීමට එරෙහිව මෙලෙස අධිකරණ ක්‍රියාමාර්ග ගන්නා බවට ඇතැම් මාධ්‍ය පසුගියදා වාර්තා කර තිබුණි.
+
+කෙසේවෙතත් එම පුවත සම්පූර්ණයෙන්ම අසත්‍ය වන අතර එවැනි කිසිදු නෛතික ක්‍රියාවකට හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සම්බන්ධ වී නොමැති බවද සඳහන් කරයි.
+
+◼️
+
+[Data](articles/8f7f5b75.json)
+
+---
+
+### රුපියල් 200ක අල්ලසක් ගත් වේලා සටහන්කරුවෙකු අත්අඩංගුවට
+
+*2025-08-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213302) · `si`
+
+බොරැල්ල, බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ වේලා සටහන්කරුවෙකු අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු පුද්ගලික බස් රථයේ ධාවන සටහන් පත්‍රය අත්සන් කර ධාවන වේලාවක් සකස් කර දීම සඳහා සහ නියමිත ගමන්වාර සියල්ල ලබා දීම සඳහා එක් ගමන් වාරයකට රු.200/- (රුපියල් දෙසීයක) මුදලක් අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත මෙසේ අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+හෙයියන්තුඩුව ප්‍රදේශයේ පදිංචි කොන්දොස්තරවරයෙකු විසින් සිදු කරන ලද පැමිණිල්ලකට අනුව කඩුවෙල බස් නැවතුම් පොළේ දී මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/d255800d.json)
+
+---
 
 ### “இளைஞர் இயக்கமே  அரசாங்கத்தின் முயற்சி“
 
@@ -87,6 +119,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/847721f7.json)
+
+---
+
+### Sri Lanka’s first-ever AI Expo and Conference to be held in September
+
+*2025-08-12 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111406/sri-lankas-first-ever-ai-expo-and-conference-to-be-held-in-september) · `en`
+
+Sri Lanka will host its first-ever National AI Expo & Conference on September 29–30, 2025, at which the nation’s comprehensive AI roadmap will be unveiled, according to the Ministry of Digital Economy.
+
+The trailblazing initiative is the country’s most ambitious undertaking to position Sri Lanka as a leading AI hub in the Asia-Pacific region, accelerating artificial intelligence adoption throughout all economic sectors.
+
+The initiative aligns with the country’s goal of expanding the digital economy from an estimated US$3.5 billion in 2025 to US$15 billion by 2030, with AI expected to contribute 10–12% of that growth.
+
+The historic tri-party collaboration between the Ministry of Digital Economy, the Information and Communication Technology Agency (ICTA) Sri Lanka, and SLT-MOBITEL demonstrates unprecedented unity in driving national technological advancement.
+
+...
+
+[Data](articles/12066c23.json)
 
 ---
 
@@ -256,7 +306,15 @@ The Constitutional Council has approved President Anura Kumara Dissanayake’s r
 
 This decision was made when the Constitutional Council met today (12) under the chairmanship of Speaker Jagath Wickramaratne.
 
-◼️
+The position of IGP became vacant following the removal of former IGP Deshabandu Tennakoon through a resolution in Parliament.
+
+Notably, Priyantha Weerasooriya is the first officer in the 158-year history of the police service to rise from the rank of police constable to Inspector General of Police.
+
+A Law graduate from the University of Colombo, he became an Assistant Superintendent of Police (ASP) after being sworn in as a lawyer at the Sri Lanka Law College.
+
+He also holds a Bachelor of Business Administration in Human Resource Management.
+
+...
 
 [Data](articles/ded10b5b.json)
 
@@ -1693,61 +1751,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/5fee44e8.json)
-
----
-
-### லூப்பை அகற்றி வன்புணர்வு ; வைத்தியருக்கு 15 ஆண்டுகள் சிறை
-
-*2025-08-12 10:18:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லூப்பை-அகற்றி-வன்புணர்வு-வைத்தியருக்கு-15-ஆண்டுகள்-சிறை/175-362746) · `ta`
-
-ஒரு குழந்தையின் தாயின் (வயது 25) உடலில் பொருத்தப்பட்ட கருத்தடை சாதனத்தை அகற்றுவதாகக் கூறி, அவரை பாலியல் வன்கொடுமை செய்ததற்காக, ஒரு மருத்துவரை 15 ஆண்டுகள் சிறைத்தண்டனை விதித்த அனுராதபுரம் மேல்  நீதிமன்ற நீதிபதி நளின் டி ஹேவாவசம், புகார்தாரருக்கு ரூ. 1.5 மில்லியன் ரொக்க இழப்பீடு வழங்க உத்தரவிட்டார்.
-
-இழப்பீடு வழங்கப்படாவிட்டால், குற்றம் சாட்டப்பட்ட மருத்துவருக்கு மேலும் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டது.
-
-இழப்பீட்டுத் தொகைக்கு கூடுதலாக, ரூ. 100,000 ரொக்க அபராதம் செலுத்த உத்தரவிட்ட நீதிபதி டாக்டர் இழப்பீடு வழங்கப்படாவிட்டால், குற்றம் சாட்டப்பட்ட மருத்துவருக்கு மேலும் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டது.
-
-இழப்பீட்டுத் தொகைக்கு கூடுதலாக, ரூ. 100,000 ரொக்க அபராதம் செலுத்த உத்தரவிட்ட நீதிபதி டாக்டர் நளின் டி ஹேவாவசம், அபராதம் செலுத்தப்படாவிட்டால் மேலும் ஒரு வருடம் சிறைத்தண்டனை விதிக்கப்பட்டது.
-
-...
-
-[Data](articles/e58fda6f.json)
-
----
-
-### Sri Lanka exchange rate stability giving investor confidence, predictability: CSE director
-
-*2025-08-12 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-exchange-rate-stability-giving-investor-confidence-predictability-cse-director-235648/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s recent exchange rate stability is providing investor confidence and predictability, Ray Abeywardena, Director of the Colombo Stock Exchange and Group CEO at HNB Investment Bank said.
-
-“A key highlight of our recent achievement is the stability of the Sri Lankan rupee,” Abeywardena told an Invest Sri Lanka forum in Singapore.
-
-“Over the past year, the exchange rate has remained stable, supported by prudent policy initiatives, improved external sector performance and a steady influx of foreign investments and tourism receipts.
-
-“The exchange rate stability enhances investor confidence and provides predictability for businesses operating in Sri Lanka.
-
-“Our commitment to macroeconomic stability is further evidenced by ongoing fiscal consolidation, a positive regulatory environment and strengthened governance.”
-
-...
-
-[Data](articles/3f8e351d.json)
-
----
-
-### நீங்கள் எந்த ஊர்: அந்த ஊராக இருந்தால் கவனம்
-
-*2025-08-12 10:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீங்கள்-எந்த-ஊர்-அந்த-ஊராக-இருந்தால்-கவனம்/175-362744) · `ta`
-
-மொரட்டுவையில் உள்ள எகொட உயன சுகாதார மருத்துவ அதிகாரி பகுதியிலேயே இவர்கள் இனங்காணப்பட்டுள்ளனர்.
-
-அவர்களில் ஆறு பேர் குழந்தைகள் என்று எகொட உயன சுகாதார மருத்துவ அதிகாரி அலுவலகம் தெரிவித்துள்ளது.
-
-இதுவரை 31 சந்தேகத்திற்கிடமான தொழுநோயாளிகளின் அறிக்கைகள் தோல் நோய் மருத்துவமனைக்கு அனுப்பப்பட்டுள்ளதாகவும், மேலும் தொழுநோயாளிகள் இருக்கலாம் என்றும் அலுவலகம் தெரிவித்துள்ளது.
-
-மொரட்டுவை பிரதேச செயலகத்தில் நடைபெற்ற ஒருங்கிணைப்புக் குழு கூட்டத்தில் நோயாளிகளின் அதிகரிப்பு குறித்து தகவல்கள் வழங்கப்பட்டன, மேலும் இது குறித்து நாங்கள் மேலும் விசாரித்தபோது, அந்த அலுவலகத்தைச் சேர்ந்த ஒரு மூத்த அதிகாரி அவ்வாறு கூறினார்.
-
-◼️
-
-[Data](articles/7d41f5a1.json)
 
 ---

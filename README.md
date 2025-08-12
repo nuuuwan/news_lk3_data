@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 20:49:29**
+As of **2025-08-12 21:07:20**
 
 ## Newspaper Stats
 
-*Scraped **70,161** Articles*
+*Scraped **70,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,268
 islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,762
+adalk | 6,763
 adaderanalk | 8,744
 tamilmirrorlk | 10,291
 virakesarilk | 11,698
-adaderanasinhalalk | 12,087
+adaderanasinhalalk | 12,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,161 articles have been extended.
+61,973 (88.3%) of 70,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### නිවසක් අසල පඳුරක් යට සඟවා තිබූ උණ්ඩ 45ක් සොයාගනී
+
+*2025-08-12 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213305) · `si`
+
+වැලිපැන්න පොලිස් වසමේ ළිඳමුල්ලගේවත්ත, තොටුපල පාර මීගම ප්‍රදේශයේ නිවසක් අසල පඳුරක් යට තිබී පිස්තෝල අවි සඳහා භාවිත කරන ජීව උණ්ඩ තොගයක් හමුවී තිබේ.
+
+ඒ ආසන්නයේ ක්‍රීඩා කරමින් සිටි දරුවන් පිරිසක් මෙම උණ්ඩ තොගය දැක තිබෙන අතර පසුව වැඩිහිටියෙකු දැනුවත් කිරීමෙන් පසු පොලීසිට දැනුම්දී ඇත.
+
+◼️
+
+[Data](articles/59df77c6.json)
+
+---
 
 ### ஐயப்ப யாத்திரை புனித யாத்திரையாக பிரகடனம்
 
@@ -117,6 +131,18 @@ China’s Commerce Ministry issued a parallel pause on extra tariffs early on Tu
 ...
 
 [Data](articles/dc194b60.json)
+
+---
+
+### ජනාධිපති හිමිකම් පනත ගැන හිටපු ජනාධිපති චන්ද්‍රිකාගෙන් නිවේදනයක්
+
+*2025-08-12 19:08:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-හිමිකම්-පනත-ගැන-හිටපු-ජනාධිපති-චන්ද්‍රිකාගෙන්-නිවේදනයක්/11-417873) · `si`
+
+ජනාධිපති හිමිකම් පනත අහෝසි කිරීමට එරෙහිව හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය හිටපු ජනාධිපතිවරුන් සමග එක්ව අධිකරණ ක්‍රියාමාර්ග ගන්නා බවට ඇතැම් මාධ්‍ය හරහා සංසරණය වෙන පුවත අසත්‍ය බව හිටපු ජනාධිපතිනියගේ මාධ්‍ය ඒකකය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/49550306.json)
 
 ---
 
@@ -1693,43 +1719,5 @@ A post-mortem examination is scheduled for today (12), while Vavuniya Police con
 ◼️
 
 [Data](articles/d48394fa.json)
-
----
-
-### ”பிற தேர்தல்களிலும் இளைஞர்களுக்கு ஒதுக்கீடு வேண்டும்”
-
-*2025-08-12 11:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற-தேர்தல்களிலும்-இளைஞர்களுக்கு-ஒதுக்கீடு-வேண்டும்/175-362753) · `ta`
-
-உள்ளூராட்சி மன்றத் தேர்தல்களுக்கு ஏற்கனவே நடைமுறையில் உள்ள ஏற்பாட்டைப் போலவே, பாராளுமன்ற மற்றும் மாகாண சபைத் தேர்தல்களிலும் இளைஞர்களுக்கு அர்ப்பணிப்புடன் கூடிய ஒதுக்கீட்டை வழங்க வேண்டும் என்று முன்னாள் தேர்தல் ஆணையாளர் மஹிந்த தேசப்பிரிய அழைப்பு விடுத்துள்ளார்.
-
-ஓகஸ்ட் 12 ஆம் திகதி சர்வதேச இளைஞர் தினத்தை முன்னிட்டு பேசிய தேசப்பிரிய, புதிய கண்ணோட்டங்கள் தேவைப்பட்டாலும் அரசியலில் இளைஞர்களின் பங்களிப்பு குறைவாகவே உள்ளது என்று நேற்று ஊடகங்களுக்கு தெரிவித்தார்.
-
-"இளைஞர்களுக்கு ஜனநாயகம் தேவை, ஜனநாயகத்திற்கு இளைஞர்கள் தேவை," என்று அவர் கூறினார், அரசியல் நிறுவனங்களுக்கும், பொருத்தமானவர்களாகவும் பிரதிநிதித்துவமாகவும் இருக்க இளம் உறுப்பினர்கள் தேவை என்று கூறினார்.
-
-இந்த அழைப்பை VIEW (தேர்தல் கண்காணிப்புக்கான தன்னார்வ முயற்சிகள்) மற்றும் AFRIEL (நட்பு மற்றும் அன்பின் சங்கம்) ஆதரிக்கின்றன, அவை செவ்வாய்க்கிழமை யாழ்ப்பாணம், மட்டக்களப்பு, வவுனியா, நுவரெலியா, கொழும்பு, கம்பஹா, மாத்தறை மற்றும் ஹம்பாந்தோட்டை ஆகிய இடங்களில் விழிப்புணர்வு பிரச்சாரங்களைத் தொடங்கும் என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/13154fc1.json)
-
----
-
-### UN Rights Chief to present report on “Human Rights situation in Sri Lanka” at next month’s UNHRC session
-
-*2025-08-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111390/un-human-rights-chief-to-present-report-on-human-rights-situation-in-sri-lanka-at-next-months-unhrc-session) · `en`
-
-United Nations High Commissioner for Human Rights Volker Türk, who visited Sri Lanka in June, is scheduled to present his report titled “Situation of Human Rights in Sri Lanka” at the upcoming 60th session of the Human Rights Council in Geneva, Switzerland.
-
-The 60th session of the Human Rights Council is scheduled to begin on September 8 and will continue until October 8.
-
-According to the agenda released by the Office of the UN High Commissioner for Human Rights, High Commissioner Volker Türk will present the report on Sri Lanka on the opening day of the session.
-
-UN High Commissioner for Human Rights Volker Türk undertook a four-day official visit to Sri Lanka in June, and he is scheduled to include his observations in the report.
-
-His visit to the Chemmani mass grave site is also expected to feature prominently in the report to be submitted to the UN Human Rights Council.
-
-...
-
-[Data](articles/3603c5ee.json)
 
 ---

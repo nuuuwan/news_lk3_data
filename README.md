@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 22:49:43**
+As of **2025-08-12 23:07:18**
 
 ## Newspaper Stats
 
-*Scraped **70,171** Articles*
+*Scraped **70,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,764
-adaderanalk | 8,745
+adaderanalk | 8,746
 tamilmirrorlk | 10,293
 virakesarilk | 11,699
 adaderanasinhalalk | 12,091
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,171 articles have been extended.
+61,973 (88.3%) of 70,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/056563c1.json)
+
+---
+
+### President meets Malaysian, Canadian, and Australian High Commissioners
+
+*2025-08-12 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111411/president-meets-malaysian-canadian-and-australian-high-commissioners) · `en`
+
+President Anura Kumara Dissanayake held separate meetings with the High Commissioners of Malaysia, Canada, and Australia at the Presidential Secretariat this afternoon (12), the President’s Media Division (PMD) said.
+
+During his meeting with the Malaysian High Commissioner to Sri Lanka, Badli Hisham bin Adam, both parties discussed further enhancing the close relations between Sri Lanka and Malaysia. The Malaysian High Commissioner expressed his country’s readiness to share its recent achievements and expertise with Sri Lanka, particularly in the fields of tourism, trade, and education.
+
+The President also met with the Canadian High Commissioner, Eric Walsh, and extended his best wishes as Mr. Walsh prepares to conclude his term in Sri Lanka.
+
+...
+
+[Data](articles/09f70c98.json)
 
 ---
 
@@ -1707,25 +1723,5 @@ Also being discussed is the refinery’s access to local markets. The refinery w
 ...
 
 [Data](articles/57e18603.json)
-
----
-
-### 97 சிகரங்களுக்கு மலையேற்றம் செய்ய இலவச அனுமதி வழங்கும் நேபாளம்
-
-*2025-08-12 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222373) · `ta`
-
-தொலைதூரப் பகுதிகளில் சுற்றுலாவை மேம்படுத்தும் நோக்கில், அடுத்த இரண்டு ஆண்டுகளுக்கு இமயமலையில் 97 சிகரங்களுக்கு மலையேற்றம் செய்ய இலவச அனுமதியை நேபாளம் வழங்கவுள்ளது.
-
-இமயமலைத் தொடரில் அமைந்துள்ள உலகின் மிக உயரமான எவரெஸ்ட் சிகரத்துக்கு மலையேற்றம் செய்வதற்கான அனுமதி கட்டணம் செம்டெம்பர் மாதம் முதல் 15,000 அமெரிக்க டொலர்களாக அதிகரிக்கவுள்ளதால் இந்த திட்டம் அமுல்படுத்தப்படவுள்ளது. இந்த கட்டணம் சுமார் ஒரு தசாப்தம் கடந்து முதல் முறையாக அதிகரிப்படவுள்ளது.
-
-இந்த திட்டத்தின் ஊடாக "வெளிகொணரப்படாத சுற்றுலா தளங்களை" முதன்மைப்படுத்தப்படும் என நேபாள சுற்றுலாத்துறை எதிர்பார்க்கிறது.
-
-உலகின் 10 உயரமான மலைகளைக் கொண்ட நேபாளத்திற்கு மலையேற்றம் ஒரு குறிப்பிடத்தக்க வருமானத்தை ஈட்டி தருகிறது.
-
-கடந்த ஆண்டு மலையேற்றம் கட்டண வருமானம் 5.9 மில்லியன் அமெரிக்க டொலர்களுக்கு அதிகமாகக் கிடைத்துள்ளது. அதில் எவரெஸ்ட் சிகரத்தில் இருந்து முக்கால்வாசிக்கும் அதிகமான வருமானம் கிடைத்துள்ளது.
-
-...
-
-[Data](articles/a34734ec.json)
 
 ---

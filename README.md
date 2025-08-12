@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 14:07:56**
+As of **2025-08-12 14:24:11**
 
 ## Newspaper Stats
 
-*Scraped **70,094** Articles*
+*Scraped **70,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,65 @@ economynextcom | 4,268
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,756
+adalk | 6,757
 adaderanalk | 8,729
-tamilmirrorlk | 10,274
+tamilmirrorlk | 10,276
 virakesarilk | 11,681
-adaderanasinhalalk | 12,077
+adaderanasinhalalk | 12,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,094 articles have been extended.
+61,973 (88.4%) of 70,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
 
-### හිටපු ප්‍රාස මන්ත්‍රීවරයෙකුට වෙඩි
+### முன்னாள் பி.ச.உ மீது துப்பாக்கிச் சூடு
+
+*2025-08-12 14:08:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பி-ச-உ-மீது-துப்பாக்கிச்-சூடு/175-362769) · `ta`
+
+மீகொட பகுதியில் செவ்வாய்க்கிழமை (12) அன்று பிற்பகல் முன்னாள் பிரதேச சபை உறுப்பினர் ஒருவர் சுட்டுக் கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cd35455b.json)
+
+---
+
+### பிரதமர் பதவியில் மாற்றமா?:  இப்படி சொல்கிறார் பேச்சாளர்
+
+*2025-08-12 14:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-பதவியில்-மாற்றமா-இப்படி-சொல்கிறார்-பேச்சாளர்/175-362768) · `ta`
+
+தற்போதைய பிரதமர் பதவியில் எந்த மாற்றமும் இருக்காது என்று அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார். அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு அரசாங்க தகவல் திணைக்களத்தில் நடைபெற்றது. அதில் கலந்துகொண்ட ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+“பிரதமரை மாற்றும் எண்ணம் அரசாங்கத்திற்கு இல்லை. அரசாங்கத்திற்குள் எந்த நெருக்கடியும் இல்லை. எங்கள் அரசாங்கம் வீழ்ந்துவிடாது. எங்களுக்கு இடையே எந்த மோதலும் இல்லை. நாங்கள் நாட்டைக் கட்டியெழுப்புகிறோம். அரசியல் கலாச்சாரத்தை நாங்கள் கட்டி எழுப்புகிறோம்” என்றார்.
+
+◼️
+
+[Data](articles/e388ab76.json)
+
+---
+
+### ඇල්ලේ සිරි නරඹන්න නව දුම්රියක්
+
+*2025-08-12 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213292) · `si`
+
+කොළඹ සිට බදුල්ල දක්වා ගමන් කිරීමට නව දුම්රියක් යෙදවීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ දේශීය සහ විදෙස් සංචාරකයින්ගේ දැඩි ඉල්ලුමක් පවතින බැවින් එයට සරිලන ලෙස සති අන්තයේ මෙම නව දුම්රිය යෙදවූ බවය.
+
+ඒ අනුව Ella Weekend Express නමින් නව දුම්රියක් එළැඹෙන 16 වැනිදා සිට සෑම සෙනසුරාදා දිනකම පෙරවරු 5.30ට කොළඹ කොටුවේ සිට බදුල්ල දක්වාත් සහ 17 වැනිදා සිට සෑම ඉදිරිදා දිනකම බදුල්ල දුම්රිය ස්ථානයේ සිට කොළඹ කොටුව දක්වාත් ධාවනය කිරීමට කටයුතු යොදා ඇති බවද දුම්රිය දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/f47a500e.json)
+
+---
+
+### හිටපු ප්‍රා.ස. මන්ත්‍රීව වෙඩිතබා ඝාතනය කරයි
 
 *2025-08-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213291) · `si`
 
@@ -72,9 +114,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ECONOMYNEXT – Sri Lanka’s monetary policy is balanced but there was space to cut rates if there was an external shock, Central Bank Governor Nandalal Weerasinghe said referring to a possible impact from Trump tariffs.
 
-Sri Lanka had a policy rate of 7.75 percent which indicted real interest rates of 2.75 percent considering the 5 percent inflation target.
+Sri Lanka had a policy rate of 7.75 percent which indicated a real interest rate of 2.75 percent considering the 5 percent inflation target.
 
-The central bank is expecting inflation to come reach a 5 percent target next year and growth was above the 3 percent projected by the International Monetary Fund and close to 5 percent, which indicated a ‘right balance’ in monetary policy, he said.
+The central bank is expecting inflation to reach a 5 percent target next year, and growth was above the 3 percent projected by the International Monetary Fund and close to 5 percent, which indicated a ‘right balance’ in monetary policy, he said.
 
 “But what’s good about it is that if there’s going to be any impact out of this external event, we have a space in the monetary policy for us to support the local economy,” Governor Weerasinghe told a forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commission.
 
@@ -157,6 +199,18 @@ The central bank is expecting inflation to come reach a 5 percent target next ye
 ...
 
 [Data](articles/0301c854.json)
+
+---
+
+### නි.ඇමති අරුණ ජයසේකරට එරෙහි විශ්වාසභංගය කථානයකට භාර දෙයි
+
+*2025-08-12 13:12:45* · [`adalk`](https://www.ada.lk/breaking_news/නි-ඇමති-අරුණ-ජයසේකරට-එරෙහි-විශ්වාසභංගය-කථානයකට-භාර-දෙයි/11-417867) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ගෙන එනු ලබන විශ්වාසභංග  යෝජනාව අද (12දා) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා වෙත භාර දී තිබේ.
+
+◼️
+
+[Data](articles/15962399.json)
 
 ---
 
@@ -434,17 +488,17 @@ Due to the resulting dispute, the Chairman of the Urban Council decided to postp
 
 *2025-08-12 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-tax-local-market-access-for-sinopec-refinery-minister-235704/) · `en`
 
-ECONOMYNEXT  – Sri Lanka is discussing tax and local market access for a refinery to be built by China’s Sinopec, Deputy Economic Development Minister Anil Jayantha said.
+ECONOMYNEXT – Sri Lanka is discussing tax and local market access for a refinery to be built by China’s Sinopec, Deputy Economic Development Minister Anil Jayantha said.
 
-“..[W]hen it comes to tax-related issues and other things, there is a little delay,” Minister Jayantha told an investment forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commisison.
+“..[W]hen it comes to tax-related issues and other things, there is a little delay,” Minister Jayantha told an investment forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commission.
 
 “As of now, what I can say, it is in the final stage. There are a few things yet to be agreed upon, but almost it is done.”
 
-Also being discussed is the access to local markets, by the refinery. The refinery was supposed to mainly and export oriented project approved by the Board of Investment.
+Also being discussed is the refinery’s access to local markets. The refinery was supposed to be an export-oriented project approved by the Board of Investment.
 
-“We are talking about is the market accessibility and the demand for energy,” Minister Jayantha explained.
+“We are talking about market accessibility and the demand for energy,” Minister Jayantha explained.
 
-“And as of now, in Sri Lanka, the daily requirement is around 120,000, 140,000 balance per day. This investment has a huge capacity.
+“As of now, in Sri Lanka, the daily requirement is around 120,000, 140,000 balance per day. This investment has a huge capacity.
 
 ...
 
@@ -962,7 +1016,7 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 *2025-08-12 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-exchange-rate-stability-giving-investor-confidence-predictability-cse-director-235648/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s recent exchange rate stability is providing investor confidence and predictability, Ray Abeywardena, Director of the Colombo Stock Exchange and Group CEO at HNB Investment Bank.
+ECONOMYNEXT – Sri Lanka’s recent exchange rate stability is providing investor confidence and predictability, Ray Abeywardena, Director of the Colombo Stock Exchange and Group CEO at HNB Investment Bank said.
 
 “A key highlight of our recent achievement is the stability of the Sri Lankan rupee,” Abeywardena told an Invest Sri Lanka forum in Singapore.
 
@@ -1729,65 +1783,5 @@ Safeguarding lives and property, DIMO deployed the Siemens Sinteso Fire Detectio
 ...
 
 [Data](articles/b05a8cd2.json)
-
----
-
-### Konka introduces ground-breaking Konka V-Max range for first time through FliCo
-
-*2025-08-12 04:16:42* · [`dailyftlk`](https://www.ft.lk/business/Konka-introduces-ground-breaking-Konka-V-Max-range-for-first-time-through-FliCo/34-780174) · `en`
-
-Hong Kong Konka CEO and Konka Overseas Business Division General Manager Kobe Liao (right) presents the Konka Authorised Dealership to Future Life Holdings CEO Danushka Udugama in the presence of Konka and FLiCo officials
-
-...
-
-[Data](articles/32a69d7e.json)
-
----
-
-### 20th International Society for Twin Studies Conference kicks off in Colombo
-
-*2025-08-12 04:03:23* · [`dailyftlk`](https://www.ft.lk/news/20th-International-Society-for-Twin-Studies-Conference-kicks-off-in-Colombo/56-780170) · `en`
-
-International Society for Twin Studies President Prof. David Laszlo Tarnoki (right) officially handed over the 2026-2027 presidency to Secretary General of the Society Prof. Athula Sumathipala at the inauguration of the 20th International Society for Twin Studies held in Colombo yesterday – Pix by Lasantha Kumara
-
-The 20th International Society for Twin Studies (ISTS) Conference and the 8th World Congress on Twin Pregnancy kicked off in Colombo yesterday at the Cinnamon Grand.
-
-The two-day event is a global landmark, bringing together over 250 delegates from over 30 countries, representing top universities and research institutions across the UK, Europe, Australia, Asia and North America.
-
-...
-
-[Data](articles/3993bd85.json)
-
----
-
-### South Asia Chief Commissioners of  Scout to gather in Colombo for first time
-
-*2025-08-12 04:00:51* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-Chief-Commissioners-of-Scout-to-gather-in-Colombo-for-first-time/56-780169) · `en`
-
-The Sri Lanka Scout Association will host the South Asian Association of National Scout Organisations (SAANSO) Chief Commissioners’ Conference for the first time in the country’s history. The event will take place tomorrow at the National Headquarters of the Sri Lanka Scout Association, Colombo 02.
-
-The conference will be graced by senior officials from the World Scout Bureau and the Asia-Pacific Regional Support Centre of WOSM, alongside the Chief Commissioners of all eight SAANSO member countries.
-
-This landmark gathering aims to strengthen collaboration and engagement among National Scout Organisations (NSOs) in South Asia, fostering shared growth, regional solidarity, and a stronger collective voice in the Asia-Pacific Region and the global Scouting movement. It will also serve as a platform to encourage mutual participation in national programs, promote shared learning, and project a united South Asian Scouting presence.
-
-...
-
-[Data](articles/05897860.json)
-
----
-
-### Sunil Kumara Gamage elected President of Sri Lanka-Italy Parliamentary Friendship Association
-
-*2025-08-12 04:00:29* · [`dailyftlk`](https://www.ft.lk/news/Sunil-Kumara-Gamage-elected-President-of-Sri-Lanka-Italy-Parliamentary-Friendship-Association/56-780168) · `en`
-
-Youth Affairs and Sports Minister Sunil Kumara Gamage (left) with Italian Ambassador to Sri Lanka Damiano Francovigh
-
-Youth Affairs and Sports Minister Sunil Kumara Gamage has been elected President of the Sri Lanka-Italy Parliamentary Friendship Association for the Tenth Parliament.
-
-The revival meeting of the Association was held last Thursday (7) at Parliament under the patronage of Speaker Dr. Jagath Wickramaratne. Italian Ambassador to Sri Lanka Damiano Francovigh attended the event as the Guest of Honour. MP Hector Appuhamy was elected the Secretary of the Association.
-
-...
-
-[Data](articles/1680a521.json)
 
 ---

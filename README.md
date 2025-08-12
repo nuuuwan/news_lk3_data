@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 12:08:56**
+As of **2025-08-12 12:27:16**
 
 ## Newspaper Stats
 
@@ -624,7 +624,9 @@ Their bodies have been placed at the morgue of the Polonnaruwa Hospital, and pos
 
 *2025-08-12 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111382/cabinet-approves-removal-of-dhammika-jayasundara-from-post-of-general-manager-railways-) · `en`
 
-The Cabinet of Ministers has granted approval to the proposal to remove Dhammika Jayasundara from the post of General Manager of Sri Lanka Railways.
+The Cabinet of Ministers has granted approval for the removal of Dhammika Jayasundara from his position as the General Manager of Sri Lanka Railways.
+
+Minister of Transport Bimal Rathnayake had recently submitted a special proposal to the Cabinet seeking his removal from the post.
 
 ◼️
 

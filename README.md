@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 09:41:22**
+As of **2025-08-12 09:57:41**
 
 ## Newspaper Stats
 
-*Scraped **70,024** Articles*
+*Scraped **70,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,747
-adaderanalk | 8,718
-tamilmirrorlk | 10,250
+adaderanalk | 8,719
+tamilmirrorlk | 10,251
 virakesarilk | 11,673
 adaderanasinhalalk | 12,066
 
@@ -26,17 +26,33 @@ adaderanasinhalalk | 12,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,024 articles have been extended.
+61,973 (88.5%) of 70,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
 
-### ரயில் திணைக்கள பொது முகாமையாளர் பதவியில் இருந்து தம்மிக்க ஜெயசுந்தரவை நீக்க அமைச்சரவை அனுமதி
+### சுங்கத்துக்கு டிமிக்கி கொடுத்து தங்கம் கடத்திய ஆசாமி கைது
 
-*2025-08-12 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222371) · `ta`
+*2025-08-12 09:38:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்துக்கு-டிமிக்கி-கொடுத்து-தங்கம்-கடத்திய-ஆசாமி-கைது/175-362742) · `ta`
 
-இலங்கை ரயில் திணைக்கள பொது முகாமையாளர் பதவியில் இருந்து தம்மிக்க ஜயசுந்தரவை நீக்கும் முன்மொழிவுக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
+சுமார் 11 ரூபாய் கோடிக்கும் அதிகமான மதிப்புள்ள தங்க பிஸ்கட்களுடன் ஒருவர் குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+டுபாயிலிருந்து வாகன உதிரி பாகங்களை இறக்குமதி செய்யும் போர்வையில் அவை நாட்டிற்கு கொண்டு வரப்பட்டதாக குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் தெரிவித்தனர்.
+
+வாகன உதிரி பாகங்களுக்கு விதிக்கப்பட்ட வரியை சுங்க அதிகாரிகளுக்கு செலுத்திவிட்டு திரும்பி வந்தபோது, சந்தேகத்தின் பேரில் குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகளால் அவர் கைது செய்யப்பட்டதாகவும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/742fc294.json)
+
+---
+
+### ரயில் திணைக்களத்தின் பொது முகாமையாளர் தம்மிக்க ஜெயசுந்தரவை பதவி நீக்க அமைச்சரவை அனுமதி
+
+*2025-08-12 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222371) · `ta`
+
+ரயில் திணைக்களத்தின் பொது முகாமையாளர் தம்மிக்க ஜெயசுந்தரவை பதவி நீக்க முன்மொழிவுக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
 
 ◼️
 
@@ -55,6 +71,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b8a61580.json)
+
+---
+
+### Father and son drown after boat capsizes in Parakrama Samudraya
+
+*2025-08-12 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111383/father-and-son-drown-after-boat-capsizes-in-parakrama-samudraya) · `en`
+
+A father and son have drowned after a boat capsized in the Parakrama Samudraya in Polonnaruwa, police stated.
+
+A group of individuals from Wennappuwa had visited a friend’s house in Polonnaruwa, and during their visit, they had taken a boat ride.
+
+It has been revealed through police investigations that the boat had capsized while carrying nine people at the time of the incident.
+
+The deceased have been identified as a 63-year-old male and his 38-year-old son, both residents of Wennappuwa.
+
+Their bodies have been placed at the morgue of the Polonnaruwa Hospital, and post-mortem examinations are scheduled to be conducted today (12).
+
+◼️
+
+[Data](articles/b66146ae.json)
 
 ---
 
@@ -1713,45 +1749,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ...
 
 [Data](articles/485df70e.json)
-
----
-
-### Elon Musk’s Tesla applies to supply power to UK homes
-
-*2025-08-11 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111364/elon-musks-tesla-applies-to-supply-power-to-uk-homes) · `en`
-
-Elon Musk’s electric car and energy company Tesla has applied for a licence to supply electricity to British homes.
-
-If approved by the energy watchdog Ofgem, it would allow Tesla to take on the big firms that dominate the UK energy market to provide electricity to households and businesses in England, Scotland and Wales as soon as next year.
-
-Tesla, which is best known as one of the world’s biggest makers of electric vehicles (EV), also has a solar energy and battery storage business.
-
-Ofgem can take up to nine months to process applications for energy supply licences.
-
-Tesla Electric already operates a power supplier in Texas that allows owners of its EVs to charge their cars cheaply and pays them for feeding surplus electricity back to the grid.
-
-The application, which was signed by Andrew Payne who runs Tesla’s European energy operations, was filed late last month.
-
-...
-
-[Data](articles/5afd00e6.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளின் சலுகை ரத்து சட்டமூலம்;எதிர்ப்பு மனுத் தாக்கல்
-
-*2025-08-11 18:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-சலுகை-ரத்து-சட்டமூலம்-எதிர்ப்பு-மனுத்-தாக்கல்/175-362709) · `ta`
-
-முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை ரத்து செய்வதற்காக அரசாங்கம் பாராளுமன்றத்தில் சமர்ப்பித்த சட்டமூலத்தை எதிர்த்து உயர் நீதிமன்றத்தில் மனு ஒன்று தாக்கல் செய்யப்பட்டுள்ளது.
-
-இந்த மனுவை இலங்கை பொதுஜன பெரமுனவின் நிர்வாக செயலாளர் ரேணுகா பெரேரா சமர்ப்பித்தார்.
-
-கடந்த வாரம் (07), நீதி அமைச்சர் ஹர்ஷன நாணயக்கார, 1986 ஆம் ஆண்டின் 4 ஆம் இலக்க ஜனாதிபதி உரிமைச் சட்டத்தை ரத்து செய்யவும், முன்னாள் ஜனாதிபதிகள், அவர்களது மனைவிகள் மற்றும் ஓய்வுபெற்ற பாராளுமன்ற உறுப்பினர்களுக்கு வழங்கப்பட்ட சிறப்பு சலுகைகளை ரத்து செய்யவும் கோரும் ஜனாதிபதி உரிமைகள் (ரத்து) சட்டமூலத்தை பாராளுமன்றத்தில் சமர்ப்பித்தார்.
-
-ஜூலை 31, 2025 வெளியிடப்பட்ட வர்த்தமானியில் இந்த முன்மொழியப்பட்ட சட்டம், முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது விதவைகளுக்கான உத்தியோகபூர்வ குடியிருப்புகள், மாதாந்திர கொடுப்பனவுகள், செயலக உதவி, போக்குவரத்து வசதிகள் மற்றும் ஓய்வூதியம் உள்ளிட்ட உரிமைகளை முடிவுக்குக் கொண்டுவரும்.
-
-◼️
-
-[Data](articles/e9ba1b67.json)
 
 ---

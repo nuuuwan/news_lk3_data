@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 04:06:41**
+As of **2025-08-13 04:20:16**
 
 ## Newspaper Stats
 
-*Scraped **70,181** Articles*
+*Scraped **70,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,764
 adaderanalk | 8,746
-tamilmirrorlk | 10,294
+tamilmirrorlk | 10,295
 virakesarilk | 11,699
 adaderanasinhalalk | 12,091
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,181 articles have been extended.
+61,973 (88.3%) of 70,182 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-13 (Wednesday)
+
+### மலேசிய உயர்ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
+
+*2025-08-13 03:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசிய-உயர்ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-362812) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கைக்கான மலேசிய உயர்ஸ்தானிகர் பத்லி ஹிஷாம் பின் ஆதமுக்கும் இடையிலான சந்திப்பு நேற்று (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இலங்கைக்கும் மலேசியாவுக்கும் இடையிலான நெருங்கிய உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது இரு தரப்பினரும் கவனம் செலுத்தினர்.
+
+விசேடமாக மலேசியாவின் சுற்றுலா, வர்த்தகம் மற்றும் கல்வி ஆகிய துறைகள் மற்றும் அண்மைய கால வெற்றிகள் குறித்த தனது அனுபவங்களை இலங்கையுடன் பகிர்ந்து கொள்ளத் தயாராக இருப்பதாக  மலேசிய உயர் ஸ்தானிகர் இங்கு தெரிவித்தார்.
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே ஆகியோரும் இந்நிகழ்வில் கலந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/be345e5d.json)
+
+---
 
 ### 2025-08-12 (Tuesday)
 
@@ -1715,25 +1735,5 @@ The Head of State further stressed the importance of nurturing a new youth gener
 ◼️
 
 [Data](articles/c164f9b1.json)
-
----
-
-### No-confidence motion handed over against Deputy Defence Minister Aruna Jayasekara
-
-*2025-08-12 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111394/no-confidence-motion-handed-over-against-deputy-defence-minister-aruna-jayasekara) · `en`
-
-A no-confidence motion against Deputy Minister of Defence, Major General Aruna Jayasekara (Retd) has been handed over to Speaker of House Dr. Jagath Wickramaratne by the Opposition today (12).
-
-Samagi Jana Balawegaya (SJB) MP Kavinda Jayawardena stated that during the period leading up to the 2019 Easter Sunday terror attacks, Aruna Jayasekara was serving as the Security Forces Eastern Province Commander, and therefore, his current role as Deputy Minister of Defence is ethically inappropriate, given the ongoing investigations into the attacks.
-
-He is also accused of dereliction of duty, failing to act properly during related investigations, and being a potential impediment to future investigative efforts.
-
-Accordingly, the opposition has decided to bring forward a no-confidence motion against him, MP Jayawardena confirmed.
-
-Earlier it was announced that the opposition drafted a no-confidence motion consisting of 19 points against Deputy Minister Aruna Jayasekara.
-
-◼️
-
-[Data](articles/78697a0e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 13:31:25**
+As of **2025-08-12 13:51:01**
 
 ## Newspaper Stats
 
-*Scraped **70,085** Articles*
+*Scraped **70,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
-economynextcom | 4,263
+economynextcom | 4,267
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,756
 adaderanalk | 8,729
-tamilmirrorlk | 10,271
+tamilmirrorlk | 10,273
 virakesarilk | 11,681
 adaderanasinhalalk | 12,076
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,085 articles have been extended.
+61,973 (88.4%) of 70,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### வெளிநாட்டு சிகரெட்டுகளுடன் மூவர் கைது
+
+*2025-08-12 13:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-மூவர்-கைது/175-362765) · `ta`
+
+ரூ.169.50 மில்லியன் மதிப்புள்ள வெளிநாட்டு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்கு கொண்டு வந்த மூவரை  செவ்வாய்க்கிழமை (12) அன்று  கட்டுநாயக்க விமான நிலையத்தில் சுங்க அதிகாரிகள்  கைது செய்யப்பட்டனர்.
+
+கட்டுநாயக்க விமான நிலைய சுங்க அதிகாரிகள் இந்த விவகாரம் குறித்து மேலும் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1737c0fc.json)
+
+---
 
 ### ராஜிதவுக்கு பிடியாணை
 
@@ -43,6 +57,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1ee88272.json)
+
+---
+
+### ராஜிதவுக்கு பிடியாணை
+
+*2025-08-12 13:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ராஜிதவுக்கு-பிடியாணை/150-362763) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு நடத்திய விசாரணையில் சந்தேகநபராகப் பெயரிடப்பட்டுள்ள முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த கொழும்பு நீதவான் நீதிமன்றம் இன்று (12) பிடியாணை பிறப்பித்துள்ளது.
+
+முன்னாள் அமைச்சர் வாக்குமூலம் பதிவு செய்வதைத் தவிர்த்து வருவதாகவும், அதன் மூலம் விசாரணைகளுக்கு இடையூறு விளைவிப்பதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் கொழும்பு மேலதிக நீதவான் பசன் அமரசேகர இந்த உத்தரவை பிறப்பித்தார்.
+
+◼️
+
+[Data](articles/5790518d.json)
 
 ---
 
@@ -91,6 +119,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eab3eaae.json)
+
+---
+
+### Sri Lanka underutilized land to be offered to investors: Minister
+
+*2025-08-12 13:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-underutilized-land-to-be-offered-to-investors-minister-235713/) · `en`
+
+ECONOMYNEXT – Underutilized lands and properties belonging to Sri Lanka’s state institutions will be offered to investors for various projects, Minister Nalinda Jayatissa said.
+
+The cabinet had approved a proposal to offer underutilized lands held by the Land Reforms Commission, Regional Plantation Companies, National Livestock Development Board, Sri Lanka State Plantations Corporation and Janatha Estate Development Board and provide them for private investment, he said.
+
+“Investors, including small and medium scale entrepreneurs, can use them for economically productive projects,” he told reporters.
+
+These include plantation/agricultural activities, plantation-related tourism promotion activities, livestock development, hydropower generation, solar energy generation, factory-related manufacturing activities, freshwater fisheries and other plantation-related economic innovation activities. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/379b754b.json)
 
 ---
 
@@ -325,6 +371,28 @@ Due to the resulting dispute, the Chairman of the Urban Council decided to postp
 ...
 
 [Data](articles/f77c8061.json)
+
+---
+
+### Sri Lanka discussing tax, local market access for Sinopec refinery: Minister
+
+*2025-08-12 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-tax-local-market-access-for-sinopec-refinery-minister-235704/) · `en`
+
+ECONOMYNEXT  – Sri Lanka is discussing tax and local market access for a refinery to be built by China’s Sinopec, Deputy Economic Development Minister Anil Jayantha said.
+
+“..[W]hen it comes to tax-related issues and other things, there is a little delay,” Minister Jayantha told an investment forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commisison.
+
+“As of now, what I can say, it is in the final stage. There are a few things yet to be agreed upon, but almost it is done.”
+
+Also being discussed is the access to local markets, by the refinery. The refinery was supposed to mainly and export oriented project approved by the Board of Investment.
+
+“We are talking about is the market accessibility and the demand for energy,” Minister Jayantha explained.
+
+“And as of now, in Sri Lanka, the daily requirement is around 120,000, 140,000 balance per day. This investment has a huge capacity.
+
+...
+
+[Data](articles/57e18603.json)
 
 ---
 
@@ -834,6 +902,26 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### Sri Lanka exchange rate stability giving investor confidence, predictability: CSE director
+
+*2025-08-12 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-exchange-rate-stability-giving-investor-confidence-predictability-cse-director-235648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s recent exchange rate stability is providing investor confidence and predictability, Ray Abeywardena, Director of the Colombo Stock Exchange and Group CEO at HNB Investment Bank.
+
+“A key highlight of our recent achievement is the stability of the Sri Lankan rupee,” Abeywardena told an Invest Sri Lanka forum in Singapore.
+
+“Over the past year, the exchange rate has remained stable, supported by prudent policy initiatives, improved external sector performance and a steady influx of foreign investments and tourism receipts.
+
+“The exchange rate stability enhances investor confidence and provides predictability for businesses operating in Sri Lanka.
+
+“Our commitment to macroeconomic stability is further evidenced by ongoing fiscal consolidation, a positive regulatory environment and strengthened governance.”
+
+...
+
+[Data](articles/3f8e351d.json)
+
+---
+
 ### நீங்கள் எந்த ஊர்: அந்த ஊராக இருந்தால் கவனம்
 
 *2025-08-12 10:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீங்கள்-எந்த-ஊர்-அந்த-ஊராக-இருந்தால்-கவனம்/175-362744) · `ta`
@@ -867,6 +955,28 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/78179cf7.json)
+
+---
+
+### Sri Lanka rupee weak against dollar, bonds steady
+
+*2025-08-12 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weak-against-dollar-bonds-steady-235632/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.95/301.05 to the US dollar in the spot market Tuesday, weaker from 300.85/301.00 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.06.2029 was quoted at 9.28/30 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.36/38 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.39/40 percent from 9.38/41 percent.
+
+A bond maturing on 15.05.2030 was quoted at 9.45/50 percent.
+
+The Colombo Stock Exchange was trading in red; The ASPI was down 0.22 percent, or 43.69 points, at 19,879.33, while the S&P SL20 was down 0.29 percent, or 17.11 points, at 5,807.80. (Colombo/Aug12/2025)
+
+◼️
+
+[Data](articles/e6f28ff7.json)
 
 ---
 
@@ -1677,105 +1787,5 @@ Albanese said Australia received commitments from the Palestinian Authority (PA)
 ...
 
 [Data](articles/4a750635.json)
-
----
-
-### PM pledges better mechanism for education sector placements and transfers
-
-*2025-08-12 02:41:19* · [`dailyftlk`](https://www.ft.lk/news/PM-pledges-better-mechanism-for-education-sector-placements-and-transfers/56-780152) · `en`
-
-Prime Minister Dr. Harini Amarasuriya, who also serves as the Education, Higher Education and Vocational Education Minister, recently announced plans to introduce a more effective mechanism for placements and transfers in the Teacher Educators Service and the Education Administrative Service.
-
-Speaking at the Ministerial Consultative Committee on Education, Higher Education and Vocational Education held on 6 August in Parliament, Dr. Amarasuriya acknowledged longstanding concerns over the current process.
-
-MPs highlighted instances of irregularities, including the recent case in the North Central Province where five out of six newly appointed officers were swiftly transferred again.
-
-The Committee stressed the need to consider both human factors affecting officers and the service requirements when making appointments.
-
-...
-
-[Data](articles/3e17c865.json)
-
----
-
-### Kusum Wijetilleke appointed Political Economy Adviser to Sajith
-
-*2025-08-12 02:39:12* · [`dailyftlk`](https://www.ft.lk/news/Kusum-Wijetilleke-appointed-Political-Economy-Adviser-to-Sajith/56-780151) · `en`
-
-Kusum Wijetilleke has been appointed Adviser on Political Economy to Opposition Leader Sajith Premadasa.
-
-A former banker, Wijetilleke spent over 11 years in the banking industry in both Dubai and Sri Lanka, including nine years in corporate finance at DFCC Bank, where he worked with Sri Lanka’s largest corporate entities on project finance, working capital and trade facilities, and other financial products.
-
-In addition to five years running two companies in the travel trade, Wijetilleke is also a writer, media presenter, and political commentator. He holds a Master’s degree in International Relations from the University of Colombo and a Bachelor’s degree in Accounting and Finance from the University of Kent.
-
-Wijetilleke is a member of the Working Committee of the Samagi Jana Balawegaya (SJB) and serves as an adviser to the party and its leadership, having previously been a member of the SJB’s Foreign Relations Advisory Committee.
-
-◼️
-
-[Data](articles/dfd2606b.json)
-
----
-
-### ITAK calls for Hartal in North, East over death caused by military
-
-*2025-08-12 02:37:49* · [`dailyftlk`](https://www.ft.lk/news/ITAK-calls-for-Hartal-in-North-East-over-death-caused-by-military/56-780150) · `en`
-
-Hartal in North and East on Friday, 15 Aug., over military killing
-
-ITAK urges President Disanayake to immediately remove excessive military presence in the two provinces
-
-The Ilankai Tamil Arasu Kadchi (ITAK) has called for a full Hartal in the North and East, condemning the death of a 35-year-old person caused by soldiers in Mullaitivu.
-
-In a letter to President Anura Kumara Disanayake, the ITAK stated that the body of Edirmanasingam Kabilraj was found in the Muttaiyankattu Tank on Saturday (9) morning.
-
-It has now been revealed that on 7 August, five men were asked to come to the 63rd Division camp of the Sri Lanka Army and were severely beaten by the soldiers there. One of them, Kabilraj, had gone missing, and later his body was found floating in the Tank.
-
-...
-
-[Data](articles/cd23eab5.json)
-
----
-
-### Wijesiri Basnayake appointed Chairman of Committee on Ways and Means
-
-*2025-08-12 02:36:53* · [`dailyftlk`](https://www.ft.lk/news/Wijesiri-Basnayake-appointed-Chairman-of-Committee-on-Ways-and-Means/56-780149) · `en`
-
-National People's Power (NPP) MP Wijesiri Basnayake has been elected Chairman of the Committee on Ways and Means.
-
-He was appointed to this position following the resignation of former Chairman Dr. Harshana Suriyapperuma from his parliamentary seat. Basnayake’s name was proposed by MP Prof. Ruwan Ranasinghe and seconded by MP Attorney-at-Law Ajith P. Perera.
-
-...
-
-[Data](articles/432f0ae8.json)
-
----
-
-### Ranil speaks out against politicisation of youth clubs
-
-*2025-08-12 02:34:41* · [`dailyftlk`](https://www.ft.lk/news/Ranil-speaks-out-against-politicisation-of-youth-clubs/56-780148) · `en`
-
-Former President Ranil Wickremesinghe on Sunday called on the Youth Affairs and Sports Minister to prevent political parties from taking control of youth clubs.
-
-Making a special statement, he said: “The subject Minister should call all parties for a discussion and resolve the crisis in the youth clubs. We have heard that there are going to be islandwide protests against the politicisation of youth clubs. The clubs will decline and die a natural death if the present crisis is not solved soon. Therefore, I propose meetings between office bearers of youth clubs, other youth who face issues, and the subject Minister to resolve the crisis amicably,” Wickremesinghe said.
-
-◼️
-
-[Data](articles/61329320.json)
-
----
-
-### Senior journalist Daya Lankapura assumes duties as RTI Commission Chairman
-
-*2025-08-12 02:32:30* · [`dailyftlk`](https://www.ft.lk/news/Senior-journalist-Daya-Lankapura-assumes-duties-as-RTI-Commission-Chairman/56-780147) · `en`
-
-Senior journalist Daya Lankapura has been appointed as the new Chairman of the Right to Information (RTI) Commission.
-
-The appointment comes nearly five months after the position fell vacant, during which several civil society groups, media organisations, and activists urged President Anura Kumara Disanayake to make an appointment to ensure the smooth functioning of the Commission.
-
-Lankapura, a veteran in the media industry, has served in various senior editorial roles and has been actively involved in promoting media freedom and the right to information in Sri Lanka.
-
-◼️
-
-[Data](articles/06786e85.json)
 
 ---

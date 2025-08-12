@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 15:49:28**
+As of **2025-08-12 16:07:22**
 
 ## Newspaper Stats
 
-*Scraped **70,125** Articles*
+*Scraped **70,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,758
 adaderanalk | 8,736
-tamilmirrorlk | 10,283
+tamilmirrorlk | 10,285
 virakesarilk | 11,688
 adaderanasinhalalk | 12,081
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,125 articles have been extended.
+61,973 (88.4%) of 70,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### ’’கவட்டி’’ யில் இருந்து தூக்கி வீசப்பட்ட சிறுமி பலி
+
+*2025-08-12 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவட்டி-யில்-இருந்து-தூக்கி-வீசப்பட்ட-சிறுமி-பலி/175-362782) · `ta`
+
+சிகிரியா, திகம்பதஹ வீதியில், பயணித்துக் கொண்டிருந்த மோட்டார் சைக்கிள் ஒன்று காரொன்றின் பின்னால் மோதி விபத்துக்குள்ளானதில் மூன்றரை வயதுடைய சிறுமி உயிரிழந்த சம்பவம் திங்கட்கிழமை (11) இடம்பெற்றுள்ளது.
+
+தம்புள்ளை, சியம்பலகஸ்வெவ பகுதியைச் சேர்ந்த சசித்மி நெஹன்சா அலுவிஹார என்பவரே இவ்வாறு உயிரிழந்துள்ளார்
+
+மோட்டார் சைக்கிள் ஓட்டுநர் தனது மகளை கவட்டியில் வைத்துக்கொண்டு ஸ்கூட்டர் ரக மோட்டார் சைக்கிளில் பயணித்து கொண்டிருந்த போது முன்னால் பயணித்த கார் மீது மோதியுள்ளது. இதன் போது சிறுமி தூக்கி வீசப்பட்டுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+குறித்த சிறுமியின் தாய் சிகிரியா பகுதியில் உள்ள ஒரு சுற்றுலா ஹோட்டலில் பணிபுரிவதாகவும், அவரை அழைத்து வர சென்றுக்கொண்டிருந்த போது இவ் விபத்து இடம்பெற்றுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/004dee86.json)
+
+---
+
+### அடுத்த ஐஜிபி  வீரசூரிய
+
+*2025-08-12 15:39:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-ஐஜிபி-வீரசூரிய/175-362781) · `ta`
+
+பொலிஸ் மா அதிபராக நியமிக்குமாறு ஜனாதிபதி அனுரகுமார திசாநாயக்கவினால் பரிந்துரைக்கப்பட்ட, பதில் பொலிஸ் மா அதிபர் (ஐஜிபி) பிரியந்த வீரசூரியவின் பெயருக்கு அரசியலமைப்பு சபை ஒப்புதல் அளித்துள்ளது.
+
+நவம்பர் 2023 முதல் பதில் பொறுப்பில் வீரசூரிய பணியாற்றி வருகிறார். இவர், இலங்கையின் 37வது பொலிஸ் மா அதிபராவார்.
+
+◼️
+
+[Data](articles/70093365.json)
+
+---
 
 ### காசாவில் இடம்பெறும் யுத்தத்தின் முகமாக மில்லியன்கணக்கானவர்களிற்கு அனஸ் அல் ஷரீவ் மாறினார் - பின்னர் இஸ்ரேல் அவரை கொன்றது
 
@@ -1717,33 +1749,5 @@ Their bodies have been placed at the morgue of the Polonnaruwa Hospital, and pos
 ◼️
 
 [Data](articles/2e470604.json)
-
----
-
-### දුම්රිය සාමාන්‍යාධිකාරී ඉවත් කිරීමට කැබිනට් අනුමැතිය
-
-*2025-08-12 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213280) · `si`
-
-දුම්රිය සාමාන්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා එම තනතුරින් ඉවත් කිරීම සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-ඒ මහතා අදාළ තනතුරින් ඉවත් කිරීම සඳහා ප්‍රවාහන අමාත්‍ය බිමල් රත්නායක මහතා විසින් කැබිනට් මණ්ඩලයට පසුගියදා විශේෂ යෝජනාවක්ද ඉදිරිපත් කර තිබුණි.
-
-◼️
-
-[Data](articles/3c50bea2.json)
-
----
-
-### Cabinet approves removal of Dhammika Jayasundara from post of General Manager Railways
-
-*2025-08-12 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111382/cabinet-approves-removal-of-dhammika-jayasundara-from-post-of-general-manager-railways-) · `en`
-
-The Cabinet of Ministers has granted approval for the removal of Dhammika Jayasundara from his position as the General Manager of Sri Lanka Railways.
-
-Minister of Transport Bimal Rathnayake had recently submitted a special proposal to the Cabinet seeking his removal from the post.
-
-◼️
-
-[Data](articles/b8df17f7.json)
 
 ---

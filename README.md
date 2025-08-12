@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 18:09:47**
+As of **2025-08-12 18:32:42**
 
 ## Newspaper Stats
 
-*Scraped **70,144** Articles*
+*Scraped **70,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,268
 islandlk | 4,293
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,759
+adalk | 6,760
 adaderanalk | 8,741
 tamilmirrorlk | 10,288
 virakesarilk | 11,691
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,144 articles have been extended.
+61,973 (88.3%) of 70,145 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -199,6 +199,20 @@ The historic tri-party collaboration between the Ministry of Digital Economy, th
 ...
 
 [Data](articles/7360d246.json)
+
+---
+
+### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරිය පත් කිරීමට අනුමැතිය
+
+*2025-08-12 16:23:36* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ලෙස-ප්‍රියන්ත-වීරසූරිය-පත්-කිරීමට-අනුමැතිය/11-417870) · `si`
+
+මෙරට නව පොලිස්පතිවරයා ලෙස වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පත්කිරීමට ජනාධිපතිවරයා කළ නිර්දේශයට ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ අනුමැතිය හිමිවී තිබේ.
+
+කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව අද (12දා) රැස්වූ අවස්ථාවේදී ඊට අනුමැතිය හිමි විය.
+
+◼️
+
+[Data](articles/9a8a53e7.json)
 
 ---
 
@@ -1737,19 +1751,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/5bab11cc.json)
-
----
-
-### ජාතික තරුණ සමුළුව ඇරඹෙයි
-
-*2025-08-12 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213282) · `si`
-
-2025 ජාතික තරුණ සමුළුව, කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේදී මේ වනවිට ආරම්භ කර තිබේ.
-
-මෙම සමුළුවේ සමාරම්භ අවස්ථාවට ජනාධිපති, අනුර කුමාර දිසානායක මහතා ද එකතු වීමට නියමිතය.
-
-◼️
-
-[Data](articles/5fee44e8.json)
 
 ---

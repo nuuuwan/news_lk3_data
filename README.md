@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 14:24:11**
+As of **2025-08-12 14:36:37**
 
 ## Newspaper Stats
 
-*Scraped **70,098** Articles*
+*Scraped **70,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,124 @@ islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,757
-adaderanalk | 8,729
-tamilmirrorlk | 10,276
-virakesarilk | 11,681
-adaderanasinhalalk | 12,078
+adaderanalk | 8,733
+tamilmirrorlk | 10,277
+virakesarilk | 11,685
+adaderanasinhalalk | 12,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,098 articles have been extended.
+61,973 (88.4%) of 70,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### වෙඩි වැදීමෙන් බරපතළ තුවාල ලැබූ හිටපු ප්‍රාස මන්ත්‍රී මරුට
+
+*2025-08-12 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213293) · `si`
+
+අද (12) දහවල් මීගොඩ, ආටිගල හරස් මාර්ගයේ දී යතුරුපැදියකින් ගමන් කරමින් සිටිය දී වෙඩි වැදීමකින් බරපතළ තුවාල ලබා සිටි හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයා ජීවිතක්ෂයට පත්ව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ මෝටර් රථයකින් පැමිණි පිරිසක් විසින් හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව මහතාට වෙඩි ප්‍රහාරයක් එල්ල කර ඇති බවය.
+
+බරපතළ තුවාල ලබා හෝමාගම රෝහලට ඇතුළත් කර සිටිය දී ඒ මහතා මෙලෙස ජීවිතක්ෂයට පත්ව ඇත.
+
+වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, ශාන්ත මුදුන්කොටුව මහතා ඉඩම් ආරවුල් සම්බන්ධයෙන් පොලීසියට මීට පෙර පැමිණිලි කිහිපයක් ඉදිරිපත් කර සිට ඇතැයි ද අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/d24864e9.json)
+
+---
+
+### மீகொடையில்  துப்பாக்கிச் சூடு ; முன்னாள் பிரதேச சபை உறுப்பினர் உயிரிழப்பு
+
+*2025-08-12 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222400) · `ta`
+
+மீகொடையில் இன்று செவ்வாய்க்கிழமை (12) அதிகாலை துப்பாக்கிச் சூட்டுச் சம்பவம் ஒன்று பதிவாகியுள்ளது.
+
+இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் காயமடைந்த ஹோமாகம பிரதேச சபையின் முன்னாள் உறுப்பினர் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c7f633b0.json)
+
+---
+
+### தமிழர் தாயகம் அமைதியாகக் கைப்பற்றப்படும் வேளையில் நமது நாடாளுமன்ற உறுப்பினர்களும் சிவில் சமூக அமைப்புகளும் என்ன செய்து கொண்டிருக்கிறார்கள்?  ஏன் இவ்வளவு தேவையற்ற மௌனம்?பிரித்தானிய தமிழர் பேரவை
+
+*2025-08-12 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222399) · `ta`
+
+தமிழர் தாயகம் அமைதியாகக் கைப்பற்றப்படும் வேளையில் நமது நாடாளுமன்ற உறுப்பினர்களும் சிவில் சமூக அமைப்புகளும் என்ன செய்து கொண்டிருக்கிறார்கள்? நமது உரிமைகளையும் நமது அடையாளத்தையும் பாதுகாக்கும் பொறுப்பு ஒப்படைக்கப்பட்டவர்களிடமிருந்து ஏன் இவ்வளவு தேவையற்ற மௌனம் நிலவுகிறது?என பிரித்தானிய தமிழர் பேரவை கேள்விஎழுப்பியுள்ளது
+
+தமிழ் மக்களின் நிலமான மணலாற்றின் தற்போதைய நிலை குறித்த அறிக்கையொன்றில் இதனை தெரிவித்துள்ள பிரித்தானிய தமிழர் பேரவை மேலும் தெரிவித்துள்ளதாவது
+
+இலங்கையின் முல்லைத்தீவு மாவட்டத்தில் அமைந்துள்ள வரலாற்று ரீதியாக தமிழ் பிராந்தியமான மணல் ஆறு கடந்த பல தசாப்தங்களாக ஒரு சோகமான மாற்றத்தைச் சந்தித்துள்ளது. ஒரு காலத்தில் துடிப்பான தமிழ் கிராமமாக இருந்த இது வளர்ச்சி என்ற போர்வையில் வலுக்கட்டாயமாக மறுபெயரிடப்பட்டு சிங்களமக்கள் குடியேற்றப்பட்டுள்ளனர். குறிப்பாக மதுரு ஓயா நீர்ப்பாசனத் திட்டம் மூலம்
+
+...
+
+[Data](articles/44b10ed1.json)
+
+---
+
+### உயிருள்ள இறாலை சாப்பிட முயன்ற பெண்:   நொடியில் நடந்தது என்ன?
+
+*2025-08-12 14:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/உயிருள்ள-இறாலை-சாப்பிட-முயன்ற-பெண்-நொடியில்-நடந்தது-என்ன/53-362771) · `ta`
+
+சமூக ஊடகங்களில் தற்போது வைரலாகி வரும் வீடியோ ஒன்று நெட்டிசன்களிடையே பெரும் பேசுபொருளாகியுள்ளது.
+
+சீனாவில் உள்ள ஒரு உணவகத்தில் உயிருடன் இருந்த மான்டிஸ் இறாலை சமைக்க முயன்ற பெண், அதே உயிரினத்திடமிருந்து எதிர்பாராத முறையில் ‘பழிவாங்கல்’ சந்தித்துள்ளார்.
+
+வீடியோவில், அந்தப் பெண் முதலில் கேமரா முன் உயிருள்ள இறாலைக் காட்டி, அதை கொதிக்கும் நீர் நிரப்பிய பாத்திரத்தில் போட முயல்கிறார்.
+
+அந்த நேரத்தில், இறால் திடீரென குதித்து கீழே விழ, பெண் அதை மீண்டும் பிடித்து போட முயன்றபோது, இறால் திரும்பி அவரது கையை கடிக்கிறது. இதனால் வலி தாங்க முடியாமல் கத்தும் பெண்ணின் காட்சி அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது.
+
+தகவலின்படி, சீனாவில் பல உணவகங்களில் இறால்கள் உயிருடன் சமைக்கப்படுவது வழக்கம். இறந்த பிறகு இறைச்சி விரைவாக அழுகத் தொடங்குவதால், சுவை காக்கவே இவ்வாறு செய்கிறார்கள். ஆனால், இந்த சம்பவத்தை நெட்டிசன்கள் “உடனடி கர்மா” என்றும், “இறாலின் பழிவாங்கல்” என்றும் குறிப்பிடுகின்றனர்.
+
+...
+
+[Data](articles/1e133e4b.json)
+
+---
+
+### மிகப்பெரிய விண்கல் மழை இன்று பொழியும்
+
+*2025-08-12 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222396) · `ta`
+
+2025 ஆம் ஆண்டுக்கான மிகப்பெரிய விண்கல் மழை பொழிவு இன்று செவ்வாய்க்கிழமை (12) நள்ளிரவு முதல் நாளை புதன்கிழமை (13) அதிகாலை வரை தென்படும் என விண்வெளி விஞ்ஞானியும் பொறியியல் விரிவுரையாளருமான கிஹான் வீரசேகர தெரிவித்தார்.
+
+பெர்சீட் விண்மீன் தொகுப்பில் இந்த விண்கல் மழை ஏற்படுவதால் இது "பெர்சீட்" எனப் பெயரிடப்பட்டுள்ளது.
+
+இந்த நிகழ்வு நாளை புதன்கிழமை (13) அதிகாலை 5:00 மணியளவில் வடக்கு வான் பகுதியில் சிறப்பாக தென்படும்.
+
+இந்த விண்கல் மழையின் சிறப்பு என்னவெனில் ஒரு மணி நேரத்தில் சுமார் 100 விண்கற்களைக் காணலாம் என்பதாகும். இது மிகப்பெரிய எண்ணிக்கையாகும்,
+
+பெர்சீட் விண்மீன் கூட்டம் நள்ளிரவில் அடிவானத்திற்கு மேலே தோன்றத் தொடங்கி, அதிகாலை வரை மேல்நோக்கி நகரும்.
+
+இந்த விண்கல் மழையைப் பார்க்க சிறந்த நேரம் அதிகாலை 5 மணியளவாகும். அப்போது வடக்கே பார்த்தால்இ ஒரு மணி நேரத்தில் சுமார் 100 விண்கற்களைக் காணலாம் என்று அவர் தெரிவித்தார்.
+
+பெர்சீட்ஸ் விண்கல் மழை  ஆண்டின் பிரகாசமான மற்றும் மிகவும் பிரபலமான விண்கல் மழைகளில் ஒன்றாகும்.
+
+...
+
+[Data](articles/000ae8e9.json)
+
+---
+
+### பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை சபாநாயகரிடம் கையளிப்பு
+
+*2025-08-12 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222397) · `ta`
+
+பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவுக்கு எதிரான நம்பிக்கையில்லா பிரேரணை சபாநாயகரிடம் கையளிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fb00ba08.json)
+
+---
 
 ### முன்னாள் பி.ச.உ மீது துப்பாக்கிச் சூடு
 
@@ -74,7 +178,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### හිටපු ප්‍රා.ස. මන්ත්‍රීව වෙඩිතබා ඝාතනය කරයි
+### හිටපු ප්‍රා.ස. මන්ත්‍රීට වෙඩි
 
 *2025-08-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213291) · `si`
 
@@ -85,6 +189,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0c0768ab.json)
+
+---
+
+### Former Pradeshiya Sabha member dies in Meegoda shooting
+
+*2025-08-12 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111397/ex-local-council-member-injured-following-shooting-incident-in-meegoda-) · `en`
+
+(UPDATE): The former Homagama Pradeshiya Sabha member, who sustained injuries in a shooting incident in Meegoda earlier today has succumbed to his injuries while receiving treatment at the hospital.
+
+A former Homagama Pradeshiya Sabha member has sustained injuries in a shooting incident in Meegoda, Police stated.
+
+◼️
+
+[Data](articles/62020c13.json)
 
 ---
 
@@ -284,6 +402,22 @@ These include plantation/agricultural activities, plantation-related tourism pro
 
 ---
 
+### Warrant issued for the arrest of ex-Minister Rajitha Senaratne
+
+*2025-08-12 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111396/warrant-issued-for-the-arrest-of-ex-minister-rajitha-senaratne) · `en`
+
+The Colombo Magistrate’s Court today (12) issued a warrant for the arrest of former Minister Rajitha Senaratne, who has been named as a suspect in an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by the Bribery Commission.
+
+The Bribery Commission had stated that the former Minister has failed to provide a statement despite being requested to do so and thereby obstructing the on-going investigations, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/8ceb32b6.json)
+
+---
+
 ### අගමැතිණිය ඉවත් කරනවාද? රජයේ තීරණය මෙන්න
 
 *2025-08-12 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිණිය-ඉවත්-කරනවාද--රජයේ-තීරණය-මෙන්න/11-417865) · `si`
@@ -295,6 +429,22 @@ These include plantation/agricultural activities, plantation-related tourism pro
 ◼️
 
 [Data](articles/f2eca99e.json)
+
+---
+
+### President calls for responsible youth leadership, rejects dynastic politics
+
+*2025-08-12 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111395/president-calls-for-responsible-youth-leadership-rejects-dynastic-politics) · `en`
+
+President Anura Kumara Dissanayake emphasized the urgent need to foster a new generation of responsible young leaders, rejecting the concept of political dynasties or youth leaders who merely focus on protecting family power.
+
+Speaking at the opening ceremony of the National Youth Conference held at the Sugathadasa Stadium in Colombo today (12), President Dissanayake noted that the youth who step into leadership must be genuine, capable, and ethical — individuals ready to take over the country’s future after the current leadership.
+
+The Head of State further stressed the importance of nurturing a new youth generation that is adaptable, seeks knowledge, and can take charge of the country’s future.
+
+...
+
+[Data](articles/21c29271.json)
 
 ---
 
@@ -331,6 +481,26 @@ These include plantation/agricultural activities, plantation-related tourism pro
 ◼️
 
 [Data](articles/c164f9b1.json)
+
+---
+
+### No-confidence motion handed over against Deputy Defence Minister Aruna Jayasekara
+
+*2025-08-12 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111394/no-confidence-motion-handed-over-against-deputy-defence-minister-aruna-jayasekara) · `en`
+
+A no-confidence motion against Deputy Minister of Defence, Major General Aruna Jayasekara (Retd) has been handed over to Speaker of House Dr. Jagath Wickramaratne by the Opposition today (12).
+
+Samagi Jana Balawegaya (SJB) MP Kavinda Jayawardena stated that during the period leading up to the 2019 Easter Sunday terror attacks, Aruna Jayasekara was serving as the Security Forces Eastern Province Commander, and therefore, his current role as Deputy Minister of Defence is ethically inappropriate, given the ongoing investigations into the attacks.
+
+He is also accused of dereliction of duty, failing to act properly during related investigations, and being a potential impediment to future investigative efforts.
+
+Accordingly, the opposition has decided to bring forward a no-confidence motion against him, MP Jayawardena confirmed.
+
+Earlier it was announced that the opposition drafted a no-confidence motion consisting of 19 points against Deputy Minister Aruna Jayasekara.
+
+◼️
+
+[Data](articles/78697a0e.json)
 
 ---
 
@@ -1593,195 +1763,5 @@ It has been reported that the resignation letter has already been submitted to t
 ...
 
 [Data](articles/4f6d35d7.json)
-
----
-
-### மன்னாரில் நேற்று நள்ளிரவில் பதற்ற நிலை
-
-*2025-08-12 06:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-நேற்று-நள்ளிரவில்-பதற்ற-நிலை/175-362735) · `ta`
-
-மன்னாரில் மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்படும் காற்றாலை மின் கோபுரத்தின் பாரிய உதிரிப் பாகங்களை ஏற்றி வந்த வாகனத்தை நேற்று நள்ளிரவு மன்னார் தீவுப் பகுதிக்குள் நுழைய விடாமல் மக்கள் வழிமறித்துப் போராட்டம் நடத்தியமையை அடுத்து அந்தப் பகுதியில் பெரும் பதற்றம் ஏற்பட்டிருக்கின்றது.
-
-காற்றாலை திட்டத்துக்கு எதிராக மக்கள் நடத்தி வரும் போராட்டம் 10 ஆவது  நாளை எட்டும் நிலையில் நேற்று நள்ளிரவு காற்றாலை உபகரணங்களை ஏற்றி வந்த பாரிய வாகனத்தை மன்னார் தீவுக்கு நுழையும் வாசலான மன்னார் நீதிமன்ற மூன்றலில் மக்கள் வழிமறித்துத் தடுத்தனர்.
-
-நேற்று பின்னிரவில் தொடங்கிய இந்த வழிமறிப்பில் நாடாளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன், முன்னாள் நாடாளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன், மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றியத் தலைவர் வி.எஸ்.சிவகரன் மற்றும் மன்னார் பிரஜைகள் குழு, பொது அமைப்புக்கள், சிவில் அமைப்புகள் ஆகியவற்றின் முக்கிய பிரமுகர்கள், பொதுமக்கள் எனப் பெரும் எண்ணிக்கையானோர் அங்கு திரண்டு இருந்தனர். (a)
-
-◼️
-
-[Data](articles/49007c0c.json)
-
----
-
-### ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව අද යළි රැස්වෙයි
-
-*2025-08-12 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213275) · `si`
-
-කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද පස්වරු 1.30ට ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස්වීමට නියමිත බව කථානායක කාර්යාලය සඳහන් කළේය.
-
-මෙහිදී නව පොලිස්පතිවරයෙකු පත්කිරීම සම්බන්ධයෙන් වූ යෝජනාව පිළිබඳව අවධානය යොමුකිරීමට නියමිතව තිබේ.
-
-හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ධුරයෙන් පහ කිරීමත් සමග පොලිස්පති ධුරය පුරප්පාඩු වී ඇති අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා පත්කිරීමට අදාළ නමක් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවට ඉදිරිපත් කිරීමට නියමිතය.
-
-ඒ අනුව අද රැස්වන ආණ්ඩුක්‍රම ව්‍යස්ථා සභාව පොලිස්පතිවරයා පත්කිරීම සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට නියමිත බව වාර්තා වේ.
-
-මේ අතර ජාතික පොලිස් කොමිෂන් සභාවේ සාමාජිකත්වයෙන් රේණුකා ඒකනායක මහත්මිය ඉල්ලා අස්වී තිබේ.
-
-අදාළ ඉල්ලා අස්වීමේ ලිපිය ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව වෙත ලබාදී ඇති බව වාර්තා වේ.
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ බිරිඳ වන රේණුකා ඒකනායක මහත්මිය මීට පෙර අමාත්‍යංශ ලේකම්වරියක් ලෙස ද කටයුතු කරනු ලැබීය.
-
-ඒ අනුව මේ වන විට ජාතික පොලිස් කොමිෂන් සභාවේ සාමාජිකයින් දෙදෙනෙකුගේ පුරප්පාඩු පවතින බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
-
-◼️
-
-[Data](articles/8de881f2.json)
-
----
-
-### Donald Trump announces another 90-day pause on China tariffs
-
-*2025-08-12 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111376/donald-trump-announces-another-90-day-pause-on-china-tariffs) · `en`
-
-The US and China have extended their trade truce until 10 November, just hours before a jump in tariffs had been set to take effect.
-
-In a joint statement, the world’s two biggest economies said higher tariffs on each other’s goods announced earlier this year will be suspended for another 90 days.
-
-The higher tariffs were set to take effect on Tuesday unless the truce was extended.
-
-Talks last month ended with both sides calling the discussions “constructive”. China’s top negotiator said at the time that the two countries would push to preserve the truce, while US officials said they were waiting for final sign-off from US President Donald Trump.
-
-Trump said in a post on his Truth Social platform that he had signed an executive order on Monday to continue the tariff truce.
-
-“I have just signed an Executive Order that will extend the Tariff Suspension on China for another 90 days. All other elements of the Agreement will remain the same,” he wrote in his post.
-
-...
-
-[Data](articles/dc500840.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
-
-*2025-08-12 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213273) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ වයඹ සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
-
-ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-◼️
-
-[Data](articles/42db3c59.json)
-
----
-
-### මින්නේරිය ප්‍රදේශයේදී බස් රථයක් සහ ලොරි රථයක් ගැටී 26ක් රෝහලට
-
-*2025-08-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213272) · `si`
-
-කොළඹ - මඩකලපුව ප්‍රධාන මාර්ගයේ මින්නේරිය, බටුඔය ප්‍රදේශයේ සිදුවූ රිය අනතුරකින් පුද්ගලයින් 26 දෙනෙකු තුවාල ලබා තිබේ.
-
-අද (12) අලුයම 3ට පමණ මාදුරුඔය  සිට කොළඹ බලා ධාවනය වෙමින් තිබූ බස්රථයක් ඉදිරිපසින් පැමිණි ටිපර් රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සදහන් කළේය.
-
-අනතුරින් තුවාල ලැබූ පුද්ගලයින් පොළොන්නරුව, මින්නේරිය සහ හිගුරක්ගොඩ යන රෝහල් වෙත ඇතුලත් කර ඇත.
-
-තුවාල ලැබූ පුද්ගලයින්ගෙන් කිහිපදෙනෙකුගේ තත්ත්වය බරපතල බවද රෝහල් ආරංචි මාර්ග සදහන් කළේය.
-
-◼️
-
-[Data](articles/f3c033c5.json)
-
----
-
-### Sri Lanka 2×50 MW wind power tender in Mullikulam gets 7 bids
-
-*2025-08-12 05:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-2x50-mw-wind-power-tender-in-mullikulam-gets-7-bids-235614/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has received bids from seven companies for a tender to build two 50 MegaWatt wind plants in Mullikulam, Power and Energy Minister Kumara Jayakody said.
-
-“Nineteen parties took documents, seven parties submitted bids,” Minister Jayakody told a talk show by Sri Lanka’s Derana Television.
-
-The financial evaluation of the tender may now be close and technical evaluation was probably finished, he said.
-
-RELATED : Sri Lanka’s Mullikulam 100MW BOO wind farm gets strong investor interest
-
-Sri Lanka’s Mannar coast, where Mullikulam is located has some of the strongest wind systems in the country.
-
-Also in Mannar the last plant was awarded at 4.65 cents a unit.
-
-Under changes passed to Sri Lanka’s Electricity Act, private investments into generation would continue, Minister Jayakody said. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/56a4eaeb.json)
-
----
-
-### Educational Reform: Capitalism, Compassion, Or Both?
-
-*2025-08-12 05:58:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/educational-reform-capitalism-compassion-or-both/) · `en`
-
-Educational reform stands as one of the cornerstone commitments in the NPP‘s election manifesto. Entrusted with this critical responsibility, the Prime Minister, who also serves as the Minister of Education, is at the forefront of implementing reforms that will shape the future of Sri Lanka’s younger generations. However, it appears that the discourse surrounding the proposed education bill has so far been poorly articulated in Parliament. The Prime Minister and several senior ministers have not clearly communicated its objectives and potential impacts, following the proposed roadmap for implementation.
-
-...
-
-[Data](articles/137b2382.json)
-
----
-
-### Several spells of showers expected across the country today
-
-*2025-08-12 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111375/several-spells-of-showers-expected-across-the-country-today) · `en`
-
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (12), the Department of Meteorology said.
-
-Several spells of showers will occur in the North-western province as well, the Met. Department added.
-
-Showers or thundershowers can also be expected at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
-
-Meanwhile, fairly strong winds of about 30-40kmph are likely over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/014d2e75.json)
-
----
-
-### 26 injured after bus-tipper truck head-on collision in Minneriya
-
-*2025-08-12 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111374/26-injured-after-bus-tipper-truck-head-on-collision-in-minneriya) · `en`
-
-A total of 26 individuals have been injured in a road accident that occurred along the Colombo-Batticaloa main road in Batu Oya, Minneriya, police stated.
-
-According to police, the accident happened around 3:00 a.m. today (12), when a bus traveling from Maduroya towards Colombo collided with a tipper truck heading in the opposite direction.
-
-The injured individuals have been admitted to the Polonnaruwa, Minneriya, and Hingurakgoda hospitals.
-
-Hospital sources have reported that the condition of several of the injured is critical.
-
-The Minneriya Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/a7f26bb3.json)
-
----
-
-### DIMO delivers intelligent building solutions to Cinnamon Life
-
-*2025-08-12 04:17:38* · [`dailyftlk`](https://www.ft.lk/business/DIMO-delivers-intelligent-building-solutions-to-Cinnamon-Life/34-780175) · `en`
-
-DIMO together with its partner Siemens, has delivered a suite of cutting-edge Building Services solutions to Cinnamon Life, the country’s most iconic integrated development project. This transformative project, comprising a luxury hotel, residences, commercial spaces, and retail hubs, now benefits from a highly advanced, future-ready infrastructure technology powered by DIMO.
-
-Safeguarding lives and property, DIMO deployed the Siemens Sinteso Fire Detection and Alarm System, a globally recognised system for its reliability and precision. Featuring ASAtechnology, Sinteso offers intelligent, false-alarm-free detection using multi-sensor devices, plus standby and degrade modes to ensure uninterrupted protection. The system is scalable to over 5,000 devices per panel—making it ideal for large-scale developments like Cinnamon Life.
-
-...
-
-[Data](articles/b05a8cd2.json)
 
 ---

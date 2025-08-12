@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 11:51:44**
+As of **2025-08-12 12:08:56**
 
 ## Newspaper Stats
 
-*Scraped **70,050** Articles*
+*Scraped **70,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,750
-adaderanalk | 8,723
-tamilmirrorlk | 10,261
+adalk | 6,751
+adaderanalk | 8,725
+tamilmirrorlk | 10,265
 virakesarilk | 11,673
-adaderanasinhalalk | 12,071
+adaderanasinhalalk | 12,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,050 articles have been extended.
+61,973 (88.5%) of 70,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### 97  சிகரங்களில் இலவசமாக ஏற அனுமதி
+
+*2025-08-12 11:53:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/97-சிகரங்களில்-இலவசமாக-ஏற-அனுமதி/50-362757) · `ta`
+
+காத்மாண்டு: மலை சுற்றுலாவை மேம்படுத்தும் நோக்கில், குறைந்த உயரமுடைய 97 மலைச் சிகரங்களில் இலவசமாக ஏறலாம் என, நேபாள அரசு அறிவித்துள்ளது.
+
+நம் அண்டை நாடான நேபாளத்தில், உலகிலேயே மிக உயரமான எவரெஸ்ட் சிகரம் உள்ளது. இது கடல் மட்டத்தில் இருந்து, 29,031 அடி உயரத்தில் உள்ளது. இந்த சிகரத்தில் ஏற ஒருவருக்கு, 10 லட்சம் ரூபாய் கட்டணம் வசூலிக்கப்படுகிறது. இது செப்., 1 முதல், 13 லட்சம் ரூபாயாக அதிகரிக்கிறது.
+
+இந்நிலையில், மலை சுற்றுலாவை மேம்படுத்த குறைவான உயரமுடைய, 97 சிகரங்களில் இலவசமாக ஏறலாம் என, நேபாள அரசு நேற்று அறிவித்தது. இதன்படி, கர்னாலி, சுதுர்பாஷ்சிம் மாகாணங்களில், 19,000 அடி உயரம் முதல், 23,000 அடி உயரம் வரை உள்ள, 97 மலைச் சிகரங்களில் இலவசமாக ஏறலாம். இதற்கு கட்டணம் கிடையாது.
+
+தொலைதுாரப் பகுதிகளுக்கு அதிக பார்வையாளர்களை ஈர்ப்பது, வேலைவாய்ப்புகளை உருவாக்குவது, உள்ளூர் சமூகங்களுக்கு வருமானத்தை ஈட்டுவதே இதன் நோக்கம் என, நேபாள அரசு தெரிவித்துள்ளது. உயரமான எவரெஸ்ட் சிகரத்தில் ஏறுவதற்கு முன், குறைந்த உயரமுடைய சிகரத்தில் ஏறியிருக்க வேண்டும் என்பதையும் நேபாள அரசு பரிந்துரைத்துள்ளது.
+
+◼️
+
+[Data](articles/f8699ff3.json)
+
+---
+
+### ඔබට බලය දෙන්න තමා අපි පුටුවේ අසුන් ගත්තේ - ජනපතිගෙන් තරුණයින්ට ආරාධනාවක්
+
+*2025-08-12 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213286) · `si`
+
+වගකීම් සහගත තරුණ නායකත්වයක් බිහිකළ යුතු බවත් කිසිසේත්ම පවුල් පරම්පරාවන්, ඥාතීන් බලය ආරක්ෂා කරගන්නා තරුණ නායකයින් බිහිවිය යුතු නැතැයි ද ජනාධිපතිවරයා පවසයි.
+
+දේශපාලන අතකොළුවක් බවට පත්නොවී රටේ අනාගතය භාරගැනීමට සිටින නියමවරුන් බවට පත්කිරීම තරුණ සමුළුව මේ දක්වා පැමිණි ගමන්මගේ සනිටුහන්ව ඇතැයි ද ජාතික තරුණ සමුළුවේ සමාරම්භක අවස්ථාවට එක්වෙමින් ජනාධිපතිවරයා කියා සිටියේය.
+
+"ඉතින් කලබලවීම පුදුමයක් නොවේ. සැබවින්ම අප අද මේ ඉටුකරනු ලබන්නේ තරුණයාට හිමිතැන සහ ඇයට හෝ ඔහුට අනාගතය කවරාකාරයෙන් නිර්මාණය විය යුතුද ? කවර වගකීම් දැරිය යුතුද යන වගකීම් සහගත තරුණ නායකත්වයන් බිහිකළ යුතුයි. කිසිසේත්ම පවුල් පරම්පරාවන්, ඥාතීන් දිගු කාලයක් බලය ආරක්ෂා කරගැනීම සඳහා වු කාර්යක කොටස්කරුවන් ලෙස නොවේ."
+
+රට භාරගැනීම සඳහා සුදානම් විය යුතු වන්නේ තම පාලනයෙන් පසුව රට භාරගැනීමට අවංකභාවය, හැකියාව සහ නිපුණතාවය ඇති තරුණයින් පිරිසක් බව ද ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+
+...
+
+[Data](articles/17edf359.json)
+
+---
+
+### ரொனால்டோ ஜார்ஜினா நிச்சதார்த்தம்: கண்களை கவரும்  மோதிரம்
+
+*2025-08-12 11:40:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரொனால்டோ-ஜார்ஜினா-நிச்சதார்த்தம்-கண்களை-கவரும்-மோதிரம்/44-362756) · `ta`
+
+உலக புகழ்பெற்ற கால்பந்து வீரரான கிறிஸ்டியானோ ரொனால்டோ தனது வருங்கால மனைவி ஜார்ஜினா ரோட்ரிகஸின் நிச்சயதார்த்த மோதிரம் கண்ணைக் கவர்ந்துள்ளது.
+
+புதிதாக நிச்சயதார்த்தம் செய்து கொண்ட தம்பதியினர் திங்கட்கிழமை (11)  மாலை பதிவில் இன்ஸ்டாகிராம் பதிவில் கிட்டத்தட்ட ஒரு தசாப்தத்திற்குப் பிறகு திருமணம் செய்து கொள்ளப் போவதாக அறிவித்தனர்.
+
+ஆனால் ஜார்ஜினாவின் விரலில் இருந்த திகைப்பூட்டும் மோதிரம் ரசிகர்களின் கண்களை ஈர்த்தது, அவர் தனது   மோதிரத்தை அனைவரும் பார்க்கும் வகையில் பிரகாசித்தார்.
+
+லோரல் டயமண்ட்ஸின் நிச்சயதார்த்த மோதிர நிபுணர் லாரா டெய்லர் கூறுகையில்,  'கிறிஸ்டியானோ ரொனால்டோவின் ஜார்ஜினா ரோட்ரிக்ஸின் நிச்சயதார்த்த மோதிரம் ஒரு அசாதாரணமான துண்டு, இது 15 முதல் 20 காரட் வரம்பில் ஓவல்-வெட் வைரமாகத் தோன்றும்.
+
+'ஓவல் வெட்டுக்கள் அவற்றின் அற்புதமான முகப்பிற்கு பெயர் பெற்றவை, இது பிரகாசத்தை அதிகரிக்கிறது மற்றும் ஒவ்வொரு கோணத்திலிருந்தும் கல்லுக்கு ஒரு பிரகாசமான, துடிப்பான தோற்றத்தை அளிக்கிறது.
+
+...
+
+[Data](articles/509c4849.json)
+
+---
+
+### ”ரணிலால் செய்ய முடியாததை அநுர செய்து விட்டார்”
+
+*2025-08-12 11:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலால்-செய்ய-முடியாததை-அநுர-செய்து-விட்டார்/175-362755) · `ta`
+
+இலங்கையின் கடனை ஜனாதிபதி அனுர குமார திசாநாயக்க மறுசீரமைத்ததாகவும், முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவால் கூட இதை செய்ய முடியவில்லை என்றும் காணி மற்றும் நீர்ப்பாசன துணை அமைச்சர் சுசில் ரணசிங்க தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்குப் பேட்டியளித்த துணை அமைச்சர், கடனை மறுசீரமைக்கும் பணிகள் மேற்கொள்ளப்படுவது மட்டுமல்லாமல், 2028 ஆம் ஆண்டுக்குள் கடன்களைத் திருப்பிச் செலுத்தத் தொடங்கும் பொருளாதாரமாகவும் மாற்றப்பட்டு வருவதாகக் கூறினார்.
+
+"எனவே, தயவுசெய்து கிராம மக்களிடையே தேவையற்ற குழப்பத்தை ஏற்படுத்துவதை நிறுத்துங்கள். இந்த 09 மாதங்களுக்குள், ஜனாதிபதி ஒரு நல்ல போட்டியை விளையாடியுள்ளார். SLPP-யின் சிலர் ரொக்கெட் சம்பவத்தைப் பிடித்துக்கொண்டு வேடிக்கை பார்க்கிறார்கள். ஜாக்கிரதை, நீங்கள் அதே வேகத்தில் விழக்கூடும்," என்று அவர் எச்சரித்தார்.
+
+◼️
+
+[Data](articles/d48394fa.json)
+
+---
 
 ### ”பிற தேர்தல்களிலும் இளைஞர்களுக்கு ஒதுக்கீடு வேண்டும்”
 
@@ -47,6 +119,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/13154fc1.json)
+
+---
+
+### UN Rights Chief to present report on “Human Rights situation in Sri Lanka” at next month’s UNHRC session
+
+*2025-08-12 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111390/un-human-rights-chief-to-present-report-on-human-rights-situation-in-sri-lanka-at-next-months-unhrc-session) · `en`
+
+United Nations High Commissioner for Human Rights Volker Türk, who visited Sri Lanka in June, is scheduled to present his report titled “Situation of Human Rights in Sri Lanka” at the upcoming 60th session of the Human Rights Council in Geneva, Switzerland.
+
+The 60th session of the Human Rights Council is scheduled to begin on September 8 and will continue until October 8.
+
+According to the agenda released by the Office of the UN High Commissioner for Human Rights, High Commissioner Volker Türk will present the report on Sri Lanka on the opening day of the session.
+
+UN High Commissioner for Human Rights Volker Türk undertook a four-day official visit to Sri Lanka in June, and he is scheduled to include his observations in the report.
+
+His visit to the Chemmani mass grave site is also expected to feature prominently in the report to be submitted to the UN Human Rights Council.
+
+...
+
+[Data](articles/3603c5ee.json)
 
 ---
 
@@ -142,6 +234,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 2025 National Youth Conference underway
+
+*2025-08-12 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111388/2025-national-youth-conference-underway) · `en`
+
+The 2025 National Youth Conference got underway at the Sugathadasa Stadium in Colombo, a short while ago.
+
+President Anura Kumara Dissanayake is scheduled to attend the ceremony of the conference.
+
+◼️
+
+[Data](articles/b47e107b.json)
+
+---
+
 ### புதிய ஐஜிபி யார்?  இன்று கூடுகிறது  அரசியலமைப்பு பேரவை
 
 *2025-08-12 10:57:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஐஜிபி-யார்-இன்று-கூடுகிறது-அரசியலமைப்பு-பேரவை/175-362748) · `ta`
@@ -203,6 +309,20 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ...
 
 [Data](articles/70e8bfa3.json)
+
+---
+
+### ධීවර ජනතාවට සයුර රක්ෂණ ක්‍රමය
+
+*2025-08-12 10:33:21* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ජනතාවට-සයුර-රක්ෂණ-ක්‍රමය/11-417861) · `si`
+
+ධීවර කර්මාන්තයේ නියතු ධීවරයන්‍ගේ අවධානය කළමණාකරණය කරමින් ඔවුන්ගේ ජීවන තත්ත්වය වඩාත් සතුටුදායක තත්ත්වයකට ගෙන ඒමේ අපේක්ෂාව මුල් කර ගනිමින් සයුර නමින් විශේෂ හදිසි අනතුරු රක්ෂණ යෝජනා ක්‍රමයක් කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය විසින් හඳුන්වාදී තිබේ.
+
+රු. 1850. 2450.3050 යන වාර්ෂික වාරික මුදල් කාණ්ඩ යටතේ පිළිවෙළින් රුපියල් 1 200 000, රු 1 500 000 හා රු 2 000 000 යන ආවරණ මට්ටම් යටතේ ධීවරයින් ලබා ගැනීමට අවස්ථාව තිබේ. අවම වාරික මුදලක් යටතේ උපරිම ආවරණයක් සළසා දීම මෙම හදිසි
+
+◼️
+
+[Data](articles/5bab11cc.json)
 
 ---
 
@@ -610,9 +730,13 @@ The Cabinet of Ministers has granted approval to the proposal to remove Dhammika
 
 High Commissioner of India in Colombo Santhosh Jha has called on Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office.
 
-During the meeting, discussions were held to find ways to strengthen bilateral cooperation in education, including training programmes for leadership and planning, addressing the Tamil-medium teacher shortage and advancing ongoing education reforms to improve access and quality, the Office of the Prime Minister stated.
+During the meeting, the Prime Minister highlighted the importance of building stronger cooperation between the two countries, especially in the areas of Education., according to a statement issued by the Office of the Prime Minister.
 
-◼️
+Prime Minister Amarasuriya also highlighted the need for a training programme for officials in the education sector to develop the skills in the area of leadership and planning, and pointed out the urgent need to address the teacher shortage of Tamil medium.
+
+She has reportedly shared an update on the ongoing education reforms in Sri Lanka aimed at improving access and quality.
+
+...
 
 [Data](articles/6fe205bb.json)
 
@@ -1615,131 +1739,5 @@ The Group delivered robust results across its Mobile, Fixed Line, Digital Pay Te
 ...
 
 [Data](articles/345c071e.json)
-
----
-
-### பொலன்னறுவையில் படகு கவிழ்ந்து தந்தை, மகன் பலி - 11 பேர் மீட்பு
-
-*2025-08-11 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222355) · `ta`
-
-பொலன்னறுவை, பராக்கிரம சமுத்திரத்தில் திங்கட்கிழமை (11) இடம்பெற்ற படகு விபத்தில், 63 வயது தந்தை மற்றும் 38 வயது மகன் உயிரிழந்துள்ளனர்.
-
-சம்பவம் இடம்பெற்றதும், அப்பகுதி மக்கள் மற்றும் பொலிஸார் விரைவாக மீட்புப் பணிகளில் ஈடுபட்டு, 11 பேரை பாதுகாப்பாக கரையிறக்கினர். மீட்கப்பட்டவர்கள் அனைவரும் அருகிலுள்ள வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
-
-உயிரிழந்த இருவரின் உடல்கள் பிரேதப் பரிசோதனைக்காக அனுப்பப்பட்டுள்ளன. விபத்திற்கான துல்லியமான காரணம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/86a7070a.json)
-
----
-
-### මාස 8ක් තුළ මත්ද්‍රව්‍ය වැරදි සම්බන්ධව අත්අඩංගුවට ගත් පිරිස ලක්ෂය ඉක්මවයි
-
-*2025-08-11 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213270) · `si`
-
-වසරේ මේ දක්වා කාලය තුළ විවිධ මත්ද්‍රව්‍ය වැරදි සම්බන්ධව අත්අඩංගුවට ගත් පිරිස එක්ලක්ෂ විසිදහස ඉක්වා තිබේ.
-
-මහජන ආරක්ෂක අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ මෙම වසරේ පළමු දින සිට අද (11) දිනය දක්වා කාලය තුළ සිදුකරන ලද විශේෂ මෙහෙයුම් තුළින් මෙම පුද්ගලයින් අත්අඩංගුවට ගෙන ඇති බවය.
-
-ඒ අනුව හොරොයින් සම්බන්ධයෙන් පුද්ගලයින්  39,627ක්,  අයිස් මත්ද්‍රව්‍ය සම්බන්ධයෙන් පුද්ගලයින් 47,615ක් සහ ගංජා මත්ද්‍රව්‍ය සම්බන්ධව පුද්ගලයින් 42,620ක් දෙනෙකුද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම එම මෙහෙයුම් මගින් සමස්තයක් ලෙස මේ දක්වා හොරොයින් මත්ද්‍රව්‍ය කිලෝ 934.55ක්, අයිස් මත්ද්‍රව්‍ය කිලෝ 1402.976ක ප්‍රමාණයක්ද සහ ගංජා මත්ද්‍රව්‍ය කිලෝ 11620.068ක ප්‍රමාණයක්ද පොලිස් භාරයට ගෙන ඇති බවය.
-
-තවද මහාමාර්ගයේ රථවාහන වැරදි සම්බන්ධව මෙම මෙහෙයුම් දියත් කර ඇති අතර ඒ අනුව බීමත් රියදුරන් 118 දෙනෙකු පොලිස් අත්අඩංගුවට පත්ව තිබේ.
-
-එමෙන්ම අපරික්ෂාකාරී ලෙස රිය ධාවනය ඇතුලු වෙනත් වැරදි සම්බන්ධව පුද්ගලයින් 3,595 දෙනෙක් සඳහාද නීතිමය පියවර ගැනීමට පොලීසිය කටයුතු කර ඇත.
-
-...
-
-[Data](articles/b861a6c3.json)
-
----
-
-### ரயில் ஆசன முன்பதிவில் சிக்கல் - நானுஓயாவில் அமைதியின்மை
-
-*2025-08-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/222354) · `ta`
-
-கொழும்பு மற்றும் பதுளை இடையே செல்லும் எல்ல ஒடிசி ரயிலில்  சுற்றுலா பயணிகளின் தேசிய அடையாள அட்டை இலக்கம் அல்லது வெளிநாட்டு கடவுச்சீட்டு இலக்கத்தை உள்ளிடு செய்யாது ஆசன முன்பதிவில் செய்தமையால் சுற்றுலா பயணிகளை ரயிலில் பயணிப்பதற்கு மறுப்பு தெரிவித்து வெற்று ஆசனங்களுடன் ரயில் சென்றதாக  சுற்றுலா வழிகாட்டிகள் தெரிவித்தனர்.
-
-இதன் காரணமாக நானுஓயாவிலிருந்து எல்ல நோக்கி செல்லும் பயணிகள் திங்கட்கிழமை (11) பாரிய அசௌகரியங்களை எதிர்நோக்கியுள்ளதோடு ரயில் நிலையத்தில் ரயில் நிலைய பொறுப்பதிகாரிகளுடன் முரண்பட்ட பின்னர் அங்கு  அமைதியின்மையும் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது மேலும் இலங்கை சுற்றுலாத்துறைக்கு பெரும் பாதிப்பை ஏற்படுத்துவதாக சுட்டிக்காட்டினர்.
-
-...
-
-[Data](articles/37a8a522.json)
-
----
-
-### 10-hour water cut in several areas of Gampaha on Thursday
-
-*2025-08-11 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111371/10-hour-water-cut-in-several-areas-of-gampaha-on-thursday-) · `en`
-
-A 10-hour water cut will be imposed in several areas of the Gampaha District on Thursday (14), the National Water Supply & Drainage Board (NWSDB) announced.
-
-The water cut has been attributed to maintenance activities of the transmission pipeline running from Nittambuwa to Minuwangoda, which is part of the Gampaha–Attanagalla–Minuwangoda Integrated Water Supply Scheme.
-
-Accordingly, the water supply to Ranpokunagama, Bataliya, Attanagalla, Pasyala, and Nittambuwa will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. on Thursday, the NWSDB said.
-
-The statement issued by the NWSDB noted that the water supply will also be suspended to resident of Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla.
-
-◼️
-
-[Data](articles/d64b8908.json)
-
----
-
-### Donald Trump says he will deploy US National Guard in Washington DC
-
-*2025-08-11 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111370/donald-trump-says-he-will-deploy-us-national-guard-in-washington-dc) · `en`
-
-US President Donald Trump said on Monday (Aug 11) he was putting Washington’s police department under federal control and ordering the National Guard to deploy to the nation’s capital to combat what he said was a wave of lawlessness, despite statistics showing that violent crime hit a 30-year low in 2024.
-
-‘I’m deploying the National Guard to help re-establish law, order and public safety in Washington, DC,’ Trump told reporters at the White House, flanked by administration officials including Defense Secretary Pete Hegseth and Attorney General Pam Bondi. ‘Our capital city has been overtaken by violent gangs and bloodthirsty criminals.’
-
-‘The Metropolitan Police Department and the federal authorities will be supported in the effort, a really big effort, the 800 DC National Guardsmen that we’ll put on. And much more, if necessary, much more,’ Trump said.
-
-Hegseth added that the National Guard units are expected to arrive in the capital within the coming week.
-
-...
-
-[Data](articles/978bb5c4.json)
-
----
-
-### யாழ். மண்கும்பானில் இனந்தெரியாத ஒருவரின் சடலம் மீட்பு
-
-*2025-08-11 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222343) · `ta`
-
-யாழ்ப்பாணம், ஊர்காவற்துறை பொலிஸ் பிரிவுக்குட்பட்ட மண்கும்பான் பகுதியில் ஆண் ஒருவரின் சடலம் கரையொதுங்கியுள்ளது.
-
-கரையொதுங்கிய சடலத்தை அடையாளம் காண்பதற்கான முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. இதுவரை சடலத்தின் அடையாளம் உறுதிப்படுத்தப்படவில்லை.
-
-கடந்த வாரம் புங்குடுதீவு பகுதியில் உரிமையாளர் எவருமற்ற படகு ஒன்று கரையொதுங்கியிருந்த நிலையில், தற்போது இந்தச் சடலம் மீட்கப்பட்டுள்ளது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/5b416167.json)
-
----
-
-### Court grants permission to detain and question suspects in Sahaspura shooting incident
-
-*2025-08-11 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111369/court-grants-permission-to-detain-and-question-suspects-in-sahaspura-shooting-incident) · `en`
-
-The Colombo Magistrate’s Court today granted permission to the Colombo Crimes Division to detain and question, for 24 hours, three suspects arrested in connection with the shooting incident that occurred in Borella on August 7.
-
-In addition, a previously arrested suspect, identified as Shehan Madhusanka, has been further remanded until August 25.
-
-The order was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga.
-
-Police informed court that further investigations related to the incident are ongoing.
-
-Accordingly, police requested court approval to detain the three arrested suspects for a 24-hour period for interrogation, which was granted by the Magistrate.
-
-Furthermore, the attorney appearing on behalf of suspect Shehan Madhusanka claimed in court that his client had no involvement in the incident and that he was arrested based solely on a statement provided by another individual.
-
-...
-
-[Data](articles/337a2883.json)
 
 ---

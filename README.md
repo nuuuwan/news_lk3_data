@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 13:51:01**
+As of **2025-08-12 14:07:56**
 
 ## Newspaper Stats
 
-*Scraped **70,091** Articles*
+*Scraped **70,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
-economynextcom | 4,267
+economynextcom | 4,268
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
 adalk | 6,756
 adaderanalk | 8,729
-tamilmirrorlk | 10,273
+tamilmirrorlk | 10,274
 virakesarilk | 11,681
-adaderanasinhalalk | 12,076
+adaderanasinhalalk | 12,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.4%) of 70,091 articles have been extended.
+61,973 (88.4%) of 70,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### හිටපු ප්‍රාස මන්ත්‍රීවරයෙකුට වෙඩි
+
+*2025-08-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213291) · `si`
+
+වෙඩිතැබීමෙන් හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයෙකු තුවාල ලබා රෝහල් ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇත.
+
+මියගොස් ඇත්තේ 46 හැවිරිදි අයෙක් වන අතර, මෘත ශරීරය හෝමාගම රෝහලේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/0c0768ab.json)
+
+---
+
+### புனித யாத்திரிகர் தலமாக சபரிமலை அங்கிகாரம்
+
+*2025-08-12 13:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புனித-யாத்திரிகர்-தலமாக-சபரிமலை-அங்கிகாரம்/175-362766) · `ta`
+
+இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித யாத்திரிகர் தலமாக சபரிமலை வழிபாட்டுத் தலத்தைப் பிரகடனப்படுத்தல் மற்றும் வசதிகளை வழங்க ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் கூடிய அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+புத்தசாசன, சமய மற்றும் கலாச்சார விவகாரங்கள் அமைச்சர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+இந்தியாவின் கேரளாவில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்திற்கு இலங்கையின் இந்து பக்தர்கள் ஒவ்வொரு ஆண்டும் நவம்பர் 01 ஆம் தொடக்கம் அடுத்த வருடத்தின் ஜனவரி மாதம் 31 ஆம் திகதி வரையான காலப்பகுதியில் சென்று தரிசிக்கின்றனர்.  இது நீண்டகாலமாக இடம்பெற்று வருகிறது.
+
+தற்போது ஆண்டுதோறும் 15,000 இற்கும் அதிகமான இலங்கையின் இந்து பக்தர்கள் கலந்து கொள்கின்ற தலயாத்திரை மையமாகவும் அமைந்துள்ளது.
+
+அதற்கமைய, இந்தியாவின் கேரளா மாநிலத்தில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்திற்கு இலங்கை இந்து யாத்திரிகர்களால் மேற்கொள்ளப்படுகின்ற வழிபாட்டு தரிசிப்பானது, இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித தலயாத்திரையாகப் பிரகடனப்படுத்துவதற்கு அங்கிகாரம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/26273c58.json)
+
+---
+
+### Sri Lanka monetary policy balanced, space to cut on an external impact: CB Governor
+
+*2025-08-12 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-monetary-policy-balanced-space-to-cut-on-an-external-impact-cb-governor-235718/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s monetary policy is balanced but there was space to cut rates if there was an external shock, Central Bank Governor Nandalal Weerasinghe said referring to a possible impact from Trump tariffs.
+
+Sri Lanka had a policy rate of 7.75 percent which indicted real interest rates of 2.75 percent considering the 5 percent inflation target.
+
+The central bank is expecting inflation to come reach a 5 percent target next year and growth was above the 3 percent projected by the International Monetary Fund and close to 5 percent, which indicated a ‘right balance’ in monetary policy, he said.
+
+“But what’s good about it is that if there’s going to be any impact out of this external event, we have a space in the monetary policy for us to support the local economy,” Governor Weerasinghe told a forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commission.
+
+“But without needing that support, pushing it through can create bubbles or burst cycles.”
+
+...
+
+[Data](articles/8416de0f.json)
+
+---
 
 ### வெளிநாட்டு சிகரெட்டுகளுடன் மூவர் கைது
 
@@ -194,11 +248,13 @@ These include plantation/agricultural activities, plantation-related tourism pro
 
 *2025-08-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213289) · `si`
 
-අල්ලස් කොමිසම විසින් සිදු කරන විමර්ශනයක සැකකරුවකු වශයෙන් නම්කර සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (12) වරෙන්තු නිකුත් කර තිබේ.
+අල්ලස් කොමිසම විසින් සිදු කරන විමර්ශනයක සැකකරුවෙකු වශයෙන් නම්කර සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (12) වරෙන්තු නිකුත් කළේය.
 
-සැකකාර හිටපු අමාත්‍යවරයා ප්‍රකාශ ලබාදීම මගහරිමින් විමර්ශනවලට බාධා කරන බවට අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා මෙම නියෝගය නිකුත් කරනු ලැබීය.
+සැකකාර හිටපු අමාත්‍යවරයා ප්‍රකාශ ලබාදීම මගහරිමින් විමර්ශනවලට බාධා කරන බවට අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා අනතුරුව මෙම නියෝගය නිකුත් කරනු ලැබීය.
 
-◼️
+අදාළ නඩුව අද (12) මෝසමක් මාර්ගයෙන් කැඳවමින් අල්ලස් කොමිසමේ සහකාර නීති අධ්‍යක්ෂිකා සුලෝචනා හෙට්ටිආරච්චි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් 2012 වසරේ මැයි මස 19 වනදා  "සී වූ ප්‍රයිවට් ලිමිටඩ්" නමැති කොරියානු සමාගමක් ඉදිරිපත් කළ යෝජනාවකට අනුව කිරින්ද ධීවර වරායේ පිරී තිබෙන වැලි ඉවත්කර ඒවා පිරිසිදු කර දේශීය වෙළඳපොළට මුදා හැරීමේ ව්‍යාපෘතියක් ආරම්භ කිරීම සඳහා එවක ධීවර අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් අනුමැතිය ලබාදී තිබෙන බව සඳහන් කළාය.
+
+...
 
 [Data](articles/02aef8d9.json)
 
@@ -1733,59 +1789,5 @@ The revival meeting of the Association was held last Thursday (7) at Parliament 
 ...
 
 [Data](articles/1680a521.json)
-
----
-
-### Celebrating cultural diversity at Independence Arcade
-
-*2025-08-12 03:58:14* · [`dailyftlk`](https://www.ft.lk/news/Celebrating-cultural-diversity-at-Independence-Arcade/56-780167) · `en`
-
-Colombo’s Independence Arcade turned into a vibrant hub of culture, commerce, and community recently as ‘WINGS: Flight Begins Here’, a two-day diversity market, unfolded on 1 and 2 August, drawing large crowds in celebration of Sri Lanka’s rich pluralistic spirit.
-
-Hosted by Chrysalis, a non-governmental organisation committed to promoting economic independence, dignified work, leadership, and inclusion among underserved communities in Sri Lanka, the event was open to the general public and drew an enthusiastic and diverse crowd.
-
-The market showcased small and medium entrepreneurs from across the country, offering attendees the chance to support local businesses across various sectors — from crafts and food to eco-products and fashion. Beyond shopping, visitors engaged in interactive dialogues exploring the private sector’s role in social cohesion, and experienced Sri Lanka’s pluralistic heritage through dynamic cultural performances and community-driven initiatives.
-
-...
-
-[Data](articles/4e861ae0.json)
-
----
-
-### Minister Anura Karunathilaka elected President of SL-Pakistan Parliamentary Friendship Association
-
-*2025-08-12 03:56:50* · [`dailyftlk`](https://www.ft.lk/news/Minister-Anura-Karunathilaka-elected-President-of-SL-Pakistan-Parliamentary-Friendship-Association/56-780166) · `en`
-
-Pakistani High Commissioner to Sri Lanka Major General (Retd.) Faheem-Ul-Aziz (left) and Parliament Speaker Dr. Jagath Wickramaratne
-
-Pakistani High Commissioner discusses strengthening bilateral relations with Sri Lanka Parliament Speaker
-
-Talks focus on enhancing cooperation in investment, trade, tourism, and education
-
-Urban Development, Construction and Housing Minister Anura Karunathilaka has been elected President of the Sri Lanka-Pakistan Parliamentary Friendship Association for the Tenth Parliament.
-
-The revival meeting of the Association was held on 5 August at the Parliament premises under the patronage of Parliament Speaker Dr. Jagath Wickramaratne. Pakistani High Commissioner to Sri Lanka Major General (Retd.) Faheem-Ul-Aziz attended the event as Guest of Honour.
-
-Deputy Speaker Dr. Rizvie Salih, several Ministers, Deputy Ministers, MPs, and Secretary General of Parliament Kushani Rohanadeera were also present on this occasion.
-
-...
-
-[Data](articles/7e10e6eb.json)
-
----
-
-### Australia to recognise Palestinian State in September
-
-*2025-08-12 02:43:22* · [`dailyftlk`](https://www.ft.lk/news/Australia-to-recognise-Palestinian-State-in-September/56-780153) · `en`
-
-Australian Prime Minister Anthony Albanese said Australia will recognise a Palestinian State at the UN General Assembly in September, following similar moves by the UK, France, and Canada.
-
-Albanese said Australia received commitments from the Palestinian Authority (PA), including to demilitarise, hold general elections, and continue to recognise Israel’s right to exist.
-
-“A two-State solution is humanity’s best hope to break the cycle of violence in the Middle East and to bring an end to the conflict, suffering, and starvation in Gaza,” he said yesterday.
-
-...
-
-[Data](articles/4a750635.json)
 
 ---

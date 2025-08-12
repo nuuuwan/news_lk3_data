@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 08:45:48**
+As of **2025-08-12 09:20:30**
 
 ## Newspaper Stats
 
-*Scraped **70,006** Articles*
+*Scraped **70,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,743
-adaderanalk | 8,710
-tamilmirrorlk | 10,247
-virakesarilk | 11,672
-adaderanasinhalalk | 12,064
+adalk | 6,746
+adaderanalk | 8,718
+tamilmirrorlk | 10,250
+virakesarilk | 11,673
+adaderanasinhalalk | 12,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,006 articles have been extended.
+61,973 (88.5%) of 70,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
+
+### ரயில் திணைக்கள பொது முகாமையாளர் பதவியில் இருந்து தம்மிக்க ஜெயசுந்தரவை நீக்க அமைச்சரவை அனுமதி
+
+*2025-08-12 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222371) · `ta`
+
+இலங்கை ரயில் திணைக்கள பொது முகாமையாளர் பதவியில் இருந்து தம்மிக்க ஜயசுந்தரவை நீக்கும் முன்மொழிவுக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
+
+◼️
+
+[Data](articles/4e6207a6.json)
+
+---
+
+### ரயில்வே பொது மேலாளரை பதவி நீக்க அமைச்சரவை அனுமதி
+
+*2025-08-12 09:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-பொது-மேலாளரை-பதவி-நீக்க-அமைச்சரவை-அனுமதி/175-362741) · `ta`
+
+ரயில்வே பொது மேலாளர் தம்மிக்க ஜயசுந்தரவை அந்தப் பதவியில் இருந்து நீக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
+
+போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க சமீபத்தில் அமைச்சரவையில் சமர்ப்பித்திருந்த அமைச்சரவை பத்திரத்திற்கு அனுமதி வழங்கப்பட்டுள்ளது.R
+
+◼️
+
+[Data](articles/b8a61580.json)
+
+---
+
+### දුම්රිය සාමාන්‍යාධිකාරී ඉවත් කිරීමට කැබිනට් අනුමැතිය
+
+*2025-08-12 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213280) · `si`
+
+දුම්රිය සාමාන්‍යාධිකාරී ධම්මික ජයසුන්දර මහතා එම තනතුරින් ඉවත් කිරීම සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ඒ මහතා අදාළ තනතුරින් ඉවත් කිරීම සඳහා ප්‍රවාහන අමාත්‍ය බිමල් රත්නායක මහතා විසින් කැබිනට් මණ්ඩලයට පසුගියදා විශේෂ යෝජනාවක්ද ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/3c50bea2.json)
+
+---
+
+### Cabinet approves removal of Dhammika Jayasundara from post of General Manager Railways
+
+*2025-08-12 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111382/cabinet-approves-removal-of-dhammika-jayasundara-from-post-of-general-manager-railways-) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to remove Dhammika Jayasundara from the post of General Manager of Sri Lanka Railways.
+
+◼️
+
+[Data](articles/b8df17f7.json)
+
+---
+
+### දයා ගමගේට අයත් ඉඩමක් වෙන්දේසි කිරීමට යාමේදී උණුසුම් තත්ත්වයක්
+
+*2025-08-12 08:28:12* · [`adalk`](https://www.ada.lk/breaking_news/දයා-ගමගේට-අයත්-ඉඩමක්-වෙන්දේසි-කිරීමට-යාමේදී-උණුසුම්-තත්ත්වයක්/11-417856) · `si`
+
+හිටපු අමාත්‍ය දයා ගමගේට අයත් බව කියන භාරගම පොලිස් වසමේ මාලිගාතැන්න ගුරුදෙණිය ප්‍රදේශයේ ඉඩමක් මූල්‍ය ආයතනයක් විසින් වෙන්දේසි කිරීමට යාමේදී ඊට බාධා කරමින් බලපෑම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අදාළ මූල්‍ය ආයතනයේ ජේෂ්ඨ කළමනාකරුවෙකු විසින් තලාතුඔය පොලිසියට පැමිණිල්ලක් සිදුකොට තිබේ.
+
+එසේම දයා ගමගේ මහතාද මෙම වෙන්දේසි කිරීම නීති විරෝධී බව කියමින් පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+දයා ගමගේ මහතාට අයත් බව කියන අක්කර 19යි රූඩ් 01  පර්චස් 34 ක ඉඩම අදාළ මූල්‍ය ආයතනයට උකස් කොට ණයක් ලබාගෙන ඇති අතර එය ගෙවීම පැහැර හැරීම හේතුවෙන් අදාළ ඉඩම ඊයේ (11) පෙරවරුවේ එම මූල්‍ය ආයතනය විසින් ඉඩම වෙන්දේසි කිරීමට සැරසීමේදී  වෙන්දේසි කිරීම නීති විරෝධී බව පවසමින් ඊට බාධා කළ බවට අදාළ කළමනාකාරවරයා විසින් තලාතුඔය පොලිසියට පැමිණිලි සිදුකොට තිබේ.
+
+◼️
+
+[Data](articles/cb1e0242.json)
+
+---
+
+### பராக்கிரம சமுத்திரத்தில் படகு கவிழ்ந்து தந்தையும் மகனும் பலி
+
+*2025-08-12 08:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராக்கிரம-சமுத்திரத்தில்-படகு-கவிழ்ந்து-தந்தையும்-மகனும்-பலி/175-362740) · `ta`
+
+பொலன்னறுவை, பராக்கிரம சமுத்திரத்தில் படகு கவிழ்ந்ததில் ஏற்பட்ட விபத்தில் தந்தையும் மகனும் உயிரிழந்துள்ளனர்.
+
+வென்னப்புவ பகுதியில் வசிக்கும் ஒரு குழு, பொலன்னறுவை பகுதியில் உள்ள ஒரு நண்பரின் வீட்டிற்குச் சென்று, அங்கு படகில் ஏறி பராக்கிரம சமுத்திரத்தில் நீராடச் சென்றுள்ளனர்.
+
+படகு கவிழ்ந்த நேரத்தில் படகில் 9 பேர் பயணம் செய்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+விபத்தில் வென்னப்புவ பகுதியைச் சேர்ந்த 63 வயதுடைய ஒருவரும் அவரது 38 வயது மகனும் இறந்துள்ளனர்.
+
+இறந்தவரின் உடல்கள் பொலன்னறுவை வைத்தியசாலையில் வைக்கப்பட்டுள்ளன, இன்று (12) பிரேத பரிசோதனை நடத்தப்பட உள்ளது.
+
+◼️
+
+[Data](articles/445d91f6.json)
+
+---
+
+### பஸ் - லொறி மோதிய விபத்தில் 26 பேர் காயம்
+
+*2025-08-12 08:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-லொறி-மோதிய-விபத்தில்-26-பேர்-காயம்/175-362739) · `ta`
+
+கொழும்பு - மட்டக்களப்பு பிரதான வீதியின் மின்னேரியா பட்டுஓயா பகுதியில் நடந்த வாகன விபத்தில் 26 பேர் காயமடைந்துள்ளனர்.
+
+மதுருஓயாவிலிருந்து கொழும்பு நோக்கிச் சென்ற பேருந்து இன்று (12) அதிகாலை 3 மணியளவில் டிப்பருடன் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e0a38485.json)
+
+---
+
+### පරාක්‍රම සමුද්‍රයේ ඔරුවක් පෙරළී පිය පුතු දොපොළ මරුට
+
+*2025-08-12 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213279) · `si`
+
+පොළොන්නරුව පරාක්‍රම සමුද්‍රයේ ඔරුවක් පෙරළීමෙන් සිදුවූ අනතුරකින් පියපුතු දෙපොළක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (11) පස්වරුවේ මෙම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+
+වෙන්නප්පුව ප්‍රදේශයේ පදිංචි පුද්ගලයින් පිරිසක් පොළොන්නරුව ප්‍රදේශයේ මිතුරෙකුගේ නිවසකට ගොස් ඇති අතර එහිදී ඔවුන් ඔරුවක නැගී පරාක්‍රම සමුද්‍රයේ දියනෑමට ගොස් ඇති බව සඳහන්ය.
+
+එහිදී ඔරුව පෙරළී ගොස් ඇති අතර එම අවස්ථාවේ ඔරුව තුළ පුද්ගලයින් 9 දෙනෙකු ගමන් කර ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අනතුරින් මියගොස් ඇත්තේ 63 හැවිරිදි පුද්ගලයෙකු සහ 38 හැවිරිදි පුත්‍රයා වන අතර ඔවුන් වෙන්නප්පුව ප්‍රදේශයේ පදිංචිකරුවන් බව සඳහන්ය.
+
+මියගිය පුද්ගලයින්ගේ මළසිරුරු පොළොන්නරුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර පශ්චාත් මරණ පරීක්ෂණය අද (12) සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/1c321171.json)
+
+---
 
 ### රුසියාව අල්ලාගත් යුක්‍රේන භූමිය නැවත ලබා දීමට ට්‍රම්ප්ගෙන් උත්සාහයක්
 
@@ -52,6 +176,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### PM Harini and Indian High Commissioner discuss ways to strengthen bilateral cooperation
+
+*2025-08-12 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111380/pm-harini-and-indian-high-commissioner-discuss-ways-to-strengthen-bilateral-cooperation) · `en`
+
+High Commissioner of India in Colombo Santhosh Jha has called on Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office.
+
+During the meeting, discussions were held to find ways to strengthen bilateral cooperation in education, including training programmes for leadership and planning, addressing the Tamil-medium teacher shortage and advancing ongoing education reforms to improve access and quality, the Office of the Prime Minister stated.
+
+◼️
+
+[Data](articles/6fe205bb.json)
+
+---
+
 ### கிணற்றிலிருந்து மாணவியின் சடலம் மீட்பு
 
 *2025-08-12 07:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றிலிருந்து-மாணவியின்-சடலம்-மீட்பு/175-362738) · `ta`
@@ -67,6 +205,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fadf3bea.json)
+
+---
+
+### 'அபிநய சரஸ்வதி' என்று மெச்சப்பட்ட ' கன்னடத்துப் பைங்கிளி ' சரோஜாதேவி
+
+*2025-08-12 07:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222356) · `ta`
+
+தமிழ் திரைப்படங்களை பார்த்து வளர்ந்த இந்த கட்டுரையாளரைப் போன்ற தமிழ்ச்சினிமா ரசிகர்களுக்கு தென்னிந்தியாவின் பழம்பெரும் நடிகை பி.சரோஜாதேவியின் மரணம் பெரும் கவலையைத் தந்தது. 2025 ஜூலை 14 ஆம் காலையில்  திகதி தனது தினசரி 30 நிமிட பூஜை வழிபாட்டைச் செய்து முடித்துவிட்டு சோபாவில் இருந்து தொலைக்காட்சி பார்த்துக் கொண்டிருந்த வேளையில்  திடீரென்று ஒரு முனகலுடன் மயங்கி விழுந்த அவரை வைத்தியசாலைக்கு கொண்டு சென்றபோது அவர் மரணமடைந்து விட்டதாக அங்கு  அறிவிக்கப்பட்டது. அவருக்கு 87 வயது.
+
+எனது சிறுவயதில் இருந்தே நான் தமிழ்த் திரையுலகின் நடிகைகள் மத்தியில் சரோஜாதேவியின் ஒரு பெரிய ரசிகன். ஐந்து தசாப்தங்களுக்கும் அதிகமான கால திரையுலக வாழ்வைக் கொண்ட அவர் 209 படங்களில் நடித்திருக்கிறார். இவற்றில் 161 படங்களில் அவர் கதாநாயகியாக அல்லது முன்னணி பாத்திரங்களில் நடித்திருக்கிறார். மற்றைய படங்களில் அவர் துணைப் பாத்திரங்களில் அல்லது குணசித்திர பாத்திரங்களில் நடித்தார். திரையுலக வாழ்வின் ஆரம்பக் கட்டங்களில் சரோஜாதேவி நாட்டியக்காரியாகவும் தோன்றினார்.
+
+...
+
+[Data](articles/8924541d.json)
 
 ---
 
@@ -106,6 +258,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Fuel taxes cannot be reduced until loans are fully repaid – Energy Minister
+
+*2025-08-12 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111379/fuel-taxes-cannot-be-reduced-until-loans-are-fully-repaid-energy-minister) · `en`
+
+There is no possibility of removing the taxes imposed on fuel until the loans obtained by the Ceylon Petroleum Corporation (CPC) are fully repaid, Minister of Energy Eng. Kumara Jayakody has stated.
+
+Minister Jayakody pointed out that if such tax relief were granted, the government would be unable to meet its loan repayment obligations.
+
+Energy Minister Kumara Jayakody made these remarks while participating in the Ada Derana “360°” current affairs program broadcast last night (11).
+
+◼️
+
+[Data](articles/c7b2c517.json)
+
+---
+
+### Gold will be exempted from tariffs, says Donald Trump
+
+*2025-08-12 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111378/gold-will-be-exempted-from-tariffs-says-donald-trump) · `en`
+
+U.S. President Donald Trump said Monday that gold will be exempted from tariffs, leading to a material drop in gold futures prices.
+
+“Gold will not be Tariffed!” said Trump in a brief post on Truth Social.
+
+Gold futures prices, backed by bars shipped from Switzerland and other key trading and refining hubs, moved up notably on Thursday and Friday due to speculation that the U.S. Customs and Border Protection would classify 1-kilo and 100-ounce gold bars under a customs code that subjects them to tariffs.
+
+On Monday, gold futures for August delivery on the New York Mercantile Exchange lost over 2 percent.
+
+The United States recently imposed 39 percent tariffs on goods imported from Switzerland, which holds significant gold reserves and plays a crucial role in the settlement of gold futures on the international market.
+
+◼️
+
+[Data](articles/196971a1.json)
+
+---
+
 ### ණය ගෙවා අවසන් වනතුරු ඉන්ධන සඳහා බදු අඩු කළ නොහැකියි  බලශක්ති ඇමති
 
 *2025-08-12 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213276) · `si`
@@ -131,6 +319,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/62532ee8.json)
+
+---
+
+### Constitutional Council likely to ratify name of new IGP today
+
+*2025-08-12 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111377/constitutional-council-likely-to-ratify-name-of-new-igp-today) · `en`
+
+The council is scheduled to convene under the chairmanship of Speaker of House Dr. Jagath Wickramaratne at 1:30 p.m., according to the Speaker’s Office.
+
+The meeting is expected to focus on the proposal regarding the appointment of a new Inspector General of Police (IGP).
+
+The position of IGP became vacant following the removal of former IGP Deshabandu Tennakoon through a resolution in Parliament.
+
+Subsequently, President Anura Kumara Dissanayake was expected to present a nominee for the post to the Constitutional Council for approval.
+
+Accordingly, reports indicate that the Constitutional Council is expected to reach a final decision on the appointment of the new IGP during today’s meeting.
+
+Meanwhile, Renuka Ekanayake has resigned from her position as a member of the National Police Commission.
+
+It has been reported that the resignation letter has already been submitted to the Constitutional Council.
+
+...
+
+[Data](articles/4f6d35d7.json)
 
 ---
 
@@ -173,6 +385,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8de881f2.json)
+
+---
+
+### Donald Trump announces another 90-day pause on China tariffs
+
+*2025-08-12 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111376/donald-trump-announces-another-90-day-pause-on-china-tariffs) · `en`
+
+The US and China have extended their trade truce until 10 November, just hours before a jump in tariffs had been set to take effect.
+
+In a joint statement, the world’s two biggest economies said higher tariffs on each other’s goods announced earlier this year will be suspended for another 90 days.
+
+The higher tariffs were set to take effect on Tuesday unless the truce was extended.
+
+Talks last month ended with both sides calling the discussions “constructive”. China’s top negotiator said at the time that the two countries would push to preserve the truce, while US officials said they were waiting for final sign-off from US President Donald Trump.
+
+Trump said in a post on his Truth Social platform that he had signed an executive order on Monday to continue the tariff truce.
+
+“I have just signed an Executive Order that will extend the Tariff Suspension on China for another 90 days. All other elements of the Agreement will remain the same,” he wrote in his post.
+
+...
+
+[Data](articles/dc500840.json)
 
 ---
 
@@ -233,6 +467,46 @@ Under changes passed to Sri Lanka’s Electricity Act, private investments into 
 ◼️
 
 [Data](articles/56a4eaeb.json)
+
+---
+
+### Several spells of showers expected across the country today
+
+*2025-08-12 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111375/several-spells-of-showers-expected-across-the-country-today) · `en`
+
+Showers will occur at times in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today (12), the Department of Meteorology said.
+
+Several spells of showers will occur in the North-western province as well, the Met. Department added.
+
+Showers or thundershowers can also be expected at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Meanwhile, fairly strong winds of about 30-40kmph are likely over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
+
+The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/014d2e75.json)
+
+---
+
+### 26 injured after bus-tipper truck head-on collision in Minneriya
+
+*2025-08-12 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111374/26-injured-after-bus-tipper-truck-head-on-collision-in-minneriya) · `en`
+
+A total of 26 individuals have been injured in a road accident that occurred along the Colombo-Batticaloa main road in Batu Oya, Minneriya, police stated.
+
+According to police, the accident happened around 3:00 a.m. today (12), when a bus traveling from Maduroya towards Colombo collided with a tipper truck heading in the opposite direction.
+
+The injured individuals have been admitted to the Polonnaruwa, Minneriya, and Hingurakgoda hospitals.
+
+Hospital sources have reported that the condition of several of the injured is critical.
+
+The Minneriya Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/a7f26bb3.json)
 
 ---
 
@@ -719,20 +993,6 @@ After a spectacular 69.69% year-on-year rally that has catapulted the Colombo St
 ◼️
 
 [Data](articles/372ad4ba.json)
-
----
-
-### 'அபிநய சரஸ்வதி' என்று மெச்சப்பட்ட ' கன்னடத்துப் பைங்கிளி ' சரோஜாதேவி
-
-*2025-08-11 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222356) · `ta`
-
-தமிழ் திரைப்படங்களை பார்த்து வளர்ந்த இந்த கட்டுரையாளரைப் போன்ற தமிழ்ச்சினிமா ரசிகர்களுக்கு தென்னிந்தியாவின் பழம்பெரும் நடிகை பி.சரோஜாதேவியின் மரணம் பெரும் கவலையைத் தந்தது. 2025 ஜூலை 14 ஆம் காலையில்  திகதி தனது தினசரி 30 நிமிட பூஜை வழிபாட்டைச் செய்து முடித்துவிட்டு சோபாவில் இருந்து தொலைக்காட்சி பார்த்துக் கொண்டிருந்த வேளையில்  திடீரென்று ஒரு முனகலுடன் மயங்கி விழுந்த அவரை வைத்தியசாலைக்கு கொண்டு சென்றபோது அவர் மரணமடைந்து விட்டதாக அங்கு  அறிவிக்கப்பட்டது. அவருக்கு 87 வயது.
-
-எனது சிறுவயதில் இருந்தே நான் தமிழ்த் திரையுலகின் நடிகைகள் மத்தியில் சரோஜாதேவியின் ஒரு பெரிய ரசிகன். ஐந்து தசாப்தங்களுக்கும் அதிகமான கால திரையுலக வாழ்வைக் கொண்ட அவர் 209 படங்களில் நடித்திருக்கிறார். இவற்றில் 161 படங்களில் அவர் கதாநாயகியாக அல்லது முன்னணி பாத்திரங்களில் நடித்திருக்கிறார். மற்றைய படங்களில் அவர் துணைப் பாத்திரங்களில் அல்லது குணசித்திர பாத்திரங்களில் நடித்தார். திரையுலக வாழ்வின் ஆரம்பக் கட்டங்களில் சரோஜாதேவி நாட்டியக்காரியாகவும் தோன்றினார்.
-
-...
-
-[Data](articles/8924541d.json)
 
 ---
 
@@ -1364,6 +1624,26 @@ They pointed out that the vacancy arose following the resignation of retired Sup
 
 ---
 
+### පසු අස්වනු හානිය අඩු වෙලා
+
+*2025-08-11 18:57:42* · [`adalk`](https://www.ada.lk/breaking_news/පසු-අස්වනු-හානිය-අඩු-වෙලා/11-417854) · `si`
+
+පසු අස්වනු හානිය 30% සිට මේ වන විට 15% - 20% ත් අතර ප්‍රමාණයකට අඩු තැනිමට හැකි වි තිබෙන බවත් ඒ හරහා රටට  වසරකට අති විශාල  මුදලක් ඉතිරිව බව  ජාතික පසු අස්වනු කලමනාකරණ ආයතනය සදහන් කරයි'
+
+අස්වනු හානිය අවම කිරීම වෙනුවෙන් අවශ්‍ය කටයුකු කිරිම් හා ඒ සම්බන්ධයෙන් සිදු කරන පර්යේෂණ, අලුත් ආහාර නිෂ්පාදනය කරන පෝෂ්‍යදායී ආහාර නිෂ්පාදන කිරීම මෙම ආයතනයේ ප්‍රධාන  කාර්යභාර්ය මිට අමතරව  අපි පුහුණු වැඩසටහන් පවත්වනවා දැනුම ලබා දිම සිදුකරන බවද පෙන්වා දෙයි.
+
+මෙම ආයතනය සතුව අන්තර්ජාතික තත්ත්ව සහතික ලත් විද්‍යාගාරයක් තිබෙන බවත් .එම විද්‍යාගාරයෙන්  ඕනෑම ආහාර වර්ගයක තත්ත්වය පරීක්ෂා කොට ISO ප්‍රමිති සහතිකයක්  ලබා දිමට හැකියාව තිබෙන බවද සදහන් කරයි.
+
+ආහාර සුරක්ෂිතතාවය වෙනුවෙන් පසු අස්වනු කලමනාකරණ ආයතනය යොදා ගන්නේ කෙසේදැයි මේ දිනවල සාකච්ඡා කරකමින් තිබෙන බවත් . සියලුම තීරණ රටේ ගොවිජනතාවගේ සහ ආහාර පරිභෝජනය කරන පාරිභෝගිකයාගේ සුරක්ෂිතතාවය වෙනුවෙන් සිදුකරන බවද එම ආයතනය සදහන් කරයි.
+
+පසු අස්වනු තාක්ෂණය නමින් ආයතනය ආරම්භ වී මෙම වසරට වසර විසිපහක් ගත වන බත් මෙම ආයතනය  වසර 2000 දී ආරම්භ වි තිබෙන බවද පෙන්වා දෙයි
+
+◼️
+
+[Data](articles/8fcc16d9.json)
+
+---
+
 ### 975 individuals arrested during special island-wide police raids
 
 *2025-08-11 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111365/975-individuals-arrested-during-special-island-wide-police-raids) · `en`
@@ -1460,302 +1740,20 @@ The application, which was signed by Andrew Payne who runs Tesla’s European en
 
 ---
 
-### சுப்ரிம் செட் செயற்கைக்கோள் விவகாரம் : பிரதமருக்கு எதிராக கருத்து தெரிவித்த வசந்த சமரசிங்க பதவி விலகவேண்டும் – தலதா அத்துகோரள
+### කතරගම නිලමේ නැවතත් බස්නායක නිලවරණයට නොඑයි
 
-*2025-08-11 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222345) · `ta`
+*2025-08-11 18:30:28* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-නිලමේ-නැවතත්-බස්නායක-නිලවරණයට-නොඑයි/11-417852) · `si`
 
-சுப்ரிம் செட் செயற்கை கோள் தொடர்பில் பிரதமர் பாராளுமன்றத்துக்கு தெரிவித்த பதில், அவரை சிக்கவைக்க மேற்கொள்ளப்பட்ட திட்டமிட்ட செயலா என்ற சந்தேகம் எழுகிறது. அதனால் பிரதமரின் பதிலுக்கு மாற்றமான கருத்தை பாராளுமன்றத்தில் தெரிவித்த அமைச்சர் வசந்த சமரசிங்க இதுதொடர்பில் தெளிவுபடுத்த வேண்டும். அல்லது அமைச்சரவையின் கூட்டுப்பொறுப்பை மீறியமைக்காக அமைச்சர் பதவி விலகவேண்டும் என ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் தலதா அத்துகோரள தெரிவித்தார்.
+කතරගම බස්නායක නිලමේ ලෙස කතරගම දේවාලයේ පුද පඬුරු උපයෝගී කරගෙන ප්‍රජා කටයුතු කළේ ඒ මගින් නැවත බස්නායක නිලමේ ඡන්දයට ඉදිරිපත් වීමේ අපේක්ෂාවෙන් නොවන බවත් දෙවියන්ට පින් ලබාදිමට බවත් ප්‍රජා සංවර්ධන කටයුතු පෙන්වා දේශපාලනයට ඇවිත් පව් පුරවා ගන්න තරම්  තමා බෙළෙඳ  නොවන බවත් රුහුණු මහා කතරගම දේවාලයේ බස්නායක නිලමේ ඩිෂාන් ගුණසේකර මහතා සඳහන් කරයි. බස්නායක නිලමේ ඩිෂාන් ගුණසේකර මහතාගේ නිල මැදුරේ පැවති හමුවකදී මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නවලට පිළිතරු දෙමින් ඔහු එසේ කීය.
 
-கொழும்பில் அமைந்துள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் காரியாலயத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+ලබන සැප්තැම්බර් 25 වැනි දින ඩිෂාන් ගුණසේකර මහතා ගේ නිල කාලය අවසන් වන අතර නව බස්නායක නිලමේ වරයකු තෝරා පත් කිරිමේ බලය බෞද්ධ කටයුතු කොමසාරිස් ජෙනරාල් වරයාට පැවරෙයි.
 
-...
+වැඩි දුරටත් අදහස් දැක් වු ඩිෂාන් ගුණසේකර මහතා මෙසේ සඳහන් කළේය.
 
-[Data](articles/e8bef1ec.json)
-
----
-
-### පිරිවෙන් සාමාන්‍ය පෙළ විභාගයේ නැවත සමීක්‍ෂණ අයදුම්පත්  කැඳවීම හෙට සිට
-
-*2025-08-11 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213265) · `si`
-
-2024 (2025) පිරිවෙන් සාමාන්‍ය පෙළ විභාගයේ උත්තර පත්‍ර නැවත සමීක්ෂණය සඳහා වන අයදුම්පත් මාර්ගගත ක්‍රමයට පමණක් කැඳවන බව විභාග දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
-
-හෙට (12) සිට මේ සඳහා අයඳුම් කිරීමට අවස්ථාව සැලසෙන අතර අගෝස්තු 26 වනදායින් අයදුම්පත් කැඳවීම අවසන් වන බවද එම නිවේදනයේ සඳහන් වේ.
-
-ඒ අනුව විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය වන www.doenets.lk වෙත පිවිස "අපගේ සේවා" (our services) යටතේ ඇති පිරිවෙන් සාමාත්‍ය පෙළ විභාගය - 2024 (2025) - උත්තර පත්‍ර නැවත සමීක්ෂණය [Piriven Oridinary Level Examination-2024 (2025) - Re-scrutiny of Results) වෙත පිවීසීමෙන් මේ සඳහා අයදුම් කළ හැකිය.
-
-එමෙන්ම විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය www.doenets.lk වෙත පිවිස " අපගේ සේවා" (our services) යටතේ ඇති Exam Information Center සබැඳිය හරහාද අයදුම් කිරීමට හැකියාව ඇත.
-
-◼️
-
-[Data](articles/43d485a3.json)
-
----
-
-### 20 வயதுக்குட்பட்ட ஆடவர் அணிக்கு எழுவர் ஆசிய றக்பியில் இலங்கை இரண்டாம் இடம்
-
-*2025-08-11 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222347) · `ta`
-
-இந்தியாவின் பிஹாரில் வார இறுதியில் நடைபெற்ற 20 வயதுக்குட்பட்ட ஆடவர் அணிக்கு எழுவர் ஆசிய கிண்ண றக்பி போட்டியில் இலங்கை இரண்டாம் இடத்தைப் பெற்றது.
-
-ஞாயிற்றுக்கிழமை (10) நடைபெற்ற இறுதிப் போட்டியில் ஹொங் கொங் சைனாவை எதிர்கொண்ட இலங்கை, 0 - 33 என்ற புள்ளிகள் கணக்கில் தோல்வி அடைந்து சம்பியன் படத்தைத் தவறவிட்டது.
-
-எட்டு நாடுகள் பங்குபற்றிய இந்த சுற்றுப் போட்டியில் ஏ குழுவில் இடம்பெற்ற இலங்கை, முதல் சுற்றில் சகல போட்டிகளிலும் வெற்றிபெற்று அரை இறுதிக்கு முன்னேறியது.
-
-தனது ஆரம்பப் போட்டியில் ஹொங் கொங் சைனாவிடம் கடும் சவாலை எதிர்கொண்ட இலங்கை 24 - 19 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிபெற்றது.
-
-இரண்டாவது போட்டியில் இந்தியாவை 24 - 5 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிகொண்ட இலங்கை, கடைசிப் போட்டியில் ஐக்கிய அரபு இராச்சியத்தை 26 - 24 என்ற புள்ளிகள் வித்தியாசத்தில் வெற்றிகொண்டு கிண்ணப் பிரிவுக்கான அரை இறுதியில் விளையாட தகுதிபெற்றது.
-
-சீனாவுடனான அரை இறுதியில் 26 -17 என்ற புள்ளிகள் அடிப்படையில்  வெற்றிபெற்ற  இலங்கை இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+“මම 2020 දි බස්නායක නිලමේ ලෙස පත් වූයේ උතුම් කතරගම දෙවියන්ට පින් ලැබෙන දේවල් කරන්න. මගේ කාලය වසර 05 ක් වුවත් පැවති කොරෝනා වසංගතය, රටේ පැවති ආර්ථික අරගලය හමුවේ වසර 03ක කාලයක් තමයි වැඩ කරන්න හැකි වුණේ. මම කරපු සේවා මුළු රටේම ජනතාව දන්නවා. මට කවුරුත් ආශිර්වාද කරනවා.
 
 ...
 
-[Data](articles/5280d50b.json)
-
----
-
-### ජනපතිගේ ස්ථාවරය නිසා ජවිපෙ නායකයන් වියරු වැටිලා
-
-*2025-08-11 18:15:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ස්ථාවරය-නිසා-ජවිපෙ-නායකයන්-වියරු-වැටිලා/11-417851) · `si`
-
-හරිනි අමරසූරිය අග්‍රාමාත්‍ය ධුරයේ තවදුරටත් සිටිය යුතු බවට වූ ජනාධිපතිවරයාගේ ස්ථාවරය හේතුවෙන් ජවිපෙ නායකයන් වියරු වැටී ඇති බවත්, ඒ අනුව අපහාස කර අග්‍රාමාත්‍යවරිය ඉල්ලා අස්වන තැනට 'තල්ලු කිරීමට' ඔවුන් උත්සාහ දරන බවත් පිවිතුරු හෙළ උරුමය නායක, උදය ගම්මන්පිල මහතා ප්‍රකාශ කරයි.
-
-එම පක්ෂ මූලස්ථානයේදී අද (11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු සඳහන් කර සිටියේ කරුණු හයක් මූලික කරගනිමින් හරිනි අමරසූරිය තවදුරටත් අග්‍රාමාත්‍ය ධුරයේ සිටිය යුතු බවට ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ස්ථාවරය වී ඇති බවයි.
-
-...
-
-[Data](articles/1b03dbb6.json)
-
----
-
-### Unemployed graduates stage protest opposite JVP Headquarters in Pelawatte
-
-*2025-08-11 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111363/unemployed-graduates-stage-protest-opposite-jvp-headquarters-in-pelawatte-) · `en`
-
-A protest organized by the Combined Association of Unemployed Graduates was held today opposite the Ministry of Education in Pelawatte.
-
-The protesters demonstrated at the location for about half an hour, after which they marched to the headquarters of the JVP located in Pelawatte.
-
-A strong police presence was observed in front of the party office during the protest, Ada Derana reporter said.
-
-The demonstrators pointed out that the present government has broken the promises made in its policy statement prior to coming into power.
-
-They claimed that there are currently around 35,000 unemployed graduates across the country, and accused the government of failing to fulfill its earlier promise of providing employment opportunities to them as outlined in its policy declaration.
-
-◼️
-
-[Data](articles/f6f64721.json)
-
----
-
-### මූල්‍ය ආයතනයකට රු. කෝටි 2ක පොල්ලක් තැබූ ව්‍යාපාරිකයෙක් අල්ලයි
-
-*2025-08-11 17:50:56* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-ආයතනයකට-රු--කෝටි-2ක-පොල්ලක්-තැබූ-ව්‍යාපාරිකයෙක්-අල්ලයි/11-417849) · `si`
-
-මහනුවර වෙළෙඳ සංගමයක් විසින් පවත්වාගෙන යනු ලබන මූල්‍ය ආයතනයකට කූඨ ලේඛන ලබාදී රුපියල් කෝටි 02 ක මුදලක් ලබාගෙන එම මුදල් නොගෙවා පැහැර හැරිය බව කියන ව්‍යාපාරිකයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
-
-වාහන ආනයනය කිරීමේ ආයතනයකට යැයි පවසමින් එම එම මුදල් සැකකාර ව්‍යාපාරිකයා විසින් ලබා ගෙන ඇති අතර ඒ සඳහා වාහන වලට අදාල ලියකියවිලි කිහිපයක් ඇපයට තබා තිබෙන අතර සැකකරු ණය මුදල ආපසු ගෙවීම පැහැර හැරීම හේතුවෙන් එම ලියකියවිලි පිළිබඳව සොයා බැලීමේදී එම එම ලියකියවිලි ව්‍යාජ ඒවා බවට අනාවරණය වී තිබේ.
-
-එම ලියකියවිලි අදාළ මූල්‍ය ආයතනය විසින් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවට ලබා දී ඇති අතර එහිදී කළ විමර්ශනයේදී අනාවරණය වී ඇත්තේ එම ලියකියවිලි ව්‍යාජ ඒවා බවයි. සැකකරු හෙට (12) මහනුවර අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
-
-◼️
-
-[Data](articles/ba0de969.json)
-
----
-
-### யாழ்ப்பாணம் சர்வதேச புத்தகத் திருவிழா 2025!
-
-*2025-08-11 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222338) · `ta`
-
-யாழ்ப்பாண வர்த்தகத் தொழிற்துறை மன்றத்தின் ஏற்பாட்டில், இரண்டாவது 'யாழ்ப்பாணம் சர்வதேச புத்தகத் திருவிழா 2025' ஆனது எதிர்வரும் ஆகஸ்ட் மாதம் 15ஆம் திகதி முதல் 17ஆம் திகதி வரை மூன்று தினங்களுக்கு யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையத்தில் நடைபெறவுள்ளது.
-
-இது தொடர்பாக தெளிவுபடுத்தும் ஊடக சந்திப்பு ஒன்று திங்கட்கிழமை (11) யாழ்ப்பாண வர்த்தகத் தொழிற்துறை மன்ற அலுவலகத்தில் இடம்பெற்றது. அப்போது ஏற்பாட்டாளர்கள் இதனைத் தெரிவித்தனர்.
-
-அவர்கள் மேலும் தெரிவிக்கையில், "நமது சமூகத்தில் வாசிப்பு கலாச்சாரத்தை மீட்டெடுக்கும் சமூகப் பொறுப்பு நமக்கு உள்ளது. இதனைக் கருத்தில் கொண்டு, மாணவர்கள், பெற்றோர்கள் மற்றும் பொதுமக்கள் மத்தியில் வாசிப்பை மேம்படுத்தும் நோக்கில், இந்தப் புத்தகத் திருவிழாவை இலாப நோக்கமின்றிக் கடந்த ஆண்டு சிறப்பாக நடத்தினோம். அதற்கு கிடைத்த பெரும் வரவேற்பே இந்த ஆண்டும் சிறப்பாக ஏற்பாடு செய்ய எங்களை ஊக்குவித்தது" என்றனர்.
-
-...
-
-[Data](articles/4e1f1e7c.json)
-
----
-
-### සහස්පුර වෙඩි තැබීමේ සිද්ධියේ සැකකරුවන් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
-
-*2025-08-11 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213264) · `si`
-
-ඉකුත්දා බොරැල්ල සහස්පුර ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් තුන්දෙනෙකු පැය 24ක කාලයක් පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද කොළඹ අපරාධ කොට්ඨාශයට අවසර ලබා දුන්නා.
-
-එමෙන්ම මෙම සිද්ධියට අදාළව මීට පෙර අත්අඩංගුවට ගත් ෂෙහාන් මධුසංක නමැති සැකකරුවකු ලබන 25 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනුජා ලක්මාලි ජයතුංග මහත්මිය නියම කළාය.
-
-පොලිසිය සැකකරුවන් අධිකරණයට ඉදිරිපත් කරමින් සඳහන් කළේ මෙම සිද්ධියට අදාළව තවදුරටත් විමර්ශන සිදුකරන බවය.
-
-ඒ අනුව වන විට අත්අඩංගුවට ගෙන සිටින සැකකරුවන් තුන්දෙනෙකු පැය විසි හතරක කාලයක් පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට අවසර දෙන ලෙසත් පොලිසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
-
-එම ඉල්ලීමට අවසර දුන් මහේස්ත්‍රාත්වරිය අදාළ සැකකරුවන් තුන්දෙනා පොලිසිය භාරයේ රඳවාගෙන ප්‍රශ්න කිරීමට අවසර ලබා දුන්නා.
-
-ඊට අමතරව ෂෙහාන් මධුසංක නමැති සැකකරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයා මෙම සිද්ධියට සම්බන්ධ නොමැති බව පැවසුවේය.
-
-...
-
-[Data](articles/bad92c49.json)
-
----
-
-### GMOA and Health Ministry continue to clash over doctors’ transfer process
-
-*2025-08-11 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111362/gmoa-and-health-ministry-continue-to-clash-over-doctors-transfer-process) · `en`
-
-The Government Medical Officers’ Association (GMOA) has accused the Ministry of Health of delaying the implementation of agreements reached with the Health Minister regarding the rectification of irregularities in the doctors’ transfer process.
-
-In a statement, the GMOA stated that over the past few months, the preparation of transfer lists, issuance of transfer orders, and the filling of hospital vacancies have not been carried out properly by the Ministry of Health. As a result of the situation that arose, the association was compelled to consider taking trade union action.
-
-However, the GMOA expressed strong dissatisfaction over the failure of senior officials at the Health Ministry to act on verbal assurances given by the Health Minister.
-
-The association further stated that it has already informed the Health Minister of the issue in writing and has brought the matter to the attention of its Executive Committee, particularly regarding the temporarily suspended trade union action.
-
-...
-
-[Data](articles/a8bb9fcf.json)
-
----
-
-### தேசிய பாதுகாப்பை உறுதிப்படுத்த தவறியோர் பதவி விலக வேண்டும் - ஐக்கிய மக்கள் சக்தி வலியுறுத்தல்
-
-*2025-08-11 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/222334) · `ta`
-
-நாட்டில் நாளொன்று ஒருவர் கொல்லப்படும் நிலைமைக்கு அப்பால் தற்போது ஒரே நாளில் ஒன்றுக்கும் மேற்பட்டோர் மீது துப்பாக்கிச்சூடு நடத்தப்படும் சூழல் உருவாகியுள்ளது. துப்பாக்கிச்சூடுகளால் கொல்லப்பட்ட 42 பேரின் வாழ்வதற்கான உரிமையை அரசாங்கம் பாதுகாக்கத் தவறியுள்ளது. இவ்வாறான சூழல் உருவாகுவதை தடுக்க தவறிய பதில் பொலிஸ்மா அதிபர் உள்ளிட்ட பொறுப்பு கூற வேண்டியவர்கள் பதவி விலக வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் சுஜித் சஞ்சய பெரேரா தெரிவித்தார்.
-
-கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் திங்கட்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/fd8fc4b1.json)
-
----
-
-### රැකියා විරහිත උපාධිධාරීන් පැලවත්ත ජවිපෙ කාර්යාලය ඉදිරිපිට විරෝධතාවක
-
-*2025-08-11 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213263) · `si`
-
-ඒකාබද්ධ රැකියා විරහිත උපාධිධාරී සංගමය විසින් සංවිධානය කළ විරෝධතාවක් අද පෙරවරුවේ පැලවත්ත අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිටදී පැවැත්විණි.
-
-එහිදී විරෝධතාකරුවන් පැය භාගයක පමණ කාලයක් එම ස්ථානයේ විරොධතාවයේ නිරත වීමෙන් අනතුරුව පැලවත්ත පිහිටි ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලය ඉදිරිපිටට විරෝධතා පාගමනින් පැමිණියේය.
-
-එහිදී එම පක්ෂ කාර්යාලය ඉදිරිපිට දැඩි පොලිස් ආරක්ෂාවක් යොදවා තිබූ අයුරුද දක්නට ලැබුණි.
-
-මෙහිදී විරෝධතාවට එක්වූ විරෝධතාකරුවන් පෙන්වා දෙනුයේ පවතින ආණ්ඩුව බලයට පත්වීමට පෙර ප්‍රතිපත්ති ප්‍රකාශය හරහා ලබා දුන් පොරාන්දු මේ වන විට කඩ කර ඇති බවය.
-
-දැනට රැකියා විරහිත උපාධිධාරීන් 35,000කට ආසන්න ප්‍රමාණයක් දිවයින පුරා සිටින බවත් රජය විසින් එම රැකියා විරහිත උපාධිධාරීන්ට ප්‍රතිපත්ති ප්‍රකාශය හරහා රැකියා ලබා දෙන බව මින් පෙර පැවසූ පොරොන්දු මේ වන විඩ කඩ කර ඇති බවත් විරෝධතාකරුවන් මෙහිදී චෝදනා කළේය.
-
-◼️
-
-[Data](articles/bb32e91f.json)
-
----
-
-### யாழில் 5 போதை மாத்திரைகளுடன் ஒருவர் கைது
-
-*2025-08-11 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/222332) · `ta`
-
-யாழ்ப்பாணம், ஆனைக்கோட்டைப் பகுதியில் போதை 05 மாத்திரைகளுடன் சந்தேகநபர் ஒருவர் திங்கட்கிழமை (11) கைது செய்யப்பட்டுள்ளார்.
-
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த இரகசியத் தகவலின் அடிப்படையில், யாழ்ப்பாணம் மாவட்ட போதைப்பொருள் தடுப்புப் பொலிஸார் இந்தக் கைது நடவடிக்கையை மேற்கொண்டனர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர், மேலதிக விசாரணைகளுக்காகப் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார். விசாரணைகளின் முடிவில், அவரை நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/5191daa8.json)
-
----
-
-### வேலையற்ற பட்டதாரிகள் அரசாங்கத்தால் ஏமாற்றப்பட்டிருக்கின்றனர் - சஜித் பிரேமதாச
-
-*2025-08-11 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/222330) · `ta`
-
-தேசிய மக்கள் சக்தி ஆட்சியைப் பொறுப்பேற்று ஓராண்டு நிறைவடைகின்ற நிலையிலும், இன்னும் பல்வேறு பிரச்சினைகளுக்கு தீர்வுகள் வழங்கப்படாமலுள்ளன. குறிப்பாக வேலையற்ற பட்டதாரிகளின் விவகாரத்தில் அரசாங்கம் அசமந்த போக்குடனேயே செயற்பட்டு வருகிறது. கடந்த காலங்களைப் போன்று இந்த ஆட்சியிலும் பட்டதாரிகள் ஏமாற்றப்பட்டிருக்கின்றனர் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-திங்கட்கிழமை (11) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/e3eedfdb.json)
-
----
-
-### විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් 975ක් අත්අඩංගුවට
-
-*2025-08-11 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213262) · `si`
-
-මුළු දිවයිනම ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමකින් මත්ද්‍රව්‍ය සම්බන්ධයෙන් පුද්ගලයන් 975 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-එමෙන්ම අපරාධවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 21 දෙනෙකු හා වරෙන්තකරුවන් 422 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
-
-මත්ද්‍රව්‍ය හා පාතාල ක‍්‍රියාකාරකම් මර්ධනය කිරීම අරමුණු කර ගනිමින් ආරක්ෂක නිලධාරීන් 7,185කට අධික සංඛ්‍යාවක් යොදා ගනිමින් මෙම මෙහෙයුම සිදු කර තිබේ.
-
-එහිදී පුද්ගලයන් 28,858 දෙනෙක්ද වාහන 1,1162ක්ද යතුරු පැදි 9,054ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර ඇත.
-
-එමෙන්ම මෙම මෙහෙයුම් හරහා නීති විරෝධී ගිනි අවි 05ක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-බීමත් රියදුරන් 118ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය ඇතුළු රථවාහන වැරදි සම්බන්දයෙන් පුද්ගලයන් 3,595ක් සදහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
-
-ඒ අනුව වසරේ මේ දක්වා කාලය තුළ සමස්ථයක් වශයෙන් හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 934.55ක ප‍්‍රමාණයක්ද අයිස් මත්ද්‍රව්‍ය කිලෝ 1402.976ක ප‍්‍රමාණයක්ද ගංජා මත්ද්‍රව්‍ය කිලෝ 11620.068ක ප‍්‍රමාණයක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/2e83cbe0.json)
-
----
-
-### India estimates about 55% of goods exported to US will face Trump tariff
-
-*2025-08-11 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111360/india-estimates-about-55-of-goods-exported-to-us-will-face-trump-tariff) · `en`
-
-About 55 per cent of India’s merchandise exports to the United States will be subject to the tariff imposed by President Donald Trump’s administration, the Indian government said on Monday.
-
-Last week, Trump imposed an additional 25 per cent tariff on Indian goods as punishment for Delhi’s purchases of Russian oil. That raised the total duty on Indian exports to the U.S. to 50 per cent - among the highest on any American trading partner.
-
-The Indian government had taken into account the 25 per cent tariff that Trump initially imposed on goods while providing Monday’s estimate, Pankaj Chaudhary, India’s junior finance minister, said in a written response to a question from a lawmaker.
-
-“The Department of Commerce is engaged with all stakeholders including exporters and industry for taking feedback of their assessment of the situation,” Chaudhary added.
-
-...
-
-[Data](articles/9710684f.json)
-
----
-
-### முன்னேஸ்வர ஆலய கொடியேற்றம்
-
-*2025-08-11 17:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேஸ்வர-ஆலய-கொடியேற்றம்/175-362708) · `ta`
-
-வரலாற்று சிறப்பு வாய்ந்த சிலாபம் முன்னேஸ்வரம் ஶ்ரீ வடிவாம்பிகாசமேத ஶ்ரீ முன்னை நாதர் சுவாமி ஆலயத்தின் வருடாந்த மஹோற்சவத்தில் கொடியேற்ற நிகழ்வு திங்கட்கிழமை (11) அன்று இடம்பெற்றது.
-
-பிரதான குருவும், தர்மகர்த்தாவுமாகிய ஆலய குருக்கள் பிரம்மஶ்ரீ ச.பத்மநாப குருக்கள் தலைமையில் இந்த நிகழ்வுகள் இடம்பெற்றன.
-
-கொடி கம்பத்துக்குரிய சீலை யானையில் சுமக்கப்பட்டு உள் வீதி, வெளி வீதி வந்து பின்னர் கொடியேற்றம்இடம்பெற்றது. நாட்டின் பல பகுதிகல் இருந்தும் இன மதம் பாராதுரபல்லாயிரக்கணக்கான பக்தர்கள் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/e48555ba.json)
-
----
-
-### ඉන්දීය යුද නැවක් ත්‍රිකුණාමලය වරායට එයි
-
-*2025-08-11 17:03:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-යුද-නැවක්-ත්‍රිකුණාමලය-වරායට-එයි/11-417848) · `si`
-
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS Rana’ නෞකාව නිල සංචාරයක් සඳහා අද (2025 අගෝස්තු 11) උදෑසන ත්‍රිකුණාමලය වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.
-
-මෙලෙස ත්‍රිකුණාමලය වරායට පැමිණි Destroyer වර්ගයට අයත් ‘INS Rana’ නෞකාව, දිගින් මීටර් 147 ක් හා නැව් මුළුව 300 ක ගෙන් සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස කපිතාන් KP Sreesan කටයුතු කරනු ලබයි.
-
-‘INS Rana’ නෞකාව දිවයිනේ රැඳී සිටින කාලසීමාව තුල එහි නැව් මුළුව, ශ්‍රී ලංකා නාවික හමුදාව විසින් දෙරටේ නාවික හමුදා අතර සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන පුහුණු හා ක්‍රීඩා වැඩසටහන් සඳහා සහභාගීවීමට මෙන්ම, දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත. එමෙන්ම, ශ්‍රී ලංකා හමුදා පුද්ගලයන් වෙනුවෙන් ‘INS Rana’ නෞකාව තුල යෝගා වැඩසටහනක් පැවැත්වීමටත්, ත්‍රීකුණාමලය විශේෂ යාත්‍රා බළඝණ මූලස්ථානයේ සහ නෞකාව තුල පුහුණු වැඩසටහන් පැවැත්වීමටත් නියමිතව ඇත.
-
-තවද, ‘INS Rana’ නෞකාව 2025 අගෝස්තු මස 14 වැනි දින නිල සංචාරය අවසන් කර දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/378bb623.json)
+[Data](articles/0c8e4c1a.json)
 
 ---

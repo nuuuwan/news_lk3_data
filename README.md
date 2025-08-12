@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 05:07:13**
+As of **2025-08-13 05:18:25**
 
 ## Newspaper Stats
 
-*Scraped **70,186** Articles*
+*Scraped **70,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
 economynextcom | 4,276
-islandlk | 4,293
+islandlk | 4,294
 dailymirrorlk | 4,733
-dailyftlk | 4,931
+dailyftlk | 4,932
 adalk | 6,764
 adaderanalk | 8,746
 tamilmirrorlk | 10,295
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,186 articles have been extended.
+61,973 (88.3%) of 70,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### Are we using digital banking as advanced financial solution?
+
+*2025-08-13 05:08:24* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-using-digital-banking-as-advanced-financial-solution/4-780205) · `en`
+
+As banking customers are we in Sri Lanka, experiencing all these privileges provided by digital banking?
+
+Banks and Non-Banking Financial Institutions of our country are now endeavouring their best to actively persuade digitalisation to provide an enhanced customer service aiming to experience and boost the operational efficiency.
+
+No doubt, digital banking is an Unconventional Financial Solution (UFS) which practices advanced technology to provide a better service to its external customers and to arouse the internal customers to be efficient service providers.
+
+...
+
+[Data](articles/8ae6db03.json)
+
+---
 
 ### Harsha proposes export-focused diplomacy and SME credit facility using EPF/ETF
 
@@ -1070,6 +1086,20 @@ He also holds a Bachelor of Business Administration in Human Resource Management
 
 ---
 
+### Private sector urged to play key role in shaping an inclusive, equitable and peaceful SL
+
+*2025-08-12 15:39:00* · [`islandlk`](http://island.lk/private-sector-urged-to-play-key-role-in-shaping-an-inclusive-equitable-and-peaceful-sl/) · `en`
+
+At the grand finale of the DEI Champion Awards 2025, held last week at the City of Dreams in Colombo, the private sector was called upon to play a transformative role in shaping an inclusive, equitable and peaceful Sri Lanka. Organised by the Ceylon Chamber of Commerce in partnership with the SCOPE Programme — co-financed by the European Union and the German Federal Foreign Office — the awards recognised pioneering organisations championing diversity, equity and inclusion (DEI) across Sri Lanka’s business landscape.
+
+Chairperson of the Ceylon Chamber of Commerce, Krishan Balendra, delivering the keynote address, emphasised the broader significance of the evening.
+
+...
+
+[Data](articles/7bb4d2f6.json)
+
+---
+
 ### காசாவில் இடம்பெறும் யுத்தத்தின் முகமாக மில்லியன்கணக்கானவர்களிற்கு அனஸ் அல் ஷரீவ் மாறினார் - பின்னர் இஸ்ரேல் அவரை கொன்றது
 
 *2025-08-12 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222408) · `ta`
@@ -1711,43 +1741,5 @@ These include plantation/agricultural activities, plantation-related tourism pro
 ◼️
 
 [Data](articles/e6a1064b.json)
-
----
-
-### கிராண்ட்பாஸ் இளைஞன் படுகொலை: ஒருவர் கைது
-
-*2025-08-12 13:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராண்ட்பாஸ்-இளைஞன்-படுகொலை-ஒருவர்-கைது/175-362760) · `ta`
-
-20 வயது இளைஞனை அரிவாளால் வெட்டிக் கொன்ற சந்தேக நபர் ஞாயிற்றுக்கிழமை (11) கைது செய்யப்பட்டதாக கிராண்ட்பாஸ் பொலிஸார் தெரிவித்தனர்.
-
-கொலை செய்யப்பட்ட நபர் வெல்லம்பிட்டி, வதுல்லவத்தையைச் சேர்ந்தவர். போதைப்பொருள் பணம் கொடுக்காதது தொடர்பான தகராறில் இந்த இளைஞன் படுகொலை செய்யப்பட்டுள்ளார் என விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
-
-இறந்த இளைஞன், இன்றைக்கு  இரண்டு ஆண்டுகளுக்கு முன்பு ஒரு நபர் சம்பந்தப்பட்ட கொலை வழக்கில் தொடர்புடையவர் என்று பொலிஸார் கண்டறியந்துள்ளனர்.
-
-அந்தக் கொலை வழக்கு தொடர்பாக சந்தேக நபருக்கும் இறந்தவருக்கும் இடையே பகைமை இருந்ததாக பொலிஸார்  தெரிவிக்கின்றனர்.
-
-நவலோகபுர பகுதியில் இரு நபர்களுக்கிடையே ஏற்பட்ட வாக்குவாதத்தின் போது இந்தக் கொலை நடந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபரை  நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/3f61b9e1.json)
-
----
-
-### Warrant issued for the arrest of ex-Minister Rajitha Senaratne
-
-*2025-08-12 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111396/warrant-issued-for-the-arrest-of-ex-minister-rajitha-senaratne) · `en`
-
-The Colombo Magistrate’s Court today (12) issued a warrant for the arrest of former Minister Rajitha Senaratne, who has been named as a suspect in an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by the Bribery Commission.
-
-The Bribery Commission had stated that the former Minister has failed to provide a statement despite being requested to do so and thereby obstructing the on-going investigations, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/8ceb32b6.json)
 
 ---

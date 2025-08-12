@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-12 10:49:20**
+As of **2025-08-12 11:06:38**
 
 ## Newspaper Stats
 
-*Scraped **70,033** Articles*
+*Scraped **70,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,27 +16,45 @@ economynextcom | 4,263
 islandlk | 4,291
 dailymirrorlk | 4,733
 dailyftlk | 4,927
-adalk | 6,748
+adalk | 6,749
 adaderanalk | 8,719
-tamilmirrorlk | 10,254
+tamilmirrorlk | 10,255
 virakesarilk | 11,673
-adaderanasinhalalk | 12,068
+adaderanasinhalalk | 12,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.5%) of 70,033 articles have been extended.
+61,973 (88.5%) of 70,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-12 (Tuesday)
 
+### මේ වසරේ දැකගත හැකි විශාලතම උල්කාපාත වර්ෂාව අද
+
+*2025-08-12 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213283) · `si`
+
+2025 වර්ෂයේ දැකගත හැකි විශාලතම උල්කාපාත වර්ෂාව අද (12) මධ්‍යම රාත්‍රියේදී සහ හෙට උදෑසන දැකබලා ගත හැකි බව අභ්‍යවකාශ විද්‍යාඥ සහ ඉංජිනේරු කථිකාචාර්ය ගිහාන් වීරසේකර මහතා පවසයි.
+
+ඒ මහතා පැවසුවේ පර්සීස් තාරුකාව ආශ්‍රිතව සිදුවන බැවින් මෙම උල්කාපාත වර්ශාව  පර්සීස් වශයෙන් නම්කර ඇති බවය.
+
+එමෙන්ම මෙම උල්කාපාත වර්ෂාව හොඳින්ම දැකගත හැකි වන්නේ හෙට උදෑසන 5ට පමණ උතුරු දිශාවෙන් බවද ඒ මහතා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+...
+
+[Data](articles/70e8bfa3.json)
+
+---
+
 ### ජාතික තරුණ සමුළුව ඇරඹෙයි
 
 *2025-08-12 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213282) · `si`
 
-2025 ජාතික තරුණ සමුළුව ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේදී මේ වනවිට ආරම්භ කර තිබේ.
+2025 ජාතික තරුණ සමුළුව, කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේදී මේ වනවිට ආරම්භ කර තිබේ.
+
+මෙම සමුළුවේ සමාරම්භ අවස්ථාවට ජනාධිපති, අනුර කුමාර දිසානායක මහතා ද එකතු වීමට නියමිතය.
 
 ◼️
 
@@ -129,6 +147,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/23501f1b.json)
+
+---
+
+### මන්ත්‍රී වැටුප පිළිකා රෝගීන්ට, සභාවෙන් කෑම බීමත් එපා කියයි
+
+*2025-08-12 09:30:47* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වැටුප-පිළිකා-රෝගීන්ට--සභාවෙන්-කෑම-බීමත්-එපා-කියයි/11-417859) · `si`
+
+පානදුර නගර සභා මන්ත්‍රී සුදත් දමයන්ත මහතා නගර සභාවෙන් සිය මාසික වැටුප පිළිකා රෝගින්ට සහ විදුලි බිල ගෙවාගැනීමට නොහැකිවූ ආර්ථික ගැටළු පවතින අහිංසක ජනතාවට ලබාදීම ඊයේ (11) දින ආරම්භ කෙරිණි.
+
+ඒ අනුව මන්ත්‍රී වරයාට ලැබුන අගෝස්තු මස මාසික වැටුප පානදුර ප්‍රදේශයේ පදිංචි කාන්තාවන් දෙදෙනකු වෙත භාරදීම මාසික සභා රැස්වීමෙන් පසු සිදුකරන ලදී.
+
+මන්ත්‍රී වරුන්ට ලබාදෙන ආහාර පාන ප්‍රතික්ෂේප කරමින් සිය නිවසෙන් රැගෙන ආ ආහාර පාන ලබාගන්නා අයුරුද දැකගත හැකිවිය .
+
+මන්ත්‍රී වරයා ගේ ජූලි මස වැටුපද ඇසළ පොහොය දින , මියගිය රණවිරුවන්ට පිං පිණිස පැවැත්වූ දන්සලක් සදහා පරිත්‍යාග කරන ලද අතර, සිය ධූර කාලය තුලදීම වැටුප එසේ පරිත්‍යාග කරන බවත් ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/fd230faa.json)
 
 ---
 
@@ -1492,6 +1528,24 @@ Furthermore, the attorney appearing on behalf of suspect Shehan Madhusanka claim
 
 ---
 
+### கூலி திரைப்படத்தை வெளியிட   நீதிமன்றம் அதிரடி தடை
+
+*2025-08-11 20:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-திரைப்படத்தை-வெளியிட-நீதிமன்றம்-அதிரடி-தடை/54-362712) · `ta`
+
+கூலி திரைப்படத்தை திருட்டுத்தனமாக இணையத்தில் பதிவேற்றம் செய்து வெளியிட தடை விதித்து சென்னை உயர் நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
+
+சட்டத்தை மீறும் குறிப்பிட்ட இணையதளங்களில் திருட்டுத்தனமாக கூலி படத்தை வெளியிடுவதற்கு அனுமதியளிக்கக் கூடாது என்று இந்தியா எங்கிலும் 36 இணையதள சேவை வழங்குதளங்களுக்கு கட்டுப்பாடு விதித்துள்ளது.
+
+வரும் ஆகஸ்ட் 14-ஆம் திகதி திரையரங்குகளில் வெளியாகவிருக்கும் கூலி படத்தை இணையத்தில் முறைகேடாக வெளியிடுவதற்கான தடை கோருவது தொடர்பாக, படத்தை தயாரித்துள்ள சன் பிக்சர்ஸ் நிறுவனம் தரப்பிலிருந்து தாக்கல் செய்யப்பட்ட மனு மீதான விசாரணையில் சென்னை உயர்நீதிமன்றம் மேற்கண்ட இடைக்கால உத்தரவைப் பிறப்பித்திருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, தற்போது சட்டத்தை மீறி திரைப்படங்களைப் பதிவேற்றம் செய்வதை வாடிக்கையாக கொண்டு செயல்பட்டு வரும் இணையதளங்களை முடக்குவதுடன், இனி வருங்காலத்தில் இதுபோன்ற இணையதளங்கள் ஏதேனும் வருமாயின் அவற்றையும் முடக்க உத்தரவிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/16fb4ca2.json)
+
+---
+
 ### கூலி திரைப்படத்தை வெளியிட தடை நீதிமன்றம் அதிரடி தடை
 
 *2025-08-11 20:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-திரைப்படத்தை-வெளியிட-தடை-நீதிமன்றம்-அதிரடி-தடை/54-362712) · `ta`
@@ -1689,61 +1743,5 @@ Sri Lanka has import controls on maize, a key input to animal feed, which is kee
 ◼️
 
 [Data](articles/e96a07c1.json)
-
----
-
-### Sri Lanka unemployment rate falls to 3.8-pct in 1Q 2025
-
-*2025-08-11 19:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-unemployment-rate-falls-to-3-8-pct-in-1q-2025-235485/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s unemployment rate fell to 3.8 percent in the first quarter of 2025, down from 4.5 percent a year ago and 4.2 percent in the December quarter, data from the state statistics office show.
-
-The total employed population rose to 8.13 million in the first quarter of 2025 from 7.90 last year, indicating the creation of about 237,912 jobs over the past 12 months.
-
-Sri Lankas unemployment rate rose to 5.2 percent in the second quarter of 2023, at the height of the island’s stabilization crisis, following the currency crisis and default in 2022.
-
-A currency collapse tends to stop construction, leading to workers going back to villages to farms or other occupations. They will return as construction picks up.
-
-Agricultural workers dropped to 1,906,832 in the first quarter of 2025, from 2,039,572 last year, data from the Department of Census and Statistics said.
-
-Workers in industry grew to 2,153,102 in the first quarter from 1,949,786.
-
-...
-
-[Data](articles/7cc38f5a.json)
-
----
-
-### තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබද කොමිෂන් සභාවේ සභාපති ධුරය දයා ලංකාපුරට
-
-*2025-08-11 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213267) · `si`
-
-තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබද කොමිෂන් සභාවේ සභාපති ධුරයට ප්‍රකට වෘත්තීය ජනමාධ්‍යවේදියෙකු හා ජනමාධ්‍යවේදීන් පුහුණු කිරීමේ දේශකයෙකු ලෙස ක්‍රියා කළ දයා ලංකාපුර මහතා පත් කර තිබේ.
-
-2016 අංක 12 දරණ තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබඳ පනතේ 12 (1) වගන්තිය ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යස්ථා සභාවේ නිර්දේශය පරිදි ජනාධිපතිවරයා විසින් මෙම පත් කිරීම සිදු කර ඇත.
-
-◼️
-
-[Data](articles/8bcff8fe.json)
-
----
-
-### Daya Lankapura named Chairman of the Right to Information Commission
-
-*2025-08-11 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111366/daya-lankapura-named-chairman-of-the-right-to-information-commission) · `en`
-
-Daya Lankapura, a veteran journalist and media trainer, has been appointed as the Chairman of the Right to Information (RTI) Commission of Sri Lanka.
-
-The appointment has been made by the President, in accordance with the recommendation of the Constitutional Council, under Section 12(1) of the Right to Information Act No. 12 of 2016.
-
-Meanwhile, last month, a Fundamental Rights (FR) petition was filed before the Supreme Court, seeking an order directing the President to appoint a Chairman for the RTI Commission.
-
-The petitioners stated that the post of Chairman of the Right to Information Commission has remained vacant for approximately six months.
-
-They pointed out that the vacancy arose following the resignation of retired Supreme Court Justice Upali Abeyratne, who previously served as the Chairman of the RTI Commission.
-
-...
-
-[Data](articles/9dd59246.json)
 
 ---

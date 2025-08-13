@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 15:07:34**
+As of **2025-08-13 15:21:27**
 
 ## Newspaper Stats
 
-*Scraped **70,301** Articles*
+*Scraped **70,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,778
 adaderanalk | 8,767
-tamilmirrorlk | 10,322
-virakesarilk | 11,708
-adaderanasinhalalk | 12,107
+tamilmirrorlk | 10,323
+virakesarilk | 11,709
+adaderanasinhalalk | 12,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,301 articles have been extended.
+61,973 (88.1%) of 70,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### பாஸ் திலீபவை இலக்கு வைத்து துப்பாக்கிச் சூடு
+
+*2025-08-13 15:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாஸ்-திலீபவை-இலக்கு-வைத்து-துப்பாக்கிச்-சூடு/175-362846) · `ta`
+
+மினுவங்கொடை, படாதுவன பகுதியில் புதன்கிழமை (13) மதியம் மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இரண்டு துப்பாக்கிதாரிகள் துப்பாக்கிச் சூடு நடத்தினர்.
+
+மினுவங்கொடை பகுதியைச் சேர்ந்த பாஸ் திலீப என்ற நபரை குறிவைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டதாக ​பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/02e63dd6.json)
+
+---
+
+### බන්ධනාගාර රෝහලේ හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත අත්අඩංගුවට
+
+*2025-08-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213330) · `si`
+
+බන්ධනාගාර සෞඛ්‍ය සේවා හිටපු නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ,2024 වර්ෂයේදී, බන්ධනාගාරගත කර සිටි රැඳවියෙකු රෝගී තත්ත්වයක් හේතුවෙන් වැලිකඩ බන්ධනාගාර රෝහලට ඇතුළත් කිරීමෙන් පසුව ඔහු බන්ධනාගාරගත රෝහලේ නේවාසිකව ප්‍රතිකාර ලබා ගැනීමෙන් අනතුරුව, තවදුරටත් එහි නේවාසිකව රඳවාගෙන ප්‍රතිකාර සිදු කිරීම සඳහා අල්ලස් වශයෙන් රුලියල් 1,500,000ක් ඉල්ලා ඉන් රුපියල් 300,000ක මුදලක් අල්ලස් ලෙස ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+වෛද්‍ය හේමන්ත රණසිංහ මහතාව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අද (13) පෙරවරුවේ පිටකෝට්ටේ පිහිටි සැකකරුගේ නිවසේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත ය.
+
+ඔහු දැනට අංගොඩ ජාතික මානසික විද්‍යායතනයේ නියෝජ්‍ය අධ්‍යක්ෂ (වැ.බ) ලෙස කටයුතු කරයි.
+
+◼️
+
+[Data](articles/af3a9b06.json)
+
+---
+
+### රාජ්‍ය සේවයටත් AI එයි -  දැනුවත් කිරීමේ විශේෂ වැඩමුළු මාලාවක්‍
+
+*2025-08-13 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213329) · `si`
+
+රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම වෙනුවෙන් සියලුම අමාත්‍යාංශවල මාණ්ඩලික නිලධාරීන් සඳහා පැවැත්වෙන කෘත්‍රීම බුද්ධිය භාවිතය පිළිබඳ විශේෂ වැඩමුළු මාලාව අගෝස්තු 15,16 සහ 23 යන දිනයන්හි අරලියගහ මන්දිරයේදී පැවැත්වීමට නියමිතය.
+
+‘AI for Transforming Public Service’ යන මැයෙන් පැවැත්වෙන මෙම වැඩමුළු මාලාව, රජයේ ප්‍රමුඛ වැඩසටහනක් වන රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීමත්, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීමත් අරමුණු කර ගනිමින් පැවත් වෙන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+
+මෙහි පළමු වැඩසටහන පසුගිය දා ජනාධිපති කාර්යාලයීය මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්වුණු අතර දෙවන වැඩසටහන අධ්‍යාපන අමාත්‍යාංශයේ සහ තෙවන වැඩසටහන මුදල් අමාත්‍යාංශයේ මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්විණි.
+
+...
+
+[Data](articles/793c08c1.json)
+
+---
+
+### செம்மணியில் சிலர் உயிருடன் புதைக்கப்பட்டிருக்கலாம் - சர்வதேச ஊடகத்திற்கு சட்டத்தரணி நிரஞ்சன் கருத்து
+
+*2025-08-13 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222488) · `ta`
+
+சிலர் உயிருடன் புதைக்கப்பட்டிருக்கலாம் என கருதுகின்றோம்,என தெரிவித்துள்ள அவர்  ஏற்கனவே இறந்தநிலையில் அவர்கள் புதைக்கப்பட்டிருந்தால் அவர்களின் உடல்கள் வளையாது என தெரிவித்துள்ளார்.("if they were already dead, the bodies wouldn't be bent," with some of them displaying twisted limbs.)
+
+அரசாங்கங்களை நம்பமுடியாது என்பதை வரலாறு எங்களிற்கு தெரிவித்துள்ளது அவர்கள் சர்வதேச கண்காணிப்பை எதிர்ப்பார்கள் என அவர் மேலும் தெரிவித்துள்ளார்.
+
+அரசாங்கத்திற்கு இனப்பிரச்சினை குறித்த புரிதல் இல்லை அவர்கள் அதனை புரிந்துகொள்ளவில்லை என தெரிவித்துள்ள சட்டத்தரணி நிரஞ்சன் ஊழலை ஒழித்தால் நாடு அமைதியாகயிருக்கும் என அவர்கள் கருதுகின்றனர்,ஆனால் நாடு கடனிற்குள் சிக்கியமைக்கு இனப்பிரச்சினையும் ஒரு காரணம் என்பதை அவர்கள் புரிந்துகொள்ளவில்லை என குறிப்பிட்டுள்ளார்.
+
+செம்மணிக்கு மிகவும் வலிமிகுந்த அதிர்ச்சிகரமான வரலாறு உள்ளது குறிப்பாக யாழ்ப்பாண மக்களுடன் என யாழ்ப்பாணத்தை தளமாக கொண்ட அடையாளம் ஆய்வு கொள்கை ஆய்வு மையத்தின் நிறைவேற்றுப்பணிப்பாளர் அனுஷானி அழகராஜா தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/baa8304d.json)
+
+---
 
 ### Shooting incident reported in Minuwangoda
 
@@ -44,11 +112,11 @@ A shooting incident has been reported in Minuwangoda, a short while ago, police 
 
 ---
 
-### මිනුවන්ගොඩ වෙඩිතැබීමක්
+### මිනුවන්ගොඩ 'පස් දිලීප' ඉලක්ක කර වෙඩි ප්‍රහාරයක්
 
 *2025-08-13 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213328) · `si`
 
-මිනුවන්ගොඩ, පත්අඩුවන ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් අද (13) දහවල් වෙඩිතැබීමක් සිදුකර තිබේ.
+මිනුවන්ගොඩ, පත්අඩුවන ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් පුද්ගලයෙකු ඉලක්ක කර අද (13) දහවල් වෙඩි තැබීමක් සිදුකර තිබේ.
 
 පොලීසිය පවසන්නේ, මිනුවන්ගොඩ ප්‍රදේශයේ 'පස් දිලීප' යන පුද්ගලයා ඉලක්ක කරගෙන මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
 
@@ -1793,67 +1861,5 @@ Other considerations – including institutional strength, fiscal performance, m
 ...
 
 [Data](articles/48f74175.json)
-
----
-
-### Why biz chambers must lead on trade diplomacy
-
-*2025-08-13 05:12:18* · [`dailyftlk`](https://www.ft.lk/columns/Why-biz-chambers-must-lead-on-trade-diplomacy/4-780206) · `en`
-
-John Denton, Secretary-General of the International Chamber of Commerce (ICC), recently spoke to Suranjana Tewari BBC about the impact of global tariffs. Based in Paris, the ICC represents 45 million businesses, large and small, from across 170 different countries. ICC members were obviously amongst the first to feel the effects of Trump’s tariffs. Denton told BBC that the uncertainty is hurting businesses who worry about making a decision today, only for the rules to be changed tomorrow.
-
-...
-
-[Data](articles/f408cc95.json)
-
----
-
-### கனேடிய உயர்ஸ்தானிகர் ஜனாதிபதியுடன் சந்திப்பு
-
-*2025-08-13 05:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-உயர்ஸ்தானிகர்-ஜனாதிபதியுடன்-சந்திப்பு/175-362814) · `ta`
-
-ஜனாதிபதி அநுர குமார திசாநாயக்கவிற்கும் இலங்கைக்கான கனேடிய உயர்ஸ்தானிகர் எரிக் வொல்ஷிற்கும் இடையிலான சந்திப்பு நேற்று (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-தனது பதவிக்காலம் நிறைவடைந்து இலங்கையை விட்டு வெளியேறும்  எரிக் வொல்ஷின் எதிர்கால செயற்பாடுகளுக்கு ஜனாதிபதி வாழ்த்து தெரிவித்தார்.
-
-கனடாவில்  இலங்கை மக்கள் அதிகளவில் வசிப்பதை நினைவு கூர்ந்த ஜனாதிபதி, பொருளாதார நெருக்கடியை வெற்றிகொள்வதற்கும், இந்நாட்டில் மனித உரிமைகளை மேம்படுத்துவதற்கும், நல்லிணக்கச் செயல்முறைக்கும் கனடா வழங்கிய ஆதரவைப் பாராட்டியதுடன், எதிர்காலத்திலும் அத்தகைய ஆதரவு வழங்கப்படும் என்று எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே ஆகியோரும் இந்நிகழ்வில் கலந்து கொண்டனர். (a)
-
-◼️
-
-[Data](articles/b58256a7.json)
-
----
-
-### Are we using digital banking as advanced financial solution?
-
-*2025-08-13 05:08:24* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-using-digital-banking-as-advanced-financial-solution/4-780205) · `en`
-
-As banking customers are we in Sri Lanka, experiencing all these privileges provided by digital banking?
-
-Banks and Non-Banking Financial Institutions of our country are now endeavouring their best to actively persuade digitalisation to provide an enhanced customer service aiming to experience and boost the operational efficiency.
-
-No doubt, digital banking is an Unconventional Financial Solution (UFS) which practices advanced technology to provide a better service to its external customers and to arouse the internal customers to be efficient service providers.
-
-...
-
-[Data](articles/8ae6db03.json)
-
----
-
-### Ready for significant  investments in Sri Lanka  – ROX Group
-
-*2025-08-13 04:58:00* · [`islandlk`](http://island.lk/ready-for-significant-investments-in-sri-lanka-rox-group/) · `en`
-
-President Anura Kumara Dissanayake met with senior representatives of Vietnam’s ROX Group at the Presidential Secretariat on Tuesday (12)  afternoon. The delegation was led by  Tran Anh Tuan, Chairman of the Advisory Board of ROX Group and Chairman of the Maritime Commercial Joint Stock Bank (MSB).
-
-The ROX Group delegation expressed their readiness to make significant investments in Sri Lanka, citing the nation’s current stability and favourable investment climate. They sought government assistance to establish an industrial zone and indicated interest in the renewable energy and real estate sectors. The visit, they said, aimed to identify suitable land and secure the necessary institutional support for these ventures.
-
-President Dissanayake affirmed the government’s commitment to providing all necessary institutional backing for foreign investments, highlighting that a corruption-free environment has now been established in Sri Lanka.
-
-...
-
-[Data](articles/feab0425.json)
 
 ---

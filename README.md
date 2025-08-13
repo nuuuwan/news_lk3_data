@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 12:08:41**
+As of **2025-08-13 12:27:50**
 
 ## Newspaper Stats
 
-*Scraped **70,260** Articles*
+*Scraped **70,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,22 +17,74 @@ islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,772
-adaderanalk | 8,756
-tamilmirrorlk | 10,311
-virakesarilk | 11,706
+adaderanalk | 8,762
+tamilmirrorlk | 10,315
+virakesarilk | 11,707
 adaderanasinhalalk | 12,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,260 articles have been extended.
+61,973 (88.2%) of 70,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
 
-### ජපන් රැකියා සිහිනය පෙන්වා මුදල් ගැරෑ ගල්කිස්සේ කත පලා ගිහින්
+### ‘கூலி’ படத்தில் சிவகார்த்திகேயன்: போஸ்டரால் வைரல்
+
+*2025-08-13 12:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-படத்தில்-சிவகார்த்திகேயன்-போஸ்டரால்-வைரல்/54-362833) · `ta`
+
+‘கூலி’ படத்தில் சிவகார்த்திகேயன் நடிப்பதாக போஸ்டர் ஒன்று சமூக வலைதளங்களில் வைரலாகி வருகிறது.
+
+லோகேஷ் கனகராஜ் இயக்கியுள்ள ‘கூலி’ படத்தில் ரஜினி, சத்யராஜ், நாகார்ஜுனா, உபேந்திரா, ஸ்ருதிஹாசன், ஆமிர்கான் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சன் பிக்சர்ஸ் தயாரித்துள்ள இப்படத்துக்கு ஒளிப்பதிவாளராக க்ரிஷ் கங்காதரன், இசையமைப்பாளராக அனிருத் ஆகியோர் பணிபுரிந்துள்ளனர். இப்படம் வரும் ஆகஸ்ட் 14 திரையரங்குகளில் வெளியாக உள்ளது. இப்படத்துக்கான ஆன்லைன் டிக்கெட் புக்கிங் மும்முரமாக நடைபெற்று வருகிறது.
+
+இந்த சூழலில் இப்படம் தொடர்பான போஸ்டர் ஒன்று   சமூக வலைதளங்களில் வைரலாகப் பரவி வருகிறது.
+
+அதில் ‘கூலி’ படத்தில் சத்யா என்ற கதாபாத்திரத்தில் சிவகார்த்திகேயன் நடிப்பதாக குறிப்பிடப்பட்டிருந்தது. அதில் வாயில் பைப் உடன் புகைத்தபடி சிவகார்த்திகேயனின் புகைப்படமும் இடம்பெற்றது. இதனை ரசிகர்கள் பலரும் பகிர்ந்து வந்தனர். இன்னும் சிலர் சன் பிக்சர்ஸ், லோகேஷ் கனகராஜின் அதிகாரபூர்வ சமூக வலைதள பக்கங்களில் சென்று இது உண்மையா என்று கேள்வி எழுப்பி வந்தனர்.
+
+...
+
+[Data](articles/9d2edff6.json)
+
+---
+
+### கொழும்பு மாணவி தங்காலை கடலுக்கு பலி
+
+*2025-08-13 12:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாணவி-தங்காலை-கடலுக்கு-பலி/175-362832) · `ta`
+
+தங்காலையில் உள்ள மடிலா கடற்கரையில்   நடந்து சென்று கொண்டிருந்த ஆறு வயது சிறுமி பலத்த அலைகளில் அடித்துச் செல்லப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+தங்காலை காவல்துறையினரின் கூற்றுப்படி, தங்காலையைச் சேர்ந்த குழந்தையின் குடும்பத்தினர் சுற்றுலா சென்று உள்ளூர் விருந்தினர் மாளிகையில் தங்கியிருந்தனர். இன்று (13) கடற்கரையில் நடந்து சென்று கொண்டிருந்தபோது இந்த சோகம் நிகழ்ந்தது.
+
+கொழும்பில் உள்ள ஒரு முன்னணி பெண்கள் பாடசாலையின் மாணவியே இவ்வாறு கடலுக்கு பலியாகியுள்ளார்.
+
+◼️
+
+[Data](articles/d564fdfc.json)
+
+---
+
+### உயிரிழந்த மனைவியின் உடலை பைக்கில் எடுத்துச் சென்ற கணவர்
+
+*2025-08-13 11:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-மனைவியின்-உடலை-பைக்கில்-எடுத்துச்-சென்ற-கணவர்/175-362831) · `ta`
+
+விபத்தில் உயிரிழந்த தனது மனைவியின் உடலை மோட்டார் சைக்கிளில் அவருடைய கணவர் எடுத்துச் சென்ற சோகமான சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+மத்​தி​யபிரதேச மாநிலத்​தின் சியோனி மாவட்​டம், கரன்​பூர் என்ற கிராமத்தை சேர்ந்​தவர் அமித் யாதவ் (35). இவர் கடந்த வெள்​ளிக்​கிழமை (08)  தனது மனைவி கயார்சி உடன், மகா​ராஷ்டிர மாநிலம் நாக்​பூரில் இருந்து மோட்​டார் சைக்​கிளில் சொந்த ஊருக்​குப் புறப்​பட்​டார்.
+
+ஜபல்​பூர் தேசிய நெடுஞ்​சாலை​யில் நாக்​பூரின் லோனாரா அரு​கில் செல்​லும்​போது இவர்​களின் பைக் மீது ஒரு லாரி உரசி​யது. இதில் சாலை​யில் விழுந்த கயார்சி, லாரி​யின் சக்​கரத்​தில் சிக்கி பரி​தாப​மாக உயி​ரிழந்​தார். விபத்​துக்கு பிறகு லாரியை நிறுத்​தாமல் டிரைவர் தப்​பிச் சென்று விட்​டார்.
+
+எதிர்​பா​ராத விபத்​தால் செய்​வதறி​யாது தவித்த அமித் அவ்​வழியே செல்​லும் வாக​னங்​களிடம் உதவி கோரி​னார். ஆனால் யாரும் அவருக்கு உதவ முன்​வர​வில்​லை. இதையடுத்து அவர் தனது மனை​வி​யின் உடலை மோட்​டார் சைக்​கிளின் பின் இருக்​கை​யில் வைத்து கட்​டிக்​கொண்டு சொந்த ஊருக்​குப் புறப்​பட்​டார்.
+
+...
+
+[Data](articles/23bfad65.json)
+
+---
+
+### ජපන් රැකියා සිහිනය පෙන්වා මුදල් ගැරූ ගල්කිස්සේ කත පලා ගිහින්
 
 *2025-08-13 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213324) · `si`
 
@@ -51,6 +103,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c732bc85.json)
+
+---
+
+### பல விடயங்களுக்கு தீர்வு கோரி மட்டக்களப்பில் ஆர்ப்பாட்டம்
+
+*2025-08-13 11:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பல-விடயங்களுக்கு-தீர்வு-கோரி-மட்டக்களப்பில்-ஆர்ப்பாட்டம்/73-362830) · `ta`
+
+பொதுமக்கள் பாதுகாப்பு பிரதி அமைச்சர் ஆனந்த விஜயபாலவின் மட்டக்களப்பு மாவட்டத்திற்கான விஜயத்தை முன்னிட்டு மட்டக்களப்பு காந்தி பூங்கா முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டமொன்று புதன்கிழமை (13) அன்று முன்னெடுக்கப்பட்டது.
+
+செம்மணி புதைகுழி , முல்லைத்தீவு மற்றும் சட்டவிரோத சமூக செயற்பாடுகளுக்கு நீதி கோரும் அகிம்சை வழி ஆர்ப்பாட்டமாக இது இடம்பெற்றது.
+
+வடக்கு, கிழக்கில் இருந்து இராணுவம் வெளியேற்றப்பட வேண்டும், பொதுமக்களுக்கு சொந்தமான காணிகள் பொதுக் கட்டிடங்கள் விடுவிக்கப்பட வேண்டும், செம்மணி புதைகுழி தொடர்பான நீதியான விசாரணை வேண்டும், முல்லைத்தீவு கபில்ராஜ் என்ற இளைஞனுக்கு நீதி வேண்டும் போன்ற கோரிக்கைகளை முன்வைத்து கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+இலங்கைத் தமிழரசுக் கட்சியின் ஏற்பாட்டில் நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் பாராளுமன்ற உறுப்பினர்களான இரா.சாணக்கியன், ஞா.சிறிநேசன், வைத்தியர் இ.சிறிநாத், மட்டக்களப்பு மாநகர சபை மேயர் சிவம் பாக்கியநாதன், பிரதேச சபைகளின் தவிசாளர்கள், உறுப்பினர்கள் சிவில் செயற்பாட்டாளர்கள், கட்சி உறுப்பினர்கள் என பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/1167cbb5.json)
 
 ---
 
@@ -108,6 +178,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இலங்கையில் உள்நாட்டு யுத்தத்தின் போது இடம்பெற்ற  மனித உரிமை மீறல்கள் குறித்து விசாரிப்பதில் சிறிதளவும் முன்னேற்றமில்லை" - அமெரிக்க இராஜாங்க திணைக்களம்
+
+*2025-08-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222469) · `ta`
+
+1983 முதல் 2009 வரை இடம்பெற்ற உள்நாட்டு யுத்தத்தின்போதோ அல்லது 1988-89 மார்க்சிச கிளர்ச்சியின் போதோ இடம்பெற்றதாக கூறப்படும் மனித உரிமை துஸ்பிரயோகங்களை விசாரிப்பதில் சிறிதளவு முன்னேற்றம் கூட ஏற்படவில்லை என அமெரிக்க இராஜாங்க திணைக்களம் தெரிவித்துள்ளது.
+
+2024 இல் உலகநாடுகளில் காணப்பட்ட மனித உரிமை நிலவரம் குறித்த தனது ஆண்டறிக்கையை வெளியிட்டுள்ள அமெரிக்க இராஜாங்க திணைக்கம் இலங்கை குறித்தும் குறிப்பிட்டுள்ளது.
+
+அரசாங்க அதிகாரிகளால் எவரும் காணாமலாக்கப்பட்டதாக தகவல்கள் வெளியாகவில்லை.கடந்த வருடம் காணாமல்போனவர்கள் அல்லது பலவந்தமாக காணாமலாக்கப்பட்டவர்கள் தொடர்பில் எந்த முறைப்பாடும் கிடைக்கவில்லை என காணாமல்போனவர்கள் அலுவலகம் தெரிவித்துள்ளது.
+
+1983 முதல் 2009 வரை இடம்பெற்ற உள்நாட்டு யுத்தத்தின்போதோ அல்லது 1988-89 மார்க்சிச கிளர்ச்சியின் போதோ இடம்பெற்றதாக கூறப்படும் மனித உரிமை துஸ்பிரயோகங்களை விசாரிப்பதில் சிறிதளவு முன்னேற்றம் கூட ஏற்படவில்லை.
+
+யுத்தகால துஸ்பிரயோகங்கள் விடயத்தில் தண்டனையின் பிடியிலிருந்து விலக்களித்தலும்இபொறுப்புக்கூறல் இன்மையும் இன்னமும் பிரச்சினைக்குரிய விடயங்களாக காணப்படுகின்றன.
+
+...
+
+[Data](articles/8af0bc08.json)
+
+---
+
 ### විපක්ෂයම එකතුවෙන විශේෂ සාකච්ඡාවක් හෙට
 
 *2025-08-13 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213323) · `si`
@@ -146,6 +236,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Kerala cannabis valued over Rs. 24 mln seized in Pesalai
+
+*2025-08-13 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111428/kerala-cannabis-valued-over-rs-24-mln-seized-in-pesalai-) · `en`
+
+A total of 110 kilograms and 600 grams of Kerala cannabis have been seized in Pesalai, Talaimannar by the Sri Lanka Navy.
+
+The haul of narcotics was seized during an operation conducted by SLNS Gajaba of the North Central Naval Command.
+
+During the search, three suspicious sacks were recovered from the beach, which were found to contain the stock of Kerala cannabis, the Navy said in a statement.
+
+The gross street value of the seized narcotics is estimated to exceed Rs. 24 million.
+
+The stock has been handed over to the Talaimannar Police for further legal action, Navy said.
+
+◼️
+
+[Data](articles/d9202bea.json)
+
+---
+
 ### “இலங்கையில் AI புரட்சியை ஏற்படுத்த  ஒன்றுபடுவோம்”
 
 *2025-08-13 11:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/இலங்கையில்-AI-புரட்சியை-ஏற்படுத்த-ஒன்றுபடுவோம்/47-362826) · `ta`
@@ -177,6 +287,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/27b94450.json)
+
+---
+
+### No reports of enforced disappearances in Sri Lanka in 2024: US State Department
+
+*2025-08-13 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111427/no-reports-of-enforced-disappearances-in-sri-lanka-in-2024-us-state-department) · `en`
+
+The United States says there were no reports of enforced disappearances in Sri Lanka by or on behalf of government authorities in 2024.
+
+The US State Department said the Office on Missing Persons (OMP) also reported it had not received any new complaints of missing persons or enforced disappearances in the past year.
+
+This was highlighted in the 2024 Country Reports on Human Rights Practices issued by the US State Department.
+
+Meanwhile, the US State Department stated Sri Lankan authorities continue to cite the Prevention of Terrorism Act (PTA), the International Covenant on Civil and Political Rights (ICCPR) act, and the penal code to arrest and punish critics of the government and deter criticism of government policies or officials.
+
+According to the US State Department, there were reports of harassment and intimidation of Sri Lankan journalists covering sensitive topics.
+
+...
+
+[Data](articles/91196ed2.json)
+
+---
+
+### Sri Lanka’s remittance inflow exceeds US$ 4 billion in 2025
+
+*2025-08-13 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111426/sri-lankas-remittance-inflow-exceeds-us-4-billion-in-2025) · `en`
+
+Sri Lanka has received US$ 697.3 million in workers’ remittances in July 2025, according to the latest figures released by the Central Bank of Sri Lanka (CBSL).
+
+This figure reflects a 19.5% increase compared to the US$ 566.8 million recorded in July 2024.
+
+Accordingly, from January to July 2025, the country has received a total of US$ 4.43 billion in remittances.
+
+During the same period, 173,189 Sri Lankans left for overseas employment, including 106,229 males and 66,960 females.
+
+Meanwhile, the Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), Koshala Wickramasinghe stated that Sri Lanka is expected to receive US$ 7 billion in remittances by the end of 2025.
+
+He added that the Bureau has implemented several measures to facilitate the deployment of qualified, skilled workers abroad, with an estimated 300,000 Sri Lankans expected to seek overseas employment this year.
+
+...
+
+[Data](articles/82c21bc5.json)
 
 ---
 
@@ -236,6 +388,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Public can directly WhatsApp IGP to report crimes from today
+
+*2025-08-13 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111425/public-can-directly-whatsapp-igp-to-report-crimes-from-today) · `en`
+
+Sri Lanka Police has introduced a new WhatsApp number for the general public to directly inform the office of the Inspector General of Police (IGP) pertaining to crimes and various other issues they encounter.
+
+Issuing a statement in this regard, the Police Media Division noted that Sri Lanka Police is committed to performing its duties with dedication to ensure public safety.
+
+“It has been observed that there is a need to protect the rights of the public by giving priority to their concerns and enabling them to directly inform the IGP’s office about crimes and other issues they face,” the statement added.
+
+Accordingly, IGP Priyantha Weerasooriya has introduced the new WhatsApp number, 071-8598888, effective today (13), for both the public and police officers who require the IGP’s attention.
+
+According to Sri Lanka Police, this facility may be used to report any information related to crimes and other issues.
+
+...
+
+[Data](articles/ae89f4cd.json)
+
+---
+
 ### இன்றைய தங்கவிலை நிலைவரம் !
 
 *2025-08-13 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/222463) · `ta`
@@ -245,6 +417,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f94a7dc0.json)
+
+---
+
+### Southern Taiwan shuts down ahead of arrival of Typhoon Podul
+
+*2025-08-13 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111424/southern-taiwan-shuts-down-ahead-of-arrival-of-typhoon-podul) · `en`
+
+A large swathe of southern and eastern Taiwan shut down on Wednesday and hundreds of flights were cancelled ahead of the arrival later in the day of Typhoon Podul, with thousands of people evacuated.
+
+Taiwan is regularly hit by typhoons, generally along its mountainous, sparsely populated east coast facing the Pacific.
+
+The mid-strength Typhoon Podul, packing wind gusts as strong as 191 kph (118 mph), was heading for the southeastern city of Taitung as it intensifies and was expected to make landfall nearby on Wednesday afternoon, weather officials said.
+
+“Destructive winds from typhoon expected. Take shelter as soon as possible,” read a text message alert issued to cellphone users in parts of Taitung early on Wednesday. The alert warned people of gusts above 150 kph (93 mph) in the coming hours.
+
+...
+
+[Data](articles/371a8966.json)
 
 ---
 
@@ -299,6 +489,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f4960de9.json)
+
+---
+
+### Man hacked to death in Seeduwa
+
+*2025-08-13 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111423/man-hacked-to-death-in-seeduwa) · `en`
+
+According to police, the murder was carried out last night (12) by a group of individuals using sharp weapons.
+
+The victim, who sustained serious injuries in the attack, was admitted to the Negombo Hospital while in critical condition but later succumbed to his injuries.
+
+No suspects have been arrested in connection with the incident thus far, and Seeduwa Police are conducting further investigations to apprehend those responsible.
+
+◼️
+
+[Data](articles/4751c6ea.json)
 
 ---
 
@@ -1617,171 +1823,5 @@ China’s Commerce Ministry issued a parallel pause on extra tariffs early on Tu
 ◼️
 
 [Data](articles/65b01b85.json)
-
----
-
-### Suspected gunman arrested in Meegoda shooting
-
-*2025-08-12 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111408/suspected-gunman-arrested-in-meegoda-shooting) · `en`
-
-The suspected gunman in the shooting incident that took place in Meegoda this afternoon (12) has been arrested, police said.
-
-The former Homagama Pradeshiya Sabha member, Shantha Mudunkotuwa, who sustained injuries in the shooting, later succumbed to his injuries while receiving treatment at the hospital.
-
-The 46-year-old former local councilor was hospitalized following the incident.
-
-◼️
-
-[Data](articles/ff41086e.json)
-
----
-
-### ශාන්ත මුදුන්කොටුව ඝාතනයේ සැකකාර වෙඩික්කරු අත්අඩංගුවට
-
-*2025-08-12 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213304) · `si`
-
-හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු සභිකයෙකු වූ ශාන්ත මුදුන්කොටුව වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියේ සැකකාර වෙඩික්කරු අත්අඩංගුවට ගෙන තිබේ.
-
-මීගොඩ, ආටිගල පාර ප්‍රදේශයේදී අද (12) දහවල් 1:10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-◼️
-
-[Data](articles/de71055b.json)
-
----
-
-### ”இலங்கையின் பேரில் எந்த செயற்கைக்கோள் தரவும் இல்லை”
-
-*2025-08-12 18:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பேரில்-எந்த-செயற்கைக்கோள்-தரவும்-இல்லை/175-362792) · `ta`
-
-தகவல் மற்றும் தொடர்பு தொழில்நுட்பங்களின் உலகளாவிய ஒருங்கிணைப்புக்குப் பொறுப்பான ஐக்கிய நாடுகள் சபையின் நிறுவனமான சர்வதேச தொலைத்தொடர்பு ஒன்றியத்தின் (ITU) பதிவுகளில் இலங்கை என்ற பெயரில் எந்த செயற்கைக்கோளும் பதிவு செய்யப்படவில்லை என்று அமைச்சர் நளிந்த ஜெயதிஸ்ஸ இன்று (12) தெரிவித்தார்.
-
-வாராந்திர அமைச்சரவை சந்திப்பின் போது பேசிய அமைச்சர், செயற்கைக்கோளை ஏவுவதற்கான ITU-வின் நிலையான நடைமுறை மூன்று நிலைகளை உள்ளடக்கியது என்று விளக்கினார் - திட்டமிடப்பட்ட செயற்கைக்கோள் வலையமைப்பின் தொழில்நுட்ப விவரங்களை சமர்ப்பித்தல், குறுக்கீட்டைத் தவிர்க்க மற்ற உறுப்பு நாடுகளுடன் ஒருங்கிணைத்தல் மற்றும் பதிவு மற்றும் சர்வதேச அங்கீகாரத்திற்கான இறுதி அளவுருக்களை அறிவித்தல். இந்த செயல்முறை பொதுவாக மூன்று முதல் ஏழு ஆண்டுகள் வரை ஆகும்.
-
-...
-
-[Data](articles/97b2b829.json)
-
----
-
-### ஜனாதிபதி- வியட்நாமின் ரொக்ஸ் குழுமத்திற்கு இடையில் சந்திப்பு
-
-*2025-08-12 18:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வியட்நாமின்-ரொக்ஸ்-குழுமத்திற்கு-இடையில்-சந்திப்பு/175-362791) · `ta`
-
-ஜனாதிபதி அநுர குமார திசாநாயக்க மற்றும் வியட்நாமின் ரொக்ஸ் குழுமத்தின் ஆலோசனைக் குழுவின் தலைவர் மற்றும் கடல்சார் வணிக கூட்டு பங்கு வங்கியின் (MSB) தலைவர் டிரன் அன் துவன் (Tran Anh Tuan) உள்ளிட்ட பிரதிநிதிகளுக்கு இடையிலான கலந்துரையாடல் இன்று (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-இலங்கையில் தற்போதைய ஸ்திரத்தன்மை மற்றும் முதலீட்டாளர்களுக்கு உகந்த சூழலைக் கருத்தில் கொண்டு, இலங்கையில் முதலீடு செய்யத் தயாராக இருப்பதாக ரொக்ஸ் நிறுவனத்தின் பிரதிநிதிகள் இங்கு தெரிவித்தனர்.
-
-அதன்படி, இந்நாட்டில் ஒரு தொழில்துறை வலயத்தை நிறுவுவதற்கு அரசாங்கத்தின் ஆதரவை எதிர்பார்ப்பதாக அவர்கள் தெரிவித்தனர். அதேபோன்று புதுப்பிக்கத்தக்க வலுசக்தி மற்றும் ஆதன விற்பனைத் துறைகளில் முதலீடு செய்ய எதிர்பார்ப்பதாகவும் அவர்கள் ஜனாதிபதியிடம் தெரிவித்தனர். அதனுடன் தொடர்புடைய நடவடிக்கைகளுக்காக காணியை அடையாளம் காணவும், தேவையான நிறுவன ஆதரவைப் பெறவும் இந்த விஜயத்தை மேற்கொள்வதாக அவர்கள் தெரிவித்தனர்.
-
-...
-
-[Data](articles/679a3c8b.json)
-
----
-
-### CBK denies taking legal action over repeal of Presidents’ Entitlements Act
-
-*2025-08-12 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111407/cbk-denies-taking-legal-action-over-repeal-of-presidents-entitlements-act) · `en`
-
-Former President Chandrika Bandaranaike Kumaratunga has denied recent media reports claiming she has joined other ex-presidents in taking legal action against the repeal of the Presidents’ Entitlements Act is false.
-
-Issuing a statement in this regard, Kumaratunga’s media unit emphasized that some media reports have claimed former President Kumaratunga has joined four other former Presidents to file a case against the repeal of the Presidents’ Entitlements Act.
-
-However, the statement clarified that this news is false and that she has not joined any former Presidents in any legal action.
-
-◼️
-
-[Data](articles/47f8f216.json)
-
----
-
-### ඉන්දුනීසියාවේ භූකම්පනයක්
-
-*2025-08-12 18:04:04* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-භූකම්පනයක්/11-417871) · `si`
-
-ඉන්දුනීසියාවේ බටහිර පැපුවා කලාපයේ  අද(12දා)  රික්ටර් මාපක 6.5ක ප්‍රබලත්වයෙන් යුත් භූකම්පනයක් හටගෙන තිබේ.
-
-මෙම භූකම්පනය කිලෝමීටර් 17ක් ගැඹුරින් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/2e620ecd.json)
-
----
-
-### நடிகர் லிங்கேஷ் நடிக்கும் 'காயல் ' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு
-
-*2025-08-12 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222438) · `ta`
-
-நடிகர் லிங்கேஷ் - நடிகை அனு மோல் முதன்மையான வேடங்களில் நடித்திருக்கும் காயல் எனும் திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியீட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது.  இந்நிகழ்வில் இயக்குநர்கள் அஜயன் பாலா - மித்ரன் ஜவகர் - மீரா கதிரவன் வரைகலை நிபுணர் டிராஸ்ட்கி மருது ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
-
-எழுத்தாளர் தமயந்தி இயக்கத்தில் உருவாகியுள்ள 'காயல்' எனும் திரைப்படத்தில் லிங்கேஷ், அனு மோல், ஐசக், ஸ்வாதகா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜஸ்டின் இசையமைத்திருக்கிறார். நெய்தல் மனிதர்களின் வாழ்வியலை யதார்த்தமாக விவரித்து இருக்கும் இந்த திரைப்படத்தை ஜே ஸ்டுடியோ நிறுவனம் சார்பில் தயாரிப்பாளர் ஜேசு. சுந்தரமாறன் தயாரித்திருக்கிறார்.
-
-...
-
-[Data](articles/3156d8c3.json)
-
----
-
-### ජනාධිපති හිමිකම් පනත ගැන චන්ද්‍රිකාගේ මතය
-
-*2025-08-12 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213303) · `si`
-
-ජනාධිපති හිමිකම් පනත අහෝසි කිරීමට එරෙහිව හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය අධිකරණ ක්‍රියාමාර්ග ගන්නා බවට ඇතැම් මාධ්‍ය හරහා සංසරණය වෙන පුවත අසත්‍ය බව හිටපු ජනාධිපතිනියගේ මාධ්‍ය ඒකකය පවසයි.
-
-හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සහ හිටපු අනෙක් ජනාධිපතිවරුන් සිව්දෙනා සමග එක්වී ජනාධිපති හිමිකම් පනත අහෝසි කිරීමට එරෙහිව මෙලෙස අධිකරණ ක්‍රියාමාර්ග ගන්නා බවට ඇතැම් මාධ්‍ය පසුගියදා වාර්තා කර තිබුණි.
-
-කෙසේවෙතත් එම පුවත සම්පූර්ණයෙන්ම අසත්‍ය වන අතර එවැනි කිසිදු නෛතික ක්‍රියාවකට හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සම්බන්ධ වී නොමැති බවද සඳහන් කරයි.
-
-◼️
-
-[Data](articles/8f7f5b75.json)
-
----
-
-### රුපියල් 200ක අල්ලසක් ගත් වේලා සටහන්කරුවෙකු අත්අඩංගුවට
-
-*2025-08-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213302) · `si`
-
-බොරැල්ල, බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ වේලා සටහන්කරුවෙකු අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඔහු පුද්ගලික බස් රථයේ ධාවන සටහන් පත්‍රය අත්සන් කර ධාවන වේලාවක් සකස් කර දීම සඳහා සහ නියමිත ගමන්වාර සියල්ල ලබා දීම සඳහා එක් ගමන් වාරයකට රු.200/- (රුපියල් දෙසීයක) මුදලක් අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත මෙසේ අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
-
-හෙයියන්තුඩුව ප්‍රදේශයේ පදිංචි කොන්දොස්තරවරයෙකු විසින් සිදු කරන ලද පැමිණිල්ලකට අනුව කඩුවෙල බස් නැවතුම් පොළේ දී මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/d255800d.json)
-
----
-
-### இலங்கை பொலிஸார் ஊடகவியலாளர் கணபதிப்பிள்ளை குமணனை விசாரணைக்கு அழைப்பதை உடனடியாக கைவிடவேண்டும்- பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு
-
-*2025-08-12 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222431) · `ta`
-
-இலங்கை பொலிஸார் ஊடகவியலாளர் கணபதிப்பிள்ளை குமணனை விசாரணைக்கு அழைப்பதை உடனடியாக கைவிடவேண்டும் என பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு வேண்டுகோள் விடுத்துள்ளது.
-
-கணபதிப்பிள்ளை குமணனை விசாரணைக்கு அழைப்பதை, இலங்கை பொலிஸார் உடனடியாக கைவிடவேண்டும், தங்கள் துன்புறுத்தல்களை நிறுத்தவேண்டும்,பத்திரிகையாளர்கள் பழிவாங்கப்படுதல் குறித்த அச்சமின்றி சுதந்திரமாக பணியாற்றுவதை உறுதி செய்யவேண்டும் என சிபிஜேயின் பிராந்திய இயக்குநர் பெஹ் லிஹ் யி  வேண்டுகோள் விடுத்துள்ளார்.
-
-நியாயபூர்வமான செய்தியறிக்கையிடலிற்கு எதிராக பயங்கரவாத எதிர்ப்பு சட்டங்களை பயன்படுத்துவது பொலிஸ் அதிகாரத்தை துஸ்பிரயோகம் செய்வதாகும்,அச்சு ஊடக சுதந்திரத்தை மீறுவதாகும் என அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/2feb41e3.json)
-
----
-
-### “இளைஞர் இயக்கமே  அரசாங்கத்தின் முயற்சி“
-
-*2025-08-12 17:30:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்-இயக்கமே-அரசாங்கத்தின்-முயற்சி/175-362787) · `ta`
-
-கடந்த 32 ஆண்டுகளுக்குப் பிறகு நடைபெற்ற இந்த இளைஞர் மாநாடு, இந்த நாட்டின் இளைஞர்களை அரசியல் கைப்பாவைகளாக மாறாது, நாட்டின் எதிர்காலத்தை பொறுப்பேற்கும் தலைவர்களாக மாற்றுவதற்கான அரசாங்கத்தின் திட்டத்தைக் குறிக்கிறது என்பதை நான் சுட்டிக்காட்டினேன் என  கொழும்பு சுகததாச உள்ளக அரங்கில் செவ்வாய்க்கிழமை (12) காலை நடைபெற்ற “யூத் கிளப்” தேசிய இளைஞர் மாநாட்டில் கலந்து கொண்ட ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்துள்ளார்.
-
-மேலும் அவர் கூறியுள்ளதாவது, தனது அரசியல் அதிகாரத்தைப் பாதுகாப்பதில் பங்காளர்களாக அல்லாமல், இளைஞர்களுக்கு அவர்களின் சரியான இடத்தை வழங்குவதன் மூலம் தனது எதிர்காலத்தைத் தாமே தீர்மானிக்கும் சக்தி கொண்ட ஓர் இளைஞர் சமூகத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கம் என்றும், எதிர்கால இளைஞர் தலைமுறை உலகத்தின் முன்னிலையில் நாட்டை வென்றெடுக்கும் மற்றும் மற்றவர்கள் மீது இரக்கம் காட்டும் ஒரு இளைஞர் தலைமுறையாக இருக்க வேண்டும் என்றும் நான் தெரிவித்தேன்.
-
-...
-
-[Data](articles/889a16e5.json)
 
 ---

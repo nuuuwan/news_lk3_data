@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 22:07:19**
+As of **2025-08-13 22:21:28**
 
 ## Newspaper Stats
 
-*Scraped **70,362** Articles*
+*Scraped **70,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,788
-adaderanalk | 8,776
+adaderanalk | 8,778
 tamilmirrorlk | 10,342
-virakesarilk | 11,718
-adaderanasinhalalk | 12,115
+virakesarilk | 11,719
+adaderanasinhalalk | 12,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,362 articles have been extended.
+61,973 (88.1%) of 70,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### Israeli gunfire kills at least 25 in Gaza as Netanyahu says he will allow Palestinians to leave
+
+*2025-08-13 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111446/israeli-gunfire-kills-at-least-25-in-gaza-as-netanyahu-says-he-will-allow-palestinians-to-leave) · `en`
+
+Israeli gunfire killed at least 25 people seeking aid in Gaza on Wednesday, health officials and witnesses said, while Prime Minister Benjamin Netanyahu said Israel will “allow” Palestinians to leave during an upcoming military offensive in some of the territory’s most populated areas.
+
+Netanyahu wants to realize U.S. President Donald Trump’s vision of relocating much of Gaza’s population of over 2 million people through what he refers to as “voluntary migration” — and what critics have warned could be ethnic cleansing.
+
+“Give them the opportunity to leave! First, from combat zones, and also from the Strip if they want,” Netanyahu said in an interview aired Tuesday with Israeli TV station i24 to discuss the planned offensive in areas including Gaza City, where hundreds of thousands of displaced people shelter. “We are not pushing them out but allowing them to leave.”
+
+...
+
+[Data](articles/a49fba1c.json)
+
+---
 
 ### இராணுவ முகாம்களை அகற்ற வேண்டிய அவசியமில்லை
 
@@ -43,6 +59,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9642ae11.json)
+
+---
+
+### நிலைத்தன்மையான மீன்பிடிக்காக WTO மீன்பிடி மானிய உடன்படிக்கையில் இணைந்த இலங்கை
+
+*2025-08-13 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222529) · `ta`
+
+நிலைபேறான மீன்பிடித் தொழிலுக்கான இலங்கை அரசாங்கத்தின் அர்ப்பணிப்பை உறுதிப்படுத்தும் வகையில், உலக வர்த்தக அமைப்பின் (WTO) மீன்பிடி மானிய உடன்படிக்கையில் இலங்கை அண்மையில் உத்தியோகபூர்வமாக இணைந்தது. இதன்படி, இலங்கையின் உலக வர்த்தக அமைப்பின் தூதுவர் ஆர். ஜி. எஸ். விஜேசேகர, இதற்கான அங்கீகார பத்திரத்தை அமைப்பின் பணிப்பாளர் நாயகத்திடம் உத்தியோகபூர்வமாக கையளித்தார்.
+
+பல வருடங்களாக விவாதிக்கப்பட்டு வந்த இந்த உடன்படிக்கை மூலம், சட்டவிரோத, அறிவிக்கப்படாத மற்றும் ஒழுங்குபடுத்தப்படாத மீன்பிடி நடவடிக்கைகளுக்கு (IUU) வழங்கப்படும் மானியங்கள் மற்றும் அதிகப்படியான மீன்பிடி இருப்புக்களுக்கு வழங்கப்படும் மானியங்களை தடைசெய்யப்படும்.
+
+...
+
+[Data](articles/bff753b6.json)
+
+---
+
+### ‘Kandalame Hadakaraya’ dies despite months of treatment for gunshot wound
+
+*2025-08-13 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111445/kandalame-hadakaraya-dies-despite-months-of-treatment-for-gunshot-wound-) · `en`
+
+The majestic tusker popularly known as ‘Kandalame Hadakaraya’, who had been receiving treatment at the Kandalama Reservoir for over six months, has reportedly died this afternoon (13).
+
+The wild elephant, estimated to be between 25 and 30 years old, had been in critical condition after sustaining a gunshot wound to one of its front legs.
+
+This wild elephant had been shot on several previous occasions in the past as a result of the ongoing human–elephant conflict in the area.
+
+About a year ago, after undergoing treatment and being released back into the wild, the jumbo was shot once again, but this injury would turn out to be a fatal one.
+
+◼️
+
+[Data](articles/fefaf1a9.json)
 
 ---
 
@@ -59,6 +107,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8fdee9c8.json)
+
+---
+
+### මන්නාරම සුළං විදුලි බලාගාර දෙකේ ඉදිකිරීම් මසකට අත්හිටුවයි
+
+*2025-08-13 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213342) · `si`
+
+මන්නාරම ප්‍රදේශයේ ආරම්භ කර ඇති  මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක  සුළං විදුලි බලාගාර දෙකෙහි ඉදිකිරීම් කටයුතු මසකින් කල්දැමීමට තීරණය කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+මෙම යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ද පවත්වා තිබේ.
+
+මන්නාරම ප්‍රදේශයේ යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ  පැවැත්විණි.
+
+මෙම සාකච්ඡාවේදී රටේ බලශක්ති අවශ්‍යතාව සහ ආර්ථිකයට ව්‍යාපෘතියේ වැදගත්කම පිළිබඳව අවධානය යොමු කෙරිණි.
+
+සුළං බලාගාරය හේතුවෙන් ප්‍රදේශයේ ජනතාවට ඇති වී ඇති ගැටලු පිලිබදව සොයා බලා ඒ සඳහා විසදුම් ලබා දීමට අවශ්‍ය ව්‍යුහයක් ඇති  කිරීමටද මෙහිදී  තීරණය විය. එසේම ටෙන්ඩර් කැඳවා කොන්ත්‍රාත් ප්‍රදානය කර, මේ වනවිට ආරම්භ කර ඇති  මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50 ක  සුළං විදුලි බලාගාර දෙකෙහි ඉදි කිරීම් කටයුතු තාවකාලිකව අත්හිටුවීමට ද තීරණය කරන ලදී.
+
+...
+
+[Data](articles/79896d8c.json)
 
 ---
 
@@ -1755,85 +1823,5 @@ Net finance income was down 82 percent to 11.3 million rupees. (Colombo/Aug13/20
 ◼️
 
 [Data](articles/27b94450.json)
-
----
-
-### No reports of enforced disappearances in Sri Lanka in 2024: US State Department
-
-*2025-08-13 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111427/no-reports-of-enforced-disappearances-in-sri-lanka-in-2024-us-state-department) · `en`
-
-The United States says there were no reports of enforced disappearances in Sri Lanka by or on behalf of government authorities in 2024.
-
-The US State Department said the Office on Missing Persons (OMP) also reported it had not received any new complaints of missing persons or enforced disappearances in the past year.
-
-This was highlighted in the 2024 Country Reports on Human Rights Practices issued by the US State Department.
-
-Meanwhile, the US State Department stated Sri Lankan authorities continue to cite the Prevention of Terrorism Act (PTA), the International Covenant on Civil and Political Rights (ICCPR) act, and the penal code to arrest and punish critics of the government and deter criticism of government policies or officials.
-
-According to the US State Department, there were reports of harassment and intimidation of Sri Lankan journalists covering sensitive topics.
-
-...
-
-[Data](articles/91196ed2.json)
-
----
-
-### Sri Lanka’s remittance inflow exceeds US$ 4 billion in 2025
-
-*2025-08-13 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111426/sri-lankas-remittance-inflow-exceeds-us-4-billion-in-2025) · `en`
-
-Sri Lanka has received US$ 697.3 million in workers’ remittances in July 2025, according to the latest figures released by the Central Bank of Sri Lanka (CBSL).
-
-This figure reflects a 19.5% increase compared to the US$ 566.8 million recorded in July 2024.
-
-Accordingly, from January to July 2025, the country has received a total of US$ 4.43 billion in remittances.
-
-During the same period, 173,189 Sri Lankans left for overseas employment, including 106,229 males and 66,960 females.
-
-Meanwhile, the Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), Koshala Wickramasinghe stated that Sri Lanka is expected to receive US$ 7 billion in remittances by the end of 2025.
-
-He added that the Bureau has implemented several measures to facilitate the deployment of qualified, skilled workers abroad, with an estimated 300,000 Sri Lankans expected to seek overseas employment this year.
-
-...
-
-[Data](articles/82c21bc5.json)
-
----
-
-### මේ වසරේ ඉහළම ශ්‍රමික ප්‍රේෂණ ජුලි මාසයේදී
-
-*2025-08-13 11:12:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඉහළම-ශ්‍රමික-ප්‍රේෂණ-ජුලි-මාසයේදී/11-417887) · `si`
-
-2025 වසරේ ජනවාරි සිට ජූලි දක්වා ගතවූ මාස 7ක කාලය තුළ වාර්තා වූ ඉහළම විගමණික ශ්‍රමික ප්‍රේෂණ ප්‍රමාණය වාර්තා කරමින් ජූලි මාසය තුළදී ඇමරිකානු ඩොලර් මිලියන 697.3 ක් විදෙස් රැකියාවෙහි නිරත ශ්‍රි ලාංකිකයින් විසින් මෙරටට එවා ඇතැයි ශ්‍රි ලංකා මහ බැංකු දත්ත වාර්තා පෙන්වා දෙයි. එය 2024 වර්ෂයේ වාර්තා වූ ඇමරිකානු ඩොලර් මිලියන 566.8 ක ප්‍රේෂණ ප්‍රමාණයට සාපේක්ෂව සියයට 19.5 ක වර්ධනයකි.
-
-ඒ අනුව මෙම වසරේ ගතවූ කාලය තුළ මුළු විදෙස් ශ්‍රමික ප්‍රේෂණ ලැබීම් ඇමරිකානු ඩොලර් බිලියන 4.43 ක් මෙරටට ලැබී තිබේ.
-
-2025 වසරේ මුල් මාස 7ක කාලය තුළදී 173,189 දෙනකු රැකියා සඳහා විදේශ ගතවි ඇති අතර, ඊට පිරිමි ශ්‍රමිකයින් 106,229 හා කාන්තා ශ්‍රමිකයින් 66,960 දෙනෙකු අයත් වේ.
-
-2025 වසර තුළදි ඇමරිකානු ඩොලර් බිලියන 7ක විගමණික ශ්‍රමික ප්‍රේෂණ ප්‍රමාණයක් මෙරටට ලැබෙනු  ඇතැයි අපේක්ෂා කරන බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
-
-...
-
-[Data](articles/f1119d46.json)
-
----
-
-### முத்தையன்கட்டு சம்பவம் - கைதுசெய்யப்பட்ட நபரை அன்றிரவே பெற்றோரிடம் ஒப்படைத்துவிட்டோம் - இராணுவ பேச்சாளர்
-
-*2025-08-13 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222466) · `ta`
-
-முத்தையன்கட்டு குளத்தில் கபில்ராஜ் என்ற இளம் குடும்பஸ்தர் சடலமாக மீட்கப்பட்டுள்ளமைக்கும் இராணுவத்திற்கும் தொடர்புள்ளதாக தெரிவிக்கப்படுவதை இராணுவ பேச்சாளர் வருணகமகே நிராகரித்துள்ளார்.
-
-ஒட்டிசுட்டான் முத்தையன்கட்டு வீதியில் உள்ள முகாமில் உள்ள படையினர் ஆகஸ்ட் ஏழாம் திகதி இரவு நபர்கள் சிலர் முகாமிற்குள் நுழைய முற்பட்டதை தடுத்து நிறுத்தினார்கள் என இராணுவ பேச்சாளர் தெரிவித்துள்ளார்.
-
-படையினர் அவர்களில் ஒருவரை கைதுசெய்தனர் ஏனையவர்கள் தப்பியோடிவிட்டனர் நாங்கள் அவர்களை துரத்திச்செல்லவில்லை என இராணுவ பேச்சாளர் தெரிவித்துள்ளார்.
-
-இராணுவதலைமையகத்தின் உத்தரவின் பேரில் குறிப்பிட்ட இராணுவ முகாமை சேர்ந்தவர்கள் பொலிஸாருக்கு உரிய ஒத்துழைப்பை வழங்கினார்கள் என அவர் தெரிவித்துள்ளார்.
-
-மூன்று படையினர் கைதுசெய்யப்பட்டுள்ளனர்,எவரும் கபில்ராஜின் உடல் மீட்கப்பட்டமை தொடர்பில் கைதுசெய்யப்படவில்லை என அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/d17866bd.json)
 
 ---

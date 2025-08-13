@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 05:31:57**
+As of **2025-08-13 06:09:58**
 
 ## Newspaper Stats
 
-*Scraped **70,193** Articles*
+*Scraped **70,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
 economynextcom | 4,276
-islandlk | 4,299
+islandlk | 4,307
 dailymirrorlk | 4,733
-dailyftlk | 4,932
+dailyftlk | 4,937
 adalk | 6,764
 adaderanalk | 8,746
 tamilmirrorlk | 10,295
@@ -26,11 +26,83 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,193 articles have been extended.
+61,973 (88.3%) of 70,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### Pulse of a nation: Why tax compliance is a collective heartbeat
+
+*2025-08-13 05:43:36* · [`dailyftlk`](https://www.ft.lk/columns/Pulse-of-a-nation-Why-tax-compliance-is-a-collective-heartbeat/4-780211) · `en`
+
+Interest develops when people see how taxes relate to their everyday lives
+
+In Sri Lanka, the tax conversation has long centred on enforcement; penalties, audits, and the fear of getting it wrong. But this approach overlooks a powerful truth: most people don’t comply because they’re afraid, they comply when they believe. Around the world, a new wave of tax thinking is emerging, grounded not in threats but in trust. It draws on psychology, behavioural science, and local storytelling to shift the focus from force to fairness, from pressure to participation. This isn’t just better messaging, it’s a deeper transformation of how governments connect with citizens, turning tax from a demand into a shared commitment.
+
+...
+
+[Data](articles/52cd86a6.json)
+
+---
+
+### President AKD’s speech inspires power sector reforms
+
+*2025-08-13 05:38:24* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-speech-inspires-power-sector-reforms/4-780210) · `en`
+
+In his compelling speech to Parliament last Thursday, President AKD emphasised repeatedly that there is a deliberate and coordinated disinformation campaign aimed at undermining every major initiative his Government undertakes and belittling the progress made so far. The writer believes that most of this criticism originates from the Opposition and a core group fundamentally opposed to any efforts by the NPP Government to improve Sri Lanka.
+
+Given this reality, it is often futile to engage directly with their flawed arguments. Instead, a more productive approach is to objectively analyse these projects and suggest improvements where gaps exist. Although the President did not explicitly mention power sector reforms, the essence of his remarks clearly reflected how his Government operates and the economic development path it pursues.
+
+It is useful to unpack some of the President’s comments on the misguided criticisms of the economy by certain disgruntled groups, which have been proven wrong:
+
+...
+
+[Data](articles/37ad9005.json)
+
+---
+
+### Sri Lanka’s billion-dollar X-Press Pearl judgment faces uphill legal battle in Singapore
+
+*2025-08-13 05:33:45* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-billion-dollar-X-Press-Pearl-judgment-faces-uphill-legal-battle-in-Singapore/4-780209) · `en`
+
+Given the formidable legal hurdles in Singapore, Sri Lanka’s most viable path to recovery may lie within its own borders
+
+In what has been hailed as a landmark environmental ruling, Sri Lanka’s Supreme Court recently ordered the operators of the MV X-Press Pearl to pay $ 1 billion in compensation for the catastrophic 2021 maritime disaster that ravaged the nation’s coastline. However, as the Sri Lankan Government prepares to enforce this judgment against the vessel’s Singapore-based operators, it faces a formidable array of legal and practical obstacles that cast serious doubt on whether the historic award will ever be collected in full.
+
+...
+
+[Data](articles/c2f3d114.json)
+
+---
+
+### Both Government liabilities and assets matter for sovereign risk
+
+*2025-08-13 05:21:55* · [`dailyftlk`](https://www.ft.lk/opinion/Both-Government-liabilities-and-assets-matter-for-sovereign-risk/14-780207) · `en`
+
+Singapore demonstrates what can be achieved with good governance, strict fiscal discipline and effective balance sheet management
+
+Singapore is one of the few remaining sovereigns in the world that still holds a triple-A rating – the highest possible level – despite a gross Government debt-to-gross-domestic-product ratio that is higher than that of many other developed economies, namely Greece, Italy, the US and France. Yet this high level of gross debt does not constrain Singapore’s sovereign credit assessment by global rating agencies.
+
+Other considerations – including institutional strength, fiscal performance, monetary policy credibility and effectiveness, and the sustainability of growth – still play significant roles in determining sovereign creditworthiness. However, the main country-specific fiscal factor affecting bond yields appears to be Government net worth (assets minus liabilities) rather than gross debt-to-GDP.
+
+...
+
+[Data](articles/48f74175.json)
+
+---
+
+### Why biz chambers must lead on trade diplomacy
+
+*2025-08-13 05:12:18* · [`dailyftlk`](https://www.ft.lk/columns/Why-biz-chambers-must-lead-on-trade-diplomacy/4-780206) · `en`
+
+John Denton, Secretary-General of the International Chamber of Commerce (ICC), recently spoke to Suranjana Tewari BBC about the impact of global tariffs. Based in Paris, the ICC represents 45 million businesses, large and small, from across 170 different countries. ICC members were obviously amongst the first to feel the effects of Trump’s tariffs. Denton told BBC that the uncertainty is hurting businesses who worry about making a decision today, only for the rules to be changed tomorrow.
+
+...
+
+[Data](articles/f408cc95.json)
+
+---
 
 ### Are we using digital banking as advanced financial solution?
 
@@ -45,6 +117,22 @@ No doubt, digital banking is an Unconventional Financial Solution (UFS) which pr
 ...
 
 [Data](articles/8ae6db03.json)
+
+---
+
+### Ready for significant  investments in Sri Lanka  – ROX Group
+
+*2025-08-13 04:58:00* · [`islandlk`](http://island.lk/ready-for-significant-investments-in-sri-lanka-rox-group/) · `en`
+
+President Anura Kumara Dissanayake met with senior representatives of Vietnam’s ROX Group at the Presidential Secretariat on Tuesday (12)  afternoon. The delegation was led by  Tran Anh Tuan, Chairman of the Advisory Board of ROX Group and Chairman of the Maritime Commercial Joint Stock Bank (MSB).
+
+The ROX Group delegation expressed their readiness to make significant investments in Sri Lanka, citing the nation’s current stability and favourable investment climate. They sought government assistance to establish an industrial zone and indicated interest in the renewable energy and real estate sectors. The visit, they said, aimed to identify suitable land and secure the necessary institutional support for these ventures.
+
+President Dissanayake affirmed the government’s commitment to providing all necessary institutional backing for foreign investments, highlighting that a corruption-free environment has now been established in Sri Lanka.
+
+...
+
+[Data](articles/feab0425.json)
 
 ---
 
@@ -167,6 +255,60 @@ Also attending the meeting were Chairperson of the ROX Group Nguyen Thi Nguyet H
 ◼️
 
 [Data](articles/20254ae3.json)
+
+---
+
+### NDB Bank partners with Student in Aus Education Consultants to make overseas education seamless for Sri Lankans
+
+*2025-08-12 23:15:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-student-in-aus-education-consultants-to-make-overseas-education-seamless-for-sri-lankans/) · `en`
+
+Reaffirming its commitment to empowering Sri Lankans on their academic journeys beyond borders, NDB Bank is pleased to announce its latest partnership with Student in Aus Education Consultants. The strategic collaboration, marked by the signing of a Memorandum of Understanding (MoU) on 25th July 2025, aims to further simplify access to global education by offering a comprehensive suite of financial solutions to students and their families.
+
+The official signing took place at NDB Bank’s Head Office, with Sanjaya Perera, Senior Vice President – Personal Banking & Customer Experience, and Vinjaya Jayasinghe, Assistant Vice President – Branch Operations, representing the Bank. Signing on behalf of Student in Aus Education Consultants were Directors Charith Ranasinghe and Ms. Shafrina Rizvi.
+
+...
+
+[Data](articles/08ac74a5.json)
+
+---
+
+### Finlays – StrEdge collaboration nurtures future-ready leaders
+
+*2025-08-12 23:15:00* · [`islandlk`](http://island.lk/finlays-stredge-collaboration-nurtures-future-ready-leaders/) · `en`
+
+StrEdge Advisory, the business consultancy arm of StrEdge Group of Companies, recently concluded a ten- month Leadership Development Programme for Finlays Colombo Limited. The participants comprised a hand-picked group of high performing professionals drawn from the middle management of Finlays. They represented a diverse cross-section of the business and were identified as future-ready leaders who would bring agility, empathy and innovation to a growing organisation.
+
+...
+
+[Data](articles/c4ea41c1.json)
+
+---
+
+### Vietnamese conglomerate evincing keen interest in SL’s renewable energy sector
+
+*2025-08-12 23:07:00* · [`islandlk`](http://island.lk/vietnamese-conglomerate-evincing-keen-interest-in-sls-renewable-energy-sector/) · `en`
+
+Sri Lanka’s renewable energy ambitions are drawing the attention of some of Vietnam’s largest corporations, with the ROX Group — a leading Vietnamese business conglomerate — signaling its intent to explore major investments in the country’s power sector.
+
+Yesterday ROX Group chairman Le Anh Due and a high-level executive team met with Power and Energy Minister Eng. Kumara Jayakody at the ministry’s Colombo office. The meeting was a direct outcome of the agreements and ties strengthened during President Anura Kumara Dissanayake’s recent official visit to Vietnam, some observers said.
+
+...
+
+[Data](articles/30ba1417.json)
+
+---
+
+### Bank of Ceylon appoints Y.A. Jayathilaka as Acting General Manager/CEO
+
+*2025-08-12 23:07:00* · [`islandlk`](http://island.lk/bank-of-ceylon-appoints-y-a-jayathilaka-as-acting-general-manager-ceo/) · `en`
+
+The Bank of Ceylon has appointed Y.A. Jayathilaka as its Acting General Manager/Chief Executive Officer, succeeding Russel Fonseka, who retires after more than three decades of distinguished service. His appointment marks a new chapter for the nation’s largest state-owned commercial bank as it drives forward its transformation agenda and reinforces its commitment to national service.
+
+Jayathilaka, who began his banking career at the Bank of Ceylon as a Management Trainee in 1997, brings more than 28 years of industry experience, including over a decade in Assistant General Manager and Deputy General Manager grades.
+
+...
+
+[Data](articles/bd3ecd18.json)
 
 ---
 
@@ -1220,6 +1362,26 @@ The EUDR policy is aimed at minimizing deforestation and forest degradation link
 
 ---
 
+### Policy approval for Micro Finance and Loan Regulation Authority Act
+
+*2025-08-12 15:26:00* · [`islandlk`](http://island.lk/policy-approval-for-micro-finance-and-loan-regulation-authority-act/) · `en`
+
+The Cabinet of Ministers granted approval at their meeting held on 09.10.2023 to publish the draft bill prepared by the Legal Draftsman to introduce the Micro Finance and Loan Regulation
+
+Authority Act repealing the Micro Finance Act No. 6 of 2016 in the government gazette notification and subsequently, to submit the same to the Parliament for its concurrence.
+
+However, this draft bill was challenged before the Supreme Court by several parties and, the Supreme Court has issued the order.
+
+Furthermore, this draft bill has been directed to the Parliamentary Sector Supervisory Committee on the Appeasement of the Impact of the Economic Crisis. The Committee has informed to appoint a committee to provide recommendations after studying the views and optional resolutions furnished by various parties on its contents.
+
+Accordingly, the final report comprising the proposals obtained from various parties along with revisions as per the order of the
+
+...
+
+[Data](articles/064e5aea.json)
+
+---
+
 ### ஷூஹதாக்கள் நினைவு தினம்
 
 *2025-08-12 15:24:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷூஹதாக்கள்-நினைவு-தினம்/175-362778) · `ta`
@@ -1381,6 +1543,28 @@ Accordingly, the Renewable Energy Resources Development Plan 2026–2030 has ide
 ...
 
 [Data](articles/fc2ec9ce.json)
+
+---
+
+### The 50% trade exhibition subsidy scheme to prmote “Ceylon Tea” to continue
+
+*2025-08-12 14:38:00* · [`islandlk`](http://island.lk/the-50-trade-exhibition-subsidy-scheme-to-prmote-ceylon-tea-to-continue/) · `en`
+
+The Sri Lanka Tea Board has been implementing the 50% trade exhibition subsidy scheme to attract new international buyers and to promote the “Ceylon Tea” trade name globally.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Plantation and Infrastructure
+
+Facilities to implement aforementioned 50% trade exhibition subsidy scheme continuously.
+
+Cabinet approves the creation of a digital system for mapping/registering rubber lands
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/3d0cfb73.json)
 
 ---
 
@@ -1549,189 +1733,5 @@ According to the department, the ‘Ella Weekend Express’ will operate from Co
 ◼️
 
 [Data](articles/f641ca68.json)
-
----
-
-### හිටපු ප්‍රා.ස. මන්ත්‍රීට වෙඩි
-
-*2025-08-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213291) · `si`
-
-වෙඩිතැබීමෙන් හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයෙකු තුවාල ලබා රෝහල් ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇත.
-
-මියගොස් ඇත්තේ 46 හැවිරිදි අයෙක් වන අතර, මෘත ශරීරය හෝමාගම රෝහලේ තැන්පත් කර තිබේ.
-
-◼️
-
-[Data](articles/0c0768ab.json)
-
----
-
-### Former Pradeshiya Sabha member dies in Meegoda shooting
-
-*2025-08-12 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111397/ex-local-council-member-injured-following-shooting-incident-in-meegoda-) · `en`
-
-(UPDATE): The former Homagama Pradeshiya Sabha member, who sustained injuries in a shooting incident in Meegoda earlier today has succumbed to his injuries while receiving treatment at the hospital.
-
-A former Homagama Pradeshiya Sabha member has sustained injuries in a shooting incident in Meegoda, Police stated.
-
-◼️
-
-[Data](articles/62020c13.json)
-
----
-
-### Former Pradeshiya Sabha member dies in Meegoda shooting
-
-*2025-08-12 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111397/former-pradeshiya-sabha-member-dies-in-meegoda-shooting) · `en`
-
-(UPDATE): The former Homagama Pradeshiya Sabha member, who sustained injuries in a shooting incident in Meegoda earlier today has succumbed to his injuries while receiving treatment at the hospital.
-
-A former Homagama Pradeshiya Sabha member has sustained injuries in a shooting incident in Meegoda, Police stated.
-
-◼️
-
-[Data](articles/68b63538.json)
-
----
-
-### புனித யாத்திரிகர் தலமாக சபரிமலை அங்கிகாரம்
-
-*2025-08-12 13:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புனித-யாத்திரிகர்-தலமாக-சபரிமலை-அங்கிகாரம்/175-362766) · `ta`
-
-இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித யாத்திரிகர் தலமாக சபரிமலை வழிபாட்டுத் தலத்தைப் பிரகடனப்படுத்தல் மற்றும் வசதிகளை வழங்க ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையில் கூடிய அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
-
-புத்தசாசன, சமய மற்றும் கலாச்சார விவகாரங்கள் அமைச்சர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-இந்தியாவின் கேரளாவில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்திற்கு இலங்கையின் இந்து பக்தர்கள் ஒவ்வொரு ஆண்டும் நவம்பர் 01 ஆம் தொடக்கம் அடுத்த வருடத்தின் ஜனவரி மாதம் 31 ஆம் திகதி வரையான காலப்பகுதியில் சென்று தரிசிக்கின்றனர்.  இது நீண்டகாலமாக இடம்பெற்று வருகிறது.
-
-தற்போது ஆண்டுதோறும் 15,000 இற்கும் அதிகமான இலங்கையின் இந்து பக்தர்கள் கலந்து கொள்கின்ற தலயாத்திரை மையமாகவும் அமைந்துள்ளது.
-
-அதற்கமைய, இந்தியாவின் கேரளா மாநிலத்தில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்திற்கு இலங்கை இந்து யாத்திரிகர்களால் மேற்கொள்ளப்படுகின்ற வழிபாட்டு தரிசிப்பானது, இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித தலயாத்திரையாகப் பிரகடனப்படுத்துவதற்கு அங்கிகாரம் வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/26273c58.json)
-
----
-
-### Sri Lanka monetary policy balanced, space to cut on an external impact: CB Governor
-
-*2025-08-12 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-monetary-policy-balanced-space-to-cut-on-an-external-impact-cb-governor-235718/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s monetary policy is balanced but there was space to cut rates if there was an external shock, Central Bank Governor Nandalal Weerasinghe said referring to a possible impact from Trump tariffs.
-
-Sri Lanka had a policy rate of 7.75 percent which indicated a real interest rate of 2.75 percent considering the 5 percent inflation target.
-
-The central bank is expecting inflation to reach a 5 percent target next year, and growth was above the 3 percent projected by the International Monetary Fund and close to 5 percent, which indicated a ‘right balance’ in monetary policy, he said.
-
-“But what’s good about it is that if there’s going to be any impact out of this external event, we have a space in the monetary policy for us to support the local economy,” Governor Weerasinghe told a forum in Singapore organized by the Colombo Stock Exchange and Securities and Exchange Commission.
-
-“But without needing that support, pushing it through can create bubbles or burst cycles.”
-
-...
-
-[Data](articles/8416de0f.json)
-
----
-
-### வெளிநாட்டு சிகரெட்டுகளுடன் மூவர் கைது
-
-*2025-08-12 13:33:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-மூவர்-கைது/175-362765) · `ta`
-
-ரூ.169.50 மில்லியன் மதிப்புள்ள வெளிநாட்டு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்கு கொண்டு வந்த மூவரை  செவ்வாய்க்கிழமை (12) அன்று  கட்டுநாயக்க விமான நிலையத்தில் சுங்க அதிகாரிகள்  கைது செய்யப்பட்டனர்.
-
-கட்டுநாயக்க விமான நிலைய சுங்க அதிகாரிகள் இந்த விவகாரம் குறித்து மேலும் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/1737c0fc.json)
-
----
-
-### ராஜிதவுக்கு பிடியாணை
-
-*2025-08-12 13:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-பிடியாணை/175-362763) · `ta`
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு நடத்திய விசாரணையில் சந்தேகநபராகப் பெயரிடப்பட்டுள்ள முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த கொழும்பு நீதவான் நீதிமன்றம் இன்று (12) பிடியாணை பிறப்பித்துள்ளது.
-
-முன்னாள் அமைச்சர் வாக்குமூலம் பதிவு செய்வதைத் தவிர்த்து வருவதாகவும், அதன் மூலம் விசாரணைகளுக்கு இடையூறு விளைவிப்பதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் கொழும்பு மேலதிக நீதவான் பசன் அமரசேகர இந்த உத்தரவை பிறப்பித்தார்.
-
-◼️
-
-[Data](articles/1ee88272.json)
-
----
-
-### ராஜிதவுக்கு பிடியாணை
-
-*2025-08-12 13:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ராஜிதவுக்கு-பிடியாணை/150-362763) · `ta`
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு நடத்திய விசாரணையில் சந்தேகநபராகப் பெயரிடப்பட்டுள்ள முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த கொழும்பு நீதவான் நீதிமன்றம் இன்று (12) பிடியாணை பிறப்பித்துள்ளது.
-
-முன்னாள் அமைச்சர் வாக்குமூலம் பதிவு செய்வதைத் தவிர்த்து வருவதாகவும், அதன் மூலம் விசாரணைகளுக்கு இடையூறு விளைவிப்பதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் கொழும்பு மேலதிக நீதவான் பசன் அமரசேகர இந்த உத்தரவை பிறப்பித்தார்.
-
-◼️
-
-[Data](articles/5790518d.json)
-
----
-
-### பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான  பிரேரணை கையளிப்பு
-
-*2025-08-12 13:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பிரதி-அமைச்சருக்கு-எதிரான-பிரேரணை-கையளிப்பு/175-362762) · `ta`
-
-பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவுக்கு எதிராக எதிர்க்கட்சியினால் கொண்டு வரப்பட்ட நம்பிக்கையில்லாப் பிரேரணை சபாநாகரிடம் இன்று (12) நண்பகல் கையளிக்கப்பட்டது.
-
-◼️
-
-[Data](articles/f3d1f5d6.json)
-
----
-
-### ”16 வயசுல எனக்கு நடந்தது உங்களுக்குத் தெரியுமா?”
-
-*2025-08-12 13:13:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/16-வயசுல-எனக்கு-நடந்தது-உங்களுக்குத்-தெரியுமா/54-362761) · `ta`
-
-வெள்ளித்திரையில் காமெடி ரோலில் நடிக்கும் பெண்களை விரல்விட்டு எண்ணிவிடலாம். அதில் பிரியங்காவை தெரியாதவர்கள் இருக்க வாய்ப்பில்லை. அவரது வாழ்க்கையின் சோகமான பக்கத்தை பற்றி பேசியுள்ளார்.
-
-பல படங்களில் வடிவேலுவுடன் இணைந்து ஆல்டைம் பேவரைட் காமெடி சீன்களில் நடித்துள்ளார் இவர். அர்ஜூன் மற்றும் வடிவேலு கூட்டணியில் வந்த மருதமலை படத்தில் வடிவேலு காமெடி அனைத்தும் டிரேட்மார்ட் ஹைலைட்டாக இருக்கும்.
-
-அந்தப் படத்தின் வெற்றிக்கே காமெடி தான் முக்கிய காரணமாக இருந்தது. அந்தப் படத்தில் வரும் காமெடிகளில் குறிப்பிட்டு சொல்ல வேண்டும் என்றால், பொலிஸாக இருக்கும் வடிவேலுவிடம் பிரியாங்கா பிராது கொடுக்க வரும் காமெடி தான்.
-
-5 கணவர்களும் வரிசையாக வந்து பிரியங்காவின் கணவராக வடிவேலுவிடம் அறிமுகப்படுத்தி, ஒவ்வொருவரும் பிரியங்காவை தன்னுடன் அனுப்புமாறு கேட்பார்கள். கடைசியில் சீட்டு குலுக்கிப் போட்டு ஒரு கணவருடன் அனுப்பி வைப்பார்.
-
-அடுத்தது, காதல் கடிதம் படத்தில் ’கல்யாணம் தான் கட்டிக்கிட்டு ஓடிப்போலாமா’ என்ற ஈவ்டீசிங் காமெடியில் மாறுவேடத்தில் இருக்கும் பொலிஸாக நடித்திருந்தார்.
-
-...
-
-[Data](articles/0301c854.json)
-
----
-
-### නි.ඇමති අරුණ ජයසේකරට එරෙහි විශ්වාසභංගය කථානයකට භාර දෙයි
-
-*2025-08-12 13:12:45* · [`adalk`](https://www.ada.lk/breaking_news/නි-ඇමති-අරුණ-ජයසේකරට-එරෙහි-විශ්වාසභංගය-කථානයකට-භාර-දෙයි/11-417867) · `si`
-
-ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ගෙන එනු ලබන විශ්වාසභංග  යෝජනාව අද (12දා) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා වෙත භාර දී තිබේ.
-
-◼️
-
-[Data](articles/15962399.json)
-
----
-
-### නියෝජ්‍ය ආරක්ෂක ඇමතිට එරෙහි විශ්වාසභංගය කථානායකට භාර දෙයි
-
-*2025-08-12 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213290) · `si`
-
-ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජෙනරාල් අරුණ ජයසේකරට එරෙහි විපක්ෂයේ විශ්වාසභංග යෝජනාව කතානායකවරයාට අද භාර දී තිබේ.
-
-සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී කාවින්ද ජයවර්ධන මහතා පැවසුවේ පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරය සිදුවන කාලසීමාවේදී ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා නැගෙනහිර පළාත් ආඥාපති ලෙස කටයුතු කළ බවත් ඒ අනුව පාස්කු ප්‍රහාරය සම්බන්ධව සිදුකරන විමර්ශනවලට අදාළව ඔහු සිය අමාත්‍ය ධුරයේ කටයුතු කිරීම සදාචාරාත්මක නොවන බවය.
-
-ඒ අනුව ඔහුට විරුද්ධව විපක්ෂය විසින් විශ්වාසභංග යෝජනාවක් ගෙන එන බවද ඔහු පැවසීය.
-
-◼️
-
-[Data](articles/eab3eaae.json)
 
 ---

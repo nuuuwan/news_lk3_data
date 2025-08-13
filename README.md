@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 09:59:56**
+As of **2025-08-13 10:24:36**
 
 ## Newspaper Stats
 
-*Scraped **70,230** Articles*
+*Scraped **70,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,769
-adaderanalk | 8,753
+adaderanalk | 8,756
 tamilmirrorlk | 10,300
-virakesarilk | 11,699
-adaderanasinhalalk | 12,097
+virakesarilk | 11,700
+adaderanasinhalalk | 12,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,230 articles have been extended.
+61,973 (88.2%) of 70,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### செயற்கை நுண்ணறிவில் புரட்சியை ஏற்படுத்த நாம் அனைவரும் ஒன்றுபடுவோம் - டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன
+
+*2025-08-13 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222455) · `ta`
+
+செயற்கை நுண்ணறிவு ( AI ) வியடயத்தில் அரசாங்கம் ஏற்கனவே முன்னோக்கிச் செல்கின்றது. ஒவ்வொரு இலங்கையருக்கும் செயற்கை நுண்ணறிவு என்ற எமது இலக்கு சரியாக உள்ளது. டிஜிட்டல் மாற்றத்தில் எவரும் பின்னிற்க முடியாது. அதனை செயற்படுத்துவதற்கான நேரம் தற்போது சரியாகிவிட்டது.செயற்கை நுண்ணறிவில் ( AI ) புரட்சியை ஏற்படுத்த நாம் அனைவரும் ஒன்றுபடுவோம். இலங்கை அதனை ஏற்படுத்துவதற்கு தயார். இலங்கையர்களுக்கு அதற்கான தகுதி, படைப்பாற்றல், பிரித்தாளும் திறன் உள்ளது என்பதை நாம் நம்புகின்றேன் என டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன தெரிவித்தார்.
+
+டிஜிட்டல் பொருளாதார அமைச்சுடன் இணைந்து ஸ்ரீலங்கா மொபிட்டெல், இலங்கை தகவல் தொடர்பு தொழில்நுட்ப நிறுவனம் இணைந்து ஏற்பாடு செய்துள்ள தேசிய AI கண்காட்சி மற்றும் மாநாடு -2025 ( National AI Expo & Conference -2025 ) எதிர்வரும் செப்டெம்பர் மாதம் 29 மற்றும் 30 ஆம் திகதிகளில் கொழும்பில் இடம்பெறவுள்ள நிலையில் இது தொடர்பில் ஊடகவியலாளர்களுக்கு அறிவிக்கும் மாநாடு இலங்கை தகவல் தொடர்பு தொழில்நுட்ப நிறுவனத்தின் கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்றது.
+
+...
+
+[Data](articles/862e49f1.json)
+
+---
+
+### හද සසල කළ සීදුවේ ඝාතනය
+
+*2025-08-13 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213319) · `si`
+
+සීදූව පොලිස් වසමේ ඊරියගහළිඳ පාර ප්‍රදේශයේදී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+පිරිසක් විසින් ඊයේ (12) රාත්‍රියේ තියුණු ආයුධවලින් පහර දී  මෙම ඝාතනය සිදුකර ඇතැයි පොලීසිය පවසයි.
+
+පහර දීමෙන් තුවාල ලැබූ පුද්ගලයා බරපතළ තුවාල සහිතව මීගමුව රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මිය ගොස් තිබේ.
+
+අපරාධයට සම්බන්ධ සැකකරුවන් මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර සැකකරුවන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් සීදූව පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/8c68ad37.json)
+
+---
 
 ### රුසියානු යෝජනාව සෙලෙන්ස්කි ප්‍රතික්ෂේප කරයි
 
@@ -53,6 +85,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/55c3b534.json)
+
+---
+
+### Maduru Oya Helicopter Crash: Pilot claims he lost control of helicopter within 30 seconds of taking off
+
+*2025-08-13 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111421/maduru-oya-helicopter-crash-pilot-claims-he-lost-control-of-helicopter-within-30-seconds-of-taking-off-) · `en`
+
+The Bell 212 helicopter, piloted by Flight Lieutenant Paulen Jayawardena, lost control and crashed into the Maduru Oya Reservoir within 30 seconds of taking off from the Maduru Oya Army Special Forces Camp during a demonstration flight, the pilot testified before the Dehiattakandiya Magistrate’s Court.
+
+Flight Lieutenant Jayawardena made this statement while giving evidence at the inquiry into the crash, which claimed the lives of six military personnel—two from the Sri Lanka Air Force (SLAF) and four from the Sri Lanka Army Special Regiment.
+
+Court proceedings were presided over by Magistrate Priyantha Halyala, said Ada Derana reporter.
+
+The pilot stated that he believed the helicopter crashed through no fault of his own. He further indicated that a technical fault may have been the cause, although the exact reason for the incident has yet to be determined.
+
+...
+
+[Data](articles/34723737.json)
+
+---
+
+### AI camera systems to be installed in SLTB and private buses to reduce accidents
+
+*2025-08-13 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111420/ai-camera-systems-to-be-installed-in-sltb-and-private-buses-to-reduce-accidents) · `en`
+
+A total of 40 AI camera systems will be installed in both Sri Lanka Transport Board (SLTB) and private buses as part of a new project launched with the aim of minimizing accidents involving long-distance buses.
+
+This will be implemented as a pilot project with the involvement of the private sector, the Ministry of Transport Highways, Ports, and Civil Aviation said.
+
+According to the Ministry, AI camera systems will monitor driver behavior and take necessary actions to alert them.
+
+The new camera system is capable of detecting driver fatigue, drowsiness, and even eyelid closure.
+
+In addition, the system can monitor compliance with traffic laws and whether seat belts are being worn, and will issue alerts to drivers accordingly, the Transport Ministry said.
+
+The pilot phase of the project was officially launched at the Kataragama depot under the auspices of the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake.
+
+...
+
+[Data](articles/ca589228.json)
 
 ---
 
@@ -103,6 +175,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9531c37c.json)
+
+---
+
+### Floods affect over 1.7 million people in India’s Bihar
+
+*2025-08-13 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111419/floods-affect-over-17-million-people-in-indias-bihar) · `en`
+
+Over 1.7 million people were affected by the ongoing flooding in India’s eastern state of Bihar, officials said Tuesday.
+
+The floods have hit the state’s 10 districts, including the capital city of Patna.
+
+According to officials, the heavy rains have pushed up the water level of rivers in the state, resulting in the severe waterlogging of low-lying areas.
+
+◼️
+
+[Data](articles/b53f9e87.json)
 
 ---
 
@@ -1691,97 +1779,5 @@ He also holds a Bachelor of Business Administration in Human Resource Management
 ◼️
 
 [Data](articles/70093365.json)
-
----
-
-### Private sector urged to play key role in shaping an inclusive, equitable and peaceful SL
-
-*2025-08-12 15:39:00* · [`islandlk`](http://island.lk/private-sector-urged-to-play-key-role-in-shaping-an-inclusive-equitable-and-peaceful-sl/) · `en`
-
-At the grand finale of the DEI Champion Awards 2025, held last week at the City of Dreams in Colombo, the private sector was called upon to play a transformative role in shaping an inclusive, equitable and peaceful Sri Lanka. Organised by the Ceylon Chamber of Commerce in partnership with the SCOPE Programme — co-financed by the European Union and the German Federal Foreign Office — the awards recognised pioneering organisations championing diversity, equity and inclusion (DEI) across Sri Lanka’s business landscape.
-
-Chairperson of the Ceylon Chamber of Commerce, Krishan Balendra, delivering the keynote address, emphasised the broader significance of the evening.
-
-...
-
-[Data](articles/7bb4d2f6.json)
-
----
-
-### காசாவில் இடம்பெறும் யுத்தத்தின் முகமாக மில்லியன்கணக்கானவர்களிற்கு அனஸ் அல் ஷரீவ் மாறினார் - பின்னர் இஸ்ரேல் அவரை கொன்றது
-
-*2025-08-12 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222408) · `ta`
-
-காசாவில் யுத்த நிறுத்தம் நடைமுறைக்கு வந்தவேளை அனாஸ் அல் ஷரீவ் தொலைக்காட்சியில்  தனது பாதுகாப்பு சாதனங்களை அகற்ற தொடங்கினார்.மகிழ்ச்சியுடன் காணப்பட்ட மக்கள் ஆராவரித்தனர். அன்றைய நாளுடன் காசா பள்ளத்தாக்கில் உள்ள இரண்டு மில்லியன் மக்களின் துயரங்கள் முடிவிற்கு வந்துவிடும் என நம்பினார்கள்.
-
-இதற்கு ஏழு மாதங்களிற்கு பின்னர் காசா நகரத்தில் மேற்கொண்ட தாக்குதல் ஒன்றின் மூலம் இஸ்ரேல் அல்ஜசீரா ஊடகவியலாளரையும் அவரது சகாக்கள் நால்வரையும் கொலை செய்தது.
-
-காசாவில் அதிகம் அறியப்பட்ட ஊடகவியலாளர்களில் ஒருவர்இயுத்தத்தின் போது இஸ்ரேலால் கொல்லப்பட்ட பல பத்திரிகையாளர்களில் ஒருவர்.- அல் ஷரீவின் மரணம் சர்வதேச கண்டனங்களை மீண்டும் கிளறிவிட்டுள்ளதுடன் பொறுப்புக்கூறலிற்கான வேண்டுகோள்களும் வெளியாகியுள்ளன.
-
-இஸ்ரேல் காசாவிற்குள் சர்வதேச ஊடகங்கள் செல்வதற்கு தடைவிதித்திருந்த சூழ்நிலையில் மில்லியன் கணக்காண மக்களிற்கு காசாவின் கதையை தெரிவித்ததன் மூலம் 28 வயது அல் ஷரீவ் பிரபலமானவராக மாறினார்.
-
-...
-
-[Data](articles/d8286e35.json)
-
----
-
-### Sri Lanka to map its rubber plantations using GIS
-
-*2025-08-12 15:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-map-its-rubber-plantations-using-gis-235747/) · `en`
-
-ECONOMYNEXT – Sri Lanka will geo-locate rubber lands of small estate owners across the country and create a detailed database using Geographic Information System (GIS) technology, Minister Nalinda Jayatissa said.
-
-This is in response to the EU Deforestation Regulation (EUDR) that must be complied with when exporting rubber and rubber-related products to the bloc, a major market for Sri Lankan rubber, he said.
-
-“Sri Lanka will also have to comply with the new regulations after December 31, 2025 to ensure that rubber supply chains do not contribute to deforestation,” he told reporters.
-
-The project to create a digital system for mapping/registering rubber lands was approved by the cabinet.
-
-The EUDR policy is aimed at minimizing deforestation and forest degradation linked to agricultural commodities imported into the EU, and applies to commodities like wood, rubber, cattle, coffee, cocoa, palm oil, and soybean. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/7ea16100.json)
-
----
-
-### கஹவத்தை விபத்தில் 11 பேர் படுகாயம்
-
-*2025-08-12 15:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஹவத்தை-விபத்தில்-11-பேர்-படுகாயம்/76-362780) · `ta`
-
-கஹவத்தை, கெதெதென்ன பகுதியில், இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான  பேருந்தும், மரங்களை ஏற்றிச் சென்ற லாரியும் நேருக்கு நேர் மோதிக்கொண்டதில், 11 பயணிகள் காயமடைந்து, கஹவத்தை ஆரம்ப  மருத்துவமனையில் அனுமதிக்கப்பட்டனர்.
-
-இந்த விபத்து  இன்று (12) பிற்பகல் 1.30 மணியளவில் இடம்பெற்றுள்ளது என  கஹவத்தை பொலிஸ் தெரிவித்துள்ளது.
-
-கொழும்பிலிருந்து மொனராகலை நோக்கிச் சென்ற , இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான  பேருந்தும், மொனராகலையிலிருந்து கொழும்பு நோக்கிச் சென்ற மரங்களை ஏற்றிச் சென்ற லாரியும் நேருக்கு நேர் மோதிக்கொண்டன.
-
-விபத்துக்கான காரணம் லாரி ஓட்டுநரின் அலட்சியமே என்று பொலிஸ் கூறுகிறது. லாரி ஒரு வளைவில் மற்றொரு வாகனத்தை முந்திச் சென்று, முன்னால் வந்த பேருந்தில் மோதியதாக கஹவத்தை பொலிஸ் போக்குவரத்துப் பிரிவின் விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/599d591e.json)
-
----
-
-### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරියගේ නමට අනුමැතිය
-
-*2025-08-12 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213296) · `si`
-
-මෙරට 37 වැනි පොලිස්පතිවරයා ලෙස වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පත්කිරීමට ජනාධිපතිවරයා කළ නිර්දේශයට ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතිය හිමිවී තිබේ.
-
-ඒ, කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව අද (12) රැස්වූ අවස්ථාවේදී ය.
-
-අද පස්වරු 1.30ට ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව රැස් වූ අතර ඊට එම සභාව නියෝජනය කරන සිවිල් සාමාජිකයින් තිදෙනාද ඇතුළුව සියලු දෙනා එක්ව තිබේ.
-
-හිටපු පොලිස්පති දේශබන්ධු තෙන්නකෝන් එම ධුරයෙන් නෙරපා හැරීමේ යෝජනාව පාර්ලිමේන්තුවේදී සම්මත වීමෙන් පසු ජනාධිපති අනුර කුමාර දිසානායක විසින් වැඩබලන පොලිස්පතිවරයාගේ නම පොලිස්පතිධුරය සඳහා පසුගියදා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව වෙත නිර්දේශ කර තිබිණි.
-
-ජනාධිපතිවරයාගේ නිර්දේශය සලකා බැලීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව පසුගිය 7 වැනිදා රැස්වූ අතර ඝණ පූර්ණය සම්බන්ධයෙන් ඇති තතත්වයක් හේතුවෙන්  එහිදී අවසාන තීරණයක් ගැනීමට නොහැකි විය.
-
-ඒ අනුව 2023 නොවැම්බර් මාසයේ සිට වැඩබලන පොලිස්පතිවරයා ලෙස කටයුතු කළ ඔහු මෙම අනුමැතියෙන් පසුව නිල වශයෙන් එම තනතුර භාරගනු ඇත.
-
-...
-
-[Data](articles/af7a42b4.json)
 
 ---

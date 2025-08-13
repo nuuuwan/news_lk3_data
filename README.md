@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 23:18:36**
+As of **2025-08-13 23:32:10**
 
 ## Newspaper Stats
 
-*Scraped **70,368** Articles*
+*Scraped **70,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,788
 adaderanalk | 8,778
-tamilmirrorlk | 10,342
+tamilmirrorlk | 10,343
 virakesarilk | 11,720
 adaderanasinhalalk | 12,117
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,368 articles have been extended.
+61,973 (88.1%) of 70,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### துப்பாக்கிச் சூட்டில் ஒருவர் படுகாயம்
+
+*2025-08-13 23:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-படுகாயம்/175-362881) · `ta`
+
+ஹங்வெல்ல - பஹத்கம பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார். R
+
+◼️
+
+[Data](articles/a5a828ad.json)
+
+---
 
 ### ஹங்வெல்லவில் துப்பாக்கிச் சூடு!
 
@@ -1795,25 +1807,5 @@ The stock has been handed over to the Talaimannar Police for further legal actio
 ◼️
 
 [Data](articles/d9202bea.json)
-
----
-
-### Sri Lanka’s Haycarb net down 30-pct amid higher costs
-
-*2025-08-13 11:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-haycarb-net-down-30-pct-amid-higher-costs-235987/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Haycarb Plc, which also has overseas operations in Indonesia fell 30 percent to 517 million rupees in the June 2025 quarter amid higher costs, interim accounts show.
-
-Haycarb reported earnings of 1.74 rupees per share fro the June quarter.
-
-Revenues rose 36 percent to 13.6 billion rupees in the June 2025 quarter, and costs rose at a faster 51 percent to 11.01 billion rupees reducing gross profits 3 percent to 2.66 billion rupees.
-
-Haycarbs main product is coconut shell charcoal, which saw price spikes amid a crop shortfall.
-
-Net finance income was down 82 percent to 11.3 million rupees. (Colombo/Aug13/2025)
-
-◼️
-
-[Data](articles/1d6e5285.json)
 
 ---

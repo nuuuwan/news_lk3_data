@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 03:18:47**
+As of **2025-08-14 03:31:20**
 
 ## Newspaper Stats
 
-*Scraped **70,373** Articles*
+*Scraped **70,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 718
-economynextcom | 4,284
+economynextcom | 4,290
 islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,788
 adaderanalk | 8,778
-tamilmirrorlk | 10,344
+tamilmirrorlk | 10,345
 virakesarilk | 11,723
 adaderanasinhalalk | 12,117
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,373 articles have been extended.
+61,973 (88.1%) of 70,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ஏற்றுமதி அபிவிருத்தி அமைச்சர்கள் சபையின் கலந்துரையாடல்
+
+*2025-08-14 02:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதி-அபிவிருத்தி-அமைச்சர்கள்-சபையின்-கலந்துரையாடல்/175-362883) · `ta`
+
+ஏற்றுமதி அபிவிருத்தி அமைச்சர்கள் சபையின் இரண்டாவது கலந்துரையாடல் நேற்று முன்தினம்  (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் இடம்பெற்றது.
+
+கடந்த சபை அமர்வில் எடுக்கப்பட்ட தீர்மானங்களின் மீளாய்வு,  2030 ஆம் ஆண்டுக்குள் நாட்டின் ஏற்றுமதி வருமானத்தை 36 பில்லியன் டொலர்களாக அதிகரிப்பது என்ற அரசாங்கத்தின் இலக்கை அடைவதில் எழுந்துள்ள சவால்கள் மற்றும் அதற்கான தீர்வுகள் குறித்தும், அது தொடர்பான முன்மொழிவுகள் குறித்தும் இங்கு விரிவாக கலந்துரையாடப்பட்டன.
+
+...
+
+[Data](articles/48a54689.json)
+
+---
 
 ### கடிதம் தந்தால் ஹர்த்தால் தொடர்பில் தீர்மானிப்போம் -  ம.மயூரதன்
 
@@ -100,6 +114,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-13 (Wednesday)
 
+### Sri Lanka’s Hatton National Bank profits up 37-pct in June
+
+*2025-08-13 23:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-profits-up-37-pct-in-june-236153/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent to 11.74 billion rupees, helped by loan loss rupees and profit on rupee depreciation, despite a fall in net interest income, interim accounts show.
+
+HNB group reported earnings of 20.54 rupees for the quarter. In the six months to June HNB reported earnings of 39.25 rupees on total profits of 22.4 billion rupees, which grew 42 percent.
+
+Net fee income and commission income grew 20 percent to 5.7 billion rupees with card use and digital transactions contributing, the bank said.
+
+Rupee depreciation had helped boost forex income to 2.8 billion rupees in the half year.
+
+At standalone bank level, net interest income fell 8 percent to 50.1 billion rupees in the June quarter with interest income falling 8 percent to 50.1 billion rupees and interest expenses also falling 8 percent to 28.2 billion rupees.
+
+...
+
+[Data](articles/9e416d65.json)
+
+---
+
 ### துப்பாக்கிச் சூட்டில் ஒருவர் படுகாயம்
 
 *2025-08-13 23:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-படுகாயம்/175-362881) · `ta`
@@ -121,6 +155,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8506aff4.json)
+
+---
+
+### Sri Lanka sells more 12-month bills, yields flat
+
+*2025-08-13 22:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-more-12-month-bills-yields-flat-236017/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold all 103.5 billion rupees of bills offered at Wednesday’s auction, with a larger volume of 12-month bills sold, data from the state debt office showed.
+
+5.3 billion rupees of 3-monthbills were sold after offering 40 billion, at 7.60 percent, down 1 basis point.
+
+41.46 billion rupees of 6-month bills were sold after offering 33.5 billion rupees at 7.9 percent, down 1 basis point.
+
+56.7 billion rupees of 12-month bills were sold after offering 30 billion at 8.03 percent, unchanged. (Colombo/Aug13/2025)
+
+◼️
+
+[Data](articles/13983df2.json)
 
 ---
 
@@ -710,6 +762,28 @@ Following the shooting, police acted swiftly, setting up roadblocks and inspecti
 
 ---
 
+### Sri Lanka president to visit Japan, New York next month: Sources
+
+*2025-08-13 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-japan-new-york-next-month-sources-236141/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake will make an official visit to Japan during the first week of September and to the United States during the latter part of the same month, government officials said.
+
+President Dissanayake will discuss bilateral relations and economic ties with Japan during his visit while he will be attending the 80th session of the United Nations’ General Assembly (UNGA) in New York when he visits the U.S., sources said.
+
+He will address the UN session in New York on September 24, one of the sources told EconomyNext.
+
+President Dissanayake’s Japan visit will be his seventh official foreign visit after India, China, the United Arab Emirates, Vietnam, Germany, and Maldives.
+
+A Sri Lankan Foreign Ministry official confirmed the initial preparation for the president’s visit.
+
+Under Dissanayake, Sri Lanka has taken steps to strengthen its longstanding diplomatic ties with Japan, a key development and investment partner.
+
+...
+
+[Data](articles/9b631884.json)
+
+---
+
 ### සඳුදා කෞතුකාගාර වැසෙයි, විවෘතව තබන වේලාවේ වෙනසක්
 
 *2025-08-13 17:23:58* · [`adalk`](https://www.ada.lk/breaking_news/සඳුදා-කෞතුකාගාර-වැසෙයි--විවෘතව-තබන-වේලාවේ-වෙනසක්/11-417896) · `si`
@@ -801,6 +875,30 @@ The first workshop was recently held for staff officers of the Presidential Secr
 ...
 
 [Data](articles/2f068be5.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-08-13 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-236098/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.82/92 to the US dollar in the spot market Wednesday, stronger from 300.95/301.05 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.85/97 percent, up from 8.85/95 percent.
+
+A bond maturing on 15.12.2029 closed at 9.36/40 percent, down from 9.38/40 percent.
+
+A bond maturing on 15.12.2032 closed at 10.20/24 percent, down from 10.22/25 percent.
+
+A bond maturing on 15.09.2034 closed at 10.74/85 percent, down from 10.75/85 percent. (Colombo/Aug13/2025)
+
+◼️
+
+[Data](articles/4477f64f.json)
 
 ---
 
@@ -899,6 +997,42 @@ The first workshop was recently held for staff officers of the Presidential Secr
 ...
 
 [Data](articles/b99a8fad.json)
+
+---
+
+### Sri Lanka stocks close flat, S&P SL20 dips
+
+*2025-08-13 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-flat-sp-sl20-dips-236069/) · `en`
+
+ECONOMYNEXT – The Colombo Stocks Exchange’s All Share Price Index (ASPI) closed flat after a highly volatile session, data showed.
+
+The ASPI marginally rose 2.71 points higher from Tuesday to 19,975.50; while the S&P SL20 index dipped 0.19 percent, or 10.92 points, to close at 5,815.64.
+
+The ASPI was pushed higher on Ceylon Tobacco Holdings which ended 45.00 rupees stronger at 1,600; Dialog Axiata which rose 0.90 cents to 21.40 rupees; HNB which ended 3 rupees up at 379; Digital Mobility Solutions Lanka which moved 7.65 rupees up to 105.75; and Chevron Lubricants Lanka which closed 3.75 rupees higher at 175.75.
+
+Sri Lanka’s Ceylon Tobacco Company said sales volumes recovered to 490 million sticks in the June 2025 quarter from 476 million in the previous year, and profits rose 2 percent to 7.3 billion rupees.
+
+Meanwhile, Profits at Sri Lanka’s Haycarb Plc fell 30 percent to 517 million rupees in the June 2025 quarter amid higher costs, interim accounts showed.
+
+...
+
+[Data](articles/36145f88.json)
+
+---
+
+### Sri Lanka’s EDCM focuses on entering into new tariff deal in exports
+
+*2025-08-13 16:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-edcm-focuses-on-entering-into-new-tariff-deal-in-exports-236100/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Export Development Council of Ministers (EDCM) discussed entering into new tariff agreements and matters related to tariff structures among many other measures in achieving the government’s export target of USD 36 billion by 2030, President Media Division (PMD) said.
+
+Sri Lanka has set an ambitious target of USD 36 billion in 2030 from last year’s USD 16.17 billion. This includes both merchandise and service exports from the island nation.
+
+The PMD said the President’s attention was drawn to several vital aspects related to the development of the export sector, including the advancement of the gem and jewellery industry, the installation of a new scanning machine to improve customs efficiency, and the pharmaceutical export industry, the PMD said in a statement.
+
+...
+
+[Data](articles/79d3f196.json)
 
 ---
 
@@ -1669,133 +1803,5 @@ However, opposition political representatives emphasized that the purpose of thi
 ◼️
 
 [Data](articles/e06d72aa.json)
-
----
-
-### கொழும்பு மாணவி தங்காலை கடலுக்கு பலி
-
-*2025-08-13 12:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாணவி-தங்காலை-கடலுக்கு-பலி/175-362832) · `ta`
-
-தங்காலையில் உள்ள மடிலா கடற்கரையில்   நடந்து சென்று கொண்டிருந்த ஆறு வயது சிறுமி பலத்த அலைகளில் அடித்துச் செல்லப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-தங்காலை காவல்துறையினரின் கூற்றுப்படி, தங்காலையைச் சேர்ந்த குழந்தையின் குடும்பத்தினர் சுற்றுலா சென்று உள்ளூர் விருந்தினர் மாளிகையில் தங்கியிருந்தனர். இன்று (13) கடற்கரையில் நடந்து சென்று கொண்டிருந்தபோது இந்த சோகம் நிகழ்ந்தது.
-
-கொழும்பில் உள்ள ஒரு முன்னணி பெண்கள் பாடசாலையின் மாணவியே இவ்வாறு கடலுக்கு பலியாகியுள்ளார்.
-
-◼️
-
-[Data](articles/d564fdfc.json)
-
----
-
-### உயிரிழந்த மனைவியின் உடலை பைக்கில் எடுத்துச் சென்ற கணவர்
-
-*2025-08-13 11:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-மனைவியின்-உடலை-பைக்கில்-எடுத்துச்-சென்ற-கணவர்/175-362831) · `ta`
-
-விபத்தில் உயிரிழந்த தனது மனைவியின் உடலை மோட்டார் சைக்கிளில் அவருடைய கணவர் எடுத்துச் சென்ற சோகமான சம்பவமொன்று இடம்பெற்றுள்ளது.
-
-மத்​தி​யபிரதேச மாநிலத்​தின் சியோனி மாவட்​டம், கரன்​பூர் என்ற கிராமத்தை சேர்ந்​தவர் அமித் யாதவ் (35). இவர் கடந்த வெள்​ளிக்​கிழமை (08)  தனது மனைவி கயார்சி உடன், மகா​ராஷ்டிர மாநிலம் நாக்​பூரில் இருந்து மோட்​டார் சைக்​கிளில் சொந்த ஊருக்​குப் புறப்​பட்​டார்.
-
-ஜபல்​பூர் தேசிய நெடுஞ்​சாலை​யில் நாக்​பூரின் லோனாரா அரு​கில் செல்​லும்​போது இவர்​களின் பைக் மீது ஒரு லாரி உரசி​யது. இதில் சாலை​யில் விழுந்த கயார்சி, லாரி​யின் சக்​கரத்​தில் சிக்கி பரி​தாப​மாக உயி​ரிழந்​தார். விபத்​துக்கு பிறகு லாரியை நிறுத்​தாமல் டிரைவர் தப்​பிச் சென்று விட்​டார்.
-
-எதிர்​பா​ராத விபத்​தால் செய்​வதறி​யாது தவித்த அமித் அவ்​வழியே செல்​லும் வாக​னங்​களிடம் உதவி கோரி​னார். ஆனால் யாரும் அவருக்கு உதவ முன்​வர​வில்​லை. இதையடுத்து அவர் தனது மனை​வி​யின் உடலை மோட்​டார் சைக்​கிளின் பின் இருக்​கை​யில் வைத்து கட்​டிக்​கொண்டு சொந்த ஊருக்​குப் புறப்​பட்​டார்.
-
-...
-
-[Data](articles/23bfad65.json)
-
----
-
-### ජපන් රැකියා සිහිනය පෙන්වා මුදල් ගැරූ ගල්කිස්සේ කත පලා ගිහින්
-
-*2025-08-13 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213324) · `si`
-
-ජපානයේ රැකියා සඳහා යවන බව පවසමින් මුදල් වංචා කළ කාන්තාවක් පිළිබඳ තොරතුරු ගල්කිස්ස ප්‍රදේශයෙන් වාර්තා වේ.
-
-වසර දෙකක කාලයකට Work Visa ලබාදෙන බව පවසමින් මෙම කාන්තාව ගනුදෙනුකරුවන්ගෙන් මුදල් වංචා කර ඇති බවට පොලීසියට පැමිණිලි ද ලැබී තිබේ.
-
-ඒ අනුව ගම්පොළ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු 2023 වසරේ නොවැම්බර් මස 14 වන දින අදාළ කාන්තාවට රුපියල් ලක්ෂ 5ක මුදලක් මුලික ගෙවීම් ලෙස සිදුකර ඇත.
-
-මේ වන තෙක් අදාළ කාන්තාව එම මුදල් ආපසු ලබාදීමට හෝ ජපාන රැකියා සඳහා යොමුකිරීම කටයුතු කර නොමැති හෙයින් අදාළ කාන්තාවට එරෙහිව ගල්කිස්ස පොලීසියේ පැමිණිල්ලක් ගොනුකර තිබේ.
-
-කෙසේවෙතත් අදාළ කාන්තාව විසින් මෙලෙස පුද්ගලයින් කිහිපදෙනෙකුටම වංචා කර ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
-
-මේ අතර අද දෙරණ කළ විමසීමක දී ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කළේ, තම කාර්යාංශයේ ලියාපදිංචි නොවී සිදුකරන මෙවැනි මුදල් ඉපැයිම් නීතියෙන් දඬුවම් හිමිවන වරදක් බවය.
-
-◼️
-
-[Data](articles/c732bc85.json)
-
----
-
-### பல விடயங்களுக்கு தீர்வு கோரி மட்டக்களப்பில் ஆர்ப்பாட்டம்
-
-*2025-08-13 11:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பல-விடயங்களுக்கு-தீர்வு-கோரி-மட்டக்களப்பில்-ஆர்ப்பாட்டம்/73-362830) · `ta`
-
-பொதுமக்கள் பாதுகாப்பு பிரதி அமைச்சர் ஆனந்த விஜயபாலவின் மட்டக்களப்பு மாவட்டத்திற்கான விஜயத்தை முன்னிட்டு மட்டக்களப்பு காந்தி பூங்கா முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டமொன்று புதன்கிழமை (13) அன்று முன்னெடுக்கப்பட்டது.
-
-செம்மணி புதைகுழி , முல்லைத்தீவு மற்றும் சட்டவிரோத சமூக செயற்பாடுகளுக்கு நீதி கோரும் அகிம்சை வழி ஆர்ப்பாட்டமாக இது இடம்பெற்றது.
-
-வடக்கு, கிழக்கில் இருந்து இராணுவம் வெளியேற்றப்பட வேண்டும், பொதுமக்களுக்கு சொந்தமான காணிகள் பொதுக் கட்டிடங்கள் விடுவிக்கப்பட வேண்டும், செம்மணி புதைகுழி தொடர்பான நீதியான விசாரணை வேண்டும், முல்லைத்தீவு கபில்ராஜ் என்ற இளைஞனுக்கு நீதி வேண்டும் போன்ற கோரிக்கைகளை முன்வைத்து கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
-
-இலங்கைத் தமிழரசுக் கட்சியின் ஏற்பாட்டில் நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் பாராளுமன்ற உறுப்பினர்களான இரா.சாணக்கியன், ஞா.சிறிநேசன், வைத்தியர் இ.சிறிநாத், மட்டக்களப்பு மாநகர சபை மேயர் சிவம் பாக்கியநாதன், பிரதேச சபைகளின் தவிசாளர்கள், உறுப்பினர்கள் சிவில் செயற்பாட்டாளர்கள், கட்சி உறுப்பினர்கள் என பலரும் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/1167cbb5.json)
-
----
-
-### மட்டக்களப்பில் ஆர்ப்பாட்டம்...
-
-*2025-08-13 11:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-ஆர்ப்பாட்டம்/73-362830) · `ta`
-
-பொதுமக்கள் பாதுகாப்பு பிரதி அமைச்சர் ஆனந்த விஜயபாலவின் மட்டக்களப்பு மாவட்டத்திற்கான விஜயத்தை முன்னிட்டு மட்டக்களப்பு காந்தி பூங்கா முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டமொன்று புதன்கிழமை (13) அன்று முன்னெடுக்கப்பட்டது.
-
-செம்மணி புதைகுழி , முல்லைத்தீவு மற்றும் சட்டவிரோத சமூக செயற்பாடுகளுக்கு நீதி கோரும் அகிம்சை வழி ஆர்ப்பாட்டமாக இது இடம்பெற்றது.
-
-வடக்கு, கிழக்கில் இருந்து இராணுவம் வெளியேற்றப்பட வேண்டும், பொதுமக்களுக்கு சொந்தமான காணிகள் பொதுக் கட்டிடங்கள் விடுவிக்கப்பட வேண்டும், செம்மணி புதைகுழி தொடர்பான நீதியான விசாரணை வேண்டும், முல்லைத்தீவு கபில்ராஜ் என்ற இளைஞனுக்கு நீதி வேண்டும் போன்ற கோரிக்கைகளை முன்வைத்து கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
-
-இலங்கைத் தமிழரசுக் கட்சியின் ஏற்பாட்டில் நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் பாராளுமன்ற உறுப்பினர்களான இரா.சாணக்கியன், ஞா.சிறிநேசன், வைத்தியர் இ.சிறிநாத், மட்டக்களப்பு மாநகர சபை மேயர் சிவம் பாக்கியநாதன், பிரதேச சபைகளின் தவிசாளர்கள், உறுப்பினர்கள் சிவில் செயற்பாட்டாளர்கள், கட்சி உறுப்பினர்கள் என பலரும் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/4457342f.json)
-
----
-
-### இலங்கையில் கஞ்சா பயிரிட அனுமதி
-
-*2025-08-13 11:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கஞ்சா-பயிரிட-அனுமதி/175-362829) · `ta`
-
-கடுமையான நிபந்தனைகளின் கீழ், இலங்கையில் முதல் முறையாக சட்டப்பூர்வமாக கஞ்சா பயிரிட ஏழு வெளிநாட்டு முதலீட்டாளர்களுக்கு அரசாங்கம் அனுமதி வழங்கியுள்ளது என்று ஆயுர்வேதத் துறையின் முன்னாள் ஆணையாளர் நாயகம் தம்மிக அபேகுணவர்தன தெரிவித்தார்.
-
-இலங்கை முதலீட்டு சபையின் (BoI) கீழ் ஒரு திட்டமாக இந்த ஒப்புதல் வழங்கப்பட்டுள்ளது.
-
-கஞ்சா பயிர்ச்செய்கை திட்டத்திற்காக 37 விண்ணப்பதாரர்களில் இருந்து இந்த ஏழு வெளிநாட்டு முதலீட்டாளர்கள் தேர்ந்தெடுக்கப்பட்டனர், மேலும் BoI அவர்களுக்கு சட்டப்பூர்வ அனுமதியை வழங்கியுள்ளது.
-
-முதல் கட்டத்தில், ஒவ்வொரு முதலீட்டாளருக்கும் ஆறு மாதங்களுக்கு தற்காலிக உரிமம் வழங்கப்பட்டுள்ளது, முன்னேற்ற அறிக்கைகளின் அடிப்படையில் பயிர்ச்செய்கை காலத்தை நீட்டிக்க அரசாங்கம் திட்டமிட்டுள்ளது.
-
-ஒரு நிபந்தனையாக, ஒவ்வொரு முதலீட்டாளரும் இலங்கை மத்திய வங்கியில் 2 மில்லியன் அமெரிக்க டொலர் பத்திரத்தை உத்தரவாதமாக வைப்பிலிட வேண்டும். இந்த திட்டத்தின் மேற்பார்வை அதிகாரியாக செயல்படும் வைத்தியர் அபேகுணவர்தன, பயிர்ச்செய்கை முயற்சியைத் தொடங்க தேவையான குறைந்தபட்ச முதலீடு 5 மில்லியன் அமெரிக்க டொலர்கள் என்று கூறினார்.
-
-...
-
-[Data](articles/0f71a843.json)
-
----
-
-### நாளை 10 மணித்தியால நீர் விநியோகத்தடை
-
-*2025-08-13 11:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-10-மணித்தியால-நீர்-விநியோகத்தடை/175-362828) · `ta`
-
-கம்பஹா மாவட்டத்தின் பல பகுதிகளில் நாளை 10 மணித்தியால நீர் விநியோகத்தடை அமுலாக்கப்படவுள்ளதாகத் தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
-
-நாளை காலை 10 மணி முதல் இரவு 8 மணி வரை இந்த நீர் விநியோகத் தடை அமுலாக்கப்படும் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-இதன் படி, நிட்டம்புவ, கந்தஹேன, மாபாகொல்ல, கஸ்தெனிய, பின்னகொல்லவத்த, கொலவத்த, கொரக்கதெனிய, ரன்பொகுனுகம, ரன்பொகுனுகம வீடமைப்புத் திட்டம், படலீய, அத்தனகல்ல, பஸ்யால, ஊருபொல, திக்கந்த, மீவிட்டிகம்மான, பாஇம்புல, மடலான, பக்கல்ல, அலவல, கலல்பிட்டிய மற்றும் எலமுல்ல ஆகிய பிரதேசங்களில் இந்த நீர் விநியோகத் தடை ஏற்படுத்தப்படவுள்ளது. R
-
-◼️
-
-[Data](articles/4cded716.json)
 
 ---

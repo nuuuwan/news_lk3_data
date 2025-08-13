@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 10:36:57**
+As of **2025-08-13 10:50:37**
 
 ## Newspaper Stats
 
-*Scraped **70,238** Articles*
+*Scraped **70,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ dailyftlk | 4,938
 adalk | 6,770
 adaderanalk | 8,756
 tamilmirrorlk | 10,302
-virakesarilk | 11,700
+virakesarilk | 11,703
 adaderanasinhalalk | 12,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,238 articles have been extended.
+61,973 (88.2%) of 70,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### வட, கிழக்கு ஹர்த்தால் அழைப்பு திங்கட்கிழமைக்குப் பிற்போடப்பட்டது
+
+*2025-08-13 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222453) · `ta`
+
+வட, கிழக்கு மாகாணங்களில் ஹர்த்தால் அனுட்டிப்பதற்குத் தீர்மானிக்கப்பட்டிருந்த எதிர்வரும் வெள்ளிக்கிழமையன்று மன்னார் மடுமாதா தேவாலய திருவிழா நிகழ்வு நடைபெறவிருப்பதனால், மன்னார் மறைமாவட்டக் குரு முதல்வருடனான ஆலோசனையின் பின்னர், நல்லூர் முருகன் ஆலயத் திருவிழா நிகழ்வுகளையும் அனுசரித்து எதிர்வரும் திங்கட்கிழமையன்று (18) ஹர்த்தால் தினத்தை அனுட்டிப்பதற்குத் தீர்மானிக்கப்பட்டிருப்பதாக இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் அறிவித்துள்ளார்.
+
+வட, கிழக்கு மாகாணங்களில் தொடரும் அதிகளவிலான இராணுவப் பிரசன்னத்துக்கு எதிர்ப்பை வெளிப்படுத்தி எதிர்வரும் வெள்ளிக்கிழமையன்று (15) அவ்விரு மாகாணங்களும் முழுமையாக முடங்கும் வகையில் ஹர்த்தால் அனுட்டிக்கவேண்டும் என இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் கடந்த ஞாயிற்றுக்கிழமை சகல தரப்பினருக்கும் அழைப்புவிடுத்திருந்தார்.
+
+அவ்வழைப்புக்கு தாமும் ஆதரவளிப்பதாக தமிழ் முற்போக்குக்கூட்டணி மற்றும் இலங்கைத் தொழிலாளர் காங்கிரஸ் என்பன அறிவித்திருந்தன.
+
+...
+
+[Data](articles/e9f88c08.json)
+
+---
+
+### விபத்துக்களை குறைப்பதற்கு ஏஐ கமரா
+
+*2025-08-13 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/222452) · `ta`
+
+தொலைதூர பஸ்களில் ஏற்படும் விபத்துக்களைக் குறைக்கும் நோக்கில் புதிய திட்டம் ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
+
+தனியார் துறையின் பங்களிப்புடன் ஒரு முன்னோடித் திட்டமாக இந்த திட்டம் செயல்படுத்தப்படும் என போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
+
+அதன்படி, அரச மற்றும்  தனியார் பஸ்களில் 40 ஏஐ கமரா  (AI camera) அமைப்புகள்  பொறுத்தப்படவுள்ளன. இந்த கமரா சாரதியின் நடத்தையைக் கண்காணித்து, சாரதியை எச்சரிக்க தேவையான நடவடிக்கைகளை எடுக்கும். புதிய கமரா அமைப்பு சாரதி சோர்வடைவதையும், நித்திரை கொள்வதையும் கண்டறியும் திறன் கொண்டது எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f0628a26.json)
+
+---
+
+### கடந்த வருடம் முழுவதும் இலங்கையில்  அரசாங்கமும் அதன் முகவர்களும் தன்னிச்சையான அல்லது சட்டவிரோதமான படுகொலைகளில் ஈடுபட்டனர்- அமெரிக்க இராஜாங்க திணைக்களம்
+
+*2025-08-13 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222458) · `ta`
+
+கடந்த வருடம் முழுவதும் இலங்கையில்  அரசாங்கமும் அதன் முகவர்களும் தன்னிச்சையான அல்லது சட்டவிரோதமான படுகொலைகளில் ஈடுபட்டனர் என அமெரிக்காவின் இராஜாங்க திணைக்கம் தெரிவித்துள்ளது.
+
+2024 ம் ஆண்டு சர்வதேச அளவில் காணப்பட்ட மனித உரிமை நிலவரம் குறித்த அறிக்கையை அமெரிக்க இராஜாங்க திணைக்களம் வெளியிட்டுள்ளது.
+
+அதில் இலங்கை நிலவரம் குறித்த அறிக்கையில் சட்டவிரோத படுகொலைகள் குறித்து தெரிவித்துள்ள அமெரிக்க இராஜாங்க திணைக்களம் மேலும் தெரிவித்துள்ளதாவது.
+
+கடந்த வருடம் முழுவதும் அரசாங்கமும் அதன் முகவர்களும் தன்னிச்சையான அல்லது சட்டவிரோதமான படுகொலைகளில் ஈடுபட்டதாக தகவல்கள் வெளியாகியிருந்தன.
+
+பொலிஸாரின் பிடியிலிருந்தவேளை பலர் கொல்லப்பட்டனர். விசாரணைகளிற்காக சந்தேகநபர்களை குற்றம் இடம்பெற்ற இடத்திற்கு பொலிஸார் கொண்டுசென்றவேளையிலேயே பல சம்பவங்கள் இடம்பெற்றன.
+
+விசாரணைகளின் போது சந்தேகநபர்கள் தங்களை தாக்கினார்கள் அல்லது தப்பியோட முயன்றனர் என பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/04ed7304.json)
+
+---
 
 ### மகனுக்கு விந்தணு குறைபாடு: மருமகளை கர்ப்பமாக்க   மாமனார் பலாத்காரம்
 
@@ -1725,65 +1779,5 @@ The most active volumes were recorded from banks and diversified financials, he 
 ◼️
 
 [Data](articles/c7f633b0.json)
-
----
-
-### EU leaders say Ukraine should have freedom to decide its future
-
-*2025-08-12 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111405/eu-leaders-say-ukraine-should-have-freedom-to-decide-its-future) · `en`
-
-Ukrainians must have the freedom to decide their own future, European Union member states said on Tuesday, weighing in ahead of talks between U.S. President Donald Trump and Russian President Vladimir Putin, opens new tab on Friday.
-
-European leaders and Ukrainian President Volodymyr Zelenskiy plan to speak with Trump on Wednesday, before the summit in Alaska, amid fears that Washington, hitherto Ukraine’s leading arms supplier, may dictate unfavourable peace terms to Kyiv.
-
-“Meaningful negotiations can only take place in the context of a ceasefire or reduction of hostilities,” the leaders of all EU countries except Hungary said in a joint statement, adding: “We share the conviction that a diplomatic solution must protect Ukraine’s and Europe’s vital security interests.”
-
-...
-
-[Data](articles/c41a3962.json)
-
----
-
-### Sri Lanka to seek consultant to study floating solar farm feasibility
-
-*2025-08-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-to-call-floating-solar-power-consultancy-235754/) · `en`
-
-ECONOMYNEXT – Sri Lanka cabinet has approved a proposal for a consultancy firm to develop floating solar power plants in the island nation to reach its 70 percent carbon neutral target by 2030, Cabinet Spokesman Nalinda Jayatissa said.
-
-The consultant will help conduct feasibility and pre-feasibility studies on potential floating solar plant sites.
-
-The ruling National People’s Power government has aimed to be totally carbon neutral in 2050, ten years later than the previous administration’s goal.
-
-Related: Sri Lanka to start flora spatial mapping, eyes carbon credit trading
-
-The government’s Renewable Energy Resources Development Plan 2026 – 2030 has identified promising reservoirs with 3,000 megawatt estimated floating solar power based on the 10 percent median surface utilization, Cabinet Spokesman and Minister of Health and Media Jayatissa said.
-
-...
-
-[Data](articles/a1a82a1c.json)
-
----
-
-### පුංචි දියණියට මරු කැඳවූ රිය අනතුර
-
-*2025-08-12 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213297) · `si`
-
-සීගිරියම දිගම්පතහා මාර්ගයේ යතුරුපැදියක් හා මෝටර් රථයක් ගැටී සිදු වූ අනතුරින් එහි ගමන්ගත් වයස අවුරුදු තුන හමාරක් වූ සිඟිති දියණියකින් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මියගොස් ඇත්තේ දඹුල්ල සියඹලාගස්වැව ප්‍රදේශයේ පදිංචි සසිත්මි නෙහන්සා අළුවිහාරේ නම් වූ දැරියකි.
-
-යතුරුපැදිය පැදවූ මිය ගිය දියණියගේ පියා ඇයව ඉදිරි පස කොටසේ තබාගෙන ධාවනය කර ඇති අතර මෝටර් රථයක පිටුපස යතුරුපැදිය ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
-
-යතුරුපැදිය මෝටර් රථයේ ගැටීමත් සමඟ ඉදිරියේ සිටි දියණිය මාර්ගයෙන් ඉවතට විසි වී ඇතැයි මූලික පරීක්ෂණවලදී හෙළි වී තිබේ.
-
-සිද්ධිය සම්බන්ධයෙන් මෝටර් රථ රියැදුරු හා මෝටර් රථය පොලිස් භාරයට ගත් බව සීගිරිය පොලිසිය පැවසුවේය.
-
-දියණියගේ මව සීගිරිය ප්‍රදේශයේ සංචාරක හෝටලයක සේවය කරන බවත් ඇය වැඩ අවසන් කර නිවෙසට කැඳවාගෙන ඒම සඳහා ගිය අවස්ථාවේ මෙම අනතුරට මුහුණ දී ඇති බවත් සඳහන් වේ.
-
-කෙසේ වෙතත් ඔහු සඳහන් කළේ තමන් දියණිය සමඟ යතුරුපැදියෙන් ගමන් කරමින් සිටිය දී ඉදිරියෙන් ගමන් ගත් මෝටර් රථය එකවර ප්‍රධාන මාර්ගයේ නැවතීමත් සමඟ තමාට යතුරුපැදිය පාලනය කර ගැනීමට නොහැකිව මෝටර් රථයේ ගැටුණු බවය.
-
-◼️
-
-[Data](articles/efb09d01.json)
 
 ---

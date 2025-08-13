@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 19:38:15**
+As of **2025-08-13 19:50:38**
 
 ## Newspaper Stats
 
-*Scraped **70,346** Articles*
+*Scraped **70,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,785
-adaderanalk | 8,773
+adaderanalk | 8,775
 tamilmirrorlk | 10,338
-virakesarilk | 11,713
+virakesarilk | 11,715
 adaderanasinhalalk | 12,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,346 articles have been extended.
+61,973 (88.1%) of 70,350 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f6bfb135.json)
+
+---
+
+### பிள்ளையான் செய்ததாக சந்தேகிக்கப்படும் கொலைகளுக்கு துப்பாக்கி சூடு நடாத்திய முக்கிய சகா காத்தான்குடியில் கைது
+
+*2025-08-13 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/222525) · `ta`
+
+பிள்ளையான் என்ற முன்னாள் இராஜாங்க அமைச்சர் சி.சந்திரகாந்தன் செய்யப்பட்டதாக சந்தேகிக்கப்படும் கொலைகளில் முக்கிய துப்பாக்கி சூடு நடாத்திய பிள்ளையானின் சகாவான முகமட் ஷாகித் என்பவரை மட்டக்களப்பு காத்தான்குடியில் அவரது வீட்டில் வைத்து புதன்கிழமை (13) மாலை சிஜடி யினர் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கிழக்கு பல்கலைக்கழக முன்னாள் உபவேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத்  கடத்தப்படு காணாமல் போன சம்பவங்கள் தொடர்பில் சந்தேகத்தின் அடிப்படையில் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவரும் முன்னாள் இராஜாங்க அமைச்சருமான பிள்ளையான் என அழைக்கப்படும் சி.சந்திரகாந்தனை கொழும்பு குற்ற விசாரணைப் பிரிவு (சிஜடி) யினர் மட்டக்களப்பில் உள்ள அவரது காரியாலயத்தில் வைத்து  கடந்த ஏப்பிரல் 7ம் திகதி சிஜடி யினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/432bff45.json)
 
 ---
 
@@ -110,6 +124,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### முத்தையன்கட்டு சம்பவம் : தவறு செய்தால் யார் என்றாலும் அவர்களை நீதியின் முன் நிறுத்துவது எமது பொறுப்பாகும் - ஆனந்த விஜேயபால
+
+*2025-08-13 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222524) · `ta`
+
+முல்லைத்தீவு முத்தையன்கட்டு இராணுவ முகாமில் இடம்பெற்ற சம்பவம் தொடர்பாக நீதியான விசாரணை இடம்பெற்றுவருகின்றது தவறு செய்தால் யார் என்றாலும்  அவர்களை நீதியின் முன் நிறுத்துவது எமது பொறுப்பாகும் பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேயபால தெரிவித்தார்.
+
+மட்டக்களப்பு மாவட்ட அபிவிருத்தி குழு கூட்டம் புதன்கிழமை (13) பழைய கச்சேரி மண்டபத்தில் அபிவிருத்திகுழு தலைவர் அமைச்சர் சுனில் ஹந்தி நெத்தி தலைமையில் இடம்பெற்றது இதில் கலந்துகொண்ட பின்னர்  பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேயபால ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இல்வாறு தெரிவித்தார்.
+
+முல்லைத்தீவு முத்தையன்கட்டு இராணுவமுகாமில் இளைஞர்கள்  ஒருவர் உயிரிழந்த சம்பவம்  ஊடகவியலாளர் மற்றும் பொதுமக்கள்அனைவருக்கும் தெரியும் அவர்கள் அனுமதியின்றி உள்ளே நுழைந்தது என.
+
+...
+
+[Data](articles/cc54c150.json)
+
+---
+
 ### සහස්ධනවි බලාගාරයේ ගාස්තුව ගැන පැහැදිලි කිරීමක්
 
 *2025-08-13 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213338) · `si`
@@ -119,6 +149,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f0dc6a93.json)
+
+---
+
+### Ravindra Pathmapriya assumes duties as General Manager of Sri Lanka Railways
+
+*2025-08-13 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111443/ravindra-pathmapriya-assumes-duties-as-general-manager-of-sri-lanka-railways) · `en`
+
+Ravindra Pathmapriya, a Special Grade Officer of the Sri Lanka Administrative Service, has assumed duties as the General Manager of Sri Lanka Railways.
+
+He had served as the Director General of the Department of Information Technology Management at the Ministry of Finance, Planning & Economic Development since August 1, 2022.
+
+On August 12, the Cabinet of Ministers granted approval for the removal of Dhammika Jayasundara from his position as the General Manager of Sri Lanka Railways.
+
+Minister of Transport Bimal Rathnayake had recently submitted a special proposal to the Cabinet seeking his removal from the post.
+
+◼️
+
+[Data](articles/0ff7286b.json)
 
 ---
 
@@ -153,6 +201,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1a6b3d31.json)
+
+---
+
+### Detention orders issued for suspect arrested over former Homagama PS member’s murder
+
+*2025-08-13 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111442/detention-orders-issued-for-suspect-arrested-over-former-homagama-ps-members-murder) · `en`
+
+Police have obtained detention orders to question the suspect arrested in connection with the murder of a former member of the Homagama Pradeshiya Sabha, which occurred in Meegoda yesterday.
+
+The Kaduwela Magistrate’s Court has issued a five-day detention order to interrogate the suspect, after the suspect was produced before the court this morning (13).
+
+The victim of the Meegoda shooting incident, 46-year-old Shantha Mudunkotuwa alias ‘Bana Manthri’ was shot dead at around 1.10 p.m. yesterday.
+
+He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
+
+Following the shooting, police acted swiftly, setting up roadblocks and inspecting vehicles. During this operation, they seized a vehicle and its driver near the Palamthuna Junction in Thalangama. A 9mm firearm suspected to have been used in the shooting was also taken into police custody.
+
+◼️
+
+[Data](articles/5db4898c.json)
 
 ---
 
@@ -1771,83 +1839,5 @@ No suspects have been arrested in connection with the incident thus far, and See
 ◼️
 
 [Data](articles/6dd9cefa.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bonds steady
-
-*2025-08-13 10:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-235917/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.91/95 to the US dollar in the spot market Wednesday, slightly stronger from 300.95/301.05 the previous day, while bond yields were broadly steady, dealers said.
-
-An auction of 103,500 million rupees Treasury bills was ongoing.
-
-A bond maturing on 15.12.2028 was quoted flat at 8.85/95 percent.
-
-A bond maturing on 15.09.2029 was quoted at 9.33/36 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.35/39 percent, down from 9.38/40 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.20/23 percent, down from 10.22/25 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.60/65 percent.
-
-The Colombo Stocks Exchange was trading flat: The ASPI was up 0.28 points at 19,973.07; the S&P SL20 was trading down 0.18 percent, or 10.68 points, at 5,815.88.
-
-...
-
-[Data](articles/a22fac0d.json)
-
----
-
-### வட, கிழக்கு ஹர்த்தால் அழைப்பு திங்கட்கிழமைக்குப் பிற்போடப்பட்டது
-
-*2025-08-13 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222453) · `ta`
-
-வட, கிழக்கு மாகாணங்களில் ஹர்த்தால் அனுட்டிப்பதற்குத் தீர்மானிக்கப்பட்டிருந்த எதிர்வரும் வெள்ளிக்கிழமையன்று மன்னார் மடுமாதா தேவாலய திருவிழா நிகழ்வு நடைபெறவிருப்பதனால், மன்னார் மறைமாவட்டக் குரு முதல்வருடனான ஆலோசனையின் பின்னர், நல்லூர் முருகன் ஆலயத் திருவிழா நிகழ்வுகளையும் அனுசரித்து எதிர்வரும் திங்கட்கிழமையன்று (18) ஹர்த்தால் தினத்தை அனுட்டிப்பதற்குத் தீர்மானிக்கப்பட்டிருப்பதாக இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் அறிவித்துள்ளார்.
-
-வட, கிழக்கு மாகாணங்களில் தொடரும் அதிகளவிலான இராணுவப் பிரசன்னத்துக்கு எதிர்ப்பை வெளிப்படுத்தி எதிர்வரும் வெள்ளிக்கிழமையன்று (15) அவ்விரு மாகாணங்களும் முழுமையாக முடங்கும் வகையில் ஹர்த்தால் அனுட்டிக்கவேண்டும் என இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் கடந்த ஞாயிற்றுக்கிழமை சகல தரப்பினருக்கும் அழைப்புவிடுத்திருந்தார்.
-
-அவ்வழைப்புக்கு தாமும் ஆதரவளிப்பதாக தமிழ் முற்போக்குக்கூட்டணி மற்றும் இலங்கைத் தொழிலாளர் காங்கிரஸ் என்பன அறிவித்திருந்தன.
-
-...
-
-[Data](articles/e9f88c08.json)
-
----
-
-### Sri Lanka’s PMF Finance to raise Rs1bn from bonds
-
-*2025-08-13 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-pmf-finance-to-raise-rs1bn-from-bonds-235930/) · `en`
-
-ECONOMYNEXT – Sri Lanka listed company PMF Finance said it will issue 5-year bonds to raise 1 billion rupees to meet its Tier 2 capital adequacy requirement.
-
-The subordinated listed, rated, unsecured redeemable bonds will be priced at 100 rupees each.
-
-PMF, formerly People’s Merchant Finance, said it had received approval from the central bank of Sri Lanka for the issue.
-
-The company intends to get central bank approval to use the net proceeds from the debt issue to meet its Tier 2 capital adequacy requirement, it said in a stock exchange filing.
-
-The bond issuance is subject to CBSL and other necessary regulatory approvals. (Colombo/Aug13/2025)
-
-◼️
-
-[Data](articles/c4f51b17.json)
-
----
-
-### விபத்துக்களை குறைப்பதற்கு ஏஐ கமரா
-
-*2025-08-13 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/222452) · `ta`
-
-தொலைதூர பஸ்களில் ஏற்படும் விபத்துக்களைக் குறைக்கும் நோக்கில் புதிய திட்டம் ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
-
-தனியார் துறையின் பங்களிப்புடன் ஒரு முன்னோடித் திட்டமாக இந்த திட்டம் செயல்படுத்தப்படும் என போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
-
-அதன்படி, அரச மற்றும்  தனியார் பஸ்களில் 40 ஏஐ கமரா  (AI camera) அமைப்புகள்  பொறுத்தப்படவுள்ளன. இந்த கமரா சாரதியின் நடத்தையைக் கண்காணித்து, சாரதியை எச்சரிக்க தேவையான நடவடிக்கைகளை எடுக்கும். புதிய கமரா அமைப்பு சாரதி சோர்வடைவதையும், நித்திரை கொள்வதையும் கண்டறியும் திறன் கொண்டது எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/f0628a26.json)
 
 ---

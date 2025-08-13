@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 14:51:08**
+As of **2025-08-13 15:07:34**
 
 ## Newspaper Stats
 
-*Scraped **70,296** Articles*
+*Scraped **70,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 4,283
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,777
-adaderanalk | 8,765
-tamilmirrorlk | 10,321
+adalk | 6,778
+adaderanalk | 8,767
+tamilmirrorlk | 10,322
 virakesarilk | 11,708
-adaderanasinhalalk | 12,106
+adaderanasinhalalk | 12,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,296 articles have been extended.
+61,973 (88.2%) of 70,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### Shooting incident reported in Minuwangoda
+
+*2025-08-13 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111435/shooting-incident-reported-in-minuwangoda) · `en`
+
+A shooting incident has been reported in Minuwangoda, a short while ago, police stated.
+
+◼️
+
+[Data](articles/7c088962.json)
+
+---
+
+### මිනුවන්ගොඩ වෙඩිතැබීමක්
+
+*2025-08-13 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213328) · `si`
+
+මිනුවන්ගොඩ, පත්අඩුවන ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් අද (13) දහවල් වෙඩිතැබීමක් සිදුකර තිබේ.
+
+පොලීසිය පවසන්නේ, මිනුවන්ගොඩ ප්‍රදේශයේ 'පස් දිලීප' යන පුද්ගලයා ඉලක්ක කරගෙන මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/b22edd98.json)
+
+---
+
+### இலங்கையில் கடுமையான மனித உரிமை மீறல்: அமெரிக்கா குற்றச்சாட்டு
+
+*2025-08-13 14:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடுமையான-மனித-உரிமை-மீறல்-அமெரிக்கா-குற்றச்சாட்டு/175-362845) · `ta`
+
+அரசு காவலில் உள்ள தனிநபர்களின் கொலைகள், காவலில் உள்ள சந்தேக நபர்களின் கொலை, பத்திரிகையாளர்களைத் துன்புறுத்துதல் மற்றும் கருத்துச் சுதந்திரத்தின் மீதான கட்டுப்பாடுகள் குறித்து ஆழ்ந்த கவலை கொண்டுள்ளது என்று அமெரிக்க வெளியுறவுத்துறை தெரிவித்துள்ளது.
+
+ஜனவரி மற்றும் ஆகஸ்ட் மாதங்களுக்கு இடையில் மனித உரிமைகள் ஆணையத்தால் அறிவிக்கப்பட்ட ஏழு காவல் மரணங்களையும் அறிக்கை குறிப்பிடுகிறது.
+
+'போராட்டத்திற்கு'ப் பிறகு 2022 தேர்தல்களில் மகத்தான வெற்றியில் ஆட்சிக்கு வந்த தற்போதைய அரசாங்கம், மனித உரிமை மீறல்களுக்குப் பொறுப்பான அதிகாரிகளுக்கு எதிராக 'குறைந்தபட்ச நடவடிக்கை' மட்டுமே எடுத்துள்ளது.
+
+பயங்கரவாதத் தடுப்புச் சட்டத்தின் கீழ் ஒப்புதல் வாக்குமூலங்களைப் பெறுவதற்கான சித்திரவதை குற்றச்சாட்டுகள் மற்றும் கைதுகள், வடக்கு மற்றும் கிழக்கில் தமிழ் பத்திரிகையாளர்களைத் துன்புறுத்துதல் மட்டுமல்லாமல், தொழிலாளர் உரிமைகள் மற்றும் பிற பிரச்சினைகள், பெண்களை கட்டாயமாக கருத்தடை செய்தல், போர்க்கால காணாமல் போனவர்கள் பற்றிய விசாரணையில் மெதுவான முன்னேற்றம் மற்றும் மனித புதைகுழிகள் ஆகியவையும் இந்த அறிக்கையில் அடங்குகின்றன.
+
+...
+
+[Data](articles/5f344ad4.json)
+
+---
+
+### මේ ආණ්ඩුව ලොවෙත් වැටෙන්නේ නෑ
+
+*2025-08-13 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/මේ-ආණ්ඩුව-ලොවෙත්-වැටෙන්නේ-නෑ/11-417889) · `si`
+
+විපක්ෂය සඳහන් කරන ආකාරයෙන් ආණ්ඩුව තුළ බෙදීමක් නොමැති බව අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
+
+මාධ්‍ය වෙත අද(13දා) අදහස් පළ කරමින් හෙතෙම​ මේ බව සඳහන් කළේය.
+
+“අපි ඉතාමත්ම එකමුතු කමින්, තේරෙන්න කියනවා නම් ෆුල් ලව් එකෙන් , ෆුල් ෆිට් එකෙන් වැඩ කරනවා. සජිත්ලට, නාමල්ලට අඬ අඬ ඉන්න පුළුවන් අපි බෙදෙනකන්. ඒ අය තමයි බෙදිලා තියෙන්නේ. ඒ නිසා ආණ්ඩුව වැටෙන්නේ නෑ. මේක වැටෙන්නේ නෑ. ලොවෙත් වැටෙන්නේ නෑ. මේ අවුරුද 05 වැඩ කරලා මිනිස්සු ලඟට ගිහින් ජනවරම ඉල්ලනවා. ”
+
+◼️
+
+[Data](articles/f03f71a2.json)
+
+---
 
 ### ව්‍යාජ ලබුබු බෝනික්කන්ගෙන් දරුවන්ට බරපතළ අවදානමක්
 
@@ -109,6 +169,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d8286e35.json)
+
+---
+
+### Suspects in murder of former Homagama PS member to be produced in court
+
+*2025-08-13 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111433/suspects-in-murder-of-former-homagama-ps-member-to-be-produced-in-court-) · `en`
+
+The suspects arrested in connection with the murder of a former member of the Homagama Pradeshiya Sabha, which occurred in Meegoda yesterday, are scheduled to be produced before the Kaduwela Magistrate’s Court today (13).
+
+Meanwhile, the body of the slain former local councilor was brought to his residence on Somarathna Mawatha in Padukka last night.
+
+The victim, 46-year-old Shantha Mudunkotuwa was shot dead around 1:10 p.m. yesterday.
+
+He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
+
+Outside politics, he had been involved in real estate businesses, including land acquisitions, sales, and construction.
+
+A few days before the incident, he had lodged a complaint with the Meegoda Police concerning a dispute over land.
+
+...
+
+[Data](articles/5fe12b53.json)
 
 ---
 
@@ -1773,103 +1855,5 @@ President Dissanayake affirmed the government’s commitment to providing all ne
 ...
 
 [Data](articles/feab0425.json)
-
----
-
-### Harsha proposes export-focused diplomacy and SME credit facility using EPF/ETF
-
-*2025-08-13 04:31:54* · [`dailyftlk`](https://www.ft.lk/business/Harsha-proposes-export-focused-diplomacy-and-SME-credit-facility-using-EPF-ETF/34-780193) · `en`
-
-SJB MP Dr. Harsha de Silva addresses SME issues at Ceylon United Business Alliance International launch
-
-Ceylon United Business Alliance President Tania Abeysundara urges policy overhaul to support SMEs
-
-Main opposition party, Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva last week proposed two structural interventions to support Sri Lanka’s small and medium enterprises (SMEs): training diplomatic missions to promote exports and creating a dedicated long-term credit facility by tapping into domestic provident funds.
-
-Delivering an address at the launch of Ceylon United Business Alliance (CUBA) International, an initiative of the Ceylon United Business Alliance, de Silva urged a shift in policy towards SMEs. The alliance is a consortium of small and medium enterprises that was formed during the COVID-19 crisis to deal with challenges they have since faced.
-
-...
-
-[Data](articles/e6af9450.json)
-
----
-
-### Opposition trying to shield real masterminds of Easter attacks: Cabinet Spokesman
-
-*2025-08-13 04:25:04* · [`dailyftlk`](https://www.ft.lk/news/Opposition-trying-to-shield-real-masterminds-of-Easter-attacks-Cabinet-Spokesman/56-780192) · `en`
-
-Notes Jayasekara’s name never appeared in earlier investigations or inquiries
-
-Claims Opposition now trying to link unrelated incidents to case to divert focus
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday alleged the Opposition was attempting to shield the true masterminds behind the 2019 Easter Sunday terror attacks, a move he claimed mirrored the actions of the previous Rajapaksa administration.
-
-He made these remarks at the weekly post-Cabinet meeting media briefing, when queries were posed on the no-confidence motion against Defence Deputy Minister Major General (Retd.) Aruna Jayasekara.
-
-When asked if the Government would treat Jayasekara in the same manner as other officials under investigation, including former IGP Pujith Jayasundara and former SIS chief Nilantha Jayawardena; Dr. Jayatissa dismissed the suggestion, saying the Government would not be swayed by political manoeuvres.
-
-...
-
-[Data](articles/550c6295.json)
-
----
-
-### Opposition submits NCM against Deputy Minister of Defence Aruna Jayasekera
-
-*2025-08-13 04:23:57* · [`dailyftlk`](https://www.ft.lk/news/Opposition-submits-NCM-against-Deputy-Minister-of-Defence-Aruna-Jayasekera/56-780191) · `en`
-
-The Opposition parties yesterday submitted a no-confidence motion (NCM) against Deputy Minister of Defence Major General (Retd.) Aruna Jayasekara to the Speaker of the House.
-
-Although the motion was scheduled to be handed over on Monday, it was postponed to yesterday as the Speaker was in Polonnaruwa.
-
-The Opposition cited serious concerns over Jayasekara’s alleged involvement and conflict of interest in the investigations into the 2019 Easter Sunday terror attacks.
-
-The motion raises alarm over Jayasekara’s role as the Commander of the Security Force (East) during key incidents linked to the Easter attacks, including the Vavunathivu police killings and the Sainthamaruthu explosion, both considered pivotal moments in the lead-up to the bombings.
-
-It further states that a potential conflict of interest exists as Jayasekara, now holding a powerful position in the Defence Ministry, may influence subordinates or witnesses involved in the ongoing probes, risking impartiality.
-
-...
-
-[Data](articles/a57c2e91.json)
-
----
-
-### Constitutional Council approves Priyantha Weerasooriya as 37th IGP
-
-*2025-08-13 04:22:49* · [`dailyftlk`](https://www.ft.lk/news/Constitutional-Council-approves-Priyantha-Weerasooriya-as-37th-IGP/56-780190) · `en`
-
-The Constitutional Council has approved President Anura Kumara Disanayake’s recommendation to appoint Acting Inspector General of Police (IGP) Priyantha Weerasooriya as the 37th IGP of the country.
-
-This decision was made when the Constitutional Council met yesterday under the chairmanship of Speaker Dr. Jagath Wickramaratne.
-
-The position of IGP became vacant following the removal of former IGP Deshabandu Thennakoon through a resolution in Parliament.
-
-Weerasooriya is the first officer in the 158-year history of the Police service to rise from the rank of Police constable to IGP.
-
-A law graduate from the University of Colombo, he became an Assistant Superintendent of Police (ASP) after being sworn in as a lawyer at the Sri Lanka Law College. He also holds a Bachelor of Business Administration in Human Resource Management.
-
-Remarkably, 10 IGPs have issued commendation letters in recognition of Weerasooriya’s 36 years of outstanding service in the Police Department.
-
-...
-
-[Data](articles/95c3f496.json)
-
----
-
-### அவுஸ்திரேலிய உயர் ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
-
-*2025-08-13 04:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-உயர்-ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-362813) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகர் போல் ஸ்டீபன்ஸ் ஆகியோருக்கு இடையிலான சந்திப்பு நேற்று  (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-தனது பதவிக்காலம் நிறைவடைந்து இலங்கையை விட்டு வெளியேறும் போல் ஸ்டீபன்ஸின் எதிர்கால செயற்பாடுகளுக்கு ஜனாதிபதி வாழ்த்துத் தெரிவித்தார்.
-
-இந்நாடு எதிர்கொண்ட பொருளாதார நெருக்கடியின் போதும் அதற்குப் பின்னரும் அவுஸ்திரேலிய உயர் ஸ்தானிகர் வழங்கிய ஆதரவை ஜனாதிபதி இதன்போது பாராட்டினார்.
-
-மேலும், கடந்த காலங்களில் அவுஸ்திரேலிய இராஜதந்திரிகள் பலர் இந்நாட்டிற்கு விஜயம் செய்ததை நினைவு கூர்ந்த ஜனாதிபதி, அவுஸ்திரேலியாவிற்கும் இலங்கைக்கும் இடையிலான உறவுகளை மேலும் வலுப்படுத்துவதில் உயர் ஸ்தானிகர் வழங்கிய ஆதரவைப் பாராட்டினார். (a)
-
-◼️
-
-[Data](articles/e7087134.json)
 
 ---

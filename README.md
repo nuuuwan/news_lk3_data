@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 07:17:16**
+As of **2025-08-13 08:09:28**
 
 ## Newspaper Stats
 
-*Scraped **70,210** Articles*
+*Scraped **70,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ economynextcom | 4,276
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,764
-adaderanalk | 8,746
-tamilmirrorlk | 10,296
+adalk | 6,766
+adaderanalk | 8,750
+tamilmirrorlk | 10,298
 virakesarilk | 11,699
-adaderanasinhalalk | 12,093
+adaderanasinhalalk | 12,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,210 articles have been extended.
+61,973 (88.3%) of 70,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### මාඳුරු ඔයට කඩා වැටුණු බෙල් 212 හෙලිකොප්ටරයේ නියමුවාගෙන් අධිකරණයට ප්‍රකාශයක්
+
+*2025-08-13 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213315) · `si`
+
+නිදර්ශන චාරිකාවක් සඳහා මාඳුරුඔය යුද හමුදා විශේෂ බළකා කඳවුරෙන් ගුවන් ගත කර තප්පර 30ක් ඇතුළත තමා පැදවූ බෙල් 212 හෙලිකොප්ටර් යානය තම පාලනයෙන් මිදී මාඳුරුඔය ජලාශයට කඩා වැටුණු බව එහි ගුවන් නියමු ෆ්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා දෙහිඅත්තකන්ඩිය මහෙස්ත්‍රාත් අධිකරණයේදී පවසා තිබේ.
+
+◼️
+
+[Data](articles/3728c3fd.json)
+
+---
+
+### කුරුණෑගල රෝහලේ ඖෂධවේදීන් අද සංකේත වර්ජනයක
+
+*2025-08-13 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213314) · `si`
+
+කුරුණෑගල ශික්ෂණ රෝහලේ තුළ අද (13) දිනයේ පැය 24 සංකේත වැඩවර්ජනයක් ක්‍රියාත්මක කරන බව රජයේ ඖෂධවේදීන්ගේ සංගමය පවසයි.
+
+එහි සභාපති අජිත් තිලකරත්න මහතා සඳහන් කළේ, අඩු සුදුසුකම් සහිත ඖෂධ සංයෝජකවරයෙක් රෝහලට අනුයුක්ත කිරීමට එරෙහිව මෙම ක්‍රියාමාර්ගය ගන්නා බවය.
+
+සුදුසුකම් සහිත ඖෂධවේදීන් තම සේවය සපයමින් සිටින අතරතුර සේවා අවශ්‍යතාවය නොමැති ඖෂධ සංයෝජකවරයෙක් මෙලෙස අනුයුක්ත කර ඇති අතර, මේ සම්බන්ධයෙන් සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාව අවස්ථා දෙකකදී දැනුම් දී ඇතැයිද අජිත් තිලකරත්න මහතා පවසයි.
+
+නමුත් බලධාරීන් එම දැනුම්දීම නොසලකා හැර තිබීම හේතුවෙන් මෙම තීරණය ගත් බව ද ඒ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c74bb82a.json)
+
+---
+
+### பஸ்களில் செயற்கை நுண்ணறிவு கெமரா
+
+*2025-08-13 06:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-செயற்கை-நுண்ணறிவு-கெமரா/175-362815) · `ta`
+
+தூரப் பிரதேசங்களுக்கு சேவையில் ஈடுபடும் பஸ்களில் செயற்கை நுண்ணறிவு கெமரா கட்டமைப்பைப் பொருத்தும் நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளது.
+
+இதற்கான அங்குரார்ப்பண நிகழ்வு கதிர்காமத்தில் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்கவின் தலைமையில் ஆரம்பிக்கப்பட்டது.
+
+அதற்கமைய, முதற்கட்டத்தில் 40 செயற்கை நுண்ணறிவு கெமரா கட்டமைப்புகளைப் பொருத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+பஸ் சாரதிகளின் நடத்தைகளைக் கண்காணிக்கவும், தேவையான எச்சரிக்கை சமிஞ்சைகளை வழங்கவும் இந்த கெமராக்கள் பயன்படுத்தப்படவுள்ளன.
+
+தூரப் பிரதேசங்களுக்கான சேவையில் ஈடுபடும் அரச மற்றும் தனியார் பஸ்கள் அனைத்திற்கும் விரைவில் செயற்கை நுண்ணறிவு கெமராக்கள் முழுமையாகப் பொருத்தப்படும் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/05d90b9e.json)
+
+---
+
+### Tamil Nadu fishermen strike in Rameswaram over frequent Sri Lanka Navy arrests
+
+*2025-08-13 06:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111415/tamil-nadu-fishermen-strike-in-rameswaram-over-frequent-sri-lanka-navy-arrests-) · `en`
+
+Rameswaram fishermen in Tamil Nadu have commenced an indefinite strike condemning frequent arrests by Sri Lanka Navy, according to India media reports.
+
+A unanimous decision was reportedly taken by members at the Tamil Nadu’s All Mechanised Fishermen Consultation meeting.
+
+◼️
+
+[Data](articles/45504efc.json)
+
+---
 
 ### රට සිහින මවා මුදල් වංචා කළ විදේශ රැකියා ඒජන්සි සමාගමේ කළමනාකරුවෙකු අත්අඩංගුවට
 
@@ -49,6 +113,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3f7edde9.json)
+
+---
+
+### Human-Elephant Conflict: Officials mull relocating elephants that encroach on villages
+
+*2025-08-13 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111414/human-elephant-conflict-officials-mull-relocating-elephants-that-encroach-on-villages) · `en`
+
+The Secretary to the Ministry of Defence, Air Vice Marshal Sampath Thuyacontha (Retd) chaired a meeting at the Defence Ministry, to review the ongoing measures to mitigate the escalating human-elephant conflict.
+
+The discussion placed special emphasis on addressing the damage caused by wild elephants to agricultural lands and the livelihoods of communities across the island.
+
+Among other key topics deliberated were the relocation of elephants that have encroached on villages to designated protected reserves and the installation of advanced elephant fencing integrated with real-time monitoring systems, and the implementation of community awareness programmes aimed at fostering sustainable human-elephant coexistence, the Ministry of Defence said in a statement.
+
+The need to initiate the formulation of a sustainable action plan was also emphasized during the meeting, said the Ministry.
+
+...
+
+[Data](articles/34b9c7a2.json)
 
 ---
 
@@ -71,6 +153,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c60f65b0.json)
+
+---
+
+### Madonna urges Pope to visit Gaza ‘before it’s too late’
+
+*2025-08-13 05:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111413/madonna-urges-pope-to-visit-gaza-before-its-too-late) · `en`
+
+Madonna has urged Pope Leo XIV to visit Gaza and bring his “light to the children before it’s too late”.
+
+The US queen of pop shared her plea on social media, saying the pontiff was “the only one of us who cannot be denied entry.”
+
+Her intervention came as the UK, EU, Australia, Canada and Japan issued a statement saying “famine is unfolding in front of our eyes” and urged action to “reverse starvation”.
+
+“Most Holy Father, please go to Gaza and bring your light to the children before it’s too late,” Madonna posted on Instagram. “As a mother, I cannot bear to watch their suffering.
+
+Israel has faced mounting pressure over the humanitarian situation in Gaza, with UN-backed experts last month warning “the worst-case scenario of famine” was playing out in the besieged territory.
+
+It has continued to deny there is starvation in Gaza and has accused UN agencies of not picking up aid at the borders and delivering it.
+
+...
+
+[Data](articles/91daa383.json)
 
 ---
 
@@ -118,6 +222,18 @@ It is useful to unpack some of the President’s comments on the misguided criti
 
 ---
 
+### Fairly heavy rainfall above 50 mm likely in some areas today
+
+*2025-08-13 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111412/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas-today) · `en`
+
+Showers will occur at times in Western, Sabaragamuwa and Central provinces and in Galle and
+
+◼️
+
+[Data](articles/7a765c3a.json)
+
+---
+
 ### Sri Lanka’s billion-dollar X-Press Pearl judgment faces uphill legal battle in Singapore
 
 *2025-08-13 05:33:45* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-billion-dollar-X-Press-Pearl-judgment-faces-uphill-legal-battle-in-Singapore/4-780209) · `en`
@@ -157,6 +273,24 @@ John Denton, Secretary-General of the International Chamber of Commerce (ICC), r
 ...
 
 [Data](articles/f408cc95.json)
+
+---
+
+### கனேடிய உயர்ஸ்தானிகர் ஜனாதிபதியுடன் சந்திப்பு
+
+*2025-08-13 05:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-உயர்ஸ்தானிகர்-ஜனாதிபதியுடன்-சந்திப்பு/175-362814) · `ta`
+
+ஜனாதிபதி அநுர குமார திசாநாயக்கவிற்கும் இலங்கைக்கான கனேடிய உயர்ஸ்தானிகர் எரிக் வொல்ஷிற்கும் இடையிலான சந்திப்பு நேற்று (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+தனது பதவிக்காலம் நிறைவடைந்து இலங்கையை விட்டு வெளியேறும்  எரிக் வொல்ஷின் எதிர்கால செயற்பாடுகளுக்கு ஜனாதிபதி வாழ்த்து தெரிவித்தார்.
+
+கனடாவில்  இலங்கை மக்கள் அதிகளவில் வசிப்பதை நினைவு கூர்ந்த ஜனாதிபதி, பொருளாதார நெருக்கடியை வெற்றிகொள்வதற்கும், இந்நாட்டில் மனித உரிமைகளை மேம்படுத்துவதற்கும், நல்லிணக்கச் செயல்முறைக்கும் கனடா வழங்கிய ஆதரவைப் பாராட்டியதுடன், எதிர்காலத்திலும் அத்தகைய ஆதரவு வழங்கப்படும் என்று எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே ஆகியோரும் இந்நிகழ்வில் கலந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/b58256a7.json)
 
 ---
 
@@ -571,6 +705,24 @@ President Dissanayake affirmed the government’s commitment to providing all ne
 ◼️
 
 [Data](articles/59df77c6.json)
+
+---
+
+### ප්‍රදේශ රැසකට හෙට විටින් විට වැසි
+
+*2025-08-12 20:30:44* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-රැසකට-හෙට-විටින්-විට-වැසි/11-417875) · `si`
+
+බස්නාහිර, සබරගමුව, වයඹ සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් හෙට(13දා) විටින් විට වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් ඌව පළාත, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40  ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි ඇති වෙයි. සුළං නිරිත දිශාවෙන් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40ක් පමණ වේ.
+
+◼️
+
+[Data](articles/560f724f.json)
 
 ---
 
@@ -1585,171 +1737,5 @@ The President said, “Our government is not merely a center that provides jobs.
 ...
 
 [Data](articles/750cd3c1.json)
-
----
-
-### Sri Lanka to launch floating solar power projects to achieve zero carbon emissions by 2050
-
-*2025-08-12 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111400/sri-lanka-to-launch-floating-solar-power-projects-to-achieve-zero-carbon-emissions-by-2050) · `en`
-
-The Cabinet of Ministers has granted approval to call for proposals from companies to provide consultancy services to carry-out feasibility studies and environmental impact assessments to launch floating solar power projects.
-
-The government has recognized renewable energy development as a national priority, aiming to accomplish 70% of electricity generation from renewable sources by 2030 and to achieve zero carbon emissions in electricity generation by 2050, Cabinet Spokesman Dr. Nalinda Jayatissa said.
-
-Accordingly, the Renewable Energy Resources Development Plan 2026–2030 has identified promising reservoirs with an estimated 3,000 megawatts of floating solar power potential, based on 10% median surface utilization.
-
-...
-
-[Data](articles/eb5b77d0.json)
-
----
-
-### செம்மணி மனித புதைகுழியின் கதை சிங்களத்தில் - கொழும்பில் வியாழக்கிழமை நூல் வெளியாகின்றது.
-
-*2025-08-12 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222401) · `ta`
-
-செம்மணி மனித புதைகுழியின் கதையை கேட்டறிந்த பின்னர் சிங்களத்தில் அது குறித்து எழுத தீர்மானித்ததாக தெரிவித்துள்ள ஊடகவியலாளர் தரிந்து ஜெயவர்த்தன கிருஷாந்தி குமாரசுவாமியின் படுகொலைஇசெம்மணி மனித புதைகுழி குறித்த முதற்கட்ட விசாரணைகள்இஇலங்கையில் காணாமல்போதல்இசெம்மணி படுகொலையின் தற்போதைய கதைகோப்ரல் சோமரட்ண ராஜபக்சவின் மனைவி ஜனாதிபதிக்கு எழுதிய கடிதம் ஆகிய விடயங்கள் இந்த நூலில் இடம்பெற்றிருக்கும் என தெரிவித்துள்ளார்
-
-எதிர்வரும் வியாழக்கிழமை செம்மணி என்ற நூல் வெளியிடப்படும்யாழ்;ப்பாணம் செம்மணி மனித புதைகுழியின் கதையை கேட்டபிறகு இந்த நூல் வெளியாகின்றது.கிருஷாந்தி குமாரசுவாமியின் படுகொலைஇசெம்மணி மனித புதைகுழி குறித்த முதற்கட்ட விசாரணைகள்இலங்கையில் காணாமல்போதல்இசெம்மணி படுகொலையின் தற்போதைய கதைகோப்ரல் சோமரட்ண ராஜபக்சவின் மனைவி ஜனாதிபதிக்கு எழுதிய கடிதம் ஆகியன இந்த நூலில் அடங்கியிருக்கும்.
-
-செம்மணிக்கு சென்ற பிறகு நாங்கள் செம்மணி மற்றும் காணாமல்போனவர்கள் குறித்து மேலதிக தகவல்களை பெறுவதற்காக தேசிய நூலகத்திற்கு சென்றோம்.
-
-...
-
-[Data](articles/fc2ec9ce.json)
-
----
-
-### The 50% trade exhibition subsidy scheme to prmote “Ceylon Tea” to continue
-
-*2025-08-12 14:38:00* · [`islandlk`](http://island.lk/the-50-trade-exhibition-subsidy-scheme-to-prmote-ceylon-tea-to-continue/) · `en`
-
-The Sri Lanka Tea Board has been implementing the 50% trade exhibition subsidy scheme to attract new international buyers and to promote the “Ceylon Tea” trade name globally.
-
-Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Plantation and Infrastructure
-
-Facilities to implement aforementioned 50% trade exhibition subsidy scheme continuously.
-
-Cabinet approves the creation of a digital system for mapping/registering rubber lands
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/3d0cfb73.json)
-
----
-
-### ‘Ella Weekend Express’ from August 16
-
-*2025-08-12 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111399/ella-weekend-express-from-august-16) · `en`
-
-The Department of Railways has announced the introduction of a new train service between Colombo and Badulla to cater to the high demand from both local and foreign tourists.
-
-According to the department, the ‘Ella Weekend Express’ will operate from Colombo Fort to Badulla every Saturday at 5:30 a.m., commencing on August 16. The return journey from Badulla to Colombo Fort will operate on Sundays, starting on August 17.
-
-◼️
-
-[Data](articles/63a6563d.json)
-
----
-
-### වෙඩි වැදීමෙන් බරපතළ තුවාල ලැබූ හිටපු ප්‍රා.ස. මන්ත්‍රී මරුට
-
-*2025-08-12 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213293) · `si`
-
-අද (12) දහවල් මීගොඩ, ආටිගල මාවතේ දී යතුරුපැදියකින් ගමන් කරමින් සිටිය දී වෙඩි වැදීමකින් බරපතළ තුවාල ලබා සිටි හිටපු ප්‍රාස මන්ත්‍රීවරයා ජීවිතක්ෂයට පත්ව තිබේ.
-
-අප වාර්තාකරු පැවසුවේ මෝටර් රථයකින් පැමිණි පිරිසක් විසින් හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව මහතාට වෙඩි ප්‍රහාරයක් එල්ල කර ඇති බවය.
-
-බරපතළ තුවාල ලබා හෝමාගම රෝහලට ඇතුළත් කර සිටිය දී ඒ මහතා මෙලෙස ජීවිතක්ෂයට පත්ව ඇත.
-
-වෙඩිතැබීමට හේතුව හා යොදාගත් ගිනිඅවිය සම්බන්ධයෙන් මෙතෙක් අනාවරණය වී නොමැති අතර, ශාන්ත මුදුන්කොටුව මහතා ඉඩම් ආරවුල් සම්බන්ධයෙන් පොලීසියට මීට පෙර පැමිණිලි කිහිපයක් ඉදිරිපත් කර සිට ඇතැයි ද අනාවරණය වී තිබේ.
-
-◼️
-
-[Data](articles/d24864e9.json)
-
----
-
-### தமிழர் தாயகம் அமைதியாகக் கைப்பற்றப்படும் வேளையில் நமது நாடாளுமன்ற உறுப்பினர்களும் சிவில் சமூக அமைப்புகளும் என்ன செய்து கொண்டிருக்கிறார்கள்?  ஏன் இவ்வளவு தேவையற்ற மௌனம்? - பிரித்தானிய தமிழர் பேரவை
-
-*2025-08-12 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222399) · `ta`
-
-தமிழர் தாயகம் அமைதியாகக் கைப்பற்றப்படும் வேளையில் நமது நாடாளுமன்ற உறுப்பினர்களும் சிவில் சமூக அமைப்புகளும் என்ன செய்து கொண்டிருக்கிறார்கள்? நமது உரிமைகளையும் நமது அடையாளத்தையும் பாதுகாக்கும் பொறுப்பு ஒப்படைக்கப்பட்டவர்களிடமிருந்து ஏன் இவ்வளவு தேவையற்ற மௌனம் நிலவுகிறது?என பிரித்தானிய தமிழர் பேரவை கேள்விஎழுப்பியுள்ளது
-
-தமிழ் மக்களின் நிலமான மணலாற்றின் தற்போதைய நிலை குறித்த அறிக்கையொன்றில் இதனை தெரிவித்துள்ள பிரித்தானிய தமிழர் பேரவை மேலும் தெரிவித்துள்ளதாவது
-
-இலங்கையின் முல்லைத்தீவு மாவட்டத்தில் அமைந்துள்ள வரலாற்று ரீதியாக தமிழ் பிராந்தியமான மணல் ஆறு கடந்த பல தசாப்தங்களாக ஒரு சோகமான மாற்றத்தைச் சந்தித்துள்ளது. ஒரு காலத்தில் துடிப்பான தமிழ் கிராமமாக இருந்த இது வளர்ச்சி என்ற போர்வையில் வலுக்கட்டாயமாக மறுபெயரிடப்பட்டு சிங்களமக்கள் குடியேற்றப்பட்டுள்ளனர். குறிப்பாக மதுரு ஓயா நீர்ப்பாசனத் திட்டம் மூலம்
-
-...
-
-[Data](articles/44b10ed1.json)
-
----
-
-### உயிருள்ள இறாலை சாப்பிட முயன்ற பெண்:   நொடியில் நடந்தது என்ன?
-
-*2025-08-12 14:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/உயிருள்ள-இறாலை-சாப்பிட-முயன்ற-பெண்-நொடியில்-நடந்தது-என்ன/53-362771) · `ta`
-
-சமூக ஊடகங்களில் தற்போது வைரலாகி வரும் வீடியோ ஒன்று நெட்டிசன்களிடையே பெரும் பேசுபொருளாகியுள்ளது.
-
-சீனாவில் உள்ள ஒரு உணவகத்தில் உயிருடன் இருந்த மான்டிஸ் இறாலை சமைக்க முயன்ற பெண், அதே உயிரினத்திடமிருந்து எதிர்பாராத முறையில் ‘பழிவாங்கல்’ சந்தித்துள்ளார்.
-
-வீடியோவில், அந்தப் பெண் முதலில் கேமரா முன் உயிருள்ள இறாலைக் காட்டி, அதை கொதிக்கும் நீர் நிரப்பிய பாத்திரத்தில் போட முயல்கிறார்.
-
-அந்த நேரத்தில், இறால் திடீரென குதித்து கீழே விழ, பெண் அதை மீண்டும் பிடித்து போட முயன்றபோது, இறால் திரும்பி அவரது கையை கடிக்கிறது. இதனால் வலி தாங்க முடியாமல் கத்தும் பெண்ணின் காட்சி அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது.
-
-தகவலின்படி, சீனாவில் பல உணவகங்களில் இறால்கள் உயிருடன் சமைக்கப்படுவது வழக்கம். இறந்த பிறகு இறைச்சி விரைவாக அழுகத் தொடங்குவதால், சுவை காக்கவே இவ்வாறு செய்கிறார்கள். ஆனால், இந்த சம்பவத்தை நெட்டிசன்கள் “உடனடி கர்மா” என்றும், “இறாலின் பழிவாங்கல்” என்றும் குறிப்பிடுகின்றனர்.
-
-...
-
-[Data](articles/1e133e4b.json)
-
----
-
-### இறாலை சாப்பிட முயன்ற பெண்:   நொடியில் நடந்தது என்ன?(வீடியோ இணைப்பு))
-
-*2025-08-12 14:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/இறாலை-சாப்பிட-முயன்ற-பெண்-நொடியில்-நடந்தது-என்ன-வீடியோ-இணைப்பு/53-362771) · `ta`
-
-சமூக ஊடகங்களில் தற்போது வைரலாகி வரும் வீடியோ ஒன்று நெட்டிசன்களிடையே பெரும் பேசுபொருளாகியுள்ளது.
-
-சீனாவில் உள்ள ஒரு உணவகத்தில் உயிருடன் இருந்த மான்டிஸ் இறாலை சமைக்க முயன்ற பெண், அதே உயிரினத்திடமிருந்து எதிர்பாராத முறையில் ‘பழிவாங்கல்’ சந்தித்துள்ளார்.
-
-வீடியோவில், அந்தப் பெண் முதலில் கேமரா முன் உயிருள்ள இறாலைக் காட்டி, அதை கொதிக்கும் நீர் நிரப்பிய பாத்திரத்தில் போட முயல்கிறார்.
-
-அந்த நேரத்தில், இறால் திடீரென குதித்து கீழே விழ, பெண் அதை மீண்டும் பிடித்து போட முயன்றபோது, இறால் திரும்பி அவரது கையை கடிக்கிறது. இதனால் வலி தாங்க முடியாமல் கத்தும் பெண்ணின் காட்சி அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது.
-
-தகவலின்படி, சீனாவில் பல உணவகங்களில் இறால்கள் உயிருடன் சமைக்கப்படுவது வழக்கம். இறந்த பிறகு இறைச்சி விரைவாக அழுகத் தொடங்குவதால், சுவை காக்கவே இவ்வாறு செய்கிறார்கள். ஆனால், இந்த சம்பவத்தை நெட்டிசன்கள் “உடனடி கர்மா” என்றும், “இறாலின் பழிவாங்கல்” என்றும் குறிப்பிடுகின்றனர்.
-
-...
-
-[Data](articles/ef776706.json)
-
----
-
-### மிகப்பெரிய விண்கல் மழை இன்று பொழியும்
-
-*2025-08-12 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222396) · `ta`
-
-2025 ஆம் ஆண்டுக்கான மிகப்பெரிய விண்கல் மழை பொழிவு இன்று செவ்வாய்க்கிழமை (12) நள்ளிரவு முதல் நாளை புதன்கிழமை (13) அதிகாலை வரை தென்படும் என விண்வெளி விஞ்ஞானியும் பொறியியல் விரிவுரையாளருமான கிஹான் வீரசேகர தெரிவித்தார்.
-
-பெர்சீட் விண்மீன் தொகுப்பில் இந்த விண்கல் மழை ஏற்படுவதால் இது "பெர்சீட்" எனப் பெயரிடப்பட்டுள்ளது.
-
-இந்த நிகழ்வு நாளை புதன்கிழமை (13) அதிகாலை 5:00 மணியளவில் வடக்கு வான் பகுதியில் சிறப்பாக தென்படும்.
-
-இந்த விண்கல் மழையின் சிறப்பு என்னவெனில் ஒரு மணி நேரத்தில் சுமார் 100 விண்கற்களைக் காணலாம் என்பதாகும். இது மிகப்பெரிய எண்ணிக்கையாகும்,
-
-பெர்சீட் விண்மீன் கூட்டம் நள்ளிரவில் அடிவானத்திற்கு மேலே தோன்றத் தொடங்கி, அதிகாலை வரை மேல்நோக்கி நகரும்.
-
-இந்த விண்கல் மழையைப் பார்க்க சிறந்த நேரம் அதிகாலை 5 மணியளவாகும். அப்போது வடக்கே பார்த்தால்இ ஒரு மணி நேரத்தில் சுமார் 100 விண்கற்களைக் காணலாம் என்று அவர் தெரிவித்தார்.
-
-பெர்சீட்ஸ் விண்கல் மழை  ஆண்டின் பிரகாசமான மற்றும் மிகவும் பிரபலமான விண்கல் மழைகளில் ஒன்றாகும்.
-
-...
-
-[Data](articles/000ae8e9.json)
 
 ---

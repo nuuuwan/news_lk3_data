@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 15:21:27**
+As of **2025-08-13 15:32:41**
 
 ## Newspaper Stats
 
-*Scraped **70,305** Articles*
+*Scraped **70,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
-economynextcom | 4,283
+economynextcom | 4,284
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,778
 adaderanalk | 8,767
-tamilmirrorlk | 10,323
+tamilmirrorlk | 10,324
 virakesarilk | 11,709
 adaderanasinhalalk | 12,109
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,305 articles have been extended.
+61,973 (88.1%) of 70,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### சிறைச்சாலை மருத்துவமனையில் இலஞ்சம்;வைத்தியர் கைது
+
+*2025-08-13 15:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-மருத்துவமனையில்-இலஞ்சம்-வைத்தியர்-கைது/175-362847) · `ta`
+
+சிறைச்சாலை மருத்துவமனையில் கைதி ஒருவரைத் தக்கவைத்துக் கொள்ள லஞ்சம் கேட்டு பெற்றதாகக் கூறப்படும் குற்றச்சாட்டில் சிறைச்சாலை மருத்துவமனையின் முன்னாள் துணை பணிப்பாளர் வைத்தியர் ஹேமந்த ரணசிங்கவை இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு கைது செய்துள்ளது.
+
+◼️
+
+[Data](articles/0e491337.json)
+
+---
 
 ### பாஸ் திலீபவை இலக்கு வைத்து துப்பாக்கிச் சூடு
 
@@ -291,6 +303,28 @@ A few days before the incident, he had lodged a complaint with the Meegoda Polic
 ◼️
 
 [Data](articles/fac95dc5.json)
+
+---
+
+### Sri Lanka allows cannabis cultivation under strict regulations: Minister
+
+*2025-08-13 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-cannabis-cultivation-under-strict-regulations-minister-236026/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow cannabis cultivation in its export zones under strict regulations only for export purposes, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+He said the government had been continuing a process started in 2004 after all the necessary approvals, including from the Cabinet of Ministers, had been granted in the past.
+
+“An institution has been established to start the expansion (of cannabis cultivation) under the Board of Investment (BOI),” Jayatissa, also the island nation’s Health Minister, told reporters on Tuesday during the weekly Cabinet media briefing.
+
+He said permission is granted for the cultivation under strict safety procedures.
+
+“This is the first time that such a situation has arisen and that the government has given the opportunity for export in this way,” he said.
+
+The cultivation will be under the strict regulations of BOI and Department of Ayurveda and they will be allowed only to export.
+
+...
+
+[Data](articles/9b091a29.json)
 
 ---
 
@@ -1831,35 +1865,5 @@ The general public has also been requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/7a765c3a.json)
-
----
-
-### Sri Lanka’s billion-dollar X-Press Pearl judgment faces uphill legal battle in Singapore
-
-*2025-08-13 05:33:45* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-billion-dollar-X-Press-Pearl-judgment-faces-uphill-legal-battle-in-Singapore/4-780209) · `en`
-
-Given the formidable legal hurdles in Singapore, Sri Lanka’s most viable path to recovery may lie within its own borders
-
-In what has been hailed as a landmark environmental ruling, Sri Lanka’s Supreme Court recently ordered the operators of the MV X-Press Pearl to pay $ 1 billion in compensation for the catastrophic 2021 maritime disaster that ravaged the nation’s coastline. However, as the Sri Lankan Government prepares to enforce this judgment against the vessel’s Singapore-based operators, it faces a formidable array of legal and practical obstacles that cast serious doubt on whether the historic award will ever be collected in full.
-
-...
-
-[Data](articles/c2f3d114.json)
-
----
-
-### Both Government liabilities and assets matter for sovereign risk
-
-*2025-08-13 05:21:55* · [`dailyftlk`](https://www.ft.lk/opinion/Both-Government-liabilities-and-assets-matter-for-sovereign-risk/14-780207) · `en`
-
-Singapore demonstrates what can be achieved with good governance, strict fiscal discipline and effective balance sheet management
-
-Singapore is one of the few remaining sovereigns in the world that still holds a triple-A rating – the highest possible level – despite a gross Government debt-to-gross-domestic-product ratio that is higher than that of many other developed economies, namely Greece, Italy, the US and France. Yet this high level of gross debt does not constrain Singapore’s sovereign credit assessment by global rating agencies.
-
-Other considerations – including institutional strength, fiscal performance, monetary policy credibility and effectiveness, and the sustainability of growth – still play significant roles in determining sovereign creditworthiness. However, the main country-specific fiscal factor affecting bond yields appears to be Government net worth (assets minus liabilities) rather than gross debt-to-GDP.
-
-...
-
-[Data](articles/48f74175.json)
 
 ---

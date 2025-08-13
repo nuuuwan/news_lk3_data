@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 06:09:58**
+As of **2025-08-13 06:35:37**
 
 ## Newspaper Stats
 
-*Scraped **70,206** Articles*
+*Scraped **70,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 716
 economynextcom | 4,276
 islandlk | 4,307
 dailymirrorlk | 4,733
-dailyftlk | 4,937
+dailyftlk | 4,938
 adalk | 6,764
 adaderanalk | 8,746
-tamilmirrorlk | 10,295
+tamilmirrorlk | 10,296
 virakesarilk | 11,699
-adaderanasinhalalk | 12,091
+adaderanasinhalalk | 12,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,206 articles have been extended.
+61,973 (88.3%) of 70,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට සවස 2න් පසුව වැසි
+
+*2025-08-13 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213311) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+සබරගමුව පළාතෙත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති වේ.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c60f65b0.json)
+
+---
+
+### How CID bypassed Navy Act to pull former Commander into Civilian Court
+
+*2025-08-13 05:47:50* · [`dailyftlk`](https://www.ft.lk/columns/How-CID-bypassed-Navy-Act-to-pull-former-Commander-into-Civilian-Court/4-780212) · `en`
+
+The Defence Ministry’s statement on the arrest of former Navy Commander Admiral Nishantha Ulugetenne reduces a serious constitutional and security matter to a public relations slogan “The law applies equally to all.” That is not a legal conclusion, in the military context equality before the law does not erase jurisdictional boundaries. Military law exists not to place service members above accountability but to ensure that offences committed in service or in connection with service are tried within the statutory framework designed to protect both national security and operational integrity.
+
+At the heart of this case is a decisive legal question Did the alleged offence occur during service and in connection with operational duties? If yes, the Navy Act No. 34 of 1950 Sections 34 and 131 applies without question and the proper forum is a court martial If no civilian courts retain jurisdiction. This is not a matter of preference it is the law
+
+...
+
+[Data](articles/89b5fbc8.json)
+
+---
 
 ### Pulse of a nation: Why tax compliance is a collective heartbeat
 
@@ -213,6 +249,24 @@ Remarkably, 10 IGPs have issued commendation letters in recognition of Weerasoor
 ...
 
 [Data](articles/95c3f496.json)
+
+---
+
+### அவுஸ்திரேலிய உயர் ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
+
+*2025-08-13 04:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-உயர்-ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-362813) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகர் போல் ஸ்டீபன்ஸ் ஆகியோருக்கு இடையிலான சந்திப்பு நேற்று  (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+தனது பதவிக்காலம் நிறைவடைந்து இலங்கையை விட்டு வெளியேறும் போல் ஸ்டீபன்ஸின் எதிர்கால செயற்பாடுகளுக்கு ஜனாதிபதி வாழ்த்துத் தெரிவித்தார்.
+
+இந்நாடு எதிர்கொண்ட பொருளாதார நெருக்கடியின் போதும் அதற்குப் பின்னரும் அவுஸ்திரேலிய உயர் ஸ்தானிகர் வழங்கிய ஆதரவை ஜனாதிபதி இதன்போது பாராட்டினார்.
+
+மேலும், கடந்த காலங்களில் அவுஸ்திரேலிய இராஜதந்திரிகள் பலர் இந்நாட்டிற்கு விஜயம் செய்ததை நினைவு கூர்ந்த ஜனாதிபதி, அவுஸ்திரேலியாவிற்கும் இலங்கைக்கும் இடையிலான உறவுகளை மேலும் வலுப்படுத்துவதில் உயர் ஸ்தானிகர் வழங்கிய ஆதரவைப் பாராட்டினார். (a)
+
+◼️
+
+[Data](articles/e7087134.json)
 
 ---
 
@@ -1689,49 +1743,5 @@ According to the department, the ‘Ella Weekend Express’ will operate from Co
 ◼️
 
 [Data](articles/cd35455b.json)
-
----
-
-### பிரதமர் பதவியில் மாற்றமா?:  இப்படி சொல்கிறார் பேச்சாளர்
-
-*2025-08-12 14:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-பதவியில்-மாற்றமா-இப்படி-சொல்கிறார்-பேச்சாளர்/175-362768) · `ta`
-
-தற்போதைய பிரதமர் பதவியில் எந்த மாற்றமும் இருக்காது என்று அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார். அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு அரசாங்க தகவல் திணைக்களத்தில் நடைபெற்றது. அதில் கலந்துகொண்ட ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-“பிரதமரை மாற்றும் எண்ணம் அரசாங்கத்திற்கு இல்லை. அரசாங்கத்திற்குள் எந்த நெருக்கடியும் இல்லை. எங்கள் அரசாங்கம் வீழ்ந்துவிடாது. எங்களுக்கு இடையே எந்த மோதலும் இல்லை. நாங்கள் நாட்டைக் கட்டியெழுப்புகிறோம். அரசியல் கலாச்சாரத்தை நாங்கள் கட்டி எழுப்புகிறோம்” என்றார்.
-
-◼️
-
-[Data](articles/e388ab76.json)
-
----
-
-### ඇල්ලේ සිරි නරඹන්න නව දුම්රියක්
-
-*2025-08-12 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213292) · `si`
-
-කොළඹ සිට බදුල්ල දක්වා ගමන් කිරීමට නව දුම්රියක් යෙදවීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
-
-දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ දේශීය සහ විදෙස් සංචාරකයින්ගේ දැඩි ඉල්ලුමක් පවතින බැවින් එයට සරිලන ලෙස සති අන්තයේ මෙම නව දුම්රිය යෙදවූ බවය.
-
-ඒ අනුව Ella Weekend Express නමින් නව දුම්රියක් එළැඹෙන 16 වැනිදා සිට සෑම සෙනසුරාදා දිනකම පෙරවරු 5.30ට කොළඹ කොටුවේ සිට බදුල්ල දක්වාත් සහ 17 වැනිදා සිට සෑම ඉදිරිදා දිනකම බදුල්ල දුම්රිය ස්ථානයේ සිට කොළඹ කොටුව දක්වාත් ධාවනය කිරීමට කටයුතු යොදා ඇති බවද දුම්රිය දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් ව තිබේ.
-
-◼️
-
-[Data](articles/f47a500e.json)
-
----
-
-### මීගොඩ වෙඩි තැබීමක්
-
-*2025-08-12 13:56:33* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-වෙඩි-තැබීමක්/11-417868) · `si`
-
-අද (12දා) සිදු වූ මෙම වෙඩි තැබීමෙන් හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව  මහතා ජිවිතක්ෂයට පත්ව ඇති බව පොලීසිය පැවසීය.
-
-මෝටර් රථයකින් පැමිණි පිරිසක්  මෙම වෙඩි තැබීම සිදුකර ඇති බව වාර්තා විය.
-
-◼️
-
-[Data](articles/f641ca68.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 15:32:41**
+As of **2025-08-13 15:49:59**
 
 ## Newspaper Stats
 
-*Scraped **70,307** Articles*
+*Scraped **70,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,778
 adaderanalk | 8,767
-tamilmirrorlk | 10,324
+tamilmirrorlk | 10,325
 virakesarilk | 11,709
-adaderanasinhalalk | 12,109
+adaderanasinhalalk | 12,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,307 articles have been extended.
+61,973 (88.1%) of 70,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### இலஞ்சம் வாங்கிய NIMH பதில் பிரதி ஆணையாளர் கைது
+
+*2025-08-13 15:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-NIMH-பதில்-பிரதி-ஆணையாளர்-கைது/175-362848) · `ta`
+
+2024 ஆம் ஆண்டு லஞ்சம் வாங்கிய குற்றச்சாட்டில்  தேசிய மனநல நிறுவனத்தின் (NIMH) பதில் பிரதி ஆணையாளர் டாக்டர் நயனஜித் ஹேமந்த ரணசிங்கவை இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு (CIABOC) புதன்கிழமை (13) கைது செய்தது.
+
+முன்னர் சிறைச்சாலை சுகாதார சேவைகள் பதில் பிரதி ஆணையாளராக பணியாற்றிய டாக்டர் ரணசிங்க, வெலிக்கடை சிறைச்சாலை மருத்துவமனையில் கைதி ஒருவருக்கு தொடர்ந்து சிகிச்சை அளிக்க ரூ. 1.5 மில்லியன் கோரியதாக குற்றம் சாட்டப்பட்டுள்ளது. அந்த கைதி நோய்வாய்ப்பட்டு உள்நோயாளியாக சிகிச்சை பெற்று வந்தார்.
+
+கோரிய லஞ்சத்தில் ரூ. 300,000 வழங்கப்பட்டதாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகள் குற்றம் சாட்டுகின்றனர்.
+
+பிட்டகோட்டேயில் உள்ள அவரது இல்லத்தில் வைத்து புதன்கிழமை (13)  காலை கைது செய்யப்பட்ட டாக்டர் ரணசிங்க கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார்.
+
+◼️
+
+[Data](articles/4bfb71ab.json)
+
+---
+
+### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරිය පත් කරයි
+
+*2025-08-13 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213331) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත් කර තිබේ.
+
+මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ භාරදුනි.
+
+ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61ඉ(ආ) ව්‍යවස්ථාව ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතියද මෙම නව පත්වීම සඳහා ලැබී තිබුණි.
+
+ඒ අනුව, ශ්‍රී ලංකා පොලිසියේ 37 වන පොලිස්පතිවරයා ලෙස නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා ඉතිහාසයට එක් වෙයි.
+
+මේ දක්වා ශ්‍රී ලංකා පොලිසියේ පොලිස් කොස්තාපල්, උප පොලිස් පරීක්ෂක සහ සහකාර පොලිස් අධිකාරී යන අවධි තුනම පසු කරමින් පොලිස්පති ධුරයට පත්වූ පළමු පොලිස්පතිවරයා වන්නේද නීතීඥ ප්‍රියන්ත වීරසූරිය මහතාය.
+
+◼️
+
+[Data](articles/9857a244.json)
+
+---
 
 ### சிறைச்சாலை மருத்துவமனையில் இலஞ்சம்;வைத்தியர் கைது
 
@@ -1827,43 +1865,5 @@ In Sri Lanka, the tax conversation has long centred on enforcement; penalties, a
 ...
 
 [Data](articles/52cd86a6.json)
-
----
-
-### President AKD’s speech inspires power sector reforms
-
-*2025-08-13 05:38:24* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-speech-inspires-power-sector-reforms/4-780210) · `en`
-
-In his compelling speech to Parliament last Thursday, President AKD emphasised repeatedly that there is a deliberate and coordinated disinformation campaign aimed at undermining every major initiative his Government undertakes and belittling the progress made so far. The writer believes that most of this criticism originates from the Opposition and a core group fundamentally opposed to any efforts by the NPP Government to improve Sri Lanka.
-
-Given this reality, it is often futile to engage directly with their flawed arguments. Instead, a more productive approach is to objectively analyse these projects and suggest improvements where gaps exist. Although the President did not explicitly mention power sector reforms, the essence of his remarks clearly reflected how his Government operates and the economic development path it pursues.
-
-It is useful to unpack some of the President’s comments on the misguided criticisms of the economy by certain disgruntled groups, which have been proven wrong:
-
-...
-
-[Data](articles/37ad9005.json)
-
----
-
-### Fairly heavy rainfall above 50 mm likely in some areas today
-
-*2025-08-13 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111412/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas-today) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (13), the Department of Meteorology said.
-
-Several spells of showers will occur in the North-western province as well.
-
-Fairly heavy falls above 50 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya and Kandy districts, the Met. Department added.
-
-Meanwhile, showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district, the Met. Department noted.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7a765c3a.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 16:07:39**
+As of **2025-08-13 16:22:20**
 
 ## Newspaper Stats
 
@@ -114,7 +114,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### බන්ධනාගාර රෝහලේ හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රිමාන්ඩ්
+### බන්ධනාගාර රෝහල් සේවා හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රිමාන්ඩ්
 
 *2025-08-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213330) · `si`
 
@@ -180,7 +180,7 @@ A shooting incident has been reported in Minuwangoda, a short while ago, police 
 
 ---
 
-### මිනුවන්ගොඩ 'පස් දිලීප' ඉලක්ක කර වෙඩි ප්‍රහාරයක්
+### මිනුවන්ගොඩ පස් දිලීප ඉලක්ක කර වෙඩි ප්‍රහාරයක්
 
 *2025-08-13 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213328) · `si`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 17:06:17**
+As of **2025-08-13 17:31:26**
 
 ## Newspaper Stats
 
-*Scraped **70,315** Articles*
+*Scraped **70,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,284
 islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,780
+adalk | 6,781
 adaderanalk | 8,767
-tamilmirrorlk | 10,328
+tamilmirrorlk | 10,329
 virakesarilk | 11,709
-adaderanasinhalalk | 12,110
+adaderanasinhalalk | 12,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,315 articles have been extended.
+61,973 (88.1%) of 70,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### பழனி காதலனுக்காக கள்ளப்படகில் வந்த இலங்கை இளம்பெண் (முழு விபரம்)
+
+*2025-08-13 17:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழனி-காதலனுக்காக-கள்ளப்படகில்-வந்த-இலங்கை-இளம்பெண்-முழு-விபரம்/175-362854) · `ta`
+
+பழனியில் உள்ள தன் காதலனை பார்ப்பதற்காக இலங்கை இளம்பெண் ஒருவர் தன் தங்கச் செயினை விற்று அந்த பணத்தில் கள்ளப் படகில் ராமேஸ்வரம் வந்தடைந்துள்ளார்.
+
+எப்படியாவது தனது காதலனை கரம் பிடித்தே ஆக வேண்டும் என நினைத்த விதுர்ஷியாவை பொலிஸார் கைது செய்து அகதிகள் முகாமில் அடைத்துள்ளனர். இந்தியா வருவதற்கு விண்ணப்பித்த போது அவருக்க்கு விசா வழங்க இந்திய தூதரகம் அனுமதி மறுத்து இருக்கிறது. இதனால் தான் அவர் கள்ளப்படகில் வந்துள்ளார்
+
+இலங்கையை சேர்ந்த இளம்பெண் ஒருவர் தமிழகத்தில் அகதிகள் வசித்த போது இங்குள்ள இளைஞருடன் காதல் வயப்பட்டு இருக்கிறார். சொந்த நாட்டிற்கு சென்ற போதும் காதலனை மறக்க முடியாத இளம்பெண், மீண்டும் படகு மூலமாக தமிழகத்திற்கு வந்த போது பொலிஸாரிடம் பிடிபட்டுள்ளார். ராமேஸ்வரம் பகுதியில் நடைபெற்ற இந்த நிகழ்வு குறித்து பார்க்கலாம்.
+
+...
+
+[Data](articles/220b1306.json)
+
+---
+
+### ශාන්ත මුදුන්කොටුව ඝාතනයේ සැකකාර රියදුරුට රැඳවුම් නියෝග
+
+*2025-08-13 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213333) · `si`
+
+හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' ඝාතනයට සැකපිට අත්අඩංගුවට ගත් රියදුරු රැඳවුම් නියෝග මත දින 5ක් ප්‍රශ්න කිරීමට අධිකරණයෙන් අවසර හිමිව ඇත.
+
+ඔහු අද (13) පෙරවරුව් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී තිබේ.
+
+46 හැවිරිදි ශාන්ත මුදුන්කොටුව මහතා ඊයේ (12) දහවල් 1.10ට පමණ සිදුවූ වෙඩිතැබීමකින් ජීවිතක්ෂයට පත්විය.
+
+මෙම වෙඩිතැබීමත් සමග ක්ෂණිකව ක්‍රියාත්මක වූ පොලීසිය, මාර්ග බාධක යොදා සිදුකළ හදිසි රථවාහන පරීක්ෂා කිරීමදී තලංගම, පාලන්තුන හංදිය ප්‍රදේශයේදී වෙඩික්කරු පැමිණි මෝටර් රථය සහ එහි රියදුරු අත්අඩංගුවට ගත්තේය.
+
+එහිදී වෙඩිතැබීමට භාවිත කළ බවට සැකකෙරෙන මිලිමීටර 9 වර්ගයේ ගිනිඅවිය ද පොලිස් භාරයට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/70d8ddde.json)
+
+---
 
 ### NIMH பதில் பிரதி பணிப்பாளருக்கு நீதிமன்றம் வழங்கிய உத்தரவு
 
@@ -47,6 +83,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b99a8fad.json)
+
+---
+
+### ඉන්දියාවේ සිට හම්බන්තොටට නෞකාවක්
+
+*2025-08-13 16:15:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිට-හම්බන්තොටට-නෞකාවක්/11-417891) · `si`
+
+ඉන්දියාවේ චෙන්නායි සිට සංචාරකයන් රැගත් නෞකාවක් අද (13) හම්බන්තොට වරායට පැමිණ ඇත.
+
+ඉන්දියානු සංචාරකයින් 1,800කට ආසන්න පිරිසක් මෙම නෞකාවෙන් දිවයිනට පැමිණෙන ලදී.එම නෞකාව අද දින හම්බන්තොට මාගම්පුර වරායේ නැංගුරම්ලා තිබීමට නියමිතයි.
+
+එම සංචාරකයින් යාල, හම්බන්තොට ඇතුළු දිවයිනේ විවිධ ප්‍රදේශවල සංචාරය කිරීම සඳහා දැනට පිටත් වී ඇත.
+
+◼️
+
+[Data](articles/3caf3ee7.json)
 
 ---
 
@@ -1801,69 +1853,5 @@ The suspect is scheduled to be presented before the Homagama Magistrate’s Cour
 ...
 
 [Data](articles/047f7b0f.json)
-
----
-
-### பஸ்களில் செயற்கை நுண்ணறிவு கெமரா
-
-*2025-08-13 06:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-செயற்கை-நுண்ணறிவு-கெமரா/175-362815) · `ta`
-
-தூரப் பிரதேசங்களுக்கு சேவையில் ஈடுபடும் பஸ்களில் செயற்கை நுண்ணறிவு கெமரா கட்டமைப்பைப் பொருத்தும் நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளது.
-
-இதற்கான அங்குரார்ப்பண நிகழ்வு கதிர்காமத்தில் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்கவின் தலைமையில் ஆரம்பிக்கப்பட்டது.
-
-அதற்கமைய, முதற்கட்டத்தில் 40 செயற்கை நுண்ணறிவு கெமரா கட்டமைப்புகளைப் பொருத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-பஸ் சாரதிகளின் நடத்தைகளைக் கண்காணிக்கவும், தேவையான எச்சரிக்கை சமிஞ்சைகளை வழங்கவும் இந்த கெமராக்கள் பயன்படுத்தப்படவுள்ளன.
-
-தூரப் பிரதேசங்களுக்கான சேவையில் ஈடுபடும் அரச மற்றும் தனியார் பஸ்கள் அனைத்திற்கும் விரைவில் செயற்கை நுண்ணறிவு கெமராக்கள் முழுமையாகப் பொருத்தப்படும் என தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/05d90b9e.json)
-
----
-
-### Tamil Nadu fishermen strike in Rameswaram over frequent Sri Lanka Navy arrests
-
-*2025-08-13 06:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111415/tamil-nadu-fishermen-strike-in-rameswaram-over-frequent-sri-lanka-navy-arrests-) · `en`
-
-Rameswaram fishermen in Tamil Nadu have commenced an indefinite strike condemning frequent arrests by Sri Lanka Navy, according to India media reports.
-
-A unanimous decision was reportedly taken by members at the Tamil Nadu’s All Mechanised Fishermen Consultation meeting.
-
-Accordingly, over 700 mechanised boats remained anchored in fishing harbours in Rameswaram islet, demanding the Indian central government to secure release of fishers arrested by Sri Lanka.
-
-Around 10,000 fishermen are taking part in the indefinite strike.
-
-According to fishermen associations in Rameswaram, 61 fishers have been arrested by Sri Lankan navy since June 15. None of them has been released by the Sri Lankan government so far.
-
-The fishers said the Indian central government must immediately start dialogue with Sri Lanka and secure the release of all the fishers along with their boats.
-
-They also demanded that Katchatatheevu island must be taken back from Sri Lanka.
-
-...
-
-[Data](articles/45504efc.json)
-
----
-
-### රට සිහින මවා මුදල් වංචා කළ විදේශ රැකියා ඒජන්සි සමාගමේ කළමනාකරුවෙකු අත්අඩංගුවට
-
-*2025-08-13 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213313) · `si`
-
-රුමේනියාවේ රැකියාවක් ලබා දෙන බව පවසා තරුණයෙකුගෙන් රුපියල් 945,000ක මුදලක් වංචා කළ බවට සැකපිට ශ්‍රී ලංකා විදේශ රැකියා ඒජන්සි සමාගමේ කළමනාකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-නාරාහේන්පිට පිහිටි විදේශ රැකියා ඒජන්සි ආයතනයේ සිදුකළ වැටලීමකදී එම සැකකරු අත්අඩංගුවට ගැනීමට හැකිවූ බව විදේශ සේවා නියුක්ති කාර්යාංශය පැවසුවේය.
-
-අත්අඩංගුවට පත් සැකකරු විසින් රුමේනියාවේ කර්මාන්ත ශාලාවක සහායක රැකියාවක් ලබා දෙන බවට පොරොන්දු වී 2023 වසරේ සිට තමන්ව රවටමින් අවස්ථා කිහිපයකදී මුදල් ලබා ගත් බවට බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචි තරුණයෙකු විදේශ සේවා නියුක්ති කාර්යාංශය වෙත පැමිණිලිකර තිබේ.
-
-විදේශ රැකියා ඒජන්සි සමාගම, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය යටතේ පාලනය වන අතර අත්අඩංගුවට පත්වන විට සැකකරු එම සමාගමේ පරිගණක අංශයේ සහකාර කළමනාකරු වශයෙන් සේවය කරමින් සිට ඇති බව සඳහන්ය.
-
-සැකකරු අද (13) හෝමාගම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතයව තිබේ.
-
-◼️
-
-[Data](articles/3f7edde9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 05:18:25**
+As of **2025-08-13 05:31:57**
 
 ## Newspaper Stats
 
-*Scraped **70,188** Articles*
+*Scraped **70,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
 economynextcom | 4,276
-islandlk | 4,294
+islandlk | 4,299
 dailymirrorlk | 4,733
 dailyftlk | 4,932
 adalk | 6,764
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,188 articles have been extended.
+61,973 (88.3%) of 70,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -185,6 +185,30 @@ Also attending the meeting were Chairperson of the ROX Group Nguyen Thi Nguyet H
 ...
 
 [Data](articles/676d11fd.json)
+
+---
+
+### Proposed education reforms
+
+*2025-08-12 23:01:00* · [`islandlk`](http://island.lk/proposed-education-reforms/) · `en`
+
+...
+
+[Data](articles/531b75ea.json)
+
+---
+
+### Beauty Goes a-Begging
+
+*2025-08-12 22:56:00* · [`islandlk`](http://island.lk/beauty-goes-a-begging/) · `en`
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/2a2cc2b3.json)
 
 ---
 
@@ -1709,37 +1733,5 @@ The central bank is expecting inflation to reach a 5 percent target next year, a
 ◼️
 
 [Data](articles/eab3eaae.json)
-
----
-
-### Sri Lanka underutilized land to be offered to investors: Minister
-
-*2025-08-12 13:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-underutilized-land-to-be-offered-to-investors-minister-235713/) · `en`
-
-ECONOMYNEXT – Underutilized lands and properties belonging to Sri Lanka’s state institutions will be offered to investors for various projects, Minister Nalinda Jayatissa said.
-
-The cabinet had approved a proposal to offer underutilized lands held by the Land Reforms Commission, Regional Plantation Companies, National Livestock Development Board, Sri Lanka State Plantations Corporation and Janatha Estate Development Board and provide them for private investment, he said.
-
-“Investors, including small and medium scale entrepreneurs, can use them for economically productive projects,” he told reporters.
-
-These include plantation/agricultural activities, plantation-related tourism promotion activities, livestock development, hydropower generation, solar energy generation, factory-related manufacturing activities, freshwater fisheries and other plantation-related economic innovation activities. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/379b754b.json)
-
----
-
-### රාජිතව අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කෙරේ
-
-*2025-08-12 13:06:39* · [`adalk`](https://www.ada.lk/breaking_news/රාජිතව-අත්අඩංගුවට-ගැනීමට-වරෙන්තු-නිකුත්-කෙරේ/11-417866) · `si`
-
-හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස  කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (12දා) වරෙන්තු නිකුත් කර තිබේ.
-
-අල්ලස් කොමිසම විසින් සිදු කරන විමර්ශනයකට අදාළව මෙම නියෝගය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/e6a1064b.json)
 
 ---

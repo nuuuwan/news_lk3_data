@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 02:20:10**
+As of **2025-08-14 02:32:15**
 
 ## Newspaper Stats
 
-*Scraped **70,369** Articles*
+*Scraped **70,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,788
 adaderanalk | 8,778
-tamilmirrorlk | 10,343
+tamilmirrorlk | 10,344
 virakesarilk | 11,720
 adaderanasinhalalk | 12,117
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,369 articles have been extended.
+61,973 (88.1%) of 70,370 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-14 (Thursday)
+
+### காற்றாலை திட்டத்தை இடைநிறுத்த இணக்கப்பாடு
+
+*2025-08-14 02:03:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-திட்டத்தை-இடைநிறுத்த-இணக்கப்பாடு/175-362882) · `ta`
+
+மன்னார் காற்றாலை மின் திட்டத்தின் செயற்பாடுகளை ஒரு மாதத்துக்குத் தற்காலிகமாக இடைநிறுத்துவதற்கு இணக்கப்பாடு எட்டப்பட்டுள்ளது.
+
+ஜனாதிபதி தலைமையில் நேற்று (13) நடைபெற்ற கலந்துரையாடலின் போதே இந்த இணக்கப்பாடு எட்டப்பட்டுள்ளது.
+
+இந்த திட்டத்தின் சாதக, பாதக நிலைமைகளை மீளாய்வு செய்யும் நோக்கில் ஒரு மாதத்துக்கு தற்காலிகமாக இடைநிறுத்த தீர்மானிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/0fe21ad5.json)
+
+---
 
 ### 2025-08-13 (Wednesday)
 
@@ -1787,25 +1805,5 @@ However, opposition political representatives emphasized that the purpose of thi
 ◼️
 
 [Data](articles/17cb3587.json)
-
----
-
-### Kerala cannabis valued over Rs. 24 mln seized in Pesalai
-
-*2025-08-13 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111428/kerala-cannabis-valued-over-rs-24-mln-seized-in-pesalai-) · `en`
-
-A total of 110 kilograms and 600 grams of Kerala cannabis have been seized in Pesalai, Talaimannar by the Sri Lanka Navy.
-
-The haul of narcotics was seized during an operation conducted by SLNS Gajaba of the North Central Naval Command.
-
-During the search, three suspicious sacks were recovered from the beach, which were found to contain the stock of Kerala cannabis, the Navy said in a statement.
-
-The gross street value of the seized narcotics is estimated to exceed Rs. 24 million.
-
-The stock has been handed over to the Talaimannar Police for further legal action, Navy said.
-
-◼️
-
-[Data](articles/d9202bea.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 13:19:40**
+As of **2025-08-13 13:32:15**
 
 ## Newspaper Stats
 
-*Scraped **70,277** Articles*
+*Scraped **70,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 716
-economynextcom | 4,276
+economynextcom | 4,283
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,773
+adalk | 6,774
 adaderanalk | 8,763
-tamilmirrorlk | 10,318
+tamilmirrorlk | 10,319
 virakesarilk | 11,707
 adaderanasinhalalk | 12,104
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 12,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,277 articles have been extended.
+61,973 (88.2%) of 70,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### நான் என்ன சும்மாவா? உலக பொலிஸ் காரன்
+
+*2025-08-13 13:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-என்ன-சும்மாவா-உலக-பொலிஸ்-காரன்/62-362843) · `ta`
+
+◼️
+
+[Data](articles/574057c7.json)
+
+---
 
 ### $2 மில்லியனைத் தாண்டிய முதல் தமிழ்ப் படம் ரஜினிகாந்தின் ‘கூலி’
 
@@ -101,6 +111,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5b5eba40.json)
+
+---
+
+### Sri Lanka’s CTC says tobacco volumes show recovery in June
+
+*2025-08-13 12:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-ctc-says-tobacco-volumes-show-recovery-in-june-236007/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Tobacco Company said sales volumes recovered to 490 million sticks in the June 2025 quarter from 476 million last year, and profits rose 2 percent to 7.3 billion rupees.
+
+CTC reported earnings of 39.32 rupees per share for the quarter. For the six months to June, CTC reported earnings of 74.97 rupees on total profits from 14.04 billion rupees, which were marginally up from 14.00 billion rupees.
+
+Revenues grew 9.5 percent to 50.3 billion rupees to 55.1 billion rupees, including a government tax hike boosting turnover based tax revenues to 38.1 billion rupees from 34.7 billion rupees, giving net revenues of 16.9 billion rupees to the company, up 8.9 percent.
+
+The firm did not give reasons for the increase in volumes, such as whether consumer purchasing power was gradually recovering from a currency crisis.
+
+The firm had previously complained that it was losing market share to smuggled cigarettes and also beedi.
+
+◼️
+
+[Data](articles/0953a421.json)
 
 ---
 
@@ -345,6 +375,26 @@ The stock has been handed over to the Talaimannar Police for further legal actio
 ◼️
 
 [Data](articles/d9202bea.json)
+
+---
+
+### Sri Lanka’s Haycarb net down 30-pct amid higher costs
+
+*2025-08-13 11:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-haycarb-net-down-30-pct-amid-higher-costs-235987/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Haycarb Plc, which also has overseas operations in Indonesia fell 30 percent to 517 million rupees in the June 2025 quarter amid higher costs, interim accounts show.
+
+Haycarb reported earnings of 1.74 rupees per share fro the June quarter.
+
+Revenues rose 36 percent to 13.6 billion rupees in the June 2025 quarter, and costs rose at a faster 51 percent to 11.01 billion rupees reducing gross profits 3 percent to 2.66 billion rupees.
+
+Haycarbs main product is coconut shell charcoal, which saw price spikes amid a crop shortfall.
+
+Net finance income was down 82 percent to 11.3 million rupees. (Colombo/Aug13/2025)
+
+◼️
+
+[Data](articles/1d6e5285.json)
 
 ---
 
@@ -642,6 +692,32 @@ No suspects have been arrested in connection with the incident thus far, and See
 
 ---
 
+### Sri Lanka rupee stronger against dollar, bonds steady
+
+*2025-08-13 10:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-235917/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.91/95 to the US dollar in the spot market Wednesday, slightly stronger from 300.95/301.05 the previous day, while bond yields were broadly steady, dealers said.
+
+An auction of 103,500 million rupees Treasury bills was ongoing.
+
+A bond maturing on 15.12.2028 was quoted flat at 8.85/95 percent.
+
+A bond maturing on 15.09.2029 was quoted at 9.33/36 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.35/39 percent, down from 9.38/40 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.20/23 percent, down from 10.22/25 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.60/65 percent.
+
+The Colombo Stocks Exchange was trading flat: The ASPI was up 0.28 points at 19,973.07; the S&P SL20 was trading down 0.18 percent, or 10.68 points, at 5,815.88.
+
+...
+
+[Data](articles/a22fac0d.json)
+
+---
+
 ### வட, கிழக்கு ஹர்த்தால் அழைப்பு திங்கட்கிழமைக்குப் பிற்போடப்பட்டது
 
 *2025-08-13 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222453) · `ta`
@@ -655,6 +731,26 @@ No suspects have been arrested in connection with the incident thus far, and See
 ...
 
 [Data](articles/e9f88c08.json)
+
+---
+
+### Sri Lanka’s PMF Finance to raise Rs1bn from bonds
+
+*2025-08-13 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-pmf-finance-to-raise-rs1bn-from-bonds-235930/) · `en`
+
+ECONOMYNEXT – Sri Lanka listed company PMF Finance said it will issue 5-year bonds to raise 1 billion rupees to meet its Tier 2 capital adequacy requirement.
+
+The subordinated listed, rated, unsecured redeemable bonds will be priced at 100 rupees each.
+
+PMF, formerly People’s Merchant Finance, said it had received approval from the central bank of Sri Lanka for the issue.
+
+The company intends to get central bank approval to use the net proceeds from the debt issue to meet its Tier 2 capital adequacy requirement, it said in a stock exchange filing.
+
+The bond issuance is subject to CBSL and other necessary regulatory approvals. (Colombo/Aug13/2025)
+
+◼️
+
+[Data](articles/c4f51b17.json)
 
 ---
 
@@ -713,6 +809,22 @@ No suspects have been arrested in connection with the incident thus far, and See
 ...
 
 [Data](articles/91c30f89.json)
+
+---
+
+### මදුවකට හසුව සිටි කඳුකර කොටියෙක් බේරා ගැනෙයි
+
+*2025-08-13 10:17:10* · [`adalk`](https://www.ada.lk/breaking_news/මදුවකට-හසුව-සිටි-කඳුකර-කොටියෙක්-බේරා-ගැනෙයි/11-417884) · `si`
+
+මධ්‍යම වනජීවී කලාපයට අයත් පල්ලෙකැලේ ආයෝජන කලාපය තුළ කම්බි මදුවකට හසුව සිටි කඳුකර කොටියෙකු ඉන් බේරා ගෙන නිරුපද්‍රිතව යළි ආරක්ෂිත ප්‍රදේශයකට මුදවා හැරීමට  රන්දෙණිගල වන සත්ත්ව කළමනාකරණ ඒකකයේ සහ දාගවිල්ල බීට්ටු කාර්යාලයේ නිලධාරීන් විසින් පියවර ගෙන තිබේ.
+
+කඳුකර කොටියාගේ ගෙල ප්‍රදේශය කම්බි මදුවට හසුව තිබූ බවත්, සතා ආසන්නයට ජනතාව ඒකරාශී නොවීම හේතුවෙන්  කලබලයට පත්ව නොසිට බැවින්  එම සතා නිර්වින්දනය කර නිරුපද්‍රිතව බේරා ගැනීමට හැකි වූ බව රන්දෙණිගල වන සත්ත්ව කළමනාකරණ ඒකකයේ ස්ථාන භාර වනජීවී පශු වෛද්‍ය අකලංක පිනිදිය මහතා පැවසීය.
+
+වයස අවුරුදු හයත් හතත් අතර හොදින් වැඩුණු පිරිමි සතෙකු මෙසේ මදුවට හසුව සිටි බවත්, සතාගේ ශරීරයේ අභ්‍යන්ත්‍රර ඉන්ද්‍රියවලට හානි නොවී පැවතීම හේතුවෙන් භාහිර තුවාල සඳහා අවශ්‍ය ප්‍රතිකාර සිදු කොට ආරක්ෂිත කැලෑවකට මුදා හැරීමට කටයුතු කරන ලද බව පිනිදිය මහතා කීය.
+
+...
+
+[Data](articles/866c2275.json)
 
 ---
 
@@ -821,6 +933,30 @@ The pilot stated that he believed the helicopter crashed through no fault of his
 ...
 
 [Data](articles/2f194527.json)
+
+---
+
+### Sri Lanka seeks private investors for first 160MW BESS to absorb renewables
+
+*2025-08-13 09:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-private-investors-for-first-160mw-bess-to-absorb-renewables-235890/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has called international tenders for a 160 MegaWatts of battery energy storage systems (BESS) on a build operate own basis to accommodate renewable energy to the grid.
+
+The CEB plans to install 10MW/40MWh battery systems in 10 locations indicating storage of 640MWh.
+
+Sri Lanka now has connected too much rooftop solar in particular which has tended to de-stabilize the grid on Sunny weekends and holidays in particular when demand is low, leading to cascading failures.
+
+Private developers will be given 15 year period to operate the batteries.
+
+The BESS systems should be able to deliver 97.5 percent in the first year, going down to 62.5 percent in year 15.
+
+Sri Lanka’s electricity grid has to make large investments to the grid, running into several billion US dollars to accommodate bigger volumes of intermittent renewable energy.
+
+Until recently renewable energy was too expensive to make additional investments to accommodate higher volumes.
+
+...
+
+[Data](articles/6fef9e34.json)
 
 ---
 
@@ -999,6 +1135,28 @@ However, due to authorities ignoring these notifications, the Society of Governm
 ◼️
 
 [Data](articles/6e6c321e.json)
+
+---
+
+### Sri Lanka deflation not a concern, economy growing: CB Governor
+
+*2025-08-13 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-a-concern-economy-growing-cb-governor-235846/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s recent deflation is not a concern as the economy is growing at a ‘healthy’ rate, Central Bank Governor Nandalal Weerasinghe said.
+
+“We are gradually coming back to our target for from the deflation,” Governor Weerasinghe said.
+
+“It is not a concern because as long as the economy is growing at a healthy rate, deflation is not a concern.
+
+“Temporary period of deflation is good, especially after the spike in inflation and very high price levels experienced in the country in 2022.”
+
+What has been described as deflation in Sri Lanka is a 12-month statistical fall in inflation, mostly due to what is called a ‘base effect’ amid a very gentle rise in prices the last quarter of 2022, when the central bank’s deflationary policy started showing up in the balance of payments.
+
+The central bank in 2023 also allowed the currency to appreciate to around 300 to the US dollar, amid deflationary monetary policy which has allowed it to collect reserves.
+
+...
+
+[Data](articles/51ed0402.json)
 
 ---
 
@@ -1687,147 +1845,5 @@ The President also met with the Canadian High Commissioner, Eric Walsh, and exte
 ...
 
 [Data](articles/a48f5d50.json)
-
----
-
-### புதருக்குள் இருந்த தோட்டாக்களை கண்டுபிடித்த சிறுவர்கள்
-
-*2025-08-12 21:45:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதருக்குள்-இருந்த-தோட்டாக்களை-கண்டுபிடித்த-சிறுவர்கள்/175-362794) · `ta`
-
-வெலிபென்ன - லிந்தமுல்லகேவத்த, தொட்டுபல வீதியின் மீகம பிரதேசத்தில் வீடொன்றுக்கு அருகிலுள்ள புதரின் கீழிருந்து துப்பாக்கிகளுக்குப் பயன்படுத்தப்படும் சுமார் 45 தோட்டாக்கள் கண்டுபிடிக்கப்பட்டுள்ளன.
-
-அருகில் விளையாடிக் கொண்டிருந்த சிறுவர்கள் குழுவொன்று குறித்த தோட்டாக்களைக் கண்டு, அங்கிருந்த நபர் ஒருவருக்கு தெரிவித்ததைத் தொடர்ந்து,  பொலிஸாருக்கு தகவல் வழங்கியுள்ளார்.
-
-◼️
-
-[Data](articles/4e016f05.json)
-
----
-
-### ශාන්ත මුදුන්කොටුව ඝාතනය ගැන තවත් තොරතුරු
-
-*2025-08-12 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213307) · `si`
-
-හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු සභිකයෙකු වූ ශාන්ත මුදුන්කොටුව හෙවත් 'බනා' නමැත්තා මීගොඩ ප්‍රදේශයේදී අද (12) වෙඩිතබා ඝාතනය කෙරුණි.
-
-ලලිත් කන්නංගර හෙවත් 'බස් ලලිත්' නමැත්තා මෙම ඝාතනය මෙහෙයවා ඇති බවට පොලීසිය සැක කරයි.
-
-ඝාතනය සිදුවී සුළු වේලාවකට පසු වෙඩික්කරු සහ මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගන්නට තලංගම පොලීසිය සමත්වූ අතර අපරාධයට යොදාගත් බව කියන ගිනිඅවිය ද පොලිස් භාරයට ගැනුණි.
-
-මීගොඩ, ආටිගල පාර ප්‍රදේශයේදී අද දහවල් 1:10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-ස්කූටර් වර්ගයේ යතුරුපැදියකින් ගමන්කරමින් සිටි අයෙක් ඉලක්ක කර මෝටර් රථයකින් පැමිණි පුද්ගලයෙක් වෙඩිතැබීම සිදුකර ඇති බව මූලික විමර්ශනවලදී අනාවරණය විය.
-
-යතුරුපැදිකරුට වෙඩි ප්‍රහාර එල්ල කිරීමත් සමග ඔහු යතුරුපැදියෙන් බිමට පැන අසලවූ නිවසකට දිවගොස් තිබේ.
-
-පසුව ඔහු එහි සිටි කාන්තාවකට තමන්ට වෙඩිවැදී ඇති බවත් කඩිනමින් තමා රෝහල්ගත කරන ලෙසත් පවසා ඒ අසලවූ ත්‍රීරෝද රථයකට නැඟීමත් සමග ඉන් ඇදවැටී ඇත.
-
-ඒ සමග ඔහු සිය ජංගම දුරකථනයෙන් කිසිවෙකුට ඇමතුමක් ලබාගැනීමට උත්සාහ දරූවද එයද අසාර්ථක වී තිබේ.
-
-...
-
-[Data](articles/b4c53692.json)
-
----
-
-### ජනපති සහ වියට්නාම රොක්ස් සමූහයේ ප්‍රධානීන් අතර හමුවක්
-
-*2025-08-12 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213306) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක සහ වියට්නාමයේ ROX සමූහයේ උපදේශක මණ්ඩලයේ සභාපති, සමුද්‍රිය වාණිජ ඒකාබද්ධ කොටස් බැංකුවේ (MSB) සභාපති ට්‍රන් අන් තුවන් (Tran Anh Tuan) මහතා ඇතුළු නියෝජිතයින් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (12) පැවැත්විණි.
-
-ශ්‍රී ලංකාව තුළ වර්තමානයේ පවතින ස්ථාවරත්වය සහ ආයෝජකයින්ට හිතකර පරිසරය සැලකිල්ලට ගනිමින් මෙරට ආයෝජනය කිරීමට සූදානම් බව රොක්ස් සමාගමේ නියෝජිතයෝ මෙහිදී පැවසූහ.
-
-ඒ අනුව මෙරට කාර්මික කලාපයක් ස්ථාපිත කිරීම සඳහා රජයේ සහයෝගය අපේක්ෂා කරන බව ඔවුහු සඳහන් කළෝය.
-
-එසේම පුර්නජනනීය බල ශක්ති සහ දේපළ වෙළඳාම් යන ක්ෂේත්‍රයන්හි ආයෝජනය කිරීමට බලාපොරොත්තු වන බව ද ඔවුහු ජනාධිපතිවරයා හමුවේ පැවසූහ.
-
-◼️
-
-[Data](articles/e1bf6665.json)
-
----
-
-### Vietnam’s ROX Group to invest in large-scale projects in Sri Lanka
-
-*2025-08-12 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111410/vietnams-rox-group-to-invest-in-large-scale-projects-in-sri-lanka) · `en`
-
-President Anura Kumara Dissanayake met with senior representatives of Vietnam’s ROX Group at the Presidential Secretariat this afternoon (12).
-
-The delegation was led by Mr. Tran Anh Tuan, Chairman of the Advisory Board of ROX Group and Chairman of the Maritime Commercial Joint Stock Bank (MSB).
-
-The ROX Group delegation expressed their readiness to make significant investments in Sri Lanka, citing the nation’s current stability and favourable investment climate, the President’s Media Division (PMD) said.
-
-They sought government assistance to establish an industrial zone and indicated interest in the renewable energy and real estate sectors. The visit, they said, aimed to identify suitable land and secure the necessary institutional support for these ventures.
-
-President Dissanayake affirmed the government’s commitment to providing all necessary institutional backing for foreign investments, highlighting that a corruption-free environment has now been established in Sri Lanka, the PMD added.
-
-...
-
-[Data](articles/35f62fee.json)
-
----
-
-### නිවසක් අසල පඳුරක් යට සඟවා තිබූ උණ්ඩ 45ක් සොයාගනී
-
-*2025-08-12 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213305) · `si`
-
-වැලිපැන්න පොලිස් වසමේ ළිඳමුල්ලගේවත්ත, තොටුපල පාර මීගම ප්‍රදේශයේ නිවසක් අසල පඳුරක් යට තිබී පිස්තෝල අවි සඳහා භාවිත කරන ජීව උණ්ඩ තොගයක් හමුවී තිබේ.
-
-ඒ ආසන්නයේ ක්‍රීඩා කරමින් සිටි දරුවන් පිරිසක් මෙම උණ්ඩ තොගය දැක තිබෙන අතර පසුව වැඩිහිටියෙකු දැනුවත් කිරීමෙන් පසු පොලීසිට දැනුම්දී ඇත.
-
-◼️
-
-[Data](articles/59df77c6.json)
-
----
-
-### ප්‍රදේශ රැසකට හෙට විටින් විට වැසි
-
-*2025-08-12 20:30:44* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-රැසකට-හෙට-විටින්-විට-වැසි/11-417875) · `si`
-
-බස්නාහිර, සබරගමුව, වයඹ සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් හෙට(13දා) විටින් විට වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් ඌව පළාත, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40  ක පමණ තරමක තද සුළං ඇතිවිය හැක.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි ඇති වෙයි. සුළං නිරිත දිශාවෙන් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40ක් පමණ වේ.
-
-◼️
-
-[Data](articles/560f724f.json)
-
----
-
-### දකුණු අප්‍රිකාවට ලකුණු 53ක ජයක්
-
-*2025-08-12 20:22:12* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාවට-ලකුණු-53ක-ජයක්/9-417874) · `si`
-
-ඕස්ට්‍රේලියානු කණ්ඩායමට එරෙහිව පැවති දෙවැනි විස්සයි 20 ක්‍රිකට් තරගයෙන් ලකුනු 53ක ජයක් වාර්තා කිරීමට සංචාරක දකුනු අප්‍රිකා කණ්ඩායම අද(12දා) සමත් විය.
-
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුනු 218ක් රැස් කළේය.
-
-ඒ අනුව පිළිතුරු ඉනිම ක්‍රීඩා කළ ඕස්ට්‍රේලියානු කණ්ඩායමට පන්දුවාර 17යි පන්දු 4ක් අවසානයේ සියල්ලන් දැවී රැස් කරගත හැකි වූයේ ලකුණු 165ක් පමණී.
-
-◼️
-
-[Data](articles/492e39f9.json)
-
----
-
-### ஐயப்ப யாத்திரை புனித யாத்திரையாக பிரகடனம்
-
-*2025-08-12 19:55:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயப்ப-யாத்திரை-புனித-யாத்திரையாக-பிரகடனம்/175-362793) · `ta`
-
-ஐயப்ப பக்தர்களின் யாத்திரையை புனித யாத்திரையாக பிரகடனப்படுத்துவதாக பெருந்தோட்ட மற்றும் சமூக உட்கட்டமைப்பு வசதிகள் பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் இன்று (12) தெரிவித்தார்.
-
-இது தொடர்பாக நீண்ட காலமாக தொடர்ந்து கோரிக்கைகள் வைக்கப்பட்டிருந்தன. தேசிய மக்கள் சக்தி ஆட்சி உருவான பின் பக்தர்கள் என்னிடம் வைத்த கோரிக்கைகளை முன்வைத்தனர்.
-
-அந்த வகையில், நான் வைத்த முன்மொழிவின்படி, அமைச்சரவையில் சமர்ப்பிக்கப்பட்டு, அமைச்சரவையின் தீர்மானத்தின்படி இன்று முதல் ஐயப்ப யாத்திரை புனித யாத்திரையாக பிரகடனம் செய்யப்பட்டுள்ளது. இது ஒரு வரலாற்று நிகழ்வு இது குறித்து நான் மட்டற்ற மகிழ்ச்சி அடைகிறேன் என தெரிவித்தார். R
-
-◼️
-
-[Data](articles/34366ff7.json)
 
 ---

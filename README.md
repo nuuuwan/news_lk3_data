@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 16:22:20**
+As of **2025-08-13 16:33:34**
 
 ## Newspaper Stats
 
-*Scraped **70,311** Articles*
+*Scraped **70,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,284
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,779
+adalk | 6,780
 adaderanalk | 8,767
-tamilmirrorlk | 10,326
+tamilmirrorlk | 10,327
 virakesarilk | 11,709
 adaderanasinhalalk | 12,110
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,311 articles have been extended.
+61,973 (88.1%) of 70,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### NIMH பதில் பிரதி பணிப்பாளருக்கு நீதிமன்றம் வழங்கிய உத்தரவு
+
+*2025-08-13 16:18:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NIMH-பதில்-பிரதி-பணிப்பாளருக்கு-நீதிமன்றம்-வழங்கிய-உத்தரவு/175-362851) · `ta`
+
+சிறைச்சாலை சுகாதார சேவைகளின் முன்னாள் பிரதிப் பணிப்பாளர் டாக்டர் ஹேமந்த ரணசிங்கவை ஆகஸ்ட் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக  நீதவான் மஞ்சுள ரத்நாயக்க புதன்கிழமை (13) உத்தரவிட்டார்.
+
+2024 ஆம் ஆண்டு லஞ்சம் வாங்கிய குற்றச்சாட்டில்  தேசிய மனநல நிறுவனத்தின் (NIMH) பதில் பிரதி ஆணையாளர் டாக்டர் நயனஜித் ஹேமந்த ரணசிங்கவை இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு (CIABOC) புதன்கிழமை (13) கைது செய்தது.
+
+முன்னர் சிறைச்சாலை சுகாதார சேவைகள் பதில் பிரதி ஆணையாளராக பணியாற்றிய டாக்டர் ரணசிங்க, வெலிக்கடை சிறைச்சாலை மருத்துவமனையில் கைதி ஒருவருக்கு தொடர்ந்து சிகிச்சை அளிக்க ரூ. 1.5 மில்லியன் கோரியதாக குற்றம் சாட்டப்பட்டுள்ளது. அந்த கைதி நோய்வாய்ப்பட்டு உள்நோயாளியாக சிகிச்சை பெற்று வந்தார்.
+
+கோரிய லஞ்சத்தில் ரூ. 300,000 வழங்கப்பட்டதாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகள் குற்றம் சாட்டுகின்றனர்.
+
+...
+
+[Data](articles/b99a8fad.json)
+
+---
 
 ### 37வது பொலிஸ் மா அதிபராக பிரியந்த வீரசூரிய நியமனம்
 
@@ -47,6 +65,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8bd629c5.json)
+
+---
+
+### බී ලූණු ගොවීන් රජයෙන් කරන ඉල්ලීම
+
+*2025-08-13 15:44:43* · [`adalk`](https://www.ada.lk/breaking_news/බී-ලූණු-ගොවීන්-රජයෙන්-කරන-ඉල්ලීම/11-417890) · `si`
+
+මෙවර කන්නයේ බී ලූණු වගාව සාර්ථකව ඇති බැවින්, එම අස්වැන්න වෙළඳපලට පැමිණෙන අවස්ථාවේ බී ලූණු ආනයනය සීමා කර බද්දක් පනවා, ගොවියාට හා පාරිභෝගිකයාට අසාධාරණයක් නොවන මිලක් නියම කරන ලෙස බී ලූණු වගා කිරීමේ ගොවීන්ගේ සංගමය පවසයි.
+
+මහවැලි එච් කලාපයේ බී ලූණු ගොවීන්ගේ සංගමයේ සභාපති ඔස්ටින් චමින්ද කුමාර මහතා ඇතුළු ගොවීන් ඉල්ලන්නේ, මෙම මස 15 වැනි දින සිට ලබන මස අවසන් වනතුරු පමණක් බී ලූණු ආනයනය සීමා කරන ලෙසය.
+
+තමන්ට බී ලූණු වගා කිරීමේදී කිලෝග්‍රෑමයකට රුපියල් 140 පමණ වැය වන බවත්, ලැබූ අස්වැන්න සඳහා කිලෝග්‍රෑමයකට රුපියල් 200 ක පමණ මිලක් බලාපොරොත්තු වන බවත් ඔවුන් පවසති. මේ සඳහා රජය මැදිහත් විය යුතු බවද ඔවුන් අවධාරණය කරයි.
+
+මෙවර තම අස්වැන්නට නිසි මිලක් නොලැබුණහොත්, ඉදිරියේදී ගොවීන්ට මෙම වගාවෙන් ඉවත්වීමට සිදුවන අතර, ඉන් අනතුරුව රටට අවශ්‍ය සියලුම බී ලූණු පිටරටින් ආනයනය කිරීමට සිදුවන බවද ගොවීහු පෙන්වා දෙති.
+
+...
+
+[Data](articles/61497285.json)
 
 ---
 
@@ -118,7 +154,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213330) · `si`
 
-අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් හිටපු බන්ධනාගාර සෞඛ්‍ය සේව නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් හිටපු බන්ධනාගාර සෞඛ්‍ය සේවා නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
 
 අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතා විසින් මෙම නියෝගය නිකුත් කර තිබේ.
 
@@ -1829,49 +1865,5 @@ The need to initiate the formulation of a sustainable action plan was also empha
 ...
 
 [Data](articles/34b9c7a2.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට සවස 2න් පසුව වැසි
-
-*2025-08-13 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213311) · `si`
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
-
-සබරගමුව පළාතෙත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති වේ.
-
-ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/c60f65b0.json)
-
----
-
-### Madonna urges Pope to visit Gaza ‘before it’s too late’
-
-*2025-08-13 05:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111413/madonna-urges-pope-to-visit-gaza-before-its-too-late) · `en`
-
-Madonna has urged Pope Leo XIV to visit Gaza and bring his “light to the children before it’s too late”.
-
-The US queen of pop shared her plea on social media, saying the pontiff was “the only one of us who cannot be denied entry.”
-
-Her intervention came as the UK, EU, Australia, Canada and Japan issued a statement saying “famine is unfolding in front of our eyes” and urged action to “reverse starvation”.
-
-“Most Holy Father, please go to Gaza and bring your light to the children before it’s too late,” Madonna posted on Instagram. “As a mother, I cannot bear to watch their suffering.
-
-Israel has faced mounting pressure over the humanitarian situation in Gaza, with UN-backed experts last month warning “the worst-case scenario of famine” was playing out in the besieged territory.
-
-It has continued to deny there is starvation in Gaza and has accused UN agencies of not picking up aid at the borders and delivering it.
-
-...
-
-[Data](articles/91daa383.json)
 
 ---

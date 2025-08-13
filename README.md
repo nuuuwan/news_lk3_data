@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 17:31:26**
+As of **2025-08-13 17:53:10**
 
 ## Newspaper Stats
 
-*Scraped **70,318** Articles*
+*Scraped **70,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,781
-adaderanalk | 8,767
-tamilmirrorlk | 10,329
-virakesarilk | 11,709
+adaderanalk | 8,772
+tamilmirrorlk | 10,330
+virakesarilk | 11,712
 adaderanasinhalalk | 12,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,318 articles have been extended.
+61,973 (88.1%) of 70,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### ”ஜனாதிபதியும் பிரதமரும் அரசாங்கத்தின் சொத்துக்கள்”
+
+*2025-08-13 17:27:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியும்-பிரதமரும்-அரசாங்கத்தின்-சொத்துக்கள்/175-362855) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) அரசாங்கம் கவிழ்ந்துவிடாது என்றும், அதன் ஐந்து ஆண்டு பதவிக்காலம் முடியும் வரை ஆட்சியில் இருக்கும் என்றும் போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க உறுதியளித்தார். பதவிக்காலத்திற்குப் பிறகு, அரசாங்கம் மக்கள் முன் சென்று வாக்கெடுப்பு நடத்தக் கோரும் என்றும் அவர் கூறினார்.
+
+ஹம்பாந்தோட்டையில் ஊடகங்களுக்கு கருத்து தெரிவித்த அமைச்சர் ரத்நாயக்க, ஜனாதிபதியும் பிரதமர் ஹரிணி அமரசூரியவும் அரசாங்கத்தின் சொத்துக்கள் என்றும், ஆளும் கட்சிக்குள் எந்தப் பிளவுகளும் இல்லை என்றும் கூறினார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ ஆகியோரை விமர்சித்த அவர், அவர்களிடம் ஒற்றுமை இல்லை என்றும், அரசாங்கத்தை சீர்குலைக்க முயற்சித்து நேரத்தை வீணாக்க வேண்டாம் என்றும் வலியுறுத்தினார்.
+
+"அவர்கள் சமூக ஊடகங்களில் தங்கள் சேறு பூசும் பிரச்சாரங்களைத் தொடரலாம், ஆனால் அது எங்கள் நிர்வாகத்தைப் பாதிக்காது," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/e1aedb78.json)
+
+---
 
 ### பழனி காதலனுக்காக கள்ளப்படகில் வந்த இலங்கை இளம்பெண் (முழு விபரம்)
 
@@ -45,6 +63,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/220b1306.json)
+
+---
+
+### புதிய பொலிஸ்மா அதிபராக பிரியந்த வீரசூரிய நியமனம்
+
+*2025-08-13 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/222500) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவினால் புதிய பொலிஸ்மா அதிபராக  சிரேஸ்ட பிரதிப் பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய நியமிக்கப்பட்டுள்ளார்.
+
+புதிய பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவுக்கான நியமனக் கடிதத்தை ஜனாதிபதியின் செயலாளர் நந்திக சனத் குமாநாயக்க, இன்று (13) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் கையளித்தார்.
+
+இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 61 ஈ (ஆ) பிரிவின்படி, அரசியலமைப்பு  பேரவை இந்த புதிய நியமனத்திற்கு  ஒப்புதல் வழங்கியுள்ளது.
+
+அதன்படி, இலங்கை  பொலிஸ் திணைக்களத்தின் 37வது  பொலிஸ்மா அதிபராக சட்டத்தரணி பிரியந்த வீரசூரிய வரலாற்றில்  இணைகிறார்.
+
+இலங்கை பொலிஸில் பொலிஸ் கான்ஸ்டபிள், சப் இன்ஸ்பெக்டர் மற்றும் பொலிஸ் அத்தியட்சகர் ஆகிய மூன்று கட்டங்களையும் தாண்டி   பொலிஸ்மா அதிபர் பதவிக்கு தெரிவான முதலாவது பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய   என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7b240679.json)
+
+---
+
+### ஜப்பானில் வேலை வாங்கித் தருவதாக கூறி பண மோசடி
+
+*2025-08-13 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/222506) · `ta`
+
+ஜப்பானில் வேலை வாங்கித் தருவதாகக் கூறி பணம் மோசடி செய்த கல்கிசையைச் சேர்ந்த பெண் மீது பல முறைப்பாடுகள் பதிவு செய்யப்பட்டுள்ளன.
+
+இந்தப் பெண் பலரிடம் ஜப்பானில் இரண்டு வருடங்களுக்கு வேலை வாய்ப்பு வீசாக்களை பெற்றுத் தருவதாக கூறி பெரும் தொகையான பணத்தை மோசடி செய்துள்ளார்.
+
+2023 ஆம் ஆண்டு கம்பளையில் வசிக்கும் நபரொருவர் சம்பந்தப்பட்ட பெண்ணுக்கு 500,000 ரூபாவை முற்பணமாக கொடுத்துள்ளார்.
+
+இந்தப் பெண் பணத்தை திருப்பிக் கொடுக்கவில்லை. ஜப்பானில் வேலைவாய்ப்பை பெற்றுதரவும் நடவடிக்கை எடுக்கவில்லை என்பதால், அவருக்கு எதிராக கல்கிசை பொலிஸில் முறைப்பாடு அளிக்கப்பட்டுள்ளது.
+
+விசாரணைகளில் இதேபோன்ற முறையில் பலர் ஏமாற்றப்பட்டிருப்பது தெரியவந்துள்ளது. மேலும் சந்தேகநபர் அப்பகுதியை விட்டு தப்பிச் சென்றுள்ளார்.
+
+பதிவு செய்யப்படாமல் இதுபோன்ற செயல்களில் ஈடுபடுவது சட்டத்தின் கீழ் தண்டனைக்குரிய குற்றம் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் (SLBFE) வலியுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/af81404a.json)
 
 ---
 
@@ -102,6 +162,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Zelenskiy heads to Berlin for online meeting with Trump, European leaders
+
+*2025-08-13 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111440/zelenskiy-heads-to-berlin-for-online-meeting-with-trump-european-leaders) · `en`
+
+Ukrainian President Volodymyr Zelenskiy travelled to Berlin on Wednesday for a German-hosted virtual meeting with Donald Trump and European leaders, two days before the U.S. president meets Russian President Vladimir Putin in Alaska.
+
+Europe’s leaders are trying to drive home the perils of selling out Kyiv’s interests at the first U.S.-Russia summit since 2021.
+
+Trump has said the Alaska talks will be a “feel-out” meeting as he pursues a ceasefire in Moscow’s war on Ukraine, having said last week, to consternation in Kyiv and Europe, that any deal would involve “some swapping of territories”.
+
+Zelenskiy will meet German Chancellor Friedrich Merz before a video conference with the leaders of Germany, Finland, France, Britain, Italy, Poland and the European Union at 2 p.m. (1200 GMT), the hosts said.
+
+Trump and Vice President JD Vance will join the call at 3 p.m. (1300 GMT).
+
+...
+
+[Data](articles/f6f3783f.json)
+
+---
+
 ### 37வது பொலிஸ் மா அதிபராக பிரியந்த வீரசூரிய நியமனம்
 
 *2025-08-13 15:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37வது-பொலிஸ்-மா-அதிபராக-பிரியந்த-வீரசூரிய-நியமனம்/175-362849) · `ta`
@@ -135,6 +215,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/61497285.json)
+
+---
+
+### இலங்கையில் மனிதபுதைகுழிகள் தோண்டப்படும் நிலையில் தமிழ் மக்கள் வெளிநாட்டு உதவியை எதிர்பார்க்கின்றனர்
+
+*2025-08-13 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/222491) · `ta`
+
+இலங்கையில் மனித புதைகுழியொன்று தோண்டப்படும் ஒவ்வொரு தருணத்திலும் தம்பிராசா செல்வராணி உறக்கமிழந்தவராக காணப்படுகின்றார்.
+
+'எங்கள் உறவுகளிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் தோண்ட ஆரம்பிக்கும்போது நாங்கள் பதற்றமடைகின்றோம்" என அவர் டிடயில்யூவிற்கு(dw) தெரிவித்தார்.
+
+இலங்கையின் உள்நாட்டு போரின் இறுதி தருணங்களில் இலங்கைஇராணுவத்தினரிடம் சரணடைந்த பின்னர் காணாமல்போன தனது கணவர் முத்துலிங்கம் ஞானசெல்வத்தை 54வயது செல்வராணி தேடிவருகின்றார்.தசாப்தகால மோதலின் பின்னர் , தமிழீழ விடுதலைப்புலிகளின் தோல்வியுடன் யுத்தம்முடிவிற்கு வந்தது.
+
+அதன் பின்னர் பல பாரிய மனித புதைகுழிகள் கண்டுபிடிக்கப்பட்டுள்ளன.கடந்த மூன்று மாதகாலமாக தொல்பொருள் ஆய்வாளர்கள் செம்மணியில் உள்ள மனித  புதைகுழியை அகழ்ந்துவருகின்றனர்,இது இலங்கையின் வடபகுதி தலைநகரமான யாழ்ப்பாணத்தின் புறநகரில் உள்ளது.இதுவரை குழந்தைகளினது எலும்புக்கூடுகள் உட்பட 140க்கும் அதிகமான எலும்புக்கூடுகளை மீட்டுள்ளனர்.
+
+...
+
+[Data](articles/b4760051.json)
+
+---
+
+### Former Deputy Director of Prison Hospital remanded
+
+*2025-08-13 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111439/former-deputy-director-of-prison-hospital-remanded-) · `en`
+
+Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe who was arrested on bribery charges earlier today (13), has been remanded until August 19.
+
+The order was issued by Colombo Additional Magistrate Manjula Ratnayake after considering the facts presented by the Bribery Commission and the defense lawyers.
+
+He was arrested in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
+
+After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, a sum of Rs. 300,000 was reportedly accepted as a bribe.
+
+◼️
+
+[Data](articles/9817f107.json)
+
+---
+
+### Priyantha Weerasooriya appointed as Sri Lanka’s 37th IGP
+
+*2025-08-13 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111438/priyantha-weerasooriya-appointed-as-sri-lankas-37th-igp) · `en`
+
+Priyantha Weerasooriya has been appointed as the 37th Inspector General of Police of Sri Lanka.
+
+The appointment has been made by President Anura Kumara Dissanayake, the President’s Media Division said.
+
+The letter of appointment has been handed over to IGP Priyantha Weerasooriya by Secretary to the President, Dr. Nandika Sanath Kumanayake.
+
+Accordingly, Priyantha Weerasooriya (Attorney-at-Law) will assume duties in the office of Inspector General of Police on the 14th day of August, 2025, at Police Headquarters, Colombo 02.
+
+The Constitutional Council yesterday (12) approved President Dissanayake’s recommendation to appoint Acting Inspector General of Police (IGP) Priyantha Weerasooriya as the new IGP.
+
+The position of IGP became vacant following the removal of former IGP Deshabandu Tennakoon through a resolution in Parliament.
+
+...
+
+[Data](articles/1f641ab4.json)
 
 ---
 
@@ -185,6 +323,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0e491337.json)
+
+---
+
+### Five Chinese cybercrime suspects detained at BIA and deported
+
+*2025-08-13 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111437/five-chinese-cybercrime-suspects-detained-at-bia-and-deported) · `en`
+
+Five Chinese nationals suspected of attempting to enter Sri Lanka to engage in cybercrime activities have been arrested today (13) by officers of the Immigration and Emigration Department at the Bandaranaike International Airport (BIA), Katunayake.
+
+The individuals were detained at the airport and subsequently deported, said Ada Derana reporter.
+
+The individuals arrived at Katunayake Airport from Bangkok, Thailand, at 10:30 a.m. aboard SriLankan Airlines flight UL-405.
+
+Upon arrival, they were referred to the Chief Immigration and Emigration Officer for immigration clearance due to suspicions regarding the purpose of their visit.
+
+Investigations revealed that the group had claimed they were travelling to work for a company based in the Colombo Port City and had obtained the necessary residence visas to stay and work in Sri Lanka. However, when a senior official of the said company was questioned, he was unable to clearly explain the nature of the visitors’ jobs or the purpose of their visit.
+
+...
+
+[Data](articles/93e955e0.json)
 
 ---
 
@@ -256,11 +414,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former Deputy Director of Prison Hospital Dr. Hemantha Ranasinghe arrested
+
+*2025-08-13 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111436/former-deputy-director-of-prison-hospital-dr-hemantha-ranasinghe-arrested-) · `en`
+
+Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe, has been arrested on bribery charges.
+
+This is in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
+
+After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, Rs. 300,000 was reportedly accepted as a bribe.
+
+Dr. Hemantha Ranasinghe was arrested this morning (13) at his residence in Pita Kotte by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The suspect is scheduled to be produced before the Colombo Magistrate’s Court.
+
+He is currently serving as the Acting Deputy Director at the National Institute of Mental Health in Angoda.
+
+◼️
+
+[Data](articles/2e3d9a84.json)
+
+---
+
 ### Shooting incident reported in Minuwangoda
 
 *2025-08-13 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111435/shooting-incident-reported-in-minuwangoda) · `en`
 
-A shooting incident has been reported in Minuwangoda, a short while ago, police stated.
+A shooting incident has been reported in Pathaduwana, Minuwangoda, at around 12 noon today (13), police stated.
+
+The shooting was reportedly carried out by two unidentified gunmen who arrived on a motorcycle.
+
+According to the police, the shooting was carried out targeting an individual known as “Pas Dileepa” from Minuwangoda, who had escaped the shooting without any injuries.
 
 ◼️
 
@@ -1679,179 +1863,5 @@ According to officials, the heavy rains have pushed up the water level of rivers
 ◼️
 
 [Data](articles/f92fa3b4.json)
-
----
-
-### Pharmacists at Kurunegala Hospital on token strike today
-
-*2025-08-13 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111418/pharmacists-at-kurunegala-hospital-on-token-strike-today-) · `en`
-
-The Society of Government Pharmacists has announced that a 24-hour token strike will be staged today (13) at the Kurunegala Teaching Hospital.
-
-Chairman Ajith Tilakaratne stated that the trade union action is being taken in protest against the appointment of a pharmacy assistant with inadequate qualifications to the hospital.
-
-Accordingly, the token strike is scheduled to begin at 8:00 a.m. today.
-
-While qualified pharmacists are already providing services at the hospital, an unqualified pharmacy assistant has been assigned without any service requirement, Tilakaratne stated.
-
-He claimed that the Director General of Health Services has been informed about the issue on two separate occasions.
-
-However, due to authorities ignoring these notifications, the Society of Government Pharmacist has decided to proceed with the token strike.
-
-◼️
-
-[Data](articles/8026d3cd.json)
-
----
-
-### රුමේනියා රැකියා පෙන්වා මුදල් වංචා කළ සහකාර කළමනාකරුවකු අල්ලයි
-
-*2025-08-13 07:23:01* · [`adalk`](https://www.ada.lk/breaking_news/රුමේනියා-රැකියා-පෙන්වා-මුදල්-වංචා-කළ-සහකාර-කළමනාකරුවකු-අල්ලයි/11-417879) · `si`
-
-රුමේනියාවේ රැකියාවක් ලබා දෙන බව පවසා තරණයෙකුගෙන් රුපියල් නව ලක්ෂ හතලිස්පන්දහසක මුදලක් වංචා කළ බවට සැකපිට ශ්‍රී ලංකා විදේශ රැකියා ඒජන්සි සමාගමේ කළමනාකරුවෙකු අත්අඩංගුවට ගෙන තිබෙනවා. ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අනාරාහේන්පිට පිහිටි විදේශ රැකියා ඒජන්සි ආයතනයේ සිදුකළ වැටලීමකදී එම සැකකරු අත්අඩංගුවට පත්ව තිබේ.
-
-අත්අඩංගුවට පත් සැකකරු විසින් රුමේනියාවේ කර්මාන්ත ශාලාවක සහායක රැකියාවක් ලබා දෙන බව පොරොන්දුවී 2023 වසරේ සිට තමන්ව රවටමින් අවස්ථා කීපයකදී මුදල් ලබා ගත් බවට බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචි තරුණයෙකු පසුගිය 07 වනදා විදේශ සේවා නියුක්ති කාර්යාංශය වෙත පැමිණිලිකර තිබිණි. ඒ අනුව කාර්යාංශය විමර්ශන දියත් කර තිබූ අතර විමර්ශනයේදි අනාවරණය වූ කරුණු අනුව සැකකරු අත්අඩංගුවට ගැනීමට කටයුතු කර ඇත.
-
-විදේශ රැකියා ඒජන්සි සමාගම, විදේශ කටයුතු විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය යටතේ පාලනය වන අතර අත්අඩංගුවට පත් වන විට සැකකරු එම සමාගමේ පරිගණක අංශයේ සහකාර කළමනාකරු වශයෙන් සේවය කරමින් සිට තිබේ. අත්අඩංගුවට පත් සැකකරු අද හෝමාගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/6e6c321e.json)
-
----
-
-### Sri Lanka deflation not a concern, economy growing: CB Governor
-
-*2025-08-13 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-a-concern-economy-growing-cb-governor-235846/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s recent deflation is not a concern as the economy is growing at a ‘healthy’ rate, Central Bank Governor Nandalal Weerasinghe said.
-
-“We are gradually coming back to our target for from the deflation,” Governor Weerasinghe said.
-
-“It is not a concern because as long as the economy is growing at a healthy rate, deflation is not a concern.
-
-“Temporary period of deflation is good, especially after the spike in inflation and very high price levels experienced in the country in 2022.”
-
-What has been described as deflation in Sri Lanka is a 12-month statistical fall in inflation, mostly due to what is called a ‘base effect’ amid a very gentle rise in prices the last quarter of 2022, when the central bank’s deflationary policy started showing up in the balance of payments.
-
-The central bank in 2023 also allowed the currency to appreciate to around 300 to the US dollar, amid deflationary monetary policy which has allowed it to collect reserves.
-
-...
-
-[Data](articles/51ed0402.json)
-
----
-
-### මාදුරුඔයට කඩා වැටුණු හෙලිකොප්ටරයේ නියමුවාගෙන් අධිකරණයට ප්‍රකාශයක්
-
-*2025-08-13 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213315) · `si`
-
-නිදර්ශන චාරිකාවක් සඳහා මාදුරුඔය යුද හමුදා විශේෂ බළකා කඳවුරෙන් ගුවන් ගත කර තප්පර 30ක් ඇතුළත තමා පැදවූ බෙල් 212 හෙලිකොප්ටර් යානය තම පාලනයෙන් මිදී මාඳුරුඔය ජලාශයට කඩා වැටුණු බව එහි ගුවන් නියමු ෆ්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා දෙහිඅත්තකණ්ඩිය මහෙස්ත්‍රාත් අධිකරණයේදී පවසා තිබේ.
-
-'අද දෙරණ' අධිකරණ වාර්තාකරු පැවසුවේ, ගුවන් හමුදා සහ යුද හමුදා විශේෂ බළකා සාමාජිකයින් හය දෙනෙකුට දිවි අහිමි කරමින්  හෙලිකොප්ටර් යානය මාදුරුඔය ජලාශයට කඩා වැටීමේ සිද්ධියට අදාළ නඩුව දෙහිඅත්තකණ්ඩිය මහෙස්ත්‍රාත් ප්‍රියන්ත හාල්යාල මහතා ඉදිරියේ යළි කැඳවූ අවස්ථාවේදී මරණ පරීක්ෂණයේ සාක්ෂි ලබා දෙමින් ප්‍රධාන ගුවන් නියමුවා මේ බව පැවසූ බවය.
-
-හෙලිකොප්ටර් යානය පාලනයෙන් මිදී මාදුරුඔය ජලාශයට කඩා වැටුනේ තමාගේ වරදකින් නොවන බවට විශ්වාස කරන බව තවදුරටත් සාක්ෂි දෙමින් ප්‍රධාන ගුවන් නියමු ප්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා පවසා ඇත.
-
-හෙලිකොප්ටර් යානයේ ඇති වූ යම් කාර්මික දෝෂයක් නිසා එය කඩා වැටෙන්නට ඇති බවට තමා සැක කරන අතර ඊට නිශ්චිත හේතුවක් මෙතෙක් තහවුරු වී නොමැති බවද ඔහු සඳහන් කර තිබේ.
-
-...
-
-[Data](articles/3728c3fd.json)
-
----
-
-### Wife of South Korea’s jailed ex-president arrested
-
-*2025-08-13 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111417/wife-of-south-koreas-jailed-ex-president-arrested) · `en`
-
-South Korea’s former first lady has been arrested over a string of charges including stock manipulation and bribery.
-
-Kim Keon Hee, 52, denied all charges against her during a court hearing on Tuesday that lasted four hours. The Seoul court issued a warrant to detain her late in the day, citing risks that she may destroy evidence otherwise.
-
-This is the first time in South Korea’s history that a former president and his spouse are in jail at the same time.
-
-Kim’s husband, former President Yoon Suk Yeol, was detained earlier to face trial over a failed martial law bid last year that plunged the country into political turmoil and eventually led to his ouster.
-
-Prosecutors say Kim, 52, made over 800 million won ($577,940; £428,000) by participating in a price-rigging scheme involving the stocks of Deutsch Motors, a BMW dealer in South Korea.
-
-While this allegedly happened before her husband was elected the country’s leader, it continued to cast a shadow throughout his presidency.
-
-...
-
-[Data](articles/5be2e1c8.json)
-
----
-
-### මීගොඩ මන්ත්‍රී ඝාතනයට පැමිණි මෝටර් රථය හා සැකකරුවෙක් අල්ලයි
-
-*2025-08-13 07:00:44* · [`adalk`](https://www.ada.lk/breaking_news/මීගොඩ-මන්ත්‍රී-ඝාතනයට-පැමිණි-මෝටර්-රථය-හා-සැකකරුවෙක්-අල්ලයි/11-417877) · `si`
-
-හෝමාගම ප්‍රා දේශීය සභාවේ හිටපු මන්ත්‍ර‍ිවරයෙක් වෙඩි තබා ඝාතනය කිර‍ීමේ සිදුවීමට අදාළව සැකකරුවන් පැමිණි මෝටර් රථය හා සැකකරුවෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය  පවසයි.
-
-ඊයේ දහවල් මෙම වෙඩි තැබීම සිදුව තිබු‍ණ අතර වෙඩි තැබීමට පැමිණි මෝටර් රථය සම්බන්ධයෙන් මීගොඩ පොලීසිය විසින් අවට පොලිස් ස්ථාන දැනුවත් කිර‍ීමෙන් අනතුරුව සැකකටයුතු මෝටර් රථය තංගලම පාලම් තුන හංදිය ප්‍ර දේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
-
-මෝටර් රථය තුළ තිබී අයිස් ග්‍රෑම් 10.6ක්, රිවෝල්වර අවියක්, පතොරම් 14ක් සහිත ගැබක්, ජංගම දුරකතන 8ක් හා බැංකු කාඩ්පත් හතරක් සොයාගෙන තිබේ. පිස්තෝල අවිය මෙම වෙඩි තැබීම සඳහා භාවිත කළ අවිය බවට සැකකරු පොලීසයට පවසා තිබේ.
-
-◼️
-
-[Data](articles/4460423a.json)
-
----
-
-### Job agent arrested for defrauding youth over Rs. 900,000 by promising employment in Romania
-
-*2025-08-13 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111416/job-agent-arrested-for-defrauding-youth-over-rs-900000-by-promising-employment-in-romania) · `en`
-
-An Assistant Manager of a foreign employment agency has been arrested on suspicion of defrauding an individual of Rs. 945,000 by falsely promising him a job in Romania.
-
-The suspect was apprehended during a raid conducted at a foreign employment agency located in Narahenpita, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The youth, a resident of Bandarawela, had filed a complaint with the SLBFE stating that the suspect had promised him a job as a factory assistant in Romania and had repeatedly collected money from him since 2023.
-
-The foreign employment agency operates under the Ministry of Foreign Affairs, Foreign Employment, and Tourism. At the time of arrest, the suspect was reportedly serving as an Assistant Manager in the agency’s IT division.
-
-The suspect is scheduled to be presented before the Homagama Magistrate’s Court today (13).
-
-◼️
-
-[Data](articles/4fe1aa3f.json)
-
----
-
-### කුරුණෑගල රෝහලේ ඖෂධවේදීන් අද සංකේත වර්ජනයක
-
-*2025-08-13 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213314) · `si`
-
-කුරුණෑගල ශික්ෂණ රෝහලේ තුළ අද (13) දිනයේ පැය 24 සංකේත වැඩවර්ජනයක් ක්‍රියාත්මක කරන බව රජයේ ඖෂධවේදීන්ගේ සංගමය පවසයි.
-
-එහි සභාපති අජිත් තිලකරත්න මහතා සඳහන් කළේ, අඩු සුදුසුකම් සහිත ඖෂධ සංයෝජකවරයෙක් රෝහලට අනුයුක්ත කිරීමට එරෙහිව මෙම ක්‍රියාමාර්ගය ගන්නා බවය.
-
-සුදුසුකම් සහිත ඖෂධවේදීන් තම සේවය සපයමින් සිටින අතරතුර සේවා අවශ්‍යතාවය නොමැති ඖෂධ සංයෝජකවරයෙක් මෙලෙස අනුයුක්ත කර ඇති අතර, මේ සම්බන්ධයෙන් සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාව අවස්ථා දෙකකදී දැනුම් දී ඇතැයිද අජිත් තිලකරත්න මහතා පවසයි.
-
-නමුත් බලධාරීන් එම දැනුම්දීම නොසලකා හැර තිබීම හේතුවෙන් මෙම තීරණය ගත් බව ද ඒ මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/c74bb82a.json)
-
----
-
-### ජනපති සහ වියට්නාමයේ රොක්ස් සමූහයේ ප්‍රධානීන් අතර හමුවක්
-
-*2025-08-13 06:49:40* · [`adalk`](https://www.ada.lk/business/ජනපති-සහ-වියට්නාමයේ-රොක්ස්-සමූහයේ-ප්‍රධානීන්-අතර-හමුවක්/7-417876) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ වියට්නාමයේ ROX සමූහයේ උපදේශක මණ්ඩලයේ සභාපති සහ සමුද්‍රීය වාණිජ ඒකාබද්ධ කොටස් බැංකුවේ (MSB) සභාපති ට්‍රන් අන් තුවන් (Tran Anh Tuan) මහතා ඇතුළු නියෝජිතයින් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (12) පස්වරුවේ පැවැත්විණි.
-
-ශ්‍රී ලංකාව තුළ වර්තමානයේ පවතින ස්ථාවරත්වය සහ ආයෝජකයින්ට හිතකර පරිසරය සැලකිල්ලට ගනිමින් මෙරට ආයෝජනය කිරීමට සූදානම් බව රොක්ස් සමාගමේ නියෝජිතයෝ මෙහිදී පැවසූහ.
-
-ඒ අනුව මෙරට කාර්මික කලාපයක් ස්ථාපිත කිරීම සඳහා රජයේ සහයෝගය අපේක්ෂා කරන බව ඔවුහු සඳහන් කළහ. එසේම පුනර්ජනනීය බලශක්ති සහ දේපළ වෙළඳාම් යන ක්ෂේත්‍රයන්හි ආයෝජනය කිරීමට බලාපොරොත්තු වන බවද ඔවුහු ජනාධිපතිවරයා හමුවේ පැවසූහ.
-
-ඊට අදාළ කටයුතු සඳහා භූමිය හඳුනා ගැනීම සහ අවශ්‍ය ආයතනික සහාය ලබා ගැනීම වෙනුවෙන් මෙම සංචාරයේ නිරත වන බව ඔවුහු සඳහන් කළහ.
-
-මෙහිදී අදහස් දැක්වූ ජනාධිපතිවරයා කියා සිටියේ මේ වන විට ශ්‍රී ලංකාව තුළ දූෂණයෙන් තොර පරිසරයක් නිර්මාණය කර ඇති බැවින් ආයෝජන සඳහා ආයතනික මට්ටමින් ලබා දිය හැකි සියලු සහාය ලබා දීමට රජය සූදානම් බවයි.
-
-...
-
-[Data](articles/047f7b0f.json)
 
 ---

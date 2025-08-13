@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 16:33:34**
+As of **2025-08-13 16:48:49**
 
 ## Newspaper Stats
 
-*Scraped **70,313** Articles*
+*Scraped **70,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,780
 adaderanalk | 8,767
-tamilmirrorlk | 10,327
+tamilmirrorlk | 10,328
 virakesarilk | 11,709
 adaderanasinhalalk | 12,110
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,313 articles have been extended.
+61,973 (88.1%) of 70,314 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -227,6 +227,24 @@ A shooting incident has been reported in Minuwangoda, a short while ago, police 
 ◼️
 
 [Data](articles/b22edd98.json)
+
+---
+
+### இலங்கையில் கடுமையான மனித உரிமை மீறல்: அமெரிக்கா குற்றச்சாட்டு
+
+*2025-08-13 14:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இலங்கையில்-கடுமையான-மனித-உரிமை-மீறல்-அமெரிக்கா-குற்றச்சாட்டு/150-362845) · `ta`
+
+அரசு காவலில் உள்ள தனிநபர்களின் கொலைகள், காவலில் உள்ள சந்தேக நபர்களின் கொலை, பத்திரிகையாளர்களைத் துன்புறுத்துதல் மற்றும் கருத்துச் சுதந்திரத்தின் மீதான கட்டுப்பாடுகள் குறித்து ஆழ்ந்த கவலை கொண்டுள்ளது என்று அமெரிக்க வெளியுறவுத்துறை தெரிவித்துள்ளது.
+
+ஜனவரி மற்றும் ஆகஸ்ட் மாதங்களுக்கு இடையில் மனித உரிமைகள் ஆணையத்தால் அறிவிக்கப்பட்ட ஏழு காவல் மரணங்களையும் அறிக்கை குறிப்பிடுகிறது.
+
+'போராட்டத்திற்கு'ப் பிறகு 2022 தேர்தல்களில் மகத்தான வெற்றியில் ஆட்சிக்கு வந்த தற்போதைய அரசாங்கம், மனித உரிமை மீறல்களுக்குப் பொறுப்பான அதிகாரிகளுக்கு எதிராக 'குறைந்தபட்ச நடவடிக்கை' மட்டுமே எடுத்துள்ளது.
+
+பயங்கரவாதத் தடுப்புச் சட்டத்தின் கீழ் ஒப்புதல் வாக்குமூலங்களைப் பெறுவதற்கான சித்திரவதை குற்றச்சாட்டுகள் மற்றும் கைதுகள், வடக்கு மற்றும் கிழக்கில் தமிழ் பத்திரிகையாளர்களைத் துன்புறுத்துதல் மட்டுமல்லாமல், தொழிலாளர் உரிமைகள் மற்றும் பிற பிரச்சினைகள், பெண்களை கட்டாயமாக கருத்தடை செய்தல், போர்க்கால காணாமல் போனவர்கள் பற்றிய விசாரணையில் மெதுவான முன்னேற்றம் மற்றும் மனித புதைகுழிகள் ஆகியவையும் இந்த அறிக்கையில் அடங்குகின்றன.
+
+...
+
+[Data](articles/4e9a9454.json)
 
 ---
 
@@ -1847,23 +1865,5 @@ They also demanded that Katchatatheevu island must be taken back from Sri Lanka.
 ◼️
 
 [Data](articles/3f7edde9.json)
-
----
-
-### Human-Elephant Conflict: Officials mull relocating elephants that encroach on villages
-
-*2025-08-13 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111414/human-elephant-conflict-officials-mull-relocating-elephants-that-encroach-on-villages) · `en`
-
-The Secretary to the Ministry of Defence, Air Vice Marshal Sampath Thuyacontha (Retd) chaired a meeting at the Defence Ministry, to review the ongoing measures to mitigate the escalating human-elephant conflict.
-
-The discussion placed special emphasis on addressing the damage caused by wild elephants to agricultural lands and the livelihoods of communities across the island.
-
-Among other key topics deliberated were the relocation of elephants that have encroached on villages to designated protected reserves and the installation of advanced elephant fencing integrated with real-time monitoring systems, and the implementation of community awareness programmes aimed at fostering sustainable human-elephant coexistence, the Ministry of Defence said in a statement.
-
-The need to initiate the formulation of a sustainable action plan was also emphasized during the meeting, said the Ministry.
-
-...
-
-[Data](articles/34b9c7a2.json)
 
 ---

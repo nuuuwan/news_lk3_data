@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 14:37:35**
+As of **2025-08-13 14:51:08**
 
 ## Newspaper Stats
 
-*Scraped **70,292** Articles*
+*Scraped **70,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 4,283
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,776
-adaderanalk | 8,763
+adalk | 6,777
+adaderanalk | 8,765
 tamilmirrorlk | 10,321
-virakesarilk | 11,707
+virakesarilk | 11,708
 adaderanasinhalalk | 12,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,292 articles have been extended.
+61,973 (88.2%) of 70,296 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### கருநிலம்’ (கருப்பு மண்) மன்னார் மக்கள் மாற்றத்தின் ‘காற்றை’ தொடர்ந்து எதிர்க்கின்றனர்.
+
+*2025-08-13 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222383) · `ta`
+
+மன்னாரில் கடந்த மூன்றாம் திகதி ஆரம்பமாகி தொடரும் போராட்டத்திற்கான பெயர் கருநிலம்.சட்டவிரோத கனியவள- இல்மனைட் அகழ்வு - காற்றாலை மின் திட்டம்இறால் பண்ணைகள் போன்ற மன்னார் தீவின் இயற்கை சமநிலையை அழித்துக்கொண்டிருக்கின்ற விடயங்களிற்கு எதிராக இந்த ஆர்ப்பாட்டங்கள் இடம்பெறுகின்றன.
+
+மன்னார் இலங்கையில் அதிகளவு மணல்பரப்பை கொண்ட தீவாக கருதப்படுகின்றது இந்தியாவிற்கு அருகில் உள்ளது.முன்னைய ஆட்சியாளர்களின் தொலைநோக்கற்ற  தீர்மானங்கள் காரணமாக மன்னார் மக்கள் நிலம் நீரை பெறுவதற்கான வழிமுறைகள்உட்பட ஏனைய அடிப்படை உரிமைகளை இழக்கும் ஆபத்தை எதிர்கொண்டுள்ளனர்.
+
+சமீபத்தில் எப்படி காற்றாலையை அமைப்பதற்கான பொருட்கள் மன்னாருக்கு கொண்டு செல்லப்பட்டன என்பதை பொதுமக்கள் பார்வையிட்டனர்.
+
+கடும் பாதுகாப்புடன் ஆறுஏழு வாகனங்களில் கொண்டு செல்லப்பட்ட இந்த இறக்கைகளை  - பொதுமக்கள் மூன்றுநாட்களாக தொடர்ச்சியாக பொதுமக்கள் மறித்தனர் என தெரியவந்துள்ளது.மன்னாரில் ஏற்கனவே உள்ள 30 காற்றுவிசையாழிகளிற்கு அப்பால் இந்த காற்றாலைகளை அமைக்க திட்டமிட்டுள்ளனர்.
+
+...
+
+[Data](articles/50824b11.json)
+
+---
+
+### காசாவில் இடம்பெறும் யுத்தத்தின் முகமாக மில்லியன்கணக்கானவர்களிற்கு அனஸ் அல் ஷரீவ் மாறினார் - பின்னர் இஸ்ரேல் அவரை கொன்றது
+
+*2025-08-13 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/222408) · `ta`
+
+காசாவில் யுத்த நிறுத்தம் நடைமுறைக்கு வந்தவேளை அனாஸ் அல் ஷரீவ் தொலைக்காட்சியில்  தனது பாதுகாப்பு சாதனங்களை அகற்ற தொடங்கினார்.மகிழ்ச்சியுடன் காணப்பட்ட மக்கள் ஆராவரித்தனர். அன்றைய நாளுடன் காசா பள்ளத்தாக்கில் உள்ள இரண்டு மில்லியன் மக்களின் துயரங்கள் முடிவிற்கு வந்துவிடும் என நம்பினார்கள்.
+
+இதற்கு ஏழு மாதங்களிற்கு பின்னர் காசா நகரத்தில் மேற்கொண்ட தாக்குதல் ஒன்றின் மூலம் இஸ்ரேல் அல்ஜசீரா ஊடகவியலாளரையும் அவரது சகாக்கள் நால்வரையும் கொலை செய்தது.
+
+காசாவில் அதிகம் அறியப்பட்ட ஊடகவியலாளர்களில் ஒருவர்இயுத்தத்தின் போது இஸ்ரேலால் கொல்லப்பட்ட பல பத்திரிகையாளர்களில் ஒருவர்.- அல் ஷரீவின் மரணம் சர்வதேச கண்டனங்களை மீண்டும் கிளறிவிட்டுள்ளதுடன் பொறுப்புக்கூறலிற்கான வேண்டுகோள்களும் வெளியாகியுள்ளன.
+
+இஸ்ரேல் காசாவிற்குள் சர்வதேச ஊடகங்கள் செல்வதற்கு தடைவிதித்திருந்த சூழ்நிலையில் மில்லியன் கணக்காண மக்களிற்கு காசாவின் கதையை தெரிவித்ததன் மூலம் 28 வயது அல் ஷரீவ் பிரபலமானவராக மாறினார்.
+
+...
+
+[Data](articles/d8286e35.json)
+
+---
+
 ### 14 கோடி ரூபாய் மோசடி: ஜோடி கைது
 
 *2025-08-13 13:50:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-கோடி-ரூபாய்-மோசடி-ஜோடி-கைது/175-362844) · `ta`
@@ -108,6 +144,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Govt keen to increase export earnings to US$ 36 billion by 2030
+
+*2025-08-13 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111431/govt-keen-to-increase-export-earnings-to-us-36-billion-by-2030) · `en`
+
+Another round of discussions has been held to review and address challenges in achieving the government’s target of increasing export earnings to US$ 36 billion by 2030, the President’s Media Division said.
+
+Accordingly, the second meeting of the Export Development Council of Ministers (EDCM) was held under the patronage of President Anura Kumara Dissanayake at the Presidential Secretariat.
+
+The discussions focused on reviewing the decisions taken at the previous meeting and also identifying potential solutions to challenges in achieving the targets set by the government.
+
+...
+
+[Data](articles/a3b93631.json)
+
+---
+
 ### நான் என்ன சும்மாவா? உலக பொலிஸ் காரன்
 
 *2025-08-13 13:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-என்ன-சும்மாவா-உலக-பொலிஸ்-காரன்/62-362843) · `ta`
@@ -115,6 +167,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/574057c7.json)
+
+---
+
+### Woman flees after defrauding job seekers promising employment in Japan
+
+*2025-08-13 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111430/woman-flees-after-defrauding-job-seekers-promising-employment-in-japan) · `en`
+
+A number of complaints have been lodged against a woman from Mount Lavinia, who had defrauded people of money by claiming she could find employment in Japan.
+
+According to police, she allegedly collected large sums of money from victims, promising them two-year work visas.
+
+A person residing in Gampola reportedly made an initial payment of Rs. 500,000 to the woman in question on November 14, 2023.
+
+As the woman has neither returned the money nor taken steps to arrange employment in Japan, a complaint has been filed against her at the Mount Lavinia Police.
+
+Investigations have revealed that multiple people were defrauded in a similar manner, and the suspect has since fled the area.
+
+Meanwhile, in response to an inquiry made by Ada Derana, the Sri Lanka Bureau of Foreign Employment (SLBFE) emphasized that engaging in such activities without registering with SLBFE is a punishable offence under the law.
+
+◼️
+
+[Data](articles/8ae31ff1.json)
 
 ---
 
@@ -205,6 +279,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5b5eba40.json)
+
+---
+
+### ரஸ்ய இஸ்ரேலிய படையினர் பாலியல்வன்முறைகளில் ஈடுபடுவதாக தகவல்கள் - ஐநா செயலாளர் நாயகம் கடும் எச்சரிக்கை
+
+*2025-08-13 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222475) · `ta`
+
+ரஸ்ய இஸ்ரேலிய படையினர் பாலியல்வன்முறைகளில் ஈடுபடுவது குறித்து ஐக்கியநாடுகள் செயலாளர் நாயகம் அன்டோனியோ குட்டேரஸ் எச்சரித்துள்ளார்.
+
+மோதல்களில் நடைபெறும் பகுதிகளில் பாலியல் வன்முறைகளில் ஈடுபடும் தரப்பினர் பட்டியலில் ரஸ்ய இஸ்ரேலிய படையினரும் சேர்க்கப்படலாம் என அவர் எச்சரித்துள்ளார்.
+
+ஐக்கியநாடுகளால் தொடர்ந்து ஆவணப்படுத்தப்பட்டுள்ள சிலவகையான பாலியல்வன்முறைகளின் வடிவங்கள் குறித்த குறிப்பிடத்தக்க கவலையின் விளைவு இதுவாகும் என அவர் குறிப்பிட்டுள்ளார்.
+
+மோதல்களின் போது இடம்பெறும் பாலியல்வன்முறைகள் குறித்த ஐக்கியநாடுகள் பாதுகாப்பு சபைக்கான தனது அறிக்கையில் இதனை தெரிவித்துள்ள அவர் பாலியல் வன்முறை மற்றும் ஏனைய பாலியலன்வன்முறை வடிவங்களில் ஈடுபடுவதாக நம்பகதன்மை மிக்க விதத்தில் சந்தேகிக்கப்படுபவர்கள் அல்லது அவற்றில் ஈடுபடுபவர்கள் குறித்த அடுத்த வருட அறிக்கையில் ரஸ்யஇஸ்ரேலிய படையினரும் இணைத்துக்கொள்ளப்படலாம் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/23134f60.json)
 
 ---
 
@@ -741,6 +833,22 @@ No suspects have been arrested in connection with the incident thus far, and See
 ◼️
 
 [Data](articles/4751c6ea.json)
+
+---
+
+### පොලිස්පතිට සෘජුවම කියන්න වට්ස්ඇප් අංකයක්
+
+*2025-08-13 10:50:14* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිට-සෘජුවම-කියන්න-වට්ස්ඇප්-අංකයක්/11-417886) · `si`
+
+මහජනතාවට මුහුණ පෑමට සිදුවන අපරාධ හා විවිධ ගැටලුකාරී අවස්ථා ක්ෂණිකව දැනුම් දීම සඳහා පොලිස්පති
+
+නීතිඥ ප්‍රියන්ත විරසූරිය මහතා විසින් 071/8598888 යන වට්ස් ඇප් අංකය අද (13දා) සිට හඳුන්වාදී තිබේ.
+
+මෙම අංකය ඔස්සේ මහජනතාවට මෙන්ම පොලිස් නිලධාරීන්ටද සෘජුවම කෙටි පණිවිඩ ලබාදීම, වීඩියෝ දර්ශන හා ඡායාරූප යොමු කිරීම සඳහා පමණක් භාවිත කළ බවත් දුරකතන ඇමතුම් ලබා ගැනීමේ හැකියාවක් නොවත් බවත් පොලිස් මූලස්ථානය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/afdc8a5b.json)
 
 ---
 
@@ -1763,101 +1871,5 @@ Remarkably, 10 IGPs have issued commendation letters in recognition of Weerasoor
 ◼️
 
 [Data](articles/e7087134.json)
-
----
-
-### மலேசிய உயர்ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
-
-*2025-08-13 03:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசிய-உயர்ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-362812) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இலங்கைக்கான மலேசிய உயர்ஸ்தானிகர் பத்லி ஹிஷாம் பின் ஆதமுக்கும் இடையிலான சந்திப்பு நேற்று (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-இலங்கைக்கும் மலேசியாவுக்கும் இடையிலான நெருங்கிய உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது இரு தரப்பினரும் கவனம் செலுத்தினர்.
-
-விசேடமாக மலேசியாவின் சுற்றுலா, வர்த்தகம் மற்றும் கல்வி ஆகிய துறைகள் மற்றும் அண்மைய கால வெற்றிகள் குறித்த தனது அனுபவங்களை இலங்கையுடன் பகிர்ந்து கொள்ளத் தயாராக இருப்பதாக  மலேசிய உயர் ஸ்தானிகர் இங்கு தெரிவித்தார்.
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே ஆகியோரும் இந்நிகழ்வில் கலந்து கொண்டனர். (a)
-
-◼️
-
-[Data](articles/be345e5d.json)
-
----
-
-### 2025-08-12 (Tuesday)
-
-### Vietnam’s ROX Group seeks assistance to establish industrial zone in Sri Lanka: PMD
-
-*2025-08-12 23:42:00* · [`economynextcom`](https://economynext.com/vietnams-rox-group-seeks-assistance-to-establish-industrial-zone-in-sri-lanka-pmd-235839/) · `en`
-
-ECONOMYNEXT – Representatives of Vietnam’s ROX Group have met Sri Lanka President Anura Dissanayake to ‘express their readiness to make investments’ in the island nation, the president’s media division said.
-
-“They sought government assistance to establish an industrial zone and indicated interest in the renewable energy and real estate sectors,” the PMD said.
-
-The visit, the PMD said, aimed to identify suitable land and secure the necessary institutional support for these ventures.
-
-Dissanayake “affirmed the government’s commitment to providing all necessary institutional backing for foreign investments”.
-
-The delegation was led by Chairman of the Advisory Board of ROX Group and Chairman of the Maritime Commercial Joint Stock Bank (MSB) Tran Anh Tuan.
-
-Also attending the meeting were Chairperson of the ROX Group Nguyen Thi Nguyet Huong, and Chief Officer of the Energy Division Luu Le Chi. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/20254ae3.json)
-
----
-
-### NDB Bank partners with Student in Aus Education Consultants to make overseas education seamless for Sri Lankans
-
-*2025-08-12 23:15:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-student-in-aus-education-consultants-to-make-overseas-education-seamless-for-sri-lankans/) · `en`
-
-Reaffirming its commitment to empowering Sri Lankans on their academic journeys beyond borders, NDB Bank is pleased to announce its latest partnership with Student in Aus Education Consultants. The strategic collaboration, marked by the signing of a Memorandum of Understanding (MoU) on 25th July 2025, aims to further simplify access to global education by offering a comprehensive suite of financial solutions to students and their families.
-
-The official signing took place at NDB Bank’s Head Office, with Sanjaya Perera, Senior Vice President – Personal Banking & Customer Experience, and Vinjaya Jayasinghe, Assistant Vice President – Branch Operations, representing the Bank. Signing on behalf of Student in Aus Education Consultants were Directors Charith Ranasinghe and Ms. Shafrina Rizvi.
-
-...
-
-[Data](articles/08ac74a5.json)
-
----
-
-### Finlays – StrEdge collaboration nurtures future-ready leaders
-
-*2025-08-12 23:15:00* · [`islandlk`](http://island.lk/finlays-stredge-collaboration-nurtures-future-ready-leaders/) · `en`
-
-StrEdge Advisory, the business consultancy arm of StrEdge Group of Companies, recently concluded a ten- month Leadership Development Programme for Finlays Colombo Limited. The participants comprised a hand-picked group of high performing professionals drawn from the middle management of Finlays. They represented a diverse cross-section of the business and were identified as future-ready leaders who would bring agility, empathy and innovation to a growing organisation.
-
-...
-
-[Data](articles/c4ea41c1.json)
-
----
-
-### Vietnamese conglomerate evincing keen interest in SL’s renewable energy sector
-
-*2025-08-12 23:07:00* · [`islandlk`](http://island.lk/vietnamese-conglomerate-evincing-keen-interest-in-sls-renewable-energy-sector/) · `en`
-
-Sri Lanka’s renewable energy ambitions are drawing the attention of some of Vietnam’s largest corporations, with the ROX Group — a leading Vietnamese business conglomerate — signaling its intent to explore major investments in the country’s power sector.
-
-Yesterday ROX Group chairman Le Anh Due and a high-level executive team met with Power and Energy Minister Eng. Kumara Jayakody at the ministry’s Colombo office. The meeting was a direct outcome of the agreements and ties strengthened during President Anura Kumara Dissanayake’s recent official visit to Vietnam, some observers said.
-
-...
-
-[Data](articles/30ba1417.json)
-
----
-
-### Bank of Ceylon appoints Y.A. Jayathilaka as Acting General Manager/CEO
-
-*2025-08-12 23:07:00* · [`islandlk`](http://island.lk/bank-of-ceylon-appoints-y-a-jayathilaka-as-acting-general-manager-ceo/) · `en`
-
-The Bank of Ceylon has appointed Y.A. Jayathilaka as its Acting General Manager/Chief Executive Officer, succeeding Russel Fonseka, who retires after more than three decades of distinguished service. His appointment marks a new chapter for the nation’s largest state-owned commercial bank as it drives forward its transformation agenda and reinforces its commitment to national service.
-
-Jayathilaka, who began his banking career at the Bank of Ceylon as a Management Trainee in 1997, brings more than 28 years of industry experience, including over a decade in Assistant General Manager and Deputy General Manager grades.
-
-...
-
-[Data](articles/bd3ecd18.json)
 
 ---

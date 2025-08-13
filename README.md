@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 08:09:28**
+As of **2025-08-13 08:47:34**
 
 ## Newspaper Stats
 
-*Scraped **70,220** Articles*
+*Scraped **70,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,276
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,766
-adaderanalk | 8,750
+adalk | 6,767
+adaderanalk | 8,753
 tamilmirrorlk | 10,298
 virakesarilk | 11,699
 adaderanasinhalalk | 12,095
@@ -26,21 +26,91 @@ adaderanasinhalalk | 12,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.3%) of 70,220 articles have been extended.
+61,973 (88.3%) of 70,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
 
-### මාඳුරු ඔයට කඩා වැටුණු බෙල් 212 හෙලිකොප්ටරයේ නියමුවාගෙන් අධිකරණයට ප්‍රකාශයක්
+### Pharmacists at Kurunegala Hospital on token strike today
 
-*2025-08-13 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213315) · `si`
+*2025-08-13 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111418/pharmacists-at-kurunegala-hospital-on-token-strike-today-) · `en`
 
-නිදර්ශන චාරිකාවක් සඳහා මාඳුරුඔය යුද හමුදා විශේෂ බළකා කඳවුරෙන් ගුවන් ගත කර තප්පර 30ක් ඇතුළත තමා පැදවූ බෙල් 212 හෙලිකොප්ටර් යානය තම පාලනයෙන් මිදී මාඳුරුඔය ජලාශයට කඩා වැටුණු බව එහි ගුවන් නියමු ෆ්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා දෙහිඅත්තකන්ඩිය මහෙස්ත්‍රාත් අධිකරණයේදී පවසා තිබේ.
+The Society of Government Pharmacists has announced that a 24-hour token strike will be staged today (13) at the Kurunegala Teaching Hospital.
+
+Chairman Ajith Tilakaratne stated that the trade union action is being taken in protest against the appointment of a pharmacy assistant with inadequate qualifications to the hospital.
+
+Accordingly, the token strike is scheduled to begin at 8:00 a.m. today.
+
+While qualified pharmacists are already providing services at the hospital, an unqualified pharmacy assistant has been assigned without any service requirement, Tilakaratne stated.
+
+He claimed that the Director General of Health Services has been informed about the issue on two separate occasions.
+
+However, due to authorities ignoring these notifications, the Society of Government Pharmacist has decided to proceed with the token strike.
 
 ◼️
 
+[Data](articles/8026d3cd.json)
+
+---
+
+### මාදුරුඔයට කඩා වැටුණු හෙලිකොප්ටරයේ නියමුවාගෙන් අධිකරණයට ප්‍රකාශයක්
+
+*2025-08-13 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213315) · `si`
+
+නිදර්ශන චාරිකාවක් සඳහා මාදුරුඔය යුද හමුදා විශේෂ බළකා කඳවුරෙන් ගුවන් ගත කර තප්පර 30ක් ඇතුළත තමා පැදවූ බෙල් 212 හෙලිකොප්ටර් යානය තම පාලනයෙන් මිදී මාඳුරුඔය ජලාශයට කඩා වැටුණු බව එහි ගුවන් නියමු ෆ්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා දෙහිඅත්තකණ්ඩිය මහෙස්ත්‍රාත් අධිකරණයේදී පවසා තිබේ.
+
+'අද දෙරණ' අධිකරණ වාර්තාකරු පැවසුවේ, ගුවන් හමුදා සහ යුද හමුදා විශේෂ බළකා සාමාජිකයින් හය දෙනෙකුට දිවි අහිමි කරමින්  හෙලිකොප්ටර් යානය මාදුරුඔය ජලාශයට කඩා වැටීමේ සිද්ධියට අදාළ නඩුව දෙහිඅත්තකණ්ඩිය මහෙස්ත්‍රාත් ප්‍රියන්ත හාල්යාල මහතා ඉදිරියේ යළි කැඳවූ අවස්ථාවේදී මරණ පරීක්ෂණයේ සාක්ෂි ලබා දෙමින් ප්‍රධාන ගුවන් නියමුවා මේ බව පැවසූ බවය.
+
+හෙලිකොප්ටර් යානය පාලනයෙන් මිදී මාදුරුඔය ජලාශයට කඩා වැටුනේ තමාගේ වරදකින් නොවන බවට විශ්වාස කරන බව තවදුරටත් සාක්ෂි දෙමින් ප්‍රධාන ගුවන් නියමු ප්ලයිට් ලෙෆ්ටිනන් පෝලන් ජයවර්ධන මහතා පවසා ඇත.
+
+හෙලිකොප්ටර් යානයේ ඇති වූ යම් කාර්මික දෝෂයක් නිසා එය කඩා වැටෙන්නට ඇති බවට තමා සැක කරන අතර ඊට නිශ්චිත හේතුවක් මෙතෙක් තහවුරු වී නොමැති බවද ඔහු සඳහන් කර තිබේ.
+
+...
+
 [Data](articles/3728c3fd.json)
+
+---
+
+### Wife of South Korea’s jailed ex-president arrested
+
+*2025-08-13 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111417/wife-of-south-koreas-jailed-ex-president-arrested) · `en`
+
+South Korea’s former first lady has been arrested over a string of charges including stock manipulation and bribery.
+
+Kim Keon Hee, 52, denied all charges against her during a court hearing on Tuesday that lasted four hours. The Seoul court issued a warrant to detain her late in the day, citing risks that she may destroy evidence otherwise.
+
+This is the first time in South Korea’s history that a former president and his spouse are in jail at the same time.
+
+Kim’s husband, former President Yoon Suk Yeol, was detained earlier to face trial over a failed martial law bid last year that plunged the country into political turmoil and eventually led to his ouster.
+
+Prosecutors say Kim, 52, made over 800 million won ($577,940; £428,000) by participating in a price-rigging scheme involving the stocks of Deutsch Motors, a BMW dealer in South Korea.
+
+While this allegedly happened before her husband was elected the country’s leader, it continued to cast a shadow throughout his presidency.
+
+...
+
+[Data](articles/5be2e1c8.json)
+
+---
+
+### Job agent arrested for defrauding youth over Rs. 900,000 by promising employment in Romania
+
+*2025-08-13 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111416/job-agent-arrested-for-defrauding-youth-over-rs-900000-by-promising-employment-in-romania) · `en`
+
+An Assistant Manager of a foreign employment agency has been arrested on suspicion of defrauding an individual of Rs. 945,000 by falsely promising him a job in Romania.
+
+The suspect was apprehended during a raid conducted at a foreign employment agency located in Narahenpita, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+The youth, a resident of Bandarawela, had filed a complaint with the SLBFE stating that the suspect had promised him a job as a factory assistant in Romania and had repeatedly collected money from him since 2023.
+
+The foreign employment agency operates under the Ministry of Foreign Affairs, Foreign Employment, and Tourism. At the time of arrest, the suspect was reportedly serving as an Assistant Manager in the agency’s IT division.
+
+The suspect is scheduled to be presented before the Homagama Magistrate’s Court today (13).
+
+◼️
+
+[Data](articles/4fe1aa3f.json)
 
 ---
 
@@ -59,6 +129,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c74bb82a.json)
+
+---
+
+### ජනපති සහ වියට්නාමයේ රොක්ස් සමූහයේ ප්‍රධානීන් අතර හමුවක්
+
+*2025-08-13 06:49:40* · [`adalk`](https://www.ada.lk/business/ජනපති-සහ-වියට්නාමයේ-රොක්ස්-සමූහයේ-ප්‍රධානීන්-අතර-හමුවක්/7-417876) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ වියට්නාමයේ ROX සමූහයේ උපදේශක මණ්ඩලයේ සභාපති සහ සමුද්‍රීය වාණිජ ඒකාබද්ධ කොටස් බැංකුවේ (MSB) සභාපති ට්‍රන් අන් තුවන් (Tran Anh Tuan) මහතා ඇතුළු නියෝජිතයින් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (12) පස්වරුවේ පැවැත්විණි.
+
+ශ්‍රී ලංකාව තුළ වර්තමානයේ පවතින ස්ථාවරත්වය සහ ආයෝජකයින්ට හිතකර පරිසරය සැලකිල්ලට ගනිමින් මෙරට ආයෝජනය කිරීමට සූදානම් බව රොක්ස් සමාගමේ නියෝජිතයෝ මෙහිදී පැවසූහ.
+
+ඒ අනුව මෙරට කාර්මික කලාපයක් ස්ථාපිත කිරීම සඳහා රජයේ සහයෝගය අපේක්ෂා කරන බව ඔවුහු සඳහන් කළහ. එසේම පුනර්ජනනීය බලශක්ති සහ දේපළ වෙළඳාම් යන ක්ෂේත්‍රයන්හි ආයෝජනය කිරීමට බලාපොරොත්තු වන බවද ඔවුහු ජනාධිපතිවරයා හමුවේ පැවසූහ.
+
+ඊට අදාළ කටයුතු සඳහා භූමිය හඳුනා ගැනීම සහ අවශ්‍ය ආයතනික සහාය ලබා ගැනීම වෙනුවෙන් මෙම සංචාරයේ නිරත වන බව ඔවුහු සඳහන් කළහ.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපතිවරයා කියා සිටියේ මේ වන විට ශ්‍රී ලංකාව තුළ දූෂණයෙන් තොර පරිසරයක් නිර්මාණය කර ඇති බැවින් ආයෝජන සඳහා ආයතනික මට්ටමින් ලබා දිය හැකි සියලු සහාය ලබා දීමට රජය සූදානම් බවයි.
+
+...
+
+[Data](articles/047f7b0f.json)
 
 ---
 
@@ -226,7 +316,17 @@ It is useful to unpack some of the President’s comments on the misguided criti
 
 *2025-08-13 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111412/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas-today) · `en`
 
-Showers will occur at times in Western, Sabaragamuwa and Central provinces and in Galle and
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts today (13), the Department of Meteorology said.
+
+Several spells of showers will occur in the North-western province as well.
+
+Fairly heavy falls above 50 mm are likely at some places in the Sabaragamuwa province and in the Nuwara-Eliya and Kandy districts, the Met. Department added.
+
+Meanwhile, showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district, the Met. Department noted.
+
+The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
 ◼️
 
@@ -1380,19 +1480,19 @@ European leaders and Ukrainian President Volodymyr Zelenskiy plan to speak with 
 
 ---
 
-### Sri Lanka Cabinet approves to call floating solar power consultancy
+### Sri Lanka to seek consultant to study floating solar farm feasibility
 
 *2025-08-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-to-call-floating-solar-power-consultancy-235754/) · `en`
 
-ECONOMYNEXT – Sri Lanka cabinet has approved a proposal for a consultancy firm to develop floating solar power panels in the island nation to reach its 70 percent carbon neutral target by 2030, Cabinet Spokesman Nalinda Jayatissa said.
+ECONOMYNEXT – Sri Lanka cabinet has approved a proposal for a consultancy firm to develop floating solar power plants in the island nation to reach its 70 percent carbon neutral target by 2030, Cabinet Spokesman Nalinda Jayatissa said.
+
+The consultant will help conduct feasibility and pre-feasibility studies on potential floating solar plant sites.
 
 The ruling National People’s Power government has aimed to be totally carbon neutral in 2050, ten years later than the previous administration’s goal.
 
 Related: Sri Lanka to start flora spatial mapping, eyes carbon credit trading
 
-The government’s Renewable Energy Resources Development Plan 2026 – 2030 has identified promising reservoirs with 3,000 megawatt estimated floating solar power based on the 10% median surface utilization, Cabinet Spokesman and Minister of Health and Media Jayatissa said.
-
-“When you try to build solar panels on land, there is an issue of space because of limited land space. So, as an alternative, the government has focused on floating solar power panels,” he said.
+The government’s Renewable Energy Resources Development Plan 2026 – 2030 has identified promising reservoirs with 3,000 megawatt estimated floating solar power based on the 10 percent median surface utilization, Cabinet Spokesman and Minister of Health and Media Jayatissa said.
 
 ...
 
@@ -1669,73 +1769,5 @@ Accordingly, the final report comprising the proposals obtained from various par
 ◼️
 
 [Data](articles/acf330c9.json)
-
----
-
-### விரிக்கப்பட்டிருந்த மின் கம்பியில் சிக்கி இருவர் பலி
-
-*2025-08-12 15:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரிக்கப்பட்டிருந்த-மின்-கம்பியில்-சிக்கி-இருவர்-பலி/175-362775) · `ta`
-
-ஒரு நெல் வயலில் சட்டவிரோதமாக விரிக்கப்பட்டிருந்த மின்சார கம்பியில் சிக்கி இரண்டு பேர் இறந்த சம்பவம் தொடர்பில் கிடைத்த முறைப்பாட்டின்  பேரில் உரகஸ்மன்ஹந்திய பொலிஸ் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-உரகஸ்மன்ஹந்திய பொலிஸ் பிரிவில் உள்ள அம்பா கஹா சந்திக்கு அருகிலுள்ள வயலில் இந்த சம்பவம், செவ்வாய்க்கிழமை (12) காலை இடம்பெற்றுள்ளது.
-
-அங்கீகரிக்கப்படாத மின்சார கம்பிகளைப் பொருத்தியதாக சந்தேகத்தின் பேரில் இரண்டு பேர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/6fdffb7e.json)
-
----
-
-### குன்றத்தூர் அபிராமி மேன்முறையீடு
-
-*2025-08-12 14:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குன்றத்தூர்-அபிராமி-மேன்முறையீடு/175-362773) · `ta`
-
-திருமணத்தை மீறிய உறவு காரணமாக குழந்தைகளை கொலை செய்த வழக்கில் விதிக்கப்பட்ட சாகும் வரை சிறை என்ற தண்டனையை ரத்து செய்யக்கோரி அபிராமி தாக்கல் செய்த மேல்முறையீடு மனு குறித்து காவல்துறை பதிலளிக்க சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-குன்றத்தூர் அருகே உள்ள மூன்றாம் கட்டளைப் பகுதியைச் சேர்ந்தவர் விஜய் (30). இவர் தனியார் வங்கியில் பணி செய்து வருகிறார். இவர், அபிராமி (25) என்ற மனைவி, அஜய் (7) என்ற மகன், கார்னிகா (4) என்ற மகளுடன் வசித்து வந்தார்.
-
-டிக்டாக்கில் பிரபலமாக இருந்த அபிராமிக்கும், அருகில் உள்ள பிரியாணி கடை ஒன்றில் பணி செய்து வந்த மீனாட்சி சுந்தரத்துக்கும் பழக்கம் ஏற்பட்டுள்ளது. இந்தப் பழக்கம் நாளடைவில் முறை தவறிய உறவாக மாறியது. இருவரின் விவாகரம் வெளியில் தெரியவர, அவர்களை வீட்டில் கண்டித்தனர்.
-
-...
-
-[Data](articles/c612b609.json)
-
----
-
-### Gamini Senarathne to be appointed Commissioner General of Buddhist Affairs
-
-*2025-08-12 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111402/gamini-senarathne-to-be-appointed-commissioner-general-of-buddhist-affairs) · `en`
-
-The Cabinet of Ministers has granted approval to the proposal submitted by the Minister of Buddha Shasana, Religious and Cultural Activities to appoint R. M. Gamini Senarathne to the post of Commissioner General of Buddhist Affairs.
-
-He is currently serving as the Secretary to the Provincial Ministry of Agriculture, Agricultural Production Marketing, Livestock and Health, and Fisheries Activities of the North Central Provincial Council.
-
-The post of Commissioner General of Buddhist Affairs currently remains vacant.
-
-Kasun Wellahewa, a Special Grade officer in the Sri Lanka Administrative Service and currently serving as the Additional Commissioner General of the Department of Buddhist Affairs, is acting in this position in addition to duties of his permanent post.
-
-On August 03, Kasun Wellahewa, who served as the Additional Commissioner of the Department of Buddhist Affairs, was appointed as the Acting Commissioner General of Buddhist Affairs.
-
-...
-
-[Data](articles/97cc6e5e.json)
-
----
-
-### Cabinet approval granted to recruit 62,000 to public service: President
-
-*2025-08-12 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111401/cabinet-approval-granted-to-recruit-62000-to-public-service-president) · `en`
-
-President Anura Kumara Dissanayake says his government’s aspiration is to bring the state into modernity.
-
-Speaking at the 2025 National Youth Conference in Colombo today (12), President Dissanayake noted that Cabinet approval has already been granted to promptly recruit around 62,000 individuals into the public service as part of the modernization effort.
-
-The President said, “Our government is not merely a center that provides jobs. Our government must become a center that creates jobs. But more importantly, we need a government that can build an economy and a social structure capable of sustaining such job creation through the public sector. Right now, our government is a patchwork of bits and pieces. What we are doing is bringing governance into the modern age. That’s why we’ve already identified about 62,000 vacancies that need to be urgently filled in the public service, and Cabinet approval has been granted for this.”
-
-...
-
-[Data](articles/750cd3c1.json)
 
 ---

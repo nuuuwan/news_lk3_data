@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 13:07:06**
+As of **2025-08-13 13:19:40**
 
 ## Newspaper Stats
 
-*Scraped **70,276** Articles*
+*Scraped **70,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,773
 adaderanalk | 8,763
-tamilmirrorlk | 10,317
+tamilmirrorlk | 10,318
 virakesarilk | 11,707
 adaderanasinhalalk | 12,104
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,276 articles have been extended.
+61,973 (88.2%) of 70,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### $2 மில்லியனைத் தாண்டிய முதல் தமிழ்ப் படம் ரஜினிகாந்தின் ‘கூலி’
+
+*2025-08-13 12:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/2-மில்லியனைத்-தாண்டிய-முதல்-தமிழ்ப்-படம்-ரஜினிகாந்தின்-கூலி/54-362842) · `ta`
+
+இந்திய நடிகர் ரஜினிகாந்த் நடிப்பில் லோகேஷ் கனகராஜின் 'கூலி' திரைப்படம் மிகப்பெரிய அளவில் திறந்துவைக்க உள்ளதாக தெரிகிறது, படத்தின் தயாரிப்பாளர்களான சன் பிக்சர்ஸ், அமெரிக்க பிரீமியர்களின் முன் விற்பனையில் தமிழ் படம் முந்தைய சாதனைகளை முறியடித்ததாக அறிவித்துள்ளது.
+
+இதன் பொருள் கூலி, லியோ மற்றும் பொன்னியின் செல்வன் அமெரிக்காவில் பிரீமியர்களுக்கான முன்கூட்டிய வசூலை முறியடித்தது மட்டுமல்லாமல், கபாலிக்கான தனது சொந்த சாதனையையும் முறியடித்துள்ளார்.
+
+வட அமெரிக்காவில் பிரீமியர் முன் விற்பனையில் $2 மில்லியனுக்கும் அதிகமான தொகையைத் தாண்டிய முதல் தமிழ் படம் கூலி என்று சன் பிக்சர்ஸ் தங்கள் சமூக ஊடகங்களில் அறிவித்துள்ளது.
+
+வட அமெரிக்காவில் பிரீமியர் முன் விற்பனையில் $2 மில்லியனைத் தாண்டிய முதல் தமிழ் படம் கூலி.  உலகளவில்  ஆகஸ்ட் 14 ஆம் திகதி வெளியாகிறது
+
+...
+
+[Data](articles/831481e7.json)
+
+---
 
 ### ඝාතනය වූ හිටපු ප්‍රා.ස. මන්ත්‍රීගේ දේහය නිවසට -  සැකකරුවන් අධිකරණයට
 
@@ -1811,23 +1829,5 @@ President Dissanayake affirmed the government’s commitment to providing all ne
 ◼️
 
 [Data](articles/34366ff7.json)
-
----
-
-### US, China extend tariff truce by 90 days, staving off surge in duties
-
-*2025-08-12 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111409/us-china-extend-tariff-truce-by-90-days-staving-off-surge-in-duties) · `en`
-
-The United States and China have extended a tariff truce for another 90 days, staving off triple-digit duties on each other’s goods as U.S. retailers get ready to ramp up inventories ahead of the critical end-of-year holiday season.
-
-U.S. President Donald Trump announced on his Truth Social platform on Monday that he had signed an executive order suspending the imposition of higher tariffs until 12:01 a.m. EST (0501 GMT) on November 10, with all other elements of the truce to remain in place.
-
-China’s Commerce Ministry issued a parallel pause on extra tariffs early on Tuesday, also postponing for 90 days the addition of U.S. firms it had targeted in April to trade and investment restriction lists.
-
-“The United States continues to have discussions with the PRC to address the lack of trade reciprocity in our economic relationship and our resulting national and economic security concerns,” Trump’s executive order stated, using the acronym for the People’s Republic of China.
-
-...
-
-[Data](articles/19c796d3.json)
 
 ---

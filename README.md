@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 09:21:33**
+As of **2025-08-13 09:42:40**
 
 ## Newspaper Stats
 
-*Scraped **70,228** Articles*
+*Scraped **70,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,276
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,768
+adalk | 6,769
 adaderanalk | 8,753
 tamilmirrorlk | 10,300
 virakesarilk | 11,699
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,228 articles have been extended.
+61,973 (88.2%) of 70,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,22 @@ However, due to authorities ignoring these notifications, the Society of Governm
 ◼️
 
 [Data](articles/8026d3cd.json)
+
+---
+
+### රුමේනියා රැකියා පෙන්වා මුදල් වංචා කළ සහකාර කළමනාකරුවකු අල්ලයි
+
+*2025-08-13 07:23:01* · [`adalk`](https://www.ada.lk/breaking_news/රුමේනියා-රැකියා-පෙන්වා-මුදල්-වංචා-කළ-සහකාර-කළමනාකරුවකු-අල්ලයි/11-417879) · `si`
+
+රුමේනියාවේ රැකියාවක් ලබා දෙන බව පවසා තරණයෙකුගෙන් රුපියල් නව ලක්ෂ හතලිස්පන්දහසක මුදලක් වංචා කළ බවට සැකපිට ශ්‍රී ලංකා විදේශ රැකියා ඒජන්සි සමාගමේ කළමනාකරුවෙකු අත්අඩංගුවට ගෙන තිබෙනවා. ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අනාරාහේන්පිට පිහිටි විදේශ රැකියා ඒජන්සි ආයතනයේ සිදුකළ වැටලීමකදී එම සැකකරු අත්අඩංගුවට පත්ව තිබේ.
+
+අත්අඩංගුවට පත් සැකකරු විසින් රුමේනියාවේ කර්මාන්ත ශාලාවක සහායක රැකියාවක් ලබා දෙන බව පොරොන්දුවී 2023 වසරේ සිට තමන්ව රවටමින් අවස්ථා කීපයකදී මුදල් ලබා ගත් බවට බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචි තරුණයෙකු පසුගිය 07 වනදා විදේශ සේවා නියුක්ති කාර්යාංශය වෙත පැමිණිලිකර තිබිණි. ඒ අනුව කාර්යාංශය විමර්ශන දියත් කර තිබූ අතර විමර්ශනයේදි අනාවරණය වූ කරුණු අනුව සැකකරු අත්අඩංගුවට ගැනීමට කටයුතු කර ඇත.
+
+විදේශ රැකියා ඒජන්සි සමාගම, විදේශ කටයුතු විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය යටතේ පාලනය වන අතර අත්අඩංගුවට පත් වන විට සැකකරු එම සමාගමේ පරිගණක අංශයේ සහකාර කළමනාකරු වශයෙන් සේවය කරමින් සිට තිබේ. අත්අඩංගුවට පත් සැකකරු අද හෝමාගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/6e6c321e.json)
 
 ---
 
@@ -1761,25 +1777,5 @@ The EUDR policy is aimed at minimizing deforestation and forest degradation link
 ◼️
 
 [Data](articles/61734f14.json)
-
----
-
-### Policy approval for Micro Finance and Loan Regulation Authority Act
-
-*2025-08-12 15:26:00* · [`islandlk`](http://island.lk/policy-approval-for-micro-finance-and-loan-regulation-authority-act/) · `en`
-
-The Cabinet of Ministers granted approval at their meeting held on 09.10.2023 to publish the draft bill prepared by the Legal Draftsman to introduce the Micro Finance and Loan Regulation
-
-Authority Act repealing the Micro Finance Act No. 6 of 2016 in the government gazette notification and subsequently, to submit the same to the Parliament for its concurrence.
-
-However, this draft bill was challenged before the Supreme Court by several parties and, the Supreme Court has issued the order.
-
-Furthermore, this draft bill has been directed to the Parliamentary Sector Supervisory Committee on the Appeasement of the Impact of the Economic Crisis. The Committee has informed to appoint a committee to provide recommendations after studying the views and optional resolutions furnished by various parties on its contents.
-
-Accordingly, the final report comprising the proposals obtained from various parties along with revisions as per the order of the
-
-...
-
-[Data](articles/064e5aea.json)
 
 ---

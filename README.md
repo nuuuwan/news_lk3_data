@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 11:32:47**
+As of **2025-08-13 11:52:20**
 
 ## Newspaper Stats
 
-*Scraped **70,251** Articles*
+*Scraped **70,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,276
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,771
+adalk | 6,772
 adaderanalk | 8,756
-tamilmirrorlk | 10,305
+tamilmirrorlk | 10,307
 virakesarilk | 11,706
 adaderanasinhalalk | 12,101
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,251 articles have been extended.
+61,973 (88.2%) of 70,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### ”இலங்கையில் AI புரட்சியை ஏற்படுத்த  ஒன்றுபடுவோம்”
+
+*2025-08-13 11:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/இலங்கையில்-AI-புரட்சியை-ஏற்படுத்த-ஒன்றுபடுவோம்/47-362826) · `ta`
+
+இலங்கையர்களான நாம் பார்த்துக் கொண்டிருக்காது செயற்கை நுண்ணறிவை (AI) எமது சேவைகளில் ஈடுபடுத்திக்கொள்ள முன்வர வேண்டும் என டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன தெரிவித்தார்.
+
+டிஜிட்டல் பொருளாதார அமைச்சுடன் இணைந்து ஸ்ரீலங்கா மொபிட்டெல், இலங்கை தகவல் தொடர்பு தொழில்நுட்ப நிறுவனம் இணைந்து ஏற்பாடு செய்துள்ள தேசிய AI கண்காட்சி மற்றும் மாநாடு -2025 ( National AI Expo & Conference -2025 ) எதிர்வரும் செப்டெம்பர் மாதம் 29 மற்றும் 30ஆம் திகதிகளில் கொழும்பில் நடைபெறவுள்ளது.
+
+இது தொடர்பில் ஊடகவியலாளர்களுக்கு அறிவிக்கும் மாநாடு ஒன்று இலங்கை தகவல் தொடர்பு தொழில்நுட்ப நிறுவனத்தின் கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (12) அன்று இடம்பெற்றது.
+
+இலங்கையை பொறுத்தவரையில், செயற்கை நுண்ணறிவு (AI) என்பது மிகவும் அவசியமானது. செயற்கை நுண்ணறிவு எமது கையடக்கத் தொலைபேசிகளில், இணைத்தளங்களில் மட்டுமல்ல, எமது அன்றாட வாழ்க்கையிலும் ஒரு பகுதியாக மாறியுள்ளது. உலகளாவிய ரீதியில் செயற்கை நுண்ணறிவு (AI) தொழிற்துறைகளில் மாற்றங்களை ஏற்படுத்தியுள்ளதுடன் பொருளாதாரங்களையும் வலுப்படுத்தி வருகின்றது.
+
+...
+
+[Data](articles/577f0d56.json)
+
+---
+
+### பொதுமக்களுக்காக புதிய வாட்ஸ் அப் எண் அறிமுகம்
+
+*2025-08-13 11:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்காக-புதிய-வாட்ஸ்-அப்-எண்-அறிமுகம்/175-362825) · `ta`
+
+பொதுமக்களின் பாதுகாப்பை உறுதி செய்வதில் இலங்கை பொலிஸார் அர்ப்பணிப்புடன் தனது கடமைகளை செய்து வருகின்ற நிலையில் குற்றங்கள் மற்றும் பொதுமக்கள் எதிர்கொள்ளும் பல்வேறு பிரச்சனைக்குரிய சூழ்நிலைகள் தொடர்பாக  உடனடியாக பொலிஸாருக்கு தெரிவிக்கக்கூடிய வகையில் 071 - 8598888 என்ற  புதிய வாட்ஸ் அப் தொலைபேசி எண்ணை  இலங்கை பொலிஸ் இன்ஸ்பெக்டர் ஜெனரல் (IGP) வழக்கறிஞர் பிரியந்த வீரசூரிய புதன்கிழமை (13) அறிமுகப்படுத்தியுள்ளார்.
+
+பொதுமக்கள் இந்த வாட்ஸ்அப் தொலைபேசி எண் ஊடாக குறுஞ்செய்திகள், காணொளிகள் மற்றும் புகைப்படங்களை நேரடியாக ஐ.ஜி.பிக்கு அனுப்ப மட்டுமே முடியும், எனவும்  தொலைபேசி அழைப்புகளை பெறுவதற்கான சாத்தியக்கூறு இல்லை என்றும் மேலும் தெரிவிக்கப்படுகிறது.
+
+அத்துடன் பொலிஸ் அதிகாரிகளும் தங்கள் பிரச்சினைகள் மற்றும் தகவல்களை இதன் மூலம் தெரிவிக்கலாம் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/27b94450.json)
+
+---
 
 ### முத்தையன்கட்டு சம்பவம் - கைதுசெய்யப்பட்ட நபரை அன்றிரவே பெற்றோரிடம் ஒப்படைத்துவிட்டோம் - இராணுவ பேச்சாளர்
 
@@ -399,6 +433,20 @@ The pilot phase of the project was officially launched at the Kataragama depot u
 ◼️
 
 [Data](articles/d770c493.json)
+
+---
+
+### මාලිමාවේ මන්ත්‍රීගේ ප්‍රකාශයට වෘත්තිය සමිති මධ්‍යස්ථානයේ විරෝධය
+
+*2025-08-13 08:46:41* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-මන්ත්‍රීගේ-ප්‍රකාශයට-වෘත්තිය-සමිති-මධ්‍යස්ථානයේ-විරෝධය/11-417882) · `si`
+
+ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන සුදත් බලගල්ල මහතා පසුගිය දිනක ග්‍රාම නිලධාරීන් සහ ප්‍රාදේශීය ලේකම් කාර්යාලවල සේවය කරනු ලබන නිලධාරීන් පිළිබදව දක්වනු ලැබූ අදහස්  දැඩි පිලිකුළෙන් යුක්තව හෙලා දකින බව සමස්ත ලංකා වෘත්තිය සමිති මධ්‍යස්ථානය කියයි.
+
+සමස්ත ලංකා වෘත්තිය සමිති මධ්‍යස්ථානයේ සම කැඳවුම්කරු සුමිත් කොඩිකාර මහතා සඳහන් කරන්නේ  ජාතික ජන බලවේගය  ආණ්ඩුව බලයට පත් කිරීමේදි පෙර ගමන් කරුවන් වශයෙන් කටයුතු කළ රජයේ නිලධාරීන් පිළිබදව මෙලෙස ද්වෙශ සහහතව කරනු ලබන මෙම පදනම් විරහිත ප්‍රකාශ තුලින් රටේ  ජනතාව අතර රජයේ නිලධාරීන් පිළිබදව දැඩි ක්‍රෝධයක් ඇතිවිය හැකි බවයි. ඔහු මේ සම්බන්ධයෙන් මෙසේද සඳහන් කරයි.
+
+...
+
+[Data](articles/5e132536.json)
 
 ---
 
@@ -1743,57 +1791,5 @@ A bond maturing on 15.09.2034 closed at 10.75/85 percent. (Colombo/Aug12/2025)
 ...
 
 [Data](articles/fb00ba08.json)
-
----
-
-### Sri Lanka’s first-ever AI Expo and Conference to be held in September
-
-*2025-08-12 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111406/sri-lankas-first-ever-ai-expo-and-conference-to-be-held-in-september) · `en`
-
-Sri Lanka will host its first-ever National AI Expo & Conference on September 29–30, 2025, at which the nation’s comprehensive AI roadmap will be unveiled, according to the Ministry of Digital Economy.
-
-The trailblazing initiative is the country’s most ambitious undertaking to position Sri Lanka as a leading AI hub in the Asia-Pacific region, accelerating artificial intelligence adoption throughout all economic sectors.
-
-The initiative aligns with the country’s goal of expanding the digital economy from an estimated US$3.5 billion in 2025 to US$15 billion by 2030, with AI expected to contribute 10–12% of that growth.
-
-The historic tri-party collaboration between the Ministry of Digital Economy, the Information and Communication Technology Agency (ICTA) Sri Lanka, and SLT-MOBITEL demonstrates unprecedented unity in driving national technological advancement.
-
-...
-
-[Data](articles/12066c23.json)
-
----
-
-### Sri Lanka 2032 bond bids rejected, 2035 bonds undersold
-
-*2025-08-12 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-2032-bond-bids-rejected-2035-bonds-undersold-235801/) · `en`
-
-ECONOMYNEXT – All bids for a 40 billion rupee offer of 2032 January 01 bonds were rejected, and 2035 bonds were undersold at an auction Tuesday, data from the state debt office showed.
-
-The debt office offered 25 billion rupees of 2035 June 15 bonds and 18.53 billion rupees were sold at a weighted average yield of 10.97 percent.
-
-There have been warnings that when private credit picks up, investors would move out of bonds if rates were cut to ‘signal’ rates down and the domestic ‘buffers’ cannot be used to suppress rates unless the money was previously deposited in the central bank as excess liquidity.
-
-But the use of excess liquidity repay bonds would lead to forex reserve losses amid a pick up in private credit. (Colombo/Aug12/2025)
-
-◼️
-
-[Data](articles/155f4859.json)
-
----
-
-### ඉන්දුනීසියාවට ප්‍රබල භූ කම්පනයක්
-
-*2025-08-12 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213299) · `si`
-
-ඉන්දුනීසියාවේ බටහිර පැපුවා කලාපයේ අද (12) ප්‍රබල භූ කම්පනයක් වාර්තා වී තිබේ.
-
-විදෙස් මාධ්‍ය සඳහන් කරන්නේ එය රික්ටර් මාපකයේ ඒකක 6.5ක ලෙස සටහන් වූ බවය.
-
-කෙසේ වෙතත් මෙම භූ කම්පනය හේතුවෙන් සුනාමි අවදානමක් නොමැති බව පැසිෆික් සුනාමි අනතුරු ඇඟවීමේ මධ්‍යස්ථානය පැවසුවේය.
-
-◼️
-
-[Data](articles/05773dcd.json)
 
 ---

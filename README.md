@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 15:49:59**
+As of **2025-08-13 16:07:39**
 
 ## Newspaper Stats
 
-*Scraped **70,309** Articles*
+*Scraped **70,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,284
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,778
+adalk | 6,779
 adaderanalk | 8,767
-tamilmirrorlk | 10,325
+tamilmirrorlk | 10,326
 virakesarilk | 11,709
 adaderanasinhalalk | 12,110
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,309 articles have been extended.
+61,973 (88.1%) of 70,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### 37வது பொலிஸ் மா அதிபராக பிரியந்த வீரசூரிய நியமனம்
+
+*2025-08-13 15:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37வது-பொலிஸ்-மா-அதிபராக-பிரியந்த-வீரசூரிய-நியமனம்/175-362849) · `ta`
+
+மூத்த துணைப் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவை புதிய பொலிஸ் மா அதிபராக (IGP) ஜனாதிபதி அனுரகுமார திசாநாயக்க, நியமித்துள்ளார்.
+
+அவருக்கான நியமனக் கடிதம், ஜனாதிபதி செயலகத்தில் ஜனாதிபதியின் செயலாளர் டாக்டர் நந்திக சனத் குமநாயக்கவினால் பிரியந்த வீரசூரியவிடம் புதன்கிழமை (13) பிற்பகல் வழங்கப்பட்டது.
+
+இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 61 E (b) பிரிவின்படி, அரசியலமைப்பு சபையின் ஒப்புதலுடன் இந்த நியமனம் செய்யப்பட்டுள்ளது.
+
+உயர் பதவியை ஏற்பதற்கு முன்பு, பொலிஸ் கான்ஸ்டபிள், துணைப் பொலிஸ் மா அதிபர் மற்றும் உதவிப் பொலிஸ் மா அதிபர் ஆகிய மூன்று முக்கிய பதவிகளிலும் முன்னேறிய முதல் பொலிஸ் மா அதிபர் இவர் ஆவார்.
+
+◼️
+
+[Data](articles/8bd629c5.json)
+
+---
 
 ### இலஞ்சம் வாங்கிய NIMH பதில் பிரதி ஆணையாளர் கைது
 
@@ -96,9 +114,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### බන්ධනාගාර රෝහලේ හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත අත්අඩංගුවට
+### බන්ධනාගාර රෝහලේ හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රිමාන්ඩ්
 
 *2025-08-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213330) · `si`
+
+අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් හිටපු බන්ධනාගාර සෞඛ්‍ය සේව නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතා විසින් මෙම නියෝගය නිකුත් කර තිබේ.
 
 බන්ධනාගාර සෞඛ්‍ය සේවා හිටපු නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
 
@@ -106,11 +128,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 වෛද්‍ය හේමන්ත රණසිංහ මහතාව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අද (13) පෙරවරුවේ පිටකෝට්ටේ පිහිටි සැකකරුගේ නිවසේදී අත්අඩංගුවට ගෙන තිබේ.
 
-අත්අඩංගුවට ගත් සැකකරු කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත ය.
-
-ඔහු දැනට අංගොඩ ජාතික මානසික විද්‍යායතනයේ නියෝජ්‍ය අධ්‍යක්ෂ (වැ.බ) ලෙස කටයුතු කරයි.
-
-◼️
+...
 
 [Data](articles/af3a9b06.json)
 
@@ -122,7 +140,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම වෙනුවෙන් සියලුම අමාත්‍යාංශවල මාණ්ඩලික නිලධාරීන් සඳහා පැවැත්වෙන කෘත්‍රීම බුද්ධිය භාවිතය පිළිබඳ විශේෂ වැඩමුළු මාලාව අගෝස්තු 15,16 සහ 23 යන දිනයන්හි අරලියගහ මන්දිරයේදී පැවැත්වීමට නියමිතය.
 
-‘AI for Transforming Public Service’ යන මැයෙන් පැවැත්වෙන මෙම වැඩමුළු මාලාව, රජයේ ප්‍රමුඛ වැඩසටහනක් වන රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීමත්, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීමත් අරමුණු කර ගනිමින් පැවත් වෙන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+‘AI for Transforming Public Service’ යන මැයෙන් පැවැත්වෙන මෙම වැඩමුළු මාලාව, රජයේ ප්‍රමුඛ වැඩසටහනක් වන රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීමත්, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීමත් අරමුණු කර ගනිමින් පැවත්වෙන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
 
 මෙහි පළමු වැඩසටහන පසුගිය දා ජනාධිපති කාර්යාලයීය මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්වුණු අතර දෙවන වැඩසටහන අධ්‍යාපන අමාත්‍යාංශයේ සහ තෙවන වැඩසටහන මුදල් අමාත්‍යාංශයේ මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්විණි.
 
@@ -879,6 +897,24 @@ He added that the Bureau has implemented several measures to facilitate the depl
 ...
 
 [Data](articles/82c21bc5.json)
+
+---
+
+### මේ වසරේ ඉහළම ශ්‍රමික ප්‍රේෂණ ජුලි මාසයේදී
+
+*2025-08-13 11:12:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඉහළම-ශ්‍රමික-ප්‍රේෂණ-ජුලි-මාසයේදී/11-417887) · `si`
+
+2025 වසරේ ජනවාරි සිට ජූලි දක්වා ගතවූ මාස 7ක කාලය තුළ වාර්තා වූ ඉහළම විගමණික ශ්‍රමික ප්‍රේෂණ ප්‍රමාණය වාර්තා කරමින් ජූලි මාසය තුළදී ඇමරිකානු ඩොලර් මිලියන 697.3 ක් විදෙස් රැකියාවෙහි නිරත ශ්‍රි ලාංකිකයින් විසින් මෙරටට එවා ඇතැයි ශ්‍රි ලංකා මහ බැංකු දත්ත වාර්තා පෙන්වා දෙයි. එය 2024 වර්ෂයේ වාර්තා වූ ඇමරිකානු ඩොලර් මිලියන 566.8 ක ප්‍රේෂණ ප්‍රමාණයට සාපේක්ෂව සියයට 19.5 ක වර්ධනයකි.
+
+ඒ අනුව මෙම වසරේ ගතවූ කාලය තුළ මුළු විදෙස් ශ්‍රමික ප්‍රේෂණ ලැබීම් ඇමරිකානු ඩොලර් බිලියන 4.43 ක් මෙරටට ලැබී තිබේ.
+
+2025 වසරේ මුල් මාස 7ක කාලය තුළදී 173,189 දෙනකු රැකියා සඳහා විදේශ ගතවි ඇති අතර, ඊට පිරිමි ශ්‍රමිකයින් 106,229 හා කාන්තා ශ්‍රමිකයින් 66,960 දෙනෙකු අයත් වේ.
+
+2025 වසර තුළදි ඇමරිකානු ඩොලර් බිලියන 7ක විගමණික ශ්‍රමික ප්‍රේෂණ ප්‍රමාණයක් මෙරටට ලැබෙනු  ඇතැයි අපේක්ෂා කරන බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
+
+...
+
+[Data](articles/f1119d46.json)
 
 ---
 
@@ -1837,33 +1873,5 @@ It has continued to deny there is starvation in Gaza and has accused UN agencies
 ...
 
 [Data](articles/91daa383.json)
-
----
-
-### How CID bypassed Navy Act to pull former Commander into Civilian Court
-
-*2025-08-13 05:47:50* · [`dailyftlk`](https://www.ft.lk/columns/How-CID-bypassed-Navy-Act-to-pull-former-Commander-into-Civilian-Court/4-780212) · `en`
-
-The Defence Ministry’s statement on the arrest of former Navy Commander Admiral Nishantha Ulugetenne reduces a serious constitutional and security matter to a public relations slogan “The law applies equally to all.” That is not a legal conclusion, in the military context equality before the law does not erase jurisdictional boundaries. Military law exists not to place service members above accountability but to ensure that offences committed in service or in connection with service are tried within the statutory framework designed to protect both national security and operational integrity.
-
-At the heart of this case is a decisive legal question Did the alleged offence occur during service and in connection with operational duties? If yes, the Navy Act No. 34 of 1950 Sections 34 and 131 applies without question and the proper forum is a court martial If no civilian courts retain jurisdiction. This is not a matter of preference it is the law
-
-...
-
-[Data](articles/89b5fbc8.json)
-
----
-
-### Pulse of a nation: Why tax compliance is a collective heartbeat
-
-*2025-08-13 05:43:36* · [`dailyftlk`](https://www.ft.lk/columns/Pulse-of-a-nation-Why-tax-compliance-is-a-collective-heartbeat/4-780211) · `en`
-
-Interest develops when people see how taxes relate to their everyday lives
-
-In Sri Lanka, the tax conversation has long centred on enforcement; penalties, audits, and the fear of getting it wrong. But this approach overlooks a powerful truth: most people don’t comply because they’re afraid, they comply when they believe. Around the world, a new wave of tax thinking is emerging, grounded not in threats but in trust. It draws on psychology, behavioural science, and local storytelling to shift the focus from force to fairness, from pressure to participation. This isn’t just better messaging, it’s a deeper transformation of how governments connect with citizens, turning tax from a demand into a shared commitment.
-
-...
-
-[Data](articles/52cd86a6.json)
 
 ---

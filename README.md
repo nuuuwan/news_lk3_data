@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 21:07:19**
+As of **2025-08-13 21:31:19**
 
 ## Newspaper Stats
 
-*Scraped **70,353** Articles*
+*Scraped **70,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
 adalk | 6,787
-adaderanalk | 8,775
-tamilmirrorlk | 10,339
-virakesarilk | 11,715
-adaderanasinhalalk | 12,114
+adaderanalk | 8,776
+tamilmirrorlk | 10,341
+virakesarilk | 11,718
+adaderanasinhalalk | 12,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,353 articles have been extended.
+61,973 (88.1%) of 70,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### பிள்ளையானுக்காக கொலைகளை நடாத்திய சகா காத்தான்குடியில் கைது
+
+*2025-08-13 21:14:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பிள்ளையானுக்காக-கொலைகளை-நடாத்திய-சகா-காத்தான்குடியில்-கைது/73-362866) · `ta`
+
+பிள்ளையான் என்ற முன்னாள் இராஜாங்க அமைச்சர் சி. சந்திரகாந்தன் செய்யப்பட்டதாக சந்தேகிக்கப்படும் கொலைகளில் முக்கிய துப்பாக்கி சூடு நடாத்திய பிள்ளையானின் சகாவான  முகமட் ஷாகித் என்பவரை மட்டக்களப்பு காத்தான்குடியில் அவரது வீட்டில் வைத்து இன்று மாலை சிஜடி யினர் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கிழக்கு பல்கலைக்கழக முன்னாள் உபவேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத்  கடத்தப்படு காணாமல் போன சம்பவங்கள் தொடர்பில் சந்தேகத்தின் அடிப்படையில் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவரான பிள்ளையானை கொழும்பு குற்ற விசாரணைப் பிரிவினர் (சிஜடி) மட்டக்களப்பில் உள்ள அவரது காரியாலயத்தில் வைத்து  கடந்த ஏப்ரல் 7ஆம் திகதி கைது செய்தனர்.
+
+அவரிடம் தொடர்ந்து இடம்பெற்றுவரும் விசாரணையையடுத்து காத்தான்குடியைச் சேர்ந்தவரும் கடந்த காலத்தில்  தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியில் இருந்து பிள்ளையானுடன் செயற்பட்ட 45 வயதுடைய முகமட் ஷாகித்தை  இன்று புதன்கிழமை மாலையில் அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஜடியினர் கைது செய்ததாக அவர் தெரிவித்தார்
+
+...
+
+[Data](articles/8fdee9c8.json)
+
+---
+
+### EPF உறுப்பினர்களுக்கு முக்கிய அறிவித்தல்
+
+*2025-08-13 21:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-உறுப்பினர்களுக்கு-முக்கிய-அறிவித்தல்/175-362864) · `ta`
+
+2024ஆம் ஆண்டின் இரண்டாம் பகுதிக்கான ஊழியர் சேமலாப நிதியத்தின் உறுப்பினர் கணக்குகளின் அறிக்கை  ஏற்கனவே நிறுவனங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளதாக   இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+
+மத்திய வங்கி உறுப்பினர்கள், நிர்வாக தலைவர்களிடம் தங்களது புதுப்பிக்கப்பட்ட அறிக்கையை பெறுமாறு வலியுறுத்தப்பட்டுள்ளனர்.
+
+உறுப்பினர்களின் பெயர்கள், தேசிய அடையாள அட்டை எண்கள் மற்றும் கணக்கு அறிக்கைகளில் வரவு வைக்கப்பட்டுள்ள பங்களிப்புத் தொகை தொடர்பான முறைப்பாடுகள் குறித்து 0112-206690 என்ற தொலைபேசி இலக்கத்திற்கு தெரியப்படுத்த முடியும் எனவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/31888511.json)
+
+---
+
+### டீம் ப்ளூஸ் அணியை வீழ்த்திய டீம் க்றேஸ் அணி, இறுதிப் போட்டியில் டீம் க்றீன்ஸ் அணியை  எதிர்த்தாடவுள்ளது
+
+*2025-08-13 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/222528) · `ta`
+
+கொழும்பு எஸ்எஸ்சி மைதானத்தில் புதன்கிழமை (13) நடைபெற்ற டீம் ப்ளூஸ் அணியுடனான இரண்டாம் சுற்று போட்டியில் 6 விக்கெட்களால் வெற்றியீட்டிய டீம் க்றேஸ், எஸ்எல்சி ரி20 லீக் இறுதிப் போட்டியில் டீம் க்றீன்ஸை எதிர்த்தாடவுள்ளது.
+
+இந்த உள்ளூர் மும்முனை ரி20 லீக் போட்டியில் டீம் ப்ளூஸ், தான் விளையாடிய நான்கு போட்டிகளிலும் தோல்வி அடைந்து வெளியேறியது.
+
+இன்றைய போட்டியில் ரவிந்து பெர்னாண்டோ, தசுன் ஷானக்க ஆகியோர் ப்ளூஸ் அணி சார்பாகவும் நுவனிது பெர்னாண்டோ, அணித் தலைவர் சரித் அசலன்க ஆகியோர் க்றேஸ் அணி சார்பாகவும் துடுப்பாட்டத்தில் பிரகாசித்தனர்.
+
+குறிப்பாக நுவனிது பெர்னாண்டோ தனது இரண்டாவது அரைச் சதத்தைக் குவித்த தேர்வாளர்களைப் பெரிதும் கவர்ந்தார்.
+
+பந்துவீச்சில் க்றேஸ் அணி வீரர் வியாஸ்காந்த் ஒரு விக்கெட்டை மாத்திரம் வீழ்த்திய போதிலும் அவர் மிகவும் கட்டுப்பாட்டுடன் பந்துவீசி இருந்தார்.
+
+இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த டீம் ப்ளூஸ் அணி 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 178 ஓட்டங்களைக் குவித்தது.
+
+...
+
+[Data](articles/ea3f9ac1.json)
+
+---
+
+### பிள்ளைகளின் முன்னிலையில் தந்தையை நோக்கி துப்பாக்கிச் சூடு!
+
+*2025-08-13 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222527) · `ta`
+
+மினுவங்கொட, கொட்டுகொட பகுதியில் புதன்கிழமை (13) பிற்பகல், அடையாளம் தெரியாத இருவர் மோட்டார் சைக்கிளில் வந்து, திலீப லக்மால் எனப்படும் ‘பஸ் திலீப’ என்பவரை இலக்கு வைத்து துப்பாக்கிச் சூடு நடத்தினர்.
+
+சம்பவம் நடந்தபோது, பஸ் திலீப தனது மனைவி, நண்பர், மற்றும் மூன்று பிள்ளைகளுடன் வீட்டின் முற்றத்தில் இருந்தார். குற்றவாளிகள் பாதுகாப்புப் படையினர் அணியும் சீருடைகளை ஒத்த ஆடைகளை அணிந்திருந்ததாக வீட்டார் தெரிவித்துள்ளனர்.
+
+மாலை 2.30 மணியளவில் நடந்த இந்தச் சூட்டில், பஸ் திலீப உயிர் தப்பினார். துப்பாக்கிதாரிகள் உடனடியாக தப்பிச் சென்றனர்.
+
+துப்பாக்கிச் சூடு நடந்த தருணம், மற்றும் சந்தேகநபர்கள் தப்பிச் செல்லும் காட்சி, அருகிலுள்ள CCTV கேமராவில் பதிவாகியுள்ளது.
+
+பொலிஸார் தரவுகளின்படி, 2025 ஆம் ஆண்டில் இதுவரை 80 துப்பாக்கிச் சூடு சம்பவங்கள் நடந்துள்ளன. இதில் 44 பேர் உயிரிழந்துள்ளதோடு, 47 பேர் காயமடைந்துள்ளனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cd36876b.json)
+
+---
+
+### කණ්ඩලමේ හැඩකාරයාත් දිවිහැර යයි
+
+*2025-08-13 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213341) · `si`
+
+මාස 6කට අධික කාලයක් කණ්ඩලම වැව් තාවුල්ලේ ප්‍රතිකාර ලබමින් සිටි 'කණ්ඩලමේ හැඩකාරයා' වනඅලියා අද (13) පස්වරුවේ මියගොස් තිබේ.
+
+වයස අවුරුදු 25 -30 අතර පසු වූ මෙම සුන්දර සද්දන්තයා ඉදිරි පාදයකට එල්ල වූ වෙඩි ප්‍රහාරයකින් තුවාල ලබා අසාධ්‍ය තත්ත්වයෙන් පසුවිය.
+
+අලි - මිනිස් ගැටුමේ ප්‍රතිඵලයක් ලෙස මෙම වනඅලියා අවස්ථා රැසකදීම වෙඩි ප්‍රහාරයන්ට ලක්ව සිටි සත්වයෙක්ය.
+
+මීට වසරකට පමණ පෙරද වෙඩිප්‍රහාරයක් එල්ල වී ඉන් ප්‍රතිකාර ලබා වනයට මුදාහැර සිටියදී යළිත් මෙලෙස වෙඩි ප්‍රහාරයකට ලක්ව සිටියේය.
+
+◼️
+
+[Data](articles/a6af098b.json)
+
+---
+
+### யாழில் பனையால் விழுந்ததாக கூறி குடும்பஸ்தர் வைத்தியசாலையில் சேர்ப்பிப்பு - வைத்தியர்கள் சந்தேகம்!
+
+*2025-08-13 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222526) · `ta`
+
+12ஆம் திகதி செவ்வாய்க்கிழமை மாலை 35 வயதுடைய குடும்பஸ்தர் ஒருவர் பனையால் விழுந்ததாக கூறி மயக்க நிலையில் அவரை வைத்தியசாலைக்கு கொண்டுவந்து சேர்ப்பித்துவிட்டு வைத்தியசாலைக்கு அழைத்து வந்தவர்கள் தப்பிச் சென்றுள்ளனர்.
+
+பண்டத்தரிப்பு - சாந்தை பகுதியை சேர்ந்த குடும்பஸ்தரே இவ்வாறு தெல்லிப்பழை ஆதார வைத்தியசாலையில் சேர்ப்பிக்கப்பட்டார். பின்னர் அவர் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டார்.
+
+இந்நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அவருக்கு தலையில் அறுவைச் சிகிச்சை மேற்கொள்ளப்பட்டது. இருப்பினும் மயக்க நிலையில் இருந்து அவர் மீளவில்லை.
+
+குறித்த குடும்பஸ்தரின் தலை மற்றும் ஒரு கையில் படுகாயம் ஏற்பட்டுள்ளது. குறித்த காயம் பனையால் விழுந்ததுபோல் இல்லை என சந்தேகிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/e63fcb26.json)
+
+---
 
 ### கடமைகளை ஆரம்பித்தார் புதிய ரயில்வே பொது முகாமையாளர்
 
@@ -123,6 +233,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9240ac24.json)
+
+---
+
+### “Clean Sri Lanka” initiative launched in Northern Province
+
+*2025-08-13 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111444/clean-sri-lanka-initiative-launched-in-northern-province-) · `en`
+
+The Clean Sri Lanka initiative, a flagship government programme aimed at building a thriving nation and a beautiful life, was launched in the Northern Province today (13), with a district-level event in Jaffna.
+
+The launch coincided with the grand festival at the historic Nallur Kandaswamy Kovil, the President’s Media Division (PMD) said.
+
+Held under the theme “To Jaffna with Love – Clean Voyage of Unity”, the programme will run until August 20.
+
+As part of its awareness drive, a special promotional event took place aboard the iconic Yal Devi train, which departed Colombo for Jaffna at 6:40 a.m. today.
+
+The ceremonial launch at Colombo Fort Railway Station was attended by Mr. Russel Aponso, Senior Additional Secretary to the President, the PMD added.
+
+The initiative seeks to raise public awareness about the Clean Sri Lanka concept, encourage respect for public property and promote ethical values.
+
+...
+
+[Data](articles/ab3b47a2.json)
 
 ---
 
@@ -1709,125 +1841,5 @@ He added that the Bureau has implemented several measures to facilitate the depl
 ◼️
 
 [Data](articles/f54e0ff3.json)
-
----
-
-### Public can directly WhatsApp IGP to report crimes from today
-
-*2025-08-13 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111425/public-can-directly-whatsapp-igp-to-report-crimes-from-today) · `en`
-
-Sri Lanka Police has introduced a new WhatsApp number for the general public to directly inform the office of the Inspector General of Police (IGP) pertaining to crimes and various other issues they encounter.
-
-Issuing a statement in this regard, the Police Media Division noted that Sri Lanka Police is committed to performing its duties with dedication to ensure public safety.
-
-“It has been observed that there is a need to protect the rights of the public by giving priority to their concerns and enabling them to directly inform the IGP’s office about crimes and other issues they face,” the statement added.
-
-Accordingly, IGP Priyantha Weerasooriya has introduced the new WhatsApp number, 071-8598888, effective today (13), for both the public and police officers who require the IGP’s attention.
-
-According to Sri Lanka Police, this facility may be used to report any information related to crimes and other issues.
-
-...
-
-[Data](articles/ae89f4cd.json)
-
----
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-13 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/222463) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (12) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/f94a7dc0.json)
-
----
-
-### Southern Taiwan shuts down ahead of arrival of Typhoon Podul
-
-*2025-08-13 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111424/southern-taiwan-shuts-down-ahead-of-arrival-of-typhoon-podul) · `en`
-
-A large swathe of southern and eastern Taiwan shut down on Wednesday and hundreds of flights were cancelled ahead of the arrival later in the day of Typhoon Podul, with thousands of people evacuated.
-
-Taiwan is regularly hit by typhoons, generally along its mountainous, sparsely populated east coast facing the Pacific.
-
-The mid-strength Typhoon Podul, packing wind gusts as strong as 191 kph (118 mph), was heading for the southeastern city of Taitung as it intensifies and was expected to make landfall nearby on Wednesday afternoon, weather officials said.
-
-“Destructive winds from typhoon expected. Take shelter as soon as possible,” read a text message alert issued to cellphone users in parts of Taitung early on Wednesday. The alert warned people of gusts above 150 kph (93 mph) in the coming hours.
-
-...
-
-[Data](articles/371a8966.json)
-
----
-
-### காதலனை கரம் பிடிக்க, கடல் தாண்டிய காதலி
-
-*2025-08-13 10:55:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனை-கரம்-பிடிக்க-கடல்-தாண்டிய-காதலி/175-362823) · `ta`
-
-காதலனை கரம் பிடிப்பதற்காக இலங்கையை சேர்ந்த இளம்பெண் ஒருவர் படகில் கடல் தாண்டி தனுஷ்கோடி சென்றுள்ளதாக தெரியவந்துள்ளது. விசாரணைகளின் பின்னர் அவர் மண்டபம் முகாமில் ஒப்படைக்கப்பட்டுள்ளார்.
-
-ராமேஸ்வரம் அருகே தனுஷ்கோடி அரிச்சல்முனை கடற்கரைக்கு செவ்வாய்க்கிழமை அன்று அதிகாலை இளம்பெண் ஒருவர் வந்திருப்பதாக கடலோர பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய குறித்த இடத்திற்கு சென்ற பொலிஸார் அந்த பெண்ணை பொலிஸ் நிலையத்திற்கு அழைத்து வந்து விசாரணைகளை மேற்கொண்டுள்ளனர்.
-
-இலங்கை மன்னார் ஆண்ட குளம் பகுதியை சேர்ந்த விதுர்ஷியா என்ற குறித்த பெண் ஏற்கனவே தனது தாய், தந்தையுடன் திண்டுக்கல் மாவட்டம் பழனியில் உள்ள மறு வாழ்வு முகாமில் வசித்துள்ளதுடன் அப்போது அவர், ஒரு வாலிபரை காதலித்துள்ளார்.
-
-...
-
-[Data](articles/2063dd6c.json)
-
----
-
-### மலேசிய உயர்ஸ்தானிகர் ஜனாதிபதியை சந்தித்தார்
-
-*2025-08-13 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/222462) · `ta`
-
-ஜனாதிபதி அநுர குமார திசாநாயக்கவிற்கும் இலங்கைக்கான மலேசிய உயர்ஸ்தானிகர் பத்லி ஹிஷாம் பின் ஆதமுக்கும் (Badli Hisham bin Adam) இடையிலான சந்திப்பு செவ்வாய்க்கிழமை (12) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-இலங்கைக்கும் மலேசியாவுக்கும் இடையிலான நெருங்கிய உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது இரு தரப்பினரும் கவனம் செலுத்தினர்.
-
-விசேடமாக மலேசியாவின் சுற்றுலா, வர்த்தகம் மற்றும் கல்வி ஆகிய துறைகள் மற்றும் அண்மைய கால வெற்றிகள் குறித்த தனது அனுபவங்களை இலங்கையுடன் பகிர்ந்து கொள்ளத் தயாராக இருப்பதாக  மலேசிய உயர் ஸ்தானிகர் இங்கு தெரிவித்தார்.
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும் ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே ஆகியோரும் இந்நிகழ்வில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/1d1d477e.json)
-
----
-
-### சிட்னி விமான நிலையத்தில் பதற்றம்
-
-*2025-08-13 10:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிட்னி-விமான-நிலையத்தில்-பதற்றம்/50-362822) · `ta`
-
-ஆஸ்திரேலியாவின் சிட்னி விமான நிலையத்தில் காவல்துறை அதிகாரியின் துப்பாக்கியைக் கைப்பற்ற முயன்ற ஆடவர் கைதாகியுள்ளார். இந்த  சம்பவம் இன்று (13)  காலை நடந்தது.
-
-ஆடவர் அதிகாரியிடமிருந்து துப்பாக்கியைப் பலவந்தமாகப் பிடுங்க முயன்றார். அப்போது எதிர்பாராதவிதமாகத் துப்பாக்கி சுடப்பட்டது எனக் காவல்துறை தெரிவித்தது. யாருக்கும் காயம் ஏற்படவில்லை.
-
-உள்ளூர் ஊடகம் ஒன்று வெளியிட்ட காணொளியில் ஆடவரை இருவர் தரையில் அழுத்திப் பிடித்திருப்பதையும் அதிகாரி தமது துப்பாக்கியைச் சோதனையிடுவதையும் காணமுடிந்தது.
-
-சம்பவத்தைக் கண்டவர்கள் பெரும் வெடிப்புச் சத்தம் கேட்டது என்றும் சம்பவயிடம் அருகே இருந்த உணவகம் தற்காலிகமாக மூடப்பட்டது என்றும் கூறினர்.
-
-ஆடவர் கைதான பிறகு பொதுமக்களின் பாதுகாப்பிற்கு எந்த அச்சுறுத்தலும் இல்லை என்று காவல்துறை குறிப்பிட்டது.
-
-◼️
-
-[Data](articles/f4960de9.json)
-
----
-
-### Man hacked to death in Seeduwa
-
-*2025-08-13 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111423/man-hacked-to-death-in-seeduwa) · `en`
-
-According to police, the murder was carried out last night (12) by a group of individuals using sharp weapons.
-
-The victim, who sustained serious injuries in the attack, was admitted to the Negombo Hospital while in critical condition but later succumbed to his injuries.
-
-No suspects have been arrested in connection with the incident thus far, and Seeduwa Police are conducting further investigations to apprehend those responsible.
-
-◼️
-
-[Data](articles/4751c6ea.json)
 
 ---

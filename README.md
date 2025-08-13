@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 13:51:04**
+As of **2025-08-13 14:09:15**
 
 ## Newspaper Stats
 
-*Scraped **70,286** Articles*
+*Scraped **70,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,283
 islandlk | 4,307
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,774
+adalk | 6,775
 adaderanalk | 8,763
-tamilmirrorlk | 10,319
+tamilmirrorlk | 10,320
 virakesarilk | 11,707
 adaderanasinhalalk | 12,104
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.2%) of 70,286 articles have been extended.
+61,973 (88.2%) of 70,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### 14 கோடி ரூபாய் மோசடி: ஜோடி கைது
+
+*2025-08-13 13:50:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-கோடி-ரூபாய்-மோசடி-ஜோடி-கைது/175-362844) · `ta`
+
+பெறப்பட்ட பணத்தை திருப்பித் தராமல் வெற்று காசோலைகளை வழங்கி பொதுமக்களிடம் 140 மில்லியன் ரூபாயை மோசடி செய்த திருமணமான தம்பதியினர் கைது செய்யப்பட்டுள்ளதாக குற்றப் புலனாய்வுத் துறை தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களில் ஒருவர், வவுனியா பொது மருத்துவமனையில் மருத்துவ ஆய்வக தொழில்நுட்ப வல்லுநர் என்று பொலிஸார் தெரிவிக்கின்றனர்.
+
+வணிக நோக்கங்களுக்காகக் கூறி பொதுமக்களிடம் பணத்தை மோசடி செய்ததாக குற்றப் புலனாய்வுத் துறையின் வணிக குற்றப் புலனாய்வுப் பிரிவு 2 க்கு கிடைத்த புகாரைத் தொடர்ந்து சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+சந்தேக நபர்கள் 47-49 வயதுக்குட்பட்டவர் மற்றும் வவுனியாவின் பண்டாரி குளத்தில் வசிப்பவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/fe272f04.json)
+
+---
 
 ### நான் என்ன சும்மாவா? உலக பொலிஸ் காரன்
 
@@ -789,6 +807,22 @@ The bond issuance is subject to CBSL and other necessary regulatory approvals. (
 ...
 
 [Data](articles/04ed7304.json)
+
+---
+
+### බන්ධනාගාර රෝහල්වලට  හදිසි ප්‍රතිකාර ඒකක
+
+*2025-08-13 10:23:49* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-රෝහල්වලට--හදිසි-ප්‍රතිකාර-ඒකක/11-417885) · `si`
+
+මෙරට බන්ධනාගාර ගතවන රැදවියන්ගේ සෞඛ්‍ය රැකවරණය වරප්‍රසාදයක් නොව අයිතිවාසිකමක් බව බවත්, බන්ධනාගාර තුළ බෝනොවන රෝග වැඩිවීමට ප්‍රමාණය ඉක්මවා රැදවියන් සිටීම වැනි හේතුන් නිසා ඇතිවන ගැටළු හේතුවෙන් නිරාවරණය වන මානසික ආතතීන් හා පීඩනකාරී පරිසර  තත්ත්වයන් ද හේතු වන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසී ය.
+
+අමාත්‍යවරයා මෙම අදහස් පළ කරන ලද්දේ මෙරට ස්ථාපිත  බන්ධනාගාර රෝහල් 24 තුළ බන්ධනාගාර නිලධාරීන්, රැදවියන් සහ ඔවුන්ගේ පවුල්වල සාමාජිකයින් වෙනුවෙන් ඊයේ (12) සිට ක්‍රියාත්මක කෙරෙන විශේෂ වෛද්‍ය සායන වැඩසටහනේ සමාරම්භක උත්සවයට එක්වෙමිණි.
+
+උත්සවය වැලිකඩ බන්ධනාගාර පර්යේෂණ හා විශෝධන පුහුණු මධ්‍යස්ථාන පරිශ්‍රයේ දී ආරම්භ වූ අතර, වැඩසටහන ඊයේ (12) සිට සිට 16 වන දින දක්වා දීප ව්‍යාප්තව ක්‍රියාත්මක වේ.
+
+...
+
+[Data](articles/8f09e79b.json)
 
 ---
 
@@ -1807,43 +1841,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/056563c1.json)
-
----
-
-### President meets Malaysian, Canadian, and Australian High Commissioners
-
-*2025-08-12 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111411/president-meets-malaysian-canadian-and-australian-high-commissioners) · `en`
-
-President Anura Kumara Dissanayake held separate meetings with the High Commissioners of Malaysia, Canada, and Australia at the Presidential Secretariat this afternoon (12), the President’s Media Division (PMD) said.
-
-During his meeting with the Malaysian High Commissioner to Sri Lanka, Badli Hisham bin Adam, both parties discussed further enhancing the close relations between Sri Lanka and Malaysia. The Malaysian High Commissioner expressed his country’s readiness to share its recent achievements and expertise with Sri Lanka, particularly in the fields of tourism, trade, and education.
-
-The President also met with the Canadian High Commissioner, Eric Walsh, and extended his best wishes as Mr. Walsh prepares to conclude his term in Sri Lanka.
-
-...
-
-[Data](articles/09f70c98.json)
-
----
-
-### රාජ්‍ය තාන්ත්‍රිකයින් කිහිපදෙනෙක් ජනපතිව හමුවෙයි
-
-*2025-08-12 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213310) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ ඔස්ට්‍රේලියානු මහකොමසාරිස්  Paul Stephens අතර හමුවක් ජනාධිපති කාර්යාලයේදී අද (12) පස්වරුවේ පැවැත්වුණි.
-
-සිය ධුර කාලය අවසන් කරමින් ශ්‍රී ලංකාවෙන් පිටත්ව යන ඒ මහතාගේ ඉදිරි කටයුතු වෙනුවෙන් ජනාධිපතිවරයා මෙහිදී ඔහුට සුබපැතුම් එක් කළේය.
-
-ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදයේදී මෙන්ම, ඉන් පසුවද, ඔස්ට්‍රේලියානු මහකොමසාරිස්වරයා ලබා දුන් සහාය ජනාධිපතිවරයා විසින් ඇගයීමට ලක් කෙරුණි.
-
-මෙරට සංචාරක, අධ්‍යාපන සහ වෘත්තීය පුහුණු ආදී ක්ෂේත්‍රවල සංවර්ධනය වෙනුවෙන් ඉදිරියටත් ඔස්ට්‍රේලියාව සහාය ලබාදෙනු ඇති බවද ඔස්ට්‍රේලියානු මහකොමසාරිස්වරයා මෙහිදී ජනාධිපතිවරයා හමුවේ පවසා තිබුණි.
-
-මේ අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ කැනේඩියානු මහකොමසාරිස් එරික් වොල්ෂ් අතර හමුවක් ද ජනාධිපති කාර්යාලයේදී අද පස්වරුවේ පැවැත්වුණි.
-
-සිය ධුර කාලය අවසන් කරමින් ශ්‍රී ලංකාවෙන් පිටත්ව යන එරික් වොල්ෂ් මහතාගේ ඉදිරි කටයුතු වෙනුවෙන් ජනාධිපතිවරයා මෙහිදී ඔහුට සුබ පැතීය.
-
-...
-
-[Data](articles/a48f5d50.json)
 
 ---

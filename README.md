@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 18:32:39**
+As of **2025-08-13 18:59:41**
 
 ## Newspaper Stats
 
-*Scraped **70,334** Articles*
+*Scraped **70,339** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 717
+colombotelegraphcom | 718
 economynextcom | 4,284
 islandlk | 4,308
 dailymirrorlk | 4,733
 dailyftlk | 4,938
-adalk | 6,783
-adaderanalk | 8,772
+adalk | 6,784
+adaderanalk | 8,773
 tamilmirrorlk | 10,333
-virakesarilk | 11,712
-adaderanasinhalalk | 12,112
+virakesarilk | 11,713
+adaderanasinhalalk | 12,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,334 articles have been extended.
+61,973 (88.1%) of 70,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-13 (Wednesday)
+
+### සහස්ධනවි බලාගාරයේ ගාස්තුව ගැන පැහැදිලි කිරීමක්
+
+*2025-08-13 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213338) · `si`
+
+සහස්ධනවි බලාගාරය සමතුලිත ගාස්තුව පිළිබඳව පැතිර යන ප්‍රචාර සම්බන්ධයෙන් එම ආයතනය කරුණු පැහැදිලි කරමින් මාධ්‍ය නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/f0dc6a93.json)
+
+---
 
 ### නව දුම්රිය සාමාන්‍යාධිකාරී රවීන්ද්‍ර පද්මප්‍රිය වැඩ අරඹයි
 
@@ -47,6 +59,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1a6b3d31.json)
+
+---
+
+### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරිය පත් කරයි
+
+*2025-08-13 17:48:24* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ලෙස-ප්‍රියන්ත-වීරසූරිය-පත්-කරයි/11-417898) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත් කර ලැබ ඇත.
+
+මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ භාර දෙන ලදී.
+
+ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61ඉ(ආ) ව්‍යවස්ථාව ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතියද මෙම නව පත්වීම සඳහා ලබී ඇත.
+
+ඒ අනුව, ශ්‍රී ලංකා පොලිසියේ 37 වන පොලිස්පතිවරයා ලෙස නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා ඉතිහාසයට එක් වේ.
+
+මේ දක්වා ශ්‍රී ලංකා පොලිසියේ පොලිස් කොස්තාපල්, උප පොලිස් පරීක්ෂක සහ සහකාර පොලිස් අධිකාරී යන අවධි තුනම පසු කරමින් පොලිස්පති ධුරයට පත් වූ පළමු පොලිස්පතිවරයා වන්නේද නීතීඥ ප්‍රියන්ත වීරසූරිය මහතාය.
+
+◼️
+
+[Data](articles/2fc31d5f.json)
+
+---
+
+### அமைச்சுக்களின் பணியாளர்களுக்கு செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து தெளிவுபடுத்தும் விசேட செயலமர்வு
+
+*2025-08-13 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222521) · `ta`
+
+அரச சேவையை ஒரு பயனுள்ள மற்றும்  செயற்திறனான சேவையாக மாற்றுவதற்காக, சகல அமைச்சுக்களிலும் பணியாற்றும்  பணியாளர்களுக்காக   செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்த விசேட செயலமர்வுத் தொடர் ஆகஸ்ட் 15, 16 மற்றும் 23 ஆகிய திகதிகளில் அலரி மாளிகையில் நடைபெற உள்ளது.
+
+‘AI for Transforming Public Service’ என்ற தலைப்பில் நடைபெறும் இந்த செயலமர்வுத் தொடர், அரசாங்கத்தின் முதன்மையான திட்டமான அரச சேவையை டிஜிட்டல் மயமாக்கும் திட்டத்திற்கான ஆரம்ப அணுகுமுறையாக அதிகாரிகளை தயார்படுத்தி செயற்கை நுண்ணறிவு தொடர்பாக அரச சேவையில் சாதகமான அணுகலை ஏற்படுத்தும் நோக்குடன் நடைபெறுகிறது.
+
+இதன் முதல் திட்டம் அண்மையில்  ஜனாதிபதி அலுவலக அதிகாரிகளுக்காகவும், இரண்டாவது  திட்டம்  கல்வி அமைச்சின் அதிகாரிகளுக்காகவும், மூன்றாவது திட்டம் நிதி அமைச்சின் அதிகாரிகளுக்காகவும் நடைபெற்றது.
+
+...
+
+[Data](articles/f6d4dca8.json)
 
 ---
 
@@ -151,6 +199,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7b240679.json)
+
+---
+
+### ‘AI for Transforming Public Service’: special workshops for ministerial staff
+
+*2025-08-13 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111441/ai-for-transforming-public-service-special-workshops-for-ministerial-staff) · `en`
+
+A special series of workshops on the use of Artificial Intelligence (AI) for ministerial staff officers will be held on August 15, 16 and 23 at the Temple Trees, with the aim of transforming the public service into a more productive and efficient sector.
+
+Titled “AI for Transforming Public Service”, this series is an introductory initiative under the government’s flagship public sector digitization programme, the President’s Media Division (PMD) said.
+
+It is designed to raise awareness, prepare officers for AI adoption and foster a positive mind-set toward artificial intelligence within the state service.
+
+The first workshop was recently held for staff officers of the Presidential Secretariat, followed by the second for the Ministry of Education and the third for the Ministry of Finance. Upcoming sessions are planned for staff officers of all remaining ministries, the PMD added.
+
+...
+
+[Data](articles/055c6769.json)
 
 ---
 
@@ -861,6 +927,20 @@ Meanwhile, in response to an inquiry made by Ada Derana, the Sri Lanka Bureau of
 ◼️
 
 [Data](articles/2f21c5de.json)
+
+---
+
+### City Of Dreams Sri Lanka: A Bold Investment Shadowed By Ethical Concerns Over IFC’s Role In Casino Operations
+
+*2025-08-13 12:50:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/city-of-dreams-sri-lanka-a-bold-investment-shadowed-by-ethical-concerns-over-ifcs-role-in-casino-operations/) · `en`
+
+John Keells Holdings PLC (JKH) and Melco Resorts & Entertainment opened City of Dreams Sri Lanka on 2 August 2025, completing Cinnamon Life—the country’s largest integrated hotel, mall, and casino development, built with an investment exceeding USD 1.2 billion. Located in the heart of Colombo, the resort offers over 800 rooms, twelve dining venues, and has created more than 1,500 jobs, strengthening Sri Lanka’s position as a premier destination for business and leisure travelers, particularly from India.
+
+The International Finance Corporation (IFC), part of the World Bank Group, invested USD 175 million in John Keells Holdings to support tourism and took an equity stake. It also gave a USD 25 million loan to Nations Trust Bank, where JKH and Central Finance have major investments (Daily FT, 14 May 2024). Since the pandemic began, IFC has invested over USD 800 million in Sri Lanka to help businesses stay afloat and protect jobs.
+
+...
+
+[Data](articles/ca870ef7.json)
 
 ---
 
@@ -1763,107 +1843,5 @@ The bond issuance is subject to CBSL and other necessary regulatory approvals. (
 ◼️
 
 [Data](articles/8c68ad37.json)
-
----
-
-### රුසියානු යෝජනාව සෙලෙන්ස්කි ප්‍රතික්ෂේප කරයි
-
-*2025-08-13 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213318) · `si`
-
-සටන් විරාමයක් සඳහා ඩොන්බාස් කලාපය අත්හැරීමට රුසියානු යෝජනාව යුක්‍රේනය ප්‍රතික්ෂේප කරන බව ජනාධිපති වොලොදිමීර් සෙලෙන්ස්කි පවසා තිබේ.
-
-විදෙස් වාර්තා සඳහන් කළේ, සාම ගිවිසුමකට එළැඹීමේදී භූමිය සම්බන්ධ එකඟතාවකට එළැඹිය හැකි බවට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා ඇති බවය.
-
-කියුව් මඟින් පාලනය කරන ඩොන්බාස් හි කොටස් යටත් කළ යුතු බවට රුසියානු ජනාධිපතිවරයා ඉල්ලීමක් කර ඇති බව වාර්තා වේ.
-
-මේ අතර රුසියානු හමුදා යුක්‍රේය එරෙහිව අඛණ්ඩව ප්‍රහාර දියත් කරමින් සිටින බවට යුක්‍රේන ජනාධිපතිවරයා චෝදනා කර ඇති බව සඳහන්ය.
-
-ලුහාන්ස්ක් සහ ඩොනෙට්ස්ක් හි නැගෙනහිර ප්‍රදේශවලින් සැදුම්ලත් ඩොන්බාස් ප්‍රදේශයේ කොටසක් මේවනවිටත් රුසියානු පාලනට යටත් ඇත් බව විදෙස් වාර්තා පවසයි.
-
-රුසියාව ලුහාන්ස්ක් සියලු ප්‍රදේශ සහ ඩොනෙට්ස්ක්වලින් 70%ක් පමණ අල්ලාගෙන ඇති බව සඳහන්ය.
-
-කෙසේවෙතත් යුක්‍රේනයේ දේශසීමා බලහත්කාරයෙන් වෙනස් නොකළ යුතු බව යුරෝපා සංගම් නායකයින් ද ප්‍රකාශ කර ඇති බව විදෙස් වාර්තා පැවසුවේය.
-
-◼️
-
-[Data](articles/55c3b534.json)
-
----
-
-### Maduru Oya Helicopter Crash: Pilot claims he lost control of helicopter within 30 seconds of taking off
-
-*2025-08-13 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111421/maduru-oya-helicopter-crash-pilot-claims-he-lost-control-of-helicopter-within-30-seconds-of-taking-off-) · `en`
-
-The Bell 212 helicopter, piloted by Flight Lieutenant Paulen Jayawardena, lost control and crashed into the Maduru Oya Reservoir within 30 seconds of taking off from the Maduru Oya Army Special Forces Camp during a demonstration flight, the pilot testified before the Dehiattakandiya Magistrate’s Court.
-
-Flight Lieutenant Jayawardena made this statement while giving evidence at the inquiry into the crash, which claimed the lives of six military personnel—two from the Sri Lanka Air Force (SLAF) and four from the Sri Lanka Army Special Regiment.
-
-Court proceedings were presided over by Magistrate Priyantha Halyala, said Ada Derana reporter.
-
-The pilot stated that he believed the helicopter crashed through no fault of his own. He further indicated that a technical fault may have been the cause, although the exact reason for the incident has yet to be determined.
-
-...
-
-[Data](articles/34723737.json)
-
----
-
-### රත්නපුර පොලීසියෙන් පැන ගිය සැකකරු අල්ලයි
-
-*2025-08-13 09:18:27* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියෙන්-පැන-ගිය-සැකකරු-අල්ලයි/11-417883) · `si`
-
-රත්නපුර පොලිස්ථානයෙන් පසුගිය 30 දින උදැසන  පලාගිය වරෙන්තුකරු රත්නපුර ගොඩිගමුව ප්‍රදේශයේ සැගව සිටියදි පසුගිය 11දා සවස අත්අඩංගුවට ගත් බව රත්නපුර පොලිසියේ ප්‍රකාශකයෙක් පැවසිය.
-
-රත්නපුර මහේස්ත්‍රාත් අධිකරණයේ නීති විරෝධී මත්පැන් ළග තබාගැනිම සම්බන්ධයෙන් වු නඩු දෙකකට පෙනි නොසිටිම නිසා ඔහුට අධිකරණයෙන් වරෙන්තු නිකුත් කර තිබුණි. පසුගිය 29දා මෙම සැකකරු අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවෙන් අල්ලාගෙන රත්නපුර පොලිසියට බාරදුන්නේ සංවිධානාත්මක අපරාධ කල්ලියක සාමාජිකයෙක් ලෙස සදහන් කරමිනි. සැකකරු කොළඹ ප්‍රදේශයේ සංවිධානාත්මක අපරාධකල්ලි වල මනුෂ්‍ය ඝාතකයන්, අපරාධ සදහා රැගෙන ගිය යතුරුපැදිවල පැදිකරු බවට සැකකරන බවද සදහන් කර තිබුණි.
-
-...
-
-[Data](articles/2f194527.json)
-
----
-
-### Sri Lanka seeks private investors for first 160MW BESS to absorb renewables
-
-*2025-08-13 09:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-private-investors-for-first-160mw-bess-to-absorb-renewables-235890/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has called international tenders for a 160 MegaWatts of battery energy storage systems (BESS) on a build operate own basis to accommodate renewable energy to the grid.
-
-The CEB plans to install 10MW/40MWh battery systems in 10 locations indicating storage of 640MWh.
-
-Sri Lanka now has connected too much rooftop solar in particular which has tended to de-stabilize the grid on Sunny weekends and holidays in particular when demand is low, leading to cascading failures.
-
-Private developers will be given 15 year period to operate the batteries.
-
-The BESS systems should be able to deliver 97.5 percent in the first year, going down to 62.5 percent in year 15.
-
-Sri Lanka’s electricity grid has to make large investments to the grid, running into several billion US dollars to accommodate bigger volumes of intermittent renewable energy.
-
-Until recently renewable energy was too expensive to make additional investments to accommodate higher volumes.
-
-...
-
-[Data](articles/6fef9e34.json)
-
----
-
-### AI camera systems to be installed in SLTB and private buses to reduce accidents
-
-*2025-08-13 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111420/ai-camera-systems-to-be-installed-in-sltb-and-private-buses-to-reduce-accidents) · `en`
-
-A total of 40 AI camera systems will be installed in both Sri Lanka Transport Board (SLTB) and private buses as part of a new project launched with the aim of minimizing accidents involving long-distance buses.
-
-This will be implemented as a pilot project with the involvement of the private sector, the Ministry of Transport Highways, Ports, and Civil Aviation said.
-
-According to the Ministry, AI camera systems will monitor driver behavior and take necessary actions to alert them.
-
-The new camera system is capable of detecting driver fatigue, drowsiness, and even eyelid closure.
-
-In addition, the system can monitor compliance with traffic laws and whether seat belts are being worn, and will issue alerts to drivers accordingly, the Transport Ministry said.
-
-The pilot phase of the project was officially launched at the Kataragama depot under the auspices of the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake.
-
-...
-
-[Data](articles/ca589228.json)
 
 ---

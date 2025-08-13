@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-13 22:33:31**
+As of **2025-08-13 22:48:09**
 
 ## Newspaper Stats
 
@@ -36,7 +36,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-13 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213343) · `si`
 
-හංවැල්ල, පහත්ගම ප්‍රදේශයේ අද (13) රාත්‍රියේ සිදුවූ වෙඩිතැබීමකින් එක් අයෙකු තුවාල ලබා රෝහල්ගතර ඇත.
+යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පළාගොස් ඇත.
+
+මෙහිදී එක් අයෙකුගේ පාදයකට තුවාල සිදුව ඇති අතර, ඔහු රෝහල්ගතකර තිබේ.
 
 ◼️
 

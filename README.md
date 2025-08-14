@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 15:21:20**
+As of **2025-08-14 15:33:20**
 
 ## Newspaper Stats
 
-*Scraped **70,492** Articles*
+*Scraped **70,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,803
-adaderanalk | 8,790
+adaderanalk | 8,794
 tamilmirrorlk | 10,372
 virakesarilk | 11,730
-adaderanasinhalalk | 12,134
+adaderanasinhalalk | 12,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,492 articles have been extended.
+61,973 (87.9%) of 70,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### බොල්ගොඩ ගඟේ පුද්ගල මළසිරුරක්
+
+*2025-08-14 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213363) · `si`
+
+මොරටුව පිළියන්දල මාර්ගයේ කොස්පෑලෑන පාලම අසල බොල්ගොඩ ගඟේ පාවෙමින් තිබියදී පුද්ගල මළසිරුරක් සොයා ගෙන තිබේ.
+
+බොල්ගොඩ ගඟේ මළ සිරුරක් ඇතැයි පොලිස් හදිසි ඇමතුම් ඒකකයට ලැබුණු පණිවිඩයකට අනුව මෙම මළ සිරුර සොයා ගෙන ඇත.
+
+මෙම පුද්ගලයා මීට දින දෙකකට ඉහත දී සිට නිවසින් අතුරුදන්ව සිට ඇති අතර පවුලේ ඥාතීන් විසින් ඒ පිළිබඳව පොලිසියටද පැමිණිලි කර තිබේ.
+
+මියගිය පුද්ගලයාගේ සහෝදරයෙකු පොලිසියට පවසා ඇත්තේ ඔහු දීර්ඝ කාලයක සිට මානසික රෝගී තත්ත්වයකින් සහ තවත් රෝග ගණනාවකින් පීඩා විඳි පුද්ගලයෙකු බවය.
+
+◼️
+
+[Data](articles/07e215e9.json)
+
+---
 
 ### சிரேஷ்ட பொலிஸ் அத்தியட்சகருக்கு விளக்கமறியல்
 
@@ -41,6 +59,82 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d6ead5fc.json)
+
+---
+
+### Sri Lanka needs human resource base with diverse vocational knowledge – PM
+
+*2025-08-14 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111465/sri-lanka-needs-human-resource-base-with-diverse-vocational-knowledge-pm) · `en`
+
+Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that the aim of the government is to strengthen the country’s economic stability by developing vocational education.
+
+The Prime Minister made these remarks during a media briefing on August 13 at the Cinnamon Grand Hotel, Colombo, regarding the upcoming Sri Lanka Skills Expo 2025, the Prime Minister’s Media Division said.
+
+With the aim of reducing youth unemployment in Sri Lanka, the exhibition will be held for the third time on October 10 and 11 at the main hall of Temple Trees.
+
+The event is jointly organized by the Industry Sector Skills Councils (ISSC) and the Ministry of Education, Higher Education and Vocational Education.
+
+She further noted that under the current education system, students are streamed into Mathematics, Science, and Commerce subject areas.
+
+...
+
+[Data](articles/8521f4bb.json)
+
+---
+
+### Sri Lanka targets 4–5% GDP growth in medium to long-term: CBSL Governor
+
+*2025-08-14 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111466/sri-lanka-targets-45-gdp-growth-in-medium-to-long-term-cbsl-governor) · `en`
+
+Sri Lanka is striving to achieve 4–5% GDP growth in the medium to long-term in comparison to the baseline requirement of 3% set by the International Monetary Board (IMF) to achieve debt sustainability, Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has stated.
+
+The Central Bank Governor noted that Sri Lanka has been consistently over performed through structural reforms since the economic crisis in 2022.
+
+During an interview with CNBC, Governor Dr. Nandalal Weerasinghe said although the IMF has set a debt sustainability target in 2032, he is seeking to achieve the target much earlier.
+
+The Central Bank Governor said Sri Lanka’s economy is on track for recovery, with rates held at 7.7% and a healthy policy buffer in place.
+
+The Governor also highlighted reforms that are now shifting from crisis stabilization to driving 4–5% growth, adding they are aiming for faster debt sustainability and a full return to pre-crisis levels within a few years.
+
+...
+
+[Data](articles/fff86313.json)
+
+---
+
+### President decides to temporarily halt Mannar Wind Power Project
+
+*2025-08-14 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111464/president-decides-to-temporarily-halt-mannar-wind-power-project-) · `en`
+
+A decision has been taken to suspend the construction of two wind power plants following concerns raised by various stakeholders.
+
+The decision was taken during a discussion held on the proposed Mannar wind power plant and related emerging issues at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
+
+The meeting focused on the country’s energy needs and the importance of the project to the national economy, the President’s Media Division (PMD) said.
+
+It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant. It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.
+
+...
+
+[Data](articles/a0b01b09.json)
+
+---
+
+### Acting Director of Police Cultural Division arrested on bribery charges remanded
+
+*2025-08-14 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111463/acting-director-of-police-cultural-division-arrested-on-bribery-charges-remanded) · `en`
+
+The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) earlier today (14), has been remanded, Ada Derana reporter said.
+
+Considering the submissions made by officials of the Bribery Commission and defence counsels, Colombo Additional Magistrate Pavithra Sanjeewani Pathirana ordered SSP Sathish Gamage be remanded until August 19.
+
+According to the Bribery Commission, the suspect, during his tenure as the Senior Superintendent of Police in charge of the Galle and Embilipitiya Police Divisions, had allegedly opened three bank accounts in private banks under another person’s name.
+
+It is alleged that he had received approximately Rs. 14 million as bribes from organized criminals, individuals seeking police services and other offenders, which were deposited into those accounts.
+
+...
+
+[Data](articles/ab78439e.json)
 
 ---
 
@@ -176,13 +270,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-14 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111461/politicians-supporting-underworld-drug-traffickers-identified-igp) · `en`
 
-Inspector General of Police (IGP) Priyantha Weerasooriya says that the politicians who supported drug traffickers and underworld activities have already been identified.
+Inspector General of Police (IGP) Priyantha Weerasooriya says that the politicians who supported and gave protection to drug traffickers and underworld activities have already been identified.
 
 He further indicated that legal action would be taken against them in the near future.
 
 IGP Priyantha Weerasooriya made these remarks after assuming duties as the 37th Inspector General of Police of Sri Lanka at the Police Headquarters in Colombo this morning (14).
 
-◼️
+Commenting further, the police chief pointed out that the anti-drug and organized crime operations cannot be carried out under the existing laws of the country.
+
+Therefore, he stated that the relevant authorities have been informed to create the necessary statutes, and added that these statutes are currently in the process of being drafted.
+
+...
 
 [Data](articles/9b29e4fc.json)
 
@@ -1671,93 +1769,5 @@ Our dreary post-independence history seems to be that of a country going round i
 ...
 
 [Data](articles/713b44fc.json)
-
----
-
-### கடிதம் தந்தால் ஹர்த்தால் தொடர்பில் தீர்மானிப்போம் -  ம.மயூரதன்
-
-*2025-08-14 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222534) · `ta`
-
-வடக்கு கிழக்கில் எதிர்வரும் 18 ஆம் திகதி ஹர்த்தால் அனுஸ்டிக்குமாறு தமிழரசுக்கட்சியின் செயலாளரினால் தெரிவிக்கப்பட்டுள்ள நிலையில் எழுத்து மூலமாக கடிதம் எமது சங்கத்துக்கு கிடைக்கும் பட்சத்தில் அது தொடர்பில் தீர்மானம் எடுக்கப்படும் என வவுனியா வர்த்த சங்கத்தின் செயலாளர் ம.மயூரதன் தெரிவித்துள்ளார்.
-
-வவுனியா வர்த்தகர் சங்க பிரதிநிதிகளை புதன்கிழமை (13) தமிழரசு கட்சியின் பதில் செயலாளர் எம். ஏ. சுமந்திரன் சந்தித்து கலந்துரையாடி இருந்தார்.  இது தொடர்பில் வர்த்தகர் சங்கத்தின் செயலாளரிடம் தொடர்பு கொண்டு கேட்டபோது,
-
-புதன்கிழமை (13) ஹர்த்தாலுக்கு ஆதரவு கூறி தமிழரசுக் கட்சியின் செயலாளர் எம்மை சந்தித்திருந்தார். எனினும் எழுத்து மூலமாக கடிதம் கிடைக்கும் பட்சத்தில் எமது சங்கத்தின் நிர்வாக சபை கூடி கனஹர்த்தாலுக்கு ஆதரவு தெரிவிப்பதா இல்லையா என்பது தொடர்பில் தீர்மானம் மேற்கொள்ளப்படும் என தாம் அவருக்கு தெரிவித்திருந்ததாக கூறினார்.
-
-இந்நிலையில் தம்மால் கடிதம் விரைவில் வழங்கப்படும் என தமிழரசு கட்சியின் செயலாளர் எம். ஏ. சுமந்திரன் தமக்கு தெரிவித்து இருந்ததாகவும் அவர் கூறினார்.
-
-◼️
-
-[Data](articles/916ec854.json)
-
----
-
-### மன்னார் காற்றாலைத் திட்டம் ஒருமாதகாலத்திற்கு இடைநிறுத்தப்படுகிறது; ஜனாதிபதியுடனான சந்திப்பில் தீர்மானம்
-
-*2025-08-14 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222533) · `ta`
-
-மன்னாரில் காற்றாலை மின்னுற்பத்திக் கோபுரங்களை அமைக்கும் திட்டத்தை ஒருமாதகாலத்திற்கு இடைநிறுத்திவைப்பதுடன், அதற்குள் குறித்த காற்றாலைத் திட்டம்தொடர்பாக உரிய தரப்பினர் மன்னார் மக்களின் அபிப்பிராயங்களை பெறுவதெனவும் தீர்மானிக்கப்பட்டுள்ளது.
-
-மன்னாரில் காற்றாலை மின் உற்பத்திக் கோபுரங்களை அமைக்கும் சர்ச்சைக்குரிய விவகாரம் தொடர்பில் ஜனாதிபதி அனுர குமார திசாநாயக்கவுடன் வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர்கள் ஏழுவர் மற்றும் மன்னார் பிரஜைகள் குழுப் பிரதிநிதிகள் உள்ளிட்ட தரப்பினர் புதன்கிழமை (13) ஜனாதிபதி செயலகத்தில் சந்தித்து கலந்துரையாடலொன்றை நாடாத்தியிருந்தனர்.
-
-மன்னார் தீவில், மக்கள் குடியிருப்புக்கள் உள்ள பகுதிக்குள் இத்தகைய காற்றாலைத் திட்டங்கள் தேவையில்லை என இக்கலந்துரையாடலில் கலந்துகொண்ட வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர்கள் மற்றும், மன்னார் பிரஜைகள்குழுப் பிரதிநிதிகளாலும் ஜனாதிபதியிடம் வலியுறுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/4b627950.json)
-
----
-
-### காற்றாலை திட்டத்தை இடைநிறுத்த இணக்கப்பாடு
-
-*2025-08-14 02:03:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-திட்டத்தை-இடைநிறுத்த-இணக்கப்பாடு/175-362882) · `ta`
-
-மன்னார் காற்றாலை மின் திட்டத்தின் செயற்பாடுகளை ஒரு மாதத்துக்குத் தற்காலிகமாக இடைநிறுத்துவதற்கு இணக்கப்பாடு எட்டப்பட்டுள்ளது.
-
-ஜனாதிபதி தலைமையில் நேற்று (13) நடைபெற்ற கலந்துரையாடலின் போதே இந்த இணக்கப்பாடு எட்டப்பட்டுள்ளது.
-
-இந்த திட்டத்தின் சாதக, பாதக நிலைமைகளை மீளாய்வு செய்யும் நோக்கில் ஒரு மாதத்துக்கு தற்காலிகமாக இடைநிறுத்த தீர்மானிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/0fe21ad5.json)
-
----
-
-### ‘சுப்ரிம் செட்’ செய்மதி குறித்த உண்மையை வெளிப்படுத்த வேண்டும் - அரசாங்கத்திடம் நவீன் திசாநாயக்க வலியுறுத்து
-
-*2025-08-14 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222532) · `ta`
-
-சுப்ரிம் செட் செயற்கை செய்மதி தொடர்பில் அரசாங்கத்துக்குள் இருந்து  பல்வேறு கருத்துக்கள் தெரிவிக்கப்பட்டுள்ளன. அதனால் இதன்   உண்மைத்தன்மை என்ன என்பது தொடர்பில் அரசாங்கம் நாட்டுக்கு வெளிப்படுத்த வேண்டும். அத்துடன் அமைச்சரவையின் கூட்டுப்பொறுப்பை பாதுகாக்க தவறிய அமைச்சர் வசந்த சமரசிங்க தொடர்பில் ஜனாதிபதி எடுக்கும் நடவடிக்கை என்னவென்று  கேட்கிறோமென ஐக்கிய தேசிய கட்சியின் பிரதி தவிசாளர் நவீன் திசாநாயக்க தெரிவித்தார்.
-
-கொழும்பில் அமைந்துள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் காரியாலயத்தில் புதன்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-சுபம்ரிம் செட் செயற்கை செய்மதி தொடர்பில் பிரதமர் ஹரிணி அமரசூரிய பாராளுமன்றத்துக்கு முன்வைத்த அறிவிப்பு பிழையென அமைச்சர் வசந்த சமரசிங்க மறுநாள் பாராளுமன்றத்தில் தெரிவித்த கருத்தினால் மக்கள்  மத்தியில் சலசலப்பு ஏற்பட்டுள்ளது.
-
-...
-
-[Data](articles/f7399bcc.json)
-
----
-
-### 2025-08-13 (Wednesday)
-
-### Sri Lanka’s Hatton National Bank net up 37-pct in June quarter
-
-*2025-08-13 23:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-profits-up-37-pct-in-june-236153/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent from a year ago to 11.74 billion rupees, helped by loan loss reversals and depreciation gains, despite a fall in net interest income, interim accounts show.
-
-HNB group reported earnings of 20.54 rupees for the quarter. In the six months to June HNB reported earnings of 39.25 rupees on total profits of 22.4 billion rupees, which grew 42 percent.
-
-Net fee income and commission income grew 20 percent to 5.7 billion rupees with card use and digital transactions contributing, the bank said.
-
-Rupee depreciation had helped boost forex income to 2.8 billion rupees in the half year.
-
-At standalone bank level, net interest income fell 8 percent to 50.1 billion rupees in the June quarter with interest income falling 8 percent to 50.1 billion rupees and interest expenses also falling 8 percent to 28.2 billion rupees.
-
-...
-
-[Data](articles/9e416d65.json)
 
 ---

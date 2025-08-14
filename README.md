@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 17:06:50**
+As of **2025-08-14 17:18:09**
 
 ## Newspaper Stats
 
-*Scraped **70,515** Articles*
+*Scraped **70,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,806
+adalk | 6,807
 adaderanalk | 8,800
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,515 articles have been extended.
+61,973 (87.9%) of 70,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,20 @@ Local TV channels said the flood water had washed away community kitchens set up
 ...
 
 [Data](articles/bfb1893e.json)
+
+---
+
+### ලක්ෂ 140ක අල්ලස් ගත් එස්.එස්.පී. සතීෂ් ගමගේ රිමාන්ඩ්
+
+*2025-08-14 16:17:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-140ක-අල්ලස්-ගත්-එස්-එස්-පී--සතීෂ්-ගමගේ-රිමාන්ඩ්/11-417917) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගෙන් හා සංවිධානාත්මක අපරාධකරුවන්ගෙන් රුපියල් ලක්ෂ 140ට අධික අල්ලස් ලබා ගැනීමේ චෝදනා යටතේ අත්අඩංගුවට පත්  පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතිෂ් ගමගේ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරණ මහත්මිය විසින් මෙම නියෝගය නිකුත් කළාය.
+
+◼️
+
+[Data](articles/ef179682.json)
 
 ---
 
@@ -1809,21 +1823,5 @@ Our dreary post-independence history seems to be that of a country going round i
 ...
 
 [Data](articles/82c54183.json)
-
----
-
-### Trumpeting for tomorrow
-
-*2025-08-14 05:59:11* · [`dailyftlk`](https://www.ft.lk/opinion/Trumpeting-for-tomorrow/14-780247) · `en`
-
-Lankan elephant at the receiving end – Pic credit: Centre for Eco-cultural Studies
-
-The medium to long term future of our jumbo is bleak unless the National Action Plan for Human Elephant Conflict Mitigation (NAP) is immediately implemented, say conservationists who also call for legal reforms and a centralised coordination hub to help injured elephants.
-
-“What is man without the beasts? If all the beasts were gone, man would die from a great loneliness of the spirit. For whatever happens to the beasts, soon happens to man. All things are connected” – the wisdom of the Chief Seattle reverberates more than ever before each time an elephant’s life is claimed by a man in this land where the jumbo is not just a wild creature but a cultural icon. The pride of place occupied by the Lankan elephant and the tusker is such, that the native branch of medicine recognises a distinct school of physicians known as ‘ali-wedun’ (physicians of the elephants).
-
-...
-
-[Data](articles/3feed9a1.json)
 
 ---

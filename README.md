@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 23:32:10**
+As of **2025-08-14 23:51:20**
 
 ## Newspaper Stats
 
-*Scraped **70,553** Articles*
+*Scraped **70,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,814
-adaderanalk | 8,808
+adaderanalk | 8,809
 tamilmirrorlk | 10,382
 virakesarilk | 11,732
 adaderanasinhalalk | 12,146
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,553 articles have been extended.
+61,973 (87.8%) of 70,554 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2b6d7ac4.json)
+
+---
+
+### More than 35 dead in flash floods on popular pilgrimage route in Himalayas
+
+*2025-08-14 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111483/more-than-35-dead-in-flash-floods-on-popular-pilgrimage-route-in-himalayas) · `en`
+
+At least 38 people have died after flash floods hit a village hosting Hindu pilgrims in Indian-administered Kashmir.
+
+The disaster took place in the remote village of Chositi in Kishtwar district, which is on a busy pilgrimage route to a famous shrine in the Himalayas.
+
+Videos shared online showed dramatic flood waters, vehicles being washed away and rescuers searching for survivors in damaged homes, as people cried in the streets - some caked in mud.
+
+Dozens of pilgrims have been evacuated to safety, but at least 50 people are feared missing, and a rescue operation is still underway.
+
+The floods were triggered by a cloudburst, officials said, with Federal Minister Jitendra Singh, who is also an MP from Jammu and Kashmir, saying it was on a “massive scale” and rescue teams were finding it difficult to reach the site.
+
+A road had been washed away, he said, and the weather was not safe enough for helicopters.
+
+...
+
+[Data](articles/03e2df35.json)
 
 ---
 
@@ -1827,23 +1849,5 @@ However, the large-scale renovations are being carried out with the labor contri
 ◼️
 
 [Data](articles/757c5d96.json)
-
----
-
-### Sri Lanka’s Dipped Products leases factory from BoI for billion rupees
-
-*2025-08-14 10:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-leases-factory-from-boi-for-billion-rupees-236272/) · `en`
-
-ECONOMYNEXT – Rubber glove manufacturer and exporter, Dipped Products, said it had entered into a 30-year lease agreement with the Board of Investment of Sri Lanka to lease a land for one billion rupees.
-
-The 4.75-acre land with buildings is situated in the Katunayake Export Processing Zone, the company said in a stock exchange filing.
-
-“This acquisition is aimed at enhancing DPL’s production capacity to support its long-term growth plans.”
-
-In December 2024, Dipped Products acquired Hi Care Thai Gloves Company Ltd in Thailand for $11 million to “expand its global footprint in the rubber glove manufacturing industry and strengthen its presence in international markets”. (Colombo/Aug14/2025)
-
-◼️
-
-[Data](articles/de648bc2.json)
 
 ---

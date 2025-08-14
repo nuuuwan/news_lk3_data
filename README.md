@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 17:18:09**
+As of **2025-08-14 17:31:27**
 
 ## Newspaper Stats
 
-*Scraped **70,516** Articles*
+*Scraped **70,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,807
 adaderanalk | 8,800
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
-adaderanasinhalalk | 12,138
+adaderanasinhalalk | 12,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,516 articles have been extended.
+61,973 (87.9%) of 70,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ගාසා වැසියන් දකුණු සුඩානයේ පදිංචිකිරීමේ සැලසුමක්?
+
+*2025-08-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213369) · `si`
+
+ගාසා තීරයේ වැසියන් දකුණු සුඩානයේ පදිංචි කරවීමට ඊශ්‍රායලය සැලසුම් කරන බවට මාධ්‍ය වාර්තා පසුගිය දින කිහිපය තුළ පළ විය.
+
+මෙම සැලසුම සම්බන්ධව දැනුවත් පුද්ගලයින් හය දෙනෙක් උපුටා දක්වමින් AP මාධ්‍ය ජාලය පළකළ එම වාර්තා දකුණු සුඩාන රජය තරයේ ප්‍රතික්ෂේප කර තිබේ.
+
+ගාසා වැසියන් ස්වේච්ඡාවෙන් වෙනත් කලාප වෙත යොමු කිරීමට තමන් අපේක්ෂා කරන බව ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු පවසා ඇති පසුබිමක මෙවන් පුවත් වාර්තා වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/5cededa5.json)
+
+---
 
 ### ඕමාන තානාපති බලශක්ති අමාත්‍යවරයා හමුවෙයි
 
@@ -1809,19 +1825,5 @@ The other way of being Sri Lankan is as a hawk. A hawk was for war with the LTTE
 ◼️
 
 [Data](articles/dd7d3073.json)
-
----
-
-### History repeats, failure to failure
-
-*2025-08-14 06:06:59* · [`dailyftlk`](https://www.ft.lk/columns/History-repeats-failure-to-failure/4-780249) · `en`
-
-“The great theatre of the world has a small personnel. In historic costumes, with the language of various epochs in their mouths, the same figures keep appearing, playing in a few eternal conflicts”
-
-Our dreary post-independence history seems to be that of a country going round in circles; a lot of posturing, a big noise, but a poor performance. In self-justification, it is argued by some politicians that Sri Lanka had advanced relative to what prevailed in 1948. This claim is undeniably true; we are now not what we were 70 years ago. This would be true of every country on this planet, they have all advanced in these 70 years. However, this comparison is to only our country, in relation to ourselves then in 1948, to now. They don’t compare our progress against countries like Malaysia, Thailand, Vietnam, Singapore or China, the resurgent Asia.
-
-...
-
-[Data](articles/82c54183.json)
 
 ---

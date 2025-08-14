@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 16:22:51**
+As of **2025-08-14 16:34:51**
 
 ## Newspaper Stats
 
-*Scraped **70,508** Articles*
+*Scraped **70,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,805
+adalk | 6,806
 adaderanalk | 8,798
 tamilmirrorlk | 10,375
 virakesarilk | 11,730
@@ -26,23 +26,23 @@ adaderanasinhalalk | 12,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,508 articles have been extended.
+61,973 (87.9%) of 70,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
 
-### வாவியில் இருந்து தோட்டாக்கள் மீட்பு
+### வாவியில் இருந்து 8,188 தோட்டாக்கள் மீட்பு
 
 *2025-08-14 16:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாவியில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-362917) · `ta`
 
-அனுராதபுர, கலென் பிந்துனுவெவ கெடலாவ வாவியில் இருந்து  தானியங்கி துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 300க்கும் மேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டுள்ளதாக கலென் பிந்துனுவெவ பொலிஸார் தெரிவித்தனர்.
+அனுராதபுரம், கலென் பிந்துனுவெவ கெடலாவ வாவியில் இருந்து  தானியங்கி துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 3000க்கும் மேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டுள்ளதாக கலென் பிந்துனுவெவ பொலிஸார் தெரிவித்தனர்.
 
 வயலில் இருந்து திரும்பிக் கொண்டிருந்த ஒரு விவசாயி ஒருவர் தனது  கால்களை கழுவுவதற்காக குறித்த வாவிக்கு சென்றபோது நீருக்குள் பல தோட்டாக்கள் இருப்பதை அவதானித்து பொலிஸாருக்கு தகவல் வழங்கியுள்ளார்.
 
-அதற்கமைய உடனடியாகச் செயற்பட்ட பொலிஸார்  குறித்த வாவிக்கு சென்று மேற்கொண்ட தேடுதலில் 5,038 (ஐந்தாயிரத்து முப்பத்தெட்டு) தோட்டாக்கள் மீட்டுள்ளனர்.
+அதற்கமைய உடனடியாகச் செயற்பட்ட பொலிஸார்  குறித்த வாவிக்கு சென்று மேற்கொண்ட தேடுதலில் 5,038 தோட்டாக்களை மீட்டுள்ளனர்.
 
-விசேட பொலிஸ் குழுவினரால் குறித்த இடத்தில் மேற்கொண்ட மேலதிக சோதனையின் போது  11 மேகசின்கள் மற்றும் 3150 தோட்டாக்கள் மீட்கப்பட்டுள்ளது.
+குறித்த இடத்தில்  விசேட பொலிஸ் குழுவினரால் மேற்கொண்ட மேலதிக சோதனையின் போது  11 மெகசின்கள் மற்றும் 3150 தோட்டாக்கள் மீட்கப்பட்டுள்ளன.
 
 ◼️
 
@@ -609,6 +609,22 @@ Therefore, he stated that the relevant authorities have been informed to create 
 ...
 
 [Data](articles/602e4358.json)
+
+---
+
+### ලංකා බැංකුවේ හා අයි.ටී.එන්. නව සභාපතිවරුන්ට අනුමැතිය
+
+*2025-08-14 12:13:01* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-බැංකුවේ-හා-අයි-ටී-එන්--නව-සභාපතිවරුන්ට-අනුමැතිය/11-417915) · `si`
+
+තානාපතිවරයෙකු, අමාත්‍යාංශ ලේකම්වරුන් දෙදෙනෙකු සහ සභාපතිවරුන් 4 දෙනෙකු පත් කිරීම් සඳහා පාර්ලිමේන්තුවේ උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය හිමිවිය. 2025 අගෝස්තු 06 වන දින පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවේදී මෙම තීරණ ගනු ලැබිණි.
+
+ඒ අනුව, ඕමාන් රාජ්‍යයේ නව ශ්‍රී ලංකා තානාපතිවරයා ලෙස විජේසිංහ ආරච්චිගේ කපිල සංජීව ද අල්විස් මහතා නම් කිරීම කාරක සභාව විසින් අනුමත කරන ලදී.
+
+ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස එම්.ඒ.එල්.එස්.එන්.කේ. මන්ත්‍රීනායක මහතා සහ කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශයේ නව ලේකම්වරිය ලෙස ජේ.එම්. තිලකා ජයසුන්දර මහත්මියගේ පත්වීම් ද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමත කළේය.
+
+...
+
+[Data](articles/1096f880.json)
 
 ---
 
@@ -1795,23 +1811,5 @@ The Sri Lanka Export Development Board (EDB) recently held a strategic meeting w
 ...
 
 [Data](articles/a557dec0.json)
-
----
-
-### Vietnam’s ROX Group eyes land for industrial zone in Sri Lanka
-
-*2025-08-14 05:35:17* · [`dailyftlk`](https://www.ft.lk/business/Vietnam-s-ROX-Group-eyes-land-for-industrial-zone-in-Sri-Lanka/34-780241) · `en`
-
-ROX Group’s 14 industrial parks in Vietnam attracted $ 3.5 b in FDI
-
-President Anura Kumara Disanayake on Tuesday (12) met senior executives of Vietnam’s ROX Group in Colombo to discuss potential investments in an industrial zone, the President’s Media Division (PMD) said in a statement.
-
-The delegation, led by ROX Group Advisory Board Chairman and Maritime Commercial Joint Stock Bank Chairman Tran Anh Tuan, expressed interest in establishing an industrial zone in Sri Lanka. The group is also exploring opportunities in renewable energy and real estate, the PMD statement said.
-
-Privately held ROX Group, formerly TNG Holding Vietnam, was founded in 1996 and operates across urban and industrial park development, real estate leasing, trade, hospitality, energy, and banking. The company lists its business size at about $ 1.3 billion on its website, without specifying whether the figure refers to revenue.
-
-...
-
-[Data](articles/cccaad8b.json)
 
 ---

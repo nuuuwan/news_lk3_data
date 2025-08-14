@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 19:50:25**
+As of **2025-08-14 20:07:29**
 
 ## Newspaper Stats
 
-*Scraped **70,529** Articles*
+*Scraped **70,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,81 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 720
-economynextcom | 4,296
+economynextcom | 4,304
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,810
+adalk | 6,811
 adaderanalk | 8,804
-tamilmirrorlk | 10,380
+tamilmirrorlk | 10,381
 virakesarilk | 11,730
-adaderanasinhalalk | 12,142
+adaderanasinhalalk | 12,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,529 articles have been extended.
+61,973 (87.9%) of 70,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### அரச அடுக்குமாடி குடியிருப்புகளை மறுசீரமைக்க திட்டம்
+
+*2025-08-14 19:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அடுக்குமாடி-குடியிருப்புகளை-மறுசீரமைக்க-திட்டம்/175-362926) · `ta`
+
+கொழும்பு மாவட்டத்தில் 40 ஆண்டுகளுக்கும் மேலான பழமையான அரசு அடுக்குமாடி குடியிருப்புகளை அடுத்த ஆண்டு மறுசீரமைப்பதற்கு திட்டமிடப்பட்டுள்ளதாக தேசிய வீடமைப்பு மேம்பாட்டு ஆணையம் தெரிவித்துள்ளது.
+
+கொழும்பு மாவட்டத்தில் 40 ஆண்டுகளுக்கும் மேலான பழமையான 45 அடுக்குமாடி குடியிருப்புத் திட்டங்கள் இருப்பதாகவும், அவற்றில் சுமார் 10,000 வீடுகள் இருப்பதாகவும் தேசிய வீடமைப்பு மேம்பாட்டு ஆணைய அதிகாரிகள் குழுவிடம் தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, இந்த மறுசீரமைப்புத் திட்டங்கள் எவ்வாறு செயல்படுத்தப்படும், அந்த வீட்டு வளாகங்களில் தற்போது வசிப்பவர்கள் தொடர்பான முடிவுகள் உட்பட, ஒரு மாதத்திற்குள் அறிக்கை சமர்ப்பிக்குமாறு உட்கட்டமைப்பு மற்றும் மூலோபாய மேம்பாடு தொடர்பான துறைசார் மேற்பார்வைக் குழுத் தலைவர் அறிவுறுத்தினார். R
+
+◼️
+
+[Data](articles/4e36d8a8.json)
+
+---
+
+### ඩොනල්ඩ් බ්‍රැඩ්මන් 99.94න් නැවතී අදට වසර 77යි
+
+*2025-08-14 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213373) · `si`
+
+ලෝක ක්‍රිකට් ඉතිහාසයේ ශ්‍රේෂ්ඨතම පිතිකරුවා ලෙස අවිවාදයෙන් පිළිගත හැකි ක්‍රීඩකයා වන ශ්‍රීමත් ඩොනල්ඩ් බ්‍රැඩ්මන්ට පිතිකරණ සාමාන්‍ය සියයට 100ක් කරගැනීමට නොහැකි වූ එම තීරණාත්මක තරගය පැවැත් වී අදට (14) වසර 77ක් සම්පූර්ණ විය.
+
+1948 වසරේ දී අදවන් දිනක ඔහු එංගලන්තයට එරෙහිව සිය ටෙස්ට් ක්‍රිකට් දිවියේ අවසන් තරගය ක්‍රීඩා කළේය.
+
+ලන්ඩන් ඕවල් ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ දී ඔහුගේ පිතිකරණ සාමාන්‍ය සියයට 100ක් කරගැනීමට ලකුණු 4ක් පමණක් අවශ්‍ය වී තිබුණි.
+
+කෙසේ නමුත් එම ඓතිහාසික තරගයේ දී පන්දු 2කට පමණක් මුහුණදුන් බ්‍රැඩ්මන්, විලියම් එරික් හොලීස්ගේ පන්දුවක් කෙළින්ම කඩුල්ලේ වැඳී ලකුණු නොලබාම පිටියෙන් ඉවත්ව ගියේය.
+
+මෙම තරගයෙන් ඔස්ට්‍රේලියාව ඉනිමකින් හා ලකුණු 149ක දැවැන්ත ජයක් ලැබීම හේතුවෙන් ඔහුට දෙවනවරට පන්දුවට පහරදීමේ අවස්ථාවක්ද නොලැබුණි.
+
+බ්‍රැඩ්මන්ගෙන් පසු ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවෙන් සචින් ටෙන්ඩුල්කාර්, බ්‍රයන් ලාරා, කුමාර් සංගක්කාර වැනි ලෝක පූජිත පිතිකරුවන් බිහි වුවද, ඒ කිසිවෙකුට හෝ බ්‍රැඩ්මන්ගේ පිතිකරණ සාමාන්‍යයට ළඟවීමට හෝ නොහැකි වී ඇත.
+
+...
+
+[Data](articles/704a61ec.json)
+
+---
+
+### Sri Lanka sees USD 29mn foreign buying in rupee bonds
+
+*2025-08-14 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-usd-29mn-foreign-buying-in-rupee-bonds-236368/) · `en`
+
+ECONOMYNEXT – Foreign investors bought high quantity of Sri Lanka government securities, the Central Bank data showed, as the week ended on August 7 saw better trade arrangements with the United States, calming tariff-related volatility and uncertainty in financial markets.
+
+Foreign investors bought 8,756 million rupee ($29.19 million) worth of government securities in the week ended on August 7, seeing foreign inflow for a second straight week.
+
+Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and some of the key deals have calmed tariff-related volatility and uncertainty in financial markets, analysts said.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+...
+
+[Data](articles/2e9863a2.json)
+
+---
 
 ### අස්වැසුම අගෝස්තු මස දීමනාව හෙට ගිණුම්වලට
 
@@ -202,6 +258,38 @@ During the meeting, the Minister expressed his appreciation for Oman as a close 
 
 ---
 
+### Sri Lanka Customs launches new documentation system to boost transparency
+
+*2025-08-14 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-launches-new-documentation-system-to-boost-transparency-236377/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs has officially launched web-based Customs Document Notification System (CDNS), a service designed to enhance transparency, accessibility, and efficiency in the clearance process.
+
+“The CDNS enables Consignees and Declarants to track the real-time status of their Customs Declarations and Cargo Movements, offering greater visibility and accountability throughout the clearance process,” Sri Lanka Customs said in a statement.
+
+“This initiative is aimed at empowering external stakeholders to improve their compliance through direct feedback and timely updates.”
+
+The Customs said the new system marks the successful completion of phase 1 of the Automated Risk Management System Project, reinforcing its commitment to modernizing trade facilitation and strengthening trust between Customs and the trading community.
+
+...
+
+[Data](articles/2a2f5f74.json)
+
+---
+
+### අගෝස්තු ජාතික මව්කිරි දීමේ මාසය වෙයි
+
+*2025-08-14 17:02:23* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-ජාතික-මව්කිරි-දීමේ-මාසය-වෙයි/11-417921) · `si`
+
+ජාතික මව්කිරි දීමේ මාසය ලෙස අගෝස්තු මාසය නම් කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පියවර ගෙන ඇති එම විශේෂ මාසය වෙනුවෙන් පැවැත්වෙන ජාතික සැමරුම් උත්සවය සහ උපදේශන වැඩමුළුව පසුගිය දා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල වොටර්ස් ඒජ්   හෝටලයේ දී පැවැත්විණි. ජාත්‍යන්තර මව්කිරි දීමේ සතිය ලෙස සෑම වර්ෂයකම අගෝස්තු මස 1 සිට 7 දක්වා ප්‍රකාශයට පත්කර ඇති අතර එම සතියට සමාගාමීව මෙම මාසය ප්‍රකාශයට පත්කරීමට පියවර ගැණුනි.
+
+මව්කිරි දීමේ වැදගත්කම, එම මාසය තුළ සිදුකරන ක්‍රියාකාරකම්, දැනුම හුවමාරු කර ගැනීම, පසුගිය වර්ෂයේ සිදුකල කාර්යන් පිළිබඳව කතිකා කිරීම, මව්කිරි දීම පිළිබඳව දස පිළිවෙතට අදාළව තම කාර්ය සාර්ථකව ඉටුකළ සෞඛ්‍ය වෘත්තිකයන් ඇගයීම, මෙන් ම තවත් වැඩසටහන් රාශියක් ඇතුළත් ව මෙම ජාතික සැමරුම් උත්සවය සහ උපදේශන වැඩමුළුව පැවැත්විණි.
+
+...
+
+[Data](articles/2e8f99a5.json)
+
+---
+
 ### ‘Aswesuma’ welfare benefit allowances to be credited tomorrow
 
 *2025-08-14 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111474/aswesuma-welfare-benefit-allowances-to-be-credited-tomorrow-) · `en`
@@ -229,6 +317,28 @@ The Welfare Benefits Board stated that the beneficiaries will be able to access 
 ...
 
 [Data](articles/38489339.json)
+
+---
+
+### Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB
+
+*2025-08-14 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-coconut-production-up-fish-tea-and-rubber-down-in-june-cb-236360/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s agricultural production in paddy and coconut picked up in June, the central bank said, while tea, fish and rubber production decreased due to unfavourable weather.
+
+“Paddy production for the 2025 Yala season, based on the sown extent as of end June 2025, is forecasted at 2.19 million metric tons, a 10.8% increase from the previous Yala season,” the central bank’s Agriculture Sector Data Bulletin for June 2025 said.
+
+Paddy production forecasts for 2025 is estimated as 4.8 million metric tons, a 2.3 percent increase from 2024.
+
+Coconut production increased by 18.3 percent year on year in June following a recovery since February.
+
+Meanwhile fish production decreased by 20.6 year on year in June, attributed to a decline in both marine and inland fishing activities.
+
+Tea production decreased by 6.3 percent in June mainly attributed to adverse weather conditions.
+
+...
+
+[Data](articles/83d3569b.json)
 
 ---
 
@@ -322,6 +432,22 @@ Local TV channels said the flood water had washed away community kitchens set up
 
 ---
 
+### Estimating the economic cost of US tariffs on Sri Lanka
+
+*2025-08-14 16:20:00* · [`economynextcom`](https://economynext.com/estimating-the-economic-cost-of-us-tariffs-on-sri-lanka-236348/) · `en`
+
+The recent US announcement of new tariffs confirms that high effective tariffs are now the norm. The new tariff rates increase the US effective tariff rate to 17.3%, the highest since 1935. While a 20% tariff rate offers Sri Lanka some relief, compared to the previously given reciprocal rates, the US effective tariff rates for Sri Lanka remain high.
+
+With a quarter of Sri Lanka’s total exports facing at least a 20-percentage-point increase in tariffs, the trade-weighted effective tariff rate will be 29.9%, compared to 10.20% in April 2025 (Table 1). Sri Lanka’s main exports to the US, wearing apparel and rubber products, will face tariffs of 36.8% and 20.2% respectively.
+
+In the above context, estimating the economic cost for Sri Lanka, including an assessment of alternative policy scenarios, is crucial. Model-based estimates incorporating input-output linkages within the economy, which differ from sector-specific partial equilibrium analysis, are used.
+
+...
+
+[Data](articles/922b96fc.json)
+
+---
+
 ### ලක්ෂ 140ක අල්ලස් ගත් එස්.එස්.පී. සතීෂ් ගමගේ රිමාන්ඩ්
 
 *2025-08-14 16:17:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-140ක-අල්ලස්-ගත්-එස්-එස්-පී--සතීෂ්-ගමගේ-රිමාන්ඩ්/11-417917) · `si`
@@ -389,6 +515,30 @@ He expressed the hope that the students studying in China will diligently pursue
 ...
 
 [Data](articles/c03def9e.json)
+
+---
+
+### Sri Lanka stocks close down; PickMe, banks and financials boost turnover
+
+*2025-08-14 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pickme-banks-and-financials-boost-turnover-236331/) · `en`
+
+ECONMYNEXT – The Colombo Stocks Exchange closed down on Thursday, data on its site showed.
+
+The ASPI was down 0.23 percent, or 46.83 points, at 19,928.67; while the S&P SL20 was down 0.60 percent, or 35.06 points, at 5,780.58.
+
+Market turnover was 7 billion rupees, to which a transaction on Digital Mobility Solutions (PickMe) contributed 1.4 billion rupees. The stock closed up 17.25 rupees at 123.
+
+Bank and diversified financial stocks also contributed significantly to the day’s turnover.
+
+Lanka Ventures closed up 13.10 rupees at 87.10 and L V L Energy Fund closed up 90 cents at 9.40.
+
+Top negative contributors to the ASPI were Hayleys which was down 7.25 rupees at 177.75, Sampath Bank down 2.75 rupees at 140.25, Central Finance down 4.75 rupees at 294.25, Cargills (Ceylon) down 14.75 rupees at 705, and NDB down 1.50 rupees at 141.25.
+
+Sampath Bank profits fell 17 percent in the June 2025 quarter to 6.7 billion rupees, due to higher operating expenses, interim accounts showed. (Colombo/Aug14/2025)
+
+◼️
+
+[Data](articles/867c3cdd.json)
 
 ---
 
@@ -596,6 +746,30 @@ The Governor also highlighted reforms that are now shifting from crisis stabiliz
 
 ---
 
+### Sri Lanka’s Sampath Bank net down 17-pct in June quarter
+
+*2025-08-14 14:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-net-down-17-pct-in-june-quarter-236323/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Sampath Bank profits fell 17 percent in the June 2025 quarter to 6.7 billion rupees, due to higher operating expenses, interim accounts show.
+
+Fee and commission income grew 20 percent to 6.58 billion rupees.
+
+Compared to net profits of 6.7 billion rupees, income tax and financial VAT totaled 8.4 billion rupees.
+
+As lending rates were reduced, interest income fell 1 percent to 48 billion rupees, while interest expenses rose 2 percent, and net interest income also fell 4 percent to 20.87 billion rupees.
+
+Loans and advances rose 9 percent in the first half of the year to 981 billion rupees. Debt and other instruments grew 35 percent to 546.9 billion rupees from 405.6 billion rupees.
+
+Impairments were a reversal of 600 million rupees. Stage 3 loans were 80.8 billion rupees by end June, compared to 81.5 billion by end December 2024.
+
+Deposits grew 9.8 percent to 1,613.6 billion rupees in the first half of the year.
+
+...
+
+[Data](articles/38ebdbdf.json)
+
+---
+
 ### President decides to temporarily halt Mannar Wind Power Project
 
 *2025-08-14 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111464/president-decides-to-temporarily-halt-mannar-wind-power-project) · `en`
@@ -760,6 +934,26 @@ It is alleged that he had received approximately Rs. 14 million as bribes from o
 
 ---
 
+### Sri Lanka President suspends Mannar 50MW and 20MW wind plants for month
+
+*2025-08-14 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-suspends-mannar-50mw-and-20mw-wind-plants-for-month-236300/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has suspended work on two wind power plants in the Mannar area for a month to solve issues brought up by the local community, his office said.
+
+“It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant,” a statement from the President’s media office said.
+
+“It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.”
+
+Community representatives from Mannar, including religious leaders had raised concerns about environmental damage and impacts on residents from both the ilmenite mining project and the wind power project at a meeting on August 13.
+
+President Dissanayake said the projects would not proceed without the approval of the Central Environmental Authority’s assessment reports.
+
+...
+
+[Data](articles/9d845dd0.json)
+
+---
+
 ### ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டம்
 
 *2025-08-14 13:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-போராட்டம்/175-362904) · `ta`
@@ -885,6 +1079,28 @@ Therefore, he stated that the relevant authorities have been informed to create 
 ...
 
 [Data](articles/c3016f67.json)
+
+---
+
+### Sri Lanka’s Parliament gets renovated by army
+
+*2025-08-14 12:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-parliament-gets-renovated-by-army-236288/) · `en`
+
+ECONOMYNEXT – Large-scale renovations of Sri Lanka’s Parliamentary Complex, including its members’ dressing room, are underway, according to a parliament statement.
+
+“Work is currently underway to remove the soil layer on the concrete roof terrace of the Parliamentary Complex and carry out repairs.
+
+“In addition, renovations are being done to the roof gutters, copper door, Parliament Medical Center, washrooms, and Members’ Dressing Room.”
+
+Minor maintenance work of the complex has been carried out by the Engineering Department in the past.
+
+The current large-scale renovations are being carried out by the Sri Lanka Army.
+
+The renovations of the complex received cabinet approval, and is taking place after 42 years, according to the statement. (Colombo/Aug14/2025)
+
+◼️
+
+[Data](articles/3a87199b.json)
 
 ---
 
@@ -1631,197 +1847,5 @@ The telegraphic transfer rate for the American dollar was 297.5000 buying 304.50
 ...
 
 [Data](articles/70fb8a38.json)
-
----
-
-### Priyantha Weerasooriya assumes duties as Sri Lanka’s 37th IGP
-
-*2025-08-14 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111453/priyantha-weerasooriya-assumes-duties-as-sri-lankas-37th-igp) · `en`
-
-Priyantha Weerasooriya (Attorney-at-Law) has assumed duties as the 37th Inspector General of Police of Sri Lanka a short while ago at Police Headquarters, Colombo 02.
-
-While addressing the gathering, the newly appointed IGP said he is familiar with the concept of the Eight Worldly Winds and emphasized his commitment to upholding the honor and dignity of the police in the course of his duties.
-
-IGP Priyantha Weerasooriya expressed his dedication to making the vision of the police a reality and stated that he expects all police officers to perform at a high standard in pursuit of this mission.
-
-He also noted that his sole intention is to establish a disciplined police force, which he holds in the highest regard, and added that he would like to express his gratitude to all those who appointed him to the position of IGP.
-
-...
-
-[Data](articles/6815fea1.json)
-
----
-
-### சில இடங்களில் பல தடவைகள் மழை பெய்யும்
-
-*2025-08-14 08:57:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-362885) · `ta`
-
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடிய சாத்தியக்கூறுகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் பிற்பகல் 2 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-மத்திய மலைகளின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும், திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு (30-40) கிலோமீற்றர் வேகத்தில் மிதமான காற்று வீசக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.  R
-
-◼️
-
-[Data](articles/56fff88b.json)
-
----
-
-### නව පොලිස්පති වැඩ භාරගනී
-
-*2025-08-14 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213351) · `si`
-
-නව පොලිස්පතිවරයා ලෙස පත්වූ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා අද (14) උදෑසන සිය ධුරයේ වැඩ භාරගනු ලැබීය.
-
-මෙහිදී සභාව අමතමින් නව පොලිස්පතිවරයා සඳහන් කර සිටියේ, තමාට අට ලෝ දහම හොඳින් හුරු පුරුදු බවත්, පොලීසියේ ගෞරවය හා ප්‍රෞඩත්වය රැකගැනීම වෙනුවෙන් කළ හැකි සෑම දේම තමා සිය රාජකාරිය තුළ ඉටු කරන බවත්ය.
-
-පොලීසියේ දැක්ම අනුව යමින් එය යථාර්ථයක් කිරීමට තමා කටයුතු කරන බවත් ඒ සඳහා සියලු පොලිස් නිලධාරීන්ගේ ඉහළ කාර්ය සාධනයක් බලාපොරොත්තු වන බව ද පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා පැවසීය.
-
-විනයානුකූල පොලීසියක් සකස් කිරීම තම එකම අභිප්‍රාය බවත් එය තමා ඉහළින්ම සලකන බවත් පැවසු පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා තමාව පොලිස්පති ධුරයට පත්කළ සියලුදෙනාට ස්තූතිය පළ කරන බවත් කියා සිටියේය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත්කරනු ලැබීය.
-
-මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී ඊයේ (13) පස්වරුවේ භාරදුනි.
-
-...
-
-[Data](articles/6a0bad7c.json)
-
----
-
-### European leaders tentatively hopeful after call with Trump ahead of Putin summit
-
-*2025-08-14 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111452/european-leaders-tentatively-hopeful-after-call-with-trump-ahead-of-putin-summit) · `en`
-
-European leaders appeared cautiously optimistic after holding a virtual meeting with Donald Trump on Wednesday, two days before he meets his Russian counterpart Vladimir Putin in Alaska to discuss ending the war in Ukraine.
-
-Trump reportedly told the Europeans that his goal for the summit was to obtain a ceasefire between Moscow and Kyiv.
-
-He also agreed that any territorial issues had to be decided with Volodymyr Zelensky’s involvement, and that security guarantees had to be part of the deal, according to France’s Emmanuel Macron.
-
-Speaking to Trump had allowed him to “clarify his intentions” and gave the Europeans a chance to “express our expectations,” Macron said.
-
-Trump and Vice-President JD Vance spoke to the leaders of the UK, France, Germany, Italy, Finland and Poland as well as EU chief Ursula von der Leyen and Nato chief Mark Rutte.
-
-...
-
-[Data](articles/92b71c12.json)
-
----
-
-### 10-hour water cut in several areas of Gampaha today
-
-*2025-08-14 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111451/10-hour-water-cut-in-several-areas-of-gampaha-today) · `en`
-
-A 10-hour water cut will be imposed in several areas of the Gampaha District today (14), the National Water Supply & Drainage Board (NWSDB) announced.
-
-Accordingly, the water supply to  Nittambuwa, Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. on Thursday, the NWSDB said.
-
-The NWSDB expresses regret for the inconvenience caused to the public as a result of disruptions to the water supply.
-
-◼️
-
-[Data](articles/b6800445.json)
-
----
-
-### තායිලන්තයෙන් මෙරටට ගෙන ආ රු කෝටි 4ක් වටින කුෂ්
-
-*2025-08-14 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213350) · `si`
-
-වායු සමීකරණ උපකරණ තුළ සඟවා තායිලන්තයේ සිට මෙරටට ගෙන එන ලද රුපියල් කෝටි හතරක් පමණ වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් කොළඹ මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය මඟින් සිය භාරයට ගෙන තිබේ.
-
-පෑලියගොඩ නුගේ පාර වරාය බහාලුම් අංගනයක බහලුමක් තුළ තිබී කිලෝග්‍රෑම් 6කට අධික කුෂ් මත්ද්‍රව්‍ය තොගයක් සොයාගත් බව මධ්‍යම අපරාධ විමර්ශන කාර්යංශයේ අධ්‍යක්ෂ පොලිස් අධිකාරී කමල් ආරියවංශ මහතා සඳහන් කළේය.
-
-මෙම කුෂ් මත්ද්‍රව්‍ය තොගය ආනනය කිරීම සම්බන්ධයෙන් වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි 36 හැවිරිදි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/0530e16e.json)
-
----
-
-### ශ්‍රී  ලංකා පොලීසියේ සුවිශේෂී කඩ ඉමක් පසුකළ 37 වැනි පොලිස්පති
-
-*2025-08-14 08:12:22* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී--ලංකා-පොලීසියේ-සුවිශේෂී-කඩ-ඉමක්-පසුකළ-37-වැනි-පොලිස්පති/11-417908) · `si`
-
-ශ්‍රී ලංකා පොලිස් ඉතිහාසය තුළ ඉතාමත් වැදගත් අවස්ථාවක් සටහන් කරමින් 37 වැනි පොලිස්පතිවරයා ලෙස ප්‍රියන්ත වීරසූරිය මහතා අද වැඩ භාර ගැනීමට නියමිතය. ඔහු පොලිස් කොස්තාපල්වරයෙක් ලෙස පොලිස් සේවයට එක්ව පොලිස්පති තනතුර දක්වා ඉහළට පැමිණි පුද්ගලයෙකි. පොලිස් කොස්තාපල්වරයෙක්, උප පොලිස් පරීක්ෂකවරයෙක් හා සහකාර පොලිස් අධිකාරීවරයෙක් ලෙස ඒ මහතා ක්‍රම තුනෙන්ම පොලිස් සේවය හරහා ඉදිරියට පැමිණි පුද්ගලයෙකි.
-
-◼️
-
-[Data](articles/8b7dfe6e.json)
-
----
-
-### Sri Lanka central bank swaps rise as net foreign exchange reserves fall amid rate cuts
-
-*2025-08-14 08:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-swaps-rise-as-net-foreign-exchange-reserves-fall-amid-rate-cuts-236170/) · `en`
-
-ECONOMYNEXT – Swap contracts between Sri Lanka’s central bank and domestic market participants have continued to rise as ‘reserves’ were shown with derivative contracts, official data show.
-
-Sri Lanka’s gross official reserves (some of which also contain fiscal balances from the International Monetary Fund and other disbursements which are used to repay debt), and monetary reserves built by the central bank from current inflows with deflationary policy.
-
-Sri Lanka gross reserves which hit 5,531 million dollars in March fell to 6,144 million dollars by July though there was an increase from 6,080 in June.
-
-Meanwhile net reserves after swaps fell from 2,799 million dollars in March to 2,210 million in June.
-
-From December 2024 to June 2025, gross reserves fell from 6,122 million dollars to 6,080 million and swaps went up from 3,548 million dollars to 3,870 million dollars. Reserves after swaps down from 2,574 million dollars to 2,210 million dollars.
-
-...
-
-[Data](articles/8639fa36.json)
-
----
-
-### Gunshots fired into air in front of house in Muthuhenawatte
-
-*2025-08-14 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111450/gunshots-fired-into-air-in-front-of-house-in-muthuhenawatte) · `en`
-
-Two masked individuals, who arrived on a motorcycle at around 10 p.m. last night (13), in front of a house in the Nadun Uyana area of Muthuhenawatte, have fired shots into the air before fleeing the scene.
-
-Only one shot was fired from a 9mm pistol, and both the bullet and the casing were found in front of the house.
-
-After the shooting, the two unidentified suspects fled towards Muthuhenawaththa Road.
-
-◼️
-
-[Data](articles/3720edd4.json)
-
----
-
-### අද ගම්පහ තැන් කිහිපයකට පැය 10 ජල කප්පාදුවක්
-
-*2025-08-14 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213349) · `si`
-
-ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට අද (14) ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලප්‍රවාහන මණ්ඩලය පවසයි.
-
-ඒ අනුව පෙරවරු 10.00 සිට පස්වරු 08.00 දක්වා පැය 10ක කාලයක් ජල සැපයුම අත්හිටුවනු ලබයි.
-
-නිට්ටඹුව කන්ද හේන, මාපගොල්ල, ලෝංගස්දෙණිය, පින්නගොල්ලවත්ත, කෝලවත්ත, ගොරකදෙණිය රණ්පොකුනගම, රණ් පොකුනගම නිවාස යෝජනා ක්‍රමය, බටලීය, අත්තනගල්ල, පස්යාල, ඌරාපොල, දික්කන්ද, මීවිටිගම්මන, මාඉඹුල, මාතලාන, භග්ගල්ල, අලවල, කලල්පිටිය, ඇල්ලමුල්ල යන ප්‍රදේශවලට මෙලෙස ජල සැපයුම අත්හිටවයි.
-
-ජල සැපයුම අත්හිටුවීම හේතුවෙන් ජල පාරිභෝගිකයන්ට සිදුවන අපහසුතාවය පිළිබදව මණ්ඩලය සිය කනගාටුව පළ කර සිටී.
-
-◼️
-
-[Data](articles/d5e3b997.json)
-
----
-
-### මිලක් නැත්නම් වගාවෙන් ඉවත්වෙන බව ගොවියෝ කියති
-
-*2025-08-14 07:29:30* · [`adalk`](https://www.ada.lk/breaking_news/මිලක්-නැත්නම්-වගාවෙන්-ඉවත්වෙන-බව-ගොවියෝ-කියති/11-417907) · `si`
-
-අක්කර විස්සකට වැඩි  ප්‍රමාණයක් මෙවර දේශීය ලොකු ලූණු වගා කළ ගලේවෙල පට්ටිවල ප්‍රදේශයේ ගොවි මහතෙකු  තම වගාබිමට පැමිණීම කෘෂිකර්ම උපදේශක නිලධාරින් හට බැණ වැදී නැවතත් වගා බිමට එන්න එපා යැයි පවසමින් උරණ වන්නට විය.
-
-තම නිෂ්පාදනවලට සාධාරණ මිලක් නොමැති වීම හේතුවෙන්   නියෝජ්‍ය අමාත්‍යය නාමල් කරුණාරත්න මහතාට ද දුරකථනයෙන් කතා කොට මෙම බරපතල ප්‍රශ්නය සඳහා විසඳුම් ඉල්ලා සිටීම විශේෂත්වයකි.
-
-දේශීය ලොකු ලූණු වගාව ආරම්භක ගොවි මහතෙකු ලෙස ගලේවෙල පට්ටිවල ප්‍රදේශයේ එස්.ඒ රතනපාල මහතා නම් දරා සිටින ගොවි රජෙකි ,අවස්ථා ගණනාවකින් ගොවි රජු ලෙස සම්මානයට පාත්‍ර වූ රතනපාල මහතා කම්කරුවන් සියයකට අධික ප්‍රමාණයකට රැකියා ලබා දෙමින් අක්කර සියයකට ආසන්න ප්‍රමාණයක් එළවළු   සහ විවිධ භෝග වගා කිරීම කාලයක සිට සිදුකරගෙන එන ගොවී මහතෙකි.
-
-දේශීය ලොකුණූ බීජ නිෂ්පාදනය අල නිෂ්පාදනය ඔහුගේ ප්‍රධානතම ගොවිතැනය , කෘෂිකර්ම දෙපාර්තමේන්තුව මගින් ලබාදුන් උපදෙස් පරිදි  රතනපාල මහතා මෙවර දේශීය ලොකුණුවුණු අක්කර 20  පමණක්ම වගා කොට තිබේ
-
-...
-
-[Data](articles/29392645.json)
 
 ---

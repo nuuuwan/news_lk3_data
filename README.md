@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 08:08:50**
+As of **2025-08-14 08:48:15**
 
 ## Newspaper Stats
 
-*Scraped **70,408** Articles*
+*Scraped **70,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 718
 economynextcom | 4,290
 islandlk | 4,320
 dailymirrorlk | 4,733
-dailyftlk | 4,947
-adalk | 6,788
-adaderanalk | 8,780
+dailyftlk | 4,952
+adalk | 6,792
+adaderanalk | 8,782
 tamilmirrorlk | 10,346
 virakesarilk | 11,723
-adaderanasinhalalk | 12,121
+adaderanasinhalalk | 12,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,408 articles have been extended.
+61,973 (88.0%) of 70,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### Gunshots fired into air in front of house in Muthuhenawatte
+
+*2025-08-14 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111450/gunshots-fired-into-air-in-front-of-house-in-muthuhenawatte) · `en`
+
+Two masked individuals, who arrived on a motorcycle at around 10 p.m. last night (13), in front of a house in the Nadun Uyana area of Muthuhenawatte, have fired shots into the air before fleeing the scene.
+
+Only one shot was fired from a 9mm pistol, and both the bullet and the casing were found in front of the house.
+
+After the shooting, the two unidentified suspects fled towards Muthuhenawaththa Road.
+
+◼️
+
+[Data](articles/3720edd4.json)
+
+---
+
+### අද ගම්පහ තැන් කිහිපයකට පැය 10 ජල කප්පාදුවක්
+
+*2025-08-14 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213349) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට අද (14) ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලප්‍රවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව පෙරවරු 10.00 සිට පස්වරු 08.00 දක්වා පැය 10ක කාලයක් ජල සැපයුම අත්හිටුවනු ලබයි.
+
+නිට්ටඹුව කන්ද හේන, මාපගොල්ල, ලෝංගස්දෙණිය, පින්නගොල්ලවත්ත, කෝලවත්ත, ගොරකදෙණිය රණ්පොකුනගම, රණ් පොකුනගම නිවාස යෝජනා ක්‍රමය, බටලීය, අත්තනගල්ල, පස්යාල, ඌරාපොල, දික්කන්ද, මීවිටිගම්මන, මාඉඹුල, මාතලාන, භග්ගල්ල, අලවල, කලල්පිටිය, ඇල්ලමුල්ල යන ප්‍රදේශවලට මෙලෙස ජල සැපයුම අත්හිටවයි.
+
+ජල සැපයුම අත්හිටුවීම හේතුවෙන් ජල පාරිභෝගිකයන්ට සිදුවන අපහසුතාවය පිළිබදව මණ්ඩලය සිය කනගාටුව පළ කර සිටී.
+
+◼️
+
+[Data](articles/d5e3b997.json)
+
+---
 
 ### ශ්‍රී ලංකාවේ මානව හිමිකම් ගැන බරපතළ ගැටලු ඇති බව අමෙරිකාව කියයි
 
@@ -38,9 +72,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ශ්‍රී ලංකාවේ මානව හිමිකම් තත්ත්වය සම්බන්ධයෙන් බරපතළ ගැටලු පවතින බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
 
-◼️
+2024 වර්ෂයේ ලොව පුරා රටවල මානව හිමිකම් භාවිතයන් පිළිබඳව වාර්තාව නිකුත් කරමින් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව මේ බව ප්‍රකාශ කර තිබේ.
+
+මානව හිමිකම් කඩකිරීම් සම්බන්ධයෙන් වගකිව යුතු නිලධාරින් හඳුනාගෙන ඔවුන් වගවීමට ලක්කිරීම ශ්‍රී ලංකා රජය ගෙන ඇත්තේ අවම උත්සාහයක් බව එම වාර්තාවේ දැක්වේ.
+
+පුද්ගලයින් වෙඩි තබා ඝාතනය කිරීම, රක්ෂිත බන්ධනාගාර ගත කළ ඝාතනය, මාධ්‍යවේදීන්ට සිදුවන හිරිහැර, ප්‍රකාශනයේ නිදහස සීමා කිරීම ආදිය සම්බන්ධයෙන් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව සිය වාර්තාව මඟින් කනස්සල්ල පළ කර තිබේ.
+
+2022 වර්ෂයේ අරගලයෙන් පසු පැවති මැතිවරණවලින් විශිෂ්ට ලෙස බලය ලබාගත් වත්මන් රජය, සිදුවු බව කියන මානව හිමිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් වගකිව යුතු නිලධාරීන්ට එරෙහිව ගෙන ඇත්තේ අවම ක්‍රියාමාර්ග බව එම වාර්තාවේ දැක්වේ.
+
+ත්‍රස්තවාදය වැළැක්වීමේ පනත අවභාවිතයට ගනිමින් අත්අඩංගුවට ගැනීම්, කාන්තාවන් බලහත්කාරයෙන් වඳ සැත්කම්වලට භාජනය කිරීම්, සම්බන්ධයෙන් ද එම වාර්තාව මඟින් චෝදනා එල්ල කර තිබේ.
+
+...
 
 [Data](articles/da2edfb3.json)
+
+---
+
+### මන්නාරම යෝජිත සුළං බලාගාර දෙකේ ඉදිකිරීම් මසකින් කල් දමයි
+
+*2025-08-14 07:03:25* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-යෝජිත-සුළං-බලාගාර-දෙකේ-ඉදිකිරීම්-මසකින්-කල්-දමයි/11-417906) · `si`
+
+මන්නාරම ප්‍රදේශයේ ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදිකිරීම් කටයුතු මසකින් කල්දැමීමට තීරණය කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+මෙම යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පවත්වා තිබේ.
+
+මෙම සාකච්ඡාවේදී රටේ බලශක්ති අවශ්‍යතාව සහ ආර්ථිකයට ව්‍යාපෘතියේ වැදගත්කම පිළිබඳව අවධානය යොමු කෙරිණි.
+
+සුළං බලාගාරය හේතුවෙන් ප්‍රදේශයේ ජනතාවට ඇති වී ඇති ගැටලු පිලිබදව සොයා බලා ඒ සඳහා විසදුම් ලබා දීමට අවශ්‍ය ව්‍යුහයක් ඇති කිරීමටද මෙහිදී  තීරණය විය. එසේම ටෙන්ඩර් කැඳවා කොන්ත්‍රාත් ප්‍රදානය කර, මේ වනවිට ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදි කිරීම් කටයුතු තාවකාලිකව අත්හිටුවීමට ද තීරණය කරන ලදී.
+
+...
+
+[Data](articles/bdaf485c.json)
 
 ---
 
@@ -57,6 +119,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1fdf162f.json)
+
+---
+
+### Boat carrying migrants capsizes off Italy, killing at least 26
+
+*2025-08-14 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111449/boat-carrying-migrants-capsizes-off-italy-killing-at-least-26) · `en`
+
+A boat carrying nearly 100 migrants capsized Wednesday in international waters off the Italian island of Lampedusa, killing at least 26 people and leaving about a dozen missing, the Italian coast guard and U.N. agencies said.
+
+Sixty survivors were brought to a center in Lampedusa, said Filippo Ungaro, a UNHCR spokesperson in Italy. There were 92 to 97 migrants on board when the boat departed Libya, according to survivor accounts. Authorities were still searching for any remaining survivors.
+
+The coast guard said in a statement that the death toll stood at 26, but was still “provisional and being updated.”
+
+Based on survivor accounts, about 95 migrants left Libya on two boats, International Organization for Migration spokesperson Flavio Di Giacomo said. When one of the two vessels started to take on water, all the passengers were transferred to the other boat — made of fiberglass — which then capsized because of overloading, he said.
+
+...
+
+[Data](articles/4091af32.json)
+
+---
+
+### කණ්ඩලමේ හැඩකාරයා සමුගනියි
+
+*2025-08-14 06:47:33* · [`adalk`](https://www.ada.lk/breaking_news/කණ්ඩලමේ-හැඩකාරයා-සමුගනියි/11-417905) · `si`
+
+ඉදිරි මාසයකට එල්ල වූ වෙඩි ප්‍රහාරයක් හේතුවෙන් මාස 6කට අධික කාලයක් කණ්ඩලම වැවේ ප්‍රතිකාර ලබමින් සිටි 'කණ්ඩලමේ හැඩකාරයා' ලෙසින් ප්‍රසිද්ධව සිටි වන අලියා ඊයේ (13) පස්වරුවේ මියගොස් තිබේ.
+
+වයස අවුරුදු 25 -30 අතර පසු වූ කණ්ඩලයේ හැඩ කාරයා අලි - මිනිස් ගැටුමේ ප්‍රතිඵලයක් ලෙස මෙසේ වෙඩි ප්‍රහාරයකට ලක්ව තිබුණි.
+
+මීට පෙරද මෙම අලියා වෙඩිප්‍රහාරයකට ගොදුරු ව සිටියදී වනජීවිය සිදු කළ ප්‍රතිකාර වලින් පසුව සුවය ලබා වනයට මුදාහැර සිටියදී යළිත් වෙඩි ප්‍රහාරයකට ලක්විය.
+
+◼️
+
+[Data](articles/4ad78a5a.json)
 
 ---
 
@@ -79,6 +175,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/44d5a0dc.json)
+
+---
+
+### හංවැල්ලේ වෙඩි තැබීමක්
+
+*2025-08-14 06:28:03* · [`adalk`](https://www.ada.lk/breaking_news/හංවැල්ලේ-වෙඩි-තැබීමක්/11-417904) · `si`
+
+හංවැල්ල, තුන්තාන ප්‍ර දේශයේ නිවසක සිටි පුද්ගලයෙකුට ඊයේ රාත්‍රි යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් වෙඩි තබා පළාගොස් ඇති බවට හංවැල්ල පොලීසියට ලද තොරතුරක් අනුව විමර්ශන ආරම්භ කර තිබේ.
+
+තුවාලකරු අවුරුදු 55ක් වන තුන්තාන ප්‍ර දේශයේ පදිංචිකරුවෙකි. වෙඩි තැබීමට හේතුව හෝ සැකකරුවන් සම්බන්ධයෙන්  මෙතෙක් තොරතුරු වාර්තා නොවන බවත් හංවැල්ල පොලීසිය හා තවත් පොලිස් කණ්ඩායමක් විමර්ශන ආරම්භ කර ඇති බවත් පොලිස් මූලස්ථානය කියයි.
+
+◼️
+
+[Data](articles/84a2fd4f.json)
 
 ---
 
@@ -120,6 +230,24 @@ Several police teams, including officers from the Hanwella Police, are currently
 
 ---
 
+### Rising sons: Namal Rajapaksa, Sajith Premadasa  and the Opposition project
+
+*2025-08-14 06:14:34* · [`dailyftlk`](https://www.ft.lk/columns/Rising-sons-Namal-Rajapaksa-Sajith-Premadasa-and-the-Opposition-project/4-780250) · `en`
+
+“…But, if our government changes in the next five years while we are in the process of making this change, then everything we started would be ruined. The next group would do something different. That is why we think that if a government can stay in power for 15, 20 or 25 years. Only then would it be able to take the country forward under one vision, one policy framework.”
+
+Lakshman Kadirgamar was assassinated by a Tiger sniper 20 years ago this week. He epitomised an enlightened way of being Sri Lankan, and positioning and representing Sri Lanka in the world.
+
+To borrow terminology that emerged during JFK’s presidency and the Cuban Missile Crisis, one way of being is as a dove. A Sri Lankan dove was for federalism and endless, repeated appeasement of Prabhakaran in the absurd hope of peace, despite the evidence to the contrary.
+
+The other way of being Sri Lankan is as a hawk. A hawk was for war with the LTTE and against devolution/autonomy, i.e. power-sharing with the Tamils.
+
+...
+
+[Data](articles/c3d0ca2d.json)
+
+---
+
 ### අදත් හවසට වැසි
 
 *2025-08-14 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213344) · `si`
@@ -133,6 +261,70 @@ Several police teams, including officers from the Hanwella Police, are currently
 ◼️
 
 [Data](articles/dd7d3073.json)
+
+---
+
+### History repeats, failure to failure
+
+*2025-08-14 06:06:59* · [`dailyftlk`](https://www.ft.lk/columns/History-repeats-failure-to-failure/4-780249) · `en`
+
+“The great theatre of the world has a small personnel. In historic costumes, with the language of various epochs in their mouths, the same figures keep appearing, playing in a few eternal conflicts”
+
+Our dreary post-independence history seems to be that of a country going round in circles; a lot of posturing, a big noise, but a poor performance. In self-justification, it is argued by some politicians that Sri Lanka had advanced relative to what prevailed in 1948. This claim is undeniably true; we are now not what we were 70 years ago. This would be true of every country on this planet, they have all advanced in these 70 years. However, this comparison is to only our country, in relation to ourselves then in 1948, to now. They don’t compare our progress against countries like Malaysia, Thailand, Vietnam, Singapore or China, the resurgent Asia.
+
+...
+
+[Data](articles/82c54183.json)
+
+---
+
+### Trumpeting for tomorrow
+
+*2025-08-14 05:59:11* · [`dailyftlk`](https://www.ft.lk/opinion/Trumpeting-for-tomorrow/14-780247) · `en`
+
+Lankan elephant at the receiving end – Pic credit: Centre for Eco-cultural Studies
+
+The medium to long term future of our jumbo is bleak unless the National Action Plan for Human Elephant Conflict Mitigation (NAP) is immediately implemented, say conservationists who also call for legal reforms and a centralised coordination hub to help injured elephants.
+
+“What is man without the beasts? If all the beasts were gone, man would die from a great loneliness of the spirit. For whatever happens to the beasts, soon happens to man. All things are connected” – the wisdom of the Chief Seattle reverberates more than ever before each time an elephant’s life is claimed by a man in this land where the jumbo is not just a wild creature but a cultural icon. The pride of place occupied by the Lankan elephant and the tusker is such, that the native branch of medicine recognises a distinct school of physicians known as ‘ali-wedun’ (physicians of the elephants).
+
+...
+
+[Data](articles/3feed9a1.json)
+
+---
+
+### Trumpeting Trump’s tariff
+
+*2025-08-14 05:54:08* · [`dailyftlk`](https://www.ft.lk/columns/Trumpeting-Trump-s-tariff/4-780246) · `en`
+
+However weak, fragile, and narrow the export base is, exporters need a solution in the short run enabling them to float
+
+President Trump has informed the Sri Lankan President by his letter of 9 July, “Starting on August 1, 2025, we will charge Sri Lanka a Tariff of only 30% on any and all Sri Lankan products sent into the United States, separate from all Sectoral Tariffs”.
+
+Joint Apparel Association Forum (JAAF): “As one of the country’s largest export earners, the sector relies heavily on access to the US market, and such a steep increase threatens to erode competitiveness, particularly when compared to regional peer.”
+
+The Exporters Association of Sri Lanka (EASL): “… the proposed tariff would have a significant impact on key export sectors, particularly apparel and rubber-based products.”
+
+...
+
+[Data](articles/2eb5ef7a.json)
+
+---
+
+### Trade under pressure: India’s rise and Sri Lanka’s struggle in tea and oil sectors amid sanctions
+
+*2025-08-14 05:48:23* · [`dailyftlk`](https://www.ft.lk/columns/Trade-under-pressure-India-s-rise-and-Sri-Lanka-s-struggle-in-tea-and-oil-sectors-amid-sanctions/4-780245) · `en`
+
+The void left by Sri Lankan suppliers was effectively occupied by Indian tea exporters, solidifying India’s role as Iran’s
+
+On 30 July 2025, President Donald Trump announced a 25% reciprocal tariff on imports from India, to take effect from 1 August (later formally deferred to 7 August). The justification cited included India’s high internal tariffs, non-tariff trade barriers, and its continued procurement of Russian military equipment and oil, particularly in the context of the ongoing Ukraine conflict.
+
+Sri Lanka, too, was targeted under the same reciprocal tariff framework, facing a 20% tariff on its exports to the United States, effective 7 August 2025.
+
+...
+
+[Data](articles/850d1b87.json)
 
 ---
 
@@ -1180,6 +1372,22 @@ Under Dissanayake, Sri Lanka has taken steps to strengthen its longstanding dipl
 
 ---
 
+### විනය විරෝධී භික්ෂූන් ශාසනයෙන් නෙරපන නීති ළඟදීම
+
+*2025-08-13 17:09:11* · [`adalk`](https://www.ada.lk/breaking_news/විනය-විරෝධී-භික්ෂූන්-ශාසනයෙන්-නෙරපන-නීති-ළඟදීම/11-417895) · `si`
+
+ශාසන සම්ප්‍රදායයන්ට පටහැනිව විනය විරෝධී ලෙස කටයුතු කරන භික්‍ෂූන් වහන්සේලා ශාසනයෙන් නෙරපා හැරීමට හැකිවන ආකාරයට විහාර දේවාලගම් ආඥා පනතේ 41 සහ 42 වගන්ති සංශෝධනය හැකි ඉක්මනින් සිදු කරන බව බුද්ධ ශාසන ආගමික කටයුතු සහ සංස්කෘතික අමාත්‍ය මහාචාර්ය හිනිදුම සුනිල් සෙනෙවි මහතා මහනුවරදී පැවසීය.
+
+මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැ දැකීමෙන් අනතුරුව මාධ්‍ය හමුවේ අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ ශාසන සම්ප්‍රදායන්ට පටහැනිව කටයුතු කරන භික්ෂූන් වහන්සේලා ශාසනයෙන් නෙරපා හැරීම ඇතුළු විහාර දේවාලගම් ආඥා පනතට ගෙන ආයුතු සංශෝධනයන් කඩිනමින් බලාත්මක කිරීමට බලාපොරොත්තු වන බවයි.
+
+එම සංශෝධනයන් කාලයක් තිස්සේ සිදු කෙරෙමින් පැවතුණ බවත් වත්මන් රජය යටතේ එම කටයුතු නිමකොට නීති කෙටුම්පත් දෙපාර්තමේන්තුවට යොමු කොට තිබෙන බවත් එය ඉතා කෙටි කාලයකින් පනතක් ලෙස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකි වනු ඇති බවද පැවසීය.
+
+...
+
+[Data](articles/9b5a5c5e.json)
+
+---
+
 ### பழனி காதலனுக்காக கள்ளப்படகில் வந்த இலங்கை இளம்பெண் (முழு விபரம்)
 
 *2025-08-13 17:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழனி-காதலனுக்காக-கள்ளப்படகில்-வந்த-இலங்கை-இளம்பெண்-முழு-விபரம்/175-362854) · `ta`
@@ -1553,213 +1761,5 @@ The position of IGP became vacant following the removal of former IGP Deshabandu
 ...
 
 [Data](articles/1f641ab4.json)
-
----
-
-### இலஞ்சம் வாங்கிய NIMH பதில் பிரதி ஆணையாளர் கைது
-
-*2025-08-13 15:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-NIMH-பதில்-பிரதி-ஆணையாளர்-கைது/175-362848) · `ta`
-
-2024 ஆம் ஆண்டு லஞ்சம் வாங்கிய குற்றச்சாட்டில்  தேசிய மனநல நிறுவனத்தின் (NIMH) பதில் பிரதி ஆணையாளர் டாக்டர் நயனஜித் ஹேமந்த ரணசிங்கவை இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு (CIABOC) புதன்கிழமை (13) கைது செய்தது.
-
-முன்னர் சிறைச்சாலை சுகாதார சேவைகள் பதில் பிரதி ஆணையாளராக பணியாற்றிய டாக்டர் ரணசிங்க, வெலிக்கடை சிறைச்சாலை மருத்துவமனையில் கைதி ஒருவருக்கு தொடர்ந்து சிகிச்சை அளிக்க ரூ. 1.5 மில்லியன் கோரியதாக குற்றம் சாட்டப்பட்டுள்ளது. அந்த கைதி நோய்வாய்ப்பட்டு உள்நோயாளியாக சிகிச்சை பெற்று வந்தார்.
-
-கோரிய லஞ்சத்தில் ரூ. 300,000 வழங்கப்பட்டதாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகள் குற்றம் சாட்டுகின்றனர்.
-
-பிட்டகோட்டேயில் உள்ள அவரது இல்லத்தில் வைத்து புதன்கிழமை (13)  காலை கைது செய்யப்பட்ட டாக்டர் ரணசிங்க கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார்.
-
-◼️
-
-[Data](articles/4bfb71ab.json)
-
----
-
-### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරිය පත් කරයි
-
-*2025-08-13 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213331) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත් කර තිබේ.
-
-මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ භාරදුනි.
-
-ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61ඉ(ආ) ව්‍යවස්ථාව ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතියද මෙම නව පත්වීම සඳහා ලැබී තිබුණි.
-
-ඒ අනුව, ශ්‍රී ලංකා පොලිසියේ 37 වන පොලිස්පතිවරයා ලෙස නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා ඉතිහාසයට එක් වෙයි.
-
-මේ දක්වා ශ්‍රී ලංකා පොලිසියේ පොලිස් කොස්තාපල්, උප පොලිස් පරීක්ෂක සහ සහකාර පොලිස් අධිකාරී යන අවධි තුනම පසු කරමින් පොලිස්පති ධුරයට පත්වූ පළමු පොලිස්පතිවරයා වන්නේද නීතීඥ ප්‍රියන්ත වීරසූරිය මහතාය.
-
-◼️
-
-[Data](articles/9857a244.json)
-
----
-
-### சிறைச்சாலை மருத்துவமனையில் இலஞ்சம்;வைத்தியர் கைது
-
-*2025-08-13 15:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-மருத்துவமனையில்-இலஞ்சம்-வைத்தியர்-கைது/175-362847) · `ta`
-
-சிறைச்சாலை மருத்துவமனையில் கைதி ஒருவரைத் தக்கவைத்துக் கொள்ள லஞ்சம் கேட்டு பெற்றதாகக் கூறப்படும் குற்றச்சாட்டில் சிறைச்சாலை மருத்துவமனையின் முன்னாள் துணை பணிப்பாளர் வைத்தியர் ஹேமந்த ரணசிங்கவை இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு கைது செய்துள்ளது.
-
-◼️
-
-[Data](articles/0e491337.json)
-
----
-
-### Five Chinese cybercrime suspects detained at BIA and deported
-
-*2025-08-13 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111437/five-chinese-cybercrime-suspects-detained-at-bia-and-deported) · `en`
-
-Five Chinese nationals suspected of attempting to enter Sri Lanka to engage in cybercrime activities have been arrested today (13) by officers of the Immigration and Emigration Department at the Bandaranaike International Airport (BIA), Katunayake.
-
-The individuals were detained at the airport and subsequently deported, said Ada Derana reporter.
-
-The individuals arrived at Katunayake Airport from Bangkok, Thailand, at 10:30 a.m. aboard SriLankan Airlines flight UL-405.
-
-Upon arrival, they were referred to the Chief Immigration and Emigration Officer for immigration clearance due to suspicions regarding the purpose of their visit.
-
-Investigations revealed that the group had claimed they were travelling to work for a company based in the Colombo Port City and had obtained the necessary residence visas to stay and work in Sri Lanka. However, when a senior official of the said company was questioned, he was unable to clearly explain the nature of the visitors’ jobs or the purpose of their visit.
-
-...
-
-[Data](articles/93e955e0.json)
-
----
-
-### பாஸ் திலீபவை இலக்கு வைத்து துப்பாக்கிச் சூடு
-
-*2025-08-13 15:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாஸ்-திலீபவை-இலக்கு-வைத்து-துப்பாக்கிச்-சூடு/175-362846) · `ta`
-
-மினுவங்கொடை, படாதுவன பகுதியில் புதன்கிழமை (13) மதியம் மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இரண்டு துப்பாக்கிதாரிகள் துப்பாக்கிச் சூடு நடத்தினர்.
-
-மினுவங்கொடை பகுதியைச் சேர்ந்த பாஸ் திலீப என்ற நபரை குறிவைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டதாக ​பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/02e63dd6.json)
-
----
-
-### බන්ධනාගාර රෝහල් සේවා හිටපු නි. අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රිමාන්ඩ්
-
-*2025-08-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213330) · `si`
-
-අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් හිටපු බන්ධනාගාර සෞඛ්‍ය සේවා නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතා විසින් මෙම නියෝගය නිකුත් කර තිබේ.
-
-බන්ධනාගාර සෞඛ්‍ය සේවා හිටපු නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ,2024 වර්ෂයේදී, බන්ධනාගාරගත කර සිටි රැඳවියෙකු රෝගී තත්ත්වයක් හේතුවෙන් වැලිකඩ බන්ධනාගාර රෝහලට ඇතුළත් කිරීමෙන් පසුව ඔහු බන්ධනාගාරගත රෝහලේ නේවාසිකව ප්‍රතිකාර ලබා ගැනීමෙන් අනතුරුව, තවදුරටත් එහි නේවාසිකව රඳවාගෙන ප්‍රතිකාර සිදු කිරීම සඳහා අල්ලස් වශයෙන් රුලියල් 1,500,000ක් ඉල්ලා ඉන් රුපියල් 300,000ක මුදලක් අල්ලස් ලෙස ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙනි.
-
-වෛද්‍ය හේමන්ත රණසිංහ මහතාව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් අද (13) පෙරවරුවේ පිටකෝට්ටේ පිහිටි සැකකරුගේ නිවසේදී අත්අඩංගුවට ගෙන තිබේ.
-
-...
-
-[Data](articles/af3a9b06.json)
-
----
-
-### රාජ්‍ය සේවයටත් AI එයි -  දැනුවත් කිරීමේ විශේෂ වැඩමුළු මාලාවක්‍
-
-*2025-08-13 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213329) · `si`
-
-රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම වෙනුවෙන් සියලුම අමාත්‍යාංශවල මාණ්ඩලික නිලධාරීන් සඳහා පැවැත්වෙන කෘත්‍රීම බුද්ධිය භාවිතය පිළිබඳ විශේෂ වැඩමුළු මාලාව අගෝස්තු 15,16 සහ 23 යන දිනයන්හි අරලියගහ මන්දිරයේදී පැවැත්වීමට නියමිතය.
-
-‘AI for Transforming Public Service’ යන මැයෙන් පැවැත්වෙන මෙම වැඩමුළු මාලාව, රජයේ ප්‍රමුඛ වැඩසටහනක් වන රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීමත්, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීමත් අරමුණු කර ගනිමින් පැවත්වෙන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
-
-මෙහි පළමු වැඩසටහන පසුගිය දා ජනාධිපති කාර්යාලයීය මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්වුණු අතර දෙවන වැඩසටහන අධ්‍යාපන අමාත්‍යාංශයේ සහ තෙවන වැඩසටහන මුදල් අමාත්‍යාංශයේ මාණ්ඩලික නිලධාරීන් වෙනුවෙන් පැවැත්විණි.
-
-...
-
-[Data](articles/793c08c1.json)
-
----
-
-### செம்மணியில் சிலர் உயிருடன் புதைக்கப்பட்டிருக்கலாம் - சர்வதேச ஊடகத்திற்கு சட்டத்தரணி நிரஞ்சன் கருத்து
-
-*2025-08-13 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222488) · `ta`
-
-சிலர் உயிருடன் புதைக்கப்பட்டிருக்கலாம் என கருதுகின்றோம்,என தெரிவித்துள்ள அவர்  ஏற்கனவே இறந்தநிலையில் அவர்கள் புதைக்கப்பட்டிருந்தால் அவர்களின் உடல்கள் வளையாது என தெரிவித்துள்ளார்.("if they were already dead, the bodies wouldn't be bent," with some of them displaying twisted limbs.)
-
-அரசாங்கங்களை நம்பமுடியாது என்பதை வரலாறு எங்களிற்கு தெரிவித்துள்ளது அவர்கள் சர்வதேச கண்காணிப்பை எதிர்ப்பார்கள் என அவர் மேலும் தெரிவித்துள்ளார்.
-
-அரசாங்கத்திற்கு இனப்பிரச்சினை குறித்த புரிதல் இல்லை அவர்கள் அதனை புரிந்துகொள்ளவில்லை என தெரிவித்துள்ள சட்டத்தரணி நிரஞ்சன் ஊழலை ஒழித்தால் நாடு அமைதியாகயிருக்கும் என அவர்கள் கருதுகின்றனர்,ஆனால் நாடு கடனிற்குள் சிக்கியமைக்கு இனப்பிரச்சினையும் ஒரு காரணம் என்பதை அவர்கள் புரிந்துகொள்ளவில்லை என குறிப்பிட்டுள்ளார்.
-
-செம்மணிக்கு மிகவும் வலிமிகுந்த அதிர்ச்சிகரமான வரலாறு உள்ளது குறிப்பாக யாழ்ப்பாண மக்களுடன் என யாழ்ப்பாணத்தை தளமாக கொண்ட அடையாளம் ஆய்வு கொள்கை ஆய்வு மையத்தின் நிறைவேற்றுப்பணிப்பாளர் அனுஷானி அழகராஜா தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/baa8304d.json)
-
----
-
-### Former Deputy Director of Prison Hospital Dr. Hemantha Ranasinghe arrested
-
-*2025-08-13 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111436/former-deputy-director-of-prison-hospital-dr-hemantha-ranasinghe-arrested-) · `en`
-
-Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe, has been arrested on bribery charges.
-
-This is in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
-
-After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, Rs. 300,000 was reportedly accepted as a bribe.
-
-Dr. Hemantha Ranasinghe was arrested this morning (13) at his residence in Pita Kotte by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The suspect is scheduled to be produced before the Colombo Magistrate’s Court.
-
-He is currently serving as the Acting Deputy Director at the National Institute of Mental Health in Angoda.
-
-◼️
-
-[Data](articles/2e3d9a84.json)
-
----
-
-### Shooting incident reported in Minuwangoda
-
-*2025-08-13 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111435/shooting-incident-reported-in-minuwangoda) · `en`
-
-A shooting incident has been reported in Pathaduwana, Minuwangoda, at around 12 noon today (13), police stated.
-
-The shooting was reportedly carried out by two unidentified gunmen who arrived on a motorcycle.
-
-According to the police, the shooting was carried out targeting an individual known as “Pas Dileepa” from Minuwangoda, who had escaped the shooting without any injuries.
-
-◼️
-
-[Data](articles/7c088962.json)
-
----
-
-### මිනුවන්ගොඩ පස් දිලීප ඉලක්ක කර වෙඩි ප්‍රහාරයක්
-
-*2025-08-13 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213328) · `si`
-
-මිනුවන්ගොඩ, පත්අඩුවන ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් පුද්ගලයෙකු ඉලක්ක කර අද (13) දහවල් වෙඩි තැබීමක් සිදුකර තිබේ.
-
-පොලීසිය පවසන්නේ, මිනුවන්ගොඩ ප්‍රදේශයේ 'පස් දිලීප' යන පුද්ගලයා ඉලක්ක කරගෙන මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
-
-◼️
-
-[Data](articles/b22edd98.json)
-
----
-
-### இலங்கையில் கடுமையான மனித உரிமை மீறல்: அமெரிக்கா குற்றச்சாட்டு
-
-*2025-08-13 14:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இலங்கையில்-கடுமையான-மனித-உரிமை-மீறல்-அமெரிக்கா-குற்றச்சாட்டு/150-362845) · `ta`
-
-அரசு காவலில் உள்ள தனிநபர்களின் கொலைகள், காவலில் உள்ள சந்தேக நபர்களின் கொலை, பத்திரிகையாளர்களைத் துன்புறுத்துதல் மற்றும் கருத்துச் சுதந்திரத்தின் மீதான கட்டுப்பாடுகள் குறித்து ஆழ்ந்த கவலை கொண்டுள்ளது என்று அமெரிக்க வெளியுறவுத்துறை தெரிவித்துள்ளது.
-
-ஜனவரி மற்றும் ஆகஸ்ட் மாதங்களுக்கு இடையில் மனித உரிமைகள் ஆணையத்தால் அறிவிக்கப்பட்ட ஏழு காவல் மரணங்களையும் அறிக்கை குறிப்பிடுகிறது.
-
-'போராட்டத்திற்கு'ப் பிறகு 2022 தேர்தல்களில் மகத்தான வெற்றியில் ஆட்சிக்கு வந்த தற்போதைய அரசாங்கம், மனித உரிமை மீறல்களுக்குப் பொறுப்பான அதிகாரிகளுக்கு எதிராக 'குறைந்தபட்ச நடவடிக்கை' மட்டுமே எடுத்துள்ளது.
-
-பயங்கரவாதத் தடுப்புச் சட்டத்தின் கீழ் ஒப்புதல் வாக்குமூலங்களைப் பெறுவதற்கான சித்திரவதை குற்றச்சாட்டுகள் மற்றும் கைதுகள், வடக்கு மற்றும் கிழக்கில் தமிழ் பத்திரிகையாளர்களைத் துன்புறுத்துதல் மட்டுமல்லாமல், தொழிலாளர் உரிமைகள் மற்றும் பிற பிரச்சினைகள், பெண்களை கட்டாயமாக கருத்தடை செய்தல், போர்க்கால காணாமல் போனவர்கள் பற்றிய விசாரணையில் மெதுவான முன்னேற்றம் மற்றும் மனித புதைகுழிகள் ஆகியவையும் இந்த அறிக்கையில் அடங்குகின்றன.
-
-...
-
-[Data](articles/4e9a9454.json)
 
 ---

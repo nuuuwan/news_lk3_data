@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 13:32:47**
+As of **2025-08-14 13:51:34**
 
 ## Newspaper Stats
 
-*Scraped **70,481** Articles*
+*Scraped **70,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,801
 adaderanalk | 8,789
-tamilmirrorlk | 10,369
+tamilmirrorlk | 10,370
 virakesarilk | 11,728
-adaderanasinhalalk | 12,131
+adaderanasinhalalk | 12,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,481 articles have been extended.
+61,973 (87.9%) of 70,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### හංවැල්ලේ වෙඩිතැබීම 'බනා මන්ත්‍රී' ඝාතනයට පළිගැනීමක් - බුද්ධි තොරතුරුත් ලැබිලා
+
+*2025-08-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213361) · `si`
+
+හංවැල්ල, පහත්ගම ප්‍රදේශයේ දී සිදුකර ඇති වෙඩිතැබීම '' හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' ඝාතනයට පළිගැනීමක් බවට පොලීසිය සැක පළ කරයි.
+
+◼️
+
+[Data](articles/a18d40da.json)
+
+---
+
+### பாகிஸ்தானின் 79வது சுதந்திர தினம்
+
+*2025-08-14 13:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தானின்-79வது-சுதந்திர-தினம்/175-362906) · `ta`
+
+பாகிஸ்தான் நாட்டின் 79 வது சுதந்திர தினம் ஆகஸ்ட் 14 ஆம் திகதி ஆகும் இதனை முன்னிட்டு வியாழக்கிழமை (14) அன்று காலை கொழும்பில் உள்ள பாகிஸ்தான் உயர் ஸ்தானிகர் அலுவலகத்தில் உயர் ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வு) பகீம் அல் அஸீஸ் தலைமையில் பாகிஸ்தான் தேசியக் கொடி ஏற்றி வைக்கும் வைபவம் நடைபெற்றது.
+
+பிரதி சபாநாயகர் டாக்டர் றிஸ்வி சாலி, உயர் நீதிமன்ற நீதியரசர் எம்.ரீ.எம் நவாஸ், முன்னாள் ஆளுநர் அசாத் சாலி முன்னாள் உயர்ஸ்தானிகர் சட்டத்தரணி என்.எம். சஹீட் உட்பட பாகிஸ்தான் தூதரக அதிகாரிகள் ஊடகவியலாளர்களும் கலந்து கொண்டனர்
+
+...
+
+[Data](articles/3e0fa6b7.json)
+
+---
+
+### ඇලස්කා අගනුවර දරුණු ගංවතුර තත්ත්වයක්
+
+*2025-08-14 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213360) · `si`
+
+ඇලස්කාවේ අගනුවර අසල මෙන්ඩන්හෝල් ග්ලැසියරයේ අයිස් වේල්ලකින් වැසි ජලය සහ හිම දියවීමෙන් ගංවතුර තත්ත්වයක් ඇති වී තිබේ.
+
+ඊයේ (13) උදෑසන මෙන්ඩන්හෝල් ගඟෙහි ජල මට්ටම ඉහළ යාමත් සමඟ ජූනෝහි වීදි කිහිපයක ජලය එක්රැස් වූ අතර, පැය ගණනක් ඉහළ මට්ටමේ ජලය පවතිනු ඇතැයි අපේක්ෂා කෙරෙන බව එරට කාලගුණ සේවා (NWS) සඳහන් කළේය.
+
+මෙහි අලුතින් සවි කරන ලද ගංගා බාධක පැවතීම හේතුවෙන් විශාල මට්ටමේ ගංවතුර තත්ත්වයක් ඇතිවීම වළක්වා ගැනීමට හැකි වූ බව විදෙස් මාධ්‍ය පවසයි.
+
+නිලධාරීන් මේ සම්බන්ධයෙන් අනතුරු ඇඟවීම් තීව්‍ර කර ඇති අතර, අඟහරුවාදා උදෑසන අයිස් වේල්ලෙන් ජලය ගැලවී යාමට පටන් ගෙන ඇති බවත්, බදාදා දක්වා ගංවතුර අපේක්ෂා කරන බවත් බලධාරීන් වැඩිදුර තහවුරු කර තිබේ.
+
+නමුත් ගංවතුර කලාපයේ බොහෝ පදිංචිකරුවන් ජල මට්ටමට ඉහළ යාමට පෙර ඉවත් කර ඇති අතර, විශාල ලෙස හානි වාර්තා වී නොමැත.
+
+මෙම ග්ලැසියරයෙන් සිදුවන ගංවතුර වසර 15කට ආසන්න කාලයක් තිස්සේ වාර්ෂික ගැටලුවක් බවට පත්ව ඇති අතර මෑත වසරවලදී නිවාස ගසාගෙන ගොස් නිවාස සිය ගණනක් ජලයෙන් යටවී ඇත.
+
+◼️
+
+[Data](articles/352f3dbc.json)
+
+---
 
 ### 28 வயது இளைஞனை வன்புணர்ந்த 26 வயதான இளைஞன்
 
@@ -1703,49 +1751,5 @@ The CSE indicated mixed reactions yesterday as local and foreign investors strug
 ...
 
 [Data](articles/61d48f24.json)
-
----
-
-### ஹங்வெல்லவில் துப்பாக்கிச் சூடு!
-
-*2025-08-13 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222530) · `ta`
-
-மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூட்டை நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக ஹங்வெல்ல பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/8506aff4.json)
-
----
-
-### Sri Lanka sells more 12-month bills, yields flat
-
-*2025-08-13 22:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-more-12-month-bills-yields-flat-236017/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold all 103.5 billion rupees of bills offered at Wednesday’s auction, with a larger volume of 12-month bills sold, data from the state debt office showed.
-
-5.3 billion rupees of 3-monthbills were sold after offering 40 billion, at 7.60 percent, down 1 basis point.
-
-41.46 billion rupees of 6-month bills were sold after offering 33.5 billion rupees at 7.9 percent, down 1 basis point.
-
-56.7 billion rupees of 12-month bills were sold after offering 30 billion at 8.03 percent, unchanged. (Colombo/Aug13/2025)
-
-◼️
-
-[Data](articles/13983df2.json)
-
----
-
-### හංවැල්ලේ වෙඩිතැබීමක්
-
-*2025-08-13 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213343) · `si`
-
-යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පළාගොස් ඇත.
-
-මෙහිදී එක් අයෙකුගේ පාදයකට තුවාල සිදුව ඇති අතර, ඔහු රෝහල්ගතකර තිබේ.
-
-◼️
-
-[Data](articles/3c283d85.json)
 
 ---

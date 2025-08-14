@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 21:50:25**
+As of **2025-08-14 22:07:57**
 
 ## Newspaper Stats
 
@@ -146,7 +146,7 @@ In a new report issued on Sri Lanka, UN High Commissioner for Human Rights Volke
 
 ---
 
-### Sri Lanka sees USD 29mn foreign buying in rupee bonds
+### Sri Lanka sees US$29mn foreign buying in rupee bonds
 
 *2025-08-14 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-usd-29mn-foreign-buying-in-rupee-bonds-236368/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 13:07:08**
+As of **2025-08-14 13:19:18**
 
 ## Newspaper Stats
 
-*Scraped **70,476** Articles*
+*Scraped **70,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,800
-adaderanalk | 8,788
+adaderanalk | 8,789
 tamilmirrorlk | 10,366
 virakesarilk | 11,728
 adaderanasinhalalk | 12,131
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,476 articles have been extended.
+61,973 (87.9%) of 70,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9b5d5e94.json)
+
+---
+
+### Unidentified body found floating in Mahaweli River
+
+*2025-08-14 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111459/unidentified-body-found-floating-in-mahaweli-river) · `en`
+
+An unidentified body has been found floating in the Mahaweli River in the Polgolla area, within the Kandy Police Division.
+
+Based on information received by the Kandy Police, investigations have been launched.
+
+According to the police, the body was in a highly decomposed state and the deceased was wearing a blue T-shirt and blue denim pants.
+
+The body has been placed in the morgue of the Kandy Hospital.
+
+◼️
+
+[Data](articles/db0a3db5.json)
 
 ---
 
@@ -1715,21 +1733,5 @@ About a year ago, after undergoing treatment and being released back into the wi
 ◼️
 
 [Data](articles/fefaf1a9.json)
-
----
-
-### பிள்ளையானுக்காக கொலைகளை நடாத்திய சகா காத்தான்குடியில் கைது
-
-*2025-08-13 21:14:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பிள்ளையானுக்காக-கொலைகளை-நடாத்திய-சகா-காத்தான்குடியில்-கைது/73-362866) · `ta`
-
-பிள்ளையான் என்ற முன்னாள் இராஜாங்க அமைச்சர் சி. சந்திரகாந்தன் செய்யப்பட்டதாக சந்தேகிக்கப்படும் கொலைகளில் முக்கிய துப்பாக்கி சூடு நடாத்திய பிள்ளையானின் சகாவான  முகமட் ஷாகித் என்பவரை மட்டக்களப்பு காத்தான்குடியில் அவரது வீட்டில் வைத்து இன்று மாலை சிஜடி யினர் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
-
-கிழக்கு பல்கலைக்கழக முன்னாள் உபவேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத்  கடத்தப்படு காணாமல் போன சம்பவங்கள் தொடர்பில் சந்தேகத்தின் அடிப்படையில் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவரான பிள்ளையானை கொழும்பு குற்ற விசாரணைப் பிரிவினர் (சிஜடி) மட்டக்களப்பில் உள்ள அவரது காரியாலயத்தில் வைத்து  கடந்த ஏப்ரல் 7ஆம் திகதி கைது செய்தனர்.
-
-அவரிடம் தொடர்ந்து இடம்பெற்றுவரும் விசாரணையையடுத்து காத்தான்குடியைச் சேர்ந்தவரும் கடந்த காலத்தில்  தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியில் இருந்து பிள்ளையானுடன் செயற்பட்ட 45 வயதுடைய முகமட் ஷாகித்தை  இன்று புதன்கிழமை மாலையில் அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஜடியினர் கைது செய்ததாக அவர் தெரிவித்தார்
-
-...
-
-[Data](articles/8fdee9c8.json)
 
 ---

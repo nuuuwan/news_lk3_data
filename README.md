@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 11:21:11**
+As of **2025-08-14 11:32:54**
 
 ## Newspaper Stats
 
-*Scraped **70,449** Articles*
+*Scraped **70,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,797
 adaderanalk | 8,787
-tamilmirrorlk | 10,356
+tamilmirrorlk | 10,359
 virakesarilk | 11,724
 adaderanasinhalalk | 12,128
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 12,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,449 articles have been extended.
+61,973 (88.0%) of 70,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சதீஷ் கமகே கைது
+
+*2025-08-14 11:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-பொலிஸ்-அத்தியட்சகர்-சதீஷ்-கமகே-கைது/175-362894) · `ta`
+
+சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சதீஸ் கமகே இன்று வியாழக்கிழமை  (14) இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழு கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபருக்கு எதிரான பல்வேறு இலஞ்சம் மற்றும் ஊழல் மோசடி தொடர்பிலேயே அவர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b8fe4de5.json)
+
+---
+
+### ஒன்னு ரெண்டு மூணு நாலு ஐஞ்சு ஆறு….
+
+*2025-08-14 11:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஒன்னு-ரெண்டு-மூணு-நாலு-ஐஞ்சு-ஆறு/62-362893) · `ta`
+
+◼️
+
+[Data](articles/91b241b8.json)
+
+---
+
+### சொக்லேட் திருடியவர் கொடூர கொலை
+
+*2025-08-14 11:07:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொக்லேட்-திருடியவர்-கொடூர-கொலை/175-362892) · `ta`
+
+பேராதனையில் சொக்லேட் மீது மோகம் கொண்ட 67 வயது நபர் ஒருவர் கடையில் இருந்து ஒரு சிறிய சொக்லேடை திருடியதாகக் கூறி கொடூரமாக தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த சம்பவம் தொடர்பாக கடையின் உரிமையாளரும் அவரது ஊழியர்களில் ஒருவரும் கைது செய்யப்பட்டுள்ளதாகவும் கூறியுள்ளனர்.
+
+இவ்வாறு கொலை செய்யப்பட்ட நபர்,  பேராதனையில் உள்ள ஈரியகம பகுதியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தை எனவும், தனது பிள்ளைகள் திருமணம் செய்து கொண்டு வேறு பகுதிகளில் குடியேறிய பிறகு அவர் தனது மனைவியுடன் வசித்து வந்தார் என்றும் பொலிஸ் தரப்பில் தெரிக்கப்படுகின்றது.
+
+அவர் உணவுப் பொருட்கள் வாங்க ஊருக்குச் சென்றபோது, கடையில் இருந்த இரண்டு ஆண்கள் அவரை கடைக்குள் இழுத்துச் சென்று தாக்கியுள்ளனர், ஏனெனில் முந்தைய நாள் அவர் சொக்லேட்டுகளைத் திருடுவது கடையின் சிசிரிவியில் பதிவாகியுள்ளது.
+
+சொக்லேட் சாப்பிட வேண்டும் என்ற அவரது தீவிர ஆசையே அவரைத் திருடத் தூண்டியது என்றும் அந்த  சொக்லேட்டை வாங்குவதற்கு அவரிடம் பணம் இருந்திருக்கவில்லை எனவும் விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/3dcad375.json)
+
+---
 
 ### இலங்கையில் ப்ரீ புக்கிங்கில் சாதனை படைத்த கூலி
 
@@ -1669,61 +1713,5 @@ Minister of Transport Bimal Rathnayake had recently submitted a special proposal
 ◼️
 
 [Data](articles/1a6b3d31.json)
-
----
-
-### Detention orders issued for suspect arrested over former Homagama PS member’s murder
-
-*2025-08-13 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111442/detention-orders-issued-for-suspect-arrested-over-former-homagama-ps-members-murder) · `en`
-
-Police have obtained detention orders to question the suspect arrested in connection with the murder of a former member of the Homagama Pradeshiya Sabha, which occurred in Meegoda yesterday.
-
-The Kaduwela Magistrate’s Court has issued a five-day detention order to interrogate the suspect, after the suspect was produced before the court this morning (13).
-
-The victim of the Meegoda shooting incident, 46-year-old Shantha Mudunkotuwa alias ‘Bana Manthri’ was shot dead at around 1.10 p.m. yesterday.
-
-He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
-
-Following the shooting, police acted swiftly, setting up roadblocks and inspecting vehicles. During this operation, they seized a vehicle and its driver near the Palamthuna Junction in Thalangama. A 9mm firearm suspected to have been used in the shooting was also taken into police custody.
-
-◼️
-
-[Data](articles/5db4898c.json)
-
----
-
-### ග්‍රාමීය මාර්ගවල බස්රථ ධාවනයට යොදවන්න
-
-*2025-08-13 17:54:45* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ගවල-බස්රථ-ධාවනයට-යොදවන්න/11-417899) · `si`
-
-ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයට අදාළ 2025 වසරේ අයවැය ප්‍රතිපාදන පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ අයවැය යෝජනා පිළිබඳ පූර්ව සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (13) පෙරවරුවේ පැවැත්විණි.
-
-මෙහිදී ප්‍රවාහන ක්ෂේත්‍රයට අදාළව වෙන් වෙන් වශයෙන්, මහාමාර්ග, අධිවේගී මාර්ග සහ ග්‍රාමීය මාර්ග ආදිය පිළිබඳ සාකච්ඡා වූ අතර, වරාය සහ එහි කටයුතු සඳහා අයවැය මඟින් වෙන් කර ඇති ප්‍රතිපාදන, එම ප්‍රතිපාදන භාවිත කර ඇති ආකාරය මෙන්ම අනාගත සැලසුම් පිළිබඳවද මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විමසුමට ලක් කළේය.
-
-ග්‍රාමීය මාර්ගවල බස්රථ ධාවනය ලාභ නොලබන කටයුත්තක් වුවත්, එම බරපැන රජයෙන් දරමින් ජනතාවට උපරිම සේවයක් ලබා දීමට සැලසුම් සකස් කරන ලෙසද ජනාධිපති අනුර කුමාර දිසානායක මහතා නිලධාරින්ට මෙහිදී උපදෙස් දුන්නේය.
-
-...
-
-[Data](articles/0649b730.json)
-
----
-
-### නව පොලිස්පති ලෙස ප්‍රියන්ත වීරසූරිය පත් කරයි
-
-*2025-08-13 17:48:24* · [`adalk`](https://www.ada.lk/breaking_news/නව-පොලිස්පති-ලෙස-ප්‍රියන්ත-වීරසූරිය-පත්-කරයි/11-417898) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත් කර ලැබ ඇත.
-
-මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ භාර දෙන ලදී.
-
-ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61ඉ(ආ) ව්‍යවස්ථාව ප්‍රකාරව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතියද මෙම නව පත්වීම සඳහා ලබී ඇත.
-
-ඒ අනුව, ශ්‍රී ලංකා පොලිසියේ 37 වන පොලිස්පතිවරයා ලෙස නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා ඉතිහාසයට එක් වේ.
-
-මේ දක්වා ශ්‍රී ලංකා පොලිසියේ පොලිස් කොස්තාපල්, උප පොලිස් පරීක්ෂක සහ සහකාර පොලිස් අධිකාරී යන අවධි තුනම පසු කරමින් පොලිස්පති ධුරයට පත් වූ පළමු පොලිස්පතිවරයා වන්නේද නීතීඥ ප්‍රියන්ත වීරසූරිය මහතාය.
-
-◼️
-
-[Data](articles/2fc31d5f.json)
 
 ---

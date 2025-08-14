@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 20:22:25**
+As of **2025-08-14 20:34:36**
 
 ## Newspaper Stats
 
-*Scraped **70,541** Articles*
+*Scraped **70,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,811
-adaderanalk | 8,804
+adaderanalk | 8,805
 tamilmirrorlk | 10,381
 virakesarilk | 11,730
 adaderanasinhalalk | 12,144
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,541 articles have been extended.
+61,973 (87.9%) of 70,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,26 @@ Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after
 ...
 
 [Data](articles/2e9863a2.json)
+
+---
+
+### Pakistan to create military force to supervise missiles after India conflict
+
+*2025-08-14 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111479/pakistan-to-create-military-force-to-supervise-missiles-after-india-conflict) · `en`
+
+Pakistan will create a new force in the military to supervise missile combat capabilities in a conventional conflict, apparently a move to match neighbouring arch-rival India.
+
+Prime Minister Shehbaz Sharif announced the creation of the Army Rocket Force late Wednesday at a ceremony held in Islamabad to commemorate the conflict with India in May, the worst in decades.
+
+The force “will be equipped with modern technology,” Sharif said in a statement from his office.
+
+“This force, capable of targeting the enemy from all sides, will prove to be yet another milestone with regard to further strengthening our conventional war capability,” he said in a repeat broadcast of his speech on Thursday by local TV news channels.
+
+A senior security official, however, said the force would have its own command in the military which would be dedicated to handling and deployment of missiles in the event of a conventional war.
+
+...
+
+[Data](articles/375ee7e9.json)
 
 ---
 
@@ -1835,21 +1855,5 @@ The telegraphic transfer rate for the American dollar was 297.5000 buying 304.50
 ...
 
 [Data](articles/03823c8d.json)
-
----
-
-### கூலி ரிவ்யூ ; தரமான சம்பவம்செய்த லோகேஷ்
-
-*2025-08-14 09:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-ரிவ்யூ-தரமான-சம்பவம்செய்த-லோகேஷ்/54-362886) · `ta`
-
-லோகேஷ் கனகராஜ் இயக்கத்தில் நடிகர் ரஜினிகாந்த் நடிப்பில் வெளியாகி உள்ள திரைப்படமான 'Coolie' படத்தின் முதல் விமர்சனம் வெளியாகி உள்ளது. படத்திற்கு பல இடங்களில் இருந்தும் பாசிட்டிவ் ரிவ்யூக்கள் வர தொடங்கி உள்ளன.
-
-நடிகர் ரஜினிகாந்த் நடிப்பில் லோகேஷ் கனகராஜ் இயக்கியுள்ள திரைப்படமான 'கூலி (Coolie)', சர்வதேச அளவில் வெளியான நிலையில் படத்தின் ரிவ்யூக்கள் வெளியாக தொடங்கி உள்ளன. தமிழ்நாடு வெளியீட்டிற்கு முன்னதாகவே வெளிநாடுகளில் திரையிடப்பட்டது. ஆகஸ்ட் 14, 2025 அன்று உலகம் முழுவதும் வெளியாகும் நிலையில், வெளிநாடுகளில் இதன் சிறப்பு காட்சிகள் திரையிடப்பட்டுள்ளன. கலாநிதி மாறனின் சன் பிக்சர்ஸ் நிறுவனம் இப்படத்தை தயாரித்துள்ளது.
-
-வட அமெரிக்காவில் ஆகஸ்ட் 13 ஆம் தேதி மாலை 6:30 மணிக்கு (இந்திய நேரம் ஆகஸ்ட் 14 அதிகாலை 4 மணி) முதல் பொது நிகழ்ச்சி நடைபெற்றது. தமிழ்நாட்டில் காலை 9 மணிக்கும், கேரளாவில் காலை 6 மணிக்கும் சிறப்பு காட்சிகள் திரையிடப்படவுள்ளன. மற்ற மாநிலங்களில் உள்ளூர் விநியோக அட்டவணையின்படி வெளியீட்டு நேரம் மாறுபடும்.
-
-...
-
-[Data](articles/9f3d983d.json)
 
 ---

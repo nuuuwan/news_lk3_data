@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 14:08:24**
+As of **2025-08-14 14:26:22**
 
 ## Newspaper Stats
 
-*Scraped **70,484** Articles*
+*Scraped **70,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,801
+adalk | 6,802
 adaderanalk | 8,789
-tamilmirrorlk | 10,370
+tamilmirrorlk | 10,371
 virakesarilk | 11,728
 adaderanasinhalalk | 12,133
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,133
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,484 articles have been extended.
+61,973 (87.9%) of 70,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ‘கூலி’ : ‘ஆவரேஜ்’ ட்ரீட்மென்ட் எப்படி? (வீடியோ இணைப்பு)
+
+*2025-08-14 13:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-ஆவரேஜ்-ட்ரீட்மென்ட்-எப்படி-வீடியோ-இணைப்பு/54-362908) · `ta`
+
+லோகேஷ் கனகராஜ் இயக்கத்தில் ரஜினி நடிக்கிறார் என்ற அறிவிப்பு வெளியான முதல் நாளில் இருந்தே ‘கூலி’ படத்துக்கான ஹைப் மிகப் பெரிய அளவில் உருவாகிவிட்டது. காரணம், தமிழின் தற்கால இயக்குநர்களில் ஒருவராக லோகேஷ் தனக்கென ஒரு இடத்தை பிடித்துவிட்டதுதான். அவருடன் ரஜினி என்கிற ஒரு மிகப் பெரிய பிராண்ட் இணையும்போது படம் குறித்த எதிர்பார்ப்பு கடந்த இரண்டு ஆண்டுகளாக எக்கச்சக்கமாக எகிறிவிட்டிருந்தது. அத்தகைய எதிர்பார்ப்பை ‘கூலி’ திரைப்படம் நிறைவேற்றியதா என்று பார்க்கலாம்.
+
+சென்னையில் மேன்ஷன் ஒன்றை நடத்தி வருபவர் தேவா (ரஜினிகாந்த்). தனது இளவயது நண்பர் ராஜசேகர் (சத்யராஜ்) திடீரென மரணம் அடைந்ததை அடுத்து, அவருடைய இறுதிச் சடங்குக்கு வரும் தேவாவை அவமானப்படுத்தி அனுப்பிவிடுகிறார் ராஜசேகரின் மூத்த மகள் ப்ரீத்தி (ஸ்ருதிஹாசன்).
+
+...
+
+[Data](articles/7f07243a.json)
+
+---
 
 ### හංවැල්ලේ වෙඩිතැබීම 'බනා මන්ත්‍රී' ඝාතනයට පළිගැනීමක් - බුද්ධි තොරතුරුත් ලැබිලා
 
@@ -40,7 +54,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හංවැල්ල පහත්ගම ප්‍රදේශයේදී ඊයේ (13) රාත්‍රියේ පුද්ගලයෙකු ඉලක්ක කර වෙඩි තැබීමක් සිදුකර තිබුණි.
 
-ඊයේ රාත්‍රී 9.50ට පමණ පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් එහි සිටි පුද්ගලයෙකු ඉලක්ක මෙම වෙඩි තැබීම සිදුකර ඇත.
+ඊයේ රාත්‍රී 9.50ට පමණ පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් එහි සිටි පුද්ගලයෙකු ඉලක්ක කර මෙම වෙඩි තැබීම සිදුකර ඇත.
 
 පොලීසිය පැවසුවේ, පිස්තෝලයකින් වෙඩි ප්‍රහාරය එල්ල කර ඇති අතර ඉන් අදාළ පුද්ගලයාගේ වම්පාදයට තුවාල සිදුව ඇති බවය.
 
@@ -677,6 +691,24 @@ The Acting Director of the Police Cultural Division, SSP Sathish Gamage has been
 ◼️
 
 [Data](articles/ecebc6b6.json)
+
+---
+
+### ඉතාලි මුහුදේදී සංක්‍රමණිකයන් රැගත් බෝට්ටුවක් පෙරළෙයි
+
+*2025-08-14 09:59:02* · [`adalk`](https://www.ada.lk/international/ඉතාලි-මුහුදේදී-සංක්‍රමණිකයන්-රැගත්-බෝට්ටුවක්-පෙරළෙයි/3-417911) · `si`
+
+ඉතාලියේ ලැම්පෙදුසා දූපතට ඔබ්බෙන් වූ ජාත්‍යන්තර මුහුදේදී සංක්‍රමණිකයන් 100 කට ආසන්න සංඛ්‍යාවක් රැගත් බෝට්ටුවක් පෙරළීමෙන් අවම වශයෙන් පුද්ගලයින් 26 දෙනෙකු මිය ගොස් 10කට වාඩ අතුරුදහන්ව ඇති බව ඉතාලි වෙරළාරක්ෂක සහ එක්සත් ජාතීන්ගේ සරණාගතයන් පිළිබඳ ආයතනය පැවසීය.
+
+දිවි ගලවා ගත් හැට දෙනෙකු ලැම්පෙදුසා හි මධ්‍යස්ථානයකට ගෙන එන ලද බව ඉතාලියේ UNHCR ප්‍රකාශක ෆිලිප්පෝ උන්ගාරෝ පැවසීය. දිවි ගලවා ගත් අයගේ ප්‍රකාශවලට අදාළව බෝට්ටුව ලිබියාවෙන් පිටත් වන විට එහි සංක්‍රමණිකයන් 92 සිට 97 දක්වා පිරිසක් ගමන් කර තිබේ.
+
+වෙරළාරක්ෂක නිවේදනයක් නිකුත් කරමින් කියා සිටියේ මරණ සංඛ්‍යාව 26 ක් වූ නමුත් තවමත් “තාවකාලික සහ යාවත්කාලීන වෙමින් පවතින” බවයි.
+
+දිවි ගලවා ගත් පුද්ගලයන්ට අනුව සංක්‍රමණිකයන් 95 ක් පමණ බෝට්ටු දෙකකින් ලිබියාවෙන් පිටත් ව ඇති අතර එක් බෝට්ටුවකට ජලය කාන්දුවීම හේතුවෙන් සියලුම මගීන් අනෙක් බෝට්ටුවට ගොඩ ව තිබේ.  ෆයිබර්ග්ලාස් වලින් සාදන ලද බෝට්ටුවට අධික බරක් අධික බර පැටවීම හේතුවෙන් එය පෙරළී ගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+...
+
+[Data](articles/0f5dbea3.json)
 
 ---
 
@@ -1737,33 +1769,5 @@ The Group’s Net Trading Income before Operating Expenses stood at Rs. 3.40Bn, 
 ...
 
 [Data](articles/44114c5f.json)
-
----
-
-### ‘SL committed to forging effective global plastic treaty’
-
-*2025-08-13 22:42:00* · [`islandlk`](http://island.lk/sl-committed-to-forging-effective-global-plastic-treaty/) · `en`
-
-Environment Minister Dr. Dhammika Patabendi has underlined Sri Lanka’s commitment to forging a strong and effective global plastic treaty, while stressing that only decisive international cooperation can address the scale of the crisis.
-
-Speaking in Geneva at the ministerial-level roundtable of the second part of the Fifth Session of the Intergovernmental Negotiating Committee on Plastic Pollution (INC-5.2), the minister said Sri Lanka is already implementing ambitious national strategies, but faces constraints that make global solidarity indispensable.
-
-The INC-5.2 session, taking place from August 5 to 14, 2025, brings together environment ministers, negotiators, and experts from around the world to craft a legally binding international instrument aimed at ending plastic pollution. Sri Lanka’s delegation, led by Dr. Patabendi and Ministry Secretary Rohitha Uduwawala, includes two representatives from the Central Environmental Authority.
-
-...
-
-[Data](articles/2759ea27.json)
-
----
-
-### Stock investors struggle to reach 20,000 ASPI points; ‘psychological factors’ at play
-
-*2025-08-13 22:41:00* · [`islandlk`](http://island.lk/stock-investors-struggle-to-reach-20000-aspi-points-psychological-factors-at-play/) · `en`
-
-The CSE indicated mixed reactions yesterday as local and foreign investors struggled to raise 20000 All Share Price Index points due to certain psychological barriers prevailing among them. However, a few weeks ago the All Share Price Index rose to that point but now the investors are struggling to reach that target, market analysts said.
-
-...
-
-[Data](articles/61d48f24.json)
 
 ---

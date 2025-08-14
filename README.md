@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 18:10:29**
+As of **2025-08-14 18:33:31**
 
 ## Newspaper Stats
 
-*Scraped **70,519** Articles*
+*Scraped **70,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,808
-adaderanalk | 8,800
+adalk | 6,809
+adaderanalk | 8,801
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
-adaderanasinhalalk | 12,140
+adaderanasinhalalk | 12,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,519 articles have been extended.
+61,973 (87.9%) of 70,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### අමෙරිකාවට මෙගා සුනාමි අනතුරු ඇඟවීමක්
+
+*2025-08-14 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213371) · `si`
+
+අමෙරිකාවේ පැසිෆික් වෙරළ තීරයේ කැස්කැඩියා කලාපය (CSZ) ලෙසින් හැඳින්වෙන ප්‍රදේශයේ මෙගා සුනාමියක් ඇතිවිය හැකි බවට Virginia Tech විශ්වවිද්‍යාලයේ විද්‍යාඥයින් පිරිසක් අනතුරු අඟවා තිබේ.
+
+උතුරු කැලිෆෝනියාවේ සිට වැන්කුවර් දූපත දක්වා සැතපුම් 600ක් පමණ විහිදෙන මෙම කලාපය දැවැන්ත භූකම්පන ඇති කරන කලාපයක් බව ඔවුන් පවසයි.
+
+අදාළ පර්යේෂකයන් පවසන්නේ ඉදිරි වසර 50 ඇතුළත පැසිෆික් කැස්කැඩියා කලාපයෙන් රික්ටර් මාපකයේ 8.0 හෝ ඊට වැඩි භූමිකම්පාවක් සිදුවීමට 15%ක පමණ සම්බාවිතාවක් තිබෙන බවය.
+
+එවන් සිදුවීමක් හදිසියේ සිදුවුවහොත් කැස්කැඩියා කලාපය හදිසියේම වෙරළ භූමියේ එකවර ජලයේ ගිලා බැසීමක් සිදුවිය හැකි බවත්, එහි ප්‍රතිබලපෑමෙන් අඩි සිය ගණනක් උස සුනාමි රළක් ජනනය වනු ඇති බවත් අදාළ පර්යේශකයන් විද්‍යඥයන් වැඩිදුරටත් අනතුරු අඟවා තිබේ.
+
+මේ හේතුවෙන් අමෙරිකාවේ බටහිර වෙරළ තීරයේ මිලියන සංඛ්‍යාත පදිංචිකරුවන්ට පෙර නොවූ විරූ අනතුරටක මුහුණදීමට සිදුවනු ඇති බවත්, එම කලාපයේ පරිසර පද්ධතියේද විශාල වෙනසක් සිදුවනු ඇති බවත් ඔවුන් පවසයි.
+
+එමෙන්ම විද්‍යඥයන් පුරෝකථනය කර ඇත්තේ මෙම මෙගා සුනාමි තත්ත්වය ඇතිවුවහොත් 30,000ක පමණ පිරිසක් මිය යෑ හැකි බවය.
+
+...
+
+[Data](articles/adb96e30.json)
+
+---
 
 ### ගැටලාව වැවෙන් උණ්ඩ 7000කට වැඩි ප්‍රමාණයක් සොයා ගනී
 
@@ -71,6 +93,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5cededa5.json)
+
+---
+
+### ‘Aswesuma’ welfare benefit allowances to be credited tomorrow
+
+*2025-08-14 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111474/aswesuma-welfare-benefit-allowances-to-be-credited-tomorrow-) · `en`
+
+The Welfare Benefits Board has announced that the “Aswesuma” welfare benefit allowances for the month of August will be credited to the beneficiary bank accounts tomorrow (15).
+
+Accordingly, a total of 1,421,745 families are scheduled to receive the allowance for this month, with over Rs. 11.2 billion allocated for the payments.
+
+The Welfare Benefits Board stated that the beneficiaries will be able to access their funds from their designated “Aswesuma” welfare benefits bank accounts starting tomorrow.
+
+◼️
+
+[Data](articles/cb9494d9.json)
+
+---
+
+### හෙරොයින් ළඟ තබාගත් හිමිනමක් සහ සැකකරුවකු අත්අඩංගුවට
+
+*2025-08-14 16:41:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-ළඟ-තබාගත්-හිමිනමක්-සහ-සැකකරුවකු-අත්අඩංගුවට/11-417919) · `si`
+
+හෙරොයින් මත්ද්‍රව්‍ය සන්තකයේ ළඟ තබාගත් හිමිනමක් ඇතුළු සැකකරුවෙකු පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන  අංශය මගින් අද (14) අත්අඩංගුවට ගෙන තිබේ.
+
+පොළොන්නරුව පරාක්‍රම සමුද්‍රයේ කලාගල මාර්ගයේදී මෙම හිමිනම සහ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර වයස අවුරුදු තිස් අටක සැකකරු පොළොන්නරුව පලුගස් දමන ප්‍රදේශයේ පදිංචිකරුවකු වන අතර ඔහු ළඟ තිබී හෙරොයින් මත්ද්‍රව්‍ය මිලිග්‍රෑම්  110 ක් අත්අඩංගුවට ගෙන ඇති බවත් වයස අවුරුදු තිස් එකක සැකකාර හිමිනම ළඟ තිබියදී හෙරොයින් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 130 ක් පොලිසිය සන්තකයේ ලබා තිබියදී අත්අඩංගුවට ගෙන ඇත.
+
+හිමිනම පොළොන්නරුව පුලස්ති පුර පොලිස් වසමේ කෑගලුගම ප්‍රදේශයේ විහාරස්ථානයක භාරකාරත්වය උසුලමින් සිට ඇත.හිමිනම සහ සැකකරු අද (14) පොළොන්නරුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීම සඳහා පොළොන්නරුව පොලිසියට බාරදී ඇත.
+
+මෙම සම්බන්ධයෙන් වැඩිදුර විමර්ශන පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් සිදුකරයි.
+
+◼️
+
+[Data](articles/dba0721f.json)
 
 ---
 
@@ -1783,57 +1839,5 @@ Loans and advances grew 26 percent in the six months to June to 361 billion rupe
 ...
 
 [Data](articles/129a247a.json)
-
----
-
-### හංවැල්ලේ වෙඩි තැබීමක්
-
-*2025-08-14 06:28:03* · [`adalk`](https://www.ada.lk/breaking_news/හංවැල්ලේ-වෙඩි-තැබීමක්/11-417904) · `si`
-
-හංවැල්ල, තුන්තාන ප්‍ර දේශයේ නිවසක සිටි පුද්ගලයෙකුට ඊයේ රාත්‍රි යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් වෙඩි තබා පළාගොස් ඇති බවට හංවැල්ල පොලීසියට ලද තොරතුරක් අනුව විමර්ශන ආරම්භ කර තිබේ.
-
-තුවාලකරු අවුරුදු 55ක් වන තුන්තාන ප්‍ර දේශයේ පදිංචිකරුවෙකි. වෙඩි තැබීමට හේතුව හෝ සැකකරුවන් සම්බන්ධයෙන්  මෙතෙක් තොරතුරු වාර්තා නොවන බවත් හංවැල්ල පොලීසිය හා තවත් පොලිස් කණ්ඩායමක් විමර්ශන ආරම්භ කර ඇති බවත් පොලිස් මූලස්ථානය කියයි.
-
-◼️
-
-[Data](articles/84a2fd4f.json)
-
----
-
-### Several spells of showers expected today
-
-*2025-08-14 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111448/several-spells-of-showers-expected-today) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee district.
-
-◼️
-
-[Data](articles/bc59de60.json)
-
----
-
-### One person injured in shooting in Hanwella
-
-*2025-08-14 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111447/one-person-injured-in-shooting-in-hanwella) · `en`
-
-A shooting incident has been reported in the Thunnana area within the Hanwella police division last night (13), police stated.
-
-Two unidentified individuals, who arrived on a motorcycle, opened fire at a person inside a residence.
-
-The victim, who sustained leg injuries in the attack, has been admitted to the Avissawella District General Hospital for further treatment, police said.
-
-The injured individual is a 55-year-old resident of the Thunnana area.
-
-The motive behind the shooting and the details of the suspects have not yet been revealed.
-
-Several police teams, including officers from the Hanwella Police, are currently investigating the incident.
-
-◼️
-
-[Data](articles/f827491c.json)
 
 ---

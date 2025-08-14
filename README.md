@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 17:31:27**
+As of **2025-08-14 17:54:01**
 
 ## Newspaper Stats
 
-*Scraped **70,517** Articles*
+*Scraped **70,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,807
+adalk | 6,808
 adaderanalk | 8,800
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,517 articles have been extended.
+61,973 (87.9%) of 70,518 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/91c71ad0.json)
+
+---
+
+### අස්වැසුම මුදල හෙට බැංකු ගිණුම් වෙත
+
+*2025-08-14 16:33:18* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-මුදල-හෙට-බැංකු-ගිණුම්-වෙත/11-417918) · `si`
+
+සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් 2025 අගෝස්තු මසට අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ දීමනාව 2025 අගෝස්තු
+
+මස 15 දින අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව එම මණ්ඩලය පවසයි.
+
+මේ අනුව රු. 11 275 973 750 ක මුදලක් ප්‍රතිලාභී පවුල් 1 421 745ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම
+
+ඒ අනුව ප්‍රතිලාභීන්ට අගෝස්තු මස 15 දින සිට තමාට හිමි ප්‍රතිලාභී මුදල තම අස්වැසුම ප්‍රතිලාභි බැංකු ගිණුමෙන් ලබා ගැනිමට අවස්ථාව ති‍බේ.
+
+◼️
+
+[Data](articles/eedca5e8.json)
 
 ---
 
@@ -1809,21 +1827,5 @@ The other way of being Sri Lankan is as a hawk. A hawk was for war with the LTTE
 ...
 
 [Data](articles/c3d0ca2d.json)
-
----
-
-### අදත් හවසට වැසි
-
-*2025-08-14 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213344) · `si`
-
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-◼️
-
-[Data](articles/dd7d3073.json)
 
 ---

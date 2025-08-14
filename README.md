@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 16:07:36**
+As of **2025-08-14 16:22:51**
 
 ## Newspaper Stats
 
-*Scraped **70,502** Articles*
+*Scraped **70,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,804
-adaderanalk | 8,794
-tamilmirrorlk | 10,374
+adalk | 6,805
+adaderanalk | 8,798
+tamilmirrorlk | 10,375
 virakesarilk | 11,730
 adaderanasinhalalk | 12,137
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,502 articles have been extended.
+61,973 (87.9%) of 70,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### வாவியில் இருந்து தோட்டாக்கள் மீட்பு
+
+*2025-08-14 16:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாவியில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-362917) · `ta`
+
+அனுராதபுர, கலென் பிந்துனுவெவ கெடலாவ வாவியில் இருந்து  தானியங்கி துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 300க்கும் மேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டுள்ளதாக கலென் பிந்துனுவெவ பொலிஸார் தெரிவித்தனர்.
+
+வயலில் இருந்து திரும்பிக் கொண்டிருந்த ஒரு விவசாயி ஒருவர் தனது  கால்களை கழுவுவதற்காக குறித்த வாவிக்கு சென்றபோது நீருக்குள் பல தோட்டாக்கள் இருப்பதை அவதானித்து பொலிஸாருக்கு தகவல் வழங்கியுள்ளார்.
+
+அதற்கமைய உடனடியாகச் செயற்பட்ட பொலிஸார்  குறித்த வாவிக்கு சென்று மேற்கொண்ட தேடுதலில் 5,038 (ஐந்தாயிரத்து முப்பத்தெட்டு) தோட்டாக்கள் மீட்டுள்ளனர்.
+
+விசேட பொலிஸ் குழுவினரால் குறித்த இடத்தில் மேற்கொண்ட மேலதிக சோதனையின் போது  11 மேகசின்கள் மற்றும் 3150 தோட்டாக்கள் மீட்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/596ff468.json)
+
+---
 
 ### புத்தளம் வனப்பகுதியில் தீ
 
@@ -66,6 +84,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### COPF approves Gambling Regulatory Authority Bill
+
+*2025-08-14 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111469/copf-approves-gambling-regulatory-authority-bill) · `en`
+
+The Bill to establish the Gambling Regulatory Authority has been approved by the Committee on Public Finance (COPF).
+
+The Bill was approved at the meeting of the Committee on Public Finance held under the acting chairmanship of Member of Parliament Rauf Hakeem, the Department of Communication of Parliament said.
+
+The Bill was discussed on several occasions in the Committee on Public Finance and it provides for the establishment of the Gambling Regulatory Authority as an independent regulatory body with a broad scope to standardize betting and gaming establishments in Sri Lanka, minimize social harm, develop the tourism sector and grow the economy, according to the statement by the Communication Department.
+
+...
+
+[Data](articles/9030737d.json)
+
+---
+
 ### தேசிய தாய்ப்பால் மாதம் பிரகடனம்
 
 *2025-08-14 15:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-தாய்ப்பால்-மாதம்-பிரகடனம்/175-362915) · `ta`
@@ -81,6 +115,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/89ec3b05.json)
+
+---
+
+### Body of male found floating in Bolgoda River
+
+*2025-08-14 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111468/body-of-male-found-floating-in-bolgoda-river) · `en`
+
+A body of a male has been discovered floating in the Bolgoda River, near the Kospalana Bridge along the Piliyandala–Moratuwa road, police stated.
+
+The deceased has been identified as a 46-year-old father of four.
+
+The body was found following a tip-off received by the police emergency response unit stating that a body was seen floating in the Bolgoda River.
+
+It was revealed that the man had been missing for two days prior to the discovery, and his family had lodged a complaint with police regarding his disappearance.
+
+The brother of the deceased informed police that he had been suffering from mental health issues for a long period, along with several other illnesses.
+
+◼️
+
+[Data](articles/8677b46b.json)
 
 ---
 
@@ -123,6 +177,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/07e215e9.json)
+
+---
+
+### S&P Global upgrades India Sovereign Ratings to ‘BBB’ From ‘BBB-’
+
+*2025-08-14 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111467/sp-global-upgrades-india-sovereign-ratings-to-bbb-from-bbb-) · `en`
+
+S&P Global said on Thursday that it has raised India’s sovereign rating to BBB from the previous ‘BBB-’.
+
+This is the first time India has received a sovereign rating upgrade since 2017.
+
+BBB- is the lowest investment-grade rating by a credit rating agency.
+
+An upgrade from that point results in lowering bond yields and better borrowing costs for the government. ‘At the same time, we revised our transfer & convertibility assessment to ‘A-’ from ‘BBB+’’, according to a statement.
+
+India’s benchmark 10-year bond yield dropped 7 basis points since opening on Thursday, dropping to 6.4%.
+
+‘The stable outlook reflects our view that continued policy stability and high infrastructure investment will support India’s long-term growth prospects. That, along with cautious fiscal and monetary policy that moderates the government’s elevated debt and interest burden, will underpin the rating over the next 24 months,’ S&P said in its statement.
+
+...
+
+[Data](articles/73ada23b.json)
 
 ---
 
@@ -175,6 +251,24 @@ The Governor also highlighted reforms that are now shifting from crisis stabiliz
 ...
 
 [Data](articles/fff86313.json)
+
+---
+
+### President decides to temporarily halt Mannar Wind Power Project
+
+*2025-08-14 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111464/president-decides-to-temporarily-halt-mannar-wind-power-project) · `en`
+
+A decision has been taken to suspend the construction of two wind power plants following concerns raised by various stakeholders.
+
+The decision was taken during a discussion held on the proposed Mannar wind power plant and related emerging issues at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
+
+The meeting focused on the country’s energy needs and the importance of the project to the national economy, the President’s Media Division (PMD) said.
+
+It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant. It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.
+
+...
+
+[Data](articles/5df564c7.json)
 
 ---
 
@@ -479,6 +573,24 @@ Therefore, he stated that the relevant authorities have been informed to create 
 ◼️
 
 [Data](articles/04c9eed0.json)
+
+---
+
+### කණ්ඩලමේ හැඩකාරයට පිං අනුමෝදන් කරයි
+
+*2025-08-14 12:21:17* · [`adalk`](https://www.ada.lk/picture_story/කණ්ඩලමේ-හැඩකාරයට-පිං-අනුමෝදන්-කරයි/10-417916) · `si`
+
+මාස හතරකට අධික කාලයක් කණ්ඩලම වැව   ඉස්මත්තේ  වෙඩි වැදීමකින් තුවාල ලබා සිටි කණ්ඩලමේ හැඩකාරයා නමින් හඳුන්වනු ලැබූ වන අලියා 13 දින පස්වරුවේ  ජීවිතක්ෂයට පත් වූ බව  වනජීවී නිලධාරීහු පවසති.
+
+මිට වසරකට ඉහතදී  මුලින්ම මේ අලියාට  වෙඩි වැදී සිටියදී වනජීවීන් නිලධාරීන් ප්‍රතිකාර කොට පසුව  වනයට මුදා හැර තිබිණි ,  පසුව මාස කිහිපයකට පසු නැවතත්  තුවාල සුව නොවූ තැන   වැව ඉස්මත්තට පැමිණි මෙම සතා  ජනතාව අතරට එන්නට පටන් ගෙන තිබිණි ,   ජනතාව ආහාර ලබාදෙමින් වනජීවී නිලධාරීන් දැනුවත් කරන්නට විය
+
+ඒ අනුව අවස්ථා කිහිපයක් වරින් වරින්  පශු වෛද්‍ය  කණ්ඩායම් පැමිණ ප්‍රතිකාර කොට පිටව ගියහ .  මාධ්‍ය මගින් දිගින් දිගටම කණ්ඩලමේ හැඩකාරයාගේ ප්‍රශ්න පිළිබඳව ජනතාව සහ බලධාරීන් ගෙන්  ඔහුගේ ජීවිතය බේරා  දෙන ලෙස ඉල්ලීම් කරන්නට විය.
+
+ඒ  අනුව පරිසර අමාත්‍යවරයා සහ නියෝජ්‍ය අමාත්‍යවරයාද මෙම ස්ථානයට පැමිණෙන වන අලියාගේ සුව දුක් විමසීමෙන් අනතුරුව එක දිගටම ප්‍රතිකාර කිරීමට උපදෙස් ලබාදීම සිදුකරන්නට විය.
+
+...
+
+[Data](articles/552af6f4.json)
 
 ---
 
@@ -1701,91 +1813,5 @@ Privately held ROX Group, formerly TNG Holding Vietnam, was founded in 1996 and 
 ...
 
 [Data](articles/cccaad8b.json)
-
----
-
-### Colombo Dockyard delivers “Misje Lily” 5000 DWT Eco Bulk Carrier to Norway
-
-*2025-08-14 05:34:07* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-delivers-Misje-Lily-5000-DWT-Eco-Bulk-Carrier-to-Norway/34-780240) · `en`
-
-Colombo Dockyard Managing Director/CEO Thimira Godakumbura (left) and Roald Misje exchanging delivery protocols
-
-Colombo Dockyard PLC (CDPLC) recently delivered the eighth vessel in the 5000 DWT Eco Bulk Carrier series, named “Misje Lily,” to Misje Eco Bulk AS of Norway, marking another milestone in this successful long-term collaboration.
-
-Following the handover of the first vessel in September 2022, CDPLC has continued to deliver each ship in the series with increasing efficiency. The completion of Misje Lily once again demonstrates Colombo Dockyard’s ability to meet international standards.
-
-...
-
-[Data](articles/a9664d59.json)
-
----
-
-### Sri Lanka has opportunity to break from past: Türk
-
-*2025-08-14 05:29:38* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-has-opportunity-to-break-from-past-Türk/56-780238) · `en`
-
-A report published yesterday by the UN Human Rights Office called on Sri Lanka’s Government to seize the historic opportunity to break with entrenched impunity, implement transformative reforms, and deliver long-overdue justice and accountability for serious violations and abuses committed in the past, including international crimes.
-
-“Today, an opportunity presents itself for Sri Lanka to break from the past, with the leadership pledging a fresh direction on longstanding issues, including delivering justice to victims, restoring the rule of law, and eliminating discrimination and divisive politics. It now needs a comprehensive roadmap to translate these commitments into results,” said UN High Commissioner for Human Rights Volker Türk.
-
-...
-
-[Data](articles/cb75bbdf.json)
-
----
-
-### Priyantha Weerasooriya appointed new IGP
-
-*2025-08-14 05:27:44* · [`dailyftlk`](https://www.ft.lk/news/Priyantha-Weerasooriya-appointed-new-IGP/56-780237) · `en`
-
-President Anura Kumara Disanayake has appointed Senior Deputy Inspector General of Police (IGP) Attorney-at-Law Priyantha Weerasooriya, as the new Inspector General of Police. The letter of appointment was handed over to Weerasooriya yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/67af74ee.json)
-
----
-
-### Ancient Vedda Heritage Museum in Dambana gets new life through EU-funded revival project
-
-*2025-08-14 05:26:27* · [`dailyftlk`](https://www.ft.lk/news/Ancient-Vedda-Heritage-Museum-in-Dambana-gets-new-life-through-EU-funded-revival-project/56-780236) · `en`
-
-Transformative reconstruction brings 300-year-old artefacts home and creates sustainable livelihoods for Sri Lanka’s last forest-dwelling indigenous community
-
-The centuries-old cultural heritage of Sri Lanka’s indigenous Vedda people has been given a remarkable new lease on life with the comprehensive reconstruction of the Vedda Heritage Museum in Dambana. The ambitious project, spearheaded by Solidaridad, through the European Union (EU) funded Developing Resources and Empowering Communities (DeREC) initiative, represents a ground-breaking approach to cultural preservation and community development.
-
-The Vedda community, recognised as Sri Lanka’s last remaining forest-dwelling indigenous group, has faced mounting economic and environmental pressures in recent years. The museum’s revival addresses these challenges while safeguarding invaluable cultural traditions that span millennia.
-
-...
-
-[Data](articles/f0d8dd92.json)
-
----
-
-### Indian Navy-Sri Lanka Navy maritime exercise SLINEX-2025
-
-*2025-08-14 05:24:47* · [`dailyftlk`](https://www.ft.lk/news/Indian-Navy-Sri-Lanka-Navy-maritime-exercise-SLINEX-2025/56-780235) · `en`
-
-The 12th Edition of annual Indian Navy (IN) - Sri Lanka Navy (SLN) bilateral maritime exercise SLINEX-2025 is scheduled at Colombo from 14 to 18 August.
-
-The exercise will be conducted in two phases; the Harbour Phase at Colombo from 14 to 16 August followed by Sea Phase from 17 to 18 August off Colombo. The Indian Navy will be represented by INS Jyoti (Fleet Tanker) and INS Rana (Destroyer) whist Sri Lanka Navy will have SLNS Vijayabahu (Advance Offshore Patrol Vessel) and SLNS Sayura (OPV). In addition, Sri Lanka Air Force BEL 412 helicopters would also participate in the exercise.
-
-The exercise will also have the Special Forces of the two navies undertake the IN-SLN SF exercise. The previous edition of SLINEX was conducted in Visakhapatnam from 17 to 20 December 2024.
-
-...
-
-[Data](articles/ad0f7b86.json)
-
----
-
-### Peacebuilding In Post-War Sri Lanka: Progress, Pitfalls & The Way Forward After 16 Years
-
-*2025-08-14 03:41:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/peacebuilding-in-post-war-sri-lanka-progress-pitfalls-the-way-forward-after-16-years/) · `en`
-
-More than sixteen years after the end of Sri Lanka’s civil war in May 2009, the nation stands at a decisive juncture. While physical reconstruction has advanced, deep seated challenges in reconciliation, justice, and inclusive development continue to obstruct lasting peace. The nearly three decade long conflict left a legacy of trauma, displacement, and socio-economic disruption particularly in the Northern and Eastern Provinces. This article traces the trajectory of peacebuilding in Sri Lanka since 2009, examining key achievements, persistent gaps, and opportunities for reform. Drawing on policy analysis and field insights from Mullaitivu, a district among the most affected by the war, it assesses the effectiveness of post-war initiatives and proposes strategies for fostering sustainable peace and inclusive development in post-conflict societies.
-
-...
-
-[Data](articles/8f095d9b.json)
 
 ---

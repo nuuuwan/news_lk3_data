@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 04:32:12**
+As of **2025-08-15 05:06:46**
 
 ## Newspaper Stats
 
-*Scraped **70,565** Articles*
+*Scraped **70,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 720
 economynextcom | 4,304
 islandlk | 4,320
 dailymirrorlk | 4,733
-dailyftlk | 4,952
+dailyftlk | 4,954
 adalk | 6,814
 adaderanalk | 8,809
 tamilmirrorlk | 10,383
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,565 articles have been extended.
+61,973 (87.8%) of 70,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### Premier Harini’s gaffe and JVP-led NPP Govt.’s damage control efforts
+
+*2025-08-15 04:25:12* · [`dailyftlk`](https://www.ft.lk/columns/Premier-Harini-s-gaffe-and-JVP-led-NPP-Govt-s-damage-control-efforts/4-780290) · `en`
+
+While there are stresses and strains within the Government and party ranks, the SupremeSAT incident has actually promoted greater solidarity in the Government. At least for the time being! Whatever the feelings towards Harini, the JVP-led NPP cannot afford to throw her to the wolves at this juncture. It is a fact that President AKD and PM Harini are of great value to the party and Government. It is noteworthy that Bimal Rathnayake himself told the media that the President and Prime Minister are great “assets”
+
+The Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) Government of President Anura Kumara Dissanayake known as AKD, has been in the saddle for close upon a year now. Given the JVP-NPP’s 159 members of Parliament and the victories registered in the local authority polls, the chances of being dislodged from the saddle soon seem remote.
+
+...
+
+[Data](articles/d4dbc4e5.json)
+
+---
+
+### Sri Lanka at Human Rights Council: “Engage to Disengage”
+
+*2025-08-15 04:11:38* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-at-Human-Rights-Council-Engage-to-Disengage/4-780289) · `en`
+
+The interactive dialogue that would follow the High Commissioner’s presentation would be the occasion for members of the council and others, including Sri Lanka, to make their interventions on the subject. By this time, Sri Lanka will have submitted its response on the OHCHR report, expecting that delegations will also reflect on it during Council deliberations. How pointed the response of the Government would be to the concerns, questions and recommendations raised in the OHCHR remains to be seen. Responses submitted in 2021 and 2022 were far off the mark and were utterly verbose
+
+Time is ticking off. And it is ticking off on Sri Lanka’s human rights and accountability front. In Geneva.
+
+...
+
+[Data](articles/8ff8148d.json)
+
+---
 
 ### உலகளாவிய புத்தாக்க குறியீட்டில் இலங்கையை வலுவாக நிலைநிறுத்த அனைத்துத் தரப்பினரதும் பங்கேற்புடன் விழிப்புணர்வு நடவடிக்கை
 
@@ -1783,45 +1811,5 @@ The body has been placed in the morgue of the Kandy Hospital.
 ...
 
 [Data](articles/e5935af7.json)
-
----
-
-### Sri Lanka’s Haycarb to merge subsidiary Ultracarb
-
-*2025-08-14 11:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-haycarb-to-merge-subsidiary-ultracarb-236283/) · `en`
-
-ECONOMYNEXT – Haycarb PLC said it planned to merge its fully owned subsidiary Ultracarb (Private) Limited to boost the company’s finances and operations.
-
-Haycarb “is of the view that the proposed amalgamation will financially and operationally benefit the Company” it said in a stock exchange filing.
-
-Ultracarb (Private) Limited is a wholly owned subsidiary of Haycarb, which is a unit of the Hayleys conglomerate.
-
-A further announcement will be made upon completion of the amalgamation, Haycarb said.
-
-Haycarb’s main product is coconut shell charcoal, which saw price spikes amid a crop shortfall, according to its interim results report.
-
-◼️
-
-[Data](articles/7e4aa0b3.json)
-
----
-
-### පාර්ලිමේන්තුවේ මහා පරිමාණයේ අලුත්වැඩියාවක්
-
-*2025-08-14 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213357) · `si`
-
-දශක 4කට පසු ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහා පරිමාණයෙන් සිදු කරනු ලබන අලුත්වැඩියා කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
-
-අමාත්‍ය මණ්ඩල අනුමතිය යටතේ, වසර 42කට අධික කාලයකට පසු මෙලස ශ්‍රී ලංකා පාර්ලිමේන්තු සංකීර්ණයේ සිදුවන අලුත්වැඩියා කටයුතු කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ උපදෙස් මත සිදු කෙරේ.
-
-ඒ අනුව පාර්ලිමේන්තු සංකීර්ණයේ කොන්ක්‍රීට් වහල (Roof Terrace) මත තිබෙන පස් තට්ටුව ඉවත්කොට අලුත්වැඩියා කිරීමේ කටයුතු මේ දිනවල සිදුවෙමින් පවතී.
-
-එමෙන්ම වැහි පිහිලි (Roof Gutters), තඹ දොර (Copper Door), පාර්ලිමේන්තු වෛද්‍ය මධ්‍යස්ථානය (Parliament Medical Center), වැසිකිළි පද්ධතිය (Washrooms) සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විවේකාගරයේ (Members Dressing Room) අලුත්වැඩියා කටයුතු මෙලෙස  සිදුකිරීමට නියමිතය.
-
-මෙයට පෙර පාර්ලිමේන්තු සංකීර්ණයේ සුළු නඩත්තු කටයුතු සම්බන්ධිකරණ ඉංජිනේරු දෙපාර්තමේන්තුව මගින්  සිදු කළද මෙම මහා පරිමාණ අලුත්වැඩියා කටයුතු  ශ්‍රී ලංකා යුද හමුදාවේ ශ්‍රම දායකත්වයෙන්  සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/e59c7acc.json)
 
 ---

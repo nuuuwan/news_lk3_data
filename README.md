@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 06:35:38**
+As of **2025-08-14 07:18:54**
 
 ## Newspaper Stats
 
-*Scraped **70,401** Articles*
+*Scraped **70,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 6,788
 adaderanalk | 8,778
 tamilmirrorlk | 10,345
 virakesarilk | 11,723
-adaderanasinhalalk | 12,117
+adaderanasinhalalk | 12,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,401 articles have been extended.
+61,973 (88.0%) of 70,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### හංවැල්ලේ වෙඩි තැබීම ගැන තවත් තොරතුරු
+
+*2025-08-14 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213346) · `si`
+
+හංවැල්ල, තුන්නාන ප්‍රදේශයේ දී සිදුවු වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+ඊයේ (13) රාත්‍රී යතුරුපැදියකින් පැමිණි නාඳුනන් තුවක්කුකරුවන් දෙදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකුට මෙලෙස වෙඩි තබා පළාගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු පුද්ගලයා ප්‍රතිකාර සඳහා අවිස්සාවේල්ල රෝහලට ඇතුළත් කර තිබේ.
+
+වෙඩි තැබීමට හේතුව හෝ සැකකරුවන් සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් හංවැල්ල පොලීසිය ඇතුළු පොලිස් කණ්ඩායම් කිහිපයක් විමර්ශන ආරම්භ කර තිබේ.
+
+මෙම වෙඩි තැබීමේ සිදුවීම සම්බන්ධයෙන් අසල්වාසීන් මෙලෙස අදහස් පළ කළේය.
+
+"බුදු අම්මෝ කියලා කෑ ගහනවා ඇහුවා. සද්දෙට දොර ඇරගෙන ගියා මම. අපි මුකුත් දැක්කේ නෑ. මල්ලි පුතාව බදාගෙන ඉන්නවා. ඊට පස්සේ ත්‍රීවිල් එක්ක නග්ගලා ඉස්පිරිතාලේට යැව්වා...
+
+...
+
+[Data](articles/44d5a0dc.json)
+
+---
+
+### අදත් හවසට වැසි
+
+*2025-08-14 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213344) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/dd7d3073.json)
+
+---
 
 ### How inclusive design strategies can transform Sri Lankan banking experience
 
@@ -250,11 +288,11 @@ The exercise will also have the Special Forces of the two navies undertake the I
 
 ### 2025-08-13 (Wednesday)
 
-### Sri Lanka’s Hatton National Bank profits up 37-pct in June
+### Sri Lanka’s Hatton National Bank net up 37-pct in June quarter
 
 *2025-08-13 23:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-profits-up-37-pct-in-june-236153/) · `en`
 
-ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent to 11.74 billion rupees, helped by loan loss rupees and profit on rupee depreciation, despite a fall in net interest income, interim accounts show.
+ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent from a year ago to 11.74 billion rupees, helped by loan loss reversals and depreciation gains, despite a fall in net interest income, interim accounts show.
 
 HNB group reported earnings of 20.54 rupees for the quarter. In the six months to June HNB reported earnings of 39.25 rupees on total profits of 22.4 billion rupees, which grew 42 percent.
 
@@ -1737,45 +1775,5 @@ According to the police, the shooting was carried out targeting an individual kn
 ...
 
 [Data](articles/50824b11.json)
-
----
-
-### காசாவில் இடம்பெறும் யுத்தத்தின் முகமாக மில்லியன்கணக்கானவர்களிற்கு அனஸ் அல் ஷரீவ் மாறினார் - பின்னர் இஸ்ரேல் அவரை கொன்றது
-
-*2025-08-13 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/222408) · `ta`
-
-காசாவில் யுத்த நிறுத்தம் நடைமுறைக்கு வந்தவேளை அனாஸ் அல் ஷரீவ் தொலைக்காட்சியில்  தனது பாதுகாப்பு சாதனங்களை அகற்ற தொடங்கினார்.மகிழ்ச்சியுடன் காணப்பட்ட மக்கள் ஆராவரித்தனர். அன்றைய நாளுடன் காசா பள்ளத்தாக்கில் உள்ள இரண்டு மில்லியன் மக்களின் துயரங்கள் முடிவிற்கு வந்துவிடும் என நம்பினார்கள்.
-
-இதற்கு ஏழு மாதங்களிற்கு பின்னர் காசா நகரத்தில் மேற்கொண்ட தாக்குதல் ஒன்றின் மூலம் இஸ்ரேல் அல்ஜசீரா ஊடகவியலாளரையும் அவரது சகாக்கள் நால்வரையும் கொலை செய்தது.
-
-காசாவில் அதிகம் அறியப்பட்ட ஊடகவியலாளர்களில் ஒருவர்இயுத்தத்தின் போது இஸ்ரேலால் கொல்லப்பட்ட பல பத்திரிகையாளர்களில் ஒருவர்.- அல் ஷரீவின் மரணம் சர்வதேச கண்டனங்களை மீண்டும் கிளறிவிட்டுள்ளதுடன் பொறுப்புக்கூறலிற்கான வேண்டுகோள்களும் வெளியாகியுள்ளன.
-
-இஸ்ரேல் காசாவிற்குள் சர்வதேச ஊடகங்கள் செல்வதற்கு தடைவிதித்திருந்த சூழ்நிலையில் மில்லியன் கணக்காண மக்களிற்கு காசாவின் கதையை தெரிவித்ததன் மூலம் 28 வயது அல் ஷரீவ் பிரபலமானவராக மாறினார்.
-
-...
-
-[Data](articles/d8286e35.json)
-
----
-
-### Suspects in murder of former Homagama PS member to be produced in court
-
-*2025-08-13 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111433/suspects-in-murder-of-former-homagama-ps-member-to-be-produced-in-court-) · `en`
-
-The suspects arrested in connection with the murder of a former member of the Homagama Pradeshiya Sabha, which occurred in Meegoda yesterday, are scheduled to be produced before the Kaduwela Magistrate’s Court today (13).
-
-Meanwhile, the body of the slain former local councilor was brought to his residence on Somarathna Mawatha in Padukka last night.
-
-The victim, 46-year-old Shantha Mudunkotuwa was shot dead around 1:10 p.m. yesterday.
-
-He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
-
-Outside politics, he had been involved in real estate businesses, including land acquisitions, sales, and construction.
-
-A few days before the incident, he had lodged a complaint with the Meegoda Police concerning a dispute over land.
-
-...
-
-[Data](articles/5fe12b53.json)
 
 ---

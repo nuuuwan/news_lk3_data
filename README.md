@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 11:51:59**
+As of **2025-08-14 12:08:36**
 
 ## Newspaper Stats
 
-*Scraped **70,454** Articles*
+*Scraped **70,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,89 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 720
-economynextcom | 4,290
+economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,797
+adalk | 6,798
 adaderanalk | 8,787
-tamilmirrorlk | 10,360
+tamilmirrorlk | 10,361
 virakesarilk | 11,724
-adaderanasinhalalk | 12,129
+adaderanasinhalalk | 12,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,454 articles have been extended.
+61,973 (88.0%) of 70,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### கவர்ச்சிப் பெண் சகாப்தம்
+
+*2025-08-14 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கவர்ச்சிப்-பெண்-சகாப்தம்/53-362898) · `ta`
+
+டெய்லர் ஸ்விஃப்ட்டின் கவர்ச்சிப் பெண் சகாப்தம்! வரவிருக்கும் ஆல்பம் கலைப்படைப்பின் முதல் பார்வையில் பாப் ஐகான் பிரமிக்க வைக்கிறார்.
+
+டெய்லர் ஸ்விஃப்ட் தனது புதிய ஆல்பமான தி லைஃப் ஆஃப் எ ஷோகேர்ளுடன் இணைந்து தனது வரவிருக்கும் ஆல்ப கலைப்படைப்பின் முதல்   படங்களை வெளியிட்டுள்ளார்.
+
+14 முறை கிராமி விருது பெற்ற 35 வயதான பாடகி, ஆல்பம் அறிவிப்புடன் பகிரப்பட்ட மெல்லிய இறகுகள் கொண்ட ஆடைகளில் பரபரப்பாகத் தெரிந்தார்.
+
+தனது 12வது ஸ்டுடியோ ஆல்பம் பற்றிய செய்தியை டெய்லர் இந்த வார தொடக்கத்தில் முதலில் வெளியிட்டார், அதே நேரத்தில் காதலன் டிராவிஸ் கெல்ஸின் நியூ ஹைட்ஸ் பாட்காஸ்டில் தனது வரவிருக்கும் தோற்றத்தை கிண்டல் செய்தார்.
+
+அவரது நியூ ஹைட்ஸ் எபிசோட் திரையிடப்பட்ட அதே வேளையில், ரெட் பாடகி தி லைஃப் ஆஃப் எ ஷோகேர்ளுக்கான அதிகாரப்பூர்வ ஆல்ப அட்டையை புதன்கிழமை, வெளியிட்டார்.
+
+தனது 11வது ஸ்டுடியோ ஆல்பமான தி டார்ச்சர்டு போயட்ஸ் டிபார்ட்மென்ட் வெளியான ஒன்றரை ஆண்டுகளுக்குப் பிறகு, அக்டோபர் 3 ஆம் திகதி ஆல்பம் வெளியிடப்படும் என்பதை அவர் உறுதிப்படுத்தினார்.
+
+...
+
+[Data](articles/bdbfcbf9.json)
+
+---
+
+### කණ්ඩලමේ හැඩකාරයාට පිං අනුමෝදනා කරයි
+
+*2025-08-14 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213358) · `si`
+
+මාස හතරකට අධික කාලයක් කණ්ඩලම වැව ඉස්මත්තේ වෙඩි වැදීමකින් තුවාල ලබා සිට ජීවිතයට සමුදුන් 'කණ්ඩලමේ හැඩකාරයා' නමින් හඳුන්වනු ලැබූ වනඅලියා වෙනුවෙන් පිං අනුමෝදනාවක් සිදුකර තිබේ.
+
+අද (14) පෙරවරුවේ සිට විශාල ප්‍රදේශවාසීන් පිරිසක් වන අලියාගේ මළ සිරුර දැක බලා ගැනීම සඳහා එහි පැමිණ සිටි අතර ඔවුන් දැඩි සංවේගයට පත් වී සිටි බව අප වාර්තාකරු පැවසීය.
+
+අනතුරුව රන්ගිරි දඹුලු වළගම්බා මහ පිරිවනේ නියෝජ්‍ය පරිවෙනාධිපති නිකපිටියේ සුනන්ද ස්වාමීන් වහන්සේ ඇතුළු භික්ෂූන් වහන්සේලා පිරිසක් එම ස්ථානයට වැඩම කොට ආගමික වතාවත් සිදුකර පාංශකූල කටයුතු සිදුකරන්නට විය.
+
+මතක වස්ත්‍ර පූජාකොට පැන් වඩා මියගිය 'කණ්ඩලමේ හැඩකාරයා'ට බෞද්ධාගමික කටයුතු අනුව නිවන් සුව ප්‍රාර්ථනා කිරීමද මෙහිදී සිදුකර තිබේ.
+
+මෙම වනඅලියාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු අද (14) සිදුකිරීමට නියමිතව තිබේ.
+
+මිට වසරකට ඉහතදී මුලින්ම මෙම අලියාට වෙඩි වැදී සිටියදී වනජීවී නිලධාරීන් ප්‍රතිකාර කොට පසුව වනයට මුදා හැර තිබිණු අතර මාස කිහිපයකට පසු නැවතත් තුවාල සුව නොවී වැව ඉස්මත්තට පැමිණි විට ජනතාව ආහාර ලබාදෙමින් රැක බලාගත්තේය.
+
+...
+
+[Data](articles/e5935af7.json)
+
+---
+
+### Sri Lanka’s Haycarb to merge subsidiary Ultracarb
+
+*2025-08-14 11:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-haycarb-to-merge-subsidiary-ultracarb-236283/) · `en`
+
+ECONOMYNEXT – Haycarb PLC said it planned to merge its fully owned subsidiary Ultracarb (Private) Limited to boost the company’s finances and operations.
+
+Haycarb “is of the view that the proposed amalgamation will financially and operationally benefit the Company” it said in a stock exchange filing.
+
+Ultracarb (Private) Limited is a wholly owned subsidiary of Haycarb, which is a unit of the Hayleys conglomerate.
+
+A further announcement will be made upon completion of the amalgamation, Haycarb said.
+
+Haycarb’s main product is coconut shell charcoal, which saw price spikes amid a crop shortfall, according to its interim results report.
+
+◼️
+
+[Data](articles/7e4aa0b3.json)
+
+---
 
 ### පාර්ලිමේන්තුවේ මහා පරිමාණයේ අලුත්වැඩියාවක්
 
@@ -214,6 +278,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka’s Dipped Products leases factory from BoI for billion rupees
+
+*2025-08-14 10:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-leases-factory-from-boi-for-billion-rupees-236272/) · `en`
+
+ECONOMYNEXT – Rubber glove manufacturer and exporter, Dipped Products, said it had entered into a 30-year lease agreement with the Board of Investment of Sri Lanka to lease a land for one billion rupees.
+
+The 4.75-acre land with buildings is situated in the Katunayake Export Processing Zone, the company said in a stock exchange filing.
+
+“This acquisition is aimed at enhancing DPL’s production capacity to support its long-term growth plans.”
+
+In December 2024, Dipped Products acquired Hi Care Thai Gloves Company Ltd in Thailand for $11 million to “expand its global footprint in the rubber glove manufacturing industry and strengthen its presence in international markets”. (Colombo/Aug14/2025)
+
+◼️
+
+[Data](articles/de648bc2.json)
+
+---
+
 ### Kush worth Rs. 40 mln seized in Peliyagoda
 
 *2025-08-14 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111456/kush-worth-rs-40-mln-seized-in-peliyagoda) · `en`
@@ -289,6 +371,28 @@ The Acting Director of the Police Cultural Division, SSP Sathish Gamage has been
 ◼️
 
 [Data](articles/77d27603.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bonds steady
+
+*2025-08-14 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236259/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/301.00 to the US dollar in the spot market Thursday, weaker from 300.82/92 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2028 was quoted at 8.87/89 percent, from 8.85/97 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.38/39 percent, from 9.36/40 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.20/23 percent, down from 10.20/24 percent.
+
+The Colombo Stock Exchange was trading in green; The ASPI was up 0.27 percent, or 54.88 points, at 20,030.38; the S&P SL20 was up 0.17 percent, or 9.72 points, at 5,825.36.
+
+The telegraphic transfer rate for the American dollar was 297.5000 buying 304.5000 selling; British pound 403.1432 buying 414.4850 selling, and euro was 346.3177 buying 357.5229 selling. (Colombo/Aug14/2025)
+
+◼️
+
+[Data](articles/e29bc97a.json)
 
 ---
 
@@ -456,6 +560,38 @@ The NWSDB expresses regret for the inconvenience caused to the public as a resul
 
 ---
 
+### ශ්‍රී  ලංකා පොලීසියේ සුවිශේෂී කඩ ඉමක් පසුකළ 37 වැනි පොලිස්පති
+
+*2025-08-14 08:12:22* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී--ලංකා-පොලීසියේ-සුවිශේෂී-කඩ-ඉමක්-පසුකළ-37-වැනි-පොලිස්පති/11-417908) · `si`
+
+ශ්‍රී ලංකා පොලිස් ඉතිහාසය තුළ ඉතාමත් වැදගත් අවස්ථාවක් සටහන් කරමින් 37 වැනි පොලිස්පතිවරයා ලෙස ප්‍රියන්ත වීරසූරිය මහතා අද වැඩ භාර ගැනීමට නියමිතය. ඔහු පොලිස් කොස්තාපල්වරයෙක් ලෙස පොලිස් සේවයට එක්ව පොලිස්පති තනතුර දක්වා ඉහළට පැමිණි පුද්ගලයෙකි. පොලිස් කොස්තාපල්වරයෙක්, උප පොලිස් පරීක්ෂකවරයෙක් හා සහකාර පොලිස් අධිකාරීවරයෙක් ලෙස ඒ මහතා ක්‍රම තුනෙන්ම පොලිස් සේවය හරහා ඉදිරියට පැමිණි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/8b7dfe6e.json)
+
+---
+
+### Sri Lanka central bank swaps rise as net foreign exchange reserves fall amid rate cuts
+
+*2025-08-14 08:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-swaps-rise-as-net-foreign-exchange-reserves-fall-amid-rate-cuts-236170/) · `en`
+
+ECONOMYNEXT – Swap contracts between Sri Lanka’s central bank and domestic market participants have continued to rise as ‘reserves’ were shown with derivative contracts, official data show.
+
+Sri Lanka’s gross official reserves (some of which also contain fiscal balances from the International Monetary Fund and other disbursements which are used to repay debt), and monetary reserves built by the central bank from current inflows with deflationary policy.
+
+Sri Lanka gross reserves which hit 5,531 million dollars in March fell to 6,144 million dollars by July though there was an increase from 6,080 in June.
+
+Meanwhile net reserves after swaps fell from 2,799 million dollars in March to 2,210 million in June.
+
+From December 2024 to June 2025, gross reserves fell from 6,122 million dollars to 6,080 million and swaps went up from 3,548 million dollars to 3,870 million dollars. Reserves after swaps down from 2,574 million dollars to 2,210 million dollars.
+
+...
+
+[Data](articles/8639fa36.json)
+
+---
+
 ### Gunshots fired into air in front of house in Muthuhenawatte
 
 *2025-08-14 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111450/gunshots-fired-into-air-in-front-of-house-in-muthuhenawatte) · `en`
@@ -617,6 +753,30 @@ Based on survivor accounts, about 95 migrants left Libya on two boats, Internati
 ...
 
 [Data](articles/44d5a0dc.json)
+
+---
+
+### Sri Lanka Nations Trust Bank net up 11-pct in June quarter
+
+*2025-08-14 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-nations-trust-bank-net-up-11-pct-in-june-quarter-236159/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Nations Trust Bank grew 11 percent from a year ago to 4.7 billion rupees helped by higher net interest income, and lower provisions, interim accounts show.
+
+NTB reported earnings of 14.24 rupees for the quarter. For the six months to June, NTB reported earnings of 26.59 rupees on total profits of 8.7 billion rupees, which were up 10 percent.
+
+Net fee and commission income edged up 1 percent to 2,049 billion rupees.
+
+Gains from trading was down 13 percent to 1.15 billion rupees. Other operating income was a loss of 759 million rupees. Up from 507 million.
+
+NTB group interest income grew 11 percent to 17.4 billion rupees, interest expenses fell 14 percent to 7.74 billion rupees, allowing net interest income to rise 9 percent to 9.7 billion rupees.
+
+Loan loss provisions fell to 144 million rupees from 419 million.
+
+Loans and advances grew 26 percent in the six months to June to 361 billion rupees and debt instruments fell 8 percent to 89.3 billion rupees.
+
+...
+
+[Data](articles/129a247a.json)
 
 ---
 
@@ -1077,6 +1237,26 @@ At standalone bank level, net interest income fell 8 percent to 50.1 billion rup
 ...
 
 [Data](articles/9e416d65.json)
+
+---
+
+### Sri Lanka’s Hatton National Bank net up 37-pct in June quarter
+
+*2025-08-13 23:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-net-up-37-pct-in-june-quarter-236153/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent from a year ago to 11.74 billion rupees, helped by loan loss reversals and depreciation gains, despite a fall in net interest income, interim accounts show.
+
+HNB group reported earnings of 20.54 rupees for the quarter. In the six months to June HNB reported earnings of 39.25 rupees on total profits of 22.4 billion rupees, which grew 42 percent.
+
+Net fee income and commission income grew 20 percent to 5.7 billion rupees with card use and digital transactions contributing, the bank said.
+
+Rupee depreciation had helped boost forex income to 2.8 billion rupees in the half year.
+
+At standalone bank level, net interest income fell 8 percent to 50.1 billion rupees in the June quarter with interest income falling 8 percent to 50.1 billion rupees and interest expenses also falling 8 percent to 28.2 billion rupees.
+
+...
+
+[Data](articles/c1186c4e.json)
 
 ---
 
@@ -1557,173 +1737,5 @@ About a year ago, after undergoing treatment and being released back into the wi
 ...
 
 [Data](articles/432bff45.json)
-
----
-
-### அனைத்து அருங்காட்சியகங்களும் திங்கட்கிழமைகளில் பூட்டு
-
-*2025-08-13 19:08:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-அருங்காட்சியகங்களும்-திங்கட்கிழமைகளில்-பூட்டு/175-362859) · `ta`
-
-கொழும்பு தேசிய அருங்காட்சியகம் உட்பட தேசிய அருங்காட்சியகங்கள் திணைக்களத்தின் கீழ் உள்ள அனைத்து அருங்காட்சியகங்களும் செப்டம்பர் 1, 2025 முதல் திங்கட்கிழமைகளில் மூடப்படும் என்று தேசிய அருங்காட்சியகங்கள் திணைக்களம் அறிவித்துள்ளது.
-
-சுதந்திர தினம், சிங்கள மற்றும் இந்து புத்தாண்டின் இரண்டு நாட்கள், மே தினம் மற்றும் வெசாக் போயா தினம் ஆகிய நாட்களில் அருங்காட்சியகங்கள் மூடப்படும் என்று அதில் கூறப்பட்டுள்ளது.
-
-தேசிய அருங்காட்சியகம் மற்றும் இயற்கை வரலாற்று அருங்காட்சியகம் மற்ற நாட்களில் காலை 9.00 மணி முதல் மாலை 6.00 மணி வரை திறந்திருக்கும் என்றும், மாகாண அருங்காட்சியகங்கள் காலை 9.00 மணி முதல் மாலை 5.00 மணி வரை திறந்திருக்கும் என்றும் திணைக்களம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/9240ac24.json)
-
----
-
-### “Clean Sri Lanka” initiative launched in Northern Province
-
-*2025-08-13 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111444/clean-sri-lanka-initiative-launched-in-northern-province-) · `en`
-
-The Clean Sri Lanka initiative, a flagship government programme aimed at building a thriving nation and a beautiful life, was launched in the Northern Province today (13), with a district-level event in Jaffna.
-
-The launch coincided with the grand festival at the historic Nallur Kandaswamy Kovil, the President’s Media Division (PMD) said.
-
-Held under the theme “To Jaffna with Love – Clean Voyage of Unity”, the programme will run until August 20.
-
-As part of its awareness drive, a special promotional event took place aboard the iconic Yal Devi train, which departed Colombo for Jaffna at 6:40 a.m. today.
-
-The ceremonial launch at Colombo Fort Railway Station was attended by Mr. Russel Aponso, Senior Additional Secretary to the President, the PMD added.
-
-The initiative seeks to raise public awareness about the Clean Sri Lanka concept, encourage respect for public property and promote ethical values.
-
-...
-
-[Data](articles/ab3b47a2.json)
-
----
-
-### දරුවන් ඉදිරියේ පියාට තැබූ වෙඩිල්ල ගැන තවත් තොරතුරු
-
-*2025-08-13 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213339) · `si`
-
-මිනුවන්ගොඩ කොටුගොඩ ප්‍රදේශයේදී නාඳුනන වෙඩික්කරුවන් දෙදෙනකු පුද්ගලයකු ඉලක්ක කර අද (13) පස්වරුවේ වෙඩිතැබීමක් සිදුකර තිබුණි.
-
-ඔවුන්ගේ ඉලක්කය වී තිබුණේ දිලීප ලක්මාල් හෙවත් 'පස් දිලීප' නමින් හඳුන්වන පුද්ගලයෙකුවය.
-
-ඔහුගේ කුඩා දරුවන් ඉදිරිපිට මෙම වෙඩිතැබීම සිදුවී ඇති අතර නිවැසියන් පවසන්නේ ආරක්ෂක අංශ භාවිත කරන ශාරීරික සුවතා ඇඳුමට සමාන ඇඳුමකින් සැරසී වෙඩික්කරුවන් පැමිණි බවය.
-
-අද දහවල් 2:30ට පමණ යතුරුපැදියකින් පුද්ගලයන් දෙදෙනකු මිනුවන්ගොඩ කොටුගොඩ ප්‍රදේශයේ අදාළ නිවස වෙත පැමිණ තිබුණි.
-
-ඔවුන් එහි යනවිට දිලීප ලක්මාල් හෙවත් පස් දිලීප නමින් හඳුන්වන තැනැත්තා, ඔහුගේ මිතුරෙක් සහ බිරිඳ නිවස ඉදිරිපිට සිට ඇති අතර ඔහුගේ දරුවන් තිදෙනෙකු මිදුලේ සිට ඇත.
-
-එම අවස්ථාවේ පස් දිලීප ඉලක්ක කර වෙඩිතැබීමට යතුරුපැදියේ පැමිණි පුද්ගලයන් දෙදෙනා උත්සාහ කළද එය ව්‍යාර්ථ වීමත් සමඟ ඔවුන් පලා ගොස් තිබුණි.
-
-මෙම සිද්ධිය වන අවස්ථාවේ පස් දිලීපගේ දරුවන් තිදෙනාද මිදුලේ සෙල්ලම් කරමින් සිට ඇති අතර වෙඩිතැබීම සිදුවී ඇත්තේ ඔවුන් ඉදිරිපිටදීය.
-
-වෙඩිතැබීම අසාර්ථක වූ පසු වෙඩික්කරුවන් පලායන ආකාරය අසල තිබූ සීසීටීවී කැමරාවක සටහන්වී තිබේ.
-
-...
-
-[Data](articles/4803012a.json)
-
----
-
-### முத்தையன்கட்டு சம்பவம் : தவறு செய்தால் யார் என்றாலும் அவர்களை நீதியின் முன் நிறுத்துவது எமது பொறுப்பாகும் - ஆனந்த விஜேயபால
-
-*2025-08-13 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/222524) · `ta`
-
-முல்லைத்தீவு முத்தையன்கட்டு இராணுவ முகாமில் இடம்பெற்ற சம்பவம் தொடர்பாக நீதியான விசாரணை இடம்பெற்றுவருகின்றது தவறு செய்தால் யார் என்றாலும்  அவர்களை நீதியின் முன் நிறுத்துவது எமது பொறுப்பாகும் பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேயபால தெரிவித்தார்.
-
-மட்டக்களப்பு மாவட்ட அபிவிருத்தி குழு கூட்டம் புதன்கிழமை (13) பழைய கச்சேரி மண்டபத்தில் அபிவிருத்திகுழு தலைவர் அமைச்சர் சுனில் ஹந்தி நெத்தி தலைமையில் இடம்பெற்றது இதில் கலந்துகொண்ட பின்னர்  பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேயபால ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இல்வாறு தெரிவித்தார்.
-
-முல்லைத்தீவு முத்தையன்கட்டு இராணுவமுகாமில் இளைஞர்கள்  ஒருவர் உயிரிழந்த சம்பவம்  ஊடகவியலாளர் மற்றும் பொதுமக்கள்அனைவருக்கும் தெரியும் அவர்கள் அனுமதியின்றி உள்ளே நுழைந்தது என.
-
-...
-
-[Data](articles/cc54c150.json)
-
----
-
-### කතරගම බස්නායක නිලමේ තවත් වසරකට පත්කරන්නැයි ජනපතිට ඉල්ලීමක්
-
-*2025-08-13 18:59:31* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-බස්නායක-නිලමේ-තවත්-වසරකට-පත්කරන්නැයි-ජනපතිට-ඉල්ලීමක්/11-417902) · `si`
-
-කතරගම බස්නායක නිලමේවරයාගේ ධුර කාලය ලබන මස 25 වැනිදායින් අවසන් වීමට නියමිතව තිබෙන බැවින් නැවත පත් කර ගැනීමක් නොකළ හොත් ඉන් අනතුරුව පවත්වන නිලවරණයකට ඔහු සහභාගි නොවන බව ප්‍රකාශ කිරීමෙන් පසු  ඔහු නැවත වසර පහකට පත් කර දෙන මෙන් ඉල්ලා සන්දේශයක් අත්සන්කර ජනාධිපතිවරයාට භාරදීමට කටයුතු කරන බව සංවිධාන කිහිපයක නියෝජිතයෝ කියති.
-
-මේ වන විටත් ස්විච්ඡා සංවිධාන ඇතුළු වෙළෙඳ සංගම් 25 කට ආසන්න ගණනක් ලිපි ලබාදෙමින් බස්නායක නිලමේවරයා තවත් වසර පහකට පත්කර දෙන ලෙස ජනාධිපතිවරයාට ඉල්ලීම් ලිපි ලබාදී තිබෙන බව වෙළෙඳ සංගම් නියෝජිතයෝ පවසති.
-
-අත්සන් ලේඛනයට අත්සන් තැබීම සඳහා පැමිණි අය පවසා සිටියේ කතරගම දේවාලයට පැමිණි නිලමේවරුන්ගෙන් විශාල සේවාවක් ඉටුකරමින් රටට දෑයට යුතුකම් ඉටුකළ නිලමේවරයා ඔහු බවය.
-
-...
-
-[Data](articles/4b06e756.json)
-
----
-
-### බදු ආදායමේ කැපී පෙනෙන වර්ධනයක්
-
-*2025-08-13 18:42:16* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ආදායමේ-කැපී-පෙනෙන-වර්ධනයක්/11-417901) · `si`
-
-මෝටර් රථ ආනයන නීති ලිහිල් කිරීමෙන් පසු 2025 පළමු භාගයේ දී ශ්‍රී ලංකාව වාහන ආනයන තීරු බදු ලෙස රුපියල් බිලියන එකසිය විසි නවයක් රැස්කර ඇති අතර පසුගිය (2024) වසරේ එම අගය රුපියල් බිලියන 29.6 ක් බව මුදල් අමාත්‍යාංශය මගින් (12/8) නිකුත් කරන ලද මහ බැංකු වාර්තාවකින් පෙන්වා දෙයි.
-
-මේ අතර සිගරැට් සඳහා වන බද්ද සීයට17 කින් පහත වැටී රුපියල් බිලියන 44 වී ඇති බව මහ බැංකු වාර්තාවල සඳහන් වේ.මිල ඉහළ යාම හේතුවෙන් නීති විරෝධී සිගරැට් ජාවාරම ප්‍රවර්ධනය වී ඇති අතර දුම් පානය කරන අය බීඩි, ගංජා කොළ එතූ සිගරැට් ආදියට මාරුවීමද ඊට හේතු වී ඇතැයි කියයි.
-
-ඛනිජ තෙල්වලින් ලැබෙන බදු ආදායම 2024 වසරේ රුපියල් බිලියන 97 සිට 2025 වර්ෂයේ ජුනි මස 30 දක්වා රුපියල් බිලියන 112 දක්වා සීයට15.5 කින් ඉහළ ගොස් ඇත.
-
-මත්පැන් සඳහා වන සුරා බද්ද 2024 .01.01 සිට 2024.12.31 දක්වා කාලය තුළ 99.1 සිට 2025 වර්ෂයේ ජුනි මස 30 දක්වා කාලය තුළ රුපියල් බිලියන 108.2 සක්වා 9.2] කින් ඉහළ ගොස් තිබේ.
-
-◼️
-
-[Data](articles/227747f2.json)
-
----
-
-### වාහන ආනයනයෙන් ඩොලර් බිලියනය ඉක්මවූ ආදායමක්
-
-*2025-08-13 18:35:59* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනයෙන්-ඩොලර්-බිලියනය-ඉක්මවූ-ආදායමක්/11-417900) · `si`
-
-වාහන ආනයනයෙන් වර්තමානය වන විට 72%ක ඉලක්කයක් සපුරාගෙන අවසන් බව රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
-
-ඒ අනුව මෙම වසර අසන් වන විට  ඇමරිකානු ඩොලර් බිලියනය ඉක්ම වූ ඉලක්කගත අදායමක් ලබා ගත හැකි බව එහිදී අදහස් පළ කරමින් භාණ්ඩාගාර නියෝජ්‍ය ලේකම් ඒ.කේ.සෙනෙවිරත්න මහතා පැවසීය.
-
-රජයේ මුදල් පිළිබඳ කාරක සභාව වැඩබලන සභාපති පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මේ බව අනාවරණය විය.
-
-කමිටු සාමාජිත පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – දැන් වාහන කීයක් විතර ඇවිල්ලා තිබෙනවාද? අපේ ටාගට් එක ළං වෙලාද?  අපි ලබාගෙන තිබෙන  මුළු ආදායම කොපමණද?
-
-රාජ්‍ය මුල්‍ය ප්‍රතිපත්ති දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් කපිල සේනානායක  - මුළු ආදායම අගෝස්තු 05 වැනිදා වෙද්දි රුපියල් බිලියන 316යි. ඒක ඇස්තමේන්තු මුදලින් 72%ක් පමණ වෙනවා.
-
-භාණ්ඩාගාර නියෝජ්‍ය ලේකම් ඒ.කේ.සෙනෙවිරත්න – අගෝස්තු 06 වැනිදා වෙනකන් එල්.සී. විවෘත කරලා තියෙනවා 1278ක්. වාහන 172, 292ට. ආදායම ඇවිත් තිබෙනවා රුපියල් බිලියන 321ක්.
-
-කමිටු සාමාජික නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ – ඒ ඇවිල්ලා තියෙන්නේ ආපු වාහනවලින්නේ?
-
-...
-
-[Data](articles/0349d56c.json)
-
----
-
-### සහස්ධනවි බලාගාරයේ ගාස්තුව ගැන පැහැදිලි කිරීමක්
-
-*2025-08-13 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213338) · `si`
-
-සහස්ධනවි බලාගාරය සමතුලිත ගාස්තුව පිළිබඳව පැතිර යන ප්‍රචාර සම්බන්ධයෙන් එම ආයතනය කරුණු පැහැදිලි කරමින් මාධ්‍ය නිවේදනයක් නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/f0dc6a93.json)
-
----
-
-### Ravindra Pathmapriya assumes duties as General Manager of Sri Lanka Railways
-
-*2025-08-13 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111443/ravindra-pathmapriya-assumes-duties-as-general-manager-of-sri-lanka-railways) · `en`
-
-Ravindra Pathmapriya, a Special Grade Officer of the Sri Lanka Administrative Service, has assumed duties as the General Manager of Sri Lanka Railways.
-
-He had served as the Director General of the Department of Information Technology Management at the Ministry of Finance, Planning & Economic Development since August 1, 2022.
-
-On August 12, the Cabinet of Ministers granted approval for the removal of Dhammika Jayasundara from his position as the General Manager of Sri Lanka Railways.
-
-Minister of Transport Bimal Rathnayake had recently submitted a special proposal to the Cabinet seeking his removal from the post.
-
-◼️
-
-[Data](articles/0ff7286b.json)
 
 ---

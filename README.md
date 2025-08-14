@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 05:31:44**
+As of **2025-08-14 06:10:12**
 
 ## Newspaper Stats
 
-*Scraped **70,380** Articles*
+*Scraped **70,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 718
 economynextcom | 4,290
-islandlk | 4,308
+islandlk | 4,320
 dailymirrorlk | 4,733
-dailyftlk | 4,938
+dailyftlk | 4,947
 adalk | 6,788
 adaderanalk | 8,778
 tamilmirrorlk | 10,345
@@ -26,11 +26,147 @@ adaderanasinhalalk | 12,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.1%) of 70,380 articles have been extended.
+61,973 (88.0%) of 70,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### How inclusive design strategies can transform Sri Lankan banking experience
+
+*2025-08-14 05:43:00* · [`dailyftlk`](https://www.ft.lk/columns/How-inclusive-design-strategies-can-transform-Sri-Lankan-banking-experience/4-780244) · `en`
+
+Sri Lanka’s digital banking market is projected to reach $ 1.21 billion by 2029, but there’s a substantial customer segment that remains largely untapped. Whilst banks focus on attracting tech-savvy millennials, they’re overlooking 1.6 million people with disabilities and 12.3% of the population aged 60 or older, demographics that represent not just social responsibility, but significant revenue potential.
+
+Consider this: a successful businessman in Colombo with visual impairment struggles to complete basic banking transactions online, eventually switching to a competitor with better accessible services. His frustration isn’t unique – it represents a systematic failure to capture market share from underserved customer segments.
+
+...
+
+[Data](articles/4e7a9bb3.json)
+
+---
+
+### Ambeon Group reports strong Q1 performance with significant profit growth
+
+*2025-08-14 05:39:13* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Group-reports-strong-Q1-performance-with-significant-profit-growth/34-780243) · `en`
+
+Says diversified portfolio and strategic agility propelled Q1 2025/26 results
+
+Group Chief Executive Officer and Executive Director Dr. Sajeeva Narangoda
+
+Ambeon Capital PLC, the investment holding company of the Ambeon Group has reported a Profit After Tax (PAT) of Rs. 731 million marking a significant profit growth compared to Rs. 83 million a year ago.
+
+Ambeon Holdings PLC the group’s principal operating subsidiary which is a leading diversified conglomerate with core operations across Information Technology, Financial Services, Real Estate, and Strategic Investments, reported a Profit After Tax (PAT) of Rs. 677 million, marking a remarkable improvement compared to Rs. 183 million reported in the same period last year. This growth was primarily driven by fair value gains from strategic investments, demonstrating the Group’s strategic agility and ability to deliver consistent returns despite market volatility.
+
+...
+
+[Data](articles/72e12548.json)
+
+---
+
+### EDB strengthens global trade network with strategic diplomatic appointments
+
+*2025-08-14 05:36:58* · [`dailyftlk`](https://www.ft.lk/business/EDB-strengthens-global-trade-network-with-strategic-diplomatic-appointments/34-780242) · `en`
+
+The Sri Lanka Export Development Board (EDB) recently held a strategic meeting with 15 newly appointed diplomatic representatives, aimed at strengthening the country’s export capabilities and enhancing market penetration across diverse international regions.
+
+...
+
+[Data](articles/a557dec0.json)
+
+---
+
+### Vietnam’s ROX Group eyes land for industrial zone in Sri Lanka
+
+*2025-08-14 05:35:17* · [`dailyftlk`](https://www.ft.lk/business/Vietnam-s-ROX-Group-eyes-land-for-industrial-zone-in-Sri-Lanka/34-780241) · `en`
+
+ROX Group’s 14 industrial parks in Vietnam attracted $ 3.5 b in FDI
+
+President Anura Kumara Disanayake on Tuesday (12) met senior executives of Vietnam’s ROX Group in Colombo to discuss potential investments in an industrial zone, the President’s Media Division (PMD) said in a statement.
+
+The delegation, led by ROX Group Advisory Board Chairman and Maritime Commercial Joint Stock Bank Chairman Tran Anh Tuan, expressed interest in establishing an industrial zone in Sri Lanka. The group is also exploring opportunities in renewable energy and real estate, the PMD statement said.
+
+Privately held ROX Group, formerly TNG Holding Vietnam, was founded in 1996 and operates across urban and industrial park development, real estate leasing, trade, hospitality, energy, and banking. The company lists its business size at about $ 1.3 billion on its website, without specifying whether the figure refers to revenue.
+
+...
+
+[Data](articles/cccaad8b.json)
+
+---
+
+### Colombo Dockyard delivers “Misje Lily” 5000 DWT Eco Bulk Carrier to Norway
+
+*2025-08-14 05:34:07* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-delivers-Misje-Lily-5000-DWT-Eco-Bulk-Carrier-to-Norway/34-780240) · `en`
+
+Colombo Dockyard Managing Director/CEO Thimira Godakumbura (left) and Roald Misje exchanging delivery protocols
+
+Colombo Dockyard PLC (CDPLC) recently delivered the eighth vessel in the 5000 DWT Eco Bulk Carrier series, named “Misje Lily,” to Misje Eco Bulk AS of Norway, marking another milestone in this successful long-term collaboration.
+
+Following the handover of the first vessel in September 2022, CDPLC has continued to deliver each ship in the series with increasing efficiency. The completion of Misje Lily once again demonstrates Colombo Dockyard’s ability to meet international standards.
+
+...
+
+[Data](articles/a9664d59.json)
+
+---
+
+### Sri Lanka has opportunity to break from past: Türk
+
+*2025-08-14 05:29:38* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-has-opportunity-to-break-from-past-Türk/56-780238) · `en`
+
+A report published yesterday by the UN Human Rights Office called on Sri Lanka’s Government to seize the historic opportunity to break with entrenched impunity, implement transformative reforms, and deliver long-overdue justice and accountability for serious violations and abuses committed in the past, including international crimes.
+
+“Today, an opportunity presents itself for Sri Lanka to break from the past, with the leadership pledging a fresh direction on longstanding issues, including delivering justice to victims, restoring the rule of law, and eliminating discrimination and divisive politics. It now needs a comprehensive roadmap to translate these commitments into results,” said UN High Commissioner for Human Rights Volker Türk.
+
+...
+
+[Data](articles/cb75bbdf.json)
+
+---
+
+### Priyantha Weerasooriya appointed new IGP
+
+*2025-08-14 05:27:44* · [`dailyftlk`](https://www.ft.lk/news/Priyantha-Weerasooriya-appointed-new-IGP/56-780237) · `en`
+
+President Anura Kumara Disanayake has appointed Senior Deputy Inspector General of Police (IGP) Attorney-at-Law Priyantha Weerasooriya, as the new Inspector General of Police. The letter of appointment was handed over to Weerasooriya yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/67af74ee.json)
+
+---
+
+### Ancient Vedda Heritage Museum in Dambana gets new life through EU-funded revival project
+
+*2025-08-14 05:26:27* · [`dailyftlk`](https://www.ft.lk/news/Ancient-Vedda-Heritage-Museum-in-Dambana-gets-new-life-through-EU-funded-revival-project/56-780236) · `en`
+
+Transformative reconstruction brings 300-year-old artefacts home and creates sustainable livelihoods for Sri Lanka’s last forest-dwelling indigenous community
+
+The centuries-old cultural heritage of Sri Lanka’s indigenous Vedda people has been given a remarkable new lease on life with the comprehensive reconstruction of the Vedda Heritage Museum in Dambana. The ambitious project, spearheaded by Solidaridad, through the European Union (EU) funded Developing Resources and Empowering Communities (DeREC) initiative, represents a ground-breaking approach to cultural preservation and community development.
+
+The Vedda community, recognised as Sri Lanka’s last remaining forest-dwelling indigenous group, has faced mounting economic and environmental pressures in recent years. The museum’s revival addresses these challenges while safeguarding invaluable cultural traditions that span millennia.
+
+...
+
+[Data](articles/f0d8dd92.json)
+
+---
+
+### Indian Navy-Sri Lanka Navy maritime exercise SLINEX-2025
+
+*2025-08-14 05:24:47* · [`dailyftlk`](https://www.ft.lk/news/Indian-Navy-Sri-Lanka-Navy-maritime-exercise-SLINEX-2025/56-780235) · `en`
+
+The 12th Edition of annual Indian Navy (IN) - Sri Lanka Navy (SLN) bilateral maritime exercise SLINEX-2025 is scheduled at Colombo from 14 to 18 August.
+
+The exercise will be conducted in two phases; the Harbour Phase at Colombo from 14 to 16 August followed by Sea Phase from 17 to 18 August off Colombo. The Indian Navy will be represented by INS Jyoti (Fleet Tanker) and INS Rana (Destroyer) whist Sri Lanka Navy will have SLNS Vijayabahu (Advance Offshore Patrol Vessel) and SLNS Sayura (OPV). In addition, Sri Lanka Air Force BEL 412 helicopters would also participate in the exercise.
+
+The exercise will also have the Special Forces of the two navies undertake the IN-SLN SF exercise. The previous edition of SLINEX was conducted in Visakhapatnam from 17 to 20 December 2024.
+
+...
+
+[Data](articles/ad0f7b86.json)
+
+---
 
 ### ஏற்றுமதி அபிவிருத்தி அமைச்சர்கள் சபையின் கலந்துரையாடல்
 
@@ -143,6 +279,126 @@ At standalone bank level, net interest income fell 8 percent to 50.1 billion rup
 ◼️
 
 [Data](articles/a5a828ad.json)
+
+---
+
+### Glowing Skin made easy …
+
+*2025-08-13 22:56:00* · [`islandlk`](http://island.lk/glowing-skin-made-easy/) · `en`
+
+Hey, here are some simple Beauty Tips to give your skin a radiant look.
+
+Blend the tomato into a smooth pulp and then mix in the honey until you get a uniform paste.
+
+Apply the mask to your face, leave it on for 15-20 minutes, and then rinse with lukewarm water and pat dry.
+
+You will need 01 ripe tomato, and 01 teaspoon of lemon juice.
+
+Mash the tomato and mix with lemon juice, and then apply the mixture to your face, focusing on areas with dark spots or uneven skin tone.
+
+You will need 01 ripe tomato, and 01 tablespoon of plain yoghurt.
+
+Blend the tomato and mix with the yoghurt to form a creamy mask.
+
+Apply to your face, leave it on for 15 minutes, and then rinse with cool water.
+
+You will need 01 ripe tomato, and 02 tablespoons of fresh aloe vera gel.
+
+Blend the tomato into a smooth pulp and then mix the aloe vera gel with the tomato pulp.
+
+Apply to your face, let it sit for 20 minutes, and then rinse off and follow with a moisturiser.
+
+...
+
+[Data](articles/3aacde3d.json)
+
+---
+
+### PFEC Global opens doors to global education
+
+*2025-08-13 22:46:00* · [`islandlk`](http://island.lk/pfec-global-opens-doors-to-global-education/) · `en`
+
+PFEC Global, a leading study abroad consultant, is giving Sri Lankan students the ticket to studying abroad by organising the World Study Fair on 15th August 2025 from 2pm to 6pm at the Hilton Hotel, Colombo 02.
+
+The World Study Fair will feature top-ranked institutions from Australia, UK, and Canada, providing a diverse array of academic pathways. It presents a wonderful opportunity for high school students to explore their degree studies options abroad, while current university students can map out their postgraduate studies abroad as well. Parents of such students are also welcome as they get to interact with experts in the field to get first-hand information on their children’s study abroad plans.
+
+Students visiting World Study Fair can enjoy multiple benefits. They will have the opportunity to explore a wide range of academic courses and study destinations across Australia, Canada, and the United Kingdom, allowing them to compare and select the most suitable options.
+
+...
+
+[Data](articles/b48cef5c.json)
+
+---
+
+### ICC breaks ground on ‘The Residencies Kohuwala’ ~ a new benchmark in urban living ~
+
+*2025-08-13 22:45:00* · [`islandlk`](http://island.lk/icc-breaks-ground-on-the-residencies-kohuwala-a-new-benchmark-in-urban-living/) · `en`
+
+International Construction Consortium (ICC), announces the groundbreaking of its latest residential project, “The Residencies Kohuwala”. Set in one of Colombo’s most dynamic and connected neighborhoods, this new development is poised to redefine city living with smart design, premium amenities, and ICC’s signature quality.
+
+As both developer and contractor, ICC brings a unique commitment to excellence, delivering what is promised, on time, and without compromise. This dual expertise continues to set ICC apart in the real estate landscape, ensuring each project is completed with precision, integrity, and long term value.
+
+The launch of The Residencies Kohuwala comes as ICC celebrates significant milestones across its other flagship projects:
+
+...
+
+[Data](articles/4d2ebf86.json)
+
+---
+
+### 99x reports breakthrough market traction for its new agentic AI platform
+
+*2025-08-13 22:44:00* · [`islandlk`](http://island.lk/99x-reports-breakthrough-market-traction-for-its-new-agentic-ai-platform/) · `en`
+
+99x, a global technology services leader, has made significant strides in the field of Agentic AI, securing multiple high-impact engagements powered by its proprietary orchestrator platform, Xians.ai (Agentri AI). These engagements span a diverse range of industries including financial services, legal, insurance, transportation, and accounting, validating the adaptability and commercial viability of 99x’s Agentic AI solutions.
+
+“Generative AI is a phenomenal leap, but its true value is unlocked through business process orchestration getting multiple AI agents to work together toward complex business goals,” said Hasith Yaggahavita, CEO of 99x Product Engineering. “We couldn’t find a powerful enough orchestrator that met our needs, so we built our own. The fact that many of our sophisticated clients have now adopted xians.ai as their orchestrator of choice is an exciting endorsement of our vision and capabilities.”
+
+...
+
+[Data](articles/663edab6.json)
+
+---
+
+### First Capital Holdings reports robust Q1 FY2025/26 performance with Rs. 2.15Bn Profit after Tax
+
+*2025-08-13 22:43:00* · [`islandlk`](http://island.lk/first-capital-holdings-reports-robust-q1-fy2025-26-performance-with-rs-2-15bn-profit-after-tax/) · `en`
+
+First Capital Holdings PLC (the Group), a subsidiary of JXG (Janashakthi Group) and a pioneering full-service investment institution, announced its financial results for the first quarter ended 30 June 2025, reporting a Profit after Tax (PAT) of Rs. 2.15Bn, a substantial increase from Rs. 582Mn recorded in the corresponding period of the previous year. This strong performance reinforces the Group’s position as a leading investment institution in Sri Lanka, driven by strategic market alignment and sectoral diversification.
+
+The Group’s Net Trading Income before Operating Expenses stood at Rs. 3.40Bn, up from Rs. 1.12Bn in the same quarter of last year, reflecting effective execution in a favourable market shaped by a moderate decline in interest rates following a reduction in the monetary policy rate.
+
+...
+
+[Data](articles/44114c5f.json)
+
+---
+
+### ‘SL committed to forging effective global plastic treaty’
+
+*2025-08-13 22:42:00* · [`islandlk`](http://island.lk/sl-committed-to-forging-effective-global-plastic-treaty/) · `en`
+
+Environment Minister Dr. Dhammika Patabendi has underlined Sri Lanka’s commitment to forging a strong and effective global plastic treaty, while stressing that only decisive international cooperation can address the scale of the crisis.
+
+Speaking in Geneva at the ministerial-level roundtable of the second part of the Fifth Session of the Intergovernmental Negotiating Committee on Plastic Pollution (INC-5.2), the minister said Sri Lanka is already implementing ambitious national strategies, but faces constraints that make global solidarity indispensable.
+
+The INC-5.2 session, taking place from August 5 to 14, 2025, brings together environment ministers, negotiators, and experts from around the world to craft a legally binding international instrument aimed at ending plastic pollution. Sri Lanka’s delegation, led by Dr. Patabendi and Ministry Secretary Rohitha Uduwawala, includes two representatives from the Central Environmental Authority.
+
+...
+
+[Data](articles/2759ea27.json)
+
+---
+
+### Stock investors struggle to reach 20,000 ASPI points; ‘psychological factors’ at play
+
+*2025-08-13 22:41:00* · [`islandlk`](http://island.lk/stock-investors-struggle-to-reach-20000-aspi-points-psychological-factors-at-play/) · `en`
+
+The CSE indicated mixed reactions yesterday as local and foreign investors struggled to raise 20000 All Share Price Index points due to certain psychological barriers prevailing among them. However, a few weeks ago the All Share Price Index rose to that point but now the investors are struggling to reach that target, market analysts said.
+
+...
+
+[Data](articles/61d48f24.json)
 
 ---
 
@@ -982,6 +1238,20 @@ A bond maturing on 15.09.2034 closed at 10.74/85 percent, down from 10.75/85 per
 
 ---
 
+### President chairs second meeting of the Export Development Council of Ministers
+
+*2025-08-13 16:21:00* · [`islandlk`](http://island.lk/president-chairs-second-meeting-of-the-export-development-council-of-ministers/) · `en`
+
+The second meeting of the Export Development Council of Ministers (EDCM) was held on Tuesday(12) under the patronage of President Anura Kumara Dissanayake at the Presidential Secretariat.
+
+The discussions focused on reviewing the decisions taken at the previous meeting, addressing challenges in achieving the Government’s target of increasing export earnings to US $ 36 billion by 2030, and identifying potential solutions and considering related proposals.
+
+...
+
+[Data](articles/a6086ff3.json)
+
+---
+
 ### NIMH பதில் பிரதி பணிப்பாளருக்கு நீதிமன்றம் வழங்கிய உத்தரவு
 
 *2025-08-13 16:18:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NIMH-பதில்-பிரதி-பணிப்பாளருக்கு-நீதிமன்றம்-வழங்கிய-உத்தரவு/175-362851) · `ta`
@@ -1507,301 +1777,5 @@ A few days before the incident, he had lodged a complaint with the Meegoda Polic
 ...
 
 [Data](articles/5fe12b53.json)
-
----
-
-### 14 கோடி ரூபாய் மோசடி: ஜோடி கைது
-
-*2025-08-13 13:50:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-கோடி-ரூபாய்-மோசடி-ஜோடி-கைது/175-362844) · `ta`
-
-பெறப்பட்ட பணத்தை திருப்பித் தராமல் வெற்று காசோலைகளை வழங்கி பொதுமக்களிடம் 140 மில்லியன் ரூபாயை மோசடி செய்த திருமணமான தம்பதியினர் கைது செய்யப்பட்டுள்ளதாக குற்றப் புலனாய்வுத் துறை தெரிவித்துள்ளது.
-
-கைது செய்யப்பட்ட சந்தேக நபர்களில் ஒருவர், வவுனியா பொது மருத்துவமனையில் மருத்துவ ஆய்வக தொழில்நுட்ப வல்லுநர் என்று பொலிஸார் தெரிவிக்கின்றனர்.
-
-வணிக நோக்கங்களுக்காகக் கூறி பொதுமக்களிடம் பணத்தை மோசடி செய்ததாக குற்றப் புலனாய்வுத் துறையின் வணிக குற்றப் புலனாய்வுப் பிரிவு 2 க்கு கிடைத்த புகாரைத் தொடர்ந்து சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-சந்தேக நபர்கள் 47-49 வயதுக்குட்பட்டவர் மற்றும் வவுனியாவின் பண்டாரி குளத்தில் வசிப்பவர்கள் ஆவர்.
-
-◼️
-
-[Data](articles/fe272f04.json)
-
----
-
-### විපක්ෂයේ දේශපාලන පක්ෂ හෙට විශේෂ සාකච්ඡාවක
-
-*2025-08-13 13:45:05* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-දේශපාලන-පක්ෂ-හෙට-විශේෂ-සාකච්ඡාවක/11-417888) · `si`
-
-විපක්ෂයේ දේශපාලන පක්ෂවල එකතුවෙන් විශේෂ සාකච්ඡාවක් හෙට (14දා) දිනයේදී පැවැත්වීමට සැලසුම් කර තිබේ.
-
-විපක්ෂයේ දේශපාලන පක්ෂවල එකමුතුවක් නිර්මාණය කිරීම සඳහා මෙම සාකච්ඡාව පැවැත්වීමට නියමිත බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/fac95dc5.json)
-
----
-
-### Sri Lanka allows cannabis cultivation under strict regulations: Minister
-
-*2025-08-13 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-cannabis-cultivation-under-strict-regulations-minister-236026/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow cannabis cultivation in its export zones under strict regulations only for export purposes, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
-
-He said the government had been continuing a process started in 2004 after all the necessary approvals, including from the Cabinet of Ministers, had been granted in the past.
-
-“An institution has been established to start the expansion (of cannabis cultivation) under the Board of Investment (BOI),” Jayatissa, also the island nation’s Health Minister, told reporters on Tuesday during the weekly Cabinet media briefing.
-
-He said permission is granted for the cultivation under strict safety procedures.
-
-“This is the first time that such a situation has arisen and that the government has given the opportunity for export in this way,” he said.
-
-The cultivation will be under the strict regulations of BOI and Department of Ayurveda and they will be allowed only to export.
-
-...
-
-[Data](articles/9b091a29.json)
-
----
-
-### Govt keen to increase export earnings to US$ 36 billion by 2030
-
-*2025-08-13 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111431/govt-keen-to-increase-export-earnings-to-us-36-billion-by-2030) · `en`
-
-Another round of discussions has been held to review and address challenges in achieving the government’s target of increasing export earnings to US$ 36 billion by 2030, the President’s Media Division said.
-
-Accordingly, the second meeting of the Export Development Council of Ministers (EDCM) was held under the patronage of President Anura Kumara Dissanayake at the Presidential Secretariat.
-
-The discussions focused on reviewing the decisions taken at the previous meeting and also identifying potential solutions to challenges in achieving the targets set by the government.
-
-...
-
-[Data](articles/a3b93631.json)
-
----
-
-### நான் என்ன சும்மாவா? உலக பொலிஸ் காரன்
-
-*2025-08-13 13:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-என்ன-சும்மாவா-உலக-பொலிஸ்-காரன்/62-362843) · `ta`
-
-◼️
-
-[Data](articles/574057c7.json)
-
----
-
-### Woman flees after defrauding job seekers promising employment in Japan
-
-*2025-08-13 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111430/woman-flees-after-defrauding-job-seekers-promising-employment-in-japan) · `en`
-
-A number of complaints have been lodged against a woman from Mount Lavinia, who had defrauded people of money by claiming she could find employment in Japan.
-
-According to police, she allegedly collected large sums of money from victims, promising them two-year work visas.
-
-A person residing in Gampola reportedly made an initial payment of Rs. 500,000 to the woman in question on November 14, 2023.
-
-As the woman has neither returned the money nor taken steps to arrange employment in Japan, a complaint has been filed against her at the Mount Lavinia Police.
-
-Investigations have revealed that multiple people were defrauded in a similar manner, and the suspect has since fled the area.
-
-Meanwhile, in response to an inquiry made by Ada Derana, the Sri Lanka Bureau of Foreign Employment (SLBFE) emphasized that engaging in such activities without registering with SLBFE is a punishable offence under the law.
-
-◼️
-
-[Data](articles/8ae31ff1.json)
-
----
-
-### $2 மில்லியனைத் தாண்டிய முதல் தமிழ்ப் படம் ரஜினிகாந்தின் ‘கூலி’
-
-*2025-08-13 12:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/2-மில்லியனைத்-தாண்டிய-முதல்-தமிழ்ப்-படம்-ரஜினிகாந்தின்-கூலி/54-362842) · `ta`
-
-இந்திய நடிகர் ரஜினிகாந்த் நடிப்பில் லோகேஷ் கனகராஜின் 'கூலி' திரைப்படம் மிகப்பெரிய அளவில் திறந்துவைக்க உள்ளதாக தெரிகிறது, படத்தின் தயாரிப்பாளர்களான சன் பிக்சர்ஸ், அமெரிக்க பிரீமியர்களின் முன் விற்பனையில் தமிழ் படம் முந்தைய சாதனைகளை முறியடித்ததாக அறிவித்துள்ளது.
-
-இதன் பொருள் கூலி, லியோ மற்றும் பொன்னியின் செல்வன் அமெரிக்காவில் பிரீமியர்களுக்கான முன்கூட்டிய வசூலை முறியடித்தது மட்டுமல்லாமல், கபாலிக்கான தனது சொந்த சாதனையையும் முறியடித்துள்ளார்.
-
-வட அமெரிக்காவில் பிரீமியர் முன் விற்பனையில் $2 மில்லியனுக்கும் அதிகமான தொகையைத் தாண்டிய முதல் தமிழ் படம் கூலி என்று சன் பிக்சர்ஸ் தங்கள் சமூக ஊடகங்களில் அறிவித்துள்ளது.
-
-வட அமெரிக்காவில் பிரீமியர் முன் விற்பனையில் $2 மில்லியனைத் தாண்டிய முதல் தமிழ் படம் கூலி.  உலகளவில்  ஆகஸ்ட் 14 ஆம் திகதி வெளியாகிறது
-
-...
-
-[Data](articles/831481e7.json)
-
----
-
-### ராவணனின் விமானங்களை மீட்கும் திட்டத்துக்கு மறுப்பு
-
-*2025-08-13 12:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராவணனின்-விமானங்களை-மீட்கும்-திட்டத்துக்கு-மறுப்பு/175-362841) · `ta`
-
-"ராவண மன்னனுடன் தொடர்புடைய 19 விமானங்களை மீட்க திட்டமிட்டுள்ளதாக" ஊடகங்களில் வெளியான செய்திகளை இலங்கையின் சிவில் விமானப் போக்குவரத்து ஆணைக்குழு (CAASL),  மறுத்துள்ளது, மேலும் அந்தக் கதை "முற்றிலும் தவறானது மற்றும் ஆதாரமற்றது" என்று கூறியுள்ளது.
-
-ஒரு அறிக்கையில், ஆணைக்குழு அத்தகைய கூற்றை முன்வைக்கவில்லை அல்லது அது தொடர்பான எந்தவொரு திட்டத்திலும் ஈடுபடவில்லை என்று கூறியுள்ளது.
-
-தேசிய சட்டங்கள் மற்றும் சிக்காகோ மாநாட்டின்படி, பாதுகாப்பு, மற்றும் நிலையான வளர்ச்சியில் கவனம் செலுத்தி, சிவில் விமானப் போக்குவரத்தை ஒழுங்குபடுத்துவதும் மேற்பார்வையிடுவதும் தனது பங்கு என்று CAASL வலியுறுத்தியது.
-
-விமானப் போக்குவரத்துத் திணைக்களத்தின் நம்பகத்தன்மைக்கு தீங்கு விளைவிக்கும் தவறான தகவல்களைப் பரப்புவதைத் தவிர்ப்பதற்காக, வெளியிடுவதற்கு முன்பு CAASL உடன் தகவல்களைச் சரிபார்க்குமாறு பொதுமக்களும் ஊடகங்களும் வலியுறுத்தப்பட்டனர்.
-
-◼️
-
-[Data](articles/2f21c5de.json)
-
----
-
-### City Of Dreams Sri Lanka: A Bold Investment Shadowed By Ethical Concerns Over IFC’s Role In Casino Operations
-
-*2025-08-13 12:50:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/city-of-dreams-sri-lanka-a-bold-investment-shadowed-by-ethical-concerns-over-ifcs-role-in-casino-operations/) · `en`
-
-John Keells Holdings PLC (JKH) and Melco Resorts & Entertainment opened City of Dreams Sri Lanka on 2 August 2025, completing Cinnamon Life—the country’s largest integrated hotel, mall, and casino development, built with an investment exceeding USD 1.2 billion. Located in the heart of Colombo, the resort offers over 800 rooms, twelve dining venues, and has created more than 1,500 jobs, strengthening Sri Lanka’s position as a premier destination for business and leisure travelers, particularly from India.
-
-The International Finance Corporation (IFC), part of the World Bank Group, invested USD 175 million in John Keells Holdings to support tourism and took an equity stake. It also gave a USD 25 million loan to Nations Trust Bank, where JKH and Central Finance have major investments (Daily FT, 14 May 2024). Since the pandemic began, IFC has invested over USD 800 million in Sri Lanka to help businesses stay afloat and protect jobs.
-
-...
-
-[Data](articles/ca870ef7.json)
-
----
-
-### ඝාතනය වූ හිටපු ප්‍රා.ස. මන්ත්‍රීගේ දේහය නිවසට -  සැකකරුවන් අධිකරණයට
-
-*2025-08-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213325) · `si`
-
-මීගොඩ ආටිගල පාර ප්‍රදේශයේදී හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු සභිකයෙකු ඝාතනයට ලක්කිරීමේ සිදුවීමට සම්බන්ධ සැකකරුවන් අද (13) කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
-
-මේ අතර ඝාතනයට ලක්වූ හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයාගේ දේහය ඊයේ (12) රාත්‍රී පාදුක්ක වටරැක සෝමරතන මාවතේ පිහිටි ඔහුගේ නිවසට රැගෙන විත් ඇත.
-
-ඊයේ දහවල් 1.10ට පමණ සිදුවූ වෙඩි තැබීමෙන් ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' නම් 46 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වුණි.
-
-ශ්‍රී ලංකා නිදහස් පක්ෂය, එක්සත් ජාතික පක්ෂය සහ තවත් පක්ෂ කිහිපයක්ම නියෝජනය කර හිටපු මන්ත්‍රීවරයා ඉඩම් ලබාගැනීම, විකිණීම් හා ඉදිකිරීම් අංශයේ ව්‍යාපාරික කටයුතුවල නිරත වූ අයෙකි.
-
-ඉඩම් ආරවුලක් සම්බන්ධයෙන් ඇති වූ ගැටුමක් සම්බන්ධයෙන් ඔහු මීට දින කිහිපයකට ඉහතදී මීගොඩ පොලීසියට ගොස් පැමිණිල්ලක් ද ගොනුකර තිබුණි.
-
-...
-
-[Data](articles/9fc8342c.json)
-
----
-
-### இந்தியா – பாகிஸ்தான் எல்லையில் பயங்கர துப்பாக்கி சண்டை
-
-*2025-08-13 12:41:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-பாகிஸ்தான்-எல்லையில்-பயங்கர-துப்பாக்கி-சண்டை/50-362838) · `ta`
-
-இந்தியா - பாகிஸ்தான் இடையேயான போர் கடந்த மே 10ம் திகதி முடிவுக்கு வந்தது. அதன்பிறகு முதல் முதலாக பாகிஸ்தான் தூண்டுதலால் புதன்கிழமை (12) இரவு ஜம்மு காஷ்மீரில் இருநாடுகளின் எல்லையில் உள்ள எல்லை கட்டுப்பாட்டு கோட்டின் அருகே பயங்கர துப்பாக்கிச்சண்டை நடந்தது. இதில் நம் நாட்டின் ராணுவ வீரர் ஒருவர் பலியாகி உள்ள நிலையில் பதற்றம் அதிகரித்துள்ளது.
-
-பஹல்காம் தாக்குதலுக்கு பதிலடியாக கடந்த 7 ம் திகதி நம் நாட்டின் சார்பில் ‛ஆபரேஷன் சிந்தூர்' நடவடிக்கை மூலமாக பாகிஸ்தானுக்கு பதிலடி கொடுக்கப்பட்டது. பாகிஸ்தானில் உள்ள 9 பயங்கரவாத முகாம்கள், ராணுவ தளம், விமானப்படை தளம் அழிக்கப்பட்டது. பாகிஸ்தானும் பதிலுக்கு தாக்க முயன்று தோற்றுப்போனது.
-
-இதனால் பாகிஸ்தான் நம்மிடம் சரணடைந்தது. மே 10ம் திகதி நடத்திய தாக்குதலுக்கு தாக்குப்பிடிக்க முடியாத பாகிஸ்தான் போரை நிறுத்த கெஞ்சியது. இதையடுத்து போர் நிறுத்தம் அமலுக்கு வந்தது. இருப்பினும் ‛ஆபரேஷன் சிந்தூர்' முடியவில்லை. பாகிஸ்தான் மீண்டும் வாலாட்டினால் உரிய முறையில் பதிலடி கொடுக்கப்படும் என்று நம் நாடு எச்சரித்துள்ளது.
-
-...
-
-[Data](articles/20bb0c0e.json)
-
----
-
-### The End Of Another Schools Rugby Season – Bitter Lessons Learned
-
-*2025-08-13 12:41:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-end-of-another-schools-rugby-season-bitter-lessons-learned/) · `en`
-
-The final whistle blew, but it didn’t just end the match — it ended months of bruises, long bus rides, and dreams that didn’t quite land. This season was a hard teacher. We learned that talent without discipline falters, that teamwork cracks under pressure if trust isn’t there, and that grit is built only through failure. The scoreboard stung, but the real damage was in the gaps we never closed. We’ll carry these lessons into the off-season, because pain fades — but the truth it leaves behind sticks.
-
-While this season showcased outstanding performances and thrilling rugby, the spirit of the game was tarnished by unacceptable lapses in discipline from both players and spectators.
-
-...
-
-[Data](articles/3b7a2ecf.json)
-
----
-
-### மலேசிய முன்னாள் பிரதமருக்கு எதிரான மேல்முறையீடு நிராகரிப்பு
-
-*2025-08-13 12:28:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மலேசிய-முன்னாள்-பிரதமருக்கு-எதிரான-மேல்முறையீடு-நிராகரிப்பு/50-362835) · `ta`
-
-மலேசியாவில் முன்னாள் பிரதமர் நஜிப் ரசாக்கிற்குச் (Najib Razak) சாதகமாக உச்சநீதிமன்றம் இன்று தீர்ப்பு வழங்கியிருக்கிறது.
-
-அவர் தம்மை வீட்டுக் காவலில் வைப்பதற்கு அனுமதி வழங்கும் அரச ஆவணம் இருப்பதாகச் சொல்கிறார்.
-
-அந்த ஆவணத்தை அவர் கோர முடியாது என்று சொல்லி அரசுத் தரப்பு வழக்குத் தொடுத்தது. உச்சநீதிமன்றம் அரசுத் தரப்பின் வாதத்தை நிராகரித்துவிட்டது.
-
-நஜிப் அந்த அரச ஆவணம் உண்மையானதா என்பது குறித்துத் தொடர்ந்து உயர் நீதிமன்றத்தில் வழக்காடலாம் என்று உச்சநீதிமன்றம் தீர்ப்பளித்துள்ளது. நஜிப் 1MDB ஊழல் தொடர்பாக 2022ஆம் ஆண்டு ஆகஸ்ட் மாதத்திலிருந்து சிறையில் இருக்கிறார்.
-
-◼️
-
-[Data](articles/5b5eba40.json)
-
----
-
-### ரஸ்ய இஸ்ரேலிய படையினர் பாலியல்வன்முறைகளில் ஈடுபடுவதாக தகவல்கள் - ஐநா செயலாளர் நாயகம் கடும் எச்சரிக்கை
-
-*2025-08-13 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222475) · `ta`
-
-ரஸ்ய இஸ்ரேலிய படையினர் பாலியல்வன்முறைகளில் ஈடுபடுவது குறித்து ஐக்கியநாடுகள் செயலாளர் நாயகம் அன்டோனியோ குட்டேரஸ் எச்சரித்துள்ளார்.
-
-மோதல்களில் நடைபெறும் பகுதிகளில் பாலியல் வன்முறைகளில் ஈடுபடும் தரப்பினர் பட்டியலில் ரஸ்ய இஸ்ரேலிய படையினரும் சேர்க்கப்படலாம் என அவர் எச்சரித்துள்ளார்.
-
-ஐக்கியநாடுகளால் தொடர்ந்து ஆவணப்படுத்தப்பட்டுள்ள சிலவகையான பாலியல்வன்முறைகளின் வடிவங்கள் குறித்த குறிப்பிடத்தக்க கவலையின் விளைவு இதுவாகும் என அவர் குறிப்பிட்டுள்ளார்.
-
-மோதல்களின் போது இடம்பெறும் பாலியல்வன்முறைகள் குறித்த ஐக்கியநாடுகள் பாதுகாப்பு சபைக்கான தனது அறிக்கையில் இதனை தெரிவித்துள்ள அவர் பாலியல் வன்முறை மற்றும் ஏனைய பாலியலன்வன்முறை வடிவங்களில் ஈடுபடுவதாக நம்பகதன்மை மிக்க விதத்தில் சந்தேகிக்கப்படுபவர்கள் அல்லது அவற்றில் ஈடுபடுபவர்கள் குறித்த அடுத்த வருட அறிக்கையில் ரஸ்யஇஸ்ரேலிய படையினரும் இணைத்துக்கொள்ளப்படலாம் என தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/23134f60.json)
-
----
-
-### Sri Lanka’s CTC says tobacco volumes show recovery in June
-
-*2025-08-13 12:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-ctc-says-tobacco-volumes-show-recovery-in-june-236007/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Tobacco Company said sales volumes recovered to 490 million sticks in the June 2025 quarter from 476 million last year, and profits rose 2 percent to 7.3 billion rupees.
-
-CTC reported earnings of 39.32 rupees per share for the quarter. For the six months to June, CTC reported earnings of 74.97 rupees on total profits from 14.04 billion rupees, which were marginally up from 14.00 billion rupees.
-
-Revenues grew 9.5 percent to 50.3 billion rupees to 55.1 billion rupees, including a government tax hike boosting turnover based tax revenues to 38.1 billion rupees from 34.7 billion rupees, giving net revenues of 16.9 billion rupees to the company, up 8.9 percent.
-
-The firm did not give reasons for the increase in volumes, such as whether consumer purchasing power was gradually recovering from a currency crisis.
-
-The firm had previously complained that it was losing market share to smuggled cigarettes and also beedi.
-
-◼️
-
-[Data](articles/0953a421.json)
-
----
-
-### ‘கூலி’ படத்தில் சிவகார்த்திகேயன்: போஸ்டரால் வைரல்
-
-*2025-08-13 12:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-படத்தில்-சிவகார்த்திகேயன்-போஸ்டரால்-வைரல்/54-362833) · `ta`
-
-‘கூலி’ படத்தில் சிவகார்த்திகேயன் நடிப்பதாக போஸ்டர் ஒன்று சமூக வலைதளங்களில் வைரலாகி வருகிறது.
-
-லோகேஷ் கனகராஜ் இயக்கியுள்ள ‘கூலி’ படத்தில் ரஜினி, சத்யராஜ், நாகார்ஜுனா, உபேந்திரா, ஸ்ருதிஹாசன், ஆமிர்கான் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சன் பிக்சர்ஸ் தயாரித்துள்ள இப்படத்துக்கு ஒளிப்பதிவாளராக க்ரிஷ் கங்காதரன், இசையமைப்பாளராக அனிருத் ஆகியோர் பணிபுரிந்துள்ளனர். இப்படம் வரும் ஆகஸ்ட் 14 திரையரங்குகளில் வெளியாக உள்ளது. இப்படத்துக்கான ஆன்லைன் டிக்கெட் புக்கிங் மும்முரமாக நடைபெற்று வருகிறது.
-
-இந்த சூழலில் இப்படம் தொடர்பான போஸ்டர் ஒன்று   சமூக வலைதளங்களில் வைரலாகப் பரவி வருகிறது.
-
-அதில் ‘கூலி’ படத்தில் சத்யா என்ற கதாபாத்திரத்தில் சிவகார்த்திகேயன் நடிப்பதாக குறிப்பிடப்பட்டிருந்தது. அதில் வாயில் பைப் உடன் புகைத்தபடி சிவகார்த்திகேயனின் புகைப்படமும் இடம்பெற்றது. இதனை ரசிகர்கள் பலரும் பகிர்ந்து வந்தனர். இன்னும் சிலர் சன் பிக்சர்ஸ், லோகேஷ் கனகராஜின் அதிகாரபூர்வ சமூக வலைதள பக்கங்களில் சென்று இது உண்மையா என்று கேள்வி எழுப்பி வந்தனர்.
-
-...
-
-[Data](articles/9d2edff6.json)
-
----
-
-### Special discussion to be held tomorrow aimed at uniting the entire opposition
-
-*2025-08-13 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111429/special-discussion-to-be-held-tomorrow-aimed-at-uniting-the-entire-opposition) · `en`
-
-A special discussion is scheduled to be held tomorrow (14) with the participation of several opposition political parties.
-
-The discussion is expected to be held under the leadership of former Minister G.L. Peiris, according to political sources.
-
-Opposition political representatives have stated that the objective of the meeting is to explore the formation of a united front among opposition parties.
-
-A discussion had already taken place last week at the residence of former Minister G.L. Peiris, and tomorrow’s meeting is planned as a follow-up to the initial dialogue.
-
-However, opposition political representatives emphasized that the purpose of this discussion is solely to build unity among opposition parties — not to create a coalition aimed at challenging the government at this stage.
-
-◼️
-
-[Data](articles/e06d72aa.json)
 
 ---

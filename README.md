@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 21:07:15**
+As of **2025-08-14 21:21:19**
 
 ## Newspaper Stats
 
-*Scraped **70,544** Articles*
+*Scraped **70,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,812
-adaderanalk | 8,805
+adaderanalk | 8,807
 tamilmirrorlk | 10,381
 virakesarilk | 11,730
 adaderanasinhalalk | 12,145
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,145
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,544 articles have been extended.
+61,973 (87.8%) of 70,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### 400 containers of imported salt stuck at Colombo Harbour due to bureaucratic delays: Unions
+
+*2025-08-14 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111481/400-containers-of-imported-salt-stuck-at-colombo-harbour-due-to-bureaucratic-delays-unions-) · `en`
+
+Approximately 400 containers containing around 28,000 metric tons of imported salt, intended for local packaging, remain stuck at the Colombo Harbour, unable to be cleared, according to the Sri Lanka Salt Producers’ Association.
+
+The Salt Producers claim that inefficiency and inaction by government officials is the primary reason for the delay in clearing these consignments.
+
+Earlier this year, domestic salt production saw a sharp decline due to adverse weather conditions.
+
+This led to a shortage of salt in the local market, resulting in a noticeable increase in retail prices.
+
+As a solution, the government approved the importation of salt for household consumption on two separate occasions. However, the delay in clearing the imported stocks continues to affect market stability, according to the Sri Lanka Salt Producers’ Association.
+
+◼️
+
+[Data](articles/420b8f54.json)
+
+---
 
 ### ඉන්දියාවට එකවර ධාරාණිපාත වැස්සක් - 38ක් මරුට
 
@@ -69,6 +89,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/09a6e82b.json)
+
+---
+
+### UN Rights Chief urges Govt to amend laws that unduly restrict rights and freedoms of Sri Lankans
+
+*2025-08-14 19:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111480/un-rights-chief-urges-govt-to-amend-laws-that-unduly-restrict-rights-and-freedoms-of-sri-lankans) · `en`
+
+UN High Commissioner for Human Rights Volker Türk has urged the Sri Lankan government to repeal or amend existing laws or proposed laws that unduly restrict the rights to freedom of opinion and expression, association, and peaceful assembly, including the Online Safety Act, International Covenant on Civil and Political Rights Act, draft Non-Governmental Organizations (Registration and Supervision) Act, and proposed amendments to Personal Data Protection Act.
+
+In a new report issued on Sri Lanka, UN High Commissioner for Human Rights Volker Türk said the Sri Lankan government’s pledges to deliver justice, restore the rule of law, and eliminate discrimination and divisive politics must finally yield concrete results.
+
+“Today, an opportunity presents itself for Sri Lanka to break from the past,” he said. “It now needs a comprehensive roadmap to translate these commitments into results.”
+
+...
+
+[Data](articles/4e98e77d.json)
 
 ---
 
@@ -1809,47 +1845,5 @@ The Acting Director of the Police Cultural Division, SSP Sathish Gamage has been
 ◼️
 
 [Data](articles/77d27603.json)
-
----
-
-### හඳුනා නොගත් මත්කරල් හා මත්ද්‍රව්‍ය සමග හතරක් අත්අඩංගුවට
-
-*2025-08-14 09:46:09* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනා-නොගත්-මත්කරල්-හා-මත්ද්‍රව්‍ය-සමග-හතරක්-අත්අඩංගුවට/11-417910) · `si`
-
-හඳුනා නොගත් මත්කරල් 600 ක්, අයිස් මත්ද්‍රව්‍ය සහ හෙරෝයින් සමග පුද්ගලයින් සිව් දෙනකු අත්අඩංගුවට ගත් බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර, සහ ගල්පාත ප්‍රදේශයේ පදිංචි පුද්ගලයින් බවද පොලිසිය කීය.
-
-බස්නාහිර පළාත්  කළුතර බුද්ධි නිළධාරින්ට ලද තොරතුරක් මත සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරුවන් සන්තකයේ තිබු මත්කරල් 600 ක්, අයිස් මිලිග්‍රෑම් 6800 ක්, හෙරොයින් මිලිග්‍රෑම් 60 ක් සොයාගත් බව පොලිසිය සදහන් කරයි .
-
-අධ්‍යක්ෂ ජේෂ්ඨ පොලිස් අධිකාරී ඒජීකේ කිරිඇල්ල, මහතා ගේ උපදෙස් පරිදි ස්ථානාධිපති පොලිස් පරීක්ෂක තිලංග සංජීව මහතාගේ මෙහෙයවීමෙන් උප පොලිස් පරීක්ෂක  අතුල කුමාර  ඇතුළු නිළධාරින් වැටලීමට එක්වූහ .
-
-◼️
-
-[Data](articles/4906ba98.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bonds steady
-
-*2025-08-14 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236259/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/301.00 to the US dollar in the spot market Thursday, weaker from 300.82/92 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 8.87/89 percent, from 8.85/97 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.38/39 percent, from 9.36/40 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.20/23 percent, down from 10.20/24 percent.
-
-The Colombo Stock Exchange was trading in green; The ASPI was up 0.27 percent, or 54.88 points, at 20,030.38; the S&P SL20 was up 0.17 percent, or 9.72 points, at 5,825.36.
-
-The telegraphic transfer rate for the American dollar was 297.5000 buying 304.5000 selling; British pound 403.1432 buying 414.4850 selling, and euro was 346.3177 buying 357.5229 selling. (Colombo/Aug14/2025)
-
-◼️
-
-[Data](articles/e29bc97a.json)
 
 ---

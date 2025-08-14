@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 22:24:26**
+As of **2025-08-14 22:35:19**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-14 (Thursday)
 
-### ලංකාව ගෝලීය නව්‍යකරණ දර්ශකයේ ශක්තිමත්ව ස්ථානගත කිරීම ගැන දැනුවත් කිරීමක්
+### ලංකාව ගෝලීය නව්‍යකරණ දර්ශකයේ ශක්තිමත්ව ස්ථානගත කිරීම ගැන දැනුම්වත්කිරීමක්
 
 *2025-08-14 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213377) · `si`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 19:38:55**
+As of **2025-08-14 19:50:25**
 
 ## Newspaper Stats
 
-*Scraped **70,526** Articles*
+*Scraped **70,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,810
-adaderanalk | 8,801
+adaderanalk | 8,804
 tamilmirrorlk | 10,380
 virakesarilk | 11,730
 adaderanasinhalalk | 12,142
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,526 articles have been extended.
+61,973 (87.9%) of 70,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dc100f68.json)
+
+---
+
+### Over 7,000 T-56 ammunition recovered from Getalawa tank
+
+*2025-08-14 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111478/over-7000-t-56-ammunition-recovered-from-getalawa-tank-) · `en`
+
+Authorities have recovered another cache of live T-56 ammunition, following a special search operation carried out after the initial discovery of ammunition in an irrigation tank in Getalawa, Galenbindunuwewa.
+
+According to police sources, a total of 7,118 live rounds of ammunition used in T-56 assault rifles have now been recovered from the Getalawa lake.
+
+The discovery was initiated after an individual who had stepped into the tank had noticed several bullets submerged in the water. He promptly alerted the Galenbindunuwewa Police Station via the ‘118’ emergency hotline.
+
+A special search operation was subsequently launched, during which a large cache of ammunition was recovered from the body of water.
+
+During yesterday’s operation alone, 5,038 live rounds of ammunition were found.
+
+Further search operations were conducted today by security forces, resulting in the discovery of another 1,965 T-56 live rounds and 115 auxiliary weapon rounds.
+
+...
+
+[Data](articles/839952c3.json)
+
+---
+
+### Probe launched after urea fertilizer poured into SLTB bus engine in N’Eliya
+
+*2025-08-14 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111477/probe-launched-after-urea-fertilizer-poured-into-sltb-bus-engine-in-neliya) · `en`
+
+An investigation has been launched by the Nuwara Eliya Police regarding an incident where urea fertilizer was poured into the engine of a bus belonging to the Nuwara Eliya Sri Lanka Transport Board depot.
+
+The fertilizer was found to have been added to a bus that operates daily between Nuwara Eliya and High Forest area.
+
+According to reports, the incident occurred on Tuesday night, while the bus was parked in the High Forest area. An unidentified individual had allegedly poured urea fertilizer into the engine.
+
+The issue was discovered the following morning when the bus was being prepared for service. During a routine check of the engine oil, it was found that the engine head had been removed.
+
+Additionally, a white chemical substance resembling urea fertilizer was observed spilled around the engine area. The bus driver and conductor, suspecting foul play, filed a complaint with police.
+
+...
+
+[Data](articles/dac46640.json)
 
 ---
 
@@ -99,6 +141,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/099809b1.json)
+
+---
+
+### Sri Lanka and Oman discuss ways to improve bilateral cooperation in energy sector
+
+*2025-08-14 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111476/sri-lanka-and-oman-discuss-ways-to-improve-bilateral-cooperation-in-energy-sector) · `en`
+
+A meeting between Minister of Energy Engineer Kumara Jayakody and the Ambassador of Oman to Sri Lanka, Ahmed Ali Said Al Rashid, took place this afternoon (14) at the Ministry of Energy premises.
+
+The discussions focused on strengthening bilateral cooperation in the energy sector between the two countries. Both parties emphasized the importance of addressing regional energy needs, exploring emerging trends in the sector, and working collaboratively to respond to global crises and challenges.
+
+During the meeting, the Minister expressed his appreciation for Oman as a close and valued partner and highlighted the various investment opportunities available in Sri Lanka. He encouraged Oman to consider investing in the country’s energy sector.
+
+...
+
+[Data](articles/0737741b.json)
 
 ---
 
@@ -1765,61 +1823,5 @@ After the shooting, the two unidentified suspects fled towards Muthuhenawaththa 
 ...
 
 [Data](articles/29392645.json)
-
----
-
-### ශ්‍රී ලංකාවේ මානව හිමිකම් ගැන බරපතළ ගැටලු ඇති බව අමෙරිකාව කියයි
-
-*2025-08-14 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213348) · `si`
-
-ශ්‍රී ලංකාවේ මානව හිමිකම් තත්ත්වය සම්බන්ධයෙන් බරපතළ ගැටලු පවතින බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
-
-2024 වර්ෂයේ ලොව පුරා රටවල මානව හිමිකම් භාවිතයන් පිළිබඳව වාර්තාව නිකුත් කරමින් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව මේ බව ප්‍රකාශ කර තිබේ.
-
-මානව හිමිකම් කඩකිරීම් සම්බන්ධයෙන් වගකිව යුතු නිලධාරින් හඳුනාගෙන ඔවුන් වගවීමට ලක්කිරීම ශ්‍රී ලංකා රජය ගෙන ඇත්තේ අවම උත්සාහයක් බව එම වාර්තාවේ දැක්වේ.
-
-පුද්ගලයින් වෙඩි තබා ඝාතනය කිරීම, රක්ෂිත බන්ධනාගාර ගත කළ ඝාතනය, මාධ්‍යවේදීන්ට සිදුවන හිරිහැර, ප්‍රකාශනයේ නිදහස සීමා කිරීම ආදිය සම්බන්ධයෙන් අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව සිය වාර්තාව මඟින් කනස්සල්ල පළ කර තිබේ.
-
-2022 වර්ෂයේ අරගලයෙන් පසු පැවති මැතිවරණවලින් විශිෂ්ට ලෙස බලය ලබාගත් වත්මන් රජය, සිදුවු බව කියන මානව හිමිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් වගකිව යුතු නිලධාරීන්ට එරෙහිව ගෙන ඇත්තේ අවම ක්‍රියාමාර්ග බව එම වාර්තාවේ දැක්වේ.
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත අවභාවිතයට ගනිමින් අත්අඩංගුවට ගැනීම්, කාන්තාවන් බලහත්කාරයෙන් වඳ සැත්කම්වලට භාජනය කිරීම්, සම්බන්ධයෙන් ද එම වාර්තාව මඟින් චෝදනා එල්ල කර තිබේ.
-
-...
-
-[Data](articles/da2edfb3.json)
-
----
-
-### මන්නාරම යෝජිත සුළං බලාගාර දෙකේ ඉදිකිරීම් මසකින් කල් දමයි
-
-*2025-08-14 07:03:25* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-යෝජිත-සුළං-බලාගාර-දෙකේ-ඉදිකිරීම්-මසකින්-කල්-දමයි/11-417906) · `si`
-
-මන්නාරම ප්‍රදේශයේ ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදිකිරීම් කටයුතු මසකින් කල්දැමීමට තීරණය කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
-
-මෙම යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පවත්වා තිබේ.
-
-මෙම සාකච්ඡාවේදී රටේ බලශක්ති අවශ්‍යතාව සහ ආර්ථිකයට ව්‍යාපෘතියේ වැදගත්කම පිළිබඳව අවධානය යොමු කෙරිණි.
-
-සුළං බලාගාරය හේතුවෙන් ප්‍රදේශයේ ජනතාවට ඇති වී ඇති ගැටලු පිලිබදව සොයා බලා ඒ සඳහා විසදුම් ලබා දීමට අවශ්‍ය ව්‍යුහයක් ඇති කිරීමටද මෙහිදී  තීරණය විය. එසේම ටෙන්ඩර් කැඳවා කොන්ත්‍රාත් ප්‍රදානය කර, මේ වනවිට ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදි කිරීම් කටයුතු තාවකාලිකව අත්හිටුවීමට ද තීරණය කරන ලදී.
-
-...
-
-[Data](articles/bdaf485c.json)
-
----
-
-### මීගොඩ නිවසක් ඉදිරිපිට අහසට වෙඩි
-
-*2025-08-14 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213347) · `si`
-
-මීගොඩ, මුතුහේනවත්ත නඳුන් උයන ප්‍රදේශයේ නිවසක් ඉදිරිපිට ඊයේ (13) රාත්‍රී 10ට පමණ මුහුණු ආවරණය කරගෙන යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් අහසට වෙඩි තබා පලා ගොස් තිබේ.
-
-මිලිමීටර් නවය වර්ගයේ උණ්ඩ යෙදූ පිස්තෝල වර්ගයේ ගිනිඅවියකින් එක් වෙඩිල්ලක් පමණක් තබා ඇති අතර,උණ්ඩය සහ උණ්ඩ කොපුව නිවස ඉදිරිපිට වැටී තිබියදී සොයා ගැනීමට හැකි වී ඇත.
-
-වෙඩි තැබීමෙන් පසු මුතුහේනවත්ත මාර්ගය දෙසටම යතුරු පැදිය පලා ගොස් ඇති අතර මීගොඩ පොලීසිය වැඩිදුරටත් පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/1fdf162f.json)
 
 ---

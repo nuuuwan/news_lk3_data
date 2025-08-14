@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 14:37:38**
+As of **2025-08-14 14:51:16**
 
 ## Newspaper Stats
 
-*Scraped **70,489** Articles*
+*Scraped **70,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,802
 adaderanalk | 8,790
 tamilmirrorlk | 10,371
 virakesarilk | 11,730
-adaderanasinhalalk | 12,133
+adaderanasinhalalk | 12,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,489 articles have been extended.
+61,973 (87.9%) of 70,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### සතීෂ් ගමගේ රිමාන්ඩ්
+
+*2025-08-14 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213362) · `si`
+
+අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගත් පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතිෂ් ගමගේ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරණ මහත්මිය විසින් මෙම නියෝගය නිකුත් කළාය.
+
+සැකකරු ගාල්ල සහ ඇඹිලිපිටිය පොලිස් කොට්ඨාශ භාරව ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා වශයෙන් කටයුතු කළ සමයේ වෙනත් පුද්ගලයෙකු නමින් පුද්ගලික බැංකු තුනක ගිණුම් 03 ක් විවෘතකර, එම ගිණුම්වලට සංවිධානාත්මක අපරාධකරුවන් ගෙන්, පොලීසියට සේවා ලබා ගැනීමට පැමිණෙන පුද්ගලයින්ගෙන් හා වෙනත් අපරාධකරුවන්ගෙන් අල්ලස් වශයෙන් ලබාගත් රුපියල් එක් කෝටි හතළිස් ලක්ෂයකට ආසන්න මුදලක් අල්ලස් වශයෙන් ලබා ගැනීම සහ මුදල් විශුද්ධිකරණ චෝදනා යටතේ මෙම පුද්ගලයා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/553a9e84.json)
+
+---
 
 ### ‘கூலி’ : ‘ஆவரேஜ்’ ட்ரீட்மென்ட் எப்படி? (வீடியோ இணைப்பு)
 
@@ -1747,37 +1763,5 @@ At standalone bank level, net interest income fell 8 percent to 50.1 billion rup
 ◼️
 
 [Data](articles/a5a828ad.json)
-
----
-
-### Glowing Skin made easy …
-
-*2025-08-13 22:56:00* · [`islandlk`](http://island.lk/glowing-skin-made-easy/) · `en`
-
-Hey, here are some simple Beauty Tips to give your skin a radiant look.
-
-Blend the tomato into a smooth pulp and then mix in the honey until you get a uniform paste.
-
-Apply the mask to your face, leave it on for 15-20 minutes, and then rinse with lukewarm water and pat dry.
-
-You will need 01 ripe tomato, and 01 teaspoon of lemon juice.
-
-Mash the tomato and mix with lemon juice, and then apply the mixture to your face, focusing on areas with dark spots or uneven skin tone.
-
-You will need 01 ripe tomato, and 01 tablespoon of plain yoghurt.
-
-Blend the tomato and mix with the yoghurt to form a creamy mask.
-
-Apply to your face, leave it on for 15 minutes, and then rinse with cool water.
-
-You will need 01 ripe tomato, and 02 tablespoons of fresh aloe vera gel.
-
-Blend the tomato into a smooth pulp and then mix the aloe vera gel with the tomato pulp.
-
-Apply to your face, let it sit for 20 minutes, and then rinse off and follow with a moisturiser.
-
-...
-
-[Data](articles/3aacde3d.json)
 
 ---

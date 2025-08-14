@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 17:54:01**
+As of **2025-08-14 18:10:29**
 
 ## Newspaper Stats
 
-*Scraped **70,518** Articles*
+*Scraped **70,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 6,808
 adaderanalk | 8,800
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
-adaderanasinhalalk | 12,139
+adaderanasinhalalk | 12,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,518 articles have been extended.
+61,973 (87.9%) of 70,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ගැටලාව වැවෙන් උණ්ඩ 7000කට වැඩි ප්‍රමාණයක් සොයා ගනී
+
+*2025-08-14 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213370) · `si`
+
+ගැටලාව වැවේ තිබී උණ්ඩ සොයා ගැනීමේ සිද්ධියෙන් අනතුරුව සිදු කළ විශේෂ සෝදිසි මෙහෙයුමෙන් පසුව තවත් උණ්ඩ 2000කට ආසන්න ප්‍රමාණයක් සොයා ගෙන තිබේ.
+
+ඒ අනුව මේ වන විට ගැටලාව වැවේ තිබී ටී 56 වර්ගයේ ජීව උණ්ඩ 7,118ක් සොයා ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+ගැටලාව වැව වෙත දරකැඩීම සදහා පැමිණි පුද්ගලයෙකු දරකැඩීම සඳහා වැවට බැස ඇති අතර එම අවස්ථාවේ දී වැවෙහි ජලයේ තිබී උණ්ඩ කිහිපයක් දැක තිබුණි.
+
+මේ පිළිබඳව එම පුද්ගලයා විසින් 118 හදිසි ඇමතුම් අංකය හරහා ගලෙන්බිඳුණුවැව පොලිස් ස්ථානය දැනුවත් කර ඇති අතර එහිදී සිදු කළ විශේෂ සෝදිසි මෙහෙයුමේ දී මෙම උණ්ඩ තොගය සොයා ගෙන ඇත.
+
+එහිදී ඊයේ දිනයේ සිදු කළ මෙහෙයුමේ දී ජීව උණ්ඩ 5,038ක් සොයා ගෙන තිබිණි.
+
+අද දිනයේ ද ආරක්ෂක අංශ විසින් අදාළ මෙහෙයුම් සිදු කර ඇති අතර එහිදී  ටී 56 උණ්ඩ 1965ක් සහ ආධාරක අවි උණ්ඩ 115ක් සොයාගෙන තිබේ.
+
+මීට අමතරව ටී 56 මැගසින් 11ක් සහ ඔයිල් කෑන් 05ක් ද සොයා ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+සොයාගත් උණ්ඩ තොගය පොලිස් භාරයට ගෙන ඇති අතර මේ සම්බන්ධව ඉදිරි පරීක්ෂණ ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/e39ebe3a.json)
+
+---
 
 ### ගාසා වැසියන් දකුණු සුඩානයේ පදිංචිකිරීමේ සැලසුමක්?
 
@@ -1809,23 +1835,5 @@ Several police teams, including officers from the Hanwella Police, are currently
 ◼️
 
 [Data](articles/f827491c.json)
-
----
-
-### Rising sons: Namal Rajapaksa, Sajith Premadasa  and the Opposition project
-
-*2025-08-14 06:14:34* · [`dailyftlk`](https://www.ft.lk/columns/Rising-sons-Namal-Rajapaksa-Sajith-Premadasa-and-the-Opposition-project/4-780250) · `en`
-
-“…But, if our government changes in the next five years while we are in the process of making this change, then everything we started would be ruined. The next group would do something different. That is why we think that if a government can stay in power for 15, 20 or 25 years. Only then would it be able to take the country forward under one vision, one policy framework.”
-
-Lakshman Kadirgamar was assassinated by a Tiger sniper 20 years ago this week. He epitomised an enlightened way of being Sri Lankan, and positioning and representing Sri Lanka in the world.
-
-To borrow terminology that emerged during JFK’s presidency and the Cuban Missile Crisis, one way of being is as a dove. A Sri Lankan dove was for federalism and endless, repeated appeasement of Prabhakaran in the absurd hope of peace, despite the evidence to the contrary.
-
-The other way of being Sri Lankan is as a hawk. A hawk was for war with the LTTE and against devolution/autonomy, i.e. power-sharing with the Tamils.
-
-...
-
-[Data](articles/c3d0ca2d.json)
 
 ---

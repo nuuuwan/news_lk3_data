@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 18:59:39**
+As of **2025-08-14 19:27:25**
 
 ## Newspaper Stats
 
-*Scraped **70,524** Articles*
+*Scraped **70,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,809
+adalk | 6,810
 adaderanalk | 8,801
 tamilmirrorlk | 10,380
 virakesarilk | 11,730
-adaderanasinhalalk | 12,141
+adaderanasinhalalk | 12,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,524 articles have been extended.
+61,973 (87.9%) of 70,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### අස්වැසුම අගෝස්තු මස දීමනාව හෙට ගිණුම්වලට
+
+*2025-08-14 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213372) · `si`
+
+2025 අගෝස්තු මසට අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ දීමනාව හෙට (15) අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව මුදල්, ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය නිවේදනය කර තිබේ.
+
+රු.11,275,973,750.00 (එකොලොස් බිලියන දෙසිය හැත්තෑපස් මිලියන නවලක්ෂ හැත්තෑ තුන්දහස් හත්සිය පනහයි) ක මුදලක් ප්‍රතිලාභී පවුල් 1,421,745ගේ ගිණුම්වලට බැරකිරීමට නියමිතය.
+
+ඒ අනුව අදාල ප්‍රතිලාභීන්ට හෙට සිට තමාට හිමි ප්‍රතිලාභී මුදල තම අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුමෙන් ලබාගත හැකිය.
+
+◼️
+
+[Data](articles/dc100f68.json)
+
+---
 
 ### புதிய  ஐக்கிய  இராச்சிய பாதுகாப்பு ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார்
 
@@ -141,6 +157,20 @@ The Welfare Benefits Board stated that the beneficiaries will be able to access 
 ◼️
 
 [Data](articles/cb9494d9.json)
+
+---
+
+### සූදු නියාමන අධිකාරි පනතට මුදල් කාරක සභාවේ අනුමතිය
+
+*2025-08-14 16:52:43* · [`adalk`](https://www.ada.lk/breaking_news/සූදු-නියාමන-අධිකාරි-පනතට-මුදල්-කාරක-සභාවේ-අනුමතිය/11-417920) · `si`
+
+සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා වූ පනත් කෙටුම්පතට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමි විය. රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතා විදේශ ගතවීම හේතුවෙන් එම කාරක සභාවේ තාවකාලික සභාපති ලෙස පත් කරගන්නා ලද පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ රවුෆ් හකීම් මහතාගේ ප්‍රධානත්වයෙන් 2025.08.12 දින පැවති රජයේ මුදල් පිළිබඳ කාරක සභා රැස්වීමේදී මෙම පනත් කෙටුම්පත සලකා බලා අනුමතිය ලබාදෙන ලදී.
+
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන් අවස්ථා කිහිපයකදීම රජයේ මුදල් පිළිබඳ කාරක සභාවේදී සාකච්ඡා කෙරුණු අතර මේ මගින් ශ්‍රී ලංකාව තුළ ඔට්ටු ඇල්ලීම සහ සූදු අ‍ායතන ප්‍රමිතිකරණය කිරීමට, සමාජ හානි අවම කිරීමට, සංචාරක ක්ෂේත්‍රය සංවර්ධනය කිරීමට හා ආර්ථිකය වර්ධනය කිරීම සඳහා පුළුල් හෝ පූර්ණ විෂය පථයක් සහිත ස්වාධීන නියාමන ආයතනයක් ලෙස සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම සිදු වේ.
+
+...
+
+[Data](articles/38489339.json)
 
 ---
 
@@ -1791,39 +1821,5 @@ After the shooting, the two unidentified suspects fled towards Muthuhenawaththa 
 ◼️
 
 [Data](articles/1fdf162f.json)
-
----
-
-### Boat carrying migrants capsizes off Italy, killing at least 26
-
-*2025-08-14 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111449/boat-carrying-migrants-capsizes-off-italy-killing-at-least-26) · `en`
-
-A boat carrying nearly 100 migrants capsized Wednesday in international waters off the Italian island of Lampedusa, killing at least 26 people and leaving about a dozen missing, the Italian coast guard and U.N. agencies said.
-
-Sixty survivors were brought to a center in Lampedusa, said Filippo Ungaro, a UNHCR spokesperson in Italy. There were 92 to 97 migrants on board when the boat departed Libya, according to survivor accounts. Authorities were still searching for any remaining survivors.
-
-The coast guard said in a statement that the death toll stood at 26, but was still “provisional and being updated.”
-
-Based on survivor accounts, about 95 migrants left Libya on two boats, International Organization for Migration spokesperson Flavio Di Giacomo said. When one of the two vessels started to take on water, all the passengers were transferred to the other boat — made of fiberglass — which then capsized because of overloading, he said.
-
-...
-
-[Data](articles/4091af32.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයා සමුගනියි
-
-*2025-08-14 06:47:33* · [`adalk`](https://www.ada.lk/breaking_news/කණ්ඩලමේ-හැඩකාරයා-සමුගනියි/11-417905) · `si`
-
-ඉදිරි පාදයකට එල්ල වූ වෙඩි ප්‍රහාරයක් හේතුවෙන් මාස 6කට අධික කාලයක් කණ්ඩලම වැවේ ප්‍රතිකාර ලබමින් සිටි 'කණ්ඩලමේ හැඩකාරයා' ලෙසින් ප්‍රසිද්ධව සිටි වන අලියා ඊයේ (13) පස්වරුවේ මියගොස් තිබේ.
-
-වයස අවුරුදු 25 -30 අතර පසු වූ කණ්ඩලයේ හැඩ කාරයා අලි - මිනිස් ගැටුමේ ප්‍රතිඵලයක් ලෙස මෙසේ වෙඩි ප්‍රහාරයකට ලක්ව තිබුණි.
-
-මීට පෙරද මෙම අලියා වෙඩිප්‍රහාරයකට ගොදුරු ව සිටියදී වනජීවිය සිදු කළ ප්‍රතිකාර වලින් පසුව සුවය ලබා වනයට මුදාහැර සිටියදී යළිත් වෙඩි ප්‍රහාරයකට ලක්විය.
-
-◼️
-
-[Data](articles/4ad78a5a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 03:18:48**
+As of **2025-08-15 03:31:13**
 
 ## Newspaper Stats
 
-*Scraped **70,561** Articles*
+*Scraped **70,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 4,952
 adalk | 6,814
 adaderanalk | 8,809
 tamilmirrorlk | 10,383
-virakesarilk | 11,738
+virakesarilk | 11,740
 adaderanasinhalalk | 12,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,561 articles have been extended.
+61,973 (87.8%) of 70,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### மன்னார் சூழல் பாதிப்புக்கு எதிரான போராட்டத்திற்கு முழு ஆதரவு – சி.வி.கே. சிவஞானம்
+
+*2025-08-15 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/222583) · `ta`
+
+மன்னாரில் மக்களின் வாழ்வியலை பாதிக்கும் காற்றாலை மின் உற்பத்தி,கனிய மணல் அகழ்வு போன்றவற்றிற்கு எதிராக முன்னெடுக்கப்பட்டு வருகின்ற போராட்டத்திற்கு இலங்கை தமிழரசு கட்சி பூரண ஆதரவை வழங்கும் என அக்கட்சியின் தலைவர் சி.வி.கே.சிவஞானம் தெரிவித்துள்ளார்.
+
+மன்னாரில் மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்பட்டு வரும் காற்றாலை மின் கோபுரம் அமைக்கும் நடவடிக்கை மற்றும் கனிய மணல் அகழ்வு போன்றவற்றிக்கு எதிர்ப்பு தெரிவிக்கும் வகையில் தொடர்ச்சியாக மன்னார் பஜார் பகுதியில் போராட்டம் முன்னெடுக்கப்பட்டு வரும் நிலையில் வியாழக்கிழமை (14) காலை 12 வது நாளாக முன்னெடுக்கப்பட்டு வருகின்ற மக்களின் எழுச்சி போராட்டத்தில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+மன்னார் தீவில்  இயற்கைச் சூழலில் வாழ்கின்ற மக்களின் வாழ்வியலை பாதிக்கின்ற வகையில் முன்னெடுக்கப்படுகின்ற காற்றாலை மின் உற்பத்தி, கனிய மணல் அகழ்வு ஆகியவை தொடருமானால் மன்னார் பிரதேசத்தினுடைய வாழ்வியல் சூழல் மிகவும் பாதிக்கப்படும் என்பதை வெளிப்படுத்தி இப்போராட்டம் தொடர்ச்சியாக முன்னெடுக்கப்பட்டு வருகின்றது.
+
+...
+
+[Data](articles/4ffbf1ec.json)
+
+---
+
+### கடற்றொழில் சமூகத்திற்காக ‘சயுர’ விசேட ஆயுள் காப்புறுதித் திட்டம் குடாவெல்லையில் அறிமுகம்
+
+*2025-08-15 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/222582) · `ta`
+
+ஹம்பாந்தோட்டை, ஆகஸ்ட் 14 – கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் பிரதி அமைச்சர் ரத்ன கமகே அவர்களின் தலைமையில், கடற்றொழில் சமூகத்தின் வாழ்க்கைப் பாதுகாப்பை உறுதிப்படுத்தும் நோக்குடன் ‘சயுர’ விசேட ஆயுள் காப்புறுதித் திட்டம் வியாழக்கிழமை (ஆகஸ்ட் 14) குடாவெல்லையில் வெற்றிகரமாக அறிமுகப்படுத்தப்பட்டது.
+
+இந்நிகழ்வில், ஹம்பாந்தோட்டை மாவட்ட பாராளுமன்ற உறுப்பினர் மற்றும் ஒருங்கிணைப்புக் குழுத் தலைவர் நிஹால் கலப்பத்தி, மாகாண சபை மற்றும் உள்ளூராட்சி பிரதி அமைச்சர் ருவன் செனரத், விவசாய காப்புறுதி சபையின் தலைவர் பேமசிறி ஜாசிங்காராச்சி, கடற்றொழில் மற்றும் நீரியல் வளங்கள் திணைக்களத்தின் பணிப்பாளர் நாயகம் சுசந்த கஹவத்த, பிரதேச சபை உறுப்பினர்கள் உள்ளிட்ட அரச அதிகாரிகள் மற்றும் கடற்றொழில் சமூகத்தினர் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/3a126fdc.json)
+
+---
 
 ### கொக்கிளாய் புல்மோட்டை இணைப்புப்பாலத்துக்கு 2026 பட்ஜெட்டில் நிதி ஒதுக்கீடு - ஜனாதிபதி உறுதி
 
@@ -1803,37 +1833,5 @@ Haycarb’s main product is coconut shell charcoal, which saw price spikes amid 
 ◼️
 
 [Data](articles/b8fe4de5.json)
-
----
-
-### Large-scale renovations begin at Sri Lanka’s Parliament after 42 Years
-
-*2025-08-14 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111458/large-scale-renovations-begin-at-sri-lankas-parliament-after-42-years) · `en`
-
-The large-scale renovations of the Parliament of Sri Lanka have now commenced, according to the Parliamentary Communications Department.
-
-Under Cabinet approval, these renovations of the Sri Lanka Parliamentary Complex, taking place after a period of more than 42 years, are being carried out on the instructions of Speaker Dr. Jagath Wickramaratne.
-
-Accordingly, work is currently underway to remove the soil layer on the concrete roof terrace of the Parliamentary Complex and carry out repairs, the statement added.
-
-In addition, renovations are being done to the roof gutters, copper door, Parliament Medical Center, washrooms, and Members’ Dressing Room.
-
-Previously, minor maintenance work of the Parliamentary Complex was carried out by the Engineering Department.
-
-However, the large-scale renovations are being carried out with the labor contribution of the Sri Lanka Army.
-
-◼️
-
-[Data](articles/108e73f5.json)
-
----
-
-### ஒன்னு ரெண்டு மூணு நாலு ஐஞ்சு ஆறு….
-
-*2025-08-14 11:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஒன்னு-ரெண்டு-மூணு-நாலு-ஐஞ்சு-ஆறு/62-362893) · `ta`
-
-◼️
-
-[Data](articles/91b241b8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 16:34:51**
+As of **2025-08-14 16:48:31**
 
 ## Newspaper Stats
 
-*Scraped **70,509** Articles*
+*Scraped **70,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,806
 adaderanalk | 8,798
-tamilmirrorlk | 10,375
+tamilmirrorlk | 10,378
 virakesarilk | 11,730
 adaderanasinhalalk | 12,137
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,509 articles have been extended.
+61,973 (87.9%) of 70,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ராஜிதவின் சொத்துக்கள் முடக்கம்?
+
+*2025-08-14 16:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவின்-சொத்துக்கள்-முடக்கம்/175-362919) · `ta`
+
+முன்னாள் அமைச்சர் ராஜித சேனாரத்ன தொடர்ந்து தலைமறைவாக இருந்தால் அவரது சொத்துக்களை பறிமுதல் செய்வதில் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு  கவனம் செலுத்தியுள்ளதாக வட்டாரங்கள் தெரிவிக்கின்றன. இது தொடர்பாக நீதிமன்ற உத்தரவு பெறப்பட உள்ளதாகத் தெரிகிறது.
+
+முன்னாள் அமைச்சர் ராஜித சேனாரத்ன இருந்த பல இடங்களில் அவரைக் கைது செய்ய சமீபத்திய நாட்களில் சோதனை நடத்தப்பட்டாலும், அவரைக் கைது செய்ய முடியவில்லை.
+
+முன்னதாக, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனைக் கைது செய்ய முயற்சிகள் மேற்கொள்ளப்பட்டபோது, அவர் தொடர்ந்து தலைமறைவாக இருந்ததால் அவரது சொத்துக்களும் பறிமுதல் செய்யத் தயாரானபோது அவர் நீதிமன்றத்தில் சரணடைந்தார்.
+
+◼️
+
+[Data](articles/a2be3dff.json)
+
+---
+
+### வாவியில் இருந்து 8,188 தோட்டாக்கள் மீட்பு
+
+*2025-08-14 16:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாவியில்-இருந்து-8-188-தோட்டாக்கள்-மீட்பு/175-362917) · `ta`
+
+அனுராதபுரம், கலென் பிந்துனுவெவ கெடலாவ வாவியில் இருந்து  தானியங்கி துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 3000க்கும் மேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டுள்ளதாக கலென் பிந்துனுவெவ பொலிஸார் தெரிவித்தனர்.
+
+வயலில் இருந்து திரும்பிக் கொண்டிருந்த ஒரு விவசாயி ஒருவர் தனது  கால்களை கழுவுவதற்காக குறித்த வாவிக்கு சென்றபோது நீருக்குள் பல தோட்டாக்கள் இருப்பதை அவதானித்து பொலிஸாருக்கு தகவல் வழங்கியுள்ளார்.
+
+அதற்கமைய உடனடியாகச் செயற்பட்ட பொலிஸார்  குறித்த வாவிக்கு சென்று மேற்கொண்ட தேடுதலில் 5,038 தோட்டாக்களை மீட்டுள்ளனர்.
+
+குறித்த இடத்தில்  விசேட பொலிஸ் குழுவினரால் மேற்கொண்ட மேலதிக சோதனையின் போது  11 மெகசின்கள் மற்றும் 3150 தோட்டாக்கள் மீட்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/2579697f.json)
+
+---
 
 ### வாவியில் இருந்து 8,188 தோட்டாக்கள் மீட்பு
 
@@ -1781,35 +1815,5 @@ Consider this: a successful businessman in Colombo with visual impairment strugg
 ...
 
 [Data](articles/4e7a9bb3.json)
-
----
-
-### Ambeon Group reports strong Q1 performance with significant profit growth
-
-*2025-08-14 05:39:13* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Group-reports-strong-Q1-performance-with-significant-profit-growth/34-780243) · `en`
-
-Says diversified portfolio and strategic agility propelled Q1 2025/26 results
-
-Group Chief Executive Officer and Executive Director Dr. Sajeeva Narangoda
-
-Ambeon Capital PLC, the investment holding company of the Ambeon Group has reported a Profit After Tax (PAT) of Rs. 731 million marking a significant profit growth compared to Rs. 83 million a year ago.
-
-Ambeon Holdings PLC the group’s principal operating subsidiary which is a leading diversified conglomerate with core operations across Information Technology, Financial Services, Real Estate, and Strategic Investments, reported a Profit After Tax (PAT) of Rs. 677 million, marking a remarkable improvement compared to Rs. 183 million reported in the same period last year. This growth was primarily driven by fair value gains from strategic investments, demonstrating the Group’s strategic agility and ability to deliver consistent returns despite market volatility.
-
-...
-
-[Data](articles/72e12548.json)
-
----
-
-### EDB strengthens global trade network with strategic diplomatic appointments
-
-*2025-08-14 05:36:58* · [`dailyftlk`](https://www.ft.lk/business/EDB-strengthens-global-trade-network-with-strategic-diplomatic-appointments/34-780242) · `en`
-
-The Sri Lanka Export Development Board (EDB) recently held a strategic meeting with 15 newly appointed diplomatic representatives, aimed at strengthening the country’s export capabilities and enhancing market penetration across diverse international regions.
-
-...
-
-[Data](articles/a557dec0.json)
 
 ---

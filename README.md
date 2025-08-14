@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 14:26:22**
+As of **2025-08-14 14:37:38**
 
 ## Newspaper Stats
 
-*Scraped **70,486** Articles*
+*Scraped **70,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,802
-adaderanalk | 8,789
+adaderanalk | 8,790
 tamilmirrorlk | 10,371
-virakesarilk | 11,728
+virakesarilk | 11,730
 adaderanasinhalalk | 12,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,486 articles have been extended.
+61,973 (87.9%) of 70,489 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,6 +144,58 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Politicians supporting underworld, drug traffickers identified – IGP
+
+*2025-08-14 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111461/politicians-supporting-underworld-drug-traffickers-identified-igp) · `en`
+
+Inspector General of Police (IGP) Priyantha Weerasooriya says that the politicians who supported drug traffickers and underworld activities have already been identified.
+
+He further indicated that legal action would be taken against them in the near future.
+
+IGP Priyantha Weerasooriya made these remarks after assuming duties as the 37th Inspector General of Police of Sri Lanka at the Police Headquarters in Colombo this morning (14).
+
+◼️
+
+[Data](articles/9b29e4fc.json)
+
+---
+
+### ஒடுக்கப்படுகின்ற சமூகங்கள் எப்போது தமது எதிர்ப்பை கைவிடுகின்றார்களோ அப்போது அவர்களிற்கு குருதி சுற்றோட்டம் நின்றுபோகும்,ஆனால் அது நடக்காமலிருப்பதற்காகதான் நான் எழுதுகின்றேன்- கவிஞர் சேரன்
+
+*2025-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222553) · `ta`
+
+ஒடுக்கப்படுகின்ற,சமூகங்கள் எல்லாவற்றிலும் இந்த எதிர்ப்பு - மறுப்பு,நாளாந்தம் ஒவ்வொரு கணத்திலும் அவர்களுடன் இருக்கின்ற அந்த எதிர்ப்பு,மறுக்கப்படமுடியாதது என தெரிவித்துள்ள கவிஞர்சேரன் ருத்திரமூர்த்தி ஒடுக்கப்படுகின்ற சமூகங்கள் எப்போது தமது எதிர்ப்பை கைவிடுகின்றார்களோ அப்போது அவர்களிற்கு இந்த குருதி சுற்றோட்டம் நின்றுபோகும்,ஆனால் அது நடக்காமலிருப்பதற்காகதான் நான் எழுதுகின்றேன் என தெரிவித்துள்ளார்
+
+கொழும்பில் இடம்பெற்ற அவரது தமிழ் கவிதைகளின் சிங்களமொழிபெயர்ப்பு நூல் வெளியீட்டு நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்
+
+இன்றைக்கு மிகவும் மகிழ்ச்சியான நாள் நான் நீண்டகாலமாக எதிர்பார்த்திருந்த நாள்,இந்த நிகழ்வை, சாத்தியமாக்கியமைக்காக கவிஞர்கள் தோழர்கள் சஞ்சுலா பிரதீப்  மற்றும் வெளியீட்டாளர்களிற்கு என்னுடைய மனம்கனிந்த நன்றிகள்.
+
+இன்று என்னுடைய கவிதைகளை பற்றி நான் விரிவாக பேச முற்படவில்லை.ஆனால் எனது வாழ்க்கை அனுபவத்திலிருந்து இரண்டு கதைகளை சொல்ல விரும்புகின்றேன்.
+
+...
+
+[Data](articles/0c122bd0.json)
+
+---
+
+### இலங்கையில் மனிதபுதைகுழிகள் தோண்டப்படும் நிலையில் தமிழ் மக்கள் வெளிநாட்டு உதவியை எதிர்பார்க்கின்றனர்
+
+*2025-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222491) · `ta`
+
+இலங்கையில் மனித புதைகுழியொன்று தோண்டப்படும் ஒவ்வொரு தருணத்திலும் தம்பிராசா செல்வராணி உறக்கமிழந்தவராக காணப்படுகின்றார்.
+
+'எங்கள் உறவுகளிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் தோண்ட ஆரம்பிக்கும்போது நாங்கள் பதற்றமடைகின்றோம்" என அவர் டிடயில்யூவிற்கு(dw) தெரிவித்தார்.
+
+இலங்கையின் உள்நாட்டு போரின் இறுதி தருணங்களில் இலங்கைஇராணுவத்தினரிடம் சரணடைந்த பின்னர் காணாமல்போன தனது கணவர் முத்துலிங்கம் ஞானசெல்வத்தை 54வயது செல்வராணி தேடிவருகின்றார்.தசாப்தகால மோதலின் பின்னர் , தமிழீழ விடுதலைப்புலிகளின் தோல்வியுடன் யுத்தம்முடிவிற்கு வந்தது.
+
+அதன் பின்னர் பல பாரிய மனித புதைகுழிகள் கண்டுபிடிக்கப்பட்டுள்ளன.கடந்த மூன்று மாதகாலமாக தொல்பொருள் ஆய்வாளர்கள் செம்மணியில் உள்ள மனித  புதைகுழியை அகழ்ந்துவருகின்றனர்,இது இலங்கையின் வடபகுதி தலைநகரமான யாழ்ப்பாணத்தின் புறநகரில் உள்ளது.இதுவரை குழந்தைகளினது எலும்புக்கூடுகள் உட்பட 140க்கும் அதிகமான எலும்புக்கூடுகளை மீட்டுள்ளனர்.
+
+...
+
+[Data](articles/b4760051.json)
+
+---
+
 ### ”நாட்டின் பொருளாதார மீட்சி எதிர்பார்த்ததை விட வேகமாக முன்னேறி வருகிறது”
 
 *2025-08-14 13:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பொருளாதார-மீட்சி-எதிர்பார்த்ததை-விட-வேகமாக-முன்னேறி-வருகிறது/175-362903) · `ta`
@@ -177,6 +229,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/93e18b41.json)
+
+---
+
+### நுவரெலியா - ராகலை தனியார் பஸ் பணியாளர்கள் பணிப்பகிஷ்கரிப்பு
+
+*2025-08-14 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222552) · `ta`
+
+நுவரெலியா - ராகலை பிரதான வீதியில் சேவையில் ஈடுபடும் தனியார் பஸ் சாரதிகள் மற்றும் நடத்துனர்கள் திடீர் பணிப்பகிஷ்கரிப்பில் இன்று வியாழக்கிழமை (14) காலை முதல் ஈடுபட்டு வருகின்றனர்.
+
+நுவரெலியா - ராகலை  தனியார் பஸ் சாரதிக்கும் நுவரெலியா - கந்தப்பளை தனியார்  பஸ் சாரதிகளுக்குமிடையே நேற்று புதன்கிழமை (13) மாலை கந்தப்பளை மற்றும் நுவரெலியா பிரதான பஸ் தரிப்பிடத்திலும் இரு குழுக்களுக்கும் இடையே கருத்து முரண்பாடு ஏற்பட்டுள்ளது.
+
+குறிப்பாக இரு தரப்புக்கும் இடையில் நேர அட்டவணை மற்றும் வழி அனுமதி உள்ளிட்ட விடயங்கள் தொடர்பில் முரண்பாடுகள் நீண்ட காலமாக உள்ளமையும் குறிப்பிடத்தக்கது. இதனை நிவர்த்தி செய்ய வேண்டும் எனக் கோரியே நுவரெலியா - ராகலை பிரதான வீதியில் சேவையில் ஈடுபடும்  தனியார் பஸ் ஊழியர்கள் பணிப்பகிஷ்கரிப்பு போராட்டத்தினை முன்னெடுத்து வருகின்றனர்.
+
+குறித்த சம்பவம் தொடர்பில் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு ஒன்றினையும் நுவரெலியா - ராகலை வீதியில் இயங்கும் பஸ் சாரதிகள் மற்றும் நடத்துனர்கள் செய்துள்ளனர்.
+
+...
+
+[Data](articles/c3016f67.json)
 
 ---
 
@@ -1709,65 +1779,5 @@ Apply to your face, let it sit for 20 minutes, and then rinse off and follow wit
 ...
 
 [Data](articles/3aacde3d.json)
-
----
-
-### PFEC Global opens doors to global education
-
-*2025-08-13 22:46:00* · [`islandlk`](http://island.lk/pfec-global-opens-doors-to-global-education/) · `en`
-
-PFEC Global, a leading study abroad consultant, is giving Sri Lankan students the ticket to studying abroad by organising the World Study Fair on 15th August 2025 from 2pm to 6pm at the Hilton Hotel, Colombo 02.
-
-The World Study Fair will feature top-ranked institutions from Australia, UK, and Canada, providing a diverse array of academic pathways. It presents a wonderful opportunity for high school students to explore their degree studies options abroad, while current university students can map out their postgraduate studies abroad as well. Parents of such students are also welcome as they get to interact with experts in the field to get first-hand information on their children’s study abroad plans.
-
-Students visiting World Study Fair can enjoy multiple benefits. They will have the opportunity to explore a wide range of academic courses and study destinations across Australia, Canada, and the United Kingdom, allowing them to compare and select the most suitable options.
-
-...
-
-[Data](articles/b48cef5c.json)
-
----
-
-### ICC breaks ground on ‘The Residencies Kohuwala’ ~ a new benchmark in urban living ~
-
-*2025-08-13 22:45:00* · [`islandlk`](http://island.lk/icc-breaks-ground-on-the-residencies-kohuwala-a-new-benchmark-in-urban-living/) · `en`
-
-International Construction Consortium (ICC), announces the groundbreaking of its latest residential project, “The Residencies Kohuwala”. Set in one of Colombo’s most dynamic and connected neighborhoods, this new development is poised to redefine city living with smart design, premium amenities, and ICC’s signature quality.
-
-As both developer and contractor, ICC brings a unique commitment to excellence, delivering what is promised, on time, and without compromise. This dual expertise continues to set ICC apart in the real estate landscape, ensuring each project is completed with precision, integrity, and long term value.
-
-The launch of The Residencies Kohuwala comes as ICC celebrates significant milestones across its other flagship projects:
-
-...
-
-[Data](articles/4d2ebf86.json)
-
----
-
-### 99x reports breakthrough market traction for its new agentic AI platform
-
-*2025-08-13 22:44:00* · [`islandlk`](http://island.lk/99x-reports-breakthrough-market-traction-for-its-new-agentic-ai-platform/) · `en`
-
-99x, a global technology services leader, has made significant strides in the field of Agentic AI, securing multiple high-impact engagements powered by its proprietary orchestrator platform, Xians.ai (Agentri AI). These engagements span a diverse range of industries including financial services, legal, insurance, transportation, and accounting, validating the adaptability and commercial viability of 99x’s Agentic AI solutions.
-
-“Generative AI is a phenomenal leap, but its true value is unlocked through business process orchestration getting multiple AI agents to work together toward complex business goals,” said Hasith Yaggahavita, CEO of 99x Product Engineering. “We couldn’t find a powerful enough orchestrator that met our needs, so we built our own. The fact that many of our sophisticated clients have now adopted xians.ai as their orchestrator of choice is an exciting endorsement of our vision and capabilities.”
-
-...
-
-[Data](articles/663edab6.json)
-
----
-
-### First Capital Holdings reports robust Q1 FY2025/26 performance with Rs. 2.15Bn Profit after Tax
-
-*2025-08-13 22:43:00* · [`islandlk`](http://island.lk/first-capital-holdings-reports-robust-q1-fy2025-26-performance-with-rs-2-15bn-profit-after-tax/) · `en`
-
-First Capital Holdings PLC (the Group), a subsidiary of JXG (Janashakthi Group) and a pioneering full-service investment institution, announced its financial results for the first quarter ended 30 June 2025, reporting a Profit after Tax (PAT) of Rs. 2.15Bn, a substantial increase from Rs. 582Mn recorded in the corresponding period of the previous year. This strong performance reinforces the Group’s position as a leading investment institution in Sri Lanka, driven by strategic market alignment and sectoral diversification.
-
-The Group’s Net Trading Income before Operating Expenses stood at Rs. 3.40Bn, up from Rs. 1.12Bn in the same quarter of last year, reflecting effective execution in a favourable market shaped by a moderate decline in interest rates following a reduction in the monetary policy rate.
-
-...
-
-[Data](articles/44114c5f.json)
 
 ---

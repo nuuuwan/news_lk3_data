@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 13:19:18**
+As of **2025-08-14 13:32:47**
 
 ## Newspaper Stats
 
-*Scraped **70,477** Articles*
+*Scraped **70,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,800
+adalk | 6,801
 adaderanalk | 8,789
-tamilmirrorlk | 10,366
+tamilmirrorlk | 10,369
 virakesarilk | 11,728
 adaderanasinhalalk | 12,131
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 12,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,477 articles have been extended.
+61,973 (87.9%) of 70,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### 28 வயது இளைஞனை வன்புணர்ந்த 26 வயதான இளைஞன்
+
+*2025-08-14 13:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/28-வயது-இளைஞனை-வன்புணர்ந்த-26-வயதான-இளைஞன்/175-362905) · `ta`
+
+28 வயது இளைஞனை, 26 வயதுடைய இளைஞன் கடுமையாக பாலியல் வன்புணர்வுக்கு உட்படுத்திய சம்பவம் மொணராகலை பொலிஸ் பிரிவில் பதிவாகியுள்ளது.
+
+மெதகம பொலிஸ் பிரிவிற்குட்பட்ட நன்னபுரவ அறது அரடுமடில்ல பிரதேசத்தில் இடம்பெற்ற இந்த சம்பவத்தில் பாதிக்கப்பட்ட நபர், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். பாலியல் வன்புணர்வுக்கு உட்படுத்திய நபர், பொலிஸாரினால் புதன்கிழமை (13) கைது செய்யப்பட்டுள்ளார்.
+
+ஜூலை 10 ஆம் திகதிக்கும் 14 ஆம் திகதிக்கும் இடையில், கோட்டபோவா பகுதியில் இடம்பெற்ற பெரஹரா பார்ப்பதற்கு 28 வயதான இளைஞன் சென்றுக்கொண்டிருந்த போது, வீட்டுக்கு அருகில் உள்ள வர்த்த நிலையத்தில் வைத்து 26 வயதான ஒருவரை சந்தித்துள்ளார்.
+
+26 வயது இளைஞனும் பெஹரா பார்வையிடுவதற்காக செல்வதாக கூறியுள்ளார். அந்த 26 வயது இளைஞனின் மோட்டார் சைக்கிளில் இருவரும் ஏறி சென்றுள்ளனர்.
+
+அப்போது ரம்புட்டான் தோட்டத்துக்கு அழைத்துச் சென்று மரண அச்சுறுத்தல் விடுத்து, 28 வயது இளைஞனை, 26 வயதான இளைஞன் கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளார்.
+
+...
+
+[Data](articles/b31fef7f.json)
+
+---
+
+### ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டம்
+
+*2025-08-14 13:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-போராட்டம்/175-362904) · `ta`
+
+திருகோணமலையில் விவசாய நிலங்களை தனியார் நிறுவனங்களுக்கு பகிர்ந்தளிப்பதற்கும், அபிவிருத்தி திட்டங்களுக்காக வன நிலங்களை ஆக்கிரமிப்பதற்கும் எதிராக ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டம் நடத்தப்பட்டுள்ளது.
+
+திருகோணமலை முத்துநகர் பகுதியில் உள்ள 600 ஏக்கர் நெல் நிலம் இந்திய நிறுவனங்களுக்கு விநியோகிக்கப்படுவதை நிறுத்தவும், வன நிலங்களை ஆக்கிரமிக்கப்படுவதற்கு எதிர்ப்பை வலியுறுத்தியும் போராட்டக்காரர்கள் பதாகைகளை ஏந்தியிருந்தனர்.
+
+போராட்டத்தில் பங்கேற்ற மாணவர் செயற்பாட்டாளர்களான வசந்த முதலிகே மற்றும் லஹிரு வீரசேகர ஆகியோர் ஜனாதிபதி செயலகத்திற்கு வெளியே ஒரு மூத்த பொலிஸ் அதிகாரியுடன் சூடான விவாதத்தில் ஈடுபட்டனர்.
+
+உரையாடலின் போது, இரண்டு வாரங்களுக்கு முன்பு விவாதிக்கப்பட்ட பிரச்சினைக்கு அதிகாரிகள் தீர்வு காணத் தவறியதால் போராட்டம் நடத்தப்படுவதாக வசந்த முதலிகே கூறினார்.
+
+...
+
+[Data](articles/c760d2ed.json)
+
+---
+
+### ”நாட்டின் பொருளாதார மீட்சி எதிர்பார்த்ததை விட வேகமாக முன்னேறி வருகிறது”
+
+*2025-08-14 13:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பொருளாதார-மீட்சி-எதிர்பார்த்ததை-விட-வேகமாக-முன்னேறி-வருகிறது/175-362903) · `ta`
+
+இலங்கையின் பொருளாதார மீட்சி ஆரம்பத்தில் எதிர்பார்த்ததை விட வேகமாக முன்னேறி வருவதாகவும், அடுத்த ஆண்டுக்குள் நாடு நெருக்கடிக்கு முந்தைய நிலைகளை விஞ்சிவிடும் என்றும் மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க கூறுகிறார்.
+
+நெருக்கடியின் உச்சத்தில், பொருளாதார சீர்திருத்தங்கள் எதிர்பார்த்ததை விட விரைவாக பெறுபேறுகளைத் தருவதாக சனல் நியூஸ் ஆசியாவிற்கு அளித்த பேட்டியில் வீரசிங்க கூறினார்.
+
+"ஒரு நாடு ஒரு நெருக்கடியால் பாதிக்கப்பட்டவுடன், உற்பத்தி இழப்பை மீட்டெடுக்க அதே நிலைக்குத் திரும்ப நான்கு முதல் ஐந்து ஆண்டுகள் ஆகும். எங்கள் விஷயத்தில், மூன்று ஆண்டுகளுக்குள், நாங்கள் கிட்டத்தட்ட அங்கு சென்றுவிட்டோம்," என்று அவர் கூறினார்.
+
+அடுத்த ஆண்டுக்குள், வேலைவாய்ப்பு, வறுமைக் குறைப்பு, வருமானம் மற்றும் வாழ்க்கைச் செலவு போன்ற முக்கிய துறைகளில் இலங்கை நெருக்கடிக்கு முந்தைய நிலைகளை விட சிறப்பாக இருக்கும் என்று ஆளுநர் நம்பிக்கை தெரிவித்தார்.
+
+...
+
+[Data](articles/2911b602.json)
+
+---
 
 ### BOC, ITN உட்பட பல அரச நிறுவனங்களுக்கு புதிய தவிசாளர்கள் நியமனம்
 
@@ -593,6 +649,26 @@ The Acting Director of the Police Cultural Division, SSP Sathish Gamage has been
 ◼️
 
 [Data](articles/77d27603.json)
+
+---
+
+### හඳුනා නොගත් මත්කරල් හා මත්ද්‍රව්‍ය සමග හතරක් අත්අඩංගුවට
+
+*2025-08-14 09:46:09* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනා-නොගත්-මත්කරල්-හා-මත්ද්‍රව්‍ය-සමග-හතරක්-අත්අඩංගුවට/11-417910) · `si`
+
+හඳුනා නොගත් මත්කරල් 600 ක්, අයිස් මත්ද්‍රව්‍ය සහ හෙරෝයින් සමග පුද්ගලයින් සිව් දෙනකු අත්අඩංගුවට ගත් බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර, සහ ගල්පාත ප්‍රදේශයේ පදිංචි පුද්ගලයින් බවද පොලිසිය කීය.
+
+බස්නාහිර පළාත්  කළුතර බුද්ධි නිළධාරින්ට ලද තොරතුරක් මත සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් සන්තකයේ තිබු මත්කරල් 600 ක්, අයිස් මිලිග්‍රෑම් 6800 ක්, හෙරොයින් මිලිග්‍රෑම් 60 ක් සොයාගත් බව පොලිසිය සදහන් කරයි .
+
+අධ්‍යක්ෂ ජේෂ්ඨ පොලිස් අධිකාරී ඒජීකේ කිරිඇල්ල, මහතා ගේ උපදෙස් පරිදි ස්ථානාධිපති පොලිස් පරීක්ෂක තිලංග සංජීව මහතාගේ මෙහෙයවීමෙන් උප පොලිස් පරීක්ෂක  අතුල කුමාර  ඇතුළු නිළධාරින් වැටලීමට එක්වූහ .
+
+◼️
+
+[Data](articles/4906ba98.json)
 
 ---
 
@@ -1671,67 +1747,5 @@ ECONOMYNEXT – Sri Lanka has sold all 103.5 billion rupees of bills offered at 
 ◼️
 
 [Data](articles/3c283d85.json)
-
----
-
-### Israeli gunfire kills at least 25 in Gaza as Netanyahu says he will allow Palestinians to leave
-
-*2025-08-13 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111446/israeli-gunfire-kills-at-least-25-in-gaza-as-netanyahu-says-he-will-allow-palestinians-to-leave) · `en`
-
-Israeli gunfire killed at least 25 people seeking aid in Gaza on Wednesday, health officials and witnesses said, while Prime Minister Benjamin Netanyahu said Israel will “allow” Palestinians to leave during an upcoming military offensive in some of the territory’s most populated areas.
-
-Netanyahu wants to realize U.S. President Donald Trump’s vision of relocating much of Gaza’s population of over 2 million people through what he refers to as “voluntary migration” — and what critics have warned could be ethnic cleansing.
-
-“Give them the opportunity to leave! First, from combat zones, and also from the Strip if they want,” Netanyahu said in an interview aired Tuesday with Israeli TV station i24 to discuss the planned offensive in areas including Gaza City, where hundreds of thousands of displaced people shelter. “We are not pushing them out but allowing them to leave.”
-
-...
-
-[Data](articles/a49fba1c.json)
-
----
-
-### இராணுவ முகாம்களை அகற்ற வேண்டிய அவசியமில்லை
-
-*2025-08-13 21:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாம்களை-அகற்ற-வேண்டிய-அவசியமில்லை/175-362867) · `ta`
-
-இராணுவ முகாம்களையோ அல்லது பொலிஸ் நிலையங்களையோ தேவையில்லாமல் அகற்ற வேண்டிய அவசியமில்லை என ஜனாதிபதி ஆலோசனை வழங்கியுள்ளதாக பொதுமக்கள் பாதுகாப்பு பிரதி அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
-
-முல்லைத்தீவு, முத்தையன்கட்டு இராணுவ முகாமில் இடம்பெற்ற சம்பவம் தொடர்பில் மட்டக்களப்பு மாவட்ட அபிவிருத்தி குழு கூட்டத்தில் கலந்துகொண்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இதனைத் தெரிவித்தார். R
-
-◼️
-
-[Data](articles/9642ae11.json)
-
----
-
-### நிலைத்தன்மையான மீன்பிடிக்காக WTO மீன்பிடி மானிய உடன்படிக்கையில் இணைந்த இலங்கை
-
-*2025-08-13 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222529) · `ta`
-
-நிலைபேறான மீன்பிடித் தொழிலுக்கான இலங்கை அரசாங்கத்தின் அர்ப்பணிப்பை உறுதிப்படுத்தும் வகையில், உலக வர்த்தக அமைப்பின் (WTO) மீன்பிடி மானிய உடன்படிக்கையில் இலங்கை அண்மையில் உத்தியோகபூர்வமாக இணைந்தது. இதன்படி, இலங்கையின் உலக வர்த்தக அமைப்பின் தூதுவர் ஆர். ஜி. எஸ். விஜேசேகர, இதற்கான அங்கீகார பத்திரத்தை அமைப்பின் பணிப்பாளர் நாயகத்திடம் உத்தியோகபூர்வமாக கையளித்தார்.
-
-பல வருடங்களாக விவாதிக்கப்பட்டு வந்த இந்த உடன்படிக்கை மூலம், சட்டவிரோத, அறிவிக்கப்படாத மற்றும் ஒழுங்குபடுத்தப்படாத மீன்பிடி நடவடிக்கைகளுக்கு (IUU) வழங்கப்படும் மானியங்கள் மற்றும் அதிகப்படியான மீன்பிடி இருப்புக்களுக்கு வழங்கப்படும் மானியங்களை தடைசெய்யப்படும்.
-
-...
-
-[Data](articles/bff753b6.json)
-
----
-
-### ‘Kandalame Hadakaraya’ dies despite months of treatment for gunshot wound
-
-*2025-08-13 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111445/kandalame-hadakaraya-dies-despite-months-of-treatment-for-gunshot-wound-) · `en`
-
-The majestic tusker popularly known as ‘Kandalame Hadakaraya’, who had been receiving treatment at the Kandalama Reservoir for over six months, has reportedly died this afternoon (13).
-
-The wild elephant, estimated to be between 25 and 30 years old, had been in critical condition after sustaining a gunshot wound to one of its front legs.
-
-This wild elephant had been shot on several previous occasions in the past as a result of the ongoing human–elephant conflict in the area.
-
-About a year ago, after undergoing treatment and being released back into the wild, the jumbo was shot once again, but this injury would turn out to be a fatal one.
-
-◼️
-
-[Data](articles/fefaf1a9.json)
 
 ---

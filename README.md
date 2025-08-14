@@ -1,36 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 08:48:15**
+As of **2025-08-14 09:22:14**
 
 ## Newspaper Stats
 
-*Scraped **70,420** Articles*
+*Scraped **70,428** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 718
+colombotelegraphcom | 720
 economynextcom | 4,290
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,792
-adaderanalk | 8,782
-tamilmirrorlk | 10,346
+adalk | 6,793
+adaderanalk | 8,784
+tamilmirrorlk | 10,347
 virakesarilk | 11,723
-adaderanasinhalalk | 12,122
+adaderanasinhalalk | 12,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,420 articles have been extended.
+61,973 (88.0%) of 70,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### சில இடங்களில் பல தடவைகள் மழை பெய்யும்
+
+*2025-08-14 08:57:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-362885) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடிய சாத்தியக்கூறுகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் பிற்பகல் 2 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைகளின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும், திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு (30-40) கிலோமீற்றர் வேகத்தில் மிதமான காற்று வீசக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/56fff88b.json)
+
+---
+
+### නව පොලිස්පති වැඩ භාරගනී
+
+*2025-08-14 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213351) · `si`
+
+නව පොලිස්පතිවරයා ලෙස පත්වූ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා අද (14) උදෑසන සිය ධුරයේ වැඩ භාරගනු ලැබීය.
+
+මෙහිදී සභාව අමතමින් නව පොලිස්පතිවරයා සඳහන් කර සිටියේ, තමාට අට ලෝ දහම හොඳින් හුරු පුරුදු බවත්, පොලීසියේ ගෞරවය හා පෞඩත්වය රැක ගැනීම වෙනුවෙන් කළ හැකි සෑම දේම තමා සිය රාජකාරිය තුළ ඉටු කරන බවත්ය.
+
+පොලීසියේ දැක්ම අනුව යමින් එය යථාර්ථයක් කිරීමට තමා කටයුතු කරන බවත් ඒ සඳහා සියලු පොලිස් නිලධාරීන්ගේ ඉහළ කාර්ය සාධනයක් බලාපොරොත්තු වන බව ද පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා පැවසීය.
+
+විනයානුකූල පොලීසියක් සකස් කිරීම තම එකම අභිප්‍රාය බවත් එය තමා ඉහළින්ම සලකන බවත් පැවසු පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා තමාව පොලිස්පති ධුරයට පත්කළ සියලුදෙනාට ස්තූතිය පළ කරන බවත් කියා සිටියේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා පත්කරනු ලැබීය.
+
+මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා වෙත ජනාධිපති කාර්යාලයේදී ඊයේ (13) පස්වරුවේ භාරදුනි.
+
+...
+
+[Data](articles/6a0bad7c.json)
+
+---
+
+### European leaders tentatively hopeful after call with Trump ahead of Putin summit
+
+*2025-08-14 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111452/european-leaders-tentatively-hopeful-after-call-with-trump-ahead-of-putin-summit) · `en`
+
+European leaders appeared cautiously optimistic after holding a virtual meeting with Donald Trump on Wednesday, two days before he meets his Russian counterpart Vladimir Putin in Alaska to discuss ending the war in Ukraine.
+
+Trump reportedly told the Europeans that his goal for the summit was to obtain a ceasefire between Moscow and Kyiv.
+
+He also agreed that any territorial issues had to be decided with Volodymyr Zelensky’s involvement, and that security guarantees had to be part of the deal, according to France’s Emmanuel Macron.
+
+Speaking to Trump had allowed him to “clarify his intentions” and gave the Europeans a chance to “express our expectations,” Macron said.
+
+Trump and Vice-President JD Vance spoke to the leaders of the UK, France, Germany, Italy, Finland and Poland as well as EU chief Ursula von der Leyen and Nato chief Mark Rutte.
+
+...
+
+[Data](articles/92b71c12.json)
+
+---
+
+### 10-hour water cut in several areas of Gampaha today
+
+*2025-08-14 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111451/10-hour-water-cut-in-several-areas-of-gampaha-today) · `en`
+
+A 10-hour water cut will be imposed in several areas of the Gampaha District today (14), the National Water Supply & Drainage Board (NWSDB) announced.
+
+Accordingly, the water supply to  Nittambuwa, Kandahena, Mapagolla, Kongasdeniya, Pinnagollawatta, Kolawatta, Gorakadeniya, Ranpokunagama, Ranpokunagama Housing Scheme, Urapola, Dikkanda, Meevitigammana, Maimbula, Mathalana, Haggalla, Alawala, Kalalpitiya, and Ellamulla will be suspended for 10 hours, from 10.00 a.m. to 8.00 p.m. on Thursday, the NWSDB said.
+
+The NWSDB expresses regret for the inconvenience caused to the public as a result of disruptions to the water supply.
+
+◼️
+
+[Data](articles/b6800445.json)
+
+---
+
+### තායිලන්තයෙන් මෙරටට ගෙන ආ රු කෝටි 4ක් වටින කුෂ්
+
+*2025-08-14 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213350) · `si`
+
+වායු සමීකරණ උපකරණ තුළ සඟවා තායිලන්තයේ සිට මෙරටට ගෙන එන ලද රුපියල් කෝටි හතරක් පමණ වටිනාකමින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් කොළඹ මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය මඟින් සිය භාරයට ගෙන තිබේ.
+
+පෑලියගොඩ නුගේ පාර වරාය බහාලුම් අංගනයක බහලුමක් තුළ තිබී කිලෝග්‍රෑම් 6කට අධික කුෂ් මත්ද්‍රව්‍ය තොගයක් සොයාගත් බව මධ්‍යම අපරාධ විමර්ශන කාර්යංශයේ අධ්‍යක්ෂ පොලිස් අධිකාරී කමල් ආරියවංශ මහතා සඳහන් කළේය.
+
+මෙම කුෂ් මත්ද්‍රව්‍ය තොගය ආනනය කිරීම සම්බන්ධයෙන් වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි 36 හැවිරිදි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0530e16e.json)
+
+---
 
 ### Gunshots fired into air in front of house in Muthuhenawatte
 
@@ -464,6 +554,32 @@ The exercise will also have the Special Forces of the two navies undertake the I
 
 ---
 
+### Peacebuilding In Post-War Sri Lanka: Progress, Pitfalls & The Way Forward After 16 Years
+
+*2025-08-14 03:41:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/peacebuilding-in-post-war-sri-lanka-progress-pitfalls-the-way-forward-after-16-years/) · `en`
+
+More than sixteen years after the end of Sri Lanka’s civil war in May 2009, the nation stands at a decisive juncture. While physical reconstruction has advanced, deep seated challenges in reconciliation, justice, and inclusive development continue to obstruct lasting peace. The nearly three decade long conflict left a legacy of trauma, displacement, and socio-economic disruption particularly in the Northern and Eastern Provinces. This article traces the trajectory of peacebuilding in Sri Lanka since 2009, examining key achievements, persistent gaps, and opportunities for reform. Drawing on policy analysis and field insights from Mullaitivu, a district among the most affected by the war, it assesses the effectiveness of post-war initiatives and proposes strategies for fostering sustainable peace and inclusive development in post-conflict societies.
+
+...
+
+[Data](articles/8f095d9b.json)
+
+---
+
+### Round & Round, Failure To More Failure
+
+*2025-08-14 03:27:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/round-round-failure-to-more-failure/) · `en`
+
+“The great theatre of the world has a small personnel. In historic costumes, with the language of various epochs in their mouths, the same figures keep appearing, playing in a few eternal conflicts”
+
+Our dreary post-independence history seems to be that of a country going round in circles; a lot of posturing, a big noise, but a poor performance. In self-justification, it is argued by some politicians  that Sri Lanka had advanced relative to what prevailed in 1948. This claim is undeniably true; we are now not what we were seventy years ago. This would be true of every country on this planet, they have all advanced in these seventy years. However, this comparison is to only our country, in relation to ourselves then in 1948, to now. They don’t compare our progress against countries like Malaysia, Thailand, Vietnam, Singapore or China, the resurgent Asia.
+
+...
+
+[Data](articles/584873b3.json)
+
+---
+
 ### 2026 வரவு செலவு திட்ட பூர்வாங்க கலந்துரையாடல்
 
 *2025-08-14 02:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-வரவு-செலவு-திட்ட-பூர்வாங்க-கலந்துரையாடல்/175-362884) · `ta`
@@ -844,11 +960,9 @@ About a year ago, after undergoing treatment and being released back into the wi
 
 මෙම යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (13) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පවත්වා තිබේ.
 
-මන්නාරම ප්‍රදේශයේ යෝජිත සුළං විදුලි බලාගාරය සහ ඒ සම්බන්ධ මතු වී ඇති ගැටලු පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (13) පස්වරුවේ පැවැත්විණි.
+සුළං බලාගාරය හේතුවෙන් ප්‍රදේශයේ ජනතාවට ඇති වී ඇති ගැටලු පිලිබඳව සොයා බලා ඒ සඳහා විසඳුම් ලබා දීමට අවශ්‍ය ව්‍යුහයක් ඇති කිරීමටද මෙහිදී තීරණය විය. එසේම ටෙන්ඩර් කැඳවා කොන්ත්‍රාත් ප්‍රදානය කර, මේ වනවිට ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදිකිරීම් කටයුතු තාවකාලිකව අත්හිටුවීමට ද තීරණය කරන ලදී.
 
-මෙම සාකච්ඡාවේදී රටේ බලශක්ති අවශ්‍යතාව සහ ආර්ථිකයට ව්‍යාපෘතියේ වැදගත්කම පිළිබඳව අවධානය යොමු කෙරිණි.
-
-සුළං බලාගාරය හේතුවෙන් ප්‍රදේශයේ ජනතාවට ඇති වී ඇති ගැටලු පිලිබදව සොයා බලා ඒ සඳහා විසදුම් ලබා දීමට අවශ්‍ය ව්‍යුහයක් ඇති කිරීමටද මෙහිදී  තීරණය විය. එසේම ටෙන්ඩර් කැඳවා කොන්ත්‍රාත් ප්‍රදානය කර, මේ වනවිට ආරම්භ කර ඇති මෙගාවොට් 20ක සහ යෝජිත මෙගාවොට් 50ක සුළං විදුලි බලාගාර දෙකෙහි ඉදි කිරීම් කටයුතු තාවකාලිකව අත්හිටුවීමට ද තීරණය කරන ලදී.
+බලශක්තිය යනු ප්‍රදේශයේ පමණක් නොව රටේ ජාතික සම්පතක් බවත්, විදුලිය ප්‍රශ්නය ගෘහස්ථ විදුලි බිලට පමණක් නොව රටේ නිෂ්පාදන පිරිවැය, විදෙස් ආයෝජන සහ සමස්ත ආර්ථිකය සමඟ බැඳී පවතින බවත් ජනාධිපතිවරයා විසින් මෙම සාකච්ඡාවේදී පෙන්වා දෙනු ලැබීය.
 
 ...
 
@@ -1105,6 +1219,30 @@ The initiative seeks to raise public awareness about the Clean Sri Lanka concept
 ...
 
 [Data](articles/cc54c150.json)
+
+---
+
+### වාහන ආනයනයෙන් ඩොලර් බිලියනය ඉක්මවූ ආදායමක්
+
+*2025-08-13 18:35:59* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනයෙන්-ඩොලර්-බිලියනය-ඉක්මවූ-ආදායමක්/11-417900) · `si`
+
+වාහන ආනයනයෙන් වර්තමානය වන විට 72%ක ඉලක්කයක් සපුරාගෙන අවසන් බව රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+
+ඒ අනුව මෙම වසර අසන් වන විට  ඇමරිකානු ඩොලර් බිලියනය ඉක්ම වූ ඉලක්කගත අදායමක් ලබා ගත හැකි බව එහිදී අදහස් පළ කරමින් භාණ්ඩාගාර නියෝජ්‍ය ලේකම් ඒ.කේ.සෙනෙවිරත්න මහතා පැවසීය.
+
+රජයේ මුදල් පිළිබඳ කාරක සභාව වැඩබලන සභාපති පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මේ බව අනාවරණය විය.
+
+කමිටු සාමාජිත පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක – දැන් වාහන කීයක් විතර ඇවිල්ලා තිබෙනවාද? අපේ ටාගට් එක ළං වෙලාද?  අපි ලබාගෙන තිබෙන  මුළු ආදායම කොපමණද?
+
+රාජ්‍ය මුල්‍ය ප්‍රතිපත්ති දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් කපිල සේනානායක  - මුළු ආදායම අගෝස්තු 05 වැනිදා වෙද්දි රුපියල් බිලියන 316යි. ඒක ඇස්තමේන්තු මුදලින් 72%ක් පමණ වෙනවා.
+
+භාණ්ඩාගාර නියෝජ්‍ය ලේකම් ඒ.කේ.සෙනෙවිරත්න – අගෝස්තු 06 වැනිදා වෙනකන් එල්.සී. විවෘත කරලා තියෙනවා 1278ක්. වාහන 172, 292ට. ආදායම ඇවිත් තිබෙනවා රුපියල් බිලියන 321ක්.
+
+කමිටු සාමාජික නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ – ඒ ඇවිල්ලා තියෙන්නේ ආපු වාහනවලින්නේ?
+
+...
+
+[Data](articles/0349d56c.json)
 
 ---
 
@@ -1615,151 +1753,5 @@ Meanwhile, Profits at Sri Lanka’s Haycarb Plc fell 30 percent to 517 million r
 ...
 
 [Data](articles/36145f88.json)
-
----
-
-### Sri Lanka’s EDCM focuses on entering into new tariff deal in exports
-
-*2025-08-13 16:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-edcm-focuses-on-entering-into-new-tariff-deal-in-exports-236100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Export Development Council of Ministers (EDCM) discussed entering into new tariff agreements and matters related to tariff structures among many other measures in achieving the government’s export target of USD 36 billion by 2030, President Media Division (PMD) said.
-
-Sri Lanka has set an ambitious target of USD 36 billion in 2030 from last year’s USD 16.17 billion. This includes both merchandise and service exports from the island nation.
-
-The PMD said the President’s attention was drawn to several vital aspects related to the development of the export sector, including the advancement of the gem and jewellery industry, the installation of a new scanning machine to improve customs efficiency, and the pharmaceutical export industry, the PMD said in a statement.
-
-...
-
-[Data](articles/79d3f196.json)
-
----
-
-### ඉන්දියාවේ සිට හම්බන්තොටට නෞකාවක්
-
-*2025-08-13 16:15:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිට-හම්බන්තොටට-නෞකාවක්/11-417891) · `si`
-
-ඉන්දියාවේ චෙන්නායි සිට සංචාරකයන් රැගත් නෞකාවක් අද (13) හම්බන්තොට වරායට පැමිණ ඇත.
-
-ඉන්දියානු සංචාරකයින් 1,800කට ආසන්න පිරිසක් මෙම නෞකාවෙන් දිවයිනට පැමිණෙන ලදී.එම නෞකාව අද දින හම්බන්තොට මාගම්පුර වරායේ නැංගුරම්ලා තිබීමට නියමිතයි.
-
-එම සංචාරකයින් යාල, හම්බන්තොට ඇතුළු දිවයිනේ විවිධ ප්‍රදේශවල සංචාරය කිරීම සඳහා දැනට පිටත් වී ඇත.
-
-◼️
-
-[Data](articles/3caf3ee7.json)
-
----
-
-### Zelenskiy heads to Berlin for online meeting with Trump, European leaders
-
-*2025-08-13 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111440/zelenskiy-heads-to-berlin-for-online-meeting-with-trump-european-leaders) · `en`
-
-Ukrainian President Volodymyr Zelenskiy travelled to Berlin on Wednesday for a German-hosted virtual meeting with Donald Trump and European leaders, two days before the U.S. president meets Russian President Vladimir Putin in Alaska.
-
-Europe’s leaders are trying to drive home the perils of selling out Kyiv’s interests at the first U.S.-Russia summit since 2021.
-
-Trump has said the Alaska talks will be a “feel-out” meeting as he pursues a ceasefire in Moscow’s war on Ukraine, having said last week, to consternation in Kyiv and Europe, that any deal would involve “some swapping of territories”.
-
-Zelenskiy will meet German Chancellor Friedrich Merz before a video conference with the leaders of Germany, Finland, France, Britain, Italy, Poland and the European Union at 2 p.m. (1200 GMT), the hosts said.
-
-Trump and Vice President JD Vance will join the call at 3 p.m. (1300 GMT).
-
-...
-
-[Data](articles/f6f3783f.json)
-
----
-
-### 37வது பொலிஸ் மா அதிபராக பிரியந்த வீரசூரிய நியமனம்
-
-*2025-08-13 15:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37வது-பொலிஸ்-மா-அதிபராக-பிரியந்த-வீரசூரிய-நியமனம்/175-362849) · `ta`
-
-மூத்த துணைப் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவை புதிய பொலிஸ் மா அதிபராக (IGP) ஜனாதிபதி அனுரகுமார திசாநாயக்க, நியமித்துள்ளார்.
-
-அவருக்கான நியமனக் கடிதம், ஜனாதிபதி செயலகத்தில் ஜனாதிபதியின் செயலாளர் டாக்டர் நந்திக சனத் குமநாயக்கவினால் பிரியந்த வீரசூரியவிடம் புதன்கிழமை (13) பிற்பகல் வழங்கப்பட்டது.
-
-இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 61 E (b) பிரிவின்படி, அரசியலமைப்பு சபையின் ஒப்புதலுடன் இந்த நியமனம் செய்யப்பட்டுள்ளது.
-
-உயர் பதவியை ஏற்பதற்கு முன்பு, பொலிஸ் கான்ஸ்டபிள், துணைப் பொலிஸ் மா அதிபர் மற்றும் உதவிப் பொலிஸ் மா அதிபர் ஆகிய மூன்று முக்கிய பதவிகளிலும் முன்னேறிய முதல் பொலிஸ் மா அதிபர் இவர் ஆவார்.
-
-◼️
-
-[Data](articles/8bd629c5.json)
-
----
-
-### බී ලූණු ගොවීන් රජයෙන් කරන ඉල්ලීම
-
-*2025-08-13 15:44:43* · [`adalk`](https://www.ada.lk/breaking_news/බී-ලූණු-ගොවීන්-රජයෙන්-කරන-ඉල්ලීම/11-417890) · `si`
-
-මෙවර කන්නයේ බී ලූණු වගාව සාර්ථකව ඇති බැවින්, එම අස්වැන්න වෙළඳපලට පැමිණෙන අවස්ථාවේ බී ලූණු ආනයනය සීමා කර බද්දක් පනවා, ගොවියාට හා පාරිභෝගිකයාට අසාධාරණයක් නොවන මිලක් නියම කරන ලෙස බී ලූණු වගා කිරීමේ ගොවීන්ගේ සංගමය පවසයි.
-
-මහවැලි එච් කලාපයේ බී ලූණු ගොවීන්ගේ සංගමයේ සභාපති ඔස්ටින් චමින්ද කුමාර මහතා ඇතුළු ගොවීන් ඉල්ලන්නේ, මෙම මස 15 වැනි දින සිට ලබන මස අවසන් වනතුරු පමණක් බී ලූණු ආනයනය සීමා කරන ලෙසය.
-
-තමන්ට බී ලූණු වගා කිරීමේදී කිලෝග්‍රෑමයකට රුපියල් 140 පමණ වැය වන බවත්, ලැබූ අස්වැන්න සඳහා කිලෝග්‍රෑමයකට රුපියල් 200 ක පමණ මිලක් බලාපොරොත්තු වන බවත් ඔවුන් පවසති. මේ සඳහා රජය මැදිහත් විය යුතු බවද ඔවුන් අවධාරණය කරයි.
-
-මෙවර තම අස්වැන්නට නිසි මිලක් නොලැබුණහොත්, ඉදිරියේදී ගොවීන්ට මෙම වගාවෙන් ඉවත්වීමට සිදුවන අතර, ඉන් අනතුරුව රටට අවශ්‍ය සියලුම බී ලූණු පිටරටින් ආනයනය කිරීමට සිදුවන බවද ගොවීහු පෙන්වා දෙති.
-
-...
-
-[Data](articles/61497285.json)
-
----
-
-### இலங்கையில் மனிதபுதைகுழிகள் தோண்டப்படும் நிலையில் தமிழ் மக்கள் வெளிநாட்டு உதவியை எதிர்பார்க்கின்றனர்
-
-*2025-08-13 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/222491) · `ta`
-
-இலங்கையில் மனித புதைகுழியொன்று தோண்டப்படும் ஒவ்வொரு தருணத்திலும் தம்பிராசா செல்வராணி உறக்கமிழந்தவராக காணப்படுகின்றார்.
-
-'எங்கள் உறவுகளிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் தோண்ட ஆரம்பிக்கும்போது நாங்கள் பதற்றமடைகின்றோம்" என அவர் டிடயில்யூவிற்கு(dw) தெரிவித்தார்.
-
-இலங்கையின் உள்நாட்டு போரின் இறுதி தருணங்களில் இலங்கைஇராணுவத்தினரிடம் சரணடைந்த பின்னர் காணாமல்போன தனது கணவர் முத்துலிங்கம் ஞானசெல்வத்தை 54வயது செல்வராணி தேடிவருகின்றார்.தசாப்தகால மோதலின் பின்னர் , தமிழீழ விடுதலைப்புலிகளின் தோல்வியுடன் யுத்தம்முடிவிற்கு வந்தது.
-
-அதன் பின்னர் பல பாரிய மனித புதைகுழிகள் கண்டுபிடிக்கப்பட்டுள்ளன.கடந்த மூன்று மாதகாலமாக தொல்பொருள் ஆய்வாளர்கள் செம்மணியில் உள்ள மனித  புதைகுழியை அகழ்ந்துவருகின்றனர்,இது இலங்கையின் வடபகுதி தலைநகரமான யாழ்ப்பாணத்தின் புறநகரில் உள்ளது.இதுவரை குழந்தைகளினது எலும்புக்கூடுகள் உட்பட 140க்கும் அதிகமான எலும்புக்கூடுகளை மீட்டுள்ளனர்.
-
-...
-
-[Data](articles/b4760051.json)
-
----
-
-### Former Deputy Director of Prison Hospital remanded
-
-*2025-08-13 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111439/former-deputy-director-of-prison-hospital-remanded-) · `en`
-
-Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe who was arrested on bribery charges earlier today (13), has been remanded until August 19.
-
-The order was issued by Colombo Additional Magistrate Manjula Ratnayake after considering the facts presented by the Bribery Commission and the defense lawyers.
-
-He was arrested in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
-
-After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, a sum of Rs. 300,000 was reportedly accepted as a bribe.
-
-◼️
-
-[Data](articles/9817f107.json)
-
----
-
-### Priyantha Weerasooriya appointed as Sri Lanka’s 37th IGP
-
-*2025-08-13 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111438/priyantha-weerasooriya-appointed-as-sri-lankas-37th-igp) · `en`
-
-Priyantha Weerasooriya has been appointed as the 37th Inspector General of Police of Sri Lanka.
-
-The appointment has been made by President Anura Kumara Dissanayake, the President’s Media Division said.
-
-The letter of appointment has been handed over to IGP Priyantha Weerasooriya by Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-Accordingly, Priyantha Weerasooriya (Attorney-at-Law) will assume duties in the office of Inspector General of Police on the 14th day of August, 2025, at Police Headquarters, Colombo 02.
-
-The Constitutional Council yesterday (12) approved President Dissanayake’s recommendation to appoint Acting Inspector General of Police (IGP) Priyantha Weerasooriya as the new IGP.
-
-The position of IGP became vacant following the removal of former IGP Deshabandu Tennakoon through a resolution in Parliament.
-
-...
-
-[Data](articles/1f641ab4.json)
 
 ---

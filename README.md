@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 09:22:14**
+As of **2025-08-14 09:43:20**
 
 ## Newspaper Stats
 
-*Scraped **70,428** Articles*
+*Scraped **70,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,290
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,793
+adalk | 6,794
 adaderanalk | 8,784
 tamilmirrorlk | 10,347
 virakesarilk | 11,723
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (88.0%) of 70,428 articles have been extended.
+61,973 (88.0%) of 70,429 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,7 +234,7 @@ Based on survivor accounts, about 95 migrants left Libya on two boats, Internati
 
 *2025-08-14 06:47:33* · [`adalk`](https://www.ada.lk/breaking_news/කණ්ඩලමේ-හැඩකාරයා-සමුගනියි/11-417905) · `si`
 
-ඉදිරි මාසයකට එල්ල වූ වෙඩි ප්‍රහාරයක් හේතුවෙන් මාස 6කට අධික කාලයක් කණ්ඩලම වැවේ ප්‍රතිකාර ලබමින් සිටි 'කණ්ඩලමේ හැඩකාරයා' ලෙසින් ප්‍රසිද්ධව සිටි වන අලියා ඊයේ (13) පස්වරුවේ මියගොස් තිබේ.
+ඉදිරි පාදයකට එල්ල වූ වෙඩි ප්‍රහාරයක් හේතුවෙන් මාස 6කට අධික කාලයක් කණ්ඩලම වැවේ ප්‍රතිකාර ලබමින් සිටි 'කණ්ඩලමේ හැඩකාරයා' ලෙසින් ප්‍රසිද්ධව සිටි වන අලියා ඊයේ (13) පස්වරුවේ මියගොස් තිබේ.
 
 වයස අවුරුදු 25 -30 අතර පසු වූ කණ්ඩලයේ හැඩ කාරයා අලි - මිනිස් ගැටුමේ ප්‍රතිඵලයක් ලෙස මෙසේ වෙඩි ප්‍රහාරයකට ලක්ව තිබුණි.
 
@@ -1222,6 +1222,24 @@ The initiative seeks to raise public awareness about the Clean Sri Lanka concept
 
 ---
 
+### බදු ආදායමේ කැපී පෙනෙන වර්ධනයක්
+
+*2025-08-13 18:42:16* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ආදායමේ-කැපී-පෙනෙන-වර්ධනයක්/11-417901) · `si`
+
+මෝටර් රථ ආනයන නීති ලිහිල් කිරීමෙන් පසු 2025 පළමු භාගයේ දී ශ්‍රී ලංකාව වාහන ආනයන තීරු බදු ලෙස රුපියල් බිලියන එකසිය විසි නවයක් රැස්කර ඇති අතර පසුගිය (2024) වසරේ එම අගය රුපියල් බිලියන 29.6 ක් බව මුදල් අමාත්‍යාංශය මගින් (12/8) නිකුත් කරන ලද මහ බැංකු වාර්තාවකින් පෙන්වා දෙයි.
+
+මේ අතර සිගරැට් සඳහා වන බද්ද සීයට17 කින් පහත වැටී රුපියල් බිලියන 44 වී ඇති බව මහ බැංකු වාර්තාවල සඳහන් වේ.මිල ඉහළ යාම හේතුවෙන් නීති විරෝධී සිගරැට් ජාවාරම ප්‍රවර්ධනය වී ඇති අතර දුම් පානය කරන අය බීඩි, ගංජා කොළ එතූ සිගරැට් ආදියට මාරුවීමද ඊට හේතු වී ඇතැයි කියයි.
+
+ඛනිජ තෙල්වලින් ලැබෙන බදු ආදායම 2024 වසරේ රුපියල් බිලියන 97 සිට 2025 වර්ෂයේ ජුනි මස 30 දක්වා රුපියල් බිලියන 112 දක්වා සීයට15.5 කින් ඉහළ ගොස් ඇත.
+
+මත්පැන් සඳහා වන සුරා බද්ද 2024 .01.01 සිට 2024.12.31 දක්වා කාලය තුළ 99.1 සිට 2025 වර්ෂයේ ජුනි මස 30 දක්වා කාලය තුළ රුපියල් බිලියන 108.2 සක්වා 9.2] කින් ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/227747f2.json)
+
+---
+
 ### වාහන ආනයනයෙන් ඩොලර් බිලියනය ඉක්මවූ ආදායමක්
 
 *2025-08-13 18:35:59* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනයෙන්-ඩොලර්-බිලියනය-ඉක්මවූ-ආදායමක්/11-417900) · `si`
@@ -1733,25 +1751,5 @@ The discussions focused on reviewing the decisions taken at the previous meeting
 ...
 
 [Data](articles/b99a8fad.json)
-
----
-
-### Sri Lanka stocks close flat, S&P SL20 dips
-
-*2025-08-13 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-flat-sp-sl20-dips-236069/) · `en`
-
-ECONOMYNEXT – The Colombo Stocks Exchange’s All Share Price Index (ASPI) closed flat after a highly volatile session, data showed.
-
-The ASPI marginally rose 2.71 points higher from Tuesday to 19,975.50; while the S&P SL20 index dipped 0.19 percent, or 10.92 points, to close at 5,815.64.
-
-The ASPI was pushed higher on Ceylon Tobacco Holdings which ended 45.00 rupees stronger at 1,600; Dialog Axiata which rose 0.90 cents to 21.40 rupees; HNB which ended 3 rupees up at 379; Digital Mobility Solutions Lanka which moved 7.65 rupees up to 105.75; and Chevron Lubricants Lanka which closed 3.75 rupees higher at 175.75.
-
-Sri Lanka’s Ceylon Tobacco Company said sales volumes recovered to 490 million sticks in the June 2025 quarter from 476 million in the previous year, and profits rose 2 percent to 7.3 billion rupees.
-
-Meanwhile, Profits at Sri Lanka’s Haycarb Plc fell 30 percent to 517 million rupees in the June 2025 quarter amid higher costs, interim accounts showed.
-
-...
-
-[Data](articles/36145f88.json)
 
 ---

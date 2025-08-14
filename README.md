@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 22:35:19**
+As of **2025-08-14 22:49:17**
 
 ## Newspaper Stats
 
-*Scraped **70,550** Articles*
+*Scraped **70,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,304
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,813
-adaderanalk | 8,807
+adalk | 6,814
+adaderanalk | 8,808
 tamilmirrorlk | 10,381
 virakesarilk | 11,732
 adaderanasinhalalk | 12,146
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,550 articles have been extended.
+61,973 (87.8%) of 70,552 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2b6d7ac4.json)
+
+---
+
+### How can Sri Lanka improve its position in the Global Innovation Index?
+
+*2025-08-14 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111482/how-can-sri-lanka-improve-its-position-in-the-global-innovation-index) · `en`
+
+A meeting was held to engage all stakeholders in elevating Sri Lanka’s position in the internationally recognised Global Innovation Index (GII), which measures countries’ innovation performance using 80 indicators under seven key pillars.
+
+Under the guidance of the National Innovation Agency (NIA), which functions under the Ministry of Science and Technology, an advisory meeting on data requirements for the Global Innovation Index was held today (14) at the Bandaranaike Memorial International Conference Hall in Colombo, the President’ Media Division said.
+
+The meeting brought together senior officials from both the public and private sectors, representing fields such as science, technology, education and industry, the PMD added.
+
+Focus areas during the meeting included enhancing the nation’s global competitiveness, attracting investment and positioning Sri Lanka as a hub for knowledge, technology and entrepreneurship.
+
+...
+
+[Data](articles/bd256470.json)
 
 ---
 
@@ -245,6 +263,22 @@ A senior security official, however, said the force would have its own command i
 ◼️
 
 [Data](articles/dc100f68.json)
+
+---
+
+### බැංකුවකින් රු.කෝටි 9ක්  වංචා කළ සහකාර කළමනාකරු දැලේ
+
+*2025-08-14 18:27:46* · [`adalk`](https://www.ada.lk/breaking_news/බැංකුවකින්-රු-කෝටි-9ක්--වංචා-කළ-සහකාර-කළමනාකරු-දැලේ/11-417925) · `si`
+
+අනුරාධපුරයේ පිහිටි පෞද්ගලික බැංකුවකින් රුපියල් කෝටි 9ක මුදලක් වංචා කළ පුද්ගලයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි..
+
+සැකකරු එම බැංකුවේ සහකාර කළමනාකරුවෙකු ලෙස සේවය කරන  43  හැවිරිදි පුද්ගලයෙකු බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ උසස් නිලධාරියෙක් පැවසීය. ඔහු අනුරාධපුර,සාලියවත්ත ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සැකකරු අදාළ පෞද්ගලික බැංකුවේ අනුරාධපුර ශඛාවේ ගිණුමක් හිමි පුද්ගලයෙකුගේ නමින් ඇති සියලුම ගිණුම් සඳහා අත්සන් වෙන්ස් කිරීම සඳහා කූඨ ලේඛන ද සකසා ඇති බවට විමර්ශනයේදී හෙළි වූ බව එම උසස් නිලධාරියා කීය. ඒ අනුව අදාළ කූට ලේඛන ඉදිරිපත් කර මුදල් වංචා කර ඇති බව විමර්ශන නිලධාරීහු පවසති.
+
+◼️
+
+[Data](articles/aeca9f52.json)
 
 ---
 
@@ -1813,37 +1847,5 @@ In December 2024, Dipped Products acquired Hi Care Thai Gloves Company Ltd in Th
 ...
 
 [Data](articles/7a22ae4b.json)
-
----
-
-### Kush worth Rs. 40 mln seized in Peliyagoda
-
-*2025-08-14 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111456/kush-worth-rs-40-mln-seized-in-peliyagoda) · `en`
-
-The Central Crime Investigation Bureau (CCIB) in Colombo has seized a consignment of Kush cannabis, estimated to be worth around Rs. 40 million, which had been smuggled into the country from Thailand concealed in air conditioning equipment.
-
-Director of the CCIB, Superintendent of Police (SP) Kamal Ariyawansa, stated that over 6 kilograms of Kush cannabis were found in a container at a port container yard on Nuge Road, Peliyagoda.
-
-The police arrested a 36-year-old resident of Wellampitiya in connection with the smuggling of the consignment.
-
-◼️
-
-[Data](articles/2fa729c3.json)
-
----
-
-### මහවැලි ගඟේ තිබී නාඳුනන මළ සිරුරක් හමුවෙයි
-
-*2025-08-14 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213354) · `si`
-
-මහනුවර පොලිස් වසමේ පොල්ගොල්ල ප්‍රදේශයේ මහවැලි ගඟෙහි තිබී නාඳුනන මළ සිරුරක් හමු වී තිබේ.
-
-මහනුවර පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇති අතර මරණකරුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැත.
-
-මෘත ශරීරය නරක් වී ඇති අතර උඩුකයට නිල් පැහැති ටී ෂර්ට් එකක් සහ යටිකයට නිල් පැහැති ඩෙනිම් කලිසමක් හැද සිටින බව පොලීසිය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/f3a2efec.json)
 
 ---

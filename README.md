@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 15:08:10**
+As of **2025-08-14 15:21:20**
 
 ## Newspaper Stats
 
-*Scraped **70,491** Articles*
+*Scraped **70,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,296
 islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
-adalk | 6,802
+adalk | 6,803
 adaderanalk | 8,790
 tamilmirrorlk | 10,372
 virakesarilk | 11,730
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,491 articles have been extended.
+61,973 (87.9%) of 70,492 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -745,6 +745,22 @@ In December 2024, Dipped Products acquired Hi Care Thai Gloves Company Ltd in Th
 ◼️
 
 [Data](articles/de648bc2.json)
+
+---
+
+### ගැටලාව වැවෙන් T5  ජීව උණ්ඩ  5038 ක් හමුවෙයි
+
+*2025-08-14 10:37:34* · [`adalk`](https://www.ada.lk/breaking_news/ගැටලාව-වැවෙන්-T5--ජීව-උණ්ඩ--5038-ක්-හමුවෙයි/11-417912) · `si`
+
+ගලෙන්බිදුණුවැව පොලිස් ස්ථානයට ලඳ තොරතුරකට අනුව ගැටලාව ගම්මානයේ පිහිටි ගැටලාව වැවෙන් T56 වර්ගයේ  ජීව උණ්ඩ  5038 ක් සොයාගැනීමට හැකිවූ බව ගලෙන්බිදුණුවැව පොලීසිය කියයි.
+
+ඊයේ (13) වන දින සවස  05.40 පමන ගලෙන්බිඳුණුවැව පොලිස්  ස්ථානය වෙත  118 මගින්   යොමු  කරන ලද  පණිවිඩක්  සම්බන්ධව ගලෙන්බිඳුණුවැව පොලිස්  ස්ථානයේ  ස්ථානාධිපතිතුමා  ඇතුලු  නිලධාරින්  කණ්ඩායමක් විසින්   ගලෙන්බිඳුණුවැව පුදේශයේ  ගැටලාව  වැව සෝදිසි කිරීමේදි එහි මඩයට තිබී මෙම ජීව උණ්ඩ තොගය සොයාගෙන ඇත.
+
+එම  පුදේශයේ කුඹුරු යායක  වැඩ කිරීමට පැමිණි  පුද්ගලයෙකු   විසින්  එම  වැවට  කකුල්  සේදිමට  ගිය අවස්ථාවේදි  එම  පුද්ගලයා හට  උණ්ඩ කීහිපයක්  හමුවි ඇති අතර පසුව ඒ පිළිබඳ සැකයක් මතුවී පොලිස් හදීසි ඇමතුම් අංකය  118 මගින්  ආරක්ෂක අංශ දැණුවත් කිරීමට එම පුද්ගලයා කටයුතු  කර  ඇත.
+
+...
+
+[Data](articles/7a22ae4b.json)
 
 ---
 
@@ -1743,25 +1759,5 @@ At standalone bank level, net interest income fell 8 percent to 50.1 billion rup
 ...
 
 [Data](articles/9e416d65.json)
-
----
-
-### Sri Lanka’s Hatton National Bank net up 37-pct in June quarter
-
-*2025-08-13 23:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-net-up-37-pct-in-june-quarter-236153/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Hatton National Bank, which also has an insurance unit, grew 37 percent from a year ago to 11.74 billion rupees, helped by loan loss reversals and depreciation gains, despite a fall in net interest income, interim accounts show.
-
-HNB group reported earnings of 20.54 rupees for the quarter. In the six months to June HNB reported earnings of 39.25 rupees on total profits of 22.4 billion rupees, which grew 42 percent.
-
-Net fee income and commission income grew 20 percent to 5.7 billion rupees with card use and digital transactions contributing, the bank said.
-
-Rupee depreciation had helped boost forex income to 2.8 billion rupees in the half year.
-
-At standalone bank level, net interest income fell 8 percent to 50.1 billion rupees in the June quarter with interest income falling 8 percent to 50.1 billion rupees and interest expenses also falling 8 percent to 28.2 billion rupees.
-
-...
-
-[Data](articles/c1186c4e.json)
 
 ---

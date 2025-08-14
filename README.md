@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-14 16:48:31**
+As of **2025-08-14 17:06:50**
 
 ## Newspaper Stats
 
-*Scraped **70,512** Articles*
+*Scraped **70,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,320
 dailymirrorlk | 4,733
 dailyftlk | 4,952
 adalk | 6,806
-adaderanalk | 8,798
+adaderanalk | 8,800
 tamilmirrorlk | 10,378
 virakesarilk | 11,730
-adaderanasinhalalk | 12,137
+adaderanasinhalalk | 12,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.9%) of 70,512 articles have been extended.
+61,973 (87.9%) of 70,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-14 (Thursday)
+
+### ඕමාන තානාපති බලශක්ති අමාත්‍යවරයා හමුවෙයි
+
+*2025-08-14 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213368) · `si`
+
+බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා සහ ශ්‍රී ලංකාවේ ඕමාන තානාපති අහමඩ් අලි සයීද් අල් රාශිඩ් (Ahmed Ali Said Al Rashid) මහතා අතර හමුවක් බලශක්ති අමාත්‍යංශයේදී අද (14) පස්වරුවේ පැවැත්විණි.
+
+මෙහිදී දෙරට අතර බලශක්ති ක්ෂේත්‍රයේ ද්විපාර්ශවික සබදතා තර කරගැනීම පිළිබදව අවධානය යොමුකරමින් කලාපයේ බලශක්ති අවශ්‍යතා සපුරාලීම සහ ක්ෂේත්‍රයේ නව ප්‍රවණතා මෙන්ම ගෝලීය අර්බුද අවස්ථාවන්වල එක්ව කටයුතු කරමින් ඒවා විසදා ගැනීමට ගතහැකි ක්‍රියාමාර්ග ගැනද සාකච්ඡා කර ඇත.
+
+එහිදී අදහස් දක්වමින් බලශක්ති අමාත්‍යවරයා සඳහන් කළේ සමීප මිත්‍ර රටක් ලෙස ඕමානය සමග සම්බන්ධතා ඉතා ඉහළින් අගය කරන බවත් මෙරට තුළ ඇති විවිධ ආයෝජන අවස්ථා සැළකිල්ලට ගෙන බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය සදහා එක්වන ලෙසය.
+
+ශ්‍රී ලංකාව තුළ උදාවී ඇති යහපත් වාතාවරණය පිළිබදව තමන් දැනුවත් බවත් බලශක්ති ක්ෂේත්‍රයේ ආයෝජන පිළිබදව අවධානය යොමුකරමින් තම රජයට හා පෞද්ගලික අංශයට ඒ පිළිබදව දැනුවත් කිරීම් කිරීමට පියවර ගන්නා බවත් දෙරට අතර සබදතාව තවදුරටත් වර්ධනය කරගැනීමට ඕමානයේද අපේක්ෂාව වන බවත් මෙහිදී අදහස් දැක්වූ ඕමාන තානාපති අහමඩ් අලි සයීද් අල් රාශිඩ් මහතා ද පවසා සිටියේය.
+
+◼️
+
+[Data](articles/91c71ad0.json)
+
+---
 
 ### ராஜிதவின் சொத்துக்கள் முடக்கம்?
 
@@ -45,6 +63,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a2be3dff.json)
+
+---
+
+### At least 12 feared dead in sudden, heavy rain in Indian Kashmir
+
+*2025-08-14 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111472/at-least-12-feared-dead-in-sudden-heavy-rain-in-indian-kashmir) · `en`
+
+At least 12 people were feared dead and more trapped following sudden, heavy rain in Indian Kashmir, an official said on Thursday.
+
+The disaster occurred in Chasoti town of Kishtwar district, a pit stop on a popular pilgrimage route. It comes a little over a week after a heavy flood and mudslide engulfed an entire village in the Himalayan state of Uttarakhand.
+
+“The news is grim and accurate, verified information from the area hit by the cloudburst is slow in arriving,” Omar Abdullah, the chief minister of India’s federal territory of Jammu and Kashmir, said in a post on X.
+
+Visuals on television showed pilgrims crying in fear as water flooded the village.
+
+Local TV channels said the flood water had washed away community kitchens set up for pilgrims.
+
+...
+
+[Data](articles/bfb1893e.json)
 
 ---
 
@@ -81,6 +119,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/596ff468.json)
+
+---
+
+### 30 Sri Lankan students receive Chinese govt scholarships
+
+*2025-08-14 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111470/30-sri-lankan-students-receive-chinese-govt-scholarships) · `en`
+
+A total of 30 Sri Lankan students have received scholarships to undertake higher education in China.
+
+Accordingly, the Chinese Embassy in Sri Lanka held an award ceremony for the 2025-2026 academic year Chinese Government Scholarship.
+
+Deputy Minister of Education and Higher Education Madhura Senevirathne has praised the Chinese government’s continued support for Sri Lanka’s educational development through scholarship programs.
+
+He said this year’s scholarships cover a wide range of disciplines, including engineering, medicine, and agriculture, providing critical support for cultivating multidisciplinary talent in Sri Lanka.
+
+He expressed the hope that the students studying in China will diligently pursue their studies and become bridges for cooperation between the two countries upon their return.
+
+...
+
+[Data](articles/c03def9e.json)
 
 ---
 
@@ -1767,53 +1825,5 @@ The medium to long term future of our jumbo is bleak unless the National Action 
 ...
 
 [Data](articles/3feed9a1.json)
-
----
-
-### Trumpeting Trump’s tariff
-
-*2025-08-14 05:54:08* · [`dailyftlk`](https://www.ft.lk/columns/Trumpeting-Trump-s-tariff/4-780246) · `en`
-
-However weak, fragile, and narrow the export base is, exporters need a solution in the short run enabling them to float
-
-President Trump has informed the Sri Lankan President by his letter of 9 July, “Starting on August 1, 2025, we will charge Sri Lanka a Tariff of only 30% on any and all Sri Lankan products sent into the United States, separate from all Sectoral Tariffs”.
-
-Joint Apparel Association Forum (JAAF): “As one of the country’s largest export earners, the sector relies heavily on access to the US market, and such a steep increase threatens to erode competitiveness, particularly when compared to regional peer.”
-
-The Exporters Association of Sri Lanka (EASL): “… the proposed tariff would have a significant impact on key export sectors, particularly apparel and rubber-based products.”
-
-...
-
-[Data](articles/2eb5ef7a.json)
-
----
-
-### Trade under pressure: India’s rise and Sri Lanka’s struggle in tea and oil sectors amid sanctions
-
-*2025-08-14 05:48:23* · [`dailyftlk`](https://www.ft.lk/columns/Trade-under-pressure-India-s-rise-and-Sri-Lanka-s-struggle-in-tea-and-oil-sectors-amid-sanctions/4-780245) · `en`
-
-The void left by Sri Lankan suppliers was effectively occupied by Indian tea exporters, solidifying India’s role as Iran’s
-
-On 30 July 2025, President Donald Trump announced a 25% reciprocal tariff on imports from India, to take effect from 1 August (later formally deferred to 7 August). The justification cited included India’s high internal tariffs, non-tariff trade barriers, and its continued procurement of Russian military equipment and oil, particularly in the context of the ongoing Ukraine conflict.
-
-Sri Lanka, too, was targeted under the same reciprocal tariff framework, facing a 20% tariff on its exports to the United States, effective 7 August 2025.
-
-...
-
-[Data](articles/850d1b87.json)
-
----
-
-### How inclusive design strategies can transform Sri Lankan banking experience
-
-*2025-08-14 05:43:00* · [`dailyftlk`](https://www.ft.lk/columns/How-inclusive-design-strategies-can-transform-Sri-Lankan-banking-experience/4-780244) · `en`
-
-Sri Lanka’s digital banking market is projected to reach $ 1.21 billion by 2029, but there’s a substantial customer segment that remains largely untapped. Whilst banks focus on attracting tech-savvy millennials, they’re overlooking 1.6 million people with disabilities and 12.3% of the population aged 60 or older, demographics that represent not just social responsibility, but significant revenue potential.
-
-Consider this: a successful businessman in Colombo with visual impairment struggles to complete basic banking transactions online, eventually switching to a competitor with better accessible services. His frustration isn’t unique – it represents a systematic failure to capture market share from underserved customer segments.
-
-...
-
-[Data](articles/4e7a9bb3.json)
 
 ---

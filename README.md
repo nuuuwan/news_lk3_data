@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 20:21:01**
+As of **2025-08-15 20:32:47**
 
 ## Newspaper Stats
 
-*Scraped **70,714** Articles*
+*Scraped **70,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,319
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
-adalk | 6,824
+adalk | 6,825
 adaderanalk | 8,831
 tamilmirrorlk | 10,415
-virakesarilk | 11,752
+virakesarilk | 11,753
 adaderanasinhalalk | 12,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,714 articles have been extended.
+61,973 (87.6%) of 70,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### நாட்டில் விளையாட்டு கலாச்சாரத்தை உருவாக்கும் திட்டம் தயாரிக்க வேண்டும் – ஜனாதிபதி
+
+*2025-08-15 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222646) · `ta`
+
+இளைஞர் விவகாரங்கள் மற்றும் விளையாட்டுத்துறை அமைச்சு தொடர்பான 2025 வரவு செலவுத் திட்ட ஒதுக்கீடுகளின் பயன்பாடு குறித்த மீளாய்வு மற்றும் 2026 ஆம் ஆண்டு தொடர்பான வரவு செலவுத் திட்ட முன்மொழிவுகள் குறித்த பூர்வாங்க  கலந்துரையாடல் வெள்ளிக்கிழமை (15) காலை ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+இதில், இளைஞர் விவகாரங்கள் மற்றும் விளையாட்டுத்துறை அமைச்சின் கீழ் உள்ள 08 நிறுவனங்களுக்கு 2025 ஆம் ஆண்டுக்காக ஒதுக்கப்பட்ட நிதி ஒதுக்கீடுகள் மற்றும் அது தொடர்பான திட்டங்களின் தற்போதைய நிலை குறித்து தனித்தனியாக மீளாய்வு செய்யப்பட்டது.
+
+...
+
+[Data](articles/fe4c20f0.json)
+
+---
 
 ### புதிய பொலிஸ்மா அதிபர் - ஜனாதிபதி சந்திப்பு
 
@@ -101,6 +115,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/37f0b22c.json)
+
+---
+
+### කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයන් 1000ක් සවිබල ගැන්වීමට යයි
+
+*2025-08-15 19:07:34* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-හා-මධ්‍ය-පරිමාණ-ව්‍යවසායකයන්-1000ක්-සවිබල-ගැන්වීමට-යයි/11-417935) · `si`
+
+ශ්‍රී ලංකාවේ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් (SMEs) 1000 ක් සවිබල ගන්වමින් ව්‍යවසායකයින්ගේ දැනුම, කුසලතා, ඵලදායිතාව සහ අපනයන හැකියාව වර්ධනය කිරීමේ අරමුණ ඇතිව නවෝත්පාදනමය ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමට නියමිතයි.
+
+මෙම වැඩසටහන කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය සහ ජාතික ඵලදායිතා ලේකම් කාර්යාලය ඒකාබද්ධව ක්‍රියාත්මක කරනු ලබයි.
+
+මෙය පළමුව ගම්පහ දිස්ත්‍රික්කයේ නියමු ව්‍යාපෘතියක් ලෙස ක්‍රියාත්මක කරනු ලැබූ අතර එම නියමු ව්‍යාපෘතිය තුළදී ව්‍යාපාරිකයින් 100 දෙනෙකු සංවර්ධනය කරනු ලැබීය. එම අදියරයේ විශිෂ්ට සාර්ථකත්වය මත, මෙම වැඩසටහන දිවයින පුරා ව්‍යාප්ත කිරීමට තීරණය කරන ලදී.
+
+ඒ අනුව, වැඩසටහනේ පළමු අදියර 2025 දී දිස්ත්‍රික්ක 17ක ආරම්භ කිරීමට නියමිත අතර ඉතිරි දිස්ත්‍රික්ක 8 හි මෙම වැඩසටහන 2026 මැද භාගයේදී ආරම්භ කිරීමට නියමිතය. මෙම වැඩසටහන හරහා ව්‍යාපාරිකයින්ට ඔවුන්ගේ ව්‍යාපාර තිරසරව වර්ධනය කර ගැනීම සඳහා උපදේශන සහය, පුහුණු කිරීම සහ අවශ්‍ය‍ය සම්පත්දායකත්වය ලබාදීම අපේක්ෂා කරයි.
+
+එමගින් ශ්‍රී ලංකාවේ ආර්ථික වර්ධනය සහ සංවර්ධනය, රැකියා උත්පාදනය සහ අපනයන ආදායම වැඩි කිරීම සඳහා විශාල දායකත්වයක් ලබාදෙනු ඇත.
+
+...
+
+[Data](articles/0d67a5fe.json)
 
 ---
 
@@ -1799,45 +1833,5 @@ It all started with The “Hospital Lottery Board” Act of 10 January 1965. The
 ...
 
 [Data](articles/75a4fdf2.json)
-
----
-
-### ඇල්ල - වැල්ලවාය මාර්ගයේ බිහිසුණු අනතුරක්
-
-*2025-08-15 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213386) · `si`
-
-ඇල්ල, වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා දිය ඇල්ලට ඉහළ ප්‍රදේශයේ දී ත්‍රීරෝද රථයක් සහ සුඛෝපභෝගී කැබ් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුවී තිබේ.
-
-එම අනතුරින් ත්‍රීරෝද රථයේ ගමන් කරමින් සිටි පුද්ගලයන් හය දෙනෙකු තුවාල ලබා දෙමෝදර සහ බණ්ඩාරවෙල යන රෝහල්වලට ඇතුළත් කර ඇත.
-
-මෙසේ අනතුරට ලක් වී ඇත්තේ බදුල්ල ප්‍රදේශයේ පදිංචි පිරිසක් වන අතර අනතුර සම්බන්ධයෙන් ඇල්ල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/3e66c288.json)
-
----
-
-### Trump to meet Putin today in push for Ukraine peace
-
-*2025-08-15 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111490/trump-to-meet-putin-today-in-push-for-ukraine-peace) · `en`
-
-US and Russian officials will converge on the state of Alaska ahead of a highly anticipated Friday meeting between Presidents Donald Trump and Vladimir Putin.
-
-The pair will meet for the first time in six years, as Trump tries to enact a key campaign pledge to end Russia’s war in Ukraine.
-
-The US president, who has portrayed himself as a global peacemaker, hopes to leverage his personal relationship with Putin to achieve a ceasefire breakthrough where others have failed.
-
-On Thursday he assessed there was a “25% chance” the meeting would not be successful.
-
-Ukraine’s leader Volodymyr Zelensky has been excluded from the talks, and warned that any resolutions made in his absence will be meaningless.
-
-In Anchorage there are few signs of the impending high-stakes meeting, except for the international media that have descended on the area.
-
-Journalists are rubbing elbows with holidaymakers from the “lower 48” states on visits to the Alaskan wilderness during the height of the tourist season.
-
-...
-
-[Data](articles/2716a019.json)
 
 ---

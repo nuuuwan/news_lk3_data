@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 18:31:32**
+As of **2025-08-15 18:57:05**
 
 ## Newspaper Stats
 
-*Scraped **70,702** Articles*
+*Scraped **70,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,822
-adaderanalk | 8,828
+adaderanalk | 8,829
 tamilmirrorlk | 10,414
-virakesarilk | 11,749
+virakesarilk | 11,751
 adaderanasinhalalk | 12,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,702 articles have been extended.
+61,973 (87.7%) of 70,705 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,6 +148,38 @@ A bond maturing on 15.12.2032 closed at 10.18/22 percent, down from 10.19/24 per
 
 ---
 
+### $1bn fine: X-Press Pearl owner fires back over Sri Lanka’s Supreme Court order
+
+*2025-08-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111505/1bn-fine-x-press-pearl-owner-fires-back-over-sri-lankas-supreme-court-order-) · `en`
+
+Singapore’s X-Press Feeders has hit back at the Sri Lankan Supreme Court’s order to pay $1bn within a year over the 2021 X-Press Pearl casualty, warning the decision tramples on due process, scapegoats its crew, and poses a dangerous precedent for global shipping.
+
+The feeder giant accused the court of effectively convicting the vessel’s master and local agents before trials have concluded — in some cases, before charges have even been filed. The master, stranded in Sri Lanka for four-and-a-half years under a court-imposed travel ban, has been separated from his family and unable to work despite offering to post the maximum fine possible for his charges.
+
+“The judgment holds him and the agents as human collateral to ensure the compliance of the owners and operators,” the company said, claiming they were given no opportunity to respond to allegations in court.
+
+...
+
+[Data](articles/9e0b9234.json)
+
+---
+
+### ஜப்பானிய முதலீட்டாளர்கள் இலங்கையில் எதிர்கொள்ளும் பிரச்சினைகளுக்கு புதிய குழு தீர்வுகளைக் கண்டறியும் -  ஜப்பான் தூதர் அகியோ
+
+*2025-08-15 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222628) · `ta`
+
+பாரபட்சமற்ற நடத்தை என்பது அனைத்து நிறுவனங்களும் தனிநபர்களும் சமமாக நடத்தப்படுகிறார்கள், இதனால் நியாயமான போட்டி வளர்க்கப்படுகிறது. இவை அனைத்தும் முதலீட்டாளர்கள் புதிய மற்றும் புதுப்பிக்கப்பட்ட முதலீடுகளில் முடிவுகளை எடுக்க உதவும். ஜப்பானிய முதலீட்டாளர்கள் இலங்கையில் எதிர்கொள்ளும் உறுதியான பிரச்சினைகளுக்கு உண்மையான தீர்வுகளைக் கண்டறிய புதிதாக நிறுவப்பட்ட இந்த குழு காலாண்டு அடிப்படையில் நடைபெறும் என்று நான் உண்மையிலேயே நம்புகிறேன் என ஜப்பான் தூதர் அகியோ இசொமதா தெரிவித்தார்.
+
+ஜப்பான்-இலங்கை வணிகச் சூழல் குழு தொடங்குவதற்கான ஆரம்பக் கூட்டம் முதலீட்டு சபையின் (BOI) கேட்போர் கூடத்தில் நடைபெற்றது.
+
+ஆரம்பக் கூட்டத்தில் தொழில் அமைச்சர் மற்றும் பொருளாதார மேம்பாட்டுத் பிரதி அமைச்சர் மற்றும் ஜப்பான் தூதர் அகியோ இசொமதா ஆகியோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/65c7428e.json)
+
+---
+
 ### “இரத்தினக்கல், ஆபரணச் சந்தையை வெற்றிகொள்வோம்”
 
 *2025-08-15 16:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-ஆபரணச்-சந்தையை-வெற்றிகொள்வோம்/175-362981) · `ta`
@@ -159,6 +191,26 @@ A bond maturing on 15.12.2032 closed at 10.18/22 percent, down from 10.19/24 per
 ...
 
 [Data](articles/20450e89.json)
+
+---
+
+### புதையல் தோண்டிய பிரதி பொலிஸ் மா அதிபரின் மனைவி உட்பட எண்மர் கைது
+
+*2025-08-15 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222600) · `ta`
+
+அநுராதபுரம் ஷ்ரவஸ்திபுர பகுதியில் புதையல் தோண்டுவதற்கு முற்பட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட பிரதிப் பொலிஸ் மா அதிபர் ஒருவரின் மனைவி உள்ளிட்ட 8 பேர் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் வியாழக்கிழமை (14) அநுராதபுரம் நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட நிலையில் அவர்களை எதிர்வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிவான் இதன்போது உத்தரவு பிறப்பித்தார்.
+
+கடந்த 13 ஆம் திகதி  ஷ்ரவஸ்திபுர திபிரிகடவல பிரதேசத்தில் உள்ள விகாரைக்கு அருகில் சிலர் புதையல் தோண்டுவதாக அனுராதபுரம் பொலிஸாருக்கு இரகசிய தகவலொன்று கிடைக்கப் பெற்றுள்ளது.
+
+இதனையடுத்து சம்பவ இடத்துக்கு சென்ற பொலிஸார் அங்கிருந்த பெண் ஒருவர் உள்ளிட்ட 8 பேர் கைது செய்திருந்தனர்.
+
+பதுளை, மாளிகாதென்ன, பதவிசிறிபுர, கிராந்திரகோட்டை, வறக்காபொல மற்றும் அனுராதபுரம் ஆகிய பிரதேசங்களை சேர்ந்தவர்கள் சம்பவத்தின் போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/ef26b4f9.json)
 
 ---
 
@@ -1785,65 +1837,5 @@ The body has been placed at the Nagoda Hospital, and further investigations are 
 ◼️
 
 [Data](articles/191986ce.json)
-
----
-
-### Bimal says increasing plantation workers’ wages a challenge
-
-*2025-08-15 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111486/bimal-says-increasing-plantation-workers-wages-a-challenge) · `en`
-
-Increasing the daily wages of plantation workers has become a challenge for the government, Minister of Transport, Highways, Ports and Civil Aviation, Bimal Rathnayake states.
-
-Minister Rathnayake further points out that the Ministry of Plantation Industries and the Ministry of Finance are continuously intervening in this matter.
-
-He made these remarks while addressing media after participating in an inspection tour at the Nanu Oya railway station.
-
-Plantation workers have continuously demanded an increase in daily wages from multiple governments but for no avail.
-
-The present administration led by the National People’s Power also pledged to increase wages during the period leading up to both the Presidential and Parliamentary elections.
-
-On a separate note, Minister of Transport Bimal Rathnayake stated that steps will be taken in the future to provide bonuses to profit-making depots.
-
-◼️
-
-[Data](articles/cec20990.json)
-
----
-
-### රට තුළ සමලිංගිකත්වය ප්‍රචලිත කිරීමට පිරිසක් කටයුතු කරනවා - කාදිනල් හිමි
-
-*2025-08-15 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213384) · `si`
-
-රට තුළ සමලිංගිකත්වය ප්‍රචලිත කිරීම සඳහා විදේශීය සංවිධාන සමග එක්වී පිරිසක් කටයුතු කරමින් සිටින බව අතිඋතුම් කාදිනල් මැල්කම් රංජිත් හිමියන් පවසයි.
-
-උන්වහන්සේ පෙන්වා දෙන්නේ ඇතැම් දේශපාලන පක්ෂ මෙන්ම දේශපාලන නායකයින්ද මේ සඳහා සම්බන්ධ බවය.
-
-ඊයේ (14) කොළඹ පැවැති රුහුණු විශ්වවිද්‍යාලයේ උපකුලපති ධර්ම කීර්ති ශ්‍රී ආචාර්ය අකුරැටියේ නන්ද නායක ස්වාමීන් වහන්සේ වෙත මියන්මාර රජයෙන් ලබාදුන් අග්ගමහා පණ්ඩිත ගෞරව නාමය පිදීමේ උත්සවයට එක්වෙමින් කාදිනල් හිමි මේ බව පෙන්වා දුනි.
-
-එම අවස්ථාවට එක්වූ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා කියාසිටියේ ව්‍යවස්ථා සංශෝධනයකදී මානව අයිතිවාසිකම් පිළිබඳව විශේෂ අවධානයක් යොමු කළයුතු බවය.
-
-◼️
-
-[Data](articles/6c10368e.json)
-
----
-
-### ඉන්දියාවේ 79වන නිදහස් දිනය අද
-
-*2025-08-15 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213383) · `si`
-
-ඉන්දියාවේ 79 වන ජාතික නිදහස් දිනය අදට (අගෝස්තු 15) යේදී තිබේ.
-
-බ්‍රිතාන්‍ය යටත් විජිත පාලනයෙන් ඉන්දියාව 1947 වසරේ අදවන් දිනක නිදහස ලබා ඇත.
-
-ඒ වෙනුවෙන් ඉන්දීය රජය මෙවර පවත්වන විශේෂ රාජ්‍ය උත්සවය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ සහභාගිත්වයෙන් නවදිල්ලියේ රතු බළකොටුවේ දි සිදුකිරීමට නියමිතය.
-
-මෙහිදී අගමැති මෝදි පෙ.ව. 7.30ට ඉන්දීය ජාතික ධජය ඔසවා ජාතිය අමතනු ඇත.
-
-මෙම රාජ්‍ය උත්සවයේ දී සින්දූර් මෙහෙයුමට දායක වූ හමුදා නිලධාරීන් ඇගයීමට මුල්තැනක් ලබා දී ඇති අතර, ඒ වෙනුවෙන් එම මෙහෙයුමට දායක වූ කිහිප දෙනෙකු වාර්ෂික හමුදා ගෞරව නාම ලේඛනවලට එක්කිරීමටද නියමිතය.
-
-◼️
-
-[Data](articles/bbca2983.json)
 
 ---

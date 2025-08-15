@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 14:08:07**
+As of **2025-08-15 14:23:29**
 
 ## Newspaper Stats
 
-*Scraped **70,650** Articles*
+*Scraped **70,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,821
-adaderanalk | 8,823
+adaderanalk | 8,824
 tamilmirrorlk | 10,402
-virakesarilk | 11,742
+virakesarilk | 11,748
 adaderanasinhalalk | 12,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,650 articles have been extended.
+61,973 (87.7%) of 70,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### Sri Lanka’s central bank expects economy to grow by 4.5% in 2025
+
+*2025-08-15 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111498/sri-lankas-central-bank-expects-economy-to-grow-by-45-in-2025) · `en`
+
+Sri Lanka’s economy will grow by 4.5% this year, the central bank said in a monetary policy report on Friday, despite some risks to the island nation’s recovery from U.S. tariffs.
+
+The central bank’s projection is above World Bank estimates of 3.5% growth for this year.
+
+Underpinned by a $2.9 billion International Monetary Fund (IMF) programme, Sri Lanka’s gross domestic product grew by 5% in 2024, rebounding strongly from a severe financial crisis three years ago.
+
+The central bank’s report did highlight some risks to the outlook.
+
+“However, external demand conditions and evolving global economic landscape increase the level of uncertainty associated with growth prospects over the near to medium term,” it said.
+
+Sri Lanka is continuing talks with the U.S. after it imposed 20% tariffs last month, reducing it from 44% in April.
+
+...
+
+[Data](articles/4b4995d2.json)
+
+---
 
 ### මෝදි විවෘත කළ දඹුල්ලේ උෂ්ණත්ව පාලිත කෘෂිකර්ම ගබඩාවේ ලයිට් කපලා
 
@@ -51,6 +73,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/89d613cf.json)
+
+---
+
+### கொழும்பில் கொண்டாடப்பட்ட இந்தியாவின் 79 ஆவது சுதந்திர தினம்
+
+*2025-08-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222610) · `ta`
+
+இந்தியாவின் 79 ஆவது சுதந்திர தினம் இன்று 15ஆம் திகதி வெள்ளிக்கிழமை இலங்கையின் பல பகுதிகளிலும் கொண்டாடப்பட்டது.
+
+இந்நிலையில், கொழும்பில் நடைபெற்ற முக்கிய நிகழ்வு இந்திய உயர்ஸ்தானிகரின் உத்தியோகபூர்வ வாசஸ்தலமான ‘இந்திய இல்லம்’ இல் நடைபெற்றது.
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாஇந்திய தேசியக் கொடியை ஏற்றி வணக்கத்தை செலுத்தினார். அணிவகுப்பு மரியாதையில் கலந்துகொண்டதுடன் 79 ஆவது சுதந்திர தினத்தை முன்னிட்டு இந்திய குடியரசுத் தலைவரின் உரையின் சில பகுதிகளைவும் வாசித்தார்.
+
+◼️
+
+[Data](articles/de9f2bf5.json)
 
 ---
 
@@ -77,6 +115,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f35c5ff5.json)
+
+---
+
+### கொழும்பிற்கு வருகிறது அமெரிக்க கடற்படையின் லிட்டோரல் போர்க்கப்பலான சான்டா பாப்ரா
+
+*2025-08-15 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222609) · `ta`
+
+கரைக்கு அருகிலுள்ள கடற்பகுதியில் செயற்படும் (லிட்டோரல்) சுயாதீன மாற்றுரு போர்க்கப்பலான யு.எஸ்.எஸ். சான்டா பாப்ரா (LCS 32) இட் நாளை சனிக்கிழமை (16/08) கொழும்புத் துறைமுகத்திற்கு வருகைதரவுள்ளதாக இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் தெரிவித்துள்ளது.
+
+கொழும்புத் துறைமுகத்திற்கு யு.எஸ்.எஸ். சான்டா பாப்ரா வருகைதரும் முதலாவது சந்தர்ப்பம் இதுவாகும். அமெரிக்க - இலங்கை பங்காண்மையின் உறுதியினையும், பாதுகாப்பான, வளமான மற்றும் சுதந்திரமான இந்தோ-பசிபிக் பிராந்தியத்திற்கான எமது பகிரப்பட்ட அர்ப்பணிப்பினையும் இந்தக் கப்பலின் வருகை அடிக்கோடிட்டுக் காட்டுகிறது.
+
+இரு நாட்டு கடற்படைகளுக்கு இடையிலான நீண்டகால உறவுகளையும், உறவை வரையறுக்கும் நெருக்கமான ஒத்துழைப்பையும் இது பிரதிபலிக்கிறது. கப்பல் தனது பயணத்தை மீண்டும் தொடர்வதற்கு முன்பு எரிபொருள் நிரப்புவதற்கும் மற்றும் ஏனைய தேவையான பொருட்களைப் பெற்றுக்கொள்வதற்குமான ஒரு குறுகிய நிறுத்தமாக கொழும்புத் துறைமுகம் செயற்படும்.
+
+...
+
+[Data](articles/33d19c7f.json)
 
 ---
 
@@ -322,6 +376,22 @@ Minuwangoda Police Station is continuing further investigations into the inciden
 
 ---
 
+### முச்சக்கர வண்டி - சிறிய ரக வேன் மோதி விபத்து ; 6 பேர் காயம்
+
+*2025-08-15 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222597) · `ta`
+
+ராவணன் அருவி அருகே முச்சக்கர வண்டியும், சிறிய ரக வேன் மோதிக்கொண்ட விபத்தில் 6 பேர் காயமடைந்துள்ளனர்.
+
+எல்ல - வெல்லவாய பிரதான வீதியில், ராவணன் நீர்வீழ்ச்சிக்கு மேலே உள்ள பகுதியில், முச்சக்கர வண்டியும் சொகுசு சிறிய ரக வேனும் மோதியதில் ஆறு பேர் காயமடைந்துள்ளனர்.
+
+இந்தச் சம்பவம் தொடர்பில் எல்ல பொலிஸ் நிலைய அதிகாரிகள் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/39b000c9.json)
+
+---
+
 ### Govt may import substitute if ‘Keeri Samba’ shortage persists – Minister
 
 *2025-08-15 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111494/govt-may-import-substitute-if-keeri-samba-shortage-persists-minister) · `en`
@@ -395,6 +465,42 @@ The Minister explained that if the shortage continues and worsens in the months 
 ◼️
 
 [Data](articles/262c598c.json)
+
+---
+
+### பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக குழிதோண்டிபுதைப்பதற்காக  புதிய யூதகுடியேற்றங்கள் - இஸ்ரேலிய அமைச்சர் அறிவிப்பு
+
+*2025-08-15 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222596) · `ta`
+
+ஆக்கிரமிக்கப்பட்ட மேற்குகரையில் யூதகுடியேற்றவாசிகளிற்கான 3000க்கும் வீடுகளை அமைக்கவுள்ளதாக தெரிவித்துள்ள இஸ்ரேலின் தீவிரவலதுசாரி நிதியமைச்சர்  பெசெலெல் ஸ்மோட்டிரிச் இதன் மூலம் பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக புதைத்துவிடமுடியும் என தெரிவித்துள்ளார்.
+
+சர்வதேசத்தின் கடும் எதிர்ப்பு காரணமாக பல வருடங்களாக இடைநிறுத்தப்பட்டிருந்த ஜெரூசலேம் மற்றும் மாலே அடுமின் பகுதிகளிற்கு இடையிலான குடியேற்ற திட்டத்தை மீண்டும் முன்னெடுக்கவுள்ளதாக இஸ்ரேலின் நிதியமைச்சர் தெரிவித்துள்ளார்.
+
+இந்த பகுதியில் வீடுகளை அமைப்பது மேற்கு கரையை ஆக்கிரமிக்கப்பட்ட ஜெரூசலேத்திலிருந்து முற்றாக துண்டிக்கும்.
+
+இது பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக இல்லாமல் செய்யும் என தெரிவித்துள்ள இஸ்ரேலின் நிதியமைச்சர் அங்கீகரிப்பதற்கும் எதுவும் எவருமில்லை என தெரிவித்துள்ளார்.
+
+சர்வதேச சட்டங்களின் கீழ் குடியேற்றம் என்பது சட்டவிரோதமானதாக காணப்படுகின்றது. மேலும் இஸ்ரேல் பாலஸ்தீனத்திற்கு இடையிலான விவகாரத்தில் மிகவும் சர்ச்சைக்குரிய விடயமாக இது காணப்படுகின்றது.
+
+...
+
+[Data](articles/5ad5a967.json)
+
+---
+
+### துன்ஹிந்த சந்தியில் பஸ் விபத்து - ஏழு பேர் காயம்
+
+*2025-08-15 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222595) · `ta`
+
+பதுளை - மஹியங்கனை வீதியில் துன்ஹிந்த சந்தியில் இன்று வெள்ளிக்கிழமை (15) காலை 7:15 மணியளவில் இடம்பெற்ற பஸ் விபத்தில் ஏழு பேர் காயமடைந்துள்ளனர்.
+
+யாத்திரிகர்களை ஏற்றிச் சென்ற பஸ் நிறுத்தப்பட்டிருந்த லொறியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+பிரேக் கோளாறினால் பஸ் சாரதியின் கட்டுப்பாட்டை இழந்து பஸ் விபத்துக்குள்ளானதாக பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/b66cd54e.json)
 
 ---
 
@@ -529,6 +635,24 @@ Last week, Donald Trump imposed tariffs totalling 50 per cent on India, includin
 ...
 
 [Data](articles/2754025f.json)
+
+---
+
+### முத்தையன்கட்டு சம்பவம் - ஹர்த்தாலிற்கு அவசியமில்லை . அனைத்து மாவட்டங்களிலும் இவ்வாறான சம்பவங்கள் நிகழ்கின்றன - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+
+*2025-08-15 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/222594) · `ta`
+
+முத்தையன்கட்டு சம்பவம் தொடர்பில் ஹர்த்தாலிற்கான தேவையில்லை என பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜயபால மோர்னிங்கிற்கு தெரிவித்துள்ளார்.
+
+முத்தையன்கட்டு சம்பவம் தொடர்பில் ஹர்த்தாலை முன்னெடுக்கவுள்ளதாக அவர்கள் தெரிவிக்கின்றனர்,ஆனால் அதற்கான தேவையில்லை என அமைச்சர் தெரிவித்துள்ளார்.
+
+அந்த சம்பவத்துடன் தொடர்புடைய தனிநபர்கள் கைதுசெய்யப்பட்டு விசாரணைக்குட்படுத்தப்பட்டுள்ளனர்,ஹர்த்தால் என்றாலும் சரி இல்லாவிட்டாலும் எங்களால் வேறு எதனையும் செய்ய முடியாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் தெரிவித்துள்ளார்.
+
+நாங்கள் நீதிமன்ற உத்தரவின் அடிப்படையிலேயே  அடுத்த கட்ட நடவடிக்கையை  எடுப்போம், ஹர்த்தால் போராட்டத்தில் ஈடுபடுவது அர்த்தமற்றது என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/5ecced3a.json)
 
 ---
 
@@ -1663,135 +1787,5 @@ As a solution, the government approved the importation of salt for household con
 ...
 
 [Data](articles/c1849ecc.json)
-
----
-
-### ආනයනික ලුණු බහාලුම්  400ක් වරායේ සිරවෙයි
-
-*2025-08-14 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213374) · `si`
-
-මෙරටදී ඇසුරුම් කිරීම සඳහා ආනයනය කළ ලුණු මෙට්‍රික් ටොන් 28,000කට ආසන්න ප්‍රමාණයක් අඩංගු බහාලුම් 400ක් නිදහස් කරගැනීමට නොහැකිව මේ වන විටත් කොළඹ වරායේ සිරවී ඇතැයි ශ්‍රී ලංකා ලුණු නිෂ්පාදකයින්ගේ සංගමය පවසයි.
-
-ඔවුන් පෙන්වා දෙන්නේ රාජ්‍ය නිලධාරීන්ගේ අකාර්යක්ෂමතාව මීට හේතු වී ඇති බවය.
-
-වසරේ ලුණු අස්වැන්න බලාපොරොත්තු වූ පරිදි නොලැබීම හා කාලගුණ වෙනස්කම් වැනි හේතූන් මේ වසර මුලදී මෙරට ලුණු නිෂ්පාදනය ශීඝ්‍රයෙන් පහත වැටුණි.
-
-මේ හේතුවෙන් වෙළෙඳපොළේ ලුණු හිඟයක් නිර්මාණය වූ අතර ලුණු මිලද ඉහළ ගියේය.
-
-ඊට පිළියමක් ලෙස ගෘහස්ථ පරිභෝජනයට අවශ්‍ය ලුණු ආනයනය කිරීමට දෙවරක්ම පියවර ගැනුණි.
-
-◼️
-
-[Data](articles/09a6e82b.json)
-
----
-
-### UN Rights Chief urges Govt to amend laws that unduly restrict rights and freedoms of Sri Lankans
-
-*2025-08-14 19:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111480/un-rights-chief-urges-govt-to-amend-laws-that-unduly-restrict-rights-and-freedoms-of-sri-lankans) · `en`
-
-UN High Commissioner for Human Rights Volker Türk has urged the Sri Lankan government to repeal or amend existing laws or proposed laws that unduly restrict the rights to freedom of opinion and expression, association, and peaceful assembly, including the Online Safety Act, International Covenant on Civil and Political Rights Act, draft Non-Governmental Organizations (Registration and Supervision) Act, and proposed amendments to Personal Data Protection Act.
-
-In a new report issued on Sri Lanka, UN High Commissioner for Human Rights Volker Türk said the Sri Lankan government’s pledges to deliver justice, restore the rule of law, and eliminate discrimination and divisive politics must finally yield concrete results.
-
-“Today, an opportunity presents itself for Sri Lanka to break from the past,” he said. “It now needs a comprehensive roadmap to translate these commitments into results.”
-
-...
-
-[Data](articles/4e98e77d.json)
-
----
-
-### அரச அடுக்குமாடி குடியிருப்புகளை மறுசீரமைக்க திட்டம்
-
-*2025-08-14 19:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அடுக்குமாடி-குடியிருப்புகளை-மறுசீரமைக்க-திட்டம்/175-362926) · `ta`
-
-கொழும்பு மாவட்டத்தில் 40 ஆண்டுகளுக்கும் மேலான பழமையான அரசு அடுக்குமாடி குடியிருப்புகளை அடுத்த ஆண்டு மறுசீரமைப்பதற்கு திட்டமிடப்பட்டுள்ளதாக தேசிய வீடமைப்பு மேம்பாட்டு ஆணையம் தெரிவித்துள்ளது.
-
-கொழும்பு மாவட்டத்தில் 40 ஆண்டுகளுக்கும் மேலான பழமையான 45 அடுக்குமாடி குடியிருப்புத் திட்டங்கள் இருப்பதாகவும், அவற்றில் சுமார் 10,000 வீடுகள் இருப்பதாகவும் தேசிய வீடமைப்பு மேம்பாட்டு ஆணைய அதிகாரிகள் குழுவிடம் தெரிவிக்கப்பட்டுள்ளது.
-
-அதன்படி, இந்த மறுசீரமைப்புத் திட்டங்கள் எவ்வாறு செயல்படுத்தப்படும், அந்த வீட்டு வளாகங்களில் தற்போது வசிப்பவர்கள் தொடர்பான முடிவுகள் உட்பட, ஒரு மாதத்திற்குள் அறிக்கை சமர்ப்பிக்குமாறு உட்கட்டமைப்பு மற்றும் மூலோபாய மேம்பாடு தொடர்பான துறைசார் மேற்பார்வைக் குழுத் தலைவர் அறிவுறுத்தினார். R
-
-◼️
-
-[Data](articles/4e36d8a8.json)
-
----
-
-### ඩොනල්ඩ් බ්‍රැඩ්මන් 99.94න් නැවතී අදට වසර 77යි
-
-*2025-08-14 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213373) · `si`
-
-ලෝක ක්‍රිකට් ඉතිහාසයේ ශ්‍රේෂ්ඨතම පිතිකරුවා ලෙස අවිවාදයෙන් පිළිගත හැකි ක්‍රීඩකයා වන ශ්‍රීමත් ඩොනල්ඩ් බ්‍රැඩ්මන්ට පිතිකරණ සාමාන්‍ය සියයට 100ක් කරගැනීමට නොහැකි වූ එම තීරණාත්මක තරගය පැවැත් වී අදට (14) වසර 77ක් සම්පූර්ණ විය.
-
-1948 වසරේ දී අදවන් දිනක ඔහු එංගලන්තයට එරෙහිව සිය ටෙස්ට් ක්‍රිකට් දිවියේ අවසන් තරගය ක්‍රීඩා කළේය.
-
-ලන්ඩන් ඕවල් ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ දී ඔහුගේ පිතිකරණ සාමාන්‍ය සියයට 100ක් කරගැනීමට ලකුණු 4ක් පමණක් අවශ්‍ය වී තිබුණි.
-
-කෙසේ නමුත් එම ඓතිහාසික තරගයේ දී පන්දු 2කට පමණක් මුහුණදුන් බ්‍රැඩ්මන්, විලියම් එරික් හොලීස්ගේ පන්දුවක් කෙළින්ම කඩුල්ලේ වැඳී ලකුණු නොලබාම පිටියෙන් ඉවත්ව ගියේය.
-
-මෙම තරගයෙන් ඔස්ට්‍රේලියාව ඉනිමකින් හා ලකුණු 149ක දැවැන්ත ජයක් ලැබීම හේතුවෙන් ඔහුට දෙවනවරට පන්දුවට පහරදීමේ අවස්ථාවක්ද නොලැබුණි.
-
-බ්‍රැඩ්මන්ගෙන් පසු ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවෙන් සචින් ටෙන්ඩුල්කාර්, බ්‍රයන් ලාරා, කුමාර් සංගක්කාර වැනි ලෝක පූජිත පිතිකරුවන් බිහි වුවද, ඒ කිසිවෙකුට හෝ බ්‍රැඩ්මන්ගේ පිතිකරණ සාමාන්‍යයට ළඟවීමට හෝ නොහැකි වී ඇත.
-
-...
-
-[Data](articles/704a61ec.json)
-
----
-
-### Sri Lanka sees US$29mn foreign buying in rupee bonds
-
-*2025-08-14 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-usd-29mn-foreign-buying-in-rupee-bonds-236368/) · `en`
-
-ECONOMYNEXT – Foreign investors bought high quantity of Sri Lanka government securities, the Central Bank data showed, as the week ended on August 7 saw better trade arrangements with the United States, calming tariff-related volatility and uncertainty in financial markets.
-
-Foreign investors bought 8,756 million rupee ($29.19 million) worth of government securities in the week ended on August 7, seeing foreign inflow for a second straight week.
-
-Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and some of the key deals have calmed tariff-related volatility and uncertainty in financial markets, analysts said.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-...
-
-[Data](articles/2e9863a2.json)
-
----
-
-### Sri Lanka sees US$29mn foreign buying in rupee bonds
-
-*2025-08-14 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-us29mn-foreign-buying-in-rupee-bonds-236368/) · `en`
-
-ECONOMYNEXT – Foreign investors bought high quantity of Sri Lanka government securities, the Central Bank data showed, as the week ended on August 7 saw better trade arrangements with the United States, calming tariff-related volatility and uncertainty in financial markets.
-
-Foreign investors bought 8,756 million rupee ($29.19 million) worth of government securities in the week ended on August 7, seeing foreign inflow for a second straight week.
-
-Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and some of the key deals have calmed tariff-related volatility and uncertainty in financial markets, analysts said.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-...
-
-[Data](articles/808ec418.json)
-
----
-
-### Pakistan to create military force to supervise missiles after India conflict
-
-*2025-08-14 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111479/pakistan-to-create-military-force-to-supervise-missiles-after-india-conflict) · `en`
-
-Pakistan will create a new force in the military to supervise missile combat capabilities in a conventional conflict, apparently a move to match neighbouring arch-rival India.
-
-Prime Minister Shehbaz Sharif announced the creation of the Army Rocket Force late Wednesday at a ceremony held in Islamabad to commemorate the conflict with India in May, the worst in decades.
-
-The force “will be equipped with modern technology,” Sharif said in a statement from his office.
-
-“This force, capable of targeting the enemy from all sides, will prove to be yet another milestone with regard to further strengthening our conventional war capability,” he said in a repeat broadcast of his speech on Thursday by local TV news channels.
-
-A senior security official, however, said the force would have its own command in the military which would be dedicated to handling and deployment of missiles in the event of a conventional war.
-
-...
-
-[Data](articles/375ee7e9.json)
 
 ---

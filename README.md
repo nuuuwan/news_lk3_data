@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 12:51:55**
+As of **2025-08-15 13:06:56**
 
 ## Newspaper Stats
 
-*Scraped **70,642** Articles*
+*Scraped **70,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,819
-adaderanalk | 8,820
+adaderanalk | 8,823
 tamilmirrorlk | 10,402
 virakesarilk | 11,742
-adaderanasinhalalk | 12,160
+adaderanasinhalalk | 12,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,642 articles have been extended.
+61,973 (87.7%) of 70,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### USS Santa Barbara to make first port call at Colombo tomorrow
+
+*2025-08-15 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111497/uss-santa-barbara-to-make-first-port-call-at-colombo-tomorrow-) · `en`
+
+The U.S. Embassy in Sri Lanka has announced the visit of the Independence-variant littoral combat ship USS Santa Barbara (LCS 32) to the Port of Colombo tomorrow (August 16).
+
+The visit marks the USS Santa Barbara’s first port call to Colombo, underscoring the strength of the U.S.–Sri Lanka partnership and our shared commitment to a secure, prosperous, and free Indo-Pacific, the statement said.
+
+It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission, the embassy said.
+
+The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands the world’s largest forward-deployed fleet with the primary mission of providing operational control and planning for its forces in the Western Pacific and Indian Oceans, while promoting regional stability and maritime security through engagements with allies and partners.
+
+...
+
+[Data](articles/63266d02.json)
+
+---
+
+### ඉන්දීය මහ කොමසාරිස් කාර්යාලයට එජාපයේ විරෝධය
+
+*2025-08-15 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213396) · `si`
+
+ඉන්දියාවේ 79වන නිදහස් දිනය නිමිත්තෙන් මෙරට මුද්‍රිත මාධ්‍යවල පළ කරනු ලැබූ දැන්වීම් අතිරේක පිළිබඳව එක්සත් ජාතික පක්ෂයේ ඉහළ මට්ටමේ නිලධාරීන්ගේ හමුවකදී දැඩි අවධානය යොමුවී තිබේ.
+
+හිටපු රාජ්‍ය තාන්ත්‍රිකයින් කිහිපදෙනෙකුද සහභාගී වූ මේ හමුවේදී ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් කාර්යාලය මගින් සකස් කරනු ලදුව මුද්‍රිත මාධ්‍ය ආයතන සඳහා නිකුත් කරනු ලැබූ දැන්වීම් අතිරේකයේ  ඡායාරූප යෙදීම සහ ඒවා තෝරා ගැනීම පිළිබඳව විශේෂයෙන්ම දීර්ඝ වශයෙන් කරුණු සාකච්ඡා වී ඇත.
+
+දැන්වීම් අතිරේකයට යොදාගත් සෑම පිටුවකම ඉන්දීය අග්‍රාමාත්‍යවරයා සහ ශ්‍රී ලංකා ජනාධිපතිවරයා එකට සිටින ඡායාරූප පළකිරීම සාමාන්‍යයෙන් සිදු නොකරන්නක් බව ඉහත සාකච්ඡාවට සහභාගී වූ හිටපු රාජ්‍ය තාන්ත්‍රිකයන් පෙන්වා දී තිබේ.
+
+එසේම හිටපු විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඡායාරූපයක් හෝ සටහනක් හෝ පළ නොකිරීම පිළිබඳවද එහිදී අවධානය යොමුවී තිබුණි.
+
+ඉන්දීය නිදහස් දිනය නිමිත්තෙන් මහ කොමසාරිස් කාර්යාලයේ අධීක්ෂණය යටතේ පළ කෙරුණු දැන්වීම් අතිරේක පිළිබඳව එක්සත් ජාතික පක්ෂයේ බලවත් අප්‍රසාදය මේ වනවිටත් කොළඹ ඉන්දීය මහ කොමසාරිස් කාර්යාලය වෙත පළකර ඇතැයිද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/9f546c6c.json)
+
+---
 
 ### லொஹான் ரத்வத்த திடீர் மரணம்
 
@@ -102,6 +140,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former State Minister Lohan Ratwatte passes away
+
+*2025-08-15 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111496/former-state-minister-lohan-ratwatte-passes-away) · `en`
+
+Former State Minister Lohan Ratwatte has passed away at the age of 57.
+
+The former parliamentarian had reportedly passed away while receiving treatment at a private hospital in Colombo.
+
+Born on 22 June 1968, Lohan Evindra Ratwatte was a prominent Sri Lankan politician.
+
+He had previously served as the State Minister of Gem and Jewellery Related Industries and as State Minister for Prison Management and Prisoners’ Rehabilitation. He was a former Member of Parliament representing the Kandy District.
+
+Ratwatte was first elected to the Central Provincial Council in 2009 and subsequently to Parliament in the 2010 Sri Lankan parliamentary election, representing the Sri Lanka Freedom Party (SLFP) from Kandy.
+
+In 2012, he was appointed SLFP Chief Organizer of Pathadumbara by then President Mahinda Rajapaksa, succeeding his father, General Anuruddha Ratwatte. He also served as the State Minister of Road Development.
+
+He was re-elected in the 2015 and 2020 parliamentary elections.
+
+...
+
+[Data](articles/08912104.json)
+
+---
+
 ### ලොහාන් රත්වත්තේ අභාවප්‍රාප්ත වෙයි
 
 *2025-08-15 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213395) · `si`
@@ -147,6 +209,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/31c28bec.json)
+
+---
+
+### Airport security guard arrested with cache of firearms and ammunition
+
+*2025-08-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111495/airport-security-guard-arrested-with-cache-of-firearms-and-ammunition-) · `en`
+
+A team of officers from the Minuwangoda Police Station, acting on information received, conducted a search of a residence near the Minuwangoda Hospital today (15) and arrested a suspect who was found in possession of multiple firearms, ammunition and sharp weapons.
+
+The arrested suspect is a 45-year-old resident of the Minuwangoda area, said police.
+
+Investigations have revealed that he is employed as a security guard at the Katunayake International Airport.
+
+Minuwangoda Police Station is continuing further investigations into the incident.
+
+◼️
+
+[Data](articles/afff9a37.json)
 
 ---
 
@@ -1707,83 +1787,5 @@ A senior security official, however, said the force would have its own command i
 ◼️
 
 [Data](articles/aeca9f52.json)
-
----
-
-### Over 7,000 T-56 ammunition recovered from Getalawa tank
-
-*2025-08-14 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111478/over-7000-t-56-ammunition-recovered-from-getalawa-tank-) · `en`
-
-Authorities have recovered another cache of live T-56 ammunition, following a special search operation carried out after the initial discovery of ammunition in an irrigation tank in Getalawa, Galenbindunuwewa.
-
-According to police sources, a total of 7,118 live rounds of ammunition used in T-56 assault rifles have now been recovered from the Getalawa lake.
-
-The discovery was initiated after an individual who had stepped into the tank had noticed several bullets submerged in the water. He promptly alerted the Galenbindunuwewa Police Station via the ‘118’ emergency hotline.
-
-A special search operation was subsequently launched, during which a large cache of ammunition was recovered from the body of water.
-
-During yesterday’s operation alone, 5,038 live rounds of ammunition were found.
-
-Further search operations were conducted today by security forces, resulting in the discovery of another 1,965 T-56 live rounds and 115 auxiliary weapon rounds.
-
-...
-
-[Data](articles/839952c3.json)
-
----
-
-### Probe launched after urea fertilizer poured into SLTB bus engine in N’Eliya
-
-*2025-08-14 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111477/probe-launched-after-urea-fertilizer-poured-into-sltb-bus-engine-in-neliya) · `en`
-
-An investigation has been launched by the Nuwara Eliya Police regarding an incident where urea fertilizer was poured into the engine of a bus belonging to the Nuwara Eliya Sri Lanka Transport Board depot.
-
-The fertilizer was found to have been added to a bus that operates daily between Nuwara Eliya and High Forest area.
-
-According to reports, the incident occurred on Tuesday night, while the bus was parked in the High Forest area. An unidentified individual had allegedly poured urea fertilizer into the engine.
-
-The issue was discovered the following morning when the bus was being prepared for service. During a routine check of the engine oil, it was found that the engine head had been removed.
-
-Additionally, a white chemical substance resembling urea fertilizer was observed spilled around the engine area. The bus driver and conductor, suspecting foul play, filed a complaint with police.
-
-...
-
-[Data](articles/dac46640.json)
-
----
-
-### புதிய  ஐக்கிய  இராச்சிய பாதுகாப்பு ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார்
-
-*2025-08-14 18:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஐக்கிய-இராச்சிய-பாதுகாப்பு-ஆலோசகர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-362925) · `ta`
-
-புதிதாக நியமிக்கப்பட்ட ஐக்கிய இராச்சிய பாதுகாப்பு ஆலோசகர் கேர்ணல் Colonel Keith Miles, இன்று (ஆகஸ்ட் 14) கோட்டே, ஸ்ரீ ஜயவர்தனபுரவில் அமைந்துள்ள பாதுகாப்பு அமைச்சில் பாதுகாப்பு செயலாளர் எயர் வைஸ் மார்ஷல் சம்பத் தூயாகொந்தாவை (ஓய்வு) மரியாதை நிமித்தம் சந்தித்தார்.
-
-இலங்கையில் சேவையை நிறைவு செய்து வெளியேறும் பாதுகாப்பு ஆலோசகர் கேர்ணல் டேரன் வூட்ஸுடன் அவர் பாதுகாப்பு செயலாளரை சந்தித்தார்.
-
-இதன்போது நடந்த சுமூக கலந்துரையாடல்களின் போது, பாதுகாப்பு ஒத்துழைப்பை மேம்படுத்துதல், பரஸ்பர புரிதலை வளர்த்தல் மற்றும் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்புக்கான புதிய வழிகளை ஆராய்தல் உள்ளிட்ட பல முக்கிய விடயங்கள் குறித்து கலந்துரையாடப்பட்டது. நீண்டகால பாதுகாப்பு கூட்டாண்மையை மேலும் வலுப்படுத்துவதற்கும், பிராந்திய ஸ்திரத்தன்மை மற்றும் பாதுகாப்பிற்கான பகிரப்பட்ட உறுதிப்பாட்டை மீண்டும் உறுதிப்படுத்துவதற்கும் வழிகள் குறித்தும் அவர்கள் கலந்துரையாடினர்.
-
-...
-
-[Data](articles/740cbd90.json)
-
----
-
-### අමෙරිකාවට මෙගා සුනාමි අනතුරු ඇඟවීමක්
-
-*2025-08-14 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213371) · `si`
-
-අමෙරිකාවේ පැසිෆික් වෙරළ තීරයේ කැස්කැඩියා කලාපය (cascadia subduction zone) ලෙසින් හැඳින්වෙන ප්‍රදේශයේ ඉදිරි වසර 50 ඇතුළත මෙගා සුනාමියක් ඇතිවිය හැකි බවට Virginia Tech විශ්වවිද්‍යාලයේ විද්‍යාඥයින් පිරිසක් අනතුරු අඟවා තිබේ.
-
-උතුරු කැලිෆෝනියාවේ සිට වැන්කුවර් දූපත දක්වා සැතපුම් 600ක් පමණ විහිදෙන මෙම කලාපය දැවැන්ත භූකම්පන ඇති කරන කලාපයක් බව ඔවුන් පවසයි.
-
-අදාළ පර්යේෂකයන් පවසන්නේ පැසිෆික් කැස්කැඩියා කලාපයෙන් රික්ටර් මාපකයේ 8.0 හෝ ඊට වැඩි භූමිකම්පාවක් සිදුවීමට 15%ක පමණ සම්බාවිතාවක් තිබෙන බවය.
-
-එවන් සිදුවීමක් හදිසියේ සිදුවුවහොත් කැස්කැඩියා කලාපය හදිසියේම වෙරළ භූමියේ එකවර ජලයේ ගිලා බැසීමක් සිදුවිය හැකි බවත්, එහි ප්‍රතිබලපෑමෙන් අඩි සිය ගණනක් උස සුනාමි රළක් ජනනය වනු ඇති බවත් අදාළ පර්යේශකයන් විද්‍යඥයන් වැඩිදුරටත් අනතුරු අඟවා තිබේ.
-
-මේ හේතුවෙන් අමෙරිකාවේ බටහිර වෙරළ තීරයේ මිලියන සංඛ්‍යාත පදිංචිකරුවන්ට පෙර නොවූ විරූ අනතුරටක මුහුණදීමට සිදුවනු ඇති බවත්, එම කලාපයේ පරිසර පද්ධතියේද විශාල වෙනසක් සිදුවනු ඇති බවත් ඔවුන් පවසයි.
-
-...
-
-[Data](articles/adb96e30.json)
 
 ---

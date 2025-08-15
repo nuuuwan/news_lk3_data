@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 20:07:00**
+As of **2025-08-15 20:21:01**
 
 ## Newspaper Stats
 
-*Scraped **70,711** Articles*
+*Scraped **70,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,824
-adaderanalk | 8,829
-tamilmirrorlk | 10,414
+adaderanalk | 8,831
+tamilmirrorlk | 10,415
 virakesarilk | 11,752
 adaderanasinhalalk | 12,181
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,711 articles have been extended.
+61,973 (87.6%) of 70,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### புதிய பொலிஸ்மா அதிபர் - ஜனாதிபதி சந்திப்பு
+
+*2025-08-15 20:00:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்மா-அதிபர்-ஜனாதிபதி-சந்திப்பு/175-362982) · `ta`
+
+புதிய பொலிஸ்மா அதிபர், சட்டத்தரணி பிரியந்த வீரசூரிய, இன்று (15) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
+
+புதிய  பொலிஸ்மா அதிபருக்கு ஜனாதிபதி தனது வாழ்த்துக்களைத் தெரிவித்ததோடு    ஜனாதிபதிக்கு அவர்  நினைவுப் பரிசொன்றையும்  வழங்கினார்.
+
+சட்டத்தரணி  பிரியந்த வீரசூரிய இலங்கை பொலிஸின் 37 ஆவது பொலிஸ்மா அதிபர் ஆவார். இலங்கை பொலிஸ் சேவையில்  கான்ஸ்டபிள், சப்-இன்ஸ்பெக்டர் மற்றும் உதவிப்பொலிஸ் அத்தியட்சகர் ஆகிய  மூன்று நிலைகளையும் கடந்து பொலிஸ்மா அதிபர் பதவிக்கு தெரிவான முதலாவது பொலிஸ்மா அதிபர் இவர் என்பது குறிப்பிடத் தக்கது.  R
+
+◼️
+
+[Data](articles/712584c8.json)
+
+---
 
 ### මහ බැංකු අධිපතිගේ අපේක්ෂාව
 
@@ -85,6 +101,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/37f0b22c.json)
+
+---
+
+### President directs officials to prepare plan for creating a sports culture in Sri Lanka
+
+*2025-08-15 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111507/president-directs-officials-to-prepare-plan-for-creating-a-sports-culture-in-sri-lanka) · `en`
+
+A review on the implementation of the 2025 budget allocations for the Ministry of Youth Affairs and Sports, together with preliminary discussions on the 2026 budget proposals, was held this morning (15) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
+
+During this discussion, the allocations made in 2025 to eight institutions under the Ministry of Youth Affairs and Sports and the current status of the related projects were reviewed separately, the PMD said.
+
+The President pointed out that the long-standing issue in all sectors, including youth affairs and sports, is the failure to allocate budgetary provisions properly for their advancement. He further noted that although the last budget allocated the necessary funds for all sectors, there has been dissatisfaction regarding their proper utilisation for the relevant projects.
+
+...
+
+[Data](articles/d9b4d972.json)
+
+---
+
+### Chinese smugglers causing significant losses to Sri Lanka’s gem industry – report
+
+*2025-08-15 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111506/chinese-smugglers-causing-significant-losses-to-sri-lankas-gem-industry-report) · `en`
+
+Chinese involvement in Sri Lanka’s gemstone industry is causing significant revenue losses to the island nation’s crisis-ridden economy and impacting local businesses, according to an article in The Financial Post.
+
+Chinese nationals have allegedly exported gems worth approximately 30 billion rupees from Sri Lanka, as part of smuggling operations that deprive the country of precious tax revenue and pose a serious threat to legitimate businesses, the article states.
+
+It highlights that recently, the Colombo High Court seized over LKR 201 million from the bank account of a Chinese businessman linked to a decade-long smuggling and money laundering operation.
+
+Sri Lanka Customs officers also caught a Chinese national and his daughter at the Colombo airport carrying gemstones worth over LKR 17 million, including Moonstones, Star Sapphires, and Emeralds, to be smuggled out of Sri Lanka.
+
+...
+
+[Data](articles/fd33dab1.json)
 
 ---
 
@@ -1789,51 +1839,5 @@ Journalists are rubbing elbows with holidaymakers from the “lower 48” states
 ...
 
 [Data](articles/2716a019.json)
-
----
-
-### වන්දනා බස් රථයක් ලොරියක ගැටී 10කට තුවාල
-
-*2025-08-15 09:03:04* · [`adalk`](https://www.ada.lk/picture_story/වන්දනා-බස්-රථයක්-ලොරියක-ගැටී-10කට-තුවාල/10-417929) · `si`
-
-බදුල්ල මහියංගන ප්‍රධාන මාර්ගයේ දුන්හිඳ වංගුව අසල දී අද (15) උදෑසන වන්දනා බස් රථයක් මාර්ගය අසල නවතා තිබු ලොරියක ගැටීමෙන් දසදෙනකු තුවාල ලබා බදුල්ල ශික්ශන රෝහලට ඇතුලත් කල බව බදුල්ල පොලිසිය පවසයි.
-
-හාලිඇල උඩුවර ප්‍රදේශයේ පිරිසක් රැගත් පෞද්ගලික වන්දනා  බස් රථයක්  නුවර බලා යමින් සිටියදී දුන්හිඳ වංගුව අසල දී මෙසේ මාර්ගය අසල නවතා තබා තිබු ලොරියක ගැටිමෙන් මෙම අනතුර සිදුව ඇතයි පොලිසිය සදහන් කලේය .
-
-තුවාලකරුවන් ගේ කිහිප දෙනෙකුගේ තත්ත්වය තරමක් බරපතළ බවද රෝහල් ආරංචි මාර්ග පැවසීය. බදුල්ල පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වති .
-
-◼️
-
-[Data](articles/ee9783c8.json)
-
----
-
-### How S. Thomas’ College Mount Lavinia Preserved Western Classics In Sri Lankan Education
-
-*2025-08-15 09:02:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-s-thomas-college-mount-lavinia-preserved-western-classics-in-sri-lankan-education/) · `en`
-
-...
-
-[Data](articles/8476d56b.json)
-
----
-
-### උතුරේ ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර අලුත්වැඩියා කෙරේ
-
-*2025-08-15 08:40:03* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-ආර්ථික-මධ්‍යස්ථාන-සහ-සමූපකාර-අලුත්වැඩියා-කෙරේ/11-417928) · `si`
-
-අතහැර දමා ඇති හා නවීකරණයට ලක් කළ යුතුව තිබෙන උතුරු පළාත තුළ ඇති ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර ව්‍යාපාරය අලුත් වැඩියා කර කඩිනමින් ප්‍රයෝජනයට ගැනීමට වෙළෙඳ,වාණජ,ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යාංශය සැලසුම් කර තිබේ.
-
-රුපියල් මිලියන 200කට ආසන්න මුදලක් වැය කොට නිසි ස්ථානීය සැලැස්මක් රහිතව ඉදි කර ඇති යාපනය විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සැල් 20ම මේ වන විට කිසිදු ප්‍රයෝජනයක් නොගෙන අතහැර දමා ඇත.
-
-වෙළෙඳ සැල් 40ක ප්‍රමාණයක් සහිත කිලිනොච්චිය විශේෂිත ආර්ථික මධ්‍යස්ථානය නවීකරණය කිරීමේ ක්‍රියාවලියේදී ජල පහසුකම්,ප්‍රවාහන පහසුකම්, සනීපාරක්ෂක පහසුකම්,බැංකු කටයුතු වැනි තවත් අවශ්‍ය සියලු පහසුකම් සැපයීමත් ඒ හා සම්බන්ධ ගැටලු සහ අභියෝගත් හඳුනාගෙන තිබේ.
-
-මීට අමතරව ආර්ථික මධ්‍යස්ථානය තුළ වසා දමා ඇති වෙළෙඳ සැල් විවෘත කිරීමට ආදාළ කටයුතු පිළිබඳවත්  අවධානයට ලක්ව තිබේ.
-
-රුපියල් මිලියන 291ක වියදමක් දරා 2018 වසරේ ආරම්භ කරන ලද,වවුනියාව විශේෂිත ආර්ථික මධ්‍යස්ථානය මේ දක්වා කිසිදු ආකාරයක ප්‍රයෝජනයක් ගෙන නොමැති බවද එම අමාත්‍යාංශය සඳහන් කරයි.
-
-...
-
-[Data](articles/f65ba194.json)
 
 ---

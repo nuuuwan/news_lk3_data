@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 08:49:16**
+As of **2025-08-15 09:22:15**
 
 ## Newspaper Stats
 
-*Scraped **70,598** Articles*
+*Scraped **70,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,153 @@ economynextcom | 4,304
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
-adalk | 6,815
-adaderanalk | 8,811
-tamilmirrorlk | 10,384
+adalk | 6,816
+adaderanalk | 8,815
+tamilmirrorlk | 10,386
 virakesarilk | 11,742
-adaderanasinhalalk | 12,152
+adaderanasinhalalk | 12,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,598 articles have been extended.
+61,973 (87.8%) of 70,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### ඇල්ල - වැල්ලවාය මාර්ගයේ බිහිසුණු අනතුරක්
+
+*2025-08-15 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213386) · `si`
+
+ඇල්ල, වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා දිය ඇල්ලට ඉහළ ප්‍රදේශයේ දී ත්‍රීරෝද රථයක් සහ සුඛෝපභෝගී කැබ් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුවී තිබේ.
+
+එම අනතුරින් ත්‍රීරෝද රථයේ ගමන් කරමින් සිටි පුද්ගලයන් හය දෙනෙකු තුවාල ලබා දෙමෝදර සහ බණ්ඩාරවෙල යන රෝහල්වලට ඇතුළත් කර ඇත.
+
+මෙසේ අනතුරට ලක් වී ඇත්තේ බදුල්ල ප්‍රදේශයේ පදිංචි පිරිසක් වන අතර අනතුර සම්බන්ධයෙන් ඇල්ල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/3e66c288.json)
+
+---
+
+### ’சமூக நல்லிணக்கத்தை வலுப்படுத்த வேண்டும்’
+
+*2025-08-15 08:21:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-நல்லிணக்கத்தை-வலுப்படுத்த-வேண்டும்/175-362946) · `ta`
+
+கடந்த 1947 ஆம் ஆண்​டில் இந்​தி​யா, பாகிஸ்​தான் நாடு​கள் உதய​மாகின. இந்த பிரி​வினை​யின்​போது ஏற்​பட்ட வன்​முறை சம்​பவங்​களில் சுமார் 20 லட்​சம் பேர் உயி​ரிழந்​தனர். சுமார் 2 கோடிக்​கும் மேற்​பட்​டோர் இடம்​பெயர்ந்​தனர்.
+
+இதை நினை​வு​கூரும் வகை​யில் ஓகஸ்ட் 14 ஆம் திகதி, பிரி​வினை கொடுமை​கள் நினைவு தின​மாக அறிவிக்​கப்​பட்​டது. கடந்த 2021 ஆம் ஆண்டு முதல் இந்த தினம் அனுசரிக்​கப்​பட்டு வரு​கிறது.
+
+இந்த தினம் இந்​திய வரலாற்​றில் மிக​வும் துயர​மான நாள் ஆகும். பெரும் எண்​ணிக்​கையி​லான மக்​கள் துன்​பம், வேதனை​களை அனுப​வித்​தனர். கற்​பனைக்கு எட்​டாத வகை​யில் மிகப் ​பெரிய இழப்​பு​களை எதிர்​கொண்​டனர்.
+
+எனினும் தாங்க முடி​யாத வலி, வேதனையை மக்​கள் துணிச்​சலுடன் எதிர்​கொண்​டனர். வீழ்ச்​சி​யில் இருந்து எழுச்சி பெற்ற மக்​கள், வளர்ச்​சிப் பாதை​யில் பல்​வேறு மைல்​கற்​களை எட்டி புதிய சாதனை​களை படைத்​தனர். இந்த நாள் நமக்கு ஒரு படிப்​பினையை கற்​றுத் தரு​கிறது. நாம் சமூக நல்​லிணக்​கத்தை வலுப்​படுத்த வேண்​டும். இதன்​மூலமே நாட்​டின் ஒற்​றுமையை வலுப்​படுத்த முடி​யும் என்று குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/527f4945.json)
+
+---
+
+### காஷ்மீர் வெள்ளத்தில் சிக்கி 46 பேர் உயிரிழப்பு
+
+*2025-08-15 08:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஷ்மீர்-வெள்ளத்தில்-சிக்கி-46-பேர்-உயிரிழப்பு/175-362945) · `ta`
+
+ஜம்​மு -​ காஷ்மீரன் கிஷ்த்​வார் மாவட்​டத்​தில் உள்ள தொலை​தூர மலை கிராமத்​தில் நேற்று மேகவெடிப்​பால் ஏற்​பட்ட பெரு​வெள்ளம் மற்​றும் நிலச்​சரி​வில் சிக்கி சி.ஐ.எஸ்.​எப். பாது​காப்பு படை வீரர்​கள் இரு​வர் உட்பட 46 பேர் உயி​ரிழந்​தனர்.
+
+கிஷ்த்​வார் மாவட்​டத்​தில் நேற்று மேகவெடிப்​பின் காரண​மாக தீடீர் வெள்​ளப்​பெருக்​குடன் நிலச்​சரி​வும் ஏற்​பட்​டது. இதனால் சோசிட்டி மலை கிராமத்​தில் உயி​ரிழந்​தவர்​களின் எண்​ணிக்கை 46-ஆக உள்​ளது. இன்​னும் பலர் இடி​பாடு​களுக்​குள் சிக்​கி​யிருப்​ப​தாக நம்​பப்​படு​வ​தால் இறப்பு எண்​ணிக்கை மேலும் அதி​கரிக்​கக்​கூடும் என்று அஞ்​சப்​படு​கிறது. இது​வரை​யில் மீட்​கப்​பட்ட 120 பேரில் 38 பேரின் நிலை கவலைக்​கிட​மாக உள்​ளது.
+
+மீட்பு பணி​களில் என்.​டி.ஆர்​.எப், எஸ்​டிஆர்​எப், காவல்​துறை, இராணுவம், உள்​ளூர் தன்​னார்​வலர்​கள் பெரிய அளவில் ஈடு​பட்​டுள்​ளனர். நிலைமை மோச​மாக இருப்​ப​தால் என்​.டி.ஆர்.​எப்​-ன் இரண்டு புதிய குழுக்​கள் உட்பட மீட்பு பணி​யாளர்​களின் எண்ணிக்கை அதி​கரிக்​கப்​பட்​டுள்​ளது என்று தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/ecdc8949.json)
+
+---
+
+### Group working to promote homosexuality in Sri Lanka: Cardinal Malcolm Ranjith
+
+*2025-08-15 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111489/group-working-to-promote-homosexuality-in-sri-lanka-cardinal-malcolm-ranjith) · `en`
+
+A group is working with foreign organizations to promote homosexuality in Sri Lanka, claims His Eminence Cardinal Malcolm Ranjith.
+
+Cardinal Malcolm Ranjith pointed out that certain political parties and even political leaders are involved in this effort.
+
+The Cardinal made these remarks while attending a ceremony held yesterday (14) in Colombo to confer the honorary title of Agga Maha Pandita—granted by the Government of Myanmar—on the Deputy Chancellor of Ruhuna University, Most Venerable Dr. Akuretiye Nanda Thero.
+
+Leader of the Opposition Sajith Premadasa, who was also present at the occasion, stated that special attention should be given to human rights when making constitutional amendments.
+
+◼️
+
+[Data](articles/42530927.json)
+
+---
+
+### Seven suspects arrested over fatal assault in Seeduwa
+
+*2025-08-15 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111488/seven-suspects-arrested-over-fatal-assault-in-seeduwa) · `en`
+
+Five individuals suspected to be involved in the fatal assault of a man in Seeduwa, along with two others who allegedly assisted them, have been arrested yesterday (14) by the Seeduwa Police.
+
+The arrests were made within the Dummalasuriya police division, and police also took into custody three machetes during the operation.
+
+According to police, the suspects are residents of Seeduwa, aged 17, 18, 21, 25, 27, and 44.
+
+They are scheduled to be presented before the Negombo Magistrate’s Court today (15).
+
+Seeduwa Police had received information that a group of individuals attacked a man in the Iriyagahalanda area using sharp weapons on Tuesday night.
+
+The victim, who sustained serious injuries, was admitted to the Negombo Hospital, where he later succumbed to his injuries. He was a 40-year-old man.
+
+◼️
+
+[Data](articles/16a25145.json)
+
+---
+
+### Man dies after being hit by express train in Kalutara
+
+*2025-08-15 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111487/man-dies-after-being-hit-by-express-train-in-kalutara) · `en`
+
+An individual has died after being hit by an express train traveling from Maradana to Beliatta.
+
+Police stated that the incident occurred last night (14) near the 23rd mile post on the Colombo–Beliatta railway line, within the Kalutara North police division.
+
+Investigations have been initiated by the Kalutara North Police based on information received regarding the incident.
+
+The identity of the deceased person has not yet been established.
+
+The body has been placed at the Nagoda Hospital, and further investigations are being carried out by the Kalutara North Police.
+
+◼️
+
+[Data](articles/191986ce.json)
+
+---
+
+### Bimal says increasing plantation workers’ wages a challenge
+
+*2025-08-15 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111486/bimal-says-increasing-plantation-workers-wages-a-challenge) · `en`
+
+Increasing the daily wages of plantation workers has become a challenge for the government, Minister of Transport, Highways, Ports and Civil Aviation, Bimal Rathnayake states.
+
+Minister Rathnayake further points out that the Ministry of Plantation Industries and the Ministry of Finance are continuously intervening in this matter.
+
+He made these remarks while addressing media after participating in an inspection tour at the Nanu Oya railway station.
+
+Plantation workers have continuously demanded an increase in daily wages from multiple governments but for no avail.
+
+The present administration led by the National People’s Power also pledged to increase wages during the period leading up to both the Presidential and Parliamentary elections.
+
+On a separate note, Minister of Transport Bimal Rathnayake stated that steps will be taken in the future to provide bonuses to profit-making depots.
+
+◼️
+
+[Data](articles/cec20990.json)
+
+---
 
 ### රට තුළ සමලිංගිකත්වය ප්‍රචලිත කිරීමට පිරිසක් කටයුතු කරනවා - කාදිනල් හිමි
 
@@ -926,6 +1058,20 @@ A senior security official, however, said the force would have its own command i
 
 ---
 
+### 2025දී වෙඩි තැබීම් 82 ක්
+
+*2025-08-14 18:36:46* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-වෙඩි-තැබීම්-82-ක්/11-417926) · `si`
+
+මෙම වසරේ මේ දක්වා දිවයින පුරා වෙඩිතැබීම් 82 ක් වාර්තා වී ඇතැයි පොලිස් මූලස්ථානය කියයි. පෙරේදා (13) රාත්‍රී විනාඩි 20 ක් තුළ හංවැල්ලේ සහ මීගොඩදී වෙඩි තැබීම් දෙකක් සිදුව ඇත. මේ වන විට පුද්ගලයන් 44 දෙනෙක් මියගොස් තවත් පුද්ගලයන් 48 දෙනෙකු තුවාල ලබා ඇත.
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් මෙන්ම සංවිධානාත්මක අපරාධකරුවන් වන බඩෝ විට අසංක, කොස් මල්ලි, දෙහිබාලේ මල්ලි, දෙහිවල සැන්ඩෝ, ගාල්ලේ විදුර, කොස්ගොඩ සුජී, ලොකු පැටි, කෙහෙල්බද්දර පත්මේ, ලලිත් කන්නන්ගර නොහොත් බස්ලලිත් නැමැත්තාගේ සමීපතමයින් හා ඝාතනයට ලක් වූ ගනේමුල්ලේ සංජීවගේ සමීපතමයින් විසින් මෙම වෙඩි තැබීම් සිදුකර ඇති බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f5c49d27.json)
+
+---
+
 ### බැංකුවකින් රු.කෝටි 9ක්  වංචා කළ සහකාර කළමනාකරු දැලේ
 
 *2025-08-14 18:27:46* · [`adalk`](https://www.ada.lk/breaking_news/බැංකුවකින්-රු-කෝටි-9ක්--වංචා-කළ-සහකාර-කළමනාකරු-දැලේ/11-417925) · `si`
@@ -1655,151 +1801,5 @@ It was decided to develop a framework to identify and resolve the issues faced b
 ...
 
 [Data](articles/5df564c7.json)
-
----
-
-### President decides to temporarily halt Mannar Wind Power Project
-
-*2025-08-14 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111464/president-decides-to-temporarily-halt-mannar-wind-power-project-) · `en`
-
-A decision has been taken to suspend the construction of two wind power plants following concerns raised by various stakeholders.
-
-The decision was taken during a discussion held on the proposed Mannar wind power plant and related emerging issues at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
-
-The meeting focused on the country’s energy needs and the importance of the project to the national economy, the President’s Media Division (PMD) said.
-
-It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant. It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.
-
-...
-
-[Data](articles/a0b01b09.json)
-
----
-
-### Acting Director of Police Cultural Division arrested on bribery charges remanded
-
-*2025-08-14 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111463/acting-director-of-police-cultural-division-arrested-on-bribery-charges-remanded) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) earlier today (14), has been remanded, Ada Derana reporter said.
-
-Considering the submissions made by officials of the Bribery Commission and defence counsels, Colombo Additional Magistrate Pavithra Sanjeewani Pathirana ordered SSP Sathish Gamage be remanded until August 19.
-
-According to the Bribery Commission, the suspect, during his tenure as the Senior Superintendent of Police in charge of the Galle and Embilipitiya Police Divisions, had allegedly opened three bank accounts in private banks under another person’s name.
-
-It is alleged that he had received approximately Rs. 14 million as bribes from organized criminals, individuals seeking police services and other offenders, which were deposited into those accounts.
-
-...
-
-[Data](articles/ab78439e.json)
-
----
-
-### සතීෂ් ගමගේ රිමාන්ඩ්
-
-*2025-08-14 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213362) · `si`
-
-අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගත් පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතිෂ් ගමගේ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරණ මහත්මිය විසින් මෙම නියෝගය නිකුත් කළාය.
-
-සැකකරු ගාල්ල සහ ඇඹිලිපිටිය පොලිස් කොට්ඨාශ භාරව ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා වශයෙන් කටයුතු කළ සමයේ වෙනත් පුද්ගලයෙකු නමින් පුද්ගලික බැංකු තුනක ගිණුම් 03 ක් විවෘතකර, එම ගිණුම්වලට සංවිධානාත්මක අපරාධකරුවන් ගෙන්, පොලීසියට සේවා ලබා ගැනීමට පැමිණෙන පුද්ගලයින්ගෙන් හා වෙනත් අපරාධකරුවන්ගෙන් අල්ලස් වශයෙන් ලබාගත් රුපියල් එක් කෝටි හතළිස් ලක්ෂයකට ආසන්න මුදලක් අල්ලස් වශයෙන් ලබා ගැනීම සහ මුදල් විශුද්ධිකරණ චෝදනා යටතේ මෙම පුද්ගලයා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-◼️
-
-[Data](articles/553a9e84.json)
-
----
-
-### ‘கூலி’ : ‘ஆவரேஜ்’ ட்ரீட்மென்ட் எப்படி? (வீடியோ இணைப்பு)
-
-*2025-08-14 13:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-ஆவரேஜ்-ட்ரீட்மென்ட்-எப்படி-வீடியோ-இணைப்பு/54-362908) · `ta`
-
-லோகேஷ் கனகராஜ் இயக்கத்தில் ரஜினி நடிக்கிறார் என்ற அறிவிப்பு வெளியான முதல் நாளில் இருந்தே ‘கூலி’ படத்துக்கான ஹைப் மிகப் பெரிய அளவில் உருவாகிவிட்டது. காரணம், தமிழின் தற்கால இயக்குநர்களில் ஒருவராக லோகேஷ் தனக்கென ஒரு இடத்தை பிடித்துவிட்டதுதான். அவருடன் ரஜினி என்கிற ஒரு மிகப் பெரிய பிராண்ட் இணையும்போது படம் குறித்த எதிர்பார்ப்பு கடந்த இரண்டு ஆண்டுகளாக எக்கச்சக்கமாக எகிறிவிட்டிருந்தது. அத்தகைய எதிர்பார்ப்பை ‘கூலி’ திரைப்படம் நிறைவேற்றியதா என்று பார்க்கலாம்.
-
-சென்னையில் மேன்ஷன் ஒன்றை நடத்தி வருபவர் தேவா (ரஜினிகாந்த்). தனது இளவயது நண்பர் ராஜசேகர் (சத்யராஜ்) திடீரென மரணம் அடைந்ததை அடுத்து, அவருடைய இறுதிச் சடங்குக்கு வரும் தேவாவை அவமானப்படுத்தி அனுப்பிவிடுகிறார் ராஜசேகரின் மூத்த மகள் ப்ரீத்தி (ஸ்ருதிஹாசன்).
-
-...
-
-[Data](articles/7f07243a.json)
-
----
-
-### හංවැල්ලේ වෙඩිතැබීම 'බනා මන්ත්‍රී' ඝාතනයට පළිගැනීමක් - බුද්ධි තොරතුරුත් ලැබිලා
-
-*2025-08-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213361) · `si`
-
-හංවැල්ල, පහත්ගම ප්‍රදේශයේ දී සිදුකර ඇති වෙඩිතැබීම '' හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' ඝාතනයට පළිගැනීමක් බවට පොලීසිය සැක පළ කරයි.
-
-හංවැල්ල පහත්ගම ප්‍රදේශයේදී ඊයේ (13) රාත්‍රියේ පුද්ගලයෙකු ඉලක්ක කර වෙඩි තැබීමක් සිදුකර තිබුණි.
-
-ඊයේ රාත්‍රී 9.50ට පමණ පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් එහි සිටි පුද්ගලයෙකු ඉලක්ක කර මෙම වෙඩි තැබීම සිදුකර ඇත.
-
-පොලීසිය පැවසුවේ, පිස්තෝලයකින් වෙඩි ප්‍රහාරය එල්ල කර ඇති අතර ඉන් අදාළ පුද්ගලයාගේ වම්පාදයට තුවාල සිදුව ඇති බවය.
-
-වෙඩි ප්‍රහාරයෙන් තුවාල ලැබුවේ ලලිත් කන්නංගර හෙවත් බස් ලලිත් නැමැත්තාගේ සමීපතයෙකු වන 'කන්ද උඩ ඉරේෂ් ' නමැත්තාගේ 56 හැවිරිදි පියායි.
-
-පසුගිය 12 වැනිදා මීගොඩ, ආටිගල මාර්ගයේදී හිටපු ප්‍රාදේශිය සභා මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' නැමැත්තා වෙඩි තබා ඝාතනය කර තිබුණි.
-
-ඝාතනය වූ 'බනා මන්ත්‍රී' නැමැත්තාගේ මස්සිනා වන 'ගගන' සහ 'හඳපාන්ගොඩ හඳයා' නම් අපරාධකරුවන් විසින් මෙම වෙඩිතැබීම මෙහෙයවූ බවට තොරතුරු ලැබී ඇති බවත් පොලීසිය සඳහන් කළේය.
-
-...
-
-[Data](articles/a18d40da.json)
-
----
-
-### பாகிஸ்தானின் 79வது சுதந்திர தினம்
-
-*2025-08-14 13:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தானின்-79வது-சுதந்திர-தினம்/175-362906) · `ta`
-
-பாகிஸ்தான் நாட்டின் 79 வது சுதந்திர தினம் ஆகஸ்ட் 14 ஆம் திகதி ஆகும் இதனை முன்னிட்டு வியாழக்கிழமை (14) அன்று காலை கொழும்பில் உள்ள பாகிஸ்தான் உயர் ஸ்தானிகர் அலுவலகத்தில் உயர் ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வு) பகீம் அல் அஸீஸ் தலைமையில் பாகிஸ்தான் தேசியக் கொடி ஏற்றி வைக்கும் வைபவம் நடைபெற்றது.
-
-பிரதி சபாநாயகர் டாக்டர் றிஸ்வி சாலி, உயர் நீதிமன்ற நீதியரசர் எம்.ரீ.எம் நவாஸ், முன்னாள் ஆளுநர் அசாத் சாலி முன்னாள் உயர்ஸ்தானிகர் சட்டத்தரணி என்.எம். சஹீட் உட்பட பாகிஸ்தான் தூதரக அதிகாரிகள் ஊடகவியலாளர்களும் கலந்து கொண்டனர்
-
-...
-
-[Data](articles/3e0fa6b7.json)
-
----
-
-### ඇලස්කා අගනුවර දරුණු ගංවතුර තත්ත්වයක්
-
-*2025-08-14 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213360) · `si`
-
-ඇලස්කාවේ අගනුවර අසල මෙන්ඩන්හෝල් ග්ලැසියරයේ අයිස් වේල්ලකින් වැසි ජලය සහ හිම දියවීමෙන් ගංවතුර තත්ත්වයක් ඇති වී තිබේ.
-
-ඊයේ (13) උදෑසන මෙන්ඩන්හෝල් ගඟෙහි ජල මට්ටම ඉහළ යාමත් සමඟ ජූනෝහි වීදි කිහිපයක ජලය එක්රැස් වූ අතර, පැය ගණනක් ඉහළ මට්ටමේ ජලය පවතිනු ඇතැයි අපේක්ෂා කෙරෙන බව එරට කාලගුණ සේවා (NWS) සඳහන් කළේය.
-
-මෙහි අලුතින් සවි කරන ලද ගංගා බාධක පැවතීම හේතුවෙන් විශාල මට්ටමේ ගංවතුර තත්ත්වයක් ඇතිවීම වළක්වා ගැනීමට හැකි වූ බව විදෙස් මාධ්‍ය පවසයි.
-
-නිලධාරීන් මේ සම්බන්ධයෙන් අනතුරු ඇඟවීම් තීව්‍ර කර ඇති අතර, අඟහරුවාදා උදෑසන අයිස් වේල්ලෙන් ජලය ගැලවී යාමට පටන් ගෙන ඇති බවත්, බදාදා දක්වා ගංවතුර අපේක්ෂා කරන බවත් බලධාරීන් වැඩිදුර තහවුරු කර තිබේ.
-
-නමුත් ගංවතුර කලාපයේ බොහෝ පදිංචිකරුවන් ජල මට්ටමට ඉහළ යාමට පෙර ඉවත් කර ඇති අතර, විශාල ලෙස හානි වාර්තා වී නොමැත.
-
-මෙම ග්ලැසියරයෙන් සිදුවන ගංවතුර වසර 15කට ආසන්න කාලයක් තිස්සේ වාර්ෂික ගැටලුවක් බවට පත්ව ඇති අතර මෑත වසරවලදී නිවාස ගසාගෙන ගොස් නිවාස සිය ගණනක් ජලයෙන් යටවී ඇත.
-
-◼️
-
-[Data](articles/352f3dbc.json)
-
----
-
-### 28 வயது இளைஞனை வன்புணர்ந்த 26 வயதான இளைஞன்
-
-*2025-08-14 13:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/28-வயது-இளைஞனை-வன்புணர்ந்த-26-வயதான-இளைஞன்/175-362905) · `ta`
-
-28 வயது இளைஞனை, 26 வயதுடைய இளைஞன் கடுமையாக பாலியல் வன்புணர்வுக்கு உட்படுத்திய சம்பவம் மொணராகலை பொலிஸ் பிரிவில் பதிவாகியுள்ளது.
-
-மெதகம பொலிஸ் பிரிவிற்குட்பட்ட நன்னபுரவ அறது அரடுமடில்ல பிரதேசத்தில் இடம்பெற்ற இந்த சம்பவத்தில் பாதிக்கப்பட்ட நபர், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். பாலியல் வன்புணர்வுக்கு உட்படுத்திய நபர், பொலிஸாரினால் புதன்கிழமை (13) கைது செய்யப்பட்டுள்ளார்.
-
-ஜூலை 10 ஆம் திகதிக்கும் 14 ஆம் திகதிக்கும் இடையில், கோட்டபோவா பகுதியில் இடம்பெற்ற பெரஹரா பார்ப்பதற்கு 28 வயதான இளைஞன் சென்றுக்கொண்டிருந்த போது, வீட்டுக்கு அருகில் உள்ள வர்த்தக நிலையத்தில் வைத்து 26 வயதான ஒருவரை சந்தித்துள்ளார்.
-
-26 வயது இளைஞனும் பெஹரா பார்வையிடுவதற்காக செல்வதாக கூறியுள்ளார். அந்த 26 வயது இளைஞனின் மோட்டார் சைக்கிளில் இருவரும் ஏறி சென்றுள்ளனர்.
-
-அப்போது ரம்புட்டான் தோட்டத்துக்கு அழைத்துச் சென்று மரண அச்சுறுத்தல் விடுத்து, 28 வயது இளைஞனை, 26 வயதான இளைஞன் கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளார்.
-
-...
-
-[Data](articles/b31fef7f.json)
 
 ---

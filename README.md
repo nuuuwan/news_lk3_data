@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 04:32:46**
+As of **2025-08-16 04:49:22**
 
 ## Newspaper Stats
 
-*Scraped **70,742** Articles*
+*Scraped **70,743** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 602
+dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 722
 economynextcom | 4,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,742 articles have been extended.
+61,973 (87.6%) of 70,743 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -587,6 +587,18 @@ The President pointed out that the long-standing issue in all sectors, including
 ...
 
 [Data](articles/d9b4d972.json)
+
+---
+
+### 
+
+*2025-08-15 18:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86270) · `en`
+
+இலங்கையின் முன்னாள் வெளியுறவு அமைச்சர் லக்ஸ்மன் கதிர்காமர் சூதறியாத அவரின் அயலவர் ஒருவரின் வீட்டுக்குள் மறைந்திருந்து விடுதலை புலிகள் நடத்திய சினைப்பர் தாக்குதலில் 2005  ஆகஸ்ட் 12 ஆம் திகதி கொல்லப்பட்டார்.  தனது வீட்டில் உள்ள நீச்சல் தட்கத்தில் வழமையான 1000 மீட்டர்கள் நீச்சலை அவர் முடித்துக்கொண்டு வெளியேறியபோது கொலைஞர் தாக்குதலை நடத்தினார். விதிவசமான அந்த தினத்துக்கு பிறகு இரு தசாப்தங்கள் கடந்து விட்டன. ஆனால், அவர் பற்றிய நினைவுகள் இன்னமும் நீடிக்கின்றன.  இலங்கையின் தலைசிறந்த வெளியுறவு அமைச்சர் என்று பலராலும் கருதப்பட்ட அந்த மனிதரின் 20 வது நினைவு தினத்தை முன்னிட்டு இந்த கட்டுரை எழுதப்படுகிறது.
+
+...
+
+[Data](articles/bf4b29ab.json)
 
 ---
 
@@ -1789,23 +1801,5 @@ Minuwangoda Police Station is continuing further investigations into the inciden
 ◼️
 
 [Data](articles/39b000c9.json)
-
----
-
-### US combat ship to arrive in Colombo after visits of Indian navy tanker, destroyer
-
-*2025-08-15 11:44:00* · [`economynextcom`](https://economynext.com/us-combat-ship-to-arrive-in-colombo-after-visits-of-indian-navy-tanker-destroyer-236460/) · `en`
-
-ECONOMYNEXT – Sri Lanka will see the visit of the Independence-variant littoral combat ship USS Santa Barbara (LCS 32) to the Port of Colombo this weekend over a port call, the US Embassy in Colombo said days after the visit of Indian Navy’s INS Jyoti (Fleet Tanker) and INS Rana (Destroyer) earlier this week.
-
-India and the United States have increased the frequency of their naval ship visits to Sri Lanka as part of a broader strategic response to growing Chinese influence in the island nation’s ports and economy.
-
-The US Embassy in Colombo said the visit of Santa Barbara was underscoring the strength of the US–Sri Lanka partnership and our shared commitment to a secure, prosperous, and free Indo-Pacific.
-
-“It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission,” the US Embassy said in its statement.
-
-...
-
-[Data](articles/7346755c.json)
 
 ---

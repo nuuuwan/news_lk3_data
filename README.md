@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 00:08:27**
+As of **2025-08-16 00:26:01**
 
 ## Newspaper Stats
 
-*Scraped **70,727** Articles*
+*Scraped **70,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 722
 economynextcom | 4,319
 islandlk | 4,330
 dailymirrorlk | 4,733
-dailyftlk | 4,965
+dailyftlk | 4,975
 adalk | 6,825
 adaderanalk | 8,833
 tamilmirrorlk | 10,416
@@ -26,11 +26,169 @@ adaderanasinhalalk | 12,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,727 articles have been extended.
+61,973 (87.6%) of 70,737 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-08-16 (Saturday)
+
+### 7th Fleet’s USS Santa Barbara in maiden call to Colombo
+
+*2025-08-16 00:11:04* · [`dailyftlk`](https://www.ft.lk/news/7th-Fleet-s-USS-Santa-Barbara-in-maiden-call-to-Colombo/56-780366) · `en`
+
+The US Embassy in Sri Lanka in a statement on Friday said the USS Santa Barbara of the 7th Fleet will make its first call on the Port of Colombo on 16 August.
+
+It said the US 7th Fleet commands the world’s largest forward-deployed fleet with the primary mission of providing operational control and planning for its forces in the Western Pacific and Indian Oceans, while promoting regional stability and maritime security through engagements with allies and partners.
+
+“The first visit of the Independence-variant littoral combat ship to Colombo underscored the strength of the US-Sri Lanka partnership and shared commitment to a secure, prosperous, and free Indo-Pacific. “It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission,” the embassy said.
+
+...
+
+[Data](articles/42fe2aba.json)
+
+---
+
+### Knowledge Hub to boost Profood Propack & Agbiz 2025
+
+*2025-08-16 00:09:48* · [`dailyftlk`](https://www.ft.lk/business/Knowledge-Hub-to-boost-Profood-Propack-Agbiz-2025/34-780365) · `en`
+
+Knowledge Hub desk to give businesses practical guidance, market insights, and networking opportunities
+
+The expanded Knowledge Hub at Profood Propack & Agbiz 2025 will provide entrepreneurs and industry professionals with practical guidance, market insights, and networking opportunities to accelerate innovation in Sri Lanka’s food sector.
+
+Profood Propack & Agbiz 2025, organised by the Sri Lanka Food Processors Association (SLFPA) in partnership with Lanka Exhibition and Conference Services (LECS), will take place from 22 to 24 August 2025 at the Sirimavo Bandaranaike Exhibition and Convention Centre at BMICH, Colombo.
+
+This year, the exhibition has expanded the Knowledge Hub, it introduced last year, to include a well-structured Consumer Assistance Desk, serving as an important touch point for new entrepreneurs seeking assistance and guidance in identifying opportunities.
+
+...
+
+[Data](articles/e6e76c5f.json)
+
+---
+
+### Lanka Rating Agency upgrades First Capital Holdings to ‘A+’
+
+*2025-08-16 00:08:52* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Rating-Agency-upgrades-First-Capital-Holdings-to-A/34-780364) · `en`
+
+First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) and a pioneering full-service investment institution, and Lanka Rating Agency Ltd. (LRA), an independent credit rating authority of Sri Lanka, are pleased to announce the upgrade of the company’s long-term credit rating to ‘A+’ from ‘A’, with a stable outlook.
+
+This upgrade reflects First Capital’s sustained profitability, sound capital structure, robust governance, and strategic leadership in Sri Lanka’s evolving capital market landscape.
+
+The rating upgrade follows an in-depth review of First Capital’s financial performance, risk management frameworks, and market positioning. The company has consistently demonstrated strength in its core operations particularly in Government securities trading, capital markets advisory, and wealth management backed by strong compliance standards and operational discipline.
+
+...
+
+[Data](articles/1afe405b.json)
+
+---
+
+### Innovate’s “Akuru” pen by Atlas Axillia, inspires young creators with sensory, cultural, and emotional connection
+
+*2025-08-16 00:08:41* · [`dailyftlk`](https://www.ft.lk/business/Innovate-s-Akuru-pen-by-Atlas-Axillia-inspires-young-creators-with-sensory-cultural-and-emotional-connection/34-780363) · `en`
+
+Innovate, the premium lifestyle brand of Atlas Axillia, recently launched an exquisite and exciting product – a cinnamon-infused ink aromatic pen. Inspiring today’s youth, “Akuru” represents a fusion of authentic culture and modern creativity, designed to empower creators to embrace their cultural roots while expressing their individuality.
+
+Innovate’s “Akuru” pen offers more than mere functionality. It energises the writing experience, turning a routine task into a source of excitement and creative expression through offering a one-of-a-kind sensory experience. The event held at The Sanctuarii offered an intimate, first-hand experience that captivated young consumers through a sensory journey, one that resonated emotionally and culturally, redefining how stationery connects with its audience. The Akuru pen, with its Sri Lankan cinnamon aroma–infused ink, offers a writing experience that enhances tactile and visual interaction while fostering a strong emotional connection.
+
+...
+
+[Data](articles/860d76dd.json)
+
+---
+
+### National Chamber hosts networking event with newly appointed SL diplomats
+
+*2025-08-16 00:07:55* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-networking-event-with-newly-appointed-SL-diplomats/34-780362) · `en`
+
+The National Chamber of Commerce of Sri Lanka on Tuesday hosted newly appointed Sri Lankan diplomats for a networking session with business leaders.
+
+The event was held in collaboration with the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and was an exclusive networking session for the local corporate and business community.
+
+The session was graced by eight newly appointed Sri Lankan Ambassadors and High Commissioners designated to strategic diplomatic postings in Indonesia, Brazil, the Maldives, Türkiye, Nepal, South Korea, Kenya (Nairobi), and Oman, as well as five Consul Generals designated to Guangzhou, Shanghai, Milan, Los Angeles, and Jeddah.
+
+The event served as a dynamic platform for Sri Lankan businesses to engage directly with the diplomats, explore new opportunities for export market access, discuss investment and trade prospects, and foster stronger bilateral economic ties, the National Chamber said.
+
+...
+
+[Data](articles/93ca2b03.json)
+
+---
+
+### C.W. Mackie launches SCAN Cassava Chips range
+
+*2025-08-16 00:06:47* · [`dailyftlk`](https://www.ft.lk/business/C-W-Mackie-launches-SCAN-Cassava-Chips-range/34-780361) · `en`
+
+C.W. Mackie, recently launched a brand-new range of cassava chips under its widely popular food and beverage brand, SCAN.
+
+Building upon the success of the consumer movement that gives prominence to locally produced items, demand has grown tremendously in recent months. C.W. Mackie PLC has now extended its locally produced snacks portfolio to cassava chips in four flavours, which include ‘Hot & Spicy’, ‘Salted’, ‘Cheese & Onion’ and the newly introduced ‘Kochchi’ flavour, under an impressive range of snacks at affordable prices. SCAN Cassava range is now available at leading supermarket chains and general trade outlets island-wide. The cassava range consists of 50g packs and 30g packs, especially for general trade consumers.
+
+...
+
+[Data](articles/8373219e.json)
+
+---
+
 ### 2025-08-15 (Friday)
+
+### Imported sustainability: Rethinking Sri Lanka’s paradoxical wind energy ambitions
+
+*2025-08-15 23:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Imported-sustainability-Rethinking-Sri-Lanka-s-paradoxical-wind-energy-ambitions/4-780354) · `en`
+
+Why has the country’s wind potential remained so underutilised that it still accounts for just 1% even in 2025?
+
+It is clear that something is seriously lacking in Sri Lanka’s approach to achieving the noble goal of sustainability. The missing element is our inability to develop indigenous wind turbine technology that would expand local expertise and increase domestic content. It is a matter of real concern that, even more than three decades after the country first embraced wind power, our progress in establishing this critical technology has been unusually slow remaining limited to operations and routine maintenance even as of 2025
+
+...
+
+[Data](articles/a400b5ac.json)
+
+---
+
+### Tribute to Dr. Sarath de Silva on 80th birthday
+
+*2025-08-15 23:53:28* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Dr-Sarath-de-Silva-on-80th-birthday/4-780353) · `en`
+
+As he celebrates his 80th birthday, it is only fitting to honour not just the decades of dedicated medical service Dr. Sarath has rendered, but the warmth, humility, and quiet heroism he embodies. His life stands as a testament to the noblest ideals of medicine, a healing hand extended with love, a listening ear, and a heart overflowing with compassion
+
+In one lifetime, we encounter innumerable people. They touch us in many ways. We remember them and are grateful, of course, but then there are individuals who leave a profound and indelible mark on us. They transform us. Such an individual is Dr. Sarath de Silva.
+
+...
+
+[Data](articles/47043cc9.json)
+
+---
+
+### Don’t fly me to the Moon  again, Mr. Rocketman
+
+*2025-08-15 23:44:59* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-fly-me-to-the-Moon-again-Mr-Rocketman/4-780350) · `en`
+
+From star-gazing would-be astronauts to navel-gazing social anthropologists, we’ve had a surfeit of rising stars and setting suns – er, sons – who’ve promised more than they’ve ever delivered. And they continue to take the public, the polity and the parliaments of which some of them are a part for a long ride round the galactic block to the edge of outer darkness
+
+This week was something special, celestially speaking. First there was the spectacular Perseid shower in the bewitching midnight watch and some hours after. Then there was a scintillating conjunction of Jupiter and Venus in the early morning midweek days that followed. And now there is the ongoing spectacle of political shooting stars of the past and present disporting themselves as if they’d never heard of the principle of entropy. That all things must run down.
+
+In every respect, it is a show-stopper for a citizenry starving for bread and circuses under the more austere regime than most we are blessed with at present.
+
+...
+
+[Data](articles/1d05855b.json)
+
+---
+
+### India’s cosmic leap: A billion dreams will see visits to Moon, Mars and Venus
+
+*2025-08-15 23:41:10* · [`dailyftlk`](https://www.ft.lk/columns/India-s-cosmic-leap-A-billion-dreams-will-see-visits-to-Moon-Mars-and-Venus/4-780349) · `en`
+
+NISAR is poised to revolutionise how we observe and understand our planet
+
+India’s roadmap doesn’t stop at Gaganyaan, Prime Minister Modi has outlined a bold vision: establish an Indian space station by 2035 and land an Indian on the moon by 2040. If successful, India will join the elite club of nations—Russia, the United States, and China—with independent indigenous human spaceflight capabilities
+
+Reaching for the stars is becoming an everyday affair at India’s space agency, having visited the Moon and Mars with orbital missions, now eyes are set on a mission to Venus and a sample return from the Moon. Human space flight to fly an Indian citizen on an Indian rocket from Indian soil where the countdown will also be by India, is also taking shape fast.
+
+...
+
+[Data](articles/43c278e4.json)
+
+---
 
 ### பாகிஸ்தானில் ஹெலிகொப்டர் விபத்து – ஐந்து பேர் பலி
 
@@ -1659,177 +1817,5 @@ The Minister explained that if the shortage continues and worsens in the months 
 ...
 
 [Data](articles/5ad5a967.json)
-
----
-
-### துன்ஹிந்த சந்தியில் பஸ் விபத்து - ஏழு பேர் காயம்
-
-*2025-08-15 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222595) · `ta`
-
-பதுளை - மஹியங்கனை வீதியில் துன்ஹிந்த சந்தியில் இன்று வெள்ளிக்கிழமை (15) காலை 7:15 மணியளவில் இடம்பெற்ற பஸ் விபத்தில் ஏழு பேர் காயமடைந்துள்ளனர்.
-
-யாத்திரிகர்களை ஏற்றிச் சென்ற பஸ் நிறுத்தப்பட்டிருந்த லொறியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-பிரேக் கோளாறினால் பஸ் சாரதியின் கட்டுப்பாட்டை இழந்து பஸ் விபத்துக்குள்ளானதாக பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/b66cd54e.json)
-
----
-
-### “இந்தியர்கள் சிறுநீர் கழித்தால் பாகிஸ்தானில் சுனாமி”
-
-*2025-08-15 11:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியர்கள்-சிறுநீர்-கழித்தால்-பாகிஸ்தானில்-சுனாமி/175-362958) · `ta`
-
-சிந்து நதியில் இந்தியா அணை கட்டினால் ஏவுகணை மூலம் அணையை தகர்ப்போம் என பாகிஸ்தான் எம்பி பிலாவல் பூட்டோ சமீபத்தில் எச்சரிக்கை விடுத்திருந்தார்.
-
-இதற்கு பதிலடியாக பிரபல பாலிவுட் நடிகரும், பாஜகவின் ராஜ்யசபா எம்பியுமான மிதுன் சக்கரவர்த்தி, 140 கோடி இந்தியர்களும் ஒன்று சேர்ந்து சிறுநீர் கழித்து அணையாக கட்டி திறந்துவிட்டால் பாகிஸ்தானில் சுனாமியே உண்டாகும் என கிண்டலடித்துள்ளார்.
-
-◼️
-
-[Data](articles/06371279.json)
-
----
-
-### ரூ.60 கோடி மோசடி: ஷில்பா ஷெட்டி, கணவர் மீது வழக்கு
-
-*2025-08-15 11:16:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-மோசடி-ஷில்பா-ஷெட்டி-கணவர்-மீது-வழக்கு/175-362957) · `ta`
-
-லோட்டஸ் கேப்பிட்டல் பைனான்ஸ் சர்வீசஸ் (வங்கி சாரா நிதி நிறுவனம்) நிறுவனத்தின் இயக்குநர் தீபக் கோத்தாரி (60). ஜூஹுவைச் சேர்ந்த தொழிலதிபரான இவர் காவல் நிலையத்தில் அளித்த புகாரில் தெரிவித்துள்ளதாவது:
-
-நடிகை ஷில்பா ஷெட்டி கடன் பெற விரும்புவதாக எனது நிறுவனத்தில் கடன் முகவராக பணிபுரிந்த ராஜேஷ் ஆர்யா தெரிவித்தார். அதன் அடிப்படையில் நடிகை ஷில்பாவையும், அவரது கணவர் ராஜ் குந்த்ராவையும் ஜூஹுவில் சந்தித்துப் பேசினேன். அப்போது அவர்கள், தங்களிடம் ஆன்லைன் விற்பனை தளமான பெஸ்ட் டீல் டிவி நிறுவனம், ஷாப்பிங் காம்ப்ளக்ஸ் உள்ளிட்ட ஏராளமான சொத்துகள் இருப்பதாக கூறினார்.
-
-இதன் அடிப்படையில் அவர்களுக்கு ரூ.60.48 கோடி கடன் கொடுத்தேன். இந்நிலையில் 2017-ல் அந்த நிறுவனத்துக்கு எதிராக திவால் நடவடிக்கை தொடங்கப்பட்டது. எனது பணத்தை பலமுறை கேட்டும் அதற்கு சரியான பதில் கிடைக்கவில்லை. எனவே கொடுத்த பணத்தை மீட்டுத் தரவேண்டும். இவ்வாறு தீபக் கோத்தாரி அந்த புகாரில் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/f33d14f7.json)
-
----
-
-### தமிழ்மிரர் வாசகர்களின் கவனத்துக்கு
-
-*2025-08-15 11:13:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தமிழ்மிரர்-வாசகர்களின்-கவனத்துக்கு/62-362956) · `ta`
-
-தமிழ்மிரர் வாசகர்களுக்கு வணக்கம், இன்றைய சிந்தனை சித்திரத்துக்கான தலைமை எமக்கு அனுப்பிவையுங்கள், சிறந்த தலைப்பை நாங்கள் இன்றை சிந்தனை சித்திரத்துக் இடுவோம்.
-
-◼️
-
-[Data](articles/54d42fe4.json)
-
----
-
-### செம்மணி மனித புதைகுழி வழக்கு: சுமந்திரன் அதிரடி கோரிக்கை
-
-*2025-08-15 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனித-புதைகுழி-வழக்கு-சுமந்திரன்-அதிரடி-கோரிக்கை/175-362955) · `ta`
-
-செம்மணி மனித புதைகுழி வழக்கில் இருந்து சி.ஐ.டியினரை அகற்றுமான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், நீதிமன்றத்திடம் கோரிக்கை விடுத்துள்ளார்.
-
-செம்மணி மனித புதைகுழி வழக்கு தொடர்பான விசாரணை யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் வியாழக்கிழமை (14) ​நடைபெற்றது. இதன்போதே சுமந்திரன் மேற்கண்டவாறு ​கோரிக்கை விடுத்துள்ளார்.
-
-செம்மணி வழக்கின் வியாழக்கிழமை (14) விசாரணை முடிவடைந்த பின்னர்   ஊடகங்களுக்கு கருத்து தெரிவித்த ஐனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன்
-
-செம்மணி புதைகுழி விவகாரம் நீதிமன்றத்திலே அழைக்கப்பட்டது.. அந்த வேளையில் குற்றப் புலனாய்வுத் திணைக்களம் ஓர் அறிக்கையையும் யாழ். பல்கலைக்கழக சட்ட வைத்திய அதிகாரி பேராசிரியும் ஓர் அறிக்கையையும் சமர்ப்பித்துள்ளார்கள்.
-
-இதில் பேராசிரியருடைய அறிக்கையிலே ஸ்கானர் பாவிக்கப்பட்டதற்கு பிறகு இன்னமும் குறைந்தது எட்டு வாரகாலத்திற்கு மேலதிக அகழ்வுகள் செய்ய வேண்டிய தேவை இருப்பதாக அறிவித்திருக்கிறார்.
-
-...
-
-[Data](articles/eb5ffe64.json)
-
----
-
-### US envoy calls for reducing Sri Lanka non-tariff barriers
-
-*2025-08-15 10:54:00* · [`economynextcom`](https://economynext.com/us-envoy-calls-for-reducing-sri-lanka-non-tariff-barriers-236451/) · `en`
-
-ECONOMYNEXT – Sri Lanka should enhance trade facilitation and create a more conducive environment by reducing non-tariff barriers, US ambassador Julie Chung has told representatives of the private sector.
-
-Chung met Ceylon Chamber of Commerce officials to discuss trade, investment, and economic opportunities between Sri Lanka and the United States, the chamber said.
-
-She commended the country’s “negotiation with the United States to achieve a fair, balanced, and reciprocal trade relationship”.
-
-And “urged Sri Lanka to seize this window of opportunity by enhancing trade facilitation and creating a more conducive environment, including reducing non-tariff barriers, enhancing openness, and improving competitiveness”.
-
-US companies are increasingly considering South Asia, with Sri Lanka emerging as a top option, Chung was quoted as saying.
-
-Discussions also covered tourism as a sector with strong growth potential.
-
-...
-
-[Data](articles/8a2f16ba.json)
-
----
-
-### பம்பலப்பிட்டியில் ஒரு கோடி ரூபாய் மாயம்
-
-*2025-08-15 10:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-ஒரு-கோடி-ரூபாய்-மாயம்/175-362953) · `ta`
-
-பம்பலப்பிட்டியில் உள்ள ஒரு பணப் போக்குவரத்து நிறுவனத்திற்குச் சொந்தமான வேனில் இருந்து ரூ.10 மில்லியனுக்கும் அதிகமான மதிப்புள்ள பணப் பை காணாமல் போனதாக பம்பலப்பிட்டி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-அந்தப் பணத்தில் ரூ.10,000,000 செல்லுபடியாகும் நாணயம், ரூ.6,000 சேதமடைந்த நோட்டுகள் மற்றும் ரூ.390,000 மதிப்புள்ள அமெரிக்க டாலர் ரூ.1,300 ஆகியவை அடங்கும் என்றும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
-
-வேனில் 15 பைகள் பணம் கொண்டு செல்லப்பட்டதாகவும், அவற்றில் 14 பைகள் ஒப்படைக்கப்பட்டதாகவும் பொலிஸ்  விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/c53e86a6.json)
-
----
-
-### චිත්‍රපට සහ රූපවාහිනි හඬකැවීම්වලටත් AI එයි
-
-*2025-08-15 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213391) · `si`
-
-අමෙරිකාව සහ යුරෝපයේ හඬකැවීම් සහිත චිත්‍රපට සඳහා  AI තාක්ෂණය භාවිත කරමින් සිටින බවට විදෙස් වාර්තා සඳහන් කරයි.
-
-විදෙස් මාධ්‍ය වැඩිදුර සඳහන් කරන්නේ, මෙම AI හඬකැවීම් පද්ධතිය මඟින් එරට පවතින භාෂාමය ගැටලු ඉවත් කර ගැනීමට පහසු වන බවය.
-
-ඒ අනුව අමෙරිකානු වෙළෙඳපොළට ආකර්ෂණය කරගත හැකි ජාත්‍යන්තර චිත්‍රපට සොයා ඒවා හඬ කැවීම XYZ චිත්‍රපට සමාගමේ වැදගත් කාර්ය භාරයක් වේ.
-
-එම සමාගමේ, ප්‍රධාන මෙහෙයුම් නිලධාරියා වන මැක්සිම් කොට්‍රේ පවසන්නේ විදේශීය භාෂා චිත්‍රපට අමෙරිකානු වෙළෙඳපොළ තුළට නිකුත් කිරීම මේ වනවිට අවම මට්ටමක පවතින බවත් එය ඉදිරියේ දී AI යොදාගනිමින් වර්ධනය කරගත හැකි බවත්ය.
-
-◼️
-
-[Data](articles/1dac7da9.json)
-
----
-
-### කීරි සම්බා හිඟයක් ?  විසඳුමක් නැත්නම් ආදේශන ආනයනයට තීරණයක්
-
-*2025-08-15 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213390) · `si`
-
-කීරි සම්බා සහල් හිඟයක් මෙරට තුළ කෘතීමව ඇති කිරීමට ඇතැම් පිරිස් කටයුතු කරමින් සිටින බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිත හා සමුපාකාර අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
-
-ඔහු පවසන්නේ ඊට විසඳුමක් නොලැබුණහොත් කීරි සම්බා ආදේශන සහල් ආනයනය කිරීමට තීරණය කර ඇති බවය.
-
-"සහල් වෙළෙඳපොළේ ප්‍රශ්නයක් තියෙනවා නම් කීරි සම්බාවල අඩුවක් විතරයි තියෙන්නේ. ඒ අනුව ගේනවානම් ගේන්න තීරණය කරලා තියෙන්නේ කීරි සම්බා ආදේශන ප්‍රමාණයක් විතරයි.
-
-නමුත් අපි තවම අවසන් තීරණය අරන් නෑ. මොකද මේ යල කන්නය කැපෙන නිසා. හැබැයි නොවැම්බර්, දෙසැම්බර්, ජනවාරි වෙනකොට කීරි සම්බා හිඟය තවදුරටත් උග්‍ර කරන්න හදනවානම් කීරි සම්බා ආදේශන 'GR11' කියන සහල් මෙට්‍රික් ටොන්  40,000ක් ගේන්න තීරණය අරන් තියෙනවා. එය ක්‍රියාත්මක කර නෑ.
-
-අපි හිතනවා පොළොන්නරුවේ ගබඩාවල විතරක් මෙට්‍රික් ටොන් 85,000ක් තියෙනවා කිරී සම්බා විතරක්. ඒ ටික කොටලා මාර්කට් එකට දැම්මොත් මේක විසඳෙයි. නැතිවුනොත් අපිට කීරි සම්බා ගේන්න වෙයි.
-
-අනෙක් සහල් ගේන්න අවශ්‍යතාවක් දැනට නෑ. මේ යල කන්නයේ වී අස්වැන්න ගිය කන්නයට වඩා වැඩිවෙලා තියෙන්නේ. වගාකළ ප්‍රමාණයත් හෙක්ටයාර 80,000කින් වැඩිවෙලා තියෙන්නේ.
-
-...
-
-[Data](articles/a56fb170.json)
-
----
-
-### US threatens India of additional tariffs if Trump-Putin peace deal fails
-
-*2025-08-15 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111493/us-threatens-india-of-additional-tariffs-if-trump-putin-peace-deal-fails) · `en`
-
-US Treasury Secretary Scott Bessent has warned that the secondary tariffs on India could go up if “things don’t go well” during talks between President Donald Trump and Russian President Vladimir Putin in Alaska on Friday.
-
-Last week, Donald Trump imposed tariffs totalling 50 per cent on India, including 25 per cent for Delhi’s purchases of Russian oil that will come into effect from August 27.
-
-“I think everyone has been frustrated with President Putin. We expected that he would come to the table in a more fulsome way. It looks like he may be ready to negotiate. And we put secondary tariffs on the Indians for buying Russian oil. I could see, if things don’t go well, then sanctions or secondary tariffs could go up,” Scott Bessent said in an interview with Bloomberg on Wednesday.
-
-...
-
-[Data](articles/2754025f.json)
 
 ---

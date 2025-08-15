@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 16:48:19**
+As of **2025-08-15 17:05:57**
 
 ## Newspaper Stats
 
-*Scraped **70,683** Articles*
+*Scraped **70,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 6,822
 adaderanalk | 8,826
 tamilmirrorlk | 10,413
 virakesarilk | 11,749
-adaderanasinhalalk | 12,172
+adaderanasinhalalk | 12,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,683 articles have been extended.
+61,973 (87.7%) of 70,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### කොලරාඩෝවේ හාවුන්ගේ හිස මත 'අං'  වර්ධනය වෙයි
+
+*2025-08-15 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213410) · `si`
+
+කොලරාඩෝවේ හි ජීවත් වන හාවුන් වර්ගයක් 'අං' මෙන් වැඩෙන වෛරසයකින් පීඩා විඳින පුවතක් විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+"ෂොපේ පැපිලෝමා" නමින් හැඳින්වෙන මෙම වෛරසය සහිත හාවුන්ගේ මුහුණුවලින් 'අං' මෙන් නෙරාඑන ඉන්නන් වර්ගයක් වර්ධනය වීමෙන් මෙම වසංගත තත්ත්වය හට ගෙන ඇතැයි වාර්තා වේ.
+
+විද්‍යාඥයින් පවසන්නේ මෙය බිය විය යුතු තත්ත්වයක් නොවන අතර, ලොම් සහිත ජීවීන්ට සාපේක්ෂව මුහුණදීමට සිදුවන පොදු වෛරසයක් බවත්ය.
+
+'ෆ්‍රැන්කන්ස්ටයින් බනීස්' (Frankenstein bunnies), යක්ෂ හාවන් (demon rabbits) සහ "සොම්බි හාවන් (zombie) යනුවෙන් අන්වර්ථ නාම් රැසකින් මෙම සතුන් හඳුන්වනු ලබන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙම සත්වයින් බොහෝමයක් ප්‍රසිද්ධියට පත්ව ඇත්තේ ඩෙන්වර් සිට සැතපුම් 65ක් උතුරින් පිහිටි ෆෝර්ට් කොලින්ස් ප්‍රදේශයේ පදිංචිකරුවන් විසින් ඡායාරූප පළ කිරීම නිසාවෙනි.
+
+කොලරාඩෝ උද්‍යාන සහ වනජීවී ප්‍රකාශිකාවක් වන කාරා වැන් හූස් පවසා ඇත්තේ, මෙම වෛරසය‍ මැක්කන් සහ කිනිතුල්ලන්ගෙන් ව්‍යාප්ත වන බවය.
+
+...
+
+[Data](articles/a5701d9b.json)
+
+---
+
+### යෝජිත කම්කරු පනතට පාර්ශව රැසකින් යෝජනා ලබා ගැනීමට පියවර
+
+*2025-08-15 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213409) · `si`
+
+ජාතික කම්කරු උපදේශක සභාව කම්කරු අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු සහ නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් කම්කරු මහලේකම් කාර්යාල ශ්‍රවණාගාරයේදී ඊයේ (15) පැවැත්විණි.
+
+එහිදී නව කාර්මික සම්බන්ධතා පනතක් නිර්මාණය කිරීමේ වැඩපිළිවෙළ පිළිබඳව අදහස් පළවිය.
+
+යෝජිත පනත සම්බන්ධවද අදහස් සහ යෝජනා විමසා බැලීම සඳහා පසුගියදා කැබිනට් මණ්ඩලය විසින් කැබිනට් මණ්ඩලය විසින් උපදේශක කමිටුවක්ද පත් කෙරිණි.
+
+ඒ පිළිබඳ අදහස් දක්වමින් කම්කරු අමාත්‍ය ආචාර්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවසුවේ පුළුල් පදනමක පිහිටා නව කම්කරු පනතක් නිර්මාණය කිරීම රජයේ අපේක්ෂාව වන බවය.
+
+එම වැඩපිළිවෙළ විනිවිදභාවයෙන් සිදු කිරීමට කටයුතු කරන බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
+
+මෙහිදී කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතාද අදහස් පළ කළ අතර නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ජාතික කම්කරු උපදේශක සභාව නියෝජනය කරන වෘත්තීය සමිති පමණක් නොව ඉන් පරිබාහිරව සෙසු වෘත්තීය සමිතිවල අදහස් සහ යෝජනා ඉදිරියේදි ලබා ගැනීමට කටයුතු කරන බවය.
+
+...
+
+[Data](articles/6af2db57.json)
+
+---
 
 ### நீங்கள் உடல்களை புதைக்கலாம், ஆனால் உங்களால் உண்மையை புதைக்க முடியாது புதைக்கப்படாத எலும்புக்கூடுகள் நிலத்தை கிழித்துக்கொண்டு உண்மையை சொல்ல வெளிவருகின்றன - சட்டத்தரணி ரனிதா ஞானராஜா
 
@@ -628,15 +672,13 @@ The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands th
 
 முன்னாள் இராஜாங்க அமைச்சரும்  லோகன் ரத்வத்த  கொழும்பு தேசிய மருத்துவமனையில் சிறிது நேரத்திற்கு முன்புகாலமானார் என்று குடும்ப வட்டாரங்கள் தெரிவிக்கின்றன.
 
-சுகயீனம் காரணமாக கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வந்த ரத்வத்த இன்று (15) பிற்பகல் காலமானார்.
+சுகயீனம் காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்த ரத்வத்த இன்று (15) பிற்பகல் காலமானார். அவர், ஈரல் தொடர்பில் சிகிச்சை பெற்று வந்துள்ளார் என்பதுடன், சத்திரசிகிச்சைக்கு தயாராகிகொண்டிருந்தார் என்றும் அறியமுடிகின்றது.
 
 கண்டி மாவட்டத்தில் இருந்து அரசியலில் நுழைந்த அவர், இறக்கும் போது  அவருக்கு வயது 57.
 
 ஐக்கிய மக்கள் சுதந்திரக் கூட்டணியைப் பிரதிநிதித்துவப்படுத்தும் மத்திய மாகாண சபை உறுப்பினராக அரசியலில் நுழைந்த   லொஹான் ரத்வத்த, பின்னர் கண்டி மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டு, இராஜாங்க அமைச்சர் மற்றும் பிரதி அமைச்சர் பதவிகளை வகித்தார்.
 
-திருமதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவின் நெருங்கிய உறவினரான  லொஹான் ரத்வத்த, மஹிந்த ராஜபக்ஷ அரசாங்கத்தில் பெருந்தோட்டத்துறை இராஜாங்க அமைச்சராகவும், பின்னர் மைத்திரிபால சிறிசேன தலைமையிலான நல்லாட்சி  அரசாங்கத்தில் சிறைச்சாலை மறுசீரமைப்பு இராஜாங்க அமைச்சராகவும் பணியாற்றினார்.
-
-◼️
+...
 
 [Data](articles/e00cdc2b.json)
 
@@ -1787,37 +1829,5 @@ Ambassador of the Republic of Türkiye to Sri Lanka Semih Lütfü Turgut attende
 ...
 
 [Data](articles/59b10911.json)
-
----
-
-### COYLE, JETRO kick-off Sri Lankan Corporate Health and Productivity Awards 2025
-
-*2025-08-15 05:29:20* · [`dailyftlk`](https://www.ft.lk/business/COYLE-JETRO-kick-off-Sri-Lankan-Corporate-Health-and-Productivity-Awards-2025/34-780307) · `en`
-
-From left: COYLEPast Chairman and Head of the SLCHP Judging Panel Dr. Rohitha Silva, COYLE Chairman Manjula Wijesundera, JETRO Colombo Resident Representative Hiroki Oi and COYLE Event Chair, Mihiru Perera at the press conference – Pic by Upul Abayasekara
-
-The Chamber of Young Lankan Entrepreneurs (COYLE), in partnership with the Japan External Trade Organisation (JETRO), officially launched the Sri Lankan Corporate Health and Productivity Awards (SLCHPA) 2025 at Shangri-La Colombo recently.
-
-Now in its third year, the SLCHPA recognises businesses that champion employee wellbeing, workplace sustainability and productivity excellence. This year’s edition marks a milestone with JETRO joining as a strategic partner, introducing international benchmarking, expertise and global best practices.
-
-...
-
-[Data](articles/716e08ff.json)
-
----
-
-### Asian Travel Solutions celebrates first anniversary with remarkable growth and regional expansion
-
-*2025-08-15 05:25:48* · [`dailyftlk`](https://www.ft.lk/business/Asian-Travel-Solutions-celebrates-first-anniversary-with-remarkable-growth-and-regional-expansion/34-780306) · `en`
-
-Tech-driven travel agency marks one year of innovation, expansion, and service excellence in Sri Lanka and beyond
-
-Asian Travel Solutions Ltd. celebrates its first anniversary, marking a year of rapid growth, industry recognition, and strategic expansion. Since its launch on 15 August 2024, the company has redefined travel planning for both local and international clients through a unique blend of technology, efficiency, and personalised service.
-
-From day one, Asian Travel Solutions set out to be more than just another travel agency. The company embraced a tech-forward approach, integrating industry-specific software to streamline operations — from creating custom itineraries in record time to managing backend logistics with precision. Many processes still done manually in the industry have been automated by the company, delivering faster, more efficient service to clients.
-
-...
-
-[Data](articles/16e942f4.json)
 
 ---

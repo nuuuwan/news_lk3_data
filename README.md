@@ -1,36 +1,110 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 15:07:16**
+As of **2025-08-15 15:32:02**
 
 ## Newspaper Stats
 
-*Scraped **70,662** Articles*
+*Scraped **70,669** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 720
+colombotelegraphcom | 722
 economynextcom | 4,309
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,822
 adaderanalk | 8,824
-tamilmirrorlk | 10,406
+tamilmirrorlk | 10,407
 virakesarilk | 11,748
-adaderanasinhalalk | 12,163
+adaderanasinhalalk | 12,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,662 articles have been extended.
+61,973 (87.7%) of 70,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### ඉතිහාසයේ පළමු වරට ASPI ඒකක 20,000 ඉක්මවා නතරවෙයි
+
+*2025-08-15 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213403) · `si`
+
+ශ්‍රී ලංකා ප්‍රාග්ධන වෙළෙඳපොළ ඉතිහාසයේ තවත් ඓතිහාසික කඩඉමක් පසුකරමින්, අද (15) දින ගනුදෙනු අවසානයේ දී කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශක අගය ඒකක 20,000 ඉක්මවා යාමට සමත්වුණි.
+
+◼️
+
+[Data](articles/3db0bac5.json)
+
+---
+
+### බියකින් තොරව මෙරට ආයෝජනය කරන්නැයි ජපන් ආයෝජකයින්ට ආරාධනා
+
+*2025-08-15 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213402) · `si`
+
+විනිවිදභාවය සහතික කිරීමට කැපවී සිටින වත්මන් ආණ්ඩුව යටතේ කිසිදු බියකින් තොරව මෙරට ආයෝජනය කරන්නැයි ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා ජපන් ආයෝජකයින්ට ආරාධනා කර තිබේ.
+
+ඔහු මේ බව සඳහන් කළේ කොළඹදී ඊයේ (14) පැවති ව්‍යාපාරික ප්‍රවර්ධන සමුළුවකට එක්වෙමිනි.
+
+මෙරට ජපන් තානාපති කාර්යාලය සහ ශ්‍රී ලංකා ආයෝජන මණ්ඩල එක්ව සංවිධාන කළ ජපාන - ශ්‍රී ලංකා ව්‍යාපාරික ප්‍රවර්ධනය පිළිබඳ සමාරම්භක සැසිය කොළඹ පිහිටි ශ්‍රී ලංකා අයෝජන මණ්ඩල ශ්‍රවණාගාරයේදී ඊයේ පැවැත්විණි.
+
+ඒ මෙරට ජපාන තානාපති අකියෝ ඉසෝමාටා සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහත්වරු ඇතුළු පිරිසකගේ සහභාගීත්වයෙනි.
+
+''ශ්‍රී ලංකාවේ ජපන් ආයෝජකයින් සංඛ්‍යාව 145ක්  බව සඳහන් කෙරුණා. අයෝජන මණ්ඩලය යටතේ සමාගම් 70ක් 75ක් පමණ ක්‍රියාත්මක වෙනවා. මගේ අදහස මේ සිටින ආයෝජකයින් සංඛ්‍යාවෙන් හා අගයෙන් තවදුරටත් කැපීපෙනෙන ලෙස ඉහළ නැංවීමයි.''
+
+...
+
+[Data](articles/ea580a99.json)
+
+---
+
+### සම සුදුවන අලේපන භාවිතයෙන් රෝගී වන පිරිස ශීඝ්‍රයෙන් ඉහළට
+
+*2025-08-15 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213401) · `si`
+
+සම සුදු වීමට භාවිත කරන ආලේපන හේතුවෙන් රෝගී වන සංඛ්‍යාව ශීඝ්‍රයෙන් ඉහළ ගොස් ඇතැයි ජාතික විෂ තොරතුරු නිවාරණ මධ්‍යස්ථානයේ ප්‍රධානී කායික රෝග විශේෂඥ වෛද්‍ය දීප්ති ප්‍රනාන්දු මහත්මිය පවසයි.
+
+ජාතික විෂ නිවාරණ සතියේ ප්‍රගති සමාලෝචනය සහ ඉදිරි සැලසුම් පිළිබඳව අද (15) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍යවරිය මේ බව පැවසුවාය.
+
+ජාතික විෂ නිවාරණ සතිය අගෝස්තු 11 වැනිදා සිට 17 වැනිදා දක්වා පැවැත්වෙන අතර ජාතික විෂ නිවාරණ සතියේ මෙවර තේමාව බවට පත්ව ඇත්තේ "සම සුදු කිරීමේ ක්‍රීම් භාවිතයේ අවදානම" යන්නය.
+
+එහිදී අදහස් දක්වමින් විශේෂඥ වෛද්‍යවරිය පැවසුවේ පුද්ගලයෙකුගේ ශරීරයේ ඇති විශාලම ඉන්ද්‍රීය සම බවත් සම මගින් සමට සහ එහි ශරීරයේ අභ්‍යන්තරයට ආරක්ෂාවක් සපයනු ලබන බවය.
+
+එමෙන්ම මේ වන විට ලෝක සෞඛ්‍ය සංවිධානයද සමේ ආලේපන ක්‍රීම් සඳහා කිසිදු රසදිය ප්‍රමාණයක් අඩංගු නොවිය යුතු බවද මේ වන විට සඳහන් කර ඇතැයිද විශේෂඥ වෛද්‍යවරිය පෙන්වා දුන්නාය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජාතික විෂ තොරතුරු නිවාරණ මධ්‍යස්ථානයේ ප්‍රධානී කායික රෝග විශේෂඥ වෛද්‍ය දීප්ති ප්‍රනාන්දු මහත්මිය,
+
+...
+
+[Data](articles/86cbb0c0.json)
+
+---
+
+### අම්බලන්ගොඩ සහ නවගමුවේ රථ වාහන සීමා කිරීමක්
+
+*2025-08-15 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213400) · `si`
+
+අම්බලන්ගොඩ සහ නවගමුව ඇසළ මහා පෙරහර වෙනුවෙන් රථ වාහන ගමනාගමනය සීමා කෙරෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් පැවසීය.
+
+මෙවර අම්බලන්ගොඩ ඓතිහාසික මෝදර දේවාලයේ ඇසළ මහා පෙරහර අද (15) දහවල් 2 සිට රාත්‍රී 8 දක්වා ද හෙට (16) රාත්‍රී 9 සිට අලුයම 3 දක්වා ගාල්ල කොළඔ ප්‍රධාන මාර්ගයේ වීථි සංචාරය කිරීමට නියමිතය.
+
+මේ අතර නවගමුවේ පුරාණ මහා පත්තිනි දේවාලයේ වාර්ෂික ඇසළ පෙරහැර හෙට (16) අනිද්දා (17) යන දෙදින පැවැත්වේ.
+
+මෙය අවිස්සාවේල්ල කොළඔ පරණ පාරේ හෙට (16) රාත්‍රී 9 සිට අලුයම 2.30 දක්වාත්, අනිද්දා (17) පෙ.ව. 6 සිට දහවල් 2 දක්වාත් වීථි සංචාරය කිරීමට නියමිතය.
+
+ඒ හේතුවෙන් එම මාර්ගයේ වෙලේ හංදිය හා රණාල හංදිය වසා තැබීමට කටයුතු කරන අතර, ඒ සඳහා විකල්ප මාර්ග භාවිතා කරන බව  පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+◼️
+
+[Data](articles/de0c352d.json)
+
+---
 
 ### குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்
 
@@ -61,6 +135,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c77948e4.json)
+
+---
+
+### அனுர- மோடியால்  பெரும் பதற்றம்
+
+*2025-08-15 14:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அனுர-மோடியால்-பெரும்-பதற்றம்/150-362969) · `ta`
+
+"அனுர மோடியின் மோசடி ஒப்பந்தங்களை கிழித்தெறியுங்கள், சர்வதேச நாணய நிதியத்தின் (IMF) மரண பொறியை எதிர்ப்போம்" என்று எழுதப்பட்ட துண்டுப்பிரசுரங்களை விநியோகிக்க மஹரகம நகரில் அமைக்கப்பட்டிருந்த கூடாரத்தை பொலிஸார், வெள்ளிக்கிழமை (15) அகற்றிய போது  ஒரு சூடான சூழ்நிலை ஏற்பட்டது. இரு தரப்பினருக்கும் இடையே   வாக்குவாதம் ஏற்பட்டது.
+
+மக்கள் போராட்டக் கூட்டணியின் பிரதிநிதிகள் குழு ஒன்று, அரசாங்கத்தால் மேற்கொள்ளப்படும் மக்கள் விரோத திட்டத்திற்கு எதிராக துண்டுப் பிரசுரங்களை விநியோகித்து பதாகையில் கையெழுத்திடுவதற்கு  மஹரகம நகர மையத்தில் ஒரு போராட்டத்தை வெள்ளிக்கிழமை (17) ஏற்பாடு செய்திருந்தது.
+
+இந்த போராட்டத்தை நாள் முழுவதும் நடத்துவதற்காக ஹைலெவல் சாலையின் நடைபாதையில் ஒரு கூடாரம் அமைக்கப்பட்டிருந்தது, மேலும் பொதுமக்களிடமிருந்து கையொப்பங்களை சேகரிக்க அதன் மீது ஒரு பதாகை வைக்கப்பட்டிருந்தது.
+
+அந்த நேரத்தில், மஹரகம பொலிஸ் நிலையத்தை சேர்ந்த  சுமார் பத்து அதிகாரிகள் கொண்ட குழு திடீரென போராட்ட இடத்திற்குள் நுழைந்து, கூடாரத்தை இடித்து, பதாகையை கிழித்து, போராட்டத்தை கலைக்க நடவடிக்கை எடுத்தது.
+
+...
+
+[Data](articles/f278c21d.json)
 
 ---
 
@@ -283,6 +375,10 @@ The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands th
 சுகயீனம் காரணமாக கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வந்த ரத்வத்த இன்று (15) பிற்பகல் காலமானார்.
 
 கண்டி மாவட்டத்தில் இருந்து அரசியலில் நுழைந்த அவர், இறக்கும் போது  அவருக்கு வயது 57.
+
+ஐக்கிய மக்கள் சுதந்திரக் கூட்டணியைப் பிரதிநிதித்துவப்படுத்தும் மத்திய மாகாண சபை உறுப்பினராக அரசியலில் நுழைந்த   லொஹான் ரத்வத்த, பின்னர் கண்டி மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டு, இராஜாங்க அமைச்சர் மற்றும் பிரதி அமைச்சர் பதவிகளை வகித்தார்.
+
+திருமதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவின் நெருங்கிய உறவினரான  லொஹான் ரத்வத்த, மஹிந்த ராஜபக்ஷ அரசாங்கத்தில் பெருந்தோட்டத்துறை இராஜாங்க அமைச்சராகவும், பின்னர் மைத்திரிபால சிறிசேன தலைமையிலான நல்லாட்சி  அரசாங்கத்தில் சிறைச்சாலை மறுசீரமைப்பு இராஜாங்க அமைச்சராகவும் பணியாற்றினார்.
 
 ◼️
 
@@ -844,6 +940,18 @@ Preliminary investigations revealed that the bus driver had lost control of the 
 
 ---
 
+### The Lottery As Larceny
+
+*2025-08-15 09:27:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-lottery-as-larceny/) · `en`
+
+It all started with The “Hospital Lottery Board” Act of 10 January 1965. The declared objective of the HLB was to set up or improve State Hospitals. To the best of everyone’s knowledge, not a single new hospital was set up and none have been improved by this means during the past 52 years. But meanwhile the Lotteries have multiplied. There are accompanying Boards and Staff with National, Development and Airport Lotteries. Most hold weekly draws (not to mention the perennial Lotto). Numbering at least fifteen and, limited only by the availability of new and inane though novel, names: Mahajana, Mahapola, Govisetha, Shanida Wasana etc.  Ticket cost have inflated from the original =/50 cents to Rs 20/=.
+
+...
+
+[Data](articles/260d4d26.json)
+
+---
+
 ### වන්දනා නඩයක් රැගෙන ගිය බස් රථය අනතුරක - පිරිසක් රෝහලට
 
 *2025-08-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213387) · `si`
@@ -933,6 +1041,16 @@ Journalists are rubbing elbows with holidaymakers from the “lower 48” states
 ◼️
 
 [Data](articles/ee9783c8.json)
+
+---
+
+### How S. Thomas’ College Mount Lavinia Preserved Western Classics In Sri Lankan Education
+
+*2025-08-15 09:02:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-s-thomas-college-mount-lavinia-preserved-western-classics-in-sri-lankan-education/) · `en`
+
+...
+
+[Data](articles/8476d56b.json)
 
 ---
 
@@ -1667,121 +1785,5 @@ Time is ticking off. And it is ticking off on Sri Lanka’s human rights and acc
 ◼️
 
 [Data](articles/7f594832.json)
-
----
-
-### Could the government motivate taxpayers?
-
-*2025-08-14 22:27:00* · [`islandlk`](http://island.lk/could-the-government-motivate-taxpayers/) · `en`
-
-Sri Lanka has been struggling with a number of economic complications pertaining to the country’s tax system. However, this characteristic of taxation has been challenging as it does not deliver the potential tax revenue while maintaining a satisfactory level of tax compliance. In recent years, this issue in taxation has been focused on with much debate among politicians, academic researchers, policymakers and practitioners. Yet, every government has been compelled to experience this challenge that is detrimental to the fiscal operation of the government, fairness of income distribution, efficiency, smooth economic stability and transparency.
-
-...
-
-[Data](articles/b81fabe5.json)
-
----
-
-### India Fest 2025 to bring vibrant Indian culture to Havelock City Mall
-
-*2025-08-14 22:26:00* · [`islandlk`](http://island.lk/india-fest-2025-to-bring-vibrant-indian-culture-to-havelock-city-mall/) · `en`
-
-Havelock City Mall, in collaboration with the Swami Vivekananda Indian Cultural Centre, High Commission of India, Colombo, proudly presents India Fest 2025 — a captivating three-day cultural celebration curated in honour of Indian Independence Day. From Friday, August 15th to Sunday, August 17th, 2025, between 10:00 AM and 10:00 PM, the Ground Floor Atrium will come alive with the rich tapestry of Indian heritage, offering visitors an immersive experience of its traditions, artistry, and flavours. This vibrant festival also reaffirms Havelock City Mall’s enduring connection with the Indian community and its strong partnerships with cultural institutions in Sri Lanka.
-
-...
-
-[Data](articles/542ec576.json)
-
----
-
-### Aitken Spence begins Q1 FY2025/26 on a strong note, reporting an EBITDA of Rs. 4.1 Bn
-
-*2025-08-14 22:24:00* · [`islandlk`](http://island.lk/aitken-spence-begins-q1-fy2025-26-on-a-strong-note-reporting-an-ebitda-of-rs-4-1-bn/) · `en`
-
-Aitken Spence PLC, a leading conglomerate with a diverse regional presence, recorded a strong EBITDA of Rs. 4.1 billion for the first quarter ended 30 June 2025. EBITDA reflects the Group’s earnings prior to interest expenses, taxation, depreciation, amortisation, and foreign exchange gains or losses, but incorporates the share of profits from equity-accounted investees. This reflects a 7% year-on-year increase, underscoring the Group’s strong operational performance despite challenging external conditions.
-
-The Group’s Maritime & Freight Logistics sector led a strong performance, recording a PBT of Rs. 1.05 billion. While the Group’s freight companies were impacted by reduced volumes and margins, the sector’s integrated logistics operations witnessed strong momentum, supported by increased utilisation of the newly commissioned warehouse facility. The Group’s maritime companies also posted steady improvements, contributing to the sector’s overall resilience and growth.
-
-...
-
-[Data](articles/67dd5d8b.json)
-
----
-
-### Sri Lanka’s Commercial Bank net up 101-pct in June quarter
-
-*2025-08-14 22:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-101-pct-in-june-quarter-236386/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 101 percent from a year ago to 15.9 billion rupees in the June 2025 quarter helped by a reduction in loan loss provisions and net interest income growth, interim accounts show.
-
-Earnings per share for the quarter was 9.80 rupees. In the six months to June, earnings were 18.87 rupees per share on total profits of 30.7 billion rupees, which grew 65 percent.
-
-Commercial Bank’s fee and commission income grew 24 percent to 6.7 billion rupees.
-
-Group interest income in the June quarter, which includes revenues from foreign subsidiaries grew 7.52 percent to 74.05 billion rupees, while interest income grew at a slower 3.97 percent, helping expand net interest income 11.8 percent to 34.59 billion rupees.
-
-Loan loss provisions fell to 4.1 billion rupees from 15.58 billion rupees last year, which came from provisions for Sri Lanka International Sovereign Bonds in the quarter.
-
-...
-
-[Data](articles/4ede8423.json)
-
----
-
-### Sri Lanka’s NDB net down 6-pct in June quarter
-
-*2025-08-14 22:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-ndb-net-down-6-pct-in-june-quarter-236393/) · `en`
-
-ECONOMYNEXT  – Profits at Sri Lanka’s NDB Bank fell 6 percent from a year ago to 2,447 million rupees in the June 2025 quarter, amid net interest income and fee growth and a decline in fair value gains, interim accounts show.
-
-NDB Bank group reported earnings of 5.75 rupees for the quarter. In the six months to June, NDB reported earnings of 10.55 rupees, on total profits of 4,488 million rupees.
-
-Interest income fell 1.9 percent to 21.55 billion rupees, interest expenses fell at a faster 3.8 percent to 12.975 billion rupees and net interest income grew 0.9 percent to 8.5 billion rupees.
-
-“Supported by the continued positive progress of the Sri Lankan economy – albeit several macro level headwinds stemming mostly from the global economic landscape – we are very pleased to witness the resurgence of much of our customers across retail and all business segments,” Chief Executive Kelum Edirisinghe said in a statement
-
-Impairment charges fell from 4.0 billion rupees to 1.84 billion rupees.
-
-...
-
-[Data](articles/de25e817.json)
-
----
-
-### ලංකාව ගෝලීය නව්‍යකරණ දර්ශකයේ ශක්තිමත්ව ස්ථානගත කිරීම ගැන දැනුම්වත්කිරීමක්
-
-*2025-08-14 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213377) · `si`
-
-විද්‍යා හා තාක්ෂණ අමාත්‍යාංශය යටතේ ඇති ජාතික නව්‍යකරණ නියෝජිතායතනයේ (NIA – National Innovation Agency) මෙහෙයවීම යටතේ, ගෝලීය නව්‍යකරණ දර්ශකයට (Global Innovation Index) අදාළ දත්ත අවශ්‍යතා පිළිබඳ උපදේශාත්මක රැස්වීමක්, විද්‍යා, තාක්ෂණ, අධ්‍යාපනික, සහ කාර්මික ආදී ක්ෂේත්‍ර නියෝජනය කරමින් රාජ්‍ය සහ පෞද්ගලික අංශවල ජ්‍යේෂඨ නිලධාරීන්ගේ සහභාගිත්වයෙන් අද (14) කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී පැවත්විණි.
-
-ප්‍රධාන පද්ධති 7ක් යටතේ දර්ශක 80ක් යොදා ගෙන රටවල නව්‍යකරණ කාර්ය සාධනය මනින ජාත්‍යන්තරව පිළිගත් ගෝලීය නව්‍යකරණ දර්ශකයෙහි ශ්‍රේණිගත කිරීම තුළ ශ්‍රී ලංකාවේ ස්ථානය ඉහළට ඔසවා තැබීම සඳහා සියලු පාර්ශ්වයන් දායක කර ගැනීම මෙහි අරමුණ වී ඇත.
-
-ඒ සඳහා ගෝලීය වශයෙන් මෙරට තරගකාරිත්වය ඉහළ නැංවීම, ආයෝජන ආකර්ෂණය කර ගැනීම මෙන්ම, දැනුම, තාක්ෂණය සහ ව්‍යවසායකත්වය සඳහා කේන්ද්‍රස්ථානයක් බවට පත් වීම ආදී කරුණු පිළිබඳව අවධානය යොමු තිබේ.
-
-...
-
-[Data](articles/2b6d7ac4.json)
-
----
-
-### More than 35 dead in flash floods on popular pilgrimage route in Himalayas
-
-*2025-08-14 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111483/more-than-35-dead-in-flash-floods-on-popular-pilgrimage-route-in-himalayas) · `en`
-
-At least 38 people have died after flash floods hit a village hosting Hindu pilgrims in Indian-administered Kashmir.
-
-The disaster took place in the remote village of Chositi in Kishtwar district, which is on a busy pilgrimage route to a famous shrine in the Himalayas.
-
-Videos shared online showed dramatic flood waters, vehicles being washed away and rescuers searching for survivors in damaged homes, as people cried in the streets - some caked in mud.
-
-Dozens of pilgrims have been evacuated to safety, but at least 50 people are feared missing, and a rescue operation is still underway.
-
-The floods were triggered by a cloudburst, officials said, with Federal Minister Jitendra Singh, who is also an MP from Jammu and Kashmir, saying it was on a “massive scale” and rescue teams were finding it difficult to reach the site.
-
-A road had been washed away, he said, and the weather was not safe enough for helicopters.
-
-...
-
-[Data](articles/03e2df35.json)
 
 ---

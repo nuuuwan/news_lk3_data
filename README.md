@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 08:09:40**
+As of **2025-08-15 08:49:16**
 
 ## Newspaper Stats
 
-*Scraped **70,594** Articles*
+*Scraped **70,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ economynextcom | 4,304
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
-adalk | 6,814
+adalk | 6,815
 adaderanalk | 8,811
-tamilmirrorlk | 10,383
+tamilmirrorlk | 10,384
 virakesarilk | 11,742
-adaderanasinhalalk | 12,150
+adaderanasinhalalk | 12,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,594 articles have been extended.
+61,973 (87.8%) of 70,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### රට තුළ සමලිංගිකත්වය ප්‍රචලිත කිරීමට පිරිසක් කටයුතු කරනවා - කාදිනල් හිමි
+
+*2025-08-15 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213384) · `si`
+
+රට තුළ සමලිංගිකත්වය ප්‍රචලිත කිරීම සඳහා විදේශීය සංවිධාන සමග එක්වී පිරිසක් කටයුතු කරමින් සිටින බව අතිඋතුම් කාදිනල් මැල්කම් රංජිත් හිමියන් පවසයි.
+
+උන්වහන්සේ පෙන්වා දෙන්නේ ඇතැම් දේශපාලන පක්ෂ මෙන්ම දේශපාලන නායකයින්ද මේ සඳහා සම්බන්ධ බවය.
+
+ඊයේ (14) කොළඹ පැවැති රුහුණු විශ්වවිද්‍යාලයේ උපකුලපති ධර්ම කීර්ති ශ්‍රී ආචාර්ය අකුරැටියේ නන්ද නායක ස්වාමීන් වහන්සේ වෙත මියන්මාර රජයෙන් ලබාදුන් අග්ගමහා පණ්ඩිත ගෞරව නාමය පිදීමේ උත්සවයට එක්වෙමින් කාදිනල් හිමි මේ බව පෙන්වා දුනි.
+
+එම අවස්ථාවට එක්වූ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා කියාසිටියේ ව්‍යවස්ථා සංශෝධනයකදී මානව අයිතිවාසිකම් පිළිබඳව විශේෂ අවධානයක් යොමු කළයුතු බවය.
+
+◼️
+
+[Data](articles/6c10368e.json)
+
+---
+
+### ඉන්දියාවේ 79වන නිදහස් දිනය අද
+
+*2025-08-15 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213383) · `si`
+
+ඉන්දියාවේ 79 වන ජාතික නිදහස් දිනය අදට (අගෝස්තු 15) යේදී තිබේ.
+
+බ්‍රිතාන්‍ය යටත් විජිත පාලනයෙන් ඉන්දියාව 1947 වසරේ අදවන් දිනක නිදහස ලබා ඇත.
+
+ඒ වෙනුවෙන් ඉන්දීය රජය මෙවර පවත්වන විශේෂ රාජ්‍ය උත්සවය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ සහභාගිත්වයෙන් නවදිල්ලියේ රතු බළකොටුවේ දි සිදුකිරීමට නියමිතය.
+
+මෙහිදී අගමැති මෝදි පෙ.ව. 7.30ට ඉන්දීය ජාතික ධජය ඔසවා ජාතිය අමතනු ඇත.
+
+මෙම රාජ්‍ය උත්සවයේ දී සින්දූර් මෙහෙයුමට දායක වූ හමුදා නිලධාරීන් ඇගයීමට මුල්තැනක් ලබා දී ඇති අතර, ඒ වෙනුවෙන් එම මෙහෙයුමට දායක වූ කිහිප දෙනෙකු වාර්ෂික හමුදා ගෞරව නාම ලේඛනවලට එක්කිරීමටද නියමිතය.
+
+◼️
+
+[Data](articles/bbca2983.json)
+
+---
+
+### 22 ஆம் திகதி முதல் மீண்டும் செம்மணி அகழ்வு
+
+*2025-08-15 07:27:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-ஆம்-திகதி-முதல்-மீண்டும்-செம்மணி-அகழ்வு/175-362941) · `ta`
+
+செம்மணி மனித புதைகுழி அகழ்வு பணிகள் எதிர்வரும் 22 ஆம் திகதி மீண்டும் ஆரம்பிக்கப்படவுள்ளது.
+
+செம்மணி மனித புதைகுழி தொடர்பான வழக்கு யாழ்ப்பாணம் நீதிவான் நீதிமன்றில் நேற்று (14) நடைபெற்றது.
+
+வழக்கு முடிவடைந்த பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது ஐனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் இதனை தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/e5933e54.json)
+
+---
 
 ### වතු කම්කරු වැටුප් වැඩිකිරීම අභියෝගයක් බව ඇමති බිමල් කියයි
 
@@ -845,6 +899,30 @@ A senior security official, however, said the force would have its own command i
 ◼️
 
 [Data](articles/dc100f68.json)
+
+---
+
+### නන්දිමිත්‍ර වසර තුනකට පසු ආයෙත් සේවයට
+
+*2025-08-14 18:58:03* · [`adalk`](https://www.ada.lk/breaking_news/නන්දිමිත්‍ර-වසර-තුනකට-පසු-ආයෙත්-සේවයට/11-417927) · `si`
+
+වසර තුනකට වඩා කාලයක් සේවයෙන් ඉවත් කර තිබු නන්දිමිත්‍ර ටග් යාත්‍රාව අලුත් වැඩියා කටයුතු සිදුකර  යළි සේවයට එක් කිරිම |අද(14) සිදුවු බව ප්‍රවාහන,මහාමාර්ග,වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යාංශය. සදහන් කරයි
+
+.වරායේ ක්‍රියාකාරීත්වයට ඉතා වැදගත් අංශයක් ලෙස ටග් යාත්‍රා මෙහෙයුම් අංශය සැලකේ.
+
+වරාය සීමාව තුළට පැමිණෙන නැව් වරාය තුලට ගෙන ඒම සහ වරායෙන් මුහුදු සීමාවට රැගෙන යාමට ටග් යාත්‍රා මහඟු සේවාවක් ඉටු කරයි.
+
+මෙම සේවාව ශ්‍රී ලංකා වරාය අධිකාරිය මඟින් සහ පෞද්ගලික අංශය මඟින් සපයනු ලැබේ.
+
+2004 වසරින් පසුව ශ්‍රී ලංකා වරාය අධිකාරිය වෙනුවෙන් නව ටග් යාත්‍රා මිලදී ගෙන නොමැති අතර පවතින යාත්‍රා අබලන් වීම හේතුවෙන් ශ්‍රී ලංකා වරාය අධිකාරියට තරඟකාරී සේවාවක් සැපයීමට අපහසු විය
+
+සේවක මහතුන්ගේ සහ වෘත්තීය සමිති නියෝජිතයින්ගේ ආරාධනයෙන් 2025.06.20 දින වරාය සහ සිවිල් ගුවන්සේවා නියෝජ්‍ය අමාත්‍ය ජනිත රුවන් කොඩිතුවක්කු මහතා ස්ථානීය පරීක්ෂණයකට සහභාගී වුහ
+
+. අනතුරුව ඉහළ කළමණාකාරීත්වය සමඟ සාකච්ඡා කළ නියෝජ්‍ය අමාත්‍යවරයා කඩිනමින් ප්‍රතිසංස්කරණ ක‍ටයුතු නිම කර ටග් යාත්‍රා සේවයට එක් කරන මෙන් නිලධාරීන්ට උපදෙස් දෙන ලදී.
+
+...
+
+[Data](articles/6d4cba4e.json)
 
 ---
 
@@ -1723,81 +1801,5 @@ It is alleged that he had received approximately Rs. 14 million as bribes from o
 ...
 
 [Data](articles/b31fef7f.json)
-
----
-
-### Sri Lanka President suspends Mannar 50MW and 20MW wind plants for month
-
-*2025-08-14 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-suspends-mannar-50mw-and-20mw-wind-plants-for-month-236300/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has suspended work on two wind power plants in the Mannar area for a month to solve issues brought up by the local community, his office said.
-
-“It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant,” a statement from the President’s media office said.
-
-“It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.”
-
-Community representatives from Mannar, including religious leaders had raised concerns about environmental damage and impacts on residents from both the ilmenite mining project and the wind power project at a meeting on August 13.
-
-President Dissanayake said the projects would not proceed without the approval of the Central Environmental Authority’s assessment reports.
-
-...
-
-[Data](articles/9d845dd0.json)
-
----
-
-### ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டம்
-
-*2025-08-14 13:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-போராட்டம்/175-362904) · `ta`
-
-திருகோணமலையில் விவசாய நிலங்களை தனியார் நிறுவனங்களுக்கு பகிர்ந்தளிப்பதற்கும், அபிவிருத்தி திட்டங்களுக்காக வன நிலங்களை ஆக்கிரமிப்பதற்கும் எதிராக ஜனாதிபதி செயலகத்திற்கு முன்பாக போராட்டம் நடத்தப்பட்டுள்ளது.
-
-திருகோணமலை முத்துநகர் பகுதியில் உள்ள 600 ஏக்கர் நெல் நிலம் இந்திய நிறுவனங்களுக்கு விநியோகிக்கப்படுவதை நிறுத்தவும், வன நிலங்களை ஆக்கிரமிக்கப்படுவதற்கு எதிர்ப்பை வலியுறுத்தியும் போராட்டக்காரர்கள் பதாகைகளை ஏந்தியிருந்தனர்.
-
-போராட்டத்தில் பங்கேற்ற மாணவர் செயற்பாட்டாளர்களான வசந்த முதலிகே மற்றும் லஹிரு வீரசேகர ஆகியோர் ஜனாதிபதி செயலகத்திற்கு வெளியே ஒரு மூத்த பொலிஸ் அதிகாரியுடன் சூடான விவாதத்தில் ஈடுபட்டனர்.
-
-உரையாடலின் போது, இரண்டு வாரங்களுக்கு முன்பு விவாதிக்கப்பட்ட பிரச்சினைக்கு அதிகாரிகள் தீர்வு காணத் தவறியதால் போராட்டம் நடத்தப்படுவதாக வசந்த முதலிகே கூறினார்.
-
-...
-
-[Data](articles/c760d2ed.json)
-
----
-
-### Politicians supporting underworld, drug traffickers identified – IGP
-
-*2025-08-14 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111461/politicians-supporting-underworld-drug-traffickers-identified-igp) · `en`
-
-Inspector General of Police (IGP) Priyantha Weerasooriya says that the politicians who supported and gave protection to drug traffickers and underworld activities have already been identified.
-
-He further indicated that legal action would be taken against them in the near future.
-
-IGP Priyantha Weerasooriya made these remarks after assuming duties as the 37th Inspector General of Police of Sri Lanka at the Police Headquarters in Colombo this morning (14).
-
-Commenting further, the police chief pointed out that the anti-drug and organized crime operations cannot be carried out under the existing laws of the country.
-
-Therefore, he stated that the relevant authorities have been informed to create the necessary statutes, and added that these statutes are currently in the process of being drafted.
-
-...
-
-[Data](articles/9b29e4fc.json)
-
----
-
-### ஒடுக்கப்படுகின்ற சமூகங்கள் எப்போது தமது எதிர்ப்பை கைவிடுகின்றார்களோ அப்போது அவர்களிற்கு குருதி சுற்றோட்டம் நின்றுபோகும்,ஆனால் அது நடக்காமலிருப்பதற்காகதான் நான் எழுதுகின்றேன்- கவிஞர் சேரன்
-
-*2025-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222553) · `ta`
-
-ஒடுக்கப்படுகின்ற,சமூகங்கள் எல்லாவற்றிலும் இந்த எதிர்ப்பு - மறுப்பு,நாளாந்தம் ஒவ்வொரு கணத்திலும் அவர்களுடன் இருக்கின்ற அந்த எதிர்ப்பு,மறுக்கப்படமுடியாதது என தெரிவித்துள்ள கவிஞர்சேரன் ருத்திரமூர்த்தி ஒடுக்கப்படுகின்ற சமூகங்கள் எப்போது தமது எதிர்ப்பை கைவிடுகின்றார்களோ அப்போது அவர்களிற்கு இந்த குருதி சுற்றோட்டம் நின்றுபோகும்,ஆனால் அது நடக்காமலிருப்பதற்காகதான் நான் எழுதுகின்றேன் என தெரிவித்துள்ளார்
-
-கொழும்பில் இடம்பெற்ற அவரது தமிழ் கவிதைகளின் சிங்களமொழிபெயர்ப்பு நூல் வெளியீட்டு நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்
-
-இன்றைக்கு மிகவும் மகிழ்ச்சியான நாள் நான் நீண்டகாலமாக எதிர்பார்த்திருந்த நாள்,இந்த நிகழ்வை, சாத்தியமாக்கியமைக்காக கவிஞர்கள் தோழர்கள் சஞ்சுலா பிரதீப்  மற்றும் வெளியீட்டாளர்களிற்கு என்னுடைய மனம்கனிந்த நன்றிகள்.
-
-இன்று என்னுடைய கவிதைகளை பற்றி நான் விரிவாக பேச முற்படவில்லை.ஆனால் எனது வாழ்க்கை அனுபவத்திலிருந்து இரண்டு கதைகளை சொல்ல விரும்புகின்றேன்.
-
-...
-
-[Data](articles/0c122bd0.json)
 
 ---

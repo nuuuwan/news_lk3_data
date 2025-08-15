@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 23:06:51**
+As of **2025-08-15 23:19:47**
 
 ## Newspaper Stats
 
-*Scraped **70,726** Articles*
+*Scraped **70,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,825
-adaderanalk | 8,832
+adaderanalk | 8,833
 tamilmirrorlk | 10,416
 virakesarilk | 11,758
 adaderanasinhalalk | 12,184
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,726 articles have been extended.
+61,973 (87.6%) of 70,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7ecad1ba.json)
+
+---
+
+### Newly appointed IGP Priyantha Weerasooriya calls on President
+
+*2025-08-15 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111509/newly-appointed-igp-priyantha-weerasooriya-calls-on-president) · `en`
+
+The newly appointed Inspector General of Police (IGP), Attorney-at-Law Priyantha Weerasooriya, met President Anura Kumara Dissanayake this afternoon (15) at the Presidential Secretariat.
+
+The President extended his best wishes to the new Inspector General, who in turn presented the President with a commemorative gift, the President’s Media Division (PMD) said.
+
+Attorney-at-Law Priyantha Weerasooriya is the 37th Inspector General of Police in Sri Lanka and is the first IGP to have worked his way up from the rank of Police Constable to the highest position in the Sri Lanka Police.
+
+◼️
+
+[Data](articles/06362e7a.json)
 
 ---
 
@@ -1815,23 +1831,5 @@ Last week, Donald Trump imposed tariffs totalling 50 per cent on India, includin
 ...
 
 [Data](articles/2754025f.json)
-
----
-
-### முத்தையன்கட்டு சம்பவம் - ஹர்த்தாலிற்கு அவசியமில்லை . அனைத்து மாவட்டங்களிலும் இவ்வாறான சம்பவங்கள் நிகழ்கின்றன - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
-
-*2025-08-15 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/222594) · `ta`
-
-முத்தையன்கட்டு சம்பவம் தொடர்பில் ஹர்த்தாலிற்கான தேவையில்லை என பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜயபால மோர்னிங்கிற்கு தெரிவித்துள்ளார்.
-
-முத்தையன்கட்டு சம்பவம் தொடர்பில் ஹர்த்தாலை முன்னெடுக்கவுள்ளதாக அவர்கள் தெரிவிக்கின்றனர்,ஆனால் அதற்கான தேவையில்லை என அமைச்சர் தெரிவித்துள்ளார்.
-
-அந்த சம்பவத்துடன் தொடர்புடைய தனிநபர்கள் கைதுசெய்யப்பட்டு விசாரணைக்குட்படுத்தப்பட்டுள்ளனர்,ஹர்த்தால் என்றாலும் சரி இல்லாவிட்டாலும் எங்களால் வேறு எதனையும் செய்ய முடியாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் தெரிவித்துள்ளார்.
-
-நாங்கள் நீதிமன்ற உத்தரவின் அடிப்படையிலேயே  அடுத்த கட்ட நடவடிக்கையை  எடுப்போம், ஹர்த்தால் போராட்டத்தில் ஈடுபடுவது அர்த்தமற்றது என அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/5ecced3a.json)
 
 ---

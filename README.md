@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 09:22:15**
+As of **2025-08-15 09:43:51**
 
 ## Newspaper Stats
 
-*Scraped **70,606** Articles*
+*Scraped **70,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 720
-economynextcom | 4,304
+economynextcom | 4,309
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
-adalk | 6,816
+adalk | 6,817
 adaderanalk | 8,815
 tamilmirrorlk | 10,386
 virakesarilk | 11,742
-adaderanasinhalalk | 12,153
+adaderanasinhalalk | 12,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,606 articles have been extended.
+61,973 (87.8%) of 70,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### වන්දනා නඩයක් රැගෙන ගිය බස් රථය අනතුරක - පිරිසක් රෝහලට
+
+*2025-08-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213387) · `si`
+
+බදුල්ල - මහියංගනය මාර්ගයේ දුන්හිද හන්දියේ දී අද (15) උදෑසන 7.15ට පමණ බස් රථයක්  අනතුරට ලක්ව තිබේ.
+
+වන්දනා නඩයක් ගමන් කරමින් තිබූ බස් රථයක් නවතා තිබූ ලොරියක රථයක ගැටී අනතුර සිදුව තිබුණි.
+
+බස් රථයේ 30ක පමණ පිරිසක් ගමන් කරමින් සිට ඇති අතර, එයින් 7 දෙනෙකුට පමණ තුවාල සිදුව ඇති බව පොලීසිය පැවසීය.
+
+බස් රථයේ තිරිංග අක්‍රීය වීම හේතුවෙන් රියදුරුට බසය පාලනය කරගත නොහැකිව නවතා තිබූ ලොරියක ගැටී අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/13dcb713.json)
+
+---
 
 ### ඇල්ල - වැල්ලවාය මාර්ගයේ බිහිසුණු අනතුරක්
 
@@ -45,6 +63,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3e66c288.json)
+
+---
+
+### උතුරේ ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර අලුත්වැඩියා කෙරේ
+
+*2025-08-15 08:40:03* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-ආර්ථික-මධ්‍යස්ථාන-සහ-සමූපකාර-අලුත්වැඩියා-කෙරේ/11-417928) · `si`
+
+අතහැර දමා ඇති හා නවීකරණයට ලක් කළ යුතුව තිබෙන උතුරු පළාත තුළ ඇති ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර ව්‍යාපාරය අලුත් වැඩියා කර කඩිනමින් ප්‍රයෝජනයට ගැනීමට වෙළෙඳ,වාණජ,ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යාංශය සැලසුම් කර තිබේ.
+
+රුපියල් මිලියන 200කට ආසන්න මුදලක් වැය කොට නිසි ස්ථානීය සැලැස්මක් රහිතව ඉදි කර ඇති යාපනය විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙඳ සැල් 20ම මේ වන විට කිසිදු ප්‍රයෝජනයක් නොගෙන අතහැර දමා ඇත.
+
+වෙළෙඳ සැල් 40ක ප්‍රමාණයක් සහිත කිලිනොච්චිය විශේෂිත ආර්ථික මධ්‍යස්ථානය නවීකරණය කිරීමේ ක්‍රියාවලියේදී ජල පහසුකම්,ප්‍රවාහන පහසුකම්, සනීපාරක්ෂක පහසුකම්,බැංකු කටයුතු වැනි තවත් අවශ්‍ය සියලු පහසුකම් සැපයීමත් ඒ හා සම්බන්ධ ගැටලු සහ අභියෝගත් හඳුනාගෙන තිබේ.
+
+මීට අමතරව ආර්ථික මධ්‍යස්ථානය තුළ වසා දමා ඇති වෙළෙඳ සැල් විවෘත කිරීමට ආදාළ කටයුතු පිළිබඳවත්  අවධානයට ලක්ව තිබේ.
+
+රුපියල් මිලියන 291ක වියදමක් දරා 2018 වසරේ ආරම්භ කරන ලද,වවුනියාව විශේෂිත ආර්ථික මධ්‍යස්ථානය මේ දක්වා කිසිදු ආකාරයක ප්‍රයෝජනයක් ගෙන නොමැති බවද එම අමාත්‍යාංශය සඳහන් කරයි.
+
+...
+
+[Data](articles/f65ba194.json)
 
 ---
 
@@ -215,6 +253,28 @@ On a separate note, Minister of Transport Bimal Rathnayake stated that steps wil
 ◼️
 
 [Data](articles/e5933e54.json)
+
+---
+
+### Sri Lanka’s Bank of Ceylon net up 163-pct in June
+
+*2025-08-15 07:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-net-up-163-pct-in-june-236407/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s state-run Bank of Ceylon surged 163 percent from a year ago to 18.7 billion rupees, amid strong net interest income growth and trading gains, interim accounts show.
+
+The bank said earnings were 747 rupees per share. In the first six months of the year, earnings were 1,431 rupees per share on total profits of 35.98 billion rupees.
+
+Net fee and commission income grew 14.5 percent to 5.8 billion rupees. There were trading gains of 2.4 billion rupees compared to a loss of 770 million rupees.
+
+Interest income grew 18.2 percent to 125.7 billion rupees, interest expenses fell 1.8 percent to 72.4 billion rupees, allowing the bank to grow net interest income 63 percent to 53.2 billion rupees.
+
+Loans and advances grew 2.3 percent to 2,272 billion rupees from December to June.
+
+Bank of Ceylon said its business revival unit was working with financially distressed borrowers, who had operationally viable business to restructure their finances.
+
+...
+
+[Data](articles/30bf5005.json)
 
 ---
 
@@ -778,6 +838,46 @@ The Group’s Maritime & Freight Logistics sector led a strong performance, reco
 
 ---
 
+### Sri Lanka’s Commercial Bank net up 101-pct in June quarter
+
+*2025-08-14 22:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-101-pct-in-june-quarter-236386/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 101 percent from a year ago to 15.9 billion rupees in the June 2025 quarter helped by a reduction in loan loss provisions and net interest income growth, interim accounts show.
+
+Earnings per share for the quarter was 9.80 rupees. In the six months to June, earnings were 18.87 rupees per share on total profits of 30.7 billion rupees, which grew 65 percent.
+
+Commercial Bank’s fee and commission income grew 24 percent to 6.7 billion rupees.
+
+Group interest income in the June quarter, which includes revenues from foreign subsidiaries grew 7.52 percent to 74.05 billion rupees, while interest income grew at a slower 3.97 percent, helping expand net interest income 11.8 percent to 34.59 billion rupees.
+
+Loan loss provisions fell to 4.1 billion rupees from 15.58 billion rupees last year, which came from provisions for Sri Lanka International Sovereign Bonds in the quarter.
+
+...
+
+[Data](articles/4ede8423.json)
+
+---
+
+### Sri Lanka’s NDB net down 6-pct in June quarter
+
+*2025-08-14 22:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-ndb-net-down-6-pct-in-june-quarter-236393/) · `en`
+
+ECONOMYNEXT  – Profits at Sri Lanka’s NDB Bank fell 6 percent from a year ago to 2,447 million rupees in the June 2025 quarter, amid net interest income and fee growth and a decline in fair value gains, interim accounts show.
+
+NDB Bank group reported earnings of 5.75 rupees for the quarter. In the six months to June, NDB reported earnings of 10.55 rupees, on total profits of 4,488 million rupees.
+
+Interest income fell 1.9 percent to 21.55 billion rupees, interest expenses fell at a faster 3.8 percent to 12.975 billion rupees and net interest income grew 0.9 percent to 8.5 billion rupees.
+
+“Supported by the continued positive progress of the Sri Lankan economy – albeit several macro level headwinds stemming mostly from the global economic landscape – we are very pleased to witness the resurgence of much of our customers across retail and all business segments,” Chief Executive Kelum Edirisinghe said in a statement
+
+Impairment charges fell from 4.0 billion rupees to 1.84 billion rupees.
+
+...
+
+[Data](articles/de25e817.json)
+
+---
+
 ### ලංකාව ගෝලීය නව්‍යකරණ දර්ශකයේ ශක්තිමත්ව ස්ථානගත කිරීම ගැන දැනුම්වත්කිරීමක්
 
 *2025-08-14 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213377) · `si`
@@ -998,6 +1098,24 @@ Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after
 
 ---
 
+### Sri Lanka sees US$29mn foreign buying in rupee bonds
+
+*2025-08-14 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-us29mn-foreign-buying-in-rupee-bonds-236368/) · `en`
+
+ECONOMYNEXT – Foreign investors bought high quantity of Sri Lanka government securities, the Central Bank data showed, as the week ended on August 7 saw better trade arrangements with the United States, calming tariff-related volatility and uncertainty in financial markets.
+
+Foreign investors bought 8,756 million rupee ($29.19 million) worth of government securities in the week ended on August 7, seeing foreign inflow for a second straight week.
+
+Global investors have been waiting for positive news from U.S. President Donald Trump’s tariff threats and some of the key deals have calmed tariff-related volatility and uncertainty in financial markets, analysts said.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+...
+
+[Data](articles/808ec418.json)
+
+---
+
 ### Pakistan to create military force to supervise missiles after India conflict
 
 *2025-08-14 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111479/pakistan-to-create-military-force-to-supervise-missiles-after-india-conflict) · `en`
@@ -1213,6 +1331,28 @@ During the meeting, the Minister expressed his appreciation for Oman as a close 
 ...
 
 [Data](articles/69d14d1b.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bonds adjust slightly
+
+*2025-08-14 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-adjust-slightly-236370/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.05/25 to the US dollar in the spot market Thursday, weaker from 300.82/92 the previous day, while bond yields adjusted slightly, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed at 8.48/55 percent, up from 8.45/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.88/97 percent, up from 8.85/97 percent.
+
+A bond maturing on 15.12.2029 closed at 9.38/42 percent, up from 9.36/40 percent.
+
+A bond maturing on 15.12.2032 closed at 10.19/24 percent, down from 10.20/24 percent. (Colombo/Aug14/2025)
+
+◼️
+
+[Data](articles/74d385e5.json)
 
 ---
 
@@ -1667,139 +1807,5 @@ The brother of the deceased informed police that he had been suffering from ment
 ◼️
 
 [Data](articles/cb1e757b.json)
-
----
-
-### බොල්ගොඩ ගඟේ පුද්ගල මළසිරුරක්
-
-*2025-08-14 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213363) · `si`
-
-මොරටුව පිළියන්දල මාර්ගයේ කොස්පෑලෑන පාලම අසල බොල්ගොඩ ගඟේ පාවෙමින් තිබියදී පුද්ගල මළසිරුරක් සොයා ගෙන තිබේ.
-
-බොල්ගොඩ ගඟේ මළ සිරුරක් ඇතැයි පොලිස් හදිසි ඇමතුම් ඒකකයට ලැබුණු පණිවිඩයකට අනුව මෙම මළ සිරුර සොයා ගෙන ඇත.
-
-මෙම පුද්ගලයා මීට දින දෙකකට ඉහත දී සිට නිවසින් අතුරුදන්ව සිට ඇති අතර පවුලේ ඥාතීන් විසින් ඒ පිළිබඳව පොලිසියටද පැමිණිලි කර තිබේ.
-
-මියගිය පුද්ගලයාගේ සහෝදරයෙකු පොලිසියට පවසා ඇත්තේ ඔහු දීර්ඝ කාලයක සිට මානසික රෝගී තත්ත්වයකින් සහ තවත් රෝග ගණනාවකින් පීඩා විඳි පුද්ගලයෙකු බවය.
-
-◼️
-
-[Data](articles/07e215e9.json)
-
----
-
-### S&P Global upgrades India Sovereign Ratings to ‘BBB’ From ‘BBB-’
-
-*2025-08-14 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111467/sp-global-upgrades-india-sovereign-ratings-to-bbb-from-bbb-) · `en`
-
-S&P Global said on Thursday that it has raised India’s sovereign rating to BBB from the previous ‘BBB-’.
-
-This is the first time India has received a sovereign rating upgrade since 2017.
-
-BBB- is the lowest investment-grade rating by a credit rating agency.
-
-An upgrade from that point results in lowering bond yields and better borrowing costs for the government. ‘At the same time, we revised our transfer & convertibility assessment to ‘A-’ from ‘BBB+’’, according to a statement.
-
-India’s benchmark 10-year bond yield dropped 7 basis points since opening on Thursday, dropping to 6.4%.
-
-‘The stable outlook reflects our view that continued policy stability and high infrastructure investment will support India’s long-term growth prospects. That, along with cautious fiscal and monetary policy that moderates the government’s elevated debt and interest burden, will underpin the rating over the next 24 months,’ S&P said in its statement.
-
-...
-
-[Data](articles/73ada23b.json)
-
----
-
-### சிரேஷ்ட பொலிஸ் அத்தியட்சகருக்கு விளக்கமறியல்
-
-*2025-08-14 14:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-பொலிஸ்-அத்தியட்சகருக்கு-விளக்கமறியல்/175-362911) · `ta`
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவால் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சதீஷ் கமகேவை எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக நீதவான் பவித்ரா சஞ்சீவனி பத்திரன வியாழக்கிழமை (14​)  உத்தரவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/d6ead5fc.json)
-
----
-
-### Sri Lanka needs human resource base with diverse vocational knowledge – PM
-
-*2025-08-14 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111465/sri-lanka-needs-human-resource-base-with-diverse-vocational-knowledge-pm) · `en`
-
-Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya stated that the aim of the government is to strengthen the country’s economic stability by developing vocational education.
-
-The Prime Minister made these remarks during a media briefing on August 13 at the Cinnamon Grand Hotel, Colombo, regarding the upcoming Sri Lanka Skills Expo 2025, the Prime Minister’s Media Division said.
-
-With the aim of reducing youth unemployment in Sri Lanka, the exhibition will be held for the third time on October 10 and 11 at the main hall of Temple Trees.
-
-The event is jointly organized by the Industry Sector Skills Councils (ISSC) and the Ministry of Education, Higher Education and Vocational Education.
-
-She further noted that under the current education system, students are streamed into Mathematics, Science, and Commerce subject areas.
-
-...
-
-[Data](articles/8521f4bb.json)
-
----
-
-### Sri Lanka targets 4–5% GDP growth in medium to long-term: CBSL Governor
-
-*2025-08-14 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111466/sri-lanka-targets-45-gdp-growth-in-medium-to-long-term-cbsl-governor) · `en`
-
-Sri Lanka is striving to achieve 4–5% GDP growth in the medium to long-term in comparison to the baseline requirement of 3% set by the International Monetary Board (IMF) to achieve debt sustainability, Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe has stated.
-
-The Central Bank Governor noted that Sri Lanka has been consistently over performed through structural reforms since the economic crisis in 2022.
-
-During an interview with CNBC, Governor Dr. Nandalal Weerasinghe said although the IMF has set a debt sustainability target in 2032, he is seeking to achieve the target much earlier.
-
-The Central Bank Governor said Sri Lanka’s economy is on track for recovery, with rates held at 7.7% and a healthy policy buffer in place.
-
-The Governor also highlighted reforms that are now shifting from crisis stabilization to driving 4–5% growth, adding they are aiming for faster debt sustainability and a full return to pre-crisis levels within a few years.
-
-...
-
-[Data](articles/fff86313.json)
-
----
-
-### Sri Lanka’s Sampath Bank net down 17-pct in June quarter
-
-*2025-08-14 14:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-net-down-17-pct-in-june-quarter-236323/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sampath Bank profits fell 17 percent in the June 2025 quarter to 6.7 billion rupees, due to higher operating expenses, interim accounts show.
-
-Fee and commission income grew 20 percent to 6.58 billion rupees.
-
-Compared to net profits of 6.7 billion rupees, income tax and financial VAT totaled 8.4 billion rupees.
-
-As lending rates were reduced, interest income fell 1 percent to 48 billion rupees, while interest expenses rose 2 percent, and net interest income also fell 4 percent to 20.87 billion rupees.
-
-Loans and advances rose 9 percent in the first half of the year to 981 billion rupees. Debt and other instruments grew 35 percent to 546.9 billion rupees from 405.6 billion rupees.
-
-Impairments were a reversal of 600 million rupees. Stage 3 loans were 80.8 billion rupees by end June, compared to 81.5 billion by end December 2024.
-
-Deposits grew 9.8 percent to 1,613.6 billion rupees in the first half of the year.
-
-...
-
-[Data](articles/38ebdbdf.json)
-
----
-
-### President decides to temporarily halt Mannar Wind Power Project
-
-*2025-08-14 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111464/president-decides-to-temporarily-halt-mannar-wind-power-project) · `en`
-
-A decision has been taken to suspend the construction of two wind power plants following concerns raised by various stakeholders.
-
-The decision was taken during a discussion held on the proposed Mannar wind power plant and related emerging issues at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
-
-The meeting focused on the country’s energy needs and the importance of the project to the national economy, the President’s Media Division (PMD) said.
-
-It was decided to develop a framework to identify and resolve the issues faced by local communities due to the wind power plant. It was also agreed to temporarily suspend the construction of the two wind power plants, one of 20 MW already underway and another of 50 MW proposed, despite tenders being called and contracts awarded.
-
-...
-
-[Data](articles/5df564c7.json)
 
 ---

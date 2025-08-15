@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 17:52:59**
+As of **2025-08-15 18:09:25**
 
 ## Newspaper Stats
 
-*Scraped **70,700** Articles*
+*Scraped **70,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,822
 adaderanalk | 8,828
 tamilmirrorlk | 10,414
 virakesarilk | 11,749
-adaderanasinhalalk | 12,176
+adaderanasinhalalk | 12,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,700 articles have been extended.
+61,973 (87.7%) of 70,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### පාකිස්තානය නව මිසයිල බළකායක් පිහිටුවද්දී මෝදිගෙන් සැර පිළිතුරක්
+
+*2025-08-15 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213413) · `si`
+
+ඉන්දියාවත් සමග පසුගිය මැයි මාසයේ ගුවන් සටනක නිරත වූ පාකිස්ථානය ඔවුන්ගේ ප්‍රහාරක මිසයිල හැකියාවන් අධීක්ෂණය කිරීම සඳහා නව හමුදා බළකායක් ස්ථාපිත කිරීමට සැලසුම් කරන බව වාර්තා වේ.
+
+ඉන්දු කාශ්මීරයට එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් පසු ඉන්දියාව සහ පාකිස්ථානය අතර මැයි මාසයේදී ඇති වූයේ දශක ගණනාවකින් දෙරට අතර ඇති වූ දරුණුතම ගැටුමයි.
+
+පාකිස්ථානයේ 79 වැනි නිදහස් සැමරුම අනුස්මරණය කිරීම සඳහා ඉස්ලාමාබාද් නුවර පැවති උත්සවයකදී තමයි පාකිස්ථාන අග්‍රාමාත්‍ය ෂෙබාස් ෂරීෆ් මේ නව මිසයිල බළකාය පිහිටුවීම ගැන අනාවරණය කළේය.
+
+යුධ හමුදා රොකට් බළකාය විදියට මේ නව මිසයිල බළකාය ඔහු හඳුන්වා තිබේ.
+
+එය නවීන තාක්ෂණ උපකරණවලින් සන්නද්ධ බළකායක් වනු ඇති බව පාකිස්ථාන අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+
+සතුරාට සෑම පැත්තකින්ම ඉලක්ක කරගෙන පහරදීමට හැකියාවක් සහිතව එය නිර්මාණය කෙරෙන බවත් එය පාකිස්ථානයේ සංග්‍රාමික හැකියාවන් තවදුරටත් ශක්තිමත් කරන සන්ධිස්ථානයක් බවත් අග්‍රාමාත්‍ය ෂෙබාස් ෂරීෆ් සඳහන් කළේය.
+
+පාකිස්ථාන රූපවාහිනී සේවා මඟින් විකාශය කෙරුණු ඔහුගේ එම ප්‍රකාශයේදී නව මිසයිල බළකාය ගැන වැඩිදුර තොරතුරු අනාවරණය කෙරුණේ නැහැ.
+
+...
+
+[Data](articles/05fb526d.json)
+
+---
 
 ### Sri Lanka may call for tenders for Indian Adani-withdrawn wind power plants
 
@@ -1821,27 +1845,5 @@ On a separate note, Minister of Transport Bimal Rathnayake stated that steps wil
 ◼️
 
 [Data](articles/e5933e54.json)
-
----
-
-### Sri Lanka’s Bank of Ceylon net up 163-pct in June
-
-*2025-08-15 07:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-net-up-163-pct-in-june-236407/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s state-run Bank of Ceylon surged 163 percent from a year ago to 18.7 billion rupees, amid strong net interest income growth and trading gains, interim accounts show.
-
-The bank said earnings were 747 rupees per share. In the first six months of the year, earnings were 1,431 rupees per share on total profits of 35.98 billion rupees.
-
-Net fee and commission income grew 14.5 percent to 5.8 billion rupees. There were trading gains of 2.4 billion rupees compared to a loss of 770 million rupees.
-
-Interest income grew 18.2 percent to 125.7 billion rupees, interest expenses fell 1.8 percent to 72.4 billion rupees, allowing the bank to grow net interest income 63 percent to 53.2 billion rupees.
-
-Loans and advances grew 2.3 percent to 2,272 billion rupees from December to June.
-
-Bank of Ceylon said its business revival unit was working with financially distressed borrowers, who had operationally viable business to restructure their finances.
-
-...
-
-[Data](articles/30bf5005.json)
 
 ---

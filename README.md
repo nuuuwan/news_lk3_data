@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 05:32:20**
+As of **2025-08-15 06:10:51**
 
 ## Newspaper Stats
 
-*Scraped **70,575** Articles*
+*Scraped **70,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 720
 economynextcom | 4,304
 islandlk | 4,328
 dailymirrorlk | 4,733
-dailyftlk | 4,954
+dailyftlk | 4,965
 adalk | 6,814
 adaderanalk | 8,809
 tamilmirrorlk | 10,383
@@ -26,11 +26,203 @@ adaderanasinhalalk | 12,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,575 articles have been extended.
+61,973 (87.8%) of 70,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### Salt producers urge enforcement of packaging law, release of 400 stalled containers
+
+*2025-08-15 05:43:22* · [`dailyftlk`](https://www.ft.lk/news/Salt-producers-urge-enforcement-of-packaging-law-release-of-400-stalled-containers/56-780316) · `en`
+
+Calls on Govt. to release 400 containers (11,200 tons) worth Rs. 800 m stuck at Colombo Port for 45 days
+
+Sri Lanka Salt Producers’ Association Chairman Ganaka Amarasinghe says heavy rains during 2023 Yala and 2024 Maha seasons hit production in main salt areas of Puttalam, Mannar, Elephant Pass, Trincomalee, Hambantota
+
+Domestic output falls short of 185,000-ton annual need; claims imports from India violate mandatory labelling laws
+
+National Organiser Chaminda Rusiru Maliyedda says port delays due to shipping company issues risk worsening shortages and destabilising market
+
+The Sri Lanka Salt Producers’ Association on Tuesday called on the Government to urgently enforce the country’s packaging regulations on imported salt products and to release 400 containers of salt currently held at the Colombo Port for the past 45 days.
+
+...
+
+[Data](articles/4f0d0a12.json)
+
+---
+
+### Parliament complex sees major facelift after four decades
+
+*2025-08-15 05:41:09* · [`dailyftlk`](https://www.ft.lk/news/Parliament-complex-sees-major-facelift-after-four-decades/56-780315) · `en`
+
+Extensive renovations of the Parliament of Sri Lanka complex have recently begun under Cabinet approval. These renovations are taking place after more than 42 years, a Parliament Secretariat statement said.
+
+Work is currently underway to remove the soil layer on the concrete roof terrace of the Parliamentary complex and carry out repairs. In addition, renovations are being done to the roof gutters, copper door, Parliament Medical Centre, washrooms, and Members’ Dressing Room.
+
+Previously, minor maintenance work of the Parliamentary complex was carried out by the Engineering Department. However, the large-scale renovations are being carried out with the labour contribution of the Sri Lankan Army.
+
+◼️
+
+[Data](articles/e06120fd.json)
+
+---
+
+### Public, media invited to comment on Online Safety Act amendments
+
+*2025-08-15 05:39:57* · [`dailyftlk`](https://www.ft.lk/news/Public-media-invited-to-comment-on-Online-Safety-Act-amendments/56-780314) · `en`
+
+The Public Security Ministry has invited the public, including local and international media, to submit observations, comments, recommendations, and suggestions on proposed amendments to the Online Safety Act, No. 9 of 2024.
+
+The Ministry said the call follows Cabinet approval for a committee to review the Act and its amendments published in the Gazette on 31 July 2024. The committee will consider submissions received within one month of the notice’s publication.
+
+Members of the public can send their input by post, addressed to the Secretary, Justice and National Integration Ministry, and marked “Committee to amend the Online Safety Act No. 09 of 2024”or via email to [email protected] with the same subject line.
+
+The Ministry urged stakeholders to participate in shaping the amendments, aiming to align the Act with public feedback and ensure it meets both national and international standards.
+
+◼️
+
+[Data](articles/78312491.json)
+
+---
+
+### Browns bags Silver at NBEA 2025
+
+*2025-08-15 05:38:33* · [`dailyftlk`](https://www.ft.lk/business/Browns-bags-Silver-at-NBEA-2025/34-780313) · `en`
+
+From left: Brown & Company Head of IT Prasanna Ganegoda and Senior Manager Digital Transformation Nadeesha De Jeodth receiving the award for Silver in the Trading Category
+
+Brown & Company was recently honoured with the Silver Award in the Trading Category at the National Business Excellence Awards (NBEA) 2025, organised by the National Chamber of Commerce of Sri Lanka (NCCSL).
+
+Held on 24 July at the Shangri-La Hotel, Colombo, the annual awards ceremony celebrated organisations that had demonstrated an unwavering commitment to high standards in business performance while contributing to nationwide economic development.
+
+The stringent NBEA framework measures companies based on several core evaluation metrics such as Excellence in Strategy and Leadership, Corporate Governance, Capacity Building, Performance Management, Local and Global Market Reach, Corporate Social Responsibility, Environmental Sustainability, and Business and Financial Results.
+
+...
+
+[Data](articles/60d711eb.json)
+
+---
+
+### CIOB holds Sri Lanka Sustainability  Awards tomorrow
+
+*2025-08-15 05:37:06* · [`dailyftlk`](https://www.ft.lk/business/CIOB-holds-Sri-Lanka-Sustainability-Awards-tomorrow/34-780312) · `en`
+
+Sri Lankan Sustainability Awards (SSA)-2025 night, organised by the Ceylon Institute of Builders (CIOB) in partnership with the 13th World Construction Symposium, featuring academic participation from the Building Economics and Management Research Unit (BEMRU) of the University of Moratuwa will take place tomorrow, 16 August at 6 p.m. at Hilton Colombo.
+
+The event will celebrate sustainable innovation and leadership awards which is endorsed by the Urban Development, Construction and Housing Ministry.
+
+The primary objective of the event is to recognise and promote sustainable practices in the construction industry while inspiriting transformation through leadership, innovation and green advancements.
+
+The Sri Lankan Sustainability Awards (SSA) is a pioneering initiative conceptualised to recognise and celebrate sustainability excellence across the construction ecosystem.
+
+...
+
+[Data](articles/7c23b63c.json)
+
+---
+
+### Hayleys Energynet powers critical infrastructure for FMCGs
+
+*2025-08-15 05:35:28* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Energynet-powers-critical-infrastructure-for-FMCGs/34-780311) · `en`
+
+Commissions first Riello NextEnergy NXE 300 kVA Transformer-Free UPS system
+
+Claims energy efficiency of up to 97% (online mode), 98.5% (Active ECO mode), and 99% (standby)
+
+Hayleys Energynet, a subsidiary of Hayleys Fentons Ltd., has successfully deployed Riello’s first 300 kVA UPS system in Sri Lanka. This next-generation power continuity solution ensures uninterrupted operations in high-volume food production.
+
+The project scope encompassed the complete supply, installation, testing, and commissioning of the Riello NextEnergy NXE 300 kVA Transformer-Free UPS system. Offering exceptional energy efficiency, up to 97% in online mode, 98.5% in Active ECO mode, and 99% in standby, it significantly reduces energy costs without compromising performance, the company said in a statement.
+
+...
+
+[Data](articles/17f71e39.json)
+
+---
+
+### National Chamber, NEDA launch Entrepreneur Awards 2025 – Western Province
+
+*2025-08-15 05:34:44* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-NEDA-launch-Entrepreneur-Awards-2025-Western-Province/34-780310) · `en`
+
+The National Chamber of Commerce of Sri Lanka, in partnership with the National Enterprise Development Authority (NEDA), launched the Western Province Entrepreneur Awards 2025.
+
+Now in its eighth consecutive year, the event celebrates outstanding achievements in the micro, small, medium, and large sectors, with a special focus on business performance within the province.
+
+The National Chamber and NEDA have been assisting the micro, small, medium and large sectors in the regions for a long time, and this offers special focus towards the upliftment of these sectors in the Western Province to develop their capacity and conduct training programs, including entrepreneurs with special abilities.
+
+Applications are open from 18 August onwards. Entrepreneurs from the Western Province are invited to apply, and the Application forms are available at the National Chamber Secretariat, 450 D.R. Wijewardena Mawatha, Colombo 10.
+
+...
+
+[Data](articles/bb47a53c.json)
+
+---
+
+### US Ambassador meets Ceylon Chamber leadership
+
+*2025-08-15 05:34:15* · [`dailyftlk`](https://www.ft.lk/business/US-Ambassador-meets-Ceylon-Chamber-leadership/34-780309) · `en`
+
+The Ceylon Chamber of Commerce welcomed the US Ambassador to Sri Lanka Julie Chung, for a courtesy visit with the Ceylon Chamber’s leadership. Ambassador Chung met with Chairman Krishan Balendra, Vice Chairman Bingumal Thewarathanthri, Deputy Vice Chairman Vinod Hirdaramani, Secretary General and CEO Buwanekabahu Perera and other representatives of the Ceylon Chamber to discuss trade, investment, and economic opportunities between Sri Lanka and the United States.
+
+Ambassador Chung extended her congratulations to Krishan Balendra on his appointment as Chairman of the Ceylon Chamber, and the US Embassy’s interest in continuing and strengthening engagement with the Ceylon Chamber of Commerce, given its position as the premier and most influential representative of the private sector.
+
+She also commended the Sri Lankan Government for its collaborative and constructive negotiation with the United States to achieve a fair, balanced, and reciprocal trade relationship.
+
+...
+
+[Data](articles/fe0d053a.json)
+
+---
+
+### Chamber of Marine Industries of Sri Lanka holds AGM, charts course for future growth
+
+*2025-08-15 05:32:41* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-of-Sri-Lanka-holds-AGM-charts-course-for-future-growth/34-780308) · `en`
+
+From left: CMISL Treasurer Akalanka Rathnayake, Ambassador of the Republic of Turkey to Sri Lanka Semih Lütfü Turgut, CMISL Chairman Indhra Kaushal, Ministry of Industry and Entrepreneurship Development Additional Secretary S.W.C. Jayamini and Assistant Director B. Kunalini
+
+The Chamber of Marine Industries of Sri Lanka (CMISL) convened its third Annual General Meeting (AGM) at the Cinnamon Grand last week. This gathering marked a significant milestone in the nation’s maritime journey, uniting industry leaders, experts and visionaries.
+
+At the heart of the AGM were the appointments that will shape the Chamber’s course in the year ahead, Indhra Kaushal a seasoned industry stalwart, was re -appointed Chairman for the 2025-2026 term. His leadership is expected to guide Sri Lanka’s marine sector toward renewed growth and competitiveness in the global arena.
+
+Ambassador of the Republic of Türkiye to Sri Lanka Semih Lütfü Turgut attended the AGM as the chief guest.
+
+...
+
+[Data](articles/59b10911.json)
+
+---
+
+### COYLE, JETRO kick-off Sri Lankan Corporate Health and Productivity Awards 2025
+
+*2025-08-15 05:29:20* · [`dailyftlk`](https://www.ft.lk/business/COYLE-JETRO-kick-off-Sri-Lankan-Corporate-Health-and-Productivity-Awards-2025/34-780307) · `en`
+
+From left: COYLEPast Chairman and Head of the SLCHP Judging Panel Dr. Rohitha Silva, COYLE Chairman Manjula Wijesundera, JETRO Colombo Resident Representative Hiroki Oi and COYLE Event Chair, Mihiru Perera at the press conference – Pic by Upul Abayasekara
+
+The Chamber of Young Lankan Entrepreneurs (COYLE), in partnership with the Japan External Trade Organisation (JETRO), officially launched the Sri Lankan Corporate Health and Productivity Awards (SLCHPA) 2025 at Shangri-La Colombo recently.
+
+Now in its third year, the SLCHPA recognises businesses that champion employee wellbeing, workplace sustainability and productivity excellence. This year’s edition marks a milestone with JETRO joining as a strategic partner, introducing international benchmarking, expertise and global best practices.
+
+...
+
+[Data](articles/716e08ff.json)
+
+---
+
+### Asian Travel Solutions celebrates first anniversary with remarkable growth and regional expansion
+
+*2025-08-15 05:25:48* · [`dailyftlk`](https://www.ft.lk/business/Asian-Travel-Solutions-celebrates-first-anniversary-with-remarkable-growth-and-regional-expansion/34-780306) · `en`
+
+Tech-driven travel agency marks one year of innovation, expansion, and service excellence in Sri Lanka and beyond
+
+Asian Travel Solutions Ltd. celebrates its first anniversary, marking a year of rapid growth, industry recognition, and strategic expansion. Since its launch on 15 August 2024, the company has redefined travel planning for both local and international clients through a unique blend of technology, efficiency, and personalised service.
+
+From day one, Asian Travel Solutions set out to be more than just another travel agency. The company embraced a tech-forward approach, integrating industry-specific software to streamline operations — from creating custom itineraries in record time to managing backend logistics with precision. Many processes still done manually in the industry have been automated by the company, delivering faster, more efficient service to clients.
+
+...
+
+[Data](articles/16e942f4.json)
+
+---
 
 ### Premier Harini’s gaffe and JVP-led NPP Govt.’s damage control efforts
 
@@ -1609,183 +1801,5 @@ The renovations of the complex received cabinet approval, and is taking place af
 ◼️
 
 [Data](articles/f2ebac0c.json)
-
----
-
-### மகாவலி ஆற்றில் மிதந்த நிலையில் சடலம் கண்டெடுப்பு
-
-*2025-08-14 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222551) · `ta`
-
-கண்டி பொலிஸ் பிரிவுக்குட்பட்ட பொல்கொல்ல பகுதியில் உள்ள மகாவலி ஆற்றில் மிதந்த நிலையில் அடையாளம் தெரியாத சடலம் ஒன்று கண்டெடுக்கப்பட்டுள்ளது.
-
-சடலம் மிகவும் அழுகிய நிலையில் இருந்ததாகவும், உயிரிழந்தவர் நீல நிற டி-சர்ட் மற்றும் நீல நிற காற்சட்டை அணிந்திருந்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/04c9eed0.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයට පිං අනුමෝදන් කරයි
-
-*2025-08-14 12:21:17* · [`adalk`](https://www.ada.lk/picture_story/කණ්ඩලමේ-හැඩකාරයට-පිං-අනුමෝදන්-කරයි/10-417916) · `si`
-
-මාස හතරකට අධික කාලයක් කණ්ඩලම වැව   ඉස්මත්තේ  වෙඩි වැදීමකින් තුවාල ලබා සිටි කණ්ඩලමේ හැඩකාරයා නමින් හඳුන්වනු ලැබූ වන අලියා 13 දින පස්වරුවේ  ජීවිතක්ෂයට පත් වූ බව  වනජීවී නිලධාරීහු පවසති.
-
-මිට වසරකට ඉහතදී  මුලින්ම මේ අලියාට  වෙඩි වැදී සිටියදී වනජීවීන් නිලධාරීන් ප්‍රතිකාර කොට පසුව  වනයට මුදා හැර තිබිණි ,  පසුව මාස කිහිපයකට පසු නැවතත්  තුවාල සුව නොවූ තැන   වැව ඉස්මත්තට පැමිණි මෙම සතා  ජනතාව අතරට එන්නට පටන් ගෙන තිබිණි ,   ජනතාව ආහාර ලබාදෙමින් වනජීවී නිලධාරීන් දැනුවත් කරන්නට විය
-
-ඒ අනුව අවස්ථා කිහිපයක් වරින් වරින්  පශු වෛද්‍ය  කණ්ඩායම් පැමිණ ප්‍රතිකාර කොට පිටව ගියහ .  මාධ්‍ය මගින් දිගින් දිගටම කණ්ඩලමේ හැඩකාරයාගේ ප්‍රශ්න පිළිබඳව ජනතාව සහ බලධාරීන් ගෙන්  ඔහුගේ ජීවිතය බේරා  දෙන ලෙස ඉල්ලීම් කරන්නට විය.
-
-ඒ  අනුව පරිසර අමාත්‍යවරයා සහ නියෝජ්‍ය අමාත්‍යවරයාද මෙම ස්ථානයට පැමිණෙන වන අලියාගේ සුව දුක් විමසීමෙන් අනතුරුව එක දිගටම ප්‍රතිකාර කිරීමට උපදෙස් ලබාදීම සිදුකරන්නට විය.
-
-...
-
-[Data](articles/552af6f4.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරියට පිං අනුමෝදන් කරයි
-
-*2025-08-14 12:21:17* · [`adalk`](https://www.ada.lk/picture_story/කණ්ඩලමේ-හැඩකාරියට-පිං-අනුමෝදන්-කරයි/10-417916) · `si`
-
-මාස හතරකට අධික කාලයක් කණ්ඩලම වැව   ඉස්මත්තේ  වෙඩි වැදීමකින් තුවාල ලබා සිටි කණ්ඩලමේ හැඩකාරයා නමින් හඳුන්වනු ලැබූ වන අලියා 13 දින පස්වරුවේ  ජීවිතක්ෂයට පත් වූ බව  වනජීවී නිලධාරීහු පවසති.
-
-මිට වසරකට ඉහතදී  මුලින්ම මේ අලියාට  වෙඩි වැදී සිටියදී වනජීවීන් නිලධාරීන් ප්‍රතිකාර කොට පසුව  වනයට මුදා හැර තිබිණි ,  පසුව මාස කිහිපයකට පසු නැවතත්  තුවාල සුව නොවූ තැන   වැව ඉස්මත්තට පැමිණි මෙම සතා  ජනතාව අතරට එන්නට පටන් ගෙන තිබිණි ,   ජනතාව ආහාර ලබාදෙමින් වනජීවී නිලධාරීන් දැනුවත් කරන්නට විය
-
-ඒ අනුව අවස්ථා කිහිපයක් වරින් වරින්  පශු වෛද්‍ය  කණ්ඩායම් පැමිණ ප්‍රතිකාර කොට පිටව ගියහ .  මාධ්‍ය මගින් දිගින් දිගටම කණ්ඩලමේ හැඩකාරයාගේ ප්‍රශ්න පිළිබඳව ජනතාව සහ බලධාරීන් ගෙන්  ඔහුගේ ජීවිතය බේරා  දෙන ලෙස ඉල්ලීම් කරන්නට විය.
-
-ඒ  අනුව පරිසර අමාත්‍යවරයා සහ නියෝජ්‍ය අමාත්‍යවරයාද මෙම ස්ථානයට පැමිණෙන වන අලියාගේ සුව දුක් විමසීමෙන් අනතුරුව එක දිගටම ප්‍රතිකාර කිරීමට උපදෙස් ලබාදීම සිදුකරන්නට විය.
-
-...
-
-[Data](articles/602e4358.json)
-
----
-
-### ලංකා බැංකුවේ හා අයි.ටී.එන්. නව සභාපතිවරුන්ට අනුමැතිය
-
-*2025-08-14 12:13:01* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-බැංකුවේ-හා-අයි-ටී-එන්--නව-සභාපතිවරුන්ට-අනුමැතිය/11-417915) · `si`
-
-තානාපතිවරයෙකු, අමාත්‍යාංශ ලේකම්වරුන් දෙදෙනෙකු සහ සභාපතිවරුන් 4 දෙනෙකු පත් කිරීම් සඳහා පාර්ලිමේන්තුවේ උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමතිය හිමිවිය. 2025 අගෝස්තු 06 වන දින පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවේදී මෙම තීරණ ගනු ලැබිණි.
-
-ඒ අනුව, ඕමාන් රාජ්‍යයේ නව ශ්‍රී ලංකා තානාපතිවරයා ලෙස විජේසිංහ ආරච්චිගේ කපිල සංජීව ද අල්විස් මහතා නම් කිරීම කාරක සභාව විසින් අනුමත කරන ලදී.
-
-ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස එම්.ඒ.එල්.එස්.එන්.කේ. මන්ත්‍රීනායක මහතා සහ කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශයේ නව ලේකම්වරිය ලෙස ජේ.එම්. තිලකා ජයසුන්දර මහත්මියගේ පත්වීම් ද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමත කළේය.
-
-...
-
-[Data](articles/1096f880.json)
-
----
-
-### இன்றைய தங்கவிலை நிலைவரம் !
-
-*2025-08-14 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222550) · `ta`
-
-இன்று வியாழக்கிழமை (14) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/a904d513.json)
-
----
-
-### புதிய ஐஜிபி கடமையேற்றார்
-
-*2025-08-14 12:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஐஜிபி-கடமையேற்றார்/175-362901) · `ta`
-
-இலங்கையின் 37ஆவது பொலிஸ் மா அதிபராக நியமிக்கப்பட்ட  பிரியந்த வீரசூரிய, தனது கடமைகளை பொலிஸ் தலைமையகத்தில் வியாழக்கிழமை (14) உத்தியோகபூர்வமாக பொறுப்பேற்றுக்கொண்டார்.
-
-◼️
-
-[Data](articles/95a56be1.json)
-
----
-
-### தாய்வானை உலுக்கிய ‘போடூல்’ புயல்: 400 விமானங்கள் ரத்து
-
-*2025-08-14 12:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்வானை-உலுக்கிய-போடூல்-புயல்-400-விமானங்கள்-ரத்து/50-362900) · `ta`
-
-கிழக்கு சீனக்கடலை மையமாக கொண்டு உருவான குறைந்த காற்றழுத்த தாழ்வுநிலை புயலாக வலு கொண்டது. இந்த புயலுக்கு ‘போடூல்’ என தைவான் பெயரிட்ட நிலையில் அந்த தீவின் தென்கிழக்கு கரையோரம் கரையை கடக்கும் என கணிக்கப்பட்டது. நேற்று போடூல் புயல் உள்ளூர் நேரப்படி மதியம் 2 மணியளவில் கரையை கடந்தது.
-
-மணிக்கு 120 கி.மீ வேகத்தில் பலத்த காற்றுடன் அங்குள்ள கடற்கரை மாகாணங்களான தைதூங், ஹூவாலியன், பிங்டூங், யூன்லின் ஆகியவற்றை தாக்கியது. இதனால் அங்குள்ள நகரங்கள் சூறைக்காற்றுக்கு சிக்கி சின்னாபின்னமானது. புயல் காரணமாக இடி, மின்னலுடன் கனமழை கொட்டியது.
-
-8 செ.மீ அளவில் கனமழை பெய்ததால் தாழ்வான பகுதிகளில் மழைநீர் தேங்கி வெள்ளம் பெருக்கெடுத்து ஓடியது. புயலில் சிக்கி மின்கம்பங்கள், மரங்கள் வேரோடு சாய்ந்தன. மின்சார வினியோகம் துண்டிக்கப்பட்டது.
-
-முன்னெச்சரிக்கை நடவடிக்கையாக தைவானில் இருந்து ஜப்பான், சீனா, ஆஸ்திரேலியா, அமெரிக்கா உள்ளிட்ட நாடுகளுக்கு இயக்கப்பட இருந்த 130 சர்வதேச விமானங்களும், 300 உள்நாட்டு விமானங்களும் ரத்தாகின.
-
-...
-
-[Data](articles/436d49d1.json)
-
----
-
-### මාතලේ නගරාධිපතිගේ නිල වාහනයේ මාසික ධාවනය කිමි. 5000 සිට 500ට අඩු කරයි
-
-*2025-08-14 12:05:42* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-නගරාධිපතිගේ-නිල-වාහනයේ-මාසික-ධාවනය-කිමි--5000-සිට-500ට-අඩු-කරයි/11-417914) · `si`
-
-මීට පෙර මාතලේ මහ නගර සභාවේ නගරාධිපතිවරයා ⁣ගේ නිල වාහනයේ ධාවනය මසකට කි.මි.5000ක් වුවත් වත්මන් නගරාධිපති ධුරයට පත්වීමෙන් පසුවෙන් ජුලි මාසයේදී ධාවනය කර ඇති කිලෝමිටර් ප්‍රමාණය කි.මි.274 ක් බව මාතලේ  මහ නගර සභාව පවසයි.
-
-මේ සම්බන්ධව විමසීමේදී නාගරික කොමසාරිස් දිනුක බඹරදෙනිය මහතා පැවැසුවේ ජාතික ජනබලවේගයේ අජිත් අසෝක කොට්ගචිචි මහතා මාතලේ නගර සභාවෙි අභිනව නගරාධිපති ලෙස පත්වු දා සිට නිල වාහනයේ ධාවනය කි.මි.500 දක්වා අඩුවි තිබෙන බවයි.
-
-එසේම නගර සභා රැස්වීම් අවස්ථාවලදි මන්ත්‍රීවරැන්ට සහ සහභාගි වු නිලධාරීන්ට බුෆේ ක්‍රමයට ලබා දුන් දිවා ආහාර දැන් කැම පාර්සල් ලෙසින් බෙදා දෙන බවද කොමසාරිස්වරයා පැවැසිය .අනවශ්‍ය වියදම් සියල්ලක්ම කපා හැර තිබෙන බව නාගරික කොමසාරිස් දිනුක බඹරදෙනිය මහතා පැවැසිය.
-
-◼️
-
-[Data](articles/8a6cb1c9.json)
-
----
-
-### வளர்ப்பு மகளுக்கு மதுபானம் கொடுத்து பாலியல் வன்கொடுமை
-
-*2025-08-14 12:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வளர்ப்பு-மகளுக்கு-மதுபானம்-கொடுத்து-பாலியல்-வன்கொடுமை/76-362899) · `ta`
-
-12 வயது சிறுமிக்கு மதுபானம் கொடுத்து பாலியல் வன்கொடுமை செய்த,  அவரது தாய் இரண்டாவதாக திருமணம் செய்து கொண்ட  கணவர் (சித்தப்பா) கைது செய்யப்பட்டுள்ள சம்பவம் மொனராகலை, கோனகம் ஆர  பகுதியில் இடம்பெற்றுள்ளது.
-
-சிறுமியின் தாய் சுமார் ஒரு வருடத்திற்கு முன்பு வெளிநாடு சென்றுள்ளதுடன் சிறுமியை அவரது சித்தப்பா (தாயின் இரண்டாவது திருமண கணவர்) மற்றும் பாட்டி கவனித்துக் கொண்டுள்ளனர்.
-
-இந்த ஆண்டு ஜனவரி முதல், சந்தேக நபரான சித்தப்பா அவ்வப்போது தனது இடுப்பை தொடுமாறு சிறுமியிடம் கூறி சிறுமியை  தொட்டு பாலியல் சேஷ்டை புரிந்துள்ளார். சந்தேக நபர் கூறியபடி செய்யாவிடின்,சிறுமியை அடித்து சித்திரவதை செய்துள்ளார்.
-
-இந்நிலையில் கடந்த மார்ச் மாதத்தில் ஒரு நாள்,  பாட்டி பிபில பகுதியில் உள்ள உறவினர் வீட்டிற்குச் சென்றுள்ளார். அன்று சிறுமி பாடசாலைக்குச் செல்லாமல் வீட்டில் இருந்த போது சந்தேக நபர் சிறுமியை அறைக்குள் அழைத்துச் சென்று மதுபானம் கொடுத்து குடிக்க வற்புறுத்தி போதையில் மயக்கமடைந்த பின்னர் பாலியல் வன்கொடுமை செய்துள்ளார்.
-
-...
-
-[Data](articles/81419f03.json)
-
----
-
-### பொலிஸ் திணைக்களத்தின் கலாச்சாரப் பிரிவு பதில் பணிப்பாளர் கைது
-
-*2025-08-14 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222549) · `ta`
-
-பல இலஞ்சக் குற்றச்சாட்டுகள் தொடர்பாக, பொலிஸ் திணைக்களத்தின் கலாச்சாரப் பிரிவின் பதில் பணிப்பாளர்  எஸ்.எஸ்.பி சதீஷ் கமகே, இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவால் (CIABOC) கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/4aba70f8.json)
-
----
-
-### சொக்லேட்டை திருடிய முதியவர் அடித்துக் கொலை
-
-*2025-08-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222548) · `ta`
-
-கண்டி, பேராதனை பகுதியில் கடையொன்றில் சிறிய சொக்லேட் பக்கற்றை திருடிய 67 வயதுடைய முதியவர் ஒருவர் கொடூரமாகத் தாக்கப்பட்டுக் கொலை செய்யப்பட்டுள்ளார்.
-
-இந்த கொலையை செய்த கடையின் உரிமையாளரும் அவரது ஊழியரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இரண்டு பிள்ளைகளின் தந்தையான இவர் பிள்ளைகள் திருமணமாகி வேறு பகுதிகளில் குடியேறிய பின்னர் அவர் தனது மனைவியுடன் வசித்து வந்துள்ளார்.
-
-குறித்த நபர் சம்பவத்தன்று உணவுப் பொருட்கள் வாங்குவதற்கு கடைக்குச் சென்றுள்ளார். அங்கு இரண்டு பேர் அவரை கடைக்குள் இழுத்துச் சென்று தாக்கியுள்ளனர்.
-
-ஏனெனில் அவர் முன்தினம் கடையில் சொக்லேட்டுகளை திருடும் காட்சி சிசிரிவி கமராவில் பதிவாகியிருந்துள்ளது.
-
-முதியவரிடம் சொக்லேட் வாங்கும் அளவிற்கு பணம்  இல்லாமையால் சொக்லேட் பிரியரான அவர் திருடியுள்ளார். அவர் வழமையாக கடைக்குச் செல்லும் போது தனக்கும் அவரது மனைவிக்கும் சொக்லேட்கள் வாங்கி வரும் பழக்கம்  இருந்துள்ளது.
-
-சந்தேகநபர்கள் தாக்குதலுக்குள்ளான முதியவரை கடை மூடும் நேரம் வரை உள்ளே வைத்திருந்து வீதியில் விட்டுச் சென்றுள்ளனர்.
-
-...
-
-[Data](articles/9b5d5e94.json)
 
 ---

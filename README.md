@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 17:17:37**
+As of **2025-08-15 17:32:59**
 
 ## Newspaper Stats
 
-*Scraped **70,686** Articles*
+*Scraped **70,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,822
 adaderanalk | 8,826
 tamilmirrorlk | 10,414
 virakesarilk | 11,749
-adaderanasinhalalk | 12,174
+adaderanasinhalalk | 12,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,686 articles have been extended.
+61,973 (87.7%) of 70,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### අගමැතිනිය මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනයට එක්වෙයි
+
+*2025-08-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213411) · `si`
+
+මැණික් හා ස්වර්ණාභරණ සඳහා ශ්‍රී ලංකාව ජාත්‍යන්තර ප්‍රසිද්ධියක් ලබා සිටිය ද අපේක්ෂිත මට්ටමට අපනයන වර්ධනයක් සිදුව නැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය පැවසුවාය.
+
+“Gem City Ratnapura- 2025” මැයෙන් පැවැත්වෙන ජාත්‍යන්තර 'මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනය 2025' සමාරම්භක උත්සවය අමතමින් අග්‍රාමාත්‍යතුමිය මේ බව සඳහන් කළාය.
+
+එහිදී ඇය වැඩිදුරටත් පැවසුවේ ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළඳපොළ ජය ගත හැකි පරිදි ස්ථාවර ප්‍රතිපත්ති සකස් කිරීමට රජය කටයුතු කරන බවය.
+
+ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරිය සංවිධානය කරන මැණික් හා ස්වර්ණාභරණ වෙළඳ ප්‍රදර්ශනය, ලෝකයේ ප්‍රමුඛතම මැණික් හා ස්වර්ණාභරණ වෙළඳපොළක් ලෙස ස්ථාපිත කිරීමේ අරමුණින්, විවිධ වර්ගයේ මැණික්, මැණික් හා ස්වර්ණාභරණ කැණීම් සහ සැකසීම් ක්‍රමවේදයන්, පරීක්ෂණාගාර සේවා මෙන්ම ක්ෂේත්‍රයේ පුහුණු හා අධ්‍යාපන අවස්ථාවන්ගෙන් සමන්විතව මෙම ප්‍රදර්ශනය සංවිධානය කර තිබේ.
+
+ශ්‍රී ලංකාවේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ පළමු රජයේ වෙළඳ වෙබ් අඩවිය වන www.gemcityratnapura.com වෙබ් අඩවිය GOV PAY නවතම පහසුකම සහිතව එළිදැක්වීම ද මෙහිදී සිදු කෙරිණි.
+
+...
+
+[Data](articles/ca8432f6.json)
+
+---
 
 ### “இரத்தினக்கல், ஆபரணச் சந்தையை வெற்றிகொள்வோம்”
 
@@ -1809,21 +1829,5 @@ Applications are open from 18 August onwards. Entrepreneurs from the Western Pro
 ...
 
 [Data](articles/bb47a53c.json)
-
----
-
-### US Ambassador meets Ceylon Chamber leadership
-
-*2025-08-15 05:34:15* · [`dailyftlk`](https://www.ft.lk/business/US-Ambassador-meets-Ceylon-Chamber-leadership/34-780309) · `en`
-
-The Ceylon Chamber of Commerce welcomed the US Ambassador to Sri Lanka Julie Chung, for a courtesy visit with the Ceylon Chamber’s leadership. Ambassador Chung met with Chairman Krishan Balendra, Vice Chairman Bingumal Thewarathanthri, Deputy Vice Chairman Vinod Hirdaramani, Secretary General and CEO Buwanekabahu Perera and other representatives of the Ceylon Chamber to discuss trade, investment, and economic opportunities between Sri Lanka and the United States.
-
-Ambassador Chung extended her congratulations to Krishan Balendra on his appointment as Chairman of the Ceylon Chamber, and the US Embassy’s interest in continuing and strengthening engagement with the Ceylon Chamber of Commerce, given its position as the premier and most influential representative of the private sector.
-
-She also commended the Sri Lankan Government for its collaborative and constructive negotiation with the United States to achieve a fair, balanced, and reciprocal trade relationship.
-
-...
-
-[Data](articles/fe0d053a.json)
 
 ---

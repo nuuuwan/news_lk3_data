@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 03:49:11**
+As of **2025-08-16 04:07:06**
 
 ## Newspaper Stats
 
-*Scraped **70,741** Articles*
+*Scraped **70,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 4,978
 adalk | 6,825
 adaderanalk | 8,833
 tamilmirrorlk | 10,416
-virakesarilk | 11,759
+virakesarilk | 11,760
 adaderanasinhalalk | 12,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,741 articles have been extended.
+61,973 (87.6%) of 70,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### ரஷ்ய-உக்ரைன் போர் முடிவுக்காக அலாஸ்காவில் டிரம்ப் – புடின் சந்திப்பு
+
+*2025-08-16 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/222653) · `ta`
+
+ரஷ்ய-உக்ரைன் போரை முடிவுக்குக் கொண்டுவரும் நோக்கில், அமெரிக்க ஜனாதிபதிக்கும் ரஷ்ய ஜனாதிபதிக்கும் இடையிலான சந்திப்பு  அமெரிக்காவின் அலாஸ்காவில் உள்ள எல்ம்ஹர்ஸ்ட்-ரிச்சர்ட்சன் இராணுவத் தளத்தில் நடைபெற்றது.
+
+பலத்த பாதுகாப்புக்கு மத்தியில் அலாஸ்கா வந்தடைந்த ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினை, அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் அன்புடன் வரவேற்றார்.
+
+மேலும், 6 ஆண்டுகளுக்குப் பிறகு சந்தித்த அமெரிக்க அதிபர் டொனால்ட் டிரம்பும் ரஷ்ய அதிபர் விளாடிமிர் புதினும், பேச்சுவார்த்தை நடைபெறும் எல்ம்ஹர்ஸ்ட்-ரிச்சர்ட்சன் அமெரிக்க ராணுவ தளத்திற்கு ஒரே வாகனத்தில் புறப்பட்டனர் என்பது குறிப்பிடத்தக்கது.
+
+இந்த ராணுவ தளம் அமெரிக்காவிற்கு சொந்தமானது, மேலும் அமெரிக்க ரகசிய சேவை மற்றும் ரஷ்ய பாதுகாப்புப் படைகள் கூட்டாக டிரம்ப் மற்றும் புதின் சந்திப்புக்கு சிறப்பு பாதுகாப்பை வழங்கியுள்ளன.
+
+வான்வெளி தடைசெய்யப்பட்ட மண்டலமாக அறிவிக்கப்பட்டுள்ளது, மேலும் நகரம் முழுவதும் பொலிஸ் சோதனைச் சாவடிகள் மற்றும் சிறப்புத் தேடல் நடவடிக்கைகளும் செயல்பாட்டில் உள்ளன.
+
+...
+
+[Data](articles/f0a3f640.json)
+
+---
 
 ### களுதாவளை பிரதேச சபையில் கருத்து சுதந்திரமும், ஊடக சுதந்திரமும் மறுக்கப்பட்டுள்ளதாக பரதேச சபை உறுப்பினர் குற்றச்சாட்டு
 
@@ -1054,7 +1074,7 @@ The peaceful protest march commenced from near the Borella Cemetery Roundabout a
 
 சில அரசியல் கட்சிகளும் அரசியல் தலைவர்களும் வெளிநாட்டு அமைப்புகளுடன் இணைந்து நாட்டில் ஓரினச்சேர்க்கையை ஊக்குவிக்கும் முயற்சியில் ஈடுபட்டுள்ளதாக கொழும்பு பேராயர் மெல்கம் கார்டினல் ரஞ்சித் ஆண்டகை, தெரிவித்தார்.
 
-இலங்கையில் சமீப காலமாக உருவாகி வரும் ஆபத்தான சூழ்நிலை இது என்றும், இது நாட்டை இருளில் தள்ளும் அபாயம் உள்ளதாகவும் தேரர் கூறினார்.
+இலங்கையில் சமீப காலமாக உருவாகி வரும் ஆபத்தான சூழ்நிலை இது என்றும், இது நாட்டை இருளில் தள்ளும் அபாயம் உள்ளதாகவும் கூறினார்.
 
 ருஹுணா பல்கலைக்கழகத்தின் துணைவேந்தர் அகுரெட்டியே நந்த தேரருக்கு மியான்மர் அரசு அக்மக பண்டிதர் என்ற கௌரவப் பட்டத்தை வழங்கும் விழா கொழும்பில் வியாழக்கிழமை (14)  நடைபெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
 
@@ -1787,23 +1807,5 @@ The US Embassy in Colombo said the visit of Santa Barbara was underscoring the s
 ...
 
 [Data](articles/7346755c.json)
-
----
-
-### Govt may import substitute if ‘Keeri Samba’ shortage persists – Minister
-
-*2025-08-15 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111494/govt-may-import-substitute-if-keeri-samba-shortage-persists-minister) · `en`
-
-Minister of Trade, Commerce, Food Security, and Cooperative Development, Wasantha Samarasinghe, claims that certain groups are attempting to artificially create a shortage of ‘Keeri Samba’ raw rice in the country.
-
-Speaking after a ceremony held in the Anuradhapura area, the Minister said that while there is no general shortage of rice in the market, there is a concern specifically regarding the ‘Keeri Samba’ variety.
-
-“If there is any issue in the rice market at present, it is only the shortage of Keeri Samba. Therefore, if we decide to import, it will be limited to a substitute variety for Keeri Samba. No final decision has been made yet, as the Yala season is now coming to an end,” he said.
-
-The Minister explained that if the shortage continues and worsens in the months of November, December, and January, the government plans to import 40,000 metric tons of a Keeri Samba substitute variety known as ‘GR11’. However, this plan has not yet been implemented.
-
-...
-
-[Data](articles/a450bff7.json)
 
 ---

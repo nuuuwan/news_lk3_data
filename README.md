@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 11:51:50**
+As of **2025-08-15 12:08:28**
 
 ## Newspaper Stats
 
-*Scraped **70,628** Articles*
+*Scraped **70,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,818
-adaderanalk | 8,816
+adaderanalk | 8,820
 tamilmirrorlk | 10,395
 virakesarilk | 11,742
 adaderanasinhalalk | 12,158
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,158
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,628 articles have been extended.
+61,973 (87.7%) of 70,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### Govt may import substitute if ‘Keeri Samba’ shortage persists – Minister
+
+*2025-08-15 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111494/govt-may-import-substitute-if-keeri-samba-shortage-persists-minister) · `en`
+
+Minister of Trade, Commerce, Food Security, and Cooperative Development, Wasantha Samarasinghe, claims that certain groups are attempting to artificially create a shortage of ‘Keeri Samba’ raw rice in the country.
+
+Speaking after a ceremony held in the Anuradhapura area, the Minister said that while there is no general shortage of rice in the market, there is a concern specifically regarding the ‘Keeri Samba’ variety.
+
+“If there is any issue in the rice market at present, it is only the shortage of Keeri Samba. Therefore, if we decide to import, it will be limited to a substitute variety for Keeri Samba. No final decision has been made yet, as the Yala season is now coming to an end,” he said.
+
+The Minister explained that if the shortage continues and worsens in the months of November, December, and January, the government plans to import 40,000 metric tons of a Keeri Samba substitute variety known as ‘GR11’. However, this plan has not yet been implemented.
+
+...
+
+[Data](articles/a450bff7.json)
+
+---
 
 ### බනා මන්ත්‍රී ඝාතනයේ සැකකරු සියල්ල වමාරයි
 
@@ -38,7 +56,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' නැමැත්තා ඝාතනය සම්බන්ධයෙන් වැදගත් තොරතුරු රැසක් බස්නාහිර උතුර අපරාධ කොට්ඨාසය මඟින් අනාවරණ කරගෙන තිබේ.
 
-◼️
+ඒ අත්අඩංගුවට ගත්, අදාළ ඝාතනයේ මෝටර් රථය පැදවූ රියදුරාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදීය.
+
+ලලිත් කන්නන්ගර හෙවත් 'බස් ලලිත්' අදාළ ඝාතනය වෙනුවෙන් තමන්ට රුපියල් ලක්ෂ 3ක මුදලක් ලබාදෙන බවට පොරොන්දු වූයේයැයි ඔහු එහිදී පවසා තිබේ.
+
+බස් ලලිත් තමන් අමතා "ශාන්ත මගේ යාළුවා. ඒ වුණාට ඌට ගහන්න ඕනේ. ඌ රෙස්ටූරන්ට් එකක් හදනවා. ඒකට ඉන්ටර් ලොක් ගල් අල්ලන්න ඕන කියලා ලලිත් අයියා කිව්වා කියපන්. ඒකට ගෙනාපු බඩු බාන්න ඕනේ කියලා ශාන්තට කෝල් කරපන්. පස්සේ ලොකේෂන් එක එව්වම, එහෙම එන්න අමාරුයි, ඇවිල්ලා පාර පෙන්නන්න කියපන්. එහෙම ආවාම ගහපන්" කියලා මට ලලිත් අයියා කිව්වා" යනුවෙන් සැකකරු පොලිසිය හමුවේ අනාවරණ කර තිබුණි.
+
+එම උපදෙස් අනුව තමා 'බනා මන්ත්‍රී'ව ගෙන්වාගෙන ඔහු පසුපස හඹාගොස් සැලසුම ක්‍රියාත්මක කළ බව සැකකරු වැඩිදුරටත් පවසා තිබේ.
+
+එමෙන්ම වෙඩික්කරු සම්බන්ධයෙන් කිසිඳු තොරතුරක් තමන් නොදන්නා බවත් ඔහුව ප්‍රවාහනය කිරීම පමණක් සිදුකළ බවත් සැකකරු පවසා ඇති බව වාර්තා වේ.
+
+...
 
 [Data](articles/8f7f1181.json)
 
@@ -184,6 +212,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### US threatens India of additional tariffs if Trump-Putin peace deal fails
+
+*2025-08-15 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111493/us-threatens-india-of-additional-tariffs-if-trump-putin-peace-deal-fails) · `en`
+
+US Treasury Secretary Scott Bessent has warned that the secondary tariffs on India could go up if “things don’t go well” during talks between President Donald Trump and Russian President Vladimir Putin in Alaska on Friday.
+
+Last week, Donald Trump imposed tariffs totalling 50 per cent on India, including 25 per cent for Delhi’s purchases of Russian oil that will come into effect from August 27.
+
+“I think everyone has been frustrated with President Putin. We expected that he would come to the table in a more fulsome way. It looks like he may be ready to negotiate. And we put secondary tariffs on the Indians for buying Russian oil. I could see, if things don’t go well, then sanctions or secondary tariffs could go up,” Scott Bessent said in an interview with Bloomberg on Wednesday.
+
+...
+
+[Data](articles/2754025f.json)
+
+---
+
 ### මෙරට සිසුන් 30කට පශ්චාද් සහ ආචාර්ය උපාධි සඳහා චීනයෙන් ශිෂ්‍යත්ව
 
 *2025-08-15 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213389) · `si`
@@ -199,6 +243,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/310314f3.json)
+
+---
+
+### Six injured in three-wheeler and cab collision near Ravana Falls
+
+*2025-08-15 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111492/six-injured-in-three-wheeler-and-cab-collision-near-ravana-falls) · `en`
+
+At least six people were injured when a three-wheeler and a luxury cab collided on the Ella–Wellawaya main road, in the area above Ravana Falls.
+
+The injured were admitted to the Demodara and Bandarawela hospitals.
+
+According to police, the victims are residents of the Badulla area.
+
+Officers from the Ella Police Station have commenced further investigations into the incident.
+
+◼️
+
+[Data](articles/86c1ada7.json)
+
+---
+
+### Seven injured in bus accident at Dunhinda Junction
+
+*2025-08-15 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111491/seven-injured-in-bus-accident-at-dunhinda-junction) · `en`
+
+At least seven people were injured in a bus accident at Dunhinda Junction on the Badulla–Mahiyanganaya road at around 7:15 a.m. today (15).
+
+According to police, the accident occurred when a bus carrying a group of pilgrims collided with a parked lorry.
+
+Around 30 passengers were on board the bus at the time of the incident.
+
+Preliminary investigations revealed that the bus driver had lost control of the vehicle due to a brake malfunction, resulting in the collision.
+
+◼️
+
+[Data](articles/55e5055a.json)
 
 ---
 
@@ -1719,77 +1799,5 @@ The Welfare Benefits Board stated that the beneficiaries will be able to access 
 ◼️
 
 [Data](articles/cb9494d9.json)
-
----
-
-### සූදු නියාමන අධිකාරි පනතට මුදල් කාරක සභාවේ අනුමතිය
-
-*2025-08-14 16:52:43* · [`adalk`](https://www.ada.lk/breaking_news/සූදු-නියාමන-අධිකාරි-පනතට-මුදල්-කාරක-සභාවේ-අනුමතිය/11-417920) · `si`
-
-සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා වූ පනත් කෙටුම්පතට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමි විය. රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතා විදේශ ගතවීම හේතුවෙන් එම කාරක සභාවේ තාවකාලික සභාපති ලෙස පත් කරගන්නා ලද පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ රවුෆ් හකීම් මහතාගේ ප්‍රධානත්වයෙන් 2025.08.12 දින පැවති රජයේ මුදල් පිළිබඳ කාරක සභා රැස්වීමේදී මෙම පනත් කෙටුම්පත සලකා බලා අනුමතිය ලබාදෙන ලදී.
-
-මෙම පනත් කෙටුම්පත සම්බන්ධයෙන් අවස්ථා කිහිපයකදීම රජයේ මුදල් පිළිබඳ කාරක සභාවේදී සාකච්ඡා කෙරුණු අතර මේ මගින් ශ්‍රී ලංකාව තුළ ඔට්ටු ඇල්ලීම සහ සූදු අ‍ායතන ප්‍රමිතිකරණය කිරීමට, සමාජ හානි අවම කිරීමට, සංචාරක ක්ෂේත්‍රය සංවර්ධනය කිරීමට හා ආර්ථිකය වර්ධනය කිරීම සඳහා පුළුල් හෝ පූර්ණ විෂය පථයක් සහිත ස්වාධීන නියාමන ආයතනයක් ලෙස සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම සිදු වේ.
-
-...
-
-[Data](articles/38489339.json)
-
----
-
-### Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB
-
-*2025-08-14 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-coconut-production-up-fish-tea-and-rubber-down-in-june-cb-236360/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s agricultural production in paddy and coconut picked up in June, the central bank said, while tea, fish and rubber production decreased due to unfavourable weather.
-
-“Paddy production for the 2025 Yala season, based on the sown extent as of end June 2025, is forecasted at 2.19 million metric tons, a 10.8% increase from the previous Yala season,” the central bank’s Agriculture Sector Data Bulletin for June 2025 said.
-
-Paddy production forecasts for 2025 is estimated as 4.8 million metric tons, a 2.3 percent increase from 2024.
-
-Coconut production increased by 18.3 percent year on year in June following a recovery since February.
-
-Meanwhile fish production decreased by 20.6 year on year in June, attributed to a decline in both marine and inland fishing activities.
-
-Tea production decreased by 6.3 percent in June mainly attributed to adverse weather conditions.
-
-...
-
-[Data](articles/83d3569b.json)
-
----
-
-### හෙරොයින් ළඟ තබාගත් හිමිනමක් සහ සැකකරුවකු අත්අඩංගුවට
-
-*2025-08-14 16:41:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-ළඟ-තබාගත්-හිමිනමක්-සහ-සැකකරුවකු-අත්අඩංගුවට/11-417919) · `si`
-
-හෙරොයින් මත්ද්‍රව්‍ය සන්තකයේ ළඟ තබාගත් හිමිනමක් ඇතුළු සැකකරුවෙකු පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන  අංශය මගින් අද (14) අත්අඩංගුවට ගෙන තිබේ.
-
-පොළොන්නරුව පරාක්‍රම සමුද්‍රයේ කලාගල මාර්ගයේදී මෙම හිමිනම සහ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර වයස අවුරුදු තිස් අටක සැකකරු පොළොන්නරුව පලුගස් දමන ප්‍රදේශයේ පදිංචිකරුවකු වන අතර ඔහු ළඟ තිබී හෙරොයින් මත්ද්‍රව්‍ය මිලිග්‍රෑම්  110 ක් අත්අඩංගුවට ගෙන ඇති බවත් වයස අවුරුදු තිස් එකක සැකකාර හිමිනම ළඟ තිබියදී හෙරොයින් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 130 ක් පොලිසිය සන්තකයේ ලබා තිබියදී අත්අඩංගුවට ගෙන ඇත.
-
-හිමිනම පොළොන්නරුව පුලස්ති පුර පොලිස් වසමේ කෑගලුගම ප්‍රදේශයේ විහාරස්ථානයක භාරකාරත්වය උසුලමින් සිට ඇත.හිමිනම සහ සැකකරු අද (14) පොළොන්නරුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීම සඳහා පොළොන්නරුව පොලිසියට බාරදී ඇත.
-
-මෙම සම්බන්ධයෙන් වැඩිදුර විමර්ශන පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් සිදුකරයි.
-
-◼️
-
-[Data](articles/dba0721f.json)
-
----
-
-### ඕමාන තානාපති බලශක්ති අමාත්‍යවරයා හමුවෙයි
-
-*2025-08-14 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213368) · `si`
-
-බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා සහ ශ්‍රී ලංකාවේ ඕමාන තානාපති අහමඩ් අලි සයීද් අල් රාශිඩ් (Ahmed Ali Said Al Rashid) මහතා අතර හමුවක් බලශක්ති අමාත්‍යංශයේදී අද (14) පස්වරුවේ පැවැත්විණි.
-
-මෙහිදී දෙරට අතර බලශක්ති ක්ෂේත්‍රයේ ද්විපාර්ශවික සබදතා තර කරගැනීම පිළිබදව අවධානය යොමුකරමින් කලාපයේ බලශක්ති අවශ්‍යතා සපුරාලීම සහ ක්ෂේත්‍රයේ නව ප්‍රවණතා මෙන්ම ගෝලීය අර්බුද අවස්ථාවන්වල එක්ව කටයුතු කරමින් ඒවා විසදා ගැනීමට ගතහැකි ක්‍රියාමාර්ග ගැනද සාකච්ඡා කර ඇත.
-
-එහිදී අදහස් දක්වමින් බලශක්ති අමාත්‍යවරයා සඳහන් කළේ සමීප මිත්‍ර රටක් ලෙස ඕමානය සමග සම්බන්ධතා ඉතා ඉහළින් අගය කරන බවත් මෙරට තුළ ඇති විවිධ ආයෝජන අවස්ථා සැළකිල්ලට ගෙන බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය සදහා එක්වන ලෙසය.
-
-ශ්‍රී ලංකාව තුළ උදාවී ඇති යහපත් වාතාවරණය පිළිබදව තමන් දැනුවත් බවත් බලශක්ති ක්ෂේත්‍රයේ ආයෝජන පිළිබදව අවධානය යොමුකරමින් තම රජයට හා පෞද්ගලික අංශයට ඒ පිළිබදව දැනුවත් කිරීම් කිරීමට පියවර ගන්නා බවත් දෙරට අතර සබදතාව තවදුරටත් වර්ධනය කරගැනීමට ඕමානයේද අපේක්ෂාව වන බවත් මෙහිදී අදහස් දැක්වූ ඕමාන තානාපති අහමඩ් අලි සයීද් අල් රාශිඩ් මහතා ද පවසා සිටියේය.
-
-◼️
-
-[Data](articles/91c71ad0.json)
 
 ---

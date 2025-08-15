@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 16:22:33**
+As of **2025-08-15 16:32:54**
 
 ## Newspaper Stats
 
-*Scraped **70,682** Articles*
+*Scraped **70,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailyftlk | 4,965
 adalk | 6,822
 adaderanalk | 8,826
 tamilmirrorlk | 10,413
-virakesarilk | 11,748
+virakesarilk | 11,749
 adaderanasinhalalk | 12,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,682 articles have been extended.
+61,973 (87.7%) of 70,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### நீங்கள் உடல்களை புதைக்கலாம், ஆனால் உங்களால் உண்மையை புதைக்க முடியாது புதைக்கப்படாத எலும்புக்கூடுகள் நிலத்தை கிழித்துக்கொண்டு உண்மையை சொல்ல வெளிவருகின்றன - சட்டத்தரணி ரனிதா ஞானராஜா
+
+*2025-08-15 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222623) · `ta`
+
+நீங்கள் உடல்களை புதைக்கலாம், ஆனால் உங்களால் உண்மையை புதைக்க முடியாது,புதைக்கப்படாத எலும்புக்கூடுகள் நிலத்தை கிழித்துக்கொண்டு  வெளியேவந்து உலகத்தி;ற்கும் மக்களிற்கும் எங்களை உரிய முறையில் புதைக்கவில்லை, எங்களிற்கு நீதி வழங்கப்படவில்லை என தெரிவிக்க வருகின்றன என சட்டத்தரணி ரனிதா  ஞானராஜா தெரிவித்துள்ளார்.
+
+தரிந்து ஜெயவர்த்தன, தரிந்து உடுவரகெதர எம்எப்எம் பசீர் ஆகியோர் இணைந்து எழுதிய செம்மணி எனும் நூலின் வெளியீடு வியாழக்கிழமை கொழும்பில் இடம்பெற்றவேளை அந்த நிகழ்வில் கலந்துகொண்டு கருத்து வெளியிடுகையில் அவர் இதனை தெரிவித்தார்
+
+நாங்கள்  ஏன் மனித புதைகுழிகளை பலவந்தமாக காணாமலாக்கப்படுதல் கடத்தப்பட்டவர்கள் அல்லது காணமல்;போனவர்கள் காணாமலாக்கப்பட்டவர்களுடன்  தொடர்புபடுத்த முயல்கின்றோம்? குறிப்பாக வடக்குகிழக்கில்.
+
+இலங்கையில் மூன்று தசாப்தகாலமாக யுத்தம் இடம்பெற்றது,உலகில் அதிகளவானவர்கள் பலவந்தகாணாமலாக்கப்பட்ட நாடுகளில் இலங்கை இரண்டாவது இடத்தில் உள்ளது என ஐக்கிய நாடுகளின் பலவந்தமாக காணாமலாக்கப்பட்டவர்கள் குறித்த குழு  தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/cbd9b094.json)
+
+---
 
 ### கோபுரத்தில் ஏறி போராட்டம் நடத்தியவர் கீழே விழுந்து பலி
 
@@ -55,6 +73,8 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-08-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213408) · `si`
 
 බොරැල්ල කනත්ත හන්දියේ සිට කැම්බල් උද්‍යානය දක්වා බේස්ලයින් මාර්ගය අවහිර වී තිබේ.
+
+නිදහස් පලස්තීනයක් උදෙසා ලාංකික සාමුහිකය විසින් මෙම විරෝධතාව සංවිධානය කර තිබේ.
 
 ◼️
 
@@ -1799,19 +1819,5 @@ From day one, Asian Travel Solutions set out to be more than just another travel
 ...
 
 [Data](articles/16e942f4.json)
-
----
-
-### Premier Harini’s gaffe and JVP-led NPP Govt.’s damage control efforts
-
-*2025-08-15 04:25:12* · [`dailyftlk`](https://www.ft.lk/columns/Premier-Harini-s-gaffe-and-JVP-led-NPP-Govt-s-damage-control-efforts/4-780290) · `en`
-
-While there are stresses and strains within the Government and party ranks, the SupremeSAT incident has actually promoted greater solidarity in the Government. At least for the time being! Whatever the feelings towards Harini, the JVP-led NPP cannot afford to throw her to the wolves at this juncture. It is a fact that President AKD and PM Harini are of great value to the party and Government. It is noteworthy that Bimal Rathnayake himself told the media that the President and Prime Minister are great “assets”
-
-The Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) Government of President Anura Kumara Dissanayake known as AKD, has been in the saddle for close upon a year now. Given the JVP-NPP’s 159 members of Parliament and the victories registered in the local authority polls, the chances of being dislodged from the saddle soon seem remote.
-
-...
-
-[Data](articles/d4dbc4e5.json)
 
 ---

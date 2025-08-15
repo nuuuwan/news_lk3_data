@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 05:18:12**
+As of **2025-08-15 05:32:20**
 
 ## Newspaper Stats
 
-*Scraped **70,567** Articles*
+*Scraped **70,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 720
 economynextcom | 4,304
-islandlk | 4,320
+islandlk | 4,328
 dailymirrorlk | 4,733
 dailyftlk | 4,954
 adalk | 6,814
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,567 articles have been extended.
+61,973 (87.8%) of 70,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -251,6 +251,44 @@ Time is ticking off. And it is ticking off on Sri Lanka’s human rights and acc
 ◼️
 
 [Data](articles/7f594832.json)
+
+---
+
+### Could the government motivate taxpayers?
+
+*2025-08-14 22:27:00* · [`islandlk`](http://island.lk/could-the-government-motivate-taxpayers/) · `en`
+
+Sri Lanka has been struggling with a number of economic complications pertaining to the country’s tax system. However, this characteristic of taxation has been challenging as it does not deliver the potential tax revenue while maintaining a satisfactory level of tax compliance. In recent years, this issue in taxation has been focused on with much debate among politicians, academic researchers, policymakers and practitioners. Yet, every government has been compelled to experience this challenge that is detrimental to the fiscal operation of the government, fairness of income distribution, efficiency, smooth economic stability and transparency.
+
+...
+
+[Data](articles/b81fabe5.json)
+
+---
+
+### India Fest 2025 to bring vibrant Indian culture to Havelock City Mall
+
+*2025-08-14 22:26:00* · [`islandlk`](http://island.lk/india-fest-2025-to-bring-vibrant-indian-culture-to-havelock-city-mall/) · `en`
+
+Havelock City Mall, in collaboration with the Swami Vivekananda Indian Cultural Centre, High Commission of India, Colombo, proudly presents India Fest 2025 — a captivating three-day cultural celebration curated in honour of Indian Independence Day. From Friday, August 15th to Sunday, August 17th, 2025, between 10:00 AM and 10:00 PM, the Ground Floor Atrium will come alive with the rich tapestry of Indian heritage, offering visitors an immersive experience of its traditions, artistry, and flavours. This vibrant festival also reaffirms Havelock City Mall’s enduring connection with the Indian community and its strong partnerships with cultural institutions in Sri Lanka.
+
+...
+
+[Data](articles/542ec576.json)
+
+---
+
+### Aitken Spence begins Q1 FY2025/26 on a strong note, reporting an EBITDA of Rs. 4.1 Bn
+
+*2025-08-14 22:24:00* · [`islandlk`](http://island.lk/aitken-spence-begins-q1-fy2025-26-on-a-strong-note-reporting-an-ebitda-of-rs-4-1-bn/) · `en`
+
+Aitken Spence PLC, a leading conglomerate with a diverse regional presence, recorded a strong EBITDA of Rs. 4.1 billion for the first quarter ended 30 June 2025. EBITDA reflects the Group’s earnings prior to interest expenses, taxation, depreciation, amortisation, and foreign exchange gains or losses, but incorporates the share of profits from equity-accounted investees. This reflects a 7% year-on-year increase, underscoring the Group’s strong operational performance despite challenging external conditions.
+
+The Group’s Maritime & Freight Logistics sector led a strong performance, recording a PBT of Rs. 1.05 billion. While the Group’s freight companies were impacted by reduced volumes and margins, the sector’s integrated logistics operations witnessed strong momentum, supported by increased utilisation of the newly commissioned warehouse facility. The Group’s maritime companies also posted steady improvements, contributing to the sector’s overall resilience and growth.
+
+...
+
+[Data](articles/67dd5d8b.json)
 
 ---
 
@@ -1749,67 +1787,5 @@ The renovations of the complex received cabinet approval, and is taking place af
 ...
 
 [Data](articles/9b5d5e94.json)
-
----
-
-### Unidentified body found floating in Mahaweli River
-
-*2025-08-14 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111459/unidentified-body-found-floating-in-mahaweli-river) · `en`
-
-An unidentified body has been found floating in the Mahaweli River in the Polgolla area, within the Kandy Police Division.
-
-Based on information received by the Kandy Police, investigations have been launched.
-
-According to the police, the body was in a highly decomposed state and the deceased was wearing a blue T-shirt and blue denim pants.
-
-The body has been placed in the morgue of the Kandy Hospital.
-
-◼️
-
-[Data](articles/db0a3db5.json)
-
----
-
-### கவர்ச்சிப் பெண் சகாப்தம்
-
-*2025-08-14 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/கவர்ச்சிப்-பெண்-சகாப்தம்/53-362898) · `ta`
-
-டெய்லர் ஸ்விஃப்ட்டின் கவர்ச்சிப் பெண் சகாப்தம்! வரவிருக்கும் ஆல்பம் கலைப்படைப்பின் முதல் பார்வையில் பாப் ஐகான் பிரமிக்க வைக்கிறார்.
-
-டெய்லர் ஸ்விஃப்ட் தனது புதிய ஆல்பமான தி லைஃப் ஆஃப் எ ஷோகேர்ளுடன் இணைந்து தனது வரவிருக்கும் ஆல்ப கலைப்படைப்பின் முதல்   படங்களை வெளியிட்டுள்ளார்.
-
-14 முறை கிராமி விருது பெற்ற 35 வயதான பாடகி, ஆல்பம் அறிவிப்புடன் பகிரப்பட்ட மெல்லிய இறகுகள் கொண்ட ஆடைகளில் பரபரப்பாகத் தெரிந்தார்.
-
-தனது 12வது ஸ்டுடியோ ஆல்பம் பற்றிய செய்தியை டெய்லர் இந்த வார தொடக்கத்தில் முதலில் வெளியிட்டார், அதே நேரத்தில் காதலன் டிராவிஸ் கெல்ஸின் நியூ ஹைட்ஸ் பாட்காஸ்டில் தனது வரவிருக்கும் தோற்றத்தை கிண்டல் செய்தார்.
-
-அவரது நியூ ஹைட்ஸ் எபிசோட் திரையிடப்பட்ட அதே வேளையில், ரெட் பாடகி தி லைஃப் ஆஃப் எ ஷோகேர்ளுக்கான அதிகாரப்பூர்வ ஆல்ப அட்டையை புதன்கிழமை, வெளியிட்டார்.
-
-தனது 11வது ஸ்டுடியோ ஆல்பமான தி டார்ச்சர்டு போயட்ஸ் டிபார்ட்மென்ட் வெளியான ஒன்றரை ஆண்டுகளுக்குப் பிறகு, அக்டோபர் 3 ஆம் திகதி ஆல்பம் வெளியிடப்படும் என்பதை அவர் உறுதிப்படுத்தினார்.
-
-...
-
-[Data](articles/bdbfcbf9.json)
-
----
-
-### කණ්ඩලමේ හැඩකාරයාට පිං අනුමෝදනා කරයි
-
-*2025-08-14 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213358) · `si`
-
-මාස හතරකට අධික කාලයක් කණ්ඩලම වැව ඉස්මත්තේ වෙඩි වැදීමකින් තුවාල ලබා සිට ජීවිතයට සමුදුන් 'කණ්ඩලමේ හැඩකාරයා' නමින් හඳුන්වනු ලැබූ වනඅලියා වෙනුවෙන් පිං අනුමෝදනාවක් සිදුකර තිබේ.
-
-අද (14) පෙරවරුවේ සිට විශාල ප්‍රදේශවාසීන් පිරිසක් වන අලියාගේ මළ සිරුර දැක බලා ගැනීම සඳහා එහි පැමිණ සිටි අතර ඔවුන් දැඩි සංවේගයට පත් වී සිටි බව අප වාර්තාකරු පැවසීය.
-
-අනතුරුව රන්ගිරි දඹුලු වළගම්බා මහ පිරිවනේ නියෝජ්‍ය පරිවෙනාධිපති නිකපිටියේ සුනන්ද ස්වාමීන් වහන්සේ ඇතුළු භික්ෂූන් වහන්සේලා පිරිසක් එම ස්ථානයට වැඩම කොට ආගමික වතාවත් සිදුකර පාංශකූල කටයුතු සිදුකරන්නට විය.
-
-මතක වස්ත්‍ර පූජාකොට පැන් වඩා මියගිය 'කණ්ඩලමේ හැඩකාරයා'ට බෞද්ධාගමික කටයුතු අනුව නිවන් සුව ප්‍රාර්ථනා කිරීමද මෙහිදී සිදුකර තිබේ.
-
-මෙම වනඅලියාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු අද (14) සිදුකිරීමට නියමිතව තිබේ.
-
-මිට වසරකට ඉහතදී මුලින්ම මෙම අලියාට වෙඩි වැදී සිටියදී වනජීවී නිලධාරීන් ප්‍රතිකාර කොට පසුව වනයට මුදා හැර තිබිණු අතර මාස කිහිපයකට පසු නැවතත් තුවාල සුව නොවී වැව ඉස්මත්තට පැමිණි විට ජනතාව ආහාර ලබාදෙමින් රැක බලාගත්තේය.
-
-...
-
-[Data](articles/e5935af7.json)
 
 ---

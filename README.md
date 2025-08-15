@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 17:05:57**
+As of **2025-08-15 17:17:37**
 
 ## Newspaper Stats
 
-*Scraped **70,685** Articles*
+*Scraped **70,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,822
 adaderanalk | 8,826
-tamilmirrorlk | 10,413
+tamilmirrorlk | 10,414
 virakesarilk | 11,749
 adaderanasinhalalk | 12,174
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,685 articles have been extended.
+61,973 (87.7%) of 70,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### “இரத்தினக்கல், ஆபரணச் சந்தையை வெற்றிகொள்வோம்”
+
+*2025-08-15 16:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-ஆபரணச்-சந்தையை-வெற்றிகொள்வோம்/175-362981) · `ta`
+
+இலங்கை இரத்தினக்கல் மற்றும் ஆபரணங்கள் தொடர்பில் சர்வதேசப் புகழ் பெற்றிருந்த போதிலும், எதிர்பார்த்த அளவிற்கு அதன் ஏற்றுமதி வளர்ச்சி அடையவில்லை என்றும், எனவே சர்வதேச இரத்தினக்கல் மற்றும் ஆபரணச் சந்தையை வெற்றி கொள்ளும் வகையில் நிலையான கொள்கைகளை வகுக்க அரசாங்கம் நடவடிக்கை எடுக்கும் என்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+இலங்கையின் இரத்தினக்கல் மற்றும் ஆபரணத் துறையை சர்வதேசத்திற்கு எடுத்துச் செல்லும் நோக்குடன், "Gem City Ratnapura- 2025" எனும் தலைப்பில் 2025 ஓகஸ்ட் 15, 16, மற்றும் 17 ஆகிய மூன்று நாட்கள் பெல்மடுல்ல கிராண்ட் சில்வரே விடுதியில் நடைபெறும் சர்வதேச இரத்தினக்கல் மற்றும் ஆபரணக் கண்காட்சி 2025-இன் தொடக்க விழாவில் உரையாற்றும்போதே பிரதமர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/20450e89.json)
+
+---
 
 ### කොලරාඩෝවේ හාවුන්ගේ හිස මත 'අං'  වර්ධනය වෙයි
 
@@ -1811,23 +1825,5 @@ She also commended the Sri Lankan Government for its collaborative and construct
 ...
 
 [Data](articles/fe0d053a.json)
-
----
-
-### Chamber of Marine Industries of Sri Lanka holds AGM, charts course for future growth
-
-*2025-08-15 05:32:41* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-of-Sri-Lanka-holds-AGM-charts-course-for-future-growth/34-780308) · `en`
-
-From left: CMISL Treasurer Akalanka Rathnayake, Ambassador of the Republic of Turkey to Sri Lanka Semih Lütfü Turgut, CMISL Chairman Indhra Kaushal, Ministry of Industry and Entrepreneurship Development Additional Secretary S.W.C. Jayamini and Assistant Director B. Kunalini
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) convened its third Annual General Meeting (AGM) at the Cinnamon Grand last week. This gathering marked a significant milestone in the nation’s maritime journey, uniting industry leaders, experts and visionaries.
-
-At the heart of the AGM were the appointments that will shape the Chamber’s course in the year ahead, Indhra Kaushal a seasoned industry stalwart, was re -appointed Chairman for the 2025-2026 term. His leadership is expected to guide Sri Lanka’s marine sector toward renewed growth and competitiveness in the global arena.
-
-Ambassador of the Republic of Türkiye to Sri Lanka Semih Lütfü Turgut attended the AGM as the chief guest.
-
-...
-
-[Data](articles/59b10911.json)
 
 ---

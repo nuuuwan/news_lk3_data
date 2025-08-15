@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 18:57:05**
+As of **2025-08-15 19:13:51**
 
 ## Newspaper Stats
 
-*Scraped **70,705** Articles*
+*Scraped **70,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 6,822
 adaderanalk | 8,829
 tamilmirrorlk | 10,414
 virakesarilk | 11,751
-adaderanasinhalalk | 12,178
+adaderanasinhalalk | 12,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,705 articles have been extended.
+61,973 (87.6%) of 70,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### ස්වීඩනයේ මුස්ලිම් පල්ලියක් අසල වෙඩි තැබීමක්
+
+*2025-08-15 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213417) · `si`
+
+ස්වීඩනයේ ඔරෙබ්‍රෝ නගරයේ මුස්ලිම් පල්ලියක් අසල අද (15) වෙඩි තැබීමක් සිදුව තිබේ.
+
+ඉන් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව එරට මාධ්‍ය වාර්තා කළේය.
+
+අදාළ පුද්ගලයින් දෙදෙනා පල්ලියෙහි යාඥාවෙන් පසු ඉන් පිටතට පැමිණි අවස්ථාවේ නාඳුනන තුවක්කුකරුවෙකු විසින්  මෙම වෙඩි තැබීම සිදු කර ඇත.
+
+මෙම වසරේම පෙබරවාරි මාසයේ දී ස්ටොක්හෝම් සිට කිලෝමීටර් 200ක් (සැතපුම් 125ක්) බටහිරින් පිහිටි ඔරෙබ්‍රෝහි සිදු වූ වෙඩි තැබීමකින් සිසුන් සහ ගුරුවරුන් දස දෙනෙකු මිය ගිය අතර, එය ස්වීඩනයේ මාරාන්තිකම තුවක්කු ප්‍රහාරය බවට පත්විය.
+
+◼️
+
+[Data](articles/8c23a642.json)
+
+---
+
+### අදානිට වෙන් කළ ඉඩම් නැවත ටෙන්ඩර් කිරීමට පියවර
+
+*2025-08-15 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213416) · `si`
+
+ඉන්දියාවේ අදානි සමාගම වෙත මන්නාරම් සුළං විදුලි බලාගාර ව්‍යාපෘති සඳහා වෙන්කළ ඉඩම් නැවත ටෙන්ඩර් කැඳවා නව ආයෝජකයින්ට ලබා දීමට පියවර ගන්නා බව විදුලි බල හා බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පවසයි.
+
+අද (15) ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති මන්නාරමේ විදුලි ජනනය සම්බන්ධව විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ විදුලිබල හා බලශක්ති අමාත්‍ය ආචාර්ය කුමාර ජයකොඩි මහතා,
+
+"මන්නරාම් දූපතේ කොටස් දෙකක් තිබුණා එකක් මෙගාවෝට් 250ක් සහ පුනරීන්වල මෙගාවෝට් 234ක් විදිහට. ඒකෙන් එගොල්ලෝ ඉවත් වුණා. අපි කල්පනා කරන්නේ නැවත අවශ්‍යතාවය මත ටෙන්ඩර්වලට ගිහිල්ලා ටෙන්ඩර් හරහා ඒ අයට ප්‍රධානය කරන්න. එතැනදි අදානි සමාගමට හෝ ඕනෑම සමාගමකට ඉදිරිපත් වෙන්න පුළුවන්. සාර්ථකත්වය සහ අඩුම මිල ගණනකට තමා අපි දෙන්නේ..."
+
+මෙහිදී අදානි සමාගම විසින් ඉදිකිරීම් සඳහා වැය වූ මූලික මුදල රජයෙන් ඉල්ලා ඇති බව පළවන වාර්තා සම්බන්ධවද අමාත්‍යවරයා අදහස් දැක්වීය.
+
+...
+
+[Data](articles/ae5a5734.json)
+
+---
 
 ### නව පොලිස්පති ජනපති හමුවෙයි
 
@@ -1795,47 +1833,5 @@ Leader of the Opposition Sajith Premadasa, who was also present at the occasion,
 ◼️
 
 [Data](articles/42530927.json)
-
----
-
-### Seven suspects arrested over fatal assault in Seeduwa
-
-*2025-08-15 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111488/seven-suspects-arrested-over-fatal-assault-in-seeduwa) · `en`
-
-Five individuals suspected to be involved in the fatal assault of a man in Seeduwa, along with two others who allegedly assisted them, have been arrested yesterday (14) by the Seeduwa Police.
-
-The arrests were made within the Dummalasuriya police division, and police also took into custody three machetes during the operation.
-
-According to police, the suspects are residents of Seeduwa, aged 17, 18, 21, 25, 27, and 44.
-
-They are scheduled to be presented before the Negombo Magistrate’s Court today (15).
-
-Seeduwa Police had received information that a group of individuals attacked a man in the Iriyagahalanda area using sharp weapons on Tuesday night.
-
-The victim, who sustained serious injuries, was admitted to the Negombo Hospital, where he later succumbed to his injuries. He was a 40-year-old man.
-
-◼️
-
-[Data](articles/16a25145.json)
-
----
-
-### Man dies after being hit by express train in Kalutara
-
-*2025-08-15 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111487/man-dies-after-being-hit-by-express-train-in-kalutara) · `en`
-
-An individual has died after being hit by an express train traveling from Maradana to Beliatta.
-
-Police stated that the incident occurred last night (14) near the 23rd mile post on the Colombo–Beliatta railway line, within the Kalutara North police division.
-
-Investigations have been initiated by the Kalutara North Police based on information received regarding the incident.
-
-The identity of the deceased person has not yet been established.
-
-The body has been placed at the Nagoda Hospital, and further investigations are being carried out by the Kalutara North Police.
-
-◼️
-
-[Data](articles/191986ce.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 10:50:20**
+As of **2025-08-15 11:07:00**
 
 ## Newspaper Stats
 
-*Scraped **70,618** Articles*
+*Scraped **70,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,818
 adaderanalk | 8,816
-tamilmirrorlk | 10,389
+tamilmirrorlk | 10,390
 virakesarilk | 11,742
-adaderanasinhalalk | 12,154
+adaderanasinhalalk | 12,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,618 articles have been extended.
+61,973 (87.8%) of 70,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### பம்பலப்பிட்டியில் ஒரு கோடி ரூபாய் மாயம்
+
+*2025-08-15 10:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-ஒரு-கோடி-ரூபாய்-மாயம்/175-362953) · `ta`
+
+பம்பலப்பிட்டியில் உள்ள ஒரு பணப் போக்குவரத்து நிறுவனத்திற்குச் சொந்தமான வேனில் இருந்து ரூ.10 மில்லியனுக்கும் அதிகமான மதிப்புள்ள பணப் பை காணாமல் போனதாக பம்பலப்பிட்டி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+அந்தப் பணத்தில் ரூ.10,000,000 செல்லுபடியாகும் நாணயம், ரூ.6,000 சேதமடைந்த நோட்டுகள் மற்றும் ரூ.390,000 மதிப்புள்ள அமெரிக்க டாலர் ரூ.1,300 ஆகியவை அடங்கும் என்றும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+
+வேனில் 15 பைகள் பணம் கொண்டு செல்லப்பட்டதாகவும், அவற்றில் 14 பைகள் ஒப்படைக்கப்பட்டதாகவும் பொலிஸ்  விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/c53e86a6.json)
+
+---
+
+### කීරි සම්බා හිඟයක් ?  විසඳුමක් නැත්නම් ආදේශන ආනයනයට තීරණයක්
+
+*2025-08-15 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213390) · `si`
+
+කීරි සම්බා සහල් හිඟයක් මෙරට තුළ කෘතීමව ඇති කිරීමට ඇතැම් පිරිස් කටයුතු කරමින් සිටින බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිත හා සමුපාකාර අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+
+ඔහු පවසන්නේ ඊට විසඳුමක් නොලැබුණහොත් කීරි සම්බා ආදේශන සහල් ආනයනය කිරීමට තීරණය කර ඇති බවය.
+
+"සහල් වෙළෙඳපොළේ ප්‍රශ්නයක් තියෙනවා නම් කීරි සම්බාවල අඩුවක් විතරයි තියෙන්නේ. ඒ අනුව ගේනවානම් ගේන්න තීරණය කරලා තියෙන්නේ කීරි සම්බා ආදේශන ප්‍රමාණයක් විතරයි.
+
+නමුත් අපි තවම අවසන් තීරණය අරන් නෑ. මොකද මේ යල කන්නය කැපෙන නිසා. හැබැයි නොවැම්බර්, දෙසැම්බර්, ජනවාරි වෙනකොට කීරි සම්බා හිඟය තවදුරටත් උග්‍ර කරන්න හදනවානම් කීරි සම්බා ආදේශන 'GR11' කියන සහල් මෙට්‍රික් ටොන්  40,000ක් ගේන්න තීරණය අරන් තියෙනවා. එය ක්‍රියාත්මක කර නෑ.
+
+අපි හිතනවා පොළොන්නරුවේ ගබඩාවල විතරක් මෙට්‍රික් ටොන් 85,000ක් තියෙනවා කිරී සම්බා විතරක්. ඒ ටික කොටලා මාර්කට් එකට දැම්මොත් මේක විසඳෙයි. නැතිවුනොත් අපිට කීරි සම්බා ගේන්න වෙයි.
+
+අනෙක් සහල් ගේන්න අවශ්‍යතාවක් දැනට නෑ. මේ යල කන්නයේ වී අස්වැන්න ගිය කන්නයට වඩා වැඩිවෙලා තියෙන්නේ. වගාකළ ප්‍රමාණයත් හෙක්ටයාර 80,000කින් වැඩිවෙලා තියෙන්නේ.
+
+...
+
+[Data](articles/a56fb170.json)
+
+---
+
+### මෙරට සිසුන් 30කට පශ්චාද් සහ ආචාර්ය උපාධි සඳහා චීනයෙන් ශිෂ්‍යත්ව
+
+*2025-08-15 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213389) · `si`
+
+2025/2026 අධ්‍යයන වර්ෂය සඳහා චීන රජය විසින් මෙරට ශිෂ්‍ය ශිෂ්‍යාවන් 30දෙනෙකු සඳහා පශ්චාද් උපාධි සහ ආචාර්ය උපාධි සඳහා පූර්ණ ශිෂ්‍යත්ව ලබා දී තිබේ.
+
+කොළඹ පිහිටි චීන තානාපති කාර්යාලයේ අදාළ ශිෂ්‍යත්ව පිරිනැමීමේ නිල උත්සවයට සහභාගී වෙමින් අධ්‍යාපන හා උසස් අධ්‍යාපන ‍නියෝජ්‍ය අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න මහතා පැවසීය.
+
+2025 වර්ෂය වනවිට සිසුන් 165කට අධික ප්‍රමාණයක් මෙම ශිෂ්‍යත්ව වැඩසටහනින් ප්‍රතිලාභ ලබා තිබේ.
+
+ඉංජිනේරු තාක්ෂණය, වෛද්‍ය විද්‍යාව, කෘෂිකර්මාන්තය, අධ්‍යාපනය, කළමනාකරණය සහ කලා යන ක්ෂේත්‍රවලින් එම ශිෂ්‍යයත්ව හිමිව ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/310314f3.json)
+
+---
 
 ### நூரளையில்  நூலிழையில் தப்பிய பயணிகள்
 
@@ -1741,65 +1797,5 @@ In the above context, estimating the economic cost for Sri Lanka, including an a
 ◼️
 
 [Data](articles/596ff468.json)
-
----
-
-### 30 Sri Lankan students receive Chinese govt scholarships
-
-*2025-08-14 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111470/30-sri-lankan-students-receive-chinese-govt-scholarships) · `en`
-
-A total of 30 Sri Lankan students have received scholarships to undertake higher education in China.
-
-Accordingly, the Chinese Embassy in Sri Lanka held an award ceremony for the 2025-2026 academic year Chinese Government Scholarship.
-
-Deputy Minister of Education and Higher Education Madhura Senevirathne has praised the Chinese government’s continued support for Sri Lanka’s educational development through scholarship programs.
-
-He said this year’s scholarships cover a wide range of disciplines, including engineering, medicine, and agriculture, providing critical support for cultivating multidisciplinary talent in Sri Lanka.
-
-He expressed the hope that the students studying in China will diligently pursue their studies and become bridges for cooperation between the two countries upon their return.
-
-...
-
-[Data](articles/c03def9e.json)
-
----
-
-### Sri Lanka stocks close down; PickMe, banks and financials boost turnover
-
-*2025-08-14 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pickme-banks-and-financials-boost-turnover-236331/) · `en`
-
-ECONMYNEXT – The Colombo Stocks Exchange closed down on Thursday, data on its site showed.
-
-The ASPI was down 0.23 percent, or 46.83 points, at 19,928.67; while the S&P SL20 was down 0.60 percent, or 35.06 points, at 5,780.58.
-
-Market turnover was 7 billion rupees, to which a transaction on Digital Mobility Solutions (PickMe) contributed 1.4 billion rupees. The stock closed up 17.25 rupees at 123.
-
-Bank and diversified financial stocks also contributed significantly to the day’s turnover.
-
-Lanka Ventures closed up 13.10 rupees at 87.10 and L V L Energy Fund closed up 90 cents at 9.40.
-
-Top negative contributors to the ASPI were Hayleys which was down 7.25 rupees at 177.75, Sampath Bank down 2.75 rupees at 140.25, Central Finance down 4.75 rupees at 294.25, Cargills (Ceylon) down 14.75 rupees at 705, and NDB down 1.50 rupees at 141.25.
-
-Sampath Bank profits fell 17 percent in the June 2025 quarter to 6.7 billion rupees, due to higher operating expenses, interim accounts showed. (Colombo/Aug14/2025)
-
-◼️
-
-[Data](articles/867c3cdd.json)
-
----
-
-### புத்தளம் வனப்பகுதியில் தீ
-
-*2025-08-14 15:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-வனப்பகுதியில்-தீ/175-362916) · `ta`
-
-புத்தளம், அட்டவில்லாவ வனவிலங்கு சரணாலயத்தில் ஏற்பட்ட திடீர் தீ விபத்தில் 100 ஏக்கருக்கும் அதிகமான நிலம் முற்றிலுமாக எரிந்து நாசமாகியுள்ளதாக புத்தளம் அனர்த்த முகாமைத்துவ உதவிப் பணிப்பாளர் காற்றாலை துறை தலைவர் நிஷாந்த பண்டார தெரிவித்தார்.
-
-மதுரகம கிராமத்தின் திசையில் இருந்து தீ விபத்து ஏற்பட்டது, மேலும் தீ சரணாலயம் முழுவதும் பரவியதால், புத்தளம் தம்பபன்னி கடற்படை தளம் மற்றும் புத்தளம் நகராட்சி மன்ற தீயணைப்புத் துறை அதிகாரிகள் அதை அணைக்க அதிக முயற்சி எடுக்க வேண்டியிருந்தது.
-
-தீ பரவியதால், சுற்றியுள்ள கிராமங்களையும் அருகிலுள்ள தம்பபன்னி கடற்படைத் தளத்தையும் பாதுகாக்க மாலுமிகளும் நகராட்சி மன்ற தீயணைப்புத் துறையும் கடுமையாக உழைத்தனர்.
-
-◼️
-
-[Data](articles/78e1f7aa.json)
 
 ---

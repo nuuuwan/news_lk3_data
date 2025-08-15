@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 00:26:01**
+As of **2025-08-16 00:37:52**
 
 ## Newspaper Stats
 
-*Scraped **70,737** Articles*
+*Scraped **70,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 722
 economynextcom | 4,319
 islandlk | 4,330
 dailymirrorlk | 4,733
-dailyftlk | 4,975
+dailyftlk | 4,978
 adalk | 6,825
 adaderanalk | 8,833
 tamilmirrorlk | 10,416
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,737 articles have been extended.
+61,973 (87.6%) of 70,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Indian High Commission celebrates 79th Independence Day
+
+*2025-08-16 00:12:54* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commission-celebrates-79th-Independence-Day/56-780368) · `en`
+
+The 79th Independence Day of India was celebrated with great fervour in different parts of Sri Lanka yesterday. The main event in Colombo was held at ‘India House,’ the official residence of High Commissioner of India. High Commissioner of India to Sri Lanka Santosh Jha hoisted India’s National Flag and inspected the Guard of Honour. He also read excerpts of the address by President of India to the nation on the eve of the 79th Independence Day.
+
+Several cultural events added vibrancy to the celebrations, with the Sri Lanka Navy Band delivering melodious tunes embodying valour and patriotism, while students of the Swami Vivekananda Cultural Centre performed famous patriotic songs.
+
+High Commissioner and officers of High Commission of India also paid homage at the Indian Peace Keeping Force (IPKF) Memorial to the memory of the Indian soldiers of IPKF who made the supreme sacrifice defending peace and unity of Sri Lanka.
+
+...
+
+[Data](articles/280837ee.json)
+
+---
+
+### New think-tank on Asian geopolitics, sustainability and peace launching on Wednesday
+
+*2025-08-16 00:11:18* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-on-Asian-geopolitics-sustainability-and-peace-launching-on-Wednesday/56-780367) · `en`
+
+A new think tank, the Asian Geopolitics, Sustainability and Peace Council (AGSPeC), will be launched on 20 August at the Sri Lanka Foundation Institute, Colombo.
+
+AGSPeC will focus on geopolitical issues, peace, and sustainable development across Asia. It will bring together scholars, diplomats, policymakers, and civil society representatives to produce research, policy recommendations, and collaborative initiatives addressing geopolitical, security, and environmental challenges. AGSPeC is led by President Prof. Mohan Munasinghe, with a team of specialists in strategic affairs, diplomacy, and sustainable development.
+
+“The goal is to facilitate informed dialogue that bridges political divides and promotes Sri Lanka’s strategic interests in a rapidly changing world,” said Prof. Munasinghe. “We believe that constructive engagement between independent institutions, policymakers, a well-informed public, and the international community is essential for a stable and prosperous Sri Lanka.”
+
+...
+
+[Data](articles/a74c82ae.json)
+
+---
 
 ### 7th Fleet’s USS Santa Barbara in maiden call to Colombo
 
@@ -155,6 +187,22 @@ In one lifetime, we encounter innumerable people. They touch us in many ways. We
 ...
 
 [Data](articles/47043cc9.json)
+
+---
+
+### Lessons to be learnt from death of Bhathiya, the wild elephant
+
+*2025-08-15 23:49:01* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-to-be-learnt-from-death-of-Bhathiya-the-wild-elephant/4-780352) · `en`
+
+Bhathiya was sighted carrying several gunshot wounds – Pic credit: Saranga Deva de Alwis
+
+On 15 July, the wild elephant known as Bhathiya succumbed to multiple injuries it had sustained in the wild. It had been shot at and wounded in early May. During early July, its injuries had worsened, and it had been treated by wildlife department veterinarians.
+
+During this time, there was a media frenzy going on, with politicians ‘basking’ in the suffering that the poor animal was going through, armchair elephant SM experts giving advice and updates, and the wildlife officials scrambling to do damage control. It was almost like a choreographed social media performance that was being staged to a pathetic, gullible public, who were lapping up what was dished out with great interest.
+
+...
+
+[Data](articles/feac23dc.json)
 
 ---
 
@@ -1753,69 +1801,5 @@ The Minister explained that if the shortage continues and worsens in the months 
 ◼️
 
 [Data](articles/178471df.json)
-
----
-
-### බනා මන්ත්‍රී ඝාතනයේ සැකකරු සියල්ල වමාරයි
-
-*2025-08-15 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213393) · `si`
-
-හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී ශාන්ත මුදුන්කොටුව හෙවත් 'බනා මන්ත්‍රී' නැමැත්තා ඝාතනය සම්බන්ධයෙන් වැදගත් තොරතුරු රැසක් බස්නාහිර උතුර අපරාධ කොට්ඨාසය මඟින් අනාවරණ කරගෙන තිබේ.
-
-ඒ අත්අඩංගුවට ගත්, අදාළ ඝාතනයේ මෝටර් රථය පැදවූ රියදුරාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදීය.
-
-ලලිත් කන්නන්ගර හෙවත් 'බස් ලලිත්' අදාළ ඝාතනය වෙනුවෙන් තමන්ට රුපියල් ලක්ෂ 3ක මුදලක් ලබාදෙන බවට පොරොන්දු වූයේයැයි ඔහු එහිදී පවසා තිබේ.
-
-බස් ලලිත් තමන් අමතා "ශාන්ත මගේ යාළුවා. ඒ වුණාට ඌට ගහන්න ඕනේ. ඌ රෙස්ටූරන්ට් එකක් හදනවා. ඒකට ඉන්ටර් ලොක් ගල් අල්ලන්න ඕන කියලා ලලිත් අයියා කිව්වා කියපන්. ඒකට ගෙනාපු බඩු බාන්න ඕනේ කියලා ශාන්තට කෝල් කරපන්. පස්සේ ලොකේෂන් එක එව්වම, එහෙම එන්න අමාරුයි, ඇවිල්ලා පාර පෙන්නන්න කියපන්. එහෙම ආවාම ගහපන්" කියලා මට ලලිත් අයියා කිව්වා" යනුවෙන් සැකකරු පොලිසිය හමුවේ අනාවරණ කර තිබුණි.
-
-එම උපදෙස් අනුව තමා 'බනා මන්ත්‍රී'ව ගෙන්වාගෙන ඔහු පසුපස හඹාගොස් සැලසුම ක්‍රියාත්මක කළ බව සැකකරු වැඩිදුරටත් පවසා තිබේ.
-
-එමෙන්ම වෙඩික්කරු සම්බන්ධයෙන් කිසිඳු තොරතුරක් තමන් නොදන්නා බවත් ඔහුව ප්‍රවාහනය කිරීම පමණක් සිදුකළ බවත් සැකකරු පවසා ඇති බව වාර්තා වේ.
-
-...
-
-[Data](articles/8f7f1181.json)
-
----
-
-### அம்பருடன் பஸ் நடத்துனர் கைது
-
-*2025-08-15 11:29:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பருடன்-பஸ்-நடத்துனர்-கைது/175-362959) · `ta`
-
-சுமார் ஐந்து மில்லியன் ரூபாய் மதிப்புள்ள 1 கிலோ 200 கிராம் அம்பருடன் ஒருவரை சந்தேகத்தின்  பேரில் கைது செய்துள்ளதாக திவுலப்பிட்டி பொலிஸார் தெரிவித்துள்ளனர்.
-
-கம்பஹா பகுதியில் பேருந்து நடத்துனராக பணிபுரியும் சந்தேக நபர், பேருந்தில் பணிபுரியும் போது பேருந்தில் பொதிகள் வைக்கும் பகுதியில் பயணி ஒருவர் பொதியை வைத்ததாகக் கூறப்படுகிறது.
-
-பேருந்து கம்பஹாவை அடைந்த பிறகு, அனைவரும் இறங்கினர், ஆனால் அலமாரியில் இருந்த பார்சலை சரிபார்த்தபோது, நடத்துனர் அது அம்பர் என்று அடையாளம் கண்டு பேருந்தின் பின்புறத்தில் உள்ள டிரங்கில் வைத்தார்.
-
-இரண்டு பேர் அவரிடம் வந்து பொதியை கேட்டனர், ஆனால் நடத்துனர் அதை அவர்களிடம் கொடுக்க மறுத்து அவர்களை விரட்ட முயன்றார்.
-
-பின்னர் அவர் அம்பர் ஸ்டாக்கை விற்க வாங்குபவரைத் தேடி இணையத்தில் ஒரு விளம்பரத்தை வெளியிட்டார்.
-
-அதன்படி, திவுலபிட்டிய பகுதியில் உள்ள ஒருவரிடம் விற்பனை செய்வதற்காக    அம்பரை எடுத்துச் சென்றபோது பொலிஸார் அவரைக் கைது செய்தனர்.
-
-◼️
-
-[Data](articles/262c598c.json)
-
----
-
-### பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக குழிதோண்டிபுதைப்பதற்காக  புதிய யூதகுடியேற்றங்கள் - இஸ்ரேலிய அமைச்சர் அறிவிப்பு
-
-*2025-08-15 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222596) · `ta`
-
-ஆக்கிரமிக்கப்பட்ட மேற்குகரையில் யூதகுடியேற்றவாசிகளிற்கான 3000க்கும் வீடுகளை அமைக்கவுள்ளதாக தெரிவித்துள்ள இஸ்ரேலின் தீவிரவலதுசாரி நிதியமைச்சர்  பெசெலெல் ஸ்மோட்டிரிச் இதன் மூலம் பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக புதைத்துவிடமுடியும் என தெரிவித்துள்ளார்.
-
-சர்வதேசத்தின் கடும் எதிர்ப்பு காரணமாக பல வருடங்களாக இடைநிறுத்தப்பட்டிருந்த ஜெரூசலேம் மற்றும் மாலே அடுமின் பகுதிகளிற்கு இடையிலான குடியேற்ற திட்டத்தை மீண்டும் முன்னெடுக்கவுள்ளதாக இஸ்ரேலின் நிதியமைச்சர் தெரிவித்துள்ளார்.
-
-இந்த பகுதியில் வீடுகளை அமைப்பது மேற்கு கரையை ஆக்கிரமிக்கப்பட்ட ஜெரூசலேத்திலிருந்து முற்றாக துண்டிக்கும்.
-
-இது பாலஸ்தீன அரசு என்ற எண்ணக்கருவை முற்றாக இல்லாமல் செய்யும் என தெரிவித்துள்ள இஸ்ரேலின் நிதியமைச்சர் அங்கீகரிப்பதற்கும் எதுவும் எவருமில்லை என தெரிவித்துள்ளார்.
-
-சர்வதேச சட்டங்களின் கீழ் குடியேற்றம் என்பது சட்டவிரோதமானதாக காணப்படுகின்றது. மேலும் இஸ்ரேல் பாலஸ்தீனத்திற்கு இடையிலான விவகாரத்தில் மிகவும் சர்ச்சைக்குரிய விடயமாக இது காணப்படுகின்றது.
-
-...
-
-[Data](articles/5ad5a967.json)
 
 ---

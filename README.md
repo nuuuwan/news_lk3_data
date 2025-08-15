@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 15:07:16**
+As of **2025-08-15 15:19:54**
 
 ## Newspaper Stats
 
-*Scraped **70,662** Articles*
+*Scraped **70,665** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
-colombotelegraphcom | 720
+colombotelegraphcom | 722
 economynextcom | 4,309
 islandlk | 4,330
 dailymirrorlk | 4,733
@@ -20,17 +20,37 @@ adalk | 6,822
 adaderanalk | 8,824
 tamilmirrorlk | 10,406
 virakesarilk | 11,748
-adaderanasinhalalk | 12,163
+adaderanasinhalalk | 12,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,662 articles have been extended.
+61,973 (87.7%) of 70,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### අම්බලන්ගොඩ සහ නවගමුවේ රථ වාහන සීමා කිරීමක්
+
+*2025-08-15 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213400) · `si`
+
+අම්බලන්ගොඩ සහ නවගමුව ඇසළ මහා පෙරහර වෙනුවෙන් රථ වාහන ගමනාගමනය සීමා කෙරෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් පැවසීය.
+
+මෙවර අම්බලන්ගොඩ ඓතිහාසික මෝදර දේවාලයේ ඇසළ මහා පෙරහර අද (15) දහවල් 2 සිට රාත්‍රී 8 දක්වා ද හෙට (16) රාත්‍රී 9 සිට අලුයම 3 දක්වා ගාල්ල කොළඔ ප්‍රධාන මාර්ගයේ වීථි සංචාරය කිරීමට නියමිතය.
+
+මේ අතර නවගමුවේ පුරාණ මහා පත්තිනි දේවාලයේ වාර්ෂික ඇසළ පෙරහැර හෙට (16) අනිද්දා (17) යන දෙදින පැවැත්වේ.
+
+මෙය අවිස්සාවේල්ල කොළඔ පරණ පාරේ හෙට (16) රාත්‍රී 9 සිට අලුයම 2.30 දක්වාත්, අනිද්දා (17) පෙ.ව. 6 සිට දහවල් 2 දක්වාත් වීථි සංචාරය කිරීමට නියමිතය.
+
+ඒ හේතුවෙන් එම මාර්ගයේ වෙලේ හංදිය හා රණාල හංදිය වසා තැබීමට කටයුතු කරන අතර, ඒ සඳහා විකල්ප මාර්ග භාවිතා කරන බව  පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+◼️
+
+[Data](articles/de0c352d.json)
+
+---
 
 ### குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்
 
@@ -283,6 +303,10 @@ The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands th
 சுகயீனம் காரணமாக கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வந்த ரத்வத்த இன்று (15) பிற்பகல் காலமானார்.
 
 கண்டி மாவட்டத்தில் இருந்து அரசியலில் நுழைந்த அவர், இறக்கும் போது  அவருக்கு வயது 57.
+
+ஐக்கிய மக்கள் சுதந்திரக் கூட்டணியைப் பிரதிநிதித்துவப்படுத்தும் மத்திய மாகாண சபை உறுப்பினராக அரசியலில் நுழைந்த   லொஹான் ரத்வத்த, பின்னர் கண்டி மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டு, இராஜாங்க அமைச்சர் மற்றும் பிரதி அமைச்சர் பதவிகளை வகித்தார்.
+
+திருமதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவின் நெருங்கிய உறவினரான  லொஹான் ரத்வத்த, மஹிந்த ராஜபக்ஷ அரசாங்கத்தில் பெருந்தோட்டத்துறை இராஜாங்க அமைச்சராகவும், பின்னர் மைத்திரிபால சிறிசேன தலைமையிலான நல்லாட்சி  அரசாங்கத்தில் சிறைச்சாலை மறுசீரமைப்பு இராஜாங்க அமைச்சராகவும் பணியாற்றினார்.
 
 ◼️
 
@@ -844,6 +868,18 @@ Preliminary investigations revealed that the bus driver had lost control of the 
 
 ---
 
+### The Lottery As Larceny
+
+*2025-08-15 09:27:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-lottery-as-larceny/) · `en`
+
+It all started with The “Hospital Lottery Board” Act of 10 January 1965. The declared objective of the HLB was to set up or improve State Hospitals. To the best of everyone’s knowledge, not a single new hospital was set up and none have been improved by this means during the past 52 years. But meanwhile the Lotteries have multiplied. There are accompanying Boards and Staff with National, Development and Airport Lotteries. Most hold weekly draws (not to mention the perennial Lotto). Numbering at least fifteen and, limited only by the availability of new and inane though novel, names: Mahajana, Mahapola, Govisetha, Shanida Wasana etc.  Ticket cost have inflated from the original =/50 cents to Rs 20/=.
+
+...
+
+[Data](articles/260d4d26.json)
+
+---
+
 ### වන්දනා නඩයක් රැගෙන ගිය බස් රථය අනතුරක - පිරිසක් රෝහලට
 
 *2025-08-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213387) · `si`
@@ -933,6 +969,16 @@ Journalists are rubbing elbows with holidaymakers from the “lower 48” states
 ◼️
 
 [Data](articles/ee9783c8.json)
+
+---
+
+### How S. Thomas’ College Mount Lavinia Preserved Western Classics In Sri Lankan Education
+
+*2025-08-15 09:02:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-s-thomas-college-mount-lavinia-preserved-western-classics-in-sri-lankan-education/) · `en`
+
+...
+
+[Data](articles/8476d56b.json)
 
 ---
 
@@ -1725,63 +1771,5 @@ Loan loss provisions fell to 4.1 billion rupees from 15.58 billion rupees last y
 ...
 
 [Data](articles/4ede8423.json)
-
----
-
-### Sri Lanka’s NDB net down 6-pct in June quarter
-
-*2025-08-14 22:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-ndb-net-down-6-pct-in-june-quarter-236393/) · `en`
-
-ECONOMYNEXT  – Profits at Sri Lanka’s NDB Bank fell 6 percent from a year ago to 2,447 million rupees in the June 2025 quarter, amid net interest income and fee growth and a decline in fair value gains, interim accounts show.
-
-NDB Bank group reported earnings of 5.75 rupees for the quarter. In the six months to June, NDB reported earnings of 10.55 rupees, on total profits of 4,488 million rupees.
-
-Interest income fell 1.9 percent to 21.55 billion rupees, interest expenses fell at a faster 3.8 percent to 12.975 billion rupees and net interest income grew 0.9 percent to 8.5 billion rupees.
-
-“Supported by the continued positive progress of the Sri Lankan economy – albeit several macro level headwinds stemming mostly from the global economic landscape – we are very pleased to witness the resurgence of much of our customers across retail and all business segments,” Chief Executive Kelum Edirisinghe said in a statement
-
-Impairment charges fell from 4.0 billion rupees to 1.84 billion rupees.
-
-...
-
-[Data](articles/de25e817.json)
-
----
-
-### ලංකාව ගෝලීය නව්‍යකරණ දර්ශකයේ ශක්තිමත්ව ස්ථානගත කිරීම ගැන දැනුම්වත්කිරීමක්
-
-*2025-08-14 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213377) · `si`
-
-විද්‍යා හා තාක්ෂණ අමාත්‍යාංශය යටතේ ඇති ජාතික නව්‍යකරණ නියෝජිතායතනයේ (NIA – National Innovation Agency) මෙහෙයවීම යටතේ, ගෝලීය නව්‍යකරණ දර්ශකයට (Global Innovation Index) අදාළ දත්ත අවශ්‍යතා පිළිබඳ උපදේශාත්මක රැස්වීමක්, විද්‍යා, තාක්ෂණ, අධ්‍යාපනික, සහ කාර්මික ආදී ක්ෂේත්‍ර නියෝජනය කරමින් රාජ්‍ය සහ පෞද්ගලික අංශවල ජ්‍යේෂඨ නිලධාරීන්ගේ සහභාගිත්වයෙන් අද (14) කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී පැවත්විණි.
-
-ප්‍රධාන පද්ධති 7ක් යටතේ දර්ශක 80ක් යොදා ගෙන රටවල නව්‍යකරණ කාර්ය සාධනය මනින ජාත්‍යන්තරව පිළිගත් ගෝලීය නව්‍යකරණ දර්ශකයෙහි ශ්‍රේණිගත කිරීම තුළ ශ්‍රී ලංකාවේ ස්ථානය ඉහළට ඔසවා තැබීම සඳහා සියලු පාර්ශ්වයන් දායක කර ගැනීම මෙහි අරමුණ වී ඇත.
-
-ඒ සඳහා ගෝලීය වශයෙන් මෙරට තරගකාරිත්වය ඉහළ නැංවීම, ආයෝජන ආකර්ෂණය කර ගැනීම මෙන්ම, දැනුම, තාක්ෂණය සහ ව්‍යවසායකත්වය සඳහා කේන්ද්‍රස්ථානයක් බවට පත් වීම ආදී කරුණු පිළිබඳව අවධානය යොමු තිබේ.
-
-...
-
-[Data](articles/2b6d7ac4.json)
-
----
-
-### More than 35 dead in flash floods on popular pilgrimage route in Himalayas
-
-*2025-08-14 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111483/more-than-35-dead-in-flash-floods-on-popular-pilgrimage-route-in-himalayas) · `en`
-
-At least 38 people have died after flash floods hit a village hosting Hindu pilgrims in Indian-administered Kashmir.
-
-The disaster took place in the remote village of Chositi in Kishtwar district, which is on a busy pilgrimage route to a famous shrine in the Himalayas.
-
-Videos shared online showed dramatic flood waters, vehicles being washed away and rescuers searching for survivors in damaged homes, as people cried in the streets - some caked in mud.
-
-Dozens of pilgrims have been evacuated to safety, but at least 50 people are feared missing, and a rescue operation is still underway.
-
-The floods were triggered by a cloudburst, officials said, with Federal Minister Jitendra Singh, who is also an MP from Jammu and Kashmir, saying it was on a “massive scale” and rescue teams were finding it difficult to reach the site.
-
-A road had been washed away, he said, and the weather was not safe enough for helicopters.
-
-...
-
-[Data](articles/03e2df35.json)
 
 ---

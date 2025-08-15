@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 06:36:34**
+As of **2025-08-15 07:17:31**
 
 ## Newspaper Stats
 
-*Scraped **70,588** Articles*
+*Scraped **70,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,814
 adaderanalk | 8,809
 tamilmirrorlk | 10,383
 virakesarilk | 11,742
-adaderanasinhalalk | 12,146
+adaderanasinhalalk | 12,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,588 articles have been extended.
+61,973 (87.8%) of 70,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### අද කාලගුණ අනාවැකිය
+
+*2025-08-15 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213379) · `si`
+
+අද (15) දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වෙයි.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ ඒ බව දැක්වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/12d7578e.json)
+
+---
 
 ### Salt producers urge enforcement of packaging law, release of 400 stalled containers
 
@@ -1785,21 +1801,5 @@ The renovations of the complex received cabinet approval, and is taking place af
 ◼️
 
 [Data](articles/3a87199b.json)
-
----
-
-### පාතාලයට සහාය දුන් දේශපාලනඥයින් හඳුනාගෙන ඇති බව පොලිස්පති කියයි
-
-*2025-08-14 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213359) · `si`
-
-පාතාලය හා මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ට සහාය දුන් දේශපාලනඥයින් මේ වනවිටත් හඳුනාගෙන ඇති බව පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
-
-ඔවුන්ට එරෙහිව ඉදිරියේදී නීතිමය ක්‍රියාමාර්ග ගන්නා බවත් පොලිස්පතිවරයා සඳහන් කළේය.
-
-37 වැනි පොලිස්පතිවරයා ලෙස ධුරයේ වැඩ ආරම්භ කරමින් ඔහු අද (14) මේ බව පැවසීය.
-
-◼️
-
-[Data](articles/f2ebac0c.json)
 
 ---

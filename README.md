@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 22:35:08**
+As of **2025-08-15 22:48:46**
 
 ## Newspaper Stats
 
-*Scraped **70,722** Articles*
+*Scraped **70,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,825
-adaderanalk | 8,831
+adaderanalk | 8,832
 tamilmirrorlk | 10,416
-virakesarilk | 11,756
-adaderanasinhalalk | 12,183
+virakesarilk | 11,758
+adaderanasinhalalk | 12,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,722 articles have been extended.
+61,973 (87.6%) of 70,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### பாகிஸ்தானில் ஹெலிகாப்டர் விபத்து – ஐந்து பேர் பலி
+
+*2025-08-15 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/222651) · `ta`
+
+வடமேற்கு பாகிஸ்தானின் கைபர் பக்தூன்க்வா மாகாணத்தில், மழையால் பாதிக்கப்பட்ட பகுதிகளுக்கு நிவாரணப் பொருட்களை கொண்டு சென்ற MI-17 ஹெலிகாப்டர் வெள்ளிக்கிழமை (15) விபத்துக்குள்ளானது.
+
+வடக்கு பாகிஸ்தானில் கடுமையான வானிலை காரணமாக பாதிக்கப்பட்ட மக்களுக்கு உதவி வழங்கிச் செல்லும் போதே இந்த ஹெலிகாப்டர் கட்டுப்பாட்டை இழந்ததாகவும், மோசமான வானிலைதான் விபத்துக்குக் காரணமாக இருக்கலாம் எனவும் வெளிநாட்டு ஊடகங்கள் தகவல் வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/de6468f4.json)
+
+---
+
+### 14 වැනි කබෝරිය තෙදිනක් පුරා අනුරාධපුරයේ දී
+
+*2025-08-15 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213422) · `si`
+
+ක්‍රියාශීලී බව හා සමගිය ප්‍රධාන කොට විනය ගරුකව ජීවිතය හැඩගැස්වීම බාල දක්ෂ ව්‍යාපාරයේ අරමුණ වන අතර අනුරාධපුර දිස්ත්‍රික්කය තුළ ක්‍රියාශීලීව බාල දක්ෂ ව්‍යාපාරය ඇත්නම් මීට වඩා යහපත් තත්ත්වයක් පාසල් දරුවන් අතර පැවතීමට ඉඩ ඇති බව උතුරු මැද පළාත් ආණ්ඩුකාර වසන්ත ජිනදාස මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ ශ්‍රී ලංකා බාල දක්ෂ මූලස්ථානය මගින් අනුරාධපුර දිස්ත්‍රික්කය කේන්ද්‍ර කර ගනිමින් සංවිධානය කළ දාහතර වන ජාතික කබෝරියට එක්වෙමිනි.
+
+විවිධ ක්‍රියාකාරකම් සඳහා දරුවන් යොමු කිරීම වෙනුවට අධ්‍යාපනය මතම රඳා පවතිමින් යාන්ත්‍රික දරුවෙකු බිහි කිරීමට දෙමව්පියන් උත්සහා දැරීම මගින් එය අනාගත ශ්‍රී ලංකාවට ඉතා හානිදායක විය හැකි බව ද පළාත් ආණ්ඩුකාරවරයා මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
+
+මෙවර පැවැත්වෙන 14 වන ජාතික කබෝරිය අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර ක්‍රීඩාංගනයේදී බාල දක්ෂකයින් දස දහසකගේ සහභාගිත්වයෙන් සංවිධානය කර තිබේ.
+
+'සොඳුරු ලොවක්' තේමාව අරමුණු කර ගනිමින් සංවිධානය කර ඇති මෙය අද (15) සිට 17 වැනිදා දක්වා තෙදිනක් පුරා පැවැත්වෙන අතර රතු මල, අත් වැඩ, චිත්‍ර හා ජන ගායනා ඇතුළු විවිධ ක්‍රියාකාරකම් රාශියකගෙන් සමන්විත වේ.
+
+◼️
+
+[Data](articles/9318a14f.json)
+
+---
+
+### மன்னார் போராட்டத்தை ஆதரித்து ஒன்று திரண்ட மன்னார் முஸ்லிம் மக்கள்
+
+*2025-08-15 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/222650) · `ta`
+
+மன்னார் மாவட்டத்தில் இடம் பெற்றும் காற்றாலை மின் கோபுரங்கள் அமைத்தல் மற்றும்  கனிய மணல் அகழ்வு உள்ளிட்ட செயற்திட்டங்கள் தொடர்பில் உறுதியான தீர்வு கிடைக்கும் வரை போராட்டம் தொடரும் என தெரிவித்து 13 ஆவது  நாளாக  வெள்ளிக்கிழமை (15) போராட்டம் முன்னெடுக்கப்பட்டு வந்த நிலையில், மதியம் குறித்த போராட்டத்திற்கு ஆதரவு தெரிவித்து மன்னார் முஸ்லிம் மக்களும் கலந்து கொண்டனர்.
+
+வெள்ளிக்கிழமை(15) மதியம் நடைபெற்ற ஜும்மா தொழுகை நிறைவடைந்த நிலையில்,முஸ்லிம் மக்கள் குறித்த போராட்டத்தில் கலந்து கொண்டு குறித்த போராட்டத்திற்கு வலு சேர்க்கும் வகையில் தமது ஆதரவை வழங்கியுள்ளனர்.
+
+மன்னார் நகர பிரதான சுற்றுவட்ட பகுதியில் 13 வது நாளாக மக்களினால் குறித்த போராட்டம் தொடர்ச்சியாக சுழற்சி முறையில் இடம் பெற்று வருகிறது.
+
+அண்மையில் இடம் பெற்ற ஜனாதிபதியுடனான சந்திப்பில் காற்றாலை செயற்திட்டங்களை ஒரு மாத காலம் நிறுத்தி வைப்பதாக ஜனாதிபதியினால் வாக்குறுதி வழங்கப்பட்ட போதிலும் உறுதியான முடிவு வரும் வரை போராட்டத்தை கைவிடப் போவதில்லை என போராட்டகாரர்கள் தெரிவித்துள்ள நிலையில் இன்றைய தினம் போராட்டம் இடம் பெற்றமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7ecad1ba.json)
+
+---
 
 ### பம்பலப்பிட்டியில் மாயமான பணம் கண்டுபிடிக்கப்பட்டது
 
@@ -87,6 +139,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/691c7eda.json)
+
+---
+
+### Trump heads to ‘high stakes’ Alaska summit with Putin on Ukraine
+
+*2025-08-15 21:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111508/trump-heads-to-high-stakes-alaska-summit-with-putin-on-ukraine) · `en`
+
+Donald Trump headed to Alaska on Friday for what he called a “high stakes” summit with Russia’s Vladimir Putin to discuss a ceasefire deal for Ukraine to help end the deadliest war in Europe since World War Two.
+
+Ukrainian President Volodymyr Zelenskiy, who was not invited to the talks, and his European allies fear Trump might sell out Ukraine by essentially freezing the conflict and recognising - if only informally - Russian control over one fifth of Ukraine.
+
+Trump sought to assuage such concerns as he boarded Air Force One, saying he would let Ukraine decide on any possible territorial swaps. “I’m not here to negotiate for Ukraine, I’m here to get them at a table,” he said.
+
+Both the U.S. and Russian presidents, due to meet at a Cold War-era air force base in Alaska’s largest city, are seeking wins from their first face-to-face talks since Trump returned to the White House.
+
+...
+
+[Data](articles/531f2fb6.json)
 
 ---
 
@@ -1763,85 +1833,5 @@ Last week, Donald Trump imposed tariffs totalling 50 per cent on India, includin
 ...
 
 [Data](articles/5ecced3a.json)
-
----
-
-### මෙරට සිසුන් 30කට පශ්චාද් සහ ආචාර්ය උපාධි සඳහා චීනයෙන් ශිෂ්‍යත්ව
-
-*2025-08-15 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213389) · `si`
-
-2025/2026 අධ්‍යයන වර්ෂය සඳහා මෙරට ශිෂ්‍ය ශිෂ්‍යාවන් 30 දෙනෙකු සඳහා චීන රජය විසින් පශ්චාද් උපාධි සහ ආචාර්ය උපාධි සඳහා පූර්ණ ශිෂ්‍යත්ව ලබා දී තිබේ.
-
-කොළඹ පිහිටි චීන තානාපති කාර්යාලයේ අදාළ ශිෂ්‍යත්ව පිරිනැමීමේ නිල උත්සවයට සහභාගී වෙමින් අධ්‍යාපන හා උසස් අධ්‍යාපන ‍නියෝජ්‍ය අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න මහතා මේ බව පැවසීය.
-
-2025 වර්ෂය වනවිට මෙරට සිසුන් 165කට අධික ප්‍රමාණයක් මෙම ශිෂ්‍යත්ව වැඩසටහනින් ප්‍රතිලාභ ලබා තිබේ.
-
-ඉංජිනේරු තාක්ෂණය, වෛද්‍ය විද්‍යාව, කෘෂිකර්මාන්තය, අධ්‍යාපනය, කළමනාකරණය සහ කලා යන ක්ෂේත්‍රවලින් එම ශිෂ්‍යයත්ව හිමිව ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
-
-◼️
-
-[Data](articles/310314f3.json)
-
----
-
-### Six injured in three-wheeler and cab collision near Ravana Falls
-
-*2025-08-15 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111492/six-injured-in-three-wheeler-and-cab-collision-near-ravana-falls) · `en`
-
-At least six people were injured when a three-wheeler and a luxury cab collided on the Ella–Wellawaya main road, in the area above Ravana Falls.
-
-The injured were admitted to the Demodara and Bandarawela hospitals.
-
-According to police, the victims are residents of the Badulla area.
-
-Officers from the Ella Police Station have commenced further investigations into the incident.
-
-◼️
-
-[Data](articles/86c1ada7.json)
-
----
-
-### Seven injured in bus accident at Dunhinda Junction
-
-*2025-08-15 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111491/seven-injured-in-bus-accident-at-dunhinda-junction) · `en`
-
-At least seven people were injured in a bus accident at Dunhinda Junction on the Badulla–Mahiyanganaya road at around 7:15 a.m. today (15).
-
-According to police, the accident occurred when a bus carrying a group of pilgrims collided with a parked lorry.
-
-Around 30 passengers were on board the bus at the time of the incident.
-
-Preliminary investigations revealed that the bus driver had lost control of the vehicle due to a brake malfunction, resulting in the collision.
-
-◼️
-
-[Data](articles/55e5055a.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bonds steady
-
-*2025-08-15 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236442/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.25/35 to the US dollar in the spot market Friday, weaker from 301.05/25 the previous day, while bond yields were broadly steady except for the 2033 tenor, which was down, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 8.85/95 percent, down from 8.88/97 percent.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.38/42 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.18/22 percent, down from 10.19/24 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.60/65 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/85 percent.
-
-The Colombo Stock Exchange was trading in green. The ASPI was up 0.25 percent, or 49.51 points, at 19,978.18; the S&P SL20 was up 0.52 percent, or 30.14 points, at 5,810.72.
-
-The telegraphic transfer rate for the US dollar was 297.6000 buying 304.6000 selling, for the British pound 401.9542 buying 413.2960 selling, and the euro 344.7186 buying 355.9238 selling. (Colombo/Aug15/2025)
-
-◼️
-
-[Data](articles/8302a246.json)
 
 ---

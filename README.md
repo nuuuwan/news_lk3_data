@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 19:48:54**
+As of **2025-08-15 20:07:00**
 
 ## Newspaper Stats
 
-*Scraped **70,710** Articles*
+*Scraped **70,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,824
 adaderanalk | 8,829
 tamilmirrorlk | 10,414
 virakesarilk | 11,752
-adaderanasinhalalk | 12,180
+adaderanasinhalalk | 12,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,710 articles have been extended.
+61,973 (87.6%) of 70,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### මහ බැංකු අධිපතිගේ අපේක්ෂාව
+
+*2025-08-15 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213418) · `si`
+
+මීළඟ වසර දෙක තුළ රට ආර්ථික අර්බුදයට පෙර පැවති තත්ත්වයට යළි පත්වනු ඇතැයි තමන් අපේක්ෂා කරන බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ, චැනල් නිවුස් ඒෂියා සමඟ සිදුකළ සම්මුඛ සාකච්ඡාවකදී ය.
+
+කොළඹ කොටස් වෙළෙඳපොළ සහ ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිෂන් සභාව එක්ව සංවිධාන කළ ‘Invest Sri Lanka’ ආයෝජක සමුළුව පසුගියදා සිංගප්පූරුවේදී පැවැත්විය.
+
+මෙහිදී සැසි කිහිපයක් පැවැත්වුණු අතර කම්කරු අමාත්‍ය හා ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු, ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ, ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිසමේ සභාපති මහාචාර්ය එච්. දිසාබණ්ඩාර ඇතුළු පිරිසක් මෙහිදී ප්‍රධාන දේශන ඉදිරිපත් කළහ.
+
+එමෙන්ම මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා සිංගප්පූරුවේදී චැනල් නිවුස් ඒෂියා සමඟ සම්මුඛ සාකච්ඡාවකට එක්විය.
+
+මේ අතර අමෙරිකාව පැනවූ අන්‍යෝන්‍ය තීරුබදු හේතුවෙන් මෙරට ඇඟලුම් ක්ෂේත්‍රයේ රැකියා 16,000කට ආසන්න ප්‍රමාණයක් අවදානමට ලක්ව ඇතැයි ප්‍රතිපත්ති අධ්‍යයන ආයතනය සඳහන් කළේය.
+
+...
+
+[Data](articles/ea9bdebd.json)
+
+---
 
 ### சமூகத்தில் ஆதிக்கம் செலுத்தும் கொலைக் குற்றவாளிகள் - சஜித் பிரேமதாச
 
@@ -1813,23 +1835,5 @@ Journalists are rubbing elbows with holidaymakers from the “lower 48” states
 ...
 
 [Data](articles/f65ba194.json)
-
----
-
-### Sri Lanka’s chicken egg farmers shrink flocks, day-old chick prices cut
-
-*2025-08-15 08:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-chicken-egg-farmers-shrink-flocks-day-old-chick-prices-cut-236419/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Three Acre Farms, a top poultry company said revenues dropped 27 percent to 1,231 million rupees in the June 2025 quarter as farmers reduced purchases of day old chicks as prices dropped.
-
-“The group’s revenue during the quarter under review declined compared to the same quarter last year, primarily due to reduced demand for both broiler and layer day-old chicks,” Chief Executive Cheng Chih Kwong told shareholders in interim accounts.
-
-“The decline was mainly caused by reduced inputs by farmers at the beginning of the quarter due to lower live bird prices and continued volatility in the table egg market.”
-
-Sri Lanka’s chicken and broiler prices soared in 2022 as macroeconomists created a forex shortage by cutting rates with printed money to boost growth (potential output) and inflation (flexible inflation targeting and the rupee collapsed.
-
-...
-
-[Data](articles/3c37cd9f.json)
 
 ---

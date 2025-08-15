@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 07:17:31**
+As of **2025-08-15 08:09:40**
 
 ## Newspaper Stats
 
-*Scraped **70,589** Articles*
+*Scraped **70,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,814
-adaderanalk | 8,809
+adaderanalk | 8,811
 tamilmirrorlk | 10,383
 virakesarilk | 11,742
-adaderanasinhalalk | 12,147
+adaderanasinhalalk | 12,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,589 articles have been extended.
+61,973 (87.8%) of 70,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### වතු කම්කරු වැටුප් වැඩිකිරීම අභියෝගයක් බව ඇමති බිමල් කියයි
+
+*2025-08-15 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213382) · `si`
+
+වතු කම්කරු වැටුප් වැඩිකිරීම රජයට අභියෝගයක් වී ඇති බව ප්‍රවාහන,මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+වැවිලි කර්මාන්ත අමාත්‍යංශය සහ මුදල් අමාත්‍යංශය අඛණ්ඩය මේ සම්බන්ධයෙන් මැදිහත් කිරීම් සිදුකරමින් සිටින බවද බිමල් රත්නායක අමාත්‍යවරයා පෙන්වා දෙයි.
+
+නානුඔය දුම්රිය ස්ථානයේ නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා කියා සිටියේ ලාබ ලබන ඩිපෝ සඳහා ඉදිරියේදී බෝනස් ලබාදීමට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/9957d948.json)
+
+---
+
+### පුද්ගල ඝාතනයකට සැකපිට 7ක් අත්අඩංගුවට
+
+*2025-08-15 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213381) · `si`
+
+සීදූව, ඊරියගහළිඳ පාර ප්‍රදේශයේ දී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට සැකකරුවන් පස්දෙනෙකු හා ඊට ආධාර අනුබලදුන් සැකකරුවන් දෙදෙනෙකු සීදූව පොලීසිය මගින් ඊයේ (14) අත්අඩංගුවට ගෙන ඇත.
+
+‍දුම්මලසූරිය පොලිස් වසමේ දී මෙම පිරිස අත්අඩංගුවට පත්ව ඇති අතර, එහිදී මන්නා පිහි තුනක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 17, 18, 21, 25, 27 හා 44 වයස්වල පසුවන සීදූව ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පැවසීය.
+
+කිසියම් පිරිසක් විසින් ඉකුත් 12වනදා රාත්‍රියේ ඊරියගහළිඳ ප්‍රදේශයේ පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර ඇති බවට සීදූව පොලීසියට තොරතුරු ලැබී තිබුණි.
+
+පහරදීමෙන් බරපතළ තුවාල ලැබූ එම පුද්ගලයා මීගමුව රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මිය ගියේය. ඔහු වයස අවුරුදු  40ක පුද්ගයෙක්ය.
+
+◼️
+
+[Data](articles/f8556ea8.json)
+
+---
+
+### දුම්රියේ ගැටී පුද්ගලයෙකු මරුට
+
+*2025-08-15 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213380) · `si`
+
+මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වු සිඝ්‍රගාමී දුම්රියක ගැටී පුද්ගයෙකු මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ (14) රාත්‍රී කාලයේදී කළුතර උතුර පොලිස් වසමේ කොළඹ බෙලිඅත්ත දුම්රිය මාර්ගයේ සැතපුම් 23 අණුව අසලදී මෙම අනතුර සිදුවී ඇති බවය.
+
+සිද්ධිය සම්බන්ධයෙන් කළුතර උතුර පොලිස් ස්ථානයට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+
+මෘතශරීරය නාගොඩ රෝහලේ තැන්පත් කර ඇති අතර කළුතර උතුර පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/1b2eb713.json)
+
+---
 
 ### අද කාලගුණ අනාවැකිය
 
@@ -45,6 +101,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/12d7578e.json)
+
+---
+
+### Several spells of showers expected in various parts of the country today
+
+*2025-08-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111485/several-spells-of-showers-expected-in-various-parts-of-the-country-today-) · `en`
+
+Several spells of showers will occur in the Western, Sabaragamuwa and North-western provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (15), the Department of Meteorology said.
+
+Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
+
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
+
+◼️
+
+[Data](articles/2b9d1cdb.json)
+
+---
+
+### PM Modi to lead India’s 79th Independence Day celebrations
+
+*2025-08-15 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111484/pm-modi-to-lead-indias-79th-independence-day-celebrations-) · `en`
+
+India will celebrate the 79th Independence Day today with Prime Minister Narendra Modi leading the celebrations from the iconic Red Fort in Delhi.
+
+The Indian Prime Minister will hoist the National Flag and address the nation from the ramparts of the iconic monument.
+
+As India is making giant strides towards realising the Government’s vision of Viksit Bharat by 2047, the theme of this year’s celebrations is Naya Bharat.
+
+The celebrations will serve as a platform to commemorate the continuing rise of a prosperous, secure and bold Naya Bharat and provide renewed power to surge further ahead on the path to progress. The success of Operation Sindoor will be celebrated during the Independence Day Celebrations this year.
+
+Around five thousand special guests from different walks of life have been invited to witness the celebrations at Red Fort this year. These include Indian contingent of Special Olympics 2025, Winners of international sports events and Gold Medalists of Khelo India Para Games.
+
+...
+
+[Data](articles/58bc7a85.json)
 
 ---
 
@@ -1707,99 +1799,5 @@ Therefore, he stated that the relevant authorities have been informed to create 
 ...
 
 [Data](articles/0c122bd0.json)
-
----
-
-### இலங்கையில் மனிதபுதைகுழிகள் தோண்டப்படும் நிலையில் தமிழ் மக்கள் வெளிநாட்டு உதவியை எதிர்பார்க்கின்றனர்
-
-*2025-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222491) · `ta`
-
-இலங்கையில் மனித புதைகுழியொன்று தோண்டப்படும் ஒவ்வொரு தருணத்திலும் தம்பிராசா செல்வராணி உறக்கமிழந்தவராக காணப்படுகின்றார்.
-
-'எங்கள் உறவுகளிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் தோண்ட ஆரம்பிக்கும்போது நாங்கள் பதற்றமடைகின்றோம்" என அவர் டிடயில்யூவிற்கு(dw) தெரிவித்தார்.
-
-இலங்கையின் உள்நாட்டு போரின் இறுதி தருணங்களில் இலங்கைஇராணுவத்தினரிடம் சரணடைந்த பின்னர் காணாமல்போன தனது கணவர் முத்துலிங்கம் ஞானசெல்வத்தை 54வயது செல்வராணி தேடிவருகின்றார்.தசாப்தகால மோதலின் பின்னர் , தமிழீழ விடுதலைப்புலிகளின் தோல்வியுடன் யுத்தம்முடிவிற்கு வந்தது.
-
-அதன் பின்னர் பல பாரிய மனித புதைகுழிகள் கண்டுபிடிக்கப்பட்டுள்ளன.கடந்த மூன்று மாதகாலமாக தொல்பொருள் ஆய்வாளர்கள் செம்மணியில் உள்ள மனித  புதைகுழியை அகழ்ந்துவருகின்றனர்,இது இலங்கையின் வடபகுதி தலைநகரமான யாழ்ப்பாணத்தின் புறநகரில் உள்ளது.இதுவரை குழந்தைகளினது எலும்புக்கூடுகள் உட்பட 140க்கும் அதிகமான எலும்புக்கூடுகளை மீட்டுள்ளனர்.
-
-...
-
-[Data](articles/b4760051.json)
-
----
-
-### ”நாட்டின் பொருளாதார மீட்சி எதிர்பார்த்ததை விட வேகமாக முன்னேறி வருகிறது”
-
-*2025-08-14 13:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பொருளாதார-மீட்சி-எதிர்பார்த்ததை-விட-வேகமாக-முன்னேறி-வருகிறது/175-362903) · `ta`
-
-இலங்கையின் பொருளாதார மீட்சி ஆரம்பத்தில் எதிர்பார்த்ததை விட வேகமாக முன்னேறி வருவதாகவும், அடுத்த ஆண்டுக்குள் நாடு நெருக்கடிக்கு முந்தைய நிலைகளை விஞ்சிவிடும் என்றும் மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க கூறுகிறார்.
-
-நெருக்கடியின் உச்சத்தில், பொருளாதார சீர்திருத்தங்கள் எதிர்பார்த்ததை விட விரைவாக பெறுபேறுகளைத் தருவதாக சனல் நியூஸ் ஆசியாவிற்கு அளித்த பேட்டியில் வீரசிங்க கூறினார்.
-
-"ஒரு நாடு ஒரு நெருக்கடியால் பாதிக்கப்பட்டவுடன், உற்பத்தி இழப்பை மீட்டெடுக்க அதே நிலைக்குத் திரும்ப நான்கு முதல் ஐந்து ஆண்டுகள் ஆகும். எங்கள் விஷயத்தில், மூன்று ஆண்டுகளுக்குள், நாங்கள் கிட்டத்தட்ட அங்கு சென்றுவிட்டோம்," என்று அவர் கூறினார்.
-
-அடுத்த ஆண்டுக்குள், வேலைவாய்ப்பு, வறுமைக் குறைப்பு, வருமானம் மற்றும் வாழ்க்கைச் செலவு போன்ற முக்கிய துறைகளில் இலங்கை நெருக்கடிக்கு முந்தைய நிலைகளை விட சிறப்பாக இருக்கும் என்று ஆளுநர் நம்பிக்கை தெரிவித்தார்.
-
-...
-
-[Data](articles/2911b602.json)
-
----
-
-### BOC, ITN உட்பட பல அரச நிறுவனங்களுக்கு புதிய தவிசாளர்கள் நியமனம்
-
-*2025-08-14 12:55:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/BOC-ITN-உட்பட-பல-அரச-நிறுவனங்களுக்கு-புதிய-தவிசாளர்கள்-நியமனம்/175-362902) · `ta`
-
-முக்கிய அரச நிறுவனங்களுக்கு நான்கு புதிய தலைவர்களை நியமிப்பது உட்பட பல உயர் மட்ட நியமனங்களுக்கு உயர் பதவிகளுக்கான குழு ஒப்புதல் அளித்துள்ளது.
-
-முக்கிய நியமனங்களில், இலங்கையின் மிகப்பெரிய மற்றும் மிகவும் செல்வாக்கு மிக்க நிதி நிறுவனங்களில் ஒன்றான இலங்கை வங்கியின் (BOC) புதிய தவிசாளராக கவிந்த டி சொய்சா அங்கீகரிக்கப்பட்டார். ஊடகத் துறையில், அரசுக்குச் சொந்தமான முக்கிய ஒளிபரப்பாளரான சுயாதீன தொலைக்காட்சி வலையமைப்பு (ITN) லிமிடெட்டின் தவிசாளராக பிரியந்த வேதமுல்ல நியமிக்கப்பட்டார்.
-
-ஹோட்டல் டெவலப்பர்ஸ் (லங்கா) லிமிடெட் நிறுவனத்தின் தவிசாளராக பிரவீர் டி. சமரசிங்கவும், மத்திய பொறியியல் ஆலோசனைப் பணியகத்தின் (CECB) தவிசாளராக ஜயதிஸ்ஸ அனத்த பத்திரனகேவும் கடமைகளைப் பொறுப்பேற்க குழு அனுமதி வழங்கியது.
-
-இந்தத் தலைமைப் பதவிகளுக்கு மேலதிகமாக, ஓமான் சுல்தானகத்திற்கான இலங்கைத் தூதராக திரு. விஜேசிங்க ஆராச்சிகே கபில சஞ்சீவ டி அல்விஸைக் குழு அங்கீகரித்தது.
-
-...
-
-[Data](articles/93e18b41.json)
-
----
-
-### நுவரெலியா - ராகலை தனியார் பஸ் பணியாளர்கள் பணிப்பகிஷ்கரிப்பு
-
-*2025-08-14 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/222552) · `ta`
-
-நுவரெலியா - ராகலை பிரதான வீதியில் சேவையில் ஈடுபடும் தனியார் பஸ் சாரதிகள் மற்றும் நடத்துனர்கள் திடீர் பணிப்பகிஷ்கரிப்பில் இன்று வியாழக்கிழமை (14) காலை முதல் ஈடுபட்டு வருகின்றனர்.
-
-நுவரெலியா - ராகலை  தனியார் பஸ் சாரதிக்கும் நுவரெலியா - கந்தப்பளை தனியார்  பஸ் சாரதிகளுக்குமிடையே நேற்று புதன்கிழமை (13) மாலை கந்தப்பளை மற்றும் நுவரெலியா பிரதான பஸ் தரிப்பிடத்திலும் இரு குழுக்களுக்கும் இடையே கருத்து முரண்பாடு ஏற்பட்டுள்ளது.
-
-குறிப்பாக இரு தரப்புக்கும் இடையில் நேர அட்டவணை மற்றும் வழி அனுமதி உள்ளிட்ட விடயங்கள் தொடர்பில் முரண்பாடுகள் நீண்ட காலமாக உள்ளமையும் குறிப்பிடத்தக்கது. இதனை நிவர்த்தி செய்ய வேண்டும் எனக் கோரியே நுவரெலியா - ராகலை பிரதான வீதியில் சேவையில் ஈடுபடும்  தனியார் பஸ் ஊழியர்கள் பணிப்பகிஷ்கரிப்பு போராட்டத்தினை முன்னெடுத்து வருகின்றனர்.
-
-குறித்த சம்பவம் தொடர்பில் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு ஒன்றினையும் நுவரெலியா - ராகலை வீதியில் இயங்கும் பஸ் சாரதிகள் மற்றும் நடத்துனர்கள் செய்துள்ளனர்.
-
-...
-
-[Data](articles/c3016f67.json)
-
----
-
-### Sri Lanka’s Parliament gets renovated by army
-
-*2025-08-14 12:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-parliament-gets-renovated-by-army-236288/) · `en`
-
-ECONOMYNEXT – Large-scale renovations of Sri Lanka’s Parliamentary Complex, including its members’ dressing room, are underway, according to a parliament statement.
-
-“Work is currently underway to remove the soil layer on the concrete roof terrace of the Parliamentary Complex and carry out repairs.
-
-“In addition, renovations are being done to the roof gutters, copper door, Parliament Medical Center, washrooms, and Members’ Dressing Room.”
-
-Minor maintenance work of the complex has been carried out by the Engineering Department in the past.
-
-The current large-scale renovations are being carried out by the Sri Lanka Army.
-
-The renovations of the complex received cabinet approval, and is taking place after 42 years, according to the statement. (Colombo/Aug14/2025)
-
-◼️
-
-[Data](articles/3a87199b.json)
 
 ---

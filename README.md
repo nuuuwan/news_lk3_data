@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 14:49:54**
+As of **2025-08-15 15:07:16**
 
 ## Newspaper Stats
 
-*Scraped **70,658** Articles*
+*Scraped **70,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,309
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
-adalk | 6,821
+adalk | 6,822
 adaderanalk | 8,824
-tamilmirrorlk | 10,403
+tamilmirrorlk | 10,406
 virakesarilk | 11,748
 adaderanasinhalalk | 12,163
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 12,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,658 articles have been extended.
+61,973 (87.7%) of 70,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்
+
+*2025-08-15 14:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குகைக்குள்-வாழும்-இரண்டு-சிறுத்தைகளால்-அச்சம்/76-362971) · `ta`
+
+நோர்வூட் பொலிஸ் பிரிவிற்குட்பட்ட நோர்வூட் சென் ஜோன் டிலரி கீழ்பிரிவு தோட்டப் பகுதியில் உள்ள கற் குகைக்குள் இரண்டு சிறுத்தைகள் வாழ்ந்து வருவதாக சென்ஜோன் டிலரி கீழ் பிரிவு தோட்ட மக்கள் தெரிவிக்கின்றனர்.
+
+குறித்த பகுதியில் தொழில் நிமித்தம் செல்லும் தொழிலாளர்கள் இந்த இரண்டு சிறுத்தைகளையும்  கண்டுள்ளதாக அம் மக்கள் தெரிவிக்கின்றனர்.
+
+இதனால் குறித்த பகுதிக்கு தொழிலுக்கு செல்லுவதற்கு  தோட்ட தொழிலாளர்கள் அச்சம் தெரிவித்துள்ளனர். கற் குகைக்குள் இருக்கும் இரண்டு சிறுத்தைகளும் தினமும் காலை வேளையில் வெளியில் வந்து போவதாகவும் இதனால் அப்பகுதிக்குச் சென்று தேயிலை கொழுந்து பறிப்பதற்கு அச்சமாக இருப்பதாக தெரிவிக்கின்றனர்.
+
+இதேவேளை வீடுகளில் வளர்க்கப்படும் வளர்ப்பு நாய்களை இரவு நேரங்களில் இந்த சிறுத்தைகள் கொண்டு செல்லுவதாக மக்கள் தெரிவிக்கின்றனர்.குறித்த பகுதியில் வளர்ப்பு நாய்களின் எலும்பு எச்சங்கள் காணப்பட்டன.
+
+இந்த பகுதியில் அதிகமாக நடமாடும் சிறுத்தைகள் தொடர்பாக நல்லத்தண்ணி வனவிலங்கு அதிகாரிகள் நடவடிக்கை எடுக்கப்பட வேண்டும் என மக்கள் கோரிக்கை விடுக்கின்றனர்.
+
+...
+
+[Data](articles/b8c626cd.json)
+
+---
+
+### சத்திர சிகிச்சை நிபுணர் மாரடைப்பால் மரணம்
+
+*2025-08-15 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சத்திர-சிகிச்சை-நிபுணர்-மாரடைப்பால்-மரணம்/175-362970) · `ta`
+
+யாழ். போதனா வைத்திய சாலையின் பிரபல  சத்திர சிகிச்சை வைத்திய நிபுணர் வைத்தியர் சுதர்சன் மாரடைப்பு காரணமாக  கொழும்பில் வெள்ளிக்கிழமை (15) காலமானார்.
+
+◼️
+
+[Data](articles/c77948e4.json)
+
+---
+
+### அனுர- மோடியால்  பெரும் பதற்றம்
+
+*2025-08-15 14:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-மோடியால்-பெரும்-பதற்றம்/175-362969) · `ta`
+
+"அனுர மோடியின் மோசடி ஒப்பந்தங்களை கிழித்தெறியுங்கள், சர்வதேச நாணய நிதியத்தின் (IMF) மரண பொறியை எதிர்ப்போம்" என்று எழுதப்பட்ட துண்டுப்பிரசுரங்களை விநியோகிக்க மஹரகம நகரில் அமைக்கப்பட்டிருந்த கூடாரத்தை பொலிஸார், வெள்ளிக்கிழமை (15) அகற்றிய போது  ஒரு சூடான சூழ்நிலை ஏற்பட்டது. இரு தரப்பினருக்கும் இடையே   வாக்குவாதம் ஏற்பட்டது.
+
+மக்கள் போராட்டக் கூட்டணியின் பிரதிநிதிகள் குழு ஒன்று, அரசாங்கத்தால் மேற்கொள்ளப்படும் மக்கள் விரோத திட்டத்திற்கு எதிராக துண்டுப் பிரசுரங்களை விநியோகித்து பதாகையில் கையெழுத்திடுவதற்கு  மஹரகம நகர மையத்தில் ஒரு போராட்டத்தை வெள்ளிக்கிழமை (17) ஏற்பாடு செய்திருந்தது.
+
+இந்த போராட்டத்தை நாள் முழுவதும் நடத்துவதற்காக ஹைலெவல் சாலையின் நடைபாதையில் ஒரு கூடாரம் அமைக்கப்பட்டிருந்தது, மேலும் பொதுமக்களிடமிருந்து கையொப்பங்களை சேகரிக்க அதன் மீது ஒரு பதாகை வைக்கப்பட்டிருந்தது.
+
+அந்த நேரத்தில், மஹரகம பொலிஸ் நிலையத்தை சேர்ந்த  சுமார் பத்து அதிகாரிகள் கொண்ட குழு திடீரென போராட்ட இடத்திற்குள் நுழைந்து, கூடாரத்தை இடித்து, பதாகையை கிழித்து, போராட்டத்தை கலைக்க நடவடிக்கை எடுத்தது.
+
+...
+
+[Data](articles/f3856689.json)
+
+---
 
 ### ஹர்த்தாலுக்கு ஆதரவு இல்லை: கிருஷ்ணமூர்த்தி அதிரடி
 
@@ -133,6 +183,24 @@ Sri Lanka is continuing talks with the U.S. after it imposed 20% tariffs last mo
 ...
 
 [Data](articles/f35c5ff5.json)
+
+---
+
+### ජනපති හා ඉන්දීය අගමැති විවෘත කළ දඹුල්ල ගබඩාවේ විදුලිය කපලා
+
+*2025-08-15 13:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-ඉන්දීය-අගමැති-විවෘත-කළ-දඹුල්ල-ගබඩාවේ-විදුලිය-කපලා/11-417933) · `si`
+
+ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ ජනපති අනුර කුමාර දිසානායක මහතා පසුගිය අප්‍රේල් මස පස් වැනිදා විවෘත කළ උෂ්ණත්ව පාලිත  කෘෂිකර්ම ගබඩාවේ සේවා ආරම්භ කිරීමටත් මත්තෙන් එහි රුපියල් අසූ හතර ලක්ෂ නව දහසකට අධික මුදලක් ගෙවීම් පැහැර හැරීම නිසා විදුලිය විසන්ධි කොට ඇති බව ‍ පාර්ලිමේන්තුවේ හිටපු මන්ත්‍රීවරුන් පිරිසක් 15 දින අවරණය කර ගන්නා ලදී.
+
+පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ යෝජනාවකට අනුව මීට වසර කීපයකට ඉහතදී ඉන්දියානු රජයේ ආධාර ඇතිව මෙම උෂ්ණත්ව පාලිත කෘෂිකර්ම  ගබඩාව ඉදිකරන්නට යෙදිණි
+
+ඒ අනුව එහි විවෘත කිරීම සුගිය අප්‍රේල් මස පස්වෙනිදා ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ආරාධනයෙන් ඉන්දියානු අගමැති නරේන්ද්‍ර මෝදි මහතා දුරස්ථා පාලකයක් උපයෝගී කරගෙන විවෘත කෙරිණි
+
+එදා  සිට අද දක්වාම එහි සේවා කටයුතු  සිදු නොවීම පිළිබඳව සොයා බැලීම සඳහා හිිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන උදය ගම්මම්පිල ,සංජීව එදිරිමාන්න, ප්‍රේමණාත් සී දොළවත්ත , සුශ්වර බණ්ඩාර, නිමල් පියතිස්ස, දඹුල්ල හිටපු නගරාධිපති ජාලිය ඕපාත මහතා ඇතුළු පිරිසක් බස් රථයකින් එහි පැමිණියහ
+
+...
+
+[Data](articles/7fbccedd.json)
 
 ---
 
@@ -1715,79 +1783,5 @@ A road had been washed away, he said, and the weather was not safe enough for he
 ...
 
 [Data](articles/03e2df35.json)
-
----
-
-### How can Sri Lanka improve its position in the Global Innovation Index?
-
-*2025-08-14 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111482/how-can-sri-lanka-improve-its-position-in-the-global-innovation-index) · `en`
-
-A meeting was held to engage all stakeholders in elevating Sri Lanka’s position in the internationally recognised Global Innovation Index (GII), which measures countries’ innovation performance using 80 indicators under seven key pillars.
-
-Under the guidance of the National Innovation Agency (NIA), which functions under the Ministry of Science and Technology, an advisory meeting on data requirements for the Global Innovation Index was held today (14) at the Bandaranaike Memorial International Conference Hall in Colombo, the President’ Media Division said.
-
-The meeting brought together senior officials from both the public and private sectors, representing fields such as science, technology, education and industry, the PMD added.
-
-Focus areas during the meeting included enhancing the nation’s global competitiveness, attracting investment and positioning Sri Lanka as a hub for knowledge, technology and entrepreneurship.
-
-...
-
-[Data](articles/bd256470.json)
-
----
-
-### முல்லைத்தீவு – செஞ்சோலை வளாகத்தில் உயிரிழந்த உறவுகளுக்கு அஞ்சலி
-
-*2025-08-14 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/222575) · `ta`
-
-செஞ்சோலை வளாகத்தில் ஸ்ரீலங்கா இராணுவ விமானப்படையினரின் வான் தாக்குதலில் உயிரிழந்த  மாணவர்களுக்கான அஞ்சலி நிகழ்வு வியாழக்கிழமை (14) அனுஷ்டிக்கப்பட்டுள்ளது.
-
-முல்லைத்தீவு – வள்ளிபுனம், இடைக்கட்டு பகுதியில் அமைந்துள்ள செஞ்சோலை வளாகத்தில் பயிற்சிக்காக சென்றிருந்த மாணவர்கள் மீது இலங்கை விமானப்படை நடத்திய தாக்குதலில் உயிரிழந்த பாடசாலை மாணவர்கள் 53 பேர் மற்றும் பணியாளர்கள் 4 பேரினதும் 19வது ஆண்டு நினைவேந்தல் நிகழ்வு வான் தாக்குதல் இடம்பெற்ற இடத்தில் வியாழக்கிழமை (14) அனுஷ்டிக்கப்பட்டுள்ளது.
-
-கடந்த 2006.08.14 ஆம் திகதியன்று வள்ளிபுனம் – இடைக்கட்டு பகுதியில் உள்ள செஞ்சோலை வளாகத்தில் விமானத்தாக்குதல் இடம்பெற்ற நேரத்தில் வியாழக்கிழமை (14.08.2024) இந் நிகழ்வு உணர்வு பூர்வமாக நடைபெற்றுள்ளது.
-
-...
-
-[Data](articles/f9a1ff24.json)
-
----
-
-### 400 containers of imported salt stuck at Colombo Harbour due to bureaucratic delays: Unions
-
-*2025-08-14 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111481/400-containers-of-imported-salt-stuck-at-colombo-harbour-due-to-bureaucratic-delays-unions-) · `en`
-
-Approximately 400 containers containing around 28,000 metric tons of imported salt, intended for local packaging, remain stuck at the Colombo Harbour, unable to be cleared, according to the Sri Lanka Salt Producers’ Association.
-
-The Salt Producers claim that inefficiency and inaction by government officials is the primary reason for the delay in clearing these consignments.
-
-Earlier this year, domestic salt production saw a sharp decline due to adverse weather conditions.
-
-This led to a shortage of salt in the local market, resulting in a noticeable increase in retail prices.
-
-As a solution, the government approved the importation of salt for household consumption on two separate occasions. However, the delay in clearing the imported stocks continues to affect market stability, according to the Sri Lanka Salt Producers’ Association.
-
-◼️
-
-[Data](articles/420b8f54.json)
-
----
-
-### ඉන්දියාවට එකවර ධාරාණිපාත වැස්සක් - 38ක් මරුට
-
-*2025-08-14 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213375) · `si`
-
-තුරු ඉන්දියාවේ ජම්මු සහ කාශ්මීරයේ කිෂ්ට්වාර් දිස්ත්‍රික්කයට අද (14) පස්වරුවේ එකවර ඇඳහැළුණු අනපේක්ෂිත ධාරාණිපාත වර්ෂාවක් සමග ඇති වූ ගංවතුර තත්ත්වයකින් පුද්ගලයින් 38 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-කිෂ්ට්වාර් හි පොලිස් පාලක මැදිරියේ නිලධාරීන්ට අනුව මරණ සංඛ්‍යාව තවත් ඉහළ යා හැකි බව සඳහන්.
-
-ඉන්දීය ආපදා අංශ නිවේදනය කර සිටියේ තවත් 10කට අධික පිරිසක් තුවාල ලබා ඇති බවත්, එරට හමුදා අංශ දිගින් දිගටම ගලවා ගැනීමේ කටයුතුවල නිරත වන බවද එහි දැක්වේ.
-
-කිෂ්ට්වාර් හි හිමාලයානු මාතා චන්දි සිද්ධස්ථානය වැඳපුදාගැනීමට යමින් සිටි පිරිසක් මෙම අනපේක්ෂිත අනතුරට මුහුණපා ඇත.
-
-මෙම අවාසනාවන්ත සිදුවීම පිළිඳ ශෝකය පළ කරමින් අගමැති නරේන්ද්‍ර මෝදි පැවසුවේ, විපතට පත් සෑම කෙනෙකුටම හැකි සෑම උපකාරයක්ම සිදුකරන බවය.
-
-◼️
-
-[Data](articles/3686510f.json)
 
 ---

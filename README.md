@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 11:21:22**
+As of **2025-08-15 11:32:52**
 
 ## Newspaper Stats
 
-*Scraped **70,622** Articles*
+*Scraped **70,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,818
 adaderanalk | 8,816
-tamilmirrorlk | 10,390
+tamilmirrorlk | 10,394
 virakesarilk | 11,742
 adaderanasinhalalk | 12,157
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 12,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,622 articles have been extended.
+61,973 (87.7%) of 70,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### “இந்தியர்கள் சிறுநீர் கழித்தால் பாகிஸ்தானில் சுனாமி”
+
+*2025-08-15 11:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியர்கள்-சிறுநீர்-கழித்தால்-பாகிஸ்தானில்-சுனாமி/175-362958) · `ta`
+
+சிந்து நதியில் இந்தியா அணை கட்டினால் ஏவுகணை மூலம் அணையை தகர்ப்போம் என பாகிஸ்தான் எம்பி பிலாவல் பூட்டோ சமீபத்தில் எச்சரிக்கை விடுத்திருந்தார்.
+
+இதற்கு பதிலடியாக பிரபல பாலிவுட் நடிகரும், பாஜகவின் ராஜ்யசபா எம்பியுமான மிதுன் சக்கரவர்த்தி, 140 கோடி இந்தியர்களும் ஒன்று சேர்ந்து சிறுநீர் கழித்து அணையாக கட்டி திறந்துவிட்டால் பாகிஸ்தானில் சுனாமியே உண்டாகும் என கிண்டலடித்துள்ளார்.
+
+◼️
+
+[Data](articles/06371279.json)
+
+---
+
+### ரூ.60 கோடி மோசடி: ஷில்பா ஷெட்டி, கணவர் மீது வழக்கு
+
+*2025-08-15 11:16:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-மோசடி-ஷில்பா-ஷெட்டி-கணவர்-மீது-வழக்கு/175-362957) · `ta`
+
+லோட்டஸ் கேப்பிட்டல் பைனான்ஸ் சர்வீசஸ் (வங்கி சாரா நிதி நிறுவனம்) நிறுவனத்தின் இயக்குநர் தீபக் கோத்தாரி (60). ஜூஹுவைச் சேர்ந்த தொழிலதிபரான இவர் காவல் நிலையத்தில் அளித்த புகாரில் தெரிவித்துள்ளதாவது:
+
+நடிகை ஷில்பா ஷெட்டி கடன் பெற விரும்புவதாக எனது நிறுவனத்தில் கடன் முகவராக பணிபுரிந்த ராஜேஷ் ஆர்யா தெரிவித்தார். அதன் அடிப்படையில் நடிகை ஷில்பாவையும், அவரது கணவர் ராஜ் குந்த்ராவையும் ஜூஹுவில் சந்தித்துப் பேசினேன். அப்போது அவர்கள், தங்களிடம் ஆன்லைன் விற்பனை தளமான பெஸ்ட் டீல் டிவி நிறுவனம், ஷாப்பிங் காம்ப்ளக்ஸ் உள்ளிட்ட ஏராளமான சொத்துகள் இருப்பதாக கூறினார்.
+
+இதன் அடிப்படையில் அவர்களுக்கு ரூ.60.48 கோடி கடன் கொடுத்தேன். இந்நிலையில் 2017-ல் அந்த நிறுவனத்துக்கு எதிராக திவால் நடவடிக்கை தொடங்கப்பட்டது. எனது பணத்தை பலமுறை கேட்டும் அதற்கு சரியான பதில் கிடைக்கவில்லை. எனவே கொடுத்த பணத்தை மீட்டுத் தரவேண்டும். இவ்வாறு தீபக் கோத்தாரி அந்த புகாரில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f33d14f7.json)
+
+---
+
+### தமிழ்மிரர் வாசகர்களின் கவனத்துக்கு
+
+*2025-08-15 11:13:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தமிழ்மிரர்-வாசகர்களின்-கவனத்துக்கு/62-362956) · `ta`
+
+தமிழ்மிரர் வாசகர்களுக்கு வணக்கம், இன்றைய சிந்தனை சித்திரத்துக்கான தலைமை எமக்கு அனுப்பிவையுங்கள், சிறந்த தலைப்பை நாங்கள் இன்றை சிந்தனை சித்திரத்துக் இடுவோம்.
+
+◼️
+
+[Data](articles/54d42fe4.json)
+
+---
+
+### செம்மணி மனித புதைகுழி வழக்கு: சுமந்திரன் அதிரடி கோரிக்கை
+
+*2025-08-15 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனித-புதைகுழி-வழக்கு-சுமந்திரன்-அதிரடி-கோரிக்கை/175-362955) · `ta`
+
+செம்மணி மனித புதைகுழி வழக்கில் இருந்து சி.ஐ.டியினரை அகற்றுமான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், நீதிமன்றத்திடம் கோரிக்கை விடுத்துள்ளார்.
+
+செம்மணி மனித புதைகுழி வழக்கு தொடர்பான விசாரணை யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் வியாழக்கிழமை (14) ​நடைபெற்றது. இதன்போதே சுமந்திரன் மேற்கண்டவாறு ​கோரிக்கை விடுத்துள்ளார்.
+
+செம்மணி வழக்கின் வியாழக்கிழமை (14) விசாரணை முடிவடைந்த பின்னர்   ஊடகங்களுக்கு கருத்து தெரிவித்த ஐனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன்
+
+செம்மணி புதைகுழி விவகாரம் நீதிமன்றத்திலே அழைக்கப்பட்டது.. அந்த வேளையில் குற்றப் புலனாய்வுத் திணைக்களம் ஓர் அறிக்கையையும் யாழ். பல்கலைக்கழக சட்ட வைத்திய அதிகாரி பேராசிரியும் ஓர் அறிக்கையையும் சமர்ப்பித்துள்ளார்கள்.
+
+இதில் பேராசிரியருடைய அறிக்கையிலே ஸ்கானர் பாவிக்கப்பட்டதற்கு பிறகு இன்னமும் குறைந்தது எட்டு வாரகாலத்திற்கு மேலதிக அகழ்வுகள் செய்ய வேண்டிய தேவை இருப்பதாக அறிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/eb5ffe64.json)
+
+---
 
 ### பம்பலப்பிட்டியில் ஒரு கோடி ரூபாய் மாயம்
 
@@ -1729,73 +1791,5 @@ Tea production decreased by 6.3 percent in June mainly attributed to adverse wea
 ◼️
 
 [Data](articles/a2be3dff.json)
-
----
-
-### At least 12 feared dead in sudden, heavy rain in Indian Kashmir
-
-*2025-08-14 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111472/at-least-12-feared-dead-in-sudden-heavy-rain-in-indian-kashmir) · `en`
-
-At least 12 people were feared dead and more trapped following sudden, heavy rain in Indian Kashmir, an official said on Thursday.
-
-The disaster occurred in Chasoti town of Kishtwar district, a pit stop on a popular pilgrimage route. It comes a little over a week after a heavy flood and mudslide engulfed an entire village in the Himalayan state of Uttarakhand.
-
-“The news is grim and accurate, verified information from the area hit by the cloudburst is slow in arriving,” Omar Abdullah, the chief minister of India’s federal territory of Jammu and Kashmir, said in a post on X.
-
-Visuals on television showed pilgrims crying in fear as water flooded the village.
-
-Local TV channels said the flood water had washed away community kitchens set up for pilgrims.
-
-...
-
-[Data](articles/bfb1893e.json)
-
----
-
-### Estimating the economic cost of US tariffs on Sri Lanka
-
-*2025-08-14 16:20:00* · [`economynextcom`](https://economynext.com/estimating-the-economic-cost-of-us-tariffs-on-sri-lanka-236348/) · `en`
-
-The recent US announcement of new tariffs confirms that high effective tariffs are now the norm. The new tariff rates increase the US effective tariff rate to 17.3%, the highest since 1935. While a 20% tariff rate offers Sri Lanka some relief, compared to the previously given reciprocal rates, the US effective tariff rates for Sri Lanka remain high.
-
-With a quarter of Sri Lanka’s total exports facing at least a 20-percentage-point increase in tariffs, the trade-weighted effective tariff rate will be 29.9%, compared to 10.20% in April 2025 (Table 1). Sri Lanka’s main exports to the US, wearing apparel and rubber products, will face tariffs of 36.8% and 20.2% respectively.
-
-In the above context, estimating the economic cost for Sri Lanka, including an assessment of alternative policy scenarios, is crucial. Model-based estimates incorporating input-output linkages within the economy, which differ from sector-specific partial equilibrium analysis, are used.
-
-...
-
-[Data](articles/922b96fc.json)
-
----
-
-### ලක්ෂ 140ක අල්ලස් ගත් එස්.එස්.පී. සතීෂ් ගමගේ රිමාන්ඩ්
-
-*2025-08-14 16:17:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-140ක-අල්ලස්-ගත්-එස්-එස්-පී--සතීෂ්-ගමගේ-රිමාන්ඩ්/11-417917) · `si`
-
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගෙන් හා සංවිධානාත්මක අපරාධකරුවන්ගෙන් රුපියල් ලක්ෂ 140ට අධික අල්ලස් ලබා ගැනීමේ චෝදනා යටතේ අත්අඩංගුවට පත්  පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතිෂ් ගමගේ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරණ මහත්මිය විසින් මෙම නියෝගය නිකුත් කළාය.
-
-◼️
-
-[Data](articles/ef179682.json)
-
----
-
-### வாவியில் இருந்து 8,188 தோட்டாக்கள் மீட்பு
-
-*2025-08-14 16:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாவியில்-இருந்து-8-188-தோட்டாக்கள்-மீட்பு/175-362917) · `ta`
-
-அனுராதபுரம், கலென் பிந்துனுவெவ கெடலாவ வாவியில் இருந்து  தானியங்கி துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 3000க்கும் மேற்பட்ட தோட்டாக்கள் மீட்கப்பட்டுள்ளதாக கலென் பிந்துனுவெவ பொலிஸார் தெரிவித்தனர்.
-
-வயலில் இருந்து திரும்பிக் கொண்டிருந்த ஒரு விவசாயி ஒருவர் தனது  கால்களை கழுவுவதற்காக குறித்த வாவிக்கு சென்றபோது நீருக்குள் பல தோட்டாக்கள் இருப்பதை அவதானித்து பொலிஸாருக்கு தகவல் வழங்கியுள்ளார்.
-
-அதற்கமைய உடனடியாகச் செயற்பட்ட பொலிஸார்  குறித்த வாவிக்கு சென்று மேற்கொண்ட தேடுதலில் 5,038 தோட்டாக்களை மீட்டுள்ளனர்.
-
-குறித்த இடத்தில்  விசேட பொலிஸ் குழுவினரால் மேற்கொண்ட மேலதிக சோதனையின் போது  11 மெகசின்கள் மற்றும் 3150 தோட்டாக்கள் மீட்கப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/2579697f.json)
 
 ---

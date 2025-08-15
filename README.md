@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 09:43:51**
+As of **2025-08-15 10:08:46**
 
 ## Newspaper Stats
 
-*Scraped **70,613** Articles*
+*Scraped **70,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,817
-adaderanalk | 8,815
-tamilmirrorlk | 10,386
+adaderanalk | 8,816
+tamilmirrorlk | 10,389
 virakesarilk | 11,742
 adaderanasinhalalk | 12,154
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 12,154
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.8%) of 70,613 articles have been extended.
+61,973 (87.8%) of 70,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### நூரளையில்  நூலிழையில் தப்பிய பயணிகள்
+
+*2025-08-15 09:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நூரளையில்-நூலிழையில்-தப்பிய-பயணிகள்/76-362951) · `ta`
+
+நுவரெலியாவில் இருந்தது பூண்டுலோயா நோக்கி சென்ற அரச பேருந்து ஒன்று குடைசாய்ந்து  விபத்துக்குள்ளானதில் பேருந்தில் இருந்த பயணிகள் மயிரிழையில் உயிர் தப்பியுள்ளனர்.
+
+குறித்த சம்பவம் நேற்று (14) மாலை நுவரெலியா பூண்டுலோயா பகுதியில் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+விபத்து நடந்த போது பயணிகள் பேருந்தில் இருந்து கீழே இறக்க முடியாமல், பேருந்து ஜன்னல் வழியாக வெளியேவந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/d4d570a3.json)
+
+---
+
+### 13 ஆண்டுகளாக தேடப்பட்ட இலங்கை கடத்தல் தலைவன் கைது
+
+*2025-08-15 09:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-ஆண்டுகளாக-தேடப்பட்ட-இலங்கை-கடத்தல்-தலைவன்-கைது/175-362950) · `ta`
+
+சென்னை - மத்திய போதை தடுப்பு பிரிவு பொலிஸான என் சி பி அதிகாரிகள், கடந்த 2012 ஆம் ஆண்டு, சென்னை கோயம்பேடு பேருந்து நிலையத்தில் திடீர் சோதனை நடத்தி, மதுரைக்கு செல்ல இருந்த ரவிக்குமார், மாலினி  தம்பதியினரை பிடித்து விசாரித்தனர்.
+
+அவர்கள் பைகளில்33 கோடி ரூபாய் மதிப்புடைய 3.3 கிலோ ஹெராயின் போதை பொருள் இருந்ததை கண்டுபிடித்தனர்.
+
+அவர்களிடம் நடத்திய விசாரணையில் இலங்கையைச்சேர்ந்த முகமது முனாவர் என்பவர் தான், இந்த போதைப் பொருளை தங்களிடம் கொடுத்து, மதுரையில் உள்ள மற்றொரு, இலங்கை நபரிடம் கொடுக்கப்படி கூறினார். அதற்காக முகமது முனாவர் எங்களுக்கு, ரூ.10,000  கொடுத்தார் என்றும் கூறினர்.
+
+இதை அடுத்து மத்திய போதை தடுப்பு பிரிவு அதிகாரிகள், கணவன் மனைவி இருவரையும் கைது செய்து, நீதிமன்றத்தில் வழக்கு பதிவு செய்தனர். அந்த வழக்கில் கடந்த 2016 ஆம் ஆண்டு, கணவனுக்கு 10 ஆண்டுகள் சிறைத் தண்டனையும், மனைவிக்கு 6 ஆண்டுகள் சிறை தண்டனையும் விதிக்கப்பட்டது.
+
+...
+
+[Data](articles/31f98c70.json)
+
+---
+
+### ரயிலில் மோதி ஒருவர் மரணம்
+
+*2025-08-15 09:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-ஒருவர்-மரணம்/175-362948) · `ta`
+
+மருதானையிலிருந்து பெலியத்த நோக்கிச் செல்லும் கடுகதி ரயிலில் மோதி நேற்று (14) இரவு ஒருவர் உயிரிழந்துள்ளார்.
+
+களுத்துறை வடக்கு பொலிஸ் பிரிவில் உள்ள கொழும்பு-பெலியத்த ரயில் மார்க்கத்தின் 23வது தூண்  அருகே இவ்விபத்து இடம்பெற்றதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்து குறித்து களுத்துறை வடக்கு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.   R
+
+◼️
+
+[Data](articles/6089d6ad.json)
+
+---
 
 ### වන්දනා නඩයක් රැගෙන ගිය බස් රථය අනතුරක - පිරිසක් රෝහලට
 
@@ -63,6 +113,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3e66c288.json)
+
+---
+
+### Trump to meet Putin today in push for Ukraine peace
+
+*2025-08-15 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111490/trump-to-meet-putin-today-in-push-for-ukraine-peace) · `en`
+
+US and Russian officials will converge on the state of Alaska ahead of a highly anticipated Friday meeting between Presidents Donald Trump and Vladimir Putin.
+
+The pair will meet for the first time in six years, as Trump tries to enact a key campaign pledge to end Russia’s war in Ukraine.
+
+The US president, who has portrayed himself as a global peacemaker, hopes to leverage his personal relationship with Putin to achieve a ceasefire breakthrough where others have failed.
+
+On Thursday he assessed there was a “25% chance” the meeting would not be successful.
+
+Ukraine’s leader Volodymyr Zelensky has been excluded from the talks, and warned that any resolutions made in his absence will be meaningless.
+
+In Anchorage there are few signs of the impending high-stakes meeting, except for the international media that have descended on the area.
+
+Journalists are rubbing elbows with holidaymakers from the “lower 48” states on visits to the Alaskan wilderness during the height of the tourist season.
+
+...
+
+[Data](articles/2716a019.json)
 
 ---
 
@@ -1729,83 +1803,5 @@ Sampath Bank profits fell 17 percent in the June 2025 quarter to 6.7 billion rup
 ◼️
 
 [Data](articles/c042e03f.json)
-
----
-
-### COPF approves Gambling Regulatory Authority Bill
-
-*2025-08-14 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111469/copf-approves-gambling-regulatory-authority-bill) · `en`
-
-The Bill to establish the Gambling Regulatory Authority has been approved by the Committee on Public Finance (COPF).
-
-The Bill was approved at the meeting of the Committee on Public Finance held under the acting chairmanship of Member of Parliament Rauf Hakeem, the Department of Communication of Parliament said.
-
-The Bill was discussed on several occasions in the Committee on Public Finance and it provides for the establishment of the Gambling Regulatory Authority as an independent regulatory body with a broad scope to standardize betting and gaming establishments in Sri Lanka, minimize social harm, develop the tourism sector and grow the economy, according to the statement by the Communication Department.
-
-...
-
-[Data](articles/9030737d.json)
-
----
-
-### தேசிய தாய்ப்பால் மாதம் பிரகடனம்
-
-*2025-08-14 15:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-தாய்ப்பால்-மாதம்-பிரகடனம்/175-362915) · `ta`
-
-ஆகஸ்ட் மாதத்தை தேசிய தாய்ப்பால் மாதமாக அறிவிக்க சுகாதார மற்றும் ஊடக அமைச்சகம் நடவடிக்கை எடுத்துள்ளது.
-
-இந்த சிறப்பு மாதத்தைக் குறிக்கும் தேசிய கொண்டாட்டம் மற்றும் ஆலோசனைப் பட்டறை பத்தரமுல்லையில் உள்ள வோட்டர்ஸ் எட்ஜ் ஹோட்டலில் சுகாதார மற்றும் ஊடக அமைச்சர் டாக்டர் நளிந்த ஜெயதிஸ்ஸ தலைமையில் நடைபெற்றது.
-
-சர்வதேச தாய்ப்பால் வாரம் ஒவ்வொரு ஆண்டும் ஆகஸ்ட் 1 முதல் 7 வரை பிரகடனப்படுத்தப்படுகிறது, மேலும் இந்த மாதத்தை அந்த வாரத்துடன் இணைந்து அறிவிக்க நடவடிக்கை எடுக்கப்பட்டது.
-
-தாய்ப்பால் கொடுப்பதன் முக்கியத்துவம், அந்த மாதத்தில் மேற்கொள்ளப்பட்ட நடவடிக்கைகள், அறிவுப் பகிர்வு, கடந்த ஆண்டில் செய்யப்பட்ட பணிகள் குறித்த விவாதங்கள், தாய்ப்பால் கொடுப்பதன் பத்து கோட்பாடுகள் தொடர்பாக தங்கள் கடமைகளை வெற்றிகரமாகச் செய்த சுகாதார நிபுணர்களைப் பாராட்டுதல் மற்றும் பல திட்டங்கள் ஆகியவை தேசிய கொண்டாட்டம் மற்றும் ஆலோசனைப் பட்டறையில் அடங்கும்.
-
-...
-
-[Data](articles/89ec3b05.json)
-
----
-
-### Body of male found floating in Bolgoda River
-
-*2025-08-14 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111468/body-of-male-found-floating-in-bolgoda-river) · `en`
-
-A body of a male has been discovered floating in the Bolgoda River, near the Kospalana Bridge along the Piliyandala–Moratuwa road, police stated.
-
-The deceased has been identified as a 46-year-old father of four.
-
-The body was found following a tip-off received by the police emergency response unit stating that a body was seen floating in the Bolgoda River.
-
-It was revealed that the man had been missing for two days prior to the discovery, and his family had lodged a complaint with police regarding his disappearance.
-
-The brother of the deceased informed police that he had been suffering from mental health issues for a long period, along with several other illnesses.
-
-◼️
-
-[Data](articles/8677b46b.json)
-
----
-
-### ලංගම බස් රථයක එංජිමට යූරියා දාලා
-
-*2025-08-14 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213364) · `si`
-
-නුවරඑළිය ඩිපෝවට අයත් ගාල්කර තිබූ බස් රථයක එංජිමට යූරියා පොහොර දැමීමක් සම්බන්ධයෙන් නුවරඑළිය හයිෆොරස්ට් පොලීසිය මගින් විමර්ශනයක් ආරම්භ කර ඇත.
-
-නුවරඑළියේ සිට හයිෆොරස්ට් දක්වා දිනපතා ධාවනය වන බස් රථයකට මෙලෙස යූරියා පොහොර දමා තිබේ.
-
-එම බස් රථය හයිෆොරස්ට් ප්‍රදේශයේ ගාල් කර තිබියදී ඉකුත් 12වනදා රාත්‍රියේ කිසියම් පුද්ගලයෙකු විසින් එංජිම තුළට මෙලෙස යූරියා පොහොර දමා ඇත.
-
-බස් රථය උදෑසන ධාවනය කිරීමට ප්‍රථම, එංජිමේ තෙල් පරික්ෂා කිරීම සඳහා ආවරණය විවෘත කර බැලීමේදී එංජිමේ මූඩිය ගලවා තිබූ බව අනාවරණය වී තිබේ.
-
-එමෙන්ම ඒ අසළ සුදු පාට යූරියා පොහොරවලට සමාන රසායනික ද්‍රව්‍යයක් එංජිම වටා වැටී ඇති අතර, ඒ සම්බන්ධයෙන් සැකසිතා එම බස් රථයේ රියදුරා සහ කොන්දොස්තරවරයා විසින් පොලීසියට පැමිණිලි කර ඇත.
-
-මේ සම්බන්ධයෙන් කළ විමසීමකදී නුවරඑළිය ඩිපෝ කළමණාකාරවරයා පවසා සිටියේ, බස් රථයට කිසියම් පුද්ගලයෙක් හෝ පිරිසක් එක්ව එංජිම තුළට යූරියා පොහොර දමා ඇති බවය.
-
-ඒ අනුව බස් රථය පණ නොගන්වා ඇඳගෙන නුවරඑළිය ඩිපෝව වෙත රැගෙන විත් එංජිම ගලවා පරීක්ෂා කිරිමට පියවර ගන්නා බව හෙතෙම සඳහන් කළේය.
-
-◼️
-
-[Data](articles/cb1e757b.json)
 
 ---

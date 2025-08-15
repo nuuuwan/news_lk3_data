@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-15 17:32:59**
+As of **2025-08-15 17:52:59**
 
 ## Newspaper Stats
 
-*Scraped **70,687** Articles*
+*Scraped **70,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,83 @@ newsfirstlk | 363
 dbsjeyarajcom | 602
 bbccomsinhala | 677
 colombotelegraphcom | 722
-economynextcom | 4,309
+economynextcom | 4,319
 islandlk | 4,330
 dailymirrorlk | 4,733
 dailyftlk | 4,965
 adalk | 6,822
-adaderanalk | 8,826
+adaderanalk | 8,828
 tamilmirrorlk | 10,414
 virakesarilk | 11,749
-adaderanasinhalalk | 12,175
+adaderanasinhalalk | 12,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.7%) of 70,687 articles have been extended.
+61,973 (87.7%) of 70,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-15 (Friday)
+
+### Sri Lanka may call for tenders for Indian Adani-withdrawn wind power plants
+
+*2025-08-15 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-call-for-tenders-for-indian-adani-withdrawn-wind-power-plants-236578/) · `en`
+
+ECONOMYNEXT – Sri Lanka could call for international tenders for wind power plants in the island nation’s Northern Mannar and Pooneryn after India’s Adani Green withdrew early this year due to price difference, Energy Minister Kumara Jayakody said.
+
+India’s Adani Group decided to withdraw its wind power deals with Sri Lanka in February this year after the new government prepared to renegotiate the project for a lower price.
+
+The previous government had agreed for 8.26 cents U.S. dollar unit cost of wind power, but President Anura Kumara Dissanayake’s administration wanted it to be reduced below 6 cents U.S. dollars.
+
+“Based on the requirement, we will go for a tender and give it to the best bidder. Even Adani or any other party can bid for that. We will be giving the project to the lowest and successful bidder,” Minister Jayakody told reporters at a media briefing on Friday.
+
+...
+
+[Data](articles/98b3322d.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields edge up on short tenors
+
+*2025-08-15 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-on-short-tenors-236568/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.90/301.05 to the US dollar in the spot market Friday, stronger from 301.05/25 the previous day, while bond yields edged up on the short end of the yield curve, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed at 8.50/55 percent, up from 8.48/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.90/95 percent, up from 8.88/97 percent.
+
+A bond maturing on 15.12.2029 closed at 9.42/45 percent, up from 9.38/42 percent.
+
+A bond maturing on 15.12.2032 closed at 10.18/22 percent, down from 10.19/24 percent. (Colombo/Aug15/2025)
+
+◼️
+
+[Data](articles/f08deb7a.json)
+
+---
+
+### අභාවප්‍රාප්ත ලොහාන් රත්වත්තේගේ අවසන් කටයුතු එළැඹෙන 17 වෙනිදා
+
+*2025-08-15 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213412) · `si`
+
+අභාවප්‍රාප්ත හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ අවසන් කටයුතු එළැඹෙන 17 වනදා සිදුකිරීමට නියමිතව තිබේ.
+
+පවුලේ ඥාතීන් සඳහන් කළේ, අද (15) රාත්‍රියේ සිට මහියාවේ පිහිටි ඒ මහතාගේ නිවසේ මහජන ගෞරවය සඳහා දේහය තැන්පත් කර ඇති බවය.
+
+ඒ අනුව අනිද්දා පස්වරු 5ට මහනුවර, නිත්තවෙල පවුලේ සුසාන භූමියේ දී ඒ මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකිරීමට නියමිතය.
+
+දැඩි ලෙස රෝගාතුරව සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා අද පෙරවරුවේ කොළඹ පිහිටි පෞද්ගලික රෝහලක දී අභාවප්‍රාප්ත විය.
+
+◼️
+
+[Data](articles/940b1a61.json)
+
+---
 
 ### අගමැතිනිය මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනයට එක්වෙයි
 
@@ -41,8 +99,6 @@ Extensions include translations and NER (Named Entity Recognition).
 “Gem City Ratnapura- 2025” මැයෙන් පැවැත්වෙන ජාත්‍යන්තර 'මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනය 2025' සමාරම්භක උත්සවය අමතමින් අග්‍රාමාත්‍යතුමිය මේ බව සඳහන් කළාය.
 
 එහිදී ඇය වැඩිදුරටත් පැවසුවේ ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළඳපොළ ජය ගත හැකි පරිදි ස්ථාවර ප්‍රතිපත්ති සකස් කිරීමට රජය කටයුතු කරන බවය.
-
-ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරිය සංවිධානය කරන මැණික් හා ස්වර්ණාභරණ වෙළඳ ප්‍රදර්ශනය, ලෝකයේ ප්‍රමුඛතම මැණික් හා ස්වර්ණාභරණ වෙළඳපොළක් ලෙස ස්ථාපිත කිරීමේ අරමුණින්, විවිධ වර්ගයේ මැණික්, මැණික් හා ස්වර්ණාභරණ කැණීම් සහ සැකසීම් ක්‍රමවේදයන්, පරීක්ෂණාගාර සේවා මෙන්ම ක්ෂේත්‍රයේ පුහුණු හා අධ්‍යාපන අවස්ථාවන්ගෙන් සමන්විතව මෙම ප්‍රදර්ශනය සංවිධානය කර තිබේ.
 
 ශ්‍රී ලංකාවේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ පළමු රජයේ වෙළඳ වෙබ් අඩවිය වන www.gemcityratnapura.com වෙබ් අඩවිය GOV PAY නවතම පහසුකම සහිතව එළිදැක්වීම ද මෙහිදී සිදු කෙරිණි.
 
@@ -88,6 +144,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### On India’s Independence Day, Modi vows to punish Pakistan for future attacks
+
+*2025-08-15 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111504/on-indias-independence-day-modi-vows-to-punish-pakistan-for-future-attacks) · `en`
+
+Indian Prime Minister Narendra Modi warned Pakistan that India will punish its neighbor if there are future attacks on India as he marked 79 years of independence from British colonial rule.
+
+Modi’s remarks Friday come three months after nuclear-armed rivals India and Pakistan engaged in four days of intense fighting, their worst clash in decades.
+
+Modi addressed the country from New Delhi’s 17th-century, Mughal-era Red Fort, saying India has established a “new normal” that does not differentiate between “terrorists” and those who support terrorism. He said he would not tolerate what he called Islamabad’s “nuclear blackmail.”
+
+“India has decided that it will not tolerate nuclear threats. For a long time, nuclear blackmail had been going on but this blackmail will not be tolerated now,” Modi said.
+
+Pakistan previously has rejected India’s statements about nuclear blackmail as provocative and inflammatory.
+
+...
+
+[Data](articles/1ce48bad.json)
+
+---
+
 ### යෝජිත කම්කරු පනතට පාර්ශව රැසකින් යෝජනා ලබා ගැනීමට පියවර
 
 *2025-08-15 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213409) · `si`
@@ -110,6 +186,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka’s central bank extends Pan Asia primary dealer ban for further 6 months
+
+*2025-08-15 16:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-extends-pan-asia-primary-dealer-ban-for-further-6-months-236572/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s central bank will extend the ban on the primary dealership arm of Pan Asia Banking Corporation (PABC) for another six months, the company said in a stock exchange filing.
+
+The central has said the suspension will have no bearing on the bank’s regular banking activities and trading on the secondary market.
+
+PABC’s primary dealer license has been suspended since August 2017 for its transactions with Perpetual Treasuries Ltd during a securities fraud which caused losses to the state and the Employees’ Provident Fund, a superannuation fund of private sector worker savings. (Colombo/Aug15/2025)
+
+◼️
+
+[Data](articles/966400ff.json)
+
+---
+
 ### நீங்கள் உடல்களை புதைக்கலாம், ஆனால் உங்களால் உண்மையை புதைக்க முடியாது புதைக்கப்படாத எலும்புக்கூடுகள் நிலத்தை கிழித்துக்கொண்டு உண்மையை சொல்ல வெளிவருகின்றன - சட்டத்தரணி ரனிதா ஞானராஜா
 
 *2025-08-15 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222623) · `ta`
@@ -125,6 +217,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cbd9b094.json)
+
+---
+
+### Baseline Road blocked due to protest march
+
+*2025-08-15 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111503/baseline-road-blocked-due-to-protest-march-) · `en`
+
+Baseline Road has reportedly been blocked for vehicular traffic from the Cemetery Junction in Borella to Campbell Park due to a protest march.
+
+Severe traffic congestion has been reported along the road and in the area owing to the protest march, organised by the ‘Sri Lanka Committee for Solidarity with Palestine’ condemning the ongoing violence in the Gaza conflict.
+
+The peaceful protest march commenced from near the Borella Cemetery Roundabout and is heading towards Campbell Park.
+
+◼️
+
+[Data](articles/7710c472.json)
 
 ---
 
@@ -440,6 +548,26 @@ The official inauguration ceremony was held on April 05, at the invitation of Pr
 
 ---
 
+### Sri Lanka stocks close up 1.45-pct driven by banks
+
+*2025-08-15 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-45-pct-driven-by-banks-236541/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, mostly pushed by interest in banking stocks post interim results announcements, brokers said.
+
+The ASPI was up 1.45 percent, or 289.69 points, at 20,218.36, while the S&P SL20 was up 1.98 percent, or 114.26 points, at 5,894.84.
+
+Market turnover was 9.5 billion rupees. Most of this came from bank (2.1bn), capital goods (2bn), and diversified financial (1.5bn) stocks.
+
+“The turnover was pushed by around 10 companies, which is a good sign, and there was both retail and high net worth participation,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
+
+Banks’ positive interim results were driving the interest in banking stocks, he said, while there was also significant interest in diversified financial companies.
+
+...
+
+[Data](articles/8d9ab397.json)
+
+---
+
 ### குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்
 
 *2025-08-15 14:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குகைக்குள்-வாழும்-இரண்டு-சிறுத்தைகளால்-அச்சம்/76-362971) · `ta`
@@ -627,6 +755,28 @@ Sri Lanka is continuing talks with the U.S. after it imposed 20% tariffs last mo
 ...
 
 [Data](articles/7fbccedd.json)
+
+---
+
+### Voyage Sri Lanka 2025 to focus on boosting blue economy
+
+*2025-08-15 13:12:00* · [`economynextcom`](https://economynext.com/voyage-sri-lanka-2025-to-focus-on-boosting-blue-economy-236502/) · `en`
+
+ECONOMYNEXT – Sri Lanka will host its international marine summit, Voyage Sri Lanka 2025, in October, with a focus on boosting the island nation’s blue economy, its Export Development Board (EDB) said.
+
+This year’s event will have a “sharper focus on turning Sri Lanka’s blue economy potential into tangible outcomes,” EDB said.
+
+The keynote address will focus on the nation’s marine future, EDB said, with three panel discussions exploring the opportunities for the island’s marine economy:
+
+– Trincomalee as the Strategic Gateway to Sri Lanka’s Blue Economy
+
+– Energizing Sri Lanka’s Blue Economy: Offshore Oil & Gas Exploration and LNG Infrastructure as Economic Game Changers
+
+– Charting a Course for Growth: Synergizing Boat Building and Nautical Tourism for Sri Lanka’s Blue Economy
+
+...
+
+[Data](articles/974a23e3.json)
 
 ---
 
@@ -822,6 +972,20 @@ He was re-elected in the 2015 and 2020 parliamentary elections.
 
 ---
 
+### Sri Lanka sells extra Rs10.3bn Treasury bills after auction
+
+*2025-08-15 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs10-3bn-treasury-bills-after-auction-236475/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 10,350 million rupees of treasury bills offered on tap at average rates of 7.60 percent and 7.90 percent, the state debt office said, bringing the total of bills sold this week to 113.8 billion rupees.
+
+On Wednesday (13) the debt office raised 103.5 billion rupees of 3, 6 and 12 month bills.
+
+◼️
+
+[Data](articles/cb4aab82.json)
+
+---
+
 ### ගුවන් තොටුපොළේ ආරක්ෂක නිලධාරියෙක් ගිනිඅවි සමග කොටුවෙයි
 
 *2025-08-15 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213394) · `si`
@@ -903,6 +1067,24 @@ Minuwangoda Police Station is continuing further investigations into the inciden
 ◼️
 
 [Data](articles/39b000c9.json)
+
+---
+
+### US combat ship to arrive in Colombo after visits of Indian navy tanker, destroyer
+
+*2025-08-15 11:44:00* · [`economynextcom`](https://economynext.com/us-combat-ship-to-arrive-in-colombo-after-visits-of-indian-navy-tanker-destroyer-236460/) · `en`
+
+ECONOMYNEXT – Sri Lanka will see the visit of the Independence-variant littoral combat ship USS Santa Barbara (LCS 32) to the Port of Colombo this weekend over a port call, the US Embassy in Colombo said days after the visit of Indian Navy’s INS Jyoti (Fleet Tanker) and INS Rana (Destroyer) earlier this week.
+
+India and the United States have increased the frequency of their naval ship visits to Sri Lanka as part of a broader strategic response to growing Chinese influence in the island nation’s ports and economy.
+
+The US Embassy in Colombo said the visit of Santa Barbara was underscoring the strength of the US–Sri Lanka partnership and our shared commitment to a secure, prosperous, and free Indo-Pacific.
+
+“It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission,” the US Embassy said in its statement.
+
+...
+
+[Data](articles/7346755c.json)
 
 ---
 
@@ -1080,6 +1262,28 @@ The Minister explained that if the shortage continues and worsens in the months 
 
 ---
 
+### US envoy calls for reducing Sri Lanka non-tariff barriers
+
+*2025-08-15 10:54:00* · [`economynextcom`](https://economynext.com/us-envoy-calls-for-reducing-sri-lanka-non-tariff-barriers-236451/) · `en`
+
+ECONOMYNEXT – Sri Lanka should enhance trade facilitation and create a more conducive environment by reducing non-tariff barriers, US ambassador Julie Chung has told representatives of the private sector.
+
+Chung met Ceylon Chamber of Commerce officials to discuss trade, investment, and economic opportunities between Sri Lanka and the United States, the chamber said.
+
+She commended the country’s “negotiation with the United States to achieve a fair, balanced, and reciprocal trade relationship”.
+
+And “urged Sri Lanka to seize this window of opportunity by enhancing trade facilitation and creating a more conducive environment, including reducing non-tariff barriers, enhancing openness, and improving competitiveness”.
+
+US companies are increasingly considering South Asia, with Sri Lanka emerging as a top option, Chung was quoted as saying.
+
+Discussions also covered tourism as a sector with strong growth potential.
+
+...
+
+[Data](articles/8a2f16ba.json)
+
+---
+
 ### பம்பலப்பிட்டியில் ஒரு கோடி ரூபாய் மாயம்
 
 *2025-08-15 10:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-ஒரு-கோடி-ரூபாய்-மாயம்/175-362953) · `ta`
@@ -1221,6 +1425,32 @@ Preliminary investigations revealed that the bus driver had lost control of the 
 ◼️
 
 [Data](articles/55e5055a.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bonds steady
+
+*2025-08-15 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236442/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.25/35 to the US dollar in the spot market Friday, weaker from 301.05/25 the previous day, while bond yields were broadly steady except for the 2033 tenor, which was down, dealers said.
+
+A bond maturing on 15.12.2028 was quoted at 8.85/95 percent, down from 8.88/97 percent.
+
+A bond maturing on 15.12.2029 was quoted flat at 9.38/42 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.18/22 percent, down from 10.19/24 percent.
+
+A bond maturing on 01.11.2033 was quoted at 10.60/65 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.75/85 percent.
+
+The Colombo Stock Exchange was trading in green. The ASPI was up 0.25 percent, or 49.51 points, at 19,978.18; the S&P SL20 was up 0.52 percent, or 30.14 points, at 5,810.72.
+
+The telegraphic transfer rate for the US dollar was 297.6000 buying 304.6000 selling, for the British pound 401.9542 buying 413.2960 selling, and the euro 344.7186 buying 355.9238 selling. (Colombo/Aug15/2025)
+
+◼️
+
+[Data](articles/8302a246.json)
 
 ---
 
@@ -1403,6 +1633,24 @@ Journalists are rubbing elbows with holidaymakers from the “lower 48” states
 ...
 
 [Data](articles/f65ba194.json)
+
+---
+
+### Sri Lanka’s chicken egg farmers shrink flocks, day-old chick prices cut
+
+*2025-08-15 08:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-chicken-egg-farmers-shrink-flocks-day-old-chick-prices-cut-236419/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Three Acre Farms, a top poultry company said revenues dropped 27 percent to 1,231 million rupees in the June 2025 quarter as farmers reduced purchases of day old chicks as prices dropped.
+
+“The group’s revenue during the quarter under review declined compared to the same quarter last year, primarily due to reduced demand for both broiler and layer day-old chicks,” Chief Executive Cheng Chih Kwong told shareholders in interim accounts.
+
+“The decline was mainly caused by reduced inputs by farmers at the beginning of the quarter due to lower live bird prices and continued volatility in the table egg market.”
+
+Sri Lanka’s chicken and broiler prices soared in 2022 as macroeconomists created a forex shortage by cutting rates with printed money to boost growth (potential output) and inflation (flexible inflation targeting and the rupee collapsed.
+
+...
+
+[Data](articles/3c37cd9f.json)
 
 ---
 
@@ -1595,239 +1843,5 @@ Bank of Ceylon said its business revival unit was working with financially distr
 ...
 
 [Data](articles/30bf5005.json)
-
----
-
-### වතු කම්කරු වැටුප් වැඩිකිරීම අභියෝගයක් බව ඇමති බිමල් කියයි
-
-*2025-08-15 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213382) · `si`
-
-වතු කම්කරු වැටුප් වැඩිකිරීම රජයට අභියෝගයක් වී ඇති බව ප්‍රවාහන,මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
-
-වැවිලි කර්මාන්ත අමාත්‍යංශය සහ මුදල් අමාත්‍යංශය අඛණ්ඩය මේ සම්බන්ධයෙන් මැදිහත් කිරීම් සිදුකරමින් සිටින බවද බිමල් රත්නායක අමාත්‍යවරයා පෙන්වා දෙයි.
-
-නානුඔය දුම්රිය ස්ථානයේ නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවසීය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍යවරයා කියා සිටියේ ලාබ ලබන ඩිපෝ සඳහා ඉදිරියේදී බෝනස් ලබාදීමට කටයුතු කරන බවය.
-
-◼️
-
-[Data](articles/9957d948.json)
-
----
-
-### පුද්ගල ඝාතනයකට සැකපිට 7ක් අත්අඩංගුවට
-
-*2025-08-15 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213381) · `si`
-
-සීදූව, ඊරියගහළිඳ පාර ප්‍රදේශයේ දී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියට සැකකරුවන් පස්දෙනෙකු හා ඊට ආධාර අනුබලදුන් සැකකරුවන් දෙදෙනෙකු සීදූව පොලීසිය මගින් ඊයේ (14) අත්අඩංගුවට ගෙන ඇත.
-
-‍දුම්මලසූරිය පොලිස් වසමේ දී මෙම පිරිස අත්අඩංගුවට පත්ව ඇති අතර, එහිදී මන්නා පිහි තුනක්ද පොලීසිය සිය භාරයට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 17, 18, 21, 25, 27 හා 44 වයස්වල පසුවන සීදූව ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පැවසීය.
-
-කිසියම් පිරිසක් විසින් ඉකුත් 12වනදා රාත්‍රියේ ඊරියගහළිඳ ප්‍රදේශයේ පුද්ගලයෙකුට තියුණු ආයුධවලින් පහර ඇති බවට සීදූව පොලීසියට තොරතුරු ලැබී තිබුණි.
-
-පහරදීමෙන් බරපතළ තුවාල ලැබූ එම පුද්ගලයා මීගමුව රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මිය ගියේය. ඔහු වයස අවුරුදු  40ක පුද්ගයෙක්ය.
-
-◼️
-
-[Data](articles/f8556ea8.json)
-
----
-
-### දුම්රියේ ගැටී පුද්ගලයෙකු මරුට
-
-*2025-08-15 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213380) · `si`
-
-මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වු සිඝ්‍රගාමී දුම්රියක ගැටී පුද්ගයෙකු මියගොස් තිබේ.
-
-පොලීසිය සඳහන් කළේ ඊයේ (14) රාත්‍රී කාලයේදී කළුතර උතුර පොලිස් වසමේ කොළඹ බෙලිඅත්ත දුම්රිය මාර්ගයේ සැතපුම් 23 අණුව අසලදී මෙම අනතුර සිදුවී ඇති බවය.
-
-සිද්ධිය සම්බන්ධයෙන් කළුතර උතුර පොලිස් ස්ථානයට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
-
-මෘතශරීරය නාගොඩ රෝහලේ තැන්පත් කර ඇති අතර කළුතර උතුර පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/1b2eb713.json)
-
----
-
-### අද කාලගුණ අනාවැකිය
-
-*2025-08-15 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213379) · `si`
-
-අද (15) දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වෙයි.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ ඒ බව දැක්වෙයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
-
-◼️
-
-[Data](articles/12d7578e.json)
-
----
-
-### Several spells of showers expected in various parts of the country today
-
-*2025-08-15 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111485/several-spells-of-showers-expected-in-various-parts-of-the-country-today-) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa and North-western provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (15), the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
-
-◼️
-
-[Data](articles/2b9d1cdb.json)
-
----
-
-### PM Modi to lead India’s 79th Independence Day celebrations
-
-*2025-08-15 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111484/pm-modi-to-lead-indias-79th-independence-day-celebrations-) · `en`
-
-India will celebrate the 79th Independence Day today with Prime Minister Narendra Modi leading the celebrations from the iconic Red Fort in Delhi.
-
-The Indian Prime Minister will hoist the National Flag and address the nation from the ramparts of the iconic monument.
-
-As India is making giant strides towards realising the Government’s vision of Viksit Bharat by 2047, the theme of this year’s celebrations is Naya Bharat.
-
-The celebrations will serve as a platform to commemorate the continuing rise of a prosperous, secure and bold Naya Bharat and provide renewed power to surge further ahead on the path to progress. The success of Operation Sindoor will be celebrated during the Independence Day Celebrations this year.
-
-Around five thousand special guests from different walks of life have been invited to witness the celebrations at Red Fort this year. These include Indian contingent of Special Olympics 2025, Winners of international sports events and Gold Medalists of Khelo India Para Games.
-
-...
-
-[Data](articles/58bc7a85.json)
-
----
-
-### Salt producers urge enforcement of packaging law, release of 400 stalled containers
-
-*2025-08-15 05:43:22* · [`dailyftlk`](https://www.ft.lk/news/Salt-producers-urge-enforcement-of-packaging-law-release-of-400-stalled-containers/56-780316) · `en`
-
-Calls on Govt. to release 400 containers (11,200 tons) worth Rs. 800 m stuck at Colombo Port for 45 days
-
-Sri Lanka Salt Producers’ Association Chairman Ganaka Amarasinghe says heavy rains during 2023 Yala and 2024 Maha seasons hit production in main salt areas of Puttalam, Mannar, Elephant Pass, Trincomalee, Hambantota
-
-Domestic output falls short of 185,000-ton annual need; claims imports from India violate mandatory labelling laws
-
-National Organiser Chaminda Rusiru Maliyedda says port delays due to shipping company issues risk worsening shortages and destabilising market
-
-The Sri Lanka Salt Producers’ Association on Tuesday called on the Government to urgently enforce the country’s packaging regulations on imported salt products and to release 400 containers of salt currently held at the Colombo Port for the past 45 days.
-
-...
-
-[Data](articles/4f0d0a12.json)
-
----
-
-### Parliament complex sees major facelift after four decades
-
-*2025-08-15 05:41:09* · [`dailyftlk`](https://www.ft.lk/news/Parliament-complex-sees-major-facelift-after-four-decades/56-780315) · `en`
-
-Extensive renovations of the Parliament of Sri Lanka complex have recently begun under Cabinet approval. These renovations are taking place after more than 42 years, a Parliament Secretariat statement said.
-
-Work is currently underway to remove the soil layer on the concrete roof terrace of the Parliamentary complex and carry out repairs. In addition, renovations are being done to the roof gutters, copper door, Parliament Medical Centre, washrooms, and Members’ Dressing Room.
-
-Previously, minor maintenance work of the Parliamentary complex was carried out by the Engineering Department. However, the large-scale renovations are being carried out with the labour contribution of the Sri Lankan Army.
-
-◼️
-
-[Data](articles/e06120fd.json)
-
----
-
-### Public, media invited to comment on Online Safety Act amendments
-
-*2025-08-15 05:39:57* · [`dailyftlk`](https://www.ft.lk/news/Public-media-invited-to-comment-on-Online-Safety-Act-amendments/56-780314) · `en`
-
-The Public Security Ministry has invited the public, including local and international media, to submit observations, comments, recommendations, and suggestions on proposed amendments to the Online Safety Act, No. 9 of 2024.
-
-The Ministry said the call follows Cabinet approval for a committee to review the Act and its amendments published in the Gazette on 31 July 2024. The committee will consider submissions received within one month of the notice’s publication.
-
-Members of the public can send their input by post, addressed to the Secretary, Justice and National Integration Ministry, and marked “Committee to amend the Online Safety Act No. 09 of 2024”or via email to [email protected] with the same subject line.
-
-The Ministry urged stakeholders to participate in shaping the amendments, aiming to align the Act with public feedback and ensure it meets both national and international standards.
-
-◼️
-
-[Data](articles/78312491.json)
-
----
-
-### Browns bags Silver at NBEA 2025
-
-*2025-08-15 05:38:33* · [`dailyftlk`](https://www.ft.lk/business/Browns-bags-Silver-at-NBEA-2025/34-780313) · `en`
-
-From left: Brown & Company Head of IT Prasanna Ganegoda and Senior Manager Digital Transformation Nadeesha De Jeodth receiving the award for Silver in the Trading Category
-
-Brown & Company was recently honoured with the Silver Award in the Trading Category at the National Business Excellence Awards (NBEA) 2025, organised by the National Chamber of Commerce of Sri Lanka (NCCSL).
-
-Held on 24 July at the Shangri-La Hotel, Colombo, the annual awards ceremony celebrated organisations that had demonstrated an unwavering commitment to high standards in business performance while contributing to nationwide economic development.
-
-The stringent NBEA framework measures companies based on several core evaluation metrics such as Excellence in Strategy and Leadership, Corporate Governance, Capacity Building, Performance Management, Local and Global Market Reach, Corporate Social Responsibility, Environmental Sustainability, and Business and Financial Results.
-
-...
-
-[Data](articles/60d711eb.json)
-
----
-
-### CIOB holds Sri Lanka Sustainability  Awards tomorrow
-
-*2025-08-15 05:37:06* · [`dailyftlk`](https://www.ft.lk/business/CIOB-holds-Sri-Lanka-Sustainability-Awards-tomorrow/34-780312) · `en`
-
-Sri Lankan Sustainability Awards (SSA)-2025 night, organised by the Ceylon Institute of Builders (CIOB) in partnership with the 13th World Construction Symposium, featuring academic participation from the Building Economics and Management Research Unit (BEMRU) of the University of Moratuwa will take place tomorrow, 16 August at 6 p.m. at Hilton Colombo.
-
-The event will celebrate sustainable innovation and leadership awards which is endorsed by the Urban Development, Construction and Housing Ministry.
-
-The primary objective of the event is to recognise and promote sustainable practices in the construction industry while inspiriting transformation through leadership, innovation and green advancements.
-
-The Sri Lankan Sustainability Awards (SSA) is a pioneering initiative conceptualised to recognise and celebrate sustainability excellence across the construction ecosystem.
-
-...
-
-[Data](articles/7c23b63c.json)
-
----
-
-### Hayleys Energynet powers critical infrastructure for FMCGs
-
-*2025-08-15 05:35:28* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Energynet-powers-critical-infrastructure-for-FMCGs/34-780311) · `en`
-
-Commissions first Riello NextEnergy NXE 300 kVA Transformer-Free UPS system
-
-Claims energy efficiency of up to 97% (online mode), 98.5% (Active ECO mode), and 99% (standby)
-
-Hayleys Energynet, a subsidiary of Hayleys Fentons Ltd., has successfully deployed Riello’s first 300 kVA UPS system in Sri Lanka. This next-generation power continuity solution ensures uninterrupted operations in high-volume food production.
-
-The project scope encompassed the complete supply, installation, testing, and commissioning of the Riello NextEnergy NXE 300 kVA Transformer-Free UPS system. Offering exceptional energy efficiency, up to 97% in online mode, 98.5% in Active ECO mode, and 99% in standby, it significantly reduces energy costs without compromising performance, the company said in a statement.
-
-...
-
-[Data](articles/17f71e39.json)
-
----
-
-### National Chamber, NEDA launch Entrepreneur Awards 2025 – Western Province
-
-*2025-08-15 05:34:44* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-NEDA-launch-Entrepreneur-Awards-2025-Western-Province/34-780310) · `en`
-
-The National Chamber of Commerce of Sri Lanka, in partnership with the National Enterprise Development Authority (NEDA), launched the Western Province Entrepreneur Awards 2025.
-
-Now in its eighth consecutive year, the event celebrates outstanding achievements in the micro, small, medium, and large sectors, with a special focus on business performance within the province.
-
-The National Chamber and NEDA have been assisting the micro, small, medium and large sectors in the regions for a long time, and this offers special focus towards the upliftment of these sectors in the Western Province to develop their capacity and conduct training programs, including entrepreneurs with special abilities.
-
-Applications are open from 18 August onwards. Entrepreneurs from the Western Province are invited to apply, and the Application forms are available at the National Chamber Secretariat, 450 D.R. Wijewardena Mawatha, Colombo 10.
-
-...
-
-[Data](articles/bb47a53c.json)
 
 ---

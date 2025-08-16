@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 15:06:54**
+As of **2025-08-16 15:18:18**
 
 ## Newspaper Stats
 
-*Scraped **70,796** Articles*
+*Scraped **70,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,830
 adaderanalk | 8,843
-tamilmirrorlk | 10,425
+tamilmirrorlk | 10,426
 virakesarilk | 11,760
 adaderanasinhalalk | 12,200
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,796 articles have been extended.
+61,973 (87.5%) of 70,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### மாத்தளை விபத்தில் சிக்கி கிராம உத்தியோகத்தர் மரணம்
+
+*2025-08-16 15:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-விபத்தில்-சிக்கி-கிராம-உத்தியோகத்தர்-மரணம்/175-363005) · `ta`
+
+மாத்தளை, கைக்காவல பிரதேசத்தில் இன்று இடம்பெற்ற விபத்தில் கிராம உத்தியோகத்தர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தனியார் பஸ் ஒன்று மோட்டார் சைக்கிளுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் மாத்தளை - ரத்தொட்ட பிரதேசத்தைச் சேர்ந்த 35 வயதுடைய கிராம உத்தியோகத்தர் ஒருவர் ஆவார்.
+
+◼️
+
+[Data](articles/8d5e750c.json)
+
+---
 
 ### பணிப்புறக்கணிப்பில் குதிக்கும் தபால் ஊழியர்கள்
 
@@ -1809,21 +1825,5 @@ PABC’s primary dealer license has been suspended since August 2017 for its tra
 ...
 
 [Data](articles/cbd9b094.json)
-
----
-
-### Baseline Road blocked due to protest march
-
-*2025-08-15 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111503/baseline-road-blocked-due-to-protest-march-) · `en`
-
-Baseline Road has reportedly been blocked for vehicular traffic from the Cemetery Junction in Borella to Campbell Park due to a protest march.
-
-Severe traffic congestion has been reported along the road and in the area owing to the protest march, organised by the ‘Sri Lanka Committee for Solidarity with Palestine’ condemning the ongoing violence in the Gaza conflict.
-
-The peaceful protest march commenced from near the Borella Cemetery Roundabout and is heading towards Campbell Park.
-
-◼️
-
-[Data](articles/7710c472.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 08:05:43**
+As of **2025-08-16 08:45:12**
 
 ## Newspaper Stats
 
-*Scraped **70,758** Articles*
+*Scraped **70,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ islandlk | 4,338
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,825
-adaderanalk | 8,834
-tamilmirrorlk | 10,418
+adaderanalk | 8,836
+tamilmirrorlk | 10,419
 virakesarilk | 11,760
-adaderanasinhalalk | 12,187
+adaderanasinhalalk | 12,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,758 articles have been extended.
+61,973 (87.6%) of 70,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Driver dead, 22 injured in head-on collision of buses in Monaragala
+
+*2025-08-16 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111513/driver-dead-22-injured-in-head-on-collision-of-buses-in-monaragala) · `en`
+
+A person was killed and at least 22 others were injured when a private bus collided head-on with a Sri Lanka Transport Board (SLTB) bus in Weliyaya, Monaragala, this morning (16).
+
+The 32-year-old driver of the SLTB bus succumbed to his injuries following the accident, said Ada Derana reporter.
+
+The private bus was carrying a group of passengers on a trip, while the SLTB bus had been operating on the Dambagalla–Monaragala route.
+
+The injured were admitted to the Monaragala Hospital for treatment.
+
+◼️
+
+[Data](articles/76638334.json)
+
+---
+
+### ட்ரம்ப் - புடின் சந்திப்பில் எந்த ஒப்பந்தமும் இல்லை
+
+*2025-08-16 07:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-புடின்-சந்திப்பில்-எந்த-ஒப்பந்தமும்-இல்லை/50-362998) · `ta`
+
+அமெரிக்காவில் உள்ள அலாஸ்கா மாகாணத்தில் ஜனாதிபதி டொனால்ட் ட்ரம்ப் ரஷ்ய ஜனாதிபதி புடினை நேருக்கு நேர் சந்தித்துள்ளனர்.
+
+எனினும், விளாடிமிர் புடினுடனான, யுக்ரைன் தொடர்பான பேச்சுவார்த்தைகளில் பாரிய முன்னேற்றம் ஏற்பட்டுள்ளதாக அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+தானும் புடினும் ஒரு ஆக்கப்பூர்வமான சந்திப்பை நடத்தியதாகவும், அதில் சில முன்னேற்றங்களை அடைந்துள்ளதாகவும் அவர் கூறியுள்ளார். (a)
+
+◼️
+
+[Data](articles/c4ad2e28.json)
+
+---
+
+### බස් 2ක් ගැටී බිහිසුණු අනතුරක් - 22කට තුවාල - රියදුරෙක් මරුට
+
+*2025-08-16 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213426) · `si`
+
+මොනරාගල වැලියාය ප්‍රදේශයේදී ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් සහ විනෝද චාරිකාවක් ගිය පුද්ගලික බස් රථයක් මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+
+අනතුරෙන් ලංකා ගමනාගමන මණ්ඩලයට අයත් මගී බස් රථයේ 32 හැවිරිදි රියදුරා මියගොස් ඇති අතර පුද්ගලයින් 22ක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+පොලීසිය සඳහන් කළේ දඹගල්ල සිට මොනරාගල බලා ධාවනය වෙමින් තිබූ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් චාරිකාවක යමින් තිබූ පෞද්ගලික බස් රථයක මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුවී ඇති බවය.
+
+අනතුරෙන් මියගිය ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයේ රියදුරා 32 හැවිරිදි වියේ පසුවූ දඹගල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+බස් රථ අනතුරින් තුවාල ලැබූ පුද්ගලයින් ප්‍රතිකාර සඳහා මොනරාගල රෝහලට ඇතුළත් කර ඇති බවද පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/69e976ac.json)
+
+---
 
 ### දියේ ගිලී 12 හැවිරිදි දරුවෙකු මරුට
 
@@ -67,6 +121,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5ec987a9.json)
+
+---
+
+### Spells of showers, fairly strong winds expected in parts of the island today
+
+*2025-08-16 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111512/spells-of-showers-fairly-strong-winds-expected-in-parts-of-the-island-today) · `en`
+
+Several spells of showers will occur in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (16), the Department of Meteorology said.
+
+Mainly fair weather will prevail over the other areas of the island, the Met. Department added.
+
+Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
+
+◼️
+
+[Data](articles/9acd49ea.json)
 
 ---
 
@@ -1741,77 +1811,5 @@ The keynote address will focus on the nation’s marine future, EDB said, with t
 ...
 
 [Data](articles/33d19c7f.json)
-
----
-
-### USS Santa Barbara to make first port call at Colombo tomorrow
-
-*2025-08-15 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111497/uss-santa-barbara-to-make-first-port-call-at-colombo-tomorrow-) · `en`
-
-The U.S. Embassy in Sri Lanka has announced the visit of the Independence-variant littoral combat ship USS Santa Barbara (LCS 32) to the Port of Colombo tomorrow (August 16).
-
-The visit marks the USS Santa Barbara’s first port call to Colombo, underscoring the strength of the U.S.–Sri Lanka partnership and our shared commitment to a secure, prosperous, and free Indo-Pacific, the statement said.
-
-It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission, the embassy said.
-
-The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands the world’s largest forward-deployed fleet with the primary mission of providing operational control and planning for its forces in the Western Pacific and Indian Oceans, while promoting regional stability and maritime security through engagements with allies and partners.
-
-...
-
-[Data](articles/63266d02.json)
-
----
-
-### ලොහාන් රත්වත්තේ ජීවිතක්ෂයට
-
-*2025-08-15 12:49:50* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-ජීවිතක්ෂයට/11-417932) · `si`
-
-මහනුවර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී සහ රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වී තිබේ. මිය යන විට 57 හැවිරිදි වියේ පසු වූ ඒමහතා එක්දරු පියෙකි.
-
-මහනුවර ත්‍රිත්ව විදුහලේ ආදි සිසුවකු වන ඒ මහතා දේශපාලන කරලියේ ආන්දෝලනාත්මක චරිතයක් වූයේ 2001 වසරේදී පැවති පාර්ලිමේන්තු මැතිවරණය අවස්ථාවේදී උඩතලවින්න දස පුද්ගල ඝාතනය සහ 2021 වසරේදී බන්ධනාගාර රාජ්‍ය අමාත්‍යවරයාව සිටියදී අනුරාධපුර බන්ධනාගාරයට රාත්‍රී කාලයේ ඇතුළු වී එහි සිටි රැඳවියන් පිරිසකට තර්ජනය කිරීමේ සිද්ධි ඇතුළු සිද්ධීන් ගණනාවක් හේතුවෙනි.
-
-හිටපු රාජ්‍ය ආරක්ෂක අමාත්‍ය ජනරාල් අනුරුද්ධ රත්වත්තේ මහතාගේ වැඩිමහල් පුත්‍රයා වන ලොහන් රත්වත්තේ මහතා දේශපාලනයට අත්පොත්තමින් 2009 වසරේදී මධ්‍යම පළාත් සභාවේ මන්ත්‍රීවරයකු වශයෙන් තේරී පත්විය. ඉන් අනතුරුව ඒ මහතා 2010 වසරේ සිට 2024 වසර දක්වා මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වශයෙන් කටයුතු කළේය.
-
-◼️
-
-[Data](articles/e87e997a.json)
-
----
-
-### ඉන්දීය මහ කොමසාරිස් කාර්යාලයට එජාපයේ විරෝධය
-
-*2025-08-15 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213396) · `si`
-
-ඉන්දියාවේ 79වන නිදහස් දිනය නිමිත්තෙන් මෙරට මුද්‍රිත මාධ්‍යවල පළ කරනු ලැබූ දැන්වීම් අතිරේක පිළිබඳව එක්සත් ජාතික පක්ෂයේ ඉහළ මට්ටමේ නිලධාරීන්ගේ හමුවකදී දැඩි අවධානය යොමුවී තිබේ.
-
-හිටපු රාජ්‍ය තාන්ත්‍රිකයින් කිහිපදෙනෙකුද සහභාගී වූ මේ හමුවේදී ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් කාර්යාලය මගින් සකස් කරනු ලදුව මුද්‍රිත මාධ්‍ය ආයතන සඳහා නිකුත් කරනු ලැබූ දැන්වීම් අතිරේකයේ  ඡායාරූප යෙදීම සහ ඒවා තෝරා ගැනීම පිළිබඳව විශේෂයෙන්ම දීර්ඝ වශයෙන් කරුණු සාකච්ඡා වී ඇත.
-
-දැන්වීම් අතිරේකයට යොදාගත් සෑම පිටුවකම ඉන්දීය අග්‍රාමාත්‍යවරයා සහ ශ්‍රී ලංකා ජනාධිපතිවරයා එකට සිටින ඡායාරූප පළකිරීම සාමාන්‍යයෙන් සිදු නොකරන්නක් බව ඉහත සාකච්ඡාවට සහභාගී වූ හිටපු රාජ්‍ය තාන්ත්‍රිකයන් පෙන්වා දී තිබේ.
-
-එසේම හිටපු විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඡායාරූපයක් හෝ සටහනක් හෝ පළ නොකිරීම පිළිබඳවද එහිදී අවධානය යොමුවී තිබුණි.
-
-ඉන්දීය නිදහස් දිනය නිමිත්තෙන් මහ කොමසාරිස් කාර්යාලයේ අධීක්ෂණය යටතේ පළ කෙරුණු දැන්වීම් අතිරේක පිළිබඳව එක්සත් ජාතික පක්ෂයේ බලවත් අප්‍රසාදය මේ වනවිටත් කොළඹ ඉන්දීය මහ කොමසාරිස් කාර්යාලය වෙත පළකර ඇතැයිද වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/9f546c6c.json)
-
----
-
-### லொஹான் ரத்வத்த திடீர் மரணம்
-
-*2025-08-15 12:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-திடீர்-மரணம்/175-362967) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சரும்  லோகன் ரத்வத்த  கொழும்பு தேசிய மருத்துவமனையில் சிறிது நேரத்திற்கு முன்புகாலமானார் என்று குடும்ப வட்டாரங்கள் தெரிவிக்கின்றன.
-
-சுகயீனம் காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்த ரத்வத்த இன்று (15) பிற்பகல் காலமானார். அவர், ஈரல் தொடர்பில் சிகிச்சை பெற்று வந்துள்ளார் என்பதுடன், சத்திரசிகிச்சைக்கு தயாராகிகொண்டிருந்தார் என்றும் அறியமுடிகின்றது.
-
-கண்டி மாவட்டத்தில் இருந்து அரசியலில் நுழைந்த அவர், இறக்கும் போது  அவருக்கு வயது 57.
-
-ஐக்கிய மக்கள் சுதந்திரக் கூட்டணியைப் பிரதிநிதித்துவப்படுத்தும் மத்திய மாகாண சபை உறுப்பினராக அரசியலில் நுழைந்த   லொஹான் ரத்வத்த, பின்னர் கண்டி மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டு, இராஜாங்க அமைச்சர் மற்றும் பிரதி அமைச்சர் பதவிகளை வகித்தார்.
-
-...
-
-[Data](articles/e00cdc2b.json)
 
 ---

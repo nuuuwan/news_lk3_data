@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 16:20:09**
+As of **2025-08-16 16:31:57**
 
 ## Newspaper Stats
 
-*Scraped **70,802** Articles*
+*Scraped **70,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 723
 economynextcom | 4,323
-islandlk | 4,339
+islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,831
 adaderanalk | 8,843
 tamilmirrorlk | 10,426
 virakesarilk | 11,760
-adaderanasinhalalk | 12,203
+adaderanasinhalalk | 12,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,802 articles have been extended.
+61,973 (87.5%) of 70,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### විපක්ෂයේ සාකච්ඡා ගැන ඇහෙන අලුත්ම කතාව
+
+*2025-08-16 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213444) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ පොදුජන එක්සත් පෙරමුණේ මෙවර පළාත් පාලන මැතිවරණයට ඉදිරිපත්ව ජයග්‍රහණය කළ නියෝජිතයින් සඳහා වැඩමුළුවක් නිදහස් පක්ෂ මූලස්ථානයේදී පවත්වා තිබේ.
+
+අද (16) පෙරවරුවේ මෙම වැඩමුළුව පැවැති අතර ඊට ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කළ හිටපු මැති ඇමතිවරුන් කිහිප දෙනෙකුද එක් සිටීම විශේෂත්වයකි.
+
+කෙසේ වෙතත් අදාළ වැඩමුළුවෙන් අනතුරුව හිටපු මැති ඇමතිවරුන් අදහස් දැක්වූ අතර එහිදී පසුගියදා හිටපු අමාත්‍ය ජී.එල් පීරිස් මහතාගේ නිවසේ පැවැති සාකච්ඡාව සම්බන්ධයෙන්ද මාධ්‍යවේදීන් විමසා සිටියේය.
+
+එහිදී හිටපු අමාත්‍ය අනුර ප්‍රියදර්ශන මහතා පැවසුවේ කිසිදු පුද්ගලයෙකු නායකත්වයට පත් කිරීමේ අරමුණින් මෙම සාකච්ඡාව නොපැවැත්වෙන බවත් ඒකාබද්ධ විපක්ෂයක් ලෙස ඉදිරි වැඩකටයුතු සිදුකරන ආකාරය සම්බන්ධව පමණක් සාකච්ඡා කරන බවත්ය.
+
+ආණ්ඩුව පෙරළීමේ කිසිදු අවශ්‍යතාවයක් නොමැති බවද අනුර ප්‍රියදර්ශනයාපා මහතා එහිදී සඳහන් කළේය.
+
+...
+
+[Data](articles/5a6488da.json)
+
+---
 
 ### පාදුක්ක පොලිසියේදී යකා නැටූ හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී රිමාන්ඩ්
 
@@ -1326,6 +1346,20 @@ During the six-month period ended 30th June 2025, Sampath Bank reported total in
 
 ---
 
+### Visa presents ‘India on a Plate’: An exclusive dining experience for Infinite cardholders
+
+*2025-08-15 20:57:00* · [`islandlk`](http://island.lk/visa-presents-india-on-a-plate-an-exclusive-dining-experience-for-infinite-cardholders/) · `en`
+
+Visa, the global leader in digital payments, curated a one-of-a-kind dining experience called ‘India on a Plate’ exclusively for its Visa Infinite cardholders, held in collaboration with Cinnamon Life at Indiya Restaurant. This specially designed Chef’s Table experience, hosted on 25th July 2025, exemplified Visa’s commitment to deliver an infinite lifestyle rooted in culturally immersive moments for its indulgent, affluent cardholders.
+
+Facilitated by the skillful and renowned Indian Chef Bhairav Singh, the event transported guests on a sensorial journey through India’s rich culinary heritage. The four-course dinner was an infusion of regional flavours from Bihar, Lucknow, Goa, Kerala, and more; each dish paired with Chef Bhairav’s live storytelling and personal insights deepened the experience. From a delicately plated Gujarati Amuse Bouche to the bold richness of Kashmiri Kukur Rogan Josh, the menu was both nostalgic and inventive.
+
+...
+
+[Data](articles/302224fa.json)
+
+---
+
 ### Interest in Combank stocks enlivens CSE as ASPI crosses 20,000 points for the first time
 
 *2025-08-15 20:56:00* · [`islandlk`](http://island.lk/interest-in-combank-stocks-enlivens-cse-as-aspi-crosses-20000-points-for-the-first-time/) · `en`
@@ -1775,39 +1809,5 @@ The feeder giant accused the court of effectively convicting the vessel’s mast
 ...
 
 [Data](articles/65c7428e.json)
-
----
-
-### “இரத்தினக்கல், ஆபரணச் சந்தையை வெற்றிகொள்வோம்”
-
-*2025-08-15 16:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-ஆபரணச்-சந்தையை-வெற்றிகொள்வோம்/175-362981) · `ta`
-
-இலங்கை இரத்தினக்கல் மற்றும் ஆபரணங்கள் தொடர்பில் சர்வதேசப் புகழ் பெற்றிருந்த போதிலும், எதிர்பார்த்த அளவிற்கு அதன் ஏற்றுமதி வளர்ச்சி அடையவில்லை என்றும், எனவே சர்வதேச இரத்தினக்கல் மற்றும் ஆபரணச் சந்தையை வெற்றி கொள்ளும் வகையில் நிலையான கொள்கைகளை வகுக்க அரசாங்கம் நடவடிக்கை எடுக்கும் என்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
-
-இலங்கையின் இரத்தினக்கல் மற்றும் ஆபரணத் துறையை சர்வதேசத்திற்கு எடுத்துச் செல்லும் நோக்குடன், "Gem City Ratnapura- 2025" எனும் தலைப்பில் 2025 ஓகஸ்ட் 15, 16, மற்றும் 17 ஆகிய மூன்று நாட்கள் பெல்மடுல்ல கிராண்ட் சில்வரே விடுதியில் நடைபெறும் சர்வதேச இரத்தினக்கல் மற்றும் ஆபரணக் கண்காட்சி 2025-இன் தொடக்க விழாவில் உரையாற்றும்போதே பிரதமர் இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/20450e89.json)
-
----
-
-### புதையல் தோண்டிய பிரதி பொலிஸ் மா அதிபரின் மனைவி உட்பட எண்மர் கைது
-
-*2025-08-15 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/222600) · `ta`
-
-அநுராதபுரம் ஷ்ரவஸ்திபுர பகுதியில் புதையல் தோண்டுவதற்கு முற்பட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட பிரதிப் பொலிஸ் மா அதிபர் ஒருவரின் மனைவி உள்ளிட்ட 8 பேர் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-சந்தேகநபர்கள் வியாழக்கிழமை (14) அநுராதபுரம் நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட நிலையில் அவர்களை எதிர்வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிவான் இதன்போது உத்தரவு பிறப்பித்தார்.
-
-கடந்த 13 ஆம் திகதி  ஷ்ரவஸ்திபுர திபிரிகடவல பிரதேசத்தில் உள்ள விகாரைக்கு அருகில் சிலர் புதையல் தோண்டுவதாக அனுராதபுரம் பொலிஸாருக்கு இரகசிய தகவலொன்று கிடைக்கப் பெற்றுள்ளது.
-
-இதனையடுத்து சம்பவ இடத்துக்கு சென்ற பொலிஸார் அங்கிருந்த பெண் ஒருவர் உள்ளிட்ட 8 பேர் கைது செய்திருந்தனர்.
-
-பதுளை, மாளிகாதென்ன, பதவிசிறிபுர, கிராந்திரகோட்டை, வறக்காபொல மற்றும் அனுராதபுரம் ஆகிய பிரதேசங்களை சேர்ந்தவர்கள் சம்பவத்தின் போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/ef26b4f9.json)
 
 ---

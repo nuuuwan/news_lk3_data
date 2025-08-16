@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 20:18:45**
+As of **2025-08-16 20:31:19**
 
 ## Newspaper Stats
 
-*Scraped **70,825** Articles*
+*Scraped **70,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 723
-economynextcom | 4,324
+economynextcom | 4,325
 islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,832
-adaderanalk | 8,849
+adalk | 6,833
+adaderanalk | 8,851
 tamilmirrorlk | 10,427
 virakesarilk | 11,761
 adaderanasinhalalk | 12,215
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,825 articles have been extended.
+61,973 (87.5%) of 70,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka trains state officers on use of AI
+
+*2025-08-16 19:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-trains-state-officers-on-use-of-ai-236652/) · `en`
+
+ECONOMYNEXT – Sri Lanka has conducted a workshop for government officers on the use of Artificial Intelligence (AI) to transform the public service into ‘a productive and efficient service’ the president’s media division said.
+
+The “AI for Transforming Public Service” program was attended by executive officers from 10 ministries, including the Prime Minister’s Office and the Cabinet Office.
+
+“The objective of the workshop was to raise awareness and prepare government officials as an initial step in the state’s digital transformation agenda and to foster a positive attitude towards artificial intelligence within the public service,” the PMD said.
+
+It was organized by the Ministry of Digital Economy and the Presidential Secretariat.
+
+Hans Wijayasuriya delivered the keynote address, and Information and Communication Technology Agency of Sri Lanka (ICTA) Board Member Harsha Purasinghe and other officials were resource persons at the workshop.
+
+...
+
+[Data](articles/131f7a2c.json)
+
+---
+
+### SLMC backs hartal called by ITAK in North and East
+
+*2025-08-16 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111528/slmc-backs-hartal-called-by-itak-in-north-and-east) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) says that it stands in full solidarity with the hartal announced by the Illankai Tamil Arasu Kachchi (ITAK) on Monday (18) as a peaceful protest demanding justice and accountability over the recent death of a 32-year-old in Mullaitivu.
+
+“We are outraged by the recent killing in Mullaitivu, reportedly carried out by members of the Sri Lankan Army. This brutal act is yet another reminder of the deep crisis of law and order within the very forces that are tasked with protecting the public,” SLMC Secretary MP Nizam Kariapper said.
+
+Issuing a statement today, he charged that the government’s inability or unwillingness to hold its armed forces accountable for such grave crimes has eroded public trust and endangered the lives of innocent civilians.
+
+...
+
+[Data](articles/c61bb4ce.json)
+
+---
+
 ### පොල් ගෙඩියක් හිස මතට වැටී පුංචි පුතෙක් ජීවිතක්ෂයට
 
 *2025-08-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213454) · `si`
@@ -75,6 +111,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/48899b69.json)
+
+---
+
+### සෙලෙන්ස්කි හා ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී
+
+*2025-08-16 19:08:43* · [`adalk`](https://www.ada.lk/international/සෙලෙන්ස්කි-හා-ට්‍රම්ප්-අතර-හමුවක්-සඳුදා-වොෂින්ටනයේදී/3-417942) · `si`
+
+යුක්රේන යුද්ධය නිමා කිරීමේ තවත් එක් පියවරක් වශයෙන් යුක්රේන ජනපති වි. ‍සෙලෙන්ස්කි හා ඇමෙරිකා ජනපති ඩොනල්ඩ් ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී පැවැත්වීමට නියමිතව තිබේ.
+
+නායකයන් දෙදෙනා අතර පැවැති දුරකතන සංවාදයකින් අනතුරුව මෙම දින නියම කර තිබේ.  ඇමෙරිකානු ජනපති හා රුසියානු ජනපති පුටින් අතර පැවැති හමුවකින් අනතුරුව මෙසේ ට්‍රම්ප් හා සෙලෙන්ස්කි අතර හමුව පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/7d4f5a41.json)
+
+---
+
+### ‘Galu Kumari’ train derails near Ginthota station
+
+*2025-08-16 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111527/galu-kumari-train-derails-near-ginthota-station) · `en`
+
+A train has reportedly derailed near the Ginthota railway station, disrupting train services on the Coastal Railway Line.
+
+The ‘Galu Kumari’ express train (No 8056) plying from Maradana to Beliatta has derailed in this manner, also causing damage to the railway track.
+
+It is reported that train operations on the Coastal Line have been restricted to the Ambalangoda railway station owing to the derailment.
+
+◼️
+
+[Data](articles/549f085b.json)
 
 ---
 
@@ -1777,67 +1843,5 @@ Provisional data showed the ASPI was up 1.65 percent, or 328.68 points, at 20,25
 ...
 
 [Data](articles/30db4340.json)
-
----
-
-### Nestlé advances regenerative agricultural practices in the coconut value chain via Nestlé Coconut Development Plan
-
-*2025-08-15 20:56:00* · [`islandlk`](http://island.lk/nestle-advances-regenerative-agricultural-practices-in-the-coconut-value-chain-via-nestle-coconut-development-plan/) · `en`
-
-As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. The training programme was initially launched in 2024. Building on its success, the second edition was introduced this year to further expand its reach and impact.
-
-Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme trained 25 local coconut famers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
-
-...
-
-[Data](articles/4795fa66.json)
-
----
-
-### පාකිස්තානයේ හෙලිකොප්ටරයක් කඩා වැටී 5ක් මරුට
-
-*2025-08-15 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213420) · `si`
-
-පාකිස්තානයේ හෙලිකොප්ටරයක් කඩා වැටීම හේතුවෙන් එහි සිටි නියමුවන් දෙදෙනෙකු ඇතුළු කාර්ය මණ්ඩල සාමාජිකයින් පස් දෙනෙකු මිය ගොස් තිබේ.
-
-උතුරු පකිස්ථානයට බලපා ඇති අයහපත් කාලගුණය හේතුවෙන් පීඩාවට පත් ප්‍රදේශ සඳහා සහන භාණ්ඩ රැගෙන යමින් තිබූ හෙලිකොප්ටරයක් මෙසේ කඩා වැටීමට ලක්ව ඇත.
-
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ අයහපත් කාලගුණය හමුවේ යානය පාලනයෙන් ගිලිහීම හේතුවෙන් මෙම අනතුර සිදුවන්නට ඇති බවට සැක පළ කරන බවය.
-
-◼️
-
-[Data](articles/d17b31de.json)
-
----
-
-### செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச  நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வூட்டும் செயலமர்வு
-
-*2025-08-15 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/222648) · `ta`
-
-அரச சேவையை பயனுள்ள மற்றும் செயற்திறனான சேவையாக மாற்றுவதற்கு செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச நிறைவேற்று அதிகாரிகளுக்காக ஏற்பாடு செய்யப்பட்ட  விசேட செயலமர்வு வெள்ளிக்கிழமை (15) பிற்பகல் அலரி மாளிகையில் நடைபெற்றது.
-
-‘AI for Transforming Public Service’  என்ற தொனிப்பொருளில், ஜனாதிபதி  அலுவலகத்தின் ஒத்துழைப்புடன் டிஜிட்டல் பொருளாதார அமைச்சினால் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டது. பிரதமர் அலுவலகம், அமைச்சரவை அலுவலகம் மற்றும் ஏனைய அமைச்சுக்கள் உட்பட பத்து அமைச்சுக்களின் நிறைவேற்று அதிகாரிகள் இந்த செயலமர்வில் பங்கேற்றனர்.
-
-அரச சேவையை டிஜிட்டல் மயமாக்கும் அரசாங்கத்தின் திட்டத்தின் ஆரம்ப பிரவேசமாக, அரச  அதிகாரிகளை அறிவூட்டுதல் மற்றும் தயார்படுத்துதல் மற்றும் அரச சேவைக்குள் செயற்கை நுண்ணறிவு குறித்த சாதகமான அணுகுமுறையை ஏற்படுத்துதல் ஆகிய நோக்கங்களுடன் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டுள்ளது.
-
-...
-
-[Data](articles/d00717b1.json)
-
----
-
-### புதிய பொலிஸ்மா அதிபர்  ஜனாதிபதியை சந்தித்தார்
-
-*2025-08-15 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/222647) · `ta`
-
-புதிய பொலிஸ்மாஅதிபர், சட்டத்தரணி பிரியந்த வீரசூரிய, வெள்ளிக்கிழமை (15) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
-
-புதிய  பொலிஸ்மா அதிபருக்கு ஜனாதிபதி தனது வாழ்த்துக்களைத் தெரிவித்ததோடு ஜனாதிபதிக்கு அவர் நினைவுப் பரிசொன்றையும்  வழங்கினார்.
-
-சட்டத்தரணி  பிரியந்த வீரசூரிய இலங்கை பொலிஸின் 37 ஆவது பொலிஸ்மா அதிபர் ஆவார். இலங்கை பொலிஸ் சேவையில்  கான்ஸ்டபிள், சப்-இன்ஸ்பெக்டர் மற்றும் உதவிப்பொலிஸ் அத்தியட்சகர் ஆகிய  மூன்று நிலைகளையும் கடந்து பொலிஸ்மா அதிபர் பதவிக்கு தெரிவான முதலாவது பொலிஸ்மா அதிபர் இவர் என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/e9ef3859.json)
 
 ---

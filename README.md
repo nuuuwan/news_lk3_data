@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 08:45:12**
+As of **2025-08-16 09:18:34**
 
 ## Newspaper Stats
 
-*Scraped **70,762** Articles*
+*Scraped **70,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,101 @@ newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 722
-economynextcom | 4,320
+economynextcom | 4,322
 islandlk | 4,338
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,825
 adaderanalk | 8,836
-tamilmirrorlk | 10,419
+tamilmirrorlk | 10,421
 virakesarilk | 11,760
-adaderanasinhalalk | 12,188
+adaderanasinhalalk | 12,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,762 articles have been extended.
+61,973 (87.6%) of 70,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Sri Lanka manufacturing boosted by food, beverages, textiles and apparel production: PMI
+
+*2025-08-16 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-boosted-by-food-beverages-textiles-and-apparel-production-pmi-236658/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a higher rate to 62.2 in July 2025, according to a Purchasing Managers Index compiled by the central bank.
+
+“All sub-indices contributed positively to this improvement,” the central bank said.
+
+The growth in the New Orders and Production sub-indices was supported by strong performances in the food and beverages manufacturing and textiles and apparel sectors, it said.
+
+“Manufacturing sector is optimistic about the next three months, while remaining cautious amid uncertainties in global trade.”  (Colombo/Aug16/2025)
+
+◼️
+
+[Data](articles/e88f132c.json)
+
+---
+
+### நீரில் மூழ்கி மாணவன் பலி
+
+*2025-08-16 08:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-363000) · `ta`
+
+மதுரங்குளிய, கரிகட்டிய பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர், மதுரங்குளிய, வெலாசிய கெமுனு ஏரியில் நீந்தச் சென்று நீரில் மூழ்கி உயிரிழந்ததாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+
+வேலாசிய கெமுனு ஏரியில் நீந்துவதற்காக கரிகட்டிய பகுதியில் உள்ள ஒரு உறவினர் வீட்டிற்குச் சென்ற மாணவன், வழுக்கி விழுந்து ஏரியின் படிகளில் தண்ணீரில் இழுத்துச் செல்லப்பட்டான்.
+
+குழந்தை நீரில் மூழ்கி தண்ணீரில் இழுத்துச் செல்லப்படுவதைக் கண்ட அவரது அத்தை தண்ணீரில் குதித்து குழந்தையைக் காப்பாற்ற முயன்றார், ஆனால் நீந்தத் தெரியாததால் அவரும் நீரில் மூழ்கினர்.
+
+அத்தையும் குழந்தையும் தண்ணீரில் மூழ்கிக் கொண்டிருந்தபோது, சம்பவ இடத்தில் இருந்தவர்கள் அலறினர், அருகில் இருந்தவர்கள் விரைந்து ஓடி வந்து குழந்தையையும் அத்தையும் மீட்டு புத்தளம் ஆதார மருத்துவமனையில் அனுமதித்தனர்.
+
+இருப்பினும், குழந்தையை காப்பாற்ற முடியவில்லை, அத்தை ஆபத்தான நிலையில் புத்தளம் ஆதார மருத்துவமனையில் சிகிச்சை பெற்று வருவதாகக் கூறப்படுகிறது
+
+◼️
+
+[Data](articles/17989f32.json)
+
+---
+
+### කලාතුරකින් ඉංග්‍රීසි කතා කරන පුටින් ට්‍රම්ප් කළ ඇරයුම
+
+*2025-08-16 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213427) · `si`
+
+රුසියාව හා යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම සඳහා පැවැත් වූ ට්‍රම්ප් - පුටින් සාකච්ඡා ස්ථිර එකඟතාවයකින් තොරව අවසන්ව වුවද, යුද්ධය අවසන් කිරීමට අමෙරිකානු ජනාධිපතිවරයා දක්වන උනන්දුව සම්බන්ධයෙන් තමා සතුටුවන බව රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් පවසයි.
+
+ලෝක නායකයන් දෙදෙනා අතර ඇලස්කාවේ පැවැති තීරණාත්මක සාකච්ඡාවෙන් පසුව පැවති ප්‍රවෘත්ති සාකච්ඡාවේ ඔහු මේ බව පැවසීය.
+
+යුක්‍රේන ගැටුමට මූලික හේතුන් අවසන් කිරීමට පියවර ගතයුතු බවත්, මෙම සාකච්ඡා කඩාකප්පල් කිරීමට යුක්‍රේනය සහ යුරෝපය කටයුතු නොකරනු ඇතැයි තමා අපේක්ෂා කරන බවත් රුසියානු ජනාධිපතිවරයා මෙහිදී ප්‍රකාශ කර තිබේ.
+
+එමෙන්ම අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇත්තේ, මෙම සාකච්ඡාවේ දී අවසන් එකඟතාවකට නොපැමිණියද, රුසියාව සහ යුක්‍රේනය අතර අවසන් එකඟතාවක් ඇතිවනු ඇති බවට තමා විශ්වාසය පළකරන බවයි.
+
+මේ අතර අතිශය සීමිත අවස්ථාවකදී ඉංග්‍රීසි භාෂාව ප්‍රසිද්ධියේ භාවිතා කරන පුටින්, ප්‍රවෘත්ති සාකච්ඡාවේ දී අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට මොස්කව් වෙත පැමිණෙන්නැයි ආරාධනා කළේය.
+
+ඊට ප්‍රතිචාර ලෙස ට්‍රම්ප් පවසා සිටියේ "ආ..., ඒක සිත්ගන්නා සුළුයි" යනුවෙනි.
+
+...
+
+[Data](articles/b6701b15.json)
+
+---
+
+### இன்று இடைக்கிடை மழை பெய்யும்
+
+*2025-08-16 08:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடைக்கிடை-மழை-பெய்யும்/175-362999) · `ta`
+
+சப்ரகமுவ, மேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, மாத்தறை மாவட்டங்களிலும் இடைக்கிடை மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+மத்திய மலை நாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய, வடமேல், தென் மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் மணித்தியாலத்துக்கு 40-50 கிலோமீட்டர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+கொழும்பு தொடக்கம் காலி ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களின் சில இடங்களில் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/81e2cdff.json)
+
+---
 
 ### Driver dead, 22 injured in head-on collision of buses in Monaragala
 
@@ -70,13 +146,11 @@ The injured were admitted to the Monaragala Hospital for treatment.
 
 *2025-08-16 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213426) · `si`
 
-මොනරාගල වැලියාය ප්‍රදේශයේදී ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් සහ විනෝද චාරිකාවක් ගිය පුද්ගලික බස් රථයක් මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
+මොනරාගල වැලියාය ප්‍රදේශයේදී ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් සහ චාරිකාවක් සඳහා යමින් තිබූ පුද්ගලික බස් රථයක් මුහුණට මුහුණ ගැටී අනතුරක් සිදුවී තිබේ.
 
 අනතුරෙන් ලංකා ගමනාගමන මණ්ඩලයට අයත් මගී බස් රථයේ 32 හැවිරිදි රියදුරා මියගොස් ඇති අතර පුද්ගලයින් 22ක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
 
-පොලීසිය සඳහන් කළේ දඹගල්ල සිට මොනරාගල බලා ධාවනය වෙමින් තිබූ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් චාරිකාවක යමින් තිබූ පෞද්ගලික බස් රථයක මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුවී ඇති බවය.
-
-අනතුරෙන් මියගිය ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයේ රියදුරා 32 හැවිරිදි වියේ පසුවූ දඹගල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+පොලීසිය සඳහන් කළේ දඹගල්ල සිට මොනරාගල බලා ධාවනය වෙමින් තිබූ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් මෙලෙස පෞද්ගලික බස් රථයක ගැටී ඇති බවය.
 
 බස් රථ අනතුරින් තුවාල ලැබූ පුද්ගලයින් ප්‍රතිකාර සඳහා මොනරාගල රෝහලට ඇතුළත් කර ඇති බවද පොලිසිය පවසයි.
 
@@ -163,6 +237,24 @@ Meanwhile, strong winds of about 40-50kmph can be expected at times over the Wes
 ...
 
 [Data](articles/0beef8ef.json)
+
+---
+
+### Putin praises Trump, raising hopes of avoiding secondary tariffs on India
+
+*2025-08-16 05:57:00* · [`economynextcom`](https://economynext.com/putin-praises-trump-raising-hopes-of-avoiding-secondary-tariffs-on-india-236692/) · `en`
+
+ECONOMYNEXT – Russian President Vladimir Putin appears to have scored a diplomatic coup praising President Donald Trump, repeating a claim that the invasion of Ukraine would not have happened during a Trump presidency, reports said.
+
+No mention was made of ‘secondary sanctions’ after a meeting of the two leaders in Alaska, raising expectations that the US would not impose additional taxes on countries that imported Russian oil including India, after the meeting with Putin which ended without a ceasefire.
+
+“There were many, many points that we agreed on,” Trump said at a joint press statement event where no questions were entertained unlike the usual style of Western democracies.
+
+“I would say a couple of big ones that we haven’t quite got there, but we’ve made some headway. So there’s no deal until there’s a deal.”
+
+...
+
+[Data](articles/10f51c8a.json)
 
 ---
 
@@ -1713,103 +1805,5 @@ Sri Lanka is continuing talks with the U.S. after it imposed 20% tariffs last mo
 ...
 
 [Data](articles/21949efe.json)
-
----
-
-### கொழும்பில் கொண்டாடப்பட்ட இந்தியாவின் 79 ஆவது சுதந்திர தினம்
-
-*2025-08-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/222610) · `ta`
-
-இந்தியாவின் 79 ஆவது சுதந்திர தினம் இன்று 15ஆம் திகதி வெள்ளிக்கிழமை இலங்கையின் பல பகுதிகளிலும் கொண்டாடப்பட்டது.
-
-இந்நிலையில், கொழும்பில் நடைபெற்ற முக்கிய நிகழ்வு இந்திய உயர்ஸ்தானிகரின் உத்தியோகபூர்வ வாசஸ்தலமான ‘இந்திய இல்லம்’ இல் நடைபெற்றது.
-
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாஇந்திய தேசியக் கொடியை ஏற்றி வணக்கத்தை செலுத்தினார். அணிவகுப்பு மரியாதையில் கலந்துகொண்டதுடன் 79 ஆவது சுதந்திர தினத்தை முன்னிட்டு இந்திய குடியரசுத் தலைவரின் உரையின் சில பகுதிகளைவும் வாசித்தார்.
-
-◼️
-
-[Data](articles/de9f2bf5.json)
-
----
-
-### නිධන් හෑරු DIG බිරිඳ ඇතුළු 8ක් රිමාන්ඩ්
-
-*2025-08-15 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213398) · `si`
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන කොළඹ ප්‍රදේශයේ නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරියක ඇතුළු 8 දෙනෙකු අනුරාධපුර පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරුවන් අනුරාධපුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළැඹෙන 26 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ රත්‍රං දේවාලය අසල පිහිටි ඉඩමක පිරිසක් නිධන් හාරන බවට අනුරාධපුර පොලීසියට පසුගිය 13 වැනිදා තොරතුරක් ලැබී තිබුණි.
-
-ඒ අනුව එම ස්ථානයට ගිය පොලිසිය මෙලෙස කාන්තාවක් ඇතුළු 8ක් අත්අඩංගුවට ගනු ලැබීය.
-
-සැකකරුවන් බදුල්ල, මාලිගාතැන්න, පදවි ශ්‍රීපුර, ගිරාඳුරුකෝට්ටේ, වරකාපොල හා අනුරාධපුර යන ප්‍රදේශවල පදිංචිකරුවන් ය.
-
-අත්අඩංගුවට ගත් පිරිස අතර සිටි කාන්තාවගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, ඇය කොළඹ ප්‍රදේශයේ නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරියක් බවය.
-
-සිය නිවසට ආරක්ෂාවක් කරගැනීම සඳහා තමන් මෙම ස්ථානයට පැමිණි බව ඇය ප්‍රකාශ කර තිබුණි.
-
-පොලිසිය පැවසුවේ අත්අඩංගුවට ගත් පිරිස අතර කපුමහතෙකු ද සිටින බවය.
-
-...
-
-[Data](articles/f35c5ff5.json)
-
----
-
-### ජනපති හා ඉන්දීය අගමැති විවෘත කළ දඹුල්ල ගබඩාවේ විදුලිය කපලා
-
-*2025-08-15 13:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-ඉන්දීය-අගමැති-විවෘත-කළ-දඹුල්ල-ගබඩාවේ-විදුලිය-කපලා/11-417933) · `si`
-
-ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ ජනපති අනුර කුමාර දිසානායක මහතා පසුගිය අප්‍රේල් මස පස් වැනිදා විවෘත කළ උෂ්ණත්ව පාලිත  කෘෂිකර්ම ගබඩාවේ සේවා ආරම්භ කිරීමටත් මත්තෙන් එහි රුපියල් අසූ හතර ලක්ෂ නව දහසකට අධික මුදලක් ගෙවීම් පැහැර හැරීම නිසා විදුලිය විසන්ධි කොට ඇති බව ‍ පාර්ලිමේන්තුවේ හිටපු මන්ත්‍රීවරුන් පිරිසක් 15 දින අවරණය කර ගන්නා ලදී.
-
-පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ යෝජනාවකට අනුව මීට වසර කීපයකට ඉහතදී ඉන්දියානු රජයේ ආධාර ඇතිව මෙම උෂ්ණත්ව පාලිත කෘෂිකර්ම  ගබඩාව ඉදිකරන්නට යෙදිණි
-
-ඒ අනුව එහි විවෘත කිරීම සුගිය අප්‍රේල් මස පස්වෙනිදා ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ආරාධනයෙන් ඉන්දියානු අගමැති නරේන්ද්‍ර මෝදි මහතා දුරස්ථා පාලකයක් උපයෝගී කරගෙන විවෘත කෙරිණි
-
-එදා  සිට අද දක්වාම එහි සේවා කටයුතු  සිදු නොවීම පිළිබඳව සොයා බැලීම සඳහා හිිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන උදය ගම්මම්පිල ,සංජීව එදිරිමාන්න, ප්‍රේමණාත් සී දොළවත්ත , සුශ්වර බණ්ඩාර, නිමල් පියතිස්ස, දඹුල්ල හිටපු නගරාධිපති ජාලිය ඕපාත මහතා ඇතුළු පිරිසක් බස් රථයකින් එහි පැමිණියහ
-
-...
-
-[Data](articles/7fbccedd.json)
-
----
-
-### Voyage Sri Lanka 2025 to focus on boosting blue economy
-
-*2025-08-15 13:12:00* · [`economynextcom`](https://economynext.com/voyage-sri-lanka-2025-to-focus-on-boosting-blue-economy-236502/) · `en`
-
-ECONOMYNEXT – Sri Lanka will host its international marine summit, Voyage Sri Lanka 2025, in October, with a focus on boosting the island nation’s blue economy, its Export Development Board (EDB) said.
-
-This year’s event will have a “sharper focus on turning Sri Lanka’s blue economy potential into tangible outcomes,” EDB said.
-
-The keynote address will focus on the nation’s marine future, EDB said, with three panel discussions exploring the opportunities for the island’s marine economy:
-
-– Trincomalee as the Strategic Gateway to Sri Lanka’s Blue Economy
-
-– Energizing Sri Lanka’s Blue Economy: Offshore Oil & Gas Exploration and LNG Infrastructure as Economic Game Changers
-
-– Charting a Course for Growth: Synergizing Boat Building and Nautical Tourism for Sri Lanka’s Blue Economy
-
-...
-
-[Data](articles/974a23e3.json)
-
----
-
-### கொழும்பிற்கு வருகிறது அமெரிக்க கடற்படையின் லிட்டோரல் போர்க்கப்பலான சான்டா பாப்ரா
-
-*2025-08-15 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222609) · `ta`
-
-கரைக்கு அருகிலுள்ள கடற்பகுதியில் செயற்படும் (லிட்டோரல்) சுயாதீன மாற்றுரு போர்க்கப்பலான யு.எஸ்.எஸ். சான்டா பாப்ரா (LCS 32) இட் நாளை சனிக்கிழமை (16/08) கொழும்புத் துறைமுகத்திற்கு வருகைதரவுள்ளதாக இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் தெரிவித்துள்ளது.
-
-கொழும்புத் துறைமுகத்திற்கு யு.எஸ்.எஸ். சான்டா பாப்ரா வருகைதரும் முதலாவது சந்தர்ப்பம் இதுவாகும். அமெரிக்க - இலங்கை பங்காண்மையின் உறுதியினையும், பாதுகாப்பான, வளமான மற்றும் சுதந்திரமான இந்தோ-பசிபிக் பிராந்தியத்திற்கான எமது பகிரப்பட்ட அர்ப்பணிப்பினையும் இந்தக் கப்பலின் வருகை அடிக்கோடிட்டுக் காட்டுகிறது.
-
-இரு நாட்டு கடற்படைகளுக்கு இடையிலான நீண்டகால உறவுகளையும், உறவை வரையறுக்கும் நெருக்கமான ஒத்துழைப்பையும் இது பிரதிபலிக்கிறது. கப்பல் தனது பயணத்தை மீண்டும் தொடர்வதற்கு முன்பு எரிபொருள் நிரப்புவதற்கும் மற்றும் ஏனைய தேவையான பொருட்களைப் பெற்றுக்கொள்வதற்குமான ஒரு குறுகிய நிறுத்தமாக கொழும்புத் துறைமுகம் செயற்படும்.
-
-...
-
-[Data](articles/33d19c7f.json)
 
 ---

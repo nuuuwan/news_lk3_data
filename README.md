@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 23:05:59**
+As of **2025-08-16 23:18:01**
 
 ## Newspaper Stats
 
-*Scraped **70,834** Articles*
+*Scraped **70,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
-adaderanalk | 8,852
+adaderanalk | 8,853
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
 adaderanasinhalalk | 12,218
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,834 articles have been extended.
+61,973 (87.5%) of 70,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Sri Lanka Customs records highest-ever monthly revenue of Rs. 235 bln
+
+*2025-08-16 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111530/sri-lanka-customs-records-highest-ever-monthly-revenue-of-rs-235-bln) · `en`
+
+Director General of Customs, Sunil Nonis, announced that Sri Lanka Customs recorded its highest-ever monthly revenue in history last month, with collections amounting to Rs. 235 billion.
+
+He made this announcement while participating in the launch of the Customs Document Notification System (CDNS), developed by Sri Lanka Customs to facilitate importers and exporters. The event was held yesterday (15).
+
+“Last month, Sri Lanka Customs achieved a revenue of Rs. 235 billion, marking the highest monthly revenue in our history. In 2023, we celebrated surpassing Rs. 100 billion in monthly revenue, but today we have reached the point where we have surpassed Rs. 235 billion.”
+
+◼️
+
+[Data](articles/137af529.json)
+
+---
 
 ### බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ
 
@@ -1847,23 +1863,5 @@ Attorney-at-Law Priyantha Weerasooriya is the 37th Inspector General of Police i
 ◼️
 
 [Data](articles/691c7eda.json)
-
----
-
-### Trump heads to ‘high stakes’ Alaska summit with Putin on Ukraine
-
-*2025-08-15 21:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111508/trump-heads-to-high-stakes-alaska-summit-with-putin-on-ukraine) · `en`
-
-Donald Trump headed to Alaska on Friday for what he called a “high stakes” summit with Russia’s Vladimir Putin to discuss a ceasefire deal for Ukraine to help end the deadliest war in Europe since World War Two.
-
-Ukrainian President Volodymyr Zelenskiy, who was not invited to the talks, and his European allies fear Trump might sell out Ukraine by essentially freezing the conflict and recognising - if only informally - Russian control over one fifth of Ukraine.
-
-Trump sought to assuage such concerns as he boarded Air Force One, saying he would let Ukraine decide on any possible territorial swaps. “I’m not here to negotiate for Ukraine, I’m here to get them at a table,” he said.
-
-Both the U.S. and Russian presidents, due to meet at a Cold War-era air force base in Alaska’s largest city, are seeking wins from their first face-to-face talks since Trump returned to the White House.
-
-...
-
-[Data](articles/531f2fb6.json)
 
 ---

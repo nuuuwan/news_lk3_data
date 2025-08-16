@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 13:49:55**
+As of **2025-08-16 14:07:53**
 
 ## Newspaper Stats
 
-*Scraped **70,789** Articles*
+*Scraped **70,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ islandlk | 4,339
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,830
-adaderanalk | 8,840
+adaderanalk | 8,843
 tamilmirrorlk | 10,424
 virakesarilk | 11,760
-adaderanasinhalalk | 12,197
+adaderanasinhalalk | 12,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,789 articles have been extended.
+61,973 (87.5%) of 70,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### බෙල්ලන්විල පෙරහැර හේතුවෙන් වාහන ගමනාගමනය සීමා කෙරේ
+
+*2025-08-16 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213438) · `si`
+
+බෙල්ලන්විල රජමහා විහාරස්ථානයේ ඇසළ මහා පෙරහැර වීථී සංචාරය කිරීම හේතුවෙන් රථ වාහන ගමනාගමනය සීමා කෙරෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් පැවසීය.
+
+අද (16) රන්දෝලි මහා පෙරහර රාත්‍රී 07.00 සිට අලුයම දක්වා බොරලැස්ගමුව පොලිස් වසමේ බෙල්ලන්විල රජමහා විහාරස්ථානය අවට ප්‍රධාන මාර්ග මූලික කරගෙන වීථි සංචාරය කිරීමට නියමිතය.
+
+මෙම පෙරහැර බෙල්ලන්විල රජමහා විහාරස්ථානයේ දකුණු වාහල්කඩින් පිටත්ව බෙල්ලන්තර හන්දියෙන් කීල්ස් වටරවුම දක්වා ගමන් කර මාර්ග අංක 117 විහාර මාවත හන්දියෙන් විහාර මාවතට ගමන් කර මාර්ග අංක 119 විහාර මාවත දක්වා විහාරයේ දකුණු වාහල්කඩින් විහාරස්ථානය දක්වා ගමන් කිරීමට නියමියතය.
+
+පෙරහර ගමන් ගන්නා කාලය තුළ පහත ස්ථානවලින් රථ වාහන ගමනාගමනය සීමා කරනු ලබයි.
+
+◼️
+
+[Data](articles/013c8b81.json)
+
+---
+
+### Postal workers to launch islandwide strike from tomorrow
+
+*2025-08-16 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111520/postal-workers-to-launch-islandwide-strike-from-tomorrow) · `en`
+
+The Postal and Telecommunications Officers’ Union together with the United Postal Trade Unions Front (UPTUF) has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
+
+According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in control and accounts offices to record attendance through fingerprint machines.
+
+The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and control offices from 12.00 midnight onwards.
+
+Meanwhile, Postmaster General Ruwan Sathkumara confirmed that the Sub-Postmasters of 3,354 sub-post offices across the country will not participate in this trade union action.
+
+He assured the public that services at these sub-post offices will continue without disruption.
+
+...
+
+[Data](articles/99cdbd3f.json)
+
+---
+
+### Trump says Russia has lost India as an oil client, secondary tariffs will be devastating
+
+*2025-08-16 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111519/trump-says-russia-has-lost-india-as-an-oil-client-secondary-tariffs-will-be-devastating) · `en`
+
+US President Donald Trump said that Russia has lost India as an oil client, while also suggesting that the United States may not immediately impose secondary sanctions on China.
+
+In an interview with Fox News aboard Air Force One, Trump remarked, “Well, they lost an oil client so to speak, which is India, which was doing about 40% of the oil. China, as you know, is doing a lot…And if I did what’s called a secondary sanction, or a secondary tariff, it would be very devastating from their standpoint. If I have to do it, I’ll do it. Maybe I won’t have to do it.”
+
+Trump’s comments come after he recently threatened to take the total tariffs on India to 50% after imposing an additional 25% tax on imports from New Delhi starting August 27.
+
+The White House cited national security and foreign policy concerns, stating that India’s imports of Russian oil pose an “unusual and extraordinary threat” to the United States.
+
+...
+
+[Data](articles/edcc6fcb.json)
+
+---
 
 ### ඉංජිනේරු හිඟය ගැන විදුලිබල මණ්ඩලයෙන් ප්‍රකාශයක්
 
@@ -53,6 +109,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/01a6e0b6.json)
+
+---
+
+### Govt committed to establish stable policies to drive gem export growth – PM
+
+*2025-08-16 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111518/govt-committed-to-establish-stable-policies-to-drive-gem-export-growth-pm) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that, although Sri Lanka has already gained international recognition for gems and jewellery, exports have not grown to the expected level, and the government is working to establish stable policies to enable the country to capture the international gem and jewellery market.
+
+The Prime Minister made these remarks while addressing the opening ceremony of Gem City Ratnapura – 2025, an International Gem and Jewellery Exhibition aims at taking Sri Lanka’s gem and jewellery industry to the global stage which will be held on 15, 16 and 17 th of August 2025 at the Grand Silveray Hotel, Pelmadulla, according to the Prime Minister’s Media Division.
+
+...
+
+[Data](articles/f0f696ca.json)
 
 ---
 
@@ -1747,81 +1817,5 @@ The peaceful protest march commenced from near the Borella Cemetery Roundabout a
 ...
 
 [Data](articles/0bb885a9.json)
-
----
-
-### අමෙරිකානු - රුසියානු ජනපතිවරුන්ගේ හමුව අද ඇලස්කාවේදී
-
-*2025-08-15 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213407) · `si`
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර හමුව අද (15) අමෙරිකාවේ ඇලස්කාවේදී පැවැත්වීමට නියමිතව පවතියි.
-
-රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම, ලෝක බලවතුන් දෙදෙනා අතර පැවැත්වෙන මේ සාකච්ඡාවේ ප්‍රධාන අරමුණ වේ.
-
-කෙසේ නමුත් එම සාකච්ඡාවට සහභාගීවීමට යුක්‍රේන ජනාධිපති වොලොදමීර් සෙලෙන්ස්කි හට ආරාධනා කර නොමැත.
-
-එවන් පසුබිමක යුක්‍රේන ජනාධිපතිවරයා සඳහන් කර ඇත්තේ තමන්ගේ සහභාගීත්වයෙන් තොරව පැවැත්වෙන එම සාකච්ඡාවේදී ගන්නා තීරණ ඵලරහිත බවය.
-
-එමෙන්ම යුක්‍රේනය එකඟ නොවන කිසිදු කොන්දේසියකට තමන් ද එකඟ නොවන බව යුක්‍රේනයට සහාය දක්වන යුරෝපීය රටවල් ද සඳහන් කළේය.
-
-2022 වසරේ පෙබරවාරි මාසයේ දී යුක්‍රේන යුද්ධය ආරම්භ වීමෙන් පසුව රුසියානු ජනාධිපතිවරයා බටහිර රටක සංචාරය කරන පළමු අවස්ථාව ද මෙය වේ.
-
-එමෙන්ම අමෙරිකානු සහ රුසියානු ජනාධිපතිවරුන් අතර වසර හයකට පසුව පැවැත්වෙන පළමු සාකච්ඡාව ද මෙය වීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/dd87de13.json)
-
----
-
-### லொஹானின் மறைவுக்கு மஹிந்த இரங்கல்
-
-*2025-08-15 15:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மறைவுக்கு-மஹிந்த-இரங்கல்/175-362978) · `ta`
-
-மறைந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தவின் பூதவுடலுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ அஞ்சலி செலுத்தினார்.
-
-அவரது மறைவு கண்டி மாவட்டத்திற்கு ஒரு குறிப்பிடத்தக்க இழப்பாகும் என மஹிந்த ராஜபக்ஷ குறிப்பிட்டிருந்தார்.
-
-லொஹான் ரத்வத்தவின் மறைவுக்கு அரசியல்வாதிகள் உள்ளிட்ட பலரும் இரங்கல் தெரிவித்து    வருகின்றமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/7cf37ba7.json)
-
----
-
-### විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය
-
-*2025-08-15 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213406) · `si`
-
-විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (15) සිය සහතිකය සටහන් කළේය.
-
-විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පත  පසුගිය 7 වැනිදා පාර්ලිමේන්තුවේදී  සම්මත විය.
-
-ඒ අනුව මෙම විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පත  2025 අංක 13  දරන විනිමය පත්‍ර (සංශෝධන) පනත ලෙස බලාත්මක වන අතර  මෙම  පනත මගින් 82 වන අධිකාරය වූ විනිමය පත්‍ර ආඥාපනත නවීකරණය කර සමකාලීන බැංකු කටයුතු සමඟ සමගාමී කිරීම අරමුණු කොට ඇත.
-
-මෙම පනත මගින් වංක හා වැරදි සහගත චෙක්පත් අණකරුවන් සම්බන්ධයෙන් සාපරාධී වගකීම් පැනවීමට හැකියව පවතී. එමෙන්ම, නීත්‍යානුකූලව අවසරලත් ආකාරයට එදිනෙදා ව්‍යාපාරික කටයුතුවලදී නව්‍ය ලෙස හා නීතියට අනුකූල වන පරිදි විනිමය බිල්පත් භාවිතා කිරීම පිණිස පහසුකම් සලසන අතර චෙක්පත් ඉලෙක්ට්‍රොනිකව ඉදිරිපත් කිරීමට අදාළ විධිවිධාන සලසා ඇත.
-
-...
-
-[Data](articles/dac6e319.json)
-
----
-
-### ஒரே குடும்பத்தைச் சேர்ந்த 7 பேர் ஓட்டோ விபத்தில் காயம்
-
-*2025-08-15 15:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரே-குடும்பத்தைச்-சேர்ந்த-7-பேர்-ஓட்டோ-விபத்தில்-காயம்/76-362977) · `ta`
-
-கதிர்காமத்துக்கு யாத்திரை சென்று வீட்டுக்குத் திரும்பிக் கொண்டிருந்த ஒரு குடும்பத்தைச் சேர்ந்த ஏழுபேர் உட்பட எட்டுபோர் விபத்தில் காயமடைந்துள்ளனர்.
-
-ஒரே குழும்பத்தைச் சேர்ந்த ஏழு பேரை ஏற்றிக்கொண்டு பயணத்தி முச்சக்கர வண்டி, எல்ல-வெல்லவாய பிரதான வீதியில் ராவண எல்ல 12 மைல்கல் பகுதியில்,  வியாழக்கிழமை (14) பிற்பகல் விபத்துக்கு உள்ளாகியுள்ளது.
-
-ஒரு வாகனத்தை முந்தி செல்ல முற்பட்ட போது, எதிர் திசையில் வந்த ஒரு காருடன் மோதியதில் இவ்விபத்து இடம்பெற்றுள்ளது.  தாய், தந்தை, ஐந்து குழந்தைகள் மற்றும் காரின் ஓட்டுநர் காயமடைந்தனர்.
-
-குடும்ப உறுப்பினர்களான   தந்தை (வயது 45), தாய் (வயது 42), இரண்டு மகள்கள் (வயது 24), (வயது 10), இரண்டு மகன்கள் (வயது 12), மற்றும் (வயது 13), இரண்டு வயது குழந்தை மற்றும் பதுளை ஹன்வெல்ல பகுதியைச் சேர்ந்த காரின் சாரதி ஆகியோர் பதுளை போதனா மருத்துவமனையில் அனுமதிக்கப்பட்டதாக எல்ல பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/976eee6d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 20:31:19**
+As of **2025-08-16 20:51:00**
 
 ## Newspaper Stats
 
-*Scraped **70,829** Articles*
+*Scraped **70,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
 adaderanalk | 8,851
-tamilmirrorlk | 10,427
+tamilmirrorlk | 10,428
 virakesarilk | 11,761
 adaderanasinhalalk | 12,215
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,829 articles have been extended.
+61,973 (87.5%) of 70,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### மினுவாங்கொடையில் ஆயுத களஞ்சியசாலை
+
+*2025-08-16 20:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடையில்-ஆயுத-களஞ்சியசாலை/175-363007) · `ta`
+
+போதைப்பொருள் மற்றும் பாதாள உலக நடவடிக்கைகளை ஒடுக்கும் நோக்கில், பொது மக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சின் முழு மேற்பார்வையின் கீழ் இலங்கை பொலிஸார், பொலிஸ் விசேட அதிரடிப்படை மற்றும் முப்படையினரால் மேற்கொள்ளப்படும் தினசரி சோதனை நடவடிக்கைகளின் மற்றொரு கட்டம் நேற்று (15) இடம்பெற்றது.
+
+இதன்போது, 01, T-56 துப்பாக்கி, T-56 துப்பாக்கிக்கான 01 மெகசின், 14, T-56 தோட்டாக்கள், 01 பிஸ்டல் துப்பாக்கி, 01 மெகசின், 09, 2.5 mm தோட்டாக்கள், 09, 9 mm தோட்டாக்கள், 02 துப்பாக்கி மாதிரிகள், 03 வாள்கள் மற்றும் 02 கத்திகள் உள்ளிட்ட ஏராளமான ஆயுதங்கள் பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+இது தொடர்பில் யாரும் கைது செய்யப்படாத நிலையில், பொலிஸார் விசாரணைகளை முன்னெடுத்துவருகின்றனர். R
+
+◼️
+
+[Data](articles/dc773868.json)
+
+---
 
 ### කාශ්මීරයේ ඇති වූ හදිසි ගංවතුරෙන් මියගිය පිරිස 300 ඉක්මවයි
 
@@ -1827,21 +1843,5 @@ Facilitated by the skillful and renowned Indian Chef Bhairav Singh, the event tr
 ...
 
 [Data](articles/302224fa.json)
-
----
-
-### Interest in Combank stocks enlivens CSE as ASPI crosses 20,000 points for the first time
-
-*2025-08-15 20:56:00* · [`islandlk`](http://island.lk/interest-in-combank-stocks-enlivens-cse-as-aspi-crosses-20000-points-for-the-first-time/) · `en`
-
-The CSE started on a dull note but subsequently brightened up, mostly pushed by interest in banking stocks, especially by a Commercial Bank post interim results announcement yesterday.
-
-Amid those developments, the All Share Price Index crossed 20,000 points for the first time in history.
-
-Provisional data showed the ASPI was up 1.65 percent, or 328.68 points, at 20,257.35, while the S&P SL20 was up 2.14 percent, or 123.68 points, at 5,904.26.
-
-...
-
-[Data](articles/30db4340.json)
 
 ---

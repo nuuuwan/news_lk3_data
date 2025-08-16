@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 21:18:04**
+As of **2025-08-16 21:32:10**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-16 (Saturday)
 
-### රේගු ඉතිහාසයේ ලැබූ ඉහළම ආදායම රුපියල් බිලියන 235ක් වෙයි
+### රේගු ඉතිහාසයේ මාසයක් තුළ ලැබූ ඉහළම ආදායම රුපියල් බිලියන 235ක් වෙයි
 
 *2025-08-16 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213457) · `si`
 

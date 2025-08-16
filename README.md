@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 05:31:47**
+As of **2025-08-16 06:08:47**
 
 ## Newspaper Stats
 
-*Scraped **70,744** Articles*
+*Scraped **70,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 722
-economynextcom | 4,319
-islandlk | 4,330
+economynextcom | 4,320
+islandlk | 4,338
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,825
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,744 articles have been extended.
+61,973 (87.6%) of 70,753 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -436,6 +436,84 @@ Both the U.S. and Russian presidents, due to meet at a Cold War-era air force ba
 
 ---
 
+### Sahasdhanavi clarifies power plant tariff, stresses vital role in energy security
+
+*2025-08-15 21:01:00* · [`islandlk`](http://island.lk/sahasdhanavi-clarifies-power-plant-tariff-stresses-vital-role-in-energy-security/) · `en`
+
+Sahasdhanavi Ltd has responded to recent discussions on its power plant’s levelised tariff, emphasising its importance in Sri Lanka’s energy stability as per the approved Long-Term Generation Expansion Plan (LTGEP). By issuing a press release, the company highlights following facts for policymakers and the public: to broaden the scope and inclusivity of the discussion.
+
+The 350 MW RLNG/Diesel plant was awarded through an International Competitive Bidding (ICB) in 2021, with Sahasdhanavi submitting the lowest bid. After securing Cabinet and PUCSL approval by December 2023, project delays arose due to national circumstances.
+
+Reliable 24/7 power: 318 MW (diesel) or 350 MW (LNG) on demand, with >90% availability (penalties apply if unmet).
+
+Energy Charge: Based on actual usage (~Rs. 57/kWh for diesel, ~Rs. 33/kWh for LNG).
+
+Fuel-linked tariffs: Final costs in 2028 will adjust to market prices.
+
+Is theoretical, based on RFP assumptions (fixed fuel prices, exchange rates).
+
+...
+
+[Data](articles/a104b97b.json)
+
+---
+
+### JAT continues momentum to FY 2025/26 with 20% PAT growth in Q1
+
+*2025-08-15 21:00:00* · [`islandlk`](http://island.lk/jat-continues-momentum-to-fy-2025-26-with-20-pat-growth-in-q1/) · `en`
+
+JAT Holdings PLC, a leading Sri Lankan conglomerate in the manufacturing and coatings industry, announced its financial results for the first quarter of the 2025/26 financial year, reflecting a stable and promising start despite external market challenges. Traditionally with the first quarter being the lowest demand quarter for the paint industry due to seasonality and the peak in the fourth quarter, the Group still recorded a notable 20% year-on-year (YoY) growth in profit after tax (PAT), signalling its continued ability to adapt, optimise, and deliver value in a dynamic economic landscape.
+
+...
+
+[Data](articles/89645295.json)
+
+---
+
+### Sampath Bank records robust year-on-year growth of 32 percent
+
+*2025-08-15 20:58:00* · [`islandlk`](http://island.lk/sampath-bank-records-robust-year-on-year-growth-of-32-percent/) · `en`
+
+Sampath Bank recorded a Profit Before Tax (PBT) of Rs 24.4 Bn and a Profit After Tax (PAT) of Rs 14.7 Bn for the first half of 2025, marking a robust year-on-year growth of 32% across both metrics compared to the same period in 2024. The Sampath Group reported a PBT of Rs 26.0 Bn and a PAT of Rs 15.6 Bn, reflecting a year-on-year growth of 32% at both PBT and PAT levels.
+
+During the six-month period ended 30th June 2025, Sampath Bank reported total interest income of Rs 89.4 Bn, a 6% year-on-year decline primarily driven by the downward trend in the Average Weighted Prime Lending Rate (AWPLR) and reduced yields from government securities. The Bank’s interest expenses recorded a corresponding decline of 6% to Rs 50.8 Bn for the period. These resulted in the Bank’s Net Interest Income (NII) declining by 6% year-on-year to Rs 38.6 Bn and the Net Interest Margin (NIM) declining by 66 basis points, from 4.90% on 31st December 2024 to 4.24% as at 30th June 2025.
+
+...
+
+[Data](articles/9bff7879.json)
+
+---
+
+### Interest in Combank stocks enlivens CSE as ASPI crosses 20,000 points for the first time
+
+*2025-08-15 20:56:00* · [`islandlk`](http://island.lk/interest-in-combank-stocks-enlivens-cse-as-aspi-crosses-20000-points-for-the-first-time/) · `en`
+
+The CSE started on a dull note but subsequently brightened up, mostly pushed by interest in banking stocks, especially by a Commercial Bank post interim results announcement yesterday.
+
+Amid those developments, the All Share Price Index crossed 20,000 points for the first time in history.
+
+Provisional data showed the ASPI was up 1.65 percent, or 328.68 points, at 20,257.35, while the S&P SL20 was up 2.14 percent, or 123.68 points, at 5,904.26.
+
+...
+
+[Data](articles/30db4340.json)
+
+---
+
+### Nestlé advances regenerative agricultural practices in the coconut value chain via Nestlé Coconut Development Plan
+
+*2025-08-15 20:56:00* · [`islandlk`](http://island.lk/nestle-advances-regenerative-agricultural-practices-in-the-coconut-value-chain-via-nestle-coconut-development-plan/) · `en`
+
+As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. The training programme was initially launched in 2024. Building on its success, the second edition was introduced this year to further expand its reach and impact.
+
+Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme trained 25 local coconut famers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
+
+...
+
+[Data](articles/4795fa66.json)
+
+---
+
 ### පාකිස්තානයේ හෙලිකොප්ටරයක් කඩා වැටී 5ක් මරුට
 
 *2025-08-15 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213420) · `si`
@@ -687,6 +765,26 @@ Sri Lanka Customs officers also caught a Chinese national and his daughter at th
 ◼️
 
 [Data](articles/f48af7f0.json)
+
+---
+
+### Sri Lanka GDP to grow 4.5-pct in 2025, central bank says as ‘reflation’ looms
+
+*2025-08-15 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-to-grow-4-5-pct-in-2025-central-bank-says-as-reflation-looms-236584/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross domestic product is projected to grow 4.5 percent in 2025, the central bank said in a monetary policy report, as the agency missed its 5 percent inflation target but promised ‘reflation’ soon.
+
+The latest forecast for GDP for the 2nd quarter of 2025 is expected to be ‘robust, continuing the positive momentum observed in 2024 and the first quarter of 2025, the agency said in a Monetary Policy Report for August.
+
+“As per the currently available information, economic growth for 2025 is projected to be around 4.5 percent,” the central bank said.
+
+“Looking ahead, economic growth is expected to continue its modest expansionary momentum over the medium term.
+
+“However, external demand conditions and evolving global geoeconomic landscape increase the level of uncertainty associated with growth prospects over the near to medium term.”
+
+...
+
+[Data](articles/e6f98168.json)
 
 ---
 
@@ -1705,101 +1803,5 @@ He was re-elected in the 2015 and 2020 parliamentary elections.
 ◼️
 
 [Data](articles/afdd4b0b.json)
-
----
-
-### ලොහාන් රත්වත්තේ අභාවප්‍රාප්ත වෙයි
-
-*2025-08-15 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213395) · `si`
-
-හිටපු රාජ්‍ය අමාත්‍යවරයෙකු වන ලොහාන් රත්වත්තේ මහතා අභාවප්‍රාප්ත වී තිබේ.
-
-පවුලේ ආරංචි මාර්ග සඳහන් කළේ අසනීප තත්ත්වයක් මත කොළඹ පෞද්ගලික රෝහලකට ඇතුළත්ව ප්‍රතිකාර ලබමින් සිටියදී ඔහු මිය ගිය බවය.
-
-◼️
-
-[Data](articles/51d50365.json)
-
----
-
-### Sri Lanka sells extra Rs10.3bn Treasury bills after auction
-
-*2025-08-15 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs10-3bn-treasury-bills-after-auction-236475/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 10,350 million rupees of treasury bills offered on tap at average rates of 7.60 percent and 7.90 percent, the state debt office said, bringing the total of bills sold this week to 113.8 billion rupees.
-
-On Wednesday (13) the debt office raised 103.5 billion rupees of 3, 6 and 12 month bills.
-
-◼️
-
-[Data](articles/cb4aab82.json)
-
----
-
-### ගුවන් තොටුපොළේ ආරක්ෂක නිලධාරියෙක් ගිනිඅවි සමග කොටුවෙයි
-
-*2025-08-15 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213394) · `si`
-
-මිනුවන්ගොඩ රෝහල ආසන්න ප්‍රදේශයේ නිවසක තිබී ටී - 56 ගිනිඅවි සහ පතරොම් රැසක් සමඟ සැකකරුව‍ෙකු අත්අඩංගුවට ගෙන ඇත.
-
-මිනුවන්ගොඩ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමකට ලද තොරුතුරක් මත අද (15) දිනයේ දී සිදුකළ වැටලීමකදී මෙම ගිනිඅවි සහ පතරොම් සොයාගෙන තිබුණි.
-
-සැකකරු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපලෙහි ආරක්ෂක නිලධාරියෙකු ලෙස සේවය කරන අතර, ඔහු මිනුවන්ගොඩ ප්‍රදේශයේ පදිංචි අවුරුදු 45 හැවිරිදි අයෙකි.
-
-සැකකරු සන්තකයේ තිබී ටී - 56 ගිනිඅවියක්, ටී - 56 ගිනි අවියට යොදන මැසිමක්, ටී 56 පතොරම් 14ක්, පිස්තෝල අවි 01ක් හා එම මැගසින් 01ක්, 2.5 mm පතොරම් 09ක්, 9mm පතොරම් 09ක්, පිස්තෝල හා රිවෝල්වරි වර්ගයේ ගිනිඅවි  02ක්, කඩු 03ක් සහ කිනිසි 02ක් සොයා ගෙන තිබේ.
-
-◼️
-
-[Data](articles/9b8be0fd.json)
-
----
-
-### சாதனைப் படைக்கும் மகாவதார் நரசிம்மா
-
-*2025-08-15 11:52:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சாதனைப்-படைக்கும்-மகாவதார்-நரசிம்மா/54-362962) · `ta`
-
-விஷ்ணுவின் தீவிர பக்தனான பிரகலாதனின் கதையை கொண்டு உருவான அனிமேஷன் திரைப்படம், ‘மகாவதார் நரசிம்மா’. அஸ்வின் குமார் இயக்கிய இந்தப் படத்துக்கு சாம் சி.எஸ் இசையமைத்துள்ளார். ஹோம்பாளே பிலிம்ஸ், கினிம் புரொடக்‌ஷன்ஸ் தயாரித்த இந்த அனிமேஷன் படம் ஜூலை 25-ல் வெளியானது.
-
-தெலுங்கு, இந்தியில் வரவேற்பைப் பெற்ற இந்தப் படம் வசூலில் சாதனைப் படைத்து வந்தது. இந்நிலையில் இந்தியில் மட்டும் இதுவரை ரூ.100 கோடிக்கு மேல் இந்தப் படம் வசூலித்துள்ளது.
-
-இந்தியில் ஒரு அனிமேஷன் படம் ரூ.100 கோடிக்கு மேல் வசூலிப்பது இதுதான் முதன்முறை. மற்ற மொழிகளிலும் சேர்த்து இந்தப் படம் ரூ.210 கோடிக்கு மேல் வசூலித்துள்ளதாக அறிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/31c28bec.json)
-
----
-
-### Airport security guard arrested with cache of firearms and ammunition
-
-*2025-08-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111495/airport-security-guard-arrested-with-cache-of-firearms-and-ammunition-) · `en`
-
-A team of officers from the Minuwangoda Police Station, acting on information received, conducted a search of a residence near the Minuwangoda Hospital today (15) and arrested a suspect who was found in possession of multiple firearms, ammunition and sharp weapons.
-
-The arrested suspect is a 45-year-old resident of the Minuwangoda area, said police.
-
-Investigations have revealed that he is employed as a security guard at the Katunayake International Airport.
-
-Minuwangoda Police Station is continuing further investigations into the incident.
-
-◼️
-
-[Data](articles/afff9a37.json)
-
----
-
-### அமெரிக்காவின்  சான்டா பாப்ரா கொழும்புக்கு வருகிறது
-
-*2025-08-15 11:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவின்-சான்டா-பாப்ரா-கொழும்புக்கு-வருகிறது/175-362961) · `ta`
-
-கரைக்கு அருகிலுள்ள கடற்பகுதியில் செயற்படும் (லிட்டோரல்) சுயாதீன மாற்றுருபோர்க்கப்பலான யுஎஸ்எஸ் சான்டா பாப்ரா(LCS 32) ஓகஸ்ட் 16ஆம் திகதி கொழும்புத் துறைமுகத்திற்கு வருகைதரவிருப்பதை இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் அறியத்தருகிறது.
-
-கொழும்புத் துறைமுகத்திற்கு யுஎஸ்எஸ் சான்டா பாப்ரா வருகைதரும் முதலாவதுசந்தர்ப்பம் இதுவாகும். அமெரிக்க-இலங்கை பங்காண்மையின் உறுதியினையும், பாதுகாப்பான, வளமான மற்றும் சுதந்திரமான இந்தோ-பசிபிக் பிராந்தியத்திற்கான எமது பகிரப்பட்ட அர்ப்பணிப்பினையும் இந்த வருகை அடிக்கோடிட்டுக் காட்டுகிறது.
-
-எமது கடற்படைகளுக்கு இடையிலான நீண்டகால உறவுகளையும், எமது உறவை வரையறுக்கும் நெருக்கமான ஒத்துழைப்பையும்இது பிரதிபலிக்கிறது. கப்பல் தனது பயணத்தை மீண்டும் தொடர்வதற்கு முன்பு எரிபொருள் நிரப்புவதற்கும் மற்றும் ஏனைய தேவையான பொருட்களைப் பெற்றுக்கொள்வதற்குமான ஒரு குறுகிய நிறுத்தமாக கொழும்பு செயற்படும்.
-
-...
-
-[Data](articles/a5ca10df.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 23:50:31**
+As of **2025-08-17 00:11:28**
 
 ## Newspaper Stats
 
-*Scraped **70,835** Articles*
+*Scraped **70,836** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
-colombotelegraphcom | 723
+colombotelegraphcom | 724
 economynextcom | 4,325
 islandlk | 4,340
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,835 articles have been extended.
+61,973 (87.5%) of 70,836 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -329,6 +329,20 @@ In a post on X on Friday, the Navy spokesperson said the ships were welcomed war
 ...
 
 [Data](articles/276f5ec5.json)
+
+---
+
+### Israeli Massacre Of Palestinian Journalists: Move To Hide Forthcoming Ethnic Cleansing Of Palestinians
+
+*2025-08-16 18:01:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/israeli-massacre-of-palestinian-journalists-move-to-hide-forthcoming-ethnic-cleansing-of-palestinians/) · `en`
+
+Under its well established policy to mislead the world of its barbarity the  settler-fascist colonial state of Israel massacred  Anas al-Sharif, one of Al Jazeera’s most recognizable faces in Gaza, Mohammed Qraiqea and five others in an attack on tent for journalists in al-Shifa hospital in Gaza. This was no accident of war. It was a precision attack – the deliberate erasure of journalists who would not stop telling the truth.
+
+The killings came after weeks of public incitement against Al Jazeera reporters, particularly al-Sharif. Israeli army spokesperson for Arabic media, Avichay Adraee, had singled him out in recent online posts, accusing him of spreading “false propaganda”.  This, perhaps, is the prelude to a larger massacre which is about to take place for Israeli to takeover Gaza City and forcefully ethnic cleanse Palestinians. There were even reports that discussions were underway to settle Gaza Palestinians in South Sudan.
+
+...
+
+[Data](articles/1f8c0072.json)
 
 ---
 
@@ -1839,29 +1853,5 @@ Attorney-at-Law Priyantha Weerasooriya is the 37th Inspector General of Police i
 ...
 
 [Data](articles/d190a37f.json)
-
----
-
-### பாஜக மூத்த தலைவர் மற்றும் நாகலாந்து ஆளுநர் இல. கணேசன் காலமானார்
-
-*2025-08-15 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/222649) · `ta`
-
-பாஜக மூத்த தலைவரும், நாகலாந்து மாநில ஆளுநருமான இல. கணேசன், சென்னையில் வெள்ளிக்கிழமை (15) காலமானார். அவருக்கு வயது 80.
-
-சென்னையில் உள்ள அவரது வீட்டில் கடந்த 8ம் தேதி, நிலை தடுமாறி கீழே விழுந்ததில் இல.கணேசனுக்கு தலையில் பலத்த காயம் ஏற்பட்டது.
-
-இதையடுத்து அவர், சென்னையில் உள்ள அப்பல்லோ மருத்துவமனையில் தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டார்.
-
-மருத்துவர்கள் அவருக்கு சிகிச்சை அளித்து வந்த நிலையில், சிகிச்சை பலனின்றி வெள்ளிக்கிழமை (ஆக.15) மாலை 6;23 மணிக்கு அவர் உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர்.
-
-தமிழகத்தின் தஞ்சாவூர் மாவட்டம் கண்ணந்தங்குடி கிராமத்தில் 1945ம் ஆண்டு பிப்ரவரி மாதம் 16ம் தேதி பிறந்த இவர், தமிழக பாஜக தலைவராக பதவி வகித்தார்.
-
-2021ம் ஆண்டில், அப்போதைய இந்திய குடியரசுத் தலைவர் ராம்நாத் கோவிந்தால் மணிப்பூர் மாநிலத்தின் 17வது ஆளுநராக நியமிக்கப்பட்டார்.
-
-அதைத்தொடர்ந்து 2023ம் ஆண்டில், குடியரசுத் தலைவர் திரௌபதி முர்முவால் நாகலாந்து மாநிலத்தின் ஆளுநராக நியமிக்கப்பட்டது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/691c7eda.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 09:54:25**
+As of **2025-08-16 10:09:40**
 
 ## Newspaper Stats
 
@@ -110,7 +110,7 @@ The growth in the New Orders and Production sub-indices was supported by strong 
 
 ---
 
-### කලාතුරකින් ඉංග්‍රීසි කතා කරන පුටින් ට්‍රම්ප් කළ ඇරයුම
+### කලාතුරකින් ඉංග්‍රීසි කතා කරන පුටින් ට්‍රම්ප්ට කළ ඇරයුම
 
 *2025-08-16 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213427) · `si`
 

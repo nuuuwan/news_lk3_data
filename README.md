@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 10:24:01**
+As of **2025-08-16 10:34:08**
 
 ## Newspaper Stats
 
-*Scraped **70,770** Articles*
+*Scraped **70,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,339
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,825
-adaderanalk | 8,836
+adaderanalk | 8,837
 tamilmirrorlk | 10,422
 virakesarilk | 11,760
 adaderanasinhalalk | 12,190
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,770 articles have been extended.
+61,973 (87.6%) of 70,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Two arrested with Kerala cannabis worth over Rs. 50 mln
+
+*2025-08-16 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111514/two-arrested-with-kerala-cannabis-worth-over-rs-50-mln) · `en`
+
+The Police Narcotics Bureau (PNB) has arrested two suspects in possession of a large consignment of Kerala cannabis valued at more than Rs. 50 million.
+
+The arrests were made last evening (15) during a raid in the Bangalawatta area of the Wattala Police Division, carried out under the ongoing crime and drug prevention operation directed by the Inspector General of Police.
+
+Police said that nearly 309 kilograms of Kerala cannabis were seized during the raid.
+
+The consignment had been hidden inside a room of a house rented by the suspects.
+
+The arrested individuals, aged 43 and 49, are residents of the Grandpass area. They are scheduled to be produced before the Welisara Magistrate’s Court today, said police.
+
+The Police Narcotics Bureau is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/8ed0ca10.json)
+
+---
 
 ### SLC T20 ලීගයේ අවසන් සටන අද
 
@@ -1785,27 +1807,5 @@ Banks’ positive interim results were driving the interest in banking stocks, h
 ...
 
 [Data](articles/75c2a0b3.json)
-
----
-
-### Sri Lanka’s central bank expects economy to grow by 4.5% in 2025
-
-*2025-08-15 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111498/sri-lankas-central-bank-expects-economy-to-grow-by-45-in-2025) · `en`
-
-Sri Lanka’s economy will grow by 4.5% this year, the central bank said in a monetary policy report on Friday, despite some risks to the island nation’s recovery from U.S. tariffs.
-
-The central bank’s projection is above World Bank estimates of 3.5% growth for this year.
-
-Underpinned by a $2.9 billion International Monetary Fund (IMF) programme, Sri Lanka’s gross domestic product grew by 5% in 2024, rebounding strongly from a severe financial crisis three years ago.
-
-The central bank’s report did highlight some risks to the outlook.
-
-“However, external demand conditions and evolving global economic landscape increase the level of uncertainty associated with growth prospects over the near to medium term,” it said.
-
-Sri Lanka is continuing talks with the U.S. after it imposed 20% tariffs last month, reducing it from 44% in April.
-
-...
-
-[Data](articles/4b4995d2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 20:51:00**
+As of **2025-08-16 21:06:31**
 
 ## Newspaper Stats
 
-*Scraped **70,830** Articles*
+*Scraped **70,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adalk | 6,833
 adaderanalk | 8,851
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
-adaderanasinhalalk | 12,215
+adaderanasinhalalk | 12,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,830 articles have been extended.
+61,973 (87.5%) of 70,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### රේගු ඉතිහාසයේ ලැබූ ඉහළම ආදායම රුපියල් බිලියන 235ක් වෙයි
+
+*2025-08-16 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213457) · `si`
+
+රේගු ඉතිහාසයේ මසක් තුළ ලැබූ ඉහළම ආදායම පසුගිය මාසයේදී සටහන් කර ගැනීමට සමත් වූ බව රේගු අධ්‍යක්ෂ ජනරාල් සුනිල් නෝනිස් මහතා පවසයි.
+
+ඊයේ (15) පැවැති ශ්‍රී ලංකා රේගුව විසින් ආනයන හා අපනයනකරුවන්ගේ පහසුව සඳහා නිර්මාණය කරන ලද රේගු සටහන්කර දැනුම්දීමේ පද්ධතිය ජනගත කිරීමේ අවස්ථාවට එක් වෙමින් ඔහු මේ බව පැවසීය.
+
+එහිදී අදහස් දක්වමින් රේගු අධ්‍යක්ෂ ජනරාල්වරයා පැවසුවේ පසුගිය මාසයේදී රේගු ආදායම ලෙස රුපියල් බිලියන 235ක ආදායමක් ලැබූ බවය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ රේගු අධ්‍යක්ෂ ජනරාල් සුනිල් නෝනිස් මහතා,
+
+"ගිය මාසේ අපිට මාසික රේගු ආදායම වුණේ රුපියල් බිලියන 235ක්. ඒක ශ්‍රී ලංකා රේගු ඉතිහාසයේ මාසයකට ලබපු වැඩිම ආදායම. අපි 2023 වර්ශයේදී රුපියල් බිලියන 100 ඉක්මවපු අපි මහා දැවැන්ත හඬගෑමක් කළා. අපි රුපියල් බිලියන 100ක් ඉක්මවා ගියා කියලා නමුත් අද අපි රුපියල් බිලියන 235 ඉක්මවන තැනට රේගුව ඇවිල්ලා තියෙනවා."
+
+◼️
+
+[Data](articles/8641fa9c.json)
+
+---
+
+### දඹුල්ලේ වෙළෙඳුන්ට නිලධාරීන්ගෙන් දොස්
+
+*2025-08-16 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213456) · `si`
+
+පාරිභෝගිකයින් මුදල් ගෙවා මිලදීගන්නා ආහාරපාන පිරිසිදුව හා පරිභෝජනයට සුදුසු තත්ත්වයෙන් සැපයීම වෙළෙඳුන් සතු වගකීමකි.
+
+නමුත්, එම වගකීම කඩකරමින් ජනතාවගේ සෞඛ්‍යයට පවා අහිතකර බලපෑම් එල්ලකරන කූඨ වෙළෙඳුන් ගැන නිරන්තරයෙන් තොරතුරු වාර්තා වේ.
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානයෙන් සහ හෝකන්දර ප්‍රදේශයෙන් ද එවැනි සිදුවීම් කිහිපයක් වාර්තා විය.
+
+අනුරාධපුර කලා වැව දක්වා ජලය ගලා බසිනා තම්මන් ඇළ දඹුල්ල මහ නගරසභාවේ සෞඛ්‍ය අංශ, යුද හමුදාව සහ ගුවන් හමුදාව එක්ව ඊයේ හදිසි පරීක්ෂාවකට ලක් කළේය.
+
+පරීක්ෂාවේදී අනාවරණ වූයේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ වැසිකිළි කැසිකිළි පද්ධති සහ අපජලය තම්මන් ඇළට මුදාහැරෙන බවය.
+
+එමෙන්ම දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ වෙළඳසැල්වල සහ කාණු පද්ධතිවලින් ගලාබසින සෑම අපජල කොටසක්ම මුදා හැරෙන්නේ තම්මන් ඇළට ය.
+
+ආර්ථික මධ්‍යස්ථානයට පැමිණෙන බොහෝදෙනකු වැසිකිළි භාවිත නොකර ඇළට මූත්‍රාකරන අයුරුද මෙහිදී නිරීක්ෂණය විය.
+
+මොවුන් මෙලෙස කාණුවලට සහ තම්මන් ඇළට මූත්‍රා කරන්නේ ආර්ථික මධ්‍යස්ථානය සතුව වැසිකිළි පහසුකම් ද තිබෙන පසුබිමක ය.
+
+...
+
+[Data](articles/a33e1da1.json)
+
+---
 
 ### மினுவாங்கொடையில் ஆயுத களஞ்சியசாலை
 
@@ -1815,33 +1861,5 @@ JAT Holdings PLC, a leading Sri Lankan conglomerate in the manufacturing and coa
 ...
 
 [Data](articles/89645295.json)
-
----
-
-### Sampath Bank records robust year-on-year growth of 32 percent
-
-*2025-08-15 20:58:00* · [`islandlk`](http://island.lk/sampath-bank-records-robust-year-on-year-growth-of-32-percent/) · `en`
-
-Sampath Bank recorded a Profit Before Tax (PBT) of Rs 24.4 Bn and a Profit After Tax (PAT) of Rs 14.7 Bn for the first half of 2025, marking a robust year-on-year growth of 32% across both metrics compared to the same period in 2024. The Sampath Group reported a PBT of Rs 26.0 Bn and a PAT of Rs 15.6 Bn, reflecting a year-on-year growth of 32% at both PBT and PAT levels.
-
-During the six-month period ended 30th June 2025, Sampath Bank reported total interest income of Rs 89.4 Bn, a 6% year-on-year decline primarily driven by the downward trend in the Average Weighted Prime Lending Rate (AWPLR) and reduced yields from government securities. The Bank’s interest expenses recorded a corresponding decline of 6% to Rs 50.8 Bn for the period. These resulted in the Bank’s Net Interest Income (NII) declining by 6% year-on-year to Rs 38.6 Bn and the Net Interest Margin (NIM) declining by 66 basis points, from 4.90% on 31st December 2024 to 4.24% as at 30th June 2025.
-
-...
-
-[Data](articles/9bff7879.json)
-
----
-
-### Visa presents ‘India on a Plate’: An exclusive dining experience for Infinite cardholders
-
-*2025-08-15 20:57:00* · [`islandlk`](http://island.lk/visa-presents-india-on-a-plate-an-exclusive-dining-experience-for-infinite-cardholders/) · `en`
-
-Visa, the global leader in digital payments, curated a one-of-a-kind dining experience called ‘India on a Plate’ exclusively for its Visa Infinite cardholders, held in collaboration with Cinnamon Life at Indiya Restaurant. This specially designed Chef’s Table experience, hosted on 25th July 2025, exemplified Visa’s commitment to deliver an infinite lifestyle rooted in culturally immersive moments for its indulgent, affluent cardholders.
-
-Facilitated by the skillful and renowned Indian Chef Bhairav Singh, the event transported guests on a sensorial journey through India’s rich culinary heritage. The four-course dinner was an infusion of regional flavours from Bihar, Lucknow, Goa, Kerala, and more; each dish paired with Chef Bhairav’s live storytelling and personal insights deepened the experience. From a delicately plated Gujarati Amuse Bouche to the bold richness of Kashmiri Kukur Rogan Josh, the menu was both nostalgic and inventive.
-
-...
-
-[Data](articles/302224fa.json)
 
 ---

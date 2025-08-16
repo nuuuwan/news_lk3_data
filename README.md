@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 11:06:49**
+As of **2025-08-16 11:19:48**
 
 ## Newspaper Stats
 
-*Scraped **70,774** Articles*
+*Scraped **70,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,339
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,826
-adaderanalk | 8,837
+adaderanalk | 8,838
 tamilmirrorlk | 10,423
 virakesarilk | 11,760
-adaderanasinhalalk | 12,191
+adaderanasinhalalk | 12,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,774 articles have been extended.
+61,973 (87.6%) of 70,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### දිවයින පුරා විශේෂ මෙහෙයුමක්
+
+*2025-08-16 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213432) · `si`
+
+මුළු දිවයිනම ආවරණය වන පරිදි සිදු කරගෙන යනු ලබන විශේෂ මෙහෙයුම් මගින් සැකපිට පුද්ගලයින් 689ක් අත්අඩංගුවට ගෙන තිබේ.
+
+එමෙන්ම අපරාධවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 24 දෙනෙකු හා වරෙන්තකරුවන් 242 දෙනෙකු ද මෙහිදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+මීට අමතරව අත්අඩංගුවට ගෙන ඇති විවෘත වරෙන්තුකරුවන් ගණන 158ක් බව පොලීසිය පවසයි.
+
+මේ අතර බීමත් රියදුරන් 100ක් ද මෙහිදී අත්අඩංගුවට ගෙන ඇති අතර අපරීක්ෂාකාරී රිය ධාවනය සම්බන්ධයෙන් පුද්ගලයින් 27 දෙනෙකු අත්අඩංගුනය ගෙන ඇත.
+
+රථවාහන වැරදි සම්බන්දයෙන් පුද්ගලයන් 3,635ක් සඳහාද පොලීසිය නෛතික පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4163a922.json)
+
+---
+
+### ආපදා හේතුවෙන් පාකිස්තානයට ජීවිත 200ක් අහිමි වෙයි
+
+*2025-08-16 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213431) · `si`
+
+වයඹදිග හා උතුරු පාකිස්තානයට බලපා ඇති ධාරාණිපාත වර්ෂාව හේතුවෙන් ඊයේ (15) දිනයේ දී පමණක් පුද්ගලයින් 200කට ආසන්න පිරිසක් මියගොස් ඇති බව එරට ආපදා කලමනාකරණ අධිකාරිය පවසයි.
+
+කයිබර් පක්තුන්ක්වා කඳුකරයට මෙලෙස අයහපත් කාලගුණයෙන් දැඩි බලපෑම් එල්ල වී ඇත.
+
+කඳුකරයේ අධික වර්ෂාව, හදිසි ගංවතුර, අකුණු සැර වැදීම් සහ ගොඩනැගිලි කඩාවැටීම් වැනි හේතුවෙන් මත මෙම මරණ සිදුව තිබේ.
+
+◼️
+
+[Data](articles/571f4fd8.json)
+
+---
 
 ### லொஹானின் இறுதிச் சடங்கு தொடர்பான செய்தி
 
@@ -69,6 +105,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d954840d.json)
+
+---
+
+### Rameswaram fishers fast for release of men, boats in Sri Lanka
+
+*2025-08-16 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111515/rameswaram-fishers-fast-for-release-of-men-boats-in-sri-lanka) · `en`
+
+Fishermen in Rameswaram observed a hunger strike on Friday demanding the release of their fellow mates and their boats currently held by Sri Lankan authorities.
+
+According to fishermen’s associations, 64 fishermen from Tamil Nadu arrested by Sri Lankan navy over the past two months are lodged in prison. In addition, 24 more are serving prison terms ranging from six months to two years.
+
+Several mechanised boats seized during these arrests remain in the island nation’s custody. The hunger strike, held at Thangachimadam Valasai Street and led by fishermen’s representative S. Jesuraja, also called for securing fishing rights on Katchatheevu waters, and urged the Centre and state govt to find a permanent solution to the decades-old dispute.
+
+The protest is part of an ongoing indefinite strike by mechanised boat fishermen that began on Monday. On Wednesday, the fishermen carried out a demonstration condemning the repeated arrests during fishing trips.
+
+...
+
+[Data](articles/6fd322ae.json)
 
 ---
 
@@ -1755,57 +1809,5 @@ The official inauguration ceremony was held on April 05, at the invitation of Pr
 ◼️
 
 [Data](articles/de0c352d.json)
-
----
-
-### Sri Lanka stocks close up 1.45-pct driven by banks
-
-*2025-08-15 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-45-pct-driven-by-banks-236541/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, mostly pushed by interest in banking stocks post interim results announcements, brokers said.
-
-The ASPI was up 1.45 percent, or 289.69 points, at 20,218.36, while the S&P SL20 was up 1.98 percent, or 114.26 points, at 5,894.84.
-
-Market turnover was 9.5 billion rupees. Most of this came from bank (2.1bn), capital goods (2bn), and diversified financial (1.5bn) stocks.
-
-“The turnover was pushed by around 10 companies, which is a good sign, and there was both retail and high net worth participation,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
-
-Banks’ positive interim results were driving the interest in banking stocks, he said, while there was also significant interest in diversified financial companies.
-
-...
-
-[Data](articles/8d9ab397.json)
-
----
-
-### குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்
-
-*2025-08-15 14:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குகைக்குள்-வாழும்-இரண்டு-சிறுத்தைகளால்-அச்சம்/76-362971) · `ta`
-
-நோர்வூட் பொலிஸ் பிரிவிற்குட்பட்ட நோர்வூட் சென் ஜோன் டிலரி கீழ்பிரிவு தோட்டப் பகுதியில் உள்ள கற் குகைக்குள் இரண்டு சிறுத்தைகள் வாழ்ந்து வருவதாக சென்ஜோன் டிலரி கீழ் பிரிவு தோட்ட மக்கள் தெரிவிக்கின்றனர்.
-
-குறித்த பகுதியில் தொழில் நிமித்தம் செல்லும் தொழிலாளர்கள் இந்த இரண்டு சிறுத்தைகளையும்  கண்டுள்ளதாக அம் மக்கள் தெரிவிக்கின்றனர்.
-
-இதனால் குறித்த பகுதிக்கு தொழிலுக்கு செல்லுவதற்கு  தோட்ட தொழிலாளர்கள் அச்சம் தெரிவித்துள்ளனர். கற் குகைக்குள் இருக்கும் இரண்டு சிறுத்தைகளும் தினமும் காலை வேளையில் வெளியில் வந்து போவதாகவும் இதனால் அப்பகுதிக்குச் சென்று தேயிலை கொழுந்து பறிப்பதற்கு அச்சமாக இருப்பதாக தெரிவிக்கின்றனர்.
-
-இதேவேளை வீடுகளில் வளர்க்கப்படும் வளர்ப்பு நாய்களை இரவு நேரங்களில் இந்த சிறுத்தைகள் கொண்டு செல்லுவதாக மக்கள் தெரிவிக்கின்றனர்.குறித்த பகுதியில் வளர்ப்பு நாய்களின் எலும்பு எச்சங்கள் காணப்பட்டன.
-
-இந்த பகுதியில் அதிகமாக நடமாடும் சிறுத்தைகள் தொடர்பாக நல்லத்தண்ணி வனவிலங்கு அதிகாரிகள் நடவடிக்கை எடுக்கப்பட வேண்டும் என மக்கள் கோரிக்கை விடுக்கின்றனர்.
-
-...
-
-[Data](articles/b8c626cd.json)
-
----
-
-### சத்திர சிகிச்சை நிபுணர் மாரடைப்பால் மரணம்
-
-*2025-08-15 14:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சத்திர-சிகிச்சை-நிபுணர்-மாரடைப்பால்-மரணம்/175-362970) · `ta`
-
-யாழ். போதனா வைத்திய சாலையின் பிரபல  சத்திர சிகிச்சை வைத்திய நிபுணர் வைத்தியர் சுதர்சன் மாரடைப்பு காரணமாக  கொழும்பில் வெள்ளிக்கிழமை (15) காலமானார்.
-
-◼️
-
-[Data](articles/c77948e4.json)
 
 ---

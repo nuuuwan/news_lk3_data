@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 12:35:44**
+As of **2025-08-16 12:48:57**
 
 ## Newspaper Stats
 
-*Scraped **70,782** Articles*
+*Scraped **70,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,339
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,827
-adaderanalk | 8,838
+adaderanalk | 8,840
 tamilmirrorlk | 10,424
 virakesarilk | 11,760
 adaderanasinhalalk | 12,195
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,782 articles have been extended.
+61,973 (87.6%) of 70,784 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,6 +110,44 @@ At group level the CEB made profits of 7.4 billion rupees in the June quarter an
 
 ---
 
+### Nearly 700 suspects arrested in island-wide special operations
+
+*2025-08-16 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111517/nearly-700-suspects-arrested-in-island-wide-special-operations) · `en`
+
+A total of 689 suspects have been arrested during island-wide special operations within yesterday, police said.
+
+Among those arrested, 24 individuals directly involved in crimes and 242 individuals with outstanding warrants were taken into custody.
+
+In addition, 158 people with open warrants were also apprehended.
+
+Meanwhile, police said 100 individuals were arrested for driving under the influence, while 27 others were arrested for reckless driving.
+
+Legal action has also been taken against 3,635 individuals for various traffic offences, said police.
+
+◼️
+
+[Data](articles/2bfc7cdb.json)
+
+---
+
+### களுதாவளை பிரதேச சபையில் கருத்து சுதந்திரமும், ஊடக சுதந்திரமும் மறுக்கப்பட்டுள்ளதாக பிரதேச சபை உறுப்பினர் குற்றச்சாட்டு
+
+*2025-08-16 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222652) · `ta`
+
+மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில் பற்று களுதாவளை பிரதேச சபை அமர்வுகளில் ஊடகங்களை அனுமதிப்பதில்லை எனவும், உறுப்பினர்கள் சபைக்குள் கையடக்கத் தொலைபேசிகளை கொண்டு வரக்கூடாது எனவும் தீர்மானம் நிறைவேற்றப்பட்டுள்ளமை ஜனநாயகத்துக்கும், ஊடக சுதந்திரத்துக்கும் எதிரான அடக்குமுறை என அப்பிரதேச சபை உறுப்பினர் யோகராசா சந்திரகுமார் தெரிவித்துள்ளார்.
+
+மண்முனை தென் எருவில் பற்று களுதாவளை பிரதேச சபையின் இரண்டாவது அமர்வு 15.07.2025 அன்று இடம்பெற்றது.
+
+இதன்போது உறுப்பினர்களாகிய எமது கருத்துக்களை தெரிவிப்பதற்கு இடம் வழங்கப்படவில்லை. இதனால் கருத்து முரண்பாடுகள் ஏற்பட்டதுடன் தவிசாளர் என்னை தாக்கவும் முற்பட்டிருந்தார். இதன் காரணமாக நாங்கள் ஒன்பது உறுப்பினர்கள் சபையைவிட்டு வெளியேறியிருந்தோம்.
+
+இனிவரும் காலங்களில் சபை அமர்வுகளின் போது தவிசாளர், உபதவிசாளர் ஆகியோரைத் தவிர ஏனைய உறுப்பினர்கள் கையடக்க தொலைபேசி பயன்படுத்துவதற்கு அனுமதியில்லை என தவிசாளர் அவர்கள் சபையில் முன்வைத்த போது தீர்மானமாக நிறைவேற்றப்பட்டது.
+
+...
+
+[Data](articles/55f9d2fe.json)
+
+---
+
 ### දිවයින පුරා සිදුකරන විශේෂ පොලිස් මෙහෙයුම - සැකපිට 689ක් අත්අඩංගුවට
 
 *2025-08-16 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213432) · `si`
@@ -143,6 +181,24 @@ At group level the CEB made profits of 7.4 billion rupees in the June quarter an
 ◼️
 
 [Data](articles/571f4fd8.json)
+
+---
+
+### Flash floods kill more than 280 people in India and Pakistan as thousands flee
+
+*2025-08-16 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111516/flash-floods-kill-more-than-280-people-in-india-and-pakistan-as-thousands-flee) · `en`
+
+Flash floods triggered by torrential rains have killed over 280 people in India and Pakistan and left scores of others missing, officials said Friday, as rescuers brought to safety some 1,600 people from two mountainous districts in the neighboring countries.
+
+Flooding began a day earlier in Indian-controlled Kashmir and spread to the north and northwest in Pakistan, triggered by sudden, intense downpours over small areas. The floods and subsequent landslides injured dozens of people and forced the evacuation and rescue of thousands of others, particularly in the Khyber Pakhtunkhwa province.
+
+Such cloudbursts are increasingly common in India’s Himalayan regions and Pakistan’s northern areas, and experts have said climate change is a contributing factor.
+
+Leaders in both countries offered their condolences to the victims’ families and assured them of swift relief.
+
+...
+
+[Data](articles/7bd4604a.json)
 
 ---
 
@@ -581,24 +637,6 @@ Turning to Putin, he said: “We’ll probably see you again very soon.”
 ...
 
 [Data](articles/f0a3f640.json)
-
----
-
-### களுதாவளை பிரதேச சபையில் கருத்து சுதந்திரமும், ஊடக சுதந்திரமும் மறுக்கப்பட்டுள்ளதாக பரதேச சபை உறுப்பினர் குற்றச்சாட்டு
-
-*2025-08-16 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/222652) · `ta`
-
-மட்டக்களப்பு மாவட்டம் மண்முனை தென் எருவில் பற்று களுதாவளை பிரதேச சபை அமர்வுகளில் ஊடகங்களை அனுமதிப்பதில்லை எனவும், உறுப்பினர்கள் சபைக்குள் கையடக்கத் தொலைபேசிகளை கொண்டு வரக்கூடாது எனவும் தீர்மானம் நிறைவேற்றப்பட்டுள்ளமை ஜனநாயகத்துக்கும், ஊடக சுதந்திரத்துக்கும் எதிரான அடக்குமுறை என அப்பிரதேச சபை உறுப்பினர் யோகராசா சந்திரகுமார் தெரிவித்துள்ளார்.
-
-மண்முனை தென் எருவில் பற்று களுதாவளை பிரதேச சபையின் இரண்டாவது அமர்வு 15.07.2025 அன்று இடம்பெற்றது.
-
-இதன்போது உறுப்பினர்களாகிய எமது கருத்துக்களை தெரிவிப்பதற்கு இடம் வழங்கப்படவில்லை. இதனால் கருத்து முரண்பாடுகள் ஏற்பட்டதுடன் தவிசாளர் என்னை தாக்கவும் முற்பட்டிருந்தார். இதன் காரணமாக நாங்கள் ஒன்பது உறுப்பினர்கள் சபையைவிட்டு வெளியேறியிருந்தோம்.
-
-இனிவரும் காலங்களில் சபை அமர்வுகளின் போது தவிசாளர், உபதவிசாளர் ஆகியோரைத் தவிர ஏனைய உறுப்பினர்கள் கையடக்க தொலைபேசி பயன்படுத்துவதற்கு அனுமதியில்லை என தவிசாளர் அவர்கள் சபையில் முன்வைத்த போது தீர்மானமாக நிறைவேற்றப்பட்டது.
-
-...
-
-[Data](articles/55f9d2fe.json)
 
 ---
 
@@ -1773,47 +1811,5 @@ Meanwhile, the S&P SL 20 index closed at 5,894.84 points after gaining 114.26 po
 ◼️
 
 [Data](articles/248d7431.json)
-
----
-
-### ගාල්ලේ සුනඛ ගැටලුව නිසා සංචාරකයින් පීඩාවට
-
-*2025-08-15 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213404) · `si`
-
-ගාල්ල නගරයේ සහ ගාල්ල කොටුව ප්‍රදේශයේ සුනඛ ගැටලුව උග්‍රවීමෙන් සංචාරකයින් සහ ප්‍රදේශවාසීන් පීඩාවට පත්ව තිබේ.
-
-ගාල්ල දිස්ත්‍රික් සංවර්ධන කමිටුවේදීද මේ සම්බන්ධයෙන් අවධානය යොමු කර ඇත.
-
-නිරන්තරයෙන් සංචාරයකින්ගේ පිරී පවතින මෙහි අද වනවිට සුනඛ ගහනය බහුල වී තිබේ.
-
-ඒ කිසිවෙකුගේ රැකවරණය නොමැතිව සිටින සුනඛයින් ගාලු කොටුව ප්‍රදේශයේ හා නගරයේ වීථීවල සැරිසැරීම හේතුවෙනි.
-
-ප්‍රදේශවාසීන් පවසන්නේ, දේශීය සංචාරකයින් මෙන්ම විදේශීය සංචාරකයින්ගේ නිතර සුනඛ සපාකෑම්වලට ලක්වන බවය.
-
-කෙසේ වෙතත් සුනඛ ගහනය පාලනය කිරීම සඳහා සුනඛයින් වන්ද්‍යාකරණයට ලක්කරන ආයතන ද මේ වනවිට ගාල්ල ප්‍රදේශයේ පවත්වාගෙන යෑමට ඇතැම් පිරිස් කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/6236759f.json)
-
----
-
-### Power supply disconnected to Dambulla Agro cold storage complex inaugurated by Modi
-
-*2025-08-15 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111501/power-supply-disconnected-to-dambulla-agro-cold-storage-complex-inaugurated-by-modi) · `en`
-
-It was revealed today (15) that the temperature and humidity-controlled agricultural storage complex in Dambulla, which was recently inaugurated by Indian Prime Minister Narendra Modi, had received an electricity bill of Rs. 8,409,000 even before the commencement of its operations.
-
-This disclosure was made during an inspection visit to the facility by a group of politicians including former Members of Parliament.
-
-It was also reported that the electricity supply to the facility has been disconnected due to non-payment of the said bill.
-
-The storage complex was constructed with assistance from the Indian government several years ago, based on a proposal by MP Harsha de Silva.
-
-The official inauguration ceremony was held on April 05, at the invitation of President Anura Kumara Dissanayake, and was ceremonially opened by Prime Minister Narendra Modi via remote control.
-
-...
-
-[Data](articles/c5bd2314.json)
 
 ---

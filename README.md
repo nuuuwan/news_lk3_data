@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 14:33:50**
+As of **2025-08-16 14:48:56**
 
 ## Newspaper Stats
 
-*Scraped **70,794** Articles*
+*Scraped **70,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,830
 adaderanalk | 8,843
 tamilmirrorlk | 10,424
 virakesarilk | 11,760
-adaderanasinhalalk | 12,199
+adaderanasinhalalk | 12,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,794 articles have been extended.
+61,973 (87.5%) of 70,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### බස් රථයක ගැටී ග්‍රාම නිලධාරීවරයෙකු මරුට
+
+*2025-08-16 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213440) · `si`
+
+මාතලේ කයිකාවල ප්‍රදේශයේදී පෞද්ගලික බස් රථයක ගැටීමෙන් ග්‍රාම නිලධාරීවරයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙම පුද්ගලයා රාජකාරී සඳහා යතුරුපැදියකින් ගමන් කරමින් සිටියදී මෙම අනතුර සිදුව ඇති අතර ඔහු එම ස්ථානයේදීම මිය ගොස් ඇති බව වාර්තා වේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 35ක් වන මාතලේ රත්තොට කයිකාවල ප්‍රදේශයේ පදිංචි ග්‍රාම නිලධාරීවරයෙකි.
+
+සිද්ධිය සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර රත්තොට පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/1b2dcee9.json)
+
+---
 
 ### වසර 136ක අතීතයක් අබිබවා යන්න සැරසෙන බෙතෙල්
 
@@ -1809,19 +1827,5 @@ The peaceful protest march commenced from near the Borella Cemetery Roundabout a
 ...
 
 [Data](articles/3899f227.json)
-
----
-
-### විරෝධතා පාගමනක් හේතුවෙන් බේස්ලයින් මාර්ගය අවහිර වෙයි
-
-*2025-08-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213408) · `si`
-
-බොරැල්ල කනත්ත හන්දියේ සිට කැම්බල් උද්‍යානය දක්වා බේස්ලයින් මාර්ගය අවහිර වී තිබේ.
-
-නිදහස් පලස්තීනයක් උදෙසා ලාංකික සාමුහිකය විසින් මෙම විරෝධතාව සංවිධානය කර තිබේ.
-
-◼️
-
-[Data](articles/ecb3a3bd.json)
 
 ---

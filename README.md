@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 16:07:33**
+As of **2025-08-16 16:20:09**
 
 ## Newspaper Stats
 
-*Scraped **70,800** Articles*
+*Scraped **70,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,831
 adaderanalk | 8,843
 tamilmirrorlk | 10,426
 virakesarilk | 11,760
-adaderanasinhalalk | 12,201
+adaderanasinhalalk | 12,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,800 articles have been extended.
+61,973 (87.5%) of 70,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### පාදුක්ක පොලිසියේදී යකා නැටූ හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී රිමාන්ඩ්
+
+*2025-08-16 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213443) · `si`
+
+බීමතින් රිය අනතුරක් සිදුකළ පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට විරෝධය පළකරමින් පාදුක්ක පොලිස් ස්ථානයේ නිලධාරින්ට බැණ තර්ජනය කළ සීතාවක ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරයා එළැඹෙන 29 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+◼️
+
+[Data](articles/69087c2e.json)
+
+---
+
+### අමෙරිකානු නාවික හමුදාවට අයත් නෞකාවක් කොළඹට
+
+*2025-08-16 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213442) · `si`
+
+අමෙරිකානු නාවික හමුදාවට අයත් ‘USS Santa Barbara’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා කොළඹ වරායට පැමිණ තිබේ.
+
+අද (16) උදෑසන කොළඹ වරායට පැමිණි එම නෞකාව ශ්‍රී ලංකා නාවික හමුදාව විසින් නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.
+
+මෙලෙස කොළඹ වරායට පැමිණි Littoral Combat වර්ගයට අයත් ‘USS Santa Barbara (LCS32)’ නෞකාව, එක්සත් ජනපද හත්වන (7th Fleet) නෞකා බල ඇනියට අයත් නෞකාවක් වේ.
+
+මෙම නෞකාවේ අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් A. J. OCHS කටයුතු කරනු ලබයි.
+
+‘USS Santa Barbara’ නෞකාව දිවයිනේ රැඳී සිටින කාලසීමාව තුළ එහි කාර්යමණ්ඩලය, දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+නෞකාව නිල සංචාරය අවසානයේ 2025 අගෝස්තු මස 22 වැනි දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇති බව නාවික හමුදාව පවසයි.
+
+◼️
+
+[Data](articles/d470aa37.json)
+
+---
 
 ### සඳුදා ට්‍රම්ප් හමුවන බව සෙලෙන්ස්කි කියයි
 
@@ -1775,47 +1809,5 @@ The feeder giant accused the court of effectively convicting the vessel’s mast
 ...
 
 [Data](articles/ef26b4f9.json)
-
----
-
-### කොලරාඩෝවේ හාවුන්ගේ හිස මත 'අං'  වර්ධනය වෙයි
-
-*2025-08-15 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213410) · `si`
-
-කොලරාඩෝවේ හි ජීවත් වන හාවුන් වර්ගයක් 'අං' මෙන් වැඩෙන වෛරසයකින් පීඩා විඳින පුවතක් විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-"ෂොපේ පැපිලෝමා" නමින් හැඳින්වෙන මෙම වෛරසය සහිත හාවුන්ගේ මුහුණුවලින් 'අං' මෙන් නෙරාඑන ඉන්නන් වර්ගයක් වර්ධනය වීමෙන් මෙම වසංගත තත්ත්වය හට ගෙන ඇතැයි වාර්තා වේ.
-
-විද්‍යාඥයින් පවසන්නේ මෙය බිය විය යුතු තත්ත්වයක් නොවන අතර, ලොම් සහිත ජීවීන්ට සාපේක්ෂව මුහුණදීමට සිදුවන පොදු වෛරසයක් බවත්ය.
-
-'ෆ්‍රැන්කන්ස්ටයින් බනීස්' (Frankenstein bunnies), යක්ෂ හාවන් (demon rabbits) සහ "සොම්බි හාවන් (zombie) යනුවෙන් අන්වර්ථ නාම් රැසකින් මෙම සතුන් හඳුන්වනු ලබන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-මෙම සත්වයින් බොහෝමයක් ප්‍රසිද්ධියට පත්ව ඇත්තේ ඩෙන්වර් සිට සැතපුම් 65ක් උතුරින් පිහිටි ෆෝර්ට් කොලින්ස් ප්‍රදේශයේ පදිංචිකරුවන් විසින් ඡායාරූප පළ කිරීම නිසාවෙනි.
-
-කොලරාඩෝ උද්‍යාන සහ වනජීවී ප්‍රකාශිකාවක් වන කාරා වැන් හූස් පවසා ඇත්තේ, මෙම වෛරසය‍ මැක්කන් සහ කිනිතුල්ලන්ගෙන් ව්‍යාප්ත වන බවය.
-
-...
-
-[Data](articles/a5701d9b.json)
-
----
-
-### On India’s Independence Day, Modi vows to punish Pakistan for future attacks
-
-*2025-08-15 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111504/on-indias-independence-day-modi-vows-to-punish-pakistan-for-future-attacks) · `en`
-
-Indian Prime Minister Narendra Modi warned Pakistan that India will punish its neighbor if there are future attacks on India as he marked 79 years of independence from British colonial rule.
-
-Modi’s remarks Friday come three months after nuclear-armed rivals India and Pakistan engaged in four days of intense fighting, their worst clash in decades.
-
-Modi addressed the country from New Delhi’s 17th-century, Mughal-era Red Fort, saying India has established a “new normal” that does not differentiate between “terrorists” and those who support terrorism. He said he would not tolerate what he called Islamabad’s “nuclear blackmail.”
-
-“India has decided that it will not tolerate nuclear threats. For a long time, nuclear blackmail had been going on but this blackmail will not be tolerated now,” Modi said.
-
-Pakistan previously has rejected India’s statements about nuclear blackmail as provocative and inflammatory.
-
-...
-
-[Data](articles/1ce48bad.json)
 
 ---

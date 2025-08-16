@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 22:07:25**
+As of **2025-08-16 22:21:38**
 
 ## Newspaper Stats
 
-*Scraped **70,833** Articles*
+*Scraped **70,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,833
 adaderanalk | 8,852
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
-adaderanasinhalalk | 12,217
+adaderanasinhalalk | 12,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,833 articles have been extended.
+61,973 (87.5%) of 70,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ
+
+*2025-08-16 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213458) · `si`
+
+බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පියවර ගනිමින් උත්ශ්‍රේණි ගත කරන ලද රෝහල ජනතා අයිතියට පත් කිරීම ඊයේ (15) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+
+ඒ සඳහා වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා සහ ඌව පළාත් ආණ්ඩුකාර නීතීඥ ජේ.එම්.කපිල ජයසේකර යන මහත්වරුන්ගේ සහභාගී විය.
+
+එහිදී අදහස් දක්වමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා කියා සිටියේ රජය බලයට පත්ව ගත වූ මාස 08ක පමණ කාලසීමාවේ දී සෞඛ්‍ය අමාත්‍යාංශය ලෙස රෝහල් වර්ගීකරණයේ ඉහළට ඔසවා තැබූ පළමු රෝහල බවට බණ්ඩාරවෙල මුලික රෝහල පත්වන බවය.
+
+2025.08.16 බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කිරීම  by  poornima
+
+◼️
+
+[Data](articles/da1ee333.json)
+
+---
 
 ### Pakistan rescuers recover bodies after monsoon rains kill over 340
 
@@ -1847,27 +1865,5 @@ Both the U.S. and Russian presidents, due to meet at a Cold War-era air force ba
 ...
 
 [Data](articles/531f2fb6.json)
-
----
-
-### Sahasdhanavi clarifies power plant tariff, stresses vital role in energy security
-
-*2025-08-15 21:01:00* · [`islandlk`](http://island.lk/sahasdhanavi-clarifies-power-plant-tariff-stresses-vital-role-in-energy-security/) · `en`
-
-Sahasdhanavi Ltd has responded to recent discussions on its power plant’s levelised tariff, emphasising its importance in Sri Lanka’s energy stability as per the approved Long-Term Generation Expansion Plan (LTGEP). By issuing a press release, the company highlights following facts for policymakers and the public: to broaden the scope and inclusivity of the discussion.
-
-The 350 MW RLNG/Diesel plant was awarded through an International Competitive Bidding (ICB) in 2021, with Sahasdhanavi submitting the lowest bid. After securing Cabinet and PUCSL approval by December 2023, project delays arose due to national circumstances.
-
-Reliable 24/7 power: 318 MW (diesel) or 350 MW (LNG) on demand, with >90% availability (penalties apply if unmet).
-
-Energy Charge: Based on actual usage (~Rs. 57/kWh for diesel, ~Rs. 33/kWh for LNG).
-
-Fuel-linked tariffs: Final costs in 2028 will adjust to market prices.
-
-Is theoretical, based on RFP assumptions (fixed fuel prices, exchange rates).
-
-...
-
-[Data](articles/a104b97b.json)
 
 ---

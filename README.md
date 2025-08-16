@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 17:51:57**
+As of **2025-08-16 18:08:54**
 
 ## Newspaper Stats
 
-*Scraped **70,810** Articles*
+*Scraped **70,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,831
-adaderanalk | 8,843
+adaderanalk | 8,848
 tamilmirrorlk | 10,427
-virakesarilk | 11,760
-adaderanasinhalalk | 12,208
+virakesarilk | 11,761
+adaderanasinhalalk | 12,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,810 articles have been extended.
+61,973 (87.5%) of 70,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### දුම්රියක් පීලි පනී
+
+*2025-08-16 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213450) · `si`
+
+මුහුදුබඩ දුම්රිය මාර්ගයේ ගිංතොට දුම්රිය ස්ථානයේදී දුම්රියක් පීලි පැනීමකට ලක්වී තිබේ.
+
+මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වන අංක 8056A ගාලු කුමාරී සීඝ්‍රගාමී දුම්රිය මෙලෙස පීලි පැනීමකට ලක්ව ඇති බව වාර්තා වෙයි.
+
+ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ ගමනාගමන කටයුතු මේ වන විට අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා පමණක් සීමා කිරීමට සිදුව ඇත.
+
+දුම්රිය පිලි පැනීම හේතුවෙන් දුම්රිය මාර්ගයට ද විශාල වශයෙන් හානී සිදුව ඇතිබව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/e17a6643.json)
+
+---
+
+### පුද්ගලයෙකුට මරු කැඳවූ ආරවුල
+
+*2025-08-16 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213449) · `si`
+
+හඟුරන්කෙත - හේවාහැට ප්‍රදේශයේදී පුද්ගලයෙකුට පහර දී ඝාතනය කර තිබේ.
+
+අදාළ පුද්ගලයාට පිරිසක් එක්ව පහරදී ඇති අතර පසුව වේල්ලකින් තල්ලු කර ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+මියගිය පුද්ගලයා තවත් පුද්ගලයෙකු සමඟ හේවාහැට නගරයේදී ආරවුලක් ඇති කරගෙන ඇති අතර එහිදී අනෙක් පුද්ගලයා විසින් තවත් පිරිසක් හා එක්ව මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 53ක් වන හේවාහැට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ සම්බන්ධයෙන් පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති අතර හඟුරන්කෙත පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/9ed84cf8.json)
+
+---
+
+### Leave of all postal employees cancelled
+
+*2025-08-16 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111525/leave-of-all-postal-employees-cancelled) · `en`
+
+The leave of all employees of the Department of Posts has been cancelled with effect from tomorrow (17).
+
+Postmaster General, Mr. Ruwan Sathkumara, has officially informed all heads of the department of this decision in writing.
+
+Meanwhile, the Postal and Telecommunications Officers’ Union, together with the United Postal Trade Unions’ Front (UPTUF), has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
+
+According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance through fingerprint machines.
+
+The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and administrative offices from 12.00 midnight onwards.
+
+◼️
+
+[Data](articles/19584242.json)
+
+---
 
 ### දක්ෂිණ අධිවේගයේ ගමන් ගත් බස් රථයක ගින්නක්
 
@@ -144,6 +202,24 @@ Business activities in other personal activities, postal activities, programming
 
 ---
 
+### Former PS member remanded for threatening, assaulting officers at Padukka Police
+
+*2025-08-16 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111524/former-ps-member-remanded-for-threatening-assaulting-officers-at-padukka-police) · `en`
+
+A former member of the Seethawaka Pradeshiya Sabha who was arrested for allegedly threatening, verbally abusing and assaulting police officers at the Padukka Police Station while protesting the arrest of a motorist involved in a car accident, has been remanded until August 29.
+
+He was ordered remanded by the Homagama Magistrate who visited the arrested suspect at the Homagama Base Hospital, where he is receiving treatment under police custody.
+
+The incident had occurred last evening (15), after a three-wheeler and a car had collided in the Mawathagama area of Padukka. Following the accident, Padukka police officers arrested the driver of the car, which was also taken into police custody.
+
+However, a former United National Party (UNP) member of the Seethawaka Pradeshiya Sabha, who reportedly came to the police station to protest the driver’s arrest, had threatened and hurled abuse at the officers and attempted to assault the OIC of the Padukka Police Traffic Division.
+
+...
+
+[Data](articles/46552933.json)
+
+---
+
 ### විපක්ෂයේ සාකච්ඡා ගැන ඇහෙන අලුත්ම කතාව
 
 *2025-08-16 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213444) · `si`
@@ -161,6 +237,26 @@ Business activities in other personal activities, postal activities, programming
 ...
 
 [Data](articles/5a6488da.json)
+
+---
+
+### USS Santa Barbara arrives in Colombo
+
+*2025-08-16 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111523/uss-santa-barbara-arrives-in-colombo) · `en`
+
+United States Navy Ship (USS) Santa Barbara (LCS 32) arrived at the port of Colombo on a replacement purpose today (16).
+
+The Sri Lanka Navy welcomed the visiting ship in compliance with naval traditions.
+
+The 127.6 m – long Littoral Combat ship is a part of the U.S – 7th fleet and is commanded by Commander A. J. Ochs, said Sri Lanka Navy.
+
+During their stay in Colombo, the crew of the ship is expected to visit some of the tourist attractions in the country.
+
+Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
+
+◼️
+
+[Data](articles/4f0d98c9.json)
 
 ---
 
@@ -205,6 +301,20 @@ Business activities in other personal activities, postal activities, programming
 ◼️
 
 [Data](articles/d470aa37.json)
+
+---
+
+### மற்றுமொரு ரோந்துக் கப்பலை இலங்கை்கு வழங்கவுள்ளோம் : சான்டா பாப்ரா போர் கப்பலின் வரவேற்பின்போது அமெரிக்கத் தூதர் ஜூலி சங் தெரிவிப்பு
+
+*2025-08-16 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222690) · `ta`
+
+உலக வர்த்தகத்திற்கு இந்தியப் பெருங்கடல் மிகவும் முக்கியமானது. அதன் மூலோபாய இருப்பிடத்தால், இந்த கடல் வழிகளின் பாதுகாப்பை உறுதி செய்வதில் இலங்கை ஒரு முக்கிய பங்கு வகிக்கிறது. போதைப்பொருள் கடத்தல், ஆட் கடத்தல் மற்றும் சர்வதேச குற்றங்கள் போன்ற அச்சுறுத்தல்களை எதிர்த்துப் போராட நாம் இணைந்துள்ளோம். இது பாதுகாப்பான மற்றும் வளமான பிராந்தியத்திற்கு பங்களிக்கிறது. இந்த ஆண்டு இறுதியில், நான்காவது ரோந்து கப்பலை நாங்கள் அன்பளிப்பாக இலங்கைக்கு வழங்குவோம், இது இலங்கையின் கடல்சார் பாதுகாப்பிற்கான திறனை மேலும் வலுப்படுத்தும் என அமெரிக்கத் தூதர் ஜூலி சங் தெரிவித்தார்.
+
+சான்டா பாப்ரா என்ற அமெரிக்க போர் கப்பல் இன்று கொழும்புத் துறைமுகத்தை வந்தடைந்த நிலையில், அங்கு கருத்துத் தெரிவித்த அமெரிக்கத் தூதர் ஜூலி சங் மேற்கண்டவாறு தெரிவித்தார். இங்கு மேலும் கருத்துத் தெரிவித்த அமெரிக்கத் தூதர் ஜூலி சங்,
+
+...
+
+[Data](articles/20dddb23.json)
 
 ---
 
@@ -275,6 +385,48 @@ Business activities in other personal activities, postal activities, programming
 ◼️
 
 [Data](articles/1b2dcee9.json)
+
+---
+
+### Zelensky says will meet Trump in Washington on Monday
+
+*2025-08-16 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111522/zelensky-says-will-meet-trump-in-washington-on-monday) · `en`
+
+Ukrainian leader Volodymyr Zelensky will head to Washington on Monday to discuss “ending the killing and the war” with US President Donald Trump, he announced Saturday.
+
+Zelensky said so after holding a call with Trump, during which the US leader informed him about the “main points” of his talks with Russia’s Vladimir Putin in Alaska.
+
+“On Monday, I will meet with President Trump in Washington, D.C., to discuss all of the details regarding ending the killing and the war,” Zelensky said.
+
+Zelensky said he had a “long and substantive conversation with Trump”, which began as a one-on-one talk, before being joined by European leaders.
+
+The Washington meeting is set to take place three days after Trump’s talks with Putin in Alaska ended with no ceasefire announcement or apparent breakthrough to end Moscow’s more than three-year-long invasion.
+
+The day after the US-Russia summit, Zelensky called for Kyiv’s European allies to be involved at “every stage” of talks.
+
+...
+
+[Data](articles/ab799429.json)
+
+---
+
+### 20% of CEB’s engineers have left for overseas employment
+
+*2025-08-16 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111521/20-of-cebs-engineers-have-left-for-overseas-employment-) · `en`
+
+The Ceylon Electricity Board (CEB) has reported that around 20 percent of its engineers have left the country over the past few years.
+
+According to CEB media spokesperson Dhammika Wimalaratne, a total of 226 engineers left the country in the last three years to pursue job opportunities in countries such as Australia, New Zealand, and Ireland.
+
+He stated that of those who left the CEB, 85 percent were electrical engineers, 8 percent were mechanical engineers, and 7 percent were civil engineers.
+
+Meanwhile, the Secretary of the Electricity Consumers’ Association, Sanjeewa Dhammika, alleged that the CEB is planning to recruit 60 new engineers despite having engineers internally.
+
+He further claimed that the recruitment process has been violated through this.
+
+◼️
+
+[Data](articles/5fbe4b1c.json)
 
 ---
 
@@ -1679,149 +1831,5 @@ Conducted at CCB’s Coconut Development Training Center in Lunuwila, the progra
 ...
 
 [Data](articles/0d67a5fe.json)
-
----
-
-### President directs officials to prepare plan for creating a sports culture in Sri Lanka
-
-*2025-08-15 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111507/president-directs-officials-to-prepare-plan-for-creating-a-sports-culture-in-sri-lanka) · `en`
-
-A review on the implementation of the 2025 budget allocations for the Ministry of Youth Affairs and Sports, together with preliminary discussions on the 2026 budget proposals, was held this morning (15) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
-
-During this discussion, the allocations made in 2025 to eight institutions under the Ministry of Youth Affairs and Sports and the current status of the related projects were reviewed separately, the PMD said.
-
-The President pointed out that the long-standing issue in all sectors, including youth affairs and sports, is the failure to allocate budgetary provisions properly for their advancement. He further noted that although the last budget allocated the necessary funds for all sectors, there has been dissatisfaction regarding their proper utilisation for the relevant projects.
-
-...
-
-[Data](articles/d9b4d972.json)
-
----
-
-### Chinese smugglers causing significant losses to Sri Lanka’s gem industry – report
-
-*2025-08-15 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111506/chinese-smugglers-causing-significant-losses-to-sri-lankas-gem-industry-report) · `en`
-
-Chinese involvement in Sri Lanka’s gemstone industry is causing significant revenue losses to the island nation’s crisis-ridden economy and impacting local businesses, according to an article in The Financial Post.
-
-Chinese nationals have allegedly exported gems worth approximately 30 billion rupees from Sri Lanka, as part of smuggling operations that deprive the country of precious tax revenue and pose a serious threat to legitimate businesses, the article states.
-
-It highlights that recently, the Colombo High Court seized over LKR 201 million from the bank account of a Chinese businessman linked to a decade-long smuggling and money laundering operation.
-
-Sri Lanka Customs officers also caught a Chinese national and his daughter at the Colombo airport carrying gemstones worth over LKR 17 million, including Moonstones, Star Sapphires, and Emeralds, to be smuggled out of Sri Lanka.
-
-...
-
-[Data](articles/fd33dab1.json)
-
----
-
-### ස්වීඩනයේ මුස්ලිම් පල්ලියක් අසල වෙඩි තැබීමක්
-
-*2025-08-15 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213417) · `si`
-
-ස්වීඩනයේ ඔරෙබ්‍රෝ නගරයේ මුස්ලිම් පල්ලියක් අසල අද (15) වෙඩි තැබීමක් සිදුව තිබේ.
-
-ඉන් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව එරට මාධ්‍ය වාර්තා කළේය.
-
-අදාළ පුද්ගලයින් දෙදෙනා පල්ලියෙහි යාඥාවෙන් පසු ඉන් පිටතට පැමිණි අවස්ථාවේ නාඳුනන තුවක්කුකරුවෙකු විසින්  මෙම වෙඩි තැබීම සිදු කර ඇත.
-
-මෙම වසරේම පෙබරවාරි මාසයේ දී ස්ටොක්හෝම් සිට කිලෝමීටර් 200ක් (සැතපුම් 125ක්) බටහිරින් පිහිටි ඔරෙබ්‍රෝහි සිදු වූ වෙඩි තැබීමකින් සිසුන් සහ ගුරුවරුන් දස දෙනෙකු මිය ගිය අතර, එය ස්වීඩනයේ මාරාන්තිකම තුවක්කු ප්‍රහාරය බවට පත්විය.
-
-◼️
-
-[Data](articles/8c23a642.json)
-
----
-
-### අදානිට වෙන් කළ ඉඩම් නැවත ටෙන්ඩර් කිරීමට පියවර
-
-*2025-08-15 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213416) · `si`
-
-ඉන්දියාවේ අදානි සමාගම වෙත මන්නාරම් සුළං විදුලි බලාගාර ව්‍යාපෘති සඳහා වෙන්කළ ඉඩම් නැවත ටෙන්ඩර් කැඳවා නව ආයෝජකයින්ට ලබා දීමට පියවර ගන්නා බව විදුලි බල හා බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පවසයි.
-
-අද (15) ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති මන්නාරමේ විදුලි ජනනය සම්බන්ධව විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ විදුලිබල හා බලශක්ති අමාත්‍ය ආචාර්ය කුමාර ජයකොඩි මහතා,
-
-"මන්නරාම් දූපතේ කොටස් දෙකක් තිබුණා එකක් මෙගාවෝට් 250ක් සහ පුනරීන්වල මෙගාවෝට් 234ක් විදිහට. ඒකෙන් එගොල්ලෝ ඉවත් වුණා. අපි කල්පනා කරන්නේ නැවත අවශ්‍යතාවය මත ටෙන්ඩර්වලට ගිහිල්ලා ටෙන්ඩර් හරහා ඒ අයට ප්‍රධානය කරන්න. එතැනදි අදානි සමාගමට හෝ ඕනෑම සමාගමකට ඉදිරිපත් වෙන්න පුළුවන්. සාර්ථකත්වය සහ අඩුම මිල ගණනකට තමා අපි දෙන්නේ..."
-
-මෙහිදී අදානි සමාගම විසින් ඉදිකිරීම් සඳහා වැය වූ මූලික මුදල රජයෙන් ඉල්ලා ඇති බව පළවන වාර්තා සම්බන්ධවද අමාත්‍යවරයා අදහස් දැක්වීය.
-
-...
-
-[Data](articles/ae5a5734.json)
-
----
-
-### இலங்கையின் தலைசிறந்த வெளியுறவு அமைச்சர் என்று பலராலும் கருதப்பட்ட “பன்முக ஆளுமை” லக்ஸ்மன் கதிர்காமரின் ஆன்மீகப் பரிமாணம்
-
-*2025-08-15 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86270) · `en`
-
-இலங்கையின் முன்னாள் வெளியுறவு அமைச்சர் லக்ஸ்மன் கதிர்காமர் சூதறியாத அவரின் அயலவர் ஒருவரின் வீட்டுக்குள் மறைந்திருந்து விடுதலை புலிகள் நடத்திய சினைப்பர் தாக்குதலில் 2005  ஆகஸ்ட் 12 ஆம் திகதி கொல்லப்பட்டார்.  தனது வீட்டில் உள்ள நீச்சல் தட்கத்தில் வழமையான 1000 மீட்டர்கள் நீச்சலை அவர் முடித்துக்கொண்டு வெளியேறியபோது கொலைஞர் தாக்குதலை நடத்தினார். விதிவசமான அந்த தினத்துக்கு பிறகு இரு தசாப்தங்கள் கடந்து விட்டன. ஆனால், அவர் பற்றிய நினைவுகள் இன்னமும் நீடிக்கின்றன.  இலங்கையின் தலைசிறந்த வெளியுறவு அமைச்சர் என்று பலராலும் கருதப்பட்ட அந்த மனிதரின் 20 வது நினைவு தினத்தை முன்னிட்டு இந்த கட்டுரை எழுதப்படுகிறது.
-
-...
-
-[Data](articles/bf4b29ab.json)
-
----
-
-### නව පොලිස්පති ජනපති හමුවෙයි
-
-*2025-08-15 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213414) · `si`
-
-නව පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා අද (15) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
-
-ජනාධිපතිවරයා නව පොලිස්පතිවරයාට සිය සුබ පැතුම් පිරිනැමූ අතර පොලිස්පතිවරයා ජනාධිපතිවරයා වෙත සමරු තිළිණයක්ද පිළිගන්වා තිබේ.
-
-නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා ශ්‍රී ලංකා පොලිසියේ 37 වන පොලිස්පතිවරයා වන අතර, මේ දක්වා ශ්‍රී ලංකා පොලිසියේ පොලිස් කොස්තාපල්, උප පොලිස් පරීක්ෂක සහ සහකාර පොලිස් අධිකාරී යන අවධි තුනම පසු කරමින් පොලිස්පති ධුරයට පත් වූ පළමු පොලිස්පතිවරයාද වේ.
-
-◼️
-
-[Data](articles/f48af7f0.json)
-
----
-
-### Sri Lanka GDP to grow 4.5-pct in 2025, central bank says as ‘reflation’ looms
-
-*2025-08-15 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-to-grow-4-5-pct-in-2025-central-bank-says-as-reflation-looms-236584/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross domestic product is projected to grow 4.5 percent in 2025, the central bank said in a monetary policy report, as the agency missed its 5 percent inflation target but promised ‘reflation’ soon.
-
-The latest forecast for GDP for the 2nd quarter of 2025 is expected to be ‘robust, continuing the positive momentum observed in 2024 and the first quarter of 2025, the agency said in a Monetary Policy Report for August.
-
-“As per the currently available information, economic growth for 2025 is projected to be around 4.5 percent,” the central bank said.
-
-“Looking ahead, economic growth is expected to continue its modest expansionary momentum over the medium term.
-
-“However, external demand conditions and evolving global geoeconomic landscape increase the level of uncertainty associated with growth prospects over the near to medium term.”
-
-...
-
-[Data](articles/e6f98168.json)
-
----
-
-### පාකිස්තානය නව මිසයිල බළකායක් පිහිටුවද්දී මෝදිගෙන් සැර පිළිතුරක්
-
-*2025-08-15 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213413) · `si`
-
-ඉන්දියාවත් සමග පසුගිය මැයි මාසයේ ගුවන් සටනක නිරත වූ පාකිස්ථානය ඔවුන්ගේ ප්‍රහාරක මිසයිල හැකියාවන් අධීක්ෂණය කිරීම සඳහා නව හමුදා බළකායක් ස්ථාපිත කිරීමට සැලසුම් කරන බව වාර්තා වේ.
-
-ඉන්දු කාශ්මීරයට එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් පසු ඉන්දියාව සහ පාකිස්ථානය අතර මැයි මාසයේදී ඇති වූයේ දශක ගණනාවකින් දෙරට අතර ඇති වූ දරුණුතම ගැටුමයි.
-
-පාකිස්ථානයේ 79 වැනි නිදහස් සැමරුම අනුස්මරණය කිරීම සඳහා ඉස්ලාමාබාද් නුවර පැවති උත්සවයකදී තමයි පාකිස්ථාන අග්‍රාමාත්‍ය ෂෙබාස් ෂරීෆ් මේ නව මිසයිල බළකාය පිහිටුවීම ගැන අනාවරණය කළේය.
-
-යුධ හමුදා රොකට් බළකාය විදියට මේ නව මිසයිල බළකාය ඔහු හඳුන්වා තිබේ.
-
-එය නවීන තාක්ෂණ උපකරණවලින් සන්නද්ධ බළකායක් වනු ඇති බව පාකිස්ථාන අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
-
-සතුරාට සෑම පැත්තකින්ම ඉලක්ක කරගෙන පහරදීමට හැකියාවක් සහිතව එය නිර්මාණය කෙරෙන බවත් එය පාකිස්ථානයේ සංග්‍රාමික හැකියාවන් තවදුරටත් ශක්තිමත් කරන සන්ධිස්ථානයක් බවත් අග්‍රාමාත්‍ය ෂෙබාස් ෂරීෆ් සඳහන් කළේය.
-
-පාකිස්ථාන රූපවාහිනී සේවා මඟින් විකාශය කෙරුණු ඔහුගේ එම ප්‍රකාශයේදී නව මිසයිල බළකාය ගැන වැඩිදුර තොරතුරු අනාවරණය කෙරුණේ නැහැ.
-
-...
-
-[Data](articles/05fb526d.json)
 
 ---

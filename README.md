@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 17:05:15**
+As of **2025-08-16 17:17:00**
 
 ## Newspaper Stats
 
-*Scraped **70,805** Articles*
+*Scraped **70,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,831
 adaderanalk | 8,843
 tamilmirrorlk | 10,426
 virakesarilk | 11,760
-adaderanasinhalalk | 12,205
+adaderanasinhalalk | 12,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,805 articles have been extended.
+61,973 (87.5%) of 70,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### SLC T20 ලීගයේ අවසන් සටනේ ජය ග්‍රීන්ස් කණ්ඩායමට
+
+*2025-08-16 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213446) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් සංවිධානය කළ විස්සයි20 ක්‍රිකට් ලීගයේ (SLC T20 League) අවසන් මහා තරගය ජය ගැනීමට ග්‍රීන්ස් කණ්ඩායම අද සමත්විය.
+
+තරගයේ කාසියේ වාසිය දිනූ ග්‍රේස් කණ්ඩායමේ නායක චරිත් අසලංක ප්‍රථමයෙන් පන්දුවට පහරදීමේ අවස්ථාව ග්‍රීන්ස් කණ්ඩායමට ලබා දුනි.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් ග්‍රීන්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 04ක් දැවී ලකුණු 189ක් රැසක්කළේය.
+
+වේගවත් පිතිහරඹයක නිරත වූ කුසල් මෙන්ඩිස් පන්දු 47ක් තුළ වේගවත් ලකුණු 77ක් රැස්කරගත්තේය.
+
+කුසල්ගේ ඉනිමට හතරේ පහර සහ හයේ පහර 5 බැගින් ඇතුළත් වීම විශේෂත්වයකි.
+
+ලකුණු 190ක ජයග්‍රාහි ඉලක්කයක් හඹාගිය ග්‍රේස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 8ක් දැවි රැස්කර ගත්තේ ලකුණු 166ක් පමණි.
+
+ග්‍රේස් කණ්ඩායම වෙනුවෙන් නිරෝෂන් දික්වැල්ල ලකුණු 50ක් රැස්කළ අතර දිනේෂ් චන්දිමාල් ලකුණු 36ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/cd52e292.json)
+
+---
 
 ### තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කෙරේ
 
@@ -1801,21 +1825,5 @@ A bond maturing on 15.12.2032 closed at 10.18/22 percent, down from 10.19/24 per
 ...
 
 [Data](articles/ca8432f6.json)
-
----
-
-### $1bn fine: X-Press Pearl owner fires back over Sri Lanka’s Supreme Court order
-
-*2025-08-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111505/1bn-fine-x-press-pearl-owner-fires-back-over-sri-lankas-supreme-court-order-) · `en`
-
-Singapore’s X-Press Feeders has hit back at the Sri Lankan Supreme Court’s order to pay $1bn within a year over the 2021 X-Press Pearl casualty, warning the decision tramples on due process, scapegoats its crew, and poses a dangerous precedent for global shipping.
-
-The feeder giant accused the court of effectively convicting the vessel’s master and local agents before trials have concluded — in some cases, before charges have even been filed. The master, stranded in Sri Lanka for four-and-a-half years under a court-imposed travel ban, has been separated from his family and unable to work despite offering to post the maximum fine possible for his charges.
-
-“The judgment holds him and the agents as human collateral to ensure the compliance of the owners and operators,” the company said, claiming they were given no opportunity to respond to allegations in court.
-
-...
-
-[Data](articles/9e0b9234.json)
 
 ---

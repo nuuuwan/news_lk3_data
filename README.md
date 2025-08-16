@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 14:07:53**
+As of **2025-08-16 14:22:06**
 
 ## Newspaper Stats
 
@@ -54,15 +54,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-16 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111520/postal-workers-to-launch-islandwide-strike-from-tomorrow) · `en`
 
-The Postal and Telecommunications Officers’ Union together with the United Postal Trade Unions Front (UPTUF) has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
+The Postal and Telecommunications Officers’ Union together with the United Postal Trade Unions’ Front (UPTUF) has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
 
-According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in control and accounts offices to record attendance through fingerprint machines.
+According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance through fingerprint machines.
 
-The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and control offices from 12.00 midnight onwards.
+The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and administrative offices from 12.00 midnight onwards.
 
 Meanwhile, Postmaster General Ruwan Sathkumara confirmed that the Sub-Postmasters of 3,354 sub-post offices across the country will not participate in this trade union action.
-
-He assured the public that services at these sub-post offices will continue without disruption.
 
 ...
 

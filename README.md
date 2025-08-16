@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 17:31:36**
+As of **2025-08-16 17:51:57**
 
 ## Newspaper Stats
 
-*Scraped **70,809** Articles*
+*Scraped **70,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,831
 adaderanalk | 8,843
 tamilmirrorlk | 10,427
 virakesarilk | 11,760
-adaderanasinhalalk | 12,207
+adaderanasinhalalk | 12,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,809 articles have been extended.
+61,973 (87.5%) of 70,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### දක්ෂිණ අධිවේගයේ ගමන් ගත් බස් රථයක ගින්නක්
+
+*2025-08-16 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213448) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න සහ දොඩංගොඩ අන්තර් හුවමාරුව ආසන්නයේදී බස් රථයක් හදිසි ගිනි ගැනීමකට ලක්ව තිබේ.
+
+ගාල්ල සහ මාකුඹූර අතර ධාවනය වන බස් රථයක් මෙලෙස ගිනි ගැනීමට ලක්ව ඇත.
+
+බස් රියේ කාර්මික දෝශයක් හේතුවෙන් මෙම ගින්න හටගෙන ඇතැයි ද වාර්තා වේ.
+
+පොලීසිය සහ අවට සිටි පිරිස් එක්ව මේ වන විට ගින්න මැඩ පැවැත්වීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/98b9b163.json)
+
+---
 
 ### நல்லூருக்கு வந்த பஸ்ஸில் திடீர் தீ
 
@@ -1805,23 +1823,5 @@ The latest forecast for GDP for the 2nd quarter of 2025 is expected to be ‘rob
 ...
 
 [Data](articles/05fb526d.json)
-
----
-
-### Sri Lanka may call for tenders for Indian Adani-withdrawn wind power plants
-
-*2025-08-15 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-call-for-tenders-for-indian-adani-withdrawn-wind-power-plants-236578/) · `en`
-
-ECONOMYNEXT – Sri Lanka could call for international tenders for wind power plants in the island nation’s Northern Mannar and Pooneryn after India’s Adani Green withdrew early this year due to price difference, Energy Minister Kumara Jayakody said.
-
-India’s Adani Group decided to withdraw its wind power deals with Sri Lanka in February this year after the new government prepared to renegotiate the project for a lower price.
-
-The previous government had agreed for 8.26 cents U.S. dollar unit cost of wind power, but President Anura Kumara Dissanayake’s administration wanted it to be reduced below 6 cents U.S. dollars.
-
-“Based on the requirement, we will go for a tender and give it to the best bidder. Even Adani or any other party can bid for that. We will be giving the project to the lowest and successful bidder,” Minister Jayakody told reporters at a media briefing on Friday.
-
-...
-
-[Data](articles/98b3322d.json)
 
 ---

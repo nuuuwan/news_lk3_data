@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 15:49:36**
+As of **2025-08-16 16:07:33**
 
 ## Newspaper Stats
 
-*Scraped **70,798** Articles*
+*Scraped **70,800** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
-colombotelegraphcom | 722
+colombotelegraphcom | 723
 economynextcom | 4,323
 islandlk | 4,339
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,830
+adalk | 6,831
 adaderanalk | 8,843
 tamilmirrorlk | 10,426
 virakesarilk | 11,760
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,798 articles have been extended.
+61,973 (87.5%) of 70,800 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,22 @@ The White House cited national security and foreign policy concerns, stating tha
 ◼️
 
 [Data](articles/01a6e0b6.json)
+
+---
+
+### පුටින් හා ට්‍රම්ප් හමුවේ අවසන් එකඟතාවක් නෑ
+
+*2025-08-16 12:49:27* · [`adalk`](https://www.ada.lk/international/පුටින්-හා-ට්‍රම්ප්-හමුවේ-අවසන්-එකඟතාවක්-නෑ/3-417940) · `si`
+
+රුසියාව හා යුක්රේනය අතර පවතින යුද්ධය අවසන් කිරීම සම්බන්ධයෙන් එකඟතාවයකට නොපැමිණියත් සාකච්ඡා ධනාත්මක බව රුසියානු ජනපති හා පැවැති සාකච්ඡාවෙන් අනතුරුව ඩොනල්ඩ් ට්‍රම්ප් පැවැසීය.
+
+මෙම සාකච්ඡි ඇලෙස්කාවේදී පැවැත්විණි. මෙහිදී රුසියානු ජනපතිවරයා සඳහන් කළේ  සාකච්ඡා සම්බන්ධයෙන් අවංකව උනන්දුවක් දක්වන බවයි. කෙසේ වෙතත් යුද්ධය අවසන් කිරි‍ම සම්බන්ධයෙන් ඔහු කිසිවක් ප්‍රකශ නොකළේය.
+
+මීළග සාකච්ඡා සඳහා තමන් ඇමෙරිකානු ජනපතිවරායට මොස්කව් වෙත පැමිණීමට ආරාධනා කරන බව පුටින් ආරාධනා කළේය.
+
+◼️
+
+[Data](articles/f5f9c780.json)
 
 ---
 
@@ -463,6 +479,18 @@ Leaders in both countries offered their condolences to the victims’ families a
 ◼️
 
 [Data](articles/7631752b.json)
+
+---
+
+### Neon & Shadows: Sri Lanka’s Grey Economy, Casino For India’s Rich
+
+*2025-08-16 10:15:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/neon-shadows-sri-lankas-grey-economy-casino-for-indias-rich/) · `en`
+
+“Sri Lanka can be to India what Macau is to China,” Melco CEO Lawrence Ho said on the night the lights came on. It was August 2 in Colombo. The ballroom glowed like a promise. South Asia’s largest casino was open. I was there at the opening, watching the dream unfold. The air was thick with perfume and optimism. Waiters carried glasses of champagne through corridors lined with the island’s most powerful. Glass, steel, and marble reflected the faces of those who came to see the dream — businessmen, ministers, the city’s elite. Ho spoke of geography: an island close enough to India’s middle class to tempt them with what is tightly limited at home.
+
+...
+
+[Data](articles/034f0b7a.json)
 
 ---
 
@@ -1789,43 +1817,5 @@ Pakistan previously has rejected India’s statements about nuclear blackmail as
 ...
 
 [Data](articles/1ce48bad.json)
-
----
-
-### යෝජිත කම්කරු පනතට පාර්ශව රැසකින් යෝජනා ලබා ගැනීමට පියවර
-
-*2025-08-15 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213409) · `si`
-
-ජාතික කම්කරු උපදේශක සභාව කම්කරු අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු සහ නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් කම්කරු මහලේකම් කාර්යාල ශ්‍රවණාගාරයේදී ඊයේ (15) පැවැත්විණි.
-
-එහිදී නව කාර්මික සම්බන්ධතා පනතක් නිර්මාණය කිරීමේ වැඩපිළිවෙළ පිළිබඳව අදහස් පළවිය.
-
-යෝජිත පනත සම්බන්ධවද අදහස් සහ යෝජනා විමසා බැලීම සඳහා පසුගියදා කැබිනට් මණ්ඩලය විසින් කැබිනට් මණ්ඩලය විසින් උපදේශක කමිටුවක්ද පත් කෙරිණි.
-
-ඒ පිළිබඳ අදහස් දක්වමින් කම්කරු අමාත්‍ය ආචාර්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවසුවේ පුළුල් පදනමක පිහිටා නව කම්කරු පනතක් නිර්මාණය කිරීම රජයේ අපේක්ෂාව වන බවය.
-
-එම වැඩපිළිවෙළ විනිවිදභාවයෙන් සිදු කිරීමට කටයුතු කරන බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
-
-මෙහිදී කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතාද අදහස් පළ කළ අතර නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ජාතික කම්කරු උපදේශක සභාව නියෝජනය කරන වෘත්තීය සමිති පමණක් නොව ඉන් පරිබාහිරව සෙසු වෘත්තීය සමිතිවල අදහස් සහ යෝජනා ඉදිරියේදි ලබා ගැනීමට කටයුතු කරන බවය.
-
-...
-
-[Data](articles/6af2db57.json)
-
----
-
-### Sri Lanka’s central bank extends Pan Asia primary dealer ban for further 6 months
-
-*2025-08-15 16:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-extends-pan-asia-primary-dealer-ban-for-further-6-months-236572/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s central bank will extend the ban on the primary dealership arm of Pan Asia Banking Corporation (PABC) for another six months, the company said in a stock exchange filing.
-
-The central has said the suspension will have no bearing on the bank’s regular banking activities and trading on the secondary market.
-
-PABC’s primary dealer license has been suspended since August 2017 for its transactions with Perpetual Treasuries Ltd during a securities fraud which caused losses to the state and the Employees’ Provident Fund, a superannuation fund of private sector worker savings. (Colombo/Aug15/2025)
-
-◼️
-
-[Data](articles/966400ff.json)
 
 ---

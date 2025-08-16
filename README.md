@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 17:17:00**
+As of **2025-08-16 17:31:36**
 
 ## Newspaper Stats
 
-*Scraped **70,806** Articles*
+*Scraped **70,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,31 +12,67 @@ newsfirstlk | 363
 dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 723
-economynextcom | 4,323
+economynextcom | 4,324
 islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,831
 adaderanalk | 8,843
-tamilmirrorlk | 10,426
+tamilmirrorlk | 10,427
 virakesarilk | 11,760
-adaderanasinhalalk | 12,206
+adaderanasinhalalk | 12,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,806 articles have been extended.
+61,973 (87.5%) of 70,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
 
+### நல்லூருக்கு வந்த பஸ்ஸில் திடீர் தீ
+
+*2025-08-16 17:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூருக்கு-வந்த-பஸ்ஸில்-திடீர்-தீ/71-363006) · `ta`
+
+யாழ். நல்லூர் ஆலயத்திற்கு வந்தவர்களின் பஸ் திடீரென தீப்பற்றி எரிந்துள்ளதால் பதற்ற நிலை ஏற்பட்டது.
+
+தென்னிலங்கையில் இருந்து யாழ்ப்பாணத்திற்கு சுற்றுலா வந்தவர்கள், நல்லூர் முத்திரை சந்தி பகுதியில், பஸ்ஸை நிறுத்தி விட்டு, நல்லூர் ஆலயத்திற்கு சென்றுள்ளனர். இதன்போது சாரதி பேருந்தில் இருந்துள்ளார்.
+
+யாழ் . மாநகர சபையின் தீயணைப்பு படையினருக்கு தகவல் வழங்கியதை அடுத்து , சம்பவ இடத்திற்கு விரைந்த தீயணைப்பு படையினர் பேருந்தில் ஏற்பட்ட தீயினை அணைத்தனர்.
+
+தீயணைப்பு படையினரின் விரைவான செயற்பாட்டினால் , பஸ்ஸினுள் தீ பெருமளவுக்கு பரவாமல் அணைக்கப்பட்டது.  R
+
+◼️
+
+[Data](articles/476ce142.json)
+
+---
+
+### රුසියාවේ කර්මාන්ත ශාලාවක පිපිරීමකින් 11 දෙනෙකු මරුට
+
+*2025-08-16 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213447) · `si`
+
+රුසියාවේ මොස්කව් නුවරට ගිනිකොන දෙසින් පිහිටි රියාසාන් කලාපයේ කර්මාන්ත ශාලාවක සිදු වූ පිපිරීමකින් පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+විදෙස් මාධ්‍ය සඳහන් කළේ තවත් 130 දෙනෙකු පමණ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+
+මෙම පිපිරීම හේතුවෙන් එම කර්මාන්ත ශාලාවේ ගොඩනැගිලිවලට දැඩි ලෙස අලාභ හානි සිදුව තිබේ.
+
+2021 ඔක්තෝබර් මාසයේ දී පුපුරණ ද්‍රව්‍ය නිෂ්පාදන කර්මාන්ත ශාලාවක ඇති වූ ගින්නකින් පුද්ගලයින් 17 දෙනෙකු මියගිය අතර ඉන් පසුව සිදු ව ඇති දෙවන මාරාන්තික පිපිරීම මෙය වේ.
+
+◼️
+
+[Data](articles/92193af7.json)
+
+---
+
 ### SLC T20 ලීගයේ අවසන් සටනේ ජය ග්‍රීන්ස් කණ්ඩායමට
 
 *2025-08-16 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213446) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් සංවිධානය කළ විස්සයි20 ක්‍රිකට් ලීගයේ (SLC T20 League) අවසන් මහා තරගය ජය ගැනීමට ග්‍රීන්ස් කණ්ඩායම අද සමත්විය.
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් සංවිධානය කළ විස්සයි20 ක්‍රිකට් ලීගයේ (SLC T20 League) අවසන් මහා තරගය ජය ගැනීමට ග්‍රීන්ස් කණ්ඩායම අද (16) සමත්විය.
 
 තරගයේ කාසියේ වාසිය දිනූ ග්‍රේස් කණ්ඩායමේ නායක චරිත් අසලංක ප්‍රථමයෙන් පන්දුවට පහරදීමේ අවස්ථාව ග්‍රීන්ස් කණ්ඩායමට ලබා දුනි.
 
@@ -53,6 +89,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cd52e292.json)
+
+---
+
+### Sri Lanka services activity rose in July, driven by trade, finance, and transportation
+
+*2025-08-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-activity-rose-in-july-driven-by-trade-finance-and-transportation-236669/) · `en`
+
+ECONOMYNEXT – Sri Lanka services activities expanded in July supported by growth in wholesale and retail trade, finance and transportation of goods, according to a Purchasing Managers Index compiled by the central bank.
+
+The PMI services recorded an index value of 70.1 in July, after recording 61.9 in June, indicating ‘an accelerated expansion in services activities’.
+
+“Business activities in the wholesale and retail trade experienced a considerable growth during the month,” the central bank said.
+
+“Business activities related to financial services continued to improve, driven by the increase in lending activities, and activities related to transportation of goods.”
+
+Business activities in other personal activities, postal activities, programming and broadcasting, telecommunication, accommodation, food and beverage service activities, and human health related sectors also recorded positive developments during the month.
+
+...
+
+[Data](articles/5b33af10.json)
 
 ---
 
@@ -1767,63 +1823,5 @@ The previous government had agreed for 8.26 cents U.S. dollar unit cost of wind 
 ...
 
 [Data](articles/98b3322d.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields edge up on short tenors
-
-*2025-08-15 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-on-short-tenors-236568/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 300.90/301.05 to the US dollar in the spot market Friday, stronger from 301.05/25 the previous day, while bond yields edged up on the short end of the yield curve, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed at 8.50/55 percent, up from 8.48/55 percent.
-
-A bond maturing on 15.12.2028 closed at 8.90/95 percent, up from 8.88/97 percent.
-
-A bond maturing on 15.12.2029 closed at 9.42/45 percent, up from 9.38/42 percent.
-
-A bond maturing on 15.12.2032 closed at 10.18/22 percent, down from 10.19/24 percent. (Colombo/Aug15/2025)
-
-◼️
-
-[Data](articles/f08deb7a.json)
-
----
-
-### අභාවප්‍රාප්ත ලොහාන් රත්වත්තේගේ අවසන් කටයුතු එළැඹෙන 17 වෙනිදා
-
-*2025-08-15 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213412) · `si`
-
-අභාවප්‍රාප්ත හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ අවසන් කටයුතු එළැඹෙන 17 වනදා සිදුකිරීමට නියමිතව තිබේ.
-
-පවුලේ ඥාතීන් සඳහන් කළේ, අද (15) රාත්‍රියේ සිට මහියාවේ පිහිටි ඒ මහතාගේ නිවසේ මහජන ගෞරවය සඳහා දේහය තැන්පත් කර ඇති බවය.
-
-ඒ අනුව අනිද්දා පස්වරු 5ට මහනුවර, නිත්තවෙල පවුලේ සුසාන භූමියේ දී ඒ මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකිරීමට නියමිතය.
-
-දැඩි ලෙස රෝගාතුරව සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා අද පෙරවරුවේ කොළඹ පිහිටි පෞද්ගලික රෝහලක දී අභාවප්‍රාප්ත විය.
-
-◼️
-
-[Data](articles/940b1a61.json)
-
----
-
-### අගමැතිනිය මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනයට එක්වෙයි
-
-*2025-08-15 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213411) · `si`
-
-මැණික් හා ස්වර්ණාභරණ සඳහා ශ්‍රී ලංකාව ජාත්‍යන්තර ප්‍රසිද්ධියක් ලබා සිටිය ද අපේක්ෂිත මට්ටමට අපනයන වර්ධනයක් සිදුව නැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය පැවසුවාය.
-
-“Gem City Ratnapura- 2025” මැයෙන් පැවැත්වෙන ජාත්‍යන්තර 'මැණික් සහ ස්වර්ණාභරණ ප්‍රදර්ශනය 2025' සමාරම්භක උත්සවය අමතමින් අග්‍රාමාත්‍යතුමිය මේ බව සඳහන් කළාය.
-
-එහිදී ඇය වැඩිදුරටත් පැවසුවේ ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළඳපොළ ජය ගත හැකි පරිදි ස්ථාවර ප්‍රතිපත්ති සකස් කිරීමට රජය කටයුතු කරන බවය.
-
-ශ්‍රී ලංකාවේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ පළමු රජයේ වෙළඳ වෙබ් අඩවිය වන www.gemcityratnapura.com වෙබ් අඩවිය GOV PAY නවතම පහසුකම සහිතව එළිදැක්වීම ද මෙහිදී සිදු කෙරිණි.
-
-...
-
-[Data](articles/ca8432f6.json)
 
 ---

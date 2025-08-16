@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 18:08:54**
+As of **2025-08-16 18:30:55**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-16 (Saturday)
 
-### දුම්රියක් පීලි පනී
+### ගාලූ කුමරී පීලි පනී
 
 *2025-08-16 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213450) · `si`
 

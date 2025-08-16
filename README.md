@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 21:48:49**
+As of **2025-08-16 22:07:25**
 
 ## Newspaper Stats
 
-*Scraped **70,832** Articles*
+*Scraped **70,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,340
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
-adaderanalk | 8,851
+adaderanalk | 8,852
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
 adaderanasinhalalk | 12,217
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,832 articles have been extended.
+61,973 (87.5%) of 70,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### Pakistan rescuers recover bodies after monsoon rains kill over 340
+
+*2025-08-16 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111529/pakistan-rescuers-recover-bodies-after-monsoon-rains-kill-over-340) · `en`
+
+Rescuers struggled to retrieve bodies from muddy debris on Saturday after flash floods triggered by heavy monsoon rains across northern Pakistan killed at least 344 people in the past 48 hours, authorities said.
+
+The majority of deaths, 324, were reported in mountainous Khyber Pakhtunkhwa province, the National Disaster Management Authority said.
+
+Most were killed in flash floods and collapsing houses, while at least 137 others were injured.
+
+One resident told AFP it felt like “the end of the world” as the ground shook with the force of the water.
+
+The provincial rescue agency told AFP that around 2,000 rescue workers were engaged in recovering bodies from the debris and carrying out relief operations in nine districts, where rain was still hampering efforts.
+
+...
+
+[Data](articles/1a72e315.json)
+
+---
 
 ### රේගු ඉතිහාසයේ මාසයක් තුළ ලැබූ ඉහළම ආදායම රුපියල් බිලියන 235ක් වෙයි
 
@@ -1849,17 +1869,5 @@ Is theoretical, based on RFP assumptions (fixed fuel prices, exchange rates).
 ...
 
 [Data](articles/a104b97b.json)
-
----
-
-### JAT continues momentum to FY 2025/26 with 20% PAT growth in Q1
-
-*2025-08-15 21:00:00* · [`islandlk`](http://island.lk/jat-continues-momentum-to-fy-2025-26-with-20-pat-growth-in-q1/) · `en`
-
-JAT Holdings PLC, a leading Sri Lankan conglomerate in the manufacturing and coatings industry, announced its financial results for the first quarter of the 2025/26 financial year, reflecting a stable and promising start despite external market challenges. Traditionally with the first quarter being the lowest demand quarter for the paint industry due to seasonality and the peak in the fourth quarter, the Group still recorded a notable 20% year-on-year (YoY) growth in profit after tax (PAT), signalling its continued ability to adapt, optimise, and deliver value in a dynamic economic landscape.
-
-...
-
-[Data](articles/89645295.json)
 
 ---

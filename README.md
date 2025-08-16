@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-16 06:33:26**
+As of **2025-08-16 07:16:56**
 
 ## Newspaper Stats
 
-*Scraped **70,754** Articles*
+*Scraped **70,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,338
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,825
-adaderanalk | 8,833
+adaderanalk | 8,834
 tamilmirrorlk | 10,418
 virakesarilk | 11,760
-adaderanasinhalalk | 12,184
+adaderanasinhalalk | 12,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.6%) of 70,754 articles have been extended.
+61,973 (87.6%) of 70,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-16 (Saturday)
+
+### ට්‍රම්ප් - පුටින් හමුව ස්ථිර එකඟතාවයකින් තොරව අවසන් වෙයි
+
+*2025-08-16 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213423) · `si`
+
+රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම අරමුණ කරගනිමින් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර පැවැත් වූ තීරණාත්මක සාකච්ඡාව ස්ථිර එකඟතාවයකින් තොරව අවසන්ව තිබේ.
+
+ඇලස්කාවේ එල්මෙක්ඩෝෆ්-රිචඩ්සන් හමුදා කඳවුරේ දී පැවති මෙම සාකච්ඡා මෙරට වේලාවෙන් අද (16) අලුයම අවසන් විය.
+
+ලෝක බලවතුන් දෙදෙනා පැය 3කට ආසන්න කාලයක් මෙහිදී සාකච්ඡා කරනු ලැබීය.
+
+කෙසේ නමුත් සාකච්ඡාවෙන් අනතුරුව ප්‍රසිද්ධ ප්‍රකාශයක් නිකුත් නොකළ අතර, කිසිදු ගිවිසුමක් හෝ සටන් විරාමයක් ප්‍රකාශ නොකර පිටව ගියහ.
+
+"ගිවිසුමක් ඇති වන තුරු ගිවිසුමක් නැහැ" යනුවෙන් ට්‍රම්ප් පැවසූ බව විදෙස් මාධ්‍ය සඳහන් කළේය.
+
+මෙම තීරණාත්මක සාකච්ඡාවෙන් පසු ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වෙන බව ධවල මන්දිරය මීට පෙර පවසා තිබුණද, දෙදෙනාම කිසිදු ප්‍රශ්නයකට පිළිතුරු නොදී පිටව ගොස් ඇත.
+
+කෙසේ නමුත් එම සාකච්ඡාවට සහභාගීවීමට යුක්‍රේන ජනාධිපති වොලොදමීර් සෙලෙන්ස්කි හට ආරාධනා නොලැබීම ද විශේෂත්වයක්.
+
+ඒ හේතුවෙන් සාකච්ඡාවට පෙර සිටම යුක්‍රේන ජනාධිපතිවරයා පවසා තිබුණේ, තමන්ගේ සහභාගීත්වයෙන් තොරව පැවැත්වෙන මෙම සාකච්ඡාවේ ගන්නා තීරණ ඵලරහිත බවයි.
+
+...
+
+[Data](articles/0beef8ef.json)
+
+---
+
+### ‘No deal’: Trump calls summit with Putin ‘productive,’ but doesn’t announce ceasefire
+
+*2025-08-16 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111510/no-deal-trump-calls-summit-with-putin-productive-but-doesnt-announce-ceasefire) · `en`
+
+U.S. President Donald Trump and Russian President Vladimir Putin emerged from a nearly three-hour meeting on the Ukraine war and gave public statements, but left without announcing any agreement or ceasefire.
+
+The White House had said there would be a news conference after the closed-door meeting, but both men walked off stage without taking any questions.
+
+Trump hosted the summit at a military base in Alaska in an audacious bid to broker a peace deal and stop a three-year war with Ukraine and its ever-rising body count. It was not immediately clear what was agreed upon in the talks.
+
+“We didn’t get there, but we have a very good chance of getting there,” Trump said.
+
+Turning to Putin, he said: “We’ll probably see you again very soon.”
+
+...
+
+[Data](articles/76669bb6.json)
+
+---
 
 ### பா.ஜ.கவில் இணைந்தார் நடிகை கஸ்தூரி
 
@@ -1767,45 +1813,5 @@ The USS Santa Barbara (LCS 32) is a part of the U.S. 7th Fleet which commands th
 ◼️
 
 [Data](articles/d7f1449f.json)
-
----
-
-### பஸ் இயந்திரத்தில் யூரியா போட்டவருக்கு வலை
-
-*2025-08-15 12:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-இயந்திரத்தில்-யூரியா-போட்டவருக்கு-வலை/76-362964) · `ta`
-
-நுவரெலியா டிப்போவிற்கு சொந்தமான நிறுத்தப்பட்டிருந்த இலங்கை போக்குவரத்து சபை பேருந்தின் இயந்திரத்தில் யூரியா உரத்தை வைத்த நபரை கைது செய்ய நுவரெலியா   பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-நுவரெலியாவிலிருந்து ஹைபோரஸ்டுக்கு   தினமும் இயக்கப்படும் பேருந்தின் ஓட்டுநர் மற்றும் நடத்துனர், கடந்த 12 ஆம் தேதி இரவு, ஹைபோரஸ்டில் நிறுத்தப்பட்டிருந்தபோது, ஒருவர் பேருந்திற்குள் நுழைந்து, இயந்திர மூடியை அகற்றி, யூரியா உரம் என சந்தேகிக்கப்படும் ஒரு ரசாயனப் பொருளை அதற்குள் போட்டதாக ஹைபோரஸ்ட் பொலிஸாரிடம் புகார் அளித்துள்ளனர்.
-
-பேருந்தின் ஓட்டுநர் மற்றும் நடத்துனர் அளித்த புகாரில், இரவில் பேருந்து நிறுத்தப்பட்டு, காலையில் பேருந்தை இயக்குவதற்கு முன்பு இயந்திர எண்ணெயைச் சரிபார்க்க இயந்திர மூடியைத் திறந்தபோது, பேருந்தின் இயந்திர மூடி அகற்றப்பட்டு இருந்ததாகவும், வெள்ளை யூரியா உரத்தைப் போன்ற ஒரு ரசாயனப் பொருள் அருகில் விழுந்து கிடந்துள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/a5bd7eae.json)
-
----
-
-### Former State Minister Lohan Ratwatte passes away
-
-*2025-08-15 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111496/former-state-minister-lohan-ratwatte-passes-away) · `en`
-
-Former State Minister Lohan Ratwatte has passed away at the age of 57.
-
-The former parliamentarian had reportedly passed away while receiving treatment at a private hospital in Colombo.
-
-Born on 22 June 1968, Lohan Evindra Ratwatte was a prominent Sri Lankan politician.
-
-He had previously served as the State Minister of Gem and Jewellery Related Industries and as State Minister for Prison Management and Prisoners’ Rehabilitation. He was a former Member of Parliament representing the Kandy District.
-
-Ratwatte was first elected to the Central Provincial Council in 2009 and subsequently to Parliament in the 2010 Sri Lankan parliamentary election, representing the Sri Lanka Freedom Party (SLFP) from Kandy.
-
-In 2012, he was appointed SLFP Chief Organizer of Pathadumbara by then President Mahinda Rajapaksa, succeeding his father, General Anuruddha Ratwatte. He also served as the State Minister of Road Development.
-
-He was re-elected in the 2015 and 2020 parliamentary elections.
-
-...
-
-[Data](articles/08912104.json)
 
 ---

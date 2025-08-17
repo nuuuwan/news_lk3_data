@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 15:31:25**
+As of **2025-08-17 15:49:09**
 
 ## Newspaper Stats
 
-*Scraped **70,925** Articles*
+*Scraped **70,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 4,978
 adalk | 6,844
 adaderanalk | 8,872
 tamilmirrorlk | 10,450
-virakesarilk | 11,767
+virakesarilk | 11,768
 adaderanasinhalalk | 12,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,925 articles have been extended.
+61,973 (87.4%) of 70,926 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a425d8cc.json)
+
+---
+
+### ஊடகவியலாளர் குமணனிடம் சுமார் நான்கரை மணித்தியாலங்களுக்கு மேலாக தொடரும் விசாரணை
+
+*2025-08-17 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222743) · `ta`
+
+முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணனை பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட நிலையில், இன்று ஞாயிற்றுக்கிழமை (17) காலை 9.30 மணிக்கு முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றார்.
+
+விசாரணைக்காக அழைக்கப்பட்ட குமணன் சட்டத்தரணி நடராசா காண்டீபன் அவர்களுடன் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணை பிரிவில் விசாரணைக்காக சென்ற நிலையில் சுமார் பத்துமணியளவில் ஆரம்பித்த விசாரணை சுமார் நான்கரை  மணித்தியாலங்களாக தொடர்ச்சியாக இடம்பெற்று வருகின்றது இதுவரை விசாரணைகள் முடிவடையவில்லை.
+
+◼️
+
+[Data](articles/b47b80a7.json)
 
 ---
 
@@ -1829,23 +1843,5 @@ Business activities in other personal activities, postal activities, programming
 ◼️
 
 [Data](articles/be7f903d.json)
-
----
-
-### Former PS member remanded for threatening, assaulting officers at Padukka Police
-
-*2025-08-16 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111524/former-ps-member-remanded-for-threatening-assaulting-officers-at-padukka-police) · `en`
-
-A former member of the Seethawaka Pradeshiya Sabha who was arrested for allegedly threatening, verbally abusing and assaulting police officers at the Padukka Police Station while protesting the arrest of a motorist involved in a car accident, has been remanded until August 29.
-
-He was ordered remanded by the Homagama Magistrate who visited the arrested suspect at the Homagama Base Hospital, where he is receiving treatment under police custody.
-
-The incident had occurred last evening (15), after a three-wheeler and a car had collided in the Mawathagama area of Padukka. Following the accident, Padukka police officers arrested the driver of the car, which was also taken into police custody.
-
-However, a former United National Party (UNP) member of the Seethawaka Pradeshiya Sabha, who reportedly came to the police station to protest the driver’s arrest, had threatened and hurled abuse at the officers and attempted to assault the OIC of the Padukka Police Traffic Division.
-
-...
-
-[Data](articles/46552933.json)
 
 ---

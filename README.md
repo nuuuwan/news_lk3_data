@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 20:48:21**
+As of **2025-08-17 21:06:47**
 
 ## Newspaper Stats
 
-*Scraped **70,955** Articles*
+*Scraped **70,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,849
-adaderanalk | 8,877
-tamilmirrorlk | 10,456
+adaderanalk | 8,879
+tamilmirrorlk | 10,458
 virakesarilk | 11,771
 adaderanasinhalalk | 12,239
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 12,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,955 articles have been extended.
+61,973 (87.3%) of 70,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### இலங்கையில் தூங்கா நகரமாக மாறும் கண்டி
+
+*2025-08-17 20:50:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தூங்கா-நகரமாக-மாறும்-கண்டி/175-363078) · `ta`
+
+கண்டி நகரில் சுற்றுலாப் பயணிகளை ஈர்க்கும் வகையில் “Kandy Breeze Night Fest – கண்டி தென்றல் இரவு விழா” எனும் இரவு சந்தை முன்னோடித் திட்டம் நேற்று (16) ஆரம்பிக்கப்பட்டது.
+
+கண்டியை தூங்கா நகரமாக மாற்றுவதற்கான முதல் படியாக, இந்த இரவு சந்தை ஒவ்வொரு சனிக்கிழமையும் செயல்படுத்தப்படும் என்று மத்திய மாகாண ஆளுநர் தெரிவித்துள்ளார்.
+
+அதற்கமைய, தலதா வீதி மற்றும் கொட்டுகொடெல்ல வீதியில் நடைபெறும் இந்த நிகழ்வு, எதிர்வரும் 23 மற்றும் 30 ஆம் திகதிகளில் இரவு 7 மணி முதல் நள்ளிரவு 12 மணி வரை இடம்பெறும் என தெரிவிக்கப்பட்டுள்ளது.
+
+“கண்டி நகரத்தை ஒளிரச் செய்வோம்” என்ற கருப்பொருளுடன் முன்னெடுக்கப்படும் இந்த திட்டம், சுற்றுலாப் பயணிகளையும் சிறு வணிகர்களையும் ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது. R
+
+◼️
+
+[Data](articles/af051315.json)
+
+---
+
+### AI குறித்து அரச அதிகாரிகளுக்கு விழிப்புணர்வூட்டும் செயலமர்வு
+
+*2025-08-17 20:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-குறித்து-அரச-அதிகாரிகளுக்கு-விழிப்புணர்வூட்டும்-செயலமர்வு/175-363077) · `ta`
+
+அரச சேவையை பயனுள்ள மற்றும் செயற்திறனான சேவையாக மாற்றுவதற்கு செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச நிறைவேற்று அதிகாரிகளுக்காக ஏற்பாடு செய்யப்பட்ட  விசேட செயலமர்வு நேற்று (16) முற்பகல் அலரி மாளிகையில் நடைபெற்றது.
+
+‘AI for Transforming Public Service’  என்ற தொனிப்பொருளில், ஜனாதிபதி  அலுவலகத்தின் ஒத்துழைப்புடன் டிஜிட்டல் பொருளாதார அமைச்சினால் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டதுடன், பத்து அமைச்சுக்களின் நிறைவேற்று அதிகாரிகள் இந்த செயலமர்வில் பங்கேற்றனர்.
+
+அரச சேவையை டிஜிட்டல் மயமாக்கும் அரசாங்கத்தின் திட்டத்தின் ஆரம்ப பிரவேசமாக, அரச  அதிகாரிகளை அறிவூட்டுதல் மற்றும் தயார்படுத்துதல் மற்றும் அரச சேவைக்குள் செயற்கை நுண்ணறிவு குறித்த சாதகமான அணுகுமுறையை ஏற்படுத்துதல் ஆகிய நோக்கங்களுடன் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+இந்த நிகழ்வில் கலந்து கொண்ட ஜனாதிபதியின் செயலாளர்  கலாநிதி நந்திக சனத் குமாநாயக்க, டிஜிட்டல் மாற்றத்திற்கு  தேவையான நடவடிக்கைகளை அரசாங்கம் எடுத்து வருவதாகவும், அரச சேவை அதற்குத் தயாராக இருக்க வேண்டும் என்றும் கூறினார்.
+
+...
+
+[Data](articles/372adcde.json)
+
+---
 
 ### නෝර්ටන්බිජ් මස්කෙලිය ප්‍රධාන මාර්ගයට පස්කන්දක් කඩා වැටෙයි
 
@@ -85,6 +121,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/73fb5b50.json)
+
+---
+
+### President’s Secretary says efficiency of public service can be enhanced through AI
+
+*2025-08-17 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111557/presidents-secretary-says-efficiency-of-public-service-can-be-enhanced-through-ai) · `en`
+
+Another workshop in a series of special seminars planned for government executive officers on the use of artificial intelligence (AI) to turn the public service into an effective and efficient service was held at Temple Trees on Saturday (16).
+
+Organised by the Ministry of Digital Economy, with the support of the Presidential Secretariat, under the theme ‘AI for Transforming Public Service’, the workshop brought together executive officers from ten Ministries, the President’s Media Division (PMD) said.
+
+The session was designed with key objectives: raising awareness and preparing government officials as an initial step in the state’s digitalisation agenda, as well as fostering a positive attitude towards AI within the public service.
+
+Secretary to the President Dr. Nandika Sanath Kumanayake emphasised that the government is taking necessary steps towards digital transformation and that the public service must be ready for this shift.
+
+...
+
+[Data](articles/43578957.json)
+
+---
+
+### More than 200 missing in flood-hit district in Pakistan, official says
+
+*2025-08-17 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111556/more-than-200-missing-in-flood-hit-district-in-pakistan-official-says) · `en`
+
+More than 200 people remain missing in one district of north-west Pakistan as a result of devastating monsoon flooding and landslides, an official has said.
+
+Flash floods have killed more than 300 people in Pakistan and Pakistan-administered Kashmir in recent days, with most of the deaths recorded in the mountainous Khyber Pakhtunkhwa province.
+
+A local official in the worst-affected Buner district told the BBC that at least 209 people were still missing there, but it is feared that number could rise.
+
+Rescue teams have buried eight unidentified bodies as there were no family members found alive to claim them, said Jehangir Khan, spokesman for the deputy commissioner office of Buner.
+
+Some relatives are also unable to claim their relatives bodies’ as roads are severely damaged, he added.
+
+A provincial rescue spokesman told news agency AFP that “10 to 12 entire villages” were partially buried.
+
+...
+
+[Data](articles/4a5af70a.json)
 
 ---
 
@@ -1765,79 +1841,5 @@ New businesses expanded in July, with the index rising to 64.9 from 62.9 in June
 ...
 
 [Data](articles/ded05e23.json)
-
----
-
-### ඉන්දුනීසියාවේ භූකම්පනයක්
-
-*2025-08-17 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213460) · `si`
-
-ජර්මානු භූ විද්‍යා පර්යේෂණ මධ්‍යස්ථානය වාර්තා කර ඇත්තේ රික්ටර් මාපකයේ 5.7ක භූකම්පනයක් හටගෙන  ඇති බවය.
-
-මේ අතර ටොන්ගෝ දූපතේද රික්ටර් මාපක 5.5ක භූ කම්පනයක්ද සිදුව තිබේ.
-
-කිලෝමීටර් 35ක ගැඹුරකින් හට ගෙන ඇති මෙම භූ කම්පනය ටෙනේගා දකුණු දිග ප්‍රදේශයෙන් වාර්තා වී ඇත.
-
-◼️
-
-[Data](articles/b6d7ba39.json)
-
----
-
-### අද කාලගුණය
-
-*2025-08-17 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213459) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (17) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-◼️
-
-[Data](articles/2edda9f7.json)
-
----
-
-### Showers, strong winds expected in several areas of the country today
-
-*2025-08-17 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111532/showers-strong-winds-expected-in-several-areas-of-the-country-today-) · `en`
-
-Showers can be expected at times in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (17).
-
-A few showers may occur in the North-western province as well.
-
-Mainly fair weather will prevail elsewhere in the island, the Met. Department added.
-
-Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
-
-◼️
-
-[Data](articles/6d38c729.json)
-
----
-
-### Indonesia: 5.7-magnitude earthquake strikes Sulawesi, no serious damage
-
-*2025-08-17 05:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111531/indonesia-57-magnitude-earthquake-strikes-sulawesi-no-serious-damage) · `en`
-
-A magnitude 5.7 earthquake struck Sulawesi, Indonesia, on Sunday, the German Research Centre for Geosciences (GFZ) reported.
-
-The quake occurred at a depth of 10 km (6.2 miles), the GFZ added. No immediate reports of casualties or damage have been released. Authorities are monitoring the situation.
-
-This latest tremor comes just days after a 6.3-magnitude earthquake shook Indonesia’s eastern Papua region on Tuesday, sending tremors through the area.
-
-The US Geological Survey said the quake struck at about 5:24 pm local time (0824 GMT), with its epicentre located roughly 193 kilometres northwest of the town of Abepura in Papua.
-
-The Pacific Tsunami Warning Centre confirmed that there was no danger of a tsunami following the quake.
-
-Indonesia has been rattled by a series of earthquakes in recent weeks. The archipelago is part of the Pacific “Ring of Fire”, a highly volatile zone where tectonic plates collide, triggering frequent seismic activity.
-
-...
-
-[Data](articles/1ced3d15.json)
 
 ---

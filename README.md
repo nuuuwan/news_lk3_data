@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 11:32:22**
+As of **2025-08-17 11:50:54**
 
 ## Newspaper Stats
 
-*Scraped **70,891** Articles*
+*Scraped **70,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,838
 adaderanalk | 8,861
-tamilmirrorlk | 10,445
+tamilmirrorlk | 10,447
 virakesarilk | 11,763
 adaderanasinhalalk | 12,224
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,891 articles have been extended.
+61,973 (87.4%) of 70,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### புட்டினுக்கு டிரம்ப் மனைவி எழுதிய முக்கிய கடிதம்
+
+*2025-08-17 11:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புட்டினுக்கு-டிரம்ப்-மனைவி-எழுதிய-முக்கிய-கடிதம்/50-363042) · `ta`
+
+சர்வதேச ராணுவ கூட்டமைப்பான நேட்டோ அமைப்பில் இணைய உக்ரைன் முடிவு செய்தது. இதனால் தங்கள் நாட்டுக்கு பாதிப்பு ஏற்படும் என்று கருதிய ரஷ்யா அதனை கடுமையாக எதிர்த்தது. உக்ரைன் தனது முடிவில் உறுதியாக இருந்ததால், அந்த நாட்டின் மீது ரஷ் யா கடந்த 2022-ம் ஆண்டு தாக்குதலை தொடங்கியது. இந்த தாக்குதல் 3 ஆண்டுகளுக்கும் மேலாக நீடித்து வருகிறது.
+
+உக்ரைன் மீதான தாக்குதலை நிறுத்த அமெரிக்கா ஜனாதிபதி டிரம்ப் முயற்சி செய்து வருகிறார். இதற்காக ரஷ் ய ஜனாதிபதி விளாடிமிர் புட்டினுடன் பேச்சுவார்த்தை நடத்தப்படும் என்று அறிவித்தார். அதன்படி  அமெரிக்காவின் மத்திய மாகாணமான அலாஸ்காவில் இருநாட்டு தலைவர்களும், சனிக்கிழமை (16) பேச்சுவார்த்தை நடத்தினர். இரண்டரை மணி நேரம் இந்த பேச்சுவார்த்தை நீடித்தது.
+
+பேச்சுவார்த்தைக்குப் பிறகு செய்தியாளர்களைச் சந்தித்த ரஷ்ய ஜனாதிபதி புட்டின், "இந்த பேச்சுவார்த்தை முன்பே நடந்திருக்க வேண்டும். தாமதமாக நடந்துள்ளது. ஆனாலும் இது சரியான நேரம். அப்போது ஜோபைடன் இடத்தில் டிரம்ப் இருந்திருந்தால், உக்ரைன் போர் ஏற்பட்டு இருக்காது. இப்போது ஒரு புரிதல் ஏற்பட்டுள்ளது" என்றார்.
+
+...
+
+[Data](articles/01893823.json)
+
+---
+
+### பயங்கரவாத தடுப்பு பிரிவில்   ஊடகவியலாளர் குமணன் ஆஜராகினார்
+
+*2025-08-17 11:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடுப்பு-பிரிவில்-ஊடகவியலாளர்-குமணன்-ஆஜராகினார்/175-363040) · `ta`
+
+பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட  முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றுள்ளார்
+
+ஊடகவியலாளர் குமணனின் வீட்டுக்கு  க  2025.08.07 அன்று சென்ற பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினர்,  அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு 2025.08.17 அன்று வருகை தருமாறு அழைப்பு விடுத்திருந்தனர்
+
+◼️
+
+[Data](articles/150472f6.json)
+
+---
 
 ### பயங்கரவாத தடுப்பு பிரிவில் ஆஜர்  ஊடகவியலாளர் குமணன்
 
@@ -1753,39 +1783,5 @@ The White House cited national security and foreign policy concerns, stating tha
 ◼️
 
 [Data](articles/f5f9c780.json)
-
----
-
-### Govt committed to establish stable policies to drive gem export growth – PM
-
-*2025-08-16 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111518/govt-committed-to-establish-stable-policies-to-drive-gem-export-growth-pm) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that, although Sri Lanka has already gained international recognition for gems and jewellery, exports have not grown to the expected level, and the government is working to establish stable policies to enable the country to capture the international gem and jewellery market.
-
-The Prime Minister made these remarks while addressing the opening ceremony of Gem City Ratnapura – 2025, an International Gem and Jewellery Exhibition aims at taking Sri Lanka’s gem and jewellery industry to the global stage which will be held on 15, 16 and 17 th of August 2025 at the Grand Silveray Hotel, Pelmadulla, according to the Prime Minister’s Media Division.
-
-...
-
-[Data](articles/f0f696ca.json)
-
----
-
-### තැපැල් සේවකයින් හෙට වර්ජනයට සැරසෙයි
-
-*2025-08-16 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213436) · `si`
-
-තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තිය සමිති පෙරමුණ විසින් හෙට (17) පස්වරු 4.00 සිට සේවයෙන් ඉවත්වී වර්ජන ක්‍රියාවලියක් ආරම්භ කිරීමට සැළසුම් කර තිබේ.
-
-තැපැල් නිලධාරීන්ගේ අතිකාල ගෙවීම්, පාලන කාර්යාල හා ගිණුම් කාර්යාලවල නිලධාරීන් ඇගිලි සළකුණු යන්ත්‍රයේ පැමිණිමේ හා පිටවීම සටහන් කළ යුතු බවට ලබා දී ඇති උපදෙස්වලට විරෝධය පළ කිරීම ඇතුළු ප්‍රධාන ඉල්ලීම් 19ක් ඉදිරිපත් කරමින් ඔවුන් මෙම වර්ජන ක්‍රියාවලිය ආරම්භ කිරීමට කටයුතු කර ඇති බව වාර්තා වෙයි.
-
-ඒ අනුව හෙට පස්වරු 4.00ට කොළඹ මධ්‍යම තැපැල් හුවමාරුවෙන් මෙම වර්ජය ආරම්භ කිරීමට නියමිතව ඇති අතර මධ්‍යම රාත්‍රී 12.00 සිට දිවයින පුරා පිහිටි තැපැල් හා පාලන කාර්යාලවල අඛණ්ඩ වැඩ වර්ජනයක් ක්‍රියාත්මක කරන බවයි ඒකාබද්ධ තැපැල් වෘත්තිය සමිති පෙරමුණ සඳහන් කළේය.
-
-මේ අතර මෙම වෘත්තීය ක්‍රියාමාර්ගය සඳහා තැපැල් කාර්යාලයට අයත් උප තැපැල් කාර්යාල 3,354ක උප තැපැල් ස්ථානාධිපතිවරු  සහභාගී නොවන බව  තැපැල්පති රුවන් සත්කුමාර මහතා පවසයි.
-
-ඒ අනුව එම කාර්යාලවල සාමාන්‍ය පරිදි රාජකාරි කටයුතු සිදුවන බැවින් මහජනතාවට එමගින් සේවාවන් ලබා ගත හැකි බවය.
-
-...
-
-[Data](articles/89917e9c.json)
 
 ---

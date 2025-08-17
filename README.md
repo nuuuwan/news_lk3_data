@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 15:06:52**
+As of **2025-08-17 15:18:14**
 
 ## Newspaper Stats
 
-*Scraped **70,923** Articles*
+*Scraped **70,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,326
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,843
+adalk | 6,844
 adaderanalk | 8,872
 tamilmirrorlk | 10,450
 virakesarilk | 11,767
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,923 articles have been extended.
+61,973 (87.4%) of 70,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -285,6 +285,22 @@ Additionally, compensation will be paid in cases of total or partial disability.
 ◼️
 
 [Data](articles/db146f8c.json)
+
+---
+
+### රු. කෝටි දෙකක මෝටර් රථයක් කොල්ල කෑමේ තැත වරදී
+
+*2025-08-17 13:00:45* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-දෙකක-මෝටර්-රථයක්-කොල්ල-කෑමේ-තැත-වරදී/11-417951) · `si`
+
+ඇල්ල නගරයේ සංචාරක හෝටල් හිමිකරුවෙකුගේ රුපියල් කෝටි 2ක් පමන වටිනා සුඛෝපභෝගී මෝටර් රථයක් මිළදී ගන්නා මුවාවෙන් පැමින මෝටර් රථය කොල්ලකා පලායමින් සිටි පෞද්ගලික මූල්‍ය ආයතනයක කළමනාකරුවෙකු ඇතුලු තිදෙනෙකු අද  (17) අධිකාරිගම ප්‍රදේශයේ දී අත් අඩංගුවට ගත් බව ඇල්ල පොලිසිය පවසයි .
+
+අධිකාරි ගම පොලිස් මාර්ග බාධකයේ නිරතව සිටි පොලිස් නිළධාරින් විසින් පැහරගෙන යමින් තිබු සුඛෝපභෝගී මෝටර් රථය සමග  මෙසේ අත්අඩංගුවට ගෙන ඇල්ල පොලිසිය ට බාරදී  ඇත්තේ  මහනුවර නගරයේ පෞද්ගලික මූල්‍ය ආයතනයක කලමනාකරුවෙකු ලෙස සේවය කරන පිළිමතලාව ඉල්ක්වත්ත ප්‍රදේශයේ පදිංචි 44 හැවිරිදි පුද්ගලයකු   සහ, බදුල්ල නෙලුම්වැව හාලිඇල සිංහපුර ප්‍රදේශයේ පදිංචි අවුරුදු 47 , 31 වයසේ පසුවන දෙදෙනකු යැයි පොලිසිය කීය .
+
+ඇල්ල නගරයේ සංචාරක හෝටලයක හිමිකරුවකු මහනුවර ප්‍රදේශයේ වාහන විකුණන ආයතනයකින් මෑතදී මිළදී ගත් අතිනවීන පන්නයේ සුඛෝපභෝගී මෝටර් රථය විකිණීමට සූදානම් වී ඇති අතර , එම පුවත සැලවී එම මෝටර් රථය මිළදී ගන්නා මුවාවෙන්  මෝටර් රථයකින් පුද්ගලයන් තිදෙනෙකු ඇල්ල නගරයට පැමින ඇති බවත් පොලිසිය පැවසිය .
+
+...
+
+[Data](articles/01a2886f.json)
 
 ---
 
@@ -1831,25 +1847,5 @@ However, a former United National Party (UNP) member of the Seethawaka Pradeshiy
 ...
 
 [Data](articles/5a6488da.json)
-
----
-
-### USS Santa Barbara arrives in Colombo
-
-*2025-08-16 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111523/uss-santa-barbara-arrives-in-colombo) · `en`
-
-United States Navy Ship (USS) Santa Barbara (LCS 32) arrived at the port of Colombo on a replacement purpose today (16).
-
-The Sri Lanka Navy welcomed the visiting ship in compliance with naval traditions.
-
-The 127.6 m – long Littoral Combat ship is a part of the U.S – 7th fleet and is commanded by Commander A. J. Ochs, said Sri Lanka Navy.
-
-During their stay in Colombo, the crew of the ship is expected to visit some of the tourist attractions in the country.
-
-Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
-
-◼️
-
-[Data](articles/4f0d98c9.json)
 
 ---

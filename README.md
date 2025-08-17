@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 01:05:03**
+As of **2025-08-18 01:17:03**
 
 ## Newspaper Stats
 
-*Scraped **70,979** Articles*
+*Scraped **70,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 725
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,986
+dailyftlk | 4,991
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,11 +26,75 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,979 articles have been extended.
+61,973 (87.3%) of 70,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### New boutique hotel Trillium Express opens in Colombo 7 after $ 4 m investment
+
+*2025-08-18 00:59:58* · [`dailyftlk`](https://www.ft.lk/business/New-boutique-hotel-Trillium-Express-opens-in-Colombo-7-after-4-m-investment/34-780404) · `en`
+
+Trillium Group Chairman Janaka Ratnayake delivering the inaugural press briefing for Trillium Express – Ward Place along with Directors (from left): Lekhya, Rachitha, and Kruthya Ratnayake
+
+Trillium Group last week opened Trillium Express – Ward Place, a vibrant new boutique city hotel redefining contemporary hospitality in the heart of Colombo 7, built with an investment of $ 4 million.
+
+Located at 293 Ward Place, Colombo 7, near Sri Lanka’s largest and busiest traffic hub hustling and bustling with commuters — Borella Junction — the hotel offers unmatched connectivity, providing guests with quick access to Bandaranaike International Airport, Colombo’s central business district, and the city’s suburban areas.
+
+...
+
+[Data](articles/ecb1f222.json)
+
+---
+
+### Frostaire celebrates 45 years of excellence in air conditioning solutions
+
+*2025-08-18 00:56:58* · [`dailyftlk`](https://www.ft.lk/business/Frostaire-celebrates-45-years-of-excellence-in-air-conditioning-solutions/34-780403) · `en`
+
+Frostaire recently marked a significant milestone by celebrating 45 years of dedicated services, innovation, and leadership in Sri Lanka’s air conditioning industry.
+
+Founded on 18 August 1980, Frostaire began as a modest service operation and has grown into one of Sri Lanka’s most respected names in air conditioning solutions, with a reputation built on trust, technical expertise, and customer satisfaction. The company has consistently delivered cutting-edge products and reliable after-sales services across residential, commercial, and industrial sectors islandwide.
+
+“Celebrating 45 years is more than a number—it reflects our commitment to excellence, our loyal customers, and the hard-working team behind Frostaire,” said Frostaire Managing Director Mukthar Marikkar. “We have grown with our client and adapted to the changing landscape with energy-efficient, eco-friendly, and smart air conditioning systems.”
+
+...
+
+[Data](articles/4a08a8c1.json)
+
+---
+
+### Lanka-founded J Med Supply named to Inc. 5000 list of America’s fastest-growing companies
+
+*2025-08-18 00:53:40* · [`dailyftlk`](https://www.ft.lk/business/Lanka-founded-J-Med-Supply-named-to-Inc-5000-list-of-America-s-fastest-growing-companies/34-780402) · `en`
+
+J Med Supply Inc., a dynamic force in the US healthcare sector, has earned a coveted spot on the 2025 Inc. 5000 list, a prestigious ranking of the fastest-growing private companies in the US.
+
+The recognition marks a milestone in the journey of John Amirthiah, the Sri Lankan-born entrepreneur behind the company’s success.
+
+Founded in 2016 from Amirthiah’s garage, J Med Supply Inc., has grown into one of the largest distributors of durable medical equipment (DME) on the US West Coast. Apart from J Med, Amirthiah is the Founder of J Med’s sister company Motion Complex Rehab (MCR), as well as Jive Healthcare and JCare, all under J Holdings Inc., supporting the healthcare industry.
+
+...
+
+[Data](articles/82ffcc4e.json)
+
+---
+
+### TPL appointed exclusive distributor for Tonino Lamborghini electric golf carts in the Maldives
+
+*2025-08-18 00:53:08* · [`dailyftlk`](https://www.ft.lk/business/TPL-appointed-exclusive-distributor-for-Tonino-Lamborghini-electric-golf-carts-in-the-Maldives/34-780401) · `en`
+
+Partnership brings iconic Italian design and sustainable mobility to the Maldives’ high-luxury hospitality sector
+
+Trade Promoters Ltd. (TPL), a leader in engineering and energy solutions across Sri Lanka and the Maldives, has signed an exclusive distributor agreement with Kinetic Green Tonino Lamborghini Ltd. to introduce the iconic Tonino Lamborghini electric golf carts to the Maldives.
+
+Under this agreement, TPL becomes the sole distributor for the Maldives, overseeing sales, marketing, and after-sales service for the luxury electric golf cart range through its dealer in the Maldives Electrify Maldives Ltd. The partnership merges global design and manufacturing excellence with local expertise – delivering Italian design with cutting-edge Indian electric vehicle technology to the Maldives.
+
+...
+
+[Data](articles/174d794e.json)
+
+---
 
 ### Official website of Voyage Sri Lanka 2025 goes live
 
@@ -195,6 +259,22 @@ Police have urged motorists to use alternative routes until the road is cleared 
 ◼️
 
 [Data](articles/7dcd24ba.json)
+
+---
+
+### Circular economy: Philosophy, history, and prospects
+
+*2025-08-17 22:32:52* · [`dailyftlk`](https://www.ft.lk/columns/Circular-economy-Philosophy-history-and-prospects/4-780381) · `en`
+
+Circular economy is a global movement today. Its success will depend on the acceptance of its core principles
+
+Excerpts of a lecture delivered at Sri Jayewardenepura University – Part III
+
+The core principle of circular economy underlies the need for putting the scarce and limited resources to the maximum use by people. It requires people to recycle what is being used on one side and establish a production model that would use the output of one economic activity as inputs for another economic activity, on the other. This differs from the existing linear economic model in which resources are converted to outputs for use by people. Once used, they disappear from the system leading to the accumulation of waste-matter in environment. Thus, in the circular system, resources are put to the maximum use before they disappear from the system.
+
+...
+
+[Data](articles/9548b411.json)
 
 ---
 
@@ -1755,85 +1835,5 @@ The CEB initially plans another synchronous condenser in the Padukka grid substa
 ◼️
 
 [Data](articles/63b9f54d.json)
-
----
-
-### செம்மணி - துண்டி முகாம் வரை கைதாகி சித்திரவதைகளில் உயிரிழந்தோர் மணியம் தோட்டத்தில் புதைக்கப்பட்டனர் : பல முக்கிய சாட்சியங்களை வழங்குவேன் என்கிறார் மரணதண்டனைக்கைதி லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ !
-
-*2025-08-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/222706) · `ta`
-
-அண்மையில் ஜனாதிபதிக்கு அனுப்பிவைக்கப்பட்டிருந்த கடிதத்தில் குறிப்பிடப்பட்டிருந்த விடயங்களுக்கு மேலதிகமாக,  செம்மணிக்கு அப்பால் பல முக்கிய ஆதாரங்களுடன் சாட்சியமளிக்கத் தயாராக இருக்கிறேன் என நான் ஒட்டுமொத்த தமிழ்மக்களுக்கும் வாக்குறுதியளிக்கிறேன் என்று அறிவித்துள்ள கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் பிரதான குற்றவாளியாக நீதிமன்றத்தினால் தீர்ப்பளிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ, 1996 களில் செம்மணி முதல் துண்டி முகாம் வரை சகல சோதனைச்சாவடிகளிலும் மக்கள் கைதுசெய்யப்பட்டதுடன் சித்திரவதைக்கூடங்களில் உயிரிழந்தவர்களின் சடலங்கள் மணியம் தோட்டத்தில் புதைக்கப்பட்டதாகத் தெரிவித்துள்ளார்.
-
-அண்மையில் கண்டறியப்பட்டு, அகழ்வுப்பணிகள் முன்னெடுக்கப்பட்ட செம்மணி சித்துபாத்தி மனிதப்புதைகுழியில் 141 மனித எச்சங்கள் கண்டறியப்பட்டிருக்கும் நிலையில், 1996 களில் செம்மணி முகாம் - துண்டி முகாம் வரை இடம்பெற்ற கைதுகள், படுகொலைகள் மற்றும் சடலங்கள் புதைக்கப்பட்ட இடங்கள் தொடர்பில் மரணதண்டனைக் கைதியான சோமரத்ன ராஜபக்ஷ முக்கிய வெளிப்படுத்தல்களைச் செய்துள்ளார். அவரது வெளிப்படுத்தல்களின் முதற்பகுதி வருமாறு:
-
-...
-
-[Data](articles/5c7a8254.json)
-
----
-
-### அதிகபட்ச மாதாந்த வருவாயைப் பதிவு செய்தது இலங்கை சுங்கம்
-
-*2025-08-17 09:47:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகபட்ச-மாதாந்த-வருவாயைப்-பதிவு-செய்தது-இலங்கை-சுங்கம்/175-363030) · `ta`
-
-இலங்கை சுங்கத் திணைக்களம் ஜூலை மாதத்தில் இதுவரை இல்லாத அளவுக்கு அதிகபட்ச மாதாந்திர வருவாயைப் பதிவு செய்து, 235 பில்லியன் ரூபாய்களை வசூலித்ததாக பணிப்பாளர் நாயகம் சுனில் நோனிஸ் தெரிவித்தார்.
-
-வியாழக்கிழமை புதிய சுங்கப் பதிவேடு மற்றும் அறிவிப்பு முறையை அறிமுகப்படுத்தும் நிகழ்வில் பேசிய நோனிஸ், ஜூலை மாத வருவாய் நிறுவனத்திற்கு ஒரு வரலாற்று மைல்கல்லைக் குறித்தது என்றார்.
-
-"2023 ஆம் ஆண்டில், ஒரு மாதத்தில் 100 பில்லியன் ரூபாயைத் தாண்டியது ஒரு பெரிய சாதனையாகக் கருதப்பட்டது. இன்று, நாங்கள் 235 பில்லியன் ரூபாயை எட்டியுள்ளோம்," என்று அவர் கூறினார்.
-
-இறக்குமதியாளர்கள் மற்றும் ஏற்றுமதியாளர்களின் வசதியை மேம்படுத்துவதற்காகவும், துறையின் செயல்திறனை மேலும் வலுப்படுத்துவதை நோக்கமாகக் கொண்டும் புதிய அமைப்பு வடிவமைக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
-
-வாகன இறக்குமதிகள் வருவாயில் பெரும்பகுதியைக் கொண்டிருந்தன, இது சாதனை வருவாயில் குறிப்பிடத்தக்க பங்களிப்பை அளித்தது.
-
-◼️
-
-[Data](articles/a3fc4e01.json)
-
----
-
-### ஆளும் கட்சியின் ஒற்றுமை ?
-
-*2025-08-17 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222705) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் புதல்வர் ரோஹித ராஜபக்ஷவின் செயற்கைக்கோள் விவகாரத்தில் ஏற்பட்ட கருத்து வேறுபாடுகளினால் ஆளும் கட்சிக்குள் ஏற்பட்டுள்ள முரண்பாடுகளை சரி செய்வதற்கு மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) பெலவத்த அலுவலகம் முழு மூச்சுடன் செயற்படுகின்றது. இவ்வாறானதொரு நிலையில், செயற்கைக்கோள் விவகாரத்தை மையப்படுத்தி அமைச்சரவையின் கூட்டுப்பொறுப்பு  மீறியமை தொடர்பில் அமைச்சரவை தீர்மானங்களை ஊடக சந்திப்பில் கேள்விகள் எழுப்பப்பட்ட போது, அமைச்சர் நளிந்த ஜயதிஸ்ஸ பதிலளிப்பதிலிருந்து நழுவியிருந்தார்.
-
-◼️
-
-[Data](articles/410f2103.json)
-
----
-
-### மூளையை திண்ணும் அமீபா:   9 வயது சிறுமி உயிரிழப்பு
-
-*2025-08-17 09:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூளையை-திண்ணும்-அமீபா-9-வயது-சிறுமி-உயிரிழப்பு/175-363029) · `ta`
-
-கேரளாவின் கோழிக்கோடு மாவட்டம் தமரசேரி பகுதியைச் சேர்ந்த 9 வயது சிறுமி, கடும் காய்ச்சல் காரணமாக கோழிக்கோடு மருத்துவக் கல்லூரி மருத்துவமனையில் கடந்த 14-ம் திகதி சேர்க்கப்பட்டார். அன்றைய தினம் அவர் சிகிச்சை பலனின்றி இறந்தார்.
-
-சிறுமியின் இறப்புக்கான காரணம் குறித்து நுண் உயிரியியல் பரிசோதனைக் கூடத்தில் பரிசோதனை நடத்தப்பட்டது. அப்போது சிறுமியின் மூளையில் அரியவகை அமீபா பாதிப்பு இருந்தது கண்டறியப்பட்டது. மூளை திசுக்களை திண்ணும் இந்த அரிய வகை அமீபா மாசடைந்த ஏரி, குளம், ஆறுகளில் இந்த வகை அமீபா உயிர் வாழும். இந்த நீர்நிலைகளில் குளித்தால், மூளைவாதம் ஏற்படும் அபாயம் உள்ளது.
-
-இதையடுத்து சிறுமி வசித்த பகுதிகளில் நீர்நிலை கண்டறிப்பட்டவுடன், அங்கு குளித்தவர்கள் அடையாளம் காணப்பட்டு பரிசோதனை நடத்தப்படும் என்று அதிகாரிகள் தெரிவித்துள்ளனர். கோழிக்கோடு மாவட்டத்தில் இந்த ஆண்டில், அரியவகை அமீபா பாதிப்பு காரணமாக இறந்த நான்காவது நபர் இந்த 9-வயது சிறுமி என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f7baf2c2.json)
-
----
-
-### தேங்காய் தலையில் விழுந்ததில் குழந்தை பலி
-
-*2025-08-17 09:35:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-தலையில்-விழுந்ததில்-குழந்தை-பலி/175-363028) · `ta`
-
-பக்கத்து வீட்டிற்கு நடந்து சென்று கொண்டிருந்த ஒரு குழந்தையின் தலையில் தேங்காய் விழுந்ததில் குழந்தை உயிரிழந்ததாக உடசிறிகம பொலிஸார் தெரிவித்தனர். இந்த சம்பவம், வென்னப்புவ, பண்டிரிபுவ பகுதியில்   சனிக்கிழமை (16) இடம்பெற்றுள்ளது.
-
-இந்த விபத்தில்   வென்னப்புவ, பண்டிரிபுவ பகுதியைச் சேர்ந்த ஜீவன் சஸ்மின் என்ற இரண்டு வயது குழந்தையே உயி​ரிழந்தள்ளார். அண்டை வீட்டில் வசித்து வந்த மற்றொரு குழந்தையுடன் அந்த வீட்டிற்கு நடந்து சென்று கொண்டிருந்தபோது, குழந்தையின் தலையில் தேங்காய் விழுந்தது.
-
-குழந்தை மயக்கமடைந்ததால், சம்பவ இடத்திற்கு வந்த பெற்றோர், மூத்த குழந்தையின் அலறல் சத்தம் கேட்டு குழந்தையை உடனடியாக லுனுவில மருத்துவமனையில் அனுமதிக்க நடவடிக்கை எடுத்தனர்.
-
-அதன்படி, ஆபத்தான நிலையில் இருந்த குழந்தையை மேலதிக சிகிச்சைக்காக மருத்துவமனை அதிகாரிகள் மாரவில மருத்துவமனையில் அனுமதித்தனர். பின்னர், மோசமான நிலை காரணமாக, குழந்தை மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டது, ஆனால் குழந்தை அங்கேயே இறந்தது.
-
-◼️
-
-[Data](articles/2474fd6d.json)
 
 ---

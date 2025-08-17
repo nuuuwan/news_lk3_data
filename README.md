@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 09:58:10**
+As of **2025-08-17 10:15:10**
 
 ## Newspaper Stats
 
-*Scraped **70,870** Articles*
+*Scraped **70,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,836
-adaderanalk | 8,853
-tamilmirrorlk | 10,438
-virakesarilk | 11,761
+adaderanalk | 8,861
+tamilmirrorlk | 10,440
+virakesarilk | 11,763
 adaderanasinhalalk | 12,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,870 articles have been extended.
+61,973 (87.4%) of 70,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### நடுவீதியில் கரணமடித்த டிரக்டர்: 12 பேர் காயம்
+
+*2025-08-17 09:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுவீதியில்-கரணமடித்த-டிரக்டர்-12-பேர்-காயம்/175-363031) · `ta`
+
+தெஹியோவிட்ட பொலிஸ் பிரிவில்,  பணியாளர்களை ஏற்றிக்கொண்டு சென்ற டிரக்டர் நடுவீதியில் புரண்டதில் 12 பேர் காயமடைந்துள்ளனர்.
+
+சனிக்கிழமை (17) இடம்பெற்ற இந்த சம்பவத்தில் காயமடைந்த 12 பேரில்,  எட்டுபேர் கரவனெல்ல வைத்தியசாலையிலும், நால்வர் அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். ஒருவர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/63b9f54d.json)
+
+---
+
+### செம்மணி - துண்டி முகாம் வரை கைதாகி சித்திரவதைகளில் உயிரிழந்தோர் மணியம் தோட்டத்தில் புதைக்கப்பட்டனர் : பல முக்கிய சாட்சியங்களை வழங்குவேன் என்கிறார் மரணதண்டனைக்கைதி லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ !
+
+*2025-08-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/222706) · `ta`
+
+அண்மையில் ஜனாதிபதிக்கு அனுப்பிவைக்கப்பட்டிருந்த கடிதத்தில் குறிப்பிடப்பட்டிருந்த விடயங்களுக்கு மேலதிகமாக,  செம்மணிக்கு அப்பால் பல முக்கிய ஆதாரங்களுடன் சாட்சியமளிக்கத் தயாராக இருக்கிறேன் என நான் ஒட்டுமொத்த தமிழ்மக்களுக்கும் வாக்குறுதியளிக்கிறேன் என்று அறிவித்துள்ள கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் பிரதான குற்றவாளியாக நீதிமன்றத்தினால் தீர்ப்பளிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷ, 1996 களில் செம்மணி முதல் துண்டி முகாம் வரை சகல சோதனைச்சாவடிகளிலும் மக்கள் கைதுசெய்யப்பட்டதுடன் சித்திரவதைக்கூடங்களில் உயிரிழந்தவர்களின் சடலங்கள் மணியம் தோட்டத்தில் புதைக்கப்பட்டதாகத் தெரிவித்துள்ளார்.
+
+அண்மையில் கண்டறியப்பட்டு, அகழ்வுப்பணிகள் முன்னெடுக்கப்பட்ட செம்மணி சித்துபாத்தி மனிதப்புதைகுழியில் 141 மனித எச்சங்கள் கண்டறியப்பட்டிருக்கும் நிலையில், 1996 களில் செம்மணி முகாம் - துண்டி முகாம் வரை இடம்பெற்ற கைதுகள், படுகொலைகள் மற்றும் சடலங்கள் புதைக்கப்பட்ட இடங்கள் தொடர்பில் மரணதண்டனைக் கைதியான சோமரத்ன ராஜபக்ஷ முக்கிய வெளிப்படுத்தல்களைச் செய்துள்ளார். அவரது வெளிப்படுத்தல்களின் முதற்பகுதி வருமாறு:
+
+...
+
+[Data](articles/5c7a8254.json)
+
+---
+
+### அதிகபட்ச மாதாந்த வருவாயைப் பதிவு செய்தது இலங்கை சுங்கம்
+
+*2025-08-17 09:47:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகபட்ச-மாதாந்த-வருவாயைப்-பதிவு-செய்தது-இலங்கை-சுங்கம்/175-363030) · `ta`
+
+இலங்கை சுங்கத் திணைக்களம் ஜூலை மாதத்தில் இதுவரை இல்லாத அளவுக்கு அதிகபட்ச மாதாந்திர வருவாயைப் பதிவு செய்து, 235 பில்லியன் ரூபாய்களை வசூலித்ததாக பணிப்பாளர் நாயகம் சுனில் நோனிஸ் தெரிவித்தார்.
+
+வியாழக்கிழமை புதிய சுங்கப் பதிவேடு மற்றும் அறிவிப்பு முறையை அறிமுகப்படுத்தும் நிகழ்வில் பேசிய நோனிஸ், ஜூலை மாத வருவாய் நிறுவனத்திற்கு ஒரு வரலாற்று மைல்கல்லைக் குறித்தது என்றார்.
+
+"2023 ஆம் ஆண்டில், ஒரு மாதத்தில் 100 பில்லியன் ரூபாயைத் தாண்டியது ஒரு பெரிய சாதனையாகக் கருதப்பட்டது. இன்று, நாங்கள் 235 பில்லியன் ரூபாயை எட்டியுள்ளோம்," என்று அவர் கூறினார்.
+
+இறக்குமதியாளர்கள் மற்றும் ஏற்றுமதியாளர்களின் வசதியை மேம்படுத்துவதற்காகவும், துறையின் செயல்திறனை மேலும் வலுப்படுத்துவதை நோக்கமாகக் கொண்டும் புதிய அமைப்பு வடிவமைக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+வாகன இறக்குமதிகள் வருவாயில் பெரும்பகுதியைக் கொண்டிருந்தன, இது சாதனை வருவாயில் குறிப்பிடத்தக்க பங்களிப்பை அளித்தது.
+
+◼️
+
+[Data](articles/a3fc4e01.json)
+
+---
+
+### ஆளும் கட்சியின் ஒற்றுமை ?
+
+*2025-08-17 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/222705) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் புதல்வர் ரோஹித ராஜபக்ஷவின் செயற்கைக்கோள் விவகாரத்தில் ஏற்பட்ட கருத்து வேறுபாடுகளினால் ஆளும் கட்சிக்குள் ஏற்பட்டுள்ள முரண்பாடுகளை சரி செய்வதற்கு மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) பெலவத்த அலுவலகம் முழு மூச்சுடன் செயற்படுகின்றது. இவ்வாறானதொரு நிலையில், செயற்கைக்கோள் விவகாரத்தை மையப்படுத்தி அமைச்சரவையின் கூட்டுப்பொறுப்பு  மீறியமை தொடர்பில் அமைச்சரவை தீர்மானங்களை ஊடக சந்திப்பில் கேள்விகள் எழுப்பப்பட்ட போது, அமைச்சர் நளிந்த ஜயதிஸ்ஸ பதிலளிப்பதிலிருந்து நழுவியிருந்தார்.
+
+◼️
+
+[Data](articles/410f2103.json)
+
+---
 
 ### மூளையை திண்ணும் அமீபா:   9 வயது சிறுமி உயிரிழப்பு
 
@@ -63,6 +123,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2474fd6d.json)
+
+---
+
+### Sri Lankan man arrested in Malaysia with narcotics
+
+*2025-08-17 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111538/sri-lankan-man-arrested-in-malaysia-with-narcotics) · `en`
+
+A Sri Lanka national has been arrested for the possession of narcotics during a raid conducted in Bukit Tambun, Malaysia.
+
+According to a report from Bernama news, Malaysian Police successfully dismantled a heroin processing laboratory, operated by a drug distribution syndicate, in two raids.
+
+During the raids, two Malaysian nationals and a Sri Lankan man, aged between 25 and 46 were apprehended.
+
+“In the first raid at 4.29pm at a house in Taman Tambun Permai, police arrested two local men along with 1,113gm of heroin, 641gm of heroin base, 4kg of caffeine, several chemicals, and equipment suspected of being drug processing tools.
+
+“In the second raid at a house not far from the first residence, at around 5.04pm, we arrested a Sri Lankan man with 26kg of caffeine. All the drugs seized in the two raids were worth RM74,500,” a senior police official said in a statement.
+
+...
+
+[Data](articles/b336a5bc.json)
 
 ---
 
@@ -130,6 +210,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 37 females among 257 drowning deaths in 2025: Police
+
+*2025-08-17 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111537/37-females-among-257-drowning-deaths-in-2025-police) · `en`
+
+A total of 257 persons have died due to drowning incidents so far this year, police said.
+
+Police Media Spokesman, Assistant Superintendent of Police (ASP) F.U. Wootler stated that among the victims were 37 women and 220 men.
+
+Meanwhile, the Police Life Saving Division has successfully rescued 69 locals and 33 foreign tourists from drowning incidents, according to the Police Media Spokesman.
+
+◼️
+
+[Data](articles/12b44695.json)
+
+---
+
 ### ගාලු කුමාරි පිට පාරින් යන්න යයි
 
 *2025-08-17 08:26:13* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-කුමාරි-පිට-පාරින්-යන්න-යයි/11-417944) · `si`
@@ -157,6 +253,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0d73f606.json)
+
+---
+
+### US halts visitor visas used for medical trips from Gaza
+
+*2025-08-17 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111536/us-halts-visitor-visas-used-for-medical-trips-from-gaza) · `en`
+
+The US State Department announced it was halting all visitor visas for people from Gaza.
+
+The pause was issued to conduct a “full and thorough review of the process and procedures used to issue a small number of temporary medical-humanitarian visas in recent days,” the agency said on X.
+
+The decision has drawn condemnation from some Palestinian rights groups.
+
+Palestine Children’s Relief Fund said in a statement that the decision “will have a devastating and irreversible impact on our ability to bring injured and critically ill children from Gaza to the United States for lifesaving medical treatment”.
+
+The State Department’s policy shift comes after far right activist Laura Loomer wrote a series of posts on X criticising the visa programme and urging the Trump administration to “shut this abomination down.”
+
+In subsequent posts on X Saturday, Loomer took credit for the shift and thanked Secretary of State Marco Rubio for temporarily halting the visas.
+
+...
+
+[Data](articles/2ec13581.json)
 
 ---
 
@@ -205,6 +323,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/20145d00.json)
+
+---
+
+### Train services between Colombo and Beliatta still disrupted due to derailment
+
+*2025-08-17 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111535/train-services-between-colombo-and-beliatta-still-disrupted-due-to-derailment) · `en`
+
+The Department of Railways states efforts to re-rail the ‘Galu Kumari’ express train, which derailed near the Ginthota railway station along the coastal line last evening, are still ongoing.
+
+The train, which was en route from Maradana to Beliatta, derailed last afternoon.
+
+◼️
+
+[Data](articles/f69c7240.json)
 
 ---
 
@@ -258,6 +390,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Air Canada flights cancelled as strike begins
+
+*2025-08-17 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111534/air-canada-flights-cancelled-as-strike-begins) · `en`
+
+The Canadian government has moved to end a strike by Air Canada’s cabin crews and require binding arbitration to break their contract impasse, an action that the country’s largest carrier had sought but unionized flight attendants fiercely opposed.
+
+Thousands of Air Canada, opens new tab flight attendants walked off the job for the first time since 1985, just before 1 a.m. EDT (0500 GMT), after months of negotiations over a new contract. In anticipation of the stoppage, the airline canceled nearly all of its 700 daily flights, forcing more than 100,000 travelers to scramble for alternatives or stay put.
+
+The most contentious issue in the contract negotiations has been the union’s demand for compensation for time spent on the ground between flights and when helping passengers board. Attendants are now largely paid when their plane is moving.
+
+...
+
+[Data](articles/21ee921f.json)
+
+---
+
 ### ගාලු කුමාරි පීලි ගත කිරීමේ කටයුතු තවදුරටත්
 
 *2025-08-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213461) · `si`
@@ -277,6 +425,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/35572f81.json)
+
+---
+
+### Sri Lanka’s service sector expands in July
+
+*2025-08-17 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111533/sri-lankas-service-sector-expands-in-july) · `en`
+
+Sri Lanka’s services sector expanded in July, supported by growth in wholesale and retail trade, financial services, and the transportation of goods, according to the latest Purchasing Managers’ Index (PMI) released by the Central Bank of Sri Lanka (CBSL).
+
+The services PMI rose to 70.1 in July from 61.9 in June, the CBSL said.
+
+Business activities in the wholesale and retail trade experienced considerable growth during the month, the central bank said. Financial services continued to improve, driven by higher lending, while activities related to the transportation of goods also strengthened, it said.
+
+Other sectors showing positive developments included personal services, postal activities, programming and broadcasting, telecommunications, accommodation, food and beverage services, and health care, the PMI showed.
+
+New businesses expanded in July, with the index rising to 64.9 from 62.9 in June, driven largely by trade and financial services.
+
+...
+
+[Data](articles/ded05e23.json)
 
 ---
 
@@ -311,6 +479,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2edda9f7.json)
+
+---
+
+### Showers, strong winds expected in several areas of the country today
+
+*2025-08-17 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111532/showers-strong-winds-expected-in-several-areas-of-the-country-today-) · `en`
+
+Showers can be expected at times in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (17).
+
+A few showers may occur in the North-western province as well.
+
+Mainly fair weather will prevail elsewhere in the island, the Met. Department added.
+
+Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
+
+◼️
+
+[Data](articles/6d38c729.json)
+
+---
+
+### Indonesia: 5.7-magnitude earthquake strikes Sulawesi, no serious damage
+
+*2025-08-17 05:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111531/indonesia-57-magnitude-earthquake-strikes-sulawesi-no-serious-damage) · `en`
+
+A magnitude 5.7 earthquake struck Sulawesi, Indonesia, on Sunday, the German Research Centre for Geosciences (GFZ) reported.
+
+The quake occurred at a depth of 10 km (6.2 miles), the GFZ added. No immediate reports of casualties or damage have been released. Authorities are monitoring the situation.
+
+This latest tremor comes just days after a 6.3-magnitude earthquake shook Indonesia’s eastern Papua region on Tuesday, sending tremors through the area.
+
+The US Geological Survey said the quake struck at about 5:24 pm local time (0824 GMT), with its epicentre located roughly 193 kilometres northwest of the town of Abepura in Papua.
+
+The Pacific Tsunami Warning Centre confirmed that there was no danger of a tsunami following the quake.
+
+Indonesia has been rattled by a series of earthquakes in recent weeks. The archipelago is part of the Pacific “Ring of Fire”, a highly volatile zone where tectonic plates collide, triggering frequent seismic activity.
+
+...
+
+[Data](articles/1ced3d15.json)
 
 ---
 
@@ -1595,237 +1803,5 @@ Legal action has also been taken against 3,635 individuals for various traffic o
 ◼️
 
 [Data](articles/571f4fd8.json)
-
----
-
-### Flash floods kill more than 280 people in India and Pakistan as thousands flee
-
-*2025-08-16 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111516/flash-floods-kill-more-than-280-people-in-india-and-pakistan-as-thousands-flee) · `en`
-
-Flash floods triggered by torrential rains have killed over 280 people in India and Pakistan and left scores of others missing, officials said Friday, as rescuers brought to safety some 1,600 people from two mountainous districts in the neighboring countries.
-
-Flooding began a day earlier in Indian-controlled Kashmir and spread to the north and northwest in Pakistan, triggered by sudden, intense downpours over small areas. The floods and subsequent landslides injured dozens of people and forced the evacuation and rescue of thousands of others, particularly in the Khyber Pakhtunkhwa province.
-
-Such cloudbursts are increasingly common in India’s Himalayan regions and Pakistan’s northern areas, and experts have said climate change is a contributing factor.
-
-Leaders in both countries offered their condolences to the victims’ families and assured them of swift relief.
-
-...
-
-[Data](articles/7bd4604a.json)
-
----
-
-### මොනරාගල වැලියායේදී බස් රථ දෙකක් ගැටී පුද්ගලයෙක් මරුට, 21ට තුවාල
-
-*2025-08-16 10:30:03* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-වැලියායේදී-බස්-රථ-දෙකක්-ගැටී-පුද්ගලයෙක්-මරුට--21ට-තුවාල/11-417938) · `si`
-
-මොනරාගල සියඹලාණ්ඩුව මාර්ගයේ (පොතුවිල් මාර්ගයේ) වැලියාය ඉන්ධන පිරවුම් හල ආසන්නයේදී (16) වෙනිදා උදෑසන 06.10 ලංගම බස් රථයක් සහ පුද්ගලික මගී ප්‍රවාහන බස් රථයක් එකිනෙක ගැටී සිදුවූ රිය අනතුරකින් ලංගම බස් රථයේ රියැදුරු මිය ගොස් බස් රථ දෙකේම සිටි මගීන් 21 දෙනෙකු තුවාල ලබා ඇත.
-
-මෙම අනතුරෙන් මියගොස් ඇත්තේ ලංගම බස් රථයේ රියදුරුවූ රුවල්වෙල දැලිව 05 කණුව අසල පදිංචි ඩී.එම් ධනුෂ්ක චින්තක සිරිවර්ධන (32) නැමති අවිවාහකයෙකි.
-
-මොනරාගල ලංගම ඩිපෝවට අයත්  NC 0536 බස් රථය ඉදිරියෙන් පැමිණි වන්දනාකරුවන් රැගත් අංක JS 5891 දරණ පුද්ගලික බස්රථය මුහුණට මුහුණලා ගැටී ඇත.
-
-ගැටීමෙන් අනතුරුව ලංගම බස්රථය මාර්ගයෙන් ඉවතට පැන බෝක්කුවකින් පහළට වැටී තිබේ. ප්‍රදේශවාසීන් එක්ව තුවාල ලබා සිටි පිරිස මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව ලංගම රියදුරු මියගොස් ඇත.
-
-තුවාලකරුවන් 20 දෙනෙකු මොනරාගල රෝහලේ ප්‍රතිකාර ලබන අතර කාන්තාවන් 15 දෙනෙකු රෝගීන් අතර වේ.
-
-මොණරගල මූලස්ථාන පො.ප පී.එස් චාමින්ද සංජීව මහතාගේ උපදෙස් පිට මොනරාගල පොලීසියේ රථවාහන අංශයේ නිලධාරීන් පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/10eb82d6.json)
-
----
-
-### லொஹானின் இறுதிச் சடங்கு தொடர்பான செய்தி
-
-*2025-08-16 10:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-இறுதிச்-சடங்கு-தொடர்பான-செய்தி/175-363002) · `ta`
-
-மறைந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தவின் இறுதிச் சடங்குகள் நாளை (17) நடைபெற உள்ளதாக அறிவிக்கப்பட்டுள்ளது.
-
-கண்டி, நித்தவெல - மஹியாவவில் உள்ள மயானத்தில் இவரது இறுதிச் சடங்குகள்  நடைபெற உள்ளன.
-
-கொழும்பில் உள்ள ஒரு தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில், நேற்று மதியம் அவர் காலமானார். இறக்கும் போது அவருக்கு 57 வயது. R
-
-◼️
-
-[Data](articles/7631752b.json)
-
----
-
-### Neon & Shadows: Sri Lanka’s Grey Economy, Casino For India’s Rich
-
-*2025-08-16 10:15:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/neon-shadows-sri-lankas-grey-economy-casino-for-indias-rich/) · `en`
-
-“Sri Lanka can be to India what Macau is to China,” Melco CEO Lawrence Ho said on the night the lights came on. It was August 2 in Colombo. The ballroom glowed like a promise. South Asia’s largest casino was open. I was there at the opening, watching the dream unfold. The air was thick with perfume and optimism. Waiters carried glasses of champagne through corridors lined with the island’s most powerful. Glass, steel, and marble reflected the faces of those who came to see the dream — businessmen, ministers, the city’s elite. Ho spoke of geography: an island close enough to India’s middle class to tempt them with what is tightly limited at home.
-
-...
-
-[Data](articles/034f0b7a.json)
-
----
-
-### කෝටි 5ක ගංජා තොගයක් සමඟ දෙදෙනෙක් කොටුවෙයි
-
-*2025-08-16 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213429) · `si`
-
-රුපියල් කෝටි 05කට අධික වටිනාකමින් යුතු කේරළ ගංජා තොගයක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-පොලිස්පතිවරයාගේ උපදෙස් මත දිවයින පුරා ක්‍රියාත්මක වනපරිදි ශ්‍රී ලංකා පොලීසිය සිදුකරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුමට අදාළව මෙම වැටලීම සිදුකර තිබුණි.
-
-ඒ අනුව, ඊයේ (15) සවස් කාලයේ වත්තල පොලිස් වසමේ බංගලාවත්ත ප්‍රදේශයේදී පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත වැටලීමක් සිදුකර තිබුණි.
-
-එහිදී කේරළ ගංජා කිලෝ 309 කට ආසන්න ප්‍රමාණයක් සන්තකයේ තබාගෙන සිටි සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 43 සහ 49ක් වන ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචිකරුවන් ය.
-
-සැකකරුවන් විසින් කුලී පදනම මත ලබාගත් නිවසක කාමරයක් තුළ සඟවා තිබියදී මෙම කේරළ ගංජා තොගය පොලිස් භාරයට ගැනුණි.
-
-සැකකරුවන් අද (16) දින වැලිසර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/d954840d.json)
-
----
-
-### Rameswaram fishers fast for release of men, boats in Sri Lanka
-
-*2025-08-16 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111515/rameswaram-fishers-fast-for-release-of-men-boats-in-sri-lanka) · `en`
-
-Fishermen in Rameswaram observed a hunger strike on Friday demanding the release of their fellow mates and their boats currently held by Sri Lankan authorities.
-
-According to fishermen’s associations, 64 fishermen from Tamil Nadu arrested by Sri Lankan navy over the past two months are lodged in prison. In addition, 24 more are serving prison terms ranging from six months to two years.
-
-Several mechanised boats seized during these arrests remain in the island nation’s custody. The hunger strike, held at Thangachimadam Valasai Street and led by fishermen’s representative S. Jesuraja, also called for securing fishing rights on Katchatheevu waters, and urged the Centre and state govt to find a permanent solution to the decades-old dispute.
-
-The protest is part of an ongoing indefinite strike by mechanised boat fishermen that began on Monday. On Wednesday, the fishermen carried out a demonstration condemning the repeated arrests during fishing trips.
-
-...
-
-[Data](articles/6fd322ae.json)
-
----
-
-### Two arrested with Kerala cannabis worth over Rs. 50 mln
-
-*2025-08-16 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111514/two-arrested-with-kerala-cannabis-worth-over-rs-50-mln) · `en`
-
-The Police Narcotics Bureau (PNB) has arrested two suspects in possession of a large consignment of Kerala cannabis valued at more than Rs. 50 million.
-
-The arrests were made last evening (15) during a raid in the Bangalawatta area of the Wattala Police Division, carried out under the ongoing crime and drug prevention operation directed by the Inspector General of Police.
-
-Police said that nearly 309 kilograms of Kerala cannabis were seized during the raid.
-
-The consignment had been hidden inside a room of a house rented by the suspects.
-
-The arrested individuals, aged 43 and 49, are residents of the Grandpass area. They are scheduled to be produced before the Welisara Magistrate’s Court today, said police.
-
-The Police Narcotics Bureau is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/8ed0ca10.json)
-
----
-
-### SLC T20 ලීගයේ අවසන් සටන අද
-
-*2025-08-16 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213428) · `si`
-
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් සංවිධානය කරන විස්සයි20 ක්‍රිකට් ලීගයේ (SLC T20 League) අවසන් මහා තරගය ග්‍රේස් සහ ග්‍රීන්ස් කණ්ඩායම් අතර අද (16) පැවැත්වේ.
-
-කොළඹ SSC ක්‍රීඩාංගණයේ දී පැවැත්වෙන මෙම තරගය ප.ව. 1.30ට ආරම්භවීමට නියමිතය.
-
-ග්‍රීන්ස්, ග්‍රේස් හා බ්ලූස් ලෙස කණ්ඩායම් 3ක සහභාගිත්වයෙන් මෙම තරගාවලියේ මූලික වටයේ තරග පැවැත්විණි.
-
-එහිදී සෑම කණ්ඩායමකම තරග 4ක් හිමි වූ අතර, ඉන් තරග 3ක් ජයගත් කමිඳු මෙන්ඩිස්ගේ නායකත්වයෙන් යුත් ග්‍රීන්ස් කණ්ඩායම ප්‍රසාද ලකුණු සටහනේ පෙරමුණ හිමිකර ගත්තේය.
-
-ඔවුන් තරග 3ක් ජයගත් අතර, එක් තරගයක් විසදුමකින් තොරව අවසන්ව ඇත.
-
-දෙවැනි ස්ථානය හිමිකරගත් චරිත් අසංලකගේ නායකත්වයෙන් යුත් ග්‍රේස් කණ්ඩායම තරග 2ක් ජයගත් අතර, එක් තරගයක් ඔවුන් පරාජය වී ප්‍රසාද ලකුණු සටහනේ දෙවන ස්ථානයට පත්විය.
-
-දුනිත් වෙල්ලාලගේ නායකත්වයෙන් යුත් බ්ලූස් කණ්ඩායමට ක්‍රීඩාකළ කිසිදු තරගයක් ජයගැනීමට නොහැකි වූ අතර, ඒ හේතුවෙන් ඔවුන්ට ප්‍රසාද ලකුණු සටහනේ අවසන් ස්ථානය හිමිවිය.
-
-◼️
-
-[Data](articles/29d3b595.json)
-
----
-
-### இரண்டு பேருந்துகள் மோதி விபத்து : சாரதி பலி
-
-*2025-08-16 09:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பேருந்துகள்-மோதி-விபத்து-சாரதி-பலி/175-363001) · `ta`
-
-மொனராகலை வெலியாய பகுதியில் இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான   பேருந்தும், தனியார் பேருந்தும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்ததுடன், 22 பேர் காயமடைந்துள்ளனர்.
-
-விபத்தில் தம்பகல்ல பகுதியைச் சேர்ந்த 32 வயதுடைய இலங்கை போக்குவரத்து சபை பேருந்தின் சாரதி உயிரிழந்ததாக பொலிஸார் உறுதிப்படுத்தியுள்ளனர்.
-
-தம்பகல்லவிலிருந்து மொனராகலை நோக்கிச் சென்று கொண்டிருந்த இலங்கை போக்குவரத்து சபை பேருந்தும், சுற்றுலா பயணத்தில் ஈடுபட்டிருந்த தனியார் பேருந்தும் மோதியதில் இந்த துயர சம்பவம் ஏற்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/2e733a77.json)
-
----
-
-### Sri Lanka manufacturing boosted by food, beverages, textiles and apparel production: PMI
-
-*2025-08-16 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-boosted-by-food-beverages-textiles-and-apparel-production-pmi-236658/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a higher rate to 62.2 in July 2025, according to a Purchasing Managers Index compiled by the central bank.
-
-“All sub-indices contributed positively to this improvement,” the central bank said.
-
-The growth in the New Orders and Production sub-indices was supported by strong performances in the food and beverages manufacturing and textiles and apparel sectors, it said.
-
-“Manufacturing sector is optimistic about the next three months, while remaining cautious amid uncertainties in global trade.”  (Colombo/Aug16/2025)
-
-◼️
-
-[Data](articles/e88f132c.json)
-
----
-
-### நீரில் மூழ்கி மாணவன் பலி
-
-*2025-08-16 08:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-363000) · `ta`
-
-மதுரங்குளிய, கரிகட்டிய பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர், மதுரங்குளிய, வெலாசிய கெமுனு ஏரியில் நீந்தச் சென்று நீரில் மூழ்கி உயிரிழந்ததாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
-
-வேலாசிய கெமுனு ஏரியில் நீந்துவதற்காக கரிகட்டிய பகுதியில் உள்ள ஒரு உறவினர் வீட்டிற்குச் சென்ற மாணவன், வழுக்கி விழுந்து ஏரியின் படிகளில் தண்ணீரில் இழுத்துச் செல்லப்பட்டான்.
-
-குழந்தை நீரில் மூழ்கி தண்ணீரில் இழுத்துச் செல்லப்படுவதைக் கண்ட அவரது அத்தை தண்ணீரில் குதித்து குழந்தையைக் காப்பாற்ற முயன்றார், ஆனால் நீந்தத் தெரியாததால் அவரும் நீரில் மூழ்கினர்.
-
-அத்தையும் குழந்தையும் தண்ணீரில் மூழ்கிக் கொண்டிருந்தபோது, சம்பவ இடத்தில் இருந்தவர்கள் அலறினர், அருகில் இருந்தவர்கள் விரைந்து ஓடி வந்து குழந்தையையும் அத்தையும் மீட்டு புத்தளம் ஆதார மருத்துவமனையில் அனுமதித்தனர்.
-
-இருப்பினும், குழந்தையை காப்பாற்ற முடியவில்லை, அத்தை ஆபத்தான நிலையில் புத்தளம் ஆதார மருத்துவமனையில் சிகிச்சை பெற்று வருவதாகக் கூறப்படுகிறது
-
-◼️
-
-[Data](articles/17989f32.json)
-
----
-
-### කලාතුරකින් ඉංග්‍රීසි කතා කරන පුටින් ට්‍රම්ප්ට කළ ඇරයුම
-
-*2025-08-16 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213427) · `si`
-
-රුසියාව හා යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම සඳහා පැවැත් වූ ට්‍රම්ප් - පුටින් සාකච්ඡා ස්ථිර එකඟතාවයකින් තොරව අවසන්ව වුවද, යුද්ධය අවසන් කිරීමට අමෙරිකානු ජනාධිපතිවරයා දක්වන උනන්දුව සම්බන්ධයෙන් තමා සතුටුවන බව රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් පවසයි.
-
-ලෝක නායකයන් දෙදෙනා අතර ඇලස්කාවේ පැවැති තීරණාත්මක සාකච්ඡාවෙන් පසුව පැවති ප්‍රවෘත්ති සාකච්ඡාවේ ඔහු මේ බව පැවසීය.
-
-යුක්‍රේන ගැටුමට මූලික හේතුන් අවසන් කිරීමට පියවර ගතයුතු බවත්, මෙම සාකච්ඡා කඩාකප්පල් කිරීමට යුක්‍රේනය සහ යුරෝපය කටයුතු නොකරනු ඇතැයි තමා අපේක්ෂා කරන බවත් රුසියානු ජනාධිපතිවරයා මෙහිදී ප්‍රකාශ කර තිබේ.
-
-එමෙන්ම අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇත්තේ, මෙම සාකච්ඡාවේ දී අවසන් එකඟතාවකට නොපැමිණියද, රුසියාව සහ යුක්‍රේනය අතර අවසන් එකඟතාවක් ඇතිවනු ඇති බවට තමා විශ්වාසය පළකරන බවයි.
-
-මේ අතර අතිශය සීමිත අවස්ථාවකදී ඉංග්‍රීසි භාෂාව ප්‍රසිද්ධියේ භාවිතා කරන පුටින්, ප්‍රවෘත්ති සාකච්ඡාවේ දී අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට මොස්කව් වෙත පැමිණෙන්නැයි ආරාධනා කළේය.
-
-ඊට ප්‍රතිචාර ලෙස ට්‍රම්ප් පවසා සිටියේ "ආ..., ඒක සිත්ගන්නා සුළුයි" යනුවෙනි.
-
-...
-
-[Data](articles/b6701b15.json)
 
 ---

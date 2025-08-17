@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 20:31:55**
+As of **2025-08-17 20:48:21**
 
 ## Newspaper Stats
 
-*Scraped **70,953** Articles*
+*Scraped **70,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,848
+adalk | 6,849
 adaderanalk | 8,877
 tamilmirrorlk | 10,456
 virakesarilk | 11,771
-adaderanasinhalalk | 12,238
+adaderanasinhalalk | 12,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,953 articles have been extended.
+61,973 (87.3%) of 70,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### නෝර්ටන්බිජ් මස්කෙලිය ප්‍රධාන මාර්ගයට පස්කන්දක් කඩා වැටෙයි
+
+*2025-08-17 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213480) · `si`
+
+නෝර්ටන්බ්‍රිජ් - මස්කෙලිය ප්‍රධාන මාර්ගයට පස්කන්දක් කඩා වැටීමෙන් එම මාර්ගයේ ගමනාගමන කටයුතු අද (17) පස්වරුවේ සිට සම්පූර්ණයෙන්ම ඇනහිට ඇති බව නෝර්ටන්බ්‍රිජ් පොලිසිය පවසයි.
+
+මෙම ප්‍රදේශයට ඇදහැලෙන අධික වර්ෂාපතනය හේතුවෙන් මෙම පස් කන්ද කඩා වැටී ඇති බව වාර්තා වේ.
+
+පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටින්නේ මෙම මාර්ගය නැවත යථා තත්ත්වයට පත් කරන තෙක් විකල්ප මාර්ග භාවිත කරන ලෙසය.
+
+◼️
+
+[Data](articles/81c85e6d.json)
+
+---
 
 ### எதிர்வரும் 36 மணி நேரத்தில் ஏற்படவுள்ள மாற்றம்
 
@@ -69,6 +85,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/73fb5b50.json)
+
+---
+
+### ඖෂධ හා ශල්‍ය උපකරණ මිල ඉහළ ගිහින්
+
+*2025-08-17 18:56:39* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ හා-ශල්‍ය-උපකරණ-මිල-ඉහළ-ගිහින්/11-417962) · `si`
+
+ඖෂධ හා ශල්‍ය උපකරණවල මිල ඉහළ යාමෙන් රෝගී ජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින නිසා  මිල නියාමනයක් ඇති කළ යුතු බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+ඖෂධ කාණ්ඩ 60කට අයත් ඖෂධ වර්ග 750කට අදාළව මිල නියාමනයක් සිදුවුවත් ශල්‍ය උපකරණවල මිල නියාමනයක් සිදුනොවන බව එම සන්ධානයේ  සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පෙන්වා දෙයි.
+
+ආසන්න වශයෙන් ඖෂධ කාණ්ඩ 300කට අධික ප්‍රමාණයකට අයත් විවිධ වෙළෙඳ නාම යටතේ අලෙවි වන ඖෂධ වර්ග 6500කට අධික  ඖෂධ වර්ගවල මිල නියාමනයක් සිදුනොවන බවත් ඔහු පැවසීය.
+
+මිල පාලනයක් නොමැති ඖෂධ වර්ගවල මිල ජනතාවට දරාගත නොහැකි ලෙස ඉහළ ගොස් තිබෙන නිසා පෞද්ගලික ඔසු සල්වලින් ඹෟෂධ මිලදී ගන්නා ජනතාව දුෂ්කරතාවන්ට පත්ව සිටින බවද හෙතෙම සඳහන් කළේය.
+
+දැනට දිවයින පුරා පෞද්ගලික ඔසුහල්වල ද සැලකිය යුතු ඖෂධ ප්‍රමාණයක හිඟයක් පවතින බැවින් පිළිකා රෝගීන් අතුළු දිගුකාලීන රෝගාබාධවලින් පෙළෙන පුද්ගලයන්ට ඖෂධ ගෙන්වීම සඳහා විදේශ රටවල පුද්ගලික සහාය ලබා ගැනීමට සිදුව ඇති බවද වෛද්‍යවරයා පවසා සිටියේය.
+
+◼️
+
+[Data](articles/b30defb9.json)
 
 ---
 
@@ -1803,41 +1839,5 @@ Indonesia has been rattled by a series of earthquakes in recent weeks. The archi
 ...
 
 [Data](articles/1ced3d15.json)
-
----
-
-### 2025-08-16 (Saturday)
-
-### Sri Lanka Customs records highest-ever monthly revenue of Rs. 235 bln
-
-*2025-08-16 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111530/sri-lanka-customs-records-highest-ever-monthly-revenue-of-rs-235-bln) · `en`
-
-Director General of Customs, Sunil Nonis, announced that Sri Lanka Customs recorded its highest-ever monthly revenue in history last month, with collections amounting to Rs. 235 billion.
-
-He made this announcement while participating in the launch of the Customs Document Notification System (CDNS), developed by Sri Lanka Customs to facilitate importers and exporters. The event was held yesterday (15).
-
-“Last month, Sri Lanka Customs achieved a revenue of Rs. 235 billion, marking the highest monthly revenue in our history. In 2023, we celebrated surpassing Rs. 100 billion in monthly revenue, but today we have reached the point where we have surpassed Rs. 235 billion.”
-
-◼️
-
-[Data](articles/137af529.json)
-
----
-
-### බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ
-
-*2025-08-16 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213458) · `si`
-
-බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පියවර ගනිමින් උත්ශ්‍රේණි ගත කරන ලද රෝහල ජනතා අයිතියට පත් කිරීම ඊයේ (15) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
-
-ඒ සඳහා වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා සහ ඌව පළාත් ආණ්ඩුකාර නීතීඥ ජේ.එම්.කපිල ජයසේකර යන මහත්වරුන්ගේ සහභාගී විය.
-
-එහිදී අදහස් දක්වමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා කියා සිටියේ රජය බලයට පත්ව ගත වූ මාස 08ක පමණ කාලසීමාවේ දී සෞඛ්‍ය අමාත්‍යාංශය ලෙස රෝහල් වර්ගීකරණයේ ඉහළට ඔසවා තැබූ පළමු රෝහල බවට බණ්ඩාරවෙල මුලික රෝහල පත්වන බවය.
-
-2025.08.16 බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කිරීම  by  poornima
-
-◼️
-
-[Data](articles/da1ee333.json)
 
 ---

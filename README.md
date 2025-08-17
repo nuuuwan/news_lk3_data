@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 22:07:37**
+As of **2025-08-17 22:22:22**
 
 ## Newspaper Stats
 
-*Scraped **70,965** Articles*
+*Scraped **70,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,850
+adalk | 6,851
 adaderanalk | 8,880
 tamilmirrorlk | 10,458
 virakesarilk | 11,774
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,965 articles have been extended.
+61,973 (87.3%) of 70,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -339,6 +339,24 @@ A provincial rescue spokesman told news agency AFP that “10 to 12 entire villa
 ◼️
 
 [Data](articles/bc4181a4.json)
+
+---
+
+### ඇඟිලි සටහන් සලකුණු යන්ත්‍ර අනිවාර්යෙන් ක්‍රියාත්මක කරනවා
+
+*2025-08-17 18:41:49* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟිලි-සටහන්-සලකුණු-යන්ත්‍ර-අනිවාර්යෙන්-ක්‍රියාත්මක-කරනවා/11-417960) · `si`
+
+සාධාරණ වැටුප් සහ අතිකාල දීමනාවක් ලබා දී තිබියදී සිදු කිරීමට නියමිත වැඩ වර්ජනය අසාධාරණ බව සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+මෙලෙස ක්‍රමවේදයකට අනුව වැටුප් සහ අතිකාල දීමනා ලබා දීම හේතුවෙන් අනිවාර්යෙන්ම ඇඟිලි සලකුණු කිරීමේ යන්ත්‍ර ක්‍රියාත්මක කරන බව ඊයේ(17දා) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+මේ අතර, මෙම වැඩවර්ජනයට ප්‍රධාන වශයෙන් කාරණා 03ක් බලපා ඇති බවත්, ඒ අනුව නිවාඩු අවලංගු කර ඇති පසුබිමක සේවයට වාර්තා නොකරන්නේ නම් ඒ පිළිබඳ දැඩිව ක්‍රියාත්මක වීමට සිදුවනු ඇති බවත් මෙහිදි අදහස් පළ කරමින් තැපැල්පති තැපැල්පති එස්.ආර්.ඩබ්ලිව්.එම්.ආර්.පී. සරත්කුමාර පැවසීය.
+
+"තැපැල් දෙපාර්තමේන්තුවේ 22,000ක් පමණ සේවය කරනවා. මේ වැටුප් වැඩිවීමට කලින් තැපැල් දෙපාර්තමේන්තුවේ ආදායම බවට පත්වෙලා තිබුණේ රුපියල් බිලියන 14යි. වියදම රුපියල් බිලියන 18යි. ඒ කියන්නේ මේ වැටුප් වැඩිවීම් ලබා දෙන්නට පෙරත් තැපැල් දෙපාර්තමේන්තුවට රුපියල් කෝටි 400ක පමණ අමතර වැය බරක් භාණ්ඩාගාරය විසින් දරමින් තිබුණා.
+
+...
+
+[Data](articles/fc2475c7.json)
 
 ---
 
@@ -1815,27 +1833,5 @@ In subsequent posts on X Saturday, Loomer took credit for the shift and thanked 
 ...
 
 [Data](articles/20145d00.json)
-
----
-
-### Train services between Colombo and Beliatta still disrupted due to derailment
-
-*2025-08-17 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111535/train-services-between-colombo-and-beliatta-still-disrupted-due-to-derailment) · `en`
-
-The Department of Railways states that restoration work is still ongoing on the ‘Galu Kumari’ express train that derailed near the Ginthota Railway Station along the coastal railway line.
-
-The train, which was operating from Maradana to Beliatta, derailed last afternoon (16).
-
-As a result, the Railway Department took steps to limit train operations on the coastal line up to the Ambalangoda Railway Station.
-
-The derailment caused significant damage to the railway track, and the department said the repair work is currently underway.
-
-Meanwhile, it has been announced that trains scheduled to operate this morning will start from railway stations located beyond the Ginthota station—specifically from Dodanduwa, Hikkaduwa, Kahawa, and Ambalangoda.
-
-It has also been reported that the train scheduled to operate from Beliatta will now run only up to the Galle Railway Station.
-
-...
-
-[Data](articles/f69c7240.json)
 
 ---

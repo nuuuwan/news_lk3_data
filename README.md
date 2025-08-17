@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 02:07:13**
+As of **2025-08-18 02:20:08**
 
 ## Newspaper Stats
 
-*Scraped **70,993** Articles*
+*Scraped **70,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailyftlk | 4,998
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
-virakesarilk | 11,775
+virakesarilk | 11,777
 adaderanasinhalalk | 12,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,993 articles have been extended.
+61,973 (87.3%) of 70,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### இராணுவ பிரசன்னத்துக்கு எதிர்ப்பு தெரிவித்து வடக்கு மற்றும் கிழக்கு மாகாணங்களில் இன்று ஹர்த்தால்
+
+*2025-08-18 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/222768) · `ta`
+
+முத்தையன்கட்டு இளைஞன் மரணம் மற்றும் வடக்கு, கிழக்கு மாகாணத்தில் இராணுவ பிரசன்னத்துக்கு எதிர்ப்பு தெரிவித்து வடக்கு மற்றும் கிழக்கு மாகாணங்களின் திங்கட்கிழமை (17) காலை முதல் மதியம் வரை பூரண ஹர்த்தால் அனுஸ்டிக்கப்படுகிறது.
+
+இராணுவ பிரசன்னத்துக்கு எதிர்ப்பு தெரிவிக்கும் இந்த ஹர்த்தாலுக்கு அரசியல் கட்சிகள்,சிவில் அமைப்புக்கள் மற்றும் வணிக பிரதிநிதிகள் உட்பட பல்வேறு தரப்பினர் முழுமையான ஆதரவு வழங்குகின்றனர். பொதுமக்களின் இயல்பு வாழ்க்கைக்கு பாதிப்பு ஏற்படாத வகையில் இராணுவ பிரசன்னத்துக்கு எதிர்ப்பு தெரிவிக்கும் வகையில் வடக்கு மற்றும் கிழக்கு மாகாணம் முழுமையாக முடங்க வேண்டும்.அதனுடாக அரசாங்கத்துக்கு வலுவான செய்தியை எடுத்துரைக்க வேண்டும் என்று இலங்கைத் தமிழரசுக் கட்சி பொதுமக்களிடம் வலியுறுத்துகிறது.
+
+...
+
+[Data](articles/46891903.json)
+
+---
+
+### தமிழரசுக்கட்சி தன்னிச்சையாக எடுத்த முடிவு தவறாகும்; ராணுவ பிரசன்னத்திற்கு எதிரான போராட்டத்திற்கு ரெலோ ஆதரவு - செல்வம் அடைக்கலநாதன்
+
+*2025-08-18 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/222767) · `ta`
+
+இலங்கை தமிழரசு கட்சி அனைத்து தமிழ் தேசிய  அரசியல் கட்சிகளுடனும் கலந்துரையாடி ராணுவ  பிரசன்னத்திற்கு  எதிரான போராட்டத் திற்கான  முடிவை எடுத்திருக்க வேண்டும். மாறாக தன்னிச்சையாக எடுத்த முடிவு தவறாகும்.எனினும் முப்படை களுக்கும் எதிராக ஆயுதம் ஏந்தியவர்கள் என்ற வகையில் ராணுவ பிரசன்னத்திற்கு எதிரான போராட்டத்திற்கு   தமிழீழ விடுதலை இயக்கம் 'ரெலோ' ஆகிய நாம் ஆதரவளிக்கின்றோம்.என ரெலோ தலைவரும்,வன்னி மாவட்ட பாராளுமன்ற உறுப்பினருமான செல்வம் அடைக்கலநாதன் தெரிவித்துள்ளார்.
+
+தமிழினத்தின் மீது தொடர்ச்சியாக சிங்கள பேரினவாத அரசுகளின் முப்படைகளாலும் அரங்கேற்றப் பட்டு வரும் அடக்குமுறை, ஒடுக்குமுறை, இன அழிப்பு படுகொலைகளை வெறுமனே நாம் வேடிக்கை பார்த்துக் கொண்டிருக்க முடியாது.
+
+முப்படையினரின் இனவாத செயற்பாடுகள் நடைபெற வடக்கு கிழக்கிலே காணப்படும் அதிகூடிய தேவை யற்ற இராணுவ முகாம்களும் முப்படையின் பிரசன்னமுமே காரணமாகும்.
+
+2009 போர் மெளனிப்பிற்கு பிறகும் கூட தமிழினத்தை நிம்மதியாக வாழ விடக்கூடாது என்கிற நிகழ்ச்சி நிரலில் படையினர் செயற்படுவதாக நாம் கருதுகின்றோம்.
+
+...
+
+[Data](articles/466bc46b.json)
+
+---
 
 ### UN Rights report details Lankan security forces abuses
 
@@ -1763,45 +1795,5 @@ Minister Fernando was in Singapore to participate in the Invest Sri Lanka Invest
 ...
 
 [Data](articles/fc04ebc4.json)
-
----
-
-### දුම්රිය ස්ථාන අසළම බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයක්
-
-*2025-08-17 10:34:53* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථාන-අසළම-බහුවිධ-ප්‍රවාහන-මධ්‍යස්ථානයක්/11-417947) · `si`
-
-දුම්රිය ස්ථාන අසළම බහුවිධ ප්‍රවාහන සේවයක් ආරම්භ කිරිමට මෙවර අයවැයට යෝජනා ඉදිරිපත් කර ඇති බව අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.අමාත්‍යවරයා හැටන් බස් නැවතුම්පොලේ නිරික්ෂණ චාරිකාවකට එක් වෙමින් ඒ බැවි පැවසීය.
-
-“ලංකාවේ සෑම දිස්ත්‍රික්කයකම අපේ අමාත්‍යාංශයේ සම්බන්ධීකරණ කමිටු පිහිටුවනවා.. රටේ මිනිස්සු මිලියන 22කටම සම්බන්ධ දෙයක් තමයි ප්‍රවාහනය. අපේ රටේ ප්‍රධාන ගැටළුවක් තමයි ප්‍රවාහනය. සාමාන්‍ය මිනිස්සු භාවිතා කරන්නේ බස් රථ, කෝච්චිය නැත්නම් ත්‍රීවිල් එක වගේම පාසල් බස් රථ වැනි දේවල්. ඒවා හරියට පාලනය වෙන්නෙත් නැ. පහසුකම් ඇත්තෙත් නෑ. මේ ප්‍ර දේශයේ වැඩිපුරම කදුකර ප්‍රදේශයක් වතු ජනතාව ඉන්නේ ආර්ථික වශයෙන් අමාරු ප්‍රදේශයක්.
-
-නුවරඑලිය දිස්ත්‍රික්කයේ පාරවල් හදන්න විතරක් මිලියන 2500කට ආසන්න මුදලක් වෙන් කරලා තියනවා. මිලියන 300කට ආසන්න මුදලක් අලුතිනුත් ලබා දුන්නා පාරවල් හදන්න. පාරවල් හදනවට වඩා අමාරුයි කෝච්චි, ලංගම බස් රථ, පෞද්ගලික බස් රථ තරහා වෙලා වගේ නේ ඉන්නේ. එකම මිනිස්සු තැන් දෙකකින් බෝඩ් කරන්නේ. ඒ නිසා ඒකාබද්ධ කාලසටහනකට යා යුතුයි.
-
-...
-
-[Data](articles/d6aaafda.json)
-
----
-
-### Woman arrested in Dehiwala with narcotics pills worth over Rs. 500,000
-
-*2025-08-17 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111540/woman-arrested-in-dehiwala-with-narcotics-pills-worth-over-rs-500000) · `en`
-
-A woman has been arrested with a stock of narcotics valued at over Rs. 500,000 taken into custody by the Mount Lavinia Division Criminal Investigation Unit.
-
-Police said along with the suspect, 5,000 narcotic pills and Rs. 134,000 in cash believed to be earned from the drug trade were also seized.
-
-The raid was carried out based on a complaint that a woman residing in a two-storied house in Dehiwala was selling drugs.
-
-During a search conducted at the location, the stock of drugs was found hidden in a cupboard inside one of the rooms of the house.
-
-Police stated that the suspect had previously been arrested for possession of heroin.
-
-She is scheduled to be presented before the Mount Lavinia Magistrate’s Court.
-
-Investigations are being conducted by the Mount Lavinia Division Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/8ef9fd2d.json)
 
 ---

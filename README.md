@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 07:19:22**
+As of **2025-08-17 08:13:46**
 
 ## Newspaper Stats
 
-*Scraped **70,855** Articles*
+*Scraped **70,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
 adaderanalk | 8,853
-tamilmirrorlk | 10,428
+tamilmirrorlk | 10,430
 virakesarilk | 11,761
 adaderanasinhalalk | 12,221
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,855 articles have been extended.
+61,973 (87.5%) of 70,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ’இந்தியா மீது கூடுதல் வரி விதிக்கப்படாது’
+
+*2025-08-17 07:30:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-மீது-கூடுதல்-வரி-விதிக்கப்படாது/50-363022) · `ta`
+
+இந்தியா மீது கூடுதல் வரி விதிக்கப்படாது என்று அமெரிக்கா ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+ரஷ்ய ஜனாதிபதி விளாடிமிர் புடின் உடனான பேச்சுவார்த்தை ஆக்கப்பூர்வமான அமைந்ததாக கூறிய ட்ரம்ப், ரஷ்யாவிடம் இருந்து எண்ணெய் இறக்குமதி செய்யும் நாடுகளுக்கு கூடுதல் வரி விதிக்கப்பட்டால், அது அவர்களுக்கு பேரிழப்பாக அமையும் என்றும் தெரிவித்துள்ளார்
+
+இந்தியாவில் இருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு 25 சதவிகித வரி விதிக்கப்படும் என்று ட்ரம்ப் அறிவித்திருந்தார். அதுமட்டுமல்லாமல் ரஷ்யாவிடம் இருந்து கச்சா எண்ணெய் இறக்குமதி செய்வதால், இந்தியா மீது அபராதமும் விதித்தார். ரஷ்யாவிடம் இருந்து கச்சா எண்ணெய் வாங்குவதால், உக்ரைனுக்கு மீதான போருக்கு இந்தியா உதவுவதாகவும் குற்றம்சாட்டினார்.
+
+இதன் காரணமாக ஆகஸ்ட் 7ஆம் மேலும் 25 சதவிகித வரியை அமெரிக்கா விதித்தது. இந்த வரி விதிப்பு ஆகஸ்ட் 27ஆம் திகதி முதல் அமுலுக்கு வரவுள்ளது. ட்ரம்பின் இந்த நடவடிக்கை காரணமாக, இந்தியாவின் ஏற்றுமதி பல்வேறு பாதிப்புகளை சந்தித்தது. ஜவுளித்துறை, தோல், ரத்தினங்கள் உள்ளிட்ட பல்வேறு துறைகள் பாதிக்கும் அபாயம் ஏற்பட்டது.
+
+...
+
+[Data](articles/3e3f6c53.json)
+
+---
+
+### நல்லூர் ஆலயத்துக்கு வெடி குண்டு மிரட்டல்
+
+*2025-08-17 07:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-ஆலயத்துக்கு-வெடி-குண்டு-மிரட்டல்/175-363021) · `ta`
+
+யாழ்ப்பாணம், நல்லூர் கந்தசுவாமி ஆலயத்தில் வெடி குண்டு இருக்கின்றது என அநாமதேய தொலைபேசி அறிவிப்பு வந்ததால் அங்கு சோதனை நடவடிக்கை இடம்பெற்றது.
+
+நல்லூர் கந்தசுவாமி ஆலயத்தில் வருடாந்த மகோற்சவம் இடம்பெற்று வரும் நிலையில் ஆலயத்தில் வெடி குண்டு இருக்கின்றது என அநாமதேய தொலைபேசி அறிவிப்பு வந்ததால் நேற்று அங்கு சிறிது நேரம் சோதனை நடவடிக்கை இடம்பெற்றது.
+
+காலையில் பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் பொலிஸார், விசேட அதிரடிப் படையினர் சகிதம் சோதனையில் ஈடுபட்டு எந்தவிதமான ஆபத்தை ஏற்படுத்தும் வெடிபொருள்களும் இல்லை எனபதனை உறுதி செய்தனர். (a)
+
+◼️
+
+[Data](articles/30dc1061.json)
+
+---
 
 ### ගාලු කුමාරි පීලි ගත කිරීමේ කටයුතු තවදුරටත්
 
@@ -1805,37 +1839,5 @@ Turning to Putin, he said: “We’ll probably see you again very soon.”
 ...
 
 [Data](articles/f0a3f640.json)
-
----
-
-### Indian High Commission celebrates 79th Independence Day
-
-*2025-08-16 00:12:54* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commission-celebrates-79th-Independence-Day/56-780368) · `en`
-
-The 79th Independence Day of India was celebrated with great fervour in different parts of Sri Lanka yesterday. The main event in Colombo was held at ‘India House,’ the official residence of High Commissioner of India. High Commissioner of India to Sri Lanka Santosh Jha hoisted India’s National Flag and inspected the Guard of Honour. He also read excerpts of the address by President of India to the nation on the eve of the 79th Independence Day.
-
-Several cultural events added vibrancy to the celebrations, with the Sri Lanka Navy Band delivering melodious tunes embodying valour and patriotism, while students of the Swami Vivekananda Cultural Centre performed famous patriotic songs.
-
-High Commissioner and officers of High Commission of India also paid homage at the Indian Peace Keeping Force (IPKF) Memorial to the memory of the Indian soldiers of IPKF who made the supreme sacrifice defending peace and unity of Sri Lanka.
-
-...
-
-[Data](articles/280837ee.json)
-
----
-
-### New think-tank on Asian geopolitics, sustainability and peace launching on Wednesday
-
-*2025-08-16 00:11:18* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-on-Asian-geopolitics-sustainability-and-peace-launching-on-Wednesday/56-780367) · `en`
-
-A new think tank, the Asian Geopolitics, Sustainability and Peace Council (AGSPeC), will be launched on 20 August at the Sri Lanka Foundation Institute, Colombo.
-
-AGSPeC will focus on geopolitical issues, peace, and sustainable development across Asia. It will bring together scholars, diplomats, policymakers, and civil society representatives to produce research, policy recommendations, and collaborative initiatives addressing geopolitical, security, and environmental challenges. AGSPeC is led by President Prof. Mohan Munasinghe, with a team of specialists in strategic affairs, diplomacy, and sustainable development.
-
-“The goal is to facilitate informed dialogue that bridges political divides and promotes Sri Lanka’s strategic interests in a rapidly changing world,” said Prof. Munasinghe. “We believe that constructive engagement between independent institutions, policymakers, a well-informed public, and the international community is essential for a stable and prosperous Sri Lanka.”
-
-...
-
-[Data](articles/a74c82ae.json)
 
 ---

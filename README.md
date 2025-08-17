@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 01:49:21**
+As of **2025-08-18 02:07:13**
 
 ## Newspaper Stats
 
-*Scraped **70,989** Articles*
+*Scraped **70,993** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
-colombotelegraphcom | 725
+colombotelegraphcom | 727
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,996
+dailyftlk | 4,998
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,11 +26,47 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,989 articles have been extended.
+61,973 (87.3%) of 70,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### UN Rights report details Lankan security forces abuses
+
+*2025-08-18 01:43:05* · [`dailyftlk`](https://www.ft.lk/news/UN-Rights-report-details-Lankan-security-forces-abuses/56-780417) · `en`
+
+Human Rights Watch urges UN Human Rights Council to adopt resolution that promotes accountability
+
+Human Rights Watch said on Friday the UN Human Rights Office’s report on Sri Lanka details entrenched and systemic rights violations—including arbitrary detention, torture, and deaths in custody—under President Anura Kumara Disanayake.
+
+The new report by UN High Commissioner for Human Rights Volker Türk also describes the misuse of draconian laws to silence families and activists campaigning for justice and says that continued international engagement through the UN Human Rights Council is “essential.”
+
+...
+
+[Data](articles/691579f9.json)
+
+---
+
+### Govt. calls for calm amid hartal in North and East over Mullaitivu death
+
+*2025-08-18 01:41:36* · [`dailyftlk`](https://www.ft.lk/news/Govt-calls-for-calm-amid-hartal-in-North-and-East-over-Mullaitivu-death/56-780416) · `en`
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa claims deceased allegedly tried to forcibly enter military camp of 12th Battalion, Sinha Regiment, slated for evacuation
+
+Says three Army personnel arrested and handed to Court; investigations continue
+
+Alleges political groups spread misinformation to create unrest, calls for peaceful public action
+
+Political parties supporting ITAK hartal include; SLMC, TPA, TNA and CWC
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday urged residents of the North and East to remain calm and avoid being misled by misinformation aimed at undermining the Government and the country’s security forces.
+
+...
+
+[Data](articles/bc506b15.json)
+
+---
 
 ### JAT continues momentum to FY 2025/26 with  20% PAT growth in Q1
 
@@ -552,6 +588,18 @@ A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්ත
 
 ---
 
+### Circular Economy: Philosophy, History, & Prospects
+
+*2025-08-17 20:05:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/circular-economy-philosophy-history-prospects/) · `en`
+
+The core principle of circular economy underlies the need for putting the scarce and limited resources to the maximum use by people. It requires people to recycle what is being used on one side and establish a production model that would use the output of one economic activity as inputs for another economic activity, on the other. This differs from the existing linear economic model in which resources are converted to outputs for use by people. Once used, they disappear from the system leading to the accumulation of waste-matter in environment. Thus, in the circular system, resources are put to the maximum use before they disappear from the system.
+
+...
+
+[Data](articles/d0433765.json)
+
+---
+
 ### அமைச்சரவை அமைச்சர்களுக்கு எதிராக மாத்திரமே நம்பிக்கையில்லா பிரேரணையை முன்வைக்க முடியும் என்ற தர்க்கம் தவறானது - அஜித் பி பெரேரா விளக்கம்
 
 *2025-08-17 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222763) · `ta`
@@ -665,6 +713,18 @@ A provincial rescue spokesman told news agency AFP that “10 to 12 entire villa
 ...
 
 [Data](articles/e7a1ba0d.json)
+
+---
+
+### The Decline Of The Tie In The West: A Cultural Shift Towards Comfort & Practicality
+
+*2025-08-17 19:07:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-decline-of-the-tie-in-the-west-a-cultural-shift-towards-comfort-practicality/) · `en`
+
+The decline of the tie in Western professional attire marks a significant cultural shift in workplace standards and societal perceptions of formality. The business casual movement, which took root in Europe during the late twentieth century, has gradually permeated various sectors, including finance and law. This trend accelerated after the 2000s, particularly within technology and creative industries, where the emphasis on comfort and personal expression began to supersede traditional dress codes. Open collars, breathable fabrics, and relaxed tailoring have become synonymous with professionalism, signifying a departure from stiff formalwear.
+
+...
+
+[Data](articles/82cd2cf5.json)
 
 ---
 
@@ -1743,79 +1803,5 @@ Investigations are being conducted by the Mount Lavinia Division Criminal Invest
 ◼️
 
 [Data](articles/8ef9fd2d.json)
-
----
-
-### நீரில் மூழ்கி  இதுவரை  257  பலி
-
-*2025-08-17 10:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இதுவரை-257-பலி/175-363037) · `ta`
-
-நாடு முழுவதும் இந்த ஆண்டு (2025) இதுவரை  நீரில் மூழ்கிய  சம்பவங்களில் சுமார் 257 பேர் இறந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பாதிக்கப்பட்டவர்களில் 220 ஆண்களும் 37 பெண்களும் அடங்குவர் என்று பொலிஸ் ஊடக செய்தித் தொடர்பாளர் ஏஎஸ்பி எஃப்.யு.வுட்லர் குறிப்பிட்டுள்ளார்.
-
-இதற்கிடையில், பொலிஸ் உயிர்காக்கும் பிரிவு நீரில் மூழ்கிய 102 பேரை மீட்டுள்ளது. இதில் 69 உள்ளூர் சுற்றுலாப் பயணிகள் மற்றும் 33 வெளிநாட்டு சுற்றுலாப் பயணிகள் அடங்குவர் என்று ஏஎஸ்பி வுட்லர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/1d805fb0.json)
-
----
-
-### நீரில் மூழ்கி  இதுவரை  257  பேர் பலி
-
-*2025-08-17 10:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இதுவரை-257-பேர்-பலி/175-363037) · `ta`
-
-நாடு முழுவதும் இந்த ஆண்டு (2025) இதுவரை  நீரில் மூழ்கிய  சம்பவங்களில் சுமார் 257 பேர் இறந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பாதிக்கப்பட்டவர்களில் 220 ஆண்களும் 37 பெண்களும் அடங்குவர் என்று பொலிஸ் ஊடக செய்தித் தொடர்பாளர் ஏஎஸ்பி எஃப்.யு.வுட்லர் குறிப்பிட்டுள்ளார்.
-
-இதற்கிடையில், பொலிஸ் உயிர்காக்கும் பிரிவு நீரில் மூழ்கிய 102 பேரை மீட்டுள்ளது. இதில் 69 உள்ளூர் சுற்றுலாப் பயணிகள் மற்றும் 33 வெளிநாட்டு சுற்றுலாப் பயணிகள் அடங்குவர் என்று ஏஎஸ்பி வுட்லர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/c1c23bf0.json)
-
----
-
-### Erin strengthens to a Category 5 hurricane, NHC says
-
-*2025-08-17 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111539/erin-strengthens-to-a-category-5-hurricane-nhc-says) · `en`
-
-Hurricane Erin, the first hurricane of the 2025 Atlantic season, has become a catastrophic Category 5 hurricane, the US National Hurricane Center said on Saturday (Aug 16).
-
-The storm is currently 170 km north of Anguilla, with maximum sustained winds near 255 km/h.
-
-The NHC said on Friday that Erin is expected to strengthen over the southwestern Atlantic through the weekend and into next week.
-
-Swells generated by Erin will affect portions of the northern Leeward Islands, the Virgin Islands, Puerto Rico, Hispaniola, and the Turks and Caicos Islands through the weekend, the NHC said earlier on Saturday.
-
-The swells will spread to the Bahamas, Bermuda and the East Coast of the United States early next week, it said.
-
-...
-
-[Data](articles/72fee28b.json)
-
----
-
-### රුපියල් ලක්ෂ පහකට අධික මත් කරල් තොගයක් සමග කාන්තාවක් අත්අඩංගුවට
-
-*2025-08-17 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213464) · `si`
-
-රුපියල් ලක්ෂ 05කට අධික මත්කරල් තොගයක් සමග කාන්තාවක් අත්අඩංගුවට ගැනීමට ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය සමත්ව තිබේ.
-
-සැකකාරිය සමග මත්කරල් 5,000ක් සහ එම ජාවාරමෙන් උපයා ගන්නා ලද මුදලින් රුපියල්  134,000ක්ද මෙහිදී පොලිස් භාරයට ගෙන ඇත.
-
-දෙහිවල ප්‍රදේශයේ දෙමහල් නිවසක පදිංචි කාන්තාවක් විසින් මත්කරල් අලෙවි කරන බවට ලද පැමිණිල්ලක් මත මෙම වැටලීම සිදුකර තිබේ.
-
-එහිදී සිදුකරන ලද සෝදිසියේදී නිවසේ කාමරයක තිබූ අල්මාරියක සඟවා මෙම මත් කරල් තොගය පොලීසියි විසින් සොයාගෙන ඇත.
-
-පොලීසිය පැවසුවේ අත්අඩංගුවට ගත් සැකකාරිය මින් පෙරද හොරොයින් සමග පොලිස් අත්අඩංගුවට පත්වී ඇති බවය.
-
-අත්අඩංගුවට ගත් කාන්තාව 31 හැවිරිදි වියේ පසුවන එම ප්‍රදේශයේ පදිංචිකාරියකි.
-
-◼️
-
-[Data](articles/2a8652ce.json)
 
 ---

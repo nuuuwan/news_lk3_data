@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 18:31:12**
+As of **2025-08-17 18:55:31**
 
 ## Newspaper Stats
 
-*Scraped **70,945** Articles*
+*Scraped **70,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,846
 adaderanalk | 8,876
 tamilmirrorlk | 10,455
 virakesarilk | 11,769
-adaderanasinhalalk | 12,236
+adaderanasinhalalk | 12,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,945 articles have been extended.
+61,973 (87.4%) of 70,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### අයහපත් කාලගුණය පාකිස්තානයේ  ජීවිත 500ක් බිලිගනී
+
+*2025-08-17 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213478) · `si`
+
+පාකිස්තානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම වසරේ ඉකුත් ජුනි මස අග සිට මේ දක්වා වූ කාලය තුළ අවම වශයෙන් පුද්ගලයින් 500ක් පමණ ජීවිතක්ෂයට පත්ව ඇති බව එරට ආපදා අංශ තහවුරු කර ඇත.
+
+පාකිස්තානයේ මෝසම් සමය සාමාන්‍යයෙන් ජූලි සිට සැප්තැම්බර් දක්වා පවතින අතර මෙම කාලසීමාවේ දී වාර්ෂික වර්ෂාපතනයෙන් සැලකිය යුතු කොටසක් ලැබේ.
+
+ඒ හේතුවෙන් වසරේ ජූලි - සැප්තැම්බර් යනු එරට වයඹ හා උතුර ප්‍රදේශව නිරන්තයෙන් ස්වභාවික ව්‍යසනයන්ට මුහුණදෙන කාලසීමාවකි.
+
+පාකිස්තානයේ ආපදා කළමනාකරණ පෙන්වා දෙන්නේ බොහෝ දෙනෙක් දියේ ගිලී හෝ ඔවුන්ගේ නිවාස කඩා වැටීම හේතුවෙන් ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+ඉන් දිවි ගලවාගත් පිරිස ජලයෙන් බෝවන මාරාන්තික රෝගවලට මුහුණ දෙන බවද ඔවුන් සඳහන් කර සිටී.
+
+මිලියන 250ක පමණ ජනතාවක් වෙසෙන පාකිස්තානය, ගෝලීය වායු දූෂණයෙන් 0.5% කට පමණක් වගකිව යුතු වුවද, ලෝකයේ වඩාත්ම දේශගුණික අවදානමට ලක්විය හැකි රටවලින් එකකි.
+
+අයහපත් කාලගුණය නිසා මේ වසරේ මෙතෙක් ඇති වූ මාරාන්තිකම සිදුවීම වූයේ පසුගිය සතියේ පැය 24 ක් තුළ ඇති වූ හදිසි ගංවතුරෙන් පුද්ගලයින් 180 කට වැඩි පිරිසක් මියයාමේ සිදු වීමය.
+
+...
+
+[Data](articles/e3ff097e.json)
+
+---
 
 ### அமெரிக்கா: புரூக்ளின் உணவகத்தில் துப்பாக்கிச் சூடு – 3 பேர் பலி, 8 பேர் காயம்
 
@@ -1815,25 +1839,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ◼️
 
 [Data](articles/509358e2.json)
-
----
-
-### Sri Lanka trains state officers on use of AI
-
-*2025-08-16 19:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-trains-state-officers-on-use-of-ai-236652/) · `en`
-
-ECONOMYNEXT – Sri Lanka has conducted a workshop for government officers on the use of Artificial Intelligence (AI) to transform the public service into ‘a productive and efficient service’ the president’s media division said.
-
-The “AI for Transforming Public Service” program was attended by executive officers from 10 ministries, including the Prime Minister’s Office and the Cabinet Office.
-
-“The objective of the workshop was to raise awareness and prepare government officials as an initial step in the state’s digital transformation agenda and to foster a positive attitude towards artificial intelligence within the public service,” the PMD said.
-
-It was organized by the Ministry of Digital Economy and the Presidential Secretariat.
-
-Hans Wijayasuriya delivered the keynote address, and Information and Communication Technology Agency of Sri Lanka (ICTA) Board Member Harsha Purasinghe and other officials were resource persons at the workshop.
-
-...
-
-[Data](articles/131f7a2c.json)
 
 ---

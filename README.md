@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 04:49:04**
+As of **2025-08-18 05:07:00**
 
 ## Newspaper Stats
 
-*Scraped **70,999** Articles*
+*Scraped **71,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,328
+economynextcom | 4,330
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,999 articles have been extended.
+61,973 (87.3%) of 71,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -722,6 +722,26 @@ The core principle of circular economy underlies the need for putting the scarce
 
 ---
 
+### Sri Lanka’s inflexible labour laws may be hurting tech investments: PE fund
+
+*2025-08-17 19:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-inflexible-labour-laws-may-be-hurting-tech-investments-pe-fund-236914/) · `en`
+
+ECONOMYNEXT – Sri Lanka should modernize its labour laws to take into account industry specific factors and emerging global changes, a private equity fund manager targeting South and South East Asia has said.
+
+Already industries operated under distinct laws, such as Shop and Office Employees Act, the Factory Ordinance Act for manufacturing, and the Mining Act for extractive industries.
+
+Many of these laws however were designed for a manufacturing economy of the past, Arj Samarakoon, head of Plus94 Fund has said at forum on labour reforms.
+
+“Labour laws are there to protect employees and to support healthy relationships with employers, but they should not be crafted in a way that hinders ethical employers from running their businesses,” Arj Samarakoon, he was quoted as saying in a statement.
+
+Sri Lanka’s Shop and Office Act, which applies to the IT sector still restricted women working after 6.00 pm.
+
+...
+
+[Data](articles/b6f006f8.json)
+
+---
+
 ### அமெரிக்காவில் உணவகத்தில் துப்பாக்கிச் சூடு – 3 பேர் பலி, 8 பேர் காயம்
 
 *2025-08-17 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/222759) · `ta`
@@ -1001,6 +1021,28 @@ He charged that it appears certain political groups are attempting to create unr
 ◼️
 
 [Data](articles/0a658c64.json)
+
+---
+
+### Vietnam’s Cuu Long University gives Sri Lanka students full scholarships
+
+*2025-08-17 17:32:00* · [`economynextcom`](https://economynext.com/vietnams-cuu-long-university-gives-sri-lanka-students-full-scholarships-236882/) · `en`
+
+ECONOMYNEXT – Vietnam’s Cuu Long University has awarded five full scholarships to students in Sri Lanka to study in the South East Asian nation for five years.
+
+The first four selected students met Vietnam’s Ambassador to Sri Lanka Trinh Thi Tam before leaving to begin their studies on August 18, the online portal Nguoi Lao Dong News reported.
+
+After studying Vietnamese for one year, the students would take an undergraduate course for four years.
+
+There was also the option of taking a graduate program for two years.
+
+Cuu Long University would provide free tuition, free dormitory with wifi and electricity, a living allowance of about 3.6 million dong (about 140 US dollars) as well as a roundtrip air ticket, the report said.
+
+The students will study at the main campus selected majors aligned with Sri Lanka’s development needs, including High-Tech Agriculture, Business Administration, Information Technology, Public Health, and Linguistics.
+
+...
+
+[Data](articles/f78fe758.json)
 
 ---
 
@@ -1767,39 +1809,5 @@ However, he stressed that there is currently no political pressure on law enforc
 ...
 
 [Data](articles/aae8b48f.json)
-
----
-
-### புட்டினுக்கு டிரம்ப் மனைவி எழுதிய முக்கிய கடிதம்
-
-*2025-08-17 11:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புட்டினுக்கு-டிரம்ப்-மனைவி-எழுதிய-முக்கிய-கடிதம்/50-363042) · `ta`
-
-சர்வதேச ராணுவ கூட்டமைப்பான நேட்டோ அமைப்பில் இணைய உக்ரைன் முடிவு செய்தது. இதனால் தங்கள் நாட்டுக்கு பாதிப்பு ஏற்படும் என்று கருதிய ரஷ்யா அதனை கடுமையாக எதிர்த்தது. உக்ரைன் தனது முடிவில் உறுதியாக இருந்ததால், அந்த நாட்டின் மீது ரஷ் யா கடந்த 2022-ம் ஆண்டு தாக்குதலை தொடங்கியது. இந்த தாக்குதல் 3 ஆண்டுகளுக்கும் மேலாக நீடித்து வருகிறது.
-
-உக்ரைன் மீதான தாக்குதலை நிறுத்த அமெரிக்கா ஜனாதிபதி டிரம்ப் முயற்சி செய்து வருகிறார். இதற்காக ரஷ் ய ஜனாதிபதி விளாடிமிர் புட்டினுடன் பேச்சுவார்த்தை நடத்தப்படும் என்று அறிவித்தார். அதன்படி  அமெரிக்காவின் மத்திய மாகாணமான அலாஸ்காவில் இருநாட்டு தலைவர்களும், சனிக்கிழமை (16) பேச்சுவார்த்தை நடத்தினர். இரண்டரை மணி நேரம் இந்த பேச்சுவார்த்தை நீடித்தது.
-
-பேச்சுவார்த்தைக்குப் பிறகு செய்தியாளர்களைச் சந்தித்த ரஷ்ய ஜனாதிபதி புட்டின், "இந்த பேச்சுவார்த்தை முன்பே நடந்திருக்க வேண்டும். தாமதமாக நடந்துள்ளது. ஆனாலும் இது சரியான நேரம். அப்போது ஜோபைடன் இடத்தில் டிரம்ப் இருந்திருந்தால், உக்ரைன் போர் ஏற்பட்டு இருக்காது. இப்போது ஒரு புரிதல் ஏற்பட்டுள்ளது" என்றார்.
-
-...
-
-[Data](articles/01893823.json)
-
----
-
-### Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war
-
-*2025-08-17 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111542/israel-prepares-to-move-palestinians-to-southern-gaza-as-israelis-urge-mass-protest-over-war) · `en`
-
-Israel announced Saturday that it is preparing to move Palestinians from combat zones to southern Gaza as plans move ahead for a military offensive in some of the territory’s most populated areas.
-
-The Israeli military body in charge of humanitarian aid to Gaza, COGAT, said the supply of tents to the territory would resume on Sunday. The military said it had no comment on when the mass movement of Palestinians would begin, but Defense Minister Israel Katz said on social media that “we are now in the stage of discussions to finalize the plan to defeat Hamas in Gaza.”
-
-Meanwhile, anxious families of Israeli hostages called for a “nationwide day of stoppage” in Israel on Sunday to express growing frustration over 22 months of war.
-
-Families of hostages fear the coming offensive further endangers the 50 hostages remaining in Gaza, just 20 of them thought to still be alive.
-
-...
-
-[Data](articles/805a1f8d.json)
 
 ---

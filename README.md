@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 16:47:54**
+As of **2025-08-17 17:04:55**
 
 ## Newspaper Stats
 
-*Scraped **70,935** Articles*
+*Scraped **70,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,844
-adaderanalk | 8,874
+adalk | 6,845
+adaderanalk | 8,875
 tamilmirrorlk | 10,452
 virakesarilk | 11,768
 adaderanasinhalalk | 12,234
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,935 articles have been extended.
+61,973 (87.4%) of 70,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### 53-year-old killed in wild elephant attack in Ambanpola
+
+*2025-08-17 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111553/53-year-old-killed-in-wild-elephant-attack-in-ambanpola) · `en`
+
+An individual has died after being attacked by a wild elephant in the Ambanpola area.
+
+The victim, who sustained critical injuries in the elephant attack, was hospitalized and reportedly succumbed to his injuries while receiving treatment.
+
+The deceased was a 53-year-old resident of the Ambanpola area.
+
+The investigation conducted so far has revealed that the person was attacked by the wild elephant while trying to drive it away from his land.
+
+◼️
+
+[Data](articles/60bd3b3e.json)
+
+---
 
 ### උතුරු - නැගෙනහිර හර්තාලය ගැන රජයේ මතය
 
@@ -101,6 +119,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/095f84aa.json)
+
+---
+
+### දියතලාව මුලික රෝහල ඒ මට්ටමේ රෝහලක් ලෙස සංවර්ධනය කිරීමට අවධානය
+
+*2025-08-17 15:54:14* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාව-මුලික-රෝහල-ඒ-මට්ටමේ-රෝහලක්-ලෙස-සංවර්ධනය-කිරීමට-අවධානය/11-417953) · `si`
+
+ජනගහණය, ස්වභාවික සම්පත් සහ පහසුකම්, ඌණතා සහ දුෂ්කරතා ආදී සියල්ල බද්ධ වන මෙරට ආර්ථිකයේ ප්‍රධාන කේන්ද්‍රස්ථානයක් මෙන්ම සංචාරක ව්‍යාපාරයට ද මුලිකත්වයක් හිමිවන  දියතලාව ප්‍රදේශය කේන්ද්‍ර කර ගනිමින් දියතලාව මුලික රෝහල දැනට තිබෙන අක්කර 07 ක  භූමි සීමාව තුළ මුලික රෝහල (ඒ) හැටියට උපරිම මට්ටමට දියුණු කිරීම සෞඛ්‍ය අමාත්‍යාංශයේ පළමු බලාපොරොත්තුව බව මෙහි දී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා පෙන්වා දෙන ලදි.
+
+බණ්ඩාරවෙල රෝහල මූලික රෝහලක් බවට පත් කිරීම දියතලාව රෝහල මුලික රෝහලක් තත්ත්වයෙන් ඉවත් කිරීමක් නොවන බවත්, දියතලාව මුලික රෝහලේ පහසුකම් අඩු කර බණ්ඩාරවෙල මුලික රෝහල සංවර්ධනය නොකරන බව ද  මෙම මුලික රෝහල් 02 ක ම අත්‍යාවශ්‍ය රෝහල් දෙකක් වන බැවින් රෝහල් දෙකටම අවශ්‍ය පහසුකම් ලබා දී සංවර්ධනය කිරීමට පියවර ගන්නා බව ද අමාත්‍යවරයා මෙහි දී පෙන්වා දෙන ලදි.
+
+සංචාරක ක්ෂේත්‍රයේ සෞඛ්‍ය අවශ්‍යතා මෙන් ම ප්‍රදේශයේ  ජනතාවට සෞඛ්‍ය සේවා සපයන රෝහලක් ලෙස දියතලාව මුලික රෝහල හැදින්විය හැකි බවත්, එය විශේෂ තත්ත්වයක් බවත් අමාත්‍යවරයා මෙහිදී සිහිපත් කළේය.
+
+...
+
+[Data](articles/145092b7.json)
 
 ---
 
@@ -1346,20 +1380,6 @@ It has also been reported that the train scheduled to operate from Beliatta will
 
 ---
 
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-17 07:01:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
-
----
-
 ### Air Canada flights cancelled as strike begins
 
 *2025-08-17 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111534/air-canada-flights-cancelled-as-strike-begins) · `en`
@@ -1545,6 +1565,20 @@ The provincial rescue agency told AFP that around 2,000 rescue workers were enga
 ...
 
 [Data](articles/1a72e315.json)
+
+---
+
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
 
 ---
 
@@ -1807,37 +1841,5 @@ In a post on X on Friday, the Navy spokesperson said the ships were welcomed war
 ...
 
 [Data](articles/276f5ec5.json)
-
----
-
-### Israeli Massacre Of Palestinian Journalists: Move To Hide Forthcoming Ethnic Cleansing Of Palestinians
-
-*2025-08-16 18:01:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/israeli-massacre-of-palestinian-journalists-move-to-hide-forthcoming-ethnic-cleansing-of-palestinians/) · `en`
-
-Under its well established policy to mislead the world of its barbarity the  settler-fascist colonial state of Israel massacred  Anas al-Sharif, one of Al Jazeera’s most recognizable faces in Gaza, Mohammed Qraiqea and five others in an attack on tent for journalists in al-Shifa hospital in Gaza. This was no accident of war. It was a precision attack – the deliberate erasure of journalists who would not stop telling the truth.
-
-The killings came after weeks of public incitement against Al Jazeera reporters, particularly al-Sharif. Israeli army spokesperson for Arabic media, Avichay Adraee, had singled him out in recent online posts, accusing him of spreading “false propaganda”.  This, perhaps, is the prelude to a larger massacre which is about to take place for Israeli to takeover Gaza City and forcefully ethnic cleanse Palestinians. There were even reports that discussions were underway to settle Gaza Palestinians in South Sudan.
-
-...
-
-[Data](articles/1f8c0072.json)
-
----
-
-### ගාලු කුමාරී පීලි පනී
-
-*2025-08-16 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213450) · `si`
-
-මුහුදුබඩ දුම්රිය මාර්ගයේ ගිංතොට දුම්රිය ස්ථානයේදී දුම්රියක් පීලි පැනීමකට ලක්වී තිබේ.
-
-මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වන අංක 8056A ගාලු කුමාරී සීඝ්‍රගාමී දුම්රිය මෙලෙස පීලි පැනීමකට ලක්ව ඇති බව වාර්තා වෙයි.
-
-ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ ගමනාගමන කටයුතු මේ වන විට අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා පමණක් සීමා කිරීමට සිදුව ඇත.
-
-දුම්රිය පිලි පැනීම හේතුවෙන් දුම්රිය මාර්ගයට ද විශාල වශයෙන් හානී සිදුව ඇතිබව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/e17a6643.json)
 
 ---

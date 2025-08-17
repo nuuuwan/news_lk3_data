@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 12:48:59**
+As of **2025-08-17 13:06:59**
 
 ## Newspaper Stats
 
-*Scraped **70,897** Articles*
+*Scraped **70,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,326
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,839
-adaderanalk | 8,861
+adalk | 6,840
+adaderanalk | 8,867
 tamilmirrorlk | 10,448
 virakesarilk | 11,763
 adaderanasinhalalk | 12,226
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,226
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,897 articles have been extended.
+61,973 (87.4%) of 70,904 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2c4c80e8.json)
+
+---
+
+### Another 609 individuals nabbed during special island-wide police raids
+
+*2025-08-17 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111544/another-609-individuals-nabbed-during-special-island-wide-police-raids-) · `en`
+
+A total of 609 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (16).
+
+As part of the operation, 26,607 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 21 individuals directly linked to criminal activities while 439 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 74 drunk drivers were apprehended while a further 115 reckless drivers and 3,539 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/28d82a8f.json)
+
+---
+
+### Govt fully supports action taken against underworld figures: New IGP
+
+*2025-08-17 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111543/govt-fully-supports-action-taken-against-underworld-figures-new-igp) · `en`
+
+A more advanced strategy is now being implemented to suppress underworld crimes, replacing the existing approaches, according to Inspector General of Police (IGP) Priyantha Weerasooriya.
+
+The IGP stated that efforts are being made to combat crimes with the support of the tri-forces and the general public.
+
+He made these remarks after calling on the Chief Prelates of the Asgiri and Malwathu chapters.
+
+Speaking to media in Kandy, IGP Priyantha Weerasooriya also noted that certain underworld activities and drug trafficking operations have received political backing, as well as support from some police officers.
+
+However, he stressed that there is currently no political pressure on law enforcement, and that the government fully supports taking action against criminals.
+
+...
+
+[Data](articles/69c1382f.json)
 
 ---
 
@@ -86,6 +126,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ධීවර අමාත්‍යාංශයේ ශීතාගාර සියයට 90ක් බදු දීලා
+
+*2025-08-17 11:35:38* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-අමාත්‍යාංශයේ-ශීතාගාර-සියයට-90ක්-බදු-දීලා/11-417948) · `si`
+
+ධිවර අමාත්‍යංශයට අයත් ශිතාගාර වලින් සියයට 90ක් පමණ පුද්ගලික අංශයට බදු පදනම මත ලබාදි ඇති බවත්  ඉදිරියේ දි මෙකි ශිතාගාර යලි රජයට අත්පත්කරගැනිමට  කටයුතු කරණ බවත් ධිවර හා ජලජසම්පත් සංවර්ධන  නියෝජ්‍ය අමාත්‍ය රත්න ගමගේ මහතා පවසයි.
+
+අක්මිමන සම්බන්දිකරණ කමිටු රැස්විමෙන් පසු මාධ්‍යයට අදහස් දක්වමින් නියෝජ්‍ය ඇමතිවරයා මේ බව සදහන් කළේය. මේ වනවිටත් අදාළ බදු ගිවිසුම් නිතිපති දෙපාර්තමේන්තුව වෙත යොමුකොට ඇති බවද හෙතම පවසයි. රජයට අයත්ව තිබු  මෙකි ශිතාගාර  පසුගිය රජයන් මගින් අවුරුදු 33 ,50 යන වර්ෂ සදහා බදු පදනම මත පුද්ගලික අංශය වෙත ලබාදි ඇති බවද ධිවර නියෝජ්‍ය ඇමතිවරයා පවසයි.
+
+නව ශිතාගාර ස්ථාපිත කිරිම සදහා විදේශිය රටවල් කිහිපයක් සමග සාකච්ඡාකොට ඇති බවත් පුද්ගලික ව්‍යවසායකයින් සදහාද  ඒ සදහා අවස්ථාව ලබාදෙන බව සදහන් කළ නියෝජ්‍ය ඇමතිවරයා වාරකන් නැති කාලයට ධිවරකාර්මිකයින් විසින් නෙලාගනු ලබන මත්ස්‍ය අස්වැන්න ගබඩාකිරිම සදහා ක්‍රියාවලියක් නොමැති බවත් ඉදිරි අයවැය මගින් ශිතාගාර ස්ථාපිත එම ක්‍රියාවලිය යල සක්‍රිය කිරිමට  කටයුතු කරණ බවද හෙතෙම පවසයි.
+
+...
+
+[Data](articles/aae8b48f.json)
+
+---
+
 ### புட்டினுக்கு டிரம்ப் மனைவி எழுதிய முக்கிய கடிதம்
 
 *2025-08-17 11:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புட்டினுக்கு-டிரம்ப்-மனைவி-எழுதிய-முக்கிய-கடிதம்/50-363042) · `ta`
@@ -99,6 +155,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/01893823.json)
+
+---
+
+### Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war
+
+*2025-08-17 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111542/israel-prepares-to-move-palestinians-to-southern-gaza-as-israelis-urge-mass-protest-over-war) · `en`
+
+Israel announced Saturday that it is preparing to move Palestinians from combat zones to southern Gaza as plans move ahead for a military offensive in some of the territory’s most populated areas.
+
+The Israeli military body in charge of humanitarian aid to Gaza, COGAT, said the supply of tents to the territory would resume on Sunday. The military said it had no comment on when the mass movement of Palestinians would begin, but Defense Minister Israel Katz said on social media that “we are now in the stage of discussions to finalize the plan to defeat Hamas in Gaza.”
+
+Meanwhile, anxious families of Israeli hostages called for a “nationwide day of stoppage” in Israel on Sunday to express growing frustration over 22 months of war.
+
+Families of hostages fear the coming offensive further endangers the 50 hostages remaining in Gaza, just 20 of them thought to still be alive.
+
+...
+
+[Data](articles/805a1f8d.json)
+
+---
+
+### More skilled jobs for Sri Lankans in Singapore?
+
+*2025-08-17 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111541/more-skilled-jobs-for-sri-lankans-in-singapore) · `en`
+
+A discussion has been held in a bid to strengthen collaboration in labour-related matters, particularly to explore avenues to generate job opportunities for Sri Lankan nationals in Singapore in sectors such as hospitality, healthcare, and manufacturing.
+
+The discussion in this regard was held between the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando, and the Minister of State, Ministry of Culture, Community and Youth & Ministry of Manpower of Singapore, Dinesh Vasu Dash.
+
+Minister Fernando was in Singapore to participate in the Invest Sri Lanka Investor Forum organized by the Securities and Exchange Commission of Sri Lanka and Colombo Stock Exchange in association with the High Commission of Sri Lanka in Singapore.
+
+...
+
+[Data](articles/a84a6a55.json)
 
 ---
 
@@ -146,6 +236,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Woman arrested in Dehiwala with narcotics pills worth over Rs. 500,000
+
+*2025-08-17 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111540/woman-arrested-in-dehiwala-with-narcotics-pills-worth-over-rs-500000) · `en`
+
+A woman has been arrested with a stock of narcotics valued at over Rs. 500,000 taken into custody by the Mount Lavinia Division Criminal Investigation Unit.
+
+Police said along with the suspect, 5,000 narcotic pills and Rs. 134,000 in cash believed to be earned from the drug trade were also seized.
+
+The raid was carried out based on a complaint that a woman residing in a two-storied house in Dehiwala was selling drugs.
+
+During a search conducted at the location, the stock of drugs was found hidden in a cupboard inside one of the rooms of the house.
+
+Police stated that the suspect had previously been arrested for possession of heroin.
+
+She is scheduled to be presented before the Mount Lavinia Magistrate’s Court.
+
+Investigations are being conducted by the Mount Lavinia Division Criminal Investigation Unit.
+
+◼️
+
+[Data](articles/8ef9fd2d.json)
+
+---
+
 ### நீரில் மூழ்கி  இதுவரை  257  பலி
 
 *2025-08-17 10:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இதுவரை-257-பலி/175-363037) · `ta`
@@ -175,6 +289,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c1c23bf0.json)
+
+---
+
+### Erin strengthens to a Category 5 hurricane, NHC says
+
+*2025-08-17 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111539/erin-strengthens-to-a-category-5-hurricane-nhc-says) · `en`
+
+Hurricane Erin, the first hurricane of the 2025 Atlantic season, has become a catastrophic Category 5 hurricane, the US National Hurricane Center said on Saturday (Aug 16).
+
+The storm is currently 170 km north of Anguilla, with maximum sustained winds near 255 km/h.
+
+The NHC said on Friday that Erin is expected to strengthen over the southwestern Atlantic through the weekend and into next week.
+
+Swells generated by Erin will affect portions of the northern Leeward Islands, the Virgin Islands, Puerto Rico, Hispaniola, and the Turks and Caicos Islands through the weekend, the NHC said earlier on Saturday.
+
+The swells will spread to the Bahamas, Bermuda and the East Coast of the United States early next week, it said.
+
+...
+
+[Data](articles/72fee28b.json)
 
 ---
 
@@ -584,11 +718,19 @@ In subsequent posts on X Saturday, Loomer took credit for the shift and thanked 
 
 *2025-08-17 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111535/train-services-between-colombo-and-beliatta-still-disrupted-due-to-derailment) · `en`
 
-The Department of Railways states efforts to re-rail the ‘Galu Kumari’ express train, which derailed near the Ginthota railway station along the coastal line last evening, are still ongoing.
+The Department of Railways states that restoration work is still ongoing on the ‘Galu Kumari’ express train that derailed near the Ginthota Railway Station along the coastal railway line.
 
-The train, which was en route from Maradana to Beliatta, derailed last afternoon.
+The train, which was operating from Maradana to Beliatta, derailed last afternoon (16).
 
-◼️
+As a result, the Railway Department took steps to limit train operations on the coastal line up to the Ambalangoda Railway Station.
+
+The derailment caused significant damage to the railway track, and the department said the repair work is currently underway.
+
+Meanwhile, it has been announced that trains scheduled to operate this morning will start from railway stations located beyond the Ginthota station—specifically from Dodanduwa, Hikkaduwa, Kahawa, and Ambalangoda.
+
+It has also been reported that the train scheduled to operate from Beliatta will now run only up to the Galle Railway Station.
+
+...
 
 [Data](articles/f69c7240.json)
 
@@ -1645,139 +1787,5 @@ In March 1987, the Commission on Human Rights (CHR) convened in Geneva at a time
 ...
 
 [Data](articles/40517194.json)
-
----
-
-### Alaska Summit: Summer in Winter
-
-*2025-08-16 14:33:00* · [`islandlk`](http://island.lk/alaska-summit-summer-in-winter/) · `en`
-
-By the time I’m writing, the news and views are percolating across global media on what is set to be the most consequential in-person meeting of Donald Trump’s second administration. The Trump-Putin summit in icy Alaska, echoing the philosophical lines of Albert Camus—”In the midst of winter, I found there was, within me, an invincible summer”—promises to offer clarity, particularly to those nations and actors who have endured the long winters of geopolitical entropy. As per The Times, the summit’s agenda may include discussions chillingly reminiscent of West Bank–style occupation, with the United States and Russia purportedly proposing a partitioned arrangement in Ukraine that consolidates Russian control over regions with manifestly pro-Moscow alignment. The implications of such a plan are profound: simultaneously a potential stabiliser and a moral, legal, and strategic quagmire.
-
-...
-
-[Data](articles/8244054f.json)
-
----
-
-### බස් රථයක ගැටී ග්‍රාම නිලධාරීවරයෙකු මරුට
-
-*2025-08-16 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213440) · `si`
-
-මාතලේ කයිකාවල ප්‍රදේශයේදී පෞද්ගලික බස් රථයක ගැටීමෙන් ග්‍රාම නිලධාරීවරයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙම පුද්ගලයා රාජකාරී සඳහා යතුරුපැදියකින් ගමන් කරමින් සිටියදී මෙම අනතුර සිදුව ඇති අතර ඔහු එම ස්ථානයේදීම මිය ගොස් ඇති බව වාර්තා වේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 35ක් වන මාතලේ රත්තොට කයිකාවල ප්‍රදේශයේ පදිංචි ග්‍රාම නිලධාරීවරයෙකි.
-
-සිද්ධිය සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර රත්තොට පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/1b2dcee9.json)
-
----
-
-### Zelensky says will meet Trump in Washington on Monday
-
-*2025-08-16 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111522/zelensky-says-will-meet-trump-in-washington-on-monday) · `en`
-
-Ukrainian leader Volodymyr Zelensky will head to Washington on Monday to discuss “ending the killing and the war” with US President Donald Trump, he announced Saturday.
-
-Zelensky said so after holding a call with Trump, during which the US leader informed him about the “main points” of his talks with Russia’s Vladimir Putin in Alaska.
-
-“On Monday, I will meet with President Trump in Washington, D.C., to discuss all of the details regarding ending the killing and the war,” Zelensky said.
-
-Zelensky said he had a “long and substantive conversation with Trump”, which began as a one-on-one talk, before being joined by European leaders.
-
-The Washington meeting is set to take place three days after Trump’s talks with Putin in Alaska ended with no ceasefire announcement or apparent breakthrough to end Moscow’s more than three-year-long invasion.
-
-The day after the US-Russia summit, Zelensky called for Kyiv’s European allies to be involved at “every stage” of talks.
-
-...
-
-[Data](articles/ab799429.json)
-
----
-
-### 20% of CEB’s engineers have left for overseas employment
-
-*2025-08-16 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111521/20-of-cebs-engineers-have-left-for-overseas-employment-) · `en`
-
-The Ceylon Electricity Board (CEB) has reported that around 20 percent of its engineers have left the country over the past few years.
-
-According to CEB media spokesperson Dhammika Wimalaratne, a total of 226 engineers left the country in the last three years to pursue job opportunities in countries such as Australia, New Zealand, and Ireland.
-
-He stated that of those who left the CEB, 85 percent were electrical engineers, 8 percent were mechanical engineers, and 7 percent were civil engineers.
-
-Meanwhile, the Secretary of the Electricity Consumers’ Association, Sanjeewa Dhammika, alleged that the CEB is planning to recruit 60 new engineers despite having engineers internally.
-
-He further claimed that the recruitment process has been violated through this.
-
-◼️
-
-[Data](articles/5fbe4b1c.json)
-
----
-
-### වසර 136ක අතීතයක් අබිබවා යන්න සැරසෙන බෙතෙල්
-
-*2025-08-16 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213439) · `si`
-
-එංගලන්ත විස්සයි20 ක්‍රිකට් කණ්ඩායම ඉදිරියේ දී සිදුකිරීමට නියමිත අයර්ලන්ත තරග සංචාරයේ කණ්ඩායම් නායකත්වයට 21 හැවිරිදි ජේකබ් බෙතෙල් නම්කිරීමට තීරණය කර තිබේ.
-
-තරග 3කින් යුත් මෙම තරගාවලිය එළැඹෙන සැප්තැම්බර් මස පැවැත්වීමට නියමිතව ඇති අතර, ඒ සඳහා නවක ක්‍රීඩකයන්ගෙන් සමන්විත කණ්ඩායමක් නම් කිරීමට ද එංගලන්ත - වේල්ස් ක්‍රිකට් ආයතනය තීරණය කර ඇත.
-
-මෙම සංචාරයට පෙර එංගලන්තය එරටදී දකුණු අප්‍රිකාව සමගින් එක්දින හා විස්සයි20 තරගාවලියකට ක්‍රීඩාකිරීමට නියමිතය.
-
-ඒ සඳහා ක්‍රීඩා කරන නිත්‍ය නායක හැරී බෲක් විවේක ගැන්වීමට තීරණය කර ඇති හෙයින් මෙලෙස බෙතෙල්ට අයර්ලන්ත සංචාරයේ නායකත්වය ලබාදීමට තීරණය කර ඇති බව සඳහන්.
-
-බෙතෙල්ට නායකත්වය හිමිවුවහොත් ඔහු එංගලන්ත ක්‍රිකට් ඉතිහාසයේ ජාත්‍යන්තර තරගයක් මෙහෙයවන ලාබාලම නායකයා වනු ඇත.
-
-එංගලන්තය නියෝජනය කරමින් ආකෘති ත්‍රිත්වයම නියෝජනය කරන බෙලෙල් මේ දක්වා ජාත්‍යන්තර තරග 29කදී ලකුණු 869ක් රැස්කර ඇත.
-
-ඊට අර්ධ ශතක 8ක් ඇතුළත්. එමෙන්ම ජාත්‍යන්තර කඩුලු 14කට හිමිකම් කියයි.
-
-එතෙක් මෙතෙක් එංගලන්තයෙන් බිහි වූ ලාබාලම නායකයා  මොන්ටි බව්ඩන් වන අතර, ඔහු නායකත්වයට පත්ව ඇත්තේ වයස අවුරුදු 23යි දින 144ක් වද්දීය.
-
-...
-
-[Data](articles/ffba582d.json)
-
----
-
-### බෙල්ලන්විල පෙරහැර හේතුවෙන් වාහන ගමනාගමනය සීමා කෙරේ
-
-*2025-08-16 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213438) · `si`
-
-බෙල්ලන්විල රජමහා විහාරස්ථානයේ ඇසළ මහා පෙරහැර වීථී සංචාරය කිරීම හේතුවෙන් රථ වාහන ගමනාගමනය සීමා කෙරෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් පැවසීය.
-
-අද (16) රන්දෝලි මහා පෙරහර රාත්‍රී 07.00 සිට අලුයම දක්වා බොරලැස්ගමුව පොලිස් වසමේ බෙල්ලන්විල රජමහා විහාරස්ථානය අවට ප්‍රධාන මාර්ග මූලික කරගෙන වීථි සංචාරය කිරීමට නියමිතය.
-
-මෙම පෙරහැර බෙල්ලන්විල රජමහා විහාරස්ථානයේ දකුණු වාහල්කඩින් පිටත්ව බෙල්ලන්තර හන්දියෙන් කීල්ස් වටරවුම දක්වා ගමන් කර මාර්ග අංක 117 විහාර මාවත හන්දියෙන් විහාර මාවතට ගමන් කර මාර්ග අංක 119 විහාර මාවත දක්වා විහාරයේ දකුණු වාහල්කඩින් විහාරස්ථානය දක්වා ගමන් කිරීමට නියමියතය.
-
-පෙරහර ගමන් ගන්නා කාලය තුළ පහත ස්ථානවලින් රථ වාහන ගමනාගමනය සීමා කරනු ලබයි.
-
-◼️
-
-[Data](articles/013c8b81.json)
-
----
-
-### Postal workers to launch islandwide strike from tomorrow
-
-*2025-08-16 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111520/postal-workers-to-launch-islandwide-strike-from-tomorrow) · `en`
-
-The Postal and Telecommunications Officers’ Union together with the United Postal Trade Unions’ Front (UPTUF) has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
-
-According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance through fingerprint machines.
-
-The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and administrative offices from 12.00 midnight onwards.
-
-Meanwhile, Postmaster General Ruwan Sathkumara confirmed that the Sub-Postmasters of 3,354 sub-post offices across the country will not participate in this trade union action.
-
-...
-
-[Data](articles/99cdbd3f.json)
 
 ---

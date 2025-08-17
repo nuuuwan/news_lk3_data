@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 06:39:24**
+As of **2025-08-17 07:19:22**
 
 ## Newspaper Stats
 
-*Scraped **70,853** Articles*
+*Scraped **70,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 6,833
 adaderanalk | 8,853
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
-adaderanasinhalalk | 12,219
+adaderanasinhalalk | 12,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,853 articles have been extended.
+61,973 (87.5%) of 70,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ගාලු කුමාරි පීලි ගත කිරීමේ කටයුතු තවදුරටත්
+
+*2025-08-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213461) · `si`
+
+මුහුදුබඩ දුම්රිය මාර්ගයේ ගිංතොට දුම්රිය ස්ථානය ආසන්නයේ පීලි පැනීමට ලක්වූ ගාලු කුමාරි සීඝ්‍රගාමී දුම්රිය පීලි ගත කිරීමේ කටයුතු තවදුරටත් සිදුවන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+මරදාන දුම්රිය ස්ථානයේ සිට බෙලිඅත්ත බලා ධාවනය වූ එම දුම්රිය ඊයේ (16) පස්වරුවේ පීලි පැනීමට ලක්ව තිබුණි.
+
+ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ගමනාගමන කටයුතු අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා සීමා කිරීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබුණි.
+
+දුම්රිය පීලි පැනීම හේතුවෙන් දුම්රිය මාර්ගයට ද දැඩි හානි සිදුව ඇති අතර එහි ප්‍රතිසංස්කරණ කටයුතු ද මේ වනවිට සිදුවෙමින් පවතින බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර අද පෙරවරුවේ ධාවනය වීමට නියමිත දුම්රියන් ගිංතොට දුම්රිය ස්ථානයෙන් පසුව පිහිටා ඇති දොඩංදූව, හික්කඩුව, කහව සහ අම්බලන්ගොඩ යන දුම්රිය ස්ථානවලින් ආරම්භ කෙරෙන බව සඳහන්ය.
+
+එමෙන්ම බෙලිඅත්ත සිට ධාවනය වීමට නියමිත දුම්රිය, ගාල්ල දුම්රිය ස්ථානය දක්වා ධාවනය කිරීමට කටයුතු කර ඇති බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/35572f81.json)
+
+---
+
+### ඉන්දුනීසියාවේ භූකම්පනයක්
+
+*2025-08-17 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213460) · `si`
+
+ජර්මානු භූ විද්‍යා පර්යේෂණ මධ්‍යස්ථානය වාර්තා කර ඇත්තේ රික්ටර් මාපකයේ 5.7ක භූකම්පනයක් හටගෙන  ඇති බවය.
+
+මේ අතර ටොන්ගෝ දූපතේද රික්ටර් මාපක 5.5ක භූ කම්පනයක්ද සිදුව තිබේ.
+
+කිලෝමීටර් 35ක ගැඹුරකින් හට ගෙන ඇති මෙම භූ කම්පනය ටෙනේගා දකුණු දිග ප්‍රදේශයෙන් වාර්තා වී ඇත.
+
+◼️
+
+[Data](articles/b6d7ba39.json)
+
+---
 
 ### අද කාලගුණය
 
@@ -1799,39 +1837,5 @@ AGSPeC will focus on geopolitical issues, peace, and sustainable development acr
 ...
 
 [Data](articles/a74c82ae.json)
-
----
-
-### 7th Fleet’s USS Santa Barbara in maiden call to Colombo
-
-*2025-08-16 00:11:04* · [`dailyftlk`](https://www.ft.lk/news/7th-Fleet-s-USS-Santa-Barbara-in-maiden-call-to-Colombo/56-780366) · `en`
-
-The US Embassy in Sri Lanka in a statement on Friday said the USS Santa Barbara of the 7th Fleet will make its first call on the Port of Colombo on 16 August.
-
-It said the US 7th Fleet commands the world’s largest forward-deployed fleet with the primary mission of providing operational control and planning for its forces in the Western Pacific and Indian Oceans, while promoting regional stability and maritime security through engagements with allies and partners.
-
-“The first visit of the Independence-variant littoral combat ship to Colombo underscored the strength of the US-Sri Lanka partnership and shared commitment to a secure, prosperous, and free Indo-Pacific. “It also reflects the longstanding ties between our navies and the close cooperation that defines our relationship. Colombo will serve as a brief stop for the ship to take on fuel and supplies before continuing its mission,” the embassy said.
-
-...
-
-[Data](articles/42fe2aba.json)
-
----
-
-### Knowledge Hub to boost Profood Propack & Agbiz 2025
-
-*2025-08-16 00:09:48* · [`dailyftlk`](https://www.ft.lk/business/Knowledge-Hub-to-boost-Profood-Propack-Agbiz-2025/34-780365) · `en`
-
-Knowledge Hub desk to give businesses practical guidance, market insights, and networking opportunities
-
-The expanded Knowledge Hub at Profood Propack & Agbiz 2025 will provide entrepreneurs and industry professionals with practical guidance, market insights, and networking opportunities to accelerate innovation in Sri Lanka’s food sector.
-
-Profood Propack & Agbiz 2025, organised by the Sri Lanka Food Processors Association (SLFPA) in partnership with Lanka Exhibition and Conference Services (LECS), will take place from 22 to 24 August 2025 at the Sirimavo Bandaranaike Exhibition and Convention Centre at BMICH, Colombo.
-
-This year, the exhibition has expanded the Knowledge Hub, it introduced last year, to include a well-structured Consumer Assistance Desk, serving as an important touch point for new entrepreneurs seeking assistance and guidance in identifying opportunities.
-
-...
-
-[Data](articles/e6e76c5f.json)
 
 ---

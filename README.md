@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 17:52:38**
+As of **2025-08-17 18:09:20**
 
 ## Newspaper Stats
 
-*Scraped **70,941** Articles*
+*Scraped **70,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,845
+adalk | 6,846
 adaderanalk | 8,875
 tamilmirrorlk | 10,455
 virakesarilk | 11,768
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,235
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,941 articles have been extended.
+61,973 (87.4%) of 70,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,22 @@ The investigation conducted so far has revealed that the person was attacked by 
 ◼️
 
 [Data](articles/60bd3b3e.json)
+
+---
+
+### මධ්‍යම අධිවේගයේ පළමු කොටස ඉදිකිරීමට චීන එක්සිම් බැංකුවෙන් ඩො.මි. 500ක් ගන්න යයි
+
+*2025-08-17 16:36:37* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටස-ඉදිකිරීමට-චීන-එක්සිම්-බැංකුවෙන්-ඩො-මි--500ක්-ගන්න-යයි/11-417954) · `si`
+
+දිගු කලක් ප්‍රමාද වූ මධ්‍යම අධිවේගී මාර්ගයේ පළමු කොටස සම්පූර්ණ කිරීම සඳහා චීන EXIM බැංකුවෙන් ඇමරිකානු ඩොලර් මිලියන 500 කට සමාන රෙන්මින්බි (RMB)ණයට ගැනීමට සහශ්‍රී ලංකා රජයේ අරමුදල් වලින් ඇමරිකානු ඩොලර් මිලියන 438 ක් වෙන වෙනම ලබා දීමට කැබිනට් අනුමැතිය ඉල්ලා  ජනාධිපති අනුර කුමාර දිසානායක මහතා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කිරීමට නියමිතය.
+
+යුවාන් ආදායමක් නොමැති ශ්‍රී ලංකාවට, ණය ආපසු ගෙවීම සඳහා ලංකාවෙය් ඇමරිකානු ඩොලර් සංචිත පරිවර්තනය  කිරීම මේ හරහා සිදුවෙයි.
+
+මෙම මස මුලදී, කඩවත සිට මිරිගම දක්වා කිලෝමීටර් 37.1 ක දුර සඳහා කොන්ත්‍රාත්කරු වන මෙටලර්ජිකල් කෝපරේෂන් ඔෆ් චයිනා ලිමිටඩ් (MCC) වෙතින් හිඟ මූල්‍ය හිමිකම් විශ්ලේෂණය කිරීම සඳහා පත් කරන ලද කමිටුවක්, රුපියල් බිලියන ගණනක ගෙවීම් පියවා මාර්ගයේ ඉතිරි කොටස ඉදිකිරීම සඳහා එම සමාගම සමඟම සාකච්ඡා කිරීමට නිර්දේශ කළේය.
+
+...
+
+[Data](articles/962e7934.json)
 
 ---
 
@@ -1819,21 +1835,5 @@ Issuing a statement today, he charged that the government’s inability or unwil
 ◼️
 
 [Data](articles/7d4f5a41.json)
-
----
-
-### ‘Galu Kumari’ train derails near Ginthota station
-
-*2025-08-16 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111527/galu-kumari-train-derails-near-ginthota-station) · `en`
-
-A train has reportedly derailed near the Ginthota railway station, disrupting train services on the Coastal Railway Line.
-
-The ‘Galu Kumari’ express train (No 8056) plying from Maradana to Beliatta has derailed in this manner, also causing damage to the railway track.
-
-It is reported that train operations on the Coastal Line have been restricted to the Ambalangoda railway station owing to the derailment.
-
-◼️
-
-[Data](articles/549f085b.json)
 
 ---

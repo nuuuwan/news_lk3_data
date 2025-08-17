@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 05:31:30**
+As of **2025-08-17 06:12:38**
 
 ## Newspaper Stats
 
-*Scraped **70,837** Articles*
+*Scraped **70,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 725
 economynextcom | 4,325
-islandlk | 4,340
+islandlk | 4,354
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,837 articles have been extended.
+61,973 (87.5%) of 70,851 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -404,6 +404,22 @@ The trade unions stated that the strike will initially begin tomorrow at 4.00 p.
 
 ---
 
+### Sri Lanka’s Silent Conservation Revolution:
+
+*2025-08-16 17:37:00* · [`islandlk`](http://island.lk/sri-lankas-silent-conservation-revolution/) · `en`
+
+Dr. Ranil Senanayake Calls for Ahimsa, Science and Sanity in Wildlife Policy
+
+In a nation renowned for its ancient spiritual traditions and biodiversity, eminent systems ecologist and environmental visionary Dr. Ranil Senanayake has made an impassioned plea for Sri Lanka to return to its roots, not just culturally, but ecologically.
+
+Speaking to The island on animal conservation, Dr. Senanayake challenged the prevailing narratives of culling and wildlife control with a radically humane and scientifically grounded message: Sri Lanka must be proud of its Ahimsa-based identity, and embrace intelligent, non-lethal methods to deal with wildlife-related challenges.
+
+...
+
+[Data](articles/22a81f6c.json)
+
+---
+
 ### දක්ෂිණ අධිවේගයේ ගමන් ගත් බස් රථයක ගින්නක්
 
 *2025-08-16 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213448) · `si`
@@ -614,6 +630,76 @@ Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
 
 ---
 
+### Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
+
+*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/konka-launches-groundbreaking-v-max-tv-range-in-lanka-via-flico/) · `en`
+
+Colombo saw the Sri Lankan debut of global electronics giant Konka’s latest innovation—the Konka V-Max TV range—introduced in partnership with Future Life Holdings Group and its flagship retail arm FLiCo.
+
+Celebrating 45 years as a global leader in home electronics, Konka’s V-Max series promises to revolutionize the local market with cutting-edge technology and immersive home entertainment. Available in 32″, 43″, 55″, and 65″ sizes, the V-Max range features Operating TV OS, Web OS, and Google TV OS platforms.
+
+A standout feature is the built-in integrated soundbar, eliminating the need for external speakers while offering 30W Dolby Audio surround sound for a cinematic experience. The TVs also support HDR 10, delivering stunning visuals and balanced acoustics. Uniquely, the independent soundbar can play music even when the TV screen is off, catering to evolving lifestyle needs.
+
+...
+
+[Data](articles/3c00b8c2.json)
+
+---
+
+### Fcode Labs partners with Porolis to deliver AI-driven innovation to the global gemstone industry
+
+*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/fcode-labs-partners-with-porolis-to-deliver-ai-driven-innovation-to-the-global-gemstone-industry/) · `en`
+
+Fcode Labs, a global digital product engineering company, has partnered with Porolis, an innovator in gemstone scanning technology, to launch an AI-powered platform that reimagines how gemstones are analyzed, certified, and showcased in the digital age. The revolutionary solution comprises a cloud-based GemLUX® AIaaS platform and a scanning device KROMA invented by Porolis. Fcode Labs developed the end-to-end software infrastructure, while Porolis provided the proprietary AI model for gem analysis. Combining Porolis’ deep gemstone domain knowledge and advanced optical engineering with Fcode Labs’ expertise in cloud-based software, the solution brings speed, accuracy, and transparency to an industry still reliant on manual processes. The platform allows gemstone professionals to digitally scan and certify gems using AI-driven analysis, with instant access to digital reports and records via a secure cloud dashboard.
+
+...
+
+[Data](articles/d28cc92c.json)
+
+---
+
+### Chinese Dragon Café opens flagship outlet in Jaffna
+
+*2025-08-16 15:52:00* · [`islandlk`](http://island.lk/chinese-dragon-cafe-opens-flagship-outlet-in-jaffna-2/) · `en`
+
+Chinese Dragon Café (CDC), one of Sri Lanka’s most recognisable names in Chinese cuisine, has opened its latest outlet in Jaffna, marking a new chapter in the restaurant’s long-standing presence across the island. Located at No. 229, Point Pedro Road, just 900 metres from the historic Nallur Kovil, this new branch becomes the ninth outlet in the country. Established in 1942 by a Chinese couple in Bambalapitiya, CDC has grown steadily over the decades, expanding from a single neighbourhood restaurant into a familiar brand with a presence in key urban areas including Mt. Lavinia, Rajagiriya, Nawala, and Nugegoda. In 2021, the café made its first move overseas with an outlet in Dubai in the United Arab Emirates.
+
+...
+
+[Data](articles/5fa34455.json)
+
+---
+
+### ANC Education hosts pre-departure event for students heading to US and Canada
+
+*2025-08-16 15:52:00* · [`islandlk`](http://island.lk/anc-education-hosts-pre-departure-event-for-students-heading-to-us-and-canada/) · `en`
+
+ANC Education recently hosted a special Pre-Departure Event to celebrate and support students who have successfully secured their student visas to begin their higher education journey in the United States and Canada. This important event was designed not only to recognize the achievements of these students but also to provide them and their families with valuable guidance and reassurance as they prepare to embark on a new chapter of their lives. In addition to these sessions, attendees had the opportunity to connect with ANC alumni who had previously transferred to universities in the US and Canada. These alumni shared personal insights and firsthand experiences on adapting to life overseas, managing academic workloads, and building successful careers after graduation, offering current students inspiration and confidence.
+
+Melwa sponsors Lankan athlete at Asian African Pacific Powerlifting Championship 2025
+
+Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
+
+...
+
+[Data](articles/72a99a72.json)
+
+---
+
+### Melwa sponsors Lankan athlete at Asian African Pacific Powerlifting Championship 2025
+
+*2025-08-16 15:51:00* · [`islandlk`](http://island.lk/melwa-sponsors-lankan-athlete-at-asian-african-pacific-powerlifting-championship-2025/) · `en`
+
+Melwa sponsored Pradeep S. Sumudu of the Sri Lanka Army, who represented the country at the Asian African Pacific Powerlifting Championship 2025. The championship, held in Himeji, Japan, drew a large number of competitors representing countries from Asia, Africa, and the Pacific region. Pradeep S. Sumudu brought glory to Sri Lanka in the 59kg weight class, securing the following achievements: Squat – 220 kg (Silver Medal / Sri Lanka Record), Bench Press – 135 kg (Bronze Medal), Deadlift – 250 kg (Bronze Medal), Overall Total – 605 kg (Silver Medal / Sri Lanka Record). These exceptional performances also earned him 5th place in the world rankings. Melwa has been at the forefront of providing facilities and sponsorships for Sri Lankan athletes across various sports, including motorsports, with the aim of nurturing talent and promoting excellence.
+
+Fcode Labs partners with Porolis to deliver AI-driven innovation to the global gemstone industry
+
+...
+
+[Data](articles/abb37b43.json)
+
+---
+
 ### බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ
 
 *2025-08-16 15:45:36* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවෙල-රෝහල-මූලික-රෝහලක්-ලෙස-උසස්-කෙරේ/11-417941) · `si`
@@ -641,6 +727,42 @@ Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
 ...
 
 [Data](articles/20dddb23.json)
+
+---
+
+### Sri Lanka Insurance Life expands its country wide presence
+
+*2025-08-16 15:27:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-expands-its-country-wide-presence/) · `en`
+
+Sri Lanka Insurance Life recently opened two new Agency Business Development Centers (ABDC) in Thampalakamam and Kathiravely expanding its presence in the Eastern province.
+
+The occasions were graced by SLIC’s Chief Business Officer Namalee A. Silva, Deputy General Manager – National Sales (Life) Jagath Welgama, P. Sathiyan, Assistant General Manager – Zonal Head – North, Eastern and North Central, regional management of Eastern Region, Branch Management of Trincomalee and Batticaloa. Distinguished invitees and customers of the area were also in attendance at all the openings.
+
+Agency Business Development Centers (ABDC) allows SLIC to further enhance its reach, which provides convenience and speed of service delivery to its loyal customers in relation with their protection needs.
+
+Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
+
+Sanasa General Insurance goes live on Oracle Cloud Infrastructure with DMS Software Technologies
+
+...
+
+[Data](articles/3fcb6aac.json)
+
+---
+
+### Sampath Group’s total assets surpassed Rs 2 Tn
+
+*2025-08-16 15:27:00* · [`islandlk`](http://island.lk/sampath-groups-total-assets-surpassed-rs-2-tn/) · `en`
+
+Sampath Bank has posted a robust financial performance for the first half of 2025, recording a Profit Before Tax (PBT) of Rs 24.4 billion and a Profit After Tax (PAT) of Rs 14.7 billion, reflecting a 32% year-on-year growth. The Sampath Group also reported a 32% rise in both PBT and PAT, reaching Rs 26.0 billion and Rs 15.6 billion, respectively.
+
+Despite a 6% decline in net interest income to Rs 38.6 billion—due to lower interest rates and reduced yields from government securities—the Bank’s non-fund based income surged by 122% to Rs 15.9 billion. This included a notable exchange gain of Rs 2.4 billion, reversing a Rs 2.7 billion loss in the prior year.
+
+Impairment charges saw a sharp 78% drop to Rs 1.4 billion, driven by improved credit quality and prudent risk management. Operating expenses rose by 20%, largely due to higher personnel costs, pushing the cost-to-income ratio up to 39.9% from 37.5% in 2024.
+
+...
+
+[Data](articles/9bdf50e1.json)
 
 ---
 
@@ -680,6 +802,46 @@ Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
 
 ---
 
+### Premadasa, the JVP, LTTE,and relations with India
+
+*2025-08-16 14:50:00* · [`islandlk`](http://island.lk/premadasa-the-jvp-ltteand-relations-with-india/) · `en`
+
+Of all the local political leaders it was Premadasa who was the most sympathetic to the JVP. He made a well noticed entrance to follow the proceedings of the Criminal Justice Commission that tried Wijeweera and his fellow leaders of the 1971 insurrection. He set up clandestine groups to negotiate with the leaders of the JVP who were underground, even offering them three portfolios in his Cabinet. But the JVP did not respond positively. He was thwarted and when the smooth passage of his administration was undermined by the JVP he turned to Ranjan Wijeratne, who had a military background and was considered to be a ruthless operator, to launch an all out attack on them.
+
+...
+
+[Data](articles/3e9dc426.json)
+
+---
+
+### More random stories from my stint on ETF Board
+
+*2025-08-16 14:49:00* · [`islandlk`](http://island.lk/more-random-stories-from-my-stint-on-etf-board/) · `en`
+
+LESSONS FROM MY CAREER: SYNTHESISING MANAGEMENT THEORY WITH PRACTICE – PART 19
+
+I will present more stories and the valuable lessons learnt at ETF. Some may be good case studies for managers rising up in their careers. Some will be from experiences drawn before my removal and reinstatement by the President, and some will be from experiences after the incident.
+
+As discussed in previous episodes, unity was clearly lacking. The staff worked, but didn’t seem excited about their tasks or engaged in their work. They needed some exciting project to work on. Their potential was not fully utilised. The older managers had no clue about modern management. However, they were men and women of great integrity and loyalty to the organisation.
+
+...
+
+[Data](articles/fe202cf6.json)
+
+---
+
+### “Reflections on the Life and Times of Lakshman Kadirgamar on  the 20th Anniversary of His Death”
+
+*2025-08-16 14:46:00* · [`islandlk`](http://island.lk/reflections-on-the-life-and-times-of-lakshman-kadirgamar-on-the-20th-anniversary-of-his-death/) · `en`
+
+From the time I was old enough to cultivate an interest in politics, I have familiarized myself with the life and times of those political personalities I took a liking to. The late Dudley Senanayake (who incidentally died in 1973 a day after Lakshman Kadirgamar’s 41st birthday) was the first I took to and I consider it my loss that I did not have the opportunity to get to know him personally. Of the several politicians that I have subsequently taken note of, there were two I got particularly close to and they were both, coincidentally enough, Oxonians who happened also to be presidents of the Oxford Union in their time. I refer to Lalith Athulathmudali and Lakshman Kadirgarmar. Athulathmudali did not attend a local university prior to going up to Oxford, as did Kadirgamar. The former’s cake, (to borrow a metaphor from Kadirgamar himself) was not baked at home, unlike that of the latter for whom Oxford was only the icing on his superlative, home-produced, academic confection.
+
+...
+
+[Data](articles/edceefbc.json)
+
+---
+
 ### பணிப்புறக்கணிப்பில் குதிக்கும் தபால் ஊழியர்கள்
 
 *2025-08-16 14:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதிக்கும்-தபால்-ஊழியர்கள்/175-363004) · `ta`
@@ -693,6 +855,30 @@ Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
 ◼️
 
 [Data](articles/90aae24f.json)
+
+---
+
+### Behind the Scenes of the 1987 UN Human Rights Resolution on Sri Lanka: Power, Politics, and Diplomacy
+
+*2025-08-16 14:41:00* · [`islandlk`](http://island.lk/behind-the-scenes-of-the-1987-un-human-rights-resolution-on-sri-lanka-power-politics-and-diplomacy/) · `en`
+
+In March 1987, the Commission on Human Rights (CHR) convened in Geneva at a time when Sri Lanka was under mounting international scrutiny over its human rights record. The 1983 communal riots, which saw widespread anti-Tamil violence, triggered an exodus of Tamils—some to India as direct victims, and many others to countries like Canada, the UK, Australia, and the U.S. Over the next few years, this growing Tamil diaspora transformed into a potent political force, actively lobbying their host governments and legislators.
+
+...
+
+[Data](articles/40517194.json)
+
+---
+
+### Alaska Summit: Summer in Winter
+
+*2025-08-16 14:33:00* · [`islandlk`](http://island.lk/alaska-summit-summer-in-winter/) · `en`
+
+By the time I’m writing, the news and views are percolating across global media on what is set to be the most consequential in-person meeting of Donald Trump’s second administration. The Trump-Putin summit in icy Alaska, echoing the philosophical lines of Albert Camus—”In the midst of winter, I found there was, within me, an invincible summer”—promises to offer clarity, particularly to those nations and actors who have endured the long winters of geopolitical entropy. As per The Times, the summit’s agenda may include discussions chillingly reminiscent of West Bank–style occupation, with the United States and Russia purportedly proposing a partitioned arrangement in Ukraine that consolidates Russian control over regions with manifestly pro-Moscow alignment. The implications of such a plan are profound: simultaneously a potential stabiliser and a moral, legal, and strategic quagmire.
+
+...
+
+[Data](articles/8244054f.json)
 
 ---
 
@@ -1641,217 +1827,5 @@ Innovate’s “Akuru” pen offers more than mere functionality. It energises t
 ...
 
 [Data](articles/860d76dd.json)
-
----
-
-### National Chamber hosts networking event with newly appointed SL diplomats
-
-*2025-08-16 00:07:55* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-networking-event-with-newly-appointed-SL-diplomats/34-780362) · `en`
-
-The National Chamber of Commerce of Sri Lanka on Tuesday hosted newly appointed Sri Lankan diplomats for a networking session with business leaders.
-
-The event was held in collaboration with the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and was an exclusive networking session for the local corporate and business community.
-
-The session was graced by eight newly appointed Sri Lankan Ambassadors and High Commissioners designated to strategic diplomatic postings in Indonesia, Brazil, the Maldives, Türkiye, Nepal, South Korea, Kenya (Nairobi), and Oman, as well as five Consul Generals designated to Guangzhou, Shanghai, Milan, Los Angeles, and Jeddah.
-
-The event served as a dynamic platform for Sri Lankan businesses to engage directly with the diplomats, explore new opportunities for export market access, discuss investment and trade prospects, and foster stronger bilateral economic ties, the National Chamber said.
-
-...
-
-[Data](articles/93ca2b03.json)
-
----
-
-### C.W. Mackie launches SCAN Cassava Chips range
-
-*2025-08-16 00:06:47* · [`dailyftlk`](https://www.ft.lk/business/C-W-Mackie-launches-SCAN-Cassava-Chips-range/34-780361) · `en`
-
-C.W. Mackie, recently launched a brand-new range of cassava chips under its widely popular food and beverage brand, SCAN.
-
-Building upon the success of the consumer movement that gives prominence to locally produced items, demand has grown tremendously in recent months. C.W. Mackie PLC has now extended its locally produced snacks portfolio to cassava chips in four flavours, which include ‘Hot & Spicy’, ‘Salted’, ‘Cheese & Onion’ and the newly introduced ‘Kochchi’ flavour, under an impressive range of snacks at affordable prices. SCAN Cassava range is now available at leading supermarket chains and general trade outlets island-wide. The cassava range consists of 50g packs and 30g packs, especially for general trade consumers.
-
-...
-
-[Data](articles/8373219e.json)
-
----
-
-### 2025-08-15 (Friday)
-
-### Imported sustainability: Rethinking Sri Lanka’s paradoxical wind energy ambitions
-
-*2025-08-15 23:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Imported-sustainability-Rethinking-Sri-Lanka-s-paradoxical-wind-energy-ambitions/4-780354) · `en`
-
-Why has the country’s wind potential remained so underutilised that it still accounts for just 1% even in 2025?
-
-It is clear that something is seriously lacking in Sri Lanka’s approach to achieving the noble goal of sustainability. The missing element is our inability to develop indigenous wind turbine technology that would expand local expertise and increase domestic content. It is a matter of real concern that, even more than three decades after the country first embraced wind power, our progress in establishing this critical technology has been unusually slow remaining limited to operations and routine maintenance even as of 2025
-
-...
-
-[Data](articles/a400b5ac.json)
-
----
-
-### Tribute to Dr. Sarath de Silva on 80th birthday
-
-*2025-08-15 23:53:28* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Dr-Sarath-de-Silva-on-80th-birthday/4-780353) · `en`
-
-As he celebrates his 80th birthday, it is only fitting to honour not just the decades of dedicated medical service Dr. Sarath has rendered, but the warmth, humility, and quiet heroism he embodies. His life stands as a testament to the noblest ideals of medicine, a healing hand extended with love, a listening ear, and a heart overflowing with compassion
-
-In one lifetime, we encounter innumerable people. They touch us in many ways. We remember them and are grateful, of course, but then there are individuals who leave a profound and indelible mark on us. They transform us. Such an individual is Dr. Sarath de Silva.
-
-...
-
-[Data](articles/47043cc9.json)
-
----
-
-### Lessons to be learnt from death of Bhathiya, the wild elephant
-
-*2025-08-15 23:49:01* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-to-be-learnt-from-death-of-Bhathiya-the-wild-elephant/4-780352) · `en`
-
-Bhathiya was sighted carrying several gunshot wounds – Pic credit: Saranga Deva de Alwis
-
-On 15 July, the wild elephant known as Bhathiya succumbed to multiple injuries it had sustained in the wild. It had been shot at and wounded in early May. During early July, its injuries had worsened, and it had been treated by wildlife department veterinarians.
-
-During this time, there was a media frenzy going on, with politicians ‘basking’ in the suffering that the poor animal was going through, armchair elephant SM experts giving advice and updates, and the wildlife officials scrambling to do damage control. It was almost like a choreographed social media performance that was being staged to a pathetic, gullible public, who were lapping up what was dished out with great interest.
-
-...
-
-[Data](articles/feac23dc.json)
-
----
-
-### Don’t fly me to the Moon  again, Mr. Rocketman
-
-*2025-08-15 23:44:59* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-fly-me-to-the-Moon-again-Mr-Rocketman/4-780350) · `en`
-
-From star-gazing would-be astronauts to navel-gazing social anthropologists, we’ve had a surfeit of rising stars and setting suns – er, sons – who’ve promised more than they’ve ever delivered. And they continue to take the public, the polity and the parliaments of which some of them are a part for a long ride round the galactic block to the edge of outer darkness
-
-This week was something special, celestially speaking. First there was the spectacular Perseid shower in the bewitching midnight watch and some hours after. Then there was a scintillating conjunction of Jupiter and Venus in the early morning midweek days that followed. And now there is the ongoing spectacle of political shooting stars of the past and present disporting themselves as if they’d never heard of the principle of entropy. That all things must run down.
-
-In every respect, it is a show-stopper for a citizenry starving for bread and circuses under the more austere regime than most we are blessed with at present.
-
-...
-
-[Data](articles/1d05855b.json)
-
----
-
-### India’s cosmic leap: A billion dreams will see visits to Moon, Mars and Venus
-
-*2025-08-15 23:41:10* · [`dailyftlk`](https://www.ft.lk/columns/India-s-cosmic-leap-A-billion-dreams-will-see-visits-to-Moon-Mars-and-Venus/4-780349) · `en`
-
-NISAR is poised to revolutionise how we observe and understand our planet
-
-India’s roadmap doesn’t stop at Gaganyaan, Prime Minister Modi has outlined a bold vision: establish an Indian space station by 2035 and land an Indian on the moon by 2040. If successful, India will join the elite club of nations—Russia, the United States, and China—with independent indigenous human spaceflight capabilities
-
-Reaching for the stars is becoming an everyday affair at India’s space agency, having visited the Moon and Mars with orbital missions, now eyes are set on a mission to Venus and a sample return from the Moon. Human space flight to fly an Indian citizen on an Indian rocket from Indian soil where the countdown will also be by India, is also taking shape fast.
-
-...
-
-[Data](articles/43c278e4.json)
-
----
-
-### பாகிஸ்தானில் ஹெலிகொப்டர் விபத்து – ஐந்து பேர் பலி
-
-*2025-08-15 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222651) · `ta`
-
-வடமேற்கு பாகிஸ்தானின் கைபர் பக்தூன்க்வா மாகாணத்தில், மழையால் பாதிக்கப்பட்ட பகுதிகளுக்கு நிவாரணப் பொருட்களை கொண்டு சென்ற MI-17 ஹெலிகொப்டர் வெள்ளிக்கிழமை (15) விபத்துக்குள்ளானது.
-
-வடக்கு பாகிஸ்தானில் கடுமையான வானிலை காரணமாக பாதிக்கப்பட்ட மக்களுக்கு உதவி வழங்கிச் செல்லும் போதே இந்த ஹெலிகொப்டர் கட்டுப்பாட்டை இழந்ததாகவும், மோசமான வானிலைதான் விபத்துக்குக் காரணமாக இருக்கலாம் எனவும் வெளிநாட்டு ஊடகங்கள் தகவல் வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/de6468f4.json)
-
----
-
-### 14 වැනි කබෝරිය තෙදිනක් පුරා අනුරාධපුරයේ දී
-
-*2025-08-15 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213422) · `si`
-
-ක්‍රියාශීලී බව හා සමගිය ප්‍රධාන කොට විනය ගරුකව ජීවිතය හැඩගැස්වීම බාල දක්ෂ ව්‍යාපාරයේ අරමුණ වන අතර අනුරාධපුර දිස්ත්‍රික්කය තුළ ක්‍රියාශීලීව බාල දක්ෂ ව්‍යාපාරය ඇත්නම් මීට වඩා යහපත් තත්ත්වයක් පාසල් දරුවන් අතර පැවතීමට ඉඩ ඇති බව උතුරු මැද පළාත් ආණ්ඩුකාර වසන්ත ජිනදාස මහතා පවසයි.
-
-ඔහු මේ බව පැවසුවේ ශ්‍රී ලංකා බාල දක්ෂ මූලස්ථානය මගින් අනුරාධපුර දිස්ත්‍රික්කය කේන්ද්‍ර කර ගනිමින් සංවිධානය කළ දාහතර වන ජාතික කබෝරියට එක්වෙමිනි.
-
-විවිධ ක්‍රියාකාරකම් සඳහා දරුවන් යොමු කිරීම වෙනුවට අධ්‍යාපනය මතම රඳා පවතිමින් යාන්ත්‍රික දරුවෙකු බිහි කිරීමට දෙමව්පියන් උත්සහා දැරීම මගින් එය අනාගත ශ්‍රී ලංකාවට ඉතා හානිදායක විය හැකි බව ද පළාත් ආණ්ඩුකාරවරයා මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
-
-මෙවර පැවැත්වෙන 14 වන ජාතික කබෝරිය අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර ක්‍රීඩාංගනයේදී බාල දක්ෂකයින් දස දහසකගේ සහභාගිත්වයෙන් සංවිධානය කර තිබේ.
-
-'සොඳුරු ලොවක්' තේමාව අරමුණු කර ගනිමින් සංවිධානය කර ඇති මෙය අද (15) සිට 17 වැනිදා දක්වා තෙදිනක් පුරා පැවැත්වෙන අතර රතු මල, අත් වැඩ, චිත්‍ර හා ජන ගායනා ඇතුළු විවිධ ක්‍රියාකාරකම් රාශියකගෙන් සමන්විත වේ.
-
-◼️
-
-[Data](articles/9318a14f.json)
-
----
-
-### மன்னார் போராட்டத்தை ஆதரித்து ஒன்று திரண்ட மன்னார் முஸ்லிம் மக்கள்
-
-*2025-08-15 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/222650) · `ta`
-
-மன்னார் மாவட்டத்தில் இடம் பெற்றும் காற்றாலை மின் கோபுரங்கள் அமைத்தல் மற்றும்  கனிய மணல் அகழ்வு உள்ளிட்ட செயற்திட்டங்கள் தொடர்பில் உறுதியான தீர்வு கிடைக்கும் வரை போராட்டம் தொடரும் என தெரிவித்து 13 ஆவது  நாளாக  வெள்ளிக்கிழமை (15) போராட்டம் முன்னெடுக்கப்பட்டு வந்த நிலையில், மதியம் குறித்த போராட்டத்திற்கு ஆதரவு தெரிவித்து மன்னார் முஸ்லிம் மக்களும் கலந்து கொண்டனர்.
-
-வெள்ளிக்கிழமை(15) மதியம் நடைபெற்ற ஜும்மா தொழுகை நிறைவடைந்த நிலையில்,முஸ்லிம் மக்கள் குறித்த போராட்டத்தில் கலந்து கொண்டு குறித்த போராட்டத்திற்கு வலு சேர்க்கும் வகையில் தமது ஆதரவை வழங்கியுள்ளனர்.
-
-மன்னார் நகர பிரதான சுற்றுவட்ட பகுதியில் 13 வது நாளாக மக்களினால் குறித்த போராட்டம் தொடர்ச்சியாக சுழற்சி முறையில் இடம் பெற்று வருகிறது.
-
-அண்மையில் இடம் பெற்ற ஜனாதிபதியுடனான சந்திப்பில் காற்றாலை செயற்திட்டங்களை ஒரு மாத காலம் நிறுத்தி வைப்பதாக ஜனாதிபதியினால் வாக்குறுதி வழங்கப்பட்ட போதிலும் உறுதியான முடிவு வரும் வரை போராட்டத்தை கைவிடப் போவதில்லை என போராட்டகாரர்கள் தெரிவித்துள்ள நிலையில் இன்றைய தினம் போராட்டம் இடம் பெற்றமையும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/7ecad1ba.json)
-
----
-
-### Newly appointed IGP Priyantha Weerasooriya calls on President
-
-*2025-08-15 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111509/newly-appointed-igp-priyantha-weerasooriya-calls-on-president) · `en`
-
-The newly appointed Inspector General of Police (IGP), Attorney-at-Law Priyantha Weerasooriya, met President Anura Kumara Dissanayake this afternoon (15) at the Presidential Secretariat.
-
-The President extended his best wishes to the new Inspector General, who in turn presented the President with a commemorative gift, the President’s Media Division (PMD) said.
-
-Attorney-at-Law Priyantha Weerasooriya is the 37th Inspector General of Police in Sri Lanka and is the first IGP to have worked his way up from the rank of Police Constable to the highest position in the Sri Lanka Police.
-
-◼️
-
-[Data](articles/06362e7a.json)
-
----
-
-### பம்பலப்பிட்டியில் மாயமான பணம் கண்டுபிடிக்கப்பட்டது
-
-*2025-08-15 21:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-மாயமான-பணம்-கண்டுபிடிக்கப்பட்டது/175-362983) · `ta`
-
-பம்பலப்பிட்டியில் உள்ள ஒரு பணப் போக்குவரத்து நிறுவனத்திற்குச் சொந்தமான வேனில் இருந்து 10 மில்லியன் ரூபாய்க்கும் அதிக மதிப்புள்ள பணப் பை காணாமல் போன நிலையில், முறைப்பாடு கிடைத்த 24 மணி நேரத்திற்குள் சந்தேகநபர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-அந்தப் பணத்தில் ரூ.10,000,000 செல்லுபடியாகும் நாணயம், ரூ.6,000 சேதமடைந்த நோட்டுகள் மற்றும் ரூ.390,000 மதிப்புள்ள அமெரிக்க டாலர் ரூ.1,300 ஆகியவை அடங்கும் என்றும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
-
-வேனில் 15 பைகள் பணம் கொண்டு செல்லப்பட்டதாகவும், அவற்றில் 14 பைகள் ஒப்படைக்கப்பட்டதாகவும் பொலிஸ்  விசாரணையில் தெரியவந்துள்ளது.
-
-அதன்படி, அன்று பணத்தை சேகரிக்கப் பயன்படுத்திய வேனின் சாரதி, நிறுவனத்தில் வேனை நிறுத்திவிட்டு, தோளில் ஒரு பை தொங்கியபடி நிறுவன வளாகத்தை விட்டு வெளியேறுவது சிசிடிவி கேமராவில் பதிவாகியுள்ளது.
-
-இதையடுத்து இன்று (15) மதியம் நிறுவனத்தில் ஓட்டுநர் கைது செய்யப்பட்டார். விசாரணையின் போது, பணம் இருந்த பையை அவர் பயாகலவில் உள்ள தனது வீட்டிற்கு எடுத்துச் சென்றது தெரியவந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/1d35ab26.json)
-
----
-
-### නියෝජ්‍ය පොලිස්පති ලෙසින් අනුරපුර පොලිසියට බලපෑම් කළ අය සොයා විමර්ශනයක්
-
-*2025-08-15 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213421) · `si`
-
-නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරියක ඇතුළු සැකකරුවන් හත් දෙනෙකු ශ්‍රාවස්තිපුර තිඹිරිගස්කඩවල ගල්තාලවක් සහිත ඉඩමක නිදන් හාරමින් සිටියදී අත් අඩංගුවට ගැනීමේ සිද්ධියේදී ඔවුන් මුදා හරින ලෙස වැටලීම සිදුකළ පොලිස් නිලධාරීන්ට දුරකතන ඔස්සේ බලපෑම් කළ බව කියන නියෝජ්‍ය පොලිස්පතිවරයෙකු බව පැවසූ පුද්ගලයා හඳුනා ගැනීම සඳහා අදාළ ඇමතුම ලබා දුන් දුරකතන අංක පිළිබඳව සහ එහි සැකකරුවන්ගේ දුරකතන පිළිබඳව විශ්ලේෂණ වාර්තා නොපමාව ලබාදෙන ලෙස අනුරාධපුර වැඩබලන මහෙස්ත්‍රාත් චන්දන වීරකෝන් පෞද්ලික දුරකතන සමාගමකට අද (15) නියෝග කරනු ලැබීය.
-
-අනුරාධපුර වැඩබලන මහෙස්ත්‍රාත් චන්දන වීරකෝන් මහතා මෙලෙස නියෝග කර ඇත්තේ නියෝජ්‍ය පොලිස්පතිවයෙකුගේ බිරියක බව කියන කාන්තාව ඇතුළු සැකකරුවන් හත්දෙනෙකු අනුරාධපුර ශ්‍රාවස්තිපුර ප්‍රදේශයේ තිඹිරිගස්කඩවල ප්‍රදේශයේ ගල් තලාවක් සහිත ඉඩමක නිදහන් හාරමින් සිටියදී අත් අඩංගුවට ගැනීමේ සිද්ධියට අදාළව වැඩිදුර වාර්තාවක් මගින් අනුරාධපුර පොලිසියේ අපරාධ විමර්ශන අංශය අධිකරණයෙක් කළ ඉල්ලීමක් සළකා බලමිනි.
-
-...
-
-[Data](articles/d190a37f.json)
 
 ---

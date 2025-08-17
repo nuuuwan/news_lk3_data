@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 13:50:56**
+As of **2025-08-17 14:07:57**
 
 ## Newspaper Stats
 
-*Scraped **70,908** Articles*
+*Scraped **70,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,842
 adaderanalk | 8,867
-tamilmirrorlk | 10,449
+tamilmirrorlk | 10,450
 virakesarilk | 11,763
 adaderanasinhalalk | 12,227
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,908 articles have been extended.
+61,973 (87.4%) of 70,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### “என் மடியில் வளர்ந்த பிள்ளை லொஹான்”
+
+*2025-08-17 13:36:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/என்-மடியில்-வளர்ந்த-பிள்ளை-லொஹான்/76-363052) · `ta`
+
+மறைந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த, குழந்தையாக இருந்த காலத்தில் எனது மடியில் வளர்ந்த பிள்ளை என ஐக்கிய மக்கள் சக்தியின் முன்னாள் பாராளுமன்ற உறுப்பினர்  லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+எழுபதுகளில் அனுருத்த ரத்வத்தே கலந்து கொண்ட கூட்டத்தில் அவர் உரையாற்றும் வாய்ப்பை வழங்குவதற்காக லொஹானை தனது மடியில் வைத்திருந்ததாகவும்  அவர் நினைவுபடுத்தினார்.
+
+லொஹான் ரத்வத்தையின் மறைவுக்கு ஆழ்ந்த அனுதாபங்களை  தெரிவிப்பதாக லக்ஷ்மன் கிரியெல்ல மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/4a844720.json)
+
+---
 
 ### மூன்றாம் தவணை நாளை ஆரம்பம்
 
@@ -62,7 +78,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ගිංතොටදී පීලි පැන්න ගාලු කුමාරි දුම්රිය පීලිගත කිරීම තවදුරටත්
+### මුහුදුබඩ දුම්රිය මාර්ගයේ එක් මංතීරුවක් විවෘත කෙරේ
 
 *2025-08-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213467) · `si`
 
@@ -74,9 +90,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 දුම්රිය පීලි පැනීමෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ධාවන කටයුතු අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා සීමා කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
 
-හානියට පත්වූ දුම්රිය මාර්ගයේ ප්‍රතිසංස්කරණ කටයුතු ඊයෙ රාත්‍රියේම නැවත ආරම්භ කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+හානියට පත්වූ දුම්රිය මාර්ගයේ ප්‍රතිසංස්කරණ කටයුතු ඊයේ රාත්‍රියේම නැවත ආරම්භ කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
 
-ඒ අනුව අද (17) පෙරවරු 11.00ට පමණ එක් මංතීරුවක් දුම්රිය ධානය සඳහා විවෘත කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගත්තේය.
+ඒ අනුව අද (17) පෙරවරු 11.00ට පමණ එක් මංතීරුවක් දුම්රිය ධාවනය සඳහා විවෘත කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගත්තේය.
 
 දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ පීලි පැනීමෙන් හානියට පත්වූ දුම්රිය මාර්ගය නැවත ප්‍රතිසංස්කරණය කර හැකි ඉක්මනින් දුම්රිය ධාවනය සඳහා විවෘත කිරීමට පියවර ගන්නා බවය.
 
@@ -1787,17 +1803,5 @@ Impairment charges saw a sharp 78% drop to Rs 1.4 billion, driven by improved cr
 ◼️
 
 [Data](articles/8d5e750c.json)
-
----
-
-### Premadasa, the JVP, LTTE,and relations with India
-
-*2025-08-16 14:50:00* · [`islandlk`](http://island.lk/premadasa-the-jvp-ltteand-relations-with-india/) · `en`
-
-Of all the local political leaders it was Premadasa who was the most sympathetic to the JVP. He made a well noticed entrance to follow the proceedings of the Criminal Justice Commission that tried Wijeweera and his fellow leaders of the 1971 insurrection. He set up clandestine groups to negotiate with the leaders of the JVP who were underground, even offering them three portfolios in his Cabinet. But the JVP did not respond positively. He was thwarted and when the smooth passage of his administration was undermined by the JVP he turned to Ranjan Wijeratne, who had a military background and was considered to be a ruthless operator, to launch an all out attack on them.
-
-...
-
-[Data](articles/3e9dc426.json)
 
 ---

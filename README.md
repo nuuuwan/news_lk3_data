@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 13:31:27**
+As of **2025-08-17 13:50:56**
 
 ## Newspaper Stats
 
-*Scraped **70,905** Articles*
+*Scraped **70,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,326
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,840
+adalk | 6,842
 adaderanalk | 8,867
-tamilmirrorlk | 10,448
+tamilmirrorlk | 10,449
 virakesarilk | 11,763
 adaderanasinhalalk | 12,227
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,905 articles have been extended.
+61,973 (87.4%) of 70,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### மூன்றாம் தவணை நாளை ஆரம்பம்
+
+*2025-08-17 13:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-363051) · `ta`
+
+2025ஆம் ஆண்டின் அரச பாடசாலைகள் மற்றும் அரச அனுமதி பெற்ற தனியார் பாடசாலைகளில் சிங்களம் மற்றும் தமிழ் பாடசாலைகளுக்கான இரண்டாவது பாடசாலைத் தவணை கடந்த 7 ஆம் திகதி நிறைவடைந்தது.
+
+இதன்படி, குறித்த பாடசாலைகளின் 3 ஆம் தவணை கற்றல் நடவடிக்கைகள் நாளை (18) ஆரம்பமாகும் என கல்வியமைச்சு அறிவித்துள்ளது.
+
+இதேவேளை, முஸ்லிம் பாடசாலைகளுக்கான மூன்றாம் தவணை கல்வி நடவடிக்கைகள் எதிர்வரும் 25 ஆம் திகதி திங்கட்கிழமை ஆரம்பிக்கப்படும்.
+
+◼️
+
+[Data](articles/bebe3226.json)
+
+---
+
+### දේශපාලන බලපෑම් තියෙනවා නම් ඒ හරි දේ කරන්න කියලා විතරයි
+
+*2025-08-17 13:27:08* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-බලපෑම්-තියෙනවා-නම්-ඒ-හරි-දේ-කරන්න-කියලා-විතරයි/11-417952) · `si`
+
+තමාට කිසිදු දේශපාලන බලපෑමක් නොමැති බවත්, කෙසේ වෙතත් දේශපාලන බලපෑම් තිබෙනවා නම් ඒ තිබෙනුයේ හරි​ දේ කිරීමට පමණක් බව පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පැවසීය.
+
+මත්ද්‍රව්‍ය ජාවාරම අද ඊයේ ඇතිවූවක් නෙවෙයි. පතාල ජීවිත හානි කිරීම් අද ඊයේ ඇතිවූවක් නෙවෙයි. මේවා දිගින් දිගටම පැවතුනා. මේවට යම් යම් දේශපාලන ආශිර්වාද ලැබිලා තියෙනවා. පොලීසියේ නිලධාරීන්ගේ සහය සහ රැකවරණය ලැබිලා තියෙනවා. ත්‍රිවිධ හමුදාවේ පුද්ගලයන් ඒ සඳහා පාවිච්චි කළා. මත්ද්‍රව්‍යට ඇබ්බැහි වූවන් මේකට පාවිච්චි කරමින් ඉන්නවා. මේවගේ මෙහෙයවීම් කරන්නේ නිවට නියාලු පිරිසක් විදේශ ගතවෙලා මේවා කරමින් පවතිනවා. දේශපාලක කිසිම බලපෑමක් නෑ. දේශපාලන බලපෑම් තියෙනවා නම් තියෙන්නේ හරි දේ කරන්න කියලා විතරයි.
+
+◼️
+
+[Data](articles/3ff12c37.json)
+
+---
 
 ### ගිංතොටදී පීලි පැන්න ගාලු කුමාරි දුම්රිය පීලිගත කිරීම තවදුරටත්
 
@@ -127,6 +157,20 @@ However, he stressed that there is currently no political pressure on law enforc
 ◼️
 
 [Data](articles/95dc978b.json)
+
+---
+
+### ඇල්ල සංචාරකයන්ගෙන් පිරී යයි
+
+*2025-08-17 11:42:59* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-සංචාරකයන්ගෙන්-පිරී-යයි/11-417949) · `si`
+
+ඇල්ල නගරය මේදිනවල  විදේශීය සංචාරකයන් ගෙන් පිරී ඇති  අතර අද (17)  බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වන පොඩිමැණිකේ දුම්රියෙන් සිය ගමන් පහසුව සලසා ගැනිමට ඇල්ල දුම්රිය ස්ථානයේදී විදේශිකයන් විශාල පිරිසක් එක්ව සිටියහ.
+
+විදේශීය සංචාරකයන්  අන්තර් ජාලය හරහා දුම්රිය ප්‍රවේශ පත් වෙන්කර ගැනිම නිසාවෙන් එම දුම්රිය ප්‍රවේශ පත් දුම්රිය නියාමකවරයා විසින් පරික්ෂා කර බලා අදාළ මගීන් දුම්රියට නංවා ගැනිම නිසාවෙන් ආසන වෙන්කර ගත් විදේශීය සංචාරකයන් ට ටික වේලාවක් දුම්රිය වේදිකාවේ රැදී සිටීමටද සිදුවිය. මේනිසාවෙන් පොඩිමැණිකේ දුම්රිය ද තරමක් ප්‍රමාද වී ධාවනය කැරින .
+
+◼️
+
+[Data](articles/862279a6.json)
 
 ---
 
@@ -1755,49 +1799,5 @@ Of all the local political leaders it was Premadasa who was the most sympathetic
 ...
 
 [Data](articles/3e9dc426.json)
-
----
-
-### More random stories from my stint on ETF Board
-
-*2025-08-16 14:49:00* · [`islandlk`](http://island.lk/more-random-stories-from-my-stint-on-etf-board/) · `en`
-
-LESSONS FROM MY CAREER: SYNTHESISING MANAGEMENT THEORY WITH PRACTICE – PART 19
-
-I will present more stories and the valuable lessons learnt at ETF. Some may be good case studies for managers rising up in their careers. Some will be from experiences drawn before my removal and reinstatement by the President, and some will be from experiences after the incident.
-
-As discussed in previous episodes, unity was clearly lacking. The staff worked, but didn’t seem excited about their tasks or engaged in their work. They needed some exciting project to work on. Their potential was not fully utilised. The older managers had no clue about modern management. However, they were men and women of great integrity and loyalty to the organisation.
-
-...
-
-[Data](articles/fe202cf6.json)
-
----
-
-### “Reflections on the Life and Times of Lakshman Kadirgamar on  the 20th Anniversary of His Death”
-
-*2025-08-16 14:46:00* · [`islandlk`](http://island.lk/reflections-on-the-life-and-times-of-lakshman-kadirgamar-on-the-20th-anniversary-of-his-death/) · `en`
-
-From the time I was old enough to cultivate an interest in politics, I have familiarized myself with the life and times of those political personalities I took a liking to. The late Dudley Senanayake (who incidentally died in 1973 a day after Lakshman Kadirgamar’s 41st birthday) was the first I took to and I consider it my loss that I did not have the opportunity to get to know him personally. Of the several politicians that I have subsequently taken note of, there were two I got particularly close to and they were both, coincidentally enough, Oxonians who happened also to be presidents of the Oxford Union in their time. I refer to Lalith Athulathmudali and Lakshman Kadirgarmar. Athulathmudali did not attend a local university prior to going up to Oxford, as did Kadirgamar. The former’s cake, (to borrow a metaphor from Kadirgamar himself) was not baked at home, unlike that of the latter for whom Oxford was only the icing on his superlative, home-produced, academic confection.
-
-...
-
-[Data](articles/edceefbc.json)
-
----
-
-### பணிப்புறக்கணிப்பில் குதிக்கும் தபால் ஊழியர்கள்
-
-*2025-08-16 14:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதிக்கும்-தபால்-ஊழியர்கள்/175-363004) · `ta`
-
-தபால் மற்றும் தொலைத்தொடர்பு அதிகாரிகள் சங்கம் மற்றும் ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியினர் நாளை மாலை 4.00 மணி முதல் பணிப்புறக்கணிப்பில் ஈடுபடத் தீர்மானித்துள்ளனர்.
-
-தபால் ஊழியர்களின் மேலதிக கொடுப்பனவு, நிர்வாக அலுவலகம் மற்றும் கணக்காய்வு அலுவலகங்களில் ஊழியர்களின் பணியை ஆரம்பிக்கும் நேரம் மற்றும் வௌியேறும் நேரம் என்பவற்றை கைவிரல் அடையாள இயந்திரங்களில் பதிய வேண்டும் என்ற அறிவுறுத்தல்களுக்கு எதிர்ப்புத் தெரிவித்தல் உள்ளிட்ட 19 கோரிக்கைகளை முன்வைத்து தபால் ஊழியர்கள் இவ்வாறு பணிப்புறக்கணிப்பை முன்னெடுக்கவுள்ளனர்.
-
-பின்னர் நாளை நள்ளிரவு 12 மணி முதல் நாடளாவிய ரீதியில் உள்ள அனைத்து தபால் நிலையங்களில் உள்ள ஊழியர்கள் தொடர்ச்சியான பணிப்புறக்கணிப்பில் ஈடுபடத் திட்டமிட்டுள்ளதாக ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணி அறிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/90aae24f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 06:12:38**
+As of **2025-08-17 06:39:24**
 
 ## Newspaper Stats
 
-*Scraped **70,851** Articles*
+*Scraped **70,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,22 +13,42 @@ dbsjeyarajcom | 603
 bbccomsinhala | 677
 colombotelegraphcom | 725
 economynextcom | 4,325
-islandlk | 4,354
+islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,833
 adaderanalk | 8,853
 tamilmirrorlk | 10,428
 virakesarilk | 11,761
-adaderanasinhalalk | 12,218
+adaderanasinhalalk | 12,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,851 articles have been extended.
+61,973 (87.5%) of 70,853 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-17 (Sunday)
+
+### අද කාලගුණය
+
+*2025-08-17 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213459) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (17) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/2edda9f7.json)
+
+---
 
 ### 2025-08-16 (Saturday)
 
@@ -346,7 +366,7 @@ The killings came after weeks of public incitement against Al Jazeera reporters,
 
 ---
 
-### ගාලූ කුමරී පීලි පනී
+### ගාලු කුමාරී පීලි පනී
 
 *2025-08-16 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213450) · `si`
 
@@ -643,6 +663,22 @@ A standout feature is the built-in integrated soundbar, eliminating the need for
 ...
 
 [Data](articles/3c00b8c2.json)
+
+---
+
+### Ruhunu Farms unveils new facility, supporting continued growth of Aberdeen Holdings
+
+*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/ruhunu-farms-unveils-new-facility-supporting-continued-growth-of-aberdeen-holdings/) · `en`
+
+Ruhunu Farms (Pvt) Ltd a subsidiary of Aberdeen Holdings, commemorated the opening of its expanded poultry facility recently, at its premises in Hambantota. The ceremony marked a pivotal chapter in the company’s 46-year journey of delivering safe, hygienic, and responsibly produced poultry to communities across the Southern Province.
+
+The inauguration was held at the Ruhunu Farms site in Hambantota and was attended by distinguished guests including Sattar Kassim, Chairman of Aberdeen Holdings, Hassan Kassim, Deputy Chairman, and the Board of Directors of the group. Among the distinguished attendees was Azmi Thassim, founder of the original M.R. Thassim and Company, which has since evolved into Ruhunu Farms.
+
+Mohamed Rizwan Said, General Manager of Ruhunu Farms, remarked: “This milestone marks a proud chapter in our 46-year journey. As the most significant transformation in our farm’s history, the new facility brings greater capacity.”
+
+...
+
+[Data](articles/cdace042.json)
 
 ---
 
@@ -1797,35 +1833,5 @@ This year, the exhibition has expanded the Knowledge Hub, it introduced last yea
 ...
 
 [Data](articles/e6e76c5f.json)
-
----
-
-### Lanka Rating Agency upgrades First Capital Holdings to ‘A+’
-
-*2025-08-16 00:08:52* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Rating-Agency-upgrades-First-Capital-Holdings-to-A/34-780364) · `en`
-
-First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) and a pioneering full-service investment institution, and Lanka Rating Agency Ltd. (LRA), an independent credit rating authority of Sri Lanka, are pleased to announce the upgrade of the company’s long-term credit rating to ‘A+’ from ‘A’, with a stable outlook.
-
-This upgrade reflects First Capital’s sustained profitability, sound capital structure, robust governance, and strategic leadership in Sri Lanka’s evolving capital market landscape.
-
-The rating upgrade follows an in-depth review of First Capital’s financial performance, risk management frameworks, and market positioning. The company has consistently demonstrated strength in its core operations particularly in Government securities trading, capital markets advisory, and wealth management backed by strong compliance standards and operational discipline.
-
-...
-
-[Data](articles/1afe405b.json)
-
----
-
-### Innovate’s “Akuru” pen by Atlas Axillia, inspires young creators with sensory, cultural, and emotional connection
-
-*2025-08-16 00:08:41* · [`dailyftlk`](https://www.ft.lk/business/Innovate-s-Akuru-pen-by-Atlas-Axillia-inspires-young-creators-with-sensory-cultural-and-emotional-connection/34-780363) · `en`
-
-Innovate, the premium lifestyle brand of Atlas Axillia, recently launched an exquisite and exciting product – a cinnamon-infused ink aromatic pen. Inspiring today’s youth, “Akuru” represents a fusion of authentic culture and modern creativity, designed to empower creators to embrace their cultural roots while expressing their individuality.
-
-Innovate’s “Akuru” pen offers more than mere functionality. It energises the writing experience, turning a routine task into a source of excitement and creative expression through offering a one-of-a-kind sensory experience. The event held at The Sanctuarii offered an intimate, first-hand experience that captivated young consumers through a sensory journey, one that resonated emotionally and culturally, redefining how stationery connects with its audience. The Akuru pen, with its Sri Lankan cinnamon aroma–infused ink, offers a writing experience that enhances tactile and visual interaction while fostering a strong emotional connection.
-
-...
-
-[Data](articles/860d76dd.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 17:31:26**
+As of **2025-08-17 17:52:38**
 
 ## Newspaper Stats
 
-*Scraped **70,938** Articles*
+*Scraped **70,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,845
 adaderanalk | 8,875
-tamilmirrorlk | 10,453
+tamilmirrorlk | 10,455
 virakesarilk | 11,768
-adaderanasinhalalk | 12,234
+adaderanasinhalalk | 12,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,938 articles have been extended.
+61,973 (87.4%) of 70,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### සෙලෙන්ස්කිගේ සහායට යුරෝපීය නායකයින් ද අමෙරිකාවට
+
+*2025-08-17 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213475) · `si`
+
+යුක්‍රේන ජනපති වොලොඩිමියර් සෙලෙන්ස්කි හා අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර හෙට (18) ධවල මන්දිරයේ පැවැත්වීමට නියමිත සාකච්ඡාවට යුරෝපීය රාජ්‍ය නායකයින් ද එක්වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
+
+ඒ අනුව ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන්, ජර්මානු චාන්සලර් ෆ්‍රෙඩ්රික් මර්ස්, ෆින්ලන්ත ජනාධිපති ඇලෙක්සැන්ඩර් ස්ටබ්, ඉතාලි අගමැතිනි ජෝර්ජියා මෙලෝනි හෙට (18)  වොෂින්ටනයට යාමට නියමිතය.
+
+එමෙන්ම යුරෝපීය සංගමයේ සභාපතිනි උර්සුලා වොන්ඩර් ලේන් හා නේටෝ මහලේකම් මාර්ක් රූට් යන අයද මේ සඳහා එක්වනු ඇත.
+
+රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම වෙනුවෙන් අමෙරිකානු ජනාධිපතිවරයා හා රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර ඉකුත් සිකුරාදා (15) පැවැත් වූ සාකච්ඡාවේ කරුණු දැනගැනීම සඳහා සෙලෙන්ස්කි මෙලෙස අමෙරිකාවට යාමට නියමිතය.
+
+මෙම තීරණාත්මක සාකච්ඡාවෙන් පසු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්, යුක්‍රේන සහ යුරෝපා රටවල නායකයින් කිහිප දෙනෙකු සමගම දුරකතන සාකච්ඡාවක් ද පවත්වා තිබේ.
+
+◼️
+
+[Data](articles/0a658c64.json)
+
+---
+
+### ஊடகவியலாளர் குமணனிடம் ஏழு மணித்தியாலம் விசாரணை
+
+*2025-08-17 17:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்-குமணனிடம்-ஏழு-மணித்தியாலம்-விசாரணை/175-363073) · `ta`
+
+முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன் பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட நிலையில் ஞாயிற்றக்கிழமை (17) அன்று காலை 9.30 மணிக்கு  அவர்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றார்.
+
+விசாரணைக்காக அழைக்கப்பட்ட குமணன் சட்டத்தரணி நடராசா காண்டீபனுடன் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணை பிரிவில் விசாரணைக்காக சென்ற நிலையில் சுமார் பத்து மணியளவில் ஆரம்பித்த விசாரணை சுமார் ஏழு   மணித்தியாலங்களாக தொடர்ச்சியாக இடம்பெற்று சற்று முன்னர் நிறைவடைந்துள்ளது.
+
+◼️
+
+[Data](articles/1f875471.json)
+
+---
+
+### எரிபொருளில் மோசடி செய்த பொலிஸ் சாரதி கைது
+
+*2025-08-17 17:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருளில்-மோசடி-செய்த-பொலிஸ்-சாரதி-கைது/175-363072) · `ta`
+
+காத்தான்குடி பொலிஸ் நிலையத்தில் வாகனத்துக்கு வழங்கப்படும் எரிபொருள் (வவுச்சர் ) பற்றுச்சீட்டை எரிபொருள் நிலையத்தில் வழங்கி  6 ஆயிரத்து 600 ரூபாய் அரச பணத்தை மோசடி செய்த பொலிஸ் நிலைய பொறுப்பதிகாரியின் வாகன சாரதியான பொலிஸ் கான்ஸ்டபிள் ஒருவரை   சனிக்கிழமை (16) இரவு பொலிஸ் நிலையத்தில் வைத்து கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+குறித்த பொலிஸ் நிலையத்தின்  வாகனங்களுக்கு எரிபொருளை பெற்றுக் கொள்வதற்காக பொலிஸ் நிலையத்தில் பவுச்சரை பெற்றுக் கொண்டு அதை நகரில் உள்ள எரிபொருள் நிரப்பு நிலையம் ஒன்றில் வழங்கி அதற்கான எரிபொருளை வாகனங்களுக்கு நிரப்பி செல்வது வழமையானது.
+
+...
+
+[Data](articles/d9bef4f0.json)
+
+---
 
 ### வடக்கு, கிழக்கு மக்களுக்கு அமைச்சர் விசேட அறிவித்தல்
 
@@ -1787,57 +1835,5 @@ It is reported that train operations on the Coastal Line have been restricted to
 ◼️
 
 [Data](articles/549f085b.json)
-
----
-
-### රටට අවශ්‍ය මැද මාවතක් බව විපක්ෂ නායකවරයා කියයි
-
-*2025-08-16 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213453) · `si`
-
-Center for Poverty Analysis හරහා සිදු කළ පර්යේෂණයක් තුළින් අපේ රටෙහි දුප්පත්කම ගැන සෘජු දත්ත ඇති බවත් මේ දත්ත මගින් හෝ අප රටක් ලෙස පාඩමක් ඉගෙන ගත යුතු බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස පවසයි.
-
-අන්ත දක්ෂිණාංශික හෝ අන්ත වාමාංශික ප්‍රතිපත්ති රටට ඔබින නොවන බවත් දකුණ සහ වම යන වචන භාවිත කිරීම මෝස්තරයක් වී ඇති බවත් මේ වාමාංශික සහ දක්ෂිණාංශික ක්‍රමවල පවතින හොද ගුණාංග ගෙන සෘණාත්මක දේ පසෙකලා මැද මාවතේ එනම් සමාජ ප්‍රජාතන්ත්‍රවාදී මාවතේ යා යුතු බවත් එහිදී ඔහු වැඩිදුරටත් පැවසුවේය.
-
-මානුෂීය ධනවාදය තුළ ධනය උත්පාදනය ආර්ථික වර්ධනය වේගවත් කිරීම මෙන්ම වෙළදපෙලේ ඉල්ලුමට සැපයුමට පමණක් බාර දී මෙම ධනය පහළට කාන්දු වෙයි කියන සිතුවිල්ල රටට සුදුසු නොවන බව ද විපක්ෂ නායකවරයා සඳහන් කළේය.
-
-Citizen Voice වැඩසටහන යටතේ ආර්ථික විශේෂඥයන් පිරිසක් සමග ශ්‍රී ලංකාවේ ආර්ථික ගැටලු හා දිළිඳුකම පිටු දැකීම පිළිබඳව හමුවකදී ඔහු මෙම අදහස් පළ කර සිටියේය.
-
-...
-
-[Data](articles/5589fe50.json)
-
----
-
-### Indian naval ships in Colombo for SLINEX-25 naval exercise
-
-*2025-08-16 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111526/indian-naval-ships-in-colombo-for-slinex-25-naval-exercise) · `en`
-
-Indian Naval Ships INS Rana (a Guided Missile Destroyer) and INS Jyoti (Fleet Tanker) arrived at Colombo to participate in the 12th edition of Sri Lanka India Naval Exercise (SLINEX-25) scheduled from August 14 to 18.
-
-Conceptualised in 2005, SLINEX is a bilateral naval exercise that has strengthened maritime cooperation between the two nations over two decades. SLINEX aims at enhancing interoperability, maritime cooperation and exchanging best practices while jointly undertaking multi-faceted maritime operations.
-
-The previous edition of SLINEX was conducted at Visakhapatnam, India, from December 17 to 20, 2024.
-
-In a post on X on Friday, the Navy spokesperson said the ships were welcomed warmly by Sri Lanka Navy personnel and will be part of drills aimed at “enhancing interoperability, maritime cooperation and exchanging best practices while jointly undertaking multi-faceted maritime operations.”
-
-...
-
-[Data](articles/9580e6f3.json)
-
----
-
-### ඔස්ට්‍රේලියාවේ භූ කම්පනයක්
-
-*2025-08-16 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213452) · `si`
-
-ඔස්ට්‍රේලියාවේ නැගෙනහිර වෙරළ ආසන්නයේ අද (16) රික්ටර් මාපකයේ ඒකක 4.9ක භූ කම්පනයක් හට ගෙන තිබේ.
-
-මෙම භූමිකම්පාව හේතුවෙන් සුනාමි ඇති වීමේ අවධානමක් නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-මේ හේතුවෙන් එම ප්‍රදේශයේ ගොඩනැගිලි 11,000ක පමණ විදුලිය විසන්ධි වී ඇති බවද සඳහන් වේ.
-
-◼️
-
-[Data](articles/e9d7f80f.json)
 
 ---

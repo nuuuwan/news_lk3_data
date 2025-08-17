@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 00:08:15**
+As of **2025-08-18 00:24:42**
 
 ## Newspaper Stats
 
-*Scraped **70,971** Articles*
+*Scraped **70,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 725
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,978
+dailyftlk | 4,985
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,9 +26,25 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,971 articles have been extended.
+61,973 (87.3%) of 70,978 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-18 (Monday)
+
+### Siyapatha Finance opens 55th branch in Ambalangoda
+
+*2025-08-18 00:02:28* · [`dailyftlk`](https://www.ft.lk/business/Siyapatha-Finance-opens-55th-branch-in-Ambalangoda/34-780397) · `en`
+
+Siyapatha Finance PLC recently opened its 55th branch, strategically located at No. 29, Galle Road, Ambalangoda, marking a significant milestone in the company’s commitment to bringing accessible, customer-centric financial solutions to more communities across the island.
+
+The ceremonial opening was graced by Managing Director Ananda Seneviratne along with Directors Jayanath Gunawardena and.Sriyani Ranathunga, Chief Operating Officer Rajeev De Silva, members of the Senior Management, Local Government representatives including the Divisional Secretary of Ambalangoda Hasanthi Niroshani, Ambalangoda Police Chief Inspector Ranaweera, Grama Niladhari Hansa Kumara de Silva, Trade Association President Sarath De Silva, and officials from both public and private banking, insurance, and financial sectors.
+
+...
+
+[Data](articles/09393c32.json)
+
+---
 
 ### 2025-08-17 (Sunday)
 
@@ -53,6 +69,100 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/af64dfee.json)
+
+---
+
+### Invest Sri Lanka Forum draws strong interest in Singapore
+
+*2025-08-17 23:42:17* · [`dailyftlk`](https://www.ft.lk/business/Invest-Sri-Lanka-Forum-draws-strong-interest-in-Singapore/34-780394) · `en`
+
+Labour Minister and Deputy Minister of Economic Development Prof. Anil J. Fernando
+
+Panel discussion: Outlook of the Sri Lankan Economy in Light of Global Uncertainty
+
+The “Invest Sri Lanka” Investor Forum, organised by the Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the High Commission of Sri Lanka to Singapore, successfully concluded at the Conrad Singapore Marina Bay, making a compelling case for channelling investment flows into Sri Lanka.
+
+The event attracted over 150 prospective investors from diverse sectors in Singapore.
+
+...
+
+[Data](articles/3713ac8d.json)
+
+---
+
+### Remembering my friend Harry on his 83rd birthday
+
+*2025-08-17 23:31:58* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-my-friend-Harry-on-his-83rd-birthday/4-780388) · `en`
+
+Every year, for so many years, the first thing I would do as soon as I woke up on 17 August was to call my dear friend, the late Harry Stassen Jayawardena. Every single time, it started with, “Happy birthday, Lokka.” He would answer right back, “Thank you, Lokka.” It’s funny how we both called each other ‘Lokka.’ That strange nickname became our little tradition, and it always made us grin.
+
+Today, i.e. 17 August 2025, it’s different. I can make the call. I know what to say. But Lokka is no more.
+
+...
+
+[Data](articles/52698dda.json)
+
+---
+
+### Bridging the gap: What will it take to get more women in management
+
+*2025-08-17 23:27:09* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-the-gap-What-will-it-take-to-get-more-women-in-management/4-780387) · `en`
+
+In 2019, MAS set a goal to achieve 30% women in management by 2025 as part of our Plan for Change. We wanted to aim high, but we also recognised the magnitude of the challenge. Even then, it was clear that deep structural and cultural barriers were holding women back from advancing in their careers.
+
+The data reflected this. In Sri Lanka, women held only 12.5% of senior and middle management positions in 2021, according to the World Economic Forum’s Global Gender Gap Report. And this is not a challenge unique to us. In 2020, women held just under 30% of similar roles across G20 countries (ILO, 2020), with cultural norms and societal expectations consistently cited as major obstacles.
+
+...
+
+[Data](articles/6224414a.json)
+
+---
+
+### Not too late for a winning bet: Need to redraft Gambling Bill
+
+*2025-08-17 23:22:25* · [`dailyftlk`](https://www.ft.lk/columns/Not-too-late-for-a-winning-bet-Need-to-redraft-Gambling-Bill/4-780386) · `en`
+
+As this is Sri Lanka’s first attempt at gaming regulation, it is far easier to get it right now than to amend entrenched laws later, when vested interests will have multiplied. By passing the Bill in its current form, the NPP Government—elected to fight corruption—risks a major gamble, increasing both corruption risks and rent-seeking vulnerabilities
+
+After weeks of discussion, the Committee on Public Finance approved the Gambling Regulatory Authority (GRA) Bill last week. While the Bill faces its second reading in Parliament this Tuesday, its many deficiencies remain—helping create a regulator not worth its salt.
+
+Gaming encompasses both gambling—games of pure chance like casinos and lotteries—and betting, which mixes chance with skill, such as horseracing. Despite moral arguments against gaming, a blanket ban is unlikely to be effective. Singapore learned this the hard way and legalised gambling under strict regulation in 2005.
+
+...
+
+[Data](articles/5fb3e847.json)
+
+---
+
+### Rule of law in taxation: Rights before revenue – Part 2
+
+*2025-08-17 23:14:12* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-2/4-780385) · `en`
+
+Many tax officials continue to reject self-assessment returns by merely stating their conclusions, without providing the reasons required by law
+
+Part 1 of this article (https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-1/4-779983) emphasised the fundamental principle that taxpayers’ rights take precedence over the taxing right of the State, particularly when those rights are violated by tax authorities. In such instances, tax officials are not only legally bound but also morally obligated to respect and uphold taxpayers’ rights above their administrative duty of tax collection.
+
+...
+
+[Data](articles/b59de1b3.json)
+
+---
+
+### Israeli massacre of Palestinian journalists
+
+*2025-08-17 23:05:15* · [`dailyftlk`](https://www.ft.lk/columns/Israeli-massacre-of-Palestinian-journalists/4-780383) · `en`
+
+This undated photo shows Al Jazeera correspondents Anas al Sharif (left) and Mohammed Qraiqea outside a media tent
+
+Al Jazeera correspondent Anas al Sharif holding his two children, daughter Sham (left) and son Salah (right)
+
+Palestinian journalists and others gather for the funeral of six reporters directly targeted and killed by Israeli forces in a tent a day earlier in Gaza City, on 11 August 2025 (Mohammed al-Hajjar/MEE)
+
+Sharif’s killing is not an ending. It is the erasure of a witness before the curtain rises on what comes next: massacres planned in plain view, sanctioned by United States, United Kingdom, European allies and shameless Arab tyrants, to drive Gaza’s last survivors from their land. Sharif’s blood is not Israel’s burden alone. It stains the hands of every government that looked away
+
+...
+
+[Data](articles/ff9f95ae.json)
 
 ---
 
@@ -1729,129 +1839,5 @@ During the raids, two Malaysian nationals and a Sri Lankan man, aged between 25 
 ...
 
 [Data](articles/b336a5bc.json)
-
----
-
-### ரூ. 17.50 கோடி நகைகள் 90 வினாடிகளில் கொள்ளை
-
-*2025-08-17 09:28:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரூ-17-50-கோடி-நகைகள்-90-வினாடிகளில்-கொள்ளை/50-363027) · `ta`
-
-வாஷிங்டன்: அமெரிக்காவில் பட்டப்பகலில் நகைக் கடையில் நுழைந்த முகமூடி கும்பல், வெறும் 90 வினாடிகளில், 17.5 கோடி ரூபாய் மதிப்புள்ள வைர, தங்க நகைகளுடன், ஆடம்பர கைக்கடிகாரங்களையும் கொள்ளையடித்துச் சென்றது.
-
-அமெரிக்காவின் வாஷிங்டன் மாகாணத்தின் மேற்கு சியாட்டில் உள்ளது மெனாஷே சன்ஸ்' என்ற நகைக்கடை. இந்த கடையில் நேற்று முன்தினம் மதிய நேரத்தில் ஊழியர்கள் விற்பனையில் ஈடுபட்டிருந்தனர்.
-
-அவர்கள், கரடி ஸ்ப்ரே, துப்பாக்கி போன்ற டேசர் எனப்படும் மின்னழுத்த ஆயுதத்தால் ஊழியர்களை தாக்கியுள்ளனர். இதில் யாருக்கும் பெரிய அளவில் காயம் ஏற்படவில்லை.
-
-பின்னர் அங்கு ஒரு பெட்டியில் வைக்கப்பட்டிருந்த ஆறரை கோடி ரூபாய் மதிப்புள்ள, 'ரோலக்ஸ்' கடிகாரங்களையும், இரண்டு கோடி ரூபாய் மதிப்புள்ள மரகத நெக்லசையும் கொள்ளையடித்தனர்.
-
-மேலும் அங்கிருந்த தங்க, வைர நகைகளையும் அள்ளிச் சென்றனர். பட்டப்பகலில் இந்த துணிகர கொள்ளையை வெறும், 90 வினாடிகளில் கொள்ளையர்கள் அரங்கேற்றினர்.
-
-இந்தக் காட்சிகள் அனைத்தும் அங்கிருந்த சி.சி.டி.வி., கேமராவில் பதிவாகியுள்ளது. அதனை வைத்து போலீசார் கொள்ளையர்களை தேடி வருகின்றனர்.
-
-◼️
-
-[Data](articles/2f3f9c98.json)
-
----
-
-### USS SANTA BARBARA கப்பலை பாதுகாப்பு பிரதி அமைச்சர் பார்வையிட்டார்
-
-*2025-08-17 09:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/USS-SANTA-BARBARA-கப்பலை-பாதுகாப்பு-பிரதி-அமைச்சர்-பார்வையிட்டார்/175-363026) · `ta`
-
-கொழும்பு துறைமுகத்திற்கு சனிக்கிழமை (16) அன்று வருகைதந்த USS SANTA BARBARA (LCS) என்ற அமெரிக்க கடற்படையின் போர் கப்பலை பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜயசேகர (ஓய்வு) பார்வையிட்டார்.
-
-பாதுகாப்பு செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு) மற்றும் இலங்கை கடற்படைத் தளபதி வைஸ் அட்மிரல் காஞ்சன பானகொடவும் இதன் போது கலந்துக்கொண்டனர்.
-
-இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் மற்றும் அமெரிக்க தூதரகத்தின் பாதுகாப்பு ஆலோசகர் லெப்டினன்ட் கேர்னல் மேத்யூ ஹவுஸ் ஆகியோர் அதிதிகளை வரவேற்றனர்.
-
-இலங்கை மற்றும் அமெரிக்காவின் பாதுகாப்பு நிறுவனங்களுக்கு இடையிலான கடல்சார் பாதுகாப்பு, பிராந்திய ஸ்திரத்தன்மை மற்றும் தொழில்நுட்ப பரிமாற்றங்களில் ஒத்துழைப்புக்கான எதிர்கால வழிகளை ஆராய இந்த விஜயம் உதவியாக அமைந்துள்ளது.
-
-இந்த விஜயத்தின் போது, USS SANTA BARBARAவின் கட்டளை அதிகாரி கொமாண்டர் அடம் ஜே ஒச்ஸ் (Commander Adam J Ochs,)கப்பலின் திறன்கள் மற்றும் அதன் சிறப்பம்சங்கள் குறித்த விரிவான விளக்கத்தை அவர்களுக்கு வழங்கினார்.
-
-...
-
-[Data](articles/9a364e20.json)
-
----
-
-### මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ ශ්‍රී ලාංකිකයෙකු  මැලේසියාවේ දී අත්අඩංගුවට
-
-*2025-08-17 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213463) · `si`
-
-මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ ශ්‍රී ලාංකිකයෙකු  මැලේසියාවේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-එරට බුකිත් තැම්බන් ප්‍රදේශයේදී මලයාසියානු ජාතිකයින් දෙදෙනෙකු සමඟ මෙම ශ්‍රී ලාංකිකයා අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-පීනෑන්ග් මත්ද්‍රව්‍ය අපරාධ විමර්ශන කාර්යංශයට ලද බුද්ධි තොරතුරක් මත නිවසක පවත්වා ගෙන යනු ලැබු මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් වටලා මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
-
-අදාළ ස්ථානයේ තිබී හෙරෝයින් ඇතුළු විවිධ වර්ගයේ මත්ද්‍රව්‍ය තොගයක් සොයා ගෙන ඇති බව මලයාසියානු මාධ්‍ය වාර්තා කළේය.
-
-සැකකාර ශ්‍රී ලාංකිකයා සහ මලයාසියානු ජාතිකයින් දෙදෙනා සතුව තිබී සුඛෝපභෝගී මෝටර් රථ 04 ක් ද පොලිස් භාරයට ගෙන තිබේ.
-
-සැකකරු තිදෙනා අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන 19වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇති බව මලයාසියානු මාධ්‍ය වාර්තා කළේය.
-
-◼️
-
-[Data](articles/dc834d1d.json)
-
----
-
-### ඇමෙරිකාවේ Santa Barbara බලන්න නියෝජ්‍ය ආරක්ෂක ඇමති යයි
-
-*2025-08-17 08:57:07* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-Santa-Barbara-බලන්න-නියෝජ්‍ය-ආරක්ෂක-ඇමති-යයි/10-417946) · `si`
-
-නිල සංචාරයක් සඳහා දිවයිනට පැමින කොළඹ වරායේ නැංගුරම් ලා ඇති ඇමරිකා එක්සත් ජනපද නාවික හමුදාවේ Independence-class Littoral Combat Ship කාණ්ඩයට අයත් USS “Santa Barbara”  (LCS 32) නෞකාවෙහි නිල සංචාරයක් සඳහා නියෝජ්‍ය ආරක්‍ෂක අමාත්‍ය මේජර් ජෙනරල් අරුණ ජයසේකර (විශ්‍රාමික) ඊයේ එහි ගියේය.
-
-මෙම අවස්ථාවට ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) සහ ශ්‍රී ලංකා නාවික හමුදාපති වයිස් අද්මිරාල් කාංචන බානගොඩ ද, නියෝජ්‍ය අමාත්‍යවරයා සමඟ එක් වූහ. ශ්‍රී ලංකාව සහ ඇමරිකා එක්සත් ජනපදය අතර පවතින සමීප සහ සහයෝගී සබඳතා තවදුරටත් පිළිබිඹු කරමින්        ශ්‍රී ලංකාවේ ඇමරිකා එක්සත් ජනපද තානාපතිනි Julie Chung මහත්මිය සහ ආරක්‍ෂක උපදේශක ලුතිනන් කර්නල් Matthew House විසින් සම්භාවනීය අමුත්තන් පිළිගනු ලැබීය.
-
-...
-
-[Data](articles/68553313.json)
-
----
-
-### 37 females among 257 drowning deaths in 2025: Police
-
-*2025-08-17 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111537/37-females-among-257-drowning-deaths-in-2025-police) · `en`
-
-A total of 257 persons have died due to drowning incidents so far this year, police said.
-
-Police Media Spokesman, Assistant Superintendent of Police (ASP) F.U. Wootler stated that among the victims were 37 women and 220 men.
-
-Meanwhile, the Police Life Saving Division has successfully rescued 69 locals and 33 foreign tourists from drowning incidents, according to the Police Media Spokesman.
-
-◼️
-
-[Data](articles/12b44695.json)
-
----
-
-### අලුත් මැණික් පනත ආවොත් මැණික් කර්මාන්තයත් ගැටලුවකලු
-
-*2025-08-17 08:34:18* · [`adalk`](https://www.ada.lk/breaking_news/අලුත්-මැණික්-පනත-ආවොත්-මැණික්-කර්මාන්තයත්-ගැටලුවකලු/11-417945) · `si`
-
-ලංකාවේ පොලොවෙන් හමුවන, පිළිස්සීමෙන් නිල් මැණික් බවට අගය වැඩිකළ හැකි පිට ඔට්ටු මැණික් කිලෝ ගණනින් පිටරට අපනයනය කළ හැකි අන්දමට නීති සහ පනත් කඩිනමින් වෙනස් කිරිමට රජය ගෙන ඇති තීරණය වහා සලකා බලන්නැයි කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශයේ කර්මාන්ත ක්ෂේත්‍රයට අදාල උපදේශන කමිටු සාමාජික සබරගමුව විශ්ව විද්‍යාලයේ ස්වාභාවික සම්පත් අධ්‍යයන අංශයේ මහාචාර්ය හසින්ත විජේසේකර මහතා ජනාධිපති, අගමැතිනිය ඇතුලු කැබිනට් මණ්ඩලයෙන් ඉල්ලීමක් කරයි.
-
-මේ සම්බන්ධයෙන් තොරතුරු ඇතුළත් ලිපියක් අගමැතිනිය, කර්මාන්ත අමාත්‍ය සුනිල් හදුන්නෙත්ති මහතා ඇතුලු පිරිසකට 15දා ඔවුන්ගේ අතටම ලබාදුන් බවද මහාචාර්යවරයා පැවසුවේය.
-
-''ලංකාවේ පොළොවෙන් හමුවන තාප පිරියම් කිරිමෙන් වටිනාකම වැඩකළ හැකි ගෙවුඩ මැණික් එසේ අගය එක්කිරිමකින් තොරව කිලෝ ගණනින් අපනයනය කිරිමට අවසර දීමට කැබිනට් පත්‍රිකාවක් කඩිමුඩියේ සම්මත කිරිමට යන බව දැනගන්නට තියනවා. එහෙම වුණොත් අපේ රටට මැණික්වලින් ලබාගත හැකි විශාල ආදායමක් අහිමිව යනවා. රලුමැණික් විශේෂයෙන් කැරට් එකේ, කැරට් පහේ පිට ගෙවුඩ කිලෝ ගණනින් අපනයනය කිරිමට මේ නිසා හැකි වෙනවා.
-
-...
-
-[Data](articles/9bf662d6.json)
-
----
-
-### ගාලු කුමාරි පිට පාරින් යන්න යයි
-
-*2025-08-17 08:26:13* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-කුමාරි-පිට-පාරින්-යන්න-යයි/11-417944) · `si`
-
-කොළඹ සිට බෙලිඅත්ත දක්වා ධාවනයවූ 8056 ගාලු කුමාරී දුම්රිය අද පස්වරු 05.27ට පමණ ගාල්ල ගිංතොට ප්‍රදේශයේදී පීලි පැනීමකට ලක්ව තිබේ. මේ නිසා දුම්රිය මගීන් දැඩි අපහසුතාවයනට ලක්වූහ.
-
-පීලි පැනීම නිසා මාර්ගයට දැඩි හානි සිදුවී තිබෙන බව දුම්රිය නිලධාරීන් සදහන් කළේය. මීට මාස කිහිපයකට ඉහතදීද මෙම ස්ථානයේදීම දුම්රියක් පීලි පැනීමකට ලක්වූ අතර මෙවර පීලි පැනීම නිසා දුම්රිය මාර්ගයට පෙරට වඩා  බරපතළ හානි සිදුවී ඇති බව දුම්රිය ආරංචි මාර්ග සදහන් කළේය.
-
-◼️
-
-[Data](articles/b0f2a3ae.json)
 
 ---

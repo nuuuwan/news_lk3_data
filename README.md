@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 21:18:42**
+As of **2025-08-17 21:31:37**
 
 ## Newspaper Stats
 
-*Scraped **70,959** Articles*
+*Scraped **70,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,849
+adalk | 6,850
 adaderanalk | 8,879
 tamilmirrorlk | 10,458
 virakesarilk | 11,771
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,959 articles have been extended.
+61,973 (87.3%) of 70,960 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,24 @@ A provincial rescue spokesman told news agency AFP that “10 to 12 entire villa
 ...
 
 [Data](articles/4a5af70a.json)
+
+---
+
+### වසර තුනකදී විදුලි ඉංජිනේරුවන් 226ක් සේවයෙන් ඉවත් වෙලා
+
+*2025-08-17 19:11:58* · [`adalk`](https://www.ada.lk/breaking_news/වසර-තුනකදී-විදුලි-ඉංජිනේරුවන්-226ක්-සේවයෙන්-ඉවත්-වෙලා/11-417965) · `si`
+
+පසුගිය වසර තුනෙහිදී විදුලිබල මණ්ඩලයේ ඉංජිනේරුවන් 226ක් සේවයෙන් ඉවත්ව ගොස් තිබෙන අතර එය ප්‍රතිශතයක් ලෙස  20% ක්  බවද විදුලිබල මණ්ඩලය සඳහන් කරයි.
+
+වඩා වැඩි වැටුප් සහ දීමනා සහිත ආකර්ෂණීය රැකියා අවස්ථා වෙනුවෙන් පිටරටවලට මෙම පිරිස් සංක්‍රමණය වී ඇති තිබෙන බවත් ලෝකය පුරා ලංවිම ඉංජිනේරුවන්ගේ තාක්ෂණික ප්‍රාගුණ්‍යය, ගැටලු නිරාකරණය කිරීමේ හැකියාව සහ විදුලිබල ක්ෂේත්‍රයේ කටයුතුවල නායකත්වය වඩ වඩාත් පිළිගැනීමට ලක් වෙමින් පවතින බවද මණ්ඩලය පෙන්වා දෙයි.
+
+ලංවිම බොහෝ ඉංජිනේරුවන්  ඔස්ට්‍රේලියාව,  නවසීලන්තය හා අයර්ලන්තය වැනි දියුණු රටවල තරගකාරී රැකියාවල නිරතවන අතර, ඔවුන් එම රටවල විදුලිබල පද්ධතිය ශක්තිමත් කිරීම සඳහා වැදගත් දායකත්වයක් සපයන බවද සඳහන් කරයි.
+
+මෙම නැඹුරුව ශ්‍රී ලාංකික ඉංජිනේරුවන්ගේ ගෝලීය වටිනාකම සහ තරගකාරී හැකියාව මැනවින් පිළිබිඹු කරන සාධකයක් වන බවත් ශ්‍රී ලාංකික ඉංජිනේරුවන් තවදුරටත් වේගයෙන් පරිණාමය වන ලෝක බලශක්ති ක්ෂේත්‍රය තුළ අන්තර්ජාතික ප්‍රමිතියට අනුගතවීමේ හැකියාව ප්‍රදර්ශනය කරමින් සිටින බවත් සඳහන් කරයි.
+
+...
+
+[Data](articles/e7a1ba0d.json)
 
 ---
 
@@ -1821,25 +1839,5 @@ The most contentious issue in the contract negotiations has been the union’s d
 ...
 
 [Data](articles/35572f81.json)
-
----
-
-### Sri Lanka’s service sector expands in July
-
-*2025-08-17 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111533/sri-lankas-service-sector-expands-in-july) · `en`
-
-Sri Lanka’s services sector expanded in July, supported by growth in wholesale and retail trade, financial services, and the transportation of goods, according to the latest Purchasing Managers’ Index (PMI) released by the Central Bank of Sri Lanka (CBSL).
-
-The services PMI rose to 70.1 in July from 61.9 in June, the CBSL said.
-
-Business activities in the wholesale and retail trade experienced considerable growth during the month, the central bank said. Financial services continued to improve, driven by higher lending, while activities related to the transportation of goods also strengthened, it said.
-
-Other sectors showing positive developments included personal services, postal activities, programming and broadcasting, telecommunications, accommodation, food and beverage services, and health care, the PMI showed.
-
-New businesses expanded in July, with the index rising to 64.9 from 62.9 in June, driven largely by trade and financial services.
-
-...
-
-[Data](articles/ded05e23.json)
 
 ---

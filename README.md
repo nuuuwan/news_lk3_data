@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 01:31:21**
+As of **2025-08-18 01:49:21**
 
 ## Newspaper Stats
 
-*Scraped **70,988** Articles*
+*Scraped **70,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 725
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,995
+dailyftlk | 4,996
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,988 articles have been extended.
+61,973 (87.3%) of 70,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### JAT continues momentum to FY 2025/26 with  20% PAT growth in Q1
+
+*2025-08-18 01:19:58* · [`dailyftlk`](https://www.ft.lk/business/JAT-continues-momentum-to-FY-2025-26-with-20-PAT-growth-in-Q1/34-780409) · `en`
+
+JAT Holdings PLC, a leading Sri Lankan conglomerate in the manufacturing and coatings industry, announced its financial results for the first quarter of the 2025/26 financial year, reflecting a stable and promising start despite external market challenges. Traditionally with the first quarter being the lowest demand quarter for the paint industry due to seasonality and the peak in the fourth quarter, the Group still recorded a notable 20% year-on-year (YoY) growth in profit after tax (PAT), signalling its continued ability to adapt, optimise, and deliver value in a dynamic economic landscape.
+
+...
+
+[Data](articles/b8a22c0e.json)
+
+---
 
 ### E.B. Creasy posts robust Q1 FY26 with 146% rise in PBT
 
@@ -1805,23 +1817,5 @@ The swells will spread to the Bahamas, Bermuda and the East Coast of the United 
 ◼️
 
 [Data](articles/2a8652ce.json)
-
----
-
-### பாக். மழையில் பலியானோர் எண்ணிக்கை அதிகரிப்பு
-
-*2025-08-17 09:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-மழையில்-பலியானோர்-எண்ணிக்கை-அதிகரிப்பு/50-363034) · `ta`
-
-பாகிஸ்தான் நாட்டின் வடமேற்கில் உள்ள மாகாணமான கைபர் பக்துன்கவா மாகாணத்தில் ஏற்பட்ட கனமழை, பெருவெள்ளம் காரணமாக அங்கு இதுவரை 307 பேர் உயிரிழந்துள்ளதாகத் தெரியவந்துள்ளது. மேலும் சில மாகாணங்களில் 37 பேர் உயிரிழந்துள்ளனர்.
-
-இந்த மழையால் கைபர் பக்துன்கவா மாகாணத்திலுள்ள புனர் மாவட்டம் மிகப்பெரிய அளவில் பாதிக்கப்பட்டுள்ளது . 74 வீடுகள் முற்றிலுமாக சேதமடைந்துள்ளன.
-
-இதையடுத்து பாகிஸ்​தானில் மழை, பெரு​வெள்​ளத்​தால் உயி​ரிழந்​தோர் எண்​ணிக்கை 344-ஆக உயர்ந்​துள்​ளது. இதைத் தொடர்ந்து அங்கு மீட்​புப் பணி​யில் 2,000 பேர் ஈடு​பட்​டுள்​ளனர்.
-
-இதுகுறித்து கைபர் பக்​துன்கவா மீட்பு ஏஜென்​சி​யின் செய்​தித் தொடர்​பாளர் அகமது ஃபைசி கூறும்​போது, “கனமழை, பல இடங்​களில் நிலச்​சரிவு, சாலைகள் அடித்து செல்லப்​படு​தல் போன்ற காரணங்​களால் அப்​பகு​தி​களுக்கு ஆம்​புலன்ஸை எடுத்​துச் செல்​லுதல், நிவாரணப் பொருட்​களை எடுத்துச் செல்​லுதல் போன்ற பணி​களுக்கு சவால் ஏற்​பட்​டுள்​ளது. சாலைகள் மூடப்​பட்​டுள்​ள​தால் அங்கு மீட்​புப் பணி​யாளர்​கள் கால்​நடை​யாக நடந்து சென்று பணி​யில் ஈடு​பட்​டு வரு​கின்​றனர்​’’ என்​றார்​.
-
-◼️
-
-[Data](articles/a1913e26.json)
 
 ---

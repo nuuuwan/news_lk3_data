@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 04:06:51**
+As of **2025-08-18 04:20:29**
 
 ## Newspaper Stats
 
-*Scraped **70,998** Articles*
+*Scraped **70,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,998
-adalk | 6,851
+adalk | 6,852
 adaderanalk | 8,882
 tamilmirrorlk | 10,459
 virakesarilk | 11,779
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,998 articles have been extended.
+61,973 (87.3%) of 70,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1068,6 +1068,22 @@ Von der Leyen, head of the European Union’s executive branch, posted on X that
 
 ---
 
+### අධිකරණ නිලධාරීන් 10කගේ සේවය අත්හිටුවයි
+
+*2025-08-17 17:02:52* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-නිලධාරීන්-10කගේ-සේවය-අත්හිටුවයි/11-417955) · `si`
+
+විෂමාචාර ක්‍රියවන් සදහා චෝදනා එල්ල වු මහෙස්ත්‍රාත්වරු දිසා විනිසුරුවරු ඇතුළු අධිකරණ නිලධාරින් දස දෙනකු පසුගිය මාසයක කාලය තුළදී සේවය අත්හිටුවිමට අධිකරණ සේවා කොමිෂන් සභාව පියවර ගෙන ඇති බව එම කොමිෂන් සභා ආරංචි මාර්ග සඳහන් තරයි.
+
+විෂමාචාර ක්‍රියවන් සඳහා චෝදනා එල්ල වු ගම්පහ අධිකරණ කලාපයේ තවත් තවත් දිසා අධිකරණ විනිසුරුවරයෙකුගේ සෙවය අත් හියුවිමට  අධිකරණ සේවා කොමිෂන් සභාව පියවර ගැනිමත් සමග සේවය අත්හිටවූ අධිකරණ නිලධාරින් සංඛ්‍යාව 10 දත්වා ඉහළ ගොස් ඇත.
+
+මේ අතර අකාර්යක්ෂම කාර්ය සාධනය පිළිබඳ චෝදනා සම්බන්ධෙයන් කෙළ පරීක්ෂණයකින් පසු ගම්පහ ප්‍රදේශයේ සිවිල් අභියාචන විනිසුරුවරයෙකුට විශ්‍රාම යාමට නියෝග කර ඇති අධිකරණ සේවා කොමිෂන් සභාව මේ වන විටත් විශ්‍රාම වැටුප් පත්‍රිකා ඔහු වෙත යවා ඇති බව වාර්තා වේ.
+
+...
+
+[Data](articles/8f80ce18.json)
+
+---
+
 ### 53-year-old killed in wild elephant attack in Ambanpola
 
 *2025-08-17 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111553/53-year-old-killed-in-wild-elephant-attack-in-ambanpola) · `en`
@@ -1785,21 +1801,5 @@ Families of hostages fear the coming offensive further endangers the 50 hostages
 ...
 
 [Data](articles/805a1f8d.json)
-
----
-
-### More skilled jobs for Sri Lankans in Singapore?
-
-*2025-08-17 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111541/more-skilled-jobs-for-sri-lankans-in-singapore) · `en`
-
-A discussion has been held in a bid to strengthen collaboration in labour-related matters, particularly to explore avenues to generate job opportunities for Sri Lankan nationals in Singapore in sectors such as hospitality, healthcare, and manufacturing.
-
-The discussion in this regard was held between the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando, and the Minister of State, Ministry of Culture, Community and Youth & Ministry of Manpower of Singapore, Dinesh Vasu Dash.
-
-Minister Fernando was in Singapore to participate in the Invest Sri Lanka Investor Forum organized by the Securities and Exchange Commission of Sri Lanka and Colombo Stock Exchange in association with the High Commission of Sri Lanka in Singapore.
-
-...
-
-[Data](articles/a84a6a55.json)
 
 ---

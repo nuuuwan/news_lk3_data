@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 19:48:14**
+As of **2025-08-17 20:06:35**
 
 ## Newspaper Stats
 
-*Scraped **70,951** Articles*
+*Scraped **70,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 6,848
 adaderanalk | 8,877
 tamilmirrorlk | 10,455
 virakesarilk | 11,771
-adaderanasinhalalk | 12,237
+adaderanasinhalalk | 12,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,951 articles have been extended.
+61,973 (87.3%) of 70,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### රු. කෝටි 10කට වැඩි මුදලක් වැයකළ මාදුරුඔය ව්‍යාපෘතිය අතරමඟ නවතලා
+
+*2025-08-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213479) · `si`
+
+රුපියල් කෝටි 10කට අධික මුදලක් වැයකළ මාදුරුඔය සංවර්ධන ව්‍යාපෘතිය මේ වන විට අතරමඟ නවතා දමා තිබේ.
+
+මාදුරුඔය දකුණු ඉවුර සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණේ 2021 වසරේදි ය.
+
+මෙම ව්‍යාපෘතිය මගින් අම්පාර දිස්ත්‍රික්කයටත්, පොළොන්නරුව දිස්ත්‍රික්කයේ ඇතැම් වගා භූමි සඳහාත් ජලය සැපයීම එවක රජයේ අරමුණ වී තිබුණි.
+
+වර්ෂා කාලයේදී මාදුරුඔය ජලාශයෙන් පිටකෙරෙන වාන් ජලය අපතේ නොයවා වගාවට ලබාගැනීම මෙම ව්‍යාපෘතිය මගින් සිදුකළ හැකිව තිබූ සුවිශේෂී කාර්යයකි.
+
+මේ දැවැන්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත කර තිබූ මුදල රුපියල් කෝටි 10කටත් අධිකය.
+
+ව්‍යාපෘතිය වෙනුවෙන් අධික මිල ගණන් යටතේ රැගෙන ආ යන්ත්‍ර සූත්‍ර විශාල ප්‍රමාණයක් ද මේ වන විට එම භූමියේ අබලන්ව අතහැර දමා තිබේ.
+
+කෙසේ වෙතත් මෙම ව්‍යාපෘතියට මුවාවී මාදුරුඔය අවට ප්‍රදේශවල භූමියේ පස් සෝදා අධික මිලකට විකිණීමේ ජාවාරමක් ද ක්‍රියාත්මක වේ.
+
+කිලෝමීටර් 13ක් පමණ දිගින් යුත් මාදුරුඔය දකුණ ඉවුරේ ප්‍රධාන ඇල දෙපස අධික ලෙස ඛාදනය වී ඇත්තේද මෙම ජාවාරම්කරුවන්ගේ කූඨ වැලි ජාවාරමේ ප්‍රතිඵලයක් ලෙසිනි.
+
+...
+
+[Data](articles/73fb5b50.json)
+
+---
 
 ### செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச  நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வூட்டும் செயலமர்வு
 
@@ -1819,19 +1845,5 @@ The provincial rescue agency told AFP that around 2,000 rescue workers were enga
 ...
 
 [Data](articles/1a72e315.json)
-
----
-
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
 
 ---

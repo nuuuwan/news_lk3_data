@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 08:59:49**
+As of **2025-08-17 09:32:34**
 
 ## Newspaper Stats
 
-*Scraped **70,862** Articles*
+*Scraped **70,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,325
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,834
+adalk | 6,836
 adaderanalk | 8,853
 tamilmirrorlk | 10,433
 virakesarilk | 11,761
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.5%) of 70,862 articles have been extended.
+61,973 (87.5%) of 70,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ගාලු කුමාරි පිට පාරින් යන්න යයි
+
+*2025-08-17 08:26:13* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-කුමාරි-පිට-පාරින්-යන්න-යයි/11-417944) · `si`
+
+කොළඹ සිට බෙලිඅත්ත දක්වා ධාවනයවූ 8056 ගාලු කුමාරී දුම්රිය අද පස්වරු 05.27ට පමණ ගාල්ල ගිංතොට ප්‍රදේශයේදී පීලි පැනීමකට ලක්ව තිබේ. මේ නිසා දුම්රිය මගීන් දැඩි අපහසුතාවයනට ලක්වූහ.
+
+පීලි පැනීම නිසා මාර්ගයට දැඩි හානි සිදුවී තිබෙන බව දුම්රිය නිලධාරීන් සදහන් කළේය. මීට මාස කිහිපයකට ඉහතදීද මෙම ස්ථානයේදීම දුම්රියක් පීලි පැනීමකට ලක්වූ අතර මෙවර පීලි පැනීම නිසා දුම්රිය මාර්ගයට පෙරට වඩා  බරපතළ හානි සිදුවී ඇති බව දුම්රිය ආරංචි මාර්ග සදහන් කළේය.
+
+◼️
+
+[Data](articles/b0f2a3ae.json)
+
+---
 
 ### ஜீவன் - இந்திய எம்.பி சஷி தரூர் சந்திப்பு
 
@@ -1236,6 +1250,22 @@ The White House cited national security and foreign policy concerns, stating tha
 
 ### පුටින් හා ට්‍රම්ප් හමුවේ අවසන් එකඟතාවක් නෑ
 
+*2025-08-16 12:49:27* · [`adalk`](https://www.ada.lk/uncategorized/පුටින්-හා-ට්‍රම්ප්-හමුවේ-අවසන්-එකඟතාවක්-නෑ/1-417940) · `si`
+
+රුසියාව හා යුක්රේනය අතර පවතින යුද්ධය අවසන් කිරීම සම්බන්ධයෙන් එකඟතාවයකට නොපැමිණියත් සාකච්ඡා ධනාත්මක බව රුසියානු ජනපති හා පැවැති සාකච්ඡාවෙන් අනතුරුව ඩොනල්ඩ් ට්‍රම්ප් පැවැසීය.
+
+මෙම සාකච්ඡි ඇලෙස්කාවේදී පැවැත්විණි. මෙහිදී රුසියානු ජනපතිවරයා සඳහන් කළේ  සාකච්ඡා සම්බන්ධයෙන් අවංකව උනන්දුවක් දක්වන බවයි. කෙසේ වෙතත් යුද්ධය අවසන් කිරි‍ම සම්බන්ධයෙන් ඔහු කිසිවක් ප්‍රකශ නොකළේය.
+
+මීළග සාකච්ඡා සඳහා තමන් ඇමෙරිකානු ජනපතිවරායට මොස්කව් වෙත පැමිණීමට ආරාධනා කරන බව පුටින් ආරාධනා කළේය.
+
+◼️
+
+[Data](articles/3b024f0b.json)
+
+---
+
+### පුටින් හා ට්‍රම්ප් හමුවේ අවසන් එකඟතාවක් නෑ
+
 *2025-08-16 12:49:27* · [`adalk`](https://www.ada.lk/international/පුටින්-හා-ට්‍රම්ප්-හමුවේ-අවසන්-එකඟතාවක්-නෑ/3-417940) · `si`
 
 රුසියාව හා යුක්රේනය අතර පවතින යුද්ධය අවසන් කිරීම සම්බන්ධයෙන් එකඟතාවයකට නොපැමිණියත් සාකච්ඡා ධනාත්මක බව රුසියානු ජනපති හා පැවැති සාකච්ඡාවෙන් අනතුරුව ඩොනල්ඩ් ට්‍රම්ප් පැවැසීය.
@@ -1789,45 +1819,5 @@ The injured were admitted to the Monaragala Hospital for treatment.
 ◼️
 
 [Data](articles/5ec987a9.json)
-
----
-
-### Spells of showers, fairly strong winds expected in parts of the island today
-
-*2025-08-16 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111512/spells-of-showers-fairly-strong-winds-expected-in-parts-of-the-island-today) · `en`
-
-Several spells of showers will occur in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (16), the Department of Meteorology said.
-
-Mainly fair weather will prevail over the other areas of the island, the Met. Department added.
-
-Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western and Southern provinces and in the Trincomalee district.
-
-◼️
-
-[Data](articles/9acd49ea.json)
-
----
-
-### ට්‍රම්ප් - පුටින් හමුව ස්ථිර එකඟතාවයකින් තොරව අවසන් වෙයි
-
-*2025-08-16 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213423) · `si`
-
-රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම අරමුණ කරගනිමින් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර පැවැත් වූ තීරණාත්මක සාකච්ඡාව ස්ථිර එකඟතාවයකින් තොරව අවසන්ව තිබේ.
-
-ඇලස්කාවේ වඩාත්ම ජනාකීර්ණ නගරය වන ඇන්කරේජ් හි එල්මෙක්ඩෝෆ්-රිචඩ්සන් හමුදා කඳවුරේ දී පැවති මෙම සාකච්ඡා මෙරට වේලාවෙන් අද (16) අලුයම අවසන් විය.
-
-ලෝක බලවතුන් දෙදෙනා පැය 3කට ආසන්න කාලයක් මෙහිදී සාකච්ඡා කරනු ලැබීය.
-
-කෙසේ නමුත් සාකච්ඡාවෙන් අනතුරුව ප්‍රසිද්ධ ප්‍රකාශයක් නිකුත් නොකළ අතර, කිසිදු ගිවිසුමක් හෝ සටන් විරාමයක් ප්‍රකාශ නොකර පිටව ගියහ.
-
-මෙම තීරණාත්මක සාකච්ඡාවෙන් පසු ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වෙන බව ධවල මන්දිරය මීට පෙර පවසා තිබුණද, දෙදෙනාම කිසිදු ප්‍රශ්නයකට පිළිතුරු නොදී පිටව ගියේය.
-
-එහිදී "ගිවිසුමක් ඇති වන තුරු ගිවිසුමක් නැහැ" යනුවෙන් ට්‍රම්ප් පවසා ඇත. තවද එළැඹුණු එකඟතා ගැන යුක්‍රේන ජනාධිපතිවරයා සහ නේටෝව දැනුවත් කරන බවද ට්‍රම්ප් පැවසීය.
-
-එමෙන්ම පුටින් පවසා ඇත්තේ යුක්‍රේනයට එරෙහි යුද්ධය අවසන් කිරීමට තමා "අවංකවම උනන්දු" බවය.
-
-...
-
-[Data](articles/0beef8ef.json)
 
 ---

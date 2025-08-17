@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 13:06:59**
+As of **2025-08-17 13:17:30**
 
 ## Newspaper Stats
 
-*Scraped **70,904** Articles*
+*Scraped **70,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,840
 adaderanalk | 8,867
 tamilmirrorlk | 10,448
 virakesarilk | 11,763
-adaderanasinhalalk | 12,226
+adaderanasinhalalk | 12,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,904 articles have been extended.
+61,973 (87.4%) of 70,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ගිංතොටදී පීලි පැන්න ගාලු කුමාරි දුම්රිය පීලිගත කිරීම තවදුරටත්
+
+*2025-08-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213467) · `si`
+
+ගිංතොට දුම්රිය ස්ථානය ආසන්නයේදී පීලි පැනීමකට ලක්වූ ගාලු කුමාරි දුම්රිය පීලිගත කිරීමේ කටයුතු තවදුරටත් සිදුකරමින් පවතින බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+මරදානේ සිට බෙලිඅත්ත දක්වා ධාවනය වූ ගාලු කුමාරි දුම්රිය ඊයේ (16) දින පස්වරු 5.30ට පමණ ගිංතොට දුම්රිය ස්ථානයේදී පිලී පැනීමකට ලක්විය.
+
+පිලී පැනීමෙන් දුම්රිය මාර්ගයේ සිල්පර කොටන් 250කට ආසන්න ප්‍රමාණයක් සහ දුම්රිය පීලිවලටද දැඩි හානි සිදුවිය.
+
+දුම්රිය පීලි පැනීමෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ධාවන කටයුතු අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා සීමා කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+
+හානියට පත්වූ දුම්රිය මාර්ගයේ ප්‍රතිසංස්කරණ කටයුතු ඊයෙ රාත්‍රියේම නැවත ආරම්භ කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+
+ඒ අනුව අද (17) පෙරවරු 11.00ට පමණ එක් මංතීරුවක් දුම්රිය ධානය සඳහා විවෘත කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගත්තේය.
+
+දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ පීලි පැනීමෙන් හානියට පත්වූ දුම්රිය මාර්ගය නැවත ප්‍රතිසංස්කරණය කර හැකි ඉක්මනින් දුම්රිය ධාවනය සඳහා විවෘත කිරීමට පියවර ගන්නා බවය.
+
+◼️
+
+[Data](articles/db146f8c.json)
+
+---
 
 ### ධීවර විශ්‍රාම වැටුප් ක්‍රමය යළිත් එළැඹෙන මස සිට
 
@@ -1775,17 +1799,5 @@ From the time I was old enough to cultivate an interest in politics, I have fami
 ◼️
 
 [Data](articles/90aae24f.json)
-
----
-
-### Behind the Scenes of the 1987 UN Human Rights Resolution on Sri Lanka: Power, Politics, and Diplomacy
-
-*2025-08-16 14:41:00* · [`islandlk`](http://island.lk/behind-the-scenes-of-the-1987-un-human-rights-resolution-on-sri-lanka-power-politics-and-diplomacy/) · `en`
-
-In March 1987, the Commission on Human Rights (CHR) convened in Geneva at a time when Sri Lanka was under mounting international scrutiny over its human rights record. The 1983 communal riots, which saw widespread anti-Tamil violence, triggered an exodus of Tamils—some to India as direct victims, and many others to countries like Canada, the UK, Australia, and the U.S. Over the next few years, this growing Tamil diaspora transformed into a potent political force, actively lobbying their host governments and legislators.
-
-...
-
-[Data](articles/40517194.json)
 
 ---

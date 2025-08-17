@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 16:06:46**
+As of **2025-08-17 16:21:38**
 
 ## Newspaper Stats
 
-*Scraped **70,926** Articles*
+*Scraped **70,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,844
-adaderanalk | 8,872
-tamilmirrorlk | 10,450
+adaderanalk | 8,874
+tamilmirrorlk | 10,451
 virakesarilk | 11,768
 adaderanasinhalalk | 12,232
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 12,232
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,926 articles have been extended.
+61,973 (87.4%) of 70,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### “இழந்த வாக்கு வங்கியை அதிகரிக்கவே கதவடைப்பு”
+
+*2025-08-17 16:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழந்த-வாக்கு-வங்கியை-அதிகரிக்கவே-கதவடைப்பு/175-363059) · `ta`
+
+இழந்து போன தங்களுடைய வாக்குவங்கியை அதிகரிக்கவே கதவடைப்பு போராட்டத்துக்கு அழைப்பு விடுக்கப்பட்டுள்ளது என போக்குவரத்து நெடுஞ்சாலைகள், புகையிரத சிவில் விமான போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
+
+முத்தையன்கட்டு பிரதேசத்தில் இடம்பெற்ற சம்பவத்தை தொடர்ந்து 18 ஆம் ஆம் திகதி வடக்கு, கிழக்கு முழுவதும் கதவடைப்பு போராட்டத்தை மேற்கொள்ளுமாறு தமிழரசு கட்சியின் சுமந்திரன் அழைப்பு விடுத்துள்ளார்.
+
+உண்மையிலேயே இந்த கதவடைப்பு போராட்டம்  தேவையற்றது என்றும் அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
+
+கிளிநொச்சியில் அமைந்துள்ள தேசிய மக்கள் சக்தியின் மாவட்ட அலுவலகத்தில் ஞாயிற்றுக்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+முத்தையன்கட்டு உயிரிழப்புக்கு பின்னர் என்னென்ன சட்ட நடவடிக்கைகள் மேற்கொள்ளப்பட வேண்டுமோ அவை அனைத்தும் நீதியான முறையில் இடம்பெற்று வருகிறது இந்த நிலையில் இந்த கதவடைப்பு என்பது அரசியல் தரப்பினர் இழந்து போன தங்களின் வாக்கு வங்கியை அதிகரிக்கவே மேற்கொள்கின்றனர் என அவர்கள் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/095f84aa.json)
+
+---
+
+### 46-year-old attacked to death over personal dispute
+
+*2025-08-17 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111552/46-year-old-attacked-to-death-over-personal-dispute) · `en`
+
+A person has been attacked to death with a sharp weapon and clubs in the Dunagaha area of Divulapitiya.
+
+Police said the attack was carried out by three individuals over a personal dispute.
+
+The victim, who sustained critical injuries in the incident, was initially admitted to the Divulapitiya Hospital and then transferred to the District General Hospital in Gampaha, where he had succumbed to his injuries.
+
+The deceased is a 46-year-old resident of the Madampella area.
+
+Divulapitiya Police have deployed a team to arrest the three suspects and are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/737fb506.json)
+
+---
 
 ### කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් දැනුවත් කිරීමේ වැඩමුළුවක්
 
@@ -63,6 +103,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b47b80a7.json)
+
+---
+
+### 7 killed after cloudburst, landslide in Jammu and Kashmir’s Kathua, rescue ops on
+
+*2025-08-17 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111551/7-killed-after-cloudburst-landslide-in-jammu-and-kashmirs-kathua-rescue-ops-on) · `en`
+
+At least seven people were killed and many others were injured in two separate incidents of cloudburst and landslide in Jammu and Kashmir’s Kathua district, officials said on Sunday.
+
+Five people lost their lives due to flooding caused by a cloudburst in Jodh Ghati, while two persons were killed in a landslide in Janglote. Both incidents occurred during the intervening night of Saturday and Sunday.
+
+Union Minister Jitendra Singh, who is a member of Parliament from Jammu and Kashmir’s Udhampur, said a railway track, the National Highway-44 and a police station were also damaged.
+
+“The civilian administration, military and paramilitary have swung into action. The situation is being continuously monitored,” he posted on X after speaking to a senior police officer in Kathua.
+
+“My sincere condolences to the families of the deceased,” he added
+
+...
+
+[Data](articles/ef2b0632.json)
 
 ---
 
@@ -1785,63 +1845,5 @@ Speaking to The island on animal conservation, Dr. Senanayake challenged the pre
 ◼️
 
 [Data](articles/92193af7.json)
-
----
-
-### SLC T20 ලීගයේ අවසන් සටනේ ජය ග්‍රීන්ස් කණ්ඩායමට
-
-*2025-08-16 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213446) · `si`
-
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් සංවිධානය කළ විස්සයි20 ක්‍රිකට් ලීගයේ (SLC T20 League) අවසන් මහා තරගය ජය ගැනීමට ග්‍රීන්ස් කණ්ඩායම අද (16) සමත්විය.
-
-තරගයේ කාසියේ වාසිය දිනූ ග්‍රේස් කණ්ඩායමේ නායක චරිත් අසලංක ප්‍රථමයෙන් පන්දුවට පහරදීමේ අවස්ථාව ග්‍රීන්ස් කණ්ඩායමට ලබා දුනි.
-
-ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් ග්‍රීන්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 04ක් දැවී ලකුණු 189ක් රැසක්කළේය.
-
-වේගවත් පිතිහරඹයක නිරත වූ කුසල් මෙන්ඩිස් පන්දු 47ක් තුළ වේගවත් ලකුණු 77ක් රැස්කරගත්තේය.
-
-කුසල්ගේ ඉනිමට හතරේ පහර සහ හයේ පහර 5 බැගින් ඇතුළත් වීම විශේෂත්වයකි.
-
-ලකුණු 190ක ජයග්‍රාහි ඉලක්කයක් හඹාගිය ග්‍රේස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 8ක් දැවි රැස්කර ගත්තේ ලකුණු 166ක් පමණි.
-
-ග්‍රේස් කණ්ඩායම වෙනුවෙන් නිරෝෂන් දික්වැල්ල ලකුණු 50ක් රැස්කළ අතර දිනේෂ් චන්දිමාල් ලකුණු 36ක් රැස්කළේය.
-
-◼️
-
-[Data](articles/cd52e292.json)
-
----
-
-### Sri Lanka services activity rose in July, driven by trade, finance, and transportation
-
-*2025-08-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-activity-rose-in-july-driven-by-trade-finance-and-transportation-236669/) · `en`
-
-ECONOMYNEXT – Sri Lanka services activities expanded in July supported by growth in wholesale and retail trade, finance and transportation of goods, according to a Purchasing Managers Index compiled by the central bank.
-
-The PMI services recorded an index value of 70.1 in July, after recording 61.9 in June, indicating ‘an accelerated expansion in services activities’.
-
-“Business activities in the wholesale and retail trade experienced a considerable growth during the month,” the central bank said.
-
-“Business activities related to financial services continued to improve, driven by the increase in lending activities, and activities related to transportation of goods.”
-
-Business activities in other personal activities, postal activities, programming and broadcasting, telecommunication, accommodation, food and beverage service activities, and human health related sectors also recorded positive developments during the month.
-
-...
-
-[Data](articles/5b33af10.json)
-
----
-
-### තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කෙරේ
-
-*2025-08-16 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213445) · `si`
-
-තැපැල් දෙපාර්තමේන්තුවේ සේවයේ නියුතු සියලුම නිලධාරීන්ගේ නිවාඩු අවලංගු කිරීමට පියවර ගෙන තිබේ.
-
-අදාළ නිවේදනයට අනුව තැපැල් දෙපාර්තමේන්තුවේ සේවයේ නියුතු සියලුම නිලධාරීන්ගේ නිවාඩු හෙට (17)  දින සිට අවලංගු කිරීමට තැපැල්පති එස්.ආර්.ඩබ්.එම්.ආර්.පී.සත්කුමාර මහතා පියවර ගෙන ඇත.
-
-◼️
-
-[Data](articles/be7f903d.json)
 
 ---

@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 16:32:16**
+As of **2025-08-17 16:47:54**
 
 ## Newspaper Stats
 
-*Scraped **70,929** Articles*
+*Scraped **70,935** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 603
+dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 725
-economynextcom | 4,326
+economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,844
 adaderanalk | 8,874
-tamilmirrorlk | 10,451
+tamilmirrorlk | 10,452
 virakesarilk | 11,768
-adaderanasinhalalk | 12,232
+adaderanasinhalalk | 12,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,929 articles have been extended.
+61,973 (87.4%) of 70,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### උතුරු - නැගෙනහිර හර්තාලය ගැන රජයේ මතය
+
+*2025-08-17 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213474) · `si`
+
+රජය හා ආරක්ෂක අංශ ඉලක්ක කර ගනිමින් සිදුකරන අදහස් විකෘති කිරීම් හා අසත්‍ය ප්‍රචාරවලට රැවටීමෙන් වළකින ලෙස කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා උතුරු නැගෙනහිර ජනතාවගෙන් ඉල්ලා සිටියි.
+
+මුලතිව් ශිවනගර්හි පිහිටි ඉවත්කිරීමට නියමිත 12 වැනි සිංහ රෙජිමේන්තුවට අයත් කඳවුරට බලහත්කාරයෙන් ඇතුළුවීමට උත්සාහ කළ පුද්ගලයෙකු මියයාමේ සිද්ධියක් මුල්කර ගනිමින් මෙම හර්තාල් ව්‍යපාරය හෙට (18) දිනයේ ක්‍රියාත්මක කිරීමට නියමිතය.
+
+"මේ ගැන පරීක්ෂණ පවත්වමින් තිබෙනවා. දැනටමත් හමුදාවේ තිදෙනෙක් අත්අඩංගුවට ගෙන අධිකරණයට භාර දී තිබෙන්නේ.
+
+මේ සිදුවීමේ කරුණු විකෘතිකරමින් අසත්‍ය තොරතුරු ප්‍රචාරය කරමින් යම් යම් දේශපාලන කණ්ඩායම් උතුරේ හා නැගෙනහිර ජනතාව අතර කැලඹීමක් හදන්න උත්සාහ දරන බවක් පේනවා.
+
+◼️
+
+[Data](articles/d76fbdc3.json)
+
+---
+
+### “ஊடகவியலாளரை விசாரணைக்கு அழைத்தது  தெரியாது”
+
+*2025-08-17 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளரை-விசாரணைக்கு-அழைத்தது-தெரியாது/175-363064) · `ta`
+
+பயங்கரவாத தடைச்சட்டத்தை நீக்க வேண்டும் என்பதே எமது அரசின் நிலைப்பாடாகும். எனவே,  நாம்  அதனை மாற்றுவதற்கு எதிர்பார்த்துள்ளோம் என போக்குவரத்து,நெடுஞ்சாலைகள்,சிவில் விமான சேவைகள் அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
+
+கிளிநொச்சியில் உள்ள தேசிய மக்கள் சக்தியின் மாவட்ட அலுவலகத்தில்  இன்று (17) இடம்பெற்ற பத்திரிக்கையாளர் சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்
+
+அரசியல் எழுச்சியை தடை  செய்ய வேண்டும் என்பதற்காகவே எனவே இச் சட்டத்தை பற்றி நாம் நன்கு அறிந்துள்ளோம் எனவே பயங்கரவாத தடைச் சட்டத்தை நீக்குவதே எமது அரசின் நோக்கம் எனத் தெரிவித்தார்.
+
+பயங்கரவாத தடுப்பு பிரிவு   ஊடகவியலாளர்கள் இன்றும் பொலிஸாரால் விசாரணைக்கு அழைக்கப்படும் சூழ் நிலைகள் தொடர்ந்து நிலவுகிறது இன்றும் (17) முல்லைத்தீவு ஊடகவியலாளர் குமணன் விசாரணைக்கு அழைக்கப்பட்டுள்ளார்  இந்த நிலைமை ஊடகவியலாளர்களை அச்சுறுத்தும் செயற்பாடாக காணப்படுகிறது என கேள்வி எழுப்பிய போது பயங்கரவாத தடுப்பு பிரிவினரால் ஊடகவியலாளர் விசாரணைக்கு அழைக்கப்பட்ட விடயம் தொடர்பாக தனக்கு எதுவும் தெரியாது என்றும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/b2d154a1.json)
+
+---
+
+### වනඅලි ප්‍රහාරයෙන් පුද්ගලයෙකු මරුට
+
+*2025-08-17 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213473) · `si`
+
+අදාළ පුද්ගලයා වනඅලි ප්‍රහාරයෙන් පසුව බරපතළ තුවාල ලබා රෝහල් ගත කර ඇති අතර ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් ඇති බව වාර්තා වේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 53ක් වූ අඹන්පොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම පුද්ගලයා තම ඉඩමට පැමිණි වනඅලියකු පලවාහැරීමට යාමේදී මෙලෙස වන අලි ප්‍රහාරයට ලක්ව ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/ea97c493.json)
+
+---
 
 ### “இழந்த வாக்கு வங்கியை அதிகரிக்கவே கதவடைப்பு”
 
@@ -243,6 +295,24 @@ Earlier this month, U.S. President Donald Trump imposed an additional 25% tariff
 ...
 
 [Data](articles/96141b1e.json)
+
+---
+
+### Harry Jayawardena, Sri Lanka business leader, remembered on his birthday
+
+*2025-08-17 13:53:00* · [`economynextcom`](https://economynext.com/harry-jayawardena-sri-lanka-business-leader-remembered-on-his-birthday-236869/) · `en`
+
+ECONOMYNEXT – Every year, for so many years, the first thing I would do as soon as I woke up on the 17th of August was to call my dear friend, the late Harry Stassen Jayawardena. Every single time, it started with, “Happy birthday, Lokka.”
+
+He would answer right back, “Thank you, Lokka.” It’s funny how we both called each other ‘Lokka.’ That strange nickname became our little tradition, and it always made us grin.
+
+Today, i.e. the 17th of August, 2025, it’s different. I can make the call. I know what to say. But Lokka is no more.
+
+At the end of the day, if you really look at it, life is all about family and good friends. To most people, Harry was an enterprising and successful businessman. To me, he was the kind of friend you rarely meet, one whose loyalty had no limits. When such people go, they leave behind an enormous chasm.
+
+...
+
+[Data](articles/554fb442.json)
 
 ---
 
@@ -860,6 +930,26 @@ The CEB initially plans another synchronous condenser in the Padukka grid substa
 
 ---
 
+### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
+
+*2025-08-17 09:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has floated a request for information in efforts to build synchronous condensers into the grid, as the utility moves to absorb more renewable energy.
+
+In August the CEB sought information on a 75 Mega Volt Ampere (MVA) synchronous condenser system it plans to connect to a key substation in the grid.
+
+“Synchronous condenser is a new addition to the Ceylon Electricity Board, so the know-how has not developed,” Additional General Manager Transmission (No-wired) Susanthe Fernando said.
+
+“So we are calling for information from prospective bidders. We will make tender documents after we get information. We also plan to get consultancy service also for synchronous condensers.”
+
+The CEB initially plans another synchronous condenser in the Padukka grid substations with near term plans for 145 MVA of synchronous condensers, he said.
+
+...
+
+[Data](articles/97f15453.json)
+
+---
+
 ### நடுவீதியில் கரணமடித்த டிரக்டர்: 12 பேர் காயம்
 
 *2025-08-17 09:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுவீதியில்-கரணமடித்த-டிரக்டர்-12-பேர்-காயம்/175-363031) · `ta`
@@ -1253,6 +1343,20 @@ It has also been reported that the train scheduled to operate from Beliatta will
 ◼️
 
 [Data](articles/624183f1.json)
+
+---
+
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-17 07:01:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
 
 ---
 
@@ -1735,115 +1839,5 @@ The killings came after weeks of public incitement against Al Jazeera reporters,
 ◼️
 
 [Data](articles/e17a6643.json)
-
----
-
-### පුද්ගලයෙකුට මරු කැඳවූ ආරවුල
-
-*2025-08-16 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213449) · `si`
-
-හඟුරන්කෙත - හේවාහැට ප්‍රදේශයේදී පුද්ගලයෙකුට පහර දී ඝාතනය කර තිබේ.
-
-අදාළ පුද්ගලයාට පිරිසක් එක්ව පහරදී ඇති අතර පසුව වේල්ලකින් තල්ලු කර ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
-
-මියගිය පුද්ගලයා තවත් පුද්ගලයෙකු සමඟ හේවාහැට නගරයේදී ආරවුලක් ඇති කරගෙන ඇති අතර එහිදී අනෙක් පුද්ගලයා විසින් තවත් පිරිසක් හා එක්ව මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 53ක් වන හේවාහැට ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මේ සම්බන්ධයෙන් පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති අතර හඟුරන්කෙත පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/9ed84cf8.json)
-
----
-
-### Leave of all postal employees cancelled
-
-*2025-08-16 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111525/leave-of-all-postal-employees-cancelled) · `en`
-
-The leave of all employees of the Department of Posts has been cancelled with effect from tomorrow (17).
-
-Postmaster General, Mr. Ruwan Sathkumara, has officially informed all heads of the department of this decision in writing.
-
-Meanwhile, the Postal and Telecommunications Officers’ Union, together with the United Postal Trade Unions’ Front (UPTUF), has announced that they will commence a strike action from 4.00 p.m. tomorrow (17).
-
-According to union representatives, the strike is being launched based on 19 key demands, which include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance through fingerprint machines.
-
-The trade unions stated that the strike will initially begin tomorrow at 4.00 p.m. from the Colombo Central Mail Exchange, and will escalate into a continuous islandwide strike covering postal and administrative offices from 12.00 midnight onwards.
-
-◼️
-
-[Data](articles/19584242.json)
-
----
-
-### Sri Lanka’s Silent Conservation Revolution:
-
-*2025-08-16 17:37:00* · [`islandlk`](http://island.lk/sri-lankas-silent-conservation-revolution/) · `en`
-
-Dr. Ranil Senanayake Calls for Ahimsa, Science and Sanity in Wildlife Policy
-
-In a nation renowned for its ancient spiritual traditions and biodiversity, eminent systems ecologist and environmental visionary Dr. Ranil Senanayake has made an impassioned plea for Sri Lanka to return to its roots, not just culturally, but ecologically.
-
-Speaking to The island on animal conservation, Dr. Senanayake challenged the prevailing narratives of culling and wildlife control with a radically humane and scientifically grounded message: Sri Lanka must be proud of its Ahimsa-based identity, and embrace intelligent, non-lethal methods to deal with wildlife-related challenges.
-
-...
-
-[Data](articles/22a81f6c.json)
-
----
-
-### දක්ෂිණ අධිවේගයේ ගමන් ගත් බස් රථයක ගින්නක්
-
-*2025-08-16 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213448) · `si`
-
-දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න සහ දොඩංගොඩ අන්තර් හුවමාරුව ආසන්නයේදී බස් රථයක් හදිසි ගිනි ගැනීමකට ලක්ව තිබේ.
-
-ගාල්ල සහ මාකුඹූර අතර ධාවනය වන බස් රථයක් මෙලෙස ගිනි ගැනීමට ලක්ව ඇත.
-
-බස් රියේ කාර්මික දෝශයක් හේතුවෙන් මෙම ගින්න හටගෙන ඇතැයි ද වාර්තා වේ.
-
-පොලීසිය සහ අවට සිටි පිරිස් එක්ව මේ වන විට ගින්න මැඩ පැවැත්වීමට කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/98b9b163.json)
-
----
-
-### நல்லூருக்கு வந்த பஸ்ஸில் திடீர் தீ
-
-*2025-08-16 17:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூருக்கு-வந்த-பஸ்ஸில்-திடீர்-தீ/71-363006) · `ta`
-
-யாழ். நல்லூர் ஆலயத்திற்கு வந்தவர்களின் பஸ் திடீரென தீப்பற்றி எரிந்துள்ளதால் பதற்ற நிலை ஏற்பட்டது.
-
-தென்னிலங்கையில் இருந்து யாழ்ப்பாணத்திற்கு சுற்றுலா வந்தவர்கள், நல்லூர் முத்திரை சந்தி பகுதியில், பஸ்ஸை நிறுத்தி விட்டு, நல்லூர் ஆலயத்திற்கு சென்றுள்ளனர். இதன்போது சாரதி பேருந்தில் இருந்துள்ளார்.
-
-யாழ் . மாநகர சபையின் தீயணைப்பு படையினருக்கு தகவல் வழங்கியதை அடுத்து , சம்பவ இடத்திற்கு விரைந்த தீயணைப்பு படையினர் பேருந்தில் ஏற்பட்ட தீயினை அணைத்தனர்.
-
-தீயணைப்பு படையினரின் விரைவான செயற்பாட்டினால் , பஸ்ஸினுள் தீ பெருமளவுக்கு பரவாமல் அணைக்கப்பட்டது.  R
-
-◼️
-
-[Data](articles/476ce142.json)
-
----
-
-### රුසියාවේ කර්මාන්ත ශාලාවක පිපිරීමකින් 11 දෙනෙකු මරුට
-
-*2025-08-16 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213447) · `si`
-
-රුසියාවේ මොස්කව් නුවරට ගිනිකොන දෙසින් පිහිටි රියාසාන් කලාපයේ කර්මාන්ත ශාලාවක සිදු වූ පිපිරීමකින් පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-විදෙස් මාධ්‍ය සඳහන් කළේ තවත් 130 දෙනෙකු පමණ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
-
-මෙම පිපිරීම හේතුවෙන් එම කර්මාන්ත ශාලාවේ ගොඩනැගිලිවලට දැඩි ලෙස අලාභ හානි සිදුව තිබේ.
-
-2021 ඔක්තෝබර් මාසයේ දී පුපුරණ ද්‍රව්‍ය නිෂ්පාදන කර්මාන්ත ශාලාවක ඇති වූ ගින්නකින් පුද්ගලයින් 17 දෙනෙකු මියගිය අතර ඉන් පසුව සිදු ව ඇති දෙවන මාරාන්තික පිපිරීම මෙය වේ.
-
-◼️
-
-[Data](articles/92193af7.json)
 
 ---

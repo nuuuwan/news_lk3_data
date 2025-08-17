@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 22:48:07**
+As of **2025-08-17 23:07:31**
 
 ## Newspaper Stats
 
-*Scraped **70,967** Articles*
+*Scraped **70,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,851
-adaderanalk | 8,880
+adaderanalk | 8,882
 tamilmirrorlk | 10,458
-virakesarilk | 11,774
+virakesarilk | 11,775
 adaderanasinhalalk | 12,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,967 articles have been extended.
+61,973 (87.3%) of 70,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### Mound of earth blocks Norton Bridge–Maskeliya main road
+
+*2025-08-17 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111560/mound-of-earth-blocks-norton-bridgemaskeliya-main-road) · `en`
+
+Norton Bridge Police said that traffic movement on the Norton Bridge–Maskeliya main road has been completely halted due to a mound of earth collapsing onto the road.
+
+It is reported that the earth slip had occurred this evening as a result of heavy rainfall in the area.
+
+Police have urged motorists to use alternative routes until the road is cleared and is safe for travel.
+
+◼️
+
+[Data](articles/7dcd24ba.json)
+
+---
+
+### பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை : தொழில்நுட்ப காரணிகளை குறிப்பிட்டு பிரேரணையை  பிற்போடகூடாது - சம்பிக்க ரணவக்க வலியுறுத்தல்
+
+*2025-08-17 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222766) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலுடன் தொடர்புடைய சம்பவங்களுடன் கிழக்கு மாகாண முன்னாள் கட்டளைத் தளபதியான தற்போதைய பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகர சம்பந்தப்பட்டுள்ளார் என்று குற்றச்சாட்டப்படுகிறது. ஆகவே நாட்டு மக்கள் உண்மையை விளங்கிக்கொள்ள வேண்டும். தொழில்நுட்ப காரணிகளை குறிப்பிட்டுக்கொண்டு நம்பிக்கையில்லா பிரேரணையை பிற்போடாமல் பிரேரணையை விரைவாக எடுத்துக்கொள்ள வேண்டும் என்று ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,முன்னாள் பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் அரசாங்கத்தில் பிரதி அமைச்சுகளுக்கான விடயதானங்கள் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்படவில்லை. ஆகவே பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணையில் குறிப்பிடப்பட்டுள்ள குற்றச்சாட்டுகளுக்கு அவர் பதிலளிக்க வேண்டிய அவசியம் இல்லை  என்று ஆளும் தரப்பின் உறுப்பினர்கள் குறிப்பிட்டுக்கொள்கிறார்கள்.
+
+...
+
+[Data](articles/dcbf4e37.json)
+
+---
 
 ### මලල ක්‍රීඩා නිලවරණය පැවැත්වෙන දිනය ගැන තීරණය හෙට
 
@@ -49,6 +79,54 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/be3d025c.json)
+
+---
+
+### Two dead, over 10 injured in fatal accident in Omanthai
+
+*2025-08-17 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111559/two-dead-over-10-injured-in-fatal-accident-in-omanthai) · `en`
+
+At least two persons have reportedly died and more than 10 others have sustained injuries in a fatal accident that occurred this evening (17) in the Omanthai area on the A-9 road, police said.
+
+The victims of the accident were a group of relatives from the Vishwamadhu area.
+
+According to the police, they had been returning home after attending a funeral in Kandy when they had met with the tragic accident.
+
+The SUV they were traveling in had reportedly overturned near a filling station near the Omanthai Police Station. As a result, several of its passengers were thrown out of the vehicle and had collided with an oncoming lorry.
+
+Reportedly a total of 15 persons were traveling in the SUV at the time of the accident.
+
+A 33-year-old woman and a 30-year-old man have died on the spot while the remaining injured have been admitted to the District General Hospital in Vavuniya for further treatment.
+
+It is reported that three of the injured persons are in critical condition.
+
+◼️
+
+[Data](articles/965879b5.json)
+
+---
+
+### வவுனியா, ஓமந்தை பகுதியில் விபத்து : இருவர் பலி;  9 பேர் காயம்
+
+*2025-08-17 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222765) · `ta`
+
+வவுனியா ஓமந்தை எ9 வீதியில் இன்று இரவு இடம்பெற்ற விபத்தில் இருவர் பலியானதுடன் 13 பேர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+கண்டியில் இருந்து முல்லைத்தீவு நோக்கிபயணித்த பொலிரோ ரக வாகனம் ஏ9 வீதியின் ஓமந்தை மாணிக்கர் வளவுப்பகுதியில் சென்றுகொண்டிருந்தபோது பார ஊர்தியில் மோதி கட்டுப்பாட்டை இழந்து  தடம்புரண்டுவிபத்திற்குள்ளாகியது.
+
+விபத்தின் போது குறித்த வாகனத்தில் பெண்கள் சிறுவர்கள் உட்பட 15ற்கும் மேற்பட்டோர் பயணித்துள்ளனர்.
+
+விபத்தினால் வாகனத்தில் இருந்த அனைவரும் வீதியில் தூக்கிவீசப்பட்ட நிலையில் சம்பவ இடத்தில் இருவர் மரணமடைந்ததுடன் ஏனையோர் படுகாயமடைந்திருந்தனர்.
+
+இதன்போது வீதியால் பயணித்த பொதுமக்களின் உதவியுடன் காயமடைந்தவர்கள் மீட்கப்பட்டு வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+விபத்தில் சம்பவ இடத்திலேயே பெண் உட்பட இருவர் பலியானதுடன் 13பேர் காயமடைந்தநிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+உயிரிழந்தவர்கள் முல்லைத்தீவு விசுவமடு பகுதியை சேர்ந்த யாழினி வயது33 ,சுயன் வயது30 என்று தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/98e6c7a1.json)
 
 ---
 
@@ -91,22 +169,6 @@ A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්ත
 ◼️
 
 [Data](articles/cef5b596.json)
-
----
-
-### வவுனியா, ஓமந்தை பகுதியில் விபத்து : இருவர் பலி;  9 பேர் காயம்
-
-*2025-08-17 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/222765) · `ta`
-
-கண்டி - முல்லைத்தீவு வீதியில் 17ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு சுமார் 7 மணியளவில் ஓமந்தை பொலிஸ் நிலையத்திற்கு அருகில் விபத்தொன்று இடம்பெற்றுள்ளது.
-
-குறித்த விபத்தில் 2 பேர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளனர்.  சிறுவர்கள் உட்பட 9 பேர் காயமடைந்து வவுனியா பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-விசுவமடு பகுதியைச் சேர்ந்தவர்கள் “பட்ட” ரக மகேந்திர வாகனத்தில் கண்டியில் இடம்பெற்ற இறுதிச் சடங்கில் கலந்து கொண்ட பின்னர் திரும்பி வரும் வழியில் ஓமந்தை பொலிஸ் நிலையத்திற்கு அருகில் எதிர்த்திசையில் வந்த டிப்பர் வாகனத்தோடு மோதுண்டு மேற்குறித்த விபத்து ஏற்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/98e6c7a1.json)
 
 ---
 
@@ -1783,57 +1845,5 @@ Meanwhile, the Police Life Saving Division has successfully rescued 69 locals an
 ◼️
 
 [Data](articles/0d73f606.json)
-
----
-
-### US halts visitor visas used for medical trips from Gaza
-
-*2025-08-17 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111536/us-halts-visitor-visas-used-for-medical-trips-from-gaza) · `en`
-
-The US State Department announced it was halting all visitor visas for people from Gaza.
-
-The pause was issued to conduct a “full and thorough review of the process and procedures used to issue a small number of temporary medical-humanitarian visas in recent days,” the agency said on X.
-
-The decision has drawn condemnation from some Palestinian rights groups.
-
-Palestine Children’s Relief Fund said in a statement that the decision “will have a devastating and irreversible impact on our ability to bring injured and critically ill children from Gaza to the United States for lifesaving medical treatment”.
-
-The State Department’s policy shift comes after far right activist Laura Loomer wrote a series of posts on X criticising the visa programme and urging the Trump administration to “shut this abomination down.”
-
-In subsequent posts on X Saturday, Loomer took credit for the shift and thanked Secretary of State Marco Rubio for temporarily halting the visas.
-
-...
-
-[Data](articles/2ec13581.json)
-
----
-
-### நாட்டில் சில பகுதிகளில் இன்று மழை
-
-*2025-08-17 08:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-சில-பகுதிகளில்-இன்று-மழை/175-363024) · `ta`
-
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று அவ்வப்போது மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-வடமேல் மாகாணத்தில் சிறிதளவு மழை பெய்யக்கூடும் எனவும் நாட்டின் ஏனைய பகுதிகளில் பிரதானமாக மழையற்ற வானிலை நிலவக்கூடும் என்றும் திணைக்களம் அறிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/ca6bc894.json)
-
----
-
-### වසරේ ගෙවුණු කාලය තුළ දියේ ගිලී සිදුවූ අනතුරුවලින් මරණ 257ක්
-
-*2025-08-17 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213462) · `si`
-
-වසරේ මේ දක්වා කාලය තුළ දියේ ගිලී සිදුවූ අනතුරුවලින් පුද්ගලයින් 257 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
-
-පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්.යූ. වුට්ලර් මහතා සඳහන් කළේ ඒ අතරට කාන්තාවන් 37 දෙනෙකු සහ පිරිමි පුද්ගලයින් 220 දෙනෙකු ඇතුළත් වන බවය.
-
-මේ අතර දියේ ගිලී සිදුවූ අනතුරුවලින් දේශීය සංචාරකයින් 69 දෙනෙකු සහ විදේශීය සංචාරකයින් 33 දෙනෙකු පොලිස් ජීවිතාරක්ෂක කොට්ඨාසය විසින් බේරා ගැනීමට සමත්වී ඇති බව ද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/a64524b2.json)
 
 ---

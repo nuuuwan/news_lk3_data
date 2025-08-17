@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 14:48:59**
+As of **2025-08-17 15:06:52**
 
 ## Newspaper Stats
 
-*Scraped **70,919** Articles*
+*Scraped **70,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,843
-adaderanalk | 8,870
+adaderanalk | 8,872
 tamilmirrorlk | 10,450
 virakesarilk | 11,767
-adaderanasinhalalk | 12,229
+adaderanasinhalalk | 12,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,919 articles have been extended.
+61,973 (87.4%) of 70,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ආසියානු කුසලානයට යන පාකිස්තානු සංචිතය නම් කෙරේ
+
+*2025-08-17 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213471) · `si`
+
+එළැඹෙන ආසියානු කුසලානය විස්සයි20 ක්‍රිකට් තරගාවලියට සහභාගිවන පාකිස්තානු සංචිතය එරට ක්‍රිකට් ආයතනය විසින් අද (17) පෙරවරුවේ ප්‍රකාශයට පත් කළේය.
+
+සල්මන් අලි ආගාගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 17ක සංචිතයක් මේ සඳහා නම් කර තිබේ.
+
+කෙසේ නමුත් වත්මන් පාකිස්තාන කණ්ඩායමේ සිටින ජ්‍යෙෂ්ඨතම ක්‍රීඩකයින් දෙපළ වන බාබර් අසාම් හා මොහොමඩ් රිස්වාන් මෙවර ආසියානු කුසලානයෙන් ඉවත්කර ඇත.
+
+මෙවර ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ දී සැප්තැම්බර් 9වනදා ආරම්භ වන අතර, එම තරගාවලියට පෙර පාකිස්තාන කණ්ඩායම එරටදී තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියකට සහභාගිවීමට නියමිතය.
+
+ඇෆ්ගනිස්තානය හා එක්සත් අරාබි එමීර් කණ්ඩායම් අතර සාජාහිදී එම තරගාවලිය පැවැත්වේ.
+
+සමාන්, හාරිස් රවුෆ්, හසන් අලි, හසන් නවාස්, හුසේන් තලාත්, කුෂ්දිල් ෂා, මොහොමඩ් හාරිස් (කඩුලු රකින්නා), මොහොමඩ් නවාස්, මොහොමඩ් වසීම්, සහිබ්සාදා ෆර්හාන්, සයිම් අයුබ්, සල්මන් මිර්සා, ෂහීන් ෂා අෆ්රිඩි, සුෆියාන් මොකිම්
+
+◼️
+
+[Data](articles/5a5f75ba.json)
+
+---
+
+### පෞද්ගලික ආරවුල මරණයෙන් කෙළවර වෙයි
+
+*2025-08-17 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213470) · `si`
+
+දිවුලපිටිය දූනගහ ප්‍රදේශයේ දී තිදෙනෙකු එක්ව කළ පහරදීමකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
+
+පෞද්ගලික ආරවුලක් හේතුවෙන් මෙම පහර දීම සිදු කර ඇති අතර පිහියකින් සහ පොලුවලින් පහර දී ඔහුව ඝාතනය කර ඇති බව වාර්තා වේ.
+
+පහර කෑමෙන් බරපතළ තුවාල ලැබූ පුද්ගලයා දිවුලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ගම්පහ දිස්ත්‍රික් රෝහලට මාරුකර යවා ඇති අතර එහිදී ඔහු මිය ගොස් තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 46ක් වන මඩම්පැල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+
+දිවුලපිටිය පොලීසිය විසින් සැකකරුවන් තිදෙනා අත්අඩංගුවට ගැනීම සඳහ කණ්ඩායමක් යොදා ඇති අතර වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/d467b5dc.json)
+
+---
 
 ### ඉන්දියාවේ ගංවතුර තත්ත්වයෙන් ළමුන් 5 දෙනෙකු ඇතුළු 7 දෙනෙක් ජීවිතක්ෂයට
 
@@ -69,6 +111,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c3ddc4c9.json)
+
+---
+
+### Tourist arrivals in August top 99,000
+
+*2025-08-17 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111550/tourist-arrivals-in-august-top-99000) · `en`
+
+A total of 99,406 tourists have arrived in the country thus far in August, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 19,572 tourists have arrived from India which accounts to 19.7%. Furthermore, 10,970 persons from the United Kingdom, 7,641 from Italy, 6,870 from France and 6,762 Chinese nationals have also visited Sri Lanka in the month of August.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,467,694 with the release of the latest figures for August.
+
+Among them, 268,694 individuals are from India, 142,347 from the UK and 117,322 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/af36edab.json)
+
+---
+
+### US-India trade talks scheduled for August called off, source says
+
+*2025-08-17 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111549/us-india-trade-talks-scheduled-for-august-called-off-source-says) · `en`
+
+A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has been called off, a source said, delaying talks on a proposed trade agreement and dashing hopes of relief from additional U.S. tariffs on Indian goods from August 27.
+
+The current round of negotiations for the proposed bilateral trade agreement is now likely to be deferred to another date that has yet to be decided, the source with direct knowledge of the matter said.
+
+The U.S. embassy in New Delhi said it has no additional information on the trade and tariff talks, which are being handled by the United States Trade Representative (USTR).
+
+India’s trade ministry did not immediately reply to a Reuters email seeking comments.
+
+Earlier this month, U.S. President Donald Trump imposed an additional 25% tariff on Indian goods, citing New Delhi’s continued imports of Russian oil in a move that sharply escalated tensions between the two nations.
+
+...
+
+[Data](articles/96141b1e.json)
 
 ---
 
@@ -1771,77 +1851,5 @@ Meanwhile, USS Santa Barbara is scheduled to depart the island on 22 Aug.
 ◼️
 
 [Data](articles/4f0d98c9.json)
-
----
-
-### පාදුක්ක පොලිසියේදී යකා නැටූ හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී රිමාන්ඩ්
-
-*2025-08-16 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213443) · `si`
-
-පාදුක්ක පොලිස් ස්ථානයේ නිලධාරින්ට බැණ තර්ජනය කරමින් කලහකාරී ලෙස හැසීරීම හේතුවෙන් අත්අඩංගුවට ගත් සීතාවක ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරයා එළැඹෙන 29 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-මෙම පුද්ගලයා අත්අඩංගුවට පත් වීමෙන් අනතුරුව ඇති වූ හදිසි අසනීප තත්ත්වය හේතුවෙන් හෝමාගම මූලික රෝහලට ඇතුළත් කෙරුණු අතර හෝමාගම වැඩබලන මහේස්ත්‍රාත් අනුර හපුආරච්චි මහතා විසින් රෝහලට ගොස් මෙම නියෝගය ලබා දී ඇත.
-
-පාදුක්ක මාවත්ගම ප්‍රදේශයේදී ත්‍රීරෝද රථයක් හා මොටර් රථයක් එකිනෙක ගැටී ඊයේ (15) පස්වරුවේ අනතුරක් සිදු විය.
-
-මේ හේතුවෙන් මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගැනීමට පාදුක්ක පොලිසියේ රථ වාහන අංශයේ නිලධාරින් කටයුතු කළ අතර මොටර් රථයද පොලිස් භාරයට ගැණුනි.
-
-කෙසේ වෙතත් මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගැනීමට විරෝධය දක්වමින් පාදුක්ක පොලිස් ස්ථානයට පැමිණි සීතාවක ප්‍රාදේශීය සභාවේ හිටපු එක්සත් ජාතික පක්ෂ සභිකයෙක් පොලිස් නිලධාරින්ට බැන වැදී තිබුණි.
-
-එහිදී පාදුක්ක පොලිසියේ රථවාහන අංශයේ ස්ථානාධිපතිවරයාට පහරදීමට ඔහු උත්සාහ දරා ඇති අතර දැඩි පරිශ්‍රමයක් දරා ඔහුව සිර මැදිරියට ඇතුළු කිරීමට පොලීසිය කටයුතු කළේය.
-
-...
-
-[Data](articles/69087c2e.json)
-
----
-
-### අමෙරිකානු නාවික හමුදාවට අයත් නෞකාවක් කොළඹට
-
-*2025-08-16 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213442) · `si`
-
-අමෙරිකානු නාවික හමුදාවට අයත් ‘USS Santa Barbara’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා කොළඹ වරායට පැමිණ තිබේ.
-
-අද (16) උදෑසන කොළඹ වරායට පැමිණි එම නෞකාව ශ්‍රී ලංකා නාවික හමුදාව විසින් නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.
-
-මෙලෙස කොළඹ වරායට පැමිණි Littoral Combat වර්ගයට අයත් ‘USS Santa Barbara (LCS32)’ නෞකාව, එක්සත් ජනපද හත්වන (7th Fleet) නෞකා බල ඇනියට අයත් නෞකාවක් වේ.
-
-මෙම නෞකාවේ අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් A. J. OCHS කටයුතු කරනු ලබයි.
-
-◼️
-
-[Data](articles/d470aa37.json)
-
----
-
-### Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
-
-*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/konka-launches-groundbreaking-v-max-tv-range-in-lanka-via-flico/) · `en`
-
-Colombo saw the Sri Lankan debut of global electronics giant Konka’s latest innovation—the Konka V-Max TV range—introduced in partnership with Future Life Holdings Group and its flagship retail arm FLiCo.
-
-Celebrating 45 years as a global leader in home electronics, Konka’s V-Max series promises to revolutionize the local market with cutting-edge technology and immersive home entertainment. Available in 32″, 43″, 55″, and 65″ sizes, the V-Max range features Operating TV OS, Web OS, and Google TV OS platforms.
-
-A standout feature is the built-in integrated soundbar, eliminating the need for external speakers while offering 30W Dolby Audio surround sound for a cinematic experience. The TVs also support HDR 10, delivering stunning visuals and balanced acoustics. Uniquely, the independent soundbar can play music even when the TV screen is off, catering to evolving lifestyle needs.
-
-...
-
-[Data](articles/3c00b8c2.json)
-
----
-
-### Ruhunu Farms unveils new facility, supporting continued growth of Aberdeen Holdings
-
-*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/ruhunu-farms-unveils-new-facility-supporting-continued-growth-of-aberdeen-holdings/) · `en`
-
-Ruhunu Farms (Pvt) Ltd a subsidiary of Aberdeen Holdings, commemorated the opening of its expanded poultry facility recently, at its premises in Hambantota. The ceremony marked a pivotal chapter in the company’s 46-year journey of delivering safe, hygienic, and responsibly produced poultry to communities across the Southern Province.
-
-The inauguration was held at the Ruhunu Farms site in Hambantota and was attended by distinguished guests including Sattar Kassim, Chairman of Aberdeen Holdings, Hassan Kassim, Deputy Chairman, and the Board of Directors of the group. Among the distinguished attendees was Azmi Thassim, founder of the original M.R. Thassim and Company, which has since evolved into Ruhunu Farms.
-
-Mohamed Rizwan Said, General Manager of Ruhunu Farms, remarked: “This milestone marks a proud chapter in our 46-year journey. As the most significant transformation in our farm’s history, the new facility brings greater capacity.”
-
-...
-
-[Data](articles/cdace042.json)
 
 ---

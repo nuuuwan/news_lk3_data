@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 14:33:45**
+As of **2025-08-17 14:48:59**
 
 ## Newspaper Stats
 
-*Scraped **70,910** Articles*
+*Scraped **70,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 4,326
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,842
-adaderanalk | 8,867
+adalk | 6,843
+adaderanalk | 8,870
 tamilmirrorlk | 10,450
-virakesarilk | 11,763
-adaderanasinhalalk | 12,228
+virakesarilk | 11,767
+adaderanasinhalalk | 12,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,910 articles have been extended.
+61,973 (87.4%) of 70,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ඉන්දියාවේ ගංවතුර තත්ත්වයෙන් ළමුන් 5 දෙනෙකු ඇතුළු 7 දෙනෙක් ජීවිතක්ෂයට
+
+*2025-08-17 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213469) · `si`
+
+ඉන්දියාවේ ඇති වූ හදිසි ගංවතුර තත්ත්වය හේතුවෙන් කුඩා ළමුන් පස් දෙනෙකු ඇතුළුව පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+ජම්මු හා කාශ්මීරයේ කතුවා නම් දිස්ත්‍රික්කයේ ඊයේ (16) සහ අද දිනයේදී මෙම ආපදාව සිදුව ඇති අතර වලාකුළු පිපිරීම් හේතුවෙන් ඇති වූ අධික වර්ශාවත් සමග නායයාම් හේතුවෙන් මෙම මරණ සිදුව ඇත.
+
+එමෙන්ම මෙම ආපදාවෙන් පුද්ගලයින් පස් දෙනෙකුද තුවාල ලබා ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
+
+මේ අතර එරට කාලගුණ බලධාරීන් ප්‍රකාශ කර ඇත්තේ දිස්ත්‍රික්කය පුරා අධික වර්ෂාපතනයක් ඇදැ හැලෙනු ඇති බවත් සිදුවිය හැකි ආපදාවන්වලින් ආරක්ෂා වන ලෙසත්ය.
+
+එමෙන්ම ගංගා, ඇළදොළ, සහ අනෙකුත් ජල මූලාශ්‍ර ආශ්‍රිතව සිටීමෙන් වළකින ලෙසත් කඳුකර සහ නායයෑම් සහ අනෙකුත් අවදානම් සහිත ප්‍රදේශවලින් වැළකී සිටින ලෙසත් එරට මහජනතාවට අනතුරු අඟවාද තිබේ.
+
+මේ අතර පසුගිය 14 වැනි දින ජම්බු හා කාශ්මීරයේ කිෂ්ට්වාර් ප්‍රදේශයට බලපෑ වළාකුළු පිපිරීමේන් ඇතිවූ හදිසි ගංවතුර තත්ත්වයෙන් පුද්ගලයින් 50කට වැඩි පිරිසක් මිය ගොස් තවත් 100කට අධික පිරිසක් තුවාල ලැබීය.
+
+...
+
+[Data](articles/4d024c8e.json)
+
+---
 
 ### කාන්තාවන් සහ ළමයින් ගැන කතා කරන්න කාන්තා සහ ළමා අනුකමිටුවක්
 
@@ -66,6 +88,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ‘Galu Kumari’ Train Derailment: One railway track reopened for limited operations
+
+*2025-08-17 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111548/galu-kumari-train-derailment-one-railway-track-reopened-for-limited-operations) · `en`
+
+The Department of Railways states that restoration work is still underway on the ‘Galu Kumari’ express train, which derailed near the Ginthota Railway Station yesterday.
+
+The incident occurred around 5:30 p.m. yesterday when the train, traveling from Maradana to Beliatta, derailed near Ginthota.
+
+The derailment caused serious damage to the railway line, including approximately 250 concrete sleepers and parts of the tracks.
+
+As a result, the Department of Railways limited train operations on the coastal line up to the Ambalangoda Railway Station.
+
+Restoration work on the damaged section began last night, and by around 11:00 a.m. today (17), one railway track was reopened for limited train operations.
+
+The Department further stated that steps are being taken to complete repairs and fully reopen the line for regular train services as soon as possible.
+
+◼️
+
+[Data](articles/a3557931.json)
+
+---
+
 ### மூன்றாம் தவணை நாளை ஆரம்பம்
 
 *2025-08-17 13:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-363051) · `ta`
@@ -96,6 +140,50 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Pension scheme for fishermen to be reintroduced next month
+
+*2025-08-17 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111547/pension-scheme-for-fishermen-to-be-reintroduced-next-month) · `en`
+
+The Agricultural and Agrarian Insurance Board states that the fishermen’s pension scheme is expected to be reintroduced starting next month.
+
+Chairman of the Board Premasiri Jasinghe Arachchi said that awareness programmes are currently underway to identify eligible individuals for the scheme.
+
+The Agricultural and Agrarian Insurance Board, in collaboration with the Department of Fisheries, has planned to relaunch this initiative.
+
+The Chairman further stated that around 60,000 fishermen were benefiting from the previous pension scheme at the time it was discontinued.
+
+Under this scheme, a compensation of Rs. 1.2 million is offered in the event of sudden death, for an annual premium of Rs. 2,000.
+
+Additionally, compensation will be paid in cases of total or partial disability. Provisions have been made for swift compensation payments in the event of serious injuries as a result of an accident.
+
+◼️
+
+[Data](articles/8e39b7b5.json)
+
+---
+
+### எஸ்எல்சி ரி20 லீக்: கமிந்து மெண்டிஸ் தலைமையிலான டீம்  க்றீன்ஸ் சம்பியனானது
+
+*2025-08-17 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222738) · `ta`
+
+எஸ்எஸ்சி மைதானத்தில் சனிக்கிழமை (16) நடைபெற்ற மிகவும் விறுவிறுப்பான எஸ்எல்சி ரி20 லீக் இறுதிப் போட்டியில் சரித் அசலன்க தலைமையிலன டீம் க்றேஸ் அணியை 23 ஓட்டங்களால் வெற்றிகொண்ட கமிந்து மெண்டிஸ் தலைமையிலான டீம் க்றீன்ஸ் அணி தோல்வி அடையாத அணியாக சம்பியனானது.
+
+இந்த வெற்றியில் குசல் மெண்டிஸ், கமிந்து மெண்டிஸ், சதீர சமரவிக்ரம, சாமிக்க கருணாரட்ன ஆகியோர் பெரும் பங்காற்றினர்.
+
+இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட டீம் க்றீன்ஸ் அணி 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 189 ஓட்டங்களைக் குவித்தது.
+
+குசல் மெண்டிஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் பானுக்க ராஜபக்ஷவுடன் 56 ஓட்டங்களையும் 3ஆவது விக்கெட்டில் சதீர சமரவிக்ரமவுடன் 55 ஓட்டங்களையும் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தார்.
+
+குசல் மெண்டிஸ் 5 பவுண்டறிகள், 5 சிக்ஸ்களுடன் 77 ஓட்டங்களைப் பெற்றார். பானுக்க ராஜபக்ஷ 18 ஓட்டங்களைப் பெற்றார்.
+
+சதீர சமரவிக்ரமவும் கமிந்து மெண்டிஸும் பிரிக்கப்படாத 5ஆவது விக்கெட்டில் 41 பந்துகளில் 77 ஓட்டங்களைப் பகிர்ந்து அணிக்கு கணிசமான மொத்த எண்ணிக்கை கிடைக்க உதவினர்.
+
+...
+
+[Data](articles/43a1b0c7.json)
+
+---
+
 ### මුහුදුබඩ දුම්රිය මාර්ගයේ එක් මංතීරුවක් විවෘත කෙරේ
 
 *2025-08-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213467) · `si`
@@ -117,6 +205,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/db146f8c.json)
+
+---
+
+### Deputy Minister of Defence visits USS Santa Barbara
+
+*2025-08-17 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111546/deputy-minister-of-defence-visits-uss-santa-barbara) · `en`
+
+Deputy Minister of Defence Major General Aruna Jayasekara (Retd) visited the USS Santa Barbara (LCS), an Independence-class Littoral Combat Ship of the United States Navy, currently docked at the Port of Colombo, on Saturday (Aug 16).
+
+Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd) and Commander of the Sri Lanka Navy Vice Admiral Kanchana Banagoda also joined the Deputy Minister on this occasion, the Ministry of Defence said in a statement.
+
+The group was received by U.S. Ambassador to Sri Lanka Julie Chung and U.S. Defence Attaché Lieutenant Colonel Matthew House, reflecting the close and cooperative ties between the two nations.
+
+The visit served to explore future avenues for collaboration in maritime security, regional stability and technical exchanges between the defence establishments of Sri Lanka and the United States.
+
+...
+
+[Data](articles/a8d35879.json)
+
+---
+
+### இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நீரில் மூழ்கி 257 பேர் உயிரிழப்பு
+
+*2025-08-17 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222733) · `ta`
+
+இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நீரில் மூழ்கி 257 பேர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+உயிரிழந்தவர்களில் 37 பெண்களும் 220 ஆண்களும் அடங்குவர் என பொலிஸ் ஊடகப் பேச்சாளரும், உதவி பொலிஸ் அத்தியட்சகருமான வூட்லர் தெரிவித்துள்ளார்.
+
+இதேவேளை, நீரில் மூழ்கிய சம்பவங்களில் 69 உள்நாட்டவர்களையும், 33 வெளிநாட்டு சுற்றுலாப் பயணிகளையும் பொலிஸ் உயிர்காக்கும் பிரிவு வெற்றிகரமாக மீட்டுள்ளதாக காவல்துறை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/205a62dd.json)
 
 ---
 
@@ -160,6 +282,26 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### ஜம்மு காஷ்மீரில் மீண்டும் மேக வெடிப்பு : 4 பேர் உயிரிழப்பு
+
+*2025-08-17 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222731) · `ta`
+
+காஷ்மீர் மாநிலம் கிஷ்த்வார் மாவட்டம் சசோட்டி நகருக்கு அருகில் மலைமீது உள்ள துர்க்கா தேவி கோவிலில் திருவிழா நடந்து வருகிறது. அந்த கோவிலுக்கு செல்வதற்காக ஏராளமானோர் சசோட்டி நகரில் கடந்த 14 ஆம் திகதி குவிந்து இருந்தனர்.
+
+அன்று மதியம் சசோட்டியில் மேகவெடிப்பு காரணமாக பெருமழை பெய்தது. இதனால் காட்டாற்று வெள்ளம் பல இடங்களில் ஓடியது. இந்த வெள்ளத்தில் சசோட்டி நகரில் திரண்டு இருந்த பக்தர்கள் உட்பட ஏராளமானோர் மாயமானார்கள். வீடுகள் சேதமடைந்தன. பல இடங்களில் வாகனங்கள் சேற்றில் புதைந்துள்ளன.
+
+இந்த வெள்ளத்தில் சிக்கி 60 பேர் வரை உயிரிழந்தார்கள். 180-க்கும் மேற்பட்டவர்கள் மீட்கப்பட்டுள்ளனர். அவர்களில் சிலரது நிலைமை கவலைக்கிடமாக உள்ளது.
+
+இதனிடையே இராணுவம், தேசிய அனர்த்த மீட்புக்குழுவினர் இணைந்து இன்றும் 4 ஆவது நாளாக தேடும்பணியில் ஈடுபட்டு வருகின்றனர்.
+
+இந்நிலையில், இன்று கதுவா மாவட்டத்தில் உள்ள தொலைதூர கிராமத்தில் மேக வெடிப்பு ஏற்பட்டது. இதனால் ஏற்பட்ட திடீர் வெள்ளத்தில் சிக்கி 4 பேர் உயிரிழந்தனர். மேலும் 6 பேர் காயம் அடைந்துள்ளனர்.
+
+...
+
+[Data](articles/13452b00.json)
+
+---
+
 ### Govt fully supports action taken against underworld figures: New IGP
 
 *2025-08-17 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111543/govt-fully-supports-action-taken-against-underworld-figures-new-igp) · `en`
@@ -191,6 +333,28 @@ However, he stressed that there is currently no political pressure on law enforc
 ◼️
 
 [Data](articles/95dc978b.json)
+
+---
+
+### කිසිම අපරාධයක් වසන් කිරීමට දෙන්නේ නෑ
+
+*2025-08-17 12:00:47* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අපරාධයක්-වසන්-කිරීමට-දෙන්නේ-නෑ/11-417950) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම හා පාතාල ක්‍රියාකාරකම් අතීතයේ සිටම සිදුවූවක් බවත් ඒ සඳහා දේශපාලනඥයින්, ඇතැම් පොලිස් නිලධාරීන් සහාය ලබා දී ඇති බවත් පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පැවැසීය.
+
+අපරාධකරුන් විදෙස් ගතව සිටියත් ඔවුන්ට මේ වන විට එක් ස්ථානයක සිටීමට නොහැකි තත්ත්වයක් මතුව ඇති බවත් ඔහු පැවැසීය.
+
+අද පෙරවරුවේ මහනුවරට පැමිණි මහානායක හිමිවරුන්ගේ බැහැ දැකී‍මෙන් අනතුරුව මාධ්‍ය අමතමින් ඔහු මේ බව පැවැසීය.
+
+දේශපාලන බලපෑමක් නොමැති බවත් කිසිම අපරාධයක් වසන් කිරීමට තමන්ගෙන් ඉඩක් නොමැති බවත් ඔහු පැවැසීය.
+
+වත්මන් දේශපාලන තත්ත්වය සමග පොලීසිය කටයුතු කළ නොහැකි නම් එතන විනය ප්‍රශ්නයක් ඇති බවත් ඔහු සඳහන් කළේය.
+
+උසස්වීම් ලබාදීමට කඩිනම් කරන බවත් නිලධාරී හිඟය 30000කට ආසන්න සංඛ්‍යාවක් බවට පත්ව ඇති බවත් එයට පිළිතුරු ලෙස මේ වසරේ 5000ක් හා ලබන වසරේදී 10000ක් බඳවා ගන්නා බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/a6c87fad.json)
 
 ---
 
@@ -319,6 +483,20 @@ Minister Fernando was in Singapore to participate in the Invest Sri Lanka Invest
 ◼️
 
 [Data](articles/3d4ac6ae.json)
+
+---
+
+### எம். பிக்கள்  ஓய்வூதியம் பெற தகுதியானவர்களா?
+
+*2025-08-17 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/222722) · `ta`
+
+முன்னாள் எம்.பிக்களின் ஓய்வூதியத்தை இரத்து செய்வதற்கு தேசிய மக்கள் சக்தி அரசாங்கம் முடிவெடுத்துள்ளமை நாட்டு மக்கள் மத்தியில் எந்தவி பிரதிபலிப்புகளையும் ஏற்படுத்தவில்லை. எந்த பொது அமைப்புகளும் , சிவில் சமூக அமைப்புகளும், மனித உரிமைகள் பற்றி பேசும் குழுக்களும், அரசாங்கத்தின் இந்த முடிவுக்கு எதிராக குரல் எழுப்பவில்லை. ஆனால் ஓய்வு பெற்ற பாராளுமன்ற உறுப்பினர்களின் சங்கம் இதற்கு எதிர்ப்பபை வெளியிட்டுள்ளது.
+
+தமது ஓய்வூதியம் இரத்து செய்யப்பட்டால் ஜெனீவா மனித உரிமைகள் ஆணைக்குழு மற்றும் பாராளுமன்றங்களுக்கிடையிலான ஒன்றியத்துக்கு முறைப்பாடு செய்யவுள்ளதாக அதன் செயலாளர் தெரிவித்துள்ளார். இதற்கும் ஒரு படி மேலே சென்ற முன்னாள் எம்.பி ஒருவர், தனது ஓய்வூதியம் இரத்துச் செய்யப்பட்டால் ‘உயிரை மாய்த்துக்கொள்ள’  வேண்டி வரும் என்று பீதியை கிளப்பியுள்ளார். அவர் மக்கள் விடுதலை முன்னணியின் முன்னாள் எம்.பியான நந்தன குணதிலக்க ஆவார்.
+
+...
+
+[Data](articles/fc04ebc4.json)
 
 ---
 
@@ -1665,145 +1843,5 @@ Mohamed Rizwan Said, General Manager of Ruhunu Farms, remarked: “This mileston
 ...
 
 [Data](articles/cdace042.json)
-
----
-
-### Fcode Labs partners with Porolis to deliver AI-driven innovation to the global gemstone industry
-
-*2025-08-16 15:55:00* · [`islandlk`](http://island.lk/fcode-labs-partners-with-porolis-to-deliver-ai-driven-innovation-to-the-global-gemstone-industry/) · `en`
-
-Fcode Labs, a global digital product engineering company, has partnered with Porolis, an innovator in gemstone scanning technology, to launch an AI-powered platform that reimagines how gemstones are analyzed, certified, and showcased in the digital age. The revolutionary solution comprises a cloud-based GemLUX® AIaaS platform and a scanning device KROMA invented by Porolis. Fcode Labs developed the end-to-end software infrastructure, while Porolis provided the proprietary AI model for gem analysis. Combining Porolis’ deep gemstone domain knowledge and advanced optical engineering with Fcode Labs’ expertise in cloud-based software, the solution brings speed, accuracy, and transparency to an industry still reliant on manual processes. The platform allows gemstone professionals to digitally scan and certify gems using AI-driven analysis, with instant access to digital reports and records via a secure cloud dashboard.
-
-...
-
-[Data](articles/d28cc92c.json)
-
----
-
-### Chinese Dragon Café opens flagship outlet in Jaffna
-
-*2025-08-16 15:52:00* · [`islandlk`](http://island.lk/chinese-dragon-cafe-opens-flagship-outlet-in-jaffna-2/) · `en`
-
-Chinese Dragon Café (CDC), one of Sri Lanka’s most recognisable names in Chinese cuisine, has opened its latest outlet in Jaffna, marking a new chapter in the restaurant’s long-standing presence across the island. Located at No. 229, Point Pedro Road, just 900 metres from the historic Nallur Kovil, this new branch becomes the ninth outlet in the country. Established in 1942 by a Chinese couple in Bambalapitiya, CDC has grown steadily over the decades, expanding from a single neighbourhood restaurant into a familiar brand with a presence in key urban areas including Mt. Lavinia, Rajagiriya, Nawala, and Nugegoda. In 2021, the café made its first move overseas with an outlet in Dubai in the United Arab Emirates.
-
-...
-
-[Data](articles/5fa34455.json)
-
----
-
-### ANC Education hosts pre-departure event for students heading to US and Canada
-
-*2025-08-16 15:52:00* · [`islandlk`](http://island.lk/anc-education-hosts-pre-departure-event-for-students-heading-to-us-and-canada/) · `en`
-
-ANC Education recently hosted a special Pre-Departure Event to celebrate and support students who have successfully secured their student visas to begin their higher education journey in the United States and Canada. This important event was designed not only to recognize the achievements of these students but also to provide them and their families with valuable guidance and reassurance as they prepare to embark on a new chapter of their lives. In addition to these sessions, attendees had the opportunity to connect with ANC alumni who had previously transferred to universities in the US and Canada. These alumni shared personal insights and firsthand experiences on adapting to life overseas, managing academic workloads, and building successful careers after graduation, offering current students inspiration and confidence.
-
-Melwa sponsors Lankan athlete at Asian African Pacific Powerlifting Championship 2025
-
-Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
-
-...
-
-[Data](articles/72a99a72.json)
-
----
-
-### Melwa sponsors Lankan athlete at Asian African Pacific Powerlifting Championship 2025
-
-*2025-08-16 15:51:00* · [`islandlk`](http://island.lk/melwa-sponsors-lankan-athlete-at-asian-african-pacific-powerlifting-championship-2025/) · `en`
-
-Melwa sponsored Pradeep S. Sumudu of the Sri Lanka Army, who represented the country at the Asian African Pacific Powerlifting Championship 2025. The championship, held in Himeji, Japan, drew a large number of competitors representing countries from Asia, Africa, and the Pacific region. Pradeep S. Sumudu brought glory to Sri Lanka in the 59kg weight class, securing the following achievements: Squat – 220 kg (Silver Medal / Sri Lanka Record), Bench Press – 135 kg (Bronze Medal), Deadlift – 250 kg (Bronze Medal), Overall Total – 605 kg (Silver Medal / Sri Lanka Record). These exceptional performances also earned him 5th place in the world rankings. Melwa has been at the forefront of providing facilities and sponsorships for Sri Lankan athletes across various sports, including motorsports, with the aim of nurturing talent and promoting excellence.
-
-Fcode Labs partners with Porolis to deliver AI-driven innovation to the global gemstone industry
-
-...
-
-[Data](articles/abb37b43.json)
-
----
-
-### බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ
-
-*2025-08-16 15:45:36* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවෙල-රෝහල-මූලික-රෝහලක්-ලෙස-උසස්-කෙරේ/11-417941) · `si`
-
-වත්මන් රජය රෝහල් වර්ගීකරණයේ ඉහළට ඔසවා තැබූ පළමු රෝහල බණ්ඩාරවෙල මුලික රෝහල බවත්, බදුල්ල ශික්ෂණ රෝහල ද සංවර්ධනය කරමින් ඉදිරියේ දී දිස්ත්‍රික්කයේ එක් රෝහලක් දිස්ත්‍රික් මහ රෝහලක් බවට පත්වීමේ වැඩි විභවතාවයක් පවතින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා පවසයි.
-
-බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පියවර ගනිමින් උත්ශ්‍රේණි ගත කරන ලද රෝහල ජනතා අයිතියට පත් කිරීම ඊයේ (15) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සහ වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න  මහතාගේ සහ ඌව පළාත් ආණ්ඩුකාර නීතීඥ ජේ.එම්.කපිල ජයසේකර යන මහත්වරුන්ගේ සහභාගීත්වයෙන් සිදු කෙරිණි.
-
-පළමුව රෝහල් නාම පුවරුව විවෘත කළ අමාත්‍යවරුන් රෝහලේ අළුතින් ස්ථාපිත කරන ලද ආයුර්වේද සුවතා මධ්‍යස්ථානය ද විවෘත කරමින්  ඒකාබද්ධ ආයුර්වේද සුවතා  සහිතව සංවර්ධනය කිරීමට ආරම්භක පියවර තැබීය. එමෙන් ම  රෝහල් පරිශ්‍රය ද මෙහි දී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා නිරීක්ෂණය කරන ලදී.
-
-...
-
-[Data](articles/869982e7.json)
-
----
-
-### மற்றுமொரு ரோந்துக் கப்பலை இலங்கை்கு வழங்கவுள்ளோம் : சான்டா பாப்ரா போர் கப்பலின் வரவேற்பின்போது அமெரிக்கத் தூதர் ஜூலி சங் தெரிவிப்பு
-
-*2025-08-16 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/222690) · `ta`
-
-உலக வர்த்தகத்திற்கு இந்தியப் பெருங்கடல் மிகவும் முக்கியமானது. அதன் மூலோபாய இருப்பிடத்தால், இந்த கடல் வழிகளின் பாதுகாப்பை உறுதி செய்வதில் இலங்கை ஒரு முக்கிய பங்கு வகிக்கிறது. போதைப்பொருள் கடத்தல், ஆட் கடத்தல் மற்றும் சர்வதேச குற்றங்கள் போன்ற அச்சுறுத்தல்களை எதிர்த்துப் போராட நாம் இணைந்துள்ளோம். இது பாதுகாப்பான மற்றும் வளமான பிராந்தியத்திற்கு பங்களிக்கிறது. இந்த ஆண்டு இறுதியில், நான்காவது ரோந்து கப்பலை நாங்கள் அன்பளிப்பாக இலங்கைக்கு வழங்குவோம், இது இலங்கையின் கடல்சார் பாதுகாப்பிற்கான திறனை மேலும் வலுப்படுத்தும் என அமெரிக்கத் தூதர் ஜூலி சங் தெரிவித்தார்.
-
-சான்டா பாப்ரா என்ற அமெரிக்க போர் கப்பல் இன்று கொழும்புத் துறைமுகத்தை வந்தடைந்த நிலையில், அங்கு கருத்துத் தெரிவித்த அமெரிக்கத் தூதர் ஜூலி சங் மேற்கண்டவாறு தெரிவித்தார். இங்கு மேலும் கருத்துத் தெரிவித்த அமெரிக்கத் தூதர் ஜூலி சங்,
-
-...
-
-[Data](articles/20dddb23.json)
-
----
-
-### Sri Lanka Insurance Life expands its country wide presence
-
-*2025-08-16 15:27:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-expands-its-country-wide-presence/) · `en`
-
-Sri Lanka Insurance Life recently opened two new Agency Business Development Centers (ABDC) in Thampalakamam and Kathiravely expanding its presence in the Eastern province.
-
-The occasions were graced by SLIC’s Chief Business Officer Namalee A. Silva, Deputy General Manager – National Sales (Life) Jagath Welgama, P. Sathiyan, Assistant General Manager – Zonal Head – North, Eastern and North Central, regional management of Eastern Region, Branch Management of Trincomalee and Batticaloa. Distinguished invitees and customers of the area were also in attendance at all the openings.
-
-Agency Business Development Centers (ABDC) allows SLIC to further enhance its reach, which provides convenience and speed of service delivery to its loyal customers in relation with their protection needs.
-
-Konka launches groundbreaking V-Max TV range in Lanka via FLiCo
-
-Sanasa General Insurance goes live on Oracle Cloud Infrastructure with DMS Software Technologies
-
-...
-
-[Data](articles/3fcb6aac.json)
-
----
-
-### Sampath Group’s total assets surpassed Rs 2 Tn
-
-*2025-08-16 15:27:00* · [`islandlk`](http://island.lk/sampath-groups-total-assets-surpassed-rs-2-tn/) · `en`
-
-Sampath Bank has posted a robust financial performance for the first half of 2025, recording a Profit Before Tax (PBT) of Rs 24.4 billion and a Profit After Tax (PAT) of Rs 14.7 billion, reflecting a 32% year-on-year growth. The Sampath Group also reported a 32% rise in both PBT and PAT, reaching Rs 26.0 billion and Rs 15.6 billion, respectively.
-
-Despite a 6% decline in net interest income to Rs 38.6 billion—due to lower interest rates and reduced yields from government securities—the Bank’s non-fund based income surged by 122% to Rs 15.9 billion. This included a notable exchange gain of Rs 2.4 billion, reversing a Rs 2.7 billion loss in the prior year.
-
-Impairment charges saw a sharp 78% drop to Rs 1.4 billion, driven by improved credit quality and prudent risk management. Operating expenses rose by 20%, largely due to higher personnel costs, pushing the cost-to-income ratio up to 39.9% from 37.5% in 2024.
-
-...
-
-[Data](articles/9bdf50e1.json)
-
----
-
-### සඳුදා ට්‍රම්ප් හමුවන බව සෙලෙන්ස්කි කියයි
-
-*2025-08-16 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213441) · `si`
-
-යුක්‍රේන ජනාධිපති වොලොඩිමියර් සෙලෙන්ස්කි එළැඹෙන සඳුදා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමුවීම සඳහා අමෙරිකාවට පැමිණීමට නියමිත බව විදෙස් මාධ්‍ය සඳහන් කරයි.
-
-රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම වෙනුවෙන් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර පැවැත් වූ තීරණාත්මක සාකච්ඡාවෙන් අනතුරුව මෙලෙස සෙලෙන්ස්කි අමෙරිකාව බලා පිටත්ව යෑමට නියමිතය.
-
-මේ අතර රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් සමග පැවති හමුවෙන් පසුව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්, යුක්‍රේන සහ යුරෝපා රටවල නායකයින් සමග දුරකතන සාකච්ඡාවක් පවත්වා තිබේ.
-
-රුසියානු ජනාධිපතිවරයා සමග පැවති හමුව සඳහා ඇලස්කාවට ගිය ට්‍රම්ප් ජනාධිපතිවරයා වොෂින්ටන් වෙත පැමිණෙන අතරතුර යුක්‍රේන ජනාධිපති වොලොඩිමියර් සෙලෙන්ස්කි සමග දුරකතනය ඔස්සේ දීර්ඝ සාකච්ඡාවක නිරත වී ඇති බව ධවල මන්දිරය නිවේදනය කර ඇත.
-
-අනතුරුව එම දුරකතන සාකච්ඡාව සඳහා බ්‍රිතාන්‍ය අග්‍රාමාත්‍යවරයා ඇතුළු යුරෝපා රටවල නායකයින් ද සම්බන්ධ වී ඇති බව සඳහන්ය.
-
-◼️
-
-[Data](articles/40a679bf.json)
 
 ---

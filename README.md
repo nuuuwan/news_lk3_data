@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 18:09:20**
+As of **2025-08-17 18:31:12**
 
 ## Newspaper Stats
 
-*Scraped **70,942** Articles*
+*Scraped **70,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,846
-adaderanalk | 8,875
+adaderanalk | 8,876
 tamilmirrorlk | 10,455
-virakesarilk | 11,768
-adaderanasinhalalk | 12,235
+virakesarilk | 11,769
+adaderanasinhalalk | 12,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,942 articles have been extended.
+61,973 (87.4%) of 70,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### அமெரிக்கா: புரூக்ளின் உணவகத்தில் துப்பாக்கிச் சூடு – 3 பேர் பலி, 8 பேர் காயம்
+
+*2025-08-17 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/222759) · `ta`
+
+அமெரிக்காவின் புரூக்ளின் பகுதியில் உள்ள ஒரு உணவகத்தில் சனிக்கிழமை (16) இரவு துப்பாக்கிச் சூடு நிகழ்ந்தது.
+
+இந்தச் சம்பவத்தில் மூன்று பேர் உயிரிழந்ததோடு, எட்டு பேர் காயமடைந்தனர் என உள்ளூர் ஊடகங்கள் தெரிவித்துள்ளன.
+
+சம்பவம் நடைபெற்ற நேரத்தில் உணவகம் மூடப்படவிருந்ததாகவும், காயமடைந்தவர்கள் அனைவரும் தற்போது மருத்துவமனையில் சிகிச்சை பெற்று வருவதாகவும் வெளிநாட்டு ஊடகங்கள் தகவல் வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/fc8fc6ea.json)
+
+---
+
+### ඉදිරි පැය 36 පළාත් කිහිපයකට තද වැසි
+
+*2025-08-17 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213476) · `si`
+
+ඉදිරි පැය 36 සදහා බලපැවැත්වෙන පරිදි කාළගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම දෙපාර්තමේන්තුව සදහන් කළේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+වයඹ පළාතෙත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි ඇති විය හැකි බව සදහන් වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල වැසි රහිත කාලගුණ තත්ත්වයක් බලාපොරොත්තු විය හැකි බව ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සදහන් කළේය.
+
+මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට පැයට කිලෝමීටර 50ක පමණ තද සුළං ඇතිවිය හැකියි.
+
+◼️
+
+[Data](articles/ee0d84e9.json)
+
+---
 
 ### සෙලෙන්ස්කිගේ සහායට යුරෝපීය නායකයින් ද අමෙරිකාවට
 
@@ -77,6 +113,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d9bef4f0.json)
+
+---
+
+### European leaders to join Ukraine’s Zelenskyy for White House meeting with Trump
+
+*2025-08-17 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111554/european-leaders-to-join-ukraines-zelenskyy-for-white-house-meeting-with-trump) · `en`
+
+European and NATO leaders will join Ukraine’s President Volodymyr Zelenskyy for his crucial meeting with President Trump on Monday, European Commission President Ursula von der Leyen said on Sunday.
+
+The move in relation to the key White House meeting is an apparent effort to prevent a repeat of the heated encounter Zelenskyy faced when he met Mr. Trump in the Oval Office in February.
+
+The European leaders’ presence at Zelenskyy’s side, demonstrating Europe’s support for Ukraine, could potentially help ease concerns in Kyiv and in other European capitals that Zelenskyy risks being railroaded into a peace deal that Mr. Trump says he wants to broker with Russia.
+
+Von der Leyen, head of the European Union’s executive branch, posted on X that “at the request of President Zelenskyy, I will join the meeting with President Trump and other European leaders in the White House tomorrow.”
+
+...
+
+[Data](articles/c22ec88b.json)
 
 ---
 
@@ -1781,59 +1835,5 @@ Hans Wijayasuriya delivered the keynote address, and Information and Communicati
 ...
 
 [Data](articles/131f7a2c.json)
-
----
-
-### SLMC backs hartal called by ITAK in North and East
-
-*2025-08-16 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111528/slmc-backs-hartal-called-by-itak-in-north-and-east) · `en`
-
-The Sri Lanka Muslim Congress (SLMC) says that it stands in full solidarity with the hartal announced by the Illankai Tamil Arasu Kachchi (ITAK) on Monday (18) as a peaceful protest demanding justice and accountability over the recent death of a 32-year-old in Mullaitivu.
-
-“We are outraged by the recent killing in Mullaitivu, reportedly carried out by members of the Sri Lankan Army. This brutal act is yet another reminder of the deep crisis of law and order within the very forces that are tasked with protecting the public,” SLMC Secretary MP Nizam Kariapper said.
-
-Issuing a statement today, he charged that the government’s inability or unwillingness to hold its armed forces accountable for such grave crimes has eroded public trust and endangered the lives of innocent civilians.
-
-...
-
-[Data](articles/c61bb4ce.json)
-
----
-
-### පොල් ගෙඩියක් හිස මතට වැටී පුංචි පුතෙක් ජීවිතක්ෂයට
-
-*2025-08-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213454) · `si`
-
-වයස අවුරුදු දෙකක් වුණු පුංචි දරුවෙක් පොල් ගෙඩියක් හිස මත වැටී මෙලොවින් සමුගත් අනුවේදනීය පුවතක් වෙන්නප්පුව ප්‍රදේශයෙන් වාර්තා විය.
-
-අනතුරින් පසු මාරවිල රෝහලට රැගෙන ගිය දරුවා වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබුණි.
-
-පසුගිය 14 වැනිදා මේ අනතුරට ලක්වන්නේ වයස අවුරුදු 2ක් වූ ජීවන් කුමාර සස්මිත්.
-
-වෙන්නප්පුව බණ්ඩිරිප්පුව ප්‍රදේශයේ, පොල් මට්ටා කැබලි කරන නිවසක සේවය කරන සිය මවත් පියාත් රාජකාරියේ නිරතවන අතරතුර පුංචි සස්මිත් මේ අනතුරට මුහුණදී තිබුණි.
-
-ඇසිල්ලකින් සිදුවූ මෙම අනතුරෙන් සිහිසුන්වූ සස්මිත් මාරවිල රෝහලට රැගෙන ගියත් ඔහුගේ තත්ත්වය බරපතළ වූ නිසා කොළඹ ජාතික රෝහලට මාරුකර තිබේ.
-
-කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන අතරතුර, පසුදා උදෑසන පුංචි සස්මිත් සියල්ලන් හඬවා මෙලොවින් සමුගත්තේය.
-
-දුප්පත්කමින් මිරිකෙන සස්මිත්ගේ පවුලට අවසන් කටයුතු කිරීමටවත් වත්කමක් නොතිබීම නිසා සස්මිත්ගේ භූමදානය සිදුකෙරෙන්නේත් කොළඹ ජාතික රෝහලෙන්මය.
-
-◼️
-
-[Data](articles/48899b69.json)
-
----
-
-### සෙලෙන්ස්කි හා ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී
-
-*2025-08-16 19:08:43* · [`adalk`](https://www.ada.lk/international/සෙලෙන්ස්කි-හා-ට්‍රම්ප්-අතර-හමුවක්-සඳුදා-වොෂින්ටනයේදී/3-417942) · `si`
-
-යුක්රේන යුද්ධය නිමා කිරීමේ තවත් එක් පියවරක් වශයෙන් යුක්රේන ජනපති වි. ‍සෙලෙන්ස්කි හා ඇමෙරිකා ජනපති ඩොනල්ඩ් ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී පැවැත්වීමට නියමිතව තිබේ.
-
-නායකයන් දෙදෙනා අතර පැවැති දුරකතන සංවාදයකින් අනතුරුව මෙම දින නියම කර තිබේ.  ඇමෙරිකානු ජනපති හා රුසියානු ජනපති පුටින් අතර පැවැති හමුවකින් අනතුරුව මෙසේ ට්‍රම්ප් හා සෙලෙන්ස්කි අතර හමුව පැවැත්වෙයි.
-
-◼️
-
-[Data](articles/7d4f5a41.json)
 
 ---

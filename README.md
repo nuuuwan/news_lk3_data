@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 00:48:25**
+As of **2025-08-18 01:05:03**
 
 ## Newspaper Stats
 
-*Scraped **70,978** Articles*
+*Scraped **70,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 725
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,985
+dailyftlk | 4,986
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,978 articles have been extended.
+61,973 (87.3%) of 70,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Official website of Voyage Sri Lanka 2025 goes live
+
+*2025-08-18 00:48:07* · [`dailyftlk`](https://www.ft.lk/business/Official-website-of-Voyage-Sri-Lanka-2025-goes-live/34-780400) · `en`
+
+The official website of the Voyage Sri Lanka 2025 Conference was launched  last week by Sri Lanka Export Development Board (EDB) Chairman and Chief Executive Mangala Wijesinghe at the EDB premises. The website, accessible at www.voyagesrilanka.lk, provides a comprehensive platform to access all details related to the Voyage Sri Lanka 2025 Conference.
+
+The launch event was attended by key industry stakeholders and a group of EDB officials, including EDB Acting Additional Director General – Development Kumuduni Mudalige
+
+Sri Lanka is set to take centre stage once again as Voyage Sri Lanka 2025—the nation’s flagship international marine summit returns on 16 October at The Kingsbury Hotel, Colombo.
+
+...
+
+[Data](articles/e23149b9.json)
+
+---
 
 ### Siyapatha Finance opens 55th branch in Ambalangoda
 
@@ -1819,25 +1835,5 @@ The CEB initially plans another synchronous condenser in the Padukka grid substa
 ◼️
 
 [Data](articles/2474fd6d.json)
-
----
-
-### Sri Lankan man arrested in Malaysia with narcotics
-
-*2025-08-17 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111538/sri-lankan-man-arrested-in-malaysia-with-narcotics) · `en`
-
-A Sri Lanka national has been arrested for the possession of narcotics during a raid conducted in Bukit Tambun, Malaysia.
-
-According to a report from Bernama news, Malaysian Police successfully dismantled a heroin processing laboratory, operated by a drug distribution syndicate, in two raids.
-
-During the raids, two Malaysian nationals and a Sri Lankan man, aged between 25 and 46 were apprehended.
-
-“In the first raid at 4.29pm at a house in Taman Tambun Permai, police arrested two local men along with 1,113gm of heroin, 641gm of heroin base, 4kg of caffeine, several chemicals, and equipment suspected of being drug processing tools.
-
-“In the second raid at a house not far from the first residence, at around 5.04pm, we arrested a Sri Lankan man with 26kg of caffeine. All the drugs seized in the two raids were worth RM74,500,” a senior police official said in a statement.
-
-...
-
-[Data](articles/b336a5bc.json)
 
 ---

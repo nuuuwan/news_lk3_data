@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 11:06:58**
+As of **2025-08-17 11:20:26**
 
 ## Newspaper Stats
 
-*Scraped **70,889** Articles*
+*Scraped **70,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,326
 islandlk | 4,355
 dailymirrorlk | 4,733
 dailyftlk | 4,978
-adalk | 6,837
+adalk | 6,838
 adaderanalk | 8,861
-tamilmirrorlk | 10,444
+tamilmirrorlk | 10,445
 virakesarilk | 11,763
 adaderanasinhalalk | 12,224
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,889 articles have been extended.
+61,973 (87.4%) of 70,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### பயங்கரவாத தடுப்பு பிரிவில் ஆஜர்  ஊடகவியலாளர் குமணன்
+
+*2025-08-17 11:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடுப்பு-பிரிவில்-ஆஜர்-ஊடகவியலாளர்-குமணன்/175-363040) · `ta`
+
+பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட  முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றுள்ளார்
+
+ஊடகவியலாளர் குமணனின் வீட்டுக்கு  க  2025.08.07 அன்று சென்ற பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினர்,  அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு 2025.08.17 அன்று வருகை தருமாறு அழைப்பு விடுத்திருந்தனர்
+
+◼️
+
+[Data](articles/3d4ac6ae.json)
+
+---
 
 ### நீரில் மூழ்கி  இதுவரை  257  பலி
 
@@ -122,7 +136,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Sri Lanka CEB eyes 145MVA synchronous condensers to absorb renewables
+### Sri Lanka’s CEB to eyes 145MVA synchronous condensers to absorb renewables
 
 *2025-08-17 09:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
 
@@ -317,6 +331,20 @@ During the raids, two Malaysian nationals and a Sri Lankan man, aged between 25 
 ◼️
 
 [Data](articles/dc834d1d.json)
+
+---
+
+### ඇමෙරිකාවේ Santa Barbara බලන්න නියෝජ්‍ය ආරක්ෂක ඇමති යයි
+
+*2025-08-17 08:57:07* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-Santa-Barbara-බලන්න-නියෝජ්‍ය-ආරක්ෂක-ඇමති-යයි/10-417946) · `si`
+
+නිල සංචාරයක් සඳහා දිවයිනට පැමින කොළඹ වරායේ නැංගුරම් ලා ඇති ඇමරිකා එක්සත් ජනපද නාවික හමුදාවේ Independence-class Littoral Combat Ship කාණ්ඩයට අයත් USS “Santa Barbara”  (LCS 32) නෞකාවෙහි නිල සංචාරයක් සඳහා නියෝජ්‍ය ආරක්‍ෂක අමාත්‍ය මේජර් ජෙනරල් අරුණ ජයසේකර (විශ්‍රාමික) ඊයේ එහි ගියේය.
+
+මෙම අවස්ථාවට ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) සහ ශ්‍රී ලංකා නාවික හමුදාපති වයිස් අද්මිරාල් කාංචන බානගොඩ ද, නියෝජ්‍ය අමාත්‍යවරයා සමඟ එක් වූහ. ශ්‍රී ලංකාව සහ ඇමරිකා එක්සත් ජනපදය අතර පවතින සමීප සහ සහයෝගී සබඳතා තවදුරටත් පිළිබිඹු කරමින්        ශ්‍රී ලංකාවේ ඇමරිකා එක්සත් ජනපද තානාපතිනි Julie Chung මහත්මිය සහ ආරක්‍ෂක උපදේශක ලුතිනන් කර්නල් Matthew House විසින් සම්භාවනීය අමුත්තන් පිළිගනු ලැබීය.
+
+...
+
+[Data](articles/68553313.json)
 
 ---
 
@@ -1759,45 +1787,5 @@ The Prime Minister made these remarks while addressing the opening ceremony of G
 ...
 
 [Data](articles/89917e9c.json)
-
----
-
-### දඹුල්ලේ ජල මුලාශ්‍ර වලට කැලි කසල එක්ව රජරට අපවිත්‍ර වෙලා
-
-*2025-08-16 12:12:24* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-ජල-මුලාශ්‍ර-වලට-කැලි-කසල-එක්ව-රජරට-අපවිත්‍ර-වෙලා/11-417939) · `si`
-
-කලා වැව දක්වා ජලය ගලා බසිනා  තම්මන් ඇලේ ජලය  දඹුල්ල නගරයේදී  දැඩි දූෂණයකට ලක්ව ඇති බව දඹුල්ල මහ නගර සභාවේ මහජන සෞඛ්‍ය පරීක්ෂක යොහාන් අබේවික්‍රම මහතා පැවසීය.
-
-මධ්‍යම පරිසර අධිකාරිය විසින් දන්වා එවූ ලිපියක් මගින් දඹුල්ල මහ නගර සභාවේ සෞඛ්‍ය අංශ යුද හමුදාව ගුවන් හමුදාව 15  දින විශේෂ සෝදිසි කිරීමකදී දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ  වැසිකිලි කැසිකිලි පද්ධති සහ අප ජලය  තම්මන්ඇළට මුදා හැරීම අනාවරණය විය .මේ හේතුවෙන් බරපතල ලෙස මෙම ක්‍රියාවලිය සිදුවන බව නිරීක්ෂණය වූ බව හෙතෙම වැඩිදුරටත් සඳහන් කළේය
-
-දඹුල්ල මහ නගර සභාවේ මහජන සෞඛ්‍ය පරීක්ෂක යොහාන් අබේවික්‍රම මහතා ඇතුළු මෙම කණ්ඩායම සිදුකළ නිරීක්‍ෂණයේදී තවදුරටත් හෙළිදරව් වූයේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ  පවත්වාගෙන යන වැසිකිලි කැසිකිලි පද්ධතියේ යන්ත්‍ර සූත්‍රේ අක්‍රිය වීම හේතුවෙන් ඒවායින් පිටත් වන අප ජලය මළ මුත්‍රා සියල්ල   ඇළට මුදා හැරෙන බවය
-
-එමෙන්ම දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ වෙළඳසැල්වල සහ කානු පද්ධති වලින් ගලා බසින සෑම අප ජල කොටසක්ම මෙම ඇළට මුදා හැරීම සිදුවන බවද නිරීක්ෂණය වීම විශේෂත්වයකි
-
-...
-
-[Data](articles/311786e1.json)
-
----
-
-### Sri Lanka’s CEB makes Rs5.3bn profit in June quarter, Rs13bn loss in 1H
-
-*2025-08-16 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-makes-rs5-3bn-profit-in-june-quarter-rs13bn-loss-in-1h-236798/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board reported profits of 5.31 billion rupees in the June 2025 quarter, down from 34 billion rupees a year earlier, amid two tariff cuts in between.
-
-CEB’s June 2025 quarter revenues were down 33 percent from a year ago to 98 billion rupees, cost of sales were down 16 percent to 91.6 billion rupees and gross profits were down 81 percent to 7.0 billion rupees.
-
-Compared to March revenues rose from 93 to 98 billion rupees in June while cost of sales fell steeply from 112 to 92 billion rupees, giving gross profits of 11 billion rupees compared to an 18 billion loss in March.
-
-The March quarter is usually the driest quarter of the year, when more thermal energy has to be generated.
-
-The CEB posted a 13.1 billion rupee loss for the six months to June, due to an 18 billion rupee loss in the March 2025 quarter,
-
-At group level the CEB made profits of 7.4 billion rupees in the June quarter and a loss of 9.5 billion rupees in the six months.
-
-...
-
-[Data](articles/cb7aa627.json)
 
 ---

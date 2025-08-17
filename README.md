@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 14:07:57**
+As of **2025-08-17 14:22:17**
 
 ## Newspaper Stats
 
@@ -454,7 +454,7 @@ The swells will spread to the Bahamas, Bermuda and the East Coast of the United 
 
 ---
 
-### Sri Lanka’s CEB to eyes 145MVA synchronous condensers to absorb renewables
+### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
 
 *2025-08-17 09:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
 

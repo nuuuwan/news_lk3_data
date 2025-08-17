@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 01:17:03**
+As of **2025-08-18 01:31:21**
 
 ## Newspaper Stats
 
-*Scraped **70,984** Articles*
+*Scraped **70,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 725
 economynextcom | 4,328
 islandlk | 4,355
 dailymirrorlk | 4,733
-dailyftlk | 4,991
+dailyftlk | 4,995
 adalk | 6,851
 adaderanalk | 8,882
 tamilmirrorlk | 10,458
@@ -26,11 +26,71 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,984 articles have been extended.
+61,973 (87.3%) of 70,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### E.B. Creasy posts robust Q1 FY26 with 146% rise in PBT
+
+*2025-08-18 01:16:58* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-posts-robust-Q1-FY26-with-146-rise-in-PBT/34-780408) · `en`
+
+Long term value creation through strategic investments and operational efficiency
+
+Diversified conglomerate E.B. Creasy & Co PLC has commenced FY26 with a robust performance, demonstrating significant growth across both revenue and profitability. Consolidated revenue rose 28% year-on-year to Rs. 8.6 billion, supported by sustained momentum across the Group’s core business segments while the Profit Before Tax increased 146% to Rs. 479 million. The Profit After Tax climbed 204% to Rs. 298 million, marking a significant improvement over the same period last year. Management attributed the performance to the effective execution of operational strategies, ongoing product innovation, and disciplined financial management.
+
+The Group’s balanced portfolio and sectoral diversity continued to drive resilience, positioning E.B Creasy & Co PLC for sustained growth in the remainder of the financial year.
+
+...
+
+[Data](articles/a7e648b2.json)
+
+---
+
+### hSenidBiz starts FY26 strong with steady recurring revenue and margin gains
+
+*2025-08-18 01:13:04* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-starts-FY26-strong-with-steady-recurring-revenue-and-margin-gains/34-780407) · `en`
+
+hSenid Business Solutions PLC (hSenidBiz) announced its financial results for the first quarter of FY2026, reporting stable topline performance and the continuation of profitability improvements seen in the prior quarter. Total revenue for the quarter reached Rs. 471.7 million, with recurring subscription revenues growing 36 per cent year-on-year in LKR terms. A decline in professional services revenue, particularly from large on-premise projects, partially offset the strong growth in recurring revenues resulting in a modest 1 percent year-over-year growth in LKR terms and 2 percent in constant currency (USD) terms.
+
+...
+
+[Data](articles/b59bce03.json)
+
+---
+
+### Sri Lanka Sustainable Trade and Economic Summit 2025 a success
+
+*2025-08-18 01:08:38* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Sustainable-Trade-and-Economic-Summit-2025-a-success/34-780406) · `en`
+
+WEConnect International, in partnership with the US Department of State, hosted the Sri Lanka Sustainable Trade and Economic Summit 2025 on 7 August at Shangri-La, Colombo.
+
+This high-level gathering convened over 200 key stakeholders, including women business owners, corporate leaders, Government officials, and trade experts, to accelerate economic growth through enterprise development and international business collaboration.
+
+The Summit featured policy dialogues, business matchmaking, and success stories of entrepreneurs who have grown their enterprises through trade. A central theme was unlocking new avenues for Sri Lankan small businesses to scale and participate in cross-border commerce.
+
+Sri Lanka Export Development Board CEO and Chairman Mangala Wijesinghe during his address at the Summit noted: “This is not just a Summit — it is a movement to elevate Sri Lankan entrepreneurship. Women-owned businesses are essential to our national recovery and long-term competitiveness.”
+
+...
+
+[Data](articles/26f324e2.json)
+
+---
+
+### SLINTEC’s accredited food testing services boost  Sri Lanka’s export potential
+
+*2025-08-18 01:05:05* · [`dailyftlk`](https://www.ft.lk/business/SLINTEC-s-accredited-food-testing-services-boost-Sri-Lanka-s-export-potential/34-780405) · `en`
+
+The Sri Lanka Institute of Nanotechnology (SLINTEC) has reached a major milestone, with its Advanced Analytical Services Laboratory receiving ISO/IEC 17025:2017 accreditation from the Sri Lanka Accreditation Board (SLAB). This internationally recognised accreditation confirms the laboratory’s technical competence to perform critical food safety tests required by both domestic and global markets.
+
+The SLINTEC is now officially accredited to conduct aflatoxin testing, phthalate detection, and nutritional analysis in line with front-of-pack labelling requirements. These are key tests that help agri-food producers meet the stringent food safety and regulatory standards both locally and in export markets such as the EU, US, and Middle East.
+
+...
+
+[Data](articles/784ae143.json)
+
+---
 
 ### New boutique hotel Trillium Express opens in Colombo 7 after $ 4 m investment
 
@@ -1763,77 +1823,5 @@ The swells will spread to the Bahamas, Bermuda and the East Coast of the United 
 ◼️
 
 [Data](articles/a1913e26.json)
-
----
-
-### ஹர்த்தாலுக்கு  மு.கா ஆதரவு
-
-*2025-08-17 09:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்த்தாலுக்கு-மு-கா-ஆதரவு/175-363033) · `ta`
-
-இலங்கை இராணுவத்தினரால் ஒருவர் கொல்லப்பட்டதாகக் கூறப்படும் சம்பவத்திற்கு எதிர்ப்புத் தெரிவித்து, இலங்கைத் தமிழ் அரசுக் கட்சி (ITAK) வடக்கு மற்றும் கிழக்கு மாகாணங்களில் திங்கள்கிழமை (18) ஏற்பாடு செய்திருந்த ஹர்த்தாலுக்கு ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் (SLMC) தனது ஆதரவை அறிவித்தது.
-
-முல்லைத்தீவில் 32 வயதான எதிர்மனசிங்கம் கபில்ராஜ் கொல்லப்பட்டதற்கு கடும் கண்டனம் தெரிவித்து, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் ஒரு அறிக்கையில் இந்த சம்பவத்தை கண்டித்துள்ளது.
-
-"பொதுமக்களைப் பாதுகாக்கும் பணியில் ஈடுபட்டுள்ள படைகளுக்குள்ளேயே சட்டம் ஒழுங்கு நெருக்கடியின் ஆழமான மற்றொரு நினைவூட்டலாக இந்த மிருகத்தனமான செயல் உள்ளது" என்று கட்சி கூறியது.
-
-கபில்ராஜுடன் பிற நான்கு பேரும் அருகிலுள்ள இராணுவ முகாமுக்கு வரவழைக்கப்பட்டு தாக்கப்பட்டதாகக் கூறப்பட்ட இரண்டு நாட்களுக்குப் பிறகு கபில்ராஜின் உடல் ஓகஸ்ட் 9 ஆம் திகதி முத்தையான்கட்டு குளத்தில் இருந்து மீட்கப்பட்டது,.
-
-...
-
-[Data](articles/ea89e698.json)
-
----
-
-### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
-
-*2025-08-17 09:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has floated a request for information in efforts to build synchronous condensers into the grid, as the utility moves to absorb more renewable energy.
-
-In August the CEB sought information on a 75 Mega Volt Ampere (MVA) synchronous condenser system it plans to connect to a key substation in the grid.
-
-“Synchronous condenser is a new addition to the Ceylon Electricity Board, so the know-how has not developed,” Additional General Manager Transmission (No-wired) Susanthe Fernando said.
-
-“So we are calling for information from prospective bidders. We will make tender documents after we get information. We also plan to get consultancy service also for synchronous condensers.”
-
-The CEB initially plans another synchronous condenser in the Padukka grid substations with near term plans for 145 MVA of synchronous condensers, he said.
-
-...
-
-[Data](articles/3a5c638b.json)
-
----
-
-### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
-
-*2025-08-17 09:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has floated a request for information in efforts to build synchronous condensers into the grid, as the utility moves to absorb more renewable energy.
-
-In August the CEB sought information on a 75 Mega Volt Ampere (MVA) synchronous condenser system it plans to connect to a key substation in the grid.
-
-“Synchronous condenser is a new addition to the Ceylon Electricity Board, so the know-how has not developed,” Additional General Manager Transmission (No-wired) Susanthe Fernando said.
-
-“So we are calling for information from prospective bidders. We will make tender documents after we get information. We also plan to get consultancy service also for synchronous condensers.”
-
-The CEB initially plans another synchronous condenser in the Padukka grid substations with near term plans for 145 MVA of synchronous condensers, he said.
-
-...
-
-[Data](articles/97f15453.json)
-
----
-
-### நடுவீதியில் கரணமடித்த டிரக்டர்: 12 பேர் காயம்
-
-*2025-08-17 09:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுவீதியில்-கரணமடித்த-டிரக்டர்-12-பேர்-காயம்/175-363031) · `ta`
-
-தெஹியோவிட்ட பொலிஸ் பிரிவில்,  பணியாளர்களை ஏற்றிக்கொண்டு சென்ற டிரக்டர் நடுவீதியில் புரண்டதில் 12 பேர் காயமடைந்துள்ளனர்.
-
-சனிக்கிழமை (17) இடம்பெற்ற இந்த சம்பவத்தில் காயமடைந்த 12 பேரில்,  எட்டுபேர் கரவனெல்ல வைத்தியசாலையிலும், நால்வர் அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். ஒருவர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/63b9f54d.json)
 
 ---

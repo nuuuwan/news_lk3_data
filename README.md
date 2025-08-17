@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 12:36:54**
+As of **2025-08-17 12:48:59**
 
 ## Newspaper Stats
 
-*Scraped **70,896** Articles*
+*Scraped **70,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,839
 adaderanalk | 8,861
 tamilmirrorlk | 10,448
 virakesarilk | 11,763
-adaderanasinhalalk | 12,225
+adaderanasinhalalk | 12,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.4%) of 70,896 articles have been extended.
+61,973 (87.4%) of 70,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### ධීවර විශ්‍රාම වැටුප් ක්‍රමය යළිත් එළැඹෙන මස සිට
+
+*2025-08-17 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213466) · `si`
+
+ධීවර විශ්‍රාම වැටුප් ක්‍රමවේදය යළි එළැඹෙන මාසයේ සිට ආරම්භ කිරීමට බලාපොරොත්තු වන බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+
+ඒ සඳහා සුදුසු පුද්ගලයින් හඳුනා ගැනීම සඳහා මේ වන විට දැනුවත් කරමින් පවතින බවද එම මණ්ඩලයේ සභාපති ප්‍රේමසිරි ජාසිංහආරච්චි මහතා පැවසීය.
+
+කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය සහ ධීවර දෙපාර්තමේන්තුව එක්ව මෙම ක්‍රියාවලිය නැවත ආරම්භ කිරීමට සැලසුම් කර ඇත.
+
+සභාපතිවරයා පැවසුවේ පැවැති ධීවර විශ්‍රාම වැටුප් ක්‍රමවේදය අක්‍රීය වන අවස්ථාව වන විට ධීවරයින් 60,000කට ආසන්න ප්‍රමාණයක් එමගින් ප්‍රතිලාභ ලබා ගනිමින් සිටි බවය.
+
+ඒ අනුව යළිත් මෙම ධීවර විශ්‍රාම වැටුප් ක්‍රමය ආරම්භ කිරීමේදි එම ප්‍රමාණයට වඩා වැඩි ධීවරයින් පිරිසකට මෙමගින් ප්‍රතිලාභ ලබා දීමට පියවර ගන්නා බවද කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලයේ සභාපති ප්‍රේමසිරි ජාසිංහආරච්චි මහාතා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/2c4c80e8.json)
+
+---
 
 ### உணவகத்தில் தாக்குதல்: கணவன் பலி: மனைவி படுகாயம்
 
@@ -1759,23 +1779,5 @@ Meanwhile, Postmaster General Ruwan Sathkumara confirmed that the Sub-Postmaster
 ...
 
 [Data](articles/99cdbd3f.json)
-
----
-
-### Trump says Russia has lost India as an oil client, secondary tariffs will be devastating
-
-*2025-08-16 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111519/trump-says-russia-has-lost-india-as-an-oil-client-secondary-tariffs-will-be-devastating) · `en`
-
-US President Donald Trump said that Russia has lost India as an oil client, while also suggesting that the United States may not immediately impose secondary sanctions on China.
-
-In an interview with Fox News aboard Air Force One, Trump remarked, “Well, they lost an oil client so to speak, which is India, which was doing about 40% of the oil. China, as you know, is doing a lot…And if I did what’s called a secondary sanction, or a secondary tariff, it would be very devastating from their standpoint. If I have to do it, I’ll do it. Maybe I won’t have to do it.”
-
-Trump’s comments come after he recently threatened to take the total tariffs on India to 50% after imposing an additional 25% tax on imports from New Delhi starting August 27.
-
-The White House cited national security and foreign policy concerns, stating that India’s imports of Russian oil pose an “unusual and extraordinary threat” to the United States.
-
-...
-
-[Data](articles/edcc6fcb.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-17 20:19:35**
+As of **2025-08-17 20:31:55**
 
 ## Newspaper Stats
 
-*Scraped **70,952** Articles*
+*Scraped **70,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 4,978
 adalk | 6,848
 adaderanalk | 8,877
-tamilmirrorlk | 10,455
+tamilmirrorlk | 10,456
 virakesarilk | 11,771
 adaderanasinhalalk | 12,238
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 70,952 articles have been extended.
+61,973 (87.3%) of 70,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-17 (Sunday)
+
+### எதிர்வரும் 36 மணி நேரத்தில் ஏற்படவுள்ள மாற்றம்
+
+*2025-08-17 20:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-36-மணி-நேரத்தில்-ஏற்படவுள்ள-மாற்றம்/175-363076) · `ta`
+
+எதிர்வரும் 36 மணி நேரத்தில் மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் முன்னறிவிப்பை வெளியிட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும், திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு 50 கி.மீ வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/da9834b7.json)
+
+---
 
 ### රු. කෝටි 10කට වැඩි මුදලක් වැයකළ මාදුරුඔය ව්‍යාපෘතිය අතරමඟ නවතලා
 
@@ -1825,25 +1839,5 @@ He made this announcement while participating in the launch of the Customs Docum
 ◼️
 
 [Data](articles/da1ee333.json)
-
----
-
-### Pakistan rescuers recover bodies after monsoon rains kill over 340
-
-*2025-08-16 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111529/pakistan-rescuers-recover-bodies-after-monsoon-rains-kill-over-340) · `en`
-
-Rescuers struggled to retrieve bodies from muddy debris on Saturday after flash floods triggered by heavy monsoon rains across northern Pakistan killed at least 344 people in the past 48 hours, authorities said.
-
-The majority of deaths, 324, were reported in mountainous Khyber Pakhtunkhwa province, the National Disaster Management Authority said.
-
-Most were killed in flash floods and collapsing houses, while at least 137 others were injured.
-
-One resident told AFP it felt like “the end of the world” as the ground shook with the force of the water.
-
-The provincial rescue agency told AFP that around 2,000 rescue workers were engaged in recovering bodies from the debris and carrying out relief operations in nine districts, where rain was still hampering efforts.
-
-...
-
-[Data](articles/1a72e315.json)
 
 ---

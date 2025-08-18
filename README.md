@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 14:08:33**
+As of **2025-08-18 14:26:15**
 
 ## Newspaper Stats
 
-*Scraped **71,058** Articles*
+*Scraped **71,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,899
+adaderanalk | 8,901
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,260
+adaderanasinhalalk | 12,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,058 articles have been extended.
+61,973 (87.2%) of 71,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### නිරුවත් මළ සිරුරක් කුඹුරකින් හමුවෙයි
+
+*2025-08-18 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213505) · `si`
+
+බදුල්ල, කයිලගොඩ වැඩිහිටි නිවාසයට යාබද කුඹුරේ තිබී අබිරහස් ලෙස මියගිය පුද්ගලයෙකුගේ නිරුවත් මළ සිරුරක් අද (18) පෙරවරුවේදී හමුවූ බව බදුල්ල පොලීසිය පැවසීය.
+
+කුඹුරේ හිමිකරු දින හතරකින් පසු කුඹුරට පැමිණි බවත් ඒ පැමිණීමේදී මෙම පුද්ගල මළ සිරුර දැක ඇති අතර, පසුව පොලීසිය දැනුවත් කර තිබුණි.
+
+අනතුරුව බදුල්ල පොලීසියේ නිලධාරීන් සිද්ධිය පිළිබඳව මූලික විමර්ශන ආරම්භ කර ඇත.
+
+මළ සිරුර තිබුණු ස්ථානයට ළඟාවීමට පොලීසියට දැඩි උත්සහායක් ගැනීමටද සිදුවු බව අප වාර්තාකරු පැවසීය.
+
+එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 65ක පමණ පිරිමි පුද්ගලයෙක් බවට පොලීසිය අනුමාන කරයි.
+
+මරණයට හේතුව සොයා වැඩිදුර විමර්ශන බදුල්ල පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/327a5362.json)
+
+---
 
 ### කඩුවෙලින් සොයාගත් ගිනිඅවි ව්‍යාජ ඒවා -  පොලීසිය පවසයි
 
@@ -45,6 +67,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a62b6de1.json)
+
+---
+
+### Man arrested with firearm, diamond watch by Grandpass Police
+
+*2025-08-18 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111582/man-arrested-with-firearm-diamond-watch-by-grandpass-police) · `en`
+
+An individual has been arrested for the possession of a firearm by the Grandpass Police.
+
+A diamond watch was also taken into custody, at the time of the arrest, police stated.
+
+◼️
+
+[Data](articles/68d4aca2.json)
+
+---
+
+### Police recover three T-56 firearms abandoned on roadside in Kaduwela
+
+*2025-08-18 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111581/police-recover-three-t-56-firearms-abandoned-on-roadside-in-kaduwela-) · `en`
+
+A total of three T-56 assault rifles, five browning pistols and a magazine have been discovered while abandoned on the roadside in Kaduwela, police stated.
+
+The firearms that were found from Thunadahena, Korathota, have been handed over to the custody of the Navagamuwa Police Station.
+
+◼️
+
+[Data](articles/6f0d56da.json)
 
 ---
 
@@ -1747,61 +1797,5 @@ The decline of the tie in Western professional attire marks a significant cultur
 ◼️
 
 [Data](articles/bc4181a4.json)
-
----
-
-### ඇඟිලි සටහන් සලකුණු යන්ත්‍ර අනිවාර්යෙන් ක්‍රියාත්මක කරනවා
-
-*2025-08-17 18:41:49* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟිලි-සටහන්-සලකුණු-යන්ත්‍ර-අනිවාර්යෙන්-ක්‍රියාත්මක-කරනවා/11-417960) · `si`
-
-සාධාරණ වැටුප් සහ අතිකාල දීමනාවක් ලබා දී තිබියදී සිදු කිරීමට නියමිත වැඩ වර්ජනය අසාධාරණ බව සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-මෙලෙස ක්‍රමවේදයකට අනුව වැටුප් සහ අතිකාල දීමනා ලබා දීම හේතුවෙන් අනිවාර්යෙන්ම ඇඟිලි සලකුණු කිරීමේ යන්ත්‍ර ක්‍රියාත්මක කරන බව ඊයේ(17දා) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
-
-මේ අතර, මෙම වැඩවර්ජනයට ප්‍රධාන වශයෙන් කාරණා 03ක් බලපා ඇති බවත්, ඒ අනුව නිවාඩු අවලංගු කර ඇති පසුබිමක සේවයට වාර්තා නොකරන්නේ නම් ඒ පිළිබඳ දැඩිව ක්‍රියාත්මක වීමට සිදුවනු ඇති බවත් මෙහිදි අදහස් පළ කරමින් තැපැල්පති තැපැල්පති එස්.ආර්.ඩබ්ලිව්.එම්.ආර්.පී. සරත්කුමාර පැවසීය.
-
-"තැපැල් දෙපාර්තමේන්තුවේ 22,000ක් පමණ සේවය කරනවා. මේ වැටුප් වැඩිවීමට කලින් තැපැල් දෙපාර්තමේන්තුවේ ආදායම බවට පත්වෙලා තිබුණේ රුපියල් බිලියන 14යි. වියදම රුපියල් බිලියන 18යි. ඒ කියන්නේ මේ වැටුප් වැඩිවීම් ලබා දෙන්නට පෙරත් තැපැල් දෙපාර්තමේන්තුවට රුපියල් කෝටි 400ක පමණ අමතර වැය බරක් භාණ්ඩාගාරය විසින් දරමින් තිබුණා.
-
-...
-
-[Data](articles/fc2475c7.json)
-
----
-
-### අයහපත් කාලගුණය පාකිස්තානයේ  ජීවිත 500ක් බිලිගනී
-
-*2025-08-17 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213478) · `si`
-
-පාකිස්තානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම වසරේ ඉකුත් ජුනි මස අග සිට මේ දක්වා වූ කාලය තුළ අවම වශයෙන් පුද්ගලයින් 500ක් පමණ ජීවිතක්ෂයට පත්ව ඇති බව එරට ආපදා අංශ තහවුරු කර ඇත.
-
-පාකිස්තානයේ මෝසම් සමය සාමාන්‍යයෙන් ජූලි සිට සැප්තැම්බර් දක්වා පවතින අතර මෙම කාලසීමාවේ දී වාර්ෂික වර්ෂාපතනයෙන් සැලකිය යුතු කොටසක් ලැබේ.
-
-ඒ හේතුවෙන් වසරේ ජූලි - සැප්තැම්බර් යනු එරට වයඹ හා උතුර ප්‍රදේශව නිරන්තයෙන් ස්වභාවික ව්‍යසනයන්ට මුහුණදෙන කාලසීමාවකි.
-
-පාකිස්තානයේ ආපදා කළමනාකරණ පෙන්වා දෙන්නේ බොහෝ දෙනෙක් දියේ ගිලී හෝ ඔවුන්ගේ නිවාස කඩා වැටීම හේතුවෙන් ජීවිතක්ෂයට පත්ව ඇති බවය.
-
-ඉන් දිවි ගලවාගත් පිරිස ජලයෙන් බෝවන මාරාන්තික රෝගවලට මුහුණ දෙන බවද ඔවුන් සඳහන් කර සිටී.
-
-මිලියන 250ක පමණ ජනතාවක් වෙසෙන පාකිස්තානය, ගෝලීය වායු දූෂණයෙන් 0.5% කට පමණක් වගකිව යුතු වුවද, ලෝකයේ වඩාත්ම දේශගුණික අවදානමට ලක්විය හැකි රටවලින් එකකි.
-
-අයහපත් කාලගුණය නිසා මේ වසරේ මෙතෙක් ඇති වූ මාරාන්තිකම සිදුවීම වාර්තා වූයේ පසුගිය සිකුරාදායි.
-
-එහිදී පැය 24ක් තුළ ගංවතුරෙන් පුද්ගලයින් 180කට වැඩි පිරිසක් මිය ගියේය.
-
-...
-
-[Data](articles/e3ff097e.json)
-
----
-
-### Sanasa Life Insurance launches mobile app for renewal officers
-
-*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-mobile-app-for-renewal-officers/) · `en`
-
-SANASA Life Insurance continues to enhance its digital footprint through innovative solutions. The launch of a new mobile application for renewal officers, has hit a high point in the development of in-house digital initiatives. Commenting on the launch of the app and its relevance, CEO Nuwanpriya Gunawardena said “This technological innovation has a direct bearing on streamlining our operational activity. A mobile application such as this is not only about enhancing our digital competencies, but its main objective is enabling renewal officers to offer better and optimized services to their clients”. This strategic initiative is aimed at enhancing both client services as well as field operational activity. The app offers a host of features including a user-friendly interface that allows renewal officers to access real-time client information, and carry out faster policy renewals. In addition, the mobile app offers heightened security safeguarding personal information of clients.
-
-...
-
-[Data](articles/3177516f.json)
 
 ---

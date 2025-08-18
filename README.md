@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 22:08:21**
+As of **2025-08-18 22:24:24**
 
 ## Newspaper Stats
 
-*Scraped **71,107** Articles*
+*Scraped **71,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,854
 adaderanalk | 8,923
 tamilmirrorlk | 10,463
 virakesarilk | 11,782
-adaderanasinhalalk | 12,276
+adaderanasinhalalk | 12,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,107 articles have been extended.
+61,973 (87.2%) of 71,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### ජනපති ⁣ලේකම් කාර්යාලය අසළ රැය පහන් කරන ගුරුවරු
+
+*2025-08-18 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213521) · `si`
+
+ගුරුවරුන් පිරිසක් ජනාධිපති ⁣ලේකම් කාර්යාලය අසල පදික වේදිකාවේ රැඳීසිටිමින් රැය පහන්කරමින් සිටින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+ඔවුන් එලෙස රැඳී සිටින්නේ, තම සාධාරණ ඉල්ලීම ජනපතිවරයාගේ අවධානයට ලක්වනතුරු බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/3f06dc73.json)
+
+---
 
 ### US launches inaugural Young South Asian Leaders Initiative workshop in Colombo
 
@@ -1857,21 +1871,5 @@ Meanwhile, strong winds of about 40-50 kmph can be expected at times over Wester
 ...
 
 [Data](articles/466bc46b.json)
-
----
-
-### UN Rights report details Lankan security forces abuses
-
-*2025-08-18 01:43:05* · [`dailyftlk`](https://www.ft.lk/news/UN-Rights-report-details-Lankan-security-forces-abuses/56-780417) · `en`
-
-Human Rights Watch urges UN Human Rights Council to adopt resolution that promotes accountability
-
-Human Rights Watch said on Friday the UN Human Rights Office’s report on Sri Lanka details entrenched and systemic rights violations—including arbitrary detention, torture, and deaths in custody—under President Anura Kumara Disanayake.
-
-The new report by UN High Commissioner for Human Rights Volker Türk also describes the misuse of draconian laws to silence families and activists campaigning for justice and says that continued international engagement through the UN Human Rights Council is “essential.”
-
-...
-
-[Data](articles/691579f9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 21:21:29**
+As of **2025-08-18 21:33:17**
 
 ## Newspaper Stats
 
-*Scraped **71,104** Articles*
+*Scraped **71,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,854
 adaderanalk | 8,922
 tamilmirrorlk | 10,463
 virakesarilk | 11,782
-adaderanasinhalalk | 12,274
+adaderanasinhalalk | 12,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,104 articles have been extended.
+61,973 (87.2%) of 71,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### අල්ලස් ගත් ක්වාසි විනිසුරුවරයෙකු සහ බිරිඳ අත්අඩංගුවට
+
+*2025-08-18 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213519) · `si`
+
+අල්ලස් ඉල්ලීමේ චෝදනා මත කල්මුනේ ක්වාසි අධිකරණ විනිසුරු සහ ඔහුගේ බිරිඳ අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අම්පාර දිස්ත්‍රික්කයේ මරුතමුනයි ප්‍රදේශයේ පිහිටි කල්මුනේ ක්වාසි විනිසුරුවරයාගේ කාර්යාලයේදී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+නඩු කටයුත්තක් විසඳීම සඳහා සැකකරු විසින් අල්ලස් මුදල් ඉල්ලා සිටින බවට වින්දිත පාර්ශ්වය විසින් පසුගිය මාසයේදී අල්ලස් හා දූෂණ කොමිෂන් සභා විමර්ශකයින්ට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+එකී සිද්ධිය මත අද (17) දිනයේදී අල්ලස් මුදල් ලබා ගැනීමේ චෝදනා මත සැකකරු සහ ඔහුගේ බිරිඳ අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/fdc3f7ef.json)
+
+---
+
+### කොරියානු තානාපතිනිය ජනපති ලේකම් හමුවෙයි
+
+*2025-08-18 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213518) · `si`
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය අතර හමුවක් අද (18) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+කොරියානු නව පාලනය යටතේ ශ්‍රී ලංකා රජයේ ප්‍රමුඛතාවන් හඳුනාගෙන සමීපව කටයුතු කිරීමට සූදානම් බව ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය මෙහිදී ප්‍රකාශ කළාය.
+
+ශ්‍රී ලංකා රජයේ ප්‍රමුඛතා මත කොරියානු රජයේ අඛණ්ඩ සහයෝගය ලබා දීමට සූදානම් බවද තානාපතිනිය අවධාරණය කළාය.
+
+කොරියානු ජාත්‍යන්තර සහයෝගීතා ආයතනයේ (KOICA) නව නියෝජිතයින්ද මෙහිදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමුවූ අතර ශ්‍රී ලංකාව තුළ සිදු කෙරෙන KOICA ව්‍යාපෘති කඩිනමින් නිම කිරීම සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා කෙරිණි.
+
+◼️
+
+[Data](articles/56756caf.json)
+
+---
 
 ### කොටහේනේ දැරියගේ සිද්ධියේ විමර්ශන ගැන පොලිසියෙන් අධිකරණයට දැනුම්දීමක්
 
@@ -1839,33 +1875,5 @@ Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday urged residents o
 ...
 
 [Data](articles/bc506b15.json)
-
----
-
-### JAT continues momentum to FY 2025/26 with  20% PAT growth in Q1
-
-*2025-08-18 01:19:58* · [`dailyftlk`](https://www.ft.lk/business/JAT-continues-momentum-to-FY-2025-26-with-20-PAT-growth-in-Q1/34-780409) · `en`
-
-JAT Holdings PLC, a leading Sri Lankan conglomerate in the manufacturing and coatings industry, announced its financial results for the first quarter of the 2025/26 financial year, reflecting a stable and promising start despite external market challenges. Traditionally with the first quarter being the lowest demand quarter for the paint industry due to seasonality and the peak in the fourth quarter, the Group still recorded a notable 20% year-on-year (YoY) growth in profit after tax (PAT), signalling its continued ability to adapt, optimise, and deliver value in a dynamic economic landscape.
-
-...
-
-[Data](articles/b8a22c0e.json)
-
----
-
-### E.B. Creasy posts robust Q1 FY26 with 146% rise in PBT
-
-*2025-08-18 01:16:58* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-posts-robust-Q1-FY26-with-146-rise-in-PBT/34-780408) · `en`
-
-Long term value creation through strategic investments and operational efficiency
-
-Diversified conglomerate E.B. Creasy & Co PLC has commenced FY26 with a robust performance, demonstrating significant growth across both revenue and profitability. Consolidated revenue rose 28% year-on-year to Rs. 8.6 billion, supported by sustained momentum across the Group’s core business segments while the Profit Before Tax increased 146% to Rs. 479 million. The Profit After Tax climbed 204% to Rs. 298 million, marking a significant improvement over the same period last year. Management attributed the performance to the effective execution of operational strategies, ongoing product innovation, and disciplined financial management.
-
-The Group’s balanced portfolio and sectoral diversity continued to drive resilience, positioning E.B Creasy & Co PLC for sustained growth in the remainder of the financial year.
-
-...
-
-[Data](articles/a7e648b2.json)
 
 ---

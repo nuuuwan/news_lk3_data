@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 17:18:18**
+As of **2025-08-18 17:31:38**
 
 ## Newspaper Stats
 
-*Scraped **71,072** Articles*
+*Scraped **71,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,904
+adaderanalk | 8,913
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,269
+adaderanasinhalalk | 12,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,072 articles have been extended.
+61,973 (87.2%) of 71,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### දෛනික පොලිස් සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
+
+*2025-08-18 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213513) · `si`
+
+මත්ද්‍රව්‍ය හා පාතාල ක්‍රියාකාරකම් මර්දනය කිරීමේ අරමුණින් මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශයේ පූර්ණ අධීක්ෂණය යටතේ මේ වන විට දෛනිකව ශ්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය හා ත්‍රිවිධ හමුදාව එක්ව සෝදිසි මෙහෙයුම් දියත් කරමින් පවතී.
+
+ඒ අනුව එම සෝදිසි මෙහෙයුම් මාලාවේ තවත් අදියරක් ඊයේ (17) දිනයේදීද ශ්‍රී ලංකා පොලීසියෙත්, පොලිස් විශේෂ කාර්ය බළකාය සහ ත්‍රිවිධ හමුදාවේ නිලධාරීන් 6,223 දෙනෙකුගේ සහභාගීත්වයෙන් සිදු කෙරිණි.
+
+එහිදී පුද්ගලයින් 25,303 දෙනෙකු පරීක්ෂාවට ලක් කර ඇති අතර වාහන 10,233ක් සහ යතුරුපැදි 7,675ක ප්‍රමාණයක් පරීක්ෂාවට ලක් කර තිබේ.
+
+ඒ අනුව එකී සෝදිසි මෙහෙයුමේදී පුද්ගලයින් මත්ද්‍රව්‍ය සම්බන්ධව පුද්ගලයින් 922 සහ අපරාධවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයින් 19 දෙනෙකු මෙන්ම වරෙන්තුකරුවන් 431 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+තවද මෙම මෙහෙයුම් මගින් නීති විරෝධී ගිනි අවි 03ක් ද පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/e6e8fde5.json)
+
+---
 
 ### තුසිත හල්ලොලුව අත්අඩංගුවට ගැනීමට වරෙන්තු
 
@@ -68,6 +88,60 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ASPI closes at new all-time high today
+
+*2025-08-18 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111594/aspi-closes-at-new-all-time-high-today) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 252.16 points today.
+
+Accordingly, the ASPI rose by 252.16 points or 1.25% to close at 20,470.52 points, surpassing the previous high of 20,218.36 points recorded on August 15, 2025.
+
+Meanwhile, the S&P SL20 Index moved up by 102.62 points to close at 5,997.46 points.
+
+◼️
+
+[Data](articles/7a44a126.json)
+
+---
+
+### Entry to BIA Departure Lobby restricted at peak hours on Thursdays, Fridays and Saturdays
+
+*2025-08-18 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111593/entry-to-bia-departure-lobby-restricted-at-peak-hours-on-thursdays-fridays-and-saturdays-) · `en`
+
+Visitor entry tickets to the Departure Lobby of the Bandaranaike International Airport (BIA) will not be issued during peak hours of Thursdays, Fridays and Saturdays, the Airport and Aviation Services (Sri Lanka) (Private) Limited has announced.
+
+Accordingly, entry to the lobby will not be permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
+
+The Airport and Aviation Services company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
+
+◼️
+
+[Data](articles/0fde74fb.json)
+
+---
+
+### Court orders police to report on progress into Kotahena schoolgirl suicide incident
+
+*2025-08-18 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111592/court-orders-police-to-report-on-progress-into-kotahena-schoolgirl-suicide-incident-) · `en`
+
+The Colombo Magistrate’s Court was informed today that police are continuing investigations into the alleged sexual abuse of a schoolgirl who died by suicide after jumping from a high-rise building in Kotahena, Colombo.
+
+The case was taken up before Colombo Additional Magistrate Pasan Amarasena, said Ada Derana reporter.
+
+The Officer-in-Charge of the Colombo North Division of the Bureau for the Investigation of Abuse of Children and Women, which is handling the case, told the court that CCTV footage connected to the incident is being examined.
+
+The footage has been forwarded to the University of Moratuwa for examination, and reports are still pending.
+
+Police further informed court that several statements are scheduled to be recorded and that medical reports pertaining to the incident have already been submitted.
+
+After considering the facts presented, the Magistrate ordered that the progress of the investigation be presented to court on September 29.
+
+◼️
+
+[Data](articles/abf927c4.json)
+
+---
+
 ### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනතට එරෙහිව තවත් පෙත්සම් දෙකක්
 
 *2025-08-18 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213510) · `si`
@@ -83,6 +157,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e720e0d9.json)
+
+---
+
+### Naked body found in paddy field in Badulla
+
+*2025-08-18 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111591/naked-body-found-in-paddy-field-in-badulla) · `en`
+
+Police say the naked body of an elderly man who died under mysterious circumstances was found in a paddy field adjacent to the Kailagoda Elders’ Home in Badulla this morning (18).
+
+The owner of the paddy field had visited the field after four days and had noticed the corpse during that visit, and had later informed police.
+
+Following this, officers of the Badulla Police had commenced investigations into the incident.
+
+Further investigations are being conducted by the Badulla Police to ascertain the cause of death.
+
+◼️
+
+[Data](articles/59684e49.json)
 
 ---
 
@@ -107,6 +199,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c44929a6.json)
+
+---
+
+### Arrest warrant issued for former NLB Director Thusitha Halloluwa
+
+*2025-08-18 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111590/arrest-warrant-issued-for-former-nlb-director-thusitha-halloluwa) · `en`
+
+The Colombo Magistrate’s Court has issued a warrant for the arrest of Thusitha Halloluwa, the former Director of the National Lotteries Board (NLB), said Ada Derana reporter.
+
+Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by the Colombo Crimes Division (CCD).
+
+The CCD is currently investigating the recent shooting incident involving Halloluwa’s vehicle in Narahenpita.
+
+Accordingly, the warrant was issued following a request made by the police in connection with the ongoing inquiry.
+
+◼️
+
+[Data](articles/932cfa35.json)
 
 ---
 
@@ -151,6 +261,84 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4dec2fd0.json)
+
+---
+
+### Tourist arrivals to Sri Lanka surpass 1.5 million in 2025
+
+*2025-08-18 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111589/tourist-arrivals-to-sri-lanka-surpass-15-million-in-2025) · `en`
+
+The number of tourists who have arrived in Sri Lanka so far this year has exceeded the 1.5 million mark, according to Minister of Tourism Vijitha Herath.
+
+A total of 1,500,656 tourists visited Sri Lanka as of 3:00 p.m. today (18), the Sri Lanka Tourism Development Authority (SLTDA) data shows.
+
+The SLTDA added that a total of 132,368 foreign nationals entered Sri Lanka in the month of August.
+
+According to latest SLTDA figures, the highest number of tourists have arrived from India which totals to nearly 300,000.
+
+Furthermore, more 100,000 visitors have arrived from both the United Kingdom and Russia in 2025.
+
+◼️
+
+[Data](articles/322ef78b.json)
+
+---
+
+### Hartal called by ITAK a resounding success, Shanakiyan says
+
+*2025-08-18 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111588/hartal-called-by-itak-a-resounding-success-shanakiyan-says-) · `en`
+
+The hartal called by the Ilankai Tamil Arasu Kachchi (ITAK) in the Northern and Eastern Provinces, was a resounding success, according to Member of Parliament Shanakiyan Rasamanickam.
+
+MP Rasamanickam confirmed that they decided to end the hartal campaign at noon today (18), following assurances given by the Cabinet Spokesman Dr. Nalinda Jayatissa.
+
+The Parliamentarian claimed that following yesterday’s press briefing by the Cabinet Spokesperson, and based on assurances given regarding the investigation and steps being taken towards the removal of army camps in the North and East, they decided to conclude the protest at noon.
+
+Meanwhile, MP Shanakiyan Rasamanickam. also condemn the actions of members of the National People’s Power in the Northern and Eastern Provinces who have reportedly threatened shop owners to keep their businesses open or face legal consequences.
+
+Such intimidation is a clear violation of the people’s democratic right to protest, the Parliamentarian added.
+
+...
+
+[Data](articles/e20840b4.json)
+
+---
+
+### Rajitha Senaratne files motion requesting temporarily suspension of arrest warrant
+
+*2025-08-18 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111587/rajitha-senaratne-files-motion-requesting-temporarily-suspension-of-arrest-warrant) · `en`
+
+Former Minister Rajitha Senaratne has filed a motion before the Colombo Magistrate’s Court, seeking a temporary suspension of the warrant issued for his arrest in connection with an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The motion was taken up before Colombo Chief Magistrate Thanuja Lakmali Jayatunga today (18).
+
+However, the Chief Magistrate noted that such a request can only be considered when the Bribery Commission, the complainant in the case, appears in court.
+
+Accordingly, the court did not issue any order regarding Senaratne’s request.
+
+◼️
+
+[Data](articles/41914516.json)
+
+---
+
+### At least 20 killed, 134 people injured in blast at factory in Russia’s Ryazan region
+
+*2025-08-18 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111586/at-least-20-killed-134-people-injured-in-blast-at-factory-in-russias-ryazan-region) · `en`
+
+The death toll from an unexplained blast last week at a factory in Russia’s Ryazan region has jumped to at least 20, with another 134 people injured, emergency services said on Monday.
+
+Pavel Malkov, governor of the Ryazan region that lies just southeast of Moscow, said last Friday that the incident had been triggered by a fire breaking out inside a workshop at the factory.
+
+But it was unclear from Russian media reports what caused the fire or what the factory was producing. Official Russian sources gave no details beyond efforts to find and treat the injured. Some media reported that it was a explosives plant but Reuters was unable to immediately verify that information.
+
+“As of August 18, 20 people died as a result of the emergency incident,” the local emergency service headquarters said in a post on Telegram.
+
+“There are 134 injured, of whom 31 patients are in hospitals in Ryazan and Moscow, while 103 patients are undergoing outpatient treatment.”
+
+...
+
+[Data](articles/de6741c9.json)
 
 ---
 
@@ -1629,175 +1817,5 @@ It is reported that three of the injured persons are in critical condition.
 ...
 
 [Data](articles/98e6c7a1.json)
-
----
-
-### Trump-Putin talks produced enough movement to justify Ukraine meeting, Rubio says
-
-*2025-08-17 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111558/trump-putin-talks-produced-enough-movement-to-justify-ukraine-meeting-rubio-says) · `en`
-
-Talks between U.S. President Donald Trump and Russian leader Vladimir Putin produced enough movement to justify a meeting with Ukrainian and European leaders, U.S. Secretary of State Marco Rubio told CBS on Sunday.
-
-Rubio also said both Russia and Ukraine would have to make concessions to end the war, adding that the United States might not be able to produce a scenario guaranteeing peace.
-
-European leaders will accompany Ukrainian President Volodymyr Zelenskiy to meet Trump in Washington on Monday, seeking to bolster him as the president presses Ukraine to accept a quick peace deal after meeting Putin on Friday.
-
-“I’m not saying we’re on the verge of a peace deal, but I am saying that we saw movement, enough movement to justify a follow-up meeting with Zelenskiy and the Europeans,” Rubio told the “Face the Nation” show.
-
-Rubio’s comments were among the first by senior U.S. officials present at the talks with Putin.
-
-...
-
-[Data](articles/ca027274.json)
-
----
-
-### A-9 මාර්ගයේ මාරක අනතුරක් - දෙදෙනෙක් මරුට
-
-*2025-08-17 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213481) · `si`
-
-A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්තේ ප්‍රදේශයේ ඊයේ (17) සිදු වූ අනතුරින් තුවාල ලැබූ සංඛ්‍යාව 20ක් දක්වා ඉහළ ගොස් ඇති බව අප වාර්තාකරු පැවසුවේය.
-
-A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්තේ ප්‍රදේශයේ අද (17) පස්වරුවේ සිදු වූ මාරක අනතුරකින් දෙදෙනෙකු මියගොස් තවත් 10කට වැඩි පිරිසක් තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
-
-මෙම අනතුරට ලක්ව ඇත්තේ විශ්වමඩු ප්‍රදේශයේ පදිංචි ඥාතීන් පිරිසක් වන අතර, ඔවුන් මහනුවර ප්‍රදේශයේ පැවති අවමංගල්‍ය කටයුත්කට සහභාගි වී නැවත සිය නිවෙස්කරා යමින් සිටියදී මෙම අනතුරට මුහුණපා ඇත.
-
-ඔවුන් ගමන්ගත් බොලෙරෝ වර්ගයේ කැබ් රථය ඕමන්තේ පොලීසිය අසල ඉන්දින පිරවුම්හලක් ආසන්යේ දී පෙරළීගොස් ගොස්ගොස් තිබේ.
-
-ඒ හේතුවෙන් එහි සිටි අය පාරට විසි වී, ඉදිරියෙන් පැමිණි ලොරි රථයක ගැටී ඇත.
-
-අනතුර සිදුවන විට කැබ් රථයේ රථයේ 15 දෙනෙකු සිට අතර, තුවාල ලැබූවන් වව්නියාව මහ රෝහලට ඇතුළත් කර ඇත.
-
-අනතුරින් මියගොස් ඇත්තේ වයස අවුරුදු 33ක කාන්තාවක් හා අවුරුදු 30ක පිරිමි පුද්ගලයෙකු බව සඳහන්.
-
-◼️
-
-[Data](articles/cef5b596.json)
-
----
-
-### இலங்கையில் தூங்கா நகரமாக மாறும் கண்டி
-
-*2025-08-17 20:50:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தூங்கா-நகரமாக-மாறும்-கண்டி/175-363078) · `ta`
-
-கண்டி நகரில் சுற்றுலாப் பயணிகளை ஈர்க்கும் வகையில் “Kandy Breeze Night Fest – கண்டி தென்றல் இரவு விழா” எனும் இரவு சந்தை முன்னோடித் திட்டம் நேற்று (16) ஆரம்பிக்கப்பட்டது.
-
-கண்டியை தூங்கா நகரமாக மாற்றுவதற்கான முதல் படியாக, இந்த இரவு சந்தை ஒவ்வொரு சனிக்கிழமையும் செயல்படுத்தப்படும் என்று மத்திய மாகாண ஆளுநர் தெரிவித்துள்ளார்.
-
-அதற்கமைய, தலதா வீதி மற்றும் கொட்டுகொடெல்ல வீதியில் நடைபெறும் இந்த நிகழ்வு, எதிர்வரும் 23 மற்றும் 30 ஆம் திகதிகளில் இரவு 7 மணி முதல் நள்ளிரவு 12 மணி வரை இடம்பெறும் என தெரிவிக்கப்பட்டுள்ளது.
-
-“கண்டி நகரத்தை ஒளிரச் செய்வோம்” என்ற கருப்பொருளுடன் முன்னெடுக்கப்படும் இந்த திட்டம், சுற்றுலாப் பயணிகளையும் சிறு வணிகர்களையும் ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது. R
-
-◼️
-
-[Data](articles/af051315.json)
-
----
-
-### AI குறித்து அரச அதிகாரிகளுக்கு விழிப்புணர்வூட்டும் செயலமர்வு
-
-*2025-08-17 20:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-குறித்து-அரச-அதிகாரிகளுக்கு-விழிப்புணர்வூட்டும்-செயலமர்வு/175-363077) · `ta`
-
-அரச சேவையை பயனுள்ள மற்றும் செயற்திறனான சேவையாக மாற்றுவதற்கு செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச நிறைவேற்று அதிகாரிகளுக்காக ஏற்பாடு செய்யப்பட்ட  விசேட செயலமர்வு நேற்று (16) முற்பகல் அலரி மாளிகையில் நடைபெற்றது.
-
-‘AI for Transforming Public Service’  என்ற தொனிப்பொருளில், ஜனாதிபதி  அலுவலகத்தின் ஒத்துழைப்புடன் டிஜிட்டல் பொருளாதார அமைச்சினால் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டதுடன், பத்து அமைச்சுக்களின் நிறைவேற்று அதிகாரிகள் இந்த செயலமர்வில் பங்கேற்றனர்.
-
-அரச சேவையை டிஜிட்டல் மயமாக்கும் அரசாங்கத்தின் திட்டத்தின் ஆரம்ப பிரவேசமாக, அரச  அதிகாரிகளை அறிவூட்டுதல் மற்றும் தயார்படுத்துதல் மற்றும் அரச சேவைக்குள் செயற்கை நுண்ணறிவு குறித்த சாதகமான அணுகுமுறையை ஏற்படுத்துதல் ஆகிய நோக்கங்களுடன் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டுள்ளது.
-
-இந்த நிகழ்வில் கலந்து கொண்ட ஜனாதிபதியின் செயலாளர்  கலாநிதி நந்திக சனத் குமாநாயக்க, டிஜிட்டல் மாற்றத்திற்கு  தேவையான நடவடிக்கைகளை அரசாங்கம் எடுத்து வருவதாகவும், அரச சேவை அதற்குத் தயாராக இருக்க வேண்டும் என்றும் கூறினார்.
-
-...
-
-[Data](articles/372adcde.json)
-
----
-
-### නෝර්ටන්බිජ් මස්කෙලිය ප්‍රධාන මාර්ගයට පස්කන්දක් කඩා වැටෙයි
-
-*2025-08-17 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213480) · `si`
-
-නෝර්ටන්බ්‍රිජ් - මස්කෙලිය ප්‍රධාන මාර්ගයට පස්කන්දක් කඩා වැටීමෙන් එම මාර්ගයේ ගමනාගමන කටයුතු අද (17) පස්වරුවේ සිට සම්පූර්ණයෙන්ම ඇනහිට ඇති බව නෝර්ටන්බ්‍රිජ් පොලිසිය පවසයි.
-
-මෙම ප්‍රදේශයට ඇදහැලෙන අධික වර්ෂාපතනය හේතුවෙන් මෙම පස් කන්ද කඩා වැටී ඇති බව වාර්තා වේ.
-
-පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටින්නේ මෙම මාර්ගය නැවත යථා තත්ත්වයට පත් කරන තෙක් විකල්ප මාර්ග භාවිත කරන ලෙසය.
-
-◼️
-
-[Data](articles/81c85e6d.json)
-
----
-
-### எதிர்வரும் 36 மணி நேரத்தில் ஏற்படவுள்ள மாற்றம்
-
-*2025-08-17 20:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-36-மணி-நேரத்தில்-ஏற்படவுள்ள-மாற்றம்/175-363076) · `ta`
-
-எதிர்வரும் 36 மணி நேரத்தில் மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் முன்னறிவிப்பை வெளியிட்டுள்ளது.
-
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும், திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு 50 கி.மீ வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் அறிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/da9834b7.json)
-
----
-
-### ஹர்த்தால் ஊடாக வலுவான செய்தியை வெளிப்படுத்த வேண்டும் - சுமந்திரன் வடக்கு, கிழக்கு மக்களிடம் வலியுறுத்தல்
-
-*2025-08-17 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/222764) · `ta`
-
-இராணுவமயமாக்கலின் சிறு உதாரணமே முத்தையன்கட்டு இளைஞனின் மரணம். இராணுவ முகாமை அண்மித்து வாழும் மக்கள் இராணுவ முகாமை அண்டி வாழும் சூழல் ஏற்படுத்தப்பட்டுள்ளது. இருதரப்பிற்கும் இடையில் கொடுக்கல் வாங்கல் இடம்பெறுகிறது. இதுவே மிகமோசமான சமூக பிரச்சினை. இதற்கு எதிர்ப்பு தெரிவித்தே ஹர்த்தாலுக்கு அழைப்பு விடுத்தோம். வடக்கு மற்றும் கிழக்கில் திங்கட்கிழமை (18) காலை முதல் மதியம் வரை ஹர்த்தாலில் அனைவரும் ஈடுபட வேண்டும். இராணுவ பிரசன்னத்துக்கு எதிராக அரசாங்கத்துக்கு இந்த ஹர்த்தால் ஊடாக வலுவான செய்தியை வெளிப்படுத்த வேண்டும் என என இலங்கைத் தமிழரசுக் கட்சியின் பொதுச்செயலாளர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் வடக்கு மற்றும் கிழக்கு மக்களிடம் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/5a142cb6.json)
-
----
-
-### Circular Economy: Philosophy, History, & Prospects
-
-*2025-08-17 20:05:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/circular-economy-philosophy-history-prospects/) · `en`
-
-The core principle of circular economy underlies the need for putting the scarce and limited resources to the maximum use by people. It requires people to recycle what is being used on one side and establish a production model that would use the output of one economic activity as inputs for another economic activity, on the other. This differs from the existing linear economic model in which resources are converted to outputs for use by people. Once used, they disappear from the system leading to the accumulation of waste-matter in environment. Thus, in the circular system, resources are put to the maximum use before they disappear from the system.
-
-...
-
-[Data](articles/d0433765.json)
-
----
-
-### அமைச்சரவை அமைச்சர்களுக்கு எதிராக மாத்திரமே நம்பிக்கையில்லா பிரேரணையை முன்வைக்க முடியும் என்ற தர்க்கம் தவறானது - அஜித் பி பெரேரா விளக்கம்
-
-*2025-08-17 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/222763) · `ta`
-
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பான விசாரணைகளில் தலையிடக் கூடும் என்ற அடிப்படையிலேயே பிரதி பாதுகாப்பு அமைச்சருக்கெதிராக நம்பிக்கையில்லா பிரேரணை முன்வைக்கப்பட்டுள்ளது. ஆனால் அமைச்சரவை அமைச்சர்களுக்கு எதிராக மாத்திரமே நம்பிக்கையில்லா பிரேரணையை முன்வைக்க முடியும் என அரசாங்கத்தால் முன்வைக்கப்படும் தர்க்கம் தவறானதாகும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
-
-களுத்துறையில் ஞாயிற்றுக்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பான விசாரணைகளில் தலையிடக் கூடும் என்ற அடிப்படையிலேயே பிரதி பாதுகாப்பு அமைச்சருக்கெதிராக நம்பிக்கையில்லா பிரேரணை முன்வைக்கப்பட்டுள்ளது. அமைச்சரவை அமைச்சர்களுக்கெதிராக மாத்திரமே நம்பிக்கையில்லா பிரேரணையை முன்வைக்க முடியும் எனக் கூறுவது பாராளுமன்ற சம்பிரதாயம் பற்றி அறியாதவர்களின் தர்க்கமாகும். அமைச்சரவை அமைச்சர்கள், பிரதி அமைச்சர்கள், இராஜாங்க அமைச்சர்கள் அனைவரும் நிறைவேற்றதிகாரத்தின் பகுதிகளாகும் என அரசியலமைப்பில் குறிப்பிடப்பட்டுள்ளது.
-
-...
-
-[Data](articles/14f9fa5f.json)
-
----
-
-### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
-
-*2025-08-17 20:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has floated a request for information in efforts to build synchronous condensers into the grid, as the utility moves to absorb more renewable energy.
-
-In August the CEB sought information on a 75 Mega Volt Ampere (MVA) synchronous condenser system it plans to connect to a key substation in the grid.
-
-“Synchronous condenser is a new addition to the Ceylon Electricity Board, so the know-how has not developed,” Additional General Manager Transmission (No-wired) Susanthe Fernando said.
-
-“So we are calling for information from prospective bidders. We will make tender documents after we get information. We also plan to get consultancy service also for synchronous condensers.”
-
-The CEB initially plans another synchronous condenser in the Padukka grid substations with near term plans for 145 MVA of synchronous condensers, he said.
-
-...
-
-[Data](articles/97f15453.json)
 
 ---

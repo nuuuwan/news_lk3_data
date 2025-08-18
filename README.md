@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 05:19:11**
+As of **2025-08-18 06:12:40**
 
 ## Newspaper Stats
 
-*Scraped **71,001** Articles*
+*Scraped **71,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,330
-islandlk | 4,355
+islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,852
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 71,001 articles have been extended.
+61,973 (87.3%) of 71,011 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -930,6 +930,44 @@ The decline of the tie in Western professional attire marks a significant cultur
 
 ---
 
+### Sanasa Life Insurance launches mobile app for renewal officers
+
+*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-mobile-app-for-renewal-officers/) · `en`
+
+SANASA Life Insurance continues to enhance its digital footprint through innovative solutions. The launch of a new mobile application for renewal officers, has hit a high point in the development of in-house digital initiatives. Commenting on the launch of the app and its relevance, CEO Nuwanpriya Gunawardena said “This technological innovation has a direct bearing on streamlining our operational activity. A mobile application such as this is not only about enhancing our digital competencies, but its main objective is enabling renewal officers to offer better and optimized services to their clients”. This strategic initiative is aimed at enhancing both client services as well as field operational activity. The app offers a host of features including a user-friendly interface that allows renewal officers to access real-time client information, and carry out faster policy renewals. In addition, the mobile app offers heightened security safeguarding personal information of clients.
+
+...
+
+[Data](articles/3177516f.json)
+
+---
+
+### Siyapatha Finance expands its network with opening of 55th branch in Ambalangoda
+
+*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/siyapatha-finance-expands-its-network-with-opening-of-55th-branch-in-ambalangoda/) · `en`
+
+Siyapatha Finance PLC, a fully owned subsidiary of Sampath Bank, has further strengthened its islandwide presence with the inauguration of its 55th branch in Ambalangoda. Strategically located at No. 29, Galle Road, this expansion underscores the company’s dedication to delivering accessible and customer-focused financial solutions to communities across Sri Lanka.
+
+The opening ceremony was attended by Ananda Seneviratne, Managing Director of Siyapatha Finance PLC, alongside Directors Jayanath Gunawardena and Sriyani Ranathunga, Chief Operating Officer Rajeev De Silva, and members of the Senior Management. The event also saw the participation of distinguished local government officials, including Ambalangoda Divisional Secretary Hasanthi Niroshani, Chief Inspector of Police Ambalangoda Ranaweera, Grama Niladhari Hansa Kumara de Silva, and Trade Association President Sarath De Silva, as well as representatives from the banking, insurance, and financial sectors.
+
+...
+
+[Data](articles/35f648ad.json)
+
+---
+
+### Automobile trainer Isuru Gunasekara recognised at Asia Miracle & Pinnacle Awards
+
+*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/automobile-trainer-isuru-gunasekara-recognised-at-asia-miracle-pinnacle-awards/) · `en`
+
+Isuru Gunasekara has been honoured as the Best Automobile Training Lecturer of the Year at two leading award ceremonies: the Asia Miracle Awards 2025 and the Pinnacle Awards 2024. The ceremonies were held in Colombo. Gunasekara’s path into automobile education began in 2016 when he enrolled at the Automobile Engineering Training Institute (AETI), also known as JapanTech in Orugodawatte. After two years of study, he completed the programme as the top student of his batch. Following his graduation, he joined a technical training institute in Kurunegala, where he started teaching electrical systems in the automobile section for the first time.
+
+...
+
+[Data](articles/6ffa5df1.json)
+
+---
+
 ### Govt urges calm as investigations continue into Mullaitivu incident
 
 *2025-08-17 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111555/govt-urges-calm-as-investigations-continue-into-mullaitivu-incident) · `en`
@@ -945,6 +983,64 @@ He charged that it appears certain political groups are attempting to create unr
 ...
 
 [Data](articles/22e710c9.json)
+
+---
+
+### Nestlé advances regenerative agricultural practices in coconut value chain
+
+*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/nestle-advances-regenerative-agricultural-practices-in-coconut-value-chain/) · `en`
+
+As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. The training programme was initially launched in 2024. Building on its success, the second edition was introduced this year to further expand its reach and impact.
+
+Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme trained 25 local coconut famers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
+
+...
+
+[Data](articles/4fa8fc75.json)
+
+---
+
+### Sri Lanka striving to win back investors on world stage
+
+*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/sri-lanka-striving-to-win-back-investors-on-world-stage/) · `en`
+
+At the recent Invest Sri Lanka Investor Forum held at Conrad Singapore Marina Bay, Colombo Stock Exchange (CSE) Director Ray Abeywardena set the tone with a powerful message: “Sri Lanka is not merely a story of recovery, it is a story of transformation.”
+
+His remarks captured the essence of the forum, which showcased Sri Lanka’s stable macroeconomic environment, sweeping reforms, and a resurgent capital market – positioning Sri Lanka as a compelling frontier investment destination. The event, organised by the CSE and the Securities and Exchange Commission of Sri Lanka (SEC) in partnership with the Sri Lankan High Commission in Singapore, attracted over 150 investors, sparking immediate market optimism with Rs. 1 billion in foreign-led trades the next morning.
+
+...
+
+[Data](articles/5bd9ce8f.json)
+
+---
+
+### SLT Group delivers strong 1H 2025 performance with substantial profit growth
+
+*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/slt-group-delivers-strong-1h-2025-performance-with-substantial-profit-growth/) · `en`
+
+The SLT Group reported strong financial performance for the second quarter and first half of 2025, demonstrating continued momentum through significant improvements in profitability and cost management strategies.
+
+For the second quarter ended June 30, 2025, SLT Group achieved a Profit After Tax (PAT) of Rs. 2.3 billion, compared to a loss of Rs. 479 million in Q2 2024. At company level, SLT PLC recorded a strong rebound with PAT of Rs. 1.3 billion versus a loss of Rs. 14 million year-over-year (YoY), while Mobitel contributed Rs. 587 million compared to a loss of Rs. 610 million in Q2 2024.
+
+The Group’s half-year performance was equally impressive, with PAT reaching Rs. 4.3 billion compared to a loss of Rs. 323 million in 1H 2024.
+
+...
+
+[Data](articles/7e6fbc45.json)
+
+---
+
+### Luxury aged care resort opens in Negombo
+
+*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/luxury-aged-care-resort-opens-in-negombo/) · `en`
+
+A new chapter in elderly care has begun with the opening of Grand Leisure Care and Wellness Resort, the island’s first luxury wellness resort dedicated to seniors, post-recovery patients, and those seeking long-term comfort and holistic care. Located in the peaceful surroundings of Palagathure East, Kochchikade, Negombo, the newly opened resort is already drawing attention for its unique blend of high-quality hospitality, healthcare, and emotional well-being setting a new standard for senior living in Sri Lanka.
+
+“We designed Grand Leisure as more than just a retirement home. It’s a sanctuary where senior citizens can live with dignity, independence, and joy supported by professional care and world-class facilities,” said a spokesperson for the resort.
+
+...
+
+[Data](articles/e064b614.json)
 
 ---
 
@@ -1683,131 +1779,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/28d82a8f.json)
-
----
-
-### ஜம்மு காஷ்மீரில் மீண்டும் மேக வெடிப்பு : 4 பேர் உயிரிழப்பு
-
-*2025-08-17 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/222731) · `ta`
-
-காஷ்மீர் மாநிலம் கிஷ்த்வார் மாவட்டம் சசோட்டி நகருக்கு அருகில் மலைமீது உள்ள துர்க்கா தேவி கோவிலில் திருவிழா நடந்து வருகிறது. அந்த கோவிலுக்கு செல்வதற்காக ஏராளமானோர் சசோட்டி நகரில் கடந்த 14 ஆம் திகதி குவிந்து இருந்தனர்.
-
-அன்று மதியம் சசோட்டியில் மேகவெடிப்பு காரணமாக பெருமழை பெய்தது. இதனால் காட்டாற்று வெள்ளம் பல இடங்களில் ஓடியது. இந்த வெள்ளத்தில் சசோட்டி நகரில் திரண்டு இருந்த பக்தர்கள் உட்பட ஏராளமானோர் மாயமானார்கள். வீடுகள் சேதமடைந்தன. பல இடங்களில் வாகனங்கள் சேற்றில் புதைந்துள்ளன.
-
-இந்த வெள்ளத்தில் சிக்கி 60 பேர் வரை உயிரிழந்தார்கள். 180-க்கும் மேற்பட்டவர்கள் மீட்கப்பட்டுள்ளனர். அவர்களில் சிலரது நிலைமை கவலைக்கிடமாக உள்ளது.
-
-இதனிடையே இராணுவம், தேசிய அனர்த்த மீட்புக்குழுவினர் இணைந்து இன்றும் 4 ஆவது நாளாக தேடும்பணியில் ஈடுபட்டு வருகின்றனர்.
-
-இந்நிலையில், இன்று கதுவா மாவட்டத்தில் உள்ள தொலைதூர கிராமத்தில் மேக வெடிப்பு ஏற்பட்டது. இதனால் ஏற்பட்ட திடீர் வெள்ளத்தில் சிக்கி 4 பேர் உயிரிழந்தனர். மேலும் 6 பேர் காயம் அடைந்துள்ளனர்.
-
-...
-
-[Data](articles/13452b00.json)
-
----
-
-### Govt fully supports action taken against underworld figures: New IGP
-
-*2025-08-17 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111543/govt-fully-supports-action-taken-against-underworld-figures-new-igp) · `en`
-
-A more advanced strategy is now being implemented to suppress underworld crimes, replacing the existing approaches, according to Inspector General of Police (IGP) Priyantha Weerasooriya.
-
-The IGP stated that efforts are being made to combat crimes with the support of the tri-forces and the general public.
-
-He made these remarks after calling on the Chief Prelates of the Asgiri and Malwathu chapters.
-
-Speaking to media in Kandy, IGP Priyantha Weerasooriya also noted that certain underworld activities and drug trafficking operations have received political backing, as well as support from some police officers.
-
-However, he stressed that there is currently no political pressure on law enforcement, and that the government fully supports taking action against criminals.
-
-...
-
-[Data](articles/69c1382f.json)
-
----
-
-### உணவகத்தில் தாக்குதல்: கணவன் பலி: மனைவி படுகாயம்
-
-*2025-08-17 12:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவகத்தில்-தாக்குதல்-கணவன்-பலி-மனைவி-படுகாயம்/175-363048) · `ta`
-
-துனகஹா-கொடிகமுவ சாலையில் உள்ள உணவகம் ஒன்றில் ஏற்பட்ட மோதலில் படுகாயமடைந்த ஒருவர் கம்பஹா பொது மருத்துவமனையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக திவுலபிட்டிய பொலிஸார் தெரிவித்தனர். இறந்தவர் இத்தகொதெல்ல பகுதியைச் சேர்ந்தவர்.
-
-உணவகத்தில் இறந்தவரின் மனைவிக்கு நடந்ததாகக் கூறப்படும் சம்பவம் குறித்து விசாரிக்கச் சென்றபோது, உணவகத்தின் உரிமையாளரும் மேலும் இரண்டு பேரும் தம்பதியினரைத் தாக்கியதாக முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/95dc978b.json)
-
----
-
-### කිසිම අපරාධයක් වසන් කිරීමට දෙන්නේ නෑ
-
-*2025-08-17 12:00:47* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අපරාධයක්-වසන්-කිරීමට-දෙන්නේ-නෑ/11-417950) · `si`
-
-මත්ද්‍රව්‍ය ජාවාරම හා පාතාල ක්‍රියාකාරකම් අතීතයේ සිටම සිදුවූවක් බවත් ඒ සඳහා දේශපාලනඥයින්, ඇතැම් පොලිස් නිලධාරීන් සහාය ලබා දී ඇති බවත් පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පැවැසීය.
-
-අපරාධකරුන් විදෙස් ගතව සිටියත් ඔවුන්ට මේ වන විට එක් ස්ථානයක සිටීමට නොහැකි තත්ත්වයක් මතුව ඇති බවත් ඔහු පැවැසීය.
-
-අද පෙරවරුවේ මහනුවරට පැමිණි මහානායක හිමිවරුන්ගේ බැහැ දැකී‍මෙන් අනතුරුව මාධ්‍ය අමතමින් ඔහු මේ බව පැවැසීය.
-
-දේශපාලන බලපෑමක් නොමැති බවත් කිසිම අපරාධයක් වසන් කිරීමට තමන්ගෙන් ඉඩක් නොමැති බවත් ඔහු පැවැසීය.
-
-වත්මන් දේශපාලන තත්ත්වය සමග පොලීසිය කටයුතු කළ නොහැකි නම් එතන විනය ප්‍රශ්නයක් ඇති බවත් ඔහු සඳහන් කළේය.
-
-උසස්වීම් ලබාදීමට කඩිනම් කරන බවත් නිලධාරී හිඟය 30000කට ආසන්න සංඛ්‍යාවක් බවට පත්ව ඇති බවත් එයට පිළිතුරු ලෙස මේ වසරේ 5000ක් හා ලබන වසරේදී 10000ක් බඳවා ගන්නා බවත් ඔහු පැවැසීය.
-
-◼️
-
-[Data](articles/a6c87fad.json)
-
----
-
-### ඇල්ල සංචාරකයන්ගෙන් පිරී යයි
-
-*2025-08-17 11:42:59* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-සංචාරකයන්ගෙන්-පිරී-යයි/11-417949) · `si`
-
-ඇල්ල නගරය මේදිනවල  විදේශීය සංචාරකයන් ගෙන් පිරී ඇති  අතර අද (17)  බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වන පොඩිමැණිකේ දුම්රියෙන් සිය ගමන් පහසුව සලසා ගැනිමට ඇල්ල දුම්රිය ස්ථානයේදී විදේශිකයන් විශාල පිරිසක් එක්ව සිටියහ.
-
-විදේශීය සංචාරකයන්  අන්තර් ජාලය හරහා දුම්රිය ප්‍රවේශ පත් වෙන්කර ගැනිම නිසාවෙන් එම දුම්රිය ප්‍රවේශ පත් දුම්රිය නියාමකවරයා විසින් පරික්ෂා කර බලා අදාළ මගීන් දුම්රියට නංවා ගැනිම නිසාවෙන් ආසන වෙන්කර ගත් විදේශීය සංචාරකයන් ට ටික වේලාවක් දුම්රිය වේදිකාවේ රැදී සිටීමටද සිදුවිය. මේනිසාවෙන් පොඩිමැණිකේ දුම්රිය ද තරමක් ප්‍රමාද වී ධාවනය කැරින .
-
-◼️
-
-[Data](articles/862279a6.json)
-
----
-
-### අපරාධ නැවැත්වීමට පොලීසියෙන් විධිමත් වැඩපිළි‍වෙළක්
-
-*2025-08-17 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213465) · `si`
-
-පාතාල ක්‍රියා මර්දනය කිරීම් සඳහා පවතින ක්‍රමවේදයට වඩා විධිමත් වැඩපිළිවෙළක් ක්‍රියාත්මක කරමින් පවතින බව පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
-
-ඔහු මේ බව පැවසුවේ අද (17) මහනුවරට පැමිණ මහනායක හිමිවරුන් බැහැදැකීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමිනි.
-
-එහිදී පොලිස්පතිවරයා පැවසුවේ මෙම අපරාධ මැඩලීම සඳහා ත්‍රිවිධ හමුදාව සහ මහජනතාවගෙන්ද සහාය ලබා ගනිමින් කටයුතු කරන බවය.
-
-එමෙන්ම ඇතැම් පාතාල ක්‍රියාවන් සහ මත්ද්‍රව්‍ය ජාවාරම් සඳහා යම් යම් දේශපාලන ආශිර්වාද මෙන්ම පොලීසියේ ඇතැම් නිලධාරීන්ගේද සහාය ලැබී ඇති බවද පොලිස්පතිවරයා මෙහිදී පැවසීය.
-
-තවද නීතිය ස්ථාපිත කිරීමේදි කිසිදු දේශපාලන බලපෑමක් ලැබී නැතැයිද ලැබී ඇති දේශපාලන පරිසරය ඉතා හොඳ බවත් පැවසූ පොලිස්පතිවරයා මෙහිදී පැවසුවේ යම් කිසි අපරාධයක් සඟවා තැබීමට හෝ නොසළකා හැරීමට කිසිදු අවස්ථාවක තමාගෙන් නියෝග නොලැබෙන බවය.
-
-...
-
-[Data](articles/b46242eb.json)
-
----
-
-### ධීවර අමාත්‍යාංශයේ ශීතාගාර සියයට 90ක් බදු දීලා
-
-*2025-08-17 11:35:38* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-අමාත්‍යාංශයේ-ශීතාගාර-සියයට-90ක්-බදු-දීලා/11-417948) · `si`
-
-ධිවර අමාත්‍යංශයට අයත් ශිතාගාර වලින් සියයට 90ක් පමණ පුද්ගලික අංශයට බදු පදනම මත ලබාදි ඇති බවත්  ඉදිරියේ දි මෙකි ශිතාගාර යලි රජයට අත්පත්කරගැනිමට  කටයුතු කරණ බවත් ධිවර හා ජලජසම්පත් සංවර්ධන  නියෝජ්‍ය අමාත්‍ය රත්න ගමගේ මහතා පවසයි.
-
-අක්මිමන සම්බන්දිකරණ කමිටු රැස්විමෙන් පසු මාධ්‍යයට අදහස් දක්වමින් නියෝජ්‍ය ඇමතිවරයා මේ බව සදහන් කළේය. මේ වනවිටත් අදාළ බදු ගිවිසුම් නිතිපති දෙපාර්තමේන්තුව වෙත යොමුකොට ඇති බවද හෙතම පවසයි. රජයට අයත්ව තිබු  මෙකි ශිතාගාර  පසුගිය රජයන් මගින් අවුරුදු 33 ,50 යන වර්ෂ සදහා බදු පදනම මත පුද්ගලික අංශය වෙත ලබාදි ඇති බවද ධිවර නියෝජ්‍ය ඇමතිවරයා පවසයි.
-
-නව ශිතාගාර ස්ථාපිත කිරිම සදහා විදේශිය රටවල් කිහිපයක් සමග සාකච්ඡාකොට ඇති බවත් පුද්ගලික ව්‍යවසායකයින් සදහාද  ඒ සදහා අවස්ථාව ලබාදෙන බව සදහන් කළ නියෝජ්‍ය ඇමතිවරයා වාරකන් නැති කාලයට ධිවරකාර්මිකයින් විසින් නෙලාගනු ලබන මත්ස්‍ය අස්වැන්න ගබඩාකිරිම සදහා ක්‍රියාවලියක් නොමැති බවත් ඉදිරි අයවැය මගින් ශිතාගාර ස්ථාපිත එම ක්‍රියාවලිය යල සක්‍රිය කිරිමට  කටයුතු කරණ බවද හෙතෙම පවසයි.
-
-...
-
-[Data](articles/aae8b48f.json)
 
 ---

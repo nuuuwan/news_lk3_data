@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 13:20:19**
+As of **2025-08-18 13:32:18**
 
 ## Newspaper Stats
 
-*Scraped **71,055** Articles*
+*Scraped **71,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,854
 adaderanalk | 8,899
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,257
+adaderanasinhalalk | 12,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,055 articles have been extended.
+61,973 (87.2%) of 71,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### මහ පාරේ තිබී ටී - 56 ගිනිඅවි තුනක් සොයාගනී
+
+*2025-08-18 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213501) · `si`
+
+කඩුවෙල, කොරතොට, තුන්අදහේන ප්‍රදේශයේ මාර්ගයක තිබී ටී - 56 ගිනිඅවි තුනක් සොයාගෙන තිබේ.
+
+එම ගිනිඅවි සම්බන්ධයෙන් වැඩිදුර විමර්ශන නවගමුව පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/532281f3.json)
+
+---
+
+### සාම සාකච්ඡා වෙනුවෙන් ට්‍රම්ප් -  සෙලෙන්ස්කි හමුව අද වොෂින්ටන්හිදී
+
+*2025-08-18 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213500) · `si`
+
+යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මෙන්ම යුරෝපා නායකයින් එක්වන විශේෂ හමුවක් මෙරට වේලාවෙන් අද රාත්‍රියේ ධවල මන්දිරයේදී පැවැත්වීමට නියමිතය.
+
+ජනාධිපති ට්‍රම්ප්ගේ මැදිහත්වීමෙන් මෙම සාකච්ඡා වටය පැවැත්වෙන්නේ යුක්‍රේනයට සාමය උදාකිරීමේ අරමුණින් යුතුවය.
+
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර ඓතිහාසික හමුවක් පසුගියදා අමෙරිකාවේ ඇලස්කා ප්‍රාන්තයේ ඇන්කොරාජ් නගරයේදී සිදු විය.
+
+සාම ව්‍යායාමයේ තවත් දිගුවක් ලෙස යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි, ධවල මන්දිරයේදී හමුවීමට ජනාධිපති ට්‍රම්ප් සැලසුම් කර ති‍බේ.
+
+ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන්, බ්‍රිතාන්‍ය අගමැති කියර් ස්ටාමර්, ජර්මානු චාන්සලර් ෆෙඩ්රික් මර්ස්, ඉතාලි අගමැතිනී ජෝර්ජියා මෙලොනි, යුරෝපා සංගමයේ ප්‍රධානී උර්සුලා වොන්ඩර් ලෙයින් මෙන්ම, නේටෝ ප්‍රධානී මාර්ක් රුටේ යන යුරෝපා නායකයින් ද එක්වන මෙම හමුව අද පැවැත්වෙනු ඇති.
+
+...
+
+[Data](articles/a9595982.json)
+
+---
 
 ### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
 
@@ -52,9 +86,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111579/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
 
-Former State Minister Prasanna Ranaweera has been remanded until August 25 by the Mahara Magistrate’s Court, Ada Derana reporter said.
+Former State Minister Prasanna Ranaweera, who was arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, has been further remanded.
 
-Ranaweera and several others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
+Ranaweera was remanded until August 25 when he was produced before the Mahara Magistrate’s Court, Ada Derana reporter said.
+
+Ranaweera and four others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
 
 ◼️
 
@@ -118,7 +154,7 @@ This according to Ada Derana reporter is to lodge two complaints with the CID.
 
 *2025-08-18 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213497) · `si`
 
-මිහින්තලා රාජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වළවාහැංගුණවැවේ ධම්මරතන හිමියන් අද (18) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+මිහින්තලා රාජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවාහැංගුණවැවේ ධම්මරතතන හිමියන් අද (18) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
 
 ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිලි දෙකක් ඉදිරිපත් කිරීම සඳහායි.
 
@@ -1765,31 +1801,5 @@ The opening ceremony was attended by Ananda Seneviratne, Managing Director of Si
 ...
 
 [Data](articles/35f648ad.json)
-
----
-
-### Automobile trainer Isuru Gunasekara recognised at Asia Miracle & Pinnacle Awards
-
-*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/automobile-trainer-isuru-gunasekara-recognised-at-asia-miracle-pinnacle-awards/) · `en`
-
-Isuru Gunasekara has been honoured as the Best Automobile Training Lecturer of the Year at two leading award ceremonies: the Asia Miracle Awards 2025 and the Pinnacle Awards 2024. The ceremonies were held in Colombo. Gunasekara’s path into automobile education began in 2016 when he enrolled at the Automobile Engineering Training Institute (AETI), also known as JapanTech in Orugodawatte. After two years of study, he completed the programme as the top student of his batch. Following his graduation, he joined a technical training institute in Kurunegala, where he started teaching electrical systems in the automobile section for the first time.
-
-...
-
-[Data](articles/6ffa5df1.json)
-
----
-
-### නිධානය ගන්න ගිය නි. පොලිස්පති බිරිදට අවැසි භාණ්ඩත් පොලීසිවලින්ම දීලා
-
-*2025-08-17 18:10:55* · [`adalk`](https://www.ada.lk/breaking_news/නිධානය-ගන්න-ගිය-නි--පොලිස්පති-බිරිදට-අවැසි-භාණ්ඩත්-පොලීසිවලින්ම-දීලා/11-417959) · `si`
-
-පුරාවස්තු වටිනාකමින් යුත් දේවාලයක් පිහිටි නිවසක් තුළ නිධන් වස්තු සොයා කැණීම් කරමින් සිටියදී අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කරසිටින කොළඹ ප්‍රදේශයේ නියෝජ්‍ය පොලිස්පතිවරයාගේ බිරිඳ ට එම පුද පූජා කටයුතු සඳහා කුකුළෙකු සහ අනෙකුත් භාණ්ඩ සපයා ඇත්තේ කොළඹට ආසන්න පොලීසියකින් බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි
-
-එකී පොලීසිය එම නියෝජ්‍ය පොලිස්පතිවරයා යටතේම පවතින අතර එම සියල්ල සපයා ඇත්තේ නියෝජ්‍ය පොලිස්පතිවරයාගේ ඉල්ලීම මත ස්ථානාධිපතිවරයාගේ නියෝග මත එම ආරංචි මාර්ගවලින් පැවසේ. එම නියෝජ්‍ය පොලිස්පතිවරයාගේ බිරිඳ ද හිටපු පොලිස් කොස්තාපල් වරියක් බව දැන ගන්නට ඇත.
-
-...
-
-[Data](articles/00f2b237.json)
 
 ---

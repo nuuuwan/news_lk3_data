@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 14:52:32**
+As of **2025-08-18 15:08:07**
 
 ## Newspaper Stats
 
-*Scraped **71,063** Articles*
+*Scraped **71,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,901
+adaderanalk | 8,904
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
 adaderanasinhalalk | 12,263
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,063 articles have been extended.
+61,973 (87.2%) of 71,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Airports & Aviation Services company records 78% growth in operational profit in H1 2025
+
+*2025-08-18 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111585/airports-aviation-services-company-records-78-growth-in-operational-profit-in-h1-2025) · `en`
+
+The operational profit of the Airport & Aviation Services (Sri Lanka) (Private) Limited has increased by 78% in the first six months of 2025 compared to the same period in the previous year.
+
+In the first six months of 2024, the company recorded an operational profit of Rs. 9,049 million, whereas in the same period of 2025, the profit rose to Rs. 16,133 million, according to the Ministry of Transport, Highways, Ports, and Civil Aviation.
+
+The Ministry stated that a total of 32,423 flights were handled during the first half of 2025.
+
+With the upcoming tourist season, the Ministry said the Airport and Aviation Authority expects a significant increase in these numbers.
+
+◼️
+
+[Data](articles/757fb5e7.json)
+
+---
 
 ### වරෙන්තු අත්හිටුවන්නැයි ඉල්ලා රාජිතගෙන් මෝසමක්
 
@@ -69,6 +87,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/327a5362.json)
+
+---
+
+### Firearms found in roadside at Kaduwela are fake – Police confirm
+
+*2025-08-18 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111584/firearms-found-in-roadside-at-kaduwela-are-fake-police-confirm) · `en`
+
+Police have stated that the firearms discovered inside a bag abandoned on the roadside in Thunadahena, Korathota, Kaduwela were not real guns.
+
+The contents of the bag, which included three T-56 assault rifles and five browning-type pistols were confirmed to be fake.
+
+However, authorities verified that the T-56 rifle magazine found alongside them is genuine.
+
+The discovery was made earlier today (18) and the weapons were handed over to the Nawagamuwa Police.
+
+◼️
+
+[Data](articles/a44ad486.json)
+
+---
+
+### US adviser Navarro says India’s Russian crude buying has to stop
+
+*2025-08-18 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111583/us-adviser-navarro-says-indias-russian-crude-buying-has-to-stop) · `en`
+
+White House trade adviser Peter Navarro said India’s purchases of Russian crude were funding Moscow’s war in Ukraine and had to stop, adding that New Delhi was “now cozying up to both Russia and China”.
+
+“If India wants to be treated as a strategic partner of the US, it needs to start acting like one,” Navarro wrote in an opinion piece.
+
+India’s Foreign Ministry has previously said the country is being unfairly singled out for buying Russian oil while the United States and European Union continue to purchase goods from Russia.
+
+US President Donald Trump announced an additional 25 per cent tariff on Indian goods earlier this month, citing New Delhi’s continued purchases of Russian oil. The move will take total tariffs on imports from India to 50 per cent.
+
+“India acts as a global clearinghouse for Russian oil, converting embargoed crude into high-value exports while giving Moscow the dollars it needs,” Navarro said.
+
+...
+
+[Data](articles/df12f3e2.json)
 
 ---
 
@@ -1741,55 +1797,5 @@ A provincial rescue spokesman told news agency AFP that “10 to 12 entire villa
 ...
 
 [Data](articles/e7a1ba0d.json)
-
----
-
-### The Decline Of The Tie In The West: A Cultural Shift Towards Comfort & Practicality
-
-*2025-08-17 19:07:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-decline-of-the-tie-in-the-west-a-cultural-shift-towards-comfort-practicality/) · `en`
-
-The decline of the tie in Western professional attire marks a significant cultural shift in workplace standards and societal perceptions of formality. The business casual movement, which took root in Europe during the late twentieth century, has gradually permeated various sectors, including finance and law. This trend accelerated after the 2000s, particularly within technology and creative industries, where the emphasis on comfort and personal expression began to supersede traditional dress codes. Open collars, breathable fabrics, and relaxed tailoring have become synonymous with professionalism, signifying a departure from stiff formalwear.
-
-...
-
-[Data](articles/82cd2cf5.json)
-
----
-
-### ඖෂධ හා ශල්‍ය උපකරණ මිල ඉහළ ගිහින්
-
-*2025-08-17 18:56:39* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ හා-ශල්‍ය-උපකරණ-මිල-ඉහළ-ගිහින්/11-417962) · `si`
-
-ඖෂධ හා ශල්‍ය උපකරණවල මිල ඉහළ යාමෙන් රෝගී ජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින නිසා  මිල නියාමනයක් ඇති කළ යුතු බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
-
-ඖෂධ කාණ්ඩ 60කට අයත් ඖෂධ වර්ග 750කට අදාළව මිල නියාමනයක් සිදුවුවත් ශල්‍ය උපකරණවල මිල නියාමනයක් සිදුනොවන බව එම සන්ධානයේ  සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පෙන්වා දෙයි.
-
-ආසන්න වශයෙන් ඖෂධ කාණ්ඩ 300කට අධික ප්‍රමාණයකට අයත් විවිධ වෙළෙඳ නාම යටතේ අලෙවි වන ඖෂධ වර්ග 6500කට අධික  ඖෂධ වර්ගවල මිල නියාමනයක් සිදුනොවන බවත් ඔහු පැවසීය.
-
-මිල පාලනයක් නොමැති ඖෂධ වර්ගවල මිල ජනතාවට දරාගත නොහැකි ලෙස ඉහළ ගොස් තිබෙන නිසා පෞද්ගලික ඔසු සල්වලින් ඹෟෂධ මිලදී ගන්නා ජනතාව දුෂ්කරතාවන්ට පත්ව සිටින බවද හෙතෙම සඳහන් කළේය.
-
-දැනට දිවයින පුරා පෞද්ගලික ඔසුහල්වල ද සැලකිය යුතු ඖෂධ ප්‍රමාණයක හිඟයක් පවතින බැවින් පිළිකා රෝගීන් අතුළු දිගුකාලීන රෝගාබාධවලින් පෙළෙන පුද්ගලයන්ට ඖෂධ ගෙන්වීම සඳහා විදේශ රටවල පුද්ගලික සහාය ලබා ගැනීමට සිදුව ඇති බවද වෛද්‍යවරයා පවසා සිටියේය.
-
-◼️
-
-[Data](articles/b30defb9.json)
-
----
-
-### செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச  நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வூட்டும் செயலமர்வு
-
-*2025-08-17 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/222762) · `ta`
-
-அரச சேவையை பயனுள்ள மற்றும் செயற்திறனான சேவையாக மாற்றுவதற்கு செயற்கை நுண்ணறிவைப் பயன்படுத்துவது குறித்து அரச நிறைவேற்று அதிகாரிகளுக்காக ஏற்பாடு செய்யப்பட்ட  விசேட செயலமர்வு சனிக்கிழமை (16) முற்பகல் அலரி மாளிகையில் நடைபெற்றது.
-
-‘AI for Transforming Public Service’  என்ற தொனிப்பொருளில், ஜனாதிபதி  அலுவலகத்தின் ஒத்துழைப்புடன் டிஜிட்டல் பொருளாதார அமைச்சினால் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டதுடன், பத்து அமைச்சுக்களின் நிறைவேற்று அதிகாரிகள் இந்த செயலமர்வில் பங்கேற்றனர்.
-
-அரச சேவையை டிஜிட்டல் மயமாக்கும் அரசாங்கத்தின் திட்டத்தின் ஆரம்ப பிரவேசமாக, அரச  அதிகாரிகளை அறிவூட்டுதல் மற்றும் தயார்படுத்துதல் மற்றும் அரச சேவைக்குள் செயற்கை நுண்ணறிவு குறித்த சாதகமான அணுகுமுறையை ஏற்படுத்துதல் ஆகிய நோக்கங்களுடன் இந்த செயலமர்வு ஏற்பாடு செய்யப்பட்டுள்ளது.
-
-இந்த நிகழ்வில் கலந்து கொண்ட ஜனாதிபதியின் செயலாளர்  கலாநிதி நந்திக சனத் குமாநாயக்க, டிஜிட்டல் மாற்றத்திற்கு  தேவையான நடவடிக்கைகளை அரசாங்கம் எடுத்து வருவதாகவும், அரச சேவை அதற்குத் தயாராக இருக்க வேண்டும் என்றும் கூறினார்.
-
-...
-
-[Data](articles/27a5abd3.json)
 
 ---

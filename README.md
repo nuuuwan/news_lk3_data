@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 17:54:00**
+As of **2025-08-18 18:10:36**
 
 ## Newspaper Stats
 
-*Scraped **71,088** Articles*
+*Scraped **71,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,854
 adaderanalk | 8,913
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,270
+adaderanasinhalalk | 12,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,088 articles have been extended.
+61,973 (87.2%) of 71,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට වරෙන්තු
+
+*2025-08-18 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213514) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට අධිකරණය මගින් වරෙන්තු නිකුත් කර තිබේ.
+
+පොලිසිය විසින් අධිකරණයට සිදුකරන ලද කරුණු දැක්විමක් සැලකිල්ලට ගනිමින් මෙම වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී උදේකුමාර් වුට්ලර් මහතා සඳහන් කළේය.
+
+ඒ අනුව, අතුරලියේ රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය මගින් වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/ec0fd369.json)
+
+---
 
 ### Foreign investors sell Sri Lanka rupee bonds after two-weeks of buying
 
@@ -132,13 +148,11 @@ Through the program the United States is building lasting networks and cultivati
 
 *2025-08-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213511) · `si`
 
-කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ කාර්යය බහුල දින සහ වේලාවලදී, ගුවන් මගීන් සමග පැමිණෙන අමුත්තන් සඳහා, පිටත්වීමේ පර්යන්තයේ ආලින්දය වෙත පිවිසීම අත්හිටුවීමට තීරණය කර තිබේ.
+සෑම බ්‍රහස්පතින්දා, සිකුරාදා සහ සෙනසුරාදා දිනකදීම රාත්‍රී 10 සිට මධ්‍යම රාත්‍රීය දක්වා කාලය තුළ කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ පිටවීමේ ආලියන්දයට ඇතුළුවීම අමුත්තන් සඳහා අත්හිටුවීමට තීරණය කර තිබේ.
 
-ඒ අනුව සෑම සතියකම බ්‍රහස්පතින්දා, සිකුරාදා සහ සෙනසුරාදා යන දිනවල රාත්‍රී 10.00 සිට මධ්‍යම රාත්‍රී 12.00 දක්වා කාළය තුළ ගුවන්තොටුපොළේ පිටත්වීමේ පර්යන්තයේ ආලින්දය වෙත අමුත්තන්ට ඇතුළු වීම අත්හිටුවා ඇත.
+නිවේදනයක් නිකුත්කරමින් ගුවන්තොටුපොළ හා ගුවන්සේවා සමාගම ඒ බව සඳහන් කළේය.
 
-පසුගිය දිනවල ගුවන්තොටුපොළ පිටත්වීමේ පර්යන්තයේ රාත්‍රී කාළයේ ගුවන් මගීන් සහ ගුවන්තොටුපොළ භාවිතා කරන්නන් අධික තදබදයකට ලක් වීම හේතුවෙන් අපහසුතා ඇති වූ බව වාර්තා වෙයි.
-
-ඒ හේතුවෙන් බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ කාර්යබහුල වේලාවන්හිදී ගුවන් මගීන්ගේ පහසුව සඳහා මෙහෙයුම් කටයුතු සුමටව සිදු කිරීම සහ තදබදය කළමනාකරණය කිරීමට, මෙම තීරණය ගෙන ඇත.
+සියලුම ගුවන් මගින් සහ ගුවන්තොටුපොල භාවිත කරන්නන්ගේ පහසුව සඳහා මෙම පියවර ගෙන ඇති බව එම සමාගම පවසයි.
 
 ◼️
 
@@ -1807,23 +1821,5 @@ Part 1 of this article (https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights
 ...
 
 [Data](articles/b59de1b3.json)
-
----
-
-### Israeli massacre of Palestinian journalists
-
-*2025-08-17 23:05:15* · [`dailyftlk`](https://www.ft.lk/columns/Israeli-massacre-of-Palestinian-journalists/4-780383) · `en`
-
-This undated photo shows Al Jazeera correspondents Anas al Sharif (left) and Mohammed Qraiqea outside a media tent
-
-Al Jazeera correspondent Anas al Sharif holding his two children, daughter Sham (left) and son Salah (right)
-
-Palestinian journalists and others gather for the funeral of six reporters directly targeted and killed by Israeli forces in a tent a day earlier in Gaza City, on 11 August 2025 (Mohammed al-Hajjar/MEE)
-
-Sharif’s killing is not an ending. It is the erasure of a witness before the curtain rises on what comes next: massacres planned in plain view, sanctioned by United States, United Kingdom, European allies and shameless Arab tyrants, to drive Gaza’s last survivors from their land. Sharif’s blood is not Israel’s burden alone. It stains the hands of every government that looked away
-
-...
-
-[Data](articles/ff9f95ae.json)
 
 ---

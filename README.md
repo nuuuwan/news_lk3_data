@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 18:33:42**
+As of **2025-08-18 19:00:14**
 
 ## Newspaper Stats
 
-*Scraped **71,090** Articles*
+*Scraped **71,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,913
+adaderanalk | 8,915
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
 adaderanasinhalalk | 12,272
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,090 articles have been extended.
+61,973 (87.2%) of 71,092 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,7 +64,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව, අතුරලියේ රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය මගින් වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
 
-◼️
+2020 වසරේ මහමැතිවරණයෙන් අපේ ජනබල පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරයට අදාළව පූජ්‍ය අතුරලිය රතන හිමිට එල්ලවූ චෝදනාවක් සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසය විමර්ශනයක් සිදුකරමින් සිටී.
+
+බලපෑම් කොට එම මන්ත්‍රි ධුරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගත් බවට රතන හිමිට චෝදනා එල්ලවී ඇත.
+
+එම විමර්ශනවලට අදාළව රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ අපරාධ කොට්ඨාසය උන්වහන්සේ වැඩසිටි රාජගිරිය සඳහම් සෙවණට ගියද උන්වහන්සේ එහි නොසිටි බවත් දුරකථනයද විසන්ධි කර ඇති බවත් එම කොට්ඨාසය මීට පෙර අධිකරණයට දැනුම් දී තිබුණි.
+
+...
 
 [Data](articles/ec0fd369.json)
 
@@ -87,6 +93,24 @@ Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after
 ...
 
 [Data](articles/fcf16f3e.json)
+
+---
+
+### Trump tariffs won’t significantly reduce U.S. debts: U.S. economists
+
+*2025-08-18 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111596/trump-tariffs-wont-significantly-reduce-us-debts-us-economists) · `en`
+
+U.S. economists deem that hiking tariffs may slow the growth of U.S. debts but not achieve any significant reduction, said a report released by the Fortune magazine on its website on Sunday.
+
+U.S. President Donald Trump has repeatedly claimed that revenues from raised tariffs could both reduce America’s national debt of 37 trillion U.S. dollars and fund a public “dividend.”
+
+His primary purpose is “to pay down debt, which will happen in very large quantity,” while there is also a possibility that “we’re taking in so much money that we may very well make a dividend to the people of America,” Trump said earlier this month.
+
+The Fortune’s report, citing some U.S. economists, expressed skepticism over the president’s claim.
+
+...
+
+[Data](articles/c893b681.json)
 
 ---
 
@@ -127,6 +151,24 @@ A bond maturing on 15.12.2032 closed at 10.22/25 percent, down from 10.18/22 per
 ◼️
 
 [Data](articles/fba176b1.json)
+
+---
+
+### Two more petitions filed challenging bill to revoke privileges of former Presidents
+
+*2025-08-18 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111595/two-more-petitions-filed-challenging-bill-to-revoke-privileges-of-former-presidents) · `en`
+
+Two more petitions have been filed before the Supreme Court challenging the bill presented in Parliament by the government to revoke the privileges of former Presidents, according to Ada Derana reporter.
+
+The petitions were filed by two individuals from Veyangoda and Pannipitiya. The Attorney General has been named as the respondent in both cases.
+
+The petitioners argue that Clauses 1 to 4 of the proposed bill violate the doctrine of separation of powers, which is guaranteed by the Constitution of Sri Lanka. They also claim that several provisions of the bill undermine the sovereignty of the people and the independence guaranteed under the Constitution.
+
+They further state that, taken as a whole, the bill infringes upon fundamental constitutional principles, and violates Articles 1, 3, 4, and 12(1) of the Constitution, including the fundamental rights of individuals.
+
+...
+
+[Data](articles/aab408e1.json)
 
 ---
 
@@ -174,7 +216,7 @@ Through the program the United States is building lasting networks and cultivati
 
 නිවේදනයක් නිකුත්කරමින් ගුවන්තොටුපොළ හා ගුවන්සේවා සමාගම ඒ බව සඳහන් කළේය.
 
-සියලුම ගුවන් මගින් සහ ගුවන්තොටුපොල භාවිත කරන්නන්ගේ පහසුව සඳහා මෙම පියවර ගෙන ඇති බව එම සමාගම පවසයි.
+සියලුම ගුවන් මගින් සහ ගුවන්තොටුපොළ භාවිත කරන්නන්ගේ පහසුව සඳහා මෙම පියවර ගෙන ඇති බව එම සමාගම පවසයි.
 
 ◼️
 
@@ -1799,35 +1841,5 @@ Today, i.e. 17 August 2025, it’s different. I can make the call. I know what t
 ...
 
 [Data](articles/52698dda.json)
-
----
-
-### Bridging the gap: What will it take to get more women in management
-
-*2025-08-17 23:27:09* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-the-gap-What-will-it-take-to-get-more-women-in-management/4-780387) · `en`
-
-In 2019, MAS set a goal to achieve 30% women in management by 2025 as part of our Plan for Change. We wanted to aim high, but we also recognised the magnitude of the challenge. Even then, it was clear that deep structural and cultural barriers were holding women back from advancing in their careers.
-
-The data reflected this. In Sri Lanka, women held only 12.5% of senior and middle management positions in 2021, according to the World Economic Forum’s Global Gender Gap Report. And this is not a challenge unique to us. In 2020, women held just under 30% of similar roles across G20 countries (ILO, 2020), with cultural norms and societal expectations consistently cited as major obstacles.
-
-...
-
-[Data](articles/6224414a.json)
-
----
-
-### Not too late for a winning bet: Need to redraft Gambling Bill
-
-*2025-08-17 23:22:25* · [`dailyftlk`](https://www.ft.lk/columns/Not-too-late-for-a-winning-bet-Need-to-redraft-Gambling-Bill/4-780386) · `en`
-
-As this is Sri Lanka’s first attempt at gaming regulation, it is far easier to get it right now than to amend entrenched laws later, when vested interests will have multiplied. By passing the Bill in its current form, the NPP Government—elected to fight corruption—risks a major gamble, increasing both corruption risks and rent-seeking vulnerabilities
-
-After weeks of discussion, the Committee on Public Finance approved the Gambling Regulatory Authority (GRA) Bill last week. While the Bill faces its second reading in Parliament this Tuesday, its many deficiencies remain—helping create a regulator not worth its salt.
-
-Gaming encompasses both gambling—games of pure chance like casinos and lotteries—and betting, which mixes chance with skill, such as horseracing. Despite moral arguments against gaming, a blanket ban is unlikely to be effective. Singapore learned this the hard way and legalised gambling under strict regulation in 2005.
-
-...
-
-[Data](articles/5fb3e847.json)
 
 ---

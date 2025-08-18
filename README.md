@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 11:52:56**
+As of **2025-08-18 12:08:59**
 
 ## Newspaper Stats
 
-*Scraped **71,041** Articles*
+*Scraped **71,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,334
+economynextcom | 4,335
 islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,041 articles have been extended.
+61,973 (87.2%) of 71,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Sri Lanka coconut prices drop 5.4-pct as production recovers
+
+*2025-08-18 11:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-drop-5-4-pct-as-production-recovers-236984/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices fell 5.4 percent at a weekly auction, Coconut Development Authority data showed.
+
+The average price for 1,000 nuts was 133,623.91 rupees on August 16.
+
+“The highest and the lowest price for a nut was not declared,” CDA officials said.
+
+Coconut production has increased by 18.3 percent on a year on year basis in June following a recovery since February, the latest central bank’s Agriculture Sector Data Bulletin said.
+
+CB data showed nut production was up from about 170 million nuts in January this year to  289.5 in June.
+
+Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB
+
+The number of nuts offered dipped to 658,480 from 751,836 a week earlier, while nuts sold climbed to 582,000 from 523,823.
+
+In the local market, the wholesale price for a large nut was 170-180 rupees, while small nuts were 140-160 a piece on August 14.
+
+Local wholesale prices of coconut oil were 880,000 to 900,000 rupees per metric ton. (Colombo/Aug18/2025)
+
+◼️
+
+[Data](articles/a6218f28.json)
+
+---
 
 ### Fitch lowers Sri Lanka’s HDFC Bank outlook to negative, retains ‘BB+(lka)’ rating
 
@@ -1753,23 +1781,5 @@ Von der Leyen, head of the European Union’s executive branch, posted on X that
 ...
 
 [Data](articles/c22ec88b.json)
-
----
-
-### வடக்கு, கிழக்கு மக்களுக்கு அமைச்சர் விசேட அறிவித்தல்
-
-*2025-08-17 17:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-மக்களுக்கு-அமைச்சர்-விசேட-அறிவித்தல்/175-363071) · `ta`
-
-அரசாங்கத்தையும் பாதுகாப்புப் படையினரையும் குறிவைத்து வெளியிடப்படும் திரிபுபடுத்தப்பட்ட கதைகள் மற்றும் பொய்யான பிரச்சாரங்களால் தவறாக வழிநடத்தப்பட வேண்டாம் என்று அமைச்சரவை ஊடகப் பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ, வடக்கு மற்றும் கிழக்கு மக்களை வலியுறுத்தியுள்ளார்.
-
-12வது சிங்கப் படைப்பிரிவின் முல்லைத்தீவு சிவநகர் முகாமுக்குள் வலுக்கட்டாயமாக நுழைய முயன்றதாகக் கூறப்படும் ஒரு நபரின் மரணம் தொடர்பாக நாளை (18) தொடங்க திட்டமிடப்பட்டுள்ள ஹர்த்தால் பிரச்சாரத்தை அடுத்து அவரது கருத்துக்கள் வந்துள்ளன.
-
-சம்பவம் தொடர்பான விசாரணைகள் ஏற்கனவே நடைபெற்று வருவதாகவும், மூன்று இராணுவ வீரர்கள் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டுள்ளதாகவும் அமைச்சர் ஜெயதிஸ்ஸ குறிப்பிட்டார்.
-
-"சில அரசியல் குழுக்கள் தவறான தகவல்களைப் பரப்புவதன் மூலமும், வடக்கு மற்றும் கிழக்கு மக்களிடையே அமைதியின்மையை உருவாக்குவதன் மூலமும் இந்த சூழ்நிலையைப் பயன்படுத்த முயற்சிக்கின்றன. உண்மைகளைப் புரிந்துகொண்டு அமைதியாகச் செயல்படுமாறு நான் பொதுமக்களை கேட்டுக்கொள்கிறேன்," என்று அவர் கூறினார்.
-
-◼️
-
-[Data](articles/954772e3.json)
 
 ---

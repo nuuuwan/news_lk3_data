@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 13:52:28**
+As of **2025-08-18 14:08:33**
 
 ## Newspaper Stats
 
-*Scraped **71,057** Articles*
+*Scraped **71,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,854
 adaderanalk | 8,899
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,259
+adaderanasinhalalk | 12,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,057 articles have been extended.
+61,973 (87.2%) of 71,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### කඩුවෙලින් සොයාගත් ගිනිඅවි ව්‍යාජ ඒවා -  පොලීසිය පවසයි
+
+*2025-08-18 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213503) · `si`
+
+කඩුවෙල, කොරතොට, තුන්අදහේන ප්‍රදේශයේ මාර්ගයක බෑගයක් තුළ දමා තිබිය දී සොයාගත් ගිනිඅවි ව්‍යාජ බව පොලීසිය තහවුරු කරගෙන තිබේ.
+
+නමුත් එම බෑගයේ තිබී සොයාගත් ටී - 56 මැගසීනය ව්‍යාජ නොවන බව තහවුරු වී ඇත.
+
+අද (18) දහවල් මාර්ගයක තිබී ටී - 56 ගිනිඅවි තුනක්, බව්‍රනින් වර්ගයේ පිස්තෝල 5ක් සහ ටී - 56 මැගසීනයක් නවගමුව පොලීසිය විසින් සොයාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/a62b6de1.json)
+
+---
 
 ### මහ පාරේ තිබී ටී - 56 ගිනිඅවි තුනක් සොයාගනී
 
@@ -1787,19 +1803,5 @@ SANASA Life Insurance continues to enhance its digital footprint through innovat
 ...
 
 [Data](articles/3177516f.json)
-
----
-
-### Siyapatha Finance expands its network with opening of 55th branch in Ambalangoda
-
-*2025-08-17 18:19:00* · [`islandlk`](http://island.lk/siyapatha-finance-expands-its-network-with-opening-of-55th-branch-in-ambalangoda/) · `en`
-
-Siyapatha Finance PLC, a fully owned subsidiary of Sampath Bank, has further strengthened its islandwide presence with the inauguration of its 55th branch in Ambalangoda. Strategically located at No. 29, Galle Road, this expansion underscores the company’s dedication to delivering accessible and customer-focused financial solutions to communities across Sri Lanka.
-
-The opening ceremony was attended by Ananda Seneviratne, Managing Director of Siyapatha Finance PLC, alongside Directors Jayanath Gunawardena and Sriyani Ranathunga, Chief Operating Officer Rajeev De Silva, and members of the Senior Management. The event also saw the participation of distinguished local government officials, including Ambalangoda Divisional Secretary Hasanthi Niroshani, Chief Inspector of Police Ambalangoda Ranaweera, Grama Niladhari Hansa Kumara de Silva, and Trade Association President Sarath De Silva, as well as representatives from the banking, insurance, and financial sectors.
-
-...
-
-[Data](articles/35f648ad.json)
 
 ---

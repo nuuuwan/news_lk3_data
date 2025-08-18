@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 19:53:29**
+As of **2025-08-18 20:07:29**
 
 ## Newspaper Stats
 
-*Scraped **71,098** Articles*
+*Scraped **71,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,919
+adaderanalk | 8,922
 tamilmirrorlk | 10,463
-virakesarilk | 11,780
-adaderanasinhalalk | 12,273
+virakesarilk | 11,782
+adaderanasinhalalk | 12,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,098 articles have been extended.
+61,973 (87.2%) of 71,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### කොටහේනේ දැරියගේ සිද්ධියේ විමර්ශන ගැන පොලිසියෙන් අධිකරණයට දැනුම්දීමක්
+
+*2025-08-18 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213517) · `si`
+
+ඉකුත්දා කොළඹ කොටහේන ප්‍රදේශයේ ඉහළ මහලකින් පැන සියදිවි නසාගත් පාසල් ශිෂ්‍යාව ලිංගික අපයෝජනයට ලක් කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදු කරන බව පොලීසිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+
+මෙම සිද්ධියට අදාළ පැමිණිල්ල අද කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+මෙහිදී විමර්ශන සිදු කරන ළමා හා කාන්තා කාර්යාංශයේ කොළඹ උතුර කොට්ඨාසයේ ස්ථානාධිපතිවරිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධියට අදාළව සොයා ගනු ලැබූ සී.සී.ටී.වී දර්ශන ඔස්සේ වැඩිදුර විමර්ශන සිදු කරන බව සඳහන් කළේය.
+
+වැඩිදුර විමර්ශන කටයුතු සඳහා එම සී.සී.ටී.වී දර්ශන මොරටුව විශ්වවිද්‍යාලය වෙත යොමු කර ඇති බවත් එම විමර්ශන වාර්තා මෙතෙක් ලැබී නොමැති බවත් පොලීසිය සඳහන් කර සිටියේය.
+
+ඊට අමතරව ප්‍රකාශ ගණනාවක් සටහන් කර ගැනීමට නියමිතව තිබෙන බවත් පොලීසිය සඳහන් කළේය.
+
+එමෙන්ම මෙම සිද්ධියට අදාළ වෛද්‍ය වාර්තා ද පොලීසිය විසින් අධිකරණයට ඉදිරිපත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම විමර්ශනවල ප්‍රගතිය සැප්තැම්බර් මස 29 වනදා අධිකරණයට ඉදිරිපත් කරන ලෙස නියම කළේය.
+
+◼️
+
+[Data](articles/f9165805.json)
+
+---
+
+### Chinese FM Wang Yi arrives in India to meet key leaders
+
+*2025-08-18 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111603/chinese-fm-wang-yi-arrives-in-india-to-meet-key-leaders) · `en`
+
+Chinese Foreign Minister Wang Yi landed in New Delhi today for a two-day official visit, during which he will hold the next round of Special Representatives (SR) dialogue on the boundary question with National Security Advisor Ajit Doval and also meet Prime Minister Narendra Modi.
+
+MEA spokesperson Randhir Jaiswal announced Wang’s arrival on X, writing: ‘Welcome to FM Mr. Wang Yi of China as he arrives in New Delhi on an official visit. Important engagements of the India-China Special Representatives and on bilateral relations over the next two days.’
+
+...
+
+[Data](articles/afac4dc3.json)
+
+---
+
+### கொரியத் தூதுவர் ஜனாதிபதி செயலாளரை சந்திப்பு - இலங்கையுடன் நெருங்கிய உறவுகளுக்கு புதிய கொரிய ஆட்சி தயாராக உள்ளது என மியோன் லீ தெரிவித்தார்
+
+*2025-08-18 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222826) · `ta`
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவிற்கும் இலங்கைக்கான கொரியத் தூதுவர் மியோன் லீ (Miyon LEE) அவர்களுக்கும் இடையிலான சந்திப்பு திங்கட்கிழமை (18) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+கொரியாவின் புதிய ஆட்சியின் கீழ் இலங்கை அரசாங்கத்தின் முன்னுரிமைகளை அடையாளம் கண்டு  நெருக்கமாக செயற்பட கொரியா தயாராக உள்ளதாக இலங்கைக்கான கொரியத் தூதுவர் மியோன் லீ ( Miyon LEE)  தெரிவித்தார்.
+
+இலங்கை அரசாங்கத்தின் முன்னுரிமைகளின் அடிப்படையில் தொடர்ந்து ஆதரவை வழங்க கொரிய அரசாங்கம் தயாராக உள்ளது என்றும் தூதுவர் வலியுறுத்தினார்.
+
+கொரிய சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (KOICA) புதிய பிரதிநிதிகள்  இங்கு ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவை சந்தித்ததுடன்,  இலங்கையில் முன்னெடுக்கப்படும் KOICA திட்டங்களை விரைவாக முடிப்பது குறித்தும் இதன்போது கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/7f43628b.json)
+
+---
+
+### Strike will continue until demands are met – Postal Trade Unions
+
+*2025-08-18 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111602/strike-will-continue-until-demands-are-met-postal-trade-unions) · `en`
+
+Postal trade unions have declared that they will continue their strike until all their demands are fulfilled.
+
+The unions began the strike last afternoon (17), citing 19 unresolved demands, and have claimed that no discussions have yet been initiated by authorities regarding their issues.
+
+Due to the strike, postal operations across the island have been severely affected, with services in many post offices coming to a standstill.
+
+Chinthaka Bandara, the co- convener of the United Postal Trade Union Front stated that they are prepared to continue the strike action until satisfactory solutions are provided.
+
+◼️
+
+[Data](articles/de7f06b0.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் – அருண் ஜயசேகரவை மட்டுமே பாதுகாக்கும் அரசாங்கம் நியாயமற்றது: உதய கம்மன்பில
+
+*2025-08-18 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222825) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல்கள் தொடர்பில் இராணுவத்தினர் மீது குற்றச்சாட்டுக்கள் முன்வைக்கப்படுகின்ற நிலையில் கிழக்கு மாகாணத்தின் முன்னாள் கட்டளைத் தளபதியாக பதவி வகித்த பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவைவை மாத்திரம் பாதுகாக்க அரசாங்க முயற்சிப்பது எவ்விதத்தில் நியாயமாகும். இராணுவத்தின் மீது பற்று இருக்குமாயின் அருண ஜயசேகர பதவி விலக வேண்டும் என்று பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுறு ஹெல உறுமய கட்சியின் காரியாலயத்தில் திங்கட்கிழமை (18) நடைப்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவுக்கு எதிராக எதிர்க்கட்சிகள் கொண்டு வந்துள்ள நம்பிக்கையில்லா பிரேரணையால் அரசாங்கம் நெருக்கடிக்குள்ளாகியுள்ளது. அமைச்சரவை அமைச்சர்களுக்கு கூட்டுப்பொறுப்பு உள்ளதால் அவர்களுக்கு மாத்திரம் தான் நம்பிக்கையில்லா பிரேரணை கொண்டு வர வேண்டும் என்று ஆளும் தரப்பின் இளம் உறுப்பினர்கள் குறிப்பிடுவது அவர்களின் புலமையை வெளிப்படுத்துகிறது.
+
+...
+
+[Data](articles/ce7cbd63.json)
+
+---
 
 ### Sri Lanka sees 10,934 new active credit cards in June 2025
 
@@ -71,6 +161,28 @@ They said Sri Lanka’s economic recovery and stability have helped customers to
 ◼️
 
 [Data](articles/589d6e13.json)
+
+---
+
+### Complaint filed with Bribery Commission against Energy Minister
+
+*2025-08-18 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111601/complaint-filed-with-bribery-commission-against-energy-minister) · `en`
+
+A complaint has been filed with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against Minister of Energy Kumara Jayakody, alleging involvement in corrupt activities.
+
+The complaint was lodged by Sanka Chandima Abeywardena, Chairman of the Sri Lanka Haritha Sangvidhanaya (Green Organisation).
+
+According to the complaint, the Minister is accused of causing financial losses to the government during his tenure at the Fertilizer Corporation by being involved in a corrupt tender transaction.
+
+The complaint also highlights other decisions made by him while serving as a Cabinet Minister, which allegedly resulted in further financial loss to the state.
+
+Sanka Chandima Abeywardena stated that all relevant documents and evidence have been handed over to the Bribery Commission.
+
+He further demanded that President Anura Kumara Dissanayake take immediate action by removing Minister Jayakody from his position.
+
+...
+
+[Data](articles/1fffe2eb.json)
 
 ---
 
@@ -1755,97 +1867,5 @@ The Group’s balanced portfolio and sectoral diversity continued to drive resil
 ...
 
 [Data](articles/a7e648b2.json)
-
----
-
-### hSenidBiz starts FY26 strong with steady recurring revenue and margin gains
-
-*2025-08-18 01:13:04* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-starts-FY26-strong-with-steady-recurring-revenue-and-margin-gains/34-780407) · `en`
-
-hSenid Business Solutions PLC (hSenidBiz) announced its financial results for the first quarter of FY2026, reporting stable topline performance and the continuation of profitability improvements seen in the prior quarter. Total revenue for the quarter reached Rs. 471.7 million, with recurring subscription revenues growing 36 per cent year-on-year in LKR terms. A decline in professional services revenue, particularly from large on-premise projects, partially offset the strong growth in recurring revenues resulting in a modest 1 percent year-over-year growth in LKR terms and 2 percent in constant currency (USD) terms.
-
-...
-
-[Data](articles/b59bce03.json)
-
----
-
-### Sri Lanka Sustainable Trade and Economic Summit 2025 a success
-
-*2025-08-18 01:08:38* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Sustainable-Trade-and-Economic-Summit-2025-a-success/34-780406) · `en`
-
-WEConnect International, in partnership with the US Department of State, hosted the Sri Lanka Sustainable Trade and Economic Summit 2025 on 7 August at Shangri-La, Colombo.
-
-This high-level gathering convened over 200 key stakeholders, including women business owners, corporate leaders, Government officials, and trade experts, to accelerate economic growth through enterprise development and international business collaboration.
-
-The Summit featured policy dialogues, business matchmaking, and success stories of entrepreneurs who have grown their enterprises through trade. A central theme was unlocking new avenues for Sri Lankan small businesses to scale and participate in cross-border commerce.
-
-Sri Lanka Export Development Board CEO and Chairman Mangala Wijesinghe during his address at the Summit noted: “This is not just a Summit — it is a movement to elevate Sri Lankan entrepreneurship. Women-owned businesses are essential to our national recovery and long-term competitiveness.”
-
-...
-
-[Data](articles/26f324e2.json)
-
----
-
-### SLINTEC’s accredited food testing services boost  Sri Lanka’s export potential
-
-*2025-08-18 01:05:05* · [`dailyftlk`](https://www.ft.lk/business/SLINTEC-s-accredited-food-testing-services-boost-Sri-Lanka-s-export-potential/34-780405) · `en`
-
-The Sri Lanka Institute of Nanotechnology (SLINTEC) has reached a major milestone, with its Advanced Analytical Services Laboratory receiving ISO/IEC 17025:2017 accreditation from the Sri Lanka Accreditation Board (SLAB). This internationally recognised accreditation confirms the laboratory’s technical competence to perform critical food safety tests required by both domestic and global markets.
-
-The SLINTEC is now officially accredited to conduct aflatoxin testing, phthalate detection, and nutritional analysis in line with front-of-pack labelling requirements. These are key tests that help agri-food producers meet the stringent food safety and regulatory standards both locally and in export markets such as the EU, US, and Middle East.
-
-...
-
-[Data](articles/784ae143.json)
-
----
-
-### New boutique hotel Trillium Express opens in Colombo 7 after $ 4 m investment
-
-*2025-08-18 00:59:58* · [`dailyftlk`](https://www.ft.lk/business/New-boutique-hotel-Trillium-Express-opens-in-Colombo-7-after-4-m-investment/34-780404) · `en`
-
-Trillium Group Chairman Janaka Ratnayake delivering the inaugural press briefing for Trillium Express – Ward Place along with Directors (from left): Lekhya, Rachitha, and Kruthya Ratnayake
-
-Trillium Group last week opened Trillium Express – Ward Place, a vibrant new boutique city hotel redefining contemporary hospitality in the heart of Colombo 7, built with an investment of $ 4 million.
-
-Located at 293 Ward Place, Colombo 7, near Sri Lanka’s largest and busiest traffic hub hustling and bustling with commuters — Borella Junction — the hotel offers unmatched connectivity, providing guests with quick access to Bandaranaike International Airport, Colombo’s central business district, and the city’s suburban areas.
-
-...
-
-[Data](articles/ecb1f222.json)
-
----
-
-### Frostaire celebrates 45 years of excellence in air conditioning solutions
-
-*2025-08-18 00:56:58* · [`dailyftlk`](https://www.ft.lk/business/Frostaire-celebrates-45-years-of-excellence-in-air-conditioning-solutions/34-780403) · `en`
-
-Frostaire recently marked a significant milestone by celebrating 45 years of dedicated services, innovation, and leadership in Sri Lanka’s air conditioning industry.
-
-Founded on 18 August 1980, Frostaire began as a modest service operation and has grown into one of Sri Lanka’s most respected names in air conditioning solutions, with a reputation built on trust, technical expertise, and customer satisfaction. The company has consistently delivered cutting-edge products and reliable after-sales services across residential, commercial, and industrial sectors islandwide.
-
-“Celebrating 45 years is more than a number—it reflects our commitment to excellence, our loyal customers, and the hard-working team behind Frostaire,” said Frostaire Managing Director Mukthar Marikkar. “We have grown with our client and adapted to the changing landscape with energy-efficient, eco-friendly, and smart air conditioning systems.”
-
-...
-
-[Data](articles/4a08a8c1.json)
-
----
-
-### Lanka-founded J Med Supply named to Inc. 5000 list of America’s fastest-growing companies
-
-*2025-08-18 00:53:40* · [`dailyftlk`](https://www.ft.lk/business/Lanka-founded-J-Med-Supply-named-to-Inc-5000-list-of-America-s-fastest-growing-companies/34-780402) · `en`
-
-J Med Supply Inc., a dynamic force in the US healthcare sector, has earned a coveted spot on the 2025 Inc. 5000 list, a prestigious ranking of the fastest-growing private companies in the US.
-
-The recognition marks a milestone in the journey of John Amirthiah, the Sri Lankan-born entrepreneur behind the company’s success.
-
-Founded in 2016 from Amirthiah’s garage, J Med Supply Inc., has grown into one of the largest distributors of durable medical equipment (DME) on the US West Coast. Apart from J Med, Amirthiah is the Founder of J Med’s sister company Motion Complex Rehab (MCR), as well as Jive Healthcare and JCare, all under J Holdings Inc., supporting the healthcare industry.
-
-...
-
-[Data](articles/82ffcc4e.json)
 
 ---

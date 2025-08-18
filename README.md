@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 12:08:59**
+As of **2025-08-18 12:29:21**
 
 ## Newspaper Stats
 
-*Scraped **71,042** Articles*
+*Scraped **71,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,854
 adaderanalk | 8,889
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,254
+adaderanasinhalalk | 12,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,042 articles have been extended.
+61,973 (87.2%) of 71,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### මිහින්තලේ හිමි CIDයට
+
+*2025-08-18 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213497) · `si`
+
+මිහින්තලා රාජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වළවාහැංගුණවැවේ ධම්මරතන හිමියන් අද (18) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිලි දෙකක් ඉදිරිපත් කිරීම සඳහායි.
+
+◼️
+
+[Data](articles/efffa73a.json)
+
+---
 
 ### Sri Lanka coconut prices drop 5.4-pct as production recovers
 
@@ -44,7 +58,7 @@ The average price for 1,000 nuts was 133,623.91 rupees on August 16.
 
 Coconut production has increased by 18.3 percent on a year on year basis in June following a recovery since February, the latest central bank’s Agriculture Sector Data Bulletin said.
 
-CB data showed nut production was up from about 170 million nuts in January this year to  289.5 in June.
+CB data showed nut production was up from about 170 million nuts in January to 289.5 in June.
 
 Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB
 
@@ -1763,23 +1777,5 @@ The students will study at the main campus selected majors aligned with Sri Lank
 ...
 
 [Data](articles/d9bef4f0.json)
-
----
-
-### European leaders to join Ukraine’s Zelenskyy for White House meeting with Trump
-
-*2025-08-17 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111554/european-leaders-to-join-ukraines-zelenskyy-for-white-house-meeting-with-trump) · `en`
-
-European and NATO leaders will join Ukraine’s President Volodymyr Zelenskyy for his crucial meeting with President Trump on Monday, European Commission President Ursula von der Leyen said on Sunday.
-
-The move in relation to the key White House meeting is an apparent effort to prevent a repeat of the heated encounter Zelenskyy faced when he met Mr. Trump in the Oval Office in February.
-
-The European leaders’ presence at Zelenskyy’s side, demonstrating Europe’s support for Ukraine, could potentially help ease concerns in Kyiv and in other European capitals that Zelenskyy risks being railroaded into a peace deal that Mr. Trump says he wants to broker with Russia.
-
-Von der Leyen, head of the European Union’s executive branch, posted on X that “at the request of President Zelenskyy, I will join the meeting with President Trump and other European leaders in the White House tomorrow.”
-
-...
-
-[Data](articles/c22ec88b.json)
 
 ---

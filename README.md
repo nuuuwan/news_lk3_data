@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 12:51:41**
+As of **2025-08-18 13:08:07**
 
 ## Newspaper Stats
 
-*Scraped **71,044** Articles*
+*Scraped **71,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,22 +17,52 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,889
+adaderanalk | 8,899
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,256
+adaderanasinhalalk | 12,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,044 articles have been extended.
+61,973 (87.2%) of 71,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
 
-### AIR CANADA සේවක වර්ජනය අඛණ්ඩව
+### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
+
+*2025-08-18 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213499) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා ලබන 25 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ කිරිබත්ගොඩ ප්‍රදේශයේ ඉඩම් වංචා කිරීමේ සිදුවීමකට අදාළව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදීය.
+
+ඔහුව අද (18) මහර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/c2b1353f.json)
+
+---
+
+### Ex-State Minister Prasanna Ranaweera further remanded
+
+*2025-08-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111579/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
+
+Former State Minister Prasanna Ranaweera has been remanded until August 25 by the Mahara Magistrate’s Court, Ada Derana reporter said.
+
+Ranaweera and several others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
+
+◼️
+
+[Data](articles/8605ba75.json)
+
+---
+
+### Air Canada සේවක වර්ජනය අඛණ්ඩව
 
 *2025-08-18 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213498) · `si`
 
@@ -50,6 +80,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trump blocks Ukraine from joining NATO, orders Crimea to Russia ahead of talks with Zelensky
+
+*2025-08-18 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111578/trump-blocks-ukraine-from-joining-nato-orders-crimea-to-russia-ahead-of-talks-with-zelensky) · `en`
+
+US President Donald Trump said reclaiming Crimea or entering NATO were off the table for Ukraine, as President Volodymyr Zelensky arrived in Washington for Monday talks aimed at ending the war with Russia.
+
+Zelensky, who has repeatedly rejected territorial concessions, will meet Trump in Washington on Monday, accompanied by European Commission chief Ursula von der Leyen and other leaders.
+
+The meeting comes on the heels of a summit between Trump and Russia’s Vladimir Putin in Alaska on Friday, which failed to yield a ceasefire breakthrough but produced promises from both leaders to provide “robust security guarantees” to Ukraine.
+
+Zelensky was not invited to the Alaska meeting, after which Trump pivoted to the long-held Russian position that a ceasefire was not needed before a final peace deal.
+
+“President Zelenskyy of Ukraine can end the war with Russia almost immediately, if he wants to, or he can continue to fight,” Trump posted on his social media platform.
+
+...
+
+[Data](articles/437d596f.json)
+
+---
+
+### Chief Incumbent of Mihintale Rajamaha Viharaya at CID to lodge complaints
+
+*2025-08-18 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111577/chief-incumbent-of-mihintale-rajamaha-viharaya-at-cid-to-lodge-complaints-) · `en`
+
+The Chief Incumbent of the Mihintale Rajamaha Viharaya, Ven. Dr. Walawahengunawe Dhammarathana Thero, arrived at the Criminal Investigation Department (CID) a short while ago (18).
+
+This according to Ada Derana reporter is to lodge two complaints with the CID.
+
+◼️
+
+[Data](articles/7873e564.json)
+
+---
+
 ### මිහින්තලේ හිමි CIDයට
 
 *2025-08-18 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213497) · `si`
@@ -61,6 +125,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/efffa73a.json)
+
+---
+
+### Govt institutions, schools in North functioning as usual despite ‘hartal’ called by ITAK
+
+*2025-08-18 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111576/govt-institutions-schools-in-north-functioning-as-usual-despite-hartal-called-by-itak) · `en`
+
+A ‘hartal’ called in the Northern and Eastern Provinces, demanding justice for the recent death of a 32-year-old man in Mullaitivu and based on several other demands, has reportedly been unsuccessful.
+
+Although several political groups, including the Ilankai Tamil Arasu Kachchi (ITAK), had called for the hartal, our correspondent reported that government institutions and schools in the Northern Province were functioning as usual.
+
+While some trade associations had expressed support for the hartal, a number of other trade associations issued statements saying they would not support it.
+
+Meanwhile, in certain areas of the Batticaloa District today (18), many business establishments, public markets, private institutions, and other places were reportedly closed.
+
+Although this caused some disruption to daily life, transportation services were reported to be operating as normal.
+
+...
+
+[Data](articles/27ffda58.json)
+
+---
+
+### Okkampitiya OIC’s bail application rejected
+
+*2025-08-18 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111575/okkampitiya-oics-bail-application-rejected) · `en`
+
+The Colombo Magistrate’s Court has rejected the bail application filed by the Officer-in-Charge (OIC) of the Okkampitiya Police, who was arrested in connection with soliciting a bribe of Rs. 40,000 from a businessman.
+
+The complaint was heard today before Colombo Chief Magistrate Thanuja Lakmali, and the attorney representing the suspect stated that his client’s daughter is sitting for the 2025 GCE Advanced Level (A/L) examination and therefore requested that the suspect be released on bail as a special consideration.
+
+Meanwhile, the officials from the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) opposed the bail request, stating that investigations into the suspect are ongoing.
+
+After considering the facts presented by both parties, the Colombo Chief Magistrate rejected the bail application and ordered that he be further remanded until August 25.
+
+◼️
+
+[Data](articles/32159d0b.json)
 
 ---
 
@@ -110,6 +212,82 @@ Fitch Revises Outlook on HDFC Bank to Negative; Affirms National Rating at ‘BB
 
 ---
 
+### CEB records over Rs. 5 bln profit in 2025 second quarter
+
+*2025-08-18 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111573/ceb-records-over-rs-5-bln-profit-in-2025-second-quarter-) · `en`
+
+The Ceylon Electricity Board (CEB) has reported a profit of Rs. 5.31 billion for the financial quarter ending on June 30, 2025.
+
+This marks a significant turnaround compared to the Rs. 18.47 billion in losses recorded in the previous quarter, which ended on March 31, 2025.
+
+Analysts attribute the CEB’s return to profitability to the electricity tariff revision implemented in June 2025.
+
+However, the latest figure reflects an 85% decline compared to the Rs. 34.53 billion profit reported in the same quarter of 2024.
+
+After the incumbent government came to power, electricity tariffs were reduced by around 20% in January 2025, a move that contributed heavily to the losses reported in the first quarter.
+
+The International Monetary Fund (IMF) has consistently stressed the importance of restoring cost-reflective electricity pricing as a prerequisite for Sri Lanka to secure the next tranche of its Extended Fund Facility (EFF).
+
+...
+
+[Data](articles/a3b5991f.json)
+
+---
+
+### Another 641 persons arrested in special island-wide police raids
+
+*2025-08-18 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111572/another-641-persons-arrested-in-special-island-wide-police-raids) · `en`
+
+A total of 641 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (17), the Police Media Division said.
+
+As part of the operation, 25,303 persons were subjected to inspection, the Police Media Division noted.
+
+Police have identified 19 individuals directly linked to criminal activities while 431 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 73 drunk drivers were apprehended while a further 19 reckless drivers and 3,580 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/0497ae9f.json)
+
+---
+
+### Man drowns while fishing in a lake in Sevanagala
+
+*2025-08-18 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111571/man-drowns-while-fishing-in-a-lake-in-sevanagala) · `en`
+
+A 42-year-old man has tragically drowned and died in the Haburugala Bodhiraja Lake, in Sevanagala.
+
+The deceased, a resident of the Mahagama Colony in Sevanagala, is reported to have fallen into a pit and drowned while fishing with another individual in the lake.
+
+The corpse has been placed at the morgue of the District General Hospital in Embilipitiya.
+
+◼️
+
+[Data](articles/ca0cfad6.json)
+
+---
+
+### Air Canada grounded as striking union defies order to get back to work
+
+*2025-08-18 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111570/air-canada-grounded-as-striking-union-defies-order-to-get-back-to-work) · `en`
+
+Air Canada’s,  fleet of hundreds of planes remained grounded on Monday morning after striking flight attendants refused a government-backed order to get back to work and called on the airline to return to the bargaining table.
+
+The carrier, which normally carries 130,000 people daily and is part of the global Star Alliance of airlines, had planned to start ramping up operations on Sunday evening, after a labor relations board ordered the union to return to work and start binding arbitration.
+
+The union said no, setting up an almost unprecedented standoff with the Canadian government, which had requested the back-to-work order.
+
+The Canadian Union of Public Employees, which represents 10,000 Air Canada cabin crew, had pushed for a negotiated solution, saying binding arbitration would take pressure off the airline.
+
+...
+
+[Data](articles/9a4ad132.json)
+
+---
+
 ### අල්ලස් ගත් පොලිස් OICගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
 
 *2025-08-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213496) · `si`
@@ -149,6 +327,26 @@ Fitch Revises Outlook on HDFC Bank to Negative; Affirms National Rating at ‘BB
 ...
 
 [Data](articles/6ef99ecc.json)
+
+---
+
+### Provincial Council Elections likely in first half of 2026 - Minister Bimal
+
+*2025-08-18 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111569/provincial-council-elections-likely-in-first-half-of-2026-minister-bimal) · `en`
+
+Minister Bimal Rathnayake revealed that constitutional reforms will be introduced following the conducting of the Provincial Council Elections.
+
+Speaking at a press briefing held in Kilinochchi yesterday (17), the Minister said the PC polls are expected to be held within the first six months of next year, once the existing legal issues are resolved.
+
+“We held elections in 2025, and another in November 2024. Our aim is to conduct the Provincial Council Elections within the first half of next year. At present, there are legal obstacles, but we are working to address them,” he explained.
+
+The Minister added that the government has already taken a policy decision to introduce a new Constitution, but emphasized that it will be a comprehensive process.
+
+“Our priority is to hold the Provincial Council Elections before moving forward with constitutional reforms. Once the elections are completed, we will begin a broader political program on constitutional changes,” he said.
+
+◼️
+
+[Data](articles/47ce331a.json)
 
 ---
 
@@ -1593,193 +1791,5 @@ Isuru Gunasekara has been honoured as the Best Automobile Training Lecturer of t
 ...
 
 [Data](articles/00f2b237.json)
-
----
-
-### Govt urges calm as investigations continue into Mullaitivu incident
-
-*2025-08-17 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111555/govt-urges-calm-as-investigations-continue-into-mullaitivu-incident) · `en`
-
-Cabinet Spokesman Minister Dr. Nalinda Jayatissa urged the people of the North and East to avoid being misled by false information and distortions aimed at undermining the government and the country’s security forces.
-
-A ‘hartal’ has been planned for tomorrow (18) in the North and East in protest, and demanding justice and accountability over the recent death of a 32-year-old in Mullaitivu, who had allegedly attempted to forcibly enter a military camp, slated for evacuation, that belongs to the 12th Battalion of the Sinha Regiment, located at Shivanagar in Mullaitivu.
-
-Commenting further on this matter, Minister Nalinda Jayatissa added, “Investigations are underway into this. Three members of the army have already been arrested and handed over to the court.”
-
-He charged that it appears certain political groups are attempting to create unrest among the people of the North and East by “distorting the facts of this incident and spreading false information.”
-
-...
-
-[Data](articles/22e710c9.json)
-
----
-
-### Nestlé advances regenerative agricultural practices in coconut value chain
-
-*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/nestle-advances-regenerative-agricultural-practices-in-coconut-value-chain/) · `en`
-
-As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. The training programme was initially launched in 2024. Building on its success, the second edition was introduced this year to further expand its reach and impact.
-
-Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme trained 25 local coconut famers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
-
-...
-
-[Data](articles/4fa8fc75.json)
-
----
-
-### Sri Lanka striving to win back investors on world stage
-
-*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/sri-lanka-striving-to-win-back-investors-on-world-stage/) · `en`
-
-At the recent Invest Sri Lanka Investor Forum held at Conrad Singapore Marina Bay, Colombo Stock Exchange (CSE) Director Ray Abeywardena set the tone with a powerful message: “Sri Lanka is not merely a story of recovery, it is a story of transformation.”
-
-His remarks captured the essence of the forum, which showcased Sri Lanka’s stable macroeconomic environment, sweeping reforms, and a resurgent capital market – positioning Sri Lanka as a compelling frontier investment destination. The event, organised by the CSE and the Securities and Exchange Commission of Sri Lanka (SEC) in partnership with the Sri Lankan High Commission in Singapore, attracted over 150 investors, sparking immediate market optimism with Rs. 1 billion in foreign-led trades the next morning.
-
-...
-
-[Data](articles/5bd9ce8f.json)
-
----
-
-### SLT Group delivers strong 1H 2025 performance with substantial profit growth
-
-*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/slt-group-delivers-strong-1h-2025-performance-with-substantial-profit-growth/) · `en`
-
-The SLT Group reported strong financial performance for the second quarter and first half of 2025, demonstrating continued momentum through significant improvements in profitability and cost management strategies.
-
-For the second quarter ended June 30, 2025, SLT Group achieved a Profit After Tax (PAT) of Rs. 2.3 billion, compared to a loss of Rs. 479 million in Q2 2024. At company level, SLT PLC recorded a strong rebound with PAT of Rs. 1.3 billion versus a loss of Rs. 14 million year-over-year (YoY), while Mobitel contributed Rs. 587 million compared to a loss of Rs. 610 million in Q2 2024.
-
-The Group’s half-year performance was equally impressive, with PAT reaching Rs. 4.3 billion compared to a loss of Rs. 323 million in 1H 2024.
-
-...
-
-[Data](articles/7e6fbc45.json)
-
----
-
-### Luxury aged care resort opens in Negombo
-
-*2025-08-17 18:04:00* · [`islandlk`](http://island.lk/luxury-aged-care-resort-opens-in-negombo/) · `en`
-
-A new chapter in elderly care has begun with the opening of Grand Leisure Care and Wellness Resort, the island’s first luxury wellness resort dedicated to seniors, post-recovery patients, and those seeking long-term comfort and holistic care. Located in the peaceful surroundings of Palagathure East, Kochchikade, Negombo, the newly opened resort is already drawing attention for its unique blend of high-quality hospitality, healthcare, and emotional well-being setting a new standard for senior living in Sri Lanka.
-
-“We designed Grand Leisure as more than just a retirement home. It’s a sanctuary where senior citizens can live with dignity, independence, and joy supported by professional care and world-class facilities,” said a spokesperson for the resort.
-
-...
-
-[Data](articles/e064b614.json)
-
----
-
-### මාතර කොටුවෙන් හමුවූ ලන්දේසි මාර්ගය
-
-*2025-08-17 18:02:35* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-කොටුවෙන්-හමුවූ-ලන්දේසි-මාර්ගය/11-417958) · `si`
-
-මාතර කොටු දොරටුව ආශ්‍රිතව සිදු කල කැණීම් වලදී ලන්දේසි යුගයට අයත් බවට සැක කෙරෙන මාර්ගයේ කොටසක් ඇතුළු වැදගත් සාක්ෂී රැසක් හමු වු බව මධ්‍යම සංස්කෘතික අරමුදලේ අධ්‍යක්ෂ ජනරාල් නිලාන් කුරේ මහතා අද (17) මාතර දී පැවසීය.
-
-පුරා විද්‍යා දෙපාර්තමේන්තුව හා මධ්‍යම සංස්කෘතික අරමුදල එක්ව මේ වන විට මාතර කොටුව ආශ්‍රිතව සිදු කරන කැණීම් කටයුතු නිරික්ෂණය කිරීම සදහා ඒ මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් පැමිණ තිබුණි.
-
-මෙම කැණීම් කටයුතු හේතුවෙන් මීට දින කිහිපයකට පෙර මාතර කොටු දොරකඩ සම්පූර්ණයෙන්ම වසා දමා තිබෙන අතර ඒ සදහා ප්‍රවේශ මාර්ගය ලෙස වෙරළ පාර භාවිතා කිරීමට ජනතාවට  උපදෙස් ලබා දී තිබේ.
-
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වු මධ්‍යම සංස්කෘතික අරමුදලේ අධ්‍යක්ෂ ජනරාල්වරයා මෙසේද කීය.
-
-...
-
-[Data](articles/84881e1c.json)
-
----
-
-### ඉදිරි පැය 36 පළාත් කිහිපයකට තද වැසි
-
-*2025-08-17 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213476) · `si`
-
-ඉදිරි පැය 36 සදහා බලපැවැත්වෙන පරිදි කාළගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-එම දෙපාර්තමේන්තුව සදහන් කළේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-වයඹ පළාතෙත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි ඇති විය හැකි බව සදහන් වේ.
-
-දිවයිනේ සෙසු ප්‍රදේශවල වැසි රහිත කාලගුණ තත්ත්වයක් බලාපොරොත්තු විය හැකි බව ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සදහන් කළේය.
-
-මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට පැයට කිලෝමීටර 50ක පමණ තද සුළං ඇතිවිය හැකියි.
-
-◼️
-
-[Data](articles/ee0d84e9.json)
-
----
-
-### අද වී කිලෝවක නිෂ්පාදන වියදම රු. 78යි
-
-*2025-08-17 17:38:56* · [`adalk`](https://www.ada.lk/breaking_news/අද-වී-කිලෝවක-නිෂ්පාදන-වියදම-රු--78යි/11-417956) · `si`
-
-වත්මන් රජය අවමිලක් නියම කළේ ගොවියා රැකීමට මිසක්, වි ගොවියා වලපල්ලට දැමීමට නොවන බව කෘෂිකර්ම හා පශු සම්පත් නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා සඳහන් කළේය.
-
-මෙවර යල කන්නේ ගොවීන් රජයේ ගබඩාවෙත වී මෙට්ට්‍රික් ටොන් 15,000 කට වැඩි ප්‍රමාණයක් ලබාදී තිබෙන බවද නාමල් කරුණාරත්න මහතා කීවේය.
-
-ඒ මහතා මේ බව සඳහන් කළේ,පොළොන්නරුව දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පසුගිය 16 වෙනිදා පැවැති දේශීය කිරි කර්මාන්තය නගා සිටුවීමේ පොළොන්නරුව වැඩසටහන ආරම්භ කිරීමේ අවස්ථාවට සහභාගි වීමෙන් අනතුරුව කිරි ගොවීන් අමතමිනි.
-
-"අපි ආණ්ඩුව බාරගන්නා විට වී කිලෝවක සහතික මිල තිබ්බේ රුපියල් 99 සත 75 යි. ආණ්ඩුව වී  කිලෝවක මිල නියම කරලා තිබ්බේ රුපියල් 105 යි. රුපියල් 105  යි කියලා ආණ්ඩුව වී ගත්තෙත් නෑ. එදා මේ පොළොන්නරුවේ එක ගබඩාවක් ඇරියෙත්  නෑ. ලංකාවේ සේරම වී ගබඩා වල් බිහිවෙන්න ඇරියා. වඳුරන්ටයි රිලවුන්ටයි තමා වී ගබඩා ඇරියේ,එදා ගොවියාට තිබුනේ වි කිලොවකින් ගොවියට තිබුනේ රුපියල් 5. යි ශත 25 යි.
-
-...
-
-[Data](articles/113e673d.json)
-
----
-
-### සෙලෙන්ස්කිගේ සහායට යුරෝපීය නායකයින් ද අමෙරිකාවට
-
-*2025-08-17 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213475) · `si`
-
-යුක්‍රේන ජනපති වොලොඩිමියර් සෙලෙන්ස්කි හා අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර හෙට (18) ධවල මන්දිරයේ පැවැත්වීමට නියමිත සාකච්ඡාවට යුරෝපීය රාජ්‍ය නායකයින් ද එක්වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
-
-ඒ අනුව ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන්, ජර්මානු චාන්සලර් ෆ්‍රෙඩ්රික් මර්ස්, ෆින්ලන්ත ජනාධිපති ඇලෙක්සැන්ඩර් ස්ටබ්, ඉතාලි අගමැතිනි ජෝර්ජියා මෙලෝනි හෙට (18)  වොෂින්ටනයට යාමට නියමිතය.
-
-එමෙන්ම යුරෝපීය සංගමයේ සභාපතිනි උර්සුලා වොන්ඩර් ලේන් හා නේටෝ මහලේකම් මාර්ක් රූට් යන අයද මේ සඳහා එක්වනු ඇත.
-
-රුසියාව සහ යුක්‍රේනය අතර සටන්විරාමයක් ඇතිකරගැනීම වෙනුවෙන් අමෙරිකානු ජනාධිපතිවරයා හා රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර ඉකුත් සිකුරාදා (15) පැවැත් වූ සාකච්ඡාවේ කරුණු දැනගැනීම සඳහා සෙලෙන්ස්කි මෙලෙස අමෙරිකාවට යාමට නියමිතය.
-
-මෙම තීරණාත්මක සාකච්ඡාවෙන් පසු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්, යුක්‍රේන සහ යුරෝපා රටවල නායකයින් කිහිප දෙනෙකු සමගම දුරකතන සාකච්ඡාවක් ද පවත්වා තිබේ.
-
-◼️
-
-[Data](articles/0a658c64.json)
-
----
-
-### Vietnam’s Cuu Long University gives Sri Lanka students full scholarships
-
-*2025-08-17 17:32:00* · [`economynextcom`](https://economynext.com/vietnams-cuu-long-university-gives-sri-lanka-students-full-scholarships-236882/) · `en`
-
-ECONOMYNEXT – Vietnam’s Cuu Long University has awarded five full scholarships to students in Sri Lanka to study in the South East Asian nation for five years.
-
-The first four selected students met Vietnam’s Ambassador to Sri Lanka Trinh Thi Tam before leaving to begin their studies on August 18, the online portal Nguoi Lao Dong News reported.
-
-After studying Vietnamese for one year, the students would take an undergraduate course for four years.
-
-There was also the option of taking a graduate program for two years.
-
-Cuu Long University would provide free tuition, free dormitory with wifi and electricity, a living allowance of about 3.6 million dong (about 140 US dollars) as well as a roundtrip air ticket, the report said.
-
-The students will study at the main campus selected majors aligned with Sri Lanka’s development needs, including High-Tech Agriculture, Business Administration, Information Technology, Public Health, and Linguistics.
-
-...
-
-[Data](articles/f78fe758.json)
-
----
-
-### ஊடகவியலாளர் குமணனிடம் ஏழு மணித்தியாலம் விசாரணை
-
-*2025-08-17 17:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்-குமணனிடம்-ஏழு-மணித்தியாலம்-விசாரணை/175-363073) · `ta`
-
-முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன் பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட நிலையில் ஞாயிற்றக்கிழமை (17) அன்று காலை 9.30 மணிக்கு  அவர்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றார்.
-
-விசாரணைக்காக அழைக்கப்பட்ட குமணன் சட்டத்தரணி நடராசா காண்டீபனுடன் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணை பிரிவில் விசாரணைக்காக சென்ற நிலையில் சுமார் பத்து மணியளவில் ஆரம்பித்த விசாரணை சுமார் ஏழு   மணித்தியாலங்களாக தொடர்ச்சியாக இடம்பெற்று சற்று முன்னர் நிறைவடைந்துள்ளது.
-
-◼️
-
-[Data](articles/1f875471.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 21:50:24**
+As of **2025-08-18 22:08:21**
 
 ## Newspaper Stats
 
-*Scraped **71,106** Articles*
+*Scraped **71,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,922
+adaderanalk | 8,923
 tamilmirrorlk | 10,463
 virakesarilk | 11,782
 adaderanasinhalalk | 12,276
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,106 articles have been extended.
+61,973 (87.2%) of 71,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### US launches inaugural Young South Asian Leaders Initiative workshop in Colombo
+
+*2025-08-18 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111604/us-launches-inaugural-young-south-asian-leaders-initiative-workshop-in-colombo) · `en`
+
+U.S. Ambassador to Sri Lanka Julie Chung, Acting Deputy Assistant Secretary for South and Central Asian Affairs Shelly Seaver, and Minister of Youth Affairs and Sports Sunil Gamage opened the inaugural workshop of the Young South Asian Leaders Initiative (YSALI) in Colombo today (18).
+
+YSALI is a U.S. government-funded program aimed at empowering youth leaders, promoting peace, and bolstering economic growth across South Asia.
+
+More than 80 YSALI participants—competitively selected from alumni of previous U.S. government initiatives—represent the next generation of South Asian leaders and innovators in business, government, academia, health, and other fields.
+
+By connecting them with counterparts from across the region, the United States is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the U.S. Embassy said in a statement.
+
+...
+
+[Data](articles/83b87615.json)
+
+---
 
 ### අල්ලස් ගත් ක්වාසි විනිසුරුවරයෙකු සහ බිරිඳ අත්අඩංගුවට
 
@@ -1855,25 +1873,5 @@ The new report by UN High Commissioner for Human Rights Volker Türk also descri
 ...
 
 [Data](articles/691579f9.json)
-
----
-
-### Govt. calls for calm amid hartal in North and East over Mullaitivu death
-
-*2025-08-18 01:41:36* · [`dailyftlk`](https://www.ft.lk/news/Govt-calls-for-calm-amid-hartal-in-North-and-East-over-Mullaitivu-death/56-780416) · `en`
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa claims deceased allegedly tried to forcibly enter military camp of 12th Battalion, Sinha Regiment, slated for evacuation
-
-Says three Army personnel arrested and handed to Court; investigations continue
-
-Alleges political groups spread misinformation to create unrest, calls for peaceful public action
-
-Political parties supporting ITAK hartal include; SLMC, TPA, TNA and CWC
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday urged residents of the North and East to remain calm and avoid being misled by misinformation aimed at undermining the Government and the country’s security forces.
-
-...
-
-[Data](articles/bc506b15.json)
 
 ---

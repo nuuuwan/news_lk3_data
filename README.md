@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 15:34:02**
+As of **2025-08-18 15:50:20**
 
 ## Newspaper Stats
 
-*Scraped **71,067** Articles*
+*Scraped **71,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,854
 adaderanalk | 8,904
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,264
+adaderanasinhalalk | 12,265
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,067 articles have been extended.
+61,973 (87.2%) of 71,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### සංචාරක පැමිණීම ලක්ෂ 15 පනී
+
+*2025-08-18 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213508) · `si`
+
+2025 වසරේ මේ දක්වා මෙරටට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව ලක්ෂ 15 සීමාව ඉක්මවා ගොස් තිබේ.
+
+විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කරන්නේ, සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,500,656ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ ඇත.
+
+මීට අමතරව අගෝස්තු මාසයේ පළමු දින 18 තුළ පමණක් සංචාරකයන් 150,000 ඉක්මවා මෙරටට පැමිණ ඇත.
+
+අගෝස්තු මාසයේ පැමිණි සංචාරකයින් අතර පිළිවෙලින් ඉන්දී, බ්‍රිතාන්‍යය, රැසියානු, ජර්මන් සහ චීන ජාතිකයින් ඉදිරියෙන් සිටී.
+
+◼️
+
+[Data](articles/abc42175.json)
+
+---
 
 ### EV පරදා Hybrid වාහන ඉල්ලුම ඉහළට
 
@@ -1783,27 +1801,5 @@ Secretary to the President Dr. Nandika Sanath Kumanayake emphasised that the gov
 ...
 
 [Data](articles/43578957.json)
-
----
-
-### More than 200 missing in flood-hit district in Pakistan, official says
-
-*2025-08-17 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111556/more-than-200-missing-in-flood-hit-district-in-pakistan-official-says) · `en`
-
-More than 200 people remain missing in one district of north-west Pakistan as a result of devastating monsoon flooding and landslides, an official has said.
-
-Flash floods have killed more than 300 people in Pakistan and Pakistan-administered Kashmir in recent days, with most of the deaths recorded in the mountainous Khyber Pakhtunkhwa province.
-
-A local official in the worst-affected Buner district told the BBC that at least 209 people were still missing there, but it is feared that number could rise.
-
-Rescue teams have buried eight unidentified bodies as there were no family members found alive to claim them, said Jehangir Khan, spokesman for the deputy commissioner office of Buner.
-
-Some relatives are also unable to claim their relatives bodies’ as roads are severely damaged, he added.
-
-A provincial rescue spokesman told news agency AFP that “10 to 12 entire villages” were partially buried.
-
-...
-
-[Data](articles/4a5af70a.json)
 
 ---

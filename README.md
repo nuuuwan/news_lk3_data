@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 19:00:14**
+As of **2025-08-18 19:27:24**
 
 ## Newspaper Stats
 
-*Scraped **71,092** Articles*
+*Scraped **71,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,99 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,341
+economynextcom | 4,342
 islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,915
+adaderanalk | 8,919
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,272
+adaderanasinhalalk | 12,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,092 articles have been extended.
+61,973 (87.2%) of 71,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Sri Lanka sees 10,934 new active credit cards in June 2025
+
+*2025-08-18 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-10934-new-active-credit-cards-in-june-2025-237068/) · `en`
+
+ECONOMYNEXT – New active credit cards in Sri Lanka increased by 10,934 in June this year, the central bank data showed, amid the country’s economic recovery and falling interest rates.
+
+The number of active credit cards recorded 2,075,744 by end June, compared to 2,064,810 by end May, showing an increase of 0.52 percent in the month.
+
+The active credit cards have risen by 3.36 percent in the first six months of this year, the data showed.
+
+Active credit cards in Sri Lanka rose by 4.8 percent or 91,371 in 2024, the Central Bank data showed, with the island nation’s economic recovery and strong promotions for credit cards amid falling interest rates.
+
+Analysts have said most banks have tied up with super markets and other vendors to promote credit cards in the falling interest rate regime as the country’s economy has shown more-than-expected recovery.
+
+They said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than in 2023.
+
+...
+
+[Data](articles/6a0c19eb.json)
+
+---
+
+### ඉල්ලීම් ලැබෙන තෙක් අඛණ්ඩ වර්ජනයේ - තැපැල් වෘත්තීය සමිති
+
+*2025-08-18 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213516) · `si`
+
+සිය ඉල්ලීම්වලට අවසන් විසඳුමක් ලැබෙන තෙක් අඛණ්ඩ වර්ජනයේ නිරත වන බව තැපැල් වෘත්තීය සමිති පවසයි.
+
+එම වෘත්තිය සමිති පෙන්වා දෙන්නේ සිය ගැටලු සම්බන්ධයෙන් මේ වන තෙක් සාකච්ඡාවක් ලබා දී නොමැති බවය.
+
+ඉල්ලීම් 19ක් මුල් කර ගනිමින් ඊයේ පස්වරුවේ සිට තැපැල් වෘත්තීය සමිති අඛණ්ඩ වර්ජනයක් ආරම්භ කළේය.
+
+ඒ හේතුවෙන් දිවයින පුරා සියලු තැපැල් කාර්යාලවල කටයුතු අඩපණ වී තිබේ.
+
+කෙසේවෙතත් සිය ගැටලුවලට විසඳුම් ලැබෙන තෙක් වර්ජනයේ නිරතවන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බන්ඩාර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/589d6e13.json)
+
+---
+
+### Spain, Portugal order mass evacuation of residents as wildfires rage
+
+*2025-08-18 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111600/spain-portugal-order-mass-evacuation-of-residents-as-wildfires-rage) · `en`
+
+Wildfires gripping Spain and Portugal forced mass evacuations and the deployment of thousands of emergency personnel as a heatwave continues to ravage the Iberian Peninsula, Euro News reported.
+
+Spanish Prime Minister Pedro Sanchez visited regions affected by forest fires in Ourense and Leon to meet with the heads of emergency and coordination teams. He was accompanied by Spanish Interior Minister Fernando Grande-Marlaska, according to Euro News.
+
+In a press conference, Sanchez said “the next hours and days are critical” and that the government would provide the help needed to extinguish the fires, including 500 more military personnel. He added that the ongoing operations by emergency personnel were “probably” the largest European civil protection mobilisation in history.
+
+...
+
+[Data](articles/e0a30c72.json)
+
+---
+
+### Warrant issued for the arrest of ex-MP Athuraliye Rathana Thero
+
+*2025-08-18 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111599/warrant-issued-for-the-arrest-of-ex-mp-athuraliye-rathana-thero) · `en`
+
+A warrant has been issued for the arrest of former Member of Parliament Ven. Athuraliye Rathana Thero.
+
+The warrant was issued by the Colombo Magistrate’s Court today, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
+
+The Police Media Spokesman stated that the warrant was issued for the arrest of Ven. Rathana Thero following a submission made by police to court.
+
+◼️
+
+[Data](articles/4631460b.json)
+
+---
 
 ### බලශක්ති ඇමති කුමාර ජයකොඩිට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්
 
@@ -51,6 +125,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d232d1de.json)
+
+---
+
+### Ada Derana report prompts Port City Economic Commission to take action against two APs
+
+*2025-08-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111598/ada-derana-report-prompts-port-city-economic-commission-to-take-action-against-two-aps-) · `en`
+
+The Colombo Port City Economic Commission (CPCEC) has suspended the issuance of visa recommendations for two Authorised Persons (APs), following a report published by Ada Derana on August 13 pertaining to the detention and deportation of five Chinese nationals employed by said APs.
+
+Issuing a communiqué, the Port City Economic Commission said following the recent developments reported in the media, including by Ada Derana, pertaining to the detention of Chinese nationals at the Bandaranaike International Airport (BIA), the CPCEC has suspended the issuance of visa recommendations for the two APs whose employees were involved in the incident.
+
+This suspension measure will remain in place until the ongoing investigation of the alleged incident is completed, the Commission noted.
+
+The CPCEC has formally requested both APs to submit detailed written explanations, and all necessary documentation relevant to the alleged incident to ensure a thorough and transparent investigation.
+
+...
+
+[Data](articles/6b635179.json)
+
+---
+
+### Sri Lanka’s food insecurity drops from 24% to 16% – World Food Programme
+
+*2025-08-18 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111597/sri-lankas-food-insecurity-drops-from-24-to-16-world-food-programme) · `en`
+
+Sri Lanka has reduced its food insecurity rate from 24% to 16%, according to Philip Ward, the newly appointed representative and the Country Director of the United Nations World Food Programme (WFP) in Sri Lanka.
+
+He shared this development during a meeting with Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, after formally presenting his credentials today (18).
+
+During the discussion held at the Ministry, Minister Herath highlighted Sri Lanka’s key national priorities outlined in the National Development Policy, focusing particularly on poverty reduction, ensuring food security, and strengthening social protection systems for vulnerable communities.
+
+He further emphasized the government’s commitment to work closely with the WFP to promote sustainable development and improve the overall well-being of the country’s population.
+
+...
+
+[Data](articles/24e87ec1.json)
 
 ---
 
@@ -1737,109 +1847,5 @@ Founded in 2016 from Amirthiah’s garage, J Med Supply Inc., has grown into one
 ...
 
 [Data](articles/82ffcc4e.json)
-
----
-
-### TPL appointed exclusive distributor for Tonino Lamborghini electric golf carts in the Maldives
-
-*2025-08-18 00:53:08* · [`dailyftlk`](https://www.ft.lk/business/TPL-appointed-exclusive-distributor-for-Tonino-Lamborghini-electric-golf-carts-in-the-Maldives/34-780401) · `en`
-
-Partnership brings iconic Italian design and sustainable mobility to the Maldives’ high-luxury hospitality sector
-
-Trade Promoters Ltd. (TPL), a leader in engineering and energy solutions across Sri Lanka and the Maldives, has signed an exclusive distributor agreement with Kinetic Green Tonino Lamborghini Ltd. to introduce the iconic Tonino Lamborghini electric golf carts to the Maldives.
-
-Under this agreement, TPL becomes the sole distributor for the Maldives, overseeing sales, marketing, and after-sales service for the luxury electric golf cart range through its dealer in the Maldives Electrify Maldives Ltd. The partnership merges global design and manufacturing excellence with local expertise – delivering Italian design with cutting-edge Indian electric vehicle technology to the Maldives.
-
-...
-
-[Data](articles/174d794e.json)
-
----
-
-### Official website of Voyage Sri Lanka 2025 goes live
-
-*2025-08-18 00:48:07* · [`dailyftlk`](https://www.ft.lk/business/Official-website-of-Voyage-Sri-Lanka-2025-goes-live/34-780400) · `en`
-
-The official website of the Voyage Sri Lanka 2025 Conference was launched  last week by Sri Lanka Export Development Board (EDB) Chairman and Chief Executive Mangala Wijesinghe at the EDB premises. The website, accessible at www.voyagesrilanka.lk, provides a comprehensive platform to access all details related to the Voyage Sri Lanka 2025 Conference.
-
-The launch event was attended by key industry stakeholders and a group of EDB officials, including EDB Acting Additional Director General – Development Kumuduni Mudalige
-
-Sri Lanka is set to take centre stage once again as Voyage Sri Lanka 2025—the nation’s flagship international marine summit returns on 16 October at The Kingsbury Hotel, Colombo.
-
-...
-
-[Data](articles/e23149b9.json)
-
----
-
-### Siyapatha Finance opens 55th branch in Ambalangoda
-
-*2025-08-18 00:02:28* · [`dailyftlk`](https://www.ft.lk/business/Siyapatha-Finance-opens-55th-branch-in-Ambalangoda/34-780397) · `en`
-
-Siyapatha Finance PLC recently opened its 55th branch, strategically located at No. 29, Galle Road, Ambalangoda, marking a significant milestone in the company’s commitment to bringing accessible, customer-centric financial solutions to more communities across the island.
-
-The ceremonial opening was graced by Managing Director Ananda Seneviratne along with Directors Jayanath Gunawardena and.Sriyani Ranathunga, Chief Operating Officer Rajeev De Silva, members of the Senior Management, Local Government representatives including the Divisional Secretary of Ambalangoda Hasanthi Niroshani, Ambalangoda Police Chief Inspector Ranaweera, Grama Niladhari Hansa Kumara de Silva, Trade Association President Sarath De Silva, and officials from both public and private banking, insurance, and financial sectors.
-
-...
-
-[Data](articles/09393c32.json)
-
----
-
-### 2025-08-17 (Sunday)
-
-### යොවුන් ලෝක කුසලානයට සුදුසුකම් ලැබූ කණ්ඩායම් 16 නම් කෙරේ
-
-*2025-08-17 23:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213483) · `si`
-
-සිම්බාබ්වේ හා නැමීබියාවේ සමසත්කාරකත්වය යටතේ එළැඹෙන 2026 වසරේ පැවැත්වෙන අවුරුදු 19න් පහළ එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සුදුසුකම් ලැබූ අවසන් කණ්ඩායම් 16 අයි.සී.සී. ය විසින් මේ වනවිට ප්‍රකාශයට පත්කර ඇත.
-
-අවසන්වරට 2024 වසරේ පැවති යොවුන් ලෝක කුසලාන තරගාවලියේ පළමු 10 දෙනා අතරට පැමිණි කණ්ඩායම් මේ සඳහා ඍජුව සුදුසුකම් ලබා සිටියේය.
-
-පසුගියවර ශූරයන් වන ඔස්ට්‍රේලියාව හා අනුශූරයන් වූ ඉන්දියාව මෙන්ම බංග්ලාදේශය, එංගලන්තය, අයර්ලන්තය, පාකිස්තානය, නවසීලන්තය, ශ්‍රී ලංකාව, දකුණු අප්‍රිකාව සහ බ.ඉ. කොදෙව් එලෙස සුදුසුකම් ලබාසිටි කණ්ඩායම්ය.
-
-ඉතිරි කණ්ඩායම් 6න් එක් ස්ථානයක් සත්කාරක රටක් වන සිම්බාබ්වේට හිමිව ඇත.
-
-මෙම තරගාවලියට සුදුසුකම් ලැබූ අවසන් රට අමෙරිකාව වන ඔවුන් අමෙරිකානු කලාපීය සුදුසුකම් ලැබීමේ තරගාවලිය ජයගැනීමට සමත් විය.
-
-එමෙන්ම යොවුන් ලෝක කුසලාන ඉතිහාසයේ පළමුවරට අප්‍රිකානු රටක් වන ටැන්සානියාව ද මේ සඳහා සුදුසුකම් ලබා සිටියි.
-
-ඒ හැරෙන්නේ මහද්වීපික කලාප සුදුසුකම් ලැබීමේ තරගාවලියේ ආසියානු කලාපයෙන් ඇෆ්ගනිස්තානයත්, නැගෙනහිර ආසියා-පැසිෆික් කලාපයෙන් ජපානයත් සුදුසුකම් ලබාගත්තේය.
-
-...
-
-[Data](articles/af64dfee.json)
-
----
-
-### Invest Sri Lanka Forum draws strong interest in Singapore
-
-*2025-08-17 23:42:17* · [`dailyftlk`](https://www.ft.lk/business/Invest-Sri-Lanka-Forum-draws-strong-interest-in-Singapore/34-780394) · `en`
-
-Labour Minister and Deputy Minister of Economic Development Prof. Anil J. Fernando
-
-Panel discussion: Outlook of the Sri Lankan Economy in Light of Global Uncertainty
-
-The “Invest Sri Lanka” Investor Forum, organised by the Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the High Commission of Sri Lanka to Singapore, successfully concluded at the Conrad Singapore Marina Bay, making a compelling case for channelling investment flows into Sri Lanka.
-
-The event attracted over 150 prospective investors from diverse sectors in Singapore.
-
-...
-
-[Data](articles/3713ac8d.json)
-
----
-
-### Remembering my friend Harry on his 83rd birthday
-
-*2025-08-17 23:31:58* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-my-friend-Harry-on-his-83rd-birthday/4-780388) · `en`
-
-Every year, for so many years, the first thing I would do as soon as I woke up on 17 August was to call my dear friend, the late Harry Stassen Jayawardena. Every single time, it started with, “Happy birthday, Lokka.” He would answer right back, “Thank you, Lokka.” It’s funny how we both called each other ‘Lokka.’ That strange nickname became our little tradition, and it always made us grin.
-
-Today, i.e. 17 August 2025, it’s different. I can make the call. I know what to say. But Lokka is no more.
-
-...
-
-[Data](articles/52698dda.json)
 
 ---

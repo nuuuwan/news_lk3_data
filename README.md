@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 09:03:06**
+As of **2025-08-18 09:36:08**
 
 ## Newspaper Stats
 
-*Scraped **71,026** Articles*
+*Scraped **71,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,884
+adaderanalk | 8,886
 tamilmirrorlk | 10,463
 virakesarilk | 11,779
-adaderanasinhalalk | 12,249
+adaderanasinhalalk | 12,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 71,026 articles have been extended.
+61,973 (87.3%) of 71,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### දුම්රියක් පීලි පනී
+
+*2025-08-18 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213492) · `si`
+
+කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථාන අතර දුම්රියක් පීලිපැනීමට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/b51c0a5d.json)
+
+---
 
 ### මාළු ඇල්ලීමට ගිය පුද්ගලයා වැවේ ගිලී මරුට
 
@@ -67,6 +79,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ed43e3b9.json)
+
+---
+
+### Postal workers’ strike continues island-wide as Minister urges to resume duties
+
+*2025-08-18 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111565/postal-workers-strike-continues-island-wide-as-minister-urges-to-resume-duties) · `en`
+
+The strike action initiated by the Postal and Telecommunications Officers’ Union, together with the United Postal Trade Unions’ Front (UPTUF), will continue for the second consecutive day today (18).
+
+According to union representatives, the strike is based on 19 key demands. These include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance using fingerprint machines.
+
+The strike commenced at 4.00 p.m. yesterday (17) at the Colombo Central Mail Exchange and escalated into a continuous, island-wide strike covering postal and administrative offices from midnight onwards.
+
+As a result, all postal services will be disrupted today, said Chinthaka Bandara, co-convener of the United Postal Trade Unions’ Front.
+
+...
+
+[Data](articles/396f6fd6.json)
 
 ---
 
@@ -197,6 +227,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5ac02a51.json)
+
+---
+
+### First phase of third school term to begin today
+
+*2025-08-18 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111564/first-phase-of-third-school-term-to-begin-today) · `en`
+
+The first phase of the third term for the year 2025 for government and government-approved private schools will commence today (18), according to the Ministry of Education.
+
+However, for Muslim schools, the third term will begin on August 25 (Monday).
+
+Furthermore, the first phase of the third term will take place from August 18 to November 07, the Ministry of Education announced.
+
+◼️
+
+[Data](articles/a9ac0f07.json)
 
 ---
 
@@ -809,6 +855,8 @@ Rubio’s comments were among the first by senior U.S. officials present at the 
 ### A-9 මාර්ගයේ මාරක අනතුරක් - දෙදෙනෙක් මරුට
 
 *2025-08-17 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213481) · `si`
+
+A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්තේ ප්‍රදේශයේ ඊයේ (17) සිදු වූ අනතුරින් තුවාල ලැබූ සංඛ්‍යාව 20ක් දක්වා ඉහළ ගොස් ඇති බව අප වාර්තාකරු පැවසුවේය.
 
 A-9 මාර්ගයේ (යාපනය - මහනුවර) ඕමන්තේ ප්‍රදේශයේ අද (17) පස්වරුවේ සිදු වූ මාරක අනතුරකින් දෙදෙනෙකු මියගොස් තවත් 10කට වැඩි පිරිසක් තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
 
@@ -1707,69 +1755,5 @@ Union Minister Jitendra Singh, who is a member of Parliament from Jammu and Kash
 ...
 
 [Data](articles/ef2b0632.json)
-
----
-
-### ආසියානු කුසලානයට යන පාකිස්තානු සංචිතය නම් කෙරේ
-
-*2025-08-17 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213471) · `si`
-
-එළැඹෙන ආසියානු කුසලානය විස්සයි20 ක්‍රිකට් තරගාවලියට සහභාගිවන පාකිස්තානු සංචිතය එරට ක්‍රිකට් ආයතනය විසින් අද (17) පෙරවරුවේ ප්‍රකාශයට පත් කළේය.
-
-සල්මන් අලි ආගාගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 17ක සංචිතයක් මේ සඳහා නම් කර තිබේ.
-
-කෙසේ නමුත් වත්මන් පාකිස්තාන කණ්ඩායමේ සිටින ජ්‍යෙෂ්ඨතම ක්‍රීඩකයින් දෙපළ වන බාබර් අසාම් හා මොහොමඩ් රිස්වාන් මෙවර ආසියානු කුසලානයෙන් ඉවත්කර ඇත.
-
-මෙවර ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ දී සැප්තැම්බර් 9වනදා ආරම්භ වන අතර, එම තරගාවලියට පෙර පාකිස්තාන කණ්ඩායම එරටදී තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියකට සහභාගිවීමට නියමිතය.
-
-ඇෆ්ගනිස්තානය හා එක්සත් අරාබි එමීර් කණ්ඩායම් අතර සාජාහිදී එම තරගාවලිය පැවැත්වේ.
-
-සමාන්, හාරිස් රවුෆ්, හසන් අලි, හසන් නවාස්, හුසේන් තලාත්, කුෂ්දිල් ෂා, මොහොමඩ් හාරිස් (කඩුලු රකින්නා), මොහොමඩ් නවාස්, මොහොමඩ් වසීම්, සහිබ්සාදා ෆර්හාන්, සයිම් අයුබ්, සල්මන් මිර්සා, ෂහීන් ෂා අෆ්රිඩි, සුෆියාන් මොකිම්
-
-◼️
-
-[Data](articles/5a5f75ba.json)
-
----
-
-### පෞද්ගලික ආරවුල මරණයෙන් කෙළවර වෙයි
-
-*2025-08-17 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213470) · `si`
-
-දිවුලපිටිය දූනගහ ප්‍රදේශයේ දී තිදෙනෙකු එක්ව කළ පහරදීමකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
-
-පෞද්ගලික ආරවුලක් හේතුවෙන් මෙම පහර දීම සිදු කර ඇති අතර පිහියකින් සහ පොලුවලින් පහර දී ඔහුව ඝාතනය කර ඇති බව වාර්තා වේ.
-
-පහර කෑමෙන් බරපතළ තුවාල ලැබූ පුද්ගලයා දිවුලපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ගම්පහ දිස්ත්‍රික් රෝහලට මාරුකර යවා ඇති අතර එහිදී ඔහු මිය ගොස් තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 46ක් වන මඩම්පැල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
-
-දිවුලපිටිය පොලීසිය විසින් සැකකරුවන් තිදෙනා අත්අඩංගුවට ගැනීම සඳහ කණ්ඩායමක් යොදා ඇති අතර වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/d467b5dc.json)
-
----
-
-### ඉන්දියාවේ ගංවතුර තත්ත්වයෙන් ළමුන් 5 දෙනෙකු ඇතුළු 7 දෙනෙක් ජීවිතක්ෂයට
-
-*2025-08-17 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213469) · `si`
-
-ඉන්දියාවේ ඇති වූ හදිසි ගංවතුර තත්ත්වය හේතුවෙන් කුඩා ළමුන් පස් දෙනෙකු ඇතුළුව පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
-
-ජම්මු හා කාශ්මීරයේ කතුවා නම් දිස්ත්‍රික්කයේ ඊයේ (16) සහ අද දිනයේදී මෙම ආපදාව සිදුව ඇති අතර වලාකුළු පිපිරීම් හේතුවෙන් ඇති වූ අධික වර්ශාවත් සමග නායයාම් හේතුවෙන් මෙම මරණ සිදුව ඇත.
-
-එමෙන්ම මෙම ආපදාවෙන් පුද්ගලයින් පස් දෙනෙකුද තුවාල ලබා ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කර ඇත.
-
-මේ අතර එරට කාලගුණ බලධාරීන් ප්‍රකාශ කර ඇත්තේ දිස්ත්‍රික්කය පුරා අධික වර්ෂාපතනයක් ඇදැ හැලෙනු ඇති බවත් සිදුවිය හැකි ආපදාවන්වලින් ආරක්ෂා වන ලෙසත්ය.
-
-එමෙන්ම ගංගා, ඇළදොළ, සහ අනෙකුත් ජල මූලාශ්‍ර ආශ්‍රිතව සිටීමෙන් වළකින ලෙසත් කඳුකර සහ නායයෑම් සහ අනෙකුත් අවදානම් සහිත ප්‍රදේශවලින් වැළකී සිටින ලෙසත් එරට මහජනතාවට අනතුරු අඟවාද තිබේ.
-
-මේ අතර පසුගිය 14 වැනි දින ජම්බු හා කාශ්මීරයේ කිෂ්ට්වාර් ප්‍රදේශයට බලපෑ වළාකුළු පිපිරීමේන් ඇතිවූ හදිසි ගංවතුර තත්ත්වයෙන් පුද්ගලයින් 50කට වැඩි පිරිසක් මිය ගොස් තවත් 100කට අධික පිරිසක් තුවාල ලැබීය.
-
-...
-
-[Data](articles/4d024c8e.json)
 
 ---

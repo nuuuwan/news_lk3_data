@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 07:21:06**
+As of **2025-08-18 08:14:11**
 
 ## Newspaper Stats
 
-*Scraped **71,011** Articles*
+*Scraped **71,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,164 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,852
-adaderanalk | 8,882
-tamilmirrorlk | 10,459
+adaderanalk | 8,884
+tamilmirrorlk | 10,461
 virakesarilk | 11,779
-adaderanasinhalalk | 12,242
+adaderanasinhalalk | 12,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 71,011 articles have been extended.
+61,973 (87.3%) of 71,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### උතුරු සහ නැගෙනහිර අද හර්තාල්
+
+*2025-08-18 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213488) · `si`
+
+උතුරු සහ නැගෙනහිර පළාත්වල අද (18) හර්තාල් ව්‍යාපාරයක් සිදුකරන බව ඉලංකෙයි තමිල් අරුසු පක්ෂය පවසයි.
+
+මුලතිව් ඔඩ්ඩුසුඩාන් හමුදා කඳවුරට ඇතුළු වූ පුද්ගලයින් පිරිසකට හමුදා නිළධාරීන් විසින් පහරදුන් බවට චෝදනා එල්ල වූ අතර එම කඳවුරට ඇතුළු වූ තවත් තරුණයෙකු ප්‍රදේශයේ වැවක මියගොස් සිටියදී සොයා ගැනීමත් සමඟ ඒ සම්බන්ධයෙන් හමුදාවට චෝදනා එල්ල විය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් විශේෂ පොලිස් කණ්ඩායම් 02ක් විමර්ශන සිදුකරන අතර ඒ සම්බන්ධයෙන් හමුදා සෙබලුන් තිදෙනෙකු අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර ඇති බව පොලිසිය සදහන් කළේය.
+
+කෙසේවෙතත් අදාළ තරුණයා මියයාමට විරෝධය පළ කරමින් උතුරු සහ නැගෙනහිර පළාත්වල අද දිනයේ හර්තාල් ව්‍යාපාරයක් සිදුකිරීමට සැලසුම් කර ඇති බව පාර්ලිමේන්තු මන්ත්‍රී ශානක්‍යන් රාසමානිකම් මහතා ද පැවසුවේය.
+
+මෙම හර්තාල් ව්‍යාපාරය සදහා ශ්‍රී ලංකා කම්කරු කොංග්‍රසය සහ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය ද සහය පළ කරන බව පසුගියදා සදහන් කළේය.
+
+...
+
+[Data](articles/be1fcd46.json)
+
+---
+
+### ஓமந்தையில் கோர விபத்து: இருவர் பலி,13 பேர் காயம்
+
+*2025-08-18 07:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமந்தையில்-கோர-விபத்து-இருவர்-பலி-13-பேர்-காயம்/175-363093) · `ta`
+
+வவுனியா, ஓமந்தை ஏ - 9 வீதியில இடம்பெற்ற கோர விபத்தில் இருவர் உயிரிழந்துள்ளதுடன், 13 பேர் படுகாயமடைந்த நிலையில் வவுனியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+கண்டியில் இடம்பெற்ற மரணச்சடங்கு ஒன்றுக்குச் சென்று அங்கிருந்து முல்லைத்தீவு நோக்கிப் பயணித்த மகேந்திரா ரக வாகனம் ஓமந்தை, ஏ - 9 வீதி, மாணிக்கர்வளவுப் பகுதியில் சென்று கொண்டிருந்த போது கட்டுப்பாட்டை இழந்து  தடம்புரண்டதுடன், எதிரே வந்த கனரக வாகனத்துடனும் மோதி விபத்துக்குள்ளாகியது
+
+இந்தச் சந்தர்ப்பத்தில் வாகனத்தில் சிறுவர்கள், பெண்கள் உட்பட 15 இற்கும் மேற்பட்டோர் பயணித்துள்ளனர். விபத்தின்போது வாகனத்தில் இருந்த அனைவரும் வீதியில் தூக்கி வீசப்பட்டனர்.
+
+இதன்போது வீதியால் பயணித்த பொதுமக்களின் உதவியுடன் படுகாயமடைந்தவர்கள் மீட்கப்பட்டு வவுனியா மாவட்ட பொது வைத்தியசாலையில் சேர்க்கப்பட்டனர்.
+
+விபத்தில் சம்பவ இடத்திலேயே பெண் ஒருவர் உட்பட இருவர் உயிரிழந்துள்ளனர். 13 பேர் படுகாயமடைந்தநிலையில் வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/8f05aad7.json)
+
+---
+
+### இன்று  நண்பகல் 12 மணி வரை ஹர்த்தால்!
+
+*2025-08-18 07:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நண்பகல்-12-மணி-வரை-ஹர்த்தால்/175-363092) · `ta`
+
+வடக்கு, கிழக்கில் அதிகரித்த இராணுவப் பிரசன்னத்துக்கு எதிராகவும், முல்லைத்தீவு - முத்துஐயன்கட்டுப் பிரதேசத்தில் இராணுவத்தின் தாக்குதலுக்குள்ளான இளைஞர் ஒருவர் உயிரிழந்த சம்பவத்தைக் கண்டித்தும் தமிழர் தாயகத்தில் இன்று ஹர்த்தால் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+இன்று காலை முதல் நண்பகல் 12 மணி வரை இந்தக் ஹர்த்தால் போராட்டம் முன்னெடுக்கப்படும் என்று ஹர்த்தாலுக்கு அழைப்பு விடுத்த இலங்கைத் தமிழரசுக் கட்சியின் பொதுச்செயலாளர் எம்.ஏ.சுமந்திரன் அறிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/5002ad4c.json)
+
+---
+
+### තැපැල් වර්ජනය තවදුරටත් - රාජකාරියට පැමිණෙන සේවකයින්ට විශේෂ ආරක්ෂාවක්
+
+*2025-08-18 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213487) · `si`
+
+තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ ආරම්භ කළ අඛණ්ඩ වැඩවර්ජනය තවදුරටත් ක්‍රියාත්මක වේ.
+
+ඉල්ලීම් 19ක් මුල් කර ගනිමින් ඊයේ (17) පස්වරු 4.00 සිට ඔවුන් මෙම වර්ජනය ආරම්භ කර තිබේ.
+
+මධ්‍යම තැපැල් හුවමාරුවෙන් ආරම්භ වූ මෙම වැඩවර්ජනය ඊයේ මධ්‍යම රාත්‍රී 12.00 සිට දිවයින පුරා ක්‍රියාත්මක බව තැපැල් වෘත්තීය සමිති පෙරමුණ සඳහන් කළේය.
+
+මේ හේතුවෙන් අද දිනයේ දි සියලුම තැපැල් කටයුතු අඩපණ වන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් අදාළ වැඩවර්ජනය සම්බන්ධයෙන් කොළඹ පැවති මාධ්‍ය හමුවකදී තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, තැපැල් සේවකයින්ගේ ඉල්ලීම් රැසක් ලබා දී තිබිය දී මෙලෙස වර්ජනයක නිරත වීම අසාධාරණ බවය.
+
+...
+
+[Data](articles/5ac02a51.json)
+
+---
+
+### තෙවන පාසල් වාරය අදින් ඇරඹෙයි
+
+*2025-08-18 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213486) · `si`
+
+2025 වර්ෂයට අදාල රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්  සඳහා තෙවන පාසල් වාරයේ පළමු අදියර අද ආරම්භ වේ.
+
+කෙසේවෙතත් මුස්ලිම් පාසල් සඳහා තෙවන පාසල් වාරය ආරම්භ වන්නේ ලබන 25 වනදා සිටය.
+
+අද (18)  ආරම්භ වන තෙවන පාසල් වාරයේ පළමු අදියර නොවැම්බර් මස 07 වනදා අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය පැවසුවේය.
+
+◼️
+
+[Data](articles/068447c8.json)
+
+---
+
+### Zelensky and allies head to White House for Ukraine talks
+
+*2025-08-18 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111563/zelensky-and-allies-head-to-white-house-for-ukraine-talks) · `en`
+
+US President Donald Trump will host Volodymyr Zelensky on Monday for their first meeting since the pair’s heated exchange in the White House earlier this year - but this time the Ukrainian president is bringing European allies.
+
+Nato Secretary General Mark Rutte and UK Prime Minister Sir Keir Starmer are among leaders who will join Zelensky in Washington for talks on how to end the war with Russia.
+
+It follows Trump’s summit with Russian leader Vladimir Putin in Alaska that resulted in the US president dropping a demand for a ceasefire and calling instead for a permanent peace deal.
+
+A US envoy said on Sunday that Putin had agreed to a possible Nato-like security pact for Ukraine.
+
+“BIG PROGRESS ON RUSSIA. STAY TUNED!” Trump posted on his Truth Social platform, without elaborating.
+
+...
+
+[Data](articles/910aa1bd.json)
+
+---
+
+### Several spells of showers expected today
+
+*2025-08-18 06:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111562/several-spells-of-showers-expected-today) · `en`
+
+Several spells of showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, the Department of Meteorology said.
+
+Mainly fair weather will prevail over elsewhere of the island, the Met. Department added.
+
+Meanwhile, strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee district.
+
+◼️
+
+[Data](articles/e3b0b32e.json)
+
+---
+
+### අදත් තැන් කිහිපයකට වැසි
+
+*2025-08-18 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213484) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/f544c976.json)
+
+---
 
 ### எரிபொருள் வவுச்சர் மோசடி : காத்தான்குடி பொலிஸ் நிலைய கான்ஸ்டபிள் கைது
 
@@ -1621,163 +1765,5 @@ The Department further stated that steps are being taken to complete repairs and
 ◼️
 
 [Data](articles/3ff12c37.json)
-
----
-
-### Pension scheme for fishermen to be reintroduced next month
-
-*2025-08-17 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111547/pension-scheme-for-fishermen-to-be-reintroduced-next-month) · `en`
-
-The Agricultural and Agrarian Insurance Board states that the fishermen’s pension scheme is expected to be reintroduced starting next month.
-
-Chairman of the Board Premasiri Jasinghe Arachchi said that awareness programmes are currently underway to identify eligible individuals for the scheme.
-
-The Agricultural and Agrarian Insurance Board, in collaboration with the Department of Fisheries, has planned to relaunch this initiative.
-
-The Chairman further stated that around 60,000 fishermen were benefiting from the previous pension scheme at the time it was discontinued.
-
-Under this scheme, a compensation of Rs. 1.2 million is offered in the event of sudden death, for an annual premium of Rs. 2,000.
-
-Additionally, compensation will be paid in cases of total or partial disability. Provisions have been made for swift compensation payments in the event of serious injuries as a result of an accident.
-
-◼️
-
-[Data](articles/8e39b7b5.json)
-
----
-
-### எஸ்எல்சி ரி20 லீக்: கமிந்து மெண்டிஸ் தலைமையிலான டீம்  க்றீன்ஸ் சம்பியனானது
-
-*2025-08-17 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222738) · `ta`
-
-எஸ்எஸ்சி மைதானத்தில் சனிக்கிழமை (16) நடைபெற்ற மிகவும் விறுவிறுப்பான எஸ்எல்சி ரி20 லீக் இறுதிப் போட்டியில் சரித் அசலன்க தலைமையிலன டீம் க்றேஸ் அணியை 23 ஓட்டங்களால் வெற்றிகொண்ட கமிந்து மெண்டிஸ் தலைமையிலான டீம் க்றீன்ஸ் அணி தோல்வி அடையாத அணியாக சம்பியனானது.
-
-இந்த வெற்றியில் குசல் மெண்டிஸ், கமிந்து மெண்டிஸ், சதீர சமரவிக்ரம, சாமிக்க கருணாரட்ன ஆகியோர் பெரும் பங்காற்றினர்.
-
-இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட டீம் க்றீன்ஸ் அணி 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 189 ஓட்டங்களைக் குவித்தது.
-
-குசல் மெண்டிஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் பானுக்க ராஜபக்ஷவுடன் 56 ஓட்டங்களையும் 3ஆவது விக்கெட்டில் சதீர சமரவிக்ரமவுடன் 55 ஓட்டங்களையும் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தார்.
-
-குசல் மெண்டிஸ் 5 பவுண்டறிகள், 5 சிக்ஸ்களுடன் 77 ஓட்டங்களைப் பெற்றார். பானுக்க ராஜபக்ஷ 18 ஓட்டங்களைப் பெற்றார்.
-
-சதீர சமரவிக்ரமவும் கமிந்து மெண்டிஸும் பிரிக்கப்படாத 5ஆவது விக்கெட்டில் 41 பந்துகளில் 77 ஓட்டங்களைப் பகிர்ந்து அணிக்கு கணிசமான மொத்த எண்ணிக்கை கிடைக்க உதவினர்.
-
-...
-
-[Data](articles/43a1b0c7.json)
-
----
-
-### මුහුදුබඩ දුම්රිය මාර්ගයේ එක් මංතීරුවක් විවෘත කෙරේ
-
-*2025-08-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213467) · `si`
-
-ගිංතොට දුම්රිය ස්ථානය ආසන්නයේදී පීලි පැනීමකට ලක්වූ ගාලු කුමාරි දුම්රිය පීලිගත කිරීමේ කටයුතු තවදුරටත් සිදුකරමින් පවතින බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-මරදානේ සිට බෙලිඅත්ත දක්වා ධාවනය වූ ගාලු කුමාරි දුම්රිය ඊයේ (16) දින පස්වරු 5.30ට පමණ ගිංතොට දුම්රිය ස්ථානයේදී පිලී පැනීමකට ලක්විය.
-
-පිලී පැනීමෙන් දුම්රිය මාර්ගයේ සිල්පර කොටන් 250කට ආසන්න ප්‍රමාණයක් සහ දුම්රිය පීලිවලටද දැඩි හානි සිදුවිය.
-
-දුම්රිය පීලි පැනීමෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ධාවන කටයුතු අම්බලන්ගොඩ දුම්රිය ස්ථානය දක්වා සීමා කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
-
-හානියට පත්වූ දුම්රිය මාර්ගයේ ප්‍රතිසංස්කරණ කටයුතු ඊයේ රාත්‍රියේම නැවත ආරම්භ කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
-
-ඒ අනුව අද (17) පෙරවරු 11.00ට පමණ එක් මංතීරුවක් දුම්රිය ධාවනය සඳහා විවෘත කිරීමටද දුම්රිය දෙපාර්තමේන්තුව පියවර ගත්තේය.
-
-දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ පීලි පැනීමෙන් හානියට පත්වූ දුම්රිය මාර්ගය නැවත ප්‍රතිසංස්කරණය කර හැකි ඉක්මනින් දුම්රිය ධාවනය සඳහා විවෘත කිරීමට පියවර ගන්නා බවය.
-
-◼️
-
-[Data](articles/db146f8c.json)
-
----
-
-### රු. කෝටි දෙකක මෝටර් රථයක් කොල්ල කෑමේ තැත වරදී
-
-*2025-08-17 13:00:45* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-දෙකක-මෝටර්-රථයක්-කොල්ල-කෑමේ-තැත-වරදී/11-417951) · `si`
-
-ඇල්ල නගරයේ සංචාරක හෝටල් හිමිකරුවෙකුගේ රුපියල් කෝටි 2ක් පමන වටිනා සුඛෝපභෝගී මෝටර් රථයක් මිළදී ගන්නා මුවාවෙන් පැමින මෝටර් රථය කොල්ලකා පලායමින් සිටි පෞද්ගලික මූල්‍ය ආයතනයක කළමනාකරුවෙකු ඇතුලු තිදෙනෙකු අද  (17) අධිකාරිගම ප්‍රදේශයේ දී අත් අඩංගුවට ගත් බව ඇල්ල පොලිසිය පවසයි .
-
-අධිකාරි ගම පොලිස් මාර්ග බාධකයේ නිරතව සිටි පොලිස් නිළධාරින් විසින් පැහරගෙන යමින් තිබු සුඛෝපභෝගී මෝටර් රථය සමග  මෙසේ අත්අඩංගුවට ගෙන ඇල්ල පොලිසිය ට බාරදී  ඇත්තේ  මහනුවර නගරයේ පෞද්ගලික මූල්‍ය ආයතනයක කලමනාකරුවෙකු ලෙස සේවය කරන පිළිමතලාව ඉල්ක්වත්ත ප්‍රදේශයේ පදිංචි 44 හැවිරිදි පුද්ගලයකු   සහ, බදුල්ල නෙලුම්වැව හාලිඇල සිංහපුර ප්‍රදේශයේ පදිංචි අවුරුදු 47 , 31 වයසේ පසුවන දෙදෙනකු යැයි පොලිසිය කීය .
-
-ඇල්ල නගරයේ සංචාරක හෝටලයක හිමිකරුවකු මහනුවර ප්‍රදේශයේ වාහන විකුණන ආයතනයකින් මෑතදී මිළදී ගත් අතිනවීන පන්නයේ සුඛෝපභෝගී මෝටර් රථය විකිණීමට සූදානම් වී ඇති අතර , එම පුවත සැලවී එම මෝටර් රථය මිළදී ගන්නා මුවාවෙන්  මෝටර් රථයකින් පුද්ගලයන් තිදෙනෙකු ඇල්ල නගරයට පැමින ඇති බවත් පොලිසිය පැවසිය .
-
-...
-
-[Data](articles/01a2886f.json)
-
----
-
-### Deputy Minister of Defence visits USS Santa Barbara
-
-*2025-08-17 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111546/deputy-minister-of-defence-visits-uss-santa-barbara) · `en`
-
-Deputy Minister of Defence Major General Aruna Jayasekara (Retd) visited the USS Santa Barbara (LCS), an Independence-class Littoral Combat Ship of the United States Navy, currently docked at the Port of Colombo, on Saturday (Aug 16).
-
-Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd) and Commander of the Sri Lanka Navy Vice Admiral Kanchana Banagoda also joined the Deputy Minister on this occasion, the Ministry of Defence said in a statement.
-
-The group was received by U.S. Ambassador to Sri Lanka Julie Chung and U.S. Defence Attaché Lieutenant Colonel Matthew House, reflecting the close and cooperative ties between the two nations.
-
-The visit served to explore future avenues for collaboration in maritime security, regional stability and technical exchanges between the defence establishments of Sri Lanka and the United States.
-
-...
-
-[Data](articles/a8d35879.json)
-
----
-
-### இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நீரில் மூழ்கி 257 பேர் உயிரிழப்பு
-
-*2025-08-17 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/222733) · `ta`
-
-இவ் வருடத்தின் இதுவரையான காலப்பகுதியில் நீரில் மூழ்கி 257 பேர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-உயிரிழந்தவர்களில் 37 பெண்களும் 220 ஆண்களும் அடங்குவர் என பொலிஸ் ஊடகப் பேச்சாளரும், உதவி பொலிஸ் அத்தியட்சகருமான வூட்லர் தெரிவித்துள்ளார்.
-
-இதேவேளை, நீரில் மூழ்கிய சம்பவங்களில் 69 உள்நாட்டவர்களையும், 33 வெளிநாட்டு சுற்றுலாப் பயணிகளையும் பொலிஸ் உயிர்காக்கும் பிரிவு வெற்றிகரமாக மீட்டுள்ளதாக காவல்துறை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/205a62dd.json)
-
----
-
-### ධීවර විශ්‍රාම වැටුප් ක්‍රමය යළිත් එළැඹෙන මස සිට
-
-*2025-08-17 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213466) · `si`
-
-ධීවර විශ්‍රාම වැටුප් ක්‍රමවේදය යළි එළැඹෙන මාසයේ සිට ආරම්භ කිරීමට බලාපොරොත්තු වන බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
-
-ඒ සඳහා සුදුසු පුද්ගලයින් හඳුනා ගැනීම සඳහා මේ වන විට දැනුවත් කරමින් පවතින බවද එම මණ්ඩලයේ සභාපති ප්‍රේමසිරි ජාසිංහආරච්චි මහතා පැවසීය.
-
-කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය සහ ධීවර දෙපාර්තමේන්තුව එක්ව මෙම ක්‍රියාවලිය නැවත ආරම්භ කිරීමට සැලසුම් කර ඇත.
-
-සභාපතිවරයා පැවසුවේ පැවැති ධීවර විශ්‍රාම වැටුප් ක්‍රමවේදය අක්‍රීය වන අවස්ථාව වන විට ධීවරයින් 60,000කට ආසන්න ප්‍රමාණයක් එමගින් ප්‍රතිලාභ ලබා ගනිමින් සිටි බවය.
-
-ඒ අනුව යළිත් මෙම ධීවර විශ්‍රාම වැටුප් ක්‍රමය ආරම්භ කිරීමේදි එම ප්‍රමාණයට වඩා වැඩි ධීවරයින් පිරිසකට මෙමගින් ප්‍රතිලාභ ලබා දීමට පියවර ගන්නා බවද කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලයේ සභාපති ප්‍රේමසිරි ජාසිංහආරච්චි මහාතා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
-
-◼️
-
-[Data](articles/2c4c80e8.json)
-
----
-
-### Another 609 individuals nabbed during special island-wide police raids
-
-*2025-08-17 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111544/another-609-individuals-nabbed-during-special-island-wide-police-raids-) · `en`
-
-A total of 609 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (16).
-
-As part of the operation, 26,607 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 21 individuals directly linked to criminal activities while 439 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 74 drunk drivers were apprehended while a further 115 reckless drivers and 3,539 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/28d82a8f.json)
 
 ---

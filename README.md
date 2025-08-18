@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 17:31:38**
+As of **2025-08-18 17:54:00**
 
 ## Newspaper Stats
 
-*Scraped **71,082** Articles*
+*Scraped **71,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,335
+economynextcom | 4,341
 islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,082 articles have been extended.
+61,973 (87.2%) of 71,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Foreign investors sell Sri Lanka rupee bonds after two-weeks of buying
+
+*2025-08-18 17:29:00* · [`economynextcom`](https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-after-two-weeks-of-buying-237046/) · `en`
+
+ECONOMYNEXT – Foreign investors sold Sri Lanka government securities in thin trade in the week ended on August 14, the Central Bank data showed, after U.S. President Donald Trump and his Russian counterpart Vladimir Putin held high-stakes talks in Alaska over Ukraine.
+
+Foreign investors sold a net 291 million rupee ($970,000) worth of government securities in the week ended on August 14, after being net buyers for two straight weeks.
+
+They bought $30 million worth rupee bonds in the previous two weeks as there were some certainties over Trump’s reciprocal tariff.
+
+Trump’s meeting with Putin in Alaska has given some hopes of a ceasefire can be reached in the deadliest war in Europe since World War Two.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
+
+...
+
+[Data](articles/fcf16f3e.json)
+
+---
 
 ### දෛනික පොලිස් සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
@@ -52,6 +72,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka rupee weaker against dollar, bond yields edge up
+
+*2025-08-18 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-237126/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.25/40 to the US dollar in the spot market Monday, weaker from 300.90/301.05 Friday, while bond yields edged up, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.12.2028 closed at 8.90/9.00 percent, up from 8.90/95 percent.
+
+A bond maturing on 15.12.2029 closed at 9.43/46 percent, up from 9.42/45 percent.
+
+A bond maturing on 15.12.2032 closed at 10.22/25 percent, down from 10.18/22 percent. (Colombo/Aug18/2025)
+
+◼️
+
+[Data](articles/fba176b1.json)
+
+---
+
 ### තුසිත හල්ලොලුව අත්අඩංගුවට ගැනීමට වරෙන්තු
 
 *2025-08-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213512) · `si`
@@ -67,6 +107,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7da31853.json)
+
+---
+
+### US launches Young South Asian Leaders Initiative workshop in Sri Lanka
+
+*2025-08-18 16:46:00* · [`economynextcom`](https://economynext.com/us-launches-young-south-asian-leaders-initiative-workshop-in-sri-lanka-237098/) · `en`
+
+ECONOMYNEXT – A US-funded Young South Asian Leaders Initiative (YSALI) workshop was launched in Sri Lanka’s Colombo aimed at providing youth ‘networks needed to build positive regional connections’.
+
+The three-day workshop brings together over 80 youth leaders, selected from alumni of previous US government initiatives, from Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka to address shared challenges and opportunities, including economic development, civic participation, and regional collaboration.
+
+Through the program the United States is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the US Embassy said.
+
+“Each of you has already demonstrated leadership through your participation in US government exchange programs, taking the initiative to create change—often in challenging circumstances,” US Ambassador to Sri Lanka Julie Chung said.
+
+...
+
+[Data](articles/b2e0b5c4.json)
 
 ---
 
@@ -175,6 +233,50 @@ Further investigations are being conducted by the Badulla Police to ascertain th
 ◼️
 
 [Data](articles/59684e49.json)
+
+---
+
+### Sri Lanka welcomes 1.5mn tourists by Aug 18
+
+*2025-08-18 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-1-5mn-tourists-by-aug-18-237056/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals had topped 1.5 million on August 18, 2025, the Ministry of Tourism said.
+
+August is a month that gets extra tourists due to the Kandy Perahera.
+
+In first 18 days to August, over 130,000 tourist had arrived. On August 18, 3142 tourists had arrived up to 3.00 pm.
+
+“We extend heartfelt gratitude to our visitors and local partners,” Tourism Minister Vijitha Herath said in an x.com post.
+
+“Sri Lanka warmly invites the world to explore our island of beauty, culture, and hospitality.”
+
+Sri Lanka is targeting 3 million tourists in 2025. (Colombo/Aug18/2025)
+
+ECONMYNEXT – Sri Lanka’s tourist arrivals had reached 1.5 million by the afternoon of August 2025, the Ministry of Torurism said.
+
+◼️
+
+[Data](articles/cca1e689.json)
+
+---
+
+### Sri Lanka stocks surge 1.25-pct, led by banks
+
+*2025-08-18 15:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-surge-1-25-pct-led-by-banks-237045/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) continued to trade higher surpassing the 20,400 mark on Monday, data showed.
+
+“Market was very positive today. Investor interest in the banking sector was seen. Almost all the banks went up,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
+
+The ASPI rose 1.25 percent, or 252.16 points higher from Friday to close at 20,470.52; the S&P SL20 index climbed 1.76 percent, or 103.60 points, to close at 5,998.44.
+
+“Banking sector rose on positive quarterly results,” Ranatunga said. “Interest was also seen in retail and high net worth shares.”
+
+The ASPI was pushed higher on Commercial Bank which ended 7.75 rupees stronger at 189; Carson Cumberbatch which rose 105.50 rupees to 746; Melstacorp which ended 5 rupees up at 165; John Keells Holdings which moved 50 cents up to 23.50 rupees; and DFCC Bank which closed 5.75 rupees higher at 166.
+
+...
+
+[Data](articles/7d18aa3f.json)
 
 ---
 
@@ -375,6 +477,26 @@ With the upcoming tourist season, the Ministry said the Airport and Aviation Aut
 ◼️
 
 [Data](articles/ca221bed.json)
+
+---
+
+### Sri Lanka’s Vidullanka commissions 2MW power plant
+
+*2025-08-18 14:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-commissions-2mw-power-plant-237037/) · `en`
+
+ECONOMYNEXT – Sri Lanka renewable energy firm Vidullanka has commissioned its 2MW Horana solar power project – phase II, the company said in a stock exchange filing.
+
+The plant is expected to generate 3.6 GWh of clean energy and supply to the national grid.
+
+The project was implemented through Vidul Solar Power (Pvt) Limited, a fully owned subsidiary.
+
+Vidullanka voting shares were trading flat at 14.70, non-voting shares flat at 13.00.
+
+The company has seen its outlook improve following the government’s decision to market price electricity and a commitment to grow the share of renewables in the grid to 70%. (Colombo/Aug18/2025)
+
+◼️
+
+[Data](articles/e5c3494d.json)
 
 ---
 
@@ -1703,119 +1825,5 @@ Sharif’s killing is not an ending. It is the erasure of a witness before the c
 ...
 
 [Data](articles/ff9f95ae.json)
-
----
-
-### Mound of earth blocks Norton Bridge–Maskeliya main road
-
-*2025-08-17 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111560/mound-of-earth-blocks-norton-bridgemaskeliya-main-road) · `en`
-
-Norton Bridge Police said that traffic movement on the Norton Bridge–Maskeliya main road has been completely halted due to a mound of earth collapsing onto the road.
-
-It is reported that the earth slip had occurred this evening as a result of heavy rainfall in the area.
-
-Police have urged motorists to use alternative routes until the road is cleared and is safe for travel.
-
-◼️
-
-[Data](articles/7dcd24ba.json)
-
----
-
-### Circular economy: Philosophy, history, and prospects
-
-*2025-08-17 22:32:52* · [`dailyftlk`](https://www.ft.lk/columns/Circular-economy-Philosophy-history-and-prospects/4-780381) · `en`
-
-Circular economy is a global movement today. Its success will depend on the acceptance of its core principles
-
-Excerpts of a lecture delivered at Sri Jayewardenepura University – Part III
-
-The core principle of circular economy underlies the need for putting the scarce and limited resources to the maximum use by people. It requires people to recycle what is being used on one side and establish a production model that would use the output of one economic activity as inputs for another economic activity, on the other. This differs from the existing linear economic model in which resources are converted to outputs for use by people. Once used, they disappear from the system leading to the accumulation of waste-matter in environment. Thus, in the circular system, resources are put to the maximum use before they disappear from the system.
-
-...
-
-[Data](articles/9548b411.json)
-
----
-
-### பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை : தொழில்நுட்ப காரணிகளை குறிப்பிட்டு பிரேரணையை  பிற்போடகூடாது - சம்பிக்க ரணவக்க வலியுறுத்தல்
-
-*2025-08-17 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222766) · `ta`
-
-உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலுடன் தொடர்புடைய சம்பவங்களுடன் கிழக்கு மாகாண முன்னாள் கட்டளைத் தளபதியான தற்போதைய பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகர சம்பந்தப்பட்டுள்ளார் என்று குற்றச்சாட்டப்படுகிறது. ஆகவே நாட்டு மக்கள் உண்மையை விளங்கிக்கொள்ள வேண்டும். தொழில்நுட்ப காரணிகளை குறிப்பிட்டுக்கொண்டு நம்பிக்கையில்லா பிரேரணையை பிற்போடாமல் பிரேரணையை விரைவாக எடுத்துக்கொள்ள வேண்டும் என்று ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,முன்னாள் பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் அரசாங்கத்தில் பிரதி அமைச்சுகளுக்கான விடயதானங்கள் வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்படவில்லை. ஆகவே பாதுகாப்பு பிரதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணையில் குறிப்பிடப்பட்டுள்ள குற்றச்சாட்டுகளுக்கு அவர் பதிலளிக்க வேண்டிய அவசியம் இல்லை  என்று ஆளும் தரப்பின் உறுப்பினர்கள் குறிப்பிட்டுக்கொள்கிறார்கள்.
-
-...
-
-[Data](articles/dcbf4e37.json)
-
----
-
-### මලල ක්‍රීඩා නිලවරණය පැවැත්වෙන දිනය ගැන තීරණය හෙට
-
-*2025-08-17 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213482) · `si`
-
-ශ්‍රී ලංකා මලල ක්‍රීඩා ආයතනයේ නිලවරණය දින නියමයක් නොමැතිව කල් දමා තිබේ.
-
-එම ආයතනය නිවේදනය කළේ නිලවරණය නැවත පැවැත්වෙන දිනය ක්‍රීඩා අධ්‍යක්ෂ ජනරාල්වරයා විසින් හෙට (18)  දැනුම්දෙනු ඇති බවය.
-
-ශ්‍රී ලංකා මලල ක්‍රීඩා ආයතනයේ නිලවරණය හෙට දිනයේදී පැවැත්වීමට ක්‍රීඩා අධ්‍යක්ෂ ජනරාල්වරයා විසින් සැලසුම් කර තිබුණි.
-
-මෙම නිලවරණය සම්බන්ධයෙන් අභියාචනා 04ක් ඉදිරිපත්වී ඇති අතර, එම අභියාචනා පිළබදව සිදුකළ විභාගයෙන් අනතුරුව එක් අභියාචනයක් පිළිගැනීමට සිදුව ඇති බව වාර්තා වේ.
-
-ඒ අනුව අදාල ඡන්ද විමසීම හෙට දිනයේ පැවැත්වීමට නීත්‍යානුකූලව නොහැකි බව ක්‍රීඩා අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/be3d025c.json)
-
----
-
-### Two dead, over 10 injured in fatal accident in Omanthai
-
-*2025-08-17 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111559/two-dead-over-10-injured-in-fatal-accident-in-omanthai) · `en`
-
-At least two persons have reportedly died and more than 10 others have sustained injuries in a fatal accident that occurred this evening (17) in the Omanthai area on the A-9 road, police said.
-
-The victims of the accident were a group of relatives from the Vishwamadhu area.
-
-According to the police, they had been returning home after attending a funeral in Kandy when they had met with the tragic accident.
-
-The SUV they were traveling in had reportedly overturned near a filling station near the Omanthai Police Station. As a result, several of its passengers were thrown out of the vehicle and had collided with an oncoming lorry.
-
-Reportedly a total of 15 persons were traveling in the SUV at the time of the accident.
-
-A 33-year-old woman and a 30-year-old man have died on the spot while the remaining injured have been admitted to the District General Hospital in Vavuniya for further treatment.
-
-It is reported that three of the injured persons are in critical condition.
-
-◼️
-
-[Data](articles/965879b5.json)
-
----
-
-### வவுனியா, ஓமந்தை பகுதியில் விபத்து : இருவர் பலி;  9 பேர் காயம்
-
-*2025-08-17 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222765) · `ta`
-
-வவுனியா ஓமந்தை எ9 வீதியில் இன்று இரவு இடம்பெற்ற விபத்தில் இருவர் பலியானதுடன் 13 பேர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-கண்டியில் இருந்து முல்லைத்தீவு நோக்கிபயணித்த பொலிரோ ரக வாகனம் ஏ9 வீதியின் ஓமந்தை மாணிக்கர் வளவுப்பகுதியில் சென்றுகொண்டிருந்தபோது பார ஊர்தியில் மோதி கட்டுப்பாட்டை இழந்து  தடம்புரண்டுவிபத்திற்குள்ளாகியது.
-
-விபத்தின் போது குறித்த வாகனத்தில் பெண்கள் சிறுவர்கள் உட்பட 15ற்கும் மேற்பட்டோர் பயணித்துள்ளனர்.
-
-விபத்தினால் வாகனத்தில் இருந்த அனைவரும் வீதியில் தூக்கிவீசப்பட்ட நிலையில் சம்பவ இடத்தில் இருவர் மரணமடைந்ததுடன் ஏனையோர் படுகாயமடைந்திருந்தனர்.
-
-இதன்போது வீதியால் பயணித்த பொதுமக்களின் உதவியுடன் காயமடைந்தவர்கள் மீட்கப்பட்டு வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
-
-விபத்தில் சம்பவ இடத்திலேயே பெண் உட்பட இருவர் பலியானதுடன் 13பேர் காயமடைந்தநிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-உயிரிழந்தவர்கள் முல்லைத்தீவு விசுவமடு பகுதியை சேர்ந்த யாழினி வயது33 ,சுயன் வயது30 என்று தெரிவிக்கப்படுகின்றது.
-
-...
-
-[Data](articles/98e6c7a1.json)
 
 ---

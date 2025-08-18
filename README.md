@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 22:24:24**
+As of **2025-08-18 22:36:58**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-18 (Monday)
 
-### ජනපති ⁣ලේකම් කාර්යාලය අසළ රැය පහන් කරන ගුරුවරු
+### ඉල්ලීම් වෙනුවෙන් ජනපති ⁣ලේකම් කාර්යාලය අසල රැය පහන් කරන ගුරුවරු
 
 *2025-08-18 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213521) · `si`
 

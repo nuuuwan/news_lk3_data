@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 09:36:08**
+As of **2025-08-18 10:03:08**
 
 ## Newspaper Stats
 
-*Scraped **71,029** Articles*
+*Scraped **71,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,43 @@ adalk | 6,854
 adaderanalk | 8,886
 tamilmirrorlk | 10,463
 virakesarilk | 11,779
-adaderanasinhalalk | 12,250
+adaderanasinhalalk | 12,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 71,029 articles have been extended.
+61,973 (87.2%) of 71,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### නයිජීරියාවේ බෝට්ටු අනතුරකින් 40ක් අතුරුදන්
+
+*2025-08-18 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213493) · `si`
+
+නයිජීරියාවේ වයඹදිග සොකෝටෝ ප්‍රාන්තයේ සිදු වූ බෝට්ටු අනතුරකින් පුද්ගලයින් 40 දෙනෙකු අතුරුදන්ව තිබේ.
+
+50 දෙනෙකුට ආසන්න මගීන් පිරිසක් රැගත් බෝට්ටුවක් මෙලෙස අනතුරට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඉන් පුද්ගලයින් 10 දෙනෙකු පමණ බේරාගෙන ඇති අතර තවත් මගීන් 40 කට වැඩි පිරිසක් තවමත් අතුරුදහන් වී ඇති බව සදහන් වේ.
+
+◼️
+
+[Data](articles/7ec728d0.json)
+
+---
 
 ### දුම්රියක් පීලි පනී
 
 *2025-08-18 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213492) · `si`
 
 කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථාන අතර දුම්රියක් පීලිපැනීමට ලක්ව තිබේ.
+
+ඒ හේතුවෙන් ප්‍රධාන මාර්ගයේ සහ මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාද වී ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පැවසුවේය.
+
+ගාල්ල සිට මරදාන බලා ධාවනය වු අංක 8327 යන දුම්රිය මෙලෙස පීලි පැනීමට ලක්ව තිබේ.
 
 ◼️
 
@@ -1735,25 +1755,5 @@ Divulapitiya Police have deployed a team to arrest the three suspects and are co
 ◼️
 
 [Data](articles/b47b80a7.json)
-
----
-
-### 7 killed after cloudburst, landslide in Jammu and Kashmir’s Kathua, rescue ops on
-
-*2025-08-17 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111551/7-killed-after-cloudburst-landslide-in-jammu-and-kashmirs-kathua-rescue-ops-on) · `en`
-
-At least seven people were killed and many others were injured in two separate incidents of cloudburst and landslide in Jammu and Kashmir’s Kathua district, officials said on Sunday.
-
-Five people lost their lives due to flooding caused by a cloudburst in Jodh Ghati, while two persons were killed in a landslide in Janglote. Both incidents occurred during the intervening night of Saturday and Sunday.
-
-Union Minister Jitendra Singh, who is a member of Parliament from Jammu and Kashmir’s Udhampur, said a railway track, the National Highway-44 and a police station were also damaged.
-
-“The civilian administration, military and paramilitary have swung into action. The situation is being continuously monitored,” he posted on X after speaking to a senior police officer in Kathua.
-
-“My sincere condolences to the families of the deceased,” he added
-
-...
-
-[Data](articles/ef2b0632.json)
 
 ---

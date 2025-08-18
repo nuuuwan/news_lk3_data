@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 18:10:36**
+As of **2025-08-18 18:33:42**
 
 ## Newspaper Stats
 
-*Scraped **71,089** Articles*
+*Scraped **71,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,854
 adaderanalk | 8,913
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,271
+adaderanasinhalalk | 12,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,089 articles have been extended.
+61,973 (87.2%) of 71,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### බලශක්ති ඇමති කුමාර ජයකොඩිට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්
+
+*2025-08-18 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213515) · `si`
+
+බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතාට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+ශ්‍රී ලංකා හරිත සංවිධාන නියෝජනය කරමින් සංක චන්දිම අබේවර්ධන විසින් මෙම පැමිණිල්ල ගොනු කර ඇත.
+
+බලශක්ති අමාත්‍යවරයා විසින් පොහොර සංස්ථාවේ සේවය කරන අවදියේදී සිදුකරන ලද දූෂිත ටෙන්ඩර් ගනුදෙනුවකින් රජයට පාඩු කිරීම ඇතුළු කරුණු ගණනාවක් සම්බන්ධව මෙම පැමිණිල්ල ගොනු කර තිබේ.
+
+එමෙන්ම අමාත්‍යවරයා අමාත්‍ය ධුරය දැරීමේදී ගත් යම් යම් තීරණ හේතුවෙන් රජයට පාඩුවක් සිදුකර ඇතැයිද මේ සම්බන්ධවද විමර්ශනය කරන ලෙස ඉල්ලා හරිත සංවිධානය විසින් මෙම පැමිණිල්ල ගොනු කර ඇත.
+
+පැමිණිල්ල ගොනු කළ සංක චන්දිම මහතා පැවසුවේ සියලු සිදුවීම්වල ලිපි ලේඛණ අල්ලස් කොමිසම වෙත භාර දුන් බවත් ජනාධිපතිවරයා විසින් අමාත්‍යවරයා සම්බන්ධව තීරණයක් ගත යුතු බැවින් වහාම ඔහු අමාත්‍ය ධුරයෙන් නෙරපා හැරිය යුතු බවත්ය‍.
+
+"මේ අන්ත දූෂිතයෙකුට අමාත්‍යධුරයක් දුන්නාම මෙහෙම ප්‍රශ්න ඇතිවෙන්නේ නැද්ද? ඒ ප්‍රශ්නවලට ජනාධිපතිවරයාට වගකීමක් නැද්ද?, ජනාධිපතිවරයා වහාම මේ සම්බන්ධව පියවර අරගෙන මේ දූෂිත ගනුදෙනු සියල්ල අහෝසි කරලා දාන්න ඕනේ සහ ඔහුව ධුරයෙන් පහ කරන්න ඕනේ"
+
+◼️
+
+[Data](articles/d232d1de.json)
+
+---
 
 ### පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට වරෙන්තු
 
@@ -38,7 +60,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හිටපු පාර්ලිමේන්තු මන්ත්‍රී පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට අධිකරණය මගින් වරෙන්තු නිකුත් කර තිබේ.
 
-පොලිසිය විසින් අධිකරණයට සිදුකරන ලද කරුණු දැක්විමක් සැලකිල්ලට ගනිමින් මෙම වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී උදේකුමාර් වුට්ලර් මහතා සඳහන් කළේය.
+පොලිසිය විසින් අධිකරණයට සිදුකරන ලද කරුණු දැක්විමක් සැලකිල්ලට ගනිමින් මෙම වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්.යූ. වුට්ලර් මහතා සඳහන් කළේය.
 
 ඒ අනුව, අතුරලියේ රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය මගින් වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
 
@@ -1807,19 +1829,5 @@ Gaming encompasses both gambling—games of pure chance like casinos and lotteri
 ...
 
 [Data](articles/5fb3e847.json)
-
----
-
-### Rule of law in taxation: Rights before revenue – Part 2
-
-*2025-08-17 23:14:12* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-2/4-780385) · `en`
-
-Many tax officials continue to reject self-assessment returns by merely stating their conclusions, without providing the reasons required by law
-
-Part 1 of this article (https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-1/4-779983) emphasised the fundamental principle that taxpayers’ rights take precedence over the taxing right of the State, particularly when those rights are violated by tax authorities. In such instances, tax officials are not only legally bound but also morally obligated to respect and uphold taxpayers’ rights above their administrative duty of tax collection.
-
-...
-
-[Data](articles/b59de1b3.json)
 
 ---

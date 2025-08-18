@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 16:49:18**
+As of **2025-08-18 17:18:18**
 
 ## Newspaper Stats
 
-*Scraped **71,070** Articles*
+*Scraped **71,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,854
 adaderanalk | 8,904
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,267
+adaderanasinhalalk | 12,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,070 articles have been extended.
+61,973 (87.2%) of 71,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### තුසිත හල්ලොලුව අත්අඩංගුවට ගැනීමට වරෙන්තු
+
+*2025-08-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213512) · `si`
+
+ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා අත්අඩංගුවට ගන්නා ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (18) වරෙන්තු නිකුත් කළේය.
+
+කොළඹ අපරාධ කොට්ඨාශය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා විසින් මෙම වරෙන්තුව නිකුත් කරනු ලැබීය.
+
+මෑතකදී නාරාහේන්පිට ප්‍රදේශයේදී තුසිත හල්ලොලුව මහතාගේ වාහනයට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විසින් විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+එම විමර්ශනය සම්බන්ධයෙන් පොලිසිය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහෙස්ත්‍රාත්වරයා මෙම වරෙන්තුව නිකුත් කළේය.
+
+◼️
+
+[Data](articles/7da31853.json)
+
+---
+
+### කටුනායක ගුවන්තොටුපොළ වෙත එන අයට නිවේදනයක්
+
+*2025-08-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213511) · `si`
+
+කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ කාර්යය බහුල දින සහ වේලාවලදී, ගුවන් මගීන් සමග පැමිණෙන අමුත්තන් සඳහා, පිටත්වීමේ පර්යන්තයේ ආලින්දය වෙත පිවිසීම අත්හිටුවීමට තීරණය කර තිබේ.
+
+ඒ අනුව සෑම සතියකම බ්‍රහස්පතින්දා, සිකුරාදා සහ සෙනසුරාදා යන දිනවල රාත්‍රී 10.00 සිට මධ්‍යම රාත්‍රී 12.00 දක්වා කාළය තුළ ගුවන්තොටුපොළේ පිටත්වීමේ පර්යන්තයේ ආලින්දය වෙත අමුත්තන්ට ඇතුළු වීම අත්හිටුවා ඇත.
+
+පසුගිය දිනවල ගුවන්තොටුපොළ පිටත්වීමේ පර්යන්තයේ රාත්‍රී කාළයේ ගුවන් මගීන් සහ ගුවන්තොටුපොළ භාවිතා කරන්නන් අධික තදබදයකට ලක් වීම හේතුවෙන් අපහසුතා ඇති වූ බව වාර්තා වෙයි.
+
+ඒ හේතුවෙන් බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ කාර්යබහුල වේලාවන්හිදී ගුවන් මගීන්ගේ පහසුව සඳහා මෙහෙයුම් කටයුතු සුමටව සිදු කිරීම සහ තදබදය කළමනාකරණය කිරීමට, මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/4287ef01.json)
+
+---
 
 ### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනතට එරෙහිව තවත් පෙත්සම් දෙකක්
 
@@ -1763,51 +1799,5 @@ The CEB initially plans another synchronous condenser in the Padukka grid substa
 ...
 
 [Data](articles/97f15453.json)
-
----
-
-### රු. කෝටි 10කට වැඩි මුදලක් වැයකළ මාදුරුඔය ව්‍යාපෘතිය අතරමඟ නවතලා
-
-*2025-08-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213479) · `si`
-
-රුපියල් කෝටි 10කට අධික මුදලක් වැයකළ මාදුරුඔය සංවර්ධන ව්‍යාපෘතිය මේ වන විට අතරමඟ නවතා දමා තිබේ.
-
-මාදුරුඔය දකුණු ඉවුර සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණේ 2021 වසරේදි ය.
-
-මෙම ව්‍යාපෘතිය මගින් අම්පාර දිස්ත්‍රික්කයටත්, පොළොන්නරුව දිස්ත්‍රික්කයේ ඇතැම් වගා භූමි සඳහාත් ජලය සැපයීම එවක රජයේ අරමුණ වී තිබුණි.
-
-වර්ෂා කාලයේදී මාදුරුඔය ජලාශයෙන් පිටකෙරෙන වාන් ජලය අපතේ නොයවා වගාවට ලබාගැනීම මෙම ව්‍යාපෘතිය මගින් සිදුකළ හැකිව තිබූ සුවිශේෂී කාර්යයකි.
-
-මේ දැවැන්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත කර තිබූ මුදල රුපියල් කෝටි 10කටත් අධිකය.
-
-ව්‍යාපෘතිය වෙනුවෙන් අධික මිල ගණන් යටතේ රැගෙන ආ යන්ත්‍ර සූත්‍ර විශාල ප්‍රමාණයක් ද මේ වන විට එම භූමියේ අබලන්ව අතහැර දමා තිබේ.
-
-කෙසේ වෙතත් මෙම ව්‍යාපෘතියට මුවාවී මාදුරුඔය අවට ප්‍රදේශවල භූමියේ පස් සෝදා අධික මිලකට විකිණීමේ ජාවාරමක් ද ක්‍රියාත්මක වේ.
-
-කිලෝමීටර් 13ක් පමණ දිගින් යුත් මාදුරුඔය දකුණ ඉවුරේ ප්‍රධාන ඇල දෙපස අධික ලෙස ඛාදනය වී ඇත්තේද මෙම ජාවාරම්කරුවන්ගේ කූඨ වැලි ජාවාරමේ ප්‍රතිඵලයක් ලෙසිනි.
-
-...
-
-[Data](articles/73fb5b50.json)
-
----
-
-### Sri Lanka’s inflexible labour laws may be hurting tech investments: PE fund
-
-*2025-08-17 19:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-inflexible-labour-laws-may-be-hurting-tech-investments-pe-fund-236914/) · `en`
-
-ECONOMYNEXT – Sri Lanka should modernize its labour laws to take into account industry specific factors and emerging global changes, a private equity fund manager targeting South and South East Asia has said.
-
-Already industries operated under distinct laws, such as Shop and Office Employees Act, the Factory Ordinance Act for manufacturing, and the Mining Act for extractive industries.
-
-Many of these laws however were designed for a manufacturing economy of the past, Arj Samarakoon, head of Plus94 Fund has said at forum on labour reforms.
-
-“Labour laws are there to protect employees and to support healthy relationships with employers, but they should not be crafted in a way that hinders ethical employers from running their businesses,” Arj Samarakoon, he was quoted as saying in a statement.
-
-Sri Lanka’s Shop and Office Act, which applies to the IT sector still restricted women working after 6.00 pm.
-
-...
-
-[Data](articles/b6f006f8.json)
 
 ---

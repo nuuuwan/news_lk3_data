@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 15:50:20**
+As of **2025-08-18 16:07:39**
 
 ## Newspaper Stats
 
-*Scraped **71,068** Articles*
+*Scraped **71,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,854
 adaderanalk | 8,904
 tamilmirrorlk | 10,463
 virakesarilk | 11,780
-adaderanasinhalalk | 12,265
+adaderanasinhalalk | 12,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,068 articles have been extended.
+61,973 (87.2%) of 71,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### පළමු මාස හය තුළ ගුවන් තොටුපොළ සහ ගුවන් සේවා මෙහෙයුම් ලාභයේ වර්ධනයක්
+
+*2025-08-18 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213509) · `si`
+
+ශ්‍රී ලංකා ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගම පළමු මාස 06 තුළ මෙහෙයුම් ලාභයේ 78%ක වර්ධනයක් පෙන්නුම් කර ඇතැයි ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය පැවසුවේ පසුගිය වසරට සාපේක්ෂව මෙම වසරේ පළමු මාස 6 තුළ මෙම වර්ධනය පෙන්නුම් කර ඇති බවය.
+
+ඒ අනුව පසුගිය වසරේ පළමු මාස 06 තුළ මෙහෙයුම් ලාභය ලෙස රුපියල් මිලියන 9,049ක් සටහන් වී ඇති අතර 2025 පළමු මාස 06 තුළ මෙහෙයුම් ලාභය රුපියල් 16,133ක් ලෙස සටහන් වී තිබේ.
+
+එමෙන්ම පසුගිය 2024 වසරට සාපේක්ෂව  2025 වසරේ ගුවන්ගමන්වාර 16%ක වර්ධනයක් පෙන්නුම් කර ඇතැයිද එම අමාත්‍යාංශය පවසයි.
+
+ජාත්‍යන්තර ගුවන්ගමන් වාරවල 17%ක වර්ධනයක් පෙන්නුම් කර ඇති අතර දේශීය ගුවන්ගමන් වාරවලද 10%ක වර්ධනයක් පෙන්නුම් කර ඇත.
+
+අමාත්‍යාංශය පැවසුවේ ජාත්‍යන්තර ගුවන්ගමන් වාරවල වැඩිම අගය පසුගිය මාර්තු මාසයේදී පෙන්නුම් කර ඇති අතර එය 2024 වසරේ මාර්තු මාසයට සාපේක්ෂව 22%ක වර්ධනයක් වන බවය.
+
+තවද දේශීය ගුවන්ගමන්වාරවල වර්ධනයේ වැඩිම අගය ජුනි මාසයේදී පෙන්නුම් කර ඇති අතර එය 2024 වසරට සාපේක්ෂව 38%ක වර්ධනයකි.
+
+◼️
+
+[Data](articles/c44929a6.json)
+
+---
 
 ### සංචාරක පැමිණීම ලක්ෂ 15 පනී
 
@@ -38,11 +62,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 2025 වසරේ මේ දක්වා මෙරටට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව ලක්ෂ 15 සීමාව ඉක්මවා ගොස් තිබේ.
 
-විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කරන්නේ, සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,500,656ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ ඇත.
+විදේශ කටයුතු අමාත්‍යාංශය සඳහන් විසින් නිකුත්කරන ලද සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,500,656ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ ඇත.
 
-මීට අමතරව අගෝස්තු මාසයේ පළමු දින 18 තුළ පමණක් සංචාරකයන් 150,000 ඉක්මවා මෙරටට පැමිණ ඇත.
+මීට අමතරව අගෝස්තු මාසයේ පළමු දින 18 තුළ පමණක් සංචාරකයන් 132,368 ඉක්මවා මෙරටට පැමිණ ඇති බව සඳහන්ය.
 
-අගෝස්තු මාසයේ පැමිණි සංචාරකයින් අතර පිළිවෙලින් ඉන්දී, බ්‍රිතාන්‍යය, රැසියානු, ජර්මන් සහ චීන ජාතිකයින් ඉදිරියෙන් සිටී.
+අගෝස්තු මාසයේ පැමිණි සංචාරකයින් අතර පිළිවෙලින් ඉන්දීය, බ්‍රිතාන්‍යය, රුසියානු, ජර්මන් සහ චීන ජාතිකයින් ඉදිරියෙන් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි
 
 ◼️
 
@@ -1783,23 +1807,5 @@ Sri Lanka’s Shop and Office Act, which applies to the IT sector still restrict
 ◼️
 
 [Data](articles/fc8fc6ea.json)
-
----
-
-### President’s Secretary says efficiency of public service can be enhanced through AI
-
-*2025-08-17 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111557/presidents-secretary-says-efficiency-of-public-service-can-be-enhanced-through-ai) · `en`
-
-Another workshop in a series of special seminars planned for government executive officers on the use of artificial intelligence (AI) to turn the public service into an effective and efficient service was held at Temple Trees on Saturday (16).
-
-Organised by the Ministry of Digital Economy, with the support of the Presidential Secretariat, under the theme ‘AI for Transforming Public Service’, the workshop brought together executive officers from ten Ministries, the President’s Media Division (PMD) said.
-
-The session was designed with key objectives: raising awareness and preparing government officials as an initial step in the state’s digitalisation agenda, as well as fostering a positive attitude towards AI within the public service.
-
-Secretary to the President Dr. Nandika Sanath Kumanayake emphasised that the government is taking necessary steps towards digital transformation and that the public service must be ready for this shift.
-
-...
-
-[Data](articles/43578957.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 10:52:13**
+As of **2025-08-18 11:07:45**
 
 ## Newspaper Stats
 
-*Scraped **71,030** Articles*
+*Scraped **71,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,886
+adaderanalk | 8,889
 tamilmirrorlk | 10,463
-virakesarilk | 11,779
-adaderanasinhalalk | 12,251
+virakesarilk | 11,780
+adaderanasinhalalk | 12,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,030 articles have been extended.
+61,973 (87.2%) of 71,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### 'සුපර්මෑන්'ගේ දුෂ්ටයා දිවි ගමනට සමුදෙයි
+
+*2025-08-18 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213494) · `si`
+
+බ්‍රිතාන්‍ය ජාතික ප්‍රකට රංගන ශිල්පියෙකු වන ටෙරන්ස් ස්ටෑම්ප් මියගොස් තිබේ.
+
+'සුපර්මෑන්' චිත්‍රපට මාලාවේ ප්‍රධාන දුෂ්ට චරිතයක් වූ ජෙනරල් සොඩ්ගේ චරිතයට පණ පොවමින් ඔහු ලොව පුරා වඩාත් ජනප්‍රිය විය.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ මියයන විට ඔහු 87 හැවිරිදි වියේ පසුවු බවය.
+
+◼️
+
+[Data](articles/05f5d470.json)
+
+---
+
+### More than 40 missing in Nigeria boat accident
+
+*2025-08-18 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111568/more-than-40-missing-in-nigeria-boat-accident) · `en`
+
+More than 40 people were missing in a boat accident in Nigeria after a boat conveying 50 persons to a popular market in northwest Sokoto State capsized on Sunday, the country’s emergency agency said.
+
+The passengers were travelling to Goronyo market, a popular food produce market in the state, when the boat capsized. Ten people have been rescued, Zubaidar Umar, the head of the National Emergency Management Agency, said in a statement on social media platform X.
+
+The agency said it is collaborating with local authorities and emergency responders in a search and rescue operation to locate the missing persons.
+
+Three weeks ago, at least 13 people died and dozens more were missing after a boat ferrying around 100 passengers capsized in Niger State, in north-central Nigeria.
+
+◼️
+
+[Data](articles/fe8b34fa.json)
+
+---
 
 ### නයිජීරියාවේ බෝට්ටු අනතුරකින් 40ක් අතුරුදන්
 
@@ -48,6 +82,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trains delayed on coastal and main lines after derailment
+
+*2025-08-18 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111567/trains-delayed-on-coastal-and-main-lines-after-derailment) · `en`
+
+A train traveling from Galle to Colombo derailed this morning (18) between Maradana and Colombo Fort railway stations, causing significant delays on both the main and coastal railway lines, according to Sri Lanka Railways.
+
+The derailment involved train No. 8327, which was operating on the Galle–Maradana route.
+
+◼️
+
+[Data](articles/2d1e8a26.json)
+
+---
+
 ### දුම්රියක් පීලි පනී
 
 *2025-08-18 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213492) · `si`
@@ -61,6 +109,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b51c0a5d.json)
+
+---
+
+### ‘Hartal’ launched in North and East
+
+*2025-08-18 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111566/hartal-launched-in-north-and-east) · `en`
+
+A ‘hartal’ is currently underway in the North and East, according to the Ilankai Tamil Arasu Kachchi (ITAK).
+
+The ‘hartal’ has been called in response to the recent death of a 32-year-old man in Mullaitivu and the alleged actions of the military in the region.
+
+A group of individuals who had entered a military camp in Oddusuddan, Mullaitivu were allegedly assaulted by three members of the army. The situation escalated when one of the young men, who had reportedly entered the camp, was later found dead in a nearby lake. Several military personnel are accused of involvement in the incident.
+
+Police stated that two special investigation teams have been assigned in connection with the incident, and that three members of the army have been arrested and remanded in custody.
+
+Meanwhile, ITAK MP Shanakiyan Rasamanickam said that the ‘hartal’ campaign is being organized in the Northern and Eastern provinces to protest against the death of the 32-year-old man in Mullaitivu.
+
+...
+
+[Data](articles/994da4d3.json)
+
+---
+
+### எம்.பிக்களின் ஓய்வூதிய இரத்து விவகாரம் எதிர்ப்பை  சம்பாதிப்பாரா அநுர...!
+
+*2025-08-18 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222772) · `ta`
+
+பாராளுமன்ற அரசியலை விட்டு விலகியிருந்தாலும் முன்னாள் எம்.பிக்களில் பலரும்  சொகுசு வாகனங்களில் வலம் வருபவர்களாகவும் செல்வத்தில் மிதப்பவர்களாகவும் உள்ளனர். எனவே மாதாந்தம் 68 ஆயிரம் வரையான ஓய்வூதியம் கிடைக்காவிட்டால் உயிரை மாய்த்துக்கொள்வோம் என இவர்கள் எக்காலத்திலும் கூற மாட்டார்கள். பாராளுமன்றத்தின் ஐந்து வருடங்களை பூர்த்தி செய்தவர்கள் ஓய்வூதியம் பெறும் அதே வேளை ,  ஒரு சில அமர்வுகளுக்கு மாத்திரம் தலை காட்டி சென்றவர்கள்  , வாயே திறக்காமல் சபையில் அமர்ந்திருந்தவர்களுக்கெல்லாம்  மூன்று கோடிக்கு மேல் மதிப்புள்ள சொகுசு வாகனங்களை வாங்குவதற்கு தீர்வையில்லாத அனுமதி பத்திரங்கள் வழங்கப்பட்டன என்பது முக்கிய விடயம். இதனால் நாட்டுக்கு ஏற்பட்ட நட்டம் பில்லியன்களை தாண்டும்.  ஆனால் முன்னாள் எம்.பிக்கள் சிலர் ஓய்வூதிய இரத்துக்கு மெளனம் காத்தாலும் தற்போது அநுர அரசுக்கு எதிராக செயற்படும் மகிந்த உள்ளிட்ட விமல் ,. உதய கம்மன்பில ஆகியோர்  இந்த திட்டத்தை எதிர்த்து கருத்துத் தெரிவித்து வரும் அதே வேளை தமது ஆதரவாளர்களையும் இதற்கு எதிராக தூண்டி விட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/84760f4c.json)
 
 ---
 
@@ -1665,95 +1745,5 @@ The investigation conducted so far has revealed that the person was attacked by 
 ◼️
 
 [Data](articles/ea97c493.json)
-
----
-
-### “இழந்த வாக்கு வங்கியை அதிகரிக்கவே கதவடைப்பு”
-
-*2025-08-17 16:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழந்த-வாக்கு-வங்கியை-அதிகரிக்கவே-கதவடைப்பு/175-363059) · `ta`
-
-இழந்து போன தங்களுடைய வாக்குவங்கியை அதிகரிக்கவே கதவடைப்பு போராட்டத்துக்கு அழைப்பு விடுக்கப்பட்டுள்ளது என போக்குவரத்து நெடுஞ்சாலைகள், புகையிரத சிவில் விமான போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-முத்தையன்கட்டு பிரதேசத்தில் இடம்பெற்ற சம்பவத்தை தொடர்ந்து 18 ஆம் ஆம் திகதி வடக்கு, கிழக்கு முழுவதும் கதவடைப்பு போராட்டத்தை மேற்கொள்ளுமாறு தமிழரசு கட்சியின் சுமந்திரன் அழைப்பு விடுத்துள்ளார்.
-
-உண்மையிலேயே இந்த கதவடைப்பு போராட்டம்  தேவையற்றது என்றும் அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-கிளிநொச்சியில் அமைந்துள்ள தேசிய மக்கள் சக்தியின் மாவட்ட அலுவலகத்தில் ஞாயிற்றுக்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-முத்தையன்கட்டு உயிரிழப்புக்கு பின்னர் என்னென்ன சட்ட நடவடிக்கைகள் மேற்கொள்ளப்பட வேண்டுமோ அவை அனைத்தும் நீதியான முறையில் இடம்பெற்று வருகிறது இந்த நிலையில் இந்த கதவடைப்பு என்பது அரசியல் தரப்பினர் இழந்து போன தங்களின் வாக்கு வங்கியை அதிகரிக்கவே மேற்கொள்கின்றனர் என அவர்கள் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/095f84aa.json)
-
----
-
-### දියතලාව මුලික රෝහල ඒ මට්ටමේ රෝහලක් ලෙස සංවර්ධනය කිරීමට අවධානය
-
-*2025-08-17 15:54:14* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාව-මුලික-රෝහල-ඒ-මට්ටමේ-රෝහලක්-ලෙස-සංවර්ධනය-කිරීමට-අවධානය/11-417953) · `si`
-
-ජනගහණය, ස්වභාවික සම්පත් සහ පහසුකම්, ඌණතා සහ දුෂ්කරතා ආදී සියල්ල බද්ධ වන මෙරට ආර්ථිකයේ ප්‍රධාන කේන්ද්‍රස්ථානයක් මෙන්ම සංචාරක ව්‍යාපාරයට ද මුලිකත්වයක් හිමිවන  දියතලාව ප්‍රදේශය කේන්ද්‍ර කර ගනිමින් දියතලාව මුලික රෝහල දැනට තිබෙන අක්කර 07 ක  භූමි සීමාව තුළ මුලික රෝහල (ඒ) හැටියට උපරිම මට්ටමට දියුණු කිරීම සෞඛ්‍ය අමාත්‍යාංශයේ පළමු බලාපොරොත්තුව බව මෙහි දී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා පෙන්වා දෙන ලදි.
-
-බණ්ඩාරවෙල රෝහල මූලික රෝහලක් බවට පත් කිරීම දියතලාව රෝහල මුලික රෝහලක් තත්ත්වයෙන් ඉවත් කිරීමක් නොවන බවත්, දියතලාව මුලික රෝහලේ පහසුකම් අඩු කර බණ්ඩාරවෙල මුලික රෝහල සංවර්ධනය නොකරන බව ද  මෙම මුලික රෝහල් 02 ක ම අත්‍යාවශ්‍ය රෝහල් දෙකක් වන බැවින් රෝහල් දෙකටම අවශ්‍ය පහසුකම් ලබා දී සංවර්ධනය කිරීමට පියවර ගන්නා බව ද අමාත්‍යවරයා මෙහි දී පෙන්වා දෙන ලදි.
-
-සංචාරක ක්ෂේත්‍රයේ සෞඛ්‍ය අවශ්‍යතා මෙන් ම ප්‍රදේශයේ  ජනතාවට සෞඛ්‍ය සේවා සපයන රෝහලක් ලෙස දියතලාව මුලික රෝහල හැදින්විය හැකි බවත්, එය විශේෂ තත්ත්වයක් බවත් අමාත්‍යවරයා මෙහිදී සිහිපත් කළේය.
-
-...
-
-[Data](articles/145092b7.json)
-
----
-
-### 46-year-old attacked to death over personal dispute
-
-*2025-08-17 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111552/46-year-old-attacked-to-death-over-personal-dispute) · `en`
-
-A person has been attacked to death with a sharp weapon and clubs in the Dunagaha area of Divulapitiya.
-
-Police said the attack was carried out by three individuals over a personal dispute.
-
-The victim, who sustained critical injuries in the incident, was initially admitted to the Divulapitiya Hospital and then transferred to the District General Hospital in Gampaha, where he had succumbed to his injuries.
-
-The deceased is a 46-year-old resident of the Madampella area.
-
-Divulapitiya Police have deployed a team to arrest the three suspects and are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/737fb506.json)
-
----
-
-### කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් දැනුවත් කිරීමේ වැඩමුළුවක්
-
-*2025-08-17 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213472) · `si`
-
-රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම වෙනුවෙන් කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් වෙනුවෙන් සංවිධානය කරන විශේෂ වැඩමුළු මාලාවේ තවත් එක් වැඩමුළුවක් අරලියගහ මන්දිරයේදී පැවැත්විණි.
-
-‘AI for Transforming Public Service’ යන මැයෙන් ජනාධිපති ලේකම් කාර්යාලයේ සහාය ඇතිව ඩිජිටල් ආර්ථික අමාත්‍යාංශය විසින් සංවිධානය කළ මෙම වැඩමුළුව සඳහා අමාත්‍යාංශ දහයක විධායක නිලධාරීහු එක්ව සිටියහ.
-
-රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ රජයේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස රාජ්‍ය නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීම, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීම යන අරමුණු ඇතිව මෙම වැඩමුළුව සංවිධානය කර ඇත.
-
-ඩිජිටල් පරිවර්තනයක් වෙනුවෙන් රජය අවශ්‍ය පියවර ගනිමින් සිටින බවත්, ඒ වෙනුවෙන් රාජ්‍ය සේවය සූදානම් විය යුතු බවත් ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා මෙහිදී සඳහන් කළේය.
-
-කෘත්‍රිම බුද්ධිය භාවිතා කිරීම තුළින් රාජ්‍ය සේවයේ කාර්යක්ෂමතාව වැඩිදියුණු කර ගනිමින් ජනතාවට වඩා හොද සේවාවක් ලබාදීමට අවධානය යොමු කළ යුතු බවද ජනාධිපති ලේකම්වරයා වැඩිදුරටත් කියා සිටියේය.
-
-...
-
-[Data](articles/a425d8cc.json)
-
----
-
-### ஊடகவியலாளர் குமணனிடம் சுமார் நான்கரை மணித்தியாலங்களுக்கு மேலாக தொடரும் விசாரணை
-
-*2025-08-17 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222743) · `ta`
-
-முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணனை பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட நிலையில், இன்று ஞாயிற்றுக்கிழமை (17) காலை 9.30 மணிக்கு முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றார்.
-
-விசாரணைக்காக அழைக்கப்பட்ட குமணன் சட்டத்தரணி நடராசா காண்டீபன் அவர்களுடன் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணை பிரிவில் விசாரணைக்காக சென்ற நிலையில் சுமார் பத்துமணியளவில் ஆரம்பித்த விசாரணை சுமார் நான்கரை  மணித்தியாலங்களாக தொடர்ச்சியாக இடம்பெற்று வருகின்றது இதுவரை விசாரணைகள் முடிவடையவில்லை.
-
-◼️
-
-[Data](articles/b47b80a7.json)
 
 ---

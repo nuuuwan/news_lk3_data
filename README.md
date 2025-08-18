@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 08:14:11**
+As of **2025-08-18 09:03:06**
 
 ## Newspaper Stats
 
-*Scraped **71,019** Articles*
+*Scraped **71,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ economynextcom | 4,330
 islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
-adalk | 6,852
+adalk | 6,854
 adaderanalk | 8,884
-tamilmirrorlk | 10,461
+tamilmirrorlk | 10,463
 virakesarilk | 11,779
-adaderanasinhalalk | 12,246
+adaderanasinhalalk | 12,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.3%) of 71,019 articles have been extended.
+61,973 (87.3%) of 71,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### මාළු ඇල්ලීමට ගිය පුද්ගලයා වැවේ ගිලී මරුට
+
+*2025-08-18 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213491) · `si`
+
+සෙවනගල ප්‍රදේශයේ හබුරුගල බෝධිරාජ වැවේ ගිලී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 42 ක් වූ මහගම ජනපදය, සෙවනගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අදාළ පුද්ගලයා තවත් පුද්ගලයෙකු සමඟ වැවේ මසුන් අල්ලමින් සිටියදී වළකට වැටී දියේ ගිලී මියගොස් ඇති බව සිදු කළ විමර්ශනයේදී අනාවරණය වී ඇත.
+
+මෘත ශරීරය ඇඹිලිපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් සෙවනගල පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/b2f599ad.json)
+
+---
+
+### ලබන වසරේ පළමු මාස 6 තුළ පළාත් සභා මැතිවරණය පැවැත්වීමට ආණ්ඩුවෙන් සැලසුම්
+
+*2025-08-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213490) · `si`
+
+පළාත් සභා මැතිවරණය පැවැත්වීමෙන් අනතුරුව ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනයක් සිදුකරන බව අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+ඔහු සදහන් කළේ, පවතින නීතිමය ගැටලු නිරාකරණය කර ගැනීමෙන් අනතුරුව ලබන වර්ෂයේ පළමු මාස 6 ඇතුළත පළාත් සභා මැතිවරණය පැවැත්වීමට කටයුතු කරන බවය.
+
+කිළිනොච්චිය ප්‍රදේශයේ ඊයේ (17) පැවති මාධ්‍ය හමුවකට එක්වෙමින් බිමල් රත්නායක අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+"2025 වසරේ අපි ඡන්ද පැවැත්වුවා. 2024 දීත් අපි නොවැම්බර් මාසයේ ඡන්දයක් පැවැත්වුවා. අපි බලාපොරොත්තු වෙනවා පළාත් සභා මැතිවරණය ලබන වසරේ මුල් මාස 6 තුළ කරන්න තමා මුලික අදහස තියෙන්නේ. නීතිමය වශයෙන් බාධාවක් තියෙනවා. ඒවා ඉවත් කරගන්න බලනවා.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථා ගෙන ඒම ගැන අපේ ප්‍රතිපත්තිමය තීරණයක් තියෙනවා. ආණ්ඩුක්‍රම ව්‍යවස්ථාව ගෙන ඒම කියන්නේ පුළුල් ක්‍රියාවලියක්. ඊට පෙර පළාත් සභා මැතිවරණය පැවැත්වීමට අපේ ඉලක්කය. පළාත් සභා ඡන්දය පවත්වලා ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණ ගැන පුළුල් දේශපාලන වැඩපිළිවෙලක් ආරම්භ කරනවා."
+
+◼️
+
+[Data](articles/ed43e3b9.json)
+
+---
+
+### විදුලිබල මණ්ඩලයේ ලාභ ඉහළට
+
+*2025-08-18 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213489) · `si`
+
+2025 ජූනි 30න් අවසන් මූල්‍ය කාර්තුව තුළ දී රු. බිලියන 5.31 ක ලාභයක් වාර්තා කිරීමට ලංකා විදුලිබල මණ්ඩලය සමත්ව තිබේ.
+
+පූර්ව කාර්තුවේ දී, එනම් 2025 මාර්තු 31න් අවසන් මූල්‍ය කාර්තුවේ දී රු. බිලියන 18.47ක අලාභයක් වාර්තා කර තිබූ පසුබිමක මෙම කාර්තුවේ දී මෙලෙස මණ්ඩලය ලාභ ලැබීම සුවිශේෂී සිදුවීමකි.
+
+2025 ජූනි මාසයේ දී සිදුකරන ලද විදුලි ගාස්තු සංශෝධනය හරහා මෙලෙස විදුලි බල මණ්ඩලයට ලාභදායිත්ව මගකට පිවිසීමට හැකිව තිබෙන බව විශ්ලේෂකයින්ගේ මතය වේ.
+
+කෙසේවෙතත් 2024 ජූනි කාර්තුවේ දී මණ්ඩලය ලැබූ රු. බිලියන 34.53ක ලාභය හා සැසඳීමේ දී 2025 ජූනි කාර්තුවේ ලැබූ ලාභය 85%කින් අඩුවීමක් පෙන්නුම් කරයි.
+
+වත්මන් රජය බලයට පැමිණීමෙන් පසු 2025 ජනවාරි මාසයේ දී 20%කින් පමණ විදුලි ගාස්තු පහළ දැමීමක් සිදුකෙරණු අතර එය 2025 මාර්තු කාර්තුවේ වාර්තා වුණු අලාභයට බෙහෙවින් හේතුවිය.
+
+මේ සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල කියා සිටියේ, ශ්‍රී ලංකාව එළඹ ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම් වැඩසටහන මීළඟ වාරිකය ලබා ගැනීම සඳහා පිරිවැය ආවරණය වන විදුලිය මිලකරණය නැවත ස්ථාපනය කළ යුතු බවයි.
+
+...
+
+[Data](articles/953ff7fe.json)
+
+---
+
+### தொடரும்  பணிப்புறக்கணிப்பு
+
+*2025-08-18 07:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரும்-பணிப்புறக்கணிப்பு/175-363095) · `ta`
+
+தபால் மற்றும் தொலைத்தொடர்பு அதிகாரிகள் சங்கம் மற்றும் ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியால் ஆரம்பிக்கப்பட்ட பணிப்புறக்கணிப்பு போராட்டம் தொடர்ந்து முன்னெடுக்கப்பட்டுள்ளது.
+
+19 கோரிக்கைகளை முன்வைத்து நேற்று (17) மாலை 4.00 மணி முதல் இந்த பணிப்புறக்கணிப்பு போராட்டத்தை அவர்கள் தொடங்கினர்.
+
+மத்திய தபால் பரிமாற்றத்தில் தொடங்கிய இந்த பணிப்புறக்கணிப்பு போராட்டம் நேற்று நள்ளிரவு 12.00 மணி முதல் நாடு தழுவிய அளவில் அமுல்ப்படுத்தப்பட்டுள்ளதாக தபால் தொழிற்சங்க முன்னணி தெரிவித்துள்ளது.
+
+இதன் விளைவாக, இன்று அனைத்து தபால் செயல்பாடுகளும் பாதிக்கப்படும் என்று ஒன்றிணைந்த அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.  R
+
+◼️
+
+[Data](articles/1c1ac096.json)
+
+---
+
+### பாடசாலைகள் மீண்டும் ஆரம்பம்
+
+*2025-08-18 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-363094) · `ta`
+
+2025ஆம் ஆண்டுக்கான அரசாங்க பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளுக்கான மூன்றாம் தவணையின் முதலாம் கட்டம் இன்று ஆரம்பமாகிறது.
+
+இன்று (18) ஆரம்பமாகும் மூன்றாம் தவணையின் முதலாம் கட்டம் எதிர்வரும் நவம்பர் மாதம் 7 ஆம் திகதி முடிவடையும் என்றும் கல்வி அமைச்சு அறிவித்துள்ளது.
+
+எனினும், முஸ்லிம் பாடசாலைகளுக்கான மூன்றாம் தவணை எதிர்வரும் 25ஆம் திகதி ஆரம்பமாகவுள்ளது.  R
+
+◼️
+
+[Data](articles/4c5d9d78.json)
+
+---
 
 ### උතුරු සහ නැගෙනහිර අද හර්තාල්
 
@@ -840,6 +934,26 @@ The core principle of circular economy underlies the need for putting the scarce
 
 ---
 
+### Sri Lanka’s CEB eyes 145MVA synchronous condensers to absorb renewables
+
+*2025-08-17 20:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-145mva-synchronous-condensers-to-absorb-renewables-236814/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has floated a request for information in efforts to build synchronous condensers into the grid, as the utility moves to absorb more renewable energy.
+
+In August the CEB sought information on a 75 Mega Volt Ampere (MVA) synchronous condenser system it plans to connect to a key substation in the grid.
+
+“Synchronous condenser is a new addition to the Ceylon Electricity Board, so the know-how has not developed,” Additional General Manager Transmission (No-wired) Susanthe Fernando said.
+
+“So we are calling for information from prospective bidders. We will make tender documents after we get information. We also plan to get consultancy service also for synchronous condensers.”
+
+The CEB initially plans another synchronous condenser in the Padukka grid substations with near term plans for 145 MVA of synchronous condensers, he said.
+
+...
+
+[Data](articles/97f15453.json)
+
+---
+
 ### රු. කෝටි 10කට වැඩි මුදලක් වැයකළ මාදුරුඔය ව්‍යාපෘතිය අතරමඟ නවතලා
 
 *2025-08-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213479) · `si`
@@ -1010,6 +1124,26 @@ The decline of the tie in Western professional attire marks a significant cultur
 
 ---
 
+### බලශක්ති අමාත්‍ය කුමාර ජය‍කොඩිට අල්ලස් කොමිෂමෙන් නඩු?
+
+*2025-08-17 18:48:34* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-අමාත්‍ය-කුමාර-ජය‍කොඩිට-අල්ලස්-කොමිෂමෙන්-නඩු-/11-417961) · `si`
+
+බලශක්ති අමාත්‍ය කුමාර ජයකොඩිට එරෙහිව නඩු පැවරීමට අල්ලස් කොමිෂම තීරණය කර ඇති බව සන්ඩේ ටයිම්ස් පුවත්පත වාර්තා කරයි.
+
+2015 දී පොහොර සංස්ථාවේ සේවය කරමින් සිටියදී අරමුදල් අවභාවිත කිරීම සම්බන්ධයෙන් ලැබුණු පැමිණිලිවලට අදාළව මෙම නඩු පැවැරීම සිදුකිරීමට නියමිතය.
+
+රජයේ මුදල් රුපියල් මිලියන 8 ක් අයථා පරිහරණය කිරීමේ චෝදනාව මත අමාත්‍යවරයාට සහ තවත් දෙදෙනෙකුට එරෙහිව මෙසේ මහාධිකරණයේ නඩු පැවරීමට නියමිතය.
+
+පොහොර සංස්ථාවේ ටෙන්ඩර් මණ්ඩලයේ ප්‍රධානියා ලෙස කටයුතු කරමින් සිටියදී සිදුවූ අක්‍රමිකතාවක් සම්බන්ධයෙන් මෙම විමර්ශන සිදු කරයි.ගෙවීම් ක්‍රියා පටිපාටි සහ ටෙන්ඩරයට අදාළ බැඳුම්කර සම්බන්ධයෙන් ගැටලු මතුවීමෙන් පසුව ටෙන්ඩරය පිළිබඳ පරීක්ෂණ ආරම්භ ව තිබේ.
+
+මෙම අක්‍රමිකතාවට අදාළව  සිදුකරනු ලැබූ පෙර විමර්ශන සලකා බලා අල්ලස් කොමිසම පරීක්ෂණ නැවත අරම්භ කර තිබුණි.ඒ අනුව දූෂණ චෝදනාවලට මුහුණ දෙන වත්මන් රජයේ පළමු අමාත්‍යවරයා කුමාර ජය‍ෙකාඩි වනු ඇත.
+
+...
+
+[Data](articles/1b5a248a.json)
+
+---
+
 ### சாவகச்சேரியில் களவில் ஈடுபட்ட குற்றத்தில் குடத்தனையில் இருவர் கைது
 
 *2025-08-17 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/222761) · `ta`
@@ -1109,6 +1243,20 @@ Isuru Gunasekara has been honoured as the Best Automobile Training Lecturer of t
 ...
 
 [Data](articles/6ffa5df1.json)
+
+---
+
+### නිධානය ගන්න ගිය නි. පොලිස්පති බිරිදට අවැසි භාණ්ඩත් පොලීසිවලින්ම දීලා
+
+*2025-08-17 18:10:55* · [`adalk`](https://www.ada.lk/breaking_news/නිධානය-ගන්න-ගිය-නි--පොලිස්පති-බිරිදට-අවැසි-භාණ්ඩත්-පොලීසිවලින්ම-දීලා/11-417959) · `si`
+
+පුරාවස්තු වටිනාකමින් යුත් දේවාලයක් පිහිටි නිවසක් තුළ නිධන් වස්තු සොයා කැණීම් කරමින් සිටියදී අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කරසිටින කොළඹ ප්‍රදේශයේ නියෝජ්‍ය පොලිස්පතිවරයාගේ බිරිඳ ට එම පුද පූජා කටයුතු සඳහා කුකුළෙකු සහ අනෙකුත් භාණ්ඩ සපයා ඇත්තේ කොළඹට ආසන්න පොලීසියකින් බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+
+එකී පොලීසිය එම නියෝජ්‍ය පොලිස්පතිවරයා යටතේම පවතින අතර එම සියල්ල සපයා ඇත්තේ නියෝජ්‍ය පොලිස්පතිවරයාගේ ඉල්ලීම මත ස්ථානාධිපතිවරයාගේ නියෝග මත එම ආරංචි මාර්ගවලින් පැවසේ. එම නියෝජ්‍ය පොලිස්පතිවරයාගේ බිරිඳ ද හිටපු පොලිස් කොස්තාපල් වරියක් බව දැන ගන්නට ඇත.
+
+...
+
+[Data](articles/00f2b237.json)
 
 ---
 
@@ -1623,147 +1771,5 @@ Union Minister Jitendra Singh, who is a member of Parliament from Jammu and Kash
 ...
 
 [Data](articles/4d024c8e.json)
-
----
-
-### කාන්තාවන් සහ ළමයින් ගැන කතා කරන්න කාන්තා සහ ළමා අනුකමිටුවක්
-
-*2025-08-17 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213468) · `si`
-
-සියලුම දිස්ත්‍රික් සහ ප්‍රාදේශීය සම්බන්ධීකරණ කමිටුවලට අනුබද්ධව "කාන්තා සහ ළමා අනුකමිටුව"ක් පිහිටුවීමට කාන්තා සහ ළමා කටයුතු අමාත්‍යාංශය මගින් සියලුම දිස්ත්‍රික් දැනුවත් කර තිබේ.
-
-කළුතර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ කාන්තා සහ ළමා අනුකමිටුව කළුතර දිස්ත්‍රික් ගරු පාර්ලිමේන්තු මන්ත්‍රිනී නිලන්ති කොට්ටහච්චි මහත්මියගේ ප්‍රධානත්වයෙන් පැවැත්විය.
-
-ළමා හා කාන්තා කටයුතු අමාත්‍යාංශය, පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තුව, මුල් ළමා විය සංවර්ධනය පිළිබඳ ජාතික ලේකම් කාර්යාලය, කාන්තා කාර්යාංශය, ජාතික ළමාරක්ෂක අධිකාරිය, පළාත් පරිවාස දෙපාර්තමේන්තුව, ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ කාර්යාලය, කළුතර, මතුගම සහ හොරණ කලාප අධ්‍යාපන කාර්යාල, කොට්ඨාශ හා පොලිස් ළමා හා කාන්තා කාර්‍යාංශය යන ආයතන නියෝජනය කරනු ලබන නිලධාරීන් ද මේ සඳහා සහභාගී වී ඇත.
-
-ළමා හා කාන්තා ඒකක ළමා මිතුරු ඒකක ලෙස දැනට පවත්නා ඒකක සංවර්ධනය කිරීම සහ පහසුකම් ලබා දීම, දිස්ත්‍රික්කයේ පාසල් නොයන ළමුන් පාසල් ගත කිරීමේ වැඩසටහන සඳහා ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමෙන් සංචිත අරමුදලක් ඇති කිරීම ආදී යෝජනා පිළිබඳව මෙහිදී අවධානය යොමුව තිබේ.
-
-...
-
-[Data](articles/c3ddc4c9.json)
-
----
-
-### Tourist arrivals in August top 99,000
-
-*2025-08-17 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111550/tourist-arrivals-in-august-top-99000) · `en`
-
-A total of 99,406 tourists have arrived in the country thus far in August, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-According to data released by the SLTDA, a total of 19,572 tourists have arrived from India which accounts to 19.7%. Furthermore, 10,970 persons from the United Kingdom, 7,641 from Italy, 6,870 from France and 6,762 Chinese nationals have also visited Sri Lanka in the month of August.
-
-Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,467,694 with the release of the latest figures for August.
-
-Among them, 268,694 individuals are from India, 142,347 from the UK and 117,322 are from Russia, the SLTDA noted.
-
-◼️
-
-[Data](articles/af36edab.json)
-
----
-
-### US-India trade talks scheduled for August called off, source says
-
-*2025-08-17 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111549/us-india-trade-talks-scheduled-for-august-called-off-source-says) · `en`
-
-A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has been called off, a source said, delaying talks on a proposed trade agreement and dashing hopes of relief from additional U.S. tariffs on Indian goods from August 27.
-
-The current round of negotiations for the proposed bilateral trade agreement is now likely to be deferred to another date that has yet to be decided, the source with direct knowledge of the matter said.
-
-The U.S. embassy in New Delhi said it has no additional information on the trade and tariff talks, which are being handled by the United States Trade Representative (USTR).
-
-India’s trade ministry did not immediately reply to a Reuters email seeking comments.
-
-Earlier this month, U.S. President Donald Trump imposed an additional 25% tariff on Indian goods, citing New Delhi’s continued imports of Russian oil in a move that sharply escalated tensions between the two nations.
-
-...
-
-[Data](articles/96141b1e.json)
-
----
-
-### Harry Jayawardena, Sri Lanka business leader, remembered on his birthday
-
-*2025-08-17 13:53:00* · [`economynextcom`](https://economynext.com/harry-jayawardena-sri-lanka-business-leader-remembered-on-his-birthday-236869/) · `en`
-
-ECONOMYNEXT – Every year, for so many years, the first thing I would do as soon as I woke up on the 17th of August was to call my dear friend, the late Harry Stassen Jayawardena. Every single time, it started with, “Happy birthday, Lokka.”
-
-He would answer right back, “Thank you, Lokka.” It’s funny how we both called each other ‘Lokka.’ That strange nickname became our little tradition, and it always made us grin.
-
-Today, i.e. the 17th of August, 2025, it’s different. I can make the call. I know what to say. But Lokka is no more.
-
-At the end of the day, if you really look at it, life is all about family and good friends. To most people, Harry was an enterprising and successful businessman. To me, he was the kind of friend you rarely meet, one whose loyalty had no limits. When such people go, they leave behind an enormous chasm.
-
-...
-
-[Data](articles/554fb442.json)
-
----
-
-### “என் மடியில் வளர்ந்த பிள்ளை லொஹான்”
-
-*2025-08-17 13:36:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/என்-மடியில்-வளர்ந்த-பிள்ளை-லொஹான்/76-363052) · `ta`
-
-மறைந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த, குழந்தையாக இருந்த காலத்தில் எனது மடியில் வளர்ந்த பிள்ளை என ஐக்கிய மக்கள் சக்தியின் முன்னாள் பாராளுமன்ற உறுப்பினர்  லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
-
-எழுபதுகளில் அனுருத்த ரத்வத்தே கலந்து கொண்ட கூட்டத்தில் அவர் உரையாற்றும் வாய்ப்பை வழங்குவதற்காக லொஹானை தனது மடியில் வைத்திருந்ததாகவும்  அவர் நினைவுபடுத்தினார்.
-
-லொஹான் ரத்வத்தையின் மறைவுக்கு ஆழ்ந்த அனுதாபங்களை  தெரிவிப்பதாக லக்ஷ்மன் கிரியெல்ல மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/4a844720.json)
-
----
-
-### ‘Galu Kumari’ Train Derailment: One railway track reopened for limited operations
-
-*2025-08-17 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111548/galu-kumari-train-derailment-one-railway-track-reopened-for-limited-operations) · `en`
-
-The Department of Railways states that restoration work is still underway on the ‘Galu Kumari’ express train, which derailed near the Ginthota Railway Station yesterday.
-
-The incident occurred around 5:30 p.m. yesterday when the train, traveling from Maradana to Beliatta, derailed near Ginthota.
-
-The derailment caused serious damage to the railway line, including approximately 250 concrete sleepers and parts of the tracks.
-
-As a result, the Department of Railways limited train operations on the coastal line up to the Ambalangoda Railway Station.
-
-Restoration work on the damaged section began last night, and by around 11:00 a.m. today (17), one railway track was reopened for limited train operations.
-
-The Department further stated that steps are being taken to complete repairs and fully reopen the line for regular train services as soon as possible.
-
-◼️
-
-[Data](articles/a3557931.json)
-
----
-
-### மூன்றாம் தவணை நாளை ஆரம்பம்
-
-*2025-08-17 13:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-நாளை-ஆரம்பம்/175-363051) · `ta`
-
-2025ஆம் ஆண்டின் அரச பாடசாலைகள் மற்றும் அரச அனுமதி பெற்ற தனியார் பாடசாலைகளில் சிங்களம் மற்றும் தமிழ் பாடசாலைகளுக்கான இரண்டாவது பாடசாலைத் தவணை கடந்த 7 ஆம் திகதி நிறைவடைந்தது.
-
-இதன்படி, குறித்த பாடசாலைகளின் 3 ஆம் தவணை கற்றல் நடவடிக்கைகள் நாளை (18) ஆரம்பமாகும் என கல்வியமைச்சு அறிவித்துள்ளது.
-
-இதேவேளை, முஸ்லிம் பாடசாலைகளுக்கான மூன்றாம் தவணை கல்வி நடவடிக்கைகள் எதிர்வரும் 25 ஆம் திகதி திங்கட்கிழமை ஆரம்பிக்கப்படும்.
-
-◼️
-
-[Data](articles/bebe3226.json)
-
----
-
-### දේශපාලන බලපෑම් තියෙනවා නම් ඒ හරි දේ කරන්න කියලා විතරයි
-
-*2025-08-17 13:27:08* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-බලපෑම්-තියෙනවා-නම්-ඒ-හරි-දේ-කරන්න-කියලා-විතරයි/11-417952) · `si`
-
-තමාට කිසිදු දේශපාලන බලපෑමක් නොමැති බවත්, කෙසේ වෙතත් දේශපාලන බලපෑම් තිබෙනවා නම් ඒ තිබෙනුයේ හරි​ දේ කිරීමට පමණක් බව පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පැවසීය.
-
-මත්ද්‍රව්‍ය ජාවාරම අද ඊයේ ඇතිවූවක් නෙවෙයි. පතාල ජීවිත හානි කිරීම් අද ඊයේ ඇතිවූවක් නෙවෙයි. මේවා දිගින් දිගටම පැවතුනා. මේවට යම් යම් දේශපාලන ආශිර්වාද ලැබිලා තියෙනවා. පොලීසියේ නිලධාරීන්ගේ සහය සහ රැකවරණය ලැබිලා තියෙනවා. ත්‍රිවිධ හමුදාවේ පුද්ගලයන් ඒ සඳහා පාවිච්චි කළා. මත්ද්‍රව්‍යට ඇබ්බැහි වූවන් මේකට පාවිච්චි කරමින් ඉන්නවා. මේවගේ මෙහෙයවීම් කරන්නේ නිවට නියාලු පිරිසක් විදේශ ගතවෙලා මේවා කරමින් පවතිනවා. දේශපාලක කිසිම බලපෑමක් නෑ. දේශපාලන බලපෑම් තියෙනවා නම් තියෙන්නේ හරි දේ කරන්න කියලා විතරයි.
-
-◼️
-
-[Data](articles/3ff12c37.json)
 
 ---

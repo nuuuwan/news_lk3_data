@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-18 10:52:13**
+As of **2025-08-18 11:34:37**
 
 ## Newspaper Stats
 
-*Scraped **71,030** Articles*
+*Scraped **71,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,147 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,330
+economynextcom | 4,334
 islandlk | 4,365
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,886
+adaderanalk | 8,889
 tamilmirrorlk | 10,463
-virakesarilk | 11,779
-adaderanasinhalalk | 12,251
+virakesarilk | 11,780
+adaderanasinhalalk | 12,254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.2%) of 71,030 articles have been extended.
+61,973 (87.2%) of 71,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-18 (Monday)
+
+### Fitch lowers Sri Lanka’s HDFC Bank outlook to negative, retains ‘BB+(lka)’ rating
+
+*2025-08-18 11:15:00* · [`economynextcom`](https://economynext.com/fitch-lowers-sri-lankas-hdfc-bank-outlook-to-negative-retains-bblka-rating-236977/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has affirmed its National Long-Term Rating at ‘BB+(lka)’ on Housing Development Finance Corporation Bank of Sri Lanka, and revised the outlook to negative from stable due to the potential for the state bank’s credit profile to deteriorate.
+
+“We believe the regulatory restrictions have dampened HDFC’s competitive position in the housing loan segment, which is predominantly driven by Employees’ Provident Fund (EPF)-backed loans, and its loan and deposit market share.”
+
+The outlook revision reflects the potential for HDFC’s credit profile to deteriorate relative to that of similarly rated peers due to the restrictions on deposit mobilisation and selected lending products imposed by the central bank, the ratings agency said.
+
+Fitch Revises Outlook on HDFC Bank to Negative; Affirms National Rating at ‘BB+(lka)’
+
+...
+
+[Data](articles/602ac1a4.json)
+
+---
+
+### අල්ලස් ගත් පොලිස් OICගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
+
+*2025-08-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213496) · `si`
+
+වැලි ව්‍යාපාරිකයෙකුගෙන් රුපියල් 40,000ක අල්ලසක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඔක්කොම්පිටිය පොලිසියේ ස්ථානාධිපතිවරයාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+ඒ අනුව අදාළ සැකකරු ලබන 25 වන දා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමටද කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලී ජයතුංග මහත්මිය නියම කළාය.
+
+මෙම පැමිණිල්ල අද කැඳවූ අවස්ථාවේදී සැකකරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් සිය සේවා දායකයාගේ දියණිය මෙවර අපොස උසස් පෙළ විභාගයට පෙනී සිටින බවත් එය විශේෂ කරුණක් සේ සලකා සැකකරු ඇප මත මුදාහරින ලෙසත් ඉල්ලා සිටියේය.
+
+මෙම සැකකරු සම්බන්ධ විමර්ශන තවදුරටත් සිදුකරන බැවින් එම ඇප ඉල්ලීමට විරුද්ධ වන බව අල්ලස් කොමිසමේ නිලධාරීන් සඳහන් කළේය.
+
+දෙපාර්ශවය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරිය සැකකරුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් ඔහු ලබන 25 වන දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
+
+◼️
+
+[Data](articles/11321263.json)
+
+---
+
+### උතුරු - නැගෙනහිර හර්තාලයේ අලුත්ම තත්ත්වය
+
+*2025-08-18 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213495) · `si`
+
+මුලතිව්, මුත්තයාන්කට්ටු ප්‍රදේශයේදී මියගිය තරුණයෙකුගේ මරණය වෙනුවෙන් සාධාරණය ඉටුකරන ලෙස හා ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් උතුරු නැගෙනහිර පළාත්වල පැවැත්වීමට නියමිතව තිබූ හර්තාලය අසාර්ථක වී තිබේ.
+
+ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂය ඇතුළු දේශපාලන කණ්ඩායම් කිහිපයක් විසින් හර්තාලය කැඳවා තිබුණද උතුරු පළාතේ රාජ්‍ය ආයතනවල කටයුතු හා පාසල්වල කටයුතු සාමාන්‍ය පරිදි සිදු වන බව අප වාර්තාකරු පැවසීය.
+
+හර්තාලය වෙනුවෙන් වෙළඳ සංගම් කිහිපයක් සහයෝගය පළ කළද, වෙළඳ සංගම් රැසක් හර්තාලය වෙනුවෙන් සහයෝගය පළ නොකරන බවට ද ප්‍රකාශ නිකුත් කර තිබේ.
+
+මේ අතර, මඩකලපුව දිස්ත්‍රික්කයේ ඇතැම් ප්‍රදේශවල අද (18) ව්‍යාපාරික ස්ථාන, පොදු වෙළෙඳපොළවල් සහ පෞද්ගලික ආයතන සහ තවත් ස්ථාන බොහෝමයක් වසා දමා ඇතැයි අප වාර්තාකරු පැවසීය.
+
+මේ හේතුවෙන් සාමාන්‍ය ජන ජීවිතයට බාධා එල්ල වුවත් වාහන ගමනාගමනය සාමාන්‍ය පරිදි සිදුවන බව ද වාර්තා වේ.
+
+මුස්ලිම් ප්‍රදේශවල කඩසාප්පු සුපුරුදු ලෙස විවෘතව පැවතී ඇති අතර, මඩකලපුව, චෙංගලඩි, ආරයියම්පති, වාලච්චේනයි, කොක්කට්ටිචෝලෙයි ඇතුළු දිස්ත්‍රික්කයේ දෙමළ ප්‍රදේශවල සියලුම කඩසාප්පු වසා දමා ඇති බව නිරීක්ෂණය වූ බව අප වාර්තාකරු පැවසීය.
+
+...
+
+[Data](articles/6ef99ecc.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields edge up
+
+*2025-08-18 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-236971/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.05/15 to the US dollar in the spot market Monday, weaker from 300.90/301.05 Friday, while bond yields edged up in an active market, dealers said.
+
+A bond maturing on 15.12.2028 was quoted at 8.90/9.00 percent, up from 8.90/95 percent.
+
+A bond maturing on 15.06.2029 was quoted at 9.30/32 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.40/42 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.42/46 percent, down from 9.42/45 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.20/25 percent, up from 10.18/22 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.55/65 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.75/85 percent.
+
+The Colombo Stocks Exchange was trading in green: The ASPI was up 0.67 percent, or 134.95 points, at 20,353.31; the S&P SL20 was up 0.92 percent, or 54.19 points, at 5,949.03.
+
+...
+
+[Data](articles/371e6576.json)
+
+---
+
+### 'සුපර්මෑන්'ගේ දුෂ්ටයා දිවි ගමනට සමුදෙයි
+
+*2025-08-18 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213494) · `si`
+
+බ්‍රිතාන්‍ය ජාතික ප්‍රකට රංගන ශිල්පියෙකු වන ටෙරන්ස් ස්ටෑම්ප් මියගොස් තිබේ.
+
+'සුපර්මෑන්' චිත්‍රපට මාලාවේ ප්‍රධාන දුෂ්ට චරිතයක් වූ ජෙනරල් සොඩ්ගේ චරිතයට පණ පොවමින් ඔහු ලොව පුරා වඩාත් ජනප්‍රිය විය.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ මියයන විට ඔහු 87 හැවිරිදි වියේ පසුවු බවය.
+
+◼️
+
+[Data](articles/05f5d470.json)
+
+---
+
+### More than 40 missing in Nigeria boat accident
+
+*2025-08-18 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111568/more-than-40-missing-in-nigeria-boat-accident) · `en`
+
+More than 40 people were missing in a boat accident in Nigeria after a boat conveying 50 persons to a popular market in northwest Sokoto State capsized on Sunday, the country’s emergency agency said.
+
+The passengers were travelling to Goronyo market, a popular food produce market in the state, when the boat capsized. Ten people have been rescued, Zubaidar Umar, the head of the National Emergency Management Agency, said in a statement on social media platform X.
+
+The agency said it is collaborating with local authorities and emergency responders in a search and rescue operation to locate the missing persons.
+
+Three weeks ago, at least 13 people died and dozens more were missing after a boat ferrying around 100 passengers capsized in Niger State, in north-central Nigeria.
+
+◼️
+
+[Data](articles/fe8b34fa.json)
+
+---
 
 ### නයිජීරියාවේ බෝට්ටු අනතුරකින් 40ක් අතුරුදන්
 
@@ -48,6 +170,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trains delayed on coastal and main lines after derailment
+
+*2025-08-18 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111567/trains-delayed-on-coastal-and-main-lines-after-derailment) · `en`
+
+A train traveling from Galle to Colombo derailed this morning (18) between Maradana and Colombo Fort railway stations, causing significant delays on both the main and coastal railway lines, according to Sri Lanka Railways.
+
+The derailment involved train No. 8327, which was operating on the Galle–Maradana route.
+
+◼️
+
+[Data](articles/2d1e8a26.json)
+
+---
+
 ### දුම්රියක් පීලි පනී
 
 *2025-08-18 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213492) · `si`
@@ -61,6 +197,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b51c0a5d.json)
+
+---
+
+### ‘Hartal’ launched in North and East
+
+*2025-08-18 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111566/hartal-launched-in-north-and-east) · `en`
+
+A ‘hartal’ is currently underway in the North and East, according to the Ilankai Tamil Arasu Kachchi (ITAK).
+
+The ‘hartal’ has been called in response to the recent death of a 32-year-old man in Mullaitivu and the alleged actions of the military in the region.
+
+A group of individuals who had entered a military camp in Oddusuddan, Mullaitivu were allegedly assaulted by three members of the army. The situation escalated when one of the young men, who had reportedly entered the camp, was later found dead in a nearby lake. Several military personnel are accused of involvement in the incident.
+
+Police stated that two special investigation teams have been assigned in connection with the incident, and that three members of the army have been arrested and remanded in custody.
+
+Meanwhile, ITAK MP Shanakiyan Rasamanickam said that the ‘hartal’ campaign is being organized in the Northern and Eastern provinces to protest against the death of the 32-year-old man in Mullaitivu.
+
+...
+
+[Data](articles/994da4d3.json)
+
+---
+
+### எம்.பிக்களின் ஓய்வூதிய இரத்து விவகாரம் எதிர்ப்பை  சம்பாதிப்பாரா அநுர...!
+
+*2025-08-18 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222772) · `ta`
+
+பாராளுமன்ற அரசியலை விட்டு விலகியிருந்தாலும் முன்னாள் எம்.பிக்களில் பலரும்  சொகுசு வாகனங்களில் வலம் வருபவர்களாகவும் செல்வத்தில் மிதப்பவர்களாகவும் உள்ளனர். எனவே மாதாந்தம் 68 ஆயிரம் வரையான ஓய்வூதியம் கிடைக்காவிட்டால் உயிரை மாய்த்துக்கொள்வோம் என இவர்கள் எக்காலத்திலும் கூற மாட்டார்கள். பாராளுமன்றத்தின் ஐந்து வருடங்களை பூர்த்தி செய்தவர்கள் ஓய்வூதியம் பெறும் அதே வேளை ,  ஒரு சில அமர்வுகளுக்கு மாத்திரம் தலை காட்டி சென்றவர்கள்  , வாயே திறக்காமல் சபையில் அமர்ந்திருந்தவர்களுக்கெல்லாம்  மூன்று கோடிக்கு மேல் மதிப்புள்ள சொகுசு வாகனங்களை வாங்குவதற்கு தீர்வையில்லாத அனுமதி பத்திரங்கள் வழங்கப்பட்டன என்பது முக்கிய விடயம். இதனால் நாட்டுக்கு ஏற்பட்ட நட்டம் பில்லியன்களை தாண்டும்.  ஆனால் முன்னாள் எம்.பிக்கள் சிலர் ஓய்வூதிய இரத்துக்கு மெளனம் காத்தாலும் தற்போது அநுர அரசுக்கு எதிராக செயற்படும் மகிந்த உள்ளிட்ட விமல் ,. உதய கம்மன்பில ஆகியோர்  இந்த திட்டத்தை எதிர்த்து கருத்துத் தெரிவித்து வரும் அதே வேளை தமது ஆதரவாளர்களையும் இதற்கு எதிராக தூண்டி விட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/84760f4c.json)
 
 ---
 
@@ -173,6 +341,46 @@ As a result, all postal services will be disrupted today, said Chinthaka Bandara
 ◼️
 
 [Data](articles/4c5d9d78.json)
+
+---
+
+### Sri Lanka deposit rates move up, overnight money market working
+
+*2025-08-18 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-deposit-rates-move-up-overnight-money-market-working-236917/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s deposit rates have edged up over June after a controversial rate cut in May 2025 while overnight rates have also moved up from the fall, in a scarce reserve regime up to last week, official data show.
+
+Call money rates, where banks lend and borrow from each other without collateral, have also moved up after initially falling in the wake of the rate cut and volumes have also gone up.
+
+The weighted average new lending rate of banks has also risen up to the end of June, after falling initially.
+
+More deposits are required to feed an expanding credit demand as the economy recovers from a stabilization crisis that came after a currency crisis triggered by previous rate cuts.
+
+...
+
+[Data](articles/b2a2b435.json)
+
+---
+
+### Sri Lanka’s CT CLSA re-branded as CT Smith
+
+*2025-08-18 07:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-ct-clsa-re-branded-as-ct-smith-236962/) · `en`
+
+ECONOMYNEXT – CT CLSA, a Sri Lanka-based financial group with international backing, which has interests in stockbroking, investment banking and asset management said it is re-branded as CT Smith.
+
+“As part of our continued evolution and strategic clarity, we are simplifying our identity to reflect who we are today — and where we are headed,” CT Smith Holdings said in a statement.
+
+“The rebrand from CT CLSA to CT Smith reflects our commitment to deepening our presence in Sri Lanka, while staying connected to regional and global capital markets through our continuing partnership with CLSA.”
+
+It fully subsidiaries will now be known as CT Smith Securities, CT Smith Capital and CT Smith Asset Management.
+
+There are no changes to the firm’s operations, leadership, or client relationships. The team, and processes will continue.
+
+“This rebrand resonates who we’ve always been — a Sri Lankan firm with strong roots and with a global outlook,” a spokesperson for the firm said in the statement.
+
+...
+
+[Data](articles/452e5033.json)
 
 ---
 
@@ -1563,197 +1771,5 @@ Von der Leyen, head of the European Union’s executive branch, posted on X that
 ◼️
 
 [Data](articles/954772e3.json)
-
----
-
-### අධිකරණ නිලධාරීන් 10කගේ සේවය අත්හිටුවයි
-
-*2025-08-17 17:02:52* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-නිලධාරීන්-10කගේ-සේවය-අත්හිටුවයි/11-417955) · `si`
-
-විෂමාචාර ක්‍රියවන් සදහා චෝදනා එල්ල වු මහෙස්ත්‍රාත්වරු දිසා විනිසුරුවරු ඇතුළු අධිකරණ නිලධාරින් දස දෙනකු පසුගිය මාසයක කාලය තුළදී සේවය අත්හිටුවිමට අධිකරණ සේවා කොමිෂන් සභාව පියවර ගෙන ඇති බව එම කොමිෂන් සභා ආරංචි මාර්ග සඳහන් තරයි.
-
-විෂමාචාර ක්‍රියවන් සඳහා චෝදනා එල්ල වු ගම්පහ අධිකරණ කලාපයේ තවත් තවත් දිසා අධිකරණ විනිසුරුවරයෙකුගේ සෙවය අත් හියුවිමට  අධිකරණ සේවා කොමිෂන් සභාව පියවර ගැනිමත් සමග සේවය අත්හිටවූ අධිකරණ නිලධාරින් සංඛ්‍යාව 10 දත්වා ඉහළ ගොස් ඇත.
-
-මේ අතර අකාර්යක්ෂම කාර්ය සාධනය පිළිබඳ චෝදනා සම්බන්ධෙයන් කෙළ පරීක්ෂණයකින් පසු ගම්පහ ප්‍රදේශයේ සිවිල් අභියාචන විනිසුරුවරයෙකුට විශ්‍රාම යාමට නියෝග කර ඇති අධිකරණ සේවා කොමිෂන් සභාව මේ වන විටත් විශ්‍රාම වැටුප් පත්‍රිකා ඔහු වෙත යවා ඇති බව වාර්තා වේ.
-
-...
-
-[Data](articles/8f80ce18.json)
-
----
-
-### 53-year-old killed in wild elephant attack in Ambanpola
-
-*2025-08-17 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111553/53-year-old-killed-in-wild-elephant-attack-in-ambanpola) · `en`
-
-An individual has died after being attacked by a wild elephant in the Ambanpola area.
-
-The victim, who sustained critical injuries in the elephant attack, was hospitalized and reportedly succumbed to his injuries while receiving treatment.
-
-The deceased was a 53-year-old resident of the Ambanpola area.
-
-The investigation conducted so far has revealed that the person was attacked by the wild elephant while trying to drive it away from his land.
-
-◼️
-
-[Data](articles/60bd3b3e.json)
-
----
-
-### මධ්‍යම අධිවේගයේ පළමු කොටස ඉදිකිරීමට චීන එක්සිම් බැංකුවෙන් ඩො.මි. 500ක් ගන්න යයි
-
-*2025-08-17 16:36:37* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටස-ඉදිකිරීමට-චීන-එක්සිම්-බැංකුවෙන්-ඩො-මි--500ක්-ගන්න-යයි/11-417954) · `si`
-
-දිගු කලක් ප්‍රමාද වූ මධ්‍යම අධිවේගී මාර්ගයේ පළමු කොටස සම්පූර්ණ කිරීම සඳහා චීන EXIM බැංකුවෙන් ඇමරිකානු ඩොලර් මිලියන 500 කට සමාන රෙන්මින්බි (RMB)ණයට ගැනීමට සහශ්‍රී ලංකා රජයේ අරමුදල් වලින් ඇමරිකානු ඩොලර් මිලියන 438 ක් වෙන වෙනම ලබා දීමට කැබිනට් අනුමැතිය ඉල්ලා  ජනාධිපති අනුර කුමාර දිසානායක මහතා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කිරීමට නියමිතය.
-
-යුවාන් ආදායමක් නොමැති ශ්‍රී ලංකාවට, ණය ආපසු ගෙවීම සඳහා ලංකාවෙය් ඇමරිකානු ඩොලර් සංචිත පරිවර්තනය  කිරීම මේ හරහා සිදුවෙයි.
-
-මෙම මස මුලදී, කඩවත සිට මිරිගම දක්වා කිලෝමීටර් 37.1 ක දුර සඳහා කොන්ත්‍රාත්කරු වන මෙටලර්ජිකල් කෝපරේෂන් ඔෆ් චයිනා ලිමිටඩ් (MCC) වෙතින් හිඟ මූල්‍ය හිමිකම් විශ්ලේෂණය කිරීම සඳහා පත් කරන ලද කමිටුවක්, රුපියල් බිලියන ගණනක ගෙවීම් පියවා මාර්ගයේ ඉතිරි කොටස ඉදිකිරීම සඳහා එම සමාගම සමඟම සාකච්ඡා කිරීමට නිර්දේශ කළේය.
-
-...
-
-[Data](articles/962e7934.json)
-
----
-
-### උතුරු - නැගෙනහිර හර්තාලය ගැන රජයේ මතය
-
-*2025-08-17 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213474) · `si`
-
-රජය හා ආරක්ෂක අංශ ඉලක්ක කර ගනිමින් සිදුකරන අදහස් විකෘති කිරීම් හා අසත්‍ය ප්‍රචාරවලට රැවටීමෙන් වළකින ලෙස කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා උතුරු නැගෙනහිර ජනතාවගෙන් ඉල්ලා සිටියි.
-
-මුලතිව් ශිවනගර්හි පිහිටි ඉවත්කිරීමට නියමිත 12 වැනි සිංහ රෙජිමේන්තුවට අයත් කඳවුරට බලහත්කාරයෙන් ඇතුළුවීමට උත්සාහ කළ පුද්ගලයෙකු මියයාමේ සිද්ධියක් මුල්කර ගනිමින් මෙම හර්තාල් ව්‍යපාරය හෙට (18) දිනයේ ක්‍රියාත්මක කිරීමට නියමිතය.
-
-"මේ ගැන පරීක්ෂණ පවත්වමින් තිබෙනවා. දැනටමත් හමුදාවේ තිදෙනෙක් අත්අඩංගුවට ගෙන අධිකරණයට භාර දී තිබෙන්නේ.
-
-මේ සිදුවීමේ කරුණු විකෘතිකරමින් අසත්‍ය තොරතුරු ප්‍රචාරය කරමින් යම් යම් දේශපාලන කණ්ඩායම් උතුරේ හා නැගෙනහිර ජනතාව අතර කැලඹීමක් හදන්න උත්සාහ දරන බවක් පේනවා.
-
-◼️
-
-[Data](articles/d76fbdc3.json)
-
----
-
-### “ஊடகவியலாளரை விசாரணைக்கு அழைத்தது  தெரியாது”
-
-*2025-08-17 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளரை-விசாரணைக்கு-அழைத்தது-தெரியாது/175-363064) · `ta`
-
-பயங்கரவாத தடைச்சட்டத்தை நீக்க வேண்டும் என்பதே எமது அரசின் நிலைப்பாடாகும். எனவே,  நாம்  அதனை மாற்றுவதற்கு எதிர்பார்த்துள்ளோம் என போக்குவரத்து,நெடுஞ்சாலைகள்,சிவில் விமான சேவைகள் அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-கிளிநொச்சியில் உள்ள தேசிய மக்கள் சக்தியின் மாவட்ட அலுவலகத்தில்  இன்று (17) இடம்பெற்ற பத்திரிக்கையாளர் சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்
-
-அரசியல் எழுச்சியை தடை  செய்ய வேண்டும் என்பதற்காகவே எனவே இச் சட்டத்தை பற்றி நாம் நன்கு அறிந்துள்ளோம் எனவே பயங்கரவாத தடைச் சட்டத்தை நீக்குவதே எமது அரசின் நோக்கம் எனத் தெரிவித்தார்.
-
-பயங்கரவாத தடுப்பு பிரிவு   ஊடகவியலாளர்கள் இன்றும் பொலிஸாரால் விசாரணைக்கு அழைக்கப்படும் சூழ் நிலைகள் தொடர்ந்து நிலவுகிறது இன்றும் (17) முல்லைத்தீவு ஊடகவியலாளர் குமணன் விசாரணைக்கு அழைக்கப்பட்டுள்ளார்  இந்த நிலைமை ஊடகவியலாளர்களை அச்சுறுத்தும் செயற்பாடாக காணப்படுகிறது என கேள்வி எழுப்பிய போது பயங்கரவாத தடுப்பு பிரிவினரால் ஊடகவியலாளர் விசாரணைக்கு அழைக்கப்பட்ட விடயம் தொடர்பாக தனக்கு எதுவும் தெரியாது என்றும் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/b2d154a1.json)
-
----
-
-### වනඅලි ප්‍රහාරයෙන් පුද්ගලයෙකු මරුට
-
-*2025-08-17 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213473) · `si`
-
-අදාළ පුද්ගලයා වනඅලි ප්‍රහාරයෙන් පසුව බරපතළ තුවාල ලබා රෝහල් ගත කර ඇති අතර ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් ඇති බව වාර්තා වේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 53ක් වූ අඹන්පොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මෙම පුද්ගලයා තම ඉඩමට පැමිණි වනඅලියකු පලවාහැරීමට යාමේදී මෙලෙස වන අලි ප්‍රහාරයට ලක්ව ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
-
-◼️
-
-[Data](articles/ea97c493.json)
-
----
-
-### “இழந்த வாக்கு வங்கியை அதிகரிக்கவே கதவடைப்பு”
-
-*2025-08-17 16:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழந்த-வாக்கு-வங்கியை-அதிகரிக்கவே-கதவடைப்பு/175-363059) · `ta`
-
-இழந்து போன தங்களுடைய வாக்குவங்கியை அதிகரிக்கவே கதவடைப்பு போராட்டத்துக்கு அழைப்பு விடுக்கப்பட்டுள்ளது என போக்குவரத்து நெடுஞ்சாலைகள், புகையிரத சிவில் விமான போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-முத்தையன்கட்டு பிரதேசத்தில் இடம்பெற்ற சம்பவத்தை தொடர்ந்து 18 ஆம் ஆம் திகதி வடக்கு, கிழக்கு முழுவதும் கதவடைப்பு போராட்டத்தை மேற்கொள்ளுமாறு தமிழரசு கட்சியின் சுமந்திரன் அழைப்பு விடுத்துள்ளார்.
-
-உண்மையிலேயே இந்த கதவடைப்பு போராட்டம்  தேவையற்றது என்றும் அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-கிளிநொச்சியில் அமைந்துள்ள தேசிய மக்கள் சக்தியின் மாவட்ட அலுவலகத்தில் ஞாயிற்றுக்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-முத்தையன்கட்டு உயிரிழப்புக்கு பின்னர் என்னென்ன சட்ட நடவடிக்கைகள் மேற்கொள்ளப்பட வேண்டுமோ அவை அனைத்தும் நீதியான முறையில் இடம்பெற்று வருகிறது இந்த நிலையில் இந்த கதவடைப்பு என்பது அரசியல் தரப்பினர் இழந்து போன தங்களின் வாக்கு வங்கியை அதிகரிக்கவே மேற்கொள்கின்றனர் என அவர்கள் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/095f84aa.json)
-
----
-
-### දියතලාව මුලික රෝහල ඒ මට්ටමේ රෝහලක් ලෙස සංවර්ධනය කිරීමට අවධානය
-
-*2025-08-17 15:54:14* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාව-මුලික-රෝහල-ඒ-මට්ටමේ-රෝහලක්-ලෙස-සංවර්ධනය-කිරීමට-අවධානය/11-417953) · `si`
-
-ජනගහණය, ස්වභාවික සම්පත් සහ පහසුකම්, ඌණතා සහ දුෂ්කරතා ආදී සියල්ල බද්ධ වන මෙරට ආර්ථිකයේ ප්‍රධාන කේන්ද්‍රස්ථානයක් මෙන්ම සංචාරක ව්‍යාපාරයට ද මුලිකත්වයක් හිමිවන  දියතලාව ප්‍රදේශය කේන්ද්‍ර කර ගනිමින් දියතලාව මුලික රෝහල දැනට තිබෙන අක්කර 07 ක  භූමි සීමාව තුළ මුලික රෝහල (ඒ) හැටියට උපරිම මට්ටමට දියුණු කිරීම සෞඛ්‍ය අමාත්‍යාංශයේ පළමු බලාපොරොත්තුව බව මෙහි දී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා පෙන්වා දෙන ලදි.
-
-බණ්ඩාරවෙල රෝහල මූලික රෝහලක් බවට පත් කිරීම දියතලාව රෝහල මුලික රෝහලක් තත්ත්වයෙන් ඉවත් කිරීමක් නොවන බවත්, දියතලාව මුලික රෝහලේ පහසුකම් අඩු කර බණ්ඩාරවෙල මුලික රෝහල සංවර්ධනය නොකරන බව ද  මෙම මුලික රෝහල් 02 ක ම අත්‍යාවශ්‍ය රෝහල් දෙකක් වන බැවින් රෝහල් දෙකටම අවශ්‍ය පහසුකම් ලබා දී සංවර්ධනය කිරීමට පියවර ගන්නා බව ද අමාත්‍යවරයා මෙහි දී පෙන්වා දෙන ලදි.
-
-සංචාරක ක්ෂේත්‍රයේ සෞඛ්‍ය අවශ්‍යතා මෙන් ම ප්‍රදේශයේ  ජනතාවට සෞඛ්‍ය සේවා සපයන රෝහලක් ලෙස දියතලාව මුලික රෝහල හැදින්විය හැකි බවත්, එය විශේෂ තත්ත්වයක් බවත් අමාත්‍යවරයා මෙහිදී සිහිපත් කළේය.
-
-...
-
-[Data](articles/145092b7.json)
-
----
-
-### 46-year-old attacked to death over personal dispute
-
-*2025-08-17 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111552/46-year-old-attacked-to-death-over-personal-dispute) · `en`
-
-A person has been attacked to death with a sharp weapon and clubs in the Dunagaha area of Divulapitiya.
-
-Police said the attack was carried out by three individuals over a personal dispute.
-
-The victim, who sustained critical injuries in the incident, was initially admitted to the Divulapitiya Hospital and then transferred to the District General Hospital in Gampaha, where he had succumbed to his injuries.
-
-The deceased is a 46-year-old resident of the Madampella area.
-
-Divulapitiya Police have deployed a team to arrest the three suspects and are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/737fb506.json)
-
----
-
-### කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් දැනුවත් කිරීමේ වැඩමුළුවක්
-
-*2025-08-17 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213472) · `si`
-
-රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම වෙනුවෙන් කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් වෙනුවෙන් සංවිධානය කරන විශේෂ වැඩමුළු මාලාවේ තවත් එක් වැඩමුළුවක් අරලියගහ මන්දිරයේදී පැවැත්විණි.
-
-‘AI for Transforming Public Service’ යන මැයෙන් ජනාධිපති ලේකම් කාර්යාලයේ සහාය ඇතිව ඩිජිටල් ආර්ථික අමාත්‍යාංශය විසින් සංවිධානය කළ මෙම වැඩමුළුව සඳහා අමාත්‍යාංශ දහයක විධායක නිලධාරීහු එක්ව සිටියහ.
-
-රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ රජයේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස රාජ්‍ය නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීම, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීම යන අරමුණු ඇතිව මෙම වැඩමුළුව සංවිධානය කර ඇත.
-
-ඩිජිටල් පරිවර්තනයක් වෙනුවෙන් රජය අවශ්‍ය පියවර ගනිමින් සිටින බවත්, ඒ වෙනුවෙන් රාජ්‍ය සේවය සූදානම් විය යුතු බවත් ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා මෙහිදී සඳහන් කළේය.
-
-කෘත්‍රිම බුද්ධිය භාවිතා කිරීම තුළින් රාජ්‍ය සේවයේ කාර්යක්ෂමතාව වැඩිදියුණු කර ගනිමින් ජනතාවට වඩා හොද සේවාවක් ලබාදීමට අවධානය යොමු කළ යුතු බවද ජනාධිපති ලේකම්වරයා වැඩිදුරටත් කියා සිටියේය.
-
-...
-
-[Data](articles/a425d8cc.json)
-
----
-
-### ஊடகவியலாளர் குமணனிடம் சுமார் நான்கரை மணித்தியாலங்களுக்கு மேலாக தொடரும் விசாரணை
-
-*2025-08-17 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/222743) · `ta`
-
-முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணனை பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவினால் விசாரணைக்கு அழைக்கப்பட்ட நிலையில், இன்று ஞாயிற்றுக்கிழமை (17) காலை 9.30 மணிக்கு முல்லைத்தீவு ஊடக அமையத்தின் தலைவரும் ஊடகவியலாளருமான கணபதிப்பிள்ளை குமணன்  முல்லைத்தீவு மாவட்டத்தின் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணைப் பிரிவில் விசாரணைக்காக சென்றார்.
-
-விசாரணைக்காக அழைக்கப்பட்ட குமணன் சட்டத்தரணி நடராசா காண்டீபன் அவர்களுடன் அளம்பில் பொலிஸ் நிலையத்தில் உள்ள பயங்கரவாத தடுப்பு மற்றும் விசாரணை பிரிவில் விசாரணைக்காக சென்ற நிலையில் சுமார் பத்துமணியளவில் ஆரம்பித்த விசாரணை சுமார் நான்கரை  மணித்தியாலங்களாக தொடர்ச்சியாக இடம்பெற்று வருகின்றது இதுவரை விசாரணைகள் முடிவடையவில்லை.
-
-◼️
-
-[Data](articles/b47b80a7.json)
 
 ---

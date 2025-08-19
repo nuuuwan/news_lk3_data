@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 10:21:24**
+As of **2025-08-19 10:33:11**
 
 ## Newspaper Stats
 
-*Scraped **71,144** Articles*
+*Scraped **71,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,931
+adaderanalk | 8,938
 tamilmirrorlk | 10,463
 virakesarilk | 11,789
-adaderanasinhalalk | 12,286
+adaderanasinhalalk | 12,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,144 articles have been extended.
+61,973 (87.1%) of 71,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### පෑලියගොඩ වෙඩිතැබීමක්
+
+*2025-08-19 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213534) · `si`
+
+පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේ දී අද (19) උදෑසන නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර තිබේ.
+
+යතුරුපැදියකින් පැමිණ සිදුකළ මෙම වෙඩිතැබීමෙන් පෑලියගොඩ මාළු වෙළෙඳාමේ යෙදෙන පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කර ඇත.
+
+◼️
+
+[Data](articles/60274b39.json)
+
+---
 
 ### බස් රථයක් සහ ගුවන් හමුදා ඩිෆෙන්ඩර් රථයක් ගැටී අනතුරක්
 
@@ -68,6 +82,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trump once again claims he stopped India, Pakistan war
+
+*2025-08-19 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111619/trump-once-again-claims-he-stopped-india-pakistan-war) · `en`
+
+US President Donald Trump on Monday once again repeated his claim that he stopped the war between India and Pakistan.
+
+Talking to the press in the Oval Office while meeting with Ukrainian President Volodymyr Zelenskyy, Trump claimed to have ended six wars, including the war between India and Pakistan.
+
+While answering a question, Trump said he thought that the Russia-Ukraine war would be the “easiest one” to end, but it is not.
+
+Trump said that “it is the tough one”, and we have been talking about it for a long time, like “we were talking about others …India-Pakistan.” Trump also indirectly mentioned India and Pakistan on his Truth Social post earlier in the day.
+
+“I’ve settled 6 Wars in 6 months, one of them a possible Nuclear disaster,” Trump posted.
+
+...
+
+[Data](articles/2a402b7e.json)
+
+---
+
+### 26,000 individuals inspected during special police operation
+
+*2025-08-19 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111618/26000-individuals-inspected-during-special-police-operation) · `en`
+
+A total of 748 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (18).
+
+As part of the operation, 26,560 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 18 individuals directly linked to criminal activities while 528 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 64 drunk drivers were apprehended while a further 26 reckless drivers and 3,675 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/7db3b388.json)
+
+---
+
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
 *2025-08-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213531) · `si`
@@ -75,6 +129,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cdeb77da.json)
+
+---
+
+### US would help assure Ukraine’s security in a peace deal, Trump tells Zelenskiy
+
+*2025-08-19 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111617/us-would-help-assure-ukraines-security-in-a-peace-deal-trump-tells-zelenskiy) · `en`
+
+U.S. President Donald Trump told President Volodymyr Zelenskiy on Monday that the United States would help guarantee Ukraine’s security in any deal to end Russia’s war there, though the extent of any assistance was not immediately clear.
+
+Trump made the pledge during an extraordinary summit at the White House, where he hosted Zelenskiy and a group of European allies days after Trump met with Russian President Vladimir Putin in Alaska on Friday.
+
+“When it comes to security, there’s going to be a lot of help,” Trump told reporters, adding that European countries would be involved. “They are a first line of defence because they’re there, but we’ll help them out.”
+
+Zelenskiy hailed the promise as “a major step forward,” adding that the guarantees would be “formalized on paper within the next week to 10 days” and saying Ukraine offered to buy about $90 billion worth of U.S. weapons.
+
+...
+
+[Data](articles/b8ee610e.json)
+
+---
+
+### Man killed in Kalpitiya after two groups clash over personal dispute
+
+*2025-08-19 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111616/man-killed-in-kalpitiya-after-two-groups-clash-over-personal-dispute) · `en`
+
+A 37-year-old individual has died following a clash between two groups in Kalpitiya last night (18), police stated.
+
+According to preliminary police inquiries, it has been confirmed that two groups consisting of five individuals including the deceased had clashed over a personal dispute.
+
+The 37-year-old resident of Kalpitiya, who was injured in the incident had succumbed to his injuries on admission to the Kalpitiya Base Hospital.
+
+The corpse has been placed at the morgue of the Chilaw District General Hospital.
+
+A suspect has been arrested over the incident while the Kalpitiya Police have launched further investigations to arrest the remaining suspects.
+
+◼️
+
+[Data](articles/d0c3729c.json)
+
+---
+
+### Sri Lanka among top 10 source countries for foreign tourist arrivals in India
+
+*2025-08-19 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111615/sri-lanka-among-top-10-source-countries-for-foreign-tourist-arrivals-in-india) · `en`
+
+Sri Lanka, the United States, Bangladesh, the United Kingdom, Australia and Canada were among the top 10 source countries for foreign tourist arrivals in India in the past five years, according to data shared by the Indian government.
+
+The Indian Culture Minister Gajendra Singh Shekhawat shared the data in a written response to queries related to tourist arrivals in the Lok Sabha, the PTI reported.
+
+The FTA figures stood at 9.95 million for 2024, as per the government data.
+
+The minister was asked details related to foreign tourist arrivals recorded in the country during the last five years, and whether India’s tourism sector has seen a significant recovery after the COVID-19 pandemic, with international tourist arrivals exceeding pre-pandemic levels.
+
+According to the UN World Tourism Organization, International Tourist Arrivals (ITAs) has two components, namely Foreign Tourist Arrivals (FTAs) and Arrivals of Non-Resident Nationals.
+
+...
+
+[Data](articles/e1a8b484.json)
 
 ---
 
@@ -93,6 +205,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b1dca806.json)
+
+---
+
+### Speaker to announce stance on No-Confidence Motion against Deputy Defence Minister
+
+*2025-08-19 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111613/speaker-to-announce-stance-on-no-confidence-motion-against-deputy-defence-minister) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne is expected to deliver his opinion today (19) on the no-confidence motion submitted by the opposition against Deputy Minister of Defence Major General Aruna Jayasekara (Retd).
+
+Parliament is scheduled to convene at 9:30 a.m. today under the patronage of the Speaker.
+
+It is reported that during today’s sitting, the Speaker will announce his stance on the no-confidence motion brought forward by the opposition.
+
+However, several parties have already raised concerns stating that the motion was not submitted in accordance with parliamentary procedure.
+
+Accordingly, government sources indicate that the Speaker is likely to declare that the motion cannot be included in the parliamentary order book due to procedural issues.
+
+Nevertheless, the opposition—particularly the Samagi Jana Balawegaya (SJB)—claims that the Speaker cannot arbitrarily act regarding the no-confidence motion against the Deputy Minister of Defence.
+
+...
+
+[Data](articles/1bdde81d.json)
 
 ---
 
@@ -206,7 +340,9 @@ Meanwhile, a group of teachers is engaged in a protest opposite the Presidential
 
 *2025-08-19 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111610/former-nlb-director-thusitha-halloluwa-arrested) · `en`
 
-Thusitha Halloluwa, the Former Director of the National Lotteries Board (NLB), who was evading court, has been arrested early this morning (19), Police stated.
+Thusitha Halloluwa, the Former Director of the National Lotteries Board (NLB), who was evading court, has been arrested in Colpetty early this morning (19), Police stated.
+
+He is scheduled to be produced before the Colombo Magistrate’s Court.
 
 The Colombo Magistrate’s Court yesterday (18), issued a warrant for the arrest of Thusitha Halloluwa.
 
@@ -315,6 +451,24 @@ Following the incident, the suspect and his wife were arrested yesterday (17) by
 ◼️
 
 [Data](articles/d5ced4c4.json)
+
+---
+
+### ‘Quazi court’ judge and wife arrested in Kalmunai for soliciting bribe
+
+*2025-08-19 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111608/quazi-court-judge-and-wife-arrested-in-kalmunai-for-soliciting-bribe-) · `en`
+
+A ‘Quazi court’ judge in Kalmunai and his wife have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on allegations of soliciting a bribe.
+
+The suspect was taken into custody at his office located in Maruthamunai, Kalmunai in the Ampara District.
+
+Last month, the aggrieved party lodged a complaint with the Bribery Commission, stating that the suspect had demanded a bribe in order to resolve a legal matter.
+
+Following the incident, the suspect and his wife were arrested yesterday (17) by the Bribery Commission on charges of accepting a bribe.
+
+◼️
+
+[Data](articles/e868cc14.json)
 
 ---
 
@@ -1733,171 +1887,5 @@ Fitch Revises Outlook on HDFC Bank to Negative; Affirms National Rating at ‘BB
 ...
 
 [Data](articles/602ac1a4.json)
-
----
-
-### CEB records over Rs. 5 bln profit in 2025 second quarter
-
-*2025-08-18 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111573/ceb-records-over-rs-5-bln-profit-in-2025-second-quarter-) · `en`
-
-The Ceylon Electricity Board (CEB) has reported a profit of Rs. 5.31 billion for the financial quarter ending on June 30, 2025.
-
-This marks a significant turnaround compared to the Rs. 18.47 billion in losses recorded in the previous quarter, which ended on March 31, 2025.
-
-Analysts attribute the CEB’s return to profitability to the electricity tariff revision implemented in June 2025.
-
-However, the latest figure reflects an 85% decline compared to the Rs. 34.53 billion profit reported in the same quarter of 2024.
-
-After the incumbent government came to power, electricity tariffs were reduced by around 20% in January 2025, a move that contributed heavily to the losses reported in the first quarter.
-
-The International Monetary Fund (IMF) has consistently stressed the importance of restoring cost-reflective electricity pricing as a prerequisite for Sri Lanka to secure the next tranche of its Extended Fund Facility (EFF).
-
-...
-
-[Data](articles/a3b5991f.json)
-
----
-
-### Another 641 persons arrested in special island-wide police raids
-
-*2025-08-18 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111572/another-641-persons-arrested-in-special-island-wide-police-raids) · `en`
-
-A total of 641 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (17), the Police Media Division said.
-
-As part of the operation, 25,303 persons were subjected to inspection, the Police Media Division noted.
-
-Police have identified 19 individuals directly linked to criminal activities while 431 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 73 drunk drivers were apprehended while a further 19 reckless drivers and 3,580 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/0497ae9f.json)
-
----
-
-### Man drowns while fishing in a lake in Sevanagala
-
-*2025-08-18 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111571/man-drowns-while-fishing-in-a-lake-in-sevanagala) · `en`
-
-A 42-year-old man has tragically drowned and died in the Haburugala Bodhiraja Lake, in Sevanagala.
-
-The deceased, a resident of the Mahagama Colony in Sevanagala, is reported to have fallen into a pit and drowned while fishing with another individual in the lake.
-
-The corpse has been placed at the morgue of the District General Hospital in Embilipitiya.
-
-◼️
-
-[Data](articles/ca0cfad6.json)
-
----
-
-### Air Canada grounded as striking union defies order to get back to work
-
-*2025-08-18 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111570/air-canada-grounded-as-striking-union-defies-order-to-get-back-to-work) · `en`
-
-Air Canada’s,  fleet of hundreds of planes remained grounded on Monday morning after striking flight attendants refused a government-backed order to get back to work and called on the airline to return to the bargaining table.
-
-The carrier, which normally carries 130,000 people daily and is part of the global Star Alliance of airlines, had planned to start ramping up operations on Sunday evening, after a labor relations board ordered the union to return to work and start binding arbitration.
-
-The union said no, setting up an almost unprecedented standoff with the Canadian government, which had requested the back-to-work order.
-
-The Canadian Union of Public Employees, which represents 10,000 Air Canada cabin crew, had pushed for a negotiated solution, saying binding arbitration would take pressure off the airline.
-
-...
-
-[Data](articles/9a4ad132.json)
-
----
-
-### අල්ලස් ගත් පොලිස් OICගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
-
-*2025-08-18 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213496) · `si`
-
-වැලි ව්‍යාපාරිකයෙකුගෙන් රුපියල් 40,000ක අල්ලසක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඔක්කොම්පිටිය පොලිසියේ ස්ථානාධිපතිවරයාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-ඒ අනුව අදාළ සැකකරු ලබන 25 වන දා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමටද කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලී ජයතුංග මහත්මිය නියම කළාය.
-
-මෙම පැමිණිල්ල අද කැඳවූ අවස්ථාවේදී සැකකරු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් සිය සේවා දායකයාගේ දියණිය මෙවර අපොස උසස් පෙළ විභාගයට පෙනී සිටින බවත් එය විශේෂ කරුණක් සේ සලකා සැකකරු ඇප මත මුදාහරින ලෙසත් ඉල්ලා සිටියේය.
-
-මෙම සැකකරු සම්බන්ධ විමර්ශන තවදුරටත් සිදුකරන බැවින් එම ඇප ඉල්ලීමට විරුද්ධ වන බව අල්ලස් කොමිසමේ නිලධාරීන් සඳහන් කළේය.
-
-දෙපාර්ශවය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරිය සැකකරුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් ඔහු ලබන 25 වන දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
-
-◼️
-
-[Data](articles/11321263.json)
-
----
-
-### උතුරු - නැගෙනහිර හර්තාලයේ අලුත්ම තත්ත්වය
-
-*2025-08-18 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213495) · `si`
-
-මුලතිව්, මුත්තයාන්කට්ටු ප්‍රදේශයේදී මියගිය තරුණයෙකුගේ මරණය වෙනුවෙන් සාධාරණය ඉටුකරන ලෙස හා ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් උතුරු නැගෙනහිර පළාත්වල පැවැත්වීමට නියමිතව තිබූ හර්තාලය අසාර්ථක වී තිබේ.
-
-ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂය ඇතුළු දේශපාලන කණ්ඩායම් කිහිපයක් විසින් හර්තාලය කැඳවා තිබුණද උතුරු පළාතේ රාජ්‍ය ආයතනවල කටයුතු හා පාසල්වල කටයුතු සාමාන්‍ය පරිදි සිදු වන බව අප වාර්තාකරු පැවසීය.
-
-හර්තාලය වෙනුවෙන් වෙළඳ සංගම් කිහිපයක් සහයෝගය පළ කළද, වෙළඳ සංගම් රැසක් හර්තාලය වෙනුවෙන් සහයෝගය පළ නොකරන බවට ද ප්‍රකාශ නිකුත් කර තිබේ.
-
-මේ අතර, මඩකලපුව දිස්ත්‍රික්කයේ ඇතැම් ප්‍රදේශවල අද (18) ව්‍යාපාරික ස්ථාන, පොදු වෙළෙඳපොළවල් සහ පෞද්ගලික ආයතන සහ තවත් ස්ථාන බොහෝමයක් වසා දමා ඇතැයි අප වාර්තාකරු පැවසීය.
-
-මේ හේතුවෙන් සාමාන්‍ය ජන ජීවිතයට බාධා එල්ල වුවත් වාහන ගමනාගමනය සාමාන්‍ය පරිදි සිදුවන බව ද වාර්තා වේ.
-
-මුස්ලිම් ප්‍රදේශවල කඩසාප්පු සුපුරුදු ලෙස විවෘතව පැවතී ඇති අතර, මඩකලපුව, චෙංගලඩි, ආරයියම්පති, වාලච්චේනයි, කොක්කට්ටිචෝලෙයි ඇතුළු දිස්ත්‍රික්කයේ දෙමළ ප්‍රදේශවල සියලුම කඩසාප්පු වසා දමා ඇති බව නිරීක්ෂණය වූ බව අප වාර්තාකරු පැවසීය.
-
-...
-
-[Data](articles/6ef99ecc.json)
-
----
-
-### Provincial Council Elections likely in first half of 2026 - Minister Bimal
-
-*2025-08-18 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111569/provincial-council-elections-likely-in-first-half-of-2026-minister-bimal) · `en`
-
-Minister Bimal Rathnayake revealed that constitutional reforms will be introduced following the conducting of the Provincial Council Elections.
-
-Speaking at a press briefing held in Kilinochchi yesterday (17), the Minister said the PC polls are expected to be held within the first six months of next year, once the existing legal issues are resolved.
-
-“We held elections in 2025, and another in November 2024. Our aim is to conduct the Provincial Council Elections within the first half of next year. At present, there are legal obstacles, but we are working to address them,” he explained.
-
-The Minister added that the government has already taken a policy decision to introduce a new Constitution, but emphasized that it will be a comprehensive process.
-
-“Our priority is to hold the Provincial Council Elections before moving forward with constitutional reforms. Once the elections are completed, we will begin a broader political program on constitutional changes,” he said.
-
-◼️
-
-[Data](articles/47ce331a.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields edge up
-
-*2025-08-18 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-236971/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.05/15 to the US dollar in the spot market Monday, weaker from 300.90/301.05 Friday, while bond yields edged up in an active market, dealers said.
-
-A bond maturing on 15.12.2028 was quoted at 8.90/9.00 percent, up from 8.90/95 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.30/32 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.40/42 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.42/46 percent, down from 9.42/45 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.20/25 percent, up from 10.18/22 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.55/65 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/85 percent.
-
-The Colombo Stocks Exchange was trading in green: The ASPI was up 0.67 percent, or 134.95 points, at 20,353.31; the S&P SL20 was up 0.92 percent, or 54.19 points, at 5,949.03.
-
-...
-
-[Data](articles/371e6576.json)
 
 ---

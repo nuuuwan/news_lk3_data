@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 11:20:19**
+As of **2025-08-19 11:31:53**
 
 ## Newspaper Stats
 
-*Scraped **71,165** Articles*
+*Scraped **71,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,943
+adaderanalk | 8,944
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
-adaderanasinhalalk | 12,289
+adaderanasinhalalk | 12,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,165 articles have been extended.
+61,973 (87.1%) of 71,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### රුසියාවෙන් යුක්‍රේනයට මාරාන්තික ප්‍රහාරයක්
+
+*2025-08-19 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213537) · `si`
+
+යුක්‍රේනයට එල්ල වූ රුසියානු ප්‍රහාරයකින් පුද්ගලයින් 14 දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ, ප්‍රහාරයෙන් කුඩා ළමුන් දෙදෙනෙකු මියගොස් ඇති අතර පුද්ගලයින් 23 දෙනෙකු තුවාල ලබා ඇති බවය.
+
+යුක්‍රේනයේ කාර්කිව් වෙත එල්ල වූ ඩ්‍රෝන ප්‍රහාරයෙන් පස් මහල් ගොඩනැගිල්ලක කොටසක් සම්පූර්ණයෙන් විනාශයට පත්ව ඇති අතර මහල් තුනක ගින්නක් ද හටගෙන ඇති බව සඳහන්ය.
+
+ජනාධිපති ව්ලොද්මියර් සෙලෙන්ස්කි සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර වොෂින්ටනයේ පැවති සාකච්ඡාවලට පෙර එම ප්‍රහාර එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/337f850d.json)
+
+---
 
 ### Occupational exposure to GenAI in Sri Lanka
 
@@ -63,6 +81,26 @@ Additionally, it can assume the roles of editors and content writers, significan
 ◼️
 
 [Data](articles/e2f0b2a0.json)
+
+---
+
+### Acting Director of Police Cultural Division arrested on bribery charges further remanded
+
+*2025-08-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111625/acting-director-of-police-cultural-division-arrested-on-bribery-charges-further-remanded) · `en`
+
+The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 2.
+
+The order was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga after considering the facts presented by officers of the Bribery Commission and the defense counsel.
+
+According to the Bribery Commission, the suspect, during his tenure as the Senior Superintendent of Police in charge of the Galle and Embilipitiya Police Divisions, had allegedly opened three bank accounts in private banks under another person’s name.
+
+It is alleged that he had received approximately Rs. 14 million as bribes from organized criminals, individuals seeking police services and other offenders, which were deposited into those accounts.
+
+Accordingly, he was arrested under charges of accepting bribes and money laundering and was produced before court.
+
+◼️
+
+[Data](articles/ce98caa2.json)
 
 ---
 
@@ -1879,37 +1917,5 @@ US President Donald Trump announced an additional 25 per cent tariff on Indian g
 ...
 
 [Data](articles/df12f3e2.json)
-
----
-
-### 'ගර්භණී' රොබෝ කෙනෙක් නිපදවීමට චීනය සැරසේ
-
-*2025-08-18 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213504) · `si`
-
-මානවරූපී ගර්භණී රොබෝවරුන් නිපදවීම කෙරෙහි චීනයේ අවධානය යොමුව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-කළලයක් පිළිසිඳ ගැනීමේ සිට දරු උපත දක්වා ගර්භණී කාලයක් දැරිය හැකි කුසක් සහිත රොබෝවරුන් නිර්මාණය කිරීමේ තාක්ෂණය අත්හදා බැලෙන්නේ ග්වැන්ජෝ හි තාක්ෂණ ආයතනයක් මගිනි.
-
-කෙසේ වෙතත්, ඩිම්බ සංසේචන කාර්ය සිදුවන්නේ කෙලෙසද යන්න මෙතෙක් පැහැදිලි කර නොමැත.
-
-◼️
-
-[Data](articles/2ea130e0.json)
-
----
-
-### කඩුවෙලින් සොයාගත් ගිනිඅවි ව්‍යාජ ඒවා -  පොලීසිය පවසයි
-
-*2025-08-18 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213503) · `si`
-
-කඩුවෙල, කොරතොට, තුන්අදහේන ප්‍රදේශයේ මාර්ගයක බෑගයක් තුළ දමා තිබිය දී සොයාගත් ගිනිඅවි ව්‍යාජ බව පොලීසිය තහවුරු කරගෙන තිබේ.
-
-නමුත් එම බෑගයේ තිබී සොයාගත් ටී - 56 මැගසීනය ව්‍යාජ නොවන බව තහවුරු වී ඇත.
-
-අද (18) දහවල් මාර්ගයක තිබී ටී - 56 ගිනිඅවි තුනක්, බව්‍රනින් වර්ගයේ පිස්තෝල 5ක් සහ ටී - 56 මැගසීනයක් නවගමුව පොලීසිය විසින් සොයාගෙන තිබුණි.
-
-◼️
-
-[Data](articles/a62b6de1.json)
 
 ---

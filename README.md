@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 07:17:06**
+As of **2025-08-19 08:04:29**
 
 ## Newspaper Stats
 
-*Scraped **71,128** Articles*
+*Scraped **71,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,924
+adaderanalk | 8,928
 tamilmirrorlk | 10,463
-virakesarilk | 11,788
-adaderanasinhalalk | 12,279
+virakesarilk | 11,789
+adaderanasinhalalk | 12,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,128 articles have been extended.
+61,973 (87.1%) of 71,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### சந்திப்பு "மிகவும் சிறந்தது" : புட்டினுக்கும் ஜெலென்ஸ்கிக்கும் இடையிலான சந்திப்பை ஏற்பாடு செய்யவுள்ளதாக டிரம்ப் தெரிவிப்பு !
+
+*2025-08-19 07:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222834) · `ta`
+
+உக்ரைன் ஜனாதிபதி வொலோடிமிர் செலன்ஸ்கி மற்றும் ஏனைய ஐரோப்பிய தலைவர்களுடன் முன்னெடுக்கப்பட்ட சந்திப்பு "மிகவும் சிறந்ததாக" இருந்தது என அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் தெரிவித்துள்ளார்.
+
+இந்த சந்திப்பில்,  உக்ரைன் பாதுகாப்பு நிலைமை, ஐரோப்பிய நட்டு நாடுகளுடன் இணைந்த ஒத்துழைப்பு, உக்ரைன் மற்றும் ரஷ்யாவுக்கிடையிலான தற்போதைய பதற்றங்கள் உள்ளிட்ட பல்வேறு முக்கிய பிரச்சினைகள் குறித்து கலந்துரையாடப்பட்டதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+
+இதனிடையே, ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினுடன் தாம் தொலைபேசியில் உரையாடியதாகவும், இரு நாடுகளுக்கிடையிலான உறவுகளை வலுப்படுத்தும் நோக்கில் நேரடி சந்திப்பு ஒன்றை ஏற்பாடு செய்ய ஆரம்ப கட்ட பேச்சுவார்த்தைகள் இடம்பெற்றுள்ளதாகவும் அமெரிக்க ஜனாதிபதி டிரம்ப் தெரிவித்துள்ளார்.
+
+"பல நல்ல விவாதங்களையும், நல்ல பேச்சுவார்த்தைகளையும் முன்னெடுத்தோம். பல வழிகளில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டுள்ளதாக நான் நினைக்கிறேன்.
+
+மேலும், உக்ரைன் போரை முடிவுக்கு கொண்டுவரும் முயற்சியில் "குறிப்பிடத்தக்க முன்னேற்றம்" ஏற்பட்டுள்ளதாக டிரம்ப் தெரிவித்தார்.
+
+...
+
+[Data](articles/abc9d582.json)
+
+---
+
+### තුසිත හල්ලොලුව අත්අඩංගුවට
+
+*2025-08-19 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213526) · `si`
+
+අධිකරණය මඟ හරිමින් සිටි ජාතික ලොතරැයි මණ්ඩලයේ හිටපු විධායක අධ්‍යක්ෂ තුසිත හල්ලොලුව මහතාව අද (19) උදෑසන අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ ඔහුව අත්අඩංගුවට ගන්නා ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඊයේ (18) දින වරෙන්තු නිකුත් කර ඇති පසුබිමකය.
+
+කොළඹ අපරාධ කොට්ඨාශය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා විසින් මෙලෙස වරෙන්තුව නිකුත් කරනු ලැබීය.
+
+මෑතකදී නාරාහේන්පිට ප්‍රදේශයේදී තුසිත හල්ලොලුව මහතාගේ වාහනයට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විසින් විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+එම විමර්ශනය සම්බන්ධයෙන් පොලීසිය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහෙස්ත්‍රාත්වරයා මෙම වරෙන්තුව නිකුත් කළේය.
+
+◼️
+
+[Data](articles/448abb1e.json)
+
+---
+
+### තැපෑල අදත් වර්ජනයේ - ජනපතිට සංදේශයක් භාරදීමට සැරසෙයි
+
+*2025-08-19 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213525) · `si`
+
+තැපැල් සේවකයින් ආරම්භ කර ඇති දීප ව්‍යාප්ත වැඩවර්ජනය අද (19) දිනයේත් ක්‍රියාත්මක කරන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ පවසයි.
+
+එම පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේ, ඉල්ලීම් 19ක් මුල්කරගෙන පෙරේදා සවස (17) ආරම්භ කළ මෙම වැඩවර්ජනය ඉතා සාර්ථකව සිදුවන බවය.
+
+සිය ඉල්ලීම්වලට නිසි විසඳුම් ලබාදෙන තුරු වැඩවර්ජනය අත්හිටුවීමට පියවර ගන්නා අතර අද දිනයේ සිය ගැටලු සම්බන්ධයෙන් ජනාධිපතිවරයාට සංදේශයක් භාරදීමට කටයතු කරන බව චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් මෙම වැඩවර්ජනය සම්බන්ධයෙන් අදහස් දැක්වූ තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, තැපැල් සේවකයින්ගේ ඉල්ලීම්වලින් බහුතරයක් මේ වන විටත් ලබාදී ඇති බවය.
+
+වැඩවර්ජනය නතර කර සාකච්ඡා මාර්ගයෙන් මෙම ගැටලුව විසඳීමට තැපැල් වෘත්තීය සමිතිවලින් ඉල්ලීමක් කරන බව ද රුවන් සත්කුමාර මහතා සඳහන් කළේය.
+
+මේ අතර ගුරුවරුන් පිරිසක් ජනාධිපති ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවයක නිරත වී සිටී.
+
+...
+
+[Data](articles/a73c984b.json)
+
+---
+
+### Second reading of Gambling Regulatory Authority Bill in Parliament today
+
+*2025-08-19 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111609/second-reading-of-gambling-regulatory-authority-bill-in-parliament-today) · `en`
+
+The second reading of the Gambling Regulatory Authority Bill is scheduled to take place in Parliament today.
+
+Meanwhile, Parliament is scheduled to convene at 9:30 a.m. today.
+
+◼️
+
+[Data](articles/8337acaa.json)
+
+---
 
 ### ට්‍රම්ප් සහ යුක්‍රේන ජනපති අතර සාකච්ඡාව සාර්ථකව අවසන්
 
@@ -67,6 +143,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3456456a.json)
+
+---
+
+### ‘Quazi court’ judge and wife arrested for soliciting bribe in Kalmunai
+
+*2025-08-19 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111608/quazi-court-judge-and-wife-arrested-for-soliciting-bribe-in-kalmunai-) · `en`
+
+A Quazi court judge in Kalmunai and his wife have been arrested by the Bribery Commission on allegations of soliciting a bribe.
+
+The suspect was taken into custody at his office located in Maruthamunai, Kalmunai in the Ampara District.
+
+Last month, the aggrieved party lodged a complaint with the Commission to Investigate Allegations of Bribery or Corruption, stating that the suspect had demanded a bribe in order to resolve a legal matter.
+
+Following the incident, the suspect and his wife were arrested yesterday (17) by the Bribery Commission on charges of accepting a bribe.
+
+◼️
+
+[Data](articles/d5ced4c4.json)
+
+---
+
+### Donald Trump says he is working to arrange meeting between Putin and Zelensky
+
+*2025-08-19 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111607/donald-trump-says-he-is-working-to-arrange-meeting-between-putin-and-zelensky) · `en`
+
+US President Donald Trump said Monday he had started arranging a peace summit between Ukraine’s Volodymyr Zelensky and Russia’s Vladimir Putin, after intensive talks with Zelensky and European leaders at the White House.
+
+Trump said he had spoken by phone with Putin -- whom he met in Alaska last week -- following a “very good” meeting with the Europeans and the Ukrainian president in the White House.
+
+“At the conclusion of the meetings, I called President Putin, and began the arrangements for a meeting, at a location to be determined, between President Putin and President Zelensky,” Trump said on his Truth Social platform.
+
+Trump, 79, said that he himself would then hold a three-way summit with the Ukrainian and Russian leaders.
+
+“Everyone is very happy about the possibility of PEACE for Russia/Ukraine,” Trump wrote.
+
+Putin told Trump that he was ready to meet Zelensky, a source familiar with talks told AFP.
+
+...
+
+[Data](articles/2650bb10.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-08-19 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111606/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+A few showers will occur in the Western and Sabaragamuwa provinces and in Kandy, NuwaraEliya, Galle and Matara districts.
+
+Mainly fair weather will prevail over elsewhere of the island.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/140d85a5.json)
 
 ---
 
@@ -1747,139 +1879,5 @@ Meanwhile, ITAK MP Shanakiyan Rasamanickam said that the ‘hartal’ campaign i
 ◼️
 
 [Data](articles/ed43e3b9.json)
-
----
-
-### Postal workers’ strike continues island-wide as Minister urges to resume duties
-
-*2025-08-18 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111565/postal-workers-strike-continues-island-wide-as-minister-urges-to-resume-duties) · `en`
-
-The strike action initiated by the Postal and Telecommunications Officers’ Union, together with the United Postal Trade Unions’ Front (UPTUF), will continue for the second consecutive day today (18).
-
-According to union representatives, the strike is based on 19 key demands. These include the payment of overtime allowances for postal officers and opposition to the directive requiring officers in administrative and accounts offices to record attendance using fingerprint machines.
-
-The strike commenced at 4.00 p.m. yesterday (17) at the Colombo Central Mail Exchange and escalated into a continuous, island-wide strike covering postal and administrative offices from midnight onwards.
-
-As a result, all postal services will be disrupted today, said Chinthaka Bandara, co-convener of the United Postal Trade Unions’ Front.
-
-...
-
-[Data](articles/396f6fd6.json)
-
----
-
-### විදුලිබල මණ්ඩලයේ ලාභ ඉහළට
-
-*2025-08-18 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213489) · `si`
-
-2025 ජූනි 30න් අවසන් මූල්‍ය කාර්තුව තුළ දී රු. බිලියන 5.31 ක ලාභයක් වාර්තා කිරීමට ලංකා විදුලිබල මණ්ඩලය සමත්ව තිබේ.
-
-පූර්ව කාර්තුවේ දී, එනම් 2025 මාර්තු 31න් අවසන් මූල්‍ය කාර්තුවේ දී රු. බිලියන 18.47ක අලාභයක් වාර්තා කර තිබූ පසුබිමක මෙම කාර්තුවේ දී මෙලෙස මණ්ඩලය ලාභ ලැබීම සුවිශේෂී සිදුවීමකි.
-
-2025 ජූනි මාසයේ දී සිදුකරන ලද විදුලි ගාස්තු සංශෝධනය හරහා මෙලෙස විදුලි බල මණ්ඩලයට ලාභදායිත්ව මගකට පිවිසීමට හැකිව තිබෙන බව විශ්ලේෂකයින්ගේ මතය වේ.
-
-කෙසේවෙතත් 2024 ජූනි කාර්තුවේ දී මණ්ඩලය ලැබූ රු. බිලියන 34.53ක ලාභය හා සැසඳීමේ දී 2025 ජූනි කාර්තුවේ ලැබූ ලාභය 85%කින් අඩුවීමක් පෙන්නුම් කරයි.
-
-වත්මන් රජය බලයට පැමිණීමෙන් පසු 2025 ජනවාරි මාසයේ දී 20%කින් පමණ විදුලි ගාස්තු පහළ දැමීමක් සිදුකෙරණු අතර එය 2025 මාර්තු කාර්තුවේ වාර්තා වුණු අලාභයට බෙහෙවින් හේතුවිය.
-
-මේ සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල කියා සිටියේ, ශ්‍රී ලංකාව එළඹ ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම් වැඩසටහන මීළඟ වාරිකය ලබා ගැනීම සඳහා පිරිවැය ආවරණය වන විදුලිය මිලකරණය නැවත ස්ථාපනය කළ යුතු බවයි.
-
-...
-
-[Data](articles/953ff7fe.json)
-
----
-
-### தொடரும்  பணிப்புறக்கணிப்பு
-
-*2025-08-18 07:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடரும்-பணிப்புறக்கணிப்பு/175-363095) · `ta`
-
-தபால் மற்றும் தொலைத்தொடர்பு அதிகாரிகள் சங்கம் மற்றும் ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியால் ஆரம்பிக்கப்பட்ட பணிப்புறக்கணிப்பு போராட்டம் தொடர்ந்து முன்னெடுக்கப்பட்டுள்ளது.
-
-19 கோரிக்கைகளை முன்வைத்து நேற்று (17) மாலை 4.00 மணி முதல் இந்த பணிப்புறக்கணிப்பு போராட்டத்தை அவர்கள் தொடங்கினர்.
-
-மத்திய தபால் பரிமாற்றத்தில் தொடங்கிய இந்த பணிப்புறக்கணிப்பு போராட்டம் நேற்று நள்ளிரவு 12.00 மணி முதல் நாடு தழுவிய அளவில் அமுல்ப்படுத்தப்பட்டுள்ளதாக தபால் தொழிற்சங்க முன்னணி தெரிவித்துள்ளது.
-
-இதன் விளைவாக, இன்று அனைத்து தபால் செயல்பாடுகளும் பாதிக்கப்படும் என்று ஒன்றிணைந்த அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார தெரிவித்தார்.  R
-
-◼️
-
-[Data](articles/1c1ac096.json)
-
----
-
-### பாடசாலைகள் மீண்டும் ஆரம்பம்
-
-*2025-08-18 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-363094) · `ta`
-
-2025ஆம் ஆண்டுக்கான அரசாங்க பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளுக்கான மூன்றாம் தவணையின் முதலாம் கட்டம் இன்று ஆரம்பமாகிறது.
-
-இன்று (18) ஆரம்பமாகும் மூன்றாம் தவணையின் முதலாம் கட்டம் எதிர்வரும் நவம்பர் மாதம் 7 ஆம் திகதி முடிவடையும் என்றும் கல்வி அமைச்சு அறிவித்துள்ளது.
-
-எனினும், முஸ்லிம் பாடசாலைகளுக்கான மூன்றாம் தவணை எதிர்வரும் 25ஆம் திகதி ஆரம்பமாகவுள்ளது.  R
-
-◼️
-
-[Data](articles/4c5d9d78.json)
-
----
-
-### Sri Lanka deposit rates move up, overnight money market working
-
-*2025-08-18 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-deposit-rates-move-up-overnight-money-market-working-236917/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s deposit rates have edged up over June after a controversial rate cut in May 2025 while overnight rates have also moved up from the fall, in a scarce reserve regime up to last week, official data show.
-
-Call money rates, where banks lend and borrow from each other without collateral, have also moved up after initially falling in the wake of the rate cut and volumes have also gone up.
-
-The weighted average new lending rate of banks has also risen up to the end of June, after falling initially.
-
-More deposits are required to feed an expanding credit demand as the economy recovers from a stabilization crisis that came after a currency crisis triggered by previous rate cuts.
-
-...
-
-[Data](articles/b2a2b435.json)
-
----
-
-### Sri Lanka’s CT CLSA re-branded as CT Smith
-
-*2025-08-18 07:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-ct-clsa-re-branded-as-ct-smith-236962/) · `en`
-
-ECONOMYNEXT – CT CLSA, a Sri Lanka-based financial group with international backing, which has interests in stockbroking, investment banking and asset management said it is re-branded as CT Smith.
-
-“As part of our continued evolution and strategic clarity, we are simplifying our identity to reflect who we are today — and where we are headed,” CT Smith Holdings said in a statement.
-
-“The rebrand from CT CLSA to CT Smith reflects our commitment to deepening our presence in Sri Lanka, while staying connected to regional and global capital markets through our continuing partnership with CLSA.”
-
-It fully subsidiaries will now be known as CT Smith Securities, CT Smith Capital and CT Smith Asset Management.
-
-There are no changes to the firm’s operations, leadership, or client relationships. The team, and processes will continue.
-
-“This rebrand resonates who we’ve always been — a Sri Lankan firm with strong roots and with a global outlook,” a spokesperson for the firm said in the statement.
-
-...
-
-[Data](articles/452e5033.json)
-
----
-
-### උතුරු සහ නැගෙනහිර අද හර්තාල්
-
-*2025-08-18 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213488) · `si`
-
-උතුරු සහ නැගෙනහිර පළාත්වල අද (18) හර්තාල් ව්‍යාපාරයක් සිදුකරන බව ඉලංකෙයි තමිල් අරුසු පක්ෂය පවසයි.
-
-මුලතිව් ඔඩ්ඩුසුඩාන් හමුදා කඳවුරට ඇතුළු වූ පුද්ගලයින් පිරිසකට හමුදා නිළධාරීන් විසින් පහරදුන් බවට චෝදනා එල්ල වූ අතර එම කඳවුරට ඇතුළු වූ තවත් තරුණයෙකු ප්‍රදේශයේ වැවක මියගොස් සිටියදී සොයා ගැනීමත් සමඟ ඒ සම්බන්ධයෙන් හමුදාවට චෝදනා එල්ල විය.
-
-අදාළ සිද්ධිය සම්බන්ධයෙන් විශේෂ පොලිස් කණ්ඩායම් 02ක් විමර්ශන සිදුකරන අතර ඒ සම්බන්ධයෙන් හමුදා සෙබලුන් තිදෙනෙකු අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර ඇති බව පොලිසිය සදහන් කළේය.
-
-කෙසේවෙතත් අදාළ තරුණයා මියයාමට විරෝධය පළ කරමින් උතුරු සහ නැගෙනහිර පළාත්වල අද දිනයේ හර්තාල් ව්‍යාපාරයක් සිදුකිරීමට සැලසුම් කර ඇති බව පාර්ලිමේන්තු මන්ත්‍රී ශානක්‍යන් රාසමානිකම් මහතා ද පැවසුවේය.
-
-මෙම හර්තාල් ව්‍යාපාරය සදහා ශ්‍රී ලංකා කම්කරු කොංග්‍රසය සහ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය ද සහය පළ කරන බව පසුගියදා සදහන් කළේය.
-
-...
-
-[Data](articles/be1fcd46.json)
 
 ---

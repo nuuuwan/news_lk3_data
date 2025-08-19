@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 17:05:56**
+As of **2025-08-19 17:17:47**
 
 ## Newspaper Stats
 
-*Scraped **71,209** Articles*
+*Scraped **71,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,348
+economynextcom | 4,356
 islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -20,17 +20,75 @@ adalk | 6,854
 adaderanalk | 8,958
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
-adaderanasinhalalk | 12,305
+adaderanasinhalalk | 12,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,209 articles have been extended.
+61,973 (87.0%) of 71,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### සමාජ සේවා නිලධාරීන් පුහුණු කිරීමට ඉදිරි අයවැයෙන් විශේෂ අවධානයක්
+
+*2025-08-19 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213553) · `si`
+
+ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීම් අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය යෝජනා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (19) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්වුණි.
+
+ග්‍රාමීය ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා, එක් එක් කණ්ඩායම් වෙනුවෙන් මෙවර අයවැයෙන් වෙන් කළ ප්‍රතිපාදන නිසි ලෙස භාවිත කරමින් ඔවුන් ජාතික ආර්ථිකයට සෘජුව දායක කරගැනීමේ වැඩපිළිවෙළ ඵලදායීව ක්‍රියාත්මක කරන ලෙස මෙහිදී නිලධාරින්ට උපදෙස් දුන් ජනාධිපතිවරයා, එමගින් ගමට මුදල් ගලා යාම සමග ග්‍රාමීය ආර්ථිකය වේගයෙන් වර්ධනය කළ හැකි බවද පෙන්වා දුන්නේය.
+
+අදාළ ව්‍යාපෘති සහ වැඩසටහන් විධිමත්ව සහ සැලසුම්සහගතව ක්‍රියාවට නංවමින් ජනතාවට මෙම ප්‍රතිලාභ අත්කර දීම රාජ්‍ය නිලධාරින්ගේ වගකීම බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/ca645b3f.json)
+
+---
+
+### Sri Lanka Cabinet approve Maga for first stage of Central Express Highway
+
+*2025-08-19 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approve-maga-for-first-stage-of-central-express-highway-237334/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the first stage of the delayed Central Express Highway’s third phase after competitive bidding, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+The delayed third phase is now being built from state funds after Japan withdrew from the funding.
+
+The stage 1 of the third part of the Central Expressway Project from Pothuhara to Galagedara has been divided into 19 packages, Minister Jayatissa said.
+
+The first 13.8 km of expressway requires the completion of aggregate base course, asphalt concrete, road marking, installation of signboards, construction of buildings for the operation of the expressway, and installation of toll collection systems in order to complete the first phase.
+
+The government called for national competitive bids under 3 construction packages for the construction work.
+
+...
+
+[Data](articles/e9b30fb9.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields broadly steady
+
+*2025-08-19 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-broadly-steady-237352/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.55/70 to the US dollar in the spot market Tuesday, weaker from 301.25/40 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.90/92 percent, down from 8.90/9.00 percent.
+
+A bond maturing on 15.12.2029 closed at 9.41/46 percent, down from 9.43/46 percent.
+
+A bond maturing on 15.12.2032 closed at 10.22/27 percent, up from 10.22/25 percent. (Colombo/Aug19/2025)
+
+◼️
+
+[Data](articles/8533d6fc.json)
+
+---
 
 ### மன்னார் மறைமாவட்ட ஆயர் ஞானப்பிரகாசம் ஆண்டகைக்கும், ஜனாதிபதிக்கும் இடையில் சந்திப்பு - பேசிய விடையம் என்ன?
 
@@ -47,6 +105,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/2aa7e40d.json)
+
+---
+
+### Sri Lanka stocks close up 0.49-pct, pushed by banks, some financials
+
+*2025-08-19 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-49-pct-pushed-by-banks-some-financials-237326/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) continued to trade 0.49 percent higher surpassing the 20,400 mark on Monday, data showed.
+
+The ASPI climbed 100.55 points higher on Tuesday to close at 20,571.07; the S&P SL20 index rose 1.13 percent, or 67.56 points, to close at 6,065.02.
+
+The ASPI was pushed higher on Commercial Bank which ended 7.75 rupees stronger at 197.50; HNB which rose 13.50 rupees to 399.00; Carson Cumberbatch which ended 102.25 rupees up at 848.25; Sampath Bank which moved 2.25 rupees up to 145.00; and Bukith Darah which closed 37.00 rupees higher at 887.25.
+
+Turnover rose to 10.8 billion, while the share volume was 234,578,423.
+
+Elsewhere, Tokyo’s Nikkei 225 index fell after hitting record high levels for two consecutive sessions due to “directionless trading”, Japan’s The Mainichi newspaper said.
+
+The index moved 0.38 percent, or 168.02 points higher, to 43,546.29.
+
+...
+
+[Data](articles/c564937c.json)
 
 ---
 
@@ -173,6 +253,20 @@ According to police, the suspects, who arrived on a motorcycle, opened fire, inj
 ◼️
 
 [Data](articles/512eced1.json)
+
+---
+
+### Ceylon Printers re-named Kerner Haus Global Solutions
+
+*2025-08-19 15:15:00* · [`economynextcom`](https://economynext.com/ceylon-printers-re-named-kerner-haus-global-solutions-237324/) · `en`
+
+ECONOMYNEXT – Ceylon Printers PLC, a Sri Lankan stationery merchant and printer, has changed its name to “Kerner Haus Global Solutions PLC” according to a stock exchange filing.
+
+The company is involved in commercial printing and the import and sale of ATM cards, credit cards and PIN mailers.
+
+◼️
+
+[Data](articles/c84cf293.json)
 
 ---
 
@@ -382,6 +476,30 @@ Accordingly, the Cabinet of Ministers has granted approval to the proposal furni
 
 ---
 
+### Sri Lanka to offer concessional loans to draw youth to agriculture, industry
+
+*2025-08-19 13:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-concessional-loans-to-draw-youth-to-agriculture-industry-237304/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved a concessional loan scheme at 4 percent interest to encourage younger people into the agricultural and industrial sectors, minister Nalinda Jayatissa said.
+
+“It has been proposed to provide a maximum loan facility of 5 million rupees to a beneficiary,” Jayatissa told reporters.
+
+A 4 percent interest is to be charged per annum and the scheme will be implemented over 5 years.
+
+“The lack of concessional financial facilities has been identified as an obstacle to creating entrepreneurs in the agricultural sector.”
+
+This reduces the attractiveness of agriculture for young entrepreneurs, increases the amount of uncultivated land and reduces food production, he said.
+
+The 2025 budget has made a provision of 500 million rupees for the concessional loan scheme for the development, he said.
+
+The government’s objective is to create 50,000 agricultural entrepreneurs within 5 years, Jayatissa said.
+
+◼️
+
+[Data](articles/a199a371.json)
+
+---
+
 ### Cabinet approves financial assistance for youth leaving institutional care
 
 *2025-08-19 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111634/cabinet-approves-financial-assistance-for-youth-leaving-institutional-care) · `en`
@@ -509,6 +627,28 @@ After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly dem
 ◼️
 
 [Data](articles/5a524508.json)
+
+---
+
+### Sri Lanka state sugar firm to seek investors for tourism PPPs
+
+*2025-08-19 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-sugar-firm-to-seek-investors-for-tourism-ppps-237265/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call for expressions of interest from private investor to set up tourism projects in as public private partnerships in state-run Pelwatte and Sevanagala companies, Minister Nalinda Jayatissa said.
+
+“We have to find income generating methods for them,” Jayatissa told reporters referring to the loss making Lanka Sugar (Private) Company Limited properties.
+
+Based on a feasibility study by the National Agency for Public-Private Partnership, 4 locations have been identified within the Pelwatte Sugar Factory premises.
+
+He did not specify how many locations were identified within Sevanagala premises.
+
+The spots have been identified for development as tourist attractions, with “special focus on eco tourism, agro tourism, wellness tourism and conservation-based tourism” he said.
+
+The cabinet had approved the proposal to implement 2 tourist projects as public-private partnership schemes to develop the locations, he said.
+
+...
+
+[Data](articles/f99a1039.json)
 
 ---
 
@@ -858,6 +998,24 @@ The Deputy Minister stated, “Currency notes printing is carried out according 
 
 ### Sri Lanka’s Agstar sells export unit for Rs35.3mn
 
+*2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-export-unit-for-rs35-3mn-237242/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Agstar Plc said it had divested its entire shareholding of 4,500,000 ordinary shares in Agstar Exports (Pvt) Ltd for 35.3 million rupees.
+
+The buyers are Dassanayake Epage Prasanna Sampath Dassanayake and Nawarathne Mudiyanselage Kapugedara Ishara Thilini Nawarathne, the company said in a stock exchange filing.
+
+Agstar is part of the Browns group, which is part of LOLC Holdings.
+
+Agstar voting stock was trading up 10 cents at 8.40 rupees. (Colombo/Aug19/2025)
+
+◼️
+
+[Data](articles/2c23f219.json)
+
+---
+
+### Sri Lanka’s Agstar sells export unit for Rs35.3mn
+
 *2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-subsidiary-agstar-exports-for-rs35-3mn-237242/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s Agstar Plc said it had divested its entire shareholding of 4,500,000 ordinary shares in Agstar Exports (Pvt) Ltd for 35.3 million rupees.
@@ -1197,6 +1355,28 @@ But in any case, geographical diversification is good for depositors to mitigate
 ...
 
 [Data](articles/4e9cf1c0.json)
+
+---
+
+### Sri Lanka should structure syndicated loans with local banks, avoid CB dollar swaps
+
+*2025-08-19 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-structure-syndicated-loans-with-local-banks-avoid-cb-dollar-swaps-237193/) · `en`
+
+ECONOMYNEXT – Sri Lanka should structure a dollar syndicated loan targeting local banks to raise some of the forex deposits in banks, which can be used to settle the next maturing sovereign bond.
+
+Getting the central bank to engage in buy-sell swaps and giving proceeds to the government to repay debt is kind of a circular debt operation.
+
+Sri Lanka’s banks are now participating in Indian and other syndicated loans with their foreign currency deposits.
+
+It is perfectly fine to invest part of the NRFC or RFC deposit money or equity balances in the offshore banking units of banks in foreign debt.
+
+Since Sri Lanka government’s rating is low it is better to hold some money in higher rate foreign bonds or loans. But it must be understood that even US government finances are not in a good shape under the single policy rate/abundant reserve regime.
+
+But in any case, geographical diversification is good for depositors to mitigate risks provided banks are careful about the issuer.
+
+...
+
+[Data](articles/a3df6bb4.json)
 
 ---
 
@@ -1699,165 +1879,5 @@ Janashakthi Insurance PLC, the Group’s insurance arm, delivered a strong NPAT 
 ...
 
 [Data](articles/e59c5c4c.json)
-
----
-
-### தவறுகளைச் சுட்டிக்காட்டுவது ஊடகங்களின் கடமை - தேசிய ஒருமைப்பாட்டு பிரதி அமைச்சர் முனீர் முளப்பர்
-
-*2025-08-18 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222828) · `ta`
-
-தவறுகள் இருக்குமானால் ஊடகங்கள் அதனை சுட்டிக்காட்டுவதில் எந்த தவறும் இல்லை. அதன் மூலம்  தவறுகளை திருத்திக்கொள்ள முடியும். மாறாக நிலைமையை அறியாமல்  ஒருவரை பற்றி தவறான செய்திகளை பரப்புவது ஒரு சிறந்த ஊடகவியலாளருக்கு பொறுத்தமில்லை என தேசிய ஒருமைப்பாட்டு பிரதி அமைச்சர் முனீர் முளப்பர் தெரிவித்தார்.
-
-ஸ்ரீலங்கா முஸ்லிம் மீடியா போரம் கம்பஹா மாவட்ட பாடசாலை மாணவர்களுக்கு ஏற்பாடு செய்திருந்த  ஊடக கருத்தரங்கு 17ஆம் திகதி ஞாயிற்றுக்கிழமை நீர்கொழும்பு போரத்தொட்ட அல் பலாஹ் கல்லூரியில் இடம்பெற்றது.இதில் மாணவர்களுக்கு சான்றிதழ் வழங்கும் நிகழ்வுக்கு பிரதம அதிதியாக கலந்கொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவிதார்.
-
-...
-
-[Data](articles/48114227.json)
-
----
-
-### தாளையடி கடற்பரப்பில் நண்பர்களுடன் நீராடிய இளைஞன் உயிரிழப்பு
-
-*2025-08-18 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/222827) · `ta`
-
-வடமராட்சி கிழக்கு தாளையடி பகுதியில் நண்பர்களுடன் கடலில் நீராடிய  இளைஞர் ஒருவர் பரிதாபகரமாக உயிரிழந்துள்ளார்.
-
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு தாழையடி பகுதியில் நண்பர்களுடன் நீராடிக் கொண்டிருந்த இளைஞர் கடலில் பல்டி அடித்த போது தலையில் காயம் ஏற்பட்டு உயிரிழந்துள்ளார்.
-
-இளைஞர் ஒருவரின் பிறந்தநாள் கொண்டாட்டத்திற்காக ஒன்பது நண்பர்கள் இணைந்து உழவு இயந்திரத்தில் பளை கரந்தாய் பகுதியில் இருந்து திங்கட்கிழமை  (18.08.2025) மதியம் தாளையடி கடற்கரைக்கு வருகை தந்துள்ளனர்.
-
-பிறந்தநாளை கொண்டாடிக் கொண்டிருந்த நண்பர்கள் கடல் விளையாட்டுகளிலும் ஈடுபட்டிருந்தனர். இதன்போது தலையில் காயமுற்ற இளைஞரை உடனடியாக நண்பர்கள் மீட்டு உழவு இயந்திரத்தில் மருதங்கேணி பிரதேச வைத்தியசாலையில் அனுமதித்த போதும் அவரை பரிசோதித்த வைத்தியர்  இளைஞன் ஏற்கனவே உயிரிழந்திருப்பதாக தெரிவித்தார்.
-
-உயிரிழந்த இளைஞரின் உடலம்  பிரேத பரிசோதனைக்காக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது. மருதங்கேணி  பொலிசார் சக நண்பர்களிடம் வாக்குமூலம் பெற்றுள்ளதோடு மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-...
-
-[Data](articles/fa2e195c.json)
-
----
-
-### ඉල්ලීම් වෙනුවෙන් ජනපති ⁣ලේකම් කාර්යාලය අසල ගුරුවරු රැය පහන් කරයි
-
-*2025-08-18 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213521) · `si`
-
-ගුරුවරුන් පිරිසක් ජනාධිපති ⁣ලේකම් කාර්යාලය අසල පදික වේදිකාවේ රැඳීසිටිමින් රැය පහන්කරමින් සිටින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
-
-ඔවුන් එලෙස රැඳී සිටින්නේ, තම සාධාරණ ඉල්ලීම ජනපතිවරයාගේ අවධානයට ලක්වනතුරු බව ඔවුන් පවසයි.
-
-ඒ ගුරුවරුන් සේවය කරන පාසලටම ඔවුන්ගේ දරුවන් ඇතුළත් කර දෙන ලෙස ඉල්ලමින්ය.
-
-ඔවුන් අද දහවල් කාලයේ පාගමනකින් ජනාධිපති ලේකම් කාර්යාලය වෙත පැමිණ තිබුණි.
-
-◼️
-
-[Data](articles/3f06dc73.json)
-
----
-
-### Hamas cites progress in ceasefire talks as Palestinian death toll passes 62,000
-
-*2025-08-18 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111605/hamas-cites-progress-in-ceasefire-talks-as-palestinian-death-toll-passes-62000) · `en`
-
-Hamas said Monday it has accepted a new proposal from Arab mediators for a ceasefire in the Gaza Strip that would still need Israel’s approval, as Gaza’s Health Ministry said the Palestinian death toll from 22 months of war has passed 62,000.
-
-U.S. President Donald Trump meanwhile appeared to cast doubt on the long-running negotiations. “We will only see the return of the remaining hostages when Hamas is confronted and destroyed!!! The sooner this takes place, the better the chances of success will be,” he posted on his Truth Social site.
-
-Israel announced plans to reoccupy Gaza City and other heavy populated areas after the ceasefire talks appeared to have broken down last month, raising the possibility of a worsening of the humanitarian catastrophe in Gaza, which experts say is sliding into famine.
-
-...
-
-[Data](articles/d2a5463a.json)
-
----
-
-### US launches inaugural Young South Asian Leaders Initiative workshop in Colombo
-
-*2025-08-18 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111604/us-launches-inaugural-young-south-asian-leaders-initiative-workshop-in-colombo) · `en`
-
-U.S. Ambassador to Sri Lanka Julie Chung, Acting Deputy Assistant Secretary for South and Central Asian Affairs Shelly Seaver, and Minister of Youth Affairs and Sports Sunil Gamage opened the inaugural workshop of the Young South Asian Leaders Initiative (YSALI) in Colombo today (18).
-
-YSALI is a U.S. government-funded program aimed at empowering youth leaders, promoting peace, and bolstering economic growth across South Asia.
-
-More than 80 YSALI participants—competitively selected from alumni of previous U.S. government initiatives—represent the next generation of South Asian leaders and innovators in business, government, academia, health, and other fields.
-
-By connecting them with counterparts from across the region, the United States is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the U.S. Embassy said in a statement.
-
-...
-
-[Data](articles/83b87615.json)
-
----
-
-### අල්ලස් ගත් ක්වාසි විනිසුරුවරයෙකු සහ බිරිඳ අත්අඩංගුවට
-
-*2025-08-18 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213519) · `si`
-
-අල්ලස් ඉල්ලීමේ චෝදනා මත කල්මුනේ ක්වාසි අධිකරණ විනිසුරු සහ ඔහුගේ බිරිඳ අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-අම්පාර දිස්ත්‍රික්කයේ මරුතමුනයි ප්‍රදේශයේ පිහිටි කල්මුනේ ක්වාසි විනිසුරුවරයාගේ කාර්යාලයේදී සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-නඩු කටයුත්තක් විසඳීම සඳහා සැකකරු විසින් අල්ලස් මුදල් ඉල්ලා සිටින බවට වින්දිත පාර්ශ්වය විසින් පසුගිය මාසයේදී අල්ලස් හා දූෂණ කොමිෂන් සභා විමර්ශකයින්ට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
-
-එකී සිද්ධිය මත අද (17) දිනයේදී අල්ලස් මුදල් ලබා ගැනීමේ චෝදනා මත සැකකරු සහ ඔහුගේ බිරිඳ අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/fdc3f7ef.json)
-
----
-
-### කොරියානු තානාපතිනිය ජනපති ලේකම් හමුවෙයි
-
-*2025-08-18 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213518) · `si`
-
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය අතර හමුවක් අද (18) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
-
-කොරියානු නව පාලනය යටතේ ශ්‍රී ලංකා රජයේ ප්‍රමුඛතාවන් හඳුනාගෙන සමීපව කටයුතු කිරීමට සූදානම් බව ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය මෙහිදී ප්‍රකාශ කළාය.
-
-ශ්‍රී ලංකා රජයේ ප්‍රමුඛතා මත කොරියානු රජයේ අඛණ්ඩ සහයෝගය ලබා දීමට සූදානම් බවද තානාපතිනිය අවධාරණය කළාය.
-
-කොරියානු ජාත්‍යන්තර සහයෝගීතා ආයතනයේ (KOICA) නව නියෝජිතයින්ද මෙහිදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමුවූ අතර ශ්‍රී ලංකාව තුළ සිදු කෙරෙන KOICA ව්‍යාපෘති කඩිනමින් නිම කිරීම සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා කෙරිණි.
-
-◼️
-
-[Data](articles/56756caf.json)
-
----
-
-### කොටහේනේ දැරියගේ සිද්ධියේ විමර්ශන ගැන පොලිසියෙන් අධිකරණයට දැනුම්දීමක්
-
-*2025-08-18 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213517) · `si`
-
-ඉකුත්දා කොළඹ කොටහේන ප්‍රදේශයේ ඉහළ මහලකින් පැන සියදිවි නසාගත් පාසල් ශිෂ්‍යාව ලිංගික අපයෝජනයට ලක් කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදු කරන බව පොලීසිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
-
-මෙම සිද්ධියට අදාළ පැමිණිල්ල අද කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-මෙහිදී විමර්ශන සිදු කරන ළමා හා කාන්තා කාර්යාංශයේ කොළඹ උතුර කොට්ඨාසයේ ස්ථානාධිපතිවරිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධියට අදාළව සොයා ගනු ලැබූ සී.සී.ටී.වී දර්ශන ඔස්සේ වැඩිදුර විමර්ශන සිදු කරන බව සඳහන් කළේය.
-
-වැඩිදුර විමර්ශන කටයුතු සඳහා එම සී.සී.ටී.වී දර්ශන මොරටුව විශ්වවිද්‍යාලය වෙත යොමු කර ඇති බවත් එම විමර්ශන වාර්තා මෙතෙක් ලැබී නොමැති බවත් පොලීසිය සඳහන් කර සිටියේය.
-
-ඊට අමතරව ප්‍රකාශ ගණනාවක් සටහන් කර ගැනීමට නියමිතව තිබෙන බවත් පොලීසිය සඳහන් කළේය.
-
-එමෙන්ම මෙම සිද්ධියට අදාළ වෛද්‍ය වාර්තා ද පොලීසිය විසින් අධිකරණයට ඉදිරිපත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා මෙම විමර්ශනවල ප්‍රගතිය සැප්තැම්බර් මස 29 වනදා අධිකරණයට ඉදිරිපත් කරන ලෙස නියම කළේය.
-
-◼️
-
-[Data](articles/f9165805.json)
-
----
-
-### Chinese FM Wang Yi arrives in India to meet key leaders
-
-*2025-08-18 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111603/chinese-fm-wang-yi-arrives-in-india-to-meet-key-leaders) · `en`
-
-Chinese Foreign Minister Wang Yi landed in New Delhi today for a two-day official visit, during which he will hold the next round of Special Representatives (SR) dialogue on the boundary question with National Security Advisor Ajit Doval and also meet Prime Minister Narendra Modi.
-
-MEA spokesperson Randhir Jaiswal announced Wang’s arrival on X, writing: ‘Welcome to FM Mr. Wang Yi of China as he arrives in New Delhi on an official visit. Important engagements of the India-China Special Representatives and on bilateral relations over the next two days.’
-
-...
-
-[Data](articles/afac4dc3.json)
 
 ---

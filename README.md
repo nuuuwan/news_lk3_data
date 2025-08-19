@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 18:10:01**
+As of **2025-08-19 18:31:55**
 
 ## Newspaper Stats
 
-*Scraped **71,220** Articles*
+*Scraped **71,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,958
+adaderanalk | 8,962
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
 adaderanasinhalalk | 12,308
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,220 articles have been extended.
+61,973 (87.0%) of 71,224 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4becb1ad.json)
+
+---
+
+### Faiszer calls for stringent mechanisms to prevent ‘online gambling’ addiction
+
+*2025-08-19 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111646/faiszer-calls-for-stringent-mechanisms-to-prevent-online-gambling-addiction) · `en`
+
+New Democratic Front (NDF) Member of Parliament Faiszer Musthapha has urged the government to introduce stringent mechanisms to regulate online gambling in order to prevent Sri Lankans from getting addicted to this new gambling trend.
+
+Speaking during the debate on the second reading of the Gambling Regulatory Authority Bill in Parliament today (19), MP Musthapha said that casinos and gambling have already been legitimised in Sri Lanka, and therefore, it is imperative to introduce a stringent regulatory framework.
+
+He said that, unlike physical gambling spaces such as casinos, which create jobs and attract tourists, online gambling has no return for the government unless regulated properly.
+
+Musthapha is of the view that the Gambling Regulatory Authority Bill is a step in the right direction by the government, but noted the importance of introducing necessary laws and regulations by taking into account the new trends.
+
+...
+
+[Data](articles/4d6f83b2.json)
 
 ---
 
@@ -99,6 +117,22 @@ The government called for national competitive bids under 3 construction package
 ...
 
 [Data](articles/e9b30fb9.json)
+
+---
+
+### Thailand turning to Sri Lankan workers to cope with Cambodian exodus, official says
+
+*2025-08-19 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111645/thailand-turning-to-sri-lankan-workers-to-cope-with-cambodian-exodus-official-says) · `en`
+
+Thailand’s cabinet has approved the hiring of 10,000 Sri Lankan workers as it tries to address a labour shortage caused by Cambodian workers returning home in the wake of a deadly border conflict between the two countries, a Thai senior official said on Tuesday.
+
+Thailand’s ageing population and shrinking workforce has forced it to rely on at least 3 million registered foreign labourers across the agriculture, construction, and manufacturing sectors, data from the International Labor Organization showed.
+
+More than 30,000 workers from Sri Lanka have already registered and 10,000 will be sent to Thailand in the first stage, Labour Minister Pongkawin Jungrungruangkit told reporters, adding that it would also allow workers from Nepal, Bangladesh, Indonesia, and the Philippines to apply.
+
+...
+
+[Data](articles/ac4c599d.json)
 
 ---
 
@@ -164,6 +198,22 @@ The index moved 0.38 percent, or 168.02 points higher, to 43,546.29.
 
 ---
 
+### S&P SL20 crosses 6,000 for first time ever
+
+*2025-08-19 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111644/sp-sl20-crosses-6000-for-first-time-ever-) · `en`
+
+The S&P SL20 index of the Colombo Stock Exchange (CSE), which measures the performance of 20 of the largest and most liquid Sri Lankan companies, has crossed the 6,000 points mark for the first time today (19).
+
+Accordingly, the index gained 58.46 points (0.97%) to close at 6,055.92 points, a new all-time high.
+
+Meanwhile, the All Share Price Index (ASPI) has gained 100.55 points (0.49%) to close at 20,571.07 points, also a new high for the main index.
+
+◼️
+
+[Data](articles/04fcaec1.json)
+
+---
+
 ### இலங்கை வந்தார் அவுஸ்திரேலிய இளம் விமானி
 
 *2025-08-19 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222889) · `ta`
@@ -197,6 +247,20 @@ The index moved 0.38 percent, or 168.02 points higher, to 43,546.29.
 ◼️
 
 [Data](articles/0f23e880.json)
+
+---
+
+### Former NLB Director Thusitha Halloluwa remanded
+
+*2025-08-19 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111643/former-nlb-director-thusitha-halloluwa-remanded-) · `en`
+
+Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been remanded until August 28 by the Colombo Magistrate’s Court, said Ada Derana reporter.
+
+Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by officers of the Colombo Crimes Division (CCD) and the defense counsel.
+
+◼️
+
+[Data](articles/7ba25d1a.json)
 
 ---
 
@@ -1825,63 +1889,5 @@ Kandy Mahaweli Reach, Heritage, and Cinnamon Myst, will also have Roger in their
 ...
 
 [Data](articles/77d38715.json)
-
----
-
-### Big scene for Mirage
-
-*2025-08-18 23:44:00* · [`islandlk`](http://island.lk/big-scene-for-mirage/) · `en`
-
-Doing it in the Seychelles and keeping the folks entertained at the popular Lo Brizan pub/restaurant, at the Hilton Labriz Resort, is the group Mirage.
-
-They perform six days of the week (taking a break on Tuesdays) from 8.00 pm to 11.00 pm.
-
-“We love the setup here”, said the group’s leader Donald Pieries, adding that the atmosphere is wonderful.
-
-Reports indicate that female vocalist Danu, has turned out to be quite popular as she sings in five languages – English, Russian, French, German and Creole, the language spoken in the Seychelles – and is also seen with the crowd, encouraging them to dance and sing along with her.
-
-Mirage will be back, in Colombo, next month, and will be featured at the prestigious Gatz, Cinnamon Life, every Saturday; at Mamas Beach, in Hikkaduwa, on Tuesdays; and at Chill Colombo (Port City), on Fridays.
-
-...
-
-[Data](articles/32a18b42.json)
-
----
-
-### Invest Sri Lanka Forum draws strong investor interest in Singapore
-
-*2025-08-18 23:34:00* · [`islandlk`](http://island.lk/invest-sri-lanka-forum-draws-strong-investor-interest-in-singapore/) · `en`
-
-The “Invest Sri Lanka” Investor Forum, organised by the Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the High Commission of Sri Lanka to Singapore, successfully concluded at the Conrad Singapore Marina Bay, making a compelling case for channeling investment flows into Sri Lanka. The event attracted over 150 prospective investors from diverse sectors in Singapore.
-
-...
-
-[Data](articles/26fbe442.json)
-
----
-
-### Rhino launches ‘Rhino Premier’: a game-changer in roofing innovation
-
-*2025-08-18 23:33:00* · [`islandlk`](http://island.lk/rhino-launches-rhino-premier-a-game-changer-in-roofing-innovation/) · `en`
-
-Rhino Roofing, Sri Lanka’s most trusted name in roofing and ceiling sheets, unveiled its latest innovation, ‘Rhino Premier Roofing Sheets’, at a grand launch ceremony that took place on 15th August 2025 at the Cumulus Ballroom, Cinnamon Life, Colombo.
-
-Bringing together leading architects, developers, contractors, members of Chamber of Construction Industry and Chartered Institute of Building, and Rhino’s network of authorized dealers, the event marked a significant milestone in the brand’s continued journey of innovation.
-
-...
-
-[Data](articles/9779e935.json)
-
----
-
-### Dialog Introduces Unlimited Speed-Based Fibre Plans for Seamless Internet Access
-
-*2025-08-18 23:33:00* · [`islandlk`](http://island.lk/dialog-introduces-unlimited-speed-based-fibre-plans-for-seamless-internet-access/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, introduces truly unlimited, speed-based broadband packages with no Fair Usage Policy (FUP) restrictions, underscoring its commitment to delivering seamless digital experiences and empowering customers with unrestricted internet access through its advanced Dialog Fibre network.
-
-...
-
-[Data](articles/f54064ad.json)
 
 ---

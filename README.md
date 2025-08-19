@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 15:19:21**
+As of **2025-08-19 15:32:16**
 
 ## Newspaper Stats
 
-*Scraped **71,194** Articles*
+*Scraped **71,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 605
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,348
-islandlk | 4,378
+islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,952
+adaderanalk | 8,954
 tamilmirrorlk | 10,463
-virakesarilk | 11,794
+virakesarilk | 11,795
 adaderanasinhalalk | 12,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,194 articles have been extended.
+61,973 (87.0%) of 71,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,13 +44,47 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මේ හේතුවෙන් දිවයින පුරා සියලු තැපැල් කාර්යාලවල කටයුතු අඩපණ වී තිබේ.
 
-තැපැල් හා විදුලි සංදේශන නිලධාරීන්ගේ සංගමයේ සභාපති ඊ. ජී. සී. නිරෝෂන මහතා,
+අද පැවැති සාකච්ඡාවෙන් අනතුරුව තැපැල් හා විදුලි සංදේශන නිලධාරීන්ගේ සංගමයේ සභාපති ඊ. ජී. සී. නිරෝෂන මහතා සඳහන් කළේ,
 
 "ඇමතිතුමා එක්ක අපිට වහාම සාකච්ඡාවක් ලබාදෙන්න. ඒ සාකච්ඡාවෙන් අනතුරුව අපි ලෑස්තියි අඛණ්ඩ වැඩවර්ජනය අවසන් කරන්න. එතෙක් අඛණ්ඩ වැඩවර්ජනය ක්‍රියාත්මකයි."
 
 ◼️
 
 [Data](articles/be95bc7e.json)
+
+---
+
+### ஜனாதிபதிகளின் உரித்துரிமைகள் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு 3 மனுக்கள் சமர்ப்பிப்பு - சபாநாயகர்
+
+*2025-08-19 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/222874) · `ta`
+
+ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்)” சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு 3 மனுக்கள் சமர்ப்பிக்கப்பட்டுள்ளதாக சபாநாயகர் ஜகத் விக்கிரமரத்ன சபைக்கு அறிவித்தார்.
+
+பாராளுமன்றம் நேற்று செவ்வாய்க்கிழமை காலை 9.30 மணிக்கு சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் கூடியது. இதனையடுத்து இடம்பெற்ற சபாநாயகர் அறிவிப்பின்போதே இதனை சபைக்கு அறிவித்தார்.
+
+அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம்,  ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்)  சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்குச் சமர்ப்பிக்கப்பட்ட மூன்று மனுக்களின் பிரதிகள் எனக்குக் கிடைத்துள்ளன என்றார்.
+
+◼️
+
+[Data](articles/371166eb.json)
+
+---
+
+### Former State Minister Shasheendra Rajapaksa further remanded
+
+*2025-08-19 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111637/former-state-minister-shasheendra-rajapaksa-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded until August 26, Ada Derana reporter said.
+
+Rajapaksa was arrested on August 6 by Bribery Commission officers at his residence in Nugegoda.
+
+He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
+
+...
+
+[Data](articles/b21e1648.json)
 
 ---
 
@@ -85,6 +119,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d0099add.json)
+
+---
+
+### Petition filed by Rajitha Senaratne seeking suspension of arrest warrant rejected
+
+*2025-08-19 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111636/petition-filed-by-rajitha-senaratne-seeking-suspension-of-arrest-warrant-rejected) · `en`
+
+The petition filed by former Minister Rajitha Senaratne, seeking a temporary suspension of the warrant issued for his arrest in connection with an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), has been rejected by the Colombo Additional Magistrate, Ada Derana reporter said.
+
+When the petition was taken up yesterday, Colombo Chief Magistrate Thanuja Lakmali Jayatunga noted that such a request can only be considered when the Bribery Commission, the complainant in the case, appears in court.
+
+Accordingly, the court did not issue any order regarding Senaratne’s request yesterday.
+
+◼️
+
+[Data](articles/3d242a89.json)
 
 ---
 
@@ -1430,6 +1480,22 @@ Positive macro- environment conditions, especially low bank interest rates, enab
 
 ---
 
+### JXG reports LKR 2.28Bn Net Profit in Q1 FY26, signalling strong start to the year
+
+*2025-08-18 23:32:00* · [`islandlk`](http://island.lk/jxg-reports-lkr-2-28bn-net-profit-in-q1-fy26-signalling-strong-start-to-the-year/) · `en`
+
+Continuing its positive trajectory, Sri Lanka’s emerging financial conglomerate, JXG (Janashakthi Group), reported a consolidated net profit after tax (NPAT) of LKR 2.28 billion for the first quarter ended 30th June 2025.
+
+The group’s positive performance was fueled by a robust 41% year-on-year (YoY) growth in consolidated revenue, which reached LKR 8.36 billion. These results were driven by outstanding contributions across the Group’s key business verticals, particularly insurance.
+
+Janashakthi Insurance PLC, the Group’s insurance arm, delivered a strong NPAT of LKR 1.32 billion for the quarter under review, marking a significant 70% increase compared to the corresponding period last year. This performance was underpinned by new business premiums soaring by 73% in regular first-year premiums, reflecting the company’s focused efforts on customer acquisition and enhanced channel engagement.
+
+...
+
+[Data](articles/e59c5c4c.json)
+
+---
+
 ### தவறுகளைச் சுட்டிக்காட்டுவது ஊடகங்களின் கடமை - தேசிய ஒருமைப்பாட்டு பிரதி அமைச்சர் முனீர் முளப்பர்
 
 *2025-08-18 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222828) · `ta`
@@ -1793,83 +1859,5 @@ The CPCEC has formally requested both APs to submit detailed written explanation
 ...
 
 [Data](articles/6b635179.json)
-
----
-
-### Sri Lanka’s food insecurity drops from 24% to 16% – World Food Programme
-
-*2025-08-18 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111597/sri-lankas-food-insecurity-drops-from-24-to-16-world-food-programme) · `en`
-
-Sri Lanka has reduced its food insecurity rate from 24% to 16%, according to Philip Ward, the newly appointed representative and the Country Director of the United Nations World Food Programme (WFP) in Sri Lanka.
-
-He shared this development during a meeting with Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, after formally presenting his credentials today (18).
-
-During the discussion held at the Ministry, Minister Herath highlighted Sri Lanka’s key national priorities outlined in the National Development Policy, focusing particularly on poverty reduction, ensuring food security, and strengthening social protection systems for vulnerable communities.
-
-He further emphasized the government’s commitment to work closely with the WFP to promote sustainable development and improve the overall well-being of the country’s population.
-
-...
-
-[Data](articles/24e87ec1.json)
-
----
-
-### පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට වරෙන්තු
-
-*2025-08-18 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213514) · `si`
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී පූජ්‍ය අතුරලියේ රතන හිමියන් අත්අඩංගුවට ගැනීමට අධිකරණය මගින් වරෙන්තු නිකුත් කර තිබේ.
-
-පොලිසිය විසින් අධිකරණයට සිදුකරන ලද කරුණු දැක්විමක් සැලකිල්ලට ගනිමින් මෙම වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්.යූ. වුට්ලර් මහතා සඳහන් කළේය.
-
-ඒ අනුව, අතුරලියේ රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය මගින් වරෙන්තු නිකුත් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
-
-2020 වසරේ මහමැතිවරණයෙන් අපේ ජනබල පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරයට අදාළව පූජ්‍ය අතුරලිය රතන හිමිට එල්ලවූ චෝදනාවක් සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසය විමර්ශනයක් සිදුකරමින් සිටී.
-
-බලපෑම් කොට එම මන්ත්‍රි ධුරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගත් බවට රතන හිමිට චෝදනා එල්ලවී ඇත.
-
-එම විමර්ශනවලට අදාළව රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ අපරාධ කොට්ඨාසය උන්වහන්සේ වැඩසිටි රාජගිරිය සඳහම් සෙවණට ගියද උන්වහන්සේ එහි නොසිටි බවත් දුරකථනයද විසන්ධි කර ඇති බවත් එම කොට්ඨාසය මීට පෙර අධිකරණයට දැනුම් දී තිබුණි.
-
-...
-
-[Data](articles/ec0fd369.json)
-
----
-
-### Foreign investors sell Sri Lanka rupee bonds after two-weeks of buying
-
-*2025-08-18 17:29:00* · [`economynextcom`](https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-after-two-weeks-of-buying-237046/) · `en`
-
-ECONOMYNEXT – Foreign investors sold Sri Lanka government securities in thin trade in the week ended on August 14, the Central Bank data showed, after U.S. President Donald Trump and his Russian counterpart Vladimir Putin held high-stakes talks in Alaska over Ukraine.
-
-Foreign investors sold a net 291 million rupee ($970,000) worth of government securities in the week ended on August 14, after being net buyers for two straight weeks.
-
-They bought $30 million worth rupee bonds in the previous two weeks as there were some certainties over Trump’s reciprocal tariff.
-
-Trump’s meeting with Putin in Alaska has given some hopes of a ceasefire can be reached in the deadliest war in Europe since World War Two.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then, while global investors have been shifting to safe-havens like gold.
-
-...
-
-[Data](articles/fcf16f3e.json)
-
----
-
-### Trump tariffs won’t significantly reduce U.S. debts: U.S. economists
-
-*2025-08-18 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111596/trump-tariffs-wont-significantly-reduce-us-debts-us-economists) · `en`
-
-U.S. economists deem that hiking tariffs may slow the growth of U.S. debts but not achieve any significant reduction, said a report released by the Fortune magazine on its website on Sunday.
-
-U.S. President Donald Trump has repeatedly claimed that revenues from raised tariffs could both reduce America’s national debt of 37 trillion U.S. dollars and fund a public “dividend.”
-
-His primary purpose is “to pay down debt, which will happen in very large quantity,” while there is also a possibility that “we’re taking in so much money that we may very well make a dividend to the people of America,” Trump said earlier this month.
-
-The Fortune’s report, citing some U.S. economists, expressed skepticism over the president’s claim.
-
-...
-
-[Data](articles/c893b681.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 06:09:42**
+As of **2025-08-19 06:37:23**
 
 ## Newspaper Stats
 
-*Scraped **71,115** Articles*
+*Scraped **71,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,342
-islandlk | 4,365
+islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,277
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,115 articles have been extended.
+61,973 (87.1%) of 71,126 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,76 @@ Extensions include translations and NER (Named Entity Recognition).
 ---
 
 ### 2025-08-18 (Monday)
+
+### Love is in the air…
+
+*2025-08-18 23:45:00* · [`islandlk`](http://island.lk/love-is-in-the-air-2/) · `en`
+
+Yes, indeed, it seems certain that love is in the air for versatile musician Roger Menezes who arrived from Australia last Saturday, 16th August.
+
+This is his sixth visit, for this year, to his land of birth.
+
+“Having fulfilled my engagements in Sydney, and bracing the cold weather, I’m happy to be in sunny Lanka,” he said on arrival.
+
+One gets the impression that Roger is in love with Sri Lanka, but it seems that a different kind of love scene is also also on the cards for Roger!
+
+Music-wise, he has numerous performing dates here, starting off with a birthday party, on Thursday (21st), at the Kingsbury Harbour Court, followed by a Friday date (22nd) at Broadway Restaurant, Dehiwela.
+
+Roger will also be seen in action down South – at the Tangerine and Royal Palms, Kalutara.
+
+Kandy Mahaweli Reach, Heritage, and Cinnamon Myst, will also have Roger in their midst.
+
+...
+
+[Data](articles/77d38715.json)
+
+---
+
+### Big scene for Mirage
+
+*2025-08-18 23:44:00* · [`islandlk`](http://island.lk/big-scene-for-mirage/) · `en`
+
+Doing it in the Seychelles and keeping the folks entertained at the popular Lo Brizan pub/restaurant, at the Hilton Labriz Resort, is the group Mirage.
+
+They perform six days of the week (taking a break on Tuesdays) from 8.00 pm to 11.00 pm.
+
+“We love the setup here”, said the group’s leader Donald Pieries, adding that the atmosphere is wonderful.
+
+Reports indicate that female vocalist Danu, has turned out to be quite popular as she sings in five languages – English, Russian, French, German and Creole, the language spoken in the Seychelles – and is also seen with the crowd, encouraging them to dance and sing along with her.
+
+Mirage will be back, in Colombo, next month, and will be featured at the prestigious Gatz, Cinnamon Life, every Saturday; at Mamas Beach, in Hikkaduwa, on Tuesdays; and at Chill Colombo (Port City), on Fridays.
+
+...
+
+[Data](articles/32a18b42.json)
+
+---
+
+### Invest Sri Lanka Forum draws strong investor interest in Singapore
+
+*2025-08-18 23:34:00* · [`islandlk`](http://island.lk/invest-sri-lanka-forum-draws-strong-investor-interest-in-singapore/) · `en`
+
+The “Invest Sri Lanka” Investor Forum, organised by the Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the High Commission of Sri Lanka to Singapore, successfully concluded at the Conrad Singapore Marina Bay, making a compelling case for channeling investment flows into Sri Lanka. The event attracted over 150 prospective investors from diverse sectors in Singapore.
+
+...
+
+[Data](articles/26fbe442.json)
+
+---
+
+### Low bank interest rates sustain bullish surge at CSE
+
+*2025-08-18 23:32:00* · [`islandlk`](http://island.lk/low-bank-interest-rates-sustain-bullish-surge-at-cse/) · `en`
+
+CSE trading indicated some bullish tendencies yesterday following the market reaching 20,000 Index points last Friday, market analysts said.
+
+Positive macro- environment conditions, especially low bank interest rates, enabled the market to break the psychological barrier of 20,000 Index points and create favourable investor sentiments. Amid those developments both indices moved upwards. The All Share Price Index went up by 252.16 points while S and P SL20 rose by 103.6 points.
+
+...
+
+[Data](articles/5cd8ae8c.json)
+
+---
 
 ### தவறுகளைச் சுட்டிக்காட்டுவது ஊடகங்களின் கடமை - தேசிய ஒருமைப்பாட்டு பிரதி அமைச்சர் முனீர் முளப்பர்
 
@@ -1807,77 +1877,5 @@ There are no changes to the firm’s operations, leadership, or client relations
 ◼️
 
 [Data](articles/5002ad4c.json)
-
----
-
-### තැපැල් වර්ජනය තවදුරටත් - රාජකාරියට පැමිණෙන සේවකයින්ට විශේෂ ආරක්ෂාවක්
-
-*2025-08-18 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213487) · `si`
-
-තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ ආරම්භ කළ අඛණ්ඩ වැඩවර්ජනය තවදුරටත් ක්‍රියාත්මක වේ.
-
-ඉල්ලීම් 19ක් මුල් කර ගනිමින් ඊයේ (17) පස්වරු 4.00 සිට ඔවුන් මෙම වර්ජනය ආරම්භ කර තිබේ.
-
-මධ්‍යම තැපැල් හුවමාරුවෙන් ආරම්භ වූ මෙම වැඩවර්ජනය ඊයේ මධ්‍යම රාත්‍රී 12.00 සිට දිවයින පුරා ක්‍රියාත්මක බව තැපැල් වෘත්තීය සමිති පෙරමුණ සඳහන් කළේය.
-
-මේ හේතුවෙන් අද දිනයේ දි සියලුම තැපැල් කටයුතු අඩපණ වන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
-
-කෙසේවෙතත් අදාළ වැඩවර්ජනය සම්බන්ධයෙන් කොළඹ පැවති මාධ්‍ය හමුවකදී තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, තැපැල් සේවකයින්ගේ ඉල්ලීම් රැසක් ලබා දී තිබිය දී මෙලෙස වර්ජනයක නිරත වීම අසාධාරණ බවය.
-
-...
-
-[Data](articles/5ac02a51.json)
-
----
-
-### First phase of third school term to begin today
-
-*2025-08-18 07:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111564/first-phase-of-third-school-term-to-begin-today) · `en`
-
-The first phase of the third term for the year 2025 for government and government-approved private schools will commence today (18), according to the Ministry of Education.
-
-However, for Muslim schools, the third term will begin on August 25 (Monday).
-
-Furthermore, the first phase of the third term will take place from August 18 to November 07, the Ministry of Education announced.
-
-◼️
-
-[Data](articles/a9ac0f07.json)
-
----
-
-### තෙවන පාසල් වාරය අදින් ඇරඹෙයි
-
-*2025-08-18 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213486) · `si`
-
-2025 වර්ෂයට අදාල රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්  සඳහා තෙවන පාසල් වාරයේ පළමු අදියර අද ආරම්භ වේ.
-
-කෙසේවෙතත් මුස්ලිම් පාසල් සඳහා තෙවන පාසල් වාරය ආරම්භ වන්නේ ලබන 25 වනදා සිටය.
-
-අද (18)  ආරම්භ වන තෙවන පාසල් වාරයේ පළමු අදියර නොවැම්බර් මස 07 වනදා අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය පැවසුවේය.
-
-◼️
-
-[Data](articles/068447c8.json)
-
----
-
-### Zelensky and allies head to White House for Ukraine talks
-
-*2025-08-18 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111563/zelensky-and-allies-head-to-white-house-for-ukraine-talks) · `en`
-
-US President Donald Trump will host Volodymyr Zelensky on Monday for their first meeting since the pair’s heated exchange in the White House earlier this year - but this time the Ukrainian president is bringing European allies.
-
-Nato Secretary General Mark Rutte and UK Prime Minister Sir Keir Starmer are among leaders who will join Zelensky in Washington for talks on how to end the war with Russia.
-
-It follows Trump’s summit with Russian leader Vladimir Putin in Alaska that resulted in the US president dropping a demand for a ceasefire and calling instead for a permanent peace deal.
-
-A US envoy said on Sunday that Putin had agreed to a possible Nato-like security pact for Ukraine.
-
-“BIG PROGRESS ON RUSSIA. STAY TUNED!” Trump posted on his Truth Social platform, without elaborating.
-
-...
-
-[Data](articles/910aa1bd.json)
 
 ---

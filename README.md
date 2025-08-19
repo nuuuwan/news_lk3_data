@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 22:34:32**
+As of **2025-08-19 22:48:37**
 
 ## Newspaper Stats
 
-*Scraped **71,233** Articles*
+*Scraped **71,234** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
-colombotelegraphcom | 727
+colombotelegraphcom | 728
 economynextcom | 4,356
 islandlk | 4,379
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,233 articles have been extended.
+61,973 (87.0%) of 71,234 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -243,6 +243,20 @@ Musthapha is of the view that the Gambling Regulatory Authority Bill is a step i
 ◼️
 
 [Data](articles/0fad7f09.json)
+
+---
+
+### From European Union To Global Union: The Next Leap In Human Governance
+
+*2025-08-19 17:03:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-european-union-to-global-union-the-next-leap-in-human-governance/) · `en`
+
+In 1957, six European nations came together to sign the Treaty of Rome, establishing the European Economic Community (EEC). The goal was simple yet profound: integrate economies so tightly that war between them would become unthinkable. That experiment evolved into the European Union (EU) in 1993, bringing not only a common market but also shared political institutions and, eventually, a shared currency for many of its members.
+
+What is striking is that all of this was achieved in an era when communication technologies were primitive compared to today. Long-distance communication still relied heavily on landline telephones, typewriters, and physical mail. Computers were large, expensive, and accessible only to governments and research institutions. Yet, despite these limitations, European leaders managed to build an unprecedented structure of transnational cooperation.
+
+...
+
+[Data](articles/93d6a984.json)
 
 ---
 
@@ -1879,27 +1893,5 @@ Following the incident, the suspect and his wife were arrested yesterday (17) by
 ◼️
 
 [Data](articles/e868cc14.json)
-
----
-
-### Donald Trump says he is working to arrange meeting between Putin and Zelensky
-
-*2025-08-19 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111607/donald-trump-says-he-is-working-to-arrange-meeting-between-putin-and-zelensky) · `en`
-
-US President Donald Trump said Monday he had started arranging a peace summit between Ukraine’s Volodymyr Zelensky and Russia’s Vladimir Putin, after intensive talks with Zelensky and European leaders at the White House.
-
-Trump said he had spoken by phone with Putin -- whom he met in Alaska last week -- following a “very good” meeting with the Europeans and the Ukrainian president in the White House.
-
-“At the conclusion of the meetings, I called President Putin, and began the arrangements for a meeting, at a location to be determined, between President Putin and President Zelensky,” Trump said on his Truth Social platform.
-
-Trump, 79, said that he himself would then hold a three-way summit with the Ukrainian and Russian leaders.
-
-“Everyone is very happy about the possibility of PEACE for Russia/Ukraine,” Trump wrote.
-
-Putin told Trump that he was ready to meet Zelensky, a source familiar with talks told AFP.
-
-...
-
-[Data](articles/2650bb10.json)
 
 ---

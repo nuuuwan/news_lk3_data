@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 04:48:55**
+As of **2025-08-20 05:17:48**
 
 ## Newspaper Stats
 
-*Scraped **71,244** Articles*
+*Scraped **71,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
-economynextcom | 4,356
+economynextcom | 4,357
 islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,244 articles have been extended.
+61,973 (87.0%) of 71,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -321,6 +321,26 @@ The liberalised rules will now offer Enhanced Preference countries (including Sr
 ◼️
 
 [Data](articles/d6434f80.json)
+
+---
+
+### Sri Lanka passes bill to set up Casino regulator
+
+*2025-08-19 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-bill-to-set-up-casino-regulator-237363/) · `en`
+
+ECONOMYEXT – Sri Lanka’s parliament passed a bill to set up a casino regulator, shortly after the first international casino franchise, Melco, set up shop in the island.
+
+The regulator will ensure that casinos operate according to rules and concerns about money laundering is also addressed, Deputy Economic Development Miniter Anil Jayantha Fernando told parliament.
+
+The regulator will license the casinos and ensure they comply with rules. Existing casinos have been given time to come under the regulator.
+
+Sri Lanka has also set up a 50 dollar fee for locals to enter casinos under the regulations.
+
+Separately the parliament’s Committee on Public Finance presented it approval of foreign exchange regulations relating to gaming.
+
+◼️
+
+[Data](articles/9bf46a08.json)
 
 ---
 
@@ -1837,27 +1857,5 @@ But in any case, geographical diversification is good for depositors to mitigate
 ...
 
 [Data](articles/6f03d39f.json)
-
----
-
-### US State Department revokes 6,000 student visas
-
-*2025-08-19 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111612/us-state-department-revokes-6000-student-visas) · `en`
-
-The State Department has revoked more than 6,000 international student visas because of violations of US law and overstays, the department told the BBC.
-
-The agency said the “vast majority” of the violations were assault, driving under the influence (DUI), burglary and “support for terrorism”.
-
-The move comes as the Trump administration continues its crackdown on immigration and international students.
-
-While the State Department did not specify what they meant by “support for terrorism”, the Trump administration has targeted some students who have protested in support of Palestine, arguing they had expressed antisemitic behaviour.
-
-Of the 6,000 student visas that were revoked, the State Department said about 4,000 of those were revoked because visitors broke the law.
-
-Another 200-300 visas were also revoked for “terrorism done under INA 3B”, the State Department said, referring to code that defines “terrorist activity” broadly as acts that endanger human life or violate US law.
-
-...
-
-[Data](articles/f0336fe8.json)
 
 ---

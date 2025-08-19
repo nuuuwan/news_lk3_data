@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 12:26:20**
+As of **2025-08-19 12:37:50**
 
 ## Newspaper Stats
 
-*Scraped **71,173** Articles*
+*Scraped **71,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,944
+adaderanalk | 8,945
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
 adaderanasinhalalk | 12,295
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,295
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,173 articles have been extended.
+61,973 (87.1%) of 71,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,24 @@ The US imposed 25% “reciprocal” tariffs on India with effect from 7 August 2
 ◼️
 
 [Data](articles/337f850d.json)
+
+---
+
+### Speaker endorses certificate on Sri Lanka Electricity (Amendment) Bill
+
+*2025-08-19 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111626/speaker-endorses-certificate-on-sri-lanka-electricity-amendment-bill) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne has endorsed the certificate on the Sri Lanka Electricity (Amendment) Bill.
+
+The Sri Lanka Electricity (Amendment) Bill was passed in Parliament on August 6.
+
+Accordingly, the Sri Lanka Electricity (Amendment) Bill will come into force as the Sri Lanka Electricity (Amendment) Act, No. 14 of 2025, the Department of Communication of Parliament said.
+
+Through the Act, provisions have been made for the preparation of the “National Electricity Policy as part of the National Policy on Energy” in place of the “National Electricity Advisory Council.” Furthermore, the term “Wholesale Electricity Market” is substituted with “National Electricity Market,” with the principal objectives of ensuring a continuous, efficient and affordable electricity supply, minimizing greenhouse gas emissions, and promoting renewable energy.
+
+...
+
+[Data](articles/9a51c393.json)
 
 ---
 
@@ -1895,25 +1913,5 @@ Accordingly, the court did not issue any order regarding Senaratne’s request.
 ◼️
 
 [Data](articles/41914516.json)
-
----
-
-### At least 20 killed, 134 people injured in blast at factory in Russia’s Ryazan region
-
-*2025-08-18 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111586/at-least-20-killed-134-people-injured-in-blast-at-factory-in-russias-ryazan-region) · `en`
-
-The death toll from an unexplained blast last week at a factory in Russia’s Ryazan region has jumped to at least 20, with another 134 people injured, emergency services said on Monday.
-
-Pavel Malkov, governor of the Ryazan region that lies just southeast of Moscow, said last Friday that the incident had been triggered by a fire breaking out inside a workshop at the factory.
-
-But it was unclear from Russian media reports what caused the fire or what the factory was producing. Official Russian sources gave no details beyond efforts to find and treat the injured. Some media reported that it was a explosives plant but Reuters was unable to immediately verify that information.
-
-“As of August 18, 20 people died as a result of the emergency incident,” the local emergency service headquarters said in a post on Telegram.
-
-“There are 134 injured, of whom 31 patients are in hospitals in Ryazan and Moscow, while 103 patients are undergoing outpatient treatment.”
-
-...
-
-[Data](articles/de6741c9.json)
 
 ---

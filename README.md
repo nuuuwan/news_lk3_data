@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 21:50:09**
+As of **2025-08-19 22:15:39**
 
 ## Newspaper Stats
 
-*Scraped **71,230** Articles*
+*Scraped **71,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,964
+adaderanalk | 8,965
 tamilmirrorlk | 10,463
 virakesarilk | 11,799
 adaderanasinhalalk | 12,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,230 articles have been extended.
+61,973 (87.0%) of 71,231 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/dc3d81f7.json)
+
+---
+
+### Trump says Putin may not want to make a deal on Ukraine
+
+*2025-08-19 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111649/trump-says-putin-may-not-want-to-make-a-deal-on-ukraine) · `en`
+
+U.S. President Donald Trump said on Tuesday he hoped Russia’s Vladimir Putin would move forward on ending the war in Ukraine but conceded that the Kremlin leader may not want to make a deal at all, adding this would create a “rough situation” for Putin.
+
+In an interview with the Fox News “Fox & Friends” programme, Trump said he believed Putin’s course of action would become clear in the next couple of weeks. Trump again ruled out American boots on the ground in Ukraine and gave no specifics about the security guarantees he has previously said Washington could offer Kyiv under any post-war settlement.
+
+“I don’t think it’s going to be a problem (reaching a peace deal), to be honest with you. I think Putin is tired of it. I think they’re all tired of it, but you never know,” Trump said.
+
+...
+
+[Data](articles/fc7bdc5f.json)
 
 ---
 
@@ -1883,21 +1899,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ...
 
 [Data](articles/d609682b.json)
-
----
-
-### நிந்தவூரில் கஞ்சா மற்றும் ஐஸ் போதைப் பொருளுடன் ஒருவர் கைது!
-
-*2025-08-19 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222832) · `ta`
-
-கஞ்சா மற்றும் ஐஸ் போதைப் பொருளை தன்வசம் வைத்திருந்த சந்தேக நபரை அம்பாறை மாவட்ட குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர். அத்தோடு கஞ்சா மற்றும் ஐஸ் போதைப் பொருளையும் கைப்பற்றி உள்ளனர்.
-
-அம்பாறை மாவட்டம், நிந்தவூர் பொலிஸ்  பிரிவிற்குட்பட்ட பகுதியில் அம்பாறை மாவட்ட குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்ட சுற்றிவளைப்பு நடவடிக்கையின் போது, நிந்தவூர் 23 பகுதியைச் சேர்ந்த 35 வயது மதிக்கத்தக்க சந்தேக நபர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
-
-இவ்வாறு கைதான சந்தேக நபரிடம் இருந்து 4 கிலோ 320 கிராம் கஞ்சா மற்றும் 6 கிராம் 730 மில்லிகிராம் ஐஸ் போதைப் பொருள் மீட்கப்பட்டிருந்ததுடன், சந்தேக நபர்கள் உள்ளிட்ட சான்றுப்பொருட்களை சட்ட நடவடிக்கைக்காக நிந்தவூர் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/7cab06e1.json)
 
 ---

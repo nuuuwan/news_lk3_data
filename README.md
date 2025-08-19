@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 14:08:27**
+As of **2025-08-19 14:25:05**
 
 ## Newspaper Stats
 
-*Scraped **71,189** Articles*
+*Scraped **71,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,854
 adaderanalk | 8,952
 tamilmirrorlk | 10,463
 virakesarilk | 11,794
-adaderanasinhalalk | 12,299
+adaderanasinhalalk | 12,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,189 articles have been extended.
+61,973 (87.1%) of 71,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### ගම්පහ ප්‍රදේශයේ අපරාධකරුවන් පිරිසක් අවි ආයුධ සමග අත්අඩංගුවට
+
+*2025-08-19 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213547) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ මත්ද්‍රව්‍ය හා අපරාධ ජාලයට සම්බන්ධ පුද්ගලයින් පිරිසක් අවි ආයුධ සමග අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+මීට අමතරව පරකන්දෙණිය, දළුවකොටුව සහ කටාන යන ප්‍රදේශවල සිදුකළ වැටලීමක දී සැකකරුවන් සතුව තිබී රිපීටර් වර්ගයේ ගිනිඅවියක්, පිස්තෝල අවියක්, ටී - 56 මැගසින් 9ක් සමග පතොරොම් 183ක්, මිලිමීටර් 9 වර්ගයේ පතුරොම් 280ක්, කඩුවක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 300ක් සොයාගෙන ඇති බව පොලීසිය පැවසීය.
+
+එමෙන්ම සැකකරුවන් භාවිතාකළ යතුරුපැදියක් සහ මෝටර් රථයක් ද පොලීසිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/d0099add.json)
+
+---
 
 ### රාජිතගේ පෙත්සම අධිකරණයෙන් ප්‍රතික්ෂේප කරයි
 
@@ -1851,23 +1869,5 @@ They further state that, taken as a whole, the bill infringes upon fundamental c
 ◼️
 
 [Data](articles/7da31853.json)
-
----
-
-### US launches Young South Asian Leaders Initiative workshop in Sri Lanka
-
-*2025-08-18 16:46:00* · [`economynextcom`](https://economynext.com/us-launches-young-south-asian-leaders-initiative-workshop-in-sri-lanka-237098/) · `en`
-
-ECONOMYNEXT – A US-funded Young South Asian Leaders Initiative (YSALI) workshop was launched in Sri Lanka’s Colombo aimed at providing youth ‘networks needed to build positive regional connections’.
-
-The three-day workshop brings together over 80 youth leaders, selected from alumni of previous US government initiatives, from Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka to address shared challenges and opportunities, including economic development, civic participation, and regional collaboration.
-
-Through the program the United States is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the US Embassy said.
-
-“Each of you has already demonstrated leadership through your participation in US government exchange programs, taking the initiative to create change—often in challenging circumstances,” US Ambassador to Sri Lanka Julie Chung said.
-
-...
-
-[Data](articles/b2e0b5c4.json)
 
 ---

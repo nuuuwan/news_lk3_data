@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 17:31:49**
+As of **2025-08-19 17:53:21**
 
 ## Newspaper Stats
 
-*Scraped **71,218** Articles*
+*Scraped **71,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,854
 adaderanalk | 8,958
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
-adaderanasinhalalk | 12,306
+adaderanasinhalalk | 12,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,218 articles have been extended.
+61,973 (87.0%) of 71,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### ශ්‍රී ලාංකික ශ්‍රමිකයින් 10000ක් සඳහා තායිලන්ත කැබිනට් අනුමැතිය
+
+*2025-08-19 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213554) · `si`
+
+සිය රට තුළ පවතින ශ්‍රමිකයින්ගේ හිඟය හේතුවෙන් ශ්‍රී ලාංකික ශ්‍රමිකයින් 10,000ක් බඳවා ගැනීමට තායිලන්ත කැබිනට් මණ්ඩලය අනුමැතිය ලබාදී තිබේ.
+
+දේශසීමා ගැටුමකින් පසු කාම්බෝජ ශ්‍රමිකයින් නැවත සිය රට බලායෑම හේතුවෙන් තායිලන්තයේ මෙම ශ්‍රම හිඟය ඇතිවිය.
+
+කෙසේවෙතත් තායිලන්තයේ වයස්ගත ජනගහනය ඉහළයෑම සහ ශ්‍රම බළකාය අඩුවීම හේතුවෙන් කෘෂිකර්මාන්තය, ඉදිකිරීම් සහ නිෂ්පාදන අංශය හරහා අවම වශයෙන් ලියාපදිංචි විදේශීය ශ්‍රමිකයින් මිලියන 3ක් මත යැපීමට සිදුවී ඇති බව ජාත්‍යන්තර කම්කරු සංවිධානයේ දත්ත පෙන්වාදී තිබේ.
+
+මේ හේතුවෙන් ශ්‍රී ලංකාව ඇතුළුව නේපාලය, බංග්ලාදේශය, ඉන්දුනීසියාව සහ පිලිපීනය යන රටවල සේවකයින්ට තායිලන්තයේ රැකියා අවස්ථා ලබාදීමට සැලසුම් කර ඇත.
+
+ශ්‍රී ලංකාවෙන් දැනටමත් ශ්‍රමිකයින් 30,000කට වැඩි පිරිසක් ලියාපදිංචිවී ඇති බව පෙන්වා දෙන තායිලන්ත බලධාරීන් පළමු අදියරේදී 10,000ක ශ්‍රමිකයින් පිරිසකට තායිලන්තයේ රැකියා අවස්ථා හිමිවෙන බව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/0fad7f09.json)
+
+---
 
 ### සමාජ සේවා නිලධාරීන් පුහුණු කිරීමට ඉදිරි අයවැයෙන් විශේෂ අවධානයක්
 
@@ -1863,21 +1883,5 @@ Positive macro- environment conditions, especially low bank interest rates, enab
 ...
 
 [Data](articles/5cd8ae8c.json)
-
----
-
-### JXG reports LKR 2.28Bn Net Profit in Q1 FY26, signalling strong start to the year
-
-*2025-08-18 23:32:00* · [`islandlk`](http://island.lk/jxg-reports-lkr-2-28bn-net-profit-in-q1-fy26-signalling-strong-start-to-the-year/) · `en`
-
-Continuing its positive trajectory, Sri Lanka’s emerging financial conglomerate, JXG (Janashakthi Group), reported a consolidated net profit after tax (NPAT) of LKR 2.28 billion for the first quarter ended 30th June 2025.
-
-The group’s positive performance was fueled by a robust 41% year-on-year (YoY) growth in consolidated revenue, which reached LKR 8.36 billion. These results were driven by outstanding contributions across the Group’s key business verticals, particularly insurance.
-
-Janashakthi Insurance PLC, the Group’s insurance arm, delivered a strong NPAT of LKR 1.32 billion for the quarter under review, marking a significant 70% increase compared to the corresponding period last year. This performance was underpinned by new business premiums soaring by 73% in regular first-year premiums, reflecting the company’s focused efforts on customer acquisition and enhanced channel engagement.
-
-...
-
-[Data](articles/e59c5c4c.json)
 
 ---

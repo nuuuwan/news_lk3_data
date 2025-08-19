@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 09:50:40**
+As of **2025-08-19 10:07:58**
 
 ## Newspaper Stats
 
-*Scraped **71,142** Articles*
+*Scraped **71,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,854
 adaderanalk | 8,931
 tamilmirrorlk | 10,463
 virakesarilk | 11,789
-adaderanasinhalalk | 12,284
+adaderanasinhalalk | 12,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,142 articles have been extended.
+61,973 (87.1%) of 71,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### අරුණ ජයසේකරට එරෙහි විශ්වාසභංගය ගැන කථානායක තීරණය ඉදිරියේ දී
+
+*2025-08-19 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213532) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ තමාගේ තීරණය ඉදිරියේ දී දැනුම්දෙන බව කථානායකවරයා අද පාර්ලිමේන්තුවේ දී පැවසීය.
+
+අද (19) උදෑසන 9.30ට පාර්ලිමේන්තු කටයුතු ආරම්භ වූ අතර, එහිදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු විපක්ෂයේ මන්ත්‍රීවරු 31ක් දෙනෙකුගේ අත්සනින් යුතුව අගෝස්තු 12 වන දින විශ්වාසභාංග යෝජනාව තමා වෙත භාරදුන් බව ද කථානායකවරයා මෙහිදී කියා සිටියේය.
+
+ඒ අනුව අදාළ විශ්වාසභංග යෝජනාවේ ඇතුළත් කරුණු අධ්‍යයනය කර ඒ සම්බන්ධයෙන් ගත යුතු ක්‍රියාමාර්ග සම්බන්ධයෙන් ඉදිරියේ දී සභාවට දැනුම්දෙන බව ද කථානායකවරයා මෙහිදී දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/5cfe8bd5.json)
+
+---
 
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
@@ -1879,23 +1895,5 @@ The Colombo Stocks Exchange was trading in green: The ASPI was up 0.67 percent, 
 ◼️
 
 [Data](articles/05f5d470.json)
-
----
-
-### More than 40 missing in Nigeria boat accident
-
-*2025-08-18 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111568/more-than-40-missing-in-nigeria-boat-accident) · `en`
-
-More than 40 people were missing in a boat accident in Nigeria after a boat conveying 50 persons to a popular market in northwest Sokoto State capsized on Sunday, the country’s emergency agency said.
-
-The passengers were travelling to Goronyo market, a popular food produce market in the state, when the boat capsized. Ten people have been rescued, Zubaidar Umar, the head of the National Emergency Management Agency, said in a statement on social media platform X.
-
-The agency said it is collaborating with local authorities and emergency responders in a search and rescue operation to locate the missing persons.
-
-Three weeks ago, at least 13 people died and dozens more were missing after a boat ferrying around 100 passengers capsized in Niger State, in north-central Nigeria.
-
-◼️
-
-[Data](articles/fe8b34fa.json)
 
 ---

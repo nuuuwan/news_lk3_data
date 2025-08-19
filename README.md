@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 08:44:05**
+As of **2025-08-19 09:15:49**
 
 ## Newspaper Stats
 
@@ -122,15 +122,15 @@ Meanwhile, a group of teachers is engaged in a protest opposite the Presidential
 
 *2025-08-19 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213526) · `si`
 
-අධිකරණය මඟ හරිමින් සිටි ජාතික ලොතරැයි මණ්ඩලයේ හිටපු විධායක අධ්‍යක්ෂ තුසිත හල්ලොලුව මහතාව අද (19) උදෑසන අත්අඩංගුවට ගෙන තිබේ.
+ජාතික ලොතරැයි මණ්ඩලයේ හිටපු විධායක අධ්‍යක්ෂ තුසිත හල්ලොලුව මහතා අත්අඩංගුවට ගෙන තිබේ.
 
-ඒ ඔහුව අත්අඩංගුවට ගන්නා ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඊයේ (18) දින වරෙන්තු නිකුත් කර ඇති පසුබිමකය.
+අධිකරණය මඟහරිමින් සිටි ඔහු අද (19) අලුයම අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
 
-කොළඹ අපරාධ කොට්ඨාශය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා විසින් මෙලෙස වරෙන්තුව නිකුත් කරනු ලැබීය.
+පසුගිය මැයි 17වනදා රාත්‍රියේ නාරාහෙන්පිට වටරවුම පාරේ පෞද්ගලික රෝහලක් අසලදී ඔහුගේ ජීප් රථයට වෙඩි ප්‍රහාරයක් එල්ලවීම සම්බන්ධයෙන් විභාගවන නඩුවකට අදාළව අධිකරණය මඟහරිමින් සිටි තුසිත හල්ලොලුව මහතා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය ඊයේ (18) පොලීසියට නියෝග කළේය.
 
-මෑතකදී නාරාහේන්පිට ප්‍රදේශයේදී තුසිත හල්ලොලුව මහතාගේ වාහනයට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විසින් විමර්ශනයක් ආරම්භ කර තිබුණි.
+ඒ අනුව කොළඹ අපරාධ කොට්ඨාශය විසින් සිදුකළ වැටලීමක දී තුසිත හල්ලොලුව මහතා අද අලුයම කොල්ලුපිටිය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
 
-එම විමර්ශනය සම්බන්ධයෙන් පොලීසිය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහෙස්ත්‍රාත්වරයා මෙම වරෙන්තුව නිකුත් කළේය.
+අත්අඩංගුවට ගත් සැකකරු කොළඹ මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතයි.
 
 ◼️
 
@@ -166,7 +166,7 @@ Accordingly, the warrant was issued following a request made by police in connec
 
 එම පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේ, ඉල්ලීම් 19ක් මුල්කරගෙන පෙරේදා සවස (17) ආරම්භ කළ මෙම වැඩවර්ජනය ඉතා සාර්ථකව සිදුවන බවය.
 
-සිය ඉල්ලීම්වලට නිසි විසඳුම් ලබාදෙන තුරු වැඩවර්ජනය අත්හිටුවීමට පියවර ගන්නා අතර අද දිනයේ සිය ගැටලු සම්බන්ධයෙන් ජනාධිපතිවරයාට සංදේශයක් භාරදීමට කටයතු කරන බව චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+සිය ඉල්ලීම්වලට නිසි විසඳුම් ලබාදෙන තුරු වැඩවර්ජනය අත්හිටුවීමට පියවර නොගන්නා අතර අද දිනයේ සිය ගැටලු සම්බන්ධයෙන් ජනාධිපතිවරයාට සංදේශයක් භාරදීමට කටයතු කරන බව චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
 
 කෙසේවෙතත් මෙම වැඩවර්ජනය සම්බන්ධයෙන් අදහස් දැක්වූ තැපැල්පති රුවන් සත්කුමාර මහතා සඳහන් කළේ, තැපැල් සේවකයින්ගේ ඉල්ලීම්වලින් බහුතරයක් මේ වන විටත් ලබාදී ඇති බවය.
 
@@ -236,15 +236,15 @@ Once passed in Parliament, the draft bill will come into effect as the Gambling 
 
 ---
 
-### ‘Quazi court’ judge and wife arrested for soliciting bribe in Kalmunai
+### ‘Quazi court’ judge and wife arrested in Kalmunai for soliciting bribe
 
 *2025-08-19 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111608/quazi-court-judge-and-wife-arrested-for-soliciting-bribe-in-kalmunai-) · `en`
 
-A Quazi court judge in Kalmunai and his wife have been arrested by the Bribery Commission on allegations of soliciting a bribe.
+A ‘Quazi court’ judge in Kalmunai and his wife have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on allegations of soliciting a bribe.
 
 The suspect was taken into custody at his office located in Maruthamunai, Kalmunai in the Ampara District.
 
-Last month, the aggrieved party lodged a complaint with the Commission to Investigate Allegations of Bribery or Corruption, stating that the suspect had demanded a bribe in order to resolve a legal matter.
+Last month, the aggrieved party lodged a complaint with the Bribery Commission, stating that the suspect had demanded a bribe in order to resolve a legal matter.
 
 Following the incident, the suspect and his wife were arrested yesterday (17) by the Bribery Commission on charges of accepting a bribe.
 

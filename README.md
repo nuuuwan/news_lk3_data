@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 10:49:31**
+As of **2025-08-19 11:07:12**
 
 ## Newspaper Stats
 
-*Scraped **71,153** Articles*
+*Scraped **71,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,938
+adaderanalk | 8,943
 tamilmirrorlk | 10,463
-virakesarilk | 11,789
-adaderanasinhalalk | 12,287
+virakesarilk | 11,790
+adaderanasinhalalk | 12,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,153 articles have been extended.
+61,973 (87.1%) of 71,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### Interviews begin to register new political parties, 47 shortlisted
+
+*2025-08-19 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111624/interviews-begin-to-register-new-political-parties-47-shortlisted-) · `en`
+
+The National Election Commission (EC) states that interviews for new political parties applying for registration for the year 2025 have commenced.
+
+Commissioner-General of Elections Saman Sri Ratnayake noted that 47 political parties have been selected for preliminary interviews.
+
+Applications for registering political parties for this year were called in February, during which a total of 83 applications were submitted.
+
+Out of these 83 applications, 36 were rejected due to failure to meet the basic requirements, according to Commissioner-General Ratnayake.
+
+Accordingly, preliminary interviews are currently being conducted for the remaining 47 applications.
+
+Political parties selected from these initial interviews will be invited to a second round of interviews.
+
+Following the second round, those parties that qualify will be officially registered as new political parties for the year 2025, the Election Commission confirmed.
+
+At present, there are 86 recognized political parties in Sri Lanka.
+
+◼️
+
+[Data](articles/6dcd2c03.json)
+
+---
+
+### නව දේශපාලන පක්ෂ ලියාපදිංචියට සම්මුඛ පරීක්ෂණ ඇරඹෙයි
+
+*2025-08-19 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213535) · `si`
+
+2025 වර්ෂය සඳහා ලියාපදිංචි කිරීමට ඉල්ලීම් කර ඇති නව දේශපාලන පක්ෂවල සම්මුඛ පරීක්ෂණ මේ වන විට ආරම්භ කර ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එහි කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේ, දේශපාලන පක්ෂ 47ක් මූලික සම්මුඛ පරීක්ෂණ සඳහා තෝරාගෙන ඇති බවය.
+
+මේ වසර සඳහා දේශපාලන පක්ෂ ලියාපදිංචි කිරීමට පසුගිය පෙබරවාරි මාසයේ ඉල්ලුම්පත් කැඳවීම සිදුකළ අතර එහිදී ඉල්ලුම්පත් 83ක් ඉදිරිපත්වී තිබුණි.
+
+එම ඉල්ලුම්පත් 83 අතුරින් ඉල්ලුම්පත් 36ක් මූලික කරුණු පවා සපුරා නොතිබීම හේතුවෙන් ප්‍රතික්ෂේප කළ බව මැතිවරණ ‍කොමසාරිස් ජනාරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේය.
+
+ඒ අනුව ඉල්ලුම්පත් 47ක් සම්බන්ධයෙන් මූලික සම්මුඛ පරීක්ෂණ කටයුතු මේ දිනවල සිදුවන අතර එම සම්මුඛ පරීක්ෂණවලින් තෝරාගන්නා පක්ෂ සඳහා දෙවන වටයේ සම්මුඛ පරීක්ෂණවලට යොමුකිරීමට නියමිතය.
+
+එම සම්මුඛ පරීක්ෂණවලින් අනතුරුව තෝරා ගන්නා පක්ෂ 2025 වර්ෂය සඳහා නව දේශපාලන පක්ෂ ලෙස ලියාපදිංචි කිරීම සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/93bf14e4.json)
+
+---
+
+### Money printing will not lead to increase in inflation – Dy Minister
+
+*2025-08-19 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111623/money-printing-will-not-lead-to-increase-in-inflation-dy-minister) · `en`
+
+Deputy Minister of Transport, Dr. Prasanna Gunasena claims that money printing will not lead to an increase in inflation in the country.
+
+He also emphasized that the incumbent government has taken effective measures to stabilize the economy and control inflation.
+
+Dr. Gunasena made these remarks while addressing media following the re-launch of buses imported in 2014, which had been out of service and were reintroduced with newly installed engines.
+
+The Deputy Minister stated, “Currency notes printing is carried out according to the economic needs of the country. It happens every year. We must look at the overall economic indicators. Compared to the last six months, we have reduced the income–expenditure gap by more than 33%. In the first half of last year, state revenue stood at Rs. 1.8 trillion, whereas this year it has increased to Rs. 2.3 trillion—an increase of 24.7%. Meanwhile, expenditure has been reduced. Therefore, the economy is stable, and there is no need for doubt.”
+
+...
+
+[Data](articles/d21df9fb.json)
+
+---
+
+### Man injured in shooting incident reported in Peliyagoda
+
+*2025-08-19 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111621/man-injured-in-shooting-incident-reported-in-peliyagoda) · `en`
+
+A shooting incident was reported along the Gnanarathana Mawatha in Peliyagoda, this morning (19), police said.
+
+The suspects, who arrived on a motorcycle, opened fire, injuring a trader in the Peliyagoda fish market.
+
+◼️
+
+[Data](articles/0340426c.json)
+
+---
 
 ### පෑලියගොඩ වෙඩිතැබීමක්
 
@@ -43,6 +123,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/60274b39.json)
+
+---
+
+### இந்தியாவுக்கு சுற்றுலா செல்லும் முதல் 10  வெளிநாட்டவர்களின்  பட்டியலில் இலங்கை
+
+*2025-08-19 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222838) · `ta`
+
+கடந்த ஐந்து ஆண்டுகளில் இந்தியாவிற்கு அதிகளவான வெளிநாட்டு சுற்றுலாப் பயணிகள் சென்ற முதல் 10 நாடுகளில் இலங்கை, அமெரிக்கா, பங்களாதேஷ், பிரித்தானியா, அவுஸ்திரேலியா மற்றும் கனடா ஆகியவை அடங்கும் என இந்திய அரசாங்கத்தின் தரவுகள் தெரிவிக்கின்றன.
+
+மக்களவையில் சுற்றுலாப் பயணிகளின் வருகை தொடர்பான கேள்விகளுக்கு எழுத்துப்பூர்வமாக பதிலளித்த இந்திய கலாச்சார அமைச்சர் கஜேந்திர சிங் ஷெகாவத், இந்தத் தரவைப் பகிர்ந்து கொண்டதாக பிரஸ் டிரஸ்ட் ஆஃப் இந்தியா செய்தி வெளியிட்டுள்ளது.
+
+அரசாங்கத் தரவுகளின்படி, 2024 ஆம் ஆண்டு இந்தியாவுக்கு 9.95 மில்லியன் வெளிநாட்டு சுற்றுலாப் பயணிகள் வருகை தந்துள்ளன.
+
+கடந்த ஐந்து ஆண்டுகளில் நாட்டில் பதிவு செய்யப்பட்ட வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை மற்றும் கொவிட் தொற்றுநோய்க்குப் பின்னர் இந்தியாவின் சுற்றுலாத் துறை குறிப்பிடத்தக்க மீட்சியைக் கண்டதா, சர்வதேச சுற்றுலாப் பயணிகளின் வருகை தொற்றுநோய்க்கு முந்தைய நிலைகளை விட அதிகமாக உள்ளதா என்பது தொடர்பான விவரங்கள் அமைச்சரிடம் கேட்கப்பட்டன.
+
+...
+
+[Data](articles/4f3cdd99.json)
+
+---
+
+### Speaker says decision on no-confidence motion against Deputy Defence Minister will be announced later
+
+*2025-08-19 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111620/speaker-says-decision-on-no-confidence-motion-against-deputy-defence-minister-will-be-announced-later) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne today (19) confirmed in Parliament that he has received a motion of no confidence against Deputy Minister of Defence Major General Aruna Jayasekara (Retd), which is signed by 31 opposition Members of Parliament.
+
+The Speaker informed the house that he will announce his decision in due course regarding the motion submitted by the opposition.
+
+Parliament proceedings commenced at 9:30 a.m. today, during which the Speaker stated that the no-confidence motion was submitted to him on August 12, bearing the signatures of 31 opposition MPs including Leader of the Opposition Sajith Premadasa.
+
+Accordingly, Speaker Dr. Jagath Wickramaratne said he will study the contents of the said no-confidence motion and inform the house in due course about the actions to be taken in this regard.
+
+◼️
+
+[Data](articles/c64ada5d.json)
 
 ---
 
@@ -205,6 +321,26 @@ According to the UN World Tourism Organization, International Tourist Arrivals (
 ...
 
 [Data](articles/b1dca806.json)
+
+---
+
+### Three injured in head-on collision between bus and defender in Hingurakgoda
+
+*2025-08-19 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111614/three-injured-in-head-on-collision-between-bus-and-defender-in-hingurakgoda) · `en`
+
+At least three individuals have been hospitalized after a private passenger bus and a Sri Lanka Air Force (SLAF) Defender vehicle collided along the Hingurakgoda–Medirigiriya main road this morning (19), police stated.
+
+The incident took place at around 7:30 a.m. in Kimbulawala along the Hingurakgoda–Medirigiriya main road.
+
+At the time, the bus was traveling from Wadigawewa, Medirigiriya towards Hingurakgoda, while the defender was traveling in the opposite direction.
+
+According to Ada Derana correspondent, three Air Force personnel traveling in the defender sustained minor injuries in the accident.
+
+The cause of the accident has not yet been determined, and further investigations are being conducted by the Hingurakgoda Police.
+
+◼️
+
+[Data](articles/1c91a441.json)
 
 ---
 
@@ -1749,125 +1885,5 @@ The firearms that were found from Thunadahena, Korathota, have been handed over 
 ◼️
 
 [Data](articles/c2b1353f.json)
-
----
-
-### Ex-State Minister Prasanna Ranaweera further remanded
-
-*2025-08-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111579/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
-
-Former State Minister Prasanna Ranaweera, who was arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, has been further remanded.
-
-Ranaweera was remanded until August 25 when he was produced before the Mahara Magistrate’s Court, Ada Derana reporter said.
-
-Ranaweera and four others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
-
-◼️
-
-[Data](articles/8605ba75.json)
-
----
-
-### Air Canada සේවක වර්ජනය අඛණ්ඩව
-
-*2025-08-18 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213498) · `si`
-
-පසුගිය සතියේදී තමන් ආරම්භ කළ වැඩ වර්ජන ක්‍රියාමාර්ගය තවදුරටත් අඛණ්ඩව ක්‍රියාත්මක කිරීමට එයාර් කැනඩා ගුවන් සේවක සේවිකාවන් තීරණය කර තිබේ.
-
-ඔවුන් මෙලෙස වෘත්තීමය ක්‍රියාමාර්ගවලට එළඹී ඇත්තේ එම ගුවන් සේවාව හඳුන්වාදුන් නව රැකියා කොන්ත්‍රාත් ක්‍රමයකට විරෝධය පළකරමිනි.
-
-දින කිහිපයක් පැවති මේ වැඩවර්ජනයට ගුවන් සේවක සේවිකාවන් 10,000කට වැඩි පිරිසක් එක්ව සිටි අතර, ඒ හේතුවෙන් ගුවන් ගමන් වාර සිය ගණනක් අවලංගු වීමෙන් මගීන් 130,000 ඉක්මවූ පිරිසක් අපහසුතාවට පත්ව තිබුණි.
-
-එම ගුවන් සේවයේ ගුවන් සේවකයින් මෙලෙස වෘත්තීමය ක්‍රියාමාර්ගයක් සඳහා එලඹ ඇත්තේ 1985 වසරින් පසු පළමුවරට ය.
-
-◼️
-
-[Data](articles/f24de85b.json)
-
----
-
-### Trump blocks Ukraine from joining NATO, orders Crimea to Russia ahead of talks with Zelensky
-
-*2025-08-18 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111578/trump-blocks-ukraine-from-joining-nato-orders-crimea-to-russia-ahead-of-talks-with-zelensky) · `en`
-
-US President Donald Trump said reclaiming Crimea or entering NATO were off the table for Ukraine, as President Volodymyr Zelensky arrived in Washington for Monday talks aimed at ending the war with Russia.
-
-Zelensky, who has repeatedly rejected territorial concessions, will meet Trump in Washington on Monday, accompanied by European Commission chief Ursula von der Leyen and other leaders.
-
-The meeting comes on the heels of a summit between Trump and Russia’s Vladimir Putin in Alaska on Friday, which failed to yield a ceasefire breakthrough but produced promises from both leaders to provide “robust security guarantees” to Ukraine.
-
-Zelensky was not invited to the Alaska meeting, after which Trump pivoted to the long-held Russian position that a ceasefire was not needed before a final peace deal.
-
-“President Zelenskyy of Ukraine can end the war with Russia almost immediately, if he wants to, or he can continue to fight,” Trump posted on his social media platform.
-
-...
-
-[Data](articles/437d596f.json)
-
----
-
-### Chief Incumbent of Mihintale Rajamaha Viharaya at CID to lodge complaints
-
-*2025-08-18 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111577/chief-incumbent-of-mihintale-rajamaha-viharaya-at-cid-to-lodge-complaints-) · `en`
-
-The Chief Incumbent of the Mihintale Rajamaha Viharaya, Ven. Dr. Walawahengunawe Dhammarathana Thero, arrived at the Criminal Investigation Department (CID) a short while ago (18).
-
-This according to Ada Derana reporter is to lodge two complaints with the CID.
-
-◼️
-
-[Data](articles/7873e564.json)
-
----
-
-### මිහින්තලේ හිමි CIDයට
-
-*2025-08-18 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213497) · `si`
-
-මිහින්තලා රාජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවාහැංගුණවැවේ ධම්මරතතන හිමියන් අද (18) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
-
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිලි දෙකක් ඉදිරිපත් කිරීම සඳහායි.
-
-◼️
-
-[Data](articles/efffa73a.json)
-
----
-
-### Govt institutions, schools in North functioning as usual despite ‘hartal’ called by ITAK
-
-*2025-08-18 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111576/govt-institutions-schools-in-north-functioning-as-usual-despite-hartal-called-by-itak) · `en`
-
-A ‘hartal’ called in the Northern and Eastern Provinces, demanding justice for the recent death of a 32-year-old man in Mullaitivu and based on several other demands, has reportedly been unsuccessful.
-
-Although several political groups, including the Ilankai Tamil Arasu Kachchi (ITAK), had called for the hartal, our correspondent reported that government institutions and schools in the Northern Province were functioning as usual.
-
-While some trade associations had expressed support for the hartal, a number of other trade associations issued statements saying they would not support it.
-
-Meanwhile, in certain areas of the Batticaloa District today (18), many business establishments, public markets, private institutions, and other places were reportedly closed.
-
-Although this caused some disruption to daily life, transportation services were reported to be operating as normal.
-
-...
-
-[Data](articles/27ffda58.json)
-
----
-
-### Okkampitiya OIC’s bail application rejected
-
-*2025-08-18 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111575/okkampitiya-oics-bail-application-rejected) · `en`
-
-The Colombo Magistrate’s Court has rejected the bail application filed by the Officer-in-Charge (OIC) of the Okkampitiya Police, who was arrested in connection with soliciting a bribe of Rs. 40,000 from a businessman.
-
-The complaint was heard today before Colombo Chief Magistrate Thanuja Lakmali, and the attorney representing the suspect stated that his client’s daughter is sitting for the 2025 GCE Advanced Level (A/L) examination and therefore requested that the suspect be released on bail as a special consideration.
-
-Meanwhile, the officials from the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) opposed the bail request, stating that investigations into the suspect are ongoing.
-
-After considering the facts presented by both parties, the Colombo Chief Magistrate rejected the bail application and ordered that he be further remanded until August 25.
-
-◼️
-
-[Data](articles/32159d0b.json)
 
 ---

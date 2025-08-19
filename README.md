@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 16:33:22**
+As of **2025-08-19 16:48:46**
 
 ## Newspaper Stats
 
-*Scraped **71,207** Articles*
+*Scraped **71,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ dailyftlk | 4,998
 adalk | 6,854
 adaderanalk | 8,958
 tamilmirrorlk | 10,463
-virakesarilk | 11,796
+virakesarilk | 11,798
 adaderanasinhalalk | 12,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,207 articles have been extended.
+61,973 (87.0%) of 71,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### மன்னார் மறைமாவட்ட ஆயர் ஞானப்பிரகாசம் ஆண்டகைக்கும், ஜனாதிபதிக்கும் இடையில் சந்திப்பு - பேசிய விடையம் என்ன?
+
+*2025-08-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/222892) · `ta`
+
+மன்னார் மறைமாவட்ட ஆயர் மேதகு அந்தோனிப்பிள்ளை . ஞானப்பிரகாசம் ஆண்டகைக்கும்,   இலங்கை ஜனாதிபதிக்கும் இடையில் இடையில் நேற்று திங்கட்கிழமை (18) மாலை இடம்பெற்ற விசேட சந்திப்பு குறித்து மன்னார் மறைமாவட்ட குருமுதல்வர் அருட்திரு. தமிழ் நேசன் அடிகளார் ஊடகங்களுக்கு கருத்து தெரிவித்துள்ளார்.
+
+நேற்று திங்கள் கிழமை மன்னார் ஆயர் மேதகு அந்தோனிப்பிள்ளை ஞானப்பிரகாசம் ஆண்டகைக்கும் இலங்கை ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இடையிலான சந்திப்பு இடம்பெற்றது.
+
+கொழும்பில் உள்ள ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற இச்சந்திப்பின்போது மன்னார் மக்கள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பாக மன்னார் ஆயர் அவர்கள் ஜனாதிபதியுடன் கலந்துரையாடினார்.
+
+மன்னாரில் முன்னெடுக்கப்படவுள்ள கனிய மணல் அகழ்வு தொடர்பான பிரச்சினை, மின்சக்தியை பெறுவதற்காக மன்னாரில் காற்றாலை அமைக்கும் செயற்பாடுகளால் எழுந்துள்ள பாரிய பாதிப்புக்கள், வடக்கு மாகாண அரசாங்கத்தின் கீழ் உள்ள மன்னார் பொது வைத்தியசாலையை மத்திய அரசாங்கத்தின் கீழ் கொண்டு வர வேண்டியதன் அவசியம் போன்ற விடயங்கள் இச்சந்திப்பின்போது கலந்துரையாடப்பட்டன.
+
+...
+
+[Data](articles/2aa7e40d.json)
+
+---
+
+### இலங்கை வந்தார் அவுஸ்திரேலிய இளம் விமானி
+
+*2025-08-19 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222889) · `ta`
+
+உலகை சுற்றிவரும் இளைய துணை விமானியாக வரலாற்று சாதனை படைக்கும் முயற்சியில் ஈடுப்படும் அவுஸ்திரேலியாவின் பிரிஸ்பேனைச் சேர்ந்த 15 வயதுடைய பைரல் வொல்லர் (Byron Waller) இலங்கை வந்துள்ளார்.
+
+சனிக்கிழமை (17) கொழும்பு, இரத்மலானை விமான நிலையத்தை (CIAR) வந்தடைந்த அவரை விமான நிலைய அதிகாரிகள் வரவேற்றனர்.
+
+இந்தியப் பெருங்கடலில் 11 மணி நேர விமானப் பயணத்திற்குப் பின்னர் நேற்று முன்தினம் பைரன் வாலர் விமான நிலையத்தை வந்தடைந்துள்ளார்.
+
+பைரன் 45,000 கிலோ மீட்டர்கள், 7 கண்டங்களிலும் 30 நாடுகளை சுற்றிவர சுமார் 2 மாதங்கள் எடுக்கும் ஒரு பயணத்தை மேற்கொள்வதாக தெரியவருகின்றது.
+
+◼️
+
+[Data](articles/556c27fa.json)
+
+---
 
 ### வலையில் சிக்கிய சிறுத்தை குட்டி ; பாதுகாப்பாக மீட்க நடவடிக்கை
 
@@ -1823,41 +1859,5 @@ MEA spokesperson Randhir Jaiswal announced Wang’s arrival on X, writing: ‘We
 ...
 
 [Data](articles/afac4dc3.json)
-
----
-
-### கொரியத் தூதுவர் ஜனாதிபதி செயலாளரை சந்திப்பு - இலங்கையுடன் நெருங்கிய உறவுகளுக்கு புதிய கொரிய ஆட்சி தயாராக உள்ளது என மியோன் லீ தெரிவித்தார்
-
-*2025-08-18 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222826) · `ta`
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவிற்கும் இலங்கைக்கான கொரியத் தூதுவர் மியோன் லீ (Miyon LEE) அவர்களுக்கும் இடையிலான சந்திப்பு திங்கட்கிழமை (18) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
-
-கொரியாவின் புதிய ஆட்சியின் கீழ் இலங்கை அரசாங்கத்தின் முன்னுரிமைகளை அடையாளம் கண்டு  நெருக்கமாக செயற்பட கொரியா தயாராக உள்ளதாக இலங்கைக்கான கொரியத் தூதுவர் மியோன் லீ ( Miyon LEE)  தெரிவித்தார்.
-
-இலங்கை அரசாங்கத்தின் முன்னுரிமைகளின் அடிப்படையில் தொடர்ந்து ஆதரவை வழங்க கொரிய அரசாங்கம் தயாராக உள்ளது என்றும் தூதுவர் வலியுறுத்தினார்.
-
-கொரிய சர்வதேச ஒத்துழைப்பு நிறுவனத்தின் (KOICA) புதிய பிரதிநிதிகள்  இங்கு ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவை சந்தித்ததுடன்,  இலங்கையில் முன்னெடுக்கப்படும் KOICA திட்டங்களை விரைவாக முடிப்பது குறித்தும் இதன்போது கலந்துரையாடப்பட்டது.
-
-...
-
-[Data](articles/7f43628b.json)
-
----
-
-### Strike will continue until demands are met – Postal Trade Unions
-
-*2025-08-18 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111602/strike-will-continue-until-demands-are-met-postal-trade-unions) · `en`
-
-Postal trade unions have declared that they will continue their strike until all their demands are fulfilled.
-
-The unions began the strike last afternoon (17), citing 19 unresolved demands, and have claimed that no discussions have yet been initiated by authorities regarding their issues.
-
-Due to the strike, postal operations across the island have been severely affected, with services in many post offices coming to a standstill.
-
-Chinthaka Bandara, the co- convener of the United Postal Trade Union Front stated that they are prepared to continue the strike action until satisfactory solutions are provided.
-
-◼️
-
-[Data](articles/de7f06b0.json)
 
 ---

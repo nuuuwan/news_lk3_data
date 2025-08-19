@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 18:57:03**
+As of **2025-08-19 19:14:11**
 
 ## Newspaper Stats
 
-*Scraped **71,225** Articles*
+*Scraped **71,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,962
+adaderanalk | 8,963
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
 adaderanasinhalalk | 12,309
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,309
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,225 articles have been extended.
+61,973 (87.0%) of 71,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4becb1ad.json)
+
+---
+
+### Gambling Regulatory Authority Bill passed with amendments
+
+*2025-08-19 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111647/gambling-regulatory-authority-bill-passed-with-amendments) · `en`
+
+The Gambling Regulatory Authority Bill was passed in Parliament with amendments a short while ago.
+
+The Second Reading Debate of the Gambling Regulatory Authority Bill took place in Parliament today (19).
+
+The draft bill to establish a Gambling Regulatory Authority was gazetted under the directives of President Anura Kumara Dissanayake, in his capacity as the Minister of Finance, Planning and Economic Development, in May.
+
+The Bill has been drafted to grant provisions for the establishment of the Gambling Regulatory Authority, to repeal the Horse Racing Betting Ordinance, the Gambling Ordinance, and the Casino Ordinance, and to make provisions for related matters.
+
+Once endorsed by the Speaker of Parliament, the draft bill will come into effect as the Gambling Regulatory Authority Act.
+
+...
+
+[Data](articles/9630fe90.json)
 
 ---
 
@@ -1867,19 +1887,5 @@ Soon after, prominent Tamil party Ilankai Tamil Arasu Kadchi (ITAK) called for a
 ...
 
 [Data](articles/4ae8b76f.json)
-
----
-
-### “If Israel gets away with this genocide, that fact will convey a sense of impunity to powerful nations, placing smaller, weaker countries, countries without super-power patrons in danger.”
-
-*2025-08-19 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86280) · `en`
-
-“The question’s what happened to Israeli people. How they allowed themselves to be so debased. How they become so inured to pain and suffering. How they have become oblivious to their own horrific past. And these images which remind you of their own horrific past… for Israeli people to let this happen in this name is despicable… The shame of this for Israel, the shame… What are we living in?”
-
-On 15 July 2025, a group of Jewish Israeli teens gathered in Tel Aviv to burn their draft papers. Israel has a conscript army and every Israeli Jewish citizen over 18 years has to undergo fixed-term military service and remain as reservists until the age of 40. The teens burning their draft papers face imprisonment, but for them the alternative is infinitely worse. As one of them said, “There is a genocide. You don’t enlist into an army that is committing genocide” (https://www.youtube.com/shorts/9zzbb_Ac-W8).
-
-...
-
-[Data](articles/736077ef.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 08:04:29**
+As of **2025-08-19 08:44:05**
 
 ## Newspaper Stats
 
-*Scraped **71,135** Articles*
+*Scraped **71,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,69 @@ newsfirstlk | 363
 dbsjeyarajcom | 604
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,342
+economynextcom | 4,343
 islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,928
+adaderanalk | 8,931
 tamilmirrorlk | 10,463
 virakesarilk | 11,789
-adaderanasinhalalk | 12,281
+adaderanasinhalalk | 12,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,135 articles have been extended.
+61,973 (87.1%) of 71,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### ආරක්ෂක නියෝජ්‍ය ඇමතිට එරෙහි විශ්වාසභංග යෝජනාව ගැන කථානායකගේ තීරණය අද
+
+*2025-08-19 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213527) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ කථානායකවරයාගේ මතය අද (19) ප්‍රකාශ කිරීමට නියමිතව තිබේ.
+
+පාර්ලිමේන්තුව කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරු 09.30ට රැස්වීමට නියමිතය.
+
+එහිදී කථානායකවරයා විසින් විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳව සිය මතය ඉදිරිපත් කරනු ඇති බව වාර්තා වේ.
+
+අදාළ විශ්වාසභංග යෝජනාව නීත්‍යානුකූලව ඉදිරිත් කර නොමැති බවට මේ වන විට විවිධ පාර්ශව කරුණු දක්වමින් සිටී.
+
+ඒ අනුව අදාළ විශ්වාසභංග යෝජනාව පාර්ලිමේන්තු න්‍යාය පුස්තකයට ඇතුළත් කිරීමට නොහැකි බවට කථානායකවරයා විසින් ප්‍රකාශයක් සිදුකරනු ඇති බව රජයේ ආරංචි මාර්ග සඳහන් කළේය.
+
+කෙසේවෙතත් විපක්ෂය විසින් ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයාට එරෙහිව ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව සම්බන්ධයෙන් කථානායකවරයාට හිතුවක්කාරි ලෙස කටයුතු කිරීමට නොහැකි බව සමගි ජන බලවේගය පවසයි.
+
+...
+
+[Data](articles/6f03d39f.json)
+
+---
+
+### US State Department revokes 6,000 student visas
+
+*2025-08-19 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111612/us-state-department-revokes-6000-student-visas) · `en`
+
+The State Department has revoked more than 6,000 international student visas because of violations of US law and overstays, the department told the BBC.
+
+The agency said the “vast majority” of the violations were assault, driving under the influence (DUI), burglary and “support for terrorism”.
+
+The move comes as the Trump administration continues its crackdown on immigration and international students.
+
+While the State Department did not specify what they meant by “support for terrorism”, the Trump administration has targeted some students who have protested in support of Palestine, arguing they had expressed antisemitic behaviour.
+
+Of the 6,000 student visas that were revoked, the State Department said about 4,000 of those were revoked because visitors broke the law.
+
+Another 200-300 visas were also revoked for “terrorism done under INA 3B”, the State Department said, referring to code that defines “terrorist activity” broadly as acts that endanger human life or violate US law.
+
+...
+
+[Data](articles/f0336fe8.json)
+
+---
 
 ### சந்திப்பு "மிகவும் சிறந்தது" : புட்டினுக்கும் ஜெலென்ஸ்கிக்கும் இடையிலான சந்திப்பை ஏற்பாடு செய்யவுள்ளதாக டிரம்ப் தெரிவிப்பு !
 
@@ -52,6 +96,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Postal strike continues today – Unions seek President’s intervention
+
+*2025-08-19 07:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111611/postal-strike-continues-today-unions-seek-presidents-intervention-) · `en`
+
+The United Postal Trade Union Front states that the island-wide strike launched by postal workers will continue today (19) as well.
+
+Chinthaka Bandara, the co-convener of the Front said that the strike, which began on August 17 based on 19 demands, is progressing successfully.
+
+He added that the strike will continue until proper solutions are provided for their demands, and that arrangements are being made to hand over a memo to the President today regarding their grievances.
+
+However, Postmaster General Ruwan Sathkumara commenting on the strike claimed that most of the demands made by the postal workers have already been addressed.
+
+He further said that postal unions are being requested to call off the strike and resolve the issues through discussions.
+
+Meanwhile, a group of teachers is engaged in a protest opposite the Presidential Secretariat.
+
+...
+
+[Data](articles/5570f697.json)
+
+---
+
 ### තුසිත හල්ලොලුව අත්අඩංගුවට
 
 *2025-08-19 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213526) · `si`
@@ -69,6 +135,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/448abb1e.json)
+
+---
+
+### Former NLB Director Thusitha Halloluwa arrested
+
+*2025-08-19 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111610/former-nlb-director-thusitha-halloluwa-arrested) · `en`
+
+Thusitha Halloluwa, the Former Director of the National Lotteries Board (NLB), who was evading court, has been arrested early this morning (19), Police stated.
+
+The Colombo Magistrate’s Court yesterday (18), issued a warrant for the arrest of Thusitha Halloluwa.
+
+Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by the Colombo Crimes Division (CCD).
+
+The CCD is currently investigating the recent shooting incident involving the vehicle of Halloluwa in Narahenpita.
+
+Accordingly, the warrant was issued following a request made by police in connection with the ongoing inquiry.
+
+◼️
+
+[Data](articles/964bdbc5.json)
 
 ---
 
@@ -98,11 +184,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-19 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111609/second-reading-of-gambling-regulatory-authority-bill-in-parliament-today) · `en`
 
-The second reading of the Gambling Regulatory Authority Bill is scheduled to take place in Parliament today.
+The Second Reading of the Gambling Regulatory Authority Bill is scheduled to take place in Parliament today (19).
 
-Meanwhile, Parliament is scheduled to convene at 9:30 a.m. today.
+The draft bill to establish a Gambling Regulatory Authority was gazetted under the directives of President Anura Kumara Dissanayake, in his capacity as the Minister of Finance, Planning and Economic Development in May.
 
-◼️
+The Bill has been drafted to grant provisions for the establishment of the Gambling Regulatory Authority, to repeal the Horse Racing Betting Ordinance, the Gambling Ordinance, and the Casino Ordinance, and to make provisions for related matters.
+
+Once passed in Parliament, the draft bill will come into effect as the Gambling Regulatory Authority Act.
+
+...
 
 [Data](articles/8337acaa.json)
 
@@ -190,11 +280,9 @@ Putin told Trump that he was ready to meet Zelensky, a source familiar with talk
 
 *2025-08-19 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111606/few-showers-expected-in-parts-of-the-island-today) · `en`
 
-A few showers will occur in the Western and Sabaragamuwa provinces and in Kandy, NuwaraEliya, Galle and Matara districts.
+A few showers will occur in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara Eliya, Galle and Matara districts today (19), the Department of Meteorology said.
 
-Mainly fair weather will prevail over elsewhere of the island.
-
-Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts, the Met. Department added.
 
 ◼️
 
@@ -629,6 +717,24 @@ In a press conference, Sanchez said “the next hours and days are critical” a
 ...
 
 [Data](articles/e0a30c72.json)
+
+---
+
+### Sri Lanka’s MetroCorp raises stake in NDB
+
+*2025-08-18 18:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-metrocorp-raises-stake-in-ndb-237180/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s MetroCorp, which has interests in office automation, renewable energy, leisure and infrastructure, has raised its stake in National Development Bank to 4.7 percent, with a 2.58 percent purchase of the lender’s voting stock last week.
+
+MetroCorp, chaired by Dinesh Ambani is also has a 9.2 percent stake in Hatton National Bank non-voting shares.
+
+Last week  Softlogic Life Insurance Funds sold 31.7 million shares of NDB last week for 4.4 billion rupees, which was bought by MetroCorp and high networth investor Indra Silva, sources familiar with the deal said.
+
+Indra Silva, already holds a 9.98 percent stake in Commercial Bank , and 9.98 percnent in Sampath Bank and 2.69 pecent of Hatton National Bank. (Colombo/Aug18/2025)
+
+◼️
+
+[Data](articles/435d473c.json)
 
 ---
 
@@ -1793,91 +1899,5 @@ The derailment involved train No. 8327, which was operating on the Galle–Marad
 ◼️
 
 [Data](articles/2d1e8a26.json)
-
----
-
-### දුම්රියක් පීලි පනී
-
-*2025-08-18 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213492) · `si`
-
-කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථාන අතර දුම්රියක් පීලිපැනීමට ලක්ව තිබේ.
-
-ඒ හේතුවෙන් ප්‍රධාන මාර්ගයේ සහ මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාද වී ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පැවසුවේය.
-
-ගාල්ල සිට මරදාන බලා ධාවනය වු අංක 8327 යන දුම්රිය මෙලෙස පීලි පැනීමට ලක්ව තිබේ.
-
-◼️
-
-[Data](articles/b51c0a5d.json)
-
----
-
-### ‘Hartal’ launched in North and East
-
-*2025-08-18 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111566/hartal-launched-in-north-and-east) · `en`
-
-A ‘hartal’ is currently underway in the North and East, according to the Ilankai Tamil Arasu Kachchi (ITAK).
-
-The ‘hartal’ has been called in response to the recent death of a 32-year-old man in Mullaitivu and the alleged actions of the military in the region.
-
-A group of individuals who had entered a military camp in Oddusuddan, Mullaitivu were allegedly assaulted by three members of the army. The situation escalated when one of the young men, who had reportedly entered the camp, was later found dead in a nearby lake. Several military personnel are accused of involvement in the incident.
-
-Police stated that two special investigation teams have been assigned in connection with the incident, and that three members of the army have been arrested and remanded in custody.
-
-Meanwhile, ITAK MP Shanakiyan Rasamanickam said that the ‘hartal’ campaign is being organized in the Northern and Eastern provinces to protest against the death of the 32-year-old man in Mullaitivu.
-
-...
-
-[Data](articles/994da4d3.json)
-
----
-
-### எம்.பிக்களின் ஓய்வூதிய இரத்து விவகாரம் எதிர்ப்பை  சம்பாதிப்பாரா அநுர...!
-
-*2025-08-18 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/222772) · `ta`
-
-பாராளுமன்ற அரசியலை விட்டு விலகியிருந்தாலும் முன்னாள் எம்.பிக்களில் பலரும்  சொகுசு வாகனங்களில் வலம் வருபவர்களாகவும் செல்வத்தில் மிதப்பவர்களாகவும் உள்ளனர். எனவே மாதாந்தம் 68 ஆயிரம் வரையான ஓய்வூதியம் கிடைக்காவிட்டால் உயிரை மாய்த்துக்கொள்வோம் என இவர்கள் எக்காலத்திலும் கூற மாட்டார்கள். பாராளுமன்றத்தின் ஐந்து வருடங்களை பூர்த்தி செய்தவர்கள் ஓய்வூதியம் பெறும் அதே வேளை ,  ஒரு சில அமர்வுகளுக்கு மாத்திரம் தலை காட்டி சென்றவர்கள்  , வாயே திறக்காமல் சபையில் அமர்ந்திருந்தவர்களுக்கெல்லாம்  மூன்று கோடிக்கு மேல் மதிப்புள்ள சொகுசு வாகனங்களை வாங்குவதற்கு தீர்வையில்லாத அனுமதி பத்திரங்கள் வழங்கப்பட்டன என்பது முக்கிய விடயம். இதனால் நாட்டுக்கு ஏற்பட்ட நட்டம் பில்லியன்களை தாண்டும்.  ஆனால் முன்னாள் எம்.பிக்கள் சிலர் ஓய்வூதிய இரத்துக்கு மெளனம் காத்தாலும் தற்போது அநுர அரசுக்கு எதிராக செயற்படும் மகிந்த உள்ளிட்ட விமல் ,. உதய கம்மன்பில ஆகியோர்  இந்த திட்டத்தை எதிர்த்து கருத்துத் தெரிவித்து வரும் அதே வேளை தமது ஆதரவாளர்களையும் இதற்கு எதிராக தூண்டி விட்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/84760f4c.json)
-
----
-
-### මාළු ඇල්ලීමට ගිය පුද්ගලයා වැවේ ගිලී මරුට
-
-*2025-08-18 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213491) · `si`
-
-සෙවනගල ප්‍රදේශයේ හබුරුගල බෝධිරාජ වැවේ ගිලී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 42 ක් වූ මහගම ජනපදය, සෙවනගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-අදාළ පුද්ගලයා තවත් පුද්ගලයෙකු සමඟ වැවේ මසුන් අල්ලමින් සිටියදී වළකට වැටී දියේ ගිලී මියගොස් ඇති බව සිදු කළ විමර්ශනයේදී අනාවරණය වී ඇත.
-
-මෘත ශරීරය ඇඹිලිපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් සෙවනගල පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/b2f599ad.json)
-
----
-
-### ලබන වසරේ පළමු මාස 6 තුළ පළාත් සභා මැතිවරණය පැවැත්වීමට ආණ්ඩුවෙන් සැලසුම්
-
-*2025-08-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213490) · `si`
-
-පළාත් සභා මැතිවරණය පැවැත්වීමෙන් අනතුරුව ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනයක් සිදුකරන බව අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
-
-ඔහු සදහන් කළේ, පවතින නීතිමය ගැටලු නිරාකරණය කර ගැනීමෙන් අනතුරුව ලබන වර්ෂයේ පළමු මාස 6 ඇතුළත පළාත් සභා මැතිවරණය පැවැත්වීමට කටයුතු කරන බවය.
-
-කිළිනොච්චිය ප්‍රදේශයේ ඊයේ (17) පැවති මාධ්‍ය හමුවකට එක්වෙමින් බිමල් රත්නායක අමාත්‍යවරයා මේ බව සඳහන් කළේය.
-
-"2025 වසරේ අපි ඡන්ද පැවැත්වුවා. 2024 දීත් අපි නොවැම්බර් මාසයේ ඡන්දයක් පැවැත්වුවා. අපි බලාපොරොත්තු වෙනවා පළාත් සභා මැතිවරණය ලබන වසරේ මුල් මාස 6 තුළ කරන්න තමා මුලික අදහස තියෙන්නේ. නීතිමය වශයෙන් බාධාවක් තියෙනවා. ඒවා ඉවත් කරගන්න බලනවා.
-
-ආණ්ඩුක්‍රම ව්‍යවස්ථා ගෙන ඒම ගැන අපේ ප්‍රතිපත්තිමය තීරණයක් තියෙනවා. ආණ්ඩුක්‍රම ව්‍යවස්ථාව ගෙන ඒම කියන්නේ පුළුල් ක්‍රියාවලියක්. ඊට පෙර පළාත් සභා මැතිවරණය පැවැත්වීමට අපේ ඉලක්කය. පළාත් සභා ඡන්දය පවත්වලා ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණ ගැන පුළුල් දේශපාලන වැඩපිළිවෙලක් ආරම්භ කරනවා."
-
-◼️
-
-[Data](articles/ed43e3b9.json)
 
 ---

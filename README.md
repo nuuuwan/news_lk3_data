@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 20:21:25**
+As of **2025-08-19 20:33:16**
 
 ## Newspaper Stats
 
-*Scraped **71,227** Articles*
+*Scraped **71,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,963
+adaderanalk | 8,964
 tamilmirrorlk | 10,463
 virakesarilk | 11,799
 adaderanasinhalalk | 12,309
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,309
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,227 articles have been extended.
+61,973 (87.0%) of 71,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### Details of UK’s liberalised trade rules for Sri Lankan garment sector released
+
+*2025-08-19 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111648/details-of-uks-liberalised-trade-rules-for-sri-lankan-garment-sector-released) · `en`
+
+Sri Lankan garment manufacturers will gain unprecedented access to UK markets under liberalised trade rules taking effect in early 2026, according to the British High Commission in Colombo.
+
+It said the reforms enable manufacturers to source up to 100% of garment inputs from any country worldwide while maintaining tariff-free access to the UK.
+
+Under the UK’s Developing Countries Trading Scheme (DCTS), Sri Lanka receives benefits as an ‘Enhanced Preference’ country. Current rules allow tariff-free access to Sri Lankan garments if inputs are sourced from the South Asian region along with restrictions around processing, the statement said.
+
+The liberalised rules will now offer Enhanced Preference countries (including Sri Lanka) the same product-specific rules for apparel (chapters 61 and 62) as lower-income countries covered by the scheme (such as Bangladesh) which have ‘Comprehensive Preferences’.
+
+...
+
+[Data](articles/2f73c115.json)
+
+---
 
 ### இந்தியா மற்றும் இலங்கை ஏற்றுமதி அமைப்புகளுக்கு இடையே புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
 
@@ -1871,21 +1889,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ...
 
 [Data](articles/b0f5357d.json)
-
----
-
-### 2 - 3 மாதங்களுக்குள் வாகன இலக்கத்தகடுகளை வழங்க எதிர்பார்ப்பு - மோட்டார் வாகன போக்குவரத்து திணைக்களம்
-
-*2025-08-19 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/222829) · `ta`
-
-நீண்டகாலமாக நிலுவையில் உள்ள வாகன தகடுகளை வழங்குவதற்காக அமைச்சரவையால் நியமிக்கப்பட்ட கொள்முதல் குழு முறையாக ஏலத்தை திறந்துள்ளதாக மோட்டார் வாகன போக்குவரத்துத் திணைக்கள ஆணையாளர் நாயகம் கமல் அமரசிங்க தெரிவித்தார்.
-
-இதற்கமைய இரண்டு முதல் மூன்று மாதங்களுக்குள் அதிகாரப்பூர்வமான சேதமாகாத இலக்க தகடுகளை வழங்குவதற்கு  எதிர்பார்த்துள்ளதாகவும் ஆணையாளர் நாயகம் குறிப்பிட்டுள்ளார்.
-
-இந்த குழு முன்வைக்கப்பட்ட விலைமனுக்களை மதிப்பாய்வு செய்து வருவதாகவும், போக்குவரத்து அமைச்சு விரைவில் சிறந்த விநியோகஸ்தரை அங்கீகரிக்கும்.இரண்டு முதல் மூன்று மாதங்களுக்குள் அதிகாரப்பூர்வமான சேதமாகாத இலக்க தகடுகளை வழங்குவதற்கு  மோட்டார் வாகன போக்குவரத்து திணைக்களம் எதிர்பார்க்கிறது.
-
-...
-
-[Data](articles/a09b334d.json)
 
 ---

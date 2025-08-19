@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 15:49:44**
+As of **2025-08-19 16:07:27**
 
 ## Newspaper Stats
 
-*Scraped **71,198** Articles*
+*Scraped **71,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,954
+adaderanalk | 8,958
 tamilmirrorlk | 10,463
 virakesarilk | 11,795
-adaderanasinhalalk | 12,302
+adaderanasinhalalk | 12,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,198 articles have been extended.
+61,973 (87.0%) of 71,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### දෛනික සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
+
+*2025-08-19 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213550) · `si`
+
+මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීම අරමුණු කරගෙන දෛනිකව විශාල මෙහෙයුම් සංඛ්‍යාවක් දිවයින පුරා සිදු කෙරෙමින් පවතී.
+
+එකී මෙහෙයුම් ශ‍්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බලකාය හා ත‍්‍රිවිධ හමුදාව එක්ව මුළු දිවයිනම ආවරණය වන පරිදි සිදු කරමින් පවතින අරත, එකී දෛනික මෙහෙයුම් මාලාවේ තවත් අදියරක් ඊයේ (18) දිනයේදීද පැවැත්විණි.
+
+ඊයේ දිනයේදී ශ‍්‍රී ලංකා පොලීසියේත්, පොලිස් විශේෂ කාර්ය බලකායේත් ත‍්‍රිවිධ හමුදාවේත් 6,782 දෙනෙකු සම්බන්ධ වී මෙම විශේෂ සෝදිසි මෙහෙයුම් සිදු කර ඇත.
+
+එහිදී පුද්ගලයන් 26,560 දෙනෙකු පරීක්ෂාවට ලක් කෙරුණු අතර වාහන 11,053 ක්ද යතුරු පැදි 8,444 ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර තිබේ.
+
+එකී වැටලීම්වලදී මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 989 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 18 දෙනෙකුද වරෙන්තුකරුවන් 528 දෙනෙකුද අත්අඩංගුවට පත්ව ඇත.
+
+විශේෂයෙන්ම දිවයින පුරා සිදු කරන ලද මෙකී මෙහෙයුම්වලදී හෙරොයින් ග‍්‍රෑම් 674 මිලිග‍්‍රෑම් 959ක ප‍්‍රමාණයක්ද, අයිස් මත්ද්‍රව්‍ය ග‍්‍රෑම් 193 මිලිග‍්‍රෑම් 116ක ප‍්‍රමාණයක්ද ගංජා කිලෝ 52 ග‍්‍රෑම් 714ක ප‍්‍රමාණයක්ද අත්අඩංගුවට ගැනීමට සමත්ව ඇත.
+
+...
+
+[Data](articles/44021032.json)
+
+---
+
+### Postal unions to continue strike action despite successful discussion at Presidential Secretariat
+
+*2025-08-19 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111642/postal-unions-to-continue-strike-action-despite-successful-discussion-at-presidential-secretariat) · `en`
+
+Postal unions have announced that the strike action launched on Sunday (17), will continue despite successful discussions held at the Presidential Secretariat.
+
+This was confirmed by union representatives to media following discussions held with Dharmasiri Gamalath, the Director General of Public Relations at the Presidential Secretariat.
+
+Postal trade unions launched an indefinite strike on Sunday afternoon, based on 19 key demands.
+
+As a result, operations at postal offices across the country have been significantly disrupted.
+
+Following today’s discussions, Niroshan Gorakana, the Post and Telecommunication Officers’ Union (PTOU) stated that they have requested a meeting with the Subject Minister immediately.
+
+He said once a discussion is held with the Minister to discuss their demands, they are prepared to call off the strike.
+
+◼️
+
+[Data](articles/71193aa9.json)
+
+---
+
+### Man injured in Peliyagoda shooting succumbs
+
+*2025-08-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111641/man-injured-in-peliyagoda-shooting-succumbs) · `en`
+
+An individual who was injured in a shooting incident in Peliyagoda earlier today (19), has succumbed to his injuries.
+
+A shooting was reported along the Gnanarathana Mawatha in Peliyagoda.
+
+According to police, the suspects, who arrived on a motorcycle, opened fire, injuring a trader in the Peliyagoda fish market.
+
+◼️
+
+[Data](articles/512eced1.json)
+
+---
 
 ### සාකච්ඡාවෙන් පසුවත් තැපැල් වර්ජනය අඛණ්ඩව
 
@@ -51,6 +111,52 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/be95bc7e.json)
+
+---
+
+### Ten suspects linked to criminal activities arrested with weapons in Gampaha
+
+*2025-08-19 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111640/ten-suspects-linked-to-criminal-activities-arrested-with-weapons-in-gampaha-) · `en`
+
+A group of individuals connected to drug and organized crime networks in the Gampaha District have been arrested along with firearms, police stated.
+
+The arrests were made during a raid conducted based on information received by police.
+
+According to police, 10 suspects were taken into custody during the operation.
+
+Additionally, during separate raids carried out in Parakandeniya, Daluwakotuwa, and Katana, police recovered one repeater-type firearm, one pistol, nine T-56 magazines, 183 rounds of T-56 ammunition, 280 rounds of 9mm ammunition, a sword, and 300 grams of crystal meth (commonly known as “ice”).
+
+Police also seized a motorcycle and a car used by the suspects.
+
+Further investigations into the incident are being carried out by the Ganemulla Police.
+
+◼️
+
+[Data](articles/1c22ad09.json)
+
+---
+
+### ‘Only CBSL can print money’ - Minister denies claims by various factions
+
+*2025-08-19 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111639/only-cbsl-can-print-money-minister-denies-claims-by-various-factions) · `en`
+
+Deputy Minister of Economic Development Anil Jayantha has reiterated in Parliament that the government has not printed money as claimed by various factions.
+
+He was responding to claims made by certain organizations alleging that Rs. 1.2 trillion had been printed under the incumbent administration.
+
+The Deputy Minister said such statements were either made “intentionally or out of ignorance.”
+
+He explained that, under present circumstances, the government neither has the ability nor the legal authority to print money.
+
+Clarifying further, he stated that the recent monetary expansion has taken place through reserve money operations carried out by the Central Bank of Sri Lanka (CBSL), which should not be confused with government-driven currency printing.
+
+He stressed that portraying it otherwise is misleading to the public.
+
+The Deputy Minister noted that Sri Lanka currently has Rs. 1.6 trillion in reserve money, while the broad money supply has reached nearly Rs. 15 trillion.
+
+...
+
+[Data](articles/694daedd.json)
 
 ---
 
@@ -1769,95 +1875,5 @@ He further demanded that President Anura Kumara Dissanayake take immediate actio
 ...
 
 [Data](articles/1fffe2eb.json)
-
----
-
-### Spain, Portugal order mass evacuation of residents as wildfires rage
-
-*2025-08-18 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111600/spain-portugal-order-mass-evacuation-of-residents-as-wildfires-rage) · `en`
-
-Wildfires gripping Spain and Portugal forced mass evacuations and the deployment of thousands of emergency personnel as a heatwave continues to ravage the Iberian Peninsula, Euro News reported.
-
-Spanish Prime Minister Pedro Sanchez visited regions affected by forest fires in Ourense and Leon to meet with the heads of emergency and coordination teams. He was accompanied by Spanish Interior Minister Fernando Grande-Marlaska, according to Euro News.
-
-In a press conference, Sanchez said “the next hours and days are critical” and that the government would provide the help needed to extinguish the fires, including 500 more military personnel. He added that the ongoing operations by emergency personnel were “probably” the largest European civil protection mobilisation in history.
-
-...
-
-[Data](articles/e0a30c72.json)
-
----
-
-### Sri Lanka’s MetroCorp raises stake in NDB
-
-*2025-08-18 18:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-metrocorp-raises-stake-in-ndb-237180/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s MetroCorp, which has interests in office automation, renewable energy, leisure and infrastructure, has raised its stake in National Development Bank to 4.7 percent, with a 2.58 percent purchase of the lender’s voting stock last week.
-
-MetroCorp, chaired by Dinesh Ambani is also has a 9.2 percent stake in Hatton National Bank non-voting shares.
-
-Last week  Softlogic Life Insurance Funds sold 31.7 million shares of NDB last week for 4.4 billion rupees, which was bought by MetroCorp and high networth investor Indra Silva, sources familiar with the deal said.
-
-Indra Silva, already holds a 9.98 percent stake in Commercial Bank , and 9.98 percnent in Sampath Bank and 2.69 pecent of Hatton National Bank. (Colombo/Aug18/2025)
-
-◼️
-
-[Data](articles/435d473c.json)
-
----
-
-### Warrant issued for the arrest of ex-MP Athuraliye Rathana Thero
-
-*2025-08-18 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111599/warrant-issued-for-the-arrest-of-ex-mp-athuraliye-rathana-thero) · `en`
-
-A warrant has been issued for the arrest of former Member of Parliament Ven. Athuraliye Rathana Thero.
-
-The warrant was issued by the Colombo Magistrate’s Court today, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
-
-The Police Media Spokesman stated that the warrant was issued for the arrest of Ven. Rathana Thero following a submission made by police to court.
-
-◼️
-
-[Data](articles/4631460b.json)
-
----
-
-### බලශක්ති ඇමති කුමාර ජයකොඩිට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්
-
-*2025-08-18 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213515) · `si`
-
-බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතාට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
-
-ශ්‍රී ලංකා හරිත සංවිධාන නියෝජනය කරමින් සංක චන්දිම අබේවර්ධන විසින් මෙම පැමිණිල්ල ගොනු කර ඇත.
-
-බලශක්ති අමාත්‍යවරයා විසින් පොහොර සංස්ථාවේ සේවය කරන අවදියේදී සිදුකරන ලද දූෂිත ටෙන්ඩර් ගනුදෙනුවකින් රජයට පාඩු කිරීම ඇතුළු කරුණු ගණනාවක් සම්බන්ධව මෙම පැමිණිල්ල ගොනු කර තිබේ.
-
-එමෙන්ම අමාත්‍යවරයා අමාත්‍ය ධුරය දැරීමේදී ගත් යම් යම් තීරණ හේතුවෙන් රජයට පාඩුවක් සිදුකර ඇතැයිද මේ සම්බන්ධවද විමර්ශනය කරන ලෙස ඉල්ලා හරිත සංවිධානය විසින් මෙම පැමිණිල්ල ගොනු කර ඇත.
-
-පැමිණිල්ල ගොනු කළ සංක චන්දිම මහතා පැවසුවේ සියලු සිදුවීම්වල ලිපි ලේඛණ අල්ලස් කොමිසම වෙත භාර දුන් බවත් ජනාධිපතිවරයා විසින් අමාත්‍යවරයා සම්බන්ධව තීරණයක් ගත යුතු බැවින් වහාම ඔහු අමාත්‍ය ධුරයෙන් නෙරපා හැරිය යුතු බවත්ය‍.
-
-"මේ අන්ත දූෂිතයෙකුට අමාත්‍යධුරයක් දුන්නාම මෙහෙම ප්‍රශ්න ඇතිවෙන්නේ නැද්ද? ඒ ප්‍රශ්නවලට ජනාධිපතිවරයාට වගකීමක් නැද්ද?, ජනාධිපතිවරයා වහාම මේ සම්බන්ධව පියවර අරගෙන මේ දූෂිත ගනුදෙනු සියල්ල අහෝසි කරලා දාන්න ඕනේ සහ ඔහුව ධුරයෙන් පහ කරන්න ඕනේ"
-
-◼️
-
-[Data](articles/d232d1de.json)
-
----
-
-### Ada Derana report prompts Port City Economic Commission to take action against two APs
-
-*2025-08-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111598/ada-derana-report-prompts-port-city-economic-commission-to-take-action-against-two-aps-) · `en`
-
-The Colombo Port City Economic Commission (CPCEC) has suspended the issuance of visa recommendations for two Authorised Persons (APs), following a report published by Ada Derana on August 13 pertaining to the detention and deportation of five Chinese nationals employed by said APs.
-
-Issuing a communiqué, the Port City Economic Commission said following the recent developments reported in the media, including by Ada Derana, pertaining to the detention of Chinese nationals at the Bandaranaike International Airport (BIA), the CPCEC has suspended the issuance of visa recommendations for the two APs whose employees were involved in the incident.
-
-This suspension measure will remain in place until the ongoing investigation of the alleged incident is completed, the Commission noted.
-
-The CPCEC has formally requested both APs to submit detailed written explanations, and all necessary documentation relevant to the alleged incident to ensure a thorough and transparent investigation.
-
-...
-
-[Data](articles/6b635179.json)
 
 ---

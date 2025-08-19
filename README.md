@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 13:18:13**
+As of **2025-08-19 13:31:36**
 
 ## Newspaper Stats
 
-*Scraped **71,182** Articles*
+*Scraped **71,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ dailyftlk | 4,998
 adalk | 6,854
 adaderanalk | 8,949
 tamilmirrorlk | 10,463
-virakesarilk | 11,793
-adaderanasinhalalk | 12,296
+virakesarilk | 11,794
+adaderanasinhalalk | 12,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,182 articles have been extended.
+61,973 (87.1%) of 71,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### හිටපු බන්ධනාගාර වෛද්‍ය හේමන්ත රණසිංහ තවදුරටත් රිමාන්ඩ්
+
+*2025-08-19 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213544) · `si`
+
+2024 වසරේ අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු බන්ධනාගාර සෞඛ්‍ය සේවා නියෝජ්‍ය අධ්‍යක්ෂ නයනජිත් හේමන්ත රණසිංහ මහතා ලබන 26 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+අල්ලස් කොමිසම සහ විත්තිය නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය විසින් මෙම නියෝගයක් නිකුත් කළාය.
+
+බන්ධනාගාර රෝහලේ ප්‍රතිකාර සඳහා රඳවා සිටි රඳවියකු ප්‍රතිකාර අවසන් වීමෙන් පසුව බූස්ස බන්ධනාගාරයට නොයවා රෝහලේ රඳවා ගැනීම සඳහා රුපියල් ලක්ෂ 15ක අල්ලසක් ඉල්ලා, ඉන් ලක්ෂ තුනක මුදලක් අල්ලස් වශයෙන් ලබා ගත් බවට සැකපිට මෙම වෛද්‍යවරයා අල්ලස් කොමිසම විසින් පසුගිය දා අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/33390bf2.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-08-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/222858) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (19) இலங்கை மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.5020 ஆகவும் விற்பனை விலை ரூபா 305.0432 ஆகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/50aa0c36.json)
+
+---
 
 ### Govt mulls using QR code to disburse fertilizer subsidies to farmers
 
@@ -342,7 +370,7 @@ Additionally, it can assume the roles of editors and content writers, significan
 
 *2025-08-19 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213536) · `si`
 
-අල්ලස් කොමිසම සිදුකළ විමර්ශනයකට අදාළව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි  පොලිස් දෙපාර්තමේන්තුවේ සංස්කෘතික අංශයේ හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතීෂ් ගමගේ මහතා තවදුරටත් සැප්තැම්බර් මස 02 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+අල්ලස් කොමිසම සිදුකළ විමර්ශනයකට අදාළව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි  පොලිස් දෙපාර්තමේන්තුවේ සංස්කෘතික අංශයේ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතීෂ් ගමගේ මහතා තවදුරටත් සැප්තැම්බර් මස 02 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
 
 අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
 
@@ -758,7 +786,7 @@ Nevertheless, the opposition—particularly the Samagi Jana Balawegaya (SJB)—c
 
 ---
 
-### Sri Lanka should structure dollar syndicated loans, avoid CB swaps
+### Sri Lanka should structure syndicated loans with local banks, avoid CB dollar swaps
 
 *2025-08-19 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-structure-dollar-syndicated-loans-avoid-cb-swaps-237193/) · `en`
 
@@ -1847,47 +1875,5 @@ After considering the facts presented, the Magistrate ordered that the progress 
 ...
 
 [Data](articles/e720e0d9.json)
-
----
-
-### Naked body found in paddy field in Badulla
-
-*2025-08-18 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111591/naked-body-found-in-paddy-field-in-badulla) · `en`
-
-Police say the naked body of an elderly man who died under mysterious circumstances was found in a paddy field adjacent to the Kailagoda Elders’ Home in Badulla this morning (18).
-
-The owner of the paddy field had visited the field after four days and had noticed the corpse during that visit, and had later informed police.
-
-Following this, officers of the Badulla Police had commenced investigations into the incident.
-
-Further investigations are being conducted by the Badulla Police to ascertain the cause of death.
-
-◼️
-
-[Data](articles/59684e49.json)
-
----
-
-### Sri Lanka welcomes 1.5mn tourists by Aug 18
-
-*2025-08-18 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-1-5mn-tourists-by-aug-18-237056/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals had topped 1.5 million on August 18, 2025, the Ministry of Tourism said.
-
-August is a month that gets extra tourists due to the Kandy Perahera.
-
-In first 18 days to August, over 130,000 tourist had arrived. On August 18, 3142 tourists had arrived up to 3.00 pm.
-
-“We extend heartfelt gratitude to our visitors and local partners,” Tourism Minister Vijitha Herath said in an x.com post.
-
-“Sri Lanka warmly invites the world to explore our island of beauty, culture, and hospitality.”
-
-Sri Lanka is targeting 3 million tourists in 2025. (Colombo/Aug18/2025)
-
-ECONMYNEXT – Sri Lanka’s tourist arrivals had reached 1.5 million by the afternoon of August 2025, the Ministry of Torurism said.
-
-◼️
-
-[Data](articles/cca1e689.json)
 
 ---

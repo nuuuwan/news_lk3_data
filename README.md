@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 23:19:46**
+As of **2025-08-19 23:31:45**
 
 ## Newspaper Stats
 
-*Scraped **71,235** Articles*
+*Scraped **71,236** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
-colombotelegraphcom | 728
+colombotelegraphcom | 729
 economynextcom | 4,356
 islandlk | 4,379
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,235 articles have been extended.
+61,973 (87.0%) of 71,236 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -263,6 +263,20 @@ Musthapha is of the view that the Gambling Regulatory Authority Bill is a step i
 ◼️
 
 [Data](articles/0fad7f09.json)
+
+---
+
+### Provincial Elections, The 13th Amendment & The Promise Of Shared Growth
+
+*2025-08-19 17:11:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/provincial-elections-the-13th-amendment-the-promise-of-shared-growth/) · `en`
+
+For decades, Sri Lanka has struggled to balance governance between the centre and the regions. The 13th Amendment to the Constitution, introduced in 1987, created provincial councils with a clear mandate to decentralise power. Yet, more than three decades on, its full potential remains largely unrealised. Provincial elections have been repeatedly delayed, and critical powers—particularly land and policing—have been contested or retained at the centre.
+
+Today, with the nation navigating economic recovery and a public hungry for meaningful reform, the question arises: if Sri Lanka were to hold provincial elections regularly and implement the 13th Amendment across all nine provinces as originally intended, would it make a difference to governance, stability, and growth? The answer is a resounding yes.
+
+...
+
+[Data](articles/a49ce811.json)
 
 ---
 
@@ -1877,23 +1891,5 @@ Once passed in Parliament, the draft bill will come into effect as the Gambling 
 ◼️
 
 [Data](articles/3456456a.json)
-
----
-
-### ‘Quazi court’ judge and wife arrested in Kalmunai for soliciting bribe
-
-*2025-08-19 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111608/quazi-court-judge-and-wife-arrested-for-soliciting-bribe-in-kalmunai-) · `en`
-
-A ‘Quazi court’ judge in Kalmunai and his wife have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on allegations of soliciting a bribe.
-
-The suspect was taken into custody at his office located in Maruthamunai, Kalmunai in the Ampara District.
-
-Last month, the aggrieved party lodged a complaint with the Bribery Commission, stating that the suspect had demanded a bribe in order to resolve a legal matter.
-
-Following the incident, the suspect and his wife were arrested yesterday (17) by the Bribery Commission on charges of accepting a bribe.
-
-◼️
-
-[Data](articles/d5ced4c4.json)
 
 ---

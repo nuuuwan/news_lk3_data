@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 17:53:21**
+As of **2025-08-19 18:10:01**
 
 ## Newspaper Stats
 
-*Scraped **71,219** Articles*
+*Scraped **71,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,854
 adaderanalk | 8,958
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
-adaderanasinhalalk | 12,307
+adaderanasinhalalk | 12,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,219 articles have been extended.
+61,973 (87.0%) of 71,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### සූදු නියාමන අධිකාරියේ පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කරයි
+
+*2025-08-19 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213555) · `si`
+
+සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා වූ පනත් කෙටුම්පත සංශෝධන සහිතව අද (19) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
+
+මෙහිදී ශ්‍රී ලංකාව තුළ ඔට්ටු ඇල්ලීම සහ සූදු අ‍ායතන ප්‍රමිතිකරණය කිරීමට, සමාජ හානි අවම කිරීමට, සංචාරක ක්ෂේත්‍රය සංවර්ධනය කිරීමට හා ආර්ථිකය වර්ධනය කිරීම සඳහා පුළුල් හෝ පූර්ණ විෂය පථයක් සහිත ස්වාධීන නියාමන ආයතනයක් ලෙස සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම සිදු කෙරෙයි.
+
+◼️
+
+[Data](articles/4becb1ad.json)
+
+---
 
 ### ශ්‍රී ලාංකික ශ්‍රමිකයින් 10000ක් සඳහා තායිලන්ත කැබිනට් අනුමැතිය
 
@@ -1869,19 +1883,5 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, introduces truly unli
 ...
 
 [Data](articles/f54064ad.json)
-
----
-
-### Low bank interest rates sustain bullish surge at CSE
-
-*2025-08-18 23:32:00* · [`islandlk`](http://island.lk/low-bank-interest-rates-sustain-bullish-surge-at-cse/) · `en`
-
-CSE trading indicated some bullish tendencies yesterday following the market reaching 20,000 Index points last Friday, market analysts said.
-
-Positive macro- environment conditions, especially low bank interest rates, enabled the market to break the psychological barrier of 20,000 Index points and create favourable investor sentiments. Amid those developments both indices moved upwards. The All Share Price Index went up by 252.16 points while S and P SL20 rose by 103.6 points.
-
-...
-
-[Data](articles/5cd8ae8c.json)
 
 ---

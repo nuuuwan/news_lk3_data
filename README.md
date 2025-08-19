@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 12:08:37**
+As of **2025-08-19 12:26:20**
 
 ## Newspaper Stats
 
-*Scraped **71,172** Articles*
+*Scraped **71,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,854
 adaderanalk | 8,944
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
-adaderanasinhalalk | 12,294
+adaderanasinhalalk | 12,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,172 articles have been extended.
+61,973 (87.1%) of 71,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### නිවාස පහසුකම් සඳහා මූල්‍යාධාර හිමිවන පිරිස මෙන්න
+
+*2025-08-19 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213542) · `si`
+
+ආයතනගතව සිට සමාජගත වන තරුණ තරුණියන්ට නිවාස පහසුකම් සපයාගැනීම සඳහා මූල්‍යාධාර ලබා දීමේ වැඩසටහනට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ළමා සංවර්ධන මධ්‍යස්ථානයක රැකවරණය යටතේ සිට සමාජගත වී විවාහ අපේක්ෂාවෙන් පසුවන තරුණ තරුණියන්, ඒ සඳහා ක්‍රමානුකූලව හා විධිමත්ව සූදානම් කිරීමේ අරමුණින් ස්ථාවර හා ආරක්ෂිත නිවසක් තනා ගැනීමට හැකි වන පරිදි රුපියල් මිලියනයක මූල්‍යාධාරයක් ලබා දීම සඳහා 2025 අයවැය යෝජනාවක් අනුව රුපියල් මිලියන 1,000ක ප්‍රතිපාදන වෙන් කර ඇත.
+
+අදාළ කාර්යය සඳහා, කාන්තා සහ ළමා කටයුතු අමාත්‍යාංශය, පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තුව, පළාත් පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තු, සංවර්ධන මූල්‍ය දෙපාර්තමේන්තුව, දිස්ත්‍රික් ලේකම්වරුන් සහ ප්‍රාදේශීය ලේකම්වරුන් සම්බන්ධ කර ගනිමින් වැඩසටහනක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+
+ඒ අනුව, හඳුනාගනු ලැබ ඇති නිර්ණායක මත පදනම්ව පහත සඳහන් කණ්ඩායම්වලට අයත් වූවන් වෙත මූල්‍යාධාර ලබා දීම සඳහා ජනාධිපතිවරයා සහ කාන්තා සහ ළමා කටයුතු අමාත්‍යතුමිය ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
+
+...
+
+[Data](articles/5f769661.json)
+
+---
 
 ### පොහොර සහනාධාරයටත් QR එයි
 
@@ -1897,23 +1915,5 @@ But it was unclear from Russian media reports what caused the fire or what the f
 ...
 
 [Data](articles/de6741c9.json)
-
----
-
-### Airports & Aviation Services company records 78% growth in operational profit in H1 2025
-
-*2025-08-18 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111585/airports-aviation-services-company-records-78-growth-in-operational-profit-in-h1-2025) · `en`
-
-The operational profit of the Airport & Aviation Services (Sri Lanka) (Private) Limited has increased by 78% in the first six months of 2025 compared to the same period in the previous year.
-
-In the first six months of 2024, the company recorded an operational profit of Rs. 9,049 million, whereas in the same period of 2025, the profit rose to Rs. 16,133 million, according to the Ministry of Transport, Highways, Ports, and Civil Aviation.
-
-The Ministry stated that a total of 32,423 flights were handled during the first half of 2025.
-
-With the upcoming tourist season, the Ministry said the Airport and Aviation Authority expects a significant increase in these numbers.
-
-◼️
-
-[Data](articles/757fb5e7.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 22:15:39**
+As of **2025-08-19 22:23:51**
 
 ## Newspaper Stats
 
-*Scraped **71,231** Articles*
+*Scraped **71,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 4,998
 adalk | 6,854
 adaderanalk | 8,965
 tamilmirrorlk | 10,463
-virakesarilk | 11,799
+virakesarilk | 11,801
 adaderanasinhalalk | 12,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,231 articles have been extended.
+61,973 (87.0%) of 71,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### பொறுப்புக்கூறலுக்கான அர்த்தமுள்ள நகர்வுகளை அநுர அரசாங்கம் முன்னெடுக்கவில்லை: ஆதாரங்களைத் திரட்டும் பொறிமுறையின் அதிகாரிகளை நாட்டுக்குள் அனுமதியுங்கள் - மனித உரிமைகள் கண்காணிப்பகம் வலியுறுத்தல்
+
+*2025-08-19 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/222903) · `ta`
+
+ஜனாதிபதியாகத் தெரிவுசெய்யப்பட்டது முதல் 'நல்லிணக்கம்' தொடர்பில் அநுரகுமார திஸாநாயக்க பலமுறை பேசியிருந்தார். ஆனல் பாராளுமன்றத்தில் பெரும்பான்மை ஆசனங்களை தம்வசம் வைத்திருக்கும் அவரது அரசாங்கம் யுத்தகாலப்பகுதியில் இடம்பெற்ற குற்றங்கள் தொடர்பில் உரிய நடவடிக்கை எடுக்கப்படும் என்ற உத்தரவாதத்தை வெளிக்காட்டும் வகையில் எந்தவொரு நகர்வையும் மேற்கொள்ளவில்லை. இந்நிலையில் இலங்கை தொடர்பான பொறுப்புக்கூறல் செயற்திட்ட அதிகாரிகள் நாட்டுக்குள் பிரவேசிப்பதற்கும், விசாரணைகளை முன்னெடுப்பதற்கும், பாதிக்கப்பட்ட தரப்பினர் மற்றும் சாட்சியங்களைச் சந்திப்பதற்கும் அரசாங்கம் இடமளிக்கவேண்டும் என மனித உரிமைகள் கண்காணிப்பகம் வலியுறுத்தியுள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் எதிர்வரும் செப்டெம்பர் மாதம் 8 ஆம் திகதி ஜெனீவாவில் ஆரம்பமாகவுள்ள நிலையில், இலங்கையின் மனித உரிமைகள் நிலைவரம் தொடர்பில் மனித உரிமைகள் கண்காணிப்பகத்தினால் வெளியிடப்பட்டிருக்கும் அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+...
+
+[Data](articles/69b3a3bb.json)
+
+---
+
+### வடகிழக்கு ஹர்த்தால் தோல்வியடைந்தது – இன, மத பிளவை விட்டு பொது எதிரிக்கு எதிராக போராட வேண்டும் - முனீர் முளப்பர்
+
+*2025-08-19 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222902) · `ta`
+
+இனம் மதம் என்ற அடிப்படையில் பிளவுபட்டு அரசியல் செய்வதைவிட்டு பொது எதிரியை அறிந்துகொண்டு அதற்காக போராடுவதற்கு அரசாங்கம் ஒன்று தேவை என்ற விடயத்தில் மக்கள் வாழ்கின்றனர்.  அந்த நோக்கத்தில் மக்கள் இருந்ததாலே வடக்கு கிழக்கில் இடம்பெற்ற ஹர்த்தால் போராட்டம் தோல்வியடைந்துள்ளது என தேசிய ஒருமைப்பாட்டு பிரதி அமைச்சர் முனீர் முளப்பர் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19) இடம்பெற்ற பணச்சூதாட்டத்தை ஒழுங்குபடுத்தும் அதிகாரசபை சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தி அரசாங்கம் பிளவுபட்டு இன்று பாராளுமன்றத்தில் அரசாங்கத்தில் இருக்கும் 52பேர் எதிர்க்கட்சியில் அமரப்போவதாக சமூகவலைத்தலங்களில் செய்தி வெளியிடப்பட்டிருந்தது. இதுதொடர்பில் பலரும் எங்களிடம் கேட்டனர். அதற்கு நான்,எண்ணிக்கையில் தவறு ஏற்பட்டுள்ளது.நாங்கள் ஆட்சிக்கு வந்த நாள் முதல் எங்களில்  43பேர் தொடர்ந்து எதிர்க்கட்சி பக்கமே அமர்ந்திருக்கின்றனர் என்று தெரிவித்தேன்,
+
+...
+
+[Data](articles/4236a2ab.json)
+
+---
 
 ### ජාතික සෞඛ්‍ය ප්‍රතිපත්තියක් එළිදැක්වීමට සූදානම් වෙයි
 
@@ -1871,33 +1901,5 @@ Putin told Trump that he was ready to meet Zelensky, a source familiar with talk
 ...
 
 [Data](articles/2650bb10.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-08-19 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111606/few-showers-expected-in-parts-of-the-island-today) · `en`
-
-A few showers will occur in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara Eliya, Galle and Matara districts today (19), the Department of Meteorology said.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts, the Met. Department added.
-
-◼️
-
-[Data](articles/140d85a5.json)
-
----
-
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-19 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
 
 ---

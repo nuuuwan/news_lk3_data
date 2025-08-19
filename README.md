@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 13:51:12**
+As of **2025-08-19 14:08:27**
 
 ## Newspaper Stats
 
-*Scraped **71,184** Articles*
+*Scraped **71,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,949
+adaderanalk | 8,952
 tamilmirrorlk | 10,463
 virakesarilk | 11,794
-adaderanasinhalalk | 12,297
+adaderanasinhalalk | 12,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,184 articles have been extended.
+61,973 (87.1%) of 71,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### රාජිතගේ පෙත්සම අධිකරණයෙන් ප්‍රතික්ෂේප කරයි
+
+*2025-08-19 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213546) · `si`
+
+අල්ලස් කොමිසම විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව තමන්ව අත්අඩංගුවට ගැනීම සඳහා නිකුත් කර ඇති වරෙන්තුව තාවකාලිකව අත්හිටුවන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ මෝසම කොළඹ මහෙස්ත්‍රාත් අධිකරණයෙන් ප්‍රතික්ෂේප කර තිබේ.
+
+◼️
+
+[Data](articles/9e5c37f3.json)
+
+---
+
+### මුදල් අච්චු ගැසීමක් සිදුකර නෑ - නියෝජ්‍ය ඇමති පාර්ලිමේන්තුවේ දී කියයි
+
+*2025-08-19 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213545) · `si`
+
+ආණ්ඩුව විසින් කිසිසේත්ම මුදල් අච්චු ගැසීමක් සිදුකර නොමැති බව ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත මහතා පැවසීය.
+
+◼️
+
+[Data](articles/8613d781.json)
+
+---
+
+### Govt to seek bids to reopen Elephant Pass – North Saltern under PPP model
+
+*2025-08-19 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111635/govt-to-seek-bids-to-reopen-elephant-pass-north-saltern-under-ppp-model) · `en`
+
+The Cabinet of Ministers has granted approval to a cabinet paper presented to call for bidders at international level to reopen the Kurunchathivu (Elephant Pass – North) Saltern under a Public – Private Partnership methodology.
+
+Although measures have been taken to call for bids from local investors for inaugurating the production and monitoring activities of the Elephant Pass – North Saltern which had been halted due to the conflict with the LTTE, under the Public – Private Partnership methodology, authorities did not receive adequate interest to materialize the programme, according to Cabinet Spokesman Dr. Nalinda Jayatissa.
+
+Accordingly, the Cabinet of Ministers has granted approval to the proposal furnished by the Minister of Industries and Entrepreneurship Development to call for bids at international level for the reopening of the Kurunchathivu (Elephant Pass – North) Saltern under Public – Private Partnership methodology.
+
+◼️
+
+[Data](articles/eb47292a.json)
+
+---
+
+### Cabinet approves financial assistance for youth leaving institutional care
+
+*2025-08-19 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111634/cabinet-approves-financial-assistance-for-youth-leaving-institutional-care) · `en`
+
+The Cabinet of Ministers has granted approval to a joint proposal to provide financial assistance to selected groups of young people based on specified criteria.
+
+It has been planned to implement the concessional financial grant scheme with the involvement of the Ministry of Women and Child Affairs, Department of Probation and Child Protection Services, Provincial Department of Probation and Child Protection Services, Department of Finance Development, District Secretaries, and Divisional Secretaries.
+
+• To the young women and men with the completion of 18 years who do not have a stable and safe home and are married or expected to be married and have left institutional care within the last 10 years (after 30-06-2015)
+
+• Young people over the age of 18 who continue to remain in child development centers due to lack of a proper family background or livelihood (especially young women)
+
+...
+
+[Data](articles/948418b6.json)
+
+---
 
 ### හිටපු බන්ධනාගාර වෛද්‍ය හේමන්ත රණසිංහ තවදුරටත් රිමාන්ඩ්
 
@@ -57,6 +115,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/50aa0c36.json)
+
+---
+
+### ‘Admit until date’: US embassy in India warns against overstaying, explains how it can happen
+
+*2025-08-19 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111633/admit-until-date-us-embassy-in-india-warns-against-overstaying-explains-how-it-can-happen) · `en`
+
+The US embassy in India issued a fresh warning to Indians against overstaying in the US and explained the difference between the ‘Admit until date’ and the expiry of the visa date.
+
+“Your authorized period of stay is the ‘Admit Until Date’ on your I-94, not your U.S. visa expiration date. Staying in the United States beyond your authorized date is called an “overstay” and could result in a visa revocation, possible deportation, and ineligibility for future visas,” the embassy said.
+
+It is the date mentioned on I-94 (arrival/departure record) which is issued by the US Customs and Border Protection. It is not written on the visa. If you entered the US on a visa with a fixed duration (like B-1/B-2 visitor visas, F-1 students, or H-1B workers), the admit until date will usually be a specific calendar date.
+
+You must either leave the US, extend your stay, or change status on or before that date to remain in lawful status.
+
+...
+
+[Data](articles/801b5371.json)
 
 ---
 
@@ -506,9 +582,15 @@ The suspects, who arrived on a motorcycle, opened fire, injuring a trader in the
 
 *2025-08-19 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213534) · `si`
 
-පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේ දී අද (19) උදෑසන නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතැබීමක් සිදුකර තිබේ.
+පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේ දී අද (19) උදෑසන සිදුවූ වෙඩි තැබීමක් සිදුව තිබේ.
 
-යතුරුපැදියකින් පැමිණ සිදුකළ මෙම වෙඩිතැබීමෙන් පෑලියගොඩ මාළු වෙළෙඳාමේ යෙදෙන පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කර ඇත.
+නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
+
+වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ, පෑලියගොඩ මාළු වෙළෙඳ සංකිර්ණයේ කම්කරුවෙකු බව පොලීසිය ප්‍රකාශ කළේය.
+
+එහිදී මාර්ගයේ ගමන්ගත් තවත් පුද්ගලයෙකුට ද වෙඩි වැදීමෙන් තුවාල ලබා තිබේ.
+
+වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයින් දෙදෙනා කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
 
 ◼️
 
@@ -1787,93 +1869,5 @@ Through the program the United States is building lasting networks and cultivati
 ...
 
 [Data](articles/b2e0b5c4.json)
-
----
-
-### කටුනායක ගුවන්තොටුපොළ වෙත එන අයට නිවේදනයක්
-
-*2025-08-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213511) · `si`
-
-සෑම බ්‍රහස්පතින්දා, සිකුරාදා සහ සෙනසුරාදා දිනකදීම රාත්‍රී 10 සිට මධ්‍යම රාත්‍රීය දක්වා කාලය තුළ කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ පිටවීමේ ආලියන්දයට ඇතුළුවීම අමුත්තන් සඳහා අත්හිටුවීමට තීරණය කර තිබේ.
-
-නිවේදනයක් නිකුත්කරමින් ගුවන්තොටුපොළ හා ගුවන්සේවා සමාගම ඒ බව සඳහන් කළේය.
-
-සියලුම ගුවන් මගින් සහ ගුවන්තොටුපොළ භාවිත කරන්නන්ගේ පහසුව සඳහා මෙම පියවර ගෙන ඇති බව එම සමාගම පවසයි.
-
-◼️
-
-[Data](articles/4287ef01.json)
-
----
-
-### ASPI closes at new all-time high today
-
-*2025-08-18 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111594/aspi-closes-at-new-all-time-high-today) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 252.16 points today.
-
-Accordingly, the ASPI rose by 252.16 points or 1.25% to close at 20,470.52 points, surpassing the previous high of 20,218.36 points recorded on August 15, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 102.62 points to close at 5,997.46 points.
-
-◼️
-
-[Data](articles/7a44a126.json)
-
----
-
-### Entry to BIA Departure Lobby restricted at peak hours on Thursdays, Fridays and Saturdays
-
-*2025-08-18 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111593/entry-to-bia-departure-lobby-restricted-at-peak-hours-on-thursdays-fridays-and-saturdays-) · `en`
-
-Visitor entry tickets to the Departure Lobby of the Bandaranaike International Airport (BIA) will not be issued during peak hours of Thursdays, Fridays and Saturdays, the Airport and Aviation Services (Sri Lanka) (Private) Limited has announced.
-
-Accordingly, entry to the lobby will not be permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
-
-The Airport and Aviation Services company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
-
-◼️
-
-[Data](articles/0fde74fb.json)
-
----
-
-### Court orders police to report on progress into Kotahena schoolgirl suicide incident
-
-*2025-08-18 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111592/court-orders-police-to-report-on-progress-into-kotahena-schoolgirl-suicide-incident-) · `en`
-
-The Colombo Magistrate’s Court was informed today that police are continuing investigations into the alleged sexual abuse of a schoolgirl who died by suicide after jumping from a high-rise building in Kotahena, Colombo.
-
-The case was taken up before Colombo Additional Magistrate Pasan Amarasena, said Ada Derana reporter.
-
-The Officer-in-Charge of the Colombo North Division of the Bureau for the Investigation of Abuse of Children and Women, which is handling the case, told the court that CCTV footage connected to the incident is being examined.
-
-The footage has been forwarded to the University of Moratuwa for examination, and reports are still pending.
-
-Police further informed court that several statements are scheduled to be recorded and that medical reports pertaining to the incident have already been submitted.
-
-After considering the facts presented, the Magistrate ordered that the progress of the investigation be presented to court on September 29.
-
-◼️
-
-[Data](articles/abf927c4.json)
-
----
-
-### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනතට එරෙහිව තවත් පෙත්සම් දෙකක්
-
-*2025-08-18 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213510) · `si`
-
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීම සඳහා වන පනත් කෙටුම්පත අභියෝගයට ලක් කරමින් ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සම් දෙකක් ඉදිරිපත් වී තිබේ.
-
-වේයන්ගොඩ ප්‍රදේශයේ පදිංචි හරින්ද්‍රරත්න බානගල සහ පන්නිපිටිය ප්‍රදේශයේ පදිංචි ප්‍රේමසිරි විජේසේකර යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇති අද දෙරණ වාර්තාකරු පැවසීය.
-
-පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පතේ 01 සිට 04 දක්වා වගන්තිවලින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන බලය බෙදීමේ සිද්ධාන්තය උල්ලංඝනය වීමක් සිදුවන බවය.
-
-ඊට අමතරව අදාළ පනත් කෙටුම්පතේ අන්තර්ගත වගන්ති එකකින් වූ කීපයකින් රටේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර ඇති ස්වෛරීභාවය සහ ජනතා පරමාධිපත්‍යය උල්ලංඝනය කිරීමක් සිදුවන බවත් පෙත්සමෙන් චෝදනා කර තිබේ.
-
-...
-
-[Data](articles/e720e0d9.json)
 
 ---

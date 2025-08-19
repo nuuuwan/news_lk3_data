@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 16:07:27**
+As of **2025-08-19 16:22:04**
 
 ## Newspaper Stats
 
-*Scraped **71,203** Articles*
+*Scraped **71,207** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 605
+dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,348
@@ -19,18 +19,66 @@ dailyftlk | 4,998
 adalk | 6,854
 adaderanalk | 8,958
 tamilmirrorlk | 10,463
-virakesarilk | 11,795
-adaderanasinhalalk | 12,303
+virakesarilk | 11,796
+adaderanasinhalalk | 12,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,203 articles have been extended.
+61,973 (87.0%) of 71,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### வலையில் சிக்கிய சிறுத்தை குட்டி ; பாதுகாப்பாக மீட்க நடவடிக்கை
+
+*2025-08-19 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222888) · `ta`
+
+நாய் வேட்டைக்கு வந்த சிறுத்தை குட்டி ஒன்று பாதுகாப்பு கம்பி வலையில் சிக்கியுள்ளது என நோர்வூட் பொலிஸார் தெரிவித்தனர்.
+
+நோர்வூட் பொலிஸ் பிரிவில் விவசாய தோட்டத்தில் வைக்கப்பட்டிருந்த வலையில் சிறுத்தை குட்டி சிக்கியுள்ளது.
+
+இரும்பு கம்பி வலையில் சிக்கிய நிலையில் உயிருக்கு போரடியபடி உறுமிக்கொண்டிருப்பதை கண்டு அதிர்ச்சியடைந்த கிராம மக்கள் உடனடியாக  பொலிஸாருக்கு அறிவித்துள்ளனர்.
+
+பின்னர் வலையில் சிக்கிய சிறுத்தை குட்டியை மீட்க நடவடிக்கை எடுக்குமாறு நல்லதண்ணி வன ஜீவராசிகள் திணைக்களத்தின்  அதிகாரிகளுக்கு அறிவிக்கப்பட்டுள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0f23e880.json)
+
+---
+
+### තුසිත හල්ලොලුව රිමාන්ඩ්
+
+*2025-08-19 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213552) · `si`
+
+වරෙන්තු නිකුත් කිරීමෙන් අනතුරුව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කෙරුණු ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයකු වන තුසිත හල්ලොලුව මහතා ලබන 28 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (19) නියම කළේය.
+
+කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් හා විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත්පසන් අමරසේන මහතා මෙම නියෝගය නිකුත් කර තිබුණි.
+
+◼️
+
+[Data](articles/fa599b6e.json)
+
+---
+
+### පෑලියගොඩදී වෙඩි වැදුණු දෙදෙනාගෙන් එක් අයෙකු මරුට
+
+*2025-08-19 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213551) · `si`
+
+පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේදී අද (19) උදෑසන සිදුවූ වෙඩිතැබීමෙන් තුවාල ලැබූ එක් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඉලක්කය වී ඇත්තේ, පෑලියගොඩ මාළු වෙළෙඳ සංකිර්ණයේ කම්කරුවෙකු බව පොලීසිය පැවසීය.
+
+වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයින් දෙදෙනා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මෙලෙස එක් අයෙකු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/1ced4cdd.json)
+
+---
 
 ### දෛනික සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
 
@@ -1394,6 +1442,20 @@ Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over 
 
 ---
 
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-19 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
+
+---
+
 ### நிந்தவூரில் கஞ்சா மற்றும் ஐஸ் போதைப் பொருளுடன் ஒருவர் கைது!
 
 *2025-08-19 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222832) · `ta`
@@ -1460,17 +1522,19 @@ Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over 
 
 ---
 
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+### Hartal  Called by prominent Tamil party Ilankai Tamil Arasu Kadchi held in Sri Lanka’s north and east in protest of the recent killing of a Tamil youth, allegedly by the military, and the continuing military presence in Tamil-majority areas
 
-*2025-08-19 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+*2025-08-19 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86285) · `en`
 
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+A symbolic hartal was observed on Monday [August 18, 2025] across Sri Lanka’s north and east, where a majority of the island’s Tamil-speaking people live, against militarisation that continues 16 years after the civil war ended.
 
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+Many commercial and trading establishments in the Northern Province and Eastern Province remained closed during the morning hours, protesting the recent killing of 32-year-old Ethirmanasingham Kapilraj of Mullaitivu district, allegedly by military men. Sri Lanka police arrested three soldiers in connection with the incident last week.
+
+Soon after, prominent Tamil party Ilankai Tamil Arasu Kadchi (ITAK) called for a hartal and wrote to President Anura Kumara Dissanayake, demanding an “unhindered, thorough investigation” and justice for Mr. Kapilraj’s death. In the letter dated August 10, 2025, the party also sought to highlight the “oppressive conduct and excessive presence of the military” in the north and east.
 
 ...
 
-[Data](articles/d609682b.json)
+[Data](articles/4ae8b76f.json)
 
 ---
 
@@ -1795,85 +1859,5 @@ Chinthaka Bandara, the co- convener of the United Postal Trade Union Front state
 ◼️
 
 [Data](articles/de7f06b0.json)
-
----
-
-### உயிர்த்த ஞாயிறு தாக்குதல் – அருண் ஜயசேகரவை மட்டுமே பாதுகாக்கும் அரசாங்கம் நியாயமற்றது: உதய கம்மன்பில
-
-*2025-08-18 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/222825) · `ta`
-
-உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல்கள் தொடர்பில் இராணுவத்தினர் மீது குற்றச்சாட்டுக்கள் முன்வைக்கப்படுகின்ற நிலையில் கிழக்கு மாகாணத்தின் முன்னாள் கட்டளைத் தளபதியாக பதவி வகித்த பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவைவை மாத்திரம் பாதுகாக்க அரசாங்க முயற்சிப்பது எவ்விதத்தில் நியாயமாகும். இராணுவத்தின் மீது பற்று இருக்குமாயின் அருண ஜயசேகர பதவி விலக வேண்டும் என்று பிவிதுறு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுறு ஹெல உறுமய கட்சியின் காரியாலயத்தில் திங்கட்கிழமை (18) நடைப்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவுக்கு எதிராக எதிர்க்கட்சிகள் கொண்டு வந்துள்ள நம்பிக்கையில்லா பிரேரணையால் அரசாங்கம் நெருக்கடிக்குள்ளாகியுள்ளது. அமைச்சரவை அமைச்சர்களுக்கு கூட்டுப்பொறுப்பு உள்ளதால் அவர்களுக்கு மாத்திரம் தான் நம்பிக்கையில்லா பிரேரணை கொண்டு வர வேண்டும் என்று ஆளும் தரப்பின் இளம் உறுப்பினர்கள் குறிப்பிடுவது அவர்களின் புலமையை வெளிப்படுத்துகிறது.
-
-...
-
-[Data](articles/ce7cbd63.json)
-
----
-
-### Sri Lanka sees 10,934 new active credit cards in June 2025
-
-*2025-08-18 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-10934-new-active-credit-cards-in-june-2025-237068/) · `en`
-
-ECONOMYNEXT – New active credit cards in Sri Lanka increased by 10,934 in June this year, the central bank data showed, amid the country’s economic recovery and falling interest rates.
-
-The number of active credit cards recorded 2,075,744 by end June, compared to 2,064,810 by end May, showing an increase of 0.52 percent in the month.
-
-The active credit cards have risen by 3.36 percent in the first six months of this year, the data showed.
-
-Active credit cards in Sri Lanka rose by 4.8 percent or 91,371 in 2024, the Central Bank data showed, with the island nation’s economic recovery and strong promotions for credit cards amid falling interest rates.
-
-Analysts have said most banks have tied up with super markets and other vendors to promote credit cards in the falling interest rate regime as the country’s economy has shown more-than-expected recovery.
-
-They said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than in 2023.
-
-...
-
-[Data](articles/6a0c19eb.json)
-
----
-
-### ඉල්ලීම් ලැබෙන තෙක් අඛණ්ඩ වර්ජනයේ - තැපැල් වෘත්තීය සමිති
-
-*2025-08-18 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213516) · `si`
-
-සිය ඉල්ලීම්වලට අවසන් විසඳුමක් ලැබෙන තෙක් අඛණ්ඩ වර්ජනයේ නිරත වන බව තැපැල් වෘත්තීය සමිති පවසයි.
-
-එම වෘත්තිය සමිති පෙන්වා දෙන්නේ සිය ගැටලු සම්බන්ධයෙන් මේ වන තෙක් සාකච්ඡාවක් ලබා දී නොමැති බවය.
-
-ඉල්ලීම් 19ක් මුල් කර ගනිමින් ඊයේ පස්වරුවේ සිට තැපැල් වෘත්තීය සමිති අඛණ්ඩ වර්ජනයක් ආරම්භ කළේය.
-
-ඒ හේතුවෙන් දිවයින පුරා සියලු තැපැල් කාර්යාලවල කටයුතු අඩපණ වී තිබේ.
-
-කෙසේවෙතත් සිය ගැටලුවලට විසඳුම් ලැබෙන තෙක් වර්ජනයේ නිරතවන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බන්ඩාර මහතා පැවසීය.
-
-◼️
-
-[Data](articles/589d6e13.json)
-
----
-
-### Complaint filed with Bribery Commission against Energy Minister
-
-*2025-08-18 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111601/complaint-filed-with-bribery-commission-against-energy-minister) · `en`
-
-A complaint has been filed with the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against Minister of Energy Kumara Jayakody, alleging involvement in corrupt activities.
-
-The complaint was lodged by Sanka Chandima Abeywardena, Chairman of the Sri Lanka Haritha Sangvidhanaya (Green Organisation).
-
-According to the complaint, the Minister is accused of causing financial losses to the government during his tenure at the Fertilizer Corporation by being involved in a corrupt tender transaction.
-
-The complaint also highlights other decisions made by him while serving as a Cabinet Minister, which allegedly resulted in further financial loss to the state.
-
-Sanka Chandima Abeywardena stated that all relevant documents and evidence have been handed over to the Bribery Commission.
-
-He further demanded that President Anura Kumara Dissanayake take immediate action by removing Minister Jayakody from his position.
-
-...
-
-[Data](articles/1fffe2eb.json)
 
 ---

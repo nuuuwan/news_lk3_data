@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 13:07:05**
+As of **2025-08-19 13:18:13**
 
 ## Newspaper Stats
 
@@ -442,7 +442,7 @@ The Deputy Minister stated, “Currency notes printing is carried out according 
 
 ---
 
-### Sri Lanka’s Agstar sells subsidiary Agstar Exports for Rs35.3mn
+### Sri Lanka’s Agstar sells export unit for Rs35.3mn
 
 *2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-subsidiary-agstar-exports-for-rs35-3mn-237242/) · `en`
 

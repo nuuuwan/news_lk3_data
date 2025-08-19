@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 09:37:15**
+As of **2025-08-19 09:50:40**
 
 ## Newspaper Stats
 
-*Scraped **71,140** Articles*
+*Scraped **71,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 6,854
 adaderanalk | 8,931
 tamilmirrorlk | 10,463
 virakesarilk | 11,789
-adaderanasinhalalk | 12,282
+adaderanasinhalalk | 12,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,140 articles have been extended.
+61,973 (87.1%) of 71,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+
+*2025-08-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213531) · `si`
+
+◼️
+
+[Data](articles/cdeb77da.json)
+
+---
+
+### සල්ලි අච්චු ගැසීම ගැන රජයෙන් ප්‍රකාශයක්
+
+*2025-08-19 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213529) · `si`
+
+මුදල් අච්චු ගැසීම හේතුවෙන් රටේ උද්ධමනයේ වැඩිවීමක් සිදුනොවන බව ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒම මඟින් උද්ධමනය පාලනය කිරීමට වත්මන් ආණ්ඩුව පියවර ගෙන ඇති බවය.
+
+ධාවනයෙන් ඉවත් කර තිබූ 2014 වර්ෂයේ දී මෙරටට ආනයනය කරන ලද බස් රථ සඳහා නව එංජින් කට්ටල යොදා යළි ධාවනයට එක්කිරීමේ අවස්ථාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා මේ බව සඳහන් කළේය.
+
+"රටේ ආර්ථිකයට අවශ්‍ය ප්‍රමාණයට තමා මුදල් අච්චු ගැසීම වෙන්නේ. හැම අවුරුද්දකම වෙන එකක්. බලන්න තියෙන්නේ ආර්ථිකය ගමන් කරන දර්ශක එක්ක. පසුගිය අවුරුදුවල මාස 6ට සාපේක්ෂව අපි ආදායම් වියදම් පරතරය අඩුකරගෙන තියෙනවා 33%කට වඩා වැඩිපුර. ගිය අවුරුද්දේ පළවෙනි මාස 6 රාජ්‍ය ආදායම රු ත්‍රිලියන 1.8යි. මේ අවුරුද්දේ රු ත්‍රිලියන 2.3යි. 24.7%කින් ආදායම වැඩි කරලා. වියදම අඩුකරලා තියෙනවා. ඒ නිසා ආර්ථිකය ස්ථාවරයි කිසිම සැකයක් තියා ගන්න එපා."
+
+...
+
+[Data](articles/b1dca806.json)
+
+---
 
 ### ආරක්ෂක නියෝජ්‍ය ඇමතිට එරෙහි විශ්වාසභංග යෝජනාව ගැන කථානායකගේ තීරණය අද
 
@@ -1869,35 +1897,5 @@ Three weeks ago, at least 13 people died and dozens more were missing after a bo
 ◼️
 
 [Data](articles/fe8b34fa.json)
-
----
-
-### නයිජීරියාවේ බෝට්ටු අනතුරකින් 40ක් අතුරුදන්
-
-*2025-08-18 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213493) · `si`
-
-නයිජීරියාවේ වයඹදිග සොකෝටෝ ප්‍රාන්තයේ සිදු වූ බෝට්ටු අනතුරකින් පුද්ගලයින් 40 දෙනෙකු අතුරුදන්ව තිබේ.
-
-50 දෙනෙකුට ආසන්න මගීන් පිරිසක් රැගත් බෝට්ටුවක් මෙලෙස අනතුරට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ඉන් පුද්ගලයින් 10 දෙනෙකු පමණ බේරාගෙන ඇති අතර තවත් මගීන් 40 කට වැඩි පිරිසක් තවමත් අතුරුදහන් වී ඇති බව සදහන් වේ.
-
-◼️
-
-[Data](articles/7ec728d0.json)
-
----
-
-### Trains delayed on coastal and main lines after derailment
-
-*2025-08-18 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111567/trains-delayed-on-coastal-and-main-lines-after-derailment) · `en`
-
-A train traveling from Galle to Colombo derailed this morning (18) between Maradana and Colombo Fort railway stations, causing significant delays on both the main and coastal railway lines, according to Sri Lanka Railways.
-
-The derailment involved train No. 8327, which was operating on the Galle–Maradana route.
-
-◼️
-
-[Data](articles/2d1e8a26.json)
 
 ---

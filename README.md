@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 19:14:11**
+As of **2025-08-19 19:49:16**
 
 ## Newspaper Stats
 
-*Scraped **71,226** Articles*
+*Scraped **71,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 4,998
 adalk | 6,854
 adaderanalk | 8,963
 tamilmirrorlk | 10,463
-virakesarilk | 11,798
+virakesarilk | 11,799
 adaderanasinhalalk | 12,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,226 articles have been extended.
+61,973 (87.0%) of 71,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### இந்தியா மற்றும் இலங்கை ஏற்றுமதி அமைப்புகளுக்கு இடையே புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+
+*2025-08-19 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222901) · `ta`
+
+இந்திய மற்றும் இலங்கைக்கு இடையில் இருதரப்பு பொருளாதார கூட்டாண்மையை மேம்படுத்துவதற்கும், குறிப்பாக குறுகிய, சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கு (MSME) ஆதரவளிக்கும் நோக்குடன், இந்தியா மற்றும் இலங்கையின் பல்வேறு அமைப்புகளுக்கு இடையே கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம் பேச்சுவார்த்தைகளை நடத்தி வருகிறது.
+
+அதன் ஒரு பகுதியாக, கடந்த ஜூன் இல் இந்திய ஏற்றுமதி அமைப்புகளின் கூட்டமைப்பு (FIEO) மற்றும் இலங்கை தேசிய ஏற்றுமதியாளர்கள் சம்மேளனம் (NCE) ஆகியவற்றுக்கு இடையே பேச்சுவார்த்தை நடத்தப்பட்டது.
+
+இதன் தொடர்ச்சியாக, செவ்வாய்க்கிழமை 19 ஆம் திகதி (19-08- 2025) அன்று, இந்திய ஏற்றுமதி அமைப்புகளின் கூட்டமைப்பு (FIEO) மற்றும் இலங்கை தேசிய ஏற்றுமதியாளர்கள் சம்மேளனம் (NCE) ஆகிய இரண்டும் ஒரு புரிந்துணர்வு ஒப்பந்தத்தில் (MoU) கையெழுத்திட்டன. இந்த ஒப்பந்தத்தின் நோக்கம் தகவல் பரிமாற்றம், முதலீடு மற்றும் வர்த்தகத்திற்கான கூட்டாளர்களை இணைத்தல் உட்பட புதிய ஒத்துழைப்புக்கான வாய்ப்புகளை ஆராய்வதாகும்.
+
+...
+
+[Data](articles/2c056708.json)
+
+---
 
 ### අඟුණුකොළපැලැස්සට සයිනයිඩ් ගෙනආවේ රැඳවියෙකු ඝාතනයටද ?
 
@@ -1871,21 +1887,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ...
 
 [Data](articles/a09b334d.json)
-
----
-
-### Hartal  Called by prominent Tamil party Ilankai Tamil Arasu Kadchi held in Sri Lanka’s north and east in protest of the recent killing of a Tamil youth, allegedly by the military, and the continuing military presence in Tamil-majority areas
-
-*2025-08-19 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86285) · `en`
-
-A symbolic hartal was observed on Monday [August 18, 2025] across Sri Lanka’s north and east, where a majority of the island’s Tamil-speaking people live, against militarisation that continues 16 years after the civil war ended.
-
-Many commercial and trading establishments in the Northern Province and Eastern Province remained closed during the morning hours, protesting the recent killing of 32-year-old Ethirmanasingham Kapilraj of Mullaitivu district, allegedly by military men. Sri Lanka police arrested three soldiers in connection with the incident last week.
-
-Soon after, prominent Tamil party Ilankai Tamil Arasu Kadchi (ITAK) called for a hartal and wrote to President Anura Kumara Dissanayake, demanding an “unhindered, thorough investigation” and justice for Mr. Kapilraj’s death. In the letter dated August 10, 2025, the party also sought to highlight the “oppressive conduct and excessive presence of the military” in the north and east.
-
-...
-
-[Data](articles/4ae8b76f.json)
 
 ---

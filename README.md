@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 11:51:53**
+As of **2025-08-19 12:08:37**
 
 ## Newspaper Stats
 
-*Scraped **71,170** Articles*
+*Scraped **71,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 6,854
 adaderanalk | 8,944
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
-adaderanasinhalalk | 12,292
+adaderanasinhalalk | 12,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,170 articles have been extended.
+61,973 (87.1%) of 71,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### පොහොර සහනාධාරයටත් QR එයි
+
+*2025-08-19 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213541) · `si`
+
+ගොවීන් සඳහා පොහොර සහනාධාරය ඩිජිටල් ක්‍රමවේදය ඔස්සේ ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව රජය මඟින් ගොවීන් වෙත පොහොර සහනාධාර ලබාදීමේ දී එම සහනාධාරය නිසි වේලාවට ලැබෙන බව සහ එම මුල්‍යාධාරය ඔවුන් විසින් සිය ගොවිතැන් කටයුතු සඳහා වන පොහොර අවශ්‍යතාව සඳහා සම්පූර්ණ වශයෙන් යොදා ගන්නා බව සහතික කරගැනීමේ අවශ්‍යතාව මතුව ඇතැයි රජය පවසයි.
+
+ඒ අනුව ගොවි ජනතාවට පොහොර ලබාදීම වඩාත් විධිමත්ව සහ කාර්යක්ෂව සිදුකිරීම සඳහා QR කේතය හෝ සුදුසු ඩිජිටල් ක්‍රමවේදයක් යොදාගැනීමේ යෝග්‍යතාවය හඳුනාගෙන ඇත.
+
+ඒ අනුව පොහොර සහනාධාර වැඩසටහන සඳහා සුදුසුකම් ලබන සියලු ගොවීන් කෘෂිකර්ම විෂය භාර අමාත්‍යාංශය යටතේ සිටින ප්‍රාදේශීය නිලධාරීන් මඟින් හඳුනාගැනීමටත්, එසේ සුදුසුකම් ලබන ගොවි ජනතාව වෙත පොහොර සහනාධාරය ලබාදීම සඳහා QR ක්‍රමවේදය හෝ සුදුසු ඩිජිටල් යාන්ත්‍රණයක් සැකසීමටත් ජනාධිපතිවරයා, කෘෂිකර්ම, පශු සම්පත්  ඉඩම් සහ වාරිමාර්ග අමාත්‍යවරයා විසින් ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/389d06b7.json)
+
+---
+
+### කැබිනට් තීරණ මෙතැනින්
+
+*2025-08-19 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213540) · `si`
+
+කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ආරම්භ වී තිබේ.
+
+ඒ කැබිනට් මාධ්‍ය ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙනි.
+
+◼️
+
+[Data](articles/97444ac2.json)
+
+---
 
 ### ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය
 
@@ -1883,43 +1915,5 @@ With the upcoming tourist season, the Ministry said the Airport and Aviation Aut
 ◼️
 
 [Data](articles/757fb5e7.json)
-
----
-
-### වරෙන්තු අත්හිටුවන්නැයි ඉල්ලා රාජිතගෙන් මෝසමක්
-
-*2025-08-18 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213506) · `si`
-
-අල්ලස් කොමිසම විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව තමන්ව අත් අඩංගුවට ගැනීම සඳහා නිකුත් කර ඇති වරෙන්තුව තාවකාලිකව අත්හිටුවන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට මෝසමක් ඉදිරිපත් කර තිබේ.
-
-එම මෝසම අද (18) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලි ජයතුංග මහත්මිය හමුවේ කැඳවනු ලැබීය.
-
-එය කරුණු තහවුරු කිරීම සඳහා විවෘත අධිකරණයේදී කැඳවූ අවස්ථාවේදී මහෙස්ත්‍රාත්වරිය සඳහන් කළේ, අදාළ මෝසම සම්බන්ධයෙන් පැමිණිලිකාර අල්ලස් කොමිසම අධිකරණයේ පෙනී සිටින අවස්ථාවක එම ඉල්ලීම සිදුකරන ලෙසය.
-
-ඒ අනුව අදාළ මෝසමින් ඉල්ලා සිටින කරුණට අදාළව අධිකරණය නියෝගයක් නිකුත් කළේ නැත.
-
-◼️
-
-[Data](articles/ca221bed.json)
-
----
-
-### Sri Lanka’s Vidullanka commissions 2MW power plant
-
-*2025-08-18 14:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-commissions-2mw-power-plant-237037/) · `en`
-
-ECONOMYNEXT – Sri Lanka renewable energy firm Vidullanka has commissioned its 2MW Horana solar power project – phase II, the company said in a stock exchange filing.
-
-The plant is expected to generate 3.6 GWh of clean energy and supply to the national grid.
-
-The project was implemented through Vidul Solar Power (Pvt) Limited, a fully owned subsidiary.
-
-Vidullanka voting shares were trading flat at 14.70, non-voting shares flat at 13.00.
-
-The company has seen its outlook improve following the government’s decision to market price electricity and a commitment to grow the share of renewables in the grid to 70%. (Colombo/Aug18/2025)
-
-◼️
-
-[Data](articles/e5c3494d.json)
 
 ---

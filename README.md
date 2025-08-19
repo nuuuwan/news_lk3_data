@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 22:48:37**
+As of **2025-08-19 23:06:44**
 
 ## Newspaper Stats
 
-*Scraped **71,234** Articles*
+*Scraped **71,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,379
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,965
+adaderanalk | 8,966
 tamilmirrorlk | 10,463
 virakesarilk | 11,801
 adaderanasinhalalk | 12,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,234 articles have been extended.
+61,973 (87.0%) of 71,235 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4236a2ab.json)
+
+---
+
+### Sri Lanka needs new narrative on youth, says PM Harini
+
+*2025-08-19 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111650/sri-lanka-needs-new-narrative-on-youth-says-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya said that, for the first time in Sri Lanka’s history, women’s representation in the Youth Club National Youth Conference has increased, and she emphasized that the country needs a new narrative about youth.
+
+The Prime Minister made these remarks while participating in a special meeting and open discussion organized by the Parliamentary Caucus for Youth, held today (August 19) at the Parliament, the Prime Minister’s Media Division said.
+
+The event was organized to coincide with International Youth Day, which fell on August 12.
+
+She further pointed out that women’s representation in the Youth Parliament had been very low in the past, but this year it has improved. She added that the same transformation that has taken place in Parliament is now emerging across all sectors in the country.
+
+Extending her best wishes to the newly appointed members of the Parliamentary Caucus for Youth, the Prime Minister stated:
+
+...
+
+[Data](articles/c835ab05.json)
 
 ---
 
@@ -1875,23 +1895,5 @@ Following the incident, the suspect and his wife were arrested yesterday (17) by
 ◼️
 
 [Data](articles/d5ced4c4.json)
-
----
-
-### ‘Quazi court’ judge and wife arrested in Kalmunai for soliciting bribe
-
-*2025-08-19 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111608/quazi-court-judge-and-wife-arrested-in-kalmunai-for-soliciting-bribe-) · `en`
-
-A ‘Quazi court’ judge in Kalmunai and his wife have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on allegations of soliciting a bribe.
-
-The suspect was taken into custody at his office located in Maruthamunai, Kalmunai in the Ampara District.
-
-Last month, the aggrieved party lodged a complaint with the Bribery Commission, stating that the suspect had demanded a bribe in order to resolve a legal matter.
-
-Following the incident, the suspect and his wife were arrested yesterday (17) by the Bribery Commission on charges of accepting a bribe.
-
-◼️
-
-[Data](articles/e868cc14.json)
 
 ---

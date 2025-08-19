@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 14:35:43**
+As of **2025-08-19 14:49:41**
 
 ## Newspaper Stats
 
-*Scraped **71,191** Articles*
+*Scraped **71,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 605
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,348
-islandlk | 4,376
+islandlk | 4,378
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,191 articles have been extended.
+61,973 (87.0%) of 71,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -37,6 +37,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-08-19 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213548) · `si`
 
 අල්ලස් කොමිසම මගින් අත්අඩංගුවට  ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
+
+ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපළ 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පත්වීමෙන් පසු එකී දේපළ සඳහා වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබියදී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ ඇතැම් රජයේ නිලධාරින්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදු කර රුපියල් 8,850,000/-ක් වන්දි ලබා ගැනීම තුළින් "දූෂණය" නමැති වරද සිදුකිරීම සහ මහවැලි අධිකාරිය සතු දේපොළක් සාපරාධී සාවද්‍ය පරිහරණය තුළින් පොදු දේපළ  පනත යටතේ වරදක් සිදුකළේ යැයි සැකපිට මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
 
 ◼️
 
@@ -1350,6 +1354,32 @@ The “Invest Sri Lanka” Investor Forum, organised by the Colombo Stock Exchan
 
 ---
 
+### Rhino launches ‘Rhino Premier’: a game-changer in roofing innovation
+
+*2025-08-18 23:33:00* · [`islandlk`](http://island.lk/rhino-launches-rhino-premier-a-game-changer-in-roofing-innovation/) · `en`
+
+Rhino Roofing, Sri Lanka’s most trusted name in roofing and ceiling sheets, unveiled its latest innovation, ‘Rhino Premier Roofing Sheets’, at a grand launch ceremony that took place on 15th August 2025 at the Cumulus Ballroom, Cinnamon Life, Colombo.
+
+Bringing together leading architects, developers, contractors, members of Chamber of Construction Industry and Chartered Institute of Building, and Rhino’s network of authorized dealers, the event marked a significant milestone in the brand’s continued journey of innovation.
+
+...
+
+[Data](articles/9779e935.json)
+
+---
+
+### Dialog Introduces Unlimited Speed-Based Fibre Plans for Seamless Internet Access
+
+*2025-08-18 23:33:00* · [`islandlk`](http://island.lk/dialog-introduces-unlimited-speed-based-fibre-plans-for-seamless-internet-access/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, introduces truly unlimited, speed-based broadband packages with no Fair Usage Policy (FUP) restrictions, underscoring its commitment to delivering seamless digital experiences and empowering customers with unrestricted internet access through its advanced Dialog Fibre network.
+
+...
+
+[Data](articles/f54064ad.json)
+
+---
+
 ### Low bank interest rates sustain bullish surge at CSE
 
 *2025-08-18 23:32:00* · [`islandlk`](http://island.lk/low-bank-interest-rates-sustain-bullish-surge-at-cse/) · `en`
@@ -1825,43 +1855,5 @@ The Fortune’s report, citing some U.S. economists, expressed skepticism over t
 ◼️
 
 [Data](articles/e6e8fde5.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields edge up
-
-*2025-08-18 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-237126/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.25/40 to the US dollar in the spot market Monday, weaker from 300.90/301.05 Friday, while bond yields edged up, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
-
-A bond maturing on 15.12.2028 closed at 8.90/9.00 percent, up from 8.90/95 percent.
-
-A bond maturing on 15.12.2029 closed at 9.43/46 percent, up from 9.42/45 percent.
-
-A bond maturing on 15.12.2032 closed at 10.22/25 percent, down from 10.18/22 percent. (Colombo/Aug18/2025)
-
-◼️
-
-[Data](articles/fba176b1.json)
-
----
-
-### Two more petitions filed challenging bill to revoke privileges of former Presidents
-
-*2025-08-18 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111595/two-more-petitions-filed-challenging-bill-to-revoke-privileges-of-former-presidents) · `en`
-
-Two more petitions have been filed before the Supreme Court challenging the bill presented in Parliament by the government to revoke the privileges of former Presidents, according to Ada Derana reporter.
-
-The petitions were filed by two individuals from Veyangoda and Pannipitiya. The Attorney General has been named as the respondent in both cases.
-
-The petitioners argue that Clauses 1 to 4 of the proposed bill violate the doctrine of separation of powers, which is guaranteed by the Constitution of Sri Lanka. They also claim that several provisions of the bill undermine the sovereignty of the people and the independence guaranteed under the Constitution.
-
-They further state that, taken as a whole, the bill infringes upon fundamental constitutional principles, and violates Articles 1, 3, 4, and 12(1) of the Constitution, including the fundamental rights of individuals.
-
-...
-
-[Data](articles/aab408e1.json)
 
 ---

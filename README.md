@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 14:25:05**
+As of **2025-08-19 14:35:43**
 
 ## Newspaper Stats
 
-*Scraped **71,190** Articles*
+*Scraped **71,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 6,854
 adaderanalk | 8,952
 tamilmirrorlk | 10,463
 virakesarilk | 11,794
-adaderanasinhalalk | 12,300
+adaderanasinhalalk | 12,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,190 articles have been extended.
+61,973 (87.1%) of 71,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
+
+*2025-08-19 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213548) · `si`
+
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට  ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+◼️
+
+[Data](articles/755cb9b5.json)
+
+---
 
 ### ගම්පහ ප්‍රදේශයේ අපරාධකරුවන් පිරිසක් අවි ආයුධ සමග අත්අඩංගුවට
 
@@ -1851,23 +1863,5 @@ They further state that, taken as a whole, the bill infringes upon fundamental c
 ...
 
 [Data](articles/aab408e1.json)
-
----
-
-### තුසිත හල්ලොලුව අත්අඩංගුවට ගැනීමට වරෙන්තු
-
-*2025-08-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213512) · `si`
-
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා අත්අඩංගුවට ගන්නා ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (18) වරෙන්තු නිකුත් කළේය.
-
-කොළඹ අපරාධ කොට්ඨාශය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා විසින් මෙම වරෙන්තුව නිකුත් කරනු ලැබීය.
-
-මෑතකදී නාරාහේන්පිට ප්‍රදේශයේදී තුසිත හල්ලොලුව මහතාගේ වාහනයට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විසින් විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-එම විමර්ශනය සම්බන්ධයෙන් පොලිසිය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මහෙස්ත්‍රාත්වරයා මෙම වරෙන්තුව නිකුත් කළේය.
-
-◼️
-
-[Data](articles/7da31853.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 12:49:51**
+As of **2025-08-19 13:07:05**
 
 ## Newspaper Stats
 
-*Scraped **71,174** Articles*
+*Scraped **71,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,945
+adaderanalk | 8,949
 tamilmirrorlk | 10,463
-virakesarilk | 11,790
-adaderanasinhalalk | 12,295
+virakesarilk | 11,793
+adaderanasinhalalk | 12,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,174 articles have been extended.
+61,973 (87.1%) of 71,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### Govt mulls using QR code to disburse fertilizer subsidies to farmers
+
+*2025-08-19 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111632/govt-mulls-using-qr-code-to-disburse-fertilizer-subsidies-to-farmers) · `en`
+
+The Cabinet of Ministers has granted approval to a proposal to implement the fertilizer subsidy program for farmers through a digital system.
+
+Accordingly, the government has identified the need to ensure that the subsidy reaches farmers on time and that the financial support is fully utilized for purchasing fertilizer required for their agricultural activities.
+
+In order to facilitate a more streamlined and efficient process of distributing fertilizer to farmers, the use of QR codes or a suitable digital method has been recognized as necessary.
+
+Under this plan, all eligible farmers will be identified by local officials under the Ministry of Agriculture. Fertilizer subsidies will then be provided using a QR-based system or another appropriate digital platform, said Cabinet Spokesman Dr. Nalinda Jayatissa.
+
+Accordingly, Cabinet approval has been granted for the integrated proposal submitted by the President and the Minister of Agriculture, Livestock, Lands, and Irrigation.
+
+◼️
+
+[Data](articles/9b8e485d.json)
+
+---
+
+### අලිමංකඩ  උතුර ලුණු ලේවාය නැවත වැඩ අරඹයි
+
+*2025-08-19 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213543) · `si`
+
+උතුරු හා නැගෙනහිර පළාත්වල පැවති යුදමය වාතාවරණය හේතුවෙන් නැවතී තිබූ කුරුන්චතිවු (අලිමංකඩ - උතුර) ලුණු ලේවාය නැවත ආරම්භ කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+මේ වනවිට එහි නිෂ්පාදන හා මෙහෙයුම් කටයුතු රාජ්‍ය හා පෞද්ගලික හවුල්කාරීත්ව ක්‍රමය යටතේ ආරම්භ කිරීම සඳහා දේශීය ආයෝජකයින් වෙතින් අභිලාශ ප්‍රකාශ කිරීම් කැඳවීමට පියවර ගෙන ඇතත් එමඟින් අපේක්ෂිත ප්‍රතිඵල අත්පත් කරගැනීමට නොහැකි වී තිබේ.
+
+ඒ හේතුවෙන් අලිමංකඩ උතුර ලුණු ලේවායේ නිෂ්පාදන කටයුතු රාජ්‍ය - පෞද්ගලික හවුල්කාරීත්ව ක්‍රමය යටතේ නැවත ආරම්භ කිරීමට ජාත්‍යන්තර වශයෙන් අභිලාශ ප්‍රකාශ කැඳවීම සඳහා කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/430448ab.json)
+
+---
+
+### Former Deputy Director of Prison Hospital further remanded
+
+*2025-08-19 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111631/former-deputy-director-of-prison-hospital-further-remanded) · `en`
+
+Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe who was arrested on bribery charges, has been further remanded until August 26, Ada Derana reporter said.
+
+Colombo Chief Magistrate Thanuja Lakmali Jayatunga issued the order after considering the facts presented by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the defense lawyers.
+
+Dr. Hemantha Ranasinghe was arrested on August 13 in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
+
+After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, a sum of Rs. 300,000 was reportedly accepted as a bribe.
+
+◼️
+
+[Data](articles/a848fd54.json)
+
+---
+
+### இலங்கையின் சுற்றுலாத்துறைக்கு பேராபத்தா..? ; ஏ.ஐ வீடியோவால் வந்த வினை
+
+*2025-08-19 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222852) · `ta`
+
+கொரோனா தொற்று, பொருளாதார நெருக்கடி என பல பேரிடிகளை சந்தித்து அதள பாதாளத்தில் விழுந்த இலங்கை, தற்போது மெல்ல மெல்ல உயிர்பெற்று வருகின்றது.
+
+◼️
+
+[Data](articles/5a524508.json)
+
+---
+
+### Video showing Sri Lankan worker moved by forklift prompts action from South Korea police
+
+*2025-08-19 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111629/video-showing-sri-lankan-worker-moved-by-forklift-prompts-action-from-south-korea-police) · `en`
+
+South Korean police will launch a 100-day special crackdown on abuses against migrant workers, the Korean National Police Agency has said.
+
+Each of the nation’s 18 regional police agencies has formed a special unit that will operate through Nov. 25 to investigate cases of violence, assault, confinement, coercion, humiliation, sexual abuse and labor exploitation targeting foreign workers.
+
+The initiative follows nationwide outrage over a video showing a Sri Lankan worker being strapped to a forklift and lifted off the ground.
+
+The incident occurred in February at a brick factory in Naju, South Jeolla Province, where the Sri Lankan, who had been working there for just three months, was allegedly harassed by a Korean forklift driver in his 50s after making mistakes on the job.
+
+The 31-year-old Sri Lankan worker suffered the mistreatment for about five minutes as a punishment imposed by the South Korean forklift driver.
+
+...
+
+[Data](articles/7d9e96c2.json)
+
+---
+
+### மியன்மாரில் தேர்தல் திகதி அறிவிப்பு
+
+*2025-08-19 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222855) · `ta`
+
+மியன்மாரில் ஜனநாயக முறையில் தேர்ந்தெடுக்கப்பட்ட அரசாங்கத்தை கவிழ்த்து விட்டு 2021 ஆம் ஆண்டு இராணுவம் ஆட்சியைக் கைப்பற்றியது.
+
+இதனையடுத்து ஆங் சான் சூகி உள்ளிட்ட ஆளுங்கட்சி தலைவர்களை கைது செய்து வீட்டுச் சிறையில் அடைத்தனர். இதற்கு நாடு முழுவதும் எதிர்ப்புகள் கிளம்பின.
+
+கடந்த 4 ஆண்டுகளாக இந்த போராட்டம் நடந்து வரும் நிலையில் தேர்தலை நடத்துவதற்கான சூழல் தற்போது உருவாகி உள்ளது. அதன்படி எதிர்வரும் டிசம்பர் மாதம் 28 ஆம் திகதி முதல் பல கட்டங்களாக தேர்தல் நடத்தப்படும் என இராணுவ ஆட்சித் தலைவர் மின் ஆங் ஹ்லைங் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/274228a3.json)
+
+---
 
 ### නිවාස පහසුකම් සඳහා මූල්‍යාධාර හිමිවන පිරිස මෙන්න
 
@@ -47,6 +149,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5f769661.json)
+
+---
+
+### Two businessmen held at BIA with smuggled cigarettes
+
+*2025-08-19 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111628/two-businessmen-held-at-bia-with-smuggled-cigarettes) · `en`
+
+Two persons have been arrested at the Bandaranaike International Airport (BIA) in Katunayake earlier today (19), while attempting to smuggle foreign-made cigarettes worth Rs. 5.94 million into the country.
+
+The duo was arrested with the large consignment of foreign-made cigarettes by the Police Narcotics Bureau (PNB) officers.
+
+They had purchased the stock of cigarettes in Dubai and travelled to Sri Lanka onboard a flight from Kuwait.
+
+The arrested duo has been identified as businessmen from Trincomalee aged 33 and 45 years.
+
+They were in possession of 198 cartons containing 39,600 cigarettes at the time of the arrest.
+
+The suspects and the smuggled cigarettes are to be produced before the Negombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/fc75e6a4.json)
+
+---
+
+### இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலத்தை சான்றுரைப்படுத்தினார் சபாநாயகர்
+
+*2025-08-19 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/222850) · `ta`
+
+இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலத்தில் தனது கையொப்பத்தையிட்டு சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்ன திங்கட்கிழமை (18) சான்றுரைப்படுத்தினார். கடந்த 06ஆம் திகதி இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டது.
+
+இதற்கு அமைய இலங்கை மின்சாரம் (திருத்தச்) சட்டமூலம் 2025ஆம் ஆண்டின் 14ஆம் இலக்க இலங்கை மின்சாரம் (திருத்தச்) சட்டமாக அமுலுக்கு வருகின்றது.
+
+இதன் ஊடாக, தேசிய மின்சார மதியுரைப் பேரவைக்குப் பதிலாக மின்வலு மீதான தேசியக் கொள்கையின் பாகமொன்றாக தேசிய மின்சாரக் கொள்கையைத் தயாரிப்பதற்கான ஏற்பாடுகளுக்கு இடமளிக்கின்றது. மேலும், தொடர்ச்சியான விநியோகம், வினைத்திறனான மற்றும் செலவுச் சிக்கனமான மின்சார விநியோகம், பச்சைவீட்டு வாயுவின் வெளியேற்றத்தைக் குறைத்தல் மற்றும் புதுப்பிக்கத்தக்க வலுசக்தியை ஊக்குவித்தல் போன்றவற்றை நோக்காகக் கொண்டு “மொத்தவிற்பனை மின்சாரச் சந்தை” என்பது “தேசிய மின்சாரச் சந்தை” என்று மாற்றப்படுகின்றது.
+
+◼️
+
+[Data](articles/a6b29eb7.json)
 
 ---
 
@@ -1749,169 +1889,5 @@ ECONMYNEXT – Sri Lanka’s tourist arrivals had reached 1.5 million by the aft
 ◼️
 
 [Data](articles/cca1e689.json)
-
----
-
-### Sri Lanka stocks surge 1.25-pct, led by banks
-
-*2025-08-18 15:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-surge-1-25-pct-led-by-banks-237045/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) continued to trade higher surpassing the 20,400 mark on Monday, data showed.
-
-“Market was very positive today. Investor interest in the banking sector was seen. Almost all the banks went up,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
-
-The ASPI rose 1.25 percent, or 252.16 points higher from Friday to close at 20,470.52; the S&P SL20 index climbed 1.76 percent, or 103.60 points, to close at 5,998.44.
-
-“Banking sector rose on positive quarterly results,” Ranatunga said. “Interest was also seen in retail and high net worth shares.”
-
-The ASPI was pushed higher on Commercial Bank which ended 7.75 rupees stronger at 189; Carson Cumberbatch which rose 105.50 rupees to 746; Melstacorp which ended 5 rupees up at 165; John Keells Holdings which moved 50 cents up to 23.50 rupees; and DFCC Bank which closed 5.75 rupees higher at 166.
-
-...
-
-[Data](articles/7d18aa3f.json)
-
----
-
-### පළමු මාස හය තුළ ගුවන් තොටුපොළ සහ ගුවන් සේවා මෙහෙයුම් ලාභයේ වර්ධනයක්
-
-*2025-08-18 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213509) · `si`
-
-ශ්‍රී ලංකා ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගම පළමු මාස 06 තුළ මෙහෙයුම් ලාභයේ 78%ක වර්ධනයක් පෙන්නුම් කර ඇතැයි ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය පැවසුවේ පසුගිය වසරට සාපේක්ෂව මෙම වසරේ පළමු මාස 6 තුළ මෙම වර්ධනය පෙන්නුම් කර ඇති බවය.
-
-ඒ අනුව පසුගිය වසරේ පළමු මාස 06 තුළ මෙහෙයුම් ලාභය ලෙස රුපියල් මිලියන 9,049ක් සටහන් වී ඇති අතර 2025 පළමු මාස 06 තුළ මෙහෙයුම් ලාභය රුපියල් 16,133ක් ලෙස සටහන් වී තිබේ.
-
-එමෙන්ම පසුගිය 2024 වසරට සාපේක්ෂව  2025 වසරේ ගුවන්ගමන් වාර 16%ක වර්ධනයක් පෙන්නුම් කර ඇතැයිද එම අමාත්‍යාංශය පවසයි.
-
-ජාත්‍යන්තර ගුවන්ගමන් වාරවල 17%ක වර්ධනයක් පෙන්නුම් කර ඇති අතර දේශීය ගුවන්ගමන් වාරවලද 10%ක වර්ධනයක් පෙන්නුම් කර ඇත.
-
-අමාත්‍යාංශය පැවසුවේ ජාත්‍යන්තර ගුවන්ගමන් වාරවල වැඩිම අගය පසුගිය මාර්තු මාසයේදී පෙන්නුම් කර ඇති අතර එය 2024 වසරේ මාර්තු මාසයට සාපේක්ෂව 22%ක වර්ධනයක් වන බවය.
-
-තවද දේශීය ගුවන්ගමන් වාරවල වර්ධනයේ වැඩිම අගය ජුනි මාසයේදී පෙන්නුම් කර ඇති අතර එය 2024 වසරට සාපේක්ෂව 38%ක වර්ධනයකි.
-
-◼️
-
-[Data](articles/c44929a6.json)
-
----
-
-### Arrest warrant issued for former NLB Director Thusitha Halloluwa
-
-*2025-08-18 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111590/arrest-warrant-issued-for-former-nlb-director-thusitha-halloluwa) · `en`
-
-The Colombo Magistrate’s Court has issued a warrant for the arrest of Thusitha Halloluwa, the former Director of the National Lotteries Board (NLB), said Ada Derana reporter.
-
-Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by the Colombo Crimes Division (CCD).
-
-The CCD is currently investigating the recent shooting incident involving Halloluwa’s vehicle in Narahenpita.
-
-Accordingly, the warrant was issued following a request made by the police in connection with the ongoing inquiry.
-
-◼️
-
-[Data](articles/932cfa35.json)
-
----
-
-### සංචාරක පැමිණීම ලක්ෂ 15 පනී
-
-*2025-08-18 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213508) · `si`
-
-2025 වසරේ මේ දක්වා මෙරටට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව ලක්ෂ 15 සීමාව ඉක්මවා ගොස් තිබේ.
-
-විදේශ කටයුතු අමාත්‍යාංශය සඳහන් විසින් නිකුත්කරන ලද සංඛ්‍යා ලේඛනවලට අනුව මේ දක්වා 1,500,656ක විදෙස් සංචාරකයින් සංඛ්‍යාවක් ශ්‍රී ලංකාවට පැමිණ ඇත.
-
-මීට අමතරව අගෝස්තු මාසයේ පළමු දින 18 තුළ පමණක් සංචාරකයන් 132,368 ඉක්මවා මෙරටට පැමිණ ඇති බව සඳහන්ය.
-
-අගෝස්තු මාසයේ පැමිණි සංචාරකයින් අතර පිළිවෙලින් ඉන්දීය, බ්‍රිතාන්‍යය, රුසියානු, ජර්මන් සහ චීන ජාතිකයින් ඉදිරියෙන් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි
-
-◼️
-
-[Data](articles/abc42175.json)
-
----
-
-### EV පරදා Hybrid වාහන ඉල්ලුම ඉහළට
-
-*2025-08-18 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213507) · `si`
-
-ගෝලීය විද්‍යුත් වාහන තරගයේදී සියල්ලන් අභිබවා පෙරට පැමිණ සිටින චීනය දැන් මුළුමනින්ම විද්‍යුත් බලයෙන් ක්‍රියාකරන EV වෙනුවට විදුලිය සහ ඉන්ධන යන දෙආකාරයෙන්ම ක්‍රියාකළ හැකි Hybrid වාහන වෙත වැඩි නැඹුරුවක් දක්වන බව වාර්තා වෙයි.
-
-2024ට සාපේක්ෂව 2025 වසරේ මුල් අර්ධයේදී චීනයේ බැටරි සහ ඉන්ධන භාවිත කරන Hybrid වාහන අපනයනය 210% දක්වා තුන්ගුණයකින් ඉහළ ගොස් තිබේ.
-
-එහිදී බැටරි පමණක් අඩංගු EV අලෙවිය ඉහළ ගොස් තිබෙන්නේ 40%කින්ය.
-
-චීනයේ මේ Hybrid වාහන වැඩි වශයෙන්ම මිලදී ගෙන තිබෙන්නේ යුරෝපීය වෙළෙඳපොළය.
-
-එහිදී යුරෝපයට ආනයනය කරන බැටරි පමණක් අඩංගු සම්පූර්ණයෙන් විද්‍යුත් බලයෙන් ක්‍රියාකරන වාහන සංඛ්‍යාව 2%කින් පමණ පහත වැටීමද විශේෂත්වයකි.
-
-චීන EV නැත්නම් විද්‍යුත් වාහන සඳහා යුරෝපා රටවල් මේ විදියට වැඩි වශයෙන් යොමුවන්නේ 2035 වනවිට වායු දූෂණය ශුන්‍ය කිරීමේ ඉලක්කය කරා ළඟාවීම ගැටලුකාරීව තිබියදීය.
-
-වාර්ෂිකව විද්‍යුත් වාහන මිලියන 11ක් පමණ එ නම් ගෝලීය EV වෙළෙඳපොළෙන් අඩක් පමණ නිපදවන චීනයේ මෙම ප්‍රවණතාව ලබාදෙන පණිවිඩයක් තිබේ.
-
-එහෙත් ලෝකය තවමත් ඉන්ධන දහන එන්ජින් මුළුමනින්ම අතහැර දැමීමට සූදානම් නැත.
-
-...
-
-[Data](articles/4dec2fd0.json)
-
----
-
-### Tourist arrivals to Sri Lanka surpass 1.5 million in 2025
-
-*2025-08-18 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111589/tourist-arrivals-to-sri-lanka-surpass-15-million-in-2025) · `en`
-
-The number of tourists who have arrived in Sri Lanka so far this year has exceeded the 1.5 million mark, according to Minister of Tourism Vijitha Herath.
-
-A total of 1,500,656 tourists visited Sri Lanka as of 3:00 p.m. today (18), the Sri Lanka Tourism Development Authority (SLTDA) data shows.
-
-The SLTDA added that a total of 132,368 foreign nationals entered Sri Lanka in the month of August.
-
-According to latest SLTDA figures, the highest number of tourists have arrived from India which totals to nearly 300,000.
-
-Furthermore, more 100,000 visitors have arrived from both the United Kingdom and Russia in 2025.
-
-◼️
-
-[Data](articles/322ef78b.json)
-
----
-
-### Hartal called by ITAK a resounding success, Shanakiyan says
-
-*2025-08-18 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111588/hartal-called-by-itak-a-resounding-success-shanakiyan-says-) · `en`
-
-The hartal called by the Ilankai Tamil Arasu Kachchi (ITAK) in the Northern and Eastern Provinces, was a resounding success, according to Member of Parliament Shanakiyan Rasamanickam.
-
-MP Rasamanickam confirmed that they decided to end the hartal campaign at noon today (18), following assurances given by the Cabinet Spokesman Dr. Nalinda Jayatissa.
-
-The Parliamentarian claimed that following yesterday’s press briefing by the Cabinet Spokesperson, and based on assurances given regarding the investigation and steps being taken towards the removal of army camps in the North and East, they decided to conclude the protest at noon.
-
-Meanwhile, MP Shanakiyan Rasamanickam. also condemn the actions of members of the National People’s Power in the Northern and Eastern Provinces who have reportedly threatened shop owners to keep their businesses open or face legal consequences.
-
-Such intimidation is a clear violation of the people’s democratic right to protest, the Parliamentarian added.
-
-...
-
-[Data](articles/e20840b4.json)
-
----
-
-### Rajitha Senaratne files motion requesting temporarily suspension of arrest warrant
-
-*2025-08-18 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111587/rajitha-senaratne-files-motion-requesting-temporarily-suspension-of-arrest-warrant) · `en`
-
-Former Minister Rajitha Senaratne has filed a motion before the Colombo Magistrate’s Court, seeking a temporary suspension of the warrant issued for his arrest in connection with an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The motion was taken up before Colombo Chief Magistrate Thanuja Lakmali Jayatunga today (18).
-
-However, the Chief Magistrate noted that such a request can only be considered when the Bribery Commission, the complainant in the case, appears in court.
-
-Accordingly, the court did not issue any order regarding Senaratne’s request.
-
-◼️
-
-[Data](articles/41914516.json)
 
 ---

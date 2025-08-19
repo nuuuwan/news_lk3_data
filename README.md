@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 11:31:53**
+As of **2025-08-19 11:51:53**
 
 ## Newspaper Stats
 
-*Scraped **71,167** Articles*
+*Scraped **71,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 605
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,347
+economynextcom | 4,348
 islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -20,17 +20,81 @@ adalk | 6,854
 adaderanalk | 8,944
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
-adaderanasinhalalk | 12,290
+adaderanasinhalalk | 12,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,167 articles have been extended.
+61,973 (87.1%) of 71,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය
+
+*2025-08-19 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213539) · `si`
+
+ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා ඊයේ (18) සිය සහතිකය සටහන් කළේය.
+
+ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත අගෝස්තු මස 06 වන දින පාර්ලිමේන්තුවේදී සම්මත විය.
+
+ඒ අනුව, මෙම ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත 2025 අංක 14 දරන ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත ලෙස බලාත්මක වනු ඇත.
+
+බලශක්තිය පිළිබඳ ජාතික ප්‍රතිපත්තියේ කොටසක් ලෙස ජාතික විදුලිබල ප්‍රතිපත්තිය සකස් කිරීමට විධිවිධාන සැලැස්වීම මෙම පනතේ අරමුණ වේ.
+
+මෙම පනත මඟින් "ජාතික විදුලිබල උපදේශක සභාව" වෙනුවට "බලශක්තිය පිළිබඳ ජාතික ප්‍රතිපත්තියේ කොටසක් ලෙස ජාතික විදුලිබල ප්‍රතිපත්තිය" සකස් කිරීමට විධිවිධාන සලසයි.
+
+එමෙන්ම, "තොග විදුලිබල වෙළෙඳපොළ" යන්න "ජාතික විදුලිබල වෙළෙඳපොළ" ලෙස වෙනස් කර ඇති අතර, කාර්යක්ෂම සහ පිරිමැසුම්දායක විදුලිබල සැපයුමක් අඛණ්ඩව පවත්වාගෙන යාම, හරිතාගාර වායු විමෝචනය අවම කිරීම සහ පුනර්ජණනීය බලශක්තිය ප්‍රවර්ධනය කිරීම මෙම පනතේ ප්‍රධාන අරමුණු වේ.
+
+◼️
+
+[Data](articles/1c1efdf4.json)
+
+---
+
+### Rising risks to Indian corporates from higher US tariffs: Fitch Ratings
+
+*2025-08-19 11:30:00* · [`economynextcom`](https://economynext.com/rising-risks-to-indian-corporates-from-higher-us-tariffs-fitch-ratings-237260/) · `en`
+
+Fitch Ratings believes India-based corporates generally have low direct exposure to US tariffs, but sectors that are currently unaffected, including pharmaceuticals, could be hit by further US tariff announcements.
+
+The risk of second-order effects from existing tariffs is also rising. A US-India trade deal, if secured, would reduce these risks.
+
+The US imposed 25% “reciprocal” tariffs on India with effect from 7 August 2025 and an additional 25% levy in connection with its oil imports from Russia, effective 27 August.
+
+...
+
+[Data](articles/991db8f5.json)
+
+---
+
+### චීන - ඉන්දියා මිත්‍රත්වය අලුත් වෙයි‍
+
+*2025-08-19 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213538) · `si`
+
+මෙම මස අවසානයේ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා එක් වීමට නියමිත චීන සංචාරයත් සමග චීන-ඉන්දීය සබඳතා යළි ශක්තිමත් වීමේ ප්‍රවණතාවක් පවතී.
+
+එවන් මොහොතක චීන විදේශ අමාත්‍ය වැන්ග් යී මහතා ඉන්දියාවේ සංචාරයකට එක් වීමත් විශේෂත්වයකි.
+
+එහිදී ඉන්දීය විදේශ අමාත්‍ය එස්. ජයිශංකර් මහතා සමග පැවති සාකච්ඡාවට ද වැඩි අවධානයක් යොමු විය.
+
+එම සාකච්ඡාවේදී චීන-ඉන්දියා ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට දෙපාර්ශ්වය එකඟත්වය පළ කර ඇත.
+
+එම ද්විපාර්ශ්වික සාකච්ඡාවේදී වැන්ග් යී මහතා පැවසුවේ දෙරට නායකයින්ගේ වැදගත් එකඟතා ක්‍රියාත්මක කරමින් සියලුම මට්ටමේ සංවාද මෙන්ම හුවමාරු සබඳතා ක්‍රමයෙන් යළි ආරම්භ කිරීමට අපේක්ෂා කරන බවය.
+
+එමෙන්ම දේශසීමා ප්‍රදේශවල සාමය පවත්වා ගනිමින් ඉන්දියානු බැතිමතුන්ට චීනයේ Xizang ජාතික ස්වායත්තයේ පූජනීය ස්ථාන වන්දනා ගමන් යළි ඇරඹීමට සහයෝගය ලබා දෙන බව ද හෙතෙම සඳහන් කළේය.
+
+මේ වනවි‍ට චීන-ඉන්දියා සබඳතා ශක්තිමත් වෙමින් ධනාත්මක ප්‍රවණතාවක් පෙන්නුම් කරමින් තිබේ.
+
+එමෙන්ම මෙම වසර චීනය සහ ඉන්දියාව අතර රාජ්‍යතාන්ත්‍රික සබඳතා පිහිටුවීමේ 75 වන සංවත්සර වසරද වේ.
+
+...
+
+[Data](articles/0d649d5b.json)
+
+---
 
 ### රුසියාවෙන් යුක්‍රේනයට මාරාන්තික ප්‍රහාරයක්
 
@@ -1857,65 +1921,5 @@ The company has seen its outlook improve following the government’s decision t
 ◼️
 
 [Data](articles/e5c3494d.json)
-
----
-
-### නිරුවත් මළ සිරුරක් කුඹුරකින් හමුවෙයි
-
-*2025-08-18 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213505) · `si`
-
-බදුල්ල, කයිලගොඩ වැඩිහිටි නිවාසයට යාබද කුඹුරේ තිබී අබිරහස් ලෙස මියගිය පුද්ගලයෙකුගේ නිරුවත් මළ සිරුරක් අද (18) පෙරවරුවේදී හමුවූ බව බදුල්ල පොලීසිය පැවසීය.
-
-කුඹුරේ හිමිකරු දින හතරකින් පසු කුඹුරට පැමිණි බවත් ඒ පැමිණීමේදී මෙම පුද්ගල මළ සිරුර දැක ඇති අතර, පසුව පොලීසිය දැනුවත් කර තිබුණි.
-
-අනතුරුව බදුල්ල පොලීසියේ නිලධාරීන් සිද්ධිය පිළිබඳව මූලික විමර්ශන ආරම්භ කර ඇත.
-
-මළ සිරුර තිබුණු ස්ථානයට ළඟාවීමට පොලීසියට දැඩි උත්සහායක් ගැනීමටද සිදුවු බව අප වාර්තාකරු පැවසීය.
-
-එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 65ක පමණ පිරිමි පුද්ගලයෙක් බවට පොලීසිය අනුමාන කරයි.
-
-මරණයට හේතුව සොයා වැඩිදුර විමර්ශන බදුල්ල පොලීසිය විසින් සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/327a5362.json)
-
----
-
-### Firearms found in roadside at Kaduwela are fake – Police confirm
-
-*2025-08-18 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111584/firearms-found-in-roadside-at-kaduwela-are-fake-police-confirm) · `en`
-
-Police have stated that the firearms discovered inside a bag abandoned on the roadside in Thunadahena, Korathota, Kaduwela were not real guns.
-
-The contents of the bag, which included three T-56 assault rifles and five browning-type pistols were confirmed to be fake.
-
-However, authorities verified that the T-56 rifle magazine found alongside them is genuine.
-
-The discovery was made earlier today (18) and the weapons were handed over to the Nawagamuwa Police.
-
-◼️
-
-[Data](articles/a44ad486.json)
-
----
-
-### US adviser Navarro says India’s Russian crude buying has to stop
-
-*2025-08-18 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111583/us-adviser-navarro-says-indias-russian-crude-buying-has-to-stop) · `en`
-
-White House trade adviser Peter Navarro said India’s purchases of Russian crude were funding Moscow’s war in Ukraine and had to stop, adding that New Delhi was “now cozying up to both Russia and China”.
-
-“If India wants to be treated as a strategic partner of the US, it needs to start acting like one,” Navarro wrote in an opinion piece.
-
-India’s Foreign Ministry has previously said the country is being unfairly singled out for buying Russian oil while the United States and European Union continue to purchase goods from Russia.
-
-US President Donald Trump announced an additional 25 per cent tariff on Indian goods earlier this month, citing New Delhi’s continued purchases of Russian oil. The move will take total tariffs on imports from India to 50 per cent.
-
-“India acts as a global clearinghouse for Russian oil, converting embargoed crude into high-value exports while giving Moscow the dollars it needs,” Navarro said.
-
-...
-
-[Data](articles/df12f3e2.json)
 
 ---

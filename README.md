@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 10:33:11**
+As of **2025-08-19 10:49:31**
 
 ## Newspaper Stats
 
-*Scraped **71,152** Articles*
+*Scraped **71,153** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 604
+dbsjeyarajcom | 605
 bbccomsinhala | 677
 colombotelegraphcom | 727
 economynextcom | 4,343
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,287
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,152 articles have been extended.
+61,973 (87.1%) of 71,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -571,6 +571,34 @@ Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over 
 ...
 
 [Data](articles/a09b334d.json)
+
+---
+
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-19 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
+
+---
+
+### “If Israel gets away with this genocide, that fact will convey a sense of impunity to powerful nations, placing smaller, weaker countries, countries without super-power patrons in danger.”
+
+*2025-08-19 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86280) · `en`
+
+“The question’s what happened to Israeli people. How they allowed themselves to be so debased. How they become so inured to pain and suffering. How they have become oblivious to their own horrific past. And these images which remind you of their own horrific past… for Israeli people to let this happen in this name is despicable… The shame of this for Israel, the shame… What are we living in?”
+
+On 15 July 2025, a group of Jewish Israeli teens gathered in Tel Aviv to burn their draft papers. Israel has a conscript army and every Israeli Jewish citizen over 18 years has to undergo fixed-term military service and remain as reservists until the age of 40. The teens burning their draft papers face imprisonment, but for them the alternative is infinitely worse. As one of them said, “There is a genocide. You don’t enlist into an army that is committing genocide” (https://www.youtube.com/shorts/9zzbb_Ac-W8).
+
+...
+
+[Data](articles/736077ef.json)
 
 ---
 
@@ -1841,51 +1869,5 @@ After considering the facts presented by both parties, the Colombo Chief Magistr
 ◼️
 
 [Data](articles/32159d0b.json)
-
----
-
-### Sri Lanka coconut prices drop 5.4-pct as production recovers
-
-*2025-08-18 11:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-drop-5-4-pct-as-production-recovers-236984/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices fell 5.4 percent at a weekly auction, Coconut Development Authority data showed.
-
-The average price for 1,000 nuts was 133,623.91 rupees on August 16.
-
-“The highest and the lowest price for a nut was not declared,” CDA officials said.
-
-Coconut production has increased by 18.3 percent on a year on year basis in June following a recovery since February, the latest central bank’s Agriculture Sector Data Bulletin said.
-
-CB data showed nut production was up from about 170 million nuts in January to 289.5 in June.
-
-Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB
-
-The number of nuts offered dipped to 658,480 from 751,836 a week earlier, while nuts sold climbed to 582,000 from 523,823.
-
-In the local market, the wholesale price for a large nut was 170-180 rupees, while small nuts were 140-160 a piece on August 14.
-
-Local wholesale prices of coconut oil were 880,000 to 900,000 rupees per metric ton. (Colombo/Aug18/2025)
-
-◼️
-
-[Data](articles/a6218f28.json)
-
----
-
-### Fitch lowers Sri Lanka’s HDFC Bank outlook to negative, retains ‘BB+(lka)’ rating
-
-*2025-08-18 11:15:00* · [`economynextcom`](https://economynext.com/fitch-lowers-sri-lankas-hdfc-bank-outlook-to-negative-retains-bblka-rating-236977/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has affirmed its National Long-Term Rating at ‘BB+(lka)’ on Housing Development Finance Corporation Bank of Sri Lanka, and revised the outlook to negative from stable due to the potential for the state bank’s credit profile to deteriorate.
-
-“We believe the regulatory restrictions have dampened HDFC’s competitive position in the housing loan segment, which is predominantly driven by Employees’ Provident Fund (EPF)-backed loans, and its loan and deposit market share.”
-
-The outlook revision reflects the potential for HDFC’s credit profile to deteriorate relative to that of similarly rated peers due to the restrictions on deposit mobilisation and selected lending products imposed by the central bank, the ratings agency said.
-
-Fitch Revises Outlook on HDFC Bank to Negative; Affirms National Rating at ‘BB+(lka)’
-
-...
-
-[Data](articles/602ac1a4.json)
 
 ---

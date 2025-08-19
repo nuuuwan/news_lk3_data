@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 11:07:12**
+As of **2025-08-19 11:20:19**
 
 ## Newspaper Stats
 
-*Scraped **71,160** Articles*
+*Scraped **71,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 605
 bbccomsinhala | 677
 colombotelegraphcom | 727
-economynextcom | 4,343
+economynextcom | 4,347
 islandlk | 4,376
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -20,17 +20,51 @@ adalk | 6,854
 adaderanalk | 8,943
 tamilmirrorlk | 10,463
 virakesarilk | 11,790
-adaderanasinhalalk | 12,288
+adaderanasinhalalk | 12,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.1%) of 71,160 articles have been extended.
+61,973 (87.1%) of 71,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### Occupational exposure to GenAI in Sri Lanka
+
+*2025-08-19 11:00:00* · [`economynextcom`](https://economynext.com/occupational-exposure-to-genai-in-sri-lanka-237222/) · `en`
+
+The first two infographics in this blog were created with Artificial Intelligence (AI) technology, resulting in production times of mere seconds. In contrast, creating similar infographics without AI would typically require several hours of work.
+
+This illustrates how AI significantly boosts worker productivity. Nearly every sector showcases examples of AI enhancing labour efficiency. For instance, online educational content can be effortlessly generated with AI by just inputting text.
+
+Additionally, it can assume the roles of editors and content writers, significantly reducing the time required to draft a report. These are just a few examples of how AI can improve the productivity of workers. As AI continues to permeate different job fields, it is poised to transform the labour market soon. With the assistance of AI, workers will be more productive, and as a result, fewer workers may be needed to perform the same job. It is also possible that AI will create new jobs.
+
+...
+
+[Data](articles/1da766ac.json)
+
+---
+
+### සතීෂ් ගමගේ යළි රිමාන්ඩ්
+
+*2025-08-19 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213536) · `si`
+
+අල්ලස් කොමිසම සිදුකළ විමර්ශනයකට අදාළව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි  පොලිස් දෙපාර්තමේන්තුවේ සංස්කෘතික අංශයේ හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතීෂ් ගමගේ මහතා තවදුරටත් සැප්තැම්බර් මස 02 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන්, පාතාල කල්ලි සාමාජිකයින් හා විවිධ සේවාවන් ලබාගැනීම සඳහා පොලීසියට පැමිණෙන මහජනතාවගෙන් අල්ලස් වශයෙන් ලබාගත් රුපියල් එක්කෝටි හතළිස් ලක්ෂයක මුදලක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් පසුගියදා අල්ලස් කොමිසම විසින් සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+
+අදාළ මුදල් මෙම සැකකරුගේ අනුදැනුම මත විවෘත කර තිබූ වෙනත් පුද්ගලයෙකුගේ බැංකු ගිණුම් තුනක තිබී සොයා ගත් බවත් අල්ලස් කොමිසම  පසුගියදා අධිකරණයට වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/e2f0b2a0.json)
+
+---
 
 ### Interviews begin to register new political parties, 47 shortlisted
 
@@ -95,6 +129,24 @@ The Deputy Minister stated, “Currency notes printing is carried out according 
 ...
 
 [Data](articles/d21df9fb.json)
+
+---
+
+### Sri Lanka’s Agstar sells subsidiary Agstar Exports for Rs35.3mn
+
+*2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-subsidiary-agstar-exports-for-rs35-3mn-237242/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Agstar Plc said it had divested its entire shareholding of 4,500,000 ordinary shares in Agstar Exports (Pvt) Ltd for 35.3 million rupees.
+
+The buyers are Dassanayake Epage Prasanna Sampath Dassanayake and Nawarathne Mudiyanselage Kapugedara Ishara Thilini Nawarathne, the company said in a stock exchange filing.
+
+Agstar is part of the Browns group, which is part of LOLC Holdings.
+
+Agstar voting stock was trading up 10 cents at 8.40 rupees. (Colombo/Aug19/2025)
+
+◼️
+
+[Data](articles/fc52f9e6.json)
 
 ---
 
@@ -238,6 +290,36 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### Sri Lanka rupee steady against dollar, bond yields edge down
+
+*2025-08-19 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-against-dollar-bond-yields-edge-down-237218/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 301.25/40 to the US dollar in the spot market Tuesday, while bond yields edged down slightly on 2029 and 2030 tenors, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.45/55 percent.
+
+A bond maturing on 15.12.2028 was quoted flat at 8.90/9.00 percent.
+
+A bond maturing on 15.06.2029 was quoted at 9.30/32 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.42/45 percent, down from 9.43/46 percent.
+
+A bond maturing on 15.05.2030 was quoted at 9.50/52 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.20/28 percent, up from 10.22/25 percent.
+
+A bond maturing on 01.06.2033 was quoted at 10.55/60 percent.
+
+The Colombo Stocks Exchange opened in green: The ASPI was up 0.21 percent, or 42.27 points, at 20,512.79; the S&P SL20 was up 0.16 percent, or 9.37 points, at 6,006.83.
+
+...
+
+[Data](articles/922bfe72.json)
+
+---
+
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
 *2025-08-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213531) · `si`
@@ -363,6 +445,28 @@ Nevertheless, the opposition—particularly the Samagi Jana Balawegaya (SJB)—c
 ...
 
 [Data](articles/1bdde81d.json)
+
+---
+
+### Sri Lanka should structure dollar syndicated loans, avoid CB swaps
+
+*2025-08-19 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-structure-dollar-syndicated-loans-avoid-cb-swaps-237193/) · `en`
+
+ECONOMYNEXT – Sri Lanka should structure a dollar syndicated loan targeting local banks to raise some of the forex deposits in banks, which can be used to settle the next maturing sovereign bond.
+
+Getting the central bank to engage in buy-sell swaps and giving proceeds to the government to repay debt is kind of a circular debt operation.
+
+Sri Lanka’s banks are now participating in Indian and other syndicated loans with their foreign currency deposits.
+
+It is perfectly fine to invest part of the NRFC or RFC deposit money or equity balances in the offshore banking units of banks in foreign debt.
+
+Since Sri Lanka government’s rating is low it is better to hold some money in higher rate foreign bonds or loans. But it must be understood that even US government finances are not in a good shape under the single policy rate/abundant reserve regime.
+
+But in any case, geographical diversification is good for depositors to mitigate risks provided banks are careful about the issuer.
+
+...
+
+[Data](articles/4e9cf1c0.json)
 
 ---
 
@@ -1807,83 +1911,5 @@ US President Donald Trump announced an additional 25 per cent tariff on Indian g
 ◼️
 
 [Data](articles/a62b6de1.json)
-
----
-
-### Man arrested with firearm, diamond watch by Grandpass Police
-
-*2025-08-18 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111582/man-arrested-with-firearm-diamond-watch-by-grandpass-police) · `en`
-
-An individual has been arrested for the possession of a firearm by the Grandpass Police.
-
-A diamond watch was also taken into custody, at the time of the arrest, police stated.
-
-◼️
-
-[Data](articles/68d4aca2.json)
-
----
-
-### Police recover three T-56 firearms abandoned on roadside in Kaduwela
-
-*2025-08-18 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111581/police-recover-three-t-56-firearms-abandoned-on-roadside-in-kaduwela-) · `en`
-
-A total of three T-56 assault rifles, five browning pistols and a magazine have been discovered while abandoned on the roadside in Kaduwela, police stated.
-
-The firearms that were found from Thunadahena, Korathota, have been handed over to the custody of the Navagamuwa Police Station.
-
-◼️
-
-[Data](articles/6f0d56da.json)
-
----
-
-### මහ පාරේ තිබී ටී - 56 ගිනිඅවි තුනක් සොයාගනී
-
-*2025-08-18 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213501) · `si`
-
-කඩුවෙල, කොරතොට, තුන්අදහේන ප්‍රදේශයේ මාර්ගයක බෑගයක් තුළ දමා තිබූ ටී - 56 ගිනිඅවි තුනක් ඇතුළු ගිනිඅවි කිහිපයක් සොයාගෙන තිබේ.
-
-නවගමුව පොලීසිය විසින් මෙය සොයාගෙන ඇති අතර, බව්‍රනින් වර්ගයේ පිස්තෝල 5ක් සහ ටී - 56 මැගසීනයක් ද එම බෑගයේ තිබූ බව සඳහන්ය.
-
-◼️
-
-[Data](articles/532281f3.json)
-
----
-
-### සාම සාකච්ඡා වෙනුවෙන් ට්‍රම්ප් -  සෙලෙන්ස්කි හමුව අද වොෂින්ටන්හිදී
-
-*2025-08-18 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213500) · `si`
-
-යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මෙන්ම යුරෝපා නායකයින් එක්වන විශේෂ හමුවක් මෙරට වේලාවෙන් අද රාත්‍රියේ ධවල මන්දිරයේදී පැවැත්වීමට නියමිතය.
-
-ජනාධිපති ට්‍රම්ප්ගේ මැදිහත්වීමෙන් මෙම සාකච්ඡා වටය පැවැත්වෙන්නේ යුක්‍රේනයට සාමය උදාකිරීමේ අරමුණින් යුතුවය.
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් අතර ඓතිහාසික හමුවක් පසුගියදා අමෙරිකාවේ ඇලස්කා ප්‍රාන්තයේ ඇන්කොරාජ් නගරයේදී සිදු විය.
-
-සාම ව්‍යායාමයේ තවත් දිගුවක් ලෙස යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි, ධවල මන්දිරයේදී හමුවීමට ජනාධිපති ට්‍රම්ප් සැලසුම් කර ති‍බේ.
-
-ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන්, බ්‍රිතාන්‍ය අගමැති කියර් ස්ටාමර්, ජර්මානු චාන්සලර් ෆෙඩ්රික් මර්ස්, ඉතාලි අගමැතිනී ජෝර්ජියා මෙලොනි, යුරෝපා සංගමයේ ප්‍රධානී උර්සුලා වොන්ඩර් ලෙයින් මෙන්ම, නේටෝ ප්‍රධානී මාර්ක් රුටේ යන යුරෝපා නායකයින් ද එක්වන මෙම හමුව අද පැවැත්වෙනු ඇති.
-
-...
-
-[Data](articles/a9595982.json)
-
----
-
-### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
-
-*2025-08-18 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213499) · `si`
-
-හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා ලබන 25 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-ඒ කිරිබත්ගොඩ ප්‍රදේශයේ ඉඩම් වංචා කිරීමේ සිදුවීමකට අදාළව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදීය.
-
-ඔහුව අද (18) මහර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
-
-◼️
-
-[Data](articles/c2b1353f.json)
 
 ---

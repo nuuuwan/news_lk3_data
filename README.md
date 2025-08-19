@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-19 18:31:55**
+As of **2025-08-19 18:57:03**
 
 ## Newspaper Stats
 
-*Scraped **71,224** Articles*
+*Scraped **71,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,854
 adaderanalk | 8,962
 tamilmirrorlk | 10,463
 virakesarilk | 11,798
-adaderanasinhalalk | 12,308
+adaderanasinhalalk | 12,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,224 articles have been extended.
+61,973 (87.0%) of 71,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-19 (Tuesday)
+
+### අඟුණුකොළපැලැස්සට සයිනයිඩ් ගෙනආවේ රැඳවියෙකු ඝාතනයටද ?
+
+*2025-08-19 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213556) · `si`
+
+අඟුණුකොළපැලැස්ස බන්ධනාගාරයේ පරීක්ෂා කිරීමකදී සයිනයිඩ් කුප්පියක් සොයාගැනීමට බන්ධනාගාර නිලධාරීන්ට හැකිව තිබේ.
+
+"කුඩු සලිඳු" නමැති මත්ද්‍රව්‍ය ජාවරම්කරුගේ ගෝලයකු වන "තරිඳු මධුසංක" නැමැත්තා සතුව තිබී මෙම සයිනයිඩ් සොයාගත් බව බන්ධනාගාර මූලස්ථානය පැවසීය.
+
+"කොමාන්ඩෝ කවිෂ්ක කුමාර" නැමැත්තා ඝාතනය කිරීම සඳහා මෙම සයිනයිඩ් බන්ධනාගාරය තුළට ගෙනවිත් ඇති බවට සිදු කළ මූලික  විමර්ශනවලදී හෙළි වී තිබේ.
+
+බන්ධනාගාරය තුළට ගෙන ආ මෙම සයිනයිඩ්, පරීක්ෂා කිරීමට අදාළ පිරිස කටුස්සෙක් අල්ලා  ඌට එන්නත් කර ඇති අතර, එම ස්ථානයේදීම කටුස්සා මියගොස් ඇති බවද අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/d6434f80.json)
+
+---
 
 ### සූදු නියාමන අධිකාරියේ පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කරයි
 
@@ -1863,31 +1881,5 @@ On 15 July 2025, a group of Jewish Israeli teens gathered in Tel Aviv to burn th
 ...
 
 [Data](articles/736077ef.json)
-
----
-
-### 2025-08-18 (Monday)
-
-### Love is in the air…
-
-*2025-08-18 23:45:00* · [`islandlk`](http://island.lk/love-is-in-the-air-2/) · `en`
-
-Yes, indeed, it seems certain that love is in the air for versatile musician Roger Menezes who arrived from Australia last Saturday, 16th August.
-
-This is his sixth visit, for this year, to his land of birth.
-
-“Having fulfilled my engagements in Sydney, and bracing the cold weather, I’m happy to be in sunny Lanka,” he said on arrival.
-
-One gets the impression that Roger is in love with Sri Lanka, but it seems that a different kind of love scene is also also on the cards for Roger!
-
-Music-wise, he has numerous performing dates here, starting off with a birthday party, on Thursday (21st), at the Kingsbury Harbour Court, followed by a Friday date (22nd) at Broadway Restaurant, Dehiwela.
-
-Roger will also be seen in action down South – at the Tangerine and Royal Palms, Kalutara.
-
-Kandy Mahaweli Reach, Heritage, and Cinnamon Myst, will also have Roger in their midst.
-
-...
-
-[Data](articles/77d38715.json)
 
 ---

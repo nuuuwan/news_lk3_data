@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 07:17:11**
+As of **2025-08-20 08:04:54**
 
 ## Newspaper Stats
 
-*Scraped **71,256** Articles*
+*Scraped **71,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,81 @@ adalk | 6,854
 adaderanalk | 8,966
 tamilmirrorlk | 10,463
 virakesarilk | 11,809
-adaderanasinhalalk | 12,312
+adaderanasinhalalk | 12,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,256 articles have been extended.
+61,973 (87.0%) of 71,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### DIG බිරිඳ ඇතුළු පිරිස නිධන් හෑරීමේ සිද්ධිය - වාර්තාවක් දෙන්නැයි නියෝගයක්
+
+*2025-08-20 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213564) · `si`
+
+නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරිඳ ඇතුළු සැකකරුවන් පිරිසක් අනුරාධපුර ශ්‍රාවස්තිපුර තිඹිරිගස්කඩවල ප්‍රදේශයේ නිධන් වස්තූන් ලබාගැනීමේ අරමුණින් අනවසරයෙන් සිදුකළ කැණීම් සම්බන්ධයෙන් කඩිනම් වාර්තාවක් ඉදිරිපත් කරන ලෙස අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+'අද දෙරණ' අධිකරණ වාර්තාකරු සඳහන් කළේ, ප්‍රධාන මහෙස්ත්‍රාත් නාලක සංජීව ජයසූරිය මහතා පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයාට එම නියෝග නිකුත් කළ බවය.
+
+කැණීම සිදුකළ, දේවාලයක් ආසන්නයේ ගල් තාලාවක් සහිත ඉඩම පුරාවිද්‍යා වටිනාකමක් ඇති පුරාවිද්‍යා දෙපාර්තමේන්තුවට අයත් භූමියක්ද යන්න පරීක්ෂා කර බලා, ඊට අදාළ පුරාවිද්‍යා වාර්තාව නොපමාව අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝග කර ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් මුදාහරින ලෙස නියෝජ්‍ය පොලිස්තිපතිවරයෙකු බව කියන පුද්ගලයෙකු පොලිස් නිලධාරීන්ට දුරකථනයෙන් බලපෑම් කර ඇද්ද, යන්න අනාවරණ කර ගැනීමට සියලු සැකකරුවන්ගේ දුරකථන අංකවලට අදාළ විශ්ලේෂණ වාර්තා නොපමාව පොලීසියට ලබා දෙන ලෙසද අනුරාධපුර වැඩබලන මහෙස්ත්‍රාත් චන්දන වීරකෝන් මහතා සියලු දුරකථන සමාගම්වලට මීට පෙර නියෝග කර තිබුණි.
+
+...
+
+[Data](articles/8e2523bf.json)
+
+---
+
+### පෑලියගොඩ මනුෂ්‍ය ඝාතනයක්
+
+*2025-08-20 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213563) · `si`
+
+පෑලියගොඩ, වෙදමුල්ල ප්‍රදේශයේදී පුද්ගලයෙකුට මොට ආයුධයකින් පහර දී ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (19) සවස් කාලයේ දී මේ සම්බන්ධයෙන් පෑලියගොඩ පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර ඇත.
+
+ඝාතනයට ලක්ව ඇත්තේ, වයස අවුරුදු 46ක් වූ වෙදමුල්ල, කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය පුද්ගලයා හා තවත් පුද්ගලයෙකු අතර ඇති වූ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් ඝාතනය සිදුව ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
+
+මෘත ශරීරය කොළඹ පොලිස් මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, අපරාධයට සම්බන්ධ සැකකරු අත්අඩංගුවට ගැනීම සඳහා පෑලියගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/959e451e.json)
+
+---
+
+### වසර 113ක් පැරණි කිරුනා දෙව්මැඳුර කිලෝමීටර 5ක් දුර නව ගොඩනැගිල්ලක් වෙත
+
+*2025-08-20 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213562) · `si`
+
+ස්වීඩනයේ පිහිටි ඓතිහාසික වටිනාකමකින් යුතු කිරුනා දෙව් මැඳුර වෙනත් ස්ථානයක් කරා ගෙනයාමට එහි බලධාරීන් පියවර ගෙන තිබේ.
+
+වසරේ වැඩිකාලයක් හිමෙන් වැසී ඇති කලාපයක පිහිටා ඇති මෙම කිරුනා දෙව් මැඳුර මෙලෙස රැගෙන යනු ලබන්නේ ඊට කිලෝමීටර් 5ක් දුරින් පිහිටි නව නගර ගොඩනැගිල්ල වෙතය.
+
+දැවෙන් ඉදිකෙරුණු කිරුනා දෙව් මැඳුර වසර 113ක් පැරණි වන අතර, එය රැගෙනයාමේ වෙහෙසකර කටයුත්ත වසර ගණනක සැලසුමක් අනුව සිදුවන්නකි.
+
+පැයකට මීටර් 500ක උපරිම වේගයෙන් රැගෙන යමින් ඇති මෙම දෙව් මැඳුර පිහිටි ගොඩනැගිල්ල රැගෙනයාම සඳහා දින දෙකක් ගත වෙතැයි අපේක්ෂිතය.
+
+කිරුනා දේවස්ථානය මෙලෙස වෙනත් තැනක් වෙත රැගෙන යන්නේ, එය පිහිටි භූමියේ අස්ථාවරත්වය හේතුවෙනි.
+
+එහි භූමිය අස්ථාවර වී ඇත්තේ, කලාපයේ දශක ගණනාවක් සිදුවූ යපස් කැණීම් නිසා බව පැවසේ.
+
+මීටර් 35ක් උස සහ මීටර් 40ක් පළල් වූ කිරුනා දේවස්ථානය බරින් ටොන් 672ක් වේ.
+
+ස්වීඩනයේ පිහිටි 1950 වසරට පෙර ඉදිකළ සුන්දරම ගොඩනැගිල්ල ලෙසද වරෙක එය තේරීපත්වුණි.
+
+◼️
+
+[Data](articles/b2e7ce01.json)
+
+---
 
 ### ප්‍රදේශ රැසකට වැසි රහිත කාලගුණයක්
 
@@ -1763,63 +1827,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/7db3b388.json)
-
----
-
-### Sri Lanka rupee steady against dollar, bond yields edge down
-
-*2025-08-19 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-against-dollar-bond-yields-edge-down-237218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 301.25/40 to the US dollar in the spot market Tuesday, while bond yields edged down slightly on 2029 and 2030 tenors, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.45/55 percent.
-
-A bond maturing on 15.12.2028 was quoted flat at 8.90/9.00 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.30/32 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.42/45 percent, down from 9.43/46 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.50/52 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.20/28 percent, up from 10.22/25 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.55/60 percent.
-
-The Colombo Stocks Exchange opened in green: The ASPI was up 0.21 percent, or 42.27 points, at 20,512.79; the S&P SL20 was up 0.16 percent, or 9.37 points, at 6,006.83.
-
-...
-
-[Data](articles/922bfe72.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
-
-*2025-08-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213531) · `si`
-
-◼️
-
-[Data](articles/cdeb77da.json)
-
----
-
-### US would help assure Ukraine’s security in a peace deal, Trump tells Zelenskiy
-
-*2025-08-19 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111617/us-would-help-assure-ukraines-security-in-a-peace-deal-trump-tells-zelenskiy) · `en`
-
-U.S. President Donald Trump told President Volodymyr Zelenskiy on Monday that the United States would help guarantee Ukraine’s security in any deal to end Russia’s war there, though the extent of any assistance was not immediately clear.
-
-Trump made the pledge during an extraordinary summit at the White House, where he hosted Zelenskiy and a group of European allies days after Trump met with Russian President Vladimir Putin in Alaska on Friday.
-
-“When it comes to security, there’s going to be a lot of help,” Trump told reporters, adding that European countries would be involved. “They are a first line of defence because they’re there, but we’ll help them out.”
-
-Zelenskiy hailed the promise as “a major step forward,” adding that the guarantees would be “formalized on paper within the next week to 10 days” and saying Ukraine offered to buy about $90 billion worth of U.S. weapons.
-
-...
-
-[Data](articles/b8ee610e.json)
 
 ---

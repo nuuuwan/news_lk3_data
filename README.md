@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 22:48:46**
+As of **2025-08-20 23:06:38**
 
 ## Newspaper Stats
 
-*Scraped **71,433** Articles*
+*Scraped **71,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,873
 adaderanalk | 8,995
 tamilmirrorlk | 10,506
 virakesarilk | 11,820
-adaderanasinhalalk | 12,341
+adaderanasinhalalk | 12,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,433 articles have been extended.
+61,973 (86.8%) of 71,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### ශාන්ත මුදුන්කොටුව ඝාතනයේ වෙඩික්කරු අත්අඩංගුවට
+
+*2025-08-20 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213591) · `si`
+
+හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව වෙඩිතබා ඝාතනය කිරිමේ සිද්ධියේ වෙඩික්කරු අත්අඩංගුවට ගෙන ඇත.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ පොලිස් කණ්ඩායමක් විසින් ඔහුව අත්අඩංගුවට ගෙන ඇති බව පොලීසය සැවසීය.
+
+◼️
+
+[Data](articles/97f4bfdc.json)
+
+---
 
 ### කරච්චි නගරයටත් ගංවතුර
 
@@ -1771,25 +1785,5 @@ The liberalised rules will now offer countries eligible for ‘Enhanced Preferen
 ...
 
 [Data](articles/041ff528.json)
-
----
-
-### Bribery case filed against ex-Minister Lakshman Yapa to be taken up in September
-
-*2025-08-20 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111673/bribery-case-filed-against-ex-minister-lakshman-yapa-to-be-taken-up-in-september) · `en`
-
-The Colombo High Court today (20) ordered to call a pre-trial conference in the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Minister of Investment Promotion Lakshman Yapa Abeywardena and former Director General of the Board of Investment (BOI) Jayantha Edirisinghe on September 7.
-
-The case has been filed by the Bribery Commission alleging that the duo caused a loss of over Rs. 1.7 million to the government during the tenure of Lakshman Yapa Abeywardena as the Minister of Investment Promotion.
-
-The case was called before the Colombo High Court Judge Pradeep Abeyratne today (20), said Ada Derana reporter.
-
-During today’s proceedings, the attorney appearing for the Bribery Commission presented facts before court and requested permission to make several amendments to the indictment.
-
-Accordingly, court granted permission to the Bribery Commission to amend the relevant indictment.
-
-...
-
-[Data](articles/4c807df7.json)
 
 ---

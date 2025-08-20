@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 13:19:07**
+As of **2025-08-20 13:52:49**
 
 ## Newspaper Stats
 
-*Scraped **71,327** Articles*
+*Scraped **71,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,008
-adalk | 6,858
+dailyftlk | 5,010
+adalk | 6,859
 adaderanalk | 8,984
 tamilmirrorlk | 10,480
 virakesarilk | 11,811
-adaderanasinhalalk | 12,327
+adaderanasinhalalk | 12,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,327 articles have been extended.
+61,973 (86.9%) of 71,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Building high-performing teams: Converting mystery into reality
+
+*2025-08-20 13:17:42* · [`dailyftlk`](https://www.ft.lk/columns/Building-high-performing-teams-Converting-mystery-into-reality/4-780473) · `en`
+
+In today’s hyper-competitive landscape, high-performance teams, being those elite units that consistently exceed expectations, are an elusive rarity. What fuels their relentless drive for excellence has been a subject of much discussion. We have been made to believe that there is a mysterious intangible which separates a great team from a good team and that there is an ethereal alchemy of traits and behaviours which combine to produce a binding, collaborative force.
+
+...
+
+[Data](articles/4975d1e5.json)
+
+---
+
+### යාපනයේ ළිඳකින් පතරොම් 1,393ක් සොයා ගනී
+
+*2025-08-20 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213577) · `si`
+
+‍යාපනය,කොඩිකාමම් ප්‍රදේශයේ ළිඳක් පිරිසිදු කිරීමේදී ළිඳ තුළ තිබි පතරොම් 1393ක් හමුවී ඇත.
+
+කොඩිකාමම් පොලීසිය පවසන ලද්දේ වසර ගණනාවක් පවිත්‍ර නොකළ ළිඳක මඩ ඉවත් කිරීමේදී ළිඳ තුළ තිබි ඊයේ(19) මෙලෙස පතරොම් සහිත බෑගයක් හමුව ඇති බවයි.
+
+අදාළ පතරොම්﻿ දිරාපත්ව පැවති අතර,යුද සමයේ කිසියම් පිරිසක් විසින් මෙම පතරොම් ළිඳට දමන්නට ඇති බවට පොලීසිය සැක පළ කරයි.
+
+හමුවු පතරොම් සහිත බෑගය යාපනය,චාවකච්චේරි මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව,බෝම්බ නිශ්ක්‍රීය අංශය විසින් මෙම පතරොම් නිශ්ක්‍රීය කිරීමට නියමිත බවද පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/3e8e23bd.json)
+
+---
+
+### Sri Lanka’s energy crossroads: From crisis to clean powerhouse
+
+*2025-08-20 13:10:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-energy-crossroads-From-crisis-to-clean-powerhouse/4-780471) · `en`
+
+Sri Lanka’s energy transition is more than infrastructure—it is a matter of economic sovereignty, climate resilience, and social stability
+
+At 7:15 p.m. on a humid April evening in Colombo, the lights flickered twice, then died. Across the city—from Wellawatte to Wattala—families scrambled for candles and battery-powered fans. The blackout lasted only an hour, but it was a stark reminder of Sri Lanka’s energy fragility.
+
+In 2024, Sri Lanka spent over $ 2 billion importing coal, oil, and gas to keep the lights on. Fossil fuels still power more than 60% of our electricity, despite vast untapped renewable resources. Meanwhile, power generation emits over 10 million tonnes of CO₂ annually, accelerating climate change and threatening both our economy and food security.
+
+We stand at an inflection point: modernise and transition to clean energy at scale — or continue spiralling into higher costs, environmental damage, and unreliable power.
+
+...
+
+[Data](articles/6d095513.json)
+
+---
 
 ### SVAT to risk-based refunds: Turning point in Sri Lanka’s tax policy
 
@@ -71,6 +119,22 @@ The book’s emphasis on strategic and operational management makes it a valuabl
 ...
 
 [Data](articles/2b4712b3.json)
+
+---
+
+### දෙනියාය ට නව රෝහලක්
+
+*2025-08-20 12:47:26* · [`adalk`](https://www.ada.lk/breaking_news/දෙනියාය-ට-නව-රෝහලක්/11-417969) · `si`
+
+විසිරුනු වාට්ටු සම්ප්‍රදාය වෙනුවට එකම ගොඩනැගිල්ලක් තුල වාට්ටු ඇතුලු සියළු ඒකක ස්ථාපිත වන නවීන සැලසුමක් .
+
+පොදු ප්‍රවාහන සේවාවන් භාවිතා කර ප්‍රතිකාර ලබා ගැනීමට රෝහල වෙත පැමිණෙන ජනතාවට රෝහල් පරිශ්‍රයට පැමිනීමේ විශේෂ පිවිසුම් ක්‍රමවේදයක් .
+
+වසර 127 කට අධික ඉතිහාසක් පවතින වත්මන් දෙනියාය මූලික රෝහල්  පරිශ්‍රයේ ස්ථාන කිහිපයක්   නාය යෑමේ අවධානමකට  ලක්ව ඇති නිසා  එම රෝහල වෙනත් ස්ථානයක  ප්‍රතිස්ථාපනය කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ සහ දකුණු පළාත් සභාවේ විශේෂ අවධානය යොමුවීමත් සමග ඊට අදාළව සිදුකෙරෙන විශේෂ සාකච්ජාවක් පසුගියදා දකුණු පලාත් ආණ්ඩුකාර බන්දුල හරිස්චන්ද්‍ර මහතාගේ සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතාගේ ප්‍රධානත්වයෙන් දෙනියාය කොටපොල ප්‍රාදේශීය සභා ශ්‍රවණාගාරයේ දී පැවැත්විණි.
+
+...
+
+[Data](articles/9752b7ae.json)
 
 ---
 
@@ -1711,69 +1775,5 @@ Musthapha is of the view that the Gambling Regulatory Authority Bill is a step i
 ◼️
 
 [Data](articles/0fad7f09.json)
-
----
-
-### Provincial Elections, The 13th Amendment & The Promise Of Shared Growth
-
-*2025-08-19 17:11:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/provincial-elections-the-13th-amendment-the-promise-of-shared-growth/) · `en`
-
-For decades, Sri Lanka has struggled to balance governance between the centre and the regions. The 13th Amendment to the Constitution, introduced in 1987, created provincial councils with a clear mandate to decentralise power. Yet, more than three decades on, its full potential remains largely unrealised. Provincial elections have been repeatedly delayed, and critical powers—particularly land and policing—have been contested or retained at the centre.
-
-Today, with the nation navigating economic recovery and a public hungry for meaningful reform, the question arises: if Sri Lanka were to hold provincial elections regularly and implement the 13th Amendment across all nine provinces as originally intended, would it make a difference to governance, stability, and growth? The answer is a resounding yes.
-
-...
-
-[Data](articles/a49ce811.json)
-
----
-
-### From European Union To Global Union: The Next Leap In Human Governance
-
-*2025-08-19 17:03:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-european-union-to-global-union-the-next-leap-in-human-governance/) · `en`
-
-In 1957, six European nations came together to sign the Treaty of Rome, establishing the European Economic Community (EEC). The goal was simple yet profound: integrate economies so tightly that war between them would become unthinkable. That experiment evolved into the European Union (EU) in 1993, bringing not only a common market but also shared political institutions and, eventually, a shared currency for many of its members.
-
-What is striking is that all of this was achieved in an era when communication technologies were primitive compared to today. Long-distance communication still relied heavily on landline telephones, typewriters, and physical mail. Computers were large, expensive, and accessible only to governments and research institutions. Yet, despite these limitations, European leaders managed to build an unprecedented structure of transnational cooperation.
-
-...
-
-[Data](articles/93d6a984.json)
-
----
-
-### සමාජ සේවා නිලධාරීන් පුහුණු කිරීමට ඉදිරි අයවැයෙන් විශේෂ අවධානයක්
-
-*2025-08-19 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213553) · `si`
-
-ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීම් අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය යෝජනා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (19) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්වුණි.
-
-ග්‍රාමීය ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම සඳහා, එක් එක් කණ්ඩායම් වෙනුවෙන් මෙවර අයවැයෙන් වෙන් කළ ප්‍රතිපාදන නිසි ලෙස භාවිත කරමින් ඔවුන් ජාතික ආර්ථිකයට සෘජුව දායක කරගැනීමේ වැඩපිළිවෙළ ඵලදායීව ක්‍රියාත්මක කරන ලෙස මෙහිදී නිලධාරින්ට උපදෙස් දුන් ජනාධිපතිවරයා, එමගින් ගමට මුදල් ගලා යාම සමග ග්‍රාමීය ආර්ථිකය වේගයෙන් වර්ධනය කළ හැකි බවද පෙන්වා දුන්නේය.
-
-අදාළ ව්‍යාපෘති සහ වැඩසටහන් විධිමත්ව සහ සැලසුම්සහගතව ක්‍රියාවට නංවමින් ජනතාවට මෙම ප්‍රතිලාභ අත්කර දීම රාජ්‍ය නිලධාරින්ගේ වගකීම බවද ජනාධිපතිවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/ca645b3f.json)
-
----
-
-### Sri Lanka Cabinet approve Maga for first stage of Central Express Highway
-
-*2025-08-19 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approve-maga-for-first-stage-of-central-express-highway-237334/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the first stage of the delayed Central Express Highway’s third phase after competitive bidding, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
-
-The delayed third phase is now being built from state funds after Japan withdrew from the funding.
-
-The stage 1 of the third part of the Central Expressway Project from Pothuhara to Galagedara has been divided into 19 packages, Minister Jayatissa said.
-
-The first 13.8 km of expressway requires the completion of aggregate base course, asphalt concrete, road marking, installation of signboards, construction of buildings for the operation of the expressway, and installation of toll collection systems in order to complete the first phase.
-
-The government called for national competitive bids under 3 construction packages for the construction work.
-
-...
-
-[Data](articles/e9b30fb9.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 22:34:29**
+As of **2025-08-20 22:48:46**
 
 ## Newspaper Stats
 
-*Scraped **71,432** Articles*
+*Scraped **71,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
-adalk | 6,872
+adalk | 6,873
 adaderanalk | 8,995
 tamilmirrorlk | 10,506
 virakesarilk | 11,820
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,432 articles have been extended.
+61,973 (86.8%) of 71,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -373,6 +373,24 @@ In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colo
 ◼️
 
 [Data](articles/0e8f3a06.json)
+
+---
+
+### නව ත්‍රස්ත විරෝධී පනත් කෙටුම්පත නුදුරේදීම
+
+*2025-08-20 17:11:39* · [`adalk`](https://www.ada.lk/breaking_news/නව-ත්‍රස්ත-විරෝධී-පනත්-කෙටුම්පත-නුදුරේදීම/11-417980) · `si`
+
+නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත් කළ විද්වත් කමිටුව පසුගිය 18 වැනිදා එම කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශයේදී රැස්විය.
+
+මෙම පනතට ගෙන එනු ලබන සංශෝධන පිළිබඳව එහිදී දීර්ඝ වශයෙන් සාකච්ඡා කළ අතර අදාළ පනත් කෙටුම්පත නුදුරේදීම අවසන් කිරීමට හැකි බව කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා පැවසීය.
+
+මෙම සාකච්ඡාව සඳහා අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ, නෙරින් පුල්ලේ, ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, අසංග කරවිට, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ අතිරේක ලේකම් (නීති) පියමුන්ති පීරිස්, ආරක්ෂක අමාත්‍යාංශයේ නීති නිලධාරීන්වන, මේජර් ජනරාල් සඳුන් ගුණවර්ධන, ලුතිනන් කර්නල් K.N.S.මෙන්ඩිස් යන මහත්ම මහත්මීන් ඇතුළු උසස් නිලධාරීන් සහභාගි විය.
+
+නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන්වු කමිටුව මේ වන විට 14  වතාවක් රැස්ව තිබේ. කමිටුවේ මීළඟ සාකච්ඡාව එළඹෙන 22 වන දින රැස්වීමට නියමිතයි.
+
+...
+
+[Data](articles/49caff82.json)
 
 ---
 
@@ -1773,23 +1791,5 @@ Accordingly, court granted permission to the Bribery Commission to amend the rel
 ...
 
 [Data](articles/4c807df7.json)
-
----
-
-### Sri Lanka’s energy crossroads: From crisis to clean powerhouse
-
-*2025-08-20 13:10:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-energy-crossroads-From-crisis-to-clean-powerhouse/4-780471) · `en`
-
-Sri Lanka’s energy transition is more than infrastructure—it is a matter of economic sovereignty, climate resilience, and social stability
-
-At 7:15 p.m. on a humid April evening in Colombo, the lights flickered twice, then died. Across the city—from Wellawatte to Wattala—families scrambled for candles and battery-powered fans. The blackout lasted only an hour, but it was a stark reminder of Sri Lanka’s energy fragility.
-
-In 2024, Sri Lanka spent over $ 2 billion importing coal, oil, and gas to keep the lights on. Fossil fuels still power more than 60% of our electricity, despite vast untapped renewable resources. Meanwhile, power generation emits over 10 million tonnes of CO₂ annually, accelerating climate change and threatening both our economy and food security.
-
-We stand at an inflection point: modernise and transition to clean energy at scale — or continue spiralling into higher costs, environmental damage, and unreliable power.
-
-...
-
-[Data](articles/6d095513.json)
 
 ---

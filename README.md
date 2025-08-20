@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 17:53:31**
+As of **2025-08-20 18:09:49**
 
 ## Newspaper Stats
 
-*Scraped **71,409** Articles*
+*Scraped **71,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,865
 adaderanalk | 8,991
-tamilmirrorlk | 10,500
-virakesarilk | 11,818
+tamilmirrorlk | 10,501
+virakesarilk | 11,820
 adaderanasinhalalk | 12,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,409 articles have been extended.
+61,973 (86.8%) of 71,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/874ad982.json)
+
+---
+
+### பாலியல் தொழிலுக்காகக் சிறுமிகள் கடத்தல் : அமெரிக்காவில் 5 இந்தியர்கள் கைது!
+
+*2025-08-20 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222968) · `ta`
+
+பாலியல் தொழிலுக்காக சிறுமிகளை கடத்திய குற்றச்சாட்டில் 5 இந்தியர்களை அமெரிக்க பொலிஸார் கைது செய்துள்ளனர்.
+
+அமெரிக்காவின் நெப்ராஸ்கா மாகாணத்தில் ஆட்கத்தலில் ஈடுபடும் கும்பலைக் குறிவைத்து அமெரிக்கப் பொலிஸார் சோதனை நடவடிக்கையை முன்னெடுத்திருந்தனர்.
+
+ஒமாஹா மெட்ரோ பகுதிகளில் உள்ள விடுதிகளில் முன்னெடுக்கப்பட்ட சோதனையில், 12 வயதிற்குட்பட்ட 10 பேர், 17 ஆண்கள் மற்றும் பெண்கள் என மொத்தம் 27 பேரைக் பொலிஸார் மீட்டுள்ளனர்.
+
+மீட்கப்பட்டவர்களிடம் பொலிஸார் மேற்கொண்ட விசாரணையில் அனைவரும் கடத்தப்பட்டு விடுதி பணிக்காக பயன்படுத்தியது தெரியவந்துள்ளது.
+
+நீண்ட நேர வேலை, குறைவான ஊதியம், சிலருக்கு ஊதியமே வழங்கவில்லை என்பது தெரியவந்துள்ளது.
+
+மேலும், சில பெண்களையும் சிறுமிகளையும் கட்டாயப்படுத்தி பாலியல் தொழிலில் ஈடுபடுத்தியமையும் வெளிச்சத்திற்கு வந்தது.
+
+இந்த சோதனையின்போது, பாதிக்கப்பட்டவர்கள் அசுத்தமான இடத்தில் பூச்சிகள் ஊர்ந்து செல்வதற்கு மத்தியில், தரையில் படுத்து உறங்கிக் கொண்டிருந்த காட்சிகளைக் கண்டதாக பொலிஸார் நீதிமன்றத்தில் விவரித்தனர்.
+
+...
+
+[Data](articles/67539011.json)
 
 ---
 
@@ -97,6 +121,24 @@ More than 80 YSALI participants, competitively selected from alumni of previous 
 ...
 
 [Data](articles/4d4757f6.json)
+
+---
+
+### ரஷ்யா - உக்ரைன் போரை நிறுத்தவே இந்தியா மீது வரி விதிப்பு : வெள்ளை மாளிகை
+
+*2025-08-20 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222964) · `ta`
+
+உக்ரைன் மீது ரஷ்யா தொடுத்துள்ள போரை முடிவுக்குக் கொண்டு வர ரஷ்யா மீது மறைமுக அழுத்தம் கொடுக்கும் முயற்சிகளின் ஒரு பகுதியாக அமெரிக்க ஜனாதிபதி டிரம்ப் இந்தியாவின் மீது கடுமையான வரிகளை விதித்ததாக வெள்ளை மாளிகையின் செய்தித் தொடர்பாளர் கரோலின் லீவிட் தெரிவித்துள்ளார்.
+
+யுத்தத்தை நிறுத்த மிகப் பெரிய அழுத்தத்தை டிரம்ப் அளித்துள்ளார். இதில் இந்தியா மீதான தடைகள் மற்றும் பிற நடவடிக்கைகளையும் அவர் எடுத்து உள்ளார். ரஷ்யா - உக்ரைன் போர் முடிவுக்கு வர வேண்டும் என்று டிரம்ப் மிகவும் தெளிவாக கூறி உள்ளார்.
+
+ரஷ்யா - உக்ரைன் போரை முடிவுக்குக் கொண்டு வருவதற்கான அனைத்து வழிகளையும் அமெரிக்கா ஆராய்ந்து வருகிறது. அதன் ஒரு பகுதியாக, ரஷ்யாவுடன் இராணுவ வர்த்தக உறவுகளை வைத்திருக்கும் நாடுகளுக்கு அழுத்தம் கொடுக்க தீர்மானித்தோம்.
+
+ரஷ்யாவிடம் இருந்து S-400 ஏவுகணை அமைப்பை வாங்குவதற்கான இந்தியாவின் முடிவு, இந்தப் போருக்கு மறைமுகமாக ஆதரவளிப்பதாகவே நாங்கள் கருதுகிறோம். இந்தியாவுக்கு எதிராக இந்த கூடுதல் வரி விதிப்பு, ரஷ்யாவுடனான அதன் இராணுவ வர்த்தகத்தை நிறுத்துமாறு வலியுறுத்துவதற்கே.
+
+...
+
+[Data](articles/b7b90aef.json)
 
 ---
 
@@ -344,6 +386,26 @@ In a groundbreaking move that redefines home connectivity, Dialog has launched a
 
 ---
 
+### உப்பு விலை குறைந்தது
+
+*2025-08-20 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222948) · `ta`
+
+லங்கா உப்பு நிறுவனம் தனது அயோடின் கலந்த உப்புப் பொருட்களின் விலையைக் குறைப்பதாக அறிவித்துள்ளது.
+
+இன்று புதன்கிழமை (20) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது நிறுவனத்தின் தலைவர் நந்தன திலக்க இந்த அறிக்கையை வெளியிட்டுள்ளார்.
+
+400 கிராம் அயோடின் கலந்த உப்புத் தூள் பக்கற் ஒன்றின் விலை 20 ரூபாவால் குறைக்கப்பட்டுள்ளது. அதேவேளை,  1 கிலோ கிராம் பக்கற் ஒன்றின் விலை 30 ரூபாவால் குறைக்கப்பட்டுள்ளது.
+
+அதற்கமைய, அடுத்த வாரம் முதல் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 100 ரூபாவுக்கும், 1 கிலோ கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 200 ரூபாவுக்கும், கிரிஸ்டல் உப்பு பக்கற் ஒன்றின் விலை 150 ரூபாவுக்கும் விற்பனை செய்யப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+மேலதிகமாக,  நிறுவனத்தால் தயாரிக்கப்படும் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை சதோசா விற்பனை நிலையங்களில் 90 ரூபாவுக்கு கிடைக்கும் என நந்தன திலக்க குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0359eb67.json)
+
+---
+
 ### Price of Palestinian resistance
 
 *2025-08-20 16:10:50* · [`dailyftlk`](https://www.ft.lk/columns/Price-of-Palestinian-resistance/4-780497) · `en`
@@ -371,26 +433,6 @@ The reform agenda has been presented as a PowerPoint and a PowerPoint only, a fi
 ...
 
 [Data](articles/c528f981.json)
-
----
-
-### உப்பு விலை குறைந்தது
-
-*2025-08-20 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222948) · `ta`
-
-லங்கா உப்பு நிறுவனம் தனது அயோடின் கலந்த உப்புப் பொருட்களின் விலையைக் குறைப்பதாக அறிவித்துள்ளது.
-
-இன்று புதன்கிழமை (20) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது நிறுவனத்தின் தலைவர் நந்தன திலக்க இந்த அறிக்கையை வெளியிட்டுள்ளார்.
-
-400 கிராம் அயோடின் கலந்த உப்புத் தூள் பக்கற் ஒன்றின் விலை 20 ரூபாவால் குறைக்கப்பட்டுள்ளது. அதேவேளை,  1 கிலோ கிராம் பக்கற் ஒன்றின் விலை 30 ரூபாவால் குறைக்கப்பட்டுள்ளது.
-
-அதற்கமைய, அடுத்த வாரம் முதல் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 100 ரூபாவுக்கும், 1 கிலோ கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 200 ரூபாவுக்கும், கிரிஸ்டல் உப்பு பக்கற் ஒன்றின் விலை 150 ரூபாவுக்கும் விற்பனை செய்யப்படும் என தெரிவிக்கப்பட்டுள்ளது.
-
-மேலதிகமாக,  நிறுவனத்தால் தயாரிக்கப்படும் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை சதோசா விற்பனை நிலையங்களில் 90 ரூபாவுக்கு கிடைக்கும் என நந்தன திலக்க குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/0359eb67.json)
 
 ---
 
@@ -1060,6 +1102,24 @@ He further explained that the price reduction was implemented to provide relief 
 
 ### அரைகுறை உடையணிந்து அதிரடியான அறிவிப்பு
 
+*2025-08-20 14:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரைகுறை-உடையணிந்து-அதிரடியான-அறிவிப்பு/150-363125) · `ta`
+
+அளித்த போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர், அரைகுறையாக உடையணிந்த  ஊடகங்களுக்கு பேட்டி கொடுக்கையில்,  நடந்து வரும் தபால் வேலைநிறுத்தம் குறித்து பொய்யான தகவல்களுடன் பொதுமக்களை தவறாக வழிநடத்துவதாக குற்றம் சாட்டினார்.
+
+அதிகாரிகள் போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்கத் தவறிவிட்டதாகவும், அதே நேரத்தில் அமைச்சர் தபால் மற்றும் அதிகாரிகள் "ஊழியர்களை முட்டாளாக்கி முழு நாட்டிற்கும் பொய் சொல்கிறார்கள்" என்றும் அவர் கூறினார்.
+
+தற்போதைய  600 ரூபாய் கொடுப்பனவில் சீருடை தைக்க முடியுமா என்றும் ஊழியர் கேள்வி எழுப்பினார்.
+
+"சீருடை கொடுப்பனவு, மிதிவண்டி கொடுப்பனவு மற்றும் ஒப்பந்த ஊழியர்களை நிரந்தரமாக நியமிக்க வேண்டும் என்று நாங்கள் கோரியுள்ளோம். அதற்கு பதிலாக, அதிகாரிகள் கைரேகை மற்றும் கூடுதல் நேரம் பற்றி தொடர்ந்து பேசுகிறார்கள்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/559dac1a.json)
+
+---
+
+### அரைகுறை உடையணிந்து அதிரடியான அறிவிப்பு
+
 *2025-08-20 14:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைகுறை-உடையணிந்து-அதிரடியான-அறிவிப்பு/175-363125) · `ta`
 
 அளித்த போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர், அரைகுறையாக உடையணிந்த  ஊடகங்களுக்கு பேட்டி கொடுக்கையில்,  நடந்து வரும் தபால் வேலைநிறுத்தம் குறித்து பொய்யான தகவல்களுடன் பொதுமக்களை தவறாக வழிநடத்துவதாக குற்றம் சாட்டினார்.
@@ -1687,61 +1747,5 @@ In addition, he said four places of the Sevanagala sugar factory could also be d
 ◼️
 
 [Data](articles/99095352.json)
-
----
-
-### பஸ் தீப்பற்றியதில்  71 பேர் உடல் கருகி பலி
-
-*2025-08-20 12:22:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-தீப்பற்றியதில்-71-பேர்-உடல்-கருகி-பலி/50-363108) · `ta`
-
-ஆப்கானிஸ்தானில் புலம் பெயர்ந்தவர்களை ஏற்றி சென்ற பஸ் ஒன்று  தீப்பிடித்து எரிந்ததில் 71 பேர் உடல் கருகி உயிரிழந்துள்ளனர் என அந்த மாகாண அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
-
-ஆப்கானிஸ்தானின் மேற்கு ஹெராத் மாகாணத்தில் ஒரு பயணிகள் பஸ் புலம் பெயர்ந்தோரை ஏற்றி சென்று கொண்டிருந்தது. அப்போது, ஓட்டுநரின் கட்டுபாட்டை இழந்த பஸ் ஒரு லொறி மற்றும் பைக் மீது மோதி விபத்துக்குள்ளானது.
-
-இந்த விபத்தில் 17 குழந்தைகள் உட்பட 71 பேர் உடல் கருகி உயிரிழந்துள்ளனர்.
-
-ஈரான் அகதிகளை ஏற்றிக் கொண்டு காபூல் நகரை நோக்கி பஸ் சென்ற போது, இந்த விபத்து நிகழ்ந்துள்ளது என்பது விசாரணையில் தெரியவந்துள்ளது.
-
-இந்த விபத்தில் 71 பேர் உயிரிழந்தனர் என்பதை ஆப்கானிஸ்தான் மாகாண அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
-
-இந்த விபத்து சமீபத்திய வரலாற்றில் மிகவும் மோசமான போக்குவரத்து பேரழிவுகளில் ஒன்றாகும் என மாகாண அரசாங்க செய்தி தொடர்பாளர் அஹ்மதுல்லா முத்தகி தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/3e5ecd6d.json)
-
----
-
-### Govt. refuses to back down on fingerprint system as postal strike continues
-
-*2025-08-20 12:22:16* · [`dailyftlk`](https://www.ft.lk/news/Govt-refuses-to-back-down-on-fingerprint-system-as-postal-strike-continues/56-780447) · `en`
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa says ready to meet with TUs only if they agree to Govt. decisions on implementation of fingerprint attendance system and changes to overtime pay
-
-Asserts Govt. already addressed 17 of the 19 demands presented by postal unions
-
-Warns trade unions who do not agree to fingerprint system can seek employment elsewhere
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday said he is prepared to meet with postal trade unions only if they agree to Government decisions on the implementation of a fingerprint attendance system and changes to overtime pay.
-
-Speaking at the post-Cabinet meeting media briefing, he stressed that even brief work stoppages result in financial losses for the Department of Posts, while prolonged strikes could strain the Treasury and jeopardise future salary and overtime payments.
-
-...
-
-[Data](articles/8ae88306.json)
-
----
-
-### Govt. allocates Rs. 1 b to support marriages of youth leaving child care centres
-
-*2025-08-20 12:20:59* · [`dailyftlk`](https://www.ft.lk/news/Govt-allocates-Rs-1-b-to-support-marriages-of-youth-leaving-child-care-centres/56-780446) · `en`
-
-The Cabinet of Ministers on Monday approved providing financial assistance of Rs. 1 million each to young men and women leaving child development centres, to help them establish stable and secure homes as they prepare for marriage.
-
-Accordingly, a total provision of Rs. 1 billion has been allocated in the 2025 Budget for this initiative, which will be jointly implemented by the Women and Child Affairs Ministry, the Department of Probation and Child Protection Services, the Department of Finance Development, Provincial Probation Departments, District Secretaries, and Divisional Secretaries.
-
-...
-
-[Data](articles/d0b14fcf.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 15:20:11**
+As of **2025-08-20 15:32:39**
 
 ## Newspaper Stats
 
-*Scraped **71,355** Articles*
+*Scraped **71,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,010
+dailyftlk | 5,012
 adalk | 6,859
 adaderanalk | 8,986
-tamilmirrorlk | 10,493
+tamilmirrorlk | 10,494
 virakesarilk | 11,816
 adaderanasinhalalk | 12,332
 
@@ -26,17 +26,69 @@ adaderanasinhalalk | 12,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,355 articles have been extended.
+61,973 (86.8%) of 71,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
 
+### SLANZBC hosts 30th AGM followed by panel discussion on “Accelerating Sri Lanka’s Digital Economy”
+
+*2025-08-20 15:18:28* · [`dailyftlk`](https://www.ft.lk/business/SLANZBC-hosts-30th-AGM-followed-by-panel-discussion-on-Accelerating-Sri-Lanka-s-Digital-Economy/34-780477) · `en`
+
+Newly appointed Committee of Sri Lanka-Australia-New Zealand Business Council of The Ceylon Chamber of Commerce 2025/26
+
+The 30th Annual General Meeting of the Sri Lanka-Australia-New Zealand Business Council (SLANZBC) of The Ceylon Chamber of Commerce was held on 7 July, with High Commissioner of Australia to Sri Lanka Paul Stephens and High Commissioner of New Zealand to Sri Lanka and Maldives David Pine in attendance as Chief Guests.
+
+High Commissioner Paul Stephens acknowledged Sri Lanka’s resilience during the recent economic challenges and emphasised the need for accelerated reforms, including export diversification, investment, climate improvements, tourism, vocational education, and digitalisation, to prepare for debt repayments from 2028.
+
+...
+
+[Data](articles/88926a4d.json)
+
+---
+
+### Econsulate launches Sri Lanka’s first platform in ground–air robotics
+
+*2025-08-20 15:16:30* · [`dailyftlk`](https://www.ft.lk/business/Econsulate-launches-Sri-Lanka-s-first-platform-in-groundair-robotics/34-780476) · `en`
+
+Econsulate has launched Sri Lanka’s first platform in ground–air robotics.
+
+Named “Xavier 4.0” it is a mission-ready platform combining the power of the RG 311 #UGV and the Beak B 150 #UAV, designed and developed from the ground up, into one seamless autonomous platform.
+
+“With all-terrain mobility, autonomous navigation, 3D spatial mapping, rapid aerial deployment, and high-definition imaging working in harmony, it redefines how ground and air intelligence operate together,” Econsulate said.
+
+“Designed, engineered, and built entirely in Sri Lanka, Xavier 4.0 is the first of its kind in the region and places Econsulate among a select group of companies worldwide to achieve such integration. This is more than a technological achievement, it’s a milestone for Sri Lanka and a signal to the world that world-class innovation can rise from our shores,” the company added.
+
+◼️
+
+[Data](articles/d6009d2a.json)
+
+---
+
+### விசேட தேவையுடையவர்களுக்கு நற்செய்தி
+
+*2025-08-20 15:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையவர்களுக்கு-நற்செய்தி/175-363136) · `ta`
+
+நீண்டகாலமாக இருந்த தடைகள் நீக்கப்பட்ட பின்னர், இலங்கையில் மாற்றுத்திறனாளிகள் இப்போது ஓட்டுநர் உரிமங்களைப் பெறுவதற்கான வாய்ப்பைப் பெறுவார்கள் என்று பாராளுமன்ற உறுப்பினர் சுகத் வசந்த டி சில்வா இன்று தெரிவித்தார்.
+
+அரசாங்க தகவல் திணைக்களத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் பேசிய அவர், கேட்கும் திறன் அல்லது பேச்சு குறைபாடு உள்ளவர்கள் மற்றும் பகுதியளவு பார்வை திறன் கொண்டவர்கள் புதிய விதிகளின் கீழ் விண்ணப்பிக்க முடியும் என்று விளக்கினார். நாட்டில் 1.6 மில்லியனுக்கும் அதிகமான மாற்றுத்திறனாளிகளின் நடமாட்ட உரிமைகளை உறுதி செய்வதை நோக்கமாகக் கொண்ட பல ஆண்டுகால விவாதங்களைத் தொடர்ந்து இந்த மாற்றம் ஏற்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+போக்குவரத்து அமைச்சகத்தின் ஆலோசனைக் குழுவிலும் பணியாற்றும் எம்.பி. சுகத், மாற்றுத்திறனாளிகள் எதிர்கொள்ளும் முக்கிய சவால்களில் ஒன்று மருத்துவ சான்றிதழ் இல்லாதது மற்றும் பல்வேறு உடல் நிலைமைகளுக்கு ஏற்ற வாகன ஏற்பாடுகள் இல்லாதது என்று கூறினார்.
+
+...
+
+[Data](articles/c58cc080.json)
+
+---
+
 ### රාජිතට අධිකරණයේ පෙනී සිටින්නැයි නොතීසි
 
 *2025-08-20 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213581) · `si`
 
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබෙන හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට අගෝස්තු මස 29 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (20) නොතිසි නිකුත් කර තිබේ.
+අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබෙන හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට අගෝස්තු මස 29 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (20) නොතීසි නිකුත් කර තිබේ.
+
+අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි මහත්මිය විසින් අපරාධ නඩු විධාන සංග්‍රහයේ 60(1) වගන්තිය යටතේ මෙම නොතීසි නිකුත් කළාය.
 
 ◼️
 
@@ -48,19 +100,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-20 15:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களை-உங்களுக்குத்-தெரியுமா/175-363135) · `ta`
 
-ஆயுதங்களை வைத்திருந்தது தொடர்பாக தேடப்படும் மூன்று சந்தேக நபர்களைக் கைது செய்ய இலங்கைப் பொலிஸ் பொதுமக்களின் உதவியை நாடியுள்ளது.
+கிரிபத்கொட காவல் நிலையத்தால் 2025.07.21 அன்று, நடத்தப்பட்ட சோதனையின் போது, T-56 துப்பாக்கி வைத்திருந்த ஒரு சந்தேக நபர் முச்சக்கர வண்டியில் பயணித்துக் கொண்டிருந்தார். சந்தேக நபரால் வெளிப்படுத்தப்பட்ட தகவலின் அடிப்படையில், வவுனியா பிரிவு குற்றப் புலனாய்வுப் பணியக அதிகாரிகள் கைக்குண்டுகளுடன் ஒரு சந்தேக நபரைக் கைது செய்தனர்.
 
-பொலிஸாரின் கூற்றுப்படி, ஜூலை 2025 இல் கிரிபத்கொடையில் நடத்தப்பட்ட சோதனையின் போது T-56 துப்பாக்கியுடன் ஒரு சந்தேக நபர் கைது செய்யப்பட்டார்.
+மேற்கண்ட சந்தேக நபர்கள் பயங்கரவாத எதிர்ப்பு மற்றும் புலனாய்வுப் பிரிவால் கைது செய்யப்பட்டனர், மேலும் விசாரணைகளில் கைக்குண்டுகளை வைத்திருந்த மற்றொரு சந்தேக நபர் மற்றும் அந்த நடவடிக்கைகளில் ஈடுபட்ட இரண்டு சந்தேக நபர்கள் பற்றிய தகவல்கள் தெரியவந்தது.
 
-சந்தேக நபரிடமிருந்து கிடைத்த தகவலின் அடிப்படையில், வவுனியாவில் கைக்குண்டுடன் மற்றொரு சந்தேக நபரை பொலிஸார் கைது செய்தனர்.
+அதன்படி, பயங்கரவாத எதிர்ப்பு மற்றும் புலனாய்வுப் பிரிவைச் சேர்ந்த அதிகாரிகள் குழு மூன்று சந்தேக நபர்களைக் கைது செய்ய வவுனியா பகுதிக்குச் சென்றிருந்தது. அதற்குள், சந்தேக நபர்கள் தங்கள் வசிப்பிடப் பகுதிகளை விட்டு வெளியேறிவிட்டனர். மூன்று சந்தேக நபர்களின் விவரங்கள் பின்வருமாறு.
 
-விசாரணைகளைத் தொடர்ந்து, கைக்குண்டு வைத்திருந்த ஒரு சந்தேக நபர் மற்றும் அவருடன் தொடர்புடைய மேலும் இரண்டு சந்தேக நபர்கள் பற்றிய தகவல்களை பொலிஸார் கண்டுபிடித்தனர்.
-
-வவுனியா பொலிஸார் சந்தேக நபர்களைக் கைது செய்ய நடவடிக்கை எடுத்த போதிலும், அவர்கள் தங்கள் வசிப்பிடங்களை விட்டு வெளியேறி இருப்பது கண்டறியப்பட்டது.
-
-இதனால், 30 மற்றும் 27 வயதுடைய மூன்று பேரைக் கைது செய்ய பொலிஸ் பொதுமக்களின் உதவியை நாடியுள்ளது.
-
-சந்தேக நபர்கள் பற்றிய தகவல் தெரிந்தவர்கள் 071-8591966 அல்லது 071-8596150 என்ற எண்ணில் பொலிஸாரைத் தொடர்பு கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
+மேலுள்ள சந்தேக நபர்கள் குறித்து ஏதேனும் தகவல் இருந்தால் பின்வரும் தொலைபேசி எண்களுக்குத் தெரிவிக்குமாறு பொலிஸ் பொதுமக்களைக் கேட்டுக்கொள்கிறது.
 
 ◼️
 
@@ -1729,51 +1775,5 @@ The two sides said they would restore direct flights suspended since the COVID-1
 ...
 
 [Data](articles/7482e932.json)
-
----
-
-### Few showers expected in parts of the country today
-
-*2025-08-20 05:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111651/few-showers-expected-in-parts-of-the-country-today-) · `en`
-
-A few showers can be expected in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara Eliya, Galle and Matara districts today (20), the Department of Meteorology said.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills, according to the Met. Department.
-
-◼️
-
-[Data](articles/78f7dd72.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் CIDயால் அழைக்கப்பட்டுள்ளார்
-
-*2025-08-20 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222911) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கே எதிர்வரும் 22ஆம் திகதி வெள்ளிக்கிழமை குற்றப் புலனாய்வுத் துறைக்கு அழைக்கப்பட்டுள்ளார்.
-
-இது அரசாங்க நிதி தனியார் வெளிநாட்டு பயணத்திற்கு பயன்படுத்தப்பட்டதாகக் கூறப்படும் சம்பவம் தொடர்பான விசாரணை ஆகும்.
-
-இந்தப் பயணம் 2023 ஆண்டு, செப்டம்பர் 22 மற்றும் 23 ஆகிய திகதிகளில் நடந்ததாகக் கூறப்படுகிறது.
-
-இந்தப் பயணத்தில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் பத்து பேர் சென்றதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-மேற்குறித்த விசாரணை தொடர்பாக முன்னாள் ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்க மற்றும் முன்னாள் ஜனாதிபதியின் தனிப்பட்ட செயலாளர் சாண்ட்ரா பெரேரா ஆகியோரிடமிருந்து வாக்குமூலங்களைப் பதிவு செய்ய குற்றப் புலனாய்வுத் துறை முன்னர் நடவடிக்கை எடுத்திருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d4f17cac.json)
-
----
-
-### வரலாற்றிலிருந்தும், தவறுகளில் இருந்தும் பாடங்களை கற்பார்களா? புதிய யாப்பு உருவாக்கம் தாமதமாகக்கூடாது
-
-*2025-08-20 03:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/222910) · `ta`
-
-புதிய அரசியலமைப்பு உருவாக்கப்படுமா, எப்போது அதற்கான நடவடிக்கைகள் ஆரம்பிக்கப்படும், அதன் செயற்பாடுகள் எப்படி முன்னெடுக்கப்படும் என்பது குறித்து எதிர்க்கட்சிகள் தொடர்ந்து கேள்விகளை எழுப்பி வருகின்றன. பாராளுமன்றத்திற்கு உள்ளேயும் வெளியேயும் எதிர்க்கட்சி அரசியல்வாதிகள், சிவில் சமூக பிரதிநிதிகள், மனித உரிமை காப்பாளர்கள் என பல தரப்பினரும் இந்தக் கேள்வியைத் தொடர்ந்து கேட்டு வருகின்றனர். புதிய அரசியலமைப்புக்கான நடவடிக்கை எப்போது எடுக்கப்படும் என்பது மிக முக்கியமான கேள்வியாக இருப்பதோடு, அதற்கான பதிலும் அவசியமாக இருக்கிறது.....
-
-◼️
-
-[Data](articles/03d6301d.json)
 
 ---

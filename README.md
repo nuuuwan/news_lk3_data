@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 04:48:57**
+As of **2025-08-21 05:06:42**
 
 ## Newspaper Stats
 
-*Scraped **71,450** Articles*
+*Scraped **71,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,037
+dailyftlk | 5,041
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,11 +26,81 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,450 articles have been extended.
+61,973 (86.7%) of 71,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### President calls for stronger rural development, social security focus in 2026 Budget
+
+*2025-08-21 04:41:52* · [`dailyftlk`](https://www.ft.lk/news/President-calls-for-stronger-rural-development-social-security-focus-in-2026-Budget/56-780554) · `en`
+
+Urges officials to ensure allocations channelled towards improving rural living standards
+
+Says enable communities to become direct contributors to national economy
+
+President Anura Kumara Disanayake on Tuesday stressed the need for effective use of rural development funds and stronger social welfare measures during a review of projects implemented under the 2025 Budget allocations for the Rural Development, Social Security and Community Empowerment Ministry. The meeting, held at the Presidential Secretariat, also initiated discussions on proposals for the 2026 Budget.
+
+The President urged officials to ensure that allocations are channelled towards improving rural living standards in ways that allow communities to become direct contributors to the national economy. “When funds flow into villages in a structured and meaningful manner, rural economies can be rapidly strengthened,” he noted.
+
+...
+
+[Data](articles/b8598bc1.json)
+
+---
+
+### Representatives of Young South Asian Leaders Initiative meet with Speaker
+
+*2025-08-21 04:40:23* · [`dailyftlk`](https://www.ft.lk/news/Representatives-of-Young-South-Asian-Leaders-Initiative-meet-with-Speaker/56-780553) · `en`
+
+A group of representatives of the Young South Asian Leaders Initiative (YSALI) visited the Parliament of Sri Lanka on Tuesday. The delegation, comprising 80 young delegates from Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka, is participating in the Young South Asian Leaders Regional Workshop being held in Colombo from 17-21 August.
+
+During their parliamentary visit, the delegation met with the Speaker of the Parliament Dr. Jagath Wickramaratne. Speaker explained the functioning of the Parliament of Sri Lanka as well as the importance of the contribution of the young generation of Sri Lanka towards the current socio-political transformation taking place in the country.
+
+He further stated that the present youth generation, which has emerged through the inheritance of technology, bears a unique responsibility to create a better world, and that these young delegates, as the young community of South Asia, have the responsibility of providing leadership in this regard.
+
+...
+
+[Data](articles/6c0f3563.json)
+
+---
+
+### Cabinet approves Rs. 86 m renovation of Modara Fisheries cool rooms
+
+*2025-08-21 04:37:51* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-Rs-86-m-renovation-of-Modara-Fisheries-cool-rooms/56-780552) · `en`
+
+The Cabinet of Ministers on Monday approved the completion of renovation works on the Modara freezer and cool room facility, one of the largest in South Asia, by utilising funds already allocated to the Fisheries, Aquatic and Ocean Resources Ministry under the 2025 Budget.
+
+Announcing the decision at the weekly post-Cabinet media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said the renovation project has been estimated at Rs. 86 million.
+
+The Modara facility, owned by the Ceylon Fisheries Corporation, has long been recognised as a strategic national asset for fish storage and preservation. However, Dr. Jayatissa acknowledged that the cool rooms had fallen into disrepair due to weak maintenance and management lapses.
+
+“Plans have now been drawn to renovate and restore two of the cool rooms, with storage capacities of 200 tons and 2.5 tons respectively,” he said.
+
+...
+
+[Data](articles/05b08018.json)
+
+---
+
+### Govt. apartment complexes over 40 years old in Colombo to be redeveloped next year: NHDA
+
+*2025-08-21 04:37:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-apartment-complexes-over-40-years-old-in-Colombo-to-be-redeveloped-next-year-NHDA/56-780551) · `en`
+
+The National Housing Development Authority (NHDA) officials recently disclosed that the Government apartment complexes in the Colombo District over 40 years old, are planned to be redeveloped next year.
+
+This was revealed during a meeting of the Sectoral Oversight Committee on Infrastructure and Strategic Development held in Parliament recently, Chaired by MP S.M. Marikkar.
+
+The officials informed the committee that there are 45 apartment housing projects over 40 years old within the Colombo District, comprising around 10,000 housing units.
+
+Accordingly, the committee Chairman instructed the officials to submit a report within a month detailing how these redevelopment projects will be implemented, including decisions regarding current residents of those housing complexes.
+
+...
+
+[Data](articles/d60dca4d.json)
+
+---
 
 ### Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation
 
@@ -1705,73 +1775,5 @@ He further explained that the price reduction was implemented to provide relief 
 ...
 
 [Data](articles/70806441.json)
-
----
-
-### සංස්ථා ලුණු මිල පහළට
-
-*2025-08-20 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213579) · `si`
-
-ලංකා ලුණු සමාගම විසින් අයඩින් මිශ්‍ර ලක් ලුණු මිල ගණන් පහළ දමා තිබේ.
-
-එම සංස්ථාවේ සභාපතිවරයා අද (20) පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව සඳහන් කළේය.
-
-ඒ අනුව අයඩින් මිශ්‍ර ග්‍රෑම් 400 ලුණු කුඩු පැකට්ටුවක් රු 20කින් මිල පහළ දමා ඇති අතර, කිලෝග්‍රෑම් 1 ලුණු කුඩු පැකට්ටුවක මිල රුපියල් 30කින් පහළ දමා තිබේ.
-
-ඒ අනුව ග්‍රෑම් 400 ලුණු කුඩු පැකට්ටුවක් රු 100ක මිලකට ද කිලෝග්‍රෑම් 1 ලුණු කුඩු පැකට්ටුවක් රුපියල් 200 මිලකට සහ කිලෝග්‍රෑම් 1 කැට ලුණු පැකට්ටුවක් රුපියල් 150ක වැනි මිලකට ලබන සතියේ සිට අලෙවි වනු ඇත.
-
-මේ අතර සතොසෙන් සංස්ථා ලුණු කුඩු ග්‍රෑම් 400 පැකට්ටුවක් රු 90ක වැනි මිලකට ලබාගත හැකි බව ද සභාපතිවරයා වැඩිදුරටත් කියා සිටියේය.
-
-හම්බන්තොට මහලේවායේ, බුන්දල ලේවායේ සහ පලටුපාන ලේවායේ ලුණු අස්වනු නෙළීම මේ වනවිට ආරම්භ කර ඇති බැවින් ජනාතාවට සහනයක් සැලසීමේ අරමුණින් මෙලෙස මිල ගණන් පහළ දැමූ බව ද සභාපතිවරයා පැවසීය.
-
-◼️
-
-[Data](articles/6cb24c2f.json)
-
----
-
-### சர்வதேச தபால்கள்  BIA-வில்  தேக்கம்
-
-*2025-08-20 14:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தபால்கள்-BIA-வில்-தேக்கம்/175-363128) · `ta`
-
-தபால் ஊழியர்களின் தொடர்ச்சியான வேலைநிறுத்தம் காரணமாக, பல்வேறு நாடுகளிலிருந்து இலங்கைக்கு அனுப்பப்பட்ட ஏராளமான கடிதங்கள் மற்றும் பொதிகள் புதன்கிழமை (20) நண்பகல் 12.00 மணியளவில் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் (BIA) சரக்கு மையத்தில் குவிந்துள்ளன.
-
-சர்வதேச தபால்களின் குவிப்பு அத்தியாவசிய ஆவணங்கள் மற்றும் பொதிகளை வழங்குவதில் தாமதம் ஏற்படுவது குறித்து கவலைகளை எழுப்பியுள்ளது, ஏனெனில் வேலைநிறுத்தம் நாடு முழுவதும் தபால் நடவடிக்கைகளை தொடர்ந்து பாதிக்கிறது.
-
-◼️
-
-[Data](articles/e6c7ebe4.json)
-
----
-
-### மாவனெல்ல யுவதி மாயம்
-
-*2025-08-20 14:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாவனெல்ல-யுவதி-மாயம்/76-363127) · `ta`
-
-ஒரு இளம் பெண் காணாமல் போனது தொடர்பாக. மாவனெல்ல பொலிஸ் பிரிவில் உள்ள கெடப்பா, கலத்தரா என்ற முகவரியில் வசிக்கும் ஒருவர் தனது மகள் 2025.07.28 முதல், காணாமல் போனது தொடர்பாக மாவனெல்ல பொலிஸ் நிலையத்தில் அளித்த புகாரின் பேரில் விசாரணை நடந்து வருகிறது.
-
-இந்த இளம் பெண்ணைக் கண்டுபிடிப்பதில் பொலிஸார் பொதுமக்களின் உதவியை நாடுகிறது மற்றும் அவரது புகைப்படத்தை உங்களுக்கு அனுப்புகிறது. இந்த இளம் பெண்ணைப் பற்றி ஏதேனும் தகவல் இருந்தால், 071-8591418 என்ற தொலைபேசி எண்ணைத் தொடர்பு கொள்ளவும்:
-
-◼️
-
-[Data](articles/0313cad4.json)
-
----
-
-### அரைகுறை உடையணிந்து அதிரடியான அறிவிப்பு
-
-*2025-08-20 14:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரைகுறை-உடையணிந்து-அதிரடியான-அறிவிப்பு/150-363125) · `ta`
-
-அளித்த போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர், அரைகுறையாக உடையணிந்த  ஊடகங்களுக்கு பேட்டி கொடுக்கையில்,  நடந்து வரும் தபால் வேலைநிறுத்தம் குறித்து பொய்யான தகவல்களுடன் பொதுமக்களை தவறாக வழிநடத்துவதாக குற்றம் சாட்டினார்.
-
-அதிகாரிகள் போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்கத் தவறிவிட்டதாகவும், அதே நேரத்தில் அமைச்சர் தபால் மற்றும் அதிகாரிகள் "ஊழியர்களை முட்டாளாக்கி முழு நாட்டிற்கும் பொய் சொல்கிறார்கள்" என்றும் அவர் கூறினார்.
-
-தற்போதைய  600 ரூபாய் கொடுப்பனவில் சீருடை தைக்க முடியுமா என்றும் ஊழியர் கேள்வி எழுப்பினார்.
-
-"சீருடை கொடுப்பனவு, மிதிவண்டி கொடுப்பனவு மற்றும் ஒப்பந்த ஊழியர்களை நிரந்தரமாக நியமிக்க வேண்டும் என்று நாங்கள் கோரியுள்ளோம். அதற்கு பதிலாக, அதிகாரிகள் கைரேகை மற்றும் கூடுதல் நேரம் பற்றி தொடர்ந்து பேசுகிறார்கள்," என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/559dac1a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 12:49:57**
+As of **2025-08-20 13:07:18**
 
 ## Newspaper Stats
 
-*Scraped **71,308** Articles*
+*Scraped **71,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,003
 adalk | 6,856
-adaderanalk | 8,979
+adaderanalk | 8,984
 tamilmirrorlk | 10,474
 virakesarilk | 11,811
-adaderanasinhalalk | 12,326
+adaderanasinhalalk | 12,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,308 articles have been extended.
+61,973 (86.9%) of 71,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### ගාසා අල්ලන සැලැස්මට ඊශ්‍රායලයේ අනුමැතිය
+
+*2025-08-20 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213576) · `si`
+
+ගාසා නගරය යටත් කර ගැනීමේ සැලැස්මට ඊශ්‍රායල ආරක්ෂක අමාත්‍යවරයා අනුමැතිය ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එමෙන්ම ඒ සඳහා ආරක්ෂක භටයින් 60,000ක් පමණ කැඳවීමට අවසර දී ඇති බව ද විදෙස් මාධ්‍ය තහවුරු කර තිබේ.
+
+◼️
+
+[Data](articles/9ad61a3e.json)
+
+---
+
+### Israel approves plan to conquer Gaza City, call up 60,000 reservists
+
+*2025-08-20 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111672/israel-approves-plan-to-conquer-gaza-city-call-up-60000-reservists) · `en`
+
+Israeli Defence Minister Israel Katz has approved the military’s plan to take over Gaza City and authorised the call-up of around 60,000 reservists to carry it out, his ministry has confirmed.
+
+Thousands of people fearing an imminent Israeli ground offensive are estimated to have fled the area in the past few days for points to the west and south in the shattered territory.
+
+The confirmation comes as Israel studies Hamas’ response to a proposal for a 60-day ceasefire and release of half the hostages still held in Gaza.
+
+Efforts to pause the fighting had gained new momentum over the past week after Israel announced plans for a new offensive to seize control of Gaza City at the heart of the Palestinian territory.
+
+Mediators Egypt and Qatar have been pushing proposals to restart indirect talks between the sides on a US-backed ceasefire plan.
+
+...
+
+[Data](articles/1a96cd91.json)
+
+---
 
 ### Sri Lanka–Indonesia Business Council holds 2nd Annual General Meeting
 
@@ -175,6 +209,24 @@ Accordingly, a total provision of Rs. 1 billion has been allocated in the 2025 B
 ◼️
 
 [Data](articles/8160b74c.json)
+
+---
+
+### Strike launched at Gampaha Hospital by allied health professionals
+
+*2025-08-20 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111670/strike-launched-at-gampaha-hospital-by-allied-health-professionals) · `en`
+
+The Joint Council of Professions Supplementary to Medicine (JCPSM) has launched an unannounced trade union action at 8:00 a.m. today (20) at the Gampaha District General Hospital, ahead of a previously scheduled province-wide strike planned for tomorrow.
+
+According to JCPSM General Secretary Chanaka Dharmawickrama, the sudden move was triggered by a letter issued by the Director of the hospital instructing allied health professionals not to sign attendance records, prompting all such staff to withdraw from duties at the hospital.
+
+He added that discussions are currently ongoing with the hospital director, who has so far failed to provide a proper response to the matter.
+
+Previously, the JCPSM had announced plans to initiate trade union action from tomorrow (21) across 31 hospitals under the Western Provincial Council, in protest against the implementation of the 2024 transfer orders, which they claim were issued amid serious irregularities and strong opposition.
+
+...
+
+[Data](articles/f46ef9fc.json)
 
 ---
 
@@ -330,6 +382,44 @@ Cargo has been making profits though SriLankan Airlines has been incurring a los
 
 ---
 
+### “I want to try and get to heaven”: Trump on solving Russian-Ukraine war
+
+*2025-08-20 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111667/i-want-to-try-and-get-to-heaven-trump-on-solving-russian-ukraine-war) · `en`
+
+U.S. President Donald Trump said Tuesday that a Ukraine peace deal could boost his chances of getting to heaven -- joking that his odds of making it through the pearly gates are currently low.
+
+The 79-year-old US president has previously said he wants to end Russia’s war in Ukraine as part of his bid to win the Nobel Peace Prize.
+
+But a day after hosting the leaders of Ukraine and several European nations at the White House, Trump said his motivations were not all earthly.
+
+“I want to try and get to heaven if possible,” Trump told Fox News morning show “Fox & Friends.”
+
+“I hear I’m not doing well -- I hear I’m really at the bottom of the totem pole! But if I can get to heaven this will be one of the reasons.”
+
+By traditional yardsticks the three-times-married, twice-impeached Trump is no saint.
+
+...
+
+[Data](articles/2b379c1d.json)
+
+---
+
+### Deshabandu Tennakoon’s anticipatory bail application rejected
+
+*2025-08-20 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111666/deshabandu-tennakoons-anticipatory-bail-application-rejected) · `en`
+
+An anticipatory bail application filed by former Inspector General of Police (IGP) Deshabandu Tennakoon, seeking an order to prevent his arrest, has been rejected by the Colombo Fort Magistrate’s Court, Ada Derana reporter said.
+
+The bail application, filed by attorneys of the former IGP was considered by Colombo Fort Magistrate Nilupuli Lankapura this morning.
+
+Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
+
+◼️
+
+[Data](articles/631d1692.json)
+
+---
+
 ### දේශබන්දුගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
 
 *2025-08-20 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213574) · `si`
@@ -361,6 +451,26 @@ Cargo has been making profits though SriLankan Airlines has been incurring a los
 ...
 
 [Data](articles/0b5dae12.json)
+
+---
+
+### We want Jaffna Airport to be a success story unlike Mattala: Bimal
+
+*2025-08-20 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111665/we-want-jaffna-airport-to-be-a-success-story-unlike-mattala-bimal) · `en`
+
+The Jaffna International Airport will be gradually upgraded with a business plan, Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayaka assured in Parliament today (20).
+
+In response to a question raised by Ilankai Tamil Arasu Kachchi (ITAK) Member of Parliament S. Shritharan, Minister Rathnayaka said they are hoping to extend the airport runway before the middle of next year but ruled out major expansion due to financial constraints.
+
+He said they are hoping to expand the runway in a bid to facilitate the landing of aircraft that can carry around 130 passengers.
+
+The Minister noted they cannot expand the airport to cater large wide-body aircraft like at the Mattala International Airport as it will not be feasible.
+
+He stressed that they are determined to make the Jaffna Airport a success story unlike the Mattala Airport which is using large sums of funds, mostly generated by the Bandaranaike International Airport (BIA).
+
+...
+
+[Data](articles/5122de87.json)
 
 ---
 
@@ -926,11 +1036,13 @@ The mission, carried out in a highly hostile and unpredictable operational envir
 
 *2025-08-20 05:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111653/suwa-seriya-ambulances-to-be-increased-from-272-to-400) · `en`
 
-A review of the projects implemented under the 2025 budgetary allocations for the Ministry of Health and Mass Media, together with a pre-budget discussion for the year 2026, was held yesterday (19) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
+Authorities are seeking provisions to increase the number of “Suwa Seriya” ambulances, currently operational in different parts of the country from 272 to 400.
 
-The discussion broadly scrutinized the allocations made for 41 institutions under four departments of the Ministry of Health and Mass Media, as well as the progress of projects implemented accordingly.
+This proposal was deliberated during a review of the projects implemented under the 2025 budgetary allocations for the Ministry of Health and Mass Media, together with a pre-budget discussion for the year 2026, held at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
 
-The President instructed officials to focus special attention in the upcoming budget on strengthening primary healthcare services. He also reviewed the ongoing programme for developing Primary Health Centres. It was revealed that currently one Primary Health Centre operates per 30,000 people; the plan is to improve one centre per 10,000 people.
+The discussion broadly scrutinized the allocations made for 41 institutions under four departments of the Ministry of Health and Mass Media, as well as the progress of projects implemented accordingly, the President’s Media Division said.
+
+During the review meeting, the President instructed officials to focus special attention in the upcoming budget on strengthening primary healthcare services.
 
 ...
 
@@ -1693,115 +1805,5 @@ He said once a discussion is held with the Minister to discuss their demands, th
 ◼️
 
 [Data](articles/71193aa9.json)
-
----
-
-### நிகழ்நிலைக்காப்புச் சட்டம் அரசுக்கு ஒரு அக்னிப்பரீட்சை
-
-*2025-08-19 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222881) · `ta`
-
-“நிகழ்நிலை காப்புச் சட்டத்தினை மீளப்பெற வேண்டும் என்று எதிர்க்கட்சி ஆசனத்தில் அமர்ந்த கூறிய அநுரகுமார அரசாங்கம் ஆட்சிப்பீடத்தில் அமர்ந்திருந்து அச்சட்டத்தினை திருத்தம் செய்ய முயல்கின்றமையானது முரண்நகை”
-
-◼️
-
-[Data](articles/355b64e1.json)
-
----
-
-### Man injured in Peliyagoda shooting succumbs
-
-*2025-08-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111641/man-injured-in-peliyagoda-shooting-succumbs) · `en`
-
-An individual who was injured in a shooting incident in Peliyagoda earlier today (19), has succumbed to his injuries.
-
-A shooting was reported along the Gnanarathana Mawatha in Peliyagoda.
-
-According to police, the suspects, who arrived on a motorcycle, opened fire, injuring a trader in the Peliyagoda fish market.
-
-◼️
-
-[Data](articles/512eced1.json)
-
----
-
-### Ceylon Printers re-named Kerner Haus Global Solutions
-
-*2025-08-19 15:15:00* · [`economynextcom`](https://economynext.com/ceylon-printers-re-named-kerner-haus-global-solutions-237324/) · `en`
-
-ECONOMYNEXT – Ceylon Printers PLC, a Sri Lankan stationery merchant and printer, has changed its name to “Kerner Haus Global Solutions PLC” according to a stock exchange filing.
-
-The company is involved in commercial printing and the import and sale of ATM cards, credit cards and PIN mailers.
-
-◼️
-
-[Data](articles/c84cf293.json)
-
----
-
-### සාකච්ඡාවෙන් පසුවත් තැපැල් වර්ජනය අඛණ්ඩව
-
-*2025-08-19 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213549) · `si`
-
-ජනාධිපති ලේකම් කාර්යාලයේ පැවැති සාකච්ඡාව සාර්ථක වුවත් වර්ජනය අඛණ්ඩව ක්‍රියාත්මක බව තැපැල් වෘත්තීය සමිති අද (19) පස්වරුවේ පැවසීය.
-
-ජනාධිපති මහජන සම්බන්ධතා අධ්‍යක්ෂ ජෙනරාල් ධර්මසිරි ගමගේ මහතා සමග පැවැති සාකච්ඡාවෙන් අනතුරුව තැපැල් වෘත්තීය සමිති මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
-
-ඉල්ලීම් 19ක් මුල් කරගනිමින් ඉකුත් 17 වනදා සිට තැපැල් වෘත්තීය සමිති මෙලෙස වර්ජනයක නිතර වෙයි.
-
-මේ හේතුවෙන් දිවයින පුරා සියලු තැපැල් කාර්යාලවල කටයුතු අඩපණ වී තිබේ.
-
-අද පැවැති සාකච්ඡාවෙන් අනතුරුව තැපැල් හා විදුලි සංදේශන නිලධාරීන්ගේ සංගමයේ සභාපති ඊ. ජී. සී. නිරෝෂන මහතා සඳහන් කළේ,
-
-"ඇමතිතුමා එක්ක අපිට වහාම සාකච්ඡාවක් ලබාදෙන්න. ඒ සාකච්ඡාවෙන් අනතුරුව අපි ලෑස්තියි අඛණ්ඩ වැඩවර්ජනය අවසන් කරන්න. එතෙක් අඛණ්ඩ වැඩවර්ජනය ක්‍රියාත්මකයි."
-
-◼️
-
-[Data](articles/be95bc7e.json)
-
----
-
-### Ten suspects linked to criminal activities arrested with weapons in Gampaha
-
-*2025-08-19 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111640/ten-suspects-linked-to-criminal-activities-arrested-with-weapons-in-gampaha-) · `en`
-
-A group of individuals connected to drug and organized crime networks in the Gampaha District have been arrested along with firearms, police stated.
-
-The arrests were made during a raid conducted based on information received by police.
-
-According to police, 10 suspects were taken into custody during the operation.
-
-Additionally, during separate raids carried out in Parakandeniya, Daluwakotuwa, and Katana, police recovered one repeater-type firearm, one pistol, nine T-56 magazines, 183 rounds of T-56 ammunition, 280 rounds of 9mm ammunition, a sword, and 300 grams of crystal meth (commonly known as “ice”).
-
-Police also seized a motorcycle and a car used by the suspects.
-
-Further investigations into the incident are being carried out by the Ganemulla Police.
-
-◼️
-
-[Data](articles/1c22ad09.json)
-
----
-
-### ‘Only CBSL can print money’ - Minister denies claims by various factions
-
-*2025-08-19 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111639/only-cbsl-can-print-money-minister-denies-claims-by-various-factions) · `en`
-
-Deputy Minister of Economic Development Anil Jayantha has reiterated in Parliament that the government has not printed money as claimed by various factions.
-
-He was responding to claims made by certain organizations alleging that Rs. 1.2 trillion had been printed under the incumbent administration.
-
-The Deputy Minister said such statements were either made “intentionally or out of ignorance.”
-
-He explained that, under present circumstances, the government neither has the ability nor the legal authority to print money.
-
-Clarifying further, he stated that the recent monetary expansion has taken place through reserve money operations carried out by the Central Bank of Sri Lanka (CBSL), which should not be confused with government-driven currency printing.
-
-He stressed that portraying it otherwise is misleading to the public.
-
-The Deputy Minister noted that Sri Lanka currently has Rs. 1.6 trillion in reserve money, while the broad money supply has reached nearly Rs. 15 trillion.
-
-...
-
-[Data](articles/694daedd.json)
 
 ---
